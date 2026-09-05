@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Christ’s Greatest Trophy
 
-Chapter XI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 “ *And one of the malefactors which were hanged railed on Him, saying, If Thou be Christ, save Thyself and us*.
 
@@ -204,7 +203,6 @@ And now let me say a few words in conclusion, and I have done.
 (4) This paper may fall into the hands of someone who is *mourning over departed believers*.—Are you such an one? Then take comfort from this Scripture. See how your beloved ones are in the best of hands. They cannot be better off. They never were so well in their lives as they are now. They are with Jesus, whom their souls loved on earth. Oh, cease from your selfish mourning I Rejoice rather that they are freed from trouble, and have entered into rest.
 
 (5) And this paper may fall into the hands of some *aged servant of Christ*. Are you such an one? Then see from these verses how near you are to home. Your salvation is nearer than when you first believed. A few more days of labour and sorrow, and the King of kings shall send for you; and in a moment your warfare shall be at end, and all shall be peace.
-
 
 ---
 [[Holiness 10 A Woman to Be Remembered|← A Woman to Be Remembered]] · [[Holiness|Holiness Contents]] · [[Holiness 12 The Ruler of the Waves|The Ruler of the Waves →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Silken Cords
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3005
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Idrew them with cords of a man, with bands of love." Hosea 11:4.
 
@@ -87,9 +84,9 @@ We have heard, in our church meetings, that on several occasions when, at the cl
 
 My dear Hearers, you whose face I look upon every Sabbath, and into whose ears this poor, dry voice has spoken so many hundreds of times, we do not wish to be parted. I know that to some of you, this is the very happiest, as well as the holiest spot you ever occupied. You love to be here. I am glad you do and I am glad to see you. I do not like to be separated from you. When any of you move to other towns, it gives me pain to miss your faces. I hope we shall not be separated in the world to come. My beloved Friends around me, who have been in Christ these many years, you also love them. We do not wish to be divided. I would like that all this ship's company should meet on the other side of the sea. I do not know one among you that I could spare. I would not like to miss any of you who sit yonder, nor any of you who sit near—neither the youngest nor the oldest of you. Well, but we cannot meet in Heaven unless we meet in Jesus Christ! We cannot meet father, mother, pastor and friends unless we have a good hope through Jesus Christ our Lord! Will not that band of love draw you? Mother, from the railings of Heaven, a little angel-child is looking down tonight, beckoning with his finger. He is looking out for you and he is saying, "Mother, follow your baby to Heaven." Father, your daughter charged you, as she died, to give your heart to Christ—and from her seat in Heaven her charge comes down to you with as great force as it came from her sick-bed, I trust, "Follow me, follow me to Heaven!" Friends who have gone before—godly ones who have fallen asleep in Jesus—in one chorus, say to you, "Come up here! Come up here for we, without you, cannot be made perfect." Will not this band of love draw you? Oh, will not this cord of a man lay hold upon you and bring you to the Savior's feet? The Lord grant that it may, but, as I have said, I can only show you the cords. It is God's work to pull them—and they will be pulled if the saints will join in earnest prayer, invoking a blessing upon sinners. The Lord grant it, for His love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-HOSEA 11; 14.
+## Hosea 11; 14
 
 Hosea 11:1. When Israel was a child, then I loved him, and called My son out of Egypt. God's love was very early love. He began with the nation of Israel when it was a mere handful of men in Egypt. There He multiplied them and, in due time, He called them out from among the heathen. God's love to some of us manifested itself at a very early period of our lives when we were yet children. It is among our most joyous memories that we have known the Lord from our youth up. Happy man, happy woman, of whom God can say, as He said concerning His ancient people, "When Israel was a child, then I loved him, and called My son out of Egypt."
 
@@ -156,7 +153,6 @@ Hosea 14:1. O Israel, return unto the LORD your God; for you have fallen by your
 8\. Ephraim shall say, What have I to do any more with idols "He will spontaneously purge himself from the evil things which he once loved. I shall not need to send the hammer to break his idols, but he shall say, out of the fullness of his own heart, 'What have I to do any more with idols?'"
 
 8, 9. Ihave heardhim, and observedhim: Iam like a green fir tree. From Me isyour fruit found. Who is wise, andhe should understand these things? Prudent, andhe shall know them? For the ways of the LORD are right and the just shall walk in them: but the transgressor shall fall therein. Yes, they shall fall even when they are in the right ways—and I know of no falling that is worse than for men to be in the ways of religion and yet to stumble and fall even there! For, if they fall there, where will they notfall?
-
 
 ---
 [[Sermon 3004 The Christian's Manifestation|← #3004]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3006 'The Lord Is My Shepherd'|#3006 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Faith's Sure Foundation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1429
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 18, 1878,.
+*Delivered on Lord's-Day Morning, August 18, 1878*
 
 > "He that believes on Him shall not be confounded." 1 Peter 2:6.
 
@@ -158,7 +157,6 @@ In the dear bosom of His lo ve
 They must forever rest."
 
 Amen and amen!
-
 
 ---
 [[Sermon 1428 The True Position of the Witness Within|← #1428]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1430 Refined, But Not With Silver|#1430 →]]

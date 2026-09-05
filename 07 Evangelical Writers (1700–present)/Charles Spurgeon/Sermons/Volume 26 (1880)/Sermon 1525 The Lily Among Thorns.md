@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Lily Among Thorns
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1525
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 29, 1880,.
+*Delivered on Lord's-Day Morning, February 29, 1880*
 
 > "As the lily among thorns, so is My love among the daughters." Song of Solomon 2:2.
 
@@ -178,7 +177,6 @@ The lily among thorns should rejoice that it is a lily and not a thorn—and whe
 Such holy work among ungodly people is the truest and best "FLOWER MISSION." They do well who give flowers to cheer the poor in their dreary habitations, but they do better, still, who are, themselves, flowers in the places where they live! Be lilies, my dear Brothers and Sisters—preach by your actions! Preach by your kindness and by your love! Do this and I feel quite sure that your influence will be a power for good. If the Holy Spirit helps all of you to stand among your associates as lilies among the thorns, the day will come when thorns will die out and lilies will spring up on every side! Then sin will be banished and Grace will abound!
 
 An Australian gentleman told me yesterday that in his colony the arum lily abounds as much as weeds do with us. When will this happen spiritually on our side of the globe? Ah, when? Blessed Lord, when will You remove the curse? When will You bring the better days? These are ill times when the thorns grow thicker and more sharp than ever— protect Your lilies, increase their number, preserve their snowy whiteness and delight Yourself in them for Jesus' sake, Amen.
-
 
 ---
 [[Sermon 1524 Your Personal Salvation|← #1524]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1526 The Fair Portrait of a Saint|#1526 →]]

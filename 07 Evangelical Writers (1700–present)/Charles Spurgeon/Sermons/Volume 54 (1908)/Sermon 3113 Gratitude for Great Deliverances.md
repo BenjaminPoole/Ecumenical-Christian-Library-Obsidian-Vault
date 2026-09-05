@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Gratitude for Great Deliverances
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3113
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For He has looked down from the height of His sanctuary; from Heaven did the LORD behold the earth, to hear the groaning of the prisoner, to loose those that are appointed to death; to declare the name of the LORD in Zion, and His praise in Jerusalem; when the people are gathered together, and the kingdoms, to serve the LORRD." Psalm 102:19-22.
 
@@ -95,7 +92,7 @@ Have you come to the end of yourself? Well, then, now you have come to the begin
 
 down! Your spider webs He will break! You think to spin them into silken robes, but He will strip you and He will slay you, for it is written, "I wound and I heal. I kill and I make alive." Blessed is the man who is wounded by God, for He will afterwards heal him! Blessed is the man who is slain by God in this sense, for He will make him alive! Blessed is the man who is empty, for God will fill him! That was the theme of the Virgin's song and let it be ours as I close my discourse—"He has filled the hungry with good things and the rich He has sent away empty. He has put down the mighty from their seats and exalted them of low degree." So may He do now, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM102.
+## Exposition by C. H. Spurgeon: Psalm 102
 
 Verses 1, 2. Hear my prayer, O LORD, and let my cry come unto You. Hide not Your face from me in the day when I am in trouble; incline Your ear unto me: in the day when I call, answer me speedily. Sincere suppliants are not content with praying for praying's sake. They desire to really reach the ear and heart of Jehovah. "Hear my prayer, O Lord, and let my cry come unto You." When prayer is intensified into a cry, then the heart is even more urgent to have audience of the Lord.
 
@@ -124,7 +121,6 @@ treat their pleas with contempt. He will incline His ears to hear, His heart to 
 24-27. I said, O my God, take me not away in the midst of my days: Your years are throughout all generations. Of old have You laid the foundations of the earth: and the heavens are the work of Your hands. They shall perish, but You shall endure: yes, all of them shall wax old like a garment; as a vesture shall You change them, and they shall be changed: but You are the same, and Your years shall have no end. God always lives on. No decay can happen to Him, nor destruction overtake Him. O my Soul, rejoice you in the Lord always, since He is always the same!
 
 28\. The children of Your servants shall continue, and their seed shall be established before You.
-
 
 ---
 [[Sermon 3112 A Sermon and a Reminiscence|← #3112]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3114 God's Providence|#3114 →]]

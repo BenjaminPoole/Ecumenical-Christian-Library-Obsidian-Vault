@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Truthfulness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1585
-
-DELIVERED BY.
 
 > "O Lord, are not Your eyes upon the truth?" Jeremiah 5:3.
 
@@ -134,7 +131,6 @@ not true and parents, sometimes, teach their children to be false by laughing at
 It is hard to get the last penny out of us and make us bankrupts in the court of Heaven and yet to this we must surely come. When we do wrong, do we not feel a tendency to think that it was not so very wrong in us? The same offense in anybody else is horrible and we go off to a neighbor to report what has been done—but in ourselves it is a venial error not worth a censure! We hold the scales of justice, as we think, with blind eyes, but we just wink a little beneath the handkerchief and spy out an excuse for ourselves. We must get away from all this false judging and yet we never shall unless the Holy Spirit—the Spirit of Truth and Light—shall create in us a new heart and a right spirit. He mast keep us true, too, or we shall go aside like a broken bone.
 
 This is the sum of the matter—we must come to God as poor, weak, helpless sinners! We must trust Christ to help us and look to the Divine Spirit to purge and cleanse us and make us truthful! And then all will be well. Let this, then, be our prayer—"Create in me a clean heart, O God; and renew a right spirit within me." The Lord grant His blessing to these words, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1584 The Heroic In Christianity|← #1584]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1586 Holy Longings|#1586 →]]

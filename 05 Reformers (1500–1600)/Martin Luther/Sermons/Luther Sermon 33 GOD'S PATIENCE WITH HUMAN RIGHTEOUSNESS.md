@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 33. GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS.
-
-### GOD’S PATIENCE WITH HUMAN RIGHTEOUSNESS.
 
 25\. Meantime, while we walk in the faith of his righteousness, he has patience with the poor, frail righteousness of this earthly life, which otherwise is but filth in his sight. He honors our human holiness by supporting and protecting it during the time we live on earth; just as we honor our corrupt, filthy bodies, adorning them with beautiful, costly garments and golden ornaments, and reposing them on cushions and beds of luxury. Though but stench and filth encased in flesh, they are honored above everything else on earth. For their sake are all things performed—the ordering and ruling, building and laboring; and God himself permits sun and moon to shine that they may receive light and heat, and everything to grow on earth for their benefit. What is the human body but a beautiful pyx containing that filthy, repulsive object of reverence, the digestive organs, which the body must always patiently carry about; yes, which we must even nourish and minister to, glad if only they perform their functions properly?
 

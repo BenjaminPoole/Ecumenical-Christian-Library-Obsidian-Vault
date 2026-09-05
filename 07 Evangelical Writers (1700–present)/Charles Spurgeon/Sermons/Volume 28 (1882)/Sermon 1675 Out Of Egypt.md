@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Out Of Egypt
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1675
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 20, 1882,.
+*Delivered on Lord's-Day Morning, August 20, 1882*
 
 > "When he arose, he took the young Child and His mother by night, and departed into Egypt: and was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the Prophet, saying, Out of Egypt have I called My Son." Matthew 2:14,15.
 
@@ -180,7 +179,6 @@ But we will take the text and conclude with it in a spiritual sense. All men are
 Perhaps you are in the dark, as the Egyptians were during the plague, or as when God turned the dark side of the pillar to Egypt. Ah, but if you are one of His—if you will but trust Jesus, which is the mark of being God's elect—out of darkness will God call you! Out of thick Egyptian night will He fetch you and your eyes shall be made glad with the light of the Gospel of Christ! Perhaps you dwell in the midst of superstition, for the Egyptians were horribly given to superstition—but yet out of that will God call His people! I look to see priests converted! I hope to see leaders of the Gospel found among men that were once steeped to the throat in superstition! Why not? "Out of Egypt have I called My Son."
 
 Where did Luther come from but from the monastery? And he preached the Word of God with thunder and lightning from Heaven—and God blessed it to the emancipation of nations! He will bring others of that kind—out of all sorts of ignorance and superstition He will fetch them to the praise of the Glory of His Grace! I feel encouraged to pray for those who appear to be hopeless! I feel as if I must cry to God, "Bring them out of Egypt, Lord, the worst, the vilest." You, here, that know what Egypt is and are in it, and know you are in it, oh, believe that the Emancipator has come! The Redeemer has appeared! With an offering of blood He has stood before God and given Egypt for a ransom, Ethiopia and Seba for you! Oh, that He might win those with power whom He has bought with price! And to Him be Glory, world without end. Amen.
-
 
 ---
 [[Sermon 1674 Brought Up from the Horrible Pit|← #1674]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1676 Despair Denounced and Grace Glorified|#1676 →]]

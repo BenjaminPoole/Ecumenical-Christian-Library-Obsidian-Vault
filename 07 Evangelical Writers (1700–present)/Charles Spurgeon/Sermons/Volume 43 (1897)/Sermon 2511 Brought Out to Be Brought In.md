@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Brought Out to Be Brought In
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2511
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He brought us out from there, that He might bring us in, to give us the land which He swore unto our fathers." Deuteronomy 6:23.
 
@@ -95,7 +92,7 @@ The important point for us to settle is—Has the Lord, indeed, brought us out? 
 
 God bless you all, dear Friends, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMYY 6.
+## Exposition by C. H. Spurgeon: Deuteronomyy 6
 
 Verse 1. Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that you might do them in the land where you go to possess it God's commandments are to be taught, but they are also to be practiced—"which the Lord your God commanded to teach you, that you might do them." And it is this doing of them that is the hard part of the work. It is not always easy to teach them—a man needs the Spirit of God if he is to teach them aright—but practice is harder than preaching. May God grant us Grace, whenever we hear His Word, to do it!
 
@@ -124,7 +121,6 @@ Verse 1. Now these are the commandments, the statutes, and the judgments, which 
 16-24. You shall not tempt the LORD your God, as you tempted Him in Massah. You shall diligently keep the commandments ofthe LORD your God, andHis testimonies, andHis statutes, which He has commanded you. Andyou shall do that which is right and good in the sight ofthe LORD: that it may be well with you, and that you may go in and possess the good land which the LORD swore unto your fathers, to cast out all your enemies from before you, as the LORD has spoken. And when your son asks you in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God has commanded you? Then you shall say unto your son, We were Pharaoh's bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand: and the LORD showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes: and He brought us out from there, that He might bring us in, to give us the land which He swore unto our fathers. And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that He might preserve us alive, as itis at this day. Oh, Friends, it will be well when our boys and girls ask us questions like this and when we can give such answers! The great lack of the age in which we live is obedience to God. "Modern thought" has flung off obedience to Divine Revelation—and even in matters relating to social morality, many men reject all idea of anything being commanded of God—they only judge by what appears to them to be either pleasurable or profitable. What is most needed just now is that we, ourselves, and those about us become really conscious of the greatness and Sovereignty of God—and yield ourselves to Him to do as He bids us, when He bids us, where He bids us—and in all things to seek to follow His commandments that He may "preserve us alive, as it is at this day."
 
 25\. Andit shall be our righteousness, if we observe to do all these commandments before the LORD our God, as He has commanded us. That would have been Israel's righteousness if the people had observed to do all these commandments before the Lord. But it was marred and spoiled by disobedience. We rejoice to know that we who believe in Jesus have a righteousness unto which Israel did not attain, for the Lord Jesus Christ, Himself, is our righteousness!
-
 
 ---
 [[Sermon 2510 Apart|← #2510]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2512 Hearing With Heed|#2512 →]]

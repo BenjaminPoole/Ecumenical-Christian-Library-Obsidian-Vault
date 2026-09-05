@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Sihon and Og, or Mercies in Detail
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1285
-
-DELIVERED BY.
 
 > "To Him which smote great kings: for His mercy endures fore ver: and slew famous kings: for His mercy endures forever: Sihon king of the Amorites: for His mercy endures forever: and Og the king of Bashan: for His mercy endures forever: and ga ve their land for a heritage: for His mercy endures forever: even a heritage unto Israel His servant: for His mercy endures forever." Psalm 136:17-22.
 
@@ -172,7 +169,6 @@ The returning Prodigal, trusting in Jesus Christ, shall find mercy. If you say, 
 And why should He not, even thus, enrich you with sanctifying Grace? May God in His rich mercy abundantly bless you, that you may sing His praise forever. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Numbers 2121-35; Deuteronomy 2:16-37,3:11. HYMNS FROM "OUR OWN HYMN BOOK"—136, 196.
-
 
 ---
 [[Sermon 1284 The Sealing of the Spirit|← #1284]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1286 A Weighty Charge|#1286 →]]

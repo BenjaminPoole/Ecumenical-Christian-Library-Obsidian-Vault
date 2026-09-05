@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 29. Decade 3, Sermon 5, Part 1
 
 IN the partition of God's laws, next after the moral law we placed the ceremonial law3: and therefore, since the moral law is already expounded, I have now next, by the help of God, to treat of the law of ceremonies. And, that I may not hide any thing from you, note this by the way: that some write Ceremonice, and some Cerimonice; which two words are used for ceremonies; considering that sundry men have sundry opinions touching the word, from whence it should come. For some (after the opinion of Servius Sulpitius) do think that they are called Ceremonice a carendo*. But Festus affirmeth, that5 ceremonies did first take their name of the town Caeres, or Caerete6. For Livy in his fifth book saith, that the relics7 of the Romans were kept by the towns-men of Caeres in the French wars, at what time the Frenchmen invaded Rome8. By which occasion it is likely that, for remembrance of the benefit, all the worship due to God, and all the holy rites or customs, were, according to the name of the town, usually called ceremonies. But from whencesoever the word is derived, we in this treatise use it for the holy deed of worshipping God, and the ecclesiastical rites of sacred religion.
@@ -29,8 +28,6 @@ Now ceremonies are holy rites belonging to the ministers ceremonies
 [7 Sacra Romanorum, Lat.]
 
 [8 — Sacra in plaustrum imposuit (L. Albinius), et Caere, quo iter sacerdotibus crat, pervexit. Lir. Lib. v. cap. 40.]
-
-126 THE THIRD DECADE. [sERM.
 
 observed according as they should be, the laws called ceremonial do exactly teach and precisely describe. Ceremonies therefore are the actions and rites, which the laws or rules, called ceremonial, do frame or appoint.
 
@@ -72,15 +69,13 @@ trine of piety and faith. For they were added to the first table, as a shore, or
 
 [« See Vol. I. pp. 335, 6.] [' Gal. iii. 24; pcedagogia, Lat.]
 
-128 THE THIRD DECADE. [SERM.
-
 teach the outward worship of the true God, which godly men do give unto him ; and by them were the Israelites drawn not only from strange gods, but from strange worships also, wherewith they were too much and too long inured and trained up in the land of Egypt ; to the end they should not have any occasion to receive or admit any strange kinds of worships, when they were furnished, and as it were wrapped in so exquisite sorts of curious ceremonies. This doth Moses in the twelfth of Deuteronomy make to be the cause why God appointed such busy ceremonies. Therefore ceremonies, and the use of ceremonies, are in the scripture expressly called The worship the worship of God. For with them it pleaseth God to be of God. , . , -i-ii i •!« • i • i • i worshipped; and with them he did retain his people m the true worshipping of him, and in the true religion and communion of one ecclesiastical body. For the church is severed and divided by the admitting or bringing in of new or strange ceremonies ; as it is evident in the states and dealings of Salomon and Jeroboam. Moreover the apostle Paul said; i cor. Tt. " Are not they which eat of the sacrifice partakers of the altar," and so consequently of the whole religion ? Furthermore, the chief or especial mysteries of Christ and his church were shadowed in ceremonies1, and were the sacraments of the Jewish people, wherewith the Lord would bind them unto him, put them in mind of his benefits, and lastly, keep the piety, obedience, and faith of his people in ure and exercise. And because the Lord did especially require faith and faithful obedience at the hands of his servants in the observing of ceremonies, therefore those ceremonies did not please but utterly displease his majesty, so oft as the people were ignorant of the meaning of the secret mysteries contained in those figurative shews; so oft, I say, as they were without faith, and observed only the outward actions or ceremonies, without inward zeal and touch of conscience. For the Lord when God in Jeremy crieth out and saith : "Heap up your burntwhen he misofferings with y our sacrifices, and eat the flesh : for when I liketh, cere- •
 
 [JM'VH 21 brought your fathers out of Egypt, I spoke no word unto
 
 •"^J them of burnt-offerings or sacrifices ; but this I commanded them, saying, Hearken unto and obey my voice, and I will
 
-[Exod.^xiix. be your God, and ye shall be my people." And yet, in ano- xv &c"]b' ^er place) we rea^ that ti16 offering of sacrifices, and that
+[Exod.^xiix. be your God, and ye shall be my people." And yet, in ano-xv &c"]b' ^er place) we rea^ that ti16 offering of sacrifices, and that
 
 [! velata abscondebantur, Lat. ; being veiled, were hidden.] external action of the people in worshipping God, was acceptable and of a sweet-smelling savour in the nose of the Lord. Now, whereupon riseth this diversity, I pray you, but upon the difference of the minds of them that worship the Lord ? For sacrifices pleased him, and the honour that was done unto him in simple obedience and faith alone did please him too : but that religion he did utterly mislike of, wherein he was worshipped with outward shews, and not with the faith and sincere obedience of the inward heart : in which sort we read that Cain did sin ; for God commanded not to sacrifice in that manner that Cain did.
 
@@ -96,7 +91,7 @@ But it is not amiss here particularly to examine and look
 
 [BULLINGER, u.] f 'he ies pro-
 
-THE THIRD DECADE.
+## The Third Decade
 
 The sum of the ceremonies.
 
@@ -117,8 +112,6 @@ The beginning of priesthood among the old people is derived or brought from the 
 [2 vel in legibus civilibus, Lat. : even in civil laws.] contended not about a trifle, but about a matter of very great Esau and weight. Whereupon, when the mother-virgin is said in Luke of*cain Ind to have borne the first-begotten son, let no man think that Christ the she was the mother of the second-begotten, or many sons tenmore. For in that Luke calleth Christ her first-begotten [Luke u. TO son, therein is noted his dignity and excellency. For to Christ our Lord doth belong the kingdom, priesthood, and inheritance : by whose bountiful liberality we are adopted to be his partners both in the kingdom, priesthood, and inheritance of life everlasting and all heavenly things.
 
 But to return to our purpose again. The dignity of priesthood, among the people of Israel, did of right belong to Reuben, because he was the first-begotten ; but he, by commitljG|nxUxting detestable incest, did lose his right. Next to him, there1Chron-v-10 fore, was Levi4, who also lost that dignity for the sin which [Gen. xxxiv. he committed in killing the men of Sychem traitorously, The Levites and profaning the sacrament of circumcision. But because Prieststhe tribe of Levi did behave itself manfully, not only in the bringing of the children of Israel out of Egypt, but also in punishing idolaters, I mean, the men that worshipped the golden calf ; therefore did they receive the office or dignity of priesthood in reward of their virtue, and at that time were the Levites chosen to the place of the first-begotten of all the seed of Israel. For thus we read : " And Moses said E*«»- «*uunto the Levites, Consecrate your hands unto the Lord this day, every man upon his son, and upon his brother; that there may a blessing be given you this day." And again : " And the Lord spake unto Moses, saying, Behold, I have ^"KJ.]"' taken the Levites from among the children of Israel for all that first openeth the matrice among the children of Israel ; and the Levites shall be mine ; because all the firstborn are mine : for the same day that I smote all the firstborn in the land of Egypt, I hallowed to myself all the firstborn in Israel." And so forth. By this it appeareth that the tribe of Levi was appointed to the priesthood in the church of Israel. Moreover this dignity, or ministry, was singularly confirmed to this tribe immediately upon the insurrection of Korah, Dathan, and Abiron, by the wonderful miracle that the Lord p This correction of the translator is perhaps not necessary. Builinger probably took Calvin's view. — Conf. Cahr. Comment, in loc.] [4 successit ergo Levi, Lat.]
-
-132 THE THIRD DECADE. [SERM.
 
 wrought upon Aaron's rod, which budded alone among the other eleven twigs, for a witness that God had appointed the tribe of Levi alone to the office and function of holy priesthood. And for that cause was the same rod put into the ark, and kept in the tabernacle, to the end that none other tribe should affect the priesthood at any time thereafter. All which is largely declared in the sixteenth and seventeenth chapters of the Book of Numbers. certain deNow there was among the Levites a certain order; there erees among . ° . in*
 
@@ -144,9 +137,9 @@ There are in number nine sorts of ceremonial garments4; yet some do reckon up bu
 
 [7 caligarum nostrarum, Lat. Slops : trowsers, Johnson. Homily (Oxf. ed. 1832, p. 285) Against excess of Apparel. But the corresponding word in the auth. ver. of Isai. iii. 20, there quoted, is "the ornaments of the legs."]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SKRII.
+## [Skrii
 
 The close fiock or cassock.
 
@@ -194,8 +187,6 @@ Now followeth the ephod of the high priest, which differThe breasteth much from 
 
 [13 The word which Luther's version has is leibrock.]
 
-136 THE THIRD DECADE. [SERM.
-
 the ancles1. Upon each shoulder he bare an onyx-stone, called schoham2; wherein were graven the names of the children of Israel: against the breast there was nothing woven in it, but a place was left void for the breast-lap of The breastjudgment. For the breast-lap of judgment, which is called men°t.JUC hosen, was the eighth ornament of their attire ; and it was a woven cloth made of gold, purple, and silk, about an handbreadth square, and double, and hemmed about on every side, because it should not ravel out. In that there was woven precious stones of a wonderful greatness (for the kind) and of a marvellous price ; which were placed so in four sundry rows, that every rank contained three stones ; in which, as in the onyx-stones, were graven the names of the children of Israel3. They glistered with a wonderful brightness; for no stones were set in the breast-lap but such as shone exceedingly. [Exod.xxviii. Whereby it seemeth that Urim and Thummim was nothing Thu'Eimim e^se ^u^ *nese rows °f precious stones : for Urim and Thummim signify light and perfectness; for, as these stones did give great light, so were they pure without all manner of spots. And they thought that the high priest did never say right in a matter of weight, nor, when he was asked, did utter truly the answers and oracles of God, but when the breast-lap of judgment did hang on his breast. Now this breast-lap of judgment was tied to the ephod, or the other breast-lap, by golden rings beneath ; and above, it hung down the shoulders by golden chains, that were fastened under the onyx-stones. This was the most precious and excellent part of the high priest's apparel. For it was the coffer of wisdom, and treasure of all law and knowledge, of equity and justice, from whence the Israelites did fetch, as it were, the determinate answers to such doubts as at any time they stuck upon : which is the cause (as it seemeth) that some have translated Urim and Thummim into the Greek ^Xwo-ts Kctl aXrjOeia4 ;
 
 f1 Joseph, ibid. § 6. and de Boll. Jud. Lib. v. cap. 6. § 7.]
@@ -206,7 +197,7 @@ f1 Joseph, ibid. § 6. and de Boll. Jud. Lib. v. cap. 6. § 7.]
 
 [4 Levit. viii. 8. LXX. tTTfdrjKev eVi ro Xoyeloi/ TT/V 8q\to(riP icai TTJV v. Hoc vero quid significabatur aliud, quam quod in pectore sacerdotis debet esse verum judicium de rebus divinis, quod deinde non sibi retineat, sed coram ecclesia proferat cum veritate ? — Bullinger. de Epic, instit. et funct. Lib. n. fol. 70.] that is (say they) doctrine and truth is in tho priest's breast.
 
-The last of all is the golden plate. For upon the high The golden priest's head there was a blue silk lace, whereupon this plate P ' was put, which was broad beneath and sharp above ; in fashion somewhat like to the label of a bishop's mitre ; wherein was written, " Holy to the Lord," or, "The holiness of the Lord." For Christ, our Lord, alone is holiest of all, and he that sanctifieth us all. He is an antichrist that doth usurp that name or title. Some think, that in that plate was written that name of God that was not lawful for any man to utter5. That name This plate was tied to the cap6, full upon the forehead, with a which where- soever the blue silk lace, and was as it were a crown upon his head7. Israelites did r find it writ-
+The last of all is the golden plate. For upon the high The golden priest's head there was a blue silk lace, whereupon this plate P ' was put, which was broad beneath and sharp above ; in fashion somewhat like to the label of a bishop's mitre ; wherein was written, " Holy to the Lord," or, "The holiness of the Lord." For Christ, our Lord, alone is holiest of all, and he that sanctifieth us all. He is an antichrist that doth usurp that name or title. Some think, that in that plate was written that name of God that was not lawful for any man to utter5. That name This plate was tied to the cap6, full upon the forehead, with a which where-soever the blue silk lace, and was as it were a crown upon his head7. Israelites did r find it writ-
 
 Thus, I say, were the high priest and under priests arrayed not'
 
@@ -226,8 +217,6 @@ Furthermore, those ceremonial clothes, used by the priests, The meaning Aaron's 
 
 [8 exhibent spectandum, Lat.]
 
-138 THE THIRD DECADE. [SERM.
-
 doth sanctify us, and endue us with virtue; but also because he hath certain properties peculiar to himself, as he that is both very God and the Saviour of the world. He beareth us upon his breast and shoulders, as Aaron did the precious stones1: for we are not vile, but very dear, in the sight of God. Out of the breast of our high priest, Christ, doth glister and shine the light of eternal wisdom : for in him, as it were in the treasury of God's eternal wisdom, are all the riches of knowledge and wisdom laid up and locked. He is the light of the world; he is both truth and perfectness; so that all the world should of right require and seek at Christ alone for laws, ordinances, answers, and whatsoever else is needful to perfectness and true happiness. He is the Holy of holies, the very majesty and holiness of God: upon his head is the crown of glory very rightly placed, as he that sanctifieth only, reigneth in glory, and liveth for evermore.
 
 Besides all this, the priests were by these ceremonies taught to understand, by their very apparel, what was required at their hands, and what kind of men they ought to be. Let the priests be always ready to the executing of their office; let them walk honestly before God and men; let them be temperate and far from lust and sensuality; let their loins be girded with the belt of justice and verity; let their breast, their sides, and back be furnished with the word of God; let their head be covered with the helmet of salvation; upon that let Christ Jesus, the Saviour, be placed; and let him be the chief of the ministers and of the ministry: but chiefly let the priest be heard in the church : for if he be dumb, he shall die the death; but if he ring out the name of the Lord, and preach his law, then doth he stir up in the church a savour, far passing the smell of sweet pomegranates, in the nose of God. Therefore under these clothes is hidden the signification of the priests' manners, of their virtues and vices. Next after a man's talk, there is nothing that doth commend him sooner than his apparel. For as the man is, such is his talk, such is his clothing: therefore the raiment doth note of what conversation the priest ought to be. Whereupon it cometh that in the scriptures we are bidden to put on other clothing; when the meaning of the Holy Ghost is,
@@ -241,8 +230,6 @@ The next point of their duty 3, after teaching, was to bless Let them the people
 [2 indicebant fastos, Lat.]
 
 [3 non minimum officiorum, Lat. : and that, not the least of their duties.]
-
-140 THE THIRD DECADE. [sERM.
 
 merciful unto thee; the Lord lift up his countenance upon thee, and give thee peace." This manner of blessing did they use undoubtedly in their holy assemblies, especially at the breaking up of the congregation, when the people did depart. In another place it is said, that God did bless; but here, that Aaron and his sons did bless the people : whereupon we have to note, that God doth work inwardly, and perform in the faithful, whatsoever the priests in that form of blessing did wish unto the people1; so that still to bless is the only and proper work of God alone. And therefore, very significantly, after that solemn blessing uttered by the mouth of the priest, God doth add: "And they shall call, or put, my name over, or upon the children of Israel; and I will bless them.-" The priests, therefore, do lay before the people the name of the Lord; they commend unto them the mighty power of his Godhead; and shew them that all goodness doth flow from God, teach2 them how they may obtain3 it through faith in Christ, who is the blessed Seed that blesseth all them that call upon his name.
 
@@ -272,7 +259,7 @@ Doorkeepers, the Levites. The trumpets also, wherewith the congregation was call
 
 The priests Beside this also the priests had yet another office ; that did judge be- ....
 
-cause was to iudge betwixt cause and cause, between clean and un- use. ** "
+cause was to iudge betwixt cause and cause, between clean and un-use. ** "
 
 clean : both which are more largely declared in the seventeenth of Deuteronomy, and in the thirteenth and fourteenth chapters of Leviticus. For as often as any difficult matter happened to rise among them, the hearing of it was brought to the mother city Hierusalem4 : and if any man were suspected to be a leper, the Levitical priests did judge of his disease according to the laws that were prescribed them. So hitherto I have summarily laid down the offices of priesthood among the old people, reckoning up only the especial parts belonging to their service.
 
@@ -294,8 +281,6 @@ And for because by law they could not sacrifice but in one The hoi/ place alone,
 
 Now that tabernacle, or tent, (being called the tabernacle
 
-144 THE THIRD DECADE.
-
 of appointment1, because the Lord appointed it both to give answers in, and to have his lawful worship duly accomplished in) was to the people instead of a temple, so long as they wandered and dwelt in the wilderness. For insomuch as they strayed forty years in the desert, it was not convenient for them to have a settled temple, but such an one as in their journeys they might carry to and fro, so oft as they removed. That tabernacle was erected in this order, and was in a manThe fashion ner of this form and fashion. First of all there were stuck ofthetaberm inf;o the earth, close by the ground, silver sockets to fasten in and set boards upon, to make a wall withal : under every plank, or board, were two sockets. For every board had two tenons, like pikes, whereby they were stuck into the sockets. The boards on either side of the tabernacle, north and south, were twenty in number : at the upper end, which was toward the west, were ten boards, or planks, all laid over with gold, and ten cubits high apiece. These, when they were set up, were stuck or fastened into the sockets : upon the back sides those boards had golden rings, through which were bars of sittim wood (which is thought to be white-
 
 1f-29'jxxv1' thorn) thrust ; partly, to join the boards close together, that they might be like a wall without chink or crevice ; and partly, to make them stand stedfast without wagging to and
@@ -316,13 +301,11 @@ Into the sanctum sanctorum no man did enter but the high priest only once in a y
 
 [BULLINGER, n.J part auttra-
 
-146 THE THIRD DECADE. [sERM.
-
 them might appear out of the sanctum sanctorum into the sanctum, but they were not seen without." The sanctum was open daily for the priests, that did by course supply the place
 
 The Latin of ministry before the Lord. In the sanctum, before the veil, dS?hysejuaJre was placed the golden table furnished with shew-bread, upon words of the the north side1 : right over against it, upon the south side2, was twenty-sixth .
 
-whfre^efind set the golden candlestick. Now in the midst, betwixt3 those twain, before the veil and the ark, did stand the golden altar, called the altar of incense, which was consecrated to the burning 's the of sweet perfumes. And in the atrium, not very far from the with, on the second veil of the sanctum, did appear the altar of burnt-offer- south side, . -ii-ii ii'i and caiieth it mgs ; and betwixt the altar and the veil was put the laver, van auttraO '
+whfre^efind set the golden candlestick. Now in the midst, betwixt3 those twain, before the veil and the ark, did stand the golden altar, called the altar of incense, which was consecrated to the burning 's the of sweet perfumes. And in the atrium, not very far from the with, on the second veil of the sanctum, did appear the altar of burnt-offer-south side, . -ii-ii ii'i and caiieth it mgs ; and betwixt the altar and the veil was put the laver, van auttraO '
 
 out of which the priests did wash themselves, when they began to go about their ministry. All the people, which came to the sacrifice, might easily on every side see to the altar. And of this sort was the holy tabernacle, which was to the Israelites instead of a temple : touching which he shall read more largely and fully, whosoever will look in the twenty-sixth, twenty-seventh, thirty-sixth, thirty-eighth, and fortieth chapters of Exodus.
 
@@ -340,8 +323,6 @@ Moreover in those ceremonies are contained the secret mysteries of Christ and hi
 
 10—2
 
-148 THE THIRD DECADE. [sERM.
-
 the way was opened into the sanctum sanctorum, that is, into the very heavens ; and that satisfaction was made for all men in respect of the law l. In the tabernacle also did hang other veils, which were as shadows of the flesh2 of Christ. Those veils did hang at the very entry into the sanctum and the atrium. Now Christ, our Lord, is the way and the door, by whose incarnation and death we have an entry made into the kingdom of God. Yea, Christ himself is our tabernacle, in whom we dwell and live, and in whom we worship and please our God : he is the curtain and ceiling, the rafter and ornament of his church : he is the trusty and most assured covering, that doth defend us from the injuries of man and the devil : he is the bar of the church, which joineth the members thereof together, and keepeth them in the unity of faith3 : he is the pillar and socket of his church ; he is the head4, and only all-in-all both of our life and true salvation. In those figures, therefore, they of old had the chief mysteries hidden of Christ and the church ; in which Christ is now no otherwise to be beheld, than he was in the beginning of the world beheld of the ancient patriarchs, to wit, very God and very man, the only and highest king and priest, the true Saviour of the world, in whom and by whom alone the faithful have their whole salvation. The history To proceed now : this tabernacle, by the Lord's appoint- oftheaikof . . „., . J
 
 God. ment, was erected m Silo, as soon as they came into the land of promise, and did continue there until the time of Heli; as is evident in the eighteenth of Josue, and first of Samuel, first and third chapters. Under Heli the ark was taken by the Philistines, and carried into Palestine9 ; from whence it was restored again, and placed in Bethsemes ; from thence again
@@ -358,8 +339,6 @@ In Sion did David pitch a new tabernacle for the ark of " God, wherein he did pl
 
 [7 vel excelso, Lat. ; or high place.]
 
-150 THE THIRD DECADE. [sERM.
-
 book of Chronicles we find : " And Salomon, with all the congregation, went to the high place that was at Gabaon ; for there was the tabernacle of G-od's appointment, which Moses the servant of the Lord made in the wilderness. But the ark of God had David brought from Kirjath-jearim into the place which David had prepared for it : for he had pitched a tent for it at Hierusalem. Moreover the brasen altar, that Bezaleel the son of Uri had made, was there before the tabernacle of the Lord : and Salomon and the congregation went to visit it." Therefore, whereas we read in the third chapter of the [i Kings m. third book of Kings, "Salomon loved the Lord, and walked in the ways of his father David ; only he sacrificed and burnt incense in the high places :" that is not spoken in the dispraise, but in the praise, of Salomon, as he that did not at adventures sacrifice in every place, but in the high places, to wit, upon that consecrated altar which was appointed of the Lord, whereof I spake even now before. Other there are which think that Salomon was not simply blamed in these words for offering upon the altar of burnt-offerings (for that was altogether lawful), but because he had till then deferred the building of the temple. But that which goeth before and followeth after do make greatly that those words were spoken in that sense and signification which I did first allege. The same Salomon, when the temple was builded, did command and see that the old ark, with all the instruments belonging thereunto, should be brought by the priests as a precious treasure from Gabaon, and placed in the temple which he had caused to be built for that purpose : the holy scripture bearing witness thereunto and saying ; " And they brought the ark of the Lord, and the tabernacle of appointment, and all the holy vessels that were in the tabernacle : the priests and Levites, I say, brought them into the temple" — the third [iKing.viii. of Kings, eighth chapter, and the second of Chronicles, fifth *•! chapter. And so was the tabernacle of the Lord, which stood four hundred and seventy eight1 years, abrogated at the last, and instead thereof the temple was erected.
 
 o^sOj'omcm'a Touching the temple of the Lord, which was prepared by
@@ -375,8 +354,6 @@ Jeroboam therefore and the kings of Israel did sin most xhesinor grievously, whe
 [8 quern sacrificia et templi et veterum omnia pnefigurarunt, Lat. :
 
 of whom all the sacrifices both of the temple and of the ancients were a type.]
-
-152 THE THIRD DECADE. [SEUM.
 
 the congregation, to offer his sacrifice before the dwelling-place of the Lord ; blood shall be imputed to that man, as if he had shed blood. Wherefore when the children of Israel bring their offerings, let them bring them to the Lord before the door of the tabernacle of appointment, unto the priest, that he may offer them. And let them no more offer their offerings to devils1, after whom they have gone a whoring. This shall be an ordinance to them for ever in their generations. And he that doth not this shall be rooted out from among his people." There are in these words three things to be noted: first, that it was not lawful to sacrifice but in that one place only, that was, before the altar of burnt-offerings : secondarily we have to mark, that that commandment was given, to the end that all men should understand that the sacrifice was made to God, to whom the tabernacle did belong : thirdly, that to offer sacrifice out of the place, against God's commandment, was to make sacrifice unto the devil ; that the offerer was to be judged as a murderer; and that he was excommunicated by the Lord God, as he that was excluded from the company of God and his holy saints2. But whereas Samuel, Helias, and certain other patriarchs, did, by God's sufferance, make sacrifices upon some especial causes in other places, and not before the altar in the tabernacle, they did it by dispensation. They therefore that sacrifice in high places, not to strange gods only, but even to the very true God, did sin first of all by disobedience : for God doth mislike, yea, he curseth, all the worship done unto him, which we ourselves do first invent without the warrantise of his word ; it is faithful obedience that pleaseth him best. Secondarily, they sinned by making a schism in the unity of the ecclesiastical body. Thirdly, for despising the mystery of Christ, that was to be offered in the mount of Golgotha; and for not referring the meaning of their sacrifices to Christ, the only truth of all their typical ceremonies. Lastly, they sinned by trusting in their sacrifices, as in well-wrought works, to justification, and by neglecting the worship of God, and changing it into trifles of their own inventions3.
 
@@ -395,8 +372,6 @@ Hanov. 1617.]
 [8 in cista Chananaica ac Romanensi indulgentiaria, Lat. ; in the
 
 Canaanitish and Romish indulgence-chest.]
-
-154 THE THIRD DECADE. [sERM.
 
 cedar, or rather white-thorn : for he took upon him flesh like to our sinful flesh; even the very flesh that we have in all points, saving that it was not sinful1. Out of this ark do the faithful fetch all good and necessary things for the use of their life and eternal salvation. For in the ark we read that there was laid the tables of the covenant, the pot of manna, and Aaron's rod that budded. For we heard that in Christ were hidden the jewels of the church. Christ is our wisdom, the word2 of the Father, the fulfilling of the law ; he is just himself, and our righteousness also. In Christ is the heavenly food : for he is the bread of life that came down from heaven, to the end that every one that eateth of it may t his live eternally. In Christ did the priesthood bud again : it seemed verily, at the death of Christ upon the cross, to have been cut down for growing any more ; but at his resurrection it budded again, and he took the everlasting priesthood, that never shall be ended : for even now, as he standeth at the right hand of the Father in heaven, he maketh intercession to him for us. Moreover the ark was compassed with a crown, because Christ our Lord is a king, which delivereth us his faithful servants from all evil, and maketh us the sons
 
@@ -418,9 +393,9 @@ Next to the adytum, or sanctum sanctorum, in the saneThe golden turn, did stand 
 
 [5 utpote confoederatum, Lat.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 [Lev. xxiv. 9. Matt. xii. 4-]
 
@@ -444,8 +419,6 @@ Now by incense, or perfume, is to be understood the prayers of the faithful ; as
 
 [n cannse in suprema parte habentes lumina, Lat. ; reed-like branches having lights at their extremities.] [ia repurgatos, Lat.] [is divi Baptistse, Lat.]
 
-158 THE THIRD DECADE.
-
 God, their Lord and heavenly Father. They therefore build many altars, which choose to themselves creatures to be their intercessors, by whose mediation they desire to obtain that which they lack at the hands of God. In the end of the thirtieth chapter it is expressly said : " Whosoever shall make like incense to that, to smell thereto, shall perish from among his people." Therefore through Christ alone the faithful church of Christ doth offer her prayers to God the Father. This altar, whereof we speak, was bound about with a crown of gold : for Christ, our Lord and altar, is a very king and priest, and weareth the crown of glory1. Now we must pray at morning and evening, that is, continually and very earnestly2. And we must always pray in and through the name of Christ. And Christ is he alone, through whom God hath been pleased with the prayers of them that have prayed in the morning, that is, at the beginning of the world ; and is at this day pleased with them that pray to him at evening, that is, in the end and these last days of the world. They therefore sinned most grievously against the Lord, that offered incense in the high places everywhere: for as they were rebellious and disobedient to God, preferring their own inventions before the laws of God, which they neglected ; so did they despise the mystery of Christ, the only mediator, in departing from that only altar.
 
 bJraf-Sre^ ^n *ke cour*;» or atrium, did stand another altar, which )ngs. -was called the brasen altar, or the altar of burnt-offerings, which is finely described in the twentyseventh of Exodus. Of this sort also there was but this one. For it was not lawful for any religious man to sacrifice in any other place, saving in the holy place where this altar was, unless it were by some singular dispensation. Therefore, when the Reubenites with their confederates had built an altar by the banks of Jordan, and the fame thereof was brought to the ears of the other tribes of Israel, they did all agree with one consent, [josh. xxii. that the crime was to be punished with open war. Whereby we may again gather the greatness of their fault, which, neglecting that altar, did offer sacrifice in the high places: of which I also spake before. Now that only and catholic
@@ -459,8 +432,6 @@ Beside these, there are also reckoned other instruments belonging to the taberna
 Now the same holy vessels, that were in the tabernacle, were in the temple also ; saving that in Salomon's temple there was a far more goodly shew and pomp than in the tabernacle : for none other cause, undoubtedly, but that the mysteries of Christ and of the church should increase every day more and more to the sight of the world. Christ, the true Salomon, and king of peace and tranquillity, the very eternal felicity itself, hath raised up in this world to himself a church, which stretcheth to the ends of the world ; of which the prophets have spoken very largely, Zachary especially, and the famous prophet Nathan, second of Samuel, chapter seven. Thus much hitherto of the holy place.
 
 After the holy place in the sacred ceremonies, the next to be handled is the holy time. For as to the outward reliume!10
-
-160 THE THIRD DECADE. [SERM.
 
 gion a certain place was given, so to the same also an appointed time was assigned. And holy days are to be employed upon holy actions. For actions are either those which we call handy works1, invented for to get victuals, clothing, and other things necessary for the use of our bodies ; or else they are holy or religious, which are done for the exercise of outward religion. We must not consume all our time in handy works and profane business ; neither can we bestow all times upon outward religion. But those actions are not without time : for every action is contained in time. Therefore God hath divided the time into sundry parts for sundry actions : so that he will have some working days, to serve for handy actions ; and other holy days, for the exercise of outward religion. Not that the working days are not holy and dedicated to the Lord, (for he doth challenge all days and times to himself, and will at all seasons be worshipped in heart ;) but for because the holy days are singularly, and, as it were, more precisely, consecrated to the outward worship of God, than the working days are. what an holy Therefore the festival or holy day, which by God's appointment is holy to the Lord, was kept for the devout exercising of God's outward worship. Therefore those days are not holy, nor those feasts lawful, which are not held to the one and only God, Jehovah : neither are those holy days lawful, in which the lawful service of God is not lawfully exercised. And for those causes the sabbaths and festival-days of the Israelites are in the prophets many times rejected, because they were unlawfully solemnized, without pure faith and sincere affections.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Final Perseverance of the Saints
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1361
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 24, 1877,.
+*Delivered on Lord's-Day Morning, June 24, 1877*
 
 > "The righteous, also, shall hold on his way." Job 17:9.
 
@@ -152,7 +151,6 @@ I desired to maintain an unsullied character and when I heard that if I gave my 
 That which charmed me in my boyhood is even more attractive to me in middle life! I am happy to preach to you a sure and everlasting salvation! I feel that I have something to bring before you, this morning, which is worthy of every sinner's eager acceptance. I have neither an, "if," nor a, "but," with which to dilute the pure Gospel of my message! Here it is—"He that believes and is baptized shall be saved." I dropped a piece of ice upon the floor yesterday and I said to one who was in the room, "Is not that a diamond?" "Ah," he said, "you would not leave it on the floor, I guarantee you, if it were a diamond of that size."
 
 Now I have a diamond here—eternal life, everlasting life! I pray you will be in haste to take it up at once, to be saved now, to be saved in living, to be saved in dying, to be saved in rising again, forever and ever, by the eternal power and infinite love of God! Is not this worth having? Grasp at it, poor Soul! You may have it if you but believe in Jesus Christ, or, in other words, trust your soul with Him. Deposit your eternal destiny in this Divine bank—then you can say—"I know whom I have believed and I am persuaded that He is able to keep that which I have committed to Him against that day." The Lord bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1360 The Good Samaritan|← #1360]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1362 Mourning For Christ|#1362 →]]

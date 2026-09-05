@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # "Clear Shining After Rain"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2284
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As the tender grass springing out of the earth by clear shining after rain." 2 Samuel 23:4.
 
@@ -107,7 +104,7 @@ I saw, the other day, an old man who had passed his 91st year, and though he loo
 
 after the rain is over and gone! Go through it! Never be afraid of all the drenching you may get on your way to Glory. Get Home as quickly as you can along the good old road, for, after the rain comes the clear shining. Be this the motto of each one of you from this sweet Sabbath evening hour, "Clear shining after rain." God bless you all! Amen.
 
-EXPOSITION BY C. H. SPURGEON PSALM32.
+## Exposition by C. H. Spurgeon Psalm 32
 
 A Psalm of David. You can see David all through this Psalm. Here we have David's sin, David's confession of sin, David's pardon. It is a Psalm of David! Oh, that we might, each one, make it our own! It is entitled—Maschil. This is an instructive Psalm. The experience of one man is instructive to another. We learn the way in which we should walk and sometimes the way in which we should not walk, by observing the footsteps of the flock. The Psalm begins with a blessing.
 
@@ -148,7 +145,6 @@ Let me hide myself in Thee."
 10\. But he that trusts in the LORD, mercy shall compass him about. He always needs mercy, for he is still a sinner. He shall always have mercy—for his Savior still lives! "Mercy shall compass him about."
 
 11\. Be glad in the LORD, and rejoice, you righteous: and shout for joy, all you that are upright in heart. Be demonstrative! Let men see that you are happy! "Shout for joy, all you that are upright in heart." The Psalm is a joyful one, after all. David's experience has taken him through a deep sense of his own sin, but it has brought him out into an elevated sense of God's mercy! So he closes the Psalm with the jubilant exhortation, "Shout for joy, all you that are upright in heart." So let us do this night and forever! Amen.
-
 
 ---
 [[Sermon 2283 Christ's One Sacrifice for Sin|← #2283]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2285 Paul, the Ready|#2285 →]]

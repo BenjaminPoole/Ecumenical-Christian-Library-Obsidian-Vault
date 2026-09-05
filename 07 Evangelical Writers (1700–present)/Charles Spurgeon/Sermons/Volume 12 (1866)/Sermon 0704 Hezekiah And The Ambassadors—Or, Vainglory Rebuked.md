@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Hezekiah And The Ambassadors—Or, Vainglory Rebuked
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 704
 
-DELIVERED ON SUNDAY MORNING, AUGUST 5, 1866,.
+*Delivered on Sunday Morning, August 5, 1866*
 
 > "At that time Berodach-Baladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah, for he heard that Hezekiah had been sick. And Hezekiah was attentive to them, and showed them all the house of his treasures; the silver and gold, and the spices and precious ointment, and all his armory; all that was found among his treasures. There was nothingin his house or all his dominion that Hezekiah did not show them." 2 Kings 20:12,13.
 
@@ -148,7 +147,6 @@ Bow yourself, then, Christian, and if you are not conscious of any particular pr
 Lastly, let us cry to God never to leave us. "Lord, take not Your Holy Spirit from us! Withdraw not from us Your restraining Grace! Have You not said, 'I, the Lord will keep it, I will water it every moment, lest any hurt it, I will keep it night and day'? Lord, keep me everywhere! Keep me in the valley, that I murmur not of my low estate! Keep me on the mountain, that I wax not giddy through pride at my being lifted up so high! Keep me in my youth, when my passions are strong! Keep me in my old age, when I am conceited of my wisdom, and may therefore be a greater fool than even the young! Keep me when I come to die, lest at the very last I should deny You! Keep me living, keep me dying, keep me laboring, keep me suffering, keep me fighting, keep me resting, keep me everywhere, for everywhere I need You, O my God."
 
 The Lord keep us looking unto Jesus, and resting alone upon His finished work. If we have never trusted Christ at all, may the Lord bring us to rest upon His dear Son now! O Sinner! There is but one door of hope for you, and it is open! Trust Jesus and live!
-
 
 ---
 [[Sermon 0703 Salvation Altogether By Grace|← #703]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0705 The Voice Of Cholera|#705 →]]

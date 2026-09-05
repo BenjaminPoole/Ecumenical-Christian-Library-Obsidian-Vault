@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Our Lord in the Valley of Humiliation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2281
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And being found in fashion as a Mian, He humbled Himself, and became obedient unto death, even the death of the Cross." Philippians 2:8.
 
@@ -105,7 +102,7 @@ And strength to strength oppose." Do you not grow indignant, sometimes, when you
 
 The Lord help you to honor Him who humbled Himself, who became obedient unto death, even the death of the Cross! May He accept these humble words of mine and bless them to His people, and make them to be the means of leading some poor sinner to come and trust in Him! Amen.
 
-EXPOSITION BY C. H. SPURGEON PHILIPPIANS 2:1-18.
+## Exposition by C. H. Spurgeon Philippians 2:1-18
 
 Verses 1, 2. If there is, therefore, any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any heart and mercies, fulfill you my joy, that you be like-minded, having the same love, being of one accord, of one mind. Paul did not mean to doubt that there is "any consolation in Christ, any comfort of love, any fellowship of the Spirit, any heart and mercies," for no one knew better than he did how those blessings abound to them that are in Christ Jesus. He put it by way of argument. If there is consolation in Christ, since there is consolation in Christ, since there is comfort of love, since there is fellowship of the Spirit, be one in Christ. Be not divided. Love one another—"be like-minded, having the same love, being of one accord, of one mind."
 
@@ -150,7 +147,6 @@ charge you, Brothers and Sisters, to think of what your life-work has been. Will
 17\. Yes, and if I am offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. If he might be poured forth as a drink-offering on their behalf, or offered up as a whole burnt-offering in the service of the Savior, he would be glad. He could not bear to have lived in vain—but to spend his life for the glory of his Lord would always be a joy to him.
 
 18\. For the same cause also do you joy, and rejoice with me. To live and to die for Jesus Christ with the blessing of the Father resting upon us—this is a matter for us to joy in unitedly and continually. God help us so to do!
-
 
 ---
 [[Sermon 2280 God's Handwriting Upon David|← #2280]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2282 David's Prayer in the Cave|#2282 →]]

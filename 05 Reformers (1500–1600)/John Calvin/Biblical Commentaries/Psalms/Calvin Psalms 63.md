@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 63
-
-**PSALM 63**
 
 The following psalm cannot so properly be said to consist of prayers as of a variety of pious meditations, which comforted the mind of David under dangers, anxieties, and troubles of a severe description. It contains the vows too which he made to God in the distress occasioned by the alarming circumstances in which he was placed.
 

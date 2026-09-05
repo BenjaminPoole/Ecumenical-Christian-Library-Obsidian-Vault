@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 23
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**ACQUIRING PERSEVERANCE**
+## **Acquiring Perseverance**
 
 > The Lord thy God will put out those nations before thee by little and little" Deut. 7:22
 
@@ -25,7 +24,6 @@ Our business in this world is to conquer it for Jesus. We are not to make compro
 The Lord our God can alone accomplish this. He works by His faithful servants; and, blessed be His name, He promises that He will so work. "Jehovah thy God will put out those nations before thee." This He will do by degrees, that we may learn perseverance, may increase in faith, may earnestly watch, and may avoid carnal security. Let us thank God for a little success, and pray for more. Let us never sheathe the sword till the whole land is won for Jesus.
 
 Courage, my heart! Go on little by little, for many littles will make a great whole.
-
 
 ---
 [[FCB November 22|← November 22]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 24|November 24 →]]

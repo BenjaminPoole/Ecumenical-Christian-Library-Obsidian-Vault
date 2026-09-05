@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Fourth Beatitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3157
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed are they who hunger and thirst after righteousness: for they shall be filled." Matthew 5:6.
 
@@ -81,7 +78,7 @@ Would you like to be up there in the day when the Prince of Truth and Right shal
 
 As I close my discourse, I pronounce over all of you who are trusting in Jesus the fourth benediction spoken by Christ on the Mount of Beatitude, "Blessed are they who hunger and thirst after righteousness: for they shall be filled." Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:43-48; 6:1-4.
+## Exposition by C. H. Spurgeon: Matthew 5:43-48; 6:1-4
 
 Matthew 5:43. You have heard that it has been said, You shall love your neighbor, and hate your enemy. In this case a command of Scripture had a human antithesis fitted on to it by depraved minds—and this human addition was mischievous. This is a common method—to append to the teaching of Scripture a something which seems to grow out of it, or to be a natural inference from it—which something may be false and wicked. This is a sad crime against the Word
 
@@ -106,7 +103,6 @@ Matthew 6:1. Take heed that you do not do your charitable deeds before men, to b
 3\. But when you do charitable deeds, let not your left hand know what your right hand does. "Do it so by stealth as scarcely to know it yourself—think so little of it with regard to yourself that you shall scarcely know that you have done it. Do it unto God—let Him know it."
 
 4\. That your charitable deeds may be in secret: and your Father which sees in secret, Himself, shall reward you openly. There is a blessed emphasis upon that word, "Himself," for if God shall reward us, what a reward it will be! Any praise from His lips, any reward from His hands will be of priceless value! Oh, to live with an eye to that alone!
-
 
 ---
 [[Sermon 3156 The First Beatitude|← #3156]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3158 The Fifth Beatitude|#3158 →]]

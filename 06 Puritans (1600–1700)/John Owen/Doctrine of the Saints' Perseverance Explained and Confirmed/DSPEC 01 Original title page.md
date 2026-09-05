@@ -9,12 +9,11 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Original title page
 
-*THE*
+**The**
 
-DOCTRINE OF THE
+## Doctrine of The
 
 SAINTS PERSEVERANCE,
 
@@ -24,13 +23,13 @@ OR,
 
 The certain Permanency of their 1. Acceptation with GOD, & 2. Sanctification from GOD.
 
-*MANIFESTED & PROVED*
+## *Manifested & Proved*
 
-FROM
+## From
 
 The 1. ETERNALL PRINCIPLES 2. EFFECTUALL CAUSES 3. EXTERNALL MEANES Thereof.
 
-IN,
+## In
 
 1\. THE IMMUTABILITY of the 1. Nature 2. Decrees 3. Covenant *and* 4. Promiſes Of GOD.
 
@@ -42,7 +41,7 @@ Improved in its Genuine Tendency to Obedience
 
 *and Conſolation*.
 
-AND VINDICATED
+## And Vindicated
 
 In a Full Anſwer to the Diſcourſe of M^r JOHN GOODWIN againſt it, in his Book Entituled *Redemption Redeemed*.
 
@@ -50,18 +49,15 @@ With ſome DIGRESSIONS Concerning
 
 1\. The Immediate effects of the Death of Chriſt. 2. Perſonall Indwelling of the Spirit. 3. Union with Chriſt. 4. Nature of Goſpell promiſes, &c.
 
-ALSO A PREFACE
+## Also a Preface
 
 Manifeſting the Judgement of the Antients concerning the Truth contended for: with a Diſcourſe touching the Epiſtles of IGNATIUS; The EPISCOPACY in them Aſſerted; and ſome Animadverſions on Dr H: H: his *Diſſertations* on that Subject.
 
 By JOHN OWEN Servant of Jeſus Chriſt in the Worke of the Goſpell.
 
-OXFORD,
-
 Printed by LEON. LICHFIELD Printer to the Univerſity, for *Tho. Robinſon*.
 
 Anno Dom: 1654.
-
 
 ---
 [[Doctrine of the Saints' Perseverance Explained and Confirmed|Contents]] · [[DSPEC 02 Prefatory note|Prefatory note →]]

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 13
 
-**CHAPTER 13.**
+***Chapter 13.***
 
 ## Genesis 13:1-20
 

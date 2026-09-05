@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Forward! Forward! Forward!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 548
 
-DELIVERED ON SUNDAY EVENING, OCTOBER 18, 1863,.
+*Delivered on Sunday Evening, October 18, 1863*
 
 > "And the Lord said unto Moses, Why cry you unto Me? Speak unto the children of Israel, that they go forward." Exodus 14:15.
 
@@ -140,7 +139,6 @@ But if with such appliances—with such preaching of the Gospel and helped so ma
 Dear Friends, if you are not in earnest about this, I am. Oh, we must not let this opportunity pass! There is much which you can do. I want you to help the heathen world, but I want you to begin with caring for this great heathen world of London. And if you can do nothing else, at least give us your prayers.
 
 VI. I have done when I shall say that soon you and I will stand on the brink of Jordan's river. The deep sea of death will roll before us. Trusting in Jesus, washed in His blood, hoping in His mercy we shall not fear the last solemn hour. We shall hear the angel say, "Forward!" We shall touch the chilly stream with our feet, the flood shall fly, and we shall go through the stream dry-shod. If the flood gathers and the Jordan overflows its banks, still the Divine watchword, "Forward!" shall speed us on and we will enter Heaven's gates among the blood-washed throng and sing unto Him who has enabled us to triumph gloriously in obedience to that command, "Forward! Forward!" God help you to go forward and unto Him be praise forever and ever. Amen.
-
 
 ---
 [[Sermon 0547 Suffering And Reigning With Jesus|← #547]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0549 A Desperate Case—How to Meet It|#549 →]]

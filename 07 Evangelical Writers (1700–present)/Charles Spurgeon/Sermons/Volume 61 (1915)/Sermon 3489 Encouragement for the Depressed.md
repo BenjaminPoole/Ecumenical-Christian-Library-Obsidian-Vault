@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Encouragement for the Depressed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3489
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For who has despised the day of small things?" Zechariah 4:10.
 
@@ -25,7 +22,7 @@ ZECHARIAH was engaged in the building of the Temple. When its foundations were l
 
 Now we shall use this question at this time for the comfort of two sorts of people—first, for weakBelieversand, secondly, for feeble workers. Our objective shall be the strengthening of the hands that hang down and the confirming of the feeble knees. We will begin, first of all, with—
 
-I. WEAK BELIEVERS.
+## I. Weak Believers
 
 Let us describe them. It is with them a day of small things. Probably you have only been lately brought into the family of God. A few months ago you were a stranger to the Divine Life and to the things of God. You have been born-again and you have the weakness of an infant. You are not as strong, yet, as you will be when you have grown in Grace and in the knowledge of our Lord and Savior Jesus Christ. It is the early day with you and it is also the day of small things. Now your knowledge is small. My dear Brothers and Sisters, you have not been a Bible student long—thank God that you know yourself a sinner and Christ is your Savior! That is precious knowledge, but you feel now what you once would not have confessed—your own ignorance of the things of God! Especially do the deep things of God trouble you. There are some Doctrines that appear to be mysterious, that are very simple to other Believers, but are depressing to you. They are high—you cannot attain to them. They are to you what hard nuts would be to children whose teeth have not yet appeared. Well, be not at all alarmed about this! All in God's family have once been children! There are some that seem to be born with knowledge—Christians that come to a height in Christ very rapidly. But these are only here and there. Israel did not produce a Samson every day. Most have to go through a long period of spiritual infancy and youth. And, alas, there are but few in the Church, even now, who might be called fathers! Do not marvel, therefore, if you are somewhat small in your knowledge.
 
@@ -67,7 +64,7 @@ And now let us run over a thought or two about these small things in weak Believ
 
 One word and I leave this point. You Christians, don't despise anybody, but especially do not despise any in whom you see even a little love to Christ. But do more—look after them, look after the little ones! I think I have heard of a shepherd who had a remarkably fine flock of sheep—and he had a secret about them. He was often asked how it was that his flocks seemed so much to excel all others. At last he told the secret—"I give my principal attention to the lambs." Now you elders of the church, and you, my matronly Sisters, you that know the Lord, and have known Him for years, look up the lambs! Search them out and take a special care of them! For if they are well nurtured in their early days, they will get a strength of spiritual constitution that will make them the joy of the Good Shepherd during the rest of their days! Now I leave that point. In the second place, I said that I would address a word or two to—
 
-II. FEEBLE WORKERS.
+## II. Feeble Workers
 
 Thank God there are many workers here tonight, and maybe they will put themselves down as feeble. May the words I utter be an encouragement to them, and to feeble workers collectively! When a Church begins, it is usually small and the day of small things is a time of considerable anxiety and fear. I may be addressing some who are members of a newly-organized Church. Dear Brothers and Sisters, do not despise the day of small things! Rest assured that God does not save by numbers, and that results are not in the Spiritual Kingdom in proportion to numbers! I have been reading lately with considerable care, the life of John Wesley by two or three different authors in order to get, as well as I could, a fair idea of the good man. And one thing I have noticed—that the beginnings of the work which has become so wonderfully large were very small, indeed. Mr. Wesley and his first brethren were not rich people. Nearly all that joined him were poor. Here and there, there was a person of some standing, but the Methodists were the poor of the land. And his first preachers were not men of education. One or two were so, but the most were good outdoor preachers—head preachers, magnificent preachers as God made them by His Spirit—they were not men who had had the benefit of college training, or who were remarkable for ability. The Methodists had neither money nor eminent men, at first, and their numbers were very few. During the whole life of that good man, which was protracted for so many years, the denomination did not attain any very remarkable size. They were few, and apparently feeble, but Methodism was never so glorious as it was at first— and there were never as many conversions, I believe, as in those early days.
 
@@ -79,7 +76,7 @@ Oh, you don't know—you that have to deal with children—what you may do! Desp
 
 The Lord encourage weak Believers, and the Lord accept the efforts of feeble workers, and send to both His richest benediction for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ZECHARIAH 7; 8:9-22.
+## Exposition by C. H. Spurgeon: Zechariah 7; 8:9-22
 
 Verse 1. Andit came topass in the fourth year ofKKing Darius, that the Word ofthe LORD came unto Zechariah in the fourth day ofthe ninth month, even in Chisleu. God's Prophets were not always in the spirit, and when the Word of God came to them, it was a notable day, and they marked it in their diary! I think that we, too, who are not Prophets can remember some special time when God's Word was peculiarly precious to us. We can put down "the fourth day of the ninth month."
 
@@ -122,7 +119,6 @@ Verses 9, 10. Thus says the LORD ofHosts: Let your hands be strong, you that hea
 20\. 21. Thus says the LORD ofHosts, It shall yet come to pass, that there shall come people, and the inhabitants of many cities. And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD ofHosts: I will go also. It is a fine thing when we invite other people and can always say, "I will go also." There are many people who say, "Do as I do, not as I say!" But if our example keeps pace with our precept, there will be power in our precept. "Let us go," they said—and he that said it added, "I will go also."
 
 22\. Yes, many people andstrong nations shall come to seek the LORD ofHosts in Jerusalem, and to pray before the LORD.And it is so, even now. We have received our religion from a Jew. We believe in One who was of the seed of Abraham. We rejoice in Him as also the Son of God, and many nations come crowding about the Christ of God.
-
 
 ---
 [[Sermon 3488 Justification, Propitiation, Declaration|← #3488]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3490 Sincere Seekers—assured Finders|#3490 →]]

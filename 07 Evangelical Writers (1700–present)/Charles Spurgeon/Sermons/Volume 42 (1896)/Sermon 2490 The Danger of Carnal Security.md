@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Danger of Carnal Security
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2490
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the five men departed, and came to Laish, and saw the people that were there, how they dwelt carelessly, after the manner of the Sidonians, quiet and secure; and there was no magistrate in the land, that might put them to shame in anything; and they were far from the Sidonians, and hadno business with any man...And they took the things which Micah had made, and the price at which he had, and came to Laish, to a people that were quiet and secure: and they smote them with the edge of the sword, and burned the city with fire. And there was no deliverer, because it was far from Sidon, and they hadno business with any man." Judges 18:7,27,28.
 
@@ -89,7 +86,7 @@ Then there came back upon these people of Laish, in their death agony, the fact 
 
 Then listen to this Word of Grace which has the message of salvation in it—"Look and live." Jesus died upon the Cross that whoever believes in Him should not perish, but should have everlasting life. He is lifted up before you, now, that you who have been bitten by the fiery serpent of sin may look to Him, as Israel in the wilderness looked to the brazen serpent—and in that looking, you may be healed. As I shall meet you in that Day of Days for which all other days were made. As I shall make one of the vast throng that will be gathered before the Judgment Seat of Christ, I pray you, bear witness to me, in that day, that I have spoken honestly and faithfully and fearlessly—certainly in no smooth and flattering terms—to every one of you! And if you perish I shall be clear of your blood in that great day. If you will not have Christ and will be damned, you must. But it shall not be without my crying to you, "Turn you, turn you, for why will you die?" "Turn you, turn you," says the Lord God, Himself! Turn them, O Lord, by Your Grace, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1TTHESSALONIANS 4:13-18; 5.
+## Exposition by C. H. Spurgeon: 1tthessalonians 4:13-18; 5
 
 1 Thessalonians 4:13. But I would not have you to be ignorant, brethren, concerning them which are asleep, that you sorrow not, even as others which have no hope. You cannot help sorrowing, for you miss your dear ones so much. But you do not sorrow like the heathen who believe their departed friends to be extinct and annihilated. You have a glorious hope concerning those who have fallen asleep in Christ—you believe that they still live and that, by-and-by, their bodies will rise again!
 
@@ -118,7 +115,6 @@ EXPOSITION BY C. H. SPURGEON: 1TTHESSALONIANS 4:13-18; 5.
 14-26. Now, we exhort you, brethren, warn them that are unruly, comfort the feeble-minded, support the weak, be patient toward all men. See that none render evil for evil to any man, but always folow that which is good, both among yourselves and to all men. Rejoice evermore. Pray without ceasing. In everything give thanks: for this is the will of God in Christ Jesus concerning you. Quench not the Spirit Despise not prophesying. Prove all things; hold fast that which is good. Abstain from all appearance of evil. And the very God of peace sanctify you wholly, and I pray God your whole spirit and soul and body be preserved blameless to the coming of our Lord Jesus Christ. Faithful is He that calls you, who also will do it Brethren, pray for us. Greet all the brethren with an holy kiss. That was the Oriental manner of greeting and it means to us, "Greet all the brethren with a hearty shake of the hand." Such tokens of fellowship ought never to be forgotten among the followers of Christ.
 
 27, 28. I charge you by the Lord that this Epistle be read to all the holy brethren. The Grace of our Lord Jesus Christ be with you. Amen.
-
 
 ---
 [[Sermon 2489 Singing Saints|← #2489]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2491 Shame Leading to Salvation|#2491 →]]

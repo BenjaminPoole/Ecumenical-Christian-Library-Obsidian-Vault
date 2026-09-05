@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Christ-Given Rest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2298
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will give you rest." Matthew 11:28.
 
@@ -121,7 +118,7 @@ I wish that it were possible for me to make every child of God, here, quite rest
 
 God grant to us that perfect peace! If any of you do not know anything about it, I wish that you did—but there it stands in the text, just as Christ said it, "Come unto Me, all you that labor and are heavy laden, and I will give you rest." God help you to come and take the rest that Jesus gives! Amen.
 
-EXPOSITION BY C. H. SPURGEON. COLOSSIANS 2:6-17.
+## Exposition by C. H. Spurgeon. Colossians 2:6-17
 
 Verse 6. As you have therefore received Christ Jesus the Lord, so walk you in Him Do not go away from Him. You have received Him—stay with Him. Whatever He was to you at first, let Him be that to you to the very last. Do not begin with Christ and then go back to self—let it be all Christ from first to last.
 
@@ -152,7 +149,6 @@ Verse 6. As you have therefore received Christ Jesus the Lord, so walk you in Hi
 Mind that you have the Substance, for then you can let the shadows go! May God bless to us all this brief reading of
 
 His Word!
-
 
 ---
 [[Sermon 2297 Sealed and Open Evidences|← #2297]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2299 Thorns and Thistles|#2299 →]]

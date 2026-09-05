@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Sermon on a Grand Old Text
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3089
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is a faithful saying and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief." 1 Timothy 1:15.
 
@@ -95,7 +92,7 @@ But are you compelled to answer, "No, I do not think that Christ has saved me"? 
 
 go up and down those steps. "No," you say, "I am not quite as foolish as that." But, indeed, if you are trying to be saved by your own works, you are quite as foolish! You make a Pilate's staircase for yourself and toil up and down its steps. "Oh but, Sir," you say, "I must be something, I must feel something." Yes, yes, it is that staircase again, always that staircase! Now the Gospel is not that staircase, nor yet your feelings, nor yet your works—its voice is, "He that believes on Him is not condemned." "Believe on the Lord Jesus Christ and you shall be saved!" You smile at the folly of Romanists and yet Popery, in some form or other, is the natural religion of every unconverted man! We all want to do the crawling and penance in some shape or another. We are so proud that we will not accept Heaven for nothing. We want to pay, or do something or other, forgetting that, "if a man would give all the substance of his house for love, it would utterly be contemned." The one only plan of salvation is "Believe and live"—trust, rest, depend upon, rely upon Jesus!
 
-EXPOSITION BY C. H. SPURGEON: 2 CHRONICLES 33:1-19.
+## Exposition by C. H. Spurgeon: 2 Chronicles 33:1-19
 
 Verses 1, 2. Manasseh [Manasseh is the subject of the following sermons by Mr. Spurgeon—#105, Volume 2—MANASSEH; #2378, Volume 40—PARDON FOR THE GREATEST GUILT and #2385, Volume 40—ANOTHER LESSON FROM MANASSEH'S LIFE] was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem: but
 
@@ -132,7 +129,6 @@ did that which was evil in the sight of the Lord. Yet who could have had a bette
 17\. Nevertheless the people did sacrifice still in the high places, yet unto the lord their God only. The work of reformation is slow—you can lead men to sin as rapidly as you like, that is downhill work—but to get them to toil with you uphill toward the right is not so easy.
 
 18\. 19. Now the rest of the acts of Manasseh, and his prayer unto his God and the words of the Seers that spoke to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel His prayer also, andhow God was entreated ofhim, andallhis sins, andhis trespass, and theplaces wherein he built high places, andset up groves and engraved images before he was humbled; behold, they are written among the sayings of the Seers. So we must remember that all the deeds that we have done, both good and evil, are written in God's Book of Remembrance.
-
 
 ---
 [[Sermon 3088 The Storm and the Shower|← #3088]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3090 Loving the Law of the Lord|#3090 →]]

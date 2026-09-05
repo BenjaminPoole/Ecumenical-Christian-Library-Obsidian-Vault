@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 83
-
-**PSALM 83**
 
 The prophet implores the divine aid against the enemies of the Church, and, as an argument for obtaining this the more easily, he enumerates the many nations which had conspired together for the express purpose of exterminating the people of Israel, and thereby extinguishing the very name of the Church of God. To stir up himself and others to greater earnestness and confidence in prayer, he shows, by many examples, how mightily God had been wont to succor his servants.
 

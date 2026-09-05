@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'The Garment of Praise'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3349
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The garment of praise for the spirit of heaviness." Isaiah 61:3.
 
@@ -33,7 +30,7 @@ I beg you also to mark that when we reach the greatest mercy and stand on the su
 
 Looking carefully into the words before us, we will dwell, first, upon the spirit of heaviness. Secondly, upon the promise implied in the text—that this shall be removed. And then, thirdly, upon the garment of praise which is to be bestowed. First, let us muse upon—
 
-I. THE SPIRIT OF HEAVINESS.
+## I. The Spirit of Heaviness
 
 We would not make this meditation doleful and yet it may be as well to set forth the night side of the soul, for thus we may the better show a sympathetic spirit and come more truly home to those who are in heaviness through manifold temptations. Some of us know by experience what the spirit of heaviness means. It comes upon us at times even now. There are many things in the body. There are many things in the family. There are many things in daily life which make us sad. Facts connected with the past and with the future cause us, at times, to hang our heads. We shall just now dwell upon those former times when we were under the spirit of heaviness on account of unpardoned sin. We cannot forget that we were in bondage in a spiritual Egypt. We would awaken our memories to remember the wormwood and the gall, the place of dragons and of owls.
 
@@ -102,7 +99,6 @@ We should wear the garment of praise on the most commonplace of days. It should 
 Now, lastly, why should we wear the garment of praise? We should wear it as we wear other raiment, to keep us warm and comfortable, for there is no such vesture in the world as that of praise! It warms the inmost heart and sends a glow through the whole man. You may go to Nova Zembla and not freeze in such a robe! In the worst cases and in the most sorrowful plights, be you where you may, you are proof against outward circumstances when your whole being is enwrapped in praise! Wear it because it will comfort you. Wear it also because it will distinguish you from others. It will be livery to you and men will know whose servants you are. It will be a regimental dress and show to which army you belong. It will be a court dress and manifest to what dignity you have attained. So arrayed, you will bear the tokens of your Lord who often, in the days of His sorrow, lifted His eyes and heart to Heaven and thanked the great Father for His goodness!
 
 May some poor burdened soul lose its heaviness while thinking over our text, and henceforth wear this kingly robe—the garment of praise! Amen.
-
 
 ---
 [[Sermon 3348 Knowing and Doing|← #3348]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3350 'Stewards'|#3350 →]]

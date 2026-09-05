@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Student's Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1344
-
-DELIVERED BY.
 
 > "Make me to understand the way of Your precepts: so shall I talk of Your wondrous works." Psalm 119:27.
 
@@ -142,7 +139,6 @@ I need some more like he! He has gone Home. I pray the Lord that some may be bap
 it!"
 
 Come, break your guilty silence and cry aloud, "I have found Him of whom Moses in the Law and the Prophets did write, and I cannot help talking about Him." As for others of you who are not Believers, I pray the Lord that you may give a listening ear to the message which I ask others to tell. Here it is—"Jesus Christ came into the world to save sinners. Whoever believes in Him has everlasting life." "He that believes and is baptized shall be saved." The Lord bring you to accept these tidings, to believe in Jesus and to find eternal life. Amen.
-
 
 ---
 [[Sermon 1343 The Jewel of Peace|← #1343]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1345 For Whom Is The Gospel Meant|#1345 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 155. Matthew 19:1-2; Mark 9:38-40, 10:1; Luke 9:49-56
-
-**MaTTHEW 19:1-2; Mark 9:38-40, 10:1; Luke 9:49-56**
 
 **1**. And it happened, when Jesus had finished these discourses, he departed from Galilee, and came into the coasts of Judea beyond Jordan. **2**. And great multitudes followed him, and he cured them there.
 

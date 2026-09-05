@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Cloud of Doves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2764
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who are these who fly as a cloud, and like doves to their roosts?" Isaiah 60:8.
 
@@ -105,7 +102,7 @@ Last of all, we fly to Christ and to His Church because our All is there. Mr. Jo
 
 "No foot of land do I possess, No cottage in this wilderness"— and he had not any—when the good man came to die, all the wealth he had in the world was less than £10. When he was asked how he would dispose of his plate, he said that he had only two silver spoons, one at York, and one in London, for everything else had gone into the great cause of his Master! And we best prove that we love Christ when everything we have is given up to Him and all our wealth, all our strength, all our joy and everything else is found in Him, so that Christ is All, and in all! When He is all to you, you will fly to Him as a dove flies to its roost. God help you all to do so, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH60.
+## Exposition by C. H. Spurgeon: Isaiah 60
 
 This is a chapter full of good news, a prophecy of the bright days that are yet to come to this dark world. These dull days are not to last forever. The reign of wickedness will come to an end and earth shall have the bright sunlight of Jehovah's Presence. The words are addressed to the Church of God—it little matters whether to the Jewish or the Gentile Church for, now, they are all one in Christ and there is no distinction in the message to both Jews and Gentiles.
 
@@ -141,8 +138,7 @@ Dawn on these realms of woe and sin!"
 
 17-22. I will also make your officers peace, and your exactors righteousness. Violence shall no more be heard in your land, wasting nor destruction within your borders; but you shall call your walls Salvation and your gates Praise. The sun shall be no more your light by day; neither for brightness shall the moon give light unto you: but the LORD shall be unto you an everlasting Light, andyour God your glory. Your sun shallno more go down, neither shallyour moon withdraw itself for the LORD shall be your everlasting Light, and the days of your mourning shall be ended. Your people also shall be all righteous: they shall inherit the land forever, the branch of My planting, the work of My hands, that I may be glorified. A little one shall become a thousand, and a small one a strong nation: The LORD will hasten it in His time. Oh, that "His time" were come! The happy period is hastening on and it will come at the right time. We ought not to be dispirited by delays, for it will surely come—it will not tarry a moment beyond the time appointed by God, blessed be His holy name! Amen.
 
-HYMNS FROM OUR OWN HYMN BOOK—436,494,607. HYMNS FROM "OUR OWN HYMN BOOK"—136, 494, 607.
-
+## Hymns from Our Own Hymn Book—436,494,607. Hymns from "Our Own Hymn Book"—136, 494, 607
 
 ---
 [[Sermon 2763 The Glory of Grace|← #2763]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2765 Marvelous Light|#2765 →]]

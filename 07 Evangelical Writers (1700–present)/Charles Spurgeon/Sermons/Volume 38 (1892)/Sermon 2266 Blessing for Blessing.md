@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Blessing for Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2266
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in heavenlyplaces in Christ: according as He has chosen us in Him before the foundation of the world, that we should be holy and without blame before Him in love." Ephesians 1:3, 4.
 
@@ -109,7 +106,7 @@ Now, I have set before you a rare treasury. Does this treasury belong to you? My
 
 "Praise God from whom all blessings flow."
 
-EXPOSITION BY C. H. SPURGEON EPHESIANS1.
+## Exposition by C. H. Spurgeon Ephesians 1
 
 The Epistle to the Ephesians is a complete Body of Divinity. In the first chapter you have the doctrines of the Gospel. In the next, you have the experience of the Christians and, before the Epistle is finished, you have the precepts of the Christian faith. Whoever would see Christianity in one treatise, let him, "read, mark, learn and inwardly digest" the Epistle to the Ephesians!
 
@@ -142,7 +139,6 @@ it or not, however, the Lord reigns! Let the earth rejoice and let His adversari
 15-23. Why I also, after I heard of your faith in the Lord Jesus and love unto all the saints, cease not to give thanks for you, making mention of you in my prayers; that the God of our Lord Jesus Christ, the Father of Glory, may give unto you the spirit of wisdom and revelation in the knowledge of Him; the eyes of your understanding being enlightened; that you may know what is the hope of His calling, and what the riches of the glory of His inheritance in the saints, and what is the exceeding greatness of His power to us-ward, who believe; according to the working of His mighty power, which He worked in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and has put all things under His feet, and gave Him to be the Head over all things in the Church, which is His body, the fullness of Him that fills all in all. How Paul glows as He writes on this great theme! He waxes warm and rises to an enthusiasm of eloquence! We could not stop to explain his words—that were to spoil their mystic poetry! Oh, to have a heart that can glorify Christ as Paul did! Truly, if we know ourselves to be one with Christ and know the privileges which come to us through that blessed gate, we may, indeed, extol Him with all our heart and soul!
 
 HYMNS FROM "OUR OWN HYMN BOOK"—232; Psalm 53, Version 1; 219 and the Doxology.
-
 
 ---
 [[Sermon 2265 Harvest Joy|← #2265]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2267 Life From the Dead|#2267 →]]

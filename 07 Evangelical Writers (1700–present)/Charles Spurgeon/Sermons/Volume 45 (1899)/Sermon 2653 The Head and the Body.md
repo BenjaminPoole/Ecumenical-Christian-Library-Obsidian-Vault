@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Head and the Body
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2653
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The head, even Christ: from whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effectual working in the measure of every part, makes increase of the body unto the edifying of itself in love." Ephesians 4:15,16.
 
@@ -95,13 +92,13 @@ Besides that, let every member offer his own services to the Church. Let each on
 
 IV. Now I must close, for our time has gone, by only a few sentences concerning OUR COMPACT UNITY AS A
 
-CHURCH.
+## Church
 
 The Church of God should be one, but not piled into one heap. It should be one in Christ Jesus by a living union. May I ask each one of you whether it is so? Is the life of God in you, dear Brother, dear Sister? If it is and you feel that it is the same life which is in the other members, then you have a unity of the most indestructible kind—one which never can be broken! This union must be a growingunion. We ought so to grow continually as to love each other better and bear with each other more and more. It is often my prayer for this Church, when I am anxiously thinking of the great work here, that nothing may ever arise to divide us in spirit and in love to each other. It is, to my mind, a standing miracle that all these years [Almost 30 years.—EO.] we have been bound together in the unity of the Spirit and in the bonds of peace. But, for the years that are yet to come, shall we quarrel with one another? Shall there be a root of bitterness to spring up and trouble us? I see no trace or sign of it at present, but before it does appear, I beg of you, by the years in which we have worked together, by the blessings we have been made to see, by the benefits which God has given to thousands of souls by this Church, let us not tear this garment of Christ, let us not do anything in any way by which our union may be marred. But let us be "compacted by that which every joint supplies."
 
 I may be speaking to some friends who are a little out of temper with a Brother or Sister. Go and settle the difficulty at once. Resolve in your heart that you will settle it tonight if possible. If you have any disagreements, if there is any coldness at all between you, before you come to this Table, bury it all! Get closer to Christ and then get closer to one another—and may our blessed Lord, when He comes, find us all one in Him! We ask it for His dear name's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 1:1-12.
+## Exposition by C. H. Spurgeon: 1 Peter 1:1-12
 
 Verses 1, 2. Peter, an Apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia, elect according to the foreknowledge of God the Father, through sanctifcation of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace be multiplied. How sweetly the Apostle is obeying his Master's command, "When you are converted, strengthen your brethren." This is the same Peter who once began to sink beneath the waves, yet now he is helping others to stand! This is the very Peter who denied his Master, but he begins his Epistle by acknowledging himself to be "an Apostle of Jesus Christ." What wonders the Lord Jesus had worked for Peter by His Grace! It is no marvel, therefore, that he should say to others, "Grace unto you, and peace be multiplied."
 
@@ -116,7 +113,6 @@ Verses 1, 2. Peter, an Apostle of Jesus Christ, to the strangers scattered throu
 9-11. Receiving the end of your faith, even the salvation of your souls. Of which salvation the Prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Do you wonder if, sometimes, you find in the Bible a Truth which you cannot quite comprehend? You ought not to marvel, for even the Prophets, who prophesied of the Grace which has come to us, did not always fully understand their own messages! I am sure that their Inspiration was verbal because the Inspired men frequently did not, themselves, know the meaning of what they were moved to write.
 
 12\. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things which are now reported unto you by them that havepreached the Gospel unto you which the Holy Spirit sent down from Heaven; which things the angels desire to look into. See the kind of preaching that we should all desire to hear and that all God's ministers should aim at? "Them that have preached the Gospel unto you which the Holy Spirit sent down from Heaven." Nothing but a Gospel full of the energy of the Holy Spirit and set on fire by Him can effect the eternal purposes of God! And this is the kind of preaching that will live and that will also make men live! God send it to every Church and congregation throughout the world! Amen.
-
 
 ---
 [[Sermon 2652 Seeing Christ's Day|← #2652]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2654 Wakeful and Watchful Eyes|#2654 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Moses' Dying Charge to Israel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2345
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you shall remember all the way which the LORD your God led you these forty years in the wilderness, to humble you, and to prove you, to know what was in your heart, whether you would keep His commandments, or no." Deuteronomy 8:2.
 
@@ -117,7 +114,7 @@ And I believe that the Lord has some design of love towards some of you who are 
 
 "All hail the po wer of Jesus 'name, Let angels prostrate fall! Bring forth the royal diadem, And crown Him Lord of all."
 
-EXPOSITION BY C. H. SPURGEON: PSALM139:1-18.
+## Exposition by C. H. Spurgeon: Psalm 139:1-18
 
 Verse 1. O LORD, You have searched me, and known me. "You have explored me, as men dig in mines and make subterranean excavations. You have searched into my secret parts and known me."
 
@@ -152,7 +149,6 @@ You."
 15-17. My substance was not hid from You, when I was made in secret, and curiously worked in the lowest parts of the earth. Your eyes did see my substance, yet being imperfect; and in Your book all my members were written, which in continuance were fashioned, when as yet there was none of them. How precious, also, are Your thoughts unto me, O God! How great is the sum of them! How sweet to be thought of by God! How charming and how cheering to be the perpetual object of the Lord's thoughts! The Psalmist does not tell us how precious are God's thoughts, but he sets a note of admiration to them—"How precious, also, are Your thoughts unto me, O God!" He does not try to calculate the total of their value, but he says, "How great is the sum of them!"
 
 18\. If I should count them, they are more in number than the sand: when I awake, I am still with You. "You have thought of me when I was asleep—and when I wake, I think of You." Happy living, happy dying, to feel that, if we never wake again on earth, we shall wake up with God! How precious it is to think that when good and useful men fall asleep, when they awake, they are forever with the Lord! Our turn will come soon, my Brothers and Sisters. May it be our portion to die in harness and to be taken away while yet we have the Light of God's sustenance resting upon our work!
-
 
 ---
 [[Sermon 2344 Christ's Dying Word for His Church|← #2344]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2346 Earth's Vanities and Heaven's Verities|#2346 →]]

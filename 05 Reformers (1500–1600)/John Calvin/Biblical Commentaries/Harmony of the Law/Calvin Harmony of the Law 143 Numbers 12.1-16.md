@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 143. Numbers 12:1-16
-
-**Numbers 12**
 
 **1.** And Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 

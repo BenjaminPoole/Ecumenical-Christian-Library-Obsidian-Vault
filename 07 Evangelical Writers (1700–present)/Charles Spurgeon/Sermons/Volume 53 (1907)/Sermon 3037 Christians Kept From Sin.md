@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Christians Kept From Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3037
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David said to Abigail, Blessed be the Lord God of Israel, which sent you this day to meet me: and blessed be your advice, and blessed be you, which has kept me this day from coming to shed blood, and from avenging myself with my own hand." 1 Samuel 25:32,33.
 
@@ -102,7 +99,6 @@ Verses 1, 2. Ifyou then are risen with Christ, seek those things which are above
 Colossians 4:1. Masters, give unto your servants that which is just and equal I sometimes think that the good men who chopped the Bible up into chapters—for it is not in chapters in the original—must have hoped that we would not read this message to the masters, as he had put it in another chapter. But I never like to read about the servants without also reading about the masters. There is six for one, and half-a-dozen for the other and, as is usual, in the Scriptures there are balanced duties. If there is an exhortation to the children, there is generally one to the parents close by. And if there is a word to wives, there is one for husbands, too. So let us read that verse, "Masters, give unto your servants that which is just and equal."
 
 1-4. Knowing that you also have a Master in Heaven. Continue in prayer, and watch in the same with thanksgiving; withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds: that I may make it manifest, as I ought to speak
-
 
 ---
 [[Sermon 3036 Proving God|← #3036]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3038 Justice Vindicated And Righteousness Exemplified|#3038 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # The Pierced Heart of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3559
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then came the soldiers and broke the legs of the first, and of the other which was crucified with Him. But when they came to Jesus and saw that He was dead already, they broke not His legs, but one ofthe soldiers with a spear pierced His side, and forthwith there came out blood and water. And he that saw it bares record that his record is true: and he knows that he is telling the truth, that you might believe. For these things were done that the Scripture should be fulfilled. A bone of Him shall not be broken. And again another Scripture says, They shall look on Him whom they have pierced." John 19:32-37.
 
@@ -39,7 +36,7 @@ I fear, too, there is another class that pierces His heart—it includes those w
 
 Some men pierce the heart of Christ through their carelessness. They trifle and even scoff because they have not known Him, or sought by any means to learn what claims He has upon their homage. They disparage those Divine features of His ministry which they have never properly understood. So they pierce the heart of Christ out of ignorant prejudice! They are unacquainted with the Gospel. All that they have heard or read about it has been from the tongue or pen of opponent or satirist, and then, catching their temper, they have joined in reviling it! Alas, too, there are some who malign the Savior out of mere malice. Though they know better, yet they willfully blaspheme His name. Stop, oh, stop, and pierce Him no more, I pray you, lest He that has meekly endured so long as the Lamb of God, should suddenly stir Himself up as the lion of the tribe of Judah and make you feel the terror of His Power, who will not feel the majesty of His love! So much for our first point. Even after Jesus' death, there are those who still pierce Him. Our second thought is such as I am charmed to give you.
 
-II. THESE ATTACKS UPON THE SAVIOR ARE OVERRULED TO DISPLAY HIS GRACE THE BETTER.
+## II. These Attacks upon the Savior Are Overruled to Display His Grace the Better
 
 His heart is pierced, it is true, but with what result, my Brothers and Sisters? Does there flash from it fire? Does the peal of thundering wrath roll over the sinner's head? Ah, no! It is like the sandal tree that perfumes the axe that wounds it. That spear, no sooner is it withdrawn from the wound, than there gushes a fountain of blood and water. The attacks that are made upon Jesus Christ only display His virtues. Observe how this is brought about. If the Truth of God is attacked, and the Gospel is assailed, what is the immediate consequence? Why, then, the saints search deeper into it, so they come to understand the Doctrine better! They learn the arguments by which it is sustained and they love the Truth of God with fonder, as well as stronger convictions, till they feel moved to sacrifice themselves for it! The heart of Christ was opened by the spear, and often the heart of the Truth of God is revealed by the opposition brought to bear against it. They think to confute our Doctrines—they do but confirm our faith in their verity! Where they think they shall prove us fools, they help to make us sages! They drive us to the root of the matter and they rather establish us in the precious Truth! The March wind tears not up the oak, but roots it more firmly in its native soil. So shall it ever be with attacks made upon our Lord and Master! We shall understand Him the better and discover more of the Scriptures that were fulfilled in Him!
 
@@ -49,7 +46,7 @@ And when the Church is assailed (which is one way of piercing Christ) she gets s
 
 Another thought, which diverges a little from the last, may help us to pursue our meditation. Since the soldier sent His spear into the Savior's heart—
 
-III. THE WAY TO THAT HEART IS OPEN.
+## III. The Way to that Heart Is Open
 
 It was always open, in fact, for He always loved the sons of men, but now you can see it open! It was no little wound that was made by the lance, for into it, we read, Thomas put His hand. What a gaping fissure must that have been into which the Apostle might put his palm! "Reach here, your hand, and thrust it into My side." He still lives, as no one of us could live, with a passage to the heart always open! In His very flesh He testifies to us today that His heart is ready to receive any message that His children may choose to send—and equally ready to respond with the love that has its fountain there! Behold the open heart of Jesus! It is open that all the Divine Grace that is within it may freely flow to undeserving sinners. Think not, Sinner, that you have need to open Jesus' side. The blood has flown freely. Say now, will you come and wash in it? You have not to beg for cleansing, as though it were a gift hardly to be obtained by importunity— it flows, it still flows! He is willing—as willing as He is able, and as able as He is willing—to cleanse you from your guilt! Whatever there may be in the heart of Christ, it all flows out! The precious liquid is kept within, but set loose for every needy, thirsty soul. His heart is open!
 
@@ -63,7 +60,7 @@ His side! Oh, Jesus, "all my desire is before You, and my groans are not hid fro
 
 I might linger on this thought, but I prefer leaving it to your meditation, lest I should darken it with words. So let us finish with a last reflection.
 
-IV. A WOUND IN CHRIST'S SIDE REVEALS THE HEART OF JESUS IN ITS PRECIOUSNESS.
+## IV. A Wound in Christ's Side Reveals the Heart of Jesus in Its Preciousness
 
 That spear did, as it were, break the alabaster box and let out the sweet perfume. What, then, was there in the Savior's heart? Men carry in their hearts that which is dearest. The true man is what he is at the heart's core. What was our blessed Redeemer's life-thought—the compelling motive of His life-work? Upon what did He most of all concentrate the desires and affections of His heart? See you not that when pierced, there flowed forth blood and water? Those two things, then, must have been the nearest to the purpose of His heart. Hence I discern that in my Lord's heart, there was, first, a strong determination to purge sinners from their guilt by His blood. The atoning Sacrifice is not merely the hand blood of the Savior's work, nor is it merely the foot blood of the Savior's journeying through the vale of tears—it was His heart's blood, indicative of heart-work—it was the blood of Redemption shed for us. He loved that work. He was straitened till He could accomplish it. And let me tell you it is Christ's joy to wash you from your sin! Start not back because your conscience is troubled. He has opened a fountain for your uncleanness—in the very midst of the house of David has He opened it. He delights to take away your guilt—
 
@@ -75,7 +72,7 @@ Moreover, Beloved, in Christ's heart there was the water as well as the blood. H
 
 So let us go on our way, resolved, by His help, that we will glorify Him "in all manner of holy conversation and godliness." For, "He that saw it bares record, and his record is true, and he knows that he is telling the truth, that you might believe." May you believe, may you all believe the record is true! Believing, you shall have life through His name! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW27:50-66.
+## Exposition by C. H. Spurgeon: Matthew 27:50-66
 
 Verse 50. Jesus, when He had cried again with a loud voice, yielded up the ghost Christ's strength was not exhausted—His last word was uttered with a loud voice, like the shout of a conquering warrior! And what a word it was, "It is finished"! Thousands of sermons have been preached upon that little sentence, but who can tell all the meaning that lies compacted within it? It is a kind of infinite expression for breadth, and depth, and length, and height altogether immeasurable! Christ's life being finished, perfected, completed—He yielded up the ghost—willingly dying, laying down His life as He said He would! "I lay down My life for the sheep. . .I lay it down of Myself. I have power to lay it down and I have power to take it again."
 
@@ -100,7 +97,6 @@ That rock-hewn cell in the garden sanctified every part of God's acre where sain
 65, 66. Pilate said unto them, You have a watch: go your way, make it as sure as you can. So they went and made the sepulcher sure, sealing the stone, and setting a watch. The chief priests and Pharisees wanted Pilate to make the se-pulcher sure, but he left them to secure it. There seems to have been a grim sort of irony about the governor's reply, "You have a watch; go your way, make it as sure as you can." Whether he meant it as a taunt, or as a command to secure the sepulcher, they became unconsciously witnesses that Christ's Resurrection was a supernatural act! The tomb in the rock could not be entered except by rolling away the stone, and they guarded that by sealing the stone, and setting a watch.
 
 According to the absurd teaching of the Rabbis, rubbing ears of corn was a kind of threshing and, therefore, was unlawful on the Sabbath—yet here were these men doing what, by similar reasoning, might be called furnace and foundry work, and calling out a guard of Roman legionaries to assist them in breaking the Sabbath! Unintentionally, they did honor to the sleeping King when they obtained the representatives of the Roman emperor to watch His resting place till the third morning, when He came forth Victor over sin, and death, and the grave! Thus once more was the wrath of man made to praise the King of Glory, and the remainder of that wrath was restrained.
-
 
 ---
 [[Sermon 3558 A Plea From the Cross|← #3558]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3560 The Strait Gate|#3560 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 101. May we then swear religiously by the name of God?
-
-**Question 101. May we then swear religiously by the name of God?**
 
 Answer. Yes; either when the magistrates demand it of the subjects, or when necessity requires us thereby to confirm fidelity and truth, to the glory of God, and the safety of our neighbor; for such an oath is founded on God's word, and therefor was justly used by the saints, both in the Old and New Testament.
 

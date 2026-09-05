@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 133. Deuteronomy 10:8,9
-
-**Deuteronomy 10**
 
 **8.** At that time the Lord separated the tribe of Levi, to bear the ark of the covenant of the Lord, to stand before the Lord to minister unto him, and to bless in his name, unto this day.
 

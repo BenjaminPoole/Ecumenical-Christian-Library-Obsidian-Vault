@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # Cyclops
 *Euripides · trans. Arthur S. Way*
 
@@ -19,15 +18,15 @@ tags:
 
 ---
 
-CYCLOPS
+## Cyclops
 
-INTRODUCTION
+## Introduction
 
 The Satyric Drama, of which the Cyclops is the solitary example extant, is especially interesting as being a survival in literature. The Greek drama originally, as being designed for representation at the great annual festival of Dionysus or Bacchus, had for its subject some incident in the adventures of that god or his followers. When, early in the fifth century B.C., it became the rule that each dramatic poet should present a trilogy of tragedies at the Greater Dionysia, it was required that to these should be added a fourth play, founded on the ancient theme, as a concession to the popular feeling connected with the Wine-god’s festival, and as a recognition of his presence. As the chorus in such plays was invariably composed of Satyrs, the peculiar attendants of Bacchus, such plays were called Satyric Dramas. In these, incidents in the legends of gods and heroes were treated with an approach to burlesque, the high style of tragedy was abandoned at pleasure, the vocabulary contained many words which were beneath the dignity of the serious drama, the dances were wild, and not always decent, the versification was more irregular, broad and wanton jests were not only admitted, but perhaps even prescribed: in short, the unrestrained licence of the original Dionysia found here its literary expression.
 
 The subject of the Cyclops is taken from that adventure of Odysseus which is related with Epic dignity by Homer in the Odyssey, Bk. IX. The divergences, rendered inevitable by the special character of the Satyric Drama, are so great that it cannot be affirmed with certainty that this play was really based on Homer.
 
-DRAMATIS PERSONAE
+## Dramatis Personae
 
 Silenus, an old attendant of Bacchus.
 
@@ -41,7 +40,7 @@ Men of Odysseus’ crew.
 
 Scene: At the entrance to a great cave at the foot of Mount Etna.
 
-CYCLOPS
+## Cyclops
 
 Enter from the cave Silenus, dragging after him a rusty iron rake.
 

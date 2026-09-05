@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 29. Letters I–XIV
 
-ARCHBISHOP CRANMER.
+*Archbishop Cranmer*
 
-I. TO THE RIGHT HONOURABLE, AND MY SINGULAR GOOD LORD, MY LORD OF WILTSHIRE3.
+## I. To the Right Honourable, and My Singular Good Lord, My Lord of Wiltshire 3
 
 4 IT may please your lordship to be advertised, that the king his grace, my lady your Lans(iowne wife, my lady Anne your daughter, be in good health, whereof thanks be to God. ^original!'
 
@@ -27,11 +26,11 @@ First, he sheweth the cause wherefore he had never pleasure to intromit himself 
 
 [3 Thomas Boleyn, father of queen Anne Boleyn, was created earl of Wiltshire, Dec. 8, 1529.]
 
-[4 Dr Jenkyns considers, that this letter was probably written in June, l,r)31, whilst Cranmer was in England, after his return from Rome, where, as ambassador, he had presented his book on the divorce to the pope, and previously to his departure to Germany on his mission to the emperor. He was probably residing at this time with the Boleyn family, as had been the case before he accompanied the earl to Italy. See Todd's Life of Abp. Cran mer, Vol. I. p. 30, where some errors of Strype respecting this letter are corrected. Jenkyns's Re- mains of Abp. Cranmer, Vol. I. p. I.]
+[4 Dr Jenkyns considers, that this letter was probably written in June, l,r)31, whilst Cranmer was in England, after his return from Rome, where, as ambassador, he had presented his book on the divorce to the pope, and previously to his departure to Germany on his mission to the emperor. He was probably residing at this time with the Boleyn family, as had been the case before he accompanied the earl to Italy. See Todd's Life of Abp. Cran mer, Vol. I. p. 30, where some errors of Strype respecting this letter are corrected. Jenkyns's Re-mains of Abp. Cranmer, Vol. I. p. I.]
 
 [5 The book which Pole some years afterwards declared he had delivered to Henry VIII. uwith secretness." Vid. Burnet's Hist, of the Reformat. Vol. III. Pt. ii. Appendix. Book in. No. 51. pp. 159—163. Ed. Oxon. 1829. Beccatelli, who wrote the life of cardinal Pole, and other authors, having made no reference to this book, led Anthony a Wood to doubt whether it had ever been written. Vid. Athenae Oxon. Vol. I. col. 293. Ed. Bliss. Lond. 1813—20. Phillips (Life of Reginald Pole, p. 66—68. Ed. Oxon. 1764) says that Pole first declared his opinion on the divorce to Henry VIII. personally, and afterwards, to soften the king's dis pleasure, "sent his reasons in writing, with an as surance, which he knew would be acceptable, that the purport of the letter had been communicated to nobody."]
 
-230 LETTERS. [1531.
+## 230 Letters. [1531
 
 And where he heard reasons for the king his party, that he was moved of God his law, which doth straitly forbid, and that with many great threats, that no man shall marry his brother his wife : and as for the people, that longeth not to their judgment, and yet it is to be thought that they will be content, when they shall know that the ancient doctors of the church, and the determinations of so many great universities be of the king his sentence : and as concerning the emperor, if he bo so unrightful that he will maintain an unjust cause, yet God will never fail them that stand upon his party, and for any thing will not transgress his commandments : and beside that, we shall not lack the aid of the French king, which partly for the league which he hath made with us, and partly for the displeasure and old grudge which he bearcth toward the emperor, would be glad to have occasion to be avenged : these reasons he bringeth for the king's party against his own opinion.
 
@@ -51,9 +50,9 @@ The rest of this matter I must leave to shew your lordship by mouth when I speak
 
 Your most humble beadman,
 
-THOMAS CRANMAR*.
+## Thomas Cranmar*
 
-II. TO KING HENRY VIII.*
+## II. To King Henry VIII.*
 
 PLBASETH it your highness to understand, that at my last solicitation unto Monsieur Printed from Grandeveile6 for an answer of the contract of merchandise between the merchants of your M«n.ofAbp. grace's realm, and the merchants of the emperor's Low Countries, the said Monsieur Apg.Voi.ii. Grandeveile shewed me, that forsomuch as the diet concerning the said contract was o\on.'i84o. lately held in Flaundres, where the queen of Hungary7 is governatrice, the emperor sir'w'. thought good to do nothing therein without her advice, but to make answer by her rather MSS. than by me. Wherefore it may please your grace no further to look for answer of me herein, but of the queen, unto whom the whole answer is committed.
 
@@ -77,7 +76,7 @@ I have sent herewith unto your grace the copy of the emperor's proclamation4 con
 
 Your grace's most humble subject, chaplain, and beadman,
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 Vitellius, B.
 
@@ -85,7 +84,7 @@ Original holograph.
 
 Imperator.
 
-III. TO KING HENRY VIII.5
+## III. To King Henry Viii.5
 
 PLEASETH it your highness to understand, that [the emperor hath made] such speed in his journey toward Spayne, that [he hath travelled] two hundredth English miles from Vienna, and is [now at a] town called Villach, but six Dutch miles from Italy, [from whence, if] possible, he intendeth to pass the seas into Spayne bef[ore Chri]stmas6. But in his passage through Italy he will speak [with the] pope, with whom, among other matters, I suppose he will tr[eat of] a general council to be had this next year to come, according] to his promise unto the princes of Almayne at this last di[et]7. And I do think that he will not forget to make mention u[nto
 
@@ -115,15 +114,15 @@ of the Reformat. Vol. I. p. 242. Ed. Oxon. 1829. Strype's Eccl. Mem. Vol. I. p. 
 
 [10 Discontent at the appointment of Fabricius Maramaldus to the command was one of the causes of the mutiny. Id. p. (523. J
 
-234 LETTERS. [1532.
+## 234 Letters. [1532
 
 Italians as Almains, tcncards the emperor, because that he so shortly hath dissolved the said army that came to him with so good courages, and he hath not prosecuted the said enterprise against the Turk throughout all Hungary and Greece, according to their expectation ; but noio the men of arms be much displeased, [and many of them do say openly, that they will never return at his calling hereafter"^.
 
 And now the husbandmen of this country be in such a tumultuation for the loss of their goods and the brcnning of their houses, that they muster together upon the mountains, and with guns and stones do slay many of the emperor's people. And in divers places they come down from the mountains in the night, and do slay all the small companies that they may find sleeping. And many times they come down in the day in good companies, and rob carriages that do follow the court, and slay as many as will withstand them : so much that they have slain many gentlemen of the court; and yesterday they slew three or four gentlemen of Burgon, for whose death the emperor is right pensive. But the boors put no difference between one man and another, for all that go with the emperor be to them Italians and Spaniards. They have also slain the ambassador of Mantua, as the constant fame hath been here con tinually these three days. And the legate de Medicos2, at a town six miles hence called St Vite, was taken prison [er, but was released] by favour of the emperor's letters ; but after in another place [they would have] slain him, if he had not escaped with good horses; [they slew] one of his men of arms with an arquebuse, and took Mon whom your grace knoweth right well, and he had been sl[ain by the stroke of] an halberd, if the stroke had not light short : nevertheless [his clothes] upon his breast were cut down with the stroke unto the bare [flesh] ; and afterwards they led him into the mountains almost two days, and [would] have slain him, if one man had not been his friend. And [since] is word brought, that four of the said legate's car riages be robbed, [which] came after the emperor; and every day we hear of much murder and [robjbing done by the boors. And yet all these dangers, than[ked be God,] I have escaped; but these two days to come I shall be [in] more jeopardy of the boors, than I was at any time yet : nevertheless, he that conducted me safely hither, I trust he will likewise conduct me into Italy and Spain, and afterward to England again.
 
-Don Ferdinando is not muck beloved in these parts, neither of the princes that be adjoining to them, nor also of his own subjects. And this icasting of this country is f1 The passages in Italics were written in cypher to gain ground upon an enemy always attentive and in the original, but have been decyphered in the j on his guard, marched back to Constantinople to- margin : those within brackets have been supplied | wards the end of autumn." Robertson's Life of by Dr Jenkyns. | Charles V. Vol. III. pp. 58, 9, quoted in Remains
+Don Ferdinando is not muck beloved in these parts, neither of the princes that be adjoining to them, nor also of his own subjects. And this icasting of this country is f1 The passages in Italics were written in cypher to gain ground upon an enemy always attentive and in the original, but have been decyphered in the j on his guard, marched back to Constantinople to-margin : those within brackets have been supplied | wards the end of autumn." Robertson's Life of by Dr Jenkyns. | Charles V. Vol. III. pp. 58, 9, quoted in Remains
 
-" The protestants, as a testimony of their grati- | of Cranmer. Cranmer appears to have given a tude to the emperor, exerted themselves with extra ordinary zeal, and brought into the field forces that more full account of this transaction than any other writer. " Sed taxant hie Caesarem scrip- exceeded in number the quota imposed on them : j tores Hungari, et cum iis Pallavicinus, Lib. in. the catholics imitating their example, one of the j cap. xi. sect. 1, quod in Hispaniam ad uxorem, greatest and best appointed armies that had ever been levied in Germany assembled near Vienna.
+" The protestants, as a testimony of their grati- | of Cranmer. Cranmer appears to have given a tude to the emperor, exerted themselves with extra ordinary zeal, and brought into the field forces that more full account of this transaction than any other writer. " Sed taxant hie Caesarem scrip-exceeded in number the quota imposed on them : j tores Hungari, et cum iis Pallavicinus, Lib. in. the catholics imitating their example, one of the j cap. xi. sect. 1, quod in Hispaniam ad uxorem, greatest and best appointed armies that had ever been levied in Germany assembled near Vienna.
 
 prolis generandiE cupidus, Ferdinando fratre deserto, festinasset. Magna autem culpac pars pontifici tri-
 
@@ -159,7 +158,7 @@ Your highness chaplain and3
 
 [2 This duke Frederick was probably John Frederick, duke of Saxony, who had lately suc ceeded the elector John, with whom Cranmer, having left Ratisbon incognito, had a private con ference. Vid. Seckendorf, Comment. Hist. Apol. Lib. in. sect. 7- § xvi.p.41, Add. ; Strype'sMem. of A bp. Cranmer, Vol. I. pp. 18, 19. Ed.Oxon. 1840. J [3 The signature is destroyed by fire.]
 
-IV. TO CRUMWELL.
+## IV. To Crumwell
 
 MASTER Crumwcll, in my right hearty wise I commend me to you ; and likewise cotton MS.
 
@@ -167,9 +166,9 @@ Vespasian pray you to be good master unto mine old acquainted lover and friend m
 
 Your own assured and very loving good friend,
 
-THOMAS ELECT OF CANT/
+## Thomas Elect of Cant/
 
-V. TO KING HENRY VIII.
+## V. To King Henry VIII
 
 PLEASE it your highness, that where your grace's great cause of matrimony is (as it is ggf? Paper thought) through all Christianity divulgated, and in the mouths of the rude and ignorant I)°'»esticr common people of this your grace's realm so talked of, that few of them do fear to report ii.f»i;'i-w. and say, thereof is likelihood hereafter to ensue great inconvenience, danger, and peril to holograph. this your grace's realm, and much uncertainty of succession; by which things the said filV!. f()12- ignorant people be not a little offended : and forasmuch as it hath pleased Almighty God, Museum and your grace of your abundant goodness to me shewed, to call me (albeit a poor wretch TOM. introand much unworthy) unto this high and chargeable office of primate and archbishop in cranmer'° this your grace's realm, wherein I beseech Almighty God to grant me his grace so XS1"*' P' to use and demean myself, as may be standing with his pleasure and the discharge of my conscience, and to the weal of this your grace's realm : and considering also the obloquy and bruit, which daily doth spring and increase, of the clergy of this realm, and specially of the heads and presidents of the same, because they in this behalf do not foresee and provide such convenient remedies, as might expel and put out of doubt all such incon veniences, perils, and dangers, as the said rude and ignorant people do speak and talk to be imminent : I, your most humble orator and beadman, am, in consideration of the premises, urgently constrained at this time most humbly to beseech your most noble grace, that where the office and duty of the archbishop of Canterbury, by your and your progenitors' sufferance and grants, is to direct, order, judge, and determine causes spiritual in this your grace's realm; and because I would be right loth, and also it shall not become me, forasmuch as your grace is my prince and sovereign, to enterprise any part of my office in the said weighty cause touching your highness, without your grace's favour and licence obtained in that behalf: it may please, therefore, your most excellent majesty (considerations had to the premises, and to my most bounden duty towards your highness, your realm, succession, and posterity, and for the exoneration of my conscience towards Almighty God) to license me, according to mine office and duty, to proceed to the ex amination, final determination, and judgment in the said great cause touching your
 
@@ -181,7 +180,7 @@ highness : eftsoons, as prostrate at the feet of your majesty, beseeching the sa
 
 Your highness' most humble beadsman and chaplain,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the kings highness, from the Archbishop of Cant, at Lambyth, the xi. day of April, the xxv. year of your reign.
 
@@ -205,13 +204,13 @@ Most Reverend Father, &c., we greet you well. Doing you to understand, that the 
 
 at Lambythe, the xi. day of April, the xxv. year of your reiyn."
 
-VI. TO CRUMWELL.
+## VI. To Crumwell
 
 RIGHT worshipful Mr Crumwell, in my hearty manner I commend me to you ; state Paper likewise praying you to have in good remembrance mine old suit for the receipt of VEii Mr Benet's advowson of the benefice of Barnake2, that the same may be delivered to my xS hands and custody, to the use of my friend3 for whom I have thus long sued; and ^"series that it may please you, in case ye have not already spoken to master Benet's factor VoL IX) in that behalf, to send this bearer my secretary, or some trusty servant of yours, with your letters or token, and with the same letters which ye have received from Mr Benet for the grant of the same advowson, to receive the same in your name. I am informed that the incumbent is very sick, and in great danger and peril of life; which thing moveth me to be the more importune in calling upon you in the premises, praying you to continue your good mind and favour in this and in all other my suits unto you hereafter, for which, and all other your kindness heretofore shewed, ye shall have me your own assured always during my life. At Lamhith, the 21 day of April.
 
 Your own assured,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the right worshipful and my very loving friend Mr Crumwell, one of the king's grace's most honourable council.
 
@@ -219,7 +218,7 @@ most principal minister of our spiritual jurisdiction, within this our realm, wh
 
 Harl. MS. (!148. fol. 22. British Museum. Copy.
 
-VII. TO THE ABBOT OF ST AUGUSTIN'S, CANTERBURY1.
+## VII. To the Abbot of St Augustin's, Canterbury 1
 
 BROTHER abbot, in my right hearty wise I commend me to you : likewise praying you to give credence to this bearer my servant in such requests and suits as he shall have with you touching my behalf, and the same to ponder and tender with effect, according to such special trust and confidence as I have in you ; for so doing ye shall be sure to have me at all times as ready to shew unto you as much pleasure, when ye shall the same desire of me. At my manor in Mortlaque, xxviii*' day of April.
 
@@ -227,13 +226,13 @@ To my brother abbot of St Auystyris, besides Canterbury.
 
 Harl. MS. (5148. fol. 22. British Museum. Copy.
 
-VIII. TO THE ABBOT OF WESTMINSTER2.
+## VIII. To the Abbot of Westminster 2
 
 IN my right hearty wise I commend me unto you, &c. And where it is so, as I am credibly informed, that at this season there is a place or room of a vicar void within the college 3 of St Marteyns, in the city of London, by the death of one master Framton, late incumbent there, (where also you are dean,) and as I understand as yet not appointed or named to any person : in consideration whereof, and forasmuch as now it lieth in you by reason of your deanery to do pleasure therein; I heartily require you to shew your lawful favour herein, in preferment of this said room, unto this bearer sir John Smythe, one of the same college ; that forasmuch as he being both of honest conversation and good name, thereby may have the more furtherance in this behalf before another stranger, not being your friend and acquaintance, and in thus so doing you shall deserve of me like commodity. And thus fare you well. From our manor of Mortelacke, the ivth day of May.
 
 State Paper Office. Miscellane ous Letters. Original holograph. Temp. Hen. .'{ret Series, Vol. IX.
 
-IX. TO CRUMWELL.
+## IX. To Crumwell
 
 RIGHT worshipful Mr Crumwell, in my right hearty manner I commend me to you : advertising you that I have received your letters, by which ye write that the prior of St Gregorie's in Canterbury is willing to resign his room and office there ; wherefore your desire is, that I shall take and accept such a person to the same room as ye shall name unto me, promising to provide one, that not only for his discretion, good learning, and religious life, but also for many other his commendable merits and qualities, shall be right apt and meet to supply the said room.
 
@@ -247,11 +246,11 @@ Master Crumwell, as touching this behalf, or any other thing wherein I may law f
 
 Your own assured,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the right worshipful and my very loving friend master Crumwell, of the king's graces most honourable council.
 
-X. TO KING HENRY VIII.
+## X. To King Henry VIII
 
 PLEASE it your highness to be advertised, that I have received your grace's most state Paper honourable letters, bearing date at your grace's manor of Grenewich, the llth day of this Domestic present month of May, and do right well perceive the contents of the same. Signifying IfS'iS'' to your highness, that where, upon Saturday last passed, the noble lady Catharine was, °nsm; for her non-appearance the same day afore me, and upon such certificate as the man datary only made unto me upon his oath, pronounced contumax ; I have, this present Monday, upon such depositions as have been made and taken afore me, by Mr Briane, Gage, and Vaux, my fellows, your grace's servants, of and upon such words and sayings as were spoken by the said noble lady, in the time of the execution and serving of my monition, pronounced her vere et manifeste contumacem, so that she is (as the counsel informed me) precluded from farther monition to appear ; by reason whereof I shall make more acceleration and expedition in my process than I thought I should, and I have declared my farther mind in this behalf to Mr Brian, to whom I humbly beseech your grace to give credence. At Dunstable, the 12th day of this present month of May, [1533.]
 
@@ -267,19 +266,19 @@ LCRANMER, u.j
 
 Oricfcui4& holograph,
 
-XL TO KING HENRY VIII.
+## XL to King Henry VIII
 
 PLEASE it your highness to be advertised, that your grace's great matter is now brought to a final sentence, to be given upon Friday now next ensuing. And because evcry day m ^ie ncx* week! shall be ferial, except Friday and Saturday, therefore I cannot assign any shorter time ad audiendam sentenfiam, than in the said Friday: at which time I trust so to endeavour myself further in this behalf, as shall become me to do, to the pleasure of Almighty God, and the mere truth of the matter. From Dunstablc, the 17th of May, [1533.]*
 
 Your highness' most humble beadsman and chaplain,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the kiity's highness* from the Bishop of Cant, at Dunstalle, the xtii. day of May, the xxr. year of your reign.
 
 Original holograph.
 
-XII. TO CRUMWELL.
+## XII. To Crumwell
 
 8 RIGHT worshipful master Crumwell, in my right hearty w[i&?] I commend me to you : and likewise I thank you for your two [letters'] and good advertisement by the same, which I trust I have \i\itherto\ satisfied, according to such trust and expectation as the king'[.(?] highness hath in me; for where I never yet went about to \_injure~\ willingly any man living, I would be loth now to begin [jH^A] my prince, and defraud him of his trust in me. And therefore [[/] have used all the expedition that I might conveniently use in i\\\_e kiny's~\ behalf, and have brought the matter to a final sentence, to \_le~\ given upon Friday next ensuing. Because every day in i\_he~\ next week shall be ferial, except Friday and Saturday, therefore /] cannot assign any shorter time ad audiendam sententiam, than . . . Friday : at which time I trust so to endeavour myself furthe[V in~\ this behalf, as shall become me to do, to the pleasure of Almighfty GW,] and the mere truth of the matter. Furthermore I pray y[ou to~\ think no unkindncss in me, for that I have not hitherto [advertised^ you of such process as I have made in this matter3; for I \_assure~\ you I have not hitherto written unto the queen's grace, . . . neither to no man living, but only to the king's highness. [[.For] divers considerations I do think it right expedient, that [the matter~\ and the process of the same be kept secret for a time; [therefore^ I pray you to make no relation thereof, as I know vr[ell you~\ will not. For if the noble lady Catherine should, by the [bruit o/"] this matter in the mouths of the inhabitants of the [[country, or] by her friends or counsel hearing of this bruit, be [moved, stirred,] counselled, or persuaded, to appear afore me in the ti[me, or afore] the time of sentence, I should be thereby greatly stayejjl and let] in the process, and the king's grace's counsel here prefsent shall be] much uncertain what shall be then further done therein. For a] great bruit and voice of the people in this behalf [[might perchance] move her to do that thing herein, which peradventurc [[she would] not do, if she shall hear little of it. And therefore I [pray you] to speak as little of this matter as ye may, and to [[move the] king's
 
@@ -295,7 +294,7 @@ highness in like wise so to do, for the considerations above] recited. And this 
 
 Your assur
 
-XIII. TO KING HENRY VIII.
+## XIII. To King Henry VIII
 
 PLEASE it your highness to be advertised, that this 23U day of this present month of May, I have given sentence in your grace's great and weighty cause ; the copy 5 whereof I have sent unto your highness by this bearer, Richard Watkyns. And
 
@@ -323,7 +322,7 @@ Harl. MSS. (.148. fol. 2. British Museum. Copy.
 
 Your highness" most humble chaplain and beadsman,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the kings hlghne9s,from the Archbishop of Cant, at DunstaUe, the xxiii. day of May.
 
@@ -331,7 +330,7 @@ Fari. MSS. British*1' " ''
 
 Ellis, Orig. Letters, first series, Lett.
 
-XIV. TO ARCHDEACON HAWKYNS2.
+## XIV. To Archdeacon Hawkyns 2
 
 IN my most hearty wise I commend me unto you, and even so would be right to hear of your welfare, &c. These be to advertise you, that inasmuch as you now and then take some pains in writing unto me, I would be loth you should think your labour utterly lost and forgotten for lack of writing again : therefore, and because I reckon you be some deal desirous of such news as hath been here with us of late in the king's grace's matters, I intend to inform you a part thereof, according to the tenor w^av?.1 Ed! an(* Purport used in that behalf.
 

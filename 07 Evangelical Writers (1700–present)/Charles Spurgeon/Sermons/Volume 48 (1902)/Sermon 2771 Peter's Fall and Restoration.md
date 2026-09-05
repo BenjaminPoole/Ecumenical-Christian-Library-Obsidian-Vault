@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Peter's Fall and Restoration
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2771
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the Lord turned and looked at Peter. Then Peter remembered the word of the Lord, how He had said to him, Before the rooster crows, you will deny Me three times. So Peter went out and wept bitterly." Luke 22:61, 62.
 
@@ -97,7 +94,7 @@ Another remark I have to make is—observe the power that is in people's eyes. Y
 
 My last remark is this— what a mercy it was that Christ did not treat Peter as Peter treated Him Peter said, "I know not the Man." Ah, me, but if the blessed, meek and lowly One had said, "I know not the man," it would have been all over with Peter! May God grant that Christ may not say of anyone of us, at the Last Great Day, "I know not the man"! He willsay it of all who know Him not, and whom He does not know—they are not acquainted with one another—and if they continue as they are, He will say, "Verily, I say unto you, I know you not." Though He has eaten and drunk in your presence and taught in your streets, yet will He say, "I know you not. Depart from Me, you workers of iniquity." The mercy is that He never said that to Peter. And He will never say that to you, or to me if we come and cast ourselves in penitence at His feet, bemoaning our sin, and putting our trust in Him alone! May God grant this blessing to each one of you, dear Friends for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:31-35, 57, 58, 69-75;MARK14:53,54, 66-72;LUKE22:54-62; JOHN18:15-18,25-27.
+## Exposition by C. H. Spurgeon: Matthew 26:31-35, 57, 58, 69-75;mark 14:53,54, 66-72;luke 22:54-62; John 18:15-18,25-27
 
 The story of Peter's denial of his Master is recorded in all four of the Gospels. There are some differences of expression in each version, so it will not be tautology if we read all four of them. And if we read them attentively, we shall get a clear view of the whole incident.
 
@@ -148,7 +145,6 @@ John 18:16. And Simon Peter followed Jesus, and so did another disciple. You kno
 17, 18. He said, I am not And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself Matthew tells us that, at first, he sat with them, but now he is standing, as though he was uneasy, or going out and coming in again. And now he is questioned again.
 
 25-27. AndSimon Peter stoodand warmed himself They said therefore unto him, Are not you also one ofHis disciples? He denied it and said, I am not One of the servants of the high priest, being his kinsman whose ear Peter cut off, said, Did not I see you in the Garden with Him? Peter then denied again: and immediately the cock crew. John does not say anything about Peter's oath, or about his cursing because that had been told by the others, and John had no desire to write anything that would reflect upon Peter. Indeed, he tells us that it was he who went and spoke to the maid that let Peter in—he seems as if he wished us to know that he had been the means of introducing Peter to the place of temptation! And it is interesting to remember that he was the man who was with Peter on the morning of the Resurrection, so that no doubt he had been the first to find him after his fall.
-
 
 ---
 [[Sermon 2770 'Go in Peace'|← #2770]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2772 The Minister's Trumpet Blast and Church Member's Warning|#2772 →]]

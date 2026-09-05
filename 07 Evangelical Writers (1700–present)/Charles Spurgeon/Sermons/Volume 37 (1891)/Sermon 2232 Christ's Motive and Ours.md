@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Christ's Motive and Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2232
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For your sakes." 2 Corinthians 8:9.
 
@@ -160,7 +157,6 @@ Eternally, my heart shall say,
 I will close when I have only added that if any of you have not at present any interest in this sacrifice and this service of which my two texts speak, I have just this word for you. It is, at least, a blessing that you are still permitted to listen to the Gospel. Let me very briefly tell once more, "the old, old story of Jesus and His love." Jesus Christ died in the place of sinners. We deserved to be punished for our sins. Under the Law of Moses there was no pardon for sin except through the blood of a sacrifice. Jesus Christ, the Son of God, is the one Sacrifice for sins forever, of which the thousands of bullocks and lambs slain under the Law were but types. Every man who trusts to the death of the Lamb of God may know that Jesus Christ was punished in His place, so that God can be just and yet forgive the guilty. He can, without violating His justice, remit sin and pardon iniquity because a Substitute has been found whose death has an infinite value because of the Divine Nature of the Sufferer. He has borne the iniquities of all who trust Him. "He that believes on the Son has everlasting life." Believe on the Lord Jesus Christ and you shall go your way a saved soul, even though you came into this house steeped in sin, or through terrible conviction on the very verge of despair. God grant that many of you may trust in Jesus this very hour, "for His sake!" Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 8.
-
 
 ---
 [[Sermon 2231 An Urgent Request for an Immediate Answer|← #2231]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2233 Both Sides of the Shield|#2233 →]]

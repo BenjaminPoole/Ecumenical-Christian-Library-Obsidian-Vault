@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Another Lesson From Manasseh's Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2385
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the Lord spoke to Manasseh, and to his people: but they would not listen. Therefore the Lord brought upon them the captains of the host of the king of Assyria; which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon." 2 Chronicles 33:10,11.
 
@@ -148,7 +145,6 @@ Verse 1. O Lord, rebuke me not in Your wrath. "If You do rebuke me, O Lord, do i
 16-21. For I said, hear me, lest otherwise they should rejoice over me: when my foot slips, they magnify themselves against me. For I am ready to halt, and my sorrow is continually before me. For I will declare my iniquity; I will be sorry for my sin. But my enemies are lively, and they are strong and they that hate me wrongfully are multiplied. They also that render evil for good are my adversaries; because I follow the thing that is good. Forsake me not, O LORD: O my God, be not far from me. The persecuted Psalmist resorts to his God. Let us do the same when we, also, are persecuted for righteousness' sake.
 
 22\. Make haste to help me, O lord my Salvation. David's case is urgent and his plea is earnest. If we are in a like case, let us also cry, "Make haste to help me, O Lord my salvation."
-
 
 ---
 [[Sermon 2384 Forget You, I Will Not|← #2384]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2386 The Drawings Of Divine Love|#2386 →]]

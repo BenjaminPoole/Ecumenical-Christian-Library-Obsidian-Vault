@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Soul-threshing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3388
-
-DELIVERED BY C. H. SPURGEON.
 
 > "For the black cummin are not threshed with a threshing instrument, neither is a cartwheel turned about upon the cummin, but the black cummin are beaten out with a stick and the cummin with a rod. Bread flour must be ground; therefore he does not thresh it forever, nor break it with his cartwheel, nor bruise it with his horsemen." Isaiah 28:27,28.
 
@@ -29,7 +26,7 @@ This is not the time or place to give a dissertation upon threshing. We find eve
 
 Our subject is just this. Threshing. All kinds of seeds need it. All sorts of men need it Secondly, the threshing is done with discretion. And thirdly, the threshing will not last forever, for so the second verse of the text says, "Bread flour must be ground and, therefore, he does not thresh it forever, nor break it with the his cartwheel, nor bruise it with his horsemen." First then—
 
-I. WE ALL NEED THRESHING.
+## I. We All Need Threshing
 
 Some have a foolish conceit of themselves that they have no sin—but they deceive themselves and the Truth of God is not in them. The best of men are men at the best and, being men, they are not perfect but are still compassed about with infirmity. What is the object of threshing the grain? Is it not to separate it from the straw and the chaff?
 
@@ -77,15 +74,15 @@ Brothers and Sisters, we see that our God uses discretion in the chastisement of
 
 Next, let us firmly believe in God's discretion and be sure that He is doing the right thing by us. Let us not be anxious to be screened from affliction. When we ask that the cup may pass from us, let it be with a, "nevertheless not as I will." Best of all, let us freely part with our chaff. The likeliest way to escape the flail is to separate from the husk as quickly as possible. "Come you out from among them." Separate yourselves from sin and sinners, from the world and worldliness—and the process of threshing will all the sooner be completed! God make us wise in this matter! A word or two is all we can afford upon the third head, which is—
 
-III. THE THRESHING WILL NOT LAST FOREVER.
+## III. The Threshing Will Not Last Forever
 
 The threshing will not last all our days even here—"Bread flour must be ground, but He will not always be threshing it." Oh, no! "For a small moment have I forsaken you, but with great mercies will I gather you." "He will not always chide, neither will He keep His anger forever." "Weeping may endure for a night, but joy comes in the morning." Rejoice, you daughters of sorrow! Be comforted, you sons of grief! Have hope in God, for you shall yet praise Him who is the health of your countenance! The rain does not always fall, nor will the clouds always return. Sorrow and sighing shall flee away. Threshing is not an operation which the corn requires all the year round—for the most part the flail is idle. Bless the Lord O my Soul! The Lord will yet bring home His banished ones.
 
 Above all, tribulation will not last forever, for we shall soon be gone to another and better world. We shall soon be carried to the land where there are neither threshing floors nor corn-drags. I sometimes think I hear the herald calling me. His trumpet sounds, "Up and away! Boot and saddle! Up and away! Leave the camp and the battle and return in triumph." The night is far spent with some of you, but the morning comes. The daylight breaks above yon hills. The day is coming—the day that shall go no more down forever! Come eat your bread with joy and march onward with a merry heart, for the land which flows with milk and honey is but a little distance before you. Until the day breaks and the shadows flee away, abide the Great Farmer's will, and may the Lord glorify Himself in you. Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM 90; 119:21-32. "The prayer of Moses, the man of God."
+## PSALM 90; 119:21-32. "The prayer of Moses, the man of God."
 
 I think this Psalm has been very much misunderstood because the title has been forgotten. It is not a Psalm for us in its entirety—it cannot be read by the Christian and taken as it stands. It is a Psalm of Moses as far as Moses can get. It goes a long way, but there was a Joshua that lead the people into the promised land—and there is a Jesus who has "brought life and immortality to light by the Gospel." That light shines through the gloomy haze of this dark Psalm. Please remember that Moses was a man peculiarly tried. We have never duly given weight to the afflictions of Moses. All the people that he brought out of Egypt, with two exceptions, died. And he saw most of them die—himself having the sentence of death in himself that he, like the rest, must not cross into the Land of Promise. So that with two millions or more of people round about him, that forty years he stood in the Valley of the Shadow of Death—and with all the mercies that surrounded him, yet still he must have had continual sorrow of heart—all his old friends and companions passing away, one by one. It is a brave Psalm if you read it in that light—it is a grand specimen of heroic faith!
 
@@ -111,7 +108,7 @@ Verse 1. Lord, You have been our dwelling place in all generations. All Your sai
 
 15-17. Make us glad according to the days wherein You have afflicted us and the years wherein we have seen evil. Let Your work appear unto Your servants and Your Glory unto their children. And let the beauty of the LORD our God be upon us: andestablish You the work ofourhands upon us;yes the work ofourhands establish it
 
-PSALM 119:21-32.
+## Psalm 119:21-32
 
 21\. You have rebuked the proud that are cursed, which do err from Your commandments. Wherever there is pride in the heart, there is sure to be error in the life. A proud man is wrong to begin with and as long as he continues proud, he must be wrong. It is not possible for him to be right. God has rebuked him and God has cursed him. How wise it would be of him to be humble! Remember we shall have either to be humble or to be humbled—and it is much better to be humble than to have to come under the humbling dispensations of God's hand!
 
@@ -142,7 +139,6 @@ In this book dear Brothers and Sisters, whatever your trouble, there is a promis
 30, 31. have chosen the way of truth: Your judgments have I laid before me. I have stuck into Your testimonies: O LORD put me not to shame. Here is, first, choice—"I have chosen the way of truth." Here is his practically carrying it out—"Your judgments have I laid before me." Here is his perseverance in it—"I have stuck into Your testimonies." And then there is his prayer about it, "O Lord, put me not to shame." And it is a prayer which is sure to be answered! "Truth may be blamed but it cannot be shamed." Truth is God's daughter and He will take care of her. If you have chosen the way of truth, it is a way in which though some may censure and slander, your righteousness shall come forth in due time as the noonday!
 
 32\. I will run the way of Your commandments when You shall enlarge my heart. "When I get liberty of heart, then will I take as my choice Your ways." The Christian is never so much at liberty as when he is under law to Christ. He knows the difference between license and liberty. He has a liberty to do as he wills because he wills to do as God wills him to do—and herein lies the only freedom which we desire!
-
 
 ---
 [[Sermon 3387 A New Year's Benediction|← #3387]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3389 The Soul's Awakening|#3389 →]]

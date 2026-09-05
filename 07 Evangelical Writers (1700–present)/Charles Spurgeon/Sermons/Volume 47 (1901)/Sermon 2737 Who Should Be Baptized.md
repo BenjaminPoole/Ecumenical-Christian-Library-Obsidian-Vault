@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Who Should Be Baptized?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2737
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If you believe with all your heart, you may." Acts 8:37.
 
@@ -109,7 +106,7 @@ Mark just one other aspect of the text. Have you any other confidence besides th
 
 In closing my discourse, I would very affectionately put this question to all my hearers, leaving it to the Holy Spirit to apply it to your heart—Does it not seem, from this passage, that faith is necessary beforeBaptism and that, if this eunuch had not believed in Jesus, Philip would not have baptized him? "I speak as to wise men; judge you what I say." If any of you are unbelievers, venture not to think that in your present state you can be baptized in the Scriptural fashion. But if you are Believers, and have not been baptized, let me put it to your consciences whether you think you are right in neglecting this ordinance of Christ? That is a matter for you seriously to think of—it rests between your Savior and your own soul! I pray the Lord to guide us all to a right decision. If we are wrong, may He set us right, and if you are wrong, may He set you right! The prayer of a certain scholar was very wise one and I commend it to you. In a great dispute in which he was engaged, he was observed to be frequently writing, so someone said to him, "May I look at your notes?" "Certainly," he replied. When the notes were examined, it was found that they simply consisted of the words, "More light, Lord, more light!" I think that is a request which we may present for many of our Brothers and Sisters, and certainly for ourselves, "More light, Lord, more light!"
 
-EXPOSITION BY C. H. SPURGEON: ACTS8:4-40.
+## Exposition by C. H. Spurgeon: Acts 8:4-40
 
 Verses 4-6. Therefore they that were scattered abroad went everywhere preaching the Word. Then Philip went down to the city of Samaria, and preached Christ unto them. And the people with one accord gave heed unto those things which Philip spoke, hearing and seeing the miracles which he did. We cannot tell how far the soil had been prepared for the sowing of the Gospel seed by our Lord's visit to Sychar, a city of Samaria. The influence of the converts in that place may have inclined the people of the city of Samaria to give more heed to the preaching of Philip. The work of a great and good man may sometimes seem to die out, but its effects remain and may extend beyond the place where he labored.
 
@@ -134,7 +131,6 @@ understand; but to be sent to a road which went through the desert, must have se
 36-40. And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what does hinder me to be baptized? And Philip said, If you believe with all your heart, you may. And he answered and said, I believe that Jesus Christ is the Son of God. And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: andhe went on his way rejoicing. But Philip was found at Azotus: and passing through he preached. See how he kept to his one business wherever he might be—in Samaria, on the desert pathway, or in the town of Azotus? "He preached."
 
 40\. In all the cities, till he came to Caesarea. Oh, for the same earnest spirit to be in all of us who profess to be Christ's followers, that we may preach Him wherever we may be!
-
 
 ---
 [[Sermon 2736 The Great Miracle Worker|← #2736]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2738 The Redeemer's Face Set Like a Flint|#2738 →]]

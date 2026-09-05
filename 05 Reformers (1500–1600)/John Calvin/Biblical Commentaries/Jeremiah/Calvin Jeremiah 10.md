@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Lecture Thirty Ninth
 
@@ -97,7 +96,7 @@ We now then perceive why the Prophet turns to the true God: it was, that the bri
 
 ## Prayer Lecture 39
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast made heaven and earth for our sake, and hast testified by thy servant Moses, that the sun, as well as the moon, to which foolish heathens ascribe divinity, are to be serviceable to us, and that we are to use them as though they were our servants, — O grant that we may, by thy so many blessings, have our minds raised upwards and contemplate thy true glory, so that we may faithfully worship thee only, and surrender ourselves so entirely to thee, that while we enjoy the benefits derived from all the stars, and also from the earth, we may know that we are bound to thee by so many favors, in order that we may be more and more roused to attend to what is just and right, and thus endeavor to glorify on earth thy name, that we may at length enjoy that blessed glory which has been provided for us by Christ our Lord. — Amen.
 
@@ -167,7 +166,7 @@ Now, the reason why he bids the Israelites to speak in the Chaldee language is, 
 
 ## Prayer Lecture 40
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast exhibited thy glory to be seen by us, not only in the heavens and the earth, but also ill the law, in the Prophets, and in the Gospel, and hast so plainly made thyself known to us in thine only — begotten Son, that ignorance can be no excuse, — O grant that we may make progress in this knowledge by which thou kindly invitest to thyself, and may so constantly cleave to thee, that none of the errors of the world may draw us aside; but may we stand firm in thy word, which cannot deceive us, until we shall at length come to that celestial blessedness, when we shall enjoy thee face to face in thy glory, having been made fully conformable to thine image in Christ Jesus our Lord. — Amen.
 
@@ -243,7 +242,7 @@ He calls God the portion of Israel, that he might preserve the people in the pur
 
 ## Prayer Lecture 41
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased to shew thyself so plainly to us, and as thou art pleased to confirm us in thy truth, — O grant that we may not turn aside either to the right hand or to the left, but depend entirely on thy word, and so cleave to thee that no errors of the world may draw us aside: may we constantly persevere in that faith which we have learnt from thy Law and thy Prophets, and especially from thy gospel, where thou hast made thyself more clearly known to us, through Christ Jesus, until we shall at length enjoy thy full and perfect glory, when we shall be transformed into it in that inheritance, which has been purchased for us by the blood of thy only-begotten Son. — Amen.
 
@@ -329,7 +328,7 @@ We now perceive what the Prophet had in view; and this is ever to be remembered 
 
 ## Prayer Lecture 42
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are in like manner at this day so torpid, that we are not moved by thy threatenings, nor do the kind and friendly warnings, by which thou invitest us to thyself, prevail with us, — O grant that we may at length learn to attend to the truth, in whatever form thou settest it before us, and that we may be teachable and obedient, when thou only invitest us, and that if we become hardened, we may be also touched by thy threatenings, and not tempt thy patience, but suffer ourselves to be brought under thy yoke, and so submit to thee, that thou mayest through our whole life rule over us, and shew to us thy paternal love, so that, after having faithfully served thee in this world, we may come at length into that blessed rest which is prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -409,7 +408,7 @@ He lastly adds, *For they have consumed Jacob, they have consumed him, they have
 
 ## Prayer Lecture 43
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are so torpid in our sins, except thou rousest us, that we profit not by the severe warnings by which thou didst formerly stimulate thine ancient people, and since we have also been already warned by many signs of thy wrath to seek repentance with increasing assiduity, — O grant that we may earnestly persevere in this course, and so submit to thee, that with patient and calm minds we may bear thy corrections: and may we in the meantime be fully assured that thou wilt ever be our Father, and never hesitate, even in death itself, to flee to thy mercy, until thou pourest forth thy wrath on the ungodly and the profane despisers of thy name, and shewest such compassion towards us, that we may know that thou hast not in vain promised that thy chastisements would ever be kind and paternal, in visiting the sins of those who hope in thee, through Christ our Lord. — Amen.
 

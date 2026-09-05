@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Something Done for Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2126
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "She has worked a good work upon Me." Matthew 26:10.
 
@@ -168,7 +165,6 @@ I shook hands, after the sermon this morning, with a good missionary of Christ f
 What heroic words! What a missionary spirit! Live in that spirit, dear Brothers and Sisters, and in that spirit come now to the communion table! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Matthew 26:1-16.
-
 
 ---
 [[Sermon 2124 Help for Your Sickness|← #2124]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2127 Love's Competition|#2127 →]]

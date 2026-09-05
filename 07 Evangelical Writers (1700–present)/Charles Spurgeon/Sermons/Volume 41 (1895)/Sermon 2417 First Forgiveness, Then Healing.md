@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # First Forgiveness, Then Healing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2417
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When He saw their faith, He said to him, Man, your sins are forgiven you." Luke 5:20.
 
@@ -83,7 +80,7 @@ Oh, that all were as obedient to Christ as this man was, that, having the simpli
 
 Now, lastly, this man, it is said, "immediately rose up before them, and took up that whereon he lay, and departed to his own house glorifying God." I think I hear what he said. "Glory!" he cried, "Glory be to God!" He felt so glad, so happy, that he took up his bed before them all and, as he walked along, he glorified God. And would you not have done the same if you had been paralyzed and had been restored as he had been? And will you not do so? If you have been sin-bound and Christ has set you free, surely you will take the earliest opportunity of telling others what Jesus has done for you and seek to glorify His name! I did not wonder when a Brother lately said to me, "I have been spending all the morning in the workshop telling the men that I have found the Savior." And one, last Sunday, turned to his wife in this Tabernacle and said, "I am saved!" She said to him, "Don't disturb the worship," but I almost wish he had done so! What a mercy it is to be saved! Salvation puts a new sun in our sky and a new joy in our hearts! Believe on Jesus and this salvation is yours! God grant that it may be, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE512-26.
+## Exposition by C. H. Spurgeon: Luke 512-26
 
 Verse 12. And it came to pass, when He was in a certain city, behold a man full of leprosy. As far gone with leprosy as he could be—thoroughly tainted and eaten up with that loathsome disease.
 
@@ -118,7 +115,6 @@ Verse 12. And it came to pass, when He was in a certain city, behold a man full 
 24-26. But that you may know that the Son of Man has power upon earth to forgive sins, (He said unto the sick of the palsy), I say unto you, Arise, and take up you couch, and go into your house. And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God. And they were all amazed, and they glorified God, and were filled with fear. With awe, and reverence. They felt that God had come very near to them and they, perhaps, said, like Jacob of old, when he was afraid, "How dreadful is this place! This is none other than the House of God, and this is the gate of Heaven." They were filled with fear—
 
 26\. Saying, We have seen strange things today. Oh, that we might see such "strange things" in this house, tonight, and whenever we meet to worship God!
-
 
 ---
 [[Sermon 2416 Adorning the Gospel|← #2416]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2418 All of One|#2418 →]]

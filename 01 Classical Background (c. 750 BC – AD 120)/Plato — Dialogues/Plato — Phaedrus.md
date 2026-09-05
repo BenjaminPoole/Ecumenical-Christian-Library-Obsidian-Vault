@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Phaedrus
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-PHAEDRUS
+## Phaedrus
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Phaedrus is closely connected with the Symposium, and may be
 regarded either as introducing or following it. The two Dialogues
@@ -1165,8 +1160,7 @@ gains strength; she is raised above 'the manikins of earth' and their
 opinions, waiting in wonder to know, and working with reverence to find
 out what God in this or in another life may reveal to her.
 
-
-ON THE DECLINE OF GREEK LITERATURE.
+## On the Decline of Greek Literature
 
 One of the main purposes of Plato in the Phaedrus is to satirize
 Rhetoric, or rather the Professors of Rhetoric who swarmed at Athens in
@@ -1367,16 +1361,11 @@ are necessarily contained many seeds of revival and renaissance in the
 future. So far is the world from becoming exhausted, so groundless is
 the fear that literature will ever die out.
 
-
-
-
-PHAEDRUS
-
+## Phaedrus
 
 PERSONS OF THE DIALOGUE: Socrates, Phaedrus.
 
 SCENE: Under a plane-tree, by the banks of the Ilissus.
-
 
 SOCRATES: My dear Phaedrus, whence come you, and whither are you going?
 

@@ -9,7 +9,6 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # A Plain Account of the People Called Methodists
 
 In a LETTER to the
@@ -320,7 +319,7 @@ Reverend and dear Sir* ,
 
 Your affectionate brother and servant* ,
 
-JOHN WESLEY.
+## John Wesley
 
 ---
 [[Library/John Wesley/John Wesley|Contents]]

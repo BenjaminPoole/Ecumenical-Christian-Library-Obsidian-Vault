@@ -10,18 +10,15 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 3. An Answer unto Sir Thomas More's Dialogue: Foundational Treatises, Part 1
 
-SIR THOMAS MORE'S DIALOGUE.
+*Sir Thomas More's Dialogue*
 
 What the church is.
 
 THIS word church hath divers significations. First it M. c. xcvsignifieth a place or house ; whither Christian people were ^J^™ wont in the old time to resort at times convenient, for to f"™h are hear the word of doctrine, the law of God, and the faith Mc- c( of our Saviour Jesus Christ, and how and what to pray, and whence to ask power and strength to live godly. For The ministhe officer, thereto appointed, preached the pure word of God church are only, and prayed in a tongue that all men understood : and to preach to i ill -i i • i.ii the pe°Ple the people hearkened unto his prayers, and said thereto Amen ; and prayed with him in their hearts, and of him learned to pray at home and everywhere, and to instruct every man his household.
 
 Where now we hear but voices without significations, and buzzings, howlings, and cryings, as it were the hallooing of foxes, or baitings of bears ; and wonder at disguisings and toys, whereof we know no meaning. By reason whereof we be fallen into such ignorance, that we know of the mercy and promises, which are in Christ, nothing at all. And of the law of God we think as do the Turks, and as did the old M. c.«. heathen people ; how that it is a thing which every man may do of his own power, and in doing thereof becometh good, and waxeth righteous, and deserveth heaven ; yea, and are so holyyet more mad than that : for we imagine the same of fantasies, and vain ceremonies of our own making ; neither M. c. d. needful unto the taming of our own flesh, neither profitable unto our neighbour, neither honour unto God. And of prayer we think, that no man can pray but at church; and that it A great abuse is nothing else but to say Pater noster unto a post : whereM.pc?ycuwith yet, and with other observances of our own imagining, we believe we deserve to be sped of all that our blind hearts desire.
-
-12 ANSWER TO SIR THOMAS MORE's DIALOGUE.
 
 The church In another signification, it is abused and mistaken for a taken for the i • i » i i i M i i • i spiritualty, multitude of shaven, shorn, and oiled; which we now call the spiritualty and clergy. As when we read in the chronicles, King 'King William was a great tyrant, and a wicked man unto King'j'ohn. holy church, and took much lands from them/ 'King John was also a perilous man and a wicked unto holy church; and would have had them punished for theft, murder, and whatsoever mischief they did, as though they had not been people anointed, but even of the vile rascal and common layst Thomas people.' And, 'Thomas Becket was a blessed and an holy man; bury. w. T. for he died for the liberties (to do all mischief unpunished) and privileges of the church.' ' Is he a layman, or a man of the Hoiy church church?' ' Such is the living of holy church.' 'So men say of a great holy church.' ' Ye must believe in holy church, and do as they teach you.' 'Will ye not obey holy church?' 'Will ye not do the penance enjoined you by holy church?' 'Will ye not forswear obedience unto holy church?' 'Beware lest ye fall into the indignation of holy church, lest they curse you f and The pope and so forth. In which all, we understand but the pope, cardinals, teklnbforethe legates, patriarchs, archbishops, bishops, abbots, priors, chan cellors, archdeacons, commissaries, officials, priests, monks, friars, black, white, pied, grey, and so forth, by (I trow) a thousand names of blasphemy and of hypocrisies, and as many sundry fashions of disguisings.
 
@@ -31,7 +28,7 @@ The church ln ^1$ third signification is the church of God, or Christ, ftfi?t°a
 
 Gai. i. not for the clergy only. For Paul saith (Galatians i.),
 
-MEANINGS OF THE WORD CHURCH. 13
+## Meanings of the Word Church. 13
 
 " I persecuted the church of God above measure :" which was not the preachers only, but all that believed generally: as it is to see Acts xxii. where he saith : " I persecuted this Acts xxn.
 
@@ -49,8 +46,6 @@ Why Tyndale used this word congregation, rather than church, in the translation 
 
 Wherefore, inasmuch as the clergy (as the nature of those hard and indurate adamant stones is, to draw all to them) had appropriate unto themselves the term that of right is common unto all the whole congregation of them that believe in Christ ; and with their false and subtle wiles had beguiled and mocked the people, and brought them into the ignorance of the word ; making them understand by this word church nothing but the shaven flock of them that shore the whole world; therefore in the translation of the The cause new Testament, where I found this word ecclesia, I interpreted tWransiTatenddaIe it by this word congregation. Even therefore did I it, and dAShato f, . . . . . this word not ot any mischievous mind or purpose to stablish heresy, congregation.
 
-14 ANSWER TO SIR THOMAS MORELS DIALOGUE.
-
 as Master More untruly reporteth of me in his dialogue, where he raileth on the translation of the new Testament1.
 
 And when M. More saith, that this word church is known well enough, I report me unto the consciences of all the land, whether he say truth or otherwise ; or whether the lay-people understand by church the whole multitude of all
@@ -67,8 +62,6 @@ Howbeit, M. More hath so long used his figures of poetry, JJ^jfore^ that (I supp
 
 [2 Viz. in verses 32, 39, and 41 ; where Tyndale has rendered the word congregation, whilst our Auth. Vers. renders it assembly. 1
 
-16 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
-
 But how happeth it that M. More hath not contended in
 
 M. More did like wise against his darling Erasmus all this long while ?
@@ -77,7 +70,7 @@ M. More did like wise against his darling Erasmus all this long while ?
 
 which book, if it were in English, then should every man see how that he then was far otherwise minded than he now writeth. But, verily, I think that as Judas betrayed not
 
-Christ for any love that he had unto the high priests, scribes and Pharisees, but only to come by that wherefore was^°dreeeP ^e thi1*8^ ; even so M. More (as there are tokens evident) dissembler. wrote not these books for any affection that he bare unto the spiritualty, or unto the opinions which he so barely de- fendeth, but to obtain only that which he was an hungred for. I pray God that he eat not too hastily, lest he be choked at the latter end ; but that he repent, and resist not the Spirit of God, which openeth light unto the world.
+Christ for any love that he had unto the high priests, scribes and Pharisees, but only to come by that wherefore was^°dreeeP ^e thi1*8^ ; even so M. More (as there are tokens evident) dissembler. wrote not these books for any affection that he bare unto the spiritualty, or unto the opinions which he so barely defendeth, but to obtain only that which he was an hungred for. I pray God that he eat not too hastily, lest he be choked at the latter end ; but that he repent, and resist not the Spirit of God, which openeth light unto the world.
 
 Why he useth this word elder, and not priest. M. More is Another thins: which he rebuketh is, that I interpret captious.
 
@@ -98,8 +91,6 @@ And when he layeth Timothy unto my charge, how he was young, then he weeneth tha
 [4 So C. U. L. ed. D. omits or.]
 
 [6 A person capable of receiving knighthood was said to have won his spurs, when he had made himself so conspicuous in the field of battle as to ensure his being knighted.] mns-
-
-18 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 alway biding in one place, to govern the congregation there. Now was Timothy an apostle. And Paul also writeth that he came shortly again. Well, will he say, it cometh yet all to one; for if it becometh the lower minister to be of a sad and discreet age, much more it becometh the higher. It
 
@@ -139,7 +130,7 @@ Why he useth love, rather than chanty.
 
 ATAIIH MORE FITLY RENDERED LOVE THAN CHARITY. 21 sense which agape requireth. For when we say, ' Give your alms in the worship of God, and sweet St Charity ; ' and when the father teacheth his son to say, 'Blessing, father, for St Charity;' what mean they? In good faith they wot not. Moreover, when we say, ' God help you, I have done my charity for this day/ do we not take it for alms? and, ' The charity hath
 
-• i • T i c i • » i , T i i divers signi- man is ever chiding and out ot charity ; and, 1 besnrew ficatkms. him, saving my charity;' there we take it for patience. And when I say, 'A charitable man/ it is taken for merciful. And though mercifulness be a good love, or rather spring of a good love, yet is not every good love mercifulness. As when a woman loveth her husband godly, or a man his wife or his friend that is in none adversity, it is not always mercifulness. Also we say not, This man hath a great charity to God ; but Love is also a great love. Wherefore I must have used this general term understood. love in spite of mine heart oftentimes. And agape and caritas were words used among the heathen, ere Christ came; M. c.ci, cii. and signified therefore more than a godly love. And we may say well enough, and have heard it spoken, that the Turks be charitable one to another among themselves, and some of them unto the Christians too. Besides all this, agape is common unto all loves.
+• i • T i c i • » i , T i i divers signi-man is ever chiding and out ot charity ; and, 1 besnrew ficatkms. him, saving my charity;' there we take it for patience. And when I say, 'A charitable man/ it is taken for merciful. And though mercifulness be a good love, or rather spring of a good love, yet is not every good love mercifulness. As when a woman loveth her husband godly, or a man his wife or his friend that is in none adversity, it is not always mercifulness. Also we say not, This man hath a great charity to God ; but Love is also a great love. Wherefore I must have used this general term understood. love in spite of mine heart oftentimes. And agape and caritas were words used among the heathen, ere Christ came; M. c.ci, cii. and signified therefore more than a godly love. And we may say well enough, and have heard it spoken, that the Turks be charitable one to another among themselves, and some of them unto the Christians too. Besides all this, agape is common unto all loves.
 
 And when M. More saith, "Every love is not charity4;" Every love is
 
@@ -153,7 +144,7 @@ God's angel ; nor every hope Christian hope ; nor every faith, not loveor belief
 
 [6 In More's quotation neighbour's daughter; but in the collated editions of Tyndale neighbour's is omitted.]
 
-ANSWER TO SIR THOMAS MORE S DIALOGUE.
+## Answer to Sir Thomas More S Dialogue
 
 Why Tyndale saith favour, and not grace. M. C. cliii.
 
@@ -197,8 +188,6 @@ THE CHURCH NOT BEFORE THE GOSPEL. 25 and lighteneth the air, and purgeth it from
 
 "I would not here note by the way," says he, "that Tyndale here translateth no for nay, for it is but a trifle, and mistaking of the English word ; saving that ye should see that he which in two so plain English words, and so common as is nay and no, cannot tell when he should take the tone, and when the tother, is not for translating into English a man very meet. For the use of those two words, in answering to a question, is this. No answereth the question framed by the affirmative : as for ensample, if a man should ask Tyndale himself, Is an heretic meet to translate holy scripture into English ? Lo, to this question, if he will answer true English, he must answer nay ; and not, no. But and if the question be asked him thus, Lo, is not an heretic meet to translate holy scripture into English? To this question, lo, if he will answer true English, he must answer no ; and not nay. And a like difference is there between these two adverbs, Yea and Yes. For if the question be framed unto Tyndale by the affirmative, in this fashion: If an heretic falsely translate the new Testament into English, to make his false heresies seem the word of God, be his books worthy to be
 
-26 ANSWER TO SIR THOMAS MORELS DIALOGUE.
-
 the multitude of man's witness might make aught true, then were the doctrine of Mahomet truer than Christ's.
 
 M. c. ecu— Whether the apostles left aught unwritten, that is of necessity to be believed.
@@ -219,11 +208,9 @@ there was writing in the world long ere Abraham, yea and ere Noe, do stories tes
 
 ••• * hath taken us, as he hath robbed us of the true sense of all the scripture. SSJHS^Sg The testament which God made with Noe, that he would cLments. no more drown the world with water, he wrote in the sacra_;£' ccxxv ment of the rainbow. And the appointment made between him and Abraham he wrote in the sacrament of circumcision. And therefore said Stephen, (Acts vii.) " He gave them the testament4 of circumcision :" not that the outward circumActs vu, cision was the whole testament, but the sacrament or sign thereof. For circumcision preached God's word unto them, as I have in other places declared.
 
-But in the time of Moses, when the congregation was inJJ^Ui creased, that they must have many preachers, and also rulers temporal, then all was received in scripture ; insomuch that Christ and his apostles might not have been believed without Mc- ccxxixscripture, for all their miracles. Wherefore, inasmuch as There can no Chrises congregation is spread abroad into all the world, much JhS co broader than Moses' ; and inasmuch as we have not the old Testament only, but also the new, wherein all things are opened so richly, and all fulfilled that before was promised ; and inasmuch as there is no promise behind of aught to be shewed more, save the resurrection ; yea, and seeing that Mc- cc*xx Christ and all the apostles, with all the angels of heaven, if ~'
+But in the time of Moses, when the congregation was inJJ^Ui creased, that they must have many preachers, and also rulers temporal, then all was received in scripture ; insomuch that Christ and his apostles might not have been believed without Mc- ccxxixscripture, for all their miracles. Wherefore, inasmuch as There can no Chrises congregation is spread abroad into all the world, much JhS co broader than Moses' ; and inasmuch as we have not the old Testament only, but also the new, wherein all things are opened so richly, and all fulfilled that before was promised ; and inasmuch as there is no promise behind of aught to be shewed more, save the resurrection ; yea, and seeing that Mc-cc*xx Christ and all the apostles, with all the angels of heaven, if ~'
 
 [2 He was doubtless led to say this by believing Josephus' tale about the pillars of Seth. Hist. Jud. L. i. c. 2.] [3 Popetrie, or puppetry.] [4 So Tynd. translation; and see Vol. i. p. 409.] con
-
-28 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 they were here, could preach no more than is preached, of necessity unto our souls: how then should we receive a new article of the faith, without scripture, as profitable unto my soul, when I had believed it, as smoke for sore
 
@@ -273,15 +260,13 @@ They will haply demand where it is written, that women should baptize ? Verily, 
 
 [4 More says in his Conf., " Syth the marriage is no marriage, it is but whoredom itself. And I am sure also that it defileth the priest more than double and treble whoredom ; syth that his marriage being, as it is, unlawful, and thereby none other but whoredom, doth openly rebuke and shame two sacraments thereat once, that is, both priesthood and matrimony." p. ccliiii.]
 
-30 ANSWER TO SIR THOMAS MORE*S DIALOGUE.
-
 to minister not only baptism, but all other sacraments also1 in time of need, if they be so necessary as they preach them. Sthoutents And finally, though we were sure that God himself had given us a sacrament, whatsoever it were, yet if the signification were once lost, we must of necessity either seek up the cciuisignification, or put some2 signification of God's word thereto, what we ought to do or believe thereby, or else put it down. For it is impossible to observe a sacrament, without signifi cation, but unto our damnation. If we keep the faith purely and the law of love undefiled, which are the significations of all ceremonies, there is no jeopardy to alter or change the fashion of the ceremony, or to put it down, if need require3.
 
 Whether the church can err.
 
 There is another question, whether the church may err. err, or not. which if ye understand of the pope and his generation, it is verily as hard a question as to ask whether he which had both his eyes out be blind or no ; or whether it be possible what the for him that hath one leg shorter than another to halt. But iTand what I said that Christ's elect church is the whole multitude of all faith saveth. .
 
-wT- repenting sinners that believe in Christ, and put all their trust and confidence in the mercy of God ; feeling in their hearts that God for Christ's sake loveth them, and will be, or rather is, merciful unto them, and forgiveth them their sins of which they repent ; and that he forgiveth them also all the motions unto sin, of which they fear lest they should thereby be drawn into sin again. And this faith they have without all respect of their own deservings, yea, and for none other cause than that the merciful truth of God the Father, which cannot lie, hath so promised and so sworn.
+wT-repenting sinners that believe in Christ, and put all their trust and confidence in the mercy of God ; feeling in their hearts that God for Christ's sake loveth them, and will be, or rather is, merciful unto them, and forgiveth them their sins of which they repent ; and that he forgiveth them also all the motions unto sin, of which they fear lest they should thereby be drawn into sin again. And this faith they have without all respect of their own deservings, yea, and for none other cause than that the merciful truth of God the Father, which cannot lie, hath so promised and so sworn.
 
 By faith we And this faith and knowledge is everlasting life ; and by are made the .-.. ,, 111 /»^-i .
 
@@ -298,8 +283,6 @@ For whatsoever any man hath committed, if he repent and come to this rock, .he i
 . ' f . * by Christ's way than this, the same is an heretic out of the right way, d|j£Vnd and not of Christ's church.
 
 For this knowledge maketh a man of the church. And the church is Christ's body (Col. i.) ; and every person of the COL L church is a member of Christ (Eph. v.). Now it is no EPh.v. member of Christ that hath not Christ's Spirit in it (Rom. Rom. via. viii.) ; as it is no part of me, or member of my body, wherein my soul is not present and quickeneth it. And then, if a man be none of Christ's, he is not of his church.
-
-32 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 How a true member of Christ's church sinneth not; and how he is yet a sinner.
 
@@ -320,8 +303,6 @@ And as they sin not, so they err not. And on the other side as they sin, so they
 THE BELIEVER INFIRM, YET SAFE. 33 nation. For they never sin of purpose, nor hold any error maliciously, sinning against the Holy Ghost ; but of weakness ^j^nand and infirmity : as good obedient children, though they love weaknesstheir father's commandments, yet break them oft by the reason of their weakness. And as they cannot yield them selves bond unto sin, to serve it, even so they cannot err in any thing that should be against the promises which are in Christ. And in other things their errors be not unto damnation, though they be never so great, because they hold them not maliciously : as now, if some, when they read in the new Testament of Christ's brethren, would think that they were our lady's children, after the birth of Christ, (because they know not the use of speaking of the scripture or of the Hebrews, how that nigh kinsmen be called bre thren, or haply they might be Joseph's children by some first wife,) neither can have any to teach them for tyranny that is so great ; yet could it not hurt them, though they died therein, because it hurteth not that redemption that is in Christ's blood : for though she had none but Christ, I am therefore never the more saved ; neither yet the less, though she had had. And in such like an hundred, that pluck not we may err and yet be a man's faith from Christ, they might err, and yet be neversave(*- theless saved ; no, though the contrary were written in the gospel. For as in other sins, as soon as they be rebuked, they repent ; even so here, as soon as they were better taught, they should immediately knowledge their error, and not resist.
 
 But they which maliciously maintain opinions against the scripture, or that they cannot be proved by the scripture ; or such as make no matter unto the scripture and salvation that is in Christ, whether they be true or no ; and for the blind zeal of them make sects, breaking the unity of Christ's church, for whose sake they ought to suifer all things ; and rise against their neighbours, whom they ought to love as who they themselves, to slay them ; such men, I say, are fallen from Christ, and make an idol of their opinions. For except they put trust in such opinions, and thought them necessary unto salvation, or with a cankered conscience went about to de ceive for some filthy purpose ; they would never break the unity of faith, or yet slay their brethren. Now is this a plain conclusion, that both they that trust in their own way
-
-34 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 works, and they also that put confidence in their own opi nions, be fallen from Christ, and err from the way of faith that is in Christ's blood, and therefore are none of Christ's church, because they be not built upon the rock of faith.
 
@@ -361,8 +342,6 @@ Even so goeth it with God's elect. God chooseth them first, and they not God ; a
 
 [2 See n. to p. 417, Vol. i.]
 
-36 ANSWER TO SIR THOMAS MORE S DIALOGUE.
-
 rent all good learning with their teeth. And there be popeholy, which, following a righteousness of their own feigning, resist the righteousness of God in Christ. And there be that cannot attend to hearken unto the truth, for rage of lusts, which, when lusts abate, come and obey well enough. Christian And therefore a Christian man must be patient and suffer te^Sent ionff to win his brother to Christ, that he which attendeth not to day, may receive grace and hear to-morrow. We "see some at their very latter end, when cold fear of death hath quenched the heat of their appetites, learn and consent unto the truth ; whereunto before they could give none care, for the wild rages of lusts that blinded their wits.
 
 And though God's elect cannot so fall that they rise not again, because that the mercy of God ever waiteth upon them, to deliver them from evil, as the care of a kind father waiteth upon his son, to warn him and to keep him from occasions, and to call him back again if he be gone too far ; yet they forget themselves oft-times, and sink down into trances, and fall asleep in lusts for a season : but as soon as they be awaked, they repent, and come again without resist ance. God now and then withdraweth his hand and leaveth them unto their own strength, to make them feel that there is no power to do good but of God only, lest they should be proud of that which is none of theirs. God laid so sore a David. weight of persecution upon David's back, that passed his strength to bear ; so that he cried oft out of his psalms, saying, that he had lived well, and followed the right way of God in vain : for the more he kept himself from sin, the worse it went with him, as he thought; and the better with his enemy Saul, the worse he was. Yet God left him not there, but comforted him ; and shewed him things which Godmeustof before he wist not of, how that the saints must be patient, patience, and an(i abide God's harvest, until the wickedness of ungodly sinners be full ripe, that God may reap it in due season.
@@ -372,8 +351,6 @@ God also suffered occasions, stronger than David, to fall upon him, and to carry
 MERCY WAITETH EVER ON THE ELECT. 37 or rather how hard in sleep was he, in the adultery of Bathsheba, and in the murder of her husband Uriah ! But ^ at both times, as soon as he was rebuked, and his fault told jgj te him, he repented immediately, and turned again meekly. Now in all that long time, from the adultery of Bathsheba, until the prophet Nathan rebuked him, he had not lost his faith, nor yet his love unto the laws of God, no more than a man loseth his wits when he is asleep : he had forgot himself only, and had not maliciously cast off the yoke of God's commandments from off his neck. There is no man we may commit sin, so good, but that there cometh a time upon him, when he feeleth in himself no more faith, or love unto God, than a sick man oft-times feeleth the taste of his meat which he eateth.
 
 And in like manner the apostles of Christ at his passion were astonished and amazed, and in such a storm of temptations, for the sudden change from so great glory into so vile and shameful death, that they had forgot all the miracles, and muraclesall the words which he had told them before, how that he should be betrayed and delivered on the same manner unto death. Moreover, they never understood that saying of his death, because their hearts were alway heavy, and overladen with earthly thoughts. For though they saw him raise up other, yet who should raise him up, when he were dead, they could not comprehend. Read what thou read canst, and thou A great shalt find no temptation like unto that from the creation of the world, or so great as it, by the hundred part : so ap that the wonderful sudden change and the terrible sight of his passion, and of his most cruel and most vile death ; and the loss of whom they so greatly loved, that their hearts would fain have died with him ; and the fear of their own death; and the impossibility that a man should rise again of his own power ; so occupied their minds, and so astonished them and amazed them, that they could receive no comfort, either of the scripture, or of the miracles which they had seen Christ do ; nor of the monitions and warnings wherewith he had warned them before ; neither of the women that brought them tidings that he was risen. The sword of temptations, with fear, sorrow, mourning, and weeping, had deeply pierced their hearts, and the cruel sight had so cum bered their minds, that they could not believe death put off
-
-38 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 The apostles and overcome, until Christ himself came : yea, and when they Xtfui.7 first saw him, they were astonished for wondering and joy together, that thoughts arose in their hearts, * Alas, is this he, or doth some spirit mock us?' He was fain to let them feel him, and to eat with them, to strength their faiths. 1 Howbeit there was none of them that was fallen in his heart from Christ. For as soon as the women brought word, Peter and John ran into the sepulchre, and saw, and wondered, and would fain have believed that he was risen ; and longed for him, but could not believe ; the wound of temptation being greater than that it could be healed with the preaching of a woman, without any other miracle. Joseph of Arimathea and Nicodemus, which, while he yet lived, durst not be Christ, his aknowen of l him, as soon as he was dead begged his body, resurrection. * '
 
@@ -395,7 +372,7 @@ I1 Acknowledge. See n. 3, p. 465, Vol. I.] [2 Used as in old French, for distrus
 
 P "Upon Peter's first confession of the right faith, that Christ was God's Son, our Lord made him his universal vicar, and under him
 
-THE DISCIPLES' FAITH CAST DOWN, BUT NOT DESTROYED. 39
+## The Disciples' Faith Cast Down, but Not Destroyed. 39
 
 Christ saith, " Simon, Simon, Satan seeketh you, to sift you Luke xxii. as men sift wheat ; but I have prayed for thee that thy faith shall not fail : wherefore when thou art come unto thyself again, strength thy brethren." Now put this wise gloss A foolish
 
@@ -412,8 +389,6 @@ A o „),,,,.«*. ~e church of
 Christ, is not of Christ's church. The pope believeth not to Christ. be saved through Christ : for he teacheth to trust in holy head of his church ; and that for his successor he should be the first upon whom, and whose firm confessed faith, he would build his church, and of any that was only man make him the first, and chief head and ruler thereof. Therefore he shewed him that his faith, i.e. to wete the faith by him confessed, should never fail in his church ; nor never did it, notwithstanding his denying. For yet stood still the light of faith in our lady ; of whom we read in the gospel, continual assistance to her sweetest son, without fleeing or flitting. And in all other we find either fleeing from him, one time or other, or else doubt of his resurrection after his death, his dear mother only except. For the signification and remembrance whereof the church yearly, in the Tenebrce lessons, leaveth her candle burning still, when all the remnant, that signifieth his apostles, be one by one put out. And sith his faith that he professed abode in our lady, the promise that God made was, as it seemeth, meant to him but as head of the church." More's Dial., ch. xviii. fol. 143. col. 2.]
 
 [4 The unhappy gentleman whose derangement was thus a matter of notoriety, was burnt for a heretic, about ten years after this men tion of him, to revenge some insult against the reigning superstition, which he had perpetrated with a madman's heedlessness of the con sequences. An account of the origin of his calamity, and of the offence for which some said that he was so cruelly treated, may be seen in Foxe's Acts and Mon. B. VIIL; and further interesting details, describing the knowledge of the scriptures which he manifested in a lucid interval, may be seen in a letter from R. Hilles, the merchant, to Hen. Bullinger, in the Park. Soc. Orig. Letters, No. cv. pp. 200-1.]
-
-40 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 works for the remission of sins and salvation; as in the works of penance, enjoined in vows; in pilgrimage; in chastity; in other men's prayers and holy living; in friars and friars' coats; in saints' merits; and, the significations put out, he teacheth to believe in the deeds of the ceremonies and of the sacrament, ordained at the beginning to preach unto us, and to do us service, and not that we should believe in them and serve them. And a thousand such superstitiousnesses setteth he before us, instead of Christ to believe in; neither Christ nor God's word, neither honourable to God nor serviceable unto our neighbour, nor profitable unto ourselves for the taming of the flesh; which all are the denying of Christ's blood. 2. Another reason is this. Whosoever believeth in Christ, consenteth that God's law is good. The pope consenteth not The pope in that God's law is good. For he hath forbidden lawful wedlock SSiig'efo unto all his1, over whom he reigneth as a temporal tyrant priests doth . , _ * . ,. _ A t .•
 
@@ -441,7 +416,7 @@ is thus given by Basnage: Qui junctus matrimonio concubinam habet communione pri
 
 [5 See Vol. i. p. 328, n. 3, for this canon.]
 
-ANSWER TO SIR THOMAS MORELS DIALOGUE.
+## Answer to Sir Thomas Morels Dialogue
 
 The pope is utterly against the doctrine of Christ.
 
@@ -459,13 +434,11 @@ Notwithstanding because, as they be all shaven, they be all shameless to affirm 
 
 t1 The heading of ch. n. B. n. of More's Dial, is, " The author sheweth that no sect of such as the church taketh for heretics can be the church ; forasmuch as the church was before all them, as the tree from which all those withered branches be fallen."]
 
-THE POPE AND HIS CLERGY ARE NOT THE CHURCH. 43
+## The Pope and His Clergy Are Not the Church. 43
 
 But inasmuch as "the kingdom of God standeth not in The solution, words," as Paul saith, " but in power;" therefore look unto the i cor. iv. marrow and pith of the thing's self, and let vain words pass. Under Abraham, Isaac, and Jacob was the church great in faith, and small in number. And as it increased in number, so it decreased in faith, until the time of Moses. And out of those unbelievers God stirred up Moses, and brought them unto the faith right again. And Moses left a glorious church, both in faith and the cleaving unto the word of God ; and de livered them unto Joshua, Eleazar, Phineas, and Caleb.
 
 But as soon as the generation of them that saw the mi racles of God were dead, they fell to idolatry immediately ; as thou seest in the bible. And God, when he had delivered them into captivity for to chastise their wickedness, stirred them up a prophet evermore, to call them unto his testament again. And so he did well nigh an hundred times, I suppose, The right ere Christ came; for they never bode any space in the right J^Jf^gj faith. And against the coming of Christ, the scribes, Phari- ^f^fof sees, Caiphas, Annas, and the elders, were crept up into the the churchseat of Moses, Aaron, and the holy prophets and patriarchs, and succeeded them lineally, and had the scripture of God; but even in captivity, to make merchandise of it, and to abuse it unto their own glory and profit. And though they kept the people from outward idolatry of worshipping of images with the heathen, yet they brought them into a worse inward idolatry, of a false faith and trust in their own deeds, and in vain traditions of their own feigning ; and had put out the significations of all the ceremonies and sacraments of the old Testament ; and taught the people to believe in the work's self, and had corrupted the scripture with false glosses : as thou mayest see in the gospel, how Christ warneth his disciples to beware of the leaven of the Pharisees, which was their false doctrine and glosses. And in another place he rebuked Matt. xvi. the scribes and the Pharisees, saying: "Wo be to them," beMatt. xxm. cause they had taken away the key of knowledge, and had shut up the kingdom of heaven, and neither would enter in themselves nor suffer them that would. How had they shut it up? Verily with their traditions and false glosses; which they had sewed to the scripture in plain places; and in the taking away the meaning of the ceremonies and sacrifices, and teaching to believe in the work.
-
-44 ANSWER TO SIR THOMAS MORE*S DIALOGUE.
 
 Hypocrites And our hypocrites are in like manner crept up into the
 
@@ -505,8 +478,6 @@ Another argument.
 
 Another like blind reason they have, wherein is all their trust. As we come out of them and they not of us, so we Their second receive the scripture of them, and they not of us. How know re we that it is the scripture of God, and true, but because they teach us so ? How can we believe, except we first believe that they be the church, and cannot err in any thing that pertaineth unto our soul's health ? For if a man tell me of a marNote here vellous thing, whereof I can have no other knowledge than by
 
-46 ANSWER TO SIR THOMAS MORfi's DIALOGUE.
-
 his mouth only ; how should I give credence, except I believe that the man were so honest that he could not lie, or would not lie ? Wherefore, we must believe that they be the right church that cannot err, or else we can believe nought at all1.
 
 This wise reason is their shot anchor, and all their hold, their refuge to fly unto, and chief stone in their foundation ;
@@ -529,8 +500,6 @@ glosses ; and so rough that no man could walk in the way of them. For when God s
 
 And as I said, they taught the people to believe in the The Pharisees deeds of the ceremonies, which God ordained, not to justify, agree in the
 
-48 ANSWER TO SIR THOMAS MORfi'S DIALOGUE.
-
 raise interbut to be signs of promises, by which they that believed were justified. But the Pharisees put out the significations, and quenched the faith, and taught to be justified by the work, as ours have served us.
 
 The sacraFor our sacraments were once but signs ; partly of what we should believe, to stir us up unto faith ; and partly what we should do, to stir us up to do the law of God ; and were not works to justify.
@@ -552,8 +521,6 @@ Now therefore, when they ask us how we know it is the Question scripture of God 
 If they allege St Augustine, which saith, " I had not believed the gospel, except the authority of the church had moved me1 :" I answer, as they abuse that saying of the holy
 
 1 This expression occurs in a controversial treatise, which Augus tine wrote to expose the folly of the Manichseans, in giving faith to what they called Epistola Fundamenti, which began as follows : Manichseus, apostolus Jesu Christ! providentia Dei Patris. Hscc sunt salubria verba, de perenni ac vivo fonte. And Augustine, having transcribed these words, says, Non credo istum esse apostolum Christi. Quseso ne succenseatis, et maledicere incipiatis. Nostis enim me statuisse r i 4
-
-50 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 man, even so they allege all the scripture, and all that they bring for them, even in a false sense. St Augustine, before l6' he was converted, was an heathen man, and a philosopher, full of worldly wisdom, unto whom the preaching of Christ is i cor. i. but foolishness, saith Paul (1 Cor. i.). And he disputed with blind reasons of worldly wisdom against the Christen. Never theless, the earnest living of the Christen, according unto their doctrine, and the constant suffering of persecution and adversity for their doctrine's sake, moved him, and stirred him to believe that it was no vain doctrine ; but that it must needs be of God, in that it had such power with it. For it happeneth that they which will not hear the word at the be ginning, are afterward moved by the holy conversation of them that believe : as Peter warneth Christian wives that i Pet. Hi. had heathen husbands, that would not hear the truth preached, to live so godly that they might win their heathen husbands i cor. vii. with holy conversation. And Paul saith, " How knowest thou, Christian wife, whether thou shalt win thine heathen husband?" With holy conversation, meant he: for many are won with godly living, which at the first either will not hear, or cannot believe. And that is the authority that St Augustine meant. But if we shall not believe till the living of the spiritualty convert us, we be like to bide long enough in unbelief.
 

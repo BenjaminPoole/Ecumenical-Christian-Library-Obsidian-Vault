@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART VII.
 
-THE SUCCESS OF REDEMPTION FROM THE PRESENT TIME TO THE FALL OF ANTICHRIST.
+*The Success of Redemption from the Present Time to the Fall of Antichrist*
 
 I come now to show how the success of Christ’s redemption will be carried on from the present time, till Antichrist is fallen, and Satan’s visible kingdom on earth is destroyed.—With respect to this space of time, we have nothing to guide us but the prophecies of Scripture. Through most of the time from the fall of man to the destruction of Jerusalem by the Romans, we had scripture history to guide us; and from thence to the present time we had prophecy, together with the accomplishment of it in providence, as related in human histories. But henceforward we have *prophecy alone* to guide us. And here I would pass by those things that are only conjectured, or that are surmised by some from those prophecies which are doubtful in their interpretation, and shall insist only on those things which are more evident.
 

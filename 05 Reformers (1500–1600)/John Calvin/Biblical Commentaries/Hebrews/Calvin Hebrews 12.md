@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Heb 12:1-3
 

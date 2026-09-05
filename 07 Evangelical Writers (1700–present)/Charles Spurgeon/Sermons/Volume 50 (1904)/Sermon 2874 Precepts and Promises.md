@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Precepts and Promises
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2874
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If anyone serves Me, let him follow Me; and where I am, there shall also My servant be: if anyone serves Me, him My Father will honor." John 12:26.
 
@@ -101,7 +98,7 @@ Some of you cannot do this—you who are not renewed in heart and life. I might 
 
 May God raise up many who will feel the power of these words! If we only get a few of such men who will follow the Lord fully, happy will be the churches to which they belong, blessed will be the age in which they live, highly privileged will be the land in which they dwell—for such men are God's heroes! These are the soldiers who will stand firm in the day of battle and who will help to save our country from ever becoming Roman Catholic again! May we have many such men and many such women in every age till Jesus comes, and glory dawns! May this be your happy lot, my dear Brothers and Sisters, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 12:20-41.
+## Exposition by C. H. Spurgeon: John 12:20-41
 
 Our Lord had raised Lazarus from the dead and this miracle had excited great attention in Jerusalem. In consequence of this, the people had led Him in triumph through the streets, and everywhere there was great excitement. Everybody was speaking of the wonderful miracle which He had worked.
 
@@ -128,7 +125,6 @@ perfect Son of God was condemned to die, that action condemned the society of th
 34-36. The people answered Him, We have heard out of the Law that Christ abides forever: and how can You say, The Son of Man must be lifted up? Who is this Son of Man? Then Jesus said unto them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for he that walks in darkness knows not where he goes. While you have light, believe in the light, that you may be the children of light It is always well to use the Light of God that we already have. If any man will use the Light he already has, God will be sure to give him more. That is a good saying of an old Puritan, "If you have starlight, thank God for it and He will give you moonlight. And when you have moonlight, give thanks to God for it and He will give you sunlight." And so it shall be. Nothing is worse than sinning against the Light of Good. If it is only the light of conscience, even if you know it is not perfect, yet, nevertheless, never sin against it, for, if you do, you will quench it, and to quench the Light you have, is the way to effectually prevent your having any more. "While you have light, believe in the light, that you may be the children of light."
 
 36-41. These things spoke Jesus, and departed, and did hide Himself from them. But though He had done so many miracles before them, yet they believed not on Him: that the saying of Isaiah the Prophet might be fulfilled, which he spoke, Lord, who has believed our report? And to whom has the arm of the Lord been revealed? Therefore they could not believe, because that Isaiah said again, He has blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them. These things said Isaiah, when he saw His Glory, and spoke of Him. There is such a thing as judicial blindness. If men can see and yet will not see, God is at last so provoked by their wickedness that He takes away the Light of God altogether and removes from them the very faculty of sight. It is not surprising that it should be so, for it was so with the generation in which Christ lived. They had so long rejected the true Prophet—so long refused to listen to the voice of God, that, at last, He abandoned them to their own ways—and nothing worse can happen to a man than to be abandoned of God! If God casts you off, you are lost indeed.
-
 
 ---
 [[Sermon 2873 Who Loves Christ More|← #2873]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2875 Confirming the Witness of Christ|#2875 →]]

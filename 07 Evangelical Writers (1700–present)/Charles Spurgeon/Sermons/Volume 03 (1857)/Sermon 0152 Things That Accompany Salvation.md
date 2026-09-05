@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/03
 ---
-
 # Things That Accompany Salvation
 
 *New Park Street Pulpit* · Sermon No. 152
@@ -161,8 +160,7 @@ They are for ever blest.”
 
 And now follow everlasting songs—“Praise him, praise him, King of kings and Lord of lords; he hath gotten him the victory. Hallelujah, hallelujah, hallelujah, world without end! Hallelujah, yet again!” Let the echoes of eternity perpetually cry, “Hallelujah! for”
 
-“THINGS THAT ACCOMPANY YOUR SALVATION.”
-
+## “Things that Accompany Your Salvation.”
 
 ---
 [[Sermon 0151 The Condescension of Christ|← #151]] · [[Volume 03 (1857)|Volume 03 (1857) Contents]] · [[Sermon 0153 The Mysteries of the Brazen Serpent|#153 →]]

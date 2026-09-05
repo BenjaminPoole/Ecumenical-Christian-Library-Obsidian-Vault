@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # 'Go in Peace'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2770
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He said to the woman, Your faith has saved you; go in peace." Luke 7:50.
 
@@ -109,7 +106,7 @@ Go in for that, Beloved, for surely you have a right to it if you are a believer
 
 God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS2.
+## Exposition by C. H. Spurgeon: Ephesians 2
 
 Verse 1. And you has He quickened. You, who were dead by nature, are now made alive unto God by the Holy Spirit. If you had nothing else to think of, all day long, but just these five words, they might suffice to lift you up to the very heights of grateful adoration of your quickening Lord—"And you has He quickened."
 
@@ -138,7 +135,6 @@ Verse 1. And you has He quickened. You, who were dead by nature, are now made al
 14\. For He is our peace, who has made both one and has broken down the middle wall of partition between us. There are now no privileges for the Jew from which the Christian is shut out, for Christ "has made both one." There is now neither circumcision nor uncircumcision, for all Believers are one in Christ Jesus.
 
 15-22. Having abolished in His flesh the enmity, even the law of commandments contained in ordinances; for to make in Himself of two, one new man, so making peace; and that He might reconcile both unto God in one body by the Cross, having slain the enmity thereby: and came and preached peace to you who were afar off, and to them that were near. For through Him we both have access by one Spirit unto the Father. No w therefore you are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God; and are built upon the foundation of the Apostles and Prophets, Jesus Christ Himself being the chief cornerstone in whom all the building fitly framed together grows unto an holy Temple in the Lord: in whom you also are built together for an habitation of God through the Spirit. May we realize that the Holy Spirit is inhabiting His own Church at this moment and, especially, may all of us who believe in our Lord Jesus Christ, realize our own position in that spiritual Temple which is the "habitation of God through the Spirit," for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2769 The Weakened Christ Strengthened|← #2769]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2771 Peter's Fall and Restoration|#2771 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 111. Matthew 13:44-52
-
-**Matthew 13:44-52**
 
 **44**. Again, the kingdom of heaven is like a treasure hid in a field, which when found a man hideth, [^1] and for the joy which he hath on account of it, goeth away, and selleth all that he hath, and buyeth that field. **45**. Again, the kingdom of heaven is like a merchant, seeking beautiful pearls, [^2] **46**. Who, having found one valuable pearl, went away, and sold all that he possessed, and bought it. **47**. Again, the kingdom of heaven is like a net east into the sea, and collecting of every kind, [^3] **48**. Which, when it was full, they drew to shore, and sat down, and collected the good into vessels, but cast away the bad. [^4] **49**. So shall it be at the end of the world: the Angels will come, and will separate the bad from the midst of the righteous, **50**. And will cast them into a furnace of fire: there shall be lamentation and gnashing of teeth. **51**. Jesus saith to them, Have you understood all these things? They say to him, Yes, Lord. **52**. But he said to them, Therefore every scribe instructed in reference to the kingdom of heaven [^5] is like a householder, who bringeth forth out of his treasure things new and old.
 

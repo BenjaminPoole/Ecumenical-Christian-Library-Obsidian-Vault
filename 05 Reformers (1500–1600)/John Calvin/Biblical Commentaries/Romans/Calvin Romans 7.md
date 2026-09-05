@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Romans 7:1-4
 

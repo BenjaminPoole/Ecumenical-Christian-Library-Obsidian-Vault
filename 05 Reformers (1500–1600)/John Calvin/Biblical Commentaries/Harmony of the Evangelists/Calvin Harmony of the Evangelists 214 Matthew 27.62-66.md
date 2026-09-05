@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 214. Matthew 27:62-66
-
-**MATTHEW 27:62-66**
 
 **62.** And the next day, which is after the preparation, [^1] the chief priests and Pharisees came to Pilate, **63.** Saying, Sir, we remember that that impostor said, while he was still alive, After three days I shall rise again. **64.** Command, therefore, that the sepulcher be made secure till the third day, lest perhaps his disciples come by night to steal him, and say to the people, He is risen from the dead; and the last error shall be worse than the first. **65.** Pilate saith to them, You have a guard; go, make it as secure as you can. **66.** And they went and made the sepulcher secures sealing the stone, and posting guards.
 

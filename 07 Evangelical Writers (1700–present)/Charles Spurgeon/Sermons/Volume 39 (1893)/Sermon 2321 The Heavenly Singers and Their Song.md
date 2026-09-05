@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Heavenly Singers and Their Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2321
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when He had taken the Book, the four beasts and twenty-four elders fell down before the Lamb, having, every one of them, harps and golden vials full of odors, which are theprayers of saints. And they sung a new song, saying, You are worthy to take the Book, and to open its seals: for You were slain and have redeemed us to God by Your blood out of every kindred, and tongue, and people, and nation; and have made us unto our God kings and priests: and we shall reign on the earth." Revelation 5:8-10.
 
@@ -95,7 +92,7 @@ The man who lives for himself shall never reign on the earth! "Blessed are the m
 
 I wish that everybody here would take to searching himself as to whether he is likely to be of that blessed number. Do you with joy accept Christ as your Mediator? Do you see clearly how worthy He is to be the Mediator? Have you been redeemed from among men? Have you been taken away from old associations? Have you broken loose from habits that held you a slave among the Egyptians? Have you come into a new society? Has God brought you into a new Heaven and a new earth? Has He given you any measure of reigning power over yourself? Do you live as a priest, serving God continually? If you are obliged to keep on saying, "No, no, no," to all these questions, then what shall I say but, "Come to Christ"? May you come to Him, tonight! May He, tonight, begin in you that blessed process that shall make you meet to be partaker of the inheritance of the saints in light, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON PSALM136.
+## Exposition by C. H. Spurgeon Psalm 136
 
 When the chorus was taken up by the whole of the people, accompanied by a blast of trumpets, this must have been a magnificent hymn of praise.
 
@@ -142,7 +139,6 @@ the wonderful jewel. The Psalmist does not merely say that Jehovah smote great k
 24, 25. From our enemies: for His mercy endures forever. Who gives food to all flesh: for His mercy endures forever. God is the great Feeder of the world. What a commissariat is that of the universe! One cannot think of the needs of the five millions in London without shuddering lest, some day, there should not be food enough for them. But there always is. I will not trace it to the mere fact that trade and commerce supply us. No, there is an over-ruling Power at the back of it all, depend upon it! All the world seems eager to supply our markets and to make the loaf for the laborer, but it is God who has planned it all! Let us praise Him "who gives food to all flesh." As for spiritual meat, He will give us that, too! I trust we shall all have a portion of meat in due season, tonight. If any shall be hungry at the end of the service, it shall be surely from lack of willingness to be fed rather than lack of suitability in the Word of God to sustain the spirit and bless the soul.
 
 26\. O give thanks unto the God of Heaven: for His mercy endures forever.
-
 
 ---
 [[Sermon 2320 The Beloved Pastor's Plea for Unity|← #2320]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2322 When Can We Find Comforters|#2322 →]]

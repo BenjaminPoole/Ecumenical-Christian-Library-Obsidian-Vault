@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule V. Maintenance for them and their families, by the administration of earthly things suitable to the state and condition of the churches, is required from their flocks
-
-Rule v. Maintenance for them and their families, by the administration of earthly things suitable to the state and condition of the churches, is required from their flocks.
 
 1 Tim. v. 17, 18, “Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine. For the Scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.”
 
@@ -31,7 +28,6 @@ Explication v. It is a promise to the church under the gospel, that “kings sho
 Other works had need to be done for them.
 
 3\. The *equity* of the duty. Our Saviour and the apostles plead it out from grounds of equity and justice, and all kinds of laws and rules of righteousness, among all sorts of men, Matt. x. 9, 10, 1 Cor. ix. 10; allowing proportionable rectitude in the way of recompense to it with the wages of the labourer, which to detain is a crying sin, James v. 4, 5, — the wretched endeavours of men of corrupt minds to rob and spoil them of all that, by the providence of God, on any other account, they are righteously possessed of.
-
 
 ---
 [[ECFC 07 Rule IV. Reverential estimation of him, with submission unto him for his work’s|← Rule IV. Reverential estimation of him, with submission unto him for his work’s sake]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 09 Rule VI. Adhering to him and abiding by him in all trials and persecutions for|Rule VI. Adhering to him and abiding by him in all trials and persecutions for the word →]]

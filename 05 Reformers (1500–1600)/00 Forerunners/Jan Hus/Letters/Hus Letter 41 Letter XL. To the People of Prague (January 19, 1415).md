@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 41. Letter XL. To the People of Prague (January 19, 1415)
-
-LETTER XL. TO THE PEOPLE OF PRAGUE (January 19, 1415)
 
 His sickness ; Consolations in God ; I need ' ' your best help " ; Hisiletter falsely translated ; No help but Christ; Remember my past love and toil for you 172-3
 

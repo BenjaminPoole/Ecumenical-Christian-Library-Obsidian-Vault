@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 23. Decade 2, Sermon 10, Part 2
 
 ae tee The apostle Paul, verily, doth expressly say, that “ meat commendeth us not to God: for neither if we eat, have we anything the more; neither if we eat not, have we anything the less?.” He therefore doth not fast truly, which doth
@@ -34,7 +33,7 @@ But now I see a doubtful disputation arise among the most divines of this our ag
 
 Of the manner and time of fasting, and of the choice of meats.
 
-432 THE SECOND DECADE. [SERM.
+## 432 the Second Decade. [Serm
 
 «To the pure are all things pure'.” And Paul saith: “I know, and am persuaded through the Lord Jesus Christ, that nothing is common of itself; but to him that thinketh that any thing is common, to him is it common.” Again: “ Let not him which eateth despise him which eateth not; nor let him which eateth not judge him which eateth: for him that eateth the Lord hath taken*®.” Moreover, the place is evident, which the same Paul writeth in the fourth chapter of his first epistle to Timothy, where he affirmeth, that the forbidding of meats is a “doctrine of devils.” Neither needeth any man here to tell us any whit of the Tatians and Encratites*; for they did slander the good creatures of God. Paul speaketh of them who, although they do not utterly condemn meat and marriage, do yet notwithstanding forbid the use of meat. Difference in Furthermore, we do not read that any laws were ordained ne in that age which followed next after the preaching of the apostles, which did command and prescribe any time and order of fasting, or choice of meats. I will rehearse unto you, : dearly beloved, the words of Irenzus the martyr, which in the Ecclesiastical History of Eusebius are to be found word for word, as they are here set down: “The controversy is not only touching Easter-day, but also touching the manner of fasting. For some do think that the fast ought to be kept but one day only, other two, other more, and some whole forty days; so that, counting the hours of the night and day, they make a day. Which difference of observing the times is not now first of all in our age begun, but was brought in a great while ago (as I suppose) of them, which did not simply keep that which was taught from the beginning, but, either by negligence or unskilfulness, fell afterward into a worse use and custom. And yet notwithstanding, all these, though they jarred in the observation of times, were nevertheless and are
 
@@ -42,7 +41,7 @@ Of the manner and time of fasting, and of the choice of meats.
 
 [2 Rom. xiv. 14, 3.
 
-[3 The Tatiani or Tatianists, who were also called Encratite, or abstainers, were the followers of Tatian in the second century of the Christian era. They held matter to be the source of all evil, and therefore discarded all the external comforts and conveniences of life, and fasted rigorously.—Mosheim. Eccles. Hist. Book 1. Cent. 11. part 2. chap. 5. § 9. Vol. 1. p. 195. ed. Soames. See also Early Writings of Hooper, Parker Soe. ed. p. 375.] agreeable with us; neither hath the discord about fasting broke our concord in faith’ Thus much Ireneus. More- over, Socrates Constantinopolitanus in the ninth book and thirty-eighth chapter of his® Tripartite History witnesseth, that about the year of our Lord 453, in the reign of Theodo- sius the younger, the same diversity was in the church, and setteth it down in these words following: “ Furthermore, they , have not the same kind of abstinence from meat. For some do altogether abstain from living creatures; some among liv- ing creatures do eat fish only; some with fish do feed on fowls also, saying, that they (as Moses saith) have their sub- stance of water; some are known to abstain from herbs and The Latin copy hath eggs; some do feed of dry bread only ; some not so much as ¢ais, which that: some, fasting nine hours, do then without difference use herbs; it may also be any kind of meat: and innumerable customs are found among ‘2¢f2 ἴσ sundry men.” Now the very same Socrates, shewing his opinion upon that diversity, doth say: “ And for because no ancient writing is found touching this thing, I think that the apostles left it free to every man’s judgment, that every one may work, not by fear or necessity, the thing that is good®.” Thus far Socrates. The fasts of Christians, therefore, ought Fastings must be
+[3 The Tatiani or Tatianists, who were also called Encratite, or abstainers, were the followers of Tatian in the second century of the Christian era. They held matter to be the source of all evil, and therefore discarded all the external comforts and conveniences of life, and fasted rigorously.—Mosheim. Eccles. Hist. Book 1. Cent. 11. part 2. chap. 5. § 9. Vol. 1. p. 195. ed. Soames. See also Early Writings of Hooper, Parker Soe. ed. p. 375.] agreeable with us; neither hath the discord about fasting broke our concord in faith’ Thus much Ireneus. More- over, Socrates Constantinopolitanus in the ninth book and thirty-eighth chapter of his® Tripartite History witnesseth, that about the year of our Lord 453, in the reign of Theodo- sius the younger, the same diversity was in the church, and setteth it down in these words following: “ Furthermore, they , have not the same kind of abstinence from meat. For some do altogether abstain from living creatures; some among liv-ing creatures do eat fish only; some with fish do feed on fowls also, saying, that they (as Moses saith) have their sub-stance of water; some are known to abstain from herbs and The Latin copy hath eggs; some do feed of dry bread only ; some not so much as ¢ais, which that: some, fasting nine hours, do then without difference use herbs; it may also be any kind of meat: and innumerable customs are found among ‘2¢f2 ἴσ sundry men.” Now the very same Socrates, shewing his opinion upon that diversity, doth say: “ And for because no ancient writing is found touching this thing, I think that the apostles left it free to every man’s judgment, that every one may work, not by fear or necessity, the thing that is good®.” Thus far Socrates. The fasts of Christians, therefore, ought Fastings must be
 
 [4 οὐδὲ yap μόνον περὶ τῆς ἡμέρας ἐστὶν ἡ ἀμφισβήτησις, ἀλλὰ καὶ περὶ τοῦ εἴδους αὐτοῦ τῆς νηστείας. Οἱ μὲν γὰρ οἴονται μίαν ἡμέραν δεῖν αὐτοὺς νηστεύειν, of δὲ δύο, οἱ δὲ καὶ πλείονας" οἱ δὲ τεσσαράκοντα ὥρας ἡμερινάς τε καὶ νυκτερινὰς συμμετροῦσι τὴν ἡμέραν αὐτῶν. Καὶ τοιαύτη μὲν ποικιλία τῶν ἐπιτηρούντων οὐ νῦν ἐφ᾽ ἡμῶν γεγονυῖα, ἀλλὰ καὶ πολὺ πρότερον ἐπὶ τῶν πρὸ ἡμῶν, τῶν παρὰ τὸ ἀκριβὲς, ὡς εἰκὸς, κρατούντων, τὴν καθ᾽ ἁπλόtyta καὶ ἰδιωτισμὸν συνήθειαν εἰς τὸ μετέπειτα πεποιηκότων. Καὶ οὐδὲν ἔλαττον πάντες οὗτοι εἰρήνευσάν τε, καὶ εἰρηνεύομεν πρὸς ἀλλήλους, καὶ ἡ διαφωνία τῆς νηστείας τὴν ὁμόνοιαν τῆς πίστεως συνίστησι.---- ΕἸ 560. Histor. Eccles. Lib. v. cap. 24. ed. Burton. ]
 
@@ -70,7 +69,7 @@ I have again, my brethren, passed beyond the appointed time of an ordinary sermo
 
 PAGE 15 note 7 29 line 9 83 note 5 9] 3 112 line 32 123 note 4 129 line 22 212 note 2 320 line 1
 
-ERRATA.
+## Errata
 
 NOTE LINE FOR READ 2 1 hee hane 2 8 regis regio ἜΣ 12 lationis latronis 1 2 ine sine ADDENDA.
 
@@ -104,21 +103,21 @@ cf. Bp. Hooper’s Karly Writ. ed. Park. Soc. p. 78.
 
 These were the Anabaptists’ objections. See Bullinger. adv. Anabapt. Lib. v. cap. 4.
 
-THE
+## The
 
-EIGHTH ANNUAL REPORT
+## Eighth Annual Report
 
-(FOR THE YEAR 1848.) OF
+## (For the Year 1848.) Of
 
 The Parker Society,
 
-INSTITUTED A.D. 1840.
+## Instituted A.d. 1840
 
-FOR THE PUBLICATION OF
+## For the Publication Of
 
-THE WORKS OF THE FATHERS AND EARLY WRITERS OF THE REFORMED ENGLISH CHURCH.
+## The Works of the Fathers and Early Writers of the Reformed English Church
 
-PRESENTED TO THE GENERAL MEETING, MAY THE 2181, 1849.
+## Presented to the General Meeting, May the 2181, 1849
 
 “ He (Archbishop Parker) was a great collector of ancient and modern writings, and took especial care of the safe preservation of them for all succeeding times; as foreseeing, undoubtedly, what use might be made of them by posterity ; that, by having recourse to such originals and precedents, the true knowledge of things might the better appear.”
 
@@ -150,7 +149,7 @@ Ist. Another portion of Tyndale’s Works.
 
 4th. A translation of Whitaker's valuable Disputation on Holy Scripture. These volumes, it is confidently expected, will have been circulated among the members before Christmas.
 
-2 THE EIGHTH REPORT OF THE COUNCIL.
+## 2 the Eighth Report of the Council
 
 In reference to future proceedings, the Council feel that they may now speak more definitely than they have hitherto ventured to do. A wish has frequently been expressed by subscribers, to know how long the series of re-publicatiuns was likely to last; but, in the early stages of their progress, the Council could only pomt out certain works which they felt it desirable to print, and promise that pains should be taken to issue these as speedily as circumstances, with a due regard to the creditable editing of them, would allow. Now, however, when much has been accomplished, and many volumes have been presented to the subscribers, the Council can more easily define what remains to be done. They are sure that the members will agree with them in deeming the works of Bishop Jewel, and of Archbishop Whitgift, of the highest importance, which it would be a discredit to the Society to leave unfinished. To complete Jewel and to publish Whitgift must, therefore, be a main object. Simultaneously with these may proceed the remaining volumes of Tyndale, Bradford, and Hooper, of which portions have already appeared. There are also in forward preparation Archbishop Parker’s Correspondence, Rogers on the Articles, the remainder of Bullinger s Decades, the Reformatio Legum, Nowel’s Catechisms, with a few other valuable treatises and documents. The precise time of completing these must of course depend upon the support the Council continue to receive; but it may be stated with confidence, that about four years will suffice to place the works they have enumerated in the hands of the subscribers, who will then possess a series of the most important character.
 
@@ -174,7 +173,7 @@ Z1¢ Merete state IS oily wou oouvansuy 10g lL 692 veestrescreecgreesesseeeesggg
 
 Areiqvy eevee
 
-ἜΡΒΙ UVAA AHL WO
+## Ἔρβι Uvaa Ahl Wo
 
 8 L Lloegr
 
@@ -190,9 +189,9 @@ Fetes eee seeeecsceeeeeees Jomsealy 09 ὉΠΡ θυ εἰ seeeese* gunosoe [ig q
 
 Soper SS
 
-4 THE LAWS OF THE PARKER SOCIETY.
+## 4 the Laws of the Parker Society
 
-LAWS OF,THE PARKER SOCIETY.
+## Laws Of,the Parker Society
 
 I.—That the Society shall be called THE PARKER SOCIETY, and that it objects shall be—first, the reprinting, without abridgement, alteration, or omission, of the best Works of the Fathers and Early Writers of the Reformed English Church, published in the period between the accession of King Edward VI. and the death of Queen Elizabeth: secondly, the printing of such remains of other Writers of the Sixteenth Century as may appear desirable (including, under both classes, some of the early English Translations of the Foreign Reformers) ; and thirdly, the printing of some manuscripts of the same Authors, hitherto unpublished.
 
@@ -212,7 +211,7 @@ VIII.—Donations and Legacies will be thankfully received ; the amount of which
 
 THE MEMBERS OF THE PARKER SOCIETY. ὃ
 
-THE FOLLOWING NAMES, AMONG OTHERS, ARE IN THE LIST OF SUBSCRIBERS TO
+## The Following Names, Among Others, Are in the List of Subscribers To
 
 Che Parker Society,
 
@@ -254,7 +253,7 @@ The Right Honourable the Lords Ashley, (President), Bolton, Calthorpe. Farnham, 
 
 Her Grace the Duchess Dowager of Argyle-—Right Honourable the Countess of Annesley.—Right Honourable Viscountess Valentia.— Right Honourable Lady Ward, &c.
 
-6 MEMBERS OF THE PARKER SOCIETY.’
+## 6 Members of the Parker Society.’
 
 The Right Honourable the Lord Chief Justice of Ireland.—The Right Honourable Lord Justice Clerk, Scotland.—The Honourable Mr. Justice Jackson, The Chevalier Bunsen.—The Right Honourable Henry Goulburn, M.P. for the University of Cambridge.—The Right Honourable W. E. Gladstone, M.P. for the University of Oxford, &c.
 
@@ -276,7 +275,7 @@ LiIBRARIES.—The Royal Library, Berlin.—Balliol Coll. Oxford.—Gonville and 
 
 THE COUNCIL AND OFFICERS. vi
 
-THE COUNCIL AND OFFICERS FOR 1849-50.
+## The Council and Officers for 1849-50
 
 President. Tue Ricgut HonovuraBie Lorp Asutey, M.P., L.L.D., &c.
 
@@ -296,7 +295,7 @@ Auditors. Hon, A. Kinnarrp, Rey. R. E. Hankinson, H. Pownatt, Esq., and F. ΤΟ�
 
 Bankers. Messrs. Herries, Farquyar, and Co., No. 16, St. James’s Street.
 
-REGULATIONS FOR DELIVERY OF THE BOOKS PUBLISHED BY THE SOCIETY.
+## Regulations for Delivery of the Books Published by the Society
 
 I. They will be delivered, free of expense, at the Oniee, or within three miles of the General Post Office, London.
 
@@ -326,7 +325,7 @@ For 1848.
 
 A List of the Works
 
-ALREADY PUBLISHED BY THE PARKER SOCIETY.
+## Already Published by the Parker Society
 
 The Works of Bishop Ridley. The Sermons and other Pieces of Archbishop Sandys. The Works of Bishop Pilkington. The Works of Roger Hutchinson. The Examinations and Writings of Archdeacon Philpot. Christian Prayers and Meditations. Letters of Bishop Jewel, and others, translated from the Originals i in the Archives of Zurich (1st Series). The Writings of Archbishop Grindal. Early Writings of the Rev. T. Becon, Chaplain to Archbishop Cranmer, and Prebendary of Canterbury.
 
@@ -354,9 +353,9 @@ Bishop Bale’s Select Writings.
 
 Tyndale, 2nd Portion.
 
-DATE DUE
+## Date Due
 
-APR 1 4 1978
+## Apr 1 4 1978
 
 CAT. NO. 1137 wie Ὰ at at aia esky MeN y er eRe CL Lat amen tater ah
 

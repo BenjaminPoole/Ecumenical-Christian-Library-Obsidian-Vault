@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Spring In The Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 675
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 11, 1866,.
+*Delivered on Sunday Morning, February 11, 1866*
 
 > You water the ridges abundantly: You settle the furrows: You make it soft with showers: You bless its growth." Psalm 65:10.
 
@@ -114,7 +113,6 @@ And now to close. I think there are three lessons for us to learn. First, let ol
 The next thing I have to say is, fulfill the duty of gratitude. Beloved, if God blesses its growth we ought to be grateful for a little Grace. If you have only seen the first shoot peeping up through the mold, be thankful. And as you see the green blade waving in the breeze, be thankful for the ankle-deep verdure and you shall soon see the commencement of the ear! Be thankful for the first green ears and you shall see the flowering of the wheat, and by-and-by its ripening, and the joyous harvest.
 
 The last lesson is one of encouragement. If God blesses "its growth," dear Beginners, what will He not do for you in after days? If He gives you such a meal when you break your fast, what dainties will be on your table when He says to you, "Come and dine"? And what a banquet will He furnish at the supper of the Lamb! O troubled One! Let the storms which howl, and the snows which fall, and the wintry blasts that nip your growth all be forgotten in this one consoling thought—God blesses your growth, and whom God blesses none can curse! Over your head, dear, desiring, pleading, languishing Soul, the Lord of Heaven and earth pronounces the blessing of the Father, and the Son, and the Holy Spirit. Take that blessing and rejoice in it evermore. Amen.
-
 
 ---
 [[Sermon 0674 The Mighty Arm|← #674]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0676 Man'S Thoughts And God'S Thoughts|#676 →]]

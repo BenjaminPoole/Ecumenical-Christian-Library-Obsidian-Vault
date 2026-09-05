@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Repentance after Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2419
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, You will not despise." Psalm 51:17.
 
@@ -97,7 +94,7 @@ Oh, I think these questions must have helped to make sin seem contemptible and l
 
 God bless you, Beloved, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51.
+## Exposition by C. H. Spurgeon: Psalm 51
 
 This is a portion of Scripture which can never be read too often. If any among us have never found mercy, let them use this Psalm as their own personal prayer—while those who have found mercy can read between the lines and read the sweetness of pardon into the bitterness of sorrow for sin! This Psalm was written by David when Nathan came to him after his great sin with Bathsheba. He needed Nathan to come to him to rebuke him. If David had not been in a very sad state of heart, he would not have fallen into the sin. It was that state of heart which left him so hardened, so obdurate, that he needed Nathan pointedly to say to him, "You are the man." After that, he wrote and prayed this truly penitential Psalm.
 
@@ -148,7 +145,6 @@ Verse 1. Have mercy upon me, O God, according to Your lovingkindness. He used to
 17, 18. A broken and a contrite heart, O God, You will not despise. Do good in Your good pleasure unto Zion: build, You, the walls of Jerusalem. Now that he feels himself forgiven, he begins to pray for the good estate of the Church of God and the Lord's people everywhere! We cannot do that when sin is breaking our bones—but when we get peace and rest, then the first instinct of the newborn life is to pray for God's Kingdom—"Do good in Your good pleasure unto Zion: build, You, the walls of Jerusalem."
 
 19\. Then shall You be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering then shall they offer bullocks upon Your altar.
-
 
 ---
 [[Sermon 2418 All of One|← #2418]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2420 The King Can Do No Wrong|#2420 →]]

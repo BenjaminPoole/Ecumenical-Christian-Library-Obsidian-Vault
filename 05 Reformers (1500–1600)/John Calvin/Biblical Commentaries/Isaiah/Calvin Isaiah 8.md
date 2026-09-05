@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Isaiah 8:1-22
 

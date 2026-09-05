@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 12. Questions and Answers Concerning the Sacraments, &c., 1540
 
-[QUESTIONS1 AND ANSWERS
+*[Questions 1 and Answers*
 
-CONCERNING
+## Concerning
 
-THE SACRAMENTS AND THE APPOINTMENT AND POWER OF BISHOPS AND PRIESTS.]
+## The Sacraments and the Appointment and Power of Bishops and Priests.]
 
 Cott. Libr. Cleop. E. v,
 

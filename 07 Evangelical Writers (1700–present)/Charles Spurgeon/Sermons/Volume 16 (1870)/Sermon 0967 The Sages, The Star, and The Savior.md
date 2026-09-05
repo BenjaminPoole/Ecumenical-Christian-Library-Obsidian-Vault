@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Sages, The Star, and The Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 967
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 25, 1870.
+*Delivered on Lord's-Day Morning, December 25, 1870*
 
 > "Where is He that is born King of the Jews? For we have seen His star in the East, and are come to worship Him." Matthew 2:2.
 
@@ -182,7 +181,6 @@ And now, after you have worshipped Christ in your soul, and seen Him with the ey
 They say, "The love of Christ ought to constrain us." I do not know that there is any such text as that in the Bible, however. I do remember one text that runs thus—"The love of Christ constrains us." If it does not constrain us, it is because it is not in us. It is not merely a thing which ought to be, it must be. If any man loves Christ, he will very soon be finding out ways and means of proving his love by his sacrifices. Go home, Mary, and fetch the alabaster box, and pour the ointment on His head, and if any say, "Why this waste?" you will have a good reply, you have had much forgiven you, and therefore you love much.
 
 If you have gold, give it. If you have frankincense, give it. If you have myrrh, give it to Jesus. And if you have none of these things, give Him your love—all your love, and that will be gold and spices all in one! Give Him your tongue, speak of Him. Give Him your hands, work for Him. Give Him your whole self. I know you will, for He loved you, and gave Himself for you. The Lord bless you, and may this Christmas Lord's-Day morning be a very memorable day to many out of the crowd assembled here. I am surprised to see so vast a number present, and I can only hope the blessing will be in proportion, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0966 Joseph's Bones|← #966]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]]

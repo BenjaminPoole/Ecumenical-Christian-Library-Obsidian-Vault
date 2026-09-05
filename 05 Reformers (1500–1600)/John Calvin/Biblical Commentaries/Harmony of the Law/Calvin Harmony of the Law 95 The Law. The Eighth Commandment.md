@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 95. The Law: The Eighth Commandment
 
 **The Eighth Commandment**
@@ -22,7 +21,7 @@ tags:
 
 **15.** Thou shalt not steal.
 
-**THE REPETITION OF THE SAME COMMANDMENT**
+## **The Repetition of the Same Commandment**
 
 **Deuteronomy 5**
 

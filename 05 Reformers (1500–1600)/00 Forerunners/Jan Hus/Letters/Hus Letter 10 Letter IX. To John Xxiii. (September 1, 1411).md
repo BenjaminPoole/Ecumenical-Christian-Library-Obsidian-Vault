@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 10. Letter IX. To John Xxiii. (September 1, 1411)
-
-LETTER IX. TO JOHN XXIII. (September 1, 1411)
 
 Hus complains of false charges ; His action as to the expulsion of the Germans; Why he did not appear when cited to Rome ; Desires to be tried before the University, and will abide the consequences 51-4
 

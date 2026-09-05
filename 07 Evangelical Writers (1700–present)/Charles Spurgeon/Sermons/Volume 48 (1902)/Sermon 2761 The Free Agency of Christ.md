@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Free Agency of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2761
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He came to Bethsaida; and they brought a blind man to Him, and begged Him to touch him. So He took the blind man by the hand and led him out of the town. And when He had spit on his eyes and put His hands on him, He asked him ifhe saw anything. And he looked up and said, Isee men as trees, walking. After that Heput His hands again upon his eyes, and made him look up: and he was restored, and saw everyone clearly." Mark 8:22-25.
 
@@ -89,7 +86,7 @@ Well, dear Friend, that is the Lord Jesus Christ leading you out of town, gettin
 
 Therefore, look into your own affairs. Cast up your own account and, before the living God, stand separate from all your fellow men! I believe that if any of you have reached that point, you are where the deed of Grace shall be done. May the Lord enable you to yield yourself up completely to Him, for your safety lies there! We rightly put faith before you as a look, but now I will put it before you, if you have not even an eye to look with, as the yielding up of yourself to the guidance of the Savior. Be nothing and let Christ be everything! Give yourself entirely up into His hands and He must and will save you! For, though it is faith in its passive form, it is, nevertheless, a real and saving faith! And blessed are all they that have it! May God grant it to everyone of us now, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK8:1-30.
+## Exposition by C. H. Spurgeon: Mark 8:1-30
 
 Verses 1-4. In those days the multitude being very great, and having nothing to eat, Jesus called His disciples to
 
@@ -118,7 +115,6 @@ upon his eyes, andmade him look up: and he was restored, andsaw everyone clearly
 29\. And Peter answered and said unto Him, You are the Christ. "You are the Messiah." We know, from Matthew's Gospel, that it was this confession of which our Lord said to Peter, "Blessed are you, Simon Bar-Jona," son of Jonas— "for flesh and blood have not revealed it unto you, but My Father which is in Heaven."
 
 30\. And He charged them that they should tell no man of Him. He wished, at that time, to remain in comparative retirement. He was not anxious that His miracles should be blazoned abroad. By-and-by He was to die and He preferred to derive His fame from His death rather than from His life—to gather His honors from His Cross rather than from His miracles. He never bade any man to be silent about His death on the Cross, but when honor was likely to come to Him among men from His miracles, He frequently "charged them that they should tell no man of Him." That restriction is no longer in force—it was entirely abrogated after our Lord's Resurrection when He said to His disciples, "All power is given unto Me in Heaven and in earth. Go you therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit: teaching them to observe all things whatever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen."
-
 
 ---
 [[Sermon 2760 A King Sent in Love|← #2760]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2762 Taking Hold of God's Covenant|#2762 →]]

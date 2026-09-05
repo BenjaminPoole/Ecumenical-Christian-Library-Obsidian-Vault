@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Witnessing Better Than Knowing the Future
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2330
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When they therefore were come together, they asked of Him, saying, Lord, willyou at this time restore again the kingdom to Israel? And He said unto them, It is not for you to know the times or the seasons which the Father has put in His own power. But you shall receive power when the Holy Spirit has come upon you: andyou shall be witnesses unto Me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth." Acts 1:6-8.
 
@@ -111,7 +108,7 @@ And, specially, I want to bear my witness, not, of course, a personal one, but t
 
 May the Spirit of God rest upon you, Beloved in the Lord, and may you hear your Master say to you, "You shall be witnesses unto Me." Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: LUKE 4:16-30; 9:57-62 AND MATTHEW 28:16-20.
+## Expositions by C. H. Spurgeon: Luke 4:16-30; 9:57-62 and Matthew 28:16-20
 
 We will read three short passages of Scripture, all relating to Christ's service. The first concerns the ministry of the Lord Jesus, Himself.
 
@@ -162,7 +159,6 @@ Matthew 28:16. Then the eleven disciples went away into Galilee, into a mountain
 19, 20. Baptizing them in the name of the Father, and of the Son, and of the Holy Spirit: teaching them to observe all things whatever I have commanded you. There is teaching, again! It is as much the duty of the Christian to teach after Baptism as to teach before Baptism. He must be always teaching. Therefore, Believers are always to be learners, since Christ would have His servants always to be teachers—"Teaching them to observe all things whatever I have commanded you." We are not to invent a Gospel. We are not to change, shift, cut and shape it to meet the advancement of the age! Christ's command is plain—"Teaching them to observe all things whatever I have commanded you."
 
 20, And, lo, I am with you, always, even unto the end of the world. Amen. They have their commission. Here is the seal to it. Here is the source of their power. Here is the society in which they are to work—"Lo, I am with you always." God grant that you and I, going forth to teach for Christ, may always have the sound of our Master's feet with us, even to the end of the world! Amen.
-
 
 ---
 [[Sermon 2329 The Lamb Of God In Scripture|← #2329]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2331 Christ's Pastoral Prayer for His People|#2331 →]]

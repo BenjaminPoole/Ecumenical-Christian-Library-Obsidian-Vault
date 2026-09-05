@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Timothy 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## 2 Timothy 3:1-7
 

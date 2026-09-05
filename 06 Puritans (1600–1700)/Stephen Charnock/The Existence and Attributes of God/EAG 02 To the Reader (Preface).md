@@ -9,7 +9,6 @@ tags:
   - puritans
   - stephen-charnock
 ---
-
 # To the Reader (Preface)
 
 THIS long since promised and greatly expected volume of the reverend author upon the Divine Attributes, being transcribed out of his own manuscripts by the unwearied diligence of those worthy persons that undertook it,[^1] is now at last come to thy hands: doubt not but thy reading will pay for thy waiting, and thy satisfaction make full compensation for thy patience. In the epistle before his treatise on Providence, it was intimated that his following discourses would not be inferior to that; and we are persuaded that, ere thou hast perused one half of this, thou wilt acknowledge that it was modestly spoken. Enough, assure thyself, thou wilt find here for thy entertainment and delight, as well as profit. The sublimeness, variety, and rareness of the truths here handled, together with the elegancy of the composure, neatness of the style, and whatever is wont to make any book desirable, will all concur in the recommendation of this. What so high and noble a subject, what so fit for his meditations or thine, as the highest and noblest Being, and those transcendently glorious perfections wherewith he is clothed! A mere contemplation of the Divine excellencies may afford much pleasure to any man that loves to exercise his reason, and is addicted to speculation: but what incomparable sweetness, then, will holy souls find in viewing and considering those perfections now, which they are more fully to behold hereafter; and seeing what manner of God, how wise and powerful, how great, and good, and holy is he, in whom the covenant interests them, and in the enjoyment of whom their happiness consists! If rich men delight to sum up their vast revenues, to read over their rentals, look upon their hoards; if they bless themselves in their great wealth, or, to use the prophet’s words (Jer. ix. 23), “glory in their riches,” well may believers rejoice and glory in their “knowing the Lord” (ver. 24), and please themselves in seeing how rich they are in having an immensely full and all‑sufficient God for their inheritance. Alas! how little do most men know of that Deity they profess to serve, and own, not as their Sovereign only, but their Portion. To such this author might say, as Paul to the Athenians, “Whom you ignorantly worship, him declare I unto you” (Acts xvii. 23). These treatises, reader, will inform thee who He is whom thou callest thine,
@@ -26,13 +25,11 @@ His method is much the same in most of these discourses, both in the doctrinal a
 
 Thine in the Lord,
 
-EDW. VEEL. RI. ADAMS.
-
+## Edw. Veel. Ri. Adams
 
 ---
 [^1]: Mr. J. Wickens, and Mr. Ashton.
 [^2]: Treatise of Providence and of Thoughts.
-
 
 ---
 [[EAG 01 Life and Character of Charnock|← Life and Character of Charnock]] · [[The Existence and Attributes of God|Contents]] · [[EAG 03 Discourse I On the Existence of God|Discourse I: On the Existence of God →]]

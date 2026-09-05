@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 38. Deuteronomy 27:1-4,8
-
-**DEUTERONOMY 27**
 
 **1.** And Moses, with the elders of Israel, commanded the people, saying, Keep all the commandments which I command you this day.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Peter's Blunder—a Lesson for Ourselves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1823
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But Peter said, Not so, Lord; for I have never eaten anything that is common or unclean." Acts 10:14.
 
@@ -132,7 +129,6 @@ Again, I doubt not that some are hindered in their usefulness by their great dig
 Love yourself less and less and love your God more! Love the soul of every man with all the intensity of your being. Struggle and agonize to bring sinners to the Savior's feet and God will help you. But if you stand on your dignity and say, "Lord, not so; for I have never eaten anything common or unclean," it will be a serious injury to you. I said to one of our classes, "Let I grow very small, and let J grow very great," and the Brothers and Sisters did not need an explanation. May we so love our Lord Jesus that we cease to care for dignity and are willing to be nothing for His sake!
 
 Are there any here who have not yet believed in Jesus? I hope they will trust their souls with Him at once and, when they have done so, let them come forward without delay and confess His name and be baptized into the sacred Three! Then let them try to grow downward lower and lower, till they sink into nothing, that Christ may be All in All!
-
 
 ---
 [[Sermon 1822 Certain Curious Calculations About Loaves and Fishes|← #1822]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1824 The History of Sundry Fools|#1824 →]]

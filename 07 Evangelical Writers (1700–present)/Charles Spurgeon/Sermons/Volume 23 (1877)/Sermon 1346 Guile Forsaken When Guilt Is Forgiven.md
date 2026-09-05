@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Guile Forsaken When Guilt Is Forgiven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1346
 
-DELIVERED ON LORD'S-DAY EVENING, MARCH 25, 1877,.
+*Delivered on Lord's-Day Evening, March 25, 1877*
 
 > "Blessed is the man unto whom the Lord imputes not iniquity, and in whose spirit there is no guile." Psalm 32:2.
 
@@ -150,7 +149,6 @@ The lesson from the whole is this—be honest. Sinner, may God make you honest. 
 Now, Friends, you will never be happy while you act craftily. The only life in which a man can enjoy the blessedness of pardoned sin is a downright straightforward life. Be like clear glass so that all who choose to do so may see right through you. There is a way of living guardedly in which you never speak your mind, but are diplomatic and reserved. You take your words out of your mouth and look at them—and judge what other people will think of them. And then you put the best of them back again. There is a system of living, as it were, in armor, buckled up, with your visor down—you never dare show your real self, but maintain great prudence and reserve. What is this but to live in fetters? I would sooner die at once—
 
 "I would rather not be, as live to be In awe of such a thing as I myself." To speak his heart and to act honestly is, to a true Believer, the path of peace and happiness. If any man chooses another path and tries diplomacy and policy, so he may, but as sure as he lives he will come to a sorrowful ending and find that such a course is not a way which God approves, nor will He let His servants have peace in it. May God, in His infinite mercy, bring us all to follow Jesus, trusting in His blood and treading in His footsteps! And to Him be glory forever and ever. Amen.
-
 
 ---
 [[Sermon 1345 For Whom Is The Gospel Meant|← #1345]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1347 How Is Salvation Received|#1347 →]]

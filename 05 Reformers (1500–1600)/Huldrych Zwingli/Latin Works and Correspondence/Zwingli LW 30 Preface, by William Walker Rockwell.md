@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 30. Preface, by William Walker Rockwell
 
 The Latin Works of
@@ -164,7 +163,7 @@ The Works of Huldreich Zwingli
 
 Commentary on True and False Religion
 
-GEORGE WARREN RICHARDS
+## George Warren Richards
 
 IN the Preface and the Address to the Reader, Zwingli tells how he came to write the Commentary. “Many men in Italy and more in France, learned and devout,” urged him “to write out in Latin his religious views for them.” The request probably was made when Farel, Anton du Blet, and other men from Lyons came to Zurich in the spring of 1524. He shrank in “modesty” from such an undertaking, but “the high standing and importunity” of the men constrained him to yield to their wishes. He was prevented, however, by “various occupations” from beginning the task before the latter part of the year 1524. In a letter to Zwingli, dated October 7, 1524, Anton Papilio assumes that the former had undertaken to write a book, entitled, Be vera et falsa religione commentarius. Having put his hand to the pen, he toiled incessantly, “sweating night and day for three and a half months” — a comparatively short time for so weighty a treatise. He regrets the fact that he was “so hurried all along, that I often hardly had a chance to reread
 
@@ -200,7 +199,7 @@ The author omits scarcely any important point in Christian doctrine. Whatever is
 
 Introduction dence of God.” The work is not an organic whole in the sense that every part is genetically related to every other and that all the parts are united by a single unifying principle — a garment of one cloth. The author wrote too hurriedly to produce a book of that kind. Yet the Commentary is the major writing of Zwingli; the next to it in significance is his Auslegung der Schlussreden, 1523. The Lutherans of Germany, however, valued his tracts on the Lord’s Supper more highly than the Commentary.
 
-SECTIONS 1-11
+## Sections 1-11
 
 Zwingli, like Cicero in his De Natura Deorum, derives the term “religion” from the Latin verb, “relegere.” “Because the religious,” he says, “carefully consider and, as it were, peruse (relegerent) all the things that pertain to the worship of the gods.” In its Christian usage, as Zwingli also takes it, the term “embraces the whole piety of Christians: namely, faith, life, laws, worship, sacraments.”
 

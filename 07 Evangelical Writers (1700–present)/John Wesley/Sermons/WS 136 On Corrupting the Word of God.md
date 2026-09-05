@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 136. On Corrupting the Word of God
 
-*PREACHED ABOUT THE YEAR 1728*
+**Preached About the Year 1728**
 
 > "We are not as many, who corrupt the word of God: But as of sincerity, but as of God, in the sight of God speak we in Christ." 2 Cor. 2:17.
 

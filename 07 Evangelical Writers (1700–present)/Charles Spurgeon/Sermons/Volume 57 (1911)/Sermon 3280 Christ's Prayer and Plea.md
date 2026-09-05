@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Christ's Prayer and Plea
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3280
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Preserve Me, O God: for in You do Iput My trust." Psalm 16:1.
 
@@ -97,7 +94,7 @@ Confirms His good pleasure to help me quite through." If that is the kind of fai
 
 you shall be preserved from all evil forever, and faith shall be blessedly exchanged for sight! God grant that everyone of us may be able to pray the prayer of our text, and to use the plea, "Preserve me, O God: for in You have I put my trust," for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 17.
+## Exposition by C. H. Spurgeon: John 17
 
 Can there be found in all the records of mankind, in all the documents that have ever been preserved, anything that can match this record of our Savior's great intercessory prayer? He seems to pray here as if He already stood within the veil—not pleading in agony as He did in the Garden of Gethsemane, but speaking with that authority with which He is clothed now that His work on earth is done! There is as much of the Divine as of the Human in this prayer, and it is remarkable that in it our Lord does not make any confession of sin on account of His people. He does not come before God, as it were, in forma pauperis, with many pleas, but the burden of His prayer is that He may be glorified, and that His Father may be glorified in Him. The words of the prayer are among the most simple that could have been selected, but oh, the depths that lie hidden beneath them! I do not think that this side of Heaven any of us can know to the fullest the meaning of this wondrous Chapter. May the Holy Spirit graciously grant us a glimpse of the glorious Truths of God that are revealed here!
 
@@ -150,7 +147,6 @@ assurance that is! It amazes us to know that the Father has loved us even as He 
 24-26. Father, I will that they, also, whom You have given Me, be with Me where I am; that they may behold My Glory, which You have given Me: for You loved Me before the foundation of the world. O Righteous Father, the world has not known You: but I have known You, and these have known that You have sent Me. And I have declared unto them Yourname, and will declare it: that the love wherewith You have lovedMe may be in them andIin them. [See Sermons #1378,
 
 Volume 23—THE RIGHTEOUS FATHER KNOWN AND LOVED and #1667, Volume 28—"LOVE AND I"—A MYSTERY.]
-
 
 ---
 [[Sermon 3279 'Ever This Our War Cry—victory, Victory!'|← #3279]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3281 The Broad Wall|#3281 →]]

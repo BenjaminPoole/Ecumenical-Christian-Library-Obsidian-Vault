@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Story of a Runaway Slave
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1268
-
-DELIVERED BY.
 
 > "Perhaps he therefore departed for a season, that you should receive him forever." Philemon 1:15.
 
@@ -158,7 +155,6 @@ Lest he linger till he rue his
 Fatal choice too late." God bless you, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Philemon. HYMNS FROM "OUR OWN HYMN BOOK"—231, 248.
-
 
 ---
 [[Sermon 1267 The God of Bethel|← #1267]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1269 The New Fashion|#1269 →]]

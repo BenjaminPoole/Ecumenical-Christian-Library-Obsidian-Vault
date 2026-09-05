@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Done In A Day, But Wondered At Forever
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 953
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 25, 1870,.
+*Delivered on Lord's-Day Morning, September 25, 1870*
 
 > "I will remove the iniquity of that land in one day. In that day, says the Lord of hosts. They shall call every man his neighbor under the vine, and under the fig tree." Zechariah 3:9,10.
 
@@ -188,7 +187,6 @@ There may best friends, my kindred dwell,
 There God my Savior reigns."
 
 There is no better company than the company that Christ keeps! There is no better house than the house that Christ inhabits. May we be willing to be doorkeepers in the House of God! May we, by God's Grace, be glad to be the least in the Church, so long as we may be numbered among the chosen, redeemed by the blood of Jesus! May the Lord give us perfect pardon, perfect peace, for His name's sake. Amen.
-
 
 ---
 [[Sermon 0952 Negotiations For Peace|← #952]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0954 A Most Needful Prayer Concerning The Holy Spirit|#954 →]]

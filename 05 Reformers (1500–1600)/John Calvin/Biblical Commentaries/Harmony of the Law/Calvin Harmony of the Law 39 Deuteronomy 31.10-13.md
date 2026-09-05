@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 39. Deuteronomy 31:10-13
-
-**DEUTERONOMY 31**
 
 **10.** And Moses commanded them, saying, At the end of *every* seven years, in the solemnity of the year of release, in the feast of tabernacles,
 

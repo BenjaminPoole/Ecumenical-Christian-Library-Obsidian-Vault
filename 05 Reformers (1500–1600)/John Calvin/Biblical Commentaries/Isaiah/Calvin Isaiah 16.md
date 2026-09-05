@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Isaiah 16:1-14
 

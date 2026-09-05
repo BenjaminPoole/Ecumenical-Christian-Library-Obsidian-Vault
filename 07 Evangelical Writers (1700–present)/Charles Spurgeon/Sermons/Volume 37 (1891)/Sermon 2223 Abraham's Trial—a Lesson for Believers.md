@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Abraham's Trial—a Lesson for Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2223
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am." Genesis 22:1.
 
@@ -138,7 +135,6 @@ Happy is the man who can say, "Here I am." The Lord put you into that frame of m
 we shall arise with songs in our mouths to answer to the Resurrection trumpet and so shall we be forever with the Lord. Thus shall all the children of faith be blessed with faithful Abraham! God bless these words to you, dear Friends, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 22.
-
 
 ---
 [[Sermon 2222 Lydia, the First European Convert|← #2222]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2224 If You Can—If You Can|#2224 →]]

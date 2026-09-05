@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Judgments and No Repentance— Repetance and No Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2054
@@ -75,7 +74,7 @@ If any of you are under the power of despair at this moment, I pray you, do not 
 
 II. So you see, my Brethren, judgments may produce a certain likeness of repentance—but then, secondly, THEY
 
-DO NOT AND THEY CANNOT OF THEMSELVES PRODUCE A REPENTANCE SUCH AS GIVES GOD GLORY.
+## Do Not and They Cannot of Themselves Produce a Repentance Such as Gives God Glory
 
 "They repented not to give Him glory."
 
@@ -176,7 +175,6 @@ And then, again—remember you can repent now so much more clearly than in the h
 And do you not see how much more likely it is to be genuine repentance—if it is rendered freely? You are not frightened now, and are more likely to be your honest self. You are not under terror now, and therefore you are not so likely to play the hypocrite. Tonight you have come into this place in good health. Happy and cheerful—and God has made everything bright about you. What can I better commend to you than immediately to seek the Lord? Does not wisdom, herself, speak and cry aloud to you now? Forsake sin and turn with purpose of heart to Jesus Christ the Savior, whose Spirit is even now working with you while these words are being spoken.
 
 Yield to the sacred pressure of the Spirit of God. That which now inclines you to relent is the good Spirit of love and mercy. Bow yourself before it, as the wheat ripened for the sickle bows before the wind. Give glory to God by yielding to the movements of His Spirit. Cry out, I pray, "Lord, I believe. Help You mine unbelief. I would quit my sin. Help me to quit it now for Jesus' sake and to give You glory." Amen.
-
 
 ---
 [[Sermon 2053 Concerning Prayer|← #2053]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2055 The Trial of Your Faith|#2055 →]]

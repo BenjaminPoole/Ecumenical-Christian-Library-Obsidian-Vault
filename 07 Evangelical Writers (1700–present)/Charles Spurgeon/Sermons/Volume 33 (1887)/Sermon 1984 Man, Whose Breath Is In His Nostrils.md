@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Man, Whose Breath Is In His Nostrils
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1984
-
-DELIVERED BY.
 
 > "Cease you from man, whose breath is in his nostrils: for of what account is he?" Isaiah 2:22.
 
@@ -124,7 +121,6 @@ III. We finish with that last question—WHY ARE WE TO CEASE FROM MAN? The answe
 What figure shall I put down for man? Some men would wish to have themselves written down at a very high figure, but a cipher is quite sufficient! Write man at nothing and you are somewhat above the mark. "For of what account is he?" Compared with God, man is less than nothing and vanity! Reckon him so and act upon the reckoning. If there were no men on the face of the earth, how would you live? If only God filled all your thoughts and all your heart, how would you live? Live just so! Then if there are a trillion men upon the face of the globe—or more—they will not sway you. If the city teems with them and if the forum is disturbed with their noise—and if they ride up to the capitol in triumph—what of it? We have ceased from them and we shall never have cause to regret it, for they will be no loss to us! If we try to reckon up what the loss might be if we lost their aid, it comes to nothing, "For of what account is he?" Cease from them and go straight on in the path of faith and duty, resting in God and believing in Him. Care nothing for the vanity of vanities, but trust in the Verity of verities, even God, Himself!
 
 This is a special subject and someone will ask, "Can such a text as this be useful for the ungodly?" Yes, it hits the nail on the head! Some of you have been trying to save yourselves. "Cease you from man." You have been looking to your feelings. You have been looking to your works. You have been looking to this and that of your own—cease you altogether from that evil man—yourself "For of what account is he?" Some of you have kept back from Christ because you have made much of this poor nobody that is crushed before the moth—this worm of the earth—this mere vapor! Now, rise above your dead selves and think more of God! Believe that He is and that He is the rewarder of them that diligently seek Him—and may His Holy Spirit help you, now, to come and commit your souls into the hands of the risen Redeemer, even He who is able to save you and keep you to the end! God so help you, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 1983 How Hearts Are Softened|← #1983]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1985 The Child Of Light Walking In Darkness|#1985 →]]

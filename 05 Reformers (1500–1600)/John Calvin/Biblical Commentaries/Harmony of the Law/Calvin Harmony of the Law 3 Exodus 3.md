@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 3. Exodus 3
-
-**EXODUS 3**
 
 ## Exodus 3:1-5
 

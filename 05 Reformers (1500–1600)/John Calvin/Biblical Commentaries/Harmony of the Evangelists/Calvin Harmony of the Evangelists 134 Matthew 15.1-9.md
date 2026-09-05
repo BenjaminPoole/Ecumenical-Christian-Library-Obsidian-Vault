@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 134. Matthew 15:1-9; Mark 7:1-13
-
-**Matthew 15:1-9; Mark 7:1-13**
 
 **1**. Then scribes and Pharisees, who had come from Jerusalem, approach to Jesus, saying, **2**. Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. **3**. But he answering said to them, Why do you also transgress the commandment of God on account of [^1] your tradition? **4**. For God commanded, saying, Honor thy father and mother; and, He that curseth father or mother, dying let him die. **5**. But you say, Whosoever shall say to his father or mother, Whatever is a gift from me shall profit thee; and shall not honor his father or his mother. **6**. Therefore you have annulled the commandment of God on account of your tradition. **7**. Hypocrites, Isaiah hath justly prophesied concerning you, saying, **8**. This people draw nigh to me with their mouth, and honor me with the lips; but their heart is far distant from me. **9**. But in vain do they worship me, teaching doctrines, commandments of men.
 

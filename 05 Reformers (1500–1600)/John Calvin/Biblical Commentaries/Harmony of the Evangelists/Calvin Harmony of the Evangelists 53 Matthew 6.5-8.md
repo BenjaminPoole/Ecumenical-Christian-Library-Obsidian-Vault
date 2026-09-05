@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 53. Matthew 6:5-8
-
-**MATTHEW 6:5-8**
 
 **5**. And when thou shalt pray, thou shalt not be as the hypocrites: for they are wont to pray standing in the synagogues, and in corners of the streets, that they may be seen by men. Verily I say to you, that they have their reward. **6**. But thou, when thou prayest, enter into thy closet, and, having shut thy door, pray to thy Father who is in secret: and thyFather, who seeth secret, shall reward thee openly. **7**. But praying**,** use not vain repetitions, as the Heathen do: for they think that they shall be heard on account of their speaking much. **8**. Be not you, therefore, like them: for your Father knoweth what things ye need, before ye ask him.
 

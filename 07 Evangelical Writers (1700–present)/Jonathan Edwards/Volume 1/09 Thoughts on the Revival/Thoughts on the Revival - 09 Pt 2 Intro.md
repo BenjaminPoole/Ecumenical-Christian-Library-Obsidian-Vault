@@ -10,10 +10,9 @@ written: "1742"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-SHOWING THE OBLIGATIONS THAT ALL ARE UNDER TO ACKNOWLEDGE, REJOICE IN, AND PROMOTE THIS WORK; AND THE GREAT DANGER OF THE CONTRARY.
+*Showing the Obligations that All Are Under to Acknowledge, Rejoice in, and Promote This Work; And the Great Danger of the Contrary*
 
 ---
 

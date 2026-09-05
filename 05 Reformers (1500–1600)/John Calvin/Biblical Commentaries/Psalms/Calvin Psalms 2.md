@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 2
-
-**PSALM 2**
 
 David boasts that his kingdom, though assailed by a vast multitude of powerful enemies, would, notwithstanding, be perpetual, because it was upheld by the hand and power of God. He adds, that in spite of his enemies, it would be extended even to the uttermost ends of the earth. And, therefore, he exhorts kings and other rulers to lay aside their pride, and receive, with submissive minds, the yoke laid upon them by God; as it would be vain for them to attempt to shake it off. All this was typical and contains a prophecy concerning the future kingdom of Christ.
 

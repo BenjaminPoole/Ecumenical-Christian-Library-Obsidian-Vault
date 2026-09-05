@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Sweetness of God's Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3197
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How sweet aire Your Words to my taste! Yes, sweeter than honey to my mouth!" Psalm 119:103.
 
@@ -104,7 +101,6 @@ of it!
 It is a sign that you have grown in spiritual health when the Word of God is sweet to you. I remember my father saying to us children at home, when we did not like our food, that he had been to the Union House and the boys and girls always liked their breakfast there because they were hungry, and, he said, "If you had to go without, it would do you good." Sometimes, children of God get worldly and then they have no appetite for God's Word. They say, "We do not profit under Mr. So-and-So." The truth is, we do not profit under the Bible, itself, and should not profit under the Apostle Paul or under the Lord Jesus Christ, for we have spoiled our appetites! But when our appetite is healthy, we can come to the Scripture and not care much how it is carved. We would rather the preacher would carve it well, but some people must have it served up always in such dainty style—it must have little bits of poetry, like parsley to garnish the dish, and so on, and if a rough hand should bring them meat, they say, "No, we cannot feed in this style." But if you have been in the field at work for God and have got an appetite, and the blood is circulating in your veins, then you can feast upon it till your soul rises up and says, "I thank You, Lord, for this, my food, and that You have made it sweet to my taste. I will tell my fellow Christians the delights that I have received in searching Your Word, that they may come and feed at the same table where I have been so daintily fed."
 
 May God the Holy Spirit make this the experience of every day to each one of us, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3196 Noah's Eminence|← #3196]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3198 What Christians Were and Are|#3198 →]]

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # They Went Up into an Upper Room.
 
-Chapter I · *The Upper Room* — J. C. Ryle
+## Chapter I · *The Upper Room* — J. C. Ryle
 
 > — Acts 1:13[^1]
 
@@ -84,7 +83,6 @@ II. Let me now try to draw some practical lessons for ourselves from the whole s
 (3) In the last place, let us pray for the Church of England, that she may continue faithful to the old truths which have done so much good for 300 years, truths which are embalmed in our Articles, Prayer Book, and Creeds. It is cheap and easy work to sneer at dogma, to scoff at inspiration and the atonement, to make merry at the controversies of Christians, and to tell us that no one really believes all the Bible, or all the facts enumerated in the Belief. It is easy, I repeat, to do this. Even children can cast mud, and throw stones, and make a noise. But sneers, and mud, and noise are not arguments. I challenge those who sneer at dogma to show us a more excellent way, to show us anything that does more good in the world than the old, old story of Christ dying for our sins, and rising again for our justification.
 
 The man of science may say, "Come with me, and look through my microscope or telescope, and I will show you things which Moses, David, and St. Paul never dreamed of. Do you expect me to believe what was written by ignorant fellows like them?" But can this man of science show us anything through his microscope or telescope which will minister to a mind diseased, bind up the wounds of a broken heart, satisfy the wants of an aching conscience, supply comfort to the mourner over a lost husband, wife, or child? No, indeed! he can do nothing of the kind! Men and women are fearfully and wonderfully made. We are not made up merely of brains, and head, and intellect, and reason. We are frail, dying creatures, who have got hearts, and feelings, and consciences; and we live in a world of sorrow, and disappointment, and sickness, and death. And what can help us in a world like this? Certainly not science alone. Nothing can help us but the doctrine of that volume which some people call an old worn-out Jewish book, the Bible. None can help us but He who was laid in the manger of Bethlehem and died on the cross to pay our debt to God, and is now at God's right hand. None but He who said," Come unto Me, all ye that labour, and I will give you rest" (Matt. 11:28). None but He who has thrown light on the grave, and the world beyond it, and has brought life and immortality to light through the gospel and made a deeper mark on the world than all the men of science who have ever lived, from the times of Pythagoras, Aristotle, and Archimedes, down to Darwin and Huxley in the present day. Yes! I say again, let us pray that our Church may ever be faithful to her first principles, and never lend an ear to those plausible, eloquent apostles of free thought, who would fain persuade her to throw overboard her Creeds and Articles as useless lumber. Fine words and rhetorical fireworks will never satisfy humanity, check moral evil, or feed souls. Men would do well to read that striking paper which Miss Frances Power Cobbe wrote in the Contemporary Review for December 1884, and see what a ghastly world our world would be if it was a world without a faith or a creed. The age needs nothing new. It only needs the bold and steady proclamation of the old truths which were held in the " upper room" at Jerusalem.
-
 
 ---
 [[UR Preface|← Preface]] · [[The Upper Room|Upper Room Contents]] · [[UR 02 Luke, the Beloved Physician|Luke, the Beloved Physician. →]]

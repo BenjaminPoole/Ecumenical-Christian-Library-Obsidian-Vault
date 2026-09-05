@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # A Straight Talk
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2122
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I cannot come." Luke 14:20.
 
@@ -156,7 +153,6 @@ And then He will take you to be forever with Him. Washed in the blood of the Lam
 God bless you! I pray that you may get the double blessing and may remember this gloomy, dark, December-like evening in May by the blessing that God shall put upon you through Jesus Christ His Son. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Luke 14.
-
 
 ---
 [[Sermon 2121 The Keynote of the Year|← #2121]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2124 Help for Your Sickness|#2124 →]]

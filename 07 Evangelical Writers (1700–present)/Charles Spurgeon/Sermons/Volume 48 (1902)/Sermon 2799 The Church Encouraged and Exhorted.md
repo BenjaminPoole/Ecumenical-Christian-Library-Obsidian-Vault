@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Church Encouraged and Exhorted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2799
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Bring My sons from far, and My daughters from the ends of the earth." Isaiah 43:6.
 
@@ -91,7 +88,7 @@ I remember the case of a godly man who prayed very fervently for the conversion 
 
 God grant that they may not be wrecked in the last part of their voyage! May all go safely, even if roughly, with them and may they come to land praising redeeming Grace and dying love in which song you and I will join both now and forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH43:1-7,18-28; 44:1,2.
+## Exposition by C. H. Spurgeon: Isaiah 43:1-7,18-28; 44:1,2
 
 Isaiah 43:1. But now thus says the LORD that createdyou, O Jacob, and He that formedyou, O Israel, Fear not: for I have redeemed you, I have called you by your name; you are Mine. Observe the tender ties that bind our God to His people—creation, the formation of them for His praise, redemption, the purchase of them for Himself and the calling of them by their name. The Lord remembers the bonds which unite us to Himself even when we forget them. He recollects His eternal love and all the deeds of mercy that have flowed from it. Though our memory is treacherous and our faith is feeble, "yet He abides faithful: He cannot deny Himself." Blessed be His holy name!
 
@@ -134,7 +131,6 @@ The Lord seems to dwell upon that note of the creation of His children for His o
 26-28. Put Me in remembrance: let us contend together: state your case that you may be acquitted. Your first father has sinned, and your teachers have transgressed against Me. Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
 
 Isaiah 44:1, 2. Yet now hear, O Jacob My servant; andIsrael, whom Ihave chosen: thus says the LORD that made you, and formed you from the womb, which will help you; Fear not, O Jacob, My servant; and you, Jesurun, whom Ihave chosen. He comes back to that point, again, you see—"Israel whom I have chosen: thus says the Lord that made you." See the deep argument for Infinite Love? God will not forsake the work of His own hands. "I have formed you, and chosen you; therefore, fear you not, but come to Me anew, and serve Me henceforth with all your heart."
-
 
 ---
 [[Sermon 2798 Sweet Stimulants for the Fainting Soul|← #2798]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2800 'Pray, Always Pray'|#2800 →]]

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 39
 
-**CHAPTER 39.**
+***Chapter 39.***
 
 ## Genesis 39:1-23
 

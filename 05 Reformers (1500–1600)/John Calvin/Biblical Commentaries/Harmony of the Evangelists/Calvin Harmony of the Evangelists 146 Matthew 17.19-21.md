@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 146. Matthew 17:19-21; Mark 9:28-29; Luke 17:5-6
-
-**Matthew 17:19-21; Mark 9:28-29; Luke 17:5-6**
 
 **19**. Then the disciples, coming to Jesus apart, said, Why could not we cast it out? **20**. And Jesus said to them, On account of your unbelief; for verily I say to you, If you have faith as a grain of mustard-seed, you shall say to this mountain. Remove thou hence, and it shall remove; and nothing shall be impossible to you. **21**. But this kind [^1] goeth not out but by prayer and fasting.
 

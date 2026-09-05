@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Profit Of Godliness In This Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 937
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 19, 1870,.
+*Delivered on Lord's-Day Morning, June 19, 1870*
 
 > "Bodily exercise profits little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come. This is a faithful saying and worthy of all acceptation." 1 Timothy 4:8,9.
 
@@ -160,7 +159,6 @@ But we do tell you that if you will but seek the Lord while He may be found, and
 Has not He even commanded you, and are not these His Words, "Believe in the Lord Jesus Christ, and you shall be saved"? Simply to trust, and to rely—this is to begin the Divine life, and this will introduce you into a nobler sphere than mortals know of. They rejoice when corn and wine fill their barns and their vats, but you will say, "Lord, lift up the light of Your countenance upon me," and in that you will find a richer joy than they. "Seek you the Lord while He may be found, call you upon Him while He is near: let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the Lord, and He will have mercy upon him. And to our God, for He will abundantly pardon." God bless you, for Christ's sake.
 
 [Sermon #946, The Profit of Godliness in the Life to Come, is the sermon Brother Spurgeon preached in the evening of June 19, 1870, and is the companion sermon to this one.]
-
 
 ---
 [[Sermon 0936 A Blessed Wonder|← #936]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0938 A Good Soldier Of Jesus Christ|#938 →]]

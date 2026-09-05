@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Christ in Gethsemane
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3190
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they came to a place which was named Gethsemane." Mark 14:32.
 
@@ -75,7 +72,7 @@ Well now, Beloved, if the Lord shall bring us into deep waters and cause us to p
 
 The most of this sermon does not belong to some of you, for you do not belong to Christ. O dear Friends, do not give sleep to your eyes or slumber to your eyelids till you belong to Him! As surely as you live, you will have sorrows at some time or other, you will have a bitter cup of which you must drink—and then what will you do if you have no Divine consolation in the trying hour? What will you do when you come to die if you have no Christ to make your pillow soft for you, no Savior to go with you through that dark valley? Oh, seek Him and He will be found of you, even now! The Lord help you to do so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN10.1-30.
+## Exposition by C. H. Spurgeon: John 10.1-30
 
 Verse 1. Verily, verity, I say unto you, he that enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber The positiveness of our Lord's teaching is noteworthy. Whatever may be said about dogmatically teaching, now, it is certain that His teaching is of that character! He does not raise questions, but He solves them. He does not suggest probabilities, but He declares certainties. This might be taken as the key-word to all the Savior's teaching, "Verily, verily." He makes a strong statement. He speaks as one having authority, not as the scribes who only claimed to have authority, but as the Sent One of the Father who really has it! "Verily, verily, I say unto you." Whatever comes to us with the imprimatur of the, "Verily, verily," of the Son of God is not to be questioned or doubted by us for a single moment! "He that enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber." Christ Himself entered by the door. He came according to the ancient types, symbols and prophecies. He came as God said that He would come. He entered by the door. There is no irregularity about Christ's office as the Shepherd of His sheep. It is confirmed to Him by the sanction of the Holy Spirit. The witness of the Father is borne to Him—"This is My Beloved Son in whom I am well pleased: hear you Him." We rejoice to think that Jesus our Savior is also Christ the Anointed. He is Jesus to us, but He is the Anointed of the Father. He comes by right as the appointed Shepherd of the sheep entering in by the door!
 
@@ -130,7 +127,6 @@ and lies down in different fields for the present—"Other sheep I have, which a
 27-30. My sheep hear My voice, and I know them, and they follow Me: and I give unto them eternal life; and they shall never perish, neither shall any man pluck them out ofMy hand. My Father, who gave them to Me, is greater than all; andno man is able to pluck them out ofMy Father's hand. IandMy Father are One. [See Sermon #2120, Volume 35—the security OF BELIEVERS—OR, SHEEP WHO WILL NEVER PERISH.] This great
 
 Truth of God angered the Jews so much that they "took up stones again to stone Him." They proved, by thus treating the Good Shepherd, that they were not His sheep!
-
 
 ---
 [[Sermon 3189 The Tenderness of God's Comfort|← #3189]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3191 The True Aim of Preaching|#3191 →]]

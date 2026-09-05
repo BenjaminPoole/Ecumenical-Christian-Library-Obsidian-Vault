@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Nathanael—Or, the Ready Believer and His Reward
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2021
-
-DELIVERED BY.
 
 > "Jesus answered and said unto him, Because I said unto you, I saw you under the fig tree, you believe? You shall see greater things than these." John 1:50.
 
@@ -148,7 +145,6 @@ Now shall you live after a nobler sort. Now shall you be filled with good works 
 God.
 
 May the Lord bless you, dear Friends! May we all meet in Heaven, the whole company of us, without exception, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2020 Is Anything Too Hard for the Lord|← #2020]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2022 The Wedding Was Furnished with Guests|#2022 →]]

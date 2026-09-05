@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Bringing Sinners to the Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2731
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And one of the multitude answered and said, Master, Have brought unto You my son, who has a dumb spirit; and wherever he takes him, he tears him: and he foams, and gnashes with his teeth, and pines away: and I spoke to Your disciples that they should cast him out; and they could not. He answered him, and said, O faithless generation, how long shall I be with you? How long shall I bear with you? Bring him to Me. And they brought him to Him: and when he saw Him, straightway the spirit convulsed him; and he fell on the ground, and wallowed foaming at the mouth." Mark 9:17-20.
 
@@ -89,7 +86,7 @@ Then, add to that prayer, distinct united effort. Perhaps if one friend should s
 
 Oh, that my words might stir up all of you who profess to be Christians! We have over 5,000 members—nearly six thousand. Oh, if all were alive unto God and earnest in His service—"all at it, and always at it"—what might not be done, God the Holy Spirit blessing our labors? But, alas, there are many people here like the camp-followers of an army who do not fight when the battle comes on! Those who do the fighting are often hampered by these other people and, sometimes, they almost feel as if they needed to clear the ground of such loiterers and hinderers. But, instead of doing that, I beg all of you, dear Friends, to wake up and see what you can do for the Christ who has done so much for you! Let us all ask to be awakened, again, and to be thoroughly stirred up in the service of the Savior! God grant that this South of London—and the North, and West, and East, too—may be permeated and saturated with your earnest endeavors to bring sinners to the Savior! The Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 2:18-25; 3:1-17.
+## Exposition by C. H. Spurgeon: 1 Peter 2:18-25; 3:1-17
 
 Peter is very practical in his Epistles. In the early days of the faith, Christians occupied a far more difficult and dangerous position than they do today. They were few in number and greatly despised. All manner of crimes were falsely alleged against them—they were accused of things too vile for me to mention. The Apostle, in writing to these Christians, begs them to so behave that they should commend the Gospel of Christ. Very many of them were servants or slaves, so the Apostle says to these lowly followers of Christ, "Here are your duties"—
 
@@ -126,7 +123,6 @@ cause curses abound in him. But you are to give blessing to others because you h
 13-15. And who is he that will harm you, if you are followers of that which is good? But and ifyou suffer for righteousness ' sake, happy are you: and be not afraid of their terror, neither be troubled; but sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asks you a reason for the hope that is in you with meekness and fear Have your doctrinal views and all your knowledge of Christ packed away in a handy form, so that when people want to know what you believe, you can tell them! If they wish to know why you believe that you are saved, have your answer all ready in a few plain, simple sentences—and in the gentlest and most modest spirit make your confession of faith to the praise and glory of God. Who knows but what such good seed will bring forth an abundant harvest?
 
 16, 17. Having a good conscience that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ For it is better, if the will of God is so, that you suffer for well doing, than for evil doing. Who can doubt the truth of that clear declaration?
-
 
 ---
 [[Sermon 2730 The Secret of Love to God|← #2730]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2732 Believers Tested by Trials|#2732 →]]

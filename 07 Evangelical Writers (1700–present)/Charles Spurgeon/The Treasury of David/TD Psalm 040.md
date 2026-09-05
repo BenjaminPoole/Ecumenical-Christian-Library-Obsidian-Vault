@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 40
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -230,8 +229,6 @@ But the dearest connexion in the world cannot be always thinking upon you. Half 
 
 3. The voluntariness of his coming, *Lo, I come*. Though sent by the Father, he came of his own accord. "Christ Jesus came into the world." Men do not come into the world, they are sent into it. *Lo, I come*, denotes pre-existence, pre-determination, pre-operation. —George Rogers.
 
-**Verses 6-8.** The Lord gives an ear to hear his word, a mouth to confess it, a heart to love it, and power to keep it.
-
 **Verse 8.** *To do thy will, O God.*
 
 1. The will of God is seen in the fact of salvation. It has its origin in the will of God.
@@ -263,8 +260,6 @@ But the dearest connexion in the world cannot be always thinking upon you. Half 
 "There my God bore all my guilt, This through grace can be believed; But the horrors which he felt Are too vast to be conceived. None can penetrate through thee, Doleful, dark Gethsemane."
 
 "Sins against a holy God; Sins against his righteous laws; Sins against his love, his blood; Sins against his name and cause; Sins immense as is the sea— Hide me, O Gethsemane!"
-
-**Verses 11-13.** As an instance of clerical ingenuity, it may be well to mention that Canon Wordsworth has a sermon from these verses upon "the duty of making responses in public prayer."
 
 **Verse 12.** Compare this with Ps 40:5. The number of our sins, and the number of his thoughts of love.
 
@@ -308,12 +303,11 @@ But the dearest connexion in the world cannot be always thinking upon you. Half 
 
 3. The less delay in prayer and active efforts the sooner God will appear for us.
 
-WORKS UPON THE FORTIETH PSALM
+## Works upon the Fortieth Psalm
 
 Christ and his Work: an Exposition of Psalm 40. By JAMES FRAME, 1869.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 039|← Psalm 39]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 041|Psalm 41 →]]

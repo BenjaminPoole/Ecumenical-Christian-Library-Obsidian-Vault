@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 57. Matthew 6:19-21;Luke 12:33-34
-
-**MATTHEW 6:19-21; LUKE 12:33-34**
 
 **19**. Lay not up for yourselves treasures on the earth, where rust and the moth consume, where theives break through and steal. **20**. But lay up for yourselves treasures in heaven, where neither rust nor moth consumes, and where thieves do not break through nor steal. **21**. For where your treasure shall be, there will also your heart be.
 

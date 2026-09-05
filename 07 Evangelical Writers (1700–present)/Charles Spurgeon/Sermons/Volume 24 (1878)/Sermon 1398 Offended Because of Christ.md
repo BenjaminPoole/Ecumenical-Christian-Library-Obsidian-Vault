@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Offended Because of Christ?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1398
-
-DELIVERED BY.
 
 > "And blessed is he who is not offended because of Me." Matthew 11:6.
 
@@ -142,7 +139,6 @@ Oh, you are happy, you people of God who lose good situations because you cannot
 Oh, may you all be true adherents of Jesus! I set up a standard tonight and will try to act as recruiting officer. Who will be enlisted into the army of Christ tonight? Is any young man ready to say, "I will"? Yes, but count the cost! Are you prepared to be ridiculed? Are you prepared to suffer? Are you willing to put up with the hatred of your own family sooner than forsake God and His Christ and the Truth? We will not have you if you won't! Christ will not acknowledge you if you won't! It must be a thorough coming to Him. "Come you out from among them and be you separate, says the Lord, and touch not the unclean thing. And I will receive you and will be a Father unto you, and you shall be My sons and daughters."
 
 Who is on the Lord's side?—Who? Let your hearts answer, for there shall come a day when that same word shall thunder over all the earth, "Who is on the Lord's side? Who?" Many then will rue the day in which they were ashamed to confess a persecuted Christ! May we be on His side tonight—first trusting Him, relying upon Him, alone, for salvation—and then surrendering ourselves to Him to be His forever. Amen.
-
 
 ---
 [[Sermon 1397 The Peace of God|← #1397]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1399 Am I My Brother's Keeper|#1399 →]]

@@ -9,7 +9,6 @@ tags:
   - puritans
   - thomas-watson
 ---
-
 # Introduction
 
 A Divine Cordial
@@ -17,8 +16,6 @@ A Divine Cordial
 *We know that all things work together for good, to them that love God, to them who are the called according to his purpose*.
 
 Romans viii. 28.
-
-## Introduction
 
 IF the whole Scripture be the feast of the soul, as Ambrose said, then Romans 8 may be a dish at that feast, and with its sweet variety may very much refresh and animate the hearts of Gods people. In the preceding verses the apostle had been wading through the great doctrines of justification and adoption, mysteries so arduous and profound, that without the help and conduct of the Spirit, he might soon have waded beyond his depth. In this verse the apostle touches upon that pleasant string of consolation, “we know that all things work together for good, to them that love God.” Not a word but is weighty; therefore I shall gather up every filing of this gold, that nothing be lost.
 
@@ -43,7 +40,6 @@ Let us then not rest in scepticism or doubts, but labour to come to a certainty 
 **2. The excellency of the privilege,** “*All things work together for good.*”
 
 This is as Jacob’s staff in the hand of faith, with which we may walk cheerfully to the mount of God. What will satisfy or make us content, if this will not? All things work together for good. This expression “*work together*” refers to medicine. Several poisonous ingredients put together, being tempered by the skill of the apothecary, make a sovereign medicine, and work together for the good of the patient. So all God’s providences being divinely tempered and sanctified, do work together for the best to the saints. He who loves God and is called according to His purpose, may rest assured that every thing in the world shall be for his good. This is a Christian’s cordial, which may warm him — make him like Jonathan who, when he had tasted the honey at the end of the rod, “*his eyes were enlightened*” (I Sam. xiv. 27). Why should a Christian destroy himself? Why should he kill himself with care, when all things shall sweetly concur, yea, conspire for his good? The result of the text is this. All the various dealings of God with His children, do by a special providence turn to their good. “*All the paths of the Lord are mercy and truth unto such as keep his covenant*” (Psalm xxv. 10). If every path has mercy in it, then it works for good.
-
 
 ---
 [[DC 01 Extract from the Preface|← Extract from the Preface]] · [[A Divine Cordial|Contents]] · [[DC 03 The best things work for good to the godly|The best things work for good to the godly →]]

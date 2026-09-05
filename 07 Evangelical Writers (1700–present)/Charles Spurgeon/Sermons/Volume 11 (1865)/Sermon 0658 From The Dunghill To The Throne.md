@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # From The Dunghill To The Throne
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 658
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 5, 1865,.
+*Delivered on Sunday Morning, November 5, 1865*
 
 > "He raises up the poor out of the dust and lifts the needy out of the dunghill, that He may set him with princes, even with the princes of His people." Psalm 113:7,8.
 
@@ -170,7 +169,6 @@ We are not kings of England, Scotland and Ireland, and yet we have a triple domi
 Beloved, hear His Word—"He has raised us up together and made us sit together in heavenly places in Christ Jesus," so that we share the honor of Christ as we share His Cross. Paul was taken from the dunghill of persecution, but he is not second to any in Glory! And you, though you may have been the chief of sinners, shall fare none the worse when He comes in His kingdom! But as He owned you on earth and redeemed you with His precious blood, so will He own you in the future state and make you sit with Him and reign among princes, world without end. May the Lord bless these words for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON-1 Samuel 2:1-10; Psalm 113.
-
 
 ---
 [[Sermon 0657 Satanic Hindrances|← #657]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0659 Simeon|#659 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Beholding God's Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3423
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Walk about Zion, and go round about her: count the towers thereof. Mark you well her bulwarks, consider her palaces; that you may tell it to the generation following. For this (God is our God forever and ever: He will be our guide even unto death." Psalm 48:12-14.
 
@@ -55,13 +52,13 @@ Around the Church of God, too, the Holy Spirit has thrown up His rampart. He was
 
 "Consider her palaces." Thus I have gone into detail round the walls of Zion. Now, the second thing, very briefly, is—
 
-II. THE OBJECTIVE TO BE ATTAINED BY OUR MAKING OURSELVES THUS ACQUAINTED WITH THE CHURCH OF GOD.
+## II. The Objective to Be Attained by Our Making Ourselves Thus Acquainted with the Church of God
 
 It is this—"That you may tell it to the generation following." The Church of God should take care that what God has done for one generation is told to the next. How much have you and I been helped by what our fathers told us? Those wonderful deeds that are kept on record—what God did in the days of old—have ministered great consolation to us in this present age. Let us take care that we hand down to our sons and daughters a record of what God has done. The pith of the matter is just this—each Christian ought to take a deep interest in the work of God in his time, that he may know how to teach his children, and especially to teach those who are born unto the family of God. Teach the young Christian what God hasdone, isdoing and wllyet do for His Church! I am very thankful that I have around me a number of Christian people who take a deep interest in the Cross of Jesus Christ. I believe that you are the people who will be sure to be succeeded by a generation who will take an equal interest in the same work. But if you were not, yourselves, interested, I could not suppose that it would be any concern to you to hand down the sacred traditions of your experience to the next generation. But now I trust that you will take care that there shall be kept alive in the world the record, the experimental record, of God's mighty acts towards His people in our day, even as in olden times! They speak of what the Lord did. Go you, each of you, and tell others what God has told you! Never hide the precious things that God reveals to you. What He speaks to you in the closet, proclaim upon housetops! Of course, it is well to learn first—do not try to teach before you have learned—but when you have learned, it is well to teach it immediately. Always mark well—"consider," says the text—"that you may tell it to others." May we train up in all our Churches studious Christians, intelligent Christians, well-versed in all that concerns the Church of the living God! I believe that in proportion as Christian people are well-instructed, the attacks of the adversary will be repelled and defeated. But if we only gather together undisciplined bodies of men and women who merely come to hear preaching, but receive little or no instruction, they will become like flocks of sheep—the prey of the wolf whenever he shall come. Mark well, then the bulwarks of Zion, that when your turn comes to defend them, you may be at home in the battle—not come into the Church like a stranger, knowing nothing of what it is to do for Christ, or what Christ is doing for it. And now, lastly—
 
-III. THERE IS A REASON GIVEN WHY WE SHOULD SEEK TO TRANSMIT THE RECORDS OF THE
+## III. There Is a Reason Given Why We Should Seek to Transmit the Records of The
 
-CHURCH TO OTHER GENERATIONS.
+## Church to Other Generations
 
 The story of God's love to His Church is to be told from one generation to another, and the reason is this—because "This God is our God forever and ever: He will be our guide even unto death." Observe, if Israel could change their God, it could as well forget what had occurred, but as she will have the same God forever and ever, let her remember what God did for her of old! And as that God will be the same to us, let each of us treasure up memories of what He has worked for us—for these are instructive as to what we may hope for in the future! He that helped you in years past will not fail you now. He that proved Himself faithful 20 years ago is faithful today. Is God All-Sufficient in your childhood? Is God All-Sufficient in your old age? With Him is no variableness, neither shadow of turning. Remember, then, the past mercies are as forge ashes, from which you may gather the spark that may light the fire of today, and that even the future may be indebted to the same blaze!
 
@@ -69,7 +66,7 @@ Besides, we may well recollect what God has done, for if we tell it to others, w
 
 Oh, talk you, then, of His mighty acts! Study them, and learn them! And then speak of them with the tongue, like the pen of a ready writer, or if you go stammering, let the tongue of the dumb sing with you! Oh, to speak of the everlasting mercy of our God! On such a theme as this, they who have been heretofore silent may grow into orators, for the history of the Church of God and the story of God's love might well unloose our stammering tongues and make us tell of His immense, unsearchable love! Would to God that all the Church were orators for Him! Would that you who belong to this Church were! Many, I know, belong to divers sections of it, but alas, some are, perhaps, members of this Church, yet not members of the Church of God! And some of you are not even professedly members of God's Church. May you be converted! May you listen to the Gospel, whose message you doubt! It is a message even to you—"Believe on the Lord Jesus Christ, and you shall be saved." This is the Gospel that He has sent us to preach, saying these words, "Go you into all the world, and preach the Gospel to every creature. He that believes and is baptized shall be saved, but he that believes not shall be condemned." God bless and save you, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 58:1-12, JEREMIAH 30; ISAIAH 58:1-12.
+## Exposition by C. H. Spurgeon: Isaiah 58:1-12, Jeremiah 30; Isaiah 58:1-12
 
 Verses 1, 2. Cry aloud, spare not, lift up your voice like a trumpet, and show My people their transgression, and the house of Jacob their sins. Yet they seek Me daily, and delight to know My ways as a nation that did righteousness, and forsook not the ordinance of their God: they ask of Me the ordinances of justice: they take delight in approaching God. And what a strange thing this is, that there are some people who take delight in the ordinances of God and yet they are living in the most shameful sin. I must confess this remains a mystery to me. But I hear of some who will attend Prayer Meetings and seem to enjoy them—who are to be found in the House of God whenever the doors are opened, and yet, their characters will not bear the Light of God. One would think that they would not wish to be told of their sins, and to come under a faithful ministry—and yet they do—and the more faithful that ministry is, the more they seem to like it, and yet go on in their sins! Oh, what strange blindness is this which loves the Light and yet will not see by it—men that take to themselves niter and much soap, and yet will not wash—that heap up the bread about them as if they built a house with bread, and yet do not eat of it! Oh, infatuation most strange, to apparently love the Gospel and yet not to receive it into the heart so as to be changed by it. See how God talks to this religious people.
 
@@ -91,7 +88,7 @@ Verses 1, 2. Cry aloud, spare not, lift up your voice like a trumpet, and show M
 
 11, 12. And you shall be like a watered garden, and like a spring of water, whose waters fail not And they that shall be of you shall build the old waste places: you shall raise up the foundations of many generations and you shall be called, The repairer of the breach, The restorer of paths to dwell in.God help us to obey His precept that we may partake in His promise!
 
-JEREMHAH30.
+## Jeremhah 30
 
 12, For thus says the LORD, Your bruise is incurable and your wound is grievous. See here is the bass again. We have got down into the sorrowful notes—all to make us sick of self and ready to receive the Grace of God.
 
@@ -106,7 +103,6 @@ JEREMHAH30.
 16, 17. All they that devour you shall be devoured: and all your adversaries, every one of them, shall go into captivity; and they that spoil you shall be a spoil, andall thatprey upon you will Jgive for a prey. For I willrestore health unto you. Oh, the Sovereignty of Divine Grace! How it comes in when every hope is gone! Man's extremity is God's opportunity! An incurable sinner and, therefore, God comes to cure him! If you are brought so low that you cannot go any lower, God will put His everlasting arms underneath you. I speak to some, tonight, who are about to enter into peace, joy and rest. "I will restore health unto you; I will heal you of your wounds, says the Lord."
 
 17\. And I will heal you of your wounds, says the LORD; because they called you an Outcast, saying, This is Zion, whom no man seeks after. They said, "There is no hope for that man, there is no relief for that woman. Therefore God means to give up all relief." Nothing pleases Him better than to undertake a desperate case! God is great at a dead lift. When all the world is palsied, then is God Omnipotent.
-
 
 ---
 [[Sermon 3422 A Call to the Depressed|← #3422]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3424 Meat Indeed, and Drink Indeed|#3424 →]]

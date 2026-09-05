@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # My Solace in My Affliction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1656
-
-DELIVERED BY.
 
 > "Forever, O Lord, Your Word is settled in Heaven. Your faithfulness is unto all generations: You have established the earth and it abides. They continue this day according to Your ordinances: for all are Your servants. Unless Your Law had been my delights, I should then ha ve perished in my affliction." Psalm119:89-92.
 
@@ -134,7 +131,6 @@ Last of all, when none were his servants and all helpers failed him—when he wa
 Perhaps you remember the story of a conversation between the burgomaster in Hamburg and holy Mr. Oncken when he first began to preach. The burgomaster said to him, "Do you see that little finger, Sir? While I can move that little finger, I will put the Baptists down." Mr. Oncken said, "With all respect to your little finger, Mr. Burgomaster, I would ask you another question. Do you see that great arm?" "No, I do not see it." "Just so," said Mr. Oncken, "but I do, and while that great arm moves, you cannot put us down! And if it comes to a conflict between your little finger and that great arm, I know how it will end."
 
 It was my great joy to see the burgomaster sitting in the Baptist Chapel, at Hamburg, among the audience that listened to my sermon at the opening of the new Chapel. The little finger had willingly given up its opposition and the great arm was made bare among us. Trust in the Lord forever, for in the Lord Jehovah there is everlasting strength! God bring us all to that, both saint and sinner, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1655 The Blessed Guest Detained|← #1655]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1657 My Hourly Prayer|#1657 →]]

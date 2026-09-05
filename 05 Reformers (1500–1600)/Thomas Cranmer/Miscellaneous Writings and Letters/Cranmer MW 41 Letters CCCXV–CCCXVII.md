@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 41. Letters CCCXV–CCCXVII
 
-CCCXV. TO QUEEN MARY3.
+## CCCXV. To Queen Mary 3
 
 I LEARNED by doctor Martin, that at the day of your majesty's coronation you took an oath of obedience to the pope of Rome, and the same time you took another oath to this realm, to maintain the laws, liberties, and customs of the same. And if your majesty did make an oath to the pope, I think it was according to the other oaths which he useth to minister to princes ; which is, to be obedient to him, to defend his Person? to maintain his authority, honour, laws, lands, and privileges. And if it be so, (which I know not but by report,) then I beseech your majesty to look upon your oath made to the crown and realm, and to expend and weigh the two oaths together, to see how they do agree, and then to do as your grace's conscience shall give you : for I am surely persuaded that willingly your majesty will not offend, nor do against your conscience for nothing. But I fear me that there be contradictions in your oaths, and that those which should have informed your grace thoroughly, did not their duties therein. And if your majesty ponder the two oaths diligently, I think you shall perceive you were deceived ; and then your highness may use the matter as God shall put in your heart. Furthermore, I am kept here from company of learned men, from books, from counsel, from pen and ink, saving at this time to write unto your majesty; which all were neces sary for a man being in my case. Wherefore I beseech your majesty, that I may have such of these as may stand with your majesty's pleasure. And as for mine appearance at Rome4, if your majesty will give me leave, I will appear there : and I trust that God shall put in my mouth to defend his truth there as well as here. But I refer it wholly to your majesty's pleasure5. QSept. 1555.]
 
@@ -29,11 +28,11 @@ Your poor orator,
 
 [5 " These and other his smart and learned letters, no question, made impression upon the queen, or at least upon those that read them ; for they were delivered by the queen to no less a person than the holy father cardinal Pole himself; who was advised to frame an answer to them."—" By comparing of
 
-CCCXVI. TO A LAWYER.
+## CCCXVI. To a Lawyer
 
 E lex hoc ab omnibus postulat, ut quatenus citra divini numinis injuriam coverdaie's fieri potest, quisque vitam tueatur suam. Quod cum tribus abhinc diebus mihi in mentem vSSm** venisset, simulque memoriae occurrisset appellatio Martini Lutheri a Leone decimo ad Lid. 1564. concilium generale, constitui et ipse concilium generale lefritimum et liberum appellare, ne Foxe's Acts
 
-%_ ... and Monu- temere et inconsulto vitam prodcrem meam. Verum cum appellatioms materia ad legisJJfgJ.,*0peritos spcctet, cujus ego ignarus sum, cumque Lutheri appellatio ad manum mihi non Pw®-' sit; decrevi amico alicui fido et jurisperito consilium meum hac in re pandere, cujus opera in hoc negotio uterer : ac tu quidem unus occurristi, qui mihi in hac academia visus est ad hoc munus idoneus. Sed summam haec res taciturnitatem postulat, ut antequam res fiat, nemo resciscat. Dies mihi dictus est, ut respondeam Romae decimo sexto hujus mensis, ante quern mihi provocandum esse puto, ac post sententiam appellandum. Sed an primum mihi provocandum et appellandum sit a judice delegate ad ipsum pontificem, ac deinde ad concilium generale6, an omisso pontifice ad concilium primum appellandum sit, consilio mihi opus est tuo.
+%_ ... and Monu-temere et inconsulto vitam prodcrem meam. Verum cum appellatioms materia ad legisJJfgJ.,*0peritos spcctet, cujus ego ignarus sum, cumque Lutheri appellatio ad manum mihi non Pw®-' sit; decrevi amico alicui fido et jurisperito consilium meum hac in re pandere, cujus opera in hoc negotio uterer : ac tu quidem unus occurristi, qui mihi in hac academia visus est ad hoc munus idoneus. Sed summam haec res taciturnitatem postulat, ut antequam res fiat, nemo resciscat. Dies mihi dictus est, ut respondeam Romae decimo sexto hujus mensis, ante quern mihi provocandum esse puto, ac post sententiam appellandum. Sed an primum mihi provocandum et appellandum sit a judice delegate ad ipsum pontificem, ac deinde ad concilium generale6, an omisso pontifice ad concilium primum appellandum sit, consilio mihi opus est tuo.
 
 Porro appellatioms causae mihi multaa sunt.
 
@@ -53,7 +52,7 @@ this letter of Pole's with that of Cranmer's, any one may see a mighty differenc
 
 Est et alia appellationis causa, quod cum Romam vocatus sim illic dicturus causam, interim carccrc detineor, ut comparcre mihi ad dictum diem non liceat. Cum autem de statu et vita mea agitur, et pro defensione mea jurisperitorum consilio mihi opus esset, quum id peterem, ncgatum est omne advocatorum, procuratorum, et jurisconsultonnn consilium et auxilium. Vale. £Nov. 1555.]
 
-A LETTER OF DOCTOR CRANMER, ARCHBISHOP OF CANTERBURY, TO A LAWYER FOR THE DRAWING UP OF HIS APPEAL1.
+## A Letter of Doctor Cranmer, Archbishop of Canterbury, to a Lawyer for the Drawing up of His Appeal 1
 
 Foxe's Acts and Monu ments,
 
@@ -83,19 +82,19 @@ Degradation, pp. 224, et sqq.]
 
 Simler Coll.
 
-CCCXVII. TO P. MARTYR.
+## CCCXVII. To P. Martyr
 
 POST plurimam in Christo Servatore nostro salutem. Quando turn demum necessariae sunt liter®, quum aut non Satis prudens est nuncius, aut rerum quas significare volumus LibrTzurich, ignarus, aut non fidus cui arcana credas ; quumque mihi Dei benignitate sese obtulisset hie tabellarius, vir et prudentia (ut nosti) insigni, et qui rebus in credendis fidissimus sit, et nostrum utriusque amantissimus, et rerum nostratium scientissimus, e cujus ore quae hie acta fuerint intelligas omnia ; non necessarium existimavi ut prolixius ad te scriberem, praesertim quum scripturae tot pericula damnaque afferre soleant. Illud tamen unum praatermittcndum non censui, quod expertus didici, nunquam Deum splendidius illucescere, et clementiae suae, consolationis, aut roboris ac fortitudinis animi radios suorum mentibus clarius,aut pressius infundere, quam in summis animi corporisque angoribus atque pressuris; ut turn vel maxime sese declaret suorum esse Deum, quum illos deseruisse prorsus videtur ; turn erigere quum dejicere atque prosternere, turn glorificare quum confundere, turn denique vivificare quum occidere putetur. Ut cum Paulo dicere liceat, ' Quando infirmor tune fortior sum, et si gloriari oportet, in infirmitatibus meis gloriabor, in carceribus, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro Christo.' Faxit obsecro Deus, ut in finem perseveremus. Hodie nihil magis animum angit meum, quam quod hactenus M.A. nihil est responsum ; ad cujus astutias, praestigias, et insanias jamdudum non defuisset responsum, nisi mihi defuissent et libri et libertas. Prneterquam tibi scripsi nemini, nee scire velim quenquam quod ad te scripserim : proinde nomine meo salutabis neminem.
 
-THOMAS CRAMMERUS*.
+## Thomas Crammerus*
 
 Hoec in manu Archiepiscopi Cantuarensis. Scripsit hcec ex carcere ad D. Pet. Martyrem. M.A. sig nificant Marc. Antonium, nimirum Wintoniensem. 1555.
 
-CRANMER TO PETER MARTYR.
+## Cranmer to Peter Martyr
 
 AFTER much health in Christ our Saviour. As letters are then only necessary, when the messenger is either not sufficiently discreet, or is unacquainted with the circumstances we wish to communicate, or not thought worthy to be entrusted with secrets ; and since by the goodness of God the bearer of this6 has fallen in my way, a man, as you know, of signal discretion, most faithful in all matters en trusted to him, exceedingly attached to us both, and possessing an entire acquaintance with the circumstances of our country, from whose mouth you may learn all that has taken place here ; I have not thought it needful to write to you more at length, especially as letters are wont to occasion so much danger and mischief. Yet I have not deemed it right to pass over this one thing, which I have learned by experience, namely, that God never shines forth more brightly, and pours out the beams of his mercy and consolation, or of strength and firmness of spirit, more clearly or impressively upon the minds of his people, than when they are under the most extreme pain and distress, both of mind and body, that he may then more especially shew himself to be the God of his people, when he seems to have altogether forsaken them ; then raising them up when they think he is bringing them down,
 
-[3 " The signature is added by another hand, this volume, presenting a specimen of the latest and the subjoined note is in that of Bullinger. Cranhandwriting of this venerable prelate. This im- mer was burned at Oxford, March 21, 1556: this I portant and interesting document had escaped all letter, which appears undoubtedly to be his autoformer researches, and supplies a most valuable graph, was written only a few months previously." ; testimony respecting the principles and views by
+[3 " The signature is added by another hand, this volume, presenting a specimen of the latest and the subjoined note is in that of Bullinger. Cranhandwriting of this venerable prelate. This im-mer was burned at Oxford, March 21, 1556: this I portant and interesting document had escaped all letter, which appears undoubtedly to be his autoformer researches, and supplies a most valuable graph, was written only a few months previously." ; testimony respecting the principles and views by
 
 Original Letters relative to the English Reformation which he was enabled to endure his cruel imprison -
 
@@ -109,11 +108,11 @@ ment and death.]
 
 S. A. Pears in 1843, in his examination of the supposing that the bearer of this letter was Jewel, Archives and Library there for the Parker Society. | afterwards bishop of Salisbury.] A facsimile of it is given at the commencement of I
 
-458 LETTERS. [1555.
+## 458 Letters. [1555
 
 and laying them low; then glorifying them, when he is thought to be confounding them; then quick ening them, when he is thought to be destroying them. So that we may say with Paul, "When I am weak, then am I strong ; and if I must needs glory, I will glory in my infirmities, in prisons, in revilings, in distresses, in persecutions, in sufferings for Christ." I pray God to grant that I may endure to the end! Nothing is at this time more distressing to me, than that no answer has as yet been given to M. A., to whose subtilties, and juggling tricks, and ravings, a reply would not have been wanting long since, had not books and liberty been wanting to myself. I have written to no one but you, nor do I wish any one to know that I have written to you: wherefore salute no one in my name.
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 This is in the hand-writing of the archbishop of Canterbury. He wrote it from prison to mas ter Peter Martyr. M. A. signifies Marcus Antonius, meaning the bishop of Winchester.
 
@@ -127,7 +126,7 @@ T. CANTUARIEN. To the kings highness.
 
 [l This letter has not appeared in any previous collection. It was not discovered in sufficient time to place it in its proper position after the translation of the archbishop's letter to Osiander, p. 408, supra.] [2 The exchange was made, A.D. 1541. Vid. Strype's Mem. of Abp. Cranmer, Vol. I. p. 133.]
 
-THE QUEEN TO MR HERD3.
+## The Queen to Mr Herd 3
 
 As we are greatly bound to the high providence of Almighty God, the fountain only of all good things ; so likewise your diligence in the same Lord is not unworthy of due mestic Pacommendation, for that you have so studiously hitherto kept and conserved in your GS A' custody the collections or common-places gathered and written by the late archbishop of Canterbury, Thomas Cranmer. And now, forasmuch as such a rare and precious a treasure we think is not to be kept in secret oblivion, as a candle under a bushel, but rather ought to be set abroad, to the public use of the church of Christ ; our request therefore to you is, that upon the sight hereof you will commit to the bearer of the same all and singular parts of the said common-places written by the aforesaid archbishop ; or if you have any other monument else of the like sort with you remaining : to the intent they may be penised and serve more publicly to the greater fruit and better furtherance of Christ's church. Giving you not only thanks for this your safe custody of such a jewel, but also promising to stand in like case beneficial to you again, so much as this your accomplishing of our request shall require.
 

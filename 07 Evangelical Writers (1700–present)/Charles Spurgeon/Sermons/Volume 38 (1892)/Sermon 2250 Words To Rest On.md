@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Words To Rest On
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2250
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the people rested themselves upon the words of Hezekiah, king of Judah." 2 Chronicles 32:8.
 
@@ -156,7 +153,6 @@ Get hold of the promises of God and when you feel downcast—when the wind is in
 Oh, that the Holy Spirit might lead some poor soul to rest on these precious Words of God, even now, for the first time! And unto the Lord shall be praise forever and ever! Amen.
 
 Port/on of Scripture Read before Sermon—2 Chronicles 32.
-
 
 ---
 [[Sermon 2249 Even Now|← #2249]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2251 Our Compassionate High Priest|#2251 →]]

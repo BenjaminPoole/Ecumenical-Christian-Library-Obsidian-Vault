@@ -11,7 +11,6 @@ tags:
   - classical
   - herodotus
 ---
-
 # The History of Herodotus
 *Volume 1*
 
@@ -19,26 +18,20 @@ tags:
 
 ---
 
-THE HISTORY OF HERODOTUS
-
 By Herodotus
 
 Translated into English by G. C. Macaulay
 
+## In Two Volumes
 
-IN TWO VOLUMES
-
-VOLUME I.
-
+## Volume I
 
 {e Herodotou diathesis en apasin epieikes, kai tois men agathois
 sunedomene, tois de kakois sunalgousa}.—Dion. Halic.
 
 {monos 'Erodotos 'Omerikhotatos egeneto}.—Longinus.
 
-
-
-PREPARER'S NOTE
+## Preparer's Note
 
   This text was prepared from an edition dated 1890, published by
   MacMillan and Co., London and New York.
@@ -46,10 +39,7 @@ PREPARER'S NOTE
   Greek text has been transliterated and marked with brackets, as in
   the opening citation above.
 
-
-
-
-PREFACE
+## Preface
 
 If a new translation of Herodotus does not justify itself, it will
 hardly be justified in a preface; therefore the question whether it was
@@ -140,9 +130,7 @@ obligations are acknowledged in the notes.
 
 —————
 
-
-
-NOTES TO PREFACE
+## Notes to Preface
 
 331 [ See the remarks of P.-L. Courier (on Larcher's version) in the
 preface to his specimens of a new translation of Herodotus (OEuvres
@@ -165,14 +153,9 @@ checked my own by it, I find that I have marked upwards of two hundred
 mistakes or oversights: no doubt I have been saved by it from at least
 as many.]
 
+## The History of Herodotus
 
-
-
-
-THE HISTORY OF HERODOTUS
-
-
-BOOK I. THE FIRST BOOK OF THE HISTORIES, CALLED CLIO
+## Book I. The First Book of the Histories, Called Clio
 
 This is the Showing forth of the Inquiry of Herodotus of Halicarnassos,
 to the end that 1 neither the deeds of men may be forgotten by lapse
@@ -913,7 +896,6 @@ Lydians entered the sanctuary of the temple 40 to consult the god and
 asked that which they were commanded to ask, the Pythian prophetess
 spoke thus in hexameter measure:
 
-
  "But the number of sand I know, 41 and the measure of drops in the ocean;
   The dumb man I understand, and I hear the speech of the speechless:
   And there hath come to my soul the smell of a strong-shelled tortoise
@@ -1026,7 +1008,6 @@ Oracle the third time; for from the time when he learnt the truth of
 the Oracle, he made abundant use of it. 59 And consulting the Oracle
 he inquired whether his monarchy would endure for a long time. And the
 Pythian prophetess answered him thus:
-
 
  "But when it cometh to pass that a mule of the Medes shall be monarch
   Then by the pebbly Hermos, O Lydian delicate-footed,
@@ -1180,7 +1161,6 @@ by divine guidance 75 there came into the presence of Peisistratos
 Amphilytos the Arcarnanian, 76 a soothsayer, who approaching him uttered
 an oracle in hexameter verse, saying thus:
 
-
  "But now the cast hath been made and the net hath been widely extended,
   And in the night the tunnies will dart through the moon-lighted waters."
 
@@ -1226,7 +1206,6 @@ man of the Spartans who was held in high repute, came to the Oracle at
 Delphi, and as he entered the sanctuary of the temple, straightway the
 Pythian prophetess said as follows:
 
-
  "Lo, thou art come, O Lycurgos, to this rich shrine of my temple,
   Loved thou by Zeus and by all who possess the abodes of Olympos.
   Whether to call thee a god, I doubt, in my voices prophetic,
@@ -1249,7 +1228,6 @@ prosperous: and it was no longer sufficient for them to keep still; but
 presuming that they were superior in strength to the Arcadians, they
 consulted the Oracle at Delphi respecting conquest of the whole of
 Arcadia; and the Pythian prophetess gave answer thus:
-
 
  "The land of Arcadia thou askest; thou askest me much; I refuse it;
   Many there are in Arcadian land, stout men, eating acorns;
@@ -1280,7 +1258,6 @@ Agamemnon. Then as they were not able to find the grave of Orestes,
 they sent men again to go to the god and to inquire about the spot where
 Orestes was laid: and when the messengers who were sent asked this, the
 prophetess said as follows:
-
 
  "Tegea there is, in Arcadian land, in a smooth place founded;
   Where there do blow two blasts by strong compulsion together;
@@ -1668,7 +1645,6 @@ of speech. Now in his former time of prosperity Croesus had done
 everything that was possible for him, and besides other things which he
 devised he had also sent messengers to Delphi to inquire concerning him.
 And the Pythian prophetess spoke to him thus:
-
 
  "Lydian, master of many, much blind to destiny, Croesus,
   Do not desire to hear in thy halls that voice which is prayed for,
@@ -3231,7 +3207,6 @@ up; so they sent men to ask the Oracle at Delphi what the cause of
 the difficulty was. And the Pythian prophetess, as the men of Cnidos
 themselves report, gave them this reply in trimeter verse:—
 
-
  "Fence not the place with towers, nor dig the isthmus through;
   Zeus would have made your land an island, had he willed."
 
@@ -3950,9 +3925,7 @@ of all mortal things.
 
 —————
 
-
-
-NOTES TO BOOK I
+## Notes to Book I
 
 1 [ {'Erodotou 'Alikarnesseos istories apodexis ede, os k.t.l.} The
 meaning of the word {istorie} passes gradually from "research" or
@@ -4615,12 +4588,7 @@ many Editors, may be right; but {nomos} seems to mean the "customary
 rule" which determines this form of sacrifice, the rule namely of "swift
 to the swift."]
 
-
-
-
-
-BOOK II. THE SECOND BOOK OF THE HISTORIES, CALLED EUTERPE
-
+## Book II. The Second Book of the Histories, Called Euterpe
 
 1. When Cyrus had brought his life to an end, Cambyses received the
 royal power in succession, being the son of Cyrus and of Cassandane the
@@ -6482,7 +6450,6 @@ lands, and that he came among other places to Sidon in Phenicia. Of this
 the poet has made mention in the "prowess of Diomede," and the verses
 run this: 98
 
-
  "There she had robes many-coloured, the works of women of Sidon,
   Those whom her son himself the god-like of form Alexander
   Carried from Sidon, what time the broad sea-path he sailed over
@@ -6490,14 +6457,12 @@ run this: 98
 
 And in the Odyssey also he has made mention of it in these verses: 99
 
-
  "Such had the daughter of Zeus, such drugs of exquisite cunning,
   Good, which to her the wife of Thon, Polydamna, had given,
   Dwelling in Egypt, the land where the bountiful meadow produces
   Drugs more than all lands else, many good being mixed, many evil."
 
 And thus too Menelaos says to Telemachos: 100
-
 
  "Still the gods stayed me in Egypt, to come back hither desiring,
   Stayed me from voyaging home, since sacrifice was due I performed not."
@@ -7741,9 +7706,7 @@ paid him tribute.
 
 —————
 
-
-
-NOTES TO BOOK II
+## Notes to Book II
 
 1 [ Some write "Psammitichos" with less authority.]
 
@@ -8258,12 +8221,7 @@ case. Some propose to read {eikosi mneas khrusou}.]
 
 155 [ "thou hast surely perished."]
 
-
-
-
-
-BOOK III. THE THIRD BOOK OF THE HISTORIES, CALLED THALEIA
-
+## Book III. The Third Book of the Histories, Called Thaleia
 
 1. Against this Amasis then Cambyses the son of Cyrus was making his
 march, taking with him not only other nations of which he was ruler,
@@ -9296,7 +9254,6 @@ which came in from the mines every year. So when they were establishing
 the treasury, they consulted the Oracle as to whether their present
 prosperity was capable of remaining with them for a long time, and the
 Pythian prophetess gave them this reply:
-
 
  "But when with white shall be shining 47 the hall of the city 48
     in Siphnos,
@@ -11041,9 +10998,7 @@ to Athens as a deserter from the Persians.
 
 —————
 
-
-
-NOTES TO BOOK III
+## Notes to Book III
 
 1 [ See ii. 1.]
 
@@ -11447,12 +11402,7 @@ been interpolated here.]
 
 134 [ The words "and to the Persians" are omitted in some MSS.]
 
-
-
-
-
-BOOK IV. THE FOURTH BOOK OF THE HISTORIES, CALLED MELPOMENE
-
+## Book IV. The Fourth Book of the Histories, Called Melpomene
 
 1. After Babylon had been taken, the march of Dareios himself 1 against
 the Scythians took place: for now that Asia was flourishing in respect
@@ -11862,7 +11812,6 @@ and mules endure it.
 29. I think also that it is for this reason that the hornless breed
 of oxen in that country have no horns growing; and there is a verse of
 Homer in the Odyssey 34 supporting my opinion, which runs this:—
-
 
     "Also the Libyan land, where the sheep very quickly grow hornèd,"
 
@@ -12721,7 +12670,6 @@ figures to present the whole scene of the bridge over the Bosphorus and
 king Dareios sitting in a prominent seat and his army crossing over;
 this he caused to be painted and dedicated it as an offering in the
 temple of Hera, with the following inscription:
-
 
  "Bosphorus having bridged over, the straits fish-abounding, to Hera
     Mandrocleës dedicates this, of his work to record;
@@ -13686,7 +13634,6 @@ that he would be a king in Libya. For when he had grown to be a man,
 he came to Delphi to inquire about his voice; and when he asked, the
 prophetess thus answered him:
 
-
  "For a voice thou camest, O Battos, but thee lord Phoebus Apollo
   Sendeth as settler forth to the Libyan land sheep-abounding,"
 
@@ -13721,7 +13668,6 @@ that they were dwelling in Libya and that, though they were dwelling
 there, they fared none the better: and the Pythian prophetess made
 answer to them thus:
 
-
  "Better than I if thou knowest the Libyan land sheep-abounding,
   Not having been there than I who have been, at thy wisdom I wonder."
 
@@ -13750,7 +13696,6 @@ Battos the Prosperous, the Pythian prophetess gave an oracle wherein
 she urged the Hellenes in general to sail and join with the Kyrenians
 in colonising Libya. For the Kyrenians invited them, giving promise of a
 division of land; and the oracle which she uttered was as follows:
-
 
  "Who to the land much desirèd, to Libya, afterwards cometh,
   After the land be divided, 143 I say he shall some day repent it."
@@ -14378,9 +14323,7 @@ Battos on the men of Barca.
 
 —————
 
-
-
-NOTES TO BOOK IV.
+## Notes to Book IV
 
 1 [ Some enterprises had been entrusted to others, e.g. the attack
 on Samos; but this had not been the case with the capture of Babylon,

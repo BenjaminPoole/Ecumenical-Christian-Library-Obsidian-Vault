@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 137
-
-**PSALM 137**
 
 At the Babylonish captivity the established order of God’s worship was overthrown, and the Psalmist complains, in the name of the Church at large, of the taunts which the enemy east upon the name of God, addressing at the same time a word of comfort to his people under their captivity, to cheer them with the hope of deliverance.
 

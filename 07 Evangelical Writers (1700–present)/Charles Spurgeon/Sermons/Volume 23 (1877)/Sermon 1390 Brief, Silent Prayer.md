@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Brief, Silent Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1390
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 9, 1877,.
+*Delivered on Lord's-Day Evening, September 9, 1877*
 
 > "So I prayed to the God of Heaven." Nehemiah 2:4.
 
@@ -134,7 +133,6 @@ Bound by gold chains about the feet of God." I do not suspect there is a creatur
 If I address one profane swearer here I would like to put this matter clearly to him. Were the Almighty to hear you— if your eyes were blinded and your tongue were struck dumb while you were uttering a wild imprecation—how would you bear the sudden judgment on your impious speech? If some of those prayers of yours were answered for yourself— and if some that you have offered in your passion for your wife and for your child were fulfilled to their hurt and your distraction—what an awful thing it would be!
 
 Well, God does answer prayer, and one of these days He may answer your prayers to your shame and everlasting confusion. Would not it be well now, before you leave your seat, to pray, "Lord, have mercy upon me. Lord, save me. Lord, change my heart. Lord, give me to believe in Christ. Lord, give me now an interest in the precious blood of Jesus. Lord, save me now"? Will not each one of you breathe such a prayer as that? May the Holy Spirit lead you to do so! And if you once begin to pray aright I am not afraid that you will never leave off, for there is a something that holds the soul fast in real prayer.
-
 
 ---
 [[Sermon 1389 A Gospel Sermon To Outsiders|← #1389]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]]

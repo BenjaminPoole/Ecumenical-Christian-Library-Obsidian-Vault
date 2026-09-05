@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 28
 
-**CHAPTER 28.**
+***Chapter 28.***
 
 ## Genesis 28:1-22
 

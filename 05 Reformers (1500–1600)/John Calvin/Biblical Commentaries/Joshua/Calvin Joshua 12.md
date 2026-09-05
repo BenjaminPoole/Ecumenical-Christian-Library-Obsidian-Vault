@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Joshua 12:1-24
 

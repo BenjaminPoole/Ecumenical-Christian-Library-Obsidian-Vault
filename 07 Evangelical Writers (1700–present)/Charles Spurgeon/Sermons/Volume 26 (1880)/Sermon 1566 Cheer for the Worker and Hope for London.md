@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Cheer for the Worker and Hope for London
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1566
 
-DELIVERED ON THURSDAY EVENING, OCTOBER 28, 1880,.
+*Delivered on Thursday Evening, October 28, 1880*
 
 > "Then spoke the Lord to Paul in the night by a vision, Be not afraid, but speak and hold not your peace: for I am with you and no man shall set on you to hurt you: for I have much people in this city." Acts 18:9,10.
 
@@ -142,7 +141,6 @@ Now, the Lord will never let the blood of the martyrs die out! It will forever b
 You say, "That would be very rough English!" Well, but the roughest of English might be better than the Latinized jargon of most of our pulpits. When men preach the Gospel plainly and simply, they will never lack a congregation in this great city, I am certain of it. Away in a hack street down in a hollow way just beyond Barclay and Perkins's brewery, where there are no cabs, or other public conveyances—right out of the world and into the mud—the crowds came and discovered a boy years ago and they followed him because he preached the Gospel in a way which they could understand. They will find a man anywhere if he will but preach the Gospel of Christ! I am sure that the Lord has much people in this city because there is a hungering and thirsting after the Gospel, if they could but get at it.
 
 Go ahead, then, Brothers and Sisters! Talk about Christ! Talk about Him everywhere! Talk about Him in the workshop! Speak about Him quietly and modestly, prudently and gently, but carry out the blessed Words of my text—"Be not afraid, but speak and hold not your peace." Be this to each one his word of good cheer, "For I am with you and no man shall set on you to hurt you: for I have much people in this city." God bless you, for Christ's sake. Amen and amen!
-
 
 ---
 [[Sermon 1565 Maschil Of Ethan, A Majestic Song|← #1565]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1567 The Blood of the Covenant|#1567 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # A Stanza of Deliverance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2241
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He brought them forth, also, with silver and gold: and there was not one feeble person among their tribes." Psalm 105:37.
 
@@ -126,7 +123,6 @@ Oh, when we meet in the Home Country, when we once get to Glory, what a delight 
 If any of you have not believed unto eternal life, put your trust in the Lord Jesus now. They serve a good Master who trust only in Jesus and take up their cross and follow Him. In Him is life for the perishing, joy for the sorrowing, rest for the weary and liberty for the captives! Are you shut up, like a prisoner in a castle? Do but trust in Jesus and He will batter the dungeon door and bring you out! Yes, and He will not give you a penniless liberty, a liberty to perish of need! No, it shall be said of you, and of others like you, "HE brought them forth, also, with silver and gold." Amen, so be it! So be it, even at this moment, good Lord!
 
 Port/on of Scripture Read before Sermon—Psalm 105.
-
 
 ---
 [[Sermon 2240 A Challenge and a Shield|← #2240]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2242 God's Will About the Future|#2242 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 11
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NO CAUSE TO BLUSH**
+## **No Cause to Blush**
 
 > Fear not; for thou shalt not be ashamed" Isa. 54:4
 
@@ -23,7 +22,6 @@ We shall not be ashamed of our faith. Carping critics may assail the Scriptures 
 We shall not be ashamed of our hope. It shall be even as the Lord has said. We shall be fed, led, blest and rested. Our Lord will come, and then the days of our mourning shall be ended. How we shall glory in the Lord who first gave us lively hope, and then gave us that which we hoped for!
 
 We shall not be ashamed of our love. Jesus is to us the altogether lovely, and never, never, shall we have to blush because we have yielded our hearts to Him. The sight of our glorious Well-beloved will justify the most enthusiastic attachment to Him. None will blame the martyrs for dying for Him. When the enemies of Christ are clothed with everlasting contempt, the lovers of Jesus shall find themselves honored by all holy beings, because they chose the reproach of Christ rather than the treasures of Egypt.
-
 
 ---
 [[FCB June 10|← June 10]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 12|June 12 →]]

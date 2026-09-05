@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 46
 
-**CHAPTER 46.**
+***Chapter 46.***
 
 ## Genesis 46:1-34
 

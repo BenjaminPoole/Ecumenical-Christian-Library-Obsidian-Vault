@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 110. What doth God forbid in the eighth command?
-
-**Question 110. What doth God forbid in the eighth command?**
 
 Answer. God forbids not only those thefts and robberies which are punishable by the magistrate, but he comprehends under the name of theft, all wicked tricks and devices, whereby we design to appropriate to ourselves the goods which belong to our neighbor; whether it be by force, or under the appearance of RIGHT, as by unjust weights, ells, measures, FRAUDULENT merchandise, false coins, usury, or by any other way forbidden by God; as also all covetousness, all waste and abuse of his gifts.
 

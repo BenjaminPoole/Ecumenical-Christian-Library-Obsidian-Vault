@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 220. Luke 24:41-49
-
-**LUKE 24:41-49**
 
 **41.** But while they yet believed not for joy, and wondered, he said to them, Have you here any thing to eat? **42.** And they presented to him a piece of a broiled fish, and some honeycomb. **43.** And he took, and ate, in their presence. **44.** And he said to them, These are the words which I spoke to you, while I was still with you; that all things which are written in the law Moses, and in the Prophets, and in the Psalms, concerning me, are fulfilled. **45.** Then he opened their understanding, that they might understand the Scriptures. **46.** And he said to them, Thus it is written, and thus it was proper that Christ should suffer, and rise from the dead on the third day; **47.** And that repentance and forgiveness of sins should be preached in his name to all nations, beginning at Jerusalem. **48.** And you are witnesses of those things. **49.** And, lo, send the promise of my Father upon you; but remain you in the city of Jerusalem, till you are endued with power from on high.
 

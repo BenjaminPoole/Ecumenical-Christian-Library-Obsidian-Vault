@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 10. Chapter VIII
 
-THE FAITH WHICH IS THE FOUNDATION OF THE CHURCH
+*The Faith Which Is the Foundation of the Church*
 
 So far as the second thing is concerned [involved in Matt. 16 : 16-18], that is, faith, which is touched upon in the words, "Thou art Christ, the Son of the living God" — it is to be noted that faith is now taken for the act of believing by which we believe, now for the inward state or disposition — habitus1 — of believing through which we believe, and now for the truth which we believe, as Augustine lays down, de Trinitate, 13 [Nic. Fathers, 3 : 166 sqq.].
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # Now, A Sermon for Young Men and Young Women
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1164
 
-DELIVERED ON THURSDAY EVENING, MARCH 19, 1874,.
+*Delivered on Thursday Evening, March 19, 1874*
 
 > "Son of man, behold, they of the house of Israel say, The vision that he sees is for many days to come, and he prophesies of the times that are far off" Ezekiel 12:27.
 
@@ -152,7 +151,6 @@ The millennial Glory, whatever that may be, and the reign with Christ, and the t
 Look you ends of the earth, that are farthest gone in sin, if such are here! You who are plunged deep in iniquity— look! 'Tis Jesus on the Cross you are bid to look at—yes, Jesus at the right hand of God—the crucified Son of Man exalted at the right hand of the Father! Look unto Him, and be you saved, for He is God, and besides Him there is none else. God grant you to look to Jesus, even now, for His name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke 18:1-23. HYMNS FROM "OUR OWN HYMN BOOK"—95 (VER. II), 497, 492.
-
 
 ---
 [[Sermon 1163 Redemption and Its Claims|← #1163]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1165 The Christian's Motto|#1165 →]]

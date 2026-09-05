@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Invitation to a Conference
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2816
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come now, and let us reason together, says the LORD: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool." Isaiah 1:18.
 
@@ -132,7 +129,6 @@ children round him, and saying, "My dear boys and girls, beware of the Christian
 On the contrary, they have unanimously said, either with shouts of triumph or with quiet words of peaceful trust, "Blessed be the name of the Lord! This is joy, indeed, to be found in Christ Jesus, now that I am about to depart to be forever with Him!" Let practical evidence convince you, dear people, and if there is anything real and precious about all this of which I have been speaking—as there certainly is—if it is anything worth having, it is worth having now! If it is ever a good thing to be saved, it is well to be saved at once! If it is ever worthwhile to be rid of sin, it is worthwhile to be rid of sin before that clock ticks again! If it is ever worthwhile for you to have joy in God, it is worthwhile for you to have it before your eyes have again closed in slumber!
 
 The Lord grant that you may find it right speedily, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2815 Good Cheer for Many That Fear|← #2815]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2817 Jacob's Fear and Faith|#2817 →]]

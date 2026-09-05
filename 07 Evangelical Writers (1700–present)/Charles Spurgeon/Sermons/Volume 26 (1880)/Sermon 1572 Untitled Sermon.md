@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Untitled Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1572
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 12, 1880,.
+*Delivered on Lord's-Day Morning, December 12, 1880*
 
 > "The righteousness of Your testimonies is everlasting: give me understanding and I shall live." Psalm 119:144.
 
@@ -146,7 +145,6 @@ I cannot understand the notion of certain professing Christians that a change co
 The Gospel that was preached to the poor, which childlike persons understood by the enlightening influence of the Holy Spirit, is, in their eyes a very poor business. They sneer and turn up their cultured noses at what they call, "the simple Gospel," as if a simple Gospel were meant for simpletons. Well, now, to my mind this is the very bliss and blessedness of the Gospel—that the righteousness of God's testimonies is everlasting—that though it has been tried by criticism and tested by experience, it remains the same in its spotless purity and in its Divine Infallibility to this day! If God should be pleased to lengthen out the life of any of you till you are as old as Methuselah, you will not have to say, "I must die now, for the Gospel is worn out. I must perish now, for the righteousness of the Word of God has been disproved."
 
 Thus says Jehovah, "I am the Lord, I change not, therefore you sons of Jacob are not consumed." We may catch the echo of His proclamation and say, "Because the Word which reveals our God never changes, therefore we shall live." Do you need a better Gospel, any of you? Go and fish for it, if you do, but not in the waters of the Truth of God! Do you need any nobler promise, any surer covenant? Wander through the deserts of salt till your skeleton lies bleaching there, for that will be your only reward if you turn away from the feast of fat things, of wines on the lees well-refined. As for me, I bless God that the righteousness of His testimonies is everlasting and by them I mean to abide all my days, God helping me.
-
 
 ---
 [[Sermon 1571 The Joy Of Jesus|← #1571]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1573 Bad Lodgers and How To Treat Them|#1573 →]]

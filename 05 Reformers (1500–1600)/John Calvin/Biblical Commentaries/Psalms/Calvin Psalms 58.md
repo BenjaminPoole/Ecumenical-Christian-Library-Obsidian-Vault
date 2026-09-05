@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 58
-
-**PSALM 58**
 
 The following psalm consists of two parts. In the commencement, David vindicates his personal integrity from the calumnies cast upon him by his enemies. Having expressed his sense of the grievous injuries which they had inflicted, their cruelty and their treachery, he concludes by an appeal to the judgment of God, and by praying that they might be visited with deserved destruction.
 

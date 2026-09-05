@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Jesus, The Stumbling Stone Of Unbelievers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1224
-
-DELIVERED BY.
 
 > "Unto you therefore which believe He is precious: but unto them which are disobedient, the stone which the builders disallowed, the same is made the head of the corner, and a stone of stumbling, and a rock of offense, even to them which stumble at the word, being disobedient." 1 Peter 2:7,8.
 
@@ -106,7 +103,6 @@ There are a great many who say, "Oh, I do not believe it, I shall not bother my 
 Whether you look to Him now, or not, you will have to look to Him in that day when Heaven and earth shall rock and reel, the trumpet shall sound, the dead shall rise and you among them! Then the books shall be opened and the sentence of eternal wrath shall be uttered against the disobedient and unbelieving! God save us all for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Peter 2. HYMNS FROM "OUR OWN HYMN BOOK"—118, 2, 961.
-
 
 ---
 [[Sermon 1223 Jesus, The Substitute For His People|← #1223]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1225 Jesus, The Delight of Heaven|#1225 →]]

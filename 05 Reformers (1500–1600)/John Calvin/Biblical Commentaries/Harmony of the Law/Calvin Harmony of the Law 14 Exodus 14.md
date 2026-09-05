@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 14. Exodus 14
-
-**EXODUS 14**
 
 ## Exodus 14:1-9
 

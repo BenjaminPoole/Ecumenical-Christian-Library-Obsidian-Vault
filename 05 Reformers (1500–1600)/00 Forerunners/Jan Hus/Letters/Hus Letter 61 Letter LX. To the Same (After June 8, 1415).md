@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 61. Letter LX. To the Same (After June 8, 1415)
-
-LETTER LX. TO THE SAME (After June 8, 1415)
 
 Be careful over the letters ; Veit should be careful ; Jonah and Susannah ; " Able to liberate poor me " ; " If the Council told you that you have only one eye"; "The Lord is my protector " 225-6
 

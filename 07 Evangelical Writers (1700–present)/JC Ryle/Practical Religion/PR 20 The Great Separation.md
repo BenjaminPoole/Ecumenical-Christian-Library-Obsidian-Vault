@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # The Great Separation
 
-Chapter XX · *Practical Religion* — J. C. Ryle
+## Chapter XX · *Practical Religion* — J. C. Ryle
 
 >  *Whose fan is in His hand, and He will throughly purge His floor, and gather His wheat into the garner; but He will burn up the chaff with unquenchable fire.* "—Matt. iii. 12.
 
@@ -214,7 +213,6 @@ You say your sins are so many. But where is the sin, or the heap of sins, that t
 Take comfort, I say once more, if you have really come to Christ. Take comfort, and know your privileges. Cast every care on Jesus. Tell every want to Jesus. Roll every burden on Jesus: sins,—unbelief,—doubts,—fears,—anxieties,—lay them all on Christ. He loves to see you doing so. He loves to be employed as your High Priest. He loves to be trusted. He loves to see His people ceasing from the vain effort to carry their burdens for themselves.
 
 I commend these things to the notice of every one into whose hands this volume may fall. Only be among Christ's "wheat" now, and then, in the great day of separation, as sure as the Bible is true, you shall be in Christ's "garner" hereafter.
-
 
 ---
 [[PR 19 The Great Gathering|← The Great Gathering]] · [[Practical Religion|Practical Religion Contents]] · [[PR 21 Eternity!|Eternity! →]]

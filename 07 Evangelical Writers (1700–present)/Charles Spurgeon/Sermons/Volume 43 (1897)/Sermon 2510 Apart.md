@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Apart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2510
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the land shall mourn, every family apart; the family ofthe house of David apart, and their wives apart; the family ofthe house of Nathan apart, and their wives apart; the family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart; all the families that remain, every family apart, and their wives apart." Zechariah 12:12-14.
 
@@ -99,7 +96,7 @@ May true holiness spring out of your repentance and may this go side by side wit
 
 God bless you, Beloved! May we meet in Heaven to sing together, though on earth we must mourn apart, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51.
+## Exposition by C. H. Spurgeon: Psalm 51
 
 Although we may have been preserved by Divine Grace from any gross and open sin, yet let us read this Psalm in the spirit of penitence. I always feel afraid of myself if I cannot read this Psalm from my heart. Surely some pride must have entrusted my spirit and taken away its humility and its tenderness, if I cannot join in David's penitential prayer. I think that all of us who have the Spirit of God within us will feel that these words are suited to us as well as to poor brokenhearted David.
 
@@ -138,7 +135,6 @@ Verse 1. Have mercy upon me, O God. ' 'I cannot do without mercy, though I am Yo
 16, 17. For You desire not sacrifice; else wouldIgive it: You delight notin burnt offering. The sacrifices ofGodare a broken spirit Bring these sacrifices, dearly Beloved, bring them to God now! Bring your broken spirit, bring your troubled conscience, bring your bleeding heart, bring all your trembling on account of sin! Bring it all to God's altar now.
 
 17-19. A broken and a contrite heart, O God, You wiil not despise. Do good in Your good pleasure unto Zion: build You the walls of Jerusalem. Then shall You be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon Your altar. There must be great sacrifices of joy when great sin is put away by a great ransom—"Then shall they offer bullocks"—not lambs, but bullocks—"upon Your altar." God help each of us henceforth to offer bullocks upon His altar, not the poor little things such as we have previously brought, but some great consecrated offering let us bring unto the God who has forgiven all our transgressions and blotted out all our iniquities!
-
 
 ---
 [[Sermon 2509 The Sinful Made Sinless|← #2509]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2511 Brought Out to Be Brought In|#2511 →]]

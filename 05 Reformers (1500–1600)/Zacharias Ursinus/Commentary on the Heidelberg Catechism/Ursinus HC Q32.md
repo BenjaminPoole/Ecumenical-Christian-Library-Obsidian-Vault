@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 32. But why art thou called a Christian?
-
-**Question 32. But why art thou called a Christian?**
 
 Answer. Because I am a member of Christ by faith, and thus am partaker of his anointing, that so I may confess his name, and present myself a living sacrifice of thankfulness to him: and also, that with a free and good conscience I may fight against sin and Satan in this life, and afterwards reign with him eternally, over all creatures.
 
-**EXPOSITION**
+## **Exposition**
 
 In this question we are to consider the dignity and communion of Christians with Christ their head, together with the offices which they sustain as members of Christ. The name Christian, was first given to the disciples of Christ at Antioch, in the time of the Apostles. Prior to this they were called Brethren and Disciples. The name Christian is derived from Christ, and denotes one who is a disciple of Christ—one who follows his doctrine and life, and who, being engrafted into Christ, has communion with him. There are two kinds of Christians; some that are only apparently such; and others that are really and truly such. Those who are Christians merely in appearance, are those who have been baptized, and who are in the company of those who are called, and profess the Christian faith; but are without conversion, being nothing more than hypocrites and dissemblers, of whom it is said: "Many are called, but few are chosen." "Not every one that saith, Lord, Lord, shall enter into the kingdom of heaven," &c. (Matt. 20:16; 7:22.) Those are true christians who are not only baptized and profess the doctrine of Christ, but who are also possessed of a true faith, and declare this by the fruits of repentance; or, they are those who are members of Christ by a true faith, and are made partakers of his anointing. All true Christians are such also in appearance, because it is said, "Let your light so shine before men that they may see your good work, and glorify your Father which is in heaven." "Show me thy faith by thy works." (Matt. 5:16. James 2:18.) But it is not true, on the other hand, that all who are apparently Christians are also such in reality; because it will be said of many, "I never knew you." (Matt. 7:23.)
 
@@ -52,11 +49,11 @@ The kingship of Christ, however, differs from that of Christians, in this. 1. Th
 
 The use and importance of this doctrine is great. 1. For consolation, because we are through faith engrafted into Christ as members to the head, that we may be continually sustained, governed and quickened by him; and because he makes us prophets, priests and kings unto God and his Father, by making us partakers of his anointing. This is truly and unspeakable dignity conferred upon christians. 2. For admonition and exhortation; for since we are all prophets and teachers of God, we ought continually to celebrate and praise him; since we are priests, we ought to offer ourselves wholly to God, as living sacrifices of praise and thanksgiving; and since we are kings it becomes us to fight manfully against sin, the world, and the devil, that we may reign with Christ.
 
-**THIRTEENTH LORD'S DAY**
+## **Thirteenth Lord's Day**
 
 Answer. Because Christ alone is the eternal and natural Son of God; but we are children adopted of God, by grace, for his sake.
 
-**EXPOSITION**
+## **Exposition**
 
 The Deity of the Son of God is taught in this question, and it is now proper for us to consider it more fully. But here an objection arises out of the manner in which the above question is framed, which it may be well to notice: He who is the only begotten Son has no brethren; but Christ has brethren; for we also are the sons of God: therefore he is not the only begotten Son of God. To this we reply, by making a distinction as to the manner in which Christ and we are the sons of God; for there is a difference in this respect which it is well for us to keep in view whilst treating this subject. Christ is the only begotten, the natural, proper and eternal Son of God; but we are the sons of God, adopted of the Father by grace for the sake of Christ.
 
@@ -114,7 +111,7 @@ There are, therefore, just as many principal propositions to be demon strated ag
 
 There are two ways of collecting arguments out of the Scriptures, in favor of the Divinity of the Son, and of the Holy Ghost. The one is when the arguments are gathered according to the order of the books of the Bible; this is the most laborious and lengthy method. The other, which is the shortest and easiest mode, because it assists the memory, and therefore the one which we shall follow, is, according to certain classes or sorts of arguments, under which those testimonies of scripture that properly belong to them are arranged.
 
-**I. THE SON OF GOD, THE WORD, IS, AND HAS BEEN A SUBSISTENT, OR PERSON BEFORE, AND BESIDE THE FLESH WHICH HE ASSUMED**
+## **I. The Son of God, the Word, Is, and Has Been a Subsistent, or Person Before, and Beside the Flesh Which He Assumed**
 
 This proposition is to be proven against ancient and modern heretics, as Ebion, Cerinthus, Samosatenus, Photinus, Servetus, and others. The different classes of arguments by which we prove the hypostasis, or personal existence of the Word, before and besides the flesh which he assumed, may be reduced to eight or nine:
 
@@ -162,7 +159,7 @@ To this class of arguments also properly belong all those testimonies which attr
 
 This proposition being established, that the Son subsisted before his manifestation in the flesh, we must further enquire, what was he? the Creator, or a creature. Was he a Spirit co-eternal with God, or created in time? An answer to these questions is returned in the description of the Word, and of wisdom which is found in the first chapter of the gospel of John, and in the eighth chapter of the Proverbs of Solomon.
 
-**II. THAT THE SON IS A PERSON REALLY DISTINCT FROM THE FATHER AND THE HOLY GHOST**
+## **II. That the Son Is a Person Really Distinct from the Father and the Holy Ghost**
 
 That the person of the Son is distinct from that of the Father, must be maintained and taught on account of Noetus, Sabellius, and their adherents, who affirm that the essence of the Father, Son, and Holy Ghost, is of the same person, or that the three are one person; but that they have different names, as Father, Son, and Holy Ghost, on account of having different offices.
 
@@ -174,7 +171,7 @@ To prove that the Son is distinct from the Father, not only in office, but also 
 
 4. There are distinct attributes ascribed to the different persons of the Godhead. The Father begat the Son, and the Son is begotten. The Father sent, and the Son is sent. It is not said of the Father that he was made flesh, but of the Son alone. The Son, and not the Father, took upon him the seed of Abraham. The Son was made a supplicating intercessor, priest, prophet, king, and mediator, and not the Father. Therefore, the Father and Son are different. The Father is of himself through the Son: the Son is not of himself, nor through the Father, but through himself from the Father. Finally, Christ was baptized, and not the Father, nor the Holy Ghost. Therefore, Christ is distinct from the Father and the Holy Ghost.
 
-**III. THAT THE SON IS EQUAL WITH THE FATHER AND THE HOLY GHOST**
+## **III. That the Son Is Equal with the Father and the Holy Ghost**
 
 That the Son is true God, equal with the Father, and the Holy Ghost, that he was not made or created before all creature, that he is not God on account of divine qualities and operations, and that he is not inferior to the other persons of the Godhead, as Arius, Eunomius, Samosatenus, Servetus, and other heretics of a similar character imagine; but that he is by nature God, with the Father and the Holy Ghost, is proven,
 
@@ -192,7 +189,7 @@ Obj. He who has all things from another, is inferior to him from whom he has the
 
 Obj. 2. He who does whatever he does by the will of another going before, is inferior to him by whose will he is controlled. The Son acts by the will of the Father going before, and preventing. Therefore, he is inferior to the Father. Ans. The order of operating on the part of the persons of the Godhead, does not take away their equality; for it is thus that God reveals himself in his word; because the Father does all things through the Son and Holy Ghost; the Son by the Father, through the Spirit, &c. Neither is this an order of time, or dignity, or nature, but only of persons; so that the Son wills and does only such things as the Father wills and does, and that with the same power and authority, which, instead of doing away with their equality, only establishes it the more fully.
 
-**IV. THAT THE SON IS CON-SUBSTANTIAL, OR OF THE SAME ESSENCE WITH THE FATHER AND THE HOLY GHOST**
+## **IV. That the Son Is Con-Substantial, or of the Same Essence with the Father and the Holy Ghost**
 
 Having established the former propositions, we are now naturally led to prove that the Son is con-substantial; that is, of the same essence with the Father. Heretics are willing to confess that the Son is of like substance, or essence with the Father, which is, indeed, true, but does not express the whole truth in relation to this subject. Two men are, also, like-substantial, who are, nevertheless, not con-substantial. But the Father and the Son are not only of similar, but of one, and the same essence, and are one God; for there is only one divine essence which is the same, and is wholly in every one of the persons of the Godhead. The Father is, indeed, one person, and the Son is another; but yet the Father is not one God, and the Son another God, &c. John says, "that there are three that bear record in heaven;" they are three persons, but not three Gods that bear witness; "for these three are one." Therefore, we declare against Arius, that Christ is not only like-substantial, but also con-substantial with the Father, having the same divine essence with the Father, which is confirmed by the following arguments:
 

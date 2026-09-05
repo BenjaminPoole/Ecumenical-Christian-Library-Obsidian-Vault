@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 12. Introductory Notice and Preface to the Practice of Prelates
 
-[INTRODUCTORY NOTICE.
+*[Introductory Notice*
 
 The earliest known production of Tyndale, belonging to the class properly styled polemical, was 'The practice of prelates.' It issued from Hans Luft's press at Marburg, in 1530 1; and the editor has collated a copy of that first edition 2 with the text of an edition published in the reign of Edward VI. by Scoloker and Seres 3, and with that of Day's folio reprint of Tyndale, edited for him by Foxe in the reign of Elizabeth. As the prelates whose conduct Tyndale intended to expose were indisputably those of the church of Rome, it was thought proper to mark this, in an edition issued after the establish, ment of a protestant prelacy ; especially when that prelacy had begun to be assailed by men who might be tempted to cite Tyndale's words as meant to condemn any inequality of ranks, amongst the presbyters of a Christian church. Hence in Day's reprint this treatise is called * The practise of papistical prelates,' and its running title, at the head of Day's pages, is * The practise of popishe prelates.'
 
@@ -23,9 +22,9 @@ But, besides this unimportant alteration, there are considerable suppressions in
 
 INTRODUCTORY NOTICE. 239 honest reprints of such works as it selects for republication ; Icaring it to its readers to compare what is written with "the law and the testimony;" that test which it was the glory of the reformers to hare restored to its due authority. In the present instance, suppression could not have consigned to oblivion what may bo objectionable ; for the * Practice of Prelates ' was reprinted entire but a few years ago, ia the Rev. T. Russell's edition of Tyndalo's works : and respectable historians would have been unjustly made liable to the suspicion of being either culpably heedless, or dishonest, if a treatise to which they have referred had been republished as correct, after the excision of passages which they have quoted.]
 
-WILLIAM TYNDALE
+## William Tyndale
 
-CHRISTIAN EEADER.
+## Christian Eeader
 
 "When the old scribes and Pharisees had darkened the scripture with their traditions, and false interpretations, and wicked persuasions of fleshly wisdom ; and shut up the kingdom of heaven, which is God's word, that the people could not enter in unto the knowledge of the true way, as Christ Matt. xxiu. complaineth in the gospel (Matt, xxiii.) ; then they sat in the hearts of men with their false doctrine in the stead of God and his word, and slew the souls of the people to devour their bodies, and to rob them of their worldly substance. But when Christ and John the Baptist had restored the scripture again unto the true understanding, and had uttered their falsehood, and improved their traditions, and confounded their false interpretations with the clear and evident texts, and with power of the Holy Ghost, and had brought all their juggling and hypocrisy to light ; then they gat them unto the elders of the people, and persuaded them, saying, tire onS^ * T^s man is surely of the devil ; and his miracles be of the newi'l^- devil, no doubt. And these good works which he doth in pope and ms healing the people, yea, and his preaching against our covetousness, are but a cloak to bring him unto his purpose ; that, when he hath gotten him disciples enough, he may rise against the emperor and make himself king. And then shall the Romans come, and take our land from us, and carry away our people, and put other nations in our realm : and so shall we lose all that we have, and the most part of us our lives thereto. Take heed, therefore, betimes, while there is remedy, ere he go so far that ye be not able to resist him.' WOTidiy preThe elders of the people, which were rich and wealthy, cbUMi^. though before they in a manner favoured Christ, or at the
 

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 79. Letter LXXVIIL. To the University of Prague
-
-LETTER LXXVIIL TO THE UNIVERSITY OF PRAGUE
 
 ( June 27, 1415)
 

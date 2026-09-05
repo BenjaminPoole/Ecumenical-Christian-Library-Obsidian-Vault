@@ -9,7 +9,6 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # Minutes of Some Late Conversations (The Large Minutes)
 
 Conversation the First.
@@ -620,7 +619,7 @@ They cannot die in this state. They must go backward or forward. If they continu
 
 Conversation the Fifth.
 
-WEDNESDAY, 17.
+## Wednesday, 17
 
 Q.* 1. HOW much is allowed by our brethren who differ from us, with regard to entire sanctification?
 

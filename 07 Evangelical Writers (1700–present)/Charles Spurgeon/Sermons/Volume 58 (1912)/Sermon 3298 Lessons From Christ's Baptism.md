@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Lessons From Christ's Baptism
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3298
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus, when He was baptized, went up immediately out of the water: and, lo, the heavens were opened unto Him, and He saw the Spirit God descending like a dove, and lighting upon Him: and lo, a Voice from Heaven, saying, This is My Beloved Son, in whom I am well-pleased." Matthew 3:16,17.
 
@@ -131,7 +128,7 @@ And stand and bow among them there,
 
 And view Your face, and sing, and love?" May the Lord bless everyone of you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 6.
+## Exposition by C. H. Spurgeon: Romans 6
 
 Verse 1. What shall we say then? Shall we continue in sin, that Grace may abound?\f the sinfulness of man has really given an opportunity for the display of Divine Mercy, then the devil's logic would be, "Let us commit more sin, that there may be more room for Grace to work!" But Christians have learned their reasoning in another school—and to such diabolical arguments they answer in the words of the Apostle —
 
@@ -170,7 +167,6 @@ you became the servants of righteousness. [See Sermon #1482, Volume 25—OUR CHA
 19, 20. I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness. For when you were the servant of sin, you were free from righteousness. You disdained the silken bonds of pie-ty—you said that you would never wear what you called the iron fetters of Grace! You were "Free from righteousness." So, surely, now that you are the servants of righteousness, you should seek to be free from sin!
 
 21-23. What fruit had you then in those things whereof you are now ashamed? For the end of those things is death. But now being made free from sin, and become servants to God, you have your fruit unto holiness, and the end everlasting life. For the wages of sin is death; but the gift of Godis eternal life through Jesus Christ our Lord [See Sermon #1868, Volume 31—DEATH AND LIFE—THE WAGE AND THE GIFT.]
-
 
 ---
 [[Sermon 3297 David and His Volunteers|← #3297]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3299 Ho! Ho!|#3299 →]]

@@ -11,7 +11,6 @@ tags:
   - classical
   - thucydides
 ---
-
 # The History of the Peloponnesian War
 *trans. Richard Crawley*
 
@@ -19,12 +18,9 @@ tags:
 
 ---
 
-THE HISTORY OF THE PELOPONNESIAN WAR
-
 By Thucydides 431 BC
 
  Translated by Richard Crawley 
-
 
 With Permission
 to
@@ -36,66 +32,8 @@ is Respectfully Inscribed
 by
 —The Translator—
 
-
-CONTENTS
-
- BOOK I
- CHAPTER I
- CHAPTER II
- CHAPTER III
- CHAPTER IV
- CHAPTER V
- 
- BOOK II
- CHAPTER VI
- CHAPTER VII
- CHAPTER VIII
- 
- BOOK III
- CHAPTER IX
- CHAPTER X
- CHAPTER XI
- 
- BOOK IV
- CHAPTER XII
- CHAPTER XIII
- CHAPTER XIV
- 
- BOOK V
- CHAPTER XV
- CHAPTER XVI
- CHAPTER XVII
- 
- BOOK VI
- CHAPTER XVIII
- CHAPTER XIX
- CHAPTER XX
- 
- BOOK VII
- CHAPTER XXI
- CHAPTER XXII
- CHAPTER XXIII
- 
- BOOK VIII
- CHAPTER XXIV
- CHAPTER XXV
- CHAPTER XXVI
-
-
-
-
-
-BOOK I
-
-
-
-
-CHAPTER I
-
-
 The State of Greece from the earliest Times to the Commencement of the
 Peloponnesian War
-
 
 Thucydides, an Athenian, wrote the history of the war between the
 Peloponnesians and the Athenians, beginning at the moment that it broke
@@ -273,7 +211,6 @@ deemed sufficient. Besides, in his account of the transmission of the
 sceptre, he calls him
 
 Of many an isle, and of all Argos king.
-
 
 Now Agamemnon’s was a continental power; and he could not have been
 master of any except the adjacent islands (and these would not be
@@ -556,14 +493,9 @@ the alarm which this inspired in Lacedaemon, made war inevitable. Still
 it is well to give the grounds alleged by either side which led to the
 dissolution of the treaty and the breaking out of the war.
 
-
-
-
-CHAPTER II
-
+## Chapter II
 
 Causes of the War—The Affair of Epidamnus—The Affair of Potidæa
-
 
 The city of Epidamnus stands on the right of the entrance of the Ionic
 Gulf. Its vicinity is inhabited by the Taulantians, an Illyrian people.
@@ -1335,14 +1267,9 @@ investment of Potidæa, Phormio next employed his sixteen hundred men in
 ravaging Chalcidice and Bottica: some of the towns also were taken by
 him.
 
-
-
-
-CHAPTER III
-
+## Chapter III
 
 Congress of the Peloponnesian Confederacy at Lacedaemon
-
 
 The Athenians and Peloponnesians had these antecedent grounds of
 complaint against each other: the complaint of Corinth was that her
@@ -1822,15 +1749,10 @@ war must be declared, not so much because they were persuaded by the
 arguments of the allies, as because they feared the growth of the power
 of the Athenians, seeing most of Hellas already subject to them.
 
-
-
-
-CHAPTER IV
-
+## Chapter IV
 
 From the end of the Persian to the beginning of the Peloponnesian
 War—The Progress from Supremacy to Empire
-
 
 The way in which Athens came to be placed in the circumstances under
 which her power grew was this. After the Medes had returned from
@@ -2337,15 +2259,10 @@ gave hostages, delivered up their ships, and arranged to pay the
 expenses of the war by instalments. The Byzantines also agreed to be
 subject as before.
 
-
-
-
-CHAPTER V
-
+## Chapter V
 
 Second Congress at Lacedaemon—Preparations for War and Diplomatic
 Skirmishes—Cylon—Pausanias—Themistocles
-
 
 After this, though not many years later, we at length come to what has
 been already related, the affairs of Corcyra and Potidæa, and the
@@ -2660,7 +2577,6 @@ first-fruits of the spoil of the Medes, the following couplet:
 
 The Mede defeated, great Pausanias raised
 This monument, that Phœbus might be praised.
-
 
 At the time the Lacedaemonians had at once erased the couplet, and
 inscribed the names of the cities that had aided in the overthrow of
@@ -3020,20 +2936,12 @@ communication. It was carried on without heralds, but not without
 suspicion, as events were occurring which were equivalent to a breach
 of the treaty and matter for war.
 
+## Book II
 
-
-
-BOOK II
-
-
-
-
-CHAPTER VI
-
+## Chapter VI
 
 Beginning of the Peloponnesian War—First Invasion of Attica—Funeral
 Oration of Pericles
-
 
 The war between the Athenians and Peloponnesians and the allies on
 either side now really begins. For now all intercourse except through
@@ -3961,15 +3869,10 @@ found the best citizens.
 “And now that you have brought to a close your lamentations for your
 relatives, you may depart.”
 
-
-
-
-CHAPTER VII
-
+## Chapter VII
 
 Second Year of the War—The Plague of Athens—Position and Policy of
 Pericles—Fall of Potidæa
-
 
 Such was the funeral that took place during this winter, with which the
 first year of the war came to an end. In the first days of summer the
@@ -4124,7 +4027,6 @@ naturally, the following verse which the old men said had long ago been
 uttered:
 
 A Dorian war shall come and with it death.
-
 
 So a dispute arose as to whether dearth and not death had not been the
 word in the verse; but at the present juncture, it was of course
@@ -4504,15 +4406,10 @@ settlers of their own to Potidæa, and colonized it. Such were the
 events of the winter, and so ended the second year of this war of which
 Thucydides was the historian.
 
-
-
-
-CHAPTER VIII
-
+## Chapter VIII
 
 Third Year of the War—Investment of Plataea—Naval Victories of
 Phormio—Thracian Irruption into Macedonia under Sitalces
-
 
 The next summer the Peloponnesians and their allies, instead of
 invading Attica, marched against Plataea, under the command of
@@ -5300,19 +5197,11 @@ late actions as were freemen; who were exchanged, man for man. And so
 ended this winter, and the third year of this war, of which Thucydides
 was the historian.
 
+## Book III
 
-
-
-BOOK III
-
-
-
-
-CHAPTER IX
-
+## Chapter IX
 
 Fourth and Fifth Years of the War—Revolt of Mitylene
-
 
 The next summer, just as the corn was getting ripe, the Peloponnesians
 and their allies invaded Attica under the command of Archidamus, son of
@@ -6254,15 +6143,10 @@ continent belonging to the Mitylenians, which thus became for the
 future subject to Athens. Such were the events that took place at
 Lesbos.
 
-
-
-
-CHAPTER X
-
+## Chapter X
 
 Fifth Year of the War—Trial and Execution of the Plataeans— Corcyraean
 Revolution
-
 
 During the same summer, after the reduction of Lesbos, the Athenians
 under Nicias, son of Niceratus, made an expedition against the island
@@ -6982,15 +6866,10 @@ Peloponnese and to test the possibility of bringing Sicily into
 subjection. Accordingly they established themselves at Rhegium in
 Italy, and from thence carried on the war in concert with their allies.
 
-
-
-
-CHAPTER XI
-
+## Chapter XI
 
 Year of the War—Campaigns of Demosthenes in Western Greece—Ruin of
 Ambracia
-
 
 Summer was now over. The winter following, the plague a second time
 attacked the Athenians; for although it had never entirely left them,
@@ -7318,7 +7197,6 @@ With wife and child to keep thy holiday,
 Invoke thy favour on each manly game,
 And dance and sing in honour of thy name.
 
-
 That there was also a poetical contest in which the Ionians went to
 contend, again is shown by the following, taken from the same hymn.
 After celebrating the Delian dance of the women, he ends his song of
@@ -7332,7 +7210,6 @@ Touch at your shores, and ask your maidens here
 Who sings the songs the sweetest to your ear,
 Think of me then, and answer with a smile,
 ‘A blind old man of Scio’s rocky isle.’
-
 
 Homer thus attests that there was anciently a great assembly and
 festival at Delos. In later times, although the islanders and the
@@ -7571,20 +7448,12 @@ been three in all since the Hellenes have inhabited Sicily. Such were
 the events of this winter; and with it ended the sixth year of this
 war, of which Thucydides was the historian.
 
+## Book IV
 
-
-
-BOOK IV
-
-
-
-
-CHAPTER XII
-
+## Chapter XII
 
 Seventh Year of the War—Occupation of Pylos—Surrender of the Spartan
 Army in Sphacteria
-
 
 Next summer, about the time of the corn’s coming into ear, ten
 Syracusan and as many Locrian vessels sailed to Messina, in Sicily, and
@@ -8409,15 +8278,10 @@ Athenians, however, kept grasping at more, and dismissed envoy after
 envoy without their having effected anything. Such was the history of
 the affair of Pylos.
 
-
-
-
-CHAPTER XIII
-
+## Chapter XIII
 
 Seventh and Eighth Years of the War—End of Corcyraean Revolution— Peace
 of Gela—Capture of Nisaea
-
 
 The same summer, directly after these events, the Athenians made an
 expedition against the territory of Corinth with eighty ships and two
@@ -9038,15 +8902,10 @@ be given openly, had them condemned and executed, and established a
 close oligarchy in the town—a revolution which lasted a very long
 while, although effected by a very few partisans.
 
-
-
-
-CHAPTER XIV
-
+## Chapter XIV
 
 Eighth and Ninth Years of the War—Invasion of Boeotia—Fall of
 Amphipolis—Brilliant Successes of Brasidas
-
 
 The same summer the Mitylenians were about to fortify Antandrus, as
 they had intended, when Demodocus and Aristides, the commanders of the
@@ -10259,19 +10118,11 @@ up, he quickly led off his troops, without waiting until it was day. So
 ended the winter and the ninth year of this war of which Thucydides is
 the historian.
 
+## Book V
 
-
-
-BOOK V
-
-
-
-
-CHAPTER XV
-
+## Chapter XV
 
 Tenth Year of the War—Death of Cleon and Brasidas—Peace of Nicias
-
 
 The next summer the truce for a year ended, after lasting until the
 Pythian games. During the armistice the Athenians expelled the Delians
@@ -10789,15 +10640,10 @@ gave back the men from the island to the Lacedaemonians, and the summer
 of the eleventh year began. This completes the history of the first
 war, which occupied the whole of the ten years previously.
 
-
-
-
-CHAPTER XVI
-
+## Chapter XVI
 
 Feeling against Sparta in Peloponnese—League of the Mantineans, Eleans,
 Argives, and Athenians—Battle of Mantinea and breaking up of the League
-
 
 After the treaty and the alliance between the Lacedaemonians and
 Athenians, concluded after the ten years’ war, in the ephorate of
@@ -12048,14 +11894,9 @@ Nicias, son of Niceratus, which had to be broken up mainly because of
 his desertion. He was therefore proclaimed an enemy. And thus the
 winter ended, and the fifteenth year of the war ended with it.
 
-
-
-
-CHAPTER XVII
-
+## Chapter XVII
 
 Sixteenth Year of the War—The Melian Conference—Fate of Melos
-
 
 The next summer Alcibiades sailed with twenty ships to Argos and seized
 the suspected persons still left of the Lacedaemonian faction to the
@@ -12351,20 +12192,12 @@ discretion to the Athenians, who put to death all the grown men whom
 they took, and sold the women and children for slaves, and subsequently
 sent out five hundred colonists and inhabited the place themselves.
 
+## Book VI
 
-
-
-BOOK VI
-
-
-
-
-CHAPTER XVIII
-
+## Chapter XVIII
 
 Seventeenth Year of the War—The Sicilian Campaign—Affair of the
 Hermae—Departure of the Expedition
-
 
 The same winter the Athenians resolved to sail again to Sicily, with a
 greater armament than that under Laches and Eurymedon, and, if
@@ -13038,15 +12871,10 @@ out in column then raced each other as far as Aegina, and so hastened
 to reach Corcyra, where the rest of the allied forces were also
 assembling.
 
-
-
-
-CHAPTER XIX
-
+## Chapter XIX
 
 Seventeenth Year of the War—Parties at Syracuse—Story of Harmodius and
 Aristogiton—Disgrace of Alcibiades
-
 
 Meanwhile at Syracuse news came in from many quarters of the
 expedition, but for a long while met with no credence whatever. Indeed,
@@ -13655,15 +13483,10 @@ outlaw, crossed in a boat not long after from Thurii to Peloponnese;
 and the Athenians passed sentence of death by default upon him and
 those in his company.
 
-
-
-
-CHAPTER XX
-
+## Chapter XX
 
 Seventeenth and Eighteenth Years of the War—Inaction of the Athenian
 Army—Alcibiades at Sparta—Investment of Syracuse
-
 
 The Athenian generals left in Sicily now divided the armament into two
 parts, and, each taking one by lot, sailed with the whole for Selinus
@@ -14596,20 +14419,12 @@ with their fleet, and the Lacedaemonians also, the Argives made an
 incursion into the Phlisaid, and returned home after ravaging their
 land and killing some of the inhabitants.
 
+## Book VII
 
-
-
-BOOK VII
-
-
-
-
-CHAPTER XXI
-
+## Chapter XXI
 
 Eighteenth and Nineteenth Years of the War—Arrival of Gylippus at
 Syracuse—Fortification of Decelea—Successes of the Syracusans
-
 
 After refitting their ships, Gylippus and Pythen coasted along from
 Tarentum to Epizephyrian Locris. They now received the more correct
@@ -15461,15 +15276,10 @@ trophies for both the engagements, being now confident of having a
 decided superiority by sea, and by no means despairing of equal success
 by land.
 
-
-
-
-CHAPTER XXII
-
+## Chapter XXII
 
 Nineteenth Year of the War—Arrival of Demosthenes—Defeat of the
 Athenians at Epipolae—Folly and Obstinancy of Nicias
-
 
 In the meantime, while the Syracusans were preparing for a second
 attack upon both elements, Demosthenes and Eurymedon arrived with the
@@ -15686,15 +15496,10 @@ Eurymedon agreed. Nicias however still objecting, a certain diffidence
 and hesitation came over them, with a suspicion that Nicias might have
 some further information to make him so positive.
 
-
-
-
-CHAPTER XXIII
-
+## Chapter XXIII
 
 Nineteenth Year of the War—Battles in the Great Harbour—Retreat and
 Annihilation of the Athenian Army
-
 
 While the Athenians lingered on in this way without moving from where
 they were, Gylippus and Sicanus now arrived at Syracuse. Sicanus had
@@ -16555,20 +16360,12 @@ as the saying is, with a total destruction, their fleet, their army,
 everything was destroyed, and few out of many returned home. Such were
 the events in Sicily.
 
+## Book VIII
 
-
-
-BOOK VIII
-
-
-
-
-CHAPTER XXIV
-
+## Chapter XXIV
 
 Nineteenth and Twentieth Years of the War—Revolt of Ionia— Intervention
 of Persia—The War in Ionia
-
 
 When the news was brought to Athens, for a long while they disbelieved
 even the most respectable of the soldiers who had themselves escaped
@@ -17374,16 +17171,11 @@ those existing and did not want any of his pay upon such conditions.
 This offended Tissaphernes so much that he went away in a rage without
 settling anything.
 
-
-
-
-CHAPTER XXV
-
+## Chapter XXV
 
 Twentieth and Twenty-first Years of the War—Intrigues of
 Alcibiades—Withdrawal of the Persian Subsidies—Oligarchical Coup d’Etat
 at Athens—Patriotism of the Army at Samos
-
 
 The Peloponnesians now determined to sail to Rhodes, upon the
 invitation of some of the principal men there, hoping to gain an island
@@ -18128,15 +17920,10 @@ in their turn sailed against Miletus with a hundred and eight ships,
 wishing to fight a decisive battle, but, as no one put out to meet
 them, sailed back to Samos.
 
-
-
-
-CHAPTER XXVI
-
+## Chapter XXVI
 
 Twenty-first Year of the War—Recall of Alcibiades to Samos—Revolt of
 Euboea and Downfall of the Four Hundred—Battle of Cynossema
-
 
 In the same summer, immediately after this, the Peloponnesians having
 refused to fight with their fleet united, through not thinking
@@ -18821,7 +18608,7 @@ Artemis....
 [When the winter after this summer is over the twenty-first year of
 this war will be completed. ]
 
-THE END
+## The End
 
 ---
 

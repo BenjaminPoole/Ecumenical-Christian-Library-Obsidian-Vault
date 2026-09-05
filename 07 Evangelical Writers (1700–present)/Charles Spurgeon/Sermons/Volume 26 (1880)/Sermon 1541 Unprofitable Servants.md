@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Unprofitable Servants
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1541
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 6, 1880,.
+*Delivered on Lord's-Day Morning, June 6, 1880*
 
 > "And cast you the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth." Matthew 25:30.
 
@@ -146,7 +145,6 @@ I pray God's servants here, who, this morning first began with searching themsel
 I hear persons speak against salvation by good works who are in no danger of falling into that error, since good works and their lives have long parted company. What I do admire is to see a man like Paul who lived for Jesus and was ready to die for Him, yet saying, at the close of his life, "But what things were gain to me, those I counted loss for Christ. Yes, doubtless and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things and do count them but dung, that I may win Christ and be found in Him, not having my own righteousness, which is of the Law, but that which is through the faith of Christ, the righteousness which is of God by faith."
 
 Go on, Brothers and Sisters, and think not of resting till your day's work is done. Serve God with all your might! Do more than the Pharisees who hope to be saved by their zeal. Do more than your brethren expect of you and then, when you have done all, lay it at your Redeemer's feet with this confession, "I am an unprofitable servant." It is to those who blend faithfulness with humility and ardor with self-abasement that Jesus will say, "Well done, good and faithful servant: enter you into the joy of your Lord."
-
 
 ---
 [[Sermon 1540 The Mediator—Judge And Savior|← #1540]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1542 Free Grace a Motive for Free Giving|#1542 →]]

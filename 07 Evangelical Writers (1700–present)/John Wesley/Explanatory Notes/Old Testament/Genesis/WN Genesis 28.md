@@ -11,12 +11,9 @@ tags:
   - wesley
   - wesley-notes
 ---
-
 # Genesis 28
 
 **28:1** Isaac blessed him, and charged him - Those that have the blessing must keep the charge annexed to it, and not think to separate what God has joined.
-
-**28:3-4** Two great promises Abraham was blessed with, and Isaac here entails them both upon Jacob. The promise of heirs, God make thee fruitful and multiply thee. Through his loins that people should descend from Abraham which should be numerous as the stars of heaven. Through his loins should descend from Abraham that person in whom all the families of the earth should be blessed. The promise of an inheritance for those heirs, Ge 28:4. That thou mayest inherit the land of thy sojournings - (So the Hebrew) Canaan was hereby entailed upon the seed of Jacob, exclusive of the seed of Esau. Isaac was now sending Jacob away into a distant country to settle there for some time; and lest this should look like disinheriting him, he here confirms the settlement of it upon him. This promise looks as high as heaven, of which Canaan was a type. That was the better country which Jacob, with the other patriarchs, had in his eye when he confessed himself a stranger and pilgrim on the earth, Heb 11:16.
 
 **28:3-4** Two great promises Abraham was blessed with, and Isaac here entails them both upon Jacob. The promise of heirs, God make thee fruitful and multiply thee. Through his loins that people should descend from Abraham which should be numerous as the stars of heaven. Through his loins should descend from Abraham that person in whom all the families of the earth should be blessed. The promise of an inheritance for those heirs, Ge 28:4. That thou mayest inherit the land of thy sojournings - (So the Hebrew) Canaan was hereby entailed upon the seed of Jacob, exclusive of the seed of Esau. Isaac was now sending Jacob away into a distant country to settle there for some time; and lest this should look like disinheriting him, he here confirms the settlement of it upon him. This promise looks as high as heaven, of which Canaan was a type. That was the better country which Jacob, with the other patriarchs, had in his eye when he confessed himself a stranger and pilgrim on the earth, Heb 11:16.
 

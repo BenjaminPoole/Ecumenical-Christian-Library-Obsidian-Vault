@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 22. Injunctions to the Dean and Chapter of Canterbury, 1550
 
-INJUNCTIONS
+*Injunctions*
 
 DEAN AND CHAPTER OF CANTERBURY, 1550s.
 
@@ -31,7 +30,7 @@ P See the preceding Articles, No. 26, and Letter to Crumwell, 29 Nov. 1539. Jenk
 
 [3 " It is clear from hence, that besides Edw. VI.'s Injunctions Cranmer had issued some of his own. Articles of Inquiry at his Visitation, 1548, are printed by Sparrow and Wilkins, and will be found above, p. 154 ; but neither of these collectors makes any mention of his Injunctions." Jenkyns-l
 
-162 INJUNCTIONS TO THE DEAN AND CHAPTER OF CANTERBURY.
+## 162 Injunctions to the Dean and Chapter of Canterbury
 
 Item, That every prebendary of the said church shall preach, or cause to be preached, two sermons at the least yearly in the parish churches appropriated to the said church, being within my said diocese of Canterbury.
 

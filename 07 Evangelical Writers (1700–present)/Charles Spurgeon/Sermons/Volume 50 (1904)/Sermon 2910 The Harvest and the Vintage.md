@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Harvest and the Vintage
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2910
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I looked, and behold a white cloud, and upon the cloud One sat like unto the Son of Man, having on His head a golden crown, and in His hand a sharp sickle. And another angel came out of the temple, crying with a loud voice to Him that sat on the cloud, Thrust in Your sickle, and reap: for the time is come for You to reap; for the harvest of the earth is ripe. And He that sat on the cloud thrust in His sickle on the earth, and the earth was reaped. And another angel came out of the temple which is in Heaven, he also having a sharp sickle. And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in your sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God and the winepress was trodden outside the city, and blood came out of the winepress even unto the horse bridles, by the space of a thousand and six hundred furlongs." Revelation 14:14-20.
 
@@ -97,7 +94,7 @@ But if you reject Him, do not think it wrong that you should be cast with the gr
 
 God save all of you from ever suffering that doom, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 14.
+## Exposition by C. H. Spurgeon: Revelation 14
 
 Verse 1. And I looked, and, lo, a Lamb stood on the Mount Zion, and with Him an hundred forty and four thousand, having His Father's name written on their foreheads. The great question for us is—shall we be among the number? If we have the Father's name engraved upon our hearts, we may conclude that we shall, one day, have it written on our foreheads, and that we shall be among that chosen company.
 
@@ -118,7 +115,6 @@ Verse 1. And I looked, and, lo, a Lamb stood on the Mount Zion, and with Him an 
 14-18. And I looked, and behold a white cloud, and upon the cloud One sat like unto the Son of Man, having on His head a golden crown, and in His hand a sharp sickle. And another angel came out of the temple, crying with a loud voice to Him that sat on the cloud, Thrust in Your sickle, and reap: for the time is come for You to reap; for the harvest of the earth is ripe. And He that sat on the cloud thrust in His sickle on the earth; and the earth was reaped. And another angel came out of the temple which is in Heaven, he also having a sharp sickle. And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in your sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. After the glad harvest comes the sad vintage. After the gathering in of the righteous, there will be the gathering in of the wicked.
 
 19, 20. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the Wrath of God. And the winepress was trodden outside the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs.
-
 
 ---
 [[Sermon 2909 Job's Sure Knowledge|← #2909]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2911 'Cases of Conscience'|#2911 →]]

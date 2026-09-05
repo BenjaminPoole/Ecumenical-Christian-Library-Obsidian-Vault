@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Good News
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2866
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As cold waters to a thirsty soul, so is good news from a far country." Proverbs 25:25.
 
@@ -132,7 +129,6 @@ good here below and pass, in utter unconsciousness, into the next world. It will
 I cannot help feeling that I am addressing some who know nothing about the good news of which I have been speaking. For their benefit, let me tell you a story I have heard concerning one of our English pilots. A vessel was off the coast of Kent, gently sailing, as the seamen thought, towards their desired haven. A pilot who was watching them, observing the extreme danger in which they were, went at his utmost speed to warn them of their peril. He was hardly aboard before he shouted to the captain, "The Goodwins! The Goodwins!" They were almost on to those fatal sands and they did not know it. At once the course of the vessel was changed and all possible sail was set—and they were saved as by the skin of their teeth!
 
 So, I come to you thoughtless, careless ones, and I cry to you, "Hell lies right ahead of you—eternal destruction from the Presence of the Lord and the glory of His power! Steer your helm hard aport, up with such sail as you have and may God send the breath of His Eternal Spirit to blow you off these breakers which already seem booming with the certainty of your eternal doom!" O God, almighty and ever-merciful, save them by Your Grace! Save them by the precious blood of Jesus, for His dear name's sake! Amen and Amen.
-
 
 ---
 [[Sermon 2865 Fencing the Table|← #2865]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2867 The Life-look|#2867 →]]

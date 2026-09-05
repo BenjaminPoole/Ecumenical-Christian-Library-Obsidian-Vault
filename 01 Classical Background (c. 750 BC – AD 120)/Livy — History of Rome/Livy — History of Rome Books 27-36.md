@@ -11,7 +11,6 @@ tags:
   - classical
   - livy
 ---
-
 # The History of Rome
 *Books 27–36*
 
@@ -19,35 +18,23 @@ tags:
 
 ---
 
-THE
+## The
 
-HISTORY OF ROME.
+## History of Rome
 
-TITUS LIVIUS.
+## Titus Livius
 
-
-
-
-BOOKS TWENTY-SEVEN TO THIRTY-SIX.
-
-LITERALLY TRANSLATED, WITH NOTES AND ILLUSTRATIONS,
+## Books Twenty-Seven to Thirty-Six
 
 BY
 
-CYRUS EDMONDS.
+## Cyrus Edmonds
 
-MDCCCL.
+## MDCCCL
 
+## The History of Rome
 
-
-
-
-THE HISTORY OF ROME.
-
-
-
-
-BOOK XXVII.
+## Book XXVII
 
     _Cneius Fulvius, proconsul, defeated by Hannibal and slain;
     the consul, Claudius Marcellus, engages him with better
@@ -70,7 +57,6 @@ BOOK XXVII.
     Hasdrubal, who had crossed the Alps with a reinforcement for
     Hannibal, defeated by the consuls, Marcus Livius and Claudius
     Nero, and slain; with him fell fifty-six thousand men_.
-
 
 1. Such was the state of affairs in Spain. In Italy, the consul
 Marcellus, after regaining Salapia, which was betrayed into his hands,
@@ -2690,10 +2676,7 @@ into Bruttium the whole state of the Metapontines, summoned away from
 their former habitations, and also such of the Lucanians as were under
 his authority.
 
-
-
-
-BOOK XXVIII.
+## Book XXVIII
 
     _Successful operations against the Carthaginians in Spain,
     under Silanus, Scipio's lieutenant, and L. Scipio, his
@@ -2706,7 +2689,6 @@ BOOK XXVIII.
     Rome, and is elected consul; solicits Africa for his province,
     which is opposed by Quintus Fabius Maximus; is appointed
     governor of Sicily, with permission to pass over into Africa_.
-
 
 1. At the time when Spain appeared to be relieved in proportion to the
 degree in which the weight of the war was removed into Italy, by the
@@ -4342,7 +4324,6 @@ of the gods, not so much to make war upon, for the contest was
 not with an enemy who was upon an equality with them, but to take
 vengeance on the basest of men."
 
-
 33. After this harangue he dismissed them, with orders to get
 themselves in readiness in every respect for marching the next day;
 when, setting out, he arrived at the river Iberus in ten days. Then
@@ -5221,10 +5202,7 @@ of Juno Lacinia, where he erected and dedicated an altar with an
 inscription engraved in Punic and Greek characters, setting forth, in
 pompous terms, the achievements he had performed.
 
-
-
-
-BOOK XXIX.
+## Book XXIX
 
     _In Spain, Mandonius and Indibilis, reviving hostilities,
     are finally subdued. Scipio goes over from Syracuse to Locri;
@@ -5241,7 +5219,6 @@ BOOK XXIX.
     winter. The consul Sempronius gets the better of Hannibal in a
     battle near Croton. Dispute between Marcus Livius and Claudius
     Nero, censors._
-
 
 1. Scipio, after his arrival in Sicily, formed his volunteers into
 cohorts and centuries. Of these he kept about his person three hundred
@@ -7135,10 +7112,7 @@ During two days also the plebeian games were repeated by the aediles,
 Publius Aelius and Publius Villius. There was likewise a feast of
 Jupiter on occasion of the games.
 
-
-
-
-BOOK XXX.
+## Book XXX
 
     _Scipio, aided by Masinissa, defeats the Carthaginians, Syphax
     and Hasdrubal, in several battles. Syphax taken by Laelius and
@@ -7152,7 +7126,6 @@ BOOK XXX.
     which is granted them. Masinissa reinstated in his kingdom.
     Scipio returns to Rome; his splendid triumph; is surnamed
     Africanus_.
-
 
 1. Cneius Servilius and Caius Servilius Geminus, the consuls in
 the sixteenth year of the Punic war, having consulted the senate
@@ -9277,10 +9250,7 @@ in imitation of his example, some, by no means his equals in his
 victories, affixed splendid inscriptions on their statues and gave
 honourable surnames to their families.
 
-
-
-
-BOOK XXXI.
+## Book XXXI
 
     _Renewal of the war with Philip, king of Macedon. Successes
     of Publius Sulpicius, consul, who had the conduct of that war.
@@ -9290,7 +9260,6 @@ BOOK XXXI.
     Hamilcar, who stirred up the insurrection, is slain, with
     thirty-five thousand men. Further operations of Sulpicius,
     Attalus, and the Rhodians against Philip_.
-
 
 1. It is delightful even to me to have come to the end of the Punic war,
 as if I myself had borne a share of the toil and danger. For though
@@ -11240,10 +11209,7 @@ Manlius Acidinus might, after many years, retire from the province;
 the commons ordered Cneius Cornelius Lentulus and Lucius Stertinius,
 proconsuls, to command in Spain.
 
-
-
-
-BOOK XXXII.
+## Book XXXII
 
     _Successes of Titus Quinctius Flamininus against Philip; and
     of his brother Lucius with the fleet, assisted by Attalus
@@ -11252,7 +11218,6 @@ BOOK XXXII.
     of the praetors augmented to six. Defeat of the Insubrian
     Gauls by Cornelius Cethegus. Treaty of friendship with Nabis,
     tyrant of Lacedaemon. Capture of several cities in Macedonia_.
-
 
 1. The consuls and praetors, having entered upon office on the ides
 of March, cast lots for the provinces. Italy fell to Lucius Cornelius
@@ -12913,10 +12878,7 @@ and every article of female attire.
 
 [Footnote 1: 1937l. 10s.]
 
-
-
-
-BOOK XXXIII.
+## Book XXXIII
 
     _Titus Quinctius Flamininus, proconsul, gains a decisive
     victory over Philip at Cynoscephalae. Caius Sempronius
@@ -12927,7 +12889,6 @@ BOOK XXXIII.
     of Marcellus. Hannibal, alarmed at an embassy from Rome
     concerning him, flies to Antiochus, king of Syria, who was
     preparing to make war on the Romans_.
-
 
 1. Such were the occurrences of the winter. In the beginning of
 spring, Quinctius, having summoned Attalus to Elatia, and being
@@ -14766,10 +14727,7 @@ of the senate having referred to Quinctius their ambassadors, who
 demanded Pharsalus and Leucas, and some other cities, in conformity
 with the first treaty.
 
-
-
-
-BOOK XXXIV.
+## Book XXXIV
 
     _The Oppian law, respecting the dress of the women, after much
     debate, repealed, notwithstanding it was strenuously supported
@@ -14786,7 +14744,6 @@ BOOK XXXIV.
     triumphs for three days. Carthaginian ambassadors bring
     intelligence of the hostile designs of Antiochus and
     Hannibal._
-
 
 1. Amid the serious concerns of important wars, either scarcely
 brought to a close or impending, an incident intervened, trivial
@@ -17130,10 +17087,7 @@ business, or the influence which he possessed, and to which he had
 a just claim on both parties, could, with a nod, have ended the
 controversy.
 
-
-
-
-BOOK XXXV.
+## Book XXXV
 
     _Publius Scipio Africanus sent as ambassador to Antiochus; has
     a conversation with Hannibal at Ephesus. Preparations of
@@ -17145,7 +17099,6 @@ BOOK XXXV.
     and, in conjunction with them, takes several towns, and the
     whole island of Euboea. The Achaeans declare war against
     Antiochus and the Aetolians._
-
 
 1. In the beginning of the same year, Sextus Digitius, praetor in the
 Hither Spain, fought with those states which, after the departure of
@@ -19124,10 +19077,7 @@ commencement of the war by an important acquisition, in having brought
 under his power so great an island, and so many cities conveniently
 situated.
 
-
-
-
-BOOK XXXVI.
+## Book XXXVI
 
     _Manius Acilius Glabrio, the consul, aided by king Philip,
     defeats Antiochus at Thermopylae, and drives him out of
@@ -19135,7 +19085,6 @@ BOOK XXXVI.
     Cornelius Scipio Nasica reduces the Boian Gauls to submission.
     Sea-fight between the Roman fleet and that of Antiochus, in
     which the Romans are victorious_.
-
 
 1. Publius Cornelius Scipio, son of Cneius, and Manius Acilius
 Glabrio, the consuls, on their assuming the administration, were
@@ -20888,7 +20837,7 @@ the conclusion of the war with Antiochus. Next day were elected
 praetors, Marcus Tuccius, Lucius Aurunculeius, Cneius Fulvius, Lucius
 Aemilius, Publius Junius, and Caius Atinius Labeo.
 
-END OF VOL. III.
+## End of Vol. III
 
 ---
 

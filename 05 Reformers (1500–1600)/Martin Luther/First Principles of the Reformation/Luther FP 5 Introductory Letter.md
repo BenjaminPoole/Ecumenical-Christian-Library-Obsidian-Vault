@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 5. Introductory Letter
-
-### INTRODUCTORY LETTER.
 
 To the most Reverend Father in Christ and most illustrious Lord, Albert, Archbishop and Primate of the Churches of Magdeburg and Mentz, Marquis of Brandenburg, etc., his lord and pastor in Christ, most gracious and worthy of all fear and reverence—
 

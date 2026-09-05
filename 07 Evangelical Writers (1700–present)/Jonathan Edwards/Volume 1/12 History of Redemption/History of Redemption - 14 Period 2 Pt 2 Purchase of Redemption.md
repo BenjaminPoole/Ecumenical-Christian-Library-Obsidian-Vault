@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-THE PURCHASE OF REDEMPTION
+*The Purchase of Redemption*
 
 Having thus considered Christ’s coming into the world, and his taking on him our nature, to put himself in a capacity for the purchase of redemption, I come now to show what is intended by the *purchase* of redemption to make some general *observations* concerning those things by which this purchase was made—and then to consider those things more particularly which Christ did and suffered, by which that purchase was made.
 

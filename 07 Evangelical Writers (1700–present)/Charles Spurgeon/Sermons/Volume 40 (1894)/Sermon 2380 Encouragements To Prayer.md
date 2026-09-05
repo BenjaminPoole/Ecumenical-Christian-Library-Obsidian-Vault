@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Encouragements To Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2380
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the LORD your God, which brought you out of the land of Egypt: open your mouth wide, and I will fill it." Psalm 81:10.
 
@@ -156,7 +153,6 @@ Verse 1. Sing aloud unto God our strength. Yes, the strength which the Lord give
 16\. And with honey out of the rock should I have satisfied you. You know what this "honey out of the rock" is. You have tasted it and in days gone by you have feasted on it! Perhaps you have not had much of it of late. If so, remember why this is. God will give His children bread, but He will not give them honey unless they live very near to Him—you shall have the necessaries of life, but not luxuries. The high and heavenly joys of the Divine Life shall be denied you if you work at a distance from your God. But if you stay close to Him, you shall have the finest of the wheat, and you shall be satisfied with honey out of the rock.
 
 May the Lord bless the reading of His Word to us, and may He draw us nearer to Himself! Amen.
-
 
 ---
 [[Sermon 2379 A Discourse to the Despairing|← #2379]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2381 I Would, But You Would Not|#2381 →]]

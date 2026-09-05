@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Migratory Birds
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2858
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yes, the stork in the heavens knows her appointed times, and the turtledove and crane and the swallow observe the time of their coming, but My people know not the judgment of the Lord." Jeremiah 8:7.
 
@@ -59,7 +56,7 @@ It is very sad that seasons like these, of which I have been speaking, are often
 
 II. But, next, it is very remarkable—indeed, it is one of the wonders of Nature that THEY KNOW WHERE TO
 
-GO.
+## Go
 
 Many of them—those newly-hatched birds—have never seen the land towards which they speed. Yet they go there and go to the very place where their parents went before them! They have never seen that sunny shore, yet onward they fly towards it, straight to the mark as if they were arrows shot from a bow! They have no swift-winged messenger to proc-
 
@@ -93,7 +90,7 @@ They look after their own interests in everything except the greatest and most i
 
 "Why will you die?" Why will you be lost to all eternity? You must live forever, for you are immortal! God has made you so and He will never let your soul die. Then, will you deliberately choose to make that endless life of yours to be forever wretched, forever without hope? You do not mean to do so! I cannot think that you are so insane as that! You desire to have peace here and hereafter? Then seek the Savior this very hour! None are as happy as true Believers in the Lord Jesus Christ. Would you have joy forever? Then trust in Him! But if you do not, no joy can ever be yours. The inexorable decree of God concerning Heaven is, "There shall in no wise enter into it anything that defiles, neither whatever works abomination, or makes a lie: but they which are written in the Lamb's Book of Life." Therefore, if your names are not in that Book—that is to say, if you believe not in Jesus Christ as your Savior, if you are not trusting in the blood of the Lamb—you will go to that dread place where hope can never dawn—but where the midnight despair shall darken over the lost souls that will be imprisoned there forever and forevermore!
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 8,9:1.
+## Exposition by C. H. Spurgeon: Jeremiah 8,9:1
 
 Jeremiah 8:1. At that time, says the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the Prophets, and the bones of the inhabitants of Jerusalem, out of their graves. The Prophet Jeremiah had to foretell terrible judgments upon the guilty people who had been often warned, but who had, at last, gone beyond all bearing and were about to be destroyed by the Chaldeans. Here we have the picture of Judah and Jerusalem invaded by the Chaldeans and Babylonians, just before the city was utterly destroyed. It was a very common practice to bury treasure with the bodies of kings, hence when any land was invaded by foreign foes, they broke open the tombs and searched for hidden valuables and it was a sign of the special detestation of the enemy, and of their fury against the people when they dragged the carcasses out of the graves and scattered the bones to the four winds of Heaven. In this case, it was foretold that this desecration would not only take place with regard to the bones of the kings, in whose tombs the greatest treasure might be expected to be found, but the bones of princes, priests, Prophets and people were all to be alike brought forth!
 
@@ -130,7 +127,6 @@ the gifts would be taken away from them. Now the people dwelling in the country 
 22\. Is there no balm in Gilead; is there no physician there? Why then is not the health of the daughter of my people recovered?
 
 Jeremiah 9:1. Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people! Matthew Henry well observes that, in the Hebrew, the same word signifies, "eye," and, "fountain," as if God had as much given us eyes to weep with as to see with, as if there were as much cause to sorrow over sin as to look out upon the beauties of the world. Magnificent in its poetry and most touching in its pathos is this verse which ought never to have been cut off from the previous chapter—"Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!"
-
 
 ---
 [[Sermon 2857 God's Goodness Leading to Repentance|← #2857]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2859 The Lions' Den|#2859 →]]

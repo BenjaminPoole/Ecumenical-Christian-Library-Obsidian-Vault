@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 20
 
 V. 1. abyss. He recapitulates from the beginning, and more fully, in what way he had said above, " The beast which thou sawest was, and is not; and is to ascend from the abyss, and will go into perdition ^." The Lord, therefore, endued with His Father's power, descends and is incarnate, to wage war with the prince of the world, and when he is bound to spoil his goods.
@@ -22,8 +20,6 @@ bound hirrif That is, he kept back and restrained his power from seducing men wh
 3. cast. He cast him, that is, into the hearts of the persecuting people. Not that the devil was not there before; when he was sent forth from believers, he began to possess the ungodly, who are not only alien-
 
 Ch. xvil 8.
-
-136 Explanation of the Apocalypse, [bk. hi.
 
 ated from God, but who hate more grievously those who serve God. And this the Lord openly shewed, when He sent him forth from men into the swine.
 
@@ -53,8 +49,6 @@ saints. Another version^ has "priests of God and of Christ," and it is not said 
 
 Ezek. xvui. 20. • So Gr., Vulg.
 
-138 Explanation of the Apocalypse, [bk. iiu
-
 and of presbyters, who properly are called " priests " in the Church. But as we are all called Christs because of the mystical chrism^ so are we all called priests, because we are members of the one Priest, of Whom the Apostle Peter says, "a holy people, a royal priesthood*.*'
 
 reign. The Spirit when He wrote this, declared that the Church would reign a thousand years, that is, unto the end of the world; and a doubt might arise from this. For that it is concerning a perpetual kingdom is manifest.
@@ -77,8 +71,6 @@ with at. The writer of the Article "Magog," in Smith's BUfie Dictionary, while a
 
 * Gen. i. 8.
 
-I40 Ec^lanoHan qfthe Apocalypse, [bk. hi.
-
 1(X cast lliat is, at the last judgment the devil will be cast iiito eternal firey where also are all those whom he sent before him, that is, the greatest part of the ungodly city, inasmuch as the beast is to be taken according to the place, sometimes as the devil, sometimes as Antichrist, sometimes as the ungodly city itselC But under the name of ''fire coming down from heaven," may also be designated the sudden destruction of the ungodly, when the Lord at His coming will slay Antichrist with the breath of His mouth. He explains more fiilly how, when Christ is Judge, the devil with his own is cast into the fire.
 
 11. throne. He said that he ''saw Him sitting on the throne, from Whose sight the heaven and the earth fled away." For after the judgment is ended, the heaven and the earth cease to be, when there begin to be a new heaven and a new earth; that is, by the change of the things that are, and not by any means by their destruction. For "the fashion of this world passeth away®." He said not also the substance, in that we believe that the same is to be changed for the better.
@@ -98,8 +90,6 @@ written. That is to say, they were judged out of the Testaments, namely, accordi
 14. death and Hades. So he signifies that the bodies are to be gathered from the earth, and the souls firom their own places. For by the name of " death" he designates good souls, which have only suffered the dissolution of the flesh, and not punishment too; and by the term Hades, bad. And it may also be taken literally, that all the bodies, even those which the deep has swallowed, or the wild beast has devoured, will rise again. And Tichonius expounds it thus: ** The people which he will here find alive are the dead of th6ses^ ^ And death and Hades gave up their dead.' These are the people which are buried. But when he
 
 4 Sq St Gregory, in Morals on tke Book ofjob^ bk. xxiv. ch. 16, says, ''And the dead were judged out of those things which are written in the Books; because in the conduct of me righteous which is set forth, they read as in an open book the good which they refused to do themselves, and are condemned on compapspn with those who did it" Ox£ Tr., vol. Ui. p. 61.
-
-142 Explanatum of the Apocalypse, [bk. ni.
 
 haxi said, that * they were judged, every one according to works,* he briefly subjoined, that '* both death and Hades were cast into the lake of fire/ He means the devil and his own, whom Hades followed above ', as he sat on the pale horse. So he repeats what he had already said more plainly by anticipation, 'And the devil who seduced them, was cast into the lake of fire and brimstone.' But that which he had added above ^ more obscurely concerning the beast and the false prophet, he here more openly sets forth. 15. found written. That is, who was not judged by God to be alive. And so they appear to me to speak more correctly, who interpret the opened books above to be the consciences and works of each one; and the book of life the fore4Lnowledge of God, which cannot be deceived, concerning those to whom eternal life will be given, in which they are written, that is, fweknown. As the judgment is ended in which he saw the bad to be condemned, it remains that he also speak concerning the good.
 

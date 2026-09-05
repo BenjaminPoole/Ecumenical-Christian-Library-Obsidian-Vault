@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # A Delusion Dispelled
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1651
-
-DELIVERED BY.
 
 > "Though Noah, Daniel and Job were in it, as I live, says the Lord God, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness." Ezekiel 14:20.
 
@@ -124,7 +121,6 @@ Now, believe me, though I always preach free, rich, Sovereign Grace with all my 
 Do you believe this, dear Friends? It may be that out of this large congregation there are only a few to whom these statements are particularly appropriate, but I thought that I would leave the 99 sheep in the wilderness—there are plenty of sweet grasses for you in the quiet places of the Word of God—and I would go after some that have gone astray in this direction, for I long to find you. Oh that the blessed Spirit would convince you of your sin and lead you to say, "I have played the fool. I have been trusting to a privilege which I ought to have used for another purpose. Now, I will seek God and I will yield to the blessed Gospel and put my trust in Jesus." Remember, there is a righteousness which you can have—the righteousness of Jesus Christ which can cover you. Though Noah and Daniel and Job cannot deliver you, Jesus can!
 
 There is an intercession that can be heard for you—the intercession of One that lives and was dead—and now makes intercession for men and is able to save them to the uttermost that come unto God by Him. Come unto God by Him and His intercession is yours and shall be your health! And His righteousness is yours and shall be your covering! God grant it for the dear Redeemer's sake. Amen and amen.
-
 
 ---
 [[Sermon 1650 God's Fatherly Pity|← #1650]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1652 The Singing Pilgrim|#1652 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 71. Matthew 8:5-13;Luke 7:1-10
-
-**MATTHEW 8:5-13; LUKE 7:1-10**
 
 **5**. And when Jesus had entered into Capernaum, a centurion came to him, beseeching him, **6**. And saying, Lord, my servant is lying at home afflicted with palsy, and is grievously tormented. **7**. And Jesus saith to him, When I shall come, I will heal him. **8**. And the centurion answering him said, Lord, I do not deserve that thou shouldst come under my roof: but only say the word, and my servant will be healed. **9**. For I am a man subject to the power of another, and I have soldiers under me: and I say to this man, Go, and he goeth: and to another, Come, and he cometh: and to my servant, Do this, and he doeth it. **10**. And when Jesus had heard these things, he wondered, and said to those who followed, Verily I say to you, not even in Israel have I found so great faith. **11**. And I say to you, That many will come from the east and west, and will sit down with Abraham, Isaac, and Jacob, in the kingdom of heaven: **12**. But the children of the kingdom shall be cast into the darkness that is without: weeping and gnashing of teeth will be there. **13**. And Jesus said to the centurion, Go, and as thou believest, so may it be done to thee: and his servant was healed in that hour. [^1]
 

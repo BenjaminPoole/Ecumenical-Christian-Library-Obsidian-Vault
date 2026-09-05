@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 38. Decade 3, Sermon 10, Part 1
 
 WE have lastly now to discourse of sin, which, as I told you, is to be referred to the treatise of the law. Of which that I may lawfully, religiously, rightly, and profitably speak to the edifying of you all, I shall desire you to make your humble prayers with me to God the Father, in the name of Christ his Son, our gracious Lord and Mediator1. The name of Sin is of most men taken for error ; for that, I mean, u^)iTitere whereby we do not only err from the thing which is true, right, just and good, but do also follow and decline to that which is naught. The Latins derive their word peccatum, sin, of pellicatus, whore-hunting ; which is a fault of wedded people that are corrupted with the spirit of fornication, as when men prefer harlots before their lawful wives. And this definition, verily, doth wonderfully agree to this present treatise. For all we that do believe are by faith hand-fasted to our God, as to our spouse and husband : if therefore we prefer other gods before him, or choose rather to serve them; if, I say, we let pass the true goods in deed, to follow the shadow of goods, vain hopes, and the pernicious pleasures of this world; then do we sin indeed, and commit fornication against our spouse and husband8. But the learned sort do for the most part put a difference betwixt peccatum and delictum, which both, in effect, do signify sins3 : but they call that delictum, when the thing is not done that should be done ; and that they call peccatum^ when that is done that should be left undone. St Hierome seemeth to have taken delictum for the first fall to sin4.
@@ -24,7 +23,7 @@ f1 The Father — Mediator, added by the translator.]
 
 [4 — quserimus quid significent (delicta), quove distent a peccatis. . . Aiunt enim quod TrapaTmo/iiara (delicta) quasi initia peccatorum sint : cum cogitatio tacita subrepit, et ex aliqua parte conniventibus nobis, necdum tamen nos impulit ad ruinam . . . Peccatum vero esse, quum
 
-IX.] OF SIN, AND OF THE KINDS THEREOF. 359
+## IX.] of Sin, and of the Kinds Thereof. 359
 
 St Augustine sayeth that peccatum is committed of him that sinneth wittingly, and delictum of him that sinnneth of ignorance5. I see that those words are in some places confounded, and that the one is used for the other. In some places the error, or delictum, is used as the milder term; peccatum, in a more grievous sense ; and an heinous crime, a mischief, a revolting or wickedness, for the greatest of all6. For St Augustine saith: "Neither is every peccatum crimen1, because every crimen is peccatum." Therefore we say, that the life of a man8 living in this transitory world may be found to be without that heinous offence, crimen, for which all the world doth cry out upon and accuse him9: but "if we say we have nullum peccatum, no sin," (as the apostle saith,) [i John i. so " we deceive ourselves, and the truth is not in us." Among the Hebrews sin is called by sundry names, which do import and signify overthwartness, perverseness, a fault, an error, a revolting, infirmity, vice, ignorance, and transgression. For to transgress doth signify to depart from the truth 10, from our duty or office, not to keep the right path, but to turn away from the prescript rule of the law of God. Now that rule, or law of God, is of the Hebrews called Thora, that is to say, a direction, or a leading by the hand11; for it doth direct a man in the ways that are acceptable to the Lord : and therefore the Greeks call sin by the names of di'0'j.ia Kal -n-apavofjiia. Again, in the Hebrew tongue, sin is as much to say as a turning away from good to evil ; also a revolting, as when thou drawest thy neck from out of the yoke of his power to whom thou art a servant : finally, it signifieth the crime or guilt whereby we endanger ourselves to the rod of punishment.
 
@@ -41,8 +40,6 @@ quid opere consummatum pervenit ad finem. — Hieron. Comment, in Ep. ad Ephes. 
 [9 for which — accuse him, added by the translator.]
 
 [10 a recto, Lat.] [n See Decade i. Serm. i. p. 49.}
-
-360 THE THIRD DECADE. [sERM.
 
 ihedefiniVerily St Augustine taketh much pains to find out a tionofsin. /• • • * • 11 •»-. ^ proper definition of sin. In his second book De Consensu Evangelistarum he saith : " Sin is the transgression of the law l." Ad Simplicianum, Lib. i. : " Sin is an inordinateness or perverseness of man ; that is, a turning from the more excellent Creator, and a turning to the inferior creatures2." De fide contra Manichceos, cap. 8, he saith : " What is it else to sin, but to err in the precepts of truth, or in the truth itself3?" Again, Contra Faustum Manichceum, Lib. xxn. cap. 27 : " Sin is a deed, a word, or a wish, against the law of God4." The same Augustine, De duabus animabus contra Manichceos, cap. 11, saith : " Sin is a will to retain or obtain that which justice forbiddeth, and is not free to abstain5." And In Retract. Lib. i. cap. -15, he saith : " That will is a motion of the mind, without compulsion, either not to lose or else to obtain some one thing or other6."
 
@@ -70,8 +67,6 @@ Now therefore it seemeth that this treatise may most The cause or aptly be begun
 
 [10 dedit mihi poraum, Lat. ; gave me the apple.]
 
-362 THE THIRD DECADE. [sERM.
-
 the better case and condition. Again, the woman doth simply impute the cause of that evil unto the devil, saying : " The serpent beguiled me, and I did eat." Lo, these are most corrupt, false, wicked, and detestable opinions touching the original cause of sin, wherewith the justice and truth of t God is mightily offended. Neither is the nature of man ofesinause the cause of sin. For God, which created all things, did also create the nature of man, and made it good, even as all things else which he created were also good1. Therefore the nature of man was good. For it is an accidental quality that happened to man either in, or immediately after, his fall, and not a substantial property, to have his nature so spotted with corruption as now it is8. Now we, being born in sin of sinful progenitors, have sin by descent as our natural property ; for St Augustine, writing, De Fide contra Manichceos, cap. 9, saith : " And if we say that any men are evil by nature, we mean, that they are so because of the original descent of our first parents' sin, wherein we mortal men are wholly born3." But this now requireth a more exact and ample declaration.
 
 The devii That the devil alone is not the author of sin, so that, alone is not
@@ -96,8 +91,6 @@ To proceed: if thou demandest of them which lay the That destiny blame of their 
 
 [7 Astruunt etiam (Priscillianistse) fatalibus stellis homines colligatos, ipsumque corpus nostrum secundum duodecim Bigna coali esse compositum, sicut hi qui mathematici rulgo appellantur : constituentes in capite arietem, taurum in cervice, geminos in humeris, cancrum in pectore; et cetera nominatim signa percurrentes, ad plantas usquo perveniunt, &c. — August, de Hseres. cap. 70, Opp. Tom. vi. fol. 6, col. 4. Priscillian lived in the middle of the fourth century, in Spain. Mosheim, Eccles. Hist. Book n. Cent. 4, part 2, chap. 5, §§ 21, 22. — The first council of Toledo was held A.D. 405.]
 
-364 THE THIRD DECADE. [sERM.
-
 Augustine, In opusculo LXXXIII. qucestionum, Qucest. 45, confuting soundly the destinies of planets, among other his reasons Against saith : " The conceiving of twins in the mother's womb, because destiny. .... , . . '
 
 it is made in one and the same act, as the physicians testify (whose discipline is far more certain and manifest than that of the astrologers), doth happen in so small a moment of time, that there is not so much time as two minutes of a minute betwixt the conceiving of the one and the other. How therefore cometh it, that in twins of one burden there is so great a diversity of deeds, wills, and chances, considering that they of necessity must needs have one and the same planet in their conception, aud that the mathematicals do give the constellation of them both as if it were but of one man1 ? " To these words of St Augustine great light may be added, if you annex to them and examine narrowly the example of Esau and Jacob's birth and sundry dispositions. The same Augustine, writing to Boniface against two epistles of the Pelagians, Lib. ii. cap. 6, saith : " They which affirm that destiny doth rule, will have not only our deeds and events, but also our very wills, to depend upon the placing of the stars at the time wherein every man is either conceived or born, which placing they are wont to call constellations. But the grace of God doth not only go above all stars and heavens, but also above the very angels themselves. Moreover these disputers for destiny do attribute to destiny both the good and evil that happen to men. But God, in the evils that fall upon men, doth duly and worthily recompense them for their ill deserts : but the good, which they have, he doth bestow upon them not for their merits, but of his own favour and merciful goodness through grace, that cannot be looked for of duty ; laying both good and evil upon us men not through the temporal course of planets, but by the deed and eternal counsel of his severity and goodness. So then we see that neither the falling out of
@@ -113,8 +106,6 @@ X.] OF SIN, AND OF THE KINDS THEREOF. 365 good or evil hath any relation unto th
 [3 Ergo quod sidus Saturni inclemens et asperum vel crudele, Veneris benignum et mite ab astrologis appellatur, vanitas est yanitatum, omitted; therefore, that the star of Saturn is called by astrologers unkind and harsh or cruel, and the star of Venus kindly and mild, is vanity of vanities.]
 
 [4 legitimo, Lat.]
-
-366 THE THIRD DECADE. [SERM.
 
 doth he despise our diligent good-will and earnest travail. Herein if man be slack, the negligence and fault is imputed to man himself, and not to God, although he could have kept off the sin1, and did not ; for it was not his duty to keep it off, lest peradventure he should disturb the order and destroy the work which he himself had made and ordained. Therefore God is not the author of sin or naughtiness. Touching which matter I will first add some 2 testimonies of the holy scripture ; then answer to sundry objections of the adversaries of this doctrine ; and lastly declare the original cause or headspring of sin and wickedness. God being The testimonies which teach that God is not the author good himself ... . . • i i i created aii of sm or naughtiness are many in number : but among the things good * °
 
@@ -148,8 +139,6 @@ Again, in the third to the Romans the same apostle saith : " If our unrighteousn
 
 [9 The translator has hero paraphrased Bullinger's one word, JRecita.J
 
-368 . THE THIRD DECADE. [SERM.
-
 To this place also doth belong that testimony of the blessed evangelist and apostle John, in his canonical epistle, n John ii. where he saith : " If any man love the world, the love of the Father is not in him. For all that is in the world, as the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but of the world. And the world passeth away, and the lust thereof : but he that fulfilleth the will of the Father1 abideth for ever." Lo here, God is utterly free from all evil : evil, saith he, is not of the Father, but of the world. And he which doeth the will of the Father l doeth not what the world will, but what God will. Therefore these two, good and evil, sin and the will of God, are directly opposed and repugnant the one against the other. These testimonies, though few in number, are notwithstanding, in my judgment, sufficiently significant and able to persuade a godly-disposed hearer.
 
 Now upon this we do first infer a conclusion, and boldly warrant that point of Catholic doctrine, which hath ever since the apostles' time always been defended with much diligence against the unpure philosophy of some, (although yet I do not utterly condemn all the parts of philosophy, knowing very well that some points thereof are very necessary and profitable to the zealous lovers of God and godliness,) that God is not the author of evil, or cause of sin.
@@ -166,15 +155,13 @@ X.] OF SINj AND THE KINDS THEREOF. 369 likeness to God I shall take occasion upo
 
 [BULLING ER, n.J
 
-370 THE THIRD DECADE. [SERM.
-
 "And the woman, seeing that the tree was good to eat of, and pleasant to the eyes, and a tree to be desired to make one wise1, took of the fruit thereof, and did eat, and gave to her husband with her, and he did eat also." Lo, here thou hast the beginning of evil, the devil : thou hast heard what it was that moved the mind or will of man unto that evil, to wit, the false persuasion of the devil, or his subtle praise of the fruit of the tree, and so consequently a mere lie ; and the pleasant shew of the delicate tree. But that which our first parents did, they did of their own accord and free good will, being led by hope to obtain a more excellent life and profounder wisdom, which the seducer had falsely promised them. We do therefore conclude, that sin doth spring not of God, which hateth and doth prohibit all evil, but of the devil ; the2 free election of our grand-parents and their corrupted will, which was depraved by the devil's lie, and the false shew of feigned good. So then the devil and the yielding or corrupted mind3 of man are the very causes of sin and naughtiness.
 
 proceed now : this evil doth by descent flow from our arents into all their posterity, so that at this day sin nipt win. ^^ noj. gpring from elsewhere but of ourselves, that is to say, of our corrupt judgment, depraved will, and the sug* gestion of the devil. For the root of evil is yet remaining in our flesh by reason of that first corruption : which root bringeth forth a corrupt branch in nature like unto itself: which branch Satan even now, as he hath done always, doth by his sleights, subtilties, and lies, cherish, tend, and tender, as an imp of his own planting ; and yet notwithstanding he laboureth in vain, unless we yield ourselves to his hands to be framed as he listeth.
 
 Now therefore, that there may herein appear less doubt or darkness, I will, for confirmation's4 sake, add two most evident testimonies ; the one out of the writings of the evangelists, the other out of the doctrine of the apostles.
 
-John VM. The Lord in the gospel saith : " The devil was a mur- derer from the beginning, and stood not in the truth, because the truth is not hi him. When he speaketh a lie, he speaketh of his own ; because he is a liar, and the father
+John VM. The Lord in the gospel saith : " The devil was a murderer from the beginning, and stood not in the truth, because the truth is not hi him. When he speaketh a lie, he speaketh of his own ; because he is a liar, and the father
 
 [* concupiscibile ad contemplandum, Lat.] [2 and the, Lat.]
 
@@ -185,8 +172,6 @@ John VM. The Lord in the gospel saith : " The devil was a mur- derer from the be
 [9 in his omnibus illud observabile, Lat.]
 
 24—2
-
-372 THE THIRD DECADE. [sERM.
 
 God: therefore God would not have had him perish: whereupon, since he perished, it folio weth that he perished, not by the fault of God, but by his own fault.
 
@@ -204,8 +189,6 @@ It will not be amiss here to hear the objections of certain objections
 
 [( in Adam, not in Lat.] [s proprium hominis, Lat.]
 
-374 THE THIRD DECADE. [SERM.
-
 should work evil ; for by express commandment he forbad him to do wickedness. Therefore Adam himself did naughtily apply the will and power, which he received of God, by using them untowardly. The prodigal son received money at his father's hand ; whose meaning was, not that he should waste it prodigally with riotous living, but that he might have whereupon to live and supply the want of his necessities. Wherefore when he had lavishly lasht it out, and utterly undone himself, the fault was in himself for abusing it, and not in his father for giving it unto him1. Furthermore, to have the power to do good and evil, as Adam had of God, is of itself a thing without fault : even as also to have poison, to bear a weapon, or wear a sword, is a thing that no man can worthily blame. They have in them a force to do good or harm ; they are not naught unless they be abused : and he that giveth thee them doth leave to thee the use thereof. If he be a just man, he putteth them into thy hand not to abuse, but to use as equity and right requireth. Wherefore, if thou abusest them, the fault is imputed to thyself, and not to him that gave thee them. Now since God, which gave Adam that will and power, is of himself most absolutely just, it followeth consequently, that he gave them to Adam not to do evil but good : why then is the most just God blamed in such a case as sinful man is without all blame in ? We do therefore conclude : because affection in Adam, being moved by sense and egged on by the serpent, did persuade him to eat of the forbidden fruit, when nevertheless his understanding did yet hold the word of God which forbad him to eat ; and that his will was at free choice and liberty to incline to whether part it pleased him ; he did notwithstanding2 will and choose that which God had forbidden him ; we do therefore, I say, conclude, that sin is properly to be imputed to man which willingly transgressed, and not to God3 which charged him that he should not sin.
 
 Here again the adversaries ask this question, Why God
@@ -217,8 +200,6 @@ Here again the adversaries ask this question, Why God
 [3 legislatoris, Lat. ; not to the lawgiver.] did create man so frail, that he of his own tTOTmight incline to why God evil : why did he not rather confirm in him the goodness and SefiScie"that perfect soundness of nature, that he could not have fallen or Mfc sinned? To this the scripture answereth, saying: "What art thou that disputest with God ? Woe to him that striveth with his Maker ! Woe to him that saith to the father, Why begottest thou ? and to the mother, Why broughtest thou forth4?" Unless God had made man fallable5, there had been no praise of his works or virtue ; for he could neither have willed nor choosed but of necessity have been good. Yea, what if man ought altogether to be made fallable ? For so did the counsel of God require him to be. God giveth not his own glory to any creature. Adam was a man, and not a God. But to be good of necessity is the proper glory of God, and of none but God6. And as God is bountiful and liberal, so also is he just : he doth good to men ; but will therewithal that men acknowledge him and his benefits, and that they obey him, and be thankful for the same. He had bestowed innumerable benefits upon Adam : there lacked nothing therefore but to give him an occasion to declare and shew his thankfulness and obedience to his good God and benefactor ; which occasion he offered him by the making of that law, or giving his commandment. We see therefore that God ordained not that law to be a stumbling-block in Adam's way, but rather to be af staff to stay him from falling : for in the law he declareth what he would have him to do. He sheweth, that he wisheth not the death or destruction of Adam : he teacheth him what to do, that he may escape death and live in felicity and perfect happiness. For which cause also he TtM»hat end provided that the law should be a plain and easy commandk* ment : " Of the tree of knowledge of good and evil thou shalt not eat," saith the Lord ; " for if thou doest, thou shalt die the death : but of any other tree in the garden thou shalt eat." What else was this, than as if he should have said, Thou shalt in all things have an eye to me ; thou shalt stick to me, obey me, be subject unto me, and serve me : neither shalt thou from elsewhere fetch the forms of good and evil than of me ; and
 
 [4 Rom. ix. 20. Isai. xlv. 9, 10. Coverdalo's Bible, 1535, also has Why. Bullinger's Latin is Q,uid.~\ [5 i. e. liable to fall ; labilis, Lat .] [6 But to be — but God, the translator's addition.]
-
-376 THE THIRD DECADE. [SERM.
 
 in so doing thou shalt shew thyself obedient and thankful unto me thy Maker? Did God in this desire any unjust thing, or more than he should, at the hands of Adam ? He shewed him the tree as a sacrament or1 sign of that which he enjoined him by the giving of the law ; to wit, that the tree might be a token to put him in memory that he ought to obey the Lord alone, as a wise, bountiful, excellent, and greatest God and Maker. And what difficulty, I pray you, or darkness was there herein ? St Augustine is of the same opinion with us, who in his book De Natura Boni adversus Manichceos, cap. 35, saith : " He did therefore forbid it, that he might shew that the nature of the reasonable soul ought to be, not in man's own power, but in subjection unto God ; and that by obedience it keepeth the order of her salvation, which by disobedience it doth corrupt and mar. And hereupon it cometh, that he called the tree, which he forbad, by the name of the tree of knowledge of good and evil ; because Adam, if he touched it against the Lord's commandment, should by trial feel the punishment of his sin, and by that means know what difference there was betwixt the good that followeth obedience and the evil which ensueth the sin of disobedience2." Now therefore, when the serpent was crept in and began to tell man of other forms of good and evil directly contrary to the law of God, and that man had once received them as things both true and credible3, he did disloyally revolt from God, and by his own fault through disobedience he wrought his own destruction. Therefore God did always deal justly with him ; and man contrarily dealt too too unjustly, and was utterly unthankful, howsoever men will go about to cloak or not to hear of his unthankful stubbornness4.
 
@@ -244,8 +225,6 @@ But, say they, God did foreknow the fall of man, which, God did if he would, he 
 
 [8 egregia censebitur disputatio, Lat]
 
-378 THE THIRD DECADE. [SERH.
-
 come to an ill ending * : neither is he deceived in his foresight ; for he is slain, being taken in adultery. But he is not therefore slain, because his father foresaw that he would be slain ; but because he was an adulterer. And therefore St Ambrose, or whosoever it is that was author of the second book De Gentium Vocatione, cap. 4, speaking of the murder which Cain committed, saith : " God verily did foreknow to what end the fury of the mad man would come. And yet, because God's foreknowledge could not be deceived, it doth not thereupon follow, that necessity of sinning did urge the crime upon him2," &c. And St Augustine, De Libero Arbitrio, Lib. xin. cap. 4, saith : " As thou by thy memory dost not compel those things to be done that are gone and past, so God by his foreknowledge doth not compel those things to be done which are to come. And as thou rememberest some things that thou hast done, and yet hast not done all things which thou rememberest ; so God foreknoweth all things which he doth, and yet doth not all which he foreknoweth. But God is a just revenger of that whereof he is no evil author3." And so forth.
 
 An objection. Like unto this is another objection, which they make that say : God did before all beginnings determine with himself to deliver mankind from bondage : therefore it could not otherwise be, but that we should first be tangled in bondage : therefore it behoved us to be drowned in sin, that by that means the glory of God might shine more clearly; as the
@@ -263,8 +242,6 @@ An objection. Like unto this is another objection, which they make that say : Go
 [8 harum rerum, Lat. ; of these things. The rest is the translator's paraphrase.]
 
 [9 confusio faciei, Lat. Dan. ix. 8. in — God, not in Lat.]
-
-380 THE THIRD DECADE. [sERM.
 
 Now last of all, there are yet behind some places of scripture, which must by the way be run through and ex- . i.^28.] pounded. The apostle1, verily, saith : " God gave them up to loT11 a rePr°bate sense." But this kind of giving over is, as Augustine also saith2, a work of judgment and justice ; for they were worthy to be given up unto a reprobate sense. The cause is prefixed in the words of the apostle : for God had made himself manifest unto them ; but they were not only unthankful towards him, but waxed wise also in their own conceits, and went about to obtrude unto him I wot not what manner of religion and worship. Therefore, that they might by proof see that they were fools and ungodly, God gave them up unto filthy lusts. In like manner king Amazias would not give ear and hearken to the Lord, because God had determined to punish his iniquities ; as is to be read in the fourth book of Kings, the fourteenth chapter, and second Paralipom. twenty-fifth chapter. Likewise did the Lord put the spirit of error into the mouths of the false prophets, and they seduced Egypt : Esay nineteen. So also did a seducing spirit3 go out from the Lord of judgment, and was a lying spirit in the mouth of all the prophets : as is to be seen in the last chapter of the third book of Kings. Now the Lord doth all these things with just and holy judgment, cod is said Again, God is said to blind men's eves, so often as he doth to make men ° " .
 
@@ -290,8 +267,6 @@ In the same sense God is said to harden man. For when TO harden, the Lord callet
 
 [8 in Exodo, Lat. omitted.]
 
-382 THE THIRD DECADE. [SERM.
-
 wonders, which I have put in thy hand, before Pharao : but I will harden Pharao's heart, that he shall not let the people go." But these sayings do not tend hereunto, that we should make God the author of all Pharao's falsehood, rebellion, and stubborn dealing against the Lord ; but rather they were spoken to the comfort and confirmation of Moses, who is therefore so premonished, that, when he dealeth earnestly with the king and yet cannot obtain his suit, he should notwithstanding know that he had God's business in hand, and that God by his long sufferance is the cause of that delay1, when as notwithstanding at the last he would temper all things to his own honour and glory. The case, by a similitude, is all one as if an householder should send his servant to his debtors, saying : Go thy way, and demand my debts ; but yet I know that thou shalt receive none of them ; for I by my sufferance and gentle dealing will cause them to be the slacker to pay it : but yet do thou thy duty ; and I in the meanwhile will see what is needful to be done. •-• To this may be added, that even in those very chapters where it is so often said, " God hardened Pharao's heart, " this also is afterward annexed, which layeth the hardening of Pharao's heart upon Pharao's own head, saying, " He hardened his heart, and hearkened not unto them." In the ninth of Exodus, when Pharao was well whipped, he crieth : " I have now sinned ; the Lord is just, but I and my people are unjust or wicked :" and immediately after again : " But when Pharao saw that it ceased raining, he sinned yet more, and hardened his heart, and it was hardened." So then these and such like places must be conferred with these words, " I have hardened Pharao's heart ; " and out of them must be gathered a godly sense; such a sense, I mean, as maketh not God2 the author of eviL
 
 Now also the prophet Amos doth very plainly say : "There is no evil in a city, but the Lord doth it." But Augustine, contra Adimantum, cap. 26, did very religiously3 write: 2idwto do u " Evil in this place is not to be taken for sin, but for punishment ; for the word (evil) is used in two significations : the one is the evil which a man doeth ; the other evil is the pain which he suffereth. Now the prophet in this place speaketh f1 pertinacise illius, Lat. ; of that stubborn dealing.] [2 Deum justissimum, Lat.] [3 orthodoxe, Lat.] of that evil which is the punishment that men do suffer. For by the providence of God, which ruleth and governeth all[ ^^; things, man doth so commit the evil which he will, that he mlnptuonf tfc may suffer the evil which he would not. Therefore the evil evl1 deed' that God doth is not evil in respect of God, but is evil to them upon whom his vengeance lighteth. So then he, in respect of himself, doth good ; because every just thing is good : that vengeance of his is just, and so consequently it is good4." The place of Esay also must be none otherwise understood hi his forty-fifth chapter, saying : " I am the Lord, and there is else none. It is I that created light and darkness : I make peace and evil : yea, I, even I the Lord, do all these things." For here he taketh evil for war, and maketh it the contrary to peace.
@@ -307,8 +282,6 @@ Neither is it a matter of any great difficulty to answer to that sentence of Sal
 [8 certum diem, Lat.]
 
 [1 impiis, Lat. omitted; for the ungodly.]
-
-384 THE THIUD DECADE. [sERM.
 
 ^Rom. tx. But whereas the apostle saith, "He hath mercy on whom he will, and whom he will he hardeneth ; " we must not so wrest it to say, that God doth of necessity drive any man to sin, and that therefore he is the cause of sin. For the will of God is good and just, and willeth nothing but what is expedient, and not repugnant to nature and the word of God. And therefore it is that the prophet crieth : " The Lord is just in all his ways, and holy in all his works." Psal. cxlv.
 
@@ -336,13 +309,11 @@ This sin taketh beginning at and of Adam ; and for that The begincause it is cal
 
 [' totius humanse naturse, Lat.] [8 See above, page 371.]
 
-[BULLINGER, IL]
-
-386 THE THIRD DECADE. [SERM.
+## [Bullinger, IL]
 
 argument ; so that I have no need to repeat anything here : I will therefore now pass forth to the rest. ThePeiaThe Pelagians denied that this evil of original sin was gians. ° hereditary ; for these are the very words of Pelagius himself: "As without virtue, so are we also born without vice; and before the action of our own will, that alone is in man which God created1." These words of his are somewhat obscure ; but Ccalestius, the partner of Pelagius, did more openly spue out this poison, and say: "We did not therefore say that infants are to be baptized into the remission of sins, to the end that we should seem thereby to affirm that sin is ex traduce, or hereditary ; which is utterly contrary to the catholic sense : because sin is not born with man, but is afterward put in ure by man ; because it is declared to be, not the fault of the nature, but of the will2." Again Pelagius said, "That that first sin did not hurt the first man only, but all mankind also, his issue and offspring:" but he doth immediately add, "not by propagation, but by example;" that is to say, not that "they which came of him drew any vice of him, but because they that sinned afterward did in sinning imitate him that sinned first and before them3." This is to be seen in Aurelius Augustinus De peccato originali contra Pelagium et Ccelestium, Lib. n. cap. 6, 13, and 15.
 
-ThatherediWe therefore must prove by the testimonies of holy h£yandiss scripture, that the evil is hereditary in man; and that ori- born together .•%.., . * .
+ThatherediWe therefore must prove by the testimonies of holy h£yandiss scripture, that the evil is hereditary in man; and that ori-born together .•%.., . * .
 
 with man. gmal sin is born together with us, that is, that all men are born sinners into the world. The prophet therefore doth plainly cry, Psalm li., " Behold, I was born in wickedness,
 
@@ -361,8 +332,6 @@ with man. gmal sin is born together with us, that is, that all men are born sinn
 [8 Hoc autem apostolicum testimonium in quo ait, Per unum hominem, &c. — Aug. Opp. Tom. vn. fol. 135. col. 1.]
 
 25 — 2 sin.
-
-388 THE THIRD DECADE. [sERM.
 
 that is begotten and born with us : for he addeth, " I am carnal, sold under sin ;" and, " I know that in me (that is, my flesh) there dwelleth no good." And therefore the
 
@@ -394,8 +363,6 @@ That therefore is utterly false which ye heard even now TIM catholic
 
 [' sic, Lat. omitted ; under these circumstances.]
 
-390 THE THIRD DECADE. [SERM.
-
 the remission of sins, to the end that we should thereby seem to affirm that sin is ex traduce, or hereditary ; which is utterlycontrary to the catholic sense." For it is catholic and true doctrine, that the children of the Jews were circumcised, not so much only because they were partakers of the divine covenant, as for because that all the antiquity of holy fathers did so confess, that in infants there was somewhat which had need of cutting, that is, which had need to be remitted by the grace of God, and not be imputed to them unto death. It is catholic and true doctrine, that the infants of Christians are baptized, not so much because they are the children of God and freely received into the covenant j as for because there is in them, even from their birth, somewhat which the Lord by his grace doth wash away, lest it should bring upon them death and damnation. Yea, that cannot be catholic, which doth so manifestly repugn so many evident places of scripture, which prove that in infants there is sin by propagation. To confirm this we may add, that St Augustine in his first book Contra Julianum Pelagianum, cap. 2, gathereth together the testimonies of the most excellent learned bishops and doctors in the primitive1 church, by which he proveth that all the ministers of the churches, even from the apostles' time, did AH the anboth acknowledge and openly teach original sin. In that place orefath?reo7 he citeth the testimonies of Irenssus, Cyprian, Reticius, OlymronfeMwith pius, Hilary, and Ambrose, his father and master in Christian original sin. doctrine8, Innocent, Gregory, Basil, and John Chrysostom; and at length he inferreth : " Wilt thou now call so great a consent of catholic priests a conspiracy of naughty men ? Neither think thou that St Hierome is to be contemned, because he was but a priest only, and no bishop ; who, being skilful in the Greek, Latin, and Hebrew tongues, and passing from the west unto the east church, lived in holy places and the study of the sacred scripture, even to his crone3 and The east crooked age. He read all, or in a manner all, the works of churchet them which in both parts of the world did write of ecclesiastical doctrine ; and yet he neither held nor taught any otherwise of this point of doctrine4." And again the same Augustine,
 
 [l primitive, not in Lat.] [2 in Christo, Lat.]
@@ -407,8 +374,6 @@ the remission of sins, to the end that we should thereby seem to affirm that sin
 [5 vermis, Lat. ; a worm.]
 
 [6 Nam in eo quod in Jonam prophetam scripsit (Hieronymus), cum ad eum venisset locum, ubi commemorantur etiam parvuli jejunio castigati : Major, inquit, setas incipit, et usque ad minorem pervenit. Nullus enim absque peccato, nee si unius quidem diei fuerit vita ejus, ot innumerabiles anni vitse illius. Si enim stellae mundre non sunt in conspectu Dei, quanto magis vermis et putredo, et ii qui peccato offendontis Adam tenentur obnoxii ! Hunc doctissimum virum si facilo
-
-392 THE THIRD DECADE. [SERM.
 
 the very beginning, that all the saints did by a full consent and agreement in doctrine most expressly grant and confess, that original sin is even in new-born infants. Methinketh that St Hierome did not only in Jonas, but also much more evidently in Ezechiel, confess and affirm original sin. His words are to be seen, Comment, lib. xiv. in cap. 47, ad Ezechielem, and are verbatim as followeth : " What man can make his boast that he hath a chaste heart, or to whose mind by the windows of the eyes the death of concupiscence, or (to use a milder term) the tickling of the mind, doth not enter in ? For the world is set in wickedness ; and even from his childhood the heart of man is set to naughtiness ; so that not the very first day of a man's nativity his nature is free from sin and naughtiness. Whereupon David in the Psalm saith : * For behold I was conceived in iniquity, and in sin my mother conceived me.' Not in the iniquities of my mother, or in mine own sins; but in the iniquities of our mortal state. And therefore the apostle saith, ' Death reigned from Adam to Moses, over them also which had not sinned with the like transgression as did Adam1.'" Thus much hath Hierome. And we have hitherto alleged all these sayings, to the end interrogate possemus, quam mulfas utriusque linguae divinarum scripturarum tractatores et Christianarum disputationum scriptores commemoraret, qui non aliud ex quo Christ! ecclesia est constituta senserunt, non aliud a majoribus acceperunt, non aliud posteris tradiderunt ! Ego quidem, quam vis longe pauciora legerim, non memini me aliud audisse a Christianis, qui utrumque accipiunt testamentum. non solum in catholica ecclesia, verum etiam in qualibet hseresi vel schismate constitutes ; non memini me aliud legisse apud eos, quos de his rebus aliqxiid scribentes legere potui, qui scripturas canonicas sequerentur, vel sequi se crederent credive voluissent. — August. Opp. Tom. vn. fol. 148. col. 4.]
 
@@ -427,8 +392,6 @@ Let us now see what and how great the hereditary what and
 [( Stobaei Floril. Tit. xxiii. Tom. i. p. 427. ed. Gaisford. Oxon.
 
 1822.]
-
-394 THE THIRD DECADE. [sERM.
 
 led captive by concupiscence, which, as a root envenomed with poison, infecteth all that is in man, and doth incline, draw on, and drive men to things carnal, forbidden, and contrary to God, to the end that he may greedily pursue them, put all his delight in them, and content himself with them. Moreover there is in us no power or ability to do any good : for we are slow, sluggish, and heavy to goodness; but lively, quick, and ready enough to any evil or naughtiness. And, that I may at last conclude, and briefly express the whole force and signification of our hereditary depravation and corruption ; I say, that this depravation of our nature is nothing our depravaelse but the blotting of God's image in us. There was in our blotting out father Adam before his fall the very image and likeness of of the image , , , .
 

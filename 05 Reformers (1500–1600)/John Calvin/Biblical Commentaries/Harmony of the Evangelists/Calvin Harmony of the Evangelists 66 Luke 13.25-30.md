@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 66. Luke 13:25-30
-
-**LUKE 13:25-30**
 
 **25.** And when the master of the house shall have arisen, and shall have shut the door, and you shall begin to stand without and to knock at the door, saying, Lord, Lord, open to us: and he answering shall say to you, I know not whence you are: **26**. Then you shall begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets. **27**. And he shall say, I say to you, I know not whence you are: depart from me, all who work iniquity. **28**. Weeping and gnashing of teeth shall be there, when you shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and yourselves shut out. **29**. And they shall come from the east and west, and north and south, and shall sit down in the kingdom of God. **30**. And, lo, they are last who shall be first, and they are first who shall be last.
 
@@ -35,5 +32,5 @@ The Jews must have been stung by it: for they had an inordinate love of themselv
 ---
 [[Calvin Harmony of the Evangelists 65 Luke 13.23-24|← 65. Luke 13.23-24]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Evangelists/harmony-of-the-evangelists-index|Contents]] · [[Calvin Harmony of the Evangelists 67 Matthew 7.15-20|67. Matthew 7.15-20 →]]
 
-[^1]: “Et avoyent tousjours en la bouche le titre d'Eglise, duquel ils abu- soyent;” — “and had always in their mouth the title of Church, which they abused.”
+[^1]: “Et avoyent tousjours en la bouche le titre d'Eglise, duquel ils abu-soyent;” — “and had always in their mouth the title of Church, which they abused.”
 [^2]: “Ne tiendront pas mesme le dernier reng, ou quelque petit coin en l'Eglise;” — “will not hold even the lowest rank, or some small corner in the Church.”

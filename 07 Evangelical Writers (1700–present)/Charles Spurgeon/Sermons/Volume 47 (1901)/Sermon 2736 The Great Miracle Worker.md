@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Great Miracle Worker
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2736
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then gathered the chief priests and the Pharisees a council, and said, What shall we do? For this Man does many miracles." John 11:47.
 
@@ -118,7 +115,6 @@ But this is our comfort and our blessed hope—there is One who is the Resurrect
 If the Gospel had to wait till men came to it, there would be poor results from it—but it is a dew from the Lord that waits not for men, neither tarries for the sons of men, but it falls when He pleases! Christ waits not till men bare their bosoms to receive His pointed shafts, but He takes His bow, fits the arrow to the string and through mailed armor or steeled breastplate He makes His dart fly Omnipotently strong till it pierces the heart and causes the sinner to fall down slain beneath His matchless might, only to rise to a new life by His glorious Grace!
 
 O strong Son of God, work some of these miracles in this place just now, and out of Heaven may the angels lean over the jeweled battlements to see what Christ is still doing among the sons of men! For verily, verily, I say unto you, "this Man does many miracles!" Amen.
-
 
 ---
 [[Sermon 2735 Fountains of Repentant Tears|← #2735]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2737 Who Should Be Baptized|#2737 →]]

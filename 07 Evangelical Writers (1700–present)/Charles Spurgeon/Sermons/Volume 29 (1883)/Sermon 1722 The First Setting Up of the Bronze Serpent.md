@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The First Setting Up of the Bronze Serpent
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1722
 
-DELIVERED ON THURSDAY EVENING, MAY 10, 1883,.
+*Delivered on Thursday Evening, May 10, 1883*
 
 > "And they journeyed from Mount Hor by the way of the Red Sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way. And the people spoke against God, and against Moses, 'Why ha ve you brought us up out of Egypt to die in the wilderness? For there is no bread, neither is there any water; and our soul loathes this light bread.' And the Lord sent fiery serpents among the people, and they bit the people; and many people of Israel died. Therefore the people came to Moses and said, 'We have sinned, for we have spoken against the Lord, and against you; pray unto the Lord, that He take away the serpents from us.' And Moses prayed for the people. And the Lord said unto Moses, 'Make you a fiery serpent, and set it upon a pole: and it shall come topass, that everyone thatis bitten, when he looks upon it, shall live.' And Moses made a serpent of brass, and putit upon a pole, and it came topass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived." Numbers 21:4-9.
 
@@ -178,7 +177,6 @@ This is the language of the man who has served his God for half a century and pr
 Do you not see where the bronze serpent fitly comes in according to Scripture? At the end of the pilgrimage, just before they are going to cross the Jordan, then Israel sees the serpent of brass! Then the people sin and then is there revealed to them in all its splendor that blessed type of Chris—"And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whoever believes in Him should not perish, but have eternal life." "Should not perish!" As if even a Believer had about him that which would make him perish if he did not, still, look to the appointed cure! Jesus is lifted up that saints might not perish, but might persevere in Grace unto everlasting life!
 
 How is our spiritual life rendered everlasting but by the continuance of that look? We are to still be looking to Jesus as long as we live! "Looking unto Jesus, the Author and Finisher of our faith." Always looking! Always looking! God keep us looking if we have looked, and bring us to look to Jesus if we have never looked—and to His name be praise forever and ever, Amen!
-
 
 ---
 [[Sermon 1721 Glory!|← #1721]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1723 Knock!|#1723 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule VII. Mutually to bear with each other’s infirmities, weakness, tenderness, failings, in meekness, patience, pity, and with assistance
-
-Rule vii. Mutually to bear with each other’s infirmities, weakness, tenderness, failings, in meekness, patience, pity, and with assistance.
 
 Eph. iv. 32, “Be ye kind one to another, tender-hearted, forgiving one another, even as God for Christ’s sake hath forgiven you.”
 
@@ -43,7 +40,6 @@ Motives hereunto are, —
 4\. The strictness of the command, with the threatenings attending its non-performance.
 
 5\. The great glory of the gospel, which is in the walking of the brethren with a right foot as to this rule.
-
 
 ---
 [[ECFC 18 Rule VI. Frequent spiritual communication for edification, according to gifts|← Rule VI. Frequent spiritual communication for edification, according to gifts received]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 20 Rule VIII. Tender and affectionate participation with one another in their|Rule VIII. Tender and affectionate participation with one another in their several states and conditions, — bearing each other’s burdens →]]

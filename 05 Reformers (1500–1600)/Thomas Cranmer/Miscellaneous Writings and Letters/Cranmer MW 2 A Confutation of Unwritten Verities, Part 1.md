@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 2. A Confutation of Unwritten Verities, Part 1
 
-UNWRITTEN VERITIES.
+*Unwritten Verities*
 
 [cRANMER, II.]
 
@@ -59,7 +58,7 @@ The anonymous treatise, which is found in Strype8, will be printed in an appendi
 
 [2 Strype, Ecclesiastical Memorials, Vol.11. | Elien.) p. 410. Ed. Oxon. 1822. J
 
-THE CONTENTS.
+## The Contents
 
 First, the preface of the translator to his countrymen and brethren of England.
 
@@ -89,7 +88,7 @@ First, the preface of the translator to his countrymen and brethren of England.
 
 Collectiones ex S. Scriptur. et Patribus.
 
-TABULA REPERTOIIIA.
+## Tabula Repertoiiia
 
 1\. Sacrae Scripturae intellectus et utilitas, p. 9.
 
@@ -159,7 +158,7 @@ hodie apud nos non observantur, p. 474. Multi sacerdotalem dignitatem consecuti 
 
 31\. De extrema unctione, p. 519.
 
-THE CONTENTS.
+## The Contents
 
 32\. De unctioue podum, p. 53?.
 
@@ -171,7 +170,7 @@ Tomo secundo.
 
 35\. De sanctorum invocatione, p. 1.
 
-[Desideria nostra sancti intelligunt, et quo- modo, p. 10.] 30. De imaginibus, p. 115. 37De divorum reliquiis, p. 59. 38. De vera religione et superstitione, p. 67. 3D. Ut oremus, aut peccatoruni veniam consequa- mur, non est ullus locus pra) alio Deo accep- tior ; nee pro his opus cst longe pcrcgriuari,
+[Desideria nostra sancti intelligunt, et quo-modo, p. 10.] 30. De imaginibus, p. 115. 37De divorum reliquiis, p. 59. 38. De vera religione et superstitione, p. 67. 3D. Ut oremus, aut peccatoruni veniam consequa- mur, non est ullus locus pra) alio Deo accep- tior ; nee pro his opus cst longe pcrcgriuari,
 
 P. 71. [Pro sanctorum invocatione, p. 75.]
 
@@ -237,7 +236,7 @@ De potestate damionum, p. 237-
 
 An angeli corporei sint, p. 238.
 
-Angeli aliquando loquuntur ex persona Patris, aliquando Filii, aliquando Spiritus Sancti, aliquando Trinitatis, p. 240. Voces et species corporales Dei ante incarna- tionem per angelos factae sunt. ibid. Quod nomine sensualitatis inferior rationis portio intelligitur, p. 244.] 55. De libero arbitrio, p. 244, 519, b.
+Angeli aliquando loquuntur ex persona Patris, aliquando Filii, aliquando Spiritus Sancti, aliquando Trinitatis, p. 240. Voces et species corporales Dei ante incarnationem per angelos factae sunt. ibid. Quod nomine sensualitatis inferior rationis portio intelligitur, p. 244.] 55. De libero arbitrio, p. 244, 519, b.
 
 [Prrcvenit gratia Dei bonam voluntatem, non contra, p. 255. Praedestinatio, p. 202.] *Pro purgatorio, p. 203. "Contra purgatorium, p. 334. [Subversio illarum rationum qua? pro con- stabiliendo purgatorio passim solent adduci, p. 357. Oramus ut eveniant ea, quas ex Dei promissis certo novimus eventura, p. 431.] 50. Semper orandus est Deus, ut condonet peccata, etiam piis filiis, quibus jam omnia peccata dimissa sunt, p. 432, 521, b. *De conversione impii, p. 453, a. [Cum impius confitetur peccatum, omni.i peccata dimittuntur, nee medium est ullum inter filios Dei et diaboli, ibid. Quod timore poence fit, non fit, p. 473, a. Gratia sanat voluntatem, praeceditque meritum, et justificatio cor rectum, p. 481, a. Ex operibus ante Spiritum Sanctum rei potius tenemur quam contra, p. 505. Fides non est sine operibus, nee contra, sicut nee dilectio Dei sine dilectione proximi, nee e con verso, p. 510, a.] •De fide, p. 447, a. 450, a. 511, a. [Duplex fides, p. 450, b.] "Contra merita humana, p. 453, b. [Gratia et meritum, p. 402, b. 517, b. Baptismus parvulorum, p. 504, b.]
 
@@ -251,7 +250,7 @@ Tom. II. p. 523, b. [Peccatum originate, p. 539, b.]
 
 In consequence of a mistake in the paging, there are duplicates of the numbers after 447 in the second volume. These are distinguished in the above list by the letters a and b."J
 
-THE PREFACE.
+## The Preface
 
 the heart of man to ever
 
@@ -263,7 +262,7 @@ With that were all pulpits filled, churches garnished, printers' shops furnished
 
 [( Not in ed. 1,082.
 
-10 CONFUTATION OF UNWRITTEN VERITIES.
+## 10 Confutation of Unwritten Verities
 
 The nope this great antichrist to disgrace the merits of Christ's passion, and in place thereof to set foretruth, up men's merits, and instead of his sufficient satisfaction upon the cross once for all to set nourishing up his masses satisfactory for the sins both of the quick and dead. This is the cause and ministerthat this monstrous beast hath taught the invocation of saints, and the same to be our life. mediators to God, and satisfiers for our sins. Whereas before, in the forenamed vineyard,
 
@@ -305,7 +304,7 @@ THE PREFACE. 11 creep out at, crying and yelling, Templum Domini, Templum Domini
 
 4 Make, Orig. ed.] [5 Papists, Orig. ed.]
 
-12 CONFUTATION OF UNWRITTEN VERITIES.
+## 12 Confutation of Unwritten Verities
 
 And he, with four hundred priests more of his own mind and religion, deceived
 
@@ -339,7 +338,7 @@ Ed. Paris. lfir,9.] | Ed. Colon. Allobr. 1612.]
 
 THE PREFACE. 13 aiders and succonrcrs. Then free pardons flew abroad as thick as butterflies in sum mer: but so free, that the realm thereby and the said warriors5 was robbed of a great deal of our treasure, and in manner half undone. There wras full remission a noena The in°iie
 
-* imketh him- et culpa preached at Paul's Cross, and almost m every sermon through all England ; s?lf «i«ai to promising, that whosoever died in the pope's quarrel, his soul should be in heaven ralher »»)VC before his bones were cold. After, when the same king Henry had justly, by the his promise, authority of God's word, and the full consent both of the parliament and convocation, abolished the usurped power of the bishop of Rome, then the pope interdicted the Thllis)ls one of whole realm, and sent cardinal Poolc from prince to prince, to excite and move them of prelate*, (if he could have brought it to pass) to make open war against the king and the realm; as it appcareth in a sermon preached by Tonstall then*3 bishop of Durham, and set out in print openly: which sermon, and all other tcll-truths, opening the abuses and tyranny of the bishop of Rome, arc now put to silence. Who were the workers of all these mischiefs ? Who, these three years past, hath persecuted, prisoned, and burned so many learned and godly men, only for their true faith's sake, grounded upon God's most holy word, (men worthy to be compared with the old martyrs of the primitive church, as well for the constancy of their faith, as also for patience and charity shewed at their deaths,) but the church, as they call themselves? Who, by their cruel tyranny, hath enforced so many notable members of Christ (leaving wife, children, kinsfolk, lands and goods) cither to fly into strange realms, or else from town to town, from city to city, only because they would not drink of the venomous cup of the whore of Babylon? Who hath wrought all these wickednesses, but only the mitred prelates and their popish priests?
+* imketh him-et culpa preached at Paul's Cross, and almost m every sermon through all England ; s?lf «i«ai to promising, that whosoever died in the pope's quarrel, his soul should be in heaven ralher »»)VC before his bones were cold. After, when the same king Henry had justly, by the his promise, authority of God's word, and the full consent both of the parliament and convocation, abolished the usurped power of the bishop of Rome, then the pope interdicted the Thllis)ls one of whole realm, and sent cardinal Poolc from prince to prince, to excite and move them of prelate*, (if he could have brought it to pass) to make open war against the king and the realm; as it appcareth in a sermon preached by Tonstall then*3 bishop of Durham, and set out in print openly: which sermon, and all other tcll-truths, opening the abuses and tyranny of the bishop of Rome, arc now put to silence. Who were the workers of all these mischiefs ? Who, these three years past, hath persecuted, prisoned, and burned so many learned and godly men, only for their true faith's sake, grounded upon God's most holy word, (men worthy to be compared with the old martyrs of the primitive church, as well for the constancy of their faith, as also for patience and charity shewed at their deaths,) but the church, as they call themselves? Who, by their cruel tyranny, hath enforced so many notable members of Christ (leaving wife, children, kinsfolk, lands and goods) cither to fly into strange realms, or else from town to town, from city to city, only because they would not drink of the venomous cup of the whore of Babylon? Who hath wrought all these wickednesses, but only the mitred prelates and their popish priests?
 
 If we shall allow them for the true church of God, that appear to be the visible and outward church, consisting of the ordinary succession of bishops, then shall we make Christ, which is an innocent lamb without spot, and in whom is found no Exod. xu. guile, to be the head of ungodly and disobedient members. Which thing is as imJ Pet'S possible as to make God, which is only good, and nothing but goodness itself, to be the author, original, and cause of all evil. For Christ, as he is pure, holy, and perfect, even so must his church and members be, to whom he, as the head, is adEphes. i. joined and coupled. But if we allow the pope, his cardinals, bishops, priests, monks, canons, friars, and the whole rabble of the clergy, to be this perfect church of God, whose doings are clean contrary, for the most part, to the will and commandment of Christ, left and expressed in his word written; then make we him a sinner, and his word of no effect9. For as sweet agreeth with sour, black with white, dark ness with light, and evil with good ; even so this outward, seen, and visible church, consisting of the ordinary succession of bishops, agreeth with Christ.
 
@@ -355,7 +354,7 @@ Mem. Vol. I. parti, pp. f»l«, ,r»2l. Oxford, 1822. This Sermon was intituled 
 
 11\. cap. v. Tom. IX. p. 140. Ed. Francof. 1G34. [8 1 Pet. ii. Grig. ed.J [9 None effect, Grig, ed.]
 
-14 CONFUTATION OF UNWRITTEN VERITIES.
+## 14 Confutation of Unwritten Verities
 
 give to all them that ask faithfully of him the certainty of good faith in their con science, taught and confirmed by the holy scriptures of the old and new Testament.
 
@@ -375,7 +374,7 @@ Matt, xxiii. them be sure that all the plagues which are written in the book of 
 
 [ ' Superstitions, Orig. ed.
 
-THE PREFACE.
+## The Preface
 
 m th( never withdraweth his mercy from us ; and though he punish us with adversity, yet doth he never forsake his people : " For whom," as St Paul saith, " the Lord loveth, Heb. xii.
 
@@ -403,7 +402,7 @@ Rimini was held, A.D. 359. Vid. Labbe et Cossart, Tom. II. col. 791. Ed. Lutet. 
 
 P With God's laws, Orig. ed.]
 
-10 CONFUTATION OF UNWRITTEN VERITIES.
+## 10 Confutation of Unwritten Verities
 
 and ratified by whole heaps of clerks. To speak against that was, and also now is, detestable heresy, and so heinous a crime against the Holy Ghost (if it were true that they say), that it cannot be forgiven cither in this world or in the world to come. These bo the He that spcaketh against any of his decrees must utterly be condemned for an heretic, Bx»ii?un~ accursed of God, and damned into hell for ever, without redemption, except he recant, toSrth abjure, and deny the truth, and set forth error and false doctrine, and promise with SSffijSk a solemn oath, that he shall never preach, teach, nor defend the truth hereafter. d£?t?M» Now let us come to our days. Whcn king Henry the eighth was, as he ought to be by God's law, made supreme head, as well of the clergy as of the laity, he, by the consent of the parliament and convocation, set forth in print a godly book of religion1, not much varying from that which was enacted in his son's time, Edward it was a small the sixth. But when he took displeasure with certain bishops, as they term them, of the new learning, because they would not give their consent in the parliament, that the king should have all abbey lands to his own use, but only such lands as were given by his ancestors, kings of England; and that the residue of those lands shoukf have been bestowed to augment the number of learned men in the universities; to the founding also of grammar schools in every shire of England, where children, most apt to learning, should have been brought up freely, and without great cost to their friends and kinsfolks; to the founding of hospitals, where poor and impotent people should have been sufficiently provided for with physicians and surgeons, 14. which should have ministered physic2 and surgery freely, not only to them, but also to all other poor folk within this realm; and also in every shire town, and other market towns, where should be thought most meet and fit, to set up divers occupa tions, most profitable for the commonwealth, where all valiant and sturdy beggars should have been set to work, and if they refused to labour, then to force them thereto by whipping, stocking, and hunger; and the residue of the abbey lands above these should have been reserved in the common treasuries, to aid the king in his wars, or other affairs of his realm, and thereby to have favoured and eased the more his subprivate comjects, in taxes, subsidies, fifteenths3, and loans, and such other like thing4 :— king Henry, ™oSS£. as I said before, upon the displeasure taken, and by the incitation of the old popish I-une°p2d bishops, shortly after, by consent of the same, or the most part of them, that were 'aml'bnmljhf' makers of the first book of religion, set forth by open parliament and convocation the in tyranny, g.^ j^k^ as wen arrreeing with the former parliament and the word of God, as black with white, light with darkness, Christ with Belial, or with antichrist. But after, when he was pacified with these foresaid bishops, considering that they spake against the king's profit, not of malice but of good conscience and zeal to God's glory and the commonwealth, he mitigated the Six Articles, and from that time forth, more and more, restored true religion. And I doubt not but, if he had lived, he would have brought all things to a better state than he left it. But Edward the sixth, his son, succeeding in his said father's place, by the advice of his uncle, the duke of Somerset, the lords of his council, bishops, and the clergy, set forth such a book of religion3, as without boast or dispraise of other be it spoken, was never a better set forth since the apostles' time.
 
@@ -411,7 +410,7 @@ Now, after that God had plagued this realm with the most grievous plague that ev
 
 [l "The godly and pious institution of a christhe reformation than the other.] dan man," published 1537, which was superseded [s Ministered both physic, Orig. ed.] by "A necessary doctrine and erudition of any ' [3 Fifteens, Orig. ed.] Christian man," in 1540; the latter book being in [4 Things, Orig. ed.] several points less favourable to the doctrines of ; [5 i. e. the Liturgy.]
 
-THE PREFACE.
+## The Preface
 
 Hath she not, being seduced by the perjured prelacies6, revoked and made of none effect so many godly laws enacted by parliament, that is, by the consent of the lords J"1^ both spiritual and temporal, the clergy and common house, yea, and by them that were the chief of king Henry her father's privy council, and setters on of him in the abo- {Sj^Sjot lishing of the bishop of Rome, even open preachers and writers against the pope's a"' waging tyranny, with so pithy reasons and strong arguments, as neither they themselves, nor r(^.tand any other after them, shall be able at any time rightly to assoil and answer? Yet these men were chief of counsel, and procurers of the queen, and first workers in the parliament to allure the lords and commons to receive the bishop of Rome again for the supreme head of this realm, contrary to God's law, the laws of this realm, and By their their own solemn oaths. And not only this, but they have taken away the acts of krj mortmain and praemunire, and divers other statutes that did bridle the unsatiate7 covetousness and licentious liberty of the popish priests, and restored the act ex qfficio3. Which thing if it should long continue in this state that it is in, the great treasure of this realm should come into the clergy's hands, and a great part thereof should fly to Rome for bishoprics, benefices, appellations, pardons, dispensations, and such other baggage.
 
@@ -437,7 +436,7 @@ TTodoV TOIS 06iOlS €V TVy^dvOVTa 7T6yOtO00i;j/ai 7TOT6'
 
 a'XXa KU.V civQpwTros ijfJiiv fJLij yivi\Ta.i ototi'ir/caXos, auTos 6 (5e(r7roTj;s dviafiev e^i/3«Teu6uf Tats Kapciat? Tats ij^CTc'/oais (/)a)Tt£ei TIJI/ didvoLav, KaTavyd^ci TOV Xoyicrfjiov, e/CKaXirTTTet TCC Xai/6az/oj/Ta, otoacr/caXos tj/utv yive-rat tiav dyvoovfUViav. Chrysost. in (lenes. Cap. xiii. Horn. xxxv. Tom. IV. pp. 349,50. Ed. Paris. 1J18—38.]
 
-CONFUTATION OF UNWRITTEN VERITIES.
+## Confutation of Unwritten Verities
 
 Matt. xxii. Mark xii.
 
@@ -457,7 +456,7 @@ THE PREFACE. 19 have in their mouths, though they seem never so glorious a churc
 
 God, suspect them, yea, rather, I bid you utterly to abhor and reject them. For their outward and seen church may, and doth (as is before proved) commonly err in great and weighty matters. Stand fast therefore to sound and good doctrine, and waver not. And " if any man come unto you, and bring not this doctrine with him, 2 John receive him not into your house : bid him not God speed," nor have ought to do with him; but count him as an abject from God and Christ. But cleave ye fast to the sound and certain doctrine of God's infallible word, written in the canonical books of the new and old Testament, which is able sufficiently to instruct you to eternal salvation, through Jesus Christ our Lord. To whom, with the Father and the Holy Ghost, be all honour and praise for ever and ever.
 
-THE BOOK TO THE READER,
+## The Book to the Reader
 
 18\. Judge not before
 
@@ -469,11 +468,11 @@ For truth is not bettered By praises at all, Nor harmed by dispraise Of any wigh
 
 Read me, then judge me, Therefore I thee pray, Nothing for my cause, But only thine own : For I shall endure, Whosoever say nay, When unwritten truths Shall be overthrown.
 
-UNWRITTEN VERITIES
+## Unwritten Verities
 
-BY DIVERS AUTHORITIES DILIGENTLY AND TRULY GATHERED TOGETHER OUT OF THE HOLY SCRIPTURES AND ANCIENT FATHERS.
+## By Divers Authorities Diligently and Truly Gathered Together out of the Holy Scriptures and Ancient Fathers
 
-THE FIRST CHAPTER.
+## The First Chapter
 
 That the word of God written, contained within the canon of the Bible, is a true, sound, perfect, and whole doctrine, containing in itself fully all things needful for our salvation.
 
@@ -511,7 +510,7 @@ That the word of God written, contained within the canon of the Bible, is a true
 
 [' Do anything, Orig. ed.] f2 With lips, Grig, ed.]
 
-22 A CONFUTATION [CHAP.
+## 22 a Confutation [Chap
 
 Horn, x. " Faith cometh by hearing, hearing cometh by the word of God."
 
@@ -529,7 +528,7 @@ c*ai. i. " Though we ourselves, or an angel from heaven, preach any other gospel
 
 itev. xxii. "If any man shall add unto these things, God shall add unto him the plagues that are written in this book. And if any man shall minish of the words of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from those things which are written in this book."
 
-THE SECOND CHAPTER.
+## The Second Chapter
 
 That t/ie Writings of the old Fathers, without the written Word of God, are not able to prove any doctrine in religion.
 
@@ -539,7 +538,7 @@ Tertullian, in the Prescriptions of Heretics, pa. 19. " It is not lawful for us 
 
 The apostles Jn Of nis Own mind. We have the apostles of the Lord for our authors, which did taught nothing but not elect any thing, that they would bring in, of their own heads ; but taught faiththey learned fully to all nations that doctrine that they had received of Christ. Therefore, although
 
-'an angel from heaven should preach any other thing, let us hold him accursed2.'" The first And a little after he saith : " We need to use no curiosity after Jesus Christ, point of be- lief is, that nor make further search after the gospel : for when we believe, we desire to believe pel no 3 other no more. For first we believe this, that there is nothing else that we ought to thing is to be believed. bellCVC .
+'an angel from heaven should preach any other thing, let us hold him accursed2.'" The first And a little after he saith : " We need to use no curiosity after Jesus Christ, point of be-lief is, that nor make further search after the gospel : for when we believe, we desire to believe pel no 3 other no more. For first we believe this, that there is nothing else that we ought to thing is to be believed. bellCVC .
 
 [* Quia autem parabolas possunt multas recipere absolutiones ; ex ipsis de inquisitione Dei affirmare, relinquentes quod certum et indubitatum et verum est, valde praecipitantium se in periculum, et irrationabilium esse, quis non amantium veritatem confitebitur ? Et numquid hoc est non in petra firma, et valida, et in aperto posita aedificare suam domum ; sed in incertum effusae arenac ? Unde et facilis est aversio hujusmodi aedificationis. Iren.
 
@@ -551,7 +550,7 @@ Lib. n. cap. xlvi. (xxvii.) p. 155. Ed. Paris. ' Jesum, nee inquisitione post ev
 
 [4 Nobis curiositate opus non est post Christum
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 Idem, Of the Flesh of Christ, pa. 20. against Apelles, which said that the angels had a bodily substance, which they took of the stars. Tertullian answereth, that " there is no certainty in this matter, because the scripture declareth it not5."
 
@@ -629,7 +628,7 @@ Xo/xat (rot (Ti'i/j.epov' Trepl de TWV (retrKa'Trrjfj.evwv
 
 Kavova vfjiiv e£e6eTO b aTrotrroXos IlauXos e'nruiu' irdvTa IULOL e£eo-TLV, dXX" ov irdvTa crvfirfrepei. irdvTa fioi efcevTtv, aXX" ov irdvTa OLKoco/j.el. Id. Regulae Breviores. Interrogatio prima. Tom. II. pp. 623,4.] [4 Et nihil amplius qua?ramus nos qui aliquid de Deo scrutari volumus, sed quantum nobis evangelicus sermo tradit. Isychius, in Levit. Lib. v. cap. xvi. fol. 91. Ed. Basil. 152J-]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 the apostle saith, ' He is not a Jew which is outward, &c.'), in like ma'nner the very
 
@@ -657,7 +656,7 @@ The same on the 7. of Matth. Horn. 19. Upon this text: "By their fruits ye shall
 
 Heretics The same in the same place, the 22. chapt. and 42. Homily. " Let us first allege be convinced the authority of the scriptures to the false forgers, afterward let us shew them reasons : tur«,*nd and to them that ask for any manner of purpose, first let us declare unto them the reason, and afterward the authority, that we may pacify them with reason, and stablish them with authority. For we ought to confute false interpreters, and instruct them that search V
 
-^e same) uPon the ^as* °f *ne Romans, upon this text: "I beseech you, brethwn.* "He saith, that dissensions and slanders, that is to say, heresies, are brought and *n °f those, which bring any thing besides the doctrine and learning of the apostles4." AH things The same, upon the latter epistle to Timothy, the third chapter. " There is no- terming by thing that cannot be determined by the scriptures, ' to reprove,' if it be to be reproved, re' that is to say, lies ; ' to correct, and to teach in righteousness.' If it be needful (saith he) that any should be corrected or instructed, that is, to be made continent and sober unto righteousness, and to execute those things that be just ; all that shall be given by the scripture, ' that the man of God may be perfect :' the amendment (saith he) is prepared by the scriptures, that nothing may be lacking to that man that walketh after God5." The holy The same, upon Matth. 22. cap. Horn. 4. "Whatsoever is required for our salva- scripture con- . . .... .
+^e same) uPon the ^as* °f *ne Romans, upon this text: "I beseech you, brethwn.* "He saith, that dissensions and slanders, that is to say, heresies, are brought and *n °f those, which bring any thing besides the doctrine and learning of the apostles4." AH things The same, upon the latter epistle to Timothy, the third chapter. " There is no-terming by thing that cannot be determined by the scriptures, ' to reprove,' if it be to be reproved, re' that is to say, lies ; ' to correct, and to teach in righteousness.' If it be needful (saith he) that any should be corrected or instructed, that is, to be made continent and sober unto righteousness, and to execute those things that be just ; all that shall be given by the scripture, ' that the man of God may be perfect :' the amendment (saith he) is prepared by the scriptures, that nothing may be lacking to that man that walketh after God5." The holy The same, upon Matth. 22. cap. Horn. 4. "Whatsoever is required for our salva-scripture con- . . .... .
 
 tainethaii tion is already contained in the holy scriptures. He that is ignorant, shall find there luiforour what he may learn; he that is stubborn, and a sinner, may find there scourges of the judgments to come, the which he may fear ; he that is troubled, may find there the joys and promises of everlasting life, through the beholding of the which he may be stirred to good works6."
 

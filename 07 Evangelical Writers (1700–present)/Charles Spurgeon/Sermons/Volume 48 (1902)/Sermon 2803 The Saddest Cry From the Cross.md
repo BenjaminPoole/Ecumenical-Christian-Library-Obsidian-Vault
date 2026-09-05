@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Saddest Cry From the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2803
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama Sabachthaani? That is to say, My God, My God, why have You forsaken Me." Matthew 27:46.
 
@@ -97,7 +94,7 @@ But those, whom I look upon with fear and trembling are the men who make a profe
 
 I have finished when I have just said this—as you come to the Table of your Lord, come, Brothers and Sisters, with this cry of Christ ringing in your ears to make you love Him more than ever and, as you eat the bread and drink the wine, do it all out of fervent love to Him! And the Lord bless you, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW27:27-54.
+## Exposition by C. H. Spurgeon: Matthew 27:27-54
 
 Verses 27-30. Then the soldiers of the governor took Jesus into the common hall and gathered unto Him the whole band of soldiers. And they stripped Him, and put on Him a scarlet robe. And when they had platted a crown of thorns, they put it upon His head, and a reed in His right hand, and they bowed the knee before Him and mocked Him, saying, Hail, King of the Jews! And they spit upon Him, and took the reed, and smote Him on the head. These soldiers were men to whom the taking of human life was mere amusement, or, at best, a duty to be performed. If the ordinary Roman citizen found his greatest delight in the amphitheater where men fiercely fought with each other, and shed each other's blood, or were devoured by wild beasts, you may imagine what Roman soldiers—the roughest part of the whole population—would be like! And now that One was given up into their hands, charged with making Himself a king, you can conceive what a subject for jest it was to them and how they determined to make all the mockery they could of this pre-
 
@@ -128,7 +125,6 @@ tended king! They were not touched by the gentleness of His demeanor, nor by His
 51\. And the earth did quake, and the rocks rent. Well says our poet—
 
 "Of feeling, all things show some sign But this unfeeling heart of mine." 52-54. And the graves were opened; and many bodies of the saints which slept, arose, and came out of the graves after His Resurrection, and went into the holy city, and appeared unto many. Now when the centurion, and they that were with Him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
-
 
 ---
 [[Sermon 2802 Lukewarmness|← #2802]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2804 Disobedience to the Gospel|#2804 →]]

@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Ezekiel 7:1-2
 
@@ -65,7 +64,7 @@ He repeats here almost the same words. We have explained the intention, namely, 
 
 ## Prayer Lecture 18
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we being admonished by such remarkable proofs of thy wrath, may learn to walk anxiously in thy sight, and so to bring ourselves into voluntary obedience to thyself, that the certain testimony to our gratuitous adoption may appear in our life; and grant that we may so prove ourselves to be sons, that we may truly invoke thee the Father, until we arrive at that blessed inheritance which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -137,7 +136,7 @@ He continues the same sentiment. He says, such was the slaughter of the people t
 
 ## Prayer Lecture 19
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast recalled us to thyself, that we may not grow torpid in our sins, nor yet become hardened by thy chastisements, but prevent in time thy final judgments, and so humble ourselves under thy powerful hand, that we may seriously testify and really prove our repentance, and so study to obey thee, that we may advance in newness of life more and more, until at length we put off all the defilements of the flesh, and arrive at the enjoyment of that eternal rest which thine only-begotten Son has acquired for us by his own blood, — Amen.
 
@@ -199,7 +198,7 @@ Afterwards he adds, *they shall seek a vision* Here the Prophet again shows that
 
 ## Prayer Lecture 20
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast hitherto deigned to guard us safely by thy power, and hast driven away so many violent assaults from us, and turned away so many perverse counsels of our enemies, and snatched us from numberless evils, — grant that we may so value thy benefits towards us that we may be grateful in return, and so devote ourselves obediently to thee, that thy holy name may be glorified through our whole life in thy only-begotten Son our Lord. — Amen.
 

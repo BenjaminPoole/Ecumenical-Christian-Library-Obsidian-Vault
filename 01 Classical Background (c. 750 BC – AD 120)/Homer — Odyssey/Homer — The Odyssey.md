@@ -11,7 +11,6 @@ tags:
   - classical
   - homer
 ---
-
 # The Odyssey
 *trans. Samuel Butler (prose)*
 
@@ -21,58 +20,17 @@ tags:
 
 [Illustration]
 
-
-
-
-The Odyssey
-
 by Homer
 
 rendered into English prose for the use of those who cannot read the
 original
-
-Contents
-
- PREFACE TO FIRST EDITION
- PREFACE TO SECOND EDITION
- THE ODYSSEY
- BOOK I.
- BOOK II.
- BOOK III.
- BOOK IV.
- BOOK V.
- BOOK VI.
- BOOK VII.
- BOOK VIII.
- BOOK IX.
- BOOK X.
- BOOK XI.
- BOOK XII.
- BOOK XIII.
- BOOK XIV.
- BOOK XV.
- BOOK XVI.
- BOOK XVII.
- BOOK XVIII.
- BOOK XIX.
- BOOK XX.
- BOOK XXI.
- BOOK XXII.
- BOOK XXIII.
- BOOK XXIV.
- FOOTNOTES:
-
 
 AL PROFESSORE
 CAV. BIAGIO INGROIA,
 PREZIOSO ALLEATO
 L’AUTORE RICONOSCENTE.
 
-
-
-
-PREFACE TO FIRST EDITION
-
+## Preface to First Edition
 
 This translation is intended to supplement a work entitled “The
 Authoress of the Odyssey”, which I published in 1897. I could not give
@@ -195,7 +153,6 @@ declare thou even unto us.
     the wide Trojan land? Wherefore wast thou then so wroth with him, O
     Zeus?’
 
-
 The “Odyssey” (as every one knows) abounds in passages borrowed from
 the “Iliad”; I had wished to print these in a slightly different type,
 with marginal references to the “Iliad,” and had marked them to this
@@ -261,7 +218,6 @@ very different one, with a climax for which no-one has asked her. For
 roughly the Return occupies eight Books, and Penelope and the Suitors
 sixteen.
 
-
 I believe this to be substantially correct.
 
 Lastly, to deal with a very unimportant point, I observe that the
@@ -278,16 +234,11 @@ cannot determine. No other Books of the “Odyssey” have initial capitals
 except the three mentioned unless the first word of the Book is a
 proper name.
 
-S. BUTLER.
-
+## S. Butler
 
 _July_ 25, 1900.
 
-
-
-
-PREFACE TO SECOND EDITION
-
+## Preface to Second Edition
 
 Butler’s Translation of the “Odyssey” appeared originally in 1900, and
 The Authoress of the Odyssey in 1897. In the preface to the new edition
@@ -350,22 +301,17 @@ that his work was being shepherded by the son of his old friend, Mr. H.
 R. Robertson, who more than half a century ago was a fellow-student
 with him at Cary’s School of Art in Streatham Street, Bloomsbury.
 
-HENRY FESTING JONES.
+## Henry Festing Jones
 
  120 MAIDA VALE, W.9.
 4th _December_, 1921.
 
-THE ODYSSEY
+## The Odyssey
 
-
-
-
-BOOK I
-
+## Book I
 
 THE GODS IN COUNCIL—MINERVA’S VISIT TO ITHACA—THE CHALLENGE FROM
 TELEMACHUS TO THE SUITORS.
-
 
 Tell me, O Muse, of that ingenious hero who travelled far and wide
 after he had sacked the famous town of Troy. Many cities did he visit,
@@ -482,7 +428,6 @@ and offered them many good things of what there was in the house, the
 carver fetched them plates of all manner of meats and set cups of gold
 by their side, and a manservant brought them wine and poured it out for
 them.
-
 
 Then the suitors came in and took their places on the benches and
 seats.3 Forthwith men servants poured water over their hands, maids
@@ -723,16 +668,11 @@ home by means of the strap.16 But Telemachus as he lay covered with a
 woollen fleece kept thinking all night through of his intended voyage
 and of the counsel that Minerva had given him.
 
-
-
-
-BOOK II
-
+## Book II
 
 ASSEMBLY OF THE PEOPLE OF ITHACA—SPEECHES OF TELEMACHUS AND OF THE
 SUITORS—TELEMACHUS MAKES HIS PREPARATIONS AND STARTS FOR PYLOS WITH
 MINERVA DISGUISED AS MENTOR.
-
 
 Now when the child of morning, rosy-fingered Dawn, appeared Telemachus
 rose and dressed himself. He bound his sandals on to his comely feet,
@@ -1099,14 +1039,9 @@ everlasting, but more particularly to the grey-eyed daughter of Jove.
 Thus, then, the ship sped on her way through the watches of the night
 from dark till dawn.
 
+## Book III
 
-
-
-BOOK III
-
-
-TELEMACHUS VISITS NESTOR AT PYLOS.
-
+## Telemachus Visits Nestor at Pylos
 
 but as the sun was rising from the fair sea24 into the firmament of
 heaven to shed light on mortals and immortals, they reached Pylos the
@@ -1526,15 +1461,10 @@ completed their journey, so well did their steeds take them.35
 
 Now when the sun had set and darkness was over the land,
 
-
-
-
-BOOK IV
-
+## Book IV
 
 THE VISIT TO KING MENELAUS, WHO TELLS HIS STORY—MEANWHILE THE SUITORS
 IN ITHACA PLOT AGAINST TELEMACHUS.
-
 
 they reached the low lying city of Lacedaemon, where they drove
 straight to the abode of Menelaus36 [and found him in his own house,
@@ -2256,14 +2186,9 @@ Asteris, of no great size, in mid channel between Ithaca and Samos, and
 there is a harbour on either side of it where a ship can lie. Here then
 the Achaeans placed themselves in ambush.
 
+## Book V
 
-
-
-BOOK V
-
-
-CALYPSO—ULYSSES REACHES SCHERIA ON A RAFT.
-
+## Calypso—ulysses Reaches Scheria on a Raft
 
 And now, as Dawn rose from her couch beside Tithonus—harbinger of light
 alike to mortals and immortals—the gods met in council and with them,
@@ -2663,14 +2588,9 @@ Ulysses cover himself up with leaves; and Minerva shed a sweet sleep
 upon his eyes, closed his eyelids, and made him lose all memories of
 his sorrows.
 
+## Book VI
 
-
-
-BOOK VI
-
-
-THE MEETING BETWEEN NAUSICAA AND ULYSSES.
-
+## The Meeting Between Nausicaa and Ulysses
 
 So here Ulysses slept, overcome by sleep and toil; but Minerva went off
 to the country and city of the Phaeacians—a people who used to live in
@@ -2963,14 +2883,9 @@ Thus did he pray, and Minerva heard his prayer, but she would not show
 herself to him openly, for she was afraid of her uncle Neptune, who was
 still furious in his endeavors to prevent Ulysses from getting home.
 
+## Book VII
 
-
-
-BOOK VII
-
-
-RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS.
-
+## Reception of Ulysses at the Palace of King Alcinous
 
 Thus, then, did Ulysses wait and pray; but the girl drove on to the
 town. When she reached her father’s house she drew up at the gateway,
@@ -3268,14 +3183,9 @@ So Ulysses slept in a bed placed in a room over the echoing gateway;
 but Alcinous lay in the inner part of the house, with the queen his
 wife by his side.
 
+## Book VIII
 
-
-
-BOOK VIII
-
-
-BANQUET IN THE HOUSE OF ALCINOUS—THE GAMES.
-
+## Banquet in the House of Alcinous—the Games
 
 Now when the child of morning, rosy-fingered Dawn, appeared, Alcinous
 and Ulysses both rose, and Alcinous led the way to the Phaeacian place
@@ -3776,15 +3686,10 @@ relations a man has outside his own flesh and blood? or was it some
 brave and kindly-natured comrade—for a good friend is as dear to a man
 as his own brother?”
 
-
-
-
-BOOK IX
-
+## Book IX
 
 ULYSSES DECLARES HIMSELF AND BEGINS HIS STORY—-THE CICONS, LOTOPHAGI,
 AND CYCLOPES.
-
 
 And Ulysses answered, “King Alcinous, it is a good thing to hear a bard
 with such a divine voice as this man has. There is nothing better or
@@ -4273,14 +4178,9 @@ took their places and smote the grey sea with their oars; so we sailed
 on with sorrow in our hearts, but glad to have escaped death though we
 had lost our comrades.
 
+## Book X
 
-
-
-BOOK X
-
-
-AEOLUS, THE LAESTRYGONES, CIRCE.
-
+## Aeolus, the Laestrygones, Circe
 
 “Thence we went on to the Aeolian island where lives Aeolus son of
 Hippotas, dear to the immortal gods. It is an island that floats (as it
@@ -4771,14 +4671,9 @@ by the ship. She passed through the midst of us without our knowing it,
 for who can see the comings and goings of a god, if the god does not
 wish to be seen?
 
+## Book XI
 
-
-
-BOOK XI
-
-
-THE VISIT TO THE DEAD.88
-
+## The Visit to the Dead.88
 
 “Then, when we had got down to the sea shore we drew our ship into the
 water and got her mast and sails into her; we also put the sheep on
@@ -5301,14 +5196,9 @@ once and loose the hawsers; so they embarked and took their places,
 whereon the ship went down the stream of the river Oceanus. We had to
 row at first, but presently a fair wind sprang up.
 
+## Book XII
 
-
-
-BOOK XII
-
-
-THE SIRENS, SCYLLA AND CHARYBDIS, THE CATTLE OF THE SUN.
-
+## The Sirens, Scylla and Charybdis, the Cattle of the Sun
 
 “After we were clear of the river Oceanus, and had got out into the
 open sea, we went on till we reached the Aeaean island where there is
@@ -5702,14 +5592,9 @@ powerful goddess Calypso. She took me in and was kind to me, but I need
 say no more about this, for I told you and your noble wife all about it
 yesterday, and I hate saying the same thing over and over again.”
 
+## Book XIII
 
-
-
-BOOK XIII
-
-
-ULYSSES LEAVES SCHERIA AND RETURNS TO ITHACA.
-
+## Ulysses Leaves Scheria and Returns to Ithaca
 
 Thus did he speak, and they all held their peace throughout the covered
 cloister, enthralled by the charm of his story, till presently Alcinous
@@ -6081,14 +5966,9 @@ sling it over his shoulder.
 When the pair had thus laid their plans they parted, and the goddess
 went straight to Lacedaemon to fetch Telemachus.
 
+## Book XIV
 
-
-
-BOOK XIV
-
-
-ULYSSES IN THE HUT WITH EUMAEUS.
-
+## Ulysses in the Hut with Eumaeus
 
 Ulysses now left the haven, and took the rough track up through the
 wooded country and over the crest of the mountain till he reached the
@@ -6534,16 +6414,11 @@ attack from men or dogs. Thus equipped he went to his rest where the
 pigs were camping under an overhanging rock that gave them shelter from
 the North wind.
 
-
-
-
-BOOK XV
-
+## Book XV
 
 MINERVA SUMMONS TELEMACHUS FROM LACEDAEMON—HE MEETS WITH THEOCLYMENUS
 AT PYLOS AND BRINGS HIM TO ITHACA—ON LANDING HE GOES TO THE HUT OF
 EUMAEUS.
-
 
 But Minerva went to the fair city of Lacedaemon to tell Ulysses’ son
 that he was to return at once. She found him and Pisistratus sleeping
@@ -7014,14 +6889,9 @@ could, till he reached the homestead where his countless herds of swine
 were feeding, and where dwelt the excellent swineherd, who was so
 devoted a servant to his master.
 
+## Book XVI
 
-
-
-BOOK XVI
-
-
-ULYSSES REVEALS HIMSELF TO TELEMACHUS.
-
+## Ulysses Reveals Himself to Telemachus
 
 Meanwhile Ulysses and the swineherd had lit a fire in the hut and were
 were getting breakfast ready at daybreak, for they had sent the men out
@@ -7425,17 +7295,12 @@ ate it, and every man had his full share so that all were satisfied. As
 soon as they had had enough to eat and drink, they laid down to rest
 and enjoyed the boon of sleep.
 
-
-
-
-BOOK XVII
-
+## Book XVII
 
 TELEMACHUS AND HIS MOTHER MEET—ULYSSES AND EUMAEUS COME DOWN TO THE
 TOWN, AND ULYSSES IS INSULTED BY MELANTHIUS—HE IS RECOGNISED BY THE DOG
 ARGOS—HE IS INSULTED AND PRESENTLY STRUCK BY ANTINOUS WITH A
 STOOL—PENELOPE DESIRES THAT HE SHALL BE SENT TO HER.
-
 
 When the child of morning, rosy-fingered Dawn, appeared, Telemachus
 bound on his sandals and took a strong spear that suited his hands, for
@@ -7964,15 +7829,10 @@ went back to his pigs. As for the suitors, they presently began to
 amuse themselves with singing and dancing, for it was now getting on
 towards evening.
 
-
-
-
-BOOK XVIII
-
+## Book XVIII
 
 THE FIGHT WITH IRUS—ULYSSES WARNS AMPHINOMUS—PENELOPE GETS PRESENTS
 FROM THE SUITORS—THE BRAZIERS—ULYSSES REBUKES EURYMACHUS.
-
 
 Now there came a certain common tramp who used to go begging all over
 the city of Ithaca, and was notorious as an incorrigible glutton and
@@ -8348,16 +8208,11 @@ drink-offerings to the blessed gods: Then, when they had made their
 drink-offerings and had drunk each one as he was minded, they took
 their several ways each of them to his own abode.
 
-
-
-
-BOOK XIX
-
+## Book XIX
 
 TELEMACHUS AND ULYSSES REMOVE THE ARMOUR—ULYSSES INTERVIEWS
 PENELOPE—EURYCLEA WASHES HIS FEET AND RECOGNISES THE SCAR ON HIS
 LEG—PENELOPE TELLS HER DREAM TO ULYSSES.
-
 
 Ulysses was left in the cloister, pondering on the means whereby with
 Minerva’s help he might be able to kill the suitors. Presently he said
@@ -8861,17 +8716,12 @@ She then went upstairs to her own room, not alone, but attended by her
 maidens, and when there, she lamented her dear husband till Minerva
 shed sweet sleep over her eyelids.
 
-
-
-
-BOOK XX
-
+## Book XX
 
 ULYSSES CANNOT SLEEP—PENELOPE’S PRAYER TO DIANA—THE TWO SIGNS FROM
 HEAVEN—EUMAEUS AND PHILOETIUS ARRIVE—THE SUITORS DINE—CTESIPPUS THROWS
 AN OX’S FOOT AT ULYSSES—THEOCLYMENUS FORETELLS DISASTER AND LEAVES THE
 HOUSE.
-
 
 Ulysses slept in the cloister upon an undressed bullock’s hide, on the
 top of which he threw several skins of the sheep the suitors had eaten,
@@ -9217,15 +9067,10 @@ can be conceived more gruesome than the meal which a goddess and a
 brave man were soon to lay before them—for they had brought their doom
 upon themselves.
 
-
-
-
-BOOK XXI
-
+## Book XXI
 
 THE TRIAL OF THE AXES, DURING WHICH ULYSSES REVEALS HIMSELF TO EUMAEUS
 AND PHILOETIUS
-
 
 Minerva now put it in Penelope’s mind to make the suitors try their
 skill with the bow and with the iron axes, in contest among themselves,
@@ -9600,15 +9445,10 @@ crowning ornaments of a banquet.”
 As he spoke he made a sign with his eyebrows, and Telemachus girded on
 his sword, grasped his spear, and stood armed beside his father’s seat.
 
-
-
-
-BOOK XXII
-
+## Book XXII
 
 THE KILLING OF THE SUITORS—THE MAIDS WHO HAVE MISCONDUCTED THEMSELVES
 ARE MADE TO CLEANSE THE CLOISTERS AND ARE THEN HANGED.
-
 
 Then Ulysses tore off his rags, and sprang on to the broad pavement
 with his bow and his quiver full of arrows. He shed the arrows on to
@@ -10029,15 +9869,10 @@ pressed round Ulysses to embrace him, kissing his head and shoulders
 and taking hold of his hands. It made him feel as if he should like to
 weep, for he remembered every one of them.179
 
-
-
-
-BOOK XXIII
-
+## Book XXIII
 
 PENELOPE EVENTUALLY RECOGNISES HER HUSBAND—EARLY IN THE MORNING
 ULYSSES, TELEMACHUS, EUMAEUS, AND PHILOETIUS LEAVE THE TOWN.
-
 
 Euryclea now went upstairs laughing to tell her mistress that her dear
 husband had come home. Her aged knees became young again and her feet
@@ -10356,16 +10191,11 @@ the gates and sallied forth, Ulysses leading the way. It was now
 daylight, but Minerva nevertheless concealed them in darkness and led
 them quickly out of the town.
 
-
-
-
-BOOK XXIV
-
+## Book XXIV
 
 THE GHOSTS OF THE SUITORS IN HADES—ULYSSES AND HIS MEN GO TO THE HOUSE
 OF LAERTES—THE PEOPLE OF ITHACA COME OUT TO ATTACK ULYSSES, BUT MINERVA
 CONCLUDES A PEACE.
-
 
 Then Mercury of Cyllene summoned the ghosts of the suitors, and in his
 hand he held the fair golden wand with which he seals men’s eyes in
@@ -10825,10 +10655,7 @@ Thus spoke Minerva, and Ulysses obeyed her gladly. Then Minerva assumed
 the form and voice of Mentor, and presently made a covenant of peace
 between the two contending parties.
 
-
-
-
-FOOTNOTES:
+## Footnotes
 
 [1] [ Black races are evidently known to the writer as stretching all
 across Africa, one half looking West on to the Atlantic, and the other

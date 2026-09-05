@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 22
 
-**CHAPTER 22**
+***Chapter 22***
 
 ## Joshua 22:1-9
 

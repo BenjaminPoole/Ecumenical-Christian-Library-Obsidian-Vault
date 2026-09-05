@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Great White Throne
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 710
 
-DELIVERED ON SUNDAY EVENING, AUGUST 12, 1866,.
+*Delivered on Sunday Evening, August 12, 1866*
 
 > "And I saw a great white throne, and Him that sat on it, from whose face the earth and the Heaven fled away. And there was found no place for them." Revelation 20:11.
 
@@ -148,7 +147,6 @@ Oh, may the Holy Spirit put life into these poor words of mine, and may the Lord
 If you can get a grip of the Cross, and stand there beneath the crimson canopy of the Atonement, God Himself cannot smite you, and the Last Great Day shall dawn upon you with splendor and delight, and not with gloom and terror. I must send you away, but not until all Believers present have given you an invitation to return to the Lord Jesus. To do this we will sing the following verses—
 
 "Return, O wanderer, to your home. Your Father calls for you! No longer now an exile roam In guilt and misery, Return, return! Return, O wanderer, to your home, 'Tis Jesus calls for you! The Spirit and the bride say, Come! Oh now for refuge flee; Return, return. Return, O wanderer, to your home, 'Tis madness to delay! There are no pardons in the tomb, And brief is mercy's day. Return! Return!"
-
 
 ---
 [[Sermon 0709 Kicking Against The Pricks|← #709]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0711 A Feast For Faith|#711 →]]

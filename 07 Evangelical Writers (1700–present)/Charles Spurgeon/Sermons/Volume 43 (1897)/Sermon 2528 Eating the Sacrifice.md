@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Eating the Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2528
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they shall eat those things wherewith the atonement was made, to consecrate and to sanctiiy them: but a stranger shall not eat thereof, because they are holy." Exodus 29:33.
 
@@ -91,7 +88,7 @@ But you must get away from your stranger husband, for if you cleave to him, you 
 
 The other day, one who had been attending a religious service and mocking and jesting at everything sacred, said, when he was talked to about it, "Oh, but I am a Christian! Jesus died for me." It was a lie! He had neither part nor lot in the matter, or else he could not have acted profanely as he did! And there are others who talk as he did, but I tell you, Sirs, whatever you say, this is what God says, "A stranger shall not eat thereof." If you have not been born again, you cannot feed upon Christ! But, oh, if you will look to Him who died for the sinner, then you shall feed upon Him who lives for the saint! God Bless you in both these respects, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:41-71.
+## Exposition by C. H. Spurgeon: John 6:41-71
 
 Verse 41. The Jews then murmured at Him—That is, at our blessed Lord. "The Jews then murmured at Him."
 
@@ -132,7 +129,6 @@ Yet I wonder and am astonished at our Lord and Master's course of proceeding, th
 68\. Answered Him, Lord, to whom shall we go? You have the Words of eternal life. That was a very conclusive way of answering one question by another—"Will you also go away?" "Lord, to whom shall we go? You have the Words of eternal life." Brother, Sister, if we wandered from Christ, where could we go? And how can we leave Him when He has the Words of eternal life?
 
 69-71. And we believe and are sure that You are that Christ, the Son of the living God. Jesus answered them, Have not I chosen you twelve, and one ofyou is a devil? He spoke of Judas Iscariot the son of Simon: for he it was that should betray Him, being one of the twelve.
-
 
 ---
 [[Sermon 2527 David's Five-stringed Harp|← #2527]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2529 Compassion on the Ignorant|#2529 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Secret of Happiness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3227
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Son, be of good cheer; your sins are forgiven you." Matthew 9:2.
 
@@ -85,7 +82,7 @@ Possibly your heart is hardened and you mean to brazen it out before God and, li
 
 "Believe on the Lord Jesus Christ, and you shall be saved," and He will say to you as He said to the man sick of the palsy, "Be of good cheer; your sins are forgiven you." God grant that it may be so with many here, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM62.
+## Exposition by C. H. Spurgeon: Psalm 62
 
 [The Exposition belonging to the above Sermon is too long for the space available so it has been transferred to Sermon #3228, (next sermon) Volume 56—"OH, HOW HE LOVES."]
 
@@ -118,7 +115,6 @@ attacking a man?" He speaks as if it were nothing but imagination—it would nev
 11\. God has spoken once; twice have I heard this; that power belongs unto God. Hear that, Christian, and from this day forward place no reliance upon yourself, or upon any but your God!
 
 12\. Also unto you, O Lord, belongs mercy: for You render to every man according to his work. God gives to each Christian Grace proportioned to his work, and then He gives a reward—not of merit, but of mercy, in proportion to the work done. God grant us the Grace to read, mark, learn and inwardly digest this most instructive Psalm until our souls, like David's, truly wait only upon God!
-
 
 ---
 [[Sermon 3226 Figs and Olives|← #3226]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3228 'Oh, How He Loves!'|#3228 →]]

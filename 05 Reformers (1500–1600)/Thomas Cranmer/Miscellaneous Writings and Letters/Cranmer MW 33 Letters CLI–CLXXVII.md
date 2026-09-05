@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 33. Letters CLI–CLXXVII
 
 S. I COMMEND me unto you, &c. These be to certify yon of the king's pleasure, how u~ *'iat ^*s Sracc ls contented that ye shall be admitted to preach on all the Wednesdays of this next Lent before him. Whereupon I thought it very expedient, for divers considera tions reasonably me moving thereto, to admonish you of certain things in no wise to be neglect and omitted on your behalf in time of your preaching; which to observe and follow according to mine advice hereafter to you prescribed, shall at the length redound to your no little laud and praise.
@@ -27,29 +26,25 @@ f1 This letter has no address affixed, but as it follows in the MSS. the letter 
 
 but the mayor (permitting laymen to preach) caused divers priests to be apprehended and cast into New gate, with bolts upon them, and divers other ran away and lost their livings, rather than come to the mayor's handling." Stow's Annals, p. 570, Ed. Lond. 1615. Vid. Strype's Eccl. Mem. Vol. I. p. 245, Ed. Oxon. 1822, who places these events as occurring A. D. 1533; also Letters of Latimer. Foxe's Acts and Monuments, p. 1741, Ed. 15H3. "Also Wilkins' Concilia, Vol. III. p. 760, for Stokesley's inhibition of master Hugh Latymer from preaching within the diocese of London, dated the 2nd of October, 1533."]
 
-CLII. TO THE DEAN OF THE CHAPEL ROYAL.
+## CLII. To the Dean of the Chapel Royal
 
 MASTER dean, in my right hearty wise I commend me unto you. And whereas iiari. MSS. master Latymer, a man of singular learning, virtuous example of living, and sincere copy. ' preaching the word of God, hath lately been endangered, and suffered great obloquy3; and also I myself, for justly licensing him to preach within the precincts and limits of my province, have been likewise misreported ; I intending evermore the furtherance of the truth and the pure dispensation of the word of God, in consideration of my discharge, declaration of master Latymer, and satisfaction of such misreporters, have most humbly desired and sued unto the king's highness, to grant unto the said master Latymer licence to preach before his grace all the Wednesdays of this next Lent ensuing. There fore these shall be to desire and require you, upon the king's pleasure thus known, for to discharge the assignment already appointed, or hereafter to be, to any person in that behalf, and require him (if any such be) to be contented with the same; for I, upon the king's pleasure thus willing, have already admonished the said master Latymer to pro vide therefore.
 
 Furthermore, these shall be heartily to desire you also, that my old acquainted friend, master Shaxton4, the queen's grace's almoner, may be assigned likewise to preach the third Sunday in Lent before the king's grace; and that you will forthwith, upon the sight hereof, ascertain me in your letters by this bearer, accordingly to the king's grace's said pleasure and my request. For thus doing you shall have me ready to accomplish condignly your requests, and shew unto you like pleasure from time to time. At Otford, the ixth day of July5.
 
-CLIII. TO CRUMWELL.
+## CLIII. To Crumwell
 
 RIGHT worshipful, in most hearty wise I commend me unto you. And forasmuch state Paper as at my late request you were content to accept Mr Newman6 into your service ; I here Suaneou*'*" send him unto you now, for his further advertisement of your pleasure in that behalf, Temp^'Hen. not doubting but that you shall be sure both to have of him a right honest and Ses. TVO"! faithful servant, and also no less diligent service. And therefore I beseech you, and Original. that the rather at this mine instance, to be his special good master. Thus heartily fare you well. At Lambeth, the 12th day of July.
 
 Your own assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right worshipful and my singular good friend^ master secretary.
 
-CLIV. TO CRUMWELL.
+## CLIV. To Crumwell
 
 RIGHT worshipful master secretary, most heartily I have me commended unto you : state Pa»*r and by this bearer I have sent you herewith inclosed two letters, one superscribed unto original11*" my lord of Wiltshire, and the other unto me ; which letters I have sent with expedition ho unto you, because they concern as well you as words of treason unto the king, which
-
-[3 See Letter CLI. p. 308.]
-
-[4 See Letter CX1X. p. 293.]
 
 | 5 Dr Jenkyns thinks that this may be a clerical error for January, and in arranging this and the preceding letter he has preferred Stow's date of the controversy at Bristol to that of Strype ; but he says the point is exceedingly doubtful, for if Strype is correct, these two letters were probably written in January 1534. Remains of Abp. Cranmer, Vol. I. pp. 125, ti.J
 
@@ -59,11 +54,11 @@ treason I pray you to detect unto the king's highness, which I am most sure you 
 
 Your own ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To mine especial (jood friend, master secretary unto the kings high ness.
 
-CLV. TO CRUMWELL.
+## CLV. To Crumwell
 
 state Taper RIGHT worshipful, in my most hearty wise I commend me unto you. And whereas original. among other of the king's dominions, within this his realm, there is no part (in my oferanm.r, opinion) that more needeth good instruction of the word of God, or aid of learned curates to be resident, than doth the town and marches of Calice, considering specially, not alonely the great ignorance and blindness as well of the heads now resident there, as of the common and vulgar people, in the doctrine and knowledge of scripture, but also having respect unto the universal concourse of aliens and strangers, which daily diverteth and resorteth thither; I think that it will no less be a charitable and godly deed than a singular commodity for this realm, to have in those parties at the least two learned persons planted and settled there by the king's authority in some honest living, whose sincerity in conversation of living and teaching shall shortly (no doubt) clearly extinct and extirpate all manner of hypocrisy, false faith, and blindness of God and his word, wherein now the inhabitants there be altogether wrapt, to the no little slander (I fear me) of this realm, and prejudice of the good and laudable acts2 lately conceived by the king's grace and his high court of parliament ; which thing to reform lieth much in you, in case you will but move the king's highness (forasmuch as the collations of the benefices there belongeth unto his grace) to give them, as they fall, unto such men as be both able and willing to do God and his grace acceptable service in discharging of their cures.
 
@@ -85,17 +80,17 @@ Over this I beseech you to be good master unto this bearer, Henry Turncy4; for, 
 
 Your own ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right rcorshipful and my singular good friend, Mr Secretary.
 
-CLVI. TO CRUMWELL.
+## CLVI. To Crumwell
 
 RIGHT worshipful, in my most hearty wise I commend me unto you. And whereas ^utc rapo this bearer informeth me, that you are advertised how that I should complain of him original. unto the king's council for his preaching ; surely I do not a little marvel that you will think in me such lightness to complain of him, by whom I know no fault. This is true, that when I was at the court, there were some persons which complained unto me of him, to whom I gave less credence, by cause that afore time I heard good report of him by many honest, sober, and discreet men ; which thing made me say these words unto the complainers : " That forsomuch as I heard divers times so many of both parties, some laud and some dispraise him, I could not tell to whom to give credence." And now again, since I came unto Kent, I have had complaints of him by divers, and of them that should seem honest and credible ; and neverthe less divers other very honest men and of good judgments, which both heard and under stood him, doth report contrary, testifying that lie is nothing culpable of the tilings laid against him : wherefore, the matter standing in this controversy, I am enforced rather to believe them which report well by him than the other ; for in mine opinion the other commonly be such persons as little regard the promoting of the gospel, but be rather papistical and superstitious. I therefore require you, for nothing that either hath been reported unto me of him, or for any thing that the uncertain fame hath conceived without due proof of him, you will thereby withdraw your favour from him ; for if you should do so, it should be a great discourage for learned men which favoureth the truth, to take any pains on them in setting forth of the same ; whose labours and endeavours were never more need to be had and esteemed than now at this season. Thus our Lord have you in his tuition! At Wingham, 12. day of October. [1535.]
 
 Your assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To mine especial and singular friend, master secretary.
 
@@ -103,19 +98,19 @@ To mine especial and singular friend, master secretary.
 
 [5 The postscript is in the Archbishop's hand.]
 
-CLVII. TO CRUMWELL.
+## CLVII. To Crumwell
 
 state r.ij)cr RIGHT worshipful, in my most hearty wise I commend me vmio you. And whereas original. the priors of Davyngton did hold of the bishops of Canterbury for the time being thirty-five acres of wood, parcel of Okcnfold wood, and nineteen acres of land in Davyngton aforesaid, and eight acres in Tenam, within the county of Kent; which, by reason that the said house is dissolved1, ought of right to escheat to me, as in the right of the see of Canterbury, as this bearer shall declare unto you more at large ; I therefore right heartily desire you, that the said parcels may not be put ne specified within the office to be found for the king, so that by your lawful favour in this behalf I may the better come to the trial of my right: wherein you shall bind mo to shew unto you such pleasure as lieth in me to do accordingly. Thus our Lord have you in his tuition ! At Ford, the 17. day of October. [1535.]
 
 Your assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right worshipful and my singular good friend, -master secretary.
 
 State Paper Office. Ibid. Original.
 
-CLVIII. TO CRUMWELL.
+## CLVIII. To Crumwell
 
 RIGHT worshipful master secretary, in my right hearty wise I commend me unto you : even so praying you to be good master for my sake unto doctor Thornidoo, warden of the manors of Christ Church in Canterbury, and to the cellerar of the same. And first, as touching my suit for the said warden of the manors ; I beseech you heartily that he may continue in the said office, like as you have granted unto the warden of the manors of St Swythin in Winchester.
 
@@ -133,11 +128,11 @@ And thus fare yo the doctor as the said cellerar, as I may deserve it unto you. 
 
 Your own assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right worshipful and my singular good friend, Master Crumwell.
 
-CLIX. TO CRUMWELL.
+## CLIX. To Crumwell
 
 RIGHT worshipful, in my right hearty wise I commend me unto you. These be state Paper to desire you to be good master unto this bearer, Henry Turney4. For notwithoriginal. standing your other two favourable letters in his behalf, he is never the better regarded : wherefore if you be not otherwise his only aid and help, so that he may by your means obtain the king's grace's letters according to the tenor herein inclosed, or in such like manner, he is like to be utterly cast away; which for many considera tions in mine opinion would (specially in this corrupt world) be no good precedent in setting forth of the truth. I therefore pray you to continue good master unto him, as you have hitherto done; wherein you shall do a charitable deed worthy to be rewarded of God ; who preserve you in long health ! At Dover, the 27 day of October. [1535.]
 
@@ -145,9 +140,9 @@ Your assured ever,
 
 To the r\(jlit worshipful and my singular good friend, Mr Secretary.
 
-T. CANTUARIEN.
+## T. Cantuarien
 
-CLX. TO CRUMWELL.
+## CLX. To Crumwell
 
 AFTER most hearty commendations : this shall be to advertise you, that lately I state Paper received a letter from you, whereby I understand that you have been advertised, original! bld that I, pretending title to certain woods in Okenfold and to certain lands in Denham lately belonging to the house of Davyngton5, and my brother8 in like manner to the benefice sometime impropried to the same, have lately by our friends and servants stayed the verdict that should have been given by the inquest charged for the king upon the same.
 
@@ -159,11 +154,7 @@ And as touching mine own self, I never went about to stay the verdict, but f4 Vi
 
 Thomas Cheney. Hasted's History of Kent, Vol. II. p. 726." Ed. Canter. 17/8—99. Vid. Letter CLVII. p. 312. Jenkyns' Remains of Abp. Cranmer, Vol. I. p. 150, n. g.]
 
-[6 Vid. Letter LXXV. p. 268.]
-
 [7 This letter is here torn, and it is defaced in other places from damp.]
-
-3J4 LETTERS. [1535.
 
 would have been as glad that the quest should have passed according to their con sciences, as they would themselves. Only, being informed by every man that I heard speak, which were of learning and experience, that I had a just title, I made my claim, and caused the quest to be informed of my title, neither staying the true verdict, (as you were informed,) nor by any means procuring that the quest should otherwise do than their consciences should judge right. And where you do write unto me very friendly, that you would be sorry it should come to the king's highncss's knowledge that I should weigh in any matter against him, I would you saw the very bottom of my heart herein; for I trust that I have so conceived justice into my heart, that I shall not for so small a matter, nor yet for any other worldly thing, be it never so great, weigh in any wise contrary to right against the poorest subject within the king's highncss's realm. And I am assured the king's grace's mind is, not to do wrong unto any subject he hath ; and if I knew that it were his grace's pleasure to have my title in the said lands, I wrould be more desirous to give it unto his highness, than he can be to have it. But forsomuch as I know not but his grace would that I should have it, if my title be good, I must needs make my claim and declare my title ; else I must lose it, be it never so just.
 
@@ -187,7 +178,7 @@ I thank you heartily for that you be so good master unto Dr Peter4, as I am info
 
 To the right worship/id and my singular friend, master secretary.
 
-CLXI. TO CRUMWELL.
+## CLXI. To Crumwell
 
 RIGHT worshipful, in my most hearty wise I commend me unto you. And albeit state Paper that many times heretofore I have been fully purposed and minded most effectually original. and earnestly to write unto you in the favour of this bearer, my friend Sir John Markham, touching his business and suits now depending before my Lord Chancellor ; yet inasmuch as he hath always testified unto me that you were much better unto him than he could wish or desire, I have deferred the same hitherto, right heartily desiring and praying you, as you have always been his special good master and friend, so you will, the rather at this my request, continue ; and specially now touching this his suit before my lord chancellor, so that by your favourable word he may be the more indifferently heard, and have the sooner an end in the same : for I assure you he is the gentleman, whom, amongst all other, I never knew none that hath ordered himself so uprightly in quietness amongs his neighbours within his country, as he hath ever done, or that is universally better beloved, saving that he is only hated of him whom no man can favour or love. I therefore eftsoons beseech you to help that he be dis charged of this his unquiet vexation and trouble, none otherways but as it shall seem to you just so to do ; wherein you shall not alonely shew unto me no small plea sure, but also be sure to do for a right honest gentleman. Thus our Lord preserve you. At Ford, the iii. day of November. Q1535.]
 
@@ -199,17 +190,17 @@ Mejrynge hath desired me to write unto you in his favour, whose letter1 I have s
 
 Your assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To mine especial good friend, master secretary, this be delivered.
 
-CLXII. TO LORD LISLE2.
+## CLXII. To Lord Lisle 2
 
 AFTER my right hearty commendations to your lordship. This shall be to yield unto the same my hearty thanks for your pains taken with my loving friend Sir Edward Kyngisley in provision of such wines as are sent unto Canterbury for me against this time ; wherein you have shewed unto me no small pleasure : requiring your lordship of your like assistance in the provision of the rest, for the which I have written my mind unto the said Sir Edward Kyngisley. And if there be any pleasure here that I may shew unto you or any of yours, I pray you to be as bold of me; beseeching you, my lord, that I may be heartily commended unto my lady your wife. Thus, my lord, most heartily fare you well. At Croydon, the 17th day of November. [1535.]
 
 Your lordship's
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my eery loving lord, my lord deputy of Calais.
 
@@ -221,9 +212,9 @@ State Paper " Most reverend and honourable father in God Office. Misand my most 
 
 " To his most reverend and honourable father in God, and my most singular good lord, my lord archbishop of Canterbury's good grace."] [2 This letter has never been before printed : the date is doubtful, but upon examination of the other letters of the archbishop, it seems probable that it was written in this year.]
 
-1535.] LETTERS.
+## 1535.] Letters
 
-CLXIII. TO CRUMWELL.
+## CLXIII. To Crumwell
 
 RIGHT worshipful, in my most hearty wise I commend me unto you. These shall be to signify unto you, that at my being at Christ's church in Canterbury this last f^ week, I was desired to interpretate one article of the late injunctions, giving in the Teny). Hcn.^ king's grace's visitation, which conccrneth the dimission, as well of such as were pro- ^ricsVol. fesscd under twenty years of age, as also other that be now under twenty-four. And original, although the words be so plain, that (in mine opinion) there necdeth no interpretation, yet forasmuch as doubts be made therein, I will not take upon me to make any expo sition herein but such as you shall make, by whose authority the injunctions were given.
 
@@ -233,11 +224,11 @@ The first doubt is this, whether such persons only shall be dimissed of their re
 
 Your assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right worshipful and my special friend, master secretary.
 
-CLXIV. TO CRUMWELL.
+## CLXIV. To Crumwell
 
 AFTER most hearty commendations : this shall be to signify unto you, that my state rajw servant Kylligrewe shewed me that your mind was, I should send unto you one of original my servants whom I trusted as myself, by whom you might communicate unto me your mind in certain things which you have to say unto me. And to satisfy your mind herein I have sent unto you my chaplain, master Champion4, who hath a head able to receive all that you put into it ; and he is of that trust, that whatsoever you
 
@@ -247,31 +238,29 @@ by Burnet, (Hist, of Reformat. Vol. I. Part n. pp. 217—223,) from Cotton MSS. 
 
 " Other spiritual injunctions may be added by the visitor, as the place and nature of the comperts shall require after his discretion." The original word is "jurisdictions," which Burnet suggests is evidently meant for "injunctions."]
 
-[4 Vid. Letter CXLV. p. 304.]
-
 Vol. II. No. 77.
 
 shall say unto him, you may impute it said only unto myself. By him also I have sent letters to be delivered unto the king's highness by you or by him, as you shall think good. Thus Almighty God have you alway in his preservation ! From Ford, the 22nd day of November. [1535.]
 
 Your assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To mine especial good friend, master Crumwell, chief secretary unto t/ie king's highness.
 
-CLXV. TO LORD LISLE1.
+## CLXV. To Lord Lisle 1
 
 MY very good lord, in my most hearty wise I commend me unto your lordship. And where that upon credible report I understand that there is one Thomas King now abiding in the town of Calice, which heretofore was married unto one Elynour Saygrave, whose company and conversation he hath left, and liveth now incontinently with another wroinan, denying his former marriage ; and to the intent that his both offence and ungodly example be not unto other an occasion of evil, I have sent unto my commissary commanding him to see them both punished according to the law. Wherein I desire you, my lord, to be assistant unto him in this behalf, so that by your favour and aid the same may be more earnestly accomplished as justice shall require therein. Over this I beseech you, my lord, (inasmuch as I hear say that there is good provision of wines with you,) that you will send me word if it be so, and then to help me therein when I shall send to your lordship for the same ; wrherein you shall do unto me a singular pleasure. Thus, my lord, right heartily fare you well, beseeching your lordship to have me most heartily commended unto my good lady : I am her own for her goodness shewed unto my chaplains. At Ford, the 20th day of December. [1535.]
 
 Your own assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my very singular good lord, my lord Lisle, lord deputy of Calice.
 
 Vespasian,
 
-CLXVI. TO CRUMWELL.
+## CLXVI. To Crumwell
 
 RIGHT worshipful, in my right hearty manner I commend me unto you : likewise thanking you for the good favour which ye bear to this bearer doctor Mallet2, my chaplain, declaring your benevolence to him in his preferment unto the mastership of Mychel House3 in Cambridge ; for the which your goodness, as I well perceive, he is right sorry that he is not of ability partly to recompense the same : howbeit I beseech f1 This letter has never before been printed : the date is not easily to be determined, but as the arch bishop was at Ford, Nov. 22, it may have followed in that year.]
 
@@ -285,9 +274,9 @@ And where it is appointed by the king's grace's visitation4, that he should brin
 
 Your own assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
-CLXVII. TO KING HENRY VIII.
+## CLXVII. To King Henry VIII
 
 PLEASE it your most noble grace to be advertised, that upon Friday last passed £. one called John Milles of Chcvenyng opened a book in the church, wherein lie Ano found this schedule which I send now unto your grace herein inclosed, in the which Treasury of the Hcccipt is written " Rex tanquam Tyrannus opprimit populum suum." Then the said John Milles of the Excalled two or three of his neighbours unto him, and consulted whose hand the said Royal Letwriting should be of, but they could not divine who did write it: howbeit they sus- "B.\.i. .v1 pect one Sir Thomas Baschurche 5, priest, sometime secretary unto the bishop of Can terbury my predecessor, whom I suppose your grace doth know. This same day in the morning the said Sir Thomas of his own mind came unto the foresaid John Milles, and confessed the same schedule to be of his making and writing.
 
@@ -297,8 +286,6 @@ At April next coming it shall be three years since the said Sir Thomas fell into
 
 [4 Dr Legh, or Lee, who had been appointed with Leighton and Loudon to visit the monasteries by Crumwell, was at Cambridge, Oct. 22, 1535. " In obedience to Dr Legh's injunctions, the whole university before Candlemas-day next ensuing sur rendered to the king all their charters, donations, statutes, popes' bulls, and papistical muniments, with an exact rental of their lands, and inventory of their goods. The Vice-chancellor and senior proctor went up to London and delivered them to secre tary Crumwell, chancellor of the university." In his custody "the records slept well-nigh a whole year," when "it was thought fit to restore them again, without the loss of a shoe-latchet." Fuller's Hist, of Cambridge, pp. 166, 7, 169. Vid. Burnet's Hist, of Reformat. Vol.1, p. 369. J f 5 Vid. Letter XXXVII. p. 255.]
 
-320 LETTERS. Q536.
-
 said to certain persons the same day, as soon as high mass was done, lie would pro claim your grace a traitor, which nevertheless he did not. And within this ten or twelve days he had almost slain himself with a pen-knife. And this same day in the morn ing when he confessed the forcsaid schedule to he made and wrritten by him, John Milles said unto him, that he supposed your grace would pardon his offence, considering what case he was in. Then he in a rage said, " If I cannot be rid this way, I shall be rid another way."
 
 Now have I declared unto your grace as well the fact, as the state and condi tion of the said Sir Thomas Baschurche, that your grace may order him after your most gracious pleasure, whereof I beseech your grace that I may be ascertained by this bearer my chaplain.
@@ -307,7 +294,7 @@ I was purposed this week according to my duties to have waited upon your grace ;
 
 Your grace's most humble beadsman and chaplain, Unto the king's most nolle grace. T. CANTUARIEN.
 
-CLXVIII. TO LORD LISLE1.
+## CLXVIII. To Lord Lisle 1
 
 fSJeP^Tie MY very loving lord, in my right hearty wise I commend me unto your lordship.
 
@@ -315,11 +302,11 @@ Papers, Vol. And so, according to your desire and request, I send here unto you 
 
 Your ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my very loving lord, my lord Lyle, lord deputy of the town of Calice.
 
-CLXIX. TO LORD LISLE.
+## CLXIX. To Lord Lisle
 
 RIGHT worshipful and my very loving lord, in my right hearty wise I commend me *° vour lordship; likewise thanking the same for the good cheer which ye made to my suffragan at his late being with you in these parts. So it is that a poor widow, of the town of Calise, named Elizabeth Boston, have offered unto me her sup plication, which I send unto you herein inclosed; whereby she complaineth of injury done unto her (as she pretendeth) by one William Berdiseley of the same town. For asmuch as it is meritorious to help and succour poor widows and such other as be comfortless and oppressed with injury, I therefore pray your lordship to take some pains to hear the same matter, and the same so to order as your lordship shall think to stand with equity and justice, and with the true meaning of a certain will and
 
@@ -331,7 +318,7 @@ To the right worshipful and my very lomng lord, my lord Lisle, deputy of Calise.
 
 RIGHT worshipful, in my most hearty wise I commend me unto you : and, as statePaper
 
-CLXX. TO CRUMWELL.
+## CLXX. To Crumwell
 
 y most hearty wise I comm one that is bold many times to trouble you with suits both for myself and my friends, which naturally, yea, and by the law of God, I am bound to do, in my right heartiest Temp. Hen.' wise desire you to be so good master unto this bearer my brother-in-law 2, who is series. now the clerk of my kitchen, and for whom I spake unto you yesterday at the court, as to get him the farm or lease of the priory of Shelford, or of some other house of religion in Nottinghamshire, where his native country is, which now are by the act of Parliament suppressed3; and he shall find the king's grace sufficient sureties for the payment of the rents and revenues thereto belonging. Thus right heartily fare you well. At Lambeth, the 25 day of March. [1536].
 
@@ -339,17 +326,17 @@ y most hearty wise I comm one that is bold many times to trouble you with suits 
 
 Your own assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right worshipful master secretary unto the kings highness.
 
-CLXXI. TO CRUMWELL.
+## CLXXI. To Crumwell
 
 RIGHT worshipful, in my right hearty wise I commend me unto you. These shall state Paper be to desire you to give credence unto this bearer Mr Champion8, my chaplain, touching IMA* such things as he shall open and declare unto you; and that you will signify unto me by him part of your mind in that behalf. Thus heartily fare you well. At Lambeth, the 29 day of March. [1536.]
 
 Your own ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right honourable and my singular good friend, master secretary.
 
@@ -367,17 +354,17 @@ might spend yearly £200. or within it, should be j 1787.] suppressed, and their
 
 State I'aper Office. Jbid Original holograph.
 
-CLXXII. TO CRUMWELL.
+## CLXXII. To Crumwell
 
 ALAS, master secretary ! you forget master Smyth } of the exchequer, who is near consumed with thought and pensiveness : even pity moveth me to rue the man, if I could, for his son's sake chiefly, and also for his own. I would give a great part of that I have to help him; and where I cannot myself, I make all my friends for him : so importune I am upon my friends from my friend his cause, I suppose more than I would be for mine own, or ever was : ruth and importunity of my friend makcth me so vehement against mine own nature. I have sent this bearer only to wait upon you until you have an answer of the king, and to put you in continual remembrance ; for much business maketh you to forget many things, and yet I wonder that you remember so many things as you do. I was ever hitherto cold, but now I am in a heat with the cause of religion, which goeth all contrary to mine expectation, if it be as the fame goeth; wherein I would wonder fain break my mind unto you, and if you please, I will come to such place as you shall appoint for the same purpose. Thus he that made you ever keep you ! From Knoll, the 22 day of April. Q 1530.]
 
 Your own assured ever,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my very loving friend, Mr Secretary.
 
-CLXXIII. TO LORD LISLE2.
+## CLXXIII. To Lord Lisle 2
 
 I)a officeaEe ^Y ^ord, m my mos^ hearty wise I commend me to you, and in like wise to my Papers. _vroi. good lady your wife, thanking you both for the well and gentle entreating of my chaplains3 which of late were with you at Calice. And where you wrote unto me, that you have been noted a papist by some of my house (as you be informed), and that unworthily, inasmuch as you have every where spoken against the acts and living of the pope, and thereby the less have deserved to be accounted his fautour ; my lord, it is not the person of the bishop of Rome, which usurpeth the name of the pope, that is so much to be detested, but the very papacy and the see of Rome, which hath by their laws suppressed Christ, and set up the bishop of that see as a God of this world. And where the word of God was adversary and against his authority, pomp, covetousness, idolatry, and superstitious doctrine, he spying this became adver sary unto the word of God, falsifying it, extorting it out of the true sense, and (as much as he might) suppressing it by policy, craft, bye-laws and doctrines, contrary to the word of God, by power of himself and aid of other princes, and by divers other ways and means. And this is the chief thing to be detested in that see, that it hath brought the professors of Christ into such an ignorance of Christ. And besides this he hath consumed and wasted innumerable goods of all Christendom for the mainte nance of that estate, to the intolerable impoverishment of all Christian realms. Which said dominion and power, with other corrupt doctrines by them invented, is the thing rather to be abhorred than the person; yea, and the person also, if he prosecute to
 
@@ -395,7 +382,7 @@ Your loving friend,
 
 To my very singular good lord and my especial friend my lord Lyall, deputy of our sovereign lord the king in the toicn of Calice.
 
-CLXXIY. TO KING HENRY VIII.4
+## Clxxiy. To King Henry Viii.4
 
 PLEASETH it your most noble grace to be advertised, that at your grace's comcott. MSS. mandment by Mr Secretary his letters written in your grace's name, I came to Lame- ?8S6.C( hith yesterday, and do there remain to know your grace's further pleasure. And holograph.
 
@@ -409,8 +396,6 @@ I cannot deny but your grace hath great causes many ways of lamentable heavi nes
 
 [* " For the circumstances under which thisletter \ist. of Engl. Vol. II. pp. 430, 442, 8vo. : Mackinwas written, and for some of the discordant judgtosh, Hist, of Engl. in Lardner's Cabinet Cyclo- ments which have been passed on it, see BurnetV Hist, of Reformat. Vol. I. p. 402 ; Lingard, Hist, of Engl. Vol. VI. p. 319. 8vo. ; Turner, iModern paedia, Vol. II. p. 194." Jenkyns The original letter is much injured by fire : the sentences wanting are supplied frcm Burnet.]
 
-324 LETTERS. [J53().
-
 great calamities and heaviness, for his obedient heart and willing acceptation of God's scourge and rod, "addidit ei Dominus cuncta duplicia."
 
 And if it be true, that is openly reported of the queen's grace ; if men had a right estimation of things, they should not esteem any part of your grace's honour to be touched thereby, but her honour only to be clearly disparaged. And I am in such a perplexity, that jniy mind is clean amazed ; for I never had better opinion in woman, than I had in her ; which maketh me to think, that she should not be culpable. And again, I think your highness would not have gone so far, except she had surely been culpable. Now I think that your grace best knoweth, that next unto your grace I was most bound unto her of all creatures living. Wherefore I most humbly be seech your grace to suffer me in that, which both God's law, nature, and also her kindness, bindeth me unto ; that is, that I may with your grace's favour wish and pray for her, that she may declare herself inculpable and innocent. And if she be found culpable, considering your grace's goodness towards her, and from what condi tion your grace of your only mere goodness took her and set the crown upon her head; I repute him not your grace's faithful servant and subject, nor true unto the realm, that would not desire the offence without mercy to be punished to the example of all other. And as I loved her not a little for the love which I judged her to bear towards God and his gospel ; so, if she be proved culpable, there is not one that loveth God and his gospel that ever will favour her, but must hate her above all other ; and the more they favour the gospel, the more they will hate her : for then there was never creature in our time that so much slandered the gospel ; and God hath sent her this punishment, for that she feignedly hath professed his gospel in her mouth, and not in heart and deed.
@@ -421,9 +406,9 @@ After I had written this letter unto you grace, my lord chancellor, my lord of O
 
 Your grace's most humble subject and chaplain,
 
-T. CANTUARIENSIS.
+## T. Cantuariensis
 
-CLXXV. TO LORD LISLE1.
+## CLXXV. To Lord Lisle 1
 
 state Paper MY very singular good lord, in my most hearty wise I commend me unto your Paws™. Vol. lordship. This be to signify unto the same, that I am very much beholding to your lordship, for that it liked you to send this bearer your servant by me in his recourse to Calice. And as now I have nothing unto your said lordship, saving that I may be most heartily commended unto my good lady, to whom eftsoons, as also to you, I give condign thanks for the well entreating of my chaplains at their late being at Calice. And if there be any pleasure in these parties, wherein I may do any thing
 
@@ -433,23 +418,23 @@ for you, from time to time, I will be ready to accomplish the same. Thus our Lor
 
 Your lordship's assured,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To my very singular good lord, my lord Lyle, deputy unto our sovereign lord the king at the town of Calice.
 
-CLXXVI. TO CRUMWELL.
+## CLXXVI. To Crumwell
 
 MY very singular good lord, in my most hearty wise I commend me unto your lordship. And whereas the bearer hereof, Mr Ilambleton2, upon no consideration else (as I understand) is put from his lands and possession in Scotland, but for that he favoureth the truth of God's word; and is, besides his birth3, a man of right good living and honest conversation, and of gentill behaviour, by Avhom the word of God in this his exile hath no slander, but is the rather to be had in price and esteemed of other, considering that he so willingly hath borne his adversity : these shall be to desire you, my lord, to be a mediator unto the king's highness for him, that, being of this good judgment, he may have of his grace some competent living for his degree. Which, in mine opinion, shall not only be a good and an acceptable deed unto God, but also much redound to the king's grace's honour, so to consider the necessity of a gentleman for God's quarrel; and besides this, your lordship for your part cannot be unrewarded of God for the same. Thus Almighty God have your good lordship in his blessed tuition. At Aldington4, the 9th day of August. [1536.]
 
 Your own ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right honourable and my singular good lord, my lord privy
 
 State Paper Office. Mis cellaneous Letters. Temp. Hen. VIII. Third Series. Vol. IX. Original. Todd's Life of Cranmer, Vol. I. p. 1M.
 
-CLXXVII. TO KING HENRY VIII6.
+## CLXXVII. To King Henry VIII 6
 
 PLEASETII it your grace to be advertised, that where, as well by your graces special
 
@@ -481,8 +466,6 @@ Thomas More, who suffered on the 22d of June, 1535. See Burnet, Hist, of Reforma
 
 [' Vid. Letter CXLVII1. pp. 306, 7.]
 
-[2 Vid. Letter CLX. p. 314, n. 2.]
-
 [3 u This again confirms the dates given above ; for it was in Oct. 1535, that Leighton was first employed as visitor of monasteries. Burnet's Hist. of Reformat. Vol. I. p. 3l»t)." Jenkyns' Remains of Abp. Cranmer, Vol. I. p. Ififl, n. n.]
 
 dity, and for a good order and quietness to be observed among your subjects; even so were the laws and ceremonies first instituted in the church for a good order, and remembrances of many good things, but not for remission of our sins. And though it be good to observe them well for that intent they were first ordained; yet it is not good, but a contumely unto Christ, to observe them with this opinion, that they remit sin; or that the very bare observation of them in itself is a holiness before God: although they be remembrances of many holy things, or a disposition unto goodness. And even so do the laws of your grace's realm dispose men unto justice, to peace, and other true and perfect holiness. Wherefore I did conclude for a general rule, that the people ought to observe them, as they do the laws of your grace's realm, and with no more opinion of holiness, or remission of sin, than the other common laws of your grace's realm.
@@ -501,8 +484,6 @@ I leave the judgment hereof unto your grace and to your council, whether this we
 
 [5 To the bishops, Strype.]
 
-328 LETTERS. [153G.
-
 errors in the faith, then must needs your grace's laws be erroneous, that pronounce the bishop of Rome to be of no more power by God's law than other bishops, and them to be traitors that defend the contrary. This is certain, that whosoever saith that the church never erred, must either deny that the church ever taught any such errors' of the bishop of Rome his power, and then they speak against that which all the world knoweth, and all books written of that matter these three or four hundreth years do testify; or else they must say, that the said errors be none errors, but truths. And then it is both treason and heresy.
 
 At my first examination of him, which was before Christmas, he said, that he preached not against me, nor that I had preached any thing amiss. But now he saith, that I preached amiss in very many things, and that he purposely preached against me2; and this he reporteth openly: by which words I am marvellously slandered in these parts. And for this cause I beseech your grace, that I may not have the judgment of the cause, forsomuch as he taketh me for a party; but that your grace would commit the hearing hereof unto my lord privy seal, or else to associate unto me some other person at your grace's pleasure, that we may hear the case jointly together.
@@ -513,7 +494,7 @@ I beseech your grace to pardon me of my long and tedious writing; for I could no
 
 Your grace's most humble chaplain and beadsman,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 ---
 [[Cranmer MW 32 Letters CVII–CL|← 32. Letters CVII–CL]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 34 Letters CLXXVIII–CXCIV|34. Letters CLXXVIII–CXCIV →]]

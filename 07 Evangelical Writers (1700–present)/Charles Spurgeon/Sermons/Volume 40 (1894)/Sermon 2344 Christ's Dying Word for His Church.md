@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Christ's Dying Word for His Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2344
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is finished." John 19:30.
 
@@ -137,7 +134,7 @@ The oldest friend here has a little something to do for the Master. Someone said
 
 Now may the Lord give us the joy of His Presence at His Table! May the bread and wine speak to you much better than I can! May every heir of Heaven see Christ, tonight, and rejoice in His finished work, for His dear name's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: PSALM 121. AND 122.
+## Expositions by C. H. Spurgeon: Psalm 121. And 122
 
 Psalm 121:1. I will lift up my eyes unto the hills, from where comes my help. No help comes from anywhere else but from the eternal hills. Let us lift up our eyes, therefore, hopefully expecting help from the hills—it is on the road—it "comes." The Psalmist, with the eye of faith, could see it coming, so he watched its approach.
 
@@ -178,7 +175,6 @@ Psalm 122:1. I was glad when they said unto me, Let us go into the house of the 
 8\. For my brethren and companions' sakes, I will now pray, Peace be within you. Let us say it, for the sake of beloved ones in Heaven, and dear ones on earth who are on the way there, "Peace be within you."
 
 9\. Because of the house of the LORD our God I will seek your good. Not only pray for it, but work for it, give for it, live for it! "I will seek your good!" God bless to us these two Psalms and put us all in a right state of heart tonight! Amen.
-
 
 ---
 [[Sermon 2343 Faint—but Not Faint-Hearted|← #2343]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2345 Moses' Dying Charge to Israel|#2345 →]]

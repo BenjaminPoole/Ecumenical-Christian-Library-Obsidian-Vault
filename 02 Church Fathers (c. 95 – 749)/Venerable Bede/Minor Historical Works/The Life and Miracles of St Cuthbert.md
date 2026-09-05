@@ -9,13 +9,11 @@ tags:
   - venerable-bede
   - bede-minor
 ---
-
-
 # The Life and Miracles of St Cuthbert
 
 To the Holy and most Blessed Father Bishop Eadfield, and to all the Congregation of Brothers also, who serve Christ in the Island of Lindisfarne, Beda, your faithful Fellow -servant, sends greeting.
 
-PREFACE.
+## Preface
 
 **§ 1.** Inasmuch as you bade me, my beloved, to prefix to the book, what I have written at your request about the life of our father Cuthbert, of blessed memory, some preface, as I usually do, by which its readers might become acquainted with your desire and my readiness to gratify it, it has seemed good to me, by way of preface, to recal to the minds of those among you who know, and to make known to those readers who were before ignorant thereof, how that I have not presumed without minute investigation to write any of the deeds of so great a man, nor without the most accurate examination of credible witnesses to hand over what I had written to be transcribed. Moreover, when I learnt from those who knew the beginning, the middle, and the end of his glorious life and conversation, I sometimes inserted the names of these my authors, to establish the truth of my narrative, and thus ventured to put my pen to paper and to write. But when my work was arranged, but still kept back from publication, I frequently submitted it for perusal and for correction to our reverend brother Herefrid the priest, and others, who for a long time had well known
 
@@ -27,17 +25,17 @@ happiness to behold the goodness of our Lord in the land of the living. But also
 
 Wherefore it is my prayer for you, that Almighty God may deign to guard your holinesses in peace and safety, dearest brethren and masters of mine. — Amen!
 
-BEGINNING OF THE BOOK
+## Beginning of the Book
 
-THE LIFE AND MIRACLES
+## The Life and Miracles
 
 SAINT CUTHBERT,
 
-BISHOP OF LINDISFARNE.
+## Bishop of Lindisfarne
 
 ## Chapter 1
 
-HOW CUTHBERT, THE CHILD OF GOD, WAS WARNED BY A CHILD OF HIS FUTURE BISHOPRIC.
+## How Cuthbert, the Child of God, Was Warned by a Child of His Future Bishopric
 
 **§ 3.** The beginning of our history of the life of the His infancy, blessed Cuthbert is hallowed by Jeremy the Prophet, Lamen.ui. who, in exaltation of the anchorite's perfect state, says, " It is good for a man, when he hath borne the yoke from his youth, he shall sit alone, and shall be silent, because he shall raise himself above himself." For, inspired by the sweetness of this good, Cuthbert, the man of God, from his early youth bent his neck beneath the yoke of the monastic institution; and when occasion presented itself, having laid fast hold of the anachoretic life, he rejoiced to sit apart for no small space of time, and for the sweetness of divine meditation to hold his tongue silent from human colloquy. But that he should be able to do this in his advanced years, was the effect of God's grace inciting him gradually to the way of truth from his early childhood; for even to the eighth year of his life, which is the first year of boyhood succeeding to
 
@@ -51,7 +49,7 @@ why he burst out crying so unexpectedly. At length he made answer, and turning t
 
 ## Chapter 2
 
-HOW HE BECAME LAME WITH A SWELLING IN HIS KNEE, AND WAS CURED BY AN ANGEL.
+## How He Became Lame with a Swelling in His Knee, and Was Cured by an Angel
 
 8 5. But because to every one who hath shall be His knee
 
@@ -63,7 +61,7 @@ For his knee was seized with a sudden pain, and began to swell into a large tumo
 
 ## Chapter 3
 
-HOW HE CHANGED THE WINDS BY PRAYER, AND BROUGHT THE SCATTERED SHIPS SAFE TO LAND.
+## How He Changed the Winds by Prayer, and Brought the Scattered Ships Safe to Land
 
 8 6. From this time the lad becoming devoted to saves the
 
@@ -73,11 +71,11 @@ the Lord, as he afterwards assured his friends, often prayer. prayed to God amid
 
 grant these vows, however earnest, and this was, without a doubt, in order that it might be seen what effect was in Cuthbert's prayers. For there was a large multitude of people standing on the other bank of the river, and Cuthbert also was among them. Whilst the monks were looking on in sorrow, seeing the vessels, five in number, hurried rapidly out to sea, so that they looked like five sea-birds on the waves, the multitude began to deride their manner of life, as if they had deserved to suffer this loss, by abandoning the usual modes of life, and framing for themselves new rules by which to guide their conduct. Cuthbert restrained the insults of the blasphemers, saying, " What are you doing, my brethren, in thus reviling those whom you see hurried to destruction? Would it not be better and more humane to entreat the Lord in their behalf, than thus to take delight in their misfortunes?" But the rustics, turning on him with angry minds and angry mouths, exclaimed, " Nobody shall pray for them: may God spare none of them; for they have taken away from men the ancient rites and customs, and how the new ones are to be attended to, nobody knows." At this reply, Cuthbert fell on his knees to pray, and bent his head towards the earth; immediately the power of the winds was checked, the vessels, with their conductors rejoicing, were cast upon the land near the monastery, at the place intended. The rustics blushing for their infidelity, both on the spot extolled the faith of Cuthbert as it deserved, and never afterwards ceased to extol it: so that one of the most worthy brothers of our monastery, from whose mouth I received this narrative, said that he had often, in company with many others, heard it related by one of those who were present, a man of the most rustic simplicity, and altogether incapable of telling an untruth.
 
-OV VENERABLE BEDE. 13
+## Ov Venerable Bede. 13
 
 ## Chapter 4
 
-HOW, IN COMPANY WITH SHEPHERDS, HE SAW THE SOUL OF BISHOP AIDAN CARRIED TO HEAVEN BY ANGELS.
+## How, in Company with Shepherds, He Saw the Soul of Bishop Aidan Carried to Heaven by Angels
 
 **§ 7.** But whereas the grace of Christ, which is the sees Aidan directress of the life of the faithful, decreed that its heaven. servant should encounter the merit of a more rigid institution, and earn the glory of a higher prize, it chanced upon a time that he was tending a flock of sheep intrusted to his care on some distant mountains. One night, whilst his companions were sleeping, and he himself was awake, as he was wont to be, and engaged in prayer, on a sudden he saw a long stream of light break through the darkness of the night, and in the midst of it a company of the heavenly host descended to the earth, and having received among them a spirit of surpassing brightness, returned without delay to their heavenly home. The young man, beloved of God, was struck with the sight, and, stimulated to encounter the honours of spiritual warfare, and to earn for himself eternal life and happiness among God^ mighty ones, he forthwith offered up praise and thanksgivings to the Lord, and called upon his companions, with brotherly exhortations, to imitate his example. " Miserable men that we are," said he, " whilst we are resigning ourselves to sleep and idleness, we take no thought to behold the light of God's holy angels, who never sleep. Behold, whilst I was awake and praying, during a moderate portion of the night, I saw such great miracles of God. The door of heaven was opened, and there was led in thither, amidst an angelic company, the spirit of some holy man, who now, for ever blessed, beholds the glory of the heavenly mansion, and Christ its King, whilst we still grovel amid this earthly darkness: and I think it
 
@@ -85,7 +83,7 @@ must have been some holy bishop, or some favoured one from out of the company of
 
 ## Chapter 5
 
-HOW, ON HIS WAY, HE WAS SUPPLIED WITH FOOD BY GOD.
+## How, on His Way, He Was Supplied with Food by God
 
 **§ 8.** And when he now began with care to meditate on his intended entrance to a more rigid course of life, God's grace was revealed to him, whereby his mind was strengthened in its purpose, and it was shown to him by the clearest evidence, that to those who seek the kingdom of God and his righteousness, the bounty of the divine promise will grant all other things also, which are necessary for their bodily support. For on a certain day, as he was journeying alone, he turned aside at the fourth hour into a village which lay at some distance, and to which he found his way. Here he entered the house of a pious mother of a family in order to rest himself a little, and to procure food for his horse rather than for himself, for it was the beginning of winter. The woman received him kindly, and begged him to allow her to get him some dinner that he might refresh himself. The man of God refused, saying, " I cannot yet eat, for it is a fast day." It was the sixth day of the
 
@@ -93,13 +91,11 @@ week, on which many of the faithful, out of reverence to the Lord's passion, are
 
 **§ 9.** When the evening drew near, and he perceived that he could not finish his intended journey the same day, and that there was no house at hand in which he could pass the night, he presently fell upon some shepherds' huts, which, having been slightly constructed in the summer, were now deserted and ruinous. Into one of these he entered, and having tied his horse to the wall, placed before him a handful of hay, which the wind had forced from the roof. He then turned his thoughts to prayer, but suddenly, as he was singing a psalm, he saw his horse lift up his head and pull out some straw from the roof, and among the straw there fell down a linen cloth folded up, with something in it. When he had ended his prayers, wishing to see what this was, he came and opened the cloth, and found in it half of a loaf of bread, still hot, and some meat, enough of both to serve him for a single meal. In gratitude for the divine goodness, he exclaimed, " Thanks be to God, who of his bounty hath deigned to provide a meal for me when I was hungry, as well as a supper for my beast." He therefore divided the loaf into two parts, of which he gave one to his horse and kept the other for himself; and from that day forward he was more ready than before to fast, because he now felt convinced that the food had been provided for him in the desert by the gift
 
-1 6 THE MINOR HISTORICAL WORKS
-
 of him, who formerly fed the prophet Elias for so long a time by means of ravens, when there was no man to minister unto him, whose eyes are upon those that fear him, and upon those who trust in his mercy, that he may save their souls from death, and may feed them when they are hungry. I learnt these particulars from a religious man of our monastery of Wiremouth, a priest of the name of Inguald, who now, by reason of his extreme old age, is turning his attention, in purity of heart, to spiritual things rather than to earthly and carnal affections, and who said that the authority on which his relation rested was no less than that of Cuthbert himself.
 
 ## Chapter 6
 
-HOW, AS HE WAS COMING TO A MONASTERY, BOISIL, A HOLY MAN, BORE TESTIMONY TO HIM BY PROPHESYING IN SPIRIT.
+## How, as He Was Coming to a Monastery, Boisil, a Holy Man, Bore Testimony to Him by Prophesying in Spirit
 
 His journey **§ 10.** Meanwhile this reverend servant of God, abandoning worldly things, hastens to submit to monastic discipline, having been excited by his heavenly vision to covet the joys of everlasting happiness, and invited by the food with which God had supplied him to encounter hunger and thirst in his service. He knew that the church of Lindisfarne contained many holy men, by whose teaching and example he might be instructed, but he was moved by the great reputation of Boisil, a monk and priest of surpassing merit, to choose for himself an abode in the abbey of Melrose. And it happened by chance, that when he was arrived there and had leaped from his horse, that he might enter the church to pray, he gave his horse and travelling-spear to a servant, for he had not yet resigned the dress and habits of a layman. Eoisil was standing before the doors of the monastery, and saw him first. Foreseeing in spirit
 
@@ -109,7 +105,7 @@ what an illustrious man the stranger would become, he made this single remark to
 
 ## Chapter 7
 
-HOW HE ENTERTAINED AN ANGEL, AND WHILST MINISTERING TO HIM EARTHLY BREAD, WAS THOUGHT WORTHY TO BE REWARDED WITH BREAD FROM HEAVEN.
+## How He Entertained an Angel, and Whilst Ministering to Him Earthly Bread, Was Thought Worthy to Be Rewarded with Bread from Heaven
 
 He is visited 8 12. Some years after it pleased Kino; Alfred, for the
 
@@ -117,7 +113,7 @@ by an angel. " "
 
 redemption of his soul, to grant to Abbot Eata a certain tract of country called Inrhypum, in which to build a monastery. The abbot, in consequence of this grant, erected the intended building, and placed therein certain of his brother monks, among whom was Cuthbert, and appointed for them the same rules and discipline which were observed at Melrose. It chanced that Cuthbert was appointed to the office of receiving strangers, and he is said to have entertained an angel of the Lord who came to make trial of his piety. For, as he went very early in the morning, from the interior of the monastery into the strangers1 cell, he found there seated a young person, whom he considered to be a man, and entertained as such. He gave him water to wash his hands; he washed his feet himself, wiped them, and humbly dried them in his bosom; after which he entreated him to remain till the third hour of the day and take some breakfast, lest, if he should go on his journey fasting, he might suffer from hunger and the cold of winter. For he took him to be a man, and thought that a long journey by night and a severe fall of snow had caused him to turn in thither in the morning to rest himself. The other replied, that he could not tarry, for the home to which he was hastening lay at some distance. After much entreaty, Cuthbert adjured him in God's name to stop; and as the third hour was now come, prayer over, and it was time to breakfast, he placed before him a table with some food, and said, " I beseech thee,' brother, eat
 
-OF VENERABLE BEDK. 19
+## Of Venerable Bedk. 19
 
 and refresh thyself, whilst I go and fetch some hot bread, which must now, I think, be just baked." When he returned, the young man, whom he had left eating, was gone, and he could see no traces of his footsteps? though there had been a fresh fall of snow, which would have exhibited marks of a person walking upon it, and shown which way he went. The man of God was astonished, and revolving the circumstance in his mind, put back the table in the dining-room. Whilst doing so, he perceived a most surprising odour and sweetness; and looking round to see from what it might proceed, he saw three white loaves placed there, of unusual whiteness and excellence. Trembling at the sight, he said within himself, " I perceive that it was an angel of the Lord whom I entertained, and that he came to feed us, not to be fed himself. Behold, he hath brought such loaves as this earth never produced; they surpass the lily in whiteness, the rose in odour, and honey in taste. They are therefore not produced by this dull earth, but are sent from paradise. No wonder that he rejected my offer of earthly food, when he enjoys such bread as this in heaven." The man of God was stimulated by this powerful miracle to be more zealous still in performing works of piety; and with his deeds did increase upon him also the grace of God. From that time he often saw and conversed with angels, and when hungry was fed with unwonted food furnished direct from God. He was affable and pleasant in his character; and when he was relating to the fathers the acts of their predecessors, as an incentive to piety, he would introduce also, in the meekest way, the spiritual benefits which the love of God had conferred upon himself. And this he took care to do in a covert manner, as if it had happened to another person. His hearers, however, perceived that he was speaking of himself, after the pattern of that master who at one time unfolds his own merits without disguise, and at another time says
 
@@ -125,7 +121,7 @@ under the guise of another, " I knew a man in Christ fourteen years ago, who was
 
 ## Chapter 8
 
-HOW CUTHRERT WAS RECOVERED FROM SICKNESS, AND ROISIL ON HIS DEATH-BED FORETOLD TO HIM HIS FUTURE FORTUNES.
+## How Cuthrert Was Recovered from Sickness, and Roisil on His Death-Bed Foretold to Him His Future Fortunes
 
 The monks § -^* Meanwhile, as everything in this world is frail are expelled. an(j fluctuating, like the sea when a storm comes on, the above-named Abbot Eata, with Cuthbert and the other brethren, were expelled from their residence, and the monastery given to others. But our worthy champion of Christ did not by reason of his change of place relax his zeal in carrying on the spiritual conflict which he had undertaken; but he attended, as he had ever done, to the precepts and example of the blessed Boisil. About this time, according to his friend Herefrid the priest, who was formerly abbot of the monastery of Lindisfarne, he was seized with a pestilential disease, of which many inhabitants of Britain were at that time sick. The brethren of the monastery passed the whole night in prayer for his life and health; for they thought it essential to them that so pious a man should be present with them in the flesh. They did this without his knowing it; and when they told him of it in the morning, he exclaimed, "Then why am I lying here? I did not think it possible that God should have neglected your prayers: give me my stick and shoes." Accordingly, he got out of bed, and tried to walk, leaning on his stick, and finding his strength gradually return, he was speedily restored to health: but because the swelling on his thigh, though it died away to all outward appearances, struck into his inwards, he felt a little pain in his
 
@@ -137,7 +133,7 @@ residence on a rock, where the waves of the ocean shut him out from all the worl
 
 ## Chapter 9
 
-HOW CUTHBERT WAS ZEALOUS IN THE MINISTRY OE THE WORD.
+## How Cuthbert Was Zealous in the Ministry Oe the Word
 
 cuthbert **§ 15.** After the death of Boisil, Cuthbert took upon
 
@@ -181,8 +177,6 @@ watchfulness, return home at the hour of morning prayer.
 
 Now one night, a brother of the monastery, seeing him
 
-24 XHK MINOR HISTORICAL WORKS
-
 go out alone, followed him privately to see what he should do. But he, when he left the monastery, went down to the sea, which flows beneath, and going into it, until the water reached his neck, spent the night in praising God. When the dawn of day approached, he came out of the water, and falling on his knees, began to pray again. Whilst he was doing this, two quadrupeds, called otters, came up from the sea, and lying down before him on the sand, breathed upon his feet, and wiped them with their hair: after which, having received his blessing, they returned to their native element. Cuthbert himself returned home, in time to join in the accustomed hymns with the other brethren. The brother, who waited for him on the heights, was so terrified that he could hardly reach home; and early in the morning he came and fell at his feet, asking his pardon, for he did not doubt that Cuthbert was fully acquainted with all that had taken place. To whom Cuthbert replied, " What is the matter, my brother? What have you done? Did you follow- me to see what I was about to do? I forgive you for it, on one condition, — that you tell it to nobody before my death." In this he followed the example of our Lord, who, when he showed his glory to his disciples on the mountain, said, " See that you tell no man, until the Son of man be risen from the dead.11 When the brother had assented to this condition, he gave him his blessing, and released him from all his trouble. The man concealed this miracle during St. Cuthbert's life; but, after his death, took care to tell it to as many persons as he was able.
 
 ## Chapter 11
@@ -199,7 +193,7 @@ lously fed them in the wilderness, he may take pity on us also in our present di
 
 ## Chapter 12
 
-HOW HE FORETOLD THAT, ON A JOURNEY, AN EAGLE WOULD BRING HIM FOOD, AND HOW THIS TOOK PLACE ACCORDINGLY.
+## How He Foretold that, on a Journey, an Eagle Would Bring Him Food, and How This Took Place Accordingly
 
 An eagie **§ 19.** It happened, also, that on a certain day he was
 
@@ -213,7 +207,7 @@ them ere they could reach the village to which they were going, Cuthbert said to
 
 ## Chapter 13
 
-HOW HE FORESAW A VISION OF A FIRE COMING FROM THE DEVIL WHILST HE WAS PREACHING, AND HOW HE PUT OUT THE SAME.
+## How He Foresaw a Vision of a Fire Coming from the Devil Whilst He Was Preaching, and How He Put out the Same
 
 a.d. 6gi. **§ 20.** About the same time, as he was preaching the
 
@@ -221,7 +215,7 @@ projecTof a word of life to a number of persons assembled in a certain village, 
 
 ## Chapter 14
 
-HOW, WHEN A HOUSE WAS REALLY SET ON FIRE, HE PUT OUT THE FLAMES BY PRAYER.
+## How, When a House Was Really Set on Fire, He Put out the Flames by Prayer
 
 **§ 21.** But it was not only in the case of an apparition of a fire that his power was shown; for he extinguished a real fire by the fervency of his tears, when many had failed in putting it out with all the water they could get. For, as he was travelling about preaching salvation like the apostles of old, he one day entered the house of a pious woman, whom he was in the habit of often visiting, and whom, from having been nursed by her in his infancy, he was accustomed on that account to call his mother. The house was at the west end of the village, and Cuthbert had no sooner entered it to preach the word of God, than a house at the other end of the place caught fire and began to blaze most dreadfully. For the wind was from the same quarter, so that the sparks from the kindled thatch flew over the whole village. Those who were present tried to extinguish it with water, but were driven back by the heat. Then the aforesaid handmaid of the Lord, running to the house, where Cuthbert was, besought him to help them before her own house and the others in the village should be destroyed. " Do not fear, mother," said he; " be of good cheer; this devouring flame will not hurt either you or yours." He then went out and threw himself prostrate on the ground before the door. Whilst he was praying, the wind changed, and beginning to blow from the west, removed all danger of the fire assailing the house, into which the man of God had entered.
 
@@ -233,7 +227,7 @@ reverend and holy father Saint Benedict, who by his prayers drove away the appar
 
 ## Chapter 15
 
-HOW HE CAST OUT A DEVIL FROM THE PRJ3FECT S WIFE, EVEN BEFORE HIS ARRIVAL.
+## How He Cast out a Devil from the Prj 3fect S Wife, Even Before His Arrival
 
 a.d. 661. **§ 23.** But, as we have above related how this vene-
 
@@ -247,7 +241,7 @@ minister to us as before; for not only the wicked but the innocent are sometimes
 
 ## Chapter 16
 
-HOW HE LIVED AND TAUGHT IN THE MONASTERY OF LINDISFARNE.
+## How He Lived and Taught in the Monastery of Lindisfarne
 
 His residence **§ 25.** Whilst this venerable servant of the Lord was fame. thus, during many years, distinguishing himself by such
 
@@ -269,7 +263,7 @@ to the conclusion thereof without a plentiful shedding of tears. But whilst he d
 
 ## Chapter 17
 
-OF THE HABITATION WHICH HE MADE FOR HIMSELF IN THE ISLAND OF FARNE, WHEN HE HAD EXPELLED THE DEVILS.
+## Of the Habitation Which He Made for Himself in the Island of Farne, When He Had Expelled the Devils
 
 **§ 29.** When he had remained some years in the a.d. C70. monastery, he was rejoiced to be able at length, with the Fame island. blessing of the abbot and brethren accompanying him,
 
@@ -281,7 +275,7 @@ dence but the heavens above him. The wall was constructed, not of hewn stones or
 
 ## Chapter 18
 
-HOW BY HIS PRAYERS HE DREW WATER FROM THE DRY GROUND, AND HOW HE GOT ON DURING HIS RETIREMENT.
+## How by His Prayers He Drew Water from the Dry Ground, and How He Got on During His Retirement
 
 **§ 31.** But his own dwelling was destitute of water, a. d. 676.
 
@@ -295,7 +289,7 @@ the prayers of this man of God from the ground which was before dry and stony. N
 
 ## Chapter 19
 
-HOW HE SOWED A FIELD WITH BARLEY, AND KEPT OFF THE BIRDS FROM THE CROP BY HIS MERE WORD.
+## How He Sowed a Field with Barley, and Kept off the Birds from the Crop by His Mere Word
 
 **§ 33.** At first, indeed, he received from his visiters Drives the a small portion of bread, and drank water from the from his* fountain; but afterwards he thought it more fitting to live by the labour of his own hands, like the old fathers. He therefore asked them to bring him some instruments of husbandry, and some wheat to sow; but when he had sown the grain in the spring, it did not come up. At the next visit of the monks, he said to them, " Perhaps the nature of the soil, or the will of God, does not allow wheat to grow in this place: bring me, I beg of you, some barley: possibly, that may answer. If, however, on trial it does not, I had better return to the monastery than be supported here by the labour of others." The barley was accordingly brought, and sown, although the season was extraordinarily late; and the barley came up most unexpectedly and most abundantly. It no sooner began to ripen, than the birds came and wasted it most grievously. Christ's holy servant, as he himself afterwards told it, (for he used, in a cheerful and affable manner, to confirm the faith of his hearers by telling them the mercies which his own faith had obtained from the Lord,) drew near to the birds, and said to them, " Why do you touch that which you have not sown? Have you more share than I in this? If you have received license from God, do what he allows you; but if not, get you gone, and do no further injury to that which belongs to another." He had no sooner spoken, than all the flock of birds departed, and never more returned to feed upon that field. Thus in two miracles did this reverend servant of Christ imitate the example of two of the fathers: for, in
 
@@ -303,7 +297,7 @@ drawing water from the rock, he followed the holy St. Benedict, who did almost t
 
 ## Chapter 20
 
-HOW THE CROWS APOLOGIZED TO THE MAN OF GOD FOR THE INJURY WHICH THEY DID HIM, AND MADE HIM A PRESENT IN COMPENSATION.
+## How the Crows Apologized to the Man of God for the Injury Which They DID Him, and Made Him a Present in Compensation
 
 Miracle of **§ 34.** I am here tempted to relate another miracle which he wrought in imitation of the aforesaid father, St. Benedict, in which the obedience and humility of birds are a warning to the perversity and pride of mankind. There were some crows which had long been accustomed to build in the island. One day the man of God saw them, whilst making their nests, pull out the thatch of the hut which he had made to entertain the brethren in, and carry it away to build with. He immediately stretched out his hand, and warned them to do no harm to the brethren. As they neglected his command, he said to them, " In the name of Jesus Christ, depart as speedily as possible, and do not presume to remain any longer in the place, to which you are doing harm." He had scarcely uttered these words, when they flew away in sorrow. At the end of three days one of the two returned, and finding the man of God digging in the field, spread out its wings in a pitiable manner, and bending its head clown befoi*e his feet, in a tone of humility asked pardon, by the most expressive signs it could; and obtained from the reverend
 
@@ -311,7 +305,7 @@ father permission to return. It then departed and fetched its companion; and whe
 
 ## Chapter 21
 
-HOW EVEN THE SEA WAS SUBSERVIENT TO HIS WANTS.
+## How Even the Sea Was Subservient to His Wants
 
 **§ 35.** But not only did the animals of the air and Miraculously sea, for the sea itself, as the air and fire, on former wuhtimber. occasions which we have mentioned, exemplified their obedience to the venerable man. For it is no wonder that every creature should obey his wishes, who so faithfully, and with his whole heart, obeyed the great Author of all creatures. But we for the most part have lost our dominion over the creation that has been subjected to us, because we neglect to obey the Lord and Creator of all things. The sea itself, I say, displayed the most ready obedience to Christ's servant, when he had need of it. For he intended to build a little room in his monastery adapted to his daily necessities, and on the side towards the sea, where the waves had scooped a hollow, it was necessary to put some support across the opening, which was twelve feet wide.
 
@@ -319,7 +313,7 @@ He therefore asked the brethren, who came to visit him, when they returned the n
 
 ## Chapter 22
 
-HOW HE GAVE SALUTARY ADMONITIONS TO MANY WHO CAME TO HIM, AND EXPOSED THE IMPOTENT SNAKES OF THE OLD ENEMY.
+## How He Gave Salutary Admonitions to Many Who Came to Him, and Exposed the Impotent Snakes of the Old Enemy
 
 **§ 36.** But many came to the man of God, not only from the furthest parts of Lindisfarne, but even from the more remote parts of Britain, led thither by the fame of his virtues; to confess the errors which they had com-
 
@@ -343,7 +337,7 @@ expected to recover from her weakness, for she had long abandoned all hope from 
 
 ## Chapter 24
 
-OF HIS PROPHECY IN ANSWER TO THE SAME 2ELFUED, CONCERNING THE LIFE OF KING ECGFRID AND HIS OWN BISHOPRIC.
+## Of His Prophecy in Answer to the Same 2elfued, Concerning the Life of King Ecgfrid and His Own Bishopric
 
 **§ 40.** At another time, the sameiElfled, who was a most holy virgin, and mother of the virgins of Christ, sent for the man of God, adjuring him in the name of our Lord that she might be allowed to see him and to speak about certain things of importance. He therefore entered with the brethren into a ship, and went over to an island which is situated in the mouth of the river Coquet, from which it received its name. This island was also remarkable for the number of its monks. The abbess, who had requested him to meet her in this island, when she had enjoyed his conversation for some time, and the man of God had answered many questions that she put to him; on a sudden, in the midst of his conversation, she fell at his feet and adjured him, by the terrible and sacred name of our Heavenly King and his angels, that he would tell her how long her brother Ecgfrid would live and govern the English nation. " For I know," she said, " that you abound in the spirit of prophecy, and that, if you are willing, you are able to tell me even.this." But he, shuddering at the adjuration, and yet not being willing openly to reveal the secret which she had asked him, replied, " It is a wonderful thing that you, being a wise woman and skilled in sacred scriptures, should call long the duration of human life: the Psalmist says, ' that our years shall perish like a spider's web,' and Solomon advises that, if a man shall live many years, and shall have been prosperous in all of these, he ought to remember the gloomy time of many days, which when it shall come, the past is convicted of folly; how much more then ought
 
@@ -355,7 +349,7 @@ you do not relate to any one before my death the things which I have told you." 
 
 **§ 42.** Not long after, in a full synod, Archbishop Theodore of blessed memory presiding in the presence of God's chosen servant, the holy King Ecgfrid, he was unanimously elected to the bishopric of the see of Lindisfarne. But, although they sent many messengers and letters to him, he could not by any means be drawn from his habitation, until the king himself, above mentioned, sailed to the island attended by the most holy Bishop Trumwine, and by as many other religious and influential men as he could: they all went down on their knees before him, and adjured him by the Lord, with tears and entreaties, until they drew him away from his retirement with tears in his eyes, and took him to the synod. When arrived there, although much resisting, he was overcome by the unanimous wish of all, and compelled to submit to undertake the duties of the bishopric; yet the ordination did not take place immediately, but at the termination of the winter which was then beginning. And that his prophecies might be fulfilled in all things, Ecgfrid was killed the year afterwards in battle with the Picts, and was succeeded on the throne by his illegitimate brother Aldfrid, who, a few years before, had devoted himself to literature in Scotland, suffering a voluntary exile to gratify his love of science.
 
-ENERAIJLE BEDE. 4.0
+## Eneraijle Bede. 4.0
 
 ## Chapter 25
 
@@ -373,7 +367,7 @@ water to the sick man, and when he poured it into his mouth the third time, the 
 
 ## Chapter 26
 
-OF HIS MANNER OF LIFE IN HIS BISHOPRIC.
+## Of His Manner of Life in His Bishopric
 
 ofhisexem- 8 44. The venerable man of God, Cuthbert, adorned
 
@@ -381,11 +375,11 @@ plary life.
 
 the office of bishop, which he had undertaken, by the exercise of many virtues, according to the precepts and examples of the Apostles. For he protected the people committed to his care, with frequent prayers, and invited them to heavenly things by most wholesome admonitions, and followed that system which most facilitates teaching, by first doing himself what he taught to others. He saved the needy man from the hand of the stronger, and the poor and destitute from those who would oppress them. He comforted the weak and sorrowful; but he took care to recal those who were sinfully rejoicing to that sorrow which is according to godliness. Desiring still to exercise his usual frugality, he did not cease to observe the severity of a monastic life, amid the turmoil by which he was surrounded. He gave food to the hungry, raiment to the shivering. And his course was marked by all the other particulars which adorn the life of a pontiff. The miracles with which he shone forth to the world bore witness to the virtues of his own mind, some of which we have taken care briefly to hand down to memory.
 
-OF VENERABLE P.EDE. -51
+## Of Venerable P.ede. -51
 
 ## Chapter 27
 
-HOW, THOUGH AT A DISTANCE, HE SAW IN SPIRIT THE DEATH OP KING ECGFRID, AND THE END OF HIS WARFARE, WHICH HE HAD FORETOLD.
+## How, Though at a Distance, He Saw in Spirit the Death Op King Ecgfrid, and the End of His Warfare, Which He Had Foretold
 
 8 45. Now, when Kins' Ecgfrid had rashly led his Ecgfnd's
 
@@ -403,7 +397,7 @@ suggested this so earnestly for no purpose, and said to me in fear; ' Let us do 
 
 ## Chapter 28
 
-HOW HE FORETOLD HIS OWN DEATH TO HEREBERT, THE HERMIT, AND BY PRAYERS TO GOD OBTAINED HIS ATTENDANCE.
+## How He Foretold His Own Death to Herebert, the Hermit, and by Prayers to God Obtained His Attendance
 
 a.d. 686. **§ 48.** Not very long afterwards, the same servant of
 
@@ -417,7 +411,7 @@ through ignorance or frailty, I have equally taken care to correct, according to
 
 ## Chapter 29
 
-HOW, THROUGH HIS PRIEST, HE CURED THE WIFE OF AN EARL WITH HOLY WATER.
+## How, Through His Priest, He Cured the Wife of an Earl with Holy Water
 
 S 49. When he was one day going round his parish a.d. estf.
 
@@ -429,7 +423,7 @@ sat clown, the man began to tell him about the sickness of his wife, who was des
 
 ## Chapter 30
 
-HOW HE CURED A GIRL OF A PAIN IN THE HEAD AND SIDE, BY ANOINTING HER WITH OIL.
+## How He Cured a Girl of a Pain in the Head and Side, by Anointing Her with Oil
 
 **§ 50.** But the venerable Bishop Cuthbert effected a cure similar to this, of which there were many eye-
 
@@ -437,7 +431,7 @@ witnesses, one of whom is the religious priest, iEdilwald, ysuiiwaid. at that ti
 
 ## Chapter 31
 
-HOW HE CURED AN INFIRM MAN BY CONSECRATED BREAD.
+## How He Cured an Infirm Man by Consecrated Bread
 
 8 51. I must not here pass over a miracle which was cures
 
@@ -449,9 +443,9 @@ present were laymen, but at the same time very pious men, and turning to one ano
 
 ## Chapter 32
 
-HOW, BY PRAYER, HE RESTORED TO LIFE A YOUNG MAN WHOM HE FOUND AT THE POINT OF DEATH ON A
+## How, by Prayer, He Restored to Life a Young Man Whom He Found at the Point of Death on A
 
-JOURNEY.
+## Journey
 
 dues a **§ 52.** As this holy shepherd of Christ's flock was going
 
@@ -461,19 +455,19 @@ him down at the outlet of the wood, sent to the bishop, requesting permission to
 
 ## Chapter 33
 
-HOW, AT A TIME OF SICKNESS, HE RESTORED A DYING BOY IN HEALTH TO HIS MOTHER.
+## How, at a Time of Sickness, He Restored a Dying Boy in Health to His Mother
 
-**§ 53.** At the same time the plague made great ra- cures the vages in those parts, so that there were scarcely any inhabitants left in villages and places which had been thickly populated, and some towns were wholly deserted. The holy father Cuthbert, therefore, went round his parish, most assiduously ministering the word of God and comforting those few who were left. But being arrived at a certain village, and having there exhorted all whom he found there, he said to his attendant priest, " Do you think that any one remains who has need that we should visit and converse with him? or have we now seen all here, and shall we go elsewhere? " The priest looked about and saw a woman standing afar off, one of whose sons had died but a little time before, and she was now supporting another at the point of death, whilst the
+**§ 53.** At the same time the plague made great ra-cures the vages in those parts, so that there were scarcely any inhabitants left in villages and places which had been thickly populated, and some towns were wholly deserted. The holy father Cuthbert, therefore, went round his parish, most assiduously ministering the word of God and comforting those few who were left. But being arrived at a certain village, and having there exhorted all whom he found there, he said to his attendant priest, " Do you think that any one remains who has need that we should visit and converse with him? or have we now seen all here, and shall we go elsewhere? " The priest looked about and saw a woman standing afar off, one of whose sons had died but a little time before, and she was now supporting another at the point of death, whilst the
 
 tears trickling down her cheek bore witness to her past and present affliction. He pointed her out to the man of God, who immediately went to her, and blessing the boy, kissed him, and said to his mother, " Do not fear nor be sorrowful, for your child shall be healed and live, and no one else of your household shall die of this pestilence." To the truth of which prophecy the mother and son, who lived a long time after that, bore witness.
 
 ## Chapter 34
 
-HOW HE SAW THE SOUL OF A MAN, WHO HAD BEEN KILLED BY FALLING FROM A TREE, ASCEND TO HEAVEN.
+## How He Saw the Soul of a Man, Who Had Been Killed by Falling from a Tree, Ascend to Heaven
 
 sees a man's **§ 54.** But now this man of God, foreseeing his end heaven. approaching, had determined to lay aside the duties of his pastoral office, and return to his former solitary life, that by shaking off the cares of this life he might occupy himself amidst unrestrained psalmody and prayer in preparing for the day of his death, or rather of his entrance into everlasting life. He wished first to go round his parishes, and visit the houses of the faithful in his neighbourhood; and then, when he had confirmed all, with such consolatory admonitions as should be required, to return to the solitary abode which he so longed after. Meanwhile, at the request of the noble Pineda. and holy virgin, the Abbess JElfleda, of whom I have before made mention, he entered the estate belonging to her monastery, both to speak to her and also to consecrate a church therein, for there was there a considerable number of monks. When they had taken their seats, at the hour of repast, on a sudden Cuthbert turned away his thoughts from the carnal food to the contemplation of heavenly things. His limbs being much fatigued by his previous duties, the colour of his
 
-OF VENERABLE BET)E. 61
+## Of Venerable Bet)e. 61
 
 face changed, his eyes became unusually fixed, and the knife dropped from his hands upon the table. The priest, who stood by and ministered to him, perceiving this, said to the abbess, "Ask the bishop what he has just seen: for I know there was some reason for his hand thus trembling and letting fall the knife, whilst his countenance also changed so wonderfully: he has surely seen something which we have not seen." She immediately turned to him and said, " I pray you, my lord bishop, tell me what you have just seen, for your tired hand did not let fall the knife just now without some cause." The bishop endeavoured to conceal the fact of his having seen anything supernatural, and replied in joke, " I was not able to eat the whole day, was I? I must have left off some time or other." But, when she persisted in her entreaty that he would tell the vision, he said, " I saw the soul of a holy man carried up to heaven in the arms of angels." — " From what place," said she, "was it taken?'''' — " From your monastery," replied the bishop, and he further asked her name. " You will tell it me," said lie, " to-morrow, when I am celebrating mass." On hearing these words, she immediately sent to the larger monastery to inquire who had been lately removed from the body. The messenger, finding all safe and well, was preparing to return in the morning to his mistress, when he met some men carrying in a cart the body of a deceased brother to be buried. On inquiring who it was, he found that it was one of the shepherds, a worthy man, who having incautiously mounted a tree, had fallen down, and died from the bruise, at the same time that the man of God had seen the vision. He immediately went and told the circumstance to his mistress, who went forthwith to the bishop, at that time consecrating the church, and in amazement, as if she were going to tell him something new and doubtful, " I pray," said she, " my lord bishop, remember in the mass my servant Hadwald (for that Hartwaid.
 
@@ -481,7 +475,7 @@ was his name), who died yesterday by falling from a tree." It was then plain to 
 
 ## Chapter 35
 
-HOW HE CHANGED WATER BY TASTING IT, SO THAT IT HAD THE FLAVOUR OF WINE.
+## How He Changed Water by Tasting It, so that It Had the Flavour of Wine
 
 changes 8 55. When he had gone regularly through the upper
 
@@ -495,7 +489,7 @@ that they had never tasted better wine. I give this on the authority of one of t
 
 ## Chapter 36
 
-HOW SOME OF THE BRETHREN, FOR DISOBEDIENCE TO HIM, WERE DETAINED BY A STORM AT SEA.
+## How Some of the Brethren, for Disobedience to Him, Were Detained by a Storm at Sea
 
 8 56. When Cuthbert had passed two years in the Foresees his
 
@@ -511,7 +505,7 @@ utterly prevented them from putting to sea. They were thus detained seven days i
 
 ## Chapter 37
 
-OF THE TEMPTATIONS WHICH HE UNDERWENT IN HIS SICKNESS, AND HIS ORDERS CONCERNING HIS BURIAL.
+## Of the Temptations Which He Underwent in His Sickness, and His Orders Concerning His Burial
 
 **§ 59.** The solemn day of the nativity of our Lord was h;8 death. scarcely over, when the man of God, Cuthbert, returned to his dwelling on the island. A crowd of monks were standing by as he entered into the ship; and one of them, an old and venerable monk, strong in faith but weak in body, in consequence of a dysentery, said to him, " Tell us, my Lord Bishop, when we may hope for your return.11 To this plain question, he replied as plainly, " When you shall bring my body back here." When he had passed about two months in the enjoyment of his rest, and had as usual subdued both his body and mind with his accustomed severity, he was suddenly seized with illness, and began to prepare for the joy of everlasting happiness, through pain and temporal affliction. I will describe his death in the words of him who related it to me, namely, his attendant priest Herefrid, a most religious man, who also at that time presided over the monastery of Lindisfarne, in the capacity of Abbot.
 
@@ -525,15 +519,13 @@ funeral. m this house, near my oratory, towards the south, over against the east
 
 § 6]. I was anxious about returning to him on account of his illness, but the weather prevented us for five days; and it was ordered so by God, as the event showed. For God Almighty, wishing to cleanse his servant from every stain of earthly weakness, and to show his adversaries how weak they were against the strength of his faith,
 
-OF VENERABLE I5EDE. 67
+## Of Venerable I5ede. 67
 
 kept him aloof from men, and put him to the proof by pains of the flesh, and still more violent encounters with the ancient enemy. At length there was a calm, and we went to the island, and found him away from his cell in the house where we were accustomed to reside. The brethren who came with me had some occasion to go back to the neighbouring shore, so that I was left alone on the island to minister to the holy father. I warmed some water and washed his feet, which had an ulcer from a long swelling; and from the quantity of blood that came from it, required to be attended to. I also warmed some wine which I had brought, and begged him to taste it: for I saw by his face that he was worn out with pain and want of food. When I had finished my service, he sat down quietly on the couch, and I sat down by his side.
 
 **§ 62.** Seeing that he kept silence, I said, " I see, my Lord Bishop, that you have suffered much from your complaint since we left you, and I marvel that you were so unwilling for us, when we departed, to send you some of our number to wait upon you." He replied, " It was done by the providence and the will of God, that I might be left without any society or aid of man, and suffer somewhat of affliction. For when you were gone, my languor began to increase, so that I left my cell and came hither to meet any one who might be on his way to see me, that he might not have the trouble of going further. Now, from the moment of my coming until the present time, during a space of five days and five nights, I have sat here without moving." — " And how have you supported life, my Lord Bishop?" asked I; " have you remained so long without taking food?" Upon which, turning up the couch on which he was sitting, he showed me five onions concealed therein, saying, " This has been His rastti my food for five days — for, whenever my mouth becanu dry and parched with thirst, I cooled and refreshed myself by tasting these;" — now one of the onions appeared to have been a little gnawed, but certainly not more than
 
 tempt:'
-
-6*8 THE MINOR HISTORICAL WORKS
 
 half of it was eaten; — " and," continued he, " my enemies have never persecuted me so much during my whole stay in the island, as they have done during these last five days." I was not bold enough to ask what kinds of persecutions he had suffered: I only asked him to have some one to wait upon him. He consented, and kept Bede, the some of us with him; amongst whom was the priest Beda wahisatod re- the elder, who had always been used to familiar attenB^fcutL dance upon him. This man was consequently a most faithful witness of every thing which he gave or received, whom Cuthbert wished to keep with him to remind him if he did not make proper compensation for any presents which he might receive, that before he died he might render to every one his own. He kept also another of the brethren with him, who had long suffered from a violent diarrhoea, and could not be cured by the physicians; but, for his religious merit, and prudent conduct and grave demeanour, was thought worthy to hear the last words of the man of God, and to witness his departure to the Lord.
 
@@ -547,7 +539,7 @@ you wish to overcome my scruples, and to carry my body remove his amongst you, i
 
 ## Chapter 38
 
-HOW, DURING HIS ILLNESS, HE CURED ONE OF HIS ATTENDANTS OF A DIARRHOEA.
+## How, During His Illness, He Cured One of His Attendants of a Diarrhoea
 
 **§ 64.** His malady now began to grow upon him, and Miraculous we thought that the time of his dissolution was at hand. WaLktod. He bade his attendants carry him to his cell and oratory. It was the third hour of the day. We therefore carried him thither, for he was too feeble to walk himself. When we reached the door, we asked him to let one of us go in with him to wait upon him: for no one had ever entered therein but himself. He cast his eyes round on all, and fixing them on the sick brother, above mentioned, said, " Wahlstod shall go in with me." Now Wahlstod was the man's name. He went in accordingly, and stayed till the ninth hour; when he came out, and said to me, " The bishop wishes you to go in unto him; but I have a
 
@@ -555,7 +547,7 @@ most wonderful thing to tell you: from the moment of my touching the bishop, whe
 
 ## Chapter 39
 
-OF HIS LAST INSTRUCTIONS TO THE BRETHREN; AND HOW, WHEN HE HAD RECEIVED THE VIATICUM, HE YIELDED UP HIS SOUL IN PRAYER.
+## Of His Last Instructions to the Brethren; And How, When He Had Received the Viaticum, He Yielded up His Soul in Prayer
 
 His last 8 65. I went in to him about the ninth hour of the
 
@@ -603,7 +595,7 @@ was thrown, of a square shape, surrounded with wood, and filled with little ston
 
 ## Chapter 42
 
-HOW HIS BODY AFTER NINE YEARS WAS FOUND UNDECAYED.
+## How His Body After Nine Years Was Found Undecayed
 
 **§ 70.** Now Divine Providence, wishing to show to what His remains glory this holy man was exalted after death, who even undecked. before death had been distinguished by so many signs and miracles, inspired the minds of the brethren with a wish to remove his bones, which they expected to find dry and free from his decayed flesh, and to put them in a small coffer, on the same spot, above the ground, as objects of veneration to the people. This wish they communicated to the holy Bishop Eadbert about the middle of Quadragesima; and he ordered them to execute this on the 20th of April, which was the anniversary of the day of his burial. They accordingly did so; and opening the tomb, found his body entire, as if he were still alive, and his joints were still flexible, as if he were not dead, but sleeping. His clothes, also, were still undecayed, and seemed to retain their original freshness and colour. When the brethren saw this, they were so astonished that they could scarcely speak, or look on the miracle which lay before them, and they hardly knew what they were doing.
 
@@ -617,7 +609,7 @@ When the bishop had said much more to this effect, with many tears and much cont
 
 ## Chapter 43
 
-HOW THE BODY OF BISHOP EADBERT WAS LAID IN THE GRAVE OF THE MAN OF GOD, AND THE COFFIN OF THAT SAINT PLACED UPON IT.
+## How the Body of Bishop Eadbert Was Laid in the Grave of the Man of God, and the Coffin of that Saint Placed upon It
 
 **§ 73.** Meanwhile, God's chosen servant, Bishop mbacies"^ Eadbert, was seized by an illness, which daily grew more adbertand more violent, so that not long after, that is, on the sixth of May, he also departed to the Lord. It was an especial mercy granted to his earnest prayers, that he left this life by a gradual, and not a sudden death. His body was placed in the grave of the blessed father Cuthbert, and upon it they placed the coffin in which the body of that saint lay. And to this day miracles are there wrought, if the faith of those who seek them admit of it. Even the clothes which had covered his blessed body, whether dead or alive, still possess a healing power.
 
@@ -631,7 +623,7 @@ intercession may save me from these torments, so that I may either return whole 
 
 ## Chapter 45
 
-HOW A PARALYTIC WAS HEALED BY MEANS OF HIS SHOES.
+## How a Paralytic Was Healed by Means of His Shoes
 
 a paralytic **§ 75.** There was a young man in a monastery not far off, who had lost the use of all his limbs by a weakness which the Greeks call paralysis. His abbot, knowing that there were skilful physicians in the monastery of Lindisfarne, sent him thither with a request that, if possible, he might be healed. The brethren, at the instance of their own abbot and bishop also, attended to him with the utmost care, and used all their skill in medicine, but without effect, for the malady increased daily, insomuch that, save his mouth, he could hardly move a single limb. Being thus given over by all worldly physicians, he had recourse to Him who is in heaven, who, when He is sought out in truth, is kind towards all our iniquities and heals all our sicknesses. The poor man begged of his attendant to bring him something which had come from the incorruptible body of the holy man; for he
 
@@ -639,7 +631,7 @@ believed that by means thereof he might, with the blessing of God, return to hea
 
 ## Chapter 46
 
-HOW THE HERMIT FELGELD WAS CURED OF A SWELLING IN THE FACE BY DWELLING UNDER THE SHADOW OF THE ROOF OF THE MAN OF GOD.
+## How the Hermit Felgeld Was Cured of a Swelling in the Face by Dwelling Under the Shadow of the Roof of the Man of God
 
 Feigeid cured 8 76. Nor do I think I ought to omit the heavenly
 

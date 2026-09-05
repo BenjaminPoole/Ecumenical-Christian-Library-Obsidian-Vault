@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Job's Sure Knowledge
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2909
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For I know that my Redeemer lives." Job 19:25.
 
@@ -113,7 +110,7 @@ when you open your eyes, it will not be in the narrow death chamber—you will n
 
 IV. The last thought I want to leave with you is this—JOB HAD ABSOLUTE CERTAINTY AMID UNCERTAIN
 
-AFFAIRS.
+## Affairs
 
 He said, "I know that my Redeemer lives." Why, Job, I should have thought you would not have known anything for certain now! I should not have liked to insure Job's farm animals, or the houses in which his children met together to feast. Nothing seemed to be certain with Job but uncertainty—yet there wasone thing concerning which he felt that he could put his foot down firmly and say, "'I know.' The winds may rage and the tempests roar, but they cannot shake this rock. 'I know.' 'I know.' 'I know!'" Beloved, is everything uncertain with you in this world? Of course it is, for it is so with everybody! But does it appear to be more uncertain with you than it does with anybody else? Does your business seem to be slipping away and every earthly comfort is threatening to disappear? Even if it is so, there is, nevertheless, something that is certain—something that is stable—Jesus your Redeemer lives! Rest on Him and you will never fail. Let your faith in Him be firm and confident—you cannot be too fully established in the belief that Jesus, who once died, has left the grave to die no more and that you, in Him, must also live eternally! Something may be wrong with you for the next few days or weeks, but all is right with you forever and "all's well that ends well."
 
@@ -121,7 +118,7 @@ There may be some rough water to be crossed between here and the fair havens of 
 
 And if you, as a poor sinner, are trusting wholly and only in Christ, then He is your Redeemer and you are saved forever! If He is the only hope that you have and you cling to Him as the limpet clings to the rock, then all is right with you forever, and you may know that He is your Redeemer as surely as Job knew that He was his! The Lord bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB 19.
+## Exposition by C. H. Spurgeon: Job 19
 
 Verses 1, 2. Then, Job answered andsaid, how long will you vex my soul and break me in pieces with words?They struck at him with their hard words as if they were breaking stones on the roadside! We ought to be very careful what we say to those who are suffering affliction and trial, for a word, though it seems to be a very little thing, will often cut far more deeply and wound far more terribly than a razor. So Job says, "How long will you vex my soul and break me in pieces with words?"
 
@@ -162,7 +159,6 @@ my teeth. There is no skin upon the teeth, or scarcely any, and, therefore, Job 
 26-28. And though after my skin, worms destroy this body, yet in my flesh shall I see God: whom I shall see for myself, and my eyes shall behold, and not another; though my reins are consumed within me. But you should say, Why persecute we him, seeing the root of the matter is found in me?Job seems to say, speaking about himself, though in the third person, "He is a devout man, can you not see that? He has faith in God, my Friends, can you not perceive that? Why, then, do you persecute him so?"
 
 29\. Be you afraid of the sword: for wrath brings the punishments of the sword, that you may know there is a judgment Now Job carries the war into the enemy's camp and he says, "You charge me with all sorts of sin and yet you cannot deny that the root of the matter is in me. Would it not be much wiser for you to be yourselves afraid lest God should cut you off for falsely accusing me and slandering me in the time of my sorrow?" There we may confidently leave Job, for the man who can truly say what he has said about his Redeemer will come out all right at the last.
-
 
 ---
 [[Sermon 2908 The Saint's Heritage and Watchword|← #2908]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2910 The Harvest and the Vintage|#2910 →]]

@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 78
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -450,7 +449,7 @@ Evil angels? *Par dispar,* a pair of words which seem not well matched. The latt
 
 **Verse 64.** The daughter-in-law of Eli, when she was at once travailing, and in that travail dying, to make up the full sum of God's judgment upon that wicked house, as one insensible of the death of her father, of her husband, of herself, in comparison of this loss, calls her (then unseasonable) son Ichabod, and with her last breath says, "The glory is departed from Israel, the ark is taken." *Joseph Hall.*
 
-HINTS TO THE VILLAGE PREACHER
+## Hints to the Village Preacher
 
 **Verses 59-72.**
 
@@ -556,8 +555,6 @@ Though at the first, and for a long time, both were alike his people, yet at las
 
 I. Their source. 2. Their variety. 3. Their abundance.*—B. Davies, of Greenwich.*
 
-**Verses 12-17.** Obstinacy of unbelief. It makes head against God's majesty—Ps 78:17; his gracious providence—Ps 78:14-16; his interposing care—Ps 78:13; his avenging justice—Ps 78:12; his distinguishing grace—Ps 78:12-16. *C. D.*
-
 **Verses 12-17.** Prodigies cannot convert the soul. Lu 16:31. *C. D.*
 
 **Verse 17.** Sin in its progress feeds upon divine mercies to aid its advance, as also every other surrounding circumstance.
@@ -583,8 +580,6 @@ I. Their source. 2. Their variety. 3. Their abundance.*—B. Davies, of Greenwic
 4. What it brought upon them; Ps 78:21. Fiery serpents, etc. *C. D.*
 
 **Verse 25.** Different kinds of food. Beast's food, Lu 15:16. Sinners' food, Ho 4:8. Formalists' food, Ho 12:1. Saints' food, Jer 15:16 Joh 6:53-57. Angels' food. Christ's food, Joh 4:34. *C. D.*
-
-**Verse 29-31.** Dangerous prayers. When lust dictates, wrath may answer. Let grace dictate, and mercy will answer. *C. D.*
 
 **Verses 34-37.** The hypocrite's feet, Ps 78:34. The hypocrite's memory, Ps 78:35. The hypocrite's tongue, Ps 78:36. The hypocrite's heart, Ps 78:37. Or, the hypocrite's cloak and the hypocrite's heart. *C. D.*
 
@@ -634,14 +629,13 @@ Valuable information upon THE PLAGUES OF EGYPT will be found in the following wo
 
 "Israel in Egypt; or the Books of Genesis and Exodus illustrated by *existing Monuments.* By WILLIAM OSBURN. 1856."
 
-UPON ISRAEL IN THE WILDERNESS
+## Upon Israel in the Wilderness
 
 "The wanderings of the Children of Israel." By the late Rev. GEORGE WAGNER, 1862.
 
 "The Church in the Wilderness." By WILLIAM SEATON. In two vols. 1821.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 077|← Psalm 77]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 079|Psalm 79 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 34
-
-**PSALM 34.**
 
 A Psalm of David, when he changed his countenance before Abimelech, who banished him from his presence, and he departed from him.
 

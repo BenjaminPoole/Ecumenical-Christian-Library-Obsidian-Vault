@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Gathering in the Chosen
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3308
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travails with child together; a great company shall return there. They shall come with weeping, and with supplications I will lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a Father to Israel, and Ephraim is My first-born." Jeremiah 31:8,9.
 
@@ -61,7 +58,7 @@ Then there were some others of whom it was said that they could not possibly joi
 
 III. Now in the third place, we have in the text not only Deity manifested, and difficulties removed, but we also have
 
-DESCRIPTIONS GIVEN.
+## Descriptions Given
 
 How shall this great company be brought to the Jerusalem which is above? Listen! There is a mighty host on the march, but I hear no sound of trumpet, no voice of mirth, no song of joy! What do I hear? Weeping, mourning, lamentation—"They shall come with weeping." That is the music to which sinners usually set out for the heavenly Canaan— seldom if ever is that start made without tears! It is not the shriek of despair. It is not the groan of disappointment. It is not the yell of rage, and hate. It is the plaintive wail of a soul that says to God, "I have sinned against Heaven and before You, and are no more worthy to be called Your son." From those who compose that throng you may, every now and then, catch such sorrowful sentences as these, "I acknowledge my transgressions, and my sin is ever before me." "My sorrow is continually before me. For I will declare my iniquity. I will be sorry for my sins." This is the kind of music that we hear from those who are setting out for Heaven! Have you, my Friend, ever practiced it? You will never sing in Glory if you have never wept over your sin! I do not merely mean such tears as men and women shed, though these will probably not be absent, but I mean that you will experience that spiritual sorrow which is often too deep for tears. May God the Holy Spirit teach us to weep at the remembrance of our sin, to weep at the foot of the Cross as we look upon Him whom our sins have pierced, and mourn for Him as one mourns for his only son and be in bitterness for Him as one that is in bitterness for his first-born!
 
@@ -115,7 +112,7 @@ be the Lord's, that is a sign and token that the Lord also desires to have you a
 
 If you really desire to have God as your God, and Christ as your Savior, God desires it, too, and Christ desires it. If you are willing to be saved, do not imagine that Christ is unwilling to save you! If you are coming to Christ, Christ is coming to you. No, He HAS come to you, or you would never want to come to Him! "Only believe." These are Christ's words to you now—believe that He is able to save you through the merit of His atoning Sacrifice and through the prevalence of His intercession before His Father's Throne above. Trust Him! Trust Him to save you now, and then you also shall be among the redeemed of the Lord who shall return and come with singing unto Zion! Everlasting joy shall be upon your head! You shall obtain gladness and joy—and sorrow and mourning shall flee away from you forever!
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH31:1-28.
+## Exposition by C. H. Spurgeon: Jeremiah 31:1-28
 
 Verse 1. At the same time, says the LORD, willIbe the God ofall the families ofIsrael, and theyshall be Mypeople. How divinely He talks—as only God can talk! These people had rejected Him, yet He says, "They shall be My people," not only some of them, but all of them! "I will be the God of all the families of Israel." Behold the wonderful power of Divine Grace upon the hearts of rebellious sinners. There are no "ifs," and no, "buts," here! It is, "I will" and, "they shall." God knows how to work out His own purposes of love and mercy!
 
@@ -168,7 +165,6 @@ Volume 35—THE INNER SIDE OF CONVERSION.] What a wonderfully expressive word th
 26\. Upon this I awaked, and beheld; and my sleep was sweet unto me. Well might it be. Poor Jeremiah, who so often wept over the woes of Israel, was the very man to be refreshed when he heard from God that He would visit His people in mercy, and bring them back to their own land! Happy dreamer, who dreams such a blessed dream as this, a dream that came true in due time!
 
 27-28. Behold, the days come, says the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast. And it shall come to pass, that like as I have watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build, and to plant, says the LORD. What a black list of words we first have here! God's way of dealing with His people when they wander away from Him is very stern. They must be brought back, but it will be over a very rough road. The Lord says that He "watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict." And in the same measure He now declares that He will watch over them to do them good. As our tribulations abound, so also shall our consolations abound by Christ Jesus! If you have been bitterly convicted of sin, you shall be sweetly convicted of pardon. The deeper God digs the foundation, the higher He means to build the house. Those who are brought to Him in great affliction very often afterwards know more of Christ and more of the love of God than any others!
-
 
 ---
 [[Sermon 3307 Over the Mountains|← #3307]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3309 Christ the Seeker and Savior of the Lost|#3309 →]]

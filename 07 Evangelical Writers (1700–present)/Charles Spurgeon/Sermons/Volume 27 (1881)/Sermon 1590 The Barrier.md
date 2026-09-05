@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Barrier
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1590
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 27, 1881,.
+*Delivered on Lord's-Day Morning, March 27, 1881*
 
 > "And there shall in nowise enter into it anything that defiles, neither whatever works abomination, or makes a lie: but they which are written in the Lamb's Book of Life." Revelation 21:27.
 
@@ -132,7 +131,6 @@ That is an awful text in the parable of the virgins—"And the door was shut." Y
 We are a dying people! We shall all be gone within a very short time. I charge you by the living God and as you are dying men and women—see to it that you are not shut out so as to hear the fatal cry—"Too late, too late, you cannot enter." There shall be no "Purgatory," in eternity and no possible way of entering in among the perfected, for it is written, "There shall in nowise enter into it anything that defiles." No crying, "Lord! Lord!" No striving to enter in! No tears, no, not even the pangs of Hell, itself, shall ever purge the soul so as to make it fit to join with the holy Church above should it pass into the future state uncleansed! Shut out! Shut out!
 
 O God, may that never be true of anyone among us, for Christ's dear name's sake, Amen.
-
 
 ---
 [[Sermon 1589 A Hasty Expression Penitently Retracted|← #1589]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1591 Honey From A Lion|#1591 →]]

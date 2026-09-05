@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 23
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HARVEST OF LIGHT, GLADNESS**
+## **Harvest of Light, Gladness**
 
 > Light is sown for the righteous, and gladness for the upright in heart" Ps. 97:11
 
@@ -23,7 +22,6 @@ Righteousness is often costly to the man who keeps to it at all hazards, but in 
 Full sure are we that the Lord has set a harvest for the sowers of light, and they shall reap it, each man for himself. Then shall come their gladness. Sheaves of joy for seeds of light. Their heart was upright before the Lord, though men gave them no credit for it, but even censured them: they were righteous, though those about them denounced them as censorious. They had to wait, as husbandmen wait for the precious fruits of the earth: but the light was sown for them, and gladness was being prepared on their behalf by the Lord of the harvest.
 
 Courage, brothers! we need not be in a hurry. Let us in patience possess our souls, for soon shall our souls possess light and gladness.
-
 
 ---
 [[FCB October 22|← October 22]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 24|October 24 →]]

@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 9. Chapter VII
 
-THE ROMAN PONTIFF AND THE CARDINALS NOT THE UNIVERSAL CHURCH
+*The Roman Pontiff and the Cardinals Not the Universal Church*
 
 It has been said that Christ is the sole Head of the holy universal church and all the predestinate, past and future, are his mystical body and every one of them members of that body. It remains now briefly to examine whether the Roman church is that holy universal church, the bride of Christ. This seems to be the case because the holy catholic apostolic church is one, and this is none other than the Roman church. What seemed a matter of question is therefore true. The first part of the statement appears from Pope Boniface's bull: "By the urgency of faith we are compelled to believe and hold that the holy catholic apostolic church is one." 1 Likewise, the second statement appears from the same decretal, which says: "Of the one and only church there is one body, one head, and not two heads like a monster, namely, Christ and Christ's vicar, Peter, and Peter's successors, even as, when the Lord said to Peter himself, 'Feed my sheep/ he spoke in a general sense, not of individuals, of these or those sheep. It is plain that he regarded all the sheep as committed to him. Therefore, if the Greeks and others say that they were not committed to Peter and his successors, they thereby confess that it is not necessary to be of Christ's sheep; for did not the Lord say, in John: 'They shall become one fold and one shepherd'?" Is it not evident, therefore, that the holy Roman church is that holy universal church, because
 

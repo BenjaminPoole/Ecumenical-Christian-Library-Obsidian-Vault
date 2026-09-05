@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Physician Pardons His Palsied Patient
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2337
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold, they brought to Him a man sick of the palsy, lying on a bed: and Jesus, seeing their faith, said unto the sick of thepalsy; Son, be of good cheer;your sins are forgiven you. And, behold, certain of the scribes said within themselves, This Man blasphemes. And Jesus, knowing their thoughts, said, Why do you think evil in your hearts? For which is easier, to say, Your sins are forgiven you; or to say, Arise, and walk? But that you may know that the Son of Man has power on earth to forgive sins, (then He said to the man sick of thepalsy), Arise, take up your bed, and go to you house. And he arose, and departed to his house." Matthew 9:2-7.
 
@@ -101,7 +98,7 @@ of the best of a very bad make." Now, I do not like to have to say that of anybo
 
 "Ah!" says one, "I came here seeking the pardon of sin and now, Sir, you have got off to moral conduct." Quite so and that is where I want you to get off, too! Seek the pardon of sin, tonight—it is to be had, as I have told you, by faith. "Jesus, seeing their faith, said unto the sick of the palsy, Son, be of good cheer; your sins are forgiven you." But if you want to make sure that Christ is really able to forgive your sin, the very best evidence to you, and the only evidence to the outside scribes, will be that you take up your bed and walk. "Oh," you say, sometimes, "I still have many sins, but I am not what I used to be. I am a changed man at heart. I could not bear what I once enjoyed. I could not do what I once commonly did and the things that I loathed and despised are now delightful to me." I am glad that it is so with you and I pray that it may be so with all my hearers. May God work that great and gracious change in many who are in this Tabernacle tonight, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW8223-34,9:1-13.
+## Exposition by C. H. Spurgeon: Matthew 8223-34,9:1-13
 
 Matthew's Gospel is the Gospel of the Kingdom, and of the King. Here you see the King amid the storms of Nature.
 
@@ -136,7 +133,6 @@ Matthew 9:1, 2. And He entered into a boat, and passed over, and came into His o
 12\. But when Jesus heard that, He said unto them, They that are whole need not a physician, but they that are sick. He has come here on purpose that He might heal our sicknesses! Oh, you who feel, tonight, sick with sin, and sick of sin, come and sit down with Him! He added, "Him that comes to Me, I will in no wise cast out," and He will not cast you out, notwithstanding your sin, if you come to Him by faith!
 
 13\. But go you and learn what that means, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance. Let us never forget that Jesus is the sinner's Savior. He does not come to save saints—He comes to save sinners, and the saints who are saved are kept from becoming sinners by His almighty love. May God bless this reading of the Scriptures to us! Amen.
-
 
 ---
 [[Sermon 2336 The Love Of Jonathan and the Love Of Jesus|← #2336]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2338 The Crisis Of This World|#2338 →]]

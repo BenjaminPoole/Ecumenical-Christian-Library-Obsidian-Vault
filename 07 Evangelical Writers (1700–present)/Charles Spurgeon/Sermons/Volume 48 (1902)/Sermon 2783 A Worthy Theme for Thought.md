@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A Worthy Theme for Thought
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2783
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We have thought of Your loving kindness, O God, in the midst of Your Temple." Psalm 48:9.
 
@@ -132,7 +129,6 @@ Does someone ask, "Is there any need to tell that?" Yes, there is, for it has go
 Last of all, as we think of God's loving kindness, we shall be confirmed in our loyalty to Him. How does the Psalm finish? "For this God is our God forever and ever: He will be our Guide even unto death." There are some here who have known my Master for 50 years. I have preached Him to you for nearly 25 years and I knew Him a good while before that. Do I want to change my Master for a better one? Yes, if you can find a better one for me, but that you never will be able to do! Christian, do you believe that you will ever have a better Master than Christ, and a better service than His? No. I know what you will say, "I only want to know Him more, and to serve Him better. He has bored my ear to His door-post and I shall never go away from His service, for He is mine and I am His, forever and forever." "This God is our God." He was our father's God and our mother's God, and the God of the dear ones whom He took from us to be with Him in Heaven. And "this God is our God." He is the God to whom we looked in the day of our soul's distress, when we saw Him in Christ Jesus, reconciled unto us through the death of His Son. "This God is our God forever and ever." He is the God who wiped our tears away and filled our hearts with gladness, and started us on our pilgrimage to Heaven with new life in our souls and new songs on our lips! "This God is our God."
 
 He is the God who has heard our prayers, the God who has been with us in our direst extremity, the God who spoke to us words of healing, words of peace and words of salvation when we lay on the verge of death and looked into eternity. He is the God on whom we have cast our unworthy selves, trusting Him with our souls and our all, for this world and the world to come, "this God is our God forever and ever." Place your hand on the altar's horn, my Brothers and Sisters, and say, "I am His forever and forever; never to draw back, never to backslide, never to apostatize, never, His Grace enabling me to be steadfast, to dishonor His sacred name, or to do despite to the precious blood of His Son, or to the purity of the indwelling Spirit. Your loving kindness, O God, has bound the sacrifice with cords, even to the horns of the altar." So let it be, for our Lord Jesus Christ's sake! Amen and Amen.
-
 
 ---
 [[Sermon 2782 Love's Lamentation|← #2782]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2784 'Non Nobis, Domine!'|#2784 →]]

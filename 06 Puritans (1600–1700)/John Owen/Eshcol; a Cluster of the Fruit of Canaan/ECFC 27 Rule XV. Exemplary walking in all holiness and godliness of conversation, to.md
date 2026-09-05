@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule XV. Exemplary walking in all holiness and godliness of conversation, to the glory of the gospel, edification of the church, and conviction of them which are without
-
-Rule xv. Exemplary walking in all holiness and godliness of conversation, to the glory of the gospel, edification of the church, and conviction of them which are without.
 
 Ps. xxiv. 3, 4, “Who shall ascend into the hill of the Lord? or who shall stand in his holy place? He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.”
 
@@ -51,7 +48,6 @@ Motives for the exercise of universal holiness, in acts internal and external, p
 4\. Scandal of the gospel, the advantage of its adversaries, the shame of the church, and fierce wrath of God, following the unsuitable walking of professors.
 
 5\. The sweet reward which the practice of holiness bringeth along with it even in this life, with that eternal weight of glory whereunto it leadeth hereafter; — unto which the holy Son of God bring us all, through the sprinkling of his most holy blood!
-
 
 ---
 [[ECFC 26 Rule XIV. Vigilant watchfulness over each other’s conversation, attended with|← Rule XIV. Vigilant watchfulness over each other’s conversation, attended with mutual admonition in case of disorderly walking, with rendering an account to the church if the party offending be not prevailed with]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 28 Conclusion|Conclusion →]]

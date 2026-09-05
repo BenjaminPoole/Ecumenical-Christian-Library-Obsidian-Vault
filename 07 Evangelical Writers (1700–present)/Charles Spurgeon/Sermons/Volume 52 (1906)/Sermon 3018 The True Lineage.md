@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The True Lineage
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3018
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass, as He spoke these things, a certain woman of the company lifted up her voice, and said unto Him, Blessed is the womb that bore You, and the breasts which nursed You. But He said, More than that, blessed are they that hear the Word of God, and keep it." Luke 11:27,28.
 
@@ -105,7 +102,7 @@ You need not seek to move His heart with many cries, for His heart is moved alre
 
 V. Again, I think some have thought that if they had been His mother, THEY COULD HAVE COME TO HIM
 
-WITH GREATER EASE.
+## With Greater Ease
 
 "It is so easy to speak to one whom we know. We are not at all afraid to tell our needs to one who has been so near to us as Christ was to His mother." Yet I would have you remember that Christ, as the Son of God, was not the Son of Mary. Christ, the Divine Savior, was no nearer to Mary than He is to us. Christ was merely the Man Christ that was conceived in her womb, or that sucked at her breasts and, therefore, in His Divine Person, He towers as much above her as He does above us! And then, though He was born of the substance of His mother, yet was He of our substance, too, for He is bone of our bone and flesh of our flesh—a Man, such as we are. If He were an angel, being of a different kind, we might be afraid to come to Him, but He is a Man, He has a man's emotions, a man's heart, a man's compassion, a man's love and we need not be afraid to come to Him! What though He was not born of us, yet is He of us. Though we are not His mother, yet, we are His brothers and sisters. So let us come boldly to Him. Sinner, you have as much right to come as Mary had. She had none except what Divine Grace gave her—you have the same. Did Christ ever cast away one sinner who came to Him? No. Did He ever reject one that was ever brought to Him? There was a woman taken in adultery and she did not come willingly, but they brought her to Him, thinking, "Surely, Christ will condemn her." What was the result? After driving all her adversaries away, He said to her, "Go, and sin no more," And so will He say to you if your doubts and trembling and fears should bring you to Him. When He casts one soul away, then let other souls be afraid to come to Him, but while my blessed Master stands with open arms and takes the foulest, and vilest, and poorest to minister unto His love, I pray you stand not back through shame or fear! As much as if you were His mother and He your Child, come to Him, for He invites you to come, saying, "Come unto Me, all you that labor and are heavy laden, and I will give you rest." With tearful eyes He entreats you to come to Him— and if you will not, He does but relieve His heart by crying, "How often would I have gathered your children together, even as a hen gathers her chickens under her wings, but you would not!"
 
@@ -113,7 +110,7 @@ VI. Perhaps, if you will think this over, you will see much more that is beautif
 
 consolatory than that which my text contains. THE VERY BLESSING WHICH BELONGED TO THE VIRGIN
 
-MOTHER OF JESUS BELONGS TO EVERY SOUL THAT HEARS GOD'S WORD AND KEEPS IT.
+## Mother of Jesus Belongs to Every Soul that Hears God's Word and Keeps It
 
 Now you hear it. Do you hear it with your inside ears—with the ears of your heart? And when you hear it, do you keep it in your memory? Do you keep it in your faith? Do you try to keep it in your obedience? And are you daily testifying to its truth? If so, all these blessings are yours and let me say to any trembling, awakened, convicted sinner— all these blessings may be yours if you hear the Word of God and keep it tonight! Here are one or two words of God that I want you to keep—"Come now, and let us reason together, says the Lord: though your sins are scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool." Will you not come and reason with God and talk this matter over? You have heard the Word, I pray you to keep it, that is, to obeyit. Here is another message from the Word of God—"This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners." You have heard that—keep it! Believe that although you are a sinner, He came to save you. Rest in it, trust in it. Here is one more, and I pray you, as you hear it, keep it—"He that believes and is baptized shall be saved." You have heard it—now keep it. To believe is to trust. Trust Christ now! I pray God to constrain you to do it before you pass those doors. Fall flat on your face upon Christ's promise! As for your own righteousness, away with it to the dogs! No prayer, no tears, no vows, no sighs of yours can do anything in the matter! Trust Jesus Christ wholly, now! And then if you have heard that Word and shall thus keep it, go your way, and let Satan say what he will and let the flesh make what noise it pleases—Christ has blessed you and you are blessed! He has said to you, sinners as you are, "Blessed are they that hear the Word of God and keep it." When you and I get to Heaven, may we find it to be so! May we glory there and sing as loud a song as even Mary did when she said, "My soul does magnify the Lord, and my spirit has rejoiced in God my Savior. For He has regarded the low estate of His handmaiden"—for all generations may call that one blessed who has sought and found the Savior! O Beloved, even in Heaven, that song of Mary shall make a sweet song for us all! May we begin to sing it here and Christ shall have the praise! Amen.
 
@@ -178,7 +175,6 @@ Out of their own mouths our Lord condemned these hypocrites—"Truly you bear wi
 51\. Woe unto you, lawyers! For you have taken away the key of knowledge: you did not enter in yourselves, and those who were entering in, you hindered. This "Woe" is similar to that pronounced upon the hypocritical scribes and Pharisees, and it was a terrible charge to be brought against them by Him who could read their hearts and who could truthfully say to them, "You have taken away the key of knowledge: you did not enter in yourselves, and those who were entering in, you hindered." They ought to have helped men into the Kingdom. Instead of doing so, they hindered those who were entering. Are there not false teachers, nowadays, who put stumbling stones instead of steppingstones in the way of those who are entering the Kingdom of Heaven?
 
 53, 54. And as He said these things unto them, the scribes and Pharisees began to assail Him vehemently, and to provoke Him to speak of many things: laying wait for Him and seeking to catch something out of His mouth that they might accuse Him. Thus they proved the truth of the accusations that He had brought against them! But all their plots and traps were in vain until the hour appointed for His great Sacrifice to be offered on Calvary.
-
 
 ---
 [[Sermon 3017 Seeing God's Goodness Here|← #3017]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3019 The Hungry Filled, the Rich Emptied|#3019 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 41
-
-**PSALM 41**
 
 David, while he was severely afflicted by the hand of God, perceived that he was unjustly blamed by men who regarded him as one who had already been condemned and devoted to eternal destruction. Under this trial he fortifies himself by the consolation of hope. At the same time, he complains partly of the cruelty, and partly of the treachery, of his enemies. And although he recognises the affliction with which he is visited as a just punishment of his sins, yet he charges his enemies with cruelty and malice, inasmuch as they troubled and afflicted one who had always endeavored to do them good. Finally, he records an expression of his gratitude and joy, because he had been preserved by the grace of God.
 

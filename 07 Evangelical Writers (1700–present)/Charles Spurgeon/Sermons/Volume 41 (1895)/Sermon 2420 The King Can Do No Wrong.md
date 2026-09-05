@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "The King Can Do No Wrong"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2420
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And all the people took notice of it, and it pleased them: as whatever the king did pleased all the people." 2 Samuel 3:36.
 
@@ -131,7 +128,7 @@ Oftentimes we are permitted to work hard and yet to meet with great discourageme
 
 Perhaps some may find Christ, tonight, if they will get into the spirit of the text. If they will be pleased with God's way of salvation and come and receive Jesus, now, just as He is, and just as they are, they will go out of this house saved! This is, after all, only faith in one of its forms, this being content with Christ, this yielding up of the will to Him. The Lord bless everyone of you, dear Friends, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM147.
+## Exposition by C. H. Spurgeon: Psalm 147
 
 Verse 1. Praise you the LORD: for it is good to sing praises unto our God. You that know Him, you that love Him, "praise you the Lord." "It is good." "It is right, it is acceptable. It is good for you—the Lord counts it good. "It is good to sing praises unto our God." And to God alone. There is no better argument for anything than that it is good, for good men delight in that which is good because it is good. For it is pleasant. That is a very happy conjunction, for it is not everything that is good that is pleasant, medicine to wit. It is not everything that is pleasant that is good, for there are some things that are pleasant in the mouth, but they are poison in the stomach. But to sing praises unto our God is both good and pleasant!
 
@@ -170,7 +167,6 @@ Verse 1. Praise you the LORD: for it is good to sing praises unto our God. You t
 18, 19. He sends out His word, and melts them: He causes His wind to blow, and the waters flow. He shows His word unto Jacob, His statutes and His judgments unto Israel. That is the best news of all, that God reveals Himself to His children! All He works in nature is eclipsed by what He does in Grace!
 
 20\. He has not dealt so with any nation: and as for His judgments, they have not known them. Praise you the LORD.
-
 
 ---
 [[Sermon 2419 Repentance after Conversion|← #2419]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2421 Hallelujah! Hallelujah!|#2421 →]]

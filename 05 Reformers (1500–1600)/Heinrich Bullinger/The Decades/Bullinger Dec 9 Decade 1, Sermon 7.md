@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 9. Decade 1, Sermon 7
 
 In my two last sermons I entreated of true faith and the effects thereof; and among the rest in one place I said, that the articles of the christian faith are, as it were, a brief summary of true faith: now therefore I think it to be not beside the purpose, and part of my duty, to lay before you those twelve articles of our belief. For they are the substance and matter of true faith, wherein faith is exercised : which because it is the ground! of things hoped for, here is plainly and briefly declared in these articles what things those are that are to be hoped for. But let no man at this present look for at my hand the busy? and full discourse of the articles of our faith: I will but briefly go through them, touching only the most necessary points. They are in another place handled more at large by several parts. Pray ye with me to the Lord, that he will vouchsafe to shew to us his ways, to guide and preserve us in them, to the glory of his own name, and the everlasting salvation of our souls.
@@ -24,8 +23,6 @@ Now I will declare what order I will use in expounding 7h¢paitition them unto y
 
 [4 Tradunt majores nostri, quod post ascensionem Domini, cum per adventum sancti Spiritus super singulos quosque apostolos ignez linguz sedissent, ut loquelis diversis variisque loquerentur, per quod eis nulla gens extera, nulla linguee barbaries inaccessa videretur et inyia, preeceptum eis a Domino datum, ob predicandum Dei verbum, ad singulas quemque proficisci nationes. Discessuri itaque ab invicem normam prius futuree sibi preedicationis in commune constituunt, ne forte alius ab alio abducti diversum aliquid his, qui ad fidem Christi invitabantur, exponerent. Omnes ergo in uno positi, et Spiritu sancto repleti, breve istud future sibi (ut diximus) preedicationis indicium, conferendo in unum quod sentiebat unusquisque, componunt, atque hance credentibus dandam esse regulam statuunt.— Cypr. Expos. in Symb. Apost. in init. ed. Oxon. 1682. This tract is not Cyprian’s, but was written by Ruffinus. ]
 
-124 THE FIRST DECADE. [SERM.
-
 herein even orderly so as the twelve articles are placed or set down.
 
 The first article of christian faith is this: “1 believe in God, the Father Almighty, maker of heaven and earth.” And this first article of the Creed containeth two especial points: for first we say generally, I believe in God; then we descend particularly to the distinction of the Persons, and
@@ -36,7 +33,7 @@ It followeth in the confession, “1 believe in God.” God is the object and fo
 
 [} Deut. vi. 4.] [3 Matt. xxviii. 19.]
 
-VII. | THE APOSTLES’ CREED. 125
+## VII. | the Apostles’ Creed. 125
 
 Now it followeth that that God, in whom we rest, and God is called unto whose tuition we do all commit ourselves, is ‘the Father : Almighty.” Our God is therefore called Father, because from before all beginning he begat the Son like to himself. For the scripture calleth God “the Father of our Lord Jesus Christ.” ‘“ He,” saith the apostle, “is the brightness of the glory of God, and the lively image? of the substance of the Father: to whom he said, Thou art my Son, this day have I begotten thee.” And again: “I will be his Father, and he shall be my Son‘.” Also God is called Father in respect of the likeness that he hath with our earthly father; to wit, because of our creation, the favour, love, good-will, and carefulness wherewith he is affected towards us. For God hath created us, God loveth us, God regardeth our affairs, and is careful for us; yea, and that more exceedingly too than any earthly father is. For saith David: “ Even as the father pitieth his children, so doth the Lord pity them that fear him: for he knoweth our estate, remembering that we are but dust5.” Esaias also in his 49th chapter saith: “Can a woman forget her own infant, and not pity and be fain over® the son of her own womb? But admit she do forget; yet will not I forget thee.” In this is declared God’s good-will to us-ward: and we, confessing that God is our Father, do also profess that God to us is both gentle, liberal, and merciful, who wisheth us all things that are available to our health, and purposeth nothing to us-ward but that which is good and wholesome ; and, last of all, that at his hand we receive what good soever we have, either bodily or ghostly.
 
@@ -51,8 +48,6 @@ God is called Almighty, because by his might he can do God is called all things;
 [6 eximie afliciatur erga, Lat.]
 
 God is the maker of heaven and earth.
-
-126 THE FIRST DECADE, [SERM.
 
 will, that must of necessity be done: and also these things he useth even as his own will and pleasure is, and as his justice and man’s salvation do require. First we confessed, that God doth will us well; and now we acknowledge, that whatsoever he will, that he is able to bring to pass. For we say that God is Almighty, that is, that there is nothing but he can do it, which is profitable and necessary for us men, as he that is Lord of all, and our strong helper.
 
@@ -75,8 +70,6 @@ But if we declare at large, who that Son of God is, in who the Son of God [2 Psa
 Consubstantial and coessential. The only Son.
 
 Jesus.
-
-128 THE FIRST DECADE. [SERM.
 
 whom we believe, then must we note three things especially. The first is, that he is called the only Son. If he be the Son, yea, and that too the Son of God, then is his nature and substance a divine nature and substance. For in this signification doth the apostle call him “ the brightness of the glory of the Father, and the lively image of his substance.” Very well therefore do the holy fathers say, that the Son is of the same substance and being with! the Father. Whereunto belongeth that, that he is called the only Son; and in another place, the only-begotten and first-begotten Son. or we also are called sons, not by participation of nature, or likeness of substance, or naturally, but by adoption. And therefore the Jews were not offended, because he called himself the Son of God, in that sense that all the faithful are called, and are, the sons of God; but because they did perceive, that he did more extol himself in saying that he is the natural Son of God, equal to God, and God himself. For thus we read in the fifth of John: “Therefore the Jews sought the more to kill Jesus; not only because he had broken the sabbath, but said also that God was his Father, and made himself equal with God.” Again, where the Lord in the tenth chapter said, “I and my Father are one; then the Jews took up stones to stone him withal: but Jesus answered, Many good works have I done unto you; for which of them do ye stone me?” To which the Jews replied: “For thy good works’ sake we stone thee not, but for thy blasphemy, and because thou, being a man, makest thyself God.” These are most evident testimonies of the natural Godhead of Christ, which whosoever believeth not, he hath not the Father®. For he that honoureth the Son, honoureth the Father; and he that is without the Son hath not the Father: and unless the Son were God by nature, he could not be the Saviour of the world.
 
@@ -108,8 +101,6 @@ Immanuel.
 
 A mediator.
 
-130 THE FIRST DECADE. [SERM.
-
 Paul, where he saith: “ Ye are bought with a price: become not (therefore) the servants of men!.” And St Peter saith: “Ye are redeemed, not with gold and silver, but with the precious blood of the unspotted Lamb?” Moreover, Christ is called Lord in respect of his divine power and nature, by which all things are in subjection to the Son of God. And for because this word “Lord” is of a very ample signification, as that which containeth both the divine nature and majesty, we see that the apostles in their writings use it very willingly. Paul to the Corinthians saith: “ Although there be many lords, yet have we but one Lord Jesus Christ, by whom all things are, and we by him®.”
 
 Now the third article of christian faith is this: “ Which was conceived by the Holy Ghost; born of the virgin Mary.” In the second article we have confessed, that we believe in Jesus Christ, the Son of God, our Lord: wherein we have, as it were in a shadow, confessed, that we believe assuredly, that God, the Father, hath for us and our salvation given to the world his Son, to be a Saviour and Redeemer ; for hitherto belong those names, Jesus, and Lord. Now therefore -in this third article I have to declare the manner and order how he came into the world; to wit, by incarnation. This article containeth two things; the conception of Christ, and his nativity: of both which I will orderly speak, after that I have briefly declared unto you the causes of the Lord his incarnation.
@@ -123,8 +114,6 @@ The next is for us to declare the manner of his incarnation. This article of fai
 (5 1 Tim. ii. 5, 6.] [ὁ Tit. ii, 11, 12.] 9—2
 
 The manner of Christ his conception.
-
-132 THE FIRST DECADE. [SERM.
 
 “He was conceived by the Holy Ghost.” All we men, Christ excepted, are conceived by the seed of man, which of itself is unclean; and therefore we are born sinners; and Paul saith, ‘‘We are born the sons of wrath!” But the body of Christ, I say, our Lord, was not conceived in the virgin Mary by Joseph, or by any seed of man, but by the Holy Ghost: not that the Holy Ghost was in place of the seed; for nothing is begotten of the Spirit, but what is spiritual. Neither hath our Lord a phantastical?, but a very true body, and of the same substance with us. So then our Lord was conceived in the womb of the virgin by the Holy Ghost. For the Holy Ghost by his eternal power did bring to pass, that, the virginity of the mother being uncorrupted, she, I say, being made with child, conceived of her blood, and gave a pure and very human body to the Son of God; as is declared at large by the angel Gabriel in the first chapter of St Luke: of which place I mean to speak elsewhere more largely: I do now pass it over untouched. God himself straightways after the beginning of the world did foretell, that such should be the manner of that conception. For he said not, The seed of the man shall tread down the serpent’s head, but “the seed of the woman*.” Moreover the Lord by the prophets saith: “I will raise up seed to David.” But Moses’ law for the raising up of seed to the brother departed is well known: for if the brother died without issue of children, his brother remaining alive was compelled to marry the deceased brother’s wife, and of her to beget children, which were called and counted, not by the name of him that was living, but of the dead brother‘. Wherefore, when there was not to be found a man of David’s line, that was sufficiently meet to beget on the virgin the Son of God, the Saviour of the world, God himself raiseth up seed to David, and by his Holy Spirit maketh the virgin with child; who, although she were not with child by a man of
 
@@ -144,11 +133,9 @@ The causes, why this conception of the Son of God in the The causes womb of the 
 
 The second member of this third article is: He was “ born of the virgin Mary. ” The Lord was born of Mary his mother, ofthe vin yet she a virgin still. He is therefore very man, which is born of woman. Moreover his birth is pure: for he was born of the virgin, so that together she was a mother, and yet a virgin too, For Esaias saith: ‘Behold, a virgin shall
 
-134 THE FIRST DECADE. [SERM.
-
 conceive, and bring forth a son!.” (A virgin, saith he, shall do both, conceive and bring forth; so that nevertheless she may remain a virgin still. The birth, therefore, of the Son of God is most pure. Also his birth is a true birth, verily and indeed. For he taketh flesh of the substance and womb of the virgin: in which signification also our Lord Jesus Christ is called the Son of David. He could not be called David’s son, unless he had taken very human substance of Mary, a maid or daughter of the stock of David. Which that the apostle John might most properly signify and express, he saith: “The Word was made flesh?.” And the apostle Paul saith: ‘He doth nowhere take on him the angels, but the seed of Abraham’.” And in the same place again he affirmeth, that the Lord “was made like to his brethren in all things, sin excepted.” To the Philippians he saith: ‘ When he was equal with God, he made himself of no reputation, taking on him the form of a servant, and made in the likeness of men, and found in figure as a man‘.” Again, the apostle John beareth witness, and saith: “Every spirit, that confesseth that Jesus Christ is come in the flesh, is of God; and every spirit, which confesseth not that Jesus Christ is come in the flesh, is not of God*.” Luke, in his second chapter, hath at large set forth the manner of his nativity; and I do mean elsewhere to speak of it at the full. Let us therefore confess, that Jesus Christ was “ conceived by the Holy Ghost, and born of the virgin Mary.”
 
-The fourth The fourth article of christian faith is this: ‘ He suffered belies °°” under Pontius Pilate, was crucified, dead, and buried: he de- scended into hell.” In this fourth article is declared the end, use, and chiefest commodity of the Lord his incarnation. For he became man, that he might suffer and die, and, by dying and suffering, might redeem us from eternal death and the torments of hell, and make us (being once cleansed) heirs of life everlasting. For this is the end of the Lord his death, as I will by and by shew you, and as Paul doth at large declare in the ninth chapter to the Hebrews.
+The fourth The fourth article of christian faith is this: ‘ He suffered belies °°” under Pontius Pilate, was crucified, dead, and buried: he descended into hell.” In this fourth article is declared the end, use, and chiefest commodity of the Lord his incarnation. For he became man, that he might suffer and die, and, by dying and suffering, might redeem us from eternal death and the torments of hell, and make us (being once cleansed) heirs of life everlasting. For this is the end of the Lord his death, as I will by and by shew you, and as Paul doth at large declare in the ninth chapter to the Hebrews.
 
 [} Isai. vii. 14.] [2 John i. 14.]
 
@@ -172,8 +159,6 @@ Christ did suffer.
 
 Christ suffered under Pontius Pilate.
 
-136 THE FIRST DECADE. . [SERM.
-
 what the fruit of Christ his death is. First, we were accursed because of sin: he therefore took our curse upon himself, being lift up upon the cross, to the end he might take our curse away, and that we might be blessed in him. Then also, the heritage bequeathed to us by will could not come unto us, unless he which bequeathed it did die. But God bequeathed it: who, that he might die, became man, and died according to his human nature, to the end that we might receive the heritage of life. In another place again Paul saith: ‘ Him that knew not sin did God make sin for us, that we by him might be made the righteousness of God!.” Our Lord therefore became man, by the sacrifice of himself to make satisfaction for us; on whom, as it were upon a goat for sinoffering, when all the sins of the whole world were gathered together and laid, he by his death took away and purged them all: so that now the only sacrifice of Christ hath satisfied for the sins of the whole world. And this verily is the greatest commodity of Christ his death taught everywhere by the apostles of Christ. Next after that, also, the death of Christ doth teach us patience and the mortification of our flesh: yea, Christ, by the participation of himself, doth by his Spirit work in us, that sin may not reign in us. Touching which thing the apostle Paul teacheth many things in the sixth chapter to the Romans. The Lord in the gospel saith : “Tf any man will follow me, let him deny himself, and take up his cross, and follow me2.” These, and a few more, are the fruits of the Lord his passion, or the death of Christ. Our Lord Fourthly, in this article is added: “He was buried.” ’ For our Lord died verily and indeed upon the cross. The very truth of his death was proved by the soldier, which thrust him through the side. After that, he was taken down from the cross, and laid in a sepulchre. In the gospel are expressed the names of them that buried him, Joseph and Nicodemus. There is also shewed the manner how they buried him. The fruit of this his burial the Saviour himself hath taught in these words: “ Verily, verily, I say unto you, unless the seed of corn cast into the earth do die, it remaineth alone; but if it die, it bringeth forth much fruit.” Whereupon the apostle exhorteth us to be buried with Christ in his
 
 [1 2 Cor. v. 21.] [2 Matt. xvi. 24.] [3 John xii, 24.] vil. | THE APOSTLES’ CREED. 157 death, that we may rise again in the newness of life*; yea, that we may live and reign with him for evermore. If, therefore, our bodies also be buried at any time, let us not therefore be troubled in mind; for the faithful are buried, that they may rise with Christ again.
@@ -194,8 +179,6 @@ But there are some that think this assertion to be without lawful proof. For it 
 
 He descended into hell.
 
-198 THE FIRST DECADE. [sERM.
-
 speeches, “‘ He was buried,” and “He descended into hell,” the first is the plainer, and the latter the more intricate. Augustine, in his ninety-ninth epistle to Evodius, turmoileth himself pitifully in this matter’. To Dardanus, de Dei Presentia, he writeth, that the Lord went into hell, but that he felt no torment*. We shall more agreeably to the truth seem to understand this article, if we shall think that the virtue of Christ his death did flow even to them that were dead, and profited them too: that is to say, that all the patriarchs and holy men, that died before the coming of Christ, were for the death of Christ preserved from death everlasting; as St Peter also maketh mention, “that the Lord went in the Spirit, and preached unto the spirits that were in prison®” For verily they by the death of Christ were made to know the sentence of condemnation justly pronounced against them, because, when they lived, they believed not with Noe and them that were with him in the Saviour that was to come. Or else otherwise, by the lower parts, or by hell, we understand not the place of punishment appointed for the wicked, but the faithful that are departed, even as also by the higher parts* we understand them that yet are remaining alive. Wherefore the soul of Christ descended into hell, that is to say, it was carried into Abraham’s bosom, wherein all the which is: Nam quoties loquutiones due rem eandem exprimentes simul connectuntur, posteriorem esse prioris exegesin convenit.— Calvin. Instit. Lib. m. cap. 16. ὁ 8.]
 
 [1 Opp. Par. 1531. Tom. τι. fol. 86.]
@@ -212,9 +195,7 @@ I would add to these the fifth article, but that the hour is now already spent. 
 
 Let us now give praise to the grace of God, and thanks to the Son of God: to whom alone all honour and glory is due for ever and ever. Amen.
 
-140 THE FIRST DECADE. [SERM.
-
-OF THE LATTER ARTICLES OF CHRISTIAN FAITH CONTAINED IN THE APOSTLES’ CREED.
+## Of the Latter Articles of Christian Faith Contained in the Apostles’ Creed
 
 ---
 [[Bullinger Dec 8 Decade 1, Sermon 6|← 8. Decade 1, Sermon 6]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 10 Decade 1, Sermon 8|10. Decade 1, Sermon 8 →]]

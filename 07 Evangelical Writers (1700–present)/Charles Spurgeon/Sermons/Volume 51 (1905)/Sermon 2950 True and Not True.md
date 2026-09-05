@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # True and Not True
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2950
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now we know that God hears not sinners." John 9:31.
 
@@ -83,7 +80,7 @@ Now, my Lord Jesus Christ has, as it were, a red lamp over His door. He is the P
 
 It is gloriously true that God hears sinners, all sinners who come unto Him through Jesus Christ, His Son! Let the blind man say what he likes, we have tried it, and proved it for ourselves—and I hope that hundreds of you will prove, at this very moment, that He doeshear sinners because He has heard you!
 
-EXPOSITION BY C. H. SPURGEON:* LUKE24:49-53; ACTS 1:1-12.
+## Exposition by C. H. Spurgeon:* Luke 24:49-53; Acts 1:1-12
 
 Luke 24:49. And, behold, I send the promise of My Father upon you: but tarry in the city of Jerusalem until you are endued with power from on high. The promise of the Father was, as you know, the gift of the Holy Spirit. By this gift, our Lord's rising again into Glory was celebrated. The Holy Spirit was the Heavenly largess of the great King by which He did honor to the return of His Son to His ancient Throne. The Apostles and the other disciples were to wait for this gift. They might have to wait for some days, but it is better to wait for Divine equipment than to go out to holy service in our own strength! All that you do will have to be undone unless it is done in the power of the Holy Spirit. "But tarry in the city of Jerusalem until you are endued with power from on high." Has that command ever struck some people who profess to be serving the Lord? Are there not men who preach whom God never sent to preach? The best advice we could give them would be, "Tarry." Are there not some who teach and some who take office in the church whom God has never endued with gifts or Graces for such work? Powerless workers stand in the way of true workers—they block up the path of those whom God sends to serve Him.
 
@@ -108,7 +105,6 @@ Acts 1:1-3. The former treatise have Imade, O Theophilus, ofall that Jesus began
 11-12. Which also said, You men of Galilee, why do you stand gazing up into Heaven? This same Jesus, which is taken up from you into Heaven, shall so come in like manner as you have seen Him go into Heaven. Then they returned unto Jerusalem from the mountain called Olivet which is from Jerusalem a Sabbath day's journey.
 
 *[This Exposition belongs to last week's Sermon [#2949, Volume 51—OUR LORD'S POSTURE IN ASCENSION] but there was no space available for its insertion there, and no Exposition appears to have been given before the preceding discourse.]
-
 
 ---
 [[Sermon 2949 Our Lord's Posture in Ascension|← #2949]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2951 With or Without Shedding of Blood|#2951 →]]

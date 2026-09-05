@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # The words of the verse explained and their meaning opened
-
-*The words of the verse explained, and their meaning opened.*
 
 The *general frame* of a gracious soul, in its perplexities about sin, hath been declared. Its *particular actings*, what it doth, what it meets withal, are nextly represented unto us.
 
@@ -31,7 +28,6 @@ I need not show that God so far *marks all sins* in all persons as to see them, 
 The psalmist then addressing himself to deal with God about sin, lays down in the first place, in the general, how things must go, not with himself only, but with all the world, upon the supposition he had fixed: “This is not my case only; but it is so with all mankind, every one who is partaker of flesh and blood. Whether their guilt answer that which I am oppressed withal or no, all is one; guilty they are all, and all must perish. How much more must that needs be my condition, who have contracted so great a guilt as I have done!” Here, then, he lays a great argument against himself, on the supposition before laid down: “If none, the holiest, the humblest, the most believing soul, can abide the trial, can endure; how much less can I, who am the chiefest of sinners, the least of saints, who come unspeakably behind them in holiness, and have equally gone beyond them in sin!”
 
 This is the sense and importance of the words. Let us now consider how they are expressive of the actings of the soul whose state and condition is here represented unto us, and what directions they will afford unto us, to give unto them who are fallen into the same state.
-
 
 ---
 [[PEPC 10 The duty and actings of a believer under distress from a sense of sin|← The duty and actings of a believer under distress from a sense of sin]] · [[Practical Exposition upon Psalm Cxxx|Contents]] · [[PEPC 12 What first presents itself to a soul in distress on the account of sin|What first presents itself to a soul in distress on the account of sin →]]

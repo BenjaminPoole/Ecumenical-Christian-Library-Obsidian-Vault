@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 80. Letter LXXIX. To Wenzel De Duba and John of Chlum
-
-LETTER LXXIX. TO WENZEL DE DUBA AND JOHN OF CHLUM
 
 (Undated?)
 

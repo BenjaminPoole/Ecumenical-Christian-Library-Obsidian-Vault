@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Exodus
 
 [383] Exod i. 6, 7. “And Joseph died, and all his brethren, and all that generation; and the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty, and the land was filled with them.” After the death of Christ, our Joseph, his spiritual Israel began abundantly to increase, and his death had an influence upon it. It was like the sowing of a corn of wheat, which, if it die, bringing forth much fruit. John xii. 24. “Verily, verily, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone; but if it die, it bringeth forth much fruit.” From the call of Abraham, when God first told him he would make of him a great nation, to the deliverance of his seed out of Egypt, was 430 years, during the first 215 of which they were increased but to 70, but in the latter half, those 70 multiplied to 600,000 fighting men; so sometimes God’s providence may seem for a great while to thwart his promises, and go counter to them, that his people’s faith may be tried, and his own power the more magnified; and though the performance of God’s promises is sometimes slow, yet it is always sure; at the end it shall speak, and not lie, Heb. ii. 3. “How shall we escape, if we neglect so great salvation, which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him?”
 

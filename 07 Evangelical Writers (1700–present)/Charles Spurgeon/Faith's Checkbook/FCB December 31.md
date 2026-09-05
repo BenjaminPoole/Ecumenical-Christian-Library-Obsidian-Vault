@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 31
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NO STRANGER IN HEAVEN**
+## **No Stranger in Heaven**
 
 > Thou shalt guide me with thy counsel, and afterward receive me to glory" Ps. 73:24
 
@@ -24,12 +23,11 @@ I put myself into His hand for guidance. I know not the way that I should choose
 
 Soon the end will come: a few more years, and I must depart out of this world unto the Father. My Lord will be near my bed. He will meet me at Heaven's gate: He will welcome me to the glory land. I shall not be a stranger in Heaven: my own God and Father will receive me to its endless bliss.
 
-GLORY BE TO HIM WHO
+## Glory Be to Him Who
 
 WILL GUIDE ME HERE,
 
-AND RECEIVE ME HEREAFTER. AMEN.
-
+## And Receive Me Hereafter. Amen
 
 ---
 [[FCB December 30|← December 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]]

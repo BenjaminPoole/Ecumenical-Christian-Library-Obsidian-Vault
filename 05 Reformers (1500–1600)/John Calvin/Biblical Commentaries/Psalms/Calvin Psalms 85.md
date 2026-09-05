@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 85
-
-**PSALM 85**
 
 God having afflicted his people with new troubles and calamities, after their return from their captivity in Babylon, they, in the first place, make mention of their deliverance as an argument why he should not leave unfinished the work of his grace. Then they complain of the long continuance of their afflictions. And, in the third place, inspired with hope and confidence, they triumph in the blessedness promised them; for their restoration to their own country was connected with the kingdom of Christ, from which they anticipated an abundance of all good things. [^1]
 

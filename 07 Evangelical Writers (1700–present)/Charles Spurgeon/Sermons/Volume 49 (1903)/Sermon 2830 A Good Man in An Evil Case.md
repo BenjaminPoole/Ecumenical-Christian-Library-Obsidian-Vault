@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # A Good Man in An Evil Case
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2830
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Cast your burden upon the Lord, and He shall sustain you: He shall never allow the righteous to be moved." Psalm 55:22.
 
@@ -166,7 +163,6 @@ Then, the other point is sufferance. I am obliged to hurry over these Truths of 
 In closing my discourse, I must say that I do feel, in my inmost soul, the deepest pity for those of you who have no God to go to when you are in trouble. You have a burden to bear, but you cannot cast it on the Lord. He willallow you to be moved, for you do not cry unto Him to help you. I feel that I would rather be a dog than be a man without a God. I think I could make myself happy if I were only a mouse in its hole, but if I were a prince in a palace, without God, I should be utterly miserable! O poor Hearts, if you really want Him, He is to be had! If you are longing for Him, His door
 
 is open to receive you. If you will come to Him, He will come and meet you much more than half way! Yes, all the way will He come to everyone who wills to come to Him. As soon as you say, "I will arise," He has already arisen and is on His way to meet you! Practically, there is no distance for you to go, for He is there, waiting to welcome you. Believe in His dear Son and live! First cast your great burden of sin upon the Lord and then cast upon Him all other burdens that He is willing to take from you and, soon, He will put a new song into your mouth and establish your going. The Lord grant it, for His dear Son's sake! Amen!
-
 
 ---
 [[Sermon 2829 Lowly Service|← #2829]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2831 Burden-bearing|#2831 →]]

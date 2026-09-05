@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Parable of the Lost Sheep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1801
@@ -89,8 +88,7 @@ Oh, poor sinner, here to-day, will you not yield to the Good Shepherd? will you 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 15:1-24.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’387, 403, 388.
-
+## Hymns from ‘Our Own Hymn Book’387, 403, 388
 
 ---
 [[Sermon 1800 Heaven Below|← #1800]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1802 Thought-Reading Extraordinary|#1802 →]]

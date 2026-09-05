@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Christ's One Sacrifice for Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2283
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now once in the end of the world has He appeared to put a way sin by the Sacrifice of Himself." Hebrews 9:26.
 
@@ -157,7 +154,7 @@ never sinned. "He that is washed is clean every whit." "And you are washed." Oh,
 
 If this is your case, go home and be glad! Let nobody beat you in holy merriment. There is a passage at the end of the parable of the prodigal that I like very much—"and they began to be merry." The parable does not tell us when they left off being merry and, I suppose, they are still merry! I know that ever since my Father put the ring on my finger, and shoes on my feet, and gave me the kiss of love, and I knew that I was forgiven, I have been merry—and I mean to still be merry, till my merriment is lost in the merriment above—where they keep perpetual holiday and sing to the praise of the Redeemer, "You were slain, and have redeemed us to God by Your blood out of every kindred, and tongue, and people, and nation." To Him be honor, and glory, and blessing, forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON HEBREWS 9:24-28 AND 10:1-18.
+## Exposition by C. H. Spurgeon Hebrews 9:24-28 and 10:1-18
 
 Hebrews 9:24. For Christ is not entered into the holy places made with hands. Christ has not entered into any earthly temple or tabernacle.
 
@@ -194,7 +191,6 @@ Hebrews 10:1. For the Law, having a shadow of good things to come, and not the v
 15-17. Whereof the Holy Spirit also is a witness to us: for after that He had said before, This is the Covenant that I will make with them after those days, says the Lord, I will put My Laws into their hearts, and in their minds will 1 write them; and their sins and iniquities will I remember no more. Treasure up these golden words—"Their sins and iniquities will I remember no more."
 
 18\. Now where remission of these is, there is no more offering for sin. The offering for sin is in order that sin may be put away. And if it is put away, so that God, Himself, will remember it no more, what more is needed? What more could be desired? Therefore, let us rest in the one great finished work of Christ and be perfectly happy! Sin is gone, wrath is over, for those for whom Christ died—they are perfected forever through His one great Sacrifice.
-
 
 ---
 [[Sermon 2282 David's Prayer in the Cave|← #2282]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2284 Clear Shining After Rain|#2284 →]]

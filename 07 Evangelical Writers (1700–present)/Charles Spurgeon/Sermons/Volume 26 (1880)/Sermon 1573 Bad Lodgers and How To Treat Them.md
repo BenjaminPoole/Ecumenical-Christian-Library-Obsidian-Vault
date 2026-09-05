@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Bad Lodgers and How To Treat Them
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1573
-
-DELIVERED BY.
 
 > "O Jerusalem, wash your heart from wickedness that you may be saved. How long shall your vain thoughts lodge within you?" Jeremiah 4:14.
 
@@ -174,7 +171,6 @@ I will tell you a secret and then I have done. The best way in all the world tha
 Now we will tell them something that will change the nature of the struggle. Lord Jesus, I trust You to be my Savior from every form of evil and I am not my own, now, for You have bought me with a price. Ah, now the stronger than they are has come and He will bind the strong ones and He will fling them out of the window and so break them to pieces with their fall that they shall never be able to crawl up the stairs again! He knows how to do it! He can expel them—you cannot. Oh, that you might have Grace, now, to give your whole nature to your Creator and Redeemer! Give the house over to the new Owner and let Him come and He will drive them out and He, Himself, will come and live there and His Divine Spirit will come and fill every chamber with His own Presence and there shall be no fear that these bad lodgers shall ever come back again!
 
 God bless this simple word to many, for His name's sake. Amen.
-
 
 ---
 [[Sermon 1572 Untitled Sermon|← #1572]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1574 I Was Before|#1574 →]]

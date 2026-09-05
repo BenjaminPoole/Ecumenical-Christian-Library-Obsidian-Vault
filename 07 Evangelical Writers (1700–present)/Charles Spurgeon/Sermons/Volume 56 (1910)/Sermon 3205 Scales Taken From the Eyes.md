@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Scales Taken From the Eyes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3205
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And immediately there fell from his eyes as it had been scales." Acts 11:18.
 
@@ -61,7 +58,7 @@ III. Now thirdly, and here I should like to stir up the people of God to a littl
 
 ness—and we long for the scales to be removed! WHAT INSTRUMENTALITY DID THE LORD USE TO TAKE THE
 
-SCALES AWAY?
+## Scales Away?
 
 It was not an angel, nor was it an Apostle, but it was a plain mannamed Ananias, who was the means of bringing sight to blind Saul! We do not know much about this useful Brother. We know his name and that is enough. But Ananias
 
@@ -87,7 +84,7 @@ Among Christian people there are mighty hunters before the Lord who strive after
 
 to say. Should it be so, Brothers and Sisters? We should always be on the lookout to seat strangers comfortably and afterwards to drive home, by personal remark, any Truth of God which may have been advanced. "Ah, says one, but I may speak to the wrong person." Suppose you did? Is it such a mighty misfortune to miss your mark once? Ah, Brothers and Sisters, if you were to address the wrong person 50 times and ultimately meet the right one once in a year, it would well reward you! If you were to receive rebuffs, and rebuffs, and rebuffs, and yet at last you should find out the Brother Saul who is to have the scales removed by you—and by none but you—you would be well rewarded! A plain common-sense word from a common-sense Christian has often been the very thing to set some able critic at liberty! Some man of profound mind—a Thomas of abundant doubts and questions—has only just needed a simple-hearted Christian to say the right words and he has entered into peace and liberty. You must not think that learned persons, when the Lord touches them in the heart, need to be talked to by Doctors of Divinity. Not they! They become as simple-hearted as others and, like dying kings and dying bishops, they ask to hear a shepherd pray because they find more savor, more plainness, more earnestness, more faith and more familiarity with God in the humble expressions of the lowly than in the language of courtly preachers. Do not, therefore, Brother Ananias, say, "I cannot go and talk to anybody. I have never been to college." Do not, Sister in Christ, stay back because you are a woman, for oftentimes the Lord makes the sweet and gentle voice of women to sound out the music of Grace! God grant that many of us may be the instruments of taking the scales from men's eyes!
 
-IV. LASTLY, WHAT DID SAUL SEE WHEN THE SCALES WERE GONE?
+## IV. Lastly, What DID Saul See When the Scales Were Gone?
 
 The first person he saw was Brother Ananias. It was a fine sight for Saul to see Brother Ananias' Christian countenance beaming with love and joy! I fancy he was like one of our elders, a fine old Christian man with love to souls written on his face. When Saul opened his eyes, it must have done him good to see just such a face as that—a plain, simple man full of holy zeal and intense anxiety for his good. Dear Friend, if the Lord opens your eyes, you will see the brotherhood of Christians. Perhaps you will enjoy that among the first delights of your Christian experience and, for a little while, your faith, it may be, will hang upon the testimony of an instructed Christian woman and your confidence will need confirmation by the witness of a more advanced Brother in the Lord. But, my fellow worker, the saved one will never see Brother Ananias unless Ananias goes to him and becomes the means of opening his eyes! And if you will go and do that, you will win a friend who will love you as long as life lasts. There are some of you between whom and myself there are ties which death cannot snap. I will find you in Heaven if I can and I know you will desire to meet me. The Lord gave you to me as my spiritual children and if it should come to pass that earthly fathers should not see their children in Heaven, yet the spiritual father will see his children there praising and blessing the Lord! One of the next joys to knowing Christ, yourself, must surely be that of leading others to know Him. Seek after this bliss!
 
@@ -99,7 +96,7 @@ One more thing that Saul saw, when his eyes were opened, was what some do not se
 
 I pray the Lord to bless these feeble words of mine. O Souls, O Souls, it does seem to me so dreadful that so many of you should come here continually and yet be blind! I try to talk plainly about your souls' needs and about Christ Jesus as able to meet those needs—how long must I repeat the old story? Once again I beseech you, think upon my Lord and Master and see what a Savior He is, and how suitable He is for you! I would entreat you to delay no longer, but to close in with the invitations of His mercy. I think, sometimes, that my Master deserves that we should do more than invite you. We commandyou, in the name of Jesus of Nazareth, to bow before His scepter, for He is the King! Acknowledge His dominion and let Him be your Savior, for know this—His Gospel comes with Divine Authority as well as with gentle persuasion—and neither can men reject it except at the peril of their souls! He whom I preach to you tonight will shortly come to be your Judge. And if you will not trust Him on His Cross, you must tremble before Him on His Throne! Oh, come to Him! Simple trust is the way to come to Him. Believe in Him and He is yours and His salvation is yours!
 
-EXPOSITION BY C. H. SPURGEON: ACTS 9:1-22; 22:1-16.
+## Exposition by C. H. Spurgeon: Acts 9:1-22; 22:1-16
 
 Acts 9:1, 2. And Saul, yet breathing out threats and slaughter against the disciples of the Lord, went to the high priest and desired of him letters to Damascus to the synagogues, that if he found any of this Way, whether they were men or women, he might bring them bound to Jerusalem. His very breath was hot with malice against the saints! He could not live without venting his spite upon the disciples of Christ. He showed this by the fact that he not only sought to arrest men, but he was equally cruel towards women, who, from their weakness, one would have thought might have been left alone—but he expressly desired it to be written in the letters that, "whether they were men or women, he might bring them bound to Jerusalem."
 
@@ -140,7 +137,6 @@ also heard a supernatural sound, but they could not comprehend what the voice of
 13, 14. Came unto me, and stood, and said unto me, Brother Saul, receive your sight. And the same hour I looked up upon him. And he said, The God of our Fathers has chosen you, that you should know His will, and see that Just One and should hear the voice of His mouth. If Paul was to be an Apostle, it was necessary that he should see the Lord Christ, for one of the qualifications of an Apostle was that he should be able to bear witness, from his eyesight, and from his hearing, to the existence of the Lord Jesus Christ. Therefore it was that Saul did, at that time, "see that Just One," and did "hear the voice of His mouth."
 
 15, 16. For you shall be His witness unto all men of what you have seen and heard. And now why do you tarry? Arise, and be baptized, and wash away your sins, calling on the name of the Lord. These two things were necessary— first, he was to be baptized on profession of his faith in Jesus. And then he was to have in his soul a vivid consciousness that his sins were all washed away. This was not baptismal regeneration, for he was already regenerate! It was, however, the obedience to the Lord's command, which brought with it a sweet reassurance of the forgiveness of his sins.
-
 
 ---
 [[Sermon 3204 The Saints' Riches|← #3204]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3206 'The Church of the First-born'|#3206 →]]

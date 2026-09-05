@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Preparation for the Lord's Supper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3391
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Let a man examine himself, and so let him eat of that bread and drink ofthat cup." 1 Corinthians 11:28.
 
@@ -31,7 +28,7 @@ DELIVERED BY C. H. SPURGEON.
 
 Now, dear Brothers and Sisters, for a few minutes we shall look at the matter about which we are to examine ourselves. And then we shall press upon you this examination, by giving you a few reasons for it May God grant us a blessing in this searching business!
 
-I. CONCERNING WHAT WE ARE TO EXAMINE.
+## I. Concerning What We Are to Examine
 
 You will observe that the text does not tell us, "Let a man examine himself as to this or that particular, and so let him eat." He is to examine himself, but the Apostle does not say about what. The inference is that he is to examine himself about this Supper. He is to examine himself as to whether he has a right to eat of this bread and to drink of this wine. The Supper gives us the clue, then, as to what we are to examine ourselves upon. I shall see before me, presently, broken bread and the wine cup filled with the red wine. These two things are the emblems—the bread of the body of Christ, which was bruised and made to suffer for our sake—the wine of that precious blood of Christ by which sin is pardoned and souls are redeemed.
 
@@ -51,9 +48,9 @@ In pressing this subject upon you, may I be permitted to say, very earnestly, th
 
 Thus much upon the points which are in debate—about which we are to examine our fitness to come to this Table. Allow me now, as best I can—
 
-II. TO PRESS THIS VERY IMPORTANT SUBJECT UPON YOU, WITH SOME REASONS WHY THERE
+## II. To Press This Very Important Subject upon You, with Some Reasons Why There
 
-SHOULD BE SUCH A SELF-EXAMINATION.
+## Should Be Such a Self-Examination
 
 I might say, Brothers and Sisters, that such an examination should be used because self-knowledge is always valuable. The old Greeks, whose wonderful sayings often verged upon Inspiration, used to say, "Man, know yourself!" It is ill for a man to be acquainted with foreign countries and to know nothing of his own—to understand other men's farms and to let his own run to waste—to be conversant with other men's health and to be dying of a secret disease! To study other men's characters, but to allow his own character to be obnoxious in the sight of God. Know yourselves! Nothing will pay you better than to search your own hearts and to know yourselves. Of all stock-taking, this is one of the most beneficial. It will often be the death of pride when a man finds out what he really is. Self-righteousness will fly before such a searching, as owls fly before the rising sun! Know yourself and you are on the road to knowing Christ, for the knowledge of self will humble you, will make you feel your need of Jesus and may, in the hands of God the Holy Spirit, lead you to the finding of the Savior! Oh, Men and Women, how is it that you have so many acquaintances, such a large circle of friends and yet do not make acquaintance with yourselves? While you will read much of literature, you read not your own hearts! You commune with others, yet you commune not with yourselves and do not know yourselves. I pray you examine yourselves, if for no other reason than because such lore is among the most precious that a man can gain!
 
@@ -73,7 +70,7 @@ But suppose your answer should be, "I am very unworthy and sinful, but still, I 
 
 God grant you now, having passed the door and shown your entrance ticket as true Christians, to sit and eat bread in the Kingdom of God!
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 6:1-24; 1 CORINTHIANS 3:1-16.
+## Exposition by C. H. Spurgeon: Matthew 6:1-24; 1 Corinthians 3:1-16
 
 Verse 1. Take heed that you do not do your alms before men, to be seen of them: otherwise you have no reward of your Father which is in Heavei.. The motive which leads a man to give will form the true estimate of what he does. If he gives to be seen of men, then when he is seen of men he has the reward he sought for—and he will never have any other. Let us never do our alms or good works before men, to be seen of them.
 
@@ -101,7 +98,7 @@ Verse 1. Take heed that you do not do your alms before men, to be seen of them: 
 
 24\. For either he will hate the one, and love the other; or else he will hold to the one, and despise the other. You cannot serve God and mammoi.. Though some men's lives are a long experiment of how far they can serve the two.
 
-1 CORINTHIANS 3:1-16
+## 1 Corinthians 3:1-16
 
 Verse 1. AndI, brethren, couldnot speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ The Church at Corinth consisted of persons of large education and great abilities. It was one of those churches that had given up the one-man system, where everybody talked as he liked—a very knowing Church, and a Church of Christians, too. But for all that, Christian babies! And though they thought themselves to be so great, yet the Apostle says that he never spoke to them as to spiritual men—he kept to the simple elements—regarding the carnal part as being too much in them as yet to be able to drink down spiritual things.
 
@@ -122,7 +119,6 @@ Verse 1. AndI, brethren, couldnot speak unto you as unto spiritual, but as unto 
 14-15. If any man's work abides which he has built thereupon, he shall receive a reward. If any man's work shall be burned, he shall suffer loss, but he himself shall be saved; yet so as by fire. If he meant right—if he endeavored to serve God as a worker, though he may have uttered many errors and have been mistaken—(and which of us has not been?)— he shall be saved, though his work must be burnt.
 
 16\. Know you not that you are the Temple of God, and that the Spirit of God dwells in you?Do you know it? He says, "Know you not?" but I might leave out the, "not," and say, "Know you that you are the Temple of God?" What a wonderful fact it is! Within the body of the saint, God dwells, as in a Temple. How some men injure their bodies or utterly despise them, though they would not so do if they understood that they are the Temple of God and that the Spirit of God dwells in them.
-
 
 ---
 [[Sermon 3390 Hoping in God's Mercy|← #3390]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3392 Justification by Faith|#3392 →]]

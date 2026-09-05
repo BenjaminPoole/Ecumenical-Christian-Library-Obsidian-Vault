@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Concealing the Words of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1471
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 27, 1879,.
+*Delivered on Lord's-Day Morning, April 27, 1879*
 
 > "I have not concealed the Words of the Holy One." Job 6:10.
 
@@ -136,7 +135,6 @@ the Lord! [If the Holy Spirit is thus burdening you, a great print/audio ministr
 And lastly, and this morning most to the point, there are the heathen perishing for lack of knowledge. Millions of voices call out of the darkness to you, "Come over and help us! You have the Light of God, bring it to us! You have the Living Bread, come and feed us! We perish, we perish, we perish." Brothers and Sisters, the heathen are perishing! Will you let them perish? I wish that some young men here would go for missionaries. One of the leaders of a missionary society cheered my heart last week when he took out of his pocket an old sermon of mine, marked and crossed and scored. He said, "You will like to see that, Mr. Spurgeon." "What about it?" I asked. "That was given to me by a young man who has joined our mission. He read that sermon and marked the passages which touched his heart and now he is at work in China.
 
 I looked upon that sermon with great delight! I think I felt more pleased with that old sermon than if I had received a wreath of gold. I felt gratified that I had brought a young and fervent heart to devote itself to the Lord Jesus Christ. Give me the same joy, each of you! And if you cannot go among the heathen, personally, help others to do so! Give, this morning, a liberal collection and may God accept it at your hands for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1470 A Question for Hard-hearted Hearers|← #1470]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1472 The Glory, Unity and Triumph of the Church|#1472 →]]

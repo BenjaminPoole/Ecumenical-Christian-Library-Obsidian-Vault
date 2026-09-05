@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 46. Matthew 5:27-30
-
-**MATTHEW 5:27-30**
 
 **27**. You have heard that it was said to the ancients, Thou shalt not commit adultery. **28**. But I say to you, That whoever shall look upon a woman to lust after her, hath already committed adultery with her in his heart. **29**. And if thy right eye shall be a stumbling block [^1] to thee, pluck it out, and cast it from thee: for it is better for thee that one of thy members perish, and that thy whole body be not thrown into hell. **30**. And if thy right hand shall be a hindrance to thee, cut it off, and cast it from thee: for it is better that one of thy members perish, and that thy whole body be not thrown into hell.
 

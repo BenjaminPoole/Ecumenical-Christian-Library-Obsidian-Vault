@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 34. Of Princes and Potentates
-
-## OF PRINCES AND POTENTATES.
 
 #### DCCXI.
 

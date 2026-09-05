@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # Life More Abundant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1150
@@ -145,8 +144,7 @@ My time has gone, the subject is too large for me. Only this I conclude with—i
 
 God grant that all the members of this Church may have this great blessing for Christ's sake. Amen.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON—JOHN 10. HYMN FROM "OUR OWN HYMN BOOK"—46 (VERSION II) 798, 818.
-
+## Portion of Scripture Read Before Sermon—john 10. Hymn from "Our Own Hymn Book"—46 (Version II) 798, 818
 
 ---
 [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1151 A Revival Promise|#1151 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 122
-
-**PSALM 122**
 
 In this Psalm David congratulates himself and the whole Church upon the fact, that a seat had at length been appointed for the ark of the covenant, and that God had chosen a place where his name should be continually called upon. Afterwards, to incite and encourage the faithful to engage in the worship of the sanctuary, he briefly declares, that the prosperous condition of the people depended upon God’s having chosen the seat of royalty to be at Jerusalem, from whence it was his purpose to defend, maintain, and assist his people.
 

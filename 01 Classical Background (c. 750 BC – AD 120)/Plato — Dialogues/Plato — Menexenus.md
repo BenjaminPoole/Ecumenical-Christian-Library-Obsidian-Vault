@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Menexenus
 *trans. Benjamin Jowett*
 
@@ -19,19 +18,15 @@ tags:
 
 ---
 
-MENEXENUS
+## Menexenus
 
 by Plato
 
 (see Appendix I)
 
-
 Translated by Benjamin Jowett
 
-
-
-
-APPENDIX I.
+## Appendix I
 
 It seems impossible to separate by any exact line the genuine writings
 of Plato from the spurious. The only external evidence to them which is
@@ -250,15 +245,9 @@ of Plato, either as a thinker or a writer, and though suggesting some
 interesting questions to the scholar and critic, is of little importance
 to the general reader.
 
+## Menexenus
 
-
-
-MENEXENUS
-
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Menexenus has more the character of a rhetorical exercise than any
 other of the Platonic works. The writer seems to have wished to emulate
@@ -364,11 +353,7 @@ balance in its favour. It must be remembered also that the work was
 famous in antiquity, and is included in the Alexandrian catalogues of
 Platonic writings.
 
-
-
-
 PERSONS OF THE DIALOGUE: Socrates and Menexenus.
-
 
 SOCRATES: Whence come you, Menexenus? Are you from the Agora?
 

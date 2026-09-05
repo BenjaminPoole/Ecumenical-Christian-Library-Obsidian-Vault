@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Gratitude for Deliverance from the Grave
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2237
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I shall not die, but live, and declare the works of the Lord. The Lord has chastened me sorely: but He has not given me over unto death." Psalm 118:17,18.
 
@@ -142,7 +139,6 @@ This done, they make a further dedication of themselves to their delivering God.
 God has showed us light and we will live to Him forever and forever. Oh, you tried Believers, who have, nevertheless, not been given over unto death, who can say, tonight, "I shall not die, but live," present yourselves anew unto your delivering Lord as living sacrifices through Jesus Christ your Lord! Amen.
 
 Port/on Of Scripture Read Before Sermon—Psalm 18.
-
 
 ---
 [[Sermon 2236 Prodigal Love for the Prodigal Son|← #2236]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]]

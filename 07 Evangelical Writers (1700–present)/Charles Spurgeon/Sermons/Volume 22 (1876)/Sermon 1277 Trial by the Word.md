@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Trial by the Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1277
@@ -95,8 +94,7 @@ But hast thou dreamed of cakes which thou hast made by thine own skill? Not frui
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Genesis 39:1-7, 21-23; 40:1-8, 23; 12:1-9.
 
-HYMNS FROM "OUR OWN HYMN BOOK"— 214, 750, 754.
-
+## Hymns from "Our Own Hymn Book"— 214, 750, 754
 
 ---
 [[Sermon 1276 Unconditional Surrender|← #1276]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1278 Reasons For Parting With Sin|#1278 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Rule of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2998
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he shall be as the light of the morning, when the sun rises, even a morning without clouds, as the tender grass springing out of the earth by clear shining after rain." 2 Samuel 23:4.
 
@@ -117,8 +114,7 @@ Come to Jesus Christ and buy."
 
 We preach good works with all our hearts, but they can only be worked by and through Jesus Christ! And we never dare tell sinners to do good works and then come to Christ. That would be putting the cart before the horse, planting the stem instead of planting the root and reversing the natural order of things, which, God forbid, that we should ever do! Come, you guilty! Come, you lost! Come, you ruined! My Lord Jesus loves such as you are. He has not come to heal the healthy, but the sick! He came, "not to call the righteous, but sinners to repentance." May He call you and bring you, for His own name's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—716, 711, 30. AND FROM "SACRED SONGS AND SOLOS"—39.
-
+## Hymns from "Our Own Hymn Book"—716, 711, 30. And from "Sacred Songs and Solos"—39
 
 ---
 [[Sermon 2997 'Tempted of the Devil'|← #2997]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2999 Railings|#2999 →]]

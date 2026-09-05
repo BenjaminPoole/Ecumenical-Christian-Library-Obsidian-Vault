@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Pentecostal Wind and Fire
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1619
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 18, 1881,.
+*Delivered on Lord's-Day Morning, September 18, 1881*
 
 > "And suddenly there came a sound from Heaven, as of a rushing mighty wind, and it filed all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filed with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance." Acts 2:2-4.
 
@@ -140,7 +139,6 @@ The Temple was never so frequented as then—there was never such singing before
 May God send us a season of glorious disorder! Oh for a sweep of wind that will set the seas in motion and make our ironclad Brethren now lying so quietly at anchor to roll from stem to stern! As for us, who are as the little ships, we will fly before the gale if it will but speed us to our desired haven! Oh for fire to fall again—fire which shall affect the most stolid! This is a sure remedy for indifference. When a flake of fire falls into a man's bosom, he knows it. And when the Word of God comes home to a man's soul, he knows it, too. Oh that such fire might first sit upon the disciples and then fall on all around!
 
 And, to close, there was then a daily increase of the Church—"The Lord added to the Church daily such as should be saved." Conversion was going on perpetually! Additions to the Church were not events which happened once a year, but they were everyday matters, "so mightily grew the Word of God and prevailed." O Spirit of God, You are ready to work with us, today, even as You did then! Delay not, we beseech You, but work at once! Break down every barrier that hinders the incomings of Your might! Overturn, overturn, O sacred wind! Consume all obstacles, O heavenly fire, and give us now both hearts of flame and tongues of fire to preach Your reconciling Word for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1618 Holiness, The Law of God's House|← #1618]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1620 Is It Nothing To You|#1620 →]]

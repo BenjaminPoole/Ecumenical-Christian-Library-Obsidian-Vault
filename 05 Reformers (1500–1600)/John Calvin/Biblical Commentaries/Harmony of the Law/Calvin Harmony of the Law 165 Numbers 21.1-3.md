@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 165. Numbers 21:1-3
-
-**Numbers 21**
 
 **1.** And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies, then he fought against Israel, and took some of them prisoners.
 

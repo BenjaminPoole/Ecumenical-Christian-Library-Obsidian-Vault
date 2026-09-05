@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Our Lord's Transcendent Greatness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3382
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now shall He be great unto the ends of the earth." Micah 5:4.
 
@@ -33,7 +30,7 @@ But the text does mean this, that throughout the whole world—north, south, eas
 
 with that decree and now, in His strength, that you will make Him great And then I shall close by asking whether there are not some here whose hearts, as yet unbowed to His dominion, shall tonight come and acknowledge His sway, that they also may feel and proclaim His greatness unto the ends of the earth. In the first place, what a task I have undertaken in endeavoring to show that—
 
-I. JESUS CHRIST DESERVES TO BE MADE GREAT!
+## I. Jesus Christ Deserves to Be Made Great!
 
 Oh, my Brothers and Sisters, it needs an angel to set forth the Person of the Lord Jesus, and yet an angel might fail, for an angel was never washed in the Savior's blood and never redeemed from wrath by Jesus the Substitute! What are my lips but poor, cold clay, and what are my words but air, and how shall I, then, set forth the Son of God, the Eternal One, "who, though He was rich, yet for our sakes became poor, that we, through His poverty, might be rich"?
 
@@ -65,7 +62,7 @@ The angels love Him, though for them He laid not down His life—and shall men, 
 
 Thus much upon a theme that defies our power to set forth fully. And now, in the second place, the text may be viewed as—
 
-II. A SOLEMN PURPOSE AND DECREE ON THE PART OF GOD.
+## II. A Solemn Purpose and Decree on the Part of God
 
 Christ shall be made great to the ends of the earth. There are idol-gods that are worshipped by the largest proportion of our race, but the idols He shall utterly abolish! The false prophets have more followers on earth than Christ has. There are more Muslims than Christians of all kinds. But the crescent of Mohamed must wane. The Papacy has still a firm hold upon the minds of millions, but, like a millstone which is hurled into the flood to rise no more, so must the antiChrist of Rome be utterly cast away! Everything that stands in the place of Christ must be broken into a thousand shivers, for He must reign until He has put all His enemies under His feet! Brothers and Sisters, the very signs of the times, as well as the Word of God, lead us to the comfortable belief that there should be a wider enlightenment of the human mind. It may be, certainly it may be, that the Lord will speedily come, but it does not seem to me at all likely that He will. We are to live anticipating His coming, as servants who know they will have to give an account when He does come. That is the practical bearing of the Doctrine upon our life, but there are many prophecies yet to be fulfilled which seem to show that He is not coming just now. I believe that there will be a gradual enlightenment of the human race. I see but little of it at present, but, still, He must be great unto the ends of the earth! Hard hearts will melt before the preaching of
 
@@ -75,9 +72,9 @@ We would not be surprised if news should come, long before these heads of ours s
 
 I want, now, in the third place, to ask Christians here—
 
-III. WHETHER, AS THIS IS GOD'S DECREE, IT HAS NOT OFTEN ALSO BEEN THE EXPRESSION OF OUR
+## III. Whether, as This Is God's Decree, It Has Not Often Also Been the Expression of Our
 
-HEARTS?
+## Hearts?
 
 When you and I were first converted, did we not say that we would make Him great? And we did try to do it. We began to talk to our friends. We got a handful of tracts and gave them away. We tried to get into a little cottage to speak about Christ and our resolve then was that, as far as ever our power would go, we would make Christ great to the ends of the earth! Ah, we have fallen very sadly short of those first days. I am afraid we have not kept up our first love, but I wish that every Christian here would go back to that first moment when he received his pardon and say, "Yes, I have been loved much and, having had much forgiven, in God's name, I will love Him much in return. And as far as I can, I will make His name great."
 
@@ -91,7 +88,7 @@ I think, then, that we are all agreed upon this point. We mean, God helping us, 
 
 And now we can spend only two or three minutes in asking the question—
 
-IV. ARE THERE NOT SOME HERE TONIGHT IN WHOM JESUS CHRIST MAY BE MADE GREAT?
+## IV. Are There Not Some Here Tonight in Whom Jesus Christ May Be Made Great?
 
 Now, you good people who have never done anything wrong and who have got a very good righteousness of your own—I do not ask you to glorify Christ—because you cannot! If I wanted to praise up some doctor and said, "Now, here he is—he can cure all diseases! Will you come and help him to get a name?" I would know that you who were not sick could not help him, but the man who was most sick would be the very one that would get the doctor the best name if he could cure him! So when Christ's name is to be lifted up and we want to preach Him so that He may be extolled, you who feel your guilt are the very men who can help us! Supposing now, Jesus Christ should take the drunk and wash out his mouth and make a sober man of him—and a Christian—would not that make Christ to be exalted? And ah, if there should be, even here, a woman of an evil and vicious life, and Christ should change her so as to make her chaste and ho-norable—oh, how great it would make Him to become! And if some black villain has crept in here and one who has said of himself that there is no hope of his being converted and no mercy possible for him—supposing he should find pardon and peace by believing in Jesus? And then suppose he become a preacher of His Gospel—would that not make Christ's name to be made great? John Newton was once the vilest of the vile and oh, it made London wonder when the African blasphemer stood up in the pulpit of the church of St. Mary, Woolnooth, to preach the Christ and the Cross which he had so blasphemed! And oh, may God make London wonder yet again by taking some of the worst of the worst, and saving them, and making them proclaimers of the Gospel of His Grace! Why should He not do it? He has often done it. Are you willing and anxious that He should do it again? Then cry to Him and He will do it!
 
@@ -109,7 +106,7 @@ The subject was, as I have said, the unpardonable sin. And Mr. Cooke showed what
 
 "Oh, Sovereign Grace, my heart subdue, I would be led in triumph, too! A willing captive to my Lord, To sing the triumph of His Word."
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 12.
+## Exposition by C. H. Spurgeon: Revelation 12
 
 Verse 1. And there appeared a great wonder in heaven: a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars. This is that woman of whom the promise runs, "The seed of the woman shall bruise the serpent's head." John saw this in a vision in the heavenly places. He saw the Church of God, enthroned, made glorious, clothed with the sun, having the brightness of Divine Light about her, with all that is variable, changeable as the moon under her feet, and upon her head the crown "that her Lord had given her"—twelve Patriarchs, twelve Prophets, twelve Apostles, a complete number of glorious lights kindled from Heaven!
 
@@ -140,7 +137,6 @@ God.
 16\. And the earth helped the woman, and the earth opened her mouth, andswallowed up the flood which the dragon cast out of his mouth. It is poor help that the earth can give, and yet God has overruled to make it useful. The kings and the powers of this world have for their own reasons sometimes protected the Church. It was so in Luther's day. The jealousy that was felt of the influence of the Court of Rome politically tended to the preservation of Luther and those round about him, so that the Gospel was not destroyed. "The earth helped the woman," and we may expect that even those political disasters, which we often dread, will all tend that way. How often has priestly arrogance been put to the blush even for political reasons! We have nothing to do with that, but still we can see how God can overrule. It is always amiss when a woman begins to help the earth—she has nothing to do with that—let the Church leave the State alone. But sometimes it happens that in the political Providence of God the earth helps the woman.
 
 17\. And the dragon was angry with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have testimony of Jesus Christ. "And the dragon was angry with the woman." If ever you meet with a church of God which the devil likes, it is good for nothing! But if it is a true Church of God—if it holds the Truths of God and if it walks in holiness, it will always be true! "And the dragon was angry with the woman, and went to make war with the remnant of her seed." He had destroyed many already with that flood of persecution and he kept on a battle with the remnant of her seed, "which keep the commandments of God, and have the testimony of Jesus Christ." Into the deep mysteries of this passage I have not attempted to go, but have simply skimmed the surface. God bless the reading to us.
-
 
 ---
 [[Sermon 3381 The Broken Fence|← #3381]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3383 The Plowman|#3383 →]]

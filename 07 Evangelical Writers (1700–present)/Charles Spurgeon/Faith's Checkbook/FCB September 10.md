@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 10
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**COMING IN; GOING OUT**
+## **Coming in; Going Out**
 
 > Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out" Deut. 28:6
 
@@ -25,7 +24,6 @@ This day I will come in to my house without fear of evil tidings, and I will com
 I must also go out. Timidity makes me wish that I could stay within doors, and never go into the sinful world again. But I must go out in my calling, and I must go out that I may be helpful to my brethren, and useful to the ungodly. I must be a defender of the faith and an assailant of evil. Oh, for a blessing upon my going out this day! Lord, let me go where Thou leadest, on Thy errands, under Thy command, and in the power of Thy Spirit.
 
 Lord Jesus, turn in with me and be my guest; and then walk out with me, and cause my heart to burn while You speak with me by the way.
-
 
 ---
 [[FCB September 9|← September 9]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 11|September 11 →]]

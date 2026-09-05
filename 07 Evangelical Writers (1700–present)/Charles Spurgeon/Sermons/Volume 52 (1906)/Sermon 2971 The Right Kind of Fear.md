@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Right Kind of Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2971
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Happy is the mam who fears always." Proverbs 28:14.
 
@@ -132,7 +129,6 @@ And some of you are getting old, yet you are not saved. Sixty years of age, and 
 O Sirs, if you are not believers in the Lord Jesus Christ, you are standing over the mouth of Hell, upon a single plank and that plank is rotten! You are hanging over the jaws of Perdition by a single hair and that hair is snapping! I looked down my well, this afternoon, as a man was going down it to do some necessary work, and I said to him, "Oh, do be careful! Pray be very careful!" I felt such dread upon me lest, possibly, the man should fall while he was going down that great depth into which I looked till it made me giddy—and I cannot bear to think of some of you, who are in far greater danger, for you are hanging over the mouth of Hell with only a rotten rope to hold to! Some of you may be in Hell within a week. I cannot guarantee that any one of you will live ten minutes longer. All the physicians in the world would not be able to guarantee to any one individual that he should live even for five minutes! You are always liable to death and in danger of the wrath to come. Therefore, escape for your lives, I entreat you!
 
 And meanwhile I would put you in fear about this matter, that, through this fear, you may be driven to the only place of safety, even to Jesus Christ, who was lifted up upon the Cross and now is exalted on high a Prince and a Savior! There is life in Him! There is life for you at this moment if you will only trust in Him! There is pardon for you now if you will only believe in Him!
-
 
 ---
 [[Sermon 2970 God's Jewels|← #2970]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2972 Forgiveness|#2972 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Christ's Glory Turned to Shame
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3276
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O you sons of men, how long will you turn My Glory into shame?" Psalm 4:2.
 
@@ -95,7 +92,7 @@ Oh, may my soul be found in Him,
 
 And of His righteousness partake." Is there anyone here who has despised and rejected the Lord Jesus Christ? Alas, I fear that many, even in this assembly, have done so. Have you set Him at nothing? Have you thought nothing of Him? Have you mocked Him? Have you put a crown of thorns upon His head? Oh, if you have hitherto been numbered among His enemies, quit their ranks this very hour, bend your knees before Him in true homage and submission, give Him your hearts to be His royal throne, give Him yourselves to be His loyal subjects and servants forever! Look unto Him as He was upon the Cross and as He is upon the Throne of God! Trust Him with your whole heart, for whoever believes in Him has everlasting life! God bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 4; 5.
+## Exposition by C. H. Spurgeon: Psalms 4; 5
 
 Verse 1. Hear me when I call, O God of my righteousness: You have enlarged me when I was in distress; have mercy upon me, and hear my prayer.Good men want to be heard when they pray. They are not satisfied with merely praying— they must have God's answers to their supplications. See how David pleads the past mercy received from God—"You have enlarged me when I was in distress." Cannot my own heart look back to God's loving kindness to me in days gone by? Oh, yes! Then, as He is the same God, what He has done in the past is an argument for what He will do in the future! There are some of us here who can adopt the Psalmist's language and say, "You have enlarged me when I was in distress; have mercy upon me, and hear my prayer."
 
@@ -164,7 +161,6 @@ want to say to the Lord in prayer, as David did when he said, "'O Lord, consider
 10\. Destroy You them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against You."It does not matter what they do against me, but O Lord, 'they have rebelled against You.'" David speaks here like a judge pronouncing sentence upon the guilty—not out of malice, but out of loyalty and devotion to God!
 
 11, 12. But let all those that put their trust in You rejoice: let them always shout for joy because You defend them: let them also that love Your name be joyful in You. For You, LORD, will bless the righteous; with favor will You compass him as with a shield.
-
 
 ---
 [[Sermon 3275 'A Kind of First Fruits'|← #3275]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3277 Good Cheer From Christ's Call and From Himself|#3277 →]]

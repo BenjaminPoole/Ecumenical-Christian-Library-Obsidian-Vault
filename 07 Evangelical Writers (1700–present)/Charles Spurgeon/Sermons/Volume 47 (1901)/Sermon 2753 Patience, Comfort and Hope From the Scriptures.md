@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Patience, Comfort and Hope From the Scriptures
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2753
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For whatever things were written before were written for our learning, that we Through the patience and comfort of the Scriptures might have hope." Romans 15:4.
 
@@ -65,7 +62,7 @@ of a pilgrim who pushes on because he believes in the inheritance which he will 
 
 II. Then, in addition to the patience of the Scriptures, we are exhorted to seek to possess THE COMFORT OF THE
 
-SCRIPTURES.
+## Scriptures
 
 It is not right for us to be patient, yet miserable. I think I have seen some who professed to be Christians give themselves up to a mode of life which was not at all what it should be. They did not actually complain, but one could see that they were not happy. This is not the point to which the Spirit of God would bring us—He would have us get the comfort of the Scriptures. Well, now, what is the comfort of the Scriptures?
 
@@ -113,7 +110,7 @@ Now I must send you away with this mournful reflection—that there are some of 
 
 May the Holy Spirit bring you to repent of sin, to believe in Jesus, to cast yourselves wholly upon Him—may He, by His Grace, cut the links which now bind you to the world and enable you to give yourselves up wholly to Christ, that He may save you! May the Lord do this in His infinite mercy, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 15:1-16.
+## Exposition by C. H. Spurgeon: Romans 15:1-16
 
 Verse 1. We then that are strong ought to bear the infirmities of the weak, and not to please ourselves. When we are free from scruples upon any point and feel that there are things that we may do because we are strong, yet let us not do them if, thereby, we should grieve others who are weak. Let us think of their infirmities and, whatever liberty we may feel entitled to claim for ourselves, let us look at the matter from the standpoint of other people as well as from our own, that we may bear the infirmities of the weak and not seek to please ourselves.
 
@@ -138,7 +135,6 @@ scension covering our faults and seeking our good, He welcomed us to His heart. 
 13\. Now the God of hope. Turn back to the fourth verse and note the expression, "that we through the patience and comfort of the Scriptures might have hope." Then read in the fifth verse, "The God of patience and comfort" and see how Paul here goes back to that last word in the fourth verse, "Now the God of hope"—
 
 13-16. Fill you with all joy and peace in believing, that you may abound in hope, through the power of the Holy Spirit. And I myself also ampersuaded ofyou, my brethren, that you also are full of goodness, filled with all knowledge, able also to admonish one another Nevertheless, brethren, Ihave written the more boldly unto you in some sort, asput-ting you in mind, because of the Grace that is given to me of God. That I should be the minister of Jesus Christ to the Gentiles, ministering the Gospel of God that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit. Now would have been the time for Paul to say that he had been made a minister "to offer the unbloody sacrifice of the mass," if such a thing had been right! To offer up the daily sacrifice, as the so-called "priests" say that they now do! But he says nothing of the sort and even when he represents the Gentiles as being offered up, he does not speak of any sacrifice going therewith, but says that it "might be acceptable, being sanctified by the Holy Spirit."
-
 
 ---
 [[Sermon 2752 The Door|← #2752]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2754 Strange Dispensations and Matchless Consolations|#2754 →]]

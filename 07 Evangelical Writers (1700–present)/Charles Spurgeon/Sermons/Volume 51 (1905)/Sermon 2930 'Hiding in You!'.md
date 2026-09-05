@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'Hiding in You!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2930
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I flee unto You to hide me." Psalm 143:9.
 
@@ -81,7 +78,7 @@ If I could lock some of you up in a room and make you think about your position 
 
 IV. Now, fourthly, and briefly, before anyone of us will say to the Lord, "I flee unto You to hide me," there must be
 
-A SOLID CONFIDENCE.
+## A Solid Confidence
 
 What kind of confidence do I mean? A solid confidence that God can hide us. Did you notice the second hymn that we sang? It always seems to me that the writer had a wonderful conception of God in His awfulness and greatness to be feared and then he says—
 
@@ -113,7 +110,7 @@ There are His dear wounds and you are a poor feeble dove—and the cruel hawk is
 
 "Come, guilty souls, and flee away Like doves to Jesus' wounds! This is the welcome Gospel-Day, Wherein free Grace abounds." God bless you all, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM143.
+## Exposition by C. H. Spurgeon: Psalm 143
 
 Psalm 143:1, 2. Hear my prayer, O LORD, give ear to my supplications: in Your faithfulness answer me, and in Your righteousness. And enter not into judgment with Your servant: for in Your sight shall no man living be justified. That is, of course, apart from the wondrous system of Justification by Faith in Jesus Christ whereby Believers are made the righteousness of God in Him! Apart from that righteousness, no man living can be justified in the sight of God.
 
@@ -136,7 +133,6 @@ Hold me with Your powerful hand!" Or say with David, "Cause me to know the way w
 10, 11. For You are my God; Your spirit is good; lead me into the land of uprightness. Quicken me, O LORD, for Your name's sake: for Your righteousness' sake bring my soul out of trouble. What earnest pleading is this and how powerful it is! Every word is so fitting that if I had time to explain it, you would note the force and appropriateness of every syllable that the Psalmist here uses.
 
 12\. And of Your mercy cut off my enemies, and destroy all them that afflict my soul: for I am Your servant.
-
 
 ---
 [[Sermon 2929 A Challenge and War Cry|← #2929]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2931 Return! Return!|#2931 →]]

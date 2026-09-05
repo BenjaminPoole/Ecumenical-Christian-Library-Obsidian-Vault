@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 50
 
-**CHAPTER 50**
+***Chapter 50***
 
 ## Lecture One Hundred And Seventy Ninth
 
@@ -106,7 +105,7 @@ As the clock strikes, I must stop here.
 
 ## Prayer Lecture 179
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may not be inebriated with the sweetness of earthly blessings which thou bestowest continually on us, but learn to ascend to the hope of celestial life and eternal felicity, and in the meantime have such a taste of thy blessings, that we may know that thou art an inexhaustible fountain of all felicity, so that we may cleave to thee with a sincere heart and in perfect integrity, until we shall at length be brought to the full fruition of that kingdom, which thine only-begotten Son has procured for us by his own blood. — Amen.
 
@@ -200,7 +199,7 @@ Now it was necessary, for two reasons, for the Prophet to speak thus; first, it 
 
 ## Prayer Lecture 180
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though we cease not daily to provoke thy wrath by our many sins, we may yet, with confidence, flee to thy mercy, and that though thou seemest for a time to cast us away, we may not yet cast away hope, founded on thy eternal word, but that, relying on that Mediator in whom we always find the price of expiation, we may not hesitate to call on thee as our Father; and may we, in the meantime, find thee by experience to be such towards us, so that we may cheerfully look forward to that celestial inheritance, which has been obtained for us by the blood of thy only-begotten Son. — Amen.
 
@@ -308,7 +307,7 @@ This passage is remarkable, and from it we especially learn this valuable truth,
 
 ## Prayer Lecture 181
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been so merciful towards thine ancient *people,* and however grievously thou mightest have been offended, yet thou didst preserve some remnant to whom thou gavest tokens of thy mercy, — O grant that it may please thee so to allure us also at this day; and however we may deserve a thousand times to be condemned by thee, yet deign to receive us in thine only-begotten Son, and through him show thyself reconciled to us to the end of our life; and be thou our Father in death itself, so that we may live and die to thee, and acknowledge this to be the only true way of salvation, until we shall at length enjoy that celestial inheritance which has been obtained for us by the blood of the same, thine only-begotten Son. — Amen.
 
@@ -389,7 +388,7 @@ This is the reason why the Prophet says, God *hath opened his treasury;* and the
 
 ## Prayer Lecture 182
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to set before us thy judgments on the unbelieving, we may not only fear thee, but also learn to cast on thee the hope of our salvation, so that we may make progress in the truth, that we may neither be insensible as to thy threatenings, nor tremble in our extreme evils, but so learn to raise up to thee our eyes, that we may, during the whole course of our life, call on thee through Christ Jesus our Lord. — Amen.
 
@@ -493,7 +492,7 @@ He afterwards adds what is of the same import, *His name is Jehovah of hosts;* t
 
 ## Prayer Lecture 183
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that, as thou hast deigned once to take us under thy protection, we may always raise up our eyes to thine infinite power, and that when we see all things not only confounded, but also trodden under foot by the world, we may not yet doubt but that thy power is sufficient to deliver us, so that we may perpetually call on thy name, and with firm constancy so fight against all temptations, that we may at length enjoy in thy celestial kingdom the fruit of our victory, through Jesus Christ our Lord. — Amen.
 
@@ -585,7 +584,7 @@ He then adds, *against thee, daughter of Babylon* He intimates that they would b
 
 ## Prayer Lecture 184
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou teachest us by the example of the ungodly to fear thy name, we may learn to submit our necks to thy word, and willingly, and as it becomes us, submissively to receive thy yoke, that while we strive to glorify thy name, being safe under thy protection, we may disregard all the attacks of our enemies, and all the assaults and onsets of Satan, who is the captain of all our enemies, until we shall at length enjoy our victory in the celestial kingdom, through Christ our Lord. — Amen.
 

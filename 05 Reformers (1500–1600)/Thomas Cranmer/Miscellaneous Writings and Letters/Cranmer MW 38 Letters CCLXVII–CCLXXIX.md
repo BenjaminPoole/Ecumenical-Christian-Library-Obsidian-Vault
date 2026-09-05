@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 38. Letters CCLXVII–CCLXXIX
 
-CCLXVII. TO CRUMWELL.
+## CCLXVII. To Crumwell
 
 MY singular good lord, in my most hearty wise I commend me to your lordship ; and state Paper whereas I am informed that this bearer Edward Askew, my servant, son unto Sir ibid*' William Askewe, knight, is by some nobleman preferred unto the room of one of these Ongmal) new spears2 in the court, which, because it is done both without my knowledge and his, I shall beseech you, my lord, inasmuch as I have no friend to sue unto for me and mine, but only unto your lordship, that you will, at this my request, bear unto him your lawful favour and furtherance in the same ; assuring your lordship that he, the young man, is of a very gentle nature, right forward, and of good activity, so that I think he shall be meet to furnish such a room, and to do unto the king s majesty diligent and faithful service. Thus, my lord, right heartily fare you well. At Ford, the 28th day of December. [1539.]
 
 Your own assured ever,
 
-T. CANTUARIEX.
+## T. Cantuariex
 
 To my very singular good lord, my lord privy
 
@@ -29,19 +28,19 @@ In December [A.D. 1539] were appointed to wait on the king's highness' person, f
 
 state Paper Slid!6'
 
-CCLXVIII. TO CRUMWELL.
+## CCLXVIII. To Crumwell
 
 MY very singular good lord, after my most hearty commendations ; these shall be to advertise your lordship, that I have received by my servant Eaton fifty sovereigns from you, which shall be delivered to-morrow, and presented unto my lady Anne's1 grace, according to your lordship's advertisement in your letters; and if I may compass and bring it to pass, the town of Canterbury shall put thereunto fifty angels, to be all together presented in one cup. And whereas this bearer Mr Pheneux, your servant, by his demore here in giving attendance upon me whiles my said lady Anny's grace was received at Canterbury, hath longer absented himself from you than he thought to have done, I trust your lordship will accept the same in the best part; assuring you, my lord, that in case he and other gentlemen of the country, with mine own retinue, had not the better assisted me, over and besides the number appointed, I should have received her grace but with a slender company. For the whole number appointed to me, besides mine own company, was not six score, and yet some of them failed ; so that if, partly by mine own company, and partly by other gentlemen's assistance, it had not been supplied, I should not have received her with a convenient number. Thus, my lord, most heartily fare you well. At Canterbury, the xxixth day of December.
 
 Your own ever assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my very singular good lord, my lord privy seal.
 
 State Paper Office. Ibid. Original.
 
-CCLXIX. TO CRUMWELL.
+## CCLXIX. To Crumwell
 
 MY very singular good lord, in my most hearty wise I commend me unto your lord ship ; always thanking you for your benevolence towards me and my poor servant, for which I am not able to recompense as my mind is ; signifying to your lordship, that you shall receive of my servant Nevell this bearer £20. for your half year's fee2 now due. And whereas my said servant Nevell inforrneth me, that Mr Chancellor of the Augmentation told him, that the king's majesty was content that he should have some recompence for his farm of the parsonage of Bowghton3 ; these shall be to desire you, my lord, to bear him your lawful favour for his furtherance unto such recompence : for the which you shall bind him to be at your lordship's commandment during his life. Thus, my lord, right heartily fare you well. At Ford, the xx. day of January. [1539-40.]
 
@@ -57,13 +56,13 @@ THOMAS CANTUARIEN. To my very singular good lord^ my lord privy seal.
 
 [3 Vid. Letter CCXXXIII. p. 374.]
 
-1540.J LETTERS. 401
+## 1540.j Letters. 401
 
-CCLXX. TO KING HENRY VIII.4
+## CCLXX. To King Henry Viii.4
 
 I heard yesterday in your grace's council, that he [Crumwell] is a traitor: Higt ofKn yet who cannot be sorrowful and amazed that he should be a traitor against your majesty, JS j^J-11' he that was so advanced by your majesty ; he whose surety was only by your majesty ; J*rt's ufe of he who loved your majesty (as I ever thought) no less than God; he who studied f^-^J. always to set forwards whatsoever was your majesty's will and pleasure ; he that cared for no man's displeasure to serve your majesty ; he that was such a servant, in my judg ment, in wisdom, diligence, faithfulness, and experience, as no prince in this realm ever had ; he that was so vigilant to preserve your majesty from all treasons, that few could be so secretly conceived, but he detected the same in the beginning ? If the noble princes of memory, king John, Henry the Second, and Richard II. had had such a councillor about them, I suppose that they should never have been so traitorously abandoned and over thrown as those good princes were I loved him as my friend, for so I took him to be ; but I chiefly loved him for the love which I thought I saw him bear ever towards your grace, singularly above all other. But now, if he be a traitor, I am sorry that ever I loved him or trusted him, and I am very glad that his treason is discovered in time : but yet again I am very sorrowful ; for who shall your grace trust hereafter, if you might not trust him ? Alas ! I bewail and lament your grace's chance herein, I wot not whom your grace may trust. But I pray God continually night and day, to send such a counsellor in his place whom your grace may trust, and who for all his qualities can and will serve your grace like to him, and that will have so much solicitude and care to preserve your grace from all dangers as I ever thought he had Q4 June, 1540.]
 
-CCLXXI. TO WRIOTIIESLEY5.
+## CCLXXI. To Wriotiiesley 5
 
 MASTER Wrythiosley, after my right hearty commendations ; these be to signify unto state Paner you, that I have received out of the realm of Pole letters from Dantiscus, bishop of mestuFHVermien., who was many years the king of Pole his ambassador unto the emperor, and 1/534— IMO. was with the emperor the same time that I was the king our master his ambassador6 : original in whom I found at that time great humanity and faithfulness ; and, as I could perceive, as ready an heart he had to serve the king's majesty our master, as if he had been his own subject ; and as lovingly he entreated me, as if he had been my owTn brother, not withstanding that we were of two contrary judgments ; for he was a mere papist. Neverthe less he would hear me diligently and patiently to say all my mind concerning the bishop of Rome, and seemed many times to condescend unto my judgment, and to allow the same. Howbeit, after he came home into his own country, and had two bishoprics given unto him, " Jordanus conversus est retrorsum :" for he returned again wholly u ad papismum." And now they say that he is the greatest persecutor of God's word that is in all the land of Pole ; and you may perceive by his letter, (which herewith you shall receive,) how much he is offended with me, for that, according to God's word, I wrote myself in the subscription of my letter, ecdesice Cantuarien. ministrum.
 
@@ -87,19 +86,19 @@ And when Gardiner went ambassador, he took him along with him. Afterwards he fel
 
 Hist. of Reformat. Vol. I. p. 63. Vol. II. p. 30.] [« Vid. Letters II, III, pp. 231, 2.]
 
-FCRANMER. IT.!
+## Fcranmer. It.!
 
 what heinous rumours by mischievous tongues be spread into so far countries of the king's majesty, which would make any true and loving subject's heart bleed in his body to hear or read of his prince. And by cause you should the better perceive the same, 1 have sent you Damascus' own letter1, interlined in places most notable concerning that matter ; desiring you to declare the same to the king's highness at convenient opportunity, and to know his pleasure, whether I shall make any answer unto the said Dantiscus, and what answer I shall make : for the matter is of such importance, that I dare not presume to make a slender answer upon mine own head. Nevertheless, I think it not good to open this matter unto the king's grace, until he be well recovered of his disease, (which 1 pray God shortly to put away,) lest peradventure it might trouble and move his grace, and rather be occasion of longer continuance of the said disease. And if that had not been, I would have come to the court this day myself; but I thought it very evil that any person or matter should at this present disquiet his grace. Wherefore I refer unto your wisdom to break this matter unto his grace at such time as you shall think most expedient. From Lamhith, this saint Matthies day. [21 Sept. 1540.]
 
 Your assured,
 
-T. CANTUAHIKX.
+## T. Cantuahikx
 
 To my loving friend sir Thomas Wrythisley, secretary unto the kings majesty.
 
 State Paper Ofnee. Do mestic Pa pers, A. D. 1 5.'M-1 540. Vol. III. Original.
 
-DANTISCUS TO CIIANMER.
+## Dantiscus to Ciianmer
 
 Rumorem de morte mea ad te, mi htunanissime Cramere, perlatum, eo auctum scribis, qnod a me infra triennium nullas acceperis. Hoc quidem non incurantia aut mutuae nostrum amicitia? oblivione contigit, veruin ob similem de te rumorem, qui apud nos percrebuit, quern certe, amantissimus utpote tui, dolenter accepi, Te, inquam, jussu Regis tui, cum multis aliis bonis viris, praitcr omnem cequitatem fuissc e vivis sublatum. Quo intime permotus, non secus atque tu meis, ita et ego tuis manibus reternam non semel beatitudinem sum precatus. Qua de re, quum ejusmodi rumor (Deo gratia !) utrique falsus evanuit, gaudenduni nobis, et ad pristinum benevolentiae officium et animo et scripto redeundum est. Tu tamen, ne te
 
@@ -125,7 +124,7 @@ THUS Joannes Dantiscus Episeopus
 
 Vermien : manu mea script. R'no. in Christo Patri Domino Thomas Cranmero Archiepiscopo Cantuaricn. et regni Anglian Primati, fratri carissimo et honorando.
 
-[TRANSLATION.] DANTISCUS TO CRANMER.
+## [Translation.] Dantiscus to Cranmer
 
 IN your letter YOU say that the report of my death which reached you, was confirmed by the fact that you had not received a letter from me for three years. This has, I assure you, happened neither from carelessness nor forgetfulness of our mutual friendship, but in consequence of a similar report concerning yourself, which was very general among us ; and of a truth, as being greatly attached to you, with much sorrow did I hear that by the command of your king you in particular, as well as many other good men, had been removed from the living, in violation of every principle of equity. Being deeply affected by it, I offered up many a prayer for the eternal blessedness of your spirit, as you had done for mine : but as in this matter such a report hath in both cases, by God's grace, turned oxit false, we must rejoice, and in mind, as well as by letter return to our ancient manifestation of good will. I pray you, however, to take care lest the fate of the moth should overtake you, since the times are such among you, as never before have happened in any country of the Christian world. More I would add, did I not fear that this might do you an injury, if it were to fall into any other person's hands than your own.
 
@@ -145,7 +144,7 @@ To the most reverend father in Christ, master Thomas Cranmer, archbishop of Cant
 
 Written with mine own hand.
 
-CCLXXII. TO OSIANDER1.
+## CCLXXII. To Osiander 1
 
 SALVE plurimum ! Vix tribus abhinc diebus elapsis, Osiander dilectissime, literas ad te scriptitabam, quas per subitum et festinatum tabellarii discessum coactus sum abbre viate, imo abrumpere plane, praatermisso eo, quod et tune quam maxime scriptum volui, et nunc otii plusculum nactus, nescio quam nervose, verbose certe decrevi pertractare. Res est, nt mihi quidem videtur, non parva, neque leniter animadvertenda, ut qua* ad omnium evangelicam veritatem profitentium sugillationem, ne dicam ignominiam et culpam manifesto pertineat. Proinde te rogo, ut et scriptum hoc meum legas attente, et tuum vicissim responsum super eo conficias accurate, matureque remittas, quo h abeam tandem quod respondeam iis qui me interrogant. Nosti enim, opinor, ut soleant homines hie omnium quaa istic geruntur a me rationem exigere: alii quidem bono animo, et communis evangelicse causae studio soliciti, nequid a vobis fieret secus quam oporteret ; aliis autem malus est animus, mala mens. Nihil magis cupiunt, aut captant, quam ut justam aliquam vos et vestra facta dicta ve reprehendendi ansam undecunque apprehendant ; et gaudent si mihi in os subinde talia possint objicere. Quibus duobus inter se diversis hominum generibus respondeo ego persgepe, quas vel ipse comminisci possum, vel qure ex scriptis vestris, sive in publicum emissis, sive ad me privatim missis, possim colligere. Incidunt tamen perstepe nonnulla, quae nee negare possum, nee absque rubore fateri ; nequeo denique quo pacto a vobis honeste aut pie fieri doceantur, rationem ullam saltern excogitare sufficientem. Nam ut interim de usuris taceam, a vobis aut vestrum certe nonnullis (ut apparet) approbatis, deque eo, quod magnatum filiis concubinas habendas permittitis, (videlicet ne per nuptias legitimas hasreditates dispergantur,) qui concubinatum in sacerdotibus tantopere aversati estis : quid poterit a vobis in excusationem allegari pro eo, quod permittitis a divortio, utroque conjuge vivo, novas nuptias coire, et, quod adhuc deterius est, etiam absque divortio uni plures permittitis uxores? Id quod et tute, si recte memini, in quibusdam tuis ad me literis apud vos
 
@@ -159,7 +158,7 @@ Quod si forte dixerint, ea jam quoque tolerari posse, eo quod ante Christum natu
 
 xn. Ed. Belg. 1007, p. 87," and " Jac. Benignus Bossuetus, de variat. Eccl. Prot. anno. 1(588. Ed. Belg. Lib. vi. p. 226," and others. Comment. Hist. Apol. de Lutheran. Lib. lit. Sect. 21. §lxxix. Add. 3. pp. 277 et seqq. Vid. also Fuesslin's Epist. Reformat, pp. 11)8, 9. Ed. Tigur. 1742.]
 
-406 LETTERS. [1540.
+## 406 Letters. [1540
 
 pnepostera omnia ? Sed adhuc propius urgebiinus cos, ffiterrogabimugqiie : An non tantum qua? sub lege facta sunt, sed etiam qu# ante legem ; et an non tantum qua? a Judaeis, sed et quas a gentibns fuerint usitata, veluti jure postliminii, ad exemplum rcvocabunt ? Et si ilia tantum, cur non htec aeque atque ilia ? prtesertim qua? a sanctioribus et sapientioribus viris, ut Socrate, Platone, Cicerone, etc. fuerint vel facta vel approbata. Quod si utraque concedent, concedant et nobis Britannis, more majorum nostrorum, denas duodenasque uxores habere insinuil communes, et maxime fratres cum fratribus, parcntcs cum liberis : quod aliquando in hac insula usitatum fuisse, Ca?sar, non ignobilis auctor, testatur in Commentariis. Concedant foeminis Christianis, quod Solon suis Atheniensibus conccsserat, ut qua* viros parum ad rem veneream idoneos sortitru fuissent, aliquem ex mariti propinquis impune admitterent. Concedant quod Lycurgus concessit viris LacechEmoniis, ut qui minus esset ad procreandam prolem idoneus, alteri cui vellet suam conjugem impregnandam daret, et prolem precario sibi natam, ut propriam, suo nomine nuncuparet. Aut denique quod Romanorum legibus permissum erat, ut qui satis liberorum procreasset, uxorem suam alteri commodaret prolem desideranti : id quod et Cato, vir gravissimus sapientissimusque habitus, Hortensio amico suo legitur fecisse. Talia cum probata fuerint antiquitus viris sapientissimis, ac philosopliorum legumque latorum optimis et sanctissimis, ut Platoni, Xenophonti, Catoni, etc. ; quum eadem fuerint moribus recepta Hebra?orum, Graecorum, Latinorum, (quorum populorum respublicas et ])olitias constat optime fuisse constitutas, et ab omnibus scriptoribus maxime celebratas.) age, faciamus et nos, si Deo placet, similia, et Christianis fratribus permittamus facienda. Imo Christus Opt. Max. tarn foeda tamque incestuosa connubiorum portenta a sua sancta ecclesia dignetur avertere, nunc et in diem Domini ! Amen.
 
@@ -169,7 +168,7 @@ Decembr. [1540.]
 
 Tui amantissimus,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the most learned master Andrew Osiander, preacher of Nurernburg.
 
@@ -185,9 +184,9 @@ although I think, nay more, I know for a certainty, that you are most opposed to
 
 Your most affectionate,
 
-T. CAXTUARIKN.
+## T. Caxtuarikn
 
-CCLXXIII. TO KING HENRY VIII.
+## CCLXXIII. To King Henry VIII
 
 LettcLx may P'easc y°ur majesty to understand, that at my repair unto the queen's grace ' er ^n sucn lamentation and heaviness, as I never saw no creature ; so that it would nave pitied any man's heart in the world to have looked upon her: and in that ho]) h vehement rage she continued, as they informed me which be about her, from my departure state Papers, from her unto my return again; and then I found her, as I do suppose, far entered . toward a frenzy, which I feared before my departure from her at my first being with her : and surely, if your grace's comfort had not come in time, she could have continued no long time in that condition without a frenzy, which, nevertheless, I do yet much suspect to follow hereafter.
 
@@ -205,7 +204,7 @@ Your grace's most bounden chaplain,
 
 T. CANTUARIEN. To the king's majesty.
 
-CCLXXIY. TO KING HENRY VIII.
+## Cclxxiy. To King Henry VIII
 
 IT may please your majesty to be advertised, that yesterday the ambassador of Cleve state Paper came unto my house at Lamhith, and delivered me letters from Oslynger, vice-chancellor Domestic unto the duke of Cleve, which letters I have sent unto your majesty herewith inclosed : IMLVOMY the purport whereof, after he hath set forth my lauds and commendations like an orator, holograph, when he cometh to the substance of the matter, is nothing else but to commend unto me V^I'/P^H the cause of the lady Anne of Cleve. Which although he trustcth that I would do of CLXXVII. myself, undesircd, yet he saith that the occasion is such, that he will not omit to put pp' 71(J) 17' spurs to the horse that runneth of his own courage. When I had read the letter, and considered that no cause was expressed specially, but only in general that I should have commended the cause of the lady Anne of Cleve; although I suspected the true cause of his coming, yet I would take upon me no knowledge of any special matter, but said thus unto him : " Master ambassador, I have perused Oslynger's letters, by the which he commendcth unto rne the lady Anne of Cleve's cause ; but forasmuch as he declareth no certain cause, I trust you have some other instructions to inform me of some particular matter." Whercunto he answered, that the 'cause was, the reconciliation of your majesty unto the lady Anne of Cleve. Whereunto I answered, that I thought not a little strange, that Oslynger should think it meet for me to move a reconciliation of that matrimony, of the which I, as much as any other person, knew most just causes of divorce. And here I moved him to consider your grace's honour and the tranquillity of this realm, with the
 
@@ -237,13 +236,13 @@ HEALTH and peace from God the Father and Jesus Christ our Lord and Saviour ! Mos
 
 The same your highness' most devoted
 
-HENRY OLISLEOER, D.D.
+## Henry Olisleoer, D.d
 
 Vice-chancellor of Cleves.
 
 To the most reverend prelate and lord, and illustrious for many endowments. Lord Thomas, by God's grace arch bishop of Canterbury and throughout the realm of England lord primate, and most venerable lord.
 
-CCLXXV. TO LORD COBHAM3.
+## CCLXXV. To Lord Cobham 3
 
 MY lord, after my right hearty commendations; these are to advertise you, that I Hari. wss. have received your letters dated at Calais the xith of April : and as concerning your request, Phit. ixvii. that I should revoke the inhibition brought unto the arches by John Holland, in the British matter between him and William Porter ; forasmuch as the said Holland hath appealed original.' to the arches, I cannot with justice interrupt his appellation, so that the same be again remitted unto the commissary of Calais ; for then the said Holland should have just occasion to appeal from me : but for the better expedition of the matter, I have sent to the dean of the arches, commanding him to surcease therein, and have wholly resumed the matter into my hands. Wherefore, my lord, I pray you let both the interrogatories and the testament, with all the acts before the judge, be sent unto me, and I shall take such an order therein as shall stand with equity and justice. I will stay the matter for a time, that you may make an end therein, if you can, shortly ; and if you cannot, then I shall proceed as to the law appertaineth.
 
@@ -251,7 +250,7 @@ Moreover, I most heartily thank your lordship for your wine, which I trust to re
 
 Your assured,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 And as concerning my lady Baynton's request, you write that you are content that she shall have the college6, and not to meddle with Cobham hall : I pray, my lord, to send your mind herein to him that hath the ordering of that house and your affairs there ; for
 
@@ -271,13 +270,13 @@ State Paper Office.
 
 Domestic Papers. A.D. 1544. Vol. V. Original. State Papers, Vol. I. pt. ii. Lett.CXCVI. pp. 760—1. Collier's Eecles. Hist. Vol. V. pt). 147, «• Ed. Lond. 1840,41. Todd's Life of A hi) Cranmer. Vol. I. p. 355.
 
-CCLXXVI. TO KING HENRY VIII1.
+## CCLXXVI. To King Henry VIII 1
 
 IT may please your majesty to be advertised, that according to your highness' com mandment, sent unto me by your grace's secretary, Mr Pagett, I have translated into the English tongue, so well as I could in so short time, certain processions, to be used upon festival days, if after due correction and amendment of the same your highness shall think it so convenient. In which translation, forasmuch as many of the processions, in the Latin, were but barren, as meseemed, and little fruitful, I was constrained to use more than the liberty of a translator : for in some processions I have altered divers wrords; in some I have added part ; in some taken part away ; some I have left out whole, either for by cause the matter appeared to me to be little to purpose, or by cause the days be not with us festival-days ; and some processions I have added whole, because I thought I had better matter for the purpose, than was the procession in Latin : the judgment whereof I refer wholly unto your majesty; and after your highness hath corrected it, if your grace command some devout and solemn note to be made thereunto, (as is to the procession which your majesty hath already set forth in English,) I trust it will much excitate and stir the hearts of all men unto devotion and godliness : but in mine opinion, the song that shall be made thereunto would not be full of notes, but, as near as may be, for every syllable a note ; so that it may be sung distinctly and devoutly, as be in the Matins and Evensong, Venite, the Hymns, Te Deum, Benedictus, Magnificat, Nunc dimittis, and all the Psalms and Yersicles ; and in the mass Gloria in Excelsis, Gloria Patri, the Creed, the Preface, the Pater nosier, and some of the Sanctus and Agnus. As concerning the Salve festa dies, the Latin note, as I think, is sober and distinct enough ; wherefore I have travailed to make the verses in English, and have put the Latin note unto the same. Nevertheless they that be cunning in singing can make a much more solemn note thereto. I made them only for a proof, to see how English would do in song. But by cause mine English verses lack the grace and facility that I would wish they had, your majesty may cause some other to make them again, that can do the same in more pleasant English and phrase. As for the sentence, I suppose will serve well enough. Thus Almighty God preserve your majesty in long and prosperous health and felicity ! From Bekisbourne, the 7th of October. [1544.]
 
 Your grace's most bounden chaplain and beadsman, To the kings most excellent majesty. T. CANTUARIEN.
 
-PRINCE EDWARD TO CRANMER.
+## Prince Edward to Cranmer
 
 Foxe's Acts " ETSI puer sum, colendissime susceptor, non tamen immemor sum vel officii erga te mei, vel luimanitatis meats, tuse) (luam indies mihi exhibere studes. Non exciderunt mihi humanissimae tua? literae pridie divi Petri ad me
 
@@ -295,13 +294,13 @@ ALBEIT I am a boy, most honourable tutor, yet I am not unmindful either of your 
 
 Your most attached,
 
-EDWAKD, PRINCE.
+## Edwakd, Prince
 
-CCLXXYII. TO PRINCE EDWARD2.
+## Cclxxyii. To Prince Edward 2
 
 NON magis potcrat ipsc me [ mea] servarc salus, fill in Christo carissime, quam salus Foxe's Acts tua. Mea vita non dicenda est vita absque tua et salute et valetudine. Quapropter cum merits, ibid, te incolumem ac salvum intelligo, vitam etiam mihi integram esse et incolumem sentio. Neque certe absentia mea tarn est injucunda tibi, quam sunt liters tuae perjucundse mihi. Qua? arguunt tibi juxta adcsse et ingcnium dignum tanto principe, et prasceptorem dignum tanto ingenio. Ex quibus tuis literis te sic literas video colere, ut interim doctrinaa ccelestis tua nequaquam minima sit cura : qua? cuicunque sit cura*, non potest ilium quasvis cura frangere. Perge igitur qua via incepisti, princeps illustrissime, et Spartam quam nactus es, hanc orna ; ut quam ego per literas video in te virtutis ' lucem, eadem olim illuminet universam tuam Angliam. Non scribam prolixius, turn quidem ut me intelligas brevitate nonnihil amci, turn etiam quod credam, te aatate quidem adhuc parvulum parvo gaudere, et similem simili ; turn etiam prasterea, ne impolita mea oratio in causa sit, quo generosa ilia tua indoles barbarian vitium contrahat.
 
-TRANSLATION.
+## Translation
 
 THE health of my own self, my dearest son in Christ, could not be more serviceable to me than is your own. My life is not to be called living unless you are in health and strength; and therefore as I hear that you are safe and well, I feel also that my life is complete and uninjured. Nor at all events does my absence deprive you of so much pleasure as your letter adds to mine ; for it shews no less that you have ability worthy of so great a prince, than that you have a tutor worthy of such great ability. And from this letter of yours I find that you so study letters that meanwhile you have no small care for heavenly teaching ; and whatever person has a care for it, him no care can ever destroy. Proceed then, most illus trious prince, in the same way as you have begun, and adorn this Sparta which you have obtained ; so that the same light of excellency which I see from your letter is in you, may hereafter illuminate the whole of your realm of England. I will not write at greater length, both that you may see that I am in a measure pleased with brevity, and also because I believe that as you are still small in age, you delight in that which is small, and like is pleased with like ; and furthermore, that my unpolished style may not be the cause of your noble mind contracting the fault of baldness in your own.
 
@@ -317,15 +316,15 @@ Vale. AntilcE decimo octavo Junii. [1544.] " THUS in Christo tilius,
 
 " Your son in Christ,
 
-"EDWARD THE PRINCE."]
+## "Edward the Prince."]
 
-CCLXXVIII. TO SIR WILLIAM PAGET'.
+## CCLXXVIII. To Sir William Paget'
 
 state Paper AFTER my very hearty commendations. Having sent by this bearer letters to bo Domestic delivered unto the king's majesty by you, with a minute of another letter in the same inclosed (the copy whereof you shall herewith receive) to be sent unto me from the king's majesty ; these shall be to desire you to peruse the said minute ; and if it be not formably made, I pray you to reform the same with such correction as shall seem unto you most requisite, and thereupon to deliver it unto the king's majesty, knowing his grace's further pleasure in the same. Thus right heartily fare ye well. From my manor at Bekesbourne, the 20th of January. [1545-6.]
 
 Your assured
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To the right honourable sir William Paget, knight, one of the king's majesty's two principal secretaries.
 
@@ -343,7 +342,7 @@ State Paper Office. Domestic Papers. A.D. 134(i. Vol.
 
 Burnet'sHist. of Kef. Vol. II. pt. ii. fol. 8.B.i.No.61. pp. 332, 4. Ed. Oxon.
 
-CCLXXIX. TO KING HENRY VIII.
+## CCLXXIX. To King Henry VIII
 
 The copy of the letter to the king's majesty.
 
@@ -385,7 +384,7 @@ I beseech your majesty, that I may be a suitor unto the same for your cathedral 
 
 " ' Yea, they were so thoroughly and firmly re solved in that behalf, that they meant also to exhort the emperor to do the like in Flanders and other his countries and seignories, or else to break off from him. And herein the king's highness willed me,' quoth the archbishop, ' to pen a form thereof to be sent to the French king to consider of. But the deep and most secret providence of Almighty God, owing to this realm a sharp scourge for our iniqui ties, prevented (for a time) this their most godly device and intent, by taking to his mercy both these princes.'" Foxe's Acts and Monuments, pp. 1244, 45. Ed. Lond. 1583. Foxe also, in relating the manner of the death of Henry VIII. (p. 1291) says : "And thus much touching the end of king Henry, who if he had continued a few months longer (all those obits and masses, which appear in his will, made before he went to Boulogne notwithstanding,) most certain it is, and to be signified to all posterity, that his full purpose was to have repurged the estate of the church, and to have gone through with the same, so that he would not have left one mass in all Eng land. For the more certain intelligence whereof, two things I have to lead me. The one is the as sured report and testimony of Tho. Cranmer, arch bishop of Canterbury, hearing the king declare the same out of his own mouth, both to himself and to Mounsieur de Annehault, lord admiral, the French ambassador, in the month of August a little before his death. The other cause, which leadeth me thereunto, is also of equal credit, grounded upon the declaration of the king's own mouth after that time, more near to his death, unto Bruno, ambassador of John Frederick, duke of Saxony. Unto the which ambassador of Saxony the king gave this answer openly, that if the quarrel of the duke of Saxony were nothing else against the emperor but for religion, he should stand to it strongly, and he would take his part, willing him not to doubt nor fear; and so with this answer dismissed the ambassador unto the duke openly, in the hearing of these four sufficient witnesses, the L. Seymer, earl of Harforde, lord Lisley, then admiral, the earl of Bedford, lord privy seal, and lord Paget. But the secret working of God's holy providence, which disposeth all things after his own wisdom and purpose, thought it good rather by taking the king away to reserve the accomplish ment of this reformation of his church to the peace able time of his son Ed ward, and Elizabeth his daugh ter, whose hands were yet undefiled with any blood, and life unspotted with any violence or cruelty."] their lands daily, and, as it is said, by your majesty's commandment. But this I am sure, that other men have gotten their best lands, and not your majesty. Wherefore this is mine only suit, that when your majesty's pleasure shall be to have any of their lands, that they may have some letter from your majesty to declare your majesty's pleasure, without the which they be sworn that they shall make no alienation ; and that the same alienation be not made at other men's pleasures, but only to your majesty's use. For now every man that list to have any of their lands, makes suit to get it into your majesty's hands; not that your majesty should keep the same, but, by sale or gift from your majesty, to translate it from your grace's cathedral church unto themselves.
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 ---
 [[Cranmer MW 37 Letters CCXLIII–CCLXVI|← 37. Letters CCXLIII–CCLXVI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 39 Letters CCLXXX–CCXCVII|39. Letters CCLXXX–CCXCVII →]]

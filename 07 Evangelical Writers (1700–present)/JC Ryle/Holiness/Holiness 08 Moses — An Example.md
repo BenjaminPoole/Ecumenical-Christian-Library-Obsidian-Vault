@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Moses — An Example
 
-Chapter VIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter VIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 ### AN EXAMPLE
 
@@ -228,7 +227,6 @@ Now does any reader of this paper desire to grow in grace, and in the knowledge 
 Then take the advice I give you this day—go and cry to the Lord Jesus Christ, as the disciples did, “Lord, increase our faith.” Faith is the root of a real Christian’s character. Let your root be right, and your fruit will soon abound. Your spiritual prosperity will always be according to your faith. He that believeth shall not only be saved, but shall never thirst—shall overcome—shall be established—shall walk firmly on the waters of this world—and shall do great works.
 
 Reader, if you believe the things contained in this paper, and desire to be a thoroughly holy man, begin to act on your belief. Take Moses for your example. Walk in his steps. Go and do likewise.
-
 
 ---
 [[Holiness 07 Assurance|← Assurance]] · [[Holiness|Holiness Contents]] · [[Holiness 09 Lot|Lot →]]

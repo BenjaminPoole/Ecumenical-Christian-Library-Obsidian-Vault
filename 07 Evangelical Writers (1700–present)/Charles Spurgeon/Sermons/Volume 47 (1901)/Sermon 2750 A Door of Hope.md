@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # A Door of Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2750
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Valley ofAchor as a door of hope." Hosea 2:15.
 
@@ -113,7 +110,7 @@ But let me give you one more piece of advice—keep on knocking and remember tha
 
 May it come to pass that you and I, having stood on this side of the door, may soon be seated on the other side of it! While you are on this side, it is a door of hope. On the other side, it is a door of gratitude. If any of you have got inside the door, sing to the praise of Him who opened this door and let you in—and who has given you a feast of good things which He has prepared for all them that love Him.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS5:1-5.
+## Exposition by C. H. Spurgeon: Romans 5:1-5
 
 Verse 1. Therefore. The Apostle Paul had the logical faculty largely developed, so his writings are full of, "there-fores." And the Christian religion, as a whole, stands logically connected—doctrine with doctrine, Truth of God with Truth of God. Error is inconsistent with itself, but the Truth of God is consistent, logical, and unerring. "Therefore."
 
@@ -128,7 +125,6 @@ God."
 3\. And not only so. Whenever the Apostle begins to talk of the Lord's bounties to His people, he abounds in the word, also, and in the phrase, "not only so." As if he had not already said enough when he had reminded us of the joy of hope in God's Glory, he says, "And not only so." We have something in possession as well as something to hope for—we have a present glory as well as glory laid up in store! "And not only so."
 
 3-5. But we glory in tribulations, also, knowing that tribulation works patience and patience, experience; and experience, hope: and hope makes not ashamed; because the love of God is shed abroad in our hearts by the Holy Spirit which is given unto us. Beloved, it is a mark of great Grace to be able to acquiesce in tribulation and to accept it with patient resignation at the Lord's hands. But it is a sign of a still higher state of Grace when we glory in tribulation— when we welcome it and say, "Now, the Lord is about to elevate me to the upper class in His school—to teach me some deeper Truths than I have learned before—to give me a closer acquaintance with some mystery of His Kingdom than I have previously had—to work in my heart some new Grace which has never been there before." We also glory in tribulations knowing that tribulation works patience. You cannot learn to swim on dry land and you cannot learn to be patient without having something to endure! "Tribulation works patience, and patience, experience."
-
 
 ---
 [[Sermon 2749 Rehoboam the Unready|← #2749]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2751 'A Prepared Place for a Prepared People'|#2751 →]]

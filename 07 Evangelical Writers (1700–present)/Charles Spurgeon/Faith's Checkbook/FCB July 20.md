@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 20
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**LOOKING FOR HIM**
+## **Looking for Him**
 
 > Unto them that look for him shall he appear the second time without sin unto salvation." Heb. 9:28
 
@@ -25,7 +24,6 @@ Our Lord will have ended the business of sin. He has so taken it away from His p
 Our Lord will then complete the salvation of His people. They will be finally and perfectly saved, and will in every respect enjoy the fullness of that salvation. He comes not to bear the result of our transgressions, but to bring the result of His obedience; not to remove our condemnation, but to perfect our salvation.
 
 Our Lord thus appears only to those who look for Him. He will not be seen in this character by men whose eyes are blinded with self and sin. To them He will be a terrible Judge, and nothing more. We must first look to Him, and then look for Him; and in both cases our look shall be life.
-
 
 ---
 [[FCB July 19|← July 19]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 21|July 21 →]]

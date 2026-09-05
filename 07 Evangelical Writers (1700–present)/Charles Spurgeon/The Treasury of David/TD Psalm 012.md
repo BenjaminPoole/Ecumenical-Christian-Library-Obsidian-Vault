@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 12
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -150,10 +149,9 @@ Seven crucibles in which believers try the word. A little thought will suggest t
 
 *Verse* 8. *Sin in high places specially infectious.* Call to the rich and prominent to remember their responsibility. Thankfulness for honourable rulers. Discrimination to be used in choice of our representatives, or civic magistrates.
 
-WORK UPON THE TWELFTH PSALM
+## Work upon the Twelfth Psalm
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 011|← Psalm 11]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 013|Psalm 13 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Cheering Words
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2444
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As the Father has loved Me, so have I loved you: continue you in My love." John 15:9.
 
@@ -115,7 +112,7 @@ But there are some poor souls here who have never got into this love at all, nor
 
 "Love's redeeming work is done! Come, and welcome, Sinner, come!" I have never heard of Jesus Christ shutting the door against a sinner. There is a notice that is put in some gentlemen's parks stating that they do not allow beggars or dogs there. But Jesus Christ puts up a notice that He does allow beggars! In fact, there are none but beggars who ever go to Him—and even those who are such beggars that you would not pick their clothes from a dunghill, Jesus Christ receives into His house, into His heart, into the bath of His blood and wraps them in the robe of His perfect righteousness! O poor Sinner, come and try Him, and He will not cast you out!
 
-EXPOSITION B Y C. H. SPURGEON: JOHN15.
+## Exposition B Y C. H. Spurgeon: John 15
 
 Verse 1. I am the true Vine, and My Father is the Husbandman. Not only the Mosaic Law, but the whole of creation is full of types of Christ. All the vines that we see in this world are only, as it were, typical, but Christ is the substance—the substance of Nature as well as of Grace. "I am the true Vine," and the real Husbandman, who watches over everything, who has the whole Church, yes, the whole universe, under His care, is the great Father. "My Father is the Husbandman."
 
@@ -164,7 +161,6 @@ Verse 1. I am the true Vine, and My Father is the Husbandman. Not only the Mosai
 22, 23. If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin. He that hates Me, hates My Father, also. There is a hatred of God in all hatred of the Mediator! Men may say that they love God, and yet despise Christ, but it cannot be so. Christ is so truly God and so clear a manifestation of God that if men knew God, they would certainly hate Him if they hate Christ!
 
 24-27, If I had not done among them the works which no other man did, they had not had sin: but now have they both seen and hated both Me and My Father. But this came to pass that the Word might be fulfilled that is written in their Law, They hated Me without a cause. But when the Comforter comes, whom I will send unto you from the Father, even the Spirit of Truth, which proceeds from the Father, He shall testify of Me: and you, also, shall bear witness, because you have been with Me from the beginning.
-
 
 ---
 [[Sermon 2443 The Determination of Christ to Suffer for His People|← #2443]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2445 The Last Sermon for the Year|#2445 →]]

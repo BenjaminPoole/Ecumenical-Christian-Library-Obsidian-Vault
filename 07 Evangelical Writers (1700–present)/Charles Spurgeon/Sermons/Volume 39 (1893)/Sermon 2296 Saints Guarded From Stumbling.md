@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Saints Guarded From Stumbling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2296
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now unto Him that is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and forever. Amen." Jude 1:24,25.
 
@@ -145,7 +142,7 @@ This sermon does not belong to all of you, I am sorry to say. I wish that it did
 
 Whoever believes in Him has everlasting life and He will bring them into His way! And He will keep them from stumbling and present them among the rest of His blood-washed, to praise His name forever. The Lord bless this meditation for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. PSALM91.
+## Exposition by C. H. Spurgeon. Psalm 91
 
 Verse 1.—He that dwells in the secret place of the Most High shall abide under the shadow of the Almighty. It is not every man who dwells there, no, not even every Christian. There are some who come to God's House, but the man mentioned here dwells with the God of the House! There are some who worship in the outer court of the Temple, but, "he
 
@@ -190,7 +187,6 @@ have the appearance of evil, but it shall turn out to your good. There shall be 
 15\. I will deliver him, and honor him. God puts honor upon us, poor dishonorable worms that we are! One old Divine calls a man, "a worm six feet long," and it is rather a flattering description of him, don't you think? But God says, "I will deliver him, and honor him."
 
 16\. With long life will I satisfy him, and show him My salvation. He will live as long as he wants to live. Even if he should have but few years, yet he shall have a long life, for life is to be measured by the life that is in it, not by the length along which it drags. Still, God's children live to a far longer age than any other people in the world. They are, on the whole, a long-lived race. They who fear God are delivered from the vices which would deprive them of the vigor of life— and the joy and contentment they have in God help them to live longer than others. I have often noticed how long God's people live. Some of them are speedily taken Home—still, this text is, as a rule, literally fulfilled, "With long life will I satisfy him, and show him My salvation." He shall see God's salvation even here! And when he dies, and wakes up in the likeness of his Lord, he will see it to the fullest. May that be the portion of each of us! Amen.
-
 
 ---
 [[Sermon 2295 God's People—or Not God's People|← #2295]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2297 Sealed and Open Evidences|#2297 →]]

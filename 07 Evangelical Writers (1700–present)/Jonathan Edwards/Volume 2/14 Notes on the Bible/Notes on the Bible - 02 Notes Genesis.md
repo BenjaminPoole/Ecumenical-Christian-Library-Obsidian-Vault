@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Genesis
 
 [342] Gen. i. 2.“The earth was without form and void.” The first state of the earth, or this lower world, shows what it was to be afterwards, *viz.* a world of confusion and emptiness, full of evil, vanity of vanities. So in the first state of man in his infancy, is an image of what man always is in himself, a poor, polluted, helpless worm.
 

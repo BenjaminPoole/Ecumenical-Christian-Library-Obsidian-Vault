@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # God's Work in Man
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2629
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it shall be in that day, says the LORRD, that you shall call Me, Ishi; and shall call Me no more, Baali. For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name." Hosea 2:16.
 
@@ -39,7 +36,7 @@ That is the first Doctrine of God, I think, we may fairly draw from the text.
 
 II. Now for the second, which is, that GOD WILL MAKE THOROUGH WORK OF IT WHEN HE SANCTIFIES A
 
-MAN.
+## Man
 
 Note that these Jews were idolaters, yet God says, "I will not only make them leave off their idolatries, but I will do more—I will take away the names of Baalim out of their memories—for they shall no more be remembered by their name." God's sanctifying work either is already, or it will yet be a complete one. I said that it either is or it will be complete—it is so in yon bright spirits before the Throne of God and, for the rest of us, if God has begun the good work, He will carry it on to ultimate perfection until the very name of sin shall be clean taken out of our mouth and the remembrance of it shall be purged from our conscience and memory!
 
@@ -120,7 +117,6 @@ A lady called upon me, last Monday, with this trouble upon her. She said she had
 I pray the Lord may give it to you right now! As many of you as shall now look to Christ. As many of you as shall lift up your hearts to Him. As many of you as God has ordained to eternal life and who, therefore, believe in Him, may you now go out of this house, like the publican of old, "justified rather than the other," triumphing that you, who came in here to confess your guilt, crying, "Lord, have mercy on me a sinner," can go out calling Jesus, Ishi, and clasping Him in your arms as your Redeemer, your Savior and your All-in-All!
 
 May the Lord give all of you such faith, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2628 All Hail!|← #2628]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2630 What Jesus Would Do|#2630 →]]

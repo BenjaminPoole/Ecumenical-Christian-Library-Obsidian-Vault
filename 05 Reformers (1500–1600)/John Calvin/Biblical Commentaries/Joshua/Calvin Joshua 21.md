@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 21
 
-**CHAPTER 21**
+***Chapter 21***
 
 ## Joshua 21:1-19
 

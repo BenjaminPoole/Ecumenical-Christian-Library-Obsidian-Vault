@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Justification by Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3392
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Therefore, being justified by faith, we have peace with God through our Lord Jesus Christ." Romans 5:1.
 
@@ -27,7 +24,7 @@ Wishing to speak of the text, then, in this sense, I shall ask you to accompany 
 
 Our first thought shall be some plain, earnest talk concerning—
 
-I. A FEW PRELIMINARY DISCOVERIES WHICH A MAN MAKES BEFORE HE GETS PEACE WITH GOD.
+## I. A Few Preliminary Discoveries Which a Man Makes Before He Gets Peace with God
 
 These, I do not think, are by any means foreign to the text, or merely imported to it, but belong rightfully to it. You see that Paul, before he came to this justification by faith, had been speaking about sin. It would not have been possible for him to have given an intelligent definition ofjustification without mentioning that men are sinners, without informing them that they had broken God's holy Law and that the Law, by and of itself, could never restore them to the favor of God. Now, some of these things of which I am going to speak are absolutely necessary, if not to my sermon, yet certainly to your spiritually understanding even so much as one jot or tittle of what it is to be justified by faith!
 
@@ -45,7 +42,7 @@ Let us notice one more preliminary discovery. A man, having found out all this, 
 
 Having occupied, perhaps, too much time over that, we now come more immediately into the text to—
 
-II. SHOW THE GOSPEL LEARNING WHICH IS TAUGHT TO US BY THE SPIRIT OF GOD.
+## II. Show the Gospel Learning Which Is Taught to Us by the Spirit of God
 
 That Gospel learning I may give you in a few sentences, namely, these, that inasmuch as through man's sin, the way of obedience is forever closed, so that we—none of us—can ever pass by it to a true righteousness, God has now determined to deal with men in a way of mercy, to forgive them all their offenses, to bestow upon them His love, to receive them graciously and to love them freely! He has been pleased, in His Infinite Wisdom, to devise a way by which, without injury to His Justice, He can yet receive the most undeserving sons of men into His heart and make them His children— and can bless them with all the blessings which would have been theirs had they perfectly kept His Law, but which now shall come to them as a matter of gift and undeserved Grace from Himself.
 
@@ -59,7 +56,7 @@ Now, I want to come to this, dear Friends. Do you know this? Have you been taugh
 
 But, going further, I have now to dwell for a minute or two upon—
 
-III. THE GLORIOUS PRIVILEGE OF THE TEXT.
+## III. The Glorious Privilege of the Text
 
 We have led you, and I hope the Spirit of God has led you, too, through the preliminary discoveries and through the great discovery that God can save us through the merits of Another! Now let us notice this glorious privilege word by word.
 
@@ -99,7 +96,7 @@ And then to come to die and to feel, "I am going to God and I am glad to go, for
 
 Oh, I wish it were so with all present! It may be so if God the Spirit brings you to rest in Jesus. No, it shallbe so, my dear Friend! It shall be so with you tonight! Though you never thought it would be when you came in here, yet you see it all now. It is simply believing, simply trusting! Oh, believe Him! Trust Him and it shall be the joy of your soul to have a peace with God which as the world did not give you—so the world shall never take away! But you shall have it forever and ever! God grant it to each one of us! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE15:25-32.
+## Exposition by C. H. Spurgeon: Luke 15:25-32
 
 Most of us recognize the beauty of this parable as it concerns the prodigal and his boundless forgiveness by the father, but few of us probably have seen how the elder brother has his portrait also painted by our Lord and how He sets forth the self-righteous professor who hates to have prodigals made much of.
 
@@ -126,7 +123,6 @@ Most of us recognize the beauty of this parable as it concerns the prodigal and 
 32\. Was dead, and is alive again: and was lost, and is found. So if there are any here that do not take the joy which they ought in the conversion of great sinners, let them hear the gentle persuasive voice of God. You, as Believers, have everything! Christ is yours. Heaven is yours. You are always with God and all that He has belongs to you. But it is proper and fit that when a sinner returns from the error of his ways, they should ring the bells of Heaven and make a fuss over him, for he was dead and is alive again! I hope that you and I will never catch the spirit of the elder brother. Yet I remember that Krummacher says that he sometimes found that same spirit in himself. There was a man in the village where Krummacher lived, who was a great drunkard and everything that was bad. But all of a sudden he came into a very large sum of money and became a wealthy man. Krummacher felt, "Well, this hardly looks like the right thing—so many good, honest, hard-working people in the parish still remaining poor, and this worthless man has suddenly become wealthy and well-to-do." It seemed a strange way in the order of Providence. Oh, we ought to rejoice and be glad when another person prospers! And we ought to wish that his prosperity may be blessed to him.
 
 I remember a minister years ago, when first Mr. Moody came, saying that he did not believe that Mr. Moody was sent of God, "Because," he said, "I find that many of the people who are converted under him never went to a place of worship before. It is only the riffraff that are brought in." There is a nasty elder brother spirit! The riffraff were just the people that we wanted to bring in and if they had never been to a place of worship before, it was time that they should go! It was a mercy that they were brought in! Oh, instead of ever sniffing at sinners as if we were better than they, let us welcome them with all our heart and praise the heavenly Father that He so lovingly takes them in!
-
 
 ---
 [[Sermon 3391 Preparation for the Lord's Supper|← #3391]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3393 Wheat in the Barn|#3393 →]]

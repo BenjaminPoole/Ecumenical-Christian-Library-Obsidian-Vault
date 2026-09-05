@@ -9,12 +9,11 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Prayer
 
-**THE PRAYER**
+***The Prayer***
 
-**WHICH JOHN CALVIN WAS ACCUSTOMED TO USE AT THE C0MMENCEMENT OF HIS LECTURES.**
+## **Which John Calvin Was Accustomed to Use at the C0mmencement of His Lectures.**
 
 Grant unto us, O Lord, to be occupied in the mysteries of thy Heavenly wisdom, with true progress in piety, to thy glory and our own edification. — Amen.
 

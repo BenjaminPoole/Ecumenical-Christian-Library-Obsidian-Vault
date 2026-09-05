@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Philosophy and Propriety of Abundant Praise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1468
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 13, 1879,.
+*Delivered on Lord's-Day Morning, April 13, 1879*
 
 > "They shall abundantly utter the memory of Your great goodness, and shall sing of Your righteousness." Psalm 145:7.
 
@@ -130,7 +129,6 @@ So, when we are sick and ill, let us thank God that we shall not be ill forever,
 Lastly, let us praise and bless God because it is the way in which He is glorified. We cannot add to His Glory, for it is infinite in itself—but we can make it to be more widely known by simply stating the truth about Him. Don't you want to give honor to God? Would you not lay down your life that the whole earth might be filled with His Glory? Well, if you cannot cover the earth with His praises as the waters cover the sea, you can at least contribute your portion to the flood! Oh, keep not back your praises, but bless and magnify His name from the rising of the sun to the going down of the same!
 
 It will lift earth upward and heavenward if we can all unite in praise—we shall see it rising as it were beneath our feet—and ourselves rising with it until we shall stand as upon the top of some lofty Alp that has pierced the vault of Heaven! And we shall be among the angels, feeling as they feel, doing as they do and losing ourselves as they lose themselves in the eternal hallelujah of, "Glory, and honor, and majesty, and power, and dominion, and might be unto Him that sits upon the Throne, and unto the Lamb forever and ever."
-
 
 ---
 [[Sermon 1466 The Three Whats|← #1466]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1469 Prayer Perfumed with Praise|#1469 →]]

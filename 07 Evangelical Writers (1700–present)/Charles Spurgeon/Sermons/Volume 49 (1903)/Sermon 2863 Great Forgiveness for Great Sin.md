@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Great Forgiveness for Great Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2863
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In whom we have redemption through the blood, the forgiveness of sins, according to the riches of His Grace." Ephesians 1:7.
 
@@ -71,9 +68,9 @@ Perhaps someone says, "When I get home, I will ask God's forgiveness." Do not wa
 
 Thus have I preached the Gospel to you. If you reject it, it is at your peril. I draw a ring round you as the Roman ambassador drew one round the Eastern monarch and said to him, "Step out of that ring, and it will mean war with Rome." So I draw a ring round the seat where you are sitting and say to you, in the name of God, "You must not rise up from that seat until you have peace with God through faith in Jesus Christ, or else have taken upon yourself the responsibility of remaining an enemy of God, for I can say no more to you till the Judgment Day breaks and I have to give account for preaching this sermon—and you have to give account for hearing it! I can say no more than this! There is pardon to be obtained by believing! Jesus Christ is fully worthy of your confidence—trust Him now and you shall receive full and free forgiveness! The Lord help you to do so, for Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—548, 562, 595.
+## Hymns from "Our Own Hymn Book"—548, 562, 595
 
-EXPOSITION BY C. H. SPURGEON: LUKE 15.
+## Exposition by C. H. Spurgeon: Luke 15
 
 We have read this chapter together many times. Possibly some of us have read it hundreds of times, yet whenever we read it, we always find something fresh in it. It is always bright and sparkling, full of diamonds and other precious gems of Truth.
 
@@ -128,7 +125,6 @@ high joys that I see these other people have! 'You never gave me a kid, that I m
 30, 31. But as soon as this your son was come, which has devoured your living with harlots, you have killed for him the fatted calf And he said unto him, Son, you are always with me, and all that I have is yours. Think of that, you who are the Lord's people, but who have fallen into a grumbling state of heart. Are you not always with your Lord and is not all that He has yours? If you have never had a kid to make merry with your friends, whose fault is that? Your Father never denied it to you. All in His house is yours, so take the good that He provides for you and rejoice over it, for then you will be in a fit state to go to meet your poor returning prodigal brother and to welcome him with a smiling face and a gladsome heart!
 
 32\. It was meet that we shouldmake merry, and be glad: for this, your brother, was dead, andis alive again; and was lost and is found. After that reply, there was nothing more that could be said, even by the grumbling elder brother.
-
 
 ---
 [[Sermon 2862 The Way of Wisdom|← #2862]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]]

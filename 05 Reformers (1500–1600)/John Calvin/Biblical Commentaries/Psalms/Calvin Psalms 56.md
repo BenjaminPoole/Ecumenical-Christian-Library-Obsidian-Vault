@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 56
-
-**PSALM 56**
 
 In this psalm David mixes complaint with prayer, and assuages the distress of his mind by meditation upon the mercy of God. He pray, that he may experience the divine help under the persecutions to which he was subjected by Saul, and his other enemies; and expresses his confidence of success. It is possible, however, that the psalm may have been written after the dangers to which he alludes were past, and in thanksgiving for a deliverance which he had already received.
 

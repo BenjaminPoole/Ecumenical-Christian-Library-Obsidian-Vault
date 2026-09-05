@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Joshua 6:1-19
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Wanted!—Volunteers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2227
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And next to him was Amasiah the Son of Zichri, who willingly offered himself to the Lord; and with him two hundred thousand mighty men of valor." 2 Chronicles 17:16.
 
@@ -158,7 +155,6 @@ I recollect how Mr. Rowland Hill once held an auction over Lady Anne Erskine, wh
 I do not know how to pick anybody out, here, for auction, but I would sell some of you to my Master if I could, without money and without price, save that which He paid for you when He poured out His life on the accursed tree! Where are the volunteers? Perhaps it is some bright boy that I have to get for Christ; or some dear girl whom the Lord means to have now; or some of these young men. Never did anyone truly offer himself to the Lord without being accepted—no, your offer of yourself to the Lord proves that you are already His in the Covenant of His Grace! Oh, how happy are they who, in their youth, willingly offer themselves to God! But, indeed, my Lord will take into His service people of all ages, both sexes, all ranks and conditions! He cares not what your possessions may be, but, whatever they are, offer yourself and them to Him to whom they rightfully belong! He will take the poorest and weakest, but still, I would like to win for my Master some man in the very strength of his days, with ability to think and power to speak, who will now say, "I have found my vocation. God calls me to Christ to find salvation in His wounds and to be His servant. It shall be all my business here below to magnify His blessed name!" God grant it, for Jesus' sake! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—2 Chronicles 17; Romans 12.
-
 
 ---
 [[Sermon 2226 Lay Hold on Eternal Life!|← #2226]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2228 The Law's Failure and Fulfillment|#2228 →]]

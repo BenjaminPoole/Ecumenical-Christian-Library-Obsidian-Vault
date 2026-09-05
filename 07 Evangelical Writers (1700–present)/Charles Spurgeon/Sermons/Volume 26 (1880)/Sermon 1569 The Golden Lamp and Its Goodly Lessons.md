@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Golden Lamp and Its Goodly Lessons
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1569
-
-DELIVERED BY.
 
 > "And the angel that talked with me came again and awakened me, as a man that is wakened out of his sleep and said unto me, What do you see? And I said, I have looked and behold a candlestick all of gold, with a bowl upon the top of it and it has seven lamps thereon and seven pipes to the seven lamps, which are upon the top: and two olive trees by it, one upon the right side of the bowl and the other upon the left side. And I answered again and said unto him, What are these two olive branches which through the two golden pipes empty the golden oil out of themselves? And he answered me and said, Don't you know what these are? And I said, No, my lord. Then he said, These are the two anointed ones that stand by the Lord of the whole earth." Zechariah 4:1-3; 12-14.
 
@@ -136,7 +133,6 @@ Take care that you are actively earnest in the cause of the Master and a blessin
 When we are told, however, that his fellow workmen robbed him of his tools and that he did it with one common hammer or some such instrument, our estimation of the artist's skill is greatly enhanced. It is no wonder that the Spirit of God can, Himself, convert souls—the wonder is that He converts men by us! That we, who are so imperfect and so feeble, should become channels of blessing is a great marvel! Those two olive trees might, it was feared, grow in the way of the light, but God made them to be its maintainers! The branches of our infirmity might hide the light from the people's eyes if Grace did not intervene and make every one of them yield its olives and pour out its measure of oil for the supply of the golden candelabrum!
 
 Therefore, Brothers and Sisters, if you have the Light of God, shed it! If you have Grace, endeavor to impart it! The Lord has blessed you—ask Him to bless you more by His Holy Spirit. Let those olive trees, yielding abundance of oil, be your model that your lively vigor may prove of lasting value to the Church. So be the Lord with you from now on and forever. Amen and amen!
-
 
 ---
 [[Sermon 1568 The Believer Catechized|← #1568]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1570 The Lamentations of Jesus|#1570 →]]

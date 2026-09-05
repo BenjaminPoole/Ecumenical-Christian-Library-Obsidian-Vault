@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 204. Matthew 26:62-68; Mark 14:60-65; Luke 22:63-71
-
-MATTHEW 26:62-68; MARK 14:60-65;  
-LUKE 22:63-71
 
 **62.** And the high priest, rising up, said to him, [^1] Answerest thou nothing? What is it that those men testify against thee? **63.** And Jesus was silent. And the high priest answering said to him, I adjure thee by the living God, that thou tell us if thou art the Christ, the Son of God. **64.** Jesus saith to him, Thou hast said it; but yet I tell you, hereafter you shall see the Son of man sitting at the right hand of power, and coming in the clouds of heaven. **65.** Then the high priest rent his clothes, saying, He hath blasphemed; what further need have we of witnesses? lo now you have heard his blasphemy. **66.** What think you? And they answering said, He is worthy of death. **67**. Then they spat in his face, and gave him blows; [^2] and others struck him on the face with the palms of their hands, **68.** Saying, Prophesy to us Christ, Who was it that smote thee?
 

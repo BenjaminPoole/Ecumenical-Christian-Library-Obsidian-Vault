@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 48
 
-**CHAPTER 48**
+***Chapter 48***
 
 ## Isaiah 48:1-22
 

@@ -8,7 +8,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Confirmation
 
 *All of Grace* — Charles H. Spurgeon
@@ -31,10 +30,7 @@ Oh, what a joy it will be to be found blameless in the day of judgment! We sing 
 
 Bold shall I stand in that great day, For who aught to my charge shall lay; While through Thy blood absolved I am, From sin's tremendous curse and shame?
 
-Bold shall I stand in that great day, For who aught to my charge shall lay; While through Thy blood absolved I am, From sin's tremendous curse and shame?
-
 What bliss it will be to enjoy that dauntless courage, when heaven and earth shall flee away from the face of the Judge of all! This bliss shall be the portion of everyone who looks alone to the grace of God in Christ Jesus, and in that sacred might wages continual war with all sin.
-
 
 ---
 [[AoG The Fear of Final Falling|← The Fear of Final Falling]] · [[All of Grace|All of Grace Contents]] · [[AoG Why Saints Persevere|Why Saints Persevere →]]

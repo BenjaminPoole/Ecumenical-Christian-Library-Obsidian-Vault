@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # An Urgent Necessity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3557
-
-DELIVERED BY C. H. SPURGEON.
 
 > "It is time to seek the Lord till He comes and rains righteousness upon you." Hosea 10:12.
 
 HOSEA uses a great many figures taken from farming. He describe the seeking of the Lord in the former part of this verse as plowing, and sowing, and breaking up fallow ground. I suppose he intends by this to describe conviction of sin, humiliation of soul as the work that plows, the reception of the Truth of the Gospel by faith in Jesus Christ as sowing, for this introduces the Living Seed into the soul. And he here gives two reasons why this matter of seeking the Lord should be attended to at once. His first reason is the season. "It is time to seek the Lord." The second is a very gracious expectation that God will rain righteousness upon us. First, then, the Prophet reasons that we should seek after the Lord because it is—
 
-I. THE TIME TO SEEK GOD.
+## I. The Time to Seek God
 
 "It is time to seek the Lord." I wish you to reflect, first, that we yet have time. It might have been otherwise. We might have been cut down in our sins. Many of our neighbors and acquaintances have died. Some of them, we have reason to fear, died in their iniquities and were taken away with a stroke. We, too, have passed through dangers. Some have escaped in shipwreck. Some have been in imminent peril in accidents—some of us have come into the very jaws of death in serious sickness. We might almost sing, or quite sing—
 
@@ -47,7 +44,7 @@ The Puritans tell a story of a woman convinced of sin on her deathbed, who lived
 
 You have but one match left, O Sinner! Use it well—one light, one time—the time to seek the Lord. Oh, seek Him now—tonight! This moment in the pew say, "God be merciful to me a sinner!" Is that your prayer? 'Tis well. God hear and answer it! But now I must, by your patience, speak for a little while upon the second part of the text. There is another reason given for seeking the Lord—and that is—
 
-II. THE BLESSED EXPECTATION.
+## II. The Blessed Expectation
 
 It is that in due time He will rain righteousness upon us! I understand by this that the plowing and the sowing are ours, but these are nothing without the heavenly rain of Grace. But God will be sure to send that in due time. In fact, our plowing and sowing are results and tokens of His Grace, and the Grace of comfort will come where the Grace of humiliation has already come. When it says, "righteousness," I think it means to assure us that God can, in a way of righteousness, be gracious to us. Through His dear Son, who bore the punishment of our sins, God can righteously rain upon sinners. Now just a moment or two. You say you have not Grace. You say you are not what you should be. 'Tis even so. But seek the Lord and He will rain righteousness upon you! Observe all Divine Grace must come from Him. Rain comes from God. He rains it. Every drop of Grace comes from Heaven. You, Sinner, can never get any Grace unless He gives it you! Remember this, and wait upon Him for it now. It must be heavenly Grace, or it will be no Grace at all. It can come to you. There are some parts on earth that never could be watered if it did not rain. Nobody would ever think of watering the hilltops. But He waters His hills from His chambers. We cannot give Grace to you—you are in such a desolate, lonely, mountainous place, but He can get to you and He will! See how it is He will rain righteousness upon you. Then, as there is a straight way for rain even to the wilderness, so is there a straight way for God's Grace to drop into your desertheart. Rain comes Sovereignly as God wills it, where He wills it, when He wills it. And in degree and duration according to His will. So does Grace. Lift up your soul, then, to Him for it, and bow your head, feeling that you deserve it not!
 
@@ -71,7 +68,7 @@ For I plead for Jesus' sake."
 
 Oh, Sinner, never let go! Cling close to Christ and He cannot cast you away, for this is His promise, "Him that comes, I will in no wise cast out." Come, then, and the Lord bless you! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY32:1-39.
+## Exposition by C. H. Spurgeon: Deuteronomy 32:1-39
 
 A very marvelous Chapter it is—a song and a prophecy, in which the poet-seer seems to behold the whole future spread before him as in a map—and it is so vivid to him that he describes it rather as a matter present or past, than as a thing which is yet to be. It is the story of God's dealing His chosen and peculiar people, Israel, from the beginning to the end. The commencement is exceedingly noble.
 
@@ -122,7 +119,6 @@ Truth!
 36\. And have compassion on His servants, when He sees that their power is gone, and there is none shut up, or left. He seemed very angry, but how soon He comes back in love and tries His people over again.
 
 37-39. AndHe shallsay, Where are their gods, theirrock in whom they trusted? Which did eat the fat oftheir sacrifices, and drank the wine oftheir drink offerings? Let them rise up and help you, and be yourprotection. See now that I, even I, am He, and there is no god with Me. I kill, and I make alive: I wound, and I heal; neither is there any that can deliver out of My hand
-
 
 ---
 [[Sermon 3556 Absconding and Apostasy|← #3556]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3558 A Plea From the Cross|#3558 →]]

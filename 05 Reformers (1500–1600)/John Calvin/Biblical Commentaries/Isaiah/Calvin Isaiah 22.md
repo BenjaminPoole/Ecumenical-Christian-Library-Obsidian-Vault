@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 22
 
-**CHAPTER 22**
+***Chapter 22***
 
 ## Isaiah 22:1-25
 

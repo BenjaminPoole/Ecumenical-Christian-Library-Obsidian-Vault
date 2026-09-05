@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Welcome for Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2593
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came topass, that when Jesus was returned, the people gladly received Him, for they were all waiting for Him." Luke 8:40.
 
@@ -101,7 +98,7 @@ In closing my discourse, let me say that if we are prepared to thus welcome Chri
 
 Well, now, act in this fashion with regard to Christ. Go to Him, poor Sinner! Tell Him how bad you have been— you cannot aggravate or exaggerate your sin! Just lay it all open before Him and say, "My Lord, my sins are the mouths that shall plead with Your love. My misery is the eloquence that shall entreat Your mercy. I die if You do not, in pity, look upon me and forgive me. I have no other hope but in Yourself. I cast myself upon You. Lost or saved, I will trust in You. At the foot of the Cross I will perish, if I must perish anywhere." Ring the bells of Heaven, for that soul is saved! Glory to God in the highest! On earth there is peace between that soul and its Maker, for it is trusting in the Redeemer, and none ever perish who trust in Him! The Lord thus bless you, dear Friends, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE8:26-56.
+## Exposition by C. H. Spurgeon: Luke 8:26-56
 
 Verses 26, 27. And they arrived at the country of the Gadarenes, which is opposite Galilee. And when He went forth to land, there met Him out of the city a certain man which had devils for a long time, and wore no clothes, neither abode in any house, but in the tombs. To what a frightful state of wretchedness this poor creature was reduced by Satanic power! Yet he is only a picture of the state of mind into which many are brought through sin. They seem as if they could not live with their fellow men. They have grown so mad through sin, so utterly beyond restraint, that they can scarcely be endured in ordinary society. Yet, as Christ healed this man, so He is equal to the cure of the worst case of spiritual and moral disease that may be brought before Him!
 
@@ -134,7 +131,6 @@ Verses 26, 27. And they arrived at the country of the Gadarenes, which is opposi
 52-55. And all wept, and bewailed her: but He said, Weep not, she is not dead, but sleeps. And they laughed Him to scorn, knowing that she was dead. And He put them all out, and took her by the hand, and called, saying, Maid, arise. And her spirit came again, and she arose straightway: and He commanded to give her meat. Young saints need feeding as soon as they are converted. The conversion may be by miracle, but they will need to be fed by ordinary means. Be ready, dear people of God, with your milk for those who are but newly born! "He commanded to give her meat."
 
 56\. And her parents were astonished. But He charged them that they should tell no man what was done. For Jesus did not wish, at least at that time, to have the story of His miracles blazed abroad. Of Him the Prophet had long before written, "He shall not cry, nor lift up, nor cause His voice to be heard in the street. A bruised reed shall He not break, and the smoking flax shall He not quench."
-
 
 ---
 [[Sermon 2592 The Power of Christ's Name|← #2592]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2594 The Offense of the Cross|#2594 →]]

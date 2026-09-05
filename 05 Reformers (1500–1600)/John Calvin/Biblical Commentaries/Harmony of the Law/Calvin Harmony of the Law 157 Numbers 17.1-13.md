@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 157. Numbers 17:1-13
-
-**Numbers 17**
 
 **1.** And the Lord spoke unto Moses, saying,
 

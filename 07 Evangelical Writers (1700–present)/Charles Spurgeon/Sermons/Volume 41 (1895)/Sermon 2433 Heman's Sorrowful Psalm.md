@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Heman's Sorrowful Psalm
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2433
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But unto You have I cried, O Lord; and in the morning shall my prayer come before You." Psalm 88:13.
 
@@ -93,7 +90,7 @@ I am looking upon many young men and women here—how I wish that they would all
 
 God bless you, dear Hearers! We shall never, all of us, meet again on earth—that is not possible among these thousands from all quarters of the globe—but may the sincere penitent prayer of all the unsaved among us be so heard that we may all meet in Heaven! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM88.
+## Exposition by C. H. Spurgeon: Psalm 88
 
 A Song or Psalm for the sons of Korah, to the chief Musician upon Mahaloth Leannoth, Maschil of Heman the Ez-rahite. I think that this is the darkest of all the Psalms—it has hardly a spot of light in it. The only bright words that I know of are in the first verse. The rest of the Psalm is very dark and very dreary. Why, then, am I going to read it? Because, it may be there is some poor heart, here, that is very heavy. You cannot proclaim of this great crowd how many sorrowing and burdened spirits there may be among us, but there may be a dozen or two of persons who are driven almost to despair. My dear Friend, if this is your case, I want you to know that somebody else has been just where you are. Remember how the shipwrecked man upon the lonely island all of a sudden came upon the footprints of another human being? So here, on the lone island of despondency, you shall be able to trace the footprints of another who has been there before you. Hear how he prays.
 
@@ -132,7 +129,6 @@ Verse 1. O LORD God of my salvation, / have cried day and night before You. It w
 15-18. / am afflicted and ready to die from my youth up: while / suffer Your terrors, / am distracted. Your fierce wrath goes over me. Your terrors have cut me off. They came round about me daily like water; they compassed me about together.
 
 Lover and friend have You put far from me and my acquaintance into darkness. There the Psalm ends. It is a sorrowful wail and it comes to a close when you do not expect it to finish. It really has no finish to it, as when men wind up their songs with proper finales—it is broken off like a lily snapped at the stalk. I have read you this 88th Psalm as an example of persevering prayer. The man who wrote it—"Heman the Ezrahite"—kept on praying even when he did not seem to be heard and thus he is a pattern to us. Yet notice how the next Psalm begins—"I will sing of the mercies of the Lord." It is not always the sorrowful sackbut that is to be in our hands—we can play the joyous harp as well! "I will sing of the mercies of the Lord forever." "I will never leave off praising Him." "With my mouth will I make known Your faithfulness to all generations."
-
 
 ---
 [[Sermon 2432 Kept From Iniquity|← #2432]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2434 A Man Under Authority|#2434 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Great Pot and the Twenty Loaves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3187
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Set on the great pot." 2 Kings 4:38.
 
@@ -79,7 +76,7 @@ Do I hear you reply, "Ah, you don't know who I am. I have lived many years in si
 
 I have tried to preach a very simple sermon and to say some earnest things. But it is likely that I may have missed the mark with some and, therefore, I will again draw the Gospel bow in the name of the Lord Jesus. O Lord, direct the arrow! If God will bring souls to Jesus, I will bless His name throughout eternity! Poor lost Souls, do you know the way of salvation, do you know how simple it is? Do you know the love of God to such poor souls as you are and yet do you refuse to attend to it? Do you know that He does not exact any hard conditions of you, but He points to His Son on the Cross and says, "Look"? Can it be that you will not look? Does Jesus die to save, and do you think it is not worth your while to think about salvation? What is the matter with you? Surely you must be mad! When I look back on my own neglect of Christ till I was 15 years old, it seems like a delirious dream! And when I think of some of you who are 30 or 40 and yet have never thought about your souls, what can be invented to excuse you? I see some of you with bald heads, or with the snow of wintry age lying upon them and you have not yet considered the world to come. I would say to you, "Men, are you mad?" Why, you are worse than mad, for if you were insane, you could be excused! Alas, the madness of sin has responsibility connected with it and, therefore, it is the worst of all insanities! I pray you, by the living God, you unsaved ones, turn unto the Savior tonight! Whether you are saved or lost cannot so much matter to me as it will to you. If I faithfully beseech you to look to Jesus, I shall be clear, even if you reject the warning. But for your own sakes, I beseech you to turn to Jesus! By death, which may be so near to you. By judgment, which is certain to you all. By the terrors of Hell, by the thunderbolts of execution, by eternity and, better still, by the sweets of Jesus' love, by the charms of His matchless beauty, by the Grace which He is prepared to give, by the Heaven whose gates of pearl are glistening before the eyes of faith, by the sea of glass unruffled by a single wave of trouble—where you shall stand forever blest if you believe in Jesus—by the Lord Himself, I entreat you, seek Him at once, while He may be found! May His Holy Spirit lead you to do so! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 KINGS4:1-37.
+## Exposition by C. H. Spurgeon: 2 Kings 4:1-37
 
 Verse 1. Now there cried a certain woman of the wives of the sons of the Prophets unto Elisha, saying, Your servant, my husband, is dead; and you know that your servant did fear the LORD. And the creditor is come to take unto him my two sons to be bondmen. According to the very cruel custom of those times, if a man were in debt and had no means of payment, his children were sold for slaves. Here was a poor widow whose husband had been one of the sons of the Prophets, but he had died in debt. He was evidently one who was known to Elisha as a faithful, God-fearing man and, perhaps that partly accounted for his poverty. The false priests were fed at Jezebel's table, but because this man worshipped Jehovah, the one living and true God, he had probably been persecuted and hunted down until he had lost what little he formerly had and, therefore, when he died, he could leave his wife no other legacy than that of debt. And in consequence, the creditor came to seize her two sons to be bondmen.
 
@@ -138,7 +135,6 @@ The Spirit of God taught them some things, but not all things, so Elisha was mad
 30-37. Then he returned, and walked in the house to and fro and went up, and stretched himself upon him: and the
 
 child sneezed seven times, and the child opened his eyes. And he called Gehazi, and said, Call this Shunammite. So he called her. And when she was come in unto him, he said, Take up your son. Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out Her heart was too full for speech just then, so she took up her son and went out.
-
 
 ---
 [[Sermon 3186 Peter's Shortest Prayer|← #3186]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3188 Discipline in Christ's Army|#3188 →]]

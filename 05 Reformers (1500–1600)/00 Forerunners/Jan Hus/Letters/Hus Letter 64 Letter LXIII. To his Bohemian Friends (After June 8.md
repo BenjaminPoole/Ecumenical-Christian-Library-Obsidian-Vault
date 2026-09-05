@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 64. Letter LXIII. To his Bohemian Friends (After June 8, 1415)
-
-LETTER LXIII. TO HIS BOHEMIAN FRIENDS (After June 8, 1415)
 
 Sigismund and the safe-conduct ; What he ought to have done 229-30
 

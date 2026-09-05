@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Blessed Wonder
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 936
 
-DELIVERED ON LORD'S-DAY EVENING, JUNE 12, 1870,.
+*Delivered on Lord's-Day Evening, June 12, 1870*
 
 > "When Jesus heard it, He marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel." Matthew 8:10.
 
@@ -141,7 +140,7 @@ VI. Once more. One other point of wonder. THROUGHOUT THIS WHOLE STORY THE CENTUR
 
 HUMILITY WAS CONSPICUOUS, BUT THAT DEEP HUMILITY, INSTEAD OF WEAKENING HIS FAITH,
 
-ONLY STRENGTHENED IT.
+## Only Strengthened It
 
 Pride is the associate of presumption, but humility is the companion of assurance. He who thinks that it needs but little Grace and power to save him, that he is, in fact, better than most, and as good as any, cannot believe at all. He may be able to presume, but be is unable to believe. Doubtless, presumption would grow well in the soil of his heart, but a broken heart, alone, becomes a believing heart, and an assured heart must first be a humble heart.
 
@@ -160,7 +159,6 @@ Men would desire to be wise, and therefore they puzzle themselves with that whic
 This you need, and when you have it I believe you will then come and cheerfully lay hold on this blessed, this simple way of salvation! It is suitable to the vilest, and yet suitable to the most moral. It is fitted, as one said once, to poor old women who are on their dying beds, and equally fitted to the most profound of philosophers—fitted for the poor, fitted for the rich—fitted for me, fitted for you. O that you would have my Lord to be your strong refuge!
 
 May my Lord and Master grant that He may also marvel at your faith, dear Friends. And, though you had none when you came into this Tabernacle, may you go out rejoicing because the Lord has visited you, and helped you to believe in His name. Amen.
-
 
 ---
 [[Sermon 0935 The Sad Wonder|← #935]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0937 The Profit Of Godliness In This Life|#937 →]]

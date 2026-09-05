@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 39. Matthew 8:14-18;Mark 1:29-39;Luke 4:38-44
-
-**MATTHEW 8:14-18; MARK 1:29-39; LUKE 4:38-44**
 
 **14**. And when Jesus had come into Peter’s house, he saw his mother-in-law lying in bed, and afflicted with fever. **15**. And he touched her hand, and the fever left her, and she arose and waited on them. **16**. And when the evening had approached, they brought to him many demoniacs, and he cast out the spirits by his word, and healed all that were diseased: **17**. That it might be fulfilled which was spoken by Isaiah the prophet, when he saith, He hath taken our diseases. **18**. And when Jesus had seen great multitudes around him, he commanded that they should depart to the other side.
 

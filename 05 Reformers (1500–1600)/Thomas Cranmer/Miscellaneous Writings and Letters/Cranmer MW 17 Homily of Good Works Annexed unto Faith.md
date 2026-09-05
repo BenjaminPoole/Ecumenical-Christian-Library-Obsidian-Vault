@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 17. Homily of Good Works Annexed unto Faith
 
-AN HOMILY OR SERMON
+*An Homily or Sermon*
 
-GOOD WORKS ANNEXED UNTO FAITH.
+## Good Works Annexed unto Faith
 
 IN the last sermon was declared unto you what the lively and true faith of a Christian man is ; that it causeth not a man to be idle, but to be occupied in bringing forth good works, as occasion serveth.
 
@@ -61,7 +60,7 @@ VIII. p. 3/5. Ed. Paris. 1635.]
 
 [8 Quia etsi fuit qui natural! intellectu conatus sit vitiis reluctari, hujus tan turn temporis vitam steriliter ordinavit, ad veras autem virtutes aster - namque beatitudinem non profecit. Sine cultu enim veri Dei, etiam quod virtus videtur esse, peccatum est — Ambros. De Vocat. Gent. Lib. i. cap. iii. Tom. IV. p. 245. Ed. Colon. Agrip. 1616. This treatise is asserted by the Benedictines, Erasmus, and others, to be spurious. Prosper was probably the author. — Vid. Riveti Critica Sacra, p. 289. Ed. Genevas, 1626. Coci Censura Patrum, pp. 259, 60. Ed. Helmes, 1683.]
 
-OF GOOD WORKS.
+## Of Good Works
 
 Christ, and yet (as it appeareth) they flourish in good works of mercy: you shall find them full of pity9, compassion, and given to justice ; and yet for all that they have no fruit of their works, because the chief work lacketh. For when the Jews asked of Christ what they should do to work good works, he answered : ' This is John vi. the work of God, to believe in him whom he sent :' so that he called faith 10 the work of God. And as soon as a man hath faith, anon he shall flourish in good works ; for faith of itself is full of good works, and nothing is good without faith." And for a similitude, lie saith, that "they which glister and shine in good works without faith in God, be like dead men, which have goodly and precious tombs, and yet it availeth them nothing. Faith may not be naked without works, for then it is no true faith; and when it is adjoined to works, yet it is above the works. For as men, that be very men indeed, first have life, and after be nourished; so must our faith in Christ go before, and after be nourished with good works. And life may be without nourishment, but nourishment cannot be without life. A man must needs be nourished by good works, but first he must have faith. He that doth good deeds, yet without faith, he hath not life11. I can shew a man that by faith without works lived, and came to heaven; but without faith never man had life. The thief that was hanged when Christ suffered, did believe only, and the most merciful God did justify him. And because no man shall object12, that he lacked time to do good works, for else he would have done them; truth it is, and I wTill not contend therein : but this I will surely affirm, that faith only saved him. If he had lived, and not regarded faith and the works thereof, he should have lost his salvation again. But this is the effect that I say, that faith by itself saved him, but works by themselves never justified any man13." Here ye have heard the mind of St Chrysostom,» whereby you may perceive, that neither faith is without works, (having opportunity thereto,) nor works can avail to eternal life without faith.
 
@@ -139,7 +138,7 @@ And though Christ said, "They worshipped God in vain that teach doctrines and co
 
 [23 Outward shew, Ed. 1547. j ER, n.]
 
-146 HOMILY
+## 146 Homily
 
 Howbeit, the scribes and Pharisees were not content that their laws should be no higher esteemed than other positive and civil laws, nor would not have them called by Holy tradithe name of other temporal laws, but called them holy and godly traditions, and would STatr ^iave ^iem esteeme(*5 not onty f°r a "girt anc* true worshipping of God, (as God's laws be indeed,) but also to be the most high honouring of God, to the which the command ments of God should give place. And for this cause did Christ so vehemently speak Luke^xvi. against them, saying, Your traditions, which men esteem so high, be abomination before man's device God : for commonly of such traditions followcth the transgression1 of God's commandociaMon that ments, and a more devotion in the observing of such things, and a greater conscience in p, i • f rt C3* ft fended. breaking of them, than of the commandments of God ; as the scribes and Pharisees
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Vessels Of Mercy—A Sermon Of Self-Examination
 
 *New Park Street Pulpit* · Sermon No. 327
 
-DELIVERED ON SABBATH MORNING, AUGUST 5, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, August 5, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > Romans 9:23,24.
 
@@ -68,7 +67,6 @@ I may be as sure of my election, as if I could climb to Heaven and turn over the
 And now, before I send you away, let me say one or two earnest words. It makes my heart glad to see what work the Lord is doing in our day everywhere. I do not think these are times over which God's people ought to sorrow. There is more doing in London, now, than has been accomplished for the last 20 years. The people of God are earnest in prayer. There are men raised up to preach in simple language the Truth of God as it is in Jesus, and I do hope that whatever good we have seen in the past, is about to be quite eclipsed and outdone by greater things that are on their way! But, my Brothers and Sisters, who can shut their eyes to the sad fact that in days of revival there are some who are unblessed? I am anxious about you, that while God is working on the right hand, and on the left, you should not escape without receiving the blessing from on high! Oh, to be like Gideon's fleece—dry when the floor is wet! To remain in a barren spot of ground when all the earth is filled with fertility! And yet, my dear Hearers, this is the case with some of you. You are still becoming more and more fitted for destruction! Oh, I would solemnly warn you that fitness fordestruction will certainly end in destruction! Sin and Hell are married unless Repentance proclaim the divorce! As you sow, you must reap. It is of no use your looking into mysterious doctrines to find anything which can contradict this Truth of God. As your life is such must your endbe! And if your course is out of Christ, your end shall be out of Christ, and your eternal home shall be out of hope and far away from eternal happiness! But oh, I pray that instead thereof, the Lord, in His Infinite bounty may call you effectually by His Grace! I pray that the Holy Spirit may descend—but how shall we obtain that Holy Spirit? Only by the conjoined and united prayers of the Church of Christ! My dear Friends, let us pray more earnestly. Not only our own comfort, but the salvation of sinners lies in the hands of God. We cannot save them! We cannot awaken them! Let us cry—"Oh Lord! You take the work in hand/" and from this hour let every Christian in our midst resolve that he will give the Lord no rest until He sends down the showers of His Grace and revives His work in the midst of our Church, and throughout every land! Let me dismiss you with just a word of prayer to that effect.
 
 Oh Lord, revive Your work, we pray! We are feeble and weak; we can do nothing. But come Yourself and achieve triumphs, and let victories be won. Come and break the hard heart, and subdue the stubborn will. Lord, save the unsaved! O God, awaken those here present who are dead in sin, and let the vessels of mercy whom in Your Sovereign good pleasure You have chosen out of the mass of mankind be filled with mercy till they overflow with gratitude and joy! Oh Lord, hear us and let the feeble effort of this morning be crowned with richer success than we can ask or even think, through Jesus Christ our Lord! Amen.
-
 
 ---
 [[Sermon 0326 Everywhere And Yet Forgotten|← #326]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0328 True Prayer—True Power!|#328 →]]

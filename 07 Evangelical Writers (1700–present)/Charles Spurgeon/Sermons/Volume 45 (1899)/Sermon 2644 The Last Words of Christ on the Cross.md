@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Last Words of Christ on the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2644
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when Jesus had cried with a loud voice, He said, Father, into Your hands I commend My spirit: and having said this, He gave up the ghost" Luke 23:46.
 
@@ -119,7 +116,7 @@ Sobriety itself would make us choose to die! Well, then, do not let us run back 
 
 But, what if you are not Believers? Ah, that is another matter altogether! If you have not believed in Christ, you may well be afraid even to rest on the seat where you are sitting! I wonder that the earth itself does not say, "O God, I will not hold this wretched sinner up any longer! Let me open my mouth and swallow him!" All nature must hate the man who hates God! Surely, all things must loathe to minister to the life of a man who does not live unto God. Oh that you would seek the Lord and trust Christ and find eternal life! If you have done so, do not be afraid to go forth to live, or to die, just as God pleases.
 
-EXPOSITION BY C. H. SPURGEON: JOHN151-8.
+## Exposition by C. H. Spurgeon: John 151-8
 
 Verse 1. I am the true vine. Now we know where to find the true Church. It is to be found only in Christ and in those who are joined to Him in mystical but real union. "I am the true vine."
 
@@ -142,7 +139,6 @@ Verse 1. I am the true vine. Now we know where to find the true Church. It is to
 7\. If you abide in Me, and My words abide in you, you shall ask what you will, and it shall be done unto you. Do not think that all men can pray alike effectually, for it is not so. There are some whom God will hear and some whom God will not hear. And there are some even of His own children whom He will hear in things absolutely vital and essential, to whom He never gave carte blanche after this fashion. 'You shall ask what you will, and it shall be done unto you." No, if you will not hear God's words, He will not hear yours! And if His words do not abide in you, your words shall not have power with Him. They may be directed to Heaven, but the Lord will not listen to them so as to have regard to them. Oh, it needs very tender walking for one who would be mighty in prayer! You shall find that those who have had their will at the Throne of Grace are men who have done God's will in other places—it mast be so. The greatest favorite at court will have a double portion of the jealousy of his monarch, and he must be especially careful that he orders his steps aright, or else the king will not continue to favor him as he was known to do. There is a sacred discipline in Christ's house, a part of which consists in this, that, as our obedience to our God declines, so will our power in prayer decrease at the same time.
 
 8\. Herein is My Father glorified, that he bearmuch fruit; so shallyou be My disciples. If we are His true disciples, we also shall bring forth much fruit.
-
 
 ---
 [[Sermon 2643 The Honored Servant|← #2643]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2645 'The Time of Jacob's Trouble'|#2645 →]]

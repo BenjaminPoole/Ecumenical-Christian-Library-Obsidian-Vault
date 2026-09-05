@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # A Question for Hard-hearted Hearers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1470
-
-DELIVERED BY.
 
 > "Shall horses run upon the rock? Will one plow there with oxen?" Amos 6:12.
 
@@ -142,7 +139,6 @@ transformed. O Rock, instead of smiting you tonight, as Moses smote the rock in 
 O Rock, would you become like wax? O Rock, would you dissolve into rivers of repentance? O Rock, fall down with that wish! Echo to the voice of exhortation! O Rock, break with that good desire! O Rock, dissolve with that longing for God because He is working upon you now! Who knows, but at this very moment you shall begin to crumble? Do you feel the power of the Word? Did the sharp plowshare touch you, just now, and did you begin to break up? Break and break again, till by contrition you are broken in pieces all asunder, for then will the good Seed of the Gospel come to you and you shall receive it into your bosom—and we shall all behold the fruit thereof!
 
 And so I will fling one more handful of good Seed and have done. If you desire eternal life, trust Jesus Christ and you are saved at once. "Look unto Me and be you saved, all you ends of the earth," says Christ, "for I am God, and beside Me there is none." He that believes in Him has everlasting life! "Like as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in Him should not perish, but have everlasting life." O Lord, break up the rock and let the Seed drop in among its broken substance—and get a harvest from the dissolved granite, at this time, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 1469 Prayer Perfumed with Praise|← #1469]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1471 Concealing the Words of God|#1471 →]]

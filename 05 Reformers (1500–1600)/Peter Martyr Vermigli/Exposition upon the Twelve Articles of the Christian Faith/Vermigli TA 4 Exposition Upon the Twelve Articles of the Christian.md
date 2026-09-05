@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 4. Exposition Upon the Twelve Articles of the Christian Faith, Part 4
 
 In the which place, under the name of life; he meaneth this natural life; the which whosoever withdraweth from mortification, and the cross laid upon him by God, and doth attempt with highly dishonouring of Christ and his name, to repulse danger and temporal death from it: then doth he verily lose it, although he determine with himself to find it, and to recover it. For he despoileth it of those properties, which otherwise it should perpetually have in that eternal felicity with Christ. But the spiritual and true Christians, which by the judgment of the world are thought to betray their own life, while they make over-small account of the same, taking great and infinite perils in hand, yea and willing death for Christ's sake: these (I say) as Christ most truly testifieth, in losing of their soul, do in very deed find and most certainly obtain the same. And that is most aptly expressed in the similitude of a grain of corn, which unless it should first become rotten in the earth, it would never give out flower or fruit, framed in the order of an ear of corn.
@@ -29,7 +28,7 @@ Here (brethren) you have a short exposition of the particular things belonging t
 
 -----
 
-**MONERGISM BOOKS**
+## **Monergism Books**
 
 Exposition Upon the Twelve Articles of the Christian Faith by Peter Martyr Vermigli, Copyright © 2024
 

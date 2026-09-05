@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 78. Letter LXXVII. To the Same (June 27, 1415)
-
-LETTER LXXVII. TO THE SAME (June 27, 1415)
 
 His death put off ; Master Jerome ; Why God has granted him a respite ; The sufferings of the Saints .... 265-7
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Guilt and the Cleansing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3056
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Purge me with hyssop, and/shall be clean: wash me, and/shall be whiter than snow." Psalm 51:7.
 
@@ -99,7 +96,7 @@ Long, long ago!"
 
 Christ is worthy of being trusted. Rely upon Him! God give you the Grace to do so and you are saved! Remember what we said the other night—there is all the difference in the world between the religion that is made up of, "Do, do," and that other religion that is spelt "D-o-n-e, done." He who has the religion of, "It is all done," loves God out of gratitude and serves Him because he is saved. But he who has the religion of "Do" is always a slave, never gets salvation, but perishes in his doings—as they deserve to do who will look to themselves instead of looking to Christ! May the Lord now command His own blessing for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51.
+## Exposition by C. H. Spurgeon: Psalm 51
 
 May God graciously grant to all of us the Grace which shall enable us to enter into the penitential spirit which is so remarkable in this Psalm!
 
@@ -113,7 +110,7 @@ And, mark you, for each one of us there is a special vocation in which we can fo
 
 II. Now secondly, IN ORDER TO FOLLOW CHRIST IT WILL BE A WISE THING TO LET A GREAT MANY
 
-OTHER THINGS ALONE.
+## Other Things Alone
 
 Peter wanted to know about John—"What shall this man do?" But Jesus said, "What is that to you? You follow Me." From this answer of Christ, we learn that we are not to be curious as to what God is going to do with other people. I will tell you what thoughts have been passing through the minds of some of us. One has said, "I am a poor humble believer in Jesus. I have to struggle with poverty and need, yet God graciously helps me and I can tell of many instances of His delivering mercy." Well, dear Friend, God is greatly glorified by this testimony! But when you go on to ask about those rich people who have everything that heart can wish, "What is God going to do with them?" I can only reply, "What is that to you? Follow you Christ and be not curious about others." It is equally wrong if a rich man says, "There are those poor people who are converted, but who cannot give much to the cause of God and who need education to enable them to teach others—what will the Lord do with them?" That is nothing to do with you, my Brother. You have to follow the Lord, yourself, and to mind your own business! Someone else says, "There's such-and-such a man—really, I can't see any ability in him! He tried to preach the other day and I was glad when he stopped, for it was very poor talk." I must confess that I have sometimes felt like that when I have listened to a friend, but I have said to myself, "What is that to me? God knows His own servants better than we do and He knows where to place them, and how to use them to the best advantage." Possibly, someone says, concerning a fine orator, "A man who blazes away at that rate thinks too much of himself for God to bless him." But Christ says, "What is that to you? You follow Me." God has all sorts of stones in His Temple and some of them are of such a strange shape that I am glad the placing of them is not left to me, for I could not do it! I am thankful that God never sent me into the world to make people perfect, but to use them as I find them. And I believe that He also uses them as He finds them and gradually prepares them for higher uses and for the place which He means them to occupy in His Temple above. So do not say, "I am wondering what this man will do and what that man will do, and what others around me will do"—but do what you can for Christ and, as for others—leave them to the Master!
 
@@ -153,7 +150,7 @@ I might say to someone here, "You ought to be taking a Bible class for young wom
 
 Give up all speculating, I beseech you—give up reading books merely for the sake of curiosity, and, in God's name, get to work for Him! The graves are filling, our cemeteries are filling, and Hell is filling too! Meanwhile, the dupes of Satan are compassing sea and land to do all the mischief that they can. If you really are what you say you are, the servant of Him who wept over Jerusalem—if you are bought with the blood He shed on Calvary's Cross—I charge you to consecrate yourself, this very hour, to that form of Christian work to which your Master calls you and follow Him through evil report and good report! Follow Him in the path of duty and let nothing turn you aside from your life-work of glorifying God! May God bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN21.
+## Exposition by C. H. Spurgeon: John 21
 
 Verse 1. After these things Jesus showed Himself again to the disciples at the sea of Tiberias; and on this wise showed He Himself.Jesus loved to show Himself to His people. Of old, His delights were with the sons of men. So now that He had risen from the dead, He was not ashamed to visit His brethren and He did not disdain to make Himself known to them—and He will still show Himself to us after a spiritual fashion, if we sincerely desire to see Him.
 
@@ -196,7 +193,6 @@ Verse 1. After these things Jesus showed Himself again to the disciples at the s
 19\. And when He had spoken this, He said unto him, Follow Me. "That is to be your rule, whether you feed My sheep or lambs, or whether you stretch out your hands upon a cross and die as a martyr—'Follow Me.'" That is also the rule for all of us who love the Lord. O Lord, help us to obey it!
 
 20-25. Then Peter, turning about, saw the disciple whom Jesus loved following; which also leaned on His breast at supper, and said, Lord, which is he that betrays You? Peter seeing him, said to Jesus, Lord, and what shall this man do? Jesus said unto him, Ifl will that he tarry till Icome, what is that to you? You follow Me. Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, he shall not die; but, If I will that he tarry till I come, what is that to you? This is the disciple which testifies of these things, and wrote these things. And we know that His testimony is true. And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen
-
 
 ---
 [[Sermon 3055 Accomplices in Sin|← #3055]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3057 Following Christ|#3057 →]]

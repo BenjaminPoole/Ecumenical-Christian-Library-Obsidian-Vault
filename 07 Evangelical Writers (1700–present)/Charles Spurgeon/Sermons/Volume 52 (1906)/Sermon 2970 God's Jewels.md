@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # God's Jewels
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2970
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Malachi 3:1. Behold, I will send My messenger, and he shall prepare the way before Me. The name Malachi means "my messenger." The reference here is, of course, to John the Baptist who was to prepare the way of the Lord.
 
@@ -78,7 +75,6 @@ Malachi 4:1, 2. For, behold, the day comes, that shall burn as an oven, and all 
 2\. With healing in His wings and you shall go forth, and grow up as calves of the stall All is right with those who are right with God!
 
 3-6. And you shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, says the LORD ofHosts. Remember you the Law ofMoses My servant, which I commanded unto him in Horeb for all Israel, with the statutes andjudgments. Behold, I willsendyou Elijah the Prophet before the coming of the great and dreadful day of the LORD: and He shall turn the heart of the fathers to the children, and the heart of the children to their father, lest I come and smite the earth with a curse. The Old Testament ends with the mutterings of a curse, but the New Testament begins with a message of blessing concerning the birth of our Lord and Savior Jesus Christ! What a mercy to come from under the Old Covenant unto the New!
-
 
 ---
 [[Sermon 2969 Angelic Protection in Appointed Ways|← #2969]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2971 The Right Kind of Fear|#2971 →]]

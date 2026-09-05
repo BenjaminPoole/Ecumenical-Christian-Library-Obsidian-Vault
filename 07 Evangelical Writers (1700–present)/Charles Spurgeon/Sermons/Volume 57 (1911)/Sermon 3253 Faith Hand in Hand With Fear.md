@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Faith Hand in Hand With Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3253
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What time I am afraid, I will trust in You." Psalm 56:3.
 
@@ -113,7 +110,7 @@ Beloved, have this same faith. May God work it in you and then your fear shall o
 
 May the Lord bless every one of you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:1-21.
+## Exposition by C. H. Spurgeon: John 6:1-21
 
 Verses 1, 2. After these things Jesus went over the Sea ofGalilee, which is the Sea ofTiberias. Anda great multitude followed Him, because they saw His miracles which He did on them that were diseased. Many of them curiosity-mongers wanting to see more wonders worked. Others of them sick, themselves, and anxious to be healed. Wherever Jesus went, a throng went with Him.
 
@@ -154,7 +151,6 @@ my dear Friends, perhaps you know what it is to be in trouble and to mourn an ab
 20\. But He said unto them, It is I; be not afraid.Then they must have felt at ease at once as soon as they knew that it was Jesus who was walking towards them upon the water. Lord, if it is You, fear would be foolish on our part! We are only too glad to have Your company.
 
 21\. Then they willingly received Him into the ship: and immediately the ship was at the land where they were going. No sooner was Jesus with them than they were where they wanted to be! The Presence of Christ works wonders for us. We are soon at our haven when the Lord of Heaven comes to us!
-
 
 ---
 [[Sermon 3252 'By Water and Blood'|← #3252]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3254 The Curse Removed|#3254 →]]

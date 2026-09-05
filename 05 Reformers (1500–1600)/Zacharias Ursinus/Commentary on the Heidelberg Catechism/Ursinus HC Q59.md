@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 59. But what doth it profit thee now, that thou believest all this?
-
-**Question 59. But what doth it profit thee now, that thou believest all this?**
 
 Answer. That I am righteous in Christ, before God, and an heir of eternal life.
 

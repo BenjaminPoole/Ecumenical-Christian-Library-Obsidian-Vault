@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # One Aspect of Christ's Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2986
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Greater love has no man than this, that a man lay down his life for his friends." John 15:13.
 
@@ -39,7 +36,7 @@ There is no need, with such a subject as this, for the use of grand periods and 
 
 I. Let us, then, first SEE CHRIST'S LOVE RESPLENDENT IN THE LAYING DOWN OF HIS LIFE FOR HIS
 
-PEOPLE.
+## People
 
 When He says, "Greater love has no man than this," He seems to me to imply that there are manifestations of His love which are not as great as this. The love of the Lord Jesus Christ to His people is always great. I may truly say that it is always greater than any other love. I might even say that it is always in the superlative degree—the greatest love there ever was, or is, or can be! Yet there are displays of that love which can be rightly described as great, greater, greatest. Our Lord had already displayed His love to His people in the great and the greater forms of it—now He was about to display it in the highest and greatest of all ways.
 
@@ -91,7 +88,7 @@ Why should Christ ever have loved us? Why should He ever have loved us? When at 
 
 III. I must speak very briefly upon the last point which is that THIS GREAT LOVE OF CHRIST IS TO BE
 
-REFLECTED AND REPRODUCED BY HIS FRIENDS.
+## Reflected and Reproduced by His Friends
 
 Christ is the sun in our heavens and His Church is the moon. Why does the sun shine upon the moon? For the moon's sake? Yes, in part, but also for the sake of the earth, which would be dark at night if the moon did not reflect the light it
 
@@ -110,7 +107,6 @@ Oh, that all men knew, by happy personal experience, what the love of Jesus is! 
 "Come and welcome, sinner, come." Come and taste the great love of God which is in Christ Jesus our Lord. May His gracious Spirit bring you, for Jesus Christ's sake! Amen.
 
 8 One Aspect of Christ's Death Sermon #2986
-
 
 ---
 [[Sermon 2985 Messages to Sinners and Saints|← #2985]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2987 The 'Beau Ideal' of Life|#2987 →]]

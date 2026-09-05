@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Harvest Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2265
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have magnified the nation, and increased the joy: they joy before You according to the joy in harvest, and as men rejoice when they divide the spoil." Isaiah 9:3.
 
@@ -109,7 +106,7 @@ Once more, What do we say to those who do confess Christ and who are going to co
 
 God bless every one of this great mass of people! "Believe in the Lord Jesus Christ, and you shall be saved," for "he that believes and is baptized shall be saved; but he that believes not shall be damned." God save all of us from that fearful doom, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON ISAIAH49:13-26.
+## Exposition by C. H. Spurgeon Isaiah 49:13-26
 
 Verse 13. Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains; for the LORD has comforted His people, and will have mercy upon His afflicted. When God blesses His Church, He blesses the world through her. Therefore, Heaven and earth are invited to be glad in the gladness of the Church of God! Oh, that God would visit His Church—no, He has already done so, and I feel inclined to cry out, as the text does—"Sing, O heavens; and be joyful, O earth: and break forth into singing, O mountains: for the LORD has comforted His people."
 
@@ -160,7 +157,6 @@ The glorified spirits in Heaven."
 23\. And you shall know that I am the LORD: for they shall not be ashamed that wait for Me. If we wait for Christ, for His coming, for the help which He brings, for the salvation that is worked by Him, we shall not be ashamed.
 
 24-26. Shall the prey be taken from the mighty, or the lawful captive delivered? But thus says the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contends with you, and I will save your children. And I will feed them that oppress you with their own flesh; and they shall be drunk with their own blood, as with sweet wine: and all flesh shall know that I the LORD am your Savior and your Redeemer, the Mighty One of Jacob. The mighty may hold their prey with a strong hand, but there is a stronger hand that will deliver the captive. It is Jehovah, the Savior, the Redeemer, the Mighty One of Jacob, who says, "I will contend with him that contends with you, and I will save your children." Here is a Divine promise for every parent to plead—"I will save your children." May the Lord give you Grace to claim that promise, even now, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2264 Sowing in the Wind, Reaping Under Clouds|← #2264]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2266 Blessing for Blessing|#2266 →]]

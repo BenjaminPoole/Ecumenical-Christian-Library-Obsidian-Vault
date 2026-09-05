@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Lord's Chosen Ministers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2319
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In that hour Jesus rejoiced in spirit, and said, Ithank You, O Father, Lord of Heaven and earth, that You have hid these things from the wise and prudent, and have revealed them unto babes: even so, Father; for so it seemed good in Your sight." Luke 10:21.
 
@@ -105,7 +102,7 @@ Have you a teachable spirit? Are you willing to believe what the Holy Spirit rev
 
 Are you willing to be what Christ was? He was the childlike Man. He is called, "The Holy Child, Jesus." Will you be a child to Him and let Him be a Man for you? Will you take His Book and believe it as you read it? Will you take Him and trust Him as you find Him? Will you take His Cross and rest upon it as your only hope? Then, blessed are you, for you are in the election of Grace! You are one of those whom God has chosen and for whom Christ thanks Him that He did choose people of that quality! And while Christ thanks God, you may thank Him, too, and go home tonight rejoicing! If you are too wise, too clever, too critical to trust Christ, there is no other way to Heaven—so you see where you must go. The Lord change your foolish opinion and teach your reason, reason—and your sense a little commonsense, and save you, for His mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. LUKE101-22.
+## Exposition by C. H. Spurgeon. Luke 101-22
 
 Our Lord was about to send out 70 disciples to preach the Gospel. He had already chosen His 12 Apostles. Now there must be 70 disciples, something like Moses had 70 elders to serve under him. Some have fancifully likened these two sets of men to the 12 wells of water and 70 palm trees at Elim, and certainly they were for the refreshment of the people.
 
@@ -140,7 +137,6 @@ city, which cleaves on us, we do wipe off against you: notwithstanding be you su
 21, 22. In that hour Jesus rejoiced in spirit, and said, I thank You, O Father, Lord of Heaven and earth, that You have hid these thingsfrom the wise andprudent, and have revealed them unto babes: even so, Father; for so it seemed good in Your sight. All things are delivered to Me of My Father: and no man knows who the Son is, but the Father. You know that He is the Son of God. You know that He is Jesus of Nazareth. But you do not know Him, you cannot know Him, as His Father knows Him! He is known in His fullness only to the Father.
 
 22\. And who the Father is, but the Son, and He to whom the Son will reveal Him. "Can you, by searching, find out God? Can you find out the Almighty unto perfection?" No, you cannot. The Son of God must reveal His Father to you, or you will never know Him!
-
 
 ---
 [[Sermon 2318 God's Pupil, God's Preacher—an Autobiography|← #2318]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2320 The Beloved Pastor's Plea for Unity|#2320 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Three Witnesses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1187
@@ -99,8 +98,7 @@ Brethren, the inference from all this is, if you are not on Christ’s side it i
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’1 John 5.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’335, 451, 331.
-
+## Hymns from ‘Our Own Hymn Book’’335, 451, 331
 
 ---
 [[Sermon 1186 The Blood of the Covenant|← #1186]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1188 A Word for the Persecuted|#1188 →]]

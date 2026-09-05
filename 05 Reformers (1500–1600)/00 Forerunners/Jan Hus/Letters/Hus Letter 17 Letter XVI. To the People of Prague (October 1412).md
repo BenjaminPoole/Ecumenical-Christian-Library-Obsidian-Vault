@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 17. Letter XVI. To the People of Prague (October 1412)
-
-LETTER XVI. TO THE PEOPLE OF PRAGUE (October 1412)
 
 The attack on the Bethlehem; The nature of abjuration . 88-9
 

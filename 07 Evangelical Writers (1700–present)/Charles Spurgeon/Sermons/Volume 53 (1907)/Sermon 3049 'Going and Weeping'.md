@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # 'Going and Weeping'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3049
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Going and weeping." Jeremiah 50:4.
 
@@ -123,7 +120,7 @@ If nothing else will make us weep, there is one other reflection that should bri
 
 Oh, how could I ever offend such a God as this? Shame on my heart! Gladly would I smite you that you could ever be an enemy to One who loved you before the day-star knew its place. And O base spirit that does not now serve God better, more ardently, more passionately, more perfectly, seeing that all this love has been spent on you! Beloved, God grant that we may realize, in all its sweetness, the meaning of our text, "going and weeping," and unto Him shall be glory forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS 1:1-14.
+## Exposition by C. H. Spurgeon: Ephesians 1:1-14
 
 In this chapter we see what Paul, writing under the Inspiration of the Holy Spirit, has to say about the possessions and privileges of Believers in the Lord Jesus Christ.
 
@@ -146,7 +143,6 @@ has so abundantly blessed His children. How has He blessed us? "With all spiritu
 7\. In whom we have redemption through His blood, the forgiveness of sins, according to the riches of His Grace. Redemption from destruction, the forgiveness of our sins—we have all this through "the riches of His Grace."
 
 8-14. Wherein He has abounded toward us in all wisdom andprudence; having made known unto us the mystery of His will, according to His good pleasure which He has purposed in Himself: that in the dispensation of the fullness of times He might gather together in one all things in Christ, both which are in Heaven, and which are on earth; even in Him: in whom also we have obtained an inheritance, being predestinated according to the purpose of Him who works all things after the counsel of His own will: that we should be to the praise of His glory, who first trusted in Christ In whom you also trusted, after that you heard the word of truth, the Gospel of your salvation: in whom also after that you believed, you were sealed with that HolySpirit ofpromise, which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of His glory. There is no end to the blessing which God gives to His chosen. He is always blessing us with blessings upon blessings, Grace upon Grace, and then there will be Glory to crown it all. Blessed be His holy name forever and ever!
-
 
 ---
 [[Sermon 3048 The Holy Spirit in the Covenant|← #3048]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3050 The Errand of Mercy|#3050 →]]

@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # Exhortation to the Heathen, Chapter 10
 
-BY CLEMENT OF ALEXANDRIA
+*By Clement of Alexandria*
 
 ## Chapter 10. Answer to the Objection of the Heathen, that It Was Not Right to Abandon the Customs of Their Fathers.
 

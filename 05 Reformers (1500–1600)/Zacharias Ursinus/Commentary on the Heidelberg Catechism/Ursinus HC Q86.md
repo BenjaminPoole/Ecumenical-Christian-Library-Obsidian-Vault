@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 86. Since then we are delivered from our misery, merely of grace through Christ, without any merit of ours, why must we still do good works?
-
-**Question 86. Since then we are delivered from our misery, merely of grace through Christ, without any merit of ours, why must we still do good works?**
 
 Answer. Because that Christ, having redeemed and delivered us by his blood, also renews us by his Holy Spirit, after his own image; that so we may testify, by the whole of our conduct, our gratitude to God for his blessings, and that he may be praised by us; also, that every one may be assured in himself of his faith, by the fruits thereof; and that by our godly conversation others may be gained to Christ.
 
-**EXPOSITION**
+## **Exposition**
 
 This Question, with respect to the moving causes of good works, is placed first, even before the Question relating to man's conversion, not because good works precede conversion, but because the things which follow are in this way more strikingly connected with what precedes. Human reason argues in this way from the doctrine of free satisfaction: He is not bound to make satisfaction, for whom another has already satisfied. Christ has satisfied for us. Therefore, there is no need that we should perform good works. We reply, that there is more in the conclusion than in the premises. All that legitimately follows, is: Therefore, we ourselves are not bound to make satisfaction, which we grant, 1. In respect to the justice of (God, which does not demand a double payment. 2. In respect to our salvation, which, in other respects, would be no salvation. Yet we are, nevertheless, bound to render obedience, and perform good works, for the reasons which are referred to, and explained in the above Question of the Catechism:
 

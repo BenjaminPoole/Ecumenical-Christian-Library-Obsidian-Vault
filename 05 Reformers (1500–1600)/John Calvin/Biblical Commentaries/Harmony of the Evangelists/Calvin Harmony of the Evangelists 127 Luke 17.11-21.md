@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 127. Luke 17:11-21
-
-**Luke 17:11-21**
 
 **11**. And it happened, while he was going to Jerusalem, that he passed through the midst of Samaria and of Galilee. **12**. And as he was entering into a certain village, there met him ten men, lepers, who stood at a distance; **13**. And, lifting up their voice, said, Jesus, Master, take pity on us. **14**. When he saw them, he said, Go, show yourselves to the priests. And it happened that, while they were going, they were cleansed. **15**. And one of them, when he saw that he was cleansed, turned back, glorifying God with a loud voice, **16**. And fell on his face [^1] at his feet, thanking him: and he was a Samaritan. **17**. And Jesus answering said, Were not ten cleansed? But where are the nine? **18**. None are found that have returned to give glory to God except this stranger. **19**. And he saith to him, Arise, go, thy faith hath saved thee. [^2] **20**. And being interrogated by the Pharisees, when the kingdom of God would come, he replied to them and said, The kingdom of God will not come with observation; [^3] **21**. For they shall not say, Lo, he is here! or, Lo, he is there! for, lo, the kingdom of God is within you.
 

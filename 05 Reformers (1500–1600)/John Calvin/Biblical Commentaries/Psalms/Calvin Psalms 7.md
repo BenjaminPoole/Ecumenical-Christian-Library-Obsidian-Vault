@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 7
-
-**PSALM 7**
 
 David, loaded with unjust calumny, calls upon God to be his advocate and defender, and commits his innocence to the Divine protection. In the first place, he protests that his conscience did notaccuse him of the wickedness laid to his charge. Secondly, he shows how greatly it concerns the glory of God that he should execute judgment against the ungodly. Thirdly, to inspire his mind with confidence, he seriously reflects upon the goodness and righteousness of God, and sets before him the divine promises. Lastly, as if he had obtained the desire of his heart, he derides the folly and the vain attempts of his enemies; or rather, depending upon the aid of God, he assures himself that all their endeavours against him shall turn to their own destruction.
 

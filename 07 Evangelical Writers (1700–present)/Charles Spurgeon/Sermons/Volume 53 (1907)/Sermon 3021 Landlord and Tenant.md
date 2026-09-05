@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Landlord and Tenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3021
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Set your house in order; for you shall die, and not live." Isaiah 38:1.
 
@@ -123,8 +120,7 @@ As for you who have no redeeming blood upon you, I do not marvel that you live t
 
 Adapted from The C. H. Spurgeon Collection, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3020 Good Cheer From Grace Received|← #3020]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3022 God's Innumerable Mercies|#3022 →]]

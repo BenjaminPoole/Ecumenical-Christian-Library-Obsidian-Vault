@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 43
 
-**CHAPTER 43.**
+***Chapter 43.***
 
 ## Genesis 43:1-34
 

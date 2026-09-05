@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Man'S Weakness—God'S Anointing
 
 *New Park Street Pulpit* · Sermon No. 334
 
-DELIVERED ON SABBATH MORNING, SEPTEMBER 9, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, September 9, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > "I am this day weak, though anointed king; and these men, the sons of Zeruiah, are too hard for me." 2 Samuel 3:39.
 
@@ -78,7 +77,6 @@ No, my Brothers and Sisters. When your soul is given up to Christ, it is Christ'
 "His honor is engaged to save The meanest of His sheep; All that His heavenly Father gave, His hands securely keep! Nor death nor Hell shall ever divide His darlings from His breast; In the dear bosom of His love They must forever rest."
 
 Fly into His bosom, Sinner—fly now, and you shall rest there forever! And neither sin, nor Satan, nor self, shall ever pluck you thence; for he who believes is saved! He who believes in Christ, "out of his belly shall flow rivers of living water." The water which He shall give him, shall be in him a well of water, springing up into everlasting life! God grant you the blessing of perseverance, for Jesus' sake!
-
 
 ---
 [[Sermon 0333 Three Homilies From One Text|← #333]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0335 A Single Eye And Simple Faith|#335 →]]

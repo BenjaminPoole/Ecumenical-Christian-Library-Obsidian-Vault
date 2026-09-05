@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Gospel Worth Dying For
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1734
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 12, 1883,.
+*Delivered on Lord's-Day Morning, August 12, 1883*
 
 > "To testify the Gospel of the Grace of God." Acts 20:24.
 
@@ -132,7 +131,6 @@ And if He then spoke and said, "My Beloved, I have committed to you My Gospel. H
 Now, if you and I awaken ourselves this day, and God's Holy Spirit shall help us to do so—and we begin to proclaim the Gospel of the Grace of God—do you know what I think is sure to happen? I prophesy the best results! They tell us that all sorts of evils are growing strong—and Brothers, darkly prophetic, tell us that awful times are coming—I cannot tell you how dreadful they are to be! Popery is to come back, according to some, and once again the harlot of the Seven Hills is to dominate over all the earth! Is she? We shall see. If you boldly proclaim the Gospel, I tell you it will not be so! If the Gospel of the Grace of God is fully and fairly preached, it cannot be so! Listen to what John saw—"I saw another angel fly in the midst of Heaven having the everlasting Gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, saying with a loud voice, fear God and give glory to Him."
 
 Do you see that angel? Observe what follows! Close behind him flies another celestial herald. "And there followed another angel, saying, Babylon is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication." Fly, angel of the everlasting Gospel! Fly, for as surely as you speed your flight, that other angel will follow who shall proclaim the downfall of Babylon and of every other system that opposes itself to the Grace of the Lord God Almighty! The Lord stir you up for His name's sake. Amen.
-
 
 ---
 [[Sermon 1733 On Humbling Ourselves before God|← #1733]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1735 The Doctrines of Grace Do Not Lead to Sin|#1735 →]]

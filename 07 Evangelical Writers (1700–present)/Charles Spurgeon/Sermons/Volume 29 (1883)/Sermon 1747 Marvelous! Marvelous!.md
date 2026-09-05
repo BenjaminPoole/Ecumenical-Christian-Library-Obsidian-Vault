@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Marvelous! Marvelous!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1747
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 28, 1883,.
+*Delivered on Lord's-Day Morning, October 28, 1883*
 
 > "Thus says the LORD of Hosts: If it is marvelous in the eyes of the remnant of this people in these days, will it also be marvelous in My eyes? says the LORD of Hosts." Zechariah 8:6.
 
@@ -118,7 +117,6 @@ You know the story of the general, who, having led his men into a difficult posi
 conversing, and one of them above the rest was saying, "I think our general has made a great mistake this time. Look at the enemy—they have so many cavalry, so many infantry and guns," and so forth. He added up all the force of the enemy and another soldier chimed in, "What do you suppose our strength to be?" So the other calculated—so many footmen, so many horsemen, so many artillerymen, and so on. He was just going to total it up and make a very small concern of the whole, when the general drew aside the canvas of the tent and said, "And pray, my man, how many do you count me for?" Did all the general's skill, valor and renown count for nothing? He who had won so many fights—could he not win again?
 
 Just so, the Lord Jesus Christ, whenever we begin summing up our strength, or rather, our weakness, seems to appear and ask, "How many do you count Me for?" O Sirs! You have not counted the Lord Jesus at the millionth part of what He is! No, the firmest Believer here has not yet reached the trailing skirts of the garments of Divine Omnipotence! Let us enlarge our minds! Come, Blessed Spirit, reveal Christ in us and let us know more of God and trust Him better! And let nothing be unbelievingly marvelous in our eyes, since nothing can be too hard for the Lord! God bless all of you. Amen.
-
 
 ---
 [[Sermon 1746 The Devil's Last Throw|← #1746]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1748 Jehovah Has Spoken—will You Not Hear|#1748 →]]

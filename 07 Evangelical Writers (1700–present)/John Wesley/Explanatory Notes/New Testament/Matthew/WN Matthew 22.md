@@ -26,7 +26,7 @@ tags:
 
 **7.** The king sending forth his troops - The Roman armies employed of God for that purpose. Destroyed those murderers - Primarily the Jews.
 
-**8.** Go into the highways - The word properly signifies, the by- ways, or turnings of the road.
+**8.** Go into the highways - The word properly signifies, the by-ways, or turnings of the road.
 
 **10.** They gathered all - By preaching everwhere.
 

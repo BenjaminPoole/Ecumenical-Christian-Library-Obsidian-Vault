@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule III. Prayer and supplications are continually to be made on his behalf for assistance and success in the work committed to him
-
-Rule iii. Prayer and supplications are continually to be made on his behalf for assistance and success in the work committed to him.
 
 Eph. vi. 18–20, “Praying always with all prayer and supplication in the Spirit for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, for which I am an ambassador.”
 
@@ -31,7 +28,6 @@ Explication iii. The greatness of the work (for which who is sufficient? 2 Cor. 
 3\. His prayers are continually for the church, Isa. lxii. 6, 7; Rom. i. 9, etc.
 
 4\. That for which he stands in so much need of prayers is the saints’ good, and not peculiarly his own. Help him who carries the burden, Eph. vi. 18–20; Phil. ii. 17; Col. i. 24.
-
 
 ---
 [[ECFC 05 Rule II. His conversation is to be observed and diligently followed, so far as|← Rule II. His conversation is to be observed and diligently followed, so far as he walks in the steps of Jesus Christ]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 07 Rule IV. Reverential estimation of him, with submission unto him for his work’s|Rule IV. Reverential estimation of him, with submission unto him for his work’s sake →]]

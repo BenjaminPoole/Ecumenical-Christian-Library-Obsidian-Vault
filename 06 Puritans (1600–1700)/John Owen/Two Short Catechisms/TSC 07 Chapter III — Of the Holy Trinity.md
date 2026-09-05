@@ -9,14 +9,13 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter III — Of the Holy Trinity
 
 ## Chap. III. — Of the Holy Trinity.
 
 Q. 1. Is there but one God to whom these properties do belong?
 
-A. ^aOne only, in respect of his essence and being, but one ^bin three distinct persons, of Father, Son, and Holy Ghost. ^aDeut. vi. 4; Matt. xix. 17; Eph. iv. 5, 6. ^bGen. i. 26; 1 John v. 7; Matt. xxviii. 19.
+A. [^a1]One only, in respect of his essence and being, but one [^b1]in three distinct persons, of Father, Son, and Holy Ghost.
 
 Q. 2. What mean you by person?
 
@@ -36,12 +35,11 @@ A. To proceed from the Father and the Son. John xiv. 17, xvi. 14, xv. 26, xx. 22
 
 Q. 6. Are these three one?
 
-A. One ^aevery way, in nature, will, and essential properties, ^bdistinguished only in their personal manner of subsistence. ^aJohn x. 30; Rom. iii. 30. ^bJohn xv. 26; 1 John v. 7.
+A. One [^a2]every way, in nature, will, and essential properties, [^b2]distinguished only in their personal manner of subsistence.
 
 Q. 7. Can we conceive these things as they are in themselves?
 
 A. Neither ^awe nor yet the ^bangels[^4] of heaven are at all able to dive into these secrets, as they are internally in God; ^cbut in respect of the outward dispensation of themselves to us by creation, redemption, and sanctification, a knowledge may be attained of these things, saving and heavenly. ^a1 Tim. vi. 16. ^bIsa. vi. 2, 3. ^cCol. i. 11–14.
-
 
 ---
 [^1]: This is that mysterious ark that must not be pried into, nor the least tittle spoken about it, wherein plain Scripture goeth not before.
@@ -49,6 +47,13 @@ A. Neither ^awe nor yet the ^bangels[^4] of heaven are at all able to dive into 
 [^3]: This only doctrine remained undefiled in the Papacy.
 [^4]: We must labour to make out comfort from the proper work of every person towards us.
 
+[^a1]: Deut. vi. 4; Matt. xix. 17; Eph. iv. 5, 6.
+
+[^b1]: Gen. i. 26; 1 John v. 7; Matt. xxviii. 19.
+
+[^a2]: John x. 30; Rom. iii. 30.
+
+[^b2]: John xv. 26; 1 John v. 7.
 
 ---
 [[TSC 06 Chapter II — Of God|← Chapter II — Of God]] · [[Two Short Catechisms|Contents]] · [[TSC 08 Chapter IV — Of the Works of God; and, First, of those that are Internal and|Chapter IV — Of the Works of God; and, First, of those that are Internal and Immanent →]]

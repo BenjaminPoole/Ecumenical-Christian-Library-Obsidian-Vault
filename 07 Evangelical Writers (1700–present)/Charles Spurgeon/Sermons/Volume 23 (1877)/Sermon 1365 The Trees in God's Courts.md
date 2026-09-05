@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Trees in God's Courts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1365
-
-DELIVERED BY.
 
 > "Those that are planted in the house of the Lord shall flourish in the courts of our God. They shall still bring forth fruit in old age; they shall be fat and flourishing; to show that the Lord is upright; He is my rock, and there is no unrighteousness in Him." Psalm 92:13-15.
 
@@ -142,7 +139,6 @@ If you have anything to say against God, you old servants of His, let us hear it
 We who are younger men, but yet who have had a good deal of tossing to and fro, can say, "He is my Lord and there is no unrighteousness in Him. No, not a flaw in Him—not one unkindness, not one unfaithfulness, not one forgetfulness, not one angry word, not one thing but what has been full of love." He has said, "I have sworn that I would not be angry with you, or rebuke you," and He has kept His promise! And up to this hour we cannot discover speck, spot, or flaw in all the transactions of His Providence. Though sometimes they have been mysterious, they have always been right!
 
 Blessed be His name forever and ever! Oh, who would not be planted in the courts of such a God as this to be kept even to old age and to be blessed with such unspeakable blessings world without end? God grant you all to be called trees of righteousness, the planting of the Lord that He might be glorified! Amen.
-
 
 ---
 [[Sermon 1364 Nevertheless, Hereafter|← #1364]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1366 The Danger of Unconfessed Sin|#1366 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 19
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**A SOUND HEART**
+## **A Sound Heart**
 
 > Let my heart be sound in thy statutes: that I be not ashamed" Ps. 119:80
 
@@ -25,7 +24,6 @@ See, the prayer is for soundness of heart. A sound creed is good, a sound judgme
 Many will be ashamed in the last great day, when all disputes will be decided. Then they will see the folly of their inventions, and be filled with remorse because of their proud infidelity and willful defiance of the Lord; but he who believed what the Lord taught, and did what the Lord commanded, will stand forth justified in what he did. Then shall the righteous shine forth as the sun. Men much slandered and abused shall find their shame turned into glory in that day.
 
 Let us pray the prayer of our text, and we may be sure that its promise will be fulfilled to us. If the Lord makes us sound, He will keep us safe.
-
 
 ---
 [[FCB June 18|← June 18]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 20|June 20 →]]

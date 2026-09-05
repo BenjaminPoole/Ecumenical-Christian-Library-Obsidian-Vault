@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # A Hasty Expression Penitently Retracted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1589
-
-DELIVERED BY.
 
 > "I said in my haste, I am cut off from before Your eyes: nevertheless You heard the voice of my supplications when I cried unto You." Psalm 31:22.
 
@@ -128,7 +125,6 @@ They ought to praise God, now, for those wonderful seasons four, five, or six ye
 May God give us a happy, childlike, rejoicing spirit! We have done enough murmuring to last a lifetime! Let us change the tune. Suppose that you were to say, "I will make up my mind that just as much as I have ever disbelieved, mistrusted, murmured, so much will I do in the way of trusting and praising the Lord"? But suppose you were actually to do as much—that would be a poor life of which you could merely say, "There was as much praise of God in that man's life as there was of murmuring." Shall we be content with such a summary? No, no, no! We must rise to something better than that! We must praise God a thousand times to every complaint! No—we must even get above that—we must have done with all complaining! God deliver us from it and lift us right out of unbelief—and when we do speak in our haste, again, may it only be to exclaim, "Bless the Lord, hallelujah!"
 
 If somebody sincerely remarks, "That was a bit of bold sincere remarks. That was a bit of enthusiasm," you may reply, "Oh yes, but as I am a hasty man and rather quick-tempered, that is the way in which I show my hastiness—I bless the Lord while my heart is hot and then keep on doing so till I have cooled down." Lift up a hallelujah when nobody is prepared for such a word of praise! Startle your friends by crying, "Bless the Lord, O my Soul, and all that is within me bless His holy name!" The Lord lift you all up to this and keep you there, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1588 The Believer's Death Day Better Than His Birthday|← #1588]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1590 The Barrier|#1590 →]]

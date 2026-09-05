@@ -10,22 +10,21 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 11. Marginal Notes on the First Twenty-One Chapters of St Matthew's Gospel
 
-NOTES OR GLOSSES
+*Notes or Glosses*
 
-SAINT MATTHEW'S GOSPEL.
+## Saint Matthew's Gospel
 
-[INTRODUCTORY NOTICE.
+## [Introductory Notice
 
 Havikg arrived at the end of all that is known to be extant of Tyndale's expositions, our promised course leads us to his notes on scripture, of which we can present our readers with no more than those he composed for the margins of his intended first edition of the New Testament in English. It has been already mentioned (Vol. i. p. S), that the prologue prefixed to that edition was the first address from an English refonner, printed by himself for the edification of our forefathers ; and the following notes, originally called glosses, and reprobated under that name by the Romanists (Vol. i. pp. xxiii, xxvi.) are, in like manner, the first approach to a running comment upon the text of scripture ever printed in the English tongue. They were copied by the present editor from that fragment of the first sheets struck off by Tyndale, of which an account was given in Vol. i. pp. 4, 5 ; and where the fragment terminates, our knowledge of them ceases.]
 
-MARGINAL NOTES
+## Marginal Notes
 
-ON THE FIRST TWENTYONE CHAPTERS OP
+## On the First Twentyone Chapters Op
 
-ST MATTHEW'S GOSPEL.
+## St Matthew's Gospel
 
 Abraham and David are first rehearsed, because that Christ ver. i. was chiefly promised unto them.
 
@@ -49,7 +48,7 @@ Jewry is the land ; Judah is that tribe or kindred that dwelt therein.
 
 228 MARGINAL NOTES ON THE FIRST wer. 18. Rachael was buried not far from Bethlehem ; and the prophet signifieth that as she mourned her son Benjamin, in whose birth she died, so should the mothers of those children mourn. And here may we see how it goeth alway with the right christian men before the world, for the faith's sake which they have in Christ; notwithstanding they are wonderfully maintained and defended alway of God against all power of hell.
 
-CHAPTER III.
+## Chapter III
 
 fer.4. Locusts aro more^ than our grasshoppers; and such men used to eat in divers parts of the east.
 
@@ -59,7 +58,7 @@ Let saints be an ensample unto you, and not your trust and confidence : for then
 
 *^- ^'^ All righteousness is fulfilled when we forsake all our own righteousness, that God only may be counted he which is righteous, and maketh righteous through faith. This doth John, in that he putteth from him his own righteousness, and would be washed of Christ and made righteous. This also doth Christ, in that he taketh not righteousness and honour on him; but suffereth himself to be baptized and killed: for baptism is none other thing than death.
 
-CHAPTER IV.
+## Chapter IV
 
 -5The world thinketh to possess the earth, and to defend their own, when they use violence and power ; but Christ teacheth that the world must be possessed with meekness only, and without power and violence.
 
@@ -91,7 +90,7 @@ No man should avenge himself, or seek wreak, no, not by * *. the law. But the ru
 
 Publicans gathered rents, toll, custom, and tribute; and were *. 46. commonly heathen men, thereunto appointed of the Romans.
 
-CHAPTER VI.
+## Chapter VI
 
 Ye shall not think that our deeds deserve anything of'*'-*- God, as a labourer deserveth his hire. For all good things come of the bounteousness, liberality, mercy, promises, and truth of God, by the deserving of Christ's blood only ; but it is a manner of speaking, as we say, * Thy labour, or going was well rewarded,' unto him that hath but fett' only the promises of another man.
 
@@ -111,9 +110,9 @@ Ter.6. The holy things are the word of God, that sanctifieth all things. Dogs ar
 
 er.M. Here Christ requireth faith; for where faith is not, there is not the command fulfilled, Rom. xiii. And all good works after outward appearance, without faith, are sin : contrariwise, where faith is, there must the very good works folio ?v. Christ calleth here doing, to do with a pure heart, Acts XV. ; and such goodness standeth fast against all winds, that is to say, against all the power of hell ; for it is built on the rock, Christ, through faith.
 
-CHAPTER VIII.
+## Chapter VIII
 
-^.8. Faith knoweth not, yet trusteth in the favour and good- ness of God.
+^.8. Faith knoweth not, yet trusteth in the favour and good-ness of God.
 
 *"* Moses calleth the law a witness unto the people (Deut xxxi.); for the law accuseth us, and is a testimony against our sin. Likewise here, if the priests bare record that Christ had cleansed this leper, and yet believed not, then testified they against themselves.
 
@@ -123,13 +122,13 @@ CHAPTER VIII.
 
 Christ and believe ; but Christ signifieth that such works are dead and lost.
 
-CHAPTER IX.
+## Chapter IX
 
 TCT, I. This city was Capernaum.
 
 \} Each day's trouble is sufficient for the self-same day. Tyndale's Version.]
 
-TWENTY-ONB CHAPTERS OF ST MATTHEW. 231
+## Twenty-Onb Chapters of St Matthew. 231
 
 Mourn, that is, to suffer pain. Tliere is pain in many m. 14. ways : one way, of a man's own choice and election ; as is the monks' rules, and as Baal's priests pricked themselves, 3 Kings xviii. : such pain doth all the world, the Pharisees, yea, John's disciples, esteem great; but God despiseth it. Another ways is there pain, and ordained of God, without our election ; as shame, rebuke, wrong, death : such to suffer patiently, and with good-will, is the right cross, and pleaseth God well : so Christ's disciples fast not, but are merry at the marriage, while the bridegroom is yet with them ; yea, and God had yet ordained no trouble for them. They fain* themself no pain ; for it pleaseth not God. They must fast after Christ's death, and suffer pain of God's hand and ordinance. So now, whatsoever a man taketh on him by his own election, that is reproved ; yea, and where Christ sheweth himself friendly, as a bridegroom, there must needs be a merry heart.
 
@@ -151,7 +150,7 @@ ver. 41. " In the name of a prophet ; " that is, in that he pertaineth to God an
 
 cup or cold ^ , water. ^3^t comparo them to God, so are they all alike, and one as good as another ; even as the spirit moveth a man, and time and occasion giveth.
 
-CHAPTER XI.
+## Chapter XI
 
 ver. 6. Hurt Hurtcd and oifended, throughout all the new Testament, oJfended in ' betokencth to decay and faule in the faith. For many, when
 
@@ -165,7 +164,7 @@ ver. 20. To Upbraid is to cast a man in the teeth.
 
 ver. 30. The cross is an easy thing to them that perceive the gospel.
 
-CHAPTER XII.
+## Chapter XII
 
 yer,7. The understanding of all commandments stands so greatly in love, that the very commandments of God bind not where love and need require. ,er.25. That is, wasted, destroyed, and brought to nought.
 
@@ -175,11 +174,11 @@ If that be put away, faith may enter in, and all sins depart, ver. 32. "Where Ma
 
 [1 In his answer to ch. viii. of B. 11. of Mere's Dialogue, [date 1631] Tyndale gives a comment on these words of our Lord to the same purpose, but at greater length. In his new Testament diligently corrected, printed at Antwerp in 1534, this note is changed into the following : " Christ which humbled himself to the cross was less."]
 
-TWENTYONE CHAPTERS OF ST MATTHEW. 233
+## Twentyone Chapters of St Matthew. 233
 
 Here may ye see that words and deed declare out-*-7. wardly what a man is within, and are witnesses with him or against him, but never make him good or bad; as the fruit declareth what the tree is, but maketh it neither good nor bad.
 
-CHAPTER XIII.
+## Chapter XIII
 
 Where the word of God is understood, there it multiplieth, . ii. and maketh the people better. Where it is not understood, there it decreaseth, and maketh the people worse.
 
@@ -197,13 +196,13 @@ The pearl is also the evangehon. (
 
 Old; the law. New ; the gospel, or evangelion. '"*
 
-CHAPTER XIV.
+## Chapter XIV
 
 Tetrarcha is he that hath rule over the fourth part of the wr. i. realm. Jewry, with her pertenance, was then divided into four lordships.
 
 The night in the old time was divided into four quarters; and to every part was given three hours.
 
-CHAPTER XV.
+## Chapter XV
 
 Mark the leaven of the Pharisees. God would that the rer. s.
 
@@ -213,7 +212,7 @@ son should honour his father and mother with his temporal thing i offer, that mn
 
 ver. 9-13. Traditlons of men must fail at the last. God's word bideth ever.
 
-CHAPTER XVI.
+## Chapter XVI
 
 ver. 3 The signs are Christ's wonderful deeds and miracles, which were prophesied of before, that they should be done in Christ's time.
 
@@ -227,15 +226,15 @@ ver. 28. That is, Whosoevor believeth on me shall not see death.
 
 CHAPTER XVn.
 
-ver. 21. Strong faith requireth fervent prayer ; and prayer re- quireth fasting to subdue the body, that lusts unquiet not a man's mind.
+ver. 21. Strong faith requireth fervent prayer ; and prayer requireth fasting to subdue the body, that lusts unquiet not a man's mind.
 
 ver. 26. Though Christ were free, yet gave he tribute for his neighbour's sake. So is a christian man free in all things, as pertaining to his own part ; yet payeth he tribute, and submitteth himself to all men for his brother's sake, to serve his brother withal.
 
-TWENTY-ONE CHAPTERS OF 8T MATTHEW. 235
+## Twenty-One Chapters of 8t Matthew. 235
 
-CHAPTER XVIII. Note here, All bind and loose. ^. ,,,
+## CHAPTER XVIII. Note here, All bind and loose. ^. ,,,
 
-CHAPTER XIX.
+## Chapter XIX
 
 Laws permit and suffer many things, to avoid a worse w. . inconvenience, which God will judge and punish.
 
@@ -245,7 +244,7 @@ As Christ speaketh, John viii. " ISIy doctrine is not my . 17. doctrine," even s
 
 Perfectness is properly the keeping of God's command- . 21. ments. Therefore it appeareth evidently that this man had not fulfilled God's commandments groundly, as he yet supposed; and that Christ declareth, when he putteth forth unto him the right work of the commandment, and judgeth that none of the rich men can be saved, of whose number this young man was, yet shall all they be safe that keep God's commandments.
 
-CHAPTER XX.
+## Chapter XX
 
 Seven o'clock with us is one with the Jews ; and nine is w. i-& three : twelve is six : three at afternoon is nine ; and five is eleven with them, and six is eventide.
 
@@ -259,11 +258,11 @@ As many as called him son of David believed that he was d^mwfonoi very Messias, 
 
 \} Ere, before, sooner.]
 
-236 MARGINAL NOTES, &C.
+## 236 Marginal Notes, &C
 
 should come and redeem Israel. For it was promised that Messias should be David's son.
 
-CHAPTER XXI.
+## Chapter XXI
 
 ver. 9. Hosanna is as much to say as, O help ; or, give good luck and health.
 
@@ -279,7 +278,7 @@ Ibis brother's fogfe.
 
 In the yere of oure Lorde,
 
-MCCCCC. & XXX.
+## MCCCCC. & XXX
 
 [Title of edition of 1548.] ompgletr bg tbe faittfull mti qoIiIb learntti man, SSlgllBam ^^nticdt^
 

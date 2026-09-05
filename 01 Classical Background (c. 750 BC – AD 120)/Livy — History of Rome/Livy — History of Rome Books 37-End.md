@@ -11,7 +11,6 @@ tags:
   - classical
   - livy
 ---
-
 # The History of Rome
 *Books 37 to the End, with the Epitomes*
 
@@ -19,38 +18,29 @@ tags:
 
 ---
 
-THE
+## The
 
-HISTORY OF ROME.
+## History of Rome
 
 BY
 
-TITUS LIVIUS.
-
+## Titus Livius
 
 BOOKS THIRTY-SEVEN TO THE END,
 
-WITH THE EPITOMES AND FRAGMENTS OF THE LOST BOOKS.
+## With the Epitomes and Fragments of the Lost Books
 
-LITERALLY TRANSLATED
+## By William A. M‘devitte, Sen. Class. Mod. Ex. Schol. A. B. T. C. D
 
-BY WILLIAM A. M‘DEVITTE, SEN. CLASS. MOD. EX. SCHOL. A. B. T. C. D.
+## London: Henry G. Bohn, York Street, Covent Garden. MDCCCL
 
+## John Childs and Son, Bungay
 
-LONDON: HENRY G. BOHN, YORK STREET, COVENT GARDEN. MDCCCL.
+## The
 
-JOHN CHILDS AND SON, BUNGAY.
+## History of Rome
 
-
-THE
-
-HISTORY OF ROME.
-
-
-
-
-BOOK XXXVII.
-
+## Book XXXVII
 
      _Lucius Cornelius Scipio the consul, having as lieutenant Publius
      Scipio Africanus, (who had declared that he would be his brother’s
@@ -74,7 +64,6 @@ BOOK XXXVII.
      engagement, triumphed. Lucius Cornelius Scipio, who had brought the
      war with Antiochus to a conclusion, was called Asiaticus, attaining
      to an equality with his brother by this surname._
-
 
 1. Lucius Cornelius Scipio and Caius Lælius being consuls, no business,
 after the duties of religion, was transacted in the senate prior to that
@@ -2384,11 +2373,7 @@ three ships from the latter place to the coast of Thrace, he ordered the
 garrisons of Antiochus to be withdrawn from Ænos and Maronea, that these
 cities might be left at liberty.
 
-
-
-
-BOOK XXXVIII.
-
+## Book XXXVIII
 
     _Marcus Fulvius the consul besieged Ambracia, in Epirus, and
     received its surrender; he reduced Cephallenia, and granted peace to
@@ -4907,11 +4892,7 @@ his nearest relations. And the public hatred which had been pointed
 against the Scipios, reverted on the prætor, his advisers, and the
 accusers.
 
-
-
-
-BOOK XXXIX.
-
+## Book XXXIX
 
      _Marcus Æmilius, the consul, having subdued the Ligurians, made a
      road from Placentia as far as Ariminum, and connected it with the
@@ -4945,7 +4926,6 @@ BOOK XXXIX.
      the following source: Philip was dissatisfied that his kingdom was
      being diminished by the Romans, and because he was compelled to
      withdraw his garrisons from Thrace and other places._
-
 
 1. While these things are done at Rome, (if they were really transacted
 in this year,) both the consuls were employed in the war with the
@@ -7140,11 +7120,7 @@ that besides Titus Quintius Flamininus, whose name was celebrated in
 this business, Lucius Scipio Asiaticus, and Publius Scipio Nasica, were
 sent ambassadors to Prusias on that occasion.
 
-
-
-
-BOOK XL
-
+## Book XL
 
      _When Philip had ordered the children of those whom he had put to
      death, to be sought after as hostages, Theoxena, fearing the king’s
@@ -7177,7 +7153,6 @@ BOOK XL
      rather than him, as his successor. But, whilst forming this
      project, he was hurried off by death. Perseus received the
      kingdom._
-
 
 1. At the commencement of the next year, the consuls and prætors
 determined the provinces by lot. For the consuls there was no province
@@ -9327,11 +9302,7 @@ on Jupiter fell off. It was also construed as a prodigy, that the mice
 gnawed the olives on the table. For the expiation of these, nothing more
 was done than repeating the celebration of the games.
 
-
-
-
-BOOK XLI.
-
+## Book XLI
 
      _The sacred fire was extinguished in the temple of Vesta. Tiberius
      Sempronius Gracchus conquered the Celtiberians and received their
@@ -9356,7 +9327,6 @@ BOOK XLI.
      embassy to the Carthaginians, which had been heard by them at
      night; and besides he was tampering with different states of
      Greece._[68]
-
 
 1. _The Roman people had now carried their victorious arms over all
 parts of the world, and far and wide had penetrated countries at a vast
@@ -10846,11 +10816,7 @@ reserved slave who followed them and daily importuned payment.” Moved by
 indignation at this, they voted for passing the law as Voconius proposed
 it._
 
-
-
-
-Book XLII.
-
+## Book XLII
 
      _Quintus Fulvius Flaccus, the censor, spoiled the temple of Juno at
      Lacinium of the marble tiles, to roof a temple which he was
@@ -10869,7 +10835,6 @@ Book XLII.
      thousand two hundred and thirty-one citizens were rated. It
      includes besides, the successes gained over the Corsicans and
      Ligurians._
-
 
 1. When Lucius Postumius Albinus and Marcus Popilius Lænas brought
 before the senate first of all the distribution of the provinces,
@@ -13373,11 +13338,7 @@ him to go into Bœotia; wherefore, in compliance with their entreaties,
 and because that country was better adapted for winter quarters than
 Magnesia, he led his army thither.
 
-
-
-
-BOOK XLIII.
-
+## Book XLIII
 
      _Several prætors were condemned because they had conducted
      themselves with avarice and cruelty in the administration of their
@@ -13392,7 +13353,6 @@ BOOK XLIII.
      latter country. The commotions which arose in Spain through the
      agency of Olonicus, were quelled by his death. Marcus Æmilius
      Lepidus was chosen by the censors prince of the senate._
-
 
 1. In the same summer in which the Romans were conquerors in the cavalry
 action in Thessaly, the lieutenant-general, sent by the consul to
@@ -14387,11 +14347,7 @@ powerful support he would find in Gentius, the Macedonian could not
 prevail on himself to expend money on the business, although it was to
 him a question of vital importance.* * * * * * * * * * * * * * * * *
 
-
-
-
-BOOK XLIV.
-
+## Book XLIV
 
      _Quintus Marcius Philippus, the consul, penetrates into Macedonia
      through the rugged passes, and takes several cities. The Rhodians
@@ -14408,7 +14364,6 @@ BOOK XLIV.
      Perseus, not paying Eumenes, king of Pergamus, and Gentius, king of
      Illyria, the money he had promised them for their assistance, is
      deserted by them._
-
 
 1. EARLY in the spring which succeeded the winter in which these
 transactions took place, the consul, Quintus Marcius Philippus, set out
@@ -16461,11 +16416,7 @@ might carry his victorious arms round to all the nations which had been
 under his sway, made for the province of Odomantice, a region beyond the
 river Strymon, and encamped at Siræ_.
 
-
-
-
-BOOK XLV.
-
+## Book XLV
 
      _Perseus was captured by Æmilius Paulus in Samothrace. When
      Antiochus, king of Syria, was besieging Ptolemy and Cleopatra, king
@@ -16499,7 +16450,6 @@ BOOK XLV.
      Macedon; and committed his son Nicomedes to the charge of the
      senate: being full of servility, he called himself the freed-man of
      the Roman people._
-
 
 1. Although Quintus Fabius, Lucius Lentulus, and Quintus Metellus, who
 were sent with the news of the victory, made all possible haste to Rome,
@@ -18597,16 +18547,11 @@ to the hearers as disgraceful to himself. He staid in the city and its
 vicinity not more than thirty days, and then returned to his kingdom,
 and the war that had been carried on in Asia. * * * * * * * * * *
 
-
      Here ends all that has reached us of this history. Of ninety-five
      books more, which it originally consisted of, the contents only
      have been preserved; they are as follow:—
 
-
-
-
-BOOK XLVI.
-
+## Book XLVI
 
 King Eumenes came to Rome. [Y. R. 586. B. C. 166.] A general law was
 introduced, that no king should be permitted to come to Rome, in order
@@ -18638,11 +18583,7 @@ effects, there could scarcely be raised a sum sufficient to repay his
 wife’s fortune, [Y. R. 592. B. C. 160.] The Pomptine marshes were
 drained, and converted into dry land, by the consul, Cornelius Cethegus.
 
-
-
-
-BOOK XLVII.
-
+## Book XLVII
 
 Cneius Tremellius, a plebeian tribune, was [Y. R. 593. B. C. 159] fined
 for contending in an unjust cause with Marcus Æmilius Lepidus, the chief
@@ -18674,11 +18615,7 @@ Carthaginians had collected a vast quantity of materials for
 ship-building. Several prætors, accused of extortion by different
 provinces, were condemned and punished.
 
-
-
-
-BOOK XLVIII.
-
+## Book XLVIII
 
 A census was held by the censors [Y. R. 600. B. C. 152]; the number of
 citizens amounted to three hundred and twenty-four thousand. The causes
@@ -18752,11 +18689,7 @@ years old, vanquishes the Carthaginians, who had made war against him
 unjustly, and contrary to treaty. By this infraction of the treaty, they
 also involve themselves in a war with Rome.
 
-
-
-
-BOOK XLIX.
-
+## Book XLIX
 
 The commencement of the third Punic war, dated [Y. R. 602. B. C. 150],
 which was ended within five years after it began. Marcus Porcius Cato,
@@ -18846,11 +18779,7 @@ assassinated, and in hopes also of receiving some assistance from
 Demetrius, he had gone into Syria; and had there first ventured openly
 to declare who he was.
 
-
-
-
-BOOK L.
-
+## Book L
 
 The aforesaid impostor [Y. R. 604. B. C. 148] assuming the name of
 Philip, being about to invade and forcibly possess himself of Thessaly,
@@ -18889,11 +18818,7 @@ Carthage. The impostor Philip, having slain the prætor, Publius
 Juventius, and vanquished his army, was himself afterwards subdued and
 taken prisoner by Quintua Cæcilius, who recovered Macedonia.
 
-
-
-
-BOOK LI.
-
+## Book LI
 
 Carthage, [Y. R. 605. B. C. 147,] comprehended in a circuit of
 twenty-three miles, was besieged with immense exertion, and was
@@ -18919,11 +18844,7 @@ ambassadors of the Romans being expelled from Corinth by the Achæans,
 when they were sent to separate from the Achæan council those cities
 which had been under the dominion of Philip.
 
-
-
-
-BOOK LII.
-
+## Book LII
 
 Quintus Cæcilius Metellus engages and conquers the Achæans, together
 with the Bœotians and Chalcidians. Critolaus, their unsuccessful
@@ -18957,11 +18878,7 @@ Diodotus claims the crown for Alexander, a child scarcely two years old.
 Lucius Mummius triumphed over the Achæans, and so carried in his triumph
 brazen standards, marble statues, and pictures.
 
-
-
-
-BOOK LIII.
-
+## Book LIII
 
 Appius Claudius, the consul, [Y. R. 608. B. C. 144,] subdued the
 Salacians, a nation of the Alps. Another impostor, assuming the name of
@@ -18972,11 +18889,7 @@ Fabius, the proconsul, takes many cities of Lusitania, and recovers the
 greatest part of that country. Caius Julius, a senator, writes the
 history of Rome in the Greek language.
 
-
-
-
-BOOK LIV.
-
+## Book LIV
 
 Quintus Pompeius, the consul, [Y. R. 611. B. C. 141,] subdues the
 Termestines in Spain, and makes peace with them, and also with the
@@ -18998,11 +18911,7 @@ He was, in truth, a great man, and a valiant general; and in the
 fourteen years during which he carried on war with the Romans, had very
 frequently vanquished their armies.
 
-
-
-
-BOOK LV.
-
+## Book LV
 
 While Publius Cornelius Nasica, [Y. R. 614. B. C. 138,] (who was
 nicknamed Scrapio by the plebeian tribune Curiatius, a man of humour,)
@@ -19034,11 +18943,7 @@ of Syria, was traitorously murdered by his guardian Diodotus, surnamed
 Tryphon: his physicians were bribed to give out that he had a stone in
 his bladder; and in pretending to cut him for it, they killed him.
 
-
-
-
-BOOK LVI.
-
+## Book LVI
 
 [Y. R. 616. B. C. 136.] Decius Junius Brutus fought with success against
 the Gallæcians, in Farther Spain: Marcus Æmilius Lepidus engages the
@@ -19063,11 +18968,7 @@ army: Cleon also, another slave, having assembled seventy thousand
 slaves, joins him; and they, several times, engage the Roman forces in
 those parts.
 
-
-
-
-BOOK LVII.
-
+## Book LVII
 
 Scipio Africanus laid siege to Numantia, [Y. R. 619. B. C. 133,] and
 restored to the strictest military discipline the army, which had been
@@ -19098,11 +18999,7 @@ invested on all sides, he gave orders that those who came out in search
 of victuals should not be killed; saying, that the more numerous the
 inhabitants were, the sooner would their provisions be consumed.
 
-
-
-
-BOOK LVIII.
-
+## Book LVIII
 
 Titus Sempronius Gracchus, the plebeian tribune, having proposed an
 Agrarian law, (contrary to the sense of the senate, and the equestrian
@@ -19132,11 +19029,7 @@ thrown, without the rites of sepulture, into the river, together with
 some others who fell in the tumult. Various engagements, with various
 success, against the slaves in Sicily are recorded.
 
-
-
-
-BOOK LIX.
-
+## Book LIX
 
 The Numantines, reduced to the extremity of distress by famine, put
 themselves to death. Scipio having taken the city, destroys it and
@@ -19185,11 +19078,7 @@ Sempronius, the consul, fought the Iapidæ, at first unsuccessfully, but
 soon repairs all his losses by a signal victory, gained by the valour of
 Junius Brutus, the conqueror of Lusitania.
 
-
-
-
-BOOK LX.
-
+## Book LX
 
 Lucius Aurelius subdued the rebellious Sardinians, [Y. R. 624. B. C.
 128.] Marcus Fulvius Flaccus, who first subdued the Transalpine
@@ -19225,11 +19114,7 @@ murders her husband Demetrius, and also his son Seleucus, for assuming
 the crown without her consent, upon his father’s death, are also
 mentioned.
 
-
-
-
-BOOK LXI.
-
+## Book LXI
 
 Caius Sextius, the proconsul, [Y. R. 630. B. C. 122,] having subdued the
 nation of the Salyans, founds a colony, which he named Aquæ Sextiæ,
@@ -19256,11 +19141,7 @@ sent to Rome. The Allobrogians were admitted to a capitulation. Lucius
 Opimius, being brought to trial before the people for committing to
 prison some citizens who had not been condemned, was acquitted.
 
-
-
-
-BOOK LXII.
-
+## Book LXII
 
 The consul, Quintus Marcius, [Y. R. 634. B. C. 118,] subdued the
 Stonians, an Alpine nation. Micipsa, king of Numidia, dying, bequeathed
@@ -19273,11 +19154,7 @@ Cæcilius Metellus, and Cneius Domitius Ahenobarbus, the censors,
 expelled thirty-two senators. [Y. R. 637. B. C. 115.] Disturbances in
 Syria are recorded.
 
-
-
-
-BOOK LXIII.
-
+## Book LXIII
 
 Caius Porcius, the consul, [Y. R. 638. B. C. 114,] fought against the
 Scordiscians in Thrace, unsuccessfully. The lustrum was closed by the
@@ -19289,11 +19166,7 @@ fight with and defeat the army of the consul, Papirius Carbo. [Y. R.
 640. B. C. 112.] The consul, Livius Drusus, made war successfully upon
 the Scordiscians, a people descended from the Gauls.
 
-
-
-
-BOOK LXIV.
-
+## Book LXIV
 
 Jugurtha attacked Adherbal, besieged him in Cirta, and put him to death,
 contrary to the express commands of the senate. [Y. R. 641. B. C. 111.]
@@ -19311,11 +19184,7 @@ perdition, could but a purchaser be found!” Aulus Posthumius, having
 fought against Jugurtha unsuccessfully, added to his disgrace, by making
 an ignominious peace with him; which the senate refused to ratify.
 
-
-
-
-BOOK LXV.
-
+## Book LXV
 
 Quintus Cæcilius Metellus, the consul, [Y. R. 643. B. C. 109,] defeated
 Jugurtha, in two battles, and ravaged all Numidia. Marcus Junius
@@ -19327,11 +19196,7 @@ off by the Tigurine Gauls, in the country of the Helvetians. The
 soldiers who survived that unfortunate action stipulated for their
 lives, by giving hostages, and delivering up half their property.
 
-
-
-
-BOOK LXVI.
-
+## Book LXVI
 
 Jugurtha, [Y. R. 645. B. C. 107,] being driven out of Numidia by Caius
 Marius, received aid from Bocchus, king of the Moors. [Y. R. 646. B. C.
@@ -19340,11 +19205,7 @@ war any longer, delivered up Jugurtha in chains to Marius. In this
 action, Lucius Cornelius Sylla, the quæstor under Marius, distinguished
 himself most highly.
 
-
-
-
-BOOK LXVII.
-
+## Book LXVII
 
 Marcus Aurelius Scaurus, [Y. R. 647. B. C. 105,] lieutenant-general
 under the consul, was taken prisoner by the Cimbrians, his army being
@@ -19369,11 +19230,7 @@ Spain, where, having committed many depredations, they were at length
 put to flight by the Celtiberians: returning into Gaul, they joined the
 Teutons, a warlike people.
 
-
-
-
-BOOK LXVIII.
-
+## Book LXVIII
 
 Marcus Antonius, the prætor, [Y. R. 649. B. C. 103,] attacked the
 pirates, and chased them into Cilicia. The consul, Caius Marius, when
@@ -19400,11 +19257,7 @@ first that ever was sewn up in a sack and cast into the sea. The sacred
 shields are said to have shaken, with considerable noise, previous to
 the conclusion of the Cimbrian war. Wars between the kings of Syria.
 
-
-
-
-BOOK LXIX.
-
+## Book LXIX
 
 Lucius Apuleius Saturninus, aided by Marius,—the soldiers having killed
 his competitor, Aulus Nonius,—having been forcibly elected prætor,
@@ -19431,11 +19284,7 @@ Metellus was recalled from banishment by the decided favour of the whole
 state. Marcus Aquilius, the proconsul put an end to the servile war in
 Sicily.
 
-
-
-
-BOOK LXX.
-
+## Book LXX
 
 Manius Aquilius, [Y. R. 654. B. C. 98,] being accused of extortion,
 refused to implore the favour of the judges appointed to try him. Marcus
@@ -19463,11 +19312,7 @@ the plebeian tribune, promoting this design, stimulated the people, by
 the pernicious hope of bribes, to add their sanction. Moreover a
 commotion occurred among the kings of Syria.
 
-
-
-
-BOOK LXXI.
-
+## Book LXXI
 
 Marcus Livius Drusus, the plebeian tribune, [Y. R. 661. B. C. 91,] in
 order the more effectually to support the senate in their pretensions,
@@ -19483,11 +19328,7 @@ the chief men among them. Drusus becoming obnoxious even to the senate,
 on account of his conduct in this affair, and being considered as the
 cause of the social war, was slain in his own house, by an unknown hand.
 
-
-
-
-BOOK LXXII.
-
+## Book LXXII
 
 The Italian states, the Picentians, Vestinians, Marcians, Pelignians,
 Marrucinians, Samnites, and Lucanians, revolted, the war commencing with
@@ -19500,11 +19341,7 @@ besieged by the Italians. Aid was sent to the Romans by the Latins, and
 other foreign nations, and the expeditions, and sieges, on both sides,
 are recorded.
 
-
-
-
-BOOK LXXIII.
-
+## Book LXXIII
 
 The consul, Lucius Julius Cæsar, fought against the Samnites
 unsuccessfully. The colony of Nola fell into the hands of the Samnites,
@@ -19525,11 +19362,7 @@ Marius vanquished the Marcians, Herius Asinius, the prætor of the
 Marrucinians, being killed. Caius Cæcilius subdued the rebellious
 Salvians in Trausalpine Gaul.
 
-
-
-
-BOOK LXXIV.
-
+## Book LXXIV
 
 Cneius Pompeius defeated the Picentians, and laid siege to their town;
 on account of this victory the inhabitants of Rome resume their purple
@@ -19545,11 +19378,7 @@ prætor, was murdered in the forum, by the usurers, in consequence of
 some judgments given by him in favour of debtors. Incursions were made
 by the Thracians, and devastations committed against the Macedonians.
 
-
-
-
-BOOK LXXV.
-
+## Book LXXV
 
 Aulus Posthumius Albinus, commander of a fleet, upon a suspicion of
 treachery, was murdered by the forces under his command. Lucius
@@ -19566,11 +19395,7 @@ consequence of having performed so many distinguished services, as
 scarcely any one had ever done under the circumstances, he repaired to
 Rome to solicit the consulship.
 
-
-
-
-BOOK LXXVI.
-
+## Book LXXVI
 
 Aulus Gabinius, the lieutenant, having defeated the Lucanians, and taken
 several of their towns, was slain in an attack on their camp. Sulpicius,
@@ -19585,11 +19410,7 @@ Cappadocia, and Nicomedes, king of Bithynia, were driven out of their
 kingdoms by Mithridates, king of Pontus. Predatory incursions were made
 by the Thracians into Macedon.
 
-
-
-
-BOOK LXXVII.
-
+## Book LXXVII
 
 Publius Sulpicius, the tribune of the people, having, with the aid of
 Caius Marius, carried certain laws: “that those who had been banished
@@ -19620,11 +19441,7 @@ after having driven the Roman general, Aquilius, out of them: and at the
 head of a great army entered Phrygia, a province belonging to the Roman
 people.
 
-
-
-
-BOOK LXXVIII.
-
+## Book LXXVIII
 
 Mithridates possessed himself of Asia; threw into chains Quintus Oppius,
 the proconsul, and Aquilius, the general; and ordered all the Romans in
@@ -19636,11 +19453,7 @@ Athens. Commotions resulted in several states and islands, some
 endeavouring to draw over their people to the side of the Romans, others
 to that of Mithridates.
 
-
-
-
-BOOK LXXIX.
-
+## Book LXXIX
 
 Lucius Cornelius Cinna having, by force of arms, procured the enactment
 of several injurious laws, was driven out of the city by his colleague,
@@ -19661,11 +19474,7 @@ two of which were commanded by Sertorius and Carbo, gained strength and
 laid siege to the city. Marius took Ostia, which he plundered in the
 most cruel manner.
 
-
-
-
-BOOK LXXX.
-
+## Book LXXX
 
 The freedom of the city of Rome was granted to the Italian states. The
 Samnites, the only people who continued in arms, joined Cinna and
@@ -19692,11 +19501,7 @@ greater in war, or more wicked in peace. Having preserved his country by
 his valour, he ruined it afterwards by every species of artifice and
 fraud; and finally destroyed it by open force.
 
-
-
-
-BOOK LXXXI.
-
+## Book LXXXI
 
 Lucius Sylla besieged Athens, [Y. R. 666. B. C. 86,] held by Archelaus,
 under Mithridates, and took it, after an obstinate resistance. The city
@@ -19704,11 +19509,7 @@ and such of the inhabitants as remained alive, were restored to liberty.
 Magnesia, the only city in Asia which continued faithful, was defended
 against Mithridates with great valour. The Thracians invaded Macedon.
 
-
-
-
-BOOK LXXXII.
-
+## Book LXXXII
 
 Sylla defeated Mithridates in Thessaly, killing one hundred thousand
 men, and taking their camp. The war being renewed, he entirely routed
@@ -19721,11 +19522,7 @@ audacity, who assumed the command. Several cities in Asia were taken by
 Mithridates, who treated them with extreme cruelty. Macedon was invaded
 by the Thracians.
 
-
-
-
-BOOK LXXXIII.
-
+## Book LXXXIII
 
 [Y. R. 667. B. C. 85.] Caius Fimbria having defeated several of
 Mithridates’ generals in Asia, took the city of Pergamus, and was very
@@ -19744,11 +19541,7 @@ Bithynia, and Cappadocia. Fimbria, deserted by his army, which went over
 to Sylla, put himself to death, by calling on his slave to cut off his
 head.
 
-
-
-
-BOOK LXXXIV.
-
+## Book LXXXIV
 
 Sylla replied to deputies sent by the senate, that he would yield to the
 authority of the senate, upon condition that those who, being banished
@@ -19766,11 +19559,7 @@ that the armies should every where be disbanded. The sons of freed-men
 were distributed among the thirty-five tribes. Preparations were made
 for war against Sylla.
 
-
-
-
-BOOK LXXXV.
-
+## Book LXXXV
 
 Sylla entered Italy at the head of an army, and defeated in a battle
 Norbanus, the consul, by whom his ambassadors, sent to negotiate a
@@ -19784,11 +19573,7 @@ three legions; also the whole body of the nobility quit the city and
 joined his camp. Sundry actions in different parts of Italy are recorded
 in the book.
 
-
-
-
-BOOK LXXXVI.
-
+## Book LXXXVI
 
 While Caius Marius, son of Caius Marius, was made consul [Y. R. 670. B.
 C. 82] by force, before he was twenty years old, Caius Fabius was burned
@@ -19808,11 +19593,7 @@ escape, was killed in the vestibule of the temple of Vesta. Besides, it
 includes an account of the war in Asia against Mithridates, renewed by
 Lucius Muræna.
 
-
-
-
-BOOK LXXXVII.
-
+## Book LXXXVII
 
 Sylla, having conquered and destroyed Caius Marius’s army, at
 Sacriportus, laid siege to Præneste, where Marius had taken refuge. He
@@ -19821,11 +19602,7 @@ break forth from Præneste, was repelled. This book moreover contains an
 account of the successes of the different commanders under him, every
 where.
 
-
-
-
-BOOK LXXXVIII.
-
+## Book LXXXVIII
 
 Sylla, having routed and cut off the army of Carbo at Clusium, Faventia,
 and Fidentia, drove him out of Italy; he completely subdued the Samnites
@@ -19847,11 +19624,7 @@ of his flight, for each having drawn his sword, rushed madly on: when he
 had slain Telesinus, he himself, being wounded, begged of a slave that
 he would despatch him.
 
-
-
-
-BOOK LXXXIX.
-
+## Book LXXXIX
 
 Marcus Brutus being sent in a fishing-boat to Lilybæum, by Cneius
 Papirius Carbo, who had sailed to Cossura, to discover if Pompeius were
@@ -19889,11 +19662,7 @@ He besieged and took the town of Volaterra, which was as yet at war with
 him. Mitylene, the only town in Asia which continued to adhere to
 Mithridates, was likewise stormed and demolished.
 
-
-
-
-BOOK XC.
-
+## Book XC
 
 Sylla died, and the honour was paid him by the senate of being buried in
 the Campus Martius. [Y. R. 674. B. C. 78.] Marcus Æmilius Lepidus,
@@ -19907,11 +19676,7 @@ Domitius were overthrown in a battle by the quæstor Herculeius. This
 book contains, moreover, an account of the expedition of the proconsul,
 Publius Servilius, against the Cilicians.
 
-
-
-
-BOOK XCI.
-
+## Book XCI
 
 Cneius Pompeius, while yet only of equestrian rank, was sent with
 consular authority against Sertorius. Sertorius took several cities, and
@@ -19920,11 +19685,7 @@ conquered the Thracians in several battles, [Y. R. 676. B. C. 76.]
 Quintus Metellus, the proconsul, cut off Herculeius, the quæstor of
 Sertorius, with his whole army.
 
-
-
-
-BOOK XCII.
-
+## Book XCII
 
 Cneius Pompeius fought an undecided battle with Sertorius, the wings on
 each side being beaten. Quintus Metellus conquered Sertorius and
@@ -19937,11 +19698,7 @@ the Dardanians, and of the cruelties of Sertorius against his own
 partisans, many of whom he put to death, upon pretended suspicion of
 treachery.
 
-
-
-
-BOOK XCIII.
-
+## Book XCIII
 
 Publius Servilius, the proconsul in Cilicia, subdued the Isaurians, and
 took several cities belonging to the pirates. Nicomedes, king of
@@ -19956,11 +19713,7 @@ tactics of war and military service, and having driven them from the
 blockade of the town of Calagurris, he compelled them to retire to
 different countries—Metellus to Farther Spain, and Pompey to Gaul.
 
-
-
-
-BOOK XCIV.
-
+## Book XCIV
 
 Lucius Licinius Lucullus, consul, defeated Mithridates in an action
 between their cavalry, and made several successful expeditions, and
@@ -19970,11 +19723,7 @@ officers of Mithridates who were stirring up war in Phrygia. This book
 contains, moreover, an account of the successes of Pompeius against
 Sertorius in Spain.
 
-
-
-
-BOOK XCV.
-
+## Book XCV
 
 Caius Curio, the proconsul, [Y. R. 679. B. C. 73,] subdued the
 Dardanians, in Thrace. Seventy-four gladiators, belonging to Lentulus,
@@ -19987,11 +19736,7 @@ famine, at Cyzicus; and obliged that king, when driven from Bithynia,
 and broken down by various misfortunes arising from war and shipwrecks,
 to take refuge in Pontus.
 
-
-
-
-BOOK XCVI.
-
+## Book XCVI
 
 Quintus Arrius, the prætor, [Y. R. 680. B. C. 72.] slew Crixus, the
 commander of the fugitive gladiators, with twenty thousand men. Cneius
@@ -20008,11 +19753,7 @@ proconsul, and Cneius Manlius, the prætor, fought Spartacus
 unsuccessfully; the charge of that war was committed to the prætor,
 Marcus Crassus.
 
-
-
-
-BOOK XCVII.
-
+## Book XCVII
 
 Marcus Crassus, the prætor, [Y. R. 681. B. C. 71,] fought successfully
 first with that part of the fugitives which was composed of Gauls and
@@ -20029,11 +19770,7 @@ right of trial was transferred to the Roman knights, by the prætor,
 Lucius Aurelius Cotta. The affairs of Mithridates being reduced to a
 state of desperation, he flew for refuge to Tigranes, king of Armenia.
 
-
-
-
-BOOK XCVIII.
-
+## Book XCVIII
 
 A treaty of friendship was made by Machares, son of Mithridates, king of
 Bosphorus, with Lucius Lucullus. Cneius Lentulus and Caius Gellius, the
@@ -20053,11 +19790,7 @@ from pursuing Mithridates and Tigranes, and completing his victory; the
 Valerian legions refused to follow Lucullus, alleging that they had
 served out their time.
 
-
-
-
-BOOK XCIX.
-
+## Book XCIX
 
 The proconsul, Quintus Metellus, took Gnossus, Lyctus, Cydonia, and many
 other cities. Lucius Roscius, the plebeian tribune, carried a law, that
@@ -20073,11 +19806,7 @@ had robbed him of the glory of his actions, in sending a deputy of his
 own to receive the submission of the Cretans. Pompeius alleged that he
 had a right to do so.
 
-
-
-
-BOOK C.
-
+## Book C
 
 Caius Manilius, the tribune of the people, [Y. R. 686. B. C. 66,] to the
 great dissatisfaction of the nobility, proposed that the Mithridatic war
@@ -20090,11 +19819,7 @@ between their cavalry. This book contains also the history of the war
 between Phraates, king of Parthia, and Tigranes, king of Armenia;
 afterwards, between the father and son Tigranes.
 
-
-
-
-BOOK CI.
-
+## Book CI
 
 Cneius Pompeius vanquished Mithridates, in a battle fought in the night,
 and compelled him to fly to Bosphorus; reduced Tigranes to submission,
@@ -20108,11 +19833,7 @@ their territories. This book contains also the history of the flight of
 Mithridates through Colchis and the country of the Heinochi, and of his
 actions at Bosphorus.
 
-
-
-
-BOOK CII.
-
+## Book CII
 
 Pompeius reduce Pontus to the form of a Roman province. Pharnaces, son
 of Mithridates, made war upon his father. Mithridates, besieged in his
@@ -20127,11 +19848,7 @@ seize the commonwealth: he raised an army in Etruria; [Y. R. 689. B. C.
 Marcus Tullius Cicero, the consul. Catiline was driven out of Rome; the
 other conspirators were punished with death.
 
-
-
-
-BOOK CIII.
-
+## Book CIII
 
 Catiline, together with his army, [Y. R. 690. B. C. 62,] was slain by
 the proconsul, Caius Antonius. Publius Clodius being accused of having,
@@ -20156,11 +19873,7 @@ of the situation of Gaul. Pompeius triumphed over the children of
 Mithridates, Tigranes, and also the son of the latter; and the surname
 of the Great was conferred upon him by a full assembly of the people.
 
-
-
-
-BOOK CIV.
-
+## Book CIV
 
 This book commences with a description of the situation of Germany, and
 the manners and customs of the natives. Caius Cæsar, at the request of
@@ -20188,11 +19901,7 @@ Cæsar defeated the Venetians, a people living on the borders of the sea,
 in a sea-fight. This book contains also the history of his lieutenants’
 equally good fortune.
 
-
-
-
-BOOK CV.
-
+## Book CV
 
 When, by the intercessions of Caius Cato, the elections were suspended,
 the senate went into mourning, [Y. R. 607. B. C. 55.] Marcus Cato, a
@@ -20210,11 +19919,7 @@ tempests, and afterwards with little better success; and, having killed
 a very great number of the inhabitants, he reduced a part of the island
 to subjection.
 
-
-
-
-BOOK CVI.
-
+## Book CVI
 
 Julia, the daughter of Cæsar, and wife of Pompeius, died, and by a vote
 of the people she was honoured with burial in the Campus Martius.
@@ -20231,11 +19936,7 @@ invited to a conference by the enemy, whose leader was Surenas, under
 the pretence of a treaty of peace, he was insnared, and fell fighting
 bravely, to prevent his suffering indignity from the enemy while alive.
 
-
-
-
-BOOK CVII.
-
+## Book CVII
 
 Caius Cæsar, having subdued the Trevirian Gauls, passed over a second
 time into Germany; finding no enemy there, he returned to Gaul, and
@@ -20255,11 +19956,7 @@ Cæsar’s operations against the Gauls, who had almost all revolted, and
 put themselves under the command of Vercingetorix: he took many towns;
 amongst others, Avaricum, Biturium, and Gergovia.
 
-
-
-
-BOOK CVIII.
-
+## Book CVIII
 
 Caius Cæsar overthrew the Gauls at Alesia, and reduced all the revolted
 cities to subjection. Caius Cassius, Marcus Crassus’s quæstor, defeated
@@ -20273,11 +19970,7 @@ Cæsar should come home to sue for the consulship, being, by a law made
 expressly for that purpose, enabled to hold his province until that
 period; and also the exploits of Marcus Bibulus in Syria.
 
-
-
-
-BOOK CIX.
-
+## Book CIX
 
 In this book are recorded the causes and commencement of the civil war,
 and [Y. R. 702. B. C. 50] disputes about sending a successor to Cæsar,
@@ -20293,11 +19986,7 @@ make war upon his enemies, arrived in Italy with his army, took
 Corfinium, and in it Lucius Domitius and Lucius Lentulus, whom he
 discharged; and drove Cneius Pompeius and his adherents out of Italy.
 
-
-
-
-BOOK CX.
-
+## Book CX
 
 Cæsar besieged Masilia, the gates of which had been shut against him;
 leaving his lieutenants-general, Caius Trebonius and Decimus Brutus, to
@@ -20318,11 +20007,7 @@ Africa, after a successful engagement with Varus, a general of the
 Pompeian party, was cut off, together with his army, by Juba, king of
 Mauritania. Caius Cæsar passed over into Greece.
 
-
-
-
-BOOK CXI.
-
+## Book CXI
 
 Marcus Cælius Rufus, the prætor, [Y. R. 662. B. C. 48,] having excited a
 sedition in the city, by holding out hopes to the people that their
@@ -20339,11 +20024,7 @@ the camp, as he was a man better calculated for any thing than war.
 Cæsar granted a free pardon to all who submitted themselves to his
 power.
 
-
-
-
-BOOK CXII.
-
+## Book CXII
 
 The consternation and flight of the vanquished parties in various
 quarters of the world are recorded. Cneius Pompeius, when he had gone to
@@ -20363,11 +20044,7 @@ account of the fatiguing march of Marcus Cato, with his legions, through
 the deserts of Africa; and of the unsuccessful war of Cneius Domitius
 against Pharnaces.
 
-
-
-
-BOOK CXIII.
-
+## Book CXIII
 
 The Pompeian party having collected their forces in Africa, the supreme
 command was given to Publius Scipio,—Marcus Cato, who had been joined
@@ -20387,11 +20064,7 @@ town, and killed eight hundred of the people. Cæsar discharged the
 veteran soldiers, who were grown mutinous, crossed over into Africa,
 and engaged the forces of king Juba in a very hazardous combat.
 
-
-
-
-BOOK CXIV.
-
+## Book CXIV
 
 Cæcilius Bassus, [Y. R. 706. B. C. 46,] a Roman knight of the Pompeian
 party, stirred up war in Syria; the legion left there under the command
@@ -20407,11 +20080,7 @@ inquired about the general, he said, “The general is well.” Faustus and
 Afranius were slain. Cato’s son was pardoned. Brutus, Cæsar’s
 lieutenant-general, defeated the rebellious Bellovacians in battle.
 
-
-
-
-BOOK CXV.
-
+## Book CXV
 
 Cæsar triumphed four times; over Gaul, Egypt, Pontus, and Africa. He
 gave a feast, and exhibited shows of every description. To Marcus
@@ -20424,11 +20093,7 @@ Cneius Pompey; where, after many attacks on both sides, many cities
 having been stormed, he at length gained a signal victory, after a most
 desperate engagement, at Munda. Sextus Pompeius effected his escape.
 
-
-
-
-BOOK CXVI.
-
+## Book CXVI
 
 Cæsar triumphed a fifth time over Spain. Very many and high honours were
 decreed him by the senate; among others, that he should be styled Father
@@ -20454,11 +20119,7 @@ dictator was abolished for ever. Caius Amatius, one of the lowest of the
 people, giving himself out for the son of Caius Marius, having excited
 some seditious movements among the credulous vulgar, was slain.
 
-
-
-
-BOOK CXVII.
-
+## Book CXVII
 
 Caius Octavius came to Rome from Epirus, whither Cæsar had sent him to
 conduct the war in Macedonia; and, having received favourable omens,
@@ -20478,11 +20139,7 @@ with his army. This book contains also the history of the attempts of
 both parties to possess themselves of the provinces, and of the
 preparations for war.
 
-
-
-
-BOOK CXVIII.
-
+## Book CXVIII
 
 Marcus Brutus, in Greece, under the pretext of supporting the
 commonwealth, and the war against Antonius, managed to get the command
@@ -20496,11 +20153,7 @@ Rome assumed the military habit. Marcus Brutus reduced under his power
 Caius Antonius, the prætor, together with the army which he commanded in
 Epirus.
 
-
-
-
-BOOK CXIX.
-
+## Book CXIX
 
 By the treachery of Publius Dolabella, Caius Trebonius was slain in
 Asia: for which crime the senate voted Dolabella to be a public enemy.
@@ -20522,11 +20175,7 @@ relation with Marcus Antonius, came with his army to Rome, and those who
 had been unjust to him, being struck with dread at his approach, he was
 elected consul in his nineteenth year.
 
-
-
-
-BOOK CXX.
-
+## Book CXX
 
 Cæsar, the consul, introduced a law to hold an inquiry into the case of
 those by whose instigation his father had been murdered, and Marcus
@@ -20547,11 +20196,7 @@ hand were placed on the rostrum, when he was murdered in his sixty-third
 year by Popilius, a legionary soldier. This book also contains an
 account of the transactions of Brutus in Greece.
 
-
-
-
-BOOK CXXI.
-
+## Book CXXI
 
 Caius Cassius, having received orders from the senate to pursue
 Dolabella, who had been pronounced a public enemy, acting under the
@@ -20560,11 +20205,7 @@ three armies which were in that province, and besieging Dolabella, in
 Laodicea, put him to death. Caius Antonius, having been taken, was also
 slain by order of Marcus Brutus.
 
-
-
-
-BOOK CXXII.
-
+## Book CXXII
 
 Marcus Brutus fought unsuccessfully with the Thracians. Afterwards all
 the provinces beyond sea, together with the armies in them, having been
@@ -20573,11 +20214,7 @@ council relative to the war which they were about to engage in. [Y. R.
 710. B. C. 42.] They agreed in pardoning Publicola, the brother of
 Marcus Messala, who had been conquered.
 
-
-
-
-BOOK CXXIII.
-
+## Book CXXIII
 
 Sextus, son of Pompey the Great, having assembled a considerable number
 of the proscribed Romans, and other fugitives, in Epirus, wandering
@@ -20589,11 +20226,7 @@ with their armies, passed over into Greece, to make war against Brutus
 and Cassius. Quintus Cornificius conquered, in a battle in Africa, Titus
 Sestius, the leader of Cassius’ party.
 
-
-
-
-BOOK CXXIV.
-
+## Book CXXIV
 
 Caius Cæsar and Antony fought an undecisive battle with Brutus and
 Cassius at Philippi; in which the right wing of each army was
@@ -20605,11 +20238,7 @@ life, in his fortieth year, after entreating Strabo, the companion of
 his flight, to drive a sword through him. _Many others slew themselves_,
 among whom was Quintus Hortensius.
 
-
-
-
-BOOK CXXV.
-
+## Book CXXV
 
 Cæsar, [Y. R. 711. B. C. 41,] leaving Antonius to take care of the
 provinces beyond the sea, returned to Italy, and made a distribution of
@@ -20621,11 +20250,7 @@ whose lands Cæsar had distributed among his veteran soldiers: and having
 overthrown Lepidus, who, with an army, had charge of the defence of the
 city, he entered it in a hostile manner.
 
-
-
-
-BOOK CXXVI.
-
+## Book CXXVI
 
 Cæsar, now twenty-three years of age, [Y. R. 712. B. C. 40,] besieged
 Antonius in Perusia, and forced him, after several ineffectual attempts
@@ -20634,11 +20259,7 @@ soldiers. He razed Perusia to the ground and terminated the war without
 bloodshed, all the forces of the enemy having been brought under his own
 power.
 
-
-
-
-BOOK CXXVII.
-
+## Book CXXVII
 
 The Parthians, who had joined the Pompeian party, under the command of
 Labienus, invaded Syria, and having beaten Decidius Saxa, a
@@ -20657,11 +20278,7 @@ and Antony entered into a treaty of peace, so that he was made governor
 of Sicily. This book contains also the history of the commotions and war
 in Africa.
 
-
-
-
-BOOK CXXVIII.
-
+## Book CXXVIII
 
 [Y. R. 714. B. C. 38.] When Sextus Pompeius had again infested the sea
 with his piracies, nor kept the peace which he had solicited, Cæsar,
@@ -20672,11 +20289,7 @@ Syria, and killed their king. [Y. R. 716. B. C. 36.] Antonius’s generals
 vanquished the Jews also. This book contains also the account of the
 preparations for war in Sicily.
 
-
-
-
-BOOK CXXIX.
-
+## Book CXXIX
 
 Several battles were fought at sea, with Sextus Pompeius, with various
 success; of Cæsar’s two fleets, one under the command of Agrippa gained
@@ -20689,11 +20302,7 @@ Cæsar himself, being deserted by his army, and deprived of the honour of
 the triumvirate, obtained his life. Cæsar conferred a naval crown upon
 Agrippa, an honour never before bestowed on any commander.
 
-
-
-
-BOOK CXXX.
-
+## Book CXXX
 
 Marcus Antonius, having spent much time in luxurious indulgence with
 Cleopatra, having arrived late in Media, with eighteen legions and
@@ -20706,11 +20315,7 @@ cause, as well of the losses by the tempests, as of the unfortunate
 Parthian war; for he would not winter in Armenia, being in haste to
 revisit Cleopatra.
 
-
-
-
-BOOK CXXXI.
-
+## Book CXXXI
 
 Sextus Pompeius, [Y. R. 717. B. C. 35,] notwithstanding his engagements
 to Marcus Antonius, endeavoured to raise a war against him in Asia, and
@@ -20723,11 +20328,7 @@ into chains, and gave the kingdom of Armenia to his own son, whom he had
 by Cleopatra, whom he now treated as his wife, having been long
 enamoured of her.
 
-
-
-
-BOOK CXXXII.
-
+## Book CXXXII
 
 Cæsar conquered the Dalmatians in Illyria. [Y. R. 720. B. C. 32.] He
 passed over to Epirus at the head of an army [Y. R. 721. B. C. 31]
@@ -20739,11 +20340,7 @@ and for that purpose was preparing great forces both by sea and land,
 having also divorced Octavia, Cæsar’s sister. Sea-fights, and battles on
 land between the cavalry, in which Cæsar was victorious, are recorded.
 
-
-
-
-BOOK CXXXIII.
-
+## Book CXXXIII
 
 After his fleet had been vanquished by Cæsar at Actium, Antonius escaped
 to Alexandria, where, being besieged by Cæsar, in desperation, induced
@@ -20757,11 +20354,7 @@ one-and-twenty years, [Y. R. 723. B. C. 29.] Marcus Lepidus, the son of
 Lepidus, who was of the triumvirate, forming a conspiracy against Cæsar,
 was taken and killed.
 
-
-
-
-BOOK CXXXIV.
-
+## Book CXXXIV
 
 Cæsar, having settled the affairs of the state, [Y. R. 724. B. C. 28,]
 and reduced all the provinces to exact order, received the surname of
@@ -20771,30 +20364,18 @@ Narbo, a census was made of the three Gauls, which were conquered by his
 father. The war against the Bastarnians, Mœsians, and other nations,
 under the conduct of Marcus Crassus, is described in this book.
 
-
-
-
-BOOK CXXXV.
-
+## Book CXXXV
 
 The war carried on by Marcus Crassus against the Thracians, and by Cæsar
 against the Spaniards, is recorded in this book. [Y. R. 729. B. C. 23.]
 The Salassians, a people of the Alps, were subdued.
 
-
-
-
-BOOK CXXXVI.
-
+## Book CXXXVI
 
 Rhætia was subdued by Tiberius Nero and Drusus, the step-sons of Cæsar.
 Agrippa, Cæsar’s son-in-law, died. The census was held by Drusus.
 
-
-
-
-BOOK CXXXVII.
-
+## Book CXXXVII
 
 The states of Germany, situated on either side of the Rhine, are
 attacked by Drusus. The insurrections, excited by the taxes levied in
@@ -20802,11 +20383,7 @@ Gaul, were suppressed, [Y. R. 740. B. C. 12.] An altar was dedicated to
 Cæsar at the confluence of the Arar and the Rhone, by Caius Julius
 Vercundaris Dubius, an Æduan, appointed priest for that purpose.
 
-
-
-
-BOOK CXXXVIII.
-
+## Book CXXXVIII
 
 That the Thracians were subdued by Lucius Piso; [Y. R. 741. B. C. 11;]
 also the Cheruscans, Tenetherans, Cattians, and other nations beyond the
@@ -20814,11 +20391,7 @@ Rhine, by Drusus, is recorded in this book. Octavia, Augustus’s sister,
 died, having before lost her son, Marcellus; a theatre and portico,
 dedicated in his name, form his monument.
 
-
-
-
-BOOK CXXXIX.
-
+## Book CXXXIX
 
 [Y. R. 742. B. C. 10.] The war against the nations beyond the Rhine,
 conducted by Drusus, is recorded in this book: the chief actors in it
@@ -20828,11 +20401,7 @@ Pannonians. Peace was concluded with Parthia, the standards which were
 taken from Crassus, and afterwards from Antonius, being restored by
 their king.
 
-
-
-
-BOOK CXL.
-
+## Book CXL
 
 [Y. R. 743. B. C. 9.] The war against the German nations beyond the
 Rhine, conducted by Drusus, is recorded in this book. Drusus himself,
@@ -20843,18 +20412,15 @@ to him, and it was buried in the tomb of Caius Julius. His funeral
 eulogium was pronounced by Cæsar Augustus, his stepfather, and many
 honours were added to his last rites.
 
-
-
-
-FRAGMENTS
+## Fragments
 
 OF
 
-THE HISTORY OF LIVY.
+## The History of Livy
 
 TRANSLATED
 
-BY WILLIAM A. M‘DEVITTE, SEN. MOD. EX. SCHOL. A. B. T. C. D.
+## By William A. M‘devitte, Sen. Mod. Ex. Schol. A. B. T. C. D
 
 N. B. An asterisk is prefixed to such fragments as can, by a probable
 conjecture, be referred to the books to which they belong: the other
@@ -20862,23 +20428,19 @@ fragments, to which we cannot assign their proper place in the books of
 Livy, together with what remains of a letter inscribed to his son, have
 been added subsequently.
 
-
 * Belonging to the 12th book.
 
 Pyrrhus was a consummate tactician, but more skilful in the arrangements
 of a battle than the operations of a war.—Servius on Virg. Æn. i. 456.
 
-
 * Belonging to the 13th book.
 
 We might have held it in private.—Priscian.
-
 
 * Belonging to the 14th book.
 
 Both Livy and Sallust inform us that the ancients used scythe-armed
 chariots.—Servius. Virg. Æn. i. 476.
-
 
 * Belonging to the 16th book.
 
@@ -20892,11 +20454,9 @@ us.—Servius. Virg. Æn. i. 366.
 Bitias was the admiral of the Punic fleet, as Livy informs us.
 Servius.—Virg. Æn. i. 738.
 
-
 * Belonging to the 17th book.
 
 The day before the Nones. The day before the Ides.—Priscian.
-
 
 * Belonging to the 18th book.
 
@@ -20920,7 +20480,6 @@ in the vicinity being corrupted by the pestilential effluvia.
 He says, too, that the skin of the monster, which was a hundred and
 twenty feet long, was sent to Rome.—Valerius Maximus.
 
-
 * Belonging to the 19th book.
 
 The third (secular) games were celebrated, according to Antias and Livy,
@@ -20936,7 +20495,6 @@ cast them into the Tiber. Afterwards, when returning victorious in his
 ships, he was drowned off the coast of Africa, with all that he
 commanded.—Servius. Virg. Æn. vi. 198.
 
-
 * Belonging to the 22nd book.
 
 And in repeating the attack with a small body of troops on the walls of
@@ -20951,7 +20509,6 @@ the favourable following the unfavourable omen.
 
 This fragment is undoubtedly spurious.
 
-
 * Belonging to the 49th book.
 
 There are three different opinions concerning the date of the fourth
@@ -20960,12 +20517,10 @@ they were exhibited in the consulate of Lucius Marcius Censorinus and
 Manius Manilius, in the six hundred and fifth year after the foundation
 of Rome.—Censorinus.
 
-
 * Belonging to the 56th book.
 
 Who say that Pompey pleaded disease as an excuse, lest, by his presence
 in the tumult, he might irritate the minds of the Numantines.—Priscian.
-
 
 * Belonging to the 77th book.
 
@@ -20982,13 +20537,11 @@ into custody, on condition that he should suffer capital punishment, if
 Sulla did not, by the aid of the gods, succeed in the projects which he
 had in contemplation.—Augustin.
 
-
   * Belonging to the 83rd book.
 
 Since when all the statues were overthrown and burned along with the
 town, the statue of Minerva alone is reported (as Livy says) to have
 stood uninjured under the ruins of that immense temple.—Augustin.
-
 
   Belonging to the 91st book.
 
@@ -21105,13 +20658,11 @@ Livy. This was the first battle that was fought between Sertorius and
 Pompey. We have the authority of Livy, that Pompey’s army lost ten
 thousand men and all their baggage.—Frontinus.
 
-
   * Belonging to the 94th book.
 
 Livy says, in his 94th book, that Inarime was in part of Mæonia, where,
 for an extent of fifty miles, the earth has been burned with fire. He
 intimates that Homer signified the same fact.—Servius. Æn. ix. 715.
-
 
   Belonging to the 97th book.
 
@@ -21120,7 +20671,6 @@ conquered by Crassus) were slain in that battle with their leaders,
 Castus and Gannicus, and that five of the Roman eagles were recovered,
 besides twenty-six military standards, and many spoils, among which were
 the rods and axes.—Frontinus.
-
 
   * Belonging to the 98th book.
 
@@ -21132,14 +20682,12 @@ Lucullus. We have the authority of Livy that in the former engagement
 prisoners, but in the latter battle (that at Artaxata) the noblest of
 the nation met that fate.—Plutarch. Lucullus.
 
-
   * Belonging to the 99th book.
 
 Crete had at first a hundred cities; from which circumstance it was
 called Hecatompolis; afterwards it contained twenty-four; and
 subsequently, as we are told, two, Gnossus and Hierapytna: although Livy
 says that several were stormed by Metellus.—Servius. Virg. Æn. iii. 106.
-
 
   * Belonging to the 102nd book.
 
@@ -21160,7 +20708,6 @@ merely with a tendency to extol a false piety, but that they are really
 true; among these writers may be enumerated Strabo and Nicolaus, and in
 addition to them Titus Livy, the writer of Roman History.—Josephus.
 
-
   Belonging to the 103rd book.
 
 The cancer which eats away the body is more horrible. When concealed it
@@ -21171,7 +20718,6 @@ driven away by drinking the seed of rape: he asserts that the life of a
 person who has received the infection can scarcely be prolonged for
 seven days; so great is the violence of the disease.—Q. Seren. Lamon.
 
-
   * Belonging to the 105th book.
 
 Livy among the ancients, and Fabius Rusticus among the moderns, both
@@ -21180,7 +20726,6 @@ oblong shield, or two-edged battle-axe.—Tacitus. Agric. Although no one
 as yet has made the circuit of the entire of Britain, as Livy relates,
 still various opinions have been expressed by many in speaking on that
 subject.—Jornandes.
-
 
   * Belonging to the 109th book.
 
@@ -21194,7 +20739,6 @@ were then burned to the ground.—Orosius. Cæsar, having crossed the river
 Rubicon, on his reaching Ariminum soon after, issued the necessary
 commands to the five cohorts, which were the only troops that he then
 had, and with which, as Livy says, he attacked the world.—Orosius.
-
 
   * Belonging to the 111th book.
 
@@ -21212,7 +20756,6 @@ astonished, he took off the garland from his head, and swore that he
 would not replace it until the event was proved to correspond to his
 art. Livy positively asserts that this is true.—Plutarch. Cæsar.
 
-
   Belonging to the 112th book.
 
 Bogud Bogudis, the name of a barbarian, which Livy has declined in the
@@ -21227,11 +20770,9 @@ ever existed, were burned at Alexandria. Other writers have spoken in
 favour of this library; Livy, for instance, who said that it was the
 surpassing work of the elegance and research of kings.—Seneca.
 
-
   Belonging to the 113th book.
 
 And he himself defended the coast about Palpud.
-
 
   * Belonging to the 114th book.
 
@@ -21245,7 +20786,6 @@ diminution of it was made by the praise or blame of any man, though men
 of the greatest abilities did both. He alludes to Marcus Cicero and
 Caius Cæsar, the former of whom wrote in praise, and the latter in
 condemnation, of the above-mentioned individual.—Hieronymus.
-
 
   * Belonging to the 116th book.
 
@@ -21265,12 +20805,10 @@ attributed to Titus Livy, is applicable also to the winds; namely, that
 it was doubtful whether his existence or non-existence would have been
 more advantageous to the republic.—Seneca.
 
-
   * Belonging to the 118th book.
 
 In opposition to the murderers of Caius Cæsar, he levied some troops to
 assist his avengers.
-
 
   * Belonging to the 120th book.
 
@@ -21311,7 +20849,6 @@ accurately his virtues against his vices, he will come to the conclusion
 that he was a great, energetic, and remarkable man, and one who would
 require the eulogies of a second Cicero to do justice to his merit.
 
-
   Belonging to the 127th book.
 
 Since traces of the dissensions between Augustus and Antonius still
@@ -21339,13 +20876,11 @@ both armies into one camp, near Brundusium; an event which was hailed
 with great demonstrations of joy, as Livy relates in the 127th
 book.—Commentator Cruquii on Horace.
 
-
   * Belonging to the 133rd book.
 
 Livy relates that Cleopatra, when after her capture by Augustus she was
 designedly treated with great indulgence, used to say: I will not grace
 a triumph.—Commentator Cruquii. Hor. Odes, i. 37.
-
 
   Belonging to the 136th book.
 
@@ -21424,16 +20959,11 @@ in the letter written to his son, “we ought to read Demosthenes and
 Cicero, and them too in such a manner that each of us should closely
 resemble Demosthenes and Cicero.”—Quintilian.
 
+## The End
 
-THE END.
-
-
-
-
-  INDEX.
+## Index
 
   _The numerals refer to the books, the figures to the chapters._
-
 
   ABDERITES complain of the rapacity and cruelty of Hortensius,
     and redress is ordered by the senate, xliii. 4.
@@ -22462,7 +21992,6 @@ THE END.
   Axes, never, after Publicola, carried before the magistrates in the
     city, xxiv. 9.
 
-
   Babylon, xxxviii. 17.
 
   Bacchæ, or Bacchanals, xxxix. 9.
@@ -22610,7 +22139,6 @@ THE END.
 
   Byzantium, xxxii. 33.
     Seized by Gauls, xxxviii. 16.
-
 
   Cacus, slain by Hercules, i. 7.
 
@@ -23588,7 +23116,6 @@ THE END.
 
   Cyrus, king of Persia, ix. 17.
 
-
   Damocles, an Argive, his bravery, xxxiv. 25.
 
   Damocritus, prætor of the Ætolians, xxxi. 32.
@@ -23788,7 +23315,6 @@ THE END.
   Dymæ, xxvii. 31; xxxii. 22; xxxviii. 29.
 
   Dyrrachium, xxix. 12; xlii. 48.
-
 
   Ebutius, L., consul, iii. 6.
 
@@ -24010,7 +23536,6 @@ THE END.
   Euthymidas, head of a faction at Chalcis, xxxv. 37, 38.
 
   Exodia, interludes, vii. 2.
-
 
   Fabiæ, daughters of M. Fab. Ambustus, vi. 34.
 
@@ -24489,7 +24014,6 @@ THE END.
 
   Fusius, Sp., pater patratus, i. 24.
 
-
   Gabians, iii. 8; vi. 21.
 
   Gabian road, iii. 6.
@@ -24722,7 +24246,6 @@ THE END.
 
   Gythium taken by T. Quintius, xxxiv. 29.
     By Nabis, xxxv. 27.
-
 
   Hadrumetum, city in Africa, xxx. 29, 35.
 
@@ -25038,7 +24561,6 @@ THE END.
 
   Hyrcanian plains, xxxvii. 38.
 
-
   Ibera, city, xxiii. 28. So called from
 
   Iberus, river, the boundary between the Romans and Carthaginians in
@@ -25137,7 +24659,6 @@ THE END.
 
   Istrians, a savage nation, x. 2; xxi. 16.
     The Romans at war with them, xli. 1, 11.
-
 
   Jamphorina, capital city of Mædica, surrendered to the Romans,
     xxvi. 25.
@@ -25285,7 +24806,6 @@ THE END.
   ——, M., plebeian tribune, accuses Lucretius, xliii. 8.
     Prætor, xlv. 16.
 
-
   King of the sacrifices, ii. 2; vi. 41; ix. 34.
 
   Kings banished from Rome, i. 59.
@@ -25301,7 +24821,6 @@ THE END.
       of their horses, xxiv. 18; xxvii. 11; xxix. 37.
     Six hundred are given as hostages to the Samnites, ix. 5.
     Are recovered, 15.
-
 
   Labeatians subject to Gentius, xliii. 19; xliv. 31.
 
@@ -25775,7 +25294,6 @@ THE END.
   ——, Macedonian courtier, xl. 8.
 
   Lysinoe, city, xxxviii. 15.
-
 
   Macedonia, i. 1; ix. 18.
     An obscure state before the reign of Philip, son of Amyntas,
@@ -26458,7 +25976,6 @@ THE END.
 
   Mysia, xxxviii. 39.
 
-
   Nabis, tyrant of Lacedæmon, xxix. 12.
     Forms an alliance with Philip, xxxii. 38.
     Sends aid to the Romans, 40.
@@ -26607,7 +26124,6 @@ THE END.
   Nursians promise soldiers to Scipio, xxviii. 45.
 
   Nymphius betrays Palæpolis to the Romans, viii. 25, 26.
-
 
   Ocriculum, ix. 41; xxii. 11.
 
@@ -26766,7 +26282,6 @@ THE END.
 
   Ovius Paccius, Samnite priest, directs the ceremonies in devoting the
     soldiers, x. 8.
-
 
   Pachynum, promontory, xxiv. 27, 35; xxv. 27.
 
@@ -27609,7 +27124,6 @@ THE END.
   Pytho, Macedonian, governor of Cassandrea, repulses the Romans,
     xliv. 12.
 
-
   Quadrants, contributed by the people to bury Valerius, iii. 18.
 
   Quadrigati, coin so called, xxii. 52.
@@ -27808,7 +27322,6 @@ THE END.
 
   Quiritian trench made by Anc. Marcius i. 33.
 
-
   Rabuleius, Man., decemvir, iii. 35.
 
   Racilia, wife of Quintius Cincinnatus, iii. 26.
@@ -27965,7 +27478,6 @@ THE END.
 
   Rutulians vanquished by Æneas, i. 2.
     By Tarquinius the Proud, 57.
-
 
   Sabatine tribe, vi. 5.
 
@@ -29045,7 +28557,6 @@ THE END.
 
   Syrtis, lesser, xxix. 33.
 
-
   Tabæ, xxxviii. 13.
 
   Tables, twelve, of laws, iii. 34, 37. Engraved in brass, and hung up in
@@ -29648,7 +29159,6 @@ THE END.
 
   Tyscos, xxxviii. 18.
 
-
   Ufens river, v. 35.
 
   Ufentine tribe added, ix. 20.
@@ -29692,7 +29202,6 @@ THE END.
     Lays siege to it, and retires, 35.
     Besieges it again, xxx. 3, 5, 8.
     His fleet is attacked by the Carthaginians, 9, 10.
-
 
   Vaccæans, people, Spanish, conquered by Hannibal, xxi. 5. Defeated by M.
   Fulvius, xxxv. 7; xl. 47, 50.
@@ -30303,7 +29812,6 @@ THE END.
 
   ——, wind blows dust into the eyes of the Romans at Cannæ, xxii. 46.
 
-
   Walls built round Rome, i. 6, 33, 36, 44; vi. 32.
 
   War, the mode of declaring it, i. 32.
@@ -30366,7 +29874,6 @@ THE END.
     Books of the magistrates, iv. 20.
     Commentaries of the pontiffs, vi. 1. _See_ iv. 3.
 
-
   Xanthippus, Lacedæmonian general, xxviii. 43.
 
   Xenarchus, prætor of the Achæans, wishes to ingratiate himself with
@@ -30388,7 +29895,6 @@ THE END.
 
   Xyniæ, xxxii. 13; xxxiii. 3.
 
-
   Year is divided by Numa into twelve lunar months, i. 19.
 
   Years reckoned among the Volsinians by nails fixed in the wall of a
@@ -30398,7 +29904,6 @@ THE END.
     army, 15. _See_ x. 36.
 
   Youth, a goddess, v. 54. A feast of the gods in honour of her, xxi. 62.
-
 
   Zacynthus, island, xxi. 7. Is taken by Lævinus, xxvi. 24. Is given up
     to the Romans, xxxvi. 32.
@@ -30429,8 +29934,7 @@ THE END.
   Zybœa holds part of Bithynia in opposition to Nicomedes, and is
     conquered by the aid of the Gauls, xxxviii. 16.
 
-
-FOOTNOTES:
+## Footnotes
 
 [1] 193,750_l._
 
@@ -30699,17 +30203,12 @@ of the history, which has been derived chiefly from Plutarch.
 
 [111] Worth a little more than 2_d._
 
+## John Childs and Son, Bungay
 
-
-JOHN CHILDS AND SON, BUNGAY.
-
-BOHN’S CLASSICAL LIBRARY.
-
-
+## Bohn’s Classical Library
 
 A SERIES OF LITERAL PROSE TRANSLATIONS OF THE GREEK AND LATIN CLASSICS
 WITH NOTES AND INDEXES.
-
 
 _Uniform with the_ STANDARD LIBRARY, _5s. each (except Thucydides,
 Æschylus, Virgil, Horace, Cicero’s Offices, Demosthenes, Appendix to
@@ -30900,8 +30399,7 @@ By CHARLES RANN KENNEDY.
 80. ARISTOTLE’S METAPHYSICS, literally translated, with Notes, Analysis,
 Examination Questions and Index, by the Rev. JOHN H. M’MAHON, M.A.
 
-
-=BOHN’S ANTIQUARIAN LIBRARY=.
+## =Bohn’s Antiquarian Library=
 
 _Uniform with the_ STANDARD LIBRARY, _price 5s._.
 
@@ -30992,8 +30490,7 @@ on Monumental Inscriptions, &c., by T. J. PETTIGREW, F.R.S., F.S.A.
 Dutch, Spanish, Portuguese & Danish. With English Translations, &
 General Index.
 
-
-=BOHN’S HISTORICAL LIBRARY,=
+## =Bohn’s Historical Library,=
 
 _Uniform with the_ STANDARD LIBRARY, _price 5s. per Volume_.
 
@@ -31014,8 +30511,7 @@ Correspondence of Charles I. New edition, considerably enlarged, from
 the original Papers by (JOHN FORSTER, Esq.) In 4 vols. Portraits and
 plates.
 
-
-=BOHN’S LIBRARY OF FRENCH MEMOIRS.=
+## =Bohn’s Library of French Memoirs.=
 
 _Uniform with the_ STANDARD LIBRARY, _price 3s. 6d. per Volume_.
 

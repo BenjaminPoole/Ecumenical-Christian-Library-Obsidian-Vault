@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Jeremiah
 
 [13] Jer. i. 5. “Before I formed thee in the belly, I knew thee; and before thou camest forth out of the womb, I sanctified thee; and I ordained thee a prophet unto the nations.” In the same manner as God is said to sanctify Jeremiah as a prophet before he was, whom he had elected to be such, for he said he foreknew the elect or saints, and children and heirs of life. Exod. xxiii. 12, 17.
 

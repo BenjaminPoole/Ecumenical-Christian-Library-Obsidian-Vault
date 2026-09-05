@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Marvelous Magnet
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1717
-
-DELIVERED BY.
 
 > "I, if I am lifted up from the earth, will draw all men unto Me. This He said, signifying what death He should die." John 12:32,33.
 
@@ -152,7 +149,6 @@ Do you feel any kind of breeze? Is the breath of the Holy Spirit moving upon you
 "He drew me, and I followed on, Charmed to confess the force Divine.'" Oh Spirit of God, draw men to Jesus! This is the way of salvation—trust Christ and you are saved! Rely wholly upon what Christ is and what He has done—and you are saved! In that very act there is a change effected within you which will show itself forever in your character, for he that believes in Jesus Christ, the Son of God, is born again!
 
 The faith which looks to Jesus and the life which lives upon Jesus come together. I cannot tell you which is first—the new birth, or faith. Can you tell me which spoke of a wheel moves first? No. And these are spokes of one and the same wheel. "He that believes in Him has everlasting life." Oh, believe Him! Trust Him! Lay hold upon Him! Accept Him and go your way—and the mountains and the hills shall break forth before you into singing—and all the trees of the field shall clap their hands. Amen! So let it be!
-
 
 ---
 [[Sermon 1716 The Bridegroom's Parting Words|← #1716]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1718 Certain Singular Subjects|#1718 →]]

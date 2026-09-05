@@ -10,14 +10,13 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Ephesians 1
 
-**COMMENTARIES ON THE**
+***Commentaries on The***
 
-**EPISTLE OF PAUL TO THE EPHESIANS.**
+## **Epistle of Paul to the Ephesians.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Ephesians 1:1-6
 

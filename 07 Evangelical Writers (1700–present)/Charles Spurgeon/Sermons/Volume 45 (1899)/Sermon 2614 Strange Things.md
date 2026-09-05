@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Strange Things
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2614
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We have seen strange things today." Luke 5:26.
 
@@ -85,7 +82,7 @@ So he was about to thrust his sword into his own heart, but Paul shouted to him,
 
 It was a midnight service and Baptism of the whole household upon a profession of their faith! God send you a like blessing! You will see strange things, then! Many of us have seen already them in our families and we hope to see them repeated a thousand times! The Lord give you, every one, a personal blessing, and then bless your households, also, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 5:12-32.
+## Exposition by C. H. Spurgeon: Luke 5:12-32
 
 Verse 12. And it came to pass, when He was in a certain city, behold, a man full of leprosy. What a contrast there was between these two persons—the Lord Jesus full of purity—and this man full of impurity—full of leprosy! He could not be more than full. He had as much leprosy as a man could contain.
 
@@ -124,7 +121,6 @@ Verse 12. And it came to pass, when He was in a certain city, behold, a man full
 31\. Need not a physician; but they that are sick ' 'You regard them as sick and I regard them in the same way and, therefore, am I found where these sick ones are. Why should I turn aside from them to insult you, who are so wonderfully healthy and think yourselves so good?"
 
 32\. I came not to call the righteous, but sinners to repentance.
-
 
 ---
 [[Sermon 2613 Sonship Questioned|← #2613]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2615 The Anxious Enquirer|#2615 →]]

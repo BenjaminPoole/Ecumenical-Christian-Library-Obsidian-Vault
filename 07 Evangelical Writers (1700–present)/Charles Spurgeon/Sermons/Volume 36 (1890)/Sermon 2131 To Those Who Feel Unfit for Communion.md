@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # To Those Who Feel Unfit for Communion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2131
-
-DELIVERED BY.
 
 > "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the Passover lambs for everyone that was not clean to sanctify them unto the Lord. For a multitude of the people, even many of Ephraim and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the Passover contrary to what was written. But Hezekiah prayed for them, saying "The good Lord pardon everyone that prepares his heart to seek God, the Lord God of his fathers, though he is not cleansed according to the purification of the sanctuary. And the Lord listened to Hezekiah, and healed the people." 2 Chronicles 30:17-20.
 
@@ -152,7 +149,6 @@ What sacred jealousy, what holy revenge, what destruction of every evil thing wi
 May this be so even with you who were just now saying, "I do not think that I dare stop for the communion! I do not feel aright, nor desire aright. I am dead, stupid, heavy—and I fear I should only profane the sacred Table." Cry to the Lord as Hezekiah did! Mingle your confessions and your prayers before the Mercy Seat and may the good Lord pardon each one of you, even though you are not purged after the purification of the sanctuary as you could desire! The Lord bless His waiting people, for Jesus' sake! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON— Numbers 9; 2 Chronicles 30.
-
 
 ---
 [[Sermon 2130 The Deceitfulness of Sin|← #2130]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2132 Christ Put On|#2132 →]]

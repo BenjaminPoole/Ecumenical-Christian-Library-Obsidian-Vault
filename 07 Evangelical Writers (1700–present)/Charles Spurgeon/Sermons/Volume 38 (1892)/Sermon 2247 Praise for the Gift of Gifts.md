@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Praise for the Gift of Gifts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2247
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thanks be unto God for His unspeakable gift." 2 Corinthians 9:15.
 
@@ -210,7 +207,6 @@ And lastly, if you want to please God, watch, like the Thessalonians, "for His S
 Beloved, may God help you thus to magnify His Son and to Him shall be all the praise! Let us again lift up our glad hallelujah—"Thanks be unto God for His unspeakable gift." Amen.
 
 Portion of Scripture Read before Sermon—2 Corinthians 9.
-
 
 ---
 [[Sermon 2246 Come From the Four Winds, O Breath!|← #2246]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2248 Sad Fasts Changed To Glad Feasts|#2248 →]]

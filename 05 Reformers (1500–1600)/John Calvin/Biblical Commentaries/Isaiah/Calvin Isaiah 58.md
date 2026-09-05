@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 58
 
-**CHAPTER 58.**
+***Chapter 58.***
 
 ## Isaiah 58:1-14
 

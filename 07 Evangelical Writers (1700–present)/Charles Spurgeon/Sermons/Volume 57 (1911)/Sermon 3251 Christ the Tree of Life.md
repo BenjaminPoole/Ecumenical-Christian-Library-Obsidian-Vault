@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Christ the Tree of Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3251
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In the middle of its street, and on either side of the river, was the Tree of Life, which bore twelve fruits, each tree yielding its fruit every month. The leaves of the tree were for the healing of the nations." Revelation 22:2.
 
@@ -101,7 +98,7 @@ May the Spirit of God compel you to pray. May He compel you to continue in praye
 
 May God add His blessing to these rambling thoughts, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 2:1-17; REVELATION 22'
+## Exposition by C. H. Spurgeon: Genesis 2:1-17; Revelation 22'
 
 Genesis 2:1-8. Thus the heavens and the earth were finished, and all the host of them. And on the seventh day God ended His work which He had made; and He rested on the seventh day from all His work which He had made. And God blessed the seventh day, and sanctified it: because that in it He had rested from all His work which God created and made. These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens, and every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground. But there went up a mist from the earth, and watered the whole face of the ground. And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life, and man became a living soul. And the LORD God planted a garden eastward in Eden, and there He put the man whom He had formed. Everything was ready for man's use. Every fruit-bearing tree for his nourishment, every creature to do his bidding, for it was the will of God that he should "have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth." God did not place the man formed in His image, after His likeness, in an unfurnished house or an empty world and leave him to provide for himself all that he required, but He prepared everything that man could possibly need, and completed the whole plan by planting "a garden eastward in Eden; and there He put the man whom He had formed."
 
@@ -170,7 +167,6 @@ And whoever will, let him take the water of life freely. [See Sermons #279, Volu
 words of thee Book of this prophecy, God shall take away his part out of the Book of Life, and out of the holy city, and from the things which are written in this Book. He which testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus. The Grace of our Lord Jesus Christ be with you all. Amen. So the blessed Book closes appropriately with Grace, for 'tis Grace that—
 
 "All the work shall crown Through everlasting days; It lays in Heaven the topmost stone, And well deserves the praise."
-
 
 ---
 [[Sermon 3250 The Growth of Faith|← #3250]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3252 'By Water and Blood'|#3252 →]]

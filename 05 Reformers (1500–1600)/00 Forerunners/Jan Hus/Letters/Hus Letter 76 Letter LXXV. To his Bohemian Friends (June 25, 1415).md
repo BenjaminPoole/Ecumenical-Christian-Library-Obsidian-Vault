@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 76. Letter LXXV. To his Bohemian Friends (June 25, 1415)
-
-LETTER LXXV. TO HIS BOHEMIAN FRIENDS (June 25, 1415)
 
 His difficulty in abjuring ; Extraordinary casuistry ; The request for a confessor ; His conversation with Palecz ; A song of HUB at Gottlieben 259-62 xxx CONTENTS
 

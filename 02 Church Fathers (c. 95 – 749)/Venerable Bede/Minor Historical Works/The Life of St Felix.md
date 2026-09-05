@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-minor
 ---
-
-
 # The Life of St Felix
 
 The blessed triumph of St. Felix, which, with God's Parentage of aid, he achieved in Nola, a city of Campania, has been described by Paulinus, bishop of that same city, most beautifully and most amply in hexameter verse; but as this is adapted rather to poetical than to plain readers, it has seemed good to me, for the benefit of many, to explain the same history of the holy confessor in prose, and thus to imitate the industry of that man, who translated the martyrdom of the blessed Cassianus from the metrical work of Prudentius into simple and common language.
@@ -73,7 +71,7 @@ metrical work of the Holy
 
 Bishop Paulinus.]
 
-THE
+## The
 
 ---
 [[Library/Venerable Bede/Minor Historical Works/Minor Historical Works|Minor Historical Works]] · [[Library/Venerable Bede/Venerable Bede|Venerable Bede]]

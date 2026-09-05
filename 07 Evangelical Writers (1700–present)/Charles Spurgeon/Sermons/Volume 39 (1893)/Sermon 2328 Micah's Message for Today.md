@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Micah's Message for Today
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2328
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Walk humbly with your God." Micah 6:8.
 
@@ -107,7 +104,7 @@ Now, I have not time to go through all this subject as to your circumstances. If
 
 Oh, Brothers and Sisters, may the Lord help us to walk humbly with God! This will keep us right. True humility is thinking rightly of yourself, not meanly. When you have found out what you really are, you will be humble, for you are nothing to boast of. To be humble will make you safe. To be humble will make you happy. To be humble will make music in your heart when you go to bed. To be humble, here, will make you wake up in the likeness of your Master, by-and-by. The Lord bless this word, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MICAH6.
+## Exposition by C. H. Spurgeon: Micah 6
 
 Verse 1. Hear you now what the LORD says. And yet some doubt the Infallible Inspiration of Scripture! I would commence every reading of the Scripture with such a word of admonition as this—"Hear you now what the Lord says." That is what the Prophet said, but God spoke by the Prophet—"Hear you now what the Lord says."
 
@@ -150,7 +147,6 @@ am the Lord your God, which have brought you out of the land of Egypt, out of th
 16\. And all the works of the house of Ahab, and you walk in their counsels. He was an arch rebel against God. Remember his murder of Naboth to get his vineyard? And these people followed his evil example.
 
 16\. That I should make you a desolation, and the inhabitants thereof an hissing: therefore you shall bear the reproach of My people. Very hard was it to bear that reproach when there would be none of the comforts of the Spirit to go with it. There are some professors who bear the reproach of Christ, but will never share His crown—that is a fearful state of things. Gladly enough would we take up that reproach that we may be truly His. But if we profess to be God's people and act inconsistently, we shall bear all the reproach, but have nothing to sustain us under it. O Lord, in Your mercy, save us from this!
-
 
 ---
 [[Sermon 2327 The Whole Machinery of Salvation|← #2327]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2329 The Lamb Of God In Scripture|#2329 →]]

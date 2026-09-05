@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 147. Matthew 17:22-23, 18:1-5; Mark 9:30-37; Luke 9:43-48
-
-Matthew 17:22-23, 18:1-5; Mark 9:30-37;  
-Luke 9:43-48
 
 **22**. And while they remained in Galilee, Jesus said to them, The Son of man will be delivered into the hands of men: **23**. And they will kill him, and on the third day he will rise again. And they were deeply grieved.
 

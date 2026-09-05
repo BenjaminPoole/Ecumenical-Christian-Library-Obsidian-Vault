@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Comfort for Tried Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2912
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There hats no temptation taken you but such as is common to man: but God is faithful, who will not allow you to be tempted above what you are able; but will, with the temptation, also make a way to escape, that you may be able to bear it." 1 Corinthians 10:13.
 
@@ -103,7 +100,7 @@ What I cannot understand is what people do who have not a God to trust to. I oft
 
 "Oh," says one, "we are not all poor! Some of us are quite well-to-do." But you are poor, for all that, even if you have all your heart can wish for here. If you have not a God, where do you carry your troubles and your griefs, for I am sure that you have some? O my dear Friend, may the Lord make you feel that you cannot do without Him! And when your heart has come to this resolve, "I cannot do without my God, I will not try to do without Him. I feel that I must have Him," then you shall have Him! He waits to be gracious and He has said, "They that seek Me early shall find Me." May you seek Him now and find Him—and to Him shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 10:1-13.
+## Exposition by C. H. Spurgeon: 1 Corinthians 10:1-13
 
 Verses 1-4. Moreover, brethren, I would not that you should be ignorant how that all our fathers were under the cloud, and allpassed through the sea; and were all baptized unto Moses in the cloud and in the sea; and did all eat the same spiritual meat, and did all drink the same spiritual drink: for they drank of the spiritual Rock that followed them; and that Rock was Christ You see, then, dear Brothers and Sisters, that the possession of privileges is not everything. Paul would not have us to be ignorant that all those who were with Moses in the wilderness had privileges of a very high order. Did they not all pass through the Red Sea and so escape from their powerful and cruel foes? Did they not all drink of water which gushed forth from the flinty Rock? Were they not all fed with manna from Heaven? Yet their privileges did not save them, for while they had the five privileges mentioned in these four verses, they fell into the five great sins of which we are about to read. And so their privileges, instead of being a blessing to them, only increased their condemnation!
 
@@ -116,7 +113,6 @@ tempted, and were destroyed of serpents. Neither murmur you, as some of them als
 11, 12. And they are written for our admonition, upon whom the ends of the world are come. Therefore let him that thinks he stands take heed lest he fall. We also are to take heed lest we fall, especially those of us who think we are standing securely! You have seen how terrible was the fate of those unbelievers in the wilderness who never entered into Canaan, but left their carcasses in the desert! Now Paul urges us, with such beacons to warn us, to take heed lest we also fall as they did.
 
 13\. There has no temptation taken you but such as is common to man: but God is faithful, who will not allow you to be tempted above what you are able; but will, with the temptation, also make a way to escape, that you may be able to bear it. O Lord, fulfill Your gracious purpose unto Your servants! Hold us up, lest we fall! We are very weak! Keep us, for your dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2911 'Cases of Conscience'|← #2911]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2913 David's First Victory|#2913 →]]

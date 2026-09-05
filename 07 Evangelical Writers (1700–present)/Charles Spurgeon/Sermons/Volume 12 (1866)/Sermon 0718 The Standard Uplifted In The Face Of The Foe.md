@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Standard Uplifted In The Face Of The Foe
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 718
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 28, 1866,.
+*Delivered on Sunday Morning, October 28, 1866*
 
 > "When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him." Isaiah 59:19.
 
@@ -144,7 +143,6 @@ Now I think I can see that the Spirit of God is lifting up this standard! There 
 Do all you can to increase the sale of sound Gospel literature, but use your own mouths, also, to tell of the Savior's love. Every man, now, to his post today, for now must we awake out of sleep! Oh, if the Holy Spirit will but visit us now, we need not fear concerning old Rome. Like chaff before the wind, the foes shall fly—they shall be driven like thin clouds before a Biscay gale! When once God comes into the fight, woe unto you who are His enemies! Woe unto you! You may fight like mighty men, but you know the might of Israel's sword in ancient times, and you shall feel it now!
 
 Soldiers of Jesus, never despair! My Brothers and Sisters, do not even fear! Be of good courage! Be confident! God is on our side. "Immanuel"—let that be your watchword—"God with us—Immanuel." Be very courageous and very earnest, and the Spirit of the Lord will lift up a standard when the enemy comes in like a flood. God grant it for His name's sake. Amen.
-
 
 ---
 [[Sermon 0717 Pray For Jesus|← #717]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0719 Praying In The Holy Spirit|#719 →]]

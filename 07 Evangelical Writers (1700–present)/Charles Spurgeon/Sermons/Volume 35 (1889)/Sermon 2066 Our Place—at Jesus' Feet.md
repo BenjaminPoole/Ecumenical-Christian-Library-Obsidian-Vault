@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Our Place—at Jesus' Feet
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2066
-
-DELIVERED BY.
 
 > "At His feet." Luke 7:38.
 
@@ -130,7 +127,6 @@ And lo, they cast their crowns at His sacred feet! The whole company is still li
 "Lo, at His feet, with awful joy The adoring armies fall! With joy they shrink to nothing there, Before the eternal All."
 
 So let us praise Him for all that He has done for us. And, as we praise Him, let us sink lower and lower and lower, till in ourselves we are nothing and Christ alone lives in us. Let no thought of self, nor wish for self, nor dream of self intrude but let Jesus be All in All. "At His feet." There shall our Heaven be found. When our soul is deepest bathed in grateful praise we shall fall down on our faces and worship the Lamb. The Lord bless you, and keep you at His feet forever. Amen.
-
 
 ---
 [[Sermon 2065 Our Great Shepherd Finding the Sheep|← #2065]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2067 The Spirit and the Wind|#2067 →]]

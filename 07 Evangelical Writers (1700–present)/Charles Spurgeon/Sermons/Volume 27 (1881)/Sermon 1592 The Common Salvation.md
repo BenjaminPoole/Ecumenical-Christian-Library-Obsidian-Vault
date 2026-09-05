@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Common Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1592
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 10, 1881,.
+*Delivered on Lord's-Day Morning, April 10, 1881*
 
 > "The common salvation." Jude 1:3.
 
@@ -138,7 +137,6 @@ You who can neither preach nor write in defense of sound doctrine can at least g
 Love—do I not preach it with all my heart and do I not bid you manifest it in your deeds? But with that love mingle a firm adherence to the Truth of God as it is in Jesus and a zealous resolve that it shall not lose its honor while you are capable of upholding it! Let the common salvation be protected by the earnest zeal of the entire body of the Church and by us, also. This fact, I think, puts everyone of us to the question—It is a common salvation, but have I a part in it? It belongs to all the people of God, but am I one of them? I should like you, this morning, when you get home, to write on a piece of paper, if you will, whether you are saved or not. It would be a timely searching. Here you are, on this 10th day of April—write down, "Saved, bless the Lord for it!" And if you are obliged to feel you could not write that down, go up into your chamber and cry mightily unto God till you can!
 
 Well, if you are able to write, "saved," then inasmuch as it is a common salvation, go and try to spread that salvation among others. "Others save," says Jude. I know, he says, "others save with fear," but still he says "others save." Try, as far as you can, to bring others to the Savior! A man's salvation that he never wishes to spread among others is a salvation that is not worth having. You are not saved from selfishness if you do not wish to see your children, relatives and neighbors, yes, and all the world brought to Jesus' feet. If it is a common salvation, go and make it common. And, lastly, this text calls for a common song of praise from all those who have the common salvation and I cannot suggest to you a better doxology than that with which Jude closes his Epistle—"Now unto Him that is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy to the only wise God our Savior, be glory and majesty, dominion and power, both now and forever. Amen."
-
 
 ---
 [[Sermon 1591 Honey From A Lion|← #1591]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1593 Rejecters Of The Gospel Admonished|#1593 →]]

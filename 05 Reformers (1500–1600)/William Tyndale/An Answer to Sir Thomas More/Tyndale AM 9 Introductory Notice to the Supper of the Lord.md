@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 9. Introductory Notice to the Supper of the Lord
 
-SUPPER OF THE LORD
+*Supper of the Lord*
 
-[Title of Original Edition.] of tfje fojjer unto, tfjat tjjou magst be tfie better pre* pare& an* berlper instructed: fiabe jjere firste tfje talaracion of t&e later par= te of tfje 6 ea. of gb. 3S°6a, beginm'n- ge at tfie letter OP tjje fotoertS IB- ne before t&e crosse1, at t^ese toor- tit's : IJerelg, bere. $rc. fojjerrm fncitJentlp J^l. JlXore^ let- ter agenst 3Jofian tfie is confu
+[Title of Original Edition.] of tfje fojjer unto, tfjat tjjou magst be tfie better pre* pare& an* berlper instructed: fiabe jjere firste tfje talaracion of t&e later par= te of tfje 6 ea. of gb. 3S°6a, beginm'n- ge at tfie letter OP tjje fotoertS IB-ne before t&e crosse1, at t^ese toor- tit's : IJerelg, bere. $rc. fojjerrm fncitJentlp J^l. JlXore^ let-ter agenst 3Jofian tfie is confu
 
 [Title of edition in the Archbishop's Library, Lambeth.] upper of Ccirtre* lifter tfie true tneangng of tf)e sfxte of 3Jofin, anfc t5e xt of tje fgrst epgstle to tfie OTo= rgntin'ans ; tojereunto is atib^ an 3E- pgstle to fte reafcer. ^ntr incttient»
 
@@ -29,9 +28,9 @@ Anno MCCCCC XXX III. V day of Apryll.
 
 f1 Crosses were inserted into the text, to mark the portions to be read in public service; and were therefore fixed. Marginal letters were used to facilitate reference previous to the division of the new testament into what are styled verses. Tyndale had not employed either in the first edition of his version.]
 
-THE SUPPER OF THE LOKD.
+## The Supper of the Lokd
 
-[INTRODUCTORY NOTICE.
+## [Introductory Notice
 
 THE first edition of the following treatise affords no intimation of its author's name; but its final colophon states that it was "Imprinted at Nornburg1, by Niclas Twonson, 5 April. An. 1533. 2" Only a few months after this date Sir Thomas More had penned what he styles an " Answer to the first part of a poisoned book which a nameless heretic hath named * The Supper of the Lord/" At his first onset More writes as follows: "There is come over another book against the blessed sacrament, a book of that sort that Fryth's book the brethren may now forbear. For more blasphemous and more bedlamripe than this book is were that book hard to be, which is yet mad enough, as men say that have seen it. — The man hath not set his name unto his book ; nor whose it is I cannot surely say. But some reckon it to be made of William Tyndale, for that in a pystle of his unto Fryth he writeth, that in any thing he can do, he would not fail to help him forth. Howbeit some of the brethren report that the work was made by George Jay ; and of truth Tyndale wrote unto Fryth, that George Jay had made a book against the sacrament, which was as yet, partly by his means, partly for lack of money, retained and kept from the print3. — The maker of the book in the end of his book, for one cause why he putteth not his name thereto, writeth in this wise : Master Mocke, whom the verity most o/endeth, and doth but mocke it out, when he cannot soil it, he knoweth me well enough. This sad and sage earnest man that, mocking at my name, calleth me Master Mocke4, doth in these wise words but mocke the readers of his book. What if I wist never so well who he were that wrote it, what were this to the bre thren that read it ? Now for myself also, though I know Tyndale by name, and George Jay or Joy by name also, and twenty such other fond fellows of the same sect more ; yet if ten of those would make ten such foolish treatises, and set their names to none, could I know thereby which of those mad fools made which foolish book6?"
 
@@ -57,7 +56,7 @@ But Frith has told us, that after his arrival in England he had so far yielded t
 
 [8 Probably a misprint for /.]
 
-220 THE SUPPER OF THE LORD.
+## 220 the Supper of the Lord
 
 be kept still, and would not suffer it to be put abroad into every man's hands, because Fryth's treatise was not yet at that time in print ; yet now, sith I see they are come over in print, not only Fryth's book, but over that this masker's also, and that either of their both books maketh mention, &c/
 

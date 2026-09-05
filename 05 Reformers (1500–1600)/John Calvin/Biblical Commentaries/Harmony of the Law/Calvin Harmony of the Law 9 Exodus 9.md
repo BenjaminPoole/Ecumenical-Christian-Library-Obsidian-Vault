@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 9. Exodus 9
-
-**EXODUS 9**
 
 ## Exodus 9:1-7
 

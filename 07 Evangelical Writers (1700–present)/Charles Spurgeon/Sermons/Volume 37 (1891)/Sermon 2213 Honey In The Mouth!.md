@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # "Honey In The Mouth!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2213
 
-DELIVERED BY C. H. SPURGEON, ON FRIDAY MORNING, APRIL 24, 1891,.
+*Delivered by C. H. Spurgeon, on Friday Morning, April 24, 1891*
 
 > "He shall glorify Me: for He shall receive of Mine, and shall show it unto you. All things that the Father has are Mine: therefore said I, that He shall take of Mine and shall show it unto you." John 16:14,15.
 
@@ -116,7 +115,6 @@ III. Our time is almost gone, but in the third place I must just point out to yo
 And then, if the Holy Spirit glorifies Christ, that is the cure for every kind of sorrow. He is the Comforter. I may have told you before, but I cannot help telling you again, that many years ago, after the terrible tragedy in the Surrey Gardens, [See "Emotional Trial by 'Fire!'"— http://www.pilgrimpublications.com/agonies.htm eod] I had to go away into the country and keep quite still. The very sight of the Bible made me cry. I could only keep alone in the garden and I was heavy and sad, for people had been killed and there I was, half dead, myself.
 
 And I remember how I got back my comfort and I preached on the Sabbath after I recovered. I had been walking round the garden and I was standing under a tree. If it is there now, I should know it and I remember these words— "Him has God exalted with His right hand to be a Prince and a Savior." "Oh," I thought to myself, "I am only a common soldier. If I die in a ditch, I do not care. The King is honored. He wins the victory." And I was like those French soldiers in the old times who loved the emperor—and you know how, when they were dying, if he rode by, the wounded man would raise himself up on his elbow and cry once more, "Vive V Empereur!" for the emperor was engraved on his heart! And so, I am sure, it is with everyone of you, my Brothers, in this holy war! If our Lord and King is exalted, then let other things go which way they like. If He is exalted, never mind what becomes of us. We are a set of pigmies—it is all right if He is exalted! God's Truth is safe. We are perfectly willing to be forgotten, derided, slandered, or anything else that men please. The cause is safe and the King is on the Throne. Hallelujah! Blessed be His name! Amen.
-
 
 ---
 [[Sermon 2212 The Private Thoughts and Words of Jesus|← #2212]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2214 Barriers Broken Down|#2214 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Truth Of God's Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2356
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O God, in the multitude of Your mercy hear me, in the Truth of your salvation." Psalm 69:13.
 
@@ -136,7 +133,6 @@ Verses 1, 2. Fret not yourself because of evildoers, neither be you envious agai
 "Go, you that boast in all your stores, And tell how bright they shine.
 
 Your heaps of glittering dust are yours, But my Redeemer's mine/'
-
 
 ---
 [[Sermon 2355 Christ's Negative and Positive Prayer|← #2355]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2357 The Two Pillars Of Salvation|#2357 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # For Christ'S Sake
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 614
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 12, 1865,.
+*Delivered on Sunday Morning, February 12, 1865*
 
 > "For Christ's sake." Ephesians 4:32.
 
@@ -154,7 +153,6 @@ I cannot preach as I would on such a theme as this, but I leave it with you. How
 Then do something for Christ worthy of His love. Wake up from natural sleepiness and this very day, before the sun goes down, do something in some way by which you shall prove that you feel the power of that Divine motive, "for Christ's sake." May God accept and bless you, dear friends, "for Jesus' sake." Amen.
 
 "See from His head, His hands, His feet, Sorrow and love flow mingled down! Did ever such love and sorrow meet, Or thorns compose so rich a crown? His dying crimson, like a robe, Spreads over His body on the tree. Then am I dead to all the globe, And all the globe is dead to me. Were the whole realm of nature mine, That were a present far too small! Love so amazing, so Divine, Demands my soul, my life, my all."
-
 
 ---
 [[Sermon 0613 The Strong One Driven Out By A Stronger One|← #613]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0615 Human Depravity And Divine Mercy|#615 →]]

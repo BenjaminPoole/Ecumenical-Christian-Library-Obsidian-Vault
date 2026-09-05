@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Visits From the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3481
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore, that disciple whom Jesus loved said unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, heput on his outer garment (for he was naked), and plunged into the sea. But the other disciples came in the little boat; for they were not far from land (about two hundred cubits), dragging the net with fishes." John 21:7, 8.
 
@@ -31,7 +28,7 @@ and Sisters tell me they already perceive it. He has never been entirely absent 
 
 Now tonight my one subject is to the Church here, and to God's people elsewhere, who are in the same state of hope and anxiety. I want to speak about Jesus Christ's coming. The all-importance of it you all feel. You all, I trust, as workers for Christ, desire it. Now, Beloved, let us notice, first, when Jesus comes—
 
-I. WHO WAS THE FIRST TO SEE HIM.
+## I. Who Was the First to See Him
 
 The first to see Jesus was John. He said, "It is the Lord." The other disciples perceived Him by-and-by. We know they did, for it is written, "Knowing that He was the Lord"—but the first to see Him was John. What do we gather from this?
 
@@ -51,7 +48,7 @@ Note, further, that the man who first discovered that Christ was present did not
 
 Thus much upon those who first see Him. Now a few words upon—
 
-II. THOSE WHO FIRST GET AT JESUS CHRIST.
+## II. Those Who First Get at Jesus Christ
 
 Peter—quick, hot, impulsive—no sooner hears that it is the Lord than he buckles on his coat, plunges into the sea, and swims to shore to reach his Master! They were not all Peters—it was a mercy they were not. But there was one Peter and it was mercy that there was. Nobody may blame Peter. Nobody may blame those who did not follow Peter. They were quite as right who stayed in the boat as Peter was, who swam to the shore! But I know that wherever Jesus Christ is truly present, there will be some bold noble spirits that will make a dash to get at Him. They love Him—they will be among the first to reach Him—to enjoy His Presence. Yet if any of them feel moved tonight to do some deed of enthusiasm, let me take them by the hand a moment. Peter would reach his Master, but he first girds on his coat. There is reverence in Peter, though there is haste and enthusiasm. He will not come before Christ all in a careless manner—unclothed. He has too much respect for His Master. O Soul, if you would serve the Lord, serve Him with holy fear, for though He is very near to you, He is God—and you are man. Take off your shoes when you would serve Him, for the place where you stand is holy ground! Be not rash in your worship, nor in your vows, nor in your actions! Gird yourself and then serve Him.
 
@@ -69,7 +66,7 @@ you a servant, very well—beat the devil as a servant! And if you are a tradesm
 
 Now this leads me a little farther on. Supposing we should reach the Savior, as I trust we may, each man after His own order—
 
-III. WHAT WILL BE THE RESULT OF COMING TO CHRIST?
+## III. What Will Be the Result of Coming to Christ?
 
 Three results. The first will be refreshment. He will say to us, "Come and dine." Ah, how well fed are those whom Christ feeds! When we go up to the House of Prayer and look to the pulpit, we are disappointed. But if we go and look to the hills from where comes our help, we are never disappointed! What can the pastor do unless the superior Shepherd shall give us the daily food? I might well say to hungry souls, as the King of Israel said to the woman in Samaria, when she spoke of their having eaten her child in famine, and asked the king to help her—"Woman, if the Lord does not help you, how shall I help you?" And so might we all, with the most anxious desire to do good, yet reply, "If the Lord does not help you, how can we help you?" No, Brothers and Sisters, it is not in the power of ordinances, any more than of ministers, to feed souls! There is nothing in the bread and wine of the Communion Table that can spiritually nourish us. There you have bread—no more—wine—no more. It is only when, through these, you get to Jesus—when you pass through the doorway of the outward and get into the inward, into the spiritual—it is only then that your souls are entertained! And once get there, His banqueting table is better than that of Ahasuerus! There is no such feast as that which Jesus gives—of "fat things full of marrow, of wines on the lees, well refined." By your enjoyments in the past, my Brothers and Sisters—by those ravishing moments when your souls have burned within you with intense delight—ask Him to come to you again! Beseech Him to favor you tonight with this refreshment. And mark you, that prayer need not be a selfish one, for all the strength that is gained in communion with Christ will afterwards be spent in the service of Christ!
 
@@ -89,7 +86,7 @@ I charge you, my Beloved—you who have been the flock of my care these many yea
 
 Oh, that some here who know little enough about this might desire to know it! Poor Soul, if you desire Christ, Christ desires you! And if you will have Him tonight, you shall have Him! If you believe that Jesus is Christ, and have put your trust in Him as your Savior, you are saved! Look to Him now! God help you to do it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE24:13-35.
+## Exposition by C. H. Spurgeon: Luke 24:13-35
 
 Verses 13-15. And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that while they communed together and reasoned, Jesus, Himself drew near, and went with them. Where two talk of heavenly things they shall not be long without a third! Jesus loves holy company, and He will join Himself to those who in their conversation join themselves to Him.
 
@@ -108,7 +105,6 @@ Verses 13-15. And, behold, two of them went that same day to a village called Em
 30, 31. And it came to pass, as He sat at dinner with them, He took bread, and blessed it, and broke it, and gave it to them. And their eyes were opened, and they knew Him; and He vanished out of their sight.Sometimes when you do not remember a friend who has greatly changed, or from whom you have been long apart, some old familiar sign will bring it all back and as with a rush of memory, you know him at once! Now if this were an ordinary meal, as perhaps it was, Jesus was so in the habit of giving thanks that they knew Him by that. I wish we knew every Christian by the same sign. Or if this were, indeed, a celebration of His own sacred festival, then again they knew, for is not this the sign between Christ and His people? And is not this Table the place where Jesus meets His Beloved? "And their eyes were opened, and they knew Him." But they knew Him to see Him no more that night.
 
 32-35. And they said, one to the other, Did not our hearts burn within us, while He talked with us by the way, and while He opened to us the Scriptures? And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them, Saying, the Lord is risen, indeed, and has appeared to Simon. And they told what things were done in the way, and how He was known of them in breaking of bread. Did they go to their beds? The day was far spent—late traveling was dangerous in Israel. Ah, dangerous or not, they are so overwhelmed with joy that they must go and communicate what they had seen!
-
 
 ---
 [[Sermon 3480 Fragrant Graces|← #3480]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3482 Struggling Against Sin|#3482 →]]

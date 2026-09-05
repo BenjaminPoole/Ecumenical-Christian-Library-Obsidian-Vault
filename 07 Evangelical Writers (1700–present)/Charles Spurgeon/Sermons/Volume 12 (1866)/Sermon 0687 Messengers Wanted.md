@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Messengers Wanted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 687
 
-DELIVERED ON SUNDAY MORNING, APRIL 22, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 22, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for Us? Then said I, Here am I! Send me." Isaiah 6:8.
 
@@ -110,7 +109,6 @@ Pastor Harms has lately been taken to his rest, but those of you who know the st
 That ship, the Candace, purchased by the villagers of Hermansburgh with their own money, went to and from South Africa, taking the laborers to make settlements and to undertake Christian enterprise in that dark continent. The whole village was saturated with a desire to serve God and preach the Gospel to the heathen, and Harms at the head of it acted with a simple faith worthy of Apostolic times! I would that my God would give me what I should consider the greatest honor of my life—the privilege of seeing some of the Brothers and Sisters of this church devoted to the Lord and going forth into foreign parts.
 
 One gave his farm for students to be educated, another gave all he had, until throughout Hermansburgh it became very much like Apostolic days when they had all things in common, the grand object being that of sending the Gospel to the heathen. The day may come when we who have been able to do something for this heathen country of England may do something for other heathen countries in sending out our sons and daughters.
-
 
 ---
 [[Sermon 0686 Obedience Better Than Sacrifice|← #686]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0688 Sweet Savor|#688 →]]

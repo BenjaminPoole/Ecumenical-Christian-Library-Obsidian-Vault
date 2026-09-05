@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XX — Of Sanctification
 
 ## Chap. XX. — Of Sanctification.
@@ -44,12 +43,11 @@ A. Yes, from them[^7] whose persons he accepteth and justifieth freely in Jesus 
 
 Q. 8. What are the parts of this holiness?
 
-A. ^aInternal, in the quickening of all graces, purging all sins; ^band external, in fervent and frequent prayers, alms, and all manner of righteousness. Particular precepts are innumerable. ^aHeb. ix. 14; Eph. iii. 16, 17; Rom. ii. 29, vi. 12. ^bMatt. v. 20; Rom. viii. 1, 2; Eph iv. 22, 23; Tit. ii. 12.
+A. [^a1]Internal, in the quickening of all graces, purging all sins; [^b1]and external, in fervent and frequent prayers, alms, and all manner of righteousness. Particular precepts are innumerable.
 
 Q. 9. May not others perform these duties acceptably, as well as those that believe?
 
 A. No;[^8] all their performances in this kind are but abominable sins before the Lord. Prov. xv. 8; John ix. 31; Tit. i. 15; Heb. xi. 6.
-
 
 ---
 [^1]: Repentance includeth, first, alteration of the mind into a hatred of sin, before loved; secondly, sorrow of the affections for sin committed; thirdly, change of the actions arising from both.
@@ -61,6 +59,9 @@ A. No;[^8] all their performances in this kind are but abominable sins before th
 [^7]: In Christ are our persons accepted freely, and for him our obedience.
 [^8]: The best duties of unbelievers are but white sins.
 
+[^a1]: Heb. ix. 14; Eph. iii. 16, 17; Rom. ii. 29, vi. 12.
+
+[^b1]: Matt. v. 20; Rom. viii. 1, 2; Eph iv. 22, 23; Tit. ii. 12.
 
 ---
 [[TSC 23 Chapter XIX — Of Justification|← Chapter XIX — Of Justification]] · [[Two Short Catechisms|Contents]] · [[TSC 25 Chapter XXI — Of the Privileges of Believers|Chapter XXI — Of the Privileges of Believers →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # How "The Unspeakable" is Spoken of
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1828
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And men shall speak of the might of Your terrible acts: and I will declare Your greatness. They shall abundantly utter the memory of Your great goodness, and shall sing of Your righteousness." Psalm 145:6, 7.
 
@@ -140,7 +137,6 @@ My Brethren, say, each one of you, unto the Lord, "I will sing of Your righteous
 Oh, eternal God, I do not understand You! If I could comprehend You, You were not God, or I not man! The parts of Your ways which You have revealed stagger and almost slay me, but, as I fall at Your feet as dead, my heart cries, "Though He slay me, yet will I trust in Him." For the Lord is good and righteous are all His ways. Hallelujah, though the world should perish! Hallelujah, though my soul should die with fear! The Lord shall forever be extolled. My Hearer, when you speak thus from your heart, you are a converted man! There is no mistake about it—you are reconciled to God, indeed, when you thus honor Him!
 
 Alas, many are only reconciled to the half of God, or to the 10th part of God! Indeed, I fear that many have shaped a god for themselves and are not reconciled to the true God at all! We want a conversion which shall make us run in parallel lines with the God who has revealed Himself by His Prophets and Apostles—and by His always-to-be-adored Son. So may it be with each one of us, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1827 Exceeding Gladness|← #1827]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1829 The Singular Origin of a Christian|#1829 →]]

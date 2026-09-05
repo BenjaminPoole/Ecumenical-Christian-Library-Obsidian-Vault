@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Startling!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2828
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Hazael said, Why does my lord weep? And he answered, Because I know the evil that you will do unto the children of Israel...And Hazael said, But what, is your servant a dog, that he should do this great thing?" 2 Kings 8:12,13.
 
@@ -85,7 +82,7 @@ But there is One who can. The Holy Spirit is able and Jesus Christ is willing to
 
 Sinner, He will do it! He will hear your cry and answer your petition, and you, in the heights of Heaven, shall sing of the mercy which received you when you were not worthy to be received, of the love which loved you when you were wholly unlovely, and of all the Grace which changed your nature and made you meet to be a partaker of the inheritance of the saints in light! God grant that we may not, any of us, be as Hazael was—the perpetrators of crimes of which we never suspected ourselves capable—but rather, feeling that we are men and women of the same kith and kin as the vilest sinners that ever trod this earth, may it be our grateful surprise and our happy lot to be justified freely by God's Grace through the Redemption that is in Christ Jesus! So shall we be numbered with His saints both now and throughout eternity! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS 19.
+## Exposition by C. H. Spurgeon: 1 Kings 19
 
 Verses 1, 2. And Ahab told Jezebel all that Elijah had done, and also how he had slain all the prophets with the sword. Then Jezebelsent a messenger unto Elijah, saying, So let the gods do to me, andmore, also, ifImake not your life as the life of one of them by tomorrow about this time. She was too fast in uttering her threat and it often happens that malice outwits and overleaps itself. If Jezebel meant to kill Elijah, she should not have given him notice that she intended to do it.
 
@@ -108,7 +105,6 @@ Verses 1, 2. And Ahab told Jezebel all that Elijah had done, and also how he had
 16, 17. And, Jehu the son of Nimshishall you anoint to be king over Israel: andElisha the son of Shaphat of Abel-meholah shall you anoint to be Prophet in your place. And it shall come to pass, that him that escapes the sword of Ha-zael shall Jehu slay: and him that escapes from the sword of Jehu shall Elisha slay. God heard the prayer that Elijah had prayed against Israel, for it was really a prayer against the people who had forsaken the Lord their God. There are times when men, who are most tender of heart, feel as if they must take God's side against sinners. But the Lord also comforted Elijah with good news:—
 
 18\. Yet I have left Me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which has not kissed him.
-
 
 ---
 [[Sermon 2827 The Redeemer Described by Himself|← #2827]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2829 Lowly Service|#2829 →]]

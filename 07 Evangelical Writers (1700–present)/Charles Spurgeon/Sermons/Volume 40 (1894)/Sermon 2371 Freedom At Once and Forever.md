@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Freedom At Once and Forever
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2371
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To proclaim liberty to the captives." Isaiah 61:1.
 
@@ -154,7 +151,6 @@ Verse 14. And Jesus returned, in the power of the Spirit, into Galilee. Ah, dear
 29\. 30. And rose up, and thrust Him out of the city, and led Him unto the brow of the hill whereon their city was built, that they might cast Him down headlong. But He, passing through the midst of them, went His way. They could not destroy Him at that time. His work was not done and He was immortal till it was fully accomplished.
 
 31, 32. And came down to Capernaum, a city of Galilee, and taught them on the Sabbath Day. And they were astonished at His doctrine: for His word was with power. God grant that His Word may be with power tonight! Amen.
-
 
 ---
 [[Sermon 2370 Christ First, Me Last—Nothing Between But Love|← #2370]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2372 A Page From a Royal Diary|#2372 →]]

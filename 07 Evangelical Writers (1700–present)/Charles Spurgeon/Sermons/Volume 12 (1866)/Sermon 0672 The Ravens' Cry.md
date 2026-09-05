@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Ravens' Cry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 672
 
-DELIVERED ON SUNDAY EVENING, JANUARY 14, 1866,.
+*Delivered on Sunday Evening, January 14, 1866*
 
 > "He gives to the beasthis food, and to the young ravens which cry." Psalm 147:9.
 
@@ -158,7 +157,6 @@ Perhaps you say you would not do such a thing. Oh, but you doubt God, if you do 
 Come, my dear Hearers, join with me in the prayer that you may be led by Divine Grace to see in Jesus all that you need—
 
 "Prayer is a creature's strength, his very breath and being. Prayer is the golden key that can open the wicket of mercy. Prayer is the magic sound that said to fate, so be it. Prayer is the slender nerve that moves the muscles of Omnipotence, Therefore, pray, O creature, for many and great are your needs. Your mind, your conscience, and your being, your needs commend you unto prayer, The cure of all cares, the grand panacea for all pains, Doubt's destroyer, ruin's remedy, the antidote to all anxieties."
-
 
 ---
 [[Sermon 0671 The Reward Of The Righteous|← #671]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0673 Secret Sins Driven Out By Stinging Hornets|#673 →]]

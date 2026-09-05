@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Present Privilege And Future Favor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 624
 
-DELIVERED ON WEDNESDAY EVENING, MARCH 29, 1865, BY C. H. SPURGEON, AT UPTON CHAPEL..
+*Delivered on Wednesday Evening, March 29, 1865, by C. H. Spurgeon, at Upton Chapel*
 
 > "The eternal God is your refuge and underneath are the everlasting arms: and He shall thrust out the enemy from before you. And shall say, Destroy them." Deuteronomy 33:27.
 
@@ -33,7 +32,7 @@ I. Beginning then, with the first part of the text, THE PRESENT BLESSING appeals
 
 So also there often comes to men a time when they begin to feel the oppression of Satan. I believe that many ungodly men feel the slavery of their position. Even some of those who are never converted have sense enough to feel at times that the service of Satan is a hard one, yielding but little pleasure and involving awful risks. Some men cannot go long making bricks without straw without being more or less conscious that they are in the house of bondage. These, who are not God's people, under the pressure of mind consequent upon a partial discovery of their state, turn to some form of pleasure or self-righteousness in order to forget their burden and yoke.
 
-But God's elect people, moved by a higher power, are led to cry unto their God. It is one of the first signs of a chosen soul—that it seems to know, as if by heavenly instinct—where its true refuge is. Dear Brothers and Sisters, you remember that although you knew but little of Christ—and in doctrinal matters you were very dark, though you did not un- derstand, perhaps, even your own need—yet there was a something in you that made you pray and realize that only at the Mercy Seat could you find your refuge.
+But God's elect people, moved by a higher power, are led to cry unto their God. It is one of the first signs of a chosen soul—that it seems to know, as if by heavenly instinct—where its true refuge is. Dear Brothers and Sisters, you remember that although you knew but little of Christ—and in doctrinal matters you were very dark, though you did not understand, perhaps, even your own need—yet there was a something in you that made you pray and realize that only at the Mercy Seat could you find your refuge.
 
 Before you were a Christian, before you could say—"Christ is mine"—your bedside was the witness to many flowing tears when your aching heart poured itself out before God, perhaps in strains like these—"O God, I need something. I do not know what it is I need, but I feel a heaviness of spirit. My mind is burdened and I feel that You only can unburden me. I know that I am a sinner! Oh, that You would forgive me! I hardly understand the plan of salvation, but one thing I know—I want to be saved! I would arise and go unto my Father—my heart pants to make Your bosom my refuge."
 
@@ -134,7 +133,6 @@ You will probably ask how you will be able to accomplish this work. Why, take th
 The fine gold of the Christian is often becoming dim and the spots will appear upon the surface showing that we dwell among the sons of earth in a world which lies in the Wicked One. We want some sacred fire which shall consume away the dross and give us back the brightness we have lost. Go to God, He is a consuming fire—not to your spirit—but to your sins. You may so plead the work of Christ and the Covenant of Grace as to make the very Nature of God, which would condemn you out of Christ, to cleanse you, being in Christ Jesus!
 
 You will be sanctified by the God who would have destroyed you had you not fled for refuge to the hope set before you. You have strength to overcome sin given you in the Covenant of Grace. You have strength to drive out your own iniquities. You have strength to win battles for your Master, because in Christ Jesus He has promised to be with you even unto the end. May the past experience stimulate you to future exertion and let the goodness of God excite you to a sacred jealousy and to a holy revenge against those sins which are hateful in His sight. May God bless you, Brethren, for Christ's sake.
-
 
 ---
 [[Sermon 0623 Satan Considering the Saints|← #623]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0625 Jesus Appearing To Mary Magdalene|#625 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 30
 
-**CHAPTER 30**
+***Chapter 30***
 
 ## Isaiah 30:1-33
 

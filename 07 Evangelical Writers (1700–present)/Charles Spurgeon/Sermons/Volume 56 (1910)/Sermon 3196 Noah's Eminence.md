@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Noah's Eminence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3196
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the LORRD said unto Noah, Come you and all your house into the ark, for you have I seen righteous before Me in this generation." Genesis 7:1.
 
@@ -89,7 +86,7 @@ If we cannot cling to Christ's Cross as the sailor clings to the mast, let us cl
 
 Then, though you have not, up to now, been righteous before God as Noah was, you shall be so for the future! The blood of Christ and the righteousness of Christ shall make you so! And then a new heart and a right spirit shall be given to you—God's own Spirit shall be put within you and God shall be glorified in you even as He was in righteous Noah! May it be so, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 7.
+## Exposition by C. H. Spurgeon: Genesis 7
 
 Verse 1. And the LORD said unto Noah, Come you and all your house into the ark Notice that the Lord did not say to Noah, "Go into the ark," but, "Come," plainly implying that God was, Himself, in the ark, waiting to receive Noah and his family into the big ship that was to be their place of refuge while all the other people on the face of the earth were drowned. The distinctive word of the Gospel is a drawing word—"Come." Jesus says, "Come unto Me, all
 
@@ -132,7 +129,6 @@ Volume 53—THE PARABLE OF THE ARK and #1613, Volume 27—SHUT IN OR SHUT OUT.] 
 20-23. Fifteen cubits upward did the waters prevail; and the mountains were covered. Andall flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creeps upon the earth, and every man: all in whose nostrils was the breath of life, of all that was in the dry land died. And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the Heaven; and they were destroyed from the earth: and Noah, only, remained alive, and they that were with him in the ark. This is the counterpart of what will follow the preaching of the Gospel—those who are in Christ shall live, shall rise, and reign with Him forever—but none of those who are outside of Christ shall live. "Noah, only, remained alive, and they that were with him in the ark."
 
 24\. And the waters prevailed upon the earth an hundred and fifty days.
-
 
 ---
 [[Sermon 3195 Christ Loosens From Infirmities|← #3195]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3197 The Sweetness of God's Word|#3197 →]]

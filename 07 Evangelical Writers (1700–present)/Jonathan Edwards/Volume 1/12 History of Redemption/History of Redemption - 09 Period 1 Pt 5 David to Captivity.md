@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART V
 
-FROM DAVID TO THE BABYLONISH CAPTIVITY.
+*From David to the Babylonish Captivity*
 
 I come now to the *fifth period* of the times of the Old Testament, beginning with *David,* and extending to the *Babylonish* captivity; and would now proceed to show how the work of redemption was therein carried on.—And here,
 

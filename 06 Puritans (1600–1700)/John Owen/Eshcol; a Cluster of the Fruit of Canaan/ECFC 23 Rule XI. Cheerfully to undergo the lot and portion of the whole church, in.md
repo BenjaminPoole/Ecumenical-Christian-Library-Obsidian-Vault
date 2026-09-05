@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule XI. Cheerfully to undergo the lot and portion of the whole church, in prosperity and affliction, and not to draw back upon any occasion whatever
-
-Rule xi. Cheerfully to undergo the lot and portion of the whole church, in prosperity and affliction, and not to draw back upon any occasion whatever.
 
 Matt. xiii. 20, 21, “He that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it; yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.”
 
@@ -37,7 +34,6 @@ Now, to a close adhering to the church wherein we walk in fellowship, in all con
 2\. The danger of backsliding, and evidence of unsoundness in every degree thereof.
 
 3\. The scandal, confusion, and disorder of the churches, by neglect thereof.
-
 
 ---
 [[ECFC 22 Rule X. To mark diligently and avoid carefully all causes and causers of|← Rule X. To mark diligently and avoid carefully all causes and causers of divisions; especially to shun seducers, false teachers, and broachers of heresies and errors, contrary to the form of wholesome words]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 24 Rule XII. In church affairs to make no difference of persons, but to condescend|Rule XII. In church affairs to make no difference of persons, but to condescend to the meanest persons and services for the use of the brethren →]]

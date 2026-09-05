@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # God's Heart the Source of All Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2641
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "According to Your own heart, have You done all these great things." 2 Samuel 7:21.
 
@@ -87,7 +84,7 @@ Now, dear Hearers, what do you say to this subject? Does it not glorify God? Hav
 
 But, O Beloved, what a wide door this Truth of God sets open for poor lost men! You self-righteous people will not come in by it, for you do not like this God-made entrance. You want to try to save yourselves—but you will only the more effectually ruin yourselves—that is all that will come of it! But every poor sinner who is worried by the devil and brought to the lowest extremity, will say, "If there is a reason in the heart of God why I should be saved, I will come and trust myself on Christ's finished work and, trusting in Him, I will see whether I shall not be saved." O you lost and ruined! O you helpless and hopeless! O you far-off ones! O you who lie at death's door and Hell's door—look to Jesus on the Cross! Your hope lies there! Turn your eyes away from yourself, for there is nothing in yourself but that which you will have to weep over and groan over! Man's extremity is God's opportunity—if you have come to the end of self, I invite you to begin with Christ! Yes, if you have done with self, Christ has already begun with you! And when He begins, He never ceases till He perfects His work! The Lord bless and save you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 SAMUEL 7:1-22.
+## Exposition by C. H. Spurgeon: 2 Samuel 7:1-22
 
 Verses 1, 2. And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies; that the king said unto Nathan the Prophet, See now, I dwell in an house of cedar, but the Ark of God dwells within curtains. He said no more, but his intention was very plain, namely, to build a house that should be a more suitable abode for the Ark of the Lord.
 
@@ -112,7 +109,6 @@ Verses 1, 2. And it came to pass, when the king sat in his house, and the LORD h
 20\. And what can David say more unto You? He had not said much, but he could not say much under such circumstances. He was utterly overwhelmed, just as when some wondrous kindness has been shown to us, we wish rather to sit still, in grateful silence, than to stand up and speak acknowledgments, for our heart is too full for utterance!
 
 20-22. For You, LORD GOD, know Your servant For Your word's sake, and according to Your own heart, have You done all these great things, to make Your servant know them. Therefore You are great, O LORD GOD: for there is none like You, neither is there any God beside You, according to all that we have heard with our ears. God had said to David, in the message He sent by Nathan, "I have made you a great name, like unto the name of the great that are in the earth." And now David brings back the words to God, and says, "You are great, O LORD GOD: for there is none like You, neither is there any God beside You."
-
 
 ---
 [[Sermon 2640 Comforted and Comforting|← #2640]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2642 The Flight to Zoar|#2642 →]]

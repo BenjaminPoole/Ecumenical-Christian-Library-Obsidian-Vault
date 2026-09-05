@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 149
-
-**PSALM 149**
 
 If we may be allowed to compare this Psalm with the former ones, and the next, which is the last, the only difference is, that while the author of the Psalm, whoever he was, has hitherto spoken of God’s special care and protection of his Church in connection with the common providential government of the world, here he speaks of his benefits to the Church exclusively. In the next Psalm mention is only made of the power of God in general.
 

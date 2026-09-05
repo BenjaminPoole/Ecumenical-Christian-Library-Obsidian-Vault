@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Divine Interpositions
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1432
@@ -71,8 +70,7 @@ If the Master went that way, descending into the sepulcher, and so up by the hil
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Psalm 18:1-31.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—18, 296, 428.
-
+## Hymns from "Our Own Hymn Book"—18, 296, 428
 
 ---
 [[Sermon 1431 The Message from the Lord's Mouth|← #1431]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1433 An Anxious Enquiry for a Beloved Son|#1433 →]]

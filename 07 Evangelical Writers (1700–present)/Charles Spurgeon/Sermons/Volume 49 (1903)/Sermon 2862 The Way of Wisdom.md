@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Way of Wisdom
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2862
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There is a path which no fowl knows, and which the vulture's eyes have not seen; the lion's whelps have not trodden it, nor the fierce lion passed by it." Job 28:7,8.
 
@@ -110,7 +107,6 @@ And it is so, lastly, with regard to many a Christian's death. In this matter, a
 We have felt, with regard to their deathbed, as Moses did with regard to the burning bush—humble was the pallet and humble was the patient who lay upon it—but, as the bush glowed with heavenly fire, that bed seemed to be bright with the Presence of Deity, for God was there with His children and Christ was there succoring the members of His mystical body! And we have marvelled, been astonished and have felt that we should take off our shoes, for the place whereon we stood was holy ground!
 
 Those of us whose calling makes us familiar with the departure of Believers, have often felt that there was a path for dying saints which biographers could not describe, which language could not picture and of which memory has left but faint traces upon the tablets of our soul—but which, in itself, was something indescribable, unutterable, Divine! May God grant to all of us the Grace to know all this for ourselves! We can only know it by the illumination of the Divine Spirit, but that blessed Spirit illuminates all the souls that look to Jesus! Indeed, their looking to Jesus is one effect of the Divine Illumination which they have already in part received. Oh, that each heart here may "lay hold on eternal life" by laying hold on the Savior by faith, for then He will reveal to you the great mystery that the unsaved cannot comprehend—and He will say to you, as He said to Peter, "Blessed are you, Simon Bar-Jona, for flesh and blood have not revealed it unto you, but My Father which is in Heaven." The Lord bless you, Beloved Friends! For Christ's sake! Amen.
-
 
 ---
 [[Sermon 2861 'The Time Is Short'|← #2861]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2863 Great Forgiveness for Great Sin|#2863 →]]

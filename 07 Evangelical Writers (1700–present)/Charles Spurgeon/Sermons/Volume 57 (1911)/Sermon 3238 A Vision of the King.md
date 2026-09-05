@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # A Vision of the King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3238
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your eyes shall see the King in His beauty: they shall behold the land that is very far off." Isaiah 33:17.
 
@@ -145,7 +142,7 @@ I find that the marginal reading is "the land of far distances." Heaven is a lan
 
 saved, Christ shall have the pre-eminence. Shall Satan capture the most of men? I do not believe that he will—if he could do so, he would have the pre-eminence, but that can never be! Christ "shall see of the travail of His soul, and shall be satisfied." But do you think that a small number of souls saved would satisfy Him? Would that be a fitting sequel to His soul-travail? Oh, no! I believe in a great Heaven and a great multitude of great sinners saved by the great Sacrifice of the great Savior, who shall bring great Glory to His great name and the great Grace of the great Father, Son and Spirit forever and ever! But, my dear Hearer, however great it all is, of what use will it be to you if you do not have a share in it? My text says, "Your eyes shall see the King in His beauty: they shall behold the land that is very far off." That applies to every Believer in the Lord Jesus Christ! Is that what you are? If so, my text is a promise to you as surely as if your own name had been mentioned in it! If you will now believe in Jesus, if you will trust Him, if you will rely upon Him—it all means the same thing—this promise is for you and it shall be fulfilled in your experience in God's own time! May God the Holy Spirit give you the Grace to turn your eyes by faith to the Lamb of God who died for sinners upon the Cross of Calvary! And then to you, even to you, I can repeat the promise of the text, "Your eyes shall see the King in His beauty: they shall behold the land of far distances." The Lord grant it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 7:9-17; ISAIAH 49.
+## Exposition by C. H. Spurgeon: Revelation 7:9-17; Isaiah 49
 
 Revelation 7:9. After this. I thought I would read this familiar and very precious passage once more as so many of our number have gone home to Heaven during the past few weeks. There has been a great flight of the Lord's doves upward to the heavenly dovecotes lately. We will think of them as we read these well-known words—"After this"—
 
@@ -204,7 +201,6 @@ COMFORTING HIS PEOPLE.] Well may Heaven and Earth and mountains sing when they h
 Sermons #2692, Volume 46—CHURCH INCREASE and #2776, Volume 48—THE CHURCH A MOTHER.] Oh, that we might often have such a glad surprise as this and be made to marvel at the Lord's gracious dealings with us!
 
 22-26. Thus says the Lord GOD, Behold, I will lift up My hand to the Gentiles, and set up My standard to the people: and they shall bring your sons in their arms, andyour daughters shall be carried upon their shoulders. And kings shall be your nursing fathers, and their queens your nursing mothers: they shall bow down to you with their face toward the earth, and lick up the dust ofyour feet, andyou shallknow that I am the LORD: for they shall not be ashamed that wait for Me. Shall the prey be taken from the mighty, or the lawful captive delivered? But thus says the LORD, Even the captives of the mighty shall be taken away, and theprey of the terrible shall be delivered: for I will contend with him that contends with you, and I will save your children. And I will feed them that oppress you with their own flesh; and they shall be drunk with their own blood, as with sweet wine: and all flesh shall know that I the Lord am your Savior and your Redeemer, the Mighty One of Jacob. The enemies of the Lord's people are His enemies, too, and He will overthrow them in His own good time—and make the whole world know that He is their Savior and Redeemer, the Mighty One of Jacob!
-
 
 ---
 [[Sermon 3237 Our Lord's Preaching|← #3237]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3239 Woe and Weal|#3239 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Christ's Plea for Ignorant Sinners
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2263
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said Jesus, Father, forgive them; for they know not what they do." Luke 23:34.
 
@@ -115,7 +112,7 @@ Brothers and Sisters, I see reason for hope in the very ignorance that surrounds
 
 If there are any unconverted people here, and I know that there are some, we will mention them in our private devotion, as well as in the public assembly. And we will pray for them in words like these, "Father, forgive them; for they know not what they do." May God bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON LUKE 2333-46; JOHN19:25-30.
+## Exposition by C. H. Spurgeon Luke 2333-46; John 19:25-30
 
 We have often read the story of our Savior's sufferings, but we cannot read it too often. Let us, therefore, once again repair to "the place which is called Calvary." As we just now sang—
 
@@ -166,7 +163,6 @@ John 19:25. Now there stood by the Cross of Jesus His mother, and His mother's s
 30\. And He lowered His head, and gave up the ghost. He did not give up the ghost and then bow His head because He was dead. But He bowed His head as though in the act of worship, or as leaning it down upon His Father's bosom—and then gave up the ghost.
 
 Thus have we had two Gospel pictures of our dying Lord. May we remember them and learn the lessons they are intended to teach.
-
 
 ---
 [[Sermon 2262 Christ's Curate In Decapolis|← #2262]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2264 Sowing in the Wind, Reaping Under Clouds|#2264 →]]

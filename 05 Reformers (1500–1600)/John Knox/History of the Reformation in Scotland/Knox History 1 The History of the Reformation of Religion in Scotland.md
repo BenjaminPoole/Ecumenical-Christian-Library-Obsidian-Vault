@@ -10,12 +10,9 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 1. The History of the Reformation of Religion in Scotland About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## The History of the Reformation of Religion in Scotland
 
 ### By
 

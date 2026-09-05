@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 41. Deuteronomy 9:1-6
-
-**DEUTERONOMY 9**
 
 **1.** Hear, O Israel: Thou *art* to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great, and fenced up to heaven;
 

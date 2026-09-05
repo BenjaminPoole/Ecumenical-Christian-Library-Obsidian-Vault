@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Taught That We May Teach
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1578
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And the Man said to me, Son of man, behold with your eyes, and hear with your ears, and set your heart upon all that I shall show you; for to the intent that I might show them unto you are you brought here: declare all that you see to the house of Israel." Ezekiel 40:4.
 
@@ -96,7 +95,6 @@ Yes, but still this is not your only duty. God has shown us His precious Word th
 "I do not know what to say," says someone. Do not say it, then, Brother, Sister. I would recommend you not say anything if you do not know what to say. But if you have seen with your eyes and heard with your ears and received into your heart—then you know what to say! And the first thing that comes to hand will be the best thing to say, for God, who knows the condition of people's minds, knows how to fit you to their condition and make your experience as a Christian to tally with the experience of the man or woman who needs the aid of your light. Go, and the Lord be with you!
 
 If there are any here who have never seen the Lord, if they have any desire after Him, if they have any sense of sin, if they have any wish for the eternal Light, let them remember those gracious Words—"Him that comes unto Me I will in no wise cast out," and that precious invitation, "Come unto Me, all you that labor and are heavy laden, and I will give you rest." May the Holy Spirit bring you to trust in Jesus at once and to the name of the Lord be the praise forever and ever. Amen. Amen.
-
 
 ---
 [[Sermon 1577 Sin Subdued|← #1577]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1579 Roads Cleared|#1579 →]]

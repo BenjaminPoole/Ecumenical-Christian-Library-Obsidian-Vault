@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 17
 
-**CHAPTER 17**
+***Chapter 17***
 
 ## Joshua 17:1-10
 

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 64. Decade 5, Sermon 5, Part 2
 
 :■ such a sort into parts, and for the whole course of that ther might once in a vear read over the whole bible, and the psalter oftener, yea, even every sevennisrht4.
@@ -42,8 +41,6 @@ Canoniei, Lat. : Bingham, Book i. chap. 5. § 10." - Poiydor. "Vergil, de rer. i
 
 :' Magd. Centur. Cent. nn. cap. 10. coll. 473-475. Basil. 1024. r _ ). -. L L684; but 1577, and.] ['-' veteris prophetic, Lat.]
 
-202 THE FIFTH DECADE. [sERM.
-
 pray ; what words, or what form of prayer, we must use. Truly, there are many forms of prayer ; but none better than that which our Lord, the only-beloved Son of God the Father, hath delivered. Neither is there a more certain form, as comprehending in few words all in all. In this summary he hath prescribed what is worthy of him, what is acceptable to him, what is necessary for us, and, to be short, what he is willing to grant. Whereupon St Cyprian, expounding the Lord's Prayer, among other things saith : " He that made us to live, the same hath taught us also to pray ; even of the same his bountifulness, whereby he hath vouchsafed both to give and to bestow all other things whatsoever : that when we speak with the Father in that prayer and supplication which the Son hath taught us, we may be the more easily or readily heard, and may truly and spiritually worship him. For what prayer can be more spiritual, than that which is given unto us of Christ, from whom also the Holy Ghost is sent unto us ? "What prayer before the Father more true, than that of the Son, proceeding out of his mouth, who is truth itself? So that to pray otherwise than he hath taught is not only ignorance, but also offence, since he himself hath set down and said : ' Ye cast aside the commandment of God to stablish your own tradition.' Therefore, dearly beloved brethren, let us pray as God our master hath taught us. It is a friendly and familiar prayer, to call upon God in such manner as he hath taught us, and when that the prayer of Christ cometh to his ears. Let the Father acknowledge the words of his Son, when we pray. He that dwelleth within the heart, let him also be in the tongue. And since we have him our advocate with the Father for our sins, when we, being sinners, ask pardon for our offences, let us utter the words of our advocate. For since he saith, 'Whatsoever ye shall ask the Father in my name, he will give it you ;' how much more effectually do we obtain that which we ask in the name of Christ, if we ask it in his prayer l!" Thus far he.
 
 [} Qui fecit vivere, docuit ct orare ; beniguitate ea scilicet qua et cetera dare et conferre dignatus est, ut cum prccc et oratione, quam Filius docuit, apud Patrem loquimur, facilius audiamur ; . . . ut . . . vere et spiritaliter adoremus. Quae enim potest esse magis spiritalis oratio, quam qua? a Christo nobis data est, a quo nobis et Spiritus Sanctus missus est ? Quee vera magis apud Patrem precatio, quam quoe a Filio,
@@ -57,8 +54,6 @@ There is wont also another question to be asked, "What Whatit
 [2 his, not in Lat.]
 
 [3 Si per omnia precationum sanctarum verba discurras . . . nihil invenies quod non ista dominica contineat et concludat oratio. Undo liberum est aliis atque aliis verbis eadem tamen in orando dicere, sed non debet esse liberum alia dicere. — August. Opp. Tom. u. fol. 121. col. 2. Par. 1531.]
-
-204 THE FIFTH DECADE. [sERM.
 
 an humbling of ourselves before the majesty of God. Whereunto, moreover, vre add this : we do not express and open our desires unto God, as though he knew them not ; or that we would teach him being ignorant ; or that we would entreat
 
@@ -84,9 +79,9 @@ And because I have said, which all godly men also throughout the whole world con
 
 [8 Etenim talia non citra foedissimam superstitionem fiunt, Lat. omitted. For such things are not done but with most abominable superstition.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 t Or our debtors.
 
@@ -108,8 +103,6 @@ Furthermore this word Father teaches us, through whom The Lord's
 
 ° praver of- we should call upon this Father ; not by the mediation or by ^^e the mouths of saints, but by Jesus Christ our Lord ; through Christwhom only we are made the sons of God, who were otherwise by birth and by nature the children of wrath. Who, I pray you, durst come forth before the presence of the most high and everlasting God, and call him " Father," and himself " son," unless the Father in his beloved and natural Son had adopted us the sons of grace ? Therefore, when we say, " Father," we speak from the mouth of the Son, who hath taught us so to pray, and by whom we be promoted into this dignity ; that it needeth nothing at all to add the name of Christ, and to say, We pray thee, 0 heavenly Father, for Christ's sake ; since in the first word, " Father," we comprehend the whole mystery of the Son of God and our redemption. For insomuch as he is our Father, we are his sons, and that by the merit of Christ: therefore we call upon the Father, and so call him through Christ ; that I may not now repeat, that we pray so from the mouth of Christ. Moreover, this sweet and favourable word, " Father," disburdens us clean of all distrust of heart ; for we call him " Father," not so much in consideration of his creating of all things, as for his singular and fatherly goodwill toward us. Whereupon, though he be Lord God, and indeed a great Lord, and an Almighty God; yet when we pray, we attribute none of these names unto him ; but call him Father, because indeed he wisheth us well, loveth us, taketh care and charge over us, and, having pity upon us, is desirous, yea, of his own accord and goodwill toward us, to store and heap upon us all good things whatsoever. Hitherto appertain the testimonies of the prophets, especially that of David : " The Lord is full of compassion and mercy, slow to p5. cm. anger, and of great kindness. He will not alway chide, neither keep his anger for ever. He hath not dealt with us after our sins, nor rewarded us according to our iniquities. For as high as the heaven is above the earth, so great is his [3 extra queui, Lat. ; out of whom.]
 
-208 THE FIFTH DECADE. [SERM.
-
 mercy toward them that fear him. As far as the east is from the west, so far hath he removed our sins from us. As a father hath compassion on his children, so hath the Lord compassion on them that fear him. For he knoweth whereof we be made, he remembereth that we are but dust." A very excellent example of this thing is to be seen in the gospel after
 
 Luke xv. St Luke ; where the loving father is painted out with wonderful affections receiving into favour again that prodigal son and waster of his wealth.
@@ -126,8 +119,6 @@ Now there do follow in order six petitions. The first is, Haiiowed be " Hallowed
 
 [bullinger, IV.]
 
-210 THE FIFTH DECADE. [SERM.
-
 Thename of \ name is the definition of anything whatsoever ; and names are invented to make a difference of one thing from another, whereby they might be known among themselves. But God is infinite and unmeasurable ; moreover, he is one : therefore he hath not a name whereby to be defined ; he needeth not a name whereby to be discerned from other gods. Therefore those names, that are attributed unto him in the scriptures, are attributed for our infirmity ; to the end that by some reason and comparison we might understand some things that are spoken of him that is unmeasurable and infinite. Therefore the name of God, in very deed, is God himself, with all his majesty and glory.
 
 To^ancUfy, To " sanctify," or " hallow," otherwhiles signifieth, to separate things from a profane unto an holy use. In this place it signifieth to magnify, to praise, and to glorify. We desire therefore, that God himself, who of his own nature is a good, holy, and for ever blessed, gentle, bountiful, and a merciful, Father, might as he is in himself be acknowledged and magnified of all us; that all nations, leaving their error1 and heresies, might consecrate themselves in truth to this one only Father and God ; that all things which defile the name of the Lord, of which sort are wicked deceits or practices, ungodliness, epicurism, an unclean life, and especially corrupt and antichristian doctrine, may be taken away; that, being enlightened, we might sanctify or hallow the name of the Lord. Wherefore in this petition we desire the Holy Ghost, the very only author itself of all true sanctification ; we pray for true faith in God by Christ throughout the whole world ; we pray for holy thoughts and a pure life, wherewith we might glorify the name of the Lord ; which is done, while every one doeth his own duty ; while Satan, the author of all uncleanness, is cast out ; while corrupt doctrine is taken away, and deceit ceaseth ; while the filthiness of the world is banished. This petition the most excellent king and prophet David setteth forth in these words : " God be merciful unto us, and bless us, shew us the light of his countenance, and be merciful unto us2 ; that thy way may be known3 upon earth, thy saving health among all nations. Let the people praise thee, 0 God ;
@@ -142,8 +133,6 @@ The second petition is, " Thy kingdom come ;" for the Thy kingname of God and ou
 
 14—2
 
-212 THE FIFTH DECADE. [sERM.
-
 we have sailed out of the tempestuous gulf1 of this world, we might be received and gathered unto Christ and all the saints, into the everlasting kingdom of glory. For as we desire the kingdom of God to come unto us, and God to reign in us ; so we pray to come or to be received into his kingdom, and to live for ever with him most holily.
 
 doneWiU be -^ne tnird petition is : " Thy will be done, as well in earth as it is in heaven." God reigneth not in us, unless we be obedient unto him ; therefore after his kingdom, we desire the grace of perfect obedience. For we desire not that God do what he will ; for continually God's will is done, albeit we never pray for it, and though we wrestle and strive against it psai.cxv. -with all our might. For the prophet saith : " Our God is in heaven ; he hath done whatsoever pleased him in heaven and in earth.1' We ask, therefore, that what he will, the same he may make us both to will and to do2. For his will is always good; but our will, through the corruption of sin, is evil. Therefore we pray him to be present with us with his grace, that our will may be regenerated and framed to the good will of God, that of its own accord it yield itself to the Holy Ghost to be framed ; that his grace will that which he inspireth3; that he finish in us that which he hath well begun ; give us, moreover, strength and patience hereunto ; that, as well in prosperity as in adversity, we may acknowledge the will of God4, lest we will anything of ourselves, and swell and be puffed up in prosperity, in adversity also faint and perish ; but that we may apply ourselves in all things, and through all things, to be governed by his will ; to wit, after this manner to submit our will to his will : furthermore, if we ask anything contrary to his will, that he would not grant it, but rather pardon our foolishness, and weaken our will, which is not good for us ; to instruct and teach us in his good will, to the end we may doubt nothing that this is always to be followed, that this is always good, and that this worketh all things for our commodity and benefit.
@@ -156,7 +145,7 @@ doneWiU be -^ne tnird petition is : " Thy will be done, as well in earth as it i
 
 [4 bonam, Lat. omitted: to be good.]
 
-V.] OF TRAYER. 213
+## V.] of Trayer. 213
 
 In this point the faithful feel a very great battle in themAs w«.ii in selves ; Paul witnessing and saying: " The flesh lusteth against inh'^'J,,'! ' the Spirit, and the Spirit against the flesh. And these two are at mutual enmity between themselves, that what things ye would that ye cannot do." Therefore we desire not any kind of framing our will to God's will, but we add: " As well in earth, as it is in heaven ;" that is, Grant, O Father, that thy will may be done in us earthly men, as it is done in thy saints5, the blessed spirits. These do not strive against thy most holy will in heaven; but, being in one mind6, they only will that which thou wilt, yea rather, in this one thing they are blessed and happy, that they agree and acquiet* themselves in thy will. Truly, it is not the least part of felicity or happiness in to win that earth, to will that God willeth ; it is the greatest unhappiness, wnleth ;"» not to will that which God willeth. And this, truly, by iniwpPineL° finite examples might be declared. I will allege only one, and that common too. Some one is grievously sick, and feeleth pains and torments scarce tolerable8 ; but he in the mean time acknowledgeth, that he suffereth these things by the commandment and will of God, his most good, bountiful, and just Father, who wisheth him well, and hath sent this grievous calamity for his salvation and for his own glory. Doth not he, in the midst of his torments, by submitting himself to the will of God feel refreshing? And that which seemed most sharp and most bitter to man, by this voluntary and free submission he maketh it delightful and most sweet. Again ; another is sick, vexed not with a very great disease ; but this man doth not acknowledge this sickness to be laid upon him by the good will of God ; yea, rather thinketh that God knoweth not the disease, that God doth not care for the disease : therefore he referreth it unto divers and sundry causes, and imagineth and seeketh divers means to heal it. And in these things he is wonderfully vexed and afflicted ; and yet, by striving so against the will of God, he feeleth no refreshing or comfort at all. What therefore doth he else, nilling9 that which God willeth, than (which they are wont to do), by ill means avoiding evil, double the same ? "Wherefore
 
@@ -167,8 +156,6 @@ In this point the faithful feel a very great battle in themAs w«.ii in selves ;
 [7 acquiescent, Lat.] [» tolerabilia homini, Lat.]
 
 [9 nolens, Lat.; not willing.]
-
-214 THE FIFTH DECADE. [SERM.
 
 the foundation of all happiness is faithful obedience, whereby we fully submit ourselves and whatsoever else unto us belongeth to the good will of God. And therefore in this greatest petition we pray unto the Father, that he would give us regeneration or newness of heart1, true obedience, persevering patience, and a mind always and in all things agreeing with and obeying God.
 
@@ -182,7 +169,7 @@ Daily. in the mean season, when we call it daily, or k-Kiovaiov, that is to say,
 
 Furthermore, lest any should think himself unworthy of And forgive the daily bread, because it is due to children and not to dogs ; and therefore should pray the slowlier, and with a more
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 [serm:.
 
@@ -204,9 +191,9 @@ The sixth and last petition is : " And lead us not into And lead us
 
 temptation, but deliver us from evil ;" for sin is never so forgiven, that there remaineth not concupiscence in the flesh, which temptations stir up, and lead into divers kinds of sins. And these are of divers sorts. For first, God tempteth us, when he biddeth us do any thing whereby to prove us, as when he bad Abraham to offer up his son ; or else, when he sendeth adversity upon us, that with the fire of temptation he may both fine4 our faith, and cleanse away the dross of our misdeeds. These temptations of God tend to the salvation of the faithful. Wherefore we do not simply pray, not to be tempted : for the temptation of God is profitable. For that [3 graviter, Lat.] [4 exerceat, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 But deliver us from evil.
 
@@ -228,9 +215,9 @@ Furthermore, some do place before the -word, " Amen/' immediately after the rehe
 
 [4 Hanc coronidem in omnibus Grsecorum exemplaribus adjectam comperio . . . verum quando nee in ullis Latinorum exemplaribus ascriptum visitur, nee exponitur ab Hieronymo, aut ullo prorsus interpretum preeter Chrysostomum et hujus abbreviatorem reccntem Theophylactum, apparet ex solenni consuetudine . . . additum . . . Consiinili studio adjectum est in fine Psalmorum, Gloria Patri. Proinde non est cur Laurentius Valla stomacbetur bonam precationis doniinicoe partem fuisse decurtatam. Magis taxanda fuerat illorum temeritas, qui non veriti sint tarn divinte precationi suas nugas assuere. Nugas enim jure dixerim ad divinam doctrinam quicquid ab hominibus profectum fuerit ; preesertim si quod ab bominibus annexum sit, ad Christum auctorem conferatur. — Erasm. Annot. in Matt. loc. cit. p. 31, 32. Basil. 1522.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Of thanksgiving.
 
@@ -264,8 +251,6 @@ But that we may be thankful for all the benefits of God, The benefits
 
 [7 So also ed. 1584; but 1577, and tho Father ; et Patri, Lat.]
 
-222 THE FIFTH DECADE. [sERM.
-
 acknowledge, and well to weigh with ourselves, the benefits of God ; for these being not yet known, or rightly weighed, our mind is not set on fire to give God thanks for his benefits. And these arc indeed diverse, yea, they are infinite : for they are private and public, general and special, spiritual and corporal, temporal and eternal, ecclesiastical and political, singular and excellent. But who can reckon up all their kinds and parts? God created, beautified, garnished, and made this world fruitful for man. To the ministry of this he severally appointeth angelical spirits, whom he had created ministers for himself. He giveth us souls and bodies, which he furnisheth and storeth with infinite gifts and abilities ; and, that which far passeth all other benefits, he loosed man, being entangled in sin ; he delivered him, being a bond-slave to the devil. For the Son of God setteth us free into the liberty of the sons of God ; by dying, he quickeneth ; by shedding his blood, he purgeth and cleanseth ] ; he also giveth us his Spirit, whereby we may be guided and preserved in this banishment, until we be received into that our everlasting and true country. They that consider these things with a true faith cannot choose but be rapt into the praise and setting forth of God's goodness, and into a wondering at a thing doubtless to be marvelled at ; that the gracious and mighty God hath such a special care of men, than whom this earth hath nothing either more wretched or miserable. how the Here the saints of God are destitute of words, neither have thanks unto they words meet enough for this so great a matter. David Psai.viii. crieth : "O Lord our God, how wonderful is thy name in all the world ; for that thou hast set thy glory above the heavens ;" and as it followeth2 in the eighth psalm. And again 2 sam. iv. the same : " Who am I, O Lord God, and what is the house of my father, that thou hast brought me hitherto (or so advanced me) ? And what can David say further unto thee ? for thou, Lord God, knowest thy servant ;" and so forth, as followeth in the 2. book of Samuel, chap. vii. The same David hath set down a most notable form of blessing, or praising, or giving thanks unto God, in the ciii. Psalm, which beginneth thus : " Bless the Lord, 0 my soul ; and all that is within me, bless his holy name. Bless the Lord, O my soul,
 
 [x expiat, Lat.]
@@ -277,8 +262,6 @@ And the Lord doth so much esteem this thanksgiving, Thanksoffered unto him with 
 [3 nor — folds, not in Lat.] [•* hear thee and, not in Lat.]
 
 [5 these, not in Lat.] prayer.
-
-224 THE FIFTH DECADE. [sERM.
 
 name is great among the gentiles ; and in every place incense and a pure offering shall be offered to my name : for my name is great among the gentiles, saith the Lord of hosts." Furthermore1, this pure offering all the old interpreters "with great consent, Irenseus chiefly and Tcrtullian, do interpret JEucharistia, that is to say, praises and thanksgivings, and prayer proceeding from a pure heart and a good conscience and an unfeigned faith2. Truly, for no other cause have the ancient fathers called the Eucharist, or mystical supper of Christ, a sacrifice, than for that in it praise and thanksgiving is offered unto God : for the apostle Paul sheweth, that Christ was once offered, and that he cannot be offered often or any more. o/vlrtueof For great is the worthiness, power, and virtue, not only of praise or thanksgiving, but also of prayer wholly ; I mean, of invocation also itself. Whereof although I have already spoken somewhat3, where I declared that our prayers are effectual, yet do I add these few words. The saints truly had a most ardent desire of praying, because of the wonderful force of prayer. For, that I may say nothing of those most ancient fathers before and anon after the flood ; did not Abraham pray, when he received the promises ? and as often as he changed his dwelling, did not he call upon God ? At his prayer king Abimelech is delivered from death ; and barrenness, which the Lord, being displeased, laid upon his house, is cured. Jacob poured forth most ardent prayers unto God, and received of him4 inestimable benefits. In Exodus, Moses prayeth, not once, but often ; and taketh away the plagues from the Egyptians, which the Lord by his just judgment had brought upon them. At the prayer of Moses the Amalechites turn their backs; and, when he ceased or left off, the Israelites fled away. Again, when the fire of the Lord devoured the utmost parts of the tents of Israel, they cried unto Moses ; and Moses again cried unto the Lord : and suddenly the fire that devoured them was consumed5. Again, the people mur-
 
@@ -296,7 +279,7 @@ mured against the Lord, and Tengeance is prepared; bat Moses by mild and continu
 
 : : sun . \ i
 
-- ' -' ' - ... - It- mies. Anna, without any voice heard, by prayer putteda
+- ' -' ' - ... - It-mies. Anna, without any voice heard, by prayer putteda
 
 -. —.'.L'.r :: ~-.:j -- -,-t :'. -;;. ^ -,—-_" -^ ~:i:
 
@@ -321,8 +304,6 @@ i - .r .:-: '. :. : .:_.-,;.. _• ::.:.:. i nrs; :::-;i
 H: : :s: Ai 1 si:s --:. : -
 
 . . ll:) -77 . :
-
-22G THE FIFTH DECADE. [sERM.
 
 church crieth suppliantly for God's help, and presently without delay findeth succour : they receive much liberty to speak, and work very great signs and miracles among the people. Peter by an angel of God is brought out of a very strong and fenced prison. What should I speak of Paul and Silas praying and praising the Lord in prison? Is it not read, that the foundations of the prison were all shaken with an earthquake, and by that occasion the keeper of the prison was turned unto God ? Examples of which sort truly I could bring innumerable, but that I am persuaded that to the godly these are sufficient. And faithful men do not attribute these forces, effects, or virtues, to prayer, as to a work of ours, but as proceeding from faith ; and so to God himself, which promiseth these things, and performeth them to the faithful. For the judgment of Paul touching these is known, in the xi. to the Hebrews ; and that all glory is due to one God : who vouchsafe so to illuminate all our minds, that our prayer may always please him. Amen.
 

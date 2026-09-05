@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Peter 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## 1 Peter 4:1-5
 

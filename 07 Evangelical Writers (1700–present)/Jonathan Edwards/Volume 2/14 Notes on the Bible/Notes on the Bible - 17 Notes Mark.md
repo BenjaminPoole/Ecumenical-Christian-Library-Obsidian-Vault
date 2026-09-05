@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Mark
 
 [76] Mark i. 24. “Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.” The devils were exceedingly jealous of Christ; they understood of old that the Son of God was to come into the world to destroy them, and they dreaded that destruction. It is probable that Christ came in a manner very unexpected to them, as well as to the Jews; but yet they were sensible who he was, they seemed to think that Christ appeared in so low and obscure a manner, out of some secret design against them; that he came in disguise that they might not know of it, that he might some way or other be under better advantage to overthrow them; they therefore are willing to let him know that they knew who he was.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Greatest Gift in Time or Eternity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2534
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, I have given Him for a Witness to the people, a Leader and Commander to the people. Behold, You shall call a nation that You know not, and nations that knew not You shall run unto You because ofthe LORD Your God, and for the Holy One of Israel; for He has glorified You. Seek you the LORRD while He may be found, call upon Him while He is near." Isaiah 55:4-6.
 
@@ -85,7 +82,7 @@ There it stands in His Word and there is nothing after it! There is no hope—sm
 
 Make sure work of it and do it at once! Trust Jesus! Trust Him wholly! Trust Him fully! Leave your sin, leave your self-righteousness, quit it all! Give yourself up to Christ to be made holy, to be taught to do His will and to be His servant all your days! Then, blessed be His name, He will save you, for God gave Him on purpose that He might do so, and He will, and the will of the Lord shall be done in you! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 53; 55:1-7.
+## Exposition by C. H. Spurgeon: Isaiah 53; 55:1-7
 
 Isaiah 53:1. Who has believed our report? And to whom is the arm of the Lord revealed? It is no new thing for Gospel ministers to be disappointed. Even Isaiah, the most evangelical of all the Prophets, who might well be placed at the head of the College of Preachers, feels compelled to say, in the name of all that sacred brotherhood, "Who has believed our report?" The report was a very plain one, a very earnest one and full of noble matter. Men ought to have believed it, but they did not, and they never will unless God's arm is revealed, for faith is the product of Omnipotence— and men never believe in Christ till God stretches out His arm! Where was the difficulty of believing the report about Christ? Isaiah tells us about Him and, as we listen, we understand why so many believe not on Him.
 
@@ -136,7 +133,6 @@ Me."
 5\. Behold, you—That is, Jesus, the Son of David: "Behold, You—
 
 5-7. Shall call a nation that You know not, and nations that knew not You shall run unto You because of the Lord Your God, and for the Holy One of Israel; for He has glorified You. Seek you the Lord while He may be found, call you upon Him while He is near: let the wicked forsake his ways, and the unrighteous man his thoughts: and let him return unto the Lord, and He will have mercy upon him; and to our God, for He will abundantly pardon. Oh, that many may put this blessed promise to the proof even now, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2533 The Ever-present Crisis|← #2533]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2535 A Singular Plea in Prayer|#2535 →]]

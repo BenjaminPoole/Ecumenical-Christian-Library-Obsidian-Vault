@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Glorious Hereafter and Ourselves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 912
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 23, 1870,.
+*Delivered on Lord's-Day Morning, January 23, 1870*
 
 > "Now He that has worked us for the same thingis God, who also has given unto us the earnest of the Spirit." 2 Corinthians 5:5.
 
@@ -180,7 +179,6 @@ work is God, there is no fear that He will forsake or leave His work undone. The
 Dear Hearers, the unhappy thing about this is that there are so many who have no desires for the blessed hereafter, no fitness for it, no earnest of it. Ah, then, the prophecies that are within you—what do they foretell? No yearning for Heaven—does not that foretell that there is no Heaven for you? No fitness for the Presence of God. What does that say? Why, that in the Presence of God you shall not rest. Earnest of the Spirit? Why, you almost laugh at the idea. Ah, then, no earnest is a proof that there is no reward for you.
 
 But what then? Will you be annihilated? Will you pass out of this existence and cease to be? Dark as were that prospect—yes, dark as midnight—yet were it brighter than the fate which the Word of God allots you. There will be darkness, but you shall live in it. There will be death, but in it you must ceaselessly exist. For if the righteous are promised "life eternal," it is also written, "these shall go away into everlasting punishment." God save you from such woe by leading you to trust the Savior. Then you will confess with us, "He that has worked us for the same thing is God," and unto God be the glory. Amen.
-
 
 ---
 [[Sermon 0911 The Putting Away Of Sin|← #911]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0913 Method and Music, Or the Art of Holy and Happy Living|#913 →]]

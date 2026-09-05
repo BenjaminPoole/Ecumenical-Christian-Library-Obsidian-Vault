@@ -11,12 +11,11 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 77. Decade 5, Sermon 10, Part 4
 
 Judges, i. 8. Martyrs, ii. 105. Mary [Miriam J, i. 48; ii. 170. Mary, Virgin, iii. 14 ; iv. 33. Mary, the mother of John Mark, ii. 21. Mascelzer, i. 381. Masses, private, iv. 417. Massilia, the citizens of, i. 294. Masters, duties of, i. 281.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Mathematical, i. 221 ; ii. 2:11. Matrimony, of Christian, iv. 509. Matthias, it. L31, 132, 133. Mauritius, iv. 139, 516.
 
@@ -160,7 +159,7 @@ Mow, a heap of corn, ii. 231.
 
 Murder, ii. 233 ; condemned among the Gentiles, i. 203; all things in which
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 it consists forbidden, 299 ; causes of,
 
@@ -174,7 +173,7 @@ N. Naaman, iii. 208 ; iv. 124, 255, 489. Naboth, i. 307. Nabuchodonosor, i. 325;
 
 205; of man not the cause of sin, ii.
 
-362 ; what and how great the corruption of, 393. Natures, the two in Christ unconfound- ed, iii. 262, 264 ; iv. 456. Natures of things changed, iv. 261. Nazarites, iv. 113, 481 ; the discipline of, ii. 207; abrogated, 271; complained of by Amos, iv. 494. Nazir, ii. 207. JVectareus, iii. 77. Nehemias, iv. 225. Neighbour, who is our, i. 184; how must be loved, 186; love of, must be sincere, ib. ; must be loved as ourself,
+362 ; what and how great the corruption of, 393. Natures, the two in Christ unconfounded, iii. 262, 264 ; iv. 456. Natures of things changed, iv. 261. Nazarites, iv. 113, 481 ; the discipline of, ii. 207; abrogated, 271; complained of by Amos, iv. 494. Nazir, ii. 207. JVectareus, iii. 77. Nehemias, iv. 225. Neighbour, who is our, i. 184; how must be loved, 186; love of, must be sincere, ib. ; must be loved as ourself,
 
 187 ; be loved as Christ loved us, ib. ;
 
@@ -256,7 +255,7 @@ Orders, what the Lord hath instituted in his church, iv. 104 ; why not received 
 
 Orphanotrophia, i. 286; iv. 498. Orphans, i. 288.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Orpheus, iii. 385.
 
@@ -400,7 +399,7 @@ Phanuel, iv. 182.
 
 Pharaoh, i. 352; ii. 79, 261, 381, 382; punished for taking Sara, i. 410 ; God
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 hardens the heart of, ii. 381; drowned in the Red sea, iv. 329.
 
@@ -520,7 +519,7 @@ Priscillianists, ii. :i03; iv. 410.
 
 Priscillianus' opinion of the soul, iii.
 
-INDEX OF SUBJECTS AND PEUSONS.
+## Index of Subjects and Peusons
 
 Private masses, iv. 417.
 
@@ -672,7 +671,7 @@ Rewards, to whom promised, ii. 314; for them that worship God, iii. 204.
 
 37—2
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Ithadamanthus, ii. 218.
 
@@ -768,7 +767,7 @@ Selling, ii. 228; whether lawful, 29. Sellum, ii. 12. Seleucians, the, set bapti
 
 Senacherib, i. 242 ; ii. 9; iii. 133. Senators, iv. 106. Seneca, ii. 415; faulty, i. 200. Sense, God giveth over to a reprobate, ii. 380. Sensitive powers of the soul, iii. 376. Separation, the water of, ii. 201.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Separatists, against, iv. 52.
 
@@ -888,7 +887,7 @@ Sodomy, i. 418.
 
 Soldier, a christian, i. 381; oath of Itoman, iv. 235.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Soldiers, mercenary, i. 277 ; what manner of, the ancient Christians were, 382; of Christ, Christians are, iv. L'30.
 
@@ -984,7 +983,7 @@ Superstition, iii. 223, 232; iv. 260.
 
 Supper, of the Lord, instead of the passover, ii. 209 ; instead of all sacrifices, 270; to be received in both kinds, iv. 68 ; the sign and thing signified in, 250 ; called the body and blood of Christ, 282 ; John vi. makes much for the interpretation of Christ's words in, 289 ; a seal of the righteousness of faith, 323 ; sundry names of, 402 ; what it is, 403 ; an holy action, 404 ; who is the author of, ib. ; when instituted, 405 ; whereof consisteth, ib. ; the words of, ib. ; after what manner celebrated and instituted, 406; whether it be lawful to add anything to the rite of, 407 ; how in old time celebrated in the church, 403; the performing of, changed, 409 ; why instituted in the form of bread and wine, 410 ; whether requires bread leavened or unleavened, ib. ; whether requires water to be mingled with the wine, ib. ; nothing to be followed in celebrating, but that which we have received of Christ, 412 ; both kinds to be given and received in, 414 ; consecration of the bread and wine in, 416 ; whether there must be one chief dealer in the action of, ib. ; where to be celebrated, 418; vessels belonging to, 419 ; what tongue to be used at, 421 ; what gestures to be used at, ib. ; taking it in the hands, 422 ; remnants of, ib. ; whether to be shut up or adored, ib. ; at what time to be celebrated, 423 ; how often to be celebrated, 424 ; for whom instituted, 426 ; not for infants, ib. ; whether to be celebrated against imminent dangers, 427 ; not to be celebrated at home, or privately, 428; used to be
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 sent to the absent, 4-'i0; not to be offered for the dead, 431 ; no sacrifice of expiation, 432 ; a sacrifice, because a sign of Christ's sacrifice, ib. ; and because a giving of thanks for our deliverance, 433; the ends of, ib., 4G7 ; Christ's bodily presence in, confuted, 435; Christ's presence in, 4 ")2; Christ's body, how eaten, and his blood, how drunken in, 457 ; two kinds of eating of, spiritual and sacramental, 4G3; Judas Iscariot present at, 404 ; what he received at, ib.; a third kind of eating of, ib. ; instituted to represent God's gifts to the church, and to gather together Christ's members, 407 ; called a league or confederacy, ib. ; instituted to keep Christ's death in memory, and to admonish Christians of their duty, 408 ; the eating and drinking of, unworthily, 409 ; how we should prepare ourselves for, 473.
 
@@ -1108,7 +1107,7 @@ Titus, iv. 133.
 
 Tobias, ii. 63, 64; book of, not canonical, iv. 533.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Tongue, the, ii. Ill; eontinency in, i. 420; in what we must pray, iv. 188; to be used at the Lord's supper, 421.
 
@@ -1180,7 +1179,7 @@ Valeria, iv. 894.
 
 Yalentinian, i. 34, 323, 331 ; ii. 281 ; iv.
 
-63, 394. Valentinians, iv. 53G. Y.il' litmus, iii. 266; iv. 77. Valerian, ii. 10G; iv. 514. Valla, iv. 219. Vandals, the, ii. 109. Varro, Marcus, i. 201. Vegetative powers of the soul, iii. ."7*;. Veil, of the tabernacle, ii. 145; of the temple, rent, 259. Vengeance taken of blood, ii. 108. Venial sins, ii. 416. Verbum, what it is, i. 37. Verily, iv. 218. Verus, ii. 10."). Vespasian, ii. 153. Vessels, belonging to the Lord's supper, iv. 419. Vestal virgins, ii. 188. Vicars, iv. 112; general, ib. Victor, iv. 57, 537. Vigilius, iii. 266. Vigilius, Tapsensis, i. 29. Vincentius Victor's opinion of unbap- tized infants, iv. 375. Virgins, in the church, iv. 512. Vitalianus, iv. 196. Yives, John Lewis, iv. 498. Vivification, of Christians, represented in baptism, iv. 329. Vows, ii. 206; abrogated, 271. Vows, monastical, i. 232 ; iv. 518. Vulgate version of the bible, iv. 541.
+63, 394. Valentinians, iv. 53G. Y.il' litmus, iii. 266; iv. 77. Valerian, ii. 10G; iv. 514. Valla, iv. 219. Vandals, the, ii. 109. Varro, Marcus, i. 201. Vegetative powers of the soul, iii. ."7*;. Veil, of the tabernacle, ii. 145; of the temple, rent, 259. Vengeance taken of blood, ii. 108. Venial sins, ii. 416. Verbum, what it is, i. 37. Verily, iv. 218. Verus, ii. 10."). Vespasian, ii. 153. Vessels, belonging to the Lord's supper, iv. 419. Vestal virgins, ii. 188. Vicars, iv. 112; general, ib. Victor, iv. 57, 537. Vigilius, iii. 266. Vigilius, Tapsensis, i. 29. Vincentius Victor's opinion of unbaptized infants, iv. 375. Virgins, in the church, iv. 512. Vitalianus, iv. 196. Yives, John Lewis, iv. 498. Vivification, of Christians, represented in baptism, iv. 329. Vows, ii. 206; abrogated, 271. Vows, monastical, i. 232 ; iv. 518. Vulgate version of the bible, iv. 541.
 
 Wages, the hirelings', ii. 230.
 
@@ -1216,7 +1215,7 @@ Whit-Sunday, i. 260; suntide, ii. 265; a time for baptism, iv. 367.
 
 White garments, used in baptism, iv. 361.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 "Whoredom, i. 401 ; ii. 227.
 
@@ -1302,9 +1301,9 @@ Zurich-see, iv. 546.
 
 Zwicers, iv. 229.
 
-INDEX
+## Index
 
-OF VARIOUS WRITERS QUOTED AND REFERRED TO.
+## Of Various Writers Quoted and Referred To
 
 ^Elius Lampridius in Vit. Alexandri Seven, i. 197; iv. 136. Ambrose, St, De Officiis Ministrorum, ii.
 
@@ -1382,7 +1381,7 @@ De Nuptiis et Concupiscentia, iv. 360. Contra duas epistolas Pelagianorum, i. 21
 
 390; iii. 398; i v. 376, 381, 392. ' De Anima et ejus Origine, iv. 380. De Praedestinatione Sanctorum, i.100. De G ratia et libero arbitrio, ii.325, 328,
 
-588 INDEX OF VARIOUS WRITERS QUOTED AND REFERRED TO.
+## 588 Index of Various Writers Quoted and Referred To
 
 Augustine, De Correptione et Gratia, iii. Enarratio in Psalm, ii. 380,401; iii. 210,297, 364; iv. 179, 297, 300, 438, Expositions in Evang. Joan. Tract. i. 86, 358 ; ii. 173, 411, 428 ; iii. 265, 352, 358, 359; iv. 42, 99, 103, 240, 258, 271, 285, 299, 300, 342, 343, 368, 455, 460, 464, 465, 470, 471. IV Verbis Apostoli. Serm. iii. 396. Augustine, Steuchus, De perenni philosophia, iii. 328. Contra Laurentium Valiam, iv. 125, Aulus Gellius, Noct. Attic, i. 48, 202,
 
@@ -1446,7 +1445,7 @@ Bonifac. VII I. Extra v. Comm. iv. 121. Clement, iv. 423. Council of Carthage, I
 
 IV., iv. 370,376. Gangra, ii. 24. Laodicea, iv. 193.
 
-INDEX OF VARIOUS WRITERS QUOTED AND REFERRED TO. 5SQ
+## Index of Various Writers Quoted and Referred To. 5sq
 
 Council of Lateran, IV., iii. 82. Nice, IV., 309.
 
@@ -1498,7 +1497,7 @@ Lactantius, Divin. Tnstit. i. 185, 191 ; ii. 85, 177, 218 ; iii. 197, 225, 231, 
 
 Macrohius, Saturn, ii. 125. Magdeburg Centur. i. 10; iv. 201. Martinus, Episc. i. 426. Massurius Sabinus, iii. 230. Melaucthon, Loc. Cora. i. 308. Ep. in Corp. Ref. i. 323; ii. 21.
 
-500 INDEX OF VARIOUS WRITERS QUOTED AND REFERRED TO.
+## 500 Index of Various Writers Quoted and Referred To
 
 Melito, iv. 540.
 
@@ -1572,9 +1571,9 @@ De Ver. et Fals. Relig. ii. 315, 398.
 
 Annot. in Jerem. iv.332.
 
-ERRATA.
+## Errata
 
-VOLUME I.
+## Volume I
 
 Page 17, line 13, for prophets : in read prophets in. See below, p. 158.
 
@@ -1584,11 +1583,11 @@ Page 17, line 13, for prophets : in read prophets in. See below, p. 158.
 
 „ 148, note 2, „ lib. „ Epist. LVII.
 
-VOLUME III.
+## Volume III
 
 Page 131, note 3, for spiritalibus read spiratilibus. „ 352, line 7, „ Job read Joh.
 
-VOLUME IV.
+## Volume IV
 
 Page xti. line 28, for numcros read nummos.
 
@@ -1600,15 +1599,15 @@ Page xti. line 28, for numcros read nummos.
 
 „ 282, „ 2, „ 274 „ 273. „ 302, „ G, „ 3G5 „ 36G.
 
-DELENDA.
+## Delenda
 
-VOLUME IV.
+## Volume IV
 
 Page xxviii, line 14, dele them.
 
-ADDENDA.
+## Addenda
 
-VOLUME L
+## Volume L
 
 Pa«-e 10, note 2. Non videtnr prajtereundum, quod Eusebius hasce epistolas (i.e.
 
@@ -1622,7 +1621,7 @@ Par. 1533. „ 58, line 23. See Bulling, adv. Anabapt. Lib. n. fol. 74. „ 67, 
 
 „ 252, line 1. Bullinger has quoted from Lombard. Sentent. Lib. in. dist. 39. „ 418, „ 8. meddling : commixtio, Lat.
 
-VOLUME II.
+## Volume II
 
 Page 106, note 2. See also Bulling, von der verfolgung, &c. Chap. 13, p. 47, and Homil. in Jesaiam, fol. 93 a. „ 217, line 19. See Zurich Letters, B. p. 243. 3G0, note 2. quaest. 2.
 
@@ -1630,13 +1629,13 @@ Page 106, note 2. See also Bulling, von der verfolgung, &c. Chap. 13, p. 47, and
 
 Argent. 1539. „ 406, note 1, line 13. Lib. i. cap. 23. „ 425, „ 8, „ 3. Cap. 4.
 
-VOLUME III.
+## Volume III
 
 Page 135, line 17. Extracted from Galatinus, De Arcanis Catliol. Veritat. Lib. II. cap. 17. „ 194, note 3. The philosopher was Anaxagoras. Lactant. Lib. m. cap. 9. „ 242, See Zurich Letters, A. p. 30.
 
 „ 245, line 37. The definition is Augustine's, Contra Maxim. Lib. n. cap. 5. „ 329, note 4, line 1. cap. 3. „ „ ,, ,, „ 2. Lib. i. cap. 6. „ 337, „ 3, „ 7. cap. 11. „ 375, „ 2, „ 4. cap. 14.
 
-VOLUME IV.
+## Volume IV
 
 Fage viii. line 15. See Vol. III. p. 57.
 
@@ -1668,19 +1667,19 @@ For all this additional information, the Editor is indebted to the obliging kind
 
 ,,409, „ 21. Sec Cyprian. De Orat. Dom. and August. De Bono Persev. cap.
 
-THE
+## The
 
-ELEVENTH ANNUAL REPORT
+## Eleventh Annual Report
 
-(FOR THE YEAR 1851.) OF
+## (For the Year 1851.) Of
 
 Stye \laxKcx Soctetjj,
 
-INSTITUTED A.D. 1840.
+## Instituted A.d. 1840
 
-FOR THE PUBLICATION OF
+## For the Publication Of
 
-THE WORKS OF THE FATHERS AND EARLY WRITERS OF THE REFORMED ENGLISH CHURCH.
+## The Works of the Fathers and Early Writers of the Reformed English Church
 
 PRESENTED TO THE GENERAL MEETING, MAY THE 25th, 1851.
 
@@ -1704,7 +1703,7 @@ Bishop Woolton's Christian Manual.
 
 Little need be said in commendation of such books as these. The Council may, however, remind Subscribers that in the works of Archbishop Whitgift an entirely new field is opened out. Hitherto the controversial treatises they have published, as of Ridley, Cranmer, Jewel, and others, have been directed against the Romanists, and almost every point of dispute which could arise with them has been fully discussed and elucidated ; so that those who are called to contend against the corruptions of the Papacy may find efficient weapons in the armories of the men who hi this country led the van-guard of the Reformation.
 
-2 THE ELEVENTH REPORT OF THE COUNCIL.
+## 2 the Eleventh Report of the Council
 
 But, after the Church had been purified in the reign of Elizabeth, there arose domestic dissension. There were men who were dissatisfied with the decent forms which had been retained: and their dissatisfaction grew, till almost every part of the polity of the Church was censured and attacked. It was Whitgift's purpose to repel these attacks, and to prove thai there was no order of the Church of England winch did not find a warrant in Scripture and Christian antiquity. His great work " The Defence of the Answer to the Admonition," must always be regarded as one of the most important productions of the age. It is a portion of this which has now been published.
 
@@ -1718,7 +1717,7 @@ _:-hcoocoooo
 
 ~ r-t ,-H
 
-, O (N (O O O (O (N
+## , O (N (O O O (O (N
 
 OB (— I I— " i— '
 
@@ -1726,7 +1725,7 @@ OB (— I I— " i— '
 
 „ H O iQ io
 
-'A N (O O IQ
+## 'A N (O O Iq
 
 O pq
 
@@ -1772,7 +1771,7 @@ Ph fn P4 Ph
 
 _: O CO O i-i ~ 1— I
 
-, O N 00 CO
+## , O N 00 Co
 
 O O ~h CO jf{ i-H o co (m s o
 
@@ -1780,9 +1779,9 @@ I I c3 j»
 
 .2 ° a2 (J PP
 
-TIIE LAWS OF THE PARKER SOCIETY.
+## Tiie Laws of the Parker Society
 
-LAWS OF THE PARKER SOCIETY
+## Laws of the Parker Society
 
 I. — That the Society shall be called The Parker Society, and that its objects shall be — first, the reprinting, without abridgement, alteration, or omission, of the best Works of the Fathers and Early "Writers of the Reformed English Church, published in the period between the accession of King Edward VI. and the death of Queen Elizabeth ; secondly, the printing of such remains of other Writers of the Sixteenth Century as may appear desirable (including under both Classes, some of the early English Translations of the Foreign Reformers ; ) and thirdly, the printing of some manuscripts of the same Authors, hitherto unpublished.
 
@@ -1800,17 +1799,17 @@ VII. — That, after the commencement of the procedings, no rule shall be made o
 
 VIII. — Donations and Legacies will be thankfully received ; the amount of which shall be expended by the Council in supplying copies of the publications to clerical, or other libraries, destitute of funds to purchase the same, and for such other purposes, connected with the objects of the Society, as the Council may determine.
 
-THE MEMBERS OF THE PARKER SOCIETY. 5
+## The Members of the Parker Society. 5
 
-THE FOLLOWING NAMES, AMONG OTHERS, ARE IN THE LIST OF SUBSCRIBERS TO
+## The Following Names, Among Others, Are in the List of Subscribers To
 
 Ojc $)avftcr Society
 
-HIS ROYAL HIGHNESS THE PRINCE ALBERT.
+## His Royal Highness the Prince Albert
 
-HIS MAJESTY THE KING OF PRUSSIA.
+## His Majesty the King of Prussia
 
-HER ROYAL HIGHNESS THE DUCHESS OF KENT.
+## Her Royal Highness the Duchess of Kent
 
 His Grace the Lord Archbishop of Canterbury. — His Grace the Lord Archbishop of York.
 
@@ -1864,9 +1863,9 @@ The Reverend Dr. Sadlier, Provost of Trinity Coll., Dublin.— The Venerable Arc
 
 Libraries.— The Royal Library, Berlin.— Balliol Coll. Oxford.— Gonvillc and Cains, Pembroke, and Queens' Coll. Cambridge. — Wadham and Worcester Coll. Oxford.— Trinity Coll. Dublin.— University of Edinburgh.— King's Coll., London. Advocates' Library, and Library of the Writers to the Signet, Edinburgh.— St. Bees' Coll.— Cathedrals of Chester and Cashel.— The London Institution.— The London Library.— The Chetham Library, Manchester; and many other Collegiate, Public, and School Libraries, &c
 
-THE COUNCIL AND OFFICERS7
+## The Council and Officers 7
 
-THE COUNCIL AND OFFICEES FOR 1852-53.
+## The Council and Officees for 1852-53
 
 President.
 
@@ -1888,7 +1887,7 @@ Hon. A, Kinnaird, H. Pownall, Esq., and F. Lowe, Esq,
 
 Bankers. Messrs. Herries, Farquhar, and Co., No. 16, St. James's Street.
 
-REGULATIONS FOR DELIVERY OF THE BOOKS PUBLISHED BY THE SOCIETY.
+## Regulations for Delivery of the Books Published by the Society
 
 I. They will be delivered, free of expense, at the office, or within three miles of the General Post Office, London.
 
@@ -1904,7 +1903,7 @@ VI. They will be delivered in Edinburgh and Dublin as in London, and forwarded f
 
 s a 2Ltst of tlje SHorfcs
 
-ALREADY PUBLISHED BY THE PARKER SOCIETY.
+## Already Published by the Parker Society
 
 ~ /The Works of Bishop Ridley.
 

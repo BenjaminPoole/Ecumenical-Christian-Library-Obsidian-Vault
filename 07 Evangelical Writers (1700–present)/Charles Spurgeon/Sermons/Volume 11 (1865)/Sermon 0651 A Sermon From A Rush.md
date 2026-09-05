@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # A Sermon From A Rush
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 651
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 24, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 24, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Job 8:11-13.
 
@@ -166,7 +165,6 @@ Believers, you have looked before. But if that is a matter of question, look now
 Only trust Him with your soul. Have done with all your works, your willings, your prayers, your tears, your everything as a ground of confidence, and trust in HIM who died for sinners and you "shall never perish, neither shall any pluck you out of His hands." The Lord grant we may be found right at last for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 139.
-
 
 ---
 [[Sermon 0650 Judgment Threatening But Mercy Sparing|← #650]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0652 Jesus The Shepherd|#652 →]]

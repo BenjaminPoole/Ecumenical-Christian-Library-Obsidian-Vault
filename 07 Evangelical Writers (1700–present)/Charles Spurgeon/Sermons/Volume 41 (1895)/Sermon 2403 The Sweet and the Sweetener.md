@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Sweet and the Sweetener
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2403
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My meditation of Him shall be sweet." Psalm 104:34.
 
@@ -99,7 +96,7 @@ I have done when I have just given you one more thought. Our text might be read 
 
 Well now, you belong to Christ and because you belong to Him, He accepts your meditations because He accepts you! And He takes a delight even in those poor broken perplexed thoughts of yours! He knows that if you could sing like the seraphim, you would do so. If you could serve Him as the angels do, you would. Well, if you cannot do that, you can at least meditate on Christ—and your meditation of Him shall be sweet to Him. Oh, then, give Him much of it, and God bless you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM104.
+## Exposition by C. H. Spurgeon: Psalm 104
 
 I trust that we have already felt something of holy enjoyment while our hearts and voices have been praising the Lord our God. Perhaps this Psalm may help to keep us in a praising state of mind. First of all, David sang of the majesty of God in His works. Then it seems as if the spirit of praise within him became like a strong-winged angel and, mounting into the sky, he began to soar aloft over the varied landscapes of the world until the sun went down. And even then, he continued moving along through the darkness till the sun arose again and found him still praising his God! We will note, as we read the Psalm, this strange, mysterious flight of the spirit of praise.
 
@@ -154,7 +151,6 @@ Verse 1. Bless the LORD, O my Soul. There is the keynote. Strike it, my Brothers
 "Bless the Lord, O my Soul."
 
 May each of us say the same!
-
 
 ---
 [[Sermon 2402 Under Arrest|← #2402]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2404 A People Prepared for the Lord|#2404 →]]

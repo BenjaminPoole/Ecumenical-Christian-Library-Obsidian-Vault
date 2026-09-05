@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Tokens For Good
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1559
-
-DELIVERED BY.
 
 > "Show me a token for good; that they which hate me may see it and be ashamed: because You, Lord, have helped me and comforted me." Psalm 86:17.
 
@@ -178,7 +175,6 @@ Here we leave these words, only adding this—what an unhappy state must those b
 Whatever you make, your god is like yourself and both you and it must pass away before long! Your hope shall be as a spider's web and your expectation shall melt like the frost when the sun rises. The Lord is coming! The Lord is coming and woe unto hypocrites in that day! It will go ill with self-confident men in that day! But as for such as trust the Lord, do you know what they say? And they speak as Inspiration bids them speak—"I shall be satisfied." I am not yet, but I shall be satisfied. And when shall I be satisfied? "When I awake with Your likeness." When the archangel's trumpet sounds and wakes me into immortal perfection, then shall I be satisfied!
 
 Oh seek the Savior's face! dear Hearts, that never have sought Him yet, seek Him now! There is no satisfaction to be had apart from Him! Get away to Him! Get away to Him tonight! Cry unto Him, for He will hear you! Come unto Him, for He will receive you! May His Divine Spirit lead you to cast yourselves on Him, for He will in no wise cast you out! The Lord bless you, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1558 Rare Fruit|← #1558]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1560 The Plain Man's Pathway To Peace|#1560 →]]

@@ -10,10 +10,9 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # PART VIII.
 
-AFTER HIS RETURN FROM HIS LAST JOURNEY TO SUSQUEHANNAH, UNTIL HIS DEATH.
+*After His Return from His Last Journey to Susquehannah, until His Death*
 
 HITHERTO Mr. Brainerd had kept a constant *diary*, giving an account of what passed from day to day, with very little interruption: but henceforward his diary is very much interrupted by his illness; under which he was often brought so low, as either not to be capable of writing, or not well able to bear the burden of a care so constant, as was requisite, to recollect every evening what had passed in the day, and digest it, and set down an orderly account of it in writing. However, his *diary* was not wholly neglected; but he took care, from time to time, to take some notice in it of the most material things concerning himself and the state of his mind, even till within a few days of his death; as the reader will see afterwards. [^401]
 

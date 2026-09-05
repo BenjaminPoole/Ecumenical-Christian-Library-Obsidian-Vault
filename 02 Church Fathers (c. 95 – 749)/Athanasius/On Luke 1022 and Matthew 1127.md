@@ -14,10 +14,7 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # On Luke 10:22 and Matthew 11:27
-
-On Luke 10:22 and Matthew 11:27
 
 § 1. This text refers not to the eternal Word but to the Incarnate.
 

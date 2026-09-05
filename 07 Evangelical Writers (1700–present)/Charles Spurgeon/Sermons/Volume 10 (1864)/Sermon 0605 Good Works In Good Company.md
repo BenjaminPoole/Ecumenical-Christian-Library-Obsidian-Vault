@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Good Works In Good Company
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 605
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 18, 1864, BY C, H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 18, 1864, by C, H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Come, my Beloved, let us go forth to the field. Let us lodge in the villages. Let us get up early to the vineyards. Let us see if the vine has budded, whether the grape blossoms are open and the pomegranates are in bloom. There will I give You my love. The mandrakes give off a fragrance, and at our gates are pleasant fruits, all manner new and old, which I have laid up for You, O my Beloved." Song of Solomon 7:11-13.
 
@@ -142,7 +141,6 @@ Truly, Beloved, those are the best and most acceptable services in which Christ 
 We are asked, sometimes for proofs of our religion. There is one proof which we defy anyone to contradict and this is the intense joy which the love of Christ gives to us. We are not fools, and I may add we are not dishonest—our witness is that there is a joy in love to Christ and in the enjoyment of His Presence! A joy which could not possibly have come to us from any but a Divine source!
 
 We do not speak because we have not tried other joys—some of us have had our fill of them. We can say of some that their sweet is soon lost in bitterness. Of others that they stale upon our taste. But communion with Christ has no aftertaste in it. It never grows stale. It is a sun without spots! It is a moon which never wanes! It is an ocean which never ebbs—it is a river which flows on forever—it is all Heaven and all bliss! Oh, if you did but know it you would never doubt again—your soul would rest implicitly upon Christ, whom God has set forth to be the Propitiation for sin! And, remember, if you rest upon Him and trust Him, you are saved and shall be with Him, where He is, to behold His Glory forevermore! May God bless these words for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0604 The Man With The Measuring Line|← #604]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0606 Mary'S Song|#606 →]]

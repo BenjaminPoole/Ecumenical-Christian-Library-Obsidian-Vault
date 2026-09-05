@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Superlative Excellence Of The Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 574
 
-DELIVERED ON SUNDAY MORNING, JUNE 12, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, June 12, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Nevertheless I tell you the truth. It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send Him unto you." John 16:7.
 
@@ -130,7 +129,6 @@ I would not care for the loud shouts of some of our Methodist Brethren, though i
 Prayer can get anything of God, prayer can get everything—God denies nothing to the man who knows how to ask. The Lord never shuts His storehouse till you shut your mouth! God will never stop His arm till you stop your tongue. Cry aloud and spare not! Give Him no rest till He sends forth His Spirit once again to stir the waters and to brood over this dark world till light and life shall come! Cry day and night, O you elect of God, for He will avenge you speedily. The time of battle draws near! Rome sharpens her sword for the fight! The men of error gnash their teeth in rage! Now for the sword of the Lord and of Gideon! Now for the old might and majesty of the ancient days! Now for the shaking of the walls of Jericho, even though we have no better weapons than rams' horns! Now for the driving out of the heathen, and for the establishment of God's Israel in the land! Now for the coming of the Holy Spirit with such might and power that as Noah's flood covered the mountaintops, Jehovah's flood of Glory shall cover the highest summits of sin and iniquity and the whole world over, the Lord God Omnipotent shall reign!
 
 You who have not the Spirit pray for it. May He prompt you to pray this morning! Unconverted Sinners, may the Spirit give you faith! Remember that the Holy Spirit tells you to trust Christ. If you honor the Holy Spirit, trust Christ. I know you must be regenerate, for the man who trusts Christ is regenerate. You must repent, you must be holy, but the man who trusts Christ shall repent and shall be made holy. The germs of repentance and holiness are in him already. Trust Christ, Sinner! It is the Holy Spirit's mandate to you this morning. May He constrain you to trust Him and He shall have the Glory, world without end. Amen.
-
 
 ---
 [[Sermon 0573 Baptismal Regeneration|← #573]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0575 The Pierced One Pierces The Heart|#575 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 139
-
-**PSALM 139**
 
 In this Psalm David, that he may dismiss the deceptive coverings under which most men take refuge, and divest himself of hypocrisy, insists at large upon the truth that nothing can elude the divine observation — a truth which he illustrates from the original formation of man, since he who fashioned us in our mother’s womb, and imparted to every member its particular office and function, cannot possibly be ignorant of our actions. Quickened by this meditation to a due reverential fear of God, he declares himself to have no sympathy with the ungodly and profane, and beseeches God, in the confidence of conscious integrity, not to forsake him in this life. [^1]
 

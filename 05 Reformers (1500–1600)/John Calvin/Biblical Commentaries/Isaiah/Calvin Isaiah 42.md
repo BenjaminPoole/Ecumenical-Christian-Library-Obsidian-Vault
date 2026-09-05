@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 42
 
-**CHAPTER 42.**
+***Chapter 42.***
 
 ## Isaiah 42:1-25
 

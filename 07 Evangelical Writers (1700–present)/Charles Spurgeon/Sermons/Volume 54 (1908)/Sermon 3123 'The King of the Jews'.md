@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # 'The King of the Jews'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3123
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Pilate wrote a title, and put in on the Cross. And the writing was, JESUS OF NAZARETH, THE KING OF THE JEWS." John 19:19.
 
@@ -67,7 +64,7 @@ Dearly beloved Friends, this is the conclusion of the whole matter, let us cheer
 
 I looked into the darkness and I thought I saw a Cross before me. And I saw Him who did once hang upon it. But, as I looked at it, that Cross seemed to grow. It seemed to become a tree and I saw it strike its roots down deep until the lowest depths of human misery had been touched and blessed by them. Then I saw that tree tower on high, piercing the clouds, passing through the very firmament up above the stars, lifting Believers up upon it and bearing them to the very Throne of God by its majestic power! Then I saw that tree stretch forth its mighty branches on every side. Their shadow fell across this highly-favored land of ours and also fell across the land on the other side of the sea. As I watched, the blessed branches stretched out to Europe, to Asia, to Africa, to America and to Australia, also. I watched it grow till it became so vast a tree that its shadow seemed to cover the whole earth! And I blessed and adored the God of Heaven that He had instituted so mighty a power for the blessing of the sons of men! O Jesus, once crucified but now exalted, so let it be! And let us be Your humble instruments in promoting the extension of Your blessed reign! And we will always adore You, as we do now, not only as "Jesus of Nazareth, the King of the Jews," but as "the blessed and only Potentate, the King of kings and Lord of lords to whom be honor and power everlasting. Amen."
 
-EXPOSITION BY C. H. SPURGEON: JOHN19:1-37.
+## Exposition by C. H. Spurgeon: John 19:1-37
 
 Verse 1. Then Pilate therefore took Jesus, and scourged Him. This was one of the most terrible punishments to which a man could be sentenced. The Roman scourge was no trifle. It tore off the quivering flesh of the agonized sufferer for it was constructed on purpose to do so. It was generally made of the sinews of oxen, intertwisted with the knuckle bones of sheep and small slivers of bone. This torture our blessed Savior endured. These are the stripes with which we are healed.
 
@@ -108,7 +105,6 @@ mockery there was in Pilate's use of this title, and yet how true it was! They a
 Volume 7—IT IS FINISHED! and #2344, Volume 40—CHRIST'S DYING WORD FOR HIS CHURCH.] Consummatum est. "The work is done, Redemption is accomplished. The salvation of My people is forever secured."
 
 30-37. And He bowed His head, and gave up the ghost. The Jews therefore, because it was the preparation, that the bodies should not remain upon the Cross on the Sabbath, (for that Sabbath was an high day), besought Pilate that their legs might be broken, and that they might be taken away. Then came the soldiers, and broke the legs of the first, and of the other which was crucified with Him. But when they came to Jesus, and saw that He was dead already, they broke not His legs: but one of the soldiers with a spear pierced His side and forthwith came out bloodand water. Andhe that saw it bares record and his record is true: andhe knows that what he says is true, that you might believe. For these things were done, that the Scripture should be fulfilled, A bone of Him shall not be broken. And again another scripture says, They shall look upon Him whom they pierced.
-
 
 ---
 [[Sermon 3122 Craving the Best Things|← #3122]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3124 Real Contact With Jesus|#3124 →]]

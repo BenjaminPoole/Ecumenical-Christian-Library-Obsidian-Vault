@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Brave Waiting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1371
 
-DELIVERED ON LORDS-DAY MORNING, AUGUST 26, 1877,.
+*Delivered on Lords-Day Morning, August 26, 1877*
 
 > "Wait on the Lord: be of good courage and He shall strengthen your heart: wait, I say, on the Lord." Psalm 27:14.
 
@@ -148,7 +147,6 @@ come of it. Wait upon the Lord!
 They rail at you. Take care not to rail back. Make no reply to howling wolves. When dogs bark, let them bark, for it is their nature. They will leave off when they have done and so, with all our adversaries, they will confute themselves if we will but leave them alone. Our strength is to wait upon the Lord! Tell Him about it and leave it with Him. Go to the Law? Yes, but get a suit which will not wear out in a hurry. Go to the Law and bring upon yourself no end of troubles. In all other things except slander—if you want a thing done—do it yourself. But there, if you want to be well defended, let others defend you. Dirt will rub off when it is dry—be bravely patient.
 
 Wait upon the Lord, commit everything to Him and He will see you through, even to the triumphant end. All that you can do in your own justification will only make more mischief. Hands off, there, and leave it with the Most High. So we close by repeating our blessed text—"Wait on the Lord: be of good courage, and He shall strengthen your heart: wait, I say, on the Lord," May He keep you waiting courageously, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1370 Sheep Among Wolves|← #1370]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1372 God Our Portion and His Word Our Treasure|#1372 →]]

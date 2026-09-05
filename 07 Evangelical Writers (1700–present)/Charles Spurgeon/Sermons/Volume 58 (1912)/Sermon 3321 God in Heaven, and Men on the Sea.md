@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # God in Heaven, and Men on the Sea
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3321
 
-DELIVERED BY C. H. SPURGEON, ON BEHALF OF THE BRITISH AND FOREIGN SAILORS' SOCIETY,.
+*Delivered by C. H. Spurgeon, on Behalf of the British and Foreign Sailors' Society*
 
 > "By terrible things in righteousness will You answer us, O God of our salvation; who are the confidence of all the ends of the earth, and of them that are afar off upon the sea." Psalm 65:5.
 
@@ -106,7 +105,6 @@ Beloved Friends, those that go down to the sea in ships soon find out their own 
 I exhort all Believers here to have more confidence in God than in all besides. Believe in the Lord a thousand fathoms deep. You will never believe too much nor too well of God. If friends forsake, if all means of comfort fail, let your confidence be so thoroughly in God that such things make no difference to you! It is a grand thing to get off the stocks and really float on the main sea. It is glorious to have an anchor in the skies and to hold to that, alone, when everything else is dragging and the earth itself is dissolved! A sailor is often brought to where, if God does not help him, he will be swallowed up—and you and I are always in the same condition. God is our All and we rest in Him, but apart from Him we are eternally wrecked!
 
 God bless you, my shipmates! We are not yet come to the Pacific Seas—we are still rounding the Cape of Storms, but another name for it is the Cape of Good Hope! With God for our confidence we are not afraid. We shall all meet around the flagship of our Great Captain in the Fair Havens above. We are lying in these roads tonight very near each other, but may never cross each other's track again on this life's voyage. Meet me in the Islands of the Blessed, in the Land of the Hereafter, where the sun shall go no more down forever! The Lord Jesus steer you there! Amen.
-
 
 ---
 [[Sermon 3320 A Bad King's Good Son|← #3320]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3322 Hiding Among the Stuff|#3322 →]]

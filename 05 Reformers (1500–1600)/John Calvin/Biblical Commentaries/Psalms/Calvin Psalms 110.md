@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 110
-
-**PSALM 110**
 
 In this psalm David sets forth the perpetuity of Christ’s reign, and the eternity of his priesthood; and, in the *first* place, he affirms, That God conferred upon Christ supreme dominion, combined with invincible power, with which he either conquers all his enemies, or compels them to submit to him. In the *second* place, he adds, That God would extend the boundaries of this kingdom far and wide; and, in the *third* place, That Christ, having been installed into the priestly office with all the solemnity of an oath, sustains the honors of that equally with those of his regal office. *Finally,* That this shall be a new order of priesthood, whose introduction shall put an end to the Levitical priesthood, which was temporary, and that it shall be everlasting.
 

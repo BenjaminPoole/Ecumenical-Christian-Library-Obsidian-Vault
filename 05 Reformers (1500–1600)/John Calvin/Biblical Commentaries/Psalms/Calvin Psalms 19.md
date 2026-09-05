@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 19
-
-**PSALM 19**
 
 To the chief musician. A song of David.
 

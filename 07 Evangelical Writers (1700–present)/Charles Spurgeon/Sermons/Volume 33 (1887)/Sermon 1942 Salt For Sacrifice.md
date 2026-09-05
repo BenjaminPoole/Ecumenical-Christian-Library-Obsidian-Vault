@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Salt For Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1942
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And every oblation of your meat offering shall you season with salt; neither shall you suffer the salt of the Covenant of your God to be lacking from your meat offering: with all your offerings you shall offer salt." Leviticus 2:13.
 
@@ -101,14 +98,13 @@ The Lord bless you, Beloved, by making you all holy! And if you will not be holy
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ephesians 4. HYMNS FROM "OUR OWN HYMN BOOK"—386, 623, 435.
 
-LETTER FROM MR. SPURGEON
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS—The severe weather in England has induced the officers of the Church at the Tabernacle to persuade me to remain in this sheltered spot for another week. I was reluctant to do this, but, at length, feeling myself very weak, I judged it to be the best economy to take the further rest. The little meditation at the Lord's table, which is here given, will be followed by a similar one next week. And after that I hope to deliver the Word from my own pulpit. Again I beg my Readers' prayers that I may return strong for service, anointed for high enterprise. With kindest regards to the thousands of my Brothers and Sisters.
 
 Yours to serve.
 
 Mentone, January 16, 1887.
-
 
 ---
 [[Sermon 1941 Grace For Communion|← #1941]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1943 Love Joying In Love|#1943 →]]

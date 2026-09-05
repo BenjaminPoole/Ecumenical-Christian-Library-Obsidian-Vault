@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 184. Numbers 33:1-56
-
-**Numbers 33**
 
 **1.** These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies, under the hand of Moses and Aaron.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Power of Christ's Name
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2592
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And His name, through faith in His name, has made this man strong, whom you see and know. Yes, the faith which is by Him has given him this perfect soundness in the presence of you all." Acts 3:16.
 
@@ -53,7 +50,7 @@ Once more, the name of Jesus is, indeed, mighty, for it has power with God Himse
 
 II. But now, secondly, I have to call your attention to A CASE IN PROOF OF THE POWER OF CHRIST'S
 
-NAME.
+## Name
 
 The case in proof is this. There was a man who, being born lame, was, all of a sudden, perfectly restored! Not by the use of any medicine or surgery, but simply by the Apostle Peter's utterance of these words, "In the name of Jesus Christ of Nazareth, rise up and walk." The man had never walked, s o you must remember that when the power came into his feet and ankle bones, he did not know how to walk! You know that you have to teach your children to walk. As they gather strength, they acquire the art, for there is an art in it—and I should suppose that if a man had been lame from his birth and a surgeon could suddenly make his ankle bones strong, he would not be able to walk. He would not know what to do with his legs, having never used them. Certainly, he would be exceedingly awkward in his first movements.
 
@@ -85,7 +82,7 @@ Still, lest I should send you away with any mistake upon your mind, let me say t
 
 Some will not knock, they will not believe. They get into a sullen state of desperate despair and they will not rise. But the poor soul whom God blesses, no sooner hears the command than he is on the alert to obey! And he no sooner feels the cheering touch of the friend who has come to help him up, than he responds to it. And though he has no strength of his own, the needed strength comes pouring in and he stands! Oh, how surprised he is to find that he can stand! What a treat it is to stand! I know what a pleasure it is to be able to walk across the room and downstairs, with the aid of a cane, after I have been unable to put my feet to the ground for weeks. But I cannot know a thousandth part of the pleasure of this man, who had never walked a step, when he followed the two Apostles who had spoken to him in the name of "Jesus Christ of Nazareth!" He not only walked, but he felt strength enough to leap! And then he cried, with all his might, "Hallelujah! Bless the Lord!" till all the people around took up the strain. Well, that may happen to you, also, dear Friend. "Believe on the Lord Jesus Christ, and you shall be saved"—saved at this very moment! God grant it, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS3.1-21
+## Exposition by C. H. Spurgeon: Acts 3.1-21
 
 Verse 1. Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. Peter and John seem to have been linked in closest friendship. Peter had been brought back by John when he was almost despairing after having denied his Master. John lovingly found him and made him his associate. And now they "went up together into the temple at the hour of prayer." Observe, here, how very sweetly the Old Testament dispensation melts into the new. The Temple was no longer what it had been before. The type was of no further use, now that the great Antitype of the Temple had come. Yet these Apostles still went up to it at the hour of prayer. There are some men who are great at destroying. It will be time to destroy the old when the new is quite ready, and even then it may be very possible to let the darkness gradually melt away into a twilight, and so the day shall come with no great gap, no marked surprise. So Peter and John went up to the Temple at the same hour as others went. It is folly to be singular, except when to be singular is to be something more right than others.
 
@@ -108,7 +105,6 @@ Verse 1. Now Peter and John went up together into the temple at the hour of pray
 16, 17. Yes, the faith which is by Him has given him this perfect soundness in the presence of you all And now, brethren, I know that through ignorance you did it How like his Master does Peter now speak! Instead of drawing his sword, as he did when he cut off the ear of Malchus, he puts the Truth of God thus mildly. "I know that through ignorance you did it."
 
 17-21. As did also your rulers. But those things, which God before had showed by the mouth of all His Prophets, that Christ should suffer, He has so fulfilled. Repent you, therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord; and He shall send Jesus Christ, which before was preached unto you: whom the Heaven must receive until the times of restitution of all things, which God has spoken by the mouth of all His holy Prophets since the world began.
-
 
 ---
 [[Sermon 2591 Pride the Destroyer|← #2591]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2593 A Welcome for Jesus|#2593 →]]

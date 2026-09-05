@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 73. Decade 5, Sermon 9, Part 3
 
 ix.] or the lord's holy supper, &c. 475 member, and be ready to spend his life for them, according to the example of Christ ; and whether he have remitted or pardoned all anger and enmity ; and whether he be desirous to call to mind Christ's passion and the whole mystery of our redemption, and to give thanks to God for our redemption, and for all other gifts of God already received and to be received. This is the right examining, which agreeth with the receiving of the mystical supper ; and when we have done so, we may, in humbleness and fear of the Lord and with gladness2, approach to the supper of our Lord Christ.
@@ -30,29 +29,29 @@ Thus much have I said hitherto of the most holy supper of our Lord Jesus Christ,
 
 [* Memincrimus Las sacras epulas segrotis esse pharmacum, peccatoribus solatium, pauperisms largitioncm : quse sanis, justis, et divitibus, si qui reperiri possent, nullum afferrent operee pretium. Nam cum in illis Christus nobis in cibum detur, intelligimus nos sine ipso tabescere, liqui, deficere. Deinde cum in vitam detur, intelligimus nos sine ipso in nobis plane mortuos esse. Quare ea est dignitas, quam unam et optimam afferre Deo possumus, si nostram ei vilitatem et (ut ita loquar) indignitatem offeramus, ut sua misericordia nos se dignos faciat ; si animos in nobis despondeamus, ut nos in ipso consolemur ; si nos humiliemus, ut ab ipso ei'igamur ; si nos accusemus, ut ab ipso justiftcemur. Prseterea, si ad earn, quam in sua coena nobis commendat, unitatem adspiremus ; et quemadmodum nos omnes unum in seipso esse facit, ita unam omnium animam, cor unum, linguam unam nobis omnibus optemus ; hsec si perpensa et meditata babuerimus, nunquam nos ilke cogitationes perturbabunt : Nos bonorum omnium egeni et nudi, nos peccatorum sordibus inquinati, nos semimortui, quomodo corpus Domini digne manducaremus ? Magis cogitabimus, nos pauperes venire ad benignum largitorem ; cegros, ad medicum ; peccatores, ad salvatorem : dignitatem illam, quse a Deo mandatur, fide prsecipue constare ; quae omnia in Deo, nihil in nobis reponit ; deindo caritate, et ea quidem ipsa, quam Deo imperfectam otFerre satis est, ut ipsam in melius augeat, quando praestari solida non potest. — Calvin. Instit. Christ. Rel. cap. xi. p. 341. Argent. 1539. Second Edition.']
 
-478 THE FIFTH DECADE. [SERM.
+## 478 the Fifth Decade. [Serm
 
 never to be broken1. Whereupon the thing itself and our salvation requireth, that we be circumspect, and give no place to the tempter ; but agreeing altogether in Christ, and being joined into one body by faithful celebrating of the supper, we may love one another, and give everlasting thanks to our Redeemer and Lord Christ ; to whom be praise and glory no v and for ever. Amen. Amen.
 
-IT OF CERTAIN INSTITUTIONS OF THE CHURCH OF GOD.
+## It of Certain Institutions of the Church of God
 
-OF SCHOOLS. OF ECCLESIASTICAL GOODS, AND THE USE
+## Of Schools. Of Ecclesiastical Goods, and the Use
 
-AND ABUSE OF THE SAME. OF CHURCHES AND HOLY
+## And Abuse of the Same. Of Churches and Holy
 
-INSTRUMENTS OF CHRISTIANS. OF THE ADMONITION
+## Instruments of Christians. Of the Admonition
 
 AND CORRECTION OF THE MINISTERS OF THE CHURCH,
 
-AND OF THE WHOLE CHURCH. OF MATRIMONY. OF
+## And of the Whole Church. Of Matrimony. Of
 
-WIDOWS. OF VIRGINS. OF MONKS. WHAT
+## Widows. Of Virgins. Of Monks. What
 
-THE CHURCH OF CHRIST DETERMTNETH
+## The Church of Christ Determtneth
 
-CONCERNING THE SICK; AND OF
+## Concerning the Sick; And Of
 
-FUNERALS AND BURIALS.
+## Funerals and Burials
 
 ---
 [[Bullinger Dec 72 Decade 5, Sermon 9, Part 2|← 72. Decade 5, Sermon 9, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 74 Decade 5, Sermon 10, Part 1|74. Decade 5, Sermon 10, Part 1 →]]

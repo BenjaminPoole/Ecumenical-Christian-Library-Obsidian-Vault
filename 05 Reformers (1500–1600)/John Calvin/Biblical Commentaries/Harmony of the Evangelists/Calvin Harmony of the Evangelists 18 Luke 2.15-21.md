@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 18. Luke 2:15-21
-
-**LUKE 2:15-21**
 
 **15**. And it happened, after that the angels departed from them into heaven, that the shepherds then talked among themselves, Let us pass even to Bethlehem, and let us see what has happened, which the Lord hath revealed to us. **16**. And they came hastening, and found Mary and Joseph, and the babe laid in the manger. **17**. And when they had seen it, they published concerning the word which had been told them about this child. **18**. And all who heard wondered about those things which had been told them by the shepherds. **19**. Now Mary kept all these words, laying them up in her heart. [^1] **20**. And the shepherds returned, glorifying and praising God for all the things which they had heard and seen, as it had been told to them. **21**. And after that eight days were fulfilled, that the child might be circumcised, his name was called JESUS: which had been called by the angel before he was conceived in the womb.
 

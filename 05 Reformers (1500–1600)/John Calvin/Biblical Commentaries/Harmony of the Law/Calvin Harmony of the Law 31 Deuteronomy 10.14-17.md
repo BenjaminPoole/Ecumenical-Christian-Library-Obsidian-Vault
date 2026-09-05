@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 31. Deuteronomy 10:14-17
-
-**deuteronomy 10**
 
 **14.** Behold, the heaven, and the heaven of heavens, *is* the Lord’s thy God, the earth *also,* with all that therein *is.*
 

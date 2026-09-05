@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 7
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**ALWAYS FIRST IN FELLOWSHIP**
+## **Always First in Fellowship**
 
 > He goeth before you into Galilee; there shall ye see him, as he said unto you." Mark 16:7
 
@@ -23,7 +22,6 @@ Where He appointed to meet His disciples, there He would be in due time. Jesus k
 Jesus is always first in fellowship: "He goeth before you." His heart is with His people, His delight is in them, He is never slow to meet them. In all fellowship, He goeth before us.
 
 But he reveals Himself to those who come after Him: "There shall ye see him." Joyful sight! We care not to see the greatest of mere men, but to see HIM is to be filled with joy and peace. And we shall see Him, for He promises to come to those who believe in Him, and to manifest Himself to them. Rest assured that it will be so, for He does everything according to His word of promise: "As he said unto you." Catch at those last words, and be assured that to the end He will do for you "as he said unto you."
-
 
 ---
 [[FCB October 6|← October 6]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 8|October 8 →]]

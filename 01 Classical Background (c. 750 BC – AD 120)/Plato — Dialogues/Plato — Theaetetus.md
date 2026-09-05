@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Theaetetus
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-THEAETETUS
+## Theaetetus
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 Some dialogues of Plato are of so various a character that their
 relation to the other dialogues cannot be determined with any degree of
@@ -3099,17 +3094,12 @@ or outlines in which the human mind has been cast. From these the
 individual derives so much as he is able to comprehend or has the
 opportunity of learning.
 
-
-
-
-THEAETETUS
-
+## Theaetetus
 
 PERSONS OF THE DIALOGUE: Socrates, Theodorus, Theaetetus.
 
 Euclid and Terpsion meet in front of Euclid's house in Megara; they
 enter the house, and the dialogue is read to them by a servant.
-
 
 EUCLID: Have you only just arrived from the country, Terpsion?
 
@@ -3182,7 +3172,7 @@ TERPSION: Quite right, Euclid.
 
 EUCLID: And now, boy, you may take the roll and read.
 
-EUCLID'S SERVANT READS.
+## Euclid's Servant Reads
 
 SOCRATES: If I cared enough about the Cyrenians, Theodorus, I would ask
 you whether there are any rising geometricians or philosophers in that

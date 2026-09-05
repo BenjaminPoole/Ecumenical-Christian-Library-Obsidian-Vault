@@ -9,7 +9,6 @@ tags:
   - protestant-reformers
   - richard-hooker
 ---
-
 # A Sermon found among the Papers of Bishop Andrews
 
 > — Matth. vii. 7, 8.
@@ -52,19 +51,19 @@ For why? it is the glory of God to give; his very nature delighteth in it; his m
 
 I.
 
-INDEX OF TEXTS.
+## Index of Texts
 
-II.
+## II
 
-INDEX OF AUTHORITIES QUOTED.
+## Index of Authorities Quoted
 
-III.
+## III
 
-INDEX OF PRINCIPAL MATTERS.
+## Index of Principal Matters
 
-IV.
+## IV
 
-GLOSSARY OF WORDS.
+## Glossary of Words
 
 ---
 [[Hooker Sermon Two Sermons upon St Jude 2|← Two Sermons upon St Jude 2]] · [[Library/protestant reformers/Richard Hooker/Sermons and Tractates/hooker-sermons-index|Contents]]

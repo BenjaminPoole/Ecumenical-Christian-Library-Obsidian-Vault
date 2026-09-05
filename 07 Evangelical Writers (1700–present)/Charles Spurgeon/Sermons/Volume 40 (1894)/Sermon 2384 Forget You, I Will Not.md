@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "Forget You, I Will Not"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2384
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You are My servant: O Israel, you shall not be forgotten of Me." Isaiah 44:21.
 
@@ -156,7 +153,6 @@ ashamed: and the workmen, they are of men: let them all be gathered together, le
 20, 21. A deceived heart has turned him aside, that he cannot deliver his oath, nor say, Is there not a lie in my right hand? Remember these, O Jacob and Israel. Think of these false gods and be ashamed of them!
 
 21, 22. For you are My servant: I have formed you; you are My servant: O Israel, you shall not be forgotten of Me. I have blotted out, as a thick cloud, your transgressions and, as a cloud, your sin: return unto Me; for I have redeemed you. These wooden gods have done nothing of the sort. Come back to the true God and worship Him—/and be happy in His love.
-
 
 ---
 [[Sermon 2383 Seeing and Testifying|← #2383]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2385 Another Lesson From Manasseh's Life|#2385 →]]

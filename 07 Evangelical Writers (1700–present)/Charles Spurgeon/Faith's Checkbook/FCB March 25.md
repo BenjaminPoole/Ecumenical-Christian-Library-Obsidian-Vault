@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 25
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**REFRESHING SLEEP**
+## **Refreshing Sleep**
 
 > When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet" Prov. 3:24
 
@@ -25,7 +24,6 @@ When we go to bed at night, let this word smooth our pillow. We cannot guard our
 If we sleep thus we shall do well. How sweetly Peter slept when even the angel's light did not wake him, and he needed a hard jog in the side to wake him up. And yet he was sentenced to die on the morrow. Thus have martyrs slept before their burning. "So he giveth his beloved sleep."
 
 To have sweet sleep we must have sweet lives, sweet tempers, sweet meditations, and sweet love.
-
 
 ---
 [[FCB March 24|← March 24]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 26|March 26 →]]

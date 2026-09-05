@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Mistaken Notions About Repentance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2743
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then you will remember your evil ways, and your deeds that were not good, and you will loathe yourselves in your own sight for your iniquities and for your abominations." Ezekiel 36:31.
 
@@ -55,7 +52,7 @@ And though you will hate sin more, by-and-by, and you will be able to avoid it m
 
 II. Now, secondly, we are to consider SOME MISTAKEN IDEAS ABOUT THE PLACE WHICH REPENTANCE
 
-OCCUPIES.
+## Occupies
 
 I do not suppose I am addressing very many who have fallen into the popular notion that repentance is the procuring cause of the Grace of God, yet it is a very common notion. "Well, I do my best," says one, "and God is just, so I have no doubt I shall have my due reward." But you commit sin, do you not? "Yes," he replies, "but then I am sorry for it and I try to get right again as soon as I can." According to that notion, repentance is a sort of compensation for sin. If it is really so, the next time I am in that gentleman's debt, I shall not think of paying him—I shall simply tell him I am sorry I am in his debt and, of course, he will wipe out the score! He objects to that and says it would be unjust—yet that is the style in which he acts towards his God! God forbid that we should ever think that repentance can, of itself, put away any sin!
 
@@ -107,7 +104,7 @@ Believe in Jesus! Cling to Him and to Him, alone, and repentance must come into 
 
 The Lord bless you and help you to do so, for Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: EZEKIEL 36:16-38.
+## Expositions by C. H. Spurgeon: Ezekiel 36:16-38
 
 Verses 16-19. Moreover the word ofthe Lord came unto me saying, Son ofman, when the house ofIsrael dwelt in their own land, they defiled it by their own way and by their doings: their way was before Me as the uncleanness of a removed woman. Therefore I poured My fury upon them for the blood that they had shed upon the land, and for their idols with which they had polluted it and I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them. When God comes forth to deal with men according to their deserts, there will always be times of dire distress. The land of Israel was made into a wilderness. The habitations of men were burnt by fire, the inhabitants fell by the sword, or they were carried away captive—untold miseries became the lot of God's revolting people.
 
@@ -134,7 +131,6 @@ Or who has Grace so rich and free?"
 37, 38. I will increase them with men like a flock. As the holy flock, as the flock of Jerusalem in her solemn feasts. Like the multitudes of lambs that were brought up to Jerusalem at the time of the Passover—such should be the number of the chosen people once again.
 
 38, So shall the waste cities be filled with flocks of men: and they shall know that I am the LORD. The result of all this wondrous mercy was to be that they were to be ashamed of their former sins—loathe their past iniquities—and so to know the Lord as to turn from their evil ways and live unto Him.
-
 
 ---
 [[Sermon 2742 Question and Exclamation|← #2742]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2744 Lost Through One-Saved Through One|#2744 →]]

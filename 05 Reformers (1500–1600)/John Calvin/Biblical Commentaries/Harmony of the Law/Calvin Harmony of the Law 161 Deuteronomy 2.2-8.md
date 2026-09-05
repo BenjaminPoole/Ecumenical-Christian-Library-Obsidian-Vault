@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 161. Deuteronomy 2:2-8
 
 **A Repetition of the same History**
-
-**Deuteronomy 2**
 
 **2.** And the Lord spoke unto me, saying,
 

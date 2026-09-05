@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 211. Matthew 27:39-44; Mark 15:29-32; Luke 23:35-37, 39-42
-
-MATTHEW 27:39-44; MARK 15:29-32;  
-LUKE 23:35-37, 39-42
 
 **39.** And they that passed by reviled him, shaking their heads, **40.** And saying, Thou who destroyedst the temple, and buildedst it in three days, save thyself; if thou art the Son of God, come down from the cross. **41.** In like manner also the chief priests mocking, with the scribes and elders, said, **42.** He saved others, himself he cannot save; if he is the King of Israel, let him now descend from the cross, and we will believe him. **43.** He trusted in God. Let him deliver him now, if he favors him; for he said, I am the Son of God. **44.** The robbers also, who were crucified with him, upbraided him in the same manner.
 

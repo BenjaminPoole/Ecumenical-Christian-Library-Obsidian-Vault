@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Thessalonians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## 1 Thessalonians 4:1-5
 

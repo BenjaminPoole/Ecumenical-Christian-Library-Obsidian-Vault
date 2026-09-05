@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Romans 6:1-2
 

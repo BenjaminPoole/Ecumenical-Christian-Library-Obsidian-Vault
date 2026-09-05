@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # 'The Lord Is My Shepherd'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3006
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Psalm 23:1.
 
@@ -106,7 +103,6 @@ So I come back to the question I asked just now—Have you heard the voice of Ch
 Have you been translated out of the Kingdom of Darkness into the Kingdom of God's dear Son? If so, relying upon the Lord Jesus Christ, whose precious blood has redeemed every one of His chosen flock, you can say, "The Lord is my Shepherd." But if not, and you continue to follow your own devices, they will lead you to destruction! God grant that this may not be the lot of any one of us, but may we all come, with childlike confidence, and put our trust in Jesus Christ, the Son of God, the one and only Savior of sinners. And then shall each one of us be able to say, with David, "The Lord is my Shepherd; I shall not want."
 
 May God bless each one of you, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3005 Silken Cords|← #3005]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3007 Gadding About|#3007 →]]

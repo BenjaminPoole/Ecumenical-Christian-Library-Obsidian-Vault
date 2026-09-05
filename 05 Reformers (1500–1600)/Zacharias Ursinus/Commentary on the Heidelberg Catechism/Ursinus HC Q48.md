@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 48. But if his human nature is not present wherever his Godhead is, are then these two natures in Christ separated from one another
-
-**Question 48. But if his human nature is not present wherever his Godhead is, are then these two natures in Christ separated from one another**
 
 Answer. Not at all; for since the Godhead is incomprehensible and omnipresent, it must necessarily follow that the same is not limited with the human nature he assumed, and yet remains personally united to it.
 
-**EXPOSITION**
+## **Exposition**
 
 This question contains another argument, or objection, which the Ubiquitarians are wont to urge. The two natures, say they, which meet in the person of Christ, are joined by an inseparable union. Therefore wherever the Godhead of Christ is, there his humanity must also necessarily be. Ans. These two natures are joined together in such a way, that the properties of each still remain distinct. There is, therefore, no change of the one into the other, which would be the case, if both were infinite, and every where.
 
@@ -26,7 +23,7 @@ To this answer they oppose the following objections: 1. Where there are two natu
 
 The Ubiquitarians, who urge these objections, are guilty of these three most pestilential errors, or they may, at least, be regarded as attaching themselves to the views which they hold in relation to this subject. 1. With Nestorius they separate the natures in Christ, inasmuch as they substitute for the union of these natures, the equalling, or the operation, and working of one by the other: for two things, two spirits and two natures may be equal, or act mutually through each other, even without a personal union. 2. With Eutyches they confound and blend these natures, inasmuch as they make them equal. 3. They take from us the weapons with which we oppose, and refute the Arian and Sabellian heresies; for they weaken the proofs of all those portions of Scripture which attest the Divinity of Christ, by attempting to establish from them the equality of his human, with his divine nature.
 
-**III. FOR WHAT PURPOSE DID CHRIST ASCEND INTO HEAVEN?**
+## **III. For What Purpose DID Christ Ascend into Heaven?**
 
 Christ ascended into heaven for his own glory, and for that of his Father. It was proper, and necessary, that he should have a heavenly kingdom. Hence it was not expedient that he should continue on earth. "He that descended is the same also that ascended up far above all heavens, that he might fill all things." "Wherefore God hath also highly exalted him, and given him a name which is above every name, that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father." (Eph. 4:10. Phil. 2:9, 11.) It also belonged to, and was proper that Christ who is the Head should be glorified with an excellency, and superiority of gifts above all the members, which could not have been the case had he remained on earth. And still further, Christ ascended for our benefit, and that in these three respects.
 
@@ -38,7 +35,7 @@ Christ ascended into heaven for his own glory, and for that of his Father. It wa
 
 Obj. He gave the Holy Ghost both before and after his resurrection. Therefore he did not ascend for the purpose of sending him. Ans. He had, indeed, given the Holy Ghost before his ascension into heaven, but not in such copious effusions as on the day of Penticost. And whatever influences of the Spirit were given to the church from the beginning of the world, were given on account of Christ, who was to be manifested in the flesh, and would then reign in his human nature, and shed on us abundantly the Holy Ghost. Hence the Holy Ghost, on account of the decree of God, was not given in such large measures before the ascension of Christ; because God had determined to effect both by man glorified. The mission of the Holy Spirit was the chief part of the glory of Christ. It is therefore said, in John 7:39, "The Holy Ghost was not yet given," that is, the wonderful, and copious sending, or outpouring of the Spirit was not yet given, "because that Jesus was not yet glorified." "If I depart I will send the Comforter unto you." (John 16:7.) This is the reason why the mission of the Holy Ghost was deferred until after the ascension of Christ into heaven.
 
-**IV. IN WHAT DOES THE ASCENSION OF CHRIST DIFFER FROM OURS?**
+## **IV. In What Does the Ascension of Christ Differ from Ours?**
 
 Christ's ascension and ours agree, first, in this, that both, he and we, ascend to the same place. They agree, secondly, in this that both, he and we, ascend to glory. "Father, I will that they also, whom thou hast given me, be with me where I am, that they may behold my glory." (John 17:24.)
 

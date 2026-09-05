@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Communion With Christ and His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3295
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ? For we being many are one bread, and one body: for we are all partakers of that one bread." 1 Corinthians 10:16,17.
 
@@ -87,7 +84,7 @@ Beloved Friends, when you have thus received Jesus, fail not to rejoice in Him a
 
 Oh, the joy of continually entering into fellowship with Christ in such a way that you never lose His empathy! Be this yours, Beloved, every day and all the day! May His shadow fall upon you as you are in the sun, or stray in the gardens! May His voice cheer you as you lie down upon the seashore and listen to the murmuring of the waves. May His Presence glorify the main solitude as you climb the hills! May Jesus be to you an all-surrounding Presence, lighting up the night, perfuming the day, gladdening all places and sanctifying all pursuits! Our Beloved is not a Friend for Lord's-Days only, but for weekdays too! He the inseparable passion of His loving disciples. The who have had fellowship with His body and His blood at this Table may have the Lord as an habitual Guest at their own tables! Those who have met their Master in this supper room may expect Him to make their own chamber bright with His royal Presence! Let fellowship with Jesus and with the elect brotherhood be henceforth the atmosphere of our life, the joy of our existence! This will give us a Heaven below and prepare us for Heaven above!
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:14-35.
+## Exposition by C. H. Spurgeon: Matthew 26:14-35
 
 Verses 14-16. Then one of the twelve, called Judas Iscariot, went unto the chief priests, and said unto them, What will you give me, and I will deliver Him unto you? And they covenanted with Him for thirty pieces of silver. And from that time he sought opportunity to betray Him. It was one of the twelve who went to the chief priests, to bargain for the price of his Lord's betrayal! He did not even mention Christ's name in his infamous question, "What will you give me, and I will deliver Him unto you?" The amount agreed upon, thirty pieces of silver, was the price of a slave and showed how little value the chief priests set upon Jesus—and also revealed the greed of Judas in selling his Master for so small a sum. Yet many have sold Jesus for a less price than Judas received—a smile or a sneer has been sufficient to induce them to betray their Lord! Let us who have been redeemed with Christ's precious blood, set high store by Him, think much of Him and praise Him much. As we remember with shame and sorrow these thirty pieces of silver, let us never undervalue Him, or forget the priceless preciousness of Him who was reckoned as worth no more than a slave.
 
@@ -116,7 +113,6 @@ Verses 14-16. Then one of the twelve, called Judas Iscariot, went unto the chief
 34\. Jesus said unto him, Verily I say unto you, That this night, before the cock crows, you shall deny Me thrice. Jesus now tells His boastful disciple that before the next morning's cockcrowing, he will thrice deny his Lord. Not only would he stumble and fall with his fellow disciples, but he would go beyond them all in his repeated denials of that dear Master whom he professed to love with as intense an affection as even John possessed. Peter declared that he would remain true to Christ if he were the only faithful friend left. Jesus foretold that of all the twelve, only Judas would exceed the boaster in wickedness!
 
 35\. Peter said unto Him, Though I shall die with You, yet will I not deny You. Likewise also said all the disciples. Here again Peter contradicts his Master straight to His face. It was a pity that he should have boasted once after his Lord's plain prophecy that all the disciples would that night be offended. But it was shameful that Peter should repeat his self-confident declaration in the teeth of Christ's express prediction concerning him! He was not alone in his utterance, for likewise also said all the disciples. They all felt that under no circumstances could they deny their Lord. We have no record of the denial of Christ by the other ten Apostles, although they all forsook Him and fled, and thus practically disowned Him. Remembering all that they had seen and heard of Him, and especially bearing in mind His most recent discourse, the communion in the upper room, and His wondrous intercessory prayer on their behalf, we are not surprised that they felt themselves bound to Him forever. But, alas, notwithstanding their protests, the King's Prophesy was completely fulfilled, for that night they were all "offended."
-
 
 ---
 [[Sermon 3294 The Lord's Eternal Rest|← #3294]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3296 Praise for Jesus|#3296 →]]

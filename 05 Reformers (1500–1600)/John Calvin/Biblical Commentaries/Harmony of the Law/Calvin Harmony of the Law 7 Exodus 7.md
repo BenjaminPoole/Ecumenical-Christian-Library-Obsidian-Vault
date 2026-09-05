@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 7. Exodus 7
-
-**EXODUS 7**
 
 ## Exodus 7:1-7
 

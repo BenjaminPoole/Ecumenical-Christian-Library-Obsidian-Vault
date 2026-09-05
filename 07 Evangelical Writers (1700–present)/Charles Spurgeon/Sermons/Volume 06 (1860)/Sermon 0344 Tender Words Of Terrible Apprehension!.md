@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Tender Words Of Terrible Apprehension!
 
 *New Park Street Pulpit* · Sermon No. 344
 
-DELIVERED ON SABBATH MORNING, NOVEMBER 4, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, November 4, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > Psalm 9:17.
 
@@ -88,7 +87,6 @@ Two little parables by way of further encouragement, and I have done. There may 
 There is a story told concerning Thomas a'Becket—a story connected with his parentage. His father was a Saxon gentleman, who went into the Crusades, and was taken prisoner by the Saracens. While a prisoner among the Saracens, a Turkish lady loved him, and when he was set free and returned to England, she took an opportunity of escaping from her father's house—took ship and came to England. But she knew not where to find him she loved; all she knew about him was that his name was Gilbert. She determined to go through all the streets of England, crying out the name of Gilbert, till she had found him. She came to London, first, and passing every street, persons were surprised to see an Eastern maiden, attired in her Eastern costume, crying, "Gilbert, Gilbert, Gilbert!" And so she passed from town to town, till one day as she pronounced the name, the ear for which it was intended caught the sound. and they became happy and blessed!
 
 And so, Sinner, today you know little, perhaps, of religion, but you know the name of Jesus. Take up the cry and go today, and as you go along the streets, say in your heart, "Jesus! Jesus! Jesus!" When you are in your chamber say it still, "Jesus! Jesus! Jesus!" Continue your cry and it shall reach the ear for which it is meant! If your relations laugh, say, "Ah, I did not call for you." If your friends say that you are mad, reply, "Ah, it may seem so; the riddle is always foolish till you know the meaning of it." But if you should cry, "Jesus," till Jesus shall answer you, oh happy shall it be! There shall be a marriage between Him and your soul, and you, with Him, shall sit down at the marriage supper in the Glory of the Father and dwell with Him forever and ever! God add His own blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0343 A Basket of Summer Fruit|← #343]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0345 Self-Sufficiency Slain|#345 →]]

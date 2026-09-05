@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Faith Without Sight
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2721
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said to him, Thomas, because you have seen Me, you have believed: blessed are they that have not seen, and yet have believed." John 20:29.
 
@@ -71,7 +68,7 @@ III. I have spoken but briefly upon that part of our subject, although much more
 
 to devote a little more time to one other point. DO NOT LET ANY OF US MISS THIS BLESSING THROUGH NOT
 
-SEEING THE GROUND OF IT.
+## Seeing the Ground of It
 
 It is a blessed thing to trust God when you cannot trace Him—to believe when you cannot see. For, first, this is a sure mark of a spiritual and renewed mind. There were some who saw Christ who, nevertheless cried, "Away with Him, crucify Him!" There were some who saw Christ and who could not help perceiving that there was a wonderful power in Him, yet they did not believe in Him and they were not saved by Him. There were persons who saw Christ and who even, in some sense, believed in Him, yet who believed not with true saving faith. But if any of you who have not seen Him, really believe in Him, this is the evidence that you are the children of God!
 
@@ -105,7 +102,7 @@ What would I do if I could not draw near to God without my eyes and ears and han
 
 Now I close when I have just said to you who do not know whether you are converted or not, but are waiting until you have some wonderful impression, or until you hear a voice down in the garden, or until you have a striking dream or see an apparition and so on—all that rubbish will be of no use to you! Just believe in the Lord Jesus Christ without any of those things! You are a sinner and Jesus Christ is a Savior—so come and trust Him. Though you see Him not, yet is He to be found by you if you seek Him with all your heart. Therefore, wait for none of these things that I have mentioned, but come and trust Him—and blessed shall you be in believing although you cannot see Him! The Lord add His blessing, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN20:19-31.
+## Exposition by C. H. Spurgeon: John 20:19-31
 
 Verse 19. Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and said unto them, Peace be unto you. He has not risen from the tomb many hours before we find Him thus coming to His disciples. His love to them was too great to permit Him to be long absent from them. He had said to them, "A little while, and you shall not see Me and again, a little while, and you shall see Me." So He kept His word. He stood in their midst and said unto them, "Peace be unto you." He is the Lord and Giver of peace just as much, now, as He was then! Oh, that He would speak peace to the hearts of all His people now! May each believing soul among you have a deep peace! May all your troublous thoughts come to an end and every anxious mind be calmed! Peace! Blessed peace! Oh, that the Spirit of peace would breathe it upon us all! "Peace be unto you."
 
@@ -138,7 +135,6 @@ he did believe. We sometimes say a great deal that would have been far better le
 29\. Blessed are they that have not seen, and yet have believed. That is better.
 
 30, 31. And truly, many other signs did Jesus in the presence of His disciples, which are not written in this book: but these are written that you might believe that Jesus is the Christ, the Son of God; and that believing you might have life through His name. Now, dear Friends, has the purpose for which this Book was written, been answered in your case? Have you been led to "believe that Jesus is the Christ, the Son of God," and so to believe that you "have life through His name"? If not, why not? May you have Grace to answer that question, for the Lord Jesus Christ's sake! Amen. 225
-
 
 ---
 [[Sermon 2720 The Savior Resting in His Love|← #2720]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2722 The Education of Sons of God|#2722 →]]

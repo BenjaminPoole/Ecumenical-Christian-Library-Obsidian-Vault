@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 47. Letter XLVI. To his Friends at Constance (February 1415)
-
-LETTER XLVI. TO HIS FRIENDS AT CONSTANCE (February 1415)
 
 His defence; Protest to the Commission; The Sacrament of the Cup ; Do not worry over the Commission ; Crossexamined again ; He will abide by the decision of the Council ; Michael and Palecz again; "You have 70,000 florins"; The citation of his adherents 184-7
 

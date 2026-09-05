@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 18. Questions Concerning Some Abuses of the Mass
 
-QUESTIONS'
+*Questions'*
 
-PUT CONCERNING SOME ABUSES OF THE MASS.
+## Put Concerning Some Abuses of the Mass
 
-THE ANSWERS2
+## The Answers 2
 
-THAT WERE MADE BY MANY BISHOPS AND DIVINES TO THEM.
+## That Were Made by Many Bishops and Divines to Them
 
 ^t WHETHER the sacrament of the altar was instituted to be received of one man for S'Libn another, or to be received of every man for himself?
 
@@ -45,7 +44,7 @@ The mass, by Christ's institution, consisteth in those things which be set forth
 
 [2 A manuscript containing many of these an swers is preserved at Lambeth. Jcnkyns.J
 
-QUERIES CONCERNING ABUSES OF THE MASS. 151
+## Queries Concerning Abuses of the Mass. 151
 
 What time the accustomed order began first in the church, that the priest alone should receive the sacrament?
 

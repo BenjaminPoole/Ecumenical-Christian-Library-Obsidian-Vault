@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 33. I. Of Doctrine
-
-### I. Of Doctrine.
 
 Seeing that Christ Jesus is He whom God the Father has commanded only to be heard and followed of His sheep, we urge it necessary that His Evangel be truly and openly preached in every kirk and assembly of this realm; and that all doctrine repugning to the same be utterly suppressed as damnable to man's salvation.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Reasons for Turning to the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1396
 
-DELIVERED ON LORD'S-DAY EVENING, JANUARY 13, 1878,.
+*Delivered on Lord's-Day Evening, January 13, 1878*
 
 > "Come, and let us return unto the Lord. For He has torn, but He will heal us. He has struck us, but He will bind us up. After two days will He revive us. On the third day He will raise us up, and we shall live in His sight." Hosea 6:1,2.
 
@@ -164,7 +163,6 @@ Each one of you must get to work to get the outside people into the house that t
 Pray for me, I beseech of you, and having done so, prove the sincerity of your prayers by helping in the Lord's work—this will be as medicine to your sick pastor's soul and body! I rely upon you, each one, to see these services made a success, God the Holy Spirit helping you.
 
 [A fortnight elapsed between the preaching of the above sermon and its being revised. Mr. Spurgeon is mending and begs for the prayers of his friends that he may, before long, be quite restored and may return to his work in full vigor.]
-
 
 ---
 [[Sermon 1395 Family Reformation—or, Jacob's Second Visit to Bethel|← #1395]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1397 The Peace of God|#1397 →]]

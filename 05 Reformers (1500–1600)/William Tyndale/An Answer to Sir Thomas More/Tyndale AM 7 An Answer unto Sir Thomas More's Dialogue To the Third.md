@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 7. An Answer unto Sir Thomas More's Dialogue: To the Third Book
 
 An answer unto Master More's Third Book.
@@ -25,13 +24,11 @@ And when More, to utter his darkness and blind ignorance saith, that ' they whic
 
 [2 ' Now as for the days, quod I, of Noe himself, though there were
 
-134 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
-
 answer, that Nicolas de Lyra delirat. For it is impossible to have a faith to be saved by, except a man consent unto God's law with all his heart and all his soul, that it is righteous, holy, good, and to be kept of all men, and thereupon repent that he hath broken it, and sorrow that his flesh moveth unto the contrary;
 
 and then come and believe that God for his mercy will forgive him all that he hath done against the law, and will help him to tame his flesh, and suffer his weakness in the mean season, where true till he be waxed stronger: which faith if they that perished tfhereisrein Noe's flood had had, they could not but have mended
 
-Emendtneir livings, and had not hardened their hearts through un- ment of life.
+Emendtneir livings, and had not hardened their hearts through un-ment of life.
 
 belief, and provoked the wrath of God, and waxed worse and worse an hundred and twenty years, which God gave them to repent; until God could no longer suffer them, but washed their filthiness away with the flood, (as he doth the pope's shameful1 abominations with like inundations of water,) and destroyed them utterly.
 
@@ -39,7 +36,7 @@ few saved alive, yet proveth not that the people to be all miscreants and withou
 
 [i So D., but C. U. L. ed. has same.']
 
-I.] THE THIRD BOOK. 135
+## I.] the Third Book. 135
 
 And when he asketh, * whether Abraham believed no Abraham. more than was written for him?' I ask him how he will prove that there was no writing in Abraham's time, and that Abra ham wrote not? And again, as for Abraham's person, he re ceived his faith of God ; which to confirm unto others, miracles were shewed daily.
 
@@ -60,8 +57,6 @@ The papists hide the scripture.
 The scrip ture is the cause why men believe the scripture,
 
 The papists' doctrine is not to be be! ieved without scripture.
-
-136 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 but they confirmed it with miracles, which could not be done but of God, till the scripture was authentically received. And the church following teacheth nought that they will have be lieved, as an article of the faith, but that which the scripture proveth and maintaineth : as St Augustine protesteth of his works, that men should compare them unto the scripture, and thereby judge them, and cast away whatsoever the scripture did not allow1. And therefore they that will be believed without scripture are false hypocrites, and not Christ's church. For though I know that that messenger which Christ sendeth cannot lie ; yet in a company where many liars be, I cannot know which is he, without a token of scripture or of miracle.
 
@@ -105,8 +100,6 @@ Christ de livered the Jews out of error.
 
 None have more care of the scrip ture than
 
-138 ANSWER TO SIR THOMAS MORE?S DIALOGUE. [CHAP.
-
 prove it, have1 not so great trust in the scripture as in their sophistry, and in the sword which they have set up in all lands, to keep them with violence in the room,) are so far off from having the laws of God written in their hearts, that they neither by God's law, nor man's, refrain from their open out ward wicked living. Look in the chronicles, what blood it hath cost England, to attempt to bring them under the law ! Yea, and see what business the realm hath had to keep the prelates within the realm from taking the benefices with them, and lying at Rome, and yet scarcely brought it to pass, for all that the pope hath the stint of every bishopriek and of every great abbey thereto, as oft as any is void, ere a new be admitted to the room. And I see them bond unto their own will, and both to do, and to consent unto other to do, all that God hath forbidden. I see them, of all people, most vain-glorious. I see them walk after their fleshly birth. I see them so far off from the image of Christ, that not only they will not die for their flock after his ensample, but also ere they would lose one town, or village, any polling, or privilege which they have falsely gotten, bringing themselves into good pastures with wiles, and shutting their flock without, they would cast away an hundred thousand of them in one day, and beggar their realms, yea, and interdict them, and bring in strange nations, though it were the Turks, to conquer them and slay them up, so much as the innocent in the cradle. And I see that their other doctrine is for their vantage only, and that therewith they have gotten all that they have.
 
 And I find in the scripture that the Jews, before the com^ ing of Christ, knew that those books were the scripture by the scribes and the Pharisees. And yet as many as believed their other doctrine, and many expositions of the scripture, were deceived, as ye see; and how Christ delivered them out of error. And I see again (which is no small miracle), that the merciful care of God to keep the scripture to be a testi mony unto his elect is so great, that no men be more jealous over the books, to keep them, and shew them, and to allege that they be the scripture of God and true, than they which, when it is read in their ears, have no power to believe it ; as the Jews and the popish. And therefore, because they neither can believe it false, neither consent that it is true as it sound- [l So C. U. L. ed. but D. hath.]
@@ -120,8 +113,6 @@ Then in the end of the chapter M. More cometh unto his wise conclusion, and prov
 And unto the wicked Jews he saith, "Ye cannot believe, because ye be not of God." And in the same place saith he, "Ye be of your father the devil, and his will ye will do ; and he bode not in the truth," and therefore will not suffer his children to con sent to the truth. And (John in the xth) saith Christ, "Allj0hnx.
 
 that came before me be thieves and murderers, but my sheep heard not their voices :" that is, all that preach any ™e™™ ! salvation save in Christ, murder the souls. Howbeit, Christ's sheep could not consent to their lies, as the rest cannot but believe lies ; so that there is ever a remnant kept by grace. And of this I have seen divers examples. I have known as
-
-140 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [cHAP.
 
 Predesti nation.
 
@@ -149,11 +140,9 @@ And I clean contrary feel, that there is no such worldly HowTyndaie
 
 [2 Or pudding-fork. More in this same book of his Dialogue speaks of " a great post well thwyted to a pudding-prick."]
 
-Faith in chaseth for- gi
+Faith in chaseth for-gi
 
 There is no
-
-142 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 hate of his father and of his commandment thereto, and think that his father is a tyrant and his law but tyranny.
 
@@ -170,8 +159,6 @@ And therefore, when the pope describeth God after his covetous complexion, and w
 spiration, and captivating his wits unto the pope, that God forgiveth the everlasting pain, and will yet punish me a purpatory thousand years in the pope's purgatory, that leaven saSTSfpop* voureth not in my mouth. I understand my father's words as they sound, and after the most merciful manner; and not after the pope's leaven and M. More's captivating his wits, to believe that every poet's fable is a true story. There is no father here that punisheth his son to purge him, when he is purged already, and hath utterly forsaken sin and evil, and hath submitted himself unto his father's doctrine. For to punish a man that has forsaken sin of his own accord, is not to purge him, but to satisfy the lust of a tyrant : neither ought it to be called purgatory, but a iail of torPurgatory is
 
 ~f , , , . a tormenting menting, and a satisfactory. And when the pope saith rtft^jSLj, is done to satisfy the righteousness, as a judge, I say we that ilbelieve have no judge of him, but a father ; neither shall we come into judgment, as Christ hath promised us, but are received under grace, mercy, and forgiveness. Shew the 4t$ pope a little money, and God is so merciful that there is no Money purgatory. And why is not the fire out as well, if I offer purgatory. for me the blood of Christ ? If Christ hath deserved all for me, who gave the pope might to keep part of his deservings from me, and to buy and sell Christ's merits, and to make merchandise over us with feigned words ? And thus, as The pope M. More feeleth that the pope is holy church, I feel thatisi he is antichrist ; and as my feeling can be no proof to him, no more can his, with all his captivating his wits to believe
-
-144 ANSWER TO SIR THOMAS MORfi's DIALOGUE. [CHAP.
 
 phantasies, be unto me. Wherefore, if he have no other pro bation, to prove that the pope is holy church, than that his heart so agreeth unto his learning, he ought of no right to compel with sword unto his sect. Howbeit there are ever two manner people that will cleave unto God, a fleshly and a spiritual The spiritual, which be of God, shall hear God's word ; and the children of the truth shall consent unto the
 
@@ -199,8 +186,6 @@ The Third Chapter.
 
 In the third chapter he saith, that "Bilney's judges, Judges. (which he yet nameth not, for fear of slandering them) were indifferent." Nay, they that take rewards be not in different : for rewards and gifts " blind the eyes of the seeing, Deut. xv and pervert the words of the righteous" (Deut. xvi.). Now all they that be shorn take great rewards to defend pilgrim ages, purgatory, and praying unto saints : even the third part, I trow, of all Christendom. For all they have, they have received in the name of purgatory and of saints ; and
 
-146 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
-
 pur^tory is On that foundation be all their bishopricks, abbeys, colleges, dauonof and cathedral churches built. If they be indifferent judges, le^&c?1" t}iey musfc be made servants, and do service as their duty is. And when they have done a quarter's service, then give them wages, as right is : unto every man that laboureth in
 
 Christ's harvest a sufficient living, and no more; and that in the name of his labour, and not of saints, and so forth.
@@ -223,7 +208,7 @@ Then saith he, " the church receiveth no man convict of heresy unto mercy ; but 
 
 [3 It would require the insertion of a tedious poor jest of More's, to make all the clauses of this paragraph thoroughly intelligible to the reader.]
 
-IV. V. VII. VIII. IX.] THE THIRD BOOK. 147
+## IV. V. VII. VIII. IX.] the Third Book. 147
 
 Then he sheweth " how merciful they were, to receive the man to penance, that abode still in perjury and deadly sin." O shameless hypocrites ! how can ye receive into the congregation of Christ an open obstinate sinner, that repenteth not, when ye are commanded of Christ to cast all such out ? And again, O scribes and Pharisees, by what The papists i n m • ' i /» i • !.• are cruel and example of Christ and of his doctrine can ye put a man unmerciful. that repenteth unto open shame; and to that thing whereby ever after he is had in derision among his brethren, of whom he ought to be loved, and not mocked? Ye might enjoin honest things, to tame his flesh, as prayer and fasting ; and not that which should be to him shame ever after, and such as ye yourselves would not do.
 
@@ -246,8 +231,6 @@ Unto ' church, priest, charity, grace, confession and penM. More is ance/ is ans
 The Ninth Chapter.
 
 Than his ninth chapter, is there nothing more foolish.
-
-148 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 For if he would have any wise man to believe that my translation would destroy the mass, any otherwise than the Latin or Greek text, he should have alleged the place, and how.
 
@@ -278,8 +261,6 @@ his passions, to be merciful unto us, and to forgive us, according to his testam
 More : — "Deacons were had in price in the old time1."
 
 [i "The time hath been when there were very few [priests] in a great city ; and in a monastery of 500, in one house, scantly would there four monks be bold to be priests. Then was all holy orders in high honour. Then find we that the degree of a deacon was a great thing ; and of such dignity that when one of them went some time in pilgrimage, he would not be aknowen of his order," [See Vol. I. p. 465], "because he would not that folk should do him worship by the way." Dial. p. 227.]
-
-150 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 Tyndale : — For the deacons then took the care of all the poor; and suffered none to go a begging, but provided a living Christ's deafor every one of them: where now they that should be popse'snddea-he deacons make themselves priests, and rob the poor of lands, mucshdlffi rentSj offerings and all that was given them, devouring all themselves, and the poor dying for hunger.
 
@@ -327,8 +308,6 @@ And when he saith, never man could find that exposition
 
 \} Persons having the care of souls.]
 
-152 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
-
 A priest by the pope s order may till now; there he saith untrue. For St Jerome himself saith that he knew them that so expounded the text; and rebuked them of Rome, because they would not admit into the clergy them that had had two wives, the one before baptism, and the other after, saying : l If a man had killed twenty men before ^s baptism, they would not have forbidden him ; and why then shouid that which is no sin at all be a let unto him1?' But the god of Rome would not hear him. For Satan began then to work his mysteries of wickedness.
 
 And when he saith, he that hath ten wives hath but one wife2; I say that one is taken, by the use of speaking, for one only : as when I say, ' I am content to give thee one,' meaning one only ; and, ' Unto him that hath no help, is there one help, — to look for no help :' where one help is taken for one only ; and many places else.
@@ -339,7 +318,7 @@ In Jerome's Epistle to Oceanus, he says : Si quis et ante baptismum habuerit con
 
 [2 More has said, " Paul saith no more, but that the bishop must be the husband of one wife. Which words Tyndale may tell us be veri fied, if he be the husband of ten wives : for the husband of ten wives were the husband of one, as the father of ten children is the father of one." Works, p. 229.]
 
-XIII.] THE THIRD BOOK. 153
+## XIII.] the Third Book. 153
 
 I affirm unto M. More the contrary. And I say first with havea whore,
 
@@ -353,8 +332,6 @@ And I ask M. More, why he that hath the second wife, or Apparent
 
 J godliness, hath had two wives, may not be a priest; or why, if a priest's first wife die, he may not marry the second. He will answer. "e * Because the priest must represent the mysteries, or secret W'T' properties, and union of Christ, the only husband of his only wife, the church or congregation that believeth in him only/ That is, as I have in other places said, the scripture describeth Christ's us in matrimony the mysteries and secret benefits which God ufarT%ured the Father hath hid in Christ, for all them that be chosen and monyW-Tordained to believe and put their trusts in him to be saved. As when a man taketh a wife, he giveth her himself, his ho nour, his riches, and all that he hath, and maketh her of
 
-154 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
-
 equal degree unto himself; if he be king and she before a beggar's daughter, yet she is not the less queen, and in honour above all other ; if he be emperor, she is empress, and ho noured of men as the emperor, and partaker of all : even so, if a man repent, and come and believe in Christ, to be saved from the damnation of the sin of which he repenteth, Christ is his own good immediately; Christ's death, pain, prayer, passion, fasting, and all his merits, are for that man's sins a full satisfaction, and a sacrifice of might and power to absolve him a pcena et a culpa. Christ's inheritance, his love and favour, that he hath with God his Father, are that man's by and by1; and the man, by that marriage, is pure as Christ, and clean without sin, and honourable, glorious, well-beloved, and in favour, through the grace of that marriage. And because that the priest must represent us this signification, is the cause why a priest may not have the second wife, say they : which popish reason hath deceived many wise ; as who can be but deceived in some thing, if he receive all his doctrine by the authority of his elders ? — except he have an occasion, as we have, to run to Moses and the prophets, and there hear and see with our own eyes, and believe no longer by the reason of our forefathers; when we see them so shamefully beguiled themselves, and to beguile us in a thousand things which the Turks see.
 
 Now to our purpose : if this doctrine be true, then must every priest have a wife, or have had a wife : for he that never had a wife cannot represent us this. And again, he that hath an whore, or another man's wife, hath lost this property, and therefore ought to be put down.
@@ -367,13 +344,11 @@ And therefore I say still, that the apostle's meaning was, that he should have a
 
 But under sixty would Paul let none minister, for fear of occasions of unchastity ; and thereto none but such as were well known, of honest living and of good report. Now, inas much as the widow of ten husbands must be found of the common cost at her need, what unclcanncss is in her by the
 
-156 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
-
 The office of reason of her second husband, that she is not good enough to tattepriSibe a servant unto the poor people, to dress their meat, wash ' their clothes, to make their beds, and so forth, and to wash strangers' feet, that came out of one congregation unto another about business, and to do all manner service of love unto her poor brethren and sisters ? To have had the second husband, is no shame among the heathen : it is no shame among the Christians : for when the husband is dead, the wife is free to marry to whom she will in the Lord, and by as good reason the husband ; and, of right, who more free than the priest ? And therefore they shame not our doctrine nor our congrega tion, nor dishonour God among the heathen or weak ChrisRom, xiii. tians. Now when we have a plain rule, that he which loveth his neighbour as himself keepeth all the laws of God, let him tell me for what cause of love toward his neighbour a widow of two lawful husbands may not do service unto the poor people. Why may not a widow of fifty do service unto the poor ? Paul which knitteth no snares, nor leadeth us blind, nor teacheth us without a reason-giving of his doctrine, answereth, For fear of occasions of evil; lest she be tempted, or tempt other ; and then, if she be taken in misdoing, the doctrine of Christ be evil spoken of thereto, and the weak offended.
 
 And when M. More mocketh with my reason, that I would have * every priest to have a wife, because few men can live chaste;' I answer, that if he loved the honour of Christ and his neighbour, as he doth his own covetousness, he should
 
-Young find that a good argument. Paul maketh the same, and much widows were ii-i-i /» -, • T^IT miJtatefin0 more slenderly than I, after your sophistry. For he disthe common puteth thus : Some young widows do dishonest the congre- service. A «/ o o gation of Christ, and his doctrine ; therefore shall no young widow at all minister in the common service thereof; but shall all be married, and bear children, and serve their hus bands. And it is a far less rebuke to the doctrine of Christ and his congregation, that a woman should do amiss, than the bishop or priest. I am not so mad to think that there could no priest at all live chaste. Neither am I so foolish to think that there be not as many women that could live chaste at fifty, as priests at twenty-four. And yet, though of a thou sand widows of fifty years old nine hundred and ninety-nine could live chaste; Paul, because he knoweth not that one, will let none at all minister in the common service, among
+Young find that a good argument. Paul maketh the same, and much widows were ii-i-i /» -, • T^IT miJtatefin0 more slenderly than I, after your sophistry. For he disthe common puteth thus : Some young widows do dishonest the congre-service. A «/ o o gation of Christ, and his doctrine ; therefore shall no young widow at all minister in the common service thereof; but shall all be married, and bear children, and serve their hus bands. And it is a far less rebuke to the doctrine of Christ and his congregation, that a woman should do amiss, than the bishop or priest. I am not so mad to think that there could no priest at all live chaste. Neither am I so foolish to think that there be not as many women that could live chaste at fifty, as priests at twenty-four. And yet, though of a thou sand widows of fifty years old nine hundred and ninety-nine could live chaste; Paul, because he knoweth not that one, will let none at all minister in the common service, among
 
 XIII.] THE THIRD BOOK. 157 occasions of unchastity. Christ's apostles considered all infir mities, and all that might hinder the doctrine of Christ, and therefore did their best to prevent all occasions. Wherefore, Fish no as fish is no better than flesh, nor flesh better than fish, in the STnor311
 
@@ -390,8 +365,6 @@ And when he saith, "Chastity was almost received by Three lies at general custom
 They did well to choose a poet to be their defender. First, it was attempted in general council, and resisted by holy fathers, which yet themselves were never married ; saying that men might not knit a snare for their weak brethren, against the doctrine of Christ and his apostles3. Neither could it be brought to pass, until the pope had got the emperor's sword out of his hand. The Greeks, which f1 An old form of widowhood. The old editions here have widowed.'] [2 "The church, quod I, bindeth no man to chastity. That is truth, quod he, except a priest be a man. Ye mistake the matter, quod I, as I shall shew you after. When every man is at his liberty, not to be priest but at his pleasure, how can any man say that the church layeth a bond of chastity on any man's neck against his will ?" More's Works, p. 232.]
 
 [3 Such was the language held by Paphnutius in the first Nicene council : of whom Tyndale soon makes further mention.]
-
-158 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 were the one half of the Christendom then, I suppose, would never admit it.
 
@@ -412,8 +385,6 @@ XIII.] THE THIRD BOOK. 159 mind freely and liberally, for fear of some one and o
 a fashion, and partly enticed with fair promises, and partly feared with cruel threatenings : and so some are overcome with silver syllogisms ; and other for fear of threatenings are driven unto silence. And if any be found at the last, that will not obey their falsehood and tyranny, they rail on him, and jest him out of countenance ; and call him opinative, self-minded, and obstinate; and bear him in hand that the devil is in him, that he so cleaveth unto his own wit, though he speak no syl lable but2 God's word; and is asked whether he will be wiser The smrituai-
 
 « tmakehere- than other men ? And in the spiritualty they excommunicate him, and make an heretic of him. And this to be true, in the clergy's chastity, is as clear as the day by manifest chronicles: insomuch that the prelates of Rome were a brewing it above [2 So D., the C. U. L. ed. has than.]
-
-160 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 an hundred years, and I wot not how long longer, ere they could bring it to pass; and yet in vain, till they had got the emperor's sword, to prove that it was most expedient so to be. why priests And for what intent? To bring all under the pope; and that ™vyeshaw!r. the prelates of all lands might, as the old manner was, come and wait on the pope at Home, where he prepared them whores enough ; and that his sworn prelates in every land might the more conveniently wait in kings' courts, to minister the commonwealth unto the pope's pleasure and profit. For had the clergy kept their wives, they could never have come unto this where they now be, and to these pluralities, unions and totquots. For there is no lay-man, though he were never so evil disposed, that could, for his wife and children, have leisure to contrive such mischief, and to run from country to country to learn falsehood and subtilty, as our spiritualty do ; which without fear of God and shame of man keep whores The chastity wheresoever they come. And thus ye see that the clergy's of the clcrcv f"
 
@@ -439,8 +410,6 @@ And what a number brought up idly, unto twenty and 3. above, then put their head
 
 Also some live chaste at twenty-four, which same burn at 4.
 
-162 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [cHAP.
-
 thirty. And that to be true, daily experience teachcth, and good natural causes there be.
 
 And then look on the apostle's learning and ordinance. "When one or two young widows had broken their chastity, he would never after let any more be chosen of the same age. How cometh it then that the pope, for so many hundred thousands that miscarry, will neither break the ordinance, or mitigate it, or let any go back; but, if any burn, sendeth them unto the shame of Christ's doctrine, and offending and hurt of his church, and never unto the lawful remedy of marriage ?
@@ -462,8 +431,6 @@ XIII.] THE THIRD BOOK. 163 mouth, nor chammeth it with his teeth, nor drinketh h
 And when he bringeth the ensample of the heathen, I praise him. For the heathen, because they could not under stand God spiritually, to serve him in the spirit, to believe in him, and to love his laws, therefore they turned his glory unto an image, and served him after their own imagination with bodily service, as the whole kingdom of the pope doth, having less power to serve him in spirit than the Turks. For when the heathen made an image of the aches or fevers, and sacrificed thereto, they knew that the image was not the fever; but under the similitude of the image they worshipped the power of God, which plagued them with the fevers, with bodily service, as the pope doth above all the idolaters that ever were in the world : as when we paint St Michael st Michael
 
 * weighetn the weighing the souls, and stick up a candle to flatter him, and to £0ursW-Tmake him favourable unto us, and regard not the testament of Christ nor the laws of God, because we have no power to believe nor to love the truth. And even so, to refer virginity unto the person of God, to please him therewith, is false sacrifice and heathenish idolatry. For the only service ^Jj^JfoJ?" God is to believe in Christ, and to love the law. Wherefore what u is- ' thou must refer thy wedlock, thy virginity, and all thy other deeds, unto the keeping of the law, and serving thy neighbour only. And then, when thou lookest with a loving heart on
-
-164 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 the law, that saith, ' Break not wedlock, keep no whore/ and so forth, and findest thy body weak, and thine office such that thou must have conversation with men's wives, daughters and servants, then it is better to have a wife than to be without. And again, if thou see service to be done that thou canst not so welf do with a wife as without, then if thou have power to be without, it is best so to be, and in such like : and else the one is as good as the other, and no difference ; and to take a wife for pleasure is as good as to abstain for displeasure.
 
@@ -491,9 +458,7 @@ t1 It was at the first general council, held under Constantino at Nicsea, in 325
 
 L3 See Vol. i. p. 180. n. 1.]
 
-166 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
-
-Tyndale: — The rules of their faith are Christ's pro- loss of lives, it is truth that the pope slew, I think, an hundred thousand of them, because of their faith, and that they would no longer serve him: as he slew in England many a thousand, and slew the true king and set up a false, unto the eifusion of all the noble blood and murdering up of the commonalty, because he should be his defender.
+Tyndale: — The rules of their faith are Christ's pro-loss of lives, it is truth that the pope slew, I think, an hundred thousand of them, because of their faith, and that they would no longer serve him: as he slew in England many a thousand, and slew the true king and set up a false, unto the eifusion of all the noble blood and murdering up of the commonalty, because he should be his defender.
 
 More : — " The constitution of the bishops is not that the scripture shall not be in English, but that no man may translate it by his own authority, or read it, until they had approved it1."
 
@@ -503,7 +468,7 @@ The spiritualAnd so it is all one in effect, to say there shall be none at all
 
 Sm-eiT *n English, and to say, till we admit it; seeing they be so
 
-English. malicious that they will none admit, but feign all the cavilla- tions they can, to prove it were not expedient : so that if it be not had spite of their hearts, it shall never be had. And thereto, they have done their best to have had it enacted by parliament, that it should not be in English.
+English. malicious that they will none admit, but feign all the cavillations they can, to prove it were not expedient : so that if it be not had spite of their hearts, it shall never be had. And thereto, they have done their best to have had it enacted by parliament, that it should not be in English.
 
 The Fifteenth Chapter.
 
@@ -515,7 +480,7 @@ iiunne. He jesteth out Hunne's death2 with his poetry, where with he built Utopi
 
 [3 At the intercession of Fitzjames, Henry VIII. granted Horsey his pardon, but recorded his conviction in a mandate requiring him to indemnify the heirs of Hunne for the expenses they had incurred in the course of the proceedings. Foxe, p. 187.]
 
-XIV. XV.] THE THIRD BOOK. 167
+## XIV. XV.] the Third Book. 167
 
 Tyndale : — God's pardon can no man have, except he knowledge himself a sinner. And even so he that receiveth the king's yieldeth himself guilty. And moreover it is not possible that he which putteth his trust in God, should for if we be not fear of the twelve men or of his judges receive pardon for that ™*^ no parhe never was faulty, unto the dishonouring of our Saviour Jesus; but would have denied it rather unto the death. And thereto, if the matter were so clear as ye jest it out4, then I am sure the king's grace's both courtesy and wisdom would have charged the judges to have examined the evidence laid gjj against him diligently ; and so to have quit him with more honesty than to give him pardon of that he never tres passed in, and to have rid the spiritualty out of hate and all suspicion.
 
@@ -528,8 +493,6 @@ More : — " The bishop of London was wise, virtuous, and cunning6."
 [6 More says, " Myself was present in Paul's when the bishop, in the presence of the mayor and the aldermen of the city, condemned him for an heretic after his death. And then were there read openly the depositions, by which it was well proved that he was convict as well of divers other heresies, as of misbelief toward the holy sacra ment of the altar. And thereupon was the judgment given, that his body should be burned ; and so was it. Now this is, quod I, to me a full proof : for I assure you the bishop was a very wise man, a vir tuous, and a cunning." After this More tells his friend that, ( six or seven years after/ the examination of a person, charged with intending a robbery, led him to discover that certain, whom he calls heretics, were wont to meet and read in a chamber at midnight, and that Richard Hunne had been one of them ; and he then goes on to tell how he tried to ensnare some of the persons thus wont to meet. — Dial. Works, pp. 239-40.]
 
 [6 Cunning, knowing, well instructed.]
-
-168 ANSWER TO SIR THOMAS MORfi'S DIALOGUE. [CHAP.
 
 Tyndale : — For all those three, yet he would have made Doctor coiet. the old dean Coletof Paul's an heretic, for translating the Paternoster in English, had not the bishop of Canterbury holp the dean1.
 
@@ -574,8 +537,6 @@ J & r » ^ except he denieth the justifying of faith in Christ's blood. And agai
 [4 " I have heard very worshipful folk say, that a man could not hire a few to sit down upon his bible of the old testament. — Whereas we take little regard to sit down on our bible, with the old testament and the new too."— Dial. Works, p. 246.]
 
 [5 Ordinary, or ruler.]
-
-170 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 donsawerear~ never con-
 

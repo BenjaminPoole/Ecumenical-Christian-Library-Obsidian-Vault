@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Sinner's Friend
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 556
@@ -31,7 +30,7 @@ What the invidious Jews said in bitter spleen, has been turned by the Holy Spiri
 
 We shall take this title of Jesus to-night as an order of distinction which sets forth his excellency, and as God helps us, we shall try to exalt his name and proclaim his fame, while we attempt to *explain how he was the friend of sinners; and how he shows that he is still the same.*
 
-I. OUR LORD PROVED HIMSELF IN HIS OWN TIME TO BE THE FRIEND OF SINNERS.
+## I. Our Lord Proved Himself in His Own Time to Be the Friend of Sinners
 
 What better proof could he give of it than coming from the majesty of his Father’s house to the meanness of Bethlehem’s manger? What better proof could he give than leaving the society of cherubim and seraphim, to lie in the manger where the horned oxen fed, and to become the associate of fallen men? The incarnation of the Savior in the very form of sinners, taking upon himself the flesh of sinners, being born of a sinner, having a sinner for his reputed father—his very being a man, which is tantamount to being in the same form with sinners—surely this were enough to prove that he is the sinner’s friend.
 
@@ -140,7 +139,6 @@ Talk of sinners! Walk the streets by moonlight, if you dare, and you will see si
 Oh! by that love, looking out of those eyes in tears; oh! by that love, streaming from those wounds flowing with blood; by that faithful love, that strong love, that pure, disinterested, and abiding love; oh! by the heart and by the bowels of the Savior’s compassion, I do conjure you turn not away as though it were nothing to you; but believe on him and you shall be saved. Trust your souls with him and he will bring you to his Father’s right hand in glory everlasting.
 
 May God give us a blessing for Jesus’ sake. Amen.
-
 
 ---
 [[Sermon 0555 Nothing But Leaves|← #555]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0557 Where to Find Fruit|#557 →]]

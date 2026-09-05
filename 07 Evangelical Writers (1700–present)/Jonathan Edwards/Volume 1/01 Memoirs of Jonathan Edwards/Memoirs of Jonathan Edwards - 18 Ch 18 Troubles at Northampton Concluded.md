@@ -9,10 +9,9 @@ epub_file: "works1.i.xviii.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER XVIII.
 
-LETTER TO MR. M’CULLOCH—TO MR. ERSKINE—AN ACCOUNT OF THE TROUBLES AT NORTHAMPTON CONCLUDED.
+*Letter to Mr. M’culloch—to Mr. Erskine—an Account of the Troubles at Northampton Concluded*
 
 the correspondence of Mr. Edwards with some eminent ministers in Scotland, already introduced, has probably been found among the most interesting parts of this Memoir; equally creditable to Mr. Edwards, and to the excellent men, whose enlightened minds at once discerned his uncommon worth. The admirers of Mr. Edwards are under the deepest obligations to Mr. (afterwards Dr.) Erskine, whose name so frequently has occurred, as the individual through whose exertions the various works which principally form these volumes were first introduced in this kingdom.—The letters which are found in this chapter will not diminish the interest already felt by the pious and intelligent reader.
 

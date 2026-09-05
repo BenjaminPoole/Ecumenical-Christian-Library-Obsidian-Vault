@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Lecture Fourteenth
 
@@ -89,7 +88,7 @@ The words אל-תעמדו, *al-tomedu,* may be explained in two ways, — “Sta
 
 ## Prayer Lecture 14
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not daily to alienate ourselves from thee by our sins, and as thou yet kindly exhortest us to repent, and promisest to be appeasable and propitious to us, — O grant, that we may not perversely go on in our sins, and be ungrateful to thee for thy great kindness; but that we may so return to thee, that our whole life may testify that our repentance has been unfeigned, and that we may so acquiesce in thee alone, that the depraved lusts of our flesh may not draw us here and there, but that we may continue fixed and immovable in our purpose, and so labor to obey thee through the whole course of our life, that we may at length partake of the fruit of our obedience in thy celestial kingdom, through Jesus Christ our Lord. — Amen.
 
@@ -193,7 +192,7 @@ He calls them the thoughts of *vanity* The word, און, *aun,* means sometimes 
 
 ## Prayer Lecture 15
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou art pleased daily to invite us to repentance, and since our own conscience is a witness, how we have in various ways provoked thy vengeance, — O grant, that we may not remain obstinate in our sins, nor harden our minds by perverse delusions, but suffer ourselves to be subdued by thy word, and so offer ourselves to thee with a pure and sincere heart, that our whole life may be nothing else but a striving for that newness which thou requirest; so that, being consecrated to thee in mind and body, we may ever labor to glorify thy name, until we be made partakers of that glory, which has been obtained for us by the blood of thy only — begotten Son. — Amen.
 
@@ -294,7 +293,7 @@ Then he adds, that they were *foolish children*, and *not intelligent*. The anti
 
 ## Prayer Lecture 16
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast not only once kindled among us the light of celestial truth, but also invitest us daily to partake of the salvation which has been set before us, — O grant, that we may not close our eyes, nor render deaf our ears, nor harden ourselves in our sins, but that as thou ceasest not continually to call us to thyself, so we may earnestly strive to hasten to thee, and to persevere in the course of our holy calling, so that we may draw nearer daily to its end, until thou receivest us at length into that celestial kingdom, which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -384,7 +383,7 @@ Now, we know whom he understands by lovers, even the Egyptians and the Assyrians
 
 ## Prayer Lecture 17
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though we are torpid in our vices, we may yet be attentive to these examples of thy wrath, by which thou designest to warn us, so that we may learn by the misery of others to fear thee: and may we be also attentive to those threatenings, by which thou drawest us to thee, as thou failest to allure us by thy kindness: and may we, in the meantime, feel assured that thou wilt ever be propitious and merciful to all miserable sinners, who will from the heart seek thee and sincerely and unfeignedly repent; so that we may contend with our vices, and with real effort strive to deliver ourselves from those snares of Satan which he ever spreads for us, in order that we may more freely devote ourselves altogether to thee, and take such delight in thy righteousness, that our object and aim through the whole course of our life may be to please thee, and to render our services approved in Christ Jesus our Lord. — Amen.
 

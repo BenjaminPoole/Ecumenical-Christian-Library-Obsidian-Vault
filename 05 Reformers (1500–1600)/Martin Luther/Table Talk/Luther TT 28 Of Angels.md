@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 28. Of Angels
-
-## OF ANGELS.
 
 #### DLXV.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Life Eternal
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 726
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of My hand." John 10:28.
 
@@ -140,7 +139,6 @@ Well, Sir, you have made Him a liar, then! That is the practical result of it. F
 And if you wholly and simply trust Christ you need not ask any questions about natural trusting or spiritual trusting. If you trust the Lord Jesus wholly you are right. Rest on Him, then. Rest on Him only, wholly, and solely—and if you perish then I do not understand the Gospel, and I cannot comprehend what the Bible means. I will tell you one thing, and then close. If you trust Christ and you perish, then I must perish most certainly, and so must all my Brothers and Sisters here who have believed in Jesus.
 
 It is all over with us if it is all over with you! When there is a storm, one passenger cannot very well go to the bottom if he is in the ship unless the whole of the ship's company go, too. We must go together. We have got into the lifeboat, and if the lifeboat goes down with you, it must go down with all the saints, and all the Apostles, and all the martyrs, too. They went to Heaven resting upon Christ, and if you rest on Christ you will get there also. Oh, Sinner, may you be led today to rest on Jesus and on Jesus only, and then take the text. Do not be afraid of it—"I give unto My sheep eternal life; and they shall never perish, neither shall any pluck them out of My hand."
-
 
 ---
 [[Sermon 0725 A Message From God To His Church And People|← #725]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0727 God Incarnate, The End Of Fear|#727 →]]

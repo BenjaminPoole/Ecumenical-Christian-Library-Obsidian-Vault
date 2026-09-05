@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/02
 ---
-
 # Hatred Without Cause
 
 *New Park Street Pulpit* · Sermon No. 89
@@ -51,14 +50,13 @@ And now let me appeal to every sinner present, and ask him whether he ever had a
 
 And now, Christian men, I must preach at you for just a moment. Sure ye have great reason to love Christ now, for ye once hated him without a cause. Did ye ever treat a friend ill, and did not know it? It has been the misfortune of most of us to do it sometimes. We had some suspicion that a friend had done us an injury; we quarrelled with him for weeks, and he had not done it at all. What he had done was only to warn us. AH! there are never tears like those we shed when we have injured a friend. And should we not weep when we have injured the Saviour? Did he not come to my door one cold damp night, and I shut my door against him? Oh! I have done what I cannot undo; I have slighted my Lord, I have insulted my friend, I have thrown dishonors upon him whom I admire. Shall I not weep for him? Oh! shall I not spend my very life for him? for my sins, my own treachery spilled his blood. Monuments, ah! monuments I will build; where’er I live, where’er I go. I’ll pile up monuments of praise, that his name may be spread; and where’er I wander, I’ll tell what he did, with many a tear, that I so long have ill-treated him and so fearfully misunderstood him. We hated him without a cause; therefore, let us love him.
 
-III. TWO LESSONS TO THE SAINTS.
+## III. Two Lessons to the Saints
 
 In the first place, *if your Master was hated without a cause, do not you expect to get off very easily in this world*. If your Master was subject to all this contempt and all this pain, do you suppose you will always ride through this world in a chariot? If you do, you will be marvellously mistaken. As your Master was persecuted, you must expect to be the same. Some of you pity us when we are persecuted and despised. Ah! save your pity, keep it for those of whom the world speaks well; keep it for those against whom the woe is pronounced. “Woe unto you when all men shall speak well of you.” Save your pity for earth’s favorites; save your pity for this world’s lords, that are applauded by all men. We ask not for your pity; nay, sirs, in all these things we rejoice, and “glory in tribulations also, knowing that the things which happen unto us, happen for the furtherance of the gospel;” and we count it all joy when we fall into manifold temptations, for we rejoice that the name of Christ is known and his kingdom extended.
 
 The other lesson is, *take care, if the world does hate you, that it hates you without a cause*. If the world is to oppose you, it is of no use making the world oppose you. This world is bitter enough, without my putting vinegar in it. Some people seem to fancy the world will persecute them; therefore, they put themselves into a fighting posture, as if they invited persecutions. Now, I do not see any good in doing that. Do not try and make other people dislike you. Really, the opposition some people meet with is not for righteousness’ sake, but for their own sin’s sake, or their own nasty temper’s sake. Many a Christian lives in a house—a Christian servant girl perhaps; she says she is persecuted for righteousness’ sake. But she is of a bad disposition; she sometimes speaks sharp, and then her mistress reproves her. That is not being persecuted for righteousness’ sake. There is another, a merchant in the city, perhaps; he is not looked upon with much esteem. He says he is persecuted for righteousness’ sake; whereas, it is because he did not keep a bargain sometime ago. Another man says he is persecuted for righteousness’ sake; but he goes about assuming authority over everybody, and now and then persons turn round and upbraid him. Look to it, Christian people, that if you are persecuted, it is for righteousness’ sake; for if you get any persecution yourself you must keep it yourself. The persecutions you bring on yourself for your own sins, Christ has nothing to do with them; they are chastisements on you. They hated Christ without a cause; then fear not to be hated. They hated Christ without a cause; then court not to be hated, and give the world no cause for it.
 
 And now may you who hate Christ love him; Oh! that he would bring himself to you now! Oh! that he would show himself to you! And then sure you must love him at once. He that believeth on the Lord Jesus will be sure to love him and he that loveth him shall be saved. Oh! that God would give you faith, and give you love, for Christ Jesus’ sake! Amen.
-
 
 ---
 [[Sermon 0088 The Plea of Faith|← #88]] · [[Volume 02 (1856)|Volume 02 (1856) Contents]] · [[Sermon 0090 Men Chosen—Fallen Angels Rejected|#90 →]]

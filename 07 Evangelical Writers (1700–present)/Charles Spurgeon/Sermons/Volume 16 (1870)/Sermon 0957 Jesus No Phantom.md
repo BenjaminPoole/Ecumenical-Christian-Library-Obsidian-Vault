@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Jesus No Phantom
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 957
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 2, 1870,.
+*Delivered on Lord's-Day Morning, October 2, 1870*
 
 > "And when the disciples saw Him walking on the sea, they were troubled, saying, It is a ghost. And they cried out for fear." Matthew 14:26.
 
@@ -202,7 +201,6 @@ The invisible appears in sight,
 And God is seen by mortal eye." Does not faith make Jesus as real to us as our sight would do? It should do so. I pray it may. And then see how true will be your consecration, how abundant will be your service, how ready your thanksgiving, how abounding your offerings!
 
 May God grant you Grace to get into this true position, both you who are saints and you who still are sinners—for in having a real Christ you will have the reality of every good. God give it to you for Jesus' sake. Amen and Amen.
-
 
 ---
 [[Sermon 0956 Think Well And Do Well|← #956]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0958 Dei Gratia|#958 →]]

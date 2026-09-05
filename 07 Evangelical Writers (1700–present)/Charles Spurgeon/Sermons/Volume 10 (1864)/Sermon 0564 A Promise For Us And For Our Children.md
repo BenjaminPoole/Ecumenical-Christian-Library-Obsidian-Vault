@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # A Promise For Us And For Our Children
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 564
 
-DELIVERED ON SUNDAY MORNING, APRIL 10, 1864, BY THE REV. C, H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 10, 1864, by the Rev. C, H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Yet now hear, O Jacob, My servant. And Israel, whom Ihave chosen: thus says the Lord thatmadeyou and formed you from the womb, which will help you. Fear not, O Jacob, My servant. And you, Jesurun, whom Ihave chosen. For I will pour water upon him that is thirsty and floods upon the dry ground: I will pour My Spirit upon your seed and My blessing upon your offspring: and they shall spring up as among the grass, as willows by the water courses. One shall say, I am the Lord's, and another shall call himself by the name of Jacob. And another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel." Isaiah 44:1-5.
 
@@ -156,7 +155,6 @@ Some of us, in looking back, can speak of a godly father and a godly grandfather
 As for you who are unconverted, you cannot pray for your children if you do not pray for yourselves. You never can expect a blessing, for you are under the Divine curse! Nevertheless I pray God to make you thirsty and if He makes you hunger and thirst after righteousness, then you can put your hand upon this promise, "I will pour water upon him that is thirsty and floods upon the dry ground." And afterwards the remainder of the blessing shall be yours. God bless the Word for Jesus' sake. Amen.—
 
 "Wake, parents of Israel! O hasten to plead For the Spirit of Grace to descend. The Word has gone forth and the faithful have need Of your prayers the great cause to defend. From the youth of our country shall armies arise, The Gospel of peace to proclaim. Over the land and the seas, the glad message that flies, Shall re-echo Immanuel's name. Wake, parents in Israel! O, wrestle and pray That Grace to our youth may be given For the hands that in faith are uplifted today Shall prevail with our Father in Heaven."
-
 
 ---
 [[Sermon 0563 The Barley Field on Fire|← #563]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0565 The Great Liberator|#565 →]]

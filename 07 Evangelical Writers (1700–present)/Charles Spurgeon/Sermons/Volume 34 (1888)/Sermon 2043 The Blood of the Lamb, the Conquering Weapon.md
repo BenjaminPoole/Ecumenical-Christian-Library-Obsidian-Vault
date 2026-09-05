@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Blood of the Lamb, the Conquering Weapon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2043
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 9, 1888,.
+*Delivered on Lord's Day Morning, September 9, 1888*
 
 > "And they o vercame him by the blood of the Lamb and by the word of their testimony. And they loved not their lives unto the death." Revelation 12:11.
 
@@ -170,7 +169,6 @@ As for those of you who are not saved, does not this subject give you a hint? Yo
 "Come, guilty souls and flee a way, Like doves, to Jesus' wounds."
 
 The atoning sacrifice, which is our glory, is your salvation. Trust in Him whom God has set forth to be the propitiation for sin. Begin with this and you are saved. Every good and holy thing which goes with salvation will follow after. But now, this morning, I pray you accept a present salvation through the blood of the Lamb. "He that believes in Him has everlasting life."
-
 
 ---
 [[Sermon 2042 The Maintenance of Good Works|← #2042]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2044 All At It|#2044 →]]

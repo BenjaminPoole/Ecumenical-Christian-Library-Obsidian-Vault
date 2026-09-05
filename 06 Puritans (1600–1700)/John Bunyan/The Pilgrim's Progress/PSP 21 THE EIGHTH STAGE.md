@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-bunyan
 ---
-
 # THE EIGHTH STAGE
 
 When they were gone from the shepherds, they quickly came to the place where Christian met with one Turn-away that dwelt in the town of Apostasy. Wherefore of him Mr. Great-Heart their guide now put them in mind, saying, This is the place where Christian met with one Turn-away, who carried with him the character of his rebellion at his back. And this I have to say concerning this man; he would hearken to no counsel, but once a falling, persuasion could not stop him. When he came to the place where the cross and sepulchre were, he did meet with one that did bid him look there; but he gnashed with his teeth, and stamped, and said he was resolved to go back to his own town. Before he came to the gate, he met with Evangelist, who offered to lay hands on him, to turn him into the way again; but this Turn-away resisted him, and having done much despite unto him, he got away over the wall, and so escaped his hand.
@@ -228,10 +227,9 @@ As for Christiana’s children, the four boys that Christiana brought, with thei
 
 Should it be my lot to go that way again, I may give those that desire it an account of what I here am silent about: meantime I bid my reader
 
-FAREWELL.
+## Farewell
 
-THE END.
-
+## The End
 
 ---
 [[PSP 20 THE SEVENTH STAGE|← THE SEVENTH STAGE]] · [[The Pilgrim's Progress|Contents]]

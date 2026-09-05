@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 22
 
 V. 1. 'rtvdr. th'te rhrCT 6riifei)^idx'flbws*i'the'inidst t3f the dty, flrdre is'ffo longer indicated the celebra'tion 6f Bapiistoj'biit the*uit dfthat sacrami^nt isfnow *tevealed. ■ 5Por*n the ijresitit titne thfe 'CHitirdi''** ^6ws in ^he SiJirit, thsft^it tnayihen^eap^c^^
@@ -179,7 +177,7 @@ p. 112, ch. xvi. 12. The punctuation of Dr. Giles* and the old editions, which c
 
 P. 132, ch. xviii. 19, "deceitful world," rather, "age." See above, on p. 87, ch. xiii. I.
 
-174 ADDITIONAL NOTES AND CORRECTIONS.
+## 174 Additional Notes and Corrections
 
 P. 136, ch. XX. 3, ''more grieTously/' rather, "with more pleasure."
 

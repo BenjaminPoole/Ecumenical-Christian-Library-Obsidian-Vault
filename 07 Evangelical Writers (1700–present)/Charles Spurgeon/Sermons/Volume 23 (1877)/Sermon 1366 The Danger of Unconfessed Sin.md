@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Danger of Unconfessed Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1366
 
-DELIVERED.
+*Delivered*
 
 > "When I kept silence, my bones waxed old through my roaring all the daylong." Psalm 32:3.
 
@@ -138,7 +137,6 @@ If yon are willing to confess, everything will help you to confession, and there
 There stands the block and there is the place for your neck—put it down, and say, "Lord, I submit to my sentence and if You bid the headsman strike, I cannot complain." Go before God as the citizens of Calais came before the English king, with ropes about their necks! Submit yourselves to the chastisement due to your offense and then make an appeal ad misericordiam, to the mercy of God alone, and say, "For Christ's sake—for His blood's sake—have mercy upon me!"
 
 There is no man, woman, or child in this Tabernacle who shall do that tonight who shall be rejected, for, "Him that comes to Me," says Christ, "I will in nowise cast out." And this is the right way of coming—the way of confessing your sin and acknowledging the evil of it—and turning to the great Substitute for deliverance! Say that you deserve to be sent to Hell and cast yourself upon the mercy of God in Christ Jesus, trusting in the great Surety and Sacrifice, and you shall be accepted in and through Him! This is the way of life and he who runs therein shall find salvation! May the Lord, by His Holy Spirit, lead every one of you without exception to mourn your sin and rest in Jesus. Amen.
-
 
 ---
 [[Sermon 1365 The Trees in God's Courts|← #1365]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1367 Strong Faith|#1367 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # What God Cannot Do!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 568
 
-DELIVERED ON SUNDAY MORNING, MAY 8, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 8, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "God, that cannot lie." Titus 1:2.
 
@@ -71,7 +70,7 @@ Men are false, oftentimes, to win applause. See how the sycophant cringes to the
 
 He looks down upon all nations who are in rebellion against Him and He does not even care to rise to put them down. "He that sits in the heavens shall laugh: the Lord shall have them in derision!" Are not the chariots of the Lord twenty thousand, even thousands of angels? Even these are but as a drop in a bucket, when compared with the deep and infinite sea of His own power. Who, then, shall think that Jehovah needs to be afraid? "Fear," and "Jehovah," are two words which cannot meet together. Therefore, since there can be no motive whatever which should possibly lead God to lie, we feel well assured that the declaration of Paul is most certainly true—"God, that cannot lie."
 
-Moreover, dear Friends, we may add to all this the experience of men with regard to God. It has been evident enough in all ages that God cannot lie. He did not lie when Adam fell. It seemed a strange thing, that after all the skill and labor which had been spent in making such a world as this, so fair and beautiful, God should resign it to the dominion of Satan and drive the man whom He had made in His own image, out of his home, his Eden, to labor in sweat and toil and suffer- ing until he came to his grave. But God did it and the fiery sword at the gate of Eden was proof that God could not and would not lie.
+Moreover, dear Friends, we may add to all this the experience of men with regard to God. It has been evident enough in all ages that God cannot lie. He did not lie when Adam fell. It seemed a strange thing, that after all the skill and labor which had been spent in making such a world as this, so fair and beautiful, God should resign it to the dominion of Satan and drive the man whom He had made in His own image, out of his home, his Eden, to labor in sweat and toil and suffer-ing until he came to his grave. But God did it and the fiery sword at the gate of Eden was proof that God could not and would not lie.
 
 He might come to Adam and bemoan himself, crying, "Adam, where are you?" as if He pitied him and would, if it had been possible, have spared the stroke. But still it must be done and Eden is blasted and Adam becomes a wanderer upon the fruitless earth. Then afterwards, to quote a notable instance of God's faithfulness, when the flood swept away the race of men and Noah came forth the heritor of a new Covenant, we have clear proof that God cannot lie. No flood has ever destroyed the earth since then. Partial floods there have been and parts of provinces have been inundated, but no flood has ever come upon the earth of such a character as that which Noah saw—therefore the rainbow, every time it is painted upon the cloud—is an assurance to us that God cannot lie.
 
@@ -121,7 +120,7 @@ Dear Friends, this leads us, in closing this point, to say that when we read tha
 
 III. But I shall now come to make a practical use of the text, in the third place, by observing HOW WE OUGHT TO ACT TOWARDS GOD IF IT IS TRUE THAT HE IS A "GOD THAT CANNOT LIE." Brethren, if it is so that God cannot lie, then it must be the natural duty of all His creatures to believe Him. I cannot resist that conclusion. It seems to me to be as clear as noonday that it is every man's duty to believe the Truth of God, and that if God must speak and act Truth and Truth only, it is the duty of all intelligent creatures to believe Him.
 
-Here is "Duty-faith" again, which some are railing at, but how they can get away from it and yet believe that God cannot lie, I cannot understand. If it is not my duty to believe in God, then it is no sin for me to call God a liar. Will anyone subscribe to that—that God is a liar? I think not. And if to think God to be a liar would be a most atrocious piece of blasphemy, then it can only be so on the ground that it is the natural and incumbent duty of every creature understand- ing the truthfulness of God to believe in God! If God has set forth the Lord Jesus Christ as the Propitiation for sin and has told me to trust Christ, it is my duty to trust Christ, because God cannot lie.
+Here is "Duty-faith" again, which some are railing at, but how they can get away from it and yet believe that God cannot lie, I cannot understand. If it is not my duty to believe in God, then it is no sin for me to call God a liar. Will anyone subscribe to that—that God is a liar? I think not. And if to think God to be a liar would be a most atrocious piece of blasphemy, then it can only be so on the ground that it is the natural and incumbent duty of every creature understand-ing the truthfulness of God to believe in God! If God has set forth the Lord Jesus Christ as the Propitiation for sin and has told me to trust Christ, it is my duty to trust Christ, because God cannot lie.
 
 And though my sinful heart will never believe in Christ as a matter of duty but only through the work of the Holy Spirit, yet faith does not cease to be a duty. And whenever I am unbelieving and have doubts concerning God, however moral my outward life may be, I am living in daily sin! I am perpetrating a sin against the first principles of morality. If I doubt God, as far as I am able I rob Him of His honor and stab Him in the vital point of His Glory. I am, in fact, living an open traitor and a sworn rebel against God upon whom I heap the daily insult of daring to doubt Him.
 
@@ -154,7 +153,6 @@ I had a clear sense of the value of pardon and this thought would be always ring
 Trust the promise of God in Christ and depend upon it that He will be as good to you, even to you, as His own Word, and in Heaven you shall have to sing of the "God, that cannot lie." I would that these weak words of mine, for I am very conscious of their feebleness this morning, may nevertheless have comfort in them for any who have been doubting and fearing—that they may trust my Lord. And sure I am that if they begin a life of faith, they will begin a life of happiness and of security! "The just shall live by faith," and well may they do so, when they have trust in a "God, that cannot lie."
 
 Adapted from The C.H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
-
 
 ---
 [[Sermon 0567 Labor In Vain|← #567]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0569 The Arrows Of The Lord'S Deliverance|#569 →]]

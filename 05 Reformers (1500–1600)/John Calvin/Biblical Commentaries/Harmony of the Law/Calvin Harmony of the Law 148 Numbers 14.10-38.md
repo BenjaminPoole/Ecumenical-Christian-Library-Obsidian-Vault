@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 148. Numbers 14:10-38
-
-**Numbers 14**
 
 **10.** But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
 

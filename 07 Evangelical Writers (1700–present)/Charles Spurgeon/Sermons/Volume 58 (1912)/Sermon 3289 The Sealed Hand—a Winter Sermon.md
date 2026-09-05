@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Sealed Hand—a Winter Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3289
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He seals up the hand of every man; that all men may know His work." Job 37:7.
 
@@ -123,7 +120,7 @@ Gloriously complete!"
 
 A young Sister who I saw just now, told me how a friend helped her to see the way of salvation. She could not believe in Jesus Christ because she did not feel herself to be all that she wanted to be. But the friend said to her, "Suppose I were to give you this Bible for a present." "Yes." "Would it not be yours as soon as you took it? It would not depend upon whether you were good or not, would it?" "No." "Well, then," the friend replied, "the Lord God has given Jesus Christ to you as a free gift—and if you take him by faith, He is immediately yours, whoever you may be." The case stands just so. Accept Jesus as the free gift of God to you and you are saved! And being saved, you will work with all your might to show your gratitude to God your Savior!
 
-EXPOSITION BY C. H. SPURGEON: PSALM94.
+## Exposition by C. H. Spurgeon: Psalm 94
 
 This is the prayer of a man of God in great trouble, standing out for God in an evil day, when the Lord's people were greatly oppressed, and the honor of God was being trampled in the mire. The prayer wells up from an oppressed heart struggling against great difficulty.
 
@@ -202,7 +199,6 @@ this verse—"seem intertwisted and interlaced like the many branches of a tree.
 21, 22. They gather themselves together against the soul of the righteous and condemn the innocent blood. But the LORD is my defense; and my God is the rock of my refuge. He gets away unto his God as he had been accustomed to hide in the cave of Adullam out of reach of his foes! And then he sits down in peace to sing—
 
 23\. And He shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yes the LORD our God shall cut them off.
-
 
 ---
 [[Sermon 3288 Why the Gospel Is Hidden|← #3288]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3290 God's Hand at Evening|#3290 →]]

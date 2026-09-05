@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter V — Of the Works of God that outwardly are of Him
 
 ## Chap. V. — Of the Works of God that outwardly are of Him.
@@ -36,8 +35,7 @@ A. The moral[^4] or eternal law of God, implanted in his nature and written in h
 
 Q. 6. Do we stand in the same covenant still, and have we the same power to yield obedience unto God?
 
-A. No; the ^acovenant was[^5] broken by the sin of Adam, with whom it was made, ^bour nature corrupted, ^cand all power to do good utterly lost. ^aGen. iii. 16–18; Gal. iii. 10, 11, 21; Heb. vii. 19, viii. 13. ^bJob xiv. 4; Ps. li. 5. ^cGen. vi. 5; Jer. xiii. 23.
-
+A. No; the [^a1]covenant was[^5] broken by the sin of Adam, with whom it was made, [^b1]our nature corrupted, [^c1]and all power to do good utterly lost.
 
 ---
 [^1]: The very outward works of God are sufficient to convince men of his eternal power and Godhead, and to leave them inexcusable, if they serve him not.
@@ -46,6 +44,11 @@ A. No; the ^acovenant was[^5] broken by the sin of Adam, with whom it was made, 
 [^4]: God never allowed, from the beginning, that the will of the creature should be the measure of his worship and honour.
 [^5]: Though we have all lost our right unto the promise of the first covenant, yet all not restored by Christ are under the commination and curse thereof.
 
+[^a1]: Gen. iii. 16–18; Gal. iii. 10, 11, 21; Heb. vii. 19, viii. 13.
+
+[^b1]: Job xiv. 4; Ps. li. 5.
+
+[^c1]: Gen. vi. 5; Jer. xiii. 23.
 
 ---
 [[TSC 08 Chapter IV — Of the Works of God; and, First, of those that are Internal and|← Chapter IV — Of the Works of God; and, First, of those that are Internal and Immanent]] · [[Two Short Catechisms|Contents]] · [[TSC 10 Chapter VI — Of God’s actual Providence|Chapter VI — Of God’s actual Providence →]]

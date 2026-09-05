@@ -9,12 +9,11 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's To the Reader
 
-**JOHN CALVIN**
+***John Calvin***
 
-**TO THE CHRISTIAN READER, HEALTH**
+## **To the Christian Reader, Health**
 
 Since I can truly and justly say and prove by competent witnesses, that the writings, which I have hitherto sent forth to the public, and which might have been finished with more care and attention, have been almost extorted from me by importunity, it is evident that these Annotations, which I thought might bear a hearing, but were unworthy of being read, would have never through me been brought forth to the light. For if, by many watchings, I can hardly succeed in rendering even a small benefit to the Church by my meditations, how foolish were it in me to claim a place for my sermons among the works which are published? Besides, if, with regard to those compositions which I write or dictate privately at home, when there is more leisure for meditation, and when a finished brevity is attained by care and diligence, my industry is yet made a crime by the malignant and the envious, how can I escape the charge of presumption, if I now force upon the whole world the reading of those thoughts which I freely poured forth for the present edification of my hearers? But since to suppress them was not in my power, and their publication could not be otherwise prevented by me than by undertaking the labor (which my circumstances allowed not) of writing the whole anew, and many friends, thinking me to be too scrupulous a judge of my own labors, cried out, that I was doing an injury to the Church, I chose to allow this volume, as it *is,* taken from my lips, to go forth to the public, rather than by prohibition to impose on myself the necessity of writing; which I was forced to do as to The Psalms, before I found out, by that long and difficult work, how unequal I am to so much writing. [^1]
 

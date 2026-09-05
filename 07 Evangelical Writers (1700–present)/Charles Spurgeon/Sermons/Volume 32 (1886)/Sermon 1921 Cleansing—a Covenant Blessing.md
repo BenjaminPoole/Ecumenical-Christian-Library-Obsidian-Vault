@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Cleansing—a Covenant Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1921
-
-DELIVERED BY.
 
 > "Then will I sprinkle clean water on you and you shall be clean: from all your filthiness and from all your idols, I will cleanse you." Ezekiel 36:25.
 
@@ -140,7 +137,6 @@ This is not a threat, but a promise—it is a great blessing to have our images 
 Now, poor Sinner! Do you see what the Lord can do with you? He can break you loose from your temptations. He can set you free from every sin that holds you in captivity. Jesus gives pardon and purity most freely. Trust Him to cleanse you and the work shall be surely done. Trust Him that hung upon the tree to redeem His people and you are delivered. Trust Him to sanctify you wholly by His Spirit and He will purify you till every spot and wrinkle is gone. It is His work to save His people from their sins! Believe in Him and you shall triumph in His salvation!
 
 May the Lord add His blessing, for Jesus' sake!
-
 
 ---
 [[Sermon 1920 Believers as Blessed as the Blessed Virgin|← #1920]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1922 Concerning Death|#1922 →]]

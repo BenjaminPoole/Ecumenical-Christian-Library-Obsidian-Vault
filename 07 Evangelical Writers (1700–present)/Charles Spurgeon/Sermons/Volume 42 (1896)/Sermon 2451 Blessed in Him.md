@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "Blessed in Him"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2451
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Men shall be blessed in Him." Psalm 72:17.
 
@@ -99,9 +96,9 @@ Well, you have that blessedness, then, enjoy it! What would you think of a man w
 
 "'My heart it does leap at the sound of His name.'" "But," says one, "I have never enjoyed that." My dear Friend, if you can believe in the Lord Jesus Christ, you may enjoy it! To believe in the Lord Jesus Christ is to trust yourself with Him just as you are—to cast your guilty soul on Him. Oh, that you would do it! That one act will mark your passing from the kingdom of darkness into the Kingdom of Light. That one act will be the means of your coming into the glorious liberty of the children of God and your life shall be totally changed from that time forth so that you shall joy in God by Jesus Christ our Lord! "Men shall be blessed in Him." Are you to be one of those men? God grant that you may be! The Lord add His blessing, for Jesus' sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—72 (SONG I), 436, 438.
+## Hymns from "Our Own Hymn Book"—72 (Song I), 436, 438
 
-EXPOSITION BY C. H. SPURGEON: PSALM72.
+## Exposition by C. H. Spurgeon: Psalm 72
 
 This is a Psalm which relates to the Messiah, the Lord Jesus Christ, not as the Man of Sorrows, but as the King of Glory—not as David, struggling to secure the throne—but as Solomon, seated upon it, and reigning in peace.
 
@@ -136,7 +133,6 @@ Verse 1. Give the king Your judgments, O God, and Your righteousness unto the ki
 17-19. His name shall endure forever: His name shall be continued as long as the sun: and men shall be blessed in Him: all nations shall call Him blessed. Blessed be the Lord God, the God of Israel, who only does wondrous things. And blessed be His glorious name forever; and let the whole earth be filled with His Glory. Amen, and Amen. Is not that double Amen the very mark of the Christ? Often when He preached, He commenced His sermons with, "Amen, Amen." That is, "Verily, verily, I say unto you." He is God's great "Amen, the faithful and true Witness." But interpreting the word in the other sense, do not you and I most heartily say, "Amen," and again, "Amen," to this royal prayer? "Let the whole earth be filled with His Glory."
 
 20\. The prayers of David the son of Jesse are ended. This is the end of the second great division of the Book of the Psalms. It is. Therefore. most appropriately closed with this verse—"The prayers of David the son of Jesse are ended." But I think that David, when he had reached this point, felt that he could not ask for anything more than he had already requested in this great petition. If the whole earth should be full of the glory of God, the Psalmist would then have gained the utmost that he could desire! Is it not so with us, also? If the name and the glory of Christ did but cover the whole earth, what more could we wish for? What more could we ask of God? Till that blessed consummation is reached, let us keep on praying, "Let the whole earth be filled with His glory. Amen and Amen."
-
 
 ---
 [[Sermon 2450 The Joy of Redemption|← #2450]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2452 Hope for the Worst Backsliders|#2452 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 25
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**FOOD AND REST**
+## **Food and Rest**
 
 > I will feed my flock, and I will cause them to lie down, saith the Lord God" Ezek. 34:15
 
@@ -23,7 +22,6 @@ Under the divine shepherdry saints are fed to the full. Theirs is not a windy, u
 When filled with holy truth the mind rests. Those whom Jehovah feeds are at peace. No dog shall worry them, no wolf shall devour them, no restless propensities shall disturb them. They shall lie down and digest the food which they have enjoyed. The doctrines of grace are not only sustaining, but consoling: in them we have the means for building up and lying down. If preachers do not give us rest, let us look to the Lord for it.
 
 This day may the Lord cause us to feed in the pastures of the Word, and make us to lie down in them. May no folly, and no worry, but Meditation and Peace mark this day.
-
 
 ---
 [[FCB August 24|← August 24]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 26|August 26 →]]

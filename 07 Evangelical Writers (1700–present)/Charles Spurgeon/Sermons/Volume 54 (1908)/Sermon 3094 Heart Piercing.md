@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Heart Piercing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3094
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the Apostles, Men and brethren, what shall we do?" Acts 2:37
 
@@ -59,7 +56,7 @@ A faith that has no tears in its eyes is a blind faith, for where there is sight
 
 II. Now, in the second place, let us notice WHAT TRUTHS GOD USES AS DAGGERS TO PRICK SINNERS IN
 
-THE HEART.
+## The Heart
 
 I have known some pricked in the heart merely by discovering that the Gospel, the Bible, was really true. They have been skeptical—they have perhaps been blasphemers but, all of a sudden, being honestly convinced that the Bible was true, they have been broken down at once, just as Saul of Tarsus was. He would not have persecuted Christ if he had believed Him to be the Messiah, but he thought He was an impostor and, therefore, honestly determined to put down His followers. He says concerning himself, "I obtained mercy because I did it ignorantly in unbelief." The moment the Lord Jesus called to him out of Heaven, and said, "Saul, Saul, why do you persecute Me?...I am Jesus who you persecute," he was pricked in the heart and soon he became, as many others have become, just as earnest in the defense of the Truth of God as he had before, in his ignorance, been in opposition to it!
 
@@ -138,7 +135,6 @@ from Africa and Gaul." "Why are they there, Brother?" "To tear the Christians li
 You young men and young women who have lately been converted here, are not called to such a death as that. Will you shrink from the little trials and petty persecutions of the present time? Are you afraid of someone who will point the finger of scorn at you and say, "There goes a Christian"? Then, what poor stuff you must be made of and how little of the Spirit of God can be in you! You have grave need to question whether you have been born-again, for if you are, indeed, the Lord's own—if He has bought you with His blood—you will come forward and say, "His I am, and I am not ashamed to admit it! No, but I even glory in it."
 
 The Lord bless you, dear Friends! If you have been wounded in heart, may He heal you! And if you never have been thus wounded, may there be such a wound produced in your heart right speedily that only the pierced hand of Christ shall be able to salve—and to Him shall be the Glory forever and ever! Amen.
-
 
 ---
 [[Sermon 3093 The Church of God and the Truth of God|← #3093]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3095 Faith in Christ|#3095 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Knowledge Commended
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 609
 
-DELIVERED ON SUNDAY MORNING, JANUARY 15, 1865,.
+*Delivered on Sunday Morning, January 15, 1865*
 
 > "But the people that know their God shall be strong and do exploits. And they that understand among the people shall instruct many." Daniel 11:32,33.
 
@@ -140,7 +139,6 @@ If God has lit your candle, try to shine and let other candles be lit by you. I 
 God bring you to this state and when you have received Christ, then endeavor, as much as lies in you—
 
 "To teach to sinners round, What a dear Savior you have found." May the Master bless these words, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0608 A Discourse For A Revival Season|← #608]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0610 The Great Need—Or, The Great Salvation|#610 →]]

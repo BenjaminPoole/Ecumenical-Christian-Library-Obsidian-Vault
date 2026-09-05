@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Philosophy of Promise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1508
 
-DELIVERED ON LORD'S-DAY EVENING, JUNE 29, 1879,.
+*Delivered on Lord's-Day Evening, June 29, 1879*
 
 > "New things do I declare: before they spring forth I tell you of them." Isaiah 42:9.
 
@@ -168,7 +167,6 @@ And in the New Jerusalem
 Appoint my soul a place."
 
 Such faith as this is God's due. He deserves nothing less than unmingled confidence! He has never lied to any of you— never doubt Him till He gives you cause for suspicion! Rest—quietly wait and patiently hope—and you shall see the salvation of God! As surely as the Lord lives, He will not forsake your believing soul, but will be always at your side till He has done that which He has spoken to you and brought you Home to dwell at His right hand with His dear Son forever and ever. Amen.
-
 
 ---
 [[Sermon 1507 Soul Saving Our One Business|← #1507]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1509 The Best of All Sights|#1509 →]]

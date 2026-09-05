@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Lamentations 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Lamentations 3:1
 
@@ -122,7 +121,7 @@ But these words are added, *with a squared stone* The verb גזז *gizaz*, means
 
 ## Prayer Lecture 8
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thou didst in former times so severely chastise thy people, we may in the present day patiently submit to all thy scourges, and in a humble and meek spirit suffer ourselves to be chastised as we deserve; and that we may not, in the meantime, cease to call on thee, and that however slowly thou mayest seem to hear our prayers, we may yet persevere continually to the end, until at length we shall really find that salvation is not in vain promised to all those who in sincerity of heart call on thee, through Christ our Lord. — Amen.
 
@@ -250,7 +249,7 @@ This verse confirms what I have said, that the same truth is here repeated by th
 
 ## Prayer Lecture 9
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as there are none of us who have not continually to contend with many temptations, and as such is our infirmity, that we are ready to succumb under them, except thou helpest us, — O grant, that we may be sustained by thine invincible power, and that also, when thou wouldest humble us, we may loathe ourselves on account of our sins, and thus perseveringly contend, until, having gained the victory, we shall give thee the glory for thy perpetual aid in Christ Jesus our Lord. — Amen.
 
@@ -353,7 +352,7 @@ It is certain that there will be no patience, except there be hope, as it has al
 
 ## Prayer Lecture 10
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as it is expedient for us to be daily chastised by thy hand, we may willingly submit to thee, and not doubt but that thou wilt be faithful, and not prove us with too much rigor, but that thou wilt consider our weakness, so that we may thus calmly bear all thy chastisements, until we shall at length enjoy that perfect blessedness, which is now hid to us under hope, and as it were sealed, until Christ thy Son shall reveal it at his coming. — Amen.
 
@@ -456,7 +455,7 @@ We now, then, perceive why the Prophet joins this sentence, *Why does a living m
 
 ## Prayer Lecture 11
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as we are at this day tossed here and there by so many troubles, and almost all things in the world are in confusion, so that wherever we turn our eyes, nothing but thick darkness meets us, — O grant that we may learn to surmount all obstacles, and to raise our eyes by faith above the world, so that we may acknowledge that governed by thy wonderful counsel is everything that seems to us to happen by chance, in order that we may seek thee, and know that help will be ready for us through thy mercy whenever we humbly seek the pardon of our sins, through Christ Jesus our Lord. — Amen.
 
@@ -583,7 +582,7 @@ The latter part is explained in two ways: sonic render thus, “Because of all t
 
 ## Prayer Lecture 12
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thou hast hitherto spared us, we may not grow torpid in our vices, and that since thou hast already begun to deal more severely with thy Church, we may be awakened by thy chastisements, and so humble ourselves under thy mighty hand, as yet not to doubt but that thou wilt be propitions to us, and that we may so loathe ourselves on account of our sins, as still to be fully persuaded that, provided we wait for thee, thou wilt at length be merciful to us, so as to afford us new reasons for joy and gratitude, through Christ Jesus our Lord. — Amen.
 
@@ -642,7 +641,7 @@ He then says, *Close not,* etc.; it is properly, “hide not;” but as this is 
 
 **57.** Thou drewest near in the day *that* I called upon thee: thou saidst, Fear not.
 
-Here the Prophet tells us that he had experienced the goodness of God, because he had not suffered a repulse when he prayed. And this doctrine is especially useful to us, that is, to call to mind that we had not in time past prayed in vain. For we may hence feel assured, that as God ever continues like himself, he will be ever ready to help us when- ever we implore his protection. This, then, is the reason why the Prophet declares here that he had experienced the readiness of God to hear prayer: *Thou didst come nigh,* he says, *in the day when I called on thee; thou didst say, Fear not* And this approach or coming nigh refers to what was real or actually done, that God had stretched forth his hand and helped his servants. Since, then, they had been confirmed by such evidences, they had the privilege of ever fleeing to God. God, indeed, supplies us with reasons for hope, when he once and again aids us; and it is the same as though he testified that he will ever be the same as we have once and again found him to be.
+Here the Prophet tells us that he had experienced the goodness of God, because he had not suffered a repulse when he prayed. And this doctrine is especially useful to us, that is, to call to mind that we had not in time past prayed in vain. For we may hence feel assured, that as God ever continues like himself, he will be ever ready to help us when-ever we implore his protection. This, then, is the reason why the Prophet declares here that he had experienced the readiness of God to hear prayer: *Thou didst come nigh,* he says, *in the day when I called on thee; thou didst say, Fear not* And this approach or coming nigh refers to what was real or actually done, that God had stretched forth his hand and helped his servants. Since, then, they had been confirmed by such evidences, they had the privilege of ever fleeing to God. God, indeed, supplies us with reasons for hope, when he once and again aids us; and it is the same as though he testified that he will ever be the same as we have once and again found him to be.
 
 He then adds an explanation, *Thou didst say, Fear not* He does not mean that God had spoken; but, as I have said, he thus sets forth the fact, that he had not sought God in vain, for he had relieved him. Though God may not speak, yet when we find that our prayers are heard by him, it is the same as though he raised us up and removed from us every fear. The sum of what is said is, that God had been propitious to his servants whenever they cried to him. It now follows, —
 
@@ -727,7 +726,7 @@ By God’s sanctuary is often meant heaven. For this reason, then, the Prophet a
 
 ## Prayer Lecture 13
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as at this day ungodly men and wholly reprobate so arrogantly rise up against thy Church, we may learn to flee to thee, and to hide ourselves under the shadow of thy wings, and fully to hope for thy salvation; and that however disturbed the state of things may be, we may yet never doubt but that thou wilt be propitious to us, since we have so often found thee to be our deliverer; and that we may thus persevere in confidence of thy grace and mercy, and be also roused by this incentive to pray to thee, until having gone through all our miseries, we shall at length enjoy that blessed rest which thou hast promised to us through Christ Jesus our Lord. — Amen.
 

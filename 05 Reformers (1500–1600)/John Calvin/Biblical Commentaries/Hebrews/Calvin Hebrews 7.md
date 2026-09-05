@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Heb 7:1-3
 

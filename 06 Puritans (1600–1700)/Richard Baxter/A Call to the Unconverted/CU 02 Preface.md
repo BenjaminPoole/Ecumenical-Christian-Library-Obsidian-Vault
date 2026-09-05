@@ -9,7 +9,6 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # Preface
 
 *To all unsanctified Persons that shall read this Book; especially of my Hearers in the Borough and Parish of Kiaderminster*.
@@ -54,8 +53,7 @@ And for the rest, as God the Father vouchsafed to create them, and God the Son d
 
 Dec. 11, 1657.
 
-RICHARD BAXTER.
-
+## Richard Baxter
 
 ---
 [[CU 01 A Short Account of the Author and the Great Success Which Attended the Call|← A Short Account of the Author and the Great Success Which Attended the Call When First Published]] · [[A Call to the Unconverted|Contents]] · [[CU 03 Sermon I|Sermon I →]]

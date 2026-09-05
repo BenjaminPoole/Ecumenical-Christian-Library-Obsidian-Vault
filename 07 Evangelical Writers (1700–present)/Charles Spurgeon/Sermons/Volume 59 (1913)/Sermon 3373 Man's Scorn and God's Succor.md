@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Man's Scorn and God's Succor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3373
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My friends scorn me; but my eyes pour out tears unto God." Job 16:20.
 
@@ -49,7 +46,7 @@ Let me say, however, take care that you do not give any cause of offense. It is 
 
 Now, I know that what I have been saying does not belong to a great many of you. But still, I must sometimes take texts which will apply to these special cases, especially as just now there are many who have been saved at the Agricultural Hall, and here, and elsewhere, and to whom the struggle for conscience' sake is quite a new thing. And a word or two by way of comfort to them I am sure you will not grudge. And now we shall turn to the second part of the sermon, and we find the Patriarch engaged in—
 
-II. A REMARKABLE RESORT AND EXERCISE.
+## II. A Remarkable Resort and Exercise
 
 His friends were scorning him, but he did not answer them. He had a sharp word or two, certainly, but still, the direction of his mind and the bent of his spirit went another way. He thought of God and forgot them. Herein is wisdom. When you are perplexed with a trouble, when you are mortified by some wicked person, do not let that thing always fret you. Have you ever noticed how you may torment yourselves with some little thing if you like? There is a fly in the room and that fly may be almost as much a trouble to you as though it were an eagle if you let its buzz be always in your ears. And if you keep on thinking about that buzzing fly, you can magnify it into a big dragon with wings. But if you forget it, and go on with your writing or your needlework, the fly may buzz away 50 times as much, but it will not trouble you! It is a very blessed thing, when, having a care which you cannot get over, you take it to God in prayer and so get over it. I will tell you what I have sometimes done with some of my difficulties. I have turned them over—I have looked at them in all shapes and ways—I have considered every way of getting over them. I have been vexed, troubled and distressed for the time, and at last I have come to feel, "Well now, I cannot do anything with this. It is a hard shell—I cannot crack it. But I have frequently been enabled by Grace to deliberately take that matter and put it upon the shelf and say, "By God's Grace I will never think about that again as long as I live—I have done the best I could with it, Lord, and if it does not get right, that is now Your business and not mine—I will be done with it forever." Sometimes you will find that the trouble will get right as soon as you leave it alone. It is just your meddling with it that makes the difficulty. You do not see that at the time, but as soon as you just get out of the way, the whole thing becomes right at once! God's wheels of Providence grind much more accurately than any of the wheels of our mental calculations. And when we are altogether out of joint, then it is that God comes in and shows us what His wisdom and power can do. Leave, then, the scorning friends, and betake yourselves to your God!
 
@@ -75,9 +72,9 @@ I may never speak to some of you again, but oh, I should like to leave that thou
 
 The Lord Himself grant it to everyone of you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM22:1-22; SONG OF SOLOMON 1:1-7,2:1-7.
+## Exposition by C. H. Spurgeon: Psalm 22:1-22; Song of Solomon 1:1-7,2:1-7
 
-PSALM22.
+## Psalm 22
 
 Stand and look up at Christ upon the Cross and look upon these words as His. He Himself is the best exposition of this wondrous Psalm.
 
@@ -105,7 +102,7 @@ Verses 1, 2. My God, My God, why have You forsaken Me? Why are You so far from h
 
 18-22. They part My garments among them, and cast lots upon My vesture. But be not You far from Me, O LORD: O My Strength, hasten You to help Me. Deliver My soul from the sword; My darling from the power of the dog. Save Me from the lion's mouth: for You have heard Me from the horns of the unicorns. I will declare Your name unto My brethren: in the midst of the congregation will I praise You. The sun that was darkened, now shines again. The Savior's griefs are over. A calm is spread over His mind. He is about to say, "It is finished!" and His heart is comforted. We leave that passage there.
 
-SONG OF SOLOMON 1.
+## Song of Solomon 1
 
 Now, concerning our love to Him, let us read a few verses of the Song of Solomon, first Chapter. You have been introduced to the Beloved, red with His own blood, but never so lovely as in His passion.
 
@@ -121,7 +118,7 @@ Verses 1, 2. The song of songs, which is Solomon's. Let Him kiss me with the kis
 
 6\. 7. Look not upon me, because I am black, because the sun has looked upon me. My mother's children were angry with me: they made me the keeper of the vineyards; but my own vineyard have I not kept. Tell me, O You whom my soul loves, where You feed, where You make Your flock to rest at noon: for why should I be as one that turns aside by the flocks of Your companions? A few verses of the next Chapter.
 
-CHAPTER 2
+## Chapter 2
 
 Song of Solomon 2:1. I am the rose of Sharon, and the lily of the valleys. So He is, and much more than that—
 
@@ -138,7 +135,6 @@ So rich is He—rose and lily both in one—
 5-7. Stay me with flagons, comfort me with apples: for Iam love sick. His left handis under my head, andHis right hand does embrace me. I charge you, O you daughters of Jerusalem—By every lovely, timid, tender, chaste thing—
 
 7\. By the roes, and by the hinds of the field, that you stir not up, nor awake my love, till He please. If I have fellowship with Him—if I am near His Cross—if I am drinking in His love, oh, do not hinder me! Do not call me away! Do not break the spell, but let me go on with this blessed daydream, which is truer than reality, itself, till I see Him face to face, when the day breaks and the shadows flee away!
-
 
 ---
 [[Sermon 3372 Conversion and Character|← #3372]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3374 Sin's True Character|#3374 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 11
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SUFFERERS MAKE STRONG BELIEVERS**
+## **Sufferers Make Strong Believers**
 
 > It is good for a man that he bear the yoke in his youth" Lam. 3:27
 
@@ -27,7 +26,6 @@ The yoke of censure is an irksome one, but it prepares a man for future honor. H
 The yoke of affliction, disappointment, and excessive labor is by no means to be sought for; but when the Lord lays it on us in our youth it frequently develops a character which glorifies God and blesses the Church.
 
 Come, my soul, bow thy neck; take up thy cross. It was good for thee when young, it will not harm thee now. For Jesus' sake, shoulder it cheerfully.
-
 
 ---
 [[FCB September 10|← September 10]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 12|September 12 →]]

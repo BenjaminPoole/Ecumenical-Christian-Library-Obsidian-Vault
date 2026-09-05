@@ -10,8 +10,7 @@ written: "c. 1722–1758 (Edwards' private notebooks, the \"Miscellanies\")"
 tags:
   - jonathan-edwards
 ---
-
-THE
+## The
 
 # WISDOM OF GOD,
 

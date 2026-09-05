@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # God's Glorious and Everlasting Name
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2229
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To make Himself an everlasting name...To make Yourself a glorious name." Isaiah 63:12,14.
 
@@ -153,10 +150,9 @@ He will do it! He will do it now! When He does it, He does it forever. I pray th
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 63. HYMNS FROM "OUR OWN HYMN BOOK"—233, 245, 586.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 Beloved Friends—I was supremely thankful to telegraph to London that I was not wearied by my journey of a thousand miles, but rather refreshed by it. I wrote that this was "almost miraculous," and my dear brother observed that I might wisely leave out the, "almost," and so save two pence, which is the rate per word! Well, it does seem to me to be beyond all that I could have asked or even thought. Blessed be the healing Lord! I am waiting and watching for news from home as remarkable in regard to a Tabernacle revival as these tidings from me about my restoration to health. I now look for great things in connection with Dr. Pierson's labors and those of all my friends at home. Good news has already reached me as to the usefulness of the printed sermons, but I long for more. To spread my sermons is to help on the cause in the most efficient manner. To pray for a blessing is to share in it. Why should we not see a renewal of faith, a re-enthronement of the Truth of God, a deep and widespread revival of religion at home and a grand advance of missions abroad? According to your faith be it unto you, you heirs of the heavenly Kingdom! Your fellow servant, Mentone, October 31, 1891. C H. SPURGEON.
-
 
 ---
 [[Sermon 2228 The Law's Failure and Fulfillment|← #2228]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2230 Loved and Washed|#2230 →]]

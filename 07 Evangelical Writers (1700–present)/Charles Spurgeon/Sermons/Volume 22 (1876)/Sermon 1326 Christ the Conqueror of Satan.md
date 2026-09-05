@@ -13,7 +13,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Christ the Conqueror of Satan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1326
@@ -122,8 +121,7 @@ Raise your Deliverer’s name on high.”
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 3.
 
-HYMNS FROM “OUR OWN HYMN BOOK”—335, 477, 322.
-
+## Hymns from “Our Own Hymn Book”—335, 477, 322
 
 ---
 [[Sermon 1325 Christ the End of the Law|← #1325]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1327 Christ the Overcomer of the World|#1327 →]]

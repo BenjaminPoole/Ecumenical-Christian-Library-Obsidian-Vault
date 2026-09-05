@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 31
-
-**PSALM 31.**
 
 David, having been delivered from some great danger, or rather from many dangers, first relates the prayers which he had offered up to God amidst the terrors of death. He then subjoins his thanksgiving, which is no ordinary one; for he celebrates his deliverance at great length, and exhorts all the saints to be of good hope, as they had in him a most excellent and memorable example of God’s goodness.
 

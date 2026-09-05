@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 117
-
-**PSALM 117**
 
 ## Psalm 117:1-2
 

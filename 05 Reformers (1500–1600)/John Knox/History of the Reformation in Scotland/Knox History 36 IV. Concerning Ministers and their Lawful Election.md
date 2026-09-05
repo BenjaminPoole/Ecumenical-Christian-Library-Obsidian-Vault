@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 36. IV. Concerning Ministers and their Lawful Election
-
-### IV. Concerning Ministers and their Lawful Election.
 
 1\. In a Kirk reformed or tending to reformation, none ought to presume to preach, or to minister the Sacraments, until they be called to the same in proper form. Ordinary vocation consisteth in election, examination, and admission; and, because election of ministers in this cursed Papistry has altogether been abused, we think it expedient to treat of it more largely.
 

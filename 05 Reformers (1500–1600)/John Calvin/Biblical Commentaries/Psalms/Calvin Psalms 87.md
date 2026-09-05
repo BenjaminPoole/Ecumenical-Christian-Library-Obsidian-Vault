@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 87
-
-**PSALM 87**
 
 A Psalm or Song of the sons of Korah.
 

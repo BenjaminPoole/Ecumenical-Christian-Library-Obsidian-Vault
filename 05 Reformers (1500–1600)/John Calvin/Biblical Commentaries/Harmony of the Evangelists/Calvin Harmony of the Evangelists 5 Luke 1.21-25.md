@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 5. Luke 1:21-25
-
-**LUKE 1:21-25**
 
 **21**. And the people were waiting for Zacharias, and wondered that he tarried in the temple. **22**. And when he came out, he could not speak to them: and they perceived that he had seen a vision in the temple. And he made them to understand by signs, [^1] and remained speechless. **23**. And it happened, when the days of his office were fulfilled, he departed to his own house. **24**. Now after these days Elisabeth his wife conceived, and hid herself five months, saying, **25**. Thus hath the Lord done to me in the days when he looked, that he might take away my reproach among men.
 

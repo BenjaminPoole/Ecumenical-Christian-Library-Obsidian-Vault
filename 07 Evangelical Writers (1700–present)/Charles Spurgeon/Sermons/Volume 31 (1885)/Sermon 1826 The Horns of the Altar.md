@@ -13,7 +13,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # The Horns of the Altar
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1826
@@ -84,14 +83,13 @@ Portion of Scripture read before Sermon—Psalms 61 and 62.
 
 Hymns from "Our Own Hymn Book"—560, 589, 514.
 
-LETTER FROM MR. SPURGEON
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS AND BRETHREN,—As I am expected to report myself weekly, and have only this corner left to do it in, the bulletin shall be brief. *Weather unsettled; progress fair, but not rapid. I find myself too readily depressed with small matters, and I have a sense of unfitness for my future work. This shows that while rest has done much, there is more to be done. Three weeks have worked such marvels that I hope in due time to return in full vigor.*
 
 My heart is with the Special Services at the Tabernacle; for which I beg every reader to pray daily.
 
 Mentone, February 21st, 1885.
-
 
 ---
 [[Sermon 1825 An Inscription for the Mausoleum of the Saints|← #1825]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1827 Exceeding Gladness|#1827 →]]

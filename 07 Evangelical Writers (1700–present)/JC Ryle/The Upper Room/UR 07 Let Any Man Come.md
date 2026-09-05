@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Let Any Man Come.
 
-Chapter VII · *The Upper Room* — J. C. Ryle
+## Chapter VII · *The Upper Room* — J. C. Ryle
 
 > — John 7:37-38[^1]
 
@@ -138,7 +137,6 @@ THERE is a passage in an old writer which throws so much light on some points me
 "If he still say that this believing is hard, this is a good doubt, but easily resolved. It bespeaks a man deeply humbled. Anybody may see his own impotence to obey the law of God fully; but few find the difficulty of believing. For his relief and resolution ask him, What it is he finds makes believing difficult to him? Is it unwillingness to be justified and saved? Is it unwillingness to be so saved by Jesus Christ, to the praise of God's grace in Him, and to the voiding of all boasting in himself? This he will surely deny. Is it a distrust of the truth of the gospel record? This he dare not own. Is it a doubt of Christ's ability or goodwill to save? This is to contradict the testimony of God in the gospel. Is it because he doubts of an interest in Christ and his redemption? You tell him that believing on Christ makes up the interest in Him.
 
 "If he say that he cannot believe on Jesus Christ because of the difficulty of the acting this faith, and that a Divine power is needful to draw it forth, which he finds not, you must tell him that believing in Jesus Christ is no work, but a resting on Jesus Christ. You must tell him that this pretence is as unreasonable as if a man, wearied with a journey and not able to go one step further, should argue, ' I am so tired, that I am not able to lie down,' when indeed he can neither stand nor go. The poor wearied sinner can never believe on Jesus Christ till he finds he can do nothing for himself; and in his first believing doth always apply himself to Christ for salvation, as a man hopeless and helpless in himself. And by such reasonings with him from the gospel, the Lord will (as He hath often done) convey faith and joy and peace by believing." Robert Tralli's Works, 1696. Vol. i. 266-269.
-
 
 ---
 [[UR 06 One Blood|← One Blood.]] · [[The Upper Room|Upper Room Contents]] · [[UR 08 Victory|Victory →]]

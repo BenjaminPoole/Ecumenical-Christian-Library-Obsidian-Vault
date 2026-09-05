@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Pleading For Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1887
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 21, 1886,.
+*Delivered on Lord's-Day Morning, February 21, 1886*
 
 > "Now I beseech you, Brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that you strive together with me in your prayers to God for me; that I may be delivered from those in Judea who do not believe, and that my service which I have for Jerusalem may be accepted of the saints; that I may come unto you with joy by the will of God, and may, with you, be refreshed. Now the God of Peace be with you all. Amen." Romans 15:30-33.
 
@@ -124,7 +123,6 @@ Dear Brothers and Sisters, remember that the Truth of God, alone, if not enforce
 This will be to your profit. No man hears his pastor preach without deriving some benefit from him, if he has earnestly prayed for him. The best hearers who get the most out of a man are those who love him best and pray most for him. God can make us dry wells to you if you offer no prayers for us! He can make us clouds that are full of rain if you have pleaded with God on our behalf!
 
 But the master argument with which we close is that which Paul mentions—"For Christ's sake." Oh, for God's sake, for His name and Glory's sake, if you would honor the Father, if you would let Jesus see of the travail of His soul, wrestle together with us in your prayers for the Divine working! It is so, Brothers and Sisters, you know it is so that we are wholly dependent upon the Spirit of God! If it is so, that without God's blessing we can do nothing, and that God's blessing is given if we inquire of God for it, then I need not press you further—you will pray for me and for other preachers of the Word of God! If your hearts are right, you will, each one, resolve to offer special, continuous and fervent prayer in private and in your families and in our holy convocations—and these shall deepen into an agony before God— and then a blessing shall be given us which we shall scarcely have room enough to receive! Lord, teach us to pray!
-
 
 ---
 [[Sermon 1886 God's Remembrance of His Covenant|← #1886]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1888 The Blood of Sprinkling|#1888 →]]

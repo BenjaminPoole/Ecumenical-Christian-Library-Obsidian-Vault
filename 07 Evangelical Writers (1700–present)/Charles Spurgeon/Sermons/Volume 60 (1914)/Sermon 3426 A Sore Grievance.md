@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # A Sore Grievance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3426
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They have forgotten their resting place." Jeremiah 50:6.
 
@@ -27,7 +24,7 @@ What is our resting place, Beloved? We have only one answer, I am sure—"We who
 
 Three things—here is the first—a sin of which to be convinced. Secondly, the cause of it to be sought out. And thirdly, the cure of it to be brought about. "They have forgotten their resting place."
 
-I. THIS IS TO BE ACCOUNTED A SIN FOR MANY REASONS.
+## I. This Is to Be Accounted a Sin for Many Reasons
 
 Let us recollect how dearly our resting place was purchased for us. To give your soul rest, my Brothers and Sisters, Jesus Christ gave up His rest and more—His Heaven, His Throne, His honor, His life. No rest could there ever have beenfor you, a wandering sheep, if the Shepherd had not given up Himself as a ransom for the flock. Did it cost Him Gethse-mane's bloody sweat? Did it cost Him Calvary's wounds and death? And did you receive it and yet forget it? Have not you often thought that whatever else might have passed away from your mind, never could the thought of that dying love depart? Yet it has faded on the tablet of your heat, for you have forgotten the priceless gift which that dying love has procured for you! Oh, chide yourself, that Immanuel's purchase should be lightly esteemed, that He, your rest, should ever slip away from your thoughts!
 
@@ -63,7 +60,7 @@ Once more, I think some genuine Christians forget their resting place for a whil
 
 These are the things that will sometimes bring us into the dilemma of forgetting our resting place. And now to close—
 
-III. WHAT IS THE CURE FOR IT ALL?
+## III. What Is the Cure for It All?
 
 I do not know what Charles the First meant when he gave his watch to Bishop Judson and said, "Remember." I do not care what he meant. But let the same be my word to you tonight, "Remember! Remember!" That is the cure for this distemper of the mind, this dereliction of the heart."Remember what?" you ask. Remember first the past—
 
@@ -93,7 +90,7 @@ So may it be with you now!
 
 There may be, however, in this congregation—no, I know there are some who have never yet enjoyed rest. They are going about to find it. Dear Hearer, there is only one resting place—don't look for another! Your works will never provide you rest. Sacraments can never rest you. Tears and groans, and prayers can never rest you. "None but Jesus can do helpless sinners good." "Believe in Him and live!" Trust in Him and you shall find rest unto your soul forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 3:6-25; 4:1-29.
+## Exposition by C. H. Spurgeon: Jeremiah 3:6-25; 4:1-29
 
 Let us read part of the 3rd Chapter of Jeremiah where God brings a solemn accusation against the two nations of Israel and Judah because they forsook the living God and went after idols—neglected His pure and holy worship—and followed after the abominable rites of the heathen.
 
@@ -127,7 +124,7 @@ Verse 6, 7. The LORD said also unto me in the days of Josiah the king, Have you 
 
 25\. We lie down in our shame, and our confusion covers us: for we have sinned against the LORD our God, we and our fathers, from our youth, even unto this day, and have not obeyed the voice of the LORD our God. There you see the repentance which the Lord commanded at His people's hands, and wherever there is such a repentance as that, there are sure to be acceptance and salvation! God grant us that repentance and save us for His mercy's sake!
 
-JEREMIAH 4:1-29.
+## Jeremiah 4:1-29
 
 Verses 1, 2. If you will return, O Israel, says the LORD, return unto Me, and if you will put away your abominations out of My sight, then shall you not be moved. And you shall swear, The LORD lives, in truth, in judgment and in righteousness. And the nations shall bless themselves in Him, and in Him shall they glory. So he sets before them life and death. First, He begins with these words of encouragement. He begs them to come, for God is willing to receive them, notwithstanding all.
 
@@ -154,7 +151,6 @@ Now follows the lament of Jeremiah—one of the most amazing pieces of sorrowful
 22, 23. For My people are foolish, they have not known Me. They are silly children, and they have no understanding: they are wise to do evil, but to do good they have no knowledge. I beheld the earth, and, lo, it was without form, and void: and the heavens, and they had no light. As if they had gone back to chaos—to the primeval darkness—to the first disorder before God began to create.
 
 24-29. Ibeheld the mountains, and, lo, they trembled, and all the hills moved lightly. Ibeheld, and lo, there was no man, and all the birds ofthe heavens were fled. I beheld, and lo, the fruitful place was a wilderness and all the cities thereof were broken down at the Presence ofthe LORD, and by His fierce anger. For thus has the LORD said, The whole land shall be desolate; yet will I not make a full end. For this shall the earth mourn, and the heavens above be black, because I have spoken it, I have purposed it and I will not repent, neither will I turn back from it. The whole city shall flee from the noise ofthe horsemen and bowmen. They shall go into thickets and climb up upon the rocks. Every city shall be forsaken, and not a man dwell therein. Now all this did happen. It all came to pass. Palestine, the glorious Garden of God, was made as dreary as a wilderness! It is not much better now. It has scarcely recovered. God will re-gather them to the land one day, but oh, what a sight it was when God at last had ended His patience—poured out the vials of His wrath upon His once favored land!
-
 
 ---
 [[Sermon 3425 Days of Heaven Upon the Earth|← #3425]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3427 The Blessed Christ|#3427 →]]

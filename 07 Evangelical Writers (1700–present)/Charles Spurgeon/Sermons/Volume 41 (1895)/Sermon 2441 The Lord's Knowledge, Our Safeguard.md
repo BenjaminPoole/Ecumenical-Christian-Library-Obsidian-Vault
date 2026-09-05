@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Lord's Knowledge, Our Safeguard
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2441
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord knows how to deliver the godly out of temptations, and to reserve the unjust unto the Day of Judgment to be punished." 2 Peter 2:9.
 
@@ -105,7 +102,7 @@ I close with an illustration of the text which I feel almost certain was in the 
 
 Read the rest of the chapter, please, for that takes in the other half of my text. Herod sat upon his throne of state and all the people were paying him homage. And when he made an oration from his golden throne, they shouted, "It is the voice of a god, and not of a man." That same God, who had delivered Peter, knew how to lay hold of Herod, for we are told that immediately the angel of the Lord smote him and he was eaten of worms and gave up the ghost! The first is a brilliant deed of infinitely wise Grace, the next is an astounding deed of n infinitely wise Justice! It is not necessary that you go to the gallows to meet your doom—a few worms can destroy you! It is not necessary that you be killed in a great railway accident, or that there be a collision at sea, or that you fall on the field of battle! Herod was eaten of worms. A grape-stone has, before now, choked and killed a man. A draught of water has been poisonous to another. A little gas, that was almost impalpable, has laid another in his grave. There is not one of you ungodly ones who can escape if God shall say to His angels, "Smite that man while he sits in his pew. He has resisted My mercy and rejected My love. He will not come to Christ." You, too, may be eaten of worms before another Sunday comes! God grant that you may not meet such a fate, but may you learn the lesson of this text and feel the force and power of it in your own souls, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 116-21; 2:1-10.
+## Exposition by C. H. Spurgeon: 1 Peter 116-21; 2:1-10
 
 1 Peter 1:16. For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of His majesty. There is need in these perilous times to come back to such an elementary Truth as this. The Truths taught us in God's Word are not fables, myths, or merely parables, but they are matters of actual fact. The Apostles were eyewitnesses of "the power and coming of our Lord Jesus Christ"— "eyewitnesses of His majesty." We receive these Truths of God without the slightest question and base our faith upon them. We would be troubled, indeed, if we had any doubts whatever about these great foundation facts of our holy religion.
 
@@ -134,7 +131,6 @@ EXPOSITION BY C. H. SPURGEON: 1 PETER 116-21; 2:1-10.
 9, 10. And to reserve the unjust unto the Day of Judgment to be punished: but chiefly them that walk after the flesh in the lust of uncleanness and despise government. We have far too many, nowadays, of both these sorts of sinners, and of the two sorts joined in one—"them that walk after the flesh in the lust of uncleanness, and despise government."
 
 10\. Presumptuous are they, self-willed, they are not afraid to speak evil of dignities. There let us cease our reading and turn to another holy song in which we will praise our God, whose Grace has made us to differ from the ungodly by whom we are surrounded.
-
 
 ---
 [[Sermon 2440 Faithful Stewardship|← #2440]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2442 My Beloved Is Mine|#2442 →]]

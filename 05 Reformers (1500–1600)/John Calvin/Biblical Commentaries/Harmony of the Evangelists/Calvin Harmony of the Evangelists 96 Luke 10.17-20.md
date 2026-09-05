@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 96. Luke 10:17-20
-
-**Luke 10:17-20**
 
 **17**. And the seventy returned with joy, saying, Lord, even the devils are subject to us in thy name. [^1] **18**. And he said to them, I beheld Satan falling from heaven like lightning. **19**. Lo, I give you power to tread on serpents and scorpions, and on all the power of the enemy, and nothing shall hurt you. **20**. Nevertheless, rejoice not in this, that the spirits are subject to you; but rejoice, because your names are written in heaven.
 

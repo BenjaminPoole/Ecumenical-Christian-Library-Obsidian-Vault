@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # What the Lord's Supper Sees and Says
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2595
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as often as you eat this bread, and drink this cup, you do show the Lord's death till He comes." 1 Corinthians 11:26.
 
@@ -83,7 +80,7 @@ But there are some of you who have never come to this Table. If you are not God'
 
 Now come, dear Friends, to this Communion Table, seeking your Lord and Master, and may you find Him and your hearts be made glad! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:17-30; 1 CORINTHIANS11:20-34.
+## Exposition by C. H. Spurgeon: Matthew 26:17-30; 1 Corinthians 11:20-34
 
 Matthew 26:17-19. Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto Him, Where will You that we prepare for You to eat the Passover? And He said, Go into the city to such a man, and say unto him, The Master says, My time is at hand; I will keep the Passover at your house with My discip1es. And the disciples did as Jesus had appointed them; and they made ready the Passover Note their prompt obedience—"the disciples did as Jesus had appointed them." In this respect, they set an example we shall do well to follow.
 
@@ -120,7 +117,6 @@ Matthew 26:17-19. Now the first day of the feast of unleavened bread the discipl
 32\. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. Perhaps somebody thought, just now, "I do not want to be in the Church of Christ if it gets special chastening." That is one among many reasons why I do want to be in the Church of Christ, for, "we are chastened of the Lord, that we should not be condemned with the world."
 
 33\. 34. Therefore, my brethren, when you come together to eat, tarry one for another. And if any man hungers, let him eat at home; that you come not together unto condemnation. And the rest will 1set in order when I come.
-
 
 ---
 [[Sermon 2594 The Offense of the Cross|← #2594]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2596 Where Is the God of Elijah|#2596 →]]

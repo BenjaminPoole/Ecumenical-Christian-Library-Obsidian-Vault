@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 139. Matthew 16:5-12; Mark 8:14-21; Luke 12:1
-
-**Matthew 16:5-12; Mark 8:14-21; Luke 12:1**
 
 **5**. And his disciples, when they had come to the opposite bank, through neglect had not taken bread. [^1] **6**. And Jesus said to them, Take heed and beware of the leaven of the Pharisees and of the Sadducees. **7**. But they considered within themselves, saying, We have not taken bread. [^2] **8**. And when Jesus knew this, he said to them, Why do you think within yourselves, O you of little faith, that you have not taken bread? **9**. Do you not yet understand, and do you not remember those five loaves, when there were five thousand men, and how many baskets you carried away? **10**. Nor those seven loaves, when there were four thousand men, and how many baskets you carried away? **11**. How comes it that you do not understand that it was not about bread that I told you to beware of the leaven of the Pharisees and of the Sadducees? **12**. Then they understood that he did not bid them beware of the doctrine of the Pharisees and of the Sadducees.
 

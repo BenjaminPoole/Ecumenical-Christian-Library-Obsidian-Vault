@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 17
 
 V. 1. Come. The multitude of the lost which left the Creator, and prostituted itself to commit adultery with demons, is spoken of as sitting upon the waves, that is, the discord of the peoples. But on the contrary, "of the multitude of the believers there was one heart and one soul*," whom the Apostle "espoused to one husband, to present them a pure virgin to Christ."
@@ -28,8 +26,6 @@ seven. That is, which has both the kings and kingdoms of the world, whose glory 
 * Acts iv. 32. "a Cor. xi. 2.
 
 ■ St Matt. iv. 8. * See on ch. xii. 3.
-
-ii8 Exptanatian of the Apocfdypse. [bk. hi.
 
 gilded. That is, with all the allurements of simulated truth. Lastly, he explains what is within this beauteousnessy as follows.
 
@@ -52,8 +48,6 @@ short space. Because the Lord beholds us both proud and weak, he says, that the 
 11. eighth. Antichrist, who is to reign at the end of the age, because of the unity of the body of the ungodly of which he is the head, pertains to the number of the kingdoms of the world. But because of his singular power of wickedness, he is also retained in the order of his own proper place.
 
 12. horns. The kingdoms of the world have not yet fully displayed their power in persecuting the Church. For although these even now have rule over the greatest part, yet there will be the stronger power of insane boasting when they have also deceived such by signs. Some understand it, that when the last persecution draws near, there will be ten kings who are to divide the. world between, them; according to
-
-I30 Explanation of the Apocalypse, [bk. hi.
 
 the prophecy of Daniel also^ who said ''of the fourth beast, '^ And he had ten horns; and behold another little horn came up from the midst of them, and three of the first horns were plucked up before his face;" and that Antichrist who should arise from Babylon, should subdue the king of Egypt, and of Africa, and that after they were slain, seven other kings should also submit their necks to the conqueror. But others say that Antichrist is placed in the number eleven, to signify prevarication. For eleven indicates a departure from the perfection of the number ten.
 
@@ -86,8 +80,6 @@ xxiv. 37; St Luke xviL 26. t Dan. vii. 23. Vulg., " shall
 be greater than/' Chald., ]D ^T\ as A V. *shall be diverse
 
 from." Ch. xxi. 2. '. '
-
-133 Explanation of the Apocalypse. [bk. hi.
 
 into it." For there are two cities in the world, the one proceeding from the abyss, the other from heaven. And therefore he now compares the same ungodliness, which he had described under the appearance of a harlot naked and burned up, with the ruins of a deserted city.
 

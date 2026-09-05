@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## 2 Corinthians 4:1-6
 

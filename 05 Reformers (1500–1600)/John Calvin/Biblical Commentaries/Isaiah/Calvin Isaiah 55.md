@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 55
 
-**CHAPTER 55.**
+***Chapter 55.***
 
 ## Isaiah 55:1-13
 

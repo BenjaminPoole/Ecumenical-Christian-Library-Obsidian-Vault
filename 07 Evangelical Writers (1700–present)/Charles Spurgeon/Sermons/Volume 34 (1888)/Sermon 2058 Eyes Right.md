@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # "Eyes Right"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2058
@@ -151,14 +150,13 @@ Go after Christ, dear Friend. Seek after Christ with your whole heart and soul. 
 
 Then you will soon find Him. "Let your eyes look right on and let your eyelids look straight before you," and you shall see the Lord of Grace appearing to you through the mist and through the cloud—that same Savior who stands in the midst of us even now and cries, "Look unto Me, and be you saved, all the ends of the earth: for I am God and there is none else."
 
-LETTER FROMMR. SPURGEON
+## Letter Frommr. Spurgeon
 
 BELOVED FRIENDS—We are in our measure partaking in the change of weather which plunged England from an almost summer heat into cold and fog, for we have a cold wind blowing with a force which overpowers the warm sun. This has a depressing influence upon many invalids but does not affect me. Each day I make a little progress. I could not yet stand through a discourse, much less walk a mile. But I can walk further than I could a week ago and I am conscious of renewed vigor. I thank God that the swelling of the feet is also decreasing and so I may look for complete restoration and then for a speedy return to my happy work.
 
 I hope and pray that this week's sermon may prove useful. Purposely I have made it striking and plain, with the design that it should be suitable for wide distribution. It contains the Gospel in its simplicity, stated in a pleasant manner.
 
 I have prepared three sermons, as a double number, to close the year with and I hope they will be a fit top stone to the thirty-fourth volume, which I am glad to have completed. Receive my sincere love in Christ Jesus. May all Grace abound towards you. Yours till death, C. H. Spurgeon. Mentone, Dec. 13th, 1888
-
 
 ---
 [[Sermon 2057 The Lord's Own Salvation|← #2057]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2059 The Miracles of Our Lord's Death|#2059 →]]

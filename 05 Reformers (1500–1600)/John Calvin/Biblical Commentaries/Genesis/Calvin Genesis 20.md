@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 20
 
-**CHAPTER 20.**
+***Chapter 20.***
 
 ## Genesis 20:1-18
 

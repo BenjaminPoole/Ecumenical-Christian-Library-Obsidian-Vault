@@ -9,7 +9,6 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # Conclusion
 
 Thus, reader, I have given thee my best advice for maintaining a heavenly conversation. It thou canst not thus meditate methodically and fully, yet do it as thou canst; only be sure to do it seriously and frequently. Be acquainted with this heavenly work, and thou wilt, in some degree, be acquainted with God; thy joys will be spiritual, prevalent and lasting, according to the nature of their blessed object; thou wilt have comfort in life and death. When thou hast neither wealth, nor health, nor the pleasures of this world, yet wilt thou have comfort. Without the presence or help of any friend, without a minister, without a book, when all means are denied thee, or taken from thee, yet mayst thou have vigorous, real comfort. Thy graces will be mighty, active and victorious; and the daily joy which is thus drawn from heaven will be thy strength. Thou wilt be as one that stands on the top of an exceeding high mountain; he looks down on the world as if it were quite below him; fields and woods, cities and towns seem to him but little spots. Thus despicably wilt thou look on all things here below. The greatest princes will seem but as grass-hoppers; the busy, contentious, covetous world, but as a heap of ants. Men’s threatenings will be no terror to thee, nor the honors of this world any strong enticement; temptations will be more harmless, as having lost their strength; and afflictions less grievous, as having lost their sting; and every mercy will be better known and relished. It is now, under God, in thy own choice, whether thou wilt live this blessed life or not; and whether all this pains I have taken for thee shall prosper, or be lost. if it be lost through thy neglect, thou thyself wilt prove the greatest loser. O man, what hast thou to mind but God and heaven? art thou not almost out of this world already? Dost thou not look every day, when one disease or another will release thy soul? Does not the grave wait to be thine house, and worms to feed upon thy face and heart? What if thy pulse must beat a few strokes more? What if thou hast a little longer to breathe, before thou breathe out thy last; a few more nights to sleep, before thou sleepest in the dust? Alas! what will this be when it is gone? And is it not almost gone already? Very shortly thou wilt see thy glass run out, and say to thyself, “My life is done! My time is gone! It is past recalling! There is nothing now but heaven or hell before me!” Where, then, should thy heart be now but in heaven? Didst thou know what a dreadful thing it is to have a doubt of heaven when a man is dying, it would raise thee up. And what else but doubt can that man then do, that never seriously thought of heaven before.
@@ -22,8 +21,7 @@ But “O thou, the merciful Father of spirits, the attraction of love and ocean 
 
 *“Glory be to God in the highest; on earth peace, good-will toward men.*”
 
-THE END
-
+## The End
 
 ---
 [[SER 18 Heavenly contemplation exemplified, and the whole work concoluded|← Heavenly contemplation exemplified, and the whole work concoluded]] · [[The Saints' Everlasting Rest|Contents]]

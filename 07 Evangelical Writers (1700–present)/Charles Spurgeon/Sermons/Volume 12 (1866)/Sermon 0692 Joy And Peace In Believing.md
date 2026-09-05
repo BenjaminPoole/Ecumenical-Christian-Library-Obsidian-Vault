@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Joy And Peace In Believing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 692
 
-DELIVERED ON SUNDAY MORNING, MAY 20, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 20, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Joy and peace in believing.'" Romans 15:13.
 
@@ -178,7 +177,6 @@ One word, before we part, to those who know neither joy nor peace through faith 
 Does no moth corrupt, no thief break through and steal? Is it as powerful to fill the heart at all times? Does it never pall? Are you never weary of your delights? Can you live upon them forever and wish no higher good than to have them continued through eternity? Do your pleasures ennoble and exalt? Are you led by them ever higher and higher? Do they elevate you as a man, and develop every higher power and faculty of your being? Do they give you a power and a strength in the path of duty, and never lead astray to folly?
 
 Or are they prone to spread snares for your feet, and to beguile you into evil ways? Ponder these questions, and, if I am not mistaken, you will learn to despise your present state and seek that joy and peace which come through believing in Jesus. May it be so! Amen.
-
 
 ---
 [[Sermon 0691 An Immovable Foundation|← #691]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0693 The Garden Of The Soul|#693 →]]

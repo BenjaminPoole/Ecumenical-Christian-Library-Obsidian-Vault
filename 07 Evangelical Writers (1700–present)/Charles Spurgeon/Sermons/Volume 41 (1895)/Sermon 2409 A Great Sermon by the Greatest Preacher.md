@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # A Great Sermon by the Greatest Preacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2409
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And lo, a voice came from Heaven, saying, This is My beloved Son, in whom I am well pleased." Matthew 3:17.
 
@@ -89,7 +86,7 @@ Only take notice of this one thing. Imitation is the sincerest form of admiratio
 
 O dear Souls, cling to my Lord! If you cannot do that, look to my Lord, trust to my Lord, be well pleased with my Lord and my Lord shall be well pleased with you! I do not ask of you a difficult thing, for, if ever there was One with whom we ought to be well pleased, it is the Son of God, who became the Son of Mary, that He might save us from our sins! Oh, think much of that wondrous love of His! If we do not admire it and love Him for it, surely our hearts are turned to stone! May God break them and give us new ones—and enable us henceforth to love Christ with all our heart, mind, soul and strength! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 2; MA TTHEW 3.
+## Exposition by C. H. Spurgeon: Psalm 2; Ma Tthew 3
 
 Psalm 2:1-3. Why do the heathen rage, and the people imagine a vain thing? The kings of the earth set themselves, and the rulers take counsel together against the LORD, and against His Anointed, saying, Let us break their bands asunder, and cast away their cords from us. The conspiracy was both strong and influential, The kings and the rulers combined against Jehovah and against His Christ. They were very determined. They set themselves with resolute purpose. They took counsel together. They were full of a horrible enthusiasm—they raged—they thought the work as good as done, but they imagined a vain thing. The fight was against Jehovah and against His Anointed, the Christ, the Messiah! What came of it all? Did they break their bands asunder and cast away their cords from them? Listen—
 
@@ -126,7 +123,6 @@ Matthew 3:1, 2. In those days came John the Baptist, preaching in the wilderness
 15\. And Jesus answering said unto Him, suffer it to be so now: for thus it becomes us to fulfill all righteousness. Then he allowed Him. That is to say the Teacher must, Himself, obey the laws which He is about to lay down. And, inasmuch as He is going to bid others to be baptized, He will set the example and be, Himself, baptized! I think, also, that the Baptism of Christ was the picture, the type, the symbol of the work which He afterwards accomplished. He was immersed in suffering. He died and was buried in the tomb. He rose again from the grave—and all that is set forth in the outward symbol of His baptism in the River Jordan!
 
 16, 17. And Jesus, when He was baptized, went up straightway out of the water: and, lo, the heavens were opened unto Him, and He saw the Spirit of God descending like a dove, and lighting upon Him: and lo, a voice from Heaven, saying, This in My beloved Son, in whom I am well pleased. And we are well pleased with Him, too.
-
 
 ---
 [[Sermon 2408 Christ the Cure for Troubled Hearts|← #2408]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2410 Springtime in Nature and Grace|#2410 →]]

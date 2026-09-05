@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # A Royal Funeral
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2390
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And after this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus: and Pilate ga ve him leave. He came, therefore, and took the body of Jesus. And there came, also, Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pounds weight. Then took they the body of Jesus and wound it in linen strips with the spices, as the manner of the Jews is to bury. Nowin theplace where He was crucified there was a garden; and in the garden a new sepulcher, wherein was never man yet laid. There laid they Jesus, therefore, because of the Jews'preparation day; for the sepulcher was near at hand." John 19:38-42.
 
@@ -166,7 +163,6 @@ John 19:38-40. And after this, Joseph of Arimathea, being a disciple of Jesus, b
 4\. And that He rose again the third day according to the Scriptures. This is the bright light of the Gospel, the Resurrection of our Lord from the dead—
 
 5-9. And that He was seen of Cephas, then of the twelve: after that, He was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. After that, He was seen of James; then of all the Apostles. And last of all He was seen of me, also, as of one born out of due time. For I am the least of the Apostles, that am not meet to be called an Apostle, because I persecuted the Church of God. Yet He was one among the many testifiers to the fact that Jesus really died, was buried and rose from the dead, of which we will speak more particularly, by-and-by.
-
 
 ---
 [[Sermon 2389 Guidance To Grace and Glory|← #2389]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2391 The Keeper of the Vineyard|#2391 →]]

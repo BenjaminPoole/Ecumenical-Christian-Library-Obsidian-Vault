@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Commentary of Ursinus: Prolegomena
 
-WITH REFERENCE TO THE CATECHISM OF THE CHRISTIAN RELIGION WHICH WAS PREPARED FOR, AND TAUGHT IN THE SCHOOLS AND CHURCHES OF THE PALATINATE
+*With Reference to the Catechism of the Christian Religion Which Was Prepared for, and Taught in the Schools and Churches of the Palatinate*
 
 THESE PROLEGOMENA are partly general, such as treat of the entire doctrine of the Church: and partly special, such as have respect merely to the Catechism.
 
@@ -30,7 +29,7 @@ IV. What are the evidences of the truth and certainty of this doctrine?
 
 V. What are the various methods of teaching and studying this doctrine?
 
-**I. WHAT IS THE DOCTRINE OF THE CHURCH?**
+## **I. What Is the Doctrine of the Church?**
 
 The doctrine of the church is the entire and uncorrupted doctrine of the law and gospel concerning the true God, together with his will, works, and worship; divinely revealed, and comprehended in the writings of the prophets and apostles, and confirmed by many miracles and divine testimonies; through which the Holy Spirit works effectually in the hearts of the elect, and gathers from the whole human race an everlasting church, in which God is glorified, both in this, and in the life to come.
 
@@ -40,7 +39,7 @@ God wills that his church be separate and distinct from the world, for the follo
 
 How the church may be known, and what are the marks by which it may be distinguished from the various sects, will be shown when we come to speak regularly upon the subject of the church. We may, however, here say, that there are three marks by which the church is known: Purity of doctrine—the proper use of the sacraments, and obedience to God according to all the parts of this doctrine, whether of faith or practice. And if it be here objected, that great vices have often made their appearance in the church, we would reply that these are not defended and adhered to by the church, as by the various sects. Yea, the church is the first to censure and condemn them. Hence, if there are faults in the church, these are disapproved of and removed. As long as this state of things lasts, so long the church remains.
 
-**II. WHAT ARE THE PARTS OF THE DOCTRINE OF THE CHURCH, AND IN WHAT DO THEY DIFFER FROM EACH OTHER?**
+## **II. What Are the Parts of the Doctrine of the Church, and in What Do They Differ from Each Other?**
 
 The doctrine of the church consists of two parts: the Law, and the Gospel; in which we have comprehended the sum and substance of the sacred Scriptures. The law is called the Decalogue, and the gospel is the doctrine concerning Christ the mediator, and the free remission of sins, through faith. This division of the doctrine of the church is established by these plain and forcible arguments.
 
@@ -74,7 +73,7 @@ But, although true philosophy be insufficient to meet the full demands of our mo
 
 These distinctions between the doctrine of the church and that of other religions, and of philosophy also, should be observed and maintained, for these reasons. First: that all the glory which properly belongs to God may be attributed to him, which cannot be done unless we acknowledge and confess whatever he will have us to believe concerning himself and his will, and unless we add nothing to these revelations which he has been pleased to make of himself; for God cannot be joined with idols, neither can his truth be mingled with the lies and falsehood of Satan, without casting the greatest reproach upon his name. Secondly: that we may not endanger our salvation, which might occur if we were to be deceived, and embrace philosophy or the teaching of some one of the sects, for the true religion. Thirdly: that our faith and comfort may be increased, by seeing the superior excellency of the doctrine of the church to the teachings of all other systems of religion; and how many things are found in the religion of the Bible, which are wholly wanting in all others; and why it is that only those who confess and hold to the teachings of the word of God are saved, whilst all the various sects, with their adherents, are condemned and rejected of God. Finally: that we may separate ourselves from the Epicureans and Academics, who either despise everything like godliness, or so pervert it as to suppose that every man who professes some form of religion will be saved, thus interpreting the declaration of the apostle where he says, "The just shall live by his faith." (Rom. 1:17.) Now, as far as it respects these Epicureans, they are not worthy of being refuted; and as for the Academics, they evidently wrest the declaration of the Apostle from its proper signification, and may, therefore, easily be refuted; for the pronoun his never signifies that faith which any man may imagine, or frame for himself, but it signifies the true Catholic faith, peculiar to every one that has embraced the gospel of Christ; and thus it opposes the faith of every other man, even though it be true; and also the doctrine of justification by works. Hence, the true sense of this passage of Scripture is, The just man is justified, not by the works of the law but only by faith in Christ, and that by his own peculiar faith, and not by the faith of another man.
 
-**IV. WHAT ARE THE EVIDENCES BY WHICH THE TRUTH OF THE CHRISTIAN RELIGION, OR THE DOCTRINE OF THE CHURCH IS CONFIRMED?**
+## **IV. What Are the Evidences by Which the Truth of the Christian Religion, or the Doctrine of the Church Is Confirmed?**
 
 There are a great number of arguments which go to establish the truth and certainty of the teachings of the church, some of which convince the conscience; as is the case with the first XIII, which we here subjoin, whilst those which follow, incline and convert the heart. These arguments we shall present in the following order:
 
@@ -106,7 +105,7 @@ There are a great number of arguments which go to establish the truth and certai
 
 Lastly, we may mention in confirmation of the truth of this doctrine, the testimony of the Holy Ghost, by whose inspiration the Scriptures were given. By this testimony we mean a strong and lively faith, and a firm persuasion, wrought in the hearts of the faithful by the Holy Spirit, that the Scriptures are the word of God, and that God will be gracious to us according to what is affirmed in the Scriptures, which faith is followed by love to God and a calling upon his name with an assured hope of obtaining every thing that is necessary for our comfort here and in the world to come, everlasting life. This assurance and abiding consolation of the godly does not rest upon the testimony of man, nor of any other creature, but upon that of God, and is the proper effect of the Holy Spirit. As such it is experienced by all those who truly believe, in whom it is also strengthened and confirmed by the same Spirit, through the reading, hearing, and study of the doctrine delivered by the prophets and apostles. Hence, it is chiefly by the testimony of the Holy Ghost that all those who are converted to Christ are confirmed in the truth of this heavenly doctrine, and have it sealed upon their hearts. This argument being also applicable to the unregenerate, does not only convince their consciences of the truth and authority of the holy Scriptures, but it also moves and inclines their hearts to assent to this doctrine and to receive it as the truth of God. This argument, therefore, is the most important of all those which we have advanced; for, unless those which precede this be accompanied with the inward testimony of the Holy Spirit, they only convince the conscience and stop the mouths of gainsayers, but do not move or incline the heart.
 
-**V. WHAT ARE THE VARIOUS METHODS OF TEACHING AND LEARNING THE DOCTRINE OF THE CHURCH?**
+## **V. What Are the Various Methods of Teaching and Learning the Doctrine of the Church?**
 
 The method of teaching and studying Theology is three-fold. The first is the system of catechetical instruction, or that method which comprises a brief summary and simple exposition of the principal doctrines of the christian religion, which is called catechising. This method is of the greatest importance to all, because it is equally necessary for all, the learned as well as the unlearned, to know what constitutes the foundation of true religion.
 

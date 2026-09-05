@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 19
 
-**CHAPTER 19**
+***Chapter 19***
 
 ## Joshua 19:1-9
 

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WHOM, WHEN, HOW TO DELIVER**
+## **Whom, When, How to Deliver**
 
 > The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished." II Peter 2:9
 
@@ -23,7 +22,6 @@ The godly are tempted and tried. That is not true faith which is never put to th
 Sometimes their way seems to be a labyrinth, and they cannot imagine how they are to escape from threatening danger. What they do not know their Lord knows. He knows whom to deliver, and when to deliver, and how to deliver. He delivers in the way which is most beneficial to the godly, most crushing to the tempter, and most glorifying to Himself. We may leave the "how" with the Lord, and be content to rejoice in the fact that He will, in some way or other, bring His own people through all the dangers, trials, and temptations of this mortal life, to His own right hand in glory.
 
 This day it is not for me to pry into my Lord's secrets, but patiently to wait his time, knowing this, that though I know nothing, my heavenly Father knows.
-
 
 ---
 [[FCB July 11|← July 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 13|July 13 →]]

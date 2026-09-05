@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 53
-
-**PSALM 53**
 
 This psalm being almost identical with the fourteenth, it has not been considered necessary to subjoin any distinct commentary. [^1]
 

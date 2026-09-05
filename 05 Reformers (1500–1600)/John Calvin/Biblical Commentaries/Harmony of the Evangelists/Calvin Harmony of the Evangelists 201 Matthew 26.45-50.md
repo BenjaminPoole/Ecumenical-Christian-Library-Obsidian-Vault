@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 201. Matthew 26:45-50; Mark 14:41-46; Luke 22:47-48
-
-MATTHEW 26:45-50; MARK 14:41-46;  
-LUKE 22:47-48
 
 **45.** Then he cometh to his disciples, and saith to them: Sleep on now, and take your rest; lo, the hour is at hand, and the Son of man is delivered into the hands of sinners. **46.** Arise, let us go: lo, he who betrayeth me is approaching. **47.** While he was still speaking, lo, Judas, one of the twelve, cometh, and with him a great multitude with swords and clubs, [^1] from the chief priests and elders of the people. **48.** Now he who betrayed him had given them a sign, saying, Whomsoever I shall kiss, it is he: take him. **49.** And immediately approaching, he said to Jesus, Hail, Rabbi, and kissed him. **50.** And Jesus said to him, Friend for what purpose comest thou? Then they approached, and laid hands on Jesus, and took him.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Everlasting Counselor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3066
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Has your Counselor perished?" Micah 4:9.
 
@@ -100,7 +97,6 @@ O my Friends, my Friends, how much I mourn that there are some of you who are wi
 And now he is dead, the vulture is upon him and his flesh is cleared away by the horrid bird. And as you go through the desert, there is nothing but a bleached skeleton to tell the harrowing tale. Why did that man die? Because he had no guide! And so shall the wicked perish! But the righteous "shall be like a tree planted by the rivers of water, that brings forth his fruit in his season; his leaf also shall not wither; and whatever he does shall prosper. The ungodly are not so: but are like the chaff which the wind drives away."
 
 God give you His Holy Spirit, that you may receive the instruction, listen to the reproof and enjoy the comforts of this Counsel evermore!
-
 
 ---
 [[Sermon 3065 The Third Beatitude|← #3065]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3067 A Bold Challenge Justified|#3067 →]]

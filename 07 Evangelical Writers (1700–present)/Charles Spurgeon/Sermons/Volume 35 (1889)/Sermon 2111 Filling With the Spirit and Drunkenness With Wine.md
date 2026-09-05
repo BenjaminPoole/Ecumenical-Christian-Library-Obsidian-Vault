@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Filling With the Spirit and Drunkenness With Wine
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2111
 
-DELIVERED ON LORD'S DAY EVENING, MAY 26, 1889,.
+*Delivered on Lord's Day Evening, May 26, 1889*
 
 > "And be not drunk with wine, wherein is excess. But be filled with the Spirit." Ephesians 5:18.
 
@@ -196,7 +195,6 @@ If you are filled with the Spirit of God and wish to retain His gracious Presenc
 Beloved, when the Spirit of God fills you, you will not only speak, but sing. Let the holy power have free course—do not quench the Spirit. If you feel like singing all the while, sing all the while and let others know that there is a joy in the possession of the Spirit of God which the world does not understand but which you are feeling and to which you wish to bear witness.
 
 Oh, that the Spirit of God would come upon this entire Church and fill you all to overflowing! May the members of other Churches that are here tonight take home fire with them and set their Churches on flame! The Lord bless you, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2110 The Mustard Seed A Sermon for the Sabbath-School Teacher|← #2110]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2112 Peace—How Gained, How Broken|#2112 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # A Feast for the Upright
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1659
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 14, 1882,.
+*Delivered on Lord's-Day Morning, May 14, 1882*
 
 > "For the Lord God is a sun and shield: the Lord will give Grace and Glory: no good thing will He withhold from those who walk uprightly. O Lord of Hosts, blessed is the man that trusts in You!" Psalm 84:11,12.
 
@@ -142,7 +141,6 @@ There are thousands of mercies that we do not enjoy, not because they are withhe
 plenty. They are eating the coarsest meal and wearing the roughest garment—I mean spiritually—and going about sighing and crying! They are doubting and fearing and all the while, there is the bread of Heaven on the table for them, and the robe of Christ's righteousness is prepared for them to wear! They might dwell at Heaven's gate, but they condemn themselves to the dunghill!
 
 Come, Brothers and Sisters, let us change all this! If the Lord has said, "No good thing will I withhold," let us put Him to the test! Among other things, let us ask Him to give us more joy in the Lord—a fuller assurance and confidence in Him—and He will give it to us. Do not let us be poor by self-inflicted poverty, but let us rise to the riches which are presented to us in this blessed text. I wish I knew how to preach from it, but pray, take an hour this afternoon and do with the text as the cow does with the grass when she has been round the meadow and satisfied herself. She lies down and chews the cud. If you will ruminate by meditation you will find more in the text than I shall ever be able to bring out of it. May the Lord feed you upon this choice portion, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1658 Healed or Deluded Which|← #1658]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1660 The Perpetuity of the Law of God|#1660 →]]

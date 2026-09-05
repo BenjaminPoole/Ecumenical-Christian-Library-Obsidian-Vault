@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Suitable Watchword
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3097
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Help, LORD." Psalm 12:1.
 
@@ -89,7 +86,7 @@ All this I have spoken to Christians, but there would be plenty of room and oppo
 
 I leave you, then, with the prayer, "Help, Lord." May the Lord help you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 11.
+## Exposition by C. H. Spurgeon: Psalm 11
 
 Verses 1-3. I will love You, O LORD, my strength The LORD is my rock and my fortress, and my deliverer; my God, my strength in whom I will trust; my buckler, and my horn of my salvation, and my high tower I shall call upon the LORD, who is worthy to be praised: so shall I be saved from my enemies. At first he says, "I will love You," then, "I will trust You." Now he says "I will call upon You," and that calling upon God is especially in the sense of praising Him. And when you have just experienced a Divine deliverance, how full your spirit is of sacred gratitude!
 
@@ -120,7 +117,6 @@ Verses 1-3. I will love You, O LORD, my strength The LORD is my rock and my fort
 38-45. I have wounded them that they were not able to rise: they are fallen under my feet. For You have girded me with strength unto the battle: You have subdued under me those that rose up against me. You have also given me the necks ofmy enemies; that Imight destroy them that hate me. They cried, but there was none to save them: even unto the LORD, but He answered them not. Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets. You have delivered me from the strivings of the people; and You have made me the head of the heathen: a people whom I have not known shall serve me. As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me. The strangers shall fade away, and be afraid out of their close places. So it came to pass that the Philistines were afraid of David and he delivered his people from the attacks of all invaders, and brought them that blessed peace which Solomon enjoyed with them.
 
 46-50. The LORD lives, and blessed be my rock; and let the God ofmy salvation be exalted. It is God that avenges me, and subdues the people under me. He delivers me from my enemies: yes, You lift me up above those that rise up against me: You have delivered me from the violent man. Therefore will I give thanks unto You, O LORD, among the heathen, and sing praises unto Your name. Great deliverance gives He to His king; and shows mercy to His anointed, to David, and to his seed forevermore.
-
 
 ---
 [[Sermon 3096 The Second Time|← #3096]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3098 Needless Fears|#3098 →]]

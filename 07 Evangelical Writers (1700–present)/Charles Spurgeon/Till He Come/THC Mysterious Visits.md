@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Mysterious Visits
 
 *Till He Come* — Charles H. Spurgeon
 
-## MYSTERIOUS VISITS.
-
 ### AN ADDRESS TO A LITTLE COMPANY AT THE COMMUNION TABLE AT MENTONE.“Thou hast visited me in the night.”—Psalm xvii. 3.
-
-## MYSTERIOUS VISITS.
 
 IT is a theme for wonder that the glorious God should visit sinful man. “What is man, that Thou art mindful of him? and the son of man, that Thou visitest him?” A divine visit is a joy to be treasured whenever we are favoured with it. David speaks of it with great solemnity. The Psalmist was not content barely to speak of it; but he wrote it down in plain terms, that it might be known throughout all generations: “Thou hast visited me in the night.” Beloved, if God has ever visited you, you also will marvel at it, will carry it in your memory, will speak of it to your friends, and will record it in your diary as one of the notable events of your life. Above all, you will speak of it to God Himself, and say with adoring gratitude, “Thou hast visited me in the night.” It should be a solemn part of worship to remember and make known the condescension of the Lord, and say, both in lowly prayer and in joyful psalm, “Thou hast visited me.”
 
@@ -136,7 +131,6 @@ Each minute for a year.”
 “As the hart panteth after the water-brooks, so panteth my soul after Thee, O God!” If you long for Him, He much more longs for you. Never was there a sinner that was half so eager for Christ as Christ is eager for the sinner; nor a saint one-tenth so anxious to behold his Lord as his Lord is to behold him. If thou art running to Christ, He is already near thee. If thou dost sigh for His presence, that sigh is the evidence that He is with thee. He is with thee now: therefore be calmly glad.
 
 Go forth, beloved, and talk with Jesus on the beach, for He oft resorted to the sea-shore. Commune with Him amid the olive-groves so dear to Him in many a night of wrestling prayer. If ever there was a country in which men should see traces of Jesus, next to the Holy Land, this Riviera is the favoured spot. It is a land of vines, and figs, and olives, and palms; I have called it “Thy land, O Immanuel.” While in this Mentone, I often fancy that I am looking out upon the Lake of Gennesaret, or walking at the foot of the Mount of Olives, or peering into the mysterious gloom of the Garden of Gethsemane. The narrow streets of the old town are such as Jesus traversed, these villages are such as He inhabited. Have your hearts right with Him, and He will visit you often, until every day you shall walk with God, as Enoch did, and so turn week-days into Sabbaths, meals into sacraments, homes into temples, and earth into heaven. So be it with us! Amen.
-
 
 ---
 [[THC Prefactory Note|← Prefactory Note]] · [[Till He Come|Till He Come Contents]] · [[THC Under His Shadow|Under His Shadow →]]

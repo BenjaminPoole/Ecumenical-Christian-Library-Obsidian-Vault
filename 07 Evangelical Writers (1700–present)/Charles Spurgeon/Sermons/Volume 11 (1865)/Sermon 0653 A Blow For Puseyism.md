@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # A Blow For Puseyism
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 653
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 8, 1865, BY C. H. SPURGEON,.
+*Delivered on Sunday Morning, October 8, 1865, by C. H. Spurgeon*
 
 > "It is the spirit that quickens. The flesh profits nothing: the words that I speak unto you, they are spirit and they are life." John 6:63.
 
@@ -136,7 +135,6 @@ My dear Brethren in Christ, ministers of the Gospel who are now present—let me
 Dear Friends, pray that the great and blessed Spirit, who first gives spiritual life, may continue to feed and nourish and perfect that life in you until you shall come to that Heaven where ALL is spiritual! Where they need no candles, nor light of the sun. Where no temple is found, because the Lord God and the Lamb are the temple! Where spiritual life shall be developed into its purest form! Where, in spiritual bodies, you shall see the spiritual God and reign before His Throne, world without end. Amen.
 
 PORTION OF SCRIPTURE READ BEFORESERMON—John 6:26.
-
 
 ---
 [[Sermon 0652 Jesus The Shepherd|← #652]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0654 Memory—The Handmaid Of Hope|#654 →]]

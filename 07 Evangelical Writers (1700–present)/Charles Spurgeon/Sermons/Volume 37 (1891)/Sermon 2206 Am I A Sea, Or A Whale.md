@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # "Am I A Sea, Or A Whale?"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2206
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Am I a sea, or a whale, that You set a watch over me?" Job 7:12.
 
@@ -118,7 +115,6 @@ Once more and I have done. God will not always deal roughly with you. Perhaps to
 Here is a soul-saving text for you—"God so loved the world, that He gave His only begotten Son, that whoever believes in Him should not perish, but have everlasting life." Accept the Savior and though you are as a sea, or as a whale, you shall no longer complain of the Lord's watching you, but you shall rejoice in perfect liberty! He is free who loves to serve his God! He makes it his delight that he is watched of the Lord. The Lord bless sailors! May we all meet in the Fair Havens! May the flag of your Society bless every sea because God blesses its missionaries! I wish for it the utmost prosperity and I judge it to be worthy of the most generous aid of all Christians. In all respects it is exactly to my mind. The Lord send prosperity to it! Amen.
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—Jonah 2.
-
 
 ---
 [[Sermon 2205 My Times Are In Your Hand|← #2205]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2207 Redemption Through Blood—The Gracious Forgiveness Of Sins|#2207 →]]

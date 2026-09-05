@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 11
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**FREE TO TRAVEL**
+## **Free to Travel**
 
 > And I will strengthen them in the Lord: and they shall walk up and down in his name, saith the Lord" Zech. 10:12
 
@@ -23,7 +22,6 @@ A solace for sick saints. They have grown faint, and they fear that they shall n
 When strength is given, the believer uses it. He walks up and down in the name of the Lord. What an enjoyment it is to walk abroad after illness, and what a delight to be strong in the Lord after a season of prostration! The Lord gives His people liberty to walk up and down, and an inward leisure to exercise that liberty. He makes gentlemen of us: we are not slaves who know no rest, and see no sights, but we are free to travel at our ease throughout Immanuel's land.
 
 Come, my heart, be thou no more sick and sorry, Jesus bids thee be strong, and walk with God in holy contemplation. Obey His word of love.
-
 
 ---
 [[FCB October 10|← October 10]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 12|October 12 →]]

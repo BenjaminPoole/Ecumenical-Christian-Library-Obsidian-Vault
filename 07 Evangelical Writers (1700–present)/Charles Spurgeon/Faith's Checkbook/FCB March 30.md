@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PRAYER, THANKSGIVING, PRAISE**
+## **Prayer, Thanksgiving, Praise**
 
 > Be careful for nothing; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus" Phil. 4:6,7
 
@@ -23,7 +22,6 @@ No care, but all prayer. No anxiety, but much joyful communion with God. Carry y
 This shall bring you God's own peace. You shall not be able to understand the peace which you shall enjoy. It will enfold you in its infinite embrace. Heart and mind through Christ Jesus shall be steeped in a sea of rest. Come life or death, poverty, pain, slander, you shall dwell in Jesus above every ruffling wind or darkening cloud. Will you not obey this dear command?
 
 Yes, Lord, I do believe thee; but, I beseech thee, help mine unbelief.
-
 
 ---
 [[FCB March 29|← March 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 31|March 31 →]]

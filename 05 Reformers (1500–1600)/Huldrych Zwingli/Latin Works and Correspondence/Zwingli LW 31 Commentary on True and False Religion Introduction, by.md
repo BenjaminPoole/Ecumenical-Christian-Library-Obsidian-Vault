@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 31. Commentary on True and False Religion: Introduction, by George Warren Richards
 
 Introduction
@@ -44,7 +43,7 @@ After he has defined the human side of religion, he directs a winged, piercing s
 
 Zwingli never fails to combine grace and law in the Christian life. In opposition to Erasmus and all forms of humanism, he emphasizes man’s total disability and the sole sufficiency of
 
-Chris- tian
+Chris-tian
 
 12 The Works of Huldreich Zwingli divine grace. In the face of Rome he puts emphasis upon law and obedience — but law as revealed in the Bible and obedience motived by loyalty to Him who saves. He escapes bald heteronomy and servile submission to authority by blending, in the religious life, the divine favor of forgiveness, the revelation of the Scriptures, and the enlightening and compelling spirit of God in the soul. Man obeys the will of God, accordingly, without coercion of law through the free volition of love. This is the vital principle of Reformed ethics and the heart of Reformed piety.
 
@@ -92,7 +91,7 @@ Experience, however, proves that even those who are in Christ continue to sin. T
 
 This form of unbelief ( infidelitatum et incredulitatum) is the unpardonable sin against the Holy Ghost. Unbelief is “the sin unto death.” The author defines it at length: “It is, therefore, lack of faith alone, which we call infidelity or disbelief, that is never forgiven ; for it never lays hold of or worships God, never fears Him, never regulates itself according to His will, never avoids sin not to offend Him.”
 
-SECTIONS 12-29
+## Sections 12-29
 
 In the last eighteen sections Zwingli expounds the more practical aspects of the way of salvation — the keys, the government and discipline of the church, the meaning and administration of the sacraments, marriage, vows, invocation of saints, prayer, purgatory, magistrates, statues and images. In each
 
@@ -116,7 +115,7 @@ He bitterly denounces the “human presumption” which The for sinister reasons
 
 The Works of Huldreich Zwingli
 
-Sacra- ments bishops or rather mumblers.” Turn “from the error of making out the popes to be the Church.” “Nowhere in all Holy Writ” is there ground for such an assumption.
+Sacra-ments bishops or rather mumblers.” Turn “from the error of making out the popes to be the Church.” “Nowhere in all Holy Writ” is there ground for such an assumption.
 
 The church, in the true sense of the word, “is a company, an assemblage, the whole people, the whole crowd gathered together.”
 
@@ -220,7 +219,7 @@ Wernle, ZwingU, pp. 217-218.
 
 The Works of Huldreich Zwingli
 
-Confes- sion
+Confes-sion
 
 Confir- mation is an appropriate symbol of the fellowship between Christ and the Church; to make more of it is to obscure rather than to clarify its meaning.
 

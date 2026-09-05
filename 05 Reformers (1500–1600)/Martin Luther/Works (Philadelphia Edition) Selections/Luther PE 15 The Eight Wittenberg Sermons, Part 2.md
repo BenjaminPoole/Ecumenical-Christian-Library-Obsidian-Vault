@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 15. The Eight Wittenberg Sermons, Part 2
 
 world, since I know what comfort and strength it has given me. No one
@@ -115,7 +114,7 @@ drive out confession.
 
 I commend you to God. Amen.
 
-FOOTNOTES
+## Footnotes
 
 [1] Cp. his experiences at the Wartburg. See Köstlin-Kawerau, I, 439
 
@@ -215,15 +214,13 @@ Ed.*, VIII, 129; *Erl. Ed.*, XXVII, 318.
 
 [24] See above, p. 394.
 
-THAT DOCTRINES OF MEN ARE TO BE REJECTED
+## That Doctrines of Men Are to Be Rejected
 
-TOGETHER WITH A REPLY TO TEXTS QUOTED IN DEFENCE OF THE DOCTRINES OF
+## Together with a Reply to Texts Quoted in Defence of the Doctrines Of
 
-MEN (VON MENSCHENLEHREN ZU MEIDEN)
+## Men (Von Menschenlehren Zu Meiden)
 
-1522
-
-INTRODUCTION
+## Introduction
 
 "Silver and gold have I none: but such as I have give I thee."
 
@@ -333,15 +330,15 @@ The treatise is found in the original German in Weimar Ed., X2; in
 
 Erlangen, 28, 318-343; in Berlin, 2, 289-314.
 
-W. A. LAMBERT.
+## W. A. Lambert
 
 South Bethlehem, PA.
 
-THAT WE ARE TO REJECT THE DOCTRINES OF MEN:
+## That We Are to Reject the Doctrines of Men
 
-TOGETHER WITH A REPLY TO THE TEXTS QUOTED IN DEFENCE OF THE DOCTRINES
+## Together with a Reply to the Texts Quoted in Defence of the Doctrines
 
-OF MEN
+## Of Men
 
 To all who read or hear this little book may God grant grace and
 
@@ -441,7 +438,7 @@ we must build in all things rather than on all angels and creatures
 
 [Gal. 1:8].
 
-III
+## III
 
 The same Christ in the same chapter, Matthew xv, 11, says, "Not that
 
@@ -1187,7 +1184,7 @@ faith and so must needs become heathen, and yet think their holiness
 
 upholds the world.
 
-VI.
+## VI
 
 Paul, in Galatians I, 8., says: "But though we, or an angel from
 
@@ -1233,7 +1230,7 @@ great holiness are condemned like blasphemers of God with an eternal
 
 ban.
 
-VII
+## VII
 
 Paul, in Titus i, 14, says: "Teach them not to give heed Titus to
 
@@ -1265,7 +1262,7 @@ if you do not heed their commandments, and Christ commands you not to
 
 heed them on pain of His ban. Consider whom you wish to obey.
 
-VIII
+## VIII
 
 II Peter ii, 1-3: "There shall be false teachers among you, who
 
@@ -1397,7 +1394,7 @@ teach us, as Christ says, Matthew xxiii, 8, "Be ye not called masters.
 
 One Master is in you, even Christ." [Matt. 23:8] Amen.
 
-A REPLY TO TEXTS QUOTED IN DEFENSE OF THE DOCTRINES OF MEN
+## A Reply to Texts Quoted in Defense of the Doctrines of Men
 
 The first is Luke x, 16, where Christ says, "He that heareth you,
 
@@ -1839,7 +1836,7 @@ us see to which of the two they themselves will ascribe the lie. Let
 
 this suffice.
 
-FOOTNOTES
+## Footnotes
 
 [1] Goldfasts are the ember-fasts, on the three ember-days of each of
 
@@ -1911,11 +1908,11 @@ held in the Catholic faith."
 
 [8] O raging madness, worthy of our age!
 
-INDEX
+## Index
 
-SCRIPTURE REFERENCES
+## Scripture References
 
-INDEX
+## Index
 
 Abel
 
@@ -3457,7 +3454,7 @@ Zwickau Prophets
 
 Zwilling, Gabriel
 
-SCRIPTURE REFERENCES
+## Scripture References
 
 Genesis--
 
@@ -3658,8 +3655,6 @@ Psalms--
 112:7
 
 115:1
-
-119
 
 119:85
 
@@ -4619,7 +4614,7 @@ Revelation--
 
 22:11
 
-OLD TESTAMENT APOCRYPHA
+## Old Testament Apocrypha
 
 Judith 6:15
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # 'That Day' and Its Disclosure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3531
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord grant unto him that he may find mercy from the Lord in that day." 2 Timothy 1:18.
 
@@ -27,7 +24,7 @@ GRATITUDE is never failing in Christians. When they have received a benefit, the
 
 I call your attention, tonight, however, to none of these surrounding particulars. I want to fix your minds upon one thing. I desire, anxiously desire, that we may all be led to look forward to that day of which the Apostle here speaks. And our first point shall be that day. Then our second point shall be the mercy of that day. First, then—
 
-I. "THAT DAY."
+## I. "That Day."
 
 Paul speaks of the Day of Judgment here. He does not specify it, because it was so commonly believed in and expected among Christians, that it was quite sufficient for him to say, "that day." From the earliest times, wherever there has been Divine Light, that day has been expected. Enoch, also, the seventh from Adam, prophesied concerning the coming of the Lord. And his prophecy, though very early, was so clear that the Jew, who almost closes the Book of Inspiration, quotes it—feeling, I suppose, that he could not use words mode expressive than those which came from that ancient Prophet. All along the pages of Scriptural history you read of men raised up to tell of "that day." Asaph, in the Psalm we read just now, gave a most accurate description of that day when the Lord shall judge His people. And Daniel, when he saw the Throne of God set and the Ancient of Days come, perceived that day for which we also are now looking. Nothing, perhaps, is more often spoken of in Scripture than "that day." The New Testament teems with allusions to that Day of Judgment, when the Lord shall be revealed with flaming fire. I say it was so commonly understood that Paul had no need to say anything except, "that day." Questions will be asked tonight by some, "When will that day come?" to which I would answer, it were better for us to be prepared for it, come when it may, than to be anxious to fix its date! We can give you no information, because "of that day and of that hour knows no man—no, not even the angels of Heaven." After trying to discover what I can of the future, I arrive at this conclusion from Scripture, that the Lord would have us be in a state of perpetual vigilance and expectancy and, therefore, He has studded the Scriptures with phrases to the effect that He comes quickly. Truly His, "quickly," will not be the same as ours, but I think the noontide of the world may have
 
@@ -73,7 +70,7 @@ There are some, again, that are gone out of this company who gave us no evidence
 
 "For should swift death this night overtake you, And your couch become your tomb," then tomorrow, if unregenerate and unforgiven, you would be shut up where hope can never come to you! Oh, seek His face tonight! Dare not permit yourselves to feel the image of death upon you in sleep unless you have felt the scepter of Christ, touched by faith, communicate life and pardon to you! Seek Him! Oh, seek Him! Seek Him while He may be found! Call upon Him while He is near! The Lord bless you, everyone of you, and may we meet in Heaven without exception, for Christ's sake! Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 1:1-18.
+## Exposition by C. H. Spurgeon: 2 Timothy 1:1-18
 
 Verse 1. Paul, an Apostle of Jesus Christ by the will of God, according to thepromise oflife which is in Christ Jesus. Paul takes high ground. He is not an Apostle by the will of the Church, but an Apostle by the will of God! God's will is the great motive power in the Church of God. Some talk a great deal about man's will. What do you think of God's will, the will of the Almighty? Surely that shall stand! Paul felt that he had that at the back of him. "Paul, an Apostle of Jesus Christ by the will of God." Hence he always speaks very boldly. He never asks leave of anybody. If he is an Apostle by the will of God, he exercises his office without fear!
 
@@ -116,7 +113,6 @@ dead, and every faithful witness had passed away. "He is able to keep that which
 16, 17. The Lord grant mercy unto the house of Onesiphorus; for he often refreshed me, and was not ashamed of my chains. But when he was in Rome, he sought me out very diligently, and found me. You could not tell in Rome where a prisoner was. The registers were not open to investigation. You had to go from prison to prison, and pay the guards to get admission, or to be told who might be there, but Onesiphorus was determined to find Paul. I suppose that he went to the Mamertine, a dungeon in which some of us have been—one dungeon under the bottom of another. The first one has no light, except through a round hole at the top. And the second has a round hole through which you drop into the lower one. We think that Paul was there. It is a tradition that he was. And then there is the Palatine prison, which was at the guard house of the Praetorian guards, near the palace on the Palatine Hill. There Paul certainly was, and Onesiphorus went from one jail to another. "Have you seen a little Jew with weak eyes?" I daresay that was his description of him. "He is a friend of mine. I want to speak with him." "What? That Paul?—the man that is chained to one or another of us every morning? We have twelve hours of it and he preaches to us most of the time! And we know it by the time we are let go again!" "Oh, that is the man," said Onesiphorus. "That is the man! Does he talk about Jesus Christ?" "Oh, nothing else but that. He will not let any soldier go from being bound to him without hearing about Jesus Christ." "That is my man," said Onesiphorus. He sought him out very diligently, and he found him!
 
 18\. The Lord grant unto him that he may find mercy from the Lord in that day: and in how many things he ministered unto me at Ephesus, you know very well.
-
 
 ---
 [[Sermon 3530 A Sad Confession|← #3530]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3532 Christ's Great Mission|#3532 →]]

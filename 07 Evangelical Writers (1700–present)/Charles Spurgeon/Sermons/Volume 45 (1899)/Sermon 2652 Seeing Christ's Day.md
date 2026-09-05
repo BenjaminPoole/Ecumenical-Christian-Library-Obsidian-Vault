@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Seeing Christ's Day
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2652
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your father Abraham rejoiced to see My day: and he saw it, and was glad." John 8:56.
 
@@ -75,7 +72,7 @@ The Patriarch had many troubles but before his history is closed, it was recorde
 
 III. So much for Abraham. Now we come to ourselves and enquire, IN WHAT RESPECTS DO WE SEE CHRIST'S
 
-DAY?
+## Day?
 
 We stand, as it were, on a narrow neck of land between two seas of glory. Look back—there is Christ's day of mercy—salvation, reconciliation, death, conflict, victory. Now look forward and see, by faith, that sight which the Apostle describes, "For the Lord Himself shall descend from Heaven with a shout, with the voice of the archangel, and with the trump of God"—in splendor such as never was seen before and which shall make the sun, itself, to be ashamed because of the greater glory of Christ—the Sun of Righteousness!
 
@@ -99,7 +96,7 @@ Children of the morning, the morning comes! What a day yours shall be, then, whe
 
 God give to each of you a portion in these glorious things, by a simple faith in Jesus, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN8:31-59.
+## Exposition by C. H. Spurgeon: John 8:31-59
 
 Verse 31. Then said Jesus to those Jews which believed on Him, If you continue in My word, you are My disciples indeed. For there were many, in Christ's day, coming to Him for a while and then going away from Him—professing to believe and then stumbling when Christ proclaimed some Doctrine of God which struck them as being strange and hard to receive. Our Lord Jesus tells them that constancy is necessary to true discipleship. It is of no use to start running in the race unless we continue in the course till the prize is won. We are not true pilgrims to Heaven merely because we cross the threshold of our door—we must keep on, and on, and on till we reach the golden streets of the New Jerusalem!
 
@@ -144,7 +141,6 @@ they simply pass out of this world into a larger and yet more glorious life! The
 59\. Then took they up stones to cast at Him. They counted Him a blasphemer and so He was if He was not all He claimed to be. I have heard of some who reverence Christ, but do not believe Him to be God—but how can that be? He evidently made Himself out to be God and this was the great charge the Jews brought against Him. For this, indeed, they put Him to death, because He made Himself equal with God. If He were not equal with God—if He were not really God—He led men to thinkthat He was. And if this were false, it was a great sin not consistent with the holy Character of Christ. If He was not God, He was the grossest impostor who ever visited this world! But He isGod and nothing less! Yet because He claimed this, the Jews took up stones to cast at Him.
 
 59\. But Jesus hid Himself, and went out of the Temple, going through the midst of them, andso passed by. Glory be to His holy name forever and ever!
-
 
 ---
 [[Sermon 2651 The Christian's Service and Honor|← #2651]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2653 The Head and the Body|#2653 →]]

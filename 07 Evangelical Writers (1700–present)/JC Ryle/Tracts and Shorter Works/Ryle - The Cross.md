@@ -9,18 +9,17 @@ tags:
   - jc-ryle
   - ryle-tracts
 ---
-
 # The Cross
 
 *The Cross* — J. C. Ryle
 
 Transcribed from the 1851 Hunt & Son edition by David Price, email ccx074@pglaf.org
 
-**A TRACT FOR THE TIMES**.
+## **A Tract for the Times**
 
 BY THE **REV. J. C. RYLE, B.A.**,
 
-CHRIST CHURCH, OXFORD, RECTOR OF HELMINGHAM, SUFFOLK.
+## Christ Church, Oxford, Rector of Helmingham, Suffolk
 
 Author of “Living or Dead?” “Assurance,” &c.
 
@@ -30,13 +29,13 @@ Author of “Living or Dead?” “Assurance,” &c.
 
 Liturgy of the Church of England.
 
-IPSWICH: HUNT & SON, 12, TAVERN STREET.
+## Ipswich: Hunt & Son, 12, Tavern Street
 
 LONDON: WERTHEIM & MACINTOSH, 24, PATERNOSTER ROW; NISBET & Co., 21, BERNERS STREET.
 
 **Price Two Shillings per Dozen**.
 
-M.DCCC.LI.
+## M.dccc.li
 
 > p. 2“Christ crucified and Christ glorified is all that we are to study; the one we are to study as long as we are on earth, and the other we shall be admitted to study when we get well to heaven. “That faith which is not built on a dying Christ is but a perilous dream: God awaken all from it that are in it!”—Robert Traill. 1690.
 
@@ -183,7 +182,6 @@ p. 30 *Are you a dying believer*? Have you gone to that bed from which something
 Reader, I lay these thoughts before your mind. What you think now about the cross of Christ I cannot tell; but I can wish you nothing better than this, that you may be able to say with the apostle Paul, before you die or meet the Lord, “God forbid that I should glory save in the cross of our Lord Jesus Christ.”
 
 Hunt & Son, Printers, Ipswich.
-
 
 ---
 [[Tracts and Shorter Works|Tracts & Shorter Works]]

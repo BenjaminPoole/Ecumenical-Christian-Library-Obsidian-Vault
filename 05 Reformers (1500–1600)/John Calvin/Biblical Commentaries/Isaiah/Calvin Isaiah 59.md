@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 59
 
-**CHAPTER 59.**
+***Chapter 59.***
 
 ## Isaiah 59:1-21
 

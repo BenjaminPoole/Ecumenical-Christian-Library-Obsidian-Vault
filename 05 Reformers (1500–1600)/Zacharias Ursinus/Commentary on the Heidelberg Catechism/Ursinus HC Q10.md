@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 10. Will God suffer such disobedience and rebellion to go unpunished?
-
-**Question 10. Will God suffer such disobedience and rebellion to go unpunished?**
 
 Answer. By no means, but is terribly displeased with our original as well as actual sins; and will punish them in his just judgment temporally and eternally, as he hath declared, "Cursed is every one that continueth not in all things which are written in the book of the law, to do them."
 
-**EXPOSITION**
+## **Exposition**
 
 In the exposition of this Question, we must consider the evil of punishment, which is the other part of the misery of man. In relation to this we are taught that God punishes sin most severely, justly, and certainly. He punishes it most severely, that is, with present and eternal punishment, on account of its enormity and greatness, because it is an offence against the infinite good. Most justly, because every sin, even the smallest transgression, is a violation of the law of God; and, therefore, according to the order of divine justice, deserves eternal punishment and banishment from God. Most certainly, because God is true, and does not change the sentence which the law denounces: "Cursed is he that continueth not in all things written in the book of the law to do them." (Gal. 3:6.)
 

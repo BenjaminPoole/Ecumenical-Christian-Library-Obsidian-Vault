@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Urging Lot
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2944
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When the morning arose, then the angels urged Lot" Genesis 19:15.
 
@@ -123,7 +120,7 @@ I do not suppose you can hear this clock tick, but when you get home, listen to 
 
 May the Holy Spirit speak to you through it, and may you answer, "Now, even now, I will believe in Jesus Christ and be saved." May God bless you! May Christ save you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 17:11-32.
+## Exposition by C. H. Spurgeon: Luke 17:11-32
 
 Verses 11, 12. And it came to pass, as He went to Jerusalem, that He passed through the midst of Samaria and Galilee. And as He entered into a certain village, there met Him 10 men who were lepers which stood afar off Leprosy was very common in Palestine in Christ's day. How thankful we ought to be that in this country, at any rate, it has almost entirely died out! There used to be, in almost every town, a lazar-house provided for lepers, so common was leprosy in this country. Certain diseases seem to die out by degrees and we should be very grateful that some of the worst forms of disease by which men have been afflicted have passed away. In this case, there were no less than 10 in one village. They "stood afar off," as was most proper, lest they should communicate the contagion to others. They had to cry out and warn men not to come too near them, saying, with covered lips, "Unclean! Unclean! Unclean!" The muffled sound that they made, if the word could not be distinguished, helped to warn the passersby to give them a wide berth.
 
@@ -138,7 +135,6 @@ Verses 11, 12. And it came to pass, as He went to Jerusalem, that He passed thro
 17-25. And Jesus answering said, Were there not ten cleansed? But where are the nine? Were there not any found that returned to give glory to God save this stranger? And He said unto him, Arise, go your way: your faith has made you whole. And when He was demanded of the Pharisees when the kingdom of God should come, He answered them and said, The kingdom of God comes not with observation: neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you. And He said unto the disciples, The days will come when you shall desire to see one of the days of the Son of Man, and you shall not see it And they shall say to you 'See here,' or, 'see there, 'go not after them, nor follow them. For as the lightning that flashes out of one part under Heaven shines unto the other part under Heaven; so also shall the Son of Man be in His day. But first He must suffer many things, and be rejected of this generation. Though our Lord purposely left much with regard to His coming indefinite, He gave His disciples two instances, from the early history of the world, of the condition in which many would be found at His appearing.
 
 26-32. And as it was in the days of Noah, so shall it be also in the days of the Son of Man. They did eat, they drank, they married wives, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they built; but the same day that Lot went out of Sodom it rained fire and brimstone from Heaven and destroyed them all Even thus shall it be in the day when the Son of man is revealed. In that day, he who shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back. Remember Lot's wife.
-
 
 ---
 [[Sermon 2943 Restraining Prayer|← #2943]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2945 Night-and Jesus Not There!|#2945 →]]

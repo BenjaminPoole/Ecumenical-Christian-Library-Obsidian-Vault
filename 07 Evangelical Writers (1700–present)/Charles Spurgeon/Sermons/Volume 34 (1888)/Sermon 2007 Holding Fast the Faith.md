@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Holding Fast the Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2007
 
-DELIVERED ON LORD'S DAY MORNING, FEBRUARY 5, 1888,.
+*Delivered on Lord's Day Morning, February 5, 1888*
 
 > "And to the angel of the Church in Pergamos write: These things says He which has the sharp sword with two edges. I know your works and where you dwell, even where Satan's seat is: and you holdfast My name and ha ve not denied My faith." Revelation 2:12,13.
 
@@ -160,7 +159,6 @@ Look you, Sirs, there are ages yet to come. If the Lord does not speedily appear
 God grant us faithfulness for the sake of the souls around us! How is the world to be saved if the Church is false to her Lord? How are we to lift the masses if our fulcrum is removed? If our Gospel is uncertain, what remains but increasing misery
 
 and despair? Stand fast, my Beloved, in the name of God! I, your Brother in Christ, entreat you to abide in the Truth of God. Conduct yourselves like men, be strong. The Lord sustain you for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 2006 Knowing the Lord Through Pardoned Sin|← #2006]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2008 The Lord And The Leper|#2008 →]]

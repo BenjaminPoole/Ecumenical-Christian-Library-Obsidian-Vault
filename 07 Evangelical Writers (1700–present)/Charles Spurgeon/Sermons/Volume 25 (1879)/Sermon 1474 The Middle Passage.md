@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Middle Passage
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1474
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 18, 1879,.
+*Delivered on Lord's-Day Morning, May 18, 1879*
 
 > "O Lord, I have heard Your speech, and was afraid; O Lord, revive Your work in the midst of the years, in the midst of the years make known; in wrath remember mercy." Habakkuk 3:2.
 
@@ -150,7 +149,6 @@ As for me—
 "I'll praise Him while He lends me breath, And when my voice is lost in death, Praise shall employ my nobler powers! My days of praise shall never be past, While life, and thought, and being last,
 
 Or immortality endures."
-
 
 ---
 [[Sermon 1473 Forts Demolished and Prisoners Taken|← #1473]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1475 Crowning Blessings Ascribed to God|#1475 →]]

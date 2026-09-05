@@ -11,14 +11,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 1. Exodus 1
 
-**THE FOUR LAST BOOKS OF MOSES**
+***The Four Last Books of Moses***
 
-**ARRANGED IN THE FORM OF A HARMONY, WITH COMMENTARIES**
-
-**Exodus 1**
+## **Arranged in the Form of a Harmony, with Commentaries**
 
 ## Exodus 1:1-7
 

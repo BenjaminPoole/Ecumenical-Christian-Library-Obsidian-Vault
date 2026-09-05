@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Ephesians 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Ephesians 3:1-6
 

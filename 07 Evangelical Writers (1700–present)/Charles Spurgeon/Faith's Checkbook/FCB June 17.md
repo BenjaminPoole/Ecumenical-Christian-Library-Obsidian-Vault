@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 17
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**OUR FIELD OF BATTLE**
+## **Our Field of Battle**
 
 > For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you" Deut. 20:4
 
@@ -23,7 +22,6 @@ We have no enemies but the enemies of God. Our fights are not against men, but a
 Jehovah, our God, abhors everything which is evil, and, therefore, He goeth with us to fight for us in this crusade. He will save us, and He will give us grace to war a good warfare, and win the victory. We may depend upon it that if we are on God's side God is on our side. With such an august ally the conflict is never in the least degree doubtful. It is not that truth is mighty and must prevail, but that might lies with the Father who is Almighty, with Jesus who has all power in Heaven and in earth, and with the Holy Spirit who worketh His will among men.
 
 Soldiers of Christ, gird on your armor. Strike home in the name of the God of holiness, and by faith grasp His salvation. Let not this day pass without striking a blow for Jesus and holiness.
-
 
 ---
 [[FCB June 16|← June 16]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 18|June 18 →]]

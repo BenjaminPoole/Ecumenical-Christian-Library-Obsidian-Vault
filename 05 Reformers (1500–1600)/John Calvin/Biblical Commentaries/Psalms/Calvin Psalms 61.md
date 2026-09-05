@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 61
-
-**PSALM 61**
 
 This psalm begins with prayer, or, at any rate, with the brief record of a prayer, which David had preferred to God in a season of deep distress. It is chiefly occupied, however, with the praises of God, expressing his thankfulness for a miraculous deliverance which he had experienced from some imminent danger, and for his establishment upon the throne.
 

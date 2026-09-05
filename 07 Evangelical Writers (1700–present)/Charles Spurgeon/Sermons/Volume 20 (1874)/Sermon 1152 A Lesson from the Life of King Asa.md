@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # A Lesson from the Life of King Asa
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1152
-
-DELIVERED BY.
 
 > "Herein you have done foolishly: therefore from henceforth you shall have wars." 2 Chronicles 16:9.
 
@@ -138,7 +135,6 @@ Beware of that self-confidence and spiritual boasting which is becoming common a
 May the Holy Spirit keep us humble—keep us at the foot of the Cross—keep us flat on the promise, resting on the eternal Rock and crying, "I am nothing Lord—nothing! You are All in All. I am all emptiness—come and fill me. I am all nakedness—come and clothe me. I am all weakness—come and glorify Your power, by making use of me!" God bless you, dear Friends, and if there are any among you who have not a God to trust in, or a Savior to love, may you seek Jesus now! If you seek Him, He will be found of you, for whoever believes in Him is saved! Whoever trusts Christ is saved! Pardon and salvation belong to every soul that hangs its hope upon the Cross! May God bless you richly, for Christ's sake. Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Parts of 2 Chronicles 14,15.16. HYMNS FROM "OUR OWN HYMN BOOK"—668, 667.
-
 
 ---
 [[Sermon 1151 A Revival Promise|← #1151]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1153 The Matchless Mystery|#1153 →]]

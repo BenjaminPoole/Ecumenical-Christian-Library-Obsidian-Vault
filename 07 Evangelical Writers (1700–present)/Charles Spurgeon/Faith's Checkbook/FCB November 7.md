@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 7
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**TRUE HUMILITY REWARDED**
+## **True Humility Rewarded**
 
 > He that humbleth himself shall be exalted" Luke 18:14
 
@@ -23,7 +22,6 @@ It ought not to be difficult for us to humble ourselves, for what have we to be 
 Here is a cheering word from the throne. We shall be exalted by the Lord if we humble ourselves. For us the way upward is downhill. When we are stripped of self we are clothed with humility, and this is the best of wear. The Lord will exalt us in peace and happiness of mind; He will exalt us into knowledge of His Word and fellowship with Himself; He will exalt us in the enjoyment of sure pardon and justification. The Lord puts His honors upon those who can wear them to the honor of the Giver. He gives usefulness, acceptance, and influence to those who will not be puffed up by them, but will be abased by a sense of greater responsibility. Neither God nor man will care to lift up a man who lifts up himself; but both God and good men unite to honor modest worth.
 
 O Lord, sink me in self that I may rise in thee.
-
 
 ---
 [[FCB November 6|← November 6]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 8|November 8 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # How Is Salvation Received?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1347
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 1, 1877,.
+*Delivered on Lord's-Day Morning, April 1, 1877*
 
 > "Therefore it is of faith, that it might be by Grace; to the end the promise might be sure to all the seed; not to that only which is of the Law, but to that, also, which is of the faith of Abraham; who is the father of us all." Romans 4:16.
 
@@ -130,7 +129,6 @@ Oh that He would give you Grace this morning, by His Holy Spirit, to say, "How c
 Trust the promise that He makes to every Believer that He will save him! Hold to it, for it is not a vain thing! It is your life! "But what if I obtain no joy or peace?" Still, believe the promise, and joy and peace will come. "But what if I see no signs?" Ask for no signs! Be willing to trust God's Word without any other guarantee but His truthful Character and you will thus give Him glory. "Blessed are they that have not seen and yet have believed." Believe that Jehovah cannot lie and as He has promised to forgive all who believe in Jesus, hang on to that Word and you shall be saved!
 
 Sinners, I have set before you the way of salvation as simply as I can, will you have it or not? May the Spirit of God sweetly lead you to say, "Have it? Yes, that I will." Then go in peace and rejoice from now on and forever! God bless you. Amen.
-
 
 ---
 [[Sermon 1346 Guile Forsaken When Guilt Is Forgiven|← #1346]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1348 The Great House and the Vessels In It|#1348 →]]

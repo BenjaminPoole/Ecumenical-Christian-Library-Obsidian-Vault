@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 167. Luke 19:1-10
-
-**Luke 19:1-10**
 
 **1**. And having entered, he passeth through Jericho. [^1] **2**. And, lo, a man named Zaccheus, and he was chief of the publicans, and was rich. **3**. And he sought to see Jesus who he was, [^2] and could not on account of the multitude; for he was of small stature. **4**. And running before, he climbed up into a sycamore tree to see him; for he was to pass that way. **5**. And when Jesus came to the place, he looked up, and saw him, and said to him, Zaccheus, make haste, and come down; for today I must abide at thy house. **6**. And he made haste, and came down, and received him joyfully. **7**. And when they saw it, they all murmured, saying, That he had gone to lodge with a man who is a sinner. **8**. And Zaccheus stood, and said to the Lord, Lo, O Lord, the half of my goods I give to the poor; and if I have defrauded any man in any thing, I restore fourfold. [^3] **9**. Jesus said to him, Today is salvation come to this house, inasmuch as he also is a son of Abraham. [^4] **10**. For the Son of man came to seek and save what was lost.
 

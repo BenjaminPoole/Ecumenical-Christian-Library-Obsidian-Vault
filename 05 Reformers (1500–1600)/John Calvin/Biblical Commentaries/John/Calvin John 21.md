@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 21
 
-**CHAPTER 21.**
+***Chapter 21.***
 
 ## John 21:1-14
 

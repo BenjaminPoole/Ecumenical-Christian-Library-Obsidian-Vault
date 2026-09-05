@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 7. Exposition of the First Epistle of St John: Chapter II
 
-CHAPTER. II.
+*Chapter. II*
 
 My little children, I write these things unto you, that ye sin not. And though any man sin, yet we have an advocate with the Father, even Jesus Christ, which is righteous.
 
@@ -34,8 +33,6 @@ That I call satisfaction, the Greek calleth Ilasmos, and s^Mmeoaa. the Hebrew Co
 [3 In this exposition, as well as in that upon the Sermon in the Mount, Tyndale translates as the subject proceeds, without appearing to have had his own previous translation before him. In his first published version he had rendered the first clause, " He it is that obtaineth gnce for our sins;" and this inaccurate rendering is found in the latest editions of his new Testament, in Coverdale's Bible, in Cranmer's, and in the Genevan Bible of 1557, notwithstanding the obviously greater correctness of the rendering which Tyndale had here given.]
 
 [* 'iXaafws, "A propitiation, or rather a propitiatory victim, or sacrifice for sin." Parkhurst, Lex. If Tyndale's explanation is to be understood to belong to 123 , lexicographers have not confirmed his opinion respecting the primary meaning of this word, which they declare to be that of cwering by tmearing with somewhat. It first occurs Gen. vi. 14, where Noah is directed to cover the ark with a smearing
-
-154 EXPOSITION OF THE [cHAP.
 
 wounds, sores, and swellings, and the taking away of pain and smart of them ; and thence is borrowed for the pacifying and suaging of wrath and anger, and for an amendsmaking, a contenting, satisfaction, a ransom, and making at u'thflau^'^ one, as it is to see abundantly in the bible. So that Christ ows'insf"'^ is a full contenting, satisfaction and ransom for our sins;
 
@@ -105,8 +102,6 @@ Rome painteth him) did shake a rod at us of seven years' ^J^^"'^ punishment, as 
 
 If ye say, the bishop of Rome can dehver my conscience p'^'i and from fear of purgatory (as his poetry only putteth me in fear), wt. and that by this text, " Whatsoever thou bindest on earth, &c. ;" if thou this way understand the text, " Whatsoever thou, being in earth, loosest any where ;" then might he loose in hell, and bind in heaven. But why may not I take the text [4 So D., but P. C. L. has as after not.']
 
-160 EXPOSITION OF THE [cHAP.
-
 NoteUi?s of Christ, John xvi. "Whatsoever ye ask my Father m my text. W T. . " . .
 
 Binding and name, he will give it you ;" and desire forgiveness of all the true togcthcr in Christ's name, both a po^na et culpa; and then preaching or O ' x^ ir '
@@ -137,8 +132,6 @@ When the bishops saw that, how they had gotten the How the simple people under t
 
 [tyndale, ii.j
 
-162 EXPOSITION OF THE [CHAP.
-
 this time, what with the multitude of ceremonies, and heap of men's constitutions, whose right use was thereto clean forgotten, and partly because our shepherds were busied to seek themselves and their high authority, and exalted every man his throne, and were become wolves unto the flock, the cause why the people were disobedient unto wholesome counsel was, that^ the word of God was sore darkened, and no where purely preached. And therefore the prelates, loath to lose their high authority, and to let the people go free of their yoke, began to turn their tale, and sing a new song, how that this penance was enjoined to make satisfaction to God for the sin that was committed ; robbing our souls of the fruit of Christ's blood, and making us image-servants ; referring our deeds unto the person of God, and worshipping him, as an image of our own imagination, with bodily work : saying moreover, if we would not do such penance here at their injunctions, we Here was must do it iu auother world ; and so feigned purgatory, where purgatory ' & ^ r O ^ '
 
 femdied. Tiye must suffcr seven years for every sin. And when the kingdom of antichrist was so enlarged that it must have a head, they set up our holy father of Rome, or he rather usurped the realm" with violence; and to him was given this prerogative, to sell whom he would from purgatory ^ ^tfon^of ^^^ th^ sacrament of penance they thus describe : contri- made^by the tio^j coufessiou, and satisfaction : contrition ; sorrow for thy Am'.*L sins: confession; not to God and them whom thou hast offended, but tell thy sins in the priest's ear : satisfaction, to do certain deeds enjoined of them, to buy out thy sins. And in their description they have clean excluded the faith in the satisfaction of Christ's blood; which only bringeth life, and the spirit of life, Heb. xi. and righteousness, and without the which it is impossible to chiefest part pleasc God I iu whoso stead they have put in the presumption of penance. , .
@@ -158,8 +151,6 @@ And out of this false presumption of works sprang the ^ wicked vows of religion 
 And to speak of worshipping of saints, and praying unto w them, and of that we make them our advocates well nigh above abHST Christ, or altogether, though it require a long disputation, yet it is as bright as the day to all that know the truth; how that our fasting of their evens, and keeping their holy days, going bare-foot, sticking up of candles in the bright day, in the wor-
 
 [( So P. C. L. : in D., that is omitted.] [* The two thema are wanting in D., but found in P. C. L.] [e The them here also, and men in the preceding elsoae are in P. C. L. but not in D.]
-
-164 EXPOSITION OF THE [cHAP.
 
 shipping of them to obtain their favour, our giving them so Theiropeand costlj jcwels, offering into their boxes, clothing their images, settethup shoeins: them with silver shoes with an ouch of crystal in the idolatry. o /
 
@@ -227,8 +218,6 @@ But after what manner doth Christ pray for us ? Verily Christ in the days of his
 
 Now if an angel should appear unto thee, what wouldest thou say unto him ? If thou prayedst him to help, he would answer : ' I do. Christ hath sent me to help thee ; and believe that the angels be ever about thee to help." If thou desiredst him to pray for thee, to obtain this or that; he would say : * Christ hath prayed, and his prayer is heard for chrM whatsoever thou askest in his name;' and would shew thee ^mSiS all that God would do to thee, and what he would also have KJ? thee to do : and if thou believest so, then^ wert thou safe. If thou desiredst him to save thee with his merits, he would answer that he had no merits, but that Christ only is Lord of all merits ; nor salvation, but that Christ is Lord of salvation. * Wilt thou therefore be saved by merits ? ' would the angel say ; * then pray to God in Christ's name, and thou shalt be saved by the merits of him, and have me, or some other, thy servant immediately to help thee unto the uttermost of our power, and to keep thee, and bring thee unto the reward of his merits.' If thou wouldest promise him to imM. worship him with image-service, that is, to stick up a candle abiMnwi or before his image, or such an image as he appeared to thee in ; Ant. cd. he would answer that he were a spirit, and delighted in no candle-light ; but would bid thee give a candle to thy neighbour that lacketh, if thou hadst too many. And so would ho answer thee, if thou wouldest put money in a box for him, or oo4 clothe his image in cloth of gold, or put golden shoes upon his ab*.**. image's feet. If thou saidst that thou wouldest build a chapel in his name, he would answer that he dwelt in no house made [3 So P. C. L. bat in D. believest^ to iDert, *c.]
 
-170 EXPOSITION OF THE [cHAP.
-
 with stones, but would bid thee go to the churches that are made already, and learn of the preachers there how to believe, and how to live, and honour God in the spirit ; for
 
 Churches the which cause churches were chiefly builded, and for quietwere or- ^ %i ' 1.
@@ -244,8 +233,6 @@ II. 2.] FIRST BPISTLE OF ST JOHN. 171 edifying and soul's health ; yea, and reap
 'And if your preachers love you not after the same manner, to edify you with the true doctrine of Christ and ensample of living thereafter, and to keep you in unity of faith and charity, they be not of Christ's disciples, but antichrists, which, under the name of Christ, seek to reign over you as temporal tyrants. And in like manner, if this be not written in your hearts, that ye ought to love one another as Christ loved you, and as ye had ensample of us his apostles, ye go astray in vanities, and are not in the right way.'
 
 And hereby are we sure that we know him, if we keep his comiMnd. ments.
-
-172 EXPOSITION OF THE [cHAP.
 
 This is clean against the doctrine of them which sav, The state of that WG caniTot know whether we be in the state of grace or grace. W. T. ^ no. John saith, If we keep his commandments, then we be sure that we know Christ is everlasting life. Then, contrary to the bishop of Rome, christian men have doctrine to know whether they be in grace or no. tef^'thl*' '^^^ keeping of God's commandments certifieth us that mrau^rein ^^ ^6 iu the State of gracc. But our pharisaicaU doctors the^tateof jjg^yg ^q doctrine to know when a man is in a state of grace: Anted. wherefore it is manifest that they keep not God's commandments, nor be in state of grace, but of all ungraciousness.
 
@@ -267,7 +254,7 @@ icor.v. And forasmuch as we may have no fellowship with them that keep not God's
 
 [ ^ So P. C. L., but D. omits pJiarisaical.'] [2 So P. C. L., but in D. our doctors know not.] [3 So P. C. L., but D. our doctors keep, S;c.] [* So P. C. L., but D. has none.]
 
-II. 3 6.] FIRST EPISTLE OF ST JOHN. 173
+## II. 3 6.] First Epistle of St John. 173
 
 He that keepeth his word, in him verily is the lore of God perfect, and hereby know wo that we are in him.
 
@@ -478,8 +465,6 @@ When a true preacher preacheth, the Spirit entereth the hearts of the elect, and
 [* That is, apart Jrom.l
 
 [5 In D. learning is omitted.]
-
-184 EXPOSITION OF THE [cHAP.
 
 of the law of God, and by the law the poison of their corrupt nature ; and thence leadeth them, through repentance, unto the mercy that is in Christ's blood; and as an ointment healeth the body, even so the Spirit, through confidence and trust in Christ's blood, healeth the soul, and maketh her love the law of God ; and therefore is it called anointing or an Anoinung. oiutmont, and may well be signified by the oil of our sacraoutwardou ment. But outward oil can neither heal the soul, nor make availetn
 

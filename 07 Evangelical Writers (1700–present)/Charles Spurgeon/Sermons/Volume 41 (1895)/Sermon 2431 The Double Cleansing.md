@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Double Cleansing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2431
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. And it shall come to pass in that day, says the LORD of Hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land." Zechariah 13:1,2.
 
@@ -87,7 +84,7 @@ Perhaps there are some young persons here, tonight, who have just left that pret
 
 Look first to my Lord upon the Cross, and when you have looked until your sin is gone, then lift up your hands to Him and solemnly say, "My Lord Jesus, as You have died for me, I will live for You as You shall help me." Amen, so let it be, for Christ's sake!
 
-EXPOSITION BY C. H. SPURGEON: PSALM51; ZECHARIAH 12:10-14; 13:1-6.
+## Exposition by C. H. Spurgeon: Psalm 51; Zechariah 12:10-14; 13:1-6
 
 We will first read Psalm 51. If we need any music to this Psalm, we must have the liquid melody of tears, sighs, cries, entreaties. It is above all the others, the penitential Psalm. It is the Psalm of David when Nathan the Prophet came to him after he had committed his great sin with Bathsheba. Thus, David prayed—
 
@@ -126,7 +123,6 @@ Zechariah 13:1, 2. /n that day there shall be a fountain opened to the house of 
 6\. And one shall say unto him, What are these wounds in your hands? "You wear the marks usually seen in God's servants—you have scarred yourself as His prophets were accustomed to do—you have, as it were, tattooed yourself with the name of your God. What does it all mean?" But he shall be so ashamed of it that—
 
 6\. Then he shall answer, Those with which I was wounded in the house of my friends. He shall say anything rather than confess that he is a false prophet, he shall be so ashamed of himself! What a mercy it is when God makes men ashamed of sin, and when He makes them so ashamed of false doctrine that they cannot bear it and will not any longer proclaim it! Oh, that that day were already come!
-
 
 ---
 [[Sermon 2430 Christians, and Their Communion With God|← #2430]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2432 Kept From Iniquity|#2432 →]]

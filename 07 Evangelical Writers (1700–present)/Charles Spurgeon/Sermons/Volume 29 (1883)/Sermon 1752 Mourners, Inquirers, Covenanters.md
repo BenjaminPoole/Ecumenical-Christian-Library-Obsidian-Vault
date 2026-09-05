@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Mourners, Inquirers, Covenanters
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1752
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 25, 1883,.
+*Delivered on Lord's-Day Morning, November 25, 1883*
 
 > "In those days and in that time, says the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go and seek the LORD their God. They shall ask the way to Zion with their faces toward it, saying, Come, and let usjoin ourselves to the LORD in a perpetual covenant that shall not be forgotten." Jeremiah 50:4.
 
@@ -126,7 +125,6 @@ One word more remains to be spoken. Those who came mourning and inquiring, when 
 Where could we go for comfort if we had forgotten our God? What would remain for us but everlasting despair? Let us, therefore, pray the Lord that it may be a perpetual covenant that shall never, never, not even for an hour, be forgotten! Ask the Lord to write this covenant upon the fleshy tablets of your heart, that it may be there forever! O Zion, if I forget You, let my right hand forget her cunning! Sooner than I should forget You, O my God, suffer me speedily to die! Let me not live to become so false, so wicked as under stress of infirmity or temptation, even for a moment, to turn aside from You!
 
 Beloved Brothers and Sisters, take hold on Christ this morning with a renewed grip and say, "Lord, You know all things; You know that I love You! Suffer me not to forsake You. Hold me up and I shall be safe. I would be Yours living. Yours dying and Yours forever and ever." Thus desiring and pleading, all will be well with you. May the God of the Everlasting Covenant bless you. Amen.
-
 
 ---
 [[Sermon 1751 Fathers In Christ|← #1751]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1753 Blessed Promises For Dying Outcasts|#1753 →]]

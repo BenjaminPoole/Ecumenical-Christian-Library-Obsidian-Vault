@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Duty of the Present Hour
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1563
-
-DELIVERED BY.
 
 > "Break up your fallow ground: for it is time to seek the Lord, till He comes and rains righteousness upon you." Hosea 10:12.
 
@@ -176,7 +173,6 @@ And Gehazi goes the sixth time. "Alas!" he says to himself, "I never went on suc
 What is that to the sky? What rain can come out of a morsel of cloud to be measured by a span? He comes back and he declares, "Behold, there arises a little cloud out of the sea, like a man's hand." Up rises the Prophet and wraps his mantle about him! The rain is coming and he sends Gehazi in haste down to Ahab, to warn him against the nearing deluge, saying, "Prepare your chariot and get you down, that the rain stop you not." Nobody could hear it, but Elijah had marvelous ears as he had a marvelous voice with God! He runs before Ahab's chariot in sacred exhilaration of delight! The heavens are already beginning to turn to blackness and the first big drops are falling! Elijah has prevailed!
 
 Now, get to your chambers tonight—you that have not found the Lord—and come not forth till you have found Him and He has given you Grace as a mighty shower! If, by the morning light, there is but a little hope and though you can only say, "God, be merciful to me a sinner," keep the watches and continue the prayer! O Soul, though you can only cry, "Lord, I believe! Help my unbelief," yet watch on and seek on, for the Lord will rain righteousness upon you! A deluge of mercy shall descend and your heart shall rejoice, for this is His own promise, "When the poor and needy seek water and there is none and their tongue fails for thirst, I, the Lord, will hear them. I, the God of Israel, will not forsake them." So be it unto you. Amen.
-
 
 ---
 [[Sermon 1562 Harvest Past, Summer Ended and Men Unsaved|← #1562]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1564 Desires Towards God—a Sermon For The Weak|#1564 →]]

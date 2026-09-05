@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 19. Questions with Answers by the Bishops of Worcester, Chichester, and Hereford
 
-SOME QUESTIONS, WITH ANSWERS
+*Some Questions, with Answers*
 
-MADE TO THEM BY THE
+## Made to Them by The
 
-BISHOPS OF WORCESTER1, CHICHESTER*, AND HEREFORD1
+## Bishops of Worcester 1, Chichester*, and Hereford 1
 
 Stillinfiflect A1SS. Lamb. Libr. 1108. fol. 40. Burnet'sHist. of Reformat. Vol. ii. A pp. B. i. No. 25. pp. 210-212. Ed. Oxon. Strype's Mem. of Abp. Cranmer, Vol. i. pp. 224, 5. Ed. Oxon.
 
@@ -65,7 +64,7 @@ I1 Nicholas Heath. Vide p. 60, n. l.J [2 George Day.] |3 JohnSkjrp.]
 
 [4 "This paper is all in Bonner's hand, with whom these three bishops agreed." Vid. Strype's Corrections of Burnet's Hist, of Reformat. Vol. III. Part ii. p. 521.] f5 Dr Jenkyns omits the word "that."]
 
-QUESTIONS AND ANSWERS.
+## Questions and Answers
 
 The Question.
 

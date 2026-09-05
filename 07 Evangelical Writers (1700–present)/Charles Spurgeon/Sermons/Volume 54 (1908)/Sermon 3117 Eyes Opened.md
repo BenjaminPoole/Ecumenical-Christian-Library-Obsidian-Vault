@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Eyes Opened
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3117
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Elisha prayed, and said, LORD, I pray you, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and behold, the mountain was full of horses and chariots of fire round about Elisha." 2 Kings 6:17.
 
@@ -146,7 +143,6 @@ Oftentimes we need to have our eyes opened to see ourselves. We imagine that we 
 O Young man over yonder, if your eyes are opened by God, you will see that what you are striving to get is not worth getting and you will begin to ask how you can live to the Glory of God! Young woman, if your eyes are spiritually opened, you will no longer find any joy in that sinful pursuit of yours—you will find that there is no true joy save in trusting Christ and living wholly for Him. Brother ministers, if our eyes are opened as they should be, they will more
 
 often be full of tears than they now are! Elders of the Church, if your eyes are opened as they should be, you will watch for souls as those that must give account to God! Teacher, if your eyes are truly opened, you will look upon your children in a very different light from that in which you now see them—they will then be very precious in your sight. I pray the Lord that where the eyes are not opened, they may be opened now! And that where the eyes are opened, they may be opened still more till to each one of us that promise shall be fulfilled, "Your eyes shall see the King in His beauty; they shall behold the land that is very far off." God grant it, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3116 Preparing to Depart|← #3116]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3118 What Had Become of Peter|#3118 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Remember!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1406
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 31, 1878,.
+*Delivered on Lord's-Day Morning, March 31, 1878*
 
 > "You shall remember that you were a bondman in the land of Egypt, and the Lord your God redeemed you." Deuteronomy 15:15.
 
@@ -150,7 +149,6 @@ With this I close. Be thoughtful of all your fellow men. You that have been rede
 The preaching of modern times is as an olive tree beaten till not a trace of fruit remains. Let it not be so with us, but let the preacher say, "I was a bondman and therefore I will drop handfuls on purpose for poor souls in trouble." Brothers and Sisters, be very considerate to seekers. Look them up. Talk to them after the sermon. Say a word to those sitting in your pew which may encourage their poor trembling hearts to lay hold on Jesus Christ.
 
 Remember that you were a bondman—the smell of the brick kiln is upon you now, my Brother, my Sister—you have not yet cleansed all the clay from your hands with which you did work in mortar and in brick. Then do not become selfish, unloving, unkind, but in all things love your neighbor as yourself and so prove that you love the Lord your God with all your heart. God bless you. Amen.
-
 
 ---
 [[Sermon 1405 A Distinction with a Difference|← #1405]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1407 Compassion on the Ignorant|#1407 →]]

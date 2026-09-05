@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Trials Expected and Conquered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2877
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When you pass through the waters, I will be with you and through the rivers, they shall not overflow you, when you walk through the fire, you shall not be burned; neither shall the flame kindle upon you. For I am the LORD your God, the Holy One of Israel, your Savior: I gave Egypt for your ransom, Ethiopia and SSeba for you." Isaiah 43:2,3.
 
@@ -120,7 +117,6 @@ When I hear how fashionable people spend an evening and go away saying how delig
 Poor Soul, how is it that you think there is rest for you anywhere but in Christ? Come back, you with the weary wings, come back to God! Come back, you with the weary heart, come back to your Savior's bosom!
 
 May God bless you all, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2876 Christ's Crowning Glory|← #2876]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2878 Good Cheer for the Needy|#2878 →]]

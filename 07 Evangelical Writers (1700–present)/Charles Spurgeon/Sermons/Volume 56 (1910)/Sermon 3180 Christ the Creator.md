@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Christ the Creator
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3180
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "All things were created by Him and for Him." Colossians 1:16.
 
@@ -135,9 +132,9 @@ God in Christ is All-in-All."
 
 Happy is he who is the lowliest page in the retinue of such a King! Happy is he who shall be privileged to sprinkle a few drops of water to lay the dust in the road over which our conquering King shall ride! Blessed is he who shall spread his garments in the way, or wave a palm branch in honor of the royal Victor in His triumphal procession! Happy shall he be, then, who has been laughed to scorn for Christ's sake! Or who has been lying in a dungeon till the moss has grown on his eyelids! Or who has been burned at the stake and his ashes cast to the four winds of Heaven because he would not deny his Lord! Oh to be wholly on His side, now, that we may be among His faithful followers on that Day! Here we are, O glorious Son of David! Take us and all that we have, and make us more than ever Yours from this time forward, and unto You shall be the glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-COLOSSIANS1.
+## Colossians 1
 
 Verses 1, 2. Paul, an Apostle of Jesus Christ by the will of God, and Timothy, our brother, to the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace from God our Father and the Lord Jesus Christ Kindness is the very breath of Christianity, so the Apostle will not begin the subject matter of his letter until first of all he has breathed out a benediction upon those to whom he writes.
 
@@ -182,7 +179,6 @@ That we might have to go to Him for it, it pleased the Father to make errands fo
 WORK IN US AND WORK BY US.] There will never be any mighty work
 
 come from us unless there is first a mighty work in us—no man truly labors for souls unless the Holy Spirit has first worked mightily in him.
-
 
 ---
 [[Sermon 3179 A Comprehensive Benediction|← #3179]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3181 A Sermon for a Winter's Evening|#3181 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # God Our Portion and His Word Our Treasure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1372
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 2, 1877,.
+*Delivered on Lord's-Day Morning, September 2, 1877*
 
 > "You are my portion, O Lord: I have said that I would keep Your Words." Psalm 119:57.
 
@@ -154,7 +153,6 @@ We will finish when we duly note one more point, namely this, that if you do dil
 And why? "My foot has held His steps, His way have I kept, and not declined. Neither have I gone back from the commandment of His lips; I have esteemed the Words of His month more than my necessary food," or, "my portion," as many translate it. The Words of God were dear to him! He felt he had kept them and, therefore, he said, "He knows the way that I take: when He has tried me, I shall come forth as gold." If you trifle with God's Words you will miss a great evidence of being His child!
 
 Unless you are very strict as to what you believe and what you do. Unless you make the Word of God to be the chart by which you steer your course when you come into stormy waters and the devil begins to tempt you and the world laughs at you, you will not be able to fall back upon the evidence which Job could so honestly quote in his own favor. And neither will you have the sweet confidence that when the Lord has tried you, He will bring you forth as gold. The Lord bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1371 Brave Waiting|← #1371]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1373 Our Last Journey|#1373 →]]

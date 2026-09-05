@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Charge of the Angel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2032
 
-DELIVERED ON LORD'S DAY MORNING, JULY 8, 1888,.
+*Delivered on Lord's Day Morning, July 8, 1888*
 
 > "But the angel of the Lord by night opened the prison doors, and brought them forth, and said, Go, stand and speak in the temple to the people all the words of this life." Acts 5:19,20.
 
@@ -176,7 +175,6 @@ Could not some of you do more than you are doing? Are there not young men who mi
 What are you doing? You confess that you are not your own but bought with a price by the Lord Jesus—why, then, do you not serve Him? I have succeeded to a large degree in routing some of you out—I miss you on Sunday evenings— and a good miss too, since I know where you are and that you are out serving God. You take your meal in the morning and then you feed others in the after part of the day. The Lord bless you in it. You were not created to sit in these pews and listen to me—there is something better for a mortal man to do than to be a hearer only.
 
 I charge every Christian man and woman here to listen to what I am about to say. Though I am no angel, I repeat in the name of the Lord Jesus the command of the heavenly messenger—"Go, stand out boldly, and speak unto the people all the words of this life." And may God bless you. Amen.
-
 
 ---
 [[Sermon 2031 David Dancing Before the Ark Because of His Election|← #2031]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2033 Plain Directions To Those Who Would Be Saved From Sin|#2033 →]]

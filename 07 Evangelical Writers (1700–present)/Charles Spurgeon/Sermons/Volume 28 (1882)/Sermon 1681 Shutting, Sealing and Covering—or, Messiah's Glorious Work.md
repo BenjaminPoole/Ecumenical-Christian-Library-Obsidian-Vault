@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Shutting, Sealing and Covering—or, Messiah's Glorious Work
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1681
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 24, 1882,.
+*Delivered on Lord's Day Morning, September 24, 1882*
 
 > Daniel 9:24.
 
@@ -158,7 +157,6 @@ But now, suppose when I put the question, you had to shake your head and say, "N
 Has Christ not reconciled you? Then mark this, your enmity will increase! There is no peace between God and you, now, but soon will the war begin in which He must conquer and you, never yielding, will continue forever more to hate God and to find in that hate your utmost torment, your fiercest Hell! Have you never had the righteousness of Christ brought in? Then mark this, your unrighteousness will last forever! One of these days God will say, "He that is unholy, let him be unholy, still: He that is filthy, let him be filthy, still." That will be the most awful thing that can ever happen to you! You have heard of the fable of Medusa's head—whoever looked upon it, when it was held up, was turned to sto-ne—and one day, Sinner, you shall look at Death—and it will petrify your character so that it shall be forever what it is when death came to you! Where death finds you, there judgment shall find you, and there eternity shall leave you! Oh, wretched Soul, to have nothing to do with the everlasting righteousness of Christ! Are not the prophecies fulfilled in you, the prophecies of mercy? Then listen! The prophecies of woe will be written large across your history. "The wicked shall be turned into Hell, with all the nations that forget God." Beware, you that forget God, lest He tear you in pieces and there be none to save you!
 
 I will not detain you with many such words of terror, but through the Old Testament they roll like peals of thunder, nor is the New Testament less stern towards him that goes on in his iniquity and will not turn to the Christ. Lastly, will you never be anointed to be most holy? Then remember, holiness and you will stand at a distance, forever—and to be far off from holiness must necessarily be to be far off from Heaven and happiness! Sin is misery. In it lies both the root and the fruit of eternal woe. Purity is paradise—to be right with God is to be right with yourself and all created things! But if you will not be holy, then you must, by force of your own choice, be forever tossed about upon the restless sea of wretchedness! God save you, Brothers and Sisters! God save you for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1680 Bochim—Or, the Weepers|← #1680]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1682 Ask and Have|#1682 →]]

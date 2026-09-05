@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Believing Thief
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2078
@@ -125,10 +124,9 @@ Washed all my sins away."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Luke 23:27-49.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’241, 288, 506.
+## Hymns from "Our Own Hymn Book"’241, 288, 506
 
 * No. 1881. "The Dying Thief in a New Light."
-
 
 ---
 [[Sermon 2077 The Gospel of the Glory of Christ|← #2077]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2079 Man Unknown To Man|#2079 →]]

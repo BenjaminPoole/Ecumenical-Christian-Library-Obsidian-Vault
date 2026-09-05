@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Feeding on the Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2278
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Listen diligently to Me, and eat what is good, and let your soul delight itself in fatness." Isaiah 55:2.
 
@@ -127,7 +124,7 @@ Oh, to live in the suburbs of Heaven! To get into the vestibule of God's great P
 
 Oh, that some poor soul would get his first mouthful of Christ tonight! Take Him! I have seen a hungry child sent by his mother to the baker's. There is a little piece of bread put in as a "makeweight," and the poor child eats it on the way home. I give you leave to do that tonight! Carry the Truth of God away with you and keep it! But eat a bit as you go home. Lay hold on Christ tonight—now—before you leave the Tabernacle. May His Grace enable you to do it! And then sit down and eat, and eat, and eat forever of this precious, inexhaustible provision of God's Infinite Love—and to Him shall be Glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON ISAIAH55.
+## Exposition by C. H. Spurgeon Isaiah 55
 
 Tonight we shall read that precious chapter of Gospel invitation, the 55th of Isaiah, which, I hope, you all know by heart.
 
@@ -180,7 +177,6 @@ Him—
 13\. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name. Yes, it shall make God's name great when you are converted, for you will talk about what the Lord has done for your soul and that will bring God fame—"It shall be to the LORD for a name."
 
 13\. For an everlasting sign that shall not be cut off. O you that thirst! O you hungry! O you unsatisfied! May the reading of this Word be blessed to you tonight! Amen.
-
 
 ---
 [[Sermon 2277 Sychar's Sinner Saved|← #2277]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2279 Joy Hindering Faith|#2279 →]]

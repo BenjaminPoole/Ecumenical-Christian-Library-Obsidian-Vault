@@ -11,7 +11,6 @@ tags:
   - classical
   - sophocles
 ---
-
 # The Seven Plays in English Verse
 *Oedipus the King · Oedipus at Colonus · Antigone · Ajax · Electra · The Trachiniae · Philoctetes*
 
@@ -19,13 +18,7 @@ tags:
 
 ---
 
-                              SOPHOCLES
-
-                                 THE
-                     SEVEN PLAYS IN ENGLISH VERSE
-
-                                  BY
-                         LEWIS CAMPBELL, M.A.
+## Sophocles
 
                        HON. LL.D., HON. D.LITT.
      EMERITUS PROFESSOR OF GREEK IN THE UNIVERSITY OF ST. ANDREWS
@@ -33,16 +26,13 @@ tags:
 
                  [Illustration: THE WORLD'S CLASSICS]
 
-                         NEW EDITION, REVISED
+## New Edition, Revised
 
                              HENRY FROWDE
                        OXFORD UNIVERSITY PRESS
                      LONDON, NEW YORK AND TORONTO
 
-
-
-
-                              SOPHOCLES
+## Sophocles
 
               Born at Colonos         probably 495 B.C.
               Died                    406 B.C.
@@ -50,16 +40,8 @@ tags:
 _The present translation was first published in 'The World's Classics'
                               in 1906._
 
-
-
-
                 Sie hoeren nicht die folgenden Gesaenge,
                 Die Seelen, denen ich die ersten sang.
-
-
-
-
-                               CONTENTS
 
                 PREFACE
                 PREFATORY NOTE TO THE EDITION OF 1883
@@ -75,11 +57,7 @@ _The present translation was first published in 'The World's Classics'
 
                   *       *       *       *       *
 
-
-
-
-                               PREFACE
-
+## Preface
 
 In 1869, having read the Antigone with a pupil who at the time had a
 passion for the stage, I was led to attempt a metrical version of the
@@ -138,12 +116,8 @@ Footnote:
 
                   *       *       *       *       *
 
-
-
-
                         PREFATORY NOTE TO THE
                            EDITION OF 1883
-
 
 I. The Hellenic spirit has been repeatedly characterized as simple
 Nature-worship. Even the Higher Paganism has been described as 'in
@@ -678,13 +652,9 @@ Footnotes:
 
                   *       *       *       *       *
 
+## Antigone
 
-
-
-                               ANTIGONE
-
-
-                             THE PERSONS
+## The Persons
 
 ANTIGONE,} _Daughters of Oedipus and Sisters of Polynices_
 ISMENE,  }                 _and Eteocles._
@@ -697,13 +667,9 @@ _A Messenger._
 EURYDICE, _the Wife of Creon._
 _Another Messenger._
 
-
 SCENE. Before the Cadmean Palace at Thebes.
 
 _Note._ The town of Thebes is often personified as Thebe.
-
-
-
 
 Polynices, son and heir to the unfortunate Oedipus, having been
 supplanted by his younger brother Eteocles, brought an army of Argives
@@ -717,13 +683,9 @@ but lost his son Haemon and his wife Eurydice, and received their
 curses on his head. His other son, Megareus, had previously been
 devoted as a victim to the good of the state.
 
+## Antigone
 
-
-
-                               ANTIGONE
-
-
-ANTIGONE. ISMENE.
+## Antigone. Ismene
 
 ANTIGONE. Own sister of my blood, one life with me,
 Ismene, have the tidings caught thine ear?
@@ -2418,13 +2380,9 @@ A lesson men shall learn when they are old.
 
                   *       *       *       *       *
 
+## Aias
 
-
-
-                                 AIAS
-
-
-                             THE PERSONS
+## The Persons
 
 ATHENA.
 ODYSSEUS.
@@ -2439,14 +2397,10 @@ AGAMEMNON.
 EURYSAKES, _the child of Aias and Tecmessa, appears, but does not
 speak._
 
-
 SCENE. Before the encampment of Aias on the shore of the Troad.
 Afterwards a lonely place beyond Rhoeteum.
 
 Time, towards the end of the Trojan War.
-
-
-
 
                   _'A wounded spirit who can bear?'_
 
@@ -2472,11 +2426,7 @@ sons of Atreus being overcome by the firm fidelity of Teucer and the
 magnanimity of Odysseus, who has been inspired for this purpose by
 Athena.
 
-
-
-
-                                 AIAS
-
+## Aias
 
 ATHENA (_above_). ODYSSEUS.
 
@@ -4256,13 +4206,9 @@ LEADER OF CH. Oft we know not till we see.
 
                   *       *       *       *       *
 
+## King Oedipus
 
-
-
-                             KING OEDIPUS
-
-
-                             THE PERSONS
+## The Persons
 
 OEDIPUS, _King of Thebes._
 _Priest of Zeus._
@@ -4279,11 +4225,7 @@ The following also appear, but do not speak:
 _A Train of Suppliants._
 _The children_ ANTIGONE _and_ ISMENE.
 
-
 SCENE. Before the Royal Palace in the Cadmean citadel of Thebes.
-
-
-
 
 Laius, the descendant of Cadmus, and king of Thebes (or Thebe), had
 been told by an oracle that if a son were born to him by his wife
@@ -4317,11 +4259,7 @@ fulfilment of both the former prophecies.
 
 Jocasta hangs herself, and Oedipus in his despair puts out his eyes.
 
-
-
-
-                             KING OEDIPUS
-
+## King Oedipus
 
 OEDIPUS--Priest of Zeus
 (_with the_ Train of Suppliants _grouped before an altar_).
@@ -6424,13 +6362,9 @@ Till without one pang of sorrow, all his hours have passed away.
 
                   *       *       *       *       *
 
+## Electra
 
-
-
-                               ELECTRA
-
-
-                             THE PERSONS
+## The Persons
 
 An Old Man, _formerly one of the retainers of Agamemnon._
 ORESTES, _son of Agamemnon and Clytemnestra_.
@@ -6442,11 +6376,7 @@ AEGISTHUS.
 
 PYLADES _appears with_ ORESTES, _but does not speak_.
 
-
 SCENE. Mycenae: before the palace of the Pelopidae.
-
-
-
 
 Agamemnon on his return from Troy, had been murdered by his wife
 Clytemnestra and her paramour Aegisthus, who had usurped the Mycenean
@@ -6460,11 +6390,7 @@ murderers, in obedience to the command of Apollo.
 Orestes had been received in Phocis by Strophius, his father's friend.
 Another Phocian prince, named Phanoteus, was a friend of Aegisthus.
 
-
-
-
-                               ELECTRA
-
+## Electra
 
 ORESTES _and the_ Old Man--PYLADES _is present._
 
@@ -6560,7 +6486,7 @@ Victory ours, and our success assured.                       [_Exeunt_
 
 _Enter_ ELECTRA.
 
-MONODY.
+## Monody
 
 EL. O purest light!
 And air by earth alone
@@ -8508,13 +8434,9 @@ With full achievement in this onset crowned!
 
                   *       *       *       *       *
 
+## The Trachinian Maidens
 
-
-
-                        THE TRACHINIAN MAIDENS
-
-
-                             THE PERSONS
+## The Persons
 
 DEANIRA, _wife of Heracles._
 _An_ Attendant.
@@ -8527,11 +8449,7 @@ _An_ Old Man.
 HERACLES.
 IOLE, _who does not speak_.
 
-
 SCENE. Before the temporary abode of Heracles in Trachis.
-
-
-
 
 This tragedy is named from the Chorus. From the subject it might have
 been called 'Deanira or the Death of Heracles'.
@@ -8553,11 +8471,7 @@ Ceyx, the king of the country, have been living in exile. At the close
 of the drama, Heracles, while yet alive, is carried towards his pyre
 on Mount Oeta.
 
-
-
-
-                        THE TRACHINIAN MAIDENS
-
+## The Trachinian Maidens
 
 DEANIRA. Men say,--'twas old experience gave the word,
 --'No lot of mortal, ere he die, can once
@@ -9821,7 +9735,7 @@ OLD M. Now thou may'st know
 HYL. I could not brook
   All speechless on his misery to look.
 
-MONODY.
+## Monody
 
 HER. O altar on the Euboean strand,
   High-heaped with offerings from my hand,
@@ -10208,13 +10122,9 @@ CH. Maidens from the palace-hall,
 
                   *       *       *       *       *
 
+## Philoctetes
 
-
-
-                             PHILOCTETES
-
-
-                             THE PERSONS
+## The Persons
 
 ODYSSEUS.
 NEOPTOLEMUS.
@@ -10223,11 +10133,7 @@ PHILOCTETES.
 Messenger, _disguised as a Merchantman_.
 HERACLES, _appearing from the sky_.
 
-
 SCENE. A desert shore of the Island of Lemnos.
-
-
-
 
 It was fated that Troy should be taken by Neoptolemus, the son of
 Achilles, assisted by the bow of Heracles in the hands of Philoctetes.
@@ -10253,13 +10159,9 @@ When the inward sacrifice is complete, Heracles appears from heaven,
 and by a few words changes the mind of Philoctetes, so that all ends
 well.
 
+## Philoctetes
 
-
-
-                             PHILOCTETES
-
-
-ODYSSEUS. NEOPTOLEMUS.
+## Odysseus. Neoptolemus
 
 ODYSSEUS. This coast of sea-girt Lemnos, where we stand,
 Is uninhabited, untrodden of men.
@@ -11697,7 +11599,7 @@ Meanwhile, perchance, he may conceive some thought
 That favours our design. We two will start;
 And ye, be swift to speed forth at our call.                   [_Exit_
 
-MONODY.
+## Monody
 
 PHI. O cavern of the hollow rock,                                  I 1
 Frosty and stifling in the seasons' change!
@@ -12250,13 +12152,9 @@ CH. Come now all in one strong band;
 
                   *       *       *       *       *
 
+## Oedipus at Colonos
 
-
-
-                          OEDIPUS AT COLONOS
-
-
-                             THE PERSONS
+## The Persons
 
 OEDIPUS, _old and blind._
 ANTIGONE, _his daughter, a young girl._
@@ -12268,11 +12166,7 @@ CREON, _Envoy from Thebes._
 POLYNICES, _the elder son of Oedipus._
 _Messenger._
 
-
 SCENE. Colonos.
-
-
-
 
 Oedipus had remained at Thebes for some time after his fall. But he
 was afterwards banished by the command of Creon, with the consent of
@@ -12315,13 +12209,9 @@ the upper classes, especially the Knights (see Thuc. viii. 67); and
 before the sacred grove of the Eumenides, or Gentle Goddesses, a
 euphemistic title for the Erinyes, or Goddesses of Vengeance.
 
+## Oedipus at Colonos
 
-
-
-                          OEDIPUS AT COLONOS
-
-
-OEDIPUS. ANTIGONE.
+## Oedipus. Antigone
 
 OEDIPUS. Antigone, child of the old blind sire,
 What land is here, what people? Who to-day
@@ -12667,7 +12557,7 @@ Desert that seat again, and from this land
 Unmooring speed thee away, lest on our state
 Thou bring some further bale!
 
-MONODY.
+## Monody
 
 ANT. O strangers, full of reverent care!
 Since ye cannot endure my father here,
@@ -14821,13 +14711,9 @@ His destiny hath found a perfect end.
 
                   *       *       *       *       *
 
+## Notes
 
-
-
-                                NOTES
-
-
-                          SOME PROPER NAMES
+## Some Proper Names
 
 AIDONEUS, Hades or Pluto.
 ARES, The War-God, a destructive Power.
@@ -14837,8 +14723,7 @@ HELIOS, The Sun-God.
 RHEA, the Mother of the Gods.
 THEBE, the town of Thebes personified.
 
-
-                              ANTIGONE.
+## Antigone
 
 1 P. 6, l. 126. _The serpent._ The dragon, the emblem of Thebes.
 
@@ -14866,8 +14751,7 @@ THEBE, the town of Thebes personified.
   Creon and Eurydice, sacrificed himself for Thebes by falling into a
   deep cave called the Dragon's Lair.
 
-
-                                AIAS.
+## Aias
 
 1 P. 48, l. 172. _Her blood-stained temple._ In some of her temples
   Artemis was worshipped with sacrifices of bulls, and, according to
@@ -14887,8 +14771,7 @@ THEBE, the town of Thebes personified.
        While I supposed thee living! The fell Fury
        From her dark shroud beguiled me with sweet lies.'
 
-
-                            KING OEDIPUS.
+## King Oedipus
 
 1 P. 86, l. 36. _That stern songstress._ The Sphinx. See also
   'minstrel hound.'
@@ -14913,8 +14796,7 @@ THEBE, the town of Thebes personified.
   [Greek: en zelo politon] (with 2 MSS) and [Greek: epiphlegon] from
   my conjecture.
 
-
-                               ELECTRA.
+## Electra
 
 1 P. 131, l. 6. _The wolf-slaying God._ Apollo Lyceius, from _Lycos_,
   a wolf.
@@ -14958,8 +14840,7 @@ THEBE, the town of Thebes personified.
   with the MSS [Greek: zon tois thanousin ounek' antaudas isa], _At
   point to die, thou art talking with the dead._
 
-
-                         TRACHINIAN MAIDENS.
+## Trachinian Maidens
 
 1 P. 180, l. 104. _Bride of battle-wooing._ 'Deanira' signifies 'Cause
   of strife to heroes.'
@@ -14974,8 +14855,7 @@ THEBE, the town of Thebes personified.
 4 P. 201, l. 860. _From Love's dread minister,_ i.e. from Aphrodite,
   working through the concealed and silent Iole.
 
-
-                             PHILOCTETES.
+## Philoctetes
 
 1 P. 222, l. 194. _Through Chrysa's cruel sting._ Chrysa was an island
   near the Troad, sacred to a goddess of the name. Her precinct was
@@ -15003,8 +14883,7 @@ THEBE, the town of Thebes personified.
 
 8 P. 255, l. 1333. _Phoebus' child._ Asclepius.
 
-
-                         OEDIPUS AT COLONOS.
+## Oedipus at Colonos
 
 1 P. 265, l. 158. _Mingles with draughts,_ &c. Where libations are
   mixed of water and honey.
@@ -15017,11 +14896,9 @@ THEBE, the town of Thebes personified.
 4   l. 1534. _The dragon-brood._ The Cadmeian race at Thebes, sprung
   from the dragon's teeth sown by Cadmus.
 
-
 N.B.--For other questionable points the student is referred to the
 small edition of _Sophocles_, by Campbell and Abbott (2 vols.,
 Clarendon Press, 1900).
-
 
 Oxford: HORACE HART, Printer to the University.
 

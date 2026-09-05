@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Disobedience to the Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2804
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But they have not all obeyed the Gospel." Romans 10:16.
 
@@ -106,7 +103,6 @@ I hope that there are some here who are saying, "I see what the Gospel commands 
 Can you say that? Can you also say, "I trust myself wholly to Him and desire Him to save me from sin and make me holy. I wish to be His faithful servant and subject as long as I live. Only let Him save me and I will love Him forever and ever"? If your heart has really said that, you are a saved man, as surely as you live! Sister, if you also said that, go in peace—your sins, which are many, are all forgiven! If you did say that, my son, then, be of good cheer, your sins are forgiven you! Take up your bed and walk, you poor lame soul—this night have you found salvation! Free, full, irreversible, eternal salvation is yours, for you have obeyed the command of the Gospel which has come, I trust, with power into your heart!
 
 O Brothers and Sisters, be true to Christ! Begin at once to confess Him and never be backward to acknowledge Him as your Lord! If He has saved you, tell it out! It is a shame for any Christian soldier not to wear his regimentals. Christ is such a Lord that He is worth living for, worth dying for—yes, if our whole lives could be spent in the fires of martyrdom, Christ deserves that none of us should flinch from such a trial for His dear sake! Be an out-and-out Christian, young man, young woman, if you are a Christian at all! God help you to do so, giving your whole self up to Christ to be His forever and ever! So may God grant it, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2803 The Saddest Cry From the Cross|← #2803]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2805 'Life for a Look'|#2805 →]]

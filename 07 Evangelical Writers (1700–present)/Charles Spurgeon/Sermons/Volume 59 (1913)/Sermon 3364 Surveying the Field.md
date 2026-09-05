@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Surveying the Field
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3364
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I arose in the night, I and some few men with me: neither told I any man what Godhadput into my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon." Nehemiah 2:12.
 
@@ -25,7 +22,7 @@ NEHEMIAH, it seems, prepared himself for action by taking a survey of the necess
 
 Now, I know that there are here, on the weeknight at the service, many who love the Master and are anxious to do something in His cause. And I thought I might very profitably commend to them the example of Nehemiah in this respect. We shall consider Nehemiah, then, first as a fine example to those who would seek the good of the Church at large. Secondly, a pattern to any of us laboring in any one distinct sphere. And thirdly, I think I may apply the same principle in reference to the personal work which is being done in our own hearts. And before we conclude our meditation, I may ask you to take a quiet ride around the desolations of your own spirit and so get a clear view of what must be done before you shall become a city inhabited by God to His praise and Glory! First, then, dear Friends, I suppose I have here, as Nehemiah had, a few men and women earnest, resolved—disinterested men and women who are willing—
 
-I. TO SEEK THE GOOD OF THE CHURCH, OF THE CHURCH AT LARGE.
+## I. To Seek the Good of the Church, of the Church at Large
 
 Such men will allow the word of exhortation when I say to them, first, you and I are in the service of the great Church of God and we must, like Nehemiah, firmly resolve that we will do it. Our heart must be set upon this thing. It must not be with us a mere fancy which we have taken up as we might have taken up any other. It must not even be of a spasmodic kind, but our heart must be set towards the Church of God because it is the home of our love, the place of our birth, the bride of Christ, the hope of the world, the pillar and ground of the Truth of God! If we have not such a view of the work to be done and a resolve that it shall be done—we certainly shall not succeed in it.
 
@@ -51,7 +48,7 @@ And the Church of God in England is just the same. There is no increase. We know
 
 We shall not need much time, in the second place, to indicate that this is also—
 
-II. THE RIGHT METHOD OF PROCEEDING WITH REGARD TO ANY SERVICE WHICH, IN OUR SPHERE, WE ARE RENDERING TO CHRIST.
+## II. The Right Method of Proceeding with Regard to Any Service Which, in Our Sphere, We Are Rendering to Christ
 
 Brothers and Sisters, I hope you are all working for Christ. If Christ has saved you, can you do otherwise than live to your Savior? If, indeed, your sins are all put away by His precious blood. If you are wrapped in His spotless righteousness and accepted in the Beloved, I do trust that the love of Christ compels you to tell others of the way of salvation, and to seek to bring in the wandering sheep of the house of Israel! Now, if I am right in my belief that you are engaged in some departments of Christian service, I am sure I shall be judicious in saying to you—take a thorough investigation of the work in which you are engaged. If it is to teach a class of children, lay those children on your heart! Think a great deal about them. Think about them by night, as Nehemiah thought of Jerusalem, and remember that they have souls, that those souls are under condemnation—that nothing but the precious blood can deliver them—that if they are not so delivered, sooner or later those boys and girls of yours will perish! Yet said our Lord, "It is not your Father's will that one of these little ones should perish." Get that solemn fact thoroughly worked into you. Mothers, fathers, you have children committed to your care. You are longing for the conversion of these little ones. Now I want you to get a full estimate of the character of each child! You have peculiar opportunities of riding around, as it were, your little city. Mark the different constitutions, the special weaknesses and defects of that boy and the blemishes and sins of that girl—and always keep this before your minds—that your children, like the children of others, need the regenerating of the Holy Spirit and the saving Grace of the Lord Jesus Christ! Do not take a light view of sin in your children any more than sin in others' children. The hate of God against sin is as real and intense in their case as in others until they are born-again! When you sit down to breakfast with them, think, "Ah, my dear child, I shall not meet you in eternity unless you are brought to the Cross !" Look the girl in the face, as you see her growing up to womanhood, and say to yourself, "Ah, my Lord! In mercy bring her to sit at Your feet as Mary did, and learn of You, or else she shall be no joy to me, for I must be parted from her in the world to come."
 
@@ -79,7 +76,7 @@ My dear Friend, if you are not a converted person, do you not know that all your
 
 May God the Holy Spirit press home these words so feebly spoken. And if any sinner here shall be led by the sight of himself to tremble before God, let him remember and rejoice that there is life for a look at the Crucified One! Whoever trusts in Christ is saved! Rest wholly in Him. Cast yourself upon Him. As the swimmer gives himself up to the water, that it may support him, so do you, and thus shall the Grace of God that brings salvation appear unto you!
 
-EXPOSITION BY C. H. SPURGEON: NEHEMIAH 1; 2:1-8.
+## Exposition by C. H. Spurgeon: Nehemiah 1; 2:1-8
 
 Verses 1, 2. The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace, that Hanani, one of my brethren came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left in captivity, and concerning Jerusalem. This good man was, of course, one of the banished Jews, but he had greatly prospered. He had risen in the empire of Ahasuerus until he had come to be great—even to be one of the chamberlains of the empire. But his heart was towards his poor people—his fellow Jews that were in poverty. Now, whenever God exalts a Christian in a temporal position, he ought not to disown his poor brethren, but his heart should go out towards them to see what he can do for them. It is a shame for any man to forget his country. Does not the Pole still say, "No, Poland, you shall never perish"? And we admire such patriotism. And the same feeling should be in every Christian breast. We should love the Church of God even as Nehemiah loved the chosen race from which he had sprung. So when he met with Hanani, the conversation was all about the poor brethren that remained at Jerusalem.
 
@@ -106,7 +103,6 @@ Nehemiah 2:1. And it came to pass in the month Nisan. Three or four months after
 2-6. Therefore the king said unto me, Why is your countenance sad, seeing you are not sick? This is nothing else but sorrow ofheart. Then I was very sore afraid, and said unto the king, Let the king live forever: why should not my countenance be sad, when the city, the place of my father's sepulchers, lies in waste, and the gates thereof are consumed with fire? Then the king said unto me, For what do you make request? So I prayed to the God of Heaven. And I said unto the king, If it pleases the king, and if your servant has found favor in your sight, that you would send me unto Judah, unto the city of my father's sepulchers, that I may build it. And the king said unto me, (the queen also sitting by him). Who was probably, Queen Esther and, therefore, abundantly agreeable that such a work should be done for her own nation. "The king said unto me."
 
 6\. For how long shall your journey be? And when will you return? So it pleased the king to send me: and I set him a time. He was a valued servant. They did not wish to part with him. And if he would go for a time to do this business, yet they took steps to assure he would return. There are some servants that I know of, who, if they were to go away, their masters would not be particularly anxious that they should come back again! It is well when a man is so in favor with God that his piety acts upon his ordinary life and he becomes in favor with men, also. That is a poor, miserable religion that does not make its possessor a good servant. Yes, in whatever station of life we may be placed, we ought to be far more valuable to those round about us on account of our fearing God! May we always be of such a character that if we were gone, we should be missed. "I set him a time."
-
 
 ---
 [[Sermon 3363 Witnessing at the Cross|← #3363]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3365 Pictures of Happiness|#3365 →]]

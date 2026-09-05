@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 34. Wherefore callest thou him our Lord?
-
-**Question 34. Wherefore callest thou him our Lord?**
 
 Answer. Because he has redeemed us, both soul and body, from all our sins, not with gold or silver, but with his precious blood, and hath delivered us from all the power of the devil, and thus hath made us his own property.
 
-**EXPOSITION**
+## **Exposition**
 
 Two things are here to be considered:
 
@@ -26,13 +23,13 @@ I. In what sense Christ is called Lord.
 
 II. For what causes, and in how many ways he is our Lord.
 
-**I. IN WHAT SENSE CHRIST IS CALLED LORD**
+## **I. In What Sense Christ Is Called Lord**
 
 To be Lord is to have a right over some thing or person. Christ, therefore, is our Lord and the Lord of all, 1. Because he has dominion over us, and over all things: he has a care for all things, keeps and preserves all, and especially those who have been purchased and redeemed by his blood. 2. Because all things are subject to him, and we are bound to serve him, in body and soul, that he may be glorified by us.
 
 The name Lord belongs to both natures of Christ, just as that of Prophet, Priest and King; for the names of the office, benefits, dignity and beneficence of Christ towards us are affirmed of his whole person, not by the communication of properties, as the names of the two natures and attributes of Christ, but properly in respect to each nature. For both natures of Christ will and secure our redemption: the human nature paid the price of our redemption by dying for us, and the divine gives and offers to the Father this price, and applies it unto us by the Spirit. Christ is, therefore, our Lord not only in respect to his divine nature, which has created us, but also in respect to his humanity; for even in as far as he is man, the person of Christ is Lord over all angels and men.
 
-**II. FOR WHAT CAUSES, AND IN HOW MANY WAYS HE IS OUR LORD**
+## **II. For What Causes, and in How Many Ways He Is Our Lord**
 
 Christ is our Lord, not only in one, but in many respects.
 
@@ -48,7 +45,7 @@ Obj. If we have been redeemed from the power of the devil, the price of our rede
 
 What, therefore, is the meaning of this article, I believe in Christ, our Lord? Three things are here to be observed: 1. To believe that Christ is Lord. This, however, is not sufficient, for we believe also that the devil is lord; but not of all, nor of us, as we believe Christ is Lord of us all. 2. To believe that Christ is Lord both of all and of us. Neither is this all that is necessary for us to believe; for the devils also believe that Christ is their Lord, as it is plain that he has a right and authority over them. 3. To believe in Christ as our Lord; that is, to believe that he is our Lord in such a manner that we may repose our confidence in him. And this is what we are especially required to believe. When we, therefore, say that we believe in our Lord, we believe, 1. That the Son of God is the Creator of all things, and therefore has a right over all creatures. "All things that the Father hath are mine." 2. That he is in a peculiar manner constituted the Lord, the defender and preserver of the church, because he has redeemed it with his blood. 3. That the Son of God is also my Lord, that I am one of his subjects, that I am redeemed by his blood and continually preserved by him, so that I am bound to be grateful to him. And, further, that his dominion over me is such as is calculated to promote my good, and that I am saved by him as a most precious possession, a peculiar purchase, secured at the greatest expense.
 
-**FOURTEENTH LORD'S DAY**
+## **Fourteenth Lord's Day**
 
 ---
 [[Ursinus HC Q32|← Question 32. But why art thou called a Chris]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q35|Question 35. What is the meaning of these wo →]]

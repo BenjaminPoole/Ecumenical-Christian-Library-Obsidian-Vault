@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # God's Dealings With Egypt and Israel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2723
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And smote all the first-born in Egypt; the chief of their strength in the tabernacles of Ham: but made His own people to go forth like sheep, and guided them in the wilderness like a flock." Psalm 78:51, 52.
 
@@ -93,7 +90,7 @@ slightest wish to escape it. Those who live till Christ comes and do not die wil
 
 Yes, Brothers and Sisters, our great Joshua will assuredly bring us into the Promised Land, Jordan or no Jordan! We shall have our lot and our inheritance beyond the river, that is, if we truly trust in Him. How about that matter? Are you resting in Jesus Christ the one Mediator between God and men? Have you faith in the living God? A living people must have a living God. Oh, if your money is your god, if your belly is your god, if this world is your god, if Satan is your god you will have Egypt's doom! But if, through Christ Jesus the Lord, God is your one hope, and joy, and confidence, then be not afraid, for He will lead you through the wilderness and He will bring you into your eternal rest! God grant it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM37'
+## Exposition by C. H. Spurgeon: Psalm 37'
 
 It may be, beloved Friends, that there is a word of comfort for some of you in this "Psalm of David." If any of you have been perplexed and worried, and there has been a stern conflict within your spirit, here are some cheering words which will bring a message from God to you.
 
@@ -146,7 +143,6 @@ then God blesses it to them and bears them up beneath it, so that they do not re
 40\. And deliver them. He shall help them while they are in the trouble and bring them out of it in due time.
 
 40\. He shall deliver them from the wicked, andsave them, because they trust in Him. O dear Friends, lean hard upon God! Lay down all your burdens at your Savior's feet and rest there in holy and happy confidence in Him! May the Lord give to all of us the Grace to enjoy this sweet rest, for His dear Son's sake. Amen.
-
 
 ---
 [[Sermon 2722 The Education of Sons of God|← #2722]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2724 The Dew of Christ's Youth|#2724 →]]

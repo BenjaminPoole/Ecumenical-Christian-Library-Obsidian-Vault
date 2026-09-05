@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Whole Machinery of Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2327
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How then shall they call on Him in whom they ha ve not believed? And ho w shall they believe in Him of whom they ha ve not heard? And how shall they hear without a preacher? And how shall they preach, except they are sent? As it is written, How beautiful are the feet of them that preach the Gospel of peace, and bring glad tidings of good things!" Romans 10:14,15.
 
@@ -109,7 +106,7 @@ These glad tidings of good things are published to all of you, even you that are
 
 Now I have talked all in vain unless the Lord shall apply the Truth to you and you believe it. Do not wait for somebody to believe for you! Trust Christ for yourself! Believe in Jesus even now! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS10.
+## Exposition by C. H. Spurgeon: Romans 10
 
 Verse 1. Brethren, my heart's desire and prayer to God for Israel is that they might be saved. Desire is the mother and the soul of prayer. "My heart's desire and prayer." These Israelites had hunted Paul and sought to kill him. They were his deadly enemies, but the only return he made them was to pray that they might be saved! I hope you will never have a worse wish for your worst foe!
 
@@ -152,7 +149,6 @@ Verse 1. Brethren, my heart's desire and prayer to God for Israel is that they m
 21\. But to Israel He says, All day long I have stretched forth My hands—In the attitude of invitation and entreaty, and readiness to receive—
 
 21\. Unto a disobedient and gainsaying people. And that is what He has done to you! O, then, careless child of pious parents! O, then, unregenerate hearer of the Word! All day long has He stood and stretched forth His hands unto a disobedient and gainsaying people. The Lord forgive all such, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2326 Satan Departing, Angels Ministering|← #2326]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2328 Micah's Message for Today|#2328 →]]

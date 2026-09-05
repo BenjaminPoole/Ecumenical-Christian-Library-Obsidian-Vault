@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # A Delicious Experience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2090
 
-DELIVERED ON LORD'S DAY MORNING, JUNE 16, 1889,.
+*Delivered on Lord's Day Morning, June 16, 1889*
 
 > "For we which have believed do enter into rest, as He said, As I have sworn in My wrath, if they shall enter into My rest." Hebrews 4:3.
 
@@ -168,7 +167,6 @@ Oh, that all the way between here and Heaven we may journey on with restful hear
 When it recovered itself a little, it did not again fly aloft. But seeing the door open upon the level of the floor, it joyfully flew through it into the open country. You are that bird. Your pride makes you deal with high things up there in the roof. You are blinding yourself among the lofty mysteries—there is no escape for you there, nor rest, nor even life. You seek a way through the glory of your own painted righteousness. But this will be death to you, if you persevere.
 
 Drop down upon the floor of honest confession and lowly penitence. Come to the ground by self-humiliation. When you get lower ideas of yourself you will see before you the open door—Christ Jesus. As soon as you see Him, use the wings of a simple faith and you are at liberty and no more a captive doomed to die. May God bring you down, that He may exalt you in due time, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2089 Profitable Mixture|← #2089]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2091 Jesus Wept|#2091 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Christ's Yoke and Burden
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2832
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My yoke is easy and My burden is light." Matthew 11:30.
 
@@ -117,9 +114,9 @@ But this is not true of you all. Some of you have heavy burdens to carry, but yo
 
 treasures of Egypt! The Lord bring you all to think and say the same—and if you ever do, then you can begin with, Come unto Me, all you that labor and are heavy laden, and I will give you rest," and you can go on to the text and claim Christ's words as applying to you—"My yoke is easy and My burden is light." The way of holiness is an easy way! May God the Holy Spirit graciously guide you to walk in it, for Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—775, 493, 495.
+## Hymns from "Our Own Hymn Book"—775, 493, 495
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH49:24-26; 50.
+## Exposition by C. H. Spurgeon: Isaiah 49:24-26; 50
 
 Isaiah 49:24. Shall the prey be taken from the mighty, or the lawful captive delivered? Yes, this shall happen when God makes bare His arm and stretches it forth to rescue His captive people.
 
@@ -152,7 +149,6 @@ knew that the ultimate result would be Glory to God and to Himself. He had no th
 11\. That you have kindled. That will be the end of it. This grand illumination of yours—all your good works, all your glorious intellect and I know not what—what will come of it?
 
 11\. This shall you have of My hand; you shall lie down in sorrow. God save us all from such a lying down as that at the last, for Christ' s sake! Amen.
-
 
 ---
 [[Sermon 2831 Burden-bearing|← #2831]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2833 Lessons on Divine Grace|#2833 →]]

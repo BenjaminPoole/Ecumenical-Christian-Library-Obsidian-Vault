@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 109. Matthew 13:24-30, 36-43
-
-**Matthew 13:24-30, 36-43**
 
 **24**. He put forth to them another parable, saying, The kingdom of heaven is compared to a man sowing good seed in his field. **25**. But while men were asleep, his enemy came, and sowed tares among the wheat, and went away. **26**. And when the blade sprang up, and yielded fruit, then appeared also the tares. **27**. And the servants of the household approaching, said to him, Lord, didst not thou sow good seed in thy field? Whence then hath it tares? [^1] **28**. And he said to them, An enemy [^2] hath done this. And his servants said to him, Is it thy will then that we go away and gather them? **29**. But he said, No; lest, while you are gathering the tares, you root out along with them the wheat also. **30**. Allow both to grow together till the harvest; and at the time of harvest I will say to the reapers, Gather first the tares, and bind them in bundles to burn them; but collect the wheat into my barn. — (A little after.) **36**. Then Jesus sent the multitude away, and came into the house, and his disciples approached him, saying, Explain to us the parable of the tares of the field. **37**. But he answering, said to them, He that soweth the good seed is the Son of man. **38**. And the field is the world. The good seed is the children of the kingdom; but the tares are the children of that wicked one. **39**. And the enemy that soweth them is the devil; the harvest is the end of the world, and the reapers are the angels. **40**. So then as the tares are gathered, and are burned in the fire, so shall it be at the end of this world. **41**. The Son of man will send his angels, and will gather out of his kingdom all stumbling-blocks, and those who commit iniquity. **42**. And they will east them into a furnace of fire: there shall be lamentation and gnashing of teeth. **43**. Then the righteous will shine as the sun in the kingdom of their Father. He that hath ears to hear, let him hear.
 
@@ -71,7 +68,7 @@ In order to make a deeper impression on his hearers, our Lord unquestionably ref
 [^6]: “Qui ne pensent point qu’il soit bon de s’adioindre a la compagnie des fideles, sinon que tout y soit pur comme entre les Anges;”— “who do not think that it is proper to join themselves to the society of believers, unless every thing in it be as pure as among the Angels.”
 [^7]: “Et semblables reveurs;” — “and similar dreamers.”
 [^8]: “Quand la peine n’est pas a mort (comme est l’excommunication;)” — “when the punishment, as in the case of excommunication, is not to death.”
-[^9]: “Devant le siege iudicial de sa maieste;” — “before the judgment- seat of his majesty.”
+[^9]: “Devant le siege iudicial de sa maieste;” — “before the judgment-seat of his majesty.”
 [^10]: “Ils tournent incontinent bride;” — “they immediately wheel about.”
 [^11]: Harmony, volume 1 p. 200.
 [^12]: “Diversement, aux uns plus, aux autres moins;” — “variously, to some more, to others less.”

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # No Fixity Without Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2305
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If you will not believe, surely you shall not be established." Isaiah 7:9.
 
@@ -105,7 +102,7 @@ If I said, "O poor Sea, poor Sea, now you will be drained dry, for they bring su
 
 And you guilty ones, look up, believing that He is greater in mercy than you are in sin—and more able to forgive than you are to transgress—and you shall find it so! But "if you will not believe, surely you shall not be established." Let us all go home, believing in Christ Jesus, for His dear name's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. ISAIAH 7:1-16; 2 CHRONICLES 28:1-16.
+## Expositions by C. H. Spurgeon. Isaiah 7:1-16; 2 Chronicles 28:1-16
 
 Isaiah 7:1, 2. And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Tadah, that Rezin the king of Syria, and Pekah the son of Remaliah, King of Israel, went up toward Jerusalem to war against it, but could not prevail against it. And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind. They were tossed to and fro, bent, thrown down, as the trees of a forest in a tornado. They had already felt the power of these two confederate kings and they were terribly afraid. David, himself, would have had confidence in God, but, "the house of David" had gone far astray. Ahaz had cast off the fear of God and he had, therefore, great fear of men.
 
@@ -142,7 +139,6 @@ per pool—there Isaiah will meet king Ahaz—and there he is to speak to him. I
 12-15. Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshil-lemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war, and said unto them, You shall not bring in the captives here: for whereas we have offended against the LORD already, you intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel. So the armed men left the captives and the spoil before the princes and all the congregation. And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria. What a wonderful thing that was! Ahaz ought to have said to Isaiah, "Your child's name is right, after all, for the remnant has returned." Did it not seem as if Ahaz must now trust God? But notice what the next verse says.
 
 16\. At that time did King Ahaz send unto the kings of Assyria to help him. When men are determined to be unbelievers and disobedient, they will send anywhere for help but to the Lord. Israel and Syria were very little kingdoms, but Assyria was a great empire, the mighty nation of the period. Yet no help came to Ahaz from that quarter, for we read in the 20th verse, "And Tilgath-Pilneser, king of Assyria, came unto him and distressed him, but strengthened him not." The 21st verse tells us that Ahaz bribed the king of Assyria, "but he helped him not." That is always the dirge at the end of all efforts to secure human instead of Divine aid.
-
 
 ---
 [[Sermon 2304 Blinded By Satan|← #2304]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2306 Servitude Or Service—Which|#2306 →]]

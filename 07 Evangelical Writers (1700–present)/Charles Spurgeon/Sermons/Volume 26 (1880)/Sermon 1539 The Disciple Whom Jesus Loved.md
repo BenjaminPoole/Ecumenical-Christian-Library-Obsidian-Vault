@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # "The Disciple Whom Jesus Loved"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1539
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 23, 1880,.
+*Delivered on Lord's-Day Morning, May 23, 1880*
 
 > "The disciple whom Jesus loved; who also leaned on His breast at supper." John 21:20.
 
@@ -124,7 +123,6 @@ in whom there is a malicious remembrance of injuries, like a fire smoldering ami
 Last of all, may the Spirit of God help you to rise to heavenliness. Do not be miserable money-grubbers, or sordid earthworms. Do not be pleasure hunters and novelty seekers. Do not set your affection upon these children's toys which will be so soon broken. Be you no more children, but men of God! Oh to find your joy in Christ, your wealth in Christ, your honor in Christ, your everything in Christ—this is peace. To be in the world but not to be of it. To linger here as if you were an angel sent from Heaven to dwell, for a while, among the sons of men, to tell them of Heaven and point them the way—this is to abide in Christ's love.
 
 To be always ready to fly, to stand on tiptoe waiting for the heavenward call, to expect to hear the trumpet ring out its clarion note, the trumpet of the coming of your Lord—this is to have fellowship with Christ! Sit loose, I pray you, by this world, but get a tighter grip of the world to come—so shall Jesus' love be shed abroad within you. Throw your anchor upward into the placid sea of Divine Love and not like the seamen, downward, into a troubled ocean. Anchor yourselves to the eternal Throne and never be divided, even in thought, from the love of God, which is in Christ Jesus our Lord. May it be my privilege and yours, Brothers and Sisters, to lean these heads of ours on Jesus' bosom till the day breaks and the shadows flee away. Amen and Amen.
-
 
 ---
 [[Sermon 1538 Divine Surprises|← #1538]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1540 The Mediator—Judge And Savior|#1540 →]]

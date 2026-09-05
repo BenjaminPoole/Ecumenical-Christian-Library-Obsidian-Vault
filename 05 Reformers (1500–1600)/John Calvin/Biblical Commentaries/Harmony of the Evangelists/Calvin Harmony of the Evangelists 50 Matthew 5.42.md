@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 50. Matthew 5:42;Luke 6:34-35
-
-**MATTHEW 5:42; LUKE 6:34-35**
 
 **42**. Give to him that asketh of thee: and from him who desires to borrow from thee, turn not thou away.
 

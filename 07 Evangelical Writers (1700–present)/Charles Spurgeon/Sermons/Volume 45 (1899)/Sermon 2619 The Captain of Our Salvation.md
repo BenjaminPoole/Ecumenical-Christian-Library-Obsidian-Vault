@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Captain of Our Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2619
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For it became Him, for whom are all things, and by whom are all things, in bringing many sons to Glory, to make the Captain of their salvation perfect through sufferings." Hebrews 2:10.
 
@@ -105,7 +102,7 @@ Finally, it was becoming on the part of God, "for whom are all things, and by wh
 
 I like, sometimes, to leave off praying and singing, and to sit still, and just gaze upward till my inmost soul has seen my Lord. Then I say, "He is inexpressibly lovely. Yes, He is altogether lovely!" If He is that to my poor eyes, which are so dull and dim that they cannot half discern His beauties, what must He be in the eyes of God? In the eyes of God He is so precious that, as my text says, "It became Him, for whom are all things, and by whom are all things"—it was becoming even in Him, "in bringing many sons to Glory, to make the Captain of their salvation perfect through sufferings"— glorified beyond all imaginable glory and to have universal homage paid to Him throughout the universe forever and ever! God sees it to be becoming and, therefore, we delight in it. Amen and amen!
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 2:1-15.
+## Exposition by C. H. Spurgeon: Hebrews 2:1-15
 
 Verse 1. Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. We have heard them. Do not let us forget them! Let them not be like the driftwood which goes floating down the stream. Let us make a desperate effort to retain them in our memories and, above all, to ponder them in our hearts.
 
@@ -132,7 +129,6 @@ Verse 1. Therefore we ought to give the more earnest heed to the things which we
 13, 14. And again, Behold I and the children which God has given Me. Inasmuch, then, as the children are partakers of flesh and blood. As you know to your cost, for perhaps you have aches and pains about you at this very moment. Verily, you are "partakers of flesh and blood." Perhaps you are suffering from despondency and depression of spirit. If so, that reminds you that however much you may, in spirit, sometimes soar to Heaven, yet you are still "partakers of flesh and blood."
 
 14, 15. He also, Himself, likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. He so took upon Himself flesh and blood as to die in our nature, that thus He might slay death, and might set us free from all fear of death. Do you not see that if the representative Man, Christ Jesus, died, He also rose again, and also that so will all who are in Him rise, too? If you are in Him, You shall rise again! Therefore, fear not to lie down in your last sleep, for the trumpet shall awaken you and your bodies shall be molded afresh like to His glorious body and your soul and body together shall dwell in infinite bliss forever! "Therefore comfort one another with these words."
-
 
 ---
 [[Sermon 2618 Straightway|← #2618]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2620 Christ's Prayer for Peter|#2620 →]]

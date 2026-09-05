@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Resurrection for the Just and the Unjust
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3346
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There shall be a resurrection both for the just and the unjust." Acts 24:15.
 
@@ -29,7 +26,7 @@ Now, this is the great Doctrine of the Christian faith which we do not doubt, bu
 
 My great purpose tonight, Beloved, is to speak on the majestic fact that the just and the unjust are to live on in a resurrection state. I am not going to debate, discuss, argue as to the fact of it, but, assuming your belief in God's Inspired Word, declare a few thoughts which that sublime Truth seems to raise in one's mind. I shall treat the Truth as though it were a lantern—and shall look at some of the rays of Divine Light that stream from it on all sides. And, first of all—
 
-I. WHAT AN ENNOBLING EFFECT THIS TRUTH HAS UPON US!
+## I. What an Ennobling Effect This Truth Has upon Us!
 
 Observe the effect it has, first of all, given our bodies. Paul elsewhere calls the body, "this vile body," and so it is in comparison with what it is to be, by-and-by! But yet if this body has been redeemed with the precious blood of Christ, and if the Holy Spirit dwells in our bodies, as we are taught in Scripture—and if these bodies are to be partakers of a pure and sinless immortality—then what noble things these otherwise vile bodies become! So noble, my Brothers and
 
@@ -43,7 +40,7 @@ As I begin to look at him in the light of my text, which is far above all the fi
 
 Thus much on that one thought. And now a second one. If there is another state, as you know there is, for body and soul—
 
-II. WHAT A LIGHT THAT CASTS UPON THIS PRESENT LIFE!
+## II. What a Light that Casts upon This Present Life!
 
 How little it makes it! How great it makes it! How little! Well, if I suffer, today. If my life should be made weary through weakness of body, or if it should be bitter through heart-toil, or if it should be severe through stern poverty, yet you know how we sing—
 
@@ -73,7 +70,7 @@ Upon life's feeble strings."
 
 This life is the mother of the life to come. There is a resurrection for the just, and all the glory which the just shall inherit will be but the outcome of that immortal life which they received here! There is a resurrection for the unjust, and the worm undying and the fire that shall never be quenched! And all these will be just the development and open revealing of the character which they acquired here on earth. Living in sin is the germ of living forever in Hell! Believing in Jesus is the root of rejoicing forever in glorious immortality! Now, Sirs, see you not that life is not a thing to be played with, not a heap of counters that a child may toss to and fro, not the mere spray on the great sea of eternity? You must not joke and talk about it as though it were a thing to be despised—but come up and look at it with all its solemn possibilities and results—and live the life of sober men, live the life of men who have peered beyond the veil and seen some of the momentous issues of this fleeting existence! Henceforth, live while you live, earnestly, as in the sight of God, the Judge of the quick and the dead! Yes, let the light of the Resurrection stream over the whole of your present life to make its great things for the present to become little—to make those things which otherwise might be little, which have a reference to eternity—become great in your esteem. But I will not tarry on this and, therefore, pass on to the thought—
 
-III. WHAT ENCOURAGEMENT THIS OFFERS TO US!
+## III. What Encouragement This Offers to Us!
 
 To think that there is a resurrection and another life! What? Were it worth our while to toil here in the service of Christ, often unrewarded and very frequently misrepresented and persecuted for what we do, if there were not a place where the reward of Divine Grace would be given and where the mistakes of earth would all be set right? "Therefore," says the Apostle, "beloved brethren, be you steadfast, unmovable, always abounding in the work of the Lord, forasmuch
 
@@ -81,7 +78,7 @@ as you know that your labor is not in vain in the Lord." It might be in vain her
 
 The same thing is an encouragement under suffering. For this the martyrs cheerfully gave themselves up to their tormentors, not accepting deliverance because they looked for a better resurrection. This it was that made them brave to meet the lions in the amphitheater, or to lie and silently rot in the dismal dungeons of the Roman Emperors. This it was that made Smithfield glorious, as the saints in their chariots of fire clapped their hands and ascended to the skies! They were, of all men, most miserable if, in this life only, they had hope. They were, of all men, most insane to fling away their lives if this world were all! But because there is another and a better land, to die for Jesus became a glorious thing and they did it, being not amazed, not trembling, but dying with greater grandeur about them than that with which most men have learned to surround their living! And now, you that today are poor, or today are scoffed at. You who, though trying to follow Christ, find it a hard path. You who at home have little to encourage you and comfort you—remember this worldis not your rest! If you were to have 50 years of your present trouble, well, it will be as nothing compared with the eternal weight of Glory! Have patience. Ask your Master to give you His patience. Pray of the Holy Spirit to work in you holy virtue, that after you have endured awhile, you may inherit the promise. Remember that there must first be the service before there can be the reward—and even under the economy of Grace—in which we are not saved by works, but saved by the merit of Jesus, yet the Lord will have His servants, first of all, be made perfect through suffering before He admits them to their everlasting rest. Be of good courage, then! He will strengthen your heart. This is not your rest, but it remains for you, and you shall inherit it, by-and-by. Passing on again, for I only dwell for a moment upon each thought—this fact of our rising again and living forever suggests to us—
 
-IV. WHAT OUGHT TO BE THE ONE CONCERN OF LIFE.
+## IV. What Ought to Be the One Concern of Life
 
 What shall this be for the saint—what for the sinner? If I am to live again as a child of God. If my salvation is accomplished. If my sin is blotted out and I am really saved, then let me serve my God with all my might, seeing what a blessed immortality He has prepared for me! Slaves work when they hear the whip crack, but the children of God are not slaves—they are not under bondage—they work from a very different motive. They have no fear of Hell, no fear of losing Heaven. When their faith is constantly fixed upon the merits of their Savior, they know that their warfare is accomplished, that their iniquity is pardoned, that their salvation is secure beyond all risks through the Everlasting Covenant, the inimitable purpose and the Divine promise of the Father in Christ Jesus! Because their salvation is secure and because it leads to such a blessed immortality, they burn with fervent love and passionate gratitude towards Him who has done so much for them! Gratitude in the heart ought to be, and I believe it is, the most powerful force in human motive. Love— what shall equal it? Its wheels move until the axles grow hot with speed. Love has an impetuous force about it. Many waters cannot quench it, neither can the floods drown it. What love we owe to Him who died, that when we die we may live again, who rose that we might rise and made a pathway to the skies that we might follow Him, even to His Throne!
 
@@ -95,7 +92,7 @@ Why do you give so much attention to this world that is so soon to be left—and
 
 Blessed Spirit, take away this folly and make men wise that they may be saved! Let this be our one great concern— with holy care to make our calling and election sure, that when the Master comes we may not be found castaways—but may be gathered with His people! And now for the last point. I do not know whether you will set much store by this last thought, but it is this—considering that our friends whom we talk with everyday, with whom we go up and down to the market, and to the place of worship—considering that they are to live forever—
 
-V. SHOULD WE NOT ALTER A GREAT DEAL OF OUR PRESENT BEHAVIOR UNDER THE POWER OF THIS TRUTH?
+## V. Should We Not Alter a Great Deal of Our Present Behavior Under the Power of This Truth?
 
 What kind of behavior does this majestic fact inculcate towards our fellow men and women? Well, I think that Christian people ought always to act to one another as immortal beings. Now I know some who belong to one denomination who will scarcely speak to those of another section of Christ's one Church. Well, well, well—if you both ever get to Heaven, you will have to dwell together! Yet it seems as though you cannot live together on earth without bickering! Why can't you make up your minds to differ from each other, but always in a Christian spirit? I think, if I knew I had to live with a man, forever, one thing I would like to do would be to tell him perfectly honestly, with sincere love, all the Truths of God I knew—and I ought to be willing to hear from him all the Truth he thought he knew. I would not like him to say to me, "Now, you must not hold your views strongly—you must not speak of them, or try to propagate them." That would be as bad as telling me I must sin against God by restraining the light which He had given me! Neither ought I to say to him, "You shall not be free to hold and disseminate your views," for that would be to take upon myself a responsibility which does not belong to me!
 
@@ -107,7 +104,7 @@ And now may the good Lord keep our thoughts Heavenward and bless us in them, for
 
 7
 
-EXPOSITION BY C. H. SPURGEON: PSALM 73.
+## Exposition by C. H. Spurgeon: Psalm 73
 
 Here you have the Psalmist in a fainting fit. He has allowed the flesh to conquer the spirit. The observant eye of reason has, for awhile rendered dim the clear vision of faith.
 
@@ -140,7 +137,6 @@ melting down their foundation.
 19, 22. How are they brought into desolation, as in a moment! They are utterly consumed with terrors. As a dream when one awakes; so, O Lord, when You awake, You shall despise their image. Thus my heart was grieved, and I was pricked in my veins. So foolish was I, and ignorant: I was as a beast before You. It is a man of God that talks thus about himself. He feels that he had got to act and think as a beast might do, for a beast only calculates things according to time present—it crops the grass, is satisfied and lies down. But an immortal man ought to take a wider sweep and range in his thoughts and not merely think of today and of this present life, but of the end of time and of the eternity that lies beyond this present mortal state! And because he had failed to do so, he calls himself foolish and ignorant, and says—
 
 23, 28. Nevertheless I am continually with You: You have held me by my right hand. You shall guide me with Your counsel, and afterwards receive me to Glory. Whom have I in Heaven but You? And there is none upon earth that I desire beside You. My flesh and my heart fails: but God is the strength of my heart, and my portion forever. For, lo, they who are far from You shall perish: You have destroyed all them that desert You for harlotry But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all Your works. He finds all his comfort in his God. He comes to the conclusion that whatever the portion of the ungodly may be, his is infinitely better than theirs because they have not God and he has God, who is All-in-All!
-
 
 ---
 [[Sermon 3345 Sunlight for Cloudy Days|← #3345]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3347 Things to Be Remembered|#3347 →]]

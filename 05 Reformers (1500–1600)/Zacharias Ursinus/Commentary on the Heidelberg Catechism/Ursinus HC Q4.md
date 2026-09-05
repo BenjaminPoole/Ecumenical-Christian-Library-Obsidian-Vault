@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 4. What doth the law of God require of us?
-
-**Question 4. What doth the law of God require of us?**
 
 Answer. Christ teacheth us that briefly, (Matt. 22:37, 40.) "Thou shalt love the Lord thy God with all thy heart, with all thy soul, with all thy mind, and with all the strength. This is the first and the great command; and the second is like to this Thou shalt love thy neighbor as thyself. On these two commands hang the whole law and the prophets."
 
-**EXPOSITION**
+## **Exposition**
 
 Christ rehearses the substance of the law in Matt. 22:37, and in Luke 10:27, from Deut. 6:5, and Levit. 19:8. He explains what is meant by that declaration: "Cursed be he that confirmeth not all the words of this law to do them;" that is, he who does not love God with all his heart, with all his soul, with all his mind, and with all his strength, and his neighbor as himself. These several parts must be explained more fully.
 

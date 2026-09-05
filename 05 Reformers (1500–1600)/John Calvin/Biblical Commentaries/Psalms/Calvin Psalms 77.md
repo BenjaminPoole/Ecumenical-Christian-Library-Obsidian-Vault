@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 77
-
-**PSALM 77**
 
 Whoever was the penman of this psalm, the Holy Spirit seems, by his mouth, to have dictated a common form of prayer for the Church in her afflictions, that even under the most cruel persecutions the faithful might not fail to address their prayers to heaven. It is not the private grief of some particular individual which is here expressed, but the lamentations and groanings of the chosen people. The faithful celebrate the deliverance which had been once wrought for them, and which was a testimony of God’s everlasting grace, to animate and strengthen themselves to engage in the exercise of prayer with the greater earnestness.
 

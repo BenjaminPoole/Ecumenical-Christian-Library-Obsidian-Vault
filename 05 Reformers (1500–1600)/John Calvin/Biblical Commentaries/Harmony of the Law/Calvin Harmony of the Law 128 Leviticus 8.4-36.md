@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 128. Leviticus 8:4-36
 
 **A fuller Explication of the same thing**
-
-**Leviticus 8**
 
 **4.** And Moses did as the Lord commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
 

@@ -77,7 +77,7 @@ in the eucharist, heresy to deny, how Christ's body,
 
 136,138,139,147.
 
-not an accident with- out a subject, 145, not identically the body of Christ, really in the eucharist, 133, 135, British Reformers, works of the, 46. Bull ofthepopedreaded by the people, 38.
+not an accident with-out a subject, 145, not identically the body of Christ, really in the eucharist, 133, 135, British Reformers, works of the, 46. Bull ofthepopedreaded by the people, 38.
 
 magnified above the
 
@@ -87,7 +87,7 @@ Cflpsarean bishops, their pretences, 162, prelates, condemnation of, 1 70.
 
 pride created priestly orders, Caitif, a sinful, magnified by friars, 252. Camden Society, 99. Canon law hostile to the Bible, 42. Canterbury, pilg^mages to, 33. Cardinal virtues, 92.
 
-Cardinals and bishops, oppressions of, corrupt the church, 75. the college of, 40. their election of popes, 78. Carmelites, friars, 228. Celibacy of the clergy, constrained, un- scriptural, 58. Ceremonies multiplied by friars, 246.
+Cardinals and bishops, oppressions of, corrupt the church, 75. the college of, 40. their election of popes, 78. Carmelites, friars, 228. Celibacy of the clergy, constrained, un-scriptural, 58. Ceremonies multiplied by friars, 246.
 
 vain, invented by Antichrist, Chaffering prelates, 53. Chanting by ordinal of Salisbury vain, 50. not required, but devotion, 50. Charity essential to true faith, 117.
 
@@ -309,7 +309,7 @@ Holiness, pretended, of the friars, 247. Holy church rejects royal jurisdiction,
 
 Ghost, baptism by the, 159.
 
-descended on heathen, the, inspired the evangelists, 60. not given by bishops in confirmation, 162, sin against the, 66, 120, 127. Scripture, in English, necessary, our only authority for belief, 129. Scriptures falsified by thefriar8,241. Spirit designs our study of Scrip- ture, 129. Writ contains all truth, 211. hated by Antichrist, 59. supreme authority of, 54, 56, 57. Hope, its nature and influence, 118. Host, the, in what sense God's body, 132.
+descended on heathen, the, inspired the evangelists, 60. not given by bishops in confirmation, 162, sin against the, 66, 120, 127. Scripture, in English, necessary, our only authority for belief, 129. Scriptures falsified by thefriar8,241. Spirit designs our study of Scrip-ture, 129. Writ contains all truth, 211. hated by Antichrist, 59. supreme authority of, 54, 56, 57. Hope, its nature and influence, 118. Host, the, in what sense God's body, 132.
 
 the body of Christ, 132. Houses and cloisters, rather than churches, built l)y friars, 232.
 
@@ -319,7 +319,7 @@ the frian, 185,226, 241. regular eleigy pofaonons, 9. HTpoeritea pnt error on Ch
 
 Identhgr of the eaehariat and Chriatii bo^jr a heieay, 150. Ignoianee «nd heresy ftom aimony, 175. of Holy Writ ndnooa, 1 1. , Immortality of the aoul, 112.
 
-the natural desire of man, Impanation, Chriat in the bread, impossible, 151. if true, would require a festival, 151. Impedimenta ETangelizantium,49. Indulgences a manifold blaaphemy of Christ, 197. blaspheme Ood, 121. dispensed to the crusaders, foul frauds, 18. granted by the popes, 78. not granted by Christ, 175. their blasphemy, 195, 197. ▼ain pretences of, 196. Incarnation of the Son of God, 127. Infants, baptism of, 156, 159. Innocent III., pope, led away by tran- substantiation, 144. In regulam Minoritarum, 91. In XVII. Caput Joannis, 93. Institution to benefices by simony, 175. Intellectual powers indicate a future life,
+the natural desire of man, Impanation, Chriat in the bread, impossible, 151. if true, would require a festival, 151. Impedimenta ETangelizantium,49. Indulgences a manifold blaaphemy of Christ, 197. blaspheme Ood, 121. dispensed to the crusaders, foul frauds, 18. granted by the popes, 78. not granted by Christ, 175. their blasphemy, 195, 197. ▼ain pretences of, 196. Incarnation of the Son of God, 127. Infants, baptism of, 156, 159. Innocent III., pope, led away by tran-substantiation, 144. In regulam Minoritarum, 91. In XVII. Caput Joannis, 93. Institution to benefices by simony, 175. Intellectual powers indicate a future life,
 
 Interdicts and curses of clerks against lords, 58. Iscariot, prophecy regarding his treachery, 187.
 
@@ -695,7 +695,7 @@ Looking-glass for secular lords, Ixii Lords of parliament, objections oi^ to the
 
 Lutterworth, Wycliffe made its rector, xxi^.
 
-Man, being justified has a right to all things of God, xliii. Marks, seven hundred, annually de- manded by the pope, as agreed to by King John, xriii, xxiv. Mendicants, convention of, at Oxford, send a deputation to Wycliffe in his sipkness, to induce him to recant, sjmod of, at Blackfiiars,
+Man, being justified has a right to all things of God, xliii. Marks, seven hundred, annually de-manded by the pope, as agreed to by King John, xriii, xxiv. Mendicants, convention of, at Oxford, send a deputation to Wycliffe in his sipkness, to induce him to recant, sjmod of, at Blackfiiars,
 
 London, Ixxi. their defences of transubstantiation against Wycliiie, IxviiL their fraudulent dealing with the doctrine of Christ, Ixviii. their joy at the death of
 
@@ -769,7 +769,7 @@ Scriptural knowledge advanced by Wycliffe, 1. Scripture, all truth of, designed 
 
 Scripture ought to be kno?ni to the people, Ixii. prelates ignorant of, Ixii. urged upon all men by Wycliffe, 1. Scriptures of the Old and New Testament first translated into English by Wycliffe, Ivi. portions of the, translated into English, Ivi, Ix. Secular lords to resist the blasphemous claims of priestly absolution, liii. Selden, an eminent antiquarian, ▼. Senators and aldermen of Oxford visit
 
-Wycliflfe in his sickness, Iv. Shepey, John de, a commissioner to the pope, xxix. Sigwerd, a nobleman, obtains a translation of the Scriptures, Iviii. Silence imposed on Wycliffe by the council at Lambeth, xxxviii, xlix. Simonists, an heretical sect, x. Slanders of the ruling prelates against preachers, Ixxvii. Sovereignty of England pretended to be forfeited to the pope, xix. " Sowle Hde," a history, scriptural and legendar}', lix. Spiritual Alms, a work of, to correct offending clergymen by taking their temporalities, xlviii. powers of the clergy, as held by Wycliffe, xlv, xlix. Spresswell, the family mansion of Wye- line, 11, HI. Statute of Richard II., a persecuting, Ixxvii, Ixxviii. the primate, to imprison the new preachers, Ixxxiv. Stokes, Peter, a Carmelite Mendicant friar, zealous against Wycliffe, Ixxiv. employed by Archbishop Courtney against Wycliffe, Ixxiv. Studies in provincial schools, iv. Sudbury, archbishop of Canterbury,
+Wycliflfe in his sickness, Iv. Shepey, John de, a commissioner to the pope, xxix. Sigwerd, a nobleman, obtains a translation of the Scriptures, Iviii. Silence imposed on Wycliffe by the council at Lambeth, xxxviii, xlix. Simonists, an heretical sect, x. Slanders of the ruling prelates against preachers, Ixxvii. Sovereignty of England pretended to be forfeited to the pope, xix. " Sowle Hde," a history, scriptural and legendar}', lix. Spiritual Alms, a work of, to correct offending clergymen by taking their temporalities, xlviii. powers of the clergy, as held by Wycliffe, xlv, xlix. Spresswell, the family mansion of Wye-line, 11, HI. Statute of Richard II., a persecuting, Ixxvii, Ixxviii. the primate, to imprison the new preachers, Ixxxiv. Stokes, Peter, a Carmelite Mendicant friar, zealous against Wycliffe, Ixxiv. employed by Archbishop Courtney against Wycliffe, Ixxiv. Studies in provincial schools, iv. Sudbury, archbishop of Canterbury,
 
 Synod at Lambeth, awed by the citizens of London, xxxviii, Ixxi.
 
@@ -777,7 +777,7 @@ Tartary, the plague arose in, riii. Tees, the river, ii.
 
 Temporal contributions not to be extorted from the laity, xlvL Temporalities may be exacted by ecclesiastical censures, xlvi. Temporal lords ooay take away abused temporalities from the church, zlviiL Todd, Dr., editor of some works of Wycliffe, Ixxi. Translators of the Scriptures into AngloSaxon and English, Iviii, Ix. Transubstantiation, a doctrine of the twelfth century. See Eitekanit, definition of^ bdx. first plenary determination by the church of England, Ixix. heretical, as denoimced by Wycliffe, Ixviii. its absurdityand blasphemy, Ixxxvii. not contained in the Apostles', Athanasian, or Nicene creed, Ixv. refuted by Wycliffe, before the convocation, Ixxxvi. taught by archbishop
 
-Lanfranc, Ixvi. tends to exalt the priesthood, Ixviii. the doctrine of the Anglican church, from the time of Lanfranc, Ixvii. the master-device of Satan, Ixxxvii. Twiss, Sir Roger, regarding transubstan- tiation, Ixix. Tyler, Wat, leads an insurrection, Ixxi.
+Lanfranc, Ixvi. tends to exalt the priesthood, Ixviii. the doctrine of the Anglican church, from the time of Lanfranc, Ixvii. the master-device of Satan, Ixxxvii. Twiss, Sir Roger, regarding transubstantiation, Ixix. Tyler, Wat, leads an insurrection, Ixxi.
 
 Urban, Pope, demands a thousand marks, as a yearly tribute of feudal acknowledgment from England and Ireland, xviiL
 
@@ -823,7 +823,7 @@ his doctrine in his sermons, Ixxxi, Ixxxii.
 
 presents his confession of faith to parliament, Ixxxiv.
 
-WTdiib, ■ummoned before the convoea- tion, bucxT. rqjeets the eouniel of the Duke of Laneaster, and defoncb hit doetrine before the eontoea- tioiif Inorn* deeiite from hie laboare at Oz- ford| xc) devotee himielf to hie dntiee al
+WTdiib, ■ummoned before the convoea- tion, bucxT. rqjeets the eouniel of the Duke of Laneaster, and defoncb hit doetrine before the eontoea- tioiif Inorn* deeiite from hie laboare at Oz-ford| xc) devotee himielf to hie dntiee al
 
 ItfVtterworth, zc. Bommoned by Pope Uihan to appear at Rome, xo. decliaee by letter a journey to
 

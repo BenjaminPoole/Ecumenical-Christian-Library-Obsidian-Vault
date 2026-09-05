@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Honor for Honor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2906
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Those who honor Me I will honor, and those who despise Me shall be lightly esteemed." 1 Samuel 2:30.
 
@@ -81,7 +78,7 @@ And, last of all, there shall come a day when this earth shall be all ablaze and
 
 As for you who never think of honoring God and never care about Him, your destruction is certain if you continue in the way in which you are now walking. If you want to know how you may be damned, it is only a little matter of neglect that will ensure it. "How shall we escape if we neglect so great salvation?" I fear that many of you are living in that neglect. May the Holy Spirit graciously turn you from it and cause you to seek the Lord and believe in Jesus this very moment—that you, too, honoring God by your confession of sin and by believing in His Son, Jesus Christ, whom He has set forth as the one Propitiation for sin, may find the promise of our text true to you, also—for He will honor you even as you have honored Him!
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 2.
+## Exposition by C. H. Spurgeon: 1 Samuel 2
 
 Verses 1-3. And Hannah prayed and said, My heart rejoices in the LORD, my horn is exalted in the LORD: my mouth is enlarged over my enemies because I rejoice in Your salvation. There is none holy as the LORD: for there is none beside You: neither is there any rock like our God. Talk no more so exceedingly proud; let not arrogance come out of your mouth: for the LORD is a God ofknowledge, and by Him actions are weighed. This is a very suggestive and forcible expression. God does not judge our actions by their appearance, but puts them into the scales of the sanctuary and weighs them as carefully as bankers weigh gold!
 
@@ -120,7 +117,6 @@ make yourselves fat with the chief of all the offerings of Israel My people? The
 34, 35. And this shall be sign unto you, that shall come upon your two sons, on Hophni andPhinehas; in one day they shall die, both of them. And I will raise Me up a faithful priest that shall do according to that which is in My heart and in My mind: and I will build him a sure house; and he shall walk before My anointed forever. No doubt first referring to Zadok who succeeded afterwards to the priest's office, but looking still further forward to our Lord Jesus Christ who is the ever-faithful High Priest who always does according to that which is in the mind and heart of the Father!
 
 36\. Andit shall come to pass that everyone that is left in your house shall come and bow down to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray you, into one of the priests' offices, that I may eat a piece of bread. Or, rather, as the margin has it, "Put me, I pray you, into somewhat about the priesthood." "Put me into something that has to do with the priesthood." So the house of Eli passed from its honorable elevation into degradation and poverty. However highly favored any of us may have been, let us never presume upon that and turn aside to sin. If we do not know the Lord and do not honor Him in all the acts that we perform in His name, it may be a degradation like that of Eli's house may come upon us because we have despised the will and the words of the Most High.
-
 
 ---
 [[Sermon 2905 The Father and the Son|← #2905]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2907 The Holy Spirit Glorifying Christ|#2907 →]]

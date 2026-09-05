@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 10. Corrections of the Institution of a Christian Man, with Cranmer's Annotations, Part 1
 
-CORRECTIONS
+*Corrections*
 
 INSTITUTION OF A CHRISTIAN MAN,
 
-HENRY VIII.1
+## Henry Viii.1
 
-WITH ARCHBISHOP CRANMER'S ANNOTATIONS.
+## With Archbishop Cranmer's Annotations
 
 [!T is to be observed that the passages in small Roman type are extracted from the Institution, &c. ; the marginal remarks in Italic are the Corrections proposed by Henry VIII. applying to the passages in the text marked by *. The Annotations of Cranmer are in larger type, connected with the King's Cor rections by the numerals added to the latter and prefixed to the former ; and they are here placed so as to follow immediately after the passages they notice. ]
 
@@ -59,7 +58,7 @@ MSS. civ. p. 241.
 
 [2 The Annotations are printed from the C. C. C. C. MSS. The title only is in Cranmer's hand, the Annotations themselves being a copy by a secretary. Extracts were printed by Strype, Mem. of Abp. Cranmer, p. 137, and Appendix, Num. xxxi. p. 757, and the whole in the " Fathers of the English Church:" but the editor of the latter work, as well as Strype, supposed them to refer to the u Necessary Doctrine," generally known as the "King's Book," while the " Institution" was called the " Bishops' Book." There is some doubt re specting the time when they were written, Lewis stating them to have appeared in 1538, and Strype, in 1012, but the former date seems the more probable.]
 
-84 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 84 Corrections of the Institution by Henry VIII
 
 i. " By his ordinate power." This word " ordinate power" obscurcth the sentence in the understanding of them that be simple and unlearned ; and among the learned it gendereth contention and disputation, rather than it any thing edifieth. Therefore meseemeth it better and more plain as it is in the print ; or else to say, " By his ordinance." For the scripture speaketh simply and plainly : Potestati ejus quls resistit ? And, Omnia quwcunque voluit fecit.
 
@@ -99,7 +98,7 @@ St James assimileth him, that hath this faith only in his mouth, unto a man that
 
 What love soever the son pretcndeth unto his father, or the servant unto his master, yet surely all that love is but coloured and feigned, if they be not glad to accomplish the will and commandments of their father and master, and very loath and sorry to transgress any part thereof. Likewise, how can the son persuade with himself that his father loveth him, favoureth him, and will do all good for him, and at length make him his heir, if he love not his father, nor be sorry to offend his father, but, like an un natural and disobedient child, is ready to follow his own sensual mind, and to rebel against his father and all his precepts ? It is not possible that such a son should have a sure trust of his father's benignity, gracious goodness, and fatherly love towards him, unless it come either of the ignorance or else the iniquity of his father ; so that he either dissemble with his father, and trust that his father knoweth not of his folly, disobedience and rebellion ; or else that he know that his father be so evil himself, that he favoureth ill-doers, and delighteth in the iniquity of his son, and loveth him never the worse for his
 
-86 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 86 Corrections of the Institution by Henry VIII
 
 vicious living. But to God (who knowcth all things, even before they be done, and knoweth all men's hearts even to the bottom better than they do themselves, and who also can favour no iniquity or malice of sin, but hateth it and the doers of the same,) cannot be ascribed any ignorance or evilness. Therefore, let no man deceive his own mind ; for no man surely can have the right faith and sure trust of God's favour towards him, and persuade with himself that God is his benign and loving Father, and taketh him for his well-beloved son and heir, except he love God in his heart, and have a willing and glad mind, and a delight to do all things that may please God, and a very great repent ance and sorrowr that ever he did any thing that should offend and displease so loving a Father, whose goodness he can never account.
 
@@ -127,7 +126,7 @@ All which things considered, I may worthily call him my Jesus, that is to say, m
 
 Finally, I believe assuredly, and also profess, that this redemption and justification of mankind could not have been wrought nor brought to pass by any other means in the world, but by the means of this Jesu Christ, God's only Son ; and that never man could yet, nor never shall be able to come unto God the Father, or to believe in him, or to attain his favour, by his own wit or reason, or by his own science and learning, or by any his own works, or by whatsoever may be named in heaven or in earth, but8 *by the faith* in the name and power of Jesu Christ, and by the gifts and graces of his Holy Spirit. And therefirsu«£/^d fore, sith he is my Jesu Christ and my Lord, I will put my whole trust and confidence in him, Men by the faith. and will have the self-same faith and affiance in him in all points which I have in God the X
 
-88 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 88 Corrections of the Institution by Henry VIII
 
 Father. And I will knowledge him for my only Lord, and will obey all his commandments during my life, which I am without any grudging. And I am sure that while he is my Lord and Governor, and I under hi3 Protecti°ntj neither sin, neither the devil, nor yet death, nor hell, can do me any hurt.
 
@@ -157,7 +156,7 @@ And I believe also and profess, that he hanged there upon the same cross between
 
 [» See Necessary Doctrine, p. 232, Ed. Oxford, 1825.] [3 Ibid. p. 233.]
 
-WITH CRANMER'S ANNOTATIONS.
+## With Cranmer's Annotations
 
 which also believed in Christ,* obtained licence of the said judge to take down this blessed body of our Saviour Jesu Christ from the said cross: *and that when they had so done, theyz* wrapped * And that done, and folded the same body in a clean sindone, and so laid it and buried it in a new grave or sepulchre, which the said Joseph had made of stone, wherein there was never man buried before, pies called Nico-
 
@@ -185,7 +184,7 @@ xix. " If we so die." This condition taketh away the right belief of a faithful 
 
 [5 See Nee. Doctr. p. 234.]
 
-90 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 90 Corrections of the Institution by Henry VIII
 
 Inst. pp. 42, 3. And I believe assuredly, that by * this descending of Christ into hell, and * this his resur rection again from death to life, Christ hath merited and deserved for me and all true and faithful Christian men, * not only that our souls shall never come into hell, but also * that we shall here in this life be perfectly justified in the sight and acceptation of God, and shall have such grace, might, and power given unto us by him, that we shall be made able thereby to subdue, to mortify, and to extinguish our old Adam, and all our carnal and fleshly concupiscences, in such sort, that sin shall never" *afterward* reign in our mortal bodies, but that we shall be wholly delivered from the kingdom of sin, and from spiritual death, and shall be resuscitated and regenerated into the new life of the Spirit and grace.
 
@@ -213,7 +212,7 @@ And I believe also assuredly, that this Holy Spirit of God is of his own nature 
 
 Which vtU not let : and was left with us therefore to remoter "^ ^ * And alth°USh he 8)iveth not nor dif ' us of our dull/, if we willini/li/ ami wilfully reject not tfte same penseth the same equally and unto every man in
 
-]S tSLTSXi like' )'et he *™th alwa*s some portion thereof unto divideth them pemlMrli/ a)ul */)(•(•/«//// to every ruember of his all persons which be accepted in the sight of God, S?K^^^ ^dthat not only freely, and without all their de- led(te is Utnmjht to be most ttenejlcial and expedient J or the game, servings, but also in such plenty and measure, as All which thinat he doth of his mere mercy and t/oodnets, freely •• ,, , , , ,, ,, ami without all our deserving*. unto ms gotlly knowledge is thought to be most beneficial and expedient.* xxi. " Man adhibiting his will thereto." This interrupteth the phrase of speech ; and man's will is most amply and fully contained in the words next immediately following, " contrition and penance ."
+]S tSLTSXi like' )'et he *™th alwa*s some portion thereof unto divideth them pemlMrli/ a)ul */)(•(•/«//// to every ruember of his all persons which be accepted in the sight of God, S?K^^^ ^dthat not only freely, and without all their de-led(te is Utnmjht to be most ttenejlcial and expedient J or the game, servings, but also in such plenty and measure, as All which thinat he doth of his mere mercy and t/oodnets, freely •• ,, , , , ,, ,, ami without all our deserving*. unto ms gotlly knowledge is thought to be most beneficial and expedient.* xxi. " Man adhibiting his will thereto." This interrupteth the phrase of speech ; and man's will is most amply and fully contained in the words next immediately following, " contrition and penance ."
 
 xxii. " The gift of calling by many ways the sinner from sin, and such other."
 
@@ -243,7 +242,7 @@ And I believe that in this catholic church I, and all the lively and quick membe
 
 [4 See Ncc. Doctr. p. 214.] [* See Nee. Doctr. ibid.J
 
-92 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 92 Corrections of the Institution by Henry VIII
 
 « shall Oie more plenteously °f Christ's blood and his passion, and7 by the virtue and efficacy of Christ's sacra - attain the same ments, instituted by him for that purpose, so oft as we shall worthily receive the same.
 
@@ -273,7 +272,7 @@ contempt of the world, had no hope be t°und untruth or deceit m his mouth, nor 
 
 AulLt°'A!l fhe°twpe^f o
 
-%ithsLffafter his said death) have C'hrist with him down into heU, as one of his cap- eth in this point, that we shall rise tives, and so there to exercise his tyranny upon him, like as he had done bTdissohvd, ^toSfikCtoS? Of overall other men from the beginning of the world until that time; no
+%ithsLffafter his said death) have C'hrist with him down into heU, as one of his cap-eth in this point, that we shall rise tives, and so there to exercise his tyranny upon him, like as he had done bTdissohvd, ^toSfikCtoS? Of overall other men from the beginning of the world until that time; no
 
 St^Sl^iSS^eJ&SiTia&aSi d°Ubt bUt the Devil) in this d°inff' did extreme and manifest wrong, and mans he write th .- ''Christ rose ugain utterly exceeded the limits of the power given unto him. And therefore
 
@@ -305,7 +304,7 @@ Inst. p. 74. Like as Christ is the author, the mean, and the very highway to com
 
 [4 Cranmer's amendment was adopted in the Nee. Doctr. p. 237J
 
-CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## Corrections of the Institution by Henry VIII
 
 » baptism by Ibid. Thirdly, that it is also the peculiar function or office of this Holy Spirit, (after" we nx ,-, (V'lvcf, a/ui |)C inspired, and perfectly instructed in the said knowledge,) first to purge and purify our
 
@@ -359,7 +358,7 @@ xl. " And also in deed, if they be able, though they put themselves to pain." Th
 
 [3 See Nee. Doctr. p. 25-1.) [( Ibid. p. 2(50.]
 
-CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## Corrections of the Institution by Henry VIII
 
 Item, That by penance, and such good works of
 
@@ -419,7 +418,7 @@ d*The second point, wherein consisteth* the jurisdiction committed unto priests 
 
 [4 See Nee. Doctr. p. 278.] ECRANMER, n.]
 
-S)« CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## S)« Corrections of the Institution by Henry VIII
 
 repel from the said room such as they shall judge to be unmeet therefore. And in this part we must know and understand, that the said presentation and nomination * is of man's ordinance, and * appertaineth unto
 
@@ -461,7 +460,7 @@ xlviii. " Of matrimony, of baptism, and of penance." The causes there assigned
 
 I1 Nee. Doctr. p. 290.] fa Three Sacraments. Inst. Ed. Oxon. 182").]
 
-100 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 100 Corrections of the Institution by Henry VIII
 
 may not be well applied to matrimony ; that it should be, as the other were, by the manifest institution of Christ : or, that it is of necessity to salvation : or, that thereby wo should have the forgiveness of sins, renovation of life, and justification, &C.1
 

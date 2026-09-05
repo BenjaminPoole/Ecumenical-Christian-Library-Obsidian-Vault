@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # "The Offense of the Cross"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2594
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I, brethren, ifI still preach circumcision, why do I still suffer persecution? Then is the offense of the Cross ceased." Galatians 5:11.
 
@@ -85,7 +82,7 @@ I have heard preachers ignorantly talk about "natural" love to the Gospel—ther
 
 Ah, poor Sinner, what do you say? Are you offended with the Cross? No, you are not, for it is there that you wish to lose your sins. Do you desire this moment to come to Christ? You say, "I have no offense against Christ. Oh, that I knew where I might find Him! I would come, even, to His seat." Well, if you want Christ, Christ wants you; if you desire Christ, Christ desires you! Yes, more! If you have one spark of desire after Christ, Christ has a whole burning mountain of desire after you. He loves you more than you can ever love Him! Rest assured that you are not first with God. If you are seeking Jesus, He has first sought you. Come, then, you destitute, weary, lost, helpless, ruined, chief of sinners! Come, put your trust in His blood and His perfect righteousness, and you will go on your way rejoicing in Christ, set free from sin, delivered from iniquity, rendered as safe, though not as happy, as the very angels that now sing high hosannas before the Throne of the Most High!
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS1.
+## Exposition by C. H. Spurgeon: Galatians 1
 
 Verse 1. Paul, an Apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised Him from the dead). Paul begins this Epistle by stating his commission as an Apostle. In Galatia he had been subjected to the great sorrow of having his Apostleship called in question. Does he, therefore, give up his claim to the office and retire from the work? No, not for a moment! He begins his letter to the Galatians by declaring himself to be "an Apostle, not of men, neither by man, but by Jesus Christ." His enemies had said, "Paul was never one of the Savior's 12 Apostles. He is not like those who were trained and educated by Christ, Himself. No doubt he has borrowed his doctrine from them and he is only a retailer of other men's goods." "No, no," says Paul, "I am an Apostle as truly as any other of the twelve! 'Not of men, neither by man, but by Jesus Christ, and God the Father, who raised Him from the dead.'"
 
@@ -126,7 +123,6 @@ Verse 1. Paul, an Apostle, (not of men, neither by man, but by Jesus Christ, and
 21\. 22. Afterwards I came into the regions of Syria and Cilicia and was unknown by face unto the Churches of Judea which were in Christ They did not know him. It is evident that he had not been there to be taught by them, or else they would have recognized their illustrious pupil.
 
 23, 24. But they had heard only that he which persecuted us in times past now preaches the faith which once he destroyed. And they glorified God in me. Brothers and Sisters, may you and I so live that Christian people may glorify God in us! May they often wonder at the mighty Grace which has worked such a change in us! And as they see us zealous and fervent, may they marvel at the amazing Grace of God which has brought us to be so consecrated to Christ!
-
 
 ---
 [[Sermon 2593 A Welcome for Jesus|← #2593]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2595 What the Lord's Supper Sees and Says|#2595 →]]

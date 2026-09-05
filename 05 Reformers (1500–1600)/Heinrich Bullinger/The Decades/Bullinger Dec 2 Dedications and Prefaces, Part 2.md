@@ -11,12 +11,11 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 2. Dedications and Prefaces, Part 2
 
 About the ear of our ord 185.
 
-26 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 26 of the Four General Synods or Councils
 
 suffered grief and death for our salvation, not in the power of his Godhead, but in the infirmity of his manhood. He descended to them below to draw out by force the saints which were held there. And he rose again, the power of death being overcome. He was taken up into the heavens, from whence he shall come to judge the quick and the dead. By whose death and blood we being made clean have obtained forgiveness of (our) sins, and shall be raised up again by him in the last day in the same flesh wherein we now live, (and) in that manner wherein the same (our) Lord did rise again, (and) shall receive of him, some in reward of their welldoing life everlasting, and some for their sins the judgment of everlasting punishment. This is the faith of the catholic church, this confession we keep and hold, which whosoever shall keep stedfastly, he shall have everlasting salvation.
 
@@ -32,11 +31,11 @@ OF THE FOUR GENERAL SYNODS OR COUNCILS. Zr and blasphemous men, into eternal fir
 
 About the ear of our ord 210.
 
-28 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 28 of the Four General Synods or Councils
 
 Read further in the fourth chapter of his third book Contra Valent. and you shall perceive that by the term of apostolical tradition he meaneth the Creed of the Apostles,
 
-A RULE OF FAITH, AFTER TERTULLIAN, TAKEN OUT OF HIS BOOK “DE PRASCRIPTIONIBUS HARETICORUM}.”
+## A Rule of Faith, After Tertullian, Taken out of His Book “De Prascriptionibus Hareticorum}.”
 
 Tue rule of faith is, that we out of hand profess openly what our belief is; which is that indeed whereby we believe onrat: τὰ μὲν πνευματικὰ τῆς πονηρίας, Kal ἀγγέλους παραβεβηκότας καὶ ἐν ἀποστασίᾳ γεγονότας, καὶ τοὺς ἀσεβεῖς, καὶ ἀδίκους, καὶ ἀνόμους, καὶ βλασφήμους τῶν ἀνθρώπων εἰς τὸ αἰώνιον πῦρ πέμψῃ" τοῖς δὲ δικαίοις, καὶ ὁσίοις, καὶ τὰς ἐντολὰς αὐτοῦ τετηρηκόσι, καὶ ἐν τῇ ἀγάπῃ αὐτοῦ διαμεμενηκόσι, τοῖς ἀπ᾽ ἀρχῆς, τοῖς δὲ ἐκ μετανοίας, ζωὴν χαρισάμενος ἀφθαρσίαν δωρήσηται, καὶ δόξαν αἰωνίαν περιποιήσῃ. Τοῦτο τὸ κήρυγμα παρειληφυῖα, καὶ ταύτην τὴν πίστιν, ὡς προέφαμεν, ἡ ἐκκλησία, καίπερ ἐν ὅλῳ τῷ κόσμῳ διεσπαρμένη, ἐπιμελῶς φυλάσσει, ὡς ἕνα οἶκον οἰκοῦσα" καὶ ὁμοίως πιστεύει τούτοις, ὡς μίαν ψυχὴν καὶ τὴν αὐτὴν ἔχουσα καρδίαν, καὶ συμφώνως ταῦτα κηρύσσει, καὶ διδάσκει, καὶ παραδίδωσιν, ὡς ἕν στόμα κεκτημένη: καὶ γὰρ αἱ κατὰ τὸν κόσμον διάλεκτοι ἀνόμοιαι, ἀλλ᾽ ἡ δύναμις τῆς παραδόσεως μία καὶ ἡ αὐτή" καὶ οὔτε αἱ ἐν Τερμανίαις ἱδρυμέναι ἐκκλησίαι ἄλλως πεπιστεύκασιν, ἢ ἄλλως παραδιδόασιν, οὔτε ἐν ταῖς ᾿Ιβηρίαις, οὔτε ἐν Κελτοῖς, οὔτε κατὰ τὰς ἀνατολὰς, οὔτε ἐν Αἰγύπτῳ, οὔτε ἐν Λιβύῃ, οὔτε αἱ κατὰ μέσα τοῦ κόσμου ἱδρυμέναι" GAN ὥσπερ ὁ ἥλιος τὸ κτίσμα τοῦ Θεοῦ ἐν ὅλῳ τῷ κόσμῳ εἷς καὶ ὁ αὐτὸς, οὕτω καὶ τὸ κήρυγμα τῆς ἀληθείας πανταχῇ φαΐνει, καὶ φωτίζει πάντας ἀνθρώπους τοὺς βουλομένους εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν. Καὶ οὔτε ὁ πάνυ δυνατὸς ἐν λόγῳ τῶν ἐν ταῖς ἐκκλησίαις προεστώτων ἕτερα τούτων ἐρεῖ: (οὐδεὶς γὰρ ὑπὲρ τὸν διδάσκαλον") οὔτε ὁ ἀσθενὴς ἐν τῷ λόγῳ ἐλαττώσει τὴν παράδοσιν: μιᾶς γὰρ καὶ τῆς αὐτῆς πίστεως οὔσης, οὔτε ὁ πολὺ περὶ αὐτῆς δυνάμενος εἰπεῖν ἐπλεόνασεν, οὔτε ὁ τὸ ὀλίγον HAatTévnoe.—lIren. adv. Heres. Lib. 1. cap. 8. ed. Grabe. Oxon. 1702.]
 
@@ -44,7 +43,7 @@ Tue rule of faith is, that we out of hand profess openly what our belief is; whi
 
 This rule, as it shall be proved, being ordained by Christ, hath among us no doubts at all, but those which heresies bring in, and which make men become heretics.
 
-THE CREED OF THE BLESSED ATHANASIUS, BISHOP OF ALEXANDRIA, TAKEN OUT OF HIS BOOKS2.,
+## The Creed of the Blessed Athanasius, Bishop of Alexandria, Taken out of His Books 2.
 
 WuosorEVeEr will be saved: before all things it is necessary that he hold the catholic faith.
 
@@ -54,7 +53,7 @@ fanos judicandos igni perpetuo, facta utriusque partis resuscitatione cum carnis
 
 About the ear of our ord 333.
 
-90 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 90 of the Four General Synods or Councils
 
 Which faith except every one do keep holy! and undefiled : without doubt he shall perish everlastingly.
 
@@ -140,7 +139,7 @@ He ascended into heaven, he sitteth on the right hand of
 
 [2 fideliter, Lat. ]
 
-32 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 32 of the Four General Synods or Councils
 
 the Father, God Almighty: from whence he shall come to judge the quick and the dead.
 
@@ -150,7 +149,7 @@ And they that have done good, shall go into life everlasting: and they that have
 
 This is the catholic faith: which except a man believe faithfully!, he cannot be saved.
 
-THE CREED OF THE BLESSED DAMASUS, BISHOP OF ROME, TAKEN OUT OF THE SECOND TOME OF 5. HIEROME HIS WORKS}.
+## The Creed of the Blessed Damasus, Bishop of Rome, Taken out of the Second Tome of 5. Hierome His Works}
 
 About the WE believe in one God the Father Almighty, and in one
 
@@ -162,7 +161,7 @@ Lord 376. Jesus Christ our Lord the Son of God, and in the Holy Ghost.
 
 We worship and confess God, not three Gods, but the Father, the Son, and the Holy Ghost, one God: one God, not so as though he were alone, nor as one which is himself Father to himself, and Son himself also ; but him to be the Father which begot, and (him) to be the Son which was begotten; but the Holy Ghost to be neither begotten, nor created, nor made, but proceeding from the Father and the Son, co-eternal, co-equal, and working together with the Father and the Son: because it is written, “ By the word of the Lord the heavens were established,” that is, by the Son of God, “and by the breath of his mouth all the powers thereof ;” and in another place, “Send forth thy breath, and they shall be created, and thou shalt renew the face of the earth.” And therefore under the name of the Father, of the Son, and of the Holy Ghost, we confess one God, which is the name of the power, and not of the property. The proper name of the Father is the Father : and the proper name of the Son is the Son: and the proper name of the Holy Ghost is the Holy Ghost. In this Trinity of persons we worship one God (in substance), because that which is of one father is of one nature with the father, of one substance, and one power. The Father begat the Son, not by will or necessity, but by nature.
 
-The Son in the last time came down from the Father to save us and to fulfil the scriptures, who (nevertheless) never ceased to be with the Father. And he was conceived by the Holy Ghost, and born of the virgin: he took upon him flesh, and soul, and sense; that is, he took on him very man, neither lost he what he was, but began to be what he was not; so yet that, in respect of his own properties, he is perfect God ; and in respect of ours, he is very man. For he which was God is born man; and he which is born man, doth work miracles as God; and he that worketh miracles as God, doth die as a man; and he that dieth as man, doth rise again as God: who in the same flesh, wherein he was born and suf- ad dexteram ejus in gloria, quam semper habuit et habet. In hujus morte et sanguine credimus emundatos nos; et ab eo resuscitandos die novissimo in hac carne qua nunc vivyimus. Et habemus spem nos consecuturos premium boni meriti, aut poenam pro peccatis eeterni supplicii. Heec lege, hee crede, hee retine; huic fidei animam tuam ) subjuga; et vitam consequeris et premium a Christo.—Hieronym. Opp. ed. Par. 1693-1706. Tom. v. col. 122.]
+The Son in the last time came down from the Father to save us and to fulfil the scriptures, who (nevertheless) never ceased to be with the Father. And he was conceived by the Holy Ghost, and born of the virgin: he took upon him flesh, and soul, and sense; that is, he took on him very man, neither lost he what he was, but began to be what he was not; so yet that, in respect of his own properties, he is perfect God ; and in respect of ours, he is very man. For he which was God is born man; and he which is born man, doth work miracles as God; and he that worketh miracles as God, doth die as a man; and he that dieth as man, doth rise again as God: who in the same flesh, wherein he was born and suf-ad dexteram ejus in gloria, quam semper habuit et habet. In hujus morte et sanguine credimus emundatos nos; et ab eo resuscitandos die novissimo in hac carne qua nunc vivyimus. Et habemus spem nos consecuturos premium boni meriti, aut poenam pro peccatis eeterni supplicii. Heec lege, hee crede, hee retine; huic fidei animam tuam ) subjuga; et vitam consequeris et premium a Christo.—Hieronym. Opp. ed. Par. 1693-1706. Tom. v. col. 122.]
 
 Peter, bishop of Alexandria.
 
@@ -170,7 +169,7 @@ Catholics.
 
 Hereticks.
 
-34 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 34 of the Four General Synods or Councils
 
 fered and died and rose again, did ascend to the Father, and sitteth at his right hand in the glory which he always had, and yet still hath. By whose death and blood we believe that we are cleansed; and that at the latter day we shall be raised up again by him in this flesh wherein we now live. And we hope that we shall obtain a reward for our good deeds; or else the pain of everlasting punishment for our sins. Read this, believe this, hold this, submit thy soul to this faith, and thou shalt obtain life and a reward at Christ’s hand.
 
@@ -190,13 +189,13 @@ Coss3. FINIS,
 
 [8 Impp. Gratianus, Valentinianus, et Theodosius, Augg. ad populum urbis Constantinopolitanse. Cunctos populos, quos Clementize nostre regit temperamentum, in tali yolumus religione versari, quam divinum Petrum apostolum tradidisse Romanis religio usque nunc ab ipso insinuata declarat; quamque Pontificem Damasum sequi claret, et Petrum Alexandriz episcopum, virum apostolice sanctitatis: hoc est, ut secundum apostolicam disciplinam evangelicamque doctrinam, Patris et Filii et Spiritus Sancti unam Deitatem sub pari majestate et sub pia Trinitate credamus. Hance legem sequentes, Christianorum catholicorum nomen jubemus amplecti: reliquos vero, dementes vesanosque judicantes, heretici dogmatis infamiam sustinere, divina primum vindicta, post etiam motus nostri, quem ex ccelesti arbitrio sumpserimus, ultione plectendos. Data m1. Kalend. Martias. Thessalonice. Gratiano quinto et Theodosio Augg. Coss.—Hist. Eccles. Tripart. Lib. Ix. cap. 7. ap. Cassiodor. Opp. Rotomag. 1679. p. 334. ]
 
-FIRST DECADE OF SERMONS,
+## First Decade of Sermons
 
-WRITTEN BY
+## Written By
 
-HENRY BULLINGER.
+## Henry Bullinger
 
-OF THE WORD OF GOD; THE CAUSE OF IT; AND HOW, AND BY WHOM, IT WAS REVEALED TO THE WORLD.
+## Of the Word of God; The Cause of It; And How, and by Whom, It Was Revealed to the World
 
 ---
 [[Bullinger Dec 1 Dedications and Prefaces, Part 1|← 1. Dedications and Prefaces, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 3 Decade 1, Sermon 1|3. Decade 1, Sermon 1 →]]

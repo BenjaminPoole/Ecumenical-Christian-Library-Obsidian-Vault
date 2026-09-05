@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Luther Sermon at Exeter Hall
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1750
 
-DELIVERED ON LORD'S-DAY EVENING, NOVEMBER 11, 1883,.
+*Delivered on Lord's-Day Evening, November 11, 1883*
 
 > "For in Jesus Christ neither circumcision avails anything, nor uncircumcision; but faith which works by love." Galatians 5:6.
 
@@ -132,7 +131,6 @@ They tell us that Luther ignored good works. It is true he would not allow good 
 Lastly, Luther's faith was a faith that helped him under struggles that are seldom spoken of. I suppose that never man had greater soul-conflict than Luther. He was a man of heights and depths. Sometimes he went up to Heaven and he sang his hallelujahs. And then he went down, again, into the abyss with his "Miserere." I am afraid that great, vigorous man that he was, he had a bad liver. He was grievously afflicted in body in ways which I need not mention. And he was sometimes laid aside for months together, being so racked and tortured that he longed to die. His pains were extreme and we wonder how he endured them so well. But always, between the attacks of illness, Luther was up again preaching the Word of God. Those desperate struggles with the devil would have crushed him but for his faith. The devil seems to have been constantly assailing him and he was constantly assailing the devil.
 
 In that tremendous duel he fell back upon his Lord and, trusting in Omnipotence, he put Satan to rout. Young men, I pray that a Luther may spring up from your ranks. How gladly would the faithful welcome him! I, who am more a follower of Calvin than of Luther, and much more a follower of Jesus than of either of them, would be charmed to see another Luther upon this earth! God bless you, Brothers and Sisters, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1749 A Luther Sermon at the Tabernacle|← #1749]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1751 Fathers In Christ|#1751 →]]

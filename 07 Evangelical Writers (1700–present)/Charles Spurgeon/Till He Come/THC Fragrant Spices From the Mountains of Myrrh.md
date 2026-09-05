@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Fragrant Spices From the Mountains of Myrrh
 
 *Till He Come* — Charles H. Spurgeon
 
 ## FRAGRANT SPICES FROM THE MOUNTAINS OF MYRRH.“Thou art all fair, My love; there is no spot in thee.”—Song of Solomon iv. 7.
-
-## FRAGRANT SPICES FROM THE MOUNTAINS OF MYRRH.
 
 HOW marvellous are these words! “Thou art all fair, My love; there is no spot in thee.” The glorious Bridegroom is charmed with His spouse, and sings soft canticles of admiration. When the bride extols her Lord there is no wonder, for He deserves it well, and in Him there is room for praise without possibility of flattery. But does He who is wiser than Solomon condescend to praise this sunburnt Shulamite? ‘Tis even so, for these are His own words, and were uttered by His own sweet lips. Nay, doubt not, O young believer, for we have more wonders to reveal! There are greater depths in heavenly things than thou hast at present dared to hope. The Church not only is all fair in the eyes of her Beloved, but in one sense she always was so.
 
@@ -242,7 +239,6 @@ Till all their strength subdu’d, my parting soul
 Shall give a challenge to infernal rage,
 
 And sing salvation to the Lamb for ever.”
-
 
 ---
 [[THC Over The Mountains|← Over The Mountains]] · [[Till He Come|Till He Come Contents]] · [[THC The Well-Beloved|The Well-Beloved →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # The Prince of Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2139
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And killed the Prince of Life, whom God has raised from the dead, of which we are witnesses." Acts 3:15.
 
@@ -170,7 +167,6 @@ In the old times of slavery in the States, when men escaped from their masters, 
 Brothers and Sisters, there are hosts of things that you do not know at present and many things that you will never know. But see to it that you know Jesus who is the pole-star of salvation! Keep Christ in your eyes! Follow the Crucified and Risen One! Trust Him! Rely upon Him! Follow Him! Receive the Life of which He is the Prince and it shall be well with your soul! May you live in Christ Jesus and glorify Him as "the Prince of Life" forever and ever! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON— Acts 3; 4:1-14.
-
 
 ---
 [[Sermon 2138 The Shank-bone Sermon—Or, True Believers and Their Helpers|← #2138]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2140 A Homily for Humble Folks|#2140 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Waterpots at Cana
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1556
@@ -83,7 +82,7 @@ The Lord grant us grace to be obedient to his command, especially to that comman
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 1:29-51; John 2:1-11.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’432, 645, 739.
+## Hymns from ‘Our Own Hymn Book’432, 645, 739
 
 *Just Published. Stiff covers, 1s; cloth, gilt edges, 2s.*
 
@@ -91,7 +90,7 @@ HYMNS FROM ‘OUR OWN HYMN BOOK’432, 645, 739.
 
 OR,
 
-MORE OF HIS PLAIN TALK FOR PLAIN PEOPLE.
+## More of His Plain Talk for Plain People
 
 by C. H. SPURGEON.
 
@@ -104,7 +103,6 @@ by C. H. SPURGEON.
 ‘Each sentence is a cluster of diamonds, some of them rough, but all of them real. It is the very quintessence of sanctified common sense. Every page is worth a mint of money.’*The Christian.*
 
 PASSMORE & ALABASTER, 4, Paternoster Buildings; and all Booksellers.
-
 
 ---
 [[Sermon 1555 The Glories of Forgiving Grace|← #1555]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1557 Walking Humbly With God|#1557 →]]

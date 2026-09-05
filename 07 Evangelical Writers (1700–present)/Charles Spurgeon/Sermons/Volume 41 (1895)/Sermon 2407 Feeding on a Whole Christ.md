@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Feeding on a Whole Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2407
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The fourteenth day of the second month at even they shall keep it, and eat it with unlea vened bread and bitter herbs. They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the Passover they shall keep it." Numbers 9:11,12.
 
@@ -119,7 +116,7 @@ Your face to see, Your voice to hear,
 
 And all Your love to know." God grant us more of that blessed fellowship, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: NUMBERS9.
+## Exposition by C. H. Spurgeon: Numbers 9
 
 Verses 1, 2. And the LORD spoke unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying, Let the children of Israel also keep the Passover at his appointed season. I should almost fear that they had omitted the keeping of the Passover for a year. There was a first celebration of it when they came out of Egypt, but then it was not so much a type as a matter of fact—it was the thing itself—not the remembrance of the coming out of Egypt, but the actual coming out, the exodus. One would gather from this command of the Lord that, on the first anniversary of that memorable season, the children of Israel had omitted its observance and, therefore, Jehovah said to Moses, "Let the children of Israel also keep the Passover at his appointed season." If this conjecture is correct, it is very significant that a rite which belonged to the Law of God and was, therefore, to pass away, was so soon neglected—and certainly it was afterwards neglected for many, many years. Whereas, the great memorial ordinance of the Christian dispensation—the Lord's Supper—was not neglected even when Christians were under fierce persecution from the Jews or other nations. When the observance of that rite among the heathen was pretty sure to bring death, yet Christians met together on the first day of the week and continually broke bread in remembrance of their Lord's death, even as we do to this day. I suppose that the Supper, which is the memorial of Christ our Passover, has never been altogether neglected throughout the world, but has been a matter of constant observation in the Church of Christ and shall be "till He come."
 
@@ -148,7 +145,6 @@ Calmed my heart when it was glad." We get shelter from the fierce heat of the wo
 21-23. And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed. Whether it was by day or by night that the cloud was taken up, they journeyed. Or whether it were two days or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents and journeyed not but when it was taken up, they journeyed. At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses. So may each one of us ever be Divinely guided!—
 
 "Let the fiery cloudy pillar Lead me all my journey through."
-
 
 ---
 [[Sermon 2406 An Appeal to Children of Godly Parents|← #2406]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2408 Christ the Cure for Troubled Hearts|#2408 →]]

@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # Helen
 *Euripides · trans. Arthur S. Way*
 
@@ -19,9 +18,9 @@ tags:
 
 ---
 
-HELEN.
+## Helen
 
-ARGUMENT.
+## Argument
 
 It is told that one of the old bards, named Stesichorus, who lived six generations before Euripides, did in a certain poem revile Helen, for that her sin was the cause of misery to Hellas and to Troy. Thereupon was he struck blind for railing on her who had after death become a goddess. But the man repented of his presumption, and made a new song wherein he unsaid all the evil he had sung of Queen Helen, and wove into his song an ancient legend, telling how that not she, but her wraith only, had passed to Troy, while she was borne by the Gods to the land of Egypt, and there remained until the day when her lord, turning aside on the homeward voyage, should find her there.
 
@@ -29,7 +28,7 @@ When he had done this, his sight was straightway restored to him.
 
 In this one play only is Helen's story told according to the "Recantation of Stesichorus."
 
-DRAMATIS PERSONÆ.
+## Dramatis Personæ
 
 Helen, wife of Menelaus.
 
@@ -55,7 +54,7 @@ Guards, attendants, huntsmen, and temple-maidens.
 
 Scene:—Before the palace of the King of Egypt by the mouth of the Nile. In the foreground stands the tomb of Proteus, father of Theoklymenus.
 
-HELEN.
+## Helen
 
 Helen discovered bowed in prayer at the tomb of Proteus. She rises and advances to the front of the stage.
 

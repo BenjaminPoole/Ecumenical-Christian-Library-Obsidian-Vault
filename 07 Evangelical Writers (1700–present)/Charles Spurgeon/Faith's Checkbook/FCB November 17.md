@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 17
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD NEVER FORSAKES**
+## **God Never Forsakes**
 
 > For the Lord will not cast off his people, neither will he forsake his inheritance" Ps. 94:14
 
@@ -29,7 +28,6 @@ But He never can neglect;
 May in faithfulness reprove,
 
 But He ne'er can cease to love."
-
 
 ---
 [[FCB November 16|← November 16]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 18|November 18 →]]

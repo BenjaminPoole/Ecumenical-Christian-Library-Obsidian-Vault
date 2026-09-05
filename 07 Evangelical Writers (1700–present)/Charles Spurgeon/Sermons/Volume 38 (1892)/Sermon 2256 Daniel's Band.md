@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Daniel's Band
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2256
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Daniel, a man greatly beloved." Daniel 10:11.
 
@@ -131,7 +128,7 @@ A strong stream is running in opposition to the Truth of God. Many say that the 
 
 Portion of Scripture Read before Sermon—1 John 4:9-21. HYMNS FROM "OUR OWN HYMN BOOK"—810, 808, 735.
 
-EXPOSITION BY CHARLES H. SPURGEON 1 JOHN4:9221
+## Exposition by Charles H. Spurgeon 1 John 4:9221
 
 Verse 9. In this was manifested the love of God toward us, because that God sent His only begotten Son into the world, that we might live through Him. There is love in our creation. There is love in Providence. But most of all there is love in the gift of Christ for our redemption! The Apostle, here, seems to say, "Now that I have found the great secret of God's love to us, here is the clearest evidence of Divine Love that ever was or ever can be manifested toward the sons of men."
 
@@ -178,7 +175,6 @@ your hurt if it were left within you. Refining Fire, go through my heart! Consum
 20\. And hates his brother, he is a liar. It is very rude of you, John, to call people liars! But it is not John's rough nature that uses such strong language—it is his gentle nature. When a loving disposition turns its face against evil, it turns against it with great vehemence of holy indignation. You can never judge a man's character by his books. Curiously enough, Mr. Romaine, of St. Anne's Church, Blackfriars, wrote the most loving books that could be—yet he was a man of very strong temper, indeed! Mr. Toplady wrote some of the sharpest things that were ever said about Arminians, but he was the most loving and gentle young man that ever breathed! St. John, full of love and tenderness, hits terribly hard when he comes across a lie. He was so fond of love, that he cannot have it played with, or mocked or mimicked. "If a man says, I love God, and hates his brother, he is a liar."
 
 21\. For he that loves not his brother whom he has seen, how can he love God whom he has not seen? And this Commandment have we from Him, That he who loves God love his brother also. This is that "new Commandment" which our Lord gave to His Apostles and, through them, to His whole Church. "That you love one another as I have loved you." John was, in a special sense, "that disciple whom Jesus loved." It was meet, therefore, that he should be the Apostle to be inspired by the Holy Spirit to bring "this Commandment" to the remembrance of any who had forgotten it. "This Commandment have we from Him, That he who loves God love his brother also." God help us to do so, of His great Grace! Amen.
-
 
 ---
 [[Sermon 2255 God Justified, Though Man Believes Not|← #2255]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2257 Inexcusable Irreverence and Ingratitude|#2257 →]]

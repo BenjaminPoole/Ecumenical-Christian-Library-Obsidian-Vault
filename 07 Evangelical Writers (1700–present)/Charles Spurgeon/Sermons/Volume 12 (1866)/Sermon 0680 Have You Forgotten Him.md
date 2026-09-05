@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Have You Forgotten Him?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 680
 
-DELIVERED ON SUNDAY MORNING, MARCH 11, 1866,.
+*Delivered on Sunday Morning, March 11, 1866*
 
 > "I do remember my faults this day." Genesis 41:9.
 
@@ -136,7 +135,6 @@ Now, dear Friends, if you remember your faults to the Lord Jesus, may you have G
 I have little by way of urging you as a congregation to do more in the service of the Master. Often I feel held back by the thought that you are doing so much, but oh, if we could do as much as possible, if every one of us felt pledged, for the Lord's cause and the Redeemer's kingdom, that there should be nothing within the range of possibility to mortal man that we would not attempt for such a King, for such a Lord, oh, then we should see blessed days!! You have had a zealous spirit. You still have it—but you need still more of it, and may God send it to you!
 
 We are helping to send the Gospel throughout all this country, and to different countries abroad as well. Do not hold back when God is blessing! Your parts help is still required—be not slow to render it. Do come forward with us and help us to magnify the Savior's name till the ends of the earth shall know it, and all nations shall call Him blessed! The Lord bless these words for the sake of Jesus Christ our Lord. Amen.
-
 
 ---
 [[Sermon 0679 The Amen|← #679]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0681 Eyes Opened|#681 →]]

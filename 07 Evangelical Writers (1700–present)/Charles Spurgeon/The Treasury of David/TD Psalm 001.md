@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 1
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -132,7 +131,7 @@ Verse 6. Or, as the Hebrew hath it yet more fully, "The Lord is *knowing* the wa
 
 *Verse* 6. (*last clause*). His way of pleasure, of pride, of unbelief, of profanity, of persecution, of procrastinating, of self-deception, etc.: all these shall come to an end.
 
-WORKS UPON THE FIRST PSALM
+## Works upon the First Psalm
 
 *A Discourse about the State of True Happiness*, delivered in certain Sermons in Oxford, and at Paul's Cross. By ROBERT BOLTON. London. 1625
 
@@ -143,7 +142,6 @@ WORKS UPON THE FIRST PSALM
 *The Christian on the Mount; or a Treatise concerning Meditation;* wherein the necessity, usefulness, and excellency of Meditation are at large discussed. By THOMAS WATSON. 1660.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 002|Psalm 2 →]]

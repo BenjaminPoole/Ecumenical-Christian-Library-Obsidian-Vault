@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 45
 
-**CHAPTER 45.**
+***Chapter 45.***
 
 ## Genesis 45:1-28
 

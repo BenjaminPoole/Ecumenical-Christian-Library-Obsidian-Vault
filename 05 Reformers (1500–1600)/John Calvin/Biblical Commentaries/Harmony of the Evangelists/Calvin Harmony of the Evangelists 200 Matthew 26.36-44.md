@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 200. Matthew 26:36-44; Mark 14:32-40; Luke 22:39-46
-
-MATTHEW 26:36-44; MARK 14:32-40;  
-LUKE 22:39-46
 
 **36.** Then Jesus cometh with them to a place which is called Gethsemane, and saith to the disciples, Sit here until I go yonder and pray. **37.** And, having taken with him Peter and the two sons of Zebedee, he began to be affected with grief and sorrow. **38.** Then Jesus saith to them, My soul is sorrowful, even to death: remain here, and watch with me. **39.** And proceeding a little farther, he fell on his face, praying, and saying, My Father, if it be possible, let this cup pass from me; but yet not as I will, but as thou wilt. **40.** And he came to the disciples, and found them sleeping, and said to Peter, Couldst not thou watch with me one hour? **41.** Watch and pray, that you may not enter into temptation: the spirit indeed is willing, but the flesh is weak. **42.** He went away again the second time, and prayed, saying, My Father, if this cup cannot pass from me, except I drink it, thy will be done. **43.** And he came, and found them sleeping again; for their eyes were heavy. **44.** And he left them, and went away again, and prayed a third time, saying the same words.
 

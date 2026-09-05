@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 23
-
-**PSALM 23.**
 
 This psalm is neither intermingled with prayers, nor does it complain of miseries for the purpose of obtaining relief; but it contains simply a thanksgiving, from which it appears that it was composed when David had obtained peaceable possession of the kingdom, and lived in prosperity, and in the enjoyment of all he could desire. That he might not, therefore, in the time of his great prosperity, be like worldly men, who, when they seem to themselves to be fortunate, [^1] bury God in forgetfulness, and luxuriously plunge themselves into their pleasures, he delights himself in God, the author of all the blessings which he enjoyed. And he not only acknowledges that the state of tranquillity in which he now lives, and his exemption from all inconveniences and troubles, is owing to the goodness of God; but he also trusts that through his providence he will continue happy even to the close of his life, and for this end that he may employ himself in his pure worship.
 

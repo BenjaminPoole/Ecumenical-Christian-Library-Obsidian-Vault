@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Great Spoil
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1641
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 22, 1882,.
+*Delivered on Lord's-Day Morning, January 22, 1882*
 
 > "I rejoice at Your Word, as one that finds great spoil." Psalm 119:162.
 
@@ -105,7 +104,7 @@ O, Brothers and Sisters, we rejoice when we get a hold of the precious treasures
 
 IV. My fourth head is the principal one and I need all your attention while I dwell on it for a short time. THERE IS
 
-A JOY ARISING OUT OF THE VERY FACT THAT HOLY SCRIPTURE MAY BE CONSIDERED TO BE A SPOIL. I
+## A Joy Arising out of the Very Fact that Holy Scripture May Be Considered to Be a Spoil. I
 
 will show you that in five particulars. First, a spoil is the end of the uncertainty. Whenever a fight begins, it is questionable who will win. While it rages, the result still hangs quivering in the balances, but we know who has won the battle when the victor begins to divide the spoil. No question now remains—the debate is ended. Blessed is that man who has found in Scripture a spoil in the sense that he has come to the end of uncertainty and arrived at something without doubt.
 
@@ -136,7 +135,6 @@ Last of all, the spoil is a prophecy of rest and so is that delightful dividing 
 When we believe that Jesus died and rose again from the dead, then the fear of death which haunts so many receives its mortal wound. Knowing the meaning of the word, "He that believes in Me, though he were dead yet shall he live," the dread of death has no more dominion over us! The appropriation of the Divine promise, as the soldier appropriates his share of the booty, is to us the prophecy that the war is over! We may rest, now, and be quiet. And oh, what joy, what blessedness is this! How I would that all those who are here present were believers in my Master—first in Jesus the great Incarnate Word—and then in this book, the written Word of God and that you did not only believe these things to be true, but took them to yourselves as warriors take the spoil!
 
 Happy and blessed would you be and your rejoicing this day would be as the joy of harvest, or as the shouting of them that divide the spoil! God grant it may be so, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1640 The Touch|← #1640]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1642 Verily, Verily|#1642 →]]

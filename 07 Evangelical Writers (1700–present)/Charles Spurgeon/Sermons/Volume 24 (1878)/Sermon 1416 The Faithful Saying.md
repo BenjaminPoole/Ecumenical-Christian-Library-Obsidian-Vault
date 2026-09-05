@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Faithful Saying
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1416
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 26, 1878,.
+*Delivered on Lord's-Day Morning, May 26, 1878*
 
 > "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief." 1 Timothy 1:15.
 
@@ -134,7 +133,6 @@ Now cut the cable! Let every rope go! Break the last thread and commit yourself 
 I, as an architect, advise you to tear it all down! Clear every wall away, stick and stone. Yes, and take out the very foundations, for every stone is ruinous! Clear the ground of the whole concern. You complain that there is a deep and ugly trench where the foundations used to be and I am glad of it, for, behold, the Lord lays in Zion, for a foundation, a stone, elect, precious, even Christ Jesus! And he that believes in Him shall never be confounded. You must remove all the wood, hay and stubble, and build with precious stones! None but Jesus, none but Jesus! Neither beam, nor stone, nor pin, nor nail must be our own. We may not take from a thread to a shoelace of self, but Christ must be first, last, midst and everywhere!
 
 What do you say, fellow Sinners? Will you and I have Christ? I will, whether you will or not! Come along. Do not draw back. Take what God freely presents to you and from this day trust Jesus to be your Savior and we will meet in Heaven! Amen.
-
 
 ---
 [[Sermon 1415 Great Difference|← #1415]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1417 Your Salvation|#1417 →]]

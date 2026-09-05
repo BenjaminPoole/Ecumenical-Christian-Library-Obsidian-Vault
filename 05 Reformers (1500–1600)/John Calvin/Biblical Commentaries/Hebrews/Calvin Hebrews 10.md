@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Heb 10:1-4
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # 'That King Ahaz'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2993
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz." 2 Chronicles 28:22.
 
@@ -43,7 +40,7 @@ We also get our sweetest comforts in the time of trouble. Do not mothers often g
 
 II. Now I advance another step and remind you that VERY OFTEN, THROUGH THE GRACE OF GOD,
 
-UNGODLY PERSONS HAVE HAD REASON TO BLESS THE LORD FOR THEIR AFFLICTIONS.
+## Ungodly Persons Have Had Reason to Bless the Lord for Their Afflictions
 
 Not infrequently have I heard a story of this kind from a man who has passed the prime of life, whose garments bear evidence, though he still looks respectable, that he is one who has seen many sorrows and trials—and who carries on his brow the marks of the plowshare of grief. He has come to unite in fellowship with the Church and he begins telling the story of his conversion, which is something like this—"I was once a flourishing tradesman. I had a large business and was a wealthy man, but, alas, I was foolish. Worse than that, I was wicked. I misspent my time, I delighted in the ways of sin and became a profligate. My companions thought me generous and I did not wish to be less than they thought me to be, so I wasted my substance in riotous living. My business suffered and, at last, there came a crash. All I had went where all must go when a man squanders his time and money as I squandered mine. I became poor. I had not previously known what it was to eat the bread of dependence, but I did eat it for a few months. Friends assisted me for a time, but they grew
 
@@ -113,9 +110,9 @@ Foul, I to the Fountain fly—
 
 Wash me, Savior, or I die!"
 
-HYMNS FROM "OUR OWN HYMN BOOK"—509, 473, 514.
+## Hymns from "Our Own Hymn Book"—509, 473, 514
 
-EXPOSITION BY C. H. SPURGEON: 2 THESSALONIANS 1; 2:1-4.
+## Exposition by C. H. Spurgeon: 2 Thessalonians 1; 2:1-4
 
 [This Exposition belongs to Sermon No. 2991, Volume 52—WHAT WE HAVE, AND ARE TO HAVE—but there was not space available for it there.]
 
@@ -138,7 +135,6 @@ EXPOSITION BY C. H. SPURGEON: 2 THESSALONIANS 1; 2:1-4.
 2 Thessalonians 2:1, 2. Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto Him, that you be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. In his former Epistle to the Thessalonians, Paul had written as if he expected Christ to come immediately. And the people seem to have taken his words so literally as to have lived in expectation of Christ's advent and, perhaps, to have exhibited some degree of fear concerning it. He now calms their minds by telling them that Christ would not come until certain events had happened. The history of the world was not complete. The harvest of the Church was not ripe—neither had the sin of man and especially the "man of sin" become fully developed.
 
 3, 4. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin is revealed, the son of perdition who opposes and exalts himself above all that is called God, or that is worshipped; so that he as God sits in the temple of God, showing himself that he is God. If this "man of sin" is not the Pope of Rome, we cannot tell who is the antichrist! Certainly, if this description were put in the Hue-and-Cry, and we were police officers, we should at once arrest the Pope as the man whose character agreed with the warrant in our hands! What does he call himself? "Vicar of Christ on earth." What does he do but set himself up to be adored and worshipped as though he were Divine, making himself out to be the fountain and channel of all Grace? Beloved, this "man of sin" has been revealed! Now we may look for the coming of the Son of Man—but the day and the hour when He shall come, no man knows. No, and not even the angels of God!
-
 
 ---
 [[Sermon 2992 God's Writing Upon Man's Heart|← #2992]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2994 Jude's Doxology|#2994 →]]

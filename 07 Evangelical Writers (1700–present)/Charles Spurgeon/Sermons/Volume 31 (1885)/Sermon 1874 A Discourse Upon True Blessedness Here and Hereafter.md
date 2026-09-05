@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # A Discourse Upon True Blessedness Here and Hereafter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1874
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed is the man that endures temptation: for when he is tried, he shall receive the crown of life, which the Lord has promised to them that love Him." James 1:12.
 
@@ -144,7 +141,6 @@ developed large green leaves! It is growing rapidly and "it does not yet appear 
 You gentlemen who believe in evolution, as I do not, tell us what a man will come to when God has sanctified him fully, by His Grace, and he has passed through ages of blessedness. What will he be when his life develops into the crown of life? We make poor guesswork of it. But I will tell you what I mean to do. I pray you follow me therein. I mean to go and see what this crown of life is like. We do not know what we shall be, but we have heard a soft whisper say, "When He shall appear, we shall be like He, for we shall see Him as He is." Come, let us go to Jesus! First, let us hasten away to His Cross and unitedly look up, and say, "We trust You, Jesus." Then, from His Cross let us come down and take His yoke upon us and learn of Him, and say, "Jesus, we will follow You." Then, let us go with Him into the thick throng of temptation, where Satan shall try us with wealth and honor, or with necessities even unto hunger, as he tried our Lord. And there let us stand and say, "We will wrestle with temptation, O Lord Jesus, even as You did. O Lord, when we have done this, we will die with You! And if You come not soon, we will lie asleep in You! And when You say, 'Awake,' we will answer, 'Here we are. We will live with You forever and forever!'"
 
 And our joy shall be that crown of life which the Lord has promised of His own free, rich, Sovereign Grace to them that love Him! May every person in this congregation wear that crown! May you soldiers in your red coats over yonder win this crown and wear it forever! May you all be more than conquerors, for Jesus Christ's sake. Amen!
-
 
 ---
 [[Sermon 1873 The Dream of the Barley Cake|← #1873]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1875 The Preacher's Last Sermon for the Season|#1875 →]]

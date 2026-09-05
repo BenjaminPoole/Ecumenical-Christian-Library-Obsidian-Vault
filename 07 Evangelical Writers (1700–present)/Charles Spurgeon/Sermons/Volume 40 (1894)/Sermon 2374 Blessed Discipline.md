@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Blessed Discipline
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2374
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed is the man whom You chasten, O LORD, and teach out of Your Law; that You may give him rest from the days of adversity, until the pit is dug for the wicked. For the LORD will not cast off His people, neither will He forsake His inheritance. But judgment shall return unto righteousness: and all the upright in heart shall follow it." Psalm 94:12-15.
 
@@ -105,7 +102,7 @@ show themselves, again, and God shall be glorified in them! Now you who love the
 
 I have done when I have reminded you that He is accursed who has never felt the chastening hand of God, or sat at His feet to learn of Him. But he is blessed, indeed, who yields himself entirely up to the discipline of the Lord. May it be so with everyone of you, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 Let us read, this evening, the 94th Psalm, and may the Spirit of God instruct us while we read it!
 
@@ -176,7 +173,6 @@ Shall, armed with holy vengeance, come
 To each his final lot award
 
 And seal the sinner's fearful doom." God save us from being of that company! May we all be numbered with His people forever and ever! Amen.
-
 
 ---
 [[Sermon 2373 The Weary Dove's Return|← #2373]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2375 Found By Jesus—And Finding Jesus|#2375 →]]

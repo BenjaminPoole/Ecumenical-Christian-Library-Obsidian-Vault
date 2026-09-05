@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 4. I B. The Fabulous Poem of the Priest Zwingli Concerning an Ox
 
 The Fabulous Poem of the Priest Zwingli Concerning AN Ox AND MANY OTHER AnIMALS, REFERRING
@@ -28,7 +27,7 @@ There was present a ram, who had a lock of hair on his chin, and hence assumes t
 
 34 The Works of Huldreich Zwingli man, though in reality he has little of learning or wisdom. He says: "I believe the ox will be ruined on account of the way he acts ; unless the herdsman protects him with his staff, or the league of the leopard and lion is dissolved, or the leopard again gives presents. But in the latter case the shepherd is to be feared. The net is spread and everything prepared. I shall be taught by the fall, to eat the green herbs and to resist all bribes and presents; for where bribes have free play, there liberty cannot continue to exist. Liberty is such a blessing that one reads the Spartans said to Hy dames ^ that they would fight for it not only with spears but also with axes. But where bribes besiege the hearts of animals, all friendship, liberty, and faithful alliance is despised."
 
-MEANING OF THIS POEM.
+## Meaning of This Poem
 
 By herdsman I mean the Pope, by dog the clergy, while by lion I mean the Roman king; the French king is represented by the leopard, and the common people by the ox. Who were the cats? — Well, whoever is angry should await his opportunity.
 

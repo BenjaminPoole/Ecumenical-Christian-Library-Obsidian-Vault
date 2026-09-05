@@ -9,10 +9,9 @@ epub_file: "works1.i.v.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER V.
 
-HIS TUTORSHIP—SICKNESS—INVITATION TO NORTHAMPTON—PERSONAL NARRATIVE CONTINUED—DIARY CONCLUDED.
+*His Tutorship—sickness—invitation to Northampton—personal Narrative Continued—diary Concluded*
 
 In Sept. 1723, Mr. Edwards went to New-Haven, and received his degree of Master of Arts, when he was elected a tutor in the college. About this time, several congregations invited him to become their minister; but being fond of study, and conscious how much it would promote his usefulness, he declined their proposals. As there was no immediate vacancy in the office of tutor, he passed the ensuing winter and spring at New-Haven, in study, and in the occasional discharge of the active duties of his profession, and in the beginning of June, 1724, entered on the instruction of a class in the college.
 

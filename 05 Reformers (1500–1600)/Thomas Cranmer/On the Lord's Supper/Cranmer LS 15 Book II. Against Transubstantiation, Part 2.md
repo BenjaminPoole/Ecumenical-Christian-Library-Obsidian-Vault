@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 15. Book II. Against Transubstantiation, Part 2
 
 But as you speak of substances and accidents against scripture, sense, reason, experience, and all learning, so do you also speak manifestly against yourself. For you say, that “every thing that is must have a substance wherein it is stayed, and that every natural visible thing is of two parts, of substance and accidents;” and yet by - your transubstantiation you leave no substance at all, to stay the accidents of the bread and wine. - And, moreover, this is a marvellous teaching of you, to say that the accidents of bread be one part of bread, and be called “the outward kind of bread, the sensible part of bread, the nature and matter of bread, and very bread.” Was there ever any such learning taught before this day, that accidents should be called parts of substances, the nature of substances, and the matter of substances, and the very substances themselves? If ever any man so wrote, tell who it is, or else knowledge the truth, that all these matters be invented by your own imagination, whereof the rude man may right well say, Here is sophistry indeed, and plain juggling. But you convey not your juggling so craftily but that you be taken (as the Greeks term it) éravtopwpw, even — with the manner. Now, as concerning your expert lapidary, if his senses be deceived, how shall he judge a true stone from a counterfeit? Doth he not diligently look upon it with his sight, to discern truly of it? For tell me, I pray you, how a man without senses — shall judge a true diamond ?
@@ -47,7 +46,7 @@ By which saying it is evident, that Justinus thought that the bread and Wine rem
 
 _ blood to nourish our bodies.
 
-WINCHESTER.
+## Winchester
 
 Twill spend no more words herein, but having avoided this author’s reasoning against tranJustinus.
 
@@ -65,13 +64,13 @@ Kai els dvayévyrnow Aourpdv, Kal otTws Biouwre ws
 
 | i 8d Adyou Ocovd capxorombeis "Incovs Xpiords 6 cwrip ijuav, Kai cdpxa Kai alua trip cwrnpias iimav éExxev, ows Kal tiv du evyxijs Adyou Tov Tap’ aitov evyapiotnciocav tpodiv, éE js alua Kai cwapkes Kata petaBorynv TpéporTar tjiuav, éxeivov ToU capxorroinlévTos ‘Inco’ Kai capxa xai aipa édiddXOnuev elvar.—Justin. Martyr. Apologia 11. (Ed. Bened. i.) p. 162. Ed. Paris. 1551.]
 
-264 THE SECOND BOOK.
+## 264 the Second Book
 
 wittingly corrupteth Justin in the allegation of him, who writeth not in such form of words as — this author allegeth out of his second Apology, nor hath any such speech: “The bread, water, — and wine in this sacrament are meats ordained purposely to give thanks to God, and therefore — be called Eucharistia;” nor hath not these words, “ They be called the body and blood of Christ ;? but hath in plain words, “ That we be taught this food consecrate by God’s word to be the flesh and blood of Christ, as Christ in his incarnation took flesh and blood ;” nor hath not this form of words placed to have that understanding, how the same meat and drink is changed into our flesh and blood. For the words in Justin speaking of alteration of the food, have an under- — standing of the food as it is before the consecration, shewing how Christ used those creatures — in this mystery, which by alteration nourish our flesh and blood. |
 
 For the body of Christ, which is the very celestial substance of the host consecrate, is not — changed, but without all alteration spiritually nourisheth the bodies and souls of them that — worthily receive the same to immortality: whereby appeareth this author’s conclusion, that bread — and wine remain still, which is turned into our flesh and blood, is not deduced upon Justin’s — words truly wnderstanded, but is a gloss invented by this author, and a perverting of Justin's — words, and their true meaning. Whereupon I may say and conclude, even as this author erreth — in his reasoning of mother wit against transubstantiation, even so erreth he in the first allegation of his authorities by plain misreporting ; let it be further named or thought on as the thing deserveth.
 
-CANTERBURY.
+## Canterbury
 
 In this holy martyr Justinus I do not go about to be a translator of him, nor I ~ bind not myself precisely to follow the form of his words, which no translator is bound — unto, but I set forth only his sense and meaning. For where Justin hath a good long process in this matter, I take no more but that is directly to the purpose of transub- — stantiation, which is the matter being here in question. And the long words of Justin — I knit up together in as few words as I can, rendering the sense truly, and not varymg far from the words. And this have I done, not willingly to corrupt Justin, as you —
 
@@ -99,9 +98,9 @@ Evangelist.
 
 This Irenzus followeth the sense of Justinus wholly in this matter, and almost also his words, saying, that “the bread wherein we give thanks unto God, although it be of the earth, yet when the name of God is called upon it, it is not then common bread, but the bread of thanksgiving, having two things in it, one earthly, and the other heavenly*.” What meant he by the heavenly thing, but the sanctification which cometh by the invocation of the name of God? And what by the earthly thing, but the very bread which, as he said before, is of the earth; and which also, he saith, doth nourish our bodies, as other bread doth which we do use?
 
-WINCHESTER.
+## Winchester
 
-Next Justin is Irene, in the allegation of whom this author maketh also an untrue report, who hath not this form of words in the fourth book contra Valentinum, that’ “the bread wherein we give thanks unto God, although it be of the earth, yet when the name of God is called upon, it is not then common bread, but the bread of thanksgiving, having two things im it, one earthly, and the other heavenly.” This is Irene, alleged by this author, who, I sayj, writeth not in such form of words. For his words be these: “Like as the bread which is of the earth, receiving the calling of God, is now no common bread, but eucharistia, con- sisting of two things, earthly and heavenly, so our bodies, receiving eucharistia, be no more corruptible.” These be Irene’s words, where Irene doth not call the bread, “ receiving the call-
+Next Justin is Irene, in the allegation of whom this author maketh also an untrue report, who hath not this form of words in the fourth book contra Valentinum, that’ “the bread wherein we give thanks unto God, although it be of the earth, yet when the name of God is called upon, it is not then common bread, but the bread of thanksgiving, having two things im it, one earthly, and the other heavenly.” This is Irene, alleged by this author, who, I sayj, writeth not in such form of words. For his words be these: “Like as the bread which is of the earth, receiving the calling of God, is now no common bread, but eucharistia, consisting of two things, earthly and heavenly, so our bodies, receiving eucharistia, be no more corruptible.” These be Irene’s words, where Irene doth not call the bread, “ receiving the call-
 
 _ ing of God,” the bread of thanksgiving, but eucharistia; and in this eucharistia he sheweth how that, that he calleth the heavenly things3, is the body and blood of Christ, and therefore saith in his fifth book: “ When the chalice miat, and the bread broken, receive the word of God, tt ts made eucharistia, of the body and blood of Christ, of which the substance of our flesh ts stayed and increased. And how say they that our flesh is not able to receive God's gift, % who is eternal life, which flesh is nourished with the body and blood of Christ?” These be _ also TIrene’s words, whereby appeareth, what he meant by the heavenly thing in eucharistia,
 
@@ -117,7 +116,7 @@ Origenes in Maitth. Cap.
 
 (Gen. i. Ori ed. Winch.
 
-266 THE SECOND BOOK.
+## 266 the Second Book
 
 Who seeth not, that as you did before in Justin, so again in Irene, you i nothing else but mere cavillations and wrangling in words? Is not eucharistia called in English, “thanksgiving?” If it be not, tell you what it is called in English. And doth not Irene say, Panes in quo gratiw actw sunt? that is to say, “bread wherein thanks be given?” What have I offended then in Englishing ewcharistiam, “ thanksgiving?” Do not I write to Englishmen, which understand not what this Greek word, ewcharistia, meaneth? What great offence is it then in me to put it into English, that Englishmen may understand what is said? Should I do as you do, put Greek for English, and write ‘so obscurely that the Englishmen should not know the author's meaning ?
 
@@ -127,9 +126,9 @@ Now followeth Origen next in my book.
 
 Shortly after Irenzeus was Origen, about two hundred years after Christ’s ascension; who also affirmeth that the material bread remaineth, saying that “the matter of the bread availeth nothing, but goeth down into the belly, and is avoided downward; but the word of God spoken upon the bread is it that availeth’.”
 
-WINCHESTER.
+## Winchester
 
-As for Origen in his own words saith, .“ the matter of the bread remaineth;” which, as I have before opened, it may be granted, but yet he termeth it not as this author doth, to call it material bread. When God formed Adam of clay, the matter of the clay remained — . in Adam, and yet the material clay remained not; for it was altered into another sub- stance: which I speak not to compare equally the forming of Adam to the sacrament, but — to shew it not to be all one to say the material bread and the matter of bread. For the — accidents of bread may be called the matter of bread, but not the material bread, as I have somewhat spoken thereof before; but such shifts be used in this matter, notwithstanding the — importance of it.
+As for Origen in his own words saith, .“ the matter of the bread remaineth;” which, as I have before opened, it may be granted, but yet he termeth it not as this author doth, to call it material bread. When God formed Adam of clay, the matter of the clay remained — . in Adam, and yet the material clay remained not; for it was altered into another sub-stance: which I speak not to compare equally the forming of Adam to the sacrament, but — to shew it not to be all one to say the material bread and the matter of bread. For the — accidents of bread may be called the matter of bread, but not the material bread, as I have somewhat spoken thereof before; but such shifts be used in this matter, notwithstanding the — importance of it.
 
 What should I tarry much in Origen, seeing that you confess that he saith, “the matter of bread remaineth ;” and Origen saith, that “the meat which is sanctified, — juata id quod habet materiale in ventrem abit,” that is to say, “as concerning the material —
 
@@ -151,7 +150,7 @@ And yet he speaketh shortly after as plainly in the same epistle. saith he, “t
 
 In these words of St Cyprian appeareth most manifestly, that in this sacrament is not only offered very wine that is made of grapes that come of the vine, but also that we drink the same. And yet the same giveth us to understand, that if we drink that wine worthily, we drink also spiritually the very blood of Christ, which was shed for our sins.
 
-St Cyprian’s words do not impugn tr no due matter according to Christ's institution. And as the name wine must be used before the consecration to shew the truth of it then, so it may also be used for a name of it after to shew what it was; which is often used. And in one place of Cyprian by this author here alleged it appeareth, St Cyprian by the word wine signifieth the heavenly wine of the vine- yard of the Lord of Sabaoth, calling it new wine, and alluding therein to David. And
+St Cyprian’s words do not impugn tr no due matter according to Christ's institution. And as the name wine must be used before the consecration to shew the truth of it then, so it may also be used for a name of it after to shew what it was; which is often used. And in one place of Cyprian by this author here alleged it appeareth, St Cyprian by the word wine signifieth the heavenly wine of the vine-yard of the Lord of Sabaoth, calling it new wine, and alluding therein to David. And
 
 * Forasmuch,” saith he, “as Christ said, ‘I am a true é4. in fine y Christ,” Matt. xxvi.
 
@@ -167,11 +166,11 @@ Cyprian. ad Cecilium de Sacramento Dominici Calicis. Epist. uxi11. (Lib. ii. Epi
 
 [* Quomodo autem de creatura vitis novum vinum cum Christo in regno Patris bibemus, si in sacrificio Dei Patris et Christi vinum non offerimus, nec calicem Domini dominica traditione miscemus ?—Ib. p. 145.]
 
-268 THE SECOND BOOK.
+## 268 the Second Book
 
 this doth Cyprian shew in these words: “ How shall we drink with Christ new wine of the creature of the vine, if, in the sacrifice to God the Father and Christ, we do not offer wine?” Is not here mention of new wine of the creature of the vine? What new wine can be but the blood of Christ, the very wine consecrate by G'od’s omnipotency, of the creature of the vine offered? And therefore this one place may give us a lesson in Cyprian, that as he useth the word “wine” to signify the heavenly drink of the blood of Christ, made by consecration of the creature of wine, so when he nameth the bread “consecrate bread,” he meaneth the heavenly bread Christ, who is the bread of life. And so Cyprian can make nothing by those words against transubstantiation, who writeth plainly of the change of the bread by God’s omnipotency into the flesh of Christ, as shall after appear, where this author goeth about to answer to him.
 
-CANTERBURY.
+## Canterbury
 
 Cyprian’s words tend not only to shew that wine is the creature appointed to the — celebration of the mystery, but that it is also there present, and drunken in the mystery. For these be his words: ‘ It cannot be thought that Christ’s blood is in the cup, when wine is not in the cup, whereby the blood of Christ is shewed.” And again he saith: “‘ It was wine that Christ called his blood ;” and that “it is clear, that Christ’s blood is not offered, if there be no wine in the chalice.” And further he saith: “ How shall we drink with Christ new wine of the creature of the vine, if in the sacrifice -of God the Father and of Christ, we do not offer wine?” In these words Cyprian saith not, that Christ is the wine which we drink, but that with Christ we drink wine, that cometh of the vine-tree; and that Christ’s blood is not there, when wine is not there. And where is now your transubstantiation, that taketh away the wine? For take away the wine, and take away by Cyprian’s mind the blood of Christ also.
 
@@ -191,7 +190,7 @@ De consecr. “Tf thou wilt know,” saith he}, “how it ought not to seem to t
 
 Hitherto have I rehearsed the sayings. of Eusebius, which be so plain that no man can wish more plainly to be declared, that this mutation of the bread and wine into the body and blood of Christ is a sacramental mutation, and that outwardly nothing is changed. But as outwardly we eat the bread, and drink the wine with our mouths, so inwardly by faith we spiritually eat the very flesh, and drink the very blood of Christ.
 
-WINCHESTER.
+## Winchester
 
 As touching Emissene, by whose words is expressly testified the truth of the real presence Emissene. of Christ in the sacrament, and also the sense of the doctrine of transubstantiation, this author maketh himself bold over him, and so bold that he dare corrupt him; which Emissene writeth not, “that man is turned into the body of the church.” And here I make an issue with An issue. this author, that Emissene hath not that word of “turning” in that place, and man to be turned into the body of the church is no convenient speech, to signify a change in him that is regenerate by baptism. He indeed that is thrust out of the chancel for his misdemeanour in service_ time may be said turned into the body of the church. But Emissene speaketh not so here; but because the same Emissene, declaring the mystery of the sacrament, saith, “the visible _ creatures be turned into the substance of the body of Christ,” this author thought it would i sound gaily well, to the confusion of that true doctrine of turning, to speak in baptism of i the turning of a man into the body of the church. And it may be commonly observed in 286.
 
@@ -205,7 +204,7 @@ For now the author must say the change in man’s soul by baptism, to be there m
 
 And then is that evasion taken away, which this author useth in another place, of sacra- — mental change, which should be in the outward part of the visible creatures to the use of — signification. This author noteth the age of Emissene, and I note withal, how plainly he writeth for confirmation of the catholic teaching, who indeed, because of his ancient and — plain writing for declaration of the matter in form of teaching without contention, is one — whose authority the church hath much in allegation used to the conviction of such as have impugned the sacrament, either in the truth of the presence of Christs very body, or tran-— substantiation; for the speaking of the inward change doth point as it were the change of 4 the substance of bread, with resembling thereunto the soul of man changed in baptism. This one author, not being of any reproved, and of so many approved, and by this in the allegation after this manner corrupt, might suffice for to conclude all brabbling against the sacrament. q t
 
-CANTERBURY.
+## Canterbury
 
 Where I have corrupted Emissene, let the reader be judge. But when Emissene © speaketh godly of the alteration, change, and turning of a man from the congregation — of the wicked unto the congregation of Christ, which he calleth “the body of the church,” and from the child of death unto the child of God, this must be made a matter of scoffing, to “turn light fellows out of the chancel into the body of the church.” Such trifling BON AO ANE becometh ‘ ~ gaily well” godly bishops. What if in the stead of “turing” I had said “skipt over,” as the word transiluisti signifieth, which, alho peradventure the books be false and should be ¢ransisti, I have translated “ se should I have so escaped a mock, trow you? You would then have said, he that so doth, goeth not out of the Sanoel door into the body of the church, but skippeth over the stalls. But that Emissene meant of turning is clear, as well by the words that q go before, as those which go after; which I refer to the judgment of the indifferent reader.
 
@@ -221,11 +220,11 @@ Now of Hilary I write thus.
 
 Hilarius also in few words saith the same. “There is a figure,” saith he, — “for bread and wine be outwardly seen. And there is also a truth of that figure, — for the body and blood of Christ be of a truth inwardly believed'.” And this — Hilarius was within less than three hundred and fifty years after Christ.
 
-WINCHESTER.
+## Winchester
 
 But I will examine more particularities. I have before answered to Hilary, to whom — nevertheless I would aptly have said somewhat now, to note how he distincteth outwardly and — inwardly by belief and corporal sight. For outwardly, as Emissene saith, we see no change, — and therefore we see after consecration, as before, which we may therefore call bread; but we — believe that inwardly is, which, as Emissene saith, is the substance of the body of Christ, — whereunto the change is made of the inward nature of bread, as by the comparison of Emissene doth appear. 5
 
-CANTERBURY.
+## Canterbury
 
 Your distinction made here of “ outwardly” and “inwardly,” is a plain confusion of Hilarius’ mind, and contrary to that which you wrote before in Emissene. For there a
 
@@ -241,13 +240,13 @@ bread at all, how could it be meat? Tom. 11. etin
 
 ' Anacephaleosi.
 
-WINCHESTER.
+## Winchester
 
 These words of Epiphanius do plainly overturn this author’s doctrine of a figurative [Epiphentus. speech; for a figure cannot give life, only God giveth life: and the speech of this EpiphaWinch.} nius of the sacrament doth necessarily imply the very true presence of Christ's body, author of life. And then, as often as the author is overthrown in the truth of the presence, so often is he, by Zwinglius’ rule, overthrown in transubstantiation. As for the name of bread is granted because it was so, and transubstantiation doth not take away, but it is meat because of the visible matter remaining.
 
 These® sayings be sought out by this author only to wrangle, not taken out where the mystery is declared and preached to be taught as a doctrine thereof, but only signified by the way, and spoken of upon occasion, the sense whereof faithful men know otherwise than appeareth at the first readings to the carnal man: but by such like speeches the Arians impugned the divinity of Christ.
 
-CANTERBURY.
+## Canterbury
 
 Epiphanius, speaking of the bread in the Lord’s supper, and the water in baptism, saith, that they “have no power nor strength of themselves, but by Christ :” so that the bread feedeth, and the water washeth the body; but neither the bread nor water give life, nor purge to salvation, but only the might and power of Christ that is in them: and yet not in them reserved, but in the action and ministration, as it is manifest of his words. And therefore, as in baptism is neither the real and corporal presence of Christ’s body, nor transubstantiation of the water; no more is in the Lord’s supper either Christ’s flesh and blood really and corporally present, or the bread and wine transubstantiated. And therefore Epiphanius calleth not bread by that name because it was so, but because it is so in deed, and nourished* the body. As Hilary said, _ “there is a figure, for bread and wine be openly seen:” he saith not, there was a _ figure, for bread and wine were openly seen. And the figure giveth not life, nor _ washeth not inwardly, but Christ that is in the figure, tanguam signatum in signo. _ And where you be fain to say, that “accidents be meat without substance,” all the world may judge how shameful a shift this is, and how contrary to this principle of philosophy, Zz eisdem sunt et nutriuntur omnia. Oh, what absurdities you be driven unto for the defence of your papistical inventions !
 
@@ -259,7 +258,7 @@ About the same time, or shortly after, about the year of our Lord Chrysoet. in 4
 
 — aptov* cal Bpwors piv b Gptos, 1) 6& divanis év [? This, 1551.] [* Nourisheth, 1551. ]
 
-274 THE SECOND BOOK.
+## 274 the Second Book
 
 the sacrament. “Christ,” saith he, “minding to pluck up that heresy by the roots, used wine as well before his resurrection, when he gave the mysteries, as after at his table without mysteries. For he saith, ‘Of the fruit of the vine 4 which surely bringeth forth no water, but wine’.”
 
@@ -267,11 +266,11 @@ These words of Chrysostom declare plainly, that Christ in his holy table both dr
 
 AdCesarium plainly St Chrysostom declareth this matter in another Place, saying: “ The bread before it be sanctified is called bread, but when it is sanctified by the
 
-291\. means of the priest, it is delivered from the name of bread, and is exalted to the name of the Lord’s body, although the nature of bread doth still re- main*,”’
+291\. means of the priest, it is delivered from the name of bread, and is exalted to the name of the Lord’s body, although the nature of bread doth still re-main*,”’
 
 “The nature of bread,” saith he, “ doth still remain,” to the utter and manifest confutation of the papists, which say, “ that the accidents of bread do remain, but not the nature and substance.”
 
-WINCHESTER.
+## Winchester
 
 Chrysostom speaketh in this place of wine; as, Cyprian did before, against those that offer no wine, but water. Chrysostom saith thus: “ Christ used wine ;” and I grant he did so. For he did consecrate that creature, and, as Emissene saith, “turned it in the celebration and dispensation of these mysteries.” But this saying toucheth nothing the doctrine of transubstantiation. The second saying of Chrysostom, which I never read but in Peter Martyr’s book, who saith it is not printed, toucheth this author’s doctrine much, if the bread by consecration be “delivered from the name of bread, and exalted to the name of our Lord’s body.” Now consider, reader: if this manner of speech by Chrysostom here meaneth an effectual naming, to make the substance of the body of Christ present, (as Chrysostom in his public approved works is understanded of all to teach,) then is the deliverance from the name of bread of like effect, to take away the reason of the name of bread, which is the change in substance thereof. Or’ if the author will say that by the name of bread Chrysostom understandeth the bare name, how can that stand without reproof of St Paul, who, after this author's mind, calleth it bread after consecration? and so do many other by this author alleged. Here percase may be said, “ What should I reason what he meant, when he saith plainly the nature of bread still remaineth?” To this I say, that as Chrysostom, in this place of an episile not published by credit, saith “that the nature of bread remaineth:” so Cyprian, that was older than he, saith, “the nature of bread .is changed,” which Chrysostom in his other works, by public credit set Behe wc abroad, seemeth not to deny. Now the word “nature” signifieth both the substance and also hath two si sigpropriety of the nature. The substance therefore, after Cyprian, by the word of God is changed, but yet the proper effect 1s not changed, but in the accidences remain without illusion; by which divers signification and acception of the word “nature,” both the sayings of St Cyprian and St Chrysostom (if this be his saying) may be accorded, and, notwithstanding the contrariety in letter, agree nevertheless in sense between themselves, and agree with the true doctrine of transubstantiation. Add to this, how the words of Chrysostom next following this sentence, alleged by this author, and as it seemeth of purpose left here out, do both confound this author’s enterprise, and confirm the true doctrine: which words be these, “ And is not called two bodies, but one body of the Son of God.” Of Chrysostom I shall speak again hereafter.
 
@@ -283,7 +282,7 @@ Chrysostom.
 
 Dominici Corporis appellatione, etiamsi natura — panis in ipso permansit—Id, Ad Casarium Mo- — nachum. Tom. III. p. 743. The authenticity — of this book, which was brought by P. Martyr to England and given to Cranmer, is much disputed; a Latin version only being extant, with the excep- — tion of a few passages in Greek. Vid. Chrysost. Op. ed. Bened. Tom. III. p. 736. Jo. Geo. Walchius. | Bibl. Patrist. pp. 194, 295. Ed. Jenz 1834. Bur- — net’s Hist. of the Reformation, Tom. III. p. 736. — Ed. Oxford, 1829. Dupin. Eccl. Writers, Cent. V.] | ah tei
 
-CANTERBURY.
+## Canterbury
 
 The first place of Chrysostom by me alleged, you say, “toucheth not the doctrine of transubstantiation.” But you rehearse but a piece of Chrysostom’s words. For he saith not only that Christ used wine, but also drank wine in the mysteries, and the very wine of the grape. And how could then the wine be transubstantiate, except it were transubstantiate after it was drunken ? Now as touching the second part of Chrysostom, where he saith, that “the bread, when it is consecrated, is delivered from the name of bread and is exalted to the name of the Lord’s body, and yet the nature of bread doth still remain,” he meaneth that the bread is delivered from the bare name of bread, to represent unto us the body of Christ, according to his institution, which was crucified for us; not that he is present or crucified in the bread, but was crucified upon the cross. And the bread is not so clearly delivered from the name of bread, that it is no bread at all, (for he 292, saith, “the nature of bread doth still. remain,”) nor that it may not be called by the name of bread; but it is so delivered, that commonly it is called by the higher changing of name of the Lord’s body, which to us it representeth. As you and I were delivered from our surnames, when we were consecrated bishops, sithens which time we have so commonly been used of all men to be called bishops, you of Winchester, and I of Canterbury, that the most part of the people know not that your name is Gardiner, and mine Cranmer. And I pray God that we, being called to the name of lords, have not forgotten our own baser estates, that once we were simple squires. And yet should he have done neither of us wrong, that should have called us by our right names, no more than St Paul doth any injury to the bread in the sacrament,. calling it bread, although it have also an higher name of dignity, to be called the body of Christ. And as the bread, being a figure of Christ’s body, hath the name thereof, and yet is not so in deed; so I pray God, that we have not rather been figures of bishops, bearing the name and title of pastors and bishops before men, than that we have in deed diligently fed the little flock of Christ with the sweet and wholesome pasture of his true and lively word. 4 And where you allege Cyprian, to avoid thereby the saying of Chrysostom in the cyprian. _ epistle by me cited, you take Cyprian clearly amiss, as I have plainly opened here_ after in the eleventh chapter of this book*, whereunto for to avoid the tediousness of repeating, I refer the indifferent reader; unto which mine answer there, helpeth much that you grant here, that the word “nature” signifieth both the substance and also The word, _ the propriety. For in Cyprian it is not taken for the substance, as you would fain pohty __haye it, but for the property. For the substance of bread still remaining in them _ that duly receive the same, the property of carnal nourishment is changed into a spi- ' ritual nourishment, as more largely in mine answer to you in that place shall be declared. ___ And where you would somewhat relieve yourself by certain words of Chrysostom, which immediately follow the sentence by me alleged, which words be these, “that the bread after consecration is not called two bodies, but one body of the Son of God,” upon which words you would gather your transubstantiation ; how effectual your argument is in this matter, may appear by another like. Stephen Gardiner, after he . Was consecrated, was called the bishop of Winchester, and not two bishops but one bishop: ergo Stephen Gardiner was transubstantiate. And a counter laid by an auditor _ for a thousand pounds, is not then called a counter but a thousand pounds: ergo, it is transubstantiated. And the man and wife after marriage be called but one body: ergo, there is transubstantiation. This must be the form of your argument, if you will prove transubstantiation by these words of Chrysostom. _ Now come we to St Ambrose.
 
@@ -291,7 +290,7 @@ $ At the same time was St Ambrose, who declared the alteration of bread and *mbr
 
 [* See p. 308, &c.] as 18—2
 
-276 THE SECOND BOOK.
+## 276 the Second Book
 
 substance of bread and wine be gone, but that through grace there is a spiritual mutation by the mighty power of God, so that he that worthily eateth of that bread, doth spiritually eat Christ, and dwelleth in Christ, and Christ in him. » é 293. “For,” saith St Ambrose’, speaking of this change of bread into the body mysteis, of Christ, “if the word of God be of that force that it can make things of nought, initiantur,
 
@@ -299,13 +298,13 @@ substance of bread and wine be gone, but that through grace there is a spiritual
 
 And he bringeth for example hereof the change of us in baptism, wherein a man is so changed, as is before declared in the words of Eusebius, that he is made a new creature, and yet his substance remaineth the same that was before.
 
-WINCHESTER.
+## Winchester
 
 Ambrosius. St Ambrose doth not, as this author would have it, impugn transubstantiation, but confirmeth it most plainly, because he teacheth the true presence of Christ's body in the sacrament, which, he saith, is by change, and things still remaining, and that may be verified in the. outward visible matter, that is to say, the accidents remaining with their proper effects, which therefore may worthily be called things. And here I would ask this author, if his teaching, as he pretendeth, were the catholic faith, and the bread only signified Christ's body, what should need this force of God's word that St Ambrose speaketh of, to bring in the creation of the world, whereby to induce man’s faith in this mystery to the belief of it? As for the example of baptism to shew the change in man’s soul, whereof I have spoken, declaring Emissene, serveth for an induction not to lean? to our outward senses, ne to mistrust the great miracle of God in either, because we see none outward experience of it; but else it is not necessary that the resemblance shall answer in equality, otherwise than as I said afore, each part answering his convenient proportion, and as for their comparison of resemblance, baptism with the sacrament, this author in his doctrine specially reproveth, in that he cannot, I think, deny, but man by regeneration of his soul in baptism is the partaker of holiness; but as for the bread, he specially admonisheth, that it 1s not partaker of holiness by this consecration : but howsoever this author in his own doctrine snarleth himself, the doctrine of St Ambrose is plain, that before the consecration it is bread, and after the consecration the body of —
 
 Christ ; which is an undoubted ibis then to be no bread, howsoever the accidents of bread do remain.
 
-CANTERBURY.
+## Canterbury
 
 St Ambrose teacheth not the real and corporal presence of Christ's body in the — sacrament, as I have proved sufficiently in my former book, the sixty-fourth, eighty-_ first, and eighty-second leaves*, and in mine answer unto you in this book. But against transubstantiation he teacheth plainly, that after consecration not only things remain, And what is this but a flat condem-— nation of your imagined transubstantiation? For if the things changed in the sacra-— ment do still remain, and the substances of bread and wine be changed, then it followeth that their substances remain, and be not transubstantiated ; so that your untrue and crafty shift will not relieve your matter any whit, when you say, that the accidence of bread is bread, wherein all the world knoweth how much you err from the truth. And better it had been for you to have kept such sayings secret unto but also that the things changed still remain.
 
@@ -359,7 +358,7 @@ And for a plain declaration hereof, the old ancient authors give two examples. O
 
 Let now the papists avaunt themselves of their transubstantiation, that there remaineth no bread nor wine in the ministration of the sacrament, if they will defend the wicked heresies before rehearsed, that Christ is not God and man — both together. But to prove that this was the mind of the old authors, beside the saying of St Augustine here recited, I shall also rehearse divers other.
 
-WINCHESTER.
+## Winchester
 
 In the twenty-sixth leaf? this author bringeth forth two sayings of St Augustine, which when this author wrote, it is like he neither thought of the third or first book of this work. For these two sayings declare most evidently the real presence of Christ's body and blood in the sacrament, affirming the same to be the sacrifice of the church, whereby appeareth it is no figure only. In the first saying of St Augustine is written thus: “how faith sheweth me — that bread is the body of Christ.” Now whatsoever faith sheweth is a truth, and then it © Solloweth that of a truth tis the body of Christ: which speech, “bread is the body of Christ,” — is as much to say as it is made the body of Christ, and made not as of a matter, but, as Emissene wrote, by conversion of the visible creature into the substance of the body of Christ ; and, as St Augustine in the same sentence writeth, “it is bread before the consecration, and — after the flesh of Christ.” As for the second saying of St Augustine, how could it with more — plain words be written, than to say that “there is both the sacrament and the thing of the — sacrament,” which is Christ's body, calling the same the sacrifice of the church? Now if Christs body be there, it is truly there, and in deed there, which is really there: as for there in @ — jigure, were as much to say as not there? in truth and in deed, but only signified to be —
 
@@ -373,7 +372,7 @@ _ [ He have, Ibid.] [® In the real presence, Ibid.] _____[® Magister Sententia
 
 [' In the which by the rule, Orig. ed. Winch. ] | [® This author overthrow, Orig. ed. Winch. ] [? As they be, 1551.] / {* This bolt, Ibid. ] [) Vid. pp. 277, 8.] i 3 aa AGAINST TRANSUBSTANTIATION. 281 : really present in the sacrament, as the soul is in man’s body, that argument of the sacrament 298. had not two things present, so as the argument of the body and soul had, whereby to shew how two things may be together without confusion of either, each remaining in his nature: for if the teaching of this author in other parts of this book were true, then were the sacrament like a body lying in a trance, whose soul for the while were in heaven, and had no two things, but one bare thing, that is to say, bread, and bread never the holier with signification of another thing so far absent, as is heaven from earth; and therefore, to say as I probably think, this part of this second book against transubstantiation was a collection of this author when he minded to maintain Lutlier’s opinion against transubstantiation only, and to strive for bread only, which notwithstanding the new enterprise of this author to deny the real presence, is so fierce and vehement, as it overthroweth his new purpose ere he cometh in his order in his book to entreat of it. For there can no demonstration be made more evident for the catholic faith of the real presence of Christ's body in the sacrament, than that the truth of it was so certainly believed, as they took Christ's very body as verily in the sacrament, even as the soul is present in the body of man.
 
-» CANTERBURY.
+## » Canterbury
 
 When you wrote this, it is like that you had not considered my third book, wherein is a plain and direct answer to all that you have brought in this place, or elsewhere, concerning the real presence of Christ’s body and blood in the sacrament. And how slender proofs you make in this place, to prove the real presence because of the sacrifice, every man may judge, being neither your argument good, nor your antecedent true. For St Augustine saith not, that the body and blood of Christ is the sacrifice of the church; and if he had so said, it inferreth not this conclusion, that the body of Christ should be really in the bread, and his blood in the wine.
 
@@ -401,7 +400,7 @@ Similitudes may not be pressed in all points, but in the
 
 ‘him in real presence and unity of person. But in the sacrifice it is otherwise,
 
-282 | THE SECOND BOOK.
+## 282 | the Second Book
 
 veritate, sed significanti mysterio: sic sacramentum fidet, quod baptismus intelligitur, — jfides est'. “ As the heavenly bread, which is Christ’s flesh, after a manner is called — the body. of Christ, where in very deed it is a sacrament of Christ’s body, that is to say, of that body which being visible, palpable, mortal, was put upon the cross ; and as that offering of the flesh which is done by the priest’s hands, is called the passion, the death, the crucifying of Christ, not in truth of the thing, but in a sig- — nifying mystery; so is the sacrament of faith, which is baptism, faith.” These words — be so plain and manifest, that the expositor, being a very papist, yet could not avoid — the matter, but wrote thus upon the said words: Jimmolatio, que jit a presbytero, — improprie appellatur Christi passio, vel mors, vel crucifixio: non quod sit illa, sed quia illam significat®, And after he saith: Coleste sacramentum, quod vere representat Christi carnem, dicitur corpus Christi, sed improprie. Unde dicitur, suo modo, sed non rei veritate, sed significanti mysterio ; ut sit sensus, vocatur Christi corpus, id est, sig- — nificat®. “The offering which the priest maketh, is called improperly the passion, death, — or crucifying of Christ, not that it is that, but that it signifieth it.” And “the heavenly — sacrament, which truly representeth Christ’s flesh, is called Christ’s body, but impro- — perly. And therefore is said, after a manner, but not in the truth of the thing, but — in the signifying mystery: so that the sense is this, it is called the body of Christ, — that is to say, signifieth.” Now the words of St Augustine being so plain, that none — can be more, and following the other words within ten lines, so that you can allege — no ignorance, but you must needs see them, it can be none other but a wilful blind- — ness, that you will not see, and also a wilful concealing and hiding of the truth from J other men, that they should not see neither. And this one place is sufficient at full to answer whatsoever you can bring of — the presence of Christ in the sacrament of bread and wine. For after consecration — the body and blood of Christ be in them but as in figures, although in the godly — receivers he is really present by his omnipotent power, which is as great a miracle © in our daily nourishing, as is wrought before in our regeneration. And therefore is — Christ no less to be honoured of them that feed of him in his holy supper, than of — them that be grafted in him by regeneration. i: And whereas I said upon St Augustine’s words, hat “the sacrament consisteth — of two natures,” in that place I collected more of St Augustine’s words in your favour, © than indeed St Augustine saith, because you should not say that I nipped him. For St Augustine saith not, that the sacrament consisteth of two natures, and therefore — both these natures must needs remain in the sacrament; but he saith that the sacrifice — consisteth of two things, which he calleth also natures, and thereof it followeth, that those two things must be in the sacrifice, which is to be understand, in the minis-— tration, not in the bread and wine reserved. And very true it is, as St Augustine saith, that “the sacrifice of the chard , consisteth of two things, of the sacrament, and of the thing thereby signified, which is Christ’s body, as the person of Christ consisteth of God and man.” But yet } this resemblance is not altogether like, as you say truly for so much; for the per-— son of Christ consisteth so of his Godhead and manhood, they diay be both in- where neither is any such union between the sacrament and the truth of the sa-_ crament, nor any such presence of the body of Christ. For in the bread and wine 1 Christ is but figuratively, as I said before, and in the godly receivers spiritually, in whom also he tarrieth and remaineth so long as they remain the members of his - bod : But if Christ’s similitudes should be so narrowly pressed, as you press here the similitude of the two natures of Christ in the sacrament, collecting that because the 4 body and blood of Christ be truly present in the due administration of the sac
 

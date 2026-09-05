@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 27
 
-**CHAPTER 27.**
+***Chapter 27.***
 
 ## Genesis 27:1-46
 

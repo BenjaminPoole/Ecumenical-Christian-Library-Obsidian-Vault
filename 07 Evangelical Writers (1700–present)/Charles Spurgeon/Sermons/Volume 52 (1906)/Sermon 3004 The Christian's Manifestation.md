@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Christian's Manifestation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3004
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Beloved, now are we the sons of God, and it does not yet appear what we shall be; but we know that when He shall appear, we shall be like Him; for we shall see Him as He is." 1 John 3:2.
 
@@ -105,7 +102,7 @@ He is coming in Glory to dwell in the midst of His saints forever. This is our b
 
 III. Now, passing on, "We know that when He shall appear, WE SHALL BE LIKE HIM; FOR WE SHALL SEE
 
-HIM AS HE IS.
+## Him as He Is
 
 There are other passages in His Word where we are distinctly told that His manifestation will be coincident with our manifestation. Here we are told that "when He shall appear, we shall be like Him." And the reason given for this is, "for we shall see Him as He is."
 
@@ -153,7 +150,7 @@ Are decked in glorious sheen."
 
 I leave my text with you who love the Lord. As for you who do not love Him, I dare not give it to you. Oh, that you did love Him and that you did trust Him! He waits to be gracious. Seek His face and He will be found of you. Fly to Him and He will not reject you. Trust in Him and He will wash you from all your sins and bring you to His Presence in eternal Glory, to go no more out forever! May He give you this unspeakable blessing, for His love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 2; 3:1, 2.
+## Exposition by C. H. Spurgeon: 1 John 2; 3:1, 2
 
 1 John 2:1. My little children, these things I write unto you, that you sin not This is one of the great objectives of all that is written by Inspiration—that we may be kept from sin. O child of God, as you would fear to drink poison, as you would flee from a serpent, dread sin!
 
@@ -192,7 +189,6 @@ EXPOSITION BY C. H. SPURGEON: 1 JOHN 2; 3:1, 2.
 28, 29. That, when He shall appear, we may have confidence, and not be ashamed before Him at His coming. If you know that He is righteous, you know that everyone that does righteousness is born of Him.
 
 1 John 3:1, 2. Behold, what manner oflove the Father has bestowed upon us, that we should be called the sons of God: therefore the world knows us not, because it knew Him not. Beloved, now are we the sons of God and it does not yet appear what we shall be: but we know that when He shall appear, we shall be like Him; for we shall see Him as He is.
-
 
 ---
 [[Sermon 3003 A Vivid Contrast|← #3003]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3005 Silken Cords|#3005 →]]

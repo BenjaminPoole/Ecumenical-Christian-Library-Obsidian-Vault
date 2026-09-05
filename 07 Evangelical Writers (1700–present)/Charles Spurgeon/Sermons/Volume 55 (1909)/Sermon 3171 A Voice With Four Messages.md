@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # A Voice With Four Messages
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3171
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He said, Go forth, and stand upon the mount before the LORD. And, behold, the LORDpassed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind, an earthquake; but the LORD was not in the earthquake: and after the earthquake, a fire, but the LORD was not in the fire: and after the fire, a still small voice. Andit was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said, What are you doing here, Elijah?" 1 Kings 19:11-13.
 
@@ -69,7 +66,7 @@ The point I want to emphasize is this, that the reliance of the Church, under Go
 
 IV. I shall now conclude my discourse by using the text in a fourth way. I believe there was, in that still small voice,
 
-A MESSAGE TO SINNERS.
+## A Message to Sinners
 
 Now, in the scene which is here sketched by the Inspired pen, you have many things that you may well consider. The Prophet saw how the great and strong wind split the mountains and broke the rocks in pieces. He felt the earth reel beneath him and saw the valleys lifted to the hills—and the hills sunk into deep glens by the mighty forces of the earthquake. And he saw the forests on the hillsides all ablaze with fire—but God was not revealed to him in any of those terrible sights. It was only when the still small voice came that God spoke to him! And it is the same in many of those terrors that some seeking souls experience. Human nature is there. The devil is often there. But very frequently God is not there in any saving sense—so you need not, any of you, wish to feel those terrors! It is a great mercy when God brings His people to Himself by a smoother road than that. I know that some are brought to Him by that rough road and if they are, they may be thankful that they are brought to Him in any manner rather than left to perish in their sins. Yet if God, in His great tenderness to others, brings them to Himself gently, why should they regret it? Should they not be perfectly satisfied and even be doubly grateful to be saved without having to endure such trying experiences as many others have had? Beloved Friends, do not crave these experiences for yourselves, otherwise you may thereby provoke God to anger and He may chasten you in His hot displeasure. You are refusing to do what He bids you do, namely, trust His dear Son, Jesus Christ, and you are wanting Him to make you have these horrible feelings, which, if you did have them, you would be only too thankful to lose!
 
@@ -128,7 +125,6 @@ was no need for him to say, "I, even I only, am left," for there was a noble ban
 19, 20 And found Elisha, the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: andElijah passed byhim, and cast his mantle upon him. Andhe left the oxen, andran after Elijah, andsaid, Let me, Iprayyou, kiss my father andmymother, and then I will follow you. Andhe said unto him, Go back again: for what have I done to you?The Lord wants no pressed men in His service—His soldiers must all be volunteers. But Elisha was a man of a true heart and a brave spirit, so we read—
 
 21\. And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose and went after Elijah and ministered unto hi .
-
 
 ---
 [[Sermon 3170 The Novelties of Divine Mercy|← #3170]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3172 Bright Prospects for Young Believers|#3172 →]]

@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 21
 
 V. 1. new. This is the order in which that will take place which he has already spoken of by anticipation \ that he " saw one sitting on the throne, from whose face the heaven and the earth fled away;" namely, when the ungodly were judged. Then the fashion of this world will pass away by the conflagration of the supernal fires, that when the heaven and
@@ -32,8 +30,6 @@ adorned. For there is another Jerusalem which is not adorned for her husband, bu
 death. For he had said ' that death was cast into the lake of fire. For the same sentence n]ay also be understood thus, that when the holy city is glorifif at the last judgment, pain, grief, and mortality 01 remain in helL *"
 
 ■ 3St.Pt. iii. 13. • CI
-
-144 Explanation of the Apocalypse. [bk. in.
 
 6. write. These things it behoves to be believed, not explained, especially because he says, that ^^it is done" of the past, so as not to suffer any one to doubt of the future.
 
@@ -69,8 +65,6 @@ jasper. It is compared with jasper from the whiteness of virtues; to. crystal, f
 
 L
 
-146 Explanation of the Apocalypse. [bk. hi.
-
 tects the Church on every side, may be understood to be the wall, of Whom also Isaiah says, " There shall be placed in her a wall and bulwark*;" that is, the protection of the Lord, and the intercession of the saints, who make a way for Him by teaching to the heart of believers.
 
 gates. These gates are the Apostles, who primarily, either by writing, or by work, laid open to all nations an entrance into the Church.
@@ -101,8 +95,6 @@ I Cor. i. 24. k Wisd. viii. 1. Wisd. xL 20.
 
 iv. I4
 
-148 Explanation of the Apocalypse. [bk. iu.
-
 the length of faith, the breadjth of love, the hei^t of hope. And if it has but one tibe le^s- of these, there will not be the perfect stability of the Churqh.
 
 17. an hundred and fortyfour. This sum contains the square of the number twelve, for twelve tiroes twelve are an hundred and forty-four, and. itself also signifies the perfection of the holy city^
@@ -127,8 +119,6 @@ jasper. There are matiy kinds of jaspers. For one appears of a green colour, and
 
 * Isa. liv. 12. Sept, ViUg., " I will make Qiy bulwarks jasper;" A. v., "windtnra of agatet.
 
-150 Explanation of the Apocalypse. [bk. hi.
-
 sapphire. Moses set forth alike the colour and the sacrament of this stone, when in describing the appearance of God he said, " Under His feet, as it were, a work of a sapphire stone, and as the heaven when it is clear *." Ezekiel also says ", that the place in which the throne of God is, "has the likeness of a sapphire," and that the glory of the Lord consists of this colour ', which bears the image of the supercelestial; so that he who is such, is able to say with the Apostle, "But our conversation is in heaven y;" and when struck by the rays of the sun, emits a radiant brightness from himself; because the mind of the saints, which is always intent on heavenly things, in that it is diaily renewed by the rays of divine light, with more compunction in some sort, and more fervency, diligently seeks for the things eternal, and commends them to others for their seeking. For that it is said to be found in the Red Sea signifies, that by the Passion of the Lord, and the laver of holy Baptism, the minds of mortal men are raised on high, to anticipate the things of heaven.
 
 chalcedony. The chalcedony shines with a pale light, 'as of the flame of a lamp, and has its brilliancy in the open air, and not in the house. And by it are described those who rest upon a heavenly desire, and yet escape the notice of men, and who practise as in a Sjecret place their fasting, and alms, and prayers; but when they are bidden to go forth for teaching, or other necessities of the saints, shew presently how
@@ -143,8 +133,6 @@ much brilliancy they have borne within. For that which is said to resist cutting
 
 emerald. The emerald is of so exceedingly deep a green as to surpass all the green herbs, leaves, and gems, and it colours green the air reflected round, and it deservedly increases in greenness although naturally imbued with it. And there are very many kinds of this stone, but the most famous are the Scythian; the Bactrian hold the second place, the Egyptian the third. Accordingly, it represents souls always flourishing in faith, which the more they are tried by the opposition of the world, which is denoted by the cold of Scythia, strive the more to conceive in their mind by hope "the unfading and eternal inheritance which is reserved in heaven '," and extend it to their neighbours by preaching. And these also by the cup of the Lord's Passion, and the unction of St John V. 35. • I St Pet I 4,.
 
-152 ExpUmafwn of the Apocalypse. [bk. in.
-
 internal chaWty which is given through the Holy Spirit, advance toward the contempt bf 'thfe wotld. With these also the land iv)iich is the couhUy of the same stone corresponds in a beautiful maimer, a land which is TidcL but unifih^bitable. For although it is plentiful in gold and gems, the whole of it is occupied by griffons, very 'fiefce birds, or rather flying beasts. Since they ate fourfooited, and in body indeed are like lions, but in head and wit^s like eagles. The Arimaspians, who are said to be riemarkable fot a smgle eye in the middle of the forehead, fight \dth them, that they may obtain theSe stones, which these creatures seize with wonderful avidity, and the Arimaspians guard **. It was to this land, abounding in tteasittes of virtues, that the Psalmist had gone, when he said, "Behold, I fled away far off, and remained in the wilderness -^ that is, by fleeing ifar off, I withdrefw my soul froth the allurements Of the ivotld. Here he had met with the wild beasts which were opposed to hitn, when he said, tinder inspiration, *'Let the deceitful lips he made dumb, which speak iniquity against the righteous, in pride and cofitempf*." Here also he shews that he found desirable riches, in that with gladsome admonition he proceeded to add this, "How great is the abundance of Thy sweetness, O Lord, which Thou hast laid up in secret for them diat fear Thee," and the rest to the end of the Psalm. Against birds
 
 ** Herodotus relates this stoiy, iil:ii6, and says that, in the linguage of Sc3rthia, Arimaspian means * one-eyed,' bk. iv. ch. 27. PUny has exiMth^ the saine acbdnnt as Beda, Nat, ffiit, vlL 2. The Ural mountains abound in gold.
@@ -156,8 +144,6 @@ I - • - —
 of this Idnd, which desire greedily to snatch away from us the seed of the divine word, all the saitits watch with ft single intention through heavenly iesire, aS if to be admired for one eye; that they may be able to search out and dig up, the gem of faith and of all other virtues. For indeed the higher any virtue is, the fewer adnriters has it, and ^he heavier perseciiticrn does it -endure from ^nclelEin ^spitits, who like horrible griffons, are of the ^eaith in the baseness of their deserts, but of the air in the loftiness ^ their proud mind; and who strive with uniweaTied labour not to possess spiritual riches for their own use, but to take them away from men. And because such sublimity of faith has become khiown to die world through the Gospel, in 4hat there are four books of the Gospel, the emerald is fitly put -in the fourth place. 20. sardonyx. This derives iti^ whiteness from the onyx, and redness frdm ^the sard, and it has received from the two the name sardonyx. But ther^ are very maniy kinds of it: lor one preserves a likeness to red eatth; another appears to be of two colours, as the blood seines through the human nail; another ■consists of three colours, the lowest black, the middle white, 4he highest vermillion. And with this are compared men reddened through suffering of the body, white through purity of spirit, but lowly in their own eyes through humility of mind, protesting widi the Apo^e, '' Though our outward man perish, yet oin: inward man is 'renewed day by day •;"
 
 • 2 Cor. iv. ii6b
-
-154 Explanation of the Apocalypse. [bk. hi.
 
 and again, ''I know nothing against m3rself, yet am I not hereby justified ^." And so also the Psalmist says, ^^ Although man walk in the image ** of God, that is, from the power of the mind, " yet he will be disquieted in vain'," that is, firom the weakness of the flesh. This suffering also is through the weakness of the body, for they "who kill the body are not able to kill the souP;'* and humility descends from the firailness of the same body, when it is said, *'0 wretched man that I am! who shall deliver me from the body of this death*?" The sardonyx is rightly placed in the fifth foundation, for it is certain that our body depends on five senses.
 
@@ -187,8 +173,6 @@ And because this is accomplished through the gift of spiritual grace alone, the 
 
 * Ps. cxi. (ex*. A.V.) 10; Prov. i. 7, ix. 10; Etfclus. i. 16, Vulg.; Sept, Aii(r/toinJ; A.V., "fulness." p St. John vii. 38, 9.
 
-156 ExpliifUiiwn ofHu Apocalypse. [bk. hi.
-
 beryl. The beryl is as if thoa shotildest itna^ne water to be struck by the lays of the sun, and to give out a rudc^ and beautiM coloiv. But it does not shine unless it is shaped by poKshing to an hexangular form. For the reflected brightness of the angles is intensified. But it signifies men who are naturally sagacious in intellect, ^ut who shine the more by the light of heavenly grace. For that water designates the depth of understanding, Solomon is witness, who sa,ys, '^ The words oi a. man's mouth are as deep waters." But neither hunoan, nor indeed divine wisdom is of perfect brillianqy, unless the consummation of works is superadded. For perfection of action is often designated by the number six, especially as in this number the work of the world was consummated. And in that it is said to bum the hand of one who holds it, this is beyond doubt apparent, that whosoever is united to a holy man is indeed refreshed by the fire of his good conversatiMi.
 
 topaz. As the opportumty is rare for the discovery of this stone, so also is the quantity of the conmiodity scanty. It is said to have two colours, one of the purest gold, the other shining with ethereal brightness. There is a rosy plumpness, and mtodest ptirity. It is dose to the chiysoprase in siz^ or coloui^ as it is in an especial manner a lamp, •w^en it is ijtrudk by the rays of the sun, aind surpasses the most precious brilliancy df all geikis, and attracts in a 'singtikdr way the most eager desire of the eyes. And if thou wilt polish it, thou makest it dark; if
@@ -198,8 +182,6 @@ topaz. As the opportumty is rare for the discovery of this stone, so also is the
 thou wilt leave it in its own proper nature, it is radiant. This stone i^ said to. be an object of admiration to kings themselves, so that they recognise no possession like it among their riches; and the most beautiful quality of its nature is with t;h^ best reason compared with the grace of the contemplative life. For holy kings, ''whose heart is in the hand of God '," deservedly prefer this, to all the ]::iche3 of good works, and the gems of virtues; and they direct towards it most of all the glance of their pure thought, and their sight; and they embrace in their mind the more ardently the sweetness, of the spiritual life, as they more frequently receive in themselves the reflected splendour of supernal grace. Holy men, therefore, have a golden colour from the flame of internal charity; and they have also an ethereal one from the contemplation of supernal sweetness; and this often deteriorates from the whirl of the present age, as from the rubbing of a file. For in one and the same moment the mind cannot easily be tormented by earthly labours, sorrows, cares, and pains, and behold with delight, in the condition of a tranquil mind, the joys of the heavenly life. Yea, rather it proclaims this by its groans; "Mine eye," it says, "is confused, because of anger; I have gKOwn old among all mine enemies "." But that it is said to be found in an island^ of Thebes, which is named Topazion, from whence it has also received its name^ is to. be understood in two ways; namely, that those region^, that is, of thie Egyptians, abound most of all in com-
 
 ' Prov. xxi. I. ■ Ps. vij 8 (7 A. V.).
-
-158 Explanation of the Apocalypse, [bk. hi.
 
 panies of monks, and that whosoever dwells near the Sun of righteousness is indeed coloured by the brightness of ethereal light And the gem of contemplative sweetness is beautifully put the ninth in order, as the perfection of active life is the eighth; or, because nine orders of angels, whose life it imitates, are found in holy Scripture; or, because it is removed from the denarius* of perfect blessedness by the one step of death, ft was for this that the prophet panted with the greatest desire, when he said, ** Therefore I have loved Thy commandments above gold and the topaz™," that is, I was delighted with the most sweet love of Thy commandments, above all the glory of approved action, and above all the sublimity of contemplative joy, which can come to pass in this age; and *' the first and greatest of these is, *Thou shalt love the Ix)rd thy God, with all thy heart, all thy soul, all thy strength \' " But it is most certain that this can only be brought to perfection in the height of the heavenly kingdom.
 
@@ -219,8 +201,6 @@ jacinth. The jacinth is found in Ethiopia, and has an azure colour. The best is 
 
 y Prov. XXV. 3, with Heb., Sept., Vulg.; a thing/' A. V.
 
-i6o Explanation of the Apocalypse. [bk m.
-
 And this is to philosophise with caution coocenung Gody and the Man Christ; or, lest on the other hand, through the torpor of sloth, they fall back on the weak beginnings of £uth, and ''the first principles of the words of God '." Yea, rather let them walk in the pathway of the King, and go on, protected by ^^ the armour of righteousness on the right hand and on the left'," and by a fit observance of the time let them change their face with the sky, and say to. the. beholders, '' For whether we be beside ourselves, it is to God; or whether we be sober, it is for you *•." As a jacinth surrounded by a cloud, he speaks thus, '' Ye are not straitened in us, but in your own bowels;" and again, '' For I determined not to know anything among you, save Jesus Christ, and Him crucified'*." And as one seen in a serene light, he says, " But we speak wisdom among those who are perfect ^"
 
 amethyst. The amethyst is purple, mixed with a violet colour, and as it were the bloom of the rose, and it emits gently certain small flames. But there appears also to be something in its purple, which is not altogether fiery, but like red wine. So, then, the beautiful tint of the purple designates the condition of the heavenly kingdom, but that of the rose and violet, the lowly modesty and precious death of
@@ -236,8 +216,6 @@ In the jasper,Kthereforei is, represented the verdure pf faith j in the sapphire
 ' St. Lttke.xii. ^. t Acts rii. €ou
 
 ^ P.ciiL(cin A Vi) I5i - St IdatUx^vi; 29.
-
-i62 ExptatuUion of the Apocalypse. [Bit. iif.
 
 fl
 

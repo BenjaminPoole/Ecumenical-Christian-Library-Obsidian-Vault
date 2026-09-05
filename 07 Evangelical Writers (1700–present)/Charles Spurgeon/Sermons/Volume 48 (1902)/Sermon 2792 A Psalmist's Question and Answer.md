@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A Psalmist's Question and Answer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2792
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If You, Lord, should mark iniquities, O Lord, who shall stand? But there is forgiveness with You, that You may be feared." Psalm 130:3, 4.
 
@@ -118,7 +115,6 @@ So, dear Friends, you see that you can glorify Jesus Christ in cleaning plate, o
 choose, so long as it is a lawful one, nor in what line of life you may be called to move, so long as this is your firm and fixed resolve, "I will not seek the glory of self. I will not seek my own honor. I will seek the glory of God alone."
 
 My Friends, come and put your trust in Jesus! Take His blood and righteousness to be your only hope and then you may, by your blameless, honest, upright, sober, kindly Christian lives, put to silence the accusations of foolish men, or, at least take away from them any ground of accusation. Walk carefully, prayerfully, humbly before God and men, putting your trust, not in yourselves, but in Christ, alone, and you shall then find, in your experience, the best exposition of the text, "There is forgiveness with You, that You may be feared," for you will prove, by your own fear of God, which is continually before your own eyes, that His free, rich, Sovereign Grace, manifested in your pardon, did not produce in you, indulgence in sin, but gave you the sweet liberty of walking in holiness and in the fear of the Lord. God bless you all, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2791 A High Day in Heaven|← #2791]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2793 Five Divine Declarations|#2793 →]]

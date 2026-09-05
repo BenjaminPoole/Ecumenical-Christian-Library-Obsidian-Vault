@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # All Or None—or, Compromises Refused— a Sermon With Five Texts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1830
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There shall not an hoof be left behind." Exodus 10:26.
 
@@ -108,7 +105,6 @@ Now, Brothers and Sisters, you that profess to be Christians, come, stand right 
 "'Tis done! the great transaction's done; I am my Lord's, and He is mine."
 
 "My house is His and my all is His. Whether I live or die—whether I work or suffer, all that I am and all that I have shall be forever my Lord's." This is to enter into peace—this, indeed, is to be totally delivered from the power of Satan! This is to be the Lord's free man and what remains but with joyful footsteps to go onward toward Canaan, shod with shoes of iron and brass, fed with heavenly bread, guarded by the Lord, Himself, guided by His fiery-cloudy pillar, enjoying all things in Him and finding Him in all things? This is to be a Christian of the true order! The Lord make you so by faith in His dear Son! Amen and Amen!
-
 
 ---
 [[Sermon 1829 The Singular Origin of a Christian|← #1829]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1831 Smoking Flax|#1831 →]]

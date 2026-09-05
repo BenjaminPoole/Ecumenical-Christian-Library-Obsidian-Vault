@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Meno
 *trans. Benjamin Jowett*
 
@@ -19,16 +18,13 @@ tags:
 
 ---
 
-MENO
+## Meno
 
 by Plato
 
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 This Dialogue begins abruptly with a question of Meno, who asks,
 'whether virtue can be taught.' Socrates replies that he does not as yet
@@ -397,13 +393,9 @@ which is assigned to it in this work is due mainly to the desire to
 bring together in a single volume all the Dialogues which contain
 allusions to the trial and death of Socrates.
 
-
 *****
 
-
-
-
-ON THE IDEAS OF PLATO.
+## On the Ideas of Plato
 
 Plato's doctrine of ideas has attained an imaginary clearness and
 definiteness which is not to be found in his own writings. The popular
@@ -870,14 +862,9 @@ become the knowledge of 'the revelation of a single science' (Symp.),
 and all things, like the stars in heaven, will shed their light upon one
 another.
 
-
-
-
-MENO
-
+## Meno
 
 PERSONS OF THE DIALOGUE: Meno, Socrates, A Slave of Meno (Boy), Anytus.
-
 
 MENO: Can you tell me, Socrates, whether virtue is acquired by teaching
 or by practice; or if neither by teaching nor by practice, then whether

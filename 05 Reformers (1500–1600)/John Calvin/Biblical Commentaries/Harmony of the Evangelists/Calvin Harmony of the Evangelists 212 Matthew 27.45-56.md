@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 212. Matthew 27:45-56; Mark 15:33-41; Luke 23:44-49
-
-MATTHEW 27:45-56; MARK 15:33-41;  
-LUKE 23:44-49
 
 **45.** Now from the sixth hour there was darkness over the whole land [^1] till the ninth hour. **46.** And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is, My God, my God, why hast thou forsaken me? **47.** And some of those who were standing by, when they heard it, said, He calleth Elijah. **48.** And immediately one of them ran, and took a sponge, and filled it with vinegar, and fastened it to a reed, and gave him to drink. **49.** But others said, Let him alone, let us see if Elijah will come to save him. **50.** And Jesus having again cried with a loud voice, gave up his spirit. **51.** And, lo, the veil of the temple was rent in two from the top to the bottom; and the earth trembled, and the rocks were split, **52.** And graves were opened, and many bodies of the saints who had slept arose, **53.** And came out of their graves, after his resurrection, and came into the holy city and appeared to many. **54.** Now the centurion, and they who were with him guarding Jesus, when they saw the earthquake, and those things which were done, were exceedingly terrified, saying, Truly this was the Son of God. **55.** And there were there many women looking on at a distance, who had followed Jesus from Galilee, ministering to him: **56.** Among whom were Mary Magdalene, and Mary, the mother of James and Joses, and the mother of Zebedee’s sons.
 

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 69. Decade 5, Sermon 8, Part 1
 
 Now I have to entreat particularly of holy baptism, and of the holy supper of the Lord ; which may be done so much the more briefly, as we have largely spoken already of sacraments in general. Christ our Lord open your minds, and guide my tongue unto the glory and praise of his blessed name for ever !
 
 titas pollui non potest, et Sacramento suo divina virtus assistit, sive ad salutem bene utentium, sive ad perniciem male utentium. An vero solis vel etiam lucernce lux, cum per ccenosa diffunditur, nihil inde sordium contrahit, et baptismus Christi potest cujusquam sceleribus inquinari ? Si enim ad ipsas res visibiles, quibus sacramenta tractantur, animum conferamus, quis nesciat eas esse corruptibiles ? Si autem ad id quod per illas agitur, quis non videat non posse corrumpi ; quamvis homines per quos agitur pro suis moribus Tel prcemia percipiant vel poenas luant ? — August, contra Donatist. Lib. in. cap. 10. Opp. Tom. vu. fol. S3, col. 1.]
-
-352 THE FIFTH DECADE. [SERM.
 
 Baptism. Baptism is a word fetched from the Greeks, who use both these words baptismus and baptisma, (both which signify baptism), as the Latins also do ; and baptism is a dipping, which word Tertullian willingly useth1. For /3aVTa) signifieth to dip or dip in; and fiairri'^w, to plunge or put far in. Whereupon also, to baptize, is used for to plunge in, to wash away, or to cleanse ; and baptizings in the scriptures are put for washings and purifyings, as it appeareth in St Mark, the seventh chapter, and in Paul to the Hebrews, the ninth chapter. To be baptized with the same baptism, is proverbially spoken of him that is partaker of the self-same danger or misfortune2; and to be baptized with blood, is to be imbued with blood.
 
@@ -40,7 +37,7 @@ St John the apostle9, when he began to preach openly that institutcd- the time w
 
 Now baDtism consisteth of the sign and of the thins: of what
 
-• • ^ ~ things bap- signified ; of the word or promise of God and of the holy s!sst™thon" rite or ceremony. The sign is the outward action, that is, the sprinkling of water in the name10 of the Father and of the Son and of the Holy Ghost, with the calling upon of the name of God. The promise or word of God is, " baptizing them :" " He that shall believe and be baptized shall be
+• • ^ ~ things bap-signified ; of the word or promise of God and of the holy s!sst™thon" rite or ceremony. The sign is the outward action, that is, the sprinkling of water in the name10 of the Father and of the Son and of the Holy Ghost, with the calling upon of the name of God. The promise or word of God is, " baptizing them :" " He that shall believe and be baptized shall be
 
 [6 divinum, Lat. : of God.] [7 assistens, Lat.]
 
@@ -51,8 +48,6 @@ Now baDtism consisteth of the sign and of the thins: of what
 [10 in nomen, Lat.: into the name.]
 
 [bullinger, IV.]
-
-354 THE FIFTH DECADE. [sERM.
 
 saved." And so forth. Whereof we have spoken abundantly enough in the sixth sermon.
 
@@ -73,8 +68,6 @@ of time can bring any difference, especially since John spake so much, from the 
 Now whereas John saith himself, "I baptize with water, of the bapbut he shall baptize vou with the Holy Ghost :" he makcth c*™y , x ti 1/ which is also not difference between his own baptism of water and Christ's ofefirgplism baptism; but he attributeth somewhat more unto Christ, wherein no man or minister (for they did err which in time past baptized with fire) had part with him ; but he alone giveth the baptism of fire, that is, the singular gifts of the Holy Ghost; but first of all, the use of tongues under the form of fire. For so this matter is expounded in the Acts ; first by the Lord Christ himself, then by experience in the church. For the Lord saith : " Depart not from Hierusalem, but wait Actsi. for the promise of the Father, whereof, saith he, ye have heard of me. For John truly baptized with water; but ye shall be baptized with the Holy Ghost after these few days." And consequently, upon the day of Pentecost they were baptized with the baptism of Christ ; not with water again, but were all filled with the Holy Ghost ; cloven tongues, as it were fiery, sitting upon each one of their heads ; and they began to speak with other tongues. In the Acts, the citiActs viii-
 
 [3 testimoniumque exhibuit prresenti et revelato, non venturo amplius aut revefando, Lat.]
-
-23—2 o5(J THE FIFTH DECADE. [sERM.
 
 /.ens of Samaria arc baptized of Philip with the baptism of Christ in water lawfully and fully : but the very same afterward are baptized with the peculiar baptism of Christ, while by the laying on of hands by Peter and John they receive the Holy Ghost. Not that hitherto they were altogether void of the gift of the Holy Ghost (for how could they believe without the Holy Ghost ?) ; but for that they were baptized with the visible baptism of fire beside, and received the gift of tongues and other excellent graces. As it is also read of
 
@@ -106,13 +99,11 @@ Patrem et Filium et Spiritum Sanctum. — Tertull. adv. Prax. cap. 26.
 
 Tom. ir. p. 199. ed. Semler. Hal. Magd. 1824.]
 
-358 THE FIFTH DECADE. [sERM.
-
 before this1 ; that it is, to be enrolled into God's household, that he which is baptized may now receive the name of God and be called the son of God, yea, and be as it were registered into the roll of the children of God, citizens of the kingdom of heaven. Whereupon we have also names given us in baptism, that, as often as we hear ourselves named, we may remember our baptism and the mysteries thereof. Neither is it a new thing or strange from the scriptures, that names are given us in baptism ; for so it was used also in circumcision, which is to be seen in Luke, ii. chapter2.
 
 Furthermore the question is asked, Whether we ought to baptize with these bare words, " I baptize thee in the name of the Father and of the Son and of the Holy Ghost ;" or whether it be lawful to add or join something else ? I think we ought to answer, That it is the servant's duty to add nothing to his Lord's institution, but diligently to keep that which he hath delivered ; yea, and advisedly to mark what in baptism the Lord himself and his apostles did, and holily to 1 cor. xiv. imitate the same ; that in the church of God, as Paul hath commanded, all things may be done decently and in good order. But after that most holy form of baptism3 set down and delivered, we see two things in holy baptism and in the use thereof to be observed. For first, the apostles, and they that were with the apostles, did teach very significantly of the promises of God and faith in Christ ; which is apparent in the Acts of the Apostles. It is lawful therefore, in the action or ministration of baptism, to recite the promises of God, to rehearse the belief, and require faith, either of them that are to be baptized, being of perfect age, or else of them Lukeiii. which bring the infants to be baptized. Moreover, when the Lord was baptized of John Baptist in Jordan, he prayed ; which thing Luke in his gospel reporteth of him in the history of the gospel. It is lawful therefore in the use of baptism to pray, and solemnly to call upon the name of the Lord. At the first the prayers were moderate and short, not of a great length and tedious ; in process of time there was no measure kept, not only in tedious blessings, but also in divers ceremonies which they that came after added therein See page 255.] [2 See Vol. n. p. 179.] [3 of baptizing, ed. 1577.]
 
-VIII.] OF BAPTISM.
+## VIII.] of Baptism
 
 3oy unto ; of the which it shall not seem altogether unprofitable to rehearse somewhat out of the old doctors.
 
@@ -127,8 +118,6 @@ St Hierome witnesseth that wine was mingled with milk, and saith, Com. Lib. 15. 
 [6 esse repositos, Lat.]
 
 [7 ut non solum vinum cmamus (provocans), sed et lac, quod significat innocentiam parvulorum : qui mos ac typus in occidentis
-
-3G0 THE FIFTH DECADE. [sEKM.
 
 them both is given to infants, no, not of them which will seem to be zealous maintainors of the old ceremonies. They believe in the meanwhile, that their omitting of these ceremonies is without sin, and needeth no satisfaction.
 
@@ -158,8 +147,6 @@ llabanus Maurus, bishop of Mcntz, a long time following after Augustine", reckon
 
 [3 — signatur ipse homo signaculo sanctre crucis tarn in fronte quam in corde, ut ipse apostata diabolus, in vase suo pristino sua) intereinptionis cognoscens signum, jam sibi deinceps sciat illud esse alienum .... Tunc datur ei sal benedictum in os, ut per sal typicum, sapientiee sale conditus, fsetore careat iniquitatis, et nee a vermibus peccatorum ultra putrefiat Postea tanguntur ci nares et aures
 
-362 THE FIFTH DECADE. [sEUM.
-
 ■white garments, that they might now remember that they were set free, and of servants and bondslaves of the devil made the freemen of Christ Jesus. Moreover, white colour in times past was consecrated to victories and triumphs : whereby it may seem, that the white garment was therefore given to them that were baptized, that they might be mindful, that whiles they live here on earth they must continually fight, and overcome in Christ ; for the life of man is a warfare upon earth. And certainly, whereas offerings also began to be given to the baptized by the godfathers, that seemeth to have been borrowed from warfare. For by the offering or earnest (which we Switzers call Die ynbindeten1) he that is baptized is warned of his faith given in baptism, always to be mindful what a captain he forsook, and into what garrison he was entertained, wherein he must keep his faith given to the new captain Christ.
 
 Many other things of this kind, which I find among writers of this latter age, I willingly pass over, lest I should seem to abuse your patience and gentleness. And who perceivcth not, yea, that at this day other of this kind innumerable new devices are added2 to baptism? Therefore the safest and surest way is to build upon the first foundations of the blessed apostles. For if antiquity seem to bolster up the last3 invented ceremonies, who dare deny, that the authority of the apostles doth excel it many ways? For the apostles were cum saliva, et dicitur ei illud vcrbum evangelicum Epheta, quod est, adaperire ut per salivam typicam sacerdotis et tactum sapientia et virtus divina salutem ejusdem catechumeni operetnr; ut aperiantur ei nares ad accipiendum odorem notitia; Dei, ut aperiantur illi aures ad audiendum mandata Dei. Deinde benedictioue sacerdotali munitur, ut ad sacrum baptismum cum fide accepta custodiatur. Ungetur illius tunc pectus de oleo sanctificato cum invocatione sancta) Trinitatis, ut nulla? reliquia? latentes inimici in eo resideant. Cap. 27. — et sic in nomine sancta? Trinitatis trina submersione baptizatur ....
@@ -172,7 +159,7 @@ postquam statim signatur in cerebro a presbytero cum sacro chrismate, sequentc s
 
 [3 So also ed. 15S4 : but 1577, these last.] before them all which have lastly4 invented and delivered those manifold ceremonies to be used in baptism.
 
-This also cometh in question, Whether we ought to whether «e ... . .1 ,-i i ouriu to bap- baptize with bare fair water, or with consecrated water; ana tize with
+This also cometh in question, Whether we ought to whether «e ... . .1 ,-i i ouriu to bap-baptize with bare fair water, or with consecrated water; ana tize with
 
 1 ... c( r w*ter not why the Lord commanded to baptize with water, bt Cyconsecrated, prian, Epist. Lib. i. Epist. 12, saith; " The water ought to be cleansed and sanctified before of the priest, to wash away the sins of the man that is baptized 5." But the examples and testimonies of the holy scripture do more prevail with me than the authority of Cyprian, or any other man, whatsoever it be. This good man of God was also deceived in another place about the mystery of baptism6 ; so that we must read his writings with judgment. The scripture telle th us that John Baptist, and the apostles and faithful disciples of Christ, baptized with water not consecrated. For what can be spoken or read more plain, than that " John baptized in Jordan;" yea, that Christ himself and his apostles also baptized in the river Jordan ? Where or how did the apostles consecrate the water of baptism in the Acts of the Apostles ? Philip, when the eunuch shewed him water as they journeyed, he baptized him out of that pure and clear fountain. Beside this, I have declared in the sermon next going before, how little pureness is in common form of baptism, whereby the font is consecrated. But if any man think that we ought to baptize with consecrated or holy water, and by consecrated do neither understand anointed or prepared with crosses7 or sanctified with charms, but chosen to holy uses, I would stand in contention with him never a whit. For the water of baptism in very deed is holy, not in respect of the words rehearsed, or by crosses and other signs made ; but because God hath instituted it, and in respect of the holy use and prayers of the godly. Of which matter I spake not long ago, when I entreated of the sanctification or consecration of the sacraments.
 
@@ -187,8 +174,6 @@ Lord commanded to baptize with
 [6 Bullinger doubtless refers to the sentiments of Cyprian on tho re-baptizing of those who had been baptized by heretics.]
 
 [7 characteribus, Lat.]
-
-3GI THE FIFTH DECADE. [sERM.
 
 for divers causes. For types or figures went before baptism in water ; as the flood, as the Red sea through which the people of Israel passed, as divers cleansings and set washings mentioned in the law. Neither do the apostles of Christ dis- i ret. iii. semble those things. For Peter saith, that Noe was saved in the water of the flood, but the wicked drowned in the water.
 
@@ -216,8 +201,6 @@ tism : Whether it be not lawful to baptize in any other place than in the church
 
 [5 So also ed. 1584: but 1577, testimonies.]
 
-3GG THE FIFTH DECADE. [sERM.
-
 The time of Touching the time, there is no law prescribed of the Lord:
 
 baptism. that ig left free tQ the judgment of the godly. They that believed the preaching of St Peter at Hierusalem in the day of Pentecost, the eunuch also whom Philip baptized, and Cornelius the centurion likewise, finally, Paul the apostle at Damascus, yea, and Lydia the purple-seller, a religious or devout woman, and the keeper of the prison, they of Philippos also1, and other faithful men or women, as soon as they had tasted of the gifts and graces of Christ and believed his word, forthwith they desired to be baptized : they did not foade it off2 till another next time. Wherefore they do very well, which neither in themselves nor in their families do linger in receiving baptism. The delaying of circumcision in his children fell not out well unto Moses. As therefore we grant, that the time of the baptism3 is free, so it ought to be our duty to take heed that we abuse not our liberty ; being Gen.xvii. always mindful of these words spoken by God : " The uncircumcised man-child, in whose flesh the foreskin is not circumcised, that soul shall be cut off from his people, because he hath broken my covenant." But we are not ignorant that baptism came into the place of circumcision. Therefore the omitting of baptism is not free. There were some in the time of Cyprian which held opinion, that baptism ought to be received on the eighth day, after the manner of circumcision. But Cyprian, and the sixty-six bishops and elders that were with him in the council, ordained the contrary ; to wit, that every one without any delay should receive baptism, and procure the same speedily in their family. That place is extant, Epist. Lib. iii., Epist. viii.4 Furthermore, Socrates the
@@ -238,15 +221,13 @@ The baptizer givcth visibly the sacrament of regeneration, what the and a testim
 
 [7 See Concil. Matiscon. n. Labb. et Coss. Tom. v. col. 9S1. Mogunt. Tom. vn. col. 1242. Parisians, vr. Tom. vn. col. 1603. Wormatiens. Tom. vni. col. 945.]
 
-368 THE FIFTH DECADE. [SERM.
-
 the regeneration. John and the apostles baptize with water : Christ baptizeth with the Holy Ghost ; not only with the visible sign of fire and the gift of tongues, but even he only giveth all spiritual gifts. Which thing the ancient fathers that they might expressly declare, did diligently distinguish between power and ministry. For Augustine, Tract, in John v. saith : " It is one thing to baptize in way of ministry, another thing to baptize by power. Our Lord Jesus Christ could, if he had would, have given power to any one servant to give his baptism, as in his stead ; and could translate or remove from himself power to baptize, and place it in one of his servants, and give as great force to baptism being translated or removed into his servant, as it should have being given by the Lord. He would not do so for this purpose ; that the hope of them which were baptized should hang on him, of whom they acknowledge themselves to be baptized. He would not therefore that a servant should settle his hope in a servant. And therefore cried the apostle, when he saw men willing to put their hope and trust in him : ' Was Paul crucified for you ? Or were ye baptized in the name of Paul P*1 Paul therefore baptized as a minister, not as the power itself; but the Lord Johni. baptized as the power." And again : "John Baptist learned by the dove, ' Upon whomsoever thou shalt see the Spirit descending, like unto a dove, and tarry still upon him, the same is he which baptizeth with the Holy Ghost.'' Therefore, O dove, let not deceivers seduce thee, which say, We baptize. 0 dove, acknowledge what the dove taught : ' The same is he which baptizeth with the Holy Ghost."' By the dove it is known that it is he ; and dost thou think that thou art baptized by his power, by whose ministry thou art baptized ? If thou be of that mind, thou art not yet in the body of the dove ; and if thou be not in the body of the dove, it is no marvel because thou hast not simplicity ; for simplicity especially is Traesimpiifigured by the dove. John learned by the simplicity of the city' dove, that this is he which baptizeth with the Holy Ghost1."
 
 Thus far he.
 
 [J Aliud est baptizare per ministerium, aliud baptizavo per potestatcm .... Potuit autem Dominus noster Jesus Christus, si vol let, dare potcstatem alicui servo suo, ut daret baptismum suuni tanquam vice sua, et transferret a se baptizandi potestatem, et constitueret in aliquo servo suo, et tantam vim daret baptismo translato
 
-VIII ] OF BAPTISM. 3G9
+## VIII ] of Baptism. 3g9
 
 Furthermore, the minister of the church, being lawfully whoshomu
 
@@ -259,8 +240,6 @@ ordained, ought to baptize. The Donatists contend, that none can baptize but he 
 [3 Videte quam perverse et impie dicatur quod diccre soletis ; quia r i 24
 
 [bullinger, iv.j
-
-870 THE FIFTH DECADE. [SERM.
 
 Literas Petiliani1, cap. 49, doth plentifully set forth the same matter. And because we have also handled the same thing in the end of our former sermon next before this, it is needless to speak one thing twice. Whether Here is a question objected unto us, touching the baptism may baptize, of midwives; Whether women midwives upon the point ot necessity, that is, when the infant is in jeopardy to die before he come to be baptized at the hands of the ecclesiastical minister, ought and may baptize ? We answer, that baptism is a sacrament of the church, and that women are forbidden to minister in the church ; therefore that they neither can nor ought to baptize, as they are by no means permitted to teach. iTim.ii. The laws of the apostle are well known. " But I suffer not a woman," saith Paul, "to teach, neither to usurp authority over the man, but to be in silence." The same law is repeated of the same apostle, the first to the Corinthians and fourteenth chapter, and is confirmed by God's law. Man's testimonies agree with God's. For Tertullian, in his book De Velandis Virginibus, saith : " It is not permitted unto a woman to speak in the church, much less to teach or to baptize, nor to offer ; neither to take to herself the execution of any man's office, much less the priest's2." This also is read repeated in the fourth council of Carthage3, where also Aurelius Augustine is said to have been present. Epiphanius, bishop of Salome4 in si bonus sit homo, ipse sanctificat eum quem baptizat; si autem malus sit, et nesciat ille qui baptizatur, tunc Deus sanctificat. Hoc si verum est, optare ergo debent homines ut a malis ignoratis baptizentur potius quam a notis bonis, ut magis a Deo quam ab homine possint sanctificari. Sed absit a nobis ista dementia. Quare ergo non verum dicimus et recte sapimus, quia semper Dei est ilia gratia et Dei sacramentum ; hominis autem solum ministerium : qui si bonus est, adhrerct Deo et operatur cum Deo ; si autem malus est, operatur per ilium Deus visibilem sacramenti formam, ipse autem donat invisibilem gratiam. Hoc sapiamus omnes, et non sint in nobis schismata. — Aug. Epist. 16G. Opp. Tom. n. fol. 146. col. 3. Par. 1531.]
 
@@ -292,9 +271,9 @@ Lib. ii. hser. xxix. sive xlix. p. 418.]
 
 24—2
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Of salvation of infants departing without baptism.
 
@@ -309,8 +288,6 @@ Thou sayest, These testimonies of the old Testament pertain nothing to us, which
 Wherefore I, trusting to God's mercy and his truth and undoubted promise3, believe that infants, departing out of this world by too too timely4 death, before they can be baptized, are saved by the mere mercy of God, in the power of his truth and promise through Christ, who saith in the gospel : " Suffer little ones to come unto me ; for of such is the kingMarkx.
 
 [3 So also ed. 1584: but od. 1577, true and undoubted promise; veraci et indubitatfe promissioni, Lat.] [4 prpepropera, Lat.]
-
-374 THE FIFTH DECADE. [sERM.
 
 Matt. xvui. dom 0f God:" again: " It is not the will of my Father which is in heaven, that one of these little ones should perish." For
 
@@ -332,8 +309,6 @@ With Pelagius and Pelagians we have nothing to do : The Peia- o o p gians deny n
 
 [4 So ed. 1584 : but ed. 1577, granted.]
 
-376 THE FIFTH DECADE. [SERM.
-
 that infants are inthralled to original sin, and yet nevertheless are saved though they be not baptized. Against whom he bringcth forth this saying of our Saviour : " Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God1." But we, which condemn both Pelagius and Pelagians, do affirm both those things which they deny ; to wit, that infants are born in original sin, and therefore that the sanctification of Christ is necessary unto them, without which they are not saved. Again we defend and maintain, that the same infants ought to be baptized, if it be possible, though by the right of the covenant they belong to the body of Christ and are sanctified by the blood of Christ. Pelagius taught, that infants ought not to be baptized; for that, he held opinion, they are without all fault, or any sin, blame, and offence. That wicked and ungodly man therefore did not acknowledge either our own corruption, or the benefit which God hath performed by, in, and through Christ. Yet canst thou find neither of these in our assertion and doctrine ; wherefore we take no part with the Pelagians. St Augustine, in that selfsame epistle unto St Hierome, expressly saith : " Thou art none of them which say, that there is no guilt drawn from Adam, from which the infant should be washed by baptism2." And against Julian also, Lib. i. cap. 2,3 he proveth by the sentences of the holy fathers, that infants have original sin4; and thereupon gathereth, that therefore infants ought to be baptized, because they have sin. For the Pelagians gathered clean contrary : They have no sin, therefore they are not to be baptized. For the council of Carthage writeth thus to Innocent : " The Pelagians deny that infants are to be baptized : for these, say they, perished not, neither is there anything to be saved ; because there is nothing in them that is corrupt or wicked, &c.5" But we, insomuch as we
 
 [! Aug. Opp. Tom. vir. fol. 236. col. 1.]
@@ -354,8 +329,6 @@ inquiunt, isti non pcrierant, nee est quod in eis salvetur . . . quia nihil est 
 
 [8 from having — with Christ, not in Lat.]
 
-378 THE FIFTH DECADE. [sERM.
-
 TheexposiThe place of Gen. xvii., alleged of cutting; off the uncir- tionofthe r °. , ° place "The cumciscd from the people of God, in consideration of the time, soul of the i i cUe^S'be ** ^^7 agrccth to those that are of perfect age and well grown cm 08." jn yearSj an(i nofc t0 babes or infants; which thing is seen in Moses, whom the angel of the Lord, for neglecting circumcision, or for delaying it longer than was lawful, would have slain1, as he testifieth of himself: neither am I ignorant that certain old interpretators2 refer that not to Moses, but to Eleazar the son of Moses. But the very course of the history and the circumstances of the same do sufficiently prove, that the danger lay on the father's, and not on the son's neck. What if a reason be added in the words of the law, which by no means agreeth to infants ? " Therefore shall the uncircumcised perish," saith he, " because he hath broken my covenant." So that if we consider that circumcision in the very same place was commanded not only to infants, but to such as were of perfect age, as to Abraham, Ismael, and others desiring visibly to be joined into the fellowship of God ; we are not to marvel that destruction is threatened to the disobedient. For if any man at this day understand and know the Lord's ordinance comprehended in his words3, " He which shall believe and be baptized shall be saved," will yet nevertheless not be baptized, but boasteth that faith is sufficient for him unto salvation, that baptism is superfluous ; he hath despised the ordinance of God, and is condemned for a rebel and an enemy4 to God. The exposiFurthermore, that place of John iii. is not to be under- pTace°, "Exstood of the outward sign of the holy baptism5, but simply of be born of the inward and most spiritual regeneration of the Holy Spirit ;
 
 water, &c. r ° J r '
@@ -366,19 +339,17 @@ John iii. which when JSTicodemus understood not perfectly, the Lord figured and 
 
 [2 Tertullian adv. Jud. cap. 3. Augustin. Qurest. in Exod. J 11.] [3 So ed. 1584: but ed. 1577, these his words; his ejus verbis, Lat.] [4 non amico, Lat. omitted : and for one who is not a friend.] [5 So also ed. 1584: but ed. 1577, of holy baptism.]
 
-VIII.] OF BAPTISM. S79
+## VIII.] of Baptism. S79
 
-Furthermore he addeth : " If I tell you of earthly things, and ye believe not ; how will you believe, if I tell you of heavenly things?" But the argument which he put forth was not altogether earthly ; for this is the argument of his whole disputation : " Except a man be born from above6 he cannot see the kingdom of God:" that is to say, unless a man be renewed, and as it were born again by the Spirit of God, which is given from above, that is to say, poured into him from heaven, he cannot be saved. The doctrine is altogether heavenly ; but the means whereby he delivered, declared, and set forth this heavenly doctrine, is earthly. For by things taken from the earth he shadowed out to man, being gross of understanding and earthly, a spiritual and heavenly thing, and laid it open as it were even to the view of his eyes. As by water and air oftentimes the qualities of bodies are changed, and as the effect and working of water and the air in bodies is marvellous ; in like manner is the working of the Holy Ghost in the soul of man, which it changeth, purifieth, and quickeneth, &c. For so the Lord himself afterward (which I told you even now) expoundeth another parable of the Spirit. And because all old writers, for the most part, by water have understood sacramental water, that is to say, holy baptism, we also receive this interpretation. For we willingly grant that baptism is necessary to salvation, as well in such as are of perfect age as also in babes or infants, so that necessity constrain not the contrary. For otherwise, if we go forward stubbornly with St Augustine to condemn infants by this place, truly we shall be compelled also to condemn even those that are baptized, if they depart this life without partaking of the body and blood of Christ. For St Augustine, being infected with theDepecca- i p i x torum me- like error, defendeth that the sacrament ot the Lord s supper ritisetreought to be put into the infants' mouth, or else they are ™). l cap. in danger of death and damnation8, because it is written : " Except ye eat the flesh of the Son of man, and drink his John vi.
+Furthermore he addeth : " If I tell you of earthly things, and ye believe not ; how will you believe, if I tell you of heavenly things?" But the argument which he put forth was not altogether earthly ; for this is the argument of his whole disputation : " Except a man be born from above6 he cannot see the kingdom of God:" that is to say, unless a man be renewed, and as it were born again by the Spirit of God, which is given from above, that is to say, poured into him from heaven, he cannot be saved. The doctrine is altogether heavenly ; but the means whereby he delivered, declared, and set forth this heavenly doctrine, is earthly. For by things taken from the earth he shadowed out to man, being gross of understanding and earthly, a spiritual and heavenly thing, and laid it open as it were even to the view of his eyes. As by water and air oftentimes the qualities of bodies are changed, and as the effect and working of water and the air in bodies is marvellous ; in like manner is the working of the Holy Ghost in the soul of man, which it changeth, purifieth, and quickeneth, &c. For so the Lord himself afterward (which I told you even now) expoundeth another parable of the Spirit. And because all old writers, for the most part, by water have understood sacramental water, that is to say, holy baptism, we also receive this interpretation. For we willingly grant that baptism is necessary to salvation, as well in such as are of perfect age as also in babes or infants, so that necessity constrain not the contrary. For otherwise, if we go forward stubbornly with St Augustine to condemn infants by this place, truly we shall be compelled also to condemn even those that are baptized, if they depart this life without partaking of the body and blood of Christ. For St Augustine, being infected with theDepecca- i p i x torum me-like error, defendeth that the sacrament ot the Lord s supper ritisetreought to be put into the infants' mouth, or else they are ™). l cap. in danger of death and damnation8, because it is written : " Except ye eat the flesh of the Son of man, and drink his John vi.
 
 [6 e supernis, Erasmus's rendering: and Auth. Ver. marg.]
 
-[7 The title of the chapter is, Eucharistia etiam infantibus neces- saria ut baptismus. — August. Opp. Tom. vn. fol. 136. col. 4. Par.
+[7 The title of the chapter is, Eucharistia etiam infantibus necessaria ut baptismus. — August. Opp. Tom. vn. fol. 136. col. 4. Par.
 
 1531.]
 
 [8 de vita periclitaturis, Lat.: or else they are brought into danger as to life.]
-
-380 THE FIFTH DECADE. [sERM.
 
 blood, ye have no life in you." Therefore after this same order he placeth these two sentences : " Except a man be born of water and of the Spirit, he cannot see the kingdom of God ;" and, " Except ye eat the flesh of the Son of man," &c. So that if thou persist obstinately in St Augustine's sentence, verily thou wilt condemn the whole church at this day, which denieth the partaking of the Lord's supper unto infants. But if in this thing there be admitted a convenient interpretation, why are ye so rigorous and obstinate in another and the like place and cause not disagreeable ?
 
@@ -402,8 +373,6 @@ past and our age there hath been bitter jarring, relagius in time past denied th
 
 [6 Tunc impletur (baptismus) invisibiliter, cum mysterium baptismi non contemptus religionis, sed articulus necessitatis excludit. — Aug. de Baptismo contra Donat. Lib. iv. cap. 22. Opp. Tom. vu. fol. 88. col. 3. Par. 1531.]
 
-382 THE FIFTH DECADE. [SERM.
-
 heard even now. Before Pelagius' time, Auxentius Arianus, with his sectaries, denied that they are to be baptized1. Some in the time of St Bernard denied the same, as we may gather out of his writings2. The anabaptists at this day, a kind of men raised up of Satan to destroy the gospel, deny it likewise3. But the catholic truth, which is delivered unto us in the holy scriptures, doth simply pronounce, that all they are to be baptized whom God acknowledgeth for his people, and giveth sentence that they are partakers of purification or sanctification or remission of sins. For in all this treatise concerning the sacraments I have already and do now shew, that baptism is a badge or cognisance of the people of God, and an assured token of our purification by Christ. Therefore since the young babes and infants of the faithful are in the number or reckoning of God's people, and partakers of the promise touching the purification through Christ ; it followeth of necessity, that they are as well to be baptized, as they that be of perfect age which profess the christian faith, who be the But there is a busy disputation begun, Who be the people
 
 SocT. e c of God, and partakers of remission of sins by Christ ? So that the disputation is touching the secret election of God, and other hard questions depending on this thing. But briefly and simply we can rid our hands of this. "We say, that the people of God are acknowledged either by men's confession of the christian faith, or else by the bountiful promise of God. By men's confession ; for we acknowledge them to be the children of God, who, being now grown to perfect age, do openly confess the true God, that God is their God, and that Jesus Christ is their Saviour. But that confession is either unfeignedly or hypocritically made : unfeignedly, as when St Peter saith, " Thou art Christ, the Son of the living God ;" when the eunuch saith, " I believe that Jesus Christ is the Son of God :" but hypocritically, as when Simon Magus in the Acts of the Apostles saith, that he believeth in Jesus Christ. But whether a man believe unfeignedly or hypocritically,
@@ -420,8 +389,6 @@ Furthermore, by the free and bountiful promise of God, not only by the confessio
 
 [5 Vol. ii. pp. 171—182.]
 
-384 THE FIFTH DECADE. [sERM.
-
 that Christ came to fulfil the promises of God, and not to break them. And therefore the Lord in the gospel speaketh of infants, that is to say, which have not as yet confessed the faith, and saith : " Suffer little children to come unto me, and forbid them not ; for of such is the kingdom of God.1' And though it be said " of such," and not "of those;" yet no man is so ignorant, but understandeth, there is a likeness between those things which are compared between themselves. Therefore if the kingdom of God belongeth unto them that are of perfect age, because they are become like little children ; surely it followeth of necessity, that the inheritance of the kingdom of heaven belongeth also to infants or little children. For it followeth in the gospel : " Whosoever shall not receive the kingdom of God as a little child, he shall in no wise enter therein." Therefore it behoveth the heirs of the kingdom of God to be first infants or little children. And who knoweth not, that no man, unless he be sanctified and purified, shall enter into the kingdom of heaven ? Children enter into the kingdom of God : therefore they are purified, to wit, by the grace of God. For by their nature and birth they are unclean, and sinners ; but for Christ's sake they are purified, who said, " That he came to seek and save that which was lost.1' Paul also expressly testifieth, that " by the sin of one, Adam, sin came on all men unto condemnation ; and that by the righteousness1 of one, Christ, good came upon all men to the righteousness1 of life." Therefore it is certain, that infants are partakers of purification and remission of sins through Christ, albeit they do not confess remission of sins. What, doth not the Lord say in the gospel, " It is not the will of your Father which is in heaven, that one of these little ones should perish ?" Again: " He that shall receive such a young child in my name, receiveth me ; but he that shall offend one of these little ones that believe in me, it were better that a millstone were hanged about his neck," &c. See therefore and " take heed, that ye despise not one of these little ones : for I say unto you, that their angels in heaven do always behold the face of my Father which is in heaven." Behold, what could be more manifestly spoken ? It is not the will of my heavenly Father, that infants should perish. Therefore he receiveth them freely into grace and favour, though they have [} justificationem, Lat.] not yet confessed. Moreover, he that receiveth such a little one, to wit, as he himself set in the midst of them, for Christ's sake, he is said to receive Christ himself. Lo, he attributeth to the receivers of infants that which he promised to the receivers of the prophets, lie addeth : "But he which shall infants conoffend one of these little ones that believe in me." He maniUeving. r festly calleth the little ones, not yet able to confess, believers, because he reputeth them of his grace for believers. Neither is this any wonder or strange thing, since God, yea to them that are of perfect age, imputeth faith for righteousness. For in all points righteousness, acceptation, or sanctification, is free and imputative, that the glory of his grace might be praised. Furthermore, his will is that little ones should not be despised, much less to be cast out among 2 the number of the saints. Yea, he doth affirm that angels are given unto them to be their keepers, who though they be ministers of God's majesty, yet the selfsame are given and granted to little children to be their guard : so that hereby3 we may judge what great store the Lord setteth by infants, and learn not to wipe them out of the score of God's people, to whom the inheritance of life is due. We attribute nothing here to the birth which is after the flesh, but all things to the grace and promise of God. Now it is evident by all the4 testimonies, that as well the infants of the faithful are to be baptized, as also those that are of perfect age, confessing the faith.
 
 Now on the contrary part the anabaptists do contend, that By what arnone is to be baptized, but he alone which both is able to be InabaptUs6 taught, and to believe, yea, and make confession of his faith infants ought
@@ -429,8 +396,6 @@ Now on the contrary part the anabaptists do contend, that By what arnone is to b
 111/. It m . n0t t0 De also. And tor confirmation of this thing they bring these baptized, sayings of our Saviour : out of St Matthew, " Go ye therefore, and teach all nations, baptizing them in the name of the Father," &c. : out of Mark, "Go ye into the whole world, and preach the gospel to all creatures : he which shall believe and be baptized, shall be saved," &c. Behold, say they, teaching goeth before baptism ; therefore they that are not able to be taught ought not to be baptized. Furthermore, to believe goeth before, and to baptize followeth after : infants do not believe, therefore they are not to be baptized. Upon all these they heap up out of the Acts of the Apostles ex^
 
 [2 e numero, Lat. : from among.] [3 vel inde, Lat. : hereby also.] [4 So also ed. 1584 : but ed. 1577, all these : ex his omnibus, Lat.] r , 25
-
-38G THE FIFTH DECADE. [sERM.
 
 amples, which prove that the faithful, that is to say, they that confess the faith, were baptized of the apostles. They reckon up also the newlyinstructed Christians1 of the old time, to whom, say they, there had been no place given, if they had baptized infants. I answer : If the order of the words make any thing in this matter, we also have in a readiness to serve our turn. For in Mark thus we read : " John baptized in the desert, preaching the baptism of repentance ; " in which place we see, that to baptize goeth before, to preach followeth after. Yea, I will shew also that that place, which they allege out of Matthew for themselves, maketh also for us. For Matthew's words be these : " All power is given unto me both in heaven and in earth," saith the Lord. " Go therefore," and naOt'iTevactTe, that is to say, discipulate, (that I may so speak ;) that is, make ye me disciples, or gather together all nations. Yea, he teacheth them also the way and means how to gather disciples unto him out of all nations, or all nations, by baptizing and teaching them. By baptizing and preaching ye shall gather me together a church. And he setteth out both of them severally one after another, sweetly and shortly, saying : " Baptizing them in the name of the Father and of the Son and of the Holy Ghost ; teaching them to observe all things which I have commanded you." JNow therefore baptism goeth before teaching. But we do not thereby gather, that those nations, which never heard anything before of God and the Son of God and the Holy Ghost, are to be baptized ; neither would the apostles have borne that : but we allege these things, to declare upon how fickle a foundation the anabaptists do build. And we simply say, that it is not true which these men imagine, that the Lord commanded his apostles to baptize them only whom they taught. Neither doth he here point out who are to be baptized in the whole world2; but he speaketh of them that are of perfect age, and of laying the first foundations of faith and of the church among the gentiles, being rude as yet and ignorant altogether in religion. They that are of perfect age are able to hear preaching or teaching : infants are not so. They that are of perfect age are able to believe and confess : infants are not so. Therefore he speaketh nothing here of infants. Yet
 

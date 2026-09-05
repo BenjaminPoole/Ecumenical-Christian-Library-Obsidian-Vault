@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Protagoras
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-PROTAGORAS
+## Protagoras
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Protagoras, like several of the Dialogues of Plato, is put into the
 mouth of Socrates, who describes a conversation which had taken place
@@ -507,18 +502,13 @@ Socrates is not merely a hasty assumption, but may be also deemed an
 anticipation of some 'metaphysic of the future,' in which the divided
 elements of human nature are reconciled.
 
-
-
-
-PROTAGORAS
-
+## Protagoras
 
 PERSONS OF THE DIALOGUE: Socrates, who is the narrator of the Dialogue
 to his Companion. Hippocrates, Alcibiades and Critias. Protagoras,
 Hippias and Prodicus (Sophists). Callias, a wealthy Athenian.
 
 SCENE: The House of Callias.
-
 
 COMPANION: Where do you come from, Socrates? And yet I need hardly
 ask the question, for I know that you have been in chase of the fair

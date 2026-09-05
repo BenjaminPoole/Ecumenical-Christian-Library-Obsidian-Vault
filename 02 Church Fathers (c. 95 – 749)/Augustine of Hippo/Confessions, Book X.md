@@ -219,7 +219,7 @@ Having manifested what he was and what he is, he shows the great fruit of his co
 
 ## Chapter 38. Vain-Glory is the Highest Danger.
 
-63. I am poor and needy, yet better am I while in secret groanings I displease myself, and seek for Your mercy, until what is lacking in me be renewed and made complete, even up to that peace of which the eye of the proud is ignorant. Yet the word which proceeds out of the mouth, and actions known to men, have a most dangerous temptation from the love of praise, which, for the establishing of a certain excellency of our own, gathers together solicited suffrages. It tempts, even when within I reprove myself for it, on the very ground that it is reproved; and often man glories more vainly of the very scorn of vain- glory; wherefore it is not any longer scorn of vain- glory whereof it glories, for he does not truly contemn it when he inwardly glories.
+63. I am poor and needy, yet better am I while in secret groanings I displease myself, and seek for Your mercy, until what is lacking in me be renewed and made complete, even up to that peace of which the eye of the proud is ignorant. Yet the word which proceeds out of the mouth, and actions known to men, have a most dangerous temptation from the love of praise, which, for the establishing of a certain excellency of our own, gathers together solicited suffrages. It tempts, even when within I reprove myself for it, on the very ground that it is reproved; and often man glories more vainly of the very scorn of vain-glory; wherefore it is not any longer scorn of vain-glory whereof it glories, for he does not truly contemn it when he inwardly glories.
 
 ## Chapter 39. Of the Vice of Those Who, While Pleasing Themselves, Displease God.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Spiritual Resurrection
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2554
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when He thus had spoken, He cried with a loud voice, Lazarus, come forth. And he that was dead came forth, bound hand and foot with grave clothes: and his face was bound about with a napkin. Jesus sail unto them, Loose him, and let him go." John 11:43, 44.
 
@@ -94,7 +91,6 @@ Farewell to you, my Hearers, for this night. I shall never meet some of you agai
 "Prepare me, Lord, for Your right hand, Then come the joyful day! Come death and some celestial band, To bear my soul away."
 
 But another says, "I will not enter this Chapel again! I will never listen to that man again! I will never again hear his voice." Good-bye, my Friend. I hope you will hear someone who will be as faithful to you and if you find a man who loves you more, or would suffer more for your sake, go and hear him! And God bless him to your soul! But one says, "I will hear no more of this matter! It is cant. It is nonsense. I will not turn." Ah, my Hearer, if I see you going to destruction and you know it not, it is none the less destruction because you do not see it! But another says, "This night I will give myself to Jesus, for I know I need life. I lie down, a corpse, and though I cannot move, I know that when He passes by, He will give me life." Go! God has something for you! Go and fall before Him! You shall have life bestowed upon you—go and accept it! For, wherever there is a "now," i t is of God. The Holy Spirit says, ' 'Today, if you will hear His voice, harden not your hearts."
-
 
 ---
 [[Sermon 2553 The Enemies of the Cross of Christ|← #2553]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2555 The Stronghold|#2555 →]]

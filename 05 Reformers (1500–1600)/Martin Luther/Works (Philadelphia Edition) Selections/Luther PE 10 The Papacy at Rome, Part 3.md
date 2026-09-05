@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 10. The Papacy at Rome, Part 3
 
 treatise. In order go gain the necessary leisure for its
@@ -131,11 +130,11 @@ Nobility*.
 
 [83] Of the German treatise.
 
-INDEX
+## Index
 
-SCRIPTURE REFERENCES
+## Scripture References
 
-INDEX
+## Index
 
 Aaron
 
@@ -1565,9 +1564,9 @@ Zedekiah
 
 Zwölfbote
 
-SCRIPTURE REFERENCES
+## Scripture References
 
-OLD TESTAMENT
+## Old Testament
 
 Genesis--
 
@@ -2095,7 +2094,7 @@ Malachi--
 
 3:17
 
-APOCRYPHA
+## Apocrypha
 
 Esther 14:10
 
@@ -2147,7 +2146,7 @@ Prayer of Manasseh--
 
 7
 
-NEW TESTAMENT
+## New Testament
 
 Matthew--
 

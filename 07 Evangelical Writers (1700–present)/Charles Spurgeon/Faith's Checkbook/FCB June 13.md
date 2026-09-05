@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 13
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**DIVINE CULTIVATION**
+## **Divine Cultivation**
 
 > I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day" Isa. 27:3
 
@@ -25,7 +24,6 @@ We are to receive gracious watering, not only, every day and every hour, "but ev
 But disturbers come; little foxes and the boar. Therefore, the Lord Himself is our Guardian, and that at all hours, both "night and day." What, then, can harm us? Why are we afraid? He tends, He waters, He guards; what more do we need?
 
 Twice in this verse the Lord says, "I will." What truth, what power, what love, what immutability we find in the great "I will" of Jehovah! Who can resist His will? If He says "I will," what room is there for doubt? With an "I will" of God we can face all the hosts of sin, death, and hell. O Lord, since thou sayest, "I will keep thee," I reply, "I will praise thee!"
-
 
 ---
 [[FCB June 12|← June 12]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 14|June 14 →]]

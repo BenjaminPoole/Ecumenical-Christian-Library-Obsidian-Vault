@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 44. Decade 4, Sermon 2, Part 2
 
 Many sins be forgiven her because she loved much.
-
-92 THE FOURTH DECADE, [serM.
 
 for the sins which God had pardoned, but exercises of God’s discipline and humiliation; which doth by those means keep his servants in their dutiful obedience, and doth declare to all men how heartily he hateth sins, although he doth freely forgive and pardon them. Therefore lest we, because of that free forgiveness, should be the more inclined and prone to sin, he punisheth them whom he maketh to be examples for us to take heed by.
 
@@ -48,8 +45,6 @@ But now, as we do not acknowledge or admit the satisof inaut. factions that are 
 
 [ Acts ix. 4.1
 
-94 THE FOURTH DECADE, [SERM.
-
 such power! was given to the popes as they did feign. We read that to the apostles the keys were given by the Lord: but those keys were nothing else but the ministry of preaching the gospel; as I in place convenient will shew unto you. Now the gospel promiseth to us remission both of the guilt and penalty for Christ his sake and faith in Christ, and doth admonish us that in the latter times there shall come men that shail say, We are Christs; that is, which shall attribute to themselves the things that do properly belong to Christ alone, such as is especially the forgiveness of sins. But it commandeth us to fly from them, and by all means to take heed of them, as of wicked seducers.
 
 The same evangelical truth doth teach, that the faithful are cleansed by the only blood of the Son of God. Their indulgences do promise men the cleansing of their sins through the blood of St Peter, St Paul, and other holy martyrs. And for that cause are they the profanation of the blood of the Son of God. The saints do wash their garments in the blood of the Lamb, not in the pardoning bull, or box of indulgences, nor in the martyrs’ blood. Yea, Paul himself denieth that either he, or Peter, or any other of the saints was crucified for the church of God. And yet their indulgences were so set forth, as though God were pleased with us for the blood of the martyrs. Therefore their indulgences are flatly contrary to the apostles’ doctrme. And Iadmonished you in my sermon of good works?’ in these words of Paul, ““1 fulfil that which is behind of the aftlictions of Christ in my flesh for his body’s sake, which is the church;” that that fulfilling is not referred to the work of the purging or propitiation of Christ, which is consummate, unless Christ at his death did testify falsely, saying, “It is consummate;” but to those afflictions wherewith the members of Christ, that is, the faithful, are exercised by the cross so long as they live in this frail flesh. Verily the Lord maketh account of the afilictions laid upon the faithful, as of his own: for to Paul he said, “Saul, Saul, why persecutest thou me?” Moreover, when he saith, “For the church,” he meaneth not, for the expiation of the church, but for the edification and profit of the same*. And Paul sustained
@@ -64,7 +59,7 @@ Again, “ The righteous have received, not given, crowns of glory: and of the m
 
 for their deaths were singular; neither did any one by his ending pay the debt of another, since there is one Lord Jesus
 
-Christ, in whom they are all crucified, dead, buried and raised up again‘’.” Thus much out of pope Leo. We have there- fore by divine and human testimonies evidently proved, that the indulgences given to sinners by the merit or treasure of the martyrs’ blood are mere blasphemies against God, and open injuries against his holy martyrs.
+Christ, in whom they are all crucified, dead, buried and raised up again‘’.” Thus much out of pope Leo. We have there-fore by divine and human testimonies evidently proved, that the indulgences given to sinners by the merit or treasure of the martyrs’ blood are mere blasphemies against God, and open injuries against his holy martyrs.
 
 I have hitherto spoken of those indulgences which were The filthy of old freely bestowed by the popes of Rome, although at this indulgences day they be few in number and curtailed too: now therefore I will say somewhat of their indulgences, which they for the most part do sell and make traffic of. To sell indulgences in the church of God is a sin so detestable, as that it is hard to name any one more horrible. And yet it is and hath been a common practice and merchandise® these many years with the bishops of Rome and their factors, whom they call apostolics, not having any word in the scripture wherewith to cloak that
 
@@ -79,8 +74,6 @@ XXi. 12, 13.)
 (Aets viii. 18—21.
 
 [2 Pet. ii. 1— 3.]
-
-96 THE FOURTH DECADE, [SERM.
 
 wicked invention. And now, though I slip over and do not shew how indulgences are nothing but a bare name without any stuff or matter, and that under that vain name miserable men and silly souls are foully deceived; yet note, that Christ, the chief and only high priest of his catholic and holy church, in the days of his flesh did with a whip drive the buyers and sellers (as impudent dogs) out of the church! of God: which thing he did twice; once at the beginning of his preaching, and another time a little before his passion®. At the first time he added: ‘“ Away with these things from hence, and make not my Father’s house an house of merchandise.” At the latter time he said: “It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.” And Simon Magus also, in the Acts of the Apostles, seeing that by the laying on of the apostles’ hands the Holy Ghost was given, did offer them money, saying: ‘Give me this power also, that on whomsoever I lay my hands, he may receive the Holy Ghost.’ But hearken how Peter accepteth his petition. “Thy money (said he) perish with thee; because thou hast thought that the gift of God may be obtained with money. Thou hast neither part nor fellowship in this business; for thy heart is not right in the sight of God.” Lo, the gifts of God are not gotten with money. Lo, their heart is not right that make merchandise of religion®. Lo, they have no part or fellowship in the inheritance of the kingdom of heaven, or in the preaching of the glad tidings’. Therefore what shall we say now of the indulgences which the pope’s apostolics do set to sale for money? What shall we say of the very indulgenciaries, and the pope himself, whose hirelings they be? We must confess, verily, that they are the fellows of Simon (not Peter, but) Magus: for Peter did by the just sentence of God curse such kind of merchants: “Your money (saith he) perish together with you.” This is a heavy and terrible, but yet a most just judgment of the most just God. The same apostle Peter, foreseeing that in the church there would be many such merchants, doth in his last epistle say : “There were false prophets among the people,
 
@@ -98,9 +91,7 @@ First of all therefore, it seemeth good to tell, What the old man is, What the n
 
 [5 lucrumque facere, Lat. omitted; and to make gain. ] [6 ex misera plebecula, Lat. Cf. Vol. 1. p. 71, note 3.] [7 conyertatur, Lat.] (8 fucum faciunt simplicibus yersutissimi, Lat. Cf. Erasm. Chiliad. Adag. p. 305, imposturee. | γί
 
-[BULLINGER, IIL. |
-
-98 THE FOURTH DECADE. [SERM.
+## [Bullinger, IIL. |
 
 The old and We say that the old man is all that which we have ’ of nature, or of our first parents, to wit, not the body only or the flesh, I mean the grosser and substantial part of the body;
 
@@ -128,8 +119,6 @@ Now let us see what this understanding of man is able to do, and what power it h
 
 [5 parentis nostri, Lat. ] [6 rebated: blunted. Johnson. | [7 2 Cor. iii. 5; good, not in Lat. }
 
-100 YHE FOURiH DECADE, [ SERM.
-
 do so often in the scriptures find mention of enlightening or illumination: which should without cause be expressed or named, if so be man’s understanding were clear, and of itself not dark and misty. There is therefore born together with all men a blindness of heart and mind, a doubting in the promises of God, and an unbelief and perverse! judgment in all heavenly things. For albeit that man hath at God’s hand received understanding, yet by reason of his own corruption ignorance is a peculiar and proper heritage belonging unto him. For he is then in his? kingdom, when he is blind, when he doth err, when he doth doubt, when he doth not believe, nor use the gifts that God hath given him rightly, as he should, that is, to his own salvation and the glory of his Maker?,
 
 Let us now see what the will of the old man is able to do. Therefore, since this will doth follow a blind guide, God wot, that is to say, corrupt? affection, it is unknown to no man what foolish® choice it maketh, and whereunto it tendeth. And although the understanding be never so true and good, yet is the will like to a ship tossed to and fro with stormy tempests, that is, of affections. For it walloweth® up and down with hope, fear, lust, sorrow, and anger, so that it chooseth and followeth nothing but evil. For the holy apostle τὼ speaking of himself doth say : “1 know that in me, that is, in my flesh, there dwelleth no good thing. For to will is present with me, but I find no means to perform that which is good. For the good that I would, do I not: but the evil which I would not, that do I.” But now, since the apostle spake this of himself when he was regenerate, what, I pray you, shall we say of the will of the old man? The old man willeth all things which God willeth not, and, breaking into all kind of wickedness, doth foully fulfil his filthy lusts: that is to say, he giveth his members servants unto uncleanness and wickedness, from one iniquity unto another. We have of this very many examples exhibited unto us, both by the holy scriptures and daily experience.
@@ -152,8 +141,6 @@ L® in diem, Lat. omitted; day by day. |
 
 [18 1 John ii. 27, in ea, Lat. and Erasmus; in it, Marg. Auth. Ver. ]
 
-102 THE FOURTH DECADE. [SERM.
-
 an heayenly virtue, to do the good which the understanding perceived by the Holy Ghost: so that it willeth, chooseth, and worketh the good that the Lord hath shewed it; and on the other side nilleth, hateth, and repelleth the evil that the Lord hath forbidden it. For Paul saith: “1 know to be humble, and I know to exceed. I can do all things through Christ who strengtheneth me!.” And again to the Philippians he saith: “To you it is given for Christ, not only to believe in him, but also to suffer for him.” And again yet he doth more plainly say: “It is God that worketh in you both to will and to perform, according to the good purpose of the mind’.” But now note this, that whatsoever they do which are regenerate by the Spirit of God, they do it freely, not by compulsion, nor against their wills. For like as God requireth a cheerful giver; so “where the Spirit of the Lord is, there is free liberty and hearty good-will.” And Zachary, the father of [Luke i. 74, John Baptist, said: “That we, being delivered from the hands of our enemies, might serve him without fear, in holiness and righteousness before him all the days of our life.” Yea, and our Lord himself in the gospel saith: “If ye abide in my sayings, ye shall be my disciples indeed, and ye shall know the truth, and the truth shall make you free.” And again: poe τς ΤῸ If the Son set you at liberty, or make you free, then shall ye be free indeed.” Touching this liberty of the sons of God I have already discoursed in the ninth sermon of my third Decade. What andof This liberty of the sons of God we do willingly acknowthe liberty is Jedge and freely confess: but the arrogant disputations of ne some blasphemous praters* concerning free-will, as though it were in our power of ourselves to do any heavenly thing, we do utterly reject and flatly deny. And yet we do not male man subject to fatal necessity, nor turn upon God the blame of iniquity, as we have elsewhere more at large declared’. And St Augustine in his controversy with the Pelagians did so attemper his disputation, that he attributed the good to the grace of God, and the evil unto our nature: so that, the sense being sound, uncorrupted, and well weighed, he attributeth
 
 [1 Phil. iv. 12. excellere, Lat. and Erasmus; excede, Tyndale, 1534.] (2 Phil. i. 29; ii. 13. See above, p. 323, note 6.]
@@ -165,8 +152,6 @@ an heayenly virtue, to do the good which the understanding perceived by the Holy
 I will here cite and rehearse unto you, dearly beloved, this one testimony only out of all his writings, as it is to be found in the first chapter of his book De Correptione et Gratia, where he saith: “We must confess that we have free-will to do both evil and good: but in the doing of evil every one is free from righteousness, and bound to sin; but in good no man can be free, unless he be made free by him which said, ‘If the Son make you free, then shall ye be free indeed.’ And yet not so that, when every one is set free from the condemnation of sin, he should then no more stand in need of his deliverer’s aid: but so rather, that, where he heareth his deliverer say, ‘ Without me ye can do nothing,’ he should presently say to him again, ‘Be thou my helper; O forsake me not.’ And verily, I am glad that in our brother Florus I found this faith, which, without doubt, is the true, prophetical, and apostolical faith. For here must the grace of God through Jesus Christ our Lord be needs understood ; by which alone we men are delivered from evil, and without which we do no good, either in thought, will, love, or deed : not only that by the shewing, or teaching of grace, men should no more but know what is to be done; but also, that by the very working and performing of grace they should with love do the thing that they know®.” And so forth. For I have hitherto rehearsed unto you St Augustine’s opinion
 
 [6 Liberum itaque arbitrium et ad malum et ad bonum faciendum confitendum est nos habere: sed in malo faciendo liber est quisque justitize, servusque peccati; in bono autem liber esse nullus potest, nisi fuerit liberatus ab eo qui dixit, Si vos Filius liberaverit, tune vere liberi eritis. Nec ita ut cum quisque fuerit a peccati damnatione liberatus, jam non indigeat sui liberatoris auxilio ; sed ita potius ut ab illo audiens, Sine me nihil potestis facere, dicat ei et ipse, Adjutor meus esto, ne derelinquas ‘me. Hane fidem, que sine dubio vera et prophetica et apostolica fides est, etiam in fratre nostro Floro invenisse me gaudeo. Intelligenda est enim gratia Dei per Jesum Christum Dominum nostrum, qua sola homines liberantur a malo, et sine qua nullum prorsus sive cogitando, sive volendo et amando, sive agendo faciunt bonum: non solum ut monstrante ipsa quid faciendum sit sciant, verum etiam ut preestante ipsa faciant cum dilectione quod sciunt.—August. Opp. Tom. yu. fol.272: eol; 2. Par: 1531.]
-
-104 THE FOURTH DECADE, [SERM.
 
 touching free-will, of which this is sufficient for a note by the way: now I return to my purpose again. How the old We have heard what the old man is, what the new man man is mor-
 
@@ -200,8 +185,6 @@ Of the worthy fruits, or of the fruits worthy of repentance,
 
 { Deut. xxx. 2, 3.)
 
-106 THE FOURTH DECADE. [SERM.
-
 lation! made to St John, speaking to the minister of the church of Ephesus, he saith: ‘“ Remember from whence thou art fallen, and repent, and do the first works.” Whereunto agree the words of St Paul, speaking to Agrippa, and saying: “1 have preached to the Jews and Gentiles, exhorting them to repent, and to turn to God, and to do such works as become them that repent.” And again, in the seventh chapter of the second epistle to the Corinthians, he saith: ‘ Sorrow which is to God-ward causeth repentance unto salvation not to be repented of. For, behold, this self-same thing that ye were made sorry to God-ward, how much carefulness it hath wrought in you; yea, what clearing of yourselves; yea, what indignation; yea, what fear; yea, what vehement desire ; yea, what zeal; yea, what punishment?!” Now this carefulness is an intentive diligence to correct that which is amiss. Verily, out of careless looseness doth arise inured custom to commit sin, and negligent security. Penitents do not stand in defence of their sins, but make their supplicant apology to God, to have them remitted. Hypocrites excuse themselves, and seek out shifts and starting holes, not confessing freely their sins and offences, nor praying to God to have them forgiven. He which repenteth truly and in very deed is angry with himself because of his wicked manners and life already lewdly spent. The punishment which he doth exercise upon himself? preventeth and turneth away the revenging and imminent wrath of God. Moreover with fear he doth take heed how he sinneth any more: for the contempt of God is the original of mischiefs, and bond of an impenitent life. Furthermore, he which doth truly repent is ravished with the passing vehement desire or love of God and heavenly things: he burneth with zeal, whereby it cometh to pass that he neither foadeth# off from day to day, nor yet doth coldly nor slackly go about, that which he hath learned by the word of God to be required at his hand to be done and performed. Briefly, whatsoever he doth he doth it with all his mind, even from the very bottom and root of his heart. For so saith the great prophet of God, the holy man Moses: “If thou wilt turn to
 
 [1 revelatione sua, Lat.; his revelation. chap. ii. 5.]
@@ -226,8 +209,6 @@ The outward exercises of repentance.
 
 Joel (ii, 12— 17.)
 
-108 THE FOURTH DECADE, [SERM.
-
 abstinence, constancy ', fortitude, and patience, are needful for those that do repent ? what great need they have of earnest and continual prayers? Let us in this sharp conflict lay before our eyes the instruction of that valiant champion the apostle Paul; for that which he saith may be to us instead of a large and ample commentary. For he will in few words passingly instruct us how to behave ourselves in this troublesome combat, how to vanquish, and how to triumph when the victory is gotten. In his epistle to the Ephesians thus he saith : ‘‘ Brethren, be strong in the Lord, and in the power of his might. Put on all the armour of God, that ye may stand against the assaults of the devil. For we wrestle not against flesh and blood only, but against rules, against powers, against worldly governors* of the darkness of this world, against spiritual subtilties in heavenly things. Wherefore take unto you the whole armour of God, that ye may be able to resist in the evil day, and, having finished all things, to stand fast. Stand therefore, having your loins girt about with the truth, and having on the breast-plate of righteousness, and your feet shod in the preparation of the gospel of peace : above all, taking the shield of faith, wherewith you may quench all the fiery darts of the wicked: and take the helmet of salvation, and the sword of the Spirit, which is the word of God; praying always in all prayer and supplication in the Spirit, and watching for the same with all instance.” And so as followeth in the sixth to the Ephesians.
 
 Here therefore are also to be rehearsed the outward exercises of repentance or rites of penance, wherewith the saints do exercise themselves, partly to tame and keep under the motions of flesh, and partly to testify their repentance unto the congregation. Those exercises are, carelessness of the flesh, tears, sighs, sackcloth, fastings, weeping, lamenting, neglecting and hatred of dainty diet, trimming of the body, and also of allowable pleasures: which, although they be done, and yet do not proceed from the very heart and from true faith, are notwithstanding nothing available to him that useth them. But it is best here to learn, and as it were in a painted table to behold them pictured in the word? of God. The prophet Joel saith: “Turn ye to me, saith the Lord,
@@ -243,8 +224,6 @@ And here also, dearly beloved, ye must note, that rea pentance is of two sorts, 
 Repentance must be voluntary, not coacted.
 
 False and true repentance,
-
-110 THE FOURTH DECADE. [ SERM.
 
 privately, so often as, when he hath sinned against God, he doth descend into himself, and with the candle of God’s word doth search all the corners of his heart, and confess to God all his offences; being grieved that he hath offended him, and yet doth turn unto him, believing verily that he will be reconciled unto him in Christ his Saviour; and for his sake doth utterly hate sin, and entirely love righteousness and innocency, in following them so near as he can!. The public or solemn repentance is used in great calamities, in dearth, in pestilence and war: and of that repentance it is that the prophet Joel speaketh, whose words ye heard a little afore. And yet private repentance is in many points all one with the public. For Peter weepeth bitterly; and private penitents do fast privately, and abstain severely even from all allowed pleasures, much more then from the allurements and baits of the world’. But they that do truly repent either publicly or privately, both do and must specially hate coloured hypocrisy and vain ostentation. Moreover, both kinds of repentance are free and voluntary, not extorted or coacted, but proceeding of a willing mind. The pastor of the church and teacher of the truth, I confess, doth severely call upon all sinners without delay to repent themselves truly for their sins committed: but yet he doth by express law lay upon no man’s neck any precise order, prescribing the time, manner, place, or number; but leaveth it free to every one’s choice, so that they do the thing that is decent, according to the prescript rule in the word of God. But public repentance is for the most part wont to be proclaimed, and openly received of the whole congregation, so often as piety requireth it, and necessity compelleth it; and doth out of the word of God therewithal declare what and how all things must be done and decently ordered.
 
@@ -264,15 +243,13 @@ But they are most happy and in an heavenly case‘, that do with all their heart
 
 [1 Chron.
 
-True peni- tents are in an happy ase.
+True penitents are in an happy ase.
 
 Unrepentants are unhappy.
 
 (Matt. xi. 21, &e.]
 
 Matt. xxi.
-
-112 THE FOURTH DECADE, [SERM.
 
 of repentance, how holy and commendable soever they be. For insomuch as the Father loveth Christ, and that we by faith are graffed in him, God doth therefore love us, and our works do please him; which works of ours when he doth recompense, he crowneth not our works, as our own works, but crowneth in us the grace which he himself hath given us’.
 
@@ -288,15 +265,13 @@ Again, it must needs be that unrepentants are most unhappy. They hear with what 
 
 [ὁ Nullifidians, not in Lat. Cf. Becon, ed. Park. Soc. Vol. m1. pp. 401, 503: and for Lucian, see Abp. Grindal’s Works, ed. Parker Soc.
 
-p. 8.] these do equally in a manner sweetly deride, or rather scoffingly mock at, this hearty repentance, we cannot do other- wise but still expect and look when the terrible judgment of God’s mighty arm should fall upon such unrepentant sinners.
+p. 8.] these do equally in a manner sweetly deride, or rather scoffingly mock at, this hearty repentance, we cannot do other-wise but still expect and look when the terrible judgment of God’s mighty arm should fall upon such unrepentant sinners.
 
 Let them that wish well to themselves speedily turn to the Lord, and consider with themselves continually and earnestly how great the damage is, to keep the transitory joys of this present life, and so to lose the eternal joys of the kingdom of heaven. Let every one make haste to do that which he Tees pereeiveth to be done the better by so much, by how much teferred. the sooner it is taken in hand.
 
 And yet I would not that any man should despair in his sins, if so be that he doth not stubbornly despise the remedy of repentance; nor because of the facility and gentleness of his heavenly Father doth not maliciously, by the way of contempt, defer repentance even till the very end. And if any man be hindered by the flesh, the world, and the devil, so that it be late or ere he apply his mind to repentance, neither would I have him to fall to desperation.
 
 But now, because I have somewhat more long drawn out this discourse of repentance than I had thought to have done, that I may here at last make an end of my sermon, I will instead of a conclusion recite unto you these golden words of the holy martyr St Cyprian, bishop of Carthage, where he writeth against Demetrian to this effect following: “« Believe and live; and ye, that now for a time do persecute us, rejoice with us for ever. When ye are once out of this life, then is there no place for repentance, nor any effect of satisfaction. In this world the life is either won or lost. In this world eternal salvation is provided for by the unfeigned worshipping of God and the fruits of true faith. Let not any man, either by his sins or years, be held back from coming to lay hold upon salvation. So long yet as a man is in this No repens αν world, no late repentance doth come out of season. The too late. entry is open unto God’s indulgence; and to them that seek and understand the truth, the path to pardon is passing plain, Thou, even at the very end and last gasp of this temporal life, ask pardon for thy sins at the hands of him which is the true and only God; call to him for the confession and faith of his knowledge: to him that confesseth pardon is granted, and to him that believeth salvation is given, and he even pre-
-
-114 THE FOURTH DECADE. [SERM. II.
 
 sently upon his departure doth pass to immortality. This grace doth Christ communicate: this gift he doth attribute unto his own mercy, by making death subject unto the triumph of the cross, by redeeming him that believeth with the price of his blood, by reconciling man to God the Father, by quickening the mortal by the heavenly regeneration. Let us all, if it be possible, follow him. Let us all profess his sign and sacrament. He openeth to us the way of life. He bringeth us to paradise again. He leadeth us to the kingdom of heaven. With him we shall always live; and being by him made the sons of God, we shall with him always rejoice, being restored by the shedding of his blood. We shall be Christians glorified together with Christ, blessed in God, rejoicing with perpetual pleasure always in the sight of God, and evermore giving thanks to God. For he cannot choose but be merry always and thankful, who, being once in danger and fear of death, is now made secure in immortality }.”
 
@@ -306,7 +281,7 @@ TO? THE MOST RENOWNED? PRINCE EDWARD THE SIXTH,
 
 KING OF ENGLAND AND FRANCE, LORD OF IRELAND, PRINCE OF WALES AND CORNWALL, DEFENDER OF THE CHRISTIAN FAITH,
 
-GRACE AND PEACE FROM GOD THE FATHER, THROUGH OUR LORD JESUS CHRIST.
+## Grace and Peace from God the Father, Through Our Lord Jesus Christ
 
 Tue promise, that not long ago* I made to your most royal majesty, I do now perform, offering here the other eight sermons of the fourth Decade, which I dedicate unto your royal majesty, that of me you may have two decades of sermons full and wholly finished. In March I sent twelve sermons unto you, which were favourably accepted of your royal majesty, as I understand by the letters of that godly and worthy learned man, Master J. Hooper®, the most vigilant bishop of Glocester, my brother and reverend fellow-father in Jesus Christ: who also by the commendation of your royal majesty’s good will to me-ward hath heartened me on, so that pow, with far more confidence and liberty than before, I send unto your majesty this other part of my work, entreating of most weighty and holy matters. In this my dedication I respect nothing else but that which I declared in my former epistle; to wit, that I, according to the gift
 
@@ -328,7 +303,7 @@ Luke ix.
 
 What councils have been in these later ages celebrated.
 
-116 DEDICATION TO KING EDWARD THE SIXTH.
+## 116 Dedication to King Edward the Sixth
 
 both very great and full of troubles: but he will never fail your godly endeavours, that said, “ Behold, Iam with you for ever unto the end of the world.” And now also, even as it hath been always from the first beginning of the church, there are many lets and great impediments, that are object against most holy and wholesome intents, doing what they can to hinder and trouble the reformation of religion!: and among other stops this is one of the greatest, that no small number even of the wisest sort do say, that there ought no such haste to be made upon private authority, but that the determination of the general council in controversies of religion must needs be stayed for, and altogether looked after ; without the judgment whereof, say they, it is not lawful for a kingdom’, much less for any other commonweal, to alter any one point in religion once received and hitherto used. But the prophets and apostles do not send us to the councils of priests or elders, but to the word of God: yea, in Jeremy we read, “ΠΟΥ͂ say ye, We are wise, we have the law of the Lord among us? Truly, the lying pen of the scribes have wrote a lie’, The wise have been ashamed, they were afraid and were taken: for lo, they have cast out the word of the Lord; what wisdom then can there be among them?” Again, in the Gospel we read, ‘‘ No man, that layeth his hand to the plough, and looketh back, is fit for the kingdom of God.” Therefore the authority of the prophets and evangelists giveth counsel, fully to absolve and perfectly to end the reformation of religion once begun with the fear of God, out of or by the word of God; and not to look for or stay upon councils, which are directed, not by the word of God, but by the affections and motions of men.
 
@@ -368,7 +343,7 @@ But now, that it is lawful for every christian church, much Iw lawl more for eve
 
 [7 homines, Lat.; men. The bull of Leo X. against Luther was issued June 15, 1520. ]
 
-120 DEDICATION TO KING EDWARD THE SIXTH.
+## 120 Dedication to King Edward the Sixth
 
 gave his church a charge of reformation: he commended unto it the sound doctrine of the gospel, together with the lawful use of his holy sacraments: he also condemned all false doctrine, that I mean that is contrary to the gospel: he damned the abuse and profanation of the sacraments; and delivered to us the true worship of God, and proscribed the false. Therefore Christians, obeying the laws and commandments of their prince, do utterly remove or take away all superstition, and do restore, establish, and preserve the true religion, according to the manner that Christ their prince appointed them. He verily is a fool or a madman, which saith that the church of Christ hath none authority to correct such errors, vices, and abuses as do daily creep into 101. And yet the Romish tyranny hath so bewitched the eyes of many men, that they think that they cannot lawfully do any thing? but what it pleaseth Rome to give them leave to do. The ecclesiastical histories make mention of provincial synods, held in sundry provinces, wherein there were handled matters of faith and the reformation of the churches, and yet no mention once made of the bishop of Rome. What may be thought of that moreover, that in certain synods, not heretical but orthodoxastical and catholic, thou mayest find some that were excommunicated for appealing from their own churches unto the church of Rome?? St Cyprian, writing to Cornelius? the bishop of Rome, doth say: ‘Since that it is ordained by us all, and that it is just and right, that every man’s cause should be heard there where the crime is committed; and that to every several pastor is appointed a portion of the flock, which every one must govern, and make account of his doings before the Lord: it is expedient, verily, that those, over whom we have the charge, should not gad to and fro, by that means with their subtle and deceitful petulancy to make the concord of bishops to be at jar; but to plead their causes there where they may have their accusers present, and witnesses of their crime committed ).”
 
@@ -380,7 +355,7 @@ gave his church a charge of reformation: he commended unto it the sound doctrine
 
 [5 Nam.cum statutum sit omnibus nobis, et sequum sit pariter ac justum, ut uniuscujusque causa illic audiatur, ubiest crimen admissum; et singulis pastoribus portio gregis sit adscripta, quam regat unusquisque et gubernet, rationem sui actus Domino redditurus: oportet utique Cos quibus presumus non circumcursare, nec episcoporum concordiam
 
-OF THE REFORMING OF CHURCHES. 1921
+## Of the Reforming of Churches. 1921
 
 But letting pass the testimonies of men, we do now come to the testimonies in the book of God. The most holy Hoty king king Josias, most godly prince, may alone in this case teach =~ you what to do and how to do, with the warrant and authority of God himself. He by the diligent reading of the holy book of God, and by the contemplation of things present, and the manner of worshipping God that then was used, did understand, that his ancestors did greatly and very far err from the plain and simple truth; for which cause he calleth together the princes and other estates of his kingdom, together with all the priests, to hold and celebrate a council with them. In that council he standeth not long disputing whether the examples of the elders ought rather to be followed, or God’s commandment simply received: whether he ought rather to believe the church, or the scripture: and whether all the judgment of religion ought to be referred to the high priest. For laying abroad the book of the law, he submitteth both himself and all his unto the sacred scripture. Out of the book of the law both he himself doth learn, and biddeth all his to learn, what thing it is that pleaseth God, namely, that which was commanded and learned in the reading of the law of God. And presently he gave charge, that all men should do and execute that, not having any regard to the ancient custom, or to the church® that was at that time: he made all subject to the word of God. Which deed of his is so commended, that, next after David, he is preferred before all the kings of Judah and Israel.
 
@@ -396,7 +371,7 @@ The scriptures do sufficiently minister a full platform ow to reform the church.
 
 2 Tim. iii. 16, 17.
 
-122 DEDICATION TO KING EDWARD THE SIXTH.
+## 122 Dedication to King Edward the Sixth
 
 not in the enticing words of man’s wisdom, but in the shewing of the Spirit and of power; that your faith might not be in the wisdom of man, but in the power of God.” Not without good cause, therefore, do we refuse the traditions of men, and turn only to the doctrine of the word of the Lord, without which it is assuredly certain that there is no doctrine nor any foundation of true faith.
 
@@ -406,17 +381,17 @@ Your royal majesty’s most dutifully bounden, Henry Butincer, Minister of the c
 
 [1 ecclesias Christi Anglicanas, Lat.; most happy, not in Lat.] [2 his church, ed. 1577; ecclesice suze, Lat. |
 
-THE OTHER EIGHT SERMONS
+## The Other Eight Sermons
 
-OF THE
+## Of The
 
-FOURTH DECADE,
+## Fourth Decade
 
-WRITTEN BY
+## Written By
 
-HENRY BULLINGER.
+## Henry Bullinger
 
-OF GOD; OF THE TRUE KNOWLEDGE OF GOD, AND OF THE DIVERSE WAYS HOW TO KNOW HIM; THAT GOD IS ONE IN SUBSTANCE, AND THREE IN PERSONS.
+## Of God; Of the True Knowledge of God, and of the Diverse Ways How to Know Him; That God Is One in Substance, and Three in Persons
 
 ---
 [[Bullinger Dec 43 Decade 4, Sermon 2, Part 1|← 43. Decade 4, Sermon 2, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 45 Decade 4, Sermon 3, Part 1|45. Decade 4, Sermon 3, Part 1 →]]

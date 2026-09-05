@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 14. Letter XIIL. To Ladislaus, King of Poland (June 10, 1412)
-
-LETTER XIIL TO LADISLAUS, KING OF POLAND (June 10, 1412)
 
 Peace with Sigismund ; The depravity of the clergy ; Abound ing iniquity; "Woe is me if I keep silence" . . . 71-3
 

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # The Family of God
 
-Chapter XVI · *Practical Religion* — J. C. Ryle
+## Chapter XVI · *Practical Religion* — J. C. Ryle
 
 >  *The whole family in heaven and earth.* "—Ephes. iii. 15.
 
@@ -130,7 +129,6 @@ The family gathering of all God's people will make amends for all that their rel
 In the meantime let us strive to live worthy of the family to which we belong. Let us labour to do nothing that may cause our Father's house to be spoken against. Let us endeavour to make our Master's name beautiful by our temper, conduct, and conversation. Let us love as brethren, and abhor all quarrels. Let us behave as if the honour of "the family" depended on our behaviour.
 
 So living, by the grace of God, we shall make our calling and election sure, both to ourselves and others. So living, we may hope to have an abundant entrance, and to enter harbour in full sail, whenever we change earth for heaven. (2 Peter i. 11.) So living, we shall recommend our Father's family to others, and perhaps by God's blessing incline them to say, "We will go with you."
-
 
 ---
 [[PR 15 Sickness|← Sickness]] · [[Practical Religion|Practical Religion Contents]] · [[PR 17 Our Home!|Our Home! →]]

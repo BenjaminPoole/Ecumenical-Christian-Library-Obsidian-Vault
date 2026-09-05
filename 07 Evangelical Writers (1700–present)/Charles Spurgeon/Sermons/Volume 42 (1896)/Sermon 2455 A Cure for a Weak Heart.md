@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # A Cure for a Weak Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2455
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Be of good courage, and He shall strengthen your heart, all you that hope in the LORD." Psalm 31:24.
 
@@ -87,7 +84,7 @@ I have seen a good woman when her husband has just died and all her hope has see
 
 How I wish that all here had trusted in the Lord, or that they would seek Him, even now, if they have never yet found Him! The Lord be gracious to each of you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM31.
+## Exposition by C. H. Spurgeon: Psalm 31
 
 Verse 1. In You, O LORD, do I put my trust. Can we say as much as that? However else this Psalm of David may end, it strikes a grand keynote, that which should be the first indication of our spiritual life—confidence in God. Here is an ancient weather-beaten saint who, in the very midst of the storm, can say, "In You, O Jehovah, do I put my trust." There will the anchor of his soul find a sure hold!
 
@@ -164,7 +161,6 @@ Wherever the child of God is when his faith is in active exercise, his feet are 
 Lord!
 
 23, 24. For the LORD preserves the faithful, and plentifully rewards the proud doer. Be of good courage, and He shall strengthen your heart, all you that hope in the LORD. In this Psalm we have heard the wail of the sackbut and the clashing of the cymbals—but we finish with the blast of the silver trumpets!
-
 
 ---
 [[Sermon 2454 The Secret of Failure|← #2454]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2456 The Lamb Our Leader|#2456 →]]

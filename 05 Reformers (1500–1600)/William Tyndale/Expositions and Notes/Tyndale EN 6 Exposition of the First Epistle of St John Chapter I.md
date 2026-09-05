@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 6. Exposition of the First Epistle of St John: Chapter I
 
-THE EXPOSITION
+*The Exposition*
 
-FIRST EPISTLE OF ST JOHN.
+## First Epistle of St John
 
 Here beginneth the first epistle of St John. THE FIRST CHAPTER.
 
@@ -63,7 +62,7 @@ But when Christ is preached, how that God for his sake chnst. receiveth us to me
 
 That which we have seen and heard we declare unto you, that ye may have fellowship with us, and that our fellowship may be with the Father, and with his Son Jesus Christ. And these things we write unto you, that your joy may be fiilL
 
-To bring unto the fellowship of God and Christ, and of Thetouchthem that believe in Christ, is the final intent of all the true doe- trine and scripture, why it was given of God unto man, and the only ^^^^hets. thing which all true preachers seek; and whereby ye shall ever know and discern the true word of God from all false and counterfeited doctrine of vain traditions, and the true preacher from the wily hypocrite. We preach unto you, saith St^ John, that everlasting life which we have heard, and in hearing received through faith, and are sure of it, to draw you to us out of the fellowship that ye have with the
+To bring unto the fellowship of God and Christ, and of Thetouchthem that believe in Christ, is the final intent of all the true doe-trine and scripture, why it was given of God unto man, and the only ^^^^hets. thing which all true preachers seek; and whereby ye shall ever know and discern the true word of God from all false and counterfeited doctrine of vain traditions, and the true preacher from the wily hypocrite. We preach unto you, saith St^ John, that everlasting life which we have heard, and in hearing received through faith, and are sure of it, to draw you to us out of the fellowship that ye have with the
 
 [3 Probably a typographical error for hate.] [* So D., but P. C. L. has righteousness.} [5 So P. 0. L., but D. has meekness.}
 

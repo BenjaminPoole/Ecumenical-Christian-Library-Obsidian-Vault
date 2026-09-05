@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 89. Matthew 10:37-42; Mark 9:41; Luke 14:25-33
-
-**MATTHEW 10:37-42; MARK 9:41; LUKE 14:25-33**
 
 **37**. He who loveth father or mother more than me is not worthy of me; and he who loveth son or daughter more than me is not worthy of me. **38**. And he who doth not take his cross and follow me, [^1] is not worthy of me. **39**. He who findeth his life [^2] shall lose it; and he who loseth his life for my sake shall find it. [^3] **40**. He who receiveth you receiveth me: and he who receiveth me receiveth him who sent me. **41**. He who receiveth a prophet in the name of a prophet, shall receive a prophet’s reward: he who receiveth a righteous man in the name of a righteous man, shall a righteous man’s reward. **42**. And whosoever shall give to one of these little ones to drink a cup of cold water only, in the name of a disciple, verily, I say to you, he shall not lose his reward.
 

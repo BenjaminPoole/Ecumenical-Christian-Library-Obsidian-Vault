@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 6. Printed Editons of the History
 
 ## PRINTED EDITIONS OF THE HISTORY.
@@ -21,7 +20,7 @@ It is most inaccurately printed.7 This may have been partly owing to the state o
 
 The following is a fac-simile reprint of the first page, which corresponds with pages 10-11 of the present volume:—
 
-CHVRCH OF SCOTLAND. 17
+## Chvrch of Scotland. 17
 
 BY THESE ARTICLES which God of his mercifull prouidence causeth the enemies of his truth to keepe in their registers maye appeare how mercifully God hath looked vppon this realme, retayning within it some sparke of his light, euen in the time of greatest darknes. Neither ought any mā to wonder albeit that some things be obscurely and some thinges doubtfully spoken. But rather ought al faithfull to magnifie Gods mercy who without publike doctrine gaue so great light. And further we ought to consider that seeing that the enemies of Iesus Christe gathered the foresaide articles there vppon to accuse the persones aforesaide, that they woulde depraue the meaninge of Gods seruauntes so farre as they coulde, as we doubt not but they haue done, in the heads of excommunication, swearing and of matrimony: In the which it is no doubt but the seruaunts of God did damne the abuse onelye, and not the right ordinance of God: for who knowes not that excommunication in these dayes was altogeather abused? That swearing aboundeth without punishment or remorse of conscience: And that diuorcementes was made, for such causes as worldly men had inuented: but to our history. Albeit that the accusation of the Bishop and of his complices was very grieuous, yet God so assisted his seruauntes partly by inclining the kinges heart to gentlenes (for diuerse of them were his great familiars) and partly by giuing bold and godly aunswers to their accusators, that the enemies in the ende were frustrate of their purpose. For while the Bishop in mockage saide to Adam reade of blaspheming, read beleeue ye that God is in heauen? he answered Not as I do the sacramentes seuen: whereat the bishop thinking to haue triumphed said: Sir loe
 

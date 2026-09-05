@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Christian's Glorious Inventory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2589
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore let no maun glory in men. For all things are yours; whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come— all are yours. And you are Christ's, and Christ is God's." 1 Corinthians 3:21-23.
 
@@ -100,7 +97,6 @@ Now, by way of a practical hint, I might say, if "all things are yours," how wil
 But I again come back to this all-important question—we must not put it away. We must give an answer to it, either now, or at God's bar—Are we Christ's?Some of you, I fear, are not Christ's. You are none of His because your conversation is carnal, your actions are worldly, your behavior is inconsistent and your lives are reproachable. Then, you are not Christ's. Some of you are not Christ's because you are trusting in your own righteousness and not leaning on the blood and righteousness of Christ alone. But we hope that there are some of you who have stripped yourselves of everything and have taken Christ for your All-in-All. If, devoid of all goodness, you make Christ your goodness—if, devoid of everything, you take Christ for all, then He is yours. Hence, you may revel in delights and let your heart leap for joy! Let your melancholy be dissipated and your tears be all dried up! You may rejoice with unspeakable joy and full of glory, for this world is yours, the world to come is yours and Heaven shall be your happy home forever!
 
 The Lord grant that it may be so with all of you when He shall make up His jewels! Amen.
-
 
 ---
 [[Sermon 2588 Perfect Restoration|← #2588]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2590 Hearing, Seeking, Finding|#2590 →]]

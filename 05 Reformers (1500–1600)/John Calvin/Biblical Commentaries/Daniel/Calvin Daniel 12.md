@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Daniel 12:1
 
@@ -23,7 +22,7 @@ The angel no longer relates future occurrences specially, but proclaims God to b
 
 ## Prayer Lecture 64
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are placed in similar distresses to those of which thou dost wish to warn us by thy angel, as well as thine ancient people, that thy light may shine upon us by means of thy only-begotten Son. May we feel ourselves always in safety under his invincible power. May we dwell securely under his shadow, and contend earnestly and boldly unto the end, against Satan and all his impious crew. And when all our warfare is over, may we arrive at last at that blessed rest where the fruit of our victory awaits us, in the same Christ our Lord. — Amen.
 
@@ -67,7 +66,7 @@ We have already explained “the time of the end” is a period previously fixed
 
 ## Prayer Lecture 65
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as we have to engage in battle through the whole course of our lives, and our strength is liable to fail in various ways, that we may be supported by thy power and thus persevere unto the end. May we never grow weary, but learn to overcome the whole world, and to look forward to that happy eternity to which thou invitest us. May we never hesitate while Christ thy Son fights for us, in whose hand and power our victory is placed, and may he ever admit us into alliance with himself in that conquest which he has procured for us, until at length he shall gather us at the last day into the enjoyment of that triumph in which he has gone before us. — Amen.
 
@@ -131,7 +130,7 @@ Here the angel repeats what he had said before, the, full time of perfect light 
 
 ## Prayer Lecture 66
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou proposest to us no other end than that of constant warfare during our whole life, and subjectest us to many cares until we arrive at the goal of this temporary race-course: Grant, I pray thee, that we may never grow fatigued. May we ever be armed and equipped for battle, and whatever the trials by which thou dost prove us, may we never be found deficient. May we always aspire towards heaven with upright souls, and strive with all our endeavors to attain that blessed rest which is laid up for us in heaven, in Jesus Christ our Lord. — Amen.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # God's Hand at Evening
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3290
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now the hand of the Lord was upon me in the evening." Ezekiel 33:22.
 
@@ -95,7 +92,7 @@ And to close, I think that this should encourage us in our darkening hours to ex
 
 still be upon us in the morning—that morning which will be to us without mourning, that day which shall never have a night—that blessedness which shall last forever! God grant that this may be the portion of each one of us, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM92.
+## Exposition by C. H. Spurgeon: Psalm 92
 
 Verse 1. It is a good thing to give thanks to the LORD, and to sing praises to Your name, O Most High. It is good in itself. It is good for those who hear it, but it is especially good for our own hearts to give thanks unto the Lord and to sing praises unto the name of the Most High. Sometimes when we are very heavy in spirit, if we would take care not to defraud the Lord of the revenue of praise that is due Him, we should find that the readiest way to bring comfort to ourselves is to sing praises unto His holy name. Brother and Sisters in Christ, it is not very notable work to praise God when all things go well with us—it is far grander work to praise Him when everything seems to be against us! It is because the nightingale sings by night that he has such excellence among the birds. And if you and I can praise God in the dark, then we shall find that it is a good thing for ourselves to give thanks to the Lord and to sing praises unto the name of the Most High.
 
@@ -138,7 +135,6 @@ consciousness, and utterly insignificant in his own esteem, shall receive fresh 
 15\. To show that the LORD is upright: He is my rock. Can each one of you say that concerning the Lord, "He is my rock, my foundation, my refuge, my shelter"?
 
 15\. And there is no unrighteousness in Him. Say that when you have lost the dearest one you ever knew! Say that when your property has melted like the hoar frost in the morning. Say that when every bone in your body is aching and some fell disease is hastening you to an early grave! "There is no unrighteousness in Him." How long have you known Him? If it is 70 years, or more than that, He has never been unfaithful to you, nor allowed a single promise of His to fail! Write this down as the testimony of the experience of all God's people, "There is no unrighteousness in Him."
-
 
 ---
 [[Sermon 3289 The Sealed Hand—a Winter Sermon|← #3289]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3291 The Sea! the Sea! the Wide and Open Sea!|#3291 →]]

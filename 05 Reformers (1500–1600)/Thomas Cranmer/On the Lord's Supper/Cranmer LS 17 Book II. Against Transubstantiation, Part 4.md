@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 17. Book II. Against Transubstantiation, Part 4
 
 The answer more directly.
 
 *Read —, fol. 91, &e.
 
-304 THE SECOND BOOK.
+## 304 the Second Book
 
 : mY and shall sit at the right hand of his Father evermore ; although safely he — be every day amongst us, and whosoever come together in his name, he is in the midst among them. And he is the spiritual pasture and food of our souls, q as meat and drink is of our bodies; which he signifieth unto us by the institution — of his most holy supper in the bread and wine’, declaring that as the bread and — wine corporally comfort and feed our bodies, so doth he with his flesh and blood — spiritually comfort and feed our souls. a
 
@@ -27,13 +26,13 @@ As in our spiritual regeneration there can be no sacrament of baptism, if there 
 
 And howsoever the body and blood of our Saviour Christ be there present, they may as well be present there with the substance of bread and wine, as with the accidents of the same, as the school authors do confess themselves, and it shall be well proved if the adversaries will deny it. Thus you see the strongest argument of the papists answered unto, and the chief foundation whereupon they build their error of transubstantiation utterly subverted and overthrown.
 
-WINCHESTER.
+## Winchester
 
 Wherein this author not seeing how little he hath done, concludeth yet as constantly as — though he had thrown all down afore him, intending to shew that the doctrine of transub-— stantiation dependeth only of authority, (which is not so,) using the sayings of Duns and Ga- — briel, as he reporteth them, for his purpose; because they, as he saith, boast themselves what they could do, if the determination of the cowncil were not: and thus every idle speech may — have estimation with this author against the recewed truth. And from this point of the mat-— ter, the author of this book maketh a passage with a little sport at them he fancieth, or liketh to call so, English papists, by the way to enterprise, to answer all such as he swpposeth rea sons for transubstantiation and authorities also.
 
 First, he findeth himself mirth in devising (as he calleth them) the papists to “say that Christ i is made anew; which fancy, if it were so, is against the real presence as well as transubstantiation. In which words because every wise reader may see how this author playeth, I will say no more but this: Christ is not made anew, nor made of the substance of bread, as of a matter; and that to be the catholic doctrine, this author, the he be right named, knoweth well enough, and yet spendeth two leaves in it.
 
-CANTERBURY.
+## Canterbury
 
 When I have proved most evidently, as well by the testimony of the scripture, as by the consent of the old authors of Christ’s church, both Greeks and Latins, from the beginning continually from: time to time, that transubstantiation is against God’s most holy word, against the old church of Christ, against all experience of our senses, against all reason, and against the doctrine of all ages, until the bishops of
 
@@ -67,7 +66,7 @@ Adnihilation.
 
 “have known it, or hath forgotten it, he writeth like one that were ignorant, and had read
 
-306 THE SECOND BOOK.
+## 306 the Second Book
 
 papists say, but maketh of it his own body, then is the bread joined to his body in a greater unity than is his humanity to his Godhead. For his Godhead is adjoined unto his humanity in unity of person, and not of nature. But our Saviour Christ, by their saying, adjoineth bread unto his body in unity both of. nature and person: so that the bread and the body of Christ be but one thing both in nature and person. And so is there a more entire union between Christ and bread, than between his Godhead and manhood, or between his soul and his” body. And thus these arguments of the papists return, like riveted nails, i their own heads, |
 
@@ -75,7 +74,7 @@ WINCHESTER. r
 
 The solution to the second reason is almost as fondly handled, alluding from impanation to inaquation, although it was never said in scripture, “ This water is the Holy Ghost,’ but in baptism to be water and the Holy Ghost also. And of the dove is not said, “ This is the Holy Ghost,” but the Holy Ghost descended as in the resemblance of a dove. The substance of bread is not adnihilate, because God’s work is not adnihilation’, who giveth all being, and adnihilation is a defection of the creature from God; and yet Christ's body is not augmented by the substance of bread, in which body it endeth by conversion, as in the better, without adnihilation, which is a changing by miracle. And when this author knoweth this, or sho d nothing in the matter, as it were to make himself popular, to join himself in ignorance with the rude unlearned people.
 
-CANTERBURY.
+## Canterbury
 
 As for my solution to the second reason, it is able to stand against your confutation thereof, and to overthrow it quite. For no more is Christ in the bread and wine in the Lord’s supper, than the Holy Ghost is in the water of baptism: and therefore if the Holy Ghost be not inaquate, no more is Christ impanate. And when the scripture saith, “‘ Upon whomsoever thou shalt see the Holy Ghost coming down ;” and also when St John said, “I saw the Holy Ghost come down like a dove:” did he see any thing but the dove? And yet that which he saw, the scripture there, as well by the voice of God, as by the words of St John, calleth the Holy Ghost. Wherefore the scripture calleth the dove the Holy Ghost. For the speech was as much t say as, “This which I see come down, is the Holy Ghost :” and yet was that the dove, which he saw. And that the dove, which he saw, was the Holy Ghost, was as true a speech, as we, looking upon the bread which we see, do say, “This is the body of Christ.” And yet as that speech meaneth not that the Holy Ghost is made | dove, so this speech meaneth not that the body of Christ is impanate; no more tha these words of Christ, spoken unto his mother Mary, and to St John, “Lo son,” and, “Lo thy mother,” mean not that John was made Christ, nor that Mz his mother, was made John’s’ natural mother. a
 
@@ -109,11 +108,11 @@ from heaven,” and of spiritual eating by faith, after which sort he was at the
 
 fathers did eat manna in the desert and died, but he that eateth this bread shall live for ever.” Therefore this place of St John can in no wise be understand of the sacramental bread, which neither came from heaven, neither giveth life to all that eat®. Nor of such bread Christ could have then presently said, “ This is my flesh,” except they will say, that Christ did then consecrate so many years before the institution of his holy supper.
 
-A WINCHESTER.
+## A Winchester
 
 _ A third reason this author frameth himself, whereby to take occasion to affirm how the lath chapter of St John should not appertain to the sacramental manducation; the contrary whereof appeareth as well by the words of Christ in that sixth chapter, saying, “I will give,” not “I do give,” which promise was fulfilled in the supper, as also by the catholic writers, and specially by Cyril; and therefore I will not further strive with this author in ‘that matter, but see how he can assail the authorities, whereunto he entereth with great con-
 
-CANTERBURY.
+## Canterbury
 
 _ The third reason I framed not myself, as you say I did, but had it ready framed } vat of your own shop in your book of the “Devil's Sophistry.” And as for the sixth chapter of John, I have sufficiently shewed my mind therein in my answer to Doctor Smith’s preface, which shall suffice also for answer to you in this place.
 
@@ -149,7 +148,7 @@ And yet “the bread is changed, not in the shape nor substance, but in naar” 
 
 And likewise is the nature of the water changed in baptism, forasmuch ¢ beside his common nature, which is to wash and make clean the vod it declareth unto us that our souls be also washed and made clean by the Holy Ghost. And thus is answered the chief authority of the doctors, which th papists take for the principal defence of their error. But for further declaratior of St Cyprian’s mind herein, read the place of him before recited, fol. 24°. ;
 
-WINCHESTER.
+## Winchester
 
 First, in Cyprian, who speaketh plainly in the matter, this author findeth a fault, he is not wholly alleged ; whereupon this author brought4 in the sentence following, not necessary
 
@@ -165,9 +164,9 @@ _ To the purpose: the first words of Cyprian shew the manner of the constitution
 
 _ thing, and one reason. For in us they be done by little and little, but God works
 
-310 THE SECOND BOOK.
+## 310 the Second Book
 
-CANTERBURY. | . .
+## Canterbury. | .
 
 Where in my former book I found a fault in the allegation of Cyprian, it wa indeed no little fault, to allege those words that speak of the change of bread, and to leave out the example most necessary to be rehearsed, which should declare how it was changed ; which change is not by transubstantiation, as the example sheweth, but as it is in the person of Christ, whose humanity was not transubstantiate, although it was inseparably annexed unto the deity. | And the words following do not once touch the real and corporal presence of Christ's flesh in the bread; so far it is from the overthrowing of the true catholic faith by me taught. But Oeprian 4 in that place quite and clean overthroweth, as well your real presence, as your imagined transubstantiation, as hereafter by God’s grace shall be declared. But first it seemeth to me a strange thing, that such a learned man ¢ you take yourself to be in the tongues, cannot English this verb infundo, whereas every grammarian can tell the signification of fundo, effundo, and infundo. But it seemeth you have so dainty a stomach, that you can brook no meat but of your own dressing, though it be never so well dressed of other; yea, you had rather eat it raw, than to take it of another man’s dressing. And so much misliketh you all things 3 that other men do, that you be ready to vomit at it. No English can please you to this word infwndo but “Latin English,” as you call it; and that is such English as no English man can understand, nor Latin man neither, but only in that sense “that I have Englished it. And I pray thee, gentle reader, consider the great weighty cause why no English can please in this place, and thou shalt find it nothing else but ignorance, either of the speech or of God. ‘“ Pouring,” saith he, “maketh a successive working:” so doth “infusion” say I, and therefore in that respect as unfit a term as “pouring.” “But God’s work,” saith he, “is in an instant.” So is his “pouring,” say I, and all that he doth, even as well as his “infusion.” All man’s works be done in succession of time, (for a carpenter cannot build a house in a day,) but God in one moment could make both heaven and earth: so that God worketh without delay of time such things as in us require leisure and time. And yet God hath tempered his speech so to us in holy scripture, that he speaketh of himself in such words as be usual to us, or else could we speak here and learn nothing of God. And therefore whether we say “infusion” or “ pouring,” all is one the same suddenly in one moment.
 
@@ -175,7 +174,7 @@ And yet if you had well considered the matter, you should not have found tht sac
 
 And if I should play and scoff in such a matter, as you Fn I might dally w the word of “infusion,” as you do with the word “pouring.” For as you rejockill word of pouring, because some fond reader might fancy the bread in the sacram on to be “like a sop wherein liquor were poured,” by like reason may I reject your Englis Latin of “infuding,” because such a reader might fancy thereby the bread to be li water, wherein the divinity is steeped or infuded. As infused rhubarb is called, whe it is steeped certain hours in stilled water or wine without seething; and so be ros and violets likewise infused, when they be steeped in warm water to make jala thereof. But as apothecaries, physicians, surgeons, and alchemists use words of Gree
 
-AGAINST TRANSUBSTANTIATION.
+## Against Transubstantiation
 
 Arabic, and other strange languages, purposely thereby to hide their sciences from _ the knowledge of others, so far as they can; so do you in many parts of your book ee many strange terms, and strange phrases of speech, to obscure and darken thereby _ the matter of the sacrament, and to make the same meet for the capacities of very few, Uwich Christ ordained to be understanded and exercised of all men.
 
@@ -201,7 +200,7 @@ Chap. XII. Chrysostomus.
 
 The answer.
 
-“THE SECOND BOOK.
+## “The Second Book
 
 well to delay your hot wine, whereof you have drunken so much out of the cup of the great whore of Babylon, that the true wine, representing to us our whole redemp-— tion by the true blood of Christ, you have clearly transubstantiate and taken away. Now followeth my answer unto Chrysostom.
 
@@ -241,7 +240,7 @@ Matt. x. Matt. xx. John iv.
 
 John v. John vii. John viii.
 
-314 THE SECOND BOOK.
+## 314 the Second Book
 
 creet. persuasions therein, yet the success thereof came principally of the power of God, and of the working of the Holy Spirit; and that although the grafter and waterer of the garden be some things, and do not a little in their offices, yet it is God chiefly that giveth the increase; and that although he lived in this world, yet his chief life, concerning God, was by Christ, whom he had living within him; and that although he gloried in many other things, yea, in his own infirmities, yet his greatest joy was in the redemption by the cross of Christ; and that although our spirit daily fighteth against our flesh, yet our chief and principal fight is against our ghostly enemies, the subtle and puissant wicked spirits and devils.
 
@@ -271,7 +270,7 @@ Hitherto I have rehearsed St John Chrysostom’s words, which do shew
 
 Chrysostomus.
 
-316 - THE SECOND BOOK.
+## 316 - the Second Book
 
 how our minds should be occupied at this holy table of our Lord, that is to say, withdrawn from the consideration of sensible things unto the contemplation of most heavenly and godly things. And thus is answered this place of Chrysostom, which the papists took for an insoluble, and a place that no man was able to answer. But for further’ declaration of Chysostom’s mind in this matter read the place of him before rehearsed, fol. 26 and 28%.
 
@@ -279,7 +278,7 @@ Answering to Chrysostom, this author complaineth, as he did in Cyprian, of malic
 
 [! A further, 1551, and Orig. ed.] [* With words of, 1551.] [2 i. e. p. 273 and 286 of this volume. ] [) Of his own making, Orig. ed. Winch.] [3 A mistake apparently for visid/e.] : [° So neglecteth, Ibid.]
 
-CANTERBURY.
+## Canterbury
 
 I complained not of your crafty handling of Chrysostom without a just cause; for when you had alleged the words that seemed to make for your purpose, you left out the words that make clearly against you, or which words at the least would open all the whole matter. And yet the words which you leave out, follow immediately the words by you alleged.
 
@@ -293,7 +292,7 @@ Now followeth St Ambrose.
 
 Chap. x11I. Ambros.
 
-318 THE SECOND BOOK.
+## 318 the Second Book
 
 Yet there is another place of St Ambrose, which the papists think maketh iis,qui Mystemuch for their purpose, but after due examination, it shall plainly appear how tur.
 
@@ -301,7 +300,7 @@ Psal. exlviii.
 
 Vide Embd. id. in fine tomi hujus. ] much they be deceived. They allege these words of St Ambrose in a book entitled, De tis, qui initiantur Mysteriis: “Let us prove that there is not that thing which nature formed, but which benediction did consecrate; and that benediction is of more strength than nature: for by the blessing nature itself is also changed. Moses held a rod, he cast it from him and it was — made a serpent. Again he took the serpent by the tail, and it was turned again into the nature of a rod. Wherefore thou seest, that by the grace of the prophet the nature of the serpent and rod was twice changed. The floods of Egypt ran pure water, and suddenly blood began to burst out of the veins of the springs, so that men could not drink of the flood: but at the prayer of the prophet the blood of the flood went away, and the nature of water came again. The people of the Hebrews were compassed about, on the one side with the Egyptians, and on the other side with the sea: Moses lifted up his rod, the water divided itself and stood up like a wall, and between the waters was left a way for them to pass on foot. And Jordan against nature turned back to the head of his sprmg. Doth it not appear now, that the nature of the sea-floods, or of the course of fresh water, was changed? The people was dry, Moses touched a stone, and water came out of the stone. Did not grace here work above nature, to make the stone to bring forth the water, which it had not of nature? Marath was a most bitter flood, so that the people being dry could not drink thereof. Moses put wood into the water, and the nature of the water lost his bitterness, which grace infused did suddenly moderate. In the time of Heliseus the prophet, an axe-head fell from one of the prophet’s servants into the water: he that lost the iron desired the prophet Heliseus’ help, who put the helve into the water, and the iron swam above. Which thing we know was done above nature, for iron is heavier than the liquor of water. Thus we perceive that grace is of more force than nature; and yet hitherto we have rehearsed but the grace of the blessing of the prophets. Now if the blessing of a man be of such value, that it may change nature, what do we say of the consecration of God, wherein is the operation of the words of our Saviour Christ? For this sacrament which thou receivest is done by the word of Christ. Then if the word of Elias was of such power that it could bring fire down from heaven, shall not the word of Christ be of that power, to change the kinds of the elements? Of the making of the whole world thou hast read, that “God spake, and the things were done, he commanded and they were created.” The word then of Christ, that could of no things make things that were not, can it not change those things that be into that thing which before they were not? For it is no less matter to give to things new nature, than to alter natures'.”
 
-[? Quantis igitur utimur exemplis, ut probemus | cumclusus undique erat populus Hebrzorum, non hoe esse quod natura formavit, sed quod benedictio consecravit, majoremque vim esse benedictionis quam nature, quia benedictione etiam natura ipsa mutatur? Virgam tenebat Moyses, projecit eam, et facta est serpens. Rursus apprehendit caudam serpentis, et in virge naturam revertit. Vides igitur prophetica gratia bis mutatam esse naturam et serpentis et virge ? Currebant /Egypti flumina puro aquarum meatu, subito de fontium venis sanguis coepit erumpere. Non erat potus in fluviis. Rursus ad prophete preces cruor cessavit fuminum, aquarum natura remeavit. Cir- hine Agyptiis vallatus, inde mari clausus : virgam levavit Moyses, separavit se aqua, et in murorum ~ speciem congelavit, atque inter undas via pedestris apparuit. Jordanis retrorsum conversus contra — naturam in sui fontis revertitur exordium. Nonne — claret naturam vel maritimorum fluctuum vel fluvialis cursus esse mutatam? Sitiebat populus patrum, tetigit Moyses petram, et aqua de petra fluxit. _Numquid non preter naturam operata est gratia, ut aquam vomeret petra, quam non habebat natura? Marath fons amarissimus erat, — ut sitiens populus bibere non posset. Misit Moyses —
+[? Quantis igitur utimur exemplis, ut probemus | cumclusus undique erat populus Hebrzorum, non hoe esse quod natura formavit, sed quod benedictio consecravit, majoremque vim esse benedictionis quam nature, quia benedictione etiam natura ipsa mutatur? Virgam tenebat Moyses, projecit eam, et facta est serpens. Rursus apprehendit caudam serpentis, et in virge naturam revertit. Vides igitur prophetica gratia bis mutatam esse naturam et serpentis et virge ? Currebant /Egypti flumina puro aquarum meatu, subito de fontium venis sanguis coepit erumpere. Non erat potus in fluviis. Rursus ad prophete preces cruor cessavit fuminum, aquarum natura remeavit. Cir-hine Agyptiis vallatus, inde mari clausus : virgam levavit Moyses, separavit se aqua, et in murorum ~ speciem congelavit, atque inter undas via pedestris apparuit. Jordanis retrorsum conversus contra — naturam in sui fontis revertitur exordium. Nonne — claret naturam vel maritimorum fluctuum vel fluvialis cursus esse mutatam? Sitiebat populus patrum, tetigit Moyses petram, et aqua de petra fluxit. _Numquid non preter naturam operata est gratia, ut aquam vomeret petra, quam non habebat natura? Marath fons amarissimus erat, — ut sitiens populus bibere non posset. Misit Moyses —
 
 Thus far have I rehearsed the words of St Ambrose, (if the said book be his, which they that be of greatest learning and judgment do not think;) by which words the papists would prove, that in the supper of the Lord, after the words of consecration, as they be commonly called, there remaineth neither bread nor wine, because that St Ambrose saith in this place, that “ the nature of the bread and wine is changed.” ,
 
@@ -325,7 +324,7 @@ And hereof he bringeth four examples*. The first of the regeneration of a man: t
 
 Thus is a sufficient answer made unto three principal authorities, which the papists use to allege, to stablish their error of transubstantiation: ‘the first of — Cyprian, the second of St John Chrysostom, and the third of St Ambrose. Other authorities and reasons some of them do bring for the same purpose; but forasmuch as they be of small moment and weight, and easy to be answered unto, I will pass them over at this time, and not trouble the reader with them, but leave them to be weighed by his discretion.
 
-WINCHESTER.
+## Winchester
 
 Now let us hear what this author will say to St Ambrose. He rehearseth him of good : length, but translateth him for advantage. As among other, in one place where St Ambrose saith, “ This sacrament, which thow receivest, is made by the word of Christ;” this author 7 translateth, “Is done by the word of Christ,” because making must be understanded in the subj stance of the sacrament chiefly before it is recewed, and doing may be referred to the effect — chiefly: for which purpose it should seem the author of this book cannot away with the — word “made,” whereat it pleaseth him in another place of this book to be merry, as at an absurdity in the papists, when indeed both St Ambrose here, St Cyprian and St Hierome also — in their places use the same word, speaking of this sacrament, and of the wonderful work — of God in ordaining the substance of it, by such a conversion as bread is made the body of — Christ. But as touching the answer of this author to St Ambrose, it is divers. For first
 
@@ -349,7 +348,7 @@ Changes of things, the substances remaining.
 
 - doing is in the effect. But whether it be translate “making” or “doing,” St Ambrose
 
-322 THE SECOND BOOK.
+## 322 the Second Book
 
 the same; and how, in the mean way, this author hath by his own hands pulled down the same untrue doctrine of the figurative speech, that himself so lately hath devised; or rather, because this matter in his book goeth before, he hath in his second book marred his frame or ever he cometh to the third book to set it up.
 
@@ -401,7 +400,7 @@ And now I will rehearse divers difficulties, absurdities, and inconveniences, do
 
 First, if the papists be demanded, what thing it is that is broken, what is eaten, what is drunken, and what is chawed with the teeth, lips, and mouth in this sacrament, they have nothing to answer, but the accidents. For, as they say, “ bread and wine be not the visible elements in this sacrament, but only their accidents.” And so they be forced to say, that accidents be broken, eaten, drunken, chawn, and swallowed without any substance at all: which is not only against all reason, but also against the doctrine of all ancient authors.
 
-WINCHESTER.
+## Winchester
 
 In the second volume of the forty-third leaf}, the author goeth about to note six absurdi- — ties in the doctrine of transubstantiation, which I intend also to peruse. The first is this.
 
@@ -417,7 +416,7 @@ AGAINST TRANSUBSEANTIATION, 325 and where the piece of bread broken is so little
 
 hath no such clear absurdity as this author would have it seem. But leaving of the matter of philosophy to the schools, I will grant that accidents to be without substance is against the common course of natural things, and therefore therein is a special miracle of God. But when the accidents be by miracle without substance, (as they be in the visible part of the sacrament,) then the same accidents to be broken, eaten, and drunken, with all additions this author for his pleasure maketh therein, is no miracle or marvel, and as for absurdity no point at all, for by quantity which remaineth is all division. We ought to confess, and good christian men do profess, the mystery of the sacrament to be supernatural, and above the order of nature; and therefore it is a travail in vain to frame the consideration of it to agree with the terms of philosophy. But where this author saith that nothing can be answered to be broken but the accidents: yes, verily, for in time of contention, as this is, to him that would ask what is broken, I would in other terms answer thus, That thow seest is broken. And then if he would ask further, what that is? I would tell him, The visible matter of the sacrament, under which is present invisibly the substance of the most precious body of Christ. If he will ask yet further, Is that body of Christ broken? I will say, No. For I am learned in faith, that that glorious body now impassible cannot be divided or broken, and therefore it is whole in every part of that is broken, as the substance of bread is in common bread in every part that is broken. According whereunto it is in the book of common prayer set forth, how in each part of that is broken of the *The book consecrate bread is the whole body* of our Saviour Christ®. If this questioner be further curious, bebe sri and say, Is not that that is broken bread? I would answer as a believing man by faith, Truly no. For in faith I must call it, because it is truly so, the body of Christ invisibly there, and the breaking to be not in it, but in the visible figure’. Yea, ye will call it so, saith this questioner, but yet it is bread. Nay, quoth I, my faith is a most certain truth, and believeth things as they verily be; for Christ's word is of strength, not only to shew and declare as other men’s _ words do, but therewith effectual to make it so to be, as it is by him called. And this I write because, howsoever clerks soberly entreat the matter, (such as mind well, I mean, to consider accidents and substance, which terms the rude understand not,) it is not necessary therefore in those terms to make answer to such as be contentiously curious, who labour with questions to dissolve the truth of the mystery; in declaration whereof if we as men stumble and term it otherwise than we should, that is no inconvenience in the mystery, but an imperfection in us that be not able to express it, not having such gifts of God as other have, nor studying to attain learning as other have done. And whatsoever in schools, with a devout mind to answer all captious questions, hath for the exercitation of men’s senses been moved soberly and by way of argument objected, that is now picked out by this author, and brought to the common people's ears, in which it might sound evil, they not being able to make answer thereunto, whereby they might be snarled and entangled with vain fancies against that truth, which before without curiosity of questions they truly and constantly believed. Finally, the doctrine of the sacrament is simple and plain, to have the visible forms of bread and wine for signification, the thing whereof is the very body and blood of Christ; which being the truth of the whole, it is _ no absurdity to confess truly the parts as they be, if occasion require, howsoever it soundeth to the ethnick or carnal man’s ears, for whose satisfaction there is no cause why the truth should be altered into a lie, wherewith to make melody to their wnderstandings. For howsoever carnal reason be offended with spiritual truth, it forceth not; but against the whole consent of the ancient doctors no doctrine can be justified, with whose testimony how the faith of the church in the sacrament now agreeth, it is manifest, howsoever it liketh this author to report the contrary.
 
-CANTERBURY.
+## Canterbury
 
 Here may the reader perceive how much you sweat and labour, so that it pitieth 349. me to see what travail you take, babbling many things nothing to the purpose, to answer my first absurdity. And yet at the end you be enforced to affirm all that I
 
@@ -429,7 +428,7 @@ Substances eannot be without accidents.
 
 1 Cor. x. Matt. xxvi. Mark xiv. Luke xxii.
 
-326 THE SECOND BOOK.
+## 326 the Second Book
 
 charge you withal, that is to say, that accidents be broken, eaten, drunken, chawed and swallowed, without any substance at all. And more I need not to say here, than before I have answered to your clerkly dialogue between the scholar and the rude man, saving this, that you make all men so wise that they judge accidents in their common understanding to be called substances, and that no man is able to know the difference of one substance from another.
 

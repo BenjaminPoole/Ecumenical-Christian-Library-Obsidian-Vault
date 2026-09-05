@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Joshua 3:1-13
 

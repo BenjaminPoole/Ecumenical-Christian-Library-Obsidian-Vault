@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 15. The Practice of Prelates, Part 3
 
 [5 Polydore Vergil, in reference to the circumstance, says : ' Quamvis re vera princeps ilia, mulier optima, noluerit quicquam audiro de nuptiis, quse nuptise non possent conjungi sine miserabili CathariniB casu.' p. 1735. It is well known that Margaret was favourable to the reformation.]
@@ -23,7 +22,7 @@ tags:
 
 [tyndale, II.]
 
-322 THE PRACTICE OF PRELATES.
+## 322 the Practice of Prelates
 
 emperor ^ and imagined this* divorcement between the king and the queen, and wrote sharply unto the emperor with menacing letters, that if he would not make him pope, he
 
@@ -39,7 +38,7 @@ gance of would uot ", but should also set so little by the whole realm cardinal 
 
 [ ^ See Sh. Turner, Hist. Hen. VIH. ch. xx. Vol. ii. p. 1501.] [2 So M. ed., but D. has (Ae.]
 
-THE MOSAIC LAW. 323
+## The Mosaic Law. 323
 
 Of the diyorcomcnt.
 
@@ -49,7 +48,7 @@ The controversy and strife of the matter, and all the doubt JJJJJJ^ and difficul
 
 [ Unhele, i. e. uncover.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 The law of ceremonies. W.T.
 
@@ -69,7 +68,7 @@ Moreover, whosoever hath this law graven in his heart, aiii.-. this same keepeth
 
 Furthermore, he that loveth God hath this commandment also, that he love his brother or neighbour, in the fourth chapter of the first epistle of John. For how can a man love i John i. the father, and hate the son, whom the father loveth ? Even so how canst thou love God the Creator, and hate that creature whom he hath created and made after his own likeness ; and so loveth him, that he hath made him lord over all other creatures, and thereto hath given his own Son unto the death for his sake, to shew him kindness, that he might
 
-326 THE PRACTICE OF PRELATES.
+## 326 the Practice of Prelates
 
 see love, and to love again ? How also can I love our Saviour Jesus Christ, and hate him whom he hath bought with his blood ? Though the son be never so evil, yet if I love his father heartily, I cannot but be sorry that the son is evil, and wish him good in mine heart, and help to the uttermost of my power to make him better, even for his father's sake : until I see him run so far that he go about to slay his father ; which thing if he do, then I resist him unto the uttermost of my power. Even so, though my neighbour be never so evil, yet as long as 1 love God, and Christ our Saviour, with all mine heart, I cannot but love him, and help to better him with all my power; until he run so far, that he beginneth to fight against God, and to destroy the law of God, and the testament that God hath made unto man : then I resist him with all my power, as God hath taught me to resist.
 
@@ -77,7 +76,7 @@ Now if I love my neighbour in God faithfully and unfeignedly, then I cannot find
 
 ^'^' the king's grace and the queen, will haply say, that the first text is a law depending of the law natural, (for, undoubted, it is no ceremony, nor yet law of penalty,) and therefore pertaineth unto all men indifferently, and ought to be kept of all nations ; and that the second is a ceremony, and therefore ceaseth at the coming of Christ. I answer : If it be a ceremony, then it hlvxi"rim. ^^ ^ s^g'i' ^^d must have a signification. It must signify some yf]j^ benefit of God done already, or some vengeance taken for sin, or some promise, or something that I must do or leave undone at the commandment of God. Now the signification of it they will shew me, when our lady hath a new son.
 
-LAWS REGARDING A BROTHER'S WIFE. 327
+## Laws Regarding a Brother's Wife. 327
 
 Moreover, there is no ceremony of Moses, but that I may fmoin keep it this day as an indifferent thing ; howbeit, not as a !*"^' *" thing so necessary unto my soul's health, that I should think that I sinned if I did not. But I may eat the Easter lamb of passover every year, when the time cometh, if I will. And I may circumcise myself for my pleasure, as well as pare my nails, if I list. And I may burn the blood and fat of oxen and calves unto this day without sin, as an indifferent thing ; and give this signification thereto, that as the fat consumeth in the fire, even so doth the sin of all men that repent consume in the hot fire of the love of God to us-ward in Christ Jesus the Lord ; and so forth. If it be a ceremony, then, how happeneth it that this one ceremony is unlawful among all other ?
 
@@ -85,7 +84,7 @@ Thereto, inasmuch as Moses in all his laws sought the glory of God and the puren
 
 If a man will say, the first is a law, and the second a permission, as the permission of divorcements, when a man did hate his wife : nay, verily, it is not a permission, but a flat commandment, and that under pain of great shame and
 
-328 THE PRACTICE OF PRELATES.
+## 328 the Practice of Prelates
 
 rebuke unto the man, if he did it not, and under the loss of all her husband's possession unto the woman, if she offered not herself. Of which law, also, because thou needest not to dream of a ceremony, a man may shew a good natural reason, profitable unto the commonwealth. For a woman, when she is married, she forsaketh her father's kin, and bringeth her dowry with her, and taketh her name among her husband's kin. Now if her husband die childless, it is not reason that she should be cast out of the kin empty, neither is it right that she should carry her husband's possessions out of his kin away with her, and that a stranger should get a child of her, to possess them. Thou wilt say, that the lands might return unto the next of his kin, and the wife have a portion her life long only. Then should great possessions come into the hands of one man, and so should there many tyrants rise among the people : which to avoid, God ordained that the lands should be scattered ever among as many as might be of the same kin ; and for the same cause would suffer no man to buy any lands for ever. For God thinketh it better for his commonwealth, that twenty should spend twenty or forty shillings apiece, than that one should spend twenty or forty pounds, and nineteen never a whit : for then must many poor hang on one rich ; which rich for the most part be of corrupt minds, and so sensual that they will look on no man to do him good, except it will be on such as will follow their lusts. And so should the people follow the will of man, and not of God ; and be compelled to live wickedly, and to murder, steal, and oppress their brethren, to fill their bellies withal.
 
@@ -93,7 +92,7 @@ Moreover, it was a law in the time of the law natural, four hundred years before
 
 Gen. xxxviii. his brother's wife, as thou seest Genesis xxxviii. Also, Moses forbiddeth not a man, when his wife is dead, to marry her sister. If one man may marry two sisters, why may not one woman marry two brethren ? Are not two sisters as nigh of kin as two brethren ?
 
-How the Wherefore I see no remedy, but that a man must under- text IS to be ^ undersuxKi. gtaud the text thus : That Moses forbiddeth a man to take bis brother's wife as long as his brother liveth ; as in the text following, when he forbiddeth a man to take his neighbour's wife, he meaneth while his neighbour liveth ; for
+How the Wherefore I see no remedy, but that a man must under-text IS to be ^ undersuxKi. gtaud the text thus : That Moses forbiddeth a man to take bis brother's wife as long as his brother liveth ; as in the text following, when he forbiddeth a man to take his neighbour's wife, he meaneth while his neighbour liveth ; for
 
 LAWS REGARDING A BROTHER'S WIFE. 329 after his death it is lawful. And therefore John rebuked Herod for taking his brother's wife from him, his brother being yet alive. Or at the uttermost, if they will strive and shew no cause why, it can extend no further than that a man may not take his brother's wife, if he have issue by her; which I suppose an indifferent thing to have her op not, as they can agree ; but if his brother die childless, then he ought to have her, and that she is bound to offer herself to the other brother, by the law of Moses ; and that it is lawful now, though no commandment.
 
@@ -101,7 +100,7 @@ If it be understood of a man's brother's wife, ho being alive, then haply ye wil
 
 They will haply say also, that if it be to be understood of a man's brother's wife, while his brother Uveth, then they will understand of the father's and uncle's wives also, while the father and uncle live. Nay, verily, it is far unlike. For my father's wife and mine uncle's wife are my superiors, and persons unto whom I owe obedience by the means of my father and uncle. Now if I should marry them, then I should make them my servants, (for the wife must obey her husband;) and so pervert I the law of nature and natural equity and
 
-330 THE PRACTICE OF PRELATES.
+## 330 the Practice of Prelates
 
 honesty. Ye will say that when my father and uncle be dead, the obedience is loosed. Verily, it might well stand with the pope's doctrine ; for he thrusteth kings down and emperors thereto, and exalteth their sworn subjects into their rooms : he raketh one out of the dunghill on the one day, and out of the most low and vile kind of subjection, and maketh him on the morrow superior unto his own prince, and to all the lords of his realm, in worldly pomp and dignity. But God teacheth his children to humble themselves; and Christ teacheth his disciples to come lower and lower. I suppose, therefore, that a man ought much more to do them service, and obey them, and to give them honour and reverence now after the deaths of their husbands, than before. Moreover, ye see that a man may not marry his daughterin-law after his son's death, by the story of Judah. And again, ye see that David, after the death of his son Absalom, would not meddle with his own wives, which his son Absalom had before corrupt, but shut them up in perpetual widowhood. Now if the father, after the death of his son, abstain from her that was one flesh with his son, for natural reverence ; how much more ought the son, after the death of his father, to abstain from her that was one flesh with his father, to whom also, by the reason of his father, he oweth obedience thereto !
 
@@ -119,7 +118,7 @@ Nevertheless, the marriage of the brother with the sister is not so grievous aga
 
 Wherefore, if greater peace and unity might be made with keeping her at home, I durst dispense with it : as, if the king of England had a son by one wife, heir to England, and a daughter by another, heir to Wales ; then, because of the great war that was ever wont to be between those two countries, I would not fear to marry them together, for the making of a perpetual unity, and to make both countries one, for to avoid so great effusion of blood. For which cause, I would God that our princess had been married unto the king
 
-332 THE PRACTICE OF PRELATES.
+## 332 the Practice of Prelates
 
 of Scots, And I doubt not but that had been concluded long ago, if it had been as greatlj unto the profit of the pope and his pilpates, (I would say prelates,) as it were to the honour of God. But it is not profitable for them that any kingdom should be strong and mighty, lest, if God should open the eyes of the king, the pope should have too much ado to resist him, and to send in other kings upon him, to conquer his realm.
 
@@ -133,7 +132,7 @@ which not only clothed his Son with our vile nature, but made him also of the ve
 
 [' That is, earlier.]
 
-PERIL TO THE REALM OF ENGLAND. 333
+## Peril to the Realm of England. 333
 
 Steps beneath the degree of a cardinal, and sent him to rebuke the scribes and the Pharisees which sat on Moses' seat, for their evil doing and false doctrine, beside the law of Motet. And the glorious scribes and the Pharisees, for all their holioeoa, rebuked not Herod; nor Caiphas and Annas, for all their highness ; but vile John the Baptist. By what authority ? Verily, by the authority of God's word; which only, whatsoever garment she wear, ought to have all authority among them that have professed it. That word is the chiefest of the apostles, and pope, and Christ's vicar, and head of the church, and the head of the general council. And unto the authority of that ought the children of God to hearken without respect of person ; for they that are of God, hear God's word. (John vi.) John t And Christ's sheep hear Christ's voice (John x.), yea, though '* * he speak by a calf.
 
@@ -145,13 +144,13 @@ Now to that I promised, how that I would shew you by what means this marriage mi
 
 The king's grace, will ye say, shall have another wife, and she shall bear him a prince, and he shall break strife. Who hath promised him a prince? Moreover, if his new marriage be not well proved, and go forth with good authority,
 
-334 THE PRACTICE OF PRELATES.
+## 334 the Practice of Prelates
 
 SO shall we yet follow ther princess still ; or, if she be sent another way, some other, whom we shall suppose more righteous inheritor : and so the new prince is like to go after king Henry of Windsor's prince, and king Edward's children. And I will tell you yet another sport. As soon as the cardinal had sent the emperor a defiance, and upon that defiance had arrested the emperor's ships in England, and our ships and men were arrested also in all regions of the emperor ; then went the common fame throughout all Dutchland, that the emperor's council, Holland, Braband, and Zealand, had determined, if the war had proceeded, to have set up the king of Denmark that was, to have challenged his right in England. For the Danes challenge England, as we challenge France ; and the king of Denmark writeth himself king of England, as our king writeth himself king of England and France. And this is once : the old king of Denmark, with his son, a goodly prince if he had lands, shall never come in Denmark again, of any likehhood\ Wherefore, if ye fall together by the ears, may he not by some chance, if God be angry with you, make an appointment with the king of Scots to come in upon you on the one side, and make for his part what friends he can in Dutchland, and send unto the new king of Denmark, and give up his title for ever to get rid of him, so to come in on the other side, and conquer you? And twenty other ways are ye like to come in danger ; which I commit unto your own consideration.
 
 The putting down of the cardinal 2.
 
-w^i^^a -^^^ finally, concerning the cardinal's putting down, I con- great traitor, gjjgr many things : first, that I never heard or read that any man, being so great a traitor, was so easily put to death : then the natural disposition and inclination of the man, how that his chief study, yea, and all his felicity and inward joy, hath ever been to exercise that 'angel's wit of his' (as my lord of Lincoln was wont to praise him) in driving of such drifts to
+w^i^^a -^^^ finally, concerning the cardinal's putting down, I con-great traitor, gjjgr many things : first, that I never heard or read that any man, being so great a traitor, was so easily put to death : then the natural disposition and inclination of the man, how that his chief study, yea, and all his felicity and inward joy, hath ever been to exercise that 'angel's wit of his' (as my lord of Lincoln was wont to praise him) in driving of such drifts to
 
 [1 Christiem II., king of Denmark and Norway, and at the beginning of his reign king of Sweden also, had lost all his kingdoms by disgusting his subjects with his cruelty and treachery. He reigned over Denmark from 1513 to 1523; when he was finally expelled, and superseded by his uncle, Frederic duke of Sleswick.]
 
@@ -169,7 +168,7 @@ And then, to blind the world withal, many quarrels were picked : the cardinal mi
 
 [6 The disgusting charge noticed in this paragraph WM the tnibJMi of Art. 6 in the 44 charges preferred against Wolsey in pari" Fiddes' Life of Wolsey, App. of documents, pp. 21623.] testaments.
 
-336 THE PRACTICE OF PRELATES.
+## 336 the Practice of Prelates
 
 Then they called a parliament (as though the golden world should come again), wherein the hypocrites, to blear
 
@@ -203,7 +202,7 @@ When this reformation, the colour and cloak of their ThtioMtoii hypocrisy, was m
 
 [tyndale, II.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 tt'!ueT-''^ as the bishopricks be nothing save worldly pomp and honour, superfluous abundance of all manner riches, and liberty to do what a man hsteth unpunished ; things which only the evil desire, and all good men abhor.
 
@@ -233,7 +232,7 @@ And shortly, for lack of authority of God's word, Martin must be condemned by th
 
 [2 The last sentence is omitted in Day's ed.]
 
-THE TRACTICE OF PRELATES.
+## The Tractice of Prelates
 
 Martin Luther submitted himself to king Henry VIII.
 
@@ -267,7 +266,7 @@ And all that be sworn unto the cardinal, I warn them yet
 
 [8 Ferdinand king of Hungary, who eventually soeeee d ed his brother Charles V. as emperor of Germany.]
 
-342 THE PRACTICE OF PRELATES.
+## 342 the Practice of Prelates
 
 once again to break their oaths, as I did in 'The Obedience.'
 
@@ -281,7 +280,7 @@ At the beginning of the war between the French king and the emperor the prognost
 
 [* That is, neither the one nor the other.]
 
-A GENERAL WARNING. 848
+## A General Warning. 848
 
 And as for them which for lucre, as Judas, betray the truth, and write against their consciences; and which for honour, as Balaam, enforce to curse the people of God ; I would fain (if their hearts were not too hard) that they did repent. And as fain I would, that our prelates did repent, if it were possible for them to prefer God's honour before their own*. And let them remember what wrong they have done to the queen, and what fruit they have lost her, that never could come unto the right birth, for sorrow which she suffered through their false means ; than which what greater treason could they work unto the realm of England?
 
@@ -291,7 +290,7 @@ These ^ be sufficient at this time, although 1 could say more, and though other 
 
 [6 The remainder of the paragraph is omitted in Day's ed.] [6 S. and S. edition does not resume Tyndale's text, till it come* to the words, ' These be sufficient.']
 
-344 THE PRACTICE OF PRELATES.
+## 344 the Practice of Prelates
 
 the open truth, and not to have power to repent. And therefore, I doubt not, if men will not be warned hereby, but that God will utter more practice by whom he will, and not cease until he have broken the bond of wily hypocrites which persecute so subtilly. GodismerciAud^ finally, if the persecution of the king's grace, and f^^am^ but of other temporal persons conspiring with the spiritually, be the'mSlcious of iguorancc, I doubt not but that their eyes shall be opened fender. shortly, and they shall see and repent, and God shall shew them mercy. But and if it be of a set malice against the truth, and of a grounded hate against the law of God by the reason of a full consent they have to sin, and to walk in their old ways of ignorance, whereunto (being now past all repentance) they have utterly yielded themselves, to follow with full lust, without bridle or snaffle, which is the sin against the Holy Ghost ; then ye shall see, even shortly, that God shall turn the point of the sword, wherewith they now shed Christ's blood, homeward to shed their own again, after all the examples of the bible. Theobedi- -^^^ ^* them remember that I, well toward three years chrisfan agone^, to prevent all occasions and all carnal beasts that seek ^ree^ears^" flcshly liberty, sent forth * The true Obedience of a Christian boo"kf' '* Man,' which yet they condemned, but after they had condemned the new Testament, as right was, whence * The Obedience' had his authority. Now then, if when the light is come abroad, in which their wickedness cannot be hid, they find no such obedience in the people unto their old tyranny, whose fault is it ? This is a sure conclusion : none obedience, that is not of love, can long endure ; and in your deeds can no man see any cause of love : and the knowledge of Christ, for whose sake only a man would love you, though ye were never so evil, ye persecute. Now then, if any disobedience rise, are ye not the cause of it yourselves^? Say not but that ye be warned !
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Penitence, Pardon and Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3359
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold, a woman in the city, who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, brought an alabaster box of ointment, and stood at His feet behind Him weeping, and she began to wash His feet with her tears, and wiped them with the hair ofher head, and kissed His feet and she anointed them with the ointment" Luke 7:37-38.
 
@@ -53,7 +50,7 @@ Our text begins with a, "behold," and it may well be so, for a forgiven sinner i
 
 Let all know it upon earth and let Heaven know it—and let the loud harps ring in yon celestial halls because of matchless Grace! Behold, then, this woman's character, and remember—however fallen you may have been—the Grace of God can yet save you! Now, secondly, let us consider, at some length—
 
-II. THE DEED OF LOVE WHICH INDICATED HER CONVERSION.
+## II. The Deed of Love Which Indicated Her Conversion
 
 Her conduct as a convert was wide as the poles asunder from that of her unregenerate state—she became as evidently a penitent as she had been a sinner. One of the expositors upon this passage says that he cannot so much expound it as weep over it—and I think every Christian must feel very much in that humor. O that our eyes were as ready with tears of repentance as were hers! O that our hearts were as full of love as hers and our hands as ready to serve the forgiving Lord! If she has exceeded some of us in the publicity of her sin, yet has she not exceeded all of us in the fervency of her affection!
 
@@ -113,7 +110,7 @@ And what she did was so real, so practical, s o free from the mere froth of prof
 
 See, dear Friends, what Divine Grace made of "the woman that was a sinner." Perhaps you thought her worse than yourselves in her carnal state—what do you think of her as a penitent? What do you think of yourselves if you stand side by side with her? Do you not blush for very shame and ask for forgiveness of your Lord for the slenderness of your affection? Lastly, let us see—
 
-III. THE SAVIOR'S BEHAVIOR TO HER.
+## III. The Savior's Behavior to Her
 
 What did He do? First, He silently accepted her service. He did not move His feet away, did not rebuke her, or bid her to leave. He knew that reflections were being cast upon His Character by His allowing her to touch Him, yet He did
 
@@ -136,7 +133,6 @@ She had a choice blessing in hearing from His own lips that her faith was firmly
 That is just, I think, what the Lord Jesus would have me say to my dear friends who have followed me in this discourse. You see what Grace can do—go home and let your family see it! If any of you are conscious of great sin—and have received great forgiveness—and, therefore, wish to show your love to Jesus, do what is on your heart! But at the same time remember that He would have you go in peace. Let a holy calm abide in your breast. Do not enter into the vain jangling and endless controversies of the hour. Do not worry yourself with the battles of the newspapers and magazines that are everlastingly worrying poor souls with modern notions. Go in peace! You know what you know—keep to that. You know your sin and you know Christ, your Savior! Keep to Him and live for Him. Go home into the family circle and do everything you can to make home happy, to bring your brothers and sisters to Christ and to encourage your father and mother if they have not yet found the Savior!
 
 Home is especially a woman's place. There she reigns as a queen! Let her reign well. Around the hearth and at the table, in the sweets of domestic relationships and quiet friendships, a woman will do more for the Glory of the Lord Jesus Christ than by getting up to preach! In the cases of men, also, many who long to flash in public had better by far shine at home! Go home in peace and, by a happy, holy life, show to others what saints God can make out of sinners! You have seen what sin and the devil can do to degrade—go and prove what Grace and the Holy Spirit can do to elevate—and may many, cheered by your example, come and trust your Lord!
-
 
 ---
 [[Sermon 3358 'Grace and Glory'|← #3358]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3360 Pleading With the Indifferent|#3360 →]]

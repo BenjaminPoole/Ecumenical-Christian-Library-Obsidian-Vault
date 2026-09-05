@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 171. Matthew 21:10-22; Mark 11:11-24;Luke 19:39-48
-
-MATTHEW 21:10-22; MARK 11:11-24;  
-LUKE 19:39-48
 
 **10.** And when he entered into Jerusalem, the whole city was moved, saying, Who is this? **11.** And the multitudes said, This is Jesus the prophet of Nazareth in Galilee. **12.** And Jesus entered into the temple of God, and drove out all that sold and bought in the temple, and overturned the tables of the money-changers, and the seats of those who sold doves; **13.** And said to them, It is written, My house shall be called a house of prayer; but you have made it a den of robbers. **14.** And the blind and lame came to him in the temple, and he cured them. **15.** When the chief priests and the scribes saw the wonderful works which he did, and the children crying in the temple, and saying, Hosanna to the Son of David! They were enraged, [^1] **16.** And said to him, Hearest thou what these say? And Jesus saith to them, Yes; and have you never read, Out of the mouth [^2] of infants and sucklings thou hast perfected praise? **17.** And, leaving them, he went out of the city into Bethany, and lodged there. **18.** And in the morning, returning to the city, he was hungry. **19.** And when he saw a fig tree near the road, he came to it, and found nothing on it but leaves only. And he said to it, Let no fruit grow on thee henceforth forever; and immediately the fig tree withered. **20.** And when his disciples saw it, they wondered, saying, How quickly is the fig tree withered! **21.** And Jesus answering said to them, Verily I say to you, If you have faith, and do not doubt, not only will you do what has taken place in the fig tree, but also, if you shall say to this mountain, Be thou removed, and thrown into the sea, it shall be done. **22.** And all things, whatsoever you shall ask in prayer, believing, [^3] you shall receive.
 

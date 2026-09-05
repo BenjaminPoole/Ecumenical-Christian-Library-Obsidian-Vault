@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Free Pardon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1142
-
-DELIVERED BY.
 
 > "I, even I, am He that blots outyour transgressions for My own sake, and will not remember your sins." Isaiah 43:25.
 
@@ -142,7 +139,6 @@ Let angels sound His sacred name,
 And e very creature say, 'Amen!'" None will more loudly sing the praises of God than those who have been washed in the precious blood and have had their transgressions blotted out! The Lord bless you and give every one of you to know and taste all this, and that, too, at this very hour if it is His will, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 43:22-28, 44:1-22.
-
 
 ---
 [[Sermon 1141 Good News for the Destitute|← #1141]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1143 Death for Sin and Death to Sin|#1143 →]]

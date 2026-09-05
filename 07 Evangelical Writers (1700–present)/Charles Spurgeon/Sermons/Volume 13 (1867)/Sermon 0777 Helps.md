@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/13
 ---
-
 # Helps
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 777
@@ -121,7 +120,7 @@ If you would do people good you must go down to them where they are! It is no us
 
 III. Let me now close by ENDEAVORING TO INCITE THOSE OF MY BROTHERS AND SISTERS WHO HAVE
 
-BEEN "HELPS" TO GO ON YET MORE EARNESTLY IN THE WORK, AND TO STIR UP THOSE WHO HAVE NOT TRIED IT, TO BEGIN.
+## Been "Helps" to Go on yet More Earnestly in the Work, and to Stir up Those Who Have Not Tried It, to Begin
 
 Perhaps somebody may ask, "Why should I help others?" and my answer shall be, "because souls want help." Is not that enough? The cry of misery is a sufficient argument for mercy. Souls want it. They die. They perish. They are ready to despair. Help them. There was a story in the papers last week of a man being found dead in a ditch who had been lying there, dead, for six weeks. It was said that somebody had heard a cry of, "Lost, lost," but it was dark and he did not go
 
@@ -146,7 +145,6 @@ all up to help in this work—old men, young men, and you, my Sisters, and all o
 I want to make you feel, "I cannot do much, but I can help. I cannot preach, but I can help. I cannot pray in public, but I can help. I cannot give much money away, but I can help. I cannot officiate as an elder or a deacon, but I can help. I cannot shine as a bright particular star, but I can help. I cannot stand alone to serve my Master, but I can help." There is a text from which an old Puritan once preached a very singular sermon. There were only two words in the text, and they were, "And Bartholomew." The reason he took the text was that Bartholomew's name is never mentioned alone, but he is always spoken of as doing some good thing with somebody else. He is never the principal actor, but always second. Well, let this be your feeling—that if you cannot do all yourself, you will help to do what you can.
 
 Gather we not, this night, as a meeting of Council to present degrees to such disciples as through many sessions of labor have merited them? I confer upon you who have used your opportunities well the sacred title of "Helps." Others of you shall have it when you deserve it. Go and win it! God grant that it may be your joy to wear the holy vestment of charity, fringed with humility, and to enter into Heaven praising God that He helped you to be a helper to others.
-
 
 ---
 [[Sermon 0776 A Song at the Wellhead|← #776]] · [[Volume 13 (1867)|Volume 13 (1867) Contents]] · [[Sermon 0778 Plain Words With the Careless|#778 →]]

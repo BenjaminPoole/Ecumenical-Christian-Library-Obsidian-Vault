@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # Direction In Dilemma
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 541
@@ -119,7 +118,7 @@ Sinner, why will you be trying your prayers, your Church attendance, your sacram
 
 "None but Jesus, none but Jesus Can do helpless sinners good."
 
-SINNER, STAND STILL NOW!
+## Sinner, Stand Still Now!
 
 But now, in the second and last place upon this point, the sinner says, "Suppose then, I give up all hope and do no more by way of trusting to myself, what shall I see?" Why, you shall see the salvation of God! Do remark, dear Friends, that all the sinner can do is to see this salvation. He is not to work it out—he is not to help it on—he is to see it. Yet, mark you, that the sinner cannot even find out that salvation of itself. For if you notice, the next sentence to our text is, "which He will show you today." God must show it to us, or else we cannot see it. "No man can come to Me, except the Father which has sent Me draw him." There must be a manifestation of Christ to us before we shall ever be able to perceive Him.
 
@@ -142,7 +141,6 @@ Hell did not know a more dolorous cry, than "My God, My God, why have you forsak
 "Well," says one, "but you really do not mean to say that I am now, just as I am, to trust Christ to save me and it is all done?" I do. Sinner, you have not misunderstood me. It is just that. Sinner, do nothing, either great or small. Jesus did it all, long, long ago. To add anything to Him were to insult His perfect work. To hope to complete His matchless righteousness were impertinence. To imagine that you could make better that which He has finished were an idle, soul-destroying dream. Take a finished Savior just as He is and you are saved now, even though you have no good thing of your own. Away with those rusty farthings of your own merit, those proposals and vows of your own doings! Take Jesus as He is and that act of accepting Christ through His merit saves your soul!
 
 After you have done this, then will come the command—"Go forward." For the present, all we have to say to you, poor Trembler, is, "Stand still and see the salvation of God." May the Lord bless these last words to the sinner, and my first words to the saint. And, by His Grace, we will together stand still and see what the Lord has worked. We will together sing unto Him, for He will triumph gloriously and all our enemies shall be cast into the midst of the sea! The Lord bless you for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0540 The Lambs And Their Shepherd|← #540]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0542 Paul—His Cloak And His Books|#542 →]]

@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Acts
 
 [70] Acts i. 15. “The number of the names together were about one hundred and twenty.” Great respect seems to be shown to the number twelve in things pertaining to the church, as may be seen in the account of the new Jerusalem in Revelation, and the number of the sealed of every tribe were twelve thousand, and here the number of the church, when the Holy Ghost was poured out upon it, is one hundred and twenty; there were twenty-four elders round about the throne.
 

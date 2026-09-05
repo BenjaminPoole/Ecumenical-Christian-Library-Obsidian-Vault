@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # A Gracious Dismissal
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2183
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He said to the woman, Your faith has saved you; go in peace." Luke 7:50.
 
@@ -134,7 +131,6 @@ Now, dear Soul, if you have a promise from God—"He that believes is not condem
 The Lord help you truly to believe, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 8:15-39.
-
 
 ---
 [[Sermon 2182 Jehovah-Shammah—a Glorious Name for the New Year|← #2182]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2184 A Private Enquiry|#2184 →]]

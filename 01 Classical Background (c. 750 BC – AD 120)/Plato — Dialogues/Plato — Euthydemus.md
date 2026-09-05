@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Euthydemus
 *trans. Benjamin Jowett*
 
@@ -19,18 +18,13 @@ tags:
 
 ---
 
-EUTHYDEMUS
+## Euthydemus
 
 by Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Euthydemus, though apt to be regarded by us only as an elaborate
 jest, has also a very serious purpose. It may fairly claim to be
@@ -499,17 +493,12 @@ grounds are precarious, as arguments from style and plan are apt to
 be (Greek). But no arguments equally strong can be urged in favour of
 assigning to the Euthydemus any other position in the series.
 
-
-
-
-EUTHYDEMUS
-
+## Euthydemus
 
 PERSONS OF THE DIALOGUE: Socrates, who is the narrator of the Dialogue.
 Crito, Cleinias, Euthydemus, Dionysodorus, Ctesippus.
 
 SCENE: The Lyceum.
-
 
 CRITO: Who was the person, Socrates, with whom you were talking
 yesterday at the Lyceum? There was such a crowd around you that I could

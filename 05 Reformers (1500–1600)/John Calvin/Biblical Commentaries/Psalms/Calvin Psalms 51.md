@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 51
-
-**PSALM 51**
 
 We learn the cause which led to the composition of this psalm from the title appended to it, and which will immediately come under our consideration. For a long period after his melancholy fall, David would seem to have sunk into a spiritual lethargy; but when roused from it by the expostulation of Nathan, he was filled with self-loathing and humiliation in the sight of God, and was anxious both to testify his repentance to all around him, and leave some lasting proof of it to posterity. In the commencement of the psalm, having his eyes directed to the heinousness of his guilt, he encourages himself to hope for pardon by considering the infinite mercy of God. This he extols in high terms, and with a variety of expressions, as one who felt that he deserved multiplied condemnation. In the after part of the psalm, he prays for restoration to the favor of God, being conscious that he deserved to have been cast off for ever, and deprived of all the gifts of the Holy Spirit. He promises, should forgiveness be bestowed upon him, to retain a deep and grateful sense of it. Towards the conclusion, he declares it to be for the good of the Church that God should grant his request; and, indeed, when the peculiar manner in which God had deposited his covenant of grace with David is considered, it could not but be felt that the common hope of the salvation of all must have been shaken on the supposition of his final rejection.
 

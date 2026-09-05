@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Thoughts and Their Fruit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3257
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The fruit of their thoughts." Jeremiah 6:19.
 
@@ -95,7 +92,7 @@ I will finally say, seek, Believer, to have many longing thoughts after Christ. 
 
 Be much, then, in such thoughts as these, and may the fruit of your thoughts be such as God, Himself, may delight in, to Jesus Christ's praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 7:1-15; 17:1-14
+## Exposition by C. H. Spurgeon: Jeremiah 7:1-15; 17:1-14
 
 Jeremiah 7:1-3. The word that came to Jeremiah from the LORD, saying, Stand in the gate of the LORD'S house and proclaim there this word, and say, Hear the word of the LORD, all you of Judah, that enter in at these gates to worship the LORD. Thus says the LORD ofHosts, the God ofIsrael, Amend your ways andyour doings; andI will cause you to dwell in this place. Many of them thought that if they went up to the Temple, it was all right with them. If they did but go through the outward ritual, they would certainly be accepted. They must have been astonished when Jeremiah, the Weeping Prophet, met them at the Temple door and told them that the best worship of God was holiness—not the mere outward ceremony but the renewal of the life, the cleansing of the heart before Him.
 
@@ -126,7 +123,6 @@ very nature that you might as well try to erase an inscription that is written u
 12-14. A glorious high throne from the beginning is the place of our sanctuary. O LORD, the hope of Israel, all that forsake You shall be ashamed and they that depart from Me shall be written in the earth, because they have forsaken the Lord, the fountain of living waters. Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for You are
 
 my praise. [See Sermon #1786, Volume 30—OUR SANCTUARY.]
-
 
 ---
 [[Sermon 3256 Beggars Becoming Princes|← #3256]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3258 Stumbling at the Word|#3258 →]]

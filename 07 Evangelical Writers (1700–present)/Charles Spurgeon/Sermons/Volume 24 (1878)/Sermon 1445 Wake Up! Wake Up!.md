@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Wake Up! Wake Up!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1445
-
-DELIVERED BY.
 
 > "That, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed." Romans 13:11.
 
@@ -134,7 +131,6 @@ Well, now, it seems to me that if I can realize that in so short a time my etern
 I have said nothing to the unconverted because I have been admonishing you Believers to say something to them. If you will catch the spirit of my text, you will, each one, feel for them and begin to speak. But if I were to wrench the text from its connection and apply it to the unconverted, what a sledge hammer it would be! Shall I read the text as I should have to read it if it spoke to the unregenerate? It runs to the Christian, "Now is your salvation nearer than when you believed." But oh, you unconverted men and women, must I read the text as it would have to run if it were written to you?
 
 "It is high time that you should awake out of sleep, for now is your damnation nearer than when you first heard the Gospel and rejected it." Take heed, take heed! God grant you Grace to take heed and to believe in Christ. Amen and Amen!
-
 
 ---
 [[Sermon 1444 The Moral of a Miracle|← #1444]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1446 The Best Beloved|#1446 →]]

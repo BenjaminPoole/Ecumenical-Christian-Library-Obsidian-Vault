@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/17
 ---
-
 # The Open Fountain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 971
@@ -51,7 +50,7 @@ Having said thus much, however, we shall now take our text as belonging to ourse
 
 In order to explain the text we shall dwell upon three notes; if these three be clearly sounded we shall understand the passage—*a fountain—opened—still open.*
 
-I. A FOUNTAIN.
+## I. A Fountain
 
 What is this fountain which is said to be opened, and when and how was it opened? It is a fountain opened to the house of David, and the inhabitants of, for sin and for uncleanness. We observe, therefore, that the blessing here spoken of *deals with the greatest evils to which mankind is subject*—sin and uncleanness. We have all fallen; we have all proved our fall by our sinful practice. Sin has separated us from God and brought upon us the divine wrath; uncleanness, which is a tendency still to sin, a defilement of our nature, prevents our returning to our heavenly Father, and entering into renewed fellowship with aim. This great evil in its double form is, according to the text, distinctly recognized by God; it is not winked at, it is not treated as a trifle that may remain, and yet man may be beloved of God and be happy; no, but the evil being there, preparation is made for its removal. The text says, not that the filthiness is concealed, that the transgression is excused, but that there is a fountain opened for the effectual removal of sin and uncleanness. In the gospel God never trifles with human sin. We proclaim full, free, immediate forgiveness to the very chief of sinners, but it is not in a way which makes men think that sin is trivial in God’s esteem, for there is coupled with the declaration of pardon a description of the way in which God by the sacrifice of his Son renders it possible for him to be merciful without being unjust. In the substitution of Christ Jesus we see justice and mercy peacefully embracing, and conferring double honor upon each other. I repeat the word, the uncleanness is not concealed, the sin is not winked at, but there is a fountain prepared for the purging away of the defilement, and it is opened to the house of David, for the great and mighty, and to the inhabitants of Jerusalem—the poor, common people of every class. Hear this, ye who feel yourselves sinners, God has provided means for delivering you from your sins.
 
@@ -114,7 +113,6 @@ I want to remind you as a church of one most important fact. Here is our prepara
 I pray God backsliders may come hither, that those who have gone farther astray than in heart, and have wandered into outward actions of rebellion, may come to the fountain which is still open, and be cleansed anew. What sin it will be on our part if we neglect what God has provided! Though we have often come before, let us come again. I should like to suggest that this afternoon we each of us should spend a season alone, and pray for a renewed application of that blood which speaketh better things than that of Abel. The Master, after the last Supper, took a towel and girded himself, and went round with a basin and washed all his disciples’ feet, and when he had done it said, “And ye are clean every whit.” That is what I want him to do to all the members of this my beloved church *now*. You cannot serve God while you are defiled; you need fresh cleansing for successful service. O may he take the towel now in his infinite condescension, and visit each one and wash you one by one. Pastors, deacons, elders, members, may we all avail ourselves of the open fountain at this hour. O that the Holy Spirit might give to each one of us that cleansing which shall make us fit for service, O that we shall be useful during the coming months in the ingathering of his poor lost ones, to his praise and glory. May God grant it, for his name’s sake. Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Zechariah 12, and 13:1.
-
 
 ---
 [[Sermon 0970 The Lost Silver Piece|← #970]] · [[Volume 17 (1871)|Volume 17 (1871) Contents]] · [[Sermon 0972 New Uses for Old Trophies|#972 →]]

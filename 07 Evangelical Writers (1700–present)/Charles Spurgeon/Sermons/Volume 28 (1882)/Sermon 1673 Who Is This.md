@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Who Is This?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1673
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 6, 1882,.
+*Delivered on Lord's-Day Morning, August 6, 1882*
 
 > "For who is this that engaged His heart to approach unto Me? says the Lord." Jeremiah 30:21.
 
@@ -158,7 +157,6 @@ Hark how ten thousands of voices say—"Who is this?" Let us, in humble notes, l
 "Who is this that enters Glory, Clearing for His saints a way? Who shall tell the wondrous story Who His glorious work display? Jesus makes our access clear, To the Father brings us near."
 
 Thus the question, "Who is this?" admits of a second answer, for now, in Christ Jesus, all Believers with engaged hearts are approaching unto God! Who is this? At first it is Jesus, Son of Man and Son of God. And next it is His Church with all her heart engaged, approaching unto God by Jesus Christ! My Hearers, can you join in the song of praise which is now rising from Heaven and earth? Angels are waiting till you approach their God! Come, hurry up! Hasten to be blest! At once approach your God by Christ Jesus and as angels see you coming, their song shall grow yet louder till it shall excel the noise of many waters and out-voice the last great thundering! They come! They come! Sinners are coming to God! Hallelujah! Hallelujah! Hallelujah! Amen.
-
 
 ---
 [[Sermon 1672 The Voice Behind Thee|← #1672]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1674 Brought Up from the Horrible Pit|#1674 →]]

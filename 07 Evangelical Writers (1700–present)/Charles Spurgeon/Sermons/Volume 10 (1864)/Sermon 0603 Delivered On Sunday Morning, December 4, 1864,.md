@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Delivered On Sunday Morning, December 4, 1864,
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 603
-
-Delivered On Sunday Morning, December 4, 1864,.
 
 > "For He says, I have heard You in a time accepted and in the day of salvation have I succored You: behold, nowis the accepted time; behold, nowis the day of salvation." 2 Corinthians 6:2.
 
@@ -79,7 +76,7 @@ No, more than this, you are not only accepted—you are in union with Christ now
 
 Remember that wherever there is present privilege there is also a present duty to be performed and so I touch a string which I made to sound just now. Since "now is the accepted time" with sinners, now is the accepted time for you to work, O Christian. I know what you intend to do—you have vast plans and machinery. My Brother, I do not care what you mean to do tomorrow, but I do care about what you intend to do today. Oh, those daydreams of ours! We are always intending in a year or two's time to be such valorous defenders of the faith, such good soldiers of Christ, such good winners of souls!
 
-My dear Brothers and Sisters, what are you doing now? There flies that moment! What does it bear upon its wings? Another drop of the stream of time is passed away—what action of yours is reflected on its crystal surface? Are you doing anything now? "I do not know," says one, "I do not know that I can do anything just now. When the service is bro- ken up, I may get home and then try to do something." I would pray you remember that, "now is the accepted time," and therefore seek now to get your heart warm. And when the service is over, think you hear the now, and begin to speak to those in the pew, or on the way home talk to any person you may meet with. And then, tomorrow, do not say, "Sunday is over and I cannot do any good on the week-day," but think you hear the clarion sound of this word now!
+My dear Brothers and Sisters, what are you doing now? There flies that moment! What does it bear upon its wings? Another drop of the stream of time is passed away—what action of yours is reflected on its crystal surface? Are you doing anything now? "I do not know," says one, "I do not know that I can do anything just now. When the service is broken up, I may get home and then try to do something." I would pray you remember that, "now is the accepted time," and therefore seek now to get your heart warm. And when the service is over, think you hear the now, and begin to speak to those in the pew, or on the way home talk to any person you may meet with. And then, tomorrow, do not say, "Sunday is over and I cannot do any good on the week-day," but think you hear the clarion sound of this word now!
 
 You have a sister unsaved, pray for her now. You have a brother unconverted, write to him if you cannot speak to him and do it now. There is a court, a blind alley, which needs visiting. A dying man who needs instruction—do it now. Do you feel you have a talent? Use it now. You think you will have a better sphere in ten years' time? I pray you get a sphere now, for now is the day of salvation! I say again, I do not care what you do with your tomorrow. If you will but give God your now, your tomorrows will be all right. For duty, then, let the Christian prize the "now."
 
@@ -140,7 +137,6 @@ The man said, "I think you misunderstand my question. You said when the porter a
 There are some in this place, who if they were labeled this morning as to where they are going, would have to be directed "to Hell." You know that this is the case! And when will you get to your journey's end? Some here may live another fifty years. I pray God that that question of mine may haunt you and if it is never blessed to you before, may it be then—"When will you yet to your journey's end? When will you arrive in Hell?"
 
 This morning some of you may, in your hearts, say, "I am journeying there, but, by the Grace of God, I have come to a dead halt and not another inch will I go! Lord, make me ready to go to Heaven! Give me Grace now to trust the Savior that I may live." May God bless these feeble words of mine to His glory and your profit. Amen.
-
 
 ---
 [[Sermon 0602 The Smoke Of Their Torments|← #602]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0604 The Man With The Measuring Line|#604 →]]

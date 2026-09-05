@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 192. Numbers 27:12-14
 
 **A Repetition of the same History**
-
-**Numbers 27**
 
 **12.** And the Lord said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel.
 

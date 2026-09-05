@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # The Saint's Trials and the Divine Deliverances
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3548
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I cried unto God... You led Your people like a flock by the hand of Moses and Aaron." Psalm 77:1-20.
 
@@ -29,7 +26,7 @@ Now at this time I shall not attempt to describe all the spiritual conflict with
 
 First, then, let us make the remark that the child of God may undergo great spiritual trials. But, secondly, we shall ask you to consider the conduct of the child of God when in the condition—very different from that of the worldly man. And, thirdly, we shall notice those springs of comfort which relieve saints in that spirit, and will relieve us also. First, then—
 
-I. A TRUE CHILD OF GOD MAY UNDERGO VERY DEEP MENTAL AND SPIRITUAL TRIALS.
+## I. A True Child of God May Undergo Very Deep Mental and Spiritual Trials
 
 No superficial trials, such as are common to men, but really overwhelming trials seem to come to those who are favorites of Heaven, who lean their heads on Jesus' bosom, and are among the most gracious of the Lord's chosen. Asaph's trial was no light one—it was a great grief that came upon him. From some words in the Psalm, one would think it was a personal disease under which he was suffering. But from other words it would seem to be a deep affliction that had come upon his family and those he loved. This had caused him to be depressed in spirit and heavy in soul to a very solemn degree, for he declared that his sore ran in the night, and ceased not. He complained that his spirit was overwhelmed. Don't, therefore, conclude that you are no child of God because the joys you once had are gone! I am delighted when I have been with young Christians full of their first joy—and I earnestly pray that it will be very long before those joys are dampened, but at the same time, it may be prudent to let them know that should those joys depart, it will be no evidence whatever that God's love is departed, too! We must always beware of living by feeling. It is pleasant in summer, but it is an ill way of living in the winter of the soul. We walk by faith, not by sight, nor yet by feeling, for we remember that our feelings are often of a very mixed character—and what we think to be holy joy may be, some of it, animal excitement— may not be altogether that joy of the Lord which is our strength. Don't, don't, I beseech you, base your evidence of the possession of salvation upon your joy, because if you do, you will be in sad trouble when your joy varies or flies. Build your hope on something better than unsubstantial delights, namely, on the finished work of faith, such as the poor publican had, still crying, even in your best frames, "God be merciful to me a sinner! God be merciful to me a sinner," for between here and the gates of Heaven you will have to go by a weeping cross, perhaps many times—and if the Lord loves you more than others, you will have more trials than others—strange trials shall come to you! Therefore, regard it not as though some strange thing had happened to you. Some of the best of God's people may pass through the deepest trouble.
 
@@ -47,7 +44,7 @@ And now comes one other point, and this, perhaps, is the worst phase of the depr
 
 Thus I have given you but a very brief outline of the mental and spiritual trials through which an heir of Heaven may sometimes pass. Now, secondly—
 
-II. WHAT IS THE STATE OF THE CHILD OF GOD WHEN HE GETS INTO THIS DEPRESSION OF SPIRIT?
+## II. What Is the State of the Child of God When He Gets into This Depression of Spirit?
 
 Well, I will tell you what a man does when he is not a child of God. He cries, with Pliable, "The first time I get out of this, if I get out on the side nearest my house, you may have the brave country to yourself, for I am not going floundering through this bog of mud." Anybody's dog will follow me if I feed it, but only my own dog will follow me if I beat it. And any man will be a Christian, or profess to be one, while it is all joy, and silver slippers, and gravel walks—but only the man who really loves God, who says, "All the daylong have I been plagued and chastened every morning"—it is only the man of God who can say, "Though He slay me, yet will I trust Him—if He takes away my comfort, and I have no joy but in Himself, still will I cling to Him."
 
@@ -67,7 +64,7 @@ But do you notice how he dwells upon the works of God and the power of God "You 
 
 But as for those who have no Savior, I know of no comfort for them in the time of trouble. Unbeliever, you shall live without consolation. You shall die without consolation, and live forever after—without consolation! May you turn. "Turn you, turn you! Why will you die?" May the Lord bring you to see that in Christ, alone, is your help found. Get Him to be your comfort from this day forth, and forever! Amen, amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS26:1-28.
+## Exposition by C. H. Spurgeon: Acts 26:1-28
 
 Three times we have in Holy Writ a graphic report of the conversion of Paul. This may be accounted for partly from its being one of the most remarkable events of early sacred history, Paul having had a greater effect upon the Christian Church than any other living man. At the same time I think it teaches us that the Holy Spirit sets especial store by the facts connected with this very remarkable conversion. If He gives it three times in the sacred Volume, we ought to give it a triple attention and see if we cannot learn from it.
 
@@ -80,7 +77,6 @@ Verses 1-3. Then Agrippa said unto Paul, You are permitted to speak for yourself
 12-14. Whereupon as I went to Damascus with authority and commission from the chief priests. At midday, O King, I saw in the way a light from Heaven, above the brightness of the sun, shining roundabout me and them which journeyed with me. And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, Why do you persecute Me? It is hard for you to kick against the pricks. Not, "It is hard for Me to bear it," but, "It is hard for you," as if, though conscious of being persecuted, our Lord, in that Divine Unselfishness which is so natural to Him, forgot the kicks that were given to Him and only thought of the injury which Saul was doing to himself, when, like an ox that strikes out against the goad, he injured himself.
 
 15-28. And I said, Who are You, Lord? And He said, I am Jesus whom you persecute. But rise and stand upon your feet; for I have appeared unto you for this purpose, to make you a minister and a witness both of these things which you have seen, and of those things in the which I will yet reveal to you: delivering you from thepeople, and from the Gentiles, unto whom I send you, to open their eyes and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in Me. Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision: but showed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance. For these causes the Jews caught me in the temple, and went about to kill me. Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the Prophets and Moses did say should come: that Christ should suffer, and that He should be the first that should rise from the dead, and should show light unto the people, and to the Gentiles. And as he thus spoke for himself, Festus said with a loud voice, Paul, you are beside yourself; much learning has made you mad! But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness. For the King knows of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner. King Agrippa, believe you the prophets? I know that you believe. Then Agrippa said unto Paul, Almost you persuade me to be a Christian.
-
 
 ---
 [[Sermon 3547 Simple Fact and Simple Faith|← #3547]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3549 Little, But Lovely|#3549 →]]

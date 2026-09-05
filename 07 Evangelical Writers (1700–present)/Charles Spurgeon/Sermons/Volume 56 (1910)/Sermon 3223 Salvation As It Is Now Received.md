@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Salvation As It Is Now Received
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3223
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whom having not seen, you love. Though now you do not see Him, yet believing, you rejoice with joy unspeakable and full of glory, receiving the end of your faith, even the salvation of your souls." 1 Peter 1:8,9.
 
@@ -89,7 +86,7 @@ III. There was much more that I wanted to say, but my time has almost gone. In t
 
 solemn enquiry, HAVE WE RECEIVED THE SALVATION OF OUR SOULS? AND IF SO, HOW FAR HAVE WE
 
-GONE IN THE RECEPTION OF IT?
+## Gone in the Reception of It?
 
 The first and most vital question for you, my Hearers, is this—have you received the salvation of your souls I know that you have heard about salvation and many of you know what the Bible says about it. But that is not enough. "I know what salvation means," says one, "I know the way." Then take heed that you do not perish in the light! If two men have to go out in the dark, which is the one to whom the darkness is the more dense? Why, the one who has been sitting in the light! If you go out of your brilliantly illuminated room, you realize how dark it is outside where there is no light above or below. Take care, you who are sitting in the Light of God today, lest for you there should be "reserved the blackness of darkness forever" because you shut your eyes to the Light and will not receive the salvation of your souls.
 
@@ -99,7 +96,7 @@ Then comes the other question, how far have we received this salvation? If we ha
 
 But what about these who have not yet believed in Him? I heard an evangelist say one night in this Tabernacle, "He that believes on the Son has everlasting life. H—A—S—that spells, 'got it.'" That is an odd way of spelling, but it is sound divinity! The Lord enable you all to believe in Jesus! Then you will have "got it," as our friend said. Or, as Peter, writing under the Inspiration of the Holy Spirit wrote, "Believing, you rejoice with joy unspeakable and full of glory: receiving the end of your faith, even the salvation of your souls."
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 1.
+## Exposition by C. H. Spurgeon: 1 Peter 1
 
 Verse 1. Peter, an Apostle of Jesus Christ It must have been very pleasant to his heart to write those words—not "Peter, who denied his Master." Not, "Peter, full of imperfections and infirmities—the impetuous and changeable one of the twelve," but, "Peter, an Apostle of Jesus Christ," as truly sent of God as any of the other Apostles and with as much of the Spirit of his Master resting upon him! "Peter, an Apostle of Jesus Christ"—
 
@@ -134,7 +131,6 @@ present, immediate salvation! There are some who do not understand or realize th
 24, 25. For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers, and the flower thereof falls away: but the Word of the Lord endures forever. And this is the Word which by the Gospel is preached unto
 
 you. [See Sermon #999, Volume 17—THE WITHERING WORK OF THE SPIRIT.]
-
 
 ---
 [[Sermon 3222 'The Lamb of God'|← #3222]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3224 'Repentance and Remission'|#3224 →]]

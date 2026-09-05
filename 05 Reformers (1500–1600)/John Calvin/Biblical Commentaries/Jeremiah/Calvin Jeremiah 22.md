@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 22
 
-**CHAPTER 22**
+***Chapter 22***
 
 ## Jeremiah 22:1-3
 
@@ -61,7 +60,7 @@ When, therefore, the Prophet says, “Enter shall kings in chariots and on horse
 
 ## Prayer Lecture 80
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased to erect the throne of thy Son among us, we may suffer ourselves to be ruled by him, and not falsely boast that we are his people, but really prove that we truly and from the heart confess him as our King, that he may also so defend us through the whole course of life against all the assaults of our enemies, that we, ever relying on thine aid, and possessing our souls in patience, may at length be translated into that blessed glory and rest, which he has purchased for us by his own blood: — Amen.
 
@@ -158,7 +157,7 @@ He says, that they *built unjustly;* his words are, *with no justice* and with *
 
 ## Prayer Lecture 81
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou continuest both by chastising us, and by kindly alluring us to thyself, to deal with us in such a way as to find out whether we are healable, — O grant, that we may not he hardened either against thy threatenings or thy promises, but follow in a teachable spirit what thou shewest is pleasing to thee, and make progress in holy living, and become daily more watchful and diligent, until we shall at length reach the goal which is set before us, and receive the reward of our faith in thy celestial kingdom, which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -254,7 +253,7 @@ And this is to be especially noticed, for we hence conclude how great his perver
 
 ## Prayer Lecture 82
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as it has pleased thee to perpetuate the memory of the dreadful vengeance which thou hast executed on the descendants of David, so that we may learn by their evils carefully to walk before thee, — O grant, that the forgetfulness of this example may never possess us, but that we may assiduously meditate on what is set before us, in order that we may thus endeavor to advance and promote the glory of thy name through the whole course of our life, so that we may at length be made partakers of thy celestial glory, which thou hast prepared for us, and which thine only-begotten Son has obtained for us by his own blood. — Amen.
 
@@ -344,7 +343,7 @@ The Prophet again changes the person, and yet not inelegantly, for he speaks her
 
 ## Prayer Lecture 83
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou promisest to us rest nowhere except in thy celestial kingdom, we may never suffer ourselves, while travelling on the earth, to be allured and driven here and there; but may we in the meantime call on thee with resigned minds, and thus carry on our warfare, that; how much soever thou mayest he pleased by various contests to try and prove us, we may still continue to be thy faithful soldiers, until we shall enjoy that rest which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

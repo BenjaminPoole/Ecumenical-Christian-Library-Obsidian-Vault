@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 3. Chapter I
 
-THE UNITY OF THE CHURCH
+*The Unity of the Church*
 
 As every earthly pilgrim1 ought faithfully to believe the holy catholic church just as he ought to love Jesus Christ, the Lord, the bridegroom of that church, and also the church herself, his bride; but as he does not love this, his spiritual mother, except he also know her by faith — therefore ought he to learn to know her by faith, and thus to honor her as his chief mother.2
 
@@ -32,7 +31,7 @@ From this it is evident that there is one church — ecclesia — of the sheep a
 
 2 The foreknown, that is, those of whom God knows beforehand that they are not in a state of permanent grace. Their condition is not the result of an active decree, though it is a subject of God's previous knowledge. The foreknown are in grace according to present righteousness and desire through merit at once eternal bliss and at the same time their damnation. This apparent contradiction Huss explains to lie in this, that they are not willing to use the means to the attainment of eternal bliss, just as a person may wish a coat and yet not possess it. Super IV. Sent., 188.
 
-THE UNITY OF THE CHURCH
+## The Unity of the Church
 
 Christ." Likewise Acts 20 : 28: "Take heed to yourselves and to the whole flock in which the Holy Spirit hath made you bishops, to feed the church which he hath purchased with his own blood." And in this sense, all the righteous now living under Christ's rule in the city of Prague, and more particularly the predestinate, are the holy church of Prague, and the same is true of other particular churches of saints of which Ecclesiasticus 24 : 2, speaks: "In the congregations — ecclesiis — of the Most High shall she [wisdom] open her mouth," and also 31 : n: "All the congregation of the saints shall declare his alms." 1
 

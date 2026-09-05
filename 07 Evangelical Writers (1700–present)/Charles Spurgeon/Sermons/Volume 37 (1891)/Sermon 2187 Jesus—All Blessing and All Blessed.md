@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Jesus—"All Blessing and All Blessed"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2187
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Men shall be blessed in Him: all nations shall call Him blessed." Psalm 72:17.
 
@@ -120,7 +117,6 @@ The Christianity of England is always pleading for the slave, for the aborigine,
 It will be so one day. The nations shall be friends and all men shall feel that they are members of one great family. "Do unto others as you would that they should do to you," is the sum of the moral teaching of our Divine Lord—and if that is followed, it will bring about a halcyon era, the likes of which the world has never seen! If His Spirit will come and renew men's hearts—and teach them to love and to obey the Lord their God—then shall all nations call the Redeemer, blessed and, from every corner of the whole earth, the song shall go up, "Blessing, and honor, and glory, and power, be unto Him that sits upon the Throne, and unto the Lamb forever and ever!" Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 72.
-
 
 ---
 [[Sermon 2186 Our Expectation|← #2186]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2188 Entangled in the Land|#2188 →]]

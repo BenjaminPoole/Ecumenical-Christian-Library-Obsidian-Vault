@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # James 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## James 4:1-3
 

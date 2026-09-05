@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Spirit of Bondage and Adoption
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1759
-
-DELIVERED BY.
 
 > "For you have not received the Spirit of bondage again to fear, but you ha ve received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit, Himself, bears witness with our spirit, that we are the children of God." Romans 8:15,16.
 
@@ -120,7 +117,6 @@ Your spirit is released, your path is clear!
 Let praise fill up your day and evermore
 
 Live to love, to copy and adore!"
-
 
 ---
 [[Sermon 1758 The Pastor's Life Wrapped Up with His People's|← #1758]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1760 He Shall Be Great|#1760 →]]

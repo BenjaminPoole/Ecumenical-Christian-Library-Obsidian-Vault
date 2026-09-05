@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Sitting of the Refiner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1575
-
-DELIVERED BY.
 
 > "And He shall sit as a refiner and purifier of silver: and He shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness." Malachi 3:3.
 
@@ -140,7 +137,6 @@ Have we not often wished we could do our lifework over again that we might do it
 God grant that the blessed processes of His Providence and of His Grace which are being carried on in His people may be carried on in you and me that we may serve God with perfect hearts all our days! I think I heard somebody say, "I do not want putting through that process. I do not wish for such purifying." Have you seen the great masses of slag that they throw out from the furnace? They lie in great heaps at the pit's mouth. Will these be a picture of you and your eternal condition? Reprobate silver shall men call them because God has rejected them! Will you be the slag cast away? The dross left forever? Oh, Eternity! Eternity! What must it be to be shipwrecked on your shoreless sea and drifted forever as a waif and stray from God and hope! Eternity! Eternity! What must it be to be rejected and cast away from the Presence of God and from the Glory of His power—thrown out upon the waste heap of the universe, forever given up!
 
 God save any man from that! Oh, it were worth wading through a thousand Hells to obtain that which makes existence worth having—namely, rightness with God! But, oh, if there were nothing else to lose but God's love; nothing else to earn by neglect of Divine things but to be rejected of God, I would plead with you with my whole soul that you would seek the Lord now! Cry mightily to the Divine Savior that He may now purge you with His precious blood from all the guilt of sin! Cry to Him that He may then go on with the second process by which He shall purge you from the power and habit and defilement of sin—and make you, like Himself—immaculate before the Omniscient! God grant it, for Jesus' sake. Amen.
-
 
 ---
 [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1576 The Throne of God and of the Lamb|#1576 →]]

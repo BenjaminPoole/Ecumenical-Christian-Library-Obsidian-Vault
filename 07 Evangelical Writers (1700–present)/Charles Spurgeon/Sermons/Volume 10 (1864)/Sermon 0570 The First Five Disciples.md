@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The First Five Disciples
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 570
 
-DELIVERED ON SUNDAY MORNING, MAY 15, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 15, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And the two disciples heard him speak and they followed Jesus. Then Jesus turned and saw them following and said unto them, What do you seek? They said unto Him, Rabbi, (which is to say, being interpreted, Master), where do You dwell? He said unto them, Come and see. They came and saw where He dwelt and abode with Him that day for it was about the tenth hour. One of the two which heard John speak and followed Him was Andrew, Simon Peter's brother. He first found his own brother, Simon, and said unto him, We have found the Messiah, (which is, being interpreted, the Christ). And he brought him to Jesus. And when Jesus beheld him, He said, You are Simon the son of Jona: you shall be called Cephas, (which is by interpretation, A Stone). The day following Jesus would go forth into Galilee and find Philip and say unto him, Follow Me. Now Philip was of Bethsaida, the city of Andrew and Peter. Philip found Nathanael and said unto him, We have found Him, of whom Moses in the Law and the Prophets, did write, Jesus of Nazareth, the son of Joseph. And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip said unto him, Come and see. Jesus saw Nathanael coming to Him and said of him, Behold an Israelite, indeed, in whom is no guile. Nathanael said unto Him, Why do You know me? Jesus answered and said unto him, Before that Philip called you, when you were under the fig tree, Isaw you. Nathanael answered and said unto Him, Rabbi, You are the Son of God, You are the King of Israel. Jesus answered and said unto him, Because I said unto you, Isaw you under the fig tree, do you believe? You shall see greater things than these, And He said unto him, Verily, verily, I say unto you, Hereafter you shall see Hea ven open and the angels of God ascending and descending upon the Son of Man." John 1:37-51.
 
@@ -146,7 +145,6 @@ And therefore He brought you to this House to hear His Word. Mark you, Nathanael
 O you seeking Nathanaels, I think this is a promise for you—"You shall see greater things than these"—you shall see yourself pardoned! You shall see your prayers ascending Jacob's ladder and blessings coming down from God to rest upon your soul! I had hoped to have brought out many more points, but indeed, the chapter is too full for any to handle in so brief a time. You will observe, however, that I have given you just a glance at the surface of it which will suffice to show that the means of conversion and the general tenor of conversion will be found to differ in each case. Perhaps Nathanael's is the highest of all—he receives Christ in a fuller way than any of the others and he enjoys greater promises than they do.
 
 But still they are all genuine, though they are not one of them like the other, except that John and Andrew may be put together. Judge not, therefore, your conversion by its means or by its particular form, but judge it by its fruit. Does it bring you to Jesus? Are you depending upon Him now? If so, go your way—your sins, which are many, are forgiven you! Eat the fat and drink the sweet, for God accepts you—therefore rejoice! But and if you have had a thousand conversions, if you are not resting on Jesus this morning, tremble, for your refuge is a refuge of lies! Your hope is a spider's web—God deliver you from it and bring you now to rest upon the finished work and the perfect Sacrifice of the Lord Jesus! And then, with Andrew and Peter and John, and Philip and Nathanael you shall meet before the Throne to praise Him who is the Son of God and the King of Israel! The Lord bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0569 The Arrows Of The Lord'S Deliverance|← #569]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0571 Unbelievers Stumbling—Believers Rejoicing|#571 →]]

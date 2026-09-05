@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Ripe Fruit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 945
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 14, 1870,.
+*Delivered on Lord's-Day Morning, August 14, 1870*
 
 > "My soul desired the first ripe fruit." Micah 7:1.
 
@@ -192,7 +191,6 @@ ripening. Then, when all are ripe in the time of harvest, He will say to the rea
 O Sinner, your unbelief is ripening and it will ripen into despair! Your enmity to God is ripening and it will ripen into everlasting rebellion against Him. Even now your heart grows harder and more stubborn, and your death in sin becomes more hopeless every hour you live. Remember there shall be no hope that your character will undergo improvement in another world. Then shall be fulfilled the saying which is written, "He that is filthy, let him be filthy still."
 
 Forever and forever the processes which ripen sin will continue to operate on condemned spirits, "where their worm dies not, and their fire is not quenched." God grant you Grace to believe in Jesus Christ NOW—that you may receive the new nature—and having received it, may grow up into ripeness, so that God may be glorified. May we all be housed in the garner of ripe fruit in the King's own Palace above! Amen and Amen.
-
 
 ---
 [[Sermon 0944 An Encouraging Lesson From Paul's Conversion|← #944]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0946 The Profit Of Godliness In The Life To Come|#946 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Private Thoughts and Words of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2212
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus, going up to Jerusalem, took the twelve disciples apart in the way, and said unto them, Behold, we go up to Jerusalem; and the Son of Man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn Him to death, and shall deliver Him to the Gentiles to mock, and to scourge, and to crucify Him: and the third day He shall rise again." Matthew 20:17-19.
 
@@ -136,7 +133,6 @@ The first day of the week stands forever as the remembrance of our risen Lord an
 If you have never believed in Him, may you believe in Him at once! Why delay? He is able to save unto the uttermost! Believe in Him right now! And if you have believed, keep on believing and let your believing grow more intense. Think more of Jesus, love Him more, serve Him more and grow more like He. Peace be unto you for His dear sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Matthew 16:13-28.
-
 
 ---
 [[Sermon 2211 God Rejoicing in the New Creation|← #2211]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2213 Honey In The Mouth!|#2213 →]]

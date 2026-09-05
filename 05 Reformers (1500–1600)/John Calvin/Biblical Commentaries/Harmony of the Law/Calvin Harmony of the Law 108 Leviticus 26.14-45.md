@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 108. Leviticus 26:14-45
-
-**Leviticus 26**
 
 **14.** But if ye will not hearken unto me, and will not do all these commandments;
 

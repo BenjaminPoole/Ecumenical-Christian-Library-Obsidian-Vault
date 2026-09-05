@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Desires Towards God—a Sermon For The Weak
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1564
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 24, 1880,.
+*Delivered on Lord's-Day Morning, October 24, 1880*
 
 > "Lord, all my desire is before You; and my groaning is not hid from You." Psalm 38:9.
 
@@ -128,7 +127,6 @@ The Lord will keep His promise—you can be you sure of that. Has He said and sh
 him."
 
 His wife, who lamented his deep dejection, will bless God and say, "Lord, I thank You that You have given him the desire of his heart and that You have not withheld the request of his lips." Godly friends will hear of his deliverance and rejoice, saying, "He who has long been cast down has found the light of God's Countenance," and they will also say, "You have given him the desire of his heart." As you spread your new joy and perfume the atmosphere with gladness, the saints will bless God that He has given you the desire of your heart! I am persuaded that you will obtain your desire since it will glorify God for you to have it. "Whoever offers praise, glorifies God" and you will praise Him and thus glorify Him. Go your way and seek the Lord with confidence through Jesus Christ and He will bless you evermore. Amen.
-
 
 ---
 [[Sermon 1563 The Duty of the Present Hour|← #1563]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1565 Maschil Of Ethan, A Majestic Song|#1565 →]]

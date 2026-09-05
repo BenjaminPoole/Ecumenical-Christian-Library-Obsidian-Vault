@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 54
-
-**PSALM 54**
 
 David has recorded in this psalm the prayers which he offered up to God when he heard of his having been betrayed by the Ziphites, and was reduced to a situation of extreme danger. It cannot fail to impress us with a high idea of his indomitable faith, thus to find him calling upon the name of God in the immediate prospect of death.
 

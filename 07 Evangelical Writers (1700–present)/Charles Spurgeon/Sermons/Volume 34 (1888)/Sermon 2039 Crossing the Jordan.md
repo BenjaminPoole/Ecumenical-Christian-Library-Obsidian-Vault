@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Crossing the Jordan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2039
 
-DELIVERED ON LORD'S DAY MORNING, AUGUST 12, 1888,.
+*Delivered on Lord's Day Morning, August 12, 1888*
 
 > "Then Joshua commanded the officers of the people, saying, Pass through the host and command the people, saying, Prepare you victuals. For within three days you shall pass over this Jordan, to go in to possess the land, which the Lord your God gives you to possess it." Joshua 1:10,11.
 
@@ -198,7 +197,6 @@ But, dear Friends, suppose you are not the people of God. You will have to die a
 Even now, when you are a little ill and in pain, you become dreadfully frightened. If in the land of peace wherein you trusted they have wearied you, what will you do in the swellings of Jordan? The dark stream will not be dry for you. Dare you take the dreadful plunge? Mark how the black current rushes down to that dreadful sea of death! Are you resolved to be swept down to that place of desolation?
 
 The Lord have mercy upon you before you are drifted into the abode of the accursed! "Believe in the Lord Jesus Christ and you shall be saved. For he that believes and is baptized shall be saved." So says the Gospel of the Lord Jesus Christ.
-
 
 ---
 [[Sermon 2038 The Lord's Supper—a Remembrance Of Jesus|← #2038]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2040 Sown Among Thorns|#2040 →]]

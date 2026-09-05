@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Church Increase
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2692
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The children which you shall have, after you have lost the other, shall say again in your ears, The place is too small for me: give me aplace that I may dwell. Then you will say in your heart, Who has begotten these for me, seeing I have lost my children, and am desolate, a captive, and wandering to and fro? And who has brought these up? Behold, I was left alone; these, where had they been?" Isaiah 49:20,21.
 
@@ -130,7 +127,6 @@ In the paths ofdeath they roam—
 'I have brought some lost ones home. What a little thing God often blesses to save a soul—a word from a sister—a little note from a Christian woman— half a word in these aisles! A man, who was never before spoken to about his soul, had not been pleaded with for five minutes before he came under conviction of sin—and he soon found the Savior. The very smallest thing has been made the means of bringing souls to Christ! Will you not, dear Friends, make use of those little things? Will you not use everything? Will you not be willing to spend and be spent for Christ in this blessed work of soul-saving? "In the morning sow your seed, and in the evening withhold not your hand: for you know not what shall prosper, either this or that, or whether they both shall be alike good."
 
 Go on, dear Brothers and Sisters, to cry mightily to God, and to labor earnestly for Him, till we shall, in glad surprise, bless and magnify His Grace that multitudes are brought to Him, and that His name is made to be yet more renowned! Let us constantly have your prayers at home as well as here, and the Lord be with you all! Amen.
-
 
 ---
 [[Sermon 2691 Sorrow and Sorrow|← #2691]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2693 Priest and Victim|#2693 →]]

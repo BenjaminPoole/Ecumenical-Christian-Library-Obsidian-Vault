@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Searching Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3079
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To whom do you belong?" 1 Samuel 30:13.
 
@@ -99,7 +96,7 @@ If I were you, I say again, I would run away from my master. I do not read that 
 
 "Well," says one, "I would gladly change my master, but would Christ have me?" Try Him! Try Him as the prodigal son tried his father. Go and put your head on your Father's bosom and weep out such a confession as this—"I have sinned against Heaven, and before You, and am no more worthy to be called Your son." And before you have finished your confession, you will hear Him saying in your soul, "I have blotted out, as a thick cloud, your transgressions and, as a cloud, your sins." God is far more ready to forgive you than you are to ask Him for pardon! Only acknowledge your sin, plead the blood of Jesus, put your trust in Him and my God, my Father, will delight to receive you! He will say, "This, My son, was dead, and is alive again. He was lost, and is found. "He will be glad! His angels will rejoice and His saints will make melody!
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 30:1-25.
+## Exposition by C. H. Spurgeon: 1 Samuel 30:1-25
 
 David had joined the army of the Philistines, but, as the Philistine lords suspected him, he was obliged to leave, so he went back to the little city of Ziklag, which King Achish had given him.
 
@@ -128,7 +125,6 @@ It was foretold that "He shall divide the spoil with the strong." Let your heart
 22, 23. Then answered all the wicked men and men of Belial, of those who went with David, and said, Because they went not with us, we will not give them any of the spoil that we have recovered, save to every man his wife and his children, that theymaylead them away, and depart Then saidDavid, You shallnot do so, my brethren. They were poor brethren for David to have. They were brethren by race, but not brethren by Grace. Yet David was wise in speaking to them as he did. It is always well, when you are opposing people, to do it courteously. You can often prevail with soft words if you have strong arguments. David said, "You shall not do so, my brethren."
 
 23-26. With that which the LORD hasgiven us, who haspreserved us, and delivered the company that came against us into our hand. For who will hearken unto you in this matter? But as his part is that goes down to the battle, so shall his part be that tarries by the stuff: they shall part alike. And it was so from that day forward, that he made it a statute
-
 
 ---
 [[Sermon 3078 God-Guided Men|← #3078]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3080 Two Ancient Proverbs|#3080 →]]

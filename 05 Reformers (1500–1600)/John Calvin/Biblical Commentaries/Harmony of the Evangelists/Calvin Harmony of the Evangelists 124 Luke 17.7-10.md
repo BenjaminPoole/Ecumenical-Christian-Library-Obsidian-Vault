@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 124. Luke 17:7-10
-
-**Luke 17:7-10**
 
 **7**. But which of you that hath a servant ploughing or feeding, when he hath returned from the field, will immediately say to him, Come [^1] and sit down at table? **8**. And doth not rather say to him, Prepare supper for me, and gird thyself, and serve me, till I have eaten and drunk, and, after that, eat and drink thou. [^2] **9**. Doth he thank that servant, [^3] because he did the things which were commanded him? I suppose not. **10**. So likewise, when you shall have done those things which were commanded you, do you say, We are unprofitable servants: we have done what we were bound to do.
 

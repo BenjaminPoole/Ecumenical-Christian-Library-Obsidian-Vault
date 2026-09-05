@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Ruth Deciding for God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2680
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Ruth said, Entreat me not to leave you, or to return from following after you: for where you go, I will go; and where you lodge, I will lodge: your people shall be my people, and your God my God." Ruth 1:16.
 
@@ -142,7 +139,6 @@ I conclude by saying that whatever the other Bethlehem people might be, there wa
 Our Lord Jesus Christ Himself is always present wherever two or three are gathered together in His name. If His name is on the list, there may be a number of odds and ends put down with Him—members of different denominations, some strange persons, some very old people—as long as His name is on the list, I do not mind about what others are
 
 there, put my name down! Oh, that I might have the eternal honor of having my name written even at the bottom of the page beneath the name of Jesus, my Lord, the Lamb! As Boaz was there, it was enough for Ruth, and as Christ is here, that is quite enough for me! So I hope I have said sufficient to persuade you, who say that our God is your God, to come and join with us, or with some other part of Christ's Church and so to make His people to be your people. And mind you, do it at once, and in the Scriptural fashion, and God bless you in the doing of it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2679 Christ's Indwelling Word|← #2679]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2681 Covenant Blessings|#2681 →]]

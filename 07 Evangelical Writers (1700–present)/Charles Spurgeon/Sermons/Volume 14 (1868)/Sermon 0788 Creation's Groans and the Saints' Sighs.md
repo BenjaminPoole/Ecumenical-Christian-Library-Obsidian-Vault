@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/14
 ---
-
 # Creation's Groans and the Saints' Sighs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 788
@@ -27,7 +26,7 @@ The whole creation is fair and beautiful even in its present condition. I have n
 
 The apostle tells us that not only is there a groan from creation, but this is shared in by God’s people. We shall notice in our text, first, *whereunto the saints have already attained;* secondly, *wherein we are deficient;* and thirdly, *what is the state of mind of the saints in regard to the whole of the matter.*
 
-I. WHEREUNTO THE SAINTS HAVE ATTAINED.
+## I. Whereunto the Saints Have Attained
 
 We were once an undistinguished part of the creation, subject to the same curse as the rest of the world, “heirs of wrath, even as others.” But distinguishing grace has made a difference where no difference naturally was; we are now no longer treated as criminals condemned, but as children and heirs of God. We have received a divine life, by which we are made partakers of the divine nature, having “escaped the corruption which is in the world through lust.” The Spirit of God has come unto us so that our “bodies are the temples of the Holy Ghost.” God dwelleth in us, and we are one with Christ. We have at this present moment in us certain priceless things which distinguish us as believers in Christ from all the rest of God’s creatures. *“We have,”* says the text, not “we hope and trust sometimes we have,” nor yet “possibly we may have,” but “we have, we know we have, we are sure we have.” Believing in Jesus, we speak confidently, we have unspeakable blessings given to us by the Father of spirits. Not we *shall have,* but *we have.* True, many things are yet in the future, but even at this present moment, we have obtained an inheritance; we have already in our possession a heritage divine which is the beginning of our eternal portion. This is called “the first-fruits of the Spirit,” by which I understand the first works of the Spirit in our souls. Brethren, we have repentance, that gem of the first water. We have faith, that priceless, precious jewel. We have hope, which sparkles, a hope most sure and steadfast. We have love, which sweetens all the rest. We have that work of the Spirit within our souls which always comes before admittance into glory. We are already made “new creatures in Christ Jesus,” by the effectual working of the mighty lower of God the Holy Ghost. This is called the first-fruit because *it comes first.* As the wave-sheaf was the first of the harvest, so the spiritual life which we have, and all the graces which adorn that life, are the first gifts, the first operations of the Spirit of God in our souls. We have this.
 
@@ -120,7 +119,6 @@ Oh, before those days fully come, quit the service of the master who never can r
 The Lord bless this assembly, for Christ’s sake. AMEN.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 8.
-
 
 ---
 [[Volume 14 (1868)|Volume 14 (1868) Contents]] · [[Sermon 0789 Lingerers Hastened|#789 →]]

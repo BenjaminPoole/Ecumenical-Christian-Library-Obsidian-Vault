@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Peace—a Fact and a Feeling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1456
-
-DELIVERED BY.
 
 > "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ." Romans 5:1.
 
@@ -139,7 +136,7 @@ The life within us is Divine, for we have been begotten again by Himself and, fr
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 5. HYMNS FROM "OUR OWN HYMN BOOK"—775, 397, 708.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS—The sermon is so long that only a line or so is left for me. I will say the less of myself. The warm sunny days which I have spent in this retreat are, by God's blessing, bringing back to me health and strength. I shall be happy, indeed, if my mental and spiritual vigor should also be renewed by the removal of the daily care which pressed upon me. If it is so, my hearers shall be the gainers, for all my strength has been and always shall be laid out in my ministry.
 
@@ -148,7 +145,6 @@ I am right glad to hear that special services are commencing at the Tabernacle a
 We long to see souls saved—do we not? My heart cannot be content while men are being lost! I cannot be among the crowds to preach, but my inmost soul prays for those who are indulged with that privilege and for you, also, who have the joy of helping in the work of the Lord. I am bound to thank those generous friends who continue to send aid to the various works under my care—the Lord reward them.
 
 To each and all my hearers and readers I send my hearty Christian salutations, C H. SPURGEON MENTONE
-
 
 ---
 [[Sermon 1455 Every Man's Necessity|← #1455]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1458 A Sermon Upon One Nothing by Another Nothing|#1458 →]]

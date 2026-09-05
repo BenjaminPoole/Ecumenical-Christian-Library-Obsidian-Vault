@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # God's Glory Our Rereward
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3028
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The glory of the LORRD shall be your rereward." Isaiah 58:8.
 
@@ -101,7 +98,7 @@ And so, let me close these few words of address by entreating you always to fly 
 
 The Lord bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 12:1-44.
+## Exposition by C. H. Spurgeon: Luke 12:1-44
 
 In this chapter our Savior dispels the fears of His disciples concerning temporal things, and especially their fear of persecution and their fear of need.
 
@@ -154,7 +151,6 @@ were left to drift about uncared for and alone. It is not so. O God of the lilie
 35-37. Let your loins be girded about, and your lights burning. And you yourselves like unto men that wait for their lord, when he will return from the wedding; that when he comes and knocks, they may open unto him immediately. Blessed are those servants whom the lord when he comes shall find watching: verily I say unto you, that he shall gird himself and make them to sit down to meat, and will come forth and serve them. This always seems to me to be one of the most remarkable of our Lord's utterances while He was here upon the earth. His whole life was one of condescension, which was never more clearly manifested than it was when He, the Lord and Master of All, took the position of Servant of all, and washed His disciples' feet! Yet He here tells us that, if He finds us watching when He comes again, He will once more take His place as our servitor!
 
 38-44. And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants. And this know, that if the good man of the house had known what hour the thief would come, he would have watched, and not have allowed his house to be broken into. Be you therefore ready also: for the Son of Man comes at an hour when you think not Then Peter said unto Him, Lord, do You speak this parable unto us, or even to all? And the Lord said, Who, then, is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season? Blessed is that servant, whom his lord when he comes shall find so doing. Of a truth I say unto you, that he will make him ruler over all that he has.
-
 
 ---
 [[Sermon 3027 God's Time for Comforting|← #3027]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3029 God's Tender Mercy|#3029 →]]

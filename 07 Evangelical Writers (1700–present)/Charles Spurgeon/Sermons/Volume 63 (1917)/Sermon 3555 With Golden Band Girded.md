@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # With Golden Band Girded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3555
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He was girded about the chest with a golden band." Revelation 1:13
 
@@ -65,7 +62,7 @@ And then does the golden band suggest to us the wealth of Christ, as being His w
 
 Ah, me, the day will come when those of you who do not love Christ will have to look on Him and you will see that golden band, then, but it will bring no comfort to you! You despised Him, therefore in that band there will be no love to you, no blessing for you, no power for you! But what will there be? Why, that very band, since it is made of faithfulness, will show Him faithful to His threats! Those who hear Christ preached and reject Him will find that word true, "He that believes not shall be damned." Nothing but condemnation can be the lot of the man or woman who despises pardon and treats forgiveness with contempt. When simply to trust Christ saves the soul, to distrust Him is the direst and most damnable of sins! It is suicidal! Unbeliever, you refuse to pass through the only door that can lead you to Heaven! Well, if you never enter there, your blood be on your own head. Oh, that Grace may lead you just now to seek salvation! The Man with the golden band can save you, and none but He! Look to Him. Behold Him as He hangs upon the tree with hands and feet fastened there. Look and trust—trust and live! The Lord incline your hearts to espouse and not eschew His rich mercy, for His own dear name's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 11
+## Exposition by C. H. Spurgeon: Matthew 11
 
 Verse 1. And it came to pass, when Jesus had made an end of commanding His twelve disciples, He departed thence to teach and to preach in their cities. Whatever He commanded, He Himself did. He was always the example as well as the legislator of His people. How well it will be for us who are called upon to teach others, if we can teach them as much by what we do as by what we say! "When Jesus had made an end of commanding His twelve disciples, He departed thence to teach and to preach in their cities."
 
@@ -94,7 +91,6 @@ Verse 1. And it came to pass, when Jesus had made an end of commanding His twelv
 29\. Take My yoke upon you, and learn of Me: for I am meek and lowly in heart; and you shall find rest unto your souls. First He gives rest to all who come. But afterwards there is a second rest which they find who become obedient and bear His yoke. The rest that comes of pardoned sin is sweet, but the rest that comes of conqueredsin through obedience is sweeter still. The rest He gives is precious, but there is rest upon rest, as there is Grace upon Grace, and let us go in for the highest form of that rest! "You shall find rest unto your souls." The very innermost part of your being shall be full of peace.
 
 30\. For My yoke is easy, and My burden is light. Blessed be His name, we have found it so!
-
 
 ---
 [[Sermon 3554 Our Magnificent Savior|← #3554]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3556 Absconding and Apostasy|#3556 →]]

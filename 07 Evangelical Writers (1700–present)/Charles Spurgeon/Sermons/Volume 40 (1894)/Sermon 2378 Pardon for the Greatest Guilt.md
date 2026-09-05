@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Pardon for the Greatest Guilt
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2378
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Manasseh did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel. And when he was in affliction, he asked the LORD, his God, and humbled himself greatly before the God of his fathers, and prayed unto Him: and He was entreated of him, and heard his supplication, and brought him, again, to Jerusalem into his kingdom. Then Manasseh knew that the LORD, He was God." 2 Chronicles 33:2,12,13.
 
@@ -119,7 +116,7 @@ As I shall meet you again in that Great Day when Heaven and earth shall rock and
 
 Now, dear Brothers and Sisters in Christ, I have not been talking to you, you see, but you are not like the prodigal's elder brother—you will not fit here and growl because there is nothing for you. I know what many of you have been doing—you have been praying, "Lord, bring Brother Prodigal home!" Perhaps, after all, some of you have been grumbling because you have not had even a kid to feed upon, tonight, that you might make merry with your friends. But if a sinner has come to Jesus, if Brother Prodigal comes home, why, then the calf will get killed and you will have your share of it, and we shall have music and dancing, tonight, over sinners saved! The great Father's joy shall flow over into our hearts and we will rejoice with Him! May He send a blessing! I beseech you, pray for it, for Jesus' sake!
 
-HYMNS FROM "OUR OWN HYMN BOOK"—201, 202, 568.
+## Hymns from "Our Own Hymn Book"—201, 202, 568
 
 EXPOSITION BY C. H. SPURGEON: 2 Chronicles33:1-20; Isaiah 1:2-19.
 
@@ -158,7 +155,6 @@ Isaiah 1:2, 3. Hear, O heavens, and give ear, O earth: for the Lord has spoken, 
 10-15. Hear the Word of the LORD, you rulers of Sodom; give ear unto the Law of our God, you people of Gomorrah. To what purpose is the multitude of your sacrifices unto Me? says the LORD: I am full of the burnt offerings of rams, and the fat offed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats. When you come to appear before Me, who has required this at your hand, to tread My courts? Bring no more vain oblations; incense is an abomination unto Me; the new moons and Sabbaths, the calling of assemblies, I cannot! Away with; it is iniquity, even the solemn meeting. Your new moons and your appointed feasts My soul hates: they are a trouble unto Me; I am weary to bear them. And when you spread forth your hands, I will hide My eyes from you: yes, when you make many prayers, I will not hear: your hands are full of blood. They were horribly wicked people, they could hardly have been worse. They were so bad that even their prayers were not fit for God to hear. Yet He says—
 
 16-19. Wash you, make you clean; put away the evil of your doings from before My eyes; cease to do evil; learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow. Come now, and let us reason together, says the LORD: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool. If you are willing and obedient, you shall eat the good of the land. What blessed words of mercy! Oh, that everyone of us may prove them true in our own case, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2377 Love Stronger Than Death|← #2377]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2379 A Discourse to the Despairing|#2379 →]]

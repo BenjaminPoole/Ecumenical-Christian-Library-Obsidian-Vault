@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 39
 
-**CHAPTER 39**
+***Chapter 39***
 
 ## Isaiah 39:1-8
 

@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # The Multitude Before the Throne
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3403
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "After this Ibeheld, and lo, a great multitude, which no man could number, of allnations, tribes, people and tongues stood before the Throne, and before the Lamb, clothed with white robes, and palms in their hands, and cried with a loud voice, saying, Salvation to our God which sits upon the Throne, and unto the Lamb." Revelation 7:9,10.
 
 IT seems as though a dash of wonderment thrilled through his soul and a flame of admiration burst from his tongue, when John exclaims, "After this I beheld, and lor He had already seen much. His attention was fixed. His thoughts were strained. All of a sudden, then, a fresh scene breaks on his view and he betrays his surprise. At what, you say? Evidently he was astonished that the vision was not yet complete. Ah, Brothers and Sisters! In order to understand the deep things of God, we need to be patient in our contemplation. Had John turned away his eyes, relaxed his study, or withdrawn his gaze from the marvelous panorama, he would not have seen the better part of his vision! As a Jew, when he had seen the twelve tribes pass before him, he might have been tempted to say, "It is enough! There is a remnant according to the election of Grace in Israel! Lord, Your servant is content! I would now open my eyes again to earth and forget these mysteries." This is what many have done practically when they have been looking at a Gospel Truth. They have not been desirous to see it all, though glad enough to see some part of the Truth of God which seemed to suit their prejudice—they have taken their eyes away from the excellent glory before they have seen the whole of the Truth, as though they were afraid of discovering too much, as though they were always glad not to learn anything beyond, for fear it would not square with what they had learned before! John, however, being patient and taught of God, continued to look—and when the august assembly of the 144,000 had passed before him, he saw a far greater multitude of the Gentile race and he heard from them a louder song than he had heard from the chosen multitude before, as they said, "Salvation to our God who sits upon the Throne and unto the Lamb." Be steadfast, then, you searchers into the Truths of God. Look long! Look earnest! Ask the Lord to let you see as much as you may. Then that petition being granted, comfort yourselves with this reflection, "What you know not now you shall know hereafter." Some things He will not tell you because you cannot bear them now, but let there be nothing hid from you because your interest flags and you do not wish to see it! Be willing to learn and let your eyes be open to see the whole of the Truth which Jesus would reveal. Turning, then, to the vision described in our text, the first thing in it that we ought to meditate upon is—
 
-I. THE GREAT CENTER OF THE HEAVENLY WORLD.
+## I. The Great Center of the Heavenly World
 
 It seems that all the saints and angels that John saw surrounded one common rallying place—the Throne of God and of the Lamb. They were not broken up into groups, some of them considering this subject, and others investigating that. They were not divided into parties, some calling themselves by one name, and some by another. All in one group they stood, though their number was beyond all human count, and every eye was directed to one common object—yes, and every heart went with every eye—and every tongue sounded the same song, and that a song of adoration to the same One who was the center of all!
 
@@ -71,9 +68,9 @@ To complete the description, we will only remark that the palms in their hands m
 
 I wish I had the power to describe this glorious circle—those bright ones before the Throne, that you could see them! I think, as I look upon them, that I can see even now the Apostolic band. I mark the goodly fellowship of the Prophets. I think I see the martyrs with their ruby crowns. Do not I see the ministers and confessors of Christ, some of my own kith and kin that have gone before me—the Covenanters who bled in Scotland, and the heroes of Smithfield? There they stand, and listen!—how they sing! None shall excel them in their song of praise. You have a mother there, perhaps—a sister, or a brother, or your grandfather who, years ago "went over to the majority" to sing among that countless multitude. Oh, if I could but have a vision of all that will be there within the next hundred years, would I see myself, and would I see all this company there? Oh, if it were possible, I would gladly translate you all to Heaven at once—from the Tabernacle to the Temple, from this place where we sing His praises at His footstool to the place where we will sing them to His face more sweetly and more loudly by far! Not one of you, oh, not one of you would we have absent! Though, Friend, you may be out of sight, and almost out of hearing, one who has just managed to crowd in among the multitude that throng this house—oh, may you with all the rest of us have a place among His chosen—and may none of you find your name left out when He, for them, shall call! Are you believing in Jesus? If so, you should be there! Are you an unbeliever? If you die as you are, you must be driven from His Presence—you must be destroyed from the glory of His power—all the joy and bliss that make up life must be crushed out of you and you must live banished from Him forever! And now to close. It seems that—
 
-IV. THIS GOODLY COMPANY WHO SURROUNDED THE CENTRAL THRONE OF GOD WERE ENGAGED
+## IV. This Goodly Company Who Surrounded the Central Throne of God Were Engaged
 
-IN SONG.
+## In Song
 
 They "cried with a loud voice, saying, Salvation to our GOD which sits upon the Throne and unto the Lamb." I was reading the other day a book containing the life of a very excellent Primitive Methodist minister, and I was greatly amused to find in his diary an allusion to myself. He says, "Went to Stroud to hear Mr. Spurgeon. He is a rank Calvinist, but a good man." I was pleased to find that I was a good man, and I was equally pleased to find that I was a rank Calvin-ist! And when I came to review the book I was obliged to say that our Brother was quite correct about my being a rank Calvinist, and we believed that he was one, too, now that he has gone to Heaven! They are all Calvinists there! Every soul of them! They may have been Armenians on earth—thousands and millions of them were—but they are not after they get there, for here is their song, "Salvation unto our God which sits upon the Throne." That is all my Calvinism. I am sure that is what Calvin preached, what Augustine preached, what Paul preached, what Christ would have us preach!
 
@@ -111,7 +108,7 @@ I pray the Lord to convince any poor needy soul that there is salvation in Him�
 
 God grant that you may look, and so be among the countless throng who shall sing His praises forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 7.
+## Exposition by C. H. Spurgeon: Revelation 7
 
 Verse 1. Andafter these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. A perfect calm there must be till God's people are saved. Not a leaf shall stir to do them damage. Not a dash of foam upon the waters—no movement of wind, or sea, or tree.
 
@@ -134,7 +131,6 @@ Verse 1. Andafter these things I saw four angels standing on the four corners of
 11, 12. And about the elders and four beasts, and fell before the Throne on their faces, and worshipped God, saying, Amen: Blessing and glory, and wisdom, and thanksgiving, and honor, and power, and might be unto our God forever and ever Amen. Grand ascriptions of praise to make the worship perfect, as all worship should be which is presented to God—as all worship will be when we shall once get to Heaven.
 
 13\. And one of the elders answered, saying unto me, Who are fhese.?This vast crowd—who are these? 13-17. Who are arrayed in white robes? And where did they come from? And I said unto him, Sir, you know. And he said to me, These are they who came out of the great tribulation, and have washed their robes, and made them white in the blood of the Lamb. Therefore are they before the Throne ofGod, andserve Him day andnight in His Temple: andHe who sits on the Throne shall dwell among them. They shall hunger no more, neither thirst anymore; neither shall the sun light on them, nor any heat. For the Lamb who is in the midst of the Throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
-
 
 ---
 [[Sermon 3402 The Nail in a Sure Place|← #3402]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3404 A Gross Indignity|#3404 →]]

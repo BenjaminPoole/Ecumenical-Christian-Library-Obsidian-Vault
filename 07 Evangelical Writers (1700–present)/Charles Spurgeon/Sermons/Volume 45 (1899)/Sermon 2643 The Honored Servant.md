@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Honored Servant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2643
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whoever keeps the fig tree shall eat the fruit thereof: so he that waits on his master shall be honored." Proverbs 27:18.
 
@@ -105,7 +102,7 @@ But our highest honor is yet to come.It is in that day when Christ shall call Hi
 
 Oh, that you and I, dear Friends, may have that honor at the last! And what will we do when we get it? Why, we will cast our crowns at our Savior's feet and say to Him, "Not unto us, not unto us, but unto Your name be all the praise and glory forever!" And in that very deed we shall find the highest honor of all! And we shall then, perhaps, remember this Thursday evening and this text, "He that waits on his master shall be honored." The Lord bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW25:14-30.
+## Exposition by C. H. Spurgeon: Matthew 25:14-30
 
 Verse 14. For the kingdom of Heaven is as a man traveling into a far country, who called his servants and delivered unto them his goods. This parable has to do with you who are professors of Christianity. He, "called his servants," those who, by their own consent, were numbered among his household servitors. "He called his servants and delivered unto them his goods." Not theirs, but his! And therefore to be used forhim. If you are Christ's servant, your abilities are His, He has lent them to you to be employed for your Lord. "He called his servants and delivered unto them his goods."
 
@@ -128,7 +125,6 @@ Verse 14. For the kingdom of Heaven is as a man traveling into a far country, wh
 29\. But from him that has not shall be taken away even that which he has. If you need an instance of taking away from a man what he has not—you may have seen it sometimes in the case of a person without any education or knowledge who is quite content to remain in that condition. But, all of a sudden he is introduced into learned society—he hears what educated people have to say, and he exclaims, "What a fool I am!" What he thought he had, though he never had it, suddenly goes from him!
 
 30\. And cast the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth. If we give any description of the world to come which is at all terrible, those who reject the Scriptures begin to cry out that we have borrowed it from Dante, or taken it from Milton! But I take leave to say that the most awful and harrowing descriptions of the woes of the lost that ever fell from human lips do not exceed or even equal the language of the loving Christ, Himself! Listen—"Cast the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth." He is the true lover of men's souls who does not deceive them! He that paints the miseries of Hell as though they were but little is seeking to murder men's souls under the pretense of being their friend! May God give all of you Grace to trust in Jesus for yourselves and then to point others to Him, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2642 The Flight to Zoar|← #2642]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2644 The Last Words of Christ on the Cross|#2644 →]]

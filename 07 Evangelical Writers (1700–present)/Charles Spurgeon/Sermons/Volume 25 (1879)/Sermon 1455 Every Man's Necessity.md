@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Every Man's Necessity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1455
-
-DELIVERED BY.
 
 > "You must be born again." John 3:7.
 
@@ -139,14 +136,13 @@ Then shall you know the secret of regeneration and the Lord, Himself, shall be r
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 3:1-21. HYMNS FROM "OUR OWN HYMN BOOK"—456, 448, 461.
 
-TO MY HEARERS AND READERS AT THE TABERNACLE AND ELSEWHERE:
+## To My Hearers and Readers at the Tabernacle and Elsewhere
 
 BELOVED FRIENDS—By the tender kindness of God, the journey here was made without excessive fatigue and now I trust that genial weather will bring with it rapid restoration. This place has participated in the severe weather which has swept over the Continent, so that I miss, just now, the bright sunshine to which I have been formerly accustomed. Yet it is comparatively warm and so far is beneficial to an invalid. Rest is the main thing and rest I hope to find, that I may come back to you strengthened for sacred service.
 
 It is at the request of many that I write these few lines, otherwise I should be better content to say nothing about myself. Tottering on my staff today in weakness, I hopefully look forward to the time when I shall stand among you in fullness of vigor. God grant that mental and, above all, spiritual strength may be given me for the preaching of the Word in your midst and that my long bodily affliction may assist to that end.
 
 I trust I shall not be forgotten in your prayers when it is well with you. I hope also that the various enterprises such as the College and Orphanage will not be allowed to languish because their President is ill. Peace be to you all. Yours very heartily, C H. SPURGEON. MENTONE, January, 1879
-
 
 ---
 [[Sermon 1453 Eternal Faithfulness Unaffected By Human Unbelief|← #1453]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1456 Peace—a Fact and a Feeling|#1456 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 59
-
-**PSALM 59**
 
 The title, which immediately follows, informs us upon what occasion this psalm was written, which bears a considerable resemblance to the preceding. He begins by insisting upon the injustice of that cruel hostility which his enemies showed to him, and which he had done nothing to deserve. His complaint is followed up by prayer to God for help; and afterwards, as his hopes revive in the exercise of devout meditation, he proceeds to prophesy their calamitous destruction. At the close, he engages to preserve a grateful remembrance of his deliverance, and to praise the goodness of God.
 

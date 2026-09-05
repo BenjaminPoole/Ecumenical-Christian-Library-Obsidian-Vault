@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Eternity!
 
-Chapter XXI · *Practical Religion* — J. C. Ryle
+## Chapter XXI · *Practical Religion* — J. C. Ryle
 
 >  *The things which are seen are temporal; but the things which are not seen are eternal.* "—2 Cor. iv. 18.
 
@@ -136,7 +135,6 @@ As to the doctrine of the *Annihilation of the Wicked*, to which many adhere, it
 The favourite argument of the advocates of this doctrine,[Pg 495] that "death, dying, perishing, destruction," and the like, are phrases which can only mean "cessation of existence," is so ridiculously weak that it is scarcely worth noticing. Every Bible reader knows that God said to Adam, concerning the forbidden fruit, "In the day thou eatest thereof thou shalt surely *die*." (Gen. ii. 17.) But every well-taught Sunday scholar knows that Adam did not "cease to exist," when he broke the commandment. He died spiritually, but he did not cease to be!—So also St. Peter says of the flood: "The world that then was, being overflowed with water, *perished*." (2 Peter iii. 6.) Yet, though temporarily drowned, it certainly did not cease to be; and when the water was dried up Noah lived on it again.
 
 It only remains for me now to add one more last word, by way of information. Those who care to investigate the meaning of the words "eternal" and "everlasting," as used in Scripture, will find the subject fully and exhaustively considered in *Girdlestone's "Old Testament Synonyms*," ch. 30, p. 495; and in the same writer's " *Dies Iræ*," ch. 10 and 11, p. 128.
-
 
 ---
 [[PR 20 The Great Separation|← The Great Separation]] · [[Practical Religion|Practical Religion Contents]]

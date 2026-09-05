@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 42
-
-**PSALM 42**
 
 In the first place, David shows that when he was forced to flee by reason of the cruelty of Saul, and was living in a state of exile, what most of all grieved him was, that he was deprived of the opportunity of access to the sanctuary; for he preferred the service of God to every earthly advantage. In the second place, he shows that being tempted with despair, he had in this respect a very difficult contest to sustain. In order to strengthen his hope, he also introduces prayer and meditation on the grace of God. Last of all, he again makes mention of the inward conflict which he had with the sorrow which he experienced.
 

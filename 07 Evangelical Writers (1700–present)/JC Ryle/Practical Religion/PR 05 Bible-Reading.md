@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Bible-Reading
 
-Chapter V · *Practical Religion* — J. C. Ryle
+## Chapter V · *Practical Religion* — J. C. Ryle
 
 >  *Search the Scriptures.* "—John v. 39. " *How readest thou?* "—Luke x. 26.
 
@@ -276,7 +275,6 @@ Let us resolve to *talk more to believers about the Bible* when we meet them. Al
 Last of all, let us resolve to *live by the Bible more and more* every year we live. Let us frequently take account of all our opinions and practices,—of our habits and tempers,—of our behaviour in public and in private,—in the world, and by our own firesides. Let us measure all by the Bible, and resolve, by God's help, to conform to it. Oh that we may learn increasingly to "cleanse our ways" by the Word! (Ps. cxix. 9.)
 
 I commend all these things to the serious and prayerful[Pg 139] attention of every one into whose hands this paper may fall. I want the ministers of my beloved country to be Bible-reading ministers,—the congregations, Bible-reading congregations,—and the nation, a Bible-reading nation. To bring about this desirable end I cast in my mite into God's treasury. The Lord grant that it may prove not to have been in vain!
-
 
 ---
 [[PR 04 Prayer|← Prayer]] · [[Practical Religion|Practical Religion Contents]] · [[PR 06 Going to the Table|Going to the Table →]]

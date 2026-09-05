@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 18. No. XI. Norman Lesley.
 
 ## No. XI.
 
-NORMAN LESLEY.
+## Norman Lesley
 
 Norman Lesley, the eldest son of George Earl of Rothes, (see page 176,) is first named in the Parliamentary proceedings against the murderers of Cardinal Beaton; and a dagger, the sheath of silver richly chased, and the handle of ivory, preserved at Leslie House, according to tradition, was made use of by him on that occasion. Although he may be considered as the leader in that enterprise, there is no evidence to shew that he was actually one of the perpetrators. The cause of his hostility is said to have thus originated. The lands of Easter Wemyss in Fife, became annexed to the Crown by the forfeiture of Sir James Colville, (then deceased,) 18th March 1541; and were given by James the Fifth to the Rothes family. After the King's death, the forfeiture was reduced in Parliament on the 12th December 1543, under the direction of Cardinal Beaton; which so offended the Master of Rothes, that it is said to have been the proximate cause of the Cardinal's murder.—(Senators of the College of Justice, p. 25.)
 

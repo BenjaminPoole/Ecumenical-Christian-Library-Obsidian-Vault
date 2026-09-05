@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Laying the Hand on the Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2840
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he shall lay his hand upon the head of the sin offering." Leviticus 4:29.
 
@@ -127,7 +124,7 @@ And believing in the Lord Jesus Christ is just as simple as that. If a farmer wa
 
 and do you, as a little child, fully trust Jesus as your Savior and so you shall be saved! God help you to do this now, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH53.
+## Exposition by C. H. Spurgeon: Isaiah 53
 
 Verse 1. Who has believed our report? And to whom is the arm of the LORD revealed? It is sometimes the lot of God's most faithful servants to labor unsuccessfully. As old Thomas Fuller quaintly says, "He makes some to be as the clouds that empty their rain over Arabia, the stony—while others are pouring down their showers over Arabia the happy." Yet we are accepted with God, not according to our success, but according to our faithfulness. Still, no true minister of Christ can be content unless men believe his report. It will be a matter for sighing and groaning if unbelief is the only answer to our earnest declarations concerning Christ.
 
@@ -162,7 +159,6 @@ Verse 1. Who has believed our report? And to whom is the arm of the LORD reveale
 11\. For He shall bear their iniquities. How very express this is—that Christ does not merely bear the punishment of His people, but their iniquities, too! There is a literal substitution of Christ in the place of His people and a most distinct imputation of their sin to Him, and of His righteousness to them.
 
 12\. Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong; because He has poured out His soul unto death; and He was numbered with the transgressors; and He bore the sin of many, and made intercession for the transgressors. Blessed Intercessor, let Your almighty intercession avail for each one of us, for Your own name's sake! Amen.
-
 
 ---
 [[Sermon 2839 'Prisoners of Hope'|← #2839]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2841 Prayer-Its Discouragements and Encouragements|#2841 →]]

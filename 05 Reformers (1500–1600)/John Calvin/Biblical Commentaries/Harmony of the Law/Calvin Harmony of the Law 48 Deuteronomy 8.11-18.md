@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 48. Deuteronomy 8:11-18
-
-**Deuteronomy 8**
 
 **11.** Beware that thou forget not the Lord thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:
 

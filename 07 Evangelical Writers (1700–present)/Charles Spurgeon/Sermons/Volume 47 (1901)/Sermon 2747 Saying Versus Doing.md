@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Saying Versus Doing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2747
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A certain man had two sons; and he came to the first and said, Son, go work today in my vineyard. He answered and said, I will not: but afterward he repented and went. And he came to the second, and said likewise. And he answered and said, I go, Sir: and went not." Matthew 21:28-30.
 
@@ -145,8 +142,7 @@ Oh, may the Spirit of God work that blessed decision in your mind and heart righ
 
 —Adapted from The C. HI. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2746 The Nature and Design of Divine Chastening|← #2746]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2748 Rest As a Test|#2748 →]]

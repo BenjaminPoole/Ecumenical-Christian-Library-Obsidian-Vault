@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 58. Matthew 6:22-24;Luke 11:34-36; 16:13
-
-**MATTHEW 6:22-24; LUKE 11:34-36; 16:13**
 
 **22**. The light [^1] of the body is the eye: if therefore thine eye shall be simple, thy whole body shall be luminous. **23**. But if thine eye shall be evil, thy whole body shall be dark. Therefore, if the light which is in thee is darkness, how great is that darkness! **24**. No man can serve two masters: for either he will hate the one, and love the other, or he will hold to one, and neglect the other. You cannot serve God and mammon.
 

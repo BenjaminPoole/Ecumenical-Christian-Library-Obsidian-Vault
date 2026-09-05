@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 15. Chapter XIII
 
-THE POPE NOT THE HEAD OF THE CHURCH BUT CHRISTS YTCAR
+*The Pope Not the Head of the Church but Christs Ytcar*
 
 Further, the aforesaid doctors lay down in their writing that " the pope is head of the Roman church and the college of cardinals the body, and that they are very successors and princes of the apostle Peter and the college of Christ's other apostles in ecclesiastical omce for the purpose of discerning and defining all catholic and church matters, correcting and purging all errors in respect to them and, in all these matters, to have the care of all the churches and of all the faithful of Christ. For in order to govern the church throughout the whole world it is fitting there should always continue to be such manifest and true successors in the office of Peter, the prince of the apostles, and of the college of the other apostles of Christ. And such successors cannot be found or procured on the earth other than the pope, the existing head, and the college of cardinals, the existing body, of the aforesaid Roman church."
 
@@ -86,7 +85,7 @@ Likewise, if we examine in the light of the feeling and influence with which we 
 
 2 Not an exact quotation. The inference is drawn by Huss. The Sermon on the Ten Strings, Psalms 144 : 9, has much to say on the relation of husband and wife on the basis of "Thou shalt not commit adultery."
 
-THE POPE NOT THE CHURCH'S HEAD 135
+## The Pope Not the Church's Head 135
 
 Thcrefore, after Augustine has shown that a truly Christian wife ought to mourn over the fornication of her husband, not for carnal reasons, but out of love and for the chastity due to the man Christ — he says consequentially that Christ speaks in the hearts of good women, where the husband does not hear, and he goes on to say: "Mourn over the injuries done by thy husband, but do not imitate them that he may rather imitate you in that which is good. For in that wherein he does wrong, do not regard him as thy head but me, thy Lord." And he proves that this ought to be the case and says: "If he is the head in that wherein he does wrong and the body follow its head, they both go over the precipice. But that the Christian may not follow this bad head, let him keep himself to the head of the church, Christ, to whom he owes his chastity, to whom he yields his honor, no longer a single man but now a man wedded to his mother, the church." Blessed, therefore, be the head of the church, Christ, who cannot be separated from his bride which is his mystical body, as the popes have often been separated from the church by heresy.
 

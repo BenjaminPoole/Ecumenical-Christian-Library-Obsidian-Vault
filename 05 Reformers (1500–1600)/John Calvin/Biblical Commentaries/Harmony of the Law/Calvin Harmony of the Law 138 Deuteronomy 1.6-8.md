@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 138. Deuteronomy 1:6-8
-
-**Deuteronomy 1**
 
 **6.** The Lord our God spoke unto us in Horeb, saying, Ye have dwelt long enough in this mount:
 

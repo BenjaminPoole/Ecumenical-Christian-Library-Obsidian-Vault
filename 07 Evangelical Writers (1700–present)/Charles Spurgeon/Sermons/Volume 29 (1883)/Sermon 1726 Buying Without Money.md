@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Buying Without Money
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1726
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 17, 1883,.
+*Delivered on Lord's-Day Morning, June 17, 1883*
 
 > "He that has no money; come, buy, and eat." Isaiah 55:1.
 
@@ -138,7 +137,6 @@ But you remind me that it says, "Buy," and you insist upon it that, therefore, y
 To yoke you with Christ can never be! You and Christ together? An archangel and an ant would make a better pair than you yoked with Christ! No, my Friend, sink, sink, sink—by a mighty descent sink to nothing—and let Jesus rise, rise, rise, till He fills the whole horizon of your thoughts and hopes, for then are you saved! Let us sing—
 
 "'Tis done! The great transaction's done! I am my Lord's and He is mine! He drew me, and I followed on, Charmed to confess the voice Divine."
-
 
 ---
 [[Sermon 1725 Imitators of God|← #1725]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1727 The Voice from the Cloud and the Voice of the Beloved|#1727 →]]

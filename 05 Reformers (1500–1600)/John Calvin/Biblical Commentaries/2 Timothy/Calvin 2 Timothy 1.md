@@ -10,16 +10,15 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Timothy 1
 
-**COMMENTARIES**
+***Commentaries***
 
-**ON THE**
+## **On The**
 
-**SECOND EPISTLE TO TIMOTHY**
+## **Second Epistle to Timothy**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## 2 Timothy 1:1-2
 

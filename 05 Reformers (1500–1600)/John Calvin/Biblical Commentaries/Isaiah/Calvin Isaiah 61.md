@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 61
 
-**CHAPTER 61.**
+***Chapter 61.***
 
 ## Isaiah 61:1-11
 

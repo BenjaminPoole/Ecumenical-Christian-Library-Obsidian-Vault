@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 42 — Unto whom is the power and administration of this discipline committed by Jesus Christ?
-
-Question 42 — Unto whom is the power and administration of this discipline committed by Jesus Christ?
 
 Answer — As to the authority to be exerted in it, in the things wherein the whole church is concerned, unto the elders; as unto trial, judgment, and consent in and unto its exercise, unto the whole brotherhood; as unto love, care, and watchfulness in private and particular cases, to every member of the church. Matt. xxiv. 45; Eph. iv. 11, 12; Acts xx. 28; 1 Tim. iii. 5, v. 17; Heb. xiii. 7, 17; 1 Pet. v. 2; 1 Thess. v. 12; Gal. vi. 1, 2; 1 Cor. iv. 14, v. 2, 4, 5; 2 Cor. ii. 6–8; 2 Tim. iv. 2.
 
@@ -25,7 +22,6 @@ Secondly, The body of the church, or the multitude of the brethren (women being 
 1\. To consider, try, and make a judgment in and about all persons, things, and causes, in reference whereunto it is to be exercised. Thus, the brethren at Jerusalem joined in the consideration of the observation of Mosaical ceremonies with the apostles and elders, Acts xv. 23; and the multitude of them to whom letters were sent about it likewise did the same, verses 30–32; and this they thought it their duty and concernment to do, chap. xxi. 22. And they are blamed who applied not themselves unto this duty, 1 Cor. v. 2–6. Thence are the epistles of Paul to the churches to instruct them in their duties and privileges in Christ, and how they ought to behave themselves in the ordering of all things amongst them according to his mind. And these are directed unto the churches themselves, either jointly with their elders, or distinctly from them, Phil. i. 1. And the whole preservation of church-order is, on the account of this duty, recommended unto them. Neither can what they do in compliance with their guides and rulers be any part of their obedience unto the Lord Christ, unless they make previously thereunto a rational consideration and judgment, by the rule, of what is to be done. Neither is the church of Christ to be ruled without its knowledge or against its will; nor in any thing is blind obedience acceptable to God.
 
 2\. The brethren of the church are intrusted with the privilege of giving and testifying their consent unto all acts of church-power, which, though it belong not formally unto the authority of them, is necessary unto their validity and efficacy; and that so far forth as that they are said to do and act what is done and effected thereby, 1 Cor. v. 4, 5, 13; 2 Cor. ii. 6–8. And they who have this privilege of consent, which hath so great an influence into the action and validity of it, have also the liberty of dissent, when any thing is proposed to be done, the warrant whereof from the word and the rule of its performance are not evident unto them.
-
 
 ---
 [[BIWG 42 Question 41 — What is the discipline of the church|← Question 41 — What is the discipline of the church?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 44 Question 43 — Wherein doth the exercise of the authority for discipline|Question 43 — Wherein doth the exercise of the authority for discipline committed unto the elders of the church consist? →]]

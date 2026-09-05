@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 24. Matthew 2:19-23
-
-**MATTHEW 2:19-23**
 
 **19**. But when Herod was dead, lo, the angel of the Lord appeareth, by a dream, to Joseph in Egypt, **20**. Saying, Arise, and take the child and his mother, and go into the land of Israel: for they are dead who sought the life [^1] , of the child. **21**. And he rose and took [^2] the child and his mother, and came into the land of Israel. **22**. But when he had heard that Archelaus was reigning in Judea in the room of his father Herod, he was afraid to go thither: but, warned by a heavenly communication through a dream, he withdrew into the parts of Galilee. **23**. Having come there, he dwelt in the city [^3] which is called Nazareth, that what had been spoken by the prophets might be fulfilled, He shall be called a Nazarene.
 

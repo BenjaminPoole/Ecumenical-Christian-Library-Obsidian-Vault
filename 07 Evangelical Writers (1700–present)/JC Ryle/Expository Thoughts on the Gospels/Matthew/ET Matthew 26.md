@@ -11,7 +11,6 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # Matthew 26
 
 *Expository Thoughts on Matthew* — J. C. Ryle
@@ -170,7 +169,7 @@ How many professing Christians have done the same? How many, under the influence
 
 Let us learn from the passage lessons of humiliation and self-abasement. Let us resolve by God's grace to cultivate a spirit of lowliness, and self-distrust. Let us settle it in our minds, that there is nothing so bad that the best of us may not do it, unless he watches, prays, and is held up by the grace of God. And let it be one of our daily prayers, "Hold me up, and I shall be safe." (Psalm 119:117.)
 
-MATTHEW 57-68
+## Matthew 57-68
 
 *And those who had laid hold of Jesus led Him away to Caiaphas the high priest, where the scribes and the elders were assembled. But Peter followed Him at a distance to the high priest's courtyard. And he went in and sat with the servants to see the end. Now the chief priests, the elders, and all the council sought false testimony against Jesus to put Him to death, but found none. Even though many false witnesses came forward, they found none. But at last two false witnesses came forward and said, "This fellow said, 'I am able to destroy the temple of God and to build it in three days.' " And the high priest arose and said to Him, "Do You answer nothing? What is it these men testify against You?" But Jesus kept silent. And the high priest answered and said to Him, "I put You under oath by the living God: Tell us if You are the Christ, the Son of God!" Jesus said to him, "It is as you said. Nevertheless, I say to you, hereafter you will see the Son of Man sitting at the right hand of the Power, and coming on the clouds of heaven." Then the high priest tore his clothes, saying, "He has spoken blasphemy! What further need do we have of witnesses? Look, now you have heard His blasphemy! What do you think?" They answered and said, "He is deserving of death." Then they spat in His face and beat Him; and others struck Him with the palms of their hands, saying, "Prophesy to us, Christ! Who is the one who struck You?"* Matthew 26:57-68
 
@@ -225,7 +224,6 @@ We see in Peter's tears, *the close connection between unhappiness and departure
 We see in Peter's bitter tears, the grand mark of difference between the hypocrite and the true believer. When the hypocrite is overtaken by sin, he generally falls to rise no more. He has no principle of life within him to raise him up. When the child of God is overtaken, he rises again by true repentance, and by the grace of God amends his life. Let no man flatter himself that he may sin with impunity, because David committed adultery, and because Peter denied his Lord. No doubt these holy men sinned greatly. But they did not continue in their sin. They repented greatly. They mourned over their falls. They loathed and abhorred their own wickedness. Well would it be for many, if they would imitate them in their repentance, as well as in their sins. Too many are acquainted with their fall, but not with their recovery. Like David and Peter, they have sinned, but they have not, like David and Peter, repented.
 
 The whole passage is full of lessons that ought never to be forgotten. Do we profess to have a hope in Christ? Let us mark the weakness of a believer, and the steps that lead to a fall. Have we unhappily backslidden, and left our first love? Let us remember that the Savior of Peter still lives. There is mercy for us as well as for him. But we must repent, and seek that mercy, if we would find it. Let us turn unto God, and He will turn to us. His compassions fail not. (Lam. 3:22.)
-
 
 ---
 [[ET Matthew 25|← Matthew 25]] · [[Expository Thoughts on Matthew|Matthew Contents]] · [[ET Matthew 27|Matthew 27 →]]

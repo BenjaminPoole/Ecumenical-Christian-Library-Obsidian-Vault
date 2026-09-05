@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Communion With Christ—a Baptizing Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2668
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Cain two walk together, unless they are agreed?" Amos 3:3.
 
@@ -85,9 +82,9 @@ Now there are some friends who are about to walk with Christ into this pool of B
 
 But, O, you humble followers of Jesus, you have testified to us your fellowship in the faith! Be not afraid, now, to confess it before men—and may God acknowledge all your names, at last, among the followers of the Lamb, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-JOHN 9.
+## John 9
 
 [Regular readers of the Sermons will probably notice that this Exposition was given by MR. SPURGEON before he delivered the discourse published last week [Sermon #2667, Volume 46].
 
@@ -140,7 +137,6 @@ upon them, and says, "Herein is a marvelous thing, that you know not from where 
 38\. And he said, Lord, I believe. And he worshipped Him. Which proves that the man was not a Unitarian. "He worshipped Him" who had opened his eyes. And we, also, will worship Him forever and ever, blessed be His holy name!
 
 39-41. And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind. And some of the Pharisees which were with Him heard these words, and said unto Him, Are we blind, also? Jesus said unto them, If you were blind, you should have no sin: but now you say, We see; therefore your sin remains. It would have been better for them if they had known their blindness and applied to Him who could give them sight and forgive their sin!
-
 
 ---
 [[Sermon 2667 A Pressed Man Yielding to Christ|← #2667]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2669 Comfort From Christ's Omniscience|#2669 →]]

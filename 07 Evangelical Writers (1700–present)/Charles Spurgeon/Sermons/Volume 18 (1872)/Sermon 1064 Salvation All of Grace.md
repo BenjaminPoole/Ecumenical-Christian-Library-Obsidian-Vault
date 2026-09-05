@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # Salvation All of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1064
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 4, 1872,.
+*Delivered on Lord's-Day Morning, August 4, 1872*
 
 > "By Grace are you saved." Ephesians 2:8.
 
@@ -154,7 +153,6 @@ But do you accept this text as a foundation stone? Do you say, "I need Grace, in
 If you are the worst soul in the world in your own apprehension, and the one odd man that would be left out of every catalogue of Grace, now write not such things against yourself—or even if you do, come and cast yourself upon your God! He cannot reject you or if He should, you would be the first that ever trusted in Him and was refused! Come and try! Oh, that His Spirit may bring you to Jesus at this very moment and that in Heaven there may be joy in the presence of the angels of God because a soul has confided in the Grace of God and found immediate pardon and instantaneous salvation through the precious blood of Christ!
 
 The Lord bless every one of you. Oh, how I would like that every soul here should be washed in the blood of Christ this morning! Would God that every one of you were robed in the righteousness of Christ this day and prepared to enter into His rest! Pray for it, Christian Brothers and Sisters! Why should we not have it? Why, this congregation, great as it may seem, comparatively, is very little to God! Why should there be one left out? Let your prayers encircle the whole house and bear the entire audience up to God! Lay it before Him and say, "By Your mercy and by Your loving kindness save all this gathered company, for Christ's sake." Amen.
-
 
 ---
 [[Sermon 1063 Moses' Decision|← #1063]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1065 The Healing of One Born Blind|#1065 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Great Emancipator
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1440
-
-DELIVERED BY.
 
 > "And you shall say unto Pharaoh, thus says the Lord, Israel is My son, even My firstborn: and I say unto you, Let My son go, that he may serve Me." Exodus 4:22,23.
 
@@ -138,7 +135,6 @@ For that little while, at any rate, the warrior seemed to sheathe his sword and 
 When Jesus washed my sins away!" With the Paschal Lamb in our mouths nobody dares to challenge us. The blood on the door is an unanswerable answer to every accuser, caviler, or adversary! Glory be to God, then, who thus can fetch out His people and deliver them from their sins, their lusts, their habits, their passions—deliver them from death—deliver them from going down into the Pit and so deliver them that none shall lay anything to their charge, since God has justified them and Christ has absolved them!
 
 May the Lord grant us Grace to be used as His instruments as Moses was. And may we, each one of us, cry unto the Lord if we are in bondage, just as Israel did in Egypt! May the Lord in mercy send forth concerning every poor sinner here just such a message as He sent concerning His people in the house of bondage—"Thus says the Lord, Let My son go, that he may serve Me." If He will thus work among us as in the olden times, to Him shall be the glory now at this present, yes, and forevermore. Amen!
-
 
 ---
 [[Sermon 1439 Receiving the Kingdom of God as a Little Child|← #1439]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1441 The Prosperous Man's Reminder|#1441 →]]

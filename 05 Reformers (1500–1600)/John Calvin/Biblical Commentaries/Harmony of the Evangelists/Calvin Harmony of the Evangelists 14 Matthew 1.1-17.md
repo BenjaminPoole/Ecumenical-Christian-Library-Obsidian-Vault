@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 14. Matthew 1:1-17;Luke 3:23-38
-
-**MATTHEW 1:1-17; LUKE 3:23-38**
 
 **1**. The book of the generation of Jesus Christ, the son of David, the son of Abraham. **2**. And Abraham began Isaac. And Issac begat Jacob. And Jacob begat Judah and his brethren. **3**. And Judah begat Pharez and Zarah by Tamar. And Pharez begat Hezron. and Hezron begat Ram. **4**. And Ram begat Amminadab. And Amminadab begat Nahshon. And Nahshon begat Salma. **5**. And Salma begat Boaz by Rahab. And Boaz begat Obed by Ruth. And Obed begat Jesse. **6**. And Jesse begat David the king. And David the king begat Solomon by her who had been the wife of Uriah. **7**. And Solomon begat Rehoboam. And Rehoboam begat Abijah. And Abijah begat Asa. **8**. And Asa begat Jehoshaphat. And Jehoshaphat begat Jorem. And Joram begat Uzziah. **9**. And Uzziah begat Jotham. And Jotham begat Ahaz. And Ahaz begat Hezekiah. **10**. And Hezekiah begat Manasseh. And Manasseh begat Amon. And Amon begat Josiah. **11**. And Josiah begat Jeconiah and his brethren, about the Babylonish exile. **12**. And after the Babylonish exile, Jeconiah begat Salathiel. And Salathiel begat Zerubbabel. **13**. And Zerubbabel begat Abiud. And Abiud begat Eliakim. And Eliakim begat Azor. **14**. And Azor begat Zadok. And Zadok begat Achim. And Achim begat Eliud. **15**. And Eliud begat Eleazar. And Eleazar begat Matthan. And Matthan begat Jacob. **16**. And Jacob begat Joseph, the husband of Mary, of whom was born Jesus, who is called Christ. **17**. Therefore all the generations from Abraham till David are fourteen generations; and from David till the Babylonish migration are fourteen generations; and from the Babylonish migration till Christ are fourteen generations.
 

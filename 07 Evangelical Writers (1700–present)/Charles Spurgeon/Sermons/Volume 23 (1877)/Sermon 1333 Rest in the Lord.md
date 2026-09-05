@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # "Rest in the Lord"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1333
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 14, 1877,.
+*Delivered on Lord's-Day Morning, January 14, 1877*
 
 > "Rest in the Lord." Psalm 37:7.
 
@@ -168,7 +167,6 @@ Next, let us rest in the will of God. It is a high point to arrive at to feel th
 The Buddhists talk about being absorbed into Buddha and ceasing to be. And they make it their heaven to be, at last, swallowed up in their god. I know the falsehood of this teaching, but I know that there is a truth which is very like it in outward aspect. Oh, to be nothing! To be less than nothing! To have no will and no desire about life or death, about sickness or health, about poverty or wealth—no will about anything—and yet to have a strong resolved will to deny self and say, "Not as I will, but as You will." This is to rest in the Lord!
 
 Beloved, may the Lord, by His Holy Spirit, grant you abundantly, from this day forward, to enter into this which is man's first, man's last, man's sweetest, truest rest—the rest of the sinner coming to Christ—the rest of the saint abiding in Heaven! This is the only real rest that can be found on earth or Heaven—rest in the Lord! God grant it to us by faith, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1332 Our Urgent Need of the Holy Spirit|← #1332]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1334 Coming—Always Coming|#1334 →]]

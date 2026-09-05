@@ -11,12 +11,11 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 4. Dr. John Aurifaber’s Preface
 
 *To the Honorable and Right Worshipful the Head Governors, the Mayors and Aldermen of the Imperial Cities, Strasburg, Augsburg, Ulm, Nuremberg, Lubeck, Hamburg, Brunswick, Frankfurt-on-the-Maine, etc.*
 
-GRACE AND PEACE FROM GOD THE FATHER, THROUGH CHRIST JESUS OUR LORD.
+## Grace and Peace from God the Father, Through Christ Jesus Our Lord
 
 The holy and royal prophet David, in the 78th Psalm, says: “God made a covenant with Jacob, and gave Israel a law, which he commanded our fathers to teach their children, that their posterity might know it, and the children which were yet unborn; to the intent, that when they came up, they might show their children the same. That they might put their trust in God, and not forget the works of God, but to keep his commandments.”
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Joy of Holy Households
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2539
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the Lord does valiantly. The right hand of the Lord is exalted: the right hand of the Lord does valiantly." Psalm 118:15,16.
 
@@ -99,7 +96,7 @@ Christian, speaking well of God's name and not ashamed in any company to avow th
 
 III. I close by briefly noticing that this joy of holy households IS A JOY CONCERNING WHAT THE LORD HAS
 
-DONE.
+## Done
 
 You see, dear Friends, that I have a text which is too large to be handled in one sermon, so we must have the remainder another day. But I must ask you to notice the song the holy households sing. It is this—"The right hand of the Lord does valiantly. The right hand of the Lord is exalted: the right hand of the Lord does valiantly." It is a threefold strain—we and our children have learned to bless the Triune God. "Glory be to the Father, and to the Son, and to the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end! Amen."
 
@@ -122,7 +119,6 @@ The other day I saw a woman who came to join the Church and her great sorrow was
 Whenever I hear of the children of good people turning out badly, if ever I have had an opportunity of searching into the cause, there has generally been a good reason for it. I heard of a minister's sons who were all bad fellows, but when I began to look into the life of the family, I wondered how that minister dared enter the pulpit at all, for his own character was not such as would be likely to lead his children to the Savior! It may not be so in every case, but I believe that where there is family prayer and a happy home, and a holy example, and much earnest supplication with and for the children, Solomon's declaration is still true, "Train up a child in the way he should go: and when he is old, he will not depart from it."
 
 O dear Friends, may my text come true to all of you! The Lord grant it, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2538 An Epistle Illustrated by a Psalm|← #2538]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2540 Declaring the Works of the Lord|#2540 →]]

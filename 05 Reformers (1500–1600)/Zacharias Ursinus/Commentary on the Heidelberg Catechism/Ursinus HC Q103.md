@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 103. What doth God require in the fourth command?
-
-**Question 103. What doth God require in the fourth command?**
 
 Answer. First, that the ministry of the gospel and the schools be maintained; and that I, especially on the Sabbath, that is, on the day of rest, diligently frequent the Church of God, to hear his word, to use the sacraments, publicly to call upon the Lord, and contribute to the relief of the poor, as becomes a Christian. Secondly, that all the days of my life I cease from my evil works, and yield myself to the Lord, to work by his Holy Spirit in me, and thus begin in this life the eternal sabbath.
 
-**EXPOSITION**
+## **Exposition**
 
 The Fourth Commandment consists of two parts—a commandment and a reason of the commandment. The commandment is, Remember the Sabbath day to keep it holy; in it thou shalt do no manner of work, &c. Of this, again, there are two parts—the one moral and perpetual, as that the Sabbath be kept holy; the other ceremonial and temporary, as that the seventh day be kept holy.
 
@@ -52,7 +49,7 @@ For in six days the Lord made. The reason which is added to this commandment is 
 
 And rested on the seventh day. This means that God ceased to create any new works, the world being now perfect, and such as God desired it to be. God set apart this day to divine worship: 1. That the rest of the seventh day might be a monument of the creation which he had accomplished, and of the constant care, preservation, and government which he has exercised over the works of his hands from that day, for his own glory and for the salvation of his people; and so might excite us to a consideration of these his works, and to praise and glorify his name for his benefits to mankind, on whose account God created and preserves all things. 2. That by the example of himself resting on the seventh day, he might exhort men, as by a most effectual and constraining argument, to imitate him, and so abstain, on the seventh day, from the labors to which they were accustomed during the other six days of the week. This imitation of God resting on the seventh day is twofold: ceremonial and moral, as has been shown. So our works also, from which we are required to abstain on the Sabbath, are of two kinds. Some are indeed commanded by God, but are, nevertheless, not to be done when their performance would interfere with or hinder the worship of God. The labors and duties which belong to the peculiar callings of men are of this sort. Others, again, are prohibited by God, as sins. These works are all prohibited on the Sabbath; but by a difference which is three-fold: 1. Works are forbidden in respect to something, viz., in as far as they hinder the ministry of the church, or give offence: sins are positively forbidden. 2. Works are required to be omitted only on the Sabbath day: sins at all times. 3. Resting from labor is a type of resting or ceasing from sin, which is the thing signified.
 
-**OF THE SABBATH**
+## **Of the Sabbath**
 
 Having now given a brief explanation of the words of the commandment, that the doctrine of the Sabbath and its true sanctification may be the better understood, we must still further consider:
 
@@ -64,7 +61,7 @@ III. Why was it instituted?
 
 IV. How is it kept holy, and how profaned?
 
-**I. WHAT AND NOW MANI-FOLD IS THE SABBATH?**
+## **I. What and Now Mani-Fold Is the Sabbath?**
 
 The word Sabbath (in the Hebrew schabbat, schebbet, and shabbathon,) means quietness, rest, or ceasing from labor. God so called the day which he set apart to his own public worship: 1. Because he himself rested on this day, or ceased to create any new works, although he did not cease to preserve that which he had created. 2. Because the Sabbath is an image or type of the spiritual rest from sin which the faithful shall enjoy in the life to come. 3. Because we also ought on this day to cease from all servile work, that God may perform in us his works. 4. Because our families and cattle ought also to rest. The Sabbath is, therefore a time appointed for rest from external works, whether morally or ceremonially forbidden: that is, from sins, and from the labors of our callings which have respect to this life; and is also a time set apart for the performance of those things which belong to the worship of God.
 
@@ -82,7 +79,7 @@ The mediate external Sabbath is that which God has instituted through the church
 
 Or, to express it more briefly, we may say that the ceremonial Sabbath is two-fold: the one belonging to the Old, the other to the New Testament. The old was restricted to the seventh day: its observance was necessary, and constituted the worship of God. The new depends upon the decision and appointment of the church, which for certain reasons has made choice of the first day of the week, which is to be observed for the sake of order, and not from any idea of necessity, as if this and no other were to be observed by the church, concerning which we shall presently speak.
 
-**II. IN HOW FAR DOES THE SABBATH BELONG TO US?**
+## **II. In How Far Does the Sabbath Belong to Us?**
 
 The Sabbath of the seventh day was appointed of God from the very beginning of the world, to declare that men, after his example, should rest from their labors, and especially from sin. This commandment was subsequently repeated in the law as given by Moses, at which time the ceremony which had respect to the observance of the seventh day, as a day of rest was made a sacrament of sanctification, by which God declared that he would be the sanctifier of his church; or, that he would pardon the sins of such as would believe, and receive them into favor on account of the Messiah promised to the fathers, and who would at the appointed time make his appearance in the world. The reason why the ceremonial Sabbath of the seventh day is now abolished, is because it was typical, signifying the benefits of the Messiah, and admonishing the people of God of their duty. It was for the same reason that all the other sacraments, sa crifices and ceremonies, instituted before and after the giving of the law, were abolished by the coming of Christ, who fulfilled all that was signified by these things. But although the ceremonial Sabbath has been abolished in the New Testament, yet the moral still continues, and pertains to us as well as to others; for there is now just as much necessity for a certain time to be set apart in the Christian church for the preaching of God's word, and for the public administration of the sacraments, as there was formerly in the Jewish church. Yet we must not suppose that we are restricted or tied down either to Saturday, Wednesday, or any other day. The apostolic church, to distinguish itself from the Jewish synagogue, chose, in the exercise of the liberty conferred upon it by Christ, the first day of the week in the place of the seventh, because on that day the resurrection of Christ took place, by which the internal and spiritual Sabbath is begun in us. In a word, we are bound to the sabbath, whether considered morally or ceremonially, as it respects that which is general, but not as it respects that which is particular; or, in other words, there is a necessity that we should have a certain day on which the church should be instructed and the sacraments administered; yet we are not bound or tied down to any particular day.
 
@@ -100,7 +97,7 @@ Obj. 6. If the cause of any law be perpetual, the law itself must be perpetual. 
 
 The Anabaptists bring as an objection against the observance of the first day of the week, or the Lord's day, those passages of Scripture which forbid any distinction being made between days under the New Testament. "Let no man judge you in respect to an holy-day." "Ye observe, days and months, and times, and years." "He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it," &c. (Col. 2:16. Gal. 4:10. Rom. 14:6.) Therefore, say they, the observance of the first day is as much condemned as that of the seventh. We reply to the antecedent; That the Scriptures do not simply, or absolutely forbid Christians to make a distinction between days, but only when it is done with an idea of establishing ceremonial worship, or of necessity. But it is not in this way that the church observes the Lord's day, or the first day of the week. The observance of the first day of the week on the part of Christians differs in two respects from the observance of the Jewish sabbath. 1. It was not lawful for the Jews, on account of the express command of God, to alter or change the sabbath of the seventh day, as being a part of the ceremonial worship. But the Christian church, in the exercise of her own liberty, sets apart the first, or any other day to the ministry, without connecting with it any opinion of necessity, or worship. 2. The ancient Sabbath was a type of things in the Old Testament which were to be fulfilled by Christ. But in the New Testament that signification has ceased, whilst respect is had merely to order and propriety, without which the ministry of the church would either be no ministry, or at least not a properly constituted one.
 
-**III. FOR WHAT WAS THE SABBATH INSTITUTED?**
+## **III. For What Was the Sabbath Instituted?**
 
 The ultimate ends for which the Sabbath was instituted are chiefly these:
 
@@ -120,7 +117,7 @@ The ultimate ends for which the Sabbath was instituted are chiefly these:
 
 8. That the church might by this means be visible in the world, and be distinguished from idolators and blasphemers, so that those who are yet out of the church may know to what communion they ought to attach themselves. The Sabbath now was a mark under the Old Testament by which the people Israel were distinguished and separated from other nations.
 
-**IV. HOW IS THE SABBATH KEPT HOLY, AND HOW PROFANED, OR WHAT ARE THE WORKS COMMANDED AND FORBIDDEN ON THE SABBATH**
+## **IV. How Is the Sabbath Kept Holy, and How Profaned, or What Are the Works Commanded and Forbidden on the Sabbath**
 
 The sanctification of the Sabbath consists in performing such holy works as God has commanded to be done on this day. So on the other hand, the sabbath is profaned either when holy works are omitted, or when such works are performed as hinder the ministry of the church, and as are contrary to the things which belong to the proper sanctification of the sabbath.
 
@@ -188,13 +185,13 @@ IV. What are the duties devolving upon the ministers of the church?
 
 V. To whom should the ministry be committed?
 
-**I. WHAT IS THE MINISTRY OF THE CHURCH?**
+## **I. What Is the Ministry of the Church?**
 
 The ecclesiastical ministry is that office which God has instituted in his church to which he has committed the preaching of his word, and the administration of the sacraments according to divine appointment.
 
 The ministry of the church includes, therefore, these two things—the preaching of the word and the administration of the sacraments.
 
-**II. FOR WHAT HAS THE MINISTRY OF THE CHURCH BEEN INSTITUTED?**
+## **II. For What Has the Ministry of the Church Been Instituted?**
 
 The reasons for which God instituted the ministry of the church are,
 
@@ -210,15 +207,15 @@ The reasons for which God instituted the ministry of the church are,
 
 6. That the church may be visible in the world, that so the elect may know to what they ought to attach themselves, and that the reprobate may be rendered perfectly inexcusable in that they despise and endeavor to make ineffectual the voice and call which God addresses in their hearing. "But I say, Have they not heard? Yes, verily, their sound went into all the earth, and their words unto the ends of the world." (Rom. 10:18. See also 2 Cor. 2:14, 15, 16.)
 
-**III. WHAT ARE THE GRADES OR DEGREES OF MINISTERS?**
+## **III. What Are the Grades or Degrees of Ministers?**
 
 Some ministers are called immediately by God, whilst others again are called mediately by the church. Prophets and Apostles have been called in the way first mentioned. Prophets were ministers called immediately by God for the purpose of teaching and expounding the doctrine of Moses, and the promises respecting the Messiah; to reprove and do away with the corruptions and errors in the church and state, and to utter predictions respecting the church and the world, having the testimony and assurance that they could not err in the doctrines which they delivered in the name of God. Apostles were ministers called mediately by Christ to publish the doctrine respecting the Messiah already come in the flesh, and to spread it throughout the whole world, having a similar testimony from God that they could not err in the doctrine. Ministers called immediately are, 1. Evangelists, who were assistants to the Apostles, and were sent by them to teach and establish various churches. 2. Bishops, or pastors, are ministers called by the church to teach the word of God and to administer the sacraments in particular churches. 3. Doctors, or teachers, are ministers called by the church to teach in certain churches. 4. Governors are ministers chosen by the judgment of the church, for the purpose of exercising discipline, and for managing those things necessary for the order and prosperity of the church. 5. Deacons are ministers chosen by the church to take care of the poor, and to attend to the distribution of the alms of the church.
 
-**IV. WHAT ARE THE DUTIES DEVOLVING UPON THE MINISTERS OF THE CHURCH?**
+## **IV. What Are the Duties Devolving upon the Ministers of the Church?**
 
 The duties of the ministers of the church include in general, 1. A faithful and correct exposition of the true and uncorrupted doctrine of the law and gospel, so that the church may be able to understand it. 2. A lawful administration of the sacraments, according to divine appointment. 3. To give the church a good example of what constitutes a christian life and godly conversation. "In all things shewing thyself a pattern of good works." (Tit. 2:7.) 4. A diligent attention to their flocks. "Take heed, therefore, unto yourselves, and to all the flock over the which the Holy Ghost hath made you overseers, to feed the church of God." (Acts 20:28.) 5. To give proper respect and submission to the decisions of the church. 6. To see that proper respect and attention be given to the poor.
 
-**V. TO WHOM SHOULD THE MINISTRY BE COMMITTED?**
+## **V. To Whom Should the Ministry Be Committed?**
 
 The Apostle Paul plainly teaches, in his epistles to Timothy and Titus, to whom and to what persons the ministry ought to be committed by the church. To sum up the whole in a few words, we may say that the ministry of the church should be committed, 1. To men, and not to women. "I suffer not a woman to teach." (1 Tim. 12.) 2. To such as have a good report within and without the church. "A bishop must be blameless, have a good report of them which are without, lest he fall into reproach and the snare of the devil." (1 Tim. 3:2, 7.) 3. To such as are able to teach, having a proper understanding of the doctrine, and possessed of such gifts as are necessary for its exposition. "A bishop must be apt to teach." "A workman that needeth not to be ashamed rightly dividing the word of truth." "Holding fast the faithful word, as he hath been taught, that he may be able, by sound doctrine, both to exhort and to convince the gainsayers." (1 Tim. 3:2. 2 Tim. 2:15. Tit. 1:9.)
 
@@ -232,23 +229,23 @@ III. How many kinds of ceremonies are there?
 
 IV. Is it lawful for the church to institute ceremonies?
 
-**I. WHAT ARE CEREMONIES?**
+## **I. What Are Ceremonies?**
 
 The Romans were wont to call every form of divine worship by the name of ceremony, from the town Cære, in which the images of the gods were kept from the Gauls, as Livy testifies in his fifth book. Macrobius derives the term from carendo. As understood by the church, all external and solemn actions instituted by the ministry, for the sake of order, or signification, are termed ceremonies.
 
-**II. IN WHAT DO CEREMONIES DIFFER FROM MORAL WORKS?**
+## **II. In What Do Ceremonies Differ from Moral Works?**
 
 Ceremonies differ from moral works, in the following particulars: 1. Ceremonies are temporary; moral works are perpetual. 2. Ceremonies are always observed in the same way; moral works are not always performed in the same way. 3. Ceremonies signify; moral actions are signified. 4. The moral is to be viewed as the general; the ceremonial as the particular. 5. The moral is the end and design of the ceremonial; the cereonial contributes to the moral. We may here refer the reader to what has already been said in regard to these differences under the subject of the Law.
 
-**III. HOW MANY KINDS OF CEREMONIES ARE THERE?**
+## **III. How Many Kinds of Ceremonies Are There?**
 
 There are two kinds of ceremonies—some that are commanded by God himself; and others that are instituted by men. Ceremonies which have been instituted by God, are such as constitute his worship, and can only be changed by God himself. Sacrifices, by which we offer and render obedience to God, are ceremonies of this sort, being divinely instituted. So the sacraments, by which God testifies and bestows his benefits upon us, are also divinely instituted. Ceremonies instituted by the church are not the worship of God, and may be changed by the advice of the church, if there are sufficient causes to demand a change.
 
-**IV. IS IT LAWFUL FOR THE CHRUCH TO INSTITUTE CEREMONIES?**
+## **IV. Is It Lawful for the Chruch to Institute Ceremonies?**
 
 The church may and ought to institute certain ceremonies, inasmuch as the moral worship of God cannot be observed without defining and fixing the various circumstances connected with it. We may, therefore, say that it is proper for the church to institute ceremonies when the following conditions are observed: 1. They must not be unholy; but such as are agreeable to the word of God. 2. They must not be superstitious—suck as may easily lead men astray, so as to attach to them worship, merit, or necessity, and which may occasion offence when observed. 3. They must not be too numerous, so as to be oppressive and burdensome. 4. They must not be empty, insignificant, and unprofitable; but tend to edification
 
-THIRTY-NINTH LORD'S DAY
+## Thirty-Ninth Lord's Day
 
 ---
 [[Ursinus HC Q102|← Question 102. May we also swear by saints, o]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q104|Question 104. What doth God require in the f →]]

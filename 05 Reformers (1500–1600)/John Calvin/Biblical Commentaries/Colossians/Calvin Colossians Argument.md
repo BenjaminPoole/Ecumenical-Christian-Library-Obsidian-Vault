@@ -9,10 +9,7 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 **ON THE EPISTLE OF PAUL TO THE COLOSSIANS.**
 

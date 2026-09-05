@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 83. Letter II
-
-LETTER II
 
 THE following letter, written in Czech, is without date, but may be referred to this period. Several of the songs of Hus, in addition to the rhymes written in prison (infra, pp. 197, 228), have been preserved for us. The only one of any merit is a short poem, De Coena Domini, printed in the second volume of the Historic/, et Monumenta (Mon. ii. 348a). The " Holy Virgins " refer to St. Ursula and the Eleven Thousand. The student will notice that, though Hus more than once refers to this feast (infra, pp. 17, 155), he never mentions St. Ursula. St. Ursula, in fact, was a later addition to the legend, the original form of which would appear to have been the Eleven Thousand.1 As the feast takes place on October 21, we may date this letter September or October 1408. But there is nothing in the letter itself that would rule out an even earlier year, though the absence of all polemical tone would shut out a later date.
 

@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 89
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -642,10 +641,9 @@ There is,
 
 In the Works of John Boys, folio, pp. 805-9, there is an Exposition of a portion of this Psalm.
 
-**HERE ENDETH THE THIRD BOOK OF THE PSALMS.**
+## **Here Endeth the Third Book of the Psalms.**
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 088|← Psalm 88]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 090|Psalm 90 →]]

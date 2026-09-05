@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Titus 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Titus 2:1-5
 

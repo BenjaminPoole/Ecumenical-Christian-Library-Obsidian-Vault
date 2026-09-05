@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART IV.
 
-THE SUCCESS OF REDEMPTION FROM THE RISE OF ANTICHRIST TO THE REFORMATION.
+*The Success of Redemption from the Rise of Antichrist to the Reformation*
 
 I come now to the darkest and most dismal day that ever the christian church saw, and probably the darkest that ever it will see; from the rise of Antichrist till the Reformation by Luther and others. The true church in this space was for many hundred years in a state of great obscurity; like the woman in the wilderness, she was almost hid from sight and observation. In speaking of the events of this space of time, I would, 1. Take notice of the great machinations and works of Satan against the kingdom of Christ; 2. How the church of Christ was upheld during this time.
 

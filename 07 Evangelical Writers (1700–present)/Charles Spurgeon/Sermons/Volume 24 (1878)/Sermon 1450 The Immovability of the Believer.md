@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Immovability of the Believer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1450
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 22, 1878,.
+*Delivered on Lord's-Day Morning, December 22, 1878*
 
 > "They that trust in the Lord shall be as Mount Zion, which cannot be removed, but abides forever." Psalm 125:1.
 
@@ -132,7 +131,6 @@ A great nobleman with a big house in a wide country is not content to be all alo
 It is not the Nature of God to cast away any who rely upon Him. On the contrary, He is very careful that Faith should never have less than she has expected. He respects the courage of Faith—He never confounds her. If you open your back door and a robin comes bravely in out of the cold, do you drive it out? No, you are pleased with his assurance and give him a hearty welcome! Even so does God deal with poor trembling souls when they come to Him. We read of Charles V., the German Emperor, that when a pair of birds had built their nest among the poles and lines of his pavilion, he would not allow it to be removed though the time was come for the camp to be on the march. The birds had trusted to him and they would not be disappointed! The same zealous care does the Lord exhibit towards the trembling hopes and feeble confidences of poor souls that trust in Him! There is, therefore, no reason why they should be removed, since it is not like the Lord to cast them away.
 
 Once more, for a true Believer to be suffered to perish would be violation of all the promises of God. He has said to such "I will never leave you, nor forsake you." His own Word is, "the righteous shall hold on his way," "He that believes in Him shall not be ashamed nor confounded world without end." Now then, if these promises could fail, the child of God could be removed—but it is not possible so long as God is God, that he who trusts in the Lord shall ever be removed. As long as there is a God in Heaven, every Believer is safe! Let him go and rejoice in this—because it brings glory to God to save him, but for him to be lost would put a slur upon the name of the Most High! The Lord bring us to a simple faith in Jesus and keep us fixed there. Amen.
-
 
 ---
 [[Sermon 1449 A Vile Weed and a Fair Flower|← #1449]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]]

@@ -9,12 +9,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # The Preface of John Calvin
 
-**THE PREFACE OF JOHN CALVIN**
-
-**TO THE FOUR LAST BOOKS OF MOSES;**
+## **To the Four Last Books of Moses;**
 
 Arranged By Him In Form Of A Harmony,  
 And Illustrated By Commentaries.

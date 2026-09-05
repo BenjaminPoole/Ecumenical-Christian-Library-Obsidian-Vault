@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 85. Matthew 10:16-20; Luke 12:11-12
-
-**MATTHEW 10:16-20; LUKE 12:11-12**
 
 **16**. Behold, I send you out, as sheep in the midst of wolves: be therefore wise as serpents, and harmless as doves. **17**. But beware of men: for they will deliver you to the councils, and will scourge you in their synagagues: **18**. And you will be brought before rulers and kings on my account, for a testimony to them and to the Gentiles. **19**. But when they shall deliver you up, be not anxious [^1] as to how or what you shall speak: for it shall be given you in that hour [^2] what you shall speak. **20**. For it is not you that speak, but it is the Spirit of your Father that speaketh in you.
 

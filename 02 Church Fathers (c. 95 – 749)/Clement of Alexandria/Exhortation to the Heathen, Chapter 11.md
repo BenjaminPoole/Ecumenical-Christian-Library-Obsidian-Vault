@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # Exhortation to the Heathen, Chapter 11
 
-BY CLEMENT OF ALEXANDRIA
+*By Clement of Alexandria*
 
 ## Chapter 11. How Great are the Benefits Conferred on Man Through the Advent of Christ.
 

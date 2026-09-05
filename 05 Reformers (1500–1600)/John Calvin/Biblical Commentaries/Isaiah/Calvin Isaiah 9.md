@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Isaiah 9:1-21
 

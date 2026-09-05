@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # God'S Witnesses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 644
 
-DELIVERED ON SUNDAY MORNING, AUGUST 13, 1865,.
+*Delivered on Sunday Morning, August 13, 1865*
 
 > Isaiah 43:10.
 
@@ -142,7 +141,6 @@ And if it shall ever come to pass that for Christ's sake and the Gospel you shal
 Gird up your loins, my Brethren, and go out from this assembly asking, "Am I God's witness? Then, Lord, open my lips that I may speak with decision and power and give me Grace that my witness-bearing shall be such that I shall not be ashamed when the reporting angel shall read the whole of it before assembled worlds." The Holy Spirit is needed for this—may He dwell in us and make our bodies His temple and so make each of us witness for Christ!
 
 Remember, this sermon has nothing to do with many of you. You cannot witness for Christ, for you do not know Him. You cannot witness for Him till you have trusted Him. O you who are out of Christ, let my witness to you this morning be this—that except you seek Him you must perish! But that if you seek Him He will be found of you! May the Lord grant you Grace to find Him now and His shall be the glory. Amen.
-
 
 ---
 [[Sermon 0643 No Tears In Heaven|← #643]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0645 The Blind Man'S Earnest Cries|#645 →]]

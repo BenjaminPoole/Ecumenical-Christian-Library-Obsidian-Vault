@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Sunday School Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1381
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 28, 1877,.
+*Delivered on Lord's-Day Morning, October 28, 1877*
 
 > "He shall gather the lambs with His arm, and carry them in His bosom." Isaiah 40:11.
 
@@ -154,7 +153,6 @@ Fills with joy the saddest hearts." And, last of all, delight in them. That 10th
 The harder and more stubborn a human heart, the more honor it is to win it for the Lord Jesus. The less attention you get at first, the higher will be your reward if, winning the attention, you shall, by-and-by, win the soul! I reckon that your Master will count you to have served Him all the more faithfully if you bring from the ragged school the most degraded, the most ignorant, the least taught and the most depraved! To bring to Christ the children of godly parents is a thing worthy of anyone's ambition, but to gather to Him the children of the back slums, the children of the debauched and the depraved—this seems, to me, to be a more illustrious ambition!
 
 Therefore do I say to you as you traverse these streets of London—Christian men and women, your work is before you! Your reward is before you! The teeming masses are at once your sphere of labor and your recompense. There is the soil you have to sow and there is the harvest which you have to reap. The fields are white, but they are white for the harvest! God give you faith in the Gospel that you teach, faith in your Master who taught it before you and faith in your Master who teaches it with you! Now, go forth, one and all, each one according to his or her ability and calling—and gather with your arms and carry in your bosom those for whom Christ died. Amen.
-
 
 ---
 [[Sermon 1380 Vanities and Verities|← #1380]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1382 The Touch|#1382 →]]

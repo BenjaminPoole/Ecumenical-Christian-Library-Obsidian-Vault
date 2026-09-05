@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Abiding of the Spirit the Glory of the Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1918
@@ -91,8 +90,7 @@ I thought when I came in here that I should have a picked congregation; and so I
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Haggai 1; 2:1-9.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—956, 957, 451.
-
+## Hymns from "Our Own Hymn Book"—956, 957, 451
 
 ---
 [[Sermon 1917 In Christ No Condemnation|← #1917]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1919 The Very Bold Prophecy|#1919 →]]

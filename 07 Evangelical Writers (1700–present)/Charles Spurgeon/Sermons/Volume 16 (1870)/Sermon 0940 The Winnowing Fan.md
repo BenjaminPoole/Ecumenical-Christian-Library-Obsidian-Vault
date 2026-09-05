@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Winnowing Fan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 940
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 10, 1870,.
+*Delivered on Lord's-Day Morning, July 10, 1870*
 
 > "Follow peace with all men, and holiness, without which no man shall see the Lord: looking diligently lest any man fail of the Grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled." Hebrews 12:14,15.
 
@@ -168,7 +167,6 @@ I do not suppose any of us have in our most desponding moments ever grasped the 
 If there is in this house, today, any who have backslidden, I beg them to mourn, indeed, and put their trust in Jesus, and begin again. And if there is any professor, young or old, who ought not to be a professor, I ask him either to lay down his profession or make it real. Do not add to your sins this sin of pretending to be a Christian if you are not. Be honest. O do not wound Christ with unnecessary wounds. If you make no profession you will at least be free from the sin of hypocrisy. But I pray you do not sell your birthright for a little pottage. Do not let your God and Savior go for a little of this world's vanities.
 
 May you choose Christ! May you lay hold on Him and be laid hold of by Him! And may you be kept by Him even to the end, that in the Last Great Day Jesus may say of you, "Here am I, and the children whom You have given Me." If you have never been converted, and have made no profession, still the text has a bearing upon you. Remember, without holiness you cannot see the Lord. "The fear of the Lord is the beginning of wisdom." Faith in Jesus is the basis of holiness. God help you to begin at the Cross, and grant you His blessing from this time forth even forever. Amen.
-
 
 ---
 [[Sermon 0939 The Pilgrim's Grateful Recollections|← #939]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0941 The Tender Pity of the Lord|#941 →]]

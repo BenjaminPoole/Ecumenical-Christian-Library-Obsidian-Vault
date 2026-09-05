@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 119
-
-**PSALM 119**
 
 As this psalm treats of various matters, it is difficult to give an epitome of its contents. There are, however, two things which the prophet mainly aims at; the exhorting of the children of God to follow godliness and a holy life; and the prescribing of the rule, and pointing out the form of the true worship of God, so that the faithful may devote themselves wholly to the study of the Law. Along with these he frequently blends promises for the purpose of animating the worshippers of God to live more justly and piously; and, at the same time, he introduces complaints respecting the impious contempt of the Law, lest they should become tainted by bad examples. In short, he frequently passes from one topic to another, and prosecutes no one particular subject continuously; [^1] and therefore it will be best to discuss each subject in its proper place.
 

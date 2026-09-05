@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 74. The Repetition from Deuteronomy 5
-
-**THE REPETITION FROM DEUTERONOMY 5**
 
 ## Deuteronomy 5:8-10
 

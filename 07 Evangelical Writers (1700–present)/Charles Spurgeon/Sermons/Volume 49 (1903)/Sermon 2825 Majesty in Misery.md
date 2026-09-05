@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Majesty in Misery
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2825
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the men that held Jesus mocked Him and struck Him. And when they had blindfolded Him, they struck Him on the face and asked Him saying, Prophesy, who is it that struck You? And many other things they blasphemously spoke against Him." Luke 22:63-65.
 
@@ -130,7 +127,6 @@ From sin to set me free."
 Having so believed—I speak as God's witness to all who can hear me—I feel an inward peace that nothing can break, a holy joy that nothing can disturb and a sacred calm which death, itself, shall not be able to destroy. I have been at the deathbeds of many of our Brothers and Sisters who have been accustomed to worship here and who have been members of this Church. And—note this testimony, I pray you—I have never seen one of them afraid to die! I have not met with one coward among them all! But I have heard some of them singing triumphantly in their last hours, as merrily as though it were their marriage day—while others have been as calm and quiet as if to die were but to go to bed, sleep a while and wake again in the morning!
 
 Believe in the Lord Jesus Christ—in this very Lord who stooped from the heights of Glory to the depths of shame and suffering—and you, also, shall find that your confidence in Him shall be rewarded even in this life! While, as for the world to come—ah then, when there shall be no blindfolded eyes for Him—no mockery and scorn and smiting for Him—but all shall be Glory forever and ever, then you and I, if we are believers in Him, shall eternally share His Glory! God grant it, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2824 Mocked of the Soldiers|← #2824]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2826 The King in Pilate's Hall|#2826 →]]

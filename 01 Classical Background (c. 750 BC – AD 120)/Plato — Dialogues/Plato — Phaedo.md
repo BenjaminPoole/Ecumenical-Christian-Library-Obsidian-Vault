@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Phaedo
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-PHAEDO
+## Phaedo
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 After an interval of some months or years, and at Phlius, a town of
 Peloponnesus, the tale of the last hours of Socrates is narrated to
@@ -1354,13 +1349,9 @@ forbear to ask; for no answer can be given to this question. And it
 is better to resign ourselves to the feeling of a great work, than to
 linger among critical uncertainties.
 
+## Phaedo
 
-
-
-PHAEDO
-
-
-PERSONS OF THE DIALOGUE:
+## Persons of the Dialogue
 
 Phaedo, who is the narrator of the dialogue to Echecrates of Phlius.
 Socrates, Apollodorus, Simmias, Cebes, Crito and an Attendant of the
@@ -1369,8 +1360,6 @@ Prison.
 SCENE: The Prison of Socrates.
 
 PLACE OF THE NARRATION: Phlius.
-
-
 
 ECHECRATES: Were you yourself, Phaedo, in the prison with Socrates on
 the day when he drank the poison?

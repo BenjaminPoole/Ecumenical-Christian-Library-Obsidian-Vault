@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # God's Goodness Leading to Repentance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2857
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The goodness of God leads you to repentance." Romans 2:4.
 
@@ -91,7 +88,7 @@ I cannot say more. God knows I cannot do more. I can only testify to you the Gos
 
 Yet, I pray you, think not so much of the Law as of the Gospel, nor think so much of Hell as of the Christ who has delivered His people from Hell! Nor so much of Divine wrath as of God's goodness. It is a good God whom I have to set before you. I never so much wish to be eloquent as when I have to speak of Him and all His love to guilty sinners. What has He done to any of us but that which is good? Even if He has sorely smitten us, it has been in mercy that He has done it. Though you may have lain for weeks upon a sickbed, it was meant to cure your souls of the fatal disease of sin! That limb was broken that your spirit might be healed! That loss of sight was sent that you might learn, by inward sight, to see the Lord Jesus as your Savior! God is all goodness, mercy, love and tenderness—and He has set His own dear Son before you, saying to you, "Believe in Him, and you shall be saved! 'Come, now, and let us reason together, says the Lord: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool.'" Will you not turn unto Him and live? Eternal Spirit, turn them and they shall be turned, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 13:11-35'
+## Exposition by C. H. Spurgeon: Luke 13:11-35'
 
 Verses 11, 12. And, behold, there was a woman who had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift herself up. And when Jesus saw her, He called her to Him, and said unto her, woman, you are loosed from your infirmity. Observe the word, "Behold," here. Sometimes, in old books, they used to put a hand in the margin to call attention to something special in the text. So, this word seems as though nobody in the synagogue was worthy of such special notice as the most forlorn and desolate individual there—"a woman who had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift herself up." It was to be a happy Sabbath for her, though she did not know it. She used to go to the synagogue, though it must have been painful for her to be present. Possibly she could not even see the minister, she was so "bowed together." It must have been a great surprise to her when the Savior called her to Him and said to her, "Woman, you are loosed from your infirmity."
 
@@ -138,7 +135,6 @@ repent and "sit down in the Kingdom of God," and this shall cut to the quick tho
 34\. O Jerusalem, Jerusalem, which kill the Prophets and stone them that are sent unto you; how often would I have gathered your children together, as a hen does gather her brood under her wings, and you would not! There was their weakness—they were like a brood of chickens! There was His power to protect them, like a hen gathers her brood under her wings! Yet there was their infatuation—that they would rather perish than come and be sheltered beneath His almighty wings—"and you would not."
 
 35\. Behold, your house is left unto you desolate: and verily I say unto you, You shall not see Me until the time comes when you shall say, Blessed is He that comes in the name of the Lord. There will be no true glory for Jerusalem until the Jews are converted. There will be no return of Christ to that royal city until they shall welcome Him with louder hosan-nas than they gave when He rode in triumph through the streets and entered into the Temple. The Lord grant that we may never reject Christ! Let us run, even now, like little chicks, and hide beneath the wings of the Eternal.
-
 
 ---
 [[Sermon 2856 Our Hiding Place|← #2856]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2858 Migratory Birds|#2858 →]]

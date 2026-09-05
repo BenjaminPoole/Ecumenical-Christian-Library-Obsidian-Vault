@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Bitter Herbs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2727
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "With bitter herbs they shall eat it." Exodus 12:8.
 
@@ -121,7 +118,7 @@ You have often seen the sun go down, have you not? What a fine sight it is! He o
 
 Be of good courage, then, and fear not! Nobody stays away from a feast because of the salad that is served with the food, so let nobody stay away from Christ, or away from Heaven because of the little griefs he may have to bear, the light afflictions which are but for a moment, which work for us a far more exceeding and eternal weight of glory! God bless you, Beloved, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS 12:1-20.
+## Exposition by C. H. Spurgeon: Exodus 12:1-20
 
 Verses 1, 2. And the LORD spoke to Moses and Aaron in the land of Egypt, saying, This month shall be unto you the beginning of months: it shall be the first month of the year to you. God thinks a great deal of the redemption of His people. When He redeemed them out of their Egyptian bondage, He took care that the mighty deed should be worthily commemorated. Thenceforth, the Jewish year was to begin with the celebration of the national deliverance and now, when any of us are converted to God, and so are set free from the slavery of sin, we should reckon that then we really begin to live! All the previous part of our life has been wasted, but when we are brought truly to know God, through faith in our Lord and Savior Jesus Christ, then have we realized, indeed, what life is. The month of our conversion should be to us the beginning of months, the first month of the year to us.
 
@@ -138,7 +135,6 @@ God's order. The alteration of the slightest detail would have spoiled it all. I
 12, 13. For I will pass through the land of Egypt this night, and will smite all the first-born in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD. And the blood shall be to you for a token upon the houses where you are: and when I see the blood, I will pass over you. What a grand Gospel statement that is! When the sinner sees the blood, it is for his comfort—but it is God's sight of the blood that is, after all, the grand thing—and when is it that He does not see it?
 
 13-20. And the plague shall not be upon you to destroy you, when I smite the land of Egypt And this day shall be unto you for a memorial; and you shall keep it a feast to the LORD throughout your generations; you shall keep it a feast by an ordinance forever Seven days shall you eat unleavened bread; even the first day you shall put away leaven out of your houses: for whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from Israel And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you. And you shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shallyou observe this day in your generations by an ordinance forever. In the first month, on the fourteenth day of the month at even, you shall eat unleavened bread, until the one and twentieth day of the month at even. Seven days shall there be no leaven foundin your houses: for whoever eats that which is leavened, even that soulshall be cut off from the congregation of Israel, whether he is a stranger, or born in the land. You shall eat nothing leavened; in all your habitations shallyou eat unleavened bread. Thus we see God instituting a commemoration of the deliverance of His people out of Egypt. How much more ought you and I, with joyful gladness, to remember the deliverance of our soul from the slavery of sin and Satan! Let us never forget it. I should like to refresh the memories of bygone times with you who know the Lord. the Lord help you, now, with deepest gratitude, to remember the day when first you saw your Savior and the yoke was taken from your neck, and the burden from your shoulder. Glory be to the delivering Lord!
-
 
 ---
 [[Sermon 2726 Fourfold Satisfaction|← #2726]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2728 The High Rock|#2728 →]]

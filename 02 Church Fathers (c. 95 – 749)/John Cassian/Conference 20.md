@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 20
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT PINUFIUS. ON THE END OF PENITENCE AND THE MARKS OF SATISFACTION.
+## Conference of Abbot Pinufius. On the End of Penitence and the Marks of Satisfaction
 
 ## Chapter 1
 

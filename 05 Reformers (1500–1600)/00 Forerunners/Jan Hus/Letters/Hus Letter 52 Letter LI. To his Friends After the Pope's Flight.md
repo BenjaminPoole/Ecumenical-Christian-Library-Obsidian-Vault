@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 52. Letter LI. To his Friends After the Pope's Flight
-
-LETTER LI. TO HIS FRIENDS AFTER THE POPE'S FLIGHT
 
 (March 21, 1415)
 

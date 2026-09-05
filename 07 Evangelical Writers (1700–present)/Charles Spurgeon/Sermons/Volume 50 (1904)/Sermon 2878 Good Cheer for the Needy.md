@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Good Cheer for the Needy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2878
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the needy shall not always be forgotten: the expectation of the poor shall not perish forever." Psalm 9:18.
 
@@ -128,7 +125,6 @@ What I've committed to His hands,
 Till the decisive hour.
 
 "That will do for me now, James," said the dying saint, "that is Divine Sovereignty. The Lord is King and, as surely as He is King and sits upon His Throne, so surely will He fulfill His promise to a poor feeble worm like I, so I shall behold His face with joy."
-
 
 ---
 [[Sermon 2877 Trials Expected and Conquered|← #2877]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2879 The Wide-open Mouth Filled|#2879 →]]

@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 4. Introductory Notice to the History
-
-**INTRODUCTORY NOTICE TO THE HISTORY** .
 
 In the long series of events recorded in the Annals of Scotland, there is unquestionably none of greater importance than those which exhibit the progress and establishment of the Reformed Religion in the year 1560. This subject has accordingly called forth in succession a variety of writers of different sentiments and persuasions. Although in the contemporary historians, Lesley, Buchanan, and their successors, we have more or less copious illustrations of that period, yet a little examination will show that we possess only one work which bears an exclusive reference to this great event, and which has any claims to be regarded as the production of an original historian. Fortunately the writer of the work alluded to was of all persons the best qualified to undertake such a task, not only from his access to the various sources of information, and his singular power and skill in narrating events and delineating characters, but also from the circumstance that he himself had a personal and no unimportant share in most of the transactions of those times, which have left the character of his own mind so indelibly impressed on his country and its institutions. It is scarcely necessary to subjoin the name of John Knox.
 

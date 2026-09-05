@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 11
 
-**CHAPTER 11.**
+***Chapter 11.***
 
 ## Genesis 11:1-32
 

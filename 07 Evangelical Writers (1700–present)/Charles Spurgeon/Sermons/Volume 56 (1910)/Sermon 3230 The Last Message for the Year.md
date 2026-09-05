@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Last Message for the Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3230
-
-DELIVERED BY C. H. SPURGEON,.
 
 > John 6:37.
 
@@ -65,7 +62,7 @@ I think that Jesus also intended these words, "All that the Father gives Me shal
 
 III. Now I come to the last and perhaps the sweetest part of the whole discourse, which is to be concerning THE
 
-FULLNESS AND FREENESS OF DIVINE GRACE—ALL WHO COME BY THIS ONE WAY SHALL BE SAVED!
+## Fullness and Freeness of Divine Grace—all Who Come by This One Way Shall Be Saved!
 
 "Him that comes to Me, I will in no wise cast out.
 
@@ -93,7 +90,7 @@ glo-Saxon expression that sweeps round the man who comes to Christ and guards hi
 
 What do you say, My Hearers, to all this? I have pleaded with some of you hundreds of times and now, in this, my last Sabbath message for the year, I ask you once again—Will you come to Christ? When will you come? Tomorrow? That means never, for tomorrow never comes. By-and-by? That means that you do not intend to come to Christ at all! The text is in the present tense, "him that comes to me," for, "now is the accepted time. Behold, now is the day of salvation." Trust in Jesus now, Sinner! Trust your soul to Him as you trust your money to your banker and your body to your doctor! "Believe on the Lord Jesus Christ and you shall be saved." Oh, that the Holy Spirit may enable you to say, at this moment, "This is a sinner's salvation and, as I am a sinner, it exactly suits my case! I accept it, My Lord, praising and blessing You that I, a poor, foul, lost, condemned sinner coming to You, am saved—saved now and saved forever! Glory be unto Your holy name! Amen!"
 
-EXPOSITION BY C. H. SPURGEON: LUKE 11:1-26.
+## Exposition by C. H. Spurgeon: Luke 11:1-26
 
 1\. Andit came topass, that as He waspraying in a certain place, when He ceased, one ofHis disciples said unto Him, Lord, teach us to pray, as John also taught his disciples. It seemed to this disciple as if he did not know how to pray after he had heard Christ pray. The prayer of Jesus was so infinitely above anything that he had ever reached that he said, "Lord, teach us to pray." And as if he felt that he needed a precedent for asking such hallowed instruction, he said, "Teach us to pray, as John also taught his disciples." We must all feel that if we are to pray aright, we must be taught of God, by his Holy Spirit. We are full of infirmities and if there is any time when our infirmities are felt most, it is when we engage in prayer, but "the Spirit also helps our infirmities: for we know not what we should pray for as we ought." Let us, then, breathe this prayer to our great Teacher, "Lord, teach us to pray."
 
@@ -142,7 +139,6 @@ Father give the Holy Spirit to them that asks Him? [See Sermon #959, Volume 16�
 24, 26. From where I came out. And when he comes, he finds it swept and garnishe. The man has become quite a decent sort of fellow! He has given up his bad ways and is a respectable member of society. The house is swept and garnished, but it is the devil's house all the same!
 
 26\. Then goes he, and takes to him even other spirits more wicked than himself, and they enter in, and dwell there: and the last state of that man is worse than the first [See Sermon #613, Volume 11—"the strong one driven out by a stronger one."] There are, alas, many who have only a sham conversion, a conversion which lasts but a very little while. The devil was not cast out of them, but he went out of his own accord. But where Christ has come—the One who is far stronger than the devil—to cast him out of his house, the devil will never be allowed to come back again, Christ will take care of that! Having won the victory and taken the house, he will keep it by force of arms. But beware, I pray you, of a "conversion" without Christ! Beware of a "reformation" in which the devil, himself, is a co-worker with you, for it will come to something worse in the end! Let me read the verse again—"Then goes he, and takes to him seven other spirits more wicked than himself, and they enter in, and dwell there; and the last state of that man is worse than the first." He becomes a worse man than ever because once he promised to be better, but only promised it in his own strength, which was utter weakness!
-
 
 ---
 [[Sermon 3229 The Royal Savior|← #3229]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]]

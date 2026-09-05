@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Withholding Corn
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 642
 
-DELIVERED ON SUNDAY MORNING, JULY 30, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 30, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Proverbs 11:26.
 
@@ -172,7 +171,6 @@ Christ does not want you to pay one talent out of the hundred and promise to pay
 It is an available salvation, freely presented to you in Christ Jesus. Remember the text of two or three Sundays ago— "Whoever will, let him take of the water of life freely." Jesus casts out none that come to Him. Oh that you may be led to come this morning!
 
 Thus have I tried to avoid the sin of withholding corn. And if any in this House of Prayer have been guilty of it, I pray you avoid the curse of the people and seek the blessing of the Most High God by this day endeavoring to scatter everywhere the Bread of Life! Go and work for God wherever you have an opportunity and help us in our prayers and efforts to send forth more laborers into the harvest, for the harvest truly is plenteous, but the laborers are few. Amen.
-
 
 ---
 [[Sermon 0641 Confession Of Sin Illustrated by the Cases of Dr.|← #641]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0643 No Tears In Heaven|#643 →]]

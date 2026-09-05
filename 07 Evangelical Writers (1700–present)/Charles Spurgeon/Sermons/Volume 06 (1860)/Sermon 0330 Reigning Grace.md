@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Reigning Grace
 
 *New Park Street Pulpit* · Sermon No. 330
 
-DELIVERED ON SABBATH MORNING, AUGUST 26, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, August 26, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > "So that as sin has reigned in death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord." Romans 5:21.
 
@@ -78,7 +77,6 @@ Now look upward, if your eyes can bear the light. You cannot see the full form a
 "All hail the power of Jesus' name, Let angels prostrate fall! Bring forth the royal diadem, And crown Him Lord of All!" Jesus, we crown You! We crown You. All hail! All hail! You King of kings—You God of Love. Behold Your Church bows herself before You— "With vials full of odor sweet, And harps of sweeter sound."
 
 The elders chant before Your Presence and we, even we, adore You! Though silver of angelic praise, and gold of perfect melody we cannot boast—yet such as we have, we give You! Unto Him who sits upon the Throne—unto Him who lives and was dead—unto Grace, in the Person of the Lord Jesus, be glory and honor and majesty and power and dominion and might, forever and ever! Amen.
-
 
 ---
 [[Sermon 0329 Christ's First and Last Subject|← #329]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0333 Three Homilies From One Text|#333 →]]

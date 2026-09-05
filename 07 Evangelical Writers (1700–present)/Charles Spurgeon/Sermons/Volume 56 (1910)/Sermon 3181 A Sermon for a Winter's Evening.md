@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # A Sermon for a Winter's Evening
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3181
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the servants and officers stood there, who had made a fire of coals, for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself." John 18:18.
 
@@ -51,7 +48,7 @@ hope for salvation through Him?" Oh, consider these things and give an answer to
 
 II. Secondly, we remark that FOR A DISCIPLE TO MAKE HIS OWN COMFORT THE CHIEF THING IN THE
 
-PRESENCE OF HIS SUFFERING MASTER IS MOST INCONSISTENT.
+## Presence of His Suffering Master Is Most Inconsistent
 
 One does not wonder at the high priest's servants making a fire of coals, for it was cold—and one is not surprised at their standing to warm their hands, for they knew but little, comparatively, of Christ. They had never tasted of His love, they had never seen His miracles, they had not been asked to watch with Him in the Garden of Gethsemane, they had never heard Him say, "Blessed are you, Simon Bar-Jona, for flesh and blood has not revealed it unto you." The marvel is that Peter should stand there among them warming his hands! Why did he do so? Not because he was indifferent to his Master. Let us do him justice—it is plain that he was in a dreadful state of mind that night. He was so attached to his Master that he followed Him up to the door of the hall and stopped there till John came out and admitted him. He went up to the fire because he thought he must act as others did, so as to escape suspicion. And as they warmed their hands, he did the same, so as to appear as one of them. It so happened, however, that the light of the fire shone upon his face and lit up his countenance, so that one said, "You are one of His disciples." Then, to get away from observation, we find Peter passing into another part of the hall, where, I suppose, it was darker. The people were talking and Peter must talk, for it was his weakness to do so, and, moreover, he might have been suspected again had he been silent. Then another remarked, "You also are of Galilee, for your speech betrays you." He was discovered, again, and so made for the door, but was known there, also. He was all in a tremble. He did love his Master, weak as his faith was and, therefore, he could not leave Him—and yet he was afraid to confess Him. He was worried and troubled, tossed to and fro between a desire to rush forward and do some rash thing for his Lord—and a fear for his own life! He went to the fire because nobody would think that a follower of Jesus could warm his hands while his Master was being despitefully entreated.
 
@@ -77,13 +74,13 @@ Here was Peter warming his hands and he thought that nobody would know him—but
 
 V. The fifth point is this—and you all know it to be true—IT IS A GREAT DEAL EASIER TO WARM YOUR
 
-HANDS THAN YOUR HEARTS.
+## Hands than Your Hearts
 
 A few coals in a fire suffice to warm Peter's hands, but even the Infinite Love of Jesus did not, just then, warm his heart. O Sirs, what was the scene at the end of the hall? Was not that enough to set all hearts aglow? It was a bush that burned with fire and was not consumed! It was the Son of God struck on the mouth and vilely slandered—and yet bearing it all for love of us! O Sirs, there was a furnace at the other end of the hall—a furnace of Divine Love! If Peter had but looked at his Master's face, marred with agony, and seen upon it the mark of His terrible night's sweat, surely, had his heart been right, it would have burned within him! One marvels that with such a sight before him—if Peter had been Peter—if he had only been true to that true heart of his, he would have braved the malice of the throng, placed himself side by side with his Lord and said, "Do to me whatever you do to Him. If you smite Him, smite me. Take me and let me suffer with Him." If he might not have done that, one would not have wondered if Peter had sat there and wept till he broke his heart to see his Master treated so! But alas, the sight of his Lord, accused and betrayed, did not warm Peter's heart.
 
 My Brothers and Sisters, we sometimes wish that we had actually seen our Lord, but seeing Christ after the flesh was of small service to Peter. It was when the Holy Spirit used the glance of Jesus as a special means of Grace that Peter's heart was thawed and his eyes dropped with tears of repentance! O Lord and Master, though a bodily sight of You would not warm us if You should walk up these aisles and should show Your pierced hands in this pulpit. Yet, if Your blessed Spirit will come upon us tonight, we shall see You by faith and the sight will make our hearts burn within us, though it is winter! Come, sacred Spirit, shed abroad the love of Jesus in our souls and so shall our love be kindled, and burn vehemently! Grant it, therefore, we pray You, for Your love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN18:1-27.
+## Exposition by C. H. Spurgeon: John 18:1-27
 
 Verse 1. When Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where was a garden, into which He entered, and His disciples. From our Lord's example, we should learn, when trouble is near, to meet it with composure. Our Savior did not sit still, but, as the hour approached for His betrayal and death, "He went out with His disciples." The passing over the black Brook Kidron, through which flowed the filth of the Temple, was very significant. King David had crossed that brook long before when he had been driven from his home by Absalom's rebellion—and now the Greater David went "over the Brook Kidron, where was a garden." He especially wanted solitude, just then, for one of the best preparations for suffering is to get alone with God. Learn this lesson, also, from your Lord's example and, as He put Gethsemane before Calvary, if you can put an hour of prayerful contemplation before your expected suffering, it will be a great help to you.
 
@@ -134,7 +131,6 @@ very cheering to us to think of our Lord meeting all the enemies of His people, 
 26-27. Are not you, also, one of His disciples? He denied it and said, I am not. One of the servants of the high priest, being the kinsman whose ear Peter cut off, said, Did not I see you in the garden with Him? Peter then denied it again. Ah, me, they who lie once will be all too apt to lie again! Those who deny Christ once will be apt to go to still greater lengths in their denial of Him. May they be stopped as Peter was!
 
 27\. And immediately the cock crew. May the cock crow for some who have been asleep up till now—and warn them that the night is far spent and that it is time for them to awake out of sleep—and wash their eyes with tears and repent of having denied their Lord!
-
 
 ---
 [[Sermon 3180 Christ the Creator|← #3180]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3182 Boldness at the Throne|#3182 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 35
 
-**CHAPTER 35**
+***Chapter 35***
 
 ## Jeremiah 35:1-7
 
@@ -63,7 +62,7 @@ But the Papists, however, dwell much on another point, — that whatever has bee
 
 ## Prayer Lecture 139
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased to adopt us for thy children, and also to shew to us what pleases thee, — O grant, that we may in all things be obedient to thee, and never turn aside either to the right hand or to the left; and as thou exhortest us also continually, and stirrest us onward, grant that we may, in quiet meekness of spirit, so surrender ourselves to be ruled by thee, as to prove ourselves to be thy children, and to glorify thee as our Father, until we shall enjoy that eternal inheritance, which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -137,7 +136,7 @@ The Prophet says nothing new here, but confirms what has been said before; and t
 
 ## Prayer Lecture 140
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast made known to us by thy servants, not only once, and even often, the way of salvation, but hast sent also thine only-begotten Son to be to us a teacher of perfect wisdom, — O grant, that we may so submit to thee and so consecrate to thee our whole life, that he who died for our salvation and rose again, may peaceably rule us by the doctrine of his gospel; and that we may strive to glorify thee in this world, so that we may at last be made partakers of that celestial glory which the same thy Son our Lord has obtained for us. — Amen.
 

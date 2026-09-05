@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Divine Gentleness Acknowledged
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 6823
 
-DELIVERED ON SUNDAY MORNING, APRIL 1, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 1, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Your gentleness has made me great." Psalm 18:35.
 
@@ -150,7 +149,6 @@ I pray that you Christian people may get a thoroughly sound backbone of high spi
 This advice of mine would be very dangerous if I did not couple it with the whole of the text. Remember where all true moral greatness must come from—it must come from God alone, and from His gentleness. Who are you to use these big words? Nothing! A swollen mass of emptiness, except as God's love dwells with you. But oh, Brothers and Sisters, the tenderness of God, while it makes us lie in the very dust before Him, yet lifts us up in the presence of our fellows!
 
 The love and gentleness of God makes us feel that we are less than nothing, less than the least of all His mercies—but oh, it makes us feel that we cannot sin! That we cannot yield to our fellow men in matters of conscience. That we must stand up for Him who has done so much for us. May you realize in your lives and in your hearts the meaning of my text, "Your gentleness has made me great!"
-
 
 ---
 [[Sermon 0682 Future Punishment A Fearful Thing|← #682]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0684 Hope, Yet No Hope—No Hope, Yet Hope|#684 →]]

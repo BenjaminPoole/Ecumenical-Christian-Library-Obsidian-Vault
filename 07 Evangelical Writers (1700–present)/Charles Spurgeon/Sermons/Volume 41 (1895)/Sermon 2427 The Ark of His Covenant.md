@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "The Ark of His Covenant"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2427
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the Temple of God was opened in Hea ven, and there was seen in His Temple the ark of His testament [covenant—R.V.] and there were lightning, and voices, and thundering, and an earthquake, and great hail." Revelation 11:19.
 
@@ -136,7 +133,6 @@ Verse 1. Then verily the first covenant had also ordinances of Divine service an
 25-28. Nor yet that He should offer Himself often, as the high priest enters into the holy place every year with blood of others; for then must He often have suffered since the foundation of the world: but now once in the end of the world has He appeared to put away sin by the sacrifice of Himself. And as it is appointed unto men once to die, but after this the judgment: so Christ was once offered to bear the sins of many. There is no need that He should die again, His one offering has forever perfected all His people! There remains nothing but His final coming for the judgment of the ungodly and the acquittal of His redeemed.
 
 28\. And unto them that look for Him shall He appear the second time without sin unto salvation. Christ's second coming will be "without sin," and without a sin offering, too, wholly apart from sin, unto the salvation of all His chosen. May we all be among those who are looking for Him! Amen.
-
 
 ---
 [[Sermon 2426 A Prayer for Revival|← #2426]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2428 The Marriage Supper of the Lamb|#2428 →]]

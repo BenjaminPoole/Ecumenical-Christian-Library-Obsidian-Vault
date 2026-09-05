@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Grace for the Guilty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2563
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Have blotted out, as a thick cloud, your transgressions and, as a cloud, your sins: return unto Me, for I have redeemed you." Isaiah 44:22.
 
@@ -57,7 +54,7 @@ Come along, Beloved! Why are you afraid of Jesus? He says, "Return unto me; for 
 
 One would think, dear Friends, when you are so loath to come to Christ, that you were coming to receive condemnation instead of coming to be saved! Men come unwillingly to execution, but must they come as unwillingly to Christ as they do to the slaughter? You think Him some angry Judge. You have bad ideas of my sweet Jesus, or else you would not keep away from Him when He is continually crying, "Return unto Me!" "Return unto Me!" O that you would so love Him and rejoice in Him, that you would feel the greatest pleasure in the world in coming to Him! [Some alarm was here occasioned by the gas lights suddenly going out. After the temporary confusion had subsided, Mr. Spurgeon proceeded to address the large and excited auditory on a different subject. In his Autobiography, he mentions that both the discourses delivered under these unusual circumstances were blessed to the conversion of some of his hearers.]
 
-EXPOSITION BY C. H. SPURGEON: PSALM125.
+## Exposition by C. H. Spurgeon: Psalm 125
 
 Verse 1. They that trust in the LORD shall be as mount Zion which cannot be removed, but abides forever Various conquerors have destroyed the buildings upon Mount Zion, but the mountain, itself, is still there. None have ever dug it up and cast it into the Mediterranean Sea. It stands fast and will stand there as long as the world endures. And "they that trust in the Lord shall be as Mount Zion"—they shall abide as firmly as that sacred mountain does! Nothing can move them, or remove them. They are in the hands of Christ and none can pluck them from there. "My Father, who gave them to Me, is greater than all," says Christ, "and no man is able to pluck them out of My Father's hand." Oh, what strength does faith give to a man!
 
@@ -68,7 +65,6 @@ Verse 1. They that trust in the LORD shall be as mount Zion which cannot be remo
 4\. Do good, O LORD, unto those that are good, and to them that are upright in their hearts. True Believers are good—especially are they good at heart, for Divine Grace has made them so and God, therefore, will do them good. He will bless them more and more. He will sanctify them and prepare them for the ineffable goodness that is at His right hand forever and ever.
 
 5\. As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel There are—there always have been—in the Church of God some who have been the Church's dishonor. They have crooked ways of their own and, in due time, under stress of persecution, or through temptation, they "turn aside unto their crooked ways." They leave the path of trustfulness and holiness, as Judas did, as De-mas did, as many have done. What will God do with them? He will "lead them forth." He will show them up. He will bring them into His Light. And in what company will He lead them forth? Why, "with the workers of iniquity," for if they were not such in outward action, they were really so in thought and heart! And where will He lead them? He will lead them forth to execution—they shall go among the malefactors—they shall be led forth to die. But will this hurt the Lord's people? No. When the chaff is separated from the wheat, the wheat shall be all the purer. "Peace shall be upon Israel." All the Lord's chosen, pleading, princely people—His Israel—shall have peace upon them! May we all be found among them, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2562 Cries From the Cross|← #2562]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2564 Strange Ways of Love|#2564 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # James 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## James 3:1-5
 

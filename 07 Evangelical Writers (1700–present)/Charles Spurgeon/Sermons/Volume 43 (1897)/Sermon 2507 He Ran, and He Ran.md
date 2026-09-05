@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # He Ran, and He Ran
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2507
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But when he saw Jesus afar off, he ran and worshipped Him." Mark 5:6.
 
@@ -89,7 +86,7 @@ No sooner did the Father see His son coming back than, "He ran." When God runs, 
 
 What I am longing for is that God's blessed Spirit may move some of you to run to Christ, if only in the poor way that I have set forth. Just for a few minutes, quietly worship Him, and while you are doing that, may the great Father come in with all His Omnipotent Love and put away your sin, and change your nature, and receive you into eternal union with Himself to the praise of the glory of His Grace! If I were to say ten thousand things, but God did not bless what I had said, all would be in vain. I hope that you do not need more words, but that you will come at once to Christ. Do not perish, I pray you, do not damn your own souls! There is enough misery in this world without incurring the miseries of the world to come! The Lord Himself says, "Turn you, turn you from your evil ways; for why will you die?" In the name of the bleeding Christ, seek His mercy even now! By His bloody sweat and crown of thorns, seek Him now! I know no better argument except it be by His death cry, "It is finished." Come to Christ! Look to Him and live, even now, and to Him shall be the praise forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGON: MARK 5:1-24;35-43.
+## Exposition by C. H. Spurgon: Mark 5:1-24;35-43
 
 Verse 1. And they came over unto the other side of the sea, into the country of the Gadarenes. They had had a very eventful passage across that small but stormy sea, and Christ had proved Himself to be the Lord High Admiral of the seas. But now that He steps ashore, they are to see His power quite as distinctly displayed as upon the stormy waves.
 
@@ -142,7 +139,6 @@ Verse 1. And they came over unto the other side of the sea, into the country of 
 40-42. He took the father and the mother of the damsel, and them that were with Him, and entered in where the damsel was lying. And He took the damsel by the hand, and said unto her, Talitha cumi, which is, being interpreted, Damsel, I say unto you, arise. And straightway the damsel arose and walked, for she was of the age of twelve years. And they were astonished with a great astonishment How very often persons were "astonished" in Christ's day! Sometimes it is put, "they marveled." At other times, "they were amazed," or, "they wondered." It would have been well if wonder had always turned to faith—but sometimes it corrupted into hate! God grant that our wonder at Christ may always be of that kind which crystallizes into love!
 
 43\. And He charged them strictly that no man should know it; and commanded that something should be given her to eat Life must be nourished. Young life, especially, needs frequent food. If Christ has spiritually quickened your child, see that you feed the child with convenient food. If you have won a convert to Christ in the Sunday school, take care that the unadulterated milk of the Word is brought forth, that the new-born child may be fed and nourished till it comes unto the perfect stature of a man in Christ Jesus!
-
 
 ---
 [[Sermon 2506 God's Law in Man's Heart|← #2506]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2508 Beautiful Forever|#2508 →]]

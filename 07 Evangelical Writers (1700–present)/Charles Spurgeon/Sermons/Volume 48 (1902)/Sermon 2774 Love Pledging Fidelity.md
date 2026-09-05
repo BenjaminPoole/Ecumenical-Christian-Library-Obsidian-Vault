@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Love Pledging Fidelity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2774
-
-DELIVERED BY C. H. SPURGEON,.
 
 > 1 Samuel 18:3.
 
@@ -133,7 +130,7 @@ But what shall I say to those who do not love Christ? Do not love Christ. O you 
 
 God save you all from that terrible doom, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 18:1-16; 20:1-17.
+## Exposition by C. H. Spurgeon: 1 Samuel 18:1-16; 20:1-17
 
 1 Samuel 18:1. And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul Jonathan, the brave young soldier who had himself
 
@@ -168,7 +165,6 @@ done great exploits, naturally admired the youthful warrior who had slain the Ph
 11\. And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field. To get quite alone that they might express to one another the feelings of their inmost hearts, and also might consult together without any risk of being overheard.
 
 12-17. And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about tomorrow any time, or the third day, and, behold, if there is good toward David, and I then send not unto you, and show it to you; the LORD do so and much more to Jonathan. But if it please my father to do you evil, then I will show it to you, and send you away, thatyou may go in peace: and the LORD be with you, as He has been with my father. Andyou shallnot only while yet I live show me the kindness of the LORD, that I die not: but also you shall not cut off your kindness from my house forever: no, not when the LORD has cut off the enemies of David, everyone from the face of the earth. So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David's enemies. And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul. Thus were these two men bound together by ties of mutual love—may we be thus bound to Jesus! Oh, that there may be such love between us and our Lord as shall even excel the love of Jonathan and David!
-
 
 ---
 [[Sermon 2773 For or Against|← #2773]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2775 David Warned and Rewarded|#2775 →]]

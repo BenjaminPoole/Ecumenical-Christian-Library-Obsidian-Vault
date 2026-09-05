@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Five Links in a Golden Chain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2439
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To Titus, my own [or, "true"] son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Savior." Titus 1:4.
 
@@ -99,7 +96,7 @@ Now is our time, Brothers and Sisters! Let us, as one man, pray God to send this
 
 As for you who do not know and love the Lord, we love you, we desire to bring you into the blessed circle of love by the door of faith in Christ. Look alone to Jesus Christ, who is the only way of salvation for you as for us. Oh, that you would look to Him and live! God grant it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: TITUS1; 2
+## Exposition by C. H. Spurgeon: Titus 1; 2
 
 While reading this chapter we must understand that Titus was sent to Crete to superintend the preaching of the Gospel throughout that island. Crete was, at that time, inhabited by a people who were only partially civilized, and sunk in the very worst of vices. Paul, therefore, tells Titus to speak to them about things which would hardly be mentioned to Christians nowadays.
 
@@ -130,7 +127,6 @@ Titus 2:1. But speak you the things which become sound doctrine. There are certa
 10\. But showing all good fidelity; that they may adorn the doctrine of God our Savior in all things. Is not that a wonderful passage? Here is a slave, able to be an ornament to the Gospel of Christ! This blessed Gospel is not sent only to kings and princes! When Paul preached it, the great mass of the population were in cruel bondage, treated like dogs, or even worse. Yet the Gospel even had a message for them—it told them that they might, by a godly character, adorn the doctrine of God, their Savior!
 
 11-15. For the Grace of God that brings salvation has appeared to all men, teaching us that denying ungodliness and worldly lusts we should live soberly, righteously and godly in this present world; looking for that blessed hope, and the glorious appearing of the great God and our Savior Jesus Christ; who gave Himselffor us, that He might redeem us from all iniquity, and purify unto Himself a peculiar people, zealous of good works. These things speak, and exhort, and rebuke with all authority. Let no man despise you.
-
 
 ---
 [[Sermon 2438 Two Immutable Things|← #2438]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2440 Faithful Stewardship|#2440 →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 64. But doth not this doctrine make men careless and profane?
-
-**Question 64. But doth not this doctrine make men careless and profane?**
 
 Answer. By no means; for it is impossible that those who are implanted into Christ by a true faith, should not bring forth fruits of thankfulness.
 
-**EXPOSITION**
+## **Exposition**
 
 This Question is designed to meet the slander which the Papists bring against the doctrine of justification by faith, in which they affirm that it is calculated to make men careless and profane. But if such an effect as this does ever follow the preaching of free justification by faith, it can only follow by accident; for the natural effect of this doctrine is to produce an earnest desire of showing our gratitude to God. And further, if this does ever come to pass, it is not because those who are careless and profane apply, but because they do not apply, this doctrine of grace to themselves. To this it is objected: 1. Even those things which are evil by accident are to be abandoned. Therefore this doctrine which makes men worse by accident, must be rejected. Ans. Those things which are evil by accident must indeed be abandoned, unless there be greater and stronger reasons why they should not be omitted, but rather retained and taught, than that they may become evil to men by their own fault. Such reasons now there are in the present case: for the command and glory of God, together with the salvation of the elect, require that this doctrine should be taught, and by no means omitted in our instructions. Obj. 2. There is no need that we should fear that which cannot injure us. But according to the doctrine of justification by faith future sins cannot injure us, for Christ has satisfied for all sins, including those that are future, as well as those that are past. Therefore we need have no fears on account of future sins, which is absurd. Ans. We reply to the major of this syllogism by making the following distinction: that we need not fear that which cannot injure us, whether we have an eye to it or not. But future sins do not injure those who truly repent, but it is different with those who are careless and impenitent. We, therefore, also deny the minor proposition: for God is always offended at sin, which is the greatest offence of which any one can be guilty. Our sins likewise deprive us of conformity with God, and bring temporal punishment, even upon the faithful, although they are delivered from such as are eternal. The various other objections which the Papists bring against the doctrine of justification by faith properly belong here. We shall notice the following in addition to the one already refuted:
 
@@ -46,7 +43,7 @@ Obj. 12. The righteousness which Christ accomplished is according to the prophet
 
 Obj. 13. The Lord is our righteousness. (Jer. 23:6.) Therefore we are justified, not by imputed righteousness, but God himself dwelling essentially in us, is our righteousness. Ans. In this declaration of the prophet, the effect, by a figure of speech, is put for the cause, the abstract for the concrete. The Lord is our righteousness, which means that he is our justifier, as Christ is said "to be made of God unto us wisdom, righteousness, sanctification, and redemption;" (1 Cor. 1:30.) which means that he is a teacher of wisdom, a justifier, a sanctifier, and redeemer. The righteousness with which God justifies us is not in us, nor is it God himself dwelling in us, for he would then be an accident to the creature. Osiander, the author of this and the preceding objection, does not distinguish the cause from the effect, or the righteousness which is uncreated from that which is created. As we do not live, and are not wise by the essence of God, (for this would in effect be to say that we are as wise as God,) so we are not righteous by his essence. There is nothing more impious, therefore, than to say that the essential righteousness of the Creator is the righteousness of the creature, from which it would follow that we have the righteousness of God; yea, the very essence of God.
 
-**TWENTY-FIFTH LORD'S DAY**
+## **Twenty-Fifth Lord's Day**
 
 ---
 [[Ursinus HC Q63|← Question 63. What! do not our good works mer]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q65|Question 65. Since then we are made partaker →]]

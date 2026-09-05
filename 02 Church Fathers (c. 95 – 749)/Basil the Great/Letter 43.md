@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 43
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Admonition to the Young.
 

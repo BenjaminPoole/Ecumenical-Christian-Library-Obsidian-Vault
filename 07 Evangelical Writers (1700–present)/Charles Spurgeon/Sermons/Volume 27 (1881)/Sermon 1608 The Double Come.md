@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Double "Come"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1608
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 10, 1881,.
+*Delivered on Lord's-Day Morning, July 10, 1881*
 
 > "And the Spirit and the bride say, Come. And let him that hears say, Come." Revelation 22:17.
 
@@ -152,7 +151,6 @@ Expect that very soon you, too, must give your account before the Great White Th
 I noticed four little rooms in and about Bermondsey to each of which God had been pleased to give conversions through Prayer Meetings, or the preaching of certain younger Brothers. I am right glad of that and I wish we had hundreds of such room and cottage meetings. This big city of London will never be evangelized by our great assemblies. If all the chapels were filled, which they are not, and if all the Churches were filled, which they certainly are not, then a large proportion of the people could not get in. But, alas, they do not come to worship—they will not come! I do not think they understand some of my fellow ministers, for they talk too grandly—some ministers have not learned to talk Eng-lish—they speak a kind of French-Latin English.
 
 It is not the Saxon English which the people know and as they do not understand what is preached, they do not care to come. The way to get at the masses is to reach them by twos and threes—I am sure of it! Get them into your houses, talk about Jesus Christ in your parlors, in your kitchens, in your bed-chambers, in the corners of the streets, anywhere! I am so glad that very many of you do so—go on and prosper! It will not matter whether I live or die if you all become ministers. Would God that all the Lord's servants were Prophets. May every one of you live to win souls. "Let him that hears say, Come." God help you to do it, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1607 The Swiftly Running Word|← #1607]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1609 Faith—What Is It How Can It Be Obtained|#1609 →]]

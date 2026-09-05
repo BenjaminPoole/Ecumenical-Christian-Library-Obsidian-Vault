@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 163. Numbers 33:38,39
 
 **A Repetition of the same History**
-
-**Numbers 33**
 
 **38.** And Aaron the priest went up into mount Hor, at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
 

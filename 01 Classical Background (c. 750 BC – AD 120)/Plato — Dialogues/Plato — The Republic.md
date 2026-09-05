@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # The Republic
 *trans. Benjamin Jowett*
 
@@ -19,16 +18,13 @@ tags:
 
 ---
 
-THE REPUBLIC
+## The Republic
 
 By Plato
 
 Translated by Benjamin Jowett
 
 Note: See also “The Republic” by Plato, Jowett, eBook #150
-
-
-Contents
 
  INTRODUCTION AND ANALYSIS.
  THE REPUBLIC.
@@ -44,11 +40,7 @@ Contents
  BOOK IX.
  BOOK X.
 
-
-
-
- INTRODUCTION AND ANALYSIS.
-
+## Introduction and Analysis
 
 The Republic of Plato is the longest of his works with the exception of
 the Laws, and is certainly the greatest of them. There are nearer
@@ -928,7 +920,6 @@ fine arts is better conveyed by such terms than by superlatives.
 ‘When workmen strive to do better than well,
 They do confound their skill in covetousness.’ (King John. Act. iv. Sc.
 2.)
-
 
 The harmony of the soul and body, and of the parts of the soul with one
 another, a harmony ‘fairer than that of musical notes,’ is the true
@@ -4578,7 +4569,6 @@ would be a warrior or a man of business; he is
 
 ‘Every thing by starts and nothing long.’
 
-
 There remains still the finest and fairest of all men and all
 States—tyranny and the tyrant. Tyranny springs from democracy much as
 democracy springs from oligarchy. Both arise from excess; the one from
@@ -6289,7 +6279,6 @@ went shooting like stars to their birth,—add greatly to the probability
 of the narrative. They are such touches of nature as the art of Defoe
 might have introduced when he wished to win credibility for marvels and
 apparitions.
-
 
 There still remain to be considered some points which have been
 intentionally reserved to the end: (1) the Janus-like character of the
@@ -8587,16 +8576,9 @@ the human heart, regarded as a person or not as a person, with or
 without parts or passions, existing in space or not in space, is and
 will always continue to be to mankind the Idea of Good.
 
+## The Republic
 
-
-
- THE REPUBLIC.
-
-
-
-
- PERSONS OF THE DIALOGUE.
-
+## Persons of the Dialogue
 
 Socrates, who is the narrator.
 
@@ -8619,11 +8601,7 @@ whole dialogue is narrated by Socrates the day after it actually took
 place to Timaeus, Hermocrates, Critias, and a nameless person, who are
 introduced in the Timaeus.
 
-
-
-
- BOOK I.
-
+## Book I
 
 I went down yesterday to the Piraeus with Glaucon the son of Ariston,
 that I might offer up my prayers to the goddess (Bendis, the Thracian
@@ -10323,11 +10301,7 @@ been that I know nothing at all. For I know not what justice is, and
 therefore I am not likely to know whether it is or is not a virtue, nor
 can I say whether the just man is happy or unhappy.
 
-
-
-
- BOOK II.
-
+## Book II
 
 With these words I was thinking that I had made an end of the
 discussion; but the end, in truth, proved to be only a beginning. For
@@ -10574,7 +10548,6 @@ Homer, the first of whom says, that the gods make the oaks of the just—
 
  ‘To bear acorns at their summit, and bees in the middle;
 And the sheep are bowed down with the weight of their fleeces,’
-
 
 and many other blessings of a like kind are provided for them. And
 Homer has a very similar strain; for he speaks of one whose fame is—
@@ -11763,11 +11736,7 @@ true worshippers of the gods and like them.
 I entirely agree, he said, in these principles, and promise to make
 them my laws.
 
-
-
-
- BOOK III.
-
+## Book III
 
 Such then, I said, are our principles of theology—some tales are to be
 told, and others are not to be told to our disciples from their youth
@@ -13618,11 +13587,7 @@ guardians concerning their houses and all other matters?
 
 Yes, said Glaucon.
 
-
-
-
- BOOK IV.
-
+## Book IV
 
 Here Adeimantus interposed a question: How would you answer, Socrates,
 said he, if a person were to say that you are making these people
@@ -15218,11 +15183,7 @@ the State will be maintained.
 
 That is true, he replied.
 
-
-
-
- BOOK V.
-
+## Book V
 
 Such is the good and true City or State, and the good and true man is
 of the same pattern; and if this is right every other is wrong; and the
@@ -17180,11 +17141,7 @@ wisdom and not lovers of opinion.
 
 Assuredly.
 
-
-
-
- BOOK VI.
-
+## Book VI
 
 And thus, Glaucon, after the argument has gone a weary way, the true
 and the false philosophers have at length appeared in view.
@@ -18752,11 +18709,7 @@ have clearness in the same degree that their objects have truth.
 I understand, he replied, and give my assent, and accept your
 arrangement.
 
-
-
-
- BOOK VII.
-
+## Book VII
 
 And now, I said, let me show in a figure how far our nature is
 enlightened or unenlightened:—Behold! human beings living in a
@@ -20232,11 +20185,7 @@ image—there is no difficulty in seeing how we shall describe him.
 There is no difficulty, he replied; and I agree with you in thinking
 that nothing more need be said.
 
-
-
-
- BOOK VIII.
-
+## Book VIII
 
 And so, Glaucon, we have arrived at the conclusion that in the perfect
 State wives and children are to be in common; and that all education
@@ -21817,11 +21766,7 @@ democracy to tyranny?
 
 Yes, quite enough, he said.
 
-
-
-
- BOOK IX.
-
+## Book IX
 
 Last of all comes the tyrannical man; about whom we have once more to
 ask, how is he formed out of the democratical? and how does he live, in
@@ -23145,11 +23090,7 @@ nothing to do with any other.
 
 I think so, he said.
 
-
-
-
- BOOK X.
-
+## Book X
 
 Of the many excellences which I perceive in the order of our State,
 there is none which upon reflection pleases me better than the rule

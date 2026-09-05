@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 60. Decade 5, Sermon 2, Part 2
 
 ' * _ ' _ of God hath need of a vicar ; for a vicar supplieth the place of him that no vlcaris absent. "Wheresoever therefore Christ his vicar is acknowledged, there is no Christ, and therefore there reigneth antichrist. This will be made as yet much more clear and sure, if we weigh what it meaneth, that Christ is said to be the head of the church. The head is the life, salvation, and liyht, or that The head of c tbe church.
 
 which giveth light to the church, the supreme governor of the
-
-86 THE FIFTH DECADE. [sERM.
 
 faithful, who both can and will always be present to the whole congregation of saints, of all ages, and dispersed throughout the whole world ; hear her prayers and requests, and moreover send her succour in all things : and briefly, who is able perfectly to govern the whole church, and both provide for1 and bring to pass all her matters, and that in all things. But this privilege, as I think, thou canst give to no creature without blasphemy and sacrilege : only therefore Christ, perfect God and man, is and remaineth the only head of the church.
 
@@ -37,8 +34,6 @@ But and if the defenders of the Romish idol and champions of the monarchy of Rom
 [4 or minister, not in Lat.]
 
 [5 Hsec propterea, ut ostenderemus apud veteres eosdem fuisse presbyteros quos et episcopos : paulatim vero, ut dissensionum plantaria evellerentur, ad unum omnem sollicitudinem esse delatam. Sicut ergo presbyteri sciunt se ex ecclesise consuetudine ei qui sibi propositus fuerit esse subjectos ; ita episcopi noverint se magis consuetudine, quam dispositionis dominicse veritate, presbyteris esse majores. — Hieron. Comment, in Ep. ad Tit. cap. 1. Opp. Tom. iv. par. 1. col. 413. Audi et aliud testimonium, in quo manifestissime comprobatur eundem esse episcopum atque prcsbyterum, &c. — Hieron. ad Evangelum. Ep. 101. Opp. Tom. iv. par. 2. col. 803. Par. 1706.]
-
-88 THE* FIFTH DECADE. [SEIIM.
 
 ministers. Which thing I bring not out, to that end we should stay upon the authority of man ; but to that end I mio'ht shew, that even by the witness of man it may be proved, that that majority, as they call it, hath not the original from the Son of God and from God's word, but out of man's brain1; and that therefore both Christ remaineth the only head of his church, and the bishop of Rome is nothing less than the head of the church militant. And therewithal we cleave most stedfastly to the sacred and holy gospel, and to the undoubted doctrine of the apostles ; which doctrine taketh away all pride of supremacy, and commendeth unto us a faithful ministry and the equal authority and humbleness of the ministers ; the apostles again witnessing and saying : " Let a man so think of us, as of the ministers of Christ, and disposers of the secrets of God.15
 
@@ -74,8 +69,6 @@ appointed of the Lord a minister and an elder, not a prince and a pope6; so also
 
 [7 Ego autem fidenter dico, Quia quisquis se universalem sacerdotem vocat . . . antichristum preecurrit . . . Sed quoniam Veritas dicit, Omnis qui se exaltat humiliabitur, scio quia qutelibet elatio tanto citius rumpitur, quo amplius inflatur. — Gregor. Mauricio Augusto. Opp. Tom. iv. Epist. 30. p. 203. Rom. 1591.]
 
-90 THE FIFTH DECADE. [SERM.
-
 The church is Last of all, the estate1 of Christ and the church is
 
 Christ"8* ° shadowed out by the similitude of marriage between the husband and the wife ; for Christ is called the husband of the church, and the church is called the spouse of Christ.
@@ -95,8 +88,6 @@ for of this holy mother, the church, the Lord before all things requireth faith 
 [2 See above, p. 26.] [3 compendium, Lat.j
 
 [■* recapitulationem, Lat. cf. Vol. 1. p. 156, note 1.]
-
-92 THE FIFTH DECADE. [sERM.
 
 and bringing forth children of strange seed? And in the holy scriptures spiritual adultery and fornication is much spoken of: all the sermons of the prophets are full of such allegories. They call those men or churches adulterers, whoremongers, and fornicators, which receive strange seed, that is to say, doctrine differing from the word of God : for such as they, going a whoring from God, cleave not unto God only; they love not alone him with all their heart; they do not worship, serve, and call upon him only ; yea rather, they choose unto themselves others, whom they may worship and call upon either instead of God, or together with God. Hereunto pertaineth a good part of the fifth chapter of Jeremy, and all the second chapter of Osee. Amongst other things the Lord saith : "I will not have compassion upon her children, because they are children of fornications : for their mother hath played the harlot ; for she hath said, I will go after my lovers," &c. The church Since these things are thus, brethren, there is no cause of Rome is, ltii n -rt • not the holy whv any man should1 reverence the church of Rome, decking mother . ' o church. herself with the title and beauty of the holy mother, the church ; for she is not the holy mother church, she is not an uncorrupted matron and virgin. For where is the husband, who is the only husband of this chaste matron ? where is the faith and integrity kept with her husband ? hath she not defiled herself with strange seed ? hath not she received and taught a new and strange doctrine from the word of God, and by that means begetteth many children, not to Christ, but to antichrist ? St John, beautifying this church
 

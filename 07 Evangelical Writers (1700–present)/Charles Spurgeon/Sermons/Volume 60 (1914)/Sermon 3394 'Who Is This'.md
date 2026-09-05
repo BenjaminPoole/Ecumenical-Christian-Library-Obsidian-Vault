@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # 'Who Is This?'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3394
-
-DELIVERED BY C. H. SPURGEON.
 
 > "When He was come into Jerusalem, all the city was moved, saying, 'Who is this?'" Matthew 21:10.
 
@@ -29,7 +26,7 @@ He is in the carpenter's workshop, using the axe and the plane, and yet this is 
 
 But we have not to do with the angels at this time! Rather our business is with the sons of men. And among them there ought to be more of the asking of this question, and there ought to be less. There ought to be more of it, the asking in holy wonder! There ought to be less of the asking of it in ignorance or in derision. The question, I take it, can be asked in both ways. Endeavoring to understand the mystery, he that knows it best may still say, "Who is this?" Caring not to know Him, but scornfully turning aside from this great mystery of godliness, there are tens of thousands who will continue to say, "Who is this? And why make this noise about Him, and all this stir and hubbub about the Man of Nazareth?" This question is still asked among the sons of men because in one sense it ought to be more common, but because in another sense it ought never to be raised, I speak upon it tonight. And first we shall take—
 
-I. THE QUESTION AS IT STOOD IN REFERENCE TO THE PEOPLE OF JERUSALEM.
+## I. The Question as It Stood in Reference to the People of Jerusalem
 
 I suppose there was a pretty common knowledge of our Lord in Jerusalem. He spoke openly in the Temple. He was no teacher in secret conventicles, hidden away in the dark. He had been seen in their streets. His miracles had been the subjects of admiring wonder and observation by tens of thousands. They knew who He was. Many of them rather delighted to remember His lowly origin. "His brothers, are they not all with us?" They knew His mother. They said they knew His father. "Is not this the carpenter' s Son?" A knowledge of Christ was pretty general. They did not ask the question out of ignorance, but it was asked for this reason, among others—by some it was asked because now He came under quite a different aspect from that in which He had ever appeared before. He never rode, that I know of, upon the land but that once. He never rode in anything like pomp or state. He had come into Jerusalem and He had gone out of it, a simple private individual, claiming no office except that of preacher. But on this occasion He comes as a King! Riding in pomp as one who claims to be honored among men, and even claims to be King, for He says, "Behold, your King comes, meek and lowly." They, therefore, said, "Who is this?" What a change has come over the scene!—
 
@@ -53,7 +50,7 @@ Still, there were some in that crowd who did not ask the question for that reaso
 
 I will not detain you further about the people of Jerusalem, but now just observe that—
 
-II. THIS QUESTION WILL ALWAYS BE ASKED WHENEVER JESUS CHRIST COMES INTO ANY PLACE THROUGH THE PREACHING OF THE GOSPEL.
+## II. This Question Will Always Be Asked Whenever Jesus Christ Comes into Any Place Through the Preaching of the Gospel
 
 Ah, my Brothers and Sisters, I am not about to criticize that which is called the preaching of the Gospel, so as to condemn it in any wholesale way, but I will say this, that wherever the Gospel has been preached simply, not with enticing words of man's wisdom, but with the plain words of the common tongue. Wherever Christ has been preached affectionately. Wherever the whole Gospel has been delivered with fervor and with impartiality, it has never failed in any place, or in any time, to draw attention to itself, to excite enquiry and to compel men to take sides about it, one way or the other! We need never be afraid that the Gospel is not suitable to any village, that the inhabitants are too degraded. Take it there and they must and shall receive it, or else, at their peril shall they reject it! But they will hear it! It shall attract them! They shall be found, if not willing acceptors of it, yet at least willing hearers of it, willing critics of it and that is something! We need not, on the other hand, be afraid to take the Gospel among the most enlightened classes. Whatever they may know, they know nothing superior to the Word of Jesus Christ—and it shall command even their attention. They shall be compelled to examine it and if it is not a savor of life unto life to them, still it shall be a savor of death—and to God in either case—a sweet savor of Jesus Christ! Let us never think that the Gospel needs to be rendered attractive by some additions of our own! It is like a sword that cuts just as well without the diamonds in the hilt, for the cut of it lies not in the handle, but in the sword itself. The Gospel will cut and clear its own way. I scarcely think we shall need to come down to the use of so-called popular lectures on Sundays. I think we shall never need to come down to catchwords for sermons. The Gospel will, after all, if it is but drawn out of its scabbard and lifted up as the bare and naked sword of the Lord, be pretty sure to cut its own way. And, ah, how have we learned in the past, when the Gospel has come to a place and it has begun to be the means of the conversion of sinners, what a stir it has made! The little village was snug enough in the darkness that had gathered around the old tower and there it lay all asleep and in the death, but some Methodists came and preached upon the Green. A few were converted and gathered into a little room—and what a noise there was about it! The squires would put it down. How there were threats against those poor cottagers and others! They must lose their work—certainly their Christmas gifts—but all that only proved that the Gospel still had power, a power, at any rate, to irritate the ungodly, which is something, and to bless the simple men and women that were willing to receive it!
 
@@ -61,7 +58,7 @@ Before long we have sometimes seen those very persons who were the most determin
 
 But I hasten from that to notice that the same wonderful effect in another form is produced—
 
-III. WHEN THE GOSPEL OF CHRIST COMES INTO A SINGLE HEART.
+## III. When the Gospel of Christ Comes into a Single Heart
 
 Do not some of you remember when Jesus Christ first came to your heart? Oh, I remember when Moses came into mine, with the Law and the great Commandments. When I saw myself a sinner in the light of the Law of God! When the fiery light of Sinai made me see my multitude of spots—yes, discover that I was covered all over with filthiness and blackness! Then the minister came to my gate and I heard the Word preached, preached affectionately, too. Then parents taught me the Word with tears and prayers, but I got no comfort and my soul continued in bondage under a sense of sin. But what a mercy it is when Jesus Christ, Himself, comes! When it is no longer the coming of the minister or of the preacher, but the coming of Jesus Christ, Himself, when Jesus passes by! I know some of you can remember right well the time when He passed by you and came into your heart. You believed Him—it was but a small action—you believed in Jesus! You gave up all trying to save yourselves by your works—you renounced once and for all your reliance upon ceremonies, past or future, and you cast yourselves down before that Cross whereon the Master shed His atoning blood! You remember that. Now, do you not remember what peace there was that came into your spirit, a peace that passes all understanding?
 
@@ -75,7 +72,7 @@ And, let me add, your wonder at Christ has not ceased since then! It is not long
 
 Now, I must not detain you on that and, therefore, again with great brevity, remark that—
 
-IV. THE TIME IS COMING WHEN THIS QUESTION MAY BE ASKED BY SOME HERE WITH GREAT FEAR AND ALARM.
+## IV. The Time Is Coming When This Question May Be Asked by Some Here with Great Fear and Alarm
 
 Unless we ask it now in loving wonder, we shall soon have to ask it in most fearful terror! We know not when the time shall be, for times and seasons are not committed to us. But it is certain that within a short time, Christ will come upon the clouds of Heaven. When the time appointed by the Father shall arrive, that very Man who was crucified on Calvary, and, who was taken up from among His disciples upon the Mount of Olives, shall so come in like manner as He went up to Heaven.
 
@@ -87,7 +84,7 @@ The Father's righteous ire."
 
 And whoever trusts in this Man—this God, the appointed Substitute for man—shall be saved! But if you trust Him, you must take Him to be your Monarch. You must henceforth, by His Grace, yield Him service! And His service is pleasure. His service is holiness and holiness shall to you be a delight! Oh, that you would, finding that He is such a Savior, Divine and Human blended in one—a dying Savior risen from the dead and living at the right hand of God—oh, that you would say, "I know who He is," and then, "I will accept Him! He shall be mine forever." God grant to you the willing mind to do this, and yours shall be the blessing—and His shall be the Glory, forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 2:15-26.
+## Exposition by C. H. Spurgeon: 2 Timothy 2:15-26
 
 15\. Study to show yourself approved unto God, a workman that needs not to be ashamed, rightly dividing the word off truth. This is a metaphor taken from the action of the priest at the sacrifice. The priest cut up the bullock and then laid it in its different pieces according to order. Or, as some think, it is taken from the part of the father at the table, when he carves the meat and gives to every child its portion. Old Master Trapp said that "there are some ministers who are only fit to be Gibeonites—and certainly not to be Levites, for they hardly understand the cutting of wood, much less the art of cutting up the sacrifice of God." Brothers, it is well so to handle the Word of God as to be able to give rebuke when rebuke is needed, exhortation when it is needed, and comfort when consolation is required, for otherwise we do mischief. As it is said in the old fable of the simpleton, that he gave to the ass a bone and to the dog hay, so there are some who give wrong exhortations, not because they are wrong in themselves, but because they are wrong in their application.
 
@@ -102,7 +99,6 @@ EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 2:15-26.
 22, 23. But follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart But foolish and unlearned questions, avoid, knowing that they do cause strifes. It is generally a good thing to avoid all questions that breed strife, unless they are upon vital and important matters. For, oh, Brothers and Sisters, it is so important tokeep the unity of the Spirit! It is such a blessed thing to preserve love among Christians and there are some who in order to create disunion, go about the land and tear and rend the body of Christ as much as they can! Beware of such! Seek not their company! Come not near them, lest their cancer pollute you also!
 
 24-26. And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient In meekness instructing those who are in opposition, if God, perhaps, will give them repentance to the acknowledging of the truth. And that they may recover themselves out of the snare of the devil, who are taken captive by him to do his will We have here laid down, then, the duty of the Christian minister and the duty of each Christian, too! And let us seek, in the Holy Spirit' s Grace, to carry it out, being at once firm, and gentle, and loving of heart, and yet honest for the Truth of God as it is in Jesus.
-
 
 ---
 [[Sermon 3393 Wheat in the Barn|← #3393]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3395 The Savior's Precious Blood|#3395 →]]

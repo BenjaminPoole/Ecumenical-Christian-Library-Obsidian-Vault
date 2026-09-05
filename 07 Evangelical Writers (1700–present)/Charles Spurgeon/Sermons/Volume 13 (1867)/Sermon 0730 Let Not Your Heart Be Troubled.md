@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/13
 ---
-
 # Let Not Your Heart Be Troubled
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 730
@@ -145,7 +144,7 @@ Some of you have been converted 30, 40—what if I say 60 years? And you have ha
 
 Thirdly, you have the whole of Scripture—they had but a part. They certainly had not the richest Scriptures of all, for they had not the Evangelists nor any of the New Testament, and having, as we have, all that store of promise and comfort, we ought, surely, to find it no hard work to obey the sweet precept, "Let not your heart be troubled."
 
-III. THE EXHORTATION OF THE TEXT OUGHT TO BE VERY PRECIOUS TO ALL OF US THIS MORNING,
+## III. The Exhortation of the Text Ought to Be Very Precious to All of Us This Morning
 
 and we should make a point of pleading for the Holy Spirit's aid to enable us to carry it out. Remember that the loving advice came from Him who said, "Let not your heart be troubled." Who could have said it but the Lord Jesus, the Man of Sorrows, and acquainted with grief?
 
@@ -184,7 +183,6 @@ Have conquered in the fight,
 Forever and forever
 
 Are clad in robes of light." Be that, by God's Grace, ours. Amen.
-
 
 ---
 [[Sermon 0729 Cheering Words and Solemn Warnings|← #729]] · [[Volume 13 (1867)|Volume 13 (1867) Contents]] · [[Sermon 0731 A Word in Season|#731 →]]

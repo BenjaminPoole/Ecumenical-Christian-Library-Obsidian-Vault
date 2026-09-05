@@ -9,14 +9,13 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Dedication to Simon Grynaeus
 
-**THE EPISTLE DEDICATORY**
+***The Epistle Dedicatory***
 
-**JOHN CALVIN TO SIMON GRYNÆUS, [^1]**
+## **John Calvin to Simon Grynæus, [^1]**
 
-**A MAN WORTHY OF ALL HONOR**
+## **A Man Worthy of All Honor**
 
 I Remember that when three years ago we had a friendly converse as to the best mode of expounding Scripture, the plan which especially pleased you, seemed also to me the most entitled to approbation: we both thought that the chief excellency of an expounder consists in *lucid brevity*. And, indeed, since it is almost his only work to lay open the mind of the writer whom he undertakes to explain, the degree in which he leads away his readers from it, in that degree he goes astray from his purpose, and in a manner wanders from his own boundaries. Hence we expressed a hope, that from the number of those who strive at this day to advance the interest of theology by this kind of labour, some one would be found, who would study plainness, and endeavour to avoid the evil of tiring his readers with prolixity. I know at the same time that this view is not taken by all, and that those who judge otherwise have their reasons; but still I cannot be drawn away from the love of what is compendious. But as there is such a variety, found in the minds of men, that different things please different persons, let every one in this case follow his own judgment, provided that no one attempts to force others to adopt his own rules. Thus it will be, that we who approve of brevity, will not reject nor despise the labours of those who are more copious and diffused in their explanations of Scripture, and that they also in their turn will bear with us, though they may think us too compressed and concise.
 

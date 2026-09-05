@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Prayer, the Proof of Godliness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2437
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For this cause shall everyone thatis godly pray unto You in a time when You may be found." Psalm 32:6.
 
@@ -101,7 +98,7 @@ I know that there are some here who are seeking the Lord. There are some who hav
 
 May God send His blessing on these words, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM33.
+## Exposition by C. H. Spurgeon: Psalm 33
 
 Verse 1. Rejoice in the LORD, O you righteous: for praise is comely for the upright. Notice the context between the words, "rejoice," and, "praise." Joy is the soul of praise. God is not extolled by our misery, but by our holy mirth! Be glad in the Lord, for so can you make Him glorious. "Rejoice" and "praise," "for praise is comely for the upright." Praise is the beauty of a Christian. What wings are to a bird, what fruit is to the tree, what the rose is to the thorn, that is praise to a child of God!
 
@@ -142,7 +139,6 @@ Verse 1. Rejoice in the LORD, O you righteous: for praise is comely for the upri
 20\. Our soul waits for the LORD: He is our help and our shield. Dear Friends, notice those three, "ours"—three firm clasps, three strong holdfasts—"Our soul waits for the Lord: He is our help and our shield." Why did He not say, "Our souls wait," for there are many of us? Ah, but we are so alike in this one thing that it is as if we had only one soul in all these many bodies, so the Psalmist says, "our soul." You remember when the disciples went to Emmaus and Christ talked with them, they said, "Did not our heart burn within us?" There were two of them—why did they not say, "Did not our hearts burn?" Well, their hearts were so one that he who spoke, called them, "heart," rather than, "hearts." And it is so here—"Our soul waits for the Lord: He is our help and our shield."
 
 21, 22. For our heart shall rejoice in Him because we have trusted in His holy name. Let your mercy, O LORD, be upon us, according as we hope in You. That is a good prayer with which to close our reading! Let us all present it at the Throne of heavenly Grace!
-
 
 ---
 [[Sermon 2436 How Good to Those Who Seek!|← #2436]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2438 Two Immutable Things|#2438 →]]

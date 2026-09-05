@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 27
-
-**PSALM 27.**
 
 In this psalm, David rehearses the desires and meditations with which he had exercised himself in the midst of his great dangers. The thanksgivings which he mingles with them show that it was composed after his deliverance. It is also probable that he repeats at once the prayers which had exercised his thoughts in his different meditations. Hence it is to be seen here with what invincible fortitude of soul the holy man was endued, that he might overcome the most grievous assaults of his enemies. His wonderful piety shines forth in this: that he wished to live for no other purpose than to serve God, nor could he be turned aside from this purpose by any anxiety or trouble.
 

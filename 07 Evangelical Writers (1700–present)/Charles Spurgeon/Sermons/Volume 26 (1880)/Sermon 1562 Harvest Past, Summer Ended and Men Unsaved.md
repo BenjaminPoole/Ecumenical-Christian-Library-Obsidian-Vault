@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Harvest Past, Summer Ended and Men Unsaved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1562
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 17, 1880,.
+*Delivered on Lord's-Day Morning, October 17, 1880*
 
 > "The harvest is past, the summer is ended and we are not saved." Jeremiah 8:20.
 
@@ -130,7 +129,6 @@ You can do this, God helping you—trust Christ to do it all! Throw yourself dow
 You shall be tempted and often have to groan because of secret lusts that will linger in you, but you have a new life, now, for you have believed in Jesus and that new life will abhor sin and will fight it! That new life will conquer it and God will help you! And the Spirit will dwell in you and you shall get sin more and more under your feet—yes, you shall bruise Satan under your feet, before long—and you shall triumph and one day you shall burst this shell which holds you in and you shall shine, in the image of Christ, "without spot or wrinkle, or any such thing." Yes, you, sinful man, shall be made perfectly holy, even you, now full of iniquity, transgression and sin!
 
 You are a God-provoking rebel this morning, but if you trust in Christ Jesus you shall be washed and made God-pleasing this very day! You are black as Hell today, but you shall, by infinite mercy, be made as bright as a seraph before God and all because you trust the Savior! O God, grant us Your saving Grace for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1561 Asleep and Yet Awake—a Riddle|← #1561]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1563 The Duty of the Present Hour|#1563 →]]

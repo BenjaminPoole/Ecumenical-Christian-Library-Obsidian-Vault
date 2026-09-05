@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 81
-
-**PSALM 81**
 
 This psalm consists of two parts. Whoever was its author, he exhorts the people to remember the unparalleled grace of God towards them, in delivering them by his outstretched arm, and choosing them to be a kingdom of priests, and a peculiar Church to himself; that thus they may be excited devoutly to honor their deliverer, both by celebrating his praises, and by leading a holy life. God is next introduced as upbraiding them for their ingratitude in continuing obstinately to refuse to submit to the yoke of the law, notwithstanding the tender and gracious manner in which he allured them to himself.
 

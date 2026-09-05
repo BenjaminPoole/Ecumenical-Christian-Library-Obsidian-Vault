@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Morning And Evening Songs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1138
-
-DELIVERED BY.
 
 > "To show forth Your loving kindness in the morning, and Your faithfulness every night." Psalm 92:2.
 
@@ -164,7 +161,6 @@ Tell every trembler you meet with that Jesus will in nowise cast out any that co
 The Lord bless you, dear Friends, and give you all to know His loving kindness and His faithfulness. Amen and Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 92.
-
 
 ---
 [[Sermon 1137 To Sunday School Teachers And Other Soul-winners|← #1137]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1139 The Minister's Plea|#1139 →]]

@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## 2 Corinthians 12:1-5
 

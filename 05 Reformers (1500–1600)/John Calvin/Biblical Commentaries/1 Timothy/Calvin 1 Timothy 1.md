@@ -10,14 +10,13 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Timothy 1
 
-**COMMENTARIES ON**
+***Commentaries On***
 
-**THE FIRST EPISTLE TO TIMOTHY**
+## **The First Epistle to Timothy**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## 1 Timothy 1:1-4
 

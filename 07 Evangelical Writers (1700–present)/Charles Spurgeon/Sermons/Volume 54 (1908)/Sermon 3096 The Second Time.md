@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Second Time
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3096
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And at the second time Joseph was made known to his brothers." Acts 7:13.
 
@@ -137,7 +134,7 @@ Dear Hearers, if I should never be able to speak to you again, let this one Trut
 
 His ever-blessed Spirit! The sun alone can show you the sunlight, and Jesus must visit you in a supernatural way and reveal Himself to you by His own Spirit. You must be born-again by the power of the Holy Spirit! And if it is not so with you, and if you are not resting in Him alone— where He is, you can never go! But if you know Him. If you are in Him, go your way in peace, for "there is therefore now no condemnation to those who are in Christ Jesus." Knowing Him, you have saving knowledge and you shall, by-and-by, be with Him where He is, to behold His Glory and to dwell with Him forever! May God grant to all of you this privilege, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 7:1-8.
+## Exposition by C. H. Spurgeon: Matthew 7:1-8
 
 Verses 1, 2. Judge not, that you be not judged. For with what judgment you judge, you shall be judged: and with what measure you mete, it shall be measured to you again. Use your judgment, of course—the verse implies that you will judge in a right sense. But do not indulge the criticizing faculty upon others in a censorious manner, or as if you were set in authority and had a right to dispense judgment among your fellows. If you impute motives and pretend to read hearts, others will do the same towards you. A hard and censorious behavior is sure to provoke reprisals. Those around you will pick up the peck measure you have been using and measure your corn with it. You do not object to men forming a fair opinion of your character, neither are you forbidden to do the same towards them. But as you would object to their sitting in judgment upon you, do not sit in judgment upon them. This is not the day of judgment, neither are we his majesty's judges, and therefore we may not anticipate the time appointed for the final assize, nor usurp the prerogatives of the Judge of all the earth! Surely, if I know myself aright, I need not send my judgment upon circuit to try other men, for I can give it full occupation in my own Court of Conscience to try the traitors within my own bosom.
 
@@ -148,7 +145,6 @@ After we are ourselves sanctified, we are bound to be eyes to the blind and corr
 6\. Give not that which is holy unto the dogs, neither cast you your pearls before swine, lest they trample them under their feet, and turn again and rend you. When men are evidently unable to perceive the purity of a great Truth of God, do not set it before them. They are like mere dogs and if you set holy things before them they will be provoked to "turn again and rend you." Holy things are not for the profane. "Outside are dogs"—they must not be allowed to enter the holy place. When you are in the midst of the vicious, who are like "swine," do not bring forth the precious mysteries of the faith, for they will despise them and "trample them under their feet" in the mire. You are not needlessly to provoke attack upon yourself, or upon the higher Truths of the Gospel. You are not to judge, but you are not to act without judgment. Count not men to be dogs or swine, but when they avow themselves to be such, or by their conduct act as if they were such, do not put occasions in their way for displaying their evil character. Saints are not to be simpletons— they are not to be judges, but, also, they are not to be fools. Great King, how much wisdom Your precepts require! I need You, not only to open my mouth, but also at times to keep it shut!
 
 7, 8. Ask, and it shall be given you; seek, and you shall find; knock and it shall be opened unto you: for everyone that asks receives; and he that seeks finds; and to him that knocks it shall be opened. To men you may not always speak of heavenly things, but to God you may. "Ask, seek, knock." Let your prayer be adapted to the case. Let it increase in intensity, let it advance in the largeness of its objective. To receive a gift is simple, to find a treasure is more enriching, to enter into a palace is best of all! Each form of prayer is prescribed, accepted and rewarded in a manner suitable to its character. The promise is universal to all who obey the precept. The commands are in opposition to the methods of carking care which have been denounced in the former chapter—and they are encouragements to the precepts of giving and non-resistance set forth previously, since he that can have of God for the asking may well give to men who ask and even yield to those who unjustly demand! With such boundless stores at command, we should not be either niggardly or litigious. Lord, help me to have done with fretting and to abound in asking, seeking, knocking! So shall I soon overflow with thanksgiving.
-
 
 ---
 [[Sermon 3095 Faith in Christ|← #3095]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3097 A Suitable Watchword|#3097 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Queen of Sheba, a Sign
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2777
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The queen of the South will rise up in the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed a greater than Solomon is here." Matthew 12:42.
 
@@ -120,7 +117,6 @@ Verily, the queen of Sheba will condemn this generation! Christ will call her up
 will condemn all unbelieving ones, and especially those who only pretended to believe, yet who never acted upon the faith they professed to possess.
 
 May God the Holy Spirit bless this word, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2776 The Church a Mother|← #2776]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2778 Consulting With Jesus|#2778 →]]

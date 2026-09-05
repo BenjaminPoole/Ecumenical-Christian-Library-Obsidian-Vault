@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Timothy 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## 2 Timothy 4:1-4
 
@@ -181,7 +180,7 @@ He now describes the manner of the confirmation, *that all the Gentiles might he
 
 This is a remarkable passage for maintaining the uninterrupted communication of the grace of God, in opposition to the Papists. After having confessed that the beginning of salvation is from God, they ascribe the continuation of it to freewill; so that in this way perseverance is not a heavenly gift, but a virtue of man. And Paul, by ascribing to God this work of “preserving us to his kingdom,” openly affirms that we are guided by his hand during the whole course of our life, till, having discharged the whole of our warfare, we obtain the victory. And we have a memorable instance of this in Demas, whom he mentioned a little before, because, from being a noble champion of Christ, he had become a base deserter. All that follows has been seen by us formerly, and therefore does not need additional exposition.
 
-**END OF THE SECOND EPISTLE TO TIMOTHY.**
+## **End of the Second Epistle to Timothy.**
 
 ---
 [[Calvin 2 Timothy 3|← 2 Timothy 3]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/2 Timothy/2-timothy-index|Contents]]

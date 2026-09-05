@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # A Home Question and a Right Answer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1646
 
-DELIVERED ON LORD'S-DAY EVENING, FEBRUARY 5, 1882,.
+*Delivered on Lord's-Day Evening, February 5, 1882*
 
 > "From that time many of His disciples went back and walkedno more with Him. Then said Jesus unto the twelve, Will you, also, go away? Then Simon Peter answered Him, Lord, to whom shall we go? You have the words of eternal life. And we believe and are sure that You are the Christ, the Son of the living God." John 6:66-69.
 
@@ -162,7 +161,6 @@ In those early days men, women and children crowded the tribunals till the judge
 We read of a holy woman, bearing a child in prison, crying out in labor and her tormentors exultingly demanded, "If you cannot bear these pangs, how will you bear to be burnt alive in a few days' time?" She replied, "You see in me, who am a woman, the feebleness of nature. But wait till the day comes and you shall see in me, who am a member of the body of Christ, the strength of Grace, for I shall never start or cry when I am burning for Christ!" And they took note that she never flinched, or winced, or cried, or stirred, but quick to the death she burned in her confession of her Lord! Oh, it was amazing! It was amazing! Christ laughed at His mightiest enemies, but His Spirit rested upon His poor, feeble saints and strengthened them so that they were more than conquerors!
 
 Think of Ann Askew, whom I often quote—our own Ann Askew—sitting up after they had racked her till every bone was dragged from its fellow and still defending the faith against the Romish shavelings! O that we had the same Grace! We shall have it when the trial comes, for "the Lord of Hosts is with us; the God of Jacob is our refuge." If Jesus is, indeed, the Anointed of the Lord, He will anoint us in the hour of need! And because we believe and are sure that it is even so, we are bold to say in His strength, "No, Lord, we will never leave You! Though all men shall forsake You, yet we will not." By Your faithfulness, O Lord, keep us faithful! Amen.
-
 
 ---
 [[Sermon 1645 Our Lord before Herod|← #1645]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1647 The Dream of Pilate's Wife|#1647 →]]

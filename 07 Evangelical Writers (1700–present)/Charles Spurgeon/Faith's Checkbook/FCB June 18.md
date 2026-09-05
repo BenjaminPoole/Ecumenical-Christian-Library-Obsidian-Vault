@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD HIMSELF SHALL WORK**
+## **God Himself Shall Work**
 
 > Now will I rise, saith the Lord; now will I be exalted; now will I lift up myself" Isa. 33:10
 
@@ -23,7 +22,6 @@ When the spoilers had made the land as waste as if devoured by locusts, and the 
 Is it a day of sorrow with us? Let us expect to see the Lord glorified in our deliverance. Are we drawn out in fervent prayer? Do we cry day and night unto Him? Then the set time for His grace is near. God will lift up Himself at the right season. He will arise when it will be most for the display of His glory. We wish for His glory more than we long for our own deliverance. Let the Lord be exalted, and our chief desire is obtained.
 
 Lord, help us in such a way that we may see that thou thyself art working. May we magnify thee in our inmost souls. Make all around us to see how good and great a God thou art.
-
 
 ---
 [[FCB June 17|← June 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 19|June 19 →]]

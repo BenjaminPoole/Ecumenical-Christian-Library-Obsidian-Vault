@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Sins Of Ignorance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1386
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 25, 1877,.
+*Delivered on Lord's-Day Morning, November 25, 1877*
 
 > "And if a soul sins and commits any of these things which are forbidden to be done by the commandments of the Lord; though he knew it not, yet is he guilty, and shall bear his iniquity. And he shall bring a ram without blemish out of the flock, with your estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and knew it not, and it shall be forgiven him." Leviticus 5:17,18.
 
@@ -144,7 +143,6 @@ He has recompensed the honor of God and He has recompensed every man whom we hav
 But the mercy is, though we do not know them, HE does and He can blot them out! Though we cannot weep over them with a distinct knowledge of them because they are not known to us, yet Jesus bled for them with a distinct knowledge of them all—and they are all put away by His unknown sufferings—all cast into the deeps where an angel's eye can never trace them! By the immense and unsearchable agonies He endured for us and by His merits, infinite as His Divine Nature, our Redeemer has taken away that thick darkness of iniquity which we were not capable of comprehending!
 
 believing Sinner, the debt you know not, your glorious Surety has nevertheless borne and discharged for you! Blessings on His name. Rest in Him and then go your way and rejoice! Amen.
-
 
 ---
 [[Sermon 1385 Jesus Interceding For Transgressors|← #1385]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1387 God's Thoughts and Ways Far Above Ours|#1387 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Prayer for Everybody
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2597
@@ -95,7 +94,7 @@ And you, young Brother against the door, you came just inside, hoping to get a m
 
 Blessed be His name, the Lord will answer this prayer! He has helped His people! He is still Israel's Helper! He will be their Helper even to the end! Therefore put your trust in Him and go forward with confidence into the future. And may His gracious Presence be with you forevermore! Amen.
 
-EXPOSITION: MATTHEW 15:10-31.
+## Exposition: Matthew 15:10-31
 
 Verses 10, 11. And He called the multitude, and said unto them, Hear, and understand: not that which goes into the mouth defiles a man, but that which comes out of the mouth, this defiles a man. True religion does not consist in meats and drinks, in feasting or in fasting. It is not that which goes into us, but that which comes out of us which is the main matter.
 
@@ -130,7 +129,6 @@ And, my Brothers and Sisters, I am not sure that we are always wise when we desi
 27\. And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.' 'I may be only a dog, and these Jews round about You are Your children, but I have gotten in among them and I am looking for a crumb or two as it falls from their table." This was grand faith on her part and it was speedily rewarded!
 
 28-31. Then Jesus answered and said unto her, O woman, great is your faith: be it unto you even as you will. And her daughter was made whole from that very hour. And Jesus departed from there and came near unto the sea of Galilee; and went up into a mountain, and sat down there. And great multitudes came unto Him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus 'feet; and He healed them: insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel. The Savior appears to have gone on this journey on purpose to bless this woman and her daughter and, having worked the miracle, He went where great multitudes came to Him, bringing their sick folk to be healed. And the result was, "They glorified the God of Israel." There may be some poor soul here in as great distress as this woman was. If so, may that one get a blessing and then may the blessing spread through all the neighborhood till multitudes are saved!
-
 
 ---
 [[Sermon 2596 Where Is the God of Elijah|← #2596]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2598 Spiritual Revival—the Need of the Church|#2598 →]]

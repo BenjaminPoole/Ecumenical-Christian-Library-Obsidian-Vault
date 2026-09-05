@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The High Rock
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2728
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "From the end of the earth will I cry unto You, when my heart is overwhelmed: lead me to the Rock that is higher than I." Psalm 61:2.
 
@@ -134,7 +131,6 @@ then, though the waves of the sea roar and the mountains shake with the swelling
 And as for you who are still under a sense of sin, who have not yet found the Savior, let this be your prayer, "Lead me to the Rock that is higher than I am." Do not get to measuring Christ by yourselves. As high as Heaven is above the earth, so high are His thoughts above your thoughts, and His ways above your ways. O Beloved, you should measure God's Grace by the immeasurable—not by your nothingness, but by His infinity! Remember, God's mercy is beyond all bounds, for it swells above the flood of our sins. If our sins are as mountains, Christ's mercy, like the stars, shines as much above the mountains as above the valleys! Cry out, Sinner, when Satan is dragging you down to the pit, "Lord, save me from the devouring flames and lead me to the Rock that is higher than I." And then, thank God, Christ is a Rock—not a mound that is raised by man! And that Rock shall stand forever! And if I get on it, there is no fear that the Rock will shake. I may shake on it, but it will never shake under me—and if my enemies try to attack me, I can hide myself in the clefts of the Rock where they cannot reach me! And though ten thousand ages roll away, and many a stone is moved from its place, this Rock shall still abide—
 
 "When rolling years shall cease to move."
-
 
 ---
 [[Sermon 2727 Bitter Herbs|← #2727]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2729 Christ's Transfigured Face|#2729 →]]

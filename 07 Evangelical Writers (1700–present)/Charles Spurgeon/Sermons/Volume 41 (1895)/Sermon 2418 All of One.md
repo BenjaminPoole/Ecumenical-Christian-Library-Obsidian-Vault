@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "All of One"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2418
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For both He that sanctifies and they who are sanctified are all of one: for which cause He is not ashamed to call them brethren, saying, I will declare Your name unto My brethren, in the midst of the Church will I sing praise unto You. And again, I will put My trust in Him. And again, Behold I and the children whom God has given Me." Hebrews 2:11-13.
 
@@ -95,9 +92,9 @@ O people of God, be as happy as ever you can! Rejoice in the Lord "with joy unsp
 
 As for you who have no part nor lot in this matter, God have mercy upon you and bring you by faith to look to Christ, and to be joined forever to Him, for His dear sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM22.
+## Psalm 22
 
 You will not need any comment on this Psalm if, while we read it, you see Christ on the Cross, and you think that you hear Him uttering these sacred words. This Psalm is dedicated "to the Chief Musician upon Aijeleth Shahar, or, the hind of the morning," for Jesus brings the morning with Him whenever He comes.
 
@@ -144,7 +141,6 @@ Verse 1. MY God, My God, why have You forsaken Me? It was not morning with Jesus
 30, 31. It shall be accounted to the Lord for a generation. They shall come. How He rolls it like a sweet morsel under His tongue! "They shall come." Those great sinners, those far-off ones, "they shall come"—
 
 31\. And shall declare His righteousness unto a people that shall be born, that He has done this. Or, "It is finished." There the Psalm ends and that was the Master's dying cry.
-
 
 ---
 [[Sermon 2417 First Forgiveness, Then Healing|← #2417]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2419 Repentance after Conversion|#2419 →]]

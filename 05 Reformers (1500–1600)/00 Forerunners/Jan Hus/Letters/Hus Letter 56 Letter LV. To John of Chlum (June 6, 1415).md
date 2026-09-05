@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 56. Letter LV. To John of Chlum (June 6, 1415)
-
-LETTER LV. TO JOHN OF CHLUM (June 6, 1415)
 
 " To-morrow at ten " ; His proposed reply ; Be careful over the papers ; " Jerome also will suffer death " . . 209-10 xxvi CONTENTS
 

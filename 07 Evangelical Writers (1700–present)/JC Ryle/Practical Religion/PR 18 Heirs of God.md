@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Heirs of God
 
-Chapter XVIII · *Practical Religion* — J. C. Ryle
+## Chapter XVIII · *Practical Religion* — J. C. Ryle
 
 >  *As many as are led by the Spirit of God, they are the sons of God.* " *For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.* " *The Spirit itself beareth witness with our spirit, that we are the children of God*: " *And if children, then heirs; heirs of God, and joint heirs with Christ; if so be that we suffer with Him, that we may be also glorified together.* "—(Romans viii. 14—17.)
 
@@ -196,7 +195,6 @@ Labour *to behave towards others like a son of God*. Be blameless and harmless i
 Persevere in your Christian calling, if you are a son of God, and press forward more and more. Be careful to lay aside every weight, and the sin which most easily besets you. Keep your eyes steadily fixed on Jesus. Abide in Him. Remember that without Him you can do nothing, and with Him you can do all things. (John xv. 5; Philip. iv. 13.) Watch and pray daily. Be steadfast, unmoveable, and always abounding in the work of the Lord. Settle it down in your heart that not a cup of cold water given in the name of a disciple shall lose its reward, and that every year you are so much nearer home.
 
 "Yet a little time and He that shall come will come, and will not tarry." (Heb. x. 37.) Then shall be the glorious liberty, and the full manifestation of the sons of God. (Rom. viii. 19, 21.) Then shall the world acknowledge that they were the truly wise. Then shall the sons of God at length come of age, and be no longer heirs in expectancy, but heirs in possession. Then shall they hear with exceeding joy those comfortable words: "Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world." (Matt. xxv. 34.) Surely that day will make amends for all!
-
 
 ---
 [[PR 17 Our Home!|← Our Home!]] · [[Practical Religion|Practical Religion Contents]] · [[PR 19 The Great Gathering|The Great Gathering →]]

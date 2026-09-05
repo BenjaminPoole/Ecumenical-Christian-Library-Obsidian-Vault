@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # For Whom Is The Gospel Meant?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1345
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 25, 1877,.
+*Delivered on Lord's-Day Morning, March 25, 1877*
 
 > "They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance." Mark 2:17.
 
@@ -160,7 +159,6 @@ Why? Because the preacher was eloquent, or because he put it well? Not so! It ha
 When this Truth of God enters the soul, it breeds zealots, martyrs, confessors, missionaries, saints. If any Christians are in earnest and full of love to God and man, they are those who know what Grace has done for them. If any remain faithful under reproaches, joyful under losses and crosses—they are those who are conscious of their indebtedness to Divine Love. If any delight in God while they live and rest in Him as they die—they are the men who know that they are justified by faith in Jesus Christ who justifies the ungodly.
 
 All glory be to the Lord who lifts the beggar from the dunghill and sets him among princes, even the princes of His people! He takes the very cast-offs of the world and adopts them into His family and makes them heirs of God by Jesus Christ! The Lord grant us all to know the power of the Gospel upon our sinful selves! The Lord endear to us the name, work and Person of the Sinner's Friend! May we never forget the hole of the pit from where we were drawn, nor the hand which rescued us, nor the undeserved kindness which moved that hand! From now on let us have more and more to say of Infinite Grace. "Free Grace and dying love." Well does the old song say, "Ring those charming bells." Free Grace and dying love—the sinner's windows of hope! Our hearts exult in the very words! Glory be unto You, O Lord Jesus, ever full of compassion. Amen.
-
 
 ---
 [[Sermon 1344 The Student's Prayer|← #1344]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1346 Guile Forsaken When Guilt Is Forgiven|#1346 →]]

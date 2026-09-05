@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 4. A Confutation of Unwritten Verities, Part 3
 
 [l These marginal notes are omitted in Ed. 1582.]
 
 [2 That he should depart, Orig. ed.]
 
-[3 Remotis ergo omnibus talibus, ecclesiam suam demonstrent, si possunt, non in sermonibus, et ru- moribus Afrorum, non in conciliis episcoporum suorum, non in literis quorumlibet disputatorum, contra ista verbo Domini praeparati et cauti redditi sumus : sed in praescripto Legis, in Prophetarum pra?dictis, in Psalmorum cantibus, in ipsius Pastoris vocibus, in Evangelistarum praedicationibus et laboribus, hoc est, in omnibus canonicis sanctorum librorum auctoritatibus. Nee ita, ut ea colligant et non in signis et prodigiis fallacibus, quia etiam commemorent, quae obscure vel ambigue vel figu-
+[3 Remotis ergo omnibus talibus, ecclesiam suam demonstrent, si possunt, non in sermonibus, et ru-moribus Afrorum, non in conciliis episcoporum suorum, non in literis quorumlibet disputatorum, contra ista verbo Domini praeparati et cauti redditi sumus : sed in praescripto Legis, in Prophetarum pra?dictis, in Psalmorum cantibus, in ipsius Pastoris vocibus, in Evangelistarum praedicationibus et laboribus, hoc est, in omnibus canonicis sanctorum librorum auctoritatibus. Nee ita, ut ea colligant et non in signis et prodigiis fallacibus, quia etiam commemorent, quae obscure vel ambigue vel figu-
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 Chrysostom, of the Contrition of the Heart. " Christ promised not that he would Not miraclereward at the latter day them that work signs and wonders, but them that keep his comthe com mandments, saying : 4 Come, you blessed children of my Father, receive that kingdom keepers, are which was prepared for you from the beginning of the world/ He said not, ' Because of Christ, you did miracles ;' but, ' Because I was hungry,' &c. He shall also call them blessed, not that wrought miracles, but the humble and meek in heart *."
 
@@ -45,7 +44,7 @@ F.xotl. xxlii. Levit. xviii.
 
 The same. Jer. ix.
 
-THE SEVENTH CHAPTER.
+## The Seventh Chapter
 
 Custom also is of no strength in this case of proving a religion.
 
@@ -73,13 +72,13 @@ Tas Ti'0Tj(rtj/, a'XXa TOI/S fiiov e^oirras opQov. Chrysost. De Compunct. Cordis
 
 P Primum quia Joannes quidem nullum fecit signum, id est nullum miraculum ostendit, neque tamen id in aliquo derogat sanctitati ejus, quo inter natos mulierum non surrexit teste Salvatore major; nempe miracula operari nihil adjicit sanctitatis homini, cum malis et reprobis id competat, dicente Domino apudMattheum, Multi dicent in ilia die __ Quare e diverso, nulla signorum ostensio nihil detrahit homini sanctitatis. — Cyril. Alexandr. in Joannem. Lib.vn. cap. xiii. col. 45. Ed. Paris. 1508.]
 
-[2 This is not found in Sabellicus, but is men- tioned by Platina in his account of Pope Celestine I. as follows : Ferunt hoc tempore diabolum, personam Moysi indutum, multos Juda;os decepisse, dum eos ex Creta in terram promissionis ad similitudinem historic veteris sicco pede per mare deducere pollicetur. Multi enim ex his, falsum Moysen secuti, in undis periere. Aiunt autem illos solos evasisse, qui turn Christum verum Deum credidere — Plat, de Vit. Pontif. p. 57. Ed. Colon. A grip. 1626.]
+[2 This is not found in Sabellicus, but is men-tioned by Platina in his account of Pope Celestine I. as follows : Ferunt hoc tempore diabolum, personam Moysi indutum, multos Juda;os decepisse, dum eos ex Creta in terram promissionis ad similitudinem historic veteris sicco pede per mare deducere pollicetur. Multi enim ex his, falsum Moysen secuti, in undis periere. Aiunt autem illos solos evasisse, qui turn Christum verum Deum credidere — Plat, de Vit. Pontif. p. 57. Ed. Colon. A grip. 1626.]
 
 [3 Consuetude, initium ab aliqua ignorantia vel simplicitate sortita, in usum per successionem corroboratur, et ita adversus veritatem vindicatur....Quodcunque adversus veritatem sapit, hoc erit haeresis, etiam vetus consuetudo. Tertull. De Virg. Veland. cap. i. pp. 172, 3. Ed. Paris. 1664.J
 
 [4 Non est ergo, frater carissime, quod aliquis existimet sequendam esse quorundam consuetudinem, si qui in praeteritum in calice dominico
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 The same to Julian, of the Baptizing of Heretics. "In vain do some men, when they be overcome with the truth, allege custom against us, as though custom were greater than the truth5." St Augustine hath the same0.
 
@@ -123,7 +122,7 @@ Nicolas the pope to Ignatius the reverend bishop, 8. Distinct, no less to be avo
 
 [14 Mala consuetudo, quae non minus quam perniciosa corruptela vitanda est : nisi citius radicitus evellatur, in privilegiorum jus ab improbis assumitur. Nicol. Papa Hincmaro Remensi Archiepiscopo. Id. ibid. Cap. iii. " Mala consuetudo." Ibid.]
 
-THE EIGHTH CHAPTER.
+## The Eighth Chapter
 
 Reasons a gainst Unwritten Verities1.
 
@@ -153,13 +152,13 @@ If we be bound to believe certain things delivered from the apostles by word of 
 
 " Faith must needs be grounded upon God's word. For St Paul saith, Fides ex auditu; auditus antem per verbum Dei. Omnis scriplura divinitus inspiratur. This text St John Chrysostom, Theophylact, Thomas, with many other authors, both old and new, do expound plainly as the words be, that whatsoever truth is necessary to be taught for our salvation, or the contrary to be reproved ; whatsoever is necessary for us to do, and what to forbear and not to do ; all is completely contained in the scripture : so that a man thereby may be perfectly instructed unto all manner of goodness. "j
 
-VIIL] OF UNWRITTEN VERITIES. 53
+## VIIL] of Unwritten Verities. 53
 
 Without faith it is not possible to please God ; and faith cometh by hearing of God's word ; ergo, where God's word lacketh, there can be no faith.
 
 Almighty God, afore he gave to Moses the law written of the ten commandments, wherein he fully taught the true worshipping of him, as it were a preservative against a plague or a poison to come, gave them this notable lesson, worthy alway to be had' in memory : " You shall add nothing to the words, &c. ;" and again he oftentimes repcatcth the same sentence both in the law and the prophets, in the gospels, and the epistles of the apostles. And because his people should never forget it, St John commandeth the same in the last words of all the new testament, threatening terrible plagues, that is, the loss of his everlasting joys of heaven, and the pain of eternal fire, to all them that either put to or take aught from the word of God.
 
-CHAPTER THE NINTH2.
+## Chapter the Ninth 2
 
 Scriptures alleged l)y the Papists for Unwritten Verities, with answers to the
 
@@ -211,7 +210,7 @@ St John speaketh not here of faith and charity, but of miracles, the knowledge A
 
 I grant that Paul taught many things by word of mouth, which he wrote not in his Answer, epistles to the Thessalonians. But how shall they prove that the same things be neither written by him in any other of his epistles, nor in any other place of the holy bible ? For what argument is this? It is not written in this place or to those persons; ergoy 01. it is not written in the scripture at all. For the shortness of one epistle, or of one sermon, cannot sufficiently contain all things necessary for our salvation : and therefore be there so many books of the scripture, that whatso is omitted, and not spoken of in one place, or else darkly spoken of, might be written plainly in another place. And for this cause St Paul writeth to the Colossians, saying : " When this letter is read with you, cause it also to be read to the Laodiceans. And read you also the epistle written from Laodicea." And St Paul writeth of himself, "Such as we are in our2Cor. x. absence by letters, such are we in deed being present." Moreover, Paul speaketh not here of doctrines of faith and charity, which ever continue without changing, adding, or minishing; but of certain traditions, observations, ceremonies, and outward rites and bodily exercises, which, as he saith, is little worth to Godward, but to be used for comeliness, decent order, and uniformity in the church, and to avoid schism : which ceremonies every good man is bound to keep, lest he trouble the common order, and so break the order of charity in offending his weak brethren, so long as they be approved, received, and used by the heads and common consent. But they, and every one of such ceremonies as be neither sacraments, nor commandments of faith and charity, may be altered and changed, and other set in their places, or else utterly taken away by the authority of princes, and other their rulers and subjects in the church. Yea, also the traditions, made by the apostles in full council at Jerusalem, may be, and already are Acts xv. taken away ; as to abstain from things offered unto images, from blood and strangled, are nowhere kept. And this of Paul, that a man should neither pray nor preach capped, or with his head covered, is also clean abolished.
 
-THE TENTH CHAPTER.
+## The Tenth Chapter
 
 Doctors to the same purpose, with their answers*.
 
@@ -231,7 +230,7 @@ Why should we then believe Tertullian against so plain scriptures, against the o
 
 I4 Id. de Prescript. Hacret. cap. vi. p. 204. Vid. p. 22.J
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 but of traditions, outward gestures, rites and ceremonies, which be not necessary for our salvation, but be ordained for a decent order and conformity in the church ; as is plainly shewed in the answer to St Paul in the epistle to the Thessalonians. And that he speaketh of such rites and ceremonies, it is evident. For all those that he rehearseth be mere ceremonies, and few of them kept at this day, which no man might have altered or abolished, if they had been necessarily to be kept under pain of damnation.
 
@@ -279,7 +278,7 @@ The same against Cresconi, a grammarian, Lib. i. cap. 33, torn. 7- " Although we
 
 P Cone. Tolet. iv. cap. vi. Labb. et Cossart. Tom. V. col. 1706, 7Ed. Lutet. Paris. 1674.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 truth of the same scriptures in this matter is retained of us, when we do that the whole church6 alloweth, which church the authority of the scriptures commend. And forasmuch as the holy scripture can deceive no man, whoso feareth to be deceived with any dark speaking of it, let him ask counsel at the church therein, which, without any doubt, the holy scripture doth shew7."
 
@@ -321,7 +320,7 @@ There be two parts of the sabbath-day : one is the outward bodily rest from all 
 
 [-' Hieron. adv. Helvid. Tom. II. p. 7 et sqq. Tom. V. p. 4H2. Ed. Francof. IW54. j
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 (31 of the sabbath-day is the inward rest, or ceasing from sin, from our own wills and lusts, and to do only God's will and commandments. Of this part speaketh the prophet Esay : " He that taketh heed that he unhallow not the sabbath-day, is he that keepeth himself isai. i that he do no evil ; and they that hold greatly of the thing that pleaseth me, and keep my covenant, unto them will I give an everlasting name, that shall not perish." And moreover, the same prophet saith : " If thou turn thy feet from the sabbath, so that thou isai. i do not the thing which pleaseth thyself in my holy day, then shalt thou be called unto the pleasant, holy, and glorious sabbath of the Lord, where thou shalt be in honour ; so that thou do not after thine own imaginations, neither seek thine own will, nor speak thine own words. Then shalt thou have thy pleasure in the Lord, which shall carry thee high above the earth, and feed thee with the heritage of Jacob thy father : for the Lord's own mouth hath spoken it." This spiritual sabbath, that is, to abstain 7 from sin and to do good, are all men bound to keep all the days of their life, and not only on the sabbath-day. And this spiritual sabbath may no man alter nor change, no, not the whole church.
 
@@ -355,9 +354,9 @@ Communicatio sub una specie.
 
 Satisfactio.
 
-02 A CONFUTATION [CHAP.
+## 02 a Confutation [Chap
 
-THE ELEVENTH CH AFTER 1.
+## The Eleventh Ch After 1
 
 71 . The Papists Objections, with answers unto them.
 
@@ -377,7 +376,7 @@ Habemus et velum atrii domus Domini, sicut
 
 Pro ephodo lineo habemus superpellicia. \ Judasi. De consecratione, Dist. i. ( Nemo.'
 
-Pro sacrificiis fecimus ex missa sacrificium, ne Sicut solis sacerdotibus et Levitis licebat con- sacerdotes nostri non essent sacrifici. I trectare vasa sacra templi, ita et nunc. De Conse-
+Pro sacrificiis fecimus ex missa sacrificium, ne Sicut solis sacerdotibus et Levitis licebat con-sacerdotes nostri non essent sacrifici. I trectare vasa sacra templi, ita et nunc. De Conse-
 
 Habemus et asyla pro locis refugii. cratione, Dist. i. ' In sancta.'
 
@@ -413,7 +412,7 @@ Last of all, to make all cock sure, and to maintain their idolatry beside, yea, 
 
 [5 Trentals : services of thirty masses, said one on each of thirty different days for the soul of a person deceased.]
 
-64 A CONFUTATION [CHAP.
+## 64 a Confutation [Chap
 
 74\. comprehend. And when such masses, pilgrimages, with offerings to such saints' relics and images, be done for them, they appear to the same persons again, saying, that by such means they be delivered out of purgatory into the eternal joys of heaven. They tell also of many wonders and strange miracles, to prove their doctrine, in all these afore said things, to be true. And because they have great profit and advantage thereby, they, " counting gains godliness," have filled all their books with such vanities and lies ; of which some be so fond, and so directly against God's glory, that the most earnest papists (having either learning or wit) be ashamed of them ; yea, and the pope himself hath clean put them out of God's service used in the church of Rome : and yet must we read them, believe them as necessary articles of our faith, or else burn therefore like heretics. Answer. By the manifest and plain words of the scriptures, and the consent of the most ancient authors before written, it is evident, that neither the visions of angels, apparitions of the dead, nor miracles, nor all these together joined in one, are able or sufficient to make any one new article of our faith, or stablish any thing in religion, without the express words of God ; because all such things (as is before proved) may be, yea, and have been, through God's permission, for our sins and unbelief's sake, done by the power of the devil himself, or feigned and counterfeited of his lively members, monks and friars, with other such hypocrites.
 
@@ -429,7 +428,7 @@ t1 Sleidan. De statu religionis et reipub. (A.D. ! 87, n. ; 307, ». Park. Soc. 
 
 of Thomas Becon, Early Writings, pp. Bl,n. ; cap.xiv. col. 25.]
 
-XT.] OF UNWRITTEN VERITIES. 65
+## Xt.] of Unwritten Verities. 65
 
 To St Albans, about twenty-eight years past, came a maid, creeping upon her knees, and leaning upon two short staves, inquiring after St Alban's bones ; affirming, that she should be made whole and go upright, so soon as she should come to the place where St Alban's bones were : in token whereof an angel had delivered her a key, whereby she should certainly know where his very bones were. And when she passed thus through the streets of St Alban's, creeping on her knees till she came to St Alban's shrine, after she had made her prayers devoutly there, she took out the key of her purse, which she said an angel had delivered to her ; and then she stood upright, and opened the shrine with the said key, and then kneeled again to pray, and to give thanks to God and St Alban for her healing, and giving her strength to walk, which was born lame. And by and by the monks would have had it rung for a miracle ; but some wiser men thought it meet to try the matter better, and to examine her farther, before they began4 to ring a miracle openly. And upon her examination she said that she had been lame from her birth, declaring both her kindred and place where she was fyorn. Upon which confession she was committed to a nunnery called 70. Sopwel, there to tarry until messengers, which they straightway sent forth, might return and testify the truth. And so she daily and holily visited St Alban's shrine. But the night before the return of the messengers she was conveyed away, and never heard of nor seen after. And the messengers declared to be lies all that ever she had said : for there was never none born lame, nor of her name, where she said she was born.
 
@@ -457,7 +456,7 @@ I will rehearse one sermon, made in queen Mary's beginning, by a momish monk, an
 
 How shall we then know true visions of angels from false, true apparitions and miracles from counterfeit, but by the scripture of God, which is the rule and true measure wherewith we must try all things ? as St John saith : " Believe not every spirit, but prove them whether they be of God : for many false prophets are gone out into the world. Hereby is the Spirit of God known," saith he : " every spirit which confesseth that Jesus Christ is come in the flesh is of God," &c. Whosoever therefore saith, that there is any thing that pacifieth the wrath of God, or obtaineth his favour
 
-[l Nicholas Heath, successively bishop of Ro chester and Worcester, under Henry VIII., was deprived i.nder Edward VI. ; but, under Mary, became Archbishop of York, and Lord chancellor, after the death of Gardiner in 1555, and therefore only about three months before the death of Cran- mer, for whose execution he signed the warrant. Vid. Anderson's Annals of the English Bible. Vol. I. p. 374, n. 33. Burnet, Hist, of Reform. Vol. I. Partii. p. 139, &c.j
+[l Nicholas Heath, successively bishop of Ro chester and Worcester, under Henry VIII., was deprived i.nder Edward VI. ; but, under Mary, became Archbishop of York, and Lord chancellor, after the death of Gardiner in 1555, and therefore only about three months before the death of Cran-mer, for whose execution he signed the warrant. Vid. Anderson's Annals of the English Bible. Vol. I. p. 374, n. 33. Burnet, Hist, of Reform. Vol. I. Partii. p. 139, &c.j
 
 [2 For we should not, Org. ed.]
 

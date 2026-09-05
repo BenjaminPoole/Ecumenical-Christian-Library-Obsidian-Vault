@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Queen of Sheba
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3351
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Queen of the South shall rise up in thejudgment with this generation, and condemn it: for she came from the ends of the earth to hear the wisdom of Solomon and, behold, a greater than Salomon is here." Matthew 12:42.
 
@@ -33,7 +30,7 @@ Coming now, however, at once to the text, we shall notice, in the first place, t
 
 These things, I think, are very evidently in the text. In the first place, then, in the text—
 
-I. OUR LORD JESUS CHRIST CLAIMS TO BE "GREATER THAN SOLOMON."
+## I. Our Lord Jesus Christ Claims to Be "Greater than Solomon."
 
 You all know the history of Solomon. Solomon was great in several particulars and we shall point out to you that in each of these, Christ is greater than he.
 
@@ -95,7 +92,7 @@ He was renowned for this. You have his Proverbs, his Ecclesiastes, one of his th
 
 But the wisdom of our Lord Jesus Christ far transcends this, for He can open up all the dark questions of your mind! He can teach you, O man, what you most want to know. He can teach you the way to Heaven, the way to escape from the power as well as the result of your sins, the way to get peace with God! The sages could not tell you this, but Jesus can. Seek Him, for He is greater than Solomon! I had more to say upon this point, but time will not allow, for I must have a word or two upon the second head, which is—
 
-II. THIS JESUS IS HERE
+## II. This Jesus Is Here
 
 He is not here in body. As we reminded you last Sabbath evening, He is gone. He is not here in that sense, "for He is risen." But Christ is here by His Spirit. If you want to get to Christ, this is the way—think of Him. That is, coming towards Him. Read His life. Study His death. Meditate upon Him. Let the thought of His laying down His life for His enemies dwell upon your minds. I wish that some of you would read the story of His Crucifixion very, very often. If you have not any faith, perhaps faith will come while you are reading it. "God commended His love towards us in that while we were yet sinners, in due time Christ died for the ungodly." He did not die for those good people who have not any sin. He had nothing to do with those good people who are so righteous that they can get to Heaven their own way. Christ died for the guilty, the lost, the worthless. He comes like a physician to the sick—like one who gives sustenance to the perishing poor. Oh, read His life, for this will help you to come to Him!
 
@@ -131,7 +128,7 @@ Lord Jesus Christ and you shall be saved." "He that believes and is baptized sha
 
 May the Eternal Spirit bring you, empty-handed and ruined, to the All-Sufficient Savior and may you be enabled to now rely upon Him and you shall find that He is true! "Him that comes unto Me," He says, "I will in no wise cast out." The Lord bless you for Christ's sake!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:113-120.
+## Exposition by C. H. Spurgeon: Psalm 119:113-120
 
 The proper way in which to read these verses is to peruse them in the spirit of prayer, turning every verse into a personal supplication to God. I trust that many of us may be so in the Spirit, today, that these words may suit us.
 
@@ -150,7 +147,6 @@ Verse 113. I hate vain thoughts: but Your Law do I love. The moralist is quite c
 118-119. You have trodden down all them that err from Your statutes: for their deceit is falsehood. You put away all the wicked of the earth like dross: therefore I love Your testimonies. You see, the Psalmist's mind is entirely occupied
 
 with this spirit of perseverance. He seems to tremble and to be filled with awe lest he should by any means prove an apostate and be unworthy to enter into the Kingdom. He looks with solemn mind upon God as casting all the wicked of the earth down under His feet, just as men cast out the refuse—as the slag of the furnace is sometimes thrown down to make the footpath. So he says, "You put away the wicked of the earth like dross. You have trodden them down." David was filled with a heavy trembling lest this should be his lot—lest, after he had thought he had known and experienced the happiness of communion with God, he should be found to be reprobate silver and be given over to destruction! Does such a fear as this come upon you, my Brothers and Sisters? If it does not, there is room for you to fear, for even our holy Apostle had this as his anxiety, "Lest, after having preached to others, I myself should be a castaway." It is not as to whether God will be faithful to me, but whether I am really His, whether my conversion has been genuine and my union to Christ vital. These are questions which breed a holy anxiety, which is one of the very best means of keeping a Christian in the path of right and so of guaranteeing the perseverance which God has promised. 120. My flesh trembles for fear of You and'I am afraid of Your judgments
-
 
 ---
 [[Sermon 3350 'Stewards'|← #3350]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3352 A World Wide Welcome|#3352 →]]

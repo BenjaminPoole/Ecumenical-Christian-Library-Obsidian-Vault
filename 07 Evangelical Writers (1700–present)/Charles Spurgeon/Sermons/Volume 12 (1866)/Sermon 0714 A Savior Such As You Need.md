@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # A Savior Such As You Need
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 714
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 7, 1866,.
+*Delivered on Sunday Morning, October 7, 1866*
 
 > "But the Holy Spirit also witnesses to us: for after He had said before, This is the covenant thatI willmake with them after those days, says the Lord, I will put My laws into their hearts, and in their minds will I write them, then He adds, Their sins and iniquities I will remember no more. Now where there is remission of these, there is no longer an offering for sin." Hebrews 10:15-18.
 
@@ -160,7 +159,6 @@ Now, Christians, do you not see the reason why you also sink into this state of 
 And you backsliders, you would never backslide if you lived where the blood continually flows! For that which pardons us sanctifies us. I believe that when you and I begin to think we are fine saints, and forget that we are only just filthy sinners washed in the blood, we begin to backslide. There is nothing like living every day as we lived the first day of our conversion. Does not Paul say, "As you have received Christ Jesus the Lord so walk you in Him"? That is, live every day as you lived at first, being nothing in yourself, but Jesus being All in All to you. Away with self, and let Jesus be glorified! We must not have so much as a shadow of dependence upon anything that we can do or feel, or promise—we must depend alone upon that dear, that blessed Son of God who loved us and gave Himself for us!
 
 I feel this morning as if I could come afresh to that dear Cross, and rest there on Christ. I feel as if I could put my finger into the print of the nails and thrust my hand into His side, and say, "My Lord and my God!" Oh, cannot some poor soul do this who never did it before? I pray God he may! And if it is done by you, and you trust in Jesus, then let Heaven rejoice! Let earth be glad, and praise surround the Throne of God, because such a one is saved, for is it not written, "Their sins and iniquities I will remember no more"?
-
 
 ---
 [[Sermon 0713 Soul Murder—Who Is Guilty|← #713]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0715 Children'S Bread Given To Dogs|#715 →]]

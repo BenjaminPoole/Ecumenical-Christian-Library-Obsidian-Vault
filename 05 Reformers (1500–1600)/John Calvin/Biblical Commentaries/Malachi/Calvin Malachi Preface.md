@@ -9,10 +9,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface
 
-**CALVIN’S PREFACE TO MALACHI**
+***Calvin’s Preface to Malachi***
 
 ## Lecture One Hundred And Sixty Ninth
 

@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 12
 
 ## Lecture Forty Eighth
 
-**CHAPTER 12**
+## **Chapter 12**
 
 ## Jeremiah 12:1
 
@@ -82,7 +81,7 @@ And more clearly still does he express his meaning, when he says, *Because they 
 
 ## Prayer Lecture 48
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though the same hardness is inbred in us as in thine ancient people, we may not become rooted in it; but do thou rouse us by thy Spirit, that we may suffer ourselves to be gently governed by thyi word, and be so touched by thy threatenings, that we may not defer the time whenever thou an — nouncest to us thy judgment, but strive to be immediately reconciled to thee: and as there is no other way of being reconciled except through thine only — begotten Son, may we in true faith embrace the favor which thou offerest to us in thy gospel, and also devote ourselves wholly to thee, being truly penitent of our sins; and as we ought to make progress to the end of life, may we strive more and more to put off all the lusts of our flesh, until we shall at length be made partakers of that glory which thine only — begotten Son has prepared for us. — Amen.
 
@@ -164,7 +163,7 @@ He explains by another comparison what we have just observed; he calls those pas
 
 ## Prayer Lecture 49
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only been pleased to offer thyself to be our Shepherd, but hast also set over us thine only — begotten Son, that he might gather us into his own fold, and as he sweetly invites us daily by his voice to continue collected under his power and government, — O grant that we may suffer ourselves to be governed by him, and never be like wild and untameable beasts, but so obey his voice, that wherever he may call us we may be ready to follow, and thus proceed through the whole course of our life, until we shall at length reach the goal which is set before us, and be thence led to the fruition of that eternal inheritance and glory which thine only — begotten Son has obtained for us by his own blood. — Amen.
 
@@ -259,7 +258,7 @@ If it be objected, — that thus God’s favor, manifested towards the children 
 
 ## Prayer Lecture 50
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as at this day such a dreadful scattering terrifies us on every side, we may learn to raise up our eyes above the world and to hope for that which is now hidden from us, even that in executing thy judgments on the Church as well as on aliens, thou wilt be so merciful to the whole world, as that we may be gathered into the unity of faith: and may we labor to devote ourselves wholly to thy service and cultivate brotherly concord among ourselves: until we shall at length enjoy that eternal inheritance, which has been obtained for us by the blood of thine only — begotten Son. — Amen.
 

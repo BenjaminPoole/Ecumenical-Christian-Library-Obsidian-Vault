@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # The Perseverance of Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2253
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Jesus answered and said unto her, O woman, great is your faith: be it unto you even as you will. And her daughter was made whole from that very hour." Matthew 15:28.
 
@@ -119,7 +116,7 @@ Believe my Lord and Master. Oh, why do you not believe Him? Cease your artful do
 
 Portion of Scripture Read before Sermon—Matthew 15:21-39. HYMNS FROM "OUR OWN HYMN BOOK"—560, 599, 550.
 
-EXPOSITION BY C. H. SPURGEON MATTHEW 15:21-39
+## Exposition by C. H. Spurgeon Matthew 15:21-39
 
 [The sermons available for future use are those preached on Lord's-Day and Thursday evenings. These were usually shorter than the morning discourses. The publishers will issue, with the Sermon, the Exposition that preceded it as often as they are able to do so. They believe that readers will value all of these utterances of the beloved preacher who is now with the Lord. They have heard of many sermon readers who regularly turn to the portions of Scripture expounded by Mr. Spurgeon and even read the hymns sung at the Tabernacle. Such friends will now have a very full report of the services held there during the late Pastor's ministry.]
 
@@ -160,7 +157,6 @@ baskets full. They were large baskets, too—not like the small food-baskets men
 38\. And they that did eat were four thousand men, beside women and children. Now, if the women and children bore the same proportion to the men as they generally do in our congregation, there must have been a very large crowd, indeed! Why is the number of the women and children not mentioned? Was it because there were so many? Or was it because their appetites, being smaller than the appetites of men, the men are put down as the great eaters and the women and children, as it were, thrown into the count? What a mercy it is that the Lord adds to the Church daily a vast number of men, women, and children! May the Lord sends us many more—until we cannot count them!
 
 39\. And He sent away the multitude, and took ship, and came into the coasts of Magdala. He had taught the people and fed them—so now He goes elsewhere to carry similar blessings to others.
-
 
 ---
 [[Sermon 2252 The Unknown Giver and the Misused Gifts|← #2252]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2254 The Two Guards Praying and Watching|#2254 →]]

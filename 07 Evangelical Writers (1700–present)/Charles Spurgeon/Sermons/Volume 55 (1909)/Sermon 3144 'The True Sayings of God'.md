@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'The True Sayings of God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3144
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These are the true sayings ofGod." Revelation 19:9.
 
@@ -71,7 +68,7 @@ We took him home in a cab and in a few hours he was gone. He was an old disciple
 
 If you are obliged to say, "No"—I cannot hold your hand, (there are too many for me to do that), nor can I take you by the buttonhole and detain you for a while, but I would gladly detain you as that ancient mariner detained the wedding guest, and say to you, "Are you wise to live in danger, every day, of death and judgment and yet to remain unprepared? Ought it not to be the first business of your life, by faith and prayer, to make your calling and election sure?" If you are wise men and wise women, surely a word will be enough for you. But if you are not wise, may God make you so! May He lead you, this very hour, to confess your sins and seek His mercy! And may every one of us be found in Christ in that great day! Then shall we rejoice forever in "the true sayings of God." The Lord grant it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:89-104.
+## Exposition by C. H. Spurgeon: Psalm 119:89-104
 
 Verse 89. Forever, O LORD, Your Word is settled in Heaven. It is not a changeable or vanishing thing—"Your Word is settled." Settled forever, settled "forever in Heaven." As God changes not, so the Word which He has spoken to His servants changes not. If the foundations of the faith could be removed, what would the righteous do? What would any of us do? But, with an eternally fixed Word of God, we have something solid to build upon, a foundation on which we may confidently rest our everlasting hopes.
 
@@ -118,7 +115,6 @@ Verse 89. Forever, O LORD, Your Word is settled in Heaven. It is not a changeabl
 104\. Through Your precepts I get understanding. The practical parts of God's Word not only appeal to our understanding but they give us understanding. That is a marvelous thing, but it is true. Sometimes when you are arguing with a man who is dull of comprehension, you are apt to say, "Well, I can give you arguments, but I cannot give you an understanding with which to appreciate them." But this Word can give us understanding—"Through Your precepts I get understanding."
 
 104\. Therefore I hate every false way. The best test of a true spiritual understanding is an intense and vigorous hatred of everything that is false. The lover of the Truth of God is a follower of the Truth of God! He is not a man of craft and guile. He keeps to the straight line and in the long run it shall be proved that he is the man who is, indeed, taught of God.
-
 
 ---
 [[Sermon 3143 Shoes for Pilgrims and Warriors|← #3143]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3145 Paul in the Tempest|#3145 →]]

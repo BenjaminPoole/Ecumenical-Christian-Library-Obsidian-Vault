@@ -10,7 +10,6 @@ written: "c. 1720s–1750s (Edwards' private notebooks)"
 tags:
   - jonathan-edwards
 ---
-
 # THEOLOGICAL QUESTIONS.
 
 1\. How *does* it appear that something has existed from eternity?
@@ -193,7 +192,7 @@ tags:
 
 90\. In what does the happiness of heaven consist?
 
-END OF THE FIRST VOLUME.
+## End of the First Volume
 
 ---
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Christ's Love for His Vineyard
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2785
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My vineyard, which is Mine, is before Me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred." Song of Solomon 8:12.
 
@@ -55,7 +52,7 @@ from this thought. If there is anything in the church that grieves us, we must f
 
 II. Now, very briefly, I want you to regard this first sentence of our text as THE LANGUAGE OF THE CHURCH
 
-ITSELF.
+## Itself
 
 According to the 11th verse, "Solomon had a vineyard at Baal Hamon. He let out the vineyard unto keepers— everyone, for the fruit thereof, was to bring a thousand pieces of silver." So, dear Brothers and Sisters, everyone of us whom the Lord has brought to Himself, has a part of His vineyard to keep for Him. We do not sing, with Wesley—
 
@@ -111,7 +108,7 @@ I will say no more upon that point, but repeat that our great Solomon must have 
 
 There are scores of places in the country where ministers are treated as that poor man was, but it ought not to be so. The minister of Christ must have some regard, some esteem, some honor in his church, but, after all, our Lord Jesus Christ must have His thousand. My own people may take home to themselves the first part of my discourse, but you big farmer deacons must take the latter part to yourselves. Don't you go to sleep tonight until you have thought, "What can we do for that poor dear man who is to preach for us next Sunday?" As for my own members, you can think about the first part. Let it be your joy to know that the vineyard is Christ's vineyard and that it always lies before Him—and let each one of you seek to give to Jesus His thousand pieces of silver—all the honor, the glory, the praise, the love and the service that you can render to Him from the beginning of the year to the end!
 
-EXPOSITION BY C. H. SPURGEON: PSALM47.
+## Exposition by C. H. Spurgeon: Psalm 47
 
 Verses 1-5. O clap your hands, all you people; shout unto God with the voice of triumph. For the LORD most high is terrible; He is a great King over all the earth. He shall subdue the people under us, and the nations under our feet He shall choose our inheritance for us, the excellency of Jacob whom He loved. Selah. God is gone up with a shout, the LORD with the sound of a trumpet
 
@@ -126,7 +123,6 @@ One of our sacred poets has written—
 "The God of Abraham praise Who reigns enthroned above Ancient of everlasting days, And God oflove! Jehovah, great I AM! By earth and Heaven confess. I bow, and bless the sacred name Forever blest!"
 
 "But the God of Abraham is very stern," says someone. Assuredly He is! He is terrible in the majesty of His justice! Yet we worship and adore Him for that very reason. No effeminate deity such as modern thought has invented, has even an atom of our admiration, much less of our adoration! But the glorious God of the Sinai thunders who is equally terrible as the God of Justice on Calvary—this God, who, nevertheless, is Love, our hearts adore and worship!
-
 
 ---
 [[Sermon 2784 'Non Nobis, Domine!'|← #2784]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2786 The Soul's Best Food|#2786 →]]

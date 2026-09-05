@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Secret Sins Driven Out By Stinging Hornets
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 673
 
-DELIVERED ON SUNDAY MORNING, JANUARY 28, 1866,.
+*Delivered on Sunday Morning, January 28, 1866*
 
 > "Moreover the Lord your God will send the hornet among them, until those who are left, who hide themselves from you, are destroyed." Deuteronomy 7:20.
 
@@ -154,7 +153,6 @@ It is stern work. It is work that never could be done if it were not for that pr
 Come, then, you men of war, take to your harness and buckle on your armor, and nerve your souls for combat! "You have not resisted unto blood, striving against sin." "Consider Him who endured such contradiction of sinners against Himself, lest you be weary" in yourselves. And now—from now on, and forever—fight the good fight for the crown that fades not away.
 
 I have been speaking to saved ones, and to saved ones, only. But you that are unsaved will have the hornets, too. Only those hornets will be of no use to you! They will sting you away from God, rather than to Him. Your troubles will only make you dislike and hate the Most High the more. Oh that His Grace would visit you and change your heart! And then, maybe your trials might be sanctified to fetch you to your Father's face. May it be so, and His shall be the glory evermore. Amen.
-
 
 ---
 [[Sermon 0672 The Ravens' Cry|← #672]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0674 The Mighty Arm|#674 →]]

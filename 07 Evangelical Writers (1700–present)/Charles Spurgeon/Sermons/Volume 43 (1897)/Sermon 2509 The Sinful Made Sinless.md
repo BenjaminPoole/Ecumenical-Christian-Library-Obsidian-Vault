@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Sinful Made Sinless
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2509
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whoever commits sin transgresses also the Law: for sin is the transgression of the Law. And you know that He was manifested to take away our sins; and in Him is no sin." 1 John 3:4,5.
 
@@ -83,7 +80,7 @@ So, before the sun goes down, we cry, "Come out with you! Come out with you! You
 
 Come, let all of us begin at the Cross this very moment! Let us begin by believing in the Lord Jesus Christ, and then He will purify us even as He is pure and, at the last, when He shall appear, we shall be like He is, for we shall see Him as He is. God bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 3.
+## Exposition by C. H. Spurgeon: 1 John 3
 
 Verse 1. Behold—For there is no greater wonder out of Heaven than this—"Behold."
 
@@ -130,7 +127,6 @@ God."
 23\. 24. And this is His Commandment, That we should believe on the name of His Son Jesus Christ, and love one another, as He gave us commandment And he that keeps his Commandments dwells in Him, and He in him. That is a great mystery, for us to dwell in God, and for God to dwell in us! It is even so, but only he who knows it can understand it. Experience, alone, can explain our dwelling in God and God dwelling in us.
 
 24\. And hereby we know that He abides in us, by the Spirit which He has given us. Holy Spirit, dwell in me and teach me the meaning of this precious Word, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2508 Beautiful Forever|← #2508]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2510 Apart|#2510 →]]

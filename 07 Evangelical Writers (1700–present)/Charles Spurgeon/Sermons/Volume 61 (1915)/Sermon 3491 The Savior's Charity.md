@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Savior's Charity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3491
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered and said unto Aim, What do you want Me to do for you?" Mark 10:51.
 
@@ -51,7 +48,7 @@ When we consider that He spared not His own self, but gave up His whole heart an
 
 Thus much have I spoken concerning the question of our text as it interprets the goodwill of Christ. Let us now turn it over again—
 
-II. AS IT APPEALS TO OURSELVES.
+## II. As It Appeals to Ourselves
 
 What do you think it ought to say to us? Or what should we say in response to it? It strikes me that, as it shows Christ's tenderness, so, on our part, it ought to prompt a corresponding tenderness. Horrible is the state of that man's mind who can presume upon Christ's tenderness and yet love sin! I have heard some preach the Doctrine that God sees no sin in Jacob, neither iniquity in Israel, in such a way as to make you feel that they could not see any sin in the people of Jehovah's choice. But I would like to feel that His great forbearance excited my scrupulousness. Does the Lord say that He can see no sin? Then I will see it all the more. Does He say of His exquisite tenderness, "You are all fair, My Love, there is no spot in you"—shall I, therefore, treat sin as though it were nothing, trifle with it and call it a nonentity? Oh, no! I will weep because of the tenderness of Him who knows all about me! And though He is too gracious to throw my sin in my teeth, yet I will take care to bemoan it myself. God forgives me—and for that reason I cannot forgive myself. God casts my sin behind His back—therefore, I have it continually before my face. Such love as His makes me appear the more black, the more detestable in my own eyes. If I had a friend who knew that I had some besetting sin, some grievous infirmity, and if that dear friend, out of the tenderness of his heart for me, never mentioned it to me, though it had grieved him much, should I, therefore, treat it with levity? Suppose I had injured him in business, do you think I should forget it for that reason? Or had I been the instrument of his losing some dear relative, and yet he never said a word to me about it, never upbraided me, never looked as if he felt that I had wronged him—never even hinted in a side way that I was the cause of his pain—well, I hope I speak honestly when I say that his kind reticence would wound and cut me to the heart more than if he spoke bitterly to me! If you, as a servant, have committed a fault and your master never says a word by way of blame, I am sure you will feel the more sorry rather than the less concerned for the wrong you have done. If a man comes to me in a rage and calls me evil names, I consider, then, that whatever my fault may be, he has taken his revenge and I am not bound to humble myself—but when he says, "Ah well, I will say nothing about it," or when he passes it over in silence and is as quiet and tender to me as if I had never done him an injury, why, then I must chastise myself, even if he will not chastise me! I must blame myself, since he will not blame me. Dear Christian Friends, let us cultivate a holy sensibility. There is what is called the sensitive plant which turns up its leaves when it is touched. Let us be like that plant. If Christ has been tender to us, let us also be tender!
 
@@ -67,7 +64,7 @@ The generosity involved in our Lord's question, "What do you want Me to do for y
 
 Now the Savior is present with us in Spirit. He will soon be here in Person. I think I hear His voice as He puts this question, in loving tones, to each one of us, "What do you want Me to do for you?" You aged folks who have passed your "best days" (as they are called, though I hope your best days are really now coming), what do you want Christ to do for you? You venerable saints, if you have little to ask for yourselves in this world, what will you ask for us who are bearing the heat and burden of the day? You soldiers of Christ, who are in middle life, what do you want Christ to do for you? Have you no children to pray for, no household mercies to seek, no troubles from which you would be delivered? And you young men and maidens, the Master says to you, "What do you want Me to do for you?" If you can, I trust you will put up a desire while you are in your pews. If not, let the question greet you at the bedside where you have bowed so often. Pause a while before you pray. Think what you shall ask. It may be that the Lord, who appeared unto Solomon and said, "I will give you whatever you shall ask," may have appeared to you to make this the night of mercy. Ask not wealth of Him, ask not honor, ask not rank and station, but ask Him to give you His dear Son! Ask to have the Savior to be yours forever—and if you ask this, it will be a wide-mouthed prayer, but God will answer it, and you shall have this grateful response, "According to your faith be it done unto you." Amen.
 
-MARK10:13-27,32-52.
+## Mark 10:13-27,32-52
 
 Verse 13. And they brought young children to Him, that He should touch them: and His disciples rebuked those that brought them.They thought them too little, too insignificant, and that the Master had greater things to do. But He thought not so. None are too little for Him! He receives even childish honors to Himself.
 
@@ -114,7 +111,6 @@ He knew not only that He must die, but He knew all the circumstances of pain and
 51\. Lord, that I might receive my sight. "Lord, that I might look up." That is the exact translation, for no doubt he had been conscious that the light came from the sun as he felt its warmth upon him as he sat by the wayside! And, therefore, he thought that seeing must be looking up towards the place from where the sunlight came. "Lord, that I might look up."
 
 52, 53. And Jesus said unto him, Go your way; your faith has made you whole. And immediately he received his sight, and followed Jesus in the way.It is a very remarkable thing that you will not often find the Lord Jesus Christ granting a favor without ascribing it to some excellence in the person to whom He grants it. It is generally, "Great is your faith," or something of that sort—"I have not seen such faith." Now this is a very remarkable thing because we know there really was nothing whatever in the persons, that they should deserve His great favor!
-
 
 ---
 [[Sermon 3490 Sincere Seekers—assured Finders|← #3490]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3492 God's Word Not to Be Refused|#3492 →]]

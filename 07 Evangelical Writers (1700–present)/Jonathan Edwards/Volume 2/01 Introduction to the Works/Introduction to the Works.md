@@ -9,7 +9,6 @@ epub_file: "works2.i.html"
 tags:
   - jonathan-edwards
 ---
-
 ## THE WORKS OF
 
 # JONATHAN EDWARDS
@@ -24,9 +23,7 @@ tags:
 
 ### VOLUME TWO
 
-The Banner of Truth Trust
-
-THE BANNER OF TRUTH TRUST
+## The Banner of Truth Trust
 
 *3 Murrayfield Road, Edinburgh* EH12 6EL
 

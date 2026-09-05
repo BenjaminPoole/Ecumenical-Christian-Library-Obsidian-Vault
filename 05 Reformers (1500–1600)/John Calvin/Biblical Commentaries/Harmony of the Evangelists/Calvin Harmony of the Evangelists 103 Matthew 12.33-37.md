@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 103. Matthew 12:33-37
-
-**MATTHEW 12:33-37**
 
 **33**. Either make the tree good, and its fruit good: or make the tree bad, and its fruit bad; for the tree is known by the fruit. **34**. Offspring of vipers, how can you speak what is good, when you are bad? for out of the abundance of the heart the mouth speaketh. **35**. A good man, out of the good treasure of his heart, bringeth forth what is good, and a bad man, out of the bad treasure, bringeth forth what is evil. **36**. But I say to you, That men will give account, at the day of judgment, for every idle word which they shall have spoken. **37**. For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 

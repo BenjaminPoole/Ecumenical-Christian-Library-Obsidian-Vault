@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## 1 Corinthians 10:1-5
 

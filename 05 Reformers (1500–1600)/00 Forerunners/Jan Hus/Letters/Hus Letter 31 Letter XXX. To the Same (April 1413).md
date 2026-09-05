@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 31. Letter XXX. To the Same (April 1413)
-
-LETTER XXX. TO THE SAME (April 1413)
 
 Reviews once more his position and the general controversy with Palecz and Stanislaus 132-4
 

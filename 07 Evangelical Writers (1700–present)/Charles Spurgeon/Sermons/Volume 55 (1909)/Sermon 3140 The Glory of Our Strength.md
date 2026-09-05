@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Glory of Our Strength
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3140
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For You are the glory of their strength." Psalm 89:17.
 
@@ -73,7 +70,7 @@ III. Now let us notice, in the third place—and may the Spirit of God give His 
 
 thought!—that Believers, thus having God-given strength, know that ALL THE GLORY OF THEIR STRENGTH
 
-LIES IN GOD.
+## Lies in God
 
 I hope you have understood this Truth of God even while I have been speaking about it, for it is true that the Christian has no other strength than that which has come from God. It is so in every individual Christian. The glory of any strength that he has must be given to God because God has given that strength to him. Have you all learned this lesson yet or are any of you proud of anything that you are, or of anything that you have done? Have you not yet learned the Truth of the text, "You are the glory of their strength"? Have you been foolish enough to say, "I preach well," or, "I work well," or, "I suffer well," or, "I am growing in Grace, so there is some credit due to me?" Dear Brother, if you talk like that, may the Lord deliver you from all such delusions! He is the glory of our strength—let us keep to that and never get away from it, for the Lord our God is a jealous God and He is especially jealous of His own glory! And if He sees that we give that glory to ourselves, or to any other but Himself, He will take away from us the strength that He gave and make us cry out once again because of our weakness. So do not destroy your own strength by taking the glory of it to yourself. Oh, how many a man has flung himself from the battlements of his pulpit by beginning to feel that he did it and that he had some strength of his own! How many a professor has marred a life of consistency in one dark hour—and the reason has been that self-sufficiency and carnal security were hidden away in his bosom—and at last betrayed him. When you are strong, then are you weak. But when you are conscious of weakness, then are you truly strong! While you lay the crown at the feet of Him who gave you the strength to win it, you will always be made strong. But as soon as you begin putting the crown on your own head, your strength shall be taken from you and if, like Samson, you go out to shake yourself as at other times, you will find that the Lord has departed from you to chasten you for your pride!
 
@@ -89,7 +86,7 @@ I offered a prayer, this evening, (and I prayed in faith), that the Lord would, 
 
 I think I hear someone say, "I would gladly be saved, but I am so weak." But the almighty Savior came to save weak sinners! "Oh, but I am so weak I do not feel any repentance." But Christ was exalted to give repentance! O poor weak ones, it is to just such as you are that Jesus says, "Look unto Me and be you saved, all the ends of the earth." It is but a lookthat is needed—and even thatthe Holy Spirit gives you! He gives it to you now—He enables you now to look to Jesus, the great atoning Sacrifice! And as you look, you are saved in a moment, saved through His Grace by that simple looking unto Jesus! Oh, to leap out of death into life, out of thick darkness into unutterably glorious light in one moment! I pray that the Holy Spirit may speak to many a soul here through the words that I am now uttering. "Awake, you that sleep and arise from the dead, and Christ shall give you light." The Lord grant that it may be so—and to Him shall be the glory, for He is the glory of our strength. Amen!
 
-EXPOSITION BY C. H. SPURGEON: PSALM89.1-38.
+## Exposition by C. H. Spurgeon: Psalm 89.1-38
 
 Verses 1, 2. I will sing of the mercies of the LORD forever: with my mouth will I make known Your faithfulness to all generations. For I have said, Mercy shall be built up forever: Your faithfulness shall You establish in the very heavens.
 
@@ -120,7 +117,6 @@ and explains to him the reason why mercy shall be built up forever. And then the
 26-34. He shall cry unto Me, You are my fatheer, my God, and thee rock of my salvation. Also I will make him My first-born, higher than the kings of the earth. My mercy will I keep for him forevermore, and My Covenant shall stand fast with him. His seed also will I make to endure forever, and his throne as the days of Heaven. If his children forsake My law, and walk not in My judgments; if they break My statutes, and keep not My commandments; then will I visit their transgression with the rod, and their iniquity with stripes. Nevertheless My loving kindness will I not utterly take from him, nor suffer My faithfulness to fail. My Covenant will I not break, or alter the thing that is gone out of My lips. If, then, you are in the Covenant, you will have the rod—you may rest sure of that! If you do not walk in God's ways, but break His statutes, you will not be allowed to go unchastened. If a father saw some boys in the street breaking windows or otherwise misbehaving themselves—and he gave one of the boys a box on the ears, you may be pretty certain that the boy is his own son. And when God sees men doing wrong, He often permits the wicked to go unpunished in this life—but as for His own people, it is written, "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities." Our heavenly Father's hand still holds the rod and uses it when necessary—but it is in love that He corrects us. Let us, therefore, when He chastens us, plead the Covenant that is here recorded and say to Him, "You have said, 'Nevertheless My loving kindness will I not utterly take from him, nor suffer My faithfulness to fail. My Covenant will I not break, nor alter the thing that is gone out of My lips.'"
 
 35-37. Once have I sworn by My holiness that I will not lie unto David. His seed shall endure forever, and his throne as the sun before Me. It shall be established forever as the moon, and as a faithful witness in Heaven. Selah.
-
 
 ---
 [[Sermon 3139 A Promise for the Blind|← #3139]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3141 Women's Rights—a Parable|#3141 →]]

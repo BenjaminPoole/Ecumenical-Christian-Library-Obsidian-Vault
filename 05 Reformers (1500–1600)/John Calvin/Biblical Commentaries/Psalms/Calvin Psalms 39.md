@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 39
-
-**PSALM 39**
 
 In the beginning of the psalm, David intimates that his heart had been seized with extreme bitterness of grief, which forced him to give utterance to complaints with too much vehemence and ardor. He confesses that whilst he was disposed to be silent, and to exercise patience, he was nevertheless compelled, by the vehemence of his sorrow, to break out into an excess which he by no means intended. Then he relates the complaints which he had made mingled with prayers, which indicate great trouble of mind; so that from this it appears that he had wrestled with no ordinary effort in resisting temptation, lest he should fall into despair.
 

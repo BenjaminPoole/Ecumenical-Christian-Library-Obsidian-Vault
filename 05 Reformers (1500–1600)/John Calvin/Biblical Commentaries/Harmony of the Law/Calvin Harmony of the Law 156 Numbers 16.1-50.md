@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 156. Numbers 16:1-50
-
-**Numbers 16**
 
 **1.** Now Korah, the son of Izhar, the son of Kohath, the son of Levi: and Dathan and Abiram the sons of Eliab; and On the son of Peleth, sons of Reuben, tool: men:
 

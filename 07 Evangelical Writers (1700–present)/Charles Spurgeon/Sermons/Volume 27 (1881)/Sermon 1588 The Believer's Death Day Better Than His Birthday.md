@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Believer's Death Day Better Than His Birthday
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1588
 
-DELIVERED ON THURSDAY EVENING, MARCH 3, 1881,.
+*Delivered on Thursday Evening, March 3, 1881*
 
 > "A good name is better than precious ointment; and the day of death than the day of one's birth." Ecclesiastes 7:1.
 
@@ -154,7 +153,6 @@ I believe that angels come and meet certain departing ones—that they come troo
 We shall rise from seeing Christ to seeing Him yet more and to discovering more and more beauties in Him! We shall ascend from one perfection to another perfection—from fullness up to our capacity to an enlarged capacity and an equal fullness! From Glory unto Glory—from sunlight to Godlight—from Godlight to the light of God yet more received and enjoyed. There! I cannot go farther. Good night, "till the day breaks and the shadows flee away" and then you and I will know, in ten minutes, more than all the bench of bishops could tell us in a year! You will know more in half a second than I could tell you if I were to keep you here the whole night!
 
 Only mind you, do not miss the way, one of you! Mind you do not miss the way! Turn to the right, by the Cross, and go straight on. God lead you by His Holy Spirit! Amen.
-
 
 ---
 [[Sermon 1587 Jesus At A Standstill|← #1587]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1589 A Hasty Expression Penitently Retracted|#1589 →]]

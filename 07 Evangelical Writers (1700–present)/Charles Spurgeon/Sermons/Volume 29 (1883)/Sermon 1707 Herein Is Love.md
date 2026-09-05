@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # "Herein Is Love"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1707
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 18, 1883,.
+*Delivered on Lord's-Day Morning, February 18, 1883*
 
 > "Herein is love, not that we loved God, but that He loved us, and sent His Son to be the propitiation for our sins. Beloved, if God so loved us, we ought, also, to love one another." 1 John 4:10,11.
 
@@ -154,7 +153,6 @@ If you had to manage the waterworks for the distribution of water all over this 
 If you think thus, you are a plugged up pipe! You are of no use—you will have to be taken out of the system of the Church—for the system of love for the world requires open pipes through which Divine Love may freely flow. May the Lord clear you and fill you, so that out of you there may continually flow rivers of living water. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON-1 John 4. HYMNS FROM "OUR OWN HYMN BOOK"—199, 782, 803.
-
 
 ---
 [[Sermon 1706 The Cast-Off Sash|← #1706]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1708 The Holy Spirit's Threefold Conviction of Men|#1708 →]]

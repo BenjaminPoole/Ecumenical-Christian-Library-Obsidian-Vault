@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Forgetting God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2975
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore have they forgotten Me." Hosea 13:6.
 
@@ -91,7 +88,7 @@ I cannot say more except just this—if God is prospering you, keep very close t
 
 if you receive everything as throughHim and then desire to use everything forHim, you may be as rich as the Rothschilds and yet you may be as gracious as the Apostle Paul! You might have all the world given you, and yet, for all that, it would not hurt you. If you had as much of God as you had of gold, God would see that the gold was safe in your hands. He would trust us with prosperity if He saw that all our prosperity only bound us more closely and more completely to the Cross of His dear Son. So, if any of you have forgotten Him, conclude this evening's service by coming to the Cross. And thus Father, Son and Holy Spirit shall get glory from you. May it be so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 13:1-9.
+## Exposition by C. H. Spurgeon: Hosea 13:1-9
 
 Hosea was full of complaints against the people of God, for in his day they had very sadly wandered from the Lord. They had even forgotten Him. In Hosea's prophecy we have the plaintive voice of a loving God chiding His backsliding children.
 
@@ -110,7 +107,6 @@ they needed bread and water in the wilderness. God says, "I did know you in the 
 9\. O Israel, you have destroyed yourself: but in Me is your help. "You have gone away from Me, but I will bring you back again. You have destroyed yourself by your sin, but I will restore you to My favor by My Grace. You may look within yourself for causes of repentance, but you must not look to yourself for the means of restoration. You must look to Me, your Savior and your God." So this verse teaches us "O Israel, you have destroyed yourself, but in Me is your
 
 help."
-
 
 ---
 [[Sermon 2974 A Wafer of Honey|← #2974]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2976 Order Is Heaven's First Law|#2976 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # An Appeal to Children of Godly Parents
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2406
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My son, keep your father's commandment, and forsake not the law of your mother: bind them continually upon your heart, and tie them about your neck. When you go, it shall lead you; when you sleep, it shall keep you; and when you awake, it shall talk with you. For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life." Proverbs 6:20-23.
 
@@ -99,7 +96,7 @@ Well now, these people are just like the chaff on the threshing floor, and when 
 
 God help you to do it! But first believe in the Lord Jesus Christ—trust yourselves wholly to Him—and He will give you Grace to stand fast even to the end!
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:1-16.
+## Exposition by C. H. Spurgeon: Psalm 119:1-16
 
 The first eight verses of this Psalm, in the Hebrew, begin with the letter A, and the second eight begin with the letter B. The whole Psalm is the good man's alphabet. The Holy Spirit condescended to use these expedients to help the memory of the readers of Holy Scripture. We should be thankful for this. I have sometimes heard preachers blamed for dividing their discourses in such a way as to help the memory of their hearers. The preacher may well bear that blame without any regret, since the Spirit of God, here, condescends to alliteration and to alphabetical arrangement in order to help the memories of readers. Thus the Psalm begins
 
@@ -136,7 +133,6 @@ Verse 1. Blessed are the undefiled in the way, who walk in the Law of the LORD. 
 15\. I will meditate in Your precepts, and have respect unto Your ways. Blessed meditation! The lack of meditation is one of the faults of the days in which we live—we are so very busy that we have not time to study God's Word—but the Psalmist said, "I will meditate in Your precepts." That is the secret strength—"and have respect unto Your ways"— that is the public result. If we meditated more, we would live better. God help us so to do!
 
 16\. I will delight myself in Your statutes: I will not forget Your Word. So may each one of us resolve. Amen.
-
 
 ---
 [[Sermon 2405 Joy, a Duty|← #2405]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2407 Feeding on a Whole Christ|#2407 →]]

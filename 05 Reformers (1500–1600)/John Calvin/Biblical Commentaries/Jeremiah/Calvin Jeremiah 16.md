@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Jeremiah 16:1-4
 
@@ -62,7 +61,7 @@ Then he mentions what we have already referred to, *Their carcases shall be for 
 
 ## Prayer Lecture 62
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou anticipatest us by thy word, so that we may not experience thy eternal severity, — O grant, that we may become teachable, and be so displeased with our vices, that we may not provoke more and more thy vengeance, but hasten to seek reconciliation with thee, and that relying on the Mediator whom thou hast given us, we may flee to thy mercy, until having been cleansed from all our filth, we shall at length be received into thy celestial kingdom, and there appear before thee in that parity from which we are as yet very distant, and shall enjoy that glory which thine only-begotten Son has obtained for us by his own blood. — Amen.
 
@@ -161,7 +160,7 @@ At the end of this verse he shews how he had been forsaken, even because they ke
 
 ## Prayer Lecture 63
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we in various ways daily provoke thy wrath against us, and thou ceasest not to exhort us to repent, — O grant, that we may be pliant and obedient and not despise thy kind invitations, while thou settest before us the hope of thy mercy, nor make light of thy threatenings; but that we may so profit by thy word as to endeavor to anticipate thy judgments; and may we also, being allured by the sweetness of thy grace, consecrate ourselves wholly to thee, that thus thy wrath may be turned away from us, and that we may become receivers of that grace which thou offerest to all who truly and from the heart repent, and who desire to have thee propitious to them in Christ Jesus our Lord. — Amen.
 
@@ -233,7 +232,7 @@ And he says further, *With their defilements have they filled mine inheritance* 
 
 ## Prayer Lecture 64
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not given to thy servants a small corner only of the earth to dwell in, but hast designed to extend thy kingdom to the utmost borders of the earth, and to dwell with us, wherever we be, by thine onIy-begotten Son, — O grant, that we may offer ourselves as sacrifices to thee, and labor also so to regulate our life according to thy word that thy name may be glorified in and by us, till we shall become at length partakers of that celestial and eternal glory, which has been provided for us by Christ our Lord — Amen.
 

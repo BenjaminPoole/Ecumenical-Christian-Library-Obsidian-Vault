@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Singing Army
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2923
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Judah gathered themselves together to ask help of the Lord." 2 Chronicles 20:4.
 
@@ -89,7 +86,7 @@ After that they had rest. In the narrative it is added, "So the realm of Jehosha
 
 1 have been desirous to speak these comfortable words to God's children, for well I know how they are tried. And I pray the Lord, the Comforter, to apply the word to their troubled hearts. But, I never can finish my discourse without having the very sad thought that there are always in our congregation some to whom these comfortable things do not belong. They are not Believers. They have never trusted in Christ. If this is so with you—if this is so—ah, Friend, you have to fight your own battles! You have to bear your own briars, you have to carry your own burdens. And when you come at the Last Great Day before the Judgment Seat, you will have to answer for your own sins and to bear your own punishment! God have mercy upon you and deliver you from such a condition as this. It is a bad condition to live in—it is a terrible condition to die in. May you be brought to receive Christ for your Substitute and your Surety, and glorify His name forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CHRONICLES 20; PSALM 47.
+## Exposition by C. H. Spurgeon: 2 Chronicles 20; Psalm 47
 
 2 Chronicles 20:1-3. It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other besides the Ammonites, came against Jehoshaphat to battle. Then there came some that told Jehoshaphat, saying, There comes a great multitude against you from beyond the sea on this side of Syria; and, behold they are in Hazazon Tamar, which is En Gedi. And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah. An angry God is to be sought. Even though He smite us, we must turn to Him. It is from the hand that wields the rod that we are to expect deliverance, if it ever comes at all.
 
@@ -124,7 +121,6 @@ against the inhabitants of Mount Seir, utterly to slay and destroy them: and whe
 27-30. For the LORD had made them to rejoice over their enemies. And they came to Jerusalem with psalteries and harps and trumpets unto the House of the LORD. And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel So the realm of Jehoshaphat was quiet: for his God gave him rest round about. Now, it is a long piece we have read, but I think it would not be complete if I did not read you the song which they sang. In all probability it was the 47th Psalm. You can almost hear them singing it as they are marching back.
 
 Psalm 47:1-9. O clap your hands allyoupeople; shout unto God with the voice of triumph. For the LORD most high is terrible; He is a great king over all the earth. He shall subdue the people under us, and the nations under our feet. He shall choose our inheritance for us, the excellency of Jacob whom He loved. Selah. God is gone up with a shout, the LORD with the sound of a trumpet. Sing praises to God, sing praises: sing praises unto our King, sing praises. For God is the King of all the earth: sing you praises with understanding. God reigns over the heathen: God sits upon the throne of His holiness. The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: He is greatly exalted. The delivered people give God all the glory. He reigns, and He it is who subdues the people. Let Him be exalted in the congregations of the people and praised in the assembly of the elders now and evermore!
-
 
 ---
 [[Sermon 2922 An Infallible Sign Of Revival|← #2922]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2924 Preventing Grace|#2924 →]]

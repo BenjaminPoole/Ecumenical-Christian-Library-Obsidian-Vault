@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Under Arrest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2402
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Butbefore faith came, we were kept under the Law, shut up unto the faith which should afterwards be revealed." Galatians 3:23.
 
@@ -93,7 +90,7 @@ I have nothing to tell of but Christ Crucified! Nothing to say to the sinner but
 
 Now, if there are any of you who have gotten into that position, I am right glad of it! This proves that you are God's child! He has chosen you, He loves you, He has given His Son to save you! Take the Lord Jesus Christ to be everything to you and go on your way rejoicing! "Before faith came," you were shut up, but you were shut up to faith in Christ! And now you have that faith, you are shut up no longer, you have received the liberty with which Christ makes His people free! Go home and enjoy it—and if you meet any other poor soul shut up as you were, tell how you came out to liberty! Do not be satisfied to go to your bed, tonight, without having told somebody of how the Lord Jesus came, dressed in garments dipped in blood, and with His pierced hands broke the bars of brass and cut the doors of iron in two—and set your soul at liberty, and said, "I have blotted out, as a thick cloud, your transgressions and, as a cloud, your sins." God bless you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS3.
+## Exposition by C. H. Spurgeon: Galatians 3
 
 Paul, writing, to those changeable Galatians, who had so soon deserted the faith, says to them in this chapter.
 
@@ -148,7 +145,6 @@ Sinai, but that could not affect a covenant made 430 years before! The argument 
 26,27. For you are all the children of God by faith in Christ Jesus. For as many of you as have been baptized into Christ have put on Christ. You set forth that Truth of God in your Baptism—you then confessed that you were dead to sin— and declared that you were risen again in Christ to newness of life. Whatever you had to do with the Law before, you were dead and buried to it and to everything but Christ!
 
 28, 29. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus. And if you are Christ's, then are you Abraham's seed, and heirs according to the promise. That settles the question! If you belong to Christ, you are the children of Abraham! Come, then, and, without the least hesitation, claim all the privileges that belong to Abraham's seed! If you have come under the promise, enjoy its blessing, and do not go back to trusting in rites and ceremonies—or in works of your own performing—but live a life of joyous faith in Jesus Christ your Lord!
-
 
 ---
 [[Sermon 2401 The Child of Light and the Works of Darkness|← #2401]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2403 The Sweet and the Sweetener|#2403 →]]

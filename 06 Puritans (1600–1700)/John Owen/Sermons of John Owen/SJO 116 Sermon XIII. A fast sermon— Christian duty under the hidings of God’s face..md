@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon XIII. A fast sermon:— Christian duty under the hidings of God’s face. Isaiah viii. 17
-
-## Sermon XIII. A fast sermon:— Christian duty under the hidings of God’s face.
 
 Preached January 1, 1676.
 
@@ -125,7 +122,6 @@ Fifthly, How shall we know that this is but a hiding, and not a departure? for s
 Sixthly, and lastly, What is our duty in such a case as this? “I will wait upon the Lord,” saith the text, “that hideth his face from the house of Jacob, and I will look for him.” Here is our duty.
 
 What is “waiting?” Waiting is a permanent continuance in the performance of duties, against all difficulties and discouragements. It is a permanent abiding, a continuance in duty, whereby we seek for the return of God unto us, against all discouragements, difficulties, temptations whatsoever. They will arise from our own hearts on many various occasions; so that if we will wait upon God we must be permanent and abiding, — we must not make an end of what we have to do this day, but we must follow it on; and then the Lord will return unto the house of Jacob, from whom he hath hid his face.
-
 
 ---
 [[SJO 115 Sermon XII. Enoch’s walk with God. Genesis v. 24|← Sermon XII. Enoch’s walk with God. Genesis v. 24]] · [[Sermons of John Owen|Contents]]

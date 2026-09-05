@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XXVI — Of Particular Churches
 
 ## Chap. XXVI. — Of Particular Churches.
@@ -20,7 +19,7 @@ A. Peculiar ^aassemblies[^1] [^2] of professors in one place, ^bunder officers o
 
 Q. 2. What are the ordinary officers of such churches?
 
-A. First, ^apastors or doctors,[^3] to teach and exhort; secondly, ^belders, to assist in rule and government; thirdly, ^cdeacons, to provide for the poor. ^aRom. xii. 7, 8; Eph. iv. 11; 1 Cor. xii. 28. ^bRom. xii. 8; 1 Tim. v. 17. ^cActs vi. 2, 3.
+A. First, [^a1]pastors or doctors,[^3] to teach and exhort; secondly, [^b1]elders, to assist in rule and government; thirdly, [^c1]deacons, to provide for the poor.
 
 Q. 3. What is required of these officers, especially the chiefest, or ministers?
 
@@ -30,12 +29,16 @@ Q. 4. What is required in the people unto them?
 
 A. Obedience ^ato their message and ministry; ^bhonour and love to their persons; ^cmaintenance to them and their families. ^a2 Cor. v. 20; Rom. vi. 17; Heb. xiii. 17; 2 Thess. iii. 14; Rom. xvi. 19; 2 Cor. x. 4–6. ^b1 Cor. iv. 1; Gal. iv. 14; 1 Tim. v. 17, 18. ^cLuke x. 7; James v. 4; 1 Tim. v. 17, 18; 1 Cor. ix. 9–13.
 
-
 ---
 [^1]: Every corruption doth not presently unchurch a people.
 [^2]: Unholiness of fellow-worshippers defileth not God’s ordinances.
 [^3]: Ministers are the bishops of the Lord; lord-bishops came from Rome.
 
+[^a1]: Rom. xii. 7, 8; Eph. iv. 11; 1 Cor. xii. 28.
+
+[^b1]: Rom. xii. 8; 1 Tim. v. 17.
+
+[^c1]: Acts vi. 2, 3.
 
 ---
 [[TSC 29 Chapter XXV — Of the Communion of Saints, — the Fifth Privilege of Believers|← Chapter XXV — Of the Communion of Saints, — the Fifth Privilege of Believers]] · [[Two Short Catechisms|Contents]] · [[TSC 31 Chapter XXVII — Of the Last Privilege of Believers, — being the Door of|Chapter XXVII — Of the Last Privilege of Believers, — being the Door of Entrance into Glory →]]

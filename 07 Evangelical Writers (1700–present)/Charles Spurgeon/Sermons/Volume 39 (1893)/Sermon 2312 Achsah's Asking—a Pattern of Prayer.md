@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Achsah's Asking—a Pattern of Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2312
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Caleb said, He that smites Kirjathsepher, and takes it, to him will I give Achsah, my daughter, to wife. And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah, his daughter, to wife. And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wiil you? And she said unto him, Give me a blessing: for you ha ve given me a south land; give me also springs of water. And Caleb ga ve her the upper springs and the lower springs." Judges 1:12-15.
 
@@ -111,7 +108,7 @@ Come, then, while in the pew, tonight, before we gather at the Communion Table, 
 
 And you, poor Sinners, who cannot pray like children, what are you to do? Well, you remember how the Savior said to the Syrophenician woman, "It is not right to take the children's bread, and to cast it unto the dogs." But she answered, "Yes, Lord; yet the dogs under the table eat of the children's crumbs." You come in for the crumbs, tonight, but if a man is satisfied to eat crumbs with the dogs, God will not be satisfied till He makes him eat bread with the children! If you will take the lowest place, God will give you a higher place before long. Come to Jesus and trust in Him henceforth and forever. Amen.
 
-EXPOSITION BY C. H. SPURGEON. MATTHEW7.
+## Exposition by C. H. Spurgeon. Matthew 7
 
 Verse 1. Judge not, that you be not judged. You are not called to judge—you are not qualified to judge. "God is the Judge: He puts down one, and sets up another." There is much better work to be done by us than that of setting up as judges of others.
 
@@ -158,7 +155,6 @@ doctrine of future punishment. We were arguing and the gentleman who owned the v
 27\. And the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it. There was no building it again—it was altogether gone, swept right away—no vestige of it remained.
 
 28, 29. And it came to pass, when Jesus had ended these sayings, the people were astonished at His doctrine: for He taught them as One having authority, and not as the scribes. He touched their conscience. His teaching came home to them. They could not help feeling that it was true. Besides, He did not keep on quoting Rabbi This and Rabbi That, but He spoke from His own knowledge—"He taught them as One having authority, and not as the scribes."
-
 
 ---
 [[Sermon 2311 Our Lord's Last Cry from the Cross|← #2311]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2313 Charity and Purity|#2313 →]]

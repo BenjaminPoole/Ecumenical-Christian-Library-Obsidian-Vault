@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 3
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SURE-FOOTEDNESS**
+## **Sure-Footedness**
 
 > The Lord God is my strength, and he will make my feet like hind's feet, and he will make me to walk upon mine high places." Hab. 3:19
 
@@ -25,7 +24,6 @@ See! The Lord lent him strength. Nay, Jehovah Himself was his strength. Think of
 Note, that the Lord also gave him sure-footedness. The hinds leap over rock and crag, never missing their foothold. Our Lord will give us grace to follow the most difficult paths of duty without a stumble. He can fit our foot for the crags, so that we shall be at home where apart from God we should perish.
 
 One of these days we shall be called to higher places still. Up yonder we shall climb, even to the mount of God, the high places where the shining ones are gathered. Oh, what feet are the feet of faith, by which, following the Hind of the Morning, we shall ascend into the hill of the Lord!
-
 
 ---
 [[FCB June 2|← June 2]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 4|June 4 →]]

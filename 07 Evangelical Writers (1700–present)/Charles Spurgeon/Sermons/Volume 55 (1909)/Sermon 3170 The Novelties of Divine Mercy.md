@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Novelties of Divine Mercy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3170
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His compassions...are new every morning: great is Your faithfulness." Lamentations 3:22,23.
 
@@ -130,7 +127,6 @@ Settle it in your minds, Beloved, that God cannot lie! Believe every man to be a
 Here I leave the subject with you for your private meditations. And I pray God to quicken in every one of His people a life of holy joy and confidence. Oh, that all of you whom I am addressing knew at least somethingof the experiences of God's people! You who only live the life of sense and have no faith in Jesus, little know what I mean, for though I have talked largely of the sorrows of God's people, yet the joys of faith are unspeakable! One drop of God's Love would sweeten a sea of gall. Yes, I was almost about to say that even the pangs of Hell would lose their bitterness if a drop of the Love of Christ could once flow there and be tasted by those who are lost!
 
 Christian, you already know what it is to find roses among the thorns and to prove your pangs and your sufferings to be soul-enriching things—messengers from the King bringing you to His banquet of wine—and leading you to the discovery of the treasures which He has laid up for you. You know this, so tell it to the ungodly and perhaps their mouths will be set to watering after the good things of Christ's table! When they once long for them, they shall have them, for Christ never refuses a hungry one. And if there is such an one here, a poor, empty, destitute soul, remember, dear Friend, that Mercy's door stands always open and that Christ, the Host of the Gospel Inn, stands always ready to receive every soul that comes, having written this gracious promise over the door of the Inn, "Him that came to Me I will in no wise cast out."
-
 
 ---
 [[Sermon 3169 The Believer's Present Rest|← #3169]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3171 A Voice With Four Messages|#3171 →]]

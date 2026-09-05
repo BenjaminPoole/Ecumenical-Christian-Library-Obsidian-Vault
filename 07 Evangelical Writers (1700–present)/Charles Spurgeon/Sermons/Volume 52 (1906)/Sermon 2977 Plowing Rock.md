@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Plowing Rock
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2977
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Shall horses run upon the rocks? Will oneplow there with oxen?" Amos 6:12.
 
@@ -83,7 +80,7 @@ You have offended and grieved your God and my God is just—and must punish you 
 
 Once for all a child confessed!" You shall be cleansed in a moment and accepted and saved forever if you do trust the Incarnate, dying, risen, glorified Redeemer! God grant that this plowshare of the Cross may touch you! Law and terrors, I know full well, do not affect some men, but Almighty Love—will that not affect them? God grant that it may, and unto Him shall be glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: AMOS 6:1-8; 7:1-6.
+## Exposition by C. H. Spurgeon: Amos 6:1-8; 7:1-6
 
 Amos was a herdsman and a gatherer of sycamore fruit. His words are rugged, but sometimes he rises to sublimity. His expressions are somewhat dark and not readily understood, but when we learn the meaning of them, we perceive that they are full of deep, earnest, solemn warning and instruction.
 
@@ -116,7 +113,6 @@ The next chapter shows that even when God was very angry with the wicked, there 
 Amos 7:1-3. Thus has the lord God showed unto me; and, behold, He formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowing. And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I beseech You: by whom shall Jacob arise? For he is small The Lord repented for this: it shall not be, says the LORD. In a vision, the Prophet saw the locusts or grasshoppers come to devour all the green things of the land—a very terrible visitation! If you have never seen it, you cannot realize how utterly bare everything is made after the visit of the locusts. The Prophet put up a vehement and earnest prayer. He cried, "O Lord God, forgive!" And no sooner was the intercession offered than the Lord said, "It shall not be." Thus the impending judgment was turned away.
 
 4-6. Thus has the Lord God showed unto me: and, behold, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part. Then said I, O Lord God, cease, I beseech You: by whom shall Jacob arise? For he is small. The Lord repented for this. This also shall not be, says the Lord God. This time the Prophet saw the fire devouring the land—perhaps the fire of war which casts its blazing brand upon peaceful dwellings. This fire, however, was something worse than that, for the very deep itself seemed to be licked up by tongues of flame and the Prophet, in hearty sympathy with the afflicted people, cried again as he had done before, and the answer came, "This also shall not be, says the Lord God." This ought to encourage you who are the King's remembrancers to make use of the position in which His Grace has placed you, and to cry earnestly to Him to turn away His wrathful hand and have pity upon sinners! God grant that many of us may have such an intercessory spirit as that of Amos the herdsman-Prophet!
-
 
 ---
 [[Sermon 2976 Order Is Heaven's First Law|← #2976]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2978 Power With God|#2978 →]]

@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Daniel 3:1
 
@@ -23,7 +22,7 @@ Very probably this statue was not erected by King Nebuchadnezzar within a short 
 
 ## Prayer Lecture 12
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since our minds have so many hidden recesses that nothing is more difficult than thoroughly to purge them from all fiction and lying, — Grant, I say, that we may honestly examine ourselves. Do thou also shine upon us with the light of thy Holy Spirit; may we truly acknowledge our hidden faults and put them far away from us, that thou mayest be our only God, and our true piety may obtain the palm of thine approbation. May we offer thee pure and spotless; worship, and meanwhile may we conduct ourselves in the world with a pure conscience; and may each of us be so occupied in our duties as to consult our brother’s advantage as well as our own, and at length be made partakers of that true glory which thou hast prepared for us in heaven through Christ our Lord. — Amen.
 
@@ -77,7 +76,7 @@ We should learn also from this passage, not to be induced, by the will of any ma
 
 ## Prayer Lecture 13
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we always wander miserably in our thoughts, and in our attempts to worship thee we only profane the true and pure reverence of thy Divinity, and are easily drawn aside to depraved superstition, — Grant that we may remain in pure obedience to thy word, and never bend aside from it in any way. Instruct us by the unconquered fortitude of thy Spirit. May we never yield to any terrors or threats of man, but persevere in reverencing thy name even to the end. However the world may rage after its own diabolic errors, may we never turn out of the right path, but continue in the right course in which thou invitees us, until, after finishing our race, we arrive at that happy rest which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -131,7 +130,7 @@ And when they add — *God is sufficiently powerful to preserve us; and if not, 
 
 ## Prayer Lecture 14
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we see the impious carried away by their impure desires with so strong an impulse; and while they are so puffed up with arrogance, may we learn true humility, and so subject ourselves to thee that we may always depend upon thy word and always attend to thy instructions. When we have learned what worship pleases thee, may we constantly persist unto the end, and never be moved by any threats, or dangers, or violence, from our position, nor drawn aside from our course; but by persevering: obedience to thy word, may we shew our alacrity and obedience, until thou dost acknowledge us as thy sons, and we are gathered to that eternal inheritance which thou hast prepared for all members of Christ thy Son. — Amen.
 
@@ -179,7 +178,7 @@ Here Daniel relates how God’s power was manifest to the profane — to both th
 
 ## Prayer Lecture 15
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since our life is only for a moment, nay, is only vanity and smoke, that we may learn to cast all our care upon thee, and so to depend upon thee, as not to doubt time as our deliverer from all urgent perils, whenever it shall be to our advantage. Grant us also to learn to neglect and despise our lives, especially for the testimony of thy glory; and may we be prepared to depart as soon as thou callest us from this world. May the hope of eternal life be so fixed in our hearts, that we may willingly leave this world and aspire with all our mind towards that blessed eternity which thou hast testified to be laid up for us in heaven, through the gospel, and which thine only-begotten Son has procured for us through his blood. — Amen.
 
@@ -232,7 +231,7 @@ This seems to be of slight consequence; but yet it was not added in vain. We are
 
 ## Prayer Lecture 16
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast instructed us by the doctrine of thy law and Gospel, and dost daily deign to make known thy will to us with familiarity, that we may remain fixed in the true obedience of this teaching, in which thy perfect justice is manifested; and may we never be moved away from thy worship. May we be prepared, whatever happens, rather to undergo a hundred deaths than to turn aside from the profession of true piety, in which we know our safety to be laid up. And may we so glorify thy name as to be partakers of that glory which has been acquired for us through the blood of thine only-begotten Son. — Amen.
 

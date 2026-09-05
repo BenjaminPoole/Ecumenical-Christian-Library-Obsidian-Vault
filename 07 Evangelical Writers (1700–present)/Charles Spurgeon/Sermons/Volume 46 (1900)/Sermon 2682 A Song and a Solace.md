@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Song and a Solace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2682
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have granted me life and favor, and Your visitation has preserved my spirit And these things have You hid in Your heart: I know that this is with You." Job 10:12,13.
 
@@ -124,7 +121,6 @@ I pray that you, my dear Brothers and Sisters, may be stalwart Christians of thi
 Now I must leave these things with you. You who know and love the Lord will seek a renewal of His visitations tonight. But as for you who do not know Him, oh, how I wish that you did! Often as I come on this platform and look upon this throng of people, I would wonder why so many came if I did not know that the earnest, simple preaching of the Gospel will never fail to bring people together. But as you have come to hear the Gospel, I pray you also to receive it. Do not merely hear it, but acceptit. If there were diamonds to be given away, here, and I said that I would give them to everybody who was willing to have them, I am sure that you would not be content to hear me talking about their beauty, their facets, or their particular brilliance—but you would each one cry out, "Hand me one!" "Give me one!" "Pass me down one worth a hundred thousand pounds! I will be content with thatand you may leave off talking if you like!"
 
 I will leave off talking about Christ if you will take Him as your Savior. I shall not need to extol Him when you have once accepted Him, for you will find out His excellence for yourselves. The Scripture says, "Taste and see that the Lord is good." Oh, that you would all taste and see for yourselves! You would know His goodness far better from that taste and sight than you can ever know it from any human language, however earnest it may be! God bless you all, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2681 Covenant Blessings|← #2681]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2683 The Bitterness of the Cross|#2683 →]]

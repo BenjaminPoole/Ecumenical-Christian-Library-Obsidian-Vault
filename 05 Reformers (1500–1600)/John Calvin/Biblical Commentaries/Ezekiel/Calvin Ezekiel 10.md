@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Ezekiel 10:1
 
@@ -55,7 +54,7 @@ In this verse also the Prophet confirms the vision, because God always gave sign
 
 ## Prayer Lecture 25
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou now placest before our eyes proofs of thine anger, that we may not perversely provoke thy wrath, like thine ancient people; but rather, may we so profit by this teaching as to grow wise in time, and strive to be reconciled to thee, and to cast away all our depraved desires, until at length we shall be gathered unto that blessed rest which thine only-begotten Son has procured for us by his blood. — Amen.
 
@@ -129,7 +128,7 @@ The Prophet here confirms what he had said before, namely, that there was no int
 
 ## Prayer Lecture 26
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are the work and fashioning of thy hands, that we may know that we exist and move in thee alone, so that we may submit ourselves to thee, and not only may we be ruled by thy hidden providence, but may it so appear that we are obedient and submissive to thee, as becometh sons, that we may desire to glorify thy name in the world, until we arrive at the fruition of that blessed inheritance which is laid up for us in heaven, through Christ our Lord. — Amen.
 

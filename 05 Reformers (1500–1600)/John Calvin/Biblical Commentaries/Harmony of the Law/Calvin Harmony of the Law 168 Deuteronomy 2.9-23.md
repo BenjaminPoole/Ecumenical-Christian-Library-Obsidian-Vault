@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 168. Deuteronomy 2:9-23
-
-**Deuteronomy 2**
 
 **9.** And the Lord said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession.
 

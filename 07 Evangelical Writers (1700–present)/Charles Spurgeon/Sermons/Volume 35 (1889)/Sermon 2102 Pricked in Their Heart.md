@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Pricked in Their Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2102
@@ -121,8 +120,7 @@ May God write out this old, old story on your hearts! Oh, that he would issue a 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Acts 2:14-42.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’909, 279, 429.
-
+## Hymns from "Our Own Hymn Book"’909, 279, 429
 
 ---
 [[Sermon 2101 Life and Pardon|← #2101]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2103 The Hunger and Thirst Which Are Blessed|#2103 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 34. Letter XXXIII. To Sigismund (September 1, 1414)
-
-LETTER XXXIII. TO SIGISMUND (September 1, 1414)
 
 Hua informs Sigismund of what he has done; "Under the safe-conduct of your protection " Hus is not afraid of the Council; His troubles when cited to Rome; Prays for the King " . .143-5
 

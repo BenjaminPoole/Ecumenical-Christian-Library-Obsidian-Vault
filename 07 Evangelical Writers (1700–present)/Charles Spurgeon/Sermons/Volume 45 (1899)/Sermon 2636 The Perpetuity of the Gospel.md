@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Perpetuity of the Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2636
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Heaven and earth shall pass away, but My Words shall not pass away." Luke 21:33.
 
@@ -89,7 +86,7 @@ I came to Jesus Christ when I was 15 years of age and I wish I had come to Him 1
 
 Let me earnestly entreat you not to be looking out for some larger possible hope that may reach you after death. That is a terrible delusion! I pray you, risk not your soul upon it! Heaven and earth shall pass away, but Christ's Words shall not pass away and, as I have already reminded you, He has said, "He that believes not shall be damned." And so he will be and there is nothing but that awful doom for him. You have your choice. If you trust in Christ, you shall have eternal glory. If you will not have Christ as your Savior, you shall have everlasting punishment. There is no other hope for you. I pray God to lead you to come to Christ at once. Oh, that you would not hesitate, since He invites you! Oh, that you would not tarry, since that were to insult Him! May His blessed Spirit now compel you to come in, that the house of His mercy may be filled! All you have to do is to trust Him! You have not to be doers until frstyou have trusted to what He has done. Then He will make you doers! Come empty! Come sinful! Come hard-hearted! Come just as you are! Tarry not to cleanse or mend, but, just as you find yourself, rest on Jesus! Fall flat on His promise! Depend upon the merit of His blood and the power of His ever-living plea! God help you, now, to do this, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 20,21.
+## Exposition by C. H. Spurgeon: Psalms 20,21
 
 The 20th Psalm is a prayer for the King—not only for David or Solomon, but for "great David's greater Son"—the true King of the Church. As if the Church saw Jesus going forth to His work, she offers up a prayer for Him.
 
@@ -122,7 +119,6 @@ Psalm 21:1, 2. The king shall joy in Your strength, O LORD; andin Your salvation
 7\. 8. For the king trusts in the LORD, and through the mercy of the Most High he shall not be moved. Your hand shall find out all Your enemies. Oh, what a wonderful prophecy that is! Christ's hand shall find out all His enemies. If they hide themselves, He shall discover them. If they cover themselves with chain armor, yet still His hand will find out their vulnerable parts and touch their very souls until they melt with fear! "Your hand shall find out all Your enemies." Are there any of these enemies of Christ here, tonight? If so, not only will His eyes find them out, but His hands will find them out, too.
 
 8-13. Your right handshall find out those that hate You. You shallmake them as a fiery oven in the time of Your anger: the LORD shall swallow them up in His wrath, and the fire shall devour them. Their fruit shall You destroy from the earth, and their seed from among the children of men. For they intended evil against You: they imagined a mischievous device which they are not able to perform. Therefore shall You make them turn their back, when You shall make ready Your arrows upon Your strings against the face of them. Be you exalted, LORD, in Your own strength: so will we sing and praise Your power
-
 
 ---
 [[Sermon 2635 Depths and Heights|← #2635]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2637 The Place of Prayer and Pardon|#2637 →]]

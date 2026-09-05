@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # "I and the Children"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1194
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 20, 1874,.
+*Delivered on Lord's Day Morning, September 20, 1874*
 
 > "Behold, Iand the children whom the Lord has given me are for signs and for wonders in Israel from the Lord of Hosts, which dwells in Mount Zion." Isaiah 8:18.
 
@@ -140,7 +139,6 @@ Hold on, my Brothers and Sisters! And hold out to the end! Be humble and quietly
 Then, again, there will be persecution, but it will only blow away the chaff and leave the pure wheat! The world likes us better because we like the world better—it calls us friends because we hide our colors and sheathe our swords and play the coward. But if we preach and live the Gospel in the old Apostolic way, we shall soon have the devil roaring round the camp and the seed of the serpent hissing on all sides! But we fear not, for "the Lord of Hosts is with us; the God of Jacob is our refuge."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 8:11-22; 9:1-7. HYMNS FROM "OUR OWN HYMN BOOK"—PSALM 116 (SONG II) 255, 342.
-
 
 ---
 [[Sermon 1193 Girding on the Harness|← #1193]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1195 Abundant Pardon|#1195 →]]

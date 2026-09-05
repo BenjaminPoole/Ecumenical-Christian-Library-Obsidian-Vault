@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Waiting, Hoping, Watching
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2579
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I wait for the LORRD, my soul does wait, and in His Word do I hope, My soul waits for the Lordmore than they who watch for the morning—yes, more than they who watch for the morning." Psalm 130:5, 6.
 
@@ -99,7 +96,7 @@ And all the clusters grow."
 
 We wait for Him "more than they who watch for the morning; I say, more than they who watch for the morning." Never did bride expect her marriage day as the true saint expects his Lord! Never did woman in travail long to behold her child as they who watch for their Lord and long for His appearing! Never did prisoner, pining in the dungeon till the rust ate into his soul, pine for liberty as saints pine for their Lord! This is the right posture for the whole Church—and for each individual Christian—waiting, hoping, watching till He appears who is their Husband, Savior, Friend and All-in-All! God bless you, dear Friends, and keep you thus watching, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM130.
+## Exposition by C. H. Spurgeon: Psalm 130
 
 I will first read the Psalm through and, afterwards, say a few words by way of exposition. Verses 1-8. Out of the depths have I cried unto You, O LORD. Lord, hear my voice: let Your ears be attentive to the voice of my supplications. If You Lord, should mark iniquities, O Lord, who shall stand? But there is forgiveness with
 
@@ -124,7 +121,6 @@ And now, having put up his petition, notice his confession—"If You, Jehovah, s
 "For with Jehovah there is mercy." Believe that, O seeking sinner! "With Jehovah there is mercy." Believe this, O backslider! "With Jehovah there is mercy." Believe this, downcast child of God! "And with Him is plenteous redemption." There is enough for you and there is enough for all who come to Him! There is not a slave of sin whom God cannot redeem, for "with Him is plenteous redemption."
 
 "And He shall redeem." There is the comfort of it—He not only has the redemption, but He will make use of it. "He shall redeem Israel"—the whole of His Israel, all His people—"He shall redeem Israel from all his iniquities." Oh, come to Him, then, with all your iniquities, and pray to be redeemed from them! And as surely as Jehovah lives, He will fulfill this promise and redeem you from all your iniquities!
-
 
 ---
 [[Sermon 2578 Refusing to Be Comforted|← #2578]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2580 Partnership With Christ|#2580 →]]

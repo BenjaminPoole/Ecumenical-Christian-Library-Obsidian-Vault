@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Curse Removed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3254
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Christ has redeemed us from the curse of the Law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree." Galatians 3:13.
 
@@ -116,7 +113,6 @@ Have I one here who is saying, "What must I do to be saved, for I feel myself co
 I never had a better idea of believing in Jesus then I once had from a poor countryman. I may have mentioned this before, but it struck me very forcibly at the time and I cannot help repeating it. Speaking about faith, he said, "The old enemy has been troubling me very much lately, but I told him that he must not say anything to me about my sins—he must go to my Master, for I had transferred the whole concern to Him—bad debts and all." That is believing in Jesus! Believing is giving up all we have to Christ and taking all that Christ has to ourselves! It is changing houses with Christ, changing clothes with Christ, changing our unrighteousness for His righteousness, changing our sins for His merits. Execute the transfer, Sinner, or rather, may God's Grace execute it and give you faith in it! And then the Law will no longer be your condemnation, but it shall acquit you! May Christ add His blessing! May the Holy Spirit rest upon us and may we all at last meet in Heaven! Then will we sing "to the praise of the
 
 Glory of His Grace, wherein He has made us accepted in the Beloved."
-
 
 ---
 [[Sermon 3253 Faith Hand in Hand With Fear|← #3253]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3255 The Pearl of Patience|#3255 →]]

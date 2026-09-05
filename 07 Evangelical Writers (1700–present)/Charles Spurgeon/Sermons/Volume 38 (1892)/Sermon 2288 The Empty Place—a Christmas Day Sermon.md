@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # The Empty Place—a Christmas Day Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2288
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David's place was empty." 1 Samuel 20:25.
 
@@ -49,7 +46,7 @@ Oh, what a gap God sometimes makes in the devil's army when He takes one of his 
 
 III. Now I shall speak of other empty places which are better than those I have mentioned. During the past year it has happened several times, to some of us, that David's place has been empty. I mean that, for a time, THE PLACE OF OUR
 
-OCCUPATION HAS BEEN EMPTY.
+## Occupation Has Been Empty
 
 Perhaps some of you have not had a single hour's sickness during the past year. I will remind you of your mercies that you may be very grateful to God for them. Some of us have had days, some have had weeks, and some have had even months when David's place was empty. Not long at a time, perhaps, but usually some time or other during the year, this pulpit has had to be empty, so far as the regular preacher was concerned. Infirmities lay aside the preacher, for a while, at any rate, and with many here there comes, every now and then, a season when they have to be away from the chapel, and from the business, and from the family circle. And there is extra watchfulness in the household and there is special care,
 
@@ -87,7 +84,7 @@ If we slacken prayer, we shall condemn ourselves! We have proved, not by hearsay
 
 VI. There is another David's place that is sometimes empty and that ought not to be so. IT IS THE PLACE OF
 
-CHRISTIAN SERVICE.
+## Christian Service
 
 My dear Brothers and Sisters, our gifts are various. God has been pleased to place us in different positions and to give us different talents. But every saved man or woman has some work to do for Christ. Are we doing that work? There is our Sunday school. It troubles me if I ever know that teachers are needed there. There are many other schools where members of this Church are occupied as teachers. We are supplying, I might say without any exaggeration, half the Sunday school teachers of half the denominations in the district, for I have always said to you, "Go anywhere that you can find an opportunity of doing good—never mind where it is. If you have ability to teach, go and teach in anybody's school where your services are needed." Yet there are some among us who hide their talents in a napkin and do not use them—and, as a consequence—there is some David's place empty.
 
@@ -117,7 +114,7 @@ Beloved, if you are a believer in Christ, if you are the poorest saint and the l
 
 Press onward, my Brothers and Sisters, go on bravely! If the darkness thickens and the dangers multiply, Christ is your life, and you cannot die! The everlasting wings shall cover you and the everlasting arms shall be underneath you. You shall meet us in the place where all the family shall be present and the great Father and the elder Brother shall welcome them all, and no, "David's place" shall be empty! May I be there, may we all be there—and God shall have the praise! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON PSALM103.
+## Exposition by C. H. Spurgeon Psalm 103
 
 Let us read, dear Friends, the 103rd Psalm, not because we do not know it, but because I trust that we know it by heart, and feel that it is a fit expression for our heart's thankfulness on this last Sabbath evening of another year.
 
@@ -168,7 +165,6 @@ Verse 1. Bless the LORD, O my soul. He has been blessing you; now begin you to b
 20-22. Bless the LORD, you His angels, that excel in strength, that do His Commandments, hearkening unto the voice of His Word. Bless you the LORD, all you His hosts; you ministers of His, that do His pleasure. Bless the LORD, all His works in all places of His dominion: bless the LORD, O my soul. I think, before we pray, we must bless and magnify the Lord by singing Milton's version of Psalm 136—
 
 "Let us with a gladsome mind, Praise the Lord, for He is kind: For His mercies shall endure, Ever faithful, ever sure."
-
 
 ---
 [[Sermon 2287 If There Is No Resurrection|← #2287]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]]

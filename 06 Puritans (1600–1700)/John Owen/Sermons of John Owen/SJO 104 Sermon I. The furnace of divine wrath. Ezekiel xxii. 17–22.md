@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon I. The furnace of divine wrath. Ezekiel xxii. 17–22
-
-## Sermon I. The furnace of divine wrath.
 
 “And the word of the Lord came unto me, saying, Son of man, the house of Israel is to me become dross: all they are brass, and tin, and iron, and lead, in the midst of the furnace; they are even the dross of silver. Therefore thus saith the Lord God; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem. As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you. Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof. As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the Lord have poured out my fury upon you.” — Ezek. xxii. 17–22.
 
@@ -59,7 +56,6 @@ Lastly, Who knows but that God may yet, by prayer, by the preaching of the word,
 And, then, tremble to think that there seems to me no dispensation remaining but the oven, but that which shall consume, and leave neither root nor branch.
 
 The substance of all is, brethren, that there is a woful and a wicked corruption and profaneness of life grown upon the generality of the nation, — that there is such an adherence to the world and the ways of the world among professors, that former means have not separated them from the world (for this separation from the world in outward worship, if it be all, signifies nothing), — that we seem all to be ready, unless God relieve in infinite mercy, to be brought into the same furnace; which is under a testimony of God’s displeasure: ‘Ye shall know that I have done it in anger, when I have brought you into the same furnace.’ It is a great pledge of God’s displeasure with us. Yet there is left room for faith and prayer to plead with God in all the particulars mentioned; — to deliver us from the hands of blood-thirsty men; to divert the judgment (‘I repented me of the evil,’ saith God); yea, to remove the furnace; yea, to make us meet for the fining-pot, or, however, to enjoy the lamp when we are in the furnace, — to enjoy light, direction, guidance, when we are in all confusion of darkness and in the smoking of the furnace.
-
 
 ---
 [[SJO 103 Prefatory note|← Prefatory note]] · [[Sermons of John Owen|Contents]] · [[SJO 105 Sermon II. The wisdom of making the Lord our refuge. Psalm xiv 6|Sermon II. The wisdom of making the Lord our refuge. Psalm xiv 6 →]]

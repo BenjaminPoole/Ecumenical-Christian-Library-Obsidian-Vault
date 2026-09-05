@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Athens
 
-Chapter IX · *The Upper Room* — J. C. Ryle
+## Chapter IX · *The Upper Room* — J. C. Ryle
 
 > — Acts 17:16-17[^1]
 
@@ -158,7 +157,6 @@ Reader, be of good courage, and never give way to the despairing thought that it
 Remember these things, and be of good cheer. Your lot may be cast in a city like Athens, "wholly given to idolatry." You may have to stand alone in the bank, the counting-house, the place of business, or the shop.
 
 But you are not really alone, if Christ is with you. Be strong in the Lord, and in the power of His might. Be bold, thorough, decided, and patient. The day will come when you will find that even hi a great city a man may be a happy, useful Christian, respected while he lives, and honoured when he dies.
-
 
 ---
 [[UR 08 Victory|← Victory]] · [[The Upper Room|Upper Room Contents]] · [[UR 10 Portraits|Portraits →]]

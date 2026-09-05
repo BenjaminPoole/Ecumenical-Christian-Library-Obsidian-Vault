@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Ephesians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Ephesians 4:1-6
 

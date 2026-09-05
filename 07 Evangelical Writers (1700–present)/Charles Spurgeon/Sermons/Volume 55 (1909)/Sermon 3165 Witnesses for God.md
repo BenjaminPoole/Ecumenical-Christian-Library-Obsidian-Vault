@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Witnesses for God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3165
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You are My witnesses, says the Lord." Isaiah 43:10.
 
@@ -111,7 +108,7 @@ Oh, those sweet testimonies of the dying, how we store them up! Children talk of
 
 Alas, I recollect as I finish that some of you are not witnesses for God, for you know nothing about Him! Remember, if you are not witnesses for God, you will be prisoners at His bar and you must either occupy the witness box for God, or else take the prisoner's place—to be tried and found guilty! Oh, Sinners, I wish you would try our God, whose witnesses we are! If we had found Him untrue, we would tell you! If we had found that Christ could not save, we would tell you. If we had found that God could not pardon, we would tell you! If religion made us miserable, we would tell you, or you would find it out! If God could not be trusted in Providence and did not hear prayer, we would tell you, for we hope we would not maintain a lie! But we have no such disclosures to make! We bear our willing testimony for God! Remember, it is written, "Him that comes to Me, I will in nowise cast out." Go and test the veracity of that promise and God bless you, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CHRONICLES 21:1-8.
+## Exposition by C. H. Spurgeon: 1 Chronicles 21:1-8
 
 Verse 1. And Satan stood up against Israel, andprovoked David to number Israel Israel had greatly offended and grieved God, and it was to be punished. God punished one sin by another—the sin of David works for the chastisement of a sinful people.
 
@@ -124,7 +121,6 @@ their King—David was but the Viceroy—and when he began to count them as thou
 4-6. Nevertheless the king's word prevailed against Joab. Therefore Joab departed and went throughout all Israel, and came to Jerusalem. And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword; and Judah was four hundred threescore and ten thousand men that drew sword. But Levi and Benjamin counted he not among them: for the king's word was abominable to Joab. So he did no more of it than he could possibly help.
 
 7, 8. And God was displeased with this thing; therefore He smote Israel And David cried unto God, I have sinned greatly, because Ihave done this thing: but nowIbeseech You, do away the iniquity of Your servant; for Ihave done very foolishly. We read that David's heart smote him. Although he had gone wrong, he was, nevertheless, a good man, and when an ambitious man sins, it is a great sin, but it is not long that he continues in it—his conscience is awakened—the Spirit of God is in him. David's heart smote him. That is a terrible blow when your own heart smites you! If you never feel any other person smiting you, you will feel that.
-
 
 ---
 [[Sermon 3164 The Mission of Affliction|← #3164]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3166 'A Greater Than Solomon'|#3166 →]]

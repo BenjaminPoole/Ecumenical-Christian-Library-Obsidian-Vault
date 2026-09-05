@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Lamb In Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2095
 
-DELIVERED ON LORD'S DAY MORNING, JULY 14, 1889,.
+*Delivered on Lord's Day Morning, July 14, 1889*
 
 > "And I beheld and, lo, in the midst of the Throne and of the four living creatures and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth. And He came and took the book out of the right hand of Him that sat upon the Throne." Revelation 5:6, 7.
 
@@ -186,7 +185,6 @@ You soldiers of the Cross! Lift high His royal banner, It must not suffer loss!"
 Wherever you are, to whatever Church you belong, do not associate with those who decry the atonement. Enter not into confederacy with those who, even by a breath, would disparage His precious blood. Do not bear that which assails the Lamb—grow indignant at the foul lie! The wrath of the Lamb may with safety be copied by yourself in this case—you will be angry and sin not. Once more, if this is so, if the glorious sacrifice of our Lord Jesus is so much thought of in Heaven, cannot you trust it here below? O you that are burdened with sin, here is your Deliverance—come to the sin-bearing Lamb. You that are perplexed with doubts, here is your Guide—the Lamb can open the sealed books for you. You that have lost your comfort, come back to the Lamb, who is slain for you and put your trust in Him anew. You that are hungering for heavenly food, come to the Lamb, for He shall feed you.
 
 The Lamb, the Lamb, the bleeding Lamb—be this the sign upon the standard of the Church of God. Set that ensign to the front and march boldly on to victory and then, O Lamb of God, that takes away the sin of the world, grant us Your peace! Amen.
-
 
 ---
 [[Sermon 2094 Foundation Work|← #2094]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2096 The Marriage of the Lamb|#2096 →]]

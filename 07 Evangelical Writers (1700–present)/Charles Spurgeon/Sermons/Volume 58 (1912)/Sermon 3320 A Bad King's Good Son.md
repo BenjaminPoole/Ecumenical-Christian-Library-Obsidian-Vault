@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Bad King's Good Son
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3320
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam." 1 Kings 14:13.
 
@@ -25,7 +22,7 @@ WE must take the text, of course, with definite and full reference to its histor
 
 We shall make several remarks upon this text, perhaps too numerous to call them divisions as a discourse, but they will be illustrations drawn from the narrative before us. The first remark we shall make is this—
 
-I. GOD'S ELECTING LOVE SOMETIMES HAS THE OBJECTS OF ITS CHOICE IN STRANGE PLACES.
+## I. God's Electing Love Sometimes Has the Objects of Its Choice in Strange Places
 
 Of all the houses of Israel, the palace of Tirzah was, surely, the last place one would think in which to look for a worshiper of the true God! The father of the family was a great sinner. He had set up gods of gold and said, "These are your gods, O Israel." Though much distinguished by God's Providential goodness and lifted up from the rank of an officer to that of a monarch, he forgot the God in whose sunshine he had flourished and must make the men of Israel bow down before an ox that eats grass! There could be in his palace no toleration for anything like true religion. There must have been a total neglect of all the hallowed engagements of the Sabbath and of everything else that looked like reverence to the unseen, but almighty God of Israel! And yet God's Sovereign, electing Love was bestowed upon a child of this wicked and rebellious Jeroboam, the son of Nebat, who made Israel to sin! God's everlasting mercy had designed that there should be a break in the line of sin and that there should be at least one who should be found among the choristers of Glory who had been nursed and nurtured among the degraded worship of calves!
 
@@ -45,7 +42,7 @@ My dear Brothers and Sisters in Christ, there seems much comfort in this little 
 
 We shall now turn to a second remark, namely, that according to the text—
 
-II. IT IS NOT ALWAYS, OR EVEN COMMONLY, THAT SOME GOOD THING TOWARDS THE LORD GOD OF ISRAEL IS FOUND IN THE MINDS AND HEARTS OF CHILDREN.
+## II. It Is Not Always, or Even Commonly, that Some Good Thing Towards the Lord God of Israel Is Found in the Minds and Hearts of Children
 
 It is mentioned, you observe, that in this child alone of all the race there was found some good thing toward the Lord God of Israel. It has grown to be a common notion that there is a very great deal that is good in children—and this by unaided nature. Well, there are many traits in the character of childhood, as childhood, which are very beautiful and naturally and, according to the judgment of the natural man there is much about a child to be admired and imitated. But indulge no idea, parents, that your child is born with a perfectly balanced mind! Do not fall into the delusion that your infant will naturally choose the right and abhor the wrong, for before many days are past it is probable, if you are at all a watchful parent, that the delusion will be dispelled! You will discover, either in stubbornness, or in temper, or as soon as speech comes in, a constant tendency to untruthfulness and disobedience, or other forms of little childish sins that will prove the heart of the child to be far other than the sheet of white, unsoiled paper which some like to represent it to be! Alas, long before we can write upon it, the pen of evil tendency has traced lines on it which only the Grace of God will ever be able to erase! Cowper sings—
 
@@ -73,7 +70,7 @@ If I might venture to do it, I would say to our elder Brothers and Sisters—Do 
 
 We will now go a step further and remark—
 
-IV. THAT A TRULY GOOD THING, IN THE DIVINE SENSE, IS ALWAYS TOWARDS THE LORD.
+## IV. That a Truly Good Thing, in the Divine Sense, Is Always Towards the Lord
 
 This is the tendency and the strong direction of the current. You observe it says not merely that "there is found some good thing," but, "some good things toward the Lord God of Israel" Here, then, is a test by which we may try religion, both in the old and in the young! There are many men who have some good thing in them politically. I can admire the man who stands up for the Constitution and who, although he may be called one of the stupid party, yet really believing that it is necessary that things should stand forever where they now are, can readily encounter disgrace for the matter. I can admire even more and with greater intensity the man who goes ahead and who desires to change everything that is wrong, even though it is venerable with years! I can admire him standing in the midst of storm and quietly enduring it, bearing all manner of rebuke for the sake of reform. Yet I can quite imagine all this existing without any "good thing toward the Lord God of Israel." Though one appreciates all this, yet he is compelled to lament if there is not something more. In daily life it is a noble thing to see some good thing in business. There are some of you who would as soon bleed to death as cheat others—to whom it would be the most tremendous misfortune to know deep poverty—but who would sooner be beggars than bankrupt, if bankruptcy meant in your case what it often means today! Now, I can admire this fine noble honesty.
 
@@ -83,7 +80,7 @@ You expect when you have been kind to the poor that they will acknowledge your k
 
 We must not tarry, but advance a step farther and say—
 
-V. THAT WHERE THERE IS THIS GOOD THING TOWARD THE LORD GOD OF ISRAEL, GOD ALWAYS SEES IT.
+## V. That Where There Is This Good Thing Toward the Lord God of Israel, God Always Sees It
 
 You will notice the text says, "There is found some good thing." The original Hebrew word used here means sometimes—a thing found without looking for it. But it sometimes means a thing found after long and loving search. And again, it also signifies a thing found after thorough enquiry to be more efficient and adequate—a thing which has been tested and found to endure. Now, wherever there is anything like a good thing toward the Lord God of Israel, God sees it, finds it out, tests it, finds it sufficient and accepts it because of the Savior!
 
@@ -123,7 +120,7 @@ Now, that is a very good illustration of what believing in Jesus Christ is, only
 
 Israel—and then I think the mention of the little dead Ahijah, though it may have been painful, will have been made a blessing! God grant that it may be so!
 
-EXPOSITION BY C. H. SPURGEON: 2 KINGS20:1-7.
+## Exposition by C. H. Spurgeon: 2 Kings 20:1-7
 
 Verse 1. In those days was Hezekiah sick unto death. And the Prophet Isaiah, the son of Amoz, came to him and said unto him, Thus says the LORD, Set your house in order; for you shall die, and not live. That is to say, in the common course of Providence, without a miracle, Hezekiah must die. God did by no means change when afterwards He permitted him to live. This time He spoke after the order of Nature—the next time He spoke according to the extraordinary work of His marvelous power.
 
@@ -136,7 +133,6 @@ Verse 1. In those days was Hezekiah sick unto death. And the Prophet Isaiah, the
 4-7. And it came to pass, before Isaiah was gone out into the middle court, that the Word of the LORD came to him, saying, Turn again, and tell Hezekiah, the captain of My people, Thus says the LORD, the God of David, your father, I have heard your prayer, I have seen your tears: behold, I will heal you: on the third day you shall go up unto the house of the LORD. And I will add unto your days fifteen years, and I will deliver you and this city out of the hand of the king of Assyria; and I will defend this city for My own sake, and for My servant David's sake. And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered. This, of course, was not a sufficient means to cure the boil, but God made the means efficacious. Why were the means used? Why, to teach us that we are to expect God's blessing, not in neglecting means, but in using them! See how simple was the remedy—just a thick poultice of figs laid on the wound! Perhaps the physicians had tried expensive medicines without avail. What a mercy it is for us that the good medicine of the Gospel is as cheap as it is good, that it is to be had for nothing! While some ransack the world for expensive ceremonies and for gaudy shows, we have Christ, like the lump of figs, ready to heal the wound and make us strong again!
 
 Again I say Hezekiah was a man of like passions with us—and he prayed earnestly that his life might be spared and God delivered him from the jaws of death. Let us, therefore, not be afraid to pray!
-
 
 ---
 [[Sermon 3319 The Well-beloved's Vineyard|← #3319]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3321 God in Heaven, and Men on the Sea|#3321 →]]

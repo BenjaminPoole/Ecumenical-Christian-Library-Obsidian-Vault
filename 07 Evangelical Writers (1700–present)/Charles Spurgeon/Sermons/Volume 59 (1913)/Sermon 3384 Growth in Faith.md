@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Growth in Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3384
 
-DELIVERED BY C. H, SPURGEON,.
+*Delivered by C. H, Spurgeon*
 
 > "The Apostles said unto the Lord, Increase our faith." Luke 17:5.
 
@@ -27,7 +26,7 @@ The Apostles said it and the Apostles said it to Jesus. They went to the Strong 
 
 Now, I shall need your attention at this time to five or six observations about faith as a growing thing. The first observation is this—
 
-I. THE TEXT THROWS A LITTLE LIGHT UPON WHAT FAITH IS.
+## I. The Text Throws a Little Light upon What Faith Is
 
 This is not altogether a dark subject, but still it is one upon which there has been a great deal of controversy. You are aware, perhaps, that in the first flush of the Reformation it was asserted by most Divines that saving faith was full assurance, or, at the least, that full assurance of salvation and of a personal interest in Christ entered into the essence of saving faith—and this has been maintained by a very large number of Divines and is still maintainedby many Christians that to personallybelieve that Christ died for me is saving faith.
 
@@ -81,7 +80,7 @@ Strong faith is also very necessary to our usefulness. If we go to our work timi
 
 Brothers and Sisters, I cannot now speak to you at length upon a topic so important, but I leave it with you, being assured that you cannot think too much of it. To have your faith growing exceedingly is desirable above all things. Seek for it, I pray you, and may the Lord grant it to you according to His fullness of mercy. But now let us ponder the joyous truth, that—
 
-IV. GROWTH IN FAITH IS OBTAINABLE.
+## IV. Growth in Faith Is Obtainable
 
 The Apostles would not have asked for it, would not have been allowed to ask for it, if it had not been possible to receive it! They did ask for it, they did receive it and, therefore, you and I may ask for it and receive it. They exhort us to obtain it—at least they practically do so by their example—therefore we may obtain it. It is always a sad thing and greatly depressing to Christian growth when you picture in your mind's eye great and eminent saints as being far above anything that you can ever be. Brothers and Sisters, let me beseech you, when you read the life of such a man as Dr. Pay-son, do not say, "He is such a spiritually-minded man! I shall never be like he!" You shallbe like he by God's Grace! When you turn to the life of Whitfield, young man who is about to enter the Christian ministry, let not the Evil Spirit say, "You cannot be so devoted and so seraphic in earnestness as he was." Why not? Where Whitfield fell short of being perfect, you fall short with him and you will be short, indeed—but why not be as he? The same Master who made him has also put you upon the wheel. The same Spirit who kept him fervent and faithful has promised to dwell in you! Why should not the same results be produced? I know that you sometimes look up to those who are more advanced in the Divine Life than you are. You who have lately been united to the Christian Church envy them—you do not think that you can ever reach their standard. Ah, Beloved, be it your prayer to reach the best in the Church, that if it is the Lord's will, you may feel yourselves to be less than they are and yet to be in reality far fuller of God's Grace and love, and every good thing than any of them! Aspire, my Brothers and Sisters—do not despair, but aspirefor God's Glory, to prove to this
 
@@ -91,7 +90,7 @@ I know that the enemy will tell you that you are placed in a position where you 
 
 It is not where you are, but whatyou are. And it is not how you are seen, but how you live in the sight of God. That is the thing that matters! Ah, dear Friends, it is possible that in the sphere where you are, to excel as much in faith as Paul did when preaching at Athens! Or Peter, standing in the midst of Jerusalem before the Parthians, Medes and Ela-mites! Let nothing deter you. Believe that you would not be taught to pray, "Lord, increase our faith," if God would not answer the prayer—and that He will answer it and give you the highest faith that ever man had—even you, so that on the sickbed, or in the midst of poverty you may be as illustrious an example of faith as the best known Believer who has ever adorned the annals of the Church. But to proceed—as this growth in faith is obtainable, so, in the next place—
 
-V. THERE IS A PROPER MEANS FOR OBTAINING IT.
+## V. There Is a Proper Means for Obtaining It
 
 If I might advise you, the first means I would lay down for making faith grow would be that which the Apostles adopted, namely, prayer They said, "Lord, increase our faith." Pray much that your faith may grow. Oh, I am afraid in this naughty age in which we are so busy with a thousand cares, that we are only too deficient at the Mercy Seat and this accounts for the fact that there is so much superficial religion among us. If you would learn to believe God's promises, go with the promises to God and see them in the light of His Countenance! Plead them with solemn earnestness, not wavering before the Mercy Seat till you have a comfortable assurance that God will be to you what He has said. Let us have more prayer and there will be more faith!
 
@@ -107,11 +106,11 @@ Remember, however, that the only real mode of growth in faith is by the power of
 
 Faith, then, is a growing thing. We ought to desire to have it grow. It can grow and I have told you some of the means by which it may grow. And now two or three minutes upon—
 
-VI. THE WAYS IN WHICH YOU CAN HINDER ITS GROWTH.
+## VI. The Ways in Which You Can Hinder Its Growth
 
 I say only two or three minutes, though it is a very large subject. You can very easily hinder your growth in faith. You can do it by neglecting faith, by letting your Bible grow dusty, by leaving a ministry which is edifying, by despising the Holy Spirit. You can do it by not exercising what you already have. You cannot lose your faith if it is true faith, but you can lose much of its comparative power by worldly-mindedness, by giving yourselves up to covetousness, by forsaking the assembling of yourselves together, as is the manner of some—by falling into sin, by tampering with the flesh, by indulging in vanity—by anything which will grieve the Holy Spirit! You may also weaken your faith by dwelling far from the sun. Dwellers in lands of snow and ice soon grow cold, and so may it be with us by living far from God and the Sun of Righteousness. As by refraining from meat a man may soon grow weak, so by abstaining from spiritual food and soul nourishing, our faith will soon decay. As a long drought quickly makes the flowers of the garden to droop their heads, so if there is a drought of Divine influence upon you, very soon your faith will begin to wither. By living, however, close to God and simply looking up to Him for everything, your faith my continue to grow until it gets to be the full assurance of faith and, like Abraham, you are "strong in faith, giving glory to God." And here I shall close by saying, let it be one of the resolute pursuits of our life, that being saved we may—
 
-VII. SEEK AFTER THE HIGHEST DEGREE OF GRACE THAT IS OBTAINABLE.
+## VII. Seek After the Highest Degree of Grace that Is Obtainable
 
 I have heard of a good woman—a widow—who was once in great trouble when visited by her pastor, but on a second visit she was found to be very happy. "What has happened?" enquired her pastor. "What has made you so cheerful?" She said, "I have been reading that precious word, 'Your Maker is your Husband.'" "How has that comforted you?" he said. "Why," she answered, "when my husband was alive, I always lived up to his income. But now that my Maker is my Husband, I will try to live up to His income and oh, what a task I have got before me if I am to live up to the income of God that has no bounds and no limits and knows of no such thing as exhaustion! If I may draw upon Him to the utmost extent of His income, how richly I may live!"
 
@@ -124,7 +123,6 @@ What? You have forgotten to trust in Jesus? You have thought that something else
 You must have nothing but the Lord Jesus Christ! And if you do this night depend upon Him, why, my dear Friend, your sins are all forgiven! Just what Christ said to the poor grateful leper, I say to you in Christ's name—if you really do depend upon Him—"Your faith has saved you. Go in peace!" Though your past life may have been ever so vile and you have come in here without God and without hope, yet if you now believe in Jesus Christ and rely alone upon Him, none of your sins shall be mentioned against you any more forever. "I have blotted out your sins like a cloud and, like a thick cloud, your transgressions."
 
 May you have faith given you tonight and then another day, after you have faith, may you pray, "Lord, increase my faith." That is not your prayer tonight—be thankful if you have any faith at all! But you who have faith tonight, pray tonight, and pray always, "Lord increase our faith."
-
 
 ---
 [[Sermon 3383 The Plowman|← #3383]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3385 The Savior's Thirst|#3385 →]]

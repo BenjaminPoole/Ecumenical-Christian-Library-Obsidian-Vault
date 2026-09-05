@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 53. Letter LII. To the Same (March 24, 1415)
-
-LETTER LII. TO THE SAME (March 24, 1415)
 
 Gaolers are fled ; Nothing to eat ; Make haste and see Sigismund ; The designs of Constance ; Procure guards from the King 201
 
 CONTENTS xxv
 
-PAET VI
+## Paet VI
 
-LETTERS WRITTEN FROM THE FRANCISCAN FRIARY
+## Letters Written from the Franciscan Friary
 
 THE BISHOP OP CONSTANCE AND Hus ; REMOVED TO GOTTLIEBEN ; THE MONTHS OF SILENCE; A PAPAL FELLOW-PRISONER; CONTRAST OF JOHN XXIII. AND Hcs ; A NEW COMMISSION ; WYCLIF CONDEMNED ; His BONES TO BE BURNT ; THE CZECH EFFORTS TO SAVE Hus ; BISHOP SUP-WITH-THE-DEVIL ; A PUBLIC AUDIENCE GRANTED; Hus BROUGHT BACK TO CON STANCE ; CORRESPONDENCE RECOMMENCED 202-5
 

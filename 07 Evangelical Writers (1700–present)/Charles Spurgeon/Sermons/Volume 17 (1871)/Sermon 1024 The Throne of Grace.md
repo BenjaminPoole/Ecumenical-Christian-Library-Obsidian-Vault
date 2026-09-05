@@ -13,7 +13,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/17
 ---
-
 # The Throne of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1024
@@ -122,8 +121,7 @@ As I have trodden the Appian way I have rejoiced that Jesus, whom Paul preached,
 
 Yours, for Jesus’ sake,
 
-C.H. SPURGEON.
-
+## C.h. Spurgeon
 
 ---
 [[Sermon 1023 Praises and Vows Accepted in Zion|← #1023]] · [[Volume 17 (1871)|Volume 17 (1871) Contents]] · [[Sermon 1025 A Visit to the Harvest Field|#1025 →]]

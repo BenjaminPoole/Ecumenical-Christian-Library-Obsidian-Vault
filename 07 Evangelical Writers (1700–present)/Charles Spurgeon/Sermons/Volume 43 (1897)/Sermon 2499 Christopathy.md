@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Christopathy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2499
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "With His stripes we are healed." Isaiah 53:5.
 
@@ -91,7 +88,7 @@ When Christ heals, you know, people do not get the sickness again. His cures are
 
 This is not a temporary remedy—it is a medicine which, when it once gets into the soul, breeds therein health that shall make that soul perfectly whole, so that at last, among the holy ones before the Throne of God on high, that man shall sing with all his fellows—"With His stripes we are healed." Glory be to the bleeding Christ! All honor, majesty, dominion and praise be unto Him forever and ever!" And let all the healed ones say, "Amen, and Amen."
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH53.
+## Exposition by C. H. Spurgeon: Isaiah 53
 
 We will read, this evening, the 53rd Chapter of "the Gospel according to Isaiah," as we may very properly call it.
 
@@ -132,7 +129,6 @@ Verse 1. Who has believed our report? All the Prophets reported that which had b
 12\. Therefore will I divide Him aportion with the great That is His Father's gift.
 
 12\. And He shall divide the spoil with the strong. That is the result of His own conquest. 12. Because He has poured out His soul unto death, and He was numbered with the transgressors, and He bore the sin of many, and made intercession for the transgressors. Forever blessed be His dear name! Amen.
-
 
 ---
 [[Sermon 2498 A Portrait No Artist Can Paint|← #2498]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2500 Number 2500—or, Entrance and Exclusion|#2500 →]]

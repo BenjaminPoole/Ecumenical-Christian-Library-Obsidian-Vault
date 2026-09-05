@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Peter 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## 2 Peter 3:1-4
 
@@ -141,7 +140,7 @@ The word *grace,* I take in a general sense, as meaning those spiritual gifts we
 
 *To him be glory.* This is a remarkable passage to prove the divinity of Christ; for what is said cannot belong to any but to God alone. The adverb of the present time, now, is designed for this end, that we may not rob Christ of his glory, during our warfare in the world. He then adds, *for ever,* that we may now form some idea of his eternal kingdom, which will make known to us his full and perfect glory.
 
-**END OF THE SECOND EPISTLE OF PETER**
+## **End of the Second Epistle of Peter**
 
 ---
 [[Calvin 2 Peter 2|← 2 Peter 2]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/2 Peter/2-peter-index|Contents]]

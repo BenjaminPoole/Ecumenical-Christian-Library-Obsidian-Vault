@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # An Old-fashioned Remedy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2921
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He sent His Word and healed them." Psalm 107:20.
 
@@ -45,7 +42,7 @@ There is one hopeful mark about this sick man and that is that he has begun to p
 
 Well, those few touches may suffice. An artist sometimes sketches a likeness with a piece of charcoal. So have I sketched my patient in words few and simple. I am now going to take a longer time to describe the healing in its wonderful simplicity. "He sent His Word and healed them."
 
-II. THE CURE IN ITS SIMPLICITY.
+## II. The Cure in Its Simplicity
 
 When a physician meets with a very bad case—a case in dire extremity—it will sometimes happen with him that he has to think awhile. Perhaps he has to resort to his books of medicine or to his diary of former cases, or to hold a consultation with another physician before he will venture to prescribe, for something unknown is needed in this unusual disease. But I want you to observe that though the case represented in the Psalm was a very bad one, there was no new thing needed to meet it. The old remedy would suffice. All that the Infinite Lord had to do was to send His Word and heal them! It was the old healing Word of God that had healed many a fool before and could still heal fools—the old healing word that had brought back many from between the very gates of death! Nothing more was needed in order to bring back these who were in such a dreadful condition. For the healing of the souls sick with sin and sick of it, I have no new Gospel to preach nor any new thing to say. Thank God, the old, old Gospel meets every case! New developments of
 
@@ -107,7 +104,7 @@ Do you trust yourself to Him now, whether you sink or swim? Do you trust yoursel
 
 Oh, are you sick? Christ is a Physician on purpose for the sick! Are you crying? Christ is One who always comes at the cry of sick souls! Are you willing to be saved in God's way? Will you let Him do what He wills with you? Do you surrender at discretion? Do you say, "Anyway, anyway, just so I may be but saved from the wrath to come?" Will you now open wide your hearts to receive Jesus Christ as your Lord? Then the Spirit of God is present healing you! He is at work with you. He has healed you, I trust, already! Only trust the bleeding Lamb of God, only trust Him! It is done. It is done. All glory to the Lamb of God! It is done! All glory to the Divine Spirit who has brought us into this state of salvation! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM107.
+## Exposition by C. H. Spurgeon: Psalm 107
 
 1\. O give thanks unto the LORD, for He is good: for His mercy endures forever Because we are sinners, God's goodness takes the form of mercy. Mercy—this was what we need—therefore, instead of mere benevolence towards the good, God's love takes the form of mercy towards the guilty and this mercy is forever! It always was, always is and always shall be.
 
@@ -134,7 +131,6 @@ Moreover, your spiritual needs are very pressing. You are hungry and you are thi
 23-28. They thatgo down to the sea in ships that do business in great waters; these see the works ofthe LORD, and His wonders in the deep. For He commands and raises the stormy wind, which lifts up the waves thereof They mount up to the heavens, they go down again to the depths: their soul is melted because of trouble. They reel to and fro, and stagger like a drunken man, and are at their wit's end. Then they cry. Never till they get to their wit's end do men cry to God! When nothing else is to be done and all human might has utterly failed, then they cry. Now, you that have ever been in this storm—you know what it means. You recollect how you were sailing smoothly along with fair weather and suddenly a spiritual cyclone took hold of you, and twisted your soul roundabout—threw you sometimes up with presumptuous hopes, and then down again with awful despairs! You could not stand or hold to anything, even the Truth of God you knew, you could not believe, and the promises which you could believe, you could not apply to yourself. There was no hold-fast for you! You reeled and staggered and your courage was gone. Your soul was melted because of trouble. There seemed nothing before you but the abyss. Deep called to deep, and Jehovah's waterspouts sent forth a sound. "Now," you thought, "surely the end is come." And then it was that you began to pray.
 
 28-32. Unto the LORD in their trouble, and He brings them out of their distresses. He makes the storm a calm, so that the waves thereof are still Then are they glad because they are quiet; so He brings them unto their desired haven. Oh that men would praise the LORD for His goodness, and for His wonderful works to the children of men! Let them exalt Him also in the congregation ofthe people, and praise Him in the assembly ofthe elders.
-
 
 ---
 [[Sermon 2920 Election-its Defenses and Evidences|← #2920]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2922 An Infallible Sign Of Revival|#2922 →]]

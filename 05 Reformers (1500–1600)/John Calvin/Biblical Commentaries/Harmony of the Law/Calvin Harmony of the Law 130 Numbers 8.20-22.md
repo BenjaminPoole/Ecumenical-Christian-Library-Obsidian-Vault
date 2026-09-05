@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 130. Numbers 8:20-22
-
-**Numbers 8**
 
 **20.** And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the Lord commanded Moses concerning the Levites, so did the children of Israel unto them.
 

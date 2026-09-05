@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 108
-
-**PSALM 108**
 
 ## Psalm 108:1-13
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Moral of a Miracle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1444
-
-DELIVERED BY.
 
 > "Jesus answering said unto them, Have faith in God." Mark 11:22.
 
@@ -146,7 +143,6 @@ The Lord will only trust His children with power in proportion as they know His 
 O Lord, purge Your vessels and then fill them! Cleanse the instruments from rust and then use them! Here we are now before You! Blessed be Your name, You have saved us! Now make us fit to be serviceable in Your cause and kingdom, poor unworthy things as we are, and You shall have honor of us and by us forever! Amen.
 
 PORTION OF SCRIPTURE READ BEFOOE SERMON—Mark 11. HYMNS FROM "OUR OWN HYMN BOOK"—67E, 523.
-
 
 ---
 [[Sermon 1443 A Clear Conscience|← #1443]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1445 Wake Up! Wake Up!|#1445 →]]

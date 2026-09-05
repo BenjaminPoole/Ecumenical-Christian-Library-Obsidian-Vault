@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Enlivening and Invigorating
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1350
-
-DELIVERED BY.
 
 > "Quicken me according to Your Word." Psalm 119:25.
 
@@ -154,7 +151,6 @@ If you have life, do your best to maintain it and do not run the risk of suspend
 We have no such terrible knowledge about the destiny of any man. We look hopefully upon you unconverted people and we exhort you because we expect you to believe in Jesus! We sincerely trust that you will be saved and, therefore, we pray for you in hope. May the Lord in infinite mercy lead you to feel for yourselves and pray for yourselves— "Quicken me, O Lord!" Do you feel that prayer welling up from your soul? Does it rise from your heart? Then, already there is something of spiritual life there! Believe in the Lord Jesus Christ, and you shall have life, for He who said, "He that lives and believes in Me shall never die," said also, "He that believes in Me, though He were dead, yet shall He live."
 
 God give you that living faith which is the token of the Divine life. To Him be glory forever and ever! Amen.
-
 
 ---
 [[Sermon 1349 Faith Purifying the Heart|← #1349]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1351 The Divine Call for Missionaries|#1351 →]]

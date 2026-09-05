@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Idolatry Condemned
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3071
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Little children, keep yourselves from idols. Amen." 1 John 5:21.
 
@@ -105,7 +102,7 @@ That leads me to the Lamb."
 
 God bless you. And if any of you are living without Christ, perhaps it is some beloved idol that is keeping you from Him. If so, may you be delivered from its thralldom by coming to Jesus right now, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 5.
+## Exposition by C. H. Spurgeon: 1 John 5
 
 Verse 1. Whoever believes that Jesus is the Christ, is born of God. Where there is real faith in Jesus Christ as the Anointed of God, there is the evidence that the new birth has taken place. Let the first, the best and the clearest proof of our regeneration be the fact that we do verily and in our heart believe that Jesus is the Christ!
 
@@ -148,7 +145,6 @@ But there cannot be such a monstrosity as that! Such a man as that was not a Chr
 17, 18. And there is a sin not unto death. We know that whoever is born of God sins not, but he that is begotten of God keeps himself and that Wicked One touches him not That is to say sin is not the bent of his renewed nature. It would not be a fair description of his life to say that he was living a sinful life. There are spots in the sun, but the sun itself is a great mass of brightness. So is it with the Christian's life—it is not a sinful life although there are imperfections in it.
 
 19-21. And we know that we are of God, and the whole world lies in wickedness. And we know that the Son of God is come, and has given us an understanding, that we may know Him that is true, and we are in Him that is true, even in His Son Jesus Christ This is the true God and eternal life. Little children, keep yourselves from idols. Amen.
-
 
 ---
 [[Sermon 3070 A Visit to Christ's Hospital|← #3070]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3072 An Observation of the Preacher|#3072 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Positivism
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3161
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We know...And we know...And we know." 1 John 5:18-20.
 
@@ -88,7 +85,6 @@ I bless God that for some little time instead of worrying myself about a thousan
 You have come here on a week-night, some of you, with a heavy burden. All the time the preaching is going on, and the praying, and singing you have lost your load, or have not felt it. But just as you get outside, you say, "I have left my burden inside! Let me go and take it up again!" And you feel it on your mind as heavily as ever! Beloved, this is not the way to trust God. The way to trust Him is to cast your care on Him altogether. "All things work together for good to them that love God." Be sure that when you pass through the rivers they shall not overflow you, and through the fires, they shall not burn you. Be sure that as your days so shall your strength be. Be sure that God will bring you through, for He will deliver His people out of all troubles and give them a sure admittance into His eternal Kingdom and Glory. We should speak with certainty of troubles and trials—and deliverance from them—and of all the future we should say, as our text has it, "We know, and we know, and we know." That is how Paul spoke. "We know that all things work together for good." He did not say he thought it and he hoped it, but, "we know." "Faith is the substance of things hoped for, the evidence of things not seen," and by its assuring power "we know, and we know, and we know."
 
 Now, dear Hearer, if you are unconverted, what do you know? If you know not the Lord, what do you know? Nothing that is of any use to you spiritually, by any true knowledge. Oh that God might make you know this—that you are lost by nature and, unless forgiven, you will be lost forever and ever! And when you know that, I pray the Lord, by His Spirit, to make you know that there is a Savior—and that He is able to save unto the uttermost! And then may He make you know in the fullest sense that He loved you and gave Himself for you! So may you know Him and be found in Him when He comes in the clouds of Heaven. Amen.
-
 
 ---
 [[Sermon 3160 The Call of 'Today'|← #3160]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3162 The Unfailing Help|#3162 →]]

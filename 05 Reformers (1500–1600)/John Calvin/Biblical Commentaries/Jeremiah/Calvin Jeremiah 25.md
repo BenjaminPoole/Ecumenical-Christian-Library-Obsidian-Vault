@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 25
 
-**CHAPTER 25**
+***Chapter 25***
 
 ## Jeremiah 25:1
 
@@ -66,7 +65,7 @@ Now as God fulminates against all despisers of his doctrine, so from these words
 
 ## Prayer Lecture 93
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to choose us from our infancy to be thy people, and that when we were wretched apostates, thou hast also been pleased to restore us to the right way, by stretching forth thine hand to lead us, — O grant, that we may not be deaf nor idle; but may it please thee, by thy Spirit, especially to correct all obstinacy in our hearts, so that we may render ourselves obedient and submissive to thee: and as thou hast not ceased continually to call us, may we in our turn respond to thee, and not only by our tongues, but also by our works, pursue the course which thou hast appointed for us, until we shall reach the goal, and enjoy that blessed state of glory which thou hast prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -161,7 +160,7 @@ God says also, that at the end of seventy years he would *visit the iniquity of 
 
 ## Prayer Lecture 94
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we see everywhere evidences of thy wrath, and as our own conscience convinces every one of us, so that we are constrained to confess that we are all, from the highest to the lowest, guilty before thee, — O grant that we may in due time return to the right way, and seek to be reconciled to thee, and never doubt but that thou wilt be merciful and gracious to us, whenever we solicit pardon in the name of thy only-begotten Son; and may we also be so reconciled to thee, that we may know that thou art indeed with us as our Father, by ruling us by thy Spirit, so that thy name may to the end be glorified, through our Lord Jesus Christ. — Amen.
 
@@ -253,7 +252,7 @@ As, then, the occasion of ruin to the chosen people was Egypt, and as Pharaoh wa
 
 ## Prayer Lecture 95
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not to abuse thy paternal kindness, that when thou sparest us for a time, it is made by us the occasion of more audacity and liberty in sin, — O grant that we may be so subdued by thy scourges as to return without delay to thee, and to seek reconciliation with thee through the blood of thine only-begotten Son, and also to be so displeased with our vices, that we may from the heart submit to thee, so as to be governed by thy Holy Spirit, until, having been cleansed from all our filth, we shall come to that blessed glory which thou hast prepared for us in heaven, and which has been obtained for us by the blood of the same, thy Son Jesus Christ. — Amen.
 
@@ -352,7 +351,7 @@ However, the Prophet, that his predictions might have greater authority, is here
 
 ## Prayer Lecture 96
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since there are before our eyes so many evidences of thy judgments and of thy goodness, we may advance in the fear of thy name, and not go on to kindle thy wrath more against us, but that, being touched with true repentance, we may seek to be reconciled to thee, and that, commiserating the many evils, by which the world is at this day afflicted, we may also strive to restore those to the right way who seem to give themselves up to their own ruin, so that by converting those to thee who are now far away and aliens, thy name may be more glorified and proclaimed by us with one consent, through Christ Jesus our Lord. — Amen.
 
@@ -430,7 +429,7 @@ Let us then observe, that nothing is detracted from God’s power and authority,
 
 ## Prayer Lecture 97
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou seekest continually in various ways to restore us to thyself, — O grant, that we may not by our untameable perverseness resist thy holy and kind admonitions, nor continue torpid in our drowsiness, but anxiously flee to thee, and so humbly solicit pardon, that we may thus shew that we really and habitually repent, so that thy name may in every way be glorified, until we shall come into thy celestial glory, through Christ Jesus our Lord. — Amen.
 
@@ -519,7 +518,7 @@ It is added, *on account of the indignation of the oppressor.* Some render the l
 
 ## Prayer Lecture 98
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased to gather us, so that we may be under thy protection and care, and to offer thyself to be our Shepherd, and even to exhibit thyself as such through thine only-begotten Son, — O grant, that we may willingly obey thee and hearken to the voice of that Shepherd whom thou hast set over us, so that we may be preserved to the end by thy goodness and power, and never wander from thee nor be carried away by our lusts, but so continue under the shadow of thy wings, that thou mayest be ever present with us and check our enemies, so that we may remain safe under thy protection throughout life, as well as in death, through the same Christ Jesus our Lord. — Amen.
 

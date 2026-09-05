@@ -9,7 +9,6 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # Sermon II
 
 Ezek. xxxiii. 11Ezek.
@@ -98,7 +97,7 @@ Doct. 4. *The Lord hath confirmed to us by his oath, that he hath no pleasure in
 
 If you dare question his word, I hope you dare not question his oath. As Christ hath solemnly protested that the unregenerate and unconverted cannot enter into the kingdom of heaven, Matt. xviii. 3. John iii. 3. so God hath sworn that his pleasure is not in their death, but in their conversion and life. And as the Apostle saith, Heb. vi. 13, 16, 17, 18. Because he can swear by no greater than himself, he saith, “As I live, &c.” For men verily swear by the greater, and an oath for confirmation is to them an end of strife: wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath, that by two immutable things, in which it was impossible for God to lie, “we might have a strong consolation, who have fled for refuge, to lay hold on the hope set before us, which we have, as an anchor of the soul, both sure and stedfast.” If there be any man that cannot reconcile this truth with the doctrine of predestination, or the actual damnation of the wicked, that is his own ignorance; he hath no pretence left to deny or question therefore the truth of the point in hand; for this is confirmed by the oath of God, and therefore must not be distorted to reduce it to other points; but doubtful points must rather be reduced to it, and certain truths must be believed to agree with it, though our shallow brains do hardly discern the agreement.
 
-USE.
+## Use
 
 I do now intreat thee, if thou be an unconverted sinner that hearest these words, that thou wouldest ponder a little on the forementioned doctrines, and bethink thyself awhile who it is that takes pleasure in your sin and damnation! Certainly it is not God: He hath sworn, for his part, that he takes no pleasure in it. And I know it is not the pleasing of him that you intend in it. You dare not say, that you drink, and swear, and neglect holy duties, and quench the motion of the Spirit, to please God. That were as if you should reproach the prince, and break his laws, and seek his death, and say you did all this to please him.
 
@@ -195,7 +194,6 @@ Moreover, this voice that calls to thee, is the same that hath prevailed with th
 Well, Sirs, are you yet resolved, or are you not? Do I need to say any more to you? What will you do? Will you turn or not? Speak, man, in thy heart to God, though you speak not out to me; speak, lest he take your silence for denial; speak quickly, lest he never make you the like offer more. Speak resolvedly, and not waveringly, for he will have no indifferents to be his followers. Say in thy heart now, without any more delay, even before thou stir from hence, “By the grace of God I am resolved presently to turn. And because I know my own insufficiency, I am resolved to wait on God for his grace, and to follow him in his ways, and forsake my former courses and companions and give up myself to the guidance of the Lord.”
 
 You are not shut up in the darkness of heathenism, nor in the desperation of the damned.—Life is before you; and you may have it on reasonable terms, if you will; yea, on free cost, if you will accept it. The way of God lieth plain before you; the church is open to you; you may have Christ, and pardon, and holiness, if you will. What say you? Will you, or will you not? If you say nay, or say nothing, and still go on, God is witness, and this congregation is witness, and your own consciences are witnesses, how fair an offer you had this day. Remember, you might have had Christ, and would not. Remember, when you have lost it, that you might have had eternal life as well as others, and would not; and all because you would not turn.
-
 
 ---
 [[CU 03 Sermon I|← Sermon I]] · [[A Call to the Unconverted|Contents]] · [[CU 05 Sermon III|Sermon III →]]

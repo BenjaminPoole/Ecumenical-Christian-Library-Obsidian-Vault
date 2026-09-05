@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Out of Nothing Comes Nothing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2734
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who can bring a clean thing out of an unclean? Not one." Job 14:4.
 
@@ -156,7 +153,6 @@ All that I have been saying shows the fitness of this Gospel for sinners. This G
 If there is anybody who prefers any other sort of Gospel, I am sure I do not want to rob him of it! If he can get any comfort out of it, let him keep it. But as for me, I am so weak, so sinful, so undone that I commit my soul to the God of Grace, and nothing but "Free Grace and dying love" will suffice for me! Many of us stand together upon this matter, as we have done for many a year, and I believe we shall continue to do so more and more as our age increases, and our hair gets gray, for we did not know so much about Grace when we were lads as we know now, and we keep on learning more
 
 and more of it every day that we live. What we need is Grace, Grace, GRACE, and may God grant it to every one of us! May there be in us nothing of self, but all of Grace, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2733 Christ's Manifestation to Mary Magdalene|← #2733]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2735 Fountains of Repentant Tears|#2735 →]]

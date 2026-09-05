@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Why Christ Is Not Esteemed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3033
-
-DELIVERED BY C. H. SPURGEON.
 
 > "We esteemed Him not." Isaiah 53:3.
 
@@ -87,7 +84,7 @@ You may go to the very worst haunts of sin and vice in this city or anywhere els
 
 them."
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:14-45.
+## Exposition by C. H. Spurgeon: Matthew 26:14-45
 
 Verse 14, 15. Then one of the twelve called Judas Iscariot went unto the chief priests and said unto them, What will you give me, and I will deliver Him unto you? And they covenanted with him for thirty pieces of silver At what a price did the traitor sell our blessed Master! O you who have been redeemed with His precious blood, set a high value upon Him! Think much of Him, say much in praise of Him! Remember these thirty pieces of silver and never be guilty of despising the Lord of Glory, as these chief priests did when they paid the price of a slave for Him.
 
@@ -120,7 +117,6 @@ absolute control which Jesus has over the minds of men! He can have any man's ho
 40\. And He came unto the disciples, and found them asleep, and said unto Peter, What? Could you not watch with Me one hour? Peter had constituted himself the spokesman of the Apostolic company, so the Master addressed the question to him, though it also applied to his companions—"What? Could you not watch with Me one hour?" They had all declared their devotion to Him, yet they had fallen asleep while He had bid them watch.
 
 41-45. Watch and pray, that you enter not into temptation: the spirit indeed is willing, but the flesh is weak. He went away again the second time, and prayed, saying, O My Father, if this cup may not pass away from Me, except I drink it, Your will be done. And He came and found them asleep again; for their eyes were heavy. And He left them, and went away again, and prayed the third time, saying the same words. Then He came to His disciples, and said unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.
-
 
 ---
 [[Sermon 3031 'The Shadow of a Great Rock'|← #3031]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3034 Reasons for Seeking God|#3034 →]]

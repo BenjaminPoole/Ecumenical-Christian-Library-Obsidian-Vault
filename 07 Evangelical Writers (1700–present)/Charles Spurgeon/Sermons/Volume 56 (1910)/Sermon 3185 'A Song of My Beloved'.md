@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'A Song of My Beloved'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3185
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My Beloved is mine, and I am His: He feeds among the lilies. Until the day breaks and the shadows flee away, turn, my Beloved, and be You like a roe or a young hart upon the mountains of Bether." Song of Solomon 2:16,17.
 
@@ -121,7 +118,7 @@ Then the soul says, "Turn, my Beloved, and be You like a roe or a young hart upo
 
 And you, poor Sinner, who have never comfortably seen His face—remember that there is life for a look at Him! God give you Grace, now, to trust Him—and may you see His face, here, so that you may see Him hereafter with everlasting joy!
 
-EXPOSITION BY C. H. SPURGEON: 2 THESSALONIANS1.
+## Exposition by C. H. Spurgeon: 2 Thessalonians 1
 
 [This exposition belongs to Sermon #3179, Volume 56—A COMPREHENSIVE BENEDICTION—but there was not sufficient space available for its insertion there.]
 
@@ -144,7 +141,6 @@ God."
 7-11. When the Lord Jesus shall be revealed from Heaven with His mighty angels, in flaming fire taking vengeance on them that know not God, and that obey not the Gospel of our Lord Jesus Christ: who shall be punished with everlasting destruction from the Presence of the Lord, and from the Glory of His power, when He shall come to be glorified in His saints, and to be admired in all them that believe (because our testimony among you was believed) in that day. Therefore we also pray always for you. The very people in whom Paul gloried, and over whom he rejoiced, were those for whom he continued to pray! And he did well, for the highest state of Grace needs preserving—and there is a possibility of going beyond the utmost height to which any have yet attained. Hence Paul says, "Therefore we also pray always for you"—
 
 II, 12. That our God would countyou worthy ofthis calling, and fulfill all the goodpleasure of His goodness, and the work of faith with power: that the name of our Lord Jesus Christ may be glorified in you, and you in Him, according to the Grace of our God and the Lord Jesus Christ.
-
 
 ---
 [[Sermon 3184 Maroth—or, the Disappointed|← #3184]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3186 Peter's Shortest Prayer|#3186 →]]

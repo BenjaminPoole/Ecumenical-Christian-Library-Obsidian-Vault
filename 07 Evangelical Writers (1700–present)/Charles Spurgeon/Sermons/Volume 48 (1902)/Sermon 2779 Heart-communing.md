@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Heart-communing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2779
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "She communed with him about all that was in her heart." 1 Kings 10:2.
 
@@ -107,7 +104,7 @@ And then, I think that my Master looks upon some here who have never had any com
 
 And then, lastly, He speaks to those of you who have long enjoyed fellowship with Him and, as He looks at you, He says, "Abide in My love, even as I have kept My Father's commandments and abide in His love." Beloved, if you have ever enjoyed fellowship with Christ, never lose it! Oh, to hold on—to hold fast—to hold through life and to hold in death to Him whose face we have never seen, yet whom we know to be among us now! O Beloved of our souls, never leave us! No, You will not do so—we will constrain You to abide with us! Give us Divine Grace, we pray, to never vex You or grieve Your Holy Spirit. Come very near to us just now—nearer than You have ever been since the first day we saw You. Come near to all of Your people, Immanuel—God With Us—and be always with us and go with us wherever we go—and never leave us again, for Your love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS 10:1-13; MATTHEW12:38-45.
+## Exposition by C. H. Spurgeon: 1 Kings 10:1-13; Matthew 12:38-45
 
 Let us first read part of the 10th Chapter of the First Book of Kings and, afterwards, a part of the 12th Chapter of the Gospel according to Matthew.
 
@@ -144,7 +141,6 @@ http://www.spurgeons.org ] I need not say anything about it just now.
 45\. Then he goes and takes with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. If idolatry did not come back to the Jews, the devil of pride and self-conceit and many more came and fought against the Son of God, so that they became worse than they were before! And the first devil of the Jewish people was nothing compared with the seven devils which afterwards possessed them. We have seen some men of this kind. Under temporary conviction, they have given up certain outward sins, but, afterwards, they have been 10 times worse than they were before. We have known a man to be a drunk and we have rejoiced to see him leave his cups but, yet, when he has made a self-righteousness out of his temperance and set himself up against God and His Truth, we have verily believed that he has had within him seven devils worse than the first! A man may reform himself to blacker stains and wash himself with the waters of his self-righteousness till he becomes more hard to clean than he would have been at the first. Oh, for the mighty hand of One who is stronger than the prince of Hell to throw the devil out! And then he will never come back again—but if he goes out by mere human persuasion, or by our own wills and wishes, he will most certainly come back to us! If the Holy Spirit turns him out, he will never gain an entrance any more.
 
 45\. Even so shall it be also unto this wicked generation.
-
 
 ---
 [[Sermon 2778 Consulting With Jesus|← #2778]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2780 The Sojourn in Mesech|#2780 →]]

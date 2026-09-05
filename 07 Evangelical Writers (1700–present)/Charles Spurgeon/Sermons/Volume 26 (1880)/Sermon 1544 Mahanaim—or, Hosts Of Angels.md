@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Mahanaim—or, Hosts Of Angels
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1544
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 20, 1880,.
+*Delivered on Lord's-Day Morning, June 20, 1880*
 
 > "And Jacob went on his way and the angels of God met him. And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim." Genesis 32:1,2.
 
@@ -139,8 +138,7 @@ My heart is glad, for I, too, have had my Mahanaim and in this my hour of need f
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Genesis31:43-55; 32:1,2; 2 Samuel17:27-29; Psalm 23.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—708, 34, 674.
-
+## Hymns from "Our Own Hymn Book"—708, 34, 674
 
 ---
 [[Sermon 1543 The Sheep Before The Shearers|← #1543]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1545 God Glorified By Children's Mouths|#1545 →]]

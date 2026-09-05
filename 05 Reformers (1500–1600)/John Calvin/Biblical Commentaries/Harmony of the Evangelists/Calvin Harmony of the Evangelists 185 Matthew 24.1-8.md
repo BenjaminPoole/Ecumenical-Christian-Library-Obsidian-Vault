@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 185. Matthew 24:1-8; Mark 13:1-8; Luke 21:5-11
-
-**MATTHEW 24:1-8; MARK 13:1-8; LUKE 21:5-11**
 
 **1.** And Jesus went out, and departed from the temple, and his disciples came to him, to point out to him the buildings of the temple. **2.** And Jesus said to them, Do you not see all these things? Verily I say to you, There shall not be left one stone upon another that shall not be thrown down. **3.** And while he was sitting on the mountain of Olives, the disciples came to him privately, saying, Tell us, when will these things be? and what is the sign of thy coming, and of the end of the world? **4.** And Jesus answering said to them, Take heed that no man deceive you. **5.** For many will come in my name, saying, I am Christ, and will deceive many. **6.** For you will hear of wars and rumors of wars; see that you be not troubled; for all these things must happen, but the end is not yet. **7.** For nation will rise against nation, and kingdom against kingdom, and there will be pestilences, and famines, and earthquakes in various places. **8.** But all these things are the beginnings of sorrows.
 

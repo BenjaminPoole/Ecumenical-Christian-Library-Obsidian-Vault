@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Objective of Christ's Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2483
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who gave Himself for our sins that He might deliver us from this present evil world, according to the will of God and our Father: to whom be glory forever and ever. Amen." Galatians 1:4, 5.
 
@@ -97,7 +94,7 @@ O you poor souls who are still in the world, God help you to get out of it! O yo
 
 "Proclaim to sinners round What a dear Savior you have found." So, even through you the purpose for which Christ bled shall be accomplished, that is, the severance of His elect from the great mass of mankind among whom they lie, and this shall be to the praise of the glory of His Grace forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 17.
+## Exposition by C. H. Spurgeon: John 17
 
 This matchless chapter contains that great intercessory prayer of Christ for His people which may most properly is called "the Lord's prayer."
 
@@ -138,7 +135,6 @@ What though the Cross, nails and spear are in the road? He thinks comparatively 
 21, 22. That they all may be one; as You, Father, are in Me, andIin You, that they also may be one in Us: that the world may believe that You have sent Me. And the glory which You gave Me I have given them; that they may be one, even as We are One. Let us, more and more, lay aside everything that divides, especially that evil heart of unbelief, and pride, and self-seeking which is the great sect-making faculty. May we get rid of that evil and come more and more to realize that all men who are really in Christ are, and must be, one. If we are members of one body, one blood courses through our veins and gives us life! One Spirit is in the one body of Christ. There cannot be two lives. There cannot be two beings within the one body of Christ. All true Believers must be one and truly, if we speak the Truth of God to one another concerning our Lord—and especially if we speak much to God together in prayer—we straightway perceive that we areone!
 
 23-26. I in them, and You in Me, that they may be made perfect in one and that the world may know that You have sent Me, and have loved them, as You have loved Me. Father, I will that they, also, whom You have given Me, be with Me where I am; that they may behold My Glory, which You have given Me: for You loved Me before the foundation of the world. O righteous Father, the world has not known You: but I have known You and these have known that You have sent Me. And I have declared to them Your name, and will declare it: that the love wherewith You have loved Me may be in them, and I in them. Here the Master ended His sweet prayer and went off to His terrible passion in Gethsemane.
-
 
 ---
 [[Sermon 2482 An Unparalleled Cure|← #2482]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2484 The Very Friend You Need|#2484 →]]

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 72. Judicial Supplements
-
-**Judicial Supplements**
 
 ## Deuteronomy 18:19
 

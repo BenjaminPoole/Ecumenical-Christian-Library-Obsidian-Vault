@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # First Things First
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1864
@@ -91,7 +90,7 @@ Seek the Kingdom of God and His righteousness first, by giving to true religion 
 
 I may honestly claim five minutes more to complete the hour allotted to this service and I will spend it by TAKING
 
-ACCOUNT OF THE PROMISE HERE MADE TO THOSE WHO "SEEK FIRST THE KINGDOM OF GOD, AND
+## Account of the Promise Here Made to Those Who "Seek First the Kingdom of God, And
 
 HIS RIGHTEOUSNESS." Does anyone demand, "What will become of our business if we place godliness first?" The answer is in the text—"All these things shall be added unto you." A young man beginning life resolving that he will do everything in the fear of God and that as God helps him, he will do nothing that is contrary to the mind of the Lord Jesus Christ—shall he prosper? He shall get on so far as this—he shall have bread to eat and raiment to put on—all that is necessary for this life "shall be added to him."
 
@@ -118,7 +117,6 @@ This is what God intends to do in Providence to the man who serves Him heartily.
 Some people get so much of this brown paper and string that they glory in them and expect us to fall down and worship them. If we refuse this homage, they are foolish enough to adore themselves. It must not be so among the servants of God. To us, the man is the man, and not the guinea's stamp. "All these things" are, to us, small matters. The real life of the soul is all in all. Do not slice pieces out of your manhood and then hope to fill up the vacancies with bank notes. He who loses manliness or godliness to gain gold is a great cheater of himself. Keep yourselves entirely for God and for His Christ—and let all other matters be additions, not subtractions! Live above the world. Its goods will come to you when you do not bid high for them. If you hunt the butterfly of wealth too eagerly, you may spoil it by the stroke with which you secure it. When earthly things are sought for as the main objective, they are degraded into rubbish and the seeker of them has fallen to be a mere man with a muckrake, turning over a dunghill to find nothing! Set your heart on nobler things than pelf!
 
 Cry with David, "I will lift up my eyes to the hills where comes my help." Men and brethren, let us so live that it will be safe for God to add to us the blessings of the life that now is, but that can only be done with safety when we have learned to keep the world under our feet. May the Lord enable us to live to high and noble purposes, so that we may meet in the Glory Land and hear the approving voice of Jesus, our Savior and Captain, saying to us, "Well done, good and faithful servants."
-
 
 ---
 [[Sermon 1863 Departed Saints Yet Living|← #1863]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1865 The Nobleman's Faith|#1865 →]]

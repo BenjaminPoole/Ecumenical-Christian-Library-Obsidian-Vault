@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 3. Exposition of Matthew V, VI, and VII: The Sixth Chapter
 
-AN EXPOSITION OF THE SIXTH CHAPTER.
+*An Exposition of the Sixth Chapter*
 
 Take heed to your alms, that ye do it not before men, to be seen of them, or else ye get no reward of your Father which is in heaven. Therefore when thou givest alms, make not a trumpet to be blown before thee, as the hypocrites do in the synagogues and in the streets, to be praised of men. Verily I say unto you, they have their reward. But thou, when thou givest alms, let not thy left hand know what thy right hand doth, that thine alms may be in secret. And then thy Father, which seeth in secret, shall reward thee openly.
 
@@ -23,15 +22,13 @@ Christ here destroy eth not prayer, fasting, and alms-deed, n is the but preache
 
 Concerning blowing of trumpets, and ringing of bells, or to biow making a cry, to call men to fetch alms, (though the right whS.^^w. x. way be, that we should know in every parish all our poor, and have a common coffer for them ; and that strangers should bring a letter of recommendation with them of their necessity, and that we had a common place to receive them into for the time ; and though also we ought to flee all occasions of vain-glory,) yet while the world is out of order, it is not damnable to do it. So that the very meaning, both that we blow no trumpets, and that the left hand know not what the Left hand, right hand doth, is, that we do as secretly as we can, and in no wise seek glory, or to receive it if it were proffered ; but to do our deeds in singleness of conscience to God, because it is his commandment, and even of pure compassion and love
 
-74 EXPOSITION OF [chap.
-
 to our brethren ; and not that our good deeds, through standing in our own conceit, should cause us to despise them. Vainglory, If thou be tempted to vain-glory for thy good deeds, then a good re- , \ r) J "^ . '
 
 "amstit ^^ ^^ thine evil thereto, and put the one in the one balance, ^- ^- and the other in the other. And then, if thou understand the law of God any thing at all, tell me, whether weigheth heavier. If that that thou doest do tempt thee, then consider what thou doest not. If it move thee to set up thy comb, when thou givest thy brother a farthing or a halfpenny, ponder in thine heart how far thou art off from loving him as well as thyself, and caring for him as much as for thyself. And be sure how much thou lackest of that, so much thou art in sin, and that in damnable sin, if God for Christ's sake did not pardon thee, because thine heart mourneth therefore, and thou fightest with thyself to come to such perfection. If a peacock did look well on his feet, and mark the evil-favoured shrieking of his voice, he would not be so proud of the beauty of his tail, works^jus-^ Finally, that many dispute. Because God hath promised d^wve'the *^ rcward our deeds in heaven, that our deeds deserve m^df ^'^' heaven ; and because he promiseth to shew mercy to the merciful, that with our deeds we deserve mercy ; and because he promiseth forgiveness of sins to them that forgive, that our deeds deserve forgiveness of sin, and so justify us : I answer, first, there is enough spoken thereof in other places ; so that to them that have read that it is superfluous to rehearse the matter again. Furthermore, the argument is naught, and holdeth by no rule. See ye not that the father and mother have more right to the child and to all it can do, than to an ox or a cow ? It is their flesh and blood, nourished up with their labour and cost. The life of it, and the maintenance and continuance thereof, is their benefit ; so that it is not able to recompense that it oweth to father and mother by a thousand parts. And though it be not able to do his duty, nor for blindness to know his duty, yet the father and mother promise more gifts still without ceasing, and that such as they think should most make it to see love, and to provoke it to be willing to do part of his duty. And when it hath done amiss, though it have no power to do satisfaction, nor lust or corage^ to come to the right way again, yet their love
 
 [ ^ Used as in Vol. I. p. 417, not for bravery, but for the inclination of the heart.]
 
-MATTHEW V. VI. VII.
+## Matthew V. VI. VII
 
 and mercy abideth still so great to it, that upon appointment of mending they not only forgive that is past, and fulfil their promise nevertheless ^ but promise greater gifts than ever before, and to be better father and mother to it than ever they were. Now when it cannot do that thousandth part of his duty, how could it deserve such promises of the father and mother, as a labourer doth his hire ? The reward thereof Cometh of the love, mercy, and truth of the father and mother, as well when the child keepeth the appointment, as when they fulfil their promise when it hath broken the appointment; and not of the deserving of the child.
 
@@ -66,8 +63,6 @@ After alms followeth prayer. For as it is a christian man's Prayer. part to help
 To give alms, to pray, to fast, or to do any thing at all, worics whether between thee and God, or between thee and thy seasoned
 
 ' . ' with God 3 neighbour, canst thou never do to please God therewith, except ^"'"''g^a,, thou have the true knowledge of God's word to season thy ^^^^ ^^ deeds withal. For God hath put a rule in the scripture, without which thou canst not move an hair of thine head, but
-
-78 EXPOSITION OF [chap.
 
 that it is damnable in the sight of God. As it is of the Jews, though (as Paul beareth them record) they have a fervent zeal to God, yea, and have the scripture thereto ; yet because they have not the true understanding, all is damnable that they do. Hypocrites with scraps of alms get an hundredfold. And with prayer they get praise, (as thou seest here) ; and pray thereto, and rob widows' houses, as thou readest Matt, xxiii. And with fasting they get fat bellies, full dishes, and ever more than enough. And yet there is none alms, praying, or fasting among them, in the sight of God. With their prayers they exclude all true prayers, and make it impossible that there should be any among them. For ^"atitis. prayer is either a longing for the honour and name of God, that all men should fear him, and keep his precepts, and believe in him ; and contrary to that, they seek theu* own honour, that men should fear them and keep their ordinances, and believe in their sweet blessings, prayers, pardons, and whatsoever they promise : if they bid fast, thou must do it or be damned, and be an heretic and rebellious to holy church : if they dispense, and give thee clean remission for to eat flesh on Good Friday, though thou be never so lusty, thou must obey, or else thou art damned, and an heretic, because thou dost not beheve in holy church. Either prayer is, to give God thanks for the benefits received : contrary to which, they will first have thanks of the world for their prayers, and rob not only widows'" houses, but also lord, prince, emperor, and all the world, of house and land ; yea, and of their wits too. And then they bind God to thank them, and to give them (beside the thanks which they have gotten in the world) not only heaven and a higher place, but that he give heaven to no other man, save through their merits. Either prayer is a complaining and a shewing of thine own misery and necessity, or of thy neighbour's before God ; desiring him, with all the power of thine heart, to have compassion and to succour. Contrary to this, they have excluded with their prayers all necessity and misery from among them. They be lords over all, and do what they will through the whole world. King and emperor are their servants ; they need but say the word, and their will is fulfilled. And as for their neighbours, they have no compassion upon them, to bring their complaints before God; but with their prayers rob them of that little they have, and so make them more miserable.
 
@@ -135,15 +130,13 @@ Give us our daily bread.
 
 By bread is understood all manner of sustenance, in the Daily bread, Hebrew speech ; yea, and here is understood thereby all that underetood
 
-, . . all that per- pertaineth unto the necessity of this life. If we have bread, tameth to the
+, . . all that per-pertaineth unto the necessity of this life. If we have bread, tameth to the
 
 . . , .... necessity of there is dearth of nothmg that can pinch, namely ^ m that land. '^"^ ''^^ Give us our daily bread. Give us all that the necessity of this life daily requireth. Give us it day by day as we need it. We desire not to have store for many years, to exclude all necessity of praying to thee, and to be, as it were, out of thy danger, and to forget thee : but minister it day by day, that we may daily feel thy benefits, and never forget thee. Or if thou give us abundance above that we desire, then give us an heart to use it, and to bestow it for that purpose thou gavest it, and to deal^ with our neighbours, and not to love it inordinately ; but to think that it is thine, and that thou mayest take it away every hour, and that we be content that thou so do at thy pleasure ; and so ever to have it but for daily bread.
 
 Forgive us our trespasses, as we forgive our trespassers. Because he knoweth that our nature is so weak that we cannot but sin daily ; therefore he teacheth us daily to repent, and to reconcile ourselves together, and daily to ask God forgiveness. Seeing he commandeth us to ask, we may be bold so to do, and to believe that he will forgive us. No man, therefore, needeth to despair, that can repent and ask forgiveness, however so deep he hath sinned. And, methinketh, if we looked somewhat nearer to this text, we needed not make
 
 [1 Namely, i. e. especially in the land of Canaan, where Christ was when he spoke this prayer.] [2 Deal, i. e. divide.]
-
-84 EXPOSITION OF [chap.
 
 the pope so great a god, for his pardons. For Christ (which A surer way is SL man to be believed) sheweth us here a more sure way ; yea, and that a sensible way, by which we may feel that we be pardoned, and our sins forgiven. We can have no experience of the pope's things, whether they be so or no. lie can with all his pardons deliver no man of any purgatory that God putteth us unto in this world. He cannot bless, or heal any man so much as of a poor ague, or tooth-ache ; which diseases yet (by his own confession) God putteth on us to purge us from sin. But where we cannot see, feel, or have any experience at all, that it so is, there is he mighty. If I were come home out of a land where never man was before, and were sure never man should come, I might tell as many wonders as Master More doth of Utopia, and no man could rebuke me. How thou But here Christ maketh thee sure of pardon; for if thou sureofpardon canst forffive thy brother, God hath bound himself to forgive for thy sins. . . .
 
@@ -162,8 +155,6 @@ no sin ; and an angry man, that it is lawful to avenge himself, pfon""^ and so f
 Even so, Father, if thou give us over for our unkindness, seeing the blind nature of man dehghteth in evil, and is ready to believe lies, a little thing is enough to make them that love not to walk in thy truth, (and therefore never able to understand thy Son's doctrine, John vii.) for to believe the feignings of JohnTti. our most holy father, all his superstitious popery and invisible blessings, and to harden them therein. As a stone cast up into the air can neither go any higher, neither yet there abide, when the power of the hurler ceaseth to drive it ; even so, Father, seeing our corrupt nature can but go downward only, and the devil and the world driveth thereto that same way, how can we proceed further in virtue or stand therein, if thy power cease in us ? Lead us not therefore, merciful Father, into temptation, nor cease at any time to govern us.
 
 Now, seeing the God of all mercy, which knoweth tbino
-
-86 EXPOSITION OF [chap.
 
 infirmity, commandeth thee to pray in all temptation and adversity, and hath promised to help, if thou trust in him ; what excuse is it to say, when thou hast sinned, I could not stand of myself; when his power was ready to help thee, if thou haddest asked ?
 
@@ -243,8 +234,6 @@ As above of alms and prayer, even so here Christ rebuketh the false intent and h
 
 ' o thereby we they fasted, to praise them, and to say, ' O what holy men are {JJo^e'^prone these; how pale and pitiful look they, even like death, hanging fSusea.'*' down their heads, and beholding the earth, as men clean out of the world ! If these come not to heaven, what shall become of us poor wretches of the world ? If these be not great in the [3 So L., but in D. and of a new, &c.]
 
-92 EXPOSITION OF [chap.
-
 favour of God, and their prayers be heard whatsoever they ask, in what case are we lay people ? Happy is he that may be a brother among them, and partaker of their prayers and fastings, and other holy living. In an unhappy (in an happy, I would say) hour was he born that buildeth them a cell or a cloister, or giveth them a portion of his land to comfort them good men in this painful living, and strait penance which they have taken upon them. Blessed were he that might kiss the edge of the coat of one of them. Oh, he that might have his body wrapped in one of their old coats at the hour of death, it were as good to him as his Christendom ^ &C.'' It appeareth also by that they asked Christ, why his disciples fasted not as well as the Pharisees, that they oft fasted when the common people fasted not, and all to appear holy ; as ours fast advent, and begin before lent at Septuagesima, when Laus tibi Domine^
 
 Toanointthe Aud conccming the anointing of thy head, &c. is meant, meaneui'.^ ' as aforc of turning^ the other cheek, and of that the left hand w. X. ~ ...
@@ -263,7 +252,7 @@ Pasting. As couceming fasting, it were good, that kings and rulers did set an or
 
 [2 Praise to thee, Lord. From Septuagesima to Palm Sunday the Roman breviary directs the omission of Te Deum in the Sunday service ; and Laxis tibi Domine is then added as a ninth responsorium in its stead.] make the men more effeminate than the women, so that there remaineth no more tokens of a man in them save their beards. Our fashions of eating make us slothful, and unlusty to labour The heap of inconve- and study: unstable, inconstant, and hght-mannered ; full of "'epces that
 
-'^ . ... . . spnng by in- wits, after-witted (as we call it), incircumspect, inconsiderate, a^'S^'^er. heady, rash, and hasty to begin unadvisedly, and without anddrinwn| casting of perils, the end not considered what may follow, nor the means well looked upon, how and by what way the matter might be brought to pass, triflers, mockers, rude, unsavoury jesters^ without all manner of salt, and even very apes and marmosets, and full of wanton and ribaldish communication and lewd gestures. It corrupteth the wit with false judgment, and infecteth the body with lust, and maketh the whole man so unquiet in himself, that the body cannot sit still and rest in one place, and continue in his work, nor the mind persevere and endure in one purpose.
+'^ . ... . . spnng by in-wits, after-witted (as we call it), incircumspect, inconsiderate, a^'S^'^er. heady, rash, and hasty to begin unadvisedly, and without anddrinwn| casting of perils, the end not considered what may follow, nor the means well looked upon, how and by what way the matter might be brought to pass, triflers, mockers, rude, unsavoury jesters^ without all manner of salt, and even very apes and marmosets, and full of wanton and ribaldish communication and lewd gestures. It corrupteth the wit with false judgment, and infecteth the body with lust, and maketh the whole man so unquiet in himself, that the body cannot sit still and rest in one place, and continue in his work, nor the mind persevere and endure in one purpose.
 
 Let them provide that there be diligent fishing in the sea, and command the sea coast, and towns whither fish may easily come, to fast Friday, Saturday, and \Yednesday too, if need be, Fastingdays, and on the Friday to eat no white meat. And let the counabstfnence, tries which have none abundance of fish, yet have white meat Gained for comraon- enough, fast Friday and Saturday from flesh only. And let weaissake. those countries where scarcity of both is, fast Friday from flesh only, and eat flesh Wednesday and Saturday ; but abstain from supper, or from dinner, or eat soberly those days. And let them so moderate their fasts that the people may bear it, a provision made for the old, the sick, and feeble, &c. : which fast shall be a temporal thing, for a temporal commonwealth only, and not a service to God.
 
@@ -321,8 +310,6 @@ Furthermore, that the true intent is away, both of their The true fasting and pr
 
 [tyndale, II.]
 
-98 EXPOSITION OF [chap.
-
 as for the hypocrisy of the fratry^, where they eat but invisible flesh, or that is interpret to be no flesh", [it] is spoken of in other places. Another proof is that they so long a time have given pardons, of the merits of their fasting, as though they had done more than enough for themselves ; and of that merchandise have gotten all they have, and have brought the knowledge of Christ's blood clean into darkness. And last of all, what shall I say of the open idolatry of innumerable fasts; of St Brandon's fast^, St Patrick's fast, of four holy Fridays*, of St Anthony's between St Mary''s days^ of our Lady fast, either seven year the same day that her day falleth on in March, and then begin, or one year with bread and water ^ and all for what purposes, ye know well enough ; and
 
 [1 The fratry, or refectory, was the dining-room of a monastery. Fosbroke has devoted his thirty-fifth chapter to a description of its usages and luxuries. Brit. Monachism.]
@@ -341,9 +328,7 @@ See that ye gather not treasure upon the earth, where rust and moths corrupt, an
 
 Note the goodly order of Christ's preaching. First he restored the true understanding of the law, then the true intent of the works. And here, consequently, he rebuketh the mortal foe and sworn enemy both of true doctrine and true living, which is covetousness ; the root of all evil, saith Paul, (1 Tim. vi.) Covetousness is image-service, (Col. iii.) It ,^^*^ta maketh men to err from the faith, (1 Tim. vi). It hath no }us"^w!t. part in the kingdom of Christ and God, (Eph. v). CovetouscJi'.'ui^'' ness hardened the heart of Pharaoh, that the faith of the ^^*'' "' miracles of God could not sink into it. Covetousness did make Balaam, which knew all the truth of God, to hate it, and to give the most pestilent and poisonful^ counsel against it that heart could imagine, even for to destroy it, if it had been possible. Covetousness taught the false prophets in the old Testament to interpret the law of God falsely, and to pervert the meaning and intent of all the sacrifices and ceremonies, and to slay the true preachers that rebuked them. And with their false persuasions they did lead all the kings of Israel out of the right way, and the most part of the kings of Judah also. And Peter, in the second chapter of his a Pet u. second epistle, prophesieth that there should be false teachers among us, that should foUow the way of Balaam (that is to say, for covetousness persecute the truth), and through covetousness with feigned words to make merchandise of the people, and to bring in damnable sects too. And here ye have an covetous-
 
-O j^ ness cannot infallible rule, that where covetousness is, there is no truth ; ^t|^- no, though they call themselves the church, and say thereto that they cannot err. Covetousness kept Judas still in un- choice of either fasting once a week for seven years, on that day of the week on which Lady-day happened to fall, beginning his course from that day, or of finishing his penance sooner by taking as many fasting-days together, which would obviously amount to one whole year.] [7 So D., but L. has poison counsel. See Vol. i. p. 17, n. 4]
-
-100 EXPOSITION OF [chap.
+O j^ ness cannot infallible rule, that where covetousness is, there is no truth ; ^t|^- no, though they call themselves the church, and say thereto that they cannot err. Covetousness kept Judas still in un-choice of either fasting once a week for seven years, on that day of the week on which Lady-day happened to fall, beginning his course from that day, or of finishing his penance sooner by taking as many fasting-days together, which would obviously amount to one whole year.] [7 So D., but L. has poison counsel. See Vol. i. p. 17, n. 4]
 
 belief, though he saw and did also many miracles in the name of Christ, and compelled him to sell him to the scribes and Pharisees ; for covetousness is a thinoj merciless. Covetousness made the Pharisees to lie on Christ, to persecute him, and falsely to accuse him. And it made Pilate, though he found him an innocent, yet to slay him. It caused Herod to persecute Christ, yet in his cradle. Covetousness maketh hypocrites to persecute the truth, against their own consciences ; and to lie to princes, that the true preachers move sedition and make their subjects to rise against them : and the said covetousness maketh the princes to believe their wicked persuasions, and to lend their swords to shed innocent blood.
 
@@ -369,8 +354,6 @@ And, finally, mark one point in Luke xiv: "None of them, lukexiv. that refuseth 
 
 [* Ear: to plow ; as in 1 Sam. viii. 12. Author, version.]
 
-102 EXPOSITION OF [chap.
-
 that is, he that casteth not away the love of all worldly things, can be no scholar of Christ's to learn his doctrine. Then he addeth that "salt is good; but, if the salt be unsavoury," or hath lost his virtue, "what can be seasoned therewith?"
 
 covetoiisness Vcrily, uothiug. Now, by salt is understood the doctrine; and wft^of Vc!d's the meaning is, if ye be covetous and love worldly things, it voury. ' will corrupt the salt of your doctrine, so that whatsoever you powder therewith, it shall be more unsavoury than before.
@@ -384,8 +367,6 @@ Darkness. Note the conclusion with a proper similitude. The eye is the light of 
 How dark is the doctrine of them that say stiffly, that the Darkness, work of the sacraments in itself (not referring it to stir up the faith of the promises annexed to them) doth justify ; and affirm, that bodily pain, for the pain itself, (not referring it either to the love of the law of God or of their neighbour,) doth please God ! How dark, damnable, and devilish, is the The darkness doctrine of them, which not only think lucre to be the service doctrin''eEIre of God, but also are so far past all shame, that they affirm peareth. they be the holy church, and cannot err; and all that they decree must be an article of our faith, and that it is damnable once to doubt, or search the scripture whether their doctrine will thereto agree or no; but say their decrees must be believed as they sound, how contrary soever the scripture be, and the scripture must be expounded and made agree to them. They need not to regard the scripture, but to do and say as their Holy Ghost moveth them ; and if the scripture be contrary, then make it a nose of wax, and wrest it this way and that way, till it agree.
 
 Faith of works was the darkness of the false prophets, fm* , , ir ' worksisdark- out of the which the true could not draw them. Faith of '^^- w. t. works was the blindness of the Pharisees, out of the which neither John Baptist nor Christ could bring them. And though John Baptist piped to them with reasons of the scripture invincible, and Christ thereto added miracles, yet the
-
-104 EXPOSITION OF [chap.
 
 Pharisees would not dance. For Jolin Baptist, as they thought, was too mad, to Hve so strait a hfe, and to refuse to be justified thereby : and as for Christ and his disciples, the Pharisees were much holier themselves, fasted oftener, and prayed thicker ; yea, and uttered many more words in their prayer than they. Faith of works is that belief of the Turks and Jews, which driveth them ever away from Christ. Faith of works hath been that Hght of darkness in which a great part of us Christen^ have walked ever since Pelagius and Faustus^, well about twelve hundred years, and ever more and more ; and in which all our religious have walked all, and more too, this four or five hundred year; and in which the priests also have walked a long season : the Lord bring them out again ! Darkness. Finally : how dark is the darkness, when a Pharisee and a very Pelagian standeth up, and preacheth against the Pharisees and the Pelagians, and is allowed of all the audience! And, in conclusion, when the world, ever since it began, hath and doth of natural blindness believe in their own works ; then, if the scripture be perverted to confirm that error, how sore are their hearts hardened, and how deep is that darkness !
 
@@ -420,8 +401,6 @@ Mammon saith : ' Lay up, to have enough to maintain thine estate, and to defend 
 [3 Count thyself thy nearest neighbour.] [* Ignorant.]
 
 [5 Alluding to the different vestments by which different monastic orders were distinguished from the laity, and from each other.]
-
-106 EXPOSITION OF [chap.
 
 Theservanu Forasmuch then as God and mammon be two so contrary of mammon -ii /-n i are not of mastcrs, that whosoever will serve God must give up mam-
 

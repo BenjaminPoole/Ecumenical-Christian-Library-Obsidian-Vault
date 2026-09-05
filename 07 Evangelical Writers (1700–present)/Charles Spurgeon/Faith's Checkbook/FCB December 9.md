@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 9
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE "ALL" OF BELIEF**
+## **The "All" of Belief**
 
 > Jesus said unto him, If thou canst believe, all things are possible to him that believeth" Mark 9:23
 
@@ -25,7 +24,6 @@ Yes, the confederacies of evil shall be scattered if we can but believe. Despise
 What can we not believe? Is everything possible except believing in God? Yet He is always true; why do we not believe Him? He is always faithful to His word; why can we not trust Him? When we are in a right state of heart faith costs no effort: it is then as natural for us to rely upon God as for a child to trust its father.
 
 The worst of it is, that we can believe God about everything except the present pressing trial. This is folly. Come, my soul, shake off such sinfulness, and trust thy God with the load, the labor, the longing of this present. This done, all is done.
-
 
 ---
 [[FCB December 8|← December 8]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 10|December 10 →]]

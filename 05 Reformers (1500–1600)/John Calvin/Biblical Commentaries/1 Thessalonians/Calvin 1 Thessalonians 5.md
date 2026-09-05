@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Thessalonians 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 1 Thessalonians 5:1-5
 
@@ -190,7 +189,7 @@ no one doubts that he speaks of his understanding and affection, and thus enumer
 
 **27** *I adjure you by the Lord*. It is not certain whether he feared that, as often happened, spiteful and envious persons would suppress the Epistle, or whether he wished to provide against another danger — lest by a mistaken prudence and caution on the part of some, it should be kept among a few. [^36] For there will always be found some who say that it is of no advantage to publish generally things that otherwise they recognize as very excellent. At least, whatever artifice or pretext Satan may have at that time contrived, in order that the Epistle might not come to the knowledge of all, we may gather from Paul’s words with what earnestness and keenness he sets himself in opposition to it. For it is no light or frivolous thing to *adjure by the name of God.* We find, therefore, that the Spirit of God would have those things which he had set forth in this Epistle, through the ministry of Paul, to be published throughout the whole Church. Hence it appears, that those are more refractory than even devils themselves, who in the present day prohibit the people of God from reading the writings of Paul, inasmuch as they are no way moved by so strict an adjuration.
 
-**END OF THE COMMENTARY ON THE FIRST EPISTLE TO THE THESSALONIANS.**
+## **End of the Commentary on the First Epistle to the Thessalonians.**
 
 ---
 [[Calvin 1 Thessalonians 4|← 1 Thessalonians 4]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/1 Thessalonians/1-thessalonians-index|Contents]]

@@ -12,14 +12,13 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Children and Their Hosannas
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1785
 
 > "But when the chief priests and scribes saw the wonderful things thatHe did, and the children crying in the Temple, and saying, "Hosanna to the son of David!" they were sorely displeased, and said unto Him, "Do You hear what these are saying?" And Jesus said unto them, "Yes. Have you ne ver read, Out of the mouth of babes and sucklings you have perfected praise?" Matthew 21:15,16.
 
-(BY REQUEST OF THE SUNDAY SCHOOL UNION).
+## (By Request of the Sunday School Union)
 
 THESE scribes and Pharisees always come in very conveniently as a sort of shadow to bring out the bright lights of the picture. One feels glad that they are not alive to worry us now, but somewhat glad that they were alive just then to put some of their strange cross questions to the Savior and to awaken His spirit to utter precious Truths of God which are all the better understood because of the occasion which called for them. Here was their question, "Do You hear what these are saying?" I suppose that if interpreted at full length the question means, "Do You permit these mere children to salute You with hosannas? What do You think of Yourself when Your name is in the mouths of noisy boys and girls who make the Temple courts to ring, again?"
 
@@ -126,7 +125,6 @@ Dear Sunday school teachers, allow me to congratulate you upon the blessed work 
 "Oh, but I have done enough!" It is a mercy for you that the sun does not say that he has done enough, or else he would not shine tomorrow—or that God and His Christ do not say they have done enough! What would become of you if the Lord ceased blessing you? We are needing Sunday school teachers almost everywhere in London! Our people who get on in the world are too respectable to teach children. What a wretched pride this is! Those who talk so are disreputable creatures—I am sick of them! In America, a president has taught a Sunday school—it was to His honor. In England chancellors and prime ministers have thought such service no disgrace. Let queens and princes teach Sunday school—it shall be for their renown! If you are the most wealthy man in London, you are the person who should take a class—that is to say, if you are a true Christian. You of knowledge, you of understanding, you of intelligence, you should come to encourage the rest.
 
 Do not leave this sacred service to our second-best people. I do not say that you have done so, but do not begin to move in that direction. Let those who know most, teach most—and let those who have grown most in Christ, themselves, be most earnest that others should grow up in His fear. If you love my Master, I leave this subject with you in fullest confidence. If not, I do not ask you to attempt to teach what you do not know. Jesus does not say to Judas or to Pilate, "Feed My lambs." But He does say it to you, Peter, because you can say, "Lord, You know all things. You know that I love You."
-
 
 ---
 [[Sermon 1784 Unbelief Condemned and Faith Commended|← #1784]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1786 Our Sanctuary|#1786 →]]

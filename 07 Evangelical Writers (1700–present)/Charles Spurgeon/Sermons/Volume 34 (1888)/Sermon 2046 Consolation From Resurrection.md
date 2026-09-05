@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Consolation From Resurrection
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2046
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 30, 1888,.
+*Delivered on Lord's Day Morning, September 30, 1888*
 
 > "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be your plagues; O grave, I will be your destruction: repentance shall be hid from My eyes." Hosea 13:14.
 
@@ -174,7 +173,6 @@ Lastly, let us have that same hope about our unconverted friends. We want to see
 I beg you to regard every soul that is not begotten unto God as being dead in sin, else you will not go to the bottom of things and you will not go the right way to work. Next, go to the Lord and Giver of life and say, "Lord, I cannot make this dear child live. I cannot bring my unconverted husband to You. I will do all I can by teaching, persuasion and example. But O my Lord, I look to You to give the spark of Divine life."
 
 Go to God with your anxiety for dead souls and cry, "Lord, quicken them!" In dependence upon the Spirit of God, preach the Gospel which is the vehicle of Divine life and you shall see them live. Have faith about those who are laid on your heart. God grant your faith a full and speedy reward, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2045 Further Afield|← #2045]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2047 No Compromise|#2047 →]]

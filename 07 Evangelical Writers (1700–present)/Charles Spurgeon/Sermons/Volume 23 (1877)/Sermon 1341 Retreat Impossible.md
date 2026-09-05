@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Retreat Impossible
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1341
-
-DELIVERED BY.
 
 > "I have given my word to the Lord, and I cannot go back." Judges 11:35.
 
@@ -156,7 +153,6 @@ This is the right spirit. The Lord send it among us more and more! It is the spi
 What is it to go forward if we compare it with the Glory that is beyond? A pin's prick, that is all—and then you will be in Heaven! Oh, to stand among the glorified!—to hear the Master say, "Well done!" One might die a thousand deaths to get those two syllables, if there were nothing else—"Well done!" To enjoy His smile, to share His crown, to stand among His palm-bearing hosts and participate in His Glory—this is worth all the difficulty and sacrifice involved in going forward—and ten thousand times more!
 
 Therefore accept this closing word. Forward, my Brothers and Sisters—forward! Whatever lies before you—the Red Sea or the rage of earth and Hell combined—if God calls you, forward! He will bear you through to the glorious end. The Lord be with you, for Christ's sake! Amen!
-
 
 ---
 [[Sermon 1340 Manoah's Wife and Her Excellent Argument|← #1340]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1342 Dagon's Ups and Downs|#1342 →]]

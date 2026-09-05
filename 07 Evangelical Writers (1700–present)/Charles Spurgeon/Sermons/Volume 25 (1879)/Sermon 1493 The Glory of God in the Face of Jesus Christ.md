@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Glory of God in the Face of Jesus Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1493
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 7, 1879,.
+*Delivered on Lord's-Day Morning, September 7, 1879*
 
 > "For God, who commanded the light to shine out of darkness, has shined in our hearts, to give the light of the knowledge of the Glory of God in the face of Jesus Christ." 2 Corinthians 4:6.
 
@@ -170,7 +169,6 @@ Scatter your light in all unselfishness. Wish to shine, not that others may say,
 Oh, that we had trumpet tongues to make the message peal through Heaven and earth that God has come among men, and cries, "Come unto Me all you that labor and are heavy laden, and I will give you rest"! Oh for a voice of thunder to speak it, or a lightning pen to write it across the heavens—that God has reconciled the world unto Himself by the death of His Son, not imputing their trespasses unto them—and that whoever believes in Christ Jesus has everlasting life! I cannot command thunder or lightning, but here are your tongues, go and tell it this afternoon! Here is my tongue and I have tried to tell it, and may it be silent in the dust of death before it ceases to declare that one blessed message—that God in Christ Jesus receives the sons of men in boundless love!
 
 Tell it, Brothers, with broken accents, if you cannot speak it more powerfully. Whisper it, Sisters, gently whisper, if to none other, yet to your little children and make the name of, "Emmanuel, God with us," to be sweet in your infant's ears. You are growing in strength and talent, young man—come, consecrate yourself to this. And you, gray-beard, before you lie down on your last bed to breathe out your spirit, tell the love of Jesus to your sons that they may tell it to their sons and hand it down to coming generations, that mankind may never forget that the "Word was made flesh and dwelt among us, and we beheld His Glory, the Glory as of the only begotten of the Father, full of Grace and truth." God bless you. Amen.
-
 
 ---
 [[Sermon 1492 The First Note of My Song|← #1492]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1494 The One Foundation|#1494 →]]

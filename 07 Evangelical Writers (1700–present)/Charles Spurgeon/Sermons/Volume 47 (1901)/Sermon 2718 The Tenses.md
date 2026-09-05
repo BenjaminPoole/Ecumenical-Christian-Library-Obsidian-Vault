@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Tenses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2718
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who delivered us from so great a death, and does deliver us; in whom we trust that He will still deliver us." 2 Corinthians 1:10.
 
@@ -105,7 +102,7 @@ Dear Brother, you never live a truly holy, happy, blessed day except by Divine G
 
 Thirdly, the last inference I draw from the text is that our whole life should be filled with praise of God our Deliverer How does it run? He delivered us and now we deliver ourselves? No, no, no! He delivered us. He does deliver us— but what about the future? We must deliver ourselves? No, no, no! He has delivered! He does deliver and He will still deliver—the same Person, working in the beginning, in the center and at the close. It is all of God from first to last! There is not one deliverance which you have ever had which you can ascribe to anyone but the Lord, alone. Inside Heaven's gate all the praise is given to the Triune Jehovah—"Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be." And outside Heaven's gate, let us sing the same song, to the same tune! Let it always be to the praise of Grace, Grace, GRACE. To the God of Grace, the Father of Grace, the Christ of Grace, the Holy Spirit and His Grace and to God be all the glory, forever and for ever! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: PSALMS 16; 63.
+## Expositions by C. H. Spurgeon: Psalms 16; 63
 
 Psalm 16:1. Preserve me, O God: for in You Iput my trust. Ah, Brothers and Sisters! When we think of our daily dangers and when we remember the sinfulness of our nature, this petition may well be our frequent prayer! "Preserve me, O God." And this may well be our plea, as well as the Psalmist's, "for in You I put my trust." We trust in the name of the Lord, for we can never expect to be preserved except by His protecting Grace.
 
@@ -156,7 +153,6 @@ through Jesus Christ, His Son and our Savior, brings to us a loving kindness tha
 7\. My soul follows hard after You. "I am like a dog who loves to keep close to his master's heels."
 
 8-11. Your right hand upholds me. But those that seek my soul, to destroy it, shall go into the lower parts of the earth. They shall fall by the sword: they shall be a portion for foxes, But the king shall rejoice in God; everyone that swears by Him shall glory: but the mouth of them that speak lies shall be stopped. Stopped with a shovelful of earth, in many cases, for it seems as if some liars would never cease lying as long as they are alive.
-
 
 ---
 [[Sermon 2717 Man's Extremity, God's Opportunity|← #2717]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2719 True Learning|#2719 →]]

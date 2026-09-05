@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # His Own Funeral Sermon*
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2243
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For David, after he had served his own generation by the will of God, fell on sleep." Acts 13:36.
 
@@ -116,7 +113,6 @@ You remember such dying beds, do you not? Was it your mother, or your father who
 shall not all sleep, but we shall all be changed." Then, when the trumpet shall sound, this corruptible shall put on incor-ruption—those who sleep in Christ shall awake in Resurrection splendor and together we shall serve our Lord day and night in His Temple forever! Meanwhile, serve your own generation by the will of God. And if the Lord should tarry, you will fall on sleep, even as David did. May God bless you, who believe in Jesus, and save the unsaved who are in our midst, for our Lord Jesus Christ's sake! Amen.
 
 Portion of Scripture Read before Sermon—Acts 13:14-43.
-
 
 ---
 [[Sermon 2242 God's Will About the Future|← #2242]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2244 Members Of Christ|#2244 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Finding and Following Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3225
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We have found Him." John 1:45.
 
@@ -99,7 +96,7 @@ Have you found this great hive of honey and is it very sweet to your taste? Then
 
 And there is no need for anybody to go out of town in order to be a missionary to the heathen! There they are, Brothers and Sisters, all around you! And you are the missionaries. There is your work—go and do it—and may God bless you in it—and so may many precious immortal souls through you be led to find Jesus and to trust in Him for salvation, for His name and mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS2:1-21.
+## Exposition by C. H. Spurgeon: Acts 2:1-21
 
 [The following Exposition is the earlier portion of the one published with Sermon #3224, Volume 56—"REPENTANCE AND REMISSION".]
 
@@ -118,7 +115,6 @@ from their lips with the greatest fluency! How wide the range of those foreign t
 your young men shall see visions in those days of My Spirit; and they shall prophesy: and I will show wonders in Heaven above and signs in the earth beneath; blood, and fire, and vapor of smoke: the sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord comes. Doubtless this refers first to the siege of Jerusalem, when those strange portents were seen in the heavens, and afterwards to that far greater and more notable day of the Lord, the Day of Judgment, when the moon shall become as blood and the sun shall become black as sackcloth of hair.
 
 21\. Andit shall come to pass, that whoever shall call on the name of the Lord shall be saved. What a glorious Gospel verse this is! This is one of the great lifeboat-texts of the Bible. He who can get into this boat shall certainly sail to Glory in safety! "Whoever"—there is no exception of character, whatever his past life may have been! "Whoever shall call on the name of the Lord"—here are no hard conditions—prayer, trust, confession of that trust—all these make up calling upon the name of the Lord. And whoever shall do this, not only may be but, "shall be saved." There is no perhaps, no maybe about it—"Whoever shall call on the name of the Lord shall be saved."
-
 
 ---
 [[Sermon 3224 'Repentance and Remission'|← #3224]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3226 Figs and Olives|#3226 →]]

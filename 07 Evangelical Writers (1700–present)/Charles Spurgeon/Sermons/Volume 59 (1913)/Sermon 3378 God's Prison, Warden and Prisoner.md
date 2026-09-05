@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # God's Prison, Warden and Prisoner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3378
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Keep yourselves in the love of God." Jude 1:21
 
@@ -29,7 +26,7 @@ The word, "keep," which is used here, has in it, in the Greek, the idea of keepi
 
 I really do not like to use the text with such a meaning, but I cannot very well bring out the meaning of it in any better way. Let us speak, then, first of—
 
-I. THE HEAVENLY PRISON OF "THE LOVE OF GOD."
+## I. The Heavenly Prison of "the Love of God."
 
 There is no restraint about this prison. He who gets into it finds, for the first time, true liberty! Then his mind is free from all its bondage. Then his faculties find themselves in a sea where they may swim. Then are his purest longings gratified. Then are his passions allowed to take wing and mount as they will. Then the soul has space to float onwards and when it comes fully to the love of God, the new-born soul is in its element!
 
@@ -99,7 +96,7 @@ Now, to many here I am afraid I have been saying some things which are no more u
 
 filled with the love of God and, with all the blood-washed, shall pass through the pearly gates—and in Heaven shall join with them in singing of the love of God, world without end! May you and I have a portion there, for Christ's sake.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14.
+## Exposition by C. H. Spurgeon: John 14
 
 Verse 1. Let not your heart be troubled: you believe in God, believe also in Me. You will be troubled—that cannot be helped. But let not your heart be troubled. You are like a ship and all the water in the sea cannot hurt a ship if it is kept outside of her. Let not your heart be troubled. How are you to prevent it? Faith is the remedy. You already be-lieve—believe more. "You believe in God, believe also in Me." "You have a trust in the infinite power of God—believe in Me as the Incarnation of His infinite love."
 
@@ -136,7 +133,6 @@ shall he do also; and greater works than these shall he do because I go to My Fa
 24-28. He that loves Me not keeps not My sayings; and the word which you hear is not Mine, but the Father's which sent Me. These things have I spoken unto you being yet present with you. But the Comforter, which is the Holy Spirit, whom the Father will send in My name, He shall teach you all things, and bring all things to your remembrance, whatever I have said unto you. Peace I leave with you, My peace I give unto you: not as the world gives, give I unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, I go away, and come again unto you. If you loved Me, you would rejoice, because I said, I go unto the Father: for My Father is greater than I. Christ had stooped to take a lower place for our sakes.
 
 29-31. And now I have told you before it comes to pass, that when it is come to pass, you might believe. Hereafter I will not talk much with you: for the prince of this world comes, and has nothing in Me. But that the world may know that I love the Father: and as the Father gave Me commandment, even so I do. Arise, let us go from here.
-
 
 ---
 [[Sermon 3377 The Greatest Wonder of Grace|← #3377]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3379 Rough, But Friendly|#3379 →]]

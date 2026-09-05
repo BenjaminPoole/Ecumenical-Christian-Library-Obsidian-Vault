@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Security Of Believers—Or, Sheep Who Shall Never Perish
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2120
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My sheep hear My voice and I know them and they follow Me: and I give unto them eternal life. And they shall never perish, neither shall any man pluck them out of My hand. My Father, which gave them Me is greater than all. And no man is able to pluck them out of My Father's hand. I and my Father are one." John 10:27-30
 
@@ -184,7 +181,6 @@ One more thing I must say. Some ministers preach a Gospel with a very wide door 
 Sinner, come and have an eternal blessing! It is worth having. Come and have it! If you believe, you shall assuredly be saved. "He that believes and is baptized shall be saved"—saved from sin so as never to go back and live in it again! So saved as to be made holy! Saved as to be preserved in holiness. Holiness shall be the set of the main current of your life, until, made perfectly holy, you shall dwell with God above.
 
 Into His hands let us commit our spirits tonight and we may rest assured that they shall be safe eternally. Amen.
-
 
 ---
 [[Sermon 2119 Magdalene at the Sepulcher—an Instructive Scene|← #2119]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]]

@@ -10,6 +10,7 @@ written: "1749"
 tags:
   - jonathan-edwards
 ---
+# Objection XX. Some Have Been Converted at the Sacrament
 
 *ministers* have been greatly *blessed* in the other way of proceeding, and some men have been *converted at the Lord’s supper.*
 

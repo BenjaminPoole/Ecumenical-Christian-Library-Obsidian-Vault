@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # "Knock!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1723
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 27, 1883,.
+*Delivered on Lord's-Day Morning, May 27, 1883*
 
 > "Knock, and it shall be opened unto you." Matthew 7:12.
 
@@ -134,7 +133,6 @@ I need to say this and I have done. Some people think if they have begun to pray
 Knocking would not give you a dinner, nor do your business for you. Knocking is only the way of entrance, but if you stop at knocking it is poor work. The most earnest praying is only a way of getting to Christ. The Gospel, itself, is, "Believe in the Lord Jesus Christ and you shall be saved." Come, then, to Christ! If you find the door shut, knock. But oh, remember, the door is not really shut—it is only so in your apprehension! Heaven's gate stands open night and day! At once believe and live! Trust in the merit of Jesus Christ and you are clothed with it! Trust in the blood of Christ, and you are washed in it!
 
 Faith saves in an instant! It touches Jesus and the healing virtue pours forth from His garment's hem! Faith steps over the threshold and the soul is safe! The Lord grant that you may enter in at once—and then it shall be our joy, and the angels' joy, and the great Father's joy, forever and ever, to see you rescued from destruction! Amen.
-
 
 ---
 [[Sermon 1722 The First Setting Up of the Bronze Serpent|← #1722]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1724 Supposing Him to Have Been in the Company|#1724 →]]

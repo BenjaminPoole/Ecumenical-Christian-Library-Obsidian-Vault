@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Good Samaritan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1360
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 17, 1877,.
+*Delivered on Lord's-Day Morning, June 17, 1877*
 
 > "And, behold, a certain lawyer stood up, and tempted Him, saying, Master, whiat shiall I do to inhierit eternal life? He said unto Aim, Whiat is written in he Law? How Do you read it? And hie, answering, said, You shiall love the Lord your God with all your hieart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself And He said unto hiim, You have answered right; do this, and you shiall live. But hie, willing to justify himself said unto Jesus, And who is my neighbor? And Jesus, answering, said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leavinghim half dead. And by chance there came down a certain priest that way; and when he saw him, he passed by on the other side. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. But a certain Samaritan, as he journeyed, came where he was; and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and sethim on his own beast, and brought him to an inn, and took care of him. And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatever you spend more, when I come again, I will repay you. Which now of these three, do you think, was neighbor unto him that fell among the thieves? And he said, he that showed mercy on him. Then said Jesus unto him, Go, and do you likewise." Luke 10:25-37.
 
@@ -142,7 +141,6 @@ But of necessity our Lord Jesus acts differently, for because we have a constant
 Look to what you must be throughout an entire life if your works are to save you. You must love God with all your heart and soul and strength, and your neighbor, in this Samaritan's fashion, even as yourself. And both of these without a single failure! Have you done this? Can you hope to do it perfectly? If not, why do you risk your souls in this frail skiff—this leaky, sinking craft of your poor works—for you will never get to Heaven in it. Lastly, you who are Christ's people are saved, already, and you are not going to do these things in order to save yourselves. The greater Samaritan has saved you—Jesus has redeemed you, brought you into His Church, put you under the care of His ministers, bid us take care of you—and promised to reward us if we do so in the day when He comes.
 
 Seek, then, to be true followers of your Lord by practical deeds of kindness and if you have been backward in your gifts to help either the temporal or the spiritual needs of men, begin, from this morning, with generous hearts, and God will bless you. O Divine Spirit, help us all to be like Jesus! Amen.
-
 
 ---
 [[Sermon 1359 Happiness—the Privilege and Duty of Christians|← #1359]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1361 The Final Perseverance of the Saints|#1361 →]]

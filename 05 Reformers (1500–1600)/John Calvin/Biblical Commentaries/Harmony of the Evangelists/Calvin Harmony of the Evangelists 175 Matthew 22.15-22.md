@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 175. Matthew 22:15-22; Mark 12:13-17; Luke 20:20-26
-
-MATTHEW 22:15-22; MARK 12:13-17;  
-LUKE 20:20-26
 
 **15.** Then the Pharisees went away, and took counsel how they might entrap him in his words. **16.** And they send to him their disciples, with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, and carest not for any man; for thou regardest not the person of men. **17.** Tell us then, What thinkest thou? Is it lawful to give tribute to Caesar or not? **18.** But Jesus, perceiving their wickedness, saith, Why do you tempt me, hypocrites? **19.** Show me the tribute money. And they presented to him a denarius. **20.** And he saith to them, Whose is this image and inscription? **21.** They say to him, Caesar’s. Then said he to them, Render therefore to Caesar the things which are Caesar’s, and to God the things which are God’s. **22.** And having heard these things, they wondered, and left him, and went away.
 

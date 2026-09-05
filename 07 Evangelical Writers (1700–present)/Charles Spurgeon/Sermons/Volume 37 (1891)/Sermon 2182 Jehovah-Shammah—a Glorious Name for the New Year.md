@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Jehovah-Shammah—a Glorious Name for the New Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2182
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The name of the city from that day shall be, The Lord Is There [or in the Hebrew, 'Jehovah-Shammah.']" Ezekiel 48:35
 
@@ -141,10 +138,9 @@ My Lord cannot say that He does not know me, for He has known my soul in adversi
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah45:8-25. HYMNS FROM "OUR OWN HYMN BOOK"—774, 847, 806.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS—In this, the beginning of another year, I find myself in Mentone gradually recovering health after a period of pain and weakness. To begin Volume 37 of weekly sermons has fallen to the lot of no other man. I am grateful for the peculiar privilege and all the more so because all the previous 36 volumes continue to be purchased and read, and preached. I beg each friendly reader to breathe a prayer for the preacher and for these hundreds of sermons, that the Lord may use both the living voice and the printed page to His own Glory and to the salvation of men. Man's thoughts change, but the Word of the Lord endures forever—and this is the Word which in these sermons is preached to men. May the Holy Spirit acknowledge the testimony! Wishing to all my readers A HAPPY NEW YEAR, I am their servant for Christ's sake, C. H. SPURGEON.
-
 
 ---
 [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2183 A Gracious Dismissal|#2183 →]]

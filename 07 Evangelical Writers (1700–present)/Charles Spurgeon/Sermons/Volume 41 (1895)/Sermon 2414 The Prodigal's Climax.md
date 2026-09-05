@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Prodigal's Climax
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2414
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When he came to himself." Luke 15:17.
 
@@ -95,7 +92,7 @@ Father will outstrip the wind and come and meet you, and fall upon your neck, an
 
 As for you Christian people who may be saying that there is nothing for you in the sermon, do not turn into a company of grumbling elder brothers! On the contrary, go home and pray God to bless this sermon. "But," you say, "I have not had the fatted calf tonight." "Oh, but if it were killed for the younger son, it was for you, also!" "I did not have the music and dancing tonight." Well, they have had it over the returned prodigal, over some soul that has already believed in Christ, tonight—I know they have! God does not let us preach for nothing. He will pay us our wages and give us our reward! So rejoice with us over all that the Lord has done, and all that He is going to do! The Lord bless you, Beloved, all of you, without exception, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE15.
+## Exposition by C. H. Spurgeon: Luke 15
 
 This is a chapter that needs no explanation. It carries its key within itself and the experience of every child of God is the best exposition of it. The three parables recorded here set forth the work of saving Grace in different aspects.
 
@@ -144,7 +141,6 @@ Verses 1, 2. Then drew near unto Him all the publicans and sinners for to hear H
 31\. And he said unto him, Son, you are always with me, and all that I have is yours. Oh, what a word was that! How it reminds Christians of their privileges, if they would but appropriate them! It is yours, Beloved, to live always with your God and to know that all that He has is yours! You ought to live in a perpetual festival—for you there should be one joyful Christmastide that lasts from the beginning of the year to the end of it! "Son, you are always with me, and all that I have is yours."
 
 32\. It was meet that we should make merry, and be glad: for this your brother was dead, and is alive again; and was lost, and is found. It was the fit thing, and the proper thing, and the right thing, that there should be extraordinary joy over a returning sinner. There ought to be, there must be, there shall be special music and dancing over sinners saved by the Grace of God! The Lord give us some such, tonight, and make us glad over them! Amen.
-
 
 ---
 [[Sermon 2413 Despised Light Withdrawn|← #2413]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2415 The Believer's Heritage of Joy|#2415 →]]

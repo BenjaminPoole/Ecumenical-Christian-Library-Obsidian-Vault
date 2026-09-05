@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 27. Deuteronomy 5:32,33
-
-**deuteronomy 5**
 
 **32.** Ye shall observe to do therefore as the Lord your God hath commanded you: ye shall not turn aside to the right hand or to the left.
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 116
-
-**PSALM 116**
 
 David, being delivered out of very great dangers, relates what cruel torment and anguish of mind he endured, and then how remarkably he was preserved by God. The desperate state of matters with him tended to make the power of God in his preservation more conspicuous; for had not God interposed for his deliverance, all hope would have failed. In this way he stirs himself up to gratitude, and acknowledges that he can make no other return to him for his innumerable benefits. [^1]
 

@@ -11,1105 +11,17 @@ tags:
   - classical
   - flavius-josephus
 ---
-
 # The Antiquities of the Jews
 
 [[Josephus — Works|Flavius Josephus]] · [[Josephus — The Wars of the Jews|next →]] · [[Historical Works index|Historical Works]]
 
 ---
 
-THE ANTIQUITIES OF THE JEWS
-
-
 By Flavius Josephus
-
-
 
 Translated by William Whiston
 
-
-
-
-
-CONTENTS
-
-PREFACE
-
-FOOTNOTES
-
-
-BOOK I. Containing The Interval Of Three Thousand Eight Hundred And
-Thirty-Three Years. — From The Creation To The Death Of Isaac.
-
-CHAPTER 1. The Constitution Of The World And The Disposition Of The
-Elements.
-
-CHAPTER 2. Concerning The Posterity Of Adam, And The Ten Generations
-From Him To The Deluge.
-
-CHAPTER 3. Concerning The Flood; And After What Manner Noah Was Saved In
-An Ark, With His Kindred, And Afterwards Dwelt In The Plain Of Shinar.
-
-CHAPTER 4. Concerning The Tower Of Babylon, And The Confusion Of
-Tongues.
-
-CHAPTER 5. After What Manner The Posterity Of Noah Sent Out Colonies,
-And Inhabited The Whole Earth.
-
-CHAPTER 6. How Every Nation Was Denominated From Their First
-Inhabitants.
-
-CHAPTER 7. How Abram Our Forefather Went Out Of The Land Of The
-Chaldeans, And Lived In The Land Then Called Canaan But Now Judea.
-
-CHAPTER 8. That When There Was A Famine In Canaan, Abram Went Thence
-Into Egypt; And After He Had Continued There A While He Returned Back
-Again.
-
-CHAPTER 9. The Destruction Of The Sodomites By The Assyrian War.
-
-CHAPTER 10. How Abram Fought With The Assyrians, And Overcame Them, And
-Saved The Sodomite Prisoners, And Took From The Assyrians The Prey They
-Had Gotten.
-
-CHAPTER 11. How God Overthrew The Nation Of The Sodomites, Out Of His
-Wrath Against Them For Their Sins.
-
-CHAPTER 12. Concerning Abimelech; And Concerning Ismael The Son Of
-Abraham; And Concerning The Arabians, Who Were His Posterity.
-
-CHAPTER 13. Concerning Isaac The Legitimate Son Of Abraham.
-
-CHAPTER 14. Concerning Sarah Abraham's Wife; And How She Ended Her Days.
-
-CHAPTER 15. How The Nation Of The Troglodytes Were Derived From Abraham
-By Keturah.
-
-CHAPTER 16. How Isaac Took Rebeka To Wife.
-
-CHAPTER 17. Concerning The Death Of Abraham.
-
-CHAPTER 18. Concerning The Sons Of Isaac, Esau And Jacob; Of Their
-Nativity And Education.
-
-CHAPTER 19. Concerning Jacob's Flight Into Mesopotamia, By Reason Of The
-Fear He Was In Of His Brother.
-
-CHAPTER 20. Concerning The Meeting Of Jacob And Esau.
-
-CHAPTER 21. Concerning The Violation Of Dina's Chastity.
-
-CHAPTER 22. How Isaac Died, And Was Buried In Hebron.
-
-FOOTNOTES:
-
-BOOK II. Containing The Interval Of Two Hundred And Twenty Years.—From
-The Death Of Isaac To The Exodus Out Of Egypt.
-
-CHAPTER 1. How Esau And Jacob, Isaac's Sons Divided Their Habitation;
-And Esau Possessed Idumea And Jacob Canaan.
-
-CHAPTER 2. How Joseph, The Youngest Of Jacob's Sons, Was Envied By His
-Brethren, When Certain Dreams Had Foreshown His Future Happiness.
-
-CHAPTER 3. How Joseph Was Thus Sold By His Brethren Into Egypt, By
-Reason Of Their Hatred To Him; And How He There Grew Famous And
-Illustrious And Had His Brethren Under His Power.
-
-CHAPTER 4. Concerning The Signal Chastity Of Joseph.
-
-CHAPTER 5. What Things Befell Joseph In Prison.
-
-CHAPTER 6. How Joseph When He Was Become Famous In Egypt, Had His
-Brethren In Subjection.
-
-CHAPTER 7. The Removal Of Joseph's Father With All His Family, To Him,
-On Account Of The Famine.
-
-CHAPTER 8. Of The Death Of Jacob And Joseph.
-
-CHAPTER 9. Concerning The Afflictions That Befell The Hebrews In Egypt,
-During Four Hundred Years. [16]
-
-CHAPTER 10. How Moses Made War With The Ethiopians.
-
-CHAPTER 11. How Moses Fled Out Of Egypt Into Midian.
-
-CHAPTER 12. Concerning The Burning Bush And The Rod Of Moses.
-
-CHAPTER 13. How Moses And Aaron Returned Into Egypt To Pharaoh.
-
-CHAPTER 14. Concerning The Ten Plagues Which Came Upon The Egyptians.
-
-CHAPTER 15. How The Hebrews Under The Conduct Of Moses Left Egypt.
-
-CHAPTER 16. How The Sea Was Divided Asunder For The Hebrews, When They
-Were Pursued By The Egyptians, And So Gave Them An Opportunity Of
-Escaping From Them.
-
-FOOTNOTES
-
-BOOK III. Containing The Interval Of Two Years.—From The Exodus Out Of
-Egypt, To The Rejection Of That Generation.
-
-CHAPTER 1. How Moses When He Had Brought The People Out Of Egypt Led
-Them To Mount Sinai; But Not Till They Had Suffered Much In Their
-Journey.
-
-CHAPTER 2. How The Amalekites And The Neighbouring Nations, Made War
-With The Hebrews And Were Beaten And Lost A Great Part Of Their Army.
-
-CHAPTER 3. That Moses Kindly Received-His Father-In-Law, Jethro, When He
-Came To Him To Mount Sinai.
-
-CHAPTER 4. How Raguel Suggested To Moses To Set His People In Order,
-Under Their Rulers Of Thousands, And Rulers Of Hundreds, Who Lived
-Without Order Before; And How Moses Complied In All Things With His
-Father-In-Law's Admonition.
-
-CHAPTER 5. How Moses Ascended Up To Mount Sinai, And Received Laws From
-God, And Delivered Them To The Hebrews.
-
-CHAPTER 6. Concerning The Tabernacle Which Moses Built In The Wilderness
-For The Honor Of God And Which Seemed To Be A Temple.
-
-CHAPTER 7. Concerning The Garments Of The Priests, And Of The High
-Priest.
-
-CHAPTER 8. Of The Priesthood Of Aaron.
-
-CHAPTER 9. The Manner Of Our Offering Sacrifices.
-
-CHAPTER 10. Concerning The Festivals; And How Each Day Of Such Festival
-Is To Be Observed.
-
-CHAPTER 11. Of The Purifications.
-
-CHAPTER 12. Several Laws.
-
-CHAPTER 13. Moses Removed From Mount Sinai, And Conducted The People To
-The Borders Of The Canaanites.
-
-CHAPTER 14. How Moses Sent Some Persons To Search Out The Land Of The
-Canaanites, And The Largeness Of Their Cities; And Further That When
-Those Who Were Sent Were Returned, After Forty Days And Reported That
-They Should Not Be A Match For Them, And Extolled The Strength Of The
-Canaanites The Multitude Were Disturbed And Fell Into Despair; And Were
-Resolved To Stone Moses, And To Return Back Again Into Egypt, And Serve
-The Egyptians.
-
-CHAPTER 15. How Moses Was Displeased At This, And Foretold That God Was
-Angry And That They Should Continue In The Wilderness For Forty Years
-And Not, During That Time, Either Return Into Egypt Or Take Possession
-Of Canaan.
-
-FOOTNOTES:
-
-BOOK IV. Containing The Interval Of Thirty-Eight Years.—From The
-Rejection Of That Generation To The Death Of Moses.
-
-CHAPTER 1. Fight Of The Hebrews With The Canaanites Without The Consent
-Of Moses; And Their Defeat.
-
-CHAPTER 2. The Sedition Of Corah And Of The Multitude Against Moses, And
-Against His Brother, Concerning The Priesthood.
-
-CHAPTER 3. How Those That Stirred Up This Sedition Were Destroyed,
-According To The Will Of God; And How Aaron, Moses's Brother Both He And
-His Posterity, Retained The Priesthood.
-
-CHAPTER 4. What Happened To The Hebrews During Thirty-Eight Years In The
-Wilderness.
-
-CHAPTER 5. How Moses Conquered Sihon And Og Kings Of The Amorites, And
-Destroyed Their Whole Army And Then Divided Their Land By Lot To Two
-Tribes And A Half Of The Hebrews.
-
-CHAPTER 6. Concerning Balaam The Prophet And What Kind Of Man He Was.
-
-CHAPTER 7. How The Hebrews Fought With The Midianites, And Overcame
-Them.
-
-CHAPTER 8. The Polity Settled By Moses; And How He Disappeared From
-Among Mankind.
-
-FOOTNOTES:
-
-BOOK V. Containing The Interval Of Four Hundred And Seventy-Six
-Years.—From The Death Of Moses To The Death Of Eli.
-
-CHAPTER 1. How Joshua, The Commander Of The Hebrews, Made War With The
-Canaanites, And Overcame Them, And Destroyed Them, And Divided Their
-Land By Lot To The Tribes Of Israel.
-
-CHAPTER 2. How, After The Death Of Joshua Their Commander, The
-Israelites Transgressed The Laws Of Their Country, And Experienced Great
-Afflictions; And When There Was A Sedition Arisen, The Tribe Of Benjamin
-Was Destroyed Excepting Only Six Hundred Men.
-
-CHAPTER 3. How The Israelites After This Misfortune Grew Wicked And
-Served The Assyrians; And How God Delivered Them By Othniel, Who Ruled
-Over Them Forty Years.
-
-CHAPTER 4. How Our People Served The Moabites Eighteen Years, And Were
-Then Delivered From Slavery By One Ehud Who Retained The Dominion Eighty
-Years.
-
-CHAPTER 5. How The Canaanites Brought The Israelites Under Slavery For
-Twenty Years; After Which They Were Delivered By Barak And Deborah, Who
-Ruled Over Them For Forty Years.
-
-CHAPTER 6. How The Midianites And Other Nations Fought Against The
-Israelites And Beat Them, And Afflicted Their Country For Seven Years,
-How They Were Delivered By Gideon, Who Ruled Over The Multitude For
-Forty Years.
-
-CHAPTER 7. That The Judges Who Succeeded Gideon Made War With The
-Adjoining Nations For A Long Time.
-
-CHAPTER 8. Concerning The Fortitude Of Samson, And What Mischiefs He
-Brought Upon The Philistines.
-
-CHAPTER 9. How Under Eli's Government Of The Israelites Booz Married
-Ruth, From Whom Came Obed The Grandfather Of David.
-
-CHAPTER 10. Concerning The Birth Of Samuel; And How He Foretold The
-Calamity That Befell The Sons Of Eli.
-
-CHAPTER 11. Herein Is Declared What Befell The Sons Of Eli, The Ark, And
-The People And How Eli Himself Died Miserably.
-
-FOOTNOTES
-
-BOOK VI. Containing The Interval Of Thirty-Two Years.—From The Death Of
-Eli To The Death Of Saul.
-
-CHAPTER 1. The Destruction That Came Upon The Philistines, And Upon
-Their Land, By The Wrath Of Go On Account Of Their Having Carried The
-Ark Away Captive; And After What Manner They Sent It Back To The
-Hebrews.
-
-CHAPTER 2. The Expedition Of The Philistines Against The Hebrews And The
-Hebrews' Victory Under The Conduct Of Samuel The Prophet, Who Was Their
-General.
-
-CHAPTER 3. How Samuel When He Was So Infirm With Old Age That He Could
-Not Take Care Of The Public Affairs Intrusted Them To His Sons; And How
-Upon The Evil Administration Of The Government By Them The Multitude
-Were So Angry, That They Required To Have A King To Govern Them,
-Although Samuel Was Much Displeased Thereat.
-
-CHAPTER 4. The Appointment Of A King Over The Israelites, Whose Name Was
-Saul; And This By The Command Of God.
-
-CHAPTER 5. Saul's Expedition Against The Nation Of The Ammonites And
-Victory Over Them And The Spoils He Took From Them.
-
-CHAPTER 6. How The Philistines Made Another Expedition Against The
-Hebrews And Were Beaten.
-
-CHAPTER 7. Saul's War With The Amalekites, And Conquest Of Them.
-
-CHAPTER 8. How, Upon Saul's Transgression Of The Prophet's Commands,
-Samuel Ordained Another Person To Be King Privately, Whose Name Was
-David, As God Commanded Him.
-
-CHAPTER 9. How The Philistines Made Another Expedition Against The
-Hebrews Under The Reign Of Saul; And How They Were Overcome By David's
-Slaying Goliath In Single Combat.
-
-CHAPTER 10. Saul Envies David For His Glorious Success, And Takes An
-Occasion Of Entrapping Him, From The Promise He Made Him Of Giving Him
-His Daughter In Marriage; But This Upon Condition Of His Bringing Him
-Six Hundred Heads Of The Philistines.
-
-CHAPTER 11. How David, Upon Saul's Laying Snares For Him, Did Yet Escape
-The Dangers He Was In By The Affection And Care Of Jonathan And The
-Contrivances Of His Wife Michal: And How He Came To Samuel The Prophet.
-
-CHAPTER 12. How David Fled To Ahimelech And Afterwards To The Kings Of
-The Philistines And Of The Moabites, And How Saul Slew Ahimelech And His
-Family.
-
-CHAPTER 13. How David, When He Had Twice The Opportunity Of Killing Saul
-Did Not Kill Him. Also Concerning The Death Of Samuel And Nabal.
-
-CHAPTER 14. Now Saul Upon God's Not Answering Him Concerning The Fight
-With The Philistines Desired A Necromantic Woman To Raise Up The Soul Of
-Samuel To Him; And How He Died, With His Sons Upon The Overthrow Of The
-Hebrews In Battle.
-
-FOOTNOTES:
-
-BOOK VII. Containing The Interval Of Forty Years.—From The Death Of Saul
-To The Death Of David.
-
-CHAPTER 1. How David Reigned Over One Tribe At Hebron While The Son Of
-Saul Reigned Over The Rest Of The Multitude; And How, In The Civil War
-Which Then Arose Asahel And Abner Were Slain.
-
-CHAPTER 2. That Upon The Slaughter Of Ishbosheth By The Treachery Of His
-Friends, David Received The Whole Kingdom.
-
-CHAPTER 3. How David Laid Siege To Jerusalem; And When He Had Taken The
-City, He Cast The Canaanites Out Of It, And Brought In The Jews To
-Inhabit Therein.
-
-CHAPTER 4. That When David Had Conquered The Philistines Who Made War
-Against Him At Jerusalem, He Removed The Ark To Jerusalem And Had A Mind
-To Build A Temple.
-
-CHAPTER 5. How David Brought Under The Philistines, And The Moabites,
-And The Kings Of Sophene And Of Damascus, And Of The Syrians As Also The
-Idumeans, In War; And How He Made A League With The King Of Hamath; And
-Was Mindful Of The Friendship That Jonathan, The Son Of Saul, Had Borne
-Him.
-
-CHAPTER 6. How The War Was Waged Against The Ammonites And Happily
-Concluded.
-
-CHAPTER 7. How David Fell In Love With Bathsheba, And Slew Her Husband
-Uriah, For Which He Is Reproved By Nathan.
-
-CHAPTER 8. How Absalom Murdered Amnon, Who Had Forced His Own Sister;
-And How He Was Banished And Afterwards Recalled By David.
-
-CHAPTER 9. Concerning The Insurrection Of Absalom Against David And
-Concerning Ahithophel And Hushai; And Concerning Ziba And Shimei; And
-How Ahithophel Hanged Himself.
-
-CHAPTER 10. How, When Absalom Was Beaten, He Was Caught In A Tree By His
-Hair And Was Slain.
-
-CHAPTER 11. How David, When He Had Recovered His Kingdom, Was Reconciled
-To Shimei, And To Ziba; And Showed A Great Affection To Barzillai; And
-How, Upon The Rise Of A Sedition, He Made Amasa Captain Of His Host, In
-Order To Pursue Seba; Which Amasa Was Slain By Joab.
-
-CHAPTER 12. How The Hebrews Were Delivered From A Famine When The
-Gibeonites Had Caused Punishment To Be Inflicted For Those Of Them That
-Had Been Slain: As Also, What Great Actions Were Performed Against The
-Philistines By David, And The Men Of Valor About Him.
-
-CHAPTER 13. That When David Had Numbered the People, They Were Punished;
-and How the Divine Compassion Restrained That Punishment.
-
-CHAPTER 14. That David Made Great Preparations For The House Of God; And
-That, Upon Adonijah's Attempt To Gain The Kingdom, He Appointed Solomon
-To Reign.
-
-CHAPTER 15. What Charge David Gave Tohis Son Solomon At The Approach Of
-His Death, And How Many Things He Left Him For The Building Of The
-Temple.
-
-FOOTNOTES
-
-BOOK VIII. Containing The Interval Of One Hundred And Sixty-Three
-Years.—From The Death Of David To The Death Of Ahab.
-
-CHAPTER 1. How Solomon, When He Had Received The Kingdom Took Off His
-Enemies.
-
-CHAPTER 2. Concerning The Wife Of Solomon; Concerning His Wisdom And
-Riches; And Concerning What He Obtained Of Hiram For The Building Of The
-Temple.
-
-CHAPTER 3. Of The Building Of This Temple
-
-CHAPTER 4. How Solomon Removed The Ark Into The Temple How He Made
-Supplication To God, And Offered Public Sacrifices To Him.
-
-CHAPTER 5. How Solomon Built Himself A Royal Palace, Very Costly And
-Splendid; And How He Solved The Riddles Which Were Sent Him By Hiram.
-
-CHAPTER 6. How Solomon Fortified The City Of Jerusalem, And Built Great
-Cities; And How He Brought Some Of The Canaanites Into Subjection, And
-Entertained The Queen Of Egypt And Of Ethiopia.
-
-CHAPTER 7. How Solomon Grew Rich, And Fell Desperately In Love With
-Women And How God, Being Incensed At It, Raised Up Ader And Jeroboam
-Against Him. Concerning The Death Of Solomon.
-
-CHAPTER 8. How, Upon The Death Of Solomon The People Forsook His Son
-Rehoboam, And Ordained Jeroboam King Over The Ten Tribes.
-
-CHAPTER 9. How Jadon The Prophet Was Persuaded By Another Lying Prophet
-And Returned [To Bethel,] And Was Afterwards Slain By A Lion. As Also
-What Words The Wicked Prophet Made Use Of To Persuade The King, And
-Thereby Alienated His Mind From God.
-
-CHAPTER 10. Concerning Rehoboam, And How God Inflicted Punishment Upon
-Him For His Impiety By Shishak [King Of Egypt].
-
-CHAPTER 11. Concerning The Death Of A Son Of Jeroboam. How Jeroboam Was
-Beaten By Abijah Who Died A Little Afterward And Was Succeeded In His
-Kingdom By Asa. And Also How, After The Death Of Jeroboam Baasha
-Destroyed His Son Nadab And All The House Of Jeroboam.
-
-CHAPTER 12. How Zerah, King Of The Ethiopians, Was Beaten By Asa; And
-How Asa, Upon Baasha's Making War Against Him, Invited The King Of The
-Damascens To Assist Him; And How, On The Destruction Of The House Of
-Baasha Zimri Got The Kingdom As Did His Son Ahab After Him.
-
-CHAPTER 13. How Ahab When He Had Taken Jezebel To Wife Became More
-Wicked Than All The Kings That Had Been Before Him; Of The Actions Of
-The Prophet Elijah, And What Befell Naboth.
-
-CHAPTER 14. How Hadad King Of Damascus And Of Syria, Made Two
-Expeditions Against Ahab And Was Beaten.
-
-CHAPTER 15. Concerning Jehoshaphat The King Of Jerusalem And How Ahab
-Made An Expedition Against The Syrians And Was Assisted Therein By
-Jehoshaphat, But Was Himself Overcome In Battle And Perished Therein.
-
-FOOTNOTES:
-
-BOOK IX. Containing The Interval Of One Hundred And Fifty-Seven
-Years.—From The Death Of Ahab To The Captivity Of The Ten Tribes.
-
-CHAPTER 1. Concerning Jehoshaphat Again; How He Constituted Judges And,
-By God's Assistance Overcame His Enemies.
-
-CHAPTER 2. Concerning Ahaziah; The King Of Israel; And Again Concerning
-The Prophet Elijah.
-
-CHAPTER 3. How Joram And Jehoshaphat Made An Expedition Against The
-Moabites; As Also Concerning The Wonders Of Elisha; And The Death Of
-Jehoshaphat.
-
-CHAPTER 4. Jehoram Succeeds Jehoshaphat; How Joram, His Namesake, King
-Of Israel, Fought With The Syrians; And What Wonders Were Done By The
-Prophet Elisha.
-
-CHAPTER 5. Concerning The Wickedness Of Jehoram King O Jerusalem; His
-Defeat And Death.
-
-CHAPTER 6. How Jehu Was Anointed King, And Slew Both Joram And Ahaziah;
-As Also What He Did For The Punishment Of The Wicked.
-
-CHAPTER 7. How Athaliah Reigned Over Jerusalem For Five [Six] Years When
-Jehoiada The High Priest Slew Her And Made Jehoash, The Son Of Ahaziah,
-King.
-
-CHAPTER 8. Hazael Makes An Expedition Against The People Of Israel And
-The Inhabitants Of Jerusalem. Jehu Dies, And Jehoahaz Succeeds In The
-Government. Jehoash The King Of Jerusalem At First Is Careful About The
-Worship Of God But Afterwards Becomes Impious And Commands Zechariah To
-Be Stoned. When Jehoash [King Of Judah] Was Dead, Amaziah Succeeds Him
-In The Kingdom.
-
-CHAPTER 9. How Amaziah Made An Expedition Against The Edomites And
-Amalekites And Conquered Them; But When He Afterwards Made War Against
-Joash, He Was Beaten And Not Long After Was Slain, And Uzziah Succeeded
-In The Government.
-
-CHAPTER 10. Concerning Jeroboam King Of Israel And Jonah The Prophet;
-And How After The Death Of Jeroboam His Son Zachariah Took The
-Government. How Uzziah, King Of Jerusalem, Subdued The Nations That Were
-Round About Him; And What Befell Him When He Attempted To Offer Incense
-To God.
-
-CHAPTER 11. How Zachariah Shallum, Menahem Pekahiah And Pekah Took The
-Government Over The Israelites; And How Pul And Tiglath-Pileser Made An
-Expedition Against The Israelites. How Jotham, The Son Of Uzziah Reigned
-Over The Tribe Of Judah; And What Things Nahum Prophesied Against The
-Assyrians.
-
-CHAPTER 12. How Upon The Death Of Jotham, Ahaz Reigned In His Stead;
-Against Whom Rezin, King Of Syria And Pekah King Of Israel, Made War;
-And How Tiglath-Pileser, King Of Assyria Came To The Assistance Of Ahaz,
-And Laid Syria Waste And Removing The Damascenes Into Media Placed Other
-Nations In Their Room.
-
-CHAPTER 13. How Pekah Died By The Treachery Of Hoshea Who Was A Little
-After Subdued By Shalmaneser; And How Hezekiah Reigned Instead Of Ahaz;
-And What Actions Of Piety And Justice He Did.
-
-CHAPTER 14. How Shalmaneser Took Samaria By Force And How He
-Transplanted The Ten Tribes Into Media, And Brought The Nation Of The
-Cutheans Into Their Country [In Their Room].
-
-FOOTNOTES
-
-BOOK X. Containing The Interval Of One Hundred And Eighty-Two Years And
-A Half.—From The Captivity Of The Ten Tribes To The First Year Of Cyrus.
-
-CHAPTER 1. How Sennacherib Made An Expedition Against Hezekiah; What
-Threatenings Rabshakeh Made To Hezekiah When Sennacherib Was Gone
-Against The Egyptians; How Isaiah The Prophet Encouraged Him; How
-Sennacherib Having Failed Of Success In Egypt, Returned Thence To
-Jerusalem; And How Upon His Finding His Army Destroyed, He Returned
-Home; And What Befell Him A Little Afterward.
-
-CHAPTER 2. How Hezekiah Was Sick, And Ready To Die; And How God Bestowed
-Upon Him Fifteen Years Longer Life, [And Secured That Promise] By The
-Going Back Of The Shadow Ten Degrees.
-
-CHAPTER 3. How Manasseh Reigned After Hezekiah; And How When He Was In
-Captivity He Returned To God And Was Restored To His Kingdom And Left It
-To [His Son] Amon.
-
-CHAPTER 4. How Amon Reigned Instead Of Manasseh; And After Amon Reigned
-Josiah; He Was Both Righteous And Religious. As Also Concerning Huldah
-The Prophetess.
-
-CHAPTER 5. How Josiah Fought With Neco [King Of Egypt.] And Was Wounded
-And Died In A Little Time Afterward; As Also How Neco Carried Jehoahaz,
-Who Had Been Made King Into Egypt And Delivered The Kingdom To
-Jehoiakim; And [Lastly] Concerning Jeremiah And Ezekiel.
-
-CHAPTER 6. How Nebuchadnezzar, When He Had Conquered The King Of Egypt
-Made An Expedition Against The Jews, And Slew Jehoiakim, And Made
-Jeholachin His Son King.
-
-CHAPTER 7. That The King Of Babylon Repented Of Making Jehoiachin King,
-And Took Him Away To Babylon And Delivered The Kingdom To Zedekiah. This
-King Would Not Believe What Was Predicted By Jeremiah And Ezekiel But
-Joined Himself To The Egyptians; Who When They Came Into Judea, Were
-Vanquished By The King Of Babylon; As Also What Befell Jeremiah.
-
-CHAPTER 8. How The King Of Babylon Took Jerusalem And Burnt The Temple
-And Removed The People Of Jerusalem And Zedekiah To Babylon. As Also,
-Who They Were That Had Succeeded In The High Priesthood Under The Kings.
-
-CHAPTER 9. How Nebuzaradan Set Gedaliah Over The Jews That Were Left In
-Judea Which Gedaliah Was A Little Afterward Slain By Ishmael; And How
-Johanan After Ishmael Was Driven Away Went Down Into Egypt With The
-People Which People Nebuchadnezzar When He Made An Expedition Against
-The Egyptians Took Captive And Brought Them Away To Babylon.
-
-CHAPTER 10. Concerning Daniel And What Befell Him At Babylon.
-
-CHAPTER 11. Concerning Nebuchadnezzar And His Successors And How Their
-Government Was Dissolved By The Persians; And What Things Befell Daniel
-In Media; And What Prophecies He Delivered There.
-
-FOOTNOTES
-
-BOOK XI. Containing The Interval Of Two Hundred And Fifty-Three Years
-And Five Months.—From The First Of Cyrus To The Death Of Alexander The
-Great.
-
-CHAPTER 1. How Cyrus, King Of The Persians, Delivered The Jews Out Of
-Babylon And Suffered Them To Return To Their Own Country And To Build
-Their Temple, For Which Work He Gave Them Money.
-
-CHAPTER 2. How Upon The Death Of Cyrus The Jews Were Hindered In
-Building Of The Temple By The Cutheans, And The Neighboring Governors;
-And How Cambyses Entirely Forbade The Jews To Do Any Such Thing.
-
-CHAPTER 3. How After The Death Of Cambyses And The Slaughter Of The Magi
-But Under The Reign Of Darius, Zorobabel Was Superior To The Rest In The
-Solution Of Problems And Thereby Obtained This Favor Of The King, That
-The Temple Should Be Built.
-
-CHAPTER 4. How The Temple Was Built While The Cutheans Endeavored In
-Vain To Obstruct The Work.
-
-CHAPTER 5. How Xerxes The Son Of Darius Was Well Disposed To The Jews;
-As Also Concerning Esdras And Nehemiah.
-
-CHAPTER 6. Concerning Esther And Mordecai And Haman; And How In The
-Reign Of Artaxerxes The Whole Nation Of The Jews Was In Danger Of
-Perishing.
-
-CHAPTER 7. How John Slew His Brother Jesus In The Temple; And How
-Bagoses Offered Many Injuries To The Jews; And What Sanballat Did.
-
-CHAPTER 8. Concerning Sanballat And Manasseh, And The Temple Which They
-Built On Mount Gerizzim; As Also How Alexander Made His Entry Into The
-City Jerusalem, And What Benefits He Bestowed On The Jews.
-
-FOOTNOTES:
-
-BOOK XII. Containing The Interval Of A Hundred And Seventy Years.—From
-The Death Of Alexander The Great To The Death Of Judas Maccabeus.
-
-CHAPTER 1. How Ptolemy The Son Of Lagus Took Jerusalem And Judea By
-Deceit And Treachery, And Carried Many Thence, And Planted Them In
-Egypt.
-
-CHAPTER 2. How Ptolemy Philadelphus Procured The Laws Of The Jews To Be
-Translated Into The Greek Tongue And Set Many Captives Free, And
-Dedicated Many Gifts To God.
-
-CHAPTER 3. How The Kings Of Asia Honored The Nation Of The Jews And Made
-Them Citizens Of Those Cities Which They Built.
-
-CHAPTER 4. How Antiochus Made A League With Ptolemy And How Onias
-Provoked Ptolemy Euergetes To Anger; And How Joseph Brought All Things
-Right Again, And Entered Into Friendship With Him; And What Other Things
-Were Done By Joseph, And His Son Hyrcanus.
-
-CHAPTER 5. How, Upon The Quarrels One Against Another About The High
-Priesthood Antiochus Made An Expedition Against Jerusalem, Took The City
-And Pillaged The Temples. And Distressed The Jews' As Also How Many Of
-The Jews Forsook The Laws Of Their Country; And How The Samaritans
-Followed The Customs Of The Greeks And Named Their Temple At Mount
-Gerizzim The Temple Of Jupiter Hellenius.
-
-CHAPTER 6. How, Upon Antiochus's Prohibition To The Jews To Make Use Of
-The Laws Of Their Country Mattathias, The Son Of Asamoneus, Alone
-Despised The King, And Overcame The Generals Of Antiochus's Army; As
-Also Concerning The Death Of Mattathias, And The Succession Of Judas.
-
-CHAPTER 7. How Judas Overthrew The Forces Of Apollonius And Seron And
-Killed The Generals Of Their Armies Themselves; And How When, A Little
-While Afterwards Lysias And Gorgias Were Beaten He Went Up To Jerusalem
-And Purified The Temple.
-
-CHAPTER 8. How Judas Subdued The Nations Round About; And How Simon Beat
-The People Of Tyre And Ptolemais; And How Judas Overcame Timotheus, And
-Forced Him To Fly Away, And Did Many Other Things After Joseph And
-Azarias Had Been Beaten.
-
-CHAPTER 9. Concerning The Death Of Antiochus Epiphane. How Antiochus
-Eupator Fought Against Juda And Besieged Him In The Temple And
-Afterwards Made Peace With Him And Departed; Of Alcimus And Onias.
-
-CHAPTER 10. How Bacchides, The General Of Demetrius's Army, Made An
-Expedition Against Judea, And Returned Without Success; And How Nicanor
-Was Sent A Little Afterward Against Judas And Perished, Together With
-His Army; As Also Concerning The Death Of Alcimus And The Succession Of
-Judas.
-
-CHAPTER 11. That Bacchides Was Again Sent Out Against Judas; And How
-Judas Fell As He Was Courageously Fighting.
-
-FOOTNOTES
-
-BOOK XIII. Containing The Interval Of Eighty-Two Years.—From The Death
-Of Judas Maccabeus To The Death Of Queen Alexandra.
-
-CHAPTER 1. How Jonathan Took The Government After His Brother Judas; And
-How He, Together With His Brother Simon, Waged War Against Bacchides.
-
-CHAPTER 2. How Alexander [Bala] In His War With Demetrius, Granted
-Jonathan Many Advantages And Appointed Him To Be High Priest And
-Persuaded Him To Assist Him Although Demetrius Promised Him Greater
-Advantages On The Other Side. Concerning The Death
-
-CHAPTER 3. The Friendship That Was Between Onias And Ptolemy Philometor;
-And How Onias Built A Temple In Egypt Like To That At Jerusalem.
-
-CHAPTER 4. How Alexander Honored Jonathan After An Extraordinary Manner;
-And How Demetrius, The Son Of Demetrius, Overcame Alexander And Made A
-League Of Friendship With Jonathan.
-
-CHAPTER 5. How Trypho After He Had Beaten Demetrius Delivered The
-Kingdom To Antiochus The Son Of Alexander, And Gained Jonathan For His
-Assistant; And Concerning The Actions And Embassies Of Jonathan.
-
-CHAPTER 6. How Jonathan Was Slain By Treachery; And How Thereupon The
-Jews Made Simon Their General And High Priest: What Courageous Actions
-He Also Performed Especially Against Trypho.
-
-CHAPTER 7. How Simon Confederated Himself With Antiochus Pius, And Made
-War Against Trypho, And A Little Afterward, Against Cendebeus, The
-General Of Antiochus's Army; As Also How Simon Was Murdered By His Son-
-In-Law Ptolemy, And That By Treachery.
-
-CHAPTER 8. Hyrcanus Receives The High Priesthood, And Ejects Ptolemy Out
-Of The Country. Antiochus Makes War Against Hyrcanus And Afterwards
-Makes A League With Him.
-
-CHAPTER 9. How, After The Death Of Antiochus, Hyrcanus Made An
-Expedition Against Syria, And Made A League With The Romans. Concerning
-The Death Of King Demetrius And Alexander.
-
-CHAPTER 10. How Upon The Quarrel Between Antiochus Grypus And Antiochus
-Cyzicenus About The Kingdom Hyrcanus Tooksamaria, And Utterly Demolished
-It; And How Hyrcaus Joined Himself To The Sect Of The Sadducees, And
-Left That Of The Pharisees.
-
-CHAPTER 11. How Aristobulus, When He Had Taken The Government First Of
-All Put A Diadem On His Head, And Was Most Barbarously Cruel To His
-Mother And His Brethren; And How, After He Had Slain Antigonus, He
-Himself Died.
-
-CHAPTER 12. How Alexander When He Had Taken The Government Made An
-Expedition Against Ptolemais, And Then Raised The Siege Out Of Fear Of
-Ptolemy Lathyrus; And How Ptolemy Made War Against Him, Because He Had
-Sent To Cleopatra To Persuade Her To Make War Against Ptolemy, And Yet
-Pretended To Be In Friendship With Him, When He Beat The Jews In The
-Battle.
-
-CHAPTER 13. How Alexander, upon the League of Mutual Defense Which
-Cleopatra Had Agreed with Him, Made an Expedition Against Coelesyria,
-and Utterly Overthrew the City of Gaza; and How He Slew Many Ten
-Thousands of Jews That Rebelled Against Him.
-
-CHAPTER 14. How Demetrius Eucerus Overcame Alexander And Yet In A Little
-Time Retired Out Of The Country For Fear; As Also How Alexander Slew
-Many Of The Jews And Thereby Got Clear Of His Troubles. Concerning The
-Death Of Demetrius.
-
-CHAPTER 15. How Antiochus, Who Was Called Dionysus, And After Him Aretas
-Made Expeditions Into Judea; As Also How Alexander Took Many Cities And
-Then Returned To Jerusalem, And After A Sickness Of Three Years Died;
-And What Counsel He Gave To Alexandra.
-
-CHAPTER 16. How Alexandra By Gaining The Good-Will Of The Pharisees,
-Retained The Kingdom Nine Years, And Then, Having Done Many Glorious
-Actions Died.
-
-FOOTNOTES
-
-BOOK XIV. Containing The Interval Of Thirty-Two Years.—From The Death Of
-Queen Alexandra To The Death Of Antigonus.
-
-CHAPTER 1. The War Between Aristobulus And Hyrcanus About The Kingdom;
-And How They Made Anagreement That Aristobulus Should Be King, And
-Hyrcanus Live A Private Life; As Also How Hyrcanus A Little Afterward
-Was Persuaded By Antipater To Fly To Aretas.
-
-CHAPTER 2. How Aretas And Hyrcanus Made An Expedition Against
-Aristobulus And Besieged Jerusalem; And How Scaurus The Roman General
-Raised The Siege. Concerning The Death Of Onias.
-
-CHAPTER 3. How Aristobulus And Hyrcanus Came To Pompey In Order To Argue
-Who Ought To Have The Kingdom; And How Upon The Plight Of Aristobulus To
-The Fortress Alexandrium Pompey Led His Army Against Him And Ordered Him
-To Deliver Up The Fortresses Whereof He Was Possessed.
-
-CHAPTER 4. How Pompey When The Citizens Of Jerusalem Shut Their Gates
-Against Him Besieged The City And Took It By Force; As Also What Other
-Things He Did In Judea.
-
-CHAPTER 5. How Scaurus Made A League Of Mutual Assistance With Aretas;
-And What Gabinius Did In Judea, After He Had Conquered Alexander, The
-Son Of Aristobulus.
-
-CHAPTER 6. How Gabinius Caught Aristobulus After He Had Fled From Rome,
-And Sent Him Back To Rome Again; And Now The Same Gabinius As He
-Returned Out Of Egypt Overcame Alexander And The Nabateans In Battle.
-
-CHAPTER 7. How Crassus Came Into Judea, And Pillaged The Temple; And
-Then Marched Against The Parthians And Perished, With His Army. Also How
-Cassius Obtained Syria, And Put A Stop To The Parthians And Then Went Up
-To Judea.
-
-CHAPTER 8. The Jews Become Confederates With Cæsar When He Fought
-Against Egypt. The Glorious Actions Of Antipater, And His Friendship
-With Cæsar. The Honors Which The Jews Received From The Romans And
-Athenians.
-
-CHAPTER 9. How Antipater Committed The Care Of Galilee To Herod, And
-That Of Jerusalem To Phasaelus; As Also How Herod Upon The Jews' Envy At
-Antipater Was Accused Before Hyrcanus.
-
-CHAPTER 10. The Honors That Were Paid The Jews; And The Leagues That
-Were Made By The Romans And Other Nations, With Them.
-
-CHAPTER 11. How Marcus, Succeeded Sextus When He Had Been Slain By
-Bassus's Treachery; And How, After The Death Of Cæsar, Cassius Came Into
-Syria, And Distressed Judea; As Also How Malichus Slew Antipater And Was
-Himself Slain By Herod.
-
-CHAPTER 12. Herod Ejects Antigonus, The Son Of Aristobulus Out Of Judea,
-And Gains The Friendship Of Antony, Who Was Now Come Into Syria, By
-Sending Him Much Money; On Which Account He Would Not Admit Of Those
-That Would Have Accused Herod: And What It Was That Antony Wrote To The
-Tyrians In Behalf.
-
-CHAPTER 13. How Antony Made Herod And Phasaelus Tetrarchs, After They
-Had Been Accused To No Purpose; And How The Parthians When They Brought
-Antigonus Into Judea Took Hyrcanus And Phasaelus Captives. Herod's
-Flight; And What Afflictions Hyrcanus And Phasaelus Endured.
-
-CHAPTER 14. How Herod Got Away From The King Of Arabia And Made Haste To
-Go Into Egypt And Thence Went Away In Haste Also To Rome; And How, By
-Promising A Great Deal Of Money To Antony He Obtained Of The Senate And
-Of Cæsar To Be Made King Of The Jews.
-
-CHAPTER 15. How Herod Sailed Out Of Italy To Judea, And Fought With
-Antigonus And What Other Things Happened In Judea About That Time.
-
-CHAPTER 16. How Herod, When He Had Married Mariamne Took Jerusalem With
-The Assistance Of Sosius By Force; And How The Government Of The
-Asamoneans Was Put An End To.
-
-FOOTNOTES:
-
-BOOK XV. Containing The Interval Of Eighteen Years.—From The Death Of
-Antigonus To The Finishing Of The Temple By Herod.
-
-CHAPTER 1. Concerning Pollio And Sameas. Herod Slays The Principal Of
-Antigonus's Friends, And Spoils The City Of Its Wealth. Antony Beheads
-Antigonus.
-
-CHAPTER 2. How Hyrcanus Was Set At Liberty By The Parthians, And
-Returned To Herod; And What Alexandra Did When She Heard That Ananelus
-Was Made High Priest.
-
-CHAPTER 3. How Herod Upon His Making Aristobulus High Priest Took Care
-That He Should Be Murdered In A Little Time; And What Apology He Made To
-Antony About Aristobulus; As Also Concerning Joseph And Mariamne.
-
-CHAPTER 4. How Cleopatra, When She Had Gotten From Antony Some Parts Of
-Judea And Arabia Came Into Judea; And How Herod Gave Her Many Presents
-And Conducted Her On Her Way Back To Egypt.
-
-CHAPTER 5. How Herod Made War With The King Of Arabia, And After They
-Had Fought Many Battles, At Length Conquered Him, And Was Chosen By The
-Arabs To Be Governor Of That Nation; As Also Concerning A Great
-Earthquake.
-
-CHAPTER 6. How Herod Slew Hyrcanus And Then Hasted Away To Cæsar, And
-Obtained The Kingdom From Him Also; And How A Little Time Afterward, He
-Entertained Cæsar In A Most Honorable Manner.
-
-CHAPTER 7. How Herod Slew Sohemus And Mariamne And Afterward Alexandra
-And Costobarus, And His Most Intimate Friends, And At Last The Sons Of
-Babbas Also.
-
-CHAPTER 8. How Ten Men Of The Citizens [Of Jerusalem] Made A Conspiracy
-Against Herod, For The Foreign Practices He Had Introduced, Which Was A
-Transgression Of The Laws Of Their Country. Concerning The Building Of
-Sebaste And Cæsarea, And Other Edifices Of Herod.
-
-CHAPTER 9. Concerning The Famine That Happened In Judea And Syria; And
-How Herod, After He Had Married Another Wife, Rebuilt Cæsarea, And Other
-Grecian Cities.
-
-CHAPTER 10. How Herod Sent His Sons To Rome; How Also He Was Accused By
-Zenodorus And The Gadarens, But Was Cleared Of What They Accused Him Of
-And Withal Gained To Himself The Good-Will Of Cæsar. Concerning The
-Pharisees, The Essens And Manahem.
-
-CHAPTER 11. How Herod Rebuilt The Temple And Raised It Higher And Made
-It More Magnificent Than It Was Before; As Also Concerning That Tower
-Which He Called Antonia.
-
-FOOTNOTES:
-
-BOOK XVI. Containing The Interval Of Twelve Years.—From The Finishing Of
-The Temple By Herod To The Death Of Alexander And Aristobulus.
-
-CHAPTER 1. A Law Of Herod's About, Thieves. Salome And Pheroras
-Calumniate Alexander And Aristobulus, Upon Their Return From Rome For
-Whom Yet Herod Provides Wives.
-
-CHAPTER 2. How Herod Twice Sailed To Agrippa; And How Upon The Complaint
-In Ionia Against The Greeks Agrippa Confirmed The Laws To Them.
-
-CHAPTER 3. How Great Disturbances Arose In Herods Family On His
-Preferring Antipater His Eldest Son Before The Rest, Till Alexander Took
-That Injury Very Heinously.
-
-CHAPTER 4. How During Antipater's Abode At Rome, Herod Brought Alexander
-And Aristobulus Before Cæsar And Accused Them. Alexander's Defense Of
-Himself Before Cæsar And Reconciliation To His Father.
-
-CHAPTER 5. How Herod Celebrated The Games That Were To Return Every
-Fifth Year Upon The Building Of Cæsarea; And How He Built And Adorned
-Many Other Places After A Magnificent Manner; And Did Many Other Actions
-Gloriously
-
-CHAPTER 6. An Embassage In Cyrene And Asia To Cæsar, Concerning The
-Complaints They Had To Make Against The Greeks; With Copies Of The
-Epistles Which Cæsar And Agrippa Wrote To The Cities For Them.
-
-CHAPTER 7. How, Upon Herod's Going Down Into David's Sepulcher, The
-Sedition In His Family Greatly Increased.
-
-CHAPTER 8. How Herod Took Up Alexander And Bound Him; Whom Yet Archelaus
-King Of Cappadocia Reconciled To His Father Herod Again.
-
-CHAPTER 9. Concerning The Revolt Of The Trachonites; How Sylleus Accused
-Herod Before Cæsar; And How Herod, When Cæsar Was Angry At Him, Resolved
-To Send Nicolaus To Rome.
-
-CHAPTER 10. How Eurycles Falsely Accused Herod's Sons; And How Their
-Father Bound Them, And Wrote To Cæsar About Them. Of Sylleus And How He
-Was Accused By Nicolaus.
-
-CHAPTER 11. How Herod, By Permission From Cæsar Accused His Sons Before
-An Assembly Of Judges At Berytus; And What Tero Suffered For Using A
-Boundless And Military Liberty Of Speech. Concerning Also The Death Of
-The Young Men And Their Burial At
-
-FOOTNOTES
-
-BOOK XVII. Containing The Interval Of Fourteen Years.—From The Death Of
-Alexander And Aristobulus To The Banishment Of Archelaus.
-
-CHAPTER 1. How Antipater Was Hated By All The Nation [Of The Jews] For
-The Slaughter Of His Brethren; And How, For That Reason He Got Into
-Peculiar Favor With His Friends At Rome, By Giving Them Many Presents;
-As He Did Also With Saturninus, The President Of Syria And The Governors
-Who Were Under Him; And Concerning Herod's Wives And Children.
-
-CHAPTER 2. Concerning Zamaris, The Babylonian Jew; Concerning The Plots
-Laid By Antipater Against His Father; And Somewhat About The Pharisees.
-
-CHAPTER 3. Concerning The Enmity Between Herod And Pheroras; How Herod
-Sent Antipater To Cæsar; And Of The Death Of Pheroras.
-
-CHAPTER 4. Pheroras's Wife Is Accused By His Freedmen, As Guilty Of
-Poisoning Him; And How Herod, Upon Examining; Of The Matter By Torture
-Found The Poison; But So That It Had Been Prepared For Himself By His
-Son Antipater; And Upon An Inquiry By Torture He Discovered The
-Dangerous Designs Of Antipater.
-
-CHAPTER 5. Antipater's Navigation From Rome To His Father; And How He
-Was Accused By Nicolaus Of Damascus And Condemned To Die By His Father,
-And By Quintilius Varus, Who Was Then President Of Syria; And How He Was
-Then Bound Till Cæsar Should Be Informed Of His Cause.
-
-CHAPTER 6. Concerning The Disease That Herod Fell Into And The Sedition
-Which The Jews Raised Thereupon; With The Punishment Of The Seditious.
-
-CHAPTER 7. Herod Has Thoughts Of Killing Himself With His Own Hand; And
-A Little Afterwards He Orders Antipater To Be Slain.
-
-CHAPTER 8. Concerning Herod's Death, And Testament, And Burial.
-
-CHAPTER 9. How The People Raised A Sedition Against Archelaus, And How
-He Sailed To Rome.
-
-CHAPTER 10. A Sedition Against Sabinus; And How Varus Brought The
-Authors Of It To Punishment.
-
-CHAPTER 11. An Embassage To Cæsar; And How Cæsar Confirmed Herod's
-Testament.
-
-CHAPTER 12. Concerning A Spurious Alexander.
-
-CHAPTER 13. How Archelaus Upon A Second Accusation, Was Banished To
-Vienna.
-
-FOOTNOTES:
-
-BOOK XVIII. Containing The Interval Of Thirty-Two Years.—From The
-Banishment Of Archelus To The Departure From Babylon.
-
-CHAPTER 1. How Cyrenius Was Sent By Cæsar To Make A Taxation Of Syria
-And Judea; And How Coponius Was Sent To Be Procurator Of Judea;
-Concerning Judas Of Galilee And Concerning The Sects That Were Among The
-Jews.
-
-CHAPTER 2. Now Herod And Philip Built Several Cities In Honor Of Cæsar.
-Concerning The Succession Of Priests And Procurators; As Also What
-Befell Phraates And The Parthians.
-
-CHAPTER 3. Sedition Of The Jews Against Pontius Pilate. Concerning
-Christ, And What Befell Paulina And The Jews At Rome.
-
-CHAPTER 4. How The Samaritans Made A Tumult And Pilate Destroyed Many Of
-Them; How Pilate Was Accused And What Things Were Done By Vitellius
-Relating To The Jews And The Parthians.
-
-CHAPTER 5. Herod The Tetrarch Makes War With Aretas, The King Of Arabia,
-And Is Beaten By Him As Also Concerning The Death Of John The Baptist.
-How Vitellius Went Up To Jerusalem; Together With Some Account Of
-Agrippa And Of The Posterity Of Herod The Great.
-
-CHAPTER 6. Of The Navigation Of King Agrippa To Rome, To Tiberius Cæsar;
-And Now Upon His Being Accused By His Own Freed-Man, He Was Bound; How
-Also He, Was Set At Liberty By Caius, After Tiberius's Death And Was
-Made King Of The Tetrarchy Of Philip.
-
-CHAPTER 7. How Herod The Tetrarch Was Banished.
-
-CHAPTER 8. Concerning The Embassage Of The Jews To Caius; [28] And How
-Caius Sent Petronius Into Syria To Make War Against The Jews, Unless
-They Would Receive His Statue.
-
-CHAPTER 9. What Befell The Jews That Were In Babylon On Occasion Of
-Asineus And Anileus, Two Brethren.
-
-FOOTNOTES
-
-BOOK XIX. Containing The Interval Of Three Years And A Half.—From The
-Departure Out Of Babylon To Fadus, The Roman Procurator.
-
-CHAPTER 1. How Caius [1] Was Slain By Cherea.
-
-CHAPTER 2. How The Senators Determined To Restore The Democracy; But The
-Soldiers Were For Preserving The Monarchy, Concerning The Slaughter Of
-Caius's Wife And Daughter. A Character Of Caius's Morals.
-
-CHAPTER 3. How Claudius Was Seized Upon And Brought Out Of His House And
-Brought To The Camp; And How The Senate Sent An Embassage To Him.
-
-CHAPTER 4. What Things King Agrippa Did For Claudius; And How Claudius
-When He Had Taken The Government Commanded The Murderers Of Caius To Be
-Slain.
-
-CHAPTER 5. How Claudius Restored To Agrippa His Grandfathers Kingdoms
-And Augmented His Dominions; And How He Published An Edict In Behalf.
-
-CHAPTER 6. What Things Were Done By Agrippa At Jerusalem When He Was
-Returned Back Into Judea; And What It Was That Petronius Wrote To The
-Inhabitants Of Doris, In Behalf.
-
-CHAPTER 7. Concerning Silas And On What Account It Was That King Agrippa
-Was Angry At Him. How Agrippa Began To Encompass Jerusalem With A Wall;
-And What Benefits He Bestowed On The Inhabitants Of Berytus.
-
-CHAPTER 8. What Other Acts Were Done By Agrippa Until His Death; And
-After What Manner He Died.
-
-CHAPTER 9. What Things Were Done After The Death Of Agrippa; And How
-Claudius, On Account Of The Youth And Unskilfulness Of Agrippa, Junior,
-Sent Cuspius Fadus To Be Procurator Of Judea, And Of The Entire Kingdom.
-
-FOOTNOTES
-
-BOOK XX. Containing The Interval Of Twenty-Two Years.—From Fadus The
-Procurator To Florus.
-
-CHAPTER 1. A Sedition Of The Philadelphians Against The Jews; And Also
-Concerning The Vestments Of The High Priest.
-
-CHAPTER 2. How Helena The Queen Of Adiabene And Her Son Izates, Embraced
-The Jewish Religion; And How Helena Supplied The Poor With Corn, When
-There Was A Great Famine At Jerusalem.
-
-CHAPTER 3. How Artabanus, the King of Parthia out of Fear of the Secret
-Contrivances of His Subjects Against Him, Went to Izates, and Was By Him
-Reinstated in His Government; as Also How Bardanes His Son Denounced War
-Against Izates.
-
-CHAPTER 4. How Izates Was Betrayed By His Own Subjects, And Fought
-Against By The Arabians And How Izates, By The Providence Of God, Was
-Delivered Out Of Their Hands.
-
-CHAPTER 5. Concerning Theudas And The Sons Of Judas The Galilean; As
-Also What Calamity Fell Upon The Jews On The Day Of The Passover.
-
-CHAPTER 6. How There Happened A Quarrel Between The Jews And The
-Samaritans; And How Claudius Put An End To Their Differences.
-
-CHAPTER 7. Felix Is Made Procurator Of Judea; As Also Concerning
-Agrippa, Junior And His Sisters.
-
-CHAPTER 8. After What Manner Upon The Death Of Claudius, Nero Succeeded
-In The Government; As Also What Barbarous Things He Did. Concerning The
-Robbers, Murderers And Impostors, That Arose While Felix And Festus Were
-Procurators Of Judea.
-
-CHAPTER 9. Concerning Albinus Under Whose Procuratorship James Was
-Slain; As Also What Edifices Were Built By Agrippa.
-
-CHAPTER 10. An Enumeration Of The High Priests.
-
-CHAPTER 11. Concerning Florus The Procurator, Who Necessitated The Jews
-To Take Up Arms Against The Romans. The Conclusion.
-
-FOOTNOTES
-
-
-
-
-
-
-
-
-
-
-PREFACE.1
+## Preface.
 
 1. Those who undertake to write histories, do not, I perceive, take that
 trouble on one and the same account, but for many reasons, and those
@@ -1251,27 +163,18 @@ before me, after I have first mentioned what Moses says of the creation
 of the world, which I find described in the sacred books after the
 manner following.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ This preface of Josephus is excellent in its kind, and
 highly worthy the repeated perusal of the reader, before he set about
 the perusal of the work itself.]
 
-
 2 (return) [ That is, all the Gentiles, both Greeks and Romans.]
-
 
 3 (return) [ We may seasonably note here, that Josephus wrote his Seven
 Books of the Jewish War long before he wrote these his Antiquities.
 Those books of the War were published about A.D. 75, and these
 Antiquities, A. D. 93, about eighteen years later.]
-
 
 4 (return) [ This Epaphroditus was certainly alive in the third year of
 Trajan, A.D. 100. See the note on the First Book Against Apion, sect. 1.
@@ -1280,10 +183,8 @@ and afterwards Domitian's secretary, who was put to death by Domitian in
 the 14th or 15th year of his reign, he could not be alive in the third
 of Trajan.]
 
-
 5 (return) [ Josephus here plainly alludes to the famous Greek proverb,
 If God be with us, every thing that is impossible becomes possible.]
-
 
 6 (return) [ As to this intended work of Josephus concerning the reasons
 of many of the Jewish laws, and what philosophical or allegorical sense
@@ -1296,25 +197,9 @@ perhaps nobody, neither among the Jews, nor among the Christians, can
 now inform us of; so that I would give a great deal to find it still
 extant."]
 
+## BOOK I. Containing The Interval Of Three Thousand Eight Hundred And Thirty-Three Years. — From The Creation To The Death Of Isaac
 
-
-
-
-
-
-
-
-
-BOOK I. Containing The Interval Of Three Thousand Eight Hundred And
-Thirty-Three Years. — From The Creation To The Death Of Isaac.
-
-
-
-
-
-
-CHAPTER 1. The Constitution Of The World And The Disposition Of The
-Elements.
+### CHAPTER 1. The Constitution Of The World And The Disposition Of The Elements
 
 1. In the beginning God created the heaven and the earth. But when the
 earth did not come into sight, but was covered with thick darkness, and
@@ -1435,13 +320,7 @@ all along, and dragging himself upon the ground. And when God had
 appointed these penalties for them, he removed Adam and Eve out of the
 garden into another place.
 
-
-
-
-
-
-CHAPTER 2. Concerning The Posterity Of Adam, And The Ten Generations
-From Him To The Deluge.
+### CHAPTER 2. Concerning The Posterity Of Adam, And The Ten Generations From Him To The Deluge
 
 1. Adam and Eve had two sons: the elder of them was named Cain; which
 name, when it is interpreted, signifies a possession: the younger was
@@ -1542,13 +421,7 @@ remain, and exhibit those discoveries to mankind; and also inform them
 that there was another pillar of brick erected by them. Now this remains
 in the land of Siriad to this day.
 
-
-
-
-
-
-CHAPTER 3. Concerning The Flood; And After What Manner Noah Was Saved In
-An Ark, With His Kindred, And Afterwards Dwelt In The Plain Of Shinar.
+### CHAPTER 3. Concerning The Flood; And After What Manner Noah Was Saved In An Ark, With His Kindred, And Afterwards Dwelt In The Plain Of Shinar
 
 1. Now this posterity of Seth continued to esteem God as the Lord of the
 universe, and to have an entire regard to virtue, for seven generations;
@@ -1742,13 +615,7 @@ besides these, Ephorus and Nicolaus relate that the ancients lived a
 thousand years. But as to these matters, let every one look upon them as
 he thinks fit.
 
-
-
-
-
-
-CHAPTER 4. Concerning The Tower Of Babylon, And The Confusion Of
-Tongues.
+### CHAPTER 4. Concerning The Tower Of Babylon, And The Confusion Of Tongues
 
 1. Now the sons of Noah were three,—Shem, Japhet, and Ham, born one
 hundred years before the Deluge. These first of all descended from the
@@ -1809,13 +676,7 @@ the plan of Shinar, in the country of Babylonia, Hestiaeus mentions it,
 when he says thus: "Such of the priests as were saved, took the sacred
 vessels of Jupiter Enyalius, and came to Shinar of Babylonia."
 
-
-
-
-
-
-CHAPTER 5. After What Manner The Posterity Of Noah Sent Out Colonies,
-And Inhabited The Whole Earth.
+### CHAPTER 5. After What Manner The Posterity Of Noah Sent Out Colonies, And Inhabited The Whole Earth
 
 1. After this they were dispersed abroad, on account of their languages,
 and went out by colonies every where; and each colony took possession of
@@ -1833,13 +694,7 @@ sounded well [in Greek] that they might be better understood among
 themselves; and setting agreeable forms of government over them, as if
 they were a people derived from themselves.
 
-
-
-
-
-
-CHAPTER 6. How Every Nation Was Denominated From Their First
-Inhabitants.
+### CHAPTER 6. How Every Nation Was Denominated From Their First Inhabitants
 
 1. Now they were the grandchildren of Noah, in honor of whom names were
 imposed on the nations by those that first seized upon them. Japhet, the
@@ -1988,13 +843,7 @@ genuine sons of Nahor; for Teba, and Gaam, and Tachas, and Maaca, were
 born of Reuma his concubine: but Bethuel had a daughter, Rebecca, and a
 son, Laban.
 
-
-
-
-
-
-CHAPTER 7. How Abram Our Forefather Went Out Of The Land Of The
-Chaldeans, And Lived In The Land Then Called Canaan But Now Judea.
+### CHAPTER 7. How Abram Our Forefather Went Out Of The Land Of The Chaldeans, And Lived In The Land Then Called Canaan But Now Judea
 
 1. Now Abram, having no son of his own, adopted Lot, his brother Haran's
 son, and his wife Sarai's brother; and he left the land of Chaldea when
@@ -2037,14 +886,7 @@ posterity of his, we relate their history in another work. Now the name
 of Abram is even still famous in the country of Damascus; and there is
 shown a village named from him, The Habitation of Abram."
 
-
-
-
-
-
-CHAPTER 8. That When There Was A Famine In Canaan, Abram Went Thence
-Into Egypt; And After He Had Continued There A While He Returned Back
-Again.
+### CHAPTER 8. That When There Was A Famine In Canaan, Abram Went Thence Into Egypt; And After He Had Continued There A While He Returned Back Again
 
 1. Now, after this, when a famine had invaded the land of Canaan, and
 Abram had discovered that the Egyptians were in a flourishing condition,
@@ -2102,12 +944,7 @@ from the city of Sodom, which was then a fine city, but is now
 destroyed, by the will and wrath of God, the cause of which I shall show
 in its proper place hereafter.
 
-
-
-
-
-
-CHAPTER 9. The Destruction Of The Sodomites By The Assyrian War.
+### CHAPTER 9. The Destruction Of The Sodomites By The Assyrian War
 
 At this time, when the Assyrians had the dominion over Asia, the people
 of Sodom were in a flourishing condition, both as to riches and the
@@ -2131,14 +968,7 @@ the Sodomites joined battle with the Assyrians, and the fight was very
 obstinate, many of them were killed, and the rest were carried captive;
 among which captives was Lot, who had come to assist the Sodomites.
 
-
-
-
-
-
-CHAPTER 10. How Abram Fought With The Assyrians, And Overcame Them, And
-Saved The Sodomite Prisoners, And Took From The Assyrians The Prey They
-Had Gotten.
+### CHAPTER 10. How Abram Fought With The Assyrians, And Overcame Them, And Saved The Sodomite Prisoners, And Took From The Assyrians The Prey They Had Gotten
 
 1. When, Abram heard of their calamity, he was at once afraid for Lot
 his kinsman, and pitied the Sodomites, his friends and neighbors; and
@@ -2235,13 +1065,7 @@ thanks to God for these blessings; and then he, and all his family, and
 his son Ismael, were circumcised immediately; the son being that day
 thirteen years of age, and he ninety-nine.
 
-
-
-
-
-
-CHAPTER 11. How God Overthrew The Nation Of The Sodomites, Out Of His
-Wrath Against Them For Their Sins.
+### CHAPTER 11. How God Overthrew The Nation Of The Sodomites, Out Of His Wrath Against Them For Their Sins
 
 1. About this time the Sodomites grew proud, on account of their riches
 and great wealth; they became unjust towards men, and impious towards
@@ -2314,13 +1138,7 @@ is even still a great nation; the latter was the father of the
 Ammonites; and both of them are inhabitants of Celesyria. And such was
 the departure of Lot from among the Sodomites.
 
-
-
-
-
-
-CHAPTER 12. Concerning Abimelech; And Concerning Ismael The Son Of
-Abraham; And Concerning The Arabians, Who Were His Posterity.
+### CHAPTER 12. Concerning Abimelech; And Concerning Ismael The Son Of Abraham; And Concerning The Arabians, Who Were His Posterity
 
 1. Abraham now removed to Gerar of Palestine, leading Sarah along with
 him, under the notion of his sister, using the like dissimulation that
@@ -2405,12 +1223,7 @@ Nabatene. They are an Arabian nation, and name their tribes from these,
 both because of their own virtue, and because of the dignity of Abraham
 their father.
 
-
-
-
-
-
-CHAPTER 13. Concerning Isaac The Legitimate Son Of Abraham.
+### CHAPTER 13. Concerning Isaac The Legitimate Son Of Abraham
 
 1. Now Abraham greatly loved Isaac, as being his only begotten 27 and
 given to him at the borders of old age, by the favor of God. The child
@@ -2506,12 +1319,7 @@ blessings, embraced one another; and when they had sacrificed, they
 returned to Sarah, and lived happily together, God affording them his
 assistance in all things they desired.
 
-
-
-
-
-
-CHAPTER 14. Concerning Sarah Abraham's Wife; And How She Ended Her Days.
+### CHAPTER 14. Concerning Sarah Abraham's Wife; And How She Ended Her Days
 
 Now Sarah died a little while after, having lived one hundred and
 twenty-seven years. They buried her in Hebron; the Canaanites publicly
@@ -2519,13 +1327,7 @@ allowing them a burying-place; which piece of ground Abraham bought for
 four hundred shekels, of Ephron, an inhabitant of Hebron. And both
 Abraham and his descendants built themselves sepulchers in that place.
 
-
-
-
-
-
-CHAPTER 15. How The Nation Of The Troglodytes Were Derived From Abraham
-By Keturah.
+### CHAPTER 15. How The Nation Of The Troglodytes Were Derived From Abraham By Keturah
 
 Abraham after this married Keturah, by whom six sons were born to him,
 men of courage, and of sagacious minds: Zambran, and Jazar, and Madan,
@@ -2549,12 +1351,7 @@ against Libya and Antaeus; and that Hercules married Aphra's daughter,
 and of her he begat a son, Diodorus; and that Sophon was his son, from
 whom that barbarous people called Sophacians were denominated."
 
-
-
-
-
-
-CHAPTER 16. How Isaac Took Rebeka To Wife.
+### CHAPTER 16. How Isaac Took Rebeka To Wife
 
 1. Now when Abraham, the father of Isaac, had resolved to take Rebeka,
 who was grand-daughter to his brother Nahor, for a wife to his son
@@ -2642,12 +1439,7 @@ desired. Accordingly Isaac married her, the inheritance being now come
 to him; for the children by Keturah were gone to their own remote
 habitations.
 
-
-
-
-
-
-CHAPTER 17. Concerning The Death Of Abraham.
+### CHAPTER 17. Concerning The Death Of Abraham
 
 A Little while after this Abraham died. He was a man of incomparable
 virtue, and honored by God in a manner agreeable to his piety towards
@@ -2655,13 +1447,7 @@ him. The whole time of his life was one hundred seventy and five years,
 and he was buried in Hebron, with his wife Sarah, by their sons Isaac
 and Ismael.
 
-
-
-
-
-
-CHAPTER 18. Concerning The Sons Of Isaac, Esau And Jacob; Of Their
-Nativity And Education.
+### CHAPTER 18. Concerning The Sons Of Isaac, Esau And Jacob; Of Their Nativity And Education
 
 1. Now Isaac's wife proved with child, after the death of Abraham; 30
 and when her belly was greatly burdened, Isaac was very anxious, and
@@ -2771,13 +1557,7 @@ Isaac did not like the Canaanites, so that he disapproved of Esau's
 former marriages, which made him take Basemmath to wife, in order to
 please him; and indeed he had a great affection for her.
 
-
-
-
-
-
-CHAPTER 19. Concerning Jacob's Flight Into Mesopotamia, By Reason Of The
-Fear He Was In Of His Brother.
+### CHAPTER 19. Concerning Jacob's Flight Into Mesopotamia, By Reason Of The Fear He Was In Of His Brother
 
 1. Now Jacob was sent by his mother to Mesopotamia, in order to marry
 Laban her brother's daughter [which marriage was permitted by Isaac, on
@@ -3039,12 +1819,7 @@ pillar, in the form of an altar: whence that hill is called Gilead; and
 from thence they call that land the Land of Gilead at this day. Now when
 they had feasted, after the making of the league, Laban returned home.
 
-
-
-
-
-
-CHAPTER 20. Concerning The Meeting Of Jacob And Esau.
+### CHAPTER 20. Concerning The Meeting Of Jacob And Esau
 
 1. Now as Jacob was proceeding on his journey to the land of Canaan,
 angels appeared to him, and suggested to him good hope of his future
@@ -3111,12 +1886,7 @@ their father; but Jacob pretending that the cattle were weary, Esau
 returned to Seir, for there was his place of habitation, he having named
 the place Roughness, from his own hairy roughness.
 
-
-
-
-
-
-CHAPTER 21. Concerning The Violation Of Dina's Chastity.
+### CHAPTER 21. Concerning The Violation Of Dina's Chastity
 
 1. Hereupon Jacob came to the place, till this day called Tents
 [Succoth]; from whence he went to Shechem, which is a city of the
@@ -3163,12 +1933,7 @@ eight were legitimate,--viz. six of Lea, and two of Rachel; and four
 were of the handmaids, two of each; all whose names have been set down
 already.
 
-
-
-
-
-
-CHAPTER 22. How Isaac Died, And Was Buried In Hebron.
+### CHAPTER 22. How Isaac Died, And Was Buried In Hebron
 
 From thence Jacob came to Hebron, a city situate among the Canaanites;
 and there it was that Isaac lived: and so they lived together for a
@@ -3180,13 +1945,7 @@ was vouchsafed great instances of providence by God, after Abraham his
 father, and lived to be exceeding old; for when he had lived virtuously
 one hundred and eighty-five years, he then died.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Since Josephus, in his Preface, sect. 4, says that Moses
 wrote some things enigmatically, some allegorically, and the rest in
@@ -3201,13 +1960,11 @@ Jehovah Elohim, from God to Lord God, in the Hebrew, Samaritan, and
 Septuagint, does also not a little favor some such change in the
 narration or construction.]
 
-
 2 (return) [ We may observe here, that Josephus supposed man to be
 compounded of spirit, soul, and body, with St. Paul, 1 Thessalonians
 5:23, and the rest of the ancients: he elsewhere says also, that the
 blood of animals was forbidden to be eaten, as having in it soul and
 spirit, Antiq. B. III. ch. 11. sect. 2.]
-
 
 3 (return) [ Whence this strange notion came, which yet is not peculiar
 to Joseph, but, as Dr. Hudson says here, is derived from older authors,
@@ -3224,12 +1981,10 @@ he very well knew the literal Nile arises from the south; though what
 further allegorical sense he had in view, is now, I fear, impossible to
 be determined.]
 
-
 4 (return) [ By the Red Sea is not here meant the Arabian Gulf, which
 alone we now call by that name, but all that South Sea, which included
 the Red Sea, and the Persian Gulf, as far as the East Indies; as Reland
 and Hudson here truly note, from the old geographers.]
-
 
 5 (return) [ Hence it appears, that Josephus thought several, at least,
 of the brute animals, particularly the serpent, could speak before the
@@ -3248,7 +2003,6 @@ and the other subordinate creatures, are hereafter to be delivered from
 the curse then brought upon them, and at last to be delivered from that
 bondage of corruption, Romans 8:19-22.]
 
-
 6 (return) [ St. John's account of the reason why God accepted the
 sacrifice of Abel, and rejected that of Cain; as also why Cain slew
 Abel, on account of that his acceptance with God, is much better than
@@ -3257,22 +2011,18 @@ his brother. And wherefore slew he him? Because his own works were evil,
 and his brother's righteous," 1 John 3:12. Josephus's reason seems to be
 no better than a pharisaical notion or tradition.]
 
-
 7 (return) [ From this Jubal, not improbably, came Jobel, the trumpet of
 jobel or jubilee; that large and loud musical instrument, used in
 proclaiming the liberty at the year of jubilee.]
 
-
 8 (return) [ The number of Adam's children, as says the old tradition
 was thirty-three sons, and twenty-three daughters.]
-
 
 9 (return) [ What is here said of Seth and his posterity, that they were
 very good and virtuous, and at the same time very happy, without any
 considerable misfortunes, for seven generations, [see ch. 2. sect. 1,
 before; and ch. 3. sect. 1, hereafter,] is exactly agreeable to the
 state of the world and the conduct of Providence in all the first ages.]
-
 
 10 (return) [ Of Josephus's mistake here, when he took Seth the son of
 Adam, for Seth or Sesostris, king of Egypt, the erector of this pillar
@@ -3287,10 +2037,8 @@ since the like pillars of the Egyptian Seth or Sesostris were extant
 after the flood, in the land of Siriad, and perhaps in the days of
 Josephus also, as is shown in the place here referred to.]
 
-
 11 (return) [ This notion, that the fallen angels were, in some sense,
 the fathers of the old giants, was the constant opinion of antiquity.]
-
 
 12 (return) [ Josephus here supposes that the life of these giants, for
 of them only do I understand him, was now reduced to 120 years; which is
@@ -3306,9 +2054,7 @@ ark was preparing] till the deluge; which I take to be the meaning of
 God when he threatened this wicked world, that if they so long continued
 impenitent, their days should be no more than 120 years.]
 
-
 13 (return) [ A cubit is about 21 English inches.]
-
 
 14 (return) [ Josephus here truly determines, that the year at the Flood
 began about the autumnal equinox. As to what day of the month the Flood
@@ -3316,7 +2062,6 @@ began, our Hebrew and Samaritan, and perhaps Josephus's own copy, more
 rightly placed it on the 17th day, instead of the 27th, as here; for
 Josephus agrees with them, as to the distance of 150 days to the 17th
 day of the 7th month, as Genesis 7. ult. with 8:3.]
-
 
 15 (return) [ Josephus here takes notice, that these ancient genealogies
 were first set down by those that then lived, and from them were
@@ -3326,7 +2071,6 @@ to read and write soon after they were taught to speak; and perhaps all
 by the Messiah himself, who, under the Father, was the Creator or
 Governor of mankind, and who frequently in those early days appeared to
 them.]
-
 
 16 (return) [ This [GREEK], or Place of Descent, is the proper rendering
 of the Armenian name of this very city. It is called in Ptolemy Naxuana,
@@ -3343,7 +2087,6 @@ people of the country suppose, I cannot certainly tell. Mons. Tournefort
 had, not very long since, a mind to see the place himself, but met with
 too great dangers and difficulties to venture through them.]
 
-
 17 (return) [ One observation ought not here to be neglected, with
 regard to that Ethiopic war which Moses, as general of the Egyptians,
 put an end to, Antiq. B. II. ch. 10., and about which our late writers
@@ -3352,7 +2095,6 @@ as to occasion the removal or destruction of six or seven nations of the
 posterity of Mitzraim, with their cities; which Josephus would not have
 said, if he had not had ancient records to justify those his assertions,
 though those records be now all lost.]
-
 
 18 (return) [ That the Jews were called Hebrews from this their
 progenitor Heber, our author Josephus here rightly affirms; and not from
@@ -3366,26 +2108,21 @@ Abram himself, who had then lately passed over Euphrates, and is another
 signification of the Hebrew word, taken as an appellative, and not as a
 proper name.]
 
-
 19 (return) [ It is worth noting here, that God required no other
 sacrifices under the law of Moses, than what were taken from these five
 kinds of animals which he here required of Abram. Nor did the Jews feed
 upon any other domestic animals than the three here named, as Reland
 observes on Antiq. B. IV. ch. 4. sect. 4.]
 
-
 20 (return) [ As to this affliction of Abram's posterity for 400 years,
 see Antiq. B. II. ch. 9. sect. 1.]
-
 
 21 (return) [ These sons-in-law to Lot, as they are called, Genesis
 19:12-14, might be so styled, because they were betrothed to Lot's
 daughters, though not yet married to them. See the note on Antiq. B.
 XIV. ch. 13. sect. 1.]
 
-
 22 (return) [ Of the War, B. IV. ch. 8. sect. 4.]
-
 
 23 (return) [ This pillar of salt was, we see here, standing in the days
 of Josephus, and he had seen it. That it was standing then is also
@@ -3406,7 +2143,6 @@ bring us faithful accounts of all ancient monuments, and procure us
 copies of all ancient records, at present lost among us, we may hope for
 full satisfaction in such inquiries; but hardly before.]
 
-
 24 (return) [ I see no proper wicked intention in these daughters of
 Lot, when in a case which appeared to them of unavoidable necessity,
 they procured themselves to be with child by their father. Without such
@@ -3418,7 +2154,6 @@ what they did from him, shows that they despaired of persuading him to
 an action which, at the best, could not but be very suspicious and
 shocking to so good a man.]
 
-
 25 (return) [ It is well worth observation, that Josephus here calls
 that principal Angel, who appeared to Abraham and foretold the birth of
 Isaac, directly God; which language of Josephus here, prepares us to
@@ -3427,7 +2162,6 @@ be lawful to call him a man, Antiq. B. XVIII. ch. 3. sect. 3, and of God
 the Word, in his homily concerning Hades, may be both genuine. Nor is
 the other expression of Divine Angel, used presently, and before, also
 of any other signification.]
-
 
 26 (return) [ Josephus here calls Ismael a young child or infant, though
 he was about 13 years of age; as Judas calls himself and his brethren
@@ -3443,12 +2177,10 @@ of the War, B. VII. ch. 4. sect. 2. Samson's wife, and Ruth, when they
 were widows, are called children, Antiq. B. V. ch. 8. sect. 6, and ch.
 9. sect. 2 3.]
 
-
 27 (return) [ Note, that both here and Hebrews 11:17, Isaac is called
 Abraham's only begotten son, though he at the same time had another son,
 Ismael. The Septuagint expresses the true meaning, by rendering the text
 the beloved son.]
-
 
 28 (return) [ Here is a plain error in the copies which say that king
 David afterwards built the temple on this Mount Moriah, while it was
@@ -3456,7 +2188,6 @@ certainly no other than king Solomon who built that temple, as indeed
 Procopius cites it from Josephus. For it was for certain David, and not
 Solomon, who built the first altar there, as we learn, 2 Samuel 24:18,
 etc.; 1 Chronicles 21:22, etc.; and Antiq. B. VII. ch. 13. sect. 4.]
-
 
 29 (return) [ It seems both here, and in God's parallel blessing to
 Jacob, ch. 19. sect. 1, that Josephus had yet no notion of the hidden
@@ -3481,17 +2212,14 @@ To which I shall add, that it is sometimes, as it were, paraphrased by
 the son of Abraham, the son of David, etc., which is capable of no such
 ambiguity.]
 
-
 30 (return) [ The birth of Jacob and Esau is here said to be after
 Abraham's death: it should have been after Sarah's death. The order of
 the narration in Genesis, not always exactly according to the order of
 time, seems to have led Josephus into this error, as Dr. Bernard
 observes here.]
 
-
 31 (return) [ For Seir in Josephus, the coherence requires that we read
 Esau or Seir, which signify the same thing.]
-
 
 32 (return) [ The supper of savory meat, as we call it, Genesis 27:4, to
 be caught by hunting, was intended plainly for a festival or a
@@ -3506,7 +2234,6 @@ might be altered, because he knew that this blessing came not from
 himself, but from God, and that an alteration was out of his power. A
 second afflatus then came upon him, and enabled him to foretell Esau's
 future behavior and foretell Esau's future behavior and fortune also.]
-
 
 33 (return) [ Whether Jacob or his mother Rebeka were most blameable in
 this imposition upon Isaac in his old age, I cannot determine. However
@@ -3530,7 +2257,6 @@ procedure more inexcusable. Nor was it probably any thing else that so
 much encouraged Esau formerly to marry two Canaanitish wives, without
 his parents' consent, as Isaac's unhappy fondness for him.]
 
-
 34 (return) [ By this "deprivation of the kingdom that was to be given
 Esau of God," as the first-born, it appears that Josephus thought that a
 "kingdom to be derived from God" was due to him whom Isaac should bless
@@ -3539,7 +2265,6 @@ under the Messiah, who therefore was to be born of his posterity whom
 Isaac should so bless. Jacob therefore by obtaining this blessing of the
 first-born, became the genuine heir of that kingdom, in opposition to
 Esau.]
-
 
 35 (return) [ Here we have the difference between slaves for life and
 servants, such as we now hire for a time agreed upon on both sides, and
@@ -3556,7 +2281,6 @@ prophecies at their deaths, see the Testaments of these twelve
 patriarchs, still preserved at large in the Authent. Rec. Part I. p.
 294-443.]
 
-
 36 (return) [ I formerly explained these mandrakes, as we, with the
 Septuagint, and Josephus, render the Hebrew word Dudaim, of the Syrian
 Maux, with Ludolphus, Antbent. Rec. Part I. p. 420; but have since seen
@@ -3565,20 +2289,17 @@ Barker, of what we still call mandrakes, and their description by the
 ancient naturalists and physicians, as inclines me to think these here
 mentioned were really mandrakes, and no other.]
 
-
 37 (return) [ Perhaps this may be the proper meaning of the word Israel,
 by the present and the old Jerusalem analogy of the Hebrew tongue. In
 the mean time, it is certain that the Hellenists of the first century,
 in Egypt and elsewhere, interpreted Israel to be a man seeing God, as is
 evident from the argument fore-cited.]
 
-
 38 (return) [ Of this slaughter of the Shechemites by Simeon and Levi,
 see Authent. Rec. Part I. p. 309, 418, 432-439. But why Josephus has
 omitted the circumcision of these Shechemites, as the occasion of their
 death; and of Jacob's great grief, as in the Testament of Levi, sect. 5;
 I cannot tell.]
-
 
 39 (return) [ Since Benoni signifies the son of my sorrow, and Benjamin
 the son of days, or one born in the father's old age, Genesis 44:20, I
@@ -3594,21 +2315,9 @@ Accordingly, both the Testament of Benjamin, sect. 2, p. 401, and Philo
 de Nominum Mutatione, p. 1059, write the name Benjamin, but explain it
 not the son of the right hand, but the son of days.]
 
+## BOOK II. Containing The Interval Of Two Hundred And Twenty Years.—From The Death Of Isaac To The Exodus Out Of Egypt
 
-
-
-
-
-BOOK II. Containing The Interval Of Two Hundred And Twenty Years.—From
-The Death Of Isaac To The Exodus Out Of Egypt.
-
-
-
-
-
-
-CHAPTER 1. How Esau And Jacob, Isaac's Sons Divided Their Habitation;
-And Esau Possessed Idumea And Jacob Canaan.
+### CHAPTER 1. How Esau And Jacob, Isaac's Sons Divided Their Habitation; And Esau Possessed Idumea And Jacob Canaan
 
 1. After the death of Isaac, his sons divided their habitations
 respectively; nor did they retain what they had before; but Esau
@@ -3638,13 +2347,7 @@ for Idumea was a large country, and did then preserve the name of the
 whole, while in its several parts it kept the names of its peculiar
 inhabitants.
 
-
-
-
-
-
-CHAPTER 2. How Joseph, The Youngest Of Jacob's Sons, Was Envied By His
-Brethren, When Certain Dreams Had Foreshown His Future Happiness.
+### CHAPTER 2. How Joseph, The Youngest Of Jacob's Sons, Was Envied By His Brethren, When Certain Dreams Had Foreshown His Future Happiness
 
 1. It happened that Jacob came to so great happiness as rarely any other
 person had arrived at. He was richer than the rest of the inhabitants of
@@ -3714,14 +2417,7 @@ because he was in great fear about them, he sent Joseph to the flocks,
 to learn the circumstances his brethren were in, and to bring him word
 how they did.
 
-
-
-
-
-
-CHAPTER 3. How Joseph Was Thus Sold By His Brethren Into Egypt, By
-Reason Of Their Hatred To Him; And How He There Grew Famous And
-Illustrious And Had His Brethren Under His Power.
+### CHAPTER 3. How Joseph Was Thus Sold By His Brethren Into Egypt, By Reason Of Their Hatred To Him; And How He There Grew Famous And Illustrious And Had His Brethren Under His Power
 
 1. Now these brethren rejoiced as soon as they saw their brother coming
 to them, not indeed as at the presence of a near relation, or as at the
@@ -3828,12 +2524,7 @@ wild beasts. He sat down also clothed in sackcloth and in heavy
 affliction, insomuch that he found no ease when his sons comforted him,
 neither did his pains remit by length of time.
 
-
-
-
-
-
-CHAPTER 4. Concerning The Signal Chastity Of Joseph.
+### CHAPTER 4. Concerning The Signal Chastity Of Joseph
 
 1. Now Potiphar, an Egyptian, who was chief cook to king Pharaoh, bought
 Joseph of the merchants, who sold him to him. He had him in the greatest
@@ -3963,12 +2654,7 @@ wicked man, he threw him into the malefactors' prison; and had a still
 higher opinion of his wife, and bare her witness that she was a woman of
 a becoming modesty and chastity.
 
-
-
-
-
-
-CHAPTER 5. What Things Befell Joseph In Prison.
+### CHAPTER 5. What Things Befell Joseph In Prison
 
 1. Now Joseph, commending all his affairs to God, did not betake himself
 to make his defense, nor to give an account of the exact circumstances
@@ -4131,13 +2817,7 @@ husbandmen, 3 allotting as much to every one as would be sufficient for
 seed, and for food, but without discovering to any one the reason why he
 did so.
 
-
-
-
-
-
-CHAPTER 6. How Joseph When He Was Become Famous In Egypt, Had His
-Brethren In Subjection.
+### CHAPTER 6. How Joseph When He Was Become Famous In Egypt, Had His Brethren In Subjection
 
 1. Joseph was now grown up to thirty years of age, and enjoyed great
 honors from the king, who called him Psothom Phanech, out of regard to
@@ -4549,13 +3229,7 @@ had received more of their brother part to be carried to their father,
 and part as free gifts to every one of themselves, Benjamin having still
 more than the rest, they departed.
 
-
-
-
-
-
-CHAPTER 7. The Removal Of Joseph's Father With All His Family, To Him,
-On Account Of The Famine.
+### CHAPTER 7. The Removal Of Joseph's Father With All His Family, To Him, On Account Of The Famine
 
 1. As soon as Jacob came to know, by his sons returning home, in what
 state Joseph was, that he had not only escaped death, for which yet he
@@ -4681,12 +3355,7 @@ Egyptians, and greater love to the king from them. Now this law, that
 they should pay the fifth part of their fruits as tribute, continued
 until their later kings.
 
-
-
-
-
-
-CHAPTER 8. Of The Death Of Jacob And Joseph.
+### CHAPTER 8. Of The Death Of Jacob And Joseph
 
 1. Now when Jacob had lived seventeen years in Egypt, he fell into a
 disease, and died in the presence of his sons; but not till he made his
@@ -4728,13 +3397,7 @@ and by what toils they got the possession of the land of Canaan, shall
 be shown hereafter, when I have first explained upon what account it was
 that they left Egypt.
 
-
-
-
-
-
-CHAPTER 9. Concerning The Afflictions That Befell The Hebrews In Egypt,
-During Four Hundred Years. 16
+### CHAPTER 9. Concerning The Afflictions That Befell The Hebrews In Egypt, During Four Hundred Years. 16
 
 1. Now it happened that the Egyptians grew delicate and lazy, as to
 pains-taking, and gave themselves up to other pleasures, and in
@@ -4942,12 +3605,7 @@ there was no one, either akin or adopted, that had any oracle on his
 side for pretending to the crown of Egypt, and likely to be of greater
 advantage to them, they abstained from killing him.
 
-
-
-
-
-
-CHAPTER 10. How Moses Made War With The Ethiopians.
+### CHAPTER 10. How Moses Made War With The Ethiopians
 
 1. Moses, therefore, when he was born, and brought up in the foregoing
 manner, and came to the age of maturity, made his virtue manifest to the
@@ -5040,12 +3698,7 @@ agreement made, but it took effect immediately; and when Moses had cut
 off the Ethiopians, he gave thanks to God, and consummated his marriage,
 and led the Egyptians back to their own land.
 
-
-
-
-
-
-CHAPTER 11. How Moses Fled Out Of Egypt Into Midian.
+### CHAPTER 11. How Moses Fled Out Of Egypt Into Midian
 
 1. Now the Egyptians, after they had been preserved by Moses,
 entertained a hatred to him, and were very eager in compassing their
@@ -5100,12 +3753,7 @@ him one of his daughters in marriage; and appointed him to be the
 guardian and superintendent over his cattle; for of old, all the wealth
 of the barbarians was in those cattle.
 
-
-
-
-
-
-CHAPTER 12. Concerning The Burning Bush And The Rod Of Moses.
+### CHAPTER 12. Concerning The Burning Bush And The Rod Of Moses
 
 1. Now Moses, when he had obtained the favor of Jethro, for that was one
 of the names of Raguel, staid there and fed his flock; but some time
@@ -5183,12 +3831,7 @@ firmest assent to the fire in the bush; and believing that God would be
 a gracious supporter to him, he hoped he should be able to deliver his
 own nation, and bring calamities on the Egyptians.
 
-
-
-
-
-
-CHAPTER 13. How Moses And Aaron Returned Into Egypt To Pharaoh.
+### CHAPTER 13. How Moses And Aaron Returned Into Egypt To Pharaoh
 
 1. So Moses, when he understood that the Pharaoh, in whose reign he fled
 away, was dead, asked leave of Raguel to go to Egypt, for the benefit of
@@ -5273,12 +3916,7 @@ but every thing is unfriendly and adverse towards them. He said further,
 that the Egyptians should know this by sad experience; and that besides,
 the Hebrew people should go out of their country without their consent.
 
-
-
-
-
-
-CHAPTER 14. Concerning The Ten Plagues Which Came Upon The Egyptians.
+### CHAPTER 14. Concerning The Ten Plagues Which Came Upon The Egyptians
 
 1. But when the king despised the words of Moses, and had no regard at
 all to them, grievous plagues seized the Egyptians; every one of which I
@@ -5406,12 +4044,7 @@ freed from its miseries. They also honored the Hebrews with gifts; 27
 some, in order to get them to depart quickly, and others on account of
 their neighborhood, and the friendship they had with them.
 
-
-
-
-
-
-CHAPTER 15. How The Hebrews Under The Conduct Of Moses Left Egypt.
+### CHAPTER 15. How The Hebrews Under The Conduct Of Moses Left Egypt
 
 1. So the Hebrews went out of Egypt, while the Egyptians wept, and
 repented that they had treated them so hardly.—Now they took their
@@ -5514,14 +4147,7 @@ because the sea before, and the mountains behind, afford you no
 opportunity for flying, for even these mountains, if God so please, may
 be made plain ground for you, and the sea become dry land."
 
-
-
-
-
-
-CHAPTER 16. How The Sea Was Divided Asunder For The Hebrews, When They
-Were Pursued By The Egyptians, And So Gave Them An Opportunity Of
-Escaping From Them.
+### CHAPTER 16. How The Sea Was Divided Asunder For The Hebrews, When They Were Pursued By The Egyptians, And So Gave Them An Opportunity Of Escaping From Them
 
 1. When Moses had said this, he led them to the sea, while the Egyptians
 looked on; for they were within sight. Now these were so distressed by
@@ -5613,13 +4239,7 @@ them, he led them to Mount Sinai, in order to offer sacrifice to God,
 and to render oblations for the salvation of the multitude, as he was
 charged to do beforehand.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ We may here observe, that in correspondence to Joseph's
 second dream, which implied that his mother, who was then alive, as well
@@ -5628,15 +4248,12 @@ here as still alive after she was dead, for the decorum of the dream
 that foretold it, as the interpretation of the dream does also in all
 our copies, Genesis 37:10.]
 
-
 2 (return) [ The Septuagint have twenty pieces of gold; the Testament of
 Gad thirty; the Hebrew and Samaritan twenty of silver; and the vulgar
 Latin thirty. What was the true number and true sum cannot therefore now
 be known.]
 
-
 3 (return) [ That is, bought it for Pharaoh at a very low price.]
-
 
 4 (return) [ This Potiphar, or, as Josephus, Petephres, who was now a
 priest of On, or Heliopolis, is the same name in Josephus, and perhaps
@@ -5649,27 +4266,22 @@ Testament, but, as Dr. Bernard confesses, note on Antiq. B. II. ch. 4.
 sect. 1, common to Josephus, to the Septuagint interpreters, and to
 other learned Jews of old time.]
 
-
 5 (return) [ This entire ignorance of the Egyptians of these years of
 famine before they came, told us before, as well as here, ch. 5. sect.
 7, by Josephus, seems to me almost incredible. It is in no other copy
 that I know of.]
-
 
 6 (return) [ The reason why Symeon might be selected out of the rest for
 Joseph's prisoner, is plain in the Testament of Symeon, viz. that he was
 one of the bitterest of all Joseph's brethren against him, sect. 2;
 which appears also in part by the Testament of Zabulon, sect. 3.]
 
-
 7 (return) [ The coherence seems to me to show that the negative
 particle is here wanting, which I have supplied in brackets, and I
 wonder none have hitherto suspected that it ought to be supplied.]
 
-
 8 (return) [ Of the precious balsam of Judea, and the turpentine, see
 the note on Antiq. B. VIII. ch. 6. sect. 6.]
-
 
 9 (return) [ This oration seems to me too large, and too unusual a
 digression, to have been composed by Judas on this occasion. It seems to
@@ -5678,12 +4290,10 @@ and in the way of oratory, that lay by him, and which he thought fit to
 insert on this occasion. See two more such speeches or declamations,
 Antiq. B. VI. ch. 14. sect. 4]
 
-
 10 (return) [ In all this speech of Judas we may observe, that Josephus
 still supposed that death was the punishment of theft in Egypt, in the
 days of Joseph, though it never was so among the Jews, by the law of
 Moses.]
-
 
 11 (return) [ All the Greek copies of Josephus have the negative
 particle here, that Jacob himself was not reckoned one of the 70 souls
@@ -5693,13 +4303,11 @@ these was Josephus's true reading, since the number 70 is made up
 without him, if we reckon Leah for one; but if she be not reckoned,
 Jacob must himself be one, to complete the number.]
 
-
 12 (return) [ Josephus thought that the Egyptians hated or despised the
 employment of a shepherd in the days of Joseph; whereas Bishop
 Cumberland has shown that they rather hated such Poehnician or Canaanite
 shepherds that had long enslaved the Egyptians of old time. See his
 Sanchoniatho, p. 361, 362.]
-
 
 13 (return) [ Reland here puts the question, how Josephus could complain
 of its not raining in Egypt during this famine, while the ancients
@@ -5710,7 +4318,6 @@ in the Delta [and by consequence in the Lower Egypt adjoining to it] it
 did of old, and still does, rain sometimes. See the note on Antiq. B.
 III. ch. 1. sect. 6.]
 
-
 14 (return) [ Josephus supposes that Joseph now restored the Egyptians
 their lands again upon the payment of a fifth part as tribute. It seems
 to me rather that the land was now considered as Pharaoh's land, and
@@ -5719,19 +4326,16 @@ landlord, and they his tenants; and that the lands were not properly
 restored, and this fifth part reserved as tribute only, till the days of
 Sesostris. See Essay on the Old Testament, Append. 148, 149.]
 
-
 15 (return) [ As to this encomium upon Joseph, as preparatory to Jacob's
 adopting Ephraim and Manasses into his own family, and to be admitted
 for two tribes, which Josephus here mentions, all our copies of Genesis
 omit it, ch. 48.; nor do we know whence he took it, or whether it be not
 his own embellishment only.]
 
-
 16 (return) [ As to the affliction of Abraham's posterity for 400 years,
 see Antiq. B. I. ch. 10. sect. 3; and as to what cities they built in
 Egypt, under Pharaoh Sesostris, and of Pharaoh Sesostris's drowning in
 the Red Sea, see Essay on the Old Testament, Append. p. 132-162.]
-
 
 17 (return) [ Of this building of the pyramids of Egypt by the
 Israelites, see Perizonius Orig. Aegyptiac, ch. 21. It is not impossible
@@ -5740,14 +4344,12 @@ much later. Only, if they be all built of stone, this does not so well
 agree with the Israelites' labors, which are said to have been in brick,
 and not in stone, as Mr. Sandys observes in his Travels. p. 127, 128.]
 
-
 18 (return) [ Dr. Bernard informs us here, that instead of this single
 priest or prophet of the Egyptians, without a name in Josephus, the
 Targum of Jonathan names the two famous antagonists of Moses, Jannes and
 Jambres. Nor is it at all unlikely that it might be one of these who
 foreboded so much misery to the Egyptians, and so much happiness to the
 Israelites, from the rearing of Moses.]
-
 
 19 (return) [ Josephus is clear that these midwives were Egyptians, and
 not Israelites, as in our other copies: which is very probable, it being
@@ -5759,17 +4361,14 @@ the Pentateuch, or other authentic records now lost, about the birth and
 actions of Moses, than either our Hebrew, Samaritan, or Greek Bibles
 afford us, which enabled him to be so large and particular about him.]
 
-
 20 (return) [ Of this grandfather of Sesostris, Ramestes the Great, who
 slew the Israelite infants, and of the inscription on his obelisk,
 containing, in my opinion, one of the oldest records of mankind, see
 Essay on the Old Test. Append. p. 139, 145, 147, 217-220.]
 
-
 21 (return) [ What Josephus here says of the beauty of Moses, that he
 was of a divine form, is very like what St. Stephen says of the same
 beauty; that Moses was beautiful in the sight of Acts 7:20.]
-
 
 22 (return) [ This history of Moses, as general of the Egyptians against
 the Ethiopians, is wholly omitted in our Bibles; but is thus by
@@ -5783,12 +4382,10 @@ he said of Moses, before he was sent by God to the Israelites, that he
 was not only learned in all the wisdom of the Egyptians, but was also
 mighty in words and in deeds, Acts 7:22.]
 
-
 23 (return) [ Pliny speaks of these birds called ibes; and says, "The
 Egyptians invoked them against the serpents," Hist. Nat. B. X. ch. 28.
 Strabo speaks of this island Meroe, and these rivers Astapus and
 Astaboras, B. XVI. p. 771, 786; and B XVII. p. 82].]
-
 
 24 (return) [ This superstitious fear of discovering the name with four
 letters, which of late we have been used falsely to pronounce Jehovah,
@@ -5803,17 +4400,14 @@ continued even by the Rabbins. It is, however, no doubt but both these
 cautious concealments were taught Josephus by the Pharisees, a body of
 men at once very wicked and very superstitious.]
 
-
 25 (return) [ Of this judicial hardening the hearts and blinding the
 eyes of wicked men, or infatuating them, as a just punishment for their
 other willful sins, to their own destruction, see the note on Antiq. B.
 VII. ch. 9. sect. 6.]
 
-
 26 (return) [ As to this winter or spring hail near Egypt and Judea, see
 the like on thunder and lightning there, in the note on Antiq. B. VI.
 ch. 5. sect. 6.]
-
 
 27 (return) [ These large presents made to the Israelites, of vessels of
 and vessels of gold, and raiment, were, as Josephus truly calls them,
@@ -5829,7 +4423,6 @@ all dead men, as they themselves confess, ch. 12. 33. Nor was there any
 sense in borrowing or lending, when the Israelites were finally
 departing out of the land for ever.]
 
-
 28 (return) [ Why our Masorete copy so groundlessly abridges this
 account in Exodus 12:40, as to ascribe 430 years to the sole
 peregrination of the Israelites in Egypt, when it is clear even by that
@@ -5838,7 +4431,6 @@ in the Samaritan, Septuagint, and Josephus, that they sojourned in Egypt
 but half that time,--and that by consequence, the other half of their
 peregrination was in the land of Canaan, before they came into Egypt,--
 is hard to say. See Essay on the Old Testament, p. 62, 63.]
-
 
 29 (return) [ Take the main part of Reland's excellent note here, which
 greatly illustrates Josephus, and the Scripture, in this history, as
@@ -5863,12 +4455,10 @@ Cumberland has shown that it belongs to the old Canaanite or Phoenician
 shepherds, and their retiring out of Egypt into Canaan or Phoenicia,
 long before the days of Moses. Sanchoniatho, p. 374, &c.]
 
-
 30 (return) [ Of these storms of wind, thunder, and lightning, at this
 drowning of Pharaoh's army, almost wanting in our copies of Exodus, but
 fully extant in that of David, Psalm 77:16-18, and in that of Josephus
 here, see Essay on the Old Test. Append. p. 15,1, 155.]
-
 
 31 (return) [ What some have here objected against this passage of the
 Israelites over the Red Sea, in this one night, from the common maps,
@@ -5900,7 +4490,6 @@ sceptics and unbelievers, and so certainly do thorough inquiries and
 authentic evidence disprove and confute such evasions and subterfuges
 upon all occasions.]
 
-
 32 (return) [ What that hexameter verse, in which Moses's triumphant
 song is here said to be written, distinctly means, our present ignorance
 of the old Hebrew metre or measure will not let us determine. Nor does
@@ -5908,7 +4497,6 @@ it appear to me certain that even Josephus himself had a distinct notion
 of it, though he speaks of several sort of that metre or measure, both
 here and elsewhere. Antiq. B. IV. ch. 8. sect. 44; and B. VII. ch. 12.
 sect. 3.]
-
 
 33 (return) [ Take here the original passages of the four old authors
 that still remain, as to this transit of Alexander the Great over the
@@ -5959,22 +4547,9 @@ itself, there is hence not the least color for finding fault with
 Josephus: he would rather have been much to blame had he omitted these
 quotations.]
 
+## BOOK III. Containing The Interval Of Two Years.—From The Exodus Out Of Egypt, To The Rejection Of That Generation
 
-
-
-
-
-BOOK III. Containing The Interval Of Two Years.—From The Exodus Out Of
-Egypt, To The Rejection Of That Generation.
-
-
-
-
-
-
-CHAPTER 1. How Moses When He Had Brought The People Out Of Egypt Led
-Them To Mount Sinai; But Not Till They Had Suffered Much In Their
-Journey.
+### CHAPTER 1. How Moses When He Had Brought The People Out Of Egypt Led Them To Mount Sinai; But Not Till They Had Suffered Much In Their Journey
 
 1. When the Hebrews had obtained such a wonderful deliverance, the
 country was a great trouble to them, for it was entirely a desert, and
@@ -6188,13 +4763,7 @@ towards them. Now that Scripture, which is laid up in the temple, 6
 informs us, how God foretold to Moses, that water timid in this manner
 be derived out of the rock.'
 
-
-
-
-
-
-CHAPTER 2. How The Amalekites And The Neighbouring Nations, Made War
-With The Hebrews And Were Beaten And Lost A Great Part Of Their Army.
+### CHAPTER 2. How The Amalekites And The Neighbouring Nations, Made War With The Hebrews And Were Beaten And Lost A Great Part Of Their Army
 
 1. The name of the Hebrews began already to be every where renowned, and
 rumors about them ran abroad. This made the inhabitants of those
@@ -6334,13 +4903,7 @@ in three months' time after they were removed out of Egypt; at which
 mountain, as we have before related, the vision of the bush, and the
 other wonderful appearances, had happened.
 
-
-
-
-
-
-CHAPTER 3. That Moses Kindly Received-His Father-In-Law, Jethro, When He
-Came To Him To Mount Sinai.
+### CHAPTER 3. That Moses Kindly Received-His Father-In-Law, Jethro, When He Came To Him To Mount Sinai
 
 Now when Raguel, Moses's father-in-law, understood in what a prosperous
 condition his affairs were, he willingly came to meet him and Moses and
@@ -6356,15 +4919,7 @@ upon the whole multitude; and he could not but admire Moses for his
 fortitude, and that humanity he had shewn in the delivery of his
 friends.
 
-
-
-
-
-
-CHAPTER 4. How Raguel Suggested To Moses To Set His People In Order,
-Under Their Rulers Of Thousands, And Rulers Of Hundreds, Who Lived
-Without Order Before; And How Moses Complied In All Things With His
-Father-In-Law's Admonition.
+### CHAPTER 4. How Raguel Suggested To Moses To Set His People In Order, Under Their Rulers Of Thousands, And Rulers Of Hundreds, Who Lived Without Order Before; And How Moses Complied In All Things With His Father-In-Law's Admonition
 
 1. The next day, as Raguel saw Moses in the middle of a crowd of
 business for he determined the differences of those that referred them
@@ -6412,13 +4967,7 @@ inventions of other men; whence we may learn the virtuous disposition of
 Moses: but of such his disposition, we shall have proper occasion to
 speak in other places of these books.
 
-
-
-
-
-
-CHAPTER 5. How Moses Ascended Up To Mount Sinai, And Received Laws From
-God, And Delivered Them To The Hebrews.
+### CHAPTER 5. How Moses Ascended Up To Mount Sinai, And Received Laws From God, And Delivered Them To The Hebrews
 
 1. Now Moses called the multitude together, and told them that he was
 going from them unto mount Sinai to converse with God; to receive from
@@ -6571,13 +5120,7 @@ When he had said this, he showed them the two tables, with the ten
 commandments engraven upon them, five upon each table; and the writing
 was by the hand of God.
 
-
-
-
-
-
-CHAPTER 6. Concerning The Tabernacle Which Moses Built In The Wilderness
-For The Honor Of God And Which Seemed To Be A Temple.
+### CHAPTER 6. Concerning The Tabernacle Which Moses Built In The Wilderness For The Honor Of God And Which Seemed To Be A Temple
 
 1. Hereupon the Israelites rejoiced at what they had seen and heard of
 their conductor, and were not wanting in diligence according to their
@@ -6810,13 +5353,7 @@ made of gold; but the other vessels, made for the use of the sacrifices,
 were all of brass. And such was the construction of the tabernacle; and
 these were the vessels thereto belonging.
 
-
-
-
-
-
-CHAPTER 7. Concerning The Garments Of The Priests, And Of The High
-Priest.
+### CHAPTER 7. Concerning The Garments Of The Priests, And Of The High Priest
 
 1. There were peculiar garments appointed for the priests, and for all
 the rest, which they call Cohanoeoe [-priestly] garments, as also for
@@ -7009,12 +5546,7 @@ present, since the course of my narration will often, and on many
 occasions, afford me the opportunity of enlarging upon the virtue of our
 legislator.
 
-
-
-
-
-
-CHAPTER 8. Of The Priesthood Of Aaron.
+### CHAPTER 8. Of The Priesthood Of Aaron
 
 1. When what has been described was brought to a conclusion, gifts not
 being yet presented, God appeared to Moses, and enjoined him to bestow
@@ -7215,12 +5747,7 @@ peace by luxury, or in times of war by distress of affairs. But I say no
 more here concerning them, because I have resolved to compose another
 work concerning our laws.
 
-
-
-
-
-
-CHAPTER 9. The Manner Of Our Offering Sacrifices.
+### CHAPTER 9. The Manner Of Our Offering Sacrifices
 
 1. I Will now, however, make mention of a few of our laws which belong
 to purifications, and the like sacred offices, since I am accidentally
@@ -7292,13 +5819,7 @@ meat-offerings are consumed, together with the animals that are
 sacrificed; of which it is not lawful to leave any part till the next
 day, only the priests are to take their own share.
 
-
-
-
-
-
-CHAPTER 10. Concerning The Festivals; And How Each Day Of Such Festival
-Is To Be Observed.
+### CHAPTER 10. Concerning The Festivals; And How Each Day Of Such Festival Is To Be Observed
 
 1. The law requires, that out of the public expenses a lamb of the first
 year be killed every day, at the beginning and at the ending of the day;
@@ -7409,12 +5930,7 @@ the morning, and the other half at night. The account of these
 sacrifices I shall give more accurately hereafter; but I think I have
 premised what for the present may be sufficient concerning them.
 
-
-
-
-
-
-CHAPTER 11. Of The Purifications.
+### CHAPTER 11. Of The Purifications
 
 1. Moses took out the tribe of Levi from communicating with the rest of
 the people, and set them apart to be a holy tribe; and purified them by
@@ -7504,12 +6020,7 @@ are the ceremonies about sacrifices, and about the purifications thereto
 belonging, which Moses provided for his countrymen. He also prescribed
 the following laws to them:—
 
-
-
-
-
-
-CHAPTER 12. Several Laws.
+### CHAPTER 12. Several Laws
 
 1. As for adultery, Moses forbade it entirely, as esteeming it a happy
 thing that men should be wise in the affairs of wedlock; and that it was
@@ -7631,13 +6142,7 @@ sacrifices to the altar as well on the Sabbaths as on the rest of the
 was called the Passover in the Wilderness, as the first he had offered
 after the departure out of Egypt.
 
-
-
-
-
-
-CHAPTER 13. Moses Removed From Mount Sinai, And Conducted The People To
-The Borders Of The Canaanites.
+### CHAPTER 13. Moses Removed From Mount Sinai, And Conducted The People To The Borders Of The Canaanites
 
 A Little while afterwards he rose up, and went from Mount Sinai; and,
 having passed through several mansions, of which we will speak he came
@@ -7664,11 +6169,6 @@ numbers. However, it was not long ere God punished the Hebrews for their
 insolence, those reproaches they had used towards him, no small number
 of them died; and still to this day the place retains the memory of this
 destruction and is named Kibrothhattaavah, which is, Graves of Lust.
-
-
-
-
-
 
 CHAPTER 14. How Moses Sent Some Persons To Search Out The Land Of The
 Canaanites, And The Largeness Of Their Cities; And Further That When
@@ -7747,15 +6247,7 @@ temper, which were now disordered by their present passion. The cloud
 also did now appear, and stood over the tabernacle, and declared to them
 the presence of God to be there.
 
-
-
-
-
-
-CHAPTER 15. How Moses Was Displeased At This, And Foretold That God Was
-Angry And That They Should Continue In The Wilderness For Forty Years
-And Not, During That Time, Either Return Into Egypt Or Take Possession
-Of Canaan.
+### CHAPTER 15. How Moses Was Displeased At This, And Foretold That God Was Angry And That They Should Continue In The Wilderness For Forty Years And Not, During That Time, Either Return Into Egypt Or Take Possession Of Canaan
 
 1. Moses came now boldly to the multitude, and informed them that God
 was moved at their abuse of him, and would inflict punishment upon them,
@@ -7828,13 +6320,7 @@ who established this settlement was God, and that it was by the means of
 Moses, and of his virtue; but as to these matters, let every one take
 them as he thinks fit.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Dr. Bernard takes notice here, that this place Mar, where
 the waters were bitter, is called by the Syrians and Arabians Mariri,
@@ -7843,7 +6329,6 @@ also takes notice, that it is called The Bitter Fountain by Pliny
 himself; which waters remain there to this day, and are still bitter, as
 Thevenot assures us and that there are also abundance of palm-trees. See
 his Travels, Part I. ch. 26. p. 166.]
-
 
 2 (return) [ The additions here to Moses's account of the sweetening of
 the waters at Marah, seem derived from some ancient profane author, and
@@ -7867,13 +6352,11 @@ somewhat like these additions in Josephus's account of Elisha's making
 sweet the bitter and barren spring near Jericho, War, B. IV. ch. 8.
 sect. 3.]
 
-
 3 (return) [ It seems to me, from what Moses, Exodus 16:18, St. Paul, 2
 Corinthians 8:15, and Josephus here say, compared together, that the
 quantity of manna that fell daily, and did not putrefy, was just so much
 as came to an omer apiece, through the whole host of Israel, and no
 more.]
-
 
 4 (return) [ This supposal, that the sweet honey-dew or manna, so
 celebrated in ancient and modern authors, as falling usually in Arabia,
@@ -7892,17 +6375,14 @@ derivation. This manna is called angels' food, Psalm 78:26, and by our
 Sacior, John 6:31, etc., as well as by Josephus here and elsewhere,
 Antiq. B. III. ch. 5. sect. 3, said to be sent the Jews from heaven.]
 
-
 5 (return) [ This rock is there at this day, as the travelers agree; and
 must be the same that was there in the days of Moses, as being too large
 to be brought thither by our modern carriages.]
-
 
 6 (return) [ Note here, that the small book of the principal laws of
 Moses is ever said to be laid up in the holy house itself; but the
 larger Pentateuch, as here, some where within the limits of the temple
 and its courts only. See Antiq. B. V. ch. 1. sect. 17.]
-
 
 7 (return) [ This eminent circumstance, that while Moses's hands were
 lift up towards heaven, the Israelites prevailed, and while they were
@@ -7919,14 +6399,12 @@ the constant use of divine forms of prayer, praise, and thanksgiving,
 appears to me to have been the practice of God's people, patriarchs,
 Jews, and Christians, in all the past ages.]
 
-
 8 (return) [ This manner of electing the judges and officers of the
 Israelites by the testimonies and suffrages of the people, before they
 were ordained by God, or by Moses, deserves to be carefully noted,
 because it was the pattern of the like manner of the choice and
 ordination of bishops, presbyters, and deacons, in the Christian
 church.]
-
 
 9 (return) [ Since this mountain, Sinai, is here said to be the highest
 of all the mountains that are in that country, it must be that now
@@ -7942,22 +6420,18 @@ mountain called Sinai: and Jerome, here cited by Dr. Hudson, says, that
 he took this mountain to have two names, Sinai and Choreb. De Nomin.
 Heb. p. 427.]
 
-
 10 (return) [ Of this and another like superstitious notion of the
 Pharisees, which Josephus complied with, see the note on Antiq. B. II.
 ch. 12. sect. 4.]
-
 
 11 (return) [ This other work of Josephus, here referred to, seems to be
 that which does not appear to have been ever published, which yet he
 intended to publish, about the reasons of many of the laws of Moses; of
 which see the note on the Preface, sect. 4.]
 
-
 12 (return) [ Of this tabernacle of Moses, with its several parts and
 furniture, see my description at large, chap. 6. 7. 8. 9. 10. 11. 12.,
 hereto belonging.]
-
 
 13 (return) [ The use of these golden bells at the bottom of the high
 priest's long garment, seems to me to have been this: That by shaking
@@ -7974,14 +6448,12 @@ and with many golden bells round about, that as he went there might be a
 sound, and a noise made that might be heard in the temple, for a
 memorial to the children of his people."]
 
-
 14 (return) [ The reader ought to take notice here, that the very Mosaic
 Petalon, or golden plate, for the forehead of the Jewish high priest,
 was itself preserved, not only till the days of Josephus, but of Origen;
 and that its inscription, Holiness to the Lord, was in the Samaritan
 characters. See Antiq. B. VIII. ch. 3. sect. 8, Essay on the Old Test.
 p. 154, and Reland, De pol. Templi, p. 132.]
-
 
 15 (return) [ When Josephus, both here and ch. 6. sect. 4, supposes the
 tabernacle to have been parted into three parts, he seems to esteem the
@@ -7991,7 +6463,6 @@ there was a real distinct third part, which was called the Porch:
 otherwise Josephus would contradict his own description of the
 tabernacle, which gives as a particular account of no more than two
 parts.]
-
 
 16 (return) [ This explication of the mystical meaning of the Jewish
 tabernacle and its vessels, with the garments of the high priest, is
@@ -8012,7 +6483,6 @@ ancient Jewish emblems to be explained any other way than according to
 ancient Jewish, and not Gentile, notions. See of the War, B. I. ch. 33.
 sect. 2.]
 
-
 17 (return) [ It is well worth our observation, that the two principal
 qualifications required in this section for the constitution of the
 first high priest, [viz. that he should have an excellent character for
@@ -8023,7 +6493,6 @@ the Christian religion requires in the choice of Christian bishops,
 priests, and deacons; as the Apostolical Constitutions inform us, B. II.
 ch. 3.]
 
-
 18 (return) [ This weight and value of the Jewish shekel, in the days of
 Josephus, equal to about 2s. 10d. sterling, is, by the learned Jews,
 owned to be one-fifth larger than were their old shekels; which
@@ -8033,22 +6502,18 @@ Samaritan inscriptions, coined generally by Simon the Maccabee, about
 more than 2s. 4d., and commonly but 2s. 4d. See Reland De Nummis
 Samaritanorum, p. 138.]
 
-
 19 (return) [ The incense was here offered, according to Josephus's
 opinion, before sun-rising, and at sun-setting; but in the days of
 Pompey, according to the same Josephus, the sacrifices were offered in
 the morning, and at the ninth hour. Antiq. B. XIV. ch. 4. sect. 3.]
 
-
 20 (return) [ Hence we may correct the opinions of the modern Rabbins,
 who say that only one of the seven lamps burned in the day-time; whereas
 our Josephus, an eyewitness, says there were three.]
 
-
 21 (return) [ Of this strange expression, that Moses "left it to God to
 be present at his sacrifices when he pleased, and when he pleased to be
 absent," see the note on B. II. against Apion, sect. 16.]
-
 
 22 (return) [ These answers by the oracle of Urim and Thummim, which
 words signify, light and perfection, or, as the Septuagint render them,
@@ -8060,7 +6525,7 @@ shining of the precious stones, after an awkward manner, in the high
 priest's breastplate, as the modern Rabbins vainly suppose; for
 certainly the shining of the stones might precede or accompany the
 oracle, without itself delivering that oracle, see Antiq. B. VI. ch. 6.
-sect. 4; but rather by an audible voice from the mercy- seat between the
+sect. 4; but rather by an audible voice from the mercy-seat between the
 cherubims. See Prideaux's Connect. at the year 534. This oracle had been
 silent, as Josephus here informs us, two hundred years before he wrote
 his Antiquities, or ever since the days of the last good high priest of
@@ -8137,7 +6602,6 @@ practices, Such hypotheses demonstrate to us how far inclination can
 prevail over evidence, in even some of the most learned part of
 mankind.]
 
-
 23 (return) [ What Reland well observes here, out of Josephus, as
 compared with the law of Moses, Leviticus 7:15, [that the eating of the
 sacrifice the same day it was offered, seems to mean only before the
@@ -8149,12 +6613,10 @@ this appears to me to be the language both of the Old and New Testament.
 See also the note on Antiq. B. IV. ch. 4. sect. 4, and Reland's note on
 B. IV. ch. 8. sect. 28.]
 
-
 24 (return) [ We may here note, that Josephus frequently calls the camp
 the city, and the court of the Mosaic tabernacle a temple, and the
 tabernacle itself a holy house, with allusion to the latter city,
 temple, and holy house, which he knew so well long afterwards.]
-
 
 25 (return) [ These words of Josephus are remarkable, that the lawgiver
 of the Jews required of the priests a double degree of parity, in
@@ -8163,7 +6625,6 @@ instances immediately. It was for certain the case also among the first
 Christians, of the clergy, in comparison of the laity, as the
 Apostolical Constitutions and Canons every where inform us.]
 
-
 26 (return) [ We must here note with Reland, that the precept given to
 the priests of not drinking wine while they wore the sacred garments, is
 equivalent; to their abstinence from it all the while they ministered in
@@ -8171,24 +6632,11 @@ the temple; because they then always, and then only, wore those sacred
 garments, which were laid up there from one time of ministration to
 another.]
 
-
 27 (return) [ See Antiq, B. XX. ch. 2. sect, 6. and Acts 11:28.]
 
+## BOOK IV. Containing The Interval Of Thirty-Eight Years.—From The Rejection Of That Generation To The Death Of Moses
 
-
-
-
-
-BOOK IV. Containing The Interval Of Thirty-Eight Years.—From The
-Rejection Of That Generation To The Death Of Moses.
-
-
-
-
-
-
-CHAPTER 1. Fight Of The Hebrews With The Canaanites Without The Consent
-Of Moses; And Their Defeat.
+### CHAPTER 1. Fight Of The Hebrews With The Canaanites Without The Consent Of Moses; And Their Defeat
 
 1. Now this life of the Hebrews in the wilderness was so disagreeable
 and troublesome to them, and they were so uneasy at it, that although
@@ -8247,13 +6695,7 @@ into the wilderness, as intending there to let them rest, and not to
 permit them to fight the Canaanites before God should afford them a more
 favorable opportunity.
 
-
-
-
-
-
-CHAPTER 2. The Sedition Of Corah And Of The Multitude Against Moses, And
-Against His Brother, Concerning The Priesthood.
+### CHAPTER 2. The Sedition Of Corah And Of The Multitude Against Moses, And Against His Brother, Concerning The Priesthood
 
 1. That which is usually the case of great armies, and especially upon
 ill success, to be hard to be pleased, and governed with difficulty, did
@@ -8391,14 +6833,7 @@ people; and when you offer it, he whose sacrifice God shall accept shall
 be ordained to the priesthood, and shall be clear of the present calumny
 on Aaron, as if I had granted him that favor because he was my brother."
 
-
-
-
-
-
-CHAPTER 3. How Those That Stirred Up This Sedition Were Destroyed,
-According To The Will Of God; And How Aaron, Moses's Brother Both He And
-His Posterity, Retained The Priesthood.
+### CHAPTER 3. How Those That Stirred Up This Sedition Were Destroyed, According To The Will Of God; And How Aaron, Moses's Brother Both He And His Posterity, Retained The Priesthood
 
 1. When Moses had said this, the multitude left off the turbulent
 behavior they had indulged, and the suspicion they had of Moses, and
@@ -8546,13 +6981,7 @@ to have the priesthood by the favor of Moses, but by the public judgment
 of God; and thus he and his children peaceably enjoyed that honor
 afterward.
 
-
-
-
-
-
-CHAPTER 4. What Happened To The Hebrews During Thirty-Eight Years In The
-Wilderness.
+### CHAPTER 4. What Happened To The Hebrews During Thirty-Eight Years In The Wilderness
 
 1. However, this sedition was so far from ceasing upon this destruction,
 that it grew much stronger, and became more intolerable. And the
@@ -8699,14 +7128,7 @@ He died on the first day of that lunar month which is called by the
 Athenians Hecatombaeon, by the Macedonians Lous, but by the Hebrews
 Abba.
 
-
-
-
-
-
-CHAPTER 5. How Moses Conquered Sihon And Og Kings Of The Amorites, And
-Destroyed Their Whole Army And Then Divided Their Land By Lot To Two
-Tribes And A Half Of The Hebrews.
+### CHAPTER 5. How Moses Conquered Sihon And Og Kings Of The Amorites, And Destroyed Their Whole Army And Then Divided Their Land By Lot To Two Tribes And A Half Of The Hebrews
 
 1. The people mourned for Aaron thirty days, and when this mourning was
 over, Moses removed the army from that place, and came to the river
@@ -8797,12 +7219,7 @@ those sixty cities, which were encompassed with excellent walls, and had
 been subject to him, and all got both in general and in particular a
 great prey.
 
-
-
-
-
-
-CHAPTER 6. Concerning Balaam The Prophet And What Kind Of Man He Was.
+### CHAPTER 6. Concerning Balaam The Prophet And What Kind Of Man He Was
 
 1. Now Moses, when he had brought his army to Jordan; pitched his camp
 in the great plain over against Jericho. This city is a very happy
@@ -9137,13 +7554,7 @@ doing, he still gave his attestation to him, and did him the honor to
 make mention of him on this account. But let every one think of these
 matters as he pleases.
 
-
-
-
-
-
-CHAPTER 7. How The Hebrews Fought With The Midianites, And Overcame
-Them.
+### CHAPTER 7. How The Hebrews Fought With The Midianites, And Overcame Them
 
 1. Now Moses sent an army against the land of Midian, for the causes
 forementioned, in all twelve thousand, taking an equal number out of
@@ -9245,13 +7656,7 @@ leave their inheritance in their father's tribe. And then it was that
 Moses ordained, that every one's inheritance should continue in his own
 tribe.
 
-
-
-
-
-
-CHAPTER 8. The Polity Settled By Moses; And How He Disappeared From
-Among Mankind.
+### CHAPTER 8. The Polity Settled By Moses; And How He Disappeared From Among Mankind
 
 1. When forty years were completed, within thirty days, Moses gathered
 the congregation together near Jordan, where the city Abila now stands,
@@ -10135,18 +8540,11 @@ him, and by them gathered the extraordinary virtue he was master of. And
 this shall suffice for the declaration of the manner of the death of
 Moses.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Reland here takes notice, that although our Bibles say
 little or nothing of these riches of Corah, yet that both the Jews and
 Mahommedans, as well as Josephus, are full of it.]
-
 
 2 (return) [ It appears here, and from the Samaritan Pentateuch, and, in
 effect, from the psalmist, as also from the Apostolical Constitutions,
@@ -10155,22 +8553,18 @@ to the Magnesians, and from Eusebius, that Corah was not swallowed up
 with the Reubenites, but burned with the Levites of his own tribe. See
 Essay on the Old Testament, p. 64, 65.]
 
-
 3 (return) [ Concerning these twelve rods of the twelve tribes of
 Israel, see St. Clement's account, much larger than that in our Bibles,
 1 Epist. sect. 45; as is Josephus's present account in measure larger
 also.]
 
-
 4 (return) [ Grotius, on Numbers 6:18, takes notice that the Greeks
 also, aswell as the Jews, sometimes consecrated the hair of their heads
 to the gods.]
 
-
 5 (return) [ Josephus here uses this phrase, "when the fortieth year was
 completed," for when it was begun; as does St. Luke when the day of
 Pentecost was completed," Acts 2:1.]
-
 
 6 (return) [ Whether Miriam died, as Josephus's. Greek copies imply, on
 the first day of the month, may be doubted, because the Latin copies say
@@ -10178,7 +8572,6 @@ it was on the tenth, and so say the Jewish calendars also, as Dr.
 Bernard assures us. It is said her sepulcher is still extant near Petra,
 the old capital city of Arabia Petraea, at this day; as also that of
 Aaron, not far off.]
-
 
 7 (return) [ What Josephus here remarks is well worth our remark in this
 place also; viz. that the Israelites were never to meddle with the
@@ -10189,7 +8582,6 @@ reason to fear the conquests of the Israelites; but that those countries
 given them by God were their proper and peculiar portion among the
 nations, and that all who endeavored to dispossess them might ever be
 justly destroyed by them.]
-
 
 8 (return) [ Note that Josephus never supposes Balaam to be an idolater,
 nor to seek idolatrous enchantments, or to prophesy falsely, but to be
@@ -10212,7 +8604,6 @@ Samuel, Antiq. B. V. ch. 4. sect. 1, and Daniel, Antiq. B. X. ch. 11.
 sect. 3. See also Genesis 14:22, 23; 2 Kings 5:15, 16, 26, 27; and Acts
 8;17-24.]
 
-
 9 (return) [ Whether Josephus had in his copy but two attempts of Balaam
 in all to curse Israel; or whether by this his twice offering sacrifice,
 he meant twice besides that first time already mentioned, which yet is
@@ -10220,13 +8611,11 @@ not very probable; cannot now be certainly determined. In the mean time,
 all other copies have three such attempts of Balaam to curse them in the
 present history.]
 
-
 10 (return) [ Such a large and distinct account of this perversion of
 the Israelites by the Midianite women, of which our other copies give us
 but short intimations, Numbers 31:16 2 Peter 2:15; Jude 11; Revelation
 2:14, is preserved, as Reland informs us, in the Samaritan Chronicle, in
 Philo, and in other writings of the Jews, as well as here by Josephus.]
-
 
 11 (return) [ This grand maxim, That God's people of Israel could never
 be hurt nor destroyed, but by drawing them to sin against God, appears
@@ -10234,7 +8623,6 @@ to be true, by the entire history of that people, both in the Bible and
 in Josephus; and is often taken notice of in them both. See in
 particular a most remarkable Ammonite testimony to this purpose, Judith
 5:5-21.]
-
 
 12 (return) [ What Josephus here puts into the mouths of these Midianite
 women, who came to entice the Israelites to lewdness and idolatry, viz.
@@ -10249,13 +8637,11 @@ Whether God's people should be governed by the holy laws of the true
 God, or by the impure laws derived from demons, under the pagan
 idolatry.]
 
-
 13 (return) [ The mistake in all Josephus's copies, Greek and Latin
 which have here fourteen thousand instead of twenty-four thousand, is so
 flagrant, that our very learned editors, Bernard and Hudson, have put
 the latter number directly into the text. I choose rather to put it in
 brackets.]
-
 
 14 (return) [ The slaughter of all the Midianite women that had
 prostituted themselves to the lewd Israelites, and the preservation of
@@ -10284,12 +8670,10 @@ Egyptians, and the slaughter of the inhabitants of Palestine," as signs
 of the most amazing impenitence and insensibility, under the punishments
 of horrid wickedness.]
 
-
 15 (return) [ Josephus here, in this one sentence, sums up his notion of
 Moses's very long and very serious exhortations in the book of
 Deuteronomy; and his words are so true, and of such importance, that
 they deserve to be had in constant remembrance.]
-
 
 16 (return) [ This law, both here and Exodus 20:25, 26, of not going up
 to God's altar by ladder-steps, but on an acclivity, seems not to have
@@ -10306,11 +8690,9 @@ stairs, such as we now use, decency could not be otherwise provided for
 in the loose garments which the priests wore, as the law required. See
 Lamy of the Tabernacle and Temple, p. 444.]
 
-
 17 (return) [ The hire of public or secret harlots was given to Venus in
 Syria, as Lucian informs us, p. 878; and against some such vile practice
 of the old idolaters this law seems to have been made.]
-
 
 18 (return) [ The Apostolical Constitutions, B. II. ch. 26. sect. 31,
 expound this law of Moses, Exodus 22. 28, "Thou shalt not revile or
@@ -10319,7 +8701,6 @@ exposition than this of Josephus, of heathen gillis, as here, and
 against Apion, B. II. ch. 3. sect. 31. What book of the law was thus
 publicly read, see the note on Antiq. B. X. ch. 5. sect. 5, and 1 Esd.
 9:8-55.]
-
 
 19 (return) [ Whether these phylacteries, and other Jewish memorials of
 the law here mentioned by Josephus, and by Muses, [besides the fringes
@@ -10335,13 +8716,11 @@ observations appearing among the Jews, though their real or mystical
 signification, i.e. the constant remembrance and observation of the laws
 of God by Moses, be frequently inculcated in all the sacred writings.]
 
-
 20 (return) [ Here, as well as elsewhere, sect. 38, of his Life, sect.
 14, and of the War, B. II. ch. 20. sect. 5, are but seven judges
 appointed for small cities, instead of twenty-three in the modern
 Rabbins; which modern Rabbis are always but of very little authority in
 comparison of our Josephus.]
-
 
 21 (return) [ I have never observed elsewhere, that in the Jewish
 government women were not admitted as legal witnesses in courts of
@@ -10349,11 +8728,9 @@ justice. None of our copies of the Pentateuch say a word of it. It is
 very probable, however, that this was the exposition of the scribes and
 Pharisees, and the practice of the Jews in the days of Josephus.]
 
-
 22 (return) [ This penalty of "forty stripes save one," here mentioned,
 and sect. 23, was five times inflicted on St. Paul himself by the Jews,
 2 Corinthians 11:24]
-
 
 23 (return) [ Josephus's plain and express interpretation of this law of
 Moses, Deuteronomy 14:28, 29; 26:12, etc., that the Jews were bound
@@ -10362,7 +8739,6 @@ sacrifices at Jerusalem, and this for the indigent, the widow, and the
 orphans, is fully confirmed by the practice of good old Tobit, even when
 he was a captive in Assyria, against the opinions of the Rabbins, Tobit
 1:6-8.]
-
 
 24 (return) [ These tokens of virginity, as the Hebrew and Septuagint
 style them, Deuteronomy 22:15, 17, 20, seem to me very different from
@@ -10377,22 +8753,18 @@ describe them to the heathens, without saying what they might have
 thought a breach of modesty; which seeming breach of modesty laws cannot
 always wholly avoid.]
 
-
 25 (return) [ These words of Josephus are very like those of the
 Pharisees to our Savior upon this very subject, Matthew 19:3, "Is it
 lawful for a man to put away his wife for every cause?"]
-
 
 26 (return) [ Here it is supposed that this captive's husband, if she
 were before a married woman, was dead before, or rather was slain in
 this very battle, otherwise it would have been adultery in him that
 married her.]
 
-
 27 (return) [ See Herod the Great insisting on the execution of this
 law, with relation to two of his own sons, before the judges at Berytus,
 Antiq. B. XVI. ch. 11. sect. 2.]
-
 
 28 (return) [ Philo and others appear to have understood this law,
 Exodus 21:22, 23, better than Josephus, who seems to allow, that though
@@ -10405,22 +8777,18 @@ must be put to death, and not only when the mother is killed, as
 Josephus understood it. It seems this was the exposition of the
 Pharisees in the days of Josephus.]
 
-
 29 (return) [ What we render a witch, according to our modern notions of
 witchcraft, Exodus 22:15, Philo and Josephus understood of a poisoner,
 or one who attempted by secret and unlawful drugs or philtra, to take
 away the senses or the lives of men.]
 
-
 30 (return) [ This permission of redeeming this penalty with money is
 not in our copies, Exodus 21:24, 25; Leviticus 24:20; Deuteronomy
 19:21.]
 
-
 31 (return) [ We may here note, that thirty shekels, the price our
 Savior was sold for by Judas to the Jews, Matthew 26:15, and 27;3, was
 the old value of a bought servant or slave among that people.]
-
 
 32 (return) [ This law against castration, even of brutes, is said to be
 so rigorous elsewhere, as to inflict death on him that does it which
@@ -10429,14 +8797,11 @@ law, Leviticus 21:20, and 22:24: only we may hence observe, that the
 Jews could then have no oxen which are gelded, but only bulls and cows,
 in Judea.]
 
-
 33 (return) [ These laws seem to be those above-mentioned, sect, 4, of
 this chapter.]
 
-
 34 (return) [ What laws were now delivered to the priests, see the note
 on Antiq. B. III. ch. 1. sect. 7.]
-
 
 35 (return) [ Of the exact place where this altar was to be built,
 whether nearer Mount Gerizzim or Mount Ebal, according to Josephus, see
@@ -10450,29 +8815,15 @@ durst break. See Scripture Politics, p. 55, 56; and this snare they were
 brought into because they "did not ask counsel at the mouth of the
 Lord," Joshua 9:14.]
 
-
 36 (return) [ Since Josephus assures us here, as is most naturally to be
 supposed, and as the Septuagint gives the text, Deuteronomy 33:6, that
 Moses blessed every one of the tribes of Israel, it is evident that
 Simeon was not omitted in his copy, as it unhappily now is, both in our
 Hebrew and Samaritan copies.]
 
+## BOOK V. Containing The Interval Of Four Hundred And Seventy-Six Years.—From The Death Of Moses To The Death Of Eli
 
-
-
-
-
-BOOK V. Containing The Interval Of Four Hundred And Seventy-Six
-Years.—From The Death Of Moses To The Death Of Eli.
-
-
-
-
-
-
-CHAPTER 1. How Joshua, The Commander Of The Hebrews, Made War With The
-Canaanites, And Overcame Them, And Destroyed Them, And Divided Their
-Land By Lot To The Tribes Of Israel.
+### CHAPTER 1. How Joshua, The Commander Of The Hebrews, Made War With The Canaanites, And Overcame Them, And Destroyed Them, And Divided Their Land By Lot To The Tribes Of Israel
 
 1. When Moses was taken away from among men, in the manner already
 described, and when all the solemnities belonging to the mourning for
@@ -11129,15 +9480,7 @@ same time died Eleazar the high priest, leaving the high priesthood to
 his son Phineas. His monument also, and sepulcher, are in the city of
 Gabatha.
 
-
-
-
-
-
-CHAPTER 2. How, After The Death Of Joshua Their Commander, The
-Israelites Transgressed The Laws Of Their Country, And Experienced Great
-Afflictions; And When There Was A Sedition Arisen, The Tribe Of Benjamin
-Was Destroyed Excepting Only Six Hundred Men.
+### CHAPTER 2. How, After The Death Of Joshua Their Commander, The Israelites Transgressed The Laws Of Their Country, And Experienced Great Afflictions; And When There Was A Sedition Arisen, The Tribe Of Benjamin Was Destroyed Excepting Only Six Hundred Men
 
 1. After the death of Joshua and Eleazar, Phineas prophesied, 10 that
 according to God's will they should commit the government to the tribe
@@ -11437,14 +9780,7 @@ accordingly it presently flourished, and soon increased to be a
 multitude, and came to enjoy all other degrees of happiness. And such
 was the conclusion of this war.
 
-
-
-
-
-
-CHAPTER 3. How The Israelites After This Misfortune Grew Wicked And
-Served The Assyrians; And How God Delivered Them By Othniel, Who Ruled
-Over The Forty Years.
+### CHAPTER 3. How The Israelites After This Misfortune Grew Wicked And Served The Assyrians; And How God Delivered Them By Othniel, Who Ruled Over The Forty Years
 
 1. Now it happened that the tribe of Dan suffered in like manner with
 the tribe of Benjamin; and it came to do so on the occasion
@@ -11501,14 +9837,7 @@ to pass over Euphrates. Hereupon Othniel, who had given such proofs of
 his valor, received from the multitude authority to judge the people;
 and when he had ruled over them forty years, he died.
 
-
-
-
-
-
-CHAPTER 4. How Our People Served The Moabites Eighteen Years, And Were
-Then Delivered From Slavery By One Ehud Who Retained The Dominion Eighty
-Years.
+### CHAPTER 4. How Our People Served The Moabites Eighteen Years, And Were Then Delivered From Slavery By One Ehud Who Retained The Dominion Eighty Years
 
 1. When Othniel was dead, the affairs of the Israelites fell again into
 disorder: and while they neither paid to God the honor due to him, nor
@@ -11572,14 +9901,7 @@ forementioned act of his. After him Shamgat, the son of Anath, was
 elected for their governor, but died in the first year of his
 government.
 
-
-
-
-
-
-CHAPTER 5. How The Canaanites Brought The Israelites Under Slavery For
-Twenty Years; After Which They Were Delivered By Barak And Deborah, Who
-Ruled Over Them For Forty Years.
+### CHAPTER 5. How The Canaanites Brought The Israelites Under Slavery For Twenty Years; After Which They Were Delivered By Barak And Deborah, Who Ruled Over Them For Forty Years
 
 1. And now it was that the Israelites, taking no warning by their former
 misfortunes to amend their manners, and neither worshipping God nor
@@ -11641,15 +9963,7 @@ fought with Jabin at Hazor; and when he met with him, he slew him: and
 when the general was fallen, Barak overthrew the city to the foundation,
 and was the commander of the Israelites for forty years.
 
-
-
-
-
-
-CHAPTER 6. How The Midianites And Other Nations Fought Against The
-Israelites And Beat Them, And Afflicted Their Country For Seven Years,
-How They Were Delivered By Gideon, Who Ruled Over The Multitude For
-Forty Years.
+### CHAPTER 6. How The Midianites And Other Nations Fought Against The Israelites And Beat Them, And Afflicted Their Country For Seven Years, How They Were Delivered By Gideon, Who Ruled Over The Multitude For Forty Years
 
 1. Now when Barak and Deborah were dead, whose deaths happened about the
 same time, afterwards the Midianites called the Amalekites and Arabians
@@ -11778,13 +10092,7 @@ justice to them, as the people came to him in their differences; and
 what he determined was esteemed valid by all. And when he died, he was
 buried in his own country of Ophrah.
 
-
-
-
-
-
-CHAPTER 7. That The Judges Who Succeeded Gideon Made War With The
-Adjoining Nations For A Long Time.
+### CHAPTER 7. That The Judges Who Succeeded Gideon Made War With The Adjoining Nations For A Long Time
 
 1. Now Gideon had seventy sons that were legitimate, for he had many
 wives; but he had also one that was spurious, by his concubine Drumah,
@@ -12015,13 +10323,7 @@ were all very skillful in riding horses; and he left them all alive
 after him. He died an old man, and obtained a magnificent burial in
 Pyrathon.
 
-
-
-
-
-
-CHAPTER 8. Concerning The Fortitude Of Samson, And What Mischiefs He
-Brought Upon The Philistines.
+### CHAPTER 8. Concerning The Fortitude Of Samson, And What Mischiefs He Brought Upon The Philistines
 
 1. After Abdon was dead, the Philistines overcame the Israelites, and
 received tribute of them for forty years; from which distress they were
@@ -12252,13 +10554,7 @@ that in all other respects he was one of extraordinary virtue. But his
 kindred took away his body, and buried it in Sarasat his own country,
 with the rest of his family.
 
-
-
-
-
-
-CHAPTER 9. How Under Eli's Government Of The Israelites Booz Married
-Ruth, From Whom Came Obed The Grandfather Of David.
+### CHAPTER 9. How Under Eli's Government Of The Israelites Booz Married Ruth, From Whom Came Obed The Grandfather Of David
 
 1. Now after the death of Samson, Eli the high priest was governor of
 the Israelites. Under him, when the country was afflicted with a famine,
@@ -12359,13 +10655,7 @@ who, without difficulty, can raise those that are of ordinary parentage
 to dignity and splendor, to which he advanced David, though he were born
 of such mean parents.
 
-
-
-
-
-
-CHAPTER 10. Concerning The Birth Of Samuel; And How He Foretold The
-Calamity That Befell The Sons Of Eli.
+### CHAPTER 10. Concerning The Birth Of Samuel; And How He Foretold The Calamity That Befell The Sons Of Eli
 
 1. And now upon the ill state of the affairs of the Hebrews, they made
 war again upon the Philistines. The occasion was this: Eli, the high
@@ -12441,13 +10731,7 @@ of the perdition of his sons; but the glory of Samuel increased more and
 more, it being found by experience that whatsoever he prophesied came to
 pass accordingly. 22
 
-
-
-
-
-
-CHAPTER 11. Herein Is Declared What Befell The Sons Of Eli, The Ark, And
-The People And How Eli Himself Died Miserably.
+### CHAPTER 11. Herein Is Declared What Befell The Sons Of Eli, The Ark, And The People And How Eli Himself Died Miserably
 
 1. About this time it was that the Philistines made war against the
 Israelites, and pitched their camp at the city Aphek. Now when the
@@ -12511,13 +10795,7 @@ whom his son Ozi received it; after whom Eli, of whom we have been
 speaking, had the priesthood, and so he and his posterity until the time
 of Solomon's reign; but then the posterity of Eleazar reassumed it.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ The Amorites were one of the seven nations of Canaan. Hence
 Reland is willing to suppose that Josephus did not here mean that their
@@ -12536,7 +10814,6 @@ enough agrees to Reland's own map of that country, although this land
 beyond Jordan was so peculiarly fruitful, and good for pasturage, as the
 two tribes and a half took notice, Numbers 32:1, 4, 16, that it
 maintained about a fifth part of the whole people.]
-
 
 2 (return) [ It plainly appears by the history of these spies, and the
 innkeeper Rahab's deception of the king of Jericho's messengers, by
@@ -12558,7 +10835,6 @@ innkeepers were also harlots, or maintainers of harlots, that the word
 commonly used for real harlots was usually given them. See Dr. Bernard's
 note here, and Judges 11:1, and Antiq. B. V. ch. 7. sect. 8.]
 
-
 3 (return) [ Upon occasion of this devoting of Jericho to destruction,
 and the exemplary punishment of Achar, who broke that duerein or
 anathema, and of the punishment of the future breaker of it, Hiel, 1
@@ -12573,7 +10849,6 @@ and those sinners the Amalekites, 1 Samuel 15:18, it was utterly
 unlawful to permit those enemies to be redeemed; but they were to be all
 utterly destroyed. See also Numbers 23:2, 3.]
 
-
 4 (return) [ That the name of this chief was not Achan, as in the common
 copies, but Achar, as here in Josephus, and in the Apostolical Constit.
 B. VII. ch. 2., and elsewhere, is evident by the allusion to that name
@@ -12584,17 +10859,14 @@ known place, a little north of Gilgal, so called from the days of Joshua
 till this day. See Joshua 7:26; Isaiah 65:10; Hosea 2:15; and Dr.
 Bernard's notes here.]
 
-
 5 (return) [ Here Dr. Bernard very justly observes, that a few words are
 dropped out of Josephus's copies, on account of the repetition of the
 word shekels, and that it ought to be read thus:—"A piece of gold that
 weighed fifty shekels, and one of silver that weighed two hundred
 shekels," as in our other copies, Joshua 7:21.]
 
-
 6 (return) [ I agree here with Dr. Bernard, and approve of Josephus's
 interpretation of Gilgal for liberty. See Joshua 5:9.]
-
 
 7 (return) [ Whether this lengthening of the day, by the standing still
 of the sun and moon, were physical and real, by the miraculous stoppage
@@ -12617,7 +10889,6 @@ do] by the command of his servants." See Authent. Rec. part i. p. 154.
 [8: Of the books laid up in the temple, see the note on Antiq. B. III.
 ch. 1. sect. 7.]
 
-
 9 (return) [ Since not only Procopius and Suidas, but an earlier author,
 Moses Chorenensis, p. 52, 53, and perhaps from his original author
 Mariba Carina, one as old as Alexander the Great, sets down the famous
@@ -12632,7 +10903,6 @@ founded the Genthuniaa family, or tribe; and that this was confirmed by
 the manners of the same family or tribe, as being like those of the
 Canaanites."]
 
-
 10 (return) [ By prophesying, when spoken of a high priest, Josephus,
 both here and frequently elsewhere, means no more than consulting God by
 Urim, which the reader is still to bear in mind upon all occasions. And
@@ -12646,7 +10916,6 @@ extraordinary voice from between the cherubims, when he had his
 breastplate, or Urim and Thummim, on before; or the most holy place of
 the temple, which was no other than the oracle of Urim and Thummim. Of
 which above, in the note on Antiq. B. III. ch. 8. sect. 9.]
-
 
 11 (return) [ This great number of seventy-two reguli, or small kings,
 over whom Adonibezek had tyrannized, and for which he was punished
@@ -12678,7 +10947,6 @@ for their supreme King, and aim to govern according to his laws, he hath
 admitted of them, and protected them and their subjects in all
 generations.]
 
-
 12 (return) [ Josephus's early date of this history before the beginning
 of the Judges, or when there was no king in Israel, Judges 19;1, is
 strongly confirmed by the large number of Benjamites, both in the days
@@ -12687,14 +10955,12 @@ reduced to six hundred men; nor can those numbers be at all supposed
 genuine, if they were reduced so late as the end of the Judges, where
 our other copies place this reduction.]
 
-
 13 (return) [ Josephus seems here to have made a small mistake, when he
 took the Hebrew word Bethel, which denotes the house of God, or the
 tabernacle, Judges 20:18, for the proper name of a place, Bethel, it no
 way appearing that the tabernacle was ever at Bethel; only so far it is
 true, that Shiloh, the place of the tabernacle in the days of the
 Judges, was not far from Bethel.]
-
 
 14 (return) [ It appears by the sacred history, Judges 1:16; 3:13, that
 Eglon's pavilion or palace was at the City of Palm-Trees, as the place
@@ -12705,7 +10971,6 @@ the same spot of ground on which Jericho had formerly stood, and on
 which it was rebuilt by Hiel, 1 Kings 16:31. Our other copies that avoid
 its proper name Jericho, and call it the City of Palm-Trees only, speak
 here more accurately than Josephus.]
-
 
 15 (return) [ These eighty years for the government of Ehud are
 necessary to Josephus's usual large numbers between the exodus and the
@@ -12719,14 +10984,12 @@ that some of the copies in his time had here only eight years instead of
 eighty; as had that of Theophilus of Antioch, Ad Autolye. 1. iii., and
 this most probably from his copy of Josephus.]
 
-
 16 (return) [ Our present copies of Josephus all omit Tola among the
 judges, though the other copies have him next after Abimelech, and allot
 twenty-three years to his administration, Judges 10:1, 2; yet do all
 Josephus's commentators conclude, that in Josephus's sum of the years of
 the judges, his twenty-three years are included; hence we are to
 confess, that somewhat has been here lost out of his copies.]
-
 
 17 (return) [ Josephus justly condemns Jephtha, as do the Apostolical
 Constitutions, B. VII. ch. 37., for his rash vow, whether it were for
@@ -12737,11 +11000,9 @@ she ought to have been redeemed, Leviticus 27:1-8; but of the sense of
 ver. 28, 29, as relating not to things vowed to. God, but devoted to
 destruction, see the note on Antiq. B. V. ch. 1. sect. 8.]
 
-
 18 (return) [ I can discover no reason why Manoah and his wife came so
 constantly into these suburbs to pray for children, but because there
 was a synagogue or place of devotion in those suburbs.]
-
 
 19 (return) [ Here, by a prophet, Josephus seems only to mean one that
 was born by a particular providence, lived after the manner of a
@@ -12749,17 +11010,14 @@ Nazarite devoted to God, and was to have an extraordinary commission and
 strength from God for the judging and avenging his people Israel,
 without any proper prophetic revelations at all.]
 
-
 20 (return) [ This fountain, called Lehi, or the Jaw-bone, is still in
 being, as travelers assure us, and was known by this very name in the
 days of Josephus, and has been known by the same name in all those past
 ages. See Antiq. B. VII. ch. 12. sect. 4.]
 
-
 21 (return) [ See this justly observed in the Apostolical Constitutions,
 B. VII. ch. 37., that Samson's prayer was heard, but that it was before
 this his transgression.]
-
 
 22 (return) [ Although there had been a few occasional prophets before,
 yet was this Samuel the first of a constant succession of prophets in
@@ -12769,23 +11027,9 @@ as have spoken, have likewise foretold of those days." See also Acts
 13:20. The others were rather sometime called righteous men, Matthew
 10:41; 13:17.]
 
+## BOOK VI. Containing The Interval Of Thirty-Two Years.—From The Death Of Eli To The Death Of Saul
 
-
-
-
-
-BOOK VI. Containing The Interval Of Thirty-Two Years.—From The Death Of
-Eli To The Death Of Saul.
-
-
-
-
-
-
-CHAPTER 1. The Destruction That Came Upon The Philistines, And Upon
-Their Land, By The Wrath Of Go On Account Of Their Having Carried The
-Ark Away Captive; And After What Manner They Sent It Back To The
-Hebrews.
+### CHAPTER 1. The Destruction That Came Upon The Philistines, And Upon Their Land, By The Wrath Of Go On Account Of Their Having Carried The Ark Away Captive; And After What Manner They Sent It Back To The Hebrews
 
 1. When the Philistines had taken the ark of the Hebrews captive, as I
 said a little before, they carried it to the city of Ashdod, and put it
@@ -12901,14 +11145,7 @@ principal curators of it for twenty years; for so many years it
 continued in Kirjathjearim, having been but four months with the
 Philistines.
 
-
-
-
-
-
-CHAPTER 2. The Expedition Of The Philistines Against The Hebrews And The
-Hebrews' Victory Under The Conduct Of Samuel The Prophet, Who Was Their
-General.
+### CHAPTER 2. The Expedition Of The Philistines Against The Hebrews And The Hebrews' Victory Under The Conduct Of Samuel The Prophet, Who Was Their General
 
 1. Now while the city of Kirjathjearim had the ark with them, the whole
 body of the people betook themselves all that time to offer prayers and
@@ -12994,16 +11231,7 @@ country that extended from the borders of Gath to the city of Ekron: but
 the remains of the Canaanites were at this time in friendship with the
 Israelites.
 
-
-
-
-
-
-CHAPTER 3. How Samuel When He Was So Infirm With Old Age That He Could
-Not Take Care Of The Public Affairs Intrusted Them To His Sons; And How
-Upon The Evil Administration Of The Government By Them The Multitude
-Were So Angry, That They Required To Have A King To Govern Them,
-Although Samuel Was Much Displeased Thereat.
+### CHAPTER 3. How Samuel When He Was So Infirm With Old Age That He Could Not Take Care Of The Public Affairs Intrusted Them To His Sons; And How Upon The Evil Administration Of The Government By Them The Multitude Were So Angry, That They Required To Have A King To Govern Them, Although Samuel Was Much Displeased Thereat
 
 1. But Samuel the prophet, when he had ordered the affairs of the people
 after a convenient manner, and had appointed a city for every district
@@ -13105,13 +11333,7 @@ resolute, he said, "Go you every one home for the present; when it is
 fit I will send for you, as soon as I shall have learned from God who it
 is that he will give you for your king."
 
-
-
-
-
-
-CHAPTER 4. The Appointment Of A King Over The Israelites, Whose Name Was
-Saul; And This By The Command Of God.
+### CHAPTER 4. The Appointment Of A King Over The Israelites, Whose Name Was Saul; And This By The Command Of God
 
 1. Ther was one of the tribe of Benjamin, a man of a good family, and of
 a virtuous disposition; his name was Kish. He had a son, a young man of
@@ -13257,13 +11479,7 @@ who despised him and derided the others, who neither did bring him
 presents, nor did they in affection, or even in words, regard to please
 him.
 
-
-
-
-
-
-CHAPTER 5. Saul's Expedition Against The Nation Of The Ammonites And
-Victory Over Them And The Spoils He Took From Them.
+### CHAPTER 5. Saul's Expedition Against The Nation Of The Ammonites And Victory Over Them And The Spoils He Took From Them
 
 1. After one month, the war which Saul had with Nahash, the king of the
 Ammonites, obtained him respect from all the people; for this Nahash had
@@ -13424,13 +11640,7 @@ their king. And when Samuel had thus prophesied to the Hebrews, he
 dismissed them to their own homes, having confirmed the kingdom to Saul
 the second time.
 
-
-
-
-
-
-CHAPTER 6. How The Philistines Made Another Expedition Against The
-Hebrews And Were Beaten.
+### CHAPTER 6. How The Philistines Made Another Expedition Against The Hebrews And Were Beaten
 
 1. Now Saul chose out of the multitude about three thousand men, and he
 took two thousand of them to be the guards of his own body, and abode in
@@ -13632,12 +11842,7 @@ prosperity, and made them superior to other nations; and he made such of
 the young men as were remarkable for tallness and comeliness the guards
 of his body.
 
-
-
-
-
-
-CHAPTER 7. Saul's War With The Amalekites, And Conquest Of Them.
+### CHAPTER 7. Saul's War With The Amalekites, And Conquest Of Them
 
 1. Now Samuel came unto Saul, and said to him, that he was sent by God
 to put him in mind that God had preferred him before all others, and
@@ -13789,14 +11994,7 @@ of their children, so shalt thou, by thy death, cause thy mother to
 lament thee also." Accordingly, he gave order to slay him immediately at
 Gilgal, and then went away to the city Ramah.
 
-
-
-
-
-
-CHAPTER 8. How, Upon Saul's Transgression Of The Prophet's Commands,
-Samuel Ordained Another Person To Be King Privately, Whose Name Was
-David, As God Commanded Him.
+### CHAPTER 8. How, Upon Saul's Transgression Of The Prophet's Commands, Samuel Ordained Another Person To Be King Privately, Whose Name Was David, As God Commanded Him
 
 1. Now Saul being sensible of the miserable condition he had brought
 himself into, and that he had made God to be his enemy, he went up to
@@ -13877,14 +12075,7 @@ child, and desired him to permit David to stay with him, for that he was
 delighted with his sight and company; which stay, that he might not
 contradict Saul, he granted.
 
-
-
-
-
-
-CHAPTER 9. How The Philistines Made Another Expedition Against The
-Hebrews Under The Reign Of Saul; And How They Were Overcome By David's
-Slaying Goliath In Single Combat.
+### CHAPTER 9. How The Philistines Made Another Expedition Against The Hebrews Under The Reign Of Saul; And How They Were Overcome By David's Slaying Goliath In Single Combat
 
 1. Now the Philistines gathered themselves together again no very long
 time afterward; and having gotten together a great army, they made war
@@ -14012,15 +12203,7 @@ and pulled their fortification to pieces, and burnt it; but David
 carried the head of Goliath into his own tent, but dedicated his sword
 to God [at the tabernacle].
 
-
-
-
-
-
-CHAPTER 10. Saul Envies David For His Glorious Success, And Takes An
-Occasion Of Entrapping Him, From The Promise He Made Him Of Giving Him
-His Daughter In Marriage; But This Upon Condition Of His Bringing Him
-Six Hundred Heads Of The Philistines.
+### CHAPTER 10. Saul Envies David For His Glorious Success, And Takes An Occasion Of Entrapping Him, From The Promise He Made Him Of Giving Him His Daughter In Marriage; But This Upon Condition Of His Bringing Him Six Hundred Heads Of The Philistines
 
 1. Now the women were an occasion of Saul's envy and hatred to David;
 for they came to meet their victorious army with cymbals, and drums, and
@@ -14092,14 +12275,7 @@ marriage, or to appear to have acted treacherously by him, in putting
 him upon what was in a manner impossible, in order to have him slain, he
 gave him his daughter in marriage: her name was Michal.
 
-
-
-
-
-
-CHAPTER 11. How David, Upon Saul's Laying Snares For Him, Did Yet Escape
-The Dangers He Was In By The Affection And Care Of Jonathan And The
-Contrivances Of His Wife Michal: And How He Came To Samuel The Prophet.
+### CHAPTER 11. How David, Upon Saul's Laying Snares For Him, Did Yet Escape The Dangers He Was In By The Affection And Care Of Jonathan And The Contrivances Of His Wife Michal: And How He Came To Samuel The Prophet
 
 1. However, Saul was not disposed to persevere long in the state wherein
 he was, for when he saw that David was in great esteem, both with God
@@ -14335,14 +12511,7 @@ recollecting themselves at length from their lamentation, and exhorting
 one another to be mindful of the oaths they had sworn to each other,
 they parted asunder.
 
-
-
-
-
-
-CHAPTER 12. How David Fled To Ahimelech And Afterwards To The Kings Of
-The Philistines And Of The Moabites, And How Saul Slew Ahimelech And His
-Family.
+### CHAPTER 12. How David Fled To Ahimelech And Afterwards To The Kings Of The Philistines And Of The Moabites, And How Saul Slew Ahimelech And His Family
 
 1. But David fled from the king, and that death he was in danger of by
 him, and came to the city Nob, to Ahimelech the priest, who, when he saw
@@ -14517,13 +12686,7 @@ king, and he blamed himself as having been the cause of this misfortune.
 But he desired him to stay there, and abide with him, as in a place
 where he might be better concealed than any where else.
 
-
-
-
-
-
-CHAPTER 13. How David, When He Had Twice The Opportunity Of Killing Saul
-Did Not Kill Him. Also Concerning The Death Of Samuel And Nabal.
+### CHAPTER 13. How David, When He Had Twice The Opportunity Of Killing Saul Did Not Kill Him. Also Concerning The Death Of Samuel And Nabal
 
 1. About this time it was that David heard how the Philistines had made
 an inroad into the country of Keilah, and robbed it; so he offered
@@ -14847,15 +13010,7 @@ for he hoped that David had fought against his own nation, and that now
 he should have him for his servant all his life long, and that he would
 stay in his country.
 
-
-
-
-
-
-CHAPTER 14. How Saul Upon God's Not Answering Him Concerning The Fight
-With The Philistines Desired A Necromantic Woman To Raise Up The Soul Of
-Samuel To Him; And How He Died, With His Sons Upon The Overthrow Of The
-Hebrews In Battle.
+### CHAPTER 14. How Saul Upon God's Not Answering Him Concerning The Fight With The Philistines Desired A Necromantic Woman To Raise Up The Soul Of Samuel To Him; And How He Died, With His Sons Upon The Overthrow Of The Hebrews In Battle
 
 1. About the same time the Philistines resolved to make war against the
 Israelites, and sent to all their confederates that they would go along
@@ -15175,17 +13330,10 @@ with Ahimelech himself, and the city of the high priests. Now Saul, when
 he had reigned eighteen years while Samuel was alive, and after his
 death two [and twenty], ended his life in this manner.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Dagon, a famous maritime god or idol, is generally supposed
 to have been like a man above the navel, and like a fish beneath it.]
-
 
 2 (return) [ Spanheim informs us here, that upon the coins of Tenedos,
 and those of other cities, a field-mouse is engraven, together with
@@ -15194,7 +13342,6 @@ of his being supposed to have freed certain tracts of ground from those
 mice; which coins show how great a judgment such mice have sometimes
 been, and how the deliverance from them was then esteemed the effect of
 a divine power; which observations are highly suitable to this history.]
-
 
 3 (return) [ This device of the Philistines, of having a yoke of kine to
 draw this cart, into which they put the ark of the Hebrews, is greatly
@@ -15205,7 +13352,6 @@ Phoenicia, in the neighborhood of these Philistines. See Cumberland's
 Sanchoniatho, p. 27 and 247; and Essay on the Old Testament, Append. p.
 172.]
 
-
 4 (return) [ These seventy men, being not so much as Levites, touched
 the ark in a rash or profane manner, and were slain by the hand of God
 for such their rashness and profaneness, according to the Divine
@@ -15213,17 +13359,14 @@ threatenings, Numbers 4:15, 20; but how other copies come to add such an
 incredible number as fifty thousand in this one town, or small city, I
 know not. See Dr. Wall's Critical Notes on 1 Samuel 6:19.]
 
-
 5 (return) [ This is the first place, so far as I remember, in these
 Antiquities, where Josephus begins to call his nation Jews, he having
 hitherto usually, if not constantly, called them either Hebrews or
 Israelites. The second place soon follows; see also ch. 3. sect. 5.]
 
-
 6 (return) [ Of this great mistake of Saul and his servant, as if true
 prophet of God would accept of a gift or present, for foretelling what
 was desired of him, see the note on B. IV. ch. 6. sect. 3.]
-
 
 7 (return) [ It seems to me not improbable that these seventy guests of
 Samuel, as here, with himself at the head of them, were a Jewish
@@ -15233,24 +13376,20 @@ a sole monarch, but with the advice and direction of these seventy-one
 members of that Jewish sanhedrim upon all occasions, which yet we never
 read that he consulted afterward.]
 
-
 8 (return) [ An instance of this Divine fury we have after this in Saul,
 ch. 5. sect. 2, 3; 1 Samuel 11:6. See the like, Judges 3:10; 6:34;
 11:29; 13:25; and 14:6.]
-
 
 9 (return) [ Take here Theodoret's note, cited by Dr. Hudson:—"He that
 exposes his shield to the enemy with his left hand, thereby hides his
 left eye, and looks at the enemy with his right eye: he therefore that
 plucks out that eye, makes men useless in war."]
 
-
 10 (return) [ Mr. Reland observes here, and proves elsewhere in his note
 on Antiq. B. III. ch. 1. sect. 6, that although thunder and lightning
 with us usually happen in summer, yet in Palestine and Syria they are
 chiefly confined to winter. Josephus takes notice of the same thing
 again, War, B. IV. ch. 4. sect. 5.]
-
 
 11 (return) [ Saul seems to have staid till near the time of the evening
 sacrifice, on the seventh day, which Samuel the prophet of God had
@@ -15284,7 +13423,6 @@ Samuel 6:19, 20; another, 1 Samuel 15:11; and a third, 2 Samuel 6:8, 9;
 Antiq. B. VI. ch. 7. sect. 2; though they all at last acquiesced in the
 Divine conduct, as knowing that God is wiser than men.]
 
-
 12 (return) [ By this answer of Samuel, and that from a Divine
 commission, which is fuller in l Samuel 13:14, and by that parallel note
 in the Apostolical Constitutions just now quoted, concerning the great
@@ -15303,7 +13441,6 @@ recommended in the first book of the Apostolical Constitutions, which
 peculiarly concern the laity, and are intimated in Clement's undoubted
 epistle, sect. 40. To which latter opinion I incline.]
 
-
 13 (return) [ This rash vow or curse of Saul, which Josephus says was
 confirmed by the people, and yet not executed, I suppose principally
 because Jonathan did not know of it, is very remarkable; it being of the
@@ -15314,7 +13451,6 @@ till this breach of Saul's vow or curse was understood and set right,
 and God propitiated by public prayer, is here very remarkable, as indeed
 it is every where else in the Old Testament.]
 
-
 14 (return) [ Here we have still more indications of Saul's affectation
 of despotic power, and of his entrenching upon the priesthood, and
 making and endeavoring to execute a rash vow or curse, without
@@ -15322,7 +13458,6 @@ consulting Samuel or the sanhedrim. In this view it is also that I look
 upon this erection of a new altar by Saul, and his offering of burnt-
 offerings himself upon it, and not as any proper instance of devotion or
 religion, with other commentators.]
-
 
 15 (return) [ The reason of this severity is distinctly given, 1 Samuel
 15:18, "Go and utterly destroy the sinners the Amalekites:" nor indeed
@@ -15333,13 +13468,11 @@ nation of Israel. See Exodus 17:8-16; Numbers 14:45; Deuteronomy 25:17-
 barbarous of all cruelties, that of Haman the Agagite, or one of the
 posterity of Agag, the old king of the Amalekites, Esther 3:1-15.]
 
-
 16 (return) [ Spanheim takes notice here that the Greeks had such
 singers of hymns; and that usually children or youths were picked out
 for that service; as also, that those called singers to the harp, did
 the same that David did here, i.e. join their own vocal and instrumental
 music together.]
-
 
 17 (return) [ Josephus says thrice in this chapter, and twice
 afterwards, ch. 11. sect. 2, and B. VII. ch. 1. sect. 4, i.e. five times
@@ -15351,14 +13484,12 @@ somewhat probable, from 1 Samuel 29:4, where all copies say that it was
 with the heads of such Philistines that David might reconcile himself to
 his master, Saul.]
 
-
 18 (return) [ Since the modern Jews have lost the signification of the
 Hebrew word here used, cebr; and since the LXX., as well as Josephus,
 reader it the liver of the goat, and since this rendering, and
 Josephus's account, are here so much more clear and probable than those
 of others, it is almost unaccountable that our commentators should so
 much as hesitate about its true interpretation.]
-
 
 19 (return) [ These violent and wild agitations of Saul seem to me to
 have been no other than demoniacal; and that the same demon which used
@@ -15377,13 +13508,11 @@ description of Saul's real inspiration by the Divine Spirit, 1 Samuel
 10:9- 12; Antiq. B. VI. ch. 4. sect. 2, which was before he was become
 wicked, well agree with the descriptions before us.]
 
-
 20 (return) [ What is meant by Saul's lying down naked all that day, and
 all that night, 1 Samuel 19:4, and whether any more than laying aside
 his royal apparel, or upper garments, as Josephus seems to understand
 it, is by no means certain. See the note on Antiq. B. VIII. ch. 14.
 sect. 2.
-
 
 21 (return) [ This city Nob was not a city allotted to the priests, nor
 had the prophets, that we know of, any particular cities allotted them.
@@ -15398,7 +13527,6 @@ chief, or perhaps the only seat of the family of Ithamar, which here
 perished, according to God's former terrible threatenings to Eli, 1
 Samuel 2:27-36; 3:11-18. See ch. 14. sect. D, hereafter.]
 
-
 22 (return) [ This section contains an admirable reflection of Josephus
 concerning the general wickedness of men in great authority, and the
 danger they are in of rejecting that regard to justice and humanity, to
@@ -15412,12 +13540,10 @@ branch of Agur's prayer: "One thing have I required of thee, deny it me
 not before I die: Give me not riches, lest I be full, and deny thee, and
 say, Who is the Lord?" Proverbs 30:7-9.]
 
-
 23 (return) [ The phrase in David's speech to Saul, as set down in
 Josephus, that he had abstained from just revenge, puts me in mind of
 the like words in the Apostolical Constitutions, B. VII. ch. 2., "That
 revenge is not evil, but that patience is more honorable."]
-
 
 24 (return) [ The number of men that came first to David, are distinctly
 in Josephus, and in our common copies, but four hundred. When he was at
@@ -15426,7 +13552,6 @@ six hundred in our Hebrew copies, 1 Samuel 23:3; see 30:9, 10. Now the
 six hundred there mentioned are here estimated by Josephus to have been
 so many, only by an augmentation of two hundred afterward, which I
 suppose is the true solution of this seeming disagreement.]
-
 
 25 (return) [ In this and the two next sections, we may perceive how
 Josephus, nay, how Abigail herself, would understand, the "not avenging
@@ -15439,7 +13564,6 @@ fit to be executed, and all at length for the good of the persons
 punished, I incline to think that to be the meaning of this phrase of
 "heaping coals of fire on their heads."]
 
-
 26 (return) [ We may note here, that how sacred soever an oath was
 esteemed among the people of God in old times, they did not think it
 obligatory where the action was plainly unlawful. For so we see it was
@@ -15447,7 +13571,6 @@ in this case of David, who, although he had sworn to destroy Nabal and
 his family, yet does he here, and 1 Samuel 25:32-41, bless God for
 preventing his keeping his oath, and shedding of blood, which he had
 swore to do.]
-
 
 27 (return) [ This history of Saul's consultation, not with a witch, as
 we render the Hebrew word here, but with a necromancer, as the whole
@@ -15462,7 +13585,6 @@ for as to all modern hypotheses against the natural sense of such
 ancient and authentic histories, I take them to be of very small value
 or consideration.]
 
-
 28 (return) [ These great commendations of this necromantic woman of
 Endor, and of Saul's martial courage, when yet he knew he should die in
 the battle, are somewhat unusual digressions in Josephus. They seem to
@@ -15470,7 +13592,6 @@ me extracted from some speeches or declamations of his composed
 formerly, in the way of oratory, that lay by him, and which he thought
 fit to insert upon this occasion. See before on Antiq. B. I. ch. 6 sect.
 8.]
-
 
 29 (return) [ This way of speaking in Josephus, of fasting "seven days
 without meat or drink," is almost like that of St. Paul, Acts 27:33,
@@ -15490,22 +13611,9 @@ for a week, that they kept all those days entirely as lasts till the
 evening, but not longer. See Judges 20:26; 21:2; 1 Samuel 14:24; 2
 Samuel 1:12; Antiq. B. VII. ch. 7. sect. 4.]
 
+## BOOK VII. Containing The Interval Of Forty Years.—From The Death Of Saul To The Death Of David
 
-
-
-
-
-BOOK VII. Containing The Interval Of Forty Years.—From The Death Of Saul
-To The Death Of David.
-
-
-
-
-
-
-CHAPTER 1. How David Reigned Over One Tribe At Hebron While The Son Of
-Saul Reigned Over The Rest Of The Multitude; And How, In The Civil War
-Which Then Arose Asahel And Abner Were Slain.
+### CHAPTER 1. How David Reigned Over One Tribe At Hebron While The Son Of Saul Reigned Over The Rest Of The Multitude; And How, In The Civil War Which Then Arose Asahel And Abner Were Slain
 
 1. This fight proved to be on the same day whereon David was come back
 to Ziklag, after he had overcome the Amalekites. Now when he had been
@@ -15547,7 +13655,7 @@ he bestowed upon him Hebron. So he left Ziklag, and came to Hebron, and
 took with him his wives, who were in number two, and his armed men;
 whereupon all the people of the forementioned tribe came to him, and
 ordained him their king. But when he heard that the inhabitants of
-Jabesh- gilead had buried Saul and his sons [honorably], he sent to them
+Jabesh-gilead had buried Saul and his sons [honorably], he sent to them
 and commended them, and took what they had done kindly, and promised to
 make them amends for their care of those that were dead; and at the same
 time he informed them that the tribe of Judah had chosen him for their
@@ -15776,13 +13884,7 @@ Joab and Abishai, who have more power than I have; but God will requite
 their insolent attempts upon their own heads." And this was the fatal
 conclusion of the life of Abner.
 
-
-
-
-
-
-CHAPTER 2. That Upon The Slaughter Of Ishbosheth By The Treachery Of His
-Friends, David Received The Whole Kingdom.
+### CHAPTER 2. That Upon The Slaughter Of Ishbosheth By The Treachery Of His Friends, David Received The Whole Kingdom
 
 1. When Ishbosheth, the son of Saul, had heard of the death of Abner, he
 took it to heart to be deprived of a man that was of his kindred, and
@@ -15855,7 +13957,7 @@ men. This was the only tribe that came universally in to David, and all
 these had the same weapons with the tribe of Gad. Out of the tribe of
 Naphtali the eminent men and rulers were one thousand, whose weapons
 were shields and spears, and the tribe itself followed after, being [in
-a manner] innumerable [thirty- seven thousand]. Out of the tribe of Dan
+a manner] innumerable [thirty-seven thousand]. Out of the tribe of Dan
 there were of chosen men twenty-seven thousand and six hundred. Out of
 the tribe of Asher were forty thousand. Out of the two tribes that were
 beyond Jordan, and the rest of the tribe of Manasseh, such as used
@@ -15866,14 +13968,7 @@ corn, and wine, and all other sorts of food, and established David in
 his kingdom with one consent. And when the people had rejoiced for three
 days in Hebron, David and all the people removed and came to Jerusalem.
 
-
-
-
-
-
-CHAPTER 3. How David Laid Siege To Jerusalem; And When He Had Taken The
-City, He Cast The Canaanites Out Of It, And Brought In The Jews To
-Inhabit Therein.
+### CHAPTER 3. How David Laid Siege To Jerusalem; And When He Had Taken The City, He Cast The Canaanites Out Of It, And Brought In The Jews To Inhabit Therein
 
 1. Now the Jebusites, who were the inhabitants of Jerusalem, and were by
 extraction Canaanites, shut their gates, and placed the blind, and the
@@ -15933,14 +14028,7 @@ Ennaphen, Jenae, Eliphale; and a daughter, Tamar. Nine of these were
 born of legitimate wives, but the two last-named of concubines; and
 Tamar had the same mother with Absalom.
 
-
-
-
-
-
-CHAPTER 4. That When David Had Conquered The Philistines Who Made War
-Against Him At Jerusalem, He Removed The Ark To Jerusalem And Had A Mind
-To Build A Temple.
+### CHAPTER 4. That When David Had Conquered The Philistines Who Made War Against Him At Jerusalem, He Removed The Ark To Jerusalem And Had A Mind To Build A Temple
 
 1. When the Philistines understood that David was made king of the
 Hebrews, they made war against him at Jerusalem; and when they had
@@ -16077,16 +14165,7 @@ that providence which he had exercised over the Hebrews in procuring
 them the liberty they enjoyed. And when he had said thus, and had sung a
 hymn of praise to God, he went his way.
 
-
-
-
-
-
-CHAPTER 5. How David Brought Under The Philistines, And The Moabites,
-And The Kings Of Sophene And Of Damascus, And Of The Syrians As Also The
-Idumeans, In War; And How He Made A League With The King Of Hamath; And
-Was Mindful Of The Friendship That Jonathan, The Son Of Saul, Had Borne
-Him.
+### CHAPTER 5. How David Brought Under The Philistines, And The Moabites, And The Kings Of Sophene And Of Damascus, And Of The Syrians As Also The Idumeans, In War; And How He Made A League With The King Of Hamath; And Was Mindful Of The Friendship That Jonathan, The Son Of Saul, Had Borne Him
 
 1. A Litlle while after this, he considered that he ought to make war
 against the Philistines, and not to see any idleness or laziness
@@ -16215,13 +14294,7 @@ his way; so that this son of Jonathan dwelt at Jerusalem, and dieted at
 the king's table, and had the same care that a son could claim taken of
 him. He also had himself a son, whom he named Micha.
 
-
-
-
-
-
-CHAPTER 6. How The War Was Waged Against The Ammonites And Happily
-Concluded.
+### CHAPTER 6. How The War Was Waged Against The Ammonites And Happily Concluded
 
 1. This were the honors that such as were left of Saul's and Jonathan's
 lineage received from David. About this time died Nahash, the king of
@@ -16299,13 +14372,7 @@ of the spring he sent Joab, the captain of his host, to fight against
 the Ammonites, who overran all their country, and laid it waste, and
 shut them up in their metropolis Rabbah, and besieged them therein.
 
-
-
-
-
-
-CHAPTER 7. How David Fell In Love With Bathsheba, And Slew Her Husband
-Uriah, For Which He Is Reproved By Nathan.
+### CHAPTER 7. How David Fell In Love With Bathsheba, And Slew Her Husband Uriah, For Which He Is Reproved By Nathan
 
 1. But David fell now into a very grievous sin, though he were otherwise
 naturally a righteous and a religious man, and one that firmly observed
@@ -16497,13 +14564,7 @@ but as for the men, he tormented them, 14 and then destroyed them; and
 when he had taken the other cities of the Ammonites by force, he treated
 them after the same manner.
 
-
-
-
-
-
-CHAPTER 8. How Absalom Murdered Amnon, Who Had Forced His Own Sister;
-And How He Was Banished And Afterwards Recalled By David.
+### CHAPTER 8. How Absalom Murdered Amnon, Who Had Forced His Own Sister; And How He Was Banished And Afterwards Recalled By David
 
 1. When the king was returned to Jerusalem, a sad misfortune befell his
 house, on the occasion following: He had a daughter, who was yet a
@@ -16551,7 +14612,7 @@ his lust, he hated her immediately, and giving her reproachful words,
 bade her rise up and be gone. And when she said that this was a more
 injurious treatment than the former, if, now he had forced her, he would
 not let her stay with him till the evening, but bid her go away in the
-day- time, and while it was light, that she might meet with people that
+day-time, and while it was light, that she might meet with people that
 would be witnesses of her shame,—he commanded his servant to turn her
 out of his house. Whereupon she was sorely grieved at the injury and
 violence that had been offered to her, and rent her loose coat, [for the
@@ -16680,14 +14741,7 @@ him; and when he had cast himself down upon the ground, and had begged
 for the forgiveness of his offenses, the king raised him up, and
 promised him to forget what he had formerly done.
 
-
-
-
-
-
-CHAPTER 9. Concerning The Insurrection Of Absalom Against David And
-Concerning Ahithophel And Hushai; And Concerning Ziba And Shimei; And
-How Ahithophel Hanged Himself.
+### CHAPTER 9. Concerning The Insurrection Of Absalom Against David And Concerning Ahithophel And Hushai; And Concerning Ziba And Shimei; And How Ahithophel Hanged Himself
 
 1. Now Absalom, upon this his success with the king, procured to himself
 a great many horses, and many chariots, and that in a little time also.
@@ -16914,13 +14968,7 @@ nay, they brought them a great many cattle for slaughter, and afforded
 them what furniture they wanted for their refreshment when they were
 weary, and for food, with plenty of other necessaries.
 
-
-
-
-
-
-CHAPTER 10. How, When Absalom Was Beaten, He Was Caught In A Tree By His
-Hair And Was Slain
+### CHAPTER 10. How, When Absalom Was Beaten, He Was Caught In A Tree By His Hair And Was Slain
 
 1. And this was the state of David and his followers: but Absalom got
 together a vast army of the Hebrews to oppose his father, and passed
@@ -17069,15 +15117,7 @@ multitude, and sat at the gates; whereupon all the people heard of it,
 and ran together to him, and saluted him. And this was the present state
 of David's affairs.
 
-
-
-
-
-
-CHAPTER 11. How David, When He Had Recovered His Kingdom, Was Reconciled
-To Shimei, And To Ziba; And Showed A Great Affection To Barzillai; And
-How, Upon The Rise Of A Sedition, He Made Amasa Captain Of His Host, In
-Order To Pursue Seba; Which Amasa Was Slain By Joab.
+### CHAPTER 11. How David, When He Had Recovered His Kingdom, Was Reconciled To Shimei, And To Ziba; And Showed A Great Affection To Barzillai; And How, Upon The Rise Of A Sedition, He Made Amasa Captain Of His Host, In Order To Pursue Seba; Which Amasa Was Slain By Joab
 
 1. Now those Hebrews that had been With Absalom, and had retired out of
 the battle, when they were all returned home, sent messengers to every
@@ -17293,15 +15333,7 @@ the six hundred men. He also set Adoram over the tribute, and Sabathes
 and Achilaus over the records. He made Sheva the scribe, and appointed
 Zadok and Abiathar the high priests.
 
-
-
-
-
-
-CHAPTER 12. How The Hebrews Were Delivered From A Famine When The
-Gibeonites Had Caused Punishment To Be Inflicted For Those Of Them That
-Had Been Slain: As Also, What Great Actions Were Performed Against The
-Philistines By David, And The Men Of Valor About Him.
+### CHAPTER 12. How The Hebrews Were Delivered From A Famine When The Gibeonites Had Caused Punishment To Be Inflicted For Those Of Them That Had Been Slain: As Also, What Great Actions Were Performed Against The Philistines By David, And The Men Of Valor About Him
 
 1. After this, when the country was greatly afflicted with a famine,
 David besought God to have mercy on the people, and to discover to him
@@ -17431,13 +15463,7 @@ mouth of the pit and smote him, as he struggled, with a stake that lay
 there, and immediately slew him. The other thirty-three were like these
 in valor also.
 
-
-
-
-
-
-CHAPTER 13. That When David Had Numbered the People, They Were Punished;
-and How the Divine Compassion Restrained That Punishment.
+### CHAPTER 13. That When David Had Numbered the People, They Were Punished; and How the Divine Compassion Restrained That Punishment
 
 1. Now king David was desirous to know how many ten thousands there were
 of the people, but forgot the commands of Moses, 23 who told them
@@ -17538,14 +15564,7 @@ which words he uttered very appositely to what was to be done afterward;
 for God sent the prophet to him, and told him that there should his son
 build him an altar, that son who was to take the kingdom after him.
 
-
-
-
-
-
-CHAPTER 14. That David Made Great Preparations For The House Of God; And
-That, Upon Adonijah's Attempt To Gain The Kingdom, He Appointed Solomon
-To Reign.
+### CHAPTER 14. That David Made Great Preparations For The House Of God; And That, Upon Adonijah's Attempt To Gain The Kingdom, He Appointed Solomon To Reign
 
 1. After the delivery of this prophecy, the king commanded the strangers
 to be numbered; and they were found to be one hundred and eighty
@@ -17814,14 +15833,7 @@ to be king, and Zadok to be the high priest of the whole multitude. And
 when they had brought Solomon to the royal palace, and had set him upon
 his father's throne, they were obedient to him from that day.
 
-
-
-
-
-
-CHAPTER 15. What Charge David Gave To his Son Solomon At The Approach Of
-His Death, And How Many Things He Left Him For The Building Of The
-Temple.
+### CHAPTER 15. What Charge David Gave To his Son Solomon At The Approach Of His Death, And How Many Things He Left Him For The Building Of The Temple
 
 1. A Little afterward David also fell into a distemper, by reason of his
 age; and perceiving that he was near to death, he called his son
@@ -17893,26 +15905,18 @@ buried under the earth so artfully, that they did not appear to even
 those that entered into their monuments. But so much shall suffice us to
 have said concerning these matters.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ It ought to be here noted, that Joab, Abishai, and Asahel
 were all three David's nephews, the sons of his sister Zeraiah, as 1
 Chronicles 2:16; and that Amasa was also his nephew by his other sister
 Abigail, ver. 17.]
 
-
 2 (return) [ This may be a true observation of Josephus's, that Samuel
 by command from God entailed the crown on David and his posterity; for
 no further did that entail ever reach, Solomon himself having never had
 any promise made him that his posterity should always have the right to
 it.]
-
 
 3 (return) [ These words of Josephus concerning the tribe of Issachar,
 who foreknew what was to come hereafter," are best paraphrased by the
@@ -17921,7 +15925,6 @@ to know what Israel ought to do;" that is, who had so much knowledge in
 astronomy as to make calendars for the Israelites, that they might keep
 their festivals, and plough and sow, and gather in their harvests and
 vintage, in due season.]
-
 
 4 (return) [ What our other copies say of Mount Sion, as alone properly
 called the city of David, 2 Samuel 5:6-9, and of this its siege and
@@ -17947,7 +15950,6 @@ appellative, as I suppose, and not for a proper name; he still either
 styles it The Citadel, or The Upper City; nor do I see any reason for
 Mr. Ottius's evil suspicions about this procedure of Josephus.]
 
-
 5 (return) [ Some copies of Josephus have here Solyma, or Salem; and
 others Hierosolyma, or Jerusalem. The latter best agree to what Josephus
 says elsewhere, [Of the War, B. VI. ch. 10.,] that this city was called
@@ -17964,7 +15966,6 @@ provide peace by that "Lamb of God which was to take away the sins of
 the world." However, that which is put into brackets can hardly be
 supposed the genuine words of Josephus, as Dr. Hudson well judges.]
 
-
 6 (return) [ It deserves here to be remarked, that Saul very rarely, and
 David very frequently, consulted God by Urim; and that David aimed
 always to depend, not on his own prudence or abilities but on the Divine
@@ -17976,7 +15977,6 @@ father Saul did not use to pay such a regard to the ark, to the Urim
 there inquired by, or to God's worship before it, and because she
 thought it beneath the dignity of a king to be so religious.]
 
-
 7 (return) [ Josephus seems to be partly in the right, when he observes
 here that Uzzah was no priest, [though perhaps he might be a Levite,]
 and was therefore struck dead for touching the ark, contrary to the law,
@@ -17987,7 +15987,6 @@ have been carried by the priests or Levites, as it was presently here in
 Josephus so carried from Obededom's house to David's, might be also an
 occasion of the anger of God on that breach of his law. See Numbers
 4:15; 1 Chronicles 15:13.]
-
 
 8 (return) [ Josephus here informs us, that, according to his
 understanding of the sense of his copy of the Pentateuch, Moses had
@@ -18001,7 +16000,6 @@ God's former commands to build such a temple presently, ch. 14. sect. 2,
 contrary to our other copies, or at least to our translation of the
 Hebrew, 2 Samuel 7:6, 7; 1 Chronicles 17:5, 6.]
 
-
 9 (return) [ Josephus seems, in this place, with our modern interpreters
 to confound the two distinct predictions which God made to David and to
 Nathan, concerning the building him a temple by one of David's
@@ -18009,13 +16007,11 @@ posterity; the one belongeth to Solomon, the other to the Messiah; the
 distinction between which is of the greatest consequence to the
 Christian religion.]
 
-
 10 (return) [ Whether Syria Zobah, 2 Samuel 3:8; 1 Chronicles 18:3-8, be
 Sophene, as Josephus here supposes; which yet Ptolemy places beyond
 Euphrates, as Dr. Hudson observes here, whereas Zobah was on this side;
 or whether Josephus was not here guilty of a mistake in his geography; I
 cannot certainly determine.]
-
 
 11 (return) [ David's reserving only one hundred chariots for himself
 out of one thousand he had taken from Hadadezer, was most probably in
@@ -18043,7 +16039,6 @@ note, that from this Hadad, in the days of David, to the beginning of
 Hazael, were near two hundred years, according to the exactest
 chronology of Josephus.]
 
-
 12 (return) [ By this great victory over the Idameans or Edomites, the
 posterity of Esau, and by the consequent tribute paid by that nation to
 the Jews, were the prophecies delivered to Rebecca before Jacob and Esau
@@ -18053,12 +16048,10 @@ and Jacob [or the Israelites] should be Esau's [or the Edomites'] lord,
 remarkably fulfilled. See Antiq. B. VIII. ch 7. sect. 6; Genesis 25;9,3;
 and the notes on Antiq. B. I. ch. 18. sect. 5, 6.]
 
-
 13 (return) [ That a talent of gold was about seven pounds weight, see
 the description of the temple ch. 13. Nor could Josephus well estimate
 it higher, since he here says that David wore it on his head
 perpetually.]
-
 
 14 (return) [ Whether Josephus saw the words of our copies, 2 Samuel
 12:31, and 1 Chronicles 20:3, that David put the inhabitants, or at
@@ -18078,7 +16071,6 @@ I remember, meet with such methods of cruelty in putting men to death in
 all the Bible, or in any other ancient history whatsoever; nor do the
 words in Samuel seem naturally to refer to any such thing.]
 
-
 15 (return) [ Of this weight of Absalom's hair, how in twenty or thirty
 years it might well amount to two hundred shekels, or to somewhat above
 six pounds avoirdupois, see the Literal Accomplishment of Prophecies, p.
@@ -18089,7 +16081,6 @@ Josephus's opinion: he sets the text down honestly as he found it in his
 copies, only he thought that "at the end of days," when Absalom polled
 or weighed his hair, was once a week.]
 
-
 16 (return) [ This is one of the best corrections that Josephus's copy
 affords us of a text that in our ordinary copies is grossly corrupted.
 They say that this rebellion of Absalom was forty years after what went
@@ -18098,7 +16089,6 @@ series of the history shows it could not be more than four years after
 it, as here in Josephus; whose number is directly confirmed by that copy
 of the Septuagint version whence the Armenian translation was made,
 which gives us the small number of four years.]
-
 
 17 (return) [ This reflection of Josephus's, that God brought to nought
 the dangerous counsel of Ahithophel, and directly infatuated wicked
@@ -18119,7 +16109,6 @@ and many other the like points of difficulty relating either to Divine
 or human operations.—See the notes on Antiq. B. V ch. 1. sect. 2; and
 Antiq. B. IX. ch. 4. sect. 3.]
 
-
 18 (return) [ Those that take a view of my description of the gates of
 the temple, will not be surprised at this account of David's throne,
 both here and 2 Samuel 18:21, that it was between two gates or portals.
@@ -18128,7 +16117,6 @@ a portal at the entrance, and another at the exit, between which
 judicial causes were heard, and public consultations taken, as is well
 known from several places of Scripture, 2 Chronicles 31:2; Psalm 9:14;
 137:5; Proverbs 1:21; 8:3, 31; 31:23, and often elsewhere.]
-
 
 19 (return) [ Since David was now in Mahanairn, and in the open place of
 that city gate, which seems still to have been built the highest of any
@@ -18139,7 +16127,6 @@ instead of the highest part of the city, should say the highest part of
 the gate. Accordingly we find David presently, in Josephus, as well as
 in our other copies, 2 Samuel 19:8, sitting as before, in the gate of
 the city.]
-
 
 20 (return) [ By David's disposal of half Mephibosheth's estate to Ziba,
 one would imagine that he was a good deal dissatisfied, and doubtful
@@ -18152,7 +16139,6 @@ Mephibosheh an ass of his own, on which he might ride to David, it is
 half to suppose that so great a man as he was should not be able to
 procure some other beast for the same purpose.]
 
-
 21 (return) [ I clearly prefer Josephus's reading here, when it supposes
 eleven tribes, including Benjamin, to be on the one side, and the tribe
 of Judah alone on the other, since Benjamin, in general, had been still
@@ -18160,7 +16146,6 @@ father of the house of Saul, and less firm to David hitherto, than any
 of the rest, and so cannot be supposed to be joined with Judah at this
 time, to make it double, especially when the following rebellion was
 headed by a Benjamite. See sect. 6, and 2 Samuel 20:2, 4.]
-
 
 22 (return) [ This section is a very remarkable one, and shows that, in
 the opinion of Josephus, David composed the Book of Psalms, not at
@@ -18171,7 +16156,6 @@ and New Testament, nor the Apostolical Constitutions, seem to have
 ascribed any of them to any other author than to David himself. See
 Essay on the Old Testament, pages 174, 175. Of these metres of the
 Psalms, see the note on Antiq. B. II. ch. 16. sect. 4.]
-
 
 23 (return) [ The words of God by Moses, Exodus 30:12, sufficiently
 satisfy the reason here given by Josephus for the great plague mentioned
@@ -18202,7 +16186,6 @@ God. "Whether it be right in the sight of God to hearken unto men more
 than to God, judge ye," Acts 4:19. "We ought to obey God rather than
 men," ver. 29.]
 
-
 24 (return) [ What Josephus adds here is very remarkable, that this
 Mount Moriah was not only the very place where Abraham offered up Isaac
 long ago, but that God had foretold to David by a prophet, that here his
@@ -18210,11 +16193,9 @@ son should build him a temple, which is not directly in any of our other
 copies, though very agreeable to what is in them, particularly in 1
 Chronicles 21:25, 28; 22:1, to which places I refer the reader.]
 
-
 25 (return) [ Of the quantity of gold and silver expended in the
 building of Solomon's temple, and whence it arose, see the description
 of ch. 13.]
-
 
 26 (return) [ David is here greatly blamed by some for recommending Joab
 and Shimei to be punished by Solomon, if he could find a proper
@@ -18239,85 +16220,15 @@ words are in Josephus, than that he would not then put him to death,
 which he performed; nor was Solomon under any obligation to spare such a
 traitor.]
 
+### CHAPTER 11. Concerning The Death Of A Son Of Jeroboam. How Jeroboam Was Beaten By Abijah Who Died A Little Afterward And Was Succeeded In His Kingdom By Asa. And Also How, After The Death Of Jeroboam Baasha Destroyed His Son Nadab And All The House Of Jeroboam
 
+### CHAPTER 12. How Zerah, King Of The Ethiopians, Was Beaten By Asa; And How Asa, Upon Baasha's Making War Against Him, Invited The King Of The Damascens To Assist Him; And How, On The Destruction Of The House Of Baasha Zimri Got The Kingdom As Did His Son Ahab After Him
 
+## Footnotes
 
+## BOOK VIII. Containing The Interval Of One Hundred And Sixty-Three Years.—From The Death Of David To The Death Of Ahab
 
-BOOK VIII. Containing The Interval Of One Hundred And Sixty-Three
-Years.—From The Death Of David To The Death Of Ahab.
-
-CHAPTER 1. How Solomon, When He Had Received The Kingdom Took Off His
-Enemies.
-
-CHAPTER 2. Concerning The Wife Of Solomon; Concerning His Wisdom And
-Riches; And Concerning What He Obtained Of Hiram For The Building Of The
-Temple.
-
-CHAPTER 3. Of The Building Of This Temple
-
-CHAPTER 4. How Solomon Removed The Ark Into The Temple How He Made
-Supplication To God, And Offered Public Sacrifices To Him.
-
-CHAPTER 5. How Solomon Built Himself A Royal Palace, Very Costly And
-Splendid; And How He Solved The Riddles Which Were Sent Him By Hiram.
-
-CHAPTER 6. How Solomon Fortified The City Of Jerusalem, And Built Great
-Cities; And How He Brought Some Of The Canaanites Into Subjection, And
-Entertained The Queen Of Egypt And Of Ethiopia.
-
-CHAPTER 7. How Solomon Grew Rich, And Fell Desperately In Love With
-Women And How God, Being Incensed At It, Raised Up Ader And Jeroboam
-Against Him. Concerning The Death Of Solomon.
-
-CHAPTER 8. How, Upon The Death Of Solomon The People Forsook His Son
-Rehoboam, And Ordained Jeroboam King Over The Ten Tribes.
-
-CHAPTER 9. How Jadon The Prophet Was Persuaded By Another Lying Prophet
-And Returned [To Bethel,] And Was Afterwards Slain By A Lion. As Also
-What Words The Wicked Prophet Made Use Of To Persuade The King, And
-Thereby Alienated His Mind From God.
-
-CHAPTER 10. Concerning Rehoboam, And How God Inflicted Punishment Upon
-Him For His Impiety By Shishak [King Of Egypt].
-
-CHAPTER 11. Concerning The Death Of A Son Of Jeroboam. How Jeroboam Was
-Beaten By Abijah Who Died A Little Afterward And Was Succeeded In His
-Kingdom By Asa. And Also How, After The Death Of Jeroboam Baasha
-Destroyed His Son Nadab And All The House Of Jeroboam.
-
-CHAPTER 12. How Zerah, King Of The Ethiopians, Was Beaten By Asa; And
-How Asa, Upon Baasha's Making War Against Him, Invited The King Of The
-Damascens To Assist Him; And How, On The Destruction Of The House Of
-Baasha Zimri Got The Kingdom As Did His Son Ahab After Him.
-
-CHAPTER 13. How Ahab When He Had Taken Jezebel To Wife Became More
-Wicked Than All The Kings That Had Been Before Him; Of The Actions Of
-The Prophet Elijah, And What Befell Naboth.
-
-CHAPTER 14. How Hadad King Of Damascus And Of Syria, Made Two
-Expeditions Against Ahab And Was Beaten.
-
-CHAPTER 15. Concerning Jehoshaphat The King Of Jerusalem And How Ahab
-Made An Expedition Against The Syrians And Was Assisted Therein By
-Jehoshaphat, But Was Himself Overcome In Battle And Perished Therein.
-
-FOOTNOTES:
-
-
-
-
-
-
-BOOK VIII. Containing The Interval Of One Hundred And Sixty-Three
-Years.—From The Death Of David To The Death Of Ahab.
-
-
-
-
-
-
-CHAPTER 1. How Solomon, When He Had Received The Kingdom Took Off His
-Enemies.
+### CHAPTER 1. How Solomon, When He Had Received The Kingdom Took Off His Enemies
 
 1. We have already treated of David, and his virtue, and of the benefits
 he was the author of to his countrymen; of his wars also and battles,
@@ -18431,14 +16342,7 @@ heavier upon them, and that to a greater degree than if they had been
 punished immediately upon the commission of their crimes." So Benaiah,
 on the king's command, slew Shimei.
 
-
-
-
-
-
-CHAPTER 2. Concerning The Wife Of Solomon; Concerning His Wisdom And
-Riches; And Concerning What He Obtained Of Hiram For The Building Of The
-Temple.
+### CHAPTER 2. Concerning The Wife Of Solomon; Concerning His Wisdom And Riches; And Concerning What He Obtained Of Hiram For The Building Of The Temple
 
 1. Solomon having already settled himself firmly in his kingdom, and
 having brought his enemies to punishment, he married the daughter of
@@ -18669,12 +16573,7 @@ together in the mountain, and so bring them to the city. This was done
 not only by our own country workmen, but by those workmen whom Hiram
 sent also. 6
 
-
-
-
-
-
-CHAPTER 3. Of The Building Of This Temple
+### CHAPTER 3. Of The Building Of This Temple
 
 1. Solomon began to build the temple in the fourth year of his reign, on
 the second month, which the Macedonians call Artemisius, and the Hebrews
@@ -18892,13 +16791,7 @@ pillars of native stone, while the roofs were of cedar, and were
 polished in a manner proper for such high roofs; but he made all the
 doors of this temple of silver. 12
 
-
-
-
-
-
-CHAPTER 4. How Solomon Removed The Ark Into The Temple How He Made
-Supplication To God, And Offered Public Sacrifices To Him.
+### CHAPTER 4. How Solomon Removed The Ark Into The Temple How He Made Supplication To God, And Offered Public Sacrifices To Him
 
 1. When king Solomon had finished these works, these large and beautiful
 buildings, and had laid up his donations in the temple, and all this in
@@ -19102,13 +16995,7 @@ their transgression of the laws of their country. Accordingly we have it
 transmitted to us in writing, that thus did God speak to Solomon in his
 sleep.
 
-
-
-
-
-
-CHAPTER 5. How Solomon Built Himself A Royal Palace, Very Costly And
-Splendid; And How He Solved The Riddles Which Were Sent Him By Hiram.
+### CHAPTER 5. How Solomon Built Himself A Royal Palace, Very Costly And Splendid; And How He Solved The Riddles Which Were Sent Him By Hiram
 
 1. After the building of the temple, which, as we have before said, was
 finished in seven years, the king laid the foundation of his palace,
@@ -19227,14 +17114,7 @@ Tyre; and that Hiram proposed other riddles, which, when Solomon could
 not solve, he paid back a great deal of money to Hiram." This it is
 which Dius wrote.
 
-
-
-
-
-
-CHAPTER 6. How Solomon Fortified The City Of Jerusalem, And Built Great
-Cities; And How He Brought Some Of The Canaanites Into Subjection, And
-Entertained The Queen Of Egypt And Of Ethiopia.
+### CHAPTER 6. How Solomon Fortified The City Of Jerusalem, And Built Great Cities; And How He Brought Some Of The Canaanites Into Subjection, And Entertained The Queen Of Egypt And Of Ethiopia
 
 1. Now when the king saw that the walls of Jerusalem stood in need of
 being better secured, and made stronger, [for he thought the wails that
@@ -19388,14 +17268,7 @@ obtained what we have already given an account of, and had again
 communicated to the king what she brought with her, she returned to her
 own kingdom.
 
-
-
-
-
-
-CHAPTER 7. How Solomon Grew Rich, And Fell Desperately In Love With
-Women And How God, Being Incensed At It, Raised Up Ader And Jeroboam
-Against Him. Concerning The Death Of Solomon.
+### CHAPTER 7. How Solomon Grew Rich, And Fell Desperately In Love With Women And How God, Being Incensed At It, Raised Up Ader And Jeroboam Against Him. Concerning The Death Of Solomon
 
 1. About the same time there were brought to the king from the Aurea
 Chersonesus, a country so called, precious stones, and pine trees, and
@@ -19597,13 +17470,7 @@ deluded by women, and transgressed the law; concerning which
 transgressions, and the miseries which befell the Hebrews thereby, I
 think proper to discourse at another opportunity.
 
-
-
-
-
-
-CHAPTER 8. How, Upon The Death Of Solomon The People Forsook His Son
-Rehoboam, And Ordained Jeroboam King Over The Ten Tribes.
+### CHAPTER 8. How, Upon The Death Of Solomon The People Forsook His Son Rehoboam, And Ordained Jeroboam King Over The Ten Tribes
 
 1. Now when Solomon was dead, and his son Rehoboam [who was born of an
 Ammonite wife; whose name was Naamah] had succeeded him in the kingdom,
@@ -19752,15 +17619,7 @@ wondered at the abstinence of the man, but was himself in fear, as
 suspecting a change of his affairs for the worse, from what had been
 said to him.
 
-
-
-
-
-
-CHAPTER 9. How Jadon The Prophet Was Persuaded By Another Lying Prophet
-And Returned [To Bethel,] And Was Afterwards Slain By A Lion. As Also
-What Words The Wicked Prophet Made Use Of To Persuade The King, And
-Thereby Alienated His Mind From God.
+### CHAPTER 9. How Jadon The Prophet Was Persuaded By Another Lying Prophet And Returned [To Bethel,] And Was Afterwards Slain By A Lion. As Also What Words The Wicked Prophet Made Use Of To Persuade The King, And Thereby Alienated His Mind From God
 
 1. Now there was a certain wicked man in that city, who was a false
 prophet, whom Jeroboam had in great esteem, but was deceived by him and
@@ -19828,13 +17687,7 @@ should be more detestable than what he had been so insolent as to do
 before. And so much shall at present suffice to have said concerning
 Jeroboam.
 
-
-
-
-
-
-CHAPTER 10. Concerning Rehoboam, And How God Inflicted Punishment Upon
-Him For His Impiety By Shishak [King Of Egypt].
+### CHAPTER 10. Concerning Rehoboam, And How God Inflicted Punishment Upon Him For His Impiety By Shishak [King Of Egypt]
 
 1. Now Rehoboam, the son of Solomon, who, as we said before, was king of
 the two tribes, built strong and large cities, Bethlehem, and Etare, and
@@ -19940,15 +17793,7 @@ affairs of Jeroboam, and how he ended his life; for he ceased not nor
 rested to be injurious to God, but every day raised up altars upon high
 mountains, and went on making priests out of the multitude.
 
-
-
-
-
-
-CHAPTER 11. Concerning The Death Of A Son Of Jeroboam. How Jeroboam Was
-Beaten By Abijah Who Died A Little Afterward And Was Succeeded In His
-Kingdom By Asa. And Also How, After The Death Of Jeroboam Baasha
-Destroyed His Son Nadab And All The House Of Jeroboam.
+### CHAPTER 11. Concerning The Death Of A Son Of Jeroboam. How Jeroboam Was Beaten By Abijah Who Died A Little Afterward And Was Succeeded In His Kingdom By Asa. And Also How, After The Death Of Jeroboam Baasha Destroyed His Son Nadab And All The House Of Jeroboam
 
 1. However, God was in no long time ready to return Jeroboam's wicked
 actions, and the punishment they deserved, upon his own head, and upon
@@ -20092,15 +17937,7 @@ pieces and devoured by dogs, and that others of them that died in the
 fields were torn and devoured by the fowls. So the house of Jeroboam
 suffered the just punishment of his impiety, and of his wicked actions.
 
-
-
-
-
-
-CHAPTER 12. How Zerah, King Of The Ethiopians, Was Beaten By Asa; And
-How Asa, Upon Baasha's Making War Against Him, Invited The King Of The
-Damascens To Assist Him; And How, On The Destruction Of The House Of
-Baasha Zimri Got The Kingdom As Did His Son Ahab After Him.
+### CHAPTER 12. How Zerah, King Of The Ethiopians, Was Beaten By Asa; And How Asa, Upon Baasha's Making War Against Him, Invited The King Of The Damascens To Assist Him; And How, On The Destruction Of The House Of Baasha Zimri Got The Kingdom As Did His Son Ahab After Him
 
 1. Now Asa, the king of Jerusalem, was of an excellent character, and
 had a regard to God, and neither did nor designed any thing but what had
@@ -20250,14 +18087,7 @@ he followed the works of David his forefather, and this both in courage
 and piety; but we are not obliged now to speak any more of the affairs
 of this king.
 
-
-
-
-
-
-CHAPTER 13. How Ahab When He Had Taken Jezebel To Wife Became More
-Wicked Than All The Kings That Had Been Before Him; Of The Actions Of
-The Prophet Elijah, And What Befell Naboth.
+### CHAPTER 13. How Ahab When He Had Taken Jezebel To Wife Became More Wicked Than All The Kings That Had Been Before Him; Of The Actions Of The Prophet Elijah, And What Befell Naboth
 
 1. Now Ahab the king of Israel dwelt in Samaria, and held the government
 for twenty-two years; and made no alteration in the conduct of the kings
@@ -20523,13 +18353,7 @@ family, because he repented of those insolent crimes he had been guilty
 of, but that still he would fulfill his threatening under Ahab's son;
 which message the prophet delivered to the king.
 
-
-
-
-
-
-CHAPTER 14. How Hadad King Of Damascus And Of Syria, Made Two
-Expeditions Against Ahab And Was Beaten.
+### CHAPTER 14. How Hadad King Of Damascus And Of Syria, Made Two Expeditions Against Ahab And Was Beaten
 
 1. When the affairs of Ahab were thus, at that very time the son of
 Hadad, [Benhadad,] who was king of the Syrians and of Damascus, got
@@ -20697,14 +18521,7 @@ was very angry at the prophet, and gave commandment that he should be
 put in prison, and there kept; but for himself, he was in confusion at
 the words of Micaiah, and returned to his own house.
 
-
-
-
-
-
-CHAPTER 15. Concerning Jehoshaphat The King Of Jerusalem And How Ahab
-Made An Expedition Against The Syrians And Was Assisted Therein By
-Jehoshaphat, But Was Himself Overcome In Battle And Perished Therein.
+### CHAPTER 15. Concerning Jehoshaphat The King Of Jerusalem And How Ahab Made An Expedition Against The Syrians And Was Assisted Therein By Jehoshaphat, But Was Himself Overcome In Battle And Perished Therein
 
 1. And these were the circumstances in which Ahab was. But I now return
 to Jehoshaphat, the king of Jerusalem, who, when he had augmented his
@@ -20864,13 +18681,7 @@ Ahab appears to have been deceived thereby, till he disbelieved those
 that foretold his defeat; but, by giving credit to such as foretold what
 was grateful to him, was slain; and his son Ahaziah succeeded him.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ This execution upon Joab, as a murderer, by slaying him,
 even when he had taken sanctuary at God's altar, is perfectly agreeable
@@ -20878,13 +18689,11 @@ to the law of Moses, which enjoins, that "if a man come presumptuously
 upon his neighbor to slay him with guile, thou shalt take him from mine
 altar that he die," Exodus 21:14.]
 
-
 2 (return) [ This building of the walls of Jerusalem, soon after David's
 death, illustrates the conclusion of the 51st Psalm, where David prays,
 "Build thou the walls of Jerusalem;" they being, it seems, unfinished or
 imperfect at that time. See ch. 6. sect. 1; and ch. 1. sect. 7; also 1
 Kings 9:15.]
-
 
 3 (return) [ It may not be amiss to compare the daily furniture of king
 Solomon's table, here set down, and 1 Kings 4;22, 23, with the like
@@ -20905,7 +18714,6 @@ any such public allowance to those governors at all. Those great charges
 upon the public for maintaining courts came in with kings, as God
 foretold they would, 1 Samuel 8:11-18.
 
-
 4 (return) [ Some pretended fragments of these books of conjuration of
 Solomon are still extant in Fabricius's Cod. Pseudepigr. Vet. Test. page
 1054, though I entirely differ from Josephus in this his supposal, that
@@ -20921,11 +18729,9 @@ conjurations. As for the following history, it confirms what Christ
 says, Matthew 12;27 "If I by Beelzebub cast out demons, by whom do your
 Sons cast them out?"]
 
-
 5 (return) [ These epistles of Solomon and Hiram are those in 1 Kings
 5:3-9, and, as enlarged, in 2 Chronicles 2:3-16, but here given us by
 Josephus in his own words.]
-
 
 6 (return) [ What Josephus here puts into his copy of Hiram's epistle to
 Solomon, and repeats afterwards, ch. 5. sect. 3, that Tyre was now an
@@ -20971,7 +18777,6 @@ distinctly observes, these poor remains of Old Tyre are now "become like
 the top of a rock, a place for the spreading of nets in the midst of the
 sea."]
 
-
 7 (return) [ Of the temple of Solomon here described by Josephus, in
 this and the following sections of this chapter, see my description of
 the temples belonging to this work, ch. 13, These small rooms, or side
@@ -20981,7 +18786,6 @@ interval between one and the other that was over it; and this with
 double floors, the one of six cubits distance from the floor beneath it,
 as 1 Kings 6:5]
 
-
 8 (return) [ Josephus says here that the cherubims were of solid gold,
 and only five cubits high, while our Hebrew copies [1 Kings 6;23, 28:
 say they were of the olive tree, and the LXXX. of the cypress tree, and
@@ -20989,12 +18793,10 @@ only overlaid with gold; and both agree they were ten cubits high. I
 suppose the number here is falsely transcribed, and that Josephus wrote
 ten cubits also.]
 
-
 9 (return) [ As for these two famous pillars, Jachin and Booz, their
 height could be no more than eighteen cubits, as here, and 1 Kings 7:15;
 2 Kings 25:17; Jeremiah 3:21; those thirty-five cubits in 2 Chronicles
 3:15, being contrary to all the rules of architecture in the world.]
-
 
 10 (return) [ The round or cylindrical lavers of four cubits in
 diameter, and four in height, both in our copies, 1 Kings 7:38, 39, and
@@ -21008,7 +18810,6 @@ Levites about the courts of the priests for the washings they were
 designed for; and had they held much more, they would have been too
 heavy to have been so drawn.]
 
-
 11 (return) [ Here Josephus gives us a key to his own language, of right
 and left hand in the tabernacle and temple; that by the right hand he
 means what is against our left, when we suppose ourselves going up from
@@ -21019,7 +18820,6 @@ Booz on the north, against our right hand. Of the golden plate on the
 high priest's forehead that was in being in the days of Josephus, and a
 century or two at least later, seethe note on Antiq. B. III. ch. 7.
 sect. 6.]
-
 
 12 (return) [ When Josephus here says that the floor of the outmost
 temple or court of the Gentiles was with vast labor raised to be even,
@@ -21040,13 +18840,11 @@ are to suppose three years to have been the just time of the
 preparation, as I have done in my computation of the expense in building
 that temple.]
 
-
 13 (return) [ This solemn removal of the ark from Mount Sion to Mount
 Moriah, at the distance of almost three quarters of a mile, confutes
 that notion of the modern Jews, and followed by many Christians also, as
 if those two were after a sort one and the same mountain, for which
 there is, I think, very little foundation.]
-
 
 14 (return) [ This mention of the Corinthian ornaments of architecture
 in Solomon's palace by Josephus seems to be here set down by way of
@@ -21066,7 +18864,6 @@ building in Josephus, a hundred cubits long, and fifty cubits broad, are
 the very same with the area of the cart of the tabernacle of Moses, and
 just hall' an Egyptian orout, or acre.]
 
-
 15 (return) [ This signification of the name Pharaoh appears to be true.
 But what Josephus adds presently, that no king of Egypt was called
 Pharaoh after Solomon's father-in-law, does hardly agree to our copies,
@@ -21082,7 +18879,6 @@ Josephus, and those relating to the kings of Egypt, and to that queen of
 Egypt and Ethiopia, whom he supposes to have come to see Solomon, than
 almost any where else in all his Antiquities.]
 
-
 16 (return) [ That this queen of Sheba was a queen of Sabea in South
 Arabia, and not of Egypt and Ethiopia, as Josephus here asserts, is, I
 suppose, now generally agreed. And since Sabea is well known to be a
@@ -21092,7 +18888,6 @@ south," and says, "she came from the utmost parts of the earth," Matthew
 12:42; Luke 11:31, which descriptions agree better to this Arabia than
 to Egypt and Ethiopia; there is little occasion for doubting in this
 matter.]
-
 
 17 (return) [ Some blame Josephus for supposing that the balsam tree
 might be first brought out of Arabia, or Egypt, or Ethiopia, into Judea,
@@ -21113,7 +18908,6 @@ this precious balm. This last is also the same word that we elsewhere
 render by the same mistake balm of Gilead; it should be rendered, the
 turpentine of Gilead, Jeremiah 8:22.]
 
-
 18 (return) [ Whether these fine gardens and rivulets of Etham, about
 six miles from Jerusalem, whither Solomon rode so often in state, be not
 those alluded to, Ecclesiastes 2:5, 6, where he says, "He made him
@@ -21128,13 +18922,11 @@ whether this Etham has any relation to those rivers of Etham, which
 Providence once dried up in a miraculous manner, Psalm 74:15, in the
 Septuagint, I cannot say.]
 
-
 19 (return) [ These seven hundred wives, or the daughters of great men,
 and the three hundred concubines, the daughters of the ignoble, make one
 thousand in all; and are, I suppose, those very one thousand women
 intimated elsewhere by Solomon himself, when he speaks of his not having
 found one [good] woman among that very number, Ecclesiastes 7:28.]
-
 
 20 (return) [ Josephus is here certainly too severe upon Solomon, who,
 in making the cherubims, and these twelve brazen oxen, seems to have
@@ -21151,14 +18943,12 @@ equally forbidden by Moses, Antiq. B. IV. ch. 8. sect. 5; yet did not
 the two tribes and a half offend when they made an altar for a memorial
 only, Joshua 22; Antiq. B. V. ch. 1. sect. 26, 27.]
 
-
 21 (return) [ Since the beginning of Solomon's evil life and adversity
 was the time when Hadad or Ader, who was born at least twenty or thirty
 years before Solomon came to the crown, in the days of David, began to
 give him disturbance, this implies that Solomon's evil life began early,
 and continued very long, which the multitude of his wives and concubines
 does imply also; I suppose when he was not fifty years of age.]
-
 
 22 (return) [ This youth of Jeroboam, when Solomon built the walls of
 righteous and keep the laws, because he hath proposed to thee the
@@ -21171,12 +18961,10 @@ youth here still mentioned, when Solomon's wickedness was become
 intolerable, fully confirm my former observation, that such his
 wickedness began early, and continued very long. See Ecclus. 47:14.]
 
-
 23 (return) [ That by scorpions is not here meant that small animal so
 called, which was never used in corrections, but either a shrub, furze
 bush, or else some terrible sort of whip of the like nature see Hudson's
 and Spanheim's notes here.]
-
 
 24 (return) [ Whether these "fountains of the Lesser Jordan" were near a
 place called Dan, and the fountains of the Greater near a place called
@@ -21189,7 +18977,6 @@ be the most probable. However, the northern idolatrous calf, set up by
 Jeroboam, was where Little Jordan fell into Great Jordan, near a place
 called Daphnae, as Josephus elsewhere informs us, Of the War, B. IV. ch.
 1. sect. 1: see the note there.]
-
 
 25 (return) [ How much a larger and better copy Josephus had in this
 remarkable history of the true prophet of Judea, and his concern with
@@ -21205,13 +18992,11 @@ than which more plausible could not be invented, was intimated in
 Josephus's copy, or in some other ancient book, cannot now be
 determined; our other copies say not one word of it.]
 
-
 26 (return) [ That this Shishak was not the same person with the famous
 Sesostris, as some have very lately, in contradiction to all antiquity,
 supposed, and that our Josephus did not take him to be the same, as they
 pretend, but that Sesostris was many centuries earlier than Shishak, see
 Authent. Records, part II. page 1024.]
-
 
 27 (return) [ Herodotus, as here quoted by Josephus, and as this passage
 still stands in his present copies, B. II. ch. 14., affirms, that "the
@@ -21232,12 +19017,10 @@ what he says about them, their country, or maritime cities, two of which
 he alone mentions, Cadytus and Jenysus, proves true; nor indeed do there
 appear to have ever been any such cities on their coast.]
 
-
 28 (return) [ This is a strange expression in Josephus, that God is his
 own workmanship, or that he made himself, contrary to common sense and
 to catholic Christianity; perhaps he only means that he was not made by
 one, but was unoriginated.]
-
 
 29 (return) [ By this terrible and perfectly unparalleled slaughter of
 five hundred thousand men of the newly idolatrous and rebellious ten
@@ -21250,16 +19033,13 @@ have been too powerful for the two tribes, which were pretty frequently
 free both from such idolatry and rebellion; nor is there any reason to
 doubt of the truth of the prodigious number upmost: signal an occasion.]
 
-
 30 (return) [ The reader is to remember that Cush is not Ethiopia, but
 Arabia. See Bochart, B. IV. ch. 2.]
-
 
 31 (return) [ Here is a very great error in our Hebrew copy in this
 place, 2 Chronicles 15:3-6, as applying what follows to times past, and
 not to times future; whence that text is quite misapplied by Sir Isaac
 Newton.]
-
 
 32 (return) [ This Abelmain, or, in Josephus's copy, Abellane, that
 belonged to the land of Israel, and bordered on the country of Damascus,
@@ -21273,7 +19053,6 @@ land, from the blood of righteous Abel to the blood of Zacharias son of
 Barnchins, whom ye slew between the temple and the altar. Verily, I say
 unto you, all these things shall come upon this generation," Matthew
 23;35, 36; Luke 11:51.]
-
 
 33 (return) [ Josephus, in his present copies, says, that a little while
 rain upon the earth; whereas, in our other copies, it is after many
@@ -21290,12 +19069,10 @@ presently all the earth, as our Savior says it was upon all the earth,
 Luke 4:25. They who restrain these expressions to the land of Judea
 alone, go without sufficient authority or examples.]
 
-
 34 (return) [ Mr. Spanheim takes notice here, that in the worship of
 Mithra [the god of the Persians] the priests cut themselves in the same
 manner as did these priests in their invocation of Baal [the god of the
 Phoenicians].]
-
 
 35 (return) [ For Izar we may here read [with Hudson and Cocceius]
 Isachar, i.e of the tribe of Isachar, for to that tribe did Jezreel
@@ -21303,14 +19080,12 @@ belong; and presently at the beginning of sect. 8, as also ch. 15. sect.
 4, we may read for Iar, with one MS. nearly, and the Scripture, Jezreel,
 for that was the city meant in the history of Naboth.]
 
-
 36 (return) [ "The Jews weep to this day," [says Jerome, here cited by
 Reland,] "and roll themselves upon sackcloth, in ashes, barefoot, upon
 such occasions." To which Spanheim adds, "that after the same manner
 Bernice, when his life was in danger, stood at the tribunal of Florus
 barefoot." Of the War, B. II. ch. 15. sect. 1. See the like of David, 2
 Samuel 15:30; Antiq. B. VII. ch. 9. sect. 2.]
-
 
 37 (return) [ Mr. Reland notes here very truly, that the word naked does
 not always signify entirely naked, but sometimes without men's usual
@@ -21334,7 +19109,6 @@ was girded with a linen ephod," i.e. he had laid aside his robes of
 state, and put on the sacerdotal, Levitical, or sacred garments, proper
 for such a solemnity.]
 
-
 38 (return) [ Josephus's number, two myriads and seven thousand, agrees
 here with that in our other copies, as those that were slain by the
 falling down of the walls of Aphek; but I suspected at first that this
@@ -21350,11 +19124,9 @@ that fell down, as in all the originals, I lay aside that suspicion, and
 firmly believe that Josephus himself hath, with the rest, given us the
 just number, twenty-seven thousand.]
 
-
 39 (return) [ This manner of supplication for men's lives among the
 Syrians, with ropes or halters about their heads or necks, is, I
 suppose, no strange thing in later ages, even in our own country.]
-
 
 40 (return) [ It is here remarkable, that in Josephus's copy this
 prophet, whose severe denunciation of a disobedient person's slaughter
@@ -21367,7 +19139,6 @@ repeats his denunciations against him; all which came to pass
 accordingly; nor is there any reason to doubt but this and the former
 were the very same prophet.]
 
-
 41 (return) [ What is most remarkable in this history, and in many
 histories on other occasions in the Old Testament, is this, that during
 the Jewish theocracy God acted entirely as the supreme King of Israel,
@@ -21377,7 +19148,6 @@ and heavenly King, and General of their armies, as subjects and soldiers
 are to their earthly kings and generals, and that usually without
 knowing the particular reasons of their injunctions.]
 
-
 42 (return) [ These reasonings of Zedekiah the false prophet, in order
 to persuade Ahab not to believe Micaiah the true prophet, are plausible;
 but being omitted in our other copies, we cannot now tell whence
@@ -21386,7 +19156,6 @@ original author, or from certain ancient notes. That some such plausible
 objection was now raised against Micaiah is very likely, otherwise
 Jehoshaphat, who used to disbelieve all such false prophets, could never
 have been induced to accompany Ahab in these desperate circumstances.]
-
 
 43 (return) [ This reading of Josephus, that Jehoshaphat put on not his
 own, but Ahab's robes, in order to appear to be Ahab, while Ahab was
@@ -21399,7 +19168,6 @@ still the escape of the good man Jehoshaphat, and the slaughter of the
 bad man Ahab, demonstrated the great distinction that Divine providence
 made betwixt them.]
 
-
 44 (return) [ We have here a very wise reflection of Josephus about
 Divine Providence, and what is derived from it, prophecy, and the
 inevitable certainty of its accomplishment; and that when wicked men
@@ -21409,21 +19177,9 @@ repentance, they are ever by Providence infatuated to bring about their
 own destruction, and thereby withal to demonstrate the perfect veracity
 of that God whose predictions they in vain endeavored to elude.]
 
+## BOOK IX. Containing The Interval Of One Hundred And Fifty-Seven Years.—From The Death Of Ahab To The Captivity Of The Ten Tribes
 
-
-
-
-
-BOOK IX. Containing The Interval Of One Hundred And Fifty-Seven
-Years.—From The Death Of Ahab To The Captivity Of The Ten Tribes.
-
-
-
-
-
-
-CHAPTER 1. Concerning Jehoshaphat Again; How He Constituted Judges And,
-By God's Assistance Overcame His Enemies.
+### CHAPTER 1. Concerning Jehoshaphat Again; How He Constituted Judges And, By God's Assistance Overcame His Enemies
 
 1. When Jehoshaphat the king was come to Jerusalem, from the assistance
 he had afforded Ahab, the king of Israel, when he fought with Benhadad,
@@ -21518,13 +19274,7 @@ were destroyed by being so great [and unwieldy]; on which account he was
 no longer concerned about shipping. And this is the history of
 Jehoshaphat, the king of Jerusalem.
 
-
-
-
-
-
-CHAPTER 2. Concerning Ahaziah; The King Of Israel; And Again Concerning
-The Prophet Elijah.
+### CHAPTER 2. Concerning Ahaziah; The King Of Israel; And Again Concerning The Prophet Elijah
 
 1. And now Ahaziah, the son of Ahab, reigned over Israel, and made his
 abode in Samaria. He was a wicked man, and in all respects like to both
@@ -21590,14 +19340,7 @@ Elisha, as we have formerly declared. And indeed, as to Elijah, and as
 to Enoch, who was before the deluge, it is written in the sacred books
 that they disappeared, but so that nobody knew that they died.
 
-
-
-
-
-
-CHAPTER 3. How Joram And Jehoshaphat Made An Expedition Against The
-Moabites; As Also Concerning The Wonders Of Elisha; And The Death Of
-Jehoshaphat.
+### CHAPTER 3. How Joram And Jehoshaphat Made An Expedition Against The Moabites; As Also Concerning The Wonders Of Elisha; And The Death Of Jehoshaphat
 
 1. When Joram had taken upon him the kingdom, he determined to make an
 expedition against the king of Moab, whose name was Mesha; for, as we
@@ -21686,14 +19429,7 @@ but a little time, and then died, having lived in all sixty years, and
 of them reigned twenty-five. He was buried in a magnificent manner in
 Jerusalem, for he had imitated the actions of David.
 
-
-
-
-
-
-CHAPTER 4. Jehoram Succeeds Jehoshaphat; How Joram, His Namesake, King
-Of Israel, Fought With The Syrians; And What Wonders Were Done By The
-Prophet Elisha.
+### CHAPTER 4. Jehoram Succeeds Jehoshaphat; How Joram, His Namesake, King Of Israel, Fought With The Syrians; And What Wonders Were Done By The Prophet Elisha
 
 1. Jehoshapat had a good number of children; but he appointed his eldest
 son Jehoram to be his successor, who had the same name with his mother's
@@ -21964,13 +19700,7 @@ years old. Now when Joram, the king of Israel, heard that Benhadad was
 dead, he recovered out of the terror and dread he had been in on his
 account, and was very glad to live in peace.
 
-
-
-
-
-
-CHAPTER 5. Concerning The Wickedness Of Jehoram King Of Jerusalem; His
-Defeat And Death.
+### CHAPTER 5. Concerning The Wickedness Of Jehoram King Of Jerusalem; His Defeat And Death
 
 1. Now Jehoram the king of Jerusalem, for we have said before that he
 had the same name with the king of Israel, as soon as he had taken the
@@ -22029,13 +19759,7 @@ like a private man, and this when he had lived forty years, and reigned
 eight. And the people of Jerusalem delivered the government to his son
 Ahaziah.
 
-
-
-
-
-
-CHAPTER 6. How Jehu Was Anointed King, And Slew Both Joram And Ahaziah;
-As Also What He Did For The Punishment Of The Wicked.
+### CHAPTER 6. How Jehu Was Anointed King, And Slew Both Joram And Ahaziah; As Also What He Did For The Punishment Of The Wicked
 
 1. Now Joram, the king of Israel, after the death of Benhadad, hoped
 that he might now take Ramoth, a city of Gilead, from the Syrians.
@@ -22216,14 +19940,7 @@ done thus, and taken care to punish the wicked, God foretold by his
 prophet that his sons should reign over Israel for four generations. And
 in this condition was Jehu at this time.
 
-
-
-
-
-
-CHAPTER 7. How Athaliah Reigned Over Jerusalem For Five [Six] Years When
-Jehoiada The High Priest Slew Her And Made Jehoash, The Son Of Ahaziah,
-King.
+### CHAPTER 7. How Athaliah Reigned Over Jerusalem For Five [Six] Years When Jehoiada The High Priest Slew Her And Made Jehoash, The Son Of Ahaziah, King
 
 1. Now when Athaliah, the daughter of Ahab, heard of the death of her
 brother Joram, and of her son Ahaziah, and of the royal family, she
@@ -22325,17 +20042,7 @@ were born to him both sons and daughters. And thus much shall suffice to
 have related concerning king Jehoash, how he escaped the treachery of
 Athaliah, and how he received the kingdom.
 
-
-
-
-
-
-CHAPTER 8. Hazael Makes An Expedition Against The People Of Israel And
-The Inhabitants Of Jerusalem. Jehu Dies, And Jehoahaz Succeeds In The
-Government. Jehoash The King Of Jerusalem At First Is Careful About The
-Worship Of God But Afterwards Becomes Impious And Commands Zechariah To
-Be Stoned. When Jehoash [King Of Judah] Was Dead, Amaziah Succeeds Him
-In The Kingdom.
+### CHAPTER 8. Hazael Makes An Expedition Against The People Of Israel And The Inhabitants Of Jerusalem. Jehu Dies, And Jehoahaz Succeeds In The Government. Jehoash The King Of Jerusalem At First Is Careful About The Worship Of God But Afterwards Becomes Impious And Commands Zechariah To Be Stoned. When Jehoash [King Of Judah] Was Dead, Amaziah Succeeds Him In The Kingdom
 
 1. Now Hazael, king of Syria, fought against the Israelites and their
 king Jehu, and spoiled the eastern parts of the country beyond Jordan,
@@ -22483,15 +20190,7 @@ the kingdom of Israel, which came to pass, however, according to the
 prophecy of Elisha. But when Joash happened to die, he was buried in
 Samaria, and the government devolved on his son Jeroboam.
 
-
-
-
-
-
-CHAPTER 9. How Amaziah Made An Expedition Against The Edomites And
-Amalekites And Conquered Them; But When He Afterwards Made War Against
-Joash, He Was Beaten And Not Long After Was Slain, And Uzziah Succeeded
-In The Government.
+### CHAPTER 9. How Amaziah Made An Expedition Against The Edomites And Amalekites And Conquered Them; But When He Afterwards Made War Against Joash, He Was Beaten And Not Long After Was Slain, And Uzziah Succeeded In The Government
 
 1. Now, in the second year of the reign of Joash over Israel, Amaziah
 reigned over the tribe of Judah in Jerusalem. His mother's name was
@@ -22589,16 +20288,7 @@ in religion, and his contempt of God, when he had lived fifty-four
 years, and had reigned twenty-nine. He was succeeded by his son, whose
 name was Uzziah.
 
-
-
-
-
-
-CHAPTER 10. Concerning Jeroboam King Of Israel And Jonah The Prophet;
-And How After The Death Of Jeroboam His Son Zachariah Took The
-Government. How Uzziah, King Of Jerusalem, Subdued The Nations That Were
-Round About Him; And What Befell Him When He Attempted To Offer Incense
-To God.
+### CHAPTER 10. Concerning Jeroboam King Of Israel And Jonah The Prophet; And How After The Death Of Jeroboam His Son Zachariah Took The Government. How Uzziah, King Of Jerusalem, Subdued The Nations That Were Round About Him; And What Befell Him When He Attempted To Offer Incense To God
 
 1. In the fifteenth year of the reign of Amaziah, Jeroboam the son of
 Joash reigned over Israel in Samaria forty years. This king was guilty
@@ -22721,16 +20411,7 @@ government; after which he died with grief and anxiety at what had
 happened to him, when he had lived sixty-eight years, and reigned of
 them fifty-two; and was buried by himself in his own gardens.
 
-
-
-
-
-
-CHAPTER 11. How Zachariah Shallum, Menahem Pekahiah And Pekah Took The
-Government Over The Israelites; And How Pul And Tiglath-Pileser Made An
-Expedition Against The Israelites. How Jotham, The Son Of Uzziah Reigned
-Over The Tribe Of Judah; And What Things Nahum Prophesied Against The
-Assyrians.
+### CHAPTER 11. How Zachariah Shallum, Menahem Pekahiah And Pekah Took The Government Over The Israelites; And How Pul And Tiglath-Pileser Made An Expedition Against The Israelites. How Jotham, The Son Of Uzziah Reigned Over The Tribe Of Judah; And What Things Nahum Prophesied Against The Assyrians
 
 1. Now when Zachariah, the son of Jeroboam, had reigned six months over
 Israel, he was slain by the treachery of a certain friend of his, whose
@@ -22801,16 +20482,7 @@ appear troublesome to my readers; all which thing happened about Nineveh
 a hundred and fifteen years afterward: so this may suffice to have
 spoken of these matters.
 
-
-
-
-
-
-CHAPTER 12. How Upon The Death Of Jotham, Ahaz Reigned In His Stead;
-Against Whom Rezin, King Of Syria And Pekah King Of Israel, Made War;
-And How Tiglath-Pileser, King Of Assyria Came To The Assistance Of Ahaz,
-And Laid Syria Waste And Removing The Damascenes Into Media Placed Other
-Nations In Their Room.
+### CHAPTER 12. How Upon The Death Of Jotham, Ahaz Reigned In His Stead; Against Whom Rezin, King Of Syria And Pekah King Of Israel, Made War; And How Tiglath-Pileser, King Of Assyria Came To The Assistance Of Ahaz, And Laid Syria Waste And Removing The Damascenes Into Media Placed Other Nations In Their Room
 
 1. Now Jotham died when he had lived forty-one years, and of them
 reigned sixteen, and was buried in the sepulchers of the kings; and the
@@ -22892,14 +20564,7 @@ to it. And when he had offered these indignities to God, he died, having
 lived thirty-six years, and of them reigned sixteen; and he left his son
 Hezekiah for his successor.
 
-
-
-
-
-
-CHAPTER 13. How Pekah Died By The Treachery Of Hoshea Who Was A Little
-After Subdued By Shalmaneser; And How Hezekiah Reigned Instead Of Ahaz;
-And What Actions Of Piety And Justice He Did.
+### CHAPTER 13. How Pekah Died By The Treachery Of Hoshea Who Was A Little After Subdued By Shalmaneser; And How Hezekiah Reigned Instead Of Ahaz; And What Actions Of Piety And Justice He Did
 
 1. About the same time Pekah, the king of Israel, died by the treachery
 of a friend of his, whose name was Hoshea, who retained the kingdom nine
@@ -23000,14 +20665,7 @@ piety towards God, and upon Isaiah the prophet, by whom he inquired and
 accurately knew all future events. And thus much shall suffice for the
 present concerning this king Hezekiah.
 
-
-
-
-
-
-CHAPTER 14. How Shalmaneser Took Samaria By Force And How He
-Transplanted The Ten Tribes Into Media, And Brought The Nation Of The
-Cutheans Into Their Country [In Their Room].
+### CHAPTER 14. How Shalmaneser Took Samaria By Force And How He Transplanted The Ten Tribes Into Media, And Brought The Nation Of The Cutheans Into Their Country [In Their Room]
 
 1. When Shalmaneser, the king of Assyria, had it told him, that [Hoshea]
 the king of Israel had sent privately to So, the king of Egypt, desiring
@@ -23087,13 +20745,7 @@ kindred from them, but they declare that they are sojourners, that come
 from other countries. But of these we shall have a more seasonable
 opportunity to discourse hereafter.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ These judges constituted by Jehoshaphat were a kind of
 Jerusalem Sanhedrim, out of the priests, the Levites, and the principal
@@ -23101,10 +20753,8 @@ of the people, both here and 2 Chronicles 19:8; much like the old
 Christian judicatures of the bishop, the presbyters, the deacons, and
 the people.]
 
-
 2 (return) [ Concerning this precious balsam, see the note on Atiq. B.
 VIII. ch. 6. sect. 6.]
-
 
 3 (return) [ What are here Pontus and Thrace, as the places whither
 Jehoshaphat's fleet sailed, are in our other copies Ophir and Tarshish,
@@ -23118,12 +20768,10 @@ the Mediterranean, and not in the South Sea, though perhaps there might
 be another Ophir in that South Sea also, and that fleets might then sail
 both from Phoenicia and from the Red Sea to fetch the gold of Ophir.]
 
-
 4 (return) [ This god of flies seems to have been so called, as was the
 like god among the Greeks, from his supposed power over flies, in
 driving them away from the flesh of their sacrifices, which otherwise
 would have been very troublesome to them.]
-
 
 5 (return) [ It is commonly esteemed a very cruel action of Elijah, when
 he called for fire from heaven, and consumed no fewer than two captains
@@ -23147,7 +20795,6 @@ commands of their leaders or kings cannot justify or excuse them in
 doing what is wicked in the sight of God, or in fighting in an unjust
 cause, when they know it so to be.]
 
-
 6 (return) [ This practice of cutting down, or plucking up by the roots,
 the fruit trees was forbidden, even in ordinary wars, by the law of
 Moses, Deuteronomy 20:19, 20, and only allowed by God in this particular
@@ -23157,7 +20804,6 @@ many the like prophecies against them. Nothing could therefore justify
 this practice but a particular commission from God by his prophet, as in
 the present case, which was ever a sufficient warrant for breaking any
 such ritual or ceremonial law whatsoever.]
-
 
 7 (return) [ That this woman who cried to Elisha, and who in our Bible
 is styled "the wife of one of the sons of the prophets," 2 Kings 4:1,
@@ -23172,7 +20818,6 @@ to redeem herself and her sons from the fear of that slavery which
 insolvent debtors were liable to by the law of Moses, Leviticus 25:39;
 Matthew 18:25; which he did accordingly, with God's help, at the expense
 of a miracle.]
-
 
 8 (return) [ Dr. Hudson, with very good reason, suspects that there is
 no small defect in our present copies of Josephus, just before the
@@ -23202,7 +20847,6 @@ this thing. And Elisha said, Go in peace." This looks like a prophet's
 permission for being partaker in idolatry itself, out of compliance with
 an idolatrous court.]
 
-
 9 (return) [ Upon occasion of this stratagem of Elisha, in Josephus, we
 may take notice, that although Josephus was one of the greatest lovers
 of truth in the world, yet in a just war he seems to have had no manner
@@ -23210,7 +20854,6 @@ of scruple upon him by all such stratagems possible to deceive public
 enemies. See this Josephus's account of Jeremiah's imposition on the
 great men of the Jews in somewhat like case, Antiq. B. X. ch. 7. sect.
 6; 2 Samuel 16:16, &c.]
-
 
 10 (return) [ This son of a murderer was Joram, the son of Ahab, which
 Ahab slew, or permitted his wife Jezebel to slay, the Lord's prophets,
@@ -23220,11 +20863,9 @@ yet is Josephus's account of Joram's coming himself at last as repenting
 of his intended cruelty, much more probable than that in our copies, 2
 Kings 6:33, which rather implies the contrary.]
 
-
 11 (return) [ This law of the Jews, for the exclusion of lepers out of
 the camp in the wilderness, and out of the cities in Judea, is a known
 one, Leviticus 13:46; Numbers 5:14.]
-
 
 12 (return) [ Since Elijah did not live to anoint Hazael king of Syria
 himself, as he was empowered to do, 1 Kings 19:15, it was most probably
@@ -23236,7 +20877,6 @@ the course of nature, or some other way of Divine punishment, as did
 David for many years in the like case, was too impatient, and the very
 next day smothered or strangled him, in order to come directly to the
 succession.]
-
 
 13 (return) [ What Mr. Le Clerc pretends here, that it is more probable
 that Hazael and his son were worshipped by the Syrians and people of
@@ -23253,7 +20893,6 @@ is too remote from the political suspicions of Le Clerc; nor ought such
 weak suspicions to be deemed of any force against authentic testimonies
 of antiquity.]
 
-
 14 (return) [ This epistle, in some copies of Josephus, is said to come
 to Jotare from Elijah, with this addition," for he was yet upon earth,"
 which could not be true of Elijah, who, as all agree, was gone from the
@@ -23262,11 +20901,9 @@ perhaps is there any more mystery here, than that the name of Elijah has
 very anciently crept into the text instead of Elisha, by the copiers,
 there being nothing in any copy of that epistle peculiar to Elijah.]
 
-
 15 (return) [ Spanheim here notes, that this putting off men's garments,
 and strewing them under a king, was an Eastern custom, which he had
 elsewhere explained.]
-
 
 16 (return) [ Our copies say that this "driving of the chariots was like
 the driving of Jehu the son of Nimshi; for he driveth furiously," 2
@@ -23278,7 +20915,6 @@ out with king Ahaziah to meet him, and all this after he was come within
 sight of the watchman, and before he was come to Jezreel, the
 probability is greatly on the side of Josephus's copy or
 interpretation.]
-
 
 17 (return) [ This character of Joash, the son of Jehoahaz, that "he was
 a good man, and in his disposition not at all like to his father," seems
@@ -23301,7 +20937,6 @@ characters of Joash suited the different parts of his reign, and that,
 according to our common copies, he was at first a wicked king, and
 afterwards was reclaimed, and became a good one, according to Josephus.]
 
-
 18 (return) [ What I have above noted concerning Jehoash, seems to me to
 have been true also concerning his son Jeroboam II., viz. that although
 he began wickedly, as Josephus agrees with our other copies, and, as he
@@ -23314,7 +20949,6 @@ encouraged by the prophet Jonah, and had great successes afterward, when
 Joash," 2 Kings 14:27; which encouragement by Jonah, and great
 successes, are equally observable in Josephus, and in the other copies.]
 
-
 19 (return) [ When Jonah is said in our Bibles to have gone to Tarshish,
 Jonah 1:3, Josephus understood it that he went to Tarsus in Cilicia, or
 to the Mediterranean Sea, upon which Tarsus lay; so that he does not
@@ -23323,7 +20957,6 @@ ships of Tarshish could lie at Ezion-geber, upon the Red Sea. But as to
 Josephus's assertion, that Jonah's fish was carried by the strength of
 the current, upon a nean, it is by no means an improbable determination
 in Josephus.]
-
 
 20 (return) [ This ancient piece of religion, of supposing there was
 great sin where there was great misery, and of casting lots to discover
@@ -23341,7 +20974,6 @@ that coast could bring him former three thousand years of the world,
 till the days of Job nearer to Nineveh than could any coast of the
 Mediterranian and Moses.]
 
-
 21 (return) [ This account of an earthquake at Jerusalem at the very
 same time when Uzziah usurped the priest's office, and went into the
 sanctuary to burn incense, and of the consequences of the earthquake, is
@@ -23351,7 +20983,6 @@ mention is made of "fleeing from that earthquake, as they fled from this
 earthquake in the days of Uzziah king of Judah;" so that there seems to
 have been some considerable resemblance between these historical and
 prophetical earthquakes.]
-
 
 22 (return) [ Dr. Wall, in his critical notes on 2 Kings 15:20,
 observes, "that when this Menahem is said to have exacted the money of
@@ -23366,7 +20997,6 @@ commanded, by Ezekiel, ch. 45:8; 46:18, that no such thing should be
 done [at the Jews' restoration], but the king should have land of his
 own."]
 
-
 23 (return) [ This passage is taken out of the prophet Nahum, ch. 2:8-
 13, and is the principal, or rather the only, one that is given us
 almost verbatim, but a little abridged, in all Josephus's known
@@ -23375,7 +21005,6 @@ viz. that he made use of the Hebrew original and not of the Greek
 version]; as also we learn, that his Hebrew copy considerably differed
 from ours. See all three texts particularly set down and compared
 together in the Essay on the Old Testament, page 187.]
-
 
 24 (return) [ This siege of Samaria, though not given a particular
 account of, either in our Hebrew or Greek Bibles, or in Josephus, was so
@@ -23387,25 +21016,9 @@ accomplished in the other shorter sieges of both the capital cities,
 Jerusalem and Samaria; the former mentioned Jeremiah 19:9; Antiq. B. IX.
 ch. 4. sect. 4, and the latter, 2 Kings 6:26-29.]
 
+## BOOK X. Containing The Interval Of One Hundred And Eighty-Two Years And A Half.—From The Captivity Of The Ten Tribes To The First Year Of Cyrus
 
-
-
-
-
-BOOK X. Containing The Interval Of One Hundred And Eighty-Two Years And
-A Half.—From The Captivity Of The Ten Tribes To The First Year Of Cyrus.
-
-
-
-
-
-
-CHAPTER 1. How Sennacherib Made An Expedition Against Hezekiah; What
-Threatenings Rabshakeh Made To Hezekiah When Sennacherib Was Gone
-Against The Egyptians; How Isaiah The Prophet Encouraged Him; How
-Sennacherib Having Failed Of Success In Egypt, Returned Thence To
-Jerusalem; And How Upon His Finding His Army Destroyed, He Returned
-Home; And What Befell Him A Little Afterward.
+### CHAPTER 1. How Sennacherib Made An Expedition Against Hezekiah; What Threatenings Rabshakeh Made To Hezekiah When Sennacherib Was Gone Against The Egyptians; How Isaiah The Prophet Encouraged Him; How Sennacherib Having Failed Of Success In Egypt, Returned Thence To Jerusalem; And How Upon His Finding His Army Destroyed, He Returned Home; And What Befell Him A Little Afterward
 
 1. It was now the fourteenth year of the government of Hezekiah, king of
 the two tribes, when the king of Assyria, whose name was Sennacherib,
@@ -23537,14 +21150,7 @@ Armenia, while Assarachoddas took the kingdom of Sennacherib." And this
 proved to be the conclusion of this Assyrian expedition against the
 people of Jerusalem.
 
-
-
-
-
-
-CHAPTER 2. How Hezekiah Was Sick, And Ready To Die; And How God Bestowed
-Upon Him Fifteen Years Longer Life, [And Secured That Promise] By The
-Going Back Of The Shadow Ten Degrees.
+### CHAPTER 2. How Hezekiah Was Sick, And Ready To Die; And How God Bestowed Upon Him Fifteen Years Longer Life, [And Secured That Promise] By The Going Back Of The Shadow Ten Degrees
 
 1. Now king Hezekiah being thus delivered, after a surprising manner,
 from the dread he was in, offered thank-offerings to God, with all his
@@ -23615,14 +21221,7 @@ done among us, Whether it be good, or whether it be bad, comes to pass
 according to their prophecies; but of every one of these we shall speak
 hereafter.
 
-
-
-
-
-
-CHAPTER 3. How Manasseh Reigned After Hezekiah; And How When He Was In
-Captivity He Returned To God And Was Restored To His Kingdom And Left It
-To [His Son] Amon.
+### CHAPTER 3. How Manasseh Reigned After Hezekiah; And How When He Was In Captivity He Returned To God And Was Restored To His Kingdom And Left It To [His Son] Amon
 
 1. When king Hezekiah had survived the interval of time already
 mentioned, and had dwelt all that time in peace, he died, having
@@ -23677,14 +21276,7 @@ departed this life, having reigned fifty-five years, and was buried in
 his own garden; and the kingdom came to his son Amon, whose mother's
 name was Meshulemeth, of the city of Jotbath.
 
-
-
-
-
-
-CHAPTER 4. How Amon Reigned Instead Of Manasseh; And After Amon Reigned
-Josiah; He Was Both Righteous And Religious. As Also Concerning Huldah
-The Prophetess.
+### CHAPTER 4. How Amon Reigned Instead Of Manasseh; And After Amon Reigned Josiah; He Was Both Righteous And Religious. As Also Concerning Huldah The Prophetess
 
 1. This Amon imitated those works of his father which he insolently did
 when he was young: so he had a conspiracy made against him by his own
@@ -23714,7 +21306,7 @@ gods, and overthrew their altars; and if there were any gifts dedicated
 to them by his forefathers, he made them ignominious, and plucked them
 down; and by this means he brought the people back from their opinion
 about them to the worship of God. He also offered his accustomed
-sacrifices and burnt- offerings upon the altar. Moreover, he ordained
+sacrifices and burnt-offerings upon the altar. Moreover, he ordained
 certain judges and overseers, that they might order the matters to them
 severally belonging, and have regard to justice above all things, and
 distribute it with the same concern they would have about their own
@@ -23818,15 +21410,7 @@ to the laws, and according to the custom of their forefathers. So when
 Josiah had after this lived in peace, nay, in riches and reputation
 also, among all men, he ended his life in the manner following.
 
-
-
-
-
-
-CHAPTER 5. How Josiah Fought With Neco [King Of Egypt.] And Was Wounded
-And Died In A Little Time Afterward; As Also How Neco Carried Jehoahaz,
-Who Had Been Made King Into Egypt And Delivered The Kingdom To
-Jehoiakim; And [Lastly] Concerning Jeremiah And Ezekiel.
+### CHAPTER 5. How Josiah Fought With Neco [King Of Egypt.] And Was Wounded And Died In A Little Time Afterward; As Also How Neco Carried Jehoahaz, Who Had Been Made King Into Egypt And Delivered The Kingdom To Jehoiakim; And [Lastly] Concerning Jeremiah And Ezekiel
 
 1. Now Neco, king of Egypt, raised an army, and marched to the river
 Euphrates, in order to fight with the Medes and Babylonians, who had
@@ -23878,14 +21462,7 @@ was called Zebudah, of the city Rumah. He was of a wicked disposition,
 and ready to do mischief; nor was he either religious towards God, or
 good-natured towards men.
 
-
-
-
-
-
-CHAPTER 6. How Nebuchadnezzar, When He Had Conquered The King Of Egypt
-Made An Expedition Against The Jews, And Slew Jehoiakim, And Made
-Jehoiachin His Son King.
+### CHAPTER 6. How Nebuchadnezzar, When He Had Conquered The King Of Egypt Made An Expedition Against The Jews, And Slew Jehoiakim, And Made Jehoiachin His Son King
 
 1. Now in the fourth year of the reign of Jehoiakim, one whose name was
 Nebuchadnezzar took the government over the Babylonians, who at the same
@@ -23956,16 +21533,7 @@ years, and of them reigned eleven. But Jehoiachin succeeded him in the
 kingdom, whose mother's name was Nehushta; she was a citizen of
 Jerusalem. He reigned three months and ten days.
 
-
-
-
-
-
-CHAPTER 7. That The King Of Babylon Repented Of Making Jehoiachin King,
-And Took Him Away To Babylon And Delivered The Kingdom To Zedekiah. This
-King Would Not Believe What Was Predicted By Jeremiah And Ezekiel But
-Joined Himself To The Egyptians; Who When They Came Into Judea, Were
-Vanquished By The King Of Babylon; As Also What Befell Jeremiah.
+### CHAPTER 7. That The King Of Babylon Repented Of Making Jehoiachin King, And Took Him Away To Babylon And Delivered The Kingdom To Zedekiah. This King Would Not Believe What Was Predicted By Jeremiah And Ezekiel But Joined Himself To The Egyptians; Who When They Came Into Judea, Were Vanquished By The King Of Babylon; As Also What Befell Jeremiah
 
 1. But a terror seized on the king of Babylon, who had given the kingdom
 to Jehoiachin, and that immediately; he was afraid that he should bear
@@ -24135,14 +21703,7 @@ they came to the prophet, and asked him what advice it was that he came
 to give the king relating to them. And thus I have finished what
 concerns this matter.
 
-
-
-
-
-
-CHAPTER 8. How The King Of Babylon Took Jerusalem And Burnt The Temple
-And Removed The People Of Jerusalem And Zedekiah To Babylon. As Also,
-Who They Were That Had Succeeded In The High Priesthood Under The Kings.
+### CHAPTER 8. How The King Of Babylon Took Jerusalem And Burnt The Temple And Removed The People Of Jerusalem And Zedekiah To Babylon. As Also, Who They Were That Had Succeeded In The High Priesthood Under The Kings
 
 1. Now the king of Babylon was very intent and earnest upon the siege of
 Jerusalem; and he erected towers upon great banks of earth, and from
@@ -24271,16 +21832,7 @@ pillaged out of the temple of Jerusalem to his own gods, and planted the
 people in the country of Babylon, but freed the high priest from his
 bonds.
 
-
-
-
-
-
-CHAPTER 9. How Nebuzaradan Set Gedaliah Over The Jews That Were Left In
-Judea Which Gedaliah Was A Little Afterward Slain By Ishmael; And How
-Johanan After Ishmael Was Driven Away Went Down Into Egypt With The
-People Which People Nebuchadnezzar When He Made An Expedition Against
-The Egyptians Took Captive And Brought Them Away To Babylon.
+### CHAPTER 9. How Nebuzaradan Set Gedaliah Over The Jews That Were Left In Judea Which Gedaliah Was A Little Afterward Slain By Ishmael; And How Johanan After Ishmael Was Driven Away Went Down Into Egypt With The People Which People Nebuchadnezzar When He Made An Expedition Against The Egyptians Took Captive And Brought Them Away To Babylon
 
 1. Now the general of the army, Nebuzaradan, when he had carried the
 people of the Jews into captivity, left the poor, and those that had
@@ -24444,12 +21996,7 @@ time which passed from the captivity of the Israelites, to the carrying
 away of the two tribes, proved to be a hundred and thirty years, six
 months, and ten days.
 
-
-
-
-
-
-CHAPTER 10. Concerning Daniel And What Befell Him At Babylon.
+### CHAPTER 10. Concerning Daniel And What Befell Him At Babylon
 
 1. But now Nebuchadnezzar, king of Babylon, took some of the most noble
 of the Jews that were children, and the kinsmen of Zedekiah their king,
@@ -24643,14 +22190,7 @@ translate the Hebrew books into the Greek language, and promised them to
 explain those facts, without adding any thing to them of my own, or
 taking any thing away from there.
 
-
-
-
-
-
-CHAPTER 11. Concerning Nebuchadnezzar And His Successors And How Their
-Government Was Dissolved By The Persians; And What Things Befell Daniel
-In Media; And What Prophecies He Delivered There.
+### CHAPTER 11. Concerning Nebuchadnezzar And His Successors And How Their Government Was Dissolved By The Persians; And What Things Befell Daniel In Media; And What Prophecies He Delivered There
 
 1. Now when king Nebuchadnezzar had reigned forty-three years, 20 he
 ended his life. He was an active man, and more fortunate than the kings
@@ -24976,19 +22516,12 @@ these matters as I have found them and read them; but if any one is
 inclined to another opinion about them, let him enjoy his different
 sentiments without any blame from me.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ This title of great king, both in our Bibles, 2 Kings
 18:19; Isaiah 36:4, and here in Josephus, is the very same that
 Herodotus gives this Sennacherib, as Spanheim takes notice on this
 place.]
-
 
 2 (return) [ What Josephus says here, how Isaiah the prophet assured
 Hezekiah that "at this time he should not be besieged by the king of
@@ -25004,7 +22537,6 @@ Kings 19:29; Isaiah 37:30; which seem to me plainly to design a Sabbatic
 year, a year of jubilee next after it, and the succeeding usual labors
 and fruits of them on the third and following years.]
 
-
 3 (return) [ That this terrible calamity of the slaughter of the 185,000
 Assyrians is here delivered in the words of Berosus the Chaldean, and
 that it was certainly and frequently foretold by the Jewish prophets,
@@ -25013,7 +22545,6 @@ part II. p. 858. We are here to take notice, that these two sons of
 Sennacherib, that ran away into Armenia, became the heads of two famous
 families there, the Arzerunii and the Genunii; of which see the
 particular histories in Moses Chorenensis, p. 60.]
-
 
 4 (return) [ Josephus, and all our copies, place the sickness of
 Hezekiah after the destruction of Sennacherib's army, because it appears
@@ -25028,7 +22559,6 @@ reign, since chronology does not allow him in all above twenty-nine
 years and a few months; whereas the first assault of Sennacherib was on
 the fourteenth year of Hezekiah, but the destruction of Sennacherib's
 army was not till his eighteenth year.]
-
 
 5 (return) [ As to this regress of the shadow, either upon a sun-dial,
 or the steps of the royal palace built by Ahaz, whether it were
@@ -25050,7 +22580,6 @@ least heard of, at Babylon also, as appears by 2 Chronicles 32:31, where
 we learn that the Babylonian ambassadors were sent to Hezekiah, among
 other things, to inquire of the wonder that was done in the land.]
 
-
 6 (return) [ This expression of Josephus, that the Medes, upon this
 destruction of the Assyrian army, "overthrew" the Assyrian empire, seems
 to be too strong; for although they immediately cast off the Assrian
@@ -25058,7 +22587,6 @@ yoke, and set up Deioces, a king of their own, yet it was some time
 before the Medes and Babylonians overthrew Nineveh, and some generations
 ere the Medes and Persians under Cyaxares and Cyrus overthrew the
 Assyrian or Babylonian empire, and took Babylon.]
-
 
 7 (return) [ It is hard to reconcile the account in the Second Book of
 Kings [Footnote ch. 23:11: with this account in Josephus, and to
@@ -25070,7 +22598,6 @@ procession, and worshipped by the people; which chariots were now "taken
 away," as Josephus says, or, as the Book of Kings says, "burnt with
 fire, by Josiah."]
 
-
 8 (return) [ This is a remarkable passage of chronology in Josephus,
 that about the latter end of the reign of Josiah, the Medes and
 Babylonians overthrew the empire of the Assyrians; or, in the words of
@@ -25079,12 +22606,10 @@ destruction of Nineveh, which was taken by Nebuchodonosor the
 Babylonian, and Assuerus the Mede," Tob. 14:15. See Dean Prideaux's
 Connexion, at the year 612.]
 
-
 9 (return) [ This battle is justly esteemed the very same that Herodotus
 [B. II. sect. 156: mentions, when he says, that "Necao joined battle
 with the Syrians [or Jews] at Magdolum, [Megiddo,] and beat them," as
 Dr. Hudson here observes.]
-
 
 10 (return) [ Whether Josephus, from 2 Chronicles 35:25, here means the
 book of the Lamentations of Jeremiah, still extant, which chiefly
@@ -25092,13 +22617,11 @@ belongs to the destruction of Jerusalem under Nebuchadnezzar, or to any
 other like melancholy poem now lost, but extant in the days of Josephus,
 belonging peculiarly to Josiah, cannot now be determined.]
 
-
 11 (return) [ This ancient city Hamath, which is joined with Arpad, or
 Aradus, and with Damascus, 2 Kings 18:34; Isaiah 36:19; Jeremiah 49:23,
 cities of Syria and Phoenicia, near the borders of Judea, was also
 itself evidently near the same borders, though long ago utterly
 destroyed.]
-
 
 12 (return) [ Josephus says here that Jeremiah prophesied not only of
 the return of the Jews from the Babylonian captivity, and this under the
@@ -25111,7 +22634,6 @@ rebuilding the temple, and even the city Jerusalem, which do not appear
 in our copies under his name. See the note on Antiq. B. XI. ch. 1. sect.
 3.]
 
-
 13 (return) [ This observation of Josephus about the seeming
 disagreement of Jeremiah, ch. 32:4, and 34:3, and Ezekiel 12:13, but
 real agreement at last, concerning the fate of Zedekiah, is very true
@@ -25119,7 +22641,6 @@ and very remarkable. See ch. 7. sect. 2. Nor is it at all unlikely that
 the courtiers and false prophets might make use of this seeming
 contradiction to dissuade Zedekiah from believing either of those
 prophets, as Josephus here intimates he was dissuaded thereby.]
-
 
 14 (return) [ I have here inserted in brackets this high priest Azarias,
 though he be omitted in all Josephus's copies, out of the Jewish
@@ -25132,13 +22653,11 @@ genuineness of his book, that stands now in our Apocrypha, and that it
 is really a canonical book, and an appendix to Jeremiah, see Authent.
 Rec. Part I. p. 1—11.]
 
-
 15 (return) [ Herodotus says, this king of Egypt [Pharaoh Hophra, or
 Apries] was slain by the Egyptians, as Jeremiah foretold his slaughter
 by his enemies, Jeremiah 44:29, 30, and that as a sign of the
 destruction of Egypt [by Nebuchadnezzar]. Josephus says, this king was
 slain by Nebuchadnezzar himself.]
-
 
 16 (return) [ We see here that Judea was left in a manner desolate after
 the captivity of the two tribes and was not I with foreign colonies,
@@ -25149,7 +22668,6 @@ foreign colonies, to be a like indication, that the same Jews are
 hereafter to repeople it again themselves, at their so long expected
 future restoration.]
 
-
 17 (return) [ That Daniel was made one of these eunuchs of which Isaiah
 prophesied, Isaiah 39:7, and the three children his companions also,
 seems to me plain, both here in Josephus, and in our copies of Daniel,
@@ -25157,7 +22675,6 @@ Daniel 1:3, 6-11, 18, although it must be granted that some married
 persons, that had children, were sometimes called eunuchs, in a general
 acceptation for courtiers, on account that so many of the ancient
 courtiers were real eunuchs. See Genesis 39:1.]
-
 
 18 (return) [ Of this most remarkable passage in Josephus concerning the
 "stone cut out of the mountain, and destroying the image," which he
@@ -25168,7 +22685,6 @@ words of Hayercamp, ch. 10. sect. 4: "Nor is this to be wondered at,
 that he would not now meddle with things future, for he had no mind to
 provoke the Romans, by speaking of the destruction of that city which
 they called the Eternal City."]
-
 
 19 (return) [ Since Josephus here explains the seven prophetic times
 which were to pass over Nebuchadnezzar [Daniel 4:16: to be seven years,
@@ -25196,14 +22712,12 @@ that after a seven years' brutal life, he might return to his reason,
 and to the exercise of his royal authority, for one whole year at least
 before his death.]
 
-
 20 (return) [ These forty-three years for the duration of the reign of
 Nebuchadnezzar are, as I have just now observed, the very same number in
 Ptolemy's canon. Moses Chorenensis does also confirm this captivity of
 the Jews under Nebuchadnezzar, and adds, what is very remarkable, that
 sale of those Jews that were carried by him into captivity got away into
 Armenia, and raised the great family of the Bagratide there.]
-
 
 21 (return) [ These twenty-one years here ascribed to one named
 Naboulassar, in the first book against Apion, or to Nabopollassar, the
@@ -25213,7 +22727,6 @@ says, at the year, that Nebuchadnezzar must have been a common name of
 other kings of Babylon, besides the great Nebuchadnezzar himself is a
 groundless mistake of some modern chronologers rely, and destitute of
 all proper original authority.]
-
 
 22 (return) [ These fifteen days for finishing such vast buildings at
 Babylon, in Josephus's copy of Berosus, would seem too absurd to be
@@ -25226,7 +22739,6 @@ Jerusalem were two years and four months in building by Nehemiah, who
 yet hastened the work all he could, Antiq. B. XI. ch. 5. sect. 8. I
 should think one hundred and fifteen days, or a year and fifteen days,
 much more proportionable to so great a work.]
-
 
 23 (return) [ It is here remarkable that Josephus, without the knowledge
 of Ptolemy's canon, should call the same king whom he himself here [Bar.
@@ -25248,13 +22760,11 @@ within no long time after the hand-writing on the wall that Baltasar was
 slain, does not so well agree with our copies of Daniel, which say it
 was the same night, Daniel 5:30.]
 
-
 24 (return) [ This grandmother, or mother of Baltasar, the queen dowager
 of Babylon, [for she is distinguished from his queen, Daniel 5:10, 13,]
 seems to have been the famous Nitocris, who fortified Babylon against
 the Medes and Persians, and, in all probability governed under Baltasar,
 who seems to be a weak and effeminate prince.]
-
 
 25 (return) [ It is no way improbable that Daniel's enemies might
 suggest this reason to the king why the lions did not meddle with him
@@ -25264,7 +22774,6 @@ encouraged Daniel to submit to this experiment, in hopes of coming off
 safe; and that this was the true reason of making so terrible an
 experiment upon those his enemies, and all their families, Daniel 6:21,
 though our other copies do not directly take notice of it.]
-
 
 26 (return) [ What Josephus here says, that the stones of the sepulchers
 of the kings of Persia at this tower, or those perhaps of the same sort
@@ -25276,23 +22785,9 @@ ascribed this to the hardness of the stones, which scarcely yields to
 iron tools, and proves frequently too hard for cutting by the chisel,
 but oftentimes breaks it to pieces.]
 
+## BOOK XI. Containing The Interval Of Two Hundred And Fifty-Three Years And Five Months.—From The First Of Cyrus To The Death Of Alexander The Great
 
-
-
-
-
-BOOK XI. Containing The Interval Of Two Hundred And Fifty-Three Years
-And Five Months.—From The First Of Cyrus To The Death Of Alexander The
-Great.
-
-
-
-
-
-
-CHAPTER 1. How Cyrus, King Of The Persians, Delivered The Jews Out Of
-Babylon And Suffered Them To Return To Their Own Country And To Build
-Their Temple, For Which Work He Gave Them Money.
+### CHAPTER 1. How Cyrus, King Of The Persians, Delivered The Jews Out Of Babylon And Suffered Them To Return To Their Own Country And To Build Their Temple, For Which Work He Gave Them Money
 
 1. In the first year of the reign of Cyrus 1 which was the seventieth
 from the day that our people were removed out of their own land into
@@ -25379,14 +22874,7 @@ treasury." And such was the import of this epistle. Now the number of
 those that came out of captivity to Jerusalem, were forty-two thousand
 four hundred and sixty-two.
 
-
-
-
-
-
-CHAPTER 2. How Upon The Death Of Cyrus The Jews Were Hindered In
-Building Of The Temple By The Cutheans, And The Neighboring Governors;
-And How Cambyses Entirely Forbade The Jews To Do Any Such Thing.
+### CHAPTER 2. How Upon The Death Of Cyrus The Jews Were Hindered In Building Of The Temple By The Cutheans, And The Neighboring Governors; And How Cambyses Entirely Forbade The Jews To Do Any Such Thing
 
 1. When the foundations of the temple were laying, and when the Jews
 were very zealous about building it, the neighboring nations, and
@@ -25443,15 +22931,7 @@ year of the reign of Darius, for nine years more; for Cambyses reigned
 six years, and within that time overthrew Egypt, and when he was come
 back, he died at Damascus.
 
-
-
-
-
-
-CHAPTER 3. How After The Death Of Cambyses And The Slaughter Of The Magi
-But Under The Reign Of Darius, Zorobabel Was Superior To The Rest In The
-Solution Of Problems And Thereby Obtained This Favor Of The King, That
-The Temple Should Be Built.
+### CHAPTER 3. How After The Death Of Cambyses And The Slaughter Of The Magi But Under The Reign Of Darius, Zorobabel Was Superior To The Rest In The Solution Of Problems And Thereby Obtained This Favor Of The King, That The Temple Should Be Built
 
 1. After the slaughter of the Magi, who, upon the death of Cambyses,
 attained the government of the Persians for a year, those families which
@@ -25678,13 +23158,7 @@ the entire people of the Jews that were in Babylon, came and dwelt in
 Jerusalem; but the rest of the multitude returned every one to their own
 countries.
 
-
-
-
-
-
-CHAPTER 4. How The Temple Was Built While The Cutheans Endeavored In
-Vain To Obstruct The Work.
+### CHAPTER 4. How The Temple Was Built While The Cutheans Endeavored In Vain To Obstruct The Work
 
 1. Now in the seventh month after they were departed out of Babylon,
 both Jeshua the high priest, and Zorobabel the governor, sent messengers
@@ -25877,7 +23351,7 @@ government that was aristocratical, but mixed with an oligarchy, for the
 high priests were at the head of their affairs, until the posterity of
 the Asamoneans set up kingly government; for before their captivity, and
 the dissolution of their polity, they at first had kingly government
-from Saul and David for five hundred and thirty- two years, six months,
+from Saul and David for five hundred and thirty-two years, six months,
 and ten days; but before those kings, such rulers governed them as were
 called judges and monarchs. Under this form of government they continued
 for more than five hundred years after the death of Moses, and of Joshua
@@ -25912,13 +23386,7 @@ they may not leave off offering their daily sacrifices, nor praying to
 God for me and the Persians." And these were the contents of that
 epistle.
 
-
-
-
-
-
-CHAPTER 5. How Xerxes The Son Of Darius Was Well Disposed To The Jews;
-As Also Concerning Esdras And Nehemiah.
+### CHAPTER 5. How Xerxes The Son Of Darius Was Well Disposed To The Jews; As Also Concerning Esdras And Nehemiah
 
 1. Upon the death of Darius, Xerxes his son took the kingdom, who, as he
 inherited his father's kingdom, so did he inherit his piety towards God,
@@ -26219,14 +23687,7 @@ and righteous disposition, and very ambitious to make his own nation
 happy; and he hath left the walls of Jerusalem as an eternal monument
 for himself. Now this was done in the days of Xerxes.
 
-
-
-
-
-
-CHAPTER 6. Concerning Esther And Mordecai And Haman; And How In The
-Reign Of Artaxerxes The Whole Nation Of The Jews Was In Danger Of
-Perishing.
+### CHAPTER 6. Concerning Esther And Mordecai And Haman; And How In The Reign Of Artaxerxes The Whole Nation Of The Jews Was In Danger Of Perishing
 
 1. After the death of Xerxes, the kingdom came to be transferred to his
 son Cyrus, whom the Greeks called Artaxerxes. When this man had obtained
@@ -26755,13 +24216,7 @@ with the queen; so that the affairs of the Jews were, by their means,
 better than they could ever have hoped for. And this was the state of
 the Jews under the reign of Artaxerxes.
 
-
-
-
-
-
-CHAPTER 7. How John Slew His Brother Jesus In The Temple; And How
-Bagoses Offered Many Injuries To The Jews; And What Sanballat Did.
+### CHAPTER 7. How John Slew His Brother Jesus In The Temple; And How Bagoses Offered Many Injuries To The Jews; And What Sanballat Did
 
 1. When Eliashib the high priest was dead, his son Judas succeeded in
 the high priesthood; and when he was dead, his son John took that
@@ -26799,14 +24254,7 @@ daughter, whose name was Nicaso, in marriage to Manasseh, as thinking
 this alliance by marriage would be a pledge and security that the nation
 of the Jews should continue their good-will to him.
 
-
-
-
-
-
-CHAPTER 8. Concerning Sanballat And Manasseh, And The Temple Which They
-Built On Mount Gerizzim; As Also How Alexander Made His Entry Into The
-City Jerusalem, And What Benefits He Bestowed On The Jews.
+### CHAPTER 8. Concerning Sanballat And Manasseh, And The Temple Which They Built On Mount Gerizzim; As Also How Alexander Made His Entry Into The City Jerusalem, And What Benefits He Bestowed On The Jews
 
 1. About this time it was that Philip, king of Macedon, was
 treacherously assaulted and slain at Egae by Pausanias, the son of
@@ -27008,20 +24456,13 @@ About this time it was that Jaddua the high priest died, and Onias his
 son took the high priesthood. This was the state of the affairs of the
 people of Jerusalem at this time.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ This Cyrus is called God's shepherd by Xenophon, as well as
 by Isaiah, Isaiah 44:28; as also it is said of him by the same prophet,
 that "I will make a man more precious than fine gold, even a man than
 the golden wedge of Ophir," Isaiah 13:12, which character makes
 Xenophon's most excellent history of him very credible.]
-
 
 2 (return) [ This leave to build Jerusalem, sect. 3, and this epistle of
 Cyrus to Sisinnes and Sathrabuzanes, to the same purpose, are most
@@ -27036,11 +24477,9 @@ concerned his giving leave or commission for rebuilding the city
 Jerusalem as distinct from the temple, whose rebuilding is alone
 permitted or directed in the decree of Cyrus in all our copies.]
 
-
 3 (return) [ Of the true number of golden and silver vessels here and
 elsewhere belonging to the temple of Solomon, see the description of the
 temples, chap. 13.]
-
 
 4 (return) [ Josephus here follows Herodotus, and those that related how
 Cyrus made war with the Scythians and Massagets, near the Caspian Sea,
@@ -27058,7 +24497,6 @@ Cyrus, according to Xenophon, p. 644, and conquered that kingdom; nor is
 there, that I ever heard of, the least mention in the reign of Cambyses
 of any war against the Scythians and Massagets that he was ever engaged
 in all his life.]
-
 
 5 (return) [ The reader is to note, that although the speeches or papers
 of these three of the king's guard are much the same, in our Third Book
@@ -27083,7 +24521,6 @@ God, the God of Israel." To which doctrine, such as Cyrus and Darius;
 etc., the Jews' great patrons, seem not to have been very averse, though
 the entire idolatry of their kingdoms made them generally conceal it.]
 
-
 6 (return) [ This strange reading in Josephus's present copies of four
 millions instead of forty thousand, is one of the grossest errors that
 is in them, and ought to be corrected from Ezra 2:61; 1 Esd. 5:40; and
@@ -27101,16 +24538,13 @@ laws of Moses. The "certain part" of the people that now came up from
 Babylon, at the end of this chapter, imply the same smaller number of
 Jews that now came up, and will no way agree with the four millions.]
 
-
 7 (return) [ The history contained in this section is entirely wanting
 in all our other copies, both of Ezra and Esdras.]
-
 
 8 (return) [ Dr. Hudson takes notice here, that this kind of brass or
 copper, or rather mixture of gold and brass or copper, was called
 aurichalcum, and that this was of old esteemed the most precious of all
 metals.]
-
 
 9 (return) [ This procedure of Esdras, and of the best part of the
 Jewish nation, after their return from the Babylonish captivity, of
@@ -27126,17 +24560,14 @@ motives, are suffered to take place instead of the Divine laws, and so
 the blessing of God is forfeited, and the church still suffered to
 continue corrupt from one generation to another. See ch. 8. sect. 2.]
 
-
 10 (return) [ This Jewish feast of tabernacles was imitated in several
 heathen solemnities, as Spanheim here observes and proves. He also
 further observes presently, what great regard many heathens had to the
 monuments of their forefathers, as Nehemiah had here, sect. 6.]
 
-
 11 (return) [ This rule of Esdras, not to fast on a festival day, is
 quoted in the Apostolical Constitutions, B. V., as obtaining among
 Christians also.]
-
 
 12 (return) [ This miserable condition of the Jews, and their capital,
 must have been after the death of Esdras, their former governor, and
@@ -27145,7 +24576,6 @@ Jerusalem. Nor is that at all disagreeable to these histories in
 Josephus, since Esdras came on the seventh, and Nehemiah not till the
 twenty-fifth of Xerxes, at the interval of eighteen years.]
 
-
 13 (return) [ This showing king Xerxes's epistles to God, or laying them
 open before God in the temple, is very like the laying open the epistles
 of Sennacherib before him also by Hezekiah, 2 Kings 19:14; Isaiah 37:14,
@@ -27153,7 +24583,6 @@ although this last was for a memorial, to put him in mind of the
 enemies, in order to move the Divine compassion, and the present as a
 token of gratitude for mercies already received, as Hayercamp well
 observes on this place.]
-
 
 14 (return) [ It may not be very improper to remark here, with what an
 unusual accuracy Josephus determines these years of Xerxes, in which the
@@ -27169,7 +24598,6 @@ important points belonging to Christianity, viz. the explication of
 Daniel's seventy weeks, and the duration of our Savior's ministry, and
 the time of his death, in correspondence to those seventy weeks. See the
 Supplement to the Lit. Accorap. of Proph. p. 72.]
-
 
 15 (return) [ Since some skeptical persons are willing to discard this
 Book of Esther as no true history; and even our learned and judicious
@@ -27198,7 +24626,6 @@ related, but upon granting this Book of Esther, or sixth of Esdras, [as
 it is placed in some of the most ancient copies of the Vulgate,] to be a
 most true and certain history," etc.]
 
-
 16 (return) [ If the Chaldee paraphrast be in the right, that Artaxerxes
 intended to show Vashti to his guests naked, it is no wonder at all that
 she would not submit to such an indignity; but still if it were not so
@@ -27214,7 +24641,6 @@ any other nation ever had, we need not be further solicitous about the
 motives by which the king was induced to divorce Vashti, and marry
 Esther.]
 
-
 17 (return) [ Herodotus says that this law [against any one's coming
 uncalled to the kings of Persia when they were sitting on their thrones]
 was first enacted by Deioces [i.e. by him who first withdrew the Medes
@@ -27222,7 +24648,6 @@ from the dominion of the Assyrians, and himself first reigned over
 them]. Thus also, lays Spanheim, stood guards, with their axes, about
 the throne of Tenus, or Tenudus, that the offender might by them be
 punished immediately.]
-
 
 18 (return) [ Whether this adoration required of Mordecai to Haman were
 by him deemed too like the adoration due only to God, as Josephus seems
@@ -27232,7 +24657,6 @@ sort of adoration to an Amalekite, which nation had been such great
 sinners as to have been universally devoted to destruction by God
 himself, Exodus 17:14-16; 1 Samuel 15:18, or whether both causes
 concurred, cannot now, I doubt, be certainly determined.]
-
 
 19 (return) [ The true reason why king Artaxerxes did not here properly
 revoke his former barbarous decree for the universal slaughter of the
@@ -27245,7 +24669,6 @@ could not be changed, but remained unalterable, Daniel 6:7-9, 12, 15,
 perhaps have himself signed this decree for the Jews' slaughter instead
 of the ancient lords, and so might have rendered it by their rules
 irrevocable.]
-
 
 20 (return) [ These words give an intimation as if Artaxerxes suspected
 a deeper design in Haman than openly appeared, viz. that knowing the
@@ -27260,7 +24683,6 @@ must be on some great occasion, were Amalekites, their old and
 hereditary enemies, Exodus 17:14, 15; and that thereby was fulfilled
 Balaam's prophecy, "Amalek was the first of the nations, but his latter
 end shall be, that he perish for ever" Numbers 24:20.]
-
 
 21 (return) [ Take here part of Reland's note on this disputed passage:
 "In Josephus's copies these Hebrew words, 'days of Purim,' or 'lots,' as
@@ -27281,7 +24703,6 @@ whatsoever related to his worship; nor do we know that there ever was so
 imperfect a copy of it in the world till after the days of Barchochab,
 in the second century.]
 
-
 22 (return) [ Concerning this other Artaxerxes, called Muemon, and the
 Persian affliction and captivity of the Jews under him, occasioned by
 the murder of the high priest's brother in the holy house itself, see
@@ -27301,27 +24722,13 @@ mentioned this other Artaxerxes, unless Bagoses, one of the governors
 and commanders under him, had occasioned the pollution of the Jewish
 temple, and had greatly distressed the Jews upon that pollution.]
 
-
 23 (return) [ The place showed Alexander might be Daniel 7:6; 8:3-8,
 20—22; 11:3; some or all of them very plain predictions of Alexander's
 conquests and successors.]
 
+## BOOK XII. Containing The Interval Of A Hundred And Seventy Years.—From The Death Of Alexander The Great To The Death Of Judas Maccabeus
 
-
-
-
-
-BOOK XII. Containing The Interval Of A Hundred And Seventy Years.—From
-The Death Of Alexander The Great To The Death Of Judas Maccabeus.
-
-
-
-
-
-
-CHAPTER 1. How Ptolemy The Son Of Lagus Took Jerusalem And Judea By
-Deceit And Treachery, And Carried Many Thence, And Planted Them In
-Egypt.
+### CHAPTER 1. How Ptolemy The Son Of Lagus Took Jerusalem And Judea By Deceit And Treachery, And Carried Many Thence, And Planted Them In Egypt
 
 1. Now when Alexander, king of Macedon, had put an end to the dominion
 of the Persians, and had settled the affairs in Judea after the
@@ -27370,14 +24777,7 @@ while those of Jerusalem said that their temple was holy, and resolved
 to send their sacrifices thither; but the Samaritans were resolved that
 they should be sent to Mount Gerizzim.
 
-
-
-
-
-
-CHAPTER 2. How Ptolemy Philadelphus Procured The Laws Of The Jews To Be
-Translated Into The Greek Tongue And Set Many Captives Free, And
-Dedicated Many Gifts To God.
+### CHAPTER 2. How Ptolemy Philadelphus Procured The Laws Of The Jews To Be Translated Into The Greek Tongue And Set Many Captives Free, And Dedicated Many Gifts To God
 
 1. When Alexander had reigned twelve years, and after him Ptolemy Soter
 forty years, Philadelphus then took the kingdom of Egypt, and held it
@@ -27907,13 +25307,7 @@ a conversation with men of such learning, and should be very willing to
 lay out his wealth upon such men. And this was what came to the Jews,
 and was much to their glory and honor, from Ptolemy Philadelphus.
 
-
-
-
-
-
-CHAPTER 3. How The Kings Of Asia Honored The Nation Of The Jews And Made
-Them Citizens Of Those Cities Which They Built.
+### CHAPTER 3. How The Kings Of Asia Honored The Nation Of The Jews And Made Them Citizens Of Those Cities Which They Built
 
 1. The Jews also obtained honors from the kings of Asia when they became
 their auxiliaries; for Seleucus Nicator made them citizens in those
@@ -28087,15 +25481,7 @@ have any disturbance given them by any one." Now these testimonials
 which I have produced are sufficient to declare the friendship that
 Antiochus the Great bare to the Jews.
 
-
-
-
-
-
-CHAPTER 4. How Antiochus Made A League With Ptolemy And How Onias
-Provoked Ptolemy Euergetes To Anger; And How Joseph Brought All Things
-Right Again, And Entered Into Friendship With Him; And What Other Things
-Were Done By Joseph, And His Son Hyrcanus.
+### CHAPTER 4. How Antiochus Made A League With Ptolemy And How Onias Provoked Ptolemy Euergetes To Anger; And How Joseph Brought All Things Right Again, And Entered Into Friendship With Him; And What Other Things Were Done By Joseph, And His Son Hyrcanus
 
 1. After this Antiochus made a friendship and league with Ptolemy, and
 gave him his daughter Cleopatra to wife, and yielded up to him
@@ -28468,17 +25854,7 @@ and brought to punishment for what he had done to the Arabians, he ended
 his life, and slew himself with his own hand; while Antiochus seized
 upon all his substance.
 
-
-
-
-
-
-CHAPTER 5. How, Upon The Quarrels One Against Another About The High
-Priesthood Antiochus Made An Expedition Against Jerusalem, Took The City
-And Pillaged The Temples. And Distressed The Jews' As Also How Many Of
-The Jews Forsook The Laws Of Their Country; And How The Samaritans
-Followed The Customs Of The Greeks And Named Their Temple At Mount
-Gerizzim The Temple Of Jupiter Hellenius.
+### CHAPTER 5. How, Upon The Quarrels One Against Another About The High Priesthood Antiochus Made An Expedition Against Jerusalem, Took The City And Pillaged The Temples. And Distressed The Jews' As Also How Many Of The Jews Forsook The Laws Of Their Country; And How The Samaritans Followed The Customs Of The Greeks And Named Their Temple At Mount Gerizzim The Temple Of Jupiter Hellenius
 
 1. About this time, upon the death of Onias the high priest, they gave
 the high priesthood to Jesus his brother; for that son which Onias left
@@ -28613,15 +25989,7 @@ be named the Temple of Jupiter Hellenius." He also sent the like epistle
 to Apollonius, the governor of that part of the country, in the forty-
 sixth year, and the eighteenth day of the month Hecatorabeom.
 
-
-
-
-
-
-CHAPTER 6. How, Upon Antiochus's Prohibition To The Jews To Make Use Of
-The Laws Of Their Country Mattathias, The Son Of Asamoneus, Alone
-Despised The King, And Overcame The Generals Of Antiochus's Army; As
-Also Concerning The Death Of Mattathias, And The Succession Of Judas.
+### CHAPTER 6. How, Upon Antiochus's Prohibition To The Jews To Make Use Of The Laws Of Their Country Mattathias, The Son Of Asamoneus, Alone Despised The King, And Overcame The Generals Of Antiochus's Army; As Also Concerning The Death Of Mattathias, And The Succession Of Judas
 
 1. Now at this time there was one whose name was Mattathias, who dwelt
 at Modin, the son of John, the son of Simeon, the son of Asamoneus, a
@@ -28726,15 +26094,7 @@ of others, Judas cast their enemies out of the country, and put those of
 their own country to death who had transgressed its laws, and purified
 the land of all the pollutions that were in it.
 
-
-
-
-
-
-CHAPTER 7. How Judas Overthrew The Forces Of Apollonius And Seron And
-Killed The Generals Of Their Armies Themselves; And How When, A Little
-While Afterwards Lysias And Gorgias Were Beaten He Went Up To Jerusalem
-And Purified The Temple.
+### CHAPTER 7. How Judas Overthrew The Forces Of Apollonius And Seron And Killed The Generals Of Their Armies Themselves; And How When, A Little While Afterwards Lysias And Gorgias Were Beaten He Went Up To Jerusalem And Purified The Temple
 
 1. When Apollonius, the general of the Samaritan forces, heard this, he
 took his army, and made haste to go against Judas, who met him, and
@@ -28932,15 +26292,7 @@ enemies, and set guards therein. He also fortified the city Bethsura,
 that it might serve as a citadel against any distresses that might come
 from our enemies.
 
-
-
-
-
-
-CHAPTER 8. How Judas Subdued The Nations Round About; And How Simon Beat
-The People Of Tyre And Ptolemais; And How Judas Overcame Timotheus, And
-Forced Him To Fly Away, And Did Many Other Things After Joseph And
-Azarias Had Been Beaten.
+### CHAPTER 8. How Judas Subdued The Nations Round About; And How Simon Beat The People Of Tyre And Ptolemais; And How Judas Overcame Timotheus, And Forced Him To Fly Away, And Did Many Other Things After Joseph And Azarias Had Been Beaten
 
 1. When these things were over, the nations round about the Jews were
 very uneasy at the revival of their power, and rose up together, and
@@ -29070,14 +26422,7 @@ the foreigners, and the city Marissa. They came also to Ashdod, and took
 it, and laid it waste, and took away a great deal of the spoils and prey
 that were in it, and returned to Judea.
 
-
-
-
-
-
-CHAPTER 9. Concerning The Death Of Antiochus Epiphane. How Antiochus
-Eupator Fought Against Juda And Besieged Him In The Temple And
-Afterwards Made Peace With Him And Departed; Of Alcimus And Onias.
+### CHAPTER 9. Concerning The Death Of Antiochus Epiphane. How Antiochus Eupator Fought Against Juda And Besieged Him In The Temple And Afterwards Made Peace With Him And Departed; Of Alcimus And Onias
 
 1. About this time it was that king Antiochus, as he was going over the
 upper countries, heard that there was a very rich city in Persia, called
@@ -29248,16 +26593,7 @@ obtained a place in the Nomus of Heliopolis, wherein he built a temple
 like to that at Jerusalem; of which therefore we shall hereafter give an
 account, in a place more proper for it.
 
-
-
-
-
-
-CHAPTER 10. How Bacchides, The General Of Demetrius's Army, Made An
-Expedition Against Judea, And Returned Without Success; And How Nicanor
-Was Sent A Little Afterward Against Judas And Perished, Together With
-His Army; As Also Concerning The Death Of Alcimus And The Succession Of
-Judas.
+### CHAPTER 10. How Bacchides, The General Of Demetrius's Army, Made An Expedition Against Judea, And Returned Without Success; And How Nicanor Was Sent A Little Afterward Against Judas And Perished, Together With His Army; As Also Concerning The Death Of Alcimus And The Succession Of Judas
 
 1. About the same time Demetrius, the son of Seleucus, fled away from
 Rome, and took Tripoli, a city of Syria, and set the diadem on his own
@@ -29412,13 +26748,7 @@ written by Eupolemus the son of John, and by Jason the son of Eleazar,
 general of the army. And this was the first league that the Romans made
 with the Jews, and was managed after this manner.
 
-
-
-
-
-
-CHAPTER 11. That Bacchides Was Again Sent Out Against Judas; And How
-Judas Fell As He Was Courageously Fighting.
+### CHAPTER 11. That Bacchides Was Again Sent Out Against Judas; And How Judas Fell As He Was Courageously Fighting
 
 1. But when Demetrius was informed of the death of Nicanor, and of the
 destruction of the army that was with him, he sent Bacchides again with
@@ -29484,18 +26814,11 @@ gaining freedom for his nation, and delivering them from slavery under
 the Macedonians. And when he had retained the high priesthood three
 years, he died.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ Here Josephus uses the very word koinopltagia, "eating
 things common," for "eating things unclean;" as does our New Testament,
 Acts 10:14, 15, 28; 11:8, 9; Romans 14:14.]
-
 
 2 (return) [ The great number of these Jews and Samaritans that were
 formerly carried into Egypt by Alexander, and now by Ptolemy the son of
@@ -29514,7 +26837,6 @@ whom the Arabic geographer speaks of as having seized on an island in
 the Red Sea, are remains of them at this very day, as the notes here
 inform us.]
 
-
 3 (return) [ Of the translation of the other parts of the Old Testament
 by seventy Egyptian Jews, in the reigns of Ptolemy the son of Lagus, and
 Philadelphus; as also of the translation of the Pentateuch by seventy-
@@ -29522,7 +26844,6 @@ two Jerusalem Jews, in the seventh year of Philadelphus at Alexandria,
 as given us an account of by Aristeus, and thence by Philo and Josephus,
 with a vindication of Aristeus's history; see the Appendix to Lit.
 Accorap. of Proph. at large, p. 117—152.]
-
 
 4 (return) [ Although this number one hundred and twenty drachmeae [of
 Alexandria, or sixty Jewish shekels] be here three times repeated, and
@@ -29539,12 +26860,10 @@ of these Jewish slaves, and those so very numerous, Philadelphus would
 rather redeem them at a cheaper than at a dearer rate;—there is great
 reason to prefer here Aristeus's copies before Josephus's.]
 
-
 5 (return) [ We have a very great encomium of this Simon the Just, the
 son of Onias, in the fiftieth chapter of the Ecclesiasticus, through the
 whole chapter. Nor is it improper to consult that chapter itself upon
 this occasion.]
-
 
 6 (return) [ When we have here and presently mention made of
 Philadelphus's queen and sister Arsinoe, we are to remember, with
@@ -29554,11 +26873,9 @@ Assyrians long afterwards. See Antiq. B. XX. ch. 2. sect. 1. Whence we
 have, upon the coins of Philadelphus, this known inscription, "The
 divine brother and sister."]
 
-
 7 (return) [ The Talmudists say, that it is not lawful to write the law
 in letters of gold, contrary to this certain and very ancient example.
 See Hudson's and Reland's notes here.]
-
 
 8 (return) [ This is the most ancient example I have met with of a
 grace, or short prayer, or thanksgiving before meat; which, as it is
@@ -29571,10 +26888,8 @@ or prayer for Christians, at the end of the fifth book of the
 Apostolical Constitutions, which seems to have been intended for both
 times, both before and after meat.]
 
-
 9 (return) [ They were rather political questions and answers, tending
 to the good and religious government of mankind.]
-
 
 10 (return) [ This purification of the interpreters, by washing in the
 sea, before they prayed to God every morning, and before they set about
@@ -29583,7 +26898,6 @@ apostle, in the Recognitions of Clement, B. IV. ch. 3., and B. V. ch.
 36., and with the places of the Proseuchre, or of prayer, which were
 sometimes built near the sea or rivers also; of which matter see Antiq.
 B. XIV. ch. 10. sect. 9,3; Acts 16:13. 16.]
-
 
 11 (return) [ The use of oil was much greater, and the donatives of it
 much more valuable, in Judea, and the neighboring countries, than it is
@@ -29595,7 +26909,6 @@ oil,: they paid them money instead of it. See Of the War, B. II. ch. 21.
 sect. 2; the Life of Josephus, sect. 13; and Hudson's note on the place
 before us.]
 
-
 12 (return) [ This, and the like great and just characters, of the
 justice, and equity, and generosity of the old Romans, both to the Jews
 and other conquered nations, affords us a very good reason why Almighty
@@ -29604,13 +26917,11 @@ his people, and first established Christianity in that empire; of which
 matter see Josephus here, sect. 2; as also Antiq. B. XIV. ch. 10. sect.
 22, 23; B. XVI. ch. 2. sect. 4.]
 
-
 13 (return) [ The name of this place, Phicol, is the very same with that
 of the chief captain of Abimelech's host, in the days of Abraham,
 Genesis 21:22, and might possibly be the place of that Phicol's nativity
 or abode, for it seems to have been in the south part of Palestine, as
 that was.]
-
 
 14 (return) [ Whence it comes that these Lacedemonians declare
 themselves here to be of kin to the Jews, as derived from the same
@@ -29632,14 +26943,12 @@ improper to observe further, that Moses Chorenensis, in his history of
 the Armenians, informs us, that the nation of the Parthians was also
 derived from Abraham by Keturah and her children.]
 
-
 15 (return) [ This word" Gymnasium" properly denotes a place where the
 exercises were performed naked, which because it would naturally
 distinguish circumcised Jews from uncircumcised Gentiles, these Jewish
 apostates endeavored to appear uncircumcised, by means of a surgical
 operation, hinted at by St. Paul, 1 Corinthians 7:18, and described by
 Celsus, B. VII. ch. 25., as Dr. Hudson here informs us.]
-
 
 16 (return) [ Hereabout Josephus begins to follow the First Book of the
 Maccabees, a most excellent and most authentic history; and accordingly
@@ -29648,7 +26957,6 @@ whose present copies there seem to be fewer variations than in any other
 sacred Hebrew book of the Old Testament whatsoever, [for this book also
 was originally written in Hebrew,] which is very natural, because it was
 written so much nearer to the times of Josephus than the rest were.]
-
 
 17 (return) [ This citadel, of which we have such frequent mention in
 the following history, both in the Maccabees and Josephus, seems to have
@@ -29661,12 +26969,10 @@ ground, that their enemies might no more recover it, and might thence
 overlook the temple itself, and do them such mischief as they had long
 undergone from it, Antiq. B. XIII. ch. 6. sect. 6.]
 
-
 18 (return) [ This allegation of the Samaritans is remarkable, that
 though they were not Jews, yet did they, from ancient times, observe the
 Sabbath day, and, as they elsewhere pretend, the Sabbatic year also,
 Antiq. B. XI. ch. 8. sect. 6.]
-
 
 19 (return) [ That this appellation of Maccabee was not first of all
 given to Judas Maccabeus, nor was derived from any initial letters of
@@ -29677,20 +26983,17 @@ may note, by the way, that the original name of these Maccabees, and
 their posterity, was Asamoneans; which was derived from Asamoneus, the
 great-grandfather of Mattathias, as Josephus here informs us.]
 
-
 20 (return) [ The reason why Bethshah was called Scythopolis is well
 known from Herodotus, B. I. p. 105, and Syncellus, p. 214, that the
 Scythians, when they overran Asia, in the days of Josiah, seized on this
 city, and kept it as long as they continued in Asia, from which time it
 retained the name of Scythopolis, or the City of the Scythians.]
 
-
 21 (return) [ This most providential preservation of all the religious
 Jews in this expedition, which was according to the will of God, is
 observable often among God's people, the Jews; and somewhat very like it
 in the changes of the four monarchies, which were also providential. See
 Prideaux at the years 331, 333, and 334.]
-
 
 22 (return) [ Here is another great instance of Providence, that when,
 even at the very time that Simon, and Judas, and Jonathan were so
@@ -29699,7 +27002,6 @@ and religion, these other generals of the Jews, who went to fight for
 honor in a vain-glorious way, and without any commission from God, or
 the family he had raised up to deliver them, were miserably disappointed
 and defeated. See 1 Macc. 5:61, 62.]
-
 
 23 (return) [ Since St. Paul, a Pharisee, confesses that he had not
 known concupiscence, or desires, to be sinful, had not the tenth
@@ -29712,12 +27014,10 @@ either of God or man, for the bare intention, his words need not to be
 strained to mean, that sins intended, but not executed, were no sins at
 all.]
 
-
 24 (return) [ No wonder that Josephus here describes Antiochus Eupator
 as young, and wanting tuition, when he came to the crown, since Appian
 informs us [Footnote Syriac. p. 177: that he was then but nine years
 old.]
-
 
 25 (return) [ It is no way probable that Josephus would call Bacchidoa,
 that bitter and bloody enemy of the Jews, as our present copies have it,
@@ -29726,7 +27026,6 @@ Maccabees, whom Josephus here follows, instead of that character, says
 of him, is, that he was a great man in the kingdom, and faithful to his
 king; which was very probably Josephus's meaning also.]
 
-
 26 (return) [ Josephus's copies must have been corrupted when they here
 give victory to Nicanor, contrary to the words following, which imply
 that he who was beaten fled into the citadel, which for certain belonged
@@ -29734,7 +27033,6 @@ to the city of David, or to Mount Zion, and was in the possession of
 Nicanor's garrison, and not of Judas's. As also it is contrary to the
 express words of Josephus's original author, 1 Macc. 7:32, who says that
 Nicanor lost about five thousand men, and fled to the city of David.]
-
 
 27 (return) [ This account of the miserable death of Alcimus, or Jac-
 mus, the wicked high priest, [the first that was not of the family of
@@ -29748,13 +27046,11 @@ Romans at this time, see the notes in Havercamp's edition; only that the
 number of the senators of Rome was then just three hundred and twenty,
 is, I think, only known from 1 Macc. 8:15.]
 
-
 28 (return) [ This subscription is wanting 1 Macc. 8:17, 29, and must be
 the words of Josephus, who by mistake thought, as we have just now seen,
 that Judas was at this time high priest, and accordingly then reckoned
 his brother Jonathan to be the general of the army, which yet he seems
 not to have been till after the death of Judas.]
-
 
 29 (return) [ That this copy of Josephus, as he wrote it, had here not
 one thousand, but three thousand, with 1 Macc 9:5, is very plain,
@@ -29763,21 +27059,9 @@ well as in 1 Macc. 9:6, yet, as there, so here, eight hundred are said
 to have remained with Judas, which would be absurd, if the whole number
 had been no more than one thousand.]
 
+## BOOK XIII. Containing The Interval Of Eighty-Two Years.—From The Death Of Judas Maccabeus To The Death Of Queen Alexandra
 
-
-
-
-
-BOOK XIII. Containing The Interval Of Eighty-Two Years.—From The Death
-Of Judas Maccabeus To The Death Of Queen Alexandra.
-
-
-
-
-
-
-CHAPTER 1. How Jonathan Took The Government After His Brother Judas; And
-How He, Together With His Brother Simon, Waged War Against Bacchides.
+### CHAPTER 1. How Jonathan Took The Government After His Brother Judas; And How He, Together With His Brother Simon, Waged War Against Bacchides
 
 1. By what means the nation of the Jews recovered their freedom when
 they had been brought into slavery by the Macedonians, and what
@@ -29921,15 +27205,7 @@ and lived in the city Michmash; and there governed the multitude, and
 punished the wicked and ungodly, and by that means purged the nation of
 them.
 
-
-
-
-
-
-CHAPTER 2. How Alexander [Bala] In His War With Demetrius, Granted
-Jonathan Many Advantages And Appointed Him To Be High Priest And
-Persuaded Him To Assist Him Although Demetrius Promised Him Greater
-Advantages On The Other Side. Concerning The Death
+### CHAPTER 2. How Alexander [Bala] In His War With Demetrius, Granted Jonathan Many Advantages And Appointed Him To Be High Priest And Persuaded Him To Assist Him Although Demetrius Promised Him Greater Advantages On The Other Side. Concerning The Death
 
 Of Demetrius.
 
@@ -30065,13 +27341,7 @@ received so many wounds, that he was not able to bear up any longer, but
 fell. And this is the end that Demetrius came to, when he had reigned
 eleven years, 4 as we have elsewhere related.
 
-
-
-
-
-
-CHAPTER 3. The Friendship That Was Between Onias And Ptolemy Philometor;
-And How Onias Built A Temple In Egypt Like To That At Jerusalem.
+### CHAPTER 3. The Friendship That Was Between Onias And Ptolemy Philometor; And How Onias Built A Temple In Egypt Like To That At Jerusalem
 
 1. But then the son of Onias the high priest, who was of the same name
 with his father, and who fled to king Ptolemy, who was called
@@ -30159,14 +27429,7 @@ was built according to the laws of Moses, 6 and to put Sabbeus and
 Theodosius to death. And these were the events that befell the Jews at
 Alexandria in the days of Ptolemy Philometor.
 
-
-
-
-
-
-CHAPTER 4. How Alexander Honored Jonathan After An Extraordinary Manner;
-And How Demetrius, The Son Of Demetrius, Overcame Alexander And Made A
-League Of Friendship With Jonathan.
+### CHAPTER 4. How Alexander Honored Jonathan After An Extraordinary Manner; And How Demetrius, The Son Of Demetrius, Overcame Alexander And Made A League Of Friendship With Jonathan
 
 1. Demetrius being thus slain in battle, as we have above related,
 Alexander took the kingdom of Syria; and wrote to Ptolemy Philometor,
@@ -30411,14 +27674,7 @@ before him used to pay them in time of peace as they did before, that
 they might have their good-will, and that they might be very ready to
 undergo the difficulties of war, if any occasion should require it.
 
-
-
-
-
-
-CHAPTER 5. How Trypho After He Had Beaten Demetrius Delivered The
-Kingdom To Antiochus The Son Of Alexander, And Gained Jonathan For His
-Assistant; And Concerning The Actions And Embassies Of Jonathan.
+### CHAPTER 5. How Trypho After He Had Beaten Demetrius Delivered The Kingdom To Antiochus The Son Of Alexander, And Gained Jonathan For His Assistant; And Concerning The Actions And Embassies Of Jonathan
 
 1. Now there was a certain commander of Alexander's forces, an Apanemian
 by birth, whose name was Diodotus, and was also called Trypho, took
@@ -30703,14 +27959,7 @@ the people of that country received him with great alacrity. So he
 raised forces, with which he fought against Arsaces, and lost all his
 army, and was himself taken alive, as we have elsewhere related.
 
-
-
-
-
-
-CHAPTER 6. How Jonathan Was Slain By Treachery; And How Thereupon The
-Jews Made Simon Their General And High Priest: What Courageous Actions
-He Also Performed Especially Against Trypho.
+### CHAPTER 6. How Jonathan Was Slain By Treachery; And How Thereupon The Jews Made Simon Their General And High Priest: What Courageous Actions He Also Performed Especially Against Trypho
 
 1. Now when Trypho knew what had befallen Demetrius, he was no longer
 firm to Antiochus, but contrived by subtlety to kill him, and then take
@@ -30884,15 +28133,7 @@ rest of the city. After which the temple was the highest of all the
 buildings, now the citadel, as well as the mountain whereon it stood,
 were demolished. And these actions were thus performed under Simon.
 
-
-
-
-
-
-CHAPTER 7. How Simon Confederated Himself With Antiochus Pius, And Made
-War Against Trypho, And A Little Afterward, Against Cendebeus, The
-General Of Antiochus's Army; As Also How Simon Was Murdered By His Son-
-In-Law Ptolemy, And That By Treachery.
+### CHAPTER 7. How Simon Confederated Himself With Antiochus Pius, And Made War Against Trypho, And A Little Afterward, Against Cendebeus, The General Of Antiochus's Army; As Also How Simon Was Murdered By His Son- In-Law Ptolemy, And That By Treachery
 
 1. 15 Now a little while after Demetrius had been carried into
 captivity, Trypho his governor destroyed Antiochus, 16 the son of
@@ -30961,14 +28202,7 @@ multitude bare to Ptolemy; so that when Ptolemy was endeavoring to enter
 the city by another gate, they drove him away, as having already
 admitted Hyrcanus.
 
-
-
-
-
-
-CHAPTER 8. Hyrcanus Receives The High Priesthood, And Ejects Ptolemy Out
-Of The Country. Antiochus Makes War Against Hyrcanus And Afterwards
-Makes A League With Him.
+### CHAPTER 8. Hyrcanus Receives The High Priesthood, And Ejects Ptolemy Out Of The Country. Antiochus Makes War Against Hyrcanus And Afterwards Makes A League With Him
 
 1. So Ptolemy retired to one of the fortresses that was above Jericho,
 which was called Dagon. But Hyrcanus having taken the high priesthood
@@ -31084,14 +28318,7 @@ the permission of Arsaces, who freed him from his captivity at the same
 time that Antiochus attacked Parthia, as we have formerly related
 elsewhere.
 
-
-
-
-
-
-CHAPTER 9. How, After The Death Of Antiochus, Hyrcanus Made An
-Expedition Against Syria, And Made A League With The Romans. Concerning
-The Death Of King Demetrius And Alexander.
+### CHAPTER 9. How, After The Death Of Antiochus, Hyrcanus Made An Expedition Against Syria, And Made A League With The Romans. Concerning The Death Of King Demetrius And Alexander
 
 1. But when Hyrcanus heard of the death of Antiochus, he presently made
 an expedition against the cities of Syria, hoping to find them destitute
@@ -31164,15 +28391,7 @@ Alexander took the kingdom, and made a league with Hyrcanus, who yet,
 when he afterward fought with Antiochus the son of Demetrius, who was
 called Grypus, was also beaten in the fight, and slain.
 
-
-
-
-
-
-CHAPTER 10. How Upon The Quarrel Between Antiochus Grypus And Antiochus
-Cyzicenus About The Kingdom Hyrcanus Tooksamaria, And Utterly Demolished
-It; And How Hyrcanus Joined Himself To The Sect Of The Sadducees, And
-Left That Of The Pharisees.
+### CHAPTER 10. How Upon The Quarrel Between Antiochus Grypus And Antiochus Cyzicenus About The Kingdom Hyrcanus Tooksamaria, And Utterly Demolished It; And How Hyrcanus Joined Himself To The Sect Of The Sadducees, And Left That Of The Pharisees
 
 1. When Antiochus had taken the kingdom, he was afraid to make war
 against Judea, because he heard that his brother by the same mother, who
@@ -31322,15 +28541,7 @@ affairs; whose unhappy catastrophe will be worth our description, that
 we may thence learn how very much they were inferior to their father's
 happiness.
 
-
-
-
-
-
-CHAPTER 11. How Aristobulus, When He Had Taken The Government First Of
-All Put A Diadem On His Head, And Was Most Barbarously Cruel To His
-Mother And His Brethren; And How, After He Had Slain Antigonus, He
-Himself Died.
+### CHAPTER 11. How Aristobulus, When He Had Taken The Government First Of All Put A Diadem On His Head, And Was Most Barbarously Cruel To His Mother And His Brethren; And How, After He Had Slain Antigonus, He Himself Died
 
 1. Now when their father Hyrcanus was dead, the eldest son Aristobulus,
 intending to change the government into a kingdom, for so he resolved to
@@ -31434,17 +28645,7 @@ of candor, and very serviceable to the Jews; for he added a country to
 them, and obtained a part of the nation of the Itureans for them, and
 bound them to them by the bond of the circumcision of their genitals."
 
-
-
-
-
-
-CHAPTER 12. How Alexander When He Had Taken The Government Made An
-Expedition Against Ptolemais, And Then Raised The Siege Out Of Fear Of
-Ptolemy Lathyrus; And How Ptolemy Made War Against Him, Because He Had
-Sent To Cleopatra To Persuade Her To Make War Against Ptolemy, And Yet
-Pretended To Be In Friendship With Him, When He Beat The Jews In The
-Battle.
+### CHAPTER 12. How Alexander When He Had Taken The Government Made An Expedition Against Ptolemais, And Then Raised The Siege Out Of Fear Of Ptolemy Lathyrus; And How Ptolemy Made War Against Him, Because He Had Sent To Cleopatra To Persuade Her To Make War Against Ptolemy, And Yet Pretended To Be In Friendship With Him, When He Beat The Jews In The Battle
 
 1. When Aristobulus was dead, his wife Salome, who, by the Greeks, was
 called Alexandra, let his brethren out of prison, [for Aristobulus had
@@ -31575,15 +28776,7 @@ Nicholaus [of Damascus] affirm, that they used these people after this
 manner, as I have already related. Ptolemy also took Ptolemais by force,
 as we have declared elsewhere.
 
-
-
-
-
-
-CHAPTER 13. How Alexander, upon the League of Mutual Defense Which
-Cleopatra Had Agreed with Him, Made an Expedition Against Coelesyria,
-and Utterly Overthrew the City of Gaza; and How He Slew Many Ten
-Thousands of Jews That Rebelled Against Him.
+### CHAPTER 13. How Alexander, upon the League of Mutual Defense Which Cleopatra Had Agreed with Him, Made an Expedition Against Coelesyria, and Utterly Overthrew the City of Gaza; and How He Slew Many Ten Thousands of Jews That Rebelled Against Him
 
 Also Concerning Antiochus Grypus, Seleucus Antiochus Cyzicenus, and
 Antiochus Pius, and Others.
@@ -31720,15 +28913,7 @@ he had asked them what he ought to do, they all cried out, that he ought
 to kill himself. They also sent to Demetrius Eucerus, and desired him to
 make a league of mutual defense with them.
 
-
-
-
-
-
-CHAPTER 14. How Demetrius Eucerus Overcame Alexander And Yet In A Little
-Time Retired Out Of The Country For Fear; As Also How Alexander Slew
-Many Of The Jews And Thereby Got Clear Of His Troubles. Concerning The
-Death Of Demetrius.
+### CHAPTER 14. How Demetrius Eucerus Overcame Alexander And Yet In A Little Time Retired Out Of The Country For Fear; As Also How Alexander Slew Many Of The Jews And Thereby Got Clear Of His Troubles. Concerning The Death Of Demetrius
 
 1. So Demetrius came with an army, and took those that invited him, and
 pitched his camp near the city Shechem; upon which Alexander, with his
@@ -31790,15 +28975,7 @@ had Demetrius in great honor, till Demetrius ended his life by sickness.
 So Philip, presently after the fight was over, came to Antioch, and took
 it, and reigned over Syria.
 
-
-
-
-
-
-CHAPTER 15. How Antiochus, Who Was Called Dionysus, And After Him Aretas
-Made Expeditions Into Judea; As Also How Alexander Took Many Cities And
-Then Returned To Jerusalem, And After A Sickness Of Three Years Died;
-And What Counsel He Gave To Alexandra.
+### CHAPTER 15. How Antiochus, Who Was Called Dionysus, And After Him Aretas Made Expeditions Into Judea; As Also How Alexander Took Many Cities And Then Returned To Jerusalem, And After A Sickness Of Three Years Died; And What Counsel He Gave To Alexandra
 
 1. After this, Antiochus, who was called Dionysus, 41 and was Philip's
 brother, aspired to the dominion, and came to Damascus, and got the
@@ -31897,14 +29074,7 @@ wilt rule in safety." 44 So when he had given his wife this advice, he
 died, after he had reigned twenty-seven years, and lived fifty years
 within one.
 
-
-
-
-
-
-CHAPTER 16. How Alexandra By Gaining The Good-Will Of The Pharisees,
-Retained The Kingdom Nine Years, And Then, Having Done Many Glorious
-Actions Died.
+### CHAPTER 16. How Alexandra By Gaining The Good-Will Of The Pharisees, Retained The Kingdom Nine Years, And Then, Having Done Many Glorious Actions Died
 
 1. So Alexandra, when she had taken the fortress, acted as her husband
 had suggested to her, and spake to the Pharisees, and put all things
@@ -32065,13 +29235,7 @@ her death with calamities and disturbance. However, although this had
 been her way of governing, she preserved the nation in peace. And this
 is the conclusion of the affairs of, Alexandra.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ This Alexander Bala, who certainly pretended to be the son
 of Antiochus Epiphanes, and was owned for such by the Jews and Romans,
@@ -32088,7 +29252,6 @@ in marriage, which he would hardly have done, had he believed him to be
 a counterfeit, and of so very mean a birth as the later historians
 pretend.]
 
-
 2 (return) [ Since Jonathan plainly did not put on the pontifical robes
 till seven or eight years after the death of his brother Judas, or not
 till the feast of tabernacles, in the 160th of the Seleucidm, 1 Macc.
@@ -32100,17 +29263,14 @@ Maccabees, and with Josephus's own exact chronology at the end of the
 twentieth book of these Antiquities, which the present text cannot be
 made to do.]
 
-
 3 (return) [ Take Grotius's note here: "The Jews," says he, "were wont
 to present crowns to the kings [of Syria]; afterwards that gold which
 was paid instead of those crowns, or which was expended in making them,
 was called the crown gold and crown tax." On 1 Macc. 10:29.]
 
-
 4 (return) [ Since the rest of the historians now extant give this
 Demetrius thirteen years, and Josephus only eleven years, Dean Prideaux
 does not amiss in ascribing to him the mean number twelve.]
-
 
 5 (return) [ It seems to me contrary to the opinion of Josephus, and of
 the moderns, both Jews and Christians, that this prophecy of Isaiah,
@@ -32151,7 +29311,6 @@ seeing this corruption of the Hebrew; but it being in support of his own
 opinion about this temple, he durst not see it; and indeed he reasons
 here in the most injudicious manner possible. See him at the year 149.]
 
-
 6 (return) [ A very unfair disputation this! while the Jewish disputant,
 knowing that he could not properly prove out of the Pentateuch, that
 "the place which the Lord their God shall choose to place his name
@@ -32175,7 +29334,6 @@ the Jews' side; but the firstraying answered to his name, and overcome
 the Samaritans, there was necessity for any other defender of the
 Jerusalem temple.]
 
-
 7 (return) [ Of the several Apollonius about these ages, see Dean
 Prideaux at the year 148. This Apollonius Daus was, by his account, the
 son of that Apollonius who had been made governor of Celesyria and
@@ -32184,17 +29342,14 @@ Demetrius the father, and restored to his father's government by him,
 but afterwards revolted from him to Alexander; but not to Demetrius the
 son, as he supposes.]
 
-
 8 (return) [ Dr. Hudson here observes, that the Phoenicians and Romans
 used to reward such as had deserved well of them, by presenting to them
 a golden button. See ch. 5. sect. 4.]
-
 
 9 (return) [ This name, Demetrius Nicator, or Demetrius the conqueror,
 is so written on his coins still extant, as Hudson and Spanheim inform
 us; the latter of whom gives us here the entire inscription, "King
 Demetrius the God, Philadelphus, Nicator."]
-
 
 10 (return) [ This clause is otherwise rendered in the First Book of
 Maccabees, 12:9, "For that we have the holy books of Scripture in our
@@ -32204,7 +29359,6 @@ Josephus. But if this were the Jews' meaning, that they were satisfied
 out of their Bible that the Jews and Lacedemonians were of kin, that
 part of their Bible is now lost, for we find no such assertion in our
 present copies.]
-
 
 11 (return) [ Those that suppose Josephus to contradict himself in his
 three several accounts of the notions of the Pharisees, this here, and
@@ -32229,7 +29383,6 @@ fully allowed the freedom of human actions, and yet strongly believed
 the powerful interposition of Divine Providence. See concerning this
 matter a remarkable clause, Antiq. B. XVI. ch. 11. sect. 7.]
 
-
 12 (return) [ This king, who was of the famous race of Arsaces, is
 bethused to call them; but by the elder author of the First Maccahere,
 and 1 Macc. 14:2, called by the family name Arsaces; was, the king of
@@ -32237,7 +29390,6 @@ the Persians and Medes, according to the land but Appion says his proper
 name was Phraates. He is language of the Eastern nations. See Authent.
 Rec. Part II. also called by Josephus the king of the Parthians, as the
 Greeks p. 1108.]
-
 
 13 (return) [ There is some error in the copies here, when no more than
 four years are ascribed to the high priesthood of Jonathan. We know by
@@ -32252,7 +29404,6 @@ these two seven years will make up fourteen years, which I suppose was
 Josephus's own number in this place, instead of the four in our present
 copies.]
 
-
 14 (return) [ These one hundred and seventy years of the Assyrians mean
 no more, as Josephus explains himself here, than from the sara of
 Seleucus, which as it is known to have began on the 312th year before
@@ -32266,7 +29417,6 @@ says that "the Assyrians were afterward called Syrian." B. I. ch. 11.
 See Of the War, B. V. ch. 9. sect. 4, where the Philistines themselves,
 at the very south limit of Syria, in its utmost extent, are called
 Assyrians by Josephus as Spanheim observes.]
-
 
 15 (return) [ It must here be diligently noted, that Josephus's copy of
 the First Book of Maccabees, which he had so carefully followed, and
@@ -32301,19 +29451,16 @@ rather suppose that his copy of the Maccabees wanted these chapters,
 than that his own copies are here imperfect, is this, that all their
 contents are not here omitted, though much the greatest part be.]
 
-
 16 (return) [ How Trypho killed this Antiochus the epitome of Livy
 informs us, ch. 53, viz. that he corrupted his physicians or surgeons,
 who falsely pretending to the people that he was perishing with the
 stone, as they cut him for it, killed him, which exactly agrees with
 Josephus.]
 
-
 17 (return) [ That this Antiochus, the son of Alexander Balas, was
 called "The God," is evident from his coins, which Spanheim assures us
 bear this inscription, "King Antiochus the God, Epiphanes the
 Victorious."]
-
 
 18 (return) [ Here Josephus begins to follow and to abridge the next
 sacred Hebrew book, styled in the end of the First Book of Maccabees,
@@ -32324,7 +29471,6 @@ and Sixtus Senensis, at Lyons, though it seems to have been there burnt,
 and to be utterly lost. See Sixtus Senensis's account of it, of its many
 Hebraisms, and its great agreement with Josephus's abridgement, in the
 Authent. Rec. Part I. p. 206, 207, 208.]
-
 
 19 (return) [ Hence we learn, that in the days of this excellent high
 priest, John Hyrcanus, the observation of the Sabbatic year, as Josephus
@@ -32341,13 +29487,11 @@ fighting on the Sabbath day, even in the defense of their own lives,
 till the Asamoneans or Maccabees decreed so to do, 1 Macc. 2:32-41;
 Antiq. B. XII. ch. 6. sect. 2.]
 
-
 20 (return) [ Josephus's copies, both Greek and Latin, have here a gross
 mistake, when they say that this first year of John Hyrcanus, which we
 have just now seen to have been a Sabbatic year, was in the 162nd
 olympiad, whereas it was for certain the second year of the 161st. See
 the like before, B. XII. ch. 7. sect. 6.]
-
 
 21 (return) [ This heliacal setting of the Pleiades, or seven stars,
 was, in the days of Hyrcanus and Josephus, early in the spring, about
@@ -32358,23 +29502,19 @@ Josephus; the Jews being little accustomed to astronomical observations,
 any further than for the uses of their calendar, and utterly forbidden
 those astrological uses which the heathens commonly made of them.]
 
-
 22 (return) [ Dr. Hudson tells us here, that this custom of gilding the
 horns of those oxen that were to be sacrificed is a known thing both in
 the poets and orators.]
-
 
 23 (return) [ This account in Josephus, that the present Antiochus was
 persuaded, though in vain, not to make peace with the Jews, but to cut
 them off utterly, is fully confirmed by Diodorus Siculus, in Photiua's
 extracts out of his 34th Book.]
 
-
 24 (return) [ The Jews were not to march or journey on the sabbath, or
 on such a great festival as was equivalent to the sabbath, any farther
 than a sabbath day's journey, or two thousand cubits, see the note on
 Antiq. B. XX. ch. 8. sect. 6.]
-
 
 25 (return) [ This account of the Idumeans admitting circumcision, and
 the entire Jewish law, from this time, or from the days of Hyrcanus, is
@@ -32404,18 +29544,15 @@ was the peculiar inheritance of the worshippers of the true God without
 idolatry, as the reader may learn from Reland, Palestine, Part I. p.
 154, 305; and from Prideaux, at the years 140 and 165.]
 
-
 26 (return) [ In this decree of the Roman senate, it seems that these
 ambassadors were sent from the "people of the Jews," as well as from
 their prince or high priest, John Hyrcanus.]
-
 
 27 (return) [ Dean Prideaux takes notice at the year 130, that Justin,
 in agreement with Josephus, says, "The power of the Jews was now grown
 so great, that after this Antiochus they would not bear any Macedonian
 king over them; and that they set up a government of their own, and
 infested Syria with great wars."]
-
 
 28 (return) [ The original of the Sadducees, as a considerable party
 among the Jews, being contained in this and the two following sections,
@@ -32434,13 +29571,11 @@ other particular than in the abolishing of all the traditionary
 constitutions of the Pharisees, which our Savior condemned as well as
 they." [At the year.]]
 
-
 29 (return) [ This slander, that arose from a Pharisee, has been
 preserved by their successors the Rabbins to these later ages; for Dr.
 Hudson assures us that David Gantz, in his Chronology, S. Pr. p. 77, in
 Vorstius's version, relates that Hyrcanus's mother was taken captive in
 Mount Modinth. See ch. 13. sect. 5.]
-
 
 30 (return) [ Here ends the high priesthood, and the life of this
 excellent person John Hyrcanus, and together with him the holy
@@ -32469,7 +29604,6 @@ next centuries, we may well suppose that the Divine Shechinah was
 removed into Egypt, and that the worshippers at the temple of Onias were
 better men than those at the temple of Jerusalem.]
 
-
 31 (return) [ Hence we learn that the Essens pretended to have ruled
 whereby men might foretell things to come, and that this Judas the Essen
 taught those rules to his scholars; but whether their pretense were of
@@ -32478,14 +29612,12 @@ were utterly forbidden such arts, is no way probable, or to any Bath
 Col, spoken of by the later Rabbins, or otherwise, I cannot tell. See Of
 the War, B. II. ch. 8. sect. 12.]
 
-
 32 (return) [ The reason why Hyrcanus suffered not this son of his whom
 he did not love to come into Judea, but ordered him to be brought up in
 Galilee, is suggested by Dr. Hudson, that Galilee was not esteemed so
 happy and well cultivated a country as Judea, Matthew 26:73; John 7:52;
 Acts 2:7, although another obvious reason occurs also, that he was out
 of his sight in Galilee than he would have been in Judea.]
-
 
 33 (return) [ From these, and other occasional expressions, dropped by
 Josephus, we may learn, that where the sacred hooks of the Jews were
@@ -32496,7 +29628,6 @@ compared to these accounts of Josephus, though when we do meet with
 authentic fragments of such original records, they almost always confirm
 his history.]
 
-
 34 (return) [ This city, or island, Cos, is not that remote island in
 the Aegean Sea, famous for the birth of the great Hippocrates, but a
 city or island of the same name adjoining to Egypt, mentioned both by
@@ -32504,10 +29635,8 @@ Stephanus and Ptolemy, as Dr. Mizon informs us. Of which Cos, and the
 treasures there laid up by Cleopatra and the Jews, see Antiq. B. XIV.
 ch. 7, sect. 2.]
 
-
 35 (return) [ This account of the death of Antiochus Grypus is confirmed
 by Appion, Syriac. p. 132, here cited by Spanheim.]
-
 
 36 (return) [ Porphyry says that this Antiochus Grypus reigned but
 twenty-six years, as Dr. Hudson observes. The copies of Josephus, both
@@ -32516,11 +29645,9 @@ Antoninus, or Antonius Plus, for Antiochus Pius, that the editors are
 forced to correct the text from the other historians, who all agree that
 this king's name was nothing more than Antiochus Plus.]
 
-
 37 (return) [ These two brothers, Antiochus and Philippus are called
 twins by Porphyry; the fourth brother was king of Damascus: both which
 are the observations of Spanheim.]
-
 
 38 (return) [ This Laodicea was a city of Gilead beyond Jordan. However,
 Porphyry says that this Antiochus Pius did not die in this battle; but,
@@ -32533,28 +29660,23 @@ reproach upon Alexander, that he was sprung from a captive, seems only
 the repetition of the old Pharisaical calumny upon his father, ch. 10.
 sect. 5.]
 
-
 39 (return) [ This Theodorus was the son of Zeno, and was in possession
 of Areathus, as we learn from sect. 3 foregoing.]
-
 
 40 (return) [ This name Thracida, which the Jews gave Alexander, must,
 by the coherence, denote as barbarous as a Thracian, or somewhat like
 it; but what it properly signifies is not known.]
-
 
 41 (return) [ Spanheim takes notice that this Antiochus Dionysus [the
 brother of Philip, and of Demetrius Eucerus, and of two others] was the
 fifth son of Antiochus Grypus; and that he is styled on the coins,
 "Antiochus, Epiphanes, Dionysus."]
 
-
 42 (return) [ This Aretas was the first king of the Arabians who took
 Damascus, and reigned there; which name became afterwards common to such
 Arabian kings, both at Petra and at Damascus, as we learn from Josephus
 in many places; and from St. Paul, 2 Corinthians 11:32. See the note on
 Antiq. B. XVI. ch. 9. sect. 4.]
-
 
 43 (return) [ We may here and elsewhere take notice, that whatever
 countries or cities the Asamoneans conquered from any of the neighboring
@@ -32567,7 +29689,6 @@ I have noted on ch. 9. sect. 1, already, who lived then in the Promised
 Land, and this I suppose justly; but by what right the rest did it, even
 to the countries or cities that were no part of that land, I do not at
 all know. This looks too like unjust persecution for religion.]
-
 
 44 (return) [ It seems, by this dying advice of Alexander Janneus to his
 wife, that he had himself pursued the measures of his father Hyrcanus
@@ -32598,7 +29719,6 @@ digression. I wish it were an unseasonable one also. Josephus himself
 several times makes such digressions, and I here venture to follow him.
 See one of them at the conclusion of the very next chapter.]
 
-
 45 (return) [ The number of five hundred thousand or even three hundred
 thousand, as one Greek copy, with the Latin copies, have it, for
 Tigranes's army, that came out of Armenia into Syria and Judea, seems
@@ -32607,30 +29727,15 @@ Josephus's present copies, which are not to be at all ascribed to him.
 Accordingly, I incline to Dr. Hudson's emendation here, which supposes
 them but forty thousand.]
 
-
 46 (return) [ This fortress, castle, citadel, or tower, whither the wife
 and children of Aristobulus were new sent, and which overlooked the
 temple, could be no other than what Hyrcanus I. built, [Antiq. B. XVIII
 ch. 4. sect. 3,] and Herod the Great rebuilt, and called the "Tower of
 Antonia," Aatiq. B. XV. ch. 11. sect. 5.]
 
+## BOOK XIV. Containing The Interval Of Thirty-Two Years.—From The Death Of Queen Alexandra To The Death Of Antigonus
 
-
-
-
-
-BOOK XIV. Containing The Interval Of Thirty-Two Years.—From The Death Of
-Queen Alexandra To The Death Of Antigonus.
-
-
-
-
-
-
-CHAPTER 1. The War Between Aristobulus And Hyrcanus About The Kingdom;
-And How They Made Anagreement That Aristobulus Should Be King, And
-Hyrcanus Live A Private Life; As Also How Hyrcanus A Little Afterward
-Was Persuaded By Antipater To Fly To Aretas.
+### CHAPTER 1. The War Between Aristobulus And Hyrcanus About The Kingdom; And How They Made Anagreement That Aristobulus Should Be King, And Hyrcanus Live A Private Life; As Also How Hyrcanus A Little Afterward Was Persuaded By Antipater To Fly To Aretas
 
 1. We have related the affairs of queen Alexandra, and her death, in the
 foregoing book and will now speak of what followed, and was connected
@@ -32725,14 +29830,7 @@ which his father Alexander had taken from the Arabians, which were
 these, Medaba, Naballo, Libias, Tharabasa, Agala, Athone, Zoar, Orone,
 Marissa, Rudda, Lussa, and Oruba.
 
-
-
-
-
-
-CHAPTER 2. How Aretas And Hyrcanus Made An Expedition Against
-Aristobulus And Besieged Jerusalem; And How Scaurus The Roman General
-Raised The Siege. Concerning The Death Of Onias.
+### CHAPTER 2. How Aretas And Hyrcanus Made An Expedition Against Aristobulus And Besieged Jerusalem; And How Scaurus The Roman General Raised The Siege. Concerning The Death Of Onias
 
 1. After these promises had been given to Aretas, he made an expedition
 against Aristobulus with an army of fifty thousand horse and foot, and
@@ -32805,15 +29903,7 @@ place called Papyron, and beat them in the battle, and slew about six
 thousand of the enemy, with whom fell Phalion also, the brother of
 Antipater.
 
-
-
-
-
-
-CHAPTER 3. How Aristobulus And Hyrcanus Came To Pompey In Order To Argue
-Who Ought To Have The Kingdom; And How Upon The Plight Of Aristobulus To
-The Fortress Alexandrium Pompey Led His Army Against Him And Ordered Him
-To Deliver Up The Fortresses Whereof He Was Possessed.
+### CHAPTER 3. How Aristobulus And Hyrcanus Came To Pompey In Order To Argue Who Ought To Have The Kingdom; And How Upon The Plight Of Aristobulus To The Fortress Alexandrium Pompey Led His Army Against Him And Ordered Him To Deliver Up The Fortresses Whereof He Was Possessed
 
 1. A Little afterward Pompey came to Damascus, and marched over
 Celesyria; at which time there came ambassadors to him from all Syria,
@@ -32912,14 +30002,7 @@ persons came out of Pontus, and informed Pompey, as he was on the way,
 and conducting his army against Aristobulus, that Mithridates was dead,
 and was slain by his son Pharmaces.
 
-
-
-
-
-
-CHAPTER 4. How Pompey When The Citizens Of Jerusalem Shut Their Gates
-Against Him Besieged The City And Took It By Force; As Also What Other
-Things He Did In Judea.
+### CHAPTER 4. How Pompey When The Citizens Of Jerusalem Shut Their Gates Against Him Besieged The City And Took It By Force; As Also What Other Things He Did In Judea
 
 1. Now when Pompey had pitched his camp at Jericho, [where the palm tree
 grows, and that balsam which is an ointment of all the most precious,
@@ -33056,14 +30139,7 @@ his children; for he had two daughters, and as many sons; the one of
 which ran away, but the younger, Antigonus, was carried to Rome,
 together with his sisters.
 
-
-
-
-
-
-CHAPTER 5. How Scaurus Made A League Of Mutual Assistance With Aretas;
-And What Gabinius Did In Judea, After He Had Conquered Alexander, The
-Son Of Aristobulus.
+### CHAPTER 5. How Scaurus Made A League Of Mutual Assistance With Aretas; And What Gabinius Did In Judea, After He Had Conquered Alexander, The Son Of Aristobulus
 
 1. Scaurus made now an expedition against Petrea, in Arabia, and set on
 fire all the places round about it, because of the great difficulty of
@@ -33126,14 +30202,7 @@ the fourth at Jericho, and the fifth at Sepphoris in Galilee. So the
 Jews were now freed from monarchic authority, and were governed by an
 aristocracy.
 
-
-
-
-
-
-CHAPTER 6. How Gabinius Caught Aristobulus After He Had Fled From Rome,
-And Sent Him Back To Rome Again; And How The Same Gabinius As He
-Returned Out Of Egypt Overcame Alexander And The Nabateans In Battle.
+### CHAPTER 6. How Gabinius Caught Aristobulus After He Had Fled From Rome, And Sent Him Back To Rome Again; And How The Same Gabinius As He Returned Out Of Egypt Overcame Alexander And The Nabateans In Battle
 
 1. Now Aristobulus ran away from Rome to Judea, and set about the
 rebuilding of Alexandrium, which had been newly demolished. Hereupon
@@ -33200,15 +30269,7 @@ Cappadocia, both describe the expeditions of Pompey and Gabinius against
 the Jews, while neither of them say anything new which is not in the
 other.
 
-
-
-
-
-
-CHAPTER 7. How Crassus Came Into Judea, And Pillaged The Temple; And
-Then Marched Against The Parthians And Perished, With His Army. Also How
-Cassius Obtained Syria, And Put A Stop To The Parthians And Then Went Up
-To Judea.
+### CHAPTER 7. How Crassus Came Into Judea, And Pillaged The Temple; And Then Marched Against The Parthians And Perished, With His Army. Also How Cassius Obtained Syria, And Put A Stop To The Parthians And Then Went Up To Judea
 
 1. Now Crassus, as he was going upon his expedition against the
 Parthians, came into Judea, and carried off the money that was in the
@@ -33313,15 +30374,7 @@ daughters; the one of which, whose name was Alexandra, Philippion fell
 in love with, and married her, though afterward his father Ptolemy slew
 him, and married Alexandra, and continued to take care of her brethren.
 
-
-
-
-
-
-CHAPTER 8. The Jews Become Confederates With Cæsar When He Fought
-Against Egypt. The Glorious Actions Of Antipater, And His Friendship
-With Cæsar. The Honors Which The Jews Received From The Romans And
-Athenians.
+### CHAPTER 8. The Jews Become Confederates With Cæsar When He Fought Against Egypt. The Glorious Actions Of Antipater, And His Friendship With Cæsar. The Honors Which The Jews Received From The Romans And Athenians
 
 1. Now after Pompey was dead, and after that victory Cæsar had gained
 over him, Antipater, who managed the Jewish affairs, became very useful
@@ -33463,14 +30516,7 @@ and to endeavor always to be doing some good to our city." And this
 shall suffice us to have spoken as to the honors that were paid by the
 Romans and the people of Athens to Hyrcanus.
 
-
-
-
-
-
-CHAPTER 9. How Antipater Committed The Care Of Galilee To Herod, And
-That Of Jerusalem To Phasaelus; As Also How Herod Upon The Jews' Envy At
-Antipater Was Accused Before Hyrcanus.
+### CHAPTER 9. How Antipater Committed The Care Of Galilee To Herod, And That Of Jerusalem To Phasaelus; As Also How Herod Upon The Jews' Envy At Antipater Was Accused Before Hyrcanus
 
 1. Now when Cæsar had settled the affairs of Syria, he sailed away. And
 as soon as Antipater had conducted Cæsar out of Syria, he returned to
@@ -33517,7 +30563,7 @@ and fidelity which he owed to Hyrcanus.
 3. But now the principal men among the Jews, when they saw Antipater and
 his sons to grow so much in the good-will the nation bare to them, and
 in the revenues which they received out of Judea, and out of Hyrcanus's
-own wealth, they became ill- disposed to him; for indeed Antipater had
+own wealth, they became ill-disposed to him; for indeed Antipater had
 contracted a friendship with the Roman emperors; and when he had
 prevailed with Hyrcanus to send them money, he took it to himself, and
 purloined the present intended, and sent it as if it were his own, and
@@ -33628,13 +30674,7 @@ these arguments, and believed that it was sufficient for his future
 hopes to have made a show of his strength before the nation, and done no
 more to it—and in this state were the affairs of Judea at this time.
 
-
-
-
-
-
-CHAPTER 10. The Honors That Were Paid The Jews; And The Leagues That
-Were Made By The Romans And Other Nations, With Them.
+### CHAPTER 10. The Honors That Were Paid The Jews; And The Leagues That Were Made By The Romans And Other Nations, With Them
 
 1. Now when Cæsar was come to Rome, he was ready to sail into Africa to
 fight against Scipio and Cato, when Hyrcanus sent ambassadors to him,
@@ -34066,15 +31106,7 @@ those decrees, since we have shown the same in those we have produced,
 And thus have we sufficiently explained that friendship and confederacy
 we at those times had with the Romans.
 
-
-
-
-
-
-CHAPTER 11. How Marcus, Succeeded Sextus When He Had Been Slain By
-Bassus's Treachery; And How, After The Death Of Cæsar, Cassius Came Into
-Syria, And Distressed Judea; As Also How Malichus Slew Antipater And Was
-Himself Slain By Herod.
+### CHAPTER 11. How Marcus, Succeeded Sextus When He Had Been Slain By Bassus's Treachery; And How, After The Death Of Cæsar, Cassius Came Into Syria, And Distressed Judea; As Also How Malichus Slew Antipater And Was Himself Slain By Herod
 
 1. Now it so fell out, that about this very time the affairs of Syria
 were in great disorder, and this on the occasion following: Cecilius
@@ -34101,7 +31133,7 @@ cities; and he chiefly oppressed Judea, and exacted of it seven hundred
 talents: but Antipater, when he saw the state to be in so great
 consternation and disorder, he divided the collection of that sum, and
 appointed his two sons to gather it; and so that part of it was to be
-exacted by Malichus, who was ill- disposed to him, and part by others.
+exacted by Malichus, who was ill-disposed to him, and part by others.
 And because Herod did exact what is required of him from Galilee before
 others, he was in the greatest favor with Cassius; for he thought it a
 part of prudence to cultivate a friendship with the Romans, and to gain
@@ -34210,16 +31242,7 @@ them all. In the mean time, Herod was recovered of his disease, and came
 and took from Felix all the places he had gotten; and, upon certain
 conditions, dismissed him also.
 
-
-
-
-
-
-CHAPTER 12. Herod Ejects Antigonus, The Son Of Aristobulus Out Of Judea,
-And Gains The Friendship Of Antony, Who Was Now Come Into Syria, By
-Sending Him Much Money; On Which Account He Would Not Admit Of Those
-That Would Have Accused Herod: And What It Was That Antony Wrote To The
-Tyrians In Behalf.
+### CHAPTER 12. Herod Ejects Antigonus, The Son Of Aristobulus Out Of Judea, And Gains The Friendship Of Antony, Who Was Now Come Into Syria, By Sending Him Much Money; On Which Account He Would Not Admit Of Those That Would Have Accused Herod: And What It Was That Antony Wrote To The Tyrians In Behalf
 
 1. Now 22 Ptolemy, the son of Menneus, brought back into Judea
 Antigonus, the son of Aristobulus, who had already raised an army, and
@@ -34360,15 +31383,7 @@ Antiochians, and the Aradians. We have produced these decrees,
 therefore, as marks for futurity of the truth of what we have said, that
 the Romans had a great concern about our nation.
 
-
-
-
-
-
-CHAPTER 13. How Antony Made Herod And Phasaelus Tetrarchs, After They
-Had Been Accused To No Purpose; And How The Parthians When They Brought
-Antigonus Into Judea Took Hyrcanus And Phasaelus Captives. Herod's
-Flight; And What Afflictions Hyrcanus And Phasaelus Endured.
+### CHAPTER 13. How Antony Made Herod And Phasaelus Tetrarchs, After They Had Been Accused To No Purpose; And How The Parthians When They Brought Antigonus Into Judea Took Hyrcanus And Phasaelus Captives. Herod's Flight; And What Afflictions Hyrcanus And Phasaelus Endured
 
 1. When after this Antony came into Syria, Cleopatra met him in Cilicia,
 and brought him to fall in love with her. And there came now also a
@@ -34603,15 +31618,7 @@ his brother Herod had escaped the enemy, underwent his death cheerfully,
 since he now left behind him one who would revenge his death, and who
 was able to inflict punishment on his enemies.
 
-
-
-
-
-
-CHAPTER 14. How Herod Got Away From The King Of Arabia And Made Haste To
-Go Into Egypt And Thence Went Away In Haste Also To Rome; And How, By
-Promising A Great Deal Of Money To Antony He Obtained Of The Senate And
-Of Cæsar To Be Made King Of The Jews.
+### CHAPTER 14. How Herod Got Away From The King Of Arabia And Made Haste To Go Into Egypt And Thence Went Away In Haste Also To Rome; And How, By Promising A Great Deal Of Money To Antony He Obtained Of The Senate And Of Cæsar To Be Made King Of The Jews
 
 1. As for Herod, the great miseries he was in did not discourage him,
 but made him sharp in discovering surprising undertakings; for he went
@@ -34738,13 +31745,7 @@ with a certain part of his soldiers, with whom also Antigonus cultivated
 an acquaintance, that he might cause him no disturbance, and was still
 in hopes that the Parthians would come again and defend him.
 
-
-
-
-
-
-CHAPTER 15. How Herod Sailed Out Of Italy To Judea, And Fought With
-Antigonus And What Other Things Happened In Judea About That Time.
+### CHAPTER 15. How Herod Sailed Out Of Italy To Judea, And Fought With Antigonus And What Other Things Happened In Judea About That Time
 
 1. By this time Herod had sailed out of Italy to Ptolemais, and had
 gotten together no small army, both of strangers and of his own
@@ -35101,14 +32102,7 @@ complete his marriage, and to take to wife the daughter of Alexander,
 the son of Aristobulus; for he had betrothed her already, as I have
 before related.
 
-
-
-
-
-
-CHAPTER 16. How Herod, When He Had Married Mariamne Took Jerusalem With
-The Assistance Of Sosius By Force; And How The Government Of The
-Asamoneans Was Put An End To.
+### CHAPTER 16. How Herod, When He Had Married Mariamne Took Jerusalem With The Assistance Of Sosius By Force; And How The Government Of The Asamoneans Was Put An End To
 
 1. After the wedding was over, came Sosius through Phoenicia, having
 sent out his army before him over the midland parts. He also, who was
@@ -35227,13 +32221,7 @@ Antipater, who was of no more than a vulgar family, and of no eminent
 extraction, but one that was subject to other kings. And this is what
 history tells us was the end of the Asamonean family.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Reland takes notice here, very justly, how Josephus's
 declaration, that it was his great concern not only to write "an
@@ -35242,13 +32230,11 @@ to omit any thing [of consequence], either through "ignorance or
 laziness," implies that he could not, consistently with that resolution,
 omit the mention of [so famous a person as] "Jesus Christ."]
 
-
 2 (return) [ That the famous Antipater's or Antipas's father was also
 Antipater or Antipas [which two may justly be esteemed one and the same
 frame, the former with a Greek or Gentile, the latter with a Hebrew or
 Jewish termination] Josephus here assures us, though Eusebias indeed
 says it was Herod.]
-
 
 3 (return) [ This "golden vine," or "garden," seen by Strabo at Rome,
 has its inscription here as if it were the gift of Alexander, the father
@@ -35267,7 +32253,6 @@ uncommon points of history, had he known any thing of them; nor would
 either the Jewish nation, or even Pompey himself, then have relished
 such a flagrant instance of sacrilege.]
 
-
 4 (return) [ These express testimonies of Josephus here, and Antiq. B.
 VIII. ch. 6. sect. 6, and B. XV. ch. 4. sect. 2, that the only balsam
 gardens, and the best palm trees, were, at least in his days, near
@@ -35282,7 +32267,6 @@ this, unless that balsam, and the best palm trees, grew much more
 southward in Judea in the days of Eusebius and Jerom than they did in
 the days of Josephus.]
 
-
 5 (return) [ The particular depth and breadth of this ditch, whence the
 stones for the wall about the temple were probably taken, are omitted in
 our copies of Josephus, but set down by Strabo, B. XVI. p. 763; from
@@ -35292,12 +32276,10 @@ Josephus to be immense, which exactly agrees to Strabo's description,
 and which numbers in Strabo are a strong confirmation of the truth of
 Josephus's description also.]
 
-
 6 (return) [ That is, on the 23rd of Sivan, the annual fast for the
 defection and idolatry of Jeroboam, "who made Israel to sin;" or
 possibly some other fast might fall into that month, before and in the
 days of Josephus.]
-
 
 7 (return) [ It deserves here to be noted, that this Pharisaical,
 superstitious notion, that offensive fighting was unlawful to Jews, even
@@ -35311,22 +32293,18 @@ Pharisaical Jews insisted on it, as is evident in many places in the New
 Testament, though he still intimated how pernicious that superstition
 might prove to them in their flight from the Romans, Matthew 25:20.]
 
-
 8 (return) [ This is fully confirmed by the testimony of Cicero, who:
 says, in his oration for Flaecus, that "Cneius Pompeius, when he was
 conqueror, and had taken Jerusalem, did not touch any thing belonging to
 that temple."]
 
-
 9 (return) [ Of this destruction of Gadara here presupposed, and its
 restoration by Pompey, see the note on the War, B. I. ch. 7. sect. 7.]
-
 
 10 (return) [ Dean Prideaux well observes, "That notwithstanding the
 clamor against Gabinius at Rome, Josephus gives him a able character, as
 if he had acquitted himself with honor in the charge committed to him"
 [in Judea]. See at the year 55.]
-
 
 11 (return) [ This history is best illustrated by Dr. Hudson out of
 Livy, who says that "A. Gabinius, the proconsul, restored Ptolemy of
@@ -35335,12 +32313,10 @@ thing new which is not in the other to his kingdom of Egypt, and ejected
 Archelaus, whom they had set up for king," &c. See Prid. at the years 61
 and 65.]
 
-
 12 (return) [ Dr. Hudson observes, that the name of this wife of
 Antipater in Josephus was Cypros, as a Hebrew termination, but not
 Cypris, the Greek name for Venus, as some critics were ready to correct
 it.]
-
 
 13 (return) [ Take Dr. Hudson's note upon this place, which I suppose to
 be the truth: "Here is some mistake in Josephus; for when he had
@@ -35356,7 +32332,6 @@ follows a little lower, in the collection of Raman decrees that
 concerned the Jews and is that dated when Cæsar was consul the fifth
 time." See ch. 10. sect. 5.]
 
-
 14 (return) [ Those who will carefully observe the several occasional
 numbers and chronological characters in the life and death of this
 Herod, and of his children, hereafter noted, will see that twenty-five
@@ -35365,7 +32340,6 @@ number for the age of Herod, when he was made governor of Galilee. See
 ch. 23. sect. 5, and ch. 24. sect. 7; and particularly Antiq. B. XVII.
 ch. 8. sect. 1, where about forty-four years afterwards Herod dies an
 old man at about seventy.]
-
 
 15 (return) [ It is here worth our while to remark, that none could be
 put to death in Judea but by the approbation of the Jewish Sanhedrim,
@@ -35376,10 +32350,8 @@ supreme council of seventy-one at Jerusalem; and that is exactly
 according to our Savior's words, when he says, "It could not be that a
 prophet should perish out of Jerusalem," Luke 13:33.]
 
-
 16 (return) [ This account, as Reland observes, is confirmed by the
 Talmudists, who call this Sameas, "Simeon, the son of Shetach."]
-
 
 17 (return) [ That Hyrcanus was himself in Egypt, along with Antipater,
 at this time, to whom accordingly the bold and prudent actions of his
@@ -35387,14 +32359,12 @@ deputy Antipater are here ascribed, as this decree of Julius Cæsar
 supposes, we are further assured by the testimony of Strabo, already
 produced by Josephus, ch. 8. sect. 3.]
 
-
 18 (return) [ Dr. Hudson justly supposes that the Roman imperators, or
 generals of armies, meant both here and sect. 2, who gave testimony to
 Hyrcanus's and the Jews' faithfulness and goodwill to the Romans before
 the senate and people of Rome, were principally Pompey, Scaurus, and
 Gabinius; of all whom Josephus had already given us the history, so far
 as the Jews were concerned with them.]
-
 
 19 (return) [ We have here a most remarkable and authentic attestation
 of the citizens of Pergamus, that Abraham was the father of all the
@@ -35413,7 +32383,6 @@ Moses Chorenensis, the principal Armenian historian, informs us of, p.
 Abraham by Chetura; and that thereby was accomplished that prediction
 which said, "Kings of nations shall proceed from thee," Genesis 17:6.]
 
-
 20 (return) [ If we compare Josephus's promise in sect. 1, to produce
 all the public decrees of the Romans in favor of the Jews, with his
 excuse here for omitting many of them, we may observe, that when he came
@@ -35425,12 +32394,10 @@ confirmation to his history, and give such great light to even the Roman
 antiquities themselves, that I believe the curious are not a little
 sorry for such his omissions.]
 
-
 21 (return) [ For Marcus, this president of Syria, sent as successor to
 Sextus Cæsar, the Roman historians require us to read "Marcus" in
 Josephus, and this perpetually, both in these Antiquities, and in his
 History of the Wars, as the learned generally agree.]
-
 
 22 (return) [ In this and the following chapters the reader will easily
 remark, how truly Gronovius observes, in his notes on the Roman decrees
@@ -35444,13 +32411,11 @@ freedom," Acts 22:28; as had St. Paul's ancestors, very probably,
 purchased the like freedom for their family by money, as the same author
 justly concludes also.]
 
-
 23 (return) [ This clause plainly alludes to that well-known but unusual
 and very long darkness of the sun which happened upon the murder of
 Julius Cæsar by Brutus and Cassius, which is greatly taken notice of by
 Virgil, Pliny, and other Roman authors. See Virgil's Georgics, B. I.,
 just before the end; and Pliny's Nat. Hist. B. IL ch. 33.]
-
 
 24 (return) [ We may here take notice that espousals alone were of old
 esteemed a sufficient foundation for affinity, Hyrcanus being here
@@ -35458,10 +32423,8 @@ called father-in-law to Herod because his granddaughter Mariamne was
 betrothed to him, although the marriage was not completed till four
 years afterwards. See Matthew 1:16.]
 
-
 25 (return) [ This law of Moses, that the priests were to be "without
 blemish," as to all the parts of their bodies, is in Leviticus 21:17-24]
-
 
 26 (return) [ Concerning the chronology of Herod, and the time when he
 was first made king at Rome, and concerning the time when he began his
@@ -35469,12 +32432,10 @@ second reign, without a rival, upon the conquest and slaughter of
 Antigonus, both principally derived from this and the two next chapters
 in Josephus, see the note on sect. 6, and ch. 15. sect. 10.]
 
-
 27 (return) [ This grievous want of water at Masada, till the place had
 like to have been taken by the Parthians, [mentioned both here, and Of
 the War, B. I. ch. 15. sect. 1,] is an indication that it was now summer
 time.]
-
 
 28 (return) [ This affirmation of Antigonus, spoken in the days of
 Herod, and in a manner to his face, that he was an Idumean, i.e. a half
@@ -35487,7 +32448,6 @@ viii. sect. 1. and by birth a Jew, Antiq. B. XX. ch. 8. sect. 7; as
 indeed all such proselytes of justice, as the Idumeans, were in time
 esteemed the very same people with the Jews.]
 
-
 29 (return) [ It may be worth our observation here, that these soldiers
 of Herod could not have gotten upon the tops of these houses which were
 full of enemies, in order to pull up the upper floors, and destroy them
@@ -35495,7 +32455,6 @@ beneath, but by ladders from the out side; which illustrates some texts
 in the New Testament, by which it appears that men used to ascend
 thither by ladders on the outsides. See Matthew 24:17; Mark 13:15; Luke
 5:19; 17:31.]
-
 
 30 (return) [ Note here, that Josephus fully and frequently assures us
 that there passed above three years between Herod's first obtaining the
@@ -35527,22 +32486,9 @@ five months. All which put together, fully supplies what is wanting in
 Josephus, and secures the entire chronology of these times beyond
 contradiction.]
 
+## BOOK XV. Containing The Interval Of Eighteen Years.—From The Death Of Antigonus To The Finishing Of The Temple By Herod
 
-
-
-
-
-BOOK XV. Containing The Interval Of Eighteen Years.—From The Death Of
-Antigonus To The Finishing Of The Temple By Herod.
-
-
-
-
-
-
-CHAPTER 1. Concerning Pollio And Sameas. Herod Slays The Principal Of
-Antigonus's Friends, And Spoils The City Of Its Wealth. Antony Beheads
-Antigonus.
+### CHAPTER 1. Concerning Pollio And Sameas. Herod Slays The Principal Of Antigonus's Friends, And Spoils The City Of Its Wealth. Antony Beheads Antigonus
 
 1. How Sosius and Herod took Jerusalem by force; and besides that, how
 they took Antigonus captive, has been related by us in the foregoing
@@ -35588,14 +32534,7 @@ this dishonorable death would diminish the value they had for
 Antigonus's memory, and at the same time would diminish the hatred they
 bare to Herod." Thus far Strabo.
 
-
-
-
-
-
-CHAPTER 2. How Hyrcanus Was Set At Liberty By The Parthians, And
-Returned To Herod; And What Alexandra Did When She Heard That Ananelus
-Was Made High Priest.
+### CHAPTER 2. How Hyrcanus Was Set At Liberty By The Parthians, And Returned To Herod; And What Alexandra Did When She Heard That Ananelus Was Made High Priest
 
 1. Now after Herod was in possession of the kingdom, Hyrcanus the high
 priest, who was then a captive among the Parthians, came to him again,
@@ -35737,14 +32676,7 @@ had made her act too precipitately and imprudently in this matter. So
 when they had spoken thus to one another, they came to an agreement, and
 all suspicions, so far as appeared, were vanished away.
 
-
-
-
-
-
-CHAPTER 3. How Herod Upon His Making Aristobulus High Priest Took Care
-That He Should Be Murdered In A Little Time; And What Apology He Made To
-Antony About Aristobulus; As Also Concerning Joseph And Mariamne.
+### CHAPTER 3. How Herod Upon His Making Aristobulus High Priest Took Care That He Should Be Murdered In A Little Time; And What Apology He Made To Antony About Aristobulus; As Also Concerning Joseph And Mariamne
 
 1. So king Herod immediately took the high priesthood away from
 Ananelus, who, as we said before, was not of this country, but one of
@@ -36002,14 +32934,7 @@ mind. However, he gave order to slay Joseph, without permitting him to
 come into his sight; and as for Alexandra, he bound her, and kept her in
 custody, as the cause of all this mischief.
 
-
-
-
-
-
-CHAPTER 4. How Cleopatra, When She Had Gotten From Antony Some Parts Of
-Judea And Arabia Came Into Judea; And How Herod Gave Her Many Presents
-And Conducted Her On Her Way Back To Egypt.
+### CHAPTER 4. How Cleopatra, When She Had Gotten From Antony Some Parts Of Judea And Arabia Came Into Judea; And How Herod Gave Her Many Presents And Conducted Her On Her Way Back To Egypt
 
 1. Now at this time the affairs of Syria were in confusion by
 Cleopatra's constant persuasions to Antony to make an attempt upon every
@@ -36116,15 +33041,7 @@ talents; but he afterwards became very niggardly and slow in his
 payments, and could hardly be brought to pay some parts of it, and was
 not willing to pay even them without some deductions.
 
-
-
-
-
-
-CHAPTER 5. How Herod Made War With The King Of Arabia, And After They
-Had Fought Many Battles, At Length Conquered Him, And Was Chosen By The
-Arabs To Be Governor Of That Nation; As Also Concerning A Great
-Earthquake.
+### CHAPTER 5. How Herod Made War With The King Of Arabia, And After They Had Fought Many Battles, At Length Conquered Him, And Was Chosen By The Arabs To Be Governor Of That Nation; As Also Concerning A Great Earthquake
 
 1. Hereupon Herod held himself ready to go against the king of Arabia,
 because of his ingratitude to him, and because, after all, he would do
@@ -36395,14 +33312,7 @@ whereupon he was greatly elevated at so seasonable a success, and
 returned home, taking great authority upon him, on account of so bold
 and glorious an expedition as he had made.
 
-
-
-
-
-
-CHAPTER 6. How Herod Slew Hyrcanus And Then Hasted Away To Cæsar, And
-Obtained The Kingdom From Him Also; And How A Little Time Afterward, He
-Entertained Cæsar In A Most Honorable Manner.
+### CHAPTER 6. How Herod Slew Hyrcanus And Then Hasted Away To Cæsar, And Obtained The Kingdom From Him Also; And How A Little Time Afterward, He Entertained Cæsar In A Most Honorable Manner
 
 1. Herod's other affairs were now very prosperous, and he was not to be
 easily assaulted on any side. Yet did there come upon him a danger that
@@ -36615,14 +33525,7 @@ at a seasonable time also. And when they returned again out of Egypt,
 his assistances were no way inferior to the good offices he had formerly
 done them.
 
-
-
-
-
-
-CHAPTER 7. How Herod Slew Sohemus And Mariamne And Afterward Alexandra
-And Costobarus, And His Most Intimate Friends, And At Last The Sons Of
-Babbas Also.
+### CHAPTER 7. How Herod Slew Sohemus And Mariamne And Afterward Alexandra And Costobarus, And His Most Intimate Friends, And At Last The Sons Of Babbas Also
 
 1. However, when he came into his kingdom again, he found his house all
 in disorder, and his wife Mariamne and her mother Alexandra very uneasy;
@@ -36967,15 +33870,7 @@ now none at all left of the kindred of Hyrcanus, and the kingdom was
 entirely in Herod's own power, and there was nobody remaining of such
 dignity as could put a stop to what he did against the Jewish laws.
 
-
-
-
-
-
-CHAPTER 8. How Ten Men Of The Citizens [Of Jerusalem] Made A Conspiracy
-Against Herod, For The Foreign Practices He Had Introduced, Which Was A
-Transgression Of The Laws Of Their Country. Concerning The Building Of
-Sebaste And Cæsarea, And Other Edifices Of Herod.
+### CHAPTER 8. How Ten Men Of The Citizens [Of Jerusalem] Made A Conspiracy Against Herod, For The Foreign Practices He Had Introduced, Which Was A Transgression Of The Laws Of Their Country. Concerning The Building Of Sebaste And Cæsarea, And Other Edifices Of Herod
 
 1. On this account it was that Herod revolted from the laws of his
 country, and corrupted their ancient constitution, by the introduction
@@ -37158,14 +34053,7 @@ for the greatest part a citadel; and as to the elegance of the building,
 it was taken care of also, that he might leave monuments of the fineness
 of his taste, and of his beneficence, to future ages.
 
-
-
-
-
-
-CHAPTER 9. Concerning The Famine That Happened In Judea And Syria; And
-How Herod, After He Had Married Another Wife, Rebuilt Cæsarea, And Other
-Grecian Cities.
+### CHAPTER 9. Concerning The Famine That Happened In Judea And Syria; And How Herod, After He Had Married Another Wife, Rebuilt Cæsarea, And Other Grecian Cities
 
 1. Now on this very year, which was the thirteenth year of the reign of
 Herod, very great calamities came upon the country; whether they were
@@ -37395,15 +34283,7 @@ conveniently situated for a prospect to the sea. So this city was thus
 finished in twelve years; 18 during which time the king did not fail to
 go on both with the work, and to pay the charges that were necessary.
 
-
-
-
-
-
-CHAPTER 10. How Herod Sent His Sons To Rome; How Also He Was Accused By
-Zenodorus And The Gadarens, But Was Cleared Of What They Accused Him Of
-And Withal Gained To Himself The Good-Will Of Cæsar. Concerning The
-Pharisees, The Essens And Manahem.
+### CHAPTER 10. How Herod Sent His Sons To Rome; How Also He Was Accused By Zenodorus And The Gadarens, But Was Cleared Of What They Accused Him Of And Withal Gained To Himself The Good-Will Of Cæsar. Concerning The Pharisees, The Essens And Manahem
 
 1. When Herod was engaged in such matters, and when he had already re-
 edified Sebaste, [Samaria,] he resolved to send his sons Alexander and
@@ -37598,14 +34478,7 @@ strange soever they be, and to declare what hath happened among us,
 because many of these Essens have, by their excellent virtue, been
 thought worthy of this knowledge of Divine revelations.
 
-
-
-
-
-
-CHAPTER 11. How Herod Rebuilt The Temple And Raised It Higher And Made
-It More Magnificent Than It Was Before; As Also Concerning That Tower
-Which He Called Antonia.
+### CHAPTER 11. How Herod Rebuilt The Temple And Raised It Higher And Made It More Magnificent Than It Was Before; As Also Concerning That Tower Which He Called Antonia
 
 1. And now Herod, in the eighteenth year of his reign, and after the
 acts already mentioned, undertook a very great work, that is, to build
@@ -37835,13 +34708,7 @@ that the work was not hindered. And this our fathers have delivered to
 us; nor is it incredible, if any one have regard to the manifestations
 of God. And thus was performed the work of the rebuilding of the temple.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ The city here called "Babylon" by Josephus, seems to be one
 which was built by some of the Seleucidae upon the Tigris, which long
@@ -37849,7 +34716,6 @@ after the utter desolation of old Babylon was commonly so called, and I
 suppose not far from Seleueia; just as the latter adjoining city Bagdat
 has been and is often called by the same old name of Babylon till this
 very day.]
-
 
 2 (return) [ Here we have an eminent example of Herod's worldly and
 profane politics, when by the abuse of his unlawful and usurped power,
@@ -37865,10 +34731,8 @@ who brought on the grossest corruption of religion by it; and the
 punishment of whose family for it was most remarkable. The case is too
 well known to stand in need of particular citations.]
 
-
 3 (return) [ Of this wicked Dellius, see the note on the War, B. I. ch.
 15. sect. 3.]
-
 
 4 (return) [ When Josephus says here that this Ananelus, the new high
 priest, was "of the stock of the high priests," and since he had been
@@ -37885,24 +34749,20 @@ afterward that infamous practice became frequent, till the very
 destruction of Jerusalem, when the office of high priesthood was at an
 end.]
 
-
 5 (return) [ This entirely confutes the Talmudists, who pretend that no
 one under twenty years of age could officiate as high priest among the
 Jews.]
-
 
 6 (return) [ A Hebrew chronicle, cited by Reland, says this drowning was
 at Jordan, not at Jericho, and this even when he quote Josephus. I
 suspect the transcriber of the Hebrew chronicle mistook the name, and
 wrote Jordan for Jericho.]
 
-
 7 (return) [ The reading of one of Josephus's Greek MSS. seems here to
 be right, that Aristobulus was "not eighteen years old" when he was
 drowned, for he was not seventeen when he was made high priest, ch. 2.
 sect. 6, ch. 3. sect. 3, and he continued in that office but one year,
 as in the place before us.]
-
 
 8 (return) [ The reader is here to take notice, that this seventh year
 of the reign of Herod, and all the other years of his reign, in
@@ -37911,13 +34771,11 @@ the conclusion of Antigonus, and the taking of Jerusalem a few months
 before, and never from his first obtaining the kingdom at Rome, above
 three years before, as some have very weakly and injudiciously done.]
 
-
 9 (return) [ Herod says here, that as ambassadors were sacred when they
 carried messages to others, so did the laws of the Jews derive a sacred
 authority by being delivered from God by angels, [or Divine
 ambassadors,] which is St. Paul's expression about the same laws,
 Galatians 3:19; Hebrews 2;2.]
-
 
 10 (return) [ This piece of religion, the supplicating God with
 sacrifices, by Herod, before he went to this fight with the Arabians,
@@ -37933,7 +34791,6 @@ before had been so great victors, and so much elevated upon the
 earthquake in Judea as to venture to slay the Jewish ambassadors, were
 now under a strange consternation, and hardly able to fight at all.]
 
-
 11 (return) [ Whereas Mariamne is here represented as reproaching: Herod
 with the murder of her father [Alexander], as well as her brother
 [Aristobulus], while it was her grandfather Hyrcanus, and not her father
@@ -37941,7 +34798,6 @@ Alexander, whom he caused to be slain, [as Josephus himself informs us,
 ch. 6. sect. 2,] we must either take Zonaras's reading, which is here
 grandfather, rightly, or else we must, as before, ch. 1. sect. 1, allow
 a slip of Josephus's pen or memory in the place before us.]
-
 
 12 (return) [ Here is a plain example of a Jewish lady giving a bill of
 divorce to her husband, though in the days of Josephus it was not
@@ -37963,7 +34819,6 @@ his sins of ignorance, or such as he supposed he had been guilty of, but
 did not distinctly remember. See somewhat like it of Agrippa the Great,
 Antiq. B. XIX. ch. 3. sect. 3, and Job 1:4, 5.]
 
-
 13 (return) [ These grand plays, and shows, and Thymelici, or music
 meetings, and chariot races, when the chariots were drawn by two, three,
 or four pair of horses, etc., instituted by Herod in his theatres, were
@@ -37976,14 +34831,12 @@ Josephus. Nor is the case of our modern masquerades, plays, operas, and
 the like "pomps and vanities of this wicked world," of any better
 tendency under Christianity.]
 
-
 14 (return) [ Here we have an eminent example of the language of
 Josephus in his writing to Gentiles, different from that when he wrote
 to Jews; in his writing to whom he still derives all such judgments from
 the anger of God; but because he knew many of the Gentiles thought they
 might naturally come in certain periods, he complies with them in the
 following sentence. See the note on the War. B. I. ch. 33. sect. 2.]
-
 
 15 (return) [ This famine for two years that affected Judea and Syria,
 the thirteenth mid fourteenth years of Herod, which are the twenty-third
@@ -38000,13 +34853,11 @@ theocracy, used to provide a triple crop beforehand; but became now,
 when the Jews had forfeited that blessing, the greatest years of famine
 to them ever since the days of Ahab, 1 Kings 17., 18.]
 
-
 16 (return) [ This Aelius Gallus seems to be no other than that Aelius
 Lagus whom Dio speaks of as conducting an expedition that was about this
 time made into Arabia Felix, according to Betarius, who is here cited by
 Spanheim. See a full account of this expedition in Prideaux, at the
 years 23 and 24.]
-
 
 17 (return) [ One may here take notice, that how tyrannical and
 extravagant soever Herod were in himself, and in his Grecian cities, as
@@ -38034,18 +34885,15 @@ benefit which the world receives from government be sufficient to make
 amends for the calamities which it suffers from the follies, mistakes,
 and real-administrations of those that manage it."]
 
-
 18 (return) [ Cæsarea being here said to be rebuilt and adorned in
 twelve years, and soon afterwards in ten years, Antiq. B. XVI. ch. 5.
 sect. 1, there must be a mistake in one of the places as to the true
 number, but in which of them it is hard positively to determine.]
 
-
 19 (return) [ This Pollio, with whom Herod's sons lived at Rome, was not
 Pollio the Pharisee, already mentioned by Josephus, ch. 1. sect. 1, and
 again presently after this, ch. 10. sect. 4; but Asinine Pollo, the
 Roman, as Spanheim here observes.]
-
 
 20 (return) [ The character of this Zenodorus is so like that of a
 famous robber of the same name in Strabo, and that about this very
@@ -38053,12 +34901,10 @@ country, and about this very time also, that I think Dr. Hudson hardly
 needed to have put a overlaps to his determination that they were the
 same.]
 
-
 21 (return) [ A tetrarchy properly and originally denoted the fourth
 part of an entire kingdom or country, and a tetrarch one that was ruler
 of such a fourth part, which always implies somewhat less extent of
 dominion and power than belong to a kingdom and to a king.]
-
 
 22 (return) [ We may here observe, that the fancy of the modern Jews, in
 calling this temple, which was really the third of their temples, the
@@ -38071,7 +34917,6 @@ think, of his coming to the fourth and last temple, of that future,
 largest, and most glorious one, described by Ezekiel; whence I take the
 former notion, how general soever, to be a great mistake. See Lit.
 Accorap. of Proph. p. 2.]
-
 
 23 (return) [ Some of our modern students in architecture have made a
 strange blunder here, when they imagine that Josephus affirms the entire
@@ -38091,7 +34936,6 @@ parallel place, Antiq. B. XX. ch. 9. sect. 7, and other places, to be
 meant only the first of David's posterity, and the first builder of the
 temple.]
 
-
 24 (return) [ "Into none Of these three did king Herod enter," i.e. 1.
 Not into the court of the priests; 2. Nor into the holy house itself; 3.
 Nor into the separate place belonging to the altar, as the words
@@ -38100,7 +34944,6 @@ might come into any of them. See Antiq. B. XVI. ch. 4. sect. 6, when
 Herod goes into the temple, and makes a speech in it to the people, but
 that could only be into the court of Israel, whither the people could
 come to hear him.]
-
 
 25 (return) [ This tradition which Josephus here mentions, as delivered
 down from fathers to their children, of this particular remarkable
@@ -38116,22 +34959,9 @@ not our St. Paul's church in London was burnt down in the fire of
 London, A.D. 1666, and rebuilt by Sir Christopher Wren a little
 afterward.]
 
+## BOOK XVI. Containing The Interval Of Twelve Years.—From The Finishing Of The Temple By Herod To The Death Of Alexander And Aristobulus
 
-
-
-
-
-BOOK XVI. Containing The Interval Of Twelve Years.—From The Finishing Of
-The Temple By Herod To The Death Of Alexander And Aristobulus.
-
-
-
-
-
-
-CHAPTER 1. A Law Of Herod's About, Thieves. Salome And Pheroras
-Calumniate Alexander And Aristobulus, Upon Their Return From Rome For
-Whom Yet Herod Provides Wives.
+### CHAPTER 1. A Law Of Herod's About, Thieves. Salome And Pheroras Calumniate Alexander And Aristobulus, Upon Their Return From Rome For Whom Yet Herod Provides Wives
 
 1. As king Herod was very zealous in the administration of his entire
 government, and desirous to put a stop to particular acts of injustice
@@ -38187,13 +35017,7 @@ them to wives, now they were of an age suitable thereto. To Aristobulus
 he gave for a wife Bernice, Salome's daughter; and to Alexander,
 Glaphyra, the daughter of Archelaus, king of Cappadocia.
 
-
-
-
-
-
-CHAPTER 2. How Herod Twice Sailed To Agrippa; And How Upon The Complaint
-In Ionia Against The Greeks Agrippa Confirmed The Laws To Them.
+### CHAPTER 2. How Herod Twice Sailed To Agrippa; And How Upon The Complaint In Ionia Against The Greeks Agrippa Confirmed The Laws To Them
 
 1. When Herod had despatched these affairs, and he understood that
 Marcus Agrippa had sailed again out of Italy into Asia, he made haste to
@@ -38448,12 +35272,7 @@ part of their taxes for the last year. Accordingly, they were so pleased
 with his favor and speech to them, that they went their ways with great
 gladness, and wished the king all manner of happiness.
 
-
-
-
-
-
-CHAPTER 3
+## Chapter 3
 
 How Great Disturbances Arose In Herods Family On His Preferring
 Antipater His Eldest Son Before The Rest, Till Alexander Took That
@@ -38575,14 +35394,7 @@ Cæsar's friend, insomuch that things already looked as if he had all his
 father's favor, and that the young men were already entirely rejected
 from any hopes of the kingdom.
 
-
-
-
-
-
-CHAPTER 4. How During Antipater's Abode At Rome, Herod Brought Alexander
-And Aristobulus Before Cæsar And Accused Them. Alexander's Defense Of
-Himself Before Cæsar And Reconciliation To His Father.
+### CHAPTER 4. How During Antipater's Abode At Rome, Herod Brought Alexander And Aristobulus Before Cæsar And Accused Them. Alexander's Defense Of Himself Before Cæsar And Reconciliation To His Father
 
 1. And now what happened during Antipater's absence augmented the honor
 to which he had been promoted, and his apparent eminence above his
@@ -38818,15 +35630,7 @@ speech was acceptable to the greatest part of the audience, but not so
 to them all; for the contention among his sons, and the hopes he had
 given them, occasioned thoughts and desires of innovations among them.
 
-
-
-
-
-
-CHAPTER 5. How Herod Celebrated The Games That Were To Return Every
-Fifth Year Upon The Building Of Cæsarea; And How He Built And Adorned
-Many Other Places After A Magnificent Manner; And Did Many Other Actions
-Gloriously
+### CHAPTER 5. How Herod Celebrated The Games That Were To Return Every Fifth Year Upon The Building Of Cæsarea; And How He Built And Adorned Many Other Places After A Magnificent Manner; And Did Many Other Actions Gloriously
 
 1. About this time it was that Cæsarea Sebaste, which he had built, was
 finished. The entire building being accomplished: in the tenth year, the
@@ -38937,14 +35741,7 @@ performances; And this seems to me to have been at once the occasion of
 Herod's crimes as to his own courtiers and counselors, and of his
 benefactions as to foreigners and those that had no relation to him.
 
-
-
-
-
-
-CHAPTER 6. An Embassage In Cyrene And Asia To Cæsar, Concerning The
-Complaints They Had To Make Against The Greeks; With Copies Of The
-Epistles Which Cæsar And Agrippa Wrote To The Cities For Them.
+### CHAPTER 6. An Embassage In Cyrene And Asia To Cæsar, Concerning The Complaints They Had To Make Against The Greeks; With Copies Of The Epistles Which Cæsar And Agrippa Wrote To The Cities For Them
 
 1. Now the cities ill-treated the Jews in Asia, and all those also of
 the same nation which lived in Libya, which joins to Cyrene, while the
@@ -39051,13 +35848,7 @@ but [join with us in] the pursuit of virtue and probity, for this
 belongs to all men in common, and of itself alone is sufficient for the
 preservation of human life. I now return to the thread of my history.
 
-
-
-
-
-
-CHAPTER 7. How, Upon Herod's Going Down Into David's Sepulcher, The
-Sedition In His Family Greatly Increased.
+### CHAPTER 7. How, Upon Herod's Going Down Into David's Sepulcher, The Sedition In His Family Greatly Increased
 
 1. As for Herod, he had spent vast sums about the cities, both without
 and within his own kingdom; and as he had before heard that Hyrcanus,
@@ -39286,13 +36077,7 @@ Accordingly the damsel, upon this change of her espousals, was disposal
 of to this young man, the son of Pheroras, the king giving for her
 portion a hundred talents.
 
-
-
-
-
-
-CHAPTER 8. How Herod Took Up Alexander And Bound Him; Whom Yet Archelaus
-King Of Cappadocia Reconciled To His Father Herod Again.
+### CHAPTER 8. How Herod Took Up Alexander And Bound Him; Whom Yet Archelaus King Of Cappadocia Reconciled To His Father Herod Again
 
 1. But still the affairs of Herod's family were no better, but
 perpetually more troublesome. Now this accident happened, which arose
@@ -39506,14 +36291,7 @@ affairs; so they went together as far as Antioch, and there Herod made a
 reconciliation between Archelaus and Titus, the president of Syria, who
 had been greatly at variance, and so returned back to Judea.
 
-
-
-
-
-
-CHAPTER 9. Concerning The Revolt Of The Trachonites; How Sylleus Accused
-Herod Before Cæsar; And How Herod, When Cæsar Was Angry At Him, Resolved
-To Send Nicolaus To Rome.
+### CHAPTER 9. Concerning The Revolt Of The Trachonites; How Sylleus Accused Herod Before Cæsar; And How Herod, When Cæsar Was Angry At Him, Resolved To Send Nicolaus To Rome
 
 1. When Herod had been at Rome, and was come back again, a war arose
 between him and the Arabians, on the occasion following: The inhabitants
@@ -39652,14 +36430,7 @@ again, to see whether his friends had prevailed to mitigate Cæsar, and
 to address themselves to Cæsar himself; and the ambassador he sent
 thither was Nicolans of Damascus.
 
-
-
-
-
-
-CHAPTER 10. How Eurycles Falsely Accused Herod's Sons; And How Their
-Father Bound Them, And Wrote To Cæsar About Them. Of Sylleus And How He
-Was Accused By Nicolaus.
+### CHAPTER 10. How Eurycles Falsely Accused Herod's Sons; And How Their Father Bound Them, And Wrote To Cæsar About Them. Of Sylleus And How He Was Accused By Nicolaus
 
 1. The disorders about Herod's family and children about this time grew
 much worse; for it now appeared certain, nor was it unforeseen before-
@@ -39927,15 +36698,7 @@ he admitted Aretas's ambassadors; and after he had just reproved him for
 his rashness, in not tarrying till he received the kingdom from him, he
 accepted of his presents, and confirmed him in his government.
 
-
-
-
-
-
-CHAPTER 11. How Herod, By Permission From Cæsar Accused His Sons Before
-An Assembly Of Judges At Berytus; And What Tero Suffered For Using A
-Boundless And Military Liberty Of Speech. Concerning Also The Death Of
-The Young Men And Their Burial At
+### CHAPTER 11. How Herod, By Permission From Cæsar Accused His Sons Before An Assembly Of Judges At Berytus; And What Tero Suffered For Using A Boundless And Military Liberty Of Speech. Concerning Also The Death Of The Young Men And Their Burial At
 
 Alexandrium.
 
@@ -40172,13 +36935,7 @@ pitied, yet was the barbarity of the man here equal, in that he did not
 abstain from their slaughter also. But of those persons we shall have
 occasion to discourse more hereafter.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ We may here observe the ancient practice of the Jews, of
 dedicating the sabbath day, not to idleness, but to the learning their
@@ -40186,11 +36943,9 @@ sacred rites and religious customs, and to the meditation on the law of
 Moses; the like to which we meet with elsewhere in Josephus also against
 Apion, B. I. sect. 22.]
 
-
 2 (return) [ This interval of ten years for the duration of Marcus
 Agrippa's government in Asia seems to be true, and agreeable to the
 Roman history. See Usher's Annals at A.M. 3392.]
-
 
 3 (return) [ Although Herod met Augustus at Aquilei, yet was this
 accusation of his sons deferred till they came to Rome, as sect. 3
@@ -40203,7 +36958,6 @@ they were both at this solemn hearing by Augustus, although the defense
 was made by Alexander alone, who was the eldest brother, and one that
 could speak very well.]
 
-
 4 (return) [ Since some prejudiced men have indulged a wild suspicion,
 as we have supposed already, Antiq. B. XV. ch. 11. sect. 7, that
 Josephus's history of Herod's rebuilding the temple is no better than a
@@ -40212,7 +36966,6 @@ the speech of Alexander before his father Herod, in his and his
 brother's vindication, which mentions the temple as known by every body
 to have been built by Herod.]
 
-
 5 (return) [ See John 2:20. See also another speech of Herod's own to
 the young men that pulled down his golden eagle from the front of the
 temple, where he takes notice how the building of the temple cost him a
@@ -40220,24 +36973,20 @@ vast sum; and that the Asamoneans, in those one hundred and twenty-five
 years they held the government, were not able to perform so great a
 work, to the honor of God, as this was, Antiq. B. XVII. ch. 6. sect. 3.]
 
-
 6 (return) [ Dr. Hudson here gives us the words of Suetonius concerning
 this Nicopolis, when Augustus rebuilt it: "And that the memory of the
 victory at Actium might be celebrated the more afterward, he built
 Nicopolis at Actium, and appointed public shows to be there exhibited
 every fifth year." In August, sect. 18.]
 
-
 7 (return) [ Augustus here calls Julius Cæsar his father, though by
 birth he was only his uncle, on account of his adoption by him. See the
 same Antiq. B. XIV. ch. 14. sect. 4.]
-
 
 8 (return) [ This is authentic evidence that the Jews, in the days of
 Augustus, began to prepare for the celebration of the sabbath at the
 ninth hour on Friday, as the tradition of the elders did, it seems, then
 require of them.]
-
 
 9 (return) [ The remaining part of this chapter is remarkable, as justly
 distinguishing natural justice, religion, and morality, from positive
@@ -40248,7 +36997,6 @@ this time nearer Christianity than were the Scribes and Pharisees of his
 age; who, as we know from the New Testament, were entirely of a
 different opinion and practice.]
 
-
 10 (return) [ It is here worth our observation, how careful Josephus was
 as to the discovery of truth in Herod's history, since he would not
 follow Nicolaus of Damascus himself, so great an historian, where there
@@ -40258,24 +37006,20 @@ he has given more demonstrations than almost any historian whomsoever;
 but as to Herod's taking great wealth out of David's sepulcher, though I
 cannot prove it, yet do I strongly suspect it from this very history.]
 
-
 11 (return) [ These joint presidents of Syria, Saturninus and Volumnius,
 were not perhaps of equal authority, but the latter like a procurator
 under the former, as the very learned Noris and Pagi, and with them Dr.
 Hudson, determine.]
-
 
 12 (return) [ This Aretas was now become so established a name for the
 kings of Arabia, [at Petra and Damascus,] that when the crown came to
 this Aeneas, he changed his name to Aretas, as Havercamp here justly
 observes. See Antiq. B. XIII. ch. 15. sect, 2.]
 
-
 13 (return) [ This oath, by the fortune of Cæsar, was put to Polycarp, a
 bishop of Smyrna, by the Roman governor, to try whether he were a
 Christian, as they were then esteemed who refused to swear that oath.
 Martyr. Polycarp, sect. 9.]
-
 
 14 (return) [ What Josephus relates Augustus to have here said, that
 Berytus was a city belonging to the Romans, is confirmed by Spanheim's
@@ -40285,30 +37029,14 @@ rendered famous by the benefits of Cæsar; and thence it is that, among
 the coins of Augustus, we meet with some having this inscription: The
 happy colony of Augustus at Berytua."]
 
-
 15 (return) [ The reader is here to note, that this eighth section is
 entirely wanting in the old Latin version, as Spanheim truly observes;
 nor is there any other reason for it, I suppose, than the great
 difficulty of an exact translation.]
 
+## BOOK XVII. Containing The Interval Of Fourteen Years.—From The Death Of Alexander And Aristobulus To The Banishment Of Archelaus
 
-
-
-
-
-BOOK XVII. Containing The Interval Of Fourteen Years.—From The Death Of
-Alexander And Aristobulus To The Banishment Of Archelaus.
-
-
-
-
-
-
-CHAPTER 1. How Antipater Was Hated By All The Nation [Of The Jews] For
-The Slaughter Of His Brethren; And How, For That Reason He Got Into
-Peculiar Favor With His Friends At Rome, By Giving Them Many Presents;
-As He Did Also With Saturninus, The President Of Syria And The Governors
-Who Were Under Him; And Concerning Herod's Wives And Children.
+### CHAPTER 1. How Antipater Was Hated By All The Nation [Of The Jews] For The Slaughter Of His Brethren; And How, For That Reason He Got Into Peculiar Favor With His Friends At Rome, By Giving Them Many Presents; As He Did Also With Saturninus, The President Of Syria And The Governors Who Were Under Him; And Concerning Herod's Wives And Children
 
 1. When Antipater had thus taken off his brethren, and had brought his
 father into the highest degree of impiety, till he was haunted with
@@ -40424,13 +37152,7 @@ marry, he gave the one in marriage to Antipater, the king's sister's
 son, and the other to Phasaelus, his brother's son. And this was the
 posterity of Herod. 1
 
-
-
-
-
-
-CHAPTER 2. Concerning Zamaris, The Babylonian Jew; Concerning The Plots
-Laid By Antipater Against His Father; And Somewhat About The Pharisees.
+### CHAPTER 2. Concerning Zamaris, The Babylonian Jew; Concerning The Plots Laid By Antipater Against His Father; And Somewhat About The Pharisees
 
 1. And now it was that Herod, being desirous of securing himself on the
 side of the Trachonites, resolved to build a village as large as a city
@@ -40552,13 +37274,7 @@ who, by the prediction, was foretold to be their appointed king; for
 that this king would have all things in his power, and would enable
 Bagoas to marry, and to have children of his own body begotten.
 
-
-
-
-
-
-CHAPTER 3. Concerning The Enmity Between Herod And Pheroras; How Herod
-Sent Antipater To Cæsar; And Of The Death Of Pheroras.
+### CHAPTER 3. Concerning The Enmity Between Herod And Pheroras; How Herod Sent Antipater To Cæsar; And Of The Death Of Pheroras
 
 1. When Herod had punished those Pharisees who had been convicted of the
 foregoing crimes, he gathered an assembly together of his friends, and
@@ -40639,16 +37355,7 @@ I will explain the history of this matter very distinctly, that it may
 be for a warning to mankind, that they take care of conducting their
 whole lives by the rules of virtue.
 
-
-
-
-
-
-CHAPTER 4. Pheroras's Wife Is Accused By His Freedmen, As Guilty Of
-Poisoning Him; And How Herod, Upon Examining; Of The Matter By Torture
-Found The Poison; But So That It Had Been Prepared For Himself By His
-Son Antipater; And Upon An Inquiry By Torture He Discovered The
-Dangerous Designs Of Antipater.
+### CHAPTER 4. Pheroras's Wife Is Accused By His Freedmen, As Guilty Of Poisoning Him; And How Herod, Upon Examining; Of The Matter By Torture Found The Poison; But So That It Had Been Prepared For Himself By His Son Antipater; And Upon An Inquiry By Torture He Discovered The Dangerous Designs Of Antipater
 
 1. As soon as Pheroras was dead, and his funeral was over, two of
 Pheroras's freed-men, who were much esteemed by him, came to Herod, and
@@ -40769,15 +37476,7 @@ was not made acquainted with any of them. The causes of which were, that
 the roads were exactly guarded, and that men hated Antipater; for there
 was nobody who would run any hazard himself to gain him any advantages.
 
-
-
-
-
-
-CHAPTER 5. Antipater's Navigation From Rome To His Father; And How He
-Was Accused By Nicolaus Of Damascus And Condemned To Die By His Father,
-And By Quintilius Varus, Who Was Then President Of Syria; And How He Was
-Then Bound Till Cæsar Should Be Informed Of His Cause.
+### CHAPTER 5. Antipater's Navigation From Rome To His Father; And How He Was Accused By Nicolaus Of Damascus And Condemned To Die By His Father, And By Quintilius Varus, Who Was Then President Of Syria; And How He Was Then Bound Till Cæsar Should Be Informed Of His Cause
 
 1. Now Herod, upon Antipater's writing to him, that having done all that
 he was to do, and this in the manner he was to do it, he would suddenly
@@ -41122,13 +37821,7 @@ ambassadors and letters [to Rome] to accuse his son, and an account of
 what assistance Acme had given him in his wicked designs, with copies of
 the epistles before mentioned.
 
-
-
-
-
-
-CHAPTER 6. Concerning The Disease That Herod Fell Into And The Sedition
-Which The Jews Raised Thereupon; With The Punishment Of The Seditious.
+### CHAPTER 6. Concerning The Disease That Herod Fell Into And The Sedition Which The Jews Raised Thereupon; With The Punishment Of The Seditious
 
 1. Now Herod's ambassadors made haste to Rome; but sent, as instructed
 beforehand, what answers they were to make to the questions put to them.
@@ -41332,13 +38025,7 @@ crimes; while it is usual for those who have any regard to virtue to lay
 aside their hatred at such a time, even with respect to those they
 justly esteemed their enemies.
 
-
-
-
-
-
-CHAPTER 7. Herod Has Thoughts Of Killing Himself With His Own Hand; And
-A Little Afterwards He Orders Antipater To Be Slain.
+### CHAPTER 7. Herod Has Thoughts Of Killing Himself With His Own Hand; And A Little Afterwards He Orders Antipater To Be Slain
 
 1. As he was giving these commands to his relations, there came letters
 from his ambassadors, who had been sent to Rome unto Cæsar, which, when
@@ -41372,12 +38059,7 @@ raised himself upon his elbow, and sent for some of his guards, and
 commanded them to kill Antipater without tiny further delay, and to do
 it presently, and to bury him in an ignoble manner at Hyrcania.
 
-
-
-
-
-
-CHAPTER 8. Concerning Herod's Death, And Testament, And Burial.
+### CHAPTER 8. Concerning Herod's Death, And Testament, And Burial
 
 1. And now Herod altered his testament upon the alteration of his mind;
 for he appointed Antipas, to whom he had before left the kingdom, to be
@@ -41479,13 +38161,7 @@ a great step towards his preservation of the government. Hereupon he
 went and offered sacrifice to God, and then betook himself to feast with
 his friends.
 
-
-
-
-
-
-CHAPTER 9. How The People Raised A Sedition Against Archelaus, And How
-He Sailed To Rome.
+### CHAPTER 9. How The People Raised A Sedition Against Archelaus, And How He Sailed To Rome
 
 1. At this time also it was that some of the Jews got together out of a
 desire of innovation. They lamented Matthias, and those that were slain
@@ -41747,13 +38423,7 @@ kingdom to Archelaus, or whether he should part it among all Herod's
 posterity; and this because they all stood in need of much assistance to
 support them.
 
-
-
-
-
-
-CHAPTER 10. A Sedition Against Sabinus; And How Varus Brought The
-Authors Of It To Punishment.
+### CHAPTER 10. A Sedition Against Sabinus; And How Varus Brought The Authors Of It To Punishment
 
 1. But before these things could be brought to a settlement, Malthace,
 Archelaus's mother, fell into a distemper, and died of it; and letters
@@ -42021,13 +38691,7 @@ relations of Herod who had been among these men in this war, they were
 the only persons whom he punished, who, without the least regard to
 justice, fought against their own kindred.
 
-
-
-
-
-
-CHAPTER 11. An Embassage To Cæsar; And How Cæsar Confirmed Herod's
-Testament.
+### CHAPTER 11. An Embassage To Cæsar; And How Cæsar Confirmed Herod's Testament
 
 1. So when Varus had settled these affairs, and had placed the former
 legion at Jerusalem, he returned back to Antioch; but as for Archelaus,
@@ -42169,12 +38833,7 @@ he reserved for himself; and they were acceptable to him, not so much
 for the great value they were of, as because they were memorials of the
 king to him.
 
-
-
-
-
-
-CHAPTER 12. Concerning A Spurious Alexander.
+### CHAPTER 12. Concerning A Spurious Alexander
 
 1. When these affairs had been thus settled by Cæsar, a certain young
 man, by birth a Jew, but brought up by a Roman freed-man in the city
@@ -42256,13 +38915,7 @@ sufficiently punished, in having thrown away so much of their money upon
 this spurious Alexander. And such was the ignominious conclusion of this
 bold contrivance about the spurious Alexander.
 
-
-
-
-
-
-CHAPTER 13. How Archelaus Upon A Second Accusation, Was Banished To
-Vienna.
+### CHAPTER 13. How Archelaus Upon A Second Accusation, Was Banished To Vienna
 
 1. When Archelaus was entered on his ethnarchy, and was come into Judea,
 he accused Joazar, the son of Boethus, of assisting the seditious, and
@@ -42351,13 +39004,7 @@ Syria; and Cyrenius, one that had been consul, was sent by Cæsar to take
 account of people's effects in Syria, and to sell the house of
 Archelaus.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Those who have a mind to know all the family and
 descendants of Antipater the Idumean, and of Herod the Great, his son,
@@ -42366,16 +39013,12 @@ Antiq. B. XVIII. ch. 5. sect. 4; and Of the War, B. I. ch. 28. sect. 4;
 in Havercamp's edition, p. 336; and Spanheim, lb. p. 402—405; and
 Reland, Paleslin. Part I. p. 178, 176.]
 
-
 2 (return) [ This is now wanting.]
-
 
 3 (return) [ Pheroras's wife, and her mother and sister, and Doris,
 Antipater's mother.]
 
-
 4 (return) [ His wife, her mother, and sister.]
-
 
 5 (return) [ It seems to me, by this whole story put together, that
 Pheroras was not himself poisoned, as is commonly supposed; for
@@ -42387,11 +39030,9 @@ which they knew was brought to Pheroras's wife, was made use of for
 poisoning him; whereas it appears to have been brought for her husband
 to poison Herod withal, as the future examinations demonstrate.]
 
-
 6 (return) [ That the making of images, without an intention to worship
 them, was not unlawful to the Jews, see the note on Antiq. B VIII. ch.
 7. sect. 5.
-
 
 7 (return) [ This fact, that one Joseph was made high priest for a
 single day, on occasion of the action here specified, that befell
@@ -42408,7 +39049,6 @@ much less when contradicted there by, seem to me of weight enough to
 deserve that so great a man as Reland should spend his time in endeavors
 at their vindication.]
 
-
 8 (return) [ This eclipse of the moon [which is the only eclipse of
 either of the luminaries mentioned by our Josephus in any of his
 writings] is of the greatest consequence for the determination of the
@@ -42418,9 +39058,7 @@ Julian period 4710, and the 4th year before the Christian era. See its
 calculation by the rules of astronomy, at the end of the Astronomical
 Lectures, edit. Lat. p. 451, 452.]
 
-
 9 (return) [ A place for the horse-races.]
-
 
 10 (return) [ When it is here said that Philip the tetrarch, and
 Archelaus the king, or ethnarch, were own brother, or genuine brothers,
@@ -42432,27 +39070,22 @@ Rome like when he went to have his kingdom confirmed to him at Rome, ch.
 9. sect. 5; and Of the War, B. II. ch. 2. sect. 1; which intimacy is
 perhaps all that Josephus intended by the words before us.]
 
-
 11 (return) [ These numbers of years for Herod's reign, 34 and 37, are
 the very same with those, Of the War, B. I. ch. 33. sect. 8, and are
 among the principal chronological characters belonging to the reign or
 death of Herod. See Harm. p. 150—155.]
-
 
 12 (return) [ At eight stadia or furlongs a-day, as here, Herod's
 funeral, conducted to Herodium, which lay at the distance from Jericho,
 where he died, of 200 stadia or furlongs, Of the War, B. 1. ch. 33.
 sect. 9, must have taken up no less than twenty-five days.]
 
-
 13 (return) [ This passover, when the sedition here mentioned was moved
 against Archelaus, was not one, but thirteen months after the eclipse of
 the moon already mentioned.]
 
-
 14 (return) [ See Antiq. B. XIV. ch. 13. sect. 10; and Of the War; B.
 II. ch. 12. sect. 9.]
-
 
 15 (return) [ These great devastations made about the temple here, and
 Of the War, B. II. ch. 3. sect. 3, seem not to have been full re-edified
@@ -42460,7 +39093,6 @@ in the days of Nero; till whose time there were eighteen thousand
 workmen continually employed in rebuilding and repairing that temple, as
 Josephus informs us, Antiq. B. XX. ch. 9. sect. 7. See the note on that
 place.]
-
 
 16 (return) [ Unless this Judas, the son of Ezekias, be the same with
 that Theudas, mentioned Acts 5:36, Josephus must have omitted him; for
@@ -42477,15 +39109,11 @@ the seditious came and burnt the royal palace at Amsthus, or
 Betharamphta, upon the river Jordan. Perhaps their leader, who is not
 named by Josephus, might be this Theudas.]
 
-
 17 (return) [ See Of the War, B. II. ch. 2. sect. 3.]
-
 
 18 (return) [ See the note, Of the War, B. II. ch. 6. sect. 1.]
 
-
 19 (return) [ He was tetrarch afterward.]
-
 
 20 (return) [ If any one compare that Divine prediction concerning the
 tyrannical power which Jewish kings would exercise over them, if they
@@ -42503,7 +39131,6 @@ who, under the more humble name of an ethnarch, which Augustus only
 would now allow him, soon took upon him the insolence and tyranny of his
 father king Herod, as the remaining part of this book will inform us,
 and particularly ch. 13. sect. 2.]
-
 
 21 (return) [ This is not true. See Antiq. B. XIV. ch. 9. sect. 3, 4;
 and ch. 12. sect. 2; and ch. 13. sect. 1, 2. Antiq. B. XV. ch. 3. sect.
@@ -42531,7 +39158,6 @@ I mean from some vast sums he took out of David's sepulcher, but
 concealed from the people. See the note on Antiq. B. VII. ch. 15. sect.
 3.]
 
-
 22 (return) [ Take here a very useful note of Grotias, on Luke 3:1, here
 quoted by Dr. Hudson: "When Josephus says that some part of the house
 [or possession] of Zenodorus [i.e. Abilene] was allotted to Philip, he
@@ -42550,29 +39176,14 @@ since Josephus elsewhere [Antiq. B. XX. ch. 7. sect. 1: clearly
 distinguishes Abilene from Cilalcidcue, Groius must be here so far
 mistaken.]
 
-
 23 (return) [ Spanheim seasonably observes here, that it was forbidden
 the Jews to marry their brother's wife when she had children by her
 first husband, and that Zonaras [cites, or] interprets the clause before
 us accordingly.]
 
+## BOOK XVIII. Containing The Interval Of Thirty-Two Years.—From The Banishment Of Archelaus To The Departure From Babylon
 
-
-
-
-
-BOOK XVIII. Containing The Interval Of Thirty-Two Years.—From The
-Banishment Of Archelaus To The Departure From Babylon.
-
-
-
-
-
-
-CHAPTER 1. How Cyrenius Was Sent By Cæsar To Make A Taxation Of Syria
-And Judea; And How Coponius Was Sent To Be Procurator Of Judea;
-Concerning Judas Of Galilee And Concerning The Sects That Were Among The
-Jews.
+### CHAPTER 1. How Cyrenius Was Sent By Cæsar To Make A Taxation Of Syria And Judea; And How Coponius Was Sent To Be Procurator Of Judea; Concerning Judas Of Galilee And Concerning The Sects That Were Among The Jews
 
 1. Now Cyrenius, a Roman senator, and one who had gone through other
 magistracies, and had passed through them till he had been consul, and
@@ -42702,14 +39313,7 @@ mad with this distemper, who was our procurator, and who occasioned the
 Jews to go wild with it by the abuse of his authority, and to make them
 revolt from the Romans. And these are the sects of Jewish philosophy.
 
-
-
-
-
-
-CHAPTER 2. How Herod And Philip Built Several Cities In Honor Of Cæsar.
-Concerning The Succession Of Priests And Procurators; As Also What
-Befell Phraates And The Parthians.
+### CHAPTER 2. How Herod And Philip Built Several Cities In Honor Of Cæsar. Concerning The Succession Of Priests And Procurators; As Also What Befell Phraates And The Parthians
 
 1. When Cyrenius had now disposed of Archelaus's money, and when the
 taxings were come to a conclusion, which were made in the thirty-seventh
@@ -42859,13 +39463,7 @@ of his life; for when he had been in the East, and settled all affairs
 there, his life was taken away by the poison which Piso gave him, as
 hath been related elsewhere. 7
 
-
-
-
-
-
-CHAPTER 3. Sedition Of The Jews Against Pontius Pilate. Concerning
-Christ, And What Befell Paulina And The Jews At Rome.
+### CHAPTER 3. Sedition Of The Jews Against Pontius Pilate. Concerning Christ, And What Befell Paulina And The Jews At Rome
 
 1. But now Pilate, the procurator of Judea, removed the army from
 Cæsarea to Jerusalem, to take their winter quarters there, in order to
@@ -43024,14 +39622,7 @@ them, who were unwilling to become soldiers, on account of keeping the
 laws of their forefathers. 11 Thus were these Jews banished out of the
 city by the wickedness of four men.
 
-
-
-
-
-
-CHAPTER 4. How The Samaritans Made A Tumult And Pilate Destroyed Many Of
-Them; How Pilate Was Accused And What Things Were Done By Vitellius
-Relating To The Jews And The Parthians.
+### CHAPTER 4. How The Samaritans Made A Tumult And Pilate Destroyed Many Of Them; How Pilate Was Accused And What Things Were Done By Vitellius Relating To The Jews And The Parthians
 
 1. But the nation of the Samaritans did not escape without tumults. The
 man who excited them to it was one who thought lying a thing of little
@@ -43172,15 +39763,7 @@ him,] and added it to the province of Syria, but gave order that the
 tributes which arose from it should be collected, and laid up in his
 tetrachy.
 
-
-
-
-
-
-CHAPTER 5. Herod The Tetrarch Makes War With Aretas, The King Of Arabia,
-And Is Beaten By Him As Also Concerning The Death Of John The Baptist.
-How Vitellius Went Up To Jerusalem; Together With Some Account Of
-Agrippa And Of The Posterity Of Herod The Great.
+### CHAPTER 5. Herod The Tetrarch Makes War With Aretas, The King Of Arabia, And Is Beaten By Him As Also Concerning The Death Of John The Baptist. How Vitellius Went Up To Jerusalem; Together With Some Account Of Agrippa And Of The Posterity Of Herod The Great
 
 1. About this time Aretas [the king of Arabia Petres] and Herod had a
 quarrel on the account following: Herod the tetrarch had, married the
@@ -43342,15 +39925,7 @@ account of them, it now remains that I relate the several hard fortunes
 which befell Agrippa, and how he got clear of them, and was advanced to
 the greatest height of dignity and power.
 
-
-
-
-
-
-CHAPTER 6. Of The Navigation Of King Agrippa To Rome, To Tiberius Cæsar;
-And Now Upon His Being Accused By His Own Freed-Man, He Was Bound; How
-Also He, Was Set At Liberty By Caius, After Tiberius's Death And Was
-Made King Of The Tetrarchy Of Philip.
+### CHAPTER 6. Of The Navigation Of King Agrippa To Rome, To Tiberius Cæsar; And Now Upon His Being Accused By His Own Freed-Man, He Was Bound; How Also He, Was Set At Liberty By Caius, After Tiberius's Death And Was Made King Of The Tetrarchy Of Philip
 
 1. A Little before the death of Herod the king, Agrippa lived at Rome,
 and was generally brought up and conversed with Drusus, the emperor
@@ -43846,12 +40421,7 @@ when they compared his former poverty with his present happy affluence;
 so some called him a happy man, and others could not well believe that
 things were so much changed with him for the better.
 
-
-
-
-
-
-CHAPTER 7. How Herod The Tetrarch Was Banished.
+### CHAPTER 7. How Herod The Tetrarch Was Banished
 
 1. But Herodias, Agrippa's sister, who now lived as wife to that Herod
 who was tetrarch of Galilee and Peres, took this authority of her
@@ -43943,14 +40513,7 @@ himself, and by reason of the vastness of his dominions made himself a
 god, and took upon himself to act in all things to the reproach of the
 Deity itself.
 
-
-
-
-
-
-CHAPTER 8. Concerning The Embassage Of The Jews To Caius; 28 And How
-Caius Sent Petronius Into Syria To Make War Against The Jews, Unless
-They Would Receive His Statue.
+### CHAPTER 8. Concerning The Embassage Of The Jews To Caius; 28 And How Caius Sent Petronius Into Syria To Make War Against The Jews, Unless They Would Receive His Statue
 
 1. There was now a tumult arisen at Alexandria, between the Jewish
 inhabitants and the Greeks; and three ambassadors were chosen out of
@@ -44236,13 +40799,7 @@ the assistance he afforded the Jews for avoiding the dangers they were
 in. And by this means Petronius escaped that danger of death, which he
 could not foresee.
 
-
-
-
-
-
-CHAPTER 9. What Befell The Jews That Were In Babylon On Occasion Of
-Asineus And Anileus, Two Brethren.
+### CHAPTER 9. What Befell The Jews That Were In Babylon On Occasion Of Asineus And Anileus, Two Brethren
 
 1. A Very sad calamity now befell the Jews that were in Mesopotamia, and
 especially those that dwelt in Babylonia. Inferior it was to none of the
@@ -44610,13 +41167,7 @@ obtained security there by the strength of those cities; besides which
 their inhabitants, who were a great many, were all warlike men. And this
 was the state of the Jews at this time in Babylonia.
 
-
-
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 1 (return) [ Since St. Luke once, Acts 5:37, and Josephus four several
 times, once here, sect. 6; and B. XX. ch. 5. sect. 2; Of the War, B. II.
@@ -44638,7 +41189,6 @@ this Judas was derived, it determines nothing, since there were two of
 that name, the one in Gaulonitis, the other in Galilee. See Reland on
 the city or town of that name.]
 
-
 2 (return) [ It seems not very improbable to me that this Sadduc, the
 Pharisee, was the very same man of whom the Rabbins speak, as the
 unhappy, but undesigning, occasion of the impiety or infidelity of the
@@ -44650,7 +41200,6 @@ of these Sadducees before this time, the Recognitions assuring us that
 they began about the days of John the Baptist; B. 1. ch. 54. See note
 above.]
 
-
 3 (return) [ It seems by what Josephus says here, and Philo himself
 elsewhere, Op. p. 679, that these Essens did not use to go to the Jewish
 festivals at Jerusalem, or to offer sacrifices there, which may be one
@@ -44660,13 +41209,11 @@ mentioned as those that observed the customs of their forefathers, and
 that without any such ill character laid upon them as is there laid upon
 the other sects among that people.]
 
-
 4 (return) [ Who these Polistae in Josephus, or in Strabo, among the
 Pythagoric Dacae, were, it is not easy to determine. Scaliger offers no
 improbable conjecture, that some of these Dacae lived alone, like monks,
 in tents or caves; but that others of them lived together in built
 cities, and thence were called by such names as implied the same.]
-
 
 5 (return) [ We may here take notice, as well as in the parallel parts
 of the books Of the War, B. II. ch. 9. sect. 1, that after the death of
@@ -44676,12 +41223,9 @@ is, that after the large history of Nicolaus of Damascus, including the
 life of Herod, and probably the succession and first actions of his
 sons, he had but few good histories of those times before him.]
 
-
 6 (return) [ Numbers 19:11-14.]
 
-
 7 (return) [ This citation is now wanting.]
-
 
 8 (return) [ These Jews, as they are here called, whose blood Pilate
 shed on this occasion, may very well be those very Galilean Jews, "whose
@@ -44705,12 +41249,9 @@ tetrarch's jurisdiction, and had slain some of his Galilean subjects,
 Luke 13:1; and, as he was willing to correct that error, he sent Christ
 to Herod at this time."]
 
-
 9 (return) [ A.D. 33, April 3.]
 
-
 10 (return) [ April 5.]
-
 
 11 (return) [ Of the banishment of these four thousand Jews into
 Sardinia by Tiberius, see Suetonlus in Tiber. sect. 36. But as for Mr.
@@ -44728,7 +41269,6 @@ have been the case here, as to the major part of the Jews now banished,
 but nothing more. See several of the Roman decrees in their favor as to
 such matters, B. XIV. ch. 10.]
 
-
 12 (return) [ Since Moses never came himself beyond Jordan, nor
 particularly to Mount Gerizzim, and since these Samaritans have a
 tradition among them, related here by Dr. Hudson, from Reland, who was
@@ -44737,7 +41277,6 @@ or Ozis the high priest, 1 Chronicles 6:6; the ark and other sacred
 vessels were, by God's command, laid up or hidden in Mount Gerizzim, it
 is highly probable that this was the foolish foundation the present
 Samaritans went upon, in the sedition here described.]
-
 
 13 (return) [ This mention of the high priest's sacred garments received
 seven days before a festival, and purified in those days against a
@@ -44748,7 +41287,6 @@ here mentioned were the passover, pentecost, and feast of tabernacles;
 and the fast so called by way of distinction, as Acts 27:9, was the
 great day of expiation.]
 
-
 14 (return) [ This calculation, from all Josephus's Greek copies, is
 exactly right; for since Herod died about September, in the fourth year
 before the Christian era, and Tiberius began, as is well known, Aug. 19,
@@ -44758,7 +41296,6 @@ of A.D. 33, [the very year of our Savior's death also,] or, however, in
 the beginning of the next year, A.D. 34. This Philip the tetrarch seems
 to have been the best of all the posterity of Herod, for his love of
 peace, and his love of justice. An excellent example this.]
-
 
 15 (return) [ This Herod seems to have had the additional name of
 Philip, as Antipas was named Herod-Antipas: and as Antipas and Antipater
@@ -44774,7 +41311,6 @@ which reproof Salome, the daughter of Herodias by her first husband
 Herod-Philip, who was still alive, occasioned him to be unjustly
 beheaded.]
 
-
 16 (return) [ Whether this sudden extinction of almost the entire
 lineage of Herod the Great, which was very numerous, as we are both here
 and in the next section informed, was not in part as a punishment for
@@ -44782,22 +41318,17 @@ the gross incests they were frequently guilty of, in marrying their own
 nephews and nieces, well deserves to be considered. See Leviticus 18:6,
 7; 21:10; and Noldius, De Herod, No. 269, 270.]
 
-
 17 (return) [ There are coins still extant of this Eraess, as Spanheim
 informs us. Spanheim also informs us of a coin still extant of this
 Jotape, daughter of the king of Commageus.]
-
 
 18 (return) [ Spanheim observes, that we have here an instance of the
 Attic quantity of use-money, which was the eighth part of the original
 sum, or 12 per cent., for such is the proportion of 2500 to 20,000.]
 
-
 19 (return) [ The governor of the Jews there.]
 
-
 20 (return) [ Tiberius, junior of Germanicus.]
-
 
 21 (return) [ This high commendation of Antonia for marrying but once,
 given here, and supported elsewhere; Antiq. B. XVII. ch. 13. sect. 4,
@@ -44821,23 +41352,18 @@ testifies also; and for Epiphanius, rather earlier, he is clear and full
 to the same purpose, and says that law obtained over the whole catholic
 church in his days,—as the places in the forecited authors inform us.]
 
-
 22 (return) [ Dr. Hudson here takes notice, out of Seneca, Epistle V.
 that this was the custom of Tiberius, to couple the prisoner and the
 soldier that guarded him together in the same chain.]
 
-
 23 (return) [ Tiberius his own grandson, and Caius his brother Drusus's
 grandson.]
-
 
 24 (return) [ So I correct Josephus's copy, which calls Germanicus his
 brother, who was his brother's son.]
 
-
 25 (return) [ This is a known thing among the Roman historians and
 poets, that Tiberius was greatly given to astrology and divination.]
-
 
 26 (return) [ This name of a lion is often given to tyrants, especially
 by the such Agrippa, and probably his freed-man Marsyas, in effect were,
@@ -44845,11 +41371,9 @@ Ezekiel 19:1, 9; Esther 4:9 2 Timothy 4:17. They are also sometimes
 compared to or represented by wild beasts, of which the lion is the
 principal, Daniel 7:3, 8; Apoc. 13:1, 2.]
 
-
 27 (return) [ Although Caius now promised to give Agrippa the tetrarchy
 of Lysanias, yet was it not actually conferred upon him till the reign
 of Claudius, as we learn, Antiq. B. XIX, ch. 5. sect. 1.]
-
 
 28 (return) [ Regarding instances of the interpositions of Providence,
 as have been always very rare among the other idolatrous nations, but of
@@ -44859,7 +41383,6 @@ which are the more remarkable, because, among all their other follies
 and vices, the Jews were not at this time idolaters; and the
 deliverances here mentioned were done in order to prevent their relapse
 into that idolatry.]
-
 
 29 (return) [ Josephus here assures us that the ambassadors from
 Alexandria to Caius were on each part no more than three in number, for
@@ -44872,12 +41395,10 @@ truth; nor, in that case, would Josephus have contradicted so authentic
 a witness, had he seen that account of Philo's; which that he ever did
 does not appear.]
 
-
 30 (return) [ This Alexander, the alabarch, or governor of the Jews, at
 Alexandria, and brother to Philo, is supposed by Bishop Pearson, in Act.
 Apost. p. 41,42, to be the same with that Alexander who is mentioned by
 St. Luke, as of the kindred of the high priests, Acts 4:6.]
-
 
 31 (return) [ What Josephus here, and sect. 6, relates as done by the
 Jews seed time, is in Philo, "not far off the time when the corn was
@@ -44885,7 +41406,6 @@ ripe," who, as Le Clerc notes, differ here one from the other. This is
 another indication that Josephus, when he wrote this account, had not
 seen Philo's Legat. ad Caiurn, otherwise he would hardly trove herein
 differed from him.]
-
 
 32 (return) [ This. Publius Petronius was after this still president of
 Syria, under Cladius, and, at the desire of Agrippa, published a severe
@@ -44896,7 +41416,6 @@ present accounts of Josephus, as do the other decrees of Claudius,
 relating to the like Jewish affairs, B. XIX. ch. 5. sect. 2, 3, to which
 I refer the inquisitive reader.]
 
-
 33 (return) [ Josephus here uses the solemn New Testament words, the
 presence and appearance of God, for the extraordinary manifestation of
 his power and providence to Petronius, by sending rain in a time of
@@ -44906,18 +41425,15 @@ miraculous appearance at all in that case; which well deserves to be
 taken notice of here, and greatly illustrates several texts, both in the
 Old and New Testament.]
 
-
 34 (return) [ This behavior of Caius to Agrippa is very like that of
 Herod Antipas, his uncle, to Herodias, Agrippa's sister, about it John
 the Baptist, Matthew 14:6—11.]
-
 
 35 (return) [ The joining of the right hands was esteemed among the
 Peoians [and Parthians] in particular a most inviolable obligation to
 fidelity, as Dr. Hudson here observes, and refers to the commentary on
 Justin, B. XI. ch. 15., for its confirmation. We often meet with the
 like use of it in Josephus.]
-
 
 36 (return) [ This custom of the Mesopotamians to carry their household
 gods along with them wherever they traveled is as old as the days of
@@ -44927,27 +41443,15 @@ because they suffered one of their leaders to marry an idolatrous wife,
 contrary to the law of Moses. Of which matter see the note on B. XIX.
 ch. 5. sect. 3.]
 
-
 37 (return) [ This custom, in Syria and Mesopotamia, of setting men upon
 an ass, by way of disgrace, is still kept up at Damascus in Syria;
 where, in order to show their despite against the Christians, the Turks
 will not suffer them to hire horses, but asses only, when they go abroad
 to see the country, as Mr. Maundrell assures us, p. 128.]
 
+## BOOK XIX. Containing The Interval Of Three Years And A Half.—From The Departure Out Of Babylon To Fadus, The Roman Procurator
 
-
-
-
-
-BOOK XIX. Containing The Interval Of Three Years And A Half.—From The
-Departure Out Of Babylon To Fadus, The Roman Procurator.
-
-
-
-
-
-
-CHAPTER 1. How Caius 1 Was Slain By Cherea.
+### CHAPTER 1. How Caius 1 Was Slain By Cherea
 
 1. Now this Caius 2 did not demonstrate his madness in offering injuries
 only to the Jews at Jerusalem, or to those that dwelt in the
@@ -45613,7 +42117,7 @@ therefore might be suspected to deserve the less credit, because of his
 ill-will to him. Nay, it was said by some [and this indeed it was that
 deprived the nobility of their hopes, and made them sad] that Caius was
 in a condition to despise the dangers he had been in, and took no care
-of healing his wounds, but was gotten away into the market- place, and,
+of healing his wounds, but was gotten away into the market-place, and,
 bloody as he was, was making an harangue to the people. And these were
 the conjectural reports of those that were so unreasonable as to
 endeavor to raise tumults, which they turned different ways, according
@@ -45730,14 +42234,7 @@ the life of Caius, who put on at this time an air of great assurance,
 and appeared with great magnanimity, as if the administration of the
 public affairs were already devolved upon them.
 
-
-
-
-
-
-CHAPTER 2. How The Senators Determined To Restore The Democracy; But The
-Soldiers Were For Preserving The Monarchy, Concerning The Slaughter Of
-Caius's Wife And Daughter. A Character Of Caius's Morals.
+### CHAPTER 2. How The Senators Determined To Restore The Democracy; But The Soldiers Were For Preserving The Monarchy, Concerning The Slaughter Of Caius's Wife And Daughter. A Character Of Caius's Morals
 
 1. When the public affairs were in this posture, Claudius was on the
 sudden hurried away out of his house; for the soldiers had a meeting
@@ -45991,13 +42488,7 @@ laid aside the kindness they had for him, and began to hate him; from
 which hatred came that plot which they raised against him, and wherein
 he perished.
 
-
-
-
-
-
-CHAPTER 3. How Claudius Was Seized Upon And Brought Out Of His House And
-Brought To The Camp; And How The Senate Sent An Embassage To Him.
+### CHAPTER 3. How Claudius Was Seized Upon And Brought Out Of His House And Brought To The Camp; And How The Senate Sent An Embassage To Him
 
 1. Now Claudius, as I said before, went out of that way along which
 Caius was gone; and as the family was in a mighty disorder upon the sad
@@ -46123,14 +42614,7 @@ as given by the senate; that he would prosper better, and be happier, if
 he came to it, not by the injustice, but by the good-will of those that
 would bestow it upon him.
 
-
-
-
-
-
-CHAPTER 4. What Things King Agrippa Did For Claudius; And How Claudius
-When He Had Taken The Government Commanded The Murderers Of Caius To Be
-Slain.
+### CHAPTER 4. What Things King Agrippa Did For Claudius; And How Claudius When He Had Taken The Government Commanded The Murderers Of Caius To Be Slain
 
 1. Now Claudius, though he was sensible after what an insolent manner
 the senate had sent to him yet did he, according to their advice, behave
@@ -46315,13 +42799,7 @@ would be unjust in him to fail of performing his obligations to his
 fellow confederates; so he fell upon his sword, and killed himself, the
 wound reaching up to the very hilt of the sword.
 
-
-
-
-
-
-CHAPTER 5. How Claudius Restored To Agrippa His Grandfathers Kingdoms
-And Augmented His Dominions; And How He Published An Edict In Behalf.
+### CHAPTER 5. How Claudius Restored To Agrippa His Grandfathers Kingdoms And Augmented His Dominions; And How He Published An Edict In Behalf
 
 1. Now when Claudius had taken out of the way all those soldiers whom he
 suspected, which he did immediately, he published an edict, and therein
@@ -46400,14 +42878,7 @@ governors, by the means of the ambassadors, and to have them exposed to
 the public for full thirty days, in such a place whence it may plainly
 be read from the ground." 17
 
-
-
-
-
-
-CHAPTER 6. What Things Were Done By Agrippa At Jerusalem When He Was
-Returned Back Into Judea; And What It Was That Petronius Wrote To The
-Inhabitants Of Doris, In Behalf.
+### CHAPTER 6. What Things Were Done By Agrippa At Jerusalem When He Was Returned Back Into Judea; And What It Was That Petronius Wrote To The Inhabitants Of Doris, In Behalf
 
 1. Now Claudius Cæsar, by these decrees of his which were sent to
 Alexandria, and to all the habitable earth, made known what opinion he
@@ -46520,14 +42991,7 @@ Jonathan, and, according to his brother's desire, bestowed the high
 priesthood upon Matthias. Nor was it long before Marcus succeeded
 Petronius, as president of Syria.
 
-
-
-
-
-
-CHAPTER 7. Concerning Silas And On What Account It Was That King Agrippa
-Was Angry At Him. How Agrippa Began To Encompass Jerusalem With A Wall;
-And What Benefits He Bestowed On The Inhabitants Of Berytus.
+### CHAPTER 7. Concerning Silas And On What Account It Was That King Agrippa Was Angry At Him. How Agrippa Began To Encompass Jerusalem With A Wall; And What Benefits He Bestowed On The Inhabitants Of Berytus
 
 1. Now Silas, the general of the king's horse, because he had been
 faithful to him under all his misfortunes, and had never refused to be a
@@ -46635,13 +43099,7 @@ for this exercise, that both the malefactors might receive their
 punishment, and that this operation of war might be a recreation in
 peace. And thus were these criminals all destroyed at once.
 
-
-
-
-
-
-CHAPTER 8. What Other Acts Were Done By Agrippa Until His Death; And
-After What Manner He Died.
+### CHAPTER 8. What Other Acts Were Done By Agrippa Until His Death; And After What Manner He Died
 
 1. When Agrippa had finished what I have above related at Berytus, he
 removed to Tiberias, a city of Galilee. Now he was in great esteem among
@@ -46719,14 +43177,7 @@ and the king's friend, sent Aristo, one of the king's most faithful
 servants, and slew Silas, who had been their enemy, as if it had been
 done by the king's own command.
 
-
-
-
-
-
-CHAPTER 9. What Things Were Done After The Death Of Agrippa; And How
-Claudius, On Account Of The Youth And Unskilfulness Of Agrippa, Junior,
-Sent Cuspius Fadus To Be Procurator Of Judea, And Of The Entire Kingdom.
+### CHAPTER 9. What Things Were Done After The Death Of Agrippa; And How Claudius, On Account Of The Youth And Unskilfulness Of Agrippa, Junior, Sent Cuspius Fadus To Be Procurator Of Judea, And Of The Entire Kingdom
 
 1. And thus did king Agrippa depart this life. But he left behind him a
 son, Agrippa by name, a youth in the seventeenth year of his age, and
@@ -46784,13 +43235,7 @@ times, and sowed the seeds of that war which began under Florus; whence
 it was that when Vespasian had subdued the country, he removed them out
 of his province, as we shall relate hereafter.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ In this and the three next chapters we have, I think, a
 larger and more distinct account of the slaughter of Caius, and the
@@ -46804,36 +43249,29 @@ he had with Agrippa, junior, whose father was deeply concerned in the
 advancement of Claudius, upon the death of Caius; from which Agrippa,
 junior, Josephus might be fully informed Of his history.]
 
-
 2 (return) [ Called Caligula by the Romans.]
-
 
 3 (return) [ Just such a voice as this is related to be came, and from
 an unknown original also, to the famous Polycarp, as he was going to
 martyrdom, bidding him "play the man;" as the church of Smyrna assures
 us in their account of that his martyrdom, sect. 9.]
 
-
 4 (return) [ Here Josephus supposes that it was Augustus, and not Julius
 Cæsar, who first changed the Roman commonwealth into a monarchy; for
 these shows were in honor of Augustus, as we shall learn in the next
 section.]
 
-
 5 (return) [ Suetonius says Caius was slain about the seventh hour of
 the day, the ninth. The series of the narration favors Josephus.]
-
 
 6 (return) [ The rewards proposed by the Roman laws to informers was
 sometimes an eighth part as Spanheim assures us, from the criminal's
 goods, as here, and sometimes a fourth part.]
 
-
 7 (return) [ These consuls are named in the War of the Jews, B. II. ch.
 11. sect; 1, Sentius Saturninus and Pomponius Secundus, as Spanheim
 notes here. The speech of the former of them is set down in the next
 chapter, sect. 2.]
-
 
 8 (return) [ In this oration of Sentius Saturninus, we may see the great
 value virtuous men put upon public liberty, and the sad misery they
@@ -46843,13 +43281,11 @@ See Josephus's own short but pithy reflection at the end of the chapter:
 necessary to a wise man, who have the absolute power to do what they
 please without control."]
 
-
 9 (return) [ Hence we learn that, in the opinion of Saturninus, the
 sovereign authority of the consuls and senate had been taken away just a
 hundred years before the death of Caius, A.D. 41, or in the sixtieth
 year before the Christian saga, when the first triumvirate began under
 Cæsar, Pompey, and Crassus.]
-
 
 10 (return) [ Spanheim here notes from Suetonius, that the name of
 Caius's sister with whom he was guilty of incest, was Drusilla and that
@@ -46859,19 +43295,16 @@ for ships, which our author esteems the only public work for the good of
 the present and future ages which Caius left behind him, though in an
 imperfect condition.]
 
-
 11 (return) [ This Caius was the son of that excellent person
 Germanicus, who was the son of Drusus, the brother of Tiberius the
 emperor. The first place Claudius came to was inhabited, and called
 Herincure, as Spanheim here informs us from Suetonius, in Claud. ch. 10.
-
 
 12 (return) [ How Claudius, another son of Drusus, which Drusus was the
 father of Germanicus, could be here himself called Germanicus, Suetonius
 informs us, when he assures us that, by a decree of the senate, the
 surname of Germanicus was bestowed upon Drusus, and his posterity
 also.—In Claud. ch. 1.]
-
 
 13 (return) [ This number of drachmae to be distributed to each private
 soldier, five thousand drachmae, equal to twenty thousand sesterces, or
@@ -46882,13 +43315,11 @@ have this number from Agrippa, junior, though I doubt the thousands, or
 at least the hundreds, have been added by the transcribers, of which we
 have had several examples already in Josephus.]
 
-
 14 (return) [ This piercing cold here complained of by Lupus agrees well
 to the time of the year when Claudius began his reign; it being for
 certain about the months of November, December, or January, and most
 probably a few days after January the twenty-fourth, and a few days
 before the Roman Parentalia.]
-
 
 15 (return) [ It is both here and elsewhere very remarkable, that the
 murders of the vilest tyrants, who yet highly deserved to die, when
@@ -46916,7 +43347,6 @@ which was their commission for what they did, Judges 3:15, 19, 20;
 Judith 9:2; Test. Levi. sect. 5, in Authent. Rec. p. 312. See also page
 432.]
 
-
 16 (return) [ Here St. Luke is in some measure confirmed, when he
 reforms us, ch. 3:1, that Lysanias was some time before tetrarch of
 Abilene, whose capital was Abila; as he is further confirmed by Ptolemy,
@@ -46927,34 +43357,29 @@ belonged to the land of Canaan originally, to have been the burying-
 place of Abel, and referred to as such, Matthew 23:35; Luke 11:51. See
 Authent. Rec. Part. II. p. 883—885.]
 
-
 17 (return) [ This form was so known and frequent among the Romans, as
 Dr. Hudson here tells us from the great Selden, that it used to be thus
 represented at the bottom of their edicts by the initial letters only,
 U. D. P. R. L. P, Unde De Plano Recte Lege Possit; "Whence it may be
 plainly read from the ground."]
 
-
 18 (return) [ Josephus shows, both here and ch. 7. sect. 3, that he had
 a much greater opinion of king Agrippa I. than Simon the learned Rabbi,
 than the people of Cæsarea and Sebaste, ch. 7. sect. 4; and ch. 9. sect.
-1; and indeed than his double- dealing between the senate and Claudius,
+1; and indeed than his double-dealing between the senate and Claudius,
 ch. 4. sect. 2, than his slaughter of James the brother of John, and his
 imprisonment of Peter, or his vain-glorious behavior before he died,
 both in Acts 12:13; and here, ch. 4. sect. 1, will justify or allow.
 Josephus's character was probably taken from his son Agrippa, junior.]
-
 
 19 (return) [ This treasury-chamber seems to have been the very same in
 which our Savior taught, and where the people offered their charity
 money for the repairs or other uses of the temple, Mark 12:41, etc.;
 Luke 22:1; John 8:20.]
 
-
 20 (return) [ A strange number of condemned criminals to be under the
 sentence of death at once; no fewer, it seems, than one thousand four
 hundred!]
-
 
 21 (return) [ We have a mighty cry made here by some critics, as the
 great Eusebius had on purpose falsified this account of Josephus, so as
@@ -46987,7 +43412,6 @@ errors in the copies; but being in an ancient Christian writer, not so
 well relished by many of those critics, nothing will serve but the ill-
 grounded supposal of willful corruption and prevarication.]
 
-
 22 (return) [ This sum of twelve millions of drachmae, which is equal to
 three millions of shekels, i.e. at 2s. 10d. a shekel, equal to four
 hundred and twenty-five thousand pounds sterling, was Agrippa the
@@ -46997,7 +43421,6 @@ Herod's income; he having abated the tax upon houses at Jerusalem, ch.
 the note on Antiq. B. XVII. ch. 11. sect. 4. A large sum this! but not,
 it seems, sufficient for his extravagant expenses.]
 
-
 23 (return) [ Reland takes notice here, not improperly, that Josephus
 omits the reconciliation of this Herod Agrippa to the Tyrians and
 Sidoninus, by the means of Blastus the king's chamberlain, mentioned
@@ -47005,26 +43428,13 @@ Acts 12:20. Nor is there any history in the world so complete, as to
 omit nothing that other historians take notice of, unless the one be
 taken out of the other, and accommodated to it.]
 
-
 24 (return) [ Photius, who made an extract out of this section, says
 they were not the statues or images, but the ladies themselves, who were
 thus basely abused by the soldiers.]
 
+## BOOK XX. Containing The Interval Of Twenty-Two Years.—From Fadus The Procurator To Florus
 
-
-
-
-
-BOOK XX. Containing The Interval Of Twenty-Two Years.—From Fadus The
-Procurator To Florus.
-
-
-
-
-
-
-CHAPTER 1. A Sedition Of The Philadelphians Against The Jews; And Also
-Concerning The Vestments Of The High Priest.
+### CHAPTER 1. A Sedition Of The Philadelphians Against The Jews; And Also Concerning The Vestments Of The High Priest
 
 1. Upon the death of king Agrippa, which we have related in the
 foregoing book, Claudius Cæsar sent Cassius Longinus as successor to
@@ -47106,14 +43516,7 @@ descendants till the end of the war 1 Accordingly, Herod removed the
 last high priest, called Cimtheras, and bestowed that dignity on his
 successor Joseph, the son of Cantos.
 
-
-
-
-
-
-CHAPTER 2. How Helena The Queen Of Adiabene And Her Son Izates, Embraced
-The Jewish Religion; And How Helena Supplied The Poor With Corn, When
-There Was A Great Famine At Jerusalem.
+### CHAPTER 2. How Helena The Queen Of Adiabene And Her Son Izates, Embraced The Jewish Religion; And How Helena Supplied The Poor With Corn, When There Was A Great Famine At Jerusalem
 
 1. About this time it was that Helena, queen of Adiabene, and her son
 Izates, changed their course of life, and embraced the Jewish customs,
@@ -47274,15 +43677,7 @@ Izates was informed of this famine, 5 he sent great sums of money to the
 principal men in Jerusalem. However, what favors this queen and king
 conferred upon our city Jerusalem shall be further related hereafter.
 
-
-
-
-
-
-CHAPTER 3. How Artabanus, the King of Parthia out of Fear of the Secret
-Contrivances of His Subjects Against Him, Went to Izates, and Was By Him
-Reinstated in His Government; as Also How Bardanes His Son Denounced War
-Against Izates.
+### CHAPTER 3. How Artabanus, the King of Parthia out of Fear of the Secret Contrivances of His Subjects Against Him, Went to Izates, and Was By Him Reinstated in His Government; as Also How Bardanes His Son Denounced War Against Izates
 
 1. But now Artabanus, king of the Parthians perceiving that the
 governors of the provinces had framed a plot against him, did not think
@@ -47369,14 +43764,7 @@ committed two of his provinces to two of his brothers by the same
 father; that of the Medes to the elder, Pacorus; and Armenia to the
 younger, Tiridates.
 
-
-
-
-
-
-CHAPTER 4. How Izates Was Betrayed By His Own Subjects, And Fought
-Against By The Arabians And How Izates, By The Providence Of God, Was
-Delivered Out Of Their Hands.
+### CHAPTER 4. How Izates Was Betrayed By His Own Subjects, And Fought Against By The Arabians And How Izates, By The Providence Of God, Was Delivered Out Of Their Hands
 
 1. Now when the king's brother, Monobazus, and his other kindred, saw
 how Izates, by his piety to God, was become greatly esteemed by all men,
@@ -47478,13 +43866,7 @@ three furlongs from the city Jerusalem. But for the actions of Monobazus
 the king, which he did during the rest of his life, we will relate them
 hereafter.
 
-
-
-
-
-
-CHAPTER 5. Concerning Theudas And The Sons Of Judas The Galilean; As
-Also What Calamity Fell Upon The Jews On The Day Of The Passover.
+### CHAPTER 5. Concerning Theudas And The Sons Of Judas The Galilean; As Also What Calamity Fell Upon The Jews On The Day Of The Passover
 
 1. Now it came to pass, while Fadus was procurator of Judea, that a
 certain magician, whose name was Theudas, 9 persuaded a great part of
@@ -47575,13 +43957,7 @@ the soldier who had offered the affront to the laws should be beheaded,
 and thereby put a stop to the sedition which was ready to be kindled a
 second time.
 
-
-
-
-
-
-CHAPTER 6. How There Happened A Quarrel Between The Jews And The
-Samaritans; And How Claudius Put An End To Their Differences.
+### CHAPTER 6. How There Happened A Quarrel Between The Jews And The Samaritans; And How Claudius Put An End To Their Differences
 
 1. Now there arose a quarrel between the Samaritans and the Jews on the
 occasion following: It was the custom of the Galileans, when they came
@@ -47676,13 +44052,7 @@ that Cumanus should be banished. He also gave order that Celer the
 tribune should be carried back to Jerusalem, and should be drawn through
 the city in the sight of all the people, and then should be slain.
 
-
-
-
-
-
-CHAPTER 7. Felix Is Made Procurator Of Judea; As Also Concerning
-Agrippa, Junior And His Sisters.
+### CHAPTER 7. Felix Is Made Procurator Of Judea; As Also Concerning Agrippa, Junior And His Sisters
 
 1. So Claudius sent Felix, the brother of Pallas, to take care of the
 affairs of Judea; and when he had already completed the twelfth year of
@@ -47730,15 +44100,7 @@ Jews, both for his family and his wealth; and indeed he was then their
 alabarch. So she named her son whom she had by him Agrippinus. But of
 all these particulars we shall hereafter treat more exactly. 16
 
-
-
-
-
-
-CHAPTER 8. After What Manner Upon The Death Of Claudius, Nero Succeeded
-In The Government; As Also What Barbarous Things He Did. Concerning The
-Robbers, Murderers And Impostors, That Arose While Felix And Festus Were
-Procurators Of Judea.
+### CHAPTER 8. After What Manner Upon The Death Of Claudius, Nero Succeeded In The Government; As Also What Barbarous Things He Did. Concerning The Robbers, Murderers And Impostors, That Arose While Felix And Festus Were Procurators Of Judea
 
 1. Now Claudius Cæsar died when he had reigned thirteen years, eight
 months, and twenty days; 17 and a report went about that he was poisoned
@@ -47965,13 +44327,7 @@ but retained Helcias and Ismael as hostages with herself. As soon as the
 king heard this news, he gave the high priesthood to Joseph, who was
 called Cabi, the son of Simon, formerly high priest.
 
-
-
-
-
-
-CHAPTER 9. Concerning Albinus Under Whose Procuratorship James Was
-Slain; As Also What Edifices Were Built By Agrippa.
+### CHAPTER 9. Concerning Albinus Under Whose Procuratorship James Was Slain; As Also What Edifices Were Built By Agrippa
 
 1. And now Cæsar, upon hearing the death of Festus, sent Albinus into
 Judea, as procurator. But the king deprived Joseph of the high
@@ -48107,12 +44463,7 @@ deprived Jesus, the son of Gamaliel, of the high priesthood, and gave it
 to Matthias, the son of Theophilus, under whom the Jews' war with the
 Romans took its beginning.
 
-
-
-
-
-
-CHAPTER 10. An Enumeration Of The High Priests.
+### CHAPTER 10. An Enumeration Of The High Priests
 
 1. And now I think it proper and agreeable to this history to give an
 account of our high priests; how they began, who those are which are
@@ -48221,13 +44572,7 @@ after their death, the government became an aristocracy, and the high
 priests were intrusted with a dominion over the nation. And thus much
 may suffice to be said concerning our high priests.
 
-
-
-
-
-
-CHAPTER 11. Concerning Florus The Procurator, Who Necessitated The Jews
-To Take Up Arms Against The Romans. The Conclusion.
+### CHAPTER 11. Concerning Florus The Procurator, Who Necessitated The Jews To Take Up Arms Against The Romans. The Conclusion
 
 1. Now Gessius Florus, who was sent as successor to Albinus by Nero,
 filled Judea with abundance of miseries. He was by birth of the city of
@@ -48310,13 +44655,7 @@ three books concerning our Jewish opinions about God and his essence,
 and about our laws; why, according to them, some things are permitted us
 to do, and others are prohibited.
 
-
-
-
-
-
-FOOTNOTES
-
+## Footnotes
 
 1 (return) [ Here is some error in the copies, or mistake in Josephus;
 for the power of appointing high priests, alter Herod king of Chalcis
@@ -48325,24 +44664,20 @@ belonged to him; and he exercised the same all along till Jerusalem was
 destroyed, as Josephus elsewhere informs us, ch. 8. sect., 11; ch. 9.
 sect. 1, 4, 6, 7.]
 
-
 2 (return) [ Josephus here uses the word monogene, an only begotten son,
 for no other than one best beloved, as does both the Old and New
 Testament, I mean where there were one or more sons besides, Genesis
 22:2; Hebrew 11:17. See the note on B. I. ch. 13. sect. 1.]
 
-
 3 (return) [ It is here very remarkable, that the remains of Noah's ark
 were believed to be still in being in the days of Josephus. See the note
 on B. I. ch. 3. sect. 5.]
-
 
 4 (return) [ Josephus is very full and express in these three chapters,
 3., 4., and 5., in observing how carefully Divine Providence preserved
 this Izates, king of Adiabene, and his sons, while he did what he
 thought was his bounden duty, notwithstanding the strongest political
 motives to the contrary.]
-
 
 5 (return) [ This further account of the benefactions of Izates and
 Helena to the Jerusalem Jews which Josephus here promises is, I think,
@@ -48364,18 +44699,15 @@ the 5th, 6th, and 7th years of Claudius, as says Valesius on Euseb. II.
 see Moses Churenensis, p. 144, 145, where it is observed in the notes
 that Pausanias mentions that her monument also.]
 
-
 6 (return) [ This privilege of wearing the tiara upright, or with the
 tip of the cone erect, is known to have been of old peculiar to great
 kings, from Xenophon and others, as Dr. Hudson observes here.]
-
 
 7 (return) [ This conduct of Izates is a sign that he was become either
 a Jew, or an Ebionite Christian, who indeed differed not much from
 proper Jews. See ch. 6. sect. 1. However, his supplications were heard,
 and he was providentially delivered from that imminent danger he was
 in.]
-
 
 8 (return) [ These pyramids or pillars, erected by Helena, queen of
 Adiabene, near Jerusalem, three in number, are mentioned by Eusebius, in
@@ -48384,12 +44716,10 @@ Valesius's notes upon that place.—They are also mentioned by Pausanias,
 as hath been already noted, ch. 2. sect. 6. Reland guesses that that now
 called Absalom's Pillar may be one of them.]
 
-
 9 (return) [ This Theudas, who arose under Fadus the procurator, about
 A.D. 45 or 46, could not be that Thendas who arose in the days of the
 taxing, under Cyrenius, or about A.D. 7, Acts v. 36, 37. Who that
 earlier Theudas was, see the note on B. XVII. ch. 10. sect. 5.]
-
 
 10 (return) [ This and many more tumults and seditions which arose at
 the Jewish festivals, in Josephus, illustrate the cautious procedure of
@@ -48398,13 +44728,11 @@ Jesus on the feast-day, lest there be an up roar among the people;" as
 Reland well observes on tins place. Josephus also takes notice of the
 same thing, Of the War, B. I. ch. 4. sect. 3.]
 
-
 11 (return) [ This constant passage of the Galileans through the country
 of Samaria, as they went to Judea and Jerusalem, illustrates several
 passages in the Gospels to the same purpose, as Dr. Hudson rightly
 observes. See Luke 17:11; John 4:4. See also Josephus in his own Life,
 sect. 52, where that journey is determined to three days.]
-
 
 12 (return) [ Our Savior had foretold that the Jews' rejection of his
 gospel would bring upon them, among other miseries, these three, which
@@ -48412,7 +44740,6 @@ they themselves here show they expected would be the consequences of
 their present tumults and seditions: the utter subversion of their
 country, the conflagration of their temple, and the slavery of
 themselves, their wives, and children See Luke 21:6-24.]
-
 
 13 (return) [ This Simon, a friend of Felix, a Jew, born in Cyprus,
 though he pretended to be a magician, and seems to have been wicked
@@ -48445,7 +44772,6 @@ assures us] did once marry such a grandchild of Antonius and Cleopatra;
 and finding the name of one of them to have been Drusilla, he mistook
 her for that other wife, whose name he did not know.]
 
-
 14 (return) [ This eruption of Vesuvius was one of the greatest we have
 in history. See Bianchini's curious and important observations on this
 Vesuvius, and its seven several great eruptions, with their remains
@@ -48455,12 +44781,9 @@ proportionable interstices, implying the deluge to have been above two
 thousand five hundred years before the Christian era, according to our
 exactest chronology.]
 
-
 15 (return) [ This is now wanting.]
 
-
 16 (return) [ This also is now wanting.]
-
 
 17 (return) [ This duration of the reign of Claudius agrees with Dio, as
 Dr. Hudson here remarks; as he also remarks that Nero's name, which was
@@ -48468,12 +44791,10 @@ at first L. Domitius Aenobarbus, after Claudius had adopted him was Nero
 Claudius Cæsar Drusus Germanicus. This Soleus as [own Life, sect. 11, as
 also] by Dio Cassius and Taeims, as Dr. Hudson informs us.]
 
-
 18 (return) [ This agrees with Josephus's frequent accounts elsewhere in
 his own Life, that Tibetans, and Taricheae, and Gamala were under this
 Agrippa, junior, till Justus, the son of Pistus, seized for the Jews,
 upon the breaking out of the war.]
-
 
 19 (return) [ This treacherous and barbarous murder of the good high
 priest Jonathan, by the contrivance of this wicked procurator, Felix,
@@ -48506,20 +44827,17 @@ other than those Annas and Caiaphas so often mentioned in the four
 Gospels; and that Ananias, the son of Nebedeus, was that high priest
 before whom St. Paul pleaded his own cause, Acts 24.]
 
-
 20 (return) [ Of these Jewish impostors and false prophets, with many
 other circumstances and miseries of the Jews, till their utter
 destruction, foretold by our Savior, see Lit. Accompl. of Proph. p. 58-
 75. Of this Egyptian impostor, and the number of his followers, in
 Josephus, see Acts 21:38.]
 
-
 21 (return) [ The wickedness here was very peculiar and extraordinary,
 that the high priests should so oppress their brethren the priests, as
 to starve the poorest of them to death. See the like presently, ch. 9.
 sect. 2. Such fatal crimes are covetousness and tyranny in the clergy,
 as well as in the laity, in all ages.]
-
 
 22 (return) [ We have here one eminent example of Nero's mildness and
 goodness in his government towards the Jews, during the first five years
@@ -48530,7 +44848,6 @@ kindness were obtained of Nero by his queen Poppea, who was a religious
 lady, and perhaps privately a Jewish proselyte, and so were not owing
 entirely to Nero's own goodness.]
 
-
 23 (return) [ It hence evidently appears that Sadducees might be high
 priests in the days of Josephus, and that these Sadducees were usually
 very severe and inexorable judges, while the Pharisees were much milder,
@@ -48539,7 +44856,6 @@ place, and on Josephus's Life, sect. 31, and those taken from the New
 Testament, from Josephus himself, and from the Rabbins; nor do we meet
 with any Sadducees later than this high priest in all Josephus.]
 
-
 24 (return) [ Of this condemnation of James the Just, and its causes, as
 also that he did not die till long afterwards, see Prim. Christ.
 Revived, vol. III. ch. 43-46. The sanhedrim condemned our Savior, but
@@ -48547,7 +44863,6 @@ could not put him to death without the approbation of the Roman
 procurator; nor could therefore Ananias and his sanhedrim do more here,
 since they never had Albinus's approbation for the putting this James to
 death.]
-
 
 25 (return) [ This Ananias was not the son of Nebedeus, as I take it,
 but he who was called Annas or Ananus the elder, the ninth in the
@@ -48565,21 +44880,17 @@ own, made him a sort of perpetual high priest, and was perhaps the
 occasion that former high priests kept their titles ever afterwards; for
 I believe it is hardly met with be fore him.]
 
-
 26 (return) [ This insolent petition of some of the Levites, to wear the
 sacerdotal garments when they sung hymns to God in the temple, was very
 probably owing to the great depression and contempt the haughty high
 priests had now brought their brethren the priests into; of which see
 ch. 8. sect. 8, and ch. 9, sect. 2.]
 
-
 27 (return) [ Of these cloisters of Solomon, see the description of the
 temple, ch. 13. They seem, by Josephus's words, to have been built from
 the bottom of the valley.]
 
-
 28 (return) [ See the Life at the beginning of the volume.]
-
 
 29 (return) [ What Josephus here declares his intention to do, if God
 permitted, to give the public again an abridgement of the Jewish War

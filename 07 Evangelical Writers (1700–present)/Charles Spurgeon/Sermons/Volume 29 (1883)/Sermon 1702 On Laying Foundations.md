@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # On Laying Foundations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1702
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 21, 1883,.
+*Delivered on Lord's-Day Morning, January 21, 1883*
 
 > "And why do you call Me, Lord, Lord, and not do the things which I say? Whoever comes to Me, and hears My sayings, and does them, I will show you whom he is like: he is like a man which built a house, and dug deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that hears, and does not, is like a man that without a foundation built a house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great." Luke 6:46-49.
 
@@ -140,7 +139,6 @@ He was near to death. He knew that he must soon depart out of this world, but al
 Close to that same spot, I saw another tree in the open, bravely defying the blast, in solitary strength. The hurricane had beaten upon it, but it had endured all its force unsheltered! That lone, brave tree seemed to be better rooted than before the storm. I thought, "Is it not so with professors?" They often hold together and help each other to grow up, but if they have not firm personal roothold, when a storm arises they fall in rows. A minister dies, or certain leaders are taken away—and over go the members by departure from the faith and from holiness! I would have you be self-contained, growing, each man, into Christ for himself, rooted and grounded in love and faith and every holy Grace. Then when the worse storm that ever blew on mortal man shall come, it will be said of your faith, "It could not shake it."
 
 I beseech you who are now seeking Christ to take care that you build well, that you may stand long in our Zion, steadfast and unmovable. God grant it for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1701 Gladness For Sadness|← #1701]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1703 Hands Full of Honey|#1703 →]]

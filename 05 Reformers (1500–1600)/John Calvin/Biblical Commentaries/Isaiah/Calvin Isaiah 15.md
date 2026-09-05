@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 15
 
-**CHAPTER 15.**
+***Chapter 15.***
 
 ## Isaiah 15:1-9
 

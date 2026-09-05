@@ -9,10 +9,9 @@ epub_file: "works1.i.xxv.html"
 tags:
   - jonathan-edwards
 ---
-
 ### CHAPTER XXV.
 
-CONCLUDING REMARKS.
+## Concluding Remarks
 
 the writer of the preceding pages regrets, at least as sincerely as any of his readers, that the collection of facts, which they contain, is not more full and complete; yet, in consequence of the long interval which has elapsed since the death of President Edwards, they are all, which after much time, and labour, and travel, he has been able to discover. Such as they are, they constitute, with his writings body of materials from which we are to form our estimate of his character, as an intelligent and moral being.
 
@@ -118,7 +117,7 @@ But it may not unnaturally be asked, What are the changes in theology, which hav
 
 # OF THEOLOGICAL TRUTH,
 
-MADE BY PRESIDENT EDWARDS, AND THOSE WHO HAVE FOLLOWED HIS COURSE OF THOUGHT.
+*Made by President Edwards, and Those Who Have Followed His Course of Thought*
 
 “1. The important question, concerning the *ultimate end of the creation,* is a question, upon which Mr. Edwards has shed much light. For ages it had been disputed, whether the end of creation was *the happiness of creatures* themselves, or *the declarative glory of the Creator.* Nor did it appear that the dispute was likely to be brought to an issue. On the one hand, it was urged, that reason declared in favour of the former hypothesis. It was said that, as God is a benevolent being, he doubtless acted under the influence of his own infinite benevolence in the creation; and that he could not but form creatures for the purpose of making them happy. Many passages of Scripture also were quoted in support of this opinion. On the other hand, numerous and very explicit declarations of Scripture were produced to prove that God made all things for his own glory. Mr. Edwards was the first, who clearly showed, that both these were the ultimate end of the creation, that they are only one end, and that they are really one and the same thing. According to him, the declarative glory of God *is* the creation, taken, not distributively, but collectively, as a system raised to a high degree of happiness. The creation, thus raised and preserved, is the *declarative* glory of God. In other words, it is the exhibition of his *essential* glory.
 

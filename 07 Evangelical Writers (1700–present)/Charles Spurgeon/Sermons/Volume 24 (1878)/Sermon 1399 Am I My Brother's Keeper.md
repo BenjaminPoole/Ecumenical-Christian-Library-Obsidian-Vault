@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Am I My Brother's Keeper?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1399
-
-DELIVERED BY.
 
 > "Am I my brother's keeper?" Genesis 4:9.
 
@@ -113,7 +110,7 @@ I may add that all of you who name the name of Jesus, by that very fact, come in
 
 III. My time quite fails me. I need much more, but if I leave those thoughts with you I shall be well content. However, I must occupy a little longer space while I speak on the third head, namely, that IT WILL BE HIGH PRESUMPTION
 
-ON OUR PART IF, FROM THIS NIGHT FORWARD, WE SHIRK THE DUTY OF BEING OUR BROTHER'S
+## On Our Part if, from This Night Forward, We Shirk the Duty of Being Our Brother's
 
 KEEPER. I will set it very briefly in a strong light. It will be denying the right of God to make a Law and to call upon us to obey it if we refuse to do as we are told. God has so organized society that every man receiving light is bound to spread it—and if you decline the blessed service you will practically deny the right of God to require such service of you! You will be judging your Judge and lording it over your God. High treason lies in that!
 
@@ -140,7 +137,6 @@ I have men in the College ready to go, but I have no power to send them! The Mis
 There is not a woman among you but would be willing to spare her husband for such a task, or lend her own hand to push the boat down over the shingle till it was launched upon the wave. For life—for the precious life of our fellow men—we would do anything! But if we believe, as we do, that there is a world to come and a terrible Hell—and that there is no way of salvation except by Jesus Christ—we ought to feel tenfold more for the rescue of the souls of men from the wrath to come!
 
 If some shall be stirred by these words, my heart will greatly rejoice. But if you are awakened, do not promise to make an effort in your own strength—pray to God about it. Commit yourself to God and ask the Divine Spirit to lead you into ways of usefulness, that before you go from here you may have brought some souls to Jesus. And to His name shall be the Glory, forever and ever. Amen.
-
 
 ---
 [[Sermon 1398 Offended Because of Christ|← #1398]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1400 With the King for His Work!|#1400 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 51
 
-**CHAPTER 51**
+***Chapter 51***
 
 ## Jeremiah 51:1
 
@@ -47,7 +46,7 @@ I do not, indeed, give such a refined interpretation as some do, respecting the 
 
 ## Prayer Lecture 185
 
-**PRAYER**
+## **Prayer**
 
 Grant Almighty God, that since thou wert formerly so solicitous respecting the salvation of thy people as to undertake war, for their sake, against a most powerful nation, — O grant, that we also, at this day, may know, that we shall be safe and secure under the protection of thy hand, and that we may so experience thy power, that there may be to us a just reason for glorying in thee, and that our enemies may be confounded, in order that thy glory may shine forth more and more, and that the kingdom of thine only-begotten Son may also be thus promoted. — Amen.
 
@@ -147,7 +146,7 @@ But in this sense our righteousness has a reference to our adversaries. So whene
 
 ## Prayer Lecture 186
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou didst formerly put forth thy wonderful power, to help thy miserably afflicted people, — O grant, that at this day the same power may be put forth in our behalf, and that the same evidence of thy grace and paternal favor may be shown to us, by raising up thy terrible hand to destroy all the ungodly who cruelly oppress thine innocent people, that being delivered by thine hand, we may learn ever to give thanks to thee, in the name of thine only-begotten Son. — Amen.
 
@@ -225,13 +224,13 @@ He afterwards adds, *Who hath constituted the world by his wisdom, and by his kn
 
 ## Prayer Lecture 187
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast deigned once to receive us under thy protection, we may learn to recumb on the power of thy hand, and that as so many terrors on every side meet us through the assaults and cruelty of our enemies, we may yet continue firm, and persevere in calling on thy name, until thou appearest as our Redeemer, not only once, but whenever we may need thy help, until thou gatherest us at length into that blessed rest, which has been prepared for us in heaven, through Christ our Lord. — Amen.
 
 ## Lecture One Hundred And Eighty Eighth
 
-**LECTURE ONE HUNDRED EIGHTY EIGHTH**
+## **Lecture One Hundred Eighty Eighth**
 
 IN our last Lecture, we stopped where the Prophet commends the power of God, as manifested in his ordinary works. Having previously spoken of creation, and briefly shown, that both in heaven and on earth there are many clear evidences of God’s wonderful wisdom as well as of his power, he now comes to the rains and winds. We have further said, that there is a difference between a fixed order of nature and those changes which are daily observed; for were the appearance of the heavens and the earth always the same, God’s power and wisdom could not appear so wonderful; but when the heavens are covered with clouds, when the air is now tranquil, and then disturbed by winds, when storms suddenly arise, and then rains follow, God thus vividly sets forth his manifold wisdom and power.
 
@@ -315,13 +314,13 @@ But this promise was in a peculiar manner given to the Church; for though the ve
 
 ## Prayer Lecture 188
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast favored us with the light of thy Gospel, in which we see thy glory, and into which we may be also transformed, except prevented by our unbelief, — O grant, that with fixed eyes we may ever study that knowledge which once for all has been made known to us, until at length, having followed the way there set before us, we shall come to the fullness of that celestial glory which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
 ## Lecture One Hundred And Eighty Ninth
 
-**LECTURE ONE HUNDRED EIGHTY NINTH**
+## **Lecture One Hundred Eighty Ninth**
 
 ## Jeremiah 51:25
 
@@ -405,13 +404,13 @@ He afterwards adds, that the *men of war were broken in pieces* For though the f
 
 ## Prayer Lecture 189
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou didst formerly testify thy favor towards thy Church by not sparing the greatest of monarchies, — O grant that we may know thee at this day to be the same towards all thy faithful people who call upon thee; and as the power and cruelty of our enemies are so great, raise thou up thine hand against them, and show that thou art the perpetual defender of thy Church, so that we may have reason to magnify thy goodness in Christ Jesus our Lord. — Amen.
 
 ## Lecture One Hundred And Nintieth
 
-**LECTURE ONE HUNDRED AND NINETIETH**
+## **Lecture One Hundred and Ninetieth**
 
 ## Jeremiah 51:33
 
@@ -533,7 +532,7 @@ Many understand this passage enigmatically; but there is no doubt but that that 
 
 ## Prayer Lecture 190
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou art pleased at this day to receive us for thy people, we may enjoy the same favor to the end, and be sheltered under thy wings; and though we deserve to be wholly cast away, yet, if thou chastise us for a time, deal with us with moderate severity, and chastise us in judgment, and not with extreme rigor; and then, after darkness, let thy serene face appear, until we shall at length enjoy that full light to which thou invitest us daily through Christ Jesus our Lord. — Amen.
 
@@ -625,7 +624,7 @@ He says, *because;* but the particle כי, *ki,* may be taken for an adverb of t
 
 ## Prayer Lecture 191
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou not only testifiest to us that thou wilt be the Redeemer of thy Church, into which thou hast been pleased to introduce us, but hast also really manifested thyself to us in thine only-begotten Son, — O grant that we may patiently bear all the contests and afflictions by which thou now provest our faith, and that we may perseveringly fight under the cross, until, having gone through all our trials, we shall at length enjoy eternal glory, when we shall find thee to be our complete Redeemer, through the same Christ Jesus our Lord. — Amen.
 
@@ -725,7 +724,7 @@ We now, then, see how forcible is this confirmation, with which the Prophet dose
 
 ## Prayer Lecture 192
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that when thou hidest at this day thy face from us, the miserable despair we apprehend may not overwhelm our faith, nor obscure our view of thy goodness and grace, but that in the thickest darkness thy power may ever appear to us, which can raise us above the world, so that we may courageously fight to the end, and never doubt but that thou wilt at length be the defender of thy Church, which now seems to be oppressed, until we shall enjoy our perfect happiness in heaven, through Christ our Lord. — Amen.
 
@@ -803,7 +802,7 @@ We hence conclude that the last chapter is not included in the prophetic book of
 
 ## Prayer Lecture 193
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that Since thou hast deigned to choose us for thy people, we may not doubt but that our enemies will be before thee like Babylon, so that when thou hast chastised us, thou wilt at length, by a fatal and perpetual destruction, so lay them prostrate, that they shall rise up no more; and when thou hast killed the body, manifest thyself as our deliverer, until we shall at length be gathered into that celestial kingdom which has been prepared for us by thine only-begotten Son. — Amen.
 

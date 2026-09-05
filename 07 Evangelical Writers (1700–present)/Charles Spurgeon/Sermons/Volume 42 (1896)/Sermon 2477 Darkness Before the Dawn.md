@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Darkness Before the Dawn
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2477
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Until the day breaks and the shadows flee away, turn, my Beloved, and be like a roe or a young hart upon the mountains of Bether." Song of Solomon 2:17.
 
@@ -95,7 +92,7 @@ But, all of a sudden, he was brought out into the light, by God's Grace! As he t
 
 Writing to the Romans, Paul says, "The Word is near you, even in your mouth." What is the thing to do with that which is in your mouth when you want to keep it? Why, swallow it, of course! Do so with Christ! Let Him go right down into your soul! Put Him into your mouth, as it were, while I am preaching. Accept Him, receive Him and He is yours directly. Then shall the day break and the shadows flee away and your Beloved shall have come to you over the mountains of division, never to leave you, but to abide with you forever! O blessed Spirit of God, grant all here Divine Grace to swallow Christ, now, for only You can grant them life that they may swallow! God bless you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE12:22-48.
+## Exposition by C. H. Spurgeon: Luke 12:22-48
 
 Verses 22-23. And He said to His disciples, Therefore I say to you, Take no thought for your life, what you shall eat; neither for the body, what you shall put on. The life is more than meat, and the body is more than raiment. If you are God's servants, He will clothe you. There is no servitor of the Lord of Hosts who will have to go without his necessities and not one who belongs to His vast household, even though he is but a menial in God's kitchen, who will ever be permitted to starve.
 
@@ -126,7 +123,6 @@ Verses 22-23. And He said to His disciples, Therefore I say to you, Take no thou
 46\. The master of that servant will come in a day when he looks not for him, and at an hour when he is not aware, and will cut him in two, and will appoint him his portion with the unbelievers. Truly, our Lord uses very strong words! The Savior is not one of your effeminate preachers like those of modern times who seem as if the very word, "Hell," would burn their lips, and who will not warn men to flee from the wrath to come! It is an unkind and heartless lack of humanity which prevents their being faithful to the souls of men. The great Lord, who is full of tenderness, does not hesitate to use the sternest figure and the most terrible language, simply because He does not consult His own feelings but aims at the highest good of those with whom He deals! This is a terrible word for us if we are unfaithful at the last—"He will cut him in two, and will appoint him his portion with the unbelievers." It is an awful thing that the unfaithful servant gets his portion with those who do not believe in Christ. The Lord preserve all of us from such a doom!
 
 47, 48. And that servant, which knew his master's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes. But he that knew not, and did commit things worthy of stripes, shall be beaten with a few stripes. For to whomever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more. Under the shadow of such solemn texts as these, let us draw near to God in earnest prayer.
-
 
 ---
 [[Sermon 2476 This Thing Is From Me|← #2476]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2478 Christ's Perfection and Precedence|#2478 →]]

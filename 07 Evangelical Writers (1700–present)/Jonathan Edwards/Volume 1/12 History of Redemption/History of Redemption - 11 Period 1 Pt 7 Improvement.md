@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART VII.
 
-IMPROVEMENT OF THE FIRST PERIOD.
+*Improvement of the First Period*
 
 Before I proceed to the next period, I would make some few remarks, by way of improvement upon what has been said under this.
 

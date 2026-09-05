@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 22
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WRATH TO GOD'S GLORY**
+## **Wrath to God's Glory**
 
 > Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain" Ps. 76:10
 
@@ -23,7 +22,6 @@ Wicked men will be wrathful. Their anger we must endure as the badge of our call
 The devices of the wicked are overruled for their defeat. They act in a suicidal way, and baffle their own plottings. Nothing will come of their wrath which can do us real harm. When they burned the martyrs, the smoke which blew from the stake sickened men of popery more than anything else.
 
 Meanwhile, the Lord has a muzzle and a chain for bears. He restrains the more furious wrath of the enemy. He is like a miller who holds back the mass of the water in the stream, and what he does allow to flow he uses for the turning of his wheel. Let us not sigh, but sing. All is well, however hard the wind blows.
-
 
 ---
 [[FCB August 21|← August 21]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 23|August 23 →]]

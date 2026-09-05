@@ -9,13 +9,11 @@ tags:
   - venerable-bede
   - bede-minor
 ---
-
-
 # Lives of the Holy Abbots of Wearmouth and Jarrow
 
 **§ 1.** The pious servant of Christ, Biscop, called Benedict Benedict, with the assistance of the Divine Grace, built A-i- 674. a monastery in honour of the most holy of the Apostles, St. Peter, near the mouth of the river Were, on the north side. The venerable and devout king of that nation, iEcgfrid, contributed the land; and Biscop, for the space of sixteen years, amid innumerable perils in journeyings and in illness, ruled this monastery with the same piety which stirred him up to build it. If I may use the words of the blessed Pope Gregory, in which he glorifies the life of the abbot of the same name, he was a man of a venerable life, Blessed (Benedictus) both in grace and in name; having the mind of an adult even from his childhood, surpassing his age by his manners, and with a soul addicted to no false pleasures. He was descended from a noble lineage of the Angles, and by corresponding dignity of mind worthy to be exalted into the company of the Angels. Lastly, he was the minister of King Oswin, and by his gift enjoyed an estate suitable to his rank; but at the age of twenty-five years he despised a transitory wealth, that he might obtain that which is eternal. He made light of a temporal warfare with a donative that will decay, that he might serve under the
 
-TIIF. MINOR HISTORICAL WORKS
+## Tiif. Minor Historical Works
 
 true King, and earn an everlasting kingdom in the heavenly city. He left his home, his kinsmen and country, for the sake of Christ and his Gospel, that he might receive a hundredfold and enjoy everlasting life: he disdained to submit to carnal nuptials, that he might be able to follow the Lamb bright with the glory of chastity in the heavenly kingdoms: he refused to be the father of mortal children in the flesh, being fore-ordained of Christ to educate for him in spiritual doctrine immortal children in heaven. First journey S 2. Having therefore left his country, he came to
 
@@ -121,7 +119,7 @@ spiritual seed of the Word procreate spiritual sons to God, must of like necessi
 
 A.D. fi89.
 
-94 THE" MINOR HISTORICAL WORKS
+## 94 the" Minor Historical Works
 
 and approbation of all, made him abbot of both monasteries; thinking it expedient in every respect to preserve peace, unity and concord between the two, if they should have one father and ruler for ever, after the example of the kingdom of Israel, which always remained invincible and inviolate by foreign nations as long as it was ruled by one and the same governor of its own race; but when for its former sins it was torn into opposing factions, it fell by degrees, and, thus shorn of its ancient integrity, perished. He reminded them also of that evangelical maxim, ever worthy to be remembered, — " A kingdom divided against itself shall be laid waste." Death of **§ 14.** Two months after this, God's chosen servant,
 
@@ -137,7 +135,7 @@ built the monastery, the holy confessor round rest in the diet. Lord, on the 14t
 
 **§ 15.** The third of these, Ceolfrid, was a man of great ceoifnd. perseverance, of acute intellect, bold in action, experienced in judgment, and zealous in religion. He first of all, as we have mentioned, with the advice and assistance of Benedict, founded, completed, and ruled the monastery of St. Paul's seven years; and, afterwards,
 
-ably governed during twenty-eight years both these monasteries; or, to speak more correctly, the single monastery of St. Peter and St. Paul, in its two separate localities; and, whatever works of merit his predecessor had begun, he, with no less zeal, took pains to finish. For, among other arrangements, which he found it necessary to make, during his long government of the monastery, he built several oratories; increased the number of vessels of the church and altar, and the vestments of every kind; and the library of both monasteries, which Abbot Benedict had so actively begun, under his equally zealous care became doubled in extent. For he added three Pandects of a new translation to that of the old translation which he had brought from Rome; one of them, returning to Rome in his old age, he took with him as a gift; the other two he left to the two monasteries. Moreover, for a beautiful volume of the Geographers which Benedict had bought at Rome, he received from King Aldfrid, who was well skilled in Holy Scripture, in exchange, a grant of land of eight hides near the river Fresca to the monastery of St. Paul's. Benedict had King Aid- arranged this purchase with the same King Aldfrid,
+ably governed during twenty-eight years both these monasteries; or, to speak more correctly, the single monastery of St. Peter and St. Paul, in its two separate localities; and, whatever works of merit his predecessor had begun, he, with no less zeal, took pains to finish. For, among other arrangements, which he found it necessary to make, during his long government of the monastery, he built several oratories; increased the number of vessels of the church and altar, and the vestments of every kind; and the library of both monasteries, which Abbot Benedict had so actively begun, under his equally zealous care became doubled in extent. For he added three Pandects of a new translation to that of the old translation which he had brought from Rome; one of them, returning to Rome in his old age, he took with him as a gift; the other two he left to the two monasteries. Moreover, for a beautiful volume of the Geographers which Benedict had bought at Rome, he received from King Aldfrid, who was well skilled in Holy Scripture, in exchange, a grant of land of eight hides near the river Fresca to the monastery of St. Paul's. Benedict had King Aid-arranged this purchase with the same King Aldfrid,
 
 frid's muni-.„,.,,, t -i i r 1 ii
 

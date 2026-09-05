@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Asleep and Yet Awake—a Riddle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1561
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 10, 1880,.
+*Delivered on Lord's-Day Morning, October 10, 1880*
 
 > "I sleep, but my heart is awake: it is the voice of my Beloved that knocks." Song of Solomon 5:2.
 
@@ -178,7 +177,6 @@ Next, when you are blaming yourselves for your own work, do not forget the work 
 Lastly, make sure, above all things, that you have that true faith which knows the voice of Jesus. The spouse had not awaked if it had not been for the charm of Jesus' voice which affected even her drowsy faculties. Some persons can be more easily awakened by the voices of those they love than by any other means. The charm of memory, the charm of intimate affection, the charm of delight gives music to some tongues—let your ears find all its music in the voice of Jesus! Know His voice. He says, "Incline your ears and come unto Me: hear and your soul shall live. My sheep hear My voice and I know them and they follow Me and I give them eternal life."
 
 God bless you, dear Friends, with a faith that trusts Jesus, knows His voice and follows Him! And may we be awakened out of all our sleepiness, if we are at all drowsy, into a holy wakefulness so as to serve the Lord our God with all our heart and soul and strength while we live. Come, Holy Spirit and give us this privilege, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1560 The Plain Man's Pathway To Peace|← #1560]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1562 Harvest Past, Summer Ended and Men Unsaved|#1562 →]]

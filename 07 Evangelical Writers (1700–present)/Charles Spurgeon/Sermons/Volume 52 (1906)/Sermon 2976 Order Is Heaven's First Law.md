@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Order Is Heaven's First Law
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2976
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Neither shall one thrust another; they shall walk everyone in his path." Joel 2:8.
 
@@ -88,7 +85,6 @@ So it ought to be with all our churches. In this great city of London, there is 
 And so, to conclude, it ought to be with the different denominations. I sometimes think that these will continue forever. They are of no hurt to the Church of God, but a great blessing, for some of them take up one point of the Truth of God which is neglected and others take up another—and so, between them all, the whole of the Truth of God is brought out! And it seems to me that the Church of Christ is even more one than if all the various sections were brought together into one grand ecclesiastical corporation, for this would, probably, feed some ambitious person's vanity and raise up another dynasty of priestcraft, like the old Babylon of Rome! Perhaps it is quite as well as it is, but let each body of Christians keep to its own work and not sneer at the work of others. Let all feel, "We have this to do, and we will do it in the name of God." Let each body of Christians try to correct its neighbor in its errors and mistakes, but let each work hand in hand and stand foot to foot in the common battle and the common service, for, O my Brothers and Sisters, the time will come when our little narrow jealousies will all melt away like the hoar frost when the sun arises! When the King shall come in His Glory, or we are carried to the other side of the stream of death and see beyond the curtain which parts us from the invisible world, we shall look with very different eyes upon some things which seem so important now! We shall then see that God has forbidden us to glory in anything but the Cross of Christ and that the one thing necessary, after all, to contend for was, "By Grace are you saved through faith; and that not of yourselves, it is the gift of God."
 
 Now, may the Lord help us to go straight on in our own paths, not one thrusting another, but all working together for God. And if there are any among us who are not converted, let me remind them that they are out of order—and let me tell them what comes of that. When a man sets himself in opposition to God's Laws, they crush him as surely as he is there! Throw yourself from the Monument and the law of gravitation will not be suspended to save you. Even so, if you are out of order with God, there is no help for it—and your destruction is certain if you remain opposed to Him. Oh, that you may be led, by Divine Grace, to get into order with God—to be reconciled unto God by the death of His Son! He tells you the way to get into order. It is this—simply trust Jesus! That is the way to rectify all errors. He that believes on the Lord Jesus Christ shall be saved! May God bless us all with that salvation, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2975 Forgetting God|← #2975]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2977 Plowing Rock|#2977 →]]

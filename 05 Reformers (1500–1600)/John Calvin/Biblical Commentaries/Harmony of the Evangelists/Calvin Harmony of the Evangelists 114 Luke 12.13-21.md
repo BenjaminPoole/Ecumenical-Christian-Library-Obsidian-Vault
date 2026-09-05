@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 114. Luke 12:13-21
-
-**Luke 12:13-21**
 
 **13**. And one out of the multitude said to him, Master, bid my brother divide the inheritance with me. **14**. And he said to him, Man, who made me a judge or a divider over you? **15**. And he said to them, Take heed and beware of covetousness; for the life of any man does not consist in the abundance of those things which he possesseth. [^1] **16**. And he spoke a parable to them, saying, The field of a certain rich man yielded an abundant produce. **17**. And he thought within himself, saying, What shall I do? for I have no place in which I can collect my fruits. **18**. And he said, I will do this: I will pull down my barns, and will build larger ones, and there I will collect all my fruits and my goods. **19**. And I will say to my soul, Soul, thou hast many goods laid up for many, years: take thine ease, eat, drink, and enjoy thyself. [^2] **20**. But God said to him, Fool, this night they shall demand thy soul from thee; [^3] and as to the things which thou hast provided, to whom shall they go? **21**. So is he that layeth up for himself: [^4] and is not rich toward God.
 

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 20
 
-**CHAPTER 20**
+***Chapter 20***
 
 ## Isaiah 20:1-6
 

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 144. Numbers 13:1-33
-
-**Numbers 13**
 
 **1.** And the Lord spoke unto Moses, saying,
 

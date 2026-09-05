@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 84. Matthew 10:9-15; Mark 6:8-11; Luke 9:3-5
-
-**MATTHEW 10:9-15; MARK 6:8-11; LUKE 9:3-5**
 
 **9**. Do not provide gold, nor silver, [^1] nor brass in your purses, **10**. Nor scrip for the journey, nor two coats, nor shoes, nor staff: for the laborer is worthy of his food. **11**. But into whatsoever city or village you shall enter, inquire what person in it is worthy, and remain there till you depart. **12**. And when you shall enter a house, salute it. **13**. And if the house shall be worthy, may your peace come upon it: but if it shall not be worthy, may your peace return to you. **14**. And whosoever shall not receive you, or hear your words, when you go out of that house or city, shake off the dust of your feet. **15**. Verily I say to you, It shall be more tolerable for the land of Sodom and of Gomorrah in the day of judgment than for that city.
 

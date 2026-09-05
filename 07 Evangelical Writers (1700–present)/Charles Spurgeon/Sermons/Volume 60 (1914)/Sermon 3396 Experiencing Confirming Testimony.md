@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Experiencing Confirming Testimony
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3396
-
-DELIVERED BY C. H. SPURGEON.
 
 > "As we have heard, so have we seen in the city of the Lord of Hosts, in the city of our God." Psalm 48:8.
 
@@ -35,7 +32,7 @@ But being kept in safety by another and greater power than our own, and preserve
 
 Now, just for a little time I thought we would illustrate this general Truth of God that in the things of God, and in the Church of God," as we have heard, so have we seen. "Now, mark—
 
-I. IT HAS BEEN SO ALL DOWN THE LINE OF REVELATION.
+## I. It Has Been so All Down the Line of Revelation
 
 Could a man have lived a sevenfold Methuselah life and have stood at the gates of Paradise, and listened to the first promise that the Seed of the woman would bruise the serpent's head. If he could have beheld Noah shut in in the ark and marked the Covenant rainbow when for the first time it spanned the clouds. If he could have lived in Abraham's day and have seen the father of that seed in which all the nations of the earth should be blessed. Could he have marked all the types and ceremonies which Israel saw in the wilderness, all pointing onwards to a coming Savior. If he could have listened to the prophetic utterances of David in some of those matchless Psalms which are full of the Messiah. Could he have heard the notes of Isaiah when he spoke of Him who was despised and rejected of men, a Man of Sorrows and acquainted with grief. Yes, could he have heard every prophecy and beheld every symbol, and listened to every sacred portent— when he came to behold the Person of Christ, to see Him living, dying, rising, ascending and to mark the Pentecost, and to see the history of the Church right down until now—such a grave and revered man—revered and venerable above all other men through the long lapse of years that had passed over his snowy head, would say, "As I heard during the first portion of my life, so have I seen in the latter days thereof—God has always kept His promise—as was the shadow, so was the substance! As the type, so was the antitype! As the word that flowed from prophetic lips, so was the Christ who, in the fullness of time, came into this world to bless and redeem mankind!"
 
@@ -43,7 +40,7 @@ This is not merely a great general Truth of God, but, mark you, it is true in ev
 
 There have been no slips of the tongue, no drops that blot the page. Everything has been accurately, minutely, precisely—what if I say, microscopically—fulfilled in Christ! As the casket key exactly fits the wards of the lock, so the life of Christ and the history of the Church exactly fits all the types and all the prophecies! Sometimes it has been said that if anybody doubts the Inspiration of the four Gospels, it would be a very pretty puzzle for him to try to write a fifth gospel which should have in it some new details that would be congruous to the rest and that would fit in with the promises and prophecies of the Old Testament. That is a task we give to those wits who seem to need something to do in these days, since they are impugning everything that is held sacred by us! Let them attempt that. If this problem could have been put to the wise in all ages—here is the Old Testament and, whether it is true or not, construct the life of a Man who shall fit all that. Use your poetic powers, or whatever other abilities you choose to employ. Imagine a Man that shall fit the lamb, the scapegoat, the Passover, Noah's ark, the Psalms of David, the prophecies of Jeremiah, Isaiah, Ezekiel, Joel—why the puzzle would have been given up in despair! It would not have been possible for the united abilities of men and angels to have discovered an ideal Messiah that would have exactly met all this! But our Lord did in every jot and in every tittle, so that as we read some parts of the Old Testament, we often say to ourselves, "This looks as if it were written after the event." We read the 22nd Psalm and if we did not know that it had been composed many, many years before our Lord came, we would look at it as history, rather than as prophecy! One can only comprehend this by admitting Inspiration, and by rejoicing in the wondrous truthfulness of God! Even such little points as the casting of lots for the vesture of Christ—things which seem insignificant—God took care should be fulfilled. And though our Lord died, and as yet He had not been pierced as to His heart, at any rate, yet after death there must be a piercing of Him that they "may look on Him whom they have pierced," and weep and wail because of Him. "As we have heard, so have we seen." The life of our Lordand Savior, Jesus Christ, certainly carry out the prophecies which God had uttered before concerning Him! But now, we shall go on to speak of—
 
-II. THE CHURCH OF GOD—CHRISTWARD AND GODWARD—AS TO OUR OWN EXPERIENCE.
+## II. The Church of God—christward and Godward—as to Our Own Experience
 
 Some of you have thoughts of Christ—but as dead or as far away. We have come to deal with Him as a living Savior. Now the question is, whether in so dealing with Him, we have found all true that we were told concerning Him?
 
@@ -75,7 +72,7 @@ And He has made me glad!"
 
 If any of you think that Christ will cast you out when you come, I wish you would come and try Him. It would be the beginning of a new method with Him—the turning over of a new black leaf. "Him that comes unto Me," He says, "I will in no wise cast out." He never did find it in His heart to do so to any sinner that has sought His mercy! And I will not believe it, though all the angels in Heaven swear it, that He ever cast away a soul! I'd call them liars! It cannot be! It never shall be! While the heavens are above the earth and God is true, and Christ is God, no sinner that comes and puts His trust in Him, shall find Him unable or unwilling to save Him! Oh, taste and see that the Lord is good! And as you have heard, so shall you see! Now, in the next place, I think—
 
-III. THIS ALL STANDS GOOD WITH REGARD TO THE CHURCH OF GOD ITSELF.
+## III. This All Stands Good with Regard to the Church of God Itself
 
 Some have been apt to find fault with the Church and some Christians seem to act on the principle of getting to Heaven, one by one. "Sheep," God's people are called, and I suppose one reason is because sheep are gregarious and go in flocks. But there are Christian professors who seem to like the one by one principle. Well now, speaking of the Church of God as we have seen her, she has many faults—many faults—but Jesus Christ loves her and she is His Bride. And I dare not find fault with her! If she is the Princess Royal, if she is His Imperial Highness's own betrothed one, I would rather see her with His eyes than with my own! And while it may be very striking to rail about ministers and their defects, to sneer at Church members and all sorts of other things—and there may be sometimes good reason for it—yet we may say much on the other side, too. "As we have heard, so have we seen."
 
@@ -103,7 +100,7 @@ Brothers and Sisters, before I close, I want to say that there is a dreadful sid
 
 But there is a bright side to it, too. The saints in Heaven might all say, "As we have heard, so have we seen," only that I think they would make a great improvement in our text! 'Tis true, you heard that Heaven was full ofjoy and mercy and so have you seen. You heard of its pearly gates and its streets of shining gold. You heard of its foundations ofjasper and its walls of chrysolite and all manner of precious stones. You heard of its eternal rest and of the Presence of God and the glory of the overflowing bliss—and all you heard you have seen! But I say they would make an improvement upon this, for, like the Queen of Sheba, I think their glorified spirits would say, "The half has not been told." Yes, Brothers and Sisters, we have heard things, but, "what must it be to be there"—to be there?! The enjoyments transcend description and though the words of Scripture portray the bliss that remains, we, alas, are dull of understanding and cannot find out all the meaning of the golden sentences! But we shall soon be there and once there we shall, as I have said before, declare, "As we have heard, so have we seen, only that the half was not told us of the splendor and the glory of the court of our heavenly Solomon." May we be there to find all true and join in the everlasting song of, "Unto Him that loved us, and washed us from our sins in His blood, unto Him be glory forever and ever. Amen."
 
-EXPOSITION BY C. H. SPURGEON: PSALM451-9.
+## Exposition by C. H. Spurgeon: Psalm 451-9
 
 The Lily Psalm—a Psalm of loves. Oh, that our hearts might be full of love, tonight, and while we read, may our hearts be singing to the praise of the Well-Beloved!
 
@@ -122,7 +119,6 @@ Verse 1. My heart is inditing a good matter: I speak of the things which I have 
 8\. All your garments smell of myrrh, and aloes and cassia, out of the ivory palaces, whereby they have made You glat. Not only is Christ precious, but everything that touches Him! There is not a garment that hangs upon His shoulder but becomes sweet by contact with Him. "All Your garments smell of myrrh." There is myrrh about the priestly robe that falls down to His feet, and about the golden belt of His faithfulness that is girt about His waist. There are myrrh, and aloes, and cassia about His crown, though it is of thorns! About every garment that He puts on, there is a sweet perfume.
 
 9\. King's daughters were among Your honorable women: at Your right hand did stand the queen in gold of Ophir. Blessed queen of Christ—His Church. Let us never think little of her. There are some that are always crying up "the church," "the church," "the church"—but that is not the true Church, that tries to take the place of Christ. It is anti-Christ! The true Church has her place, however, and that is at her Husband's own right hand, where she sits in the best of the best—in gold—and that the gold of Ophir, for He spares nothing for her beauty and her glory.
-
 
 ---
 [[Sermon 3395 The Savior's Precious Blood|← #3395]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3397 A Timely Expostulation|#3397 →]]

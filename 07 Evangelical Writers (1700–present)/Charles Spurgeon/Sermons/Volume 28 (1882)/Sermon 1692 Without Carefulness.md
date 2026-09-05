@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # "Without Carefulness"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1692
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "I would have you without carefulness." 1 Corinthians 7:32.
 
@@ -130,7 +129,6 @@ You never find Jesus worrying. If He weeps, it is for the souls of men. If He su
 The best thing you, my dear Brothers and Sisters, can do in a great trouble may be to remember that text, "He gives His beloved sleep." Pray over your difficulty and then go to sleep—and wake up and find it all over—for the Lord has worked a great deliverance for you. I knew one, well, who was always in trouble about how he should die. Dear good man, he refused to be comforted, but was often troubled about the horrors of the departing hour—until one night he went to bed, shut his eyes on earth—and opened them in Glory! He never knew that he was away from earth till he knew that he was in Heaven, for he died in his sleep! And so it turned out that he had been worrying himself about nothing! Leave everything with God. If I can trust my soul with Him, I am sure I can trust my body with Him! If I can trust my eternal condition with Him, can't I trust Him with a matter of a five-pound note?
 
 What? Rest on Christ for Glory, and not rest on Christ for bread! Come, come! The Lord get you out of that low, unbelieving state! I am nearly at the close and so I press upon you my text. Like Paul, "I would have you without carefulness." May you be so, through the power of the gracious God who taught the Apostle Peter to say in the Spirit, "Casting all your care upon Him, for He cares for you." Amen.
-
 
 ---
 [[Sermon 1691 Christ's Word with You|← #1691]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1693 That Horrible East Wind!|#1693 →]]

@@ -10,10 +10,9 @@ written: "1742"
 tags:
   - jonathan-edwards
 ---
-
 # PART IV.
 
-SHOWING WHAT THINGS ARE TO BE CORRECTED OR AVOIDED, IN PROMOTING THIS WORK, OR IN OUR BEHAVIOUR UNDER IT.
+*Showing What Things Are to Be Corrected or Avoided, in Promoting This Work, or in Our Behaviour Under It*
 
 Having thus observed, in some instances, wherein the conduct of those that have appeared to be the subjects of this work, or have been zealous to promote it, has been objected against or complained of without or beyond just cause; I proceed now to show what things ought to be corrected or avoided.
 

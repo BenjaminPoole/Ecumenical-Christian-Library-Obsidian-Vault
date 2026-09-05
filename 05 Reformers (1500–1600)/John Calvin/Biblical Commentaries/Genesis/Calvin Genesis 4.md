@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 4
 
-**CHAPTER 4.**
+***Chapter 4.***
 
 ## Genesis 4:1-26
 

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 2. Translator's Introduction (David Schaff), Part 2
 
 The opening clause of Boniface's bull asserting the unity of the church, Wyclif and Huss both accepted, but they put upon it another interpretation from that intended by Boniface. The unity was not in the apostolic see but in predestinating grace as manifesting itself in the exercise of the Christian virtues. The other clauses they wholly repudiated, namely the clause that to the church is given both swords and the clause that it is altogether necessary for salvation that every creature be subject to the Roman pontiff. The latter repeats the very language of Thomas Aquinas. In renouncing these two propositions, Wyclif and Huss set themselves against the fabric of the mediaeval system.
@@ -56,7 +55,7 @@ Like the sacramental system, the universities and the cathedrals, the body of th
 
 2 A. Friedberg, Corpus jnris canonici, 1879-1881, 2 vols., pp. 1468, 1340, is pronounced by the Catholic canonical writer, P. Hergenrother, Lehrbuch d. kath. K.-rechts, p. 192, " the best edition." A description of the canon law will be found in Friedberg's Introd. to vol. I and in Hergenrother, pp. 172-196. For a history of the subject of the treatment, see the elaborate work of J. F. von Schulte, Die Cesch. der Qucllen und Lil. des canon. Rechts, Stutt., 3 vols., 1875-1880.
 
-INTRODUCTIOX
+## Introductiox
 
 From the university of Bologna, which became the celebrated centre of the study of both laws, such eminent popes went out as Alexander III and Innocent III, and the advice of its jurisconsults was sought on questions of first import, as by Frederick Barbarossa on the plain of Roncaglia, 1158.
 
@@ -104,7 +103,7 @@ To follow Huss's own presentation, the principle upon which Christ was put to de
 
 1 This treatise quotes the New Testament at least 347 times and the Old Testament 72 times. The two books most frequently quoted are the Gospels of Matthew, 93 times; and John, 67 times.
 
-CHAPTER PACE
+## Chapter Pace
 
 I. The Unity of the Church i-io
 
@@ -154,13 +153,13 @@ Spiritual and civil power — Power of the keys — Penance — Forgiveness gran
 
 XI. The Abuse of Scripture in the Interest of Cler-
 
-ICAL POWER III-I18
+## Ical Power III-I18
 
 Claiming the power of Christ and not following him — The devil the worst of sophists — Christ came to minister — Fictitious clerical authority — Christ's true followers — Simoniac priests — The contention of the eight doctors.
 
 XII. Christ the True Roman Pontiff upon Whom Sal-
 
-VATION DEPENDS II9-I24
+## Vation Depends Ii9-I24
 
 Belief in Christ alone of necessity to salvation — Christ the eternal high priest — Gregory I's letter on the papal prerogative — Assumptions and ostentation of modern pontiffs.
 
@@ -172,7 +171,7 @@ The alleged successors of Peter and the apostles — Unlettered popes — The pa
 
 XIV. When the Cardinals Are the True Successors
 
-OF THE APOSTLES 137-I46
+## Of the Apostles 137-I46
 
 Cardinals not the body of Christ — Not all the predestinate — Prelates often do not seek the things of Christ — The name does not make the bishop — The pope's display — Kissing the pope's feet — Prelates to be tested by their works.
 
@@ -184,7 +183,7 @@ Unworthy prelates — Duties of Christ's apostles — Ambrose, Augustine, etc, t
 
 CONTENTS xlv
 
-CHAPTER PAGE
+## Chapter Page
 
 XVI. The Law of the Standard of Ecclesiastical
 
@@ -218,13 +217,9 @@ Rendered to Prelates 241-262
 
 Popes and prelates compared to the scribes and Pharisees — Divine counsels — Circumstances modifying commands — Huss's reasons for not going to Rome — Commands repugnant to reason — Christ the first exemplar to be followed — Deaths of John, Martin, and Stafcon — An inferior may rebuke a superior — Objections from the canon law against rebuking a pope — Inferiors should examine commands before they obey them.
 
-CHAPTER PAGE
-
-XXII. EXCOMMUNICATIONS, JUST AND UNJUST . . 263-274
+## Chapter Page
 
 "A censure from the pope not to be questioned" — Pilate's treatment of the censure of Christ — Excommunication, suspension, interdict — Excommunication does not hurt the righteous — God must first excommunicate — The wicked already excommunicated from the body of the righteous.
-
-XXIII. SUSPENSION AND THE INTERDICT .... 275-299
 
 Suspension must be from God to be valid — Eli and his sons — Old Testament priests less guilty than New Testament priests — Prelates more guilty than the people if they do not warn the people — Not to reprove is to consent to sin — The interdict — Christ imposed none — Unjust to the innocent community — Reasons for the interdict on Prague — The curia's method — Boniface VIIFs bull — "The customs of the fathers" — The apostles did not fulminate interdicts — Condemnation of the XLV Wyclifite Articles— The effect.
 

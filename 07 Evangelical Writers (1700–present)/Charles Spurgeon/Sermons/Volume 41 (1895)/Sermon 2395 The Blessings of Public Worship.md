@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Blessings of Public Worship
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2395
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Two men went up into the Temple to pray; the one a Pharisee, and the other a publican." Luke 18:10.
 
@@ -125,7 +122,7 @@ Poor Soul, almost in despair, you think, "I have no right to be here. I am so gu
 
 Make way for them! Stand back, for these are the people He came to save! He has come "to seek and to save that which was lost." Believe that Christ died to save you, and you are saved! Throw yourself on His atoning Sacrifice, and it avails for you at once! Glorify Him by trusting Him for your salvation! Let Him be your High Priest and, from first to last, your Savior, and He is yours as surely as you are a living man or woman! Go your way justified rather than the other who does not need the Propitiation of the Lord Jesus Christ. The Lord bless you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 122; LUKE 18:1-14.
+## Exposition by C. H. Spurgeon: Psalm 122; Luke 18:1-14
 
 We will read two portions of Scripture relating to public worship. The first will be Psalm 122, one of David's "Songs of degrees."
 
@@ -155,8 +152,7 @@ Luke 18:1-7. And He spoke a parable unto them to this end, that men ought always
 
 14\. Went down to his house justified rather than the other: for everyone that exalts himself shall be abased; and he that humbles himself shall be exalted. It is God's usual method to reverse what man does and to turn things the other way around—"Everyone that exalts himself shall be abased; and he that humbles himself shall be exalted." You remember how the Virgin Mary, in her song, praised the Lord for this very habit of His—"He has put down the mighty from their seats and exalted them of low degree. He has filled the hungry with good things; and the rich He has sent away empty." That is His regular way of working and He will continue to do so!
 
-IST.
-
+## Ist
 
 ---
 [[Sermon 2394 Love's Climax|← #2394]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2396 Eternal Life!|#2396 →]]

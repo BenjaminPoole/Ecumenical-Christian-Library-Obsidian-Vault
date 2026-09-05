@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Cheer Up, My Comrades!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1513
@@ -69,7 +68,7 @@ Possibly, dear friends, some of you who think you have had slender success may h
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 21.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’245, 674, 694.
+## Hymns from ‘Our Own Hymn Book’245, 674, 694
 
 ### LETTER FROM MR. SPURGEON.
 
@@ -78,7 +77,6 @@ BELOVED FRIENDS,’On this first day of a New Year I salute you with hearty good
 Yours to serve in hearty earnest,
 
 Menton, Jan. 1, 1880.
-
 
 ---
 [[Sermon 1512 Loyal to the Core|← #1512]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1514 The Key-Note of a Choice Sonnet|#1514 →]]

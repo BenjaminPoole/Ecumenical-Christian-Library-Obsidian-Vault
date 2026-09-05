@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule V. Separation and sequestration from the world and men of the world, with all ways of false worship, until we be apparently a people dwelling alone, not reckoned among the nations
-
-Rule v. Separation and sequestration from the world and men of the world, with all ways of false worship, until we be apparently a people dwelling alone, not reckoned among the nations.
 
 Num. xxiii. 9, “Lo, the people shall dwell alone, and shall not be reckoned among the nations.”
 
@@ -43,7 +40,6 @@ Let motives hereunto be, —
 3\. Christ’s delight in the purity of his ordinances.
 
 4\. His distinguishing love to his saints; provided that, in the practice of this rule, abundance of meekness, patience, gentleness, wisdom, and tenderness be exercised. Let no offence be given justly to any.
-
 
 ---
 [[ECFC 16 Rule IV. Sedulous care and endeavouring for the preservation of unity, both in|← Rule IV. Sedulous care and endeavouring for the preservation of unity, both in particular and in general]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 18 Rule VI. Frequent spiritual communication for edification, according to gifts|Rule VI. Frequent spiritual communication for edification, according to gifts received →]]

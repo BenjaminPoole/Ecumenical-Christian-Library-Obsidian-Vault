@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # On Whose Side Are You?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1531
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 4, 1880,.
+*Delivered on Lord's-Day Morning, April 4, 1880*
 
 > "Then Moses stood in the gate of the camp and said, Who is on the Lord's side? Let him come unto me." Exodus 32:26.
 
@@ -134,7 +133,6 @@ We have somewhat of the same protest to bear and we must not flinch from it. We 
 "Oh," says one, "these are small points." Yes, but I want you to be like the Spartan who painted on his shield a fly. "Your escutcheon is very small," said one. "True," he said, "but I hold it very close to the enemy." If our points of conscience seem to be small, so much the more need that we hold them in the very faces of those who think little of the things of God! A small point where God is involved is a great matter! Trifling with small things leads to trifling with great things! Lastly, we need firm decision for God and bold acknowledgment of it in this day of general tampering with principle. Numbers of people whom we meet say, "You are right, no doubt, but—." Now, the Christian way of talking is, "If it is right we know no, 'but'!" "Oh, yes," says one, "I agree that it is the straight thing and yet—." A genuine Christian has no, "and yets."
 
 If words plainly mean such-and-such a thing, he uses them in that sense and not in an unnatural sense. And he never dares to say, "I know that such-and-such things are wrong and they trouble my conscience, but still, you see, I am doing a vast amount of good and we must submit to a little evil in order to gain a great good." The plain Christian will do no evil that good may come—he loathes the Jesuitical notion! He believes that it is a great evil to attempt to do good by doing evil. To him, truth, right, the teaching of God, the will of Christ are supreme objects. Oh, that you all possessed this spirit and were steadfast in it! In your family circle; in your business—everywhere—be true, be thorough, be upright, be godlike, be Christ-like and may the Divine Spirit help you to this, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1530 Following the Risen Christ|← #1530]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1532 The Holy Spirit's Intercession|#1532 →]]

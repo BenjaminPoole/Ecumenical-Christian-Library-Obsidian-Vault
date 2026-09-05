@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Refuges of Lies and What Will Become of Them
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1501
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 26, 1879,.
+*Delivered on Lord's-Day Morning, October 26, 1879*
 
 > "Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place." Isaiah 28:17.
 
@@ -140,7 +139,6 @@ There is a power about faith in Christ to give a man the mastery over himself—
 Again, let your refuge be wholly built up of Divine Truths. Do not try to comfort yourself with a lie. Dear Friend, let the Truth of God be all in all to you! Counterfeit coin enriches no man. Have nothing to do with false and flattering teachings. If your hope is not built on solid, substantial matters of fact, give it up and get one that is! If your hope of being saved depends on a dream, or a voice you thought you heard in the air, or some other such nonsense, put it away! Build upon your Lord's life, death and resurrection—build upon God's promises—build by the work of the Holy Spirit with faith and you shall have the reward of eternal life!
 
 In a word, rest on Jesus, the eternal Son of God made flesh and bleeding to death for man! Build on His complete work and there only—and then if winds blow and waters rage you shall be safe, safe forever! God bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1500 Number 1500, Or Lifting Up the Bronze Serpent|← #1500]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1502 Satan in a Rage|#1502 →]]

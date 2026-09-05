@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Pictures of Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3126
-
-DELIVERED BY C. H. SPURGEON.
 
 > "What is your life?" James 4:14.
 
@@ -99,7 +96,7 @@ But here a sweet thought charms us. This water cannot be lost, but it shall desc
 
 Such is life! Then make the best use of it, my Friends, because it is fleeting. Look for another life because this life is not a very desirable one—it is too changeable. Trust your life in God's hands because you cannot control its movements. Rest in His arms and rely on His might, for He is able to do for you exceeding abundantly above all that you ask or think—and unto His name be glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM39.
+## Exposition by C. H. Spurgeon: Psalm 39
 
 Verse 1. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.This is what David said—what he had deliberately resolved upon and solemnly determined in his own mind! "I said, I will take heed to my ways." That is a good thing for all of us to resolve and to say—"I will take heed." To be heedless is to be graceless. No man ever does a good thing by accident. We shall, none of us, get to Heaven by blundering.
 
@@ -162,7 +159,6 @@ Verse 1. I said, I will take heed to my ways, that I sin not with my tongue: I w
 13\. Ospare mm. That is a singular petition, for just now he seemed to be wanting to get to the end of his days, yet he says, "O spare me," like Elijah, who was afraid to die and so ran away from Jezebel and then prayed to God, "Let me die." So are God's children still a mass of contradictions—longing for death and yet, when death comes, they cry, "O spare me! O spare me!"
 
 13\. That I may recover strength before I go from here and am no more. "Give me a little respite that I may take my nourishment and have my sleep before I go hence to be no more, for soon I shall do that. But first give me a little interlude, wherein I may again take my harp and sing to Your praise." If worldlings cannot understand this mingled experience, God's children know that this is only one of the many paradoxes with which they are perfectly familiar! In any case, may each one of us be ready when it shall be God's time for us to "go from here and are no more"!
-
 
 ---
 [[Sermon 3125 Fear of Death|← #3125]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3127 A Promise and Precedent|#3127 →]]

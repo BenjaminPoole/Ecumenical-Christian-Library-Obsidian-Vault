@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Candle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1594
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 24, 1881,.
+*Delivered on Lord's-Day Morning, April 24, 1881*
 
 > "Neither do men light a candle and put it under a bushel, but on a candlestick; and it gives light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in Heaven." Matthew 5:15,16
 
@@ -142,7 +141,6 @@ These are your orders. There is the God-made wine—"Draw out now and bear." Rec
 Only see to it that you freely give what you have freely received, lest hoarded manna breeds corruption! Lest a canker come upon your hoarded gold and silver! And lest your very souls grow moldy even to reeking rottenness before God because you have not drawn out your souls unto the hungry, nor sought to teach those who are perishing for lack of knowledge!
 
 The Baptist Missionary Society will enable you to teach the heathen. Take a share in it. There, make the collection! Do your best!
-
 
 ---
 [[Sermon 1593 Rejecters Of The Gospel Admonished|← #1593]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1595 The Valley Of The Shadow Of Death|#1595 →]]

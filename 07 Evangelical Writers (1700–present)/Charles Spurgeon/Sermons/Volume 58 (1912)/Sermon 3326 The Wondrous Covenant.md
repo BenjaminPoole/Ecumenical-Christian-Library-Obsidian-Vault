@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Wondrous Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3326
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For this is the Covenant that I will make with the house of Israel after those days, says the Lord; I will put My Laws into their mind, and write them in their hearts; and I will be to them a God, and they shall be to Me a people." Hebrews 8:10.
 
@@ -73,7 +70,7 @@ People have their treasures, their pearls, their jewels, their rubies, their dia
 
 II. And now, Brothers and Sisters, I wish I had time to go over the other parts contained in the 11th and 12th verses of the Chapter, but I have not, for I have a practical business to do, and it is to enquire—FOR WHOM HAS GOD MADE
 
-THIS COVENANT?
+## This Covenant?
 
 I said He made it with Christ, but He made it with Christ as the Representative of His people. The question tonight for you, and for me, and for each one is, "Am I interested in Christ? Did Christ Jesus stand for me?" Now, if I were to say that Christ was the Representative of the whole world, you would not find any substantial advantage in that because the great proportion of mankind being lost, whatever interest they may have in Christ, it is certainly of no beneficial value to them as to their eternal salvation! The question I ask is—have I such a special interest in Christ that this Covenant holds good towards me so that I shall have, or so that I now have the enlightened mind, the sanctified affections and the possession of God to be my God? Be not deceived, my Brothers and Sisters—I cannot and you cannot turn over the leaves of the book of destiny! It is impossible for us to force our way into the cabinet chamber of the Eternal! I hope you are not deluded by superstitious ideas that you have had a Revelation made to you, or that there has been some special sound or dream which makes any one of you think you are a Christian!
 
@@ -91,7 +88,7 @@ These blessings I have spoken of seem to me to be a great consolation and inspir
 
 Gethsemane a defeat? Impossible! The Mighty Man who went up to the Cross to bleed and die for us, being also the Son of God, did not there achieve a defeat but a victory! He shall see His seed, He shall prolong His day, and the pleasure in the Lord shall prosper in His hands! If some will not be saved, others shall. If, being invited, some count themselves not worthy to come to the feast, others will be brought in, even the blind, the crippled and the lame—and the supper shall be furnished with guests! If they come not from England, they shall come from the east, and from the west, from the north and from the south. If it should come to pass that Israel is not gathered, lo, the heathen shall be gathered unto Christ! Ethiopia shall stretch out her arms! Sinim shall yield herself to the Redeemer! The desert ranger shall bow the knee and the far-off stranger enquire for Christ! Oh, no, Beloved, the purposes of God are not frustrated! The eternal Will of God is not defeated! Christ has died a glorious death and He shall have a full reward for all His pain. "Therefore, be you steadfast, immovable, always abounding in the work of the Lord, forasmuch as you know that your labor is not in vain in the Lord."
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 5:1-11; PSALM 81:1-14.
+## Exposition by C. H. Spurgeon: Romans 5:1-11; Psalm 81:1-14
 
 Romans 5:1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ The Gospel is full of "therefores," it is above reason, but it is never against reason—it is the most reasonable thing under Heaven! "Therefore"—it is a matter of argument. You will have to read the previous Chapters to see how this conclusion flows naturally from what he had before taught by the Holy Spirit.
 
@@ -134,7 +131,6 @@ Psalm 71:1. In You, OLORD, do Iput my trust: let me never beput to confusion. Th
 8-9. Let my mouth be filled with Your praise and with Your honor all the day. Cast me not off in the time of old age; forsake me not when my strength fails. A prayer which both young and old may offer, for if we live long enough, that time of weakness will surely come. There are many men who cast off their old servants—but God does not. When we are worn out, He will still bless us.
 
 10-14. For my enemies speak against me and they that lay wait for my soul take counsel together, saying, God has forsaken him: persecute and take him; for there is none to deliver him. O God, be not far from me: O my God, make haste for my help. Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonor that seek my hurt. But I will hope continually and will yet praise You more and more. In the 8th verse he had said, "Let my mouth be filled with Your praise." That is a mouthful! Now he says, "I will praise You more and more." As if he needed more mouths wherewith to praise! More room for his heart's grateful thanksgiving to God! "I will praise You more and more."
-
 
 ---
 [[Sermon 3325 Solace for Sad Hearts|← #3325]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3327 Our Lord's Heroic Endurance|#3327 →]]

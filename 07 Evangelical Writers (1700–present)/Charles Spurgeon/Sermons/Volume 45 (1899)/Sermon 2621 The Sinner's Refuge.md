@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Sinner's Refuge
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2621
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then you shall appoint you cities to be cities of refuge for you; that the slayer may flee there, who kills any person at unawares." Numbers 35:11.
 
@@ -89,7 +86,7 @@ It is strange that I should feel more concern for your souls than you do for you
 
 Ah, me! I would not like one of my Hearers to say that concerning my preaching. Let this world hiss me! Let me wear the coat that sparkles, and the cap that garnishes a fool! Let earth condemn me and let the fools of the universe spurn me, but I will be free from the blood of my Hearers! The only thing I seek in this world is to be faithful to my Hearers' souls. If you are damned, it will not be for lack of faithful preaching, nor of earnest warning. Young men and maidens, old men with gray heads, merchants and tradesmen, servants, fathers, mothers, children—I have warned you this night—you are in danger of Hell! And, as God lives, before whom I stand, you will soon be there unless you flee from the wrath to come! Remember, none but Jesus can save you! But if God shall enable you to see your danger and give you Grace to flee to Christ, He will have mercy upon you and the avenger of blood shall never find you! No, not even when the red lightning shall be flashing from the hands of God in the Day of Judgment! His City of Refuge shall shelter you forever! And in Heaven with Jesus, triumphant, blessed, secure, you shall sing of the blood and righteousness of Christ who delivers penitent sinners from the wrath to come. God bless and save you all! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 10:1-14.
+## Exposition by C. H. Spurgeon: 1 Corinthians 10:1-14
 
 Verses 1-4. Moreover, brethren, I would not that you be ignorant how that all our fathers were under the cloud, and all passed through the sea; and were all baptized unto Moses in the cloud and in the sea; and did all eat the same spiritual meat; and did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them; and that Rock was Christ. The history of Israel in coming out of Egypt was a very instructive type of the history of the visible Church of Christ. They were in slavery in Egypt as all men are in bondage to sin and Satan. They were brought out of Egypt as all the redeemed are delivered by the almighty Grace of God. With a high hand and an outstretched arm, the Lord brought Israel out of the house of bondage and, by a very wonderful Baptism, "in the cloud and in the sea," they commenced their career as God's separated people. Then they all shared in the same spiritual ordinances—"They did all eat the same spiritual meat; and did all drink the same spiritual drink." Yet, for all that, they were not all God's people. They were so nominally and visibly—but they were not all really so. And, as there was a mixed multitude that came up out of Egypt, together with the true Seed of promise, so is there an alien element in every Church at this present day. Among those who have been baptized into Christ, there are still some who, while they eat the spiritual meat and drink the spiritual drink, yet for all that have not been brought into true communion with Christ and do not, in reality, know the Lord.
 
@@ -114,7 +111,6 @@ Verses 1-4. Moreover, brethren, I would not that you be ignorant how that all ou
 13, 14. There has no temptation taken you but such as is common to man: but God is faithful, who will not allow you to be tempted above what you are able; but will, with the temptation, also make a way to escape, that you may be able to bear it Therefore, my dearly beloved, flee from idolatry. I would like to see this verse put over the top of every "sacramental" table in every "church" in England—"Therefore, my dearly beloved, flee from idolatry." If this text were properly understood, every crucifix would be broken to pieces and the altars, themselves, would be cleared away to make room for what should be there—the Table of the Lord—and we would have no more worship of visible things, which is idolatry! O you who are the dearly-beloved of God, flee from it! Keep as far from it as you can.
 
 I remember reading of a man of God who was the rector of a certain parish and who had in the church a very ancient and famous painted window of which he was somewhat proud. In the design there was a representation of the Godhead—the Father was there, and oh, how blasphemous! He was represented as an aged man! And, one day, this clergyman, who had seen no evil in the window, heard a rustic explaining to a companion that that was the God whom they worshipped. The rector did not hesitate for a moment, but he threw a stone right through that part of the painted window. I suppose that was an offense against the law of man, but certainly it was not against the Law of God! He would never have that figure replaced on any account, whatever, and I think that he did well! "Dearly Beloved, flee from idolatry." Put it out of your sight! Do not tamper with it, but hate it with a perfect hatred! In God's eyes, it is one of the most fearful of sins. He has said, "I, the Lord your God, am a jealous God," and He will have nothing to come between us and the pure and simple worship of His own invisible Self.
-
 
 ---
 [[Sermon 2620 Christ's Prayer for Peter|← #2620]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2622 Watching to See|#2622 →]]

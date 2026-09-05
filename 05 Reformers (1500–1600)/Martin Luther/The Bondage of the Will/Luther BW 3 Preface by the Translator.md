@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 3. Preface by the Translator
 
 ## PREFACE
@@ -38,7 +37,7 @@ The addition of the following few remarks shall suffice for observation.
 
 With these few and brief preliminary observations, the Translator presents this profound Treatise of the immortal Luther on the Bondage of the Will to the Public. And he trusts he has a sincere desire, that his own labour may prove to be, in every respect, a faithful Translation: and that the work itself may be found, under the Divine blessing, to be — an invaluable acquisition to the Church — “a sharp threshing instrument having teeth” for the exposure of subtlety and error — a banner in defence of the truth — and a means of edification and establishment to all those, who are willing to come to the light to have their deeds made manifest, and to be taught according to the oracles of God!
 
-HENRY COLE.
+## Henry Cole
 
 *London, March,* 1823.
 

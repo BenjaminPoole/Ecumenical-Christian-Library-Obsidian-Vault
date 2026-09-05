@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Parable of the Ark
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3042
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life." Genesis 7:15.
 
@@ -96,7 +93,6 @@ morning, of the Resurrection, [Sermon #s66, 67, Volume 2—THE RESURRECTION OF T
 I saw, some time ago, a picture which I think time will never erase from my memory. It was a picture of a man who had been climbing up to the top of the last mountain and the floods were coming around him. He had his old father on his back. His wife was clasping him round his waist and he had one arm round her. She held one child at her breast and with her other hand she grasped another. In the picture one child was represented as just letting go, the wife dropping and the father clinging to a tree on the top of the hill. The branches were breaking and it was being torn up by the roots. Such a scene of agony I never saw depicted before—yet such a scene was likely enough to have been real when the waters entirely covered the earth. They had climbed up to the top of the last hill—and now they sank. False hopes gave place to fell despair—and so it will be with you, you careless ones, unless you take shelter in the Ark!
 
 Do you ask me, "How can we do that?" You look anxious, some of you. Listen, then, while I finish, as I have often done before, with the simple statement which contains our authority to preach and your admonition to believe! Jesus said, "Go you into all the world and preach the Gospel to every creature. He that believes and is baptized shall be saved; but he that believes not shall be damned."
-
 
 ---
 [[Sermon 3041 The Sparrow and the Swallow|← #3041]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3043 Filling Up the Measure of Iniquity|#3043 →]]

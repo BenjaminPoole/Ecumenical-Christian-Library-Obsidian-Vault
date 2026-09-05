@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Objective of the Lord's Supper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2942
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as often as you eat this bread, and drink this cup, you proclaim the Lord's death till He comes." 1 Corinthians 11:26.
 
@@ -105,9 +102,9 @@ But I must also speak to those who do observe the ordinance in a fashion, but wh
 
 Come then, Beloved, unworthy as you are, come to His Table! Come trembling because of your sin, but rejoicing in His Sacrifice and grateful for His great love! Come and trust Him over again! Come and give yourselves up to Him once more. Come and renew your vows of affection and devotion. Come and put your finger into the print of the nails and thrust your hand into His pierced side. No, more than that, say what the spouse does as she begins the song of songs, "Let Him kiss me with the kisses of His mouth: for Your love is better than wine." Seek to get near to Him, to come into close contact with Him and when you do so, hold Him fast and do not let Him go, but call together your friends and Christian Brothers and Sisters and say to them, "Here is the Master! Come with me and let us together have sweet fellowship with Him." If, tonight, at the Communion Table, I might thus lay hold of the great Angel of the Covenant, I think I should feel inclined to hold Him till the break of day, as Jacob did at Jabbok. And if He should make my sinews shrink, yet would I bless His name for condescending to tarry and wrestle with me! If you can get into contact with Him, make this your resolve, that you will hold fast and will say to Him, "I will not let You go, except You bless me."
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM 22:1-9; MATTHEW27:33-44.
+## Psalm 22:1-9; Matthew 27:33-44
 
 Psalm 22:1. My God, My God, why have You forsaken Me?What a dolorous cry! How terrible it must have been to have heard that cry! How much more terrible to have uttered it! For the dear Son of God, the Well-Beloved, with whom the Father is always pleased, to be forsaken of His God was, indeed, unfathomable grief!
 
@@ -136,7 +133,6 @@ Matthew 27:33, 34. And when they were come unto a place called Golgotha, that is
 40-43. And saying, You, that destroy the Temple, and build it in three days, save Yourself If You are the Son of God, come down from the Cross. Likewise also the chief priest mocking Him, with the scribes and elders, said, He saved others: Himself He cannot save. If He is the King of Israel, let Him now come down from the Cross and we will believe Him. That is the cry of the mockers today. If we will but give up the Atonement, men say that they will believe in Christ. His Character is so excellent that they will accept Him as an example, (so they say), but they will not have His Godhead, nor His precious blood! This proves that they are enemies, for they use the same language as His bitterest foes did when He hung upon the Cross. As for the scribes, they were learned in the Psalms and, therefore, they quoted what we have already read.
 
 43, 44. He trusted in God, let Him deliver Him now, if He will have Him: for He said, I am the Son of God. The thieves also which were crucified with Him, cast the same in His teeth. Thus the Master passed through bitter trial and ignominy for our sakes.
-
 
 ---
 [[Sermon 2941 Mary's Magnificat|← #2941]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2943 Restraining Prayer|#2943 →]]

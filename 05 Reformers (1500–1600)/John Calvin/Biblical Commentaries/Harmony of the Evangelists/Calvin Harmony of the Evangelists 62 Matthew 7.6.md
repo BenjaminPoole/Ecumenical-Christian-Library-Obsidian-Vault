@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 62. Matthew 7:6
-
-**MATTHEW 7:6**
 
 **6**. Give not that which is holy to the dogs, and do not throw down your pearls before swine, lest these trample them under their feet, and those turn and tear you.
 

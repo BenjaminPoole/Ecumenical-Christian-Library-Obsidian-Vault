@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Our Hiding Place
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2856
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And a man shall be as a hiding place from the wind, and a cover from the tempest." Isaiah 32:2.
 
@@ -151,7 +148,7 @@ To sum all up, Beloved, I do not know what your storms, inwardly or outwardly, m
 
 III. So I close my discourse by saying to you, AS THE LORD JESUS CHRIST IS SUCH A HIDING PLACE AS
 
-THIS, LET US RUN TO HIM FOR SHELTER.
+## This, Let Us Run to Him for Shelter
 
 First, let us stand behind Him whenever we approach God. I can imagine someone saying, "I want to pray, but I am afraid to appear before the Lord, for, if His eyes of fire shall look upon me, they may utterly consume me. What shall I do?" Why, stand behind His Son and say unto Him—
 
@@ -200,7 +197,6 @@ He will save you, He will save you,
 He will save you now!"
 
 That is the way into this Hiding Place—trust in the Lord Jesus Christ! Depend upon Christ for the pardon of your sin and for everything you need for time and for eternity, and you shall find Him shield you from every storm henceforth and forever! The Lord bless you all, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2855 The Lesson of Uzza|← #2855]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2857 God's Goodness Leading to Repentance|#2857 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Laus Deo
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 572
 
-DELIVERED ON SUNDAY MORNING, MAY 29, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 29, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Romans 11:36.
 
@@ -136,7 +135,6 @@ I hope, dear Friends, while thus earnest, your praise will also be growing. Let 
 In closing, let me urge you to make this desire practical. If you really glorify God, take care to do it not with lip-service which dies away in the wind, but with solid homage of daily life. Praise Him by your patience in pain, by your perseverance in duty, by your generosity in His cause, by your boldness in testimony, by your consecration to His work. Praise Him, my dear Friends, not only this morning in what you do for Him in your offerings, but praise Him every day by doing something for God in all sorts of ways, according to the manner in which He has been pleased to bless you. I wish I could have spoken worthily on such a topic as this, but a dull, heavy headache sits upon me and I feel that a thick gloom overshadows my words, out of which I look with longing, but cannot rise.
 
 For this I may well grieve, but nevertheless God the Holy Spirit can work the better through our weakness and if you will try and preach the sermon to yourselves, my Brethren, you will do it vastly better than I can. If you will meditate upon this text this afternoon, "Of Him and through Him and to Him, are all things," I am sure you will be led to fall on your knees with the Apostle and say, "To Him be glory forever," and then you will rise up and practically, in your life, give Him honor, putting the "Amen" to this doxology by your own individual service of your great and gracious Lord. May He give a blessing now and accept your thank offering through Christ Jesus. Amen.
-
 
 ---
 [[Sermon 0571 Unbelievers Stumbling—Believers Rejoicing|← #571]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0573 Baptismal Regeneration|#573 →]]

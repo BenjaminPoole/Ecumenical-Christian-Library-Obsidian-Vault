@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 157. Matthew 19:10-12
-
-**Matthew 19:10-12**
 
 **10**. His disciples say to him, If such be the case of the man with his wife, [^1] it is not expedient to enter into marriage. **11**. Who said to them, [^2] All are not capable of receiving this saying, but those to whom it is given. **12**. For there are eunuchs, who were so born from their mother’s womb; and there are eunuchs, who have been made eunuchs by men; and there are eunuchs, who have castrated themselves for the sake of the kingdom of heaven. He who can receive it, [^3] let him receive it.
 

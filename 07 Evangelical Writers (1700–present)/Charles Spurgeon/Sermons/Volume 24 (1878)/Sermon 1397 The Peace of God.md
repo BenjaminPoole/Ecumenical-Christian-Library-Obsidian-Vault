@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Peace of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1397
 
-DELIVERED ON LORD'S-DAY EVENING, JANUARY 6, 1878,.
+*Delivered on Lord's-Day Evening, January 6, 1878*
 
 > "And the peace of God, which passes all understanding, shall keep your hearts and minds through Christ Jesus." Philippians 4:7.
 
@@ -152,7 +151,6 @@ A word to you who do not know our Lord. How I wish you did know Him! You can nev
 It seems to me very amazing that we should need to persuade men to think of their own interests and to care for their own selves! In other things they are always sharp enough to look after what they call, "Number One," but when it comes to the most solemn concern—the greatest blessing and the purest happiness that can be had—they are so foolish as to let all other things attract them more than the Lord Jesus! The Lord save you all for His infinite mercy's sake! Amen.
 
 [EARNEST prayer is desired for the special services now being held at the Tabernacle and also for Mr. SPURGEON, that he may be fully restored and may return to his people in the fullness of the blessing of the Gospel of peace. He is, by God's Grace, already greatly improved in health.]
-
 
 ---
 [[Sermon 1396 Reasons for Turning to the Lord|← #1396]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1398 Offended Because of Christ|#1398 →]]

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Sanctification
 
-Chapter II · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter II · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Sanctify them through Thy truth*.”—John xvii. 17.
 
@@ -148,7 +147,6 @@ Let us feel convinced, whatever others may say, that holiness is happiness, and 
 THE subject of sanctification is of such deep importance, and the mistakes made about it so many and great, that I make no apology for strongly recommending “Owen on the Holy Spirit” to all who want to study more thoroughly the whole doctrine of sanctification. No single paper like this can embrace it all.
 
 I am quite aware that Owen’s writings are not fashionable in the present day, and that many think fit to neglect and sneer at him as a Puritan! Yet the great divine who in Commonwealth times was Dean of Christ Church, Oxford, does not deserve to be treated in this way. He had more learning and sound knowledge of Scripture in his little finger than many who depreciate him have in their whole bodies. I assert unhesitatingly that the man who wants to study experimental theology will find no books equal to those of Owen and some of his contemporaries, for complete, Scriptural, and exhaustive treatment of the subjects they handle.
-
 
 ---
 [[Holiness 01 Sin|← Sin]] · [[Holiness|Holiness Contents]] · [[Holiness 03 Holiness|Holiness →]]

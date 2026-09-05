@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART X
 
-IMPROVEMENT OF THE WHOLE
+*Improvement of the Whole*
 
 I proceed now to enter upon some improvement of the whole that has been said from this doctrine.
 

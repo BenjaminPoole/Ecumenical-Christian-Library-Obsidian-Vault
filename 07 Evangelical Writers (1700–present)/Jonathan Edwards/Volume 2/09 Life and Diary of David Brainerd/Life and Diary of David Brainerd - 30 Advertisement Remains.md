@@ -10,8 +10,7 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
-ADVERTISEMENT.
+# Advertisement
 
 Mr. brainerd had a large acquaintance and correspondence, especially in the latter part of his life, and he did much at writing *letters* to his absent friends; but the most of his acquaintance living at a great distance from me, I have not been able to obtain copies of many that he wrote: however, the greater part of those which I have seen, are such as appear to me of profitable tendency, and worthy of the public view: I have therefore here added a few of his *letters.*
 

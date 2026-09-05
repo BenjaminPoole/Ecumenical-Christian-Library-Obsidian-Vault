@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Joshua 8:1-29
 

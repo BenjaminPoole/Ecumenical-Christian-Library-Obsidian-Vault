@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # A Plain Man's Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1879
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It must be perfect to be accepted; there shall be no defect in it." Leviticus 22:21.
 
@@ -124,7 +121,6 @@ Shall be forever Yours.'"
 Oh, that we practiced it as well as sang it! Would God that the best of our lives, the best hours of the morning, the best skill of our hands, the best thoughts of our minds, the very cream of our being were given to our God! But, alas, Christ's cause is sent round to the back door to get the broken meat and, "Mind you do not leave too much meat on the bone," is the kind of instruction that is given to her who hands it out! Christ Jesus is sent to the dung heap for the odds and ends! Cheese parings and candle ends are given to the Missionary Society. Perhaps the statement is too liberal—it would be well if they were! Three-pennies and four-pennies are gracious gifts from struggling tradesmen and poor work people, but they are hardly decent when sent in by folk who spend hundreds of pounds upon their own pleasure! To God's altar we ought to bring the best bullock from the stall and the best sheep from the fold!
 
 I leave you to yourselves to judge whether it is not so. If you are not over head and ears in debt to the mercy of God in Christ, then it is not so. But if you are debtors to Divine Mercy beyond all compute, you shall, each one, reckon up for himself—"How much owe you unto my Lord?" If it is a debt you can never calculate—then give the Lord, from this day forth—the fullness of your being! May God grant that you and your offerings may be accepted in Christ Jesus! Amen and amen.
-
 
 ---
 [[Sermon 1878 A TRAITOR SUSPECTED AND CONVICTED|← #1878]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1880 A Lesson and a Fortune for Christian Men of Business|#1880 →]]

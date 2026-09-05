@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Why Men Do Not Believe
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3463
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How can you believe, who receive honor one of mother" John 5:46.
 
@@ -27,7 +24,7 @@ Now our Lord asked no testimonials from anybody. He stood up and spoke very simp
 
 Now this is an illustration of a general rule upon which I wish to speak tonight. The moral character has a great effect upon the faith. These men, through being proud, stilted and fond of titles, were unable to believe in Christ—but there are other faults more common than these which effectually prevent men from becoming the disciples of our blessed Master. Of some of these I intend to speak this evening. And when I have done so, I shall have a few words to address to the individuals here who cannot believe in Christ because there is a something within their hearts that very effectually prevents their coming to the faith of God's elect. First, then, it is very clear that—
 
-I. IT IS NOT BECAUSE A TRUTH IS PLAIN THAT, THEREFORE, ALL MEN SEE IT.
+## I. It Is Not Because a Truth Is Plain that, Therefore, All Men See It
 
 There are some men in such a condition of mind, of such a blinding sort, that even if the Truth of God could be still more plain, it would be the most unlikely thing in all the world that they would receive it! We will suppose for a moment that teetotalism is based upon the surest Truth of God and cannot, for a moment, be disputed. Some earnest Brother is endeavoring to convince a man. He belabors him with the most potent arguments—he brings before him the most astonishing facts and some of those wonderful "statistics" which the more we look at, the less we believe! And after bringing all these to bear upon the man, he is still unmoved. You are surprised, but somebody whispers in your ear, "He owns a gin palace," and now you are not surprised at all! It would be a very unlikely thing that he should be convinced of the propriety of total abstinence while he, himself, gets his gain by selling the pernicious evils! But take another case of the same sort. A young gentleman, in conversation with a bishop, was endeavoring to show his lordship the unscriptural character of the Episcopal body as now held in the Church of England. His lordship was observed to smile and when he was asked the reason, he replied, "Why, I wonder at the courage of this young gentleman that he should imagine he could ever convince me out of 3,000 a year!" And, indeed, it was not very likely that he would be converted from the errors of Episcopacy, if these are errors, any more than our friend of the gin palace was likely to be converted to anti-alcoholic
 
@@ -55,7 +52,7 @@ in Jesus Christ. Why, how could I meet my old companions? What would they say to
 
 Now I might enlarge, but I shall not. You clearly see that there are many moral faults which keep men back from believing in Jesus. Now for—
 
-II. A FEW PLAIN, EARNEST WORDS WITH THOSE OF YOU WHO HAVE NOT BELIEVED.
+## II. A Few Plain, Earnest Words with Those of You Who Have Not Believed
 
 There have been many arguments which have been used at different times to bring over the skeptical to the faith. I will just tell you what has often strengthened my own mind, so that, my dear Friends, if God inclines you to overcome the moral difficulty, you may not have a mental difficulty. In the first place, the Doctrine that we are called upon to be-lieveis, that having sinned we are condemned, but that God, full of mercy, had pity upon us and that His Son, God Himself, came down on earth to suffer what was due on account of our sins. In order that the Justice of God might not even seemto be robbed of its due, Jesus, God's only-begotten Son—
 
@@ -71,7 +68,7 @@ that you would sooner have the world full of them than you would of any other so
 
 Now a word with regard to you, dear Friend, who are still a doubter. We are driven to believe two things about you and about everybody like you, namely, that you will never come to know Christ unless the Holy Spirit deals with you, for all the arguments in the world do not convince the human heart unless the Spirit of all Grace shall come and change the nature! And we believe another thing of you, that you must first give up that belief in yourself before you are ever likely to believe in Jesus. How simple it all seems! God has punished Jesus, His dear Son, instead of those who trust Him. Those who trust Him are forgiven. That trust, that sense of forgiveness operates upon the mind, leads the mind to gratitude, influences it to love. The man loves God, chooses what he once rejected, and runs now in the ways of God which were once tedious to him. There is the whole theory of salvation and the experimentally acting out of it. It does seem to me hard that you turn from it. If it were a Gospel full of superstitions, like Roman Catholic teachings—if we asked you to believe in certain miracles that were so strange, so weird that you could not conceive them to be true, I could well excuse your unbelief! But when it is simply to trust the Incarnate God who did hang on Calvary and bleed for sinners, a thing which looks so true, and which to tens of thousands has been proved to be true in their lives and in their hearts—oh, I would that you would doubt no longer, but close in with Christ and find safety in Him! These reflections will do to close with, namely, that—
 
-III. IF WE DO NOT BELIEVE IN JESUS, OUR NON-BELIEF WILL NOT CHANGE THE FACTS.
+## III. If We Do Not Believe in Jesus, Our Non-Belief Will Not Change the Facts
 
 If a man says, "I am no sinner," he remains a sinner. If he says, "I do not believe that God will punish sin," the punishment will be just as sure. If he says, "There is no hereafter," the future will not end for him. If he shall doubt as to the punishment of the wicked, his skepticism shall not mitigate God's wrath. The facts remain. Oh, think not, when you have blotted out your own recollection, that you have blotted out God's determination! There it stands.
 
@@ -81,7 +78,7 @@ I talk thus somewhat strongly because I feel strongly, and I often puzzle myself
 
 night, and it only seems like a little kind of music. Well, it may be sport to you, but it is none to me! I have to answer for this, and if I speak not so that you understand, and speak not earnestly, I know I shall have to account to my Master! I would not be some that occupy the pulpit for all the worlds that God ever made if they were threaded on one string! To get a sermon and read it coldly, to read out statements which do not concern your hearers and deliver them as if it did not matter whether they were true or not—to be an iceberg in the midst of an assembly—how will God call us to account if such is our way of ministry! But I beseech you, men and women, if you have not believed in Christ, to remember that that is the only door of safety according to God's own Revelation. "Other foundation can no man lay than that which is laid, Jesus Christ, the Righteous." To deny Him, to neglect Him, is to perish! To trust Him, to accept Him, is to be saved! May God's blessed Spirit move you to trust Him this very night, and as there will be on earth, so will there be joy in Heaven, and God's shall be the Glory world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN3:1-21.
+## Exposition by C. H. Spurgeon: John 3:1-21
 
 We can scarcely find a Chapter in which the Gospel lies so compact and so plainly stated.
 
@@ -122,7 +119,6 @@ mysteries in Nature. There are mysteries in Grace. Every new-born soul is a myst
 19, 20. That Light is come into the world, andmen loved darkness rather than Light, because their deeds were evil For everyone that does evil hates the Light, neither comes to the Light, lest his deeds should be reproved. This is the secret of infidelity. This is the reason of all opposition to Christ. It is love of sin! Trace it home to its den and lair, and you shall find that it is love of sin that breeds hatred of Christ. Men do not see because they do not want to see. They do not want to see too much lest they should be uneasy in their present state of life. So they kick against Christ and try to put out the Light of His Gospel, lest they be reproved by it.
 
 21\. But he that does truth comes to the Light, that his deeds may be made manifest, that they are worked in God. God give us the heart that seeks His Light, and sooner or later we shall find it. We shall find it in Christ!
-
 
 ---
 [[Sermon 3462 To the Rescue|← #3462]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3464 True Worship|#3464 →]]

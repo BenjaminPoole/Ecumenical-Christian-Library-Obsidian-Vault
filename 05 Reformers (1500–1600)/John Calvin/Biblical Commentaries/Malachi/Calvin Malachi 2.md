@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Malachi 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Malachi 2:1, 2
 
@@ -82,7 +81,7 @@ So also our Prophet here shows, that the priests made pretences and deceived the
 
 ## Prayer Lecture 173
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God that as thou hast been pleased to choose us at this day thy priests, and hast consecrated us to thyself by the blood of thine only-begotten Son and through the grace of thy Spirit, — O grant, that we may rightly and sincerely perform our duties to thee, and be so devoted to thee that thy name may be really glorified in us; and may we be thus more and more confirmed in the hope of those promises by which thou not only guides us through the course of this earthly life, but also invites us to thy celestial inheritance; and may Christ thy Son so rule in us, that we may ever cleave to our head, and be gathered as his members into a participation of that eternal glory into which he has gone before us. — Amen.
 
@@ -168,7 +167,7 @@ And corresponding with this view is what follows, *And I have already rendered* 
 
 ## Prayer Lecture 174
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast deigned to take us as a priesthood to thyself, and hast chosen us when we were not only of the lowest condition, but even profane and alien to all holiness, and hast consecrated us to thyself by thy Holy Spirit, that we may offer ourselves as holy victims to thee, — O grant, that we may bear in mind our office and our calling, and sincerely devote ourselves to thy service, and so present to thee our efforts and our labors, that thy name may be truly glorified in us, and that it may really appear that we have been in grafted into the body of thy only-begotten Son; and as he is the chief and the only true and perpetual priest, may we become partakers of that priesthood with which thou hast been pleased to honor him, so that he may take us as associates to himself; and may thus thy name be perpetually glorified by the whole body as well as by the head. — Amen.
 
@@ -234,7 +233,7 @@ In short, he denounces punishment on the Jews universally, and shows that howeve
 
 ## Prayer Lecture 175
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are so inclined to all kinds of wickedness, we may learn to confine ourselves within the limits of thy word, and thus restrain all the desires of our flesh; and that whatever Satan may contrive to draw us here and there, may we continually proceed in obedience to thy word, and being mindful of that eternal election, by which thou hast been pleased gratuitously to adopt us, and also of that calling by which thy eternal election has been confirmed, and by which thou hast received us in thine only-begotten Son, may we go on in our course to the end, and so cleave, by persevering faith, to Christ thy Son, that we may at length be gathered into the enjoyment of that eternal kingdom which he has purchased for us by his blood. — Amen.
 
@@ -311,7 +310,7 @@ He concludes again with these words, *Watch over your spirit*; that is, “Take 
 
 ## Prayer Lecture 176
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though we daily in various ways violate the covenant which thou hast been pleased to make with us in thine only-begotten Son, we may not yet be dealt with according to what our defection, yea, the many defections by which we daily provoke thy wrath against us, do fully deserve; but suffer and bear with us kindly, and at the same time strengthen us that we may persevere in the truth and perform to the end the pledge we have given to thee, and which thou midst require from us in our baptism, and that we may each of us so conduct ourselves towards our brethren, and husbands towards their wives, that we may cherish that unity of spirit which thou hast consecrated between us by the blood of thine own Son. — Amen.
 

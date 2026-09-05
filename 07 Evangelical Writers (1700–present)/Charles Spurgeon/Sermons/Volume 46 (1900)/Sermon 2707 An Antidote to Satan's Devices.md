@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # An Antidote to Satan's Devices
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2707
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now the serpent was more subtle than any beast of the field which the LORRD God had made." Genesis 3:1.
 
@@ -81,7 +78,7 @@ What has the devil been doing these thousands of years? Has he not been the unwi
 
 Satan, I tell you to your face, you are the greatest fool that ever breathed, and I will prove it to you in the day when you and I shall stand as enemies—sworn enemies, as we are this day—at the great bar of God! And so, Christian, may you say unto him whenever he attacks you! Hear him not, but resist him steadfast in the faith and you shall prevail.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 1; 5:1-9.
+## Exposition by C. H. Spurgeon: 1 Peter 1; 5:1-9
 
 1 Peter 1:1, 2. Peter, an Apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappado-cia, Asia, and Bithynia, elect according to the foreknowledge of God the Father, through sanctifcation of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace be multiplied. So may it be to all of you who are gathered here! Grace first, and peace next, but may both Grace and peace be multiplied unto you! Much Grace, and much peace, may you have, Brothers and Sisters in Christ Jesus!
 
@@ -106,7 +103,6 @@ EXPOSITION BY C. H. SPURGEON: 1 PETER 1; 5:1-9.
 Peter 5:1. The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed. Here again, as in the first Chapter, Peter links the sufferings of Christ with His Glory.
 
 2-9. Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; neither as being lords over God's heritage, but being examples to the flock. And when the Chief Shepherd shall appear, you shall receive a crown of glory that fades not away. Likewise, you younger, submit yourselves unto the elder. Yes, all of you be subject one to another, and be clothed with humility; for God resists the proud, and gives Grace to the humble. Humble yourselves, therefore, under the mighty hand of God, that He may exalt you in due time: casting all your care upon Him; for He cares for you. Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour: whom resist steadfast in the faith, knowing that the same affictionsare accomplished in your brethren that are in the world.
-
 
 ---
 [[Sermon 2706 Feeding on the Bread of Life|← #2706]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]]

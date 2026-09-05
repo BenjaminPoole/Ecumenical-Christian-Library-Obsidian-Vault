@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Visible Churches Warned
 
-Chapter XIV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XIV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *He that hath an ear, let him hear what the Spirit saith unto the Churches*.”—Rev. iii. 22.
 
@@ -168,7 +167,6 @@ Let us beware of leaving our first love like Ephesus—of becoming lukewarm like
 Let us rather covet the best gifts. Let us *aim at eminent holiness*. Let us endeavour to be like Smyrna and Philadelphia. Let us hold fast what we have already, and continually seek to have more. Let us labour to be *unmistakable* Christians. Let it not be our distinctive character that we are men of science—or men of literary attainments—or men of the world—or men of pleasure, or men of business—but “men of God.” Let us so live that all may see that to us the things of God are the first things, and the glory of God the first aim in our lives—to follow Christ our grand object in time present—to be with Christ our grand desire in time to come.
 
 Let us live in this way, and we shall be happy. Let us live in this way, and we shall do good to the world. Let us live in this way, and we shall leave good evidence behind us when we are buried. Let us live in this way, and the Spirit’s word to the Churches will not have been spoken to us in vain.
-
 
 ---
 [[Holiness 13 The Church Which Christ Builds|← The Church Which Christ Builds]] · [[Holiness|Holiness Contents]] · [[Holiness 15 “Lovest Thou Me”|“Lovest Thou Me?” →]]

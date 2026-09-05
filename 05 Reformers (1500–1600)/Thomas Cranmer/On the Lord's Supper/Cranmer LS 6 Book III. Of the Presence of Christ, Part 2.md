@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 6. Book III. Of the Presence of Christ, Part 2
 
 of the members and parts of his body, that he had when he was crucified, and hath now in heaven, (as he hath by your saying here in this place,) then I pray you declare 73, | further, how the length, breadth, and thickness of a man, should be contained in quantity within the compass of a piece of bread, no longer nor broader than one or two inches, ; nor much thicker than one leaf of paper: how an inch may be as long as an ell, and an ell as short as an inch: how length and roundness shall agree in one proportion ; : and a thick and thin thing be both of one thickness: which you must warrant to be brought to pass, if the form and quantity of Christ’s body be contained under the form and quantity of such bread and wine as we now use.
@@ -33,7 +32,7 @@ And when I say that Christ is in the sacrament sacramentally, and without form a
 
 *Joan of Kent's obstinacy.
 
-74 THE THIRD BOOK.
+## 74 the Third Book
 
 of sophistry, to draw my words to the form of Christ’s divinity, which I speak. most plainly of the form and quantity of his body and humanity? as I have before declared. And although some other might be so far overseen, yet specially you ought not so to take my words; forasmuch as you said not past sixteen lines before, that my words seem to imply, that I meant of Christ’s human body.
 
@@ -45,7 +44,7 @@ Now followeth the tenth comparison.
 
 They say, that the fathers and prophets of the old testament did not eat the body, nor drink the blood of Christ. We say, that they did eat his body and drink his blood, although he was not yet born nor incarnated.
 
-WINCHESTER.
+## Winchester
 
 This comparison of difference is clerkly conveyed, as it were of a riddle, wherein nay and yea, when they be opened, agree and consent. The fathers did eat Christ's body and drink his blood in the! truth of promise, which was effectual to them of redemption to be wrought, not in truth of presence (as we do) for confirmation of redemption already wrought. They had a certain promise, and we a certain present payment: they did eat Christ spiritually, believing in him that was to come, but they did not eat Christ's body present in the sacrament, sacramentally and spiritually, as we do. Their sacraments were figures of the things, but owrs contain the very things. And therefore albeit in a sense to the learned men it may be verified, that the fathers did eat the body of Christ, and drink his blood; yet there is no such form of words in scripture, and it is more agreeable to the simplicity of scripture, to say the fathers before Christ's nativity did not eat the body and blood of Christ, which body and blood Christ himself truly took of the body of the virgin Mary. For although St Paul, in the tenth to the Corinthians, be so wnderstanded of some, as the fathers should eat the same spiritual meat, and drink the same spiritual drink that we do, to which understanding all do not agree, yet following that understanding, we may not so press the words, as there should be no difference at all; and this one? difference St Augustine noteth, how their sacraments contained the promise of that, which in our sacrament is given. Thus he saith: “And this is evident of itself, how to us in the holy supper Christ saith, * This is my body that shall be betrayed for you; take, eat: which was never said to the fathers, although their faith in substance agreed with ours, having all one Christ and Mediator, which they looked for to come, and we acknowledge to be already come.” ‘Come, and ‘to come,’ as St Augustine saith, differeth. But Christ is one, by whom all was created’, and mans fall repaired, from whom is all feeding, corporal and spiritual, and in whom all is restored in heaven and in earth. In this faith of Christ, the fathers were fed with heavenly spiritual food, which was the same with ours in respect of the restitution by Christ, and redemption by them hoped, which is achieved by the mystery of the body and blood of Christ; by reason whereof I deny not, but it may be said in a good sense, how they did eat the body and blood of Christ, before he was incarnate: but, as I said before, scripture speaketh not so, and it is no wholesome fashion of speech at this time, which furthereth in sound to the ears of the rude the pestilent heresy wherein Joan of
 
@@ -53,7 +52,7 @@ This comparison of difference is clerkly conveyed, as it were of a riddle, where
 
 Kent obstinately died, that is to say, that Christ took nothing of the virgin, but brought his body with him from above; being a thing worthy to be noted, how the old heresy, denying the true taking of the flesh of Christ in the virgin’s womb, at the same time to revive, when the true deliverance of Christ's flesh in the holy supper, to be of us eaten, is also denied. For as it is a mere truth without figure, and yet an high mystery, God’s work in the incarnation of Christ, wherein our flesh was of Christ truly taken of the virgin’s substance: so is it a mere truth, without figure, in the substance of the celestial thing, and yet an high mystery and God's work, in the giving of the same true flesh, truly to be in the supper eaten. When I exclude figure in the sacrament, I mean not of the visible part, which is called a figure of the celestial invisible part, which is truly there without figure, so as by that figure is not impaired the truth of that presence; which I add to avoid cavillation. And tot make an end of this comparison, this I say, that this article declareth wantonness, to make a difference in words, where none is in the sense *Novelty of rightly taken, with a novelty of speech not necessary to be uttered now. ae:
 
-CANTERBURY.
+## Canterbury
 
 Note well here, reader, how the cuttle cometh in with his dark colours. Where I speak of the substance of the thing that is eaten, you turn it to the ‘manner and circumstances thereof, to blind the simple reader, and that you may make thereof a riddle of yea and nay, as you be wont to make black white, and white black; or one thing yea and nay, black and white at your pleasure.
 
@@ -67,7 +66,7 @@ And although in the manner of signifying there be great difference between their
 
 ‘past. And as it is all one Christ that was to be born and to die for us, and after-
 
-‘ward was born indeed and died indeed, whose birth and death be now past; so was the same Christ, and the same flesh and blood eaten and drunken of the faith- ful fathers before he was born or dead, and of his apostles after he was born and
+‘ward was born indeed and died indeed, whose birth and death be now past; so was the same Christ, and the same flesh and blood eaten and drunken of the faith-ful fathers before he was born or dead, and of his apostles after he was born and
 
 -before he was dead, and of faithful christian people is now daily eaten and drunken 76. after that both his nativity and death be past. And all is but one Christ, one
 
@@ -87,7 +86,7 @@ August. in Psal. xxvii.
 
 August. in Jcan. Tract.
 
-August. con- tra Faustum, lib. 19. cap.
+August. con-tra Faustum, lib. 19. cap.
 
 16\. et 20. cap.
 
@@ -129,7 +128,7 @@ Joan of Kent.
 
 The eleventh comparison.
 
-78 THE THIRD BOOK.
+## 78 the Third Book
 
 vented. And although his authority be not received of you, yet his words may serve against Smith, who herein more learnedly, and with more judgment than you, approveth this author. This is Bertram’s doctrine’. “St Paul saith, that all the old fathers did eat the same spiritual meat, and drink the same spiritual drink. But peradventure thou wilt ask, which the same? Even the very same that christian people do daily eat and drink in the church. For we may not understand divers things, when it is one and the self-same Christ, which in times past did feed with his flesh, and made to drink of his blood, the people that were baptized in the cloud and sea, in the wilderness, and which doth now in the church feed christian people with the bread of his body, and giveth them to drink the flood of his blood. When he had not yet taken man’s nature upon him, when he had not yet tasted death for the salvation of the world, not redeemed us with his blood, nevertheless even then our forefathers, by spiritual meat-and invisible drink, did eat his body in the wilderness and drink his blood, as the apostle beareth witness, saying: ‘The same spiritual meat, the same spiritual drink.’ For he that now in the church, by his omnipotent power, doth spiritually convert bread and wine into the flesh of his body, and into the flood of his own blood, he did then invisibly so work, that manna which came from heaven was his body, and the water his blood.” Now by the things here by me alleged it evidently appeareth, that this is no novelty of speech to say, that the holy fathers and prophets did eat Christ’s flesh, and drink his blood. For both the scripture and old authors use so to speak, how much soever the speech mislike them that like no fashion but their own’.
 
@@ -147,7 +146,7 @@ et jam nostri patres in deserto per escam spiritualem potumque invisibilem ejus 
 
 The body of Christ is by God's omnipotency, who so worketh in his word, made spresent 79. unto us at such time, as the church pray® it may please him so to do, which prayer is ordered *The book of to be made in the book of common prayer now set fortht. Wherein we require of God, the pr pra ayer in this creatures of bread and wine to be sanctified, and to be to us the body and blood of Christ, which they cannot be, unless God worketh it, and make them so to be: in which mystery it was ng taught, as this author willingly misreporteth, that Christ's most precious body is *Christ’s made of the matter of bread, but in that order exhibited and made present unto us, by consacrament version of the substance of bread into his precious body; not a new body made of a new matter the mi matter of of bread and wine, but a new presence of the body, that is never old, made present there, where the substance of bread and wine was before. So as this comparison of difference is mere wrangling, and so evident as it needeth no further answer but a note. Lo, how they be not ashamed to trifle in so great a matter, and without cause by wrong terms to bring the truth in slander, if it were possible. May not this be accounted as a part of God's punishment, for men of knowledge to write to the people such matter seriously, as were not tolerable to be by a scoffer devised in a play, to supply when his fellow had forgotten his part?
 
-CANTERBURY.
+## Canterbury
 
 Christ is present whensoever the church prayeth unto him, and is gathered together in his name. And the bread and wine be made unto us the body and blood of Christ, (as it is in the book of common prayer,) but not by changing the substance The book of of bread and wine into the substance of Christ’s natural body and blood, but that in prayer. the godly using of them they be unto the receivers Christ’s body and blood: as of some the scripture saith, that their riches is their redemption, and to some it is their Prov. xiii. damnation; and as God’s word to some is life, to some it is death and a snare, as 1 Cor. i. the prophet saith. And Christ himself to some is a stone to stumble at, to some is a Jameel raising from death, not by conversion of substances, but by good or evil use: that Matt. xxii thing which to the godly is salvation, to the ungodly is damnation. So is the water John xi. in baptism, and the bread and wine in the Lord’s supper, to the worthy receivers
 
@@ -165,7 +164,7 @@ And where you say, “it was never taught as I say, that Christ’s body is made
 
 Making by conversion.
 
-80 THE THIRD BOOK.
+## 80 the Third Book
 
 yourself also say here in this place, that the substance of bread is converted into Christ’s precious body? And what is that else but the body of Christ to be made of bread, and to be made of a new matter’? For if the bread do not vanish away into nothing, but be turned into Christ’s body, then is Christ’s body made of it; and then it must needs follow that Christ’s body is made of new’, and of another substance than it was made of in his mother’s womb: for there it was made of her flesh and blood, and here it is made of bread and wine. And the papists say not (as you now would shift off the matter) that Christ’s body is made present of bread, but they say plainly without addition, that it is made of bread. Can you deny that this is the plain doctrine of the papists, Hx pane fit Corpus Christi, “Of bread is made the body of Christ,” and that the substance of bread is turned into the substance thereof? And what reason, sentence, or English, could be in this saying, “Christ's body is made present of bread?” Marry, to be present in bread might be some sentence, but that speech will you in nowise admit.
 
@@ -201,7 +200,7 @@ Father, asswring there his apostles of his will and determination, and by them a
 
 *Christ’s once offering.
 
-82 THE THIRD BOOK.
+## 82 the Third Book
 
 the very sacrifice of the world, by him offered to God the Father, by the same will that he said his body should be betrayed for us; and thereby ascertained us that to be in him! willing, that the Jews on the cross seemed to execute by violence and force against his will. And therefore as Christ offered himself on the cross, in the execution of the work of his will; so he offered himself in his swpper, in declaration of his will, whereby we might be the more assured of the effect of his death, which he suffered willingly and determinately for the redemption of the world, with a most perfect oblation and satisfaction for the sins of the world, exhibited and offered by him to God the Father, for the reconciliation of man’s nature to God’s favour and grace.
 
@@ -237,7 +236,7 @@ Jamesv. said truly, Multum valet oratio justi assidua. Jt is to be abhorred to h
 
 I have tarried long in this matter, to declare that, for the effect of all celestial or worldly gifts to be obtained of God in the celebration of Christ's holy supper, when we call it the communion, is now prayed for to be present, and is present, and with God’s favour shall be obtained, if we devoutly, reverently, charitably, and quietly use and frequent the same, without other innovations than the order of the book prescribeth. Now to the last difference.
 
-CANTERBURY.
+## Canterbury
 
 How is “this comparison out of the matter of the presence of Christ’s most precious 85. body in the sacrament,” when the papists say that the mass is not a sacrifice propitiatory, but because the presence of Christ’s most precious body being presently there? And yet if this comparison be out of the matter (as you say it is), why do you then wrestle and wrangle with it so much? And do I “seem to grant the presence of Christ’s body in the first part of my comparison,” when I do nothing there but rehearse what the papists do say? But because all this process (which you bring in here out of tune and time) belongeth to the last book, I will pass it over unto the proper place, only by the way touching shortly some notable words, Whether the Although you “never read that the oblation of the priest is satisfactory by devo- mass be satis- thedevofon ton of the priest,” yet nevertheless the papists do so teach, and you may find it im Sve aoe their St Thomas, both in his Sum, and upon the fourth of the sentences; whose words? — 34-79. art. have been read in the universities almost these three hundred years, and never until this day reproved by any of the papists in this point. He saith: Quod sacrificium
 
@@ -263,7 +262,7 @@ Matt. xx. Mark x. Luke xviii. John ii. John vi. John x.
 
 Cyprianus, lib. 2. epist. 3.
 
-86 | , THE THIRD BOOK.
+## 86 | , the Third Book
 
 Nor the scripture calleth not the declaration of Christ’s will in his last supper to suffer death by the name of a sacrifice satisfactory for sin, nor saith not that he was there offered in deed. For the will of a thing is not in deed the thing. And if the declaration of his will to die had been an oblation and sacrifice propitiatory for sin, then had Christ been offered not only in his supper, but as often as he declared his will to die. As when he said, long before his supper many times, that he should be betrayed, scourged, spit upon, and crucified, and that the third day he should rise again: and when he bade them destroy the temple of his body, and he would build it up again within three days: and when he said that he would give his flesh for the life of the world, and his life for his sheep.
 
@@ -275,7 +274,7 @@ But what sleights and shifts this writer doth use to wind the reader into his er
 
 [* A sacrament of his death, 1551.] chisedech obtulerat, id est, panem et vinum, suum
 
-[* Nam quis magis sacerdos Dei summi, quam | scilicet corpus et sanguinem.—Cyprian. ad CzDominus noster Jesus Christus? qui sacrificium | cilium, Epist. Ixiii. p. 143. Paris. 1574.] that Christ offered himself in his supper, yet he said not that Christ did so for this cause, that in his supper he declared his death. And therefore here you make a deceitful fallax in sophistry, pretending to shew that thing to be a cause, which is not the true cause indeed. For the cause why Cyprian, and other old authors, say that Christ made an oblation and offering of himself in his last supper, was not that he declared there that he would suffer death, (for that he had declared many times before ;) but the cause was, that there he ordained a perpetual memory of his death, which he would all faithful christian people to observe from time to time, remem- bering his death, with thanks for his benefits, until his coming again. And there- fore the memorial of the true sacrifice made upon the cross, as St Augustine saith, is August. aa called by the name of a sacrifice, as a thing that signifieth another thing is called men by the name of the thing which it signifieth, although in very deed it be not the same‘,
+[* Nam quis magis sacerdos Dei summi, quam | scilicet corpus et sanguinem.—Cyprian. ad CzDominus noster Jesus Christus? qui sacrificium | cilium, Epist. Ixiii. p. 143. Paris. 1574.] that Christ offered himself in his supper, yet he said not that Christ did so for this cause, that in his supper he declared his death. And therefore here you make a deceitful fallax in sophistry, pretending to shew that thing to be a cause, which is not the true cause indeed. For the cause why Cyprian, and other old authors, say that Christ made an oblation and offering of himself in his last supper, was not that he declared there that he would suffer death, (for that he had declared many times before ;) but the cause was, that there he ordained a perpetual memory of his death, which he would all faithful christian people to observe from time to time, remembering his death, with thanks for his benefits, until his coming again. And there-fore the memorial of the true sacrifice made upon the cross, as St Augustine saith, is August. aa called by the name of a sacrifice, as a thing that signifieth another thing is called men by the name of the thing which it signifieth, although in very deed it be not the same‘,
 
 And the long discourse that you make of Christ’s true presence, and of the true gg, eating of him, and of his true assisting us in our doing of his commandment, all these be true. For Christ's flesh and blood be in the sacrament truly present, but spiritually and sacramentally, not carnally and corporally. And as he is truly present, so is he truly eaten and drunken, and assisteth us. And he is the same to us that he was to them that saw him with their bodily eyes. But where you say, that he is as familiar with us as he was with them, here I may say the French term which they use for reverence sake, Save vostre grace. And he offered not himself then for them upon the cross, and now offereth himself for us daily in the mass; but upon the cross he offered himself both for us and for them. For that his one sacrifice of his body, then only offered, is now unto us by faith as available as it was then for them. “For with one sacrifice,” as St Paul saith, “he hath made perfect for ever neb. x. them that be sanctified.”
 
@@ -289,7 +288,7 @@ And because one single error pleaseth you not, shortly after you link a number 4
 
 [* See the passage which is quoted at length [° Of our regeneration of our bodies, 1551.] below, p. 124.] ‘ {® Together almost, 1551.]
 
-88 : THE THIRD BOOK.
+## 88 : The Third Book
 
 church, and that it is the pure and clean sacrifice, whereof Malachi spake, and that Christ doth now in the celebration of this supper as he did when he gave the same to his apostles, and that he offereth himself now as he did then, and that the same offering is not now renewed again. This is your chain of errors, wherein is not one link of pure gold, but all be copper', feigned, and counterfeit: for neither is Christ's body verily and corporally present in the celebration of his holy supper, but spiritually ; nor his body is not the very sacrifice, but the thing whereof the sacrifice was made ; and the very sacrifice was the crucifying of his body, and the effusion of his blood unto death. Wherefore of his body was not made a sacrifice propitiatory for all the sins of the world at his supper, but the next day after upon the cross. Therefore saith the prophet, that we were made whole by his wounds: Livore ejus sanati sumus.
 
@@ -309,15 +308,15 @@ Now followeth my last comparison.
 
 They say, that Christ is corporally in many places at one time, affirming The thirthat his body is corporally and really present in as many places as there parison. be hosts consecrated. We say, that as the sun corporally is ever in heaven, and no where else, and yet by his operation and virtue the sun is here in earth, by whose influence and virtue all things in the world be corporally regenerated, increased, and grow to their perfect state; so likewise our Saviour Christ bodily and corporally is in heaven, sitting at the right hand of his Father, although spiritually he hath promised to be present with us upon earth unto the world’s end. And whensoever two or three be gathered together in his name, he is there in the midst among them, by whose supernal* grace all godly men be first by him spiritually regenerated, and after increase and grow to their spiritual perfection in God, spiritually by faith eating his flesh, and drinking his blood, although the same corporally be in heaven, far distant from our sight.
 
-WINCHESTER.
+## Winchester
 
-The true teaching is, that Christ's very body is present under the form of bread, in ag [The answer. many hosts as be consecrate, in how many places soever the hosts be consecrate, and is there Wikchester.] really and substantially, which words “ really and substantially” be implied, when we say, truly *Really, sub present. The word “corporally” may have an ambiguity and doubleness in respect and relaaly, ation tion: one is to the truth of the body present, and so it may be said, Christ is corporally oe present in sacrament; if the word) corporally be referred to the manner of the presence, then we should say, Christ's body were present after a corporal manner, which we say not, but *Marmer of in @ spiritual manner; and therefore not locally nor by manner of quantity, but in such manner as God only knoweth, and yet doth us to understand by faith the truth of the very presence, exceeding our capacity to comprehend the manner “how.” This is the very true *The true teaching to affirm the truth of the presence of Christ’s very body in the sacrament, even of imP'eoe trine of the the same body that suffered, in plain, simple, evident terms and words, such as cannot by oats of cavillation be mistaken and construed, so near as possibly man’s infirmity permitteth and inthe sacra suffereth. Now let us consider in what sort the author and his company, which he calleth 91. “we say,” do understand the sacrament, who go about to express the same by a similitude of the creature of the sun, “which sun,” this author saith, “is ever corporally in heaven, and no where else, and yet by operation and virtue is here in earth: so Christ is corporally in heaven, &c.” In this matter of similitudes, it is to be taken for a truth undoubted, that there «coa's is no creature by similitude, ne any language of man able to express God and his mysteMYSteries. ries. For and things that be seen or heard might throughly express God’s invisible mystethoroughly ries, the nature whereof is that they cannot throughly be expressed, they were no mysteries: similitudes. and yet it is true, that of things visible, wherein God worketh wonderfully, there may be great resemblances®, some shadows, and as it were inductions, to make a man astonied in consideration of things invisible, when he seeth things visible so wonderfully wrought, and to have so marvellous effects. And divers good catholic devout men have by divers natural things gone about to open unto us the mystery of the Trinity, partly by the sun, as the au- thor? — in the sacrament, partly by fire, partly by the soul of man, by the musician’s
+The true teaching is, that Christ's very body is present under the form of bread, in ag [The answer. many hosts as be consecrate, in how many places soever the hosts be consecrate, and is there Wikchester.] really and substantially, which words “ really and substantially” be implied, when we say, truly *Really, sub present. The word “corporally” may have an ambiguity and doubleness in respect and relaaly, ation tion: one is to the truth of the body present, and so it may be said, Christ is corporally oe present in sacrament; if the word) corporally be referred to the manner of the presence, then we should say, Christ's body were present after a corporal manner, which we say not, but *Marmer of in @ spiritual manner; and therefore not locally nor by manner of quantity, but in such manner as God only knoweth, and yet doth us to understand by faith the truth of the very presence, exceeding our capacity to comprehend the manner “how.” This is the very true *The true teaching to affirm the truth of the presence of Christ’s very body in the sacrament, even of imP'eoe trine of the the same body that suffered, in plain, simple, evident terms and words, such as cannot by oats of cavillation be mistaken and construed, so near as possibly man’s infirmity permitteth and inthe sacra suffereth. Now let us consider in what sort the author and his company, which he calleth 91. “we say,” do understand the sacrament, who go about to express the same by a similitude of the creature of the sun, “which sun,” this author saith, “is ever corporally in heaven, and no where else, and yet by operation and virtue is here in earth: so Christ is corporally in heaven, &c.” In this matter of similitudes, it is to be taken for a truth undoubted, that there «coa's is no creature by similitude, ne any language of man able to express God and his mysteMYSteries. ries. For and things that be seen or heard might throughly express God’s invisible mystethoroughly ries, the nature whereof is that they cannot throughly be expressed, they were no mysteries: similitudes. and yet it is true, that of things visible, wherein God worketh wonderfully, there may be great resemblances®, some shadows, and as it were inductions, to make a man astonied in consideration of things invisible, when he seeth things visible so wonderfully wrought, and to have so marvellous effects. And divers good catholic devout men have by divers natural things gone about to open unto us the mystery of the Trinity, partly by the sun, as the au-thor? — in the sacrament, partly by fire, partly by the soul of man, by the musician’s
 
 [? You seid not indeed, 1551.] _ | &e., 1551.)
 
 [* Supernal, i. e. heavenly. 1 [® Some resemblances, 1551.] [° Present in the sacrament, but if the word, [7 As this author, 1551. ]
 
-90 | THE THIRD BOOK.
+## 90 | the Third Book
 
 science, the art, the touch with the player's fingers, and the sound of the chord, wherein wit" hath all travailed the matter, yet remaineth dark, ne cannot be throughly set forth by any similitude. But to the purpose of this similitude of the sun, which sun, this author saith, “is only corporally in heaven, and no where else,” and in the earth the operation and virtue of the sun: so as by this author’s swpposal, the substance of the sun should not be in earth, but only bu operation and virtue: wherein if this author erreth, he doth the reader to understand, that if he err in consideration of natural things, it is no marvel though he err in heavenly things. For, because I will not of myself begin the contention with this author
 
@@ -329,7 +328,7 @@ Bucerus. of the natural work of the sun, I will bring forth the saying of Martin
 
 And therefore it was well answered of him that said, “If I could tell reason, there were no August. Saith:” if I could shew the like, it were not singular. Which both be notable in this 80 tempore 180. crament, where condemning all reason, good men both constantly believe that Christ sitteth on the right hand of his Father, very God and man, and also without change of place doth nevertheless make himself by his power present, both God and man, under the form of bread and wine, at the prayer of the church and by the ministry of the same, to give life to such as with faith do according to his institution in his holy swpper worthily receive him, and to the condemnation of such as do wnworthily presume to receive him there. For the worthy receiving of whom we must come endued with Christ, and clothed with him seemly in that garment, to receive his most precious body and blood, Christ whole God and man, whereby he then dwelleth in us more abundantly, confirming in us the effects of his passion, and establishing our hope of resurrection, then to enjoy the regeneration of our body, with a full redemption of body and soul, to live with God in glory for ever.
 
-CANTERBURY.
+## Canterbury
 
 In this comparison I am glad that at the last we be come so near together; for A concora you be almost right heartily welcome home, and I pray you let us shake hands toal poeta pg gether®. For we be agreed, as me seemeth, that Christ’s body is present, and the same body that suffered: and we be agreed also of the manner of his presence. For you say that the body of Christ is not present but after a spiritual manner, and so say I also. And if there be any difference between us two, it is but a little and in this point only: that I say that Christ is but spiritually in the ministration of the sacrament, and you say that he is but after a spiritual manner in the sacrament. And yet you say that he is corporally in the sacrament, as who should say that there were a difference between spiritually, and a spiritual manner; and that it were not all one, to say that Christ is there only after a spiritual manner, and not only spiritually.
 
@@ -349,11 +348,11 @@ manner in the sacrament, after which manner you say also that he is’in them th
 
 And you say further, that before we receive the sacrament, we must come endued with Christ, and seemly clothed with him. But whosoever is endued and clothed with Christ hath Christ present with him after a spiritual manner, and hath received Christ whole both God and man, or else he could not have everlasting life. And therefore is Christ present as well in baptism as in the Lord’s supper. For in baptism be we endued with Christ, and seemly clothed with him, as well as in his holy supper we eat and drink him.
 
-WINCHESTER.
+## Winchester
 
 Thus I have perused these differences, which, well considered, methink sufficient to take away and appease all such differences as might be moved against the sacrament, the faith whereof hath ever prevailed against such as have impugned it. And I have not read of any that hath written against it, but somewhat hath against his enterprise in his writings appeared, whereby to confirm it, or so evident untruths affirmed, as whereby those that be as indifferent to the truth as Salomon was in the judgment of the living child, may discern the very true mother Jrom the other, that is to say, who plainly intend the true child to continue alive, and who could be content to have it be destroyed by division. God of his infinite mercy have pity on us, and grant the true faith of this holy mystery uniformly to be concewed in our understandings, and in one form of words to be uttered and preached, which in the book of common prayer is well termed, not distant from the catholic faith im my judgment.
 
-CANTERBURY.
+## Canterbury
 
 You have so perused these differences, that you have made more difference than ever was before: for where before there were no more but two parts, the true catholic doctrine, and the papistical doctrine, now come you in with your new fantastical inventions, agreeing with neither part, but to make a song of three parts, you have devised a new voluntary descant, so far out of tune, that it agreeth neither with the tenor nor mean, but maketh such a shameful jar, that godly ears abhor to hear it. For you have taught such a doctrine as never was written before this time, and uttered therein so many untruths and so many strange sayings, that every indifferent reader may easily discern that the true christian faith in this matter is not to be sought at your hands. And yet in your own “ writings appeareth something to confirm the truth, quite against your own enterprise,” which maketh me have some hope, that after my answer heard, we shall in the principal matter no more strive for the child, seeing that yourself have confessed that Christ is but after a spiritual manner present with us. And there is good hope that God shall prosper this child to live many years, seeing that now I trust you will help to foster and nourish it up as well as I.
 
@@ -375,13 +374,13 @@ Also he saith, that “we have such a bishop, that sitteth in heaven at the Heb.
 
 [? Fardel, i.e. a bundle. ]
 
-94 THE THIRD BOOK.
+## 94 the Third Book
 
 one sacrifice for sins, sitteth continually at the right hand of God, until his enemies be put under his feet as a footstool.” And hereunto consent all the old doctors of the church.
 
 Chap. v. First Origen upon Matthew' reasoneth this matter, how Christ may be
 
-96\. called a stranger that is departed into another country, seeing that he is with therotby us alway unto the world’s end, and is among all them that be gathered to- thos. gether in his name, and also in the midst of them that know him not; and
+96\. called a stranger that is departed into another country, seeing that he is with therotby us alway unto the world’s end, and is among all them that be gathered to-thos. gether in his name, and also in the midst of them that know him not; and
 
 Qrienin_ thus he reasoneth: If he be here among us still, how can he be gone hence as a stranger departed into another country ? whereunto he answereth, that
 
@@ -397,7 +396,7 @@ For that were to make two natures of one body, and to divide the body of
 
 Jesus, forasmuch as one nature cannot at one time be both with us, and absent from us. And therefore saith Origen, that the presence must be understanded of his divinity, and the absence of his humanity.
 
-pasos, of And according hereunto St Augustine writeth thus in an Epistle dd Darda- epist: 7, num: “ Doubt not but Jesus Christ as concerning the nature of his manhood is now there, from whence he shall come. And remember well and believe the pro- fession of a christian man, that he rose from death, ascended into heaven, sitteth at the right hand of his Father, and from that place, and none other, shall he come to judge the quick and the dead. And he shall come, as the
+pasos, of And according hereunto St Augustine writeth thus in an Epistle dd Darda- epist: 7, num: “ Doubt not but Jesus Christ as concerning the nature of his manhood is now there, from whence he shall come. And remember well and believe the pro-fession of a christian man, that he rose from death, ascended into heaven, sitteth at the right hand of his Father, and from that place, and none other, shall he come to judge the quick and the dead. And he shall come, as the
 
 \Hune oangels said, as he was seen go into heaven, that is to say, in the same form
 
@@ -405,7 +404,7 @@ Leo. evistola and substance, unto the which he gave immortality, but changed not
 
 probandum After this form, (saith he, meaning his man’s nature,) we may not think that
 
-Muha. be is every where. For we must beware, that we do not so stablish tots epistola, His divinity, that we take away the verity of his body.” These be St Au- tur pro su gustine’s plain words. And by and by after he addeth these words: “The
+Muha. be is every where. For we must beware, that we do not so stablish tots epistola, His divinity, that we take away the verity of his body.” These be St Au-tur pro su gustine’s plain words. And by and by after he addeth these words: “The
 
 Embd. 1557.] Lord Jesus as God is every where, and as man is in heaven*,” And finally he concludeth this matter in these few words: ‘‘ Doubt not but our Lord Jesus Christ is every where as God, and as a dweller he is in man that is the temple of God, and he is in a certain place in heaven, because of the measure of a very body*.
 

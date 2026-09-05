@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Blood of Sprinkling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1888
@@ -95,10 +94,9 @@ The apostle says that "Ye are come to the blood of sprinkling." Is it so? Has th
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Exodus 20:1-21; 24:1-8.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—236, 279, 291.
+## Hymns from "Our Own Hymn Book"—236, 279, 291
 
 * For this line of thought I am much indebted to a chapter in an admirable book, entitled "Every-day Life," by C. H. Waller, M. A. Shaw and Co.
-
 
 ---
 [[Sermon 1887 Pleading For Prayer|← #1887]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1889 The Blood of Sprinkling (Second Sermon.)|#1889 →]]

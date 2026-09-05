@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 12. Exodus 12
-
-**EXODUS 12**
 
 ## Exodus 12:21-28
 

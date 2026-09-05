@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Holy Spirit's Chief Office
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2382
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He shall glorify Me: for He shall take of Mine, and shall show it to you. All things that the Father has are Mine: therefore said I, that He shall take of Mine and shall show it to you." John 16:14,15.
 
@@ -174,7 +171,6 @@ God's everlasting Son."
 13\. But whatever He shall hear, that shall He speak. That is just our business—to hear God's message and then to speak it—and if the Holy Spirit does this and if Jesus did it, we may also be glad to do the same! We are no inventors of great novelties—we are simply the bearers of the message of the Most High, the declarers of the old Truths of God which God has revealed to us.
 
 13-16. And He will show you things to come. He shall glorify Me: for He shall take of Mine, and shall show it to you. All things that the Father has are Mine: therefore said I, that He shall take of Mine, and shall show it to you. A little while, and you shall not see Me: and again, a little while, and you shall see Me, because I go to the Father. How wonderful this is! We are to see Jesus because He has gone to the Father! It looks as if that were a reason why we should not see Him, but we see Him better, by faith, now that He has gone to the Father, than we could have seen Him while He was here below covered with the veil of His humiliation! Yet it is hardly surprising that the disciples were puzzled by their Lord's words— "A little while, and you shall not see Me: and again, a little while, and you shall see Me." And, "Because I go to the Father."
-
 
 ---
 [[Sermon 2381 I Would, But You Would Not|← #2381]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2383 Seeing and Testifying|#2383 →]]

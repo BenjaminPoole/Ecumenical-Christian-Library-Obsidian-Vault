@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # A Comprehensive Benediction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3179
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now our Lord Jesus Christ Himself, and God, even our Father, who has loved us, and has given us everlasting consolation and good hope through Grace, comfort your hearts, and establish you in every good word and work." 2 Thessalonians 2:16,17.
 
@@ -115,7 +112,7 @@ Then, in this Christian Church, may you work in prayer, may you work in teaching
 
 But remember that we must first come to Christ, or these good wishes will be only wishes. We must first trust the Savior, or else these blessings can never be ours! May Divine Grace bring us to Jesus and keep us at His feet—and Divine Grace shall have the praise forever and ever!
 
-EXPOSITION BY C. H. SPURGEON: 2 THESSALONIANS 2.
+## Exposition by C. H. Spurgeon: 2 Thessalonians 2
 
 Verses 1, 2. Now we beseech you, brethren, concerning the coming of our Lord Jesus Christ, and our gathering together unto Him, that you be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter from us, as that the day of Christ is at hand. In the Church of Christ, the teaching has always been that Christ is coming quickly and that teaching must never be withdrawn, for He is coming quickly, as He said to John in the Revelation. At the same time, this teaching has given an opportunity to certain presumptuous people to prophesy that at such-and-such a time, Christ will come. They know nothing about it and their prophecies are not worth the breath they spend in uttering them! And we have, today, what the Apostle wrote to the Thessalonians—
 
@@ -134,7 +131,6 @@ sons why that gigantic iniquity should begin to be developed, even while the Rom
 damned who believed not the truth, but had pleasured in unrighteousness. But we are bound to give thanks always to God for you, brethren, beloved of the Lord, because God has, from the beginning, chosen you to salvation through sanc-
 
 tification of the Spirit and belief of the truth: whereunto He called you by our Gospel, to the obtaining of the glory of our Lord Jesus Christ. Therefore, brethren, stand fast and hold the traditions which you have been taught, whether by word or our epistle. Now our Lord Jesus Christ, Himself, and God, even ourFather, which has loved us, andhasgiven us everlasting consolation and good hope through Grace, comfort your hearts, and establish you in every good word and work So may it be, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3178 The Preparatory Prayers of Christ|← #3178]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3180 Christ the Creator|#3180 →]]

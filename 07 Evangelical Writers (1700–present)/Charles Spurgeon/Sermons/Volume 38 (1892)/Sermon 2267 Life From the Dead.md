@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Life From the Dead
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2267
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you has He quickened, who were dead in trespasses and sins." Ephesians 2:1.
 
@@ -95,7 +92,7 @@ Ah, Beloved, "It does not yet appear what we shall be." God has given us a life 
 
 The practical outcome of all this is that some of you do not know anything at all about it. If you do not, let the fact impress you. If there is a Divine Life to which you are a stranger, how long will you be a stranger to it? If there is a spiritual death and you are dead, be startled, for within a little while God will say, "Bury My dead out of My sight." And what will happen to you when the Word of God is, "Depart, depart, depart, depart," and unto the graveyard of souls, to the fire that never shall be quenched, you and the rest of the dead are taken away? "God is not the God of the dead, but of the living" and, unless we are made alive unto Him, He cannot be our God either here or hereafter! The Lord impress this solemn Truth on all your hearts by His own Spirit, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON EPHESIANS2.
+## Exposition by C. H. Spurgeon Ephesians 2
 
 Verse 1. And you He has quickened. Is it so? Could the Apostle say that to you and to me?
 
@@ -162,7 +159,6 @@ Christ"?
 22\. In whom you also are built together for an habitation of God through the Spirit. And all this hangs upon that first sentence, "You has He quickened." Is it so, Beloved? If you are spiritually dead, nothing here belongs to you. But if He has quickened you, you may take every single sentence of the chapter and say, "That is mine, and glory be to the Grace of
 
 God!"
-
 
 ---
 [[Sermon 2266 Blessing for Blessing|← #2266]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2268 A Question for Communicants|#2268 →]]

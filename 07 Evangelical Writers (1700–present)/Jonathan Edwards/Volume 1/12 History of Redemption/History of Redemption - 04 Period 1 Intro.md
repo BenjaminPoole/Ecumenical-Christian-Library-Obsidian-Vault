@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PERIOD I.
 
-FROM THE FALL TO THE INCARNATION.
+*From the Fall to the Incarnation*
 
 the great works of God in the world during this whole space of time, were all preparatory. There were many great changes and revolutions in the world, and they were all only the turning of the wheels of providence to make way for the coming of Christ, and what he was to do in the world. Hither tended especially all God’s great works towards his church. The church was under various dispensations of providence, and in very various circumstances, before Christ came; but all these dispensations were to prepare the way for his coming. God wrought salvation for the souls of men through all that space of time, though the number was very small to what it was afterwards; and all this was by way of anticipation. All the souls that were saved before Christ came, were only the earnests of the future harvest.
 

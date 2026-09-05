@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Constraining Love
 
 *New Park Street Pulpit* · Sermon No. 325
 
-DELIVERED ON SABBATH EVENING, JUNE 3, 1860, BY THE REV. C. H. SPURGEON, AT NEW PARK STREET CHAPEL, SOUTHWARK..
+*Delivered on Sabbath Evening, June 3, 1860, by the Rev. C. H. Spurgeon, at New Park Street Chapel, Southwark*
 
 > "Oh love the Lord, all you His saints." Psalm 31:23. LOVE Jehovah—so the text runs. God the Father demands your love, and He deserves the warmest affection of your hearts. He has chosen you from before the foundation of the world. He has given His Son that He might redeem you with His precious blood. He has taken you into His family by Divine Adoption. He has "begotten you again unto a lively hope by the resurrection of Jesus Christ from the dead." It is to Him that you address your prayers; it is He who grants you your requests. It is He who glorified His Son Jesus, receiving Him into the heavens as your Representative; and He will glorify Him yet again by gathering you together with all His people into the mansions provided for the blessed. "Oh love the Lord, all you His saints." Love the Son! It is He whose delights were with the sons of men of old, He who entered into suretyship and Covenant engagement on the behalf of His elect. It is He who with His precious blood has ransomed our souls and delivered them "from going down into the pit." He is our Mediator through whom we pray and our Intercessor who prays for us! He is our Head, our Husband, our King. He it is, even Jesus, who took our nature and wears a body like our own. It is He who imparts to us His mind now, and promises that hereafter we shall bear His likeness in Glory. "Oh love the Lord, all you His saints." Love the Holy Spirit! He has been revealed to us, and is known by us as "the Comforter." How endearing!— "He in our hearts of sin and woe Has bid streams of Grace arise, Which unto endless glory flow."
 
@@ -92,7 +91,6 @@ Thus, Brothers and Sisters, I think I have given you ample reasons for loving Ch
 "Dissolved by Your goodness, I fall to the ground And weep to the praise of the mercy I've found."
 
 Jesus! Bring the wanderers home. Reclaim Your lost sheep! May there be joy on earth and joy in Heaven, over sinners whom You have found, sinners whom You did come to seek and to save. "Believe on the Lord Jesus Christ and you shall be saved, and your house." The Lord add His blessing for Jesus' sake.
-
 
 ---
 [[Sermon 0324 Effects Of Sound Doctrine|← #324]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0326 Everywhere And Yet Forgotten|#326 →]]

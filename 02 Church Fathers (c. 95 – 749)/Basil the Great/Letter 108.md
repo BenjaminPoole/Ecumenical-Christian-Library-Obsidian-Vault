@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 108
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the guardian of the heirs of Julitta.
 

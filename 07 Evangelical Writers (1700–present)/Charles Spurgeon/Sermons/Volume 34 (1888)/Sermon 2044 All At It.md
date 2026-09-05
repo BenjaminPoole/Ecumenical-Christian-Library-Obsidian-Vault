@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # All At It
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2044
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 16, 1888,.
+*Delivered on Lord's Day Morning, September 16, 1888*
 
 > "Therefore they that were scattered abroad went everywhere preaching the Word. Then Philip went down to the city of Samaria, and preached Christ unto them." Acts 8:4,5.
 
@@ -170,7 +169,6 @@ You sisters, have you spoken to your brothers about Jesus? Have some of you wive
 When my Brethren Fullerton and Smith hold special services in this place, as they will do in the beginning of November, you will help to get in the people and to crowd the place. And when they preach, you will pray and watch and look up the enquirers and we shall have great times. If you will go after people at their houses and give them your own personal testimony in loving earnestness, the Holy Spirit will bless you. Oh, may God arouse us to this! I say again, I have not preached this morning half so much as I have prayed. For every word that I have spoken I have prayed two words silently to God.
 
 Oh, that the Lord would hear me and bless us in an unusual degree! If the Lord will fill you with His Spirit, the opening of yonder front doors and your going out will be like the bursting of a bomb-shell in London. If you are all in earnest, your existence will be like the shining of the sun in the heavens. Oh, how I long that God may be glorified! For His Truth's sake I have been "abundantly filled with reproach." But I would gladly accept a sevenfold baptism of it so that his kingdom would come. May the Lord make bare His holy arm in the eyes of all the people! Amen and Amen.
-
 
 ---
 [[Sermon 2043 The Blood of the Lamb, the Conquering Weapon|← #2043]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2045 Further Afield|#2045 →]]

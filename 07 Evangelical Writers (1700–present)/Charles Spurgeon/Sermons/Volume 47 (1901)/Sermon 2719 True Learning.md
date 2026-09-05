@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # True Learning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2719
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But you have not so learned Christ, if, indeed, you have heard Him and have been taught by Him, as the truth is in Jesus." Ephesians 4:20,21.
 
@@ -113,7 +110,7 @@ I wish we were all like that, dear Friends, but we know too much, or think we do
 
 And we think that we should keep ourselves to ourselves, and be careful, and cautious, and even suspicious of all we meet. Oh, but I would rather be taken in a thousand times than suspect other people! It is better to wear your heart wide open, though men laugh at its every movement, than it is to cover it up and try to conceal what we really are. God make us like the holy Child Jesus—children of God, with Christ Jesus for our elder Brother! That is what we shall be when we have learned Christ, have heard Him and have been taught by Him as truth is in Him! May it be so with all of us! God bless you and help you to cherish and to realize this desire, for Christ's own name's sake! Amen.
 
-EXPOSITION BY C. H, SPURGEON: ZECHARIAH13.
+## Exposition by C. H, Spurgeon: Zechariah 13
 
 Verse 1. In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and uncleanness. They shall see their pardon when they have truly seen their sin. When once the foulness of their transgression is perceived, then the fountain of cleansing shall be perceived, too. No man ever knows the preciousness of the God-given remedy till he has felt the force of the terrible disease. No one by faith plunges into the crystal fount of perfect cleansing without first lamenting the filthiness which needs to be removed!
 
@@ -142,7 +139,6 @@ that in all the land, says the LORD, twoparts therein shall be cut offand die; b
 9\. They shall call on My name, and I will hear them. What a precious little sentence—"they shall call on My name"! And God will give ear to their prayer—"and I will hear them." The "shall" and the "will" are put close together, and the one is as much the work of God's Grace as the other is! "They shall call on my name, and I will hear them."
 
 9\. I will say: This is My people: and they shall say, The LORD is my God. Note these quick responses—echoes, as it were. They call and God hears! God speaks and they reply. God says, "This is My people." They answer, "The Lord is my God." Blessed are you if you can join in these heart echoes, or can say, with the spouse, "My Beloved is mine, and I am His." Is there this mutual interchange of love between you and the all-glorious Lord? If so, thrice happy are you! But if not, God grant that you may speedily enter into this secret of the Lord! May He bless to every one of us the reading of His Word, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2718 The Tenses|← #2718]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2720 The Savior Resting in His Love|#2720 →]]

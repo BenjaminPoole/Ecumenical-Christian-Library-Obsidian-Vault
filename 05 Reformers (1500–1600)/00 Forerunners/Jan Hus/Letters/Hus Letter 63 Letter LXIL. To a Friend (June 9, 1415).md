@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 63. Letter LXIL. To a Friend (June 9, 1415)
-
-LETTER LXIL TO A FRIEND (June 9, 1415)
 
 Please forward the last letter to Skopek 229
 

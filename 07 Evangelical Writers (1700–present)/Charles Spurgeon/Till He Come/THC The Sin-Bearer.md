@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Sin-Bearer
 
 *Till He Come* — Charles H. Spurgeon
 
-## THE SIN-BEARER.
-
 ### A COMMUNION MEDITATION AT MENTONE. “Who His own self bare our sins in His own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.”—1 Peter ii. 24, 25.
-
-## THE SIN-BEARER.
 
 THIS wonderful passage is a part of Peter’s address to servants; and in his day nearly all servants were slaves. Peter begins at the eighteenth verse: “Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward. For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God. For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow His steps: who did no sin, neither was guile found in His mouth: who, when He was reviled, reviled not again; when He suffered, He threatened not; but committed Himself to Him that judgeth righteously: who His own self bare our sins in His own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.” If we are in a lowly condition of life, we shall find our best comfort in thinking of the lowly Saviour bearing our sins in all patience and submission. If we are called to suffer, as servants often were in the Roman times, we shall be solaced by a vision of our Lord buffeted, scourged, and crucified, yet silent in the majesty of His endurance. If these sufferings are entirely undeserved, and we are grossly slandered, we shall be comforted by remembering Him who did no sin, and in whose lips was found no guile. Our Lord Jesus is Head of the Guild of Sufferers: He did well, and suffered for it, but took it patiently. Our support under the cross, which we are appointed to bear, is only to be found in Him “who His own self bare our sins in His own body on the tree.”
 
@@ -92,7 +87,6 @@ Our Lord’s death has also cured us of our readiness to follow other leaders. I
 Finally, beloved friends, when we were wandering we were like sheep exposed to wolves, but we are delivered from this by being near the Shepherd. We were in danger of death, in danger from the devil, in danger from a thousand temptations, which, like ravenous beasts, prowled around us. Having ended our wandering, we are now in a place of safety. When the lion roars, we are driven the closer to the Shepherd, and rejoice that His crook protects us. He says, “My sheep hear My voice, and I know them, and they follow Me: and I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of My hand.”
 
 What a wonderful work of grace has been wrought in us! We owe all this, not to the teaching of Christ, though that has helped us greatly; not to the example of Christ, though that is charming us into a diligent copying of it; but we owe it all to His stripes: “By whose stripes ye were healed.” Brethren, we preach Christ crucified, because we have been saved by Christ crucified. His death is the death of our sins. We can never give up the doctrine of Christ’s substitutionary sacrifice, for it is the power by which we hope to be made holy. Not only are we washed from guilt in His blood, but by that blood we overcome sin. Never, so long as breath or pulse remains, can we conceal the blessed truth that He “His own self bare our sins in His own body on the tree, that we, being dead to sins, should live unto righteousness.” The Lord give us to know much more of this than I can speak, for Jesus Christ’s sake! Amen.
-
 
 ---
 [[THC Communion With Christ And His People|← Communion With Christ And His People]] · [[Till He Come|Till He Come Contents]] · [[THC Swooning and Reviving Christ's Feet|Swooning and Reviving Christ's Feet →]]

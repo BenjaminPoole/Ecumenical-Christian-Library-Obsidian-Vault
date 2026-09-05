@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Unanswered Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3344
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O My God, I cry in the daytime, but You hear not; and in the night season, and am not silent." Psalm 22:2.
 
@@ -43,7 +40,7 @@ It will already comfort you to know that Christ has been where you are. It will 
 
 In the first place, the text—without any inquiry into the cause of unanswered prayer, seems to give—
 
-I. A GENERAL GUIDE FOR OUR CONDUCT.
+## I. A General Guide for Our Conduct
 
 Suppose that we have been seeking some blessing from God for many months and have not obtained it? Whether it is a personal blessing, or on behalf of others, what ought to be our conduct under such a trial as that, the trial of a long delay, or an apparent refusal?
 
@@ -129,7 +126,7 @@ Oh look now!
 
 And as to you who have never looked before, I pray the Master to open your blind eyes and cause the scales to drop, so that you may look now and, while you look, may see everything you need laid up for you in Jesus! Everything a sinner needs can be richly supplied by Him—and then the sinner can go his way rejoicing and singing, "Christ is All, and happy am I that I have sought and found Him." The Lord bless you all for His name's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM32.
+## Exposition by C. H. Spurgeon: Psalm 32
 
 This is a great Psalm of Grace, a Psalm in which a sinner, cleansed by Sovereign Grace, adores and blesses the mercy ofGod.
 
@@ -148,7 +145,6 @@ Verse 1. Blessed is he whose transgression is forgiven, whose sin is covered. Th
 9\. Be you not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto you. A pardoning God may well ask this of us, that we would be tender. Oh, let us be very willing to do the Lord's will, plastic in His hands like clay in the hand of the potter! It is a great pity, Brothers and Sisters, when we won't be guided by the gentle leadings of God and must be whipped and spurred, and tugged at. For God will govern us if we are His people. If one bit will not do it, He will get a tougher bit that shall cut us and hurt us, but He will rule us! And so He ought to do, blessed be His name!
 
 10\. 11. Many sorrows shall be to the wicked: but he that trusts in the LORD, mercy shall compass him about. Be glad in the LORD, and rejoice, you righteous: and shout for joy, all you that are upright in heart
-
 
 ---
 [[Sermon 3343 'The Star Out of Jacob'|← #3343]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3345 Sunlight for Cloudy Days|#3345 →]]

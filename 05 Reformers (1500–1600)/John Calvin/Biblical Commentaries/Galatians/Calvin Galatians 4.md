@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Galatians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Galatians 4:1-5
 

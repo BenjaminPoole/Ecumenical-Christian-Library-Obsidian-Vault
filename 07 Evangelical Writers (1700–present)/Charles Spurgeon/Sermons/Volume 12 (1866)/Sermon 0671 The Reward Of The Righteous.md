@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Reward Of The Righteous
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 671
 
-DELIVERED ON SUNDAY MORNING, JANUARY 21, 1866,.
+*Delivered on Sunday Morning, January 21, 1866*
 
 > "When the Son of Mian shall come in His glory, and all the holy angels with Him, then He will sit upon the throne of His glory. All the nations will be gathered before Him, and He will separate them one from another, as a shepherd divides his sheep from the goats. And He willset the sheep on His righthand, but the goats on the left. Then the King will say to them on His right hand, Come, you blessed of My Father, inherit the kingdom prepared for you from the foundation of the world: for I was hungry, and you ga ve Me food; I was thirsty, and you gave Me drink; I was a stranger, and you took Me in; I was naked, and you clothed Me; was sick, and you visited Me; I was in prison, and you came to Me." Matthew 25:31-36.
 
@@ -158,7 +157,6 @@ Yes, but you see the steward did not give the horse out of any idea of loyalty, 
 You must first come to the Lord Jesus Christ and look to Him to save you! You must forever renounce all idea of doing anything to save yourself! But being saved, you will be able to give to the poor and so on without selfishness mixing with your motive—and you will get a reward of Divine Grace for the love token which you have given. It is necessary to believe in Christ in order to be capable of true virtue of the highest order. It is necessary to trust Jesus and to be, yourself, fully saved, before there is any value in your feeding the hungry or clothing the naked.
 
 God give you Grace to go to my Master wounded yonder and to rest in the precious Atonement which He has made for human sin. And when you have done that, being loved at such a rate, may you show that you love in return! Being purchased so dearly, may you live for Him that bought you! And among the actions by which you prove it, let these gleam and glisten like God-given jewels—the visiting of the sick, the comforting of the needy, the relieving of the distressed, and the helping of the weak. God accept these offerings as they come from gracious souls, and to Him be praise evermore. Amen.
-
 
 ---
 [[Sermon 0670 Frost And Thaw|← #670]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0672 The Ravens' Cry|#672 →]]

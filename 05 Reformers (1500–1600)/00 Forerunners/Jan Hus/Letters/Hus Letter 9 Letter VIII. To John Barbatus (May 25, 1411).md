@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 9. Letter VIII. To John Barbatus (May 25, 1411)
-
-LETTER VIII. TO JOHN BARBATUS (May 25, 1411)
 
 " Diverse temptations " ; The true nature of obedience ; The testimony of Jerome, Augustine, Gregory, " Isidore," and Bede; "Therefore obey God rather than the Pope" .45-50
 

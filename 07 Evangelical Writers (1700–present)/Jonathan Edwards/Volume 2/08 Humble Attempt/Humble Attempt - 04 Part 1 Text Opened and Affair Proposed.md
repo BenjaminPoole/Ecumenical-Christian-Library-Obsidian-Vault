@@ -10,7 +10,6 @@ written: "1747"
 tags:
   - jonathan-edwards
 ---
-
 ## AN
 
 # HUMBLE ATTEMPT, &C.
@@ -19,7 +18,7 @@ tags:
 
 ### PART I.
 
-THE TEXT OPENED, AND AN ACCOUNT GIVEN OF THE AFFAIR PROPOSED IN THE MEMORIAL FROM SCOTLAND.
+## The Text Opened, and an Account Given of the Affair Proposed in the Memorial from Scotland
 
 ### SECT. I.
 

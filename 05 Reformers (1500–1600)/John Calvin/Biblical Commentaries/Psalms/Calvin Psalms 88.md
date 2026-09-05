@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 88
-
-**PSALM 88**
 
 This psalm contains very grievous lamentations, poured forth by its inspired penman when under very severe affliction, and almost at the point of despair. But he, at the same time, whilst struggling with sorrow, declares the invincible steadfastness of his faith; which he displayed in calling upon God to deliver him, even when he was in the, deep darkness of death. [^1]
 

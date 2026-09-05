@@ -11,7 +11,6 @@ tags:
   - classical
   - pliny-the-elder
 ---
-
 # The Natural History
 *Volume 4*
 
@@ -25,58 +24,37 @@ Italic text is denoted _thus_.
 
 See further note at the end of this volume.
 
+## Bohn’s Classical Library
 
+## Natural History of Pliny
 
+## Vol. IV
 
-  BOHN’S CLASSICAL LIBRARY.
+## The
 
-  NATURAL HISTORY OF PLINY.
-
-  VOL. IV.
-
-
-
-
-  THE
-
-  NATURAL HISTORY
+## Natural History
 
   OF
 
-  PLINY.
+## Pliny
 
-  TRANSLATED,
+## With Copious Notes and Illustrations
 
-  WITH COPIOUS NOTES AND ILLUSTRATIONS
+## And
 
+## Late Scholar of Clare Hall, Cambridge
 
-  BY THE LATE
-
-  JOHN BOSTOCK, M.D., F.R.S.,
-
-  AND
-
-  H. T. RILEY, ESQ., B.A.,
-
-  LATE SCHOLAR OF CLARE HALL, CAMBRIDGE.
-
-  VOL. IV.
+## Vol. IV
 
   LONDON:
   HENRY G. BOHN, YORK STREET, COVENT GARDEN.
   MDCCCLVI.
 
+## Of the Fourth Volume
 
+## Book XVIII
 
-
-CONTENTS
-
-OF THE FOURTH VOLUME.
-
-
-  BOOK XVIII.
-
-  THE NATURAL HISTORY OF GRAIN.
+## The Natural History of Grain
 
   CHAP.                                                         Page
 
@@ -271,8 +249,7 @@ OF THE FOURTH VOLUME.
 
   90. Prognostics derived from food                            _ib._
 
-
-  BOOK XIX.
+## Book XIX
 
   THE NATURE AND CULTIVATION OF FLAX, AND AN ACCOUNT OF VARIOUS
   GARDEN PLANTS.
@@ -413,10 +390,9 @@ OF THE FOURTH VOLUME.
 
   62. Piperitis, libanotis, and smyrnium                         203
 
+## Book XX
 
-  BOOK XX.
-
-  REMEDIES DERIVED FROM THE GARDEN PLANTS.
+## Remedies Derived from the Garden Plants
 
   1. Introduction                                                206
 
@@ -643,8 +619,7 @@ OF THE FOURTH VOLUME.
 
   100. The composition of theriaca                             _ib._
 
-
-  BOOK XXI.
+## Book XXI
 
   AN ACCOUNT OF FLOWERS, AND THOSE USED FOR CHAPLETS MORE
   PARTICULARLY.
@@ -934,10 +909,9 @@ OF THE FOURTH VOLUME.
   109. An explanation of Greek terms relative to weights and
          measures                                              _ib._
 
+## Book XXII
 
-  BOOK XXII.
-
-  THE PROPERTIES OF PLANTS AND FRUITS.
+## The Properties of Plants and Fruits
 
   1. The properties of plants                                    389
 
@@ -1122,10 +1096,9 @@ OF THE FOURTH VOLUME.
 
   82. The use made of the yeast of zythum                        456
 
+## Book XXIII
 
-  BOOK XXIII.
-
-  THE REMEDIES DERIVED FROM THE CULTIVATED TREES.
+## The Remedies Derived from the Cultivated Trees
 
   1. Introduction                                                457
 
@@ -1318,23 +1291,13 @@ OF THE FOURTH VOLUME.
   83. The wild myrtle, otherwise called oxymyrsine, or
         chamæmyrsine, and the ruscus: six remedies             _ib._
 
+## Natural History of Pliny
 
+## Book XVIII
 
+## The Natural History of Grain
 
-NATURAL HISTORY OF PLINY.
-
-
-
-
-BOOK XVIII.
-
-THE NATURAL HISTORY OF GRAIN.
-
-
-
-
-CHAP. 1. (1.)—TASTE OF THE ANCIENTS FOR AGRICULTURE.
-
+## Chap. 1. (1.)—taste of the Ancients for Agriculture
 
 We now pass on to the Natural History of the various grains, of the
 garden plants and flowers, and indeed of all the other productions,
@@ -1410,11 +1373,7 @@ fields and of rustic operations; but still, it is upon these that
 the enjoyment of life so materially depends, and that the ancients
 conferred the very highest rank in their honours and commendations.
 
-
-
-
-CHAP. 2. (2.)—WHEN THE FIRST WREATHS OF CORN WERE USED AT ROME.
-
+## Chap. 2. (2.)—when the First Wreaths of Corn Were Used at Rome
 
 Romulus was the first who established the Arval[6] priesthood at
 Rome. This order consisted of the eleven sons of Acca Larentia, his
@@ -1451,11 +1410,7 @@ days, too, they would not so much as taste the corn when newly cut, nor
 yet wine when just made, before the priests had made a libation of the
 first-fruits.
 
-
-
-
-CHAP. 3. (3.)—THE JUGERUM OF LAND.
-
+## Chap. 3. (3.)—the Jugerum of Land
 
 That portion of land used to be known as a “jugerum,” which was
 capable of being ploughed by a single “jugum,” or yoke of oxen, in
@@ -1531,12 +1486,8 @@ an augury from the sacrifice of a bitch,[28] a day should be set apart
 before the ear of corn appears from out of the sheath,[29] and then
 again before it enters the sheath.”
 
-
-
-
 CHAP. 4.—HOW OFTEN AND ON WHAT OCCASIONS CORN HAS SOLD AT A REMARKABLY
 LOW PRICE.
-
 
 The consequence was, that when the Roman manners were such as these,
 the corn that Italy produced was sufficient for its wants, and it had
@@ -1604,11 +1555,7 @@ such a manner as this! Indeed, ought we to feel any surprise were the
 recompense she gives us when worked by chastised slaves,[42] not the
 same that she used to bestow upon the labours of warriors?
 
-
-
-
-CHAP. 5.—ILLUSTRIOUS MEN WHO HAVE WRITTEN UPON AGRICULTURE.
-
+## Chap. 5.—illustrious Men Who Have Written upon Agriculture
 
 Hence it was that to give precepts upon agriculture became one of
 the principal occupations among men of the highest rank, and that
@@ -1647,11 +1594,7 @@ fact that those writers who have hitherto treated of them with any
 degree of exactness, seem to have written their works for the use of
 any class of men but the agriculturist.
 
-
-
-
-CHAP. 6.—POINTS TO BE OBSERVED IN BUYING LAND.
-
+## Chap. 6.—points to Be Observed in Buying Land
 
 First of all, then, I shall proceed in a great measure according to
 the dicta of the oracles of agriculture; for there is no branch of
@@ -1729,11 +1672,7 @@ who are in the habit of saying that a proprietor who is well housed
 comes all the oftener to his fields, and that “the master’s forehead is
 of more use than his back.”[56]
 
-
-
-
-CHAP. 7. (6.)—THE PROPER ARRANGEMENTS FOR A FARM-HOUSE.
-
+## Chap. 7. (6.)—the Proper Arrangements for a Farm-House
 
 The proper plan to be pursued is this:[57] the farm-house must not
 be unsuitable for the farm, nor the farm for the house; and we must
@@ -1820,11 +1759,7 @@ soils, it is said, be too carefully tilled, those of Sicily,[76] for
 instance; hence it is, that new comers there so often find themselves
 deceived.[77]
 
-
-
-
-CHAP. 8.—MAXIMS OF THE ANCIENTS ON AGRICULTURE.
-
+## Chap. 8.—maxims of the Ancients on Agriculture
 
 In what way, then, can land be most profitably cultivated? Why, in
 the words of our agricultural oracles, “by making good out of bad.”
@@ -1923,11 +1858,7 @@ Democritus has described a method of rooting up a forest, by first
 macerating the flower of the lupine[84] for one day in the juice of
 hemlock, and then watering the roots of the trees with it.
 
-
-
-
-CHAP. 9. (7.)—THE DIFFERENT KINDS OF GRAIN.
-
+## Chap. 9. (7.)—the Different Kinds of Grain
 
 As the field is now prepared, we shall proceed to speak of the nature
 of the various kinds of grain; we must premise, however, that there
@@ -1936,11 +1867,7 @@ and barley, and the legumina, such as the bean and the chick-pea, for
 instance. The difference between these two classes is too well known to
 require any further description.
 
-
-
-
-CHAP. 10.—THE HISTORY OF THE VARIOUS KINDS OF GRAIN.
-
+## Chap. 10.—the History of the Various Kinds of Grain
 
 The cereals are divided again into the same number of varieties,
 according to the time of the year at which they are sown. The winter
@@ -2080,11 +2007,7 @@ that they are always sown raw and with the chaff on. Spelt is preserved
 in the husk, too, for sowing, and, of course, is not in such case
 parched by the action of fire.
 
-
-
-
-CHAP. 11.—SPELT.
-
+## Chap. 11.—spelt
 
 Of all these grains barley is the lightest,[123] its weight rarely
 exceeding fifteen pounds to the modius, while that of the bean is
@@ -2098,11 +2021,7 @@ of bread to the modius than any other kind of spelt. Verrius states
 that for three hundred years the Romans made use of no other meal than
 that of corn.
 
-
-
-
-CHAP. 12.—WHEAT.
-
+## Chap. 12.—wheat
 
 There are numerous kinds of wheat which have received their names from
 the countries where they were first produced. For my part, however,
@@ -2198,11 +2117,7 @@ Greeks give to these wheats the name of “setanion.” It is said that in
 Bactria the grains of wheat are of such an enormous size, that a single
 one is as large as our ears of corn.[137]
 
-
-
-
-CHAP. 13.—BARLEY: RICE.
-
+## Chap. 13.—barley: Rice
 
 Of all the cereals the first that is sown is barley. We shall state
 the appropriate time for sowing each kind when we come to treat of the
@@ -2214,11 +2129,7 @@ in other parts of the world. The leaves of rice are fleshy,[142] very
 like those of the leek, but broader; the stem is a cubit in height, the
 blossom purple, and the root globular, like a pearl in shape.[143]
 
-
-
-
-CHAP. 14.—POLENTA.
-
+## Chap. 14.—polenta
 
 Barley is one of the most ancient aliments of man, a fact that is
 proved by a custom of the Athenians, mentioned by Menander,[144]
@@ -2244,11 +2155,7 @@ of the ingredients already mentioned, and some millet as well. Barley
 bread, which was extensively used by the ancients, has now fallen into
 universal disrepute, and is mostly used as a food for cattle only.
 
-
-
-
-CHAP. 15.—PTISAN.
-
+## Chap. 15.—ptisan
 
 With barley, too, the food called ptisan[149] is made, a most
 substantial and salutary aliment, and one that is held in very high
@@ -2261,20 +2168,12 @@ food is made is that which Turranius calls the “smooth”[151] barley:
 the same author expresses an opinion, too, that olyra[152] and rice are
 the same. The method of preparing ptisan is universally known.
 
-
-
-
-CHAP. 16.—TRAGUM.
-
+## Chap. 16.—tragum
 
 In a similar manner, too, tragum is prepared from seed[153] wheat, but
 only in Campania and Egypt.
 
-
-
-
-CHAP. 17.—AMYLUM.
-
+## Chap. 17.—amylum
 
 Amylum is prepared from every kind of wheat, and from winter-wheat[154]
 as well; but the best of all is that made from three-month wheat.
@@ -2295,11 +2194,7 @@ that the Ægyptian. The tests of its goodness are its being light and
 smooth: it should be used, too, while it is fresh. Cato,[156] among our
 writers, has made mention of it.
 
-
-
-
-CHAP. 18.—THE NATURE OF BARLEY.
-
+## Chap. 18.—the Nature of Barley
 
 Barley-meal, too, is employed for medicinal purposes; and it is a
 curious fact, that for beasts of burden they make a paste of it, which
@@ -2329,12 +2224,8 @@ and the grain is enclosed in a husk of remarkable thinness. It is said,
 too, that a better polenta[162] is made from it, if it is gathered
 before it is perfectly ripe.
 
-
-
-
 CHAP. 19. (8.)—ARINCA, AND OTHER KINDS OF GRAIN THAT ARE GROWN IN THE
 EAST.
-
 
 The several kinds of corn are not everywhere the same; and even where
 they are the same, they do not always bear a similar name. The kinds
@@ -2373,11 +2264,7 @@ rites, as well as those offered upon birthdays, are made with parched
 pottage.[177] This food appears to have been as much unknown in those
 days in Greece as polenta was in Italy.
 
-
-
-
-CHAP. 20.—WINTER WHEAT. SIMILAGO, OR FINE FLOUR.
-
+## Chap. 20.—winter Wheat. Similago, or Fine Flour
 
 There is no grain that displays a greater avidity than wheat, and
 none that absorbs a greater quantity of nutriment. With all propriety
@@ -2465,11 +2352,7 @@ this, as well as tiphe, when cleaned from the husk and sown, will
 degenerate[198] and assume the form of wheat; not immediately, but in
 the course of three years.
 
-
-
-
-CHAP. 21.—THE FRUITFULNESS OF AFRICA IN WHEAT.
-
+## Chap. 21.—the Fruitfulness of Africa in Wheat
 
 There is no grain more prolific than wheat, Nature having bestowed
 upon it this quality, as being the substance which she destined for
@@ -2488,11 +2371,7 @@ wheat,[202] and that known as the “hundred-grain”[203] wheat. Before
 now, as many as one hundred beans, too, have been found on a single
 stalk.
 
-
-
-
-CHAP. 22.—SESAME. ERYSIMUM, OR IRIO. HORMINUM.
-
+## Chap. 22.—sesame. Erysimum, or Irio. Horminum
 
 We have spoken[204] of sesame, millet, and panic as belonging to the
 summer grains. Sesame[205] comes from India, where they extract an
@@ -2506,11 +2385,7 @@ by the Greeks, though resembling cummin[208] in appearance; it is sown
 at the same time as sesame: no animal will eat either this or irio
 while green.
 
-
-
-
-CHAP. 23.—THE MODE OF GRINDING CORN.
-
+## Chap. 23.—the Mode of Grinding Corn
 
 All the grains are not easily broken. In Etruria they first parch the
 spelt in the ear, and then pound it with a pestle shod with iron at
@@ -2549,11 +2424,7 @@ for beasts of burden. The residue of millet, panic, and sesame, is
 known to us as “apluda;” but in other countries it is called by various
 other names.
 
-
-
-
-CHAP. 24.—MILLET.
-
+## Chap. 24.—millet
 
 Campania is particularly prolific in millet, and a fine white porridge
 is made from it: it makes a bread, too, of remarkable sweetness. The
@@ -2562,11 +2433,7 @@ the raw meal, with the sole addition of mares’ milk, or else blood[215]
 extracted from the thigh of the horse. The Æthiopians know of no other
 grain but millet and barley.
 
-
-
-
-CHAP. 25.—PANIC.
-
+## Chap. 25.—panic
 
 The people of Gaul, and of Aquitania[216] more particularly, make use
 of panic; the same is the case, too, in Italy beyond the Padus, with
@@ -2578,11 +2445,7 @@ beneficial to millet or panic when they are coming into blade. It
 is recommended not to sow them among vines or fruit-trees, as it is
 generally thought that these crops impoverish the soil.
 
-
-
-
-CHAP. 26. (11)—THE VARIOUS KINDS OF LEAVEN.
-
+## Chap. 26. (11)—the Various Kinds of Leaven
 
 Millet is more particularly employed for making leaven; and if kneaded
 with must,[217] it will keep a whole year. The same is done, too, with
@@ -2617,11 +2480,7 @@ evident that those persons who are dieted upon fermented bread are
 stronger[220] in body. Among the ancients, too, it was generally
 thought that the heavier wheat is, the more wholesome it is.
 
-
-
-
-CHAP. 27.—THE METHOD OF MAKING BREAD: ORIGIN OF THE ART.
-
+## Chap. 27.—the Method of Making Bread: Origin of the Art
 
 It seems to me quite unnecessary to enter into an account of
 the various kinds of bread that are made. Some kinds, we find,
@@ -2648,11 +2507,7 @@ shape of long rolls; after which it is baked in an oven in earthen
 pots, till they break. This bread, however, is never eaten till it has
 been well[229] soaked, which is mostly done in milk mixed with honey.
 
-
-
-
-CHAP. 28.—WHEN BAKERS WERE FIRST INTRODUCED AT ROME.
-
+## Chap. 28.—when Bakers Were First Introduced at Rome
 
 There were no bakers at Rome until[230] the war with King Perseus, more
 than five hundred and eighty years after the building of the City. The
@@ -2671,11 +2526,7 @@ Gauls were the first to employ the bolter that is made of horse-hair;
 while the people of Spain make their sieves and meal-dressers of
 flax,[233] and the Egyptians of papyrus and rushes.
 
-
-
-
-CHAP. 29.—ALICA.
-
+## Chap. 29.—alica
 
 But among the very first things of all, we ought to speak of the
 method employed in preparing alica,[234] a most delightful and most
@@ -2762,11 +2613,7 @@ is made from zea than from wheat, although it is nothing else, in fact,
 but a spurious alica: it is whitened by the addition of boiled milk, in
 place of chalk.
 
-
-
-
-CHAP. 30. (12.)—THE LEGUMINOUS PLANTS: THE BEAN.
-
+## Chap. 30. (12.)—the Leguminous Plants: The Bean
 
 We now come to the history of the leguminous plants, among which
 the place of honour must be awarded to the bean;[247] indeed, some
@@ -2830,11 +2677,7 @@ boiled; it bears a strong resemblance to that of the reed. This plant
 grows also in Syria and Cilicia, and upon the banks of Lake Torone in
 Chalcidice.
 
-
-
-
-CHAP. 31.—LENTILS. PEASE.
-
+## Chap. 31.—lentils. Pease
 
 Among the leguminous plants the lentil is sown in the month of
 November, and the pea,[259] among the Greeks. The lentil thrives best
@@ -2849,11 +2692,7 @@ able to endure cold; hence in Italy and the more rigorous climates, it
 is sown in the spring only, a light, loose soil being chosen for the
 purpose.
 
-
-
-
-CHAP. 32.—THE SEVERAL KINDS OF CHICK-PEASE.
-
+## Chap. 32.—the Several Kinds of Chick-Pease
 
 The chick-pea[261] is naturally salt,[262] for which reason it is
 apt to scorch the ground, and should only be sown after it has been
@@ -2870,11 +2709,7 @@ flavour is the one that bears the closest resemblance to the fitch; the
 pod in the black and the red kinds is more firmly closed than in the
 white ones.
 
-
-
-
-CHAP. 33.—THE KIDNEY-BEAN.
-
+## Chap. 33.—the Kidney-Bean
 
 The pod of the chick-pea is rounded, while in other leguminous plants
 it is long and broad, like the seed which it contains; in the pea,
@@ -2888,11 +2723,7 @@ very difficult to find: the same is the case, too, with the lupine.
 But before we pass on to the lupine, it will be as well to make some
 mention of the rape.[269]
 
-
-
-
-CHAP. 34. (13.)—THE RAPE.
-
+## Chap. 34. (13.)—the Rape
 
 The Latin writers have only treated of this plant in a cursory manner,
 while those of Greece have considered it a little more attentively;
@@ -2938,11 +2769,7 @@ all is that grown in the district of Nursia: it is valued at as much as
 one sesterce[276] per pound, and, in times of scarcity, two even. That
 of the next best quality is produced on Mount Algidus.
 
-
-
-
-CHAP. 35.—THE TURNIP.
-
+## Chap. 35.—the Turnip
 
 The turnip[277] of Amiternum, which is pretty nearly of the same
 nature as the rape, thrives equally well in a cold soil. It is sown
@@ -2961,11 +2788,7 @@ well, if they are sown as many days after the festival of Neptune as
 the moon was old when the first snow fell the previous winter. They are
 sown in spring as well, in warm and humid localities.
 
-
-
-
-CHAP. 36. (14.)—THE LUPINE.
-
+## Chap. 36. (14.)—the Lupine
 
 The lupine is the next among the leguminous plants that is in
 extensive use, as it serves for food for man in common with the hoofed
@@ -3014,11 +2837,7 @@ kept in a moist state, maggots are apt to attack the germ, and render
 it useless for reproduction. If cattle have eaten it off while in leaf,
 as a matter of necessity it should be ploughed in as soon as possible.
 
-
-
-
-CHAP. 37. (15.)—THE VETCH.
-
+## Chap. 37. (15.)—the Vetch
 
 The vetch,[287] too, enriches the soil, and its cultivation entails no
 labour on the agriculturist. It is sown after the ground has been but
@@ -3035,11 +2854,7 @@ if gathered when quite ripe, produces a chaff superior to that of any
 other. If sown near vines supported by trees, the vetch will draw away
 the juices from the vines, and make them languid.
 
-
-
-
-CHAP. 38.—THE FITCH.
-
+## Chap. 38.—the Fitch
 
 The cultivation of the fitch,[288] too, is attended with no difficulty.
 It requires weeding, however, more than the vetch. Like it, the fitch
@@ -3051,11 +2866,7 @@ is injurious, they say, to oxen: and when sown in autumn, it is apt
 to produce head-ache. If, however, it is put in the ground at the
 beginning of spring, it will be productive of no bad results.
 
-
-
-
-CHAP. 39. (16.)—SILICIA.
-
+## Chap. 39. (16.)—silicia
 
 Silicia,[291] or, in other words, fenugreek, is sown after a light
 ploughing[292] merely, the furrows being no more than some four
@@ -3064,11 +2875,7 @@ better it will thrive—a singular fact that there should be anything
 that profits from neglect. The kinds, however, that are known as
 “secale” and “farrago” require harrowing only.
 
-
-
-
-CHAP. 40.—SECALE OR ASIA.
-
+## Chap. 40.—secale or Asia
 
 The people of Taurinum, at the foot of the Alps, give to secale[293]
 the name of “asia;” it is a very inferior[294] grain, and is only
@@ -3079,11 +2886,7 @@ bitterness,[295] and even then it is very disagreeable to the stomach.
 It will grow upon any soil, and yields a hundred-fold; it is employed
 also as a manure for enriching the land.
 
-
-
-
-CHAP. 41.—FARRAGO: THE CRACCA.
-
+## Chap. 41.—farrago: The Cracca
 
 Farrago, a mixture made of the refuse of “far,” or spelt, is sown very
 thick, the vetch being sometimes mingled with it; in Africa, this
@@ -3093,11 +2896,7 @@ cracca,[296] a degenerate kind of leguminous plant. Pigeons, it is
 said, are so remarkably fond of this grain, that they will never leave
 the place where it has been given to them.
 
-
-
-
-CHAP. 42.—OCINUM: ERVILIA.
-
+## Chap. 42.—ocinum: Ervilia
 
 Among the ancients there was a sort of fodder, to which Cato[297] gives
 the name of “ocinum;” it was employed by them to stop scouring in oxen.
@@ -3111,11 +2910,7 @@ mixture, according to him, was ocinum, and was usually sown as a food
 for oxen. Varro[300] informs us that it received its name on account of
 the celerity with which it springs up, from the Greek ὠκέως, “quickly.”
 
-
-
-
-CHAP. 43.—LUCERNE.
-
+## Chap. 43.—lucerne
 
 Lucerne[301] is by nature an exotic to Greece even, it having been
 first introduced into that country from Media,[302] at the time of
@@ -3163,11 +2958,7 @@ length when describing the shrubs. It remains for us now to complete
 our account of all the cereals, and we shall here devote a portion of
 it to the diseases to which they are subject.
 
-
-
-
-CHAP. 44. (17.)—THE DISEASES OF GRAIN: THE OAT.
-
+## Chap. 44. (17.)—the Diseases of Grain: The Oat
 
 The foremost feature of disease in wheat is the oat.[308] Barley,
 too, will degenerate into the oat; so much so, in fact, that the oat
@@ -3242,11 +3033,7 @@ its way out of the ground, and eats it away in a most singular manner.
 
 These are pretty nearly all the maladies to which grain is subject.
 
-
-
-
-CHAP. 45.—THE BEST REMEDIES FOR THE DISEASES OF GRAIN.
-
+## Chap. 45.—the Best Remedies for the Diseases of Grain
 
 The best remedy for these maladies, so long as grain is in the blade,
 is the weeding-hook, and, at the moment of sowing, ashes.[329] As to
@@ -3314,11 +3101,7 @@ the following year. So great a difference in soils as this, reminds me
 that I ought to take this opportunity of specifying those which are the
 best adapted for the various kinds of grain.
 
-
-
-
-CHAP. 46.—THE CROPS THAT SHOULD BE SOWN IN THE DIFFERENT SOILS.
-
+## Chap. 46.—the Crops that Should Be Sown in the Different Soils
 
 This, then, is the opinion expressed by Cato[340] on the subject: “In
 a dense and fertile soil wheat should be sown: but if the locality is
@@ -3358,12 +3141,8 @@ P. Ælius and Cneius Cornelius, the year[344] in which Hannibal was
 vanquished: on that occasion, we find it stated, corn was seen growing
 upon trees.[345]
 
-
-
-
 CHAP. 47.—THE DIFFERENT SYSTEMS OF CULTIVATION EMPLOYED BY VARIOUS
 NATIONS.
-
 
 As we have now spoken at sufficient length of the several varieties
 of grain and soil, we shall proceed to treat of the methods adopted
@@ -3405,11 +3184,7 @@ eight oxen to pant and blow at a single plough. All the operations
 of agriculture, but this in particular, should be regulated by the
 oracular precept—“Remember that every locality has its own tendencies.”
 
-
-
-
-CHAP. 48.—THE VARIOUS KINDS OF PLOUGHS.
-
+## Chap. 48.—the Various Kinds of Ploughs
 
 Ploughs are of various kinds. The coulter[350] is the iron part that
 cuts up the dense earth before it is broken into pieces, and traces
@@ -3435,11 +3210,7 @@ ploughing. It is a fair estimate to consider that a single yoke of oxen
 can work forty jugera of land in the year, where the soil is light, and
 thirty where it is stubborn.
 
-
-
-
-CHAP. 49. (19.)—THE MODE OF PLOUGHING.
-
+## Chap. 49. (19.)—the Mode of Ploughing
 
 In ploughing, the most rigid attention should be paid to the oracular
 precepts given by Cato[355] on the subject. “What is the essence of
@@ -3541,12 +3312,8 @@ over again in the month of March, and had a most abundant harvest.
 We shall now proceed to a description of the peculiar methods employed
 in cultivating each description of grain.
 
-
-
-
 CHAP. 50. (21.)—THE METHODS OF HARROWING, STUBBING, AND HOEING,
 EMPLOYED FOR EACH DESCRIPTION OF GRAIN. THE USE OF THE HARROW.
-
 
 For winter wheat, spelt, wheat, zea,[368] and barley, harrow, hoe and
 stub upon the days which will be mentioned[369] in the sequel. A single
@@ -3590,11 +3357,7 @@ preceding Book,[373] not to repeat the same thing over again, they are
 of little value themselves. But it is the nature of each soil that is
 of the greatest importance.
 
-
-
-
-CHAP. 51. (22.)—EXTREME FERTILITY OF SOIL.
-
+## Chap. 51. (22.)—extreme Fertility of Soil
 
 There is a city of Africa, situate in the midst of the sands as you
 journey towards the Syrtes and Great Leptis, Tacape[374] by name. The
@@ -3627,11 +3390,7 @@ in the water, receive their nutriment only from the rains that fall.
 It is as well then that every one should be fully acquainted with the
 nature, not only of the soil, but of the water too.
 
-
-
-
-CHAP. 52. (23.)—THE METHOD OF SOWING MORE THAN ONCE IN THE YEAR.
-
+## Chap. 52. (23.)—the Method of Sowing More than Once in the Year
 
 If the soil is of that nature which we have already[378] spoken of as
 “tender,”[379] after a crop of barley has been grown upon it, millet
@@ -3648,11 +3407,7 @@ Where, on the other hand, it is too thin, the land should lie fallow up
 to the third year even. Some persons recommend that corn should never
 be sown except in land which has lain fallow the year before.
 
-
-
-
-CHAP. 53.—THE MANURING OF LAND.
-
+## Chap. 53.—the Manuring of Land
 
 The proper method of manuring is here a very important subject for
 consideration—we have already treated of it at some length in the
@@ -3685,11 +3440,7 @@ the other hand, it is over-manured, it becomes burnt up: it is a much
 better plan, too, to manure little and often than in excess. The warmer
 the soil is by nature, the less manure it requires.
 
-
-
-
-CHAP. 54. (24.)—HOW TO ASCERTAIN THE QUALITY OF SEED.
-
+## Chap. 54. (24.)—how to Ascertain the Quality of Seed
 
 The best seed of all is that which is of the last year’s growth. That
 which is two years old is inferior, and three the worst of all—beyond
@@ -3722,12 +3473,8 @@ to sow seed in a warm locality which has been grown in a cold one, nor
 should the produce of an early soil be sown in a late one. Those who
 give advice to the contrary have quite misapplied their pains.
 
-
-
-
 CHAP. 55.—WHAT QUANTITY OF EACH KIND OF GRAIN IS REQUISITE FOR SOWING A
 JUGERUM.
-
 
 [393] In a soil of middling quality, the proper proportion of seed is
 five modii of wheat or winter-wheat to the jugerum, ten of spelt or of
@@ -3757,11 +3504,7 @@ the proper time for sowing is, when the moon is in Aries, Gemini, Leo,
 Libra, and Aquarius. Zoroaster says it should be done when the sun has
 passed twelve degrees of Scorpio, and the moon is in Taurus.
 
-
-
-
-CHAP. 56.—THE PROPER TIMES FOR SOWING.
-
+## Chap. 56.—the Proper Times for Sowing
 
 We now come to a subject which has been hitherto deferred by us, and
 which requires our most careful attention—the proper times for sowing.
@@ -3835,12 +3578,8 @@ the mind may feel some encouragement on abandoning the study of the
 heavens, and may be acquainted with facts at least, even though it is
 still unable to see into futurity.
 
-
-
-
 CHAP. 57. (25.)—ARRANGEMENT OF THE STARS ACCORDING TO THE TERRESTRIAL
 DAYS AND NIGHTS.
-
 
 In the first place, it is almost an utter impossibility to calculate
 with a fair degree of accuracy the days of the year and the movements
@@ -3959,11 +3698,7 @@ influence[425] of the sun, and that the characteristics of the seasons
 are developed in excess every eighth year, at the revolution of every
 hundredth moon.
 
-
-
-
-CHAP. 58.—THE RISING AND SETTING OF THE STARS.
-
+## Chap. 58.—the Rising and Setting of the Stars
 
 The whole of this system is based upon the observation of three
 branches of the heavenly phænomena, the rising of the constellations,
@@ -3983,11 +3718,7 @@ the stars to be visible to us. In addition to this, there are certain
 stars which rise and set twice.[426] All that we here state bears
 reference, it must be remembered, to the fixed stars only.
 
-
-
-
-CHAP. 59.—THE EPOCHS OF THE SEASONS.
-
+## Chap. 59.—the Epochs of the Seasons
 
 The year is divided into four periods or seasons, the recurrence of
 which is indicated by the increase or diminution of the daylight.
@@ -4031,11 +3762,7 @@ difficulties that already exist. It is much about this period that the
 stormy constellation of Orion departs, after traversing a large portion
 of the heavens.[432]
 
-
-
-
-CHAP. 60.—THE PROPER TIME FOR WINTER SOWING.
-
+## Chap. 60.—the Proper Time for Winter Sowing
 
 Most persons anticipate the proper time for sowing, and begin to put in
 the corn immediately after the eleventh day of the autumnal equinox,
@@ -4080,11 +3807,7 @@ it were, in the fall of the leaves, announces to us that the earth and
 the productions thereof are thus protected by her against the cold, and
 warns us to hasten the operations of agriculture.
 
-
-
-
-CHAP. 61.—WHEN TO SOW THE LEGUMINOUS PLANTS AND THE POPPY.
-
+## Chap. 61.—when to Sow the Leguminous Plants and the Poppy
 
 Varro[438] has given no other sign but this[439] for our guidance in
 sowing the bean. Some persons are of opinion that it should be sown at
@@ -4111,11 +3834,7 @@ marvellous, is boiled in honey as a remedy for diseases in the
 throat,[442] while the cultivated kind is a powerful narcotic. Thus
 much in reference to winter sowing.
 
-
-
-
-CHAP. 62.—WORK TO BE DONE IN THE COUNTRY IN EACH MONTH RESPECTIVELY.
-
+## Chap. 62.—work to Be Done in the Country in Each Month Respectively
 
 And now, in order to complete what we may call in some measure an
 abridgment of the operations of agriculture, it is as well to add
@@ -4140,11 +3859,7 @@ stars must only be judged of by the result, and we must not expect the
 changes of the weather, as if out upon their recognizances,[449] to
 make their appearance exactly on certain predetermined days.
 
-
-
-
-CHAP. 63.—WORK TO BE DONE AT THE WINTER SOLSTICE.
-
+## Chap. 63.—work to Be Done at the Winter Solstice
 
 Be careful never to touch the vine at the winter solstice. Hyginus
 recommends us to strain and even rack-off wine at the seventh day after
@@ -4165,12 +3880,8 @@ time, and if rounded,[452] as many as sixty. In the long hours of the
 evening, too, some five squared stays, or ten rounded ones may be got
 ready, and the same number while the day is breaking.
 
-
-
-
 CHAP. 64.—WORK TO BE DONE BETWEEN THE WINTER SOLSTICE AND THE
 PREVALENCE OF THE WEST WINDS.
-
 
 Between the winter solstice and the period when the west winds begin
 to prevail, the following, according to Cæsar, are the more important
@@ -4196,12 +3907,8 @@ day-break may be usefully employed in sharpening iron tools, fitting on
 handles, repairing such dolia[460] as may have been broken, and rubbing
 up and cleaning their staves.
 
-
-
-
 CHAP. 65.—WORK TO BE DONE BETWEEN THE PREVALENCE OF THE WEST WINDS AND
 THE VERNAL EQUINOX.
-
 
 Between the prevalence of the west winds and the vernal equinox,
 the fourteenth day before[461] the calends of March, according to
@@ -4302,11 +4009,7 @@ particularly to themselves, the fig for instance; when a few leaves
 only are found shooting from the summit, like a cup in shape, then it
 is more particularly that the fig-tree should be planted.
 
-
-
-
-CHAP. 66.—WORK TO BE DONE AFTER THE VERNAL EQUINOX.
-
+## Chap. 66.—work to Be Done After the Vernal Equinox
 
 The vernal equinox appears to end on the eighth[482] day before the
 calends of April. Between the equinox and the morning rising of the
@@ -4371,12 +4074,8 @@ at night. “Cicindelæ”[505] is the name given by the country people to
 these flying stars, while the Greeks call them “lampyrides,”—another
 manifestation of the incredible bounteousness of Nature.
 
-
-
-
 CHAP. 67. (27.)—WORK TO BE DONE AFTER THE RISING OF THE VERGILIÆ:
 HAY-MAKING.
-
 
 Nature had already formed the Vergiliæ, a noble group of stars, in the
 heavens; but not content with these, she has made others as well for
@@ -4503,11 +4202,7 @@ breed beasts of burden, will have his own opinions upon the subject: it
 is found, however, the most lucrative of all by those whose business it
 is to train chariot-horses.
 
-
-
-
-CHAP. 68.—THE SUMMER SOLSTICE.
-
+## Chap. 68.—the Summer Solstice
 
 We have already stated[532] that the summer solstice arrives at the
 eighth degree of Cancer, and upon the eighth day before[533] the
@@ -4660,11 +4355,7 @@ Naturally humid herself, as often as from her position she is cold, she
 congeals to an unlimited extent the dews which fall at that period of
 the year.
 
-
-
-
-CHAP. 69.—CAUSES OF STERILITY.
-
+## Chap. 69.—causes of Sterility
 
 But we ought always to bear in mind, more particularly, that there
 are two varieties of evils that are inflicted upon the earth by the
@@ -4815,11 +4506,7 @@ so long as clouds prevail, or the wind is blowing, the night dews never
 fall. And then, besides, there are certain remedies to counteract these
 noxious influences.
 
-
-
-
-CHAP. 70.—REMEDIES AGAINST THESE NOXIOUS INFLUENCES.
-
+## Chap. 70.—remedies Against These Noxious Influences
 
 When you have reason to fear these influences, make bonfires in the
 fields and vineyards of cuttings or heaps of chaff, or else of the
@@ -4840,11 +4527,7 @@ a letter to Antiochus, king of Syria, that if a bramble-frog[585] is
 buried in a new earthen vessel, in the middle of a corn-field, there
 will be no storms to cause injury.
 
-
-
-
-CHAP. 71.—WORK TO BE DONE AFTER THE SUMMER SOLSTICE.
-
+## Chap. 71.—work to Be Done After the Summer Solstice
 
 The following are the rural occupations for this interval of time—the
 ground must have another turning up, and the trees must be cleared
@@ -4859,11 +4542,7 @@ sufficient to make it perfectly level, and then to cover it with a
 solution of cow-dung[588] and water; this being thought sufficient to
 prevent the dust from rising.
 
-
-
-
-CHAP. 72. (30.)—THE HARVEST.
-
+## Chap. 72. (30.)—the Harvest
 
 The mode of getting in the harvest varies considerably. In the vast
 domains of the provinces of Gaul a large hollow frame,[589] armed with
@@ -4911,11 +4590,7 @@ weeds is effectually destroyed. The diversity of the methods employed
 in harvesting mainly depends upon the extent of the crops and the price
 of labour.
 
-
-
-
-CHAP. 73.—THE METHODS OF STORING CORN.
-
+## Chap. 73.—the Methods of Storing Corn
 
 Connected with this branch of our subject is the method of storing
 corn. Some persons recommend that granaries should be built for the
@@ -4990,11 +4665,7 @@ the greatest importance to know, when getting in the harvest, whether
 it is for garnering or whether for immediate sale. If cut during the
 increase of the moon, grain will increase in size.
 
-
-
-
-CHAP. 74. (31.)—THE VINTAGE, AND THE WORKS OF AUTUMN.
-
+## Chap. 74. (31.)—the Vintage, and the Works of Autumn
 
 In accordance with the ordinary divisions of the year, we now come to
 autumn, a period which extends from the setting of the Lyre to the
@@ -5130,11 +4801,7 @@ a previous occasion,[653] that as soon as the vintage is got in, the
 olives should at once be gathered, with other particulars relative to
 the olive after the setting of the Vergiliæ.
 
-
-
-
-CHAP. 75. (32.)—THE REVOLUTIONS OF THE MOON.
-
+## Chap. 75. (32.)—the Revolutions of the Moon
 
 I shall now proceed to add some necessary information relative to the
 moon, the winds, and certain signs and prognostics, in order that I
@@ -5189,11 +4856,7 @@ of the night by remaining above the horizon. Her revolutions, too,
 will occupy thirty days one month, and twenty-nine the next, and so on
 alternately. Such is the theory of the revolutions of the moon.
 
-
-
-
-CHAP. 76. (33.)—THE THEORY OF THE WINDS.
-
+## Chap. 76. (33.)—the Theory of the Winds
 
 The theory of the winds[659] is of a somewhat more intricate nature.
 After observing the quarter in which the sun rises on any given day, at
@@ -5249,12 +4912,8 @@ either close their eyes or else make them bleared, and they will die of
 looseness. If you wish to have females,[672] you should let the dams
 have their faces towards the north while being covered.
 
-
-
-
 CHAP. 77. (34.)—THE LAYING OUT OF LANDS ACCORDING TO THE POINTS OF THE
 WIND.
-
 
 We have already stated[673] that the umbilicus should be described in
 the middle of the line. Let another line be drawn transversely through
@@ -5345,11 +5004,7 @@ several days. The earth announces the approach of Aquilo, by drying on
 a sudden, while on the approach of Auster, the surface becomes moist
 without any apparent cause.
 
-
-
-
-CHAP. 78. (35.)—PROGNOSTICS DERIVED FROM THE SUN.
-
+## Chap. 78. (35.)—prognostics Derived from the Sun
 
 Having now explained the theory of the winds, it seems to me the
 best plan, in order to avoid any repetition, to pass on to the other
@@ -5412,11 +5067,7 @@ violent. If the sun is pale at sunset, there will be wind, and if there
 is a dark circle round it, high winds will arise in the quarter in
 which the circle breaks.
 
-
-
-
-CHAP. 79.—PROGNOSTICS DERIVED FROM THE MOON.
-
+## Chap. 79.—prognostics Derived from the Moon
 
 The prognostics derived from the moon, assert their right to occupy
 our notice in the second place. In Egypt, attention is paid, more
@@ -5464,11 +5115,7 @@ angles are the third day, the seventh, the eleventh, the fifteenth,
 the nineteenth, the twenty-third, the twenty-seventh, and that of the
 conjunction.
 
-
-
-
-CHAP. 80.—PROGNOSTICS DERIVED FROM THE STARS.
-
+## Chap. 80.—prognostics Derived from the Stars
 
 In the third rank must be placed the prognostics derived from the
 stars. These bodies are sometimes to be seen shooting to and fro;[686]
@@ -5498,11 +5145,7 @@ approach[695] of rain; but if seen after rain, it gives promise, though
 by no means a certain one, of fine weather. Circular clouds around some
 of the stars are indicative of rain.
 
-
-
-
-CHAP. 81.—PROGNOSTICS DERIVED FROM THUNDER.
-
+## Chap. 81.—prognostics Derived from Thunder
 
 When, in summer, there is more thunder than lightning, wind may be
 expected from that quarter; but if, on the other hand, there is not
@@ -5516,11 +5159,7 @@ a clear night from the south, the west, or the north-west, there will
 be wind and rain from those quarters. Thunder[696] in the morning is
 indicative of wind, and at midday of rain.
 
-
-
-
-CHAP. 82.—PROGNOSTICS DERIVED FROM CLOUDS.
-
+## Chap. 82.—prognostics Derived from Clouds
 
 When clouds are seen moving in a clear sky, wind may be expected in the
 quarter from which they proceed; but if they accumulate in one spot, as
@@ -5538,20 +5177,12 @@ are white and lowering, a hailstorm, generally known as a “white”[698]
 tempest, is close at hand. An isolated cloud, however small,[699]
 though seen in a clear sky, announces wind and storm.
 
-
-
-
-CHAP. 83.—PROGNOSTICS DERIVED FROM MISTS.
-
+## Chap. 83.—prognostics Derived from Mists
 
 Mists descending from the summits of mountains, or from the heavens, or
 settling in the vallies,[700] give promise of fine weather.
 
-
-
-
-CHAP. 84.—PROGNOSTICS DERIVED FROM FIRE KINDLED BY MAN.
-
+## Chap. 84.—prognostics Derived from Fire Kindled by Man
 
 Next to these are the prognostics that are derived from fire kindled
 upon the earth.[701] If the flames are pallid, and emit a murmuring
@@ -5565,11 +5196,7 @@ fire, when covered up, sends out hot embers or emits sparks, or if the
 cinders gather into a mass upon the hearth, or the coals burn bright
 and glowing.
 
-
-
-
-CHAP. 85.—PROGNOSTICS DERIVED FROM WATER.
-
+## Chap. 85.—prognostics Derived from Water
 
 There are certain prognostics, too, that may be derived from water.
 If, when the sea is calm, the water ripples in the harbour, with a
@@ -5583,11 +5210,7 @@ too, the sea is seen to swell in silence, and more so than when ruffled
 by an ordinary breeze; this is an indication that the winds are at work
 within its bosom already.
 
-
-
-
-CHAP. 86.—PROGNOSTICS DERIVED FROM TEMPESTS THEMSELVES.
-
+## Chap. 86.—prognostics Derived from Tempests Themselves
 
 The reverberations, too, of the mountains, and the roaring of the
 forests, are indicative of certain phænomena; and the same is the case
@@ -5598,11 +5221,7 @@ countries, the storm gives notice of its approach by that peculiar
 muttering[707] which precedes it; while the murmuring that is heard in
 the heavens affords us no doubtful presage of what is to come.
 
-
-
-
-CHAP. 87.—PROGNOSTICS DERIVED FROM AQUATIC ANIMALS, AND BIRDS.
-
+## Chap. 87.—prognostics Derived from Aquatic Animals, and Birds
 
 The animals, too, afford us certain presages; dolphins, for instance,
 sporting in a calm sea, announce wind in the quarter from which they
@@ -5633,11 +5252,7 @@ themselves in their nests, afford similar indications; geese, too, when
 they set up a continuous gabbling,[716] at an unusual time, and the
 heron,[717] when it stands moping in the middle of the sands.
 
-
-
-
-CHAP. 88.—PROGNOSTICS DERIVED FROM QUADRUPEDS.
-
+## Chap. 88.—prognostics Derived from Quadrupeds
 
 Nor, indeed, is it surprising that the aquatic birds, or any birds,
 in fact, should have a perception of the impending changes of the
@@ -5651,29 +5266,19 @@ and fro, or are seen carrying forth their eggs; and earthworms,[721]
 emerging from their holes—all these indicate approaching changes in the
 weather.
 
-
-
-
-CHAP. 89.—PROGNOSTICS DERIVED FROM PLANTS.
-
+## Chap. 89.—prognostics Derived from Plants
 
 It is a well-known fact, that trefoil bristles up, and its leaves stand
 erect, upon the approach of a tempest.
 
-
-
-
-CHAP. 90.—PROGNOSTICS DERIVED FROM FOOD.
-
+## Chap. 90.—prognostics Derived from Food
 
 At our repasts, too, and upon our tables, when we see the vessels
 sweat in which the viands are served, and leave marks upon the
 side-board,[722] it is an indication that a dreadful storm is impending.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, two thousand
 and sixty.
-
 
 ROMAN AUTHORS QUOTED.—Massurius Sabinus,[723] Cassius Hemina,[724]
 Verrius Flaccus,[725] L. Piso,[726] Cornelius Celsus,[727] Turranius
@@ -5685,7 +5290,6 @@ on the Stars, Cæsar[743] the Dictator, who wrote upon the Stars,
 Sergius Paulus,[744] Sabinus Fabianus,[745] M. Cicero,[746] Calpurnius
 Bassus,[747] Ateius Capito,[748] Mamilius Sura,[749] Attius,[750] who
 wrote the Praxidica.
-
 
 FOREIGN AUTHORS QUOTED.—Hesiod,[751] Theophrastus,[752] Aristotle,[753]
 Democritus,[754] King Hiero,[755] King Attalus Philometor,[756] King
@@ -5705,19 +5309,12 @@ Meton,[788] Criton,[789] Œnopides,[790] Zenon,[791] Euctemon,[792]
 Harpalus,[793] Hecatæus,[794] Anaximander,[795] Sosigenes,[796]
 Hipparchus,[797] Aratus,[798] Zoroaster,[799] Archibius.[800]
 
-
-
-
-BOOK XIX.
+## Book XIX
 
 THE NATURE AND CULTIVATION OF FLAX, AND AN ACCOUNT OF VARIOUS GARDEN
 PLANTS.
 
-
-
-
-CHAP. 1.—THE NATURE OF FLAX—MARVELLOUS FACTS RELATIVE THERETO.
-
+## Chap. 1.—the Nature of Flax—marvellous Facts Relative Thereto
 
 We have now imparted a knowledge[801] of the constellations and of the
 seasons, in a method unattended with difficulty for the most ignorant
@@ -5794,11 +5391,7 @@ herself that it exists, it has the property of scorching[811] the
 ground where it is grown, and of deteriorating the quality of the very
 soil itself.
 
-
-
-
-CHAP. 2. (1.)—HOW FLAX IS SOWN: TWENTY-SEVEN PRINCIPAL VARIETIES OF IT.
-
+## Chap. 2. (1.)—how Flax Is Sown: Twenty-Seven Principal Varieties of It
 
 Flax is mostly sown in sandy[812] soils, and after a single ploughing
 only. There is no plant that grows more rapidly[813] than this; sown
@@ -5898,11 +5491,7 @@ India, prepare a kind of thread from a fruit which resembles our apple,
 and the Arabians, as already[840] mentioned, from gourds that grow upon
 trees.
 
-
-
-
-CHAP. 3.—THE MODE OF PREPARING FLAX.
-
+## Chap. 3.—the Mode of Preparing Flax
 
 In our part of the world the ripeness of flax is usually ascertained by
 two signs, the swelling of the seed, and its assuming a yellowish tint.
@@ -5939,11 +5528,7 @@ additionally supple by being soaked in water and then beaten out upon
 a stone; and after it is woven into a tissue, it is again beaten with
 heavy maces: indeed, the more roughly it is treated the better it is.
 
-
-
-
-CHAP. 4.—LINEN MADE OF ASBESTOS.
-
+## Chap. 4.—linen Made of Asbestos
 
 There has been invented also a kind of linen which is incombustible by
 flame. It is generally known as “live”[844] linen, and I have seen,
@@ -5979,11 +5564,7 @@ the same virtues as spodium.[852] Among the poppies, too,[853] there
 is a variety which imparts a remarkable degree of whiteness to fabrics
 made of linen.
 
-
-
-
-CHAP. 5.—AT WHAT PERIOD LINEN WAS FIRST DYED.
-
+## Chap. 5.—at What Period Linen Was First Dyed
 
 Attempts, too, have even been made to dye linen, and to make it assume
 the frivolous colours[854] of our cloths. This was first done in the
@@ -5996,12 +5577,8 @@ purple, too, that Cleopatra accompanied M. Antonius to the battle of
 Actium, and it was by their aid that she took to flight: such being the
 distinguishing mark of the royal ship.
 
-
-
-
 CHAP. 6.—AT WHAT PERIOD COLOURED AWNINGS WERE FIRST EMPLOYED IN THE
 THEATRES.
-
 
 In more recent[855] times linens alone have been employed for the
 purpose of affording shade in our theatres; Q. Catulus having been the
@@ -6038,11 +5615,7 @@ supposed by the more learned among the commentators, that it was made
 of this material; for the word “sparta,”[861] which he employs, means
 nothing more than the produce of a seed.
 
-
-
-
-CHAP. 7. (2.)—THE NATURE OF SPARTUM.
-
+## Chap. 7. (2.)—the Nature of Spartum
 
 For the fact is that spartum[862] did not begin to be employed till
 many ages after the time of Homer; indeed, not before the first war
@@ -6070,11 +5643,7 @@ in the winter, even; but this work is done with the least difficulty
 between the ides of May[869] and those of June, that being the period
 at which it is perfectly ripe.
 
-
-
-
-CHAP. 8.—THE MODE OF PREPARING SPARTUM.
-
+## Chap. 8.—the Mode of Preparing Spartum
 
 When taken up it is made into sheaves, and laid in heaps for a couple
 of days, while it retains its life and freshness; on the third day
@@ -6105,11 +5674,7 @@ sea-line of the province of New Carthage, somewhat less than thirty
 miles in breadth by one hundred in length. The expense precludes its
 being transported to any very considerable distance.
 
-
-
-
-CHAP. 9.—AT WHAT PERIOD SPARTUM WAS FIRST EMPLOYED.
-
+## Chap. 9.—at What Period Spartum Was First Employed
 
 The Greeks used formerly to employ the rush for making ropes; so, at
 least, we are led to believe, from the name[870] given by them to that
@@ -6118,11 +5683,7 @@ leaves of the palm, and the inner bark of the linden-tree. It seems to
 me very probable, too, that it was from them that the Carthaginians
 borrowed the first hint for applying spartum to a similar purpose.
 
-
-
-
-CHAP. 10.—THE BULB ERIOPHORUS.
-
+## Chap. 10.—the Bulb Eriophorus
 
 Theophrastus[871] informs us, that there is a kind of bulb, which
 grows on the banks of rivers, and which encloses between the outer coat
@@ -6137,12 +5698,8 @@ three hundred and ninety years before our time—a fact to which I have
 already[874] alluded on other occasions: from this it would appear that
 spartum has come into use since his day.
 
-
-
-
 CHAP. 11.—PLANTS WHICH SPRING UP AND GROW WITHOUT A ROOT—PLANTS WHICH
 GROW, BUT CANNOT BE REPRODUCED FROM SEED.
-
 
 As we have here made a beginning of treating of the marvels of
 Nature, we shall proceed to examine them in detail; and among them
@@ -6179,11 +5736,7 @@ agglomeration of elementary earth. At all events, it is quite certain
 that the truffle belongs to those vegetable productions which spring up
 spontaneously, and are incapable of being reproduced from seed.[880]
 
-
-
-
-CHAP. 12. (3.)—MISY; ITON; AND GERANION.
-
+## Chap. 12. (3.)—misy; Iton; And Geranion
 
 Of a similar nature, too, is the vegetable production known in the
 province of Cyrenaica by the name of “misy,”[881] remarkable for the
@@ -6191,11 +5744,7 @@ sweetness of its smell and taste, but more fleshy than the truffle: the
 same, too, as to the iton[882] of the Thracians, and the geranion of
 the Greeks.
 
-
-
-
-CHAP. 13.—PARTICULARS CONNECTED WITH THE TRUFFLE.
-
+## Chap. 13.—particulars Connected with the Truffle
 
 The following peculiarities we find mentioned with reference to
 the truffle. When there have been showers in autumn, and frequent
@@ -6210,21 +5759,13 @@ greatest abundance. The finest truffles of Asia are those found in the
 neighbourhood of Lampsacus and Alopeconnesus; the best in Greece are
 those of the vicinity of Elis.
 
-
-
-
-CHAP. 14.—THE PEZICA.
-
+## Chap. 14.—the Pezica
 
 Belonging to the mushroom genus, also, there is a species, known to the
 Greeks by the name of “pezica,”[885] which grows without either root or
 stalk.
 
-
-
-
-CHAP. 15.—LASERPITIUM, LASER, AND MASPETUM.
-
+## Chap. 15.—laserpitium, Laser, and Maspetum
 
 Next to these, laserpitium[886] claims our notice, a very remarkable
 plant, known to the Greeks by the name of “silphion,” and originally a
@@ -6305,11 +5846,7 @@ eating of it, a thing, however, that but rarely happened. The first
 description, however, is found to agree more nearly with the silphium
 that comes from Persis.
 
-
-
-
-CHAP. 16.—MAGYDARIS.
-
+## Chap. 16.—magydaris
 
 There is another[900] variety of this plant, known as “magydaris,”[901]
 of a more delicate nature, less active in its effects, and destitute
@@ -6325,11 +5862,7 @@ transparent within; the drops of it, too, should melt very rapidly on
 the application of spittle. It is extensively employed for medicinal
 purposes.[904]
 
-
-
-
-CHAP. 17.—MADDER.
-
+## Chap. 17.—madder
 
 There are two other plants also, which are but little known to any but
 the herd of the sordid and avaricious, and this because of the large
@@ -6344,11 +5877,7 @@ five leaves arranged round each joint: the seed is red. Its medicinal
 properties we shall have occasion to mention in the appropriate
 place.[908]
 
-
-
-
-CHAP. 18.—THE RADICULA.
-
+## Chap. 18.—the Radicula
 
 The plant known to us by the name of “radicula,”[909] is the second of
 these productions. It furnishes a juice that is extensively employed
@@ -6367,11 +5896,7 @@ somewhat thorny, and has a stalk covered with down. It has an extremely
 diminutive seed, and a large root, which is cut up and employed for the
 purposes already mentioned.
 
-
-
-
-CHAP. 19. (4.)—THE PLEASURES OF THE GARDEN.
-
+## Chap. 19. (4.)—the Pleasures of the Garden
 
 Having made mention of these productions, it now remains for us to
 return to the cultivation of the garden,[912] a subject recommended
@@ -6513,11 +6038,7 @@ to this our subject; although, with Virgil,[941] we are ready to admit
 how difficult it is, by language however elevated, to ennoble a subject
 that is so humble in itself.
 
-
-
-
-CHAP. 20.—THE LAYING OUT OF GARDEN GROUND.
-
+## Chap. 20.—the Laying out of Garden Ground
 
 There is no doubt that the proper plan is, to have the gardens
 adjoining the country-house; and they should be watered, more
@@ -6533,11 +6054,7 @@ which should have a path dug round it, by means of which access may be
 afforded to the gardener and a channel formed for the water needed for
 irrigation.
 
-
-
-
-CHAP. 21.—PLANTS OTHER THAN GRAIN AND SHRUBS.
-
+## Chap. 21.—plants Other than Grain and Shrubs
 
 Among the garden plants there are some that recommend themselves by
 their bulbs, others by the head, others by the stalk, others by the
@@ -6546,13 +6063,9 @@ for the outer coat, others for their membranous tissues, others for
 their cartilaginous substance, others for the firmness of their flesh,
 and others for the fleshy tunics in which they are enveloped.
 
-
-
-
 CHAP. 22.—THE NATURAL HISTORY OF TWENTY DIFFERENT KINDS OF PLANTS
 WHICH GROW IN GARDENS—THE PROPER METHODS TO BE FOLLOWED IN SOWING THEM
 RESPECTIVELY.
-
 
 Of some plants the fruits[943] are in the earth, of others both in
 the earth and out of it, and of others, again, out of the earth
@@ -6586,11 +6099,7 @@ have already[953] made mention of it when speaking of wood and trees;
 and of truffles, which form another variety, we have but very recently
 given a description.[954]
 
-
-
-
-CHAP. 23. (5.)—VEGETABLES OF A CARTILAGINOUS NATURE—CUCUMBERS. PEPONES.
-
+## Chap. 23. (5.)—vegetables of a Cartilaginous Nature—cucumbers. Pepones
 
 The cucumber[955] belongs to the cartilaginous class of plants, and
 grows above the ground. It was a wonderful favourite with the Emperor
@@ -6648,11 +6157,7 @@ There are some persons who recommend steeping the seed of the cucumber
 in the juice of the herb known as the “culix;”[968] the produce, they
 say, will be sure to grow without seeds.
 
-
-
-
-CHAP. 24.—GOURDS.
-
+## Chap. 24.—gourds
 
 Gourds resemble the cucumber in nature, at least in their manner of
 growing; they manifest an equal aversion to the winter, too, while
@@ -6722,11 +6227,7 @@ These wild varieties, however, are only possessed of certain medicinal
 properties, and for this reason we shall defer any further mention of
 them till we come to the Books appropriated to that subject.
 
-
-
-
-CHAP. 25.—RAPE. TURNIPS.
-
+## Chap. 25.—rape. Turnips
 
 The other plants that are of a cartilaginous nature are concealed,
 all of them, in the earth. In the number of these is the rape, a
@@ -6758,11 +6259,7 @@ are held in the next degree of esteem. The other particulars connected
 with the sowing of the turnip have been already mentioned[992] by us
 when speaking of the rape.
 
-
-
-
-CHAP. 26.—RADISHES.
-
+## Chap. 26.—radishes
 
 Radishes are composed of an outer coat and a cartilaginous substance,
 and in many instances the rind is found to be thicker than the bark of
@@ -6865,11 +6362,7 @@ at all events, they give a polish to ivory. There is a great antipathy
 between the radish[1007] and the vine; which last will shrink from the
 radish, if sown in its vicinity.
 
-
-
-
-CHAP. 27.—PARSNIPS.
-
+## Chap. 27.—parsnips
 
 The other kinds which have been classified by us among the
 cartilaginous plants, are of a more ligneous nature; and it is a
@@ -6894,11 +6387,7 @@ degree of resemblance to the parsnip; by our people it is called the
 it, give it the name of “daucus.” We shall have further occasion[1012]
 to mention it among the medicinal plants.
 
-
-
-
-CHAP. 28.—THE SKIRRET.
-
+## Chap. 28.—the Skirret
 
 The skirret,[1013] too, has had its reputation established by the
 Emperor Tiberius, who demanded a supply of it every year from Germany.
@@ -6913,11 +6402,7 @@ larger parsnip has also a similar sting inside, but only when it is a
 year old. The proper time for sowing the skirret is in the months of
 February, March, April, August, September, and October.
 
-
-
-
-CHAP. 29.—ELECAMPANE.
-
+## Chap. 29.—elecampane
 
 Elecampane[1015] is not so elongated as the preceding roots, but more
 substantial and more pungent; eaten by itself it is very injurious to
@@ -6943,11 +6428,7 @@ the plants; indeed, for elecampane, a space of no less than three
 feet is required, as it throws out its shoots to a very considerable
 distance.[1019] Skirrets, however, are best transplanted.
 
-
-
-
-CHAP. 30.—BULBS, SQUILLS, AND ARUM.
-
+## Chap. 30.—bulbs, Squills, and Arum
 
 Next in affinity to these plants are the bulbs,[1020] which Cato,
 speaking in high terms of those of Megara,[1021] recommends most
@@ -7001,12 +6482,8 @@ that bulbs are reproduced from seed only, but in the champaign country
 of Præneste they grow spontaneously, and they grow to an unlimited
 extent in the territory of the Remi.[1036]
 
-
-
-
 CHAP. 31. (6.)—THE ROOTS, FLOWERS, AND LEAVES OF ALL THESE PLANTS.
 GARDEN PLANTS WHICH LOSE THEIR LEAVES.
-
 
 Nearly all[1037] the garden plants have a single[1038] root only,
 radishes, beet, parsley, and mallows, for example; it is lapathum,
@@ -7037,11 +6514,7 @@ wild-marjoram and elecampane, and in rue[1049] sometimes, when it has
 been injured accidentally. In some plants the leaves are hollow, the
 onion and the scallion,[1050] more particularly.
 
-
-
-
-CHAP. 32.—VARIETIES OF THE ONION.
-
+## Chap. 32.—varieties of the Onion
 
 Garlic and onions[1051] are invoked by the Egyptians,[1052] when
 taking an oath, in the number of their deities. The Greeks have many
@@ -7112,11 +6585,7 @@ Ascalonian onion is sown in the month of February. The seed of the
 onion is gathered when it begins to turn black, and before it becomes
 dry and shrivelled.
 
-
-
-
-CHAP. 33.—THE LEEK.
-
+## Chap. 33.—the Leek
 
 While upon this subject, it will be as well, too, to speak of the
 leek,[1062] on account of the affinity which it bears to the plants
@@ -7154,11 +6623,7 @@ and expired upon the spot without the slightest symptom of pain. It
 is said, however, that a larger dose than this is productive of no
 injurious effects whatever.[1068]
 
-
-
-
-CHAP. 34.—GARLIC.
-
+## Chap. 34.—garlic
 
 Garlic[1069] is generally supposed, in the country more particularly,
 to be a good specific[1070] for numerous maladies. The external coat
@@ -7226,12 +6691,8 @@ only on the spot, they fall fast asleep. There is a wild garlic, too,
 generally known as “bear’s” garlic;[1076] it has exactly the smell of
 millet, with a very small head and large leaves.
 
-
-
-
 CHAP. 35. (7.)—THE NUMBER OF DAYS REQUIRED FOR THE RESPECTIVE PLANTS TO
 MAKE THEIR APPEARANCE ABOVE GROUND.
-
 
 Among the garden[1077] plants which make their appearance most speedily
 above ground, are ocimum, blite, the turnip, and rocket; for they
@@ -7262,11 +6723,7 @@ for successive years, parsley, leeks, and scallions[1080] for instance;
 indeed, these plants, when once sown, retain their fertility, and
 produce for many years.
 
-
-
-
-CHAP. 36.—THE NATURE OF THE VARIOUS SEEDS.
-
+## Chap. 36.—the Nature of the Various Seeds
 
 In most plants the seed is round, in some oblong; it is broad and
 foliaceous in some, orage for instance, while in others it is narrow
@@ -7312,12 +6769,8 @@ for when the leaves are taken off, and the roots well covered up with
 earth, it grows all the larger for it, and keeps in good preservation
 till the ensuing summer.
 
-
-
-
 CHAP. 37.—PLANTS OF WHICH THERE IS BUT A SINGLE KIND. PLANTS OF WHICH
 THERE ARE SEVERAL KINDS.
-
 
 Of ocimum, lapathum, blite, cresses, rocket, orage, coriander, and
 anise respectively, there is but a single kind, these plants being
@@ -7343,12 +6796,8 @@ crispness or smoothness of their edges, and the thinness or thickness
 of the stem, as the case may be: in some kinds, again, the stem is
 white, in others purple, and in others mottled.
 
-
-
-
 CHAP. 38.—THE NATURE AND VARIETIES OF TWENTY-THREE GARDEN PLANTS. THE
 LETTUCE; ITS DIFFERENT VARIETIES.
-
 
 The Greeks have distinguished three varieties of the lettuce;[1097] the
 first with a stalk so large, that small garden gates,[1098] it is said,
@@ -7404,11 +6853,7 @@ lettuce has been introduced, known as the Cilician lettuce, and held
 in very considerable esteem; the leaf of it is similar to that of the
 Cappadocian lettuce, except that it is crisped, and somewhat larger.
 
-
-
-
-CHAP. 39.—ENDIVE.
-
+## Chap. 39.—endive
 
 Endive, though it cannot exactly be said to be of the same genus as
 the lettuce, still cannot be pronounced to belong to any other.[1113]
@@ -7443,11 +6888,7 @@ produced from white seed; and even then, as soon as they begin to grow,
 sand from the sea-shore should be spread over them, care being taken to
 tie the leaves as soon as ever they begin to come to any size.
 
-
-
-
-CHAP. 40.—BEET: FOUR VARIETIES OF IT.
-
+## Chap. 40.—beet: Four Varieties of It
 
 Beet[1122] is the smoothest of all the garden plants. The Greeks
 distinguish two kinds of beet, according to the colour, the black and
@@ -7486,11 +6927,7 @@ has been deteriorated by assuming a flavour like[1127] that of cabbage,
 its original flavour is restored, it is said, by plunging beet leaves
 into it.
 
-
-
-
-CHAP. 41—CABBAGES; THE SEVERAL VARIETIES OF THEM.
-
+## Chap. 41—cabbages; The Several Varieties of Them
 
 Cabbage and coleworts, which at the present day are the most highly
 esteemed of all the garden vegetables, were held in little repute, I
@@ -7596,11 +7033,7 @@ them live on lapsana at the siege of Dyrrhachium, and to rally him upon
 the parsimonious scale on which he was in the habit of recompensing
 their services. The lapsana is nothing more than a wild cyma.[1145]
 
-
-
-
-CHAP. 42.—WILD AND CULTIVATED ASPARAGUS.
-
+## Chap. 42.—wild and Cultivated Asparagus
 
 Of all the garden plants, asparagus is the one that requires the most
 delicate attention in its cultivation. We have already[1146] spoken
@@ -7669,11 +7102,7 @@ the wild asparagus, by the Greeks called “orminos,” or “myacanthos,”
 as well as by other names. I find it stated, that if rams’ horns are
 pounded, and then buried in the ground, asparagus will come up.[1154]
 
-
-
-
-CHAP. 43.—THISTLES.
-
+## Chap. 43.—thistles
 
 It really might have been thought that I had now given an account of
 all the vegetable productions that are held in any degree of esteem,
@@ -7697,12 +7126,8 @@ mixture of honey and vinegar,[1161] with the addition of root of laser
 and cummin—so that a day may not pass without our having thistles at
 table.[1162]
 
-
-
-
 CHAP. 44.—OTHER PLANTS THAT ARE SOWN IN THE GARDEN: OCIMUM; ROCKET; AND
 NASTURTIUM.
-
 
 For the remaining plants a brief description will suffice. The best
 time for sowing ocimum,[1163] it is said, is at the festival of the
@@ -7722,11 +7147,7 @@ saying, that a sluggish man should eat nasturtium, to arouse him from
 his torpidity. In Arabia, it is said, this plant attains a size that is
 quite marvellous.
 
-
-
-
-CHAP. 45.—RUE.
-
+## Chap. 45.—rue
 
 Rue,[1168] too, is generally sown while the west winds prevail, as
 well as just after the autumnal equinox. This plant has an extreme
@@ -7751,11 +7172,7 @@ ulcerations on the hands, if they are not covered or previously
 protected by being rubbed with oil. Its leaves, too, are preserved,
 being packed in bundles for keeping.
 
-
-
-
-CHAP. 46.—PARSLEY.
-
+## Chap. 46.—parsley
 
 Parsley is sown immediately after the vernal equinox, the seed being
 lightly beaten[1174] first in a mortar. It is thought that, by doing
@@ -7765,11 +7182,7 @@ peculiarity of this plant, that it changes colour: it has the honour,
 in Achaia, of forming the wreath of the victors in the sacred contests
 of the Nemean Games.
 
-
-
-
-CHAP. 47.—MINT.
-
+## Chap. 47.—mint
 
 It is at the same season, too, that mint[1175] is transplanted; or, if
 it has not yet germinated, the matted tufts of the old roots are used
@@ -7800,11 +7213,7 @@ in our part of the world is that of Carpetania,[1182] though elsewhere
 that of Africa and Æthiopia is more highly esteemed; with some, indeed,
 this last is preferred to that of Egypt.
 
-
-
-
-CHAP. 48.—OLUSATRUM.
-
+## Chap. 48.—olusatrum
 
 But it is olusatrum,[1183] more particularly, that is of so singular
 a nature, a plant which by the Greeks is called “hipposelinum,”[1184]
@@ -7828,11 +7237,7 @@ soil. As to the bad qualities of the caper which grows in the parts
 beyond the sea, we have already[1188] enlarged upon them when speaking
 of the exotic shrubs.
 
-
-
-
-CHAP. 49.—THE CARAWAY.
-
+## Chap. 49.—the Caraway
 
 The caraway[1189] is an exotic plant also, which derives its name,
 “careum,” from the country[1190] in which it was first grown; it is
@@ -7841,11 +7246,7 @@ any kind of soil, and requires to be cultivated just the same way as
 olusatrum; the most esteemed, however, is that which comes from Caria,
 and the next best is that of Phrygia.
 
-
-
-
-CHAP. 50.—LOVAGE.
-
+## Chap. 50.—lovage
 
 Lovage[1191] grows wild in the mountains of Liguria, its native
 country, but at the present day it is grown everywhere. The cultivated
@@ -7861,11 +7262,7 @@ plants are never used together, their properties being so extremely
 similar; but it is only the wild marjoram of Egypt that is considered
 superior to cunila.
 
-
-
-
-CHAP. 51.—DITTANDER.
-
+## Chap. 51.—dittander
 
 Dittander,[1195] too, was originally an exotic plant: it is usually
 sown after the west winds have begun to prevail. As soon as it begins
@@ -7877,21 +7274,13 @@ inclemency[1196] of the weather. It grows to the height of a cubit, and
 has a leaf like that of the laurel,[1197] but softer; it is never used
 except in combination with milk.
 
-
-
-
-CHAP. 52.—GITH.
-
+## Chap. 52.—gith
 
 Gith[1198] is employed by bakers, dill and anise by cooks and medical
 men. Sacopenium,[1199] so extensively used for adulterating laser, is
 also a garden plant, but is only employed for medicinal purposes.
 
-
-
-
-CHAP. 53.—THE POPPY.
-
+## Chap. 53.—the Poppy
 
 There are certain plants which are grown in company[1200] with others,
 the poppy, for instance, sown with cabbages and purslain, and rocket
@@ -7918,11 +7307,7 @@ Superbus, who, by striking down the tallest poppies in his garden,
 surreptitiously conveyed, unknown to them, his sanguinary message
 through the envoys who had been sent by his son.
 
-
-
-
-CHAP. 54.—OTHER PLANTS WHICH REQUIRE TO BE SOWN AT THE AUTUMNAL EQUINOX.
-
+## Chap. 54.—other Plants Which Require to Be Sown at the Autumnal Equinox
 
 There are some other plants, again, which require to be sown together
 at the time of the autumnal equinox; coriander, for instance,
@@ -7943,11 +7328,7 @@ and the third, with that of rocket: the best seed comes from Egypt.
 The Athenians have given mustard the name of “napy,”[1212] others,
 “thapsi,”[1213] and others, again, “saurion.”[1214]
 
-
-
-
-CHAP. 55.—WILD THYME; SISYMBRIUM.
-
+## Chap. 55.—wild Thyme; Sisymbrium
 
 Most mountains abound with wild thyme and sisymbrium, those of Thrace,
 for example, where[1215] branches of these wild plants are torn up and
@@ -7957,11 +7338,7 @@ Sisymbrium, too, is planted in a similar manner; it grows to the
 greatest perfection upon the walls of wells, and around fish preserves
 and ponds.[1216]
 
-
-
-
-CHAP. 56. (9.)—FOUR KINDS OF FERULACEOUS PLANTS. HEMP.
-
+## Chap. 56. (9.)—four Kinds of Ferulaceous Plants. Hemp
 
 The other garden plants are of the ferulaceous kind, such as fennel,
 for instance, very grateful to serpents, as already stated,[1217]
@@ -7991,11 +7368,7 @@ for this purpose, the upper stalks and the umbels of the plant. This
 kind of fennel is sometimes known by the name of “corymbia,” and the
 parts preserved are called “corymbi.”
 
-
-
-
-CHAP. 57. (10.)—THE MALADIES OF GARDEN PLANTS.
-
+## Chap. 57. (10.)—the Maladies of Garden Plants
 
 The garden plants, too, like the rest of the vegetable productions,
 are subject to certain maladies. Thus, for[1226] instance, ocimum,
@@ -8020,12 +7393,8 @@ entitled “Cepurica,”[1232] which he dedicated to Mæcenas, that it is
 not advisable to touch rue, cunila, mint, or ocimum with any implement
 of iron.
 
-
-
-
 CHAP. 58.—THE PROPER REMEDIES FOR THESE MALADIES. HOW ANTS ARE BEST
 DESTROYED. THE BEST REMEDIES AGAINST CATERPILLARS AND FLIES.
-
 
 The same author recommends as a remedy against ants, which are by no
 means the slightest plague in a garden that is not kept well watered,
@@ -8065,11 +7434,7 @@ them all. But of those, even, which keep the very longest, there is
 none that will keep beyond four years—for sowing[1241] purposes, at
 least; for culinary purposes, they are fit for use beyond that period.
 
-
-
-
-CHAP. 59.—WHAT PLANTS ARE BENEFITTED BY SALT WATER.
-
+## Chap. 59.—what Plants Are Benefitted by Salt Water
 
 A peculiar remedy for the maladies to which radishes, beet, rue, and
 cunila are subject, is salt water, which has also the additional merit
@@ -8082,11 +7447,7 @@ along with them. It is rain,[1242] however, that forms the principal
 aliment of plants; in addition to which, it kills the insects as they
 develope themselves upon them.
 
-
-
-
-CHAP. 60. (12.)—THE PROPER METHOD OF WATERING GARDENS.
-
+## Chap. 60. (12.)—the Proper Method of Watering Gardens
 
 The proper times[1243] for watering are the morning and the evening,
 to prevent the water from being heated[1244] by the sun; with the sole
@@ -8118,11 +7479,7 @@ inserted in them, and then sown, the plants will thrive in a marvellous
 degree. Plants[1251] in a wild state, it is generally thought, are more
 dry and acrid than when cultivated.
 
-
-
-
-CHAP. 61.—THE JUICES AND FLAVOURS OF GARDEN HERBS.
-
+## Chap. 61.—the Juices and Flavours of Garden Herbs
 
 This, too, reminds me that I ought to make some mention of the
 difference between the juices and flavours of the garden herbs,
@@ -8136,11 +7493,7 @@ exception, indeed, of the chicheling[1256] vetch, though even then it
 is to be found on the exterior surface only of the plant, in the form
 of a kind of dust which settles there.
 
-
-
-
-CHAP. 62.—PIPERITIS, LIBANOTIS, AND SMYRNIUM.
-
+## Chap. 62.—piperitis, Libanotis, and Smyrnium
 
 To come to a full understanding, too, both here as elsewhere, how
 unfounded are the notions which are generally entertained, I shall
@@ -8184,10 +7537,8 @@ is, each class will have its own portion to refer to, while those who
 desire to do so, will experience no difficulty in uniting them, with
 reference to any subject of which we may happen to treat.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, one thousand
 one hundred and forty-four.
-
 
 ROMAN AUTHORS QUOTED.—Maccius Plautus,[1266] M. Varro,[1267] D.
 Silanus,[1268] Cato the Censor,[1269] Hyginus,[1270] Virgil,[1271]
@@ -8198,23 +7549,15 @@ Cepurica, Castritius[1282] who wrote on the same subject, Firmus[1283]
 who wrote on the same subject, Petrichus[1284] who wrote on the same
 subject.
 
-
 FOREIGN AUTHORS QUOTED.—Herodotus,[1285] Theophrastus,[1286]
 Democritus,[1287] Aristomachus,[1288] Menander[1289] who wrote the
 Biochresta, Anaxiläus.[1290]
 
+## Book XX
 
+## Remedies Derived from the Garden Plants
 
-
-BOOK XX.
-
-REMEDIES DERIVED FROM THE GARDEN PLANTS.
-
-
-
-
-CHAP. 1.—INTRODUCTION.
-
+## Chap. 1.—introduction
 
 We are now about to enter upon an examination of the greatest of
 all the operations of Nature—we are about to discourse to man upon
@@ -8246,11 +7589,7 @@ objects of a more humble nature, though still so greatly conducive to
 our health—I mean the garden plants, of which I shall now proceed to
 speak.
 
-
-
-
-CHAP. 2. (1.)—THE WILD CUCUMBER; TWENTY-SIX REMEDIES.
-
+## Chap. 2. (1.)—the Wild Cucumber; Twenty-Six Remedies
 
 We have already stated[1296] that there is a wild cucumber,
 considerably smaller than the cultivated one. From this cucumber the
@@ -8278,11 +7617,7 @@ and inflammatory tumours,[1304] and restores the natural colour to the
 skin when a cicatrix has formed.—The juice of the leaves, mixed with
 vinegar, is used as an injection for the ears, in cases of deafness.
 
-
-
-
-CHAP. 3.—ELATERIUM; TWENTY-SEVEN REMEDIES.
-
+## Chap. 3.—elaterium; Twenty-Seven Remedies
 
 The proper season for making elaterium is the autumn; and there is no
 medicament known that will keep longer than this.[1305] It begins to
@@ -8322,11 +7657,7 @@ taken in drink for phthiriasis[1310] and dropsy; applied externally
 with honey or old olive oil, it is used for the cure of quinsy and
 affections of the trachea.
 
-
-
-
-CHAP. 4. (2.)—THE ANGUINE OR ERRATIC CUCUMBER: FIVE REMEDIES.
-
+## Chap. 4. (2.)—the Anguine or Erratic Cucumber: Five Remedies
 
 Many authors are of opinion that the wild cucumber is identical with
 the plant known among us as the “anguine,” and by some persons as
@@ -8345,11 +7676,7 @@ asthma, and, injected into the nostrils, for the jaundice.[1313] Rubbed
 upon the face in the sun, it removes freckles[1314] and spots upon the
 skin.
 
-
-
-
-CHAP. 5.—THE CULTIVATED CUCUMBER: NINE REMEDIES.
-
+## Chap. 5.—the Cultivated Cucumber: Nine Remedies
 
 Many persons attribute all these properties to the cultivated
 cucumber[1315] as well, a plant which even without them would be of
@@ -8363,11 +7690,7 @@ with hydromel for diseases of the liver. Taken in sweet wine, it is
 a diuretic; and, in combination with cummin,[1316] it is used as an
 injection for affections of the kidneys.
 
-
-
-
-CHAP. 6.—PEPONES: ELEVEN REMEDIES.
-
+## Chap. 6.—pepones: Eleven Remedies
 
 The fruit known as pepones[1317] are a cool and refreshing diet, and
 are slightly relaxing to the stomach. Applications are used of the
@@ -8393,11 +7716,7 @@ fits. It is a well-known fact, that if cucumbers are peeled and then
 boiled in oil, vinegar, and honey, they are all the more pleasant
 eating[1325] for it.
 
-
-
-
-CHAP. 7. (3.)—THE GOURD: SEVENTEEN REMEDIES. THE SOMPHUS: ONE REMEDY.
-
+## Chap. 7. (3.)—the Gourd: Seventeen Remedies. The Somphus: One Remedy
 
 There is found also a wild gourd, called “somphos” by the Greeks, empty
 within (to which circumstance it owes its name),[1326] and long and
@@ -8405,11 +7724,7 @@ thick in shape, like the finger: it grows nowhere except upon stony
 spots. The juice of this gourd, when chewed, is very beneficial to the
 stomach.[1327]
 
-
-
-
-CHAP. 8.—THE COLOCYNTHIS: TEN REMEDIES.
-
+## Chap. 8.—the Colocynthis: Ten Remedies
 
 There is another variety of the wild gourd, known as the
 “colocynthis:”[1328] this kind is full of seeds, but not so large as
@@ -8453,11 +7768,7 @@ Chrysippus, the physician, condemned the use of the gourd as a food: it
 is generally agreed, however, that it is extremely good[1334] for the
 stomach, and for ulcerations of the intestines and of the bladder.
 
-
-
-
-CHAP. 9.—RAPE; NINE REMEDIES.
-
+## Chap. 9.—rape; Nine Remedies
 
 Rape, too, has its medicinal properties. Warmed, it is used as an
 application for the cure of chilblains,[1335] in addition to which, it
@@ -8477,11 +7788,7 @@ too, says the same of rape, and more particularly if it is seasoned
 with rocket;[1339] he adds, also, that roasted, and then applied with
 grease, it is excellent for pains in the joints.
 
-
-
-
-CHAP. 10.—WILD RAPE: ONE REMEDY.
-
+## Chap. 10.—wild Rape: One Remedy
 
 Wild rape[1340] is mostly found growing in the fields; it has a tufted
 top, with a white[1341] seed, twice as large as that of the poppy. This
@@ -8491,11 +7798,7 @@ mixed with it in equal proportions.
 
 The root of the wild rape is applied to no useful purpose whatever.
 
-
-
-
-CHAP. 11. (4.)—TURNIPS; THOSE KNOWN AS BUNION AND BUNIAS: FIVE REMEDIES.
-
+## Chap. 11. (4.)—turnips; Those Known as Bunion and Bunias: Five Remedies
 
 The Greeks distinguish two kinds of turnips,[1343] also, as employed
 in medicine. The turnip with angular stalks and a flower like that of
@@ -8512,11 +7815,7 @@ bears a considerable resemblance to the radish and the rape united, the
 seed of it enjoying the reputation of being a remedy for poisons; hence
 it is that we find it employed in antidotes.
 
-
-
-
-CHAP. 12.—THE WILD RADISH, OR ARMORACIA: ONE REMEDY.
-
+## Chap. 12.—the Wild Radish, or Armoracia: One Remedy
 
 We have already said,[1348] that there is also a wild radish.[1349] The
 most esteemed is that of Arcadia, though it is also found growing in
@@ -8524,11 +7823,7 @@ other countries as well. It is only efficacious as a diuretic, being in
 other respects of a heating nature. In Italy, it is known also by the
 name of “armoracia.”
 
-
-
-
-CHAP. 13.—THE CULTIVATED RADISH: FORTY-THREE REMEDIES.
-
+## Chap. 13.—the Cultivated Radish: Forty-Three Remedies
 
 The cultivated radish, too, in addition to what we have already
 said[1350] of it, purges the stomach, attenuates the phlegm, acts as a
@@ -8592,12 +7887,8 @@ antipathy[1367] between these two plants. For dulness of hearing,
 too, radish-juice is injected into the ear. To promote vomiting, it is
 extremely beneficial to eat radishes fasting.
 
-
-
-
 CHAP. 14.—THE PARSNIP: FIVE REMEDIES. THE HIBISCUM, WILD MALLOW, OR
 PLISTOLOCHIA: ELEVEN REMEDIES.
-
 
 The hibiscum, by some persons known as the wild mallow,[1368] and
 by others as the “plistolochia,” bears a strong resemblance to the
@@ -8616,11 +7907,7 @@ the ground.
 Celsus,[1371] too, recommends this root to be boiled in wine, and
 applied in cases of gout unattended with swelling.
 
-
-
-
-CHAP. 15. (5.)—THE STAPHYLINOS, OR WILD PARSNIP: TWENTY-TWO REMEDIES.
-
+## Chap. 15. (5.)—the Staphylinos, or Wild Parsnip: Twenty-Two Remedies
 
 The staphylinos, or, as some persons call it, “erratic[1372] parsnip,”
 is another kind. The seed[1373] of this plant, pounded and taken in
@@ -8656,11 +7943,7 @@ wine, or vinegar and water,[1377] is salutary for stings inflicted by
 scorpions. By rubbing the teeth with the root of this plant, tooth-ache
 is removed.
 
-
-
-
-CHAP. 16.—GINGIDION: ONE REMEDY.
-
+## Chap. 16.—gingidion: One Remedy
 
 The Syrians devote themselves particularly to the cultivation of the
 garden, a circumstance to which we owe the Greek proverb, “There is
@@ -8673,11 +7956,7 @@ the same properties. Eaten either raw or boiled, it is very beneficial
 to the stomach, as it entirely absorbs all humours with which it may
 happen to be surcharged.
 
-
-
-
-CHAP. 17.—THE SKIRRET: ELEVEN REMEDIES.
-
+## Chap. 17.—the Skirret: Eleven Remedies
 
 The wild[1380] skirret, too, is very similar to the cultivated
 kind,[1381] and is productive of similar effects. It sharpens[1382]
@@ -8697,11 +7976,7 @@ to patients who are just resuming the use of wine. The juice of the
 cultivated skirret, taken in goats’-milk, arrests looseness of the
 stomach.
 
-
-
-
-CHAP. 18.—SILE, OR HARTWORT: TWELVE REMEDIES.
-
+## Chap. 18.—sile, or Hartwort: Twelve Remedies
 
 As the similitude which exists between their Greek names[1386] has
 caused most persons to mistake the one for the other, we have thought
@@ -8727,11 +8002,7 @@ arresting looseness in cattle, either bruised and put into their drink,
 or else eaten by them after it has been chewed with salt. When oxen are
 in a diseased state, it is beaten up and poured into their food.
 
-
-
-
-CHAP. 19.—ELECAMPANE: ELEVEN REMEDIES.
-
+## Chap. 19.—elecampane: Eleven Remedies
 
 Elecampane,[1391] too, chewed fasting, has the effect of strengthening
 the teeth, if, from the moment that it is plucked, it is not allowed to
@@ -8742,11 +8013,7 @@ cough, convulsions, flatulency, and affections of the trachea. It is
 useful too, for the bites of venomous animals; and the leaves steeped
 in wine are applied topically for pains in the loins.
 
-
-
-
-CHAP. 20.—ONIONS: TWENTY-SEVEN REMEDIES.
-
+## Chap. 20.—onions: Twenty-Seven Remedies
 
 There are no such things in existence as wild onions. The cultivated
 onion is employed for the cure of dimness[1393] of sight, the
@@ -8793,11 +8060,7 @@ quinsy, and has the effect of dispelling lethargy.[1401] Varro assures
 us that onions, pounded with salt and vinegar and then dried, will
 never be attacked by worms.[1402]
 
-
-
-
-CHAP. 21. (6.)—CUTLEEK: THIRTY-TWO REMEDIES.
-
+## Chap. 21. (6.)—cutleek: Thirty-Two Remedies
 
 Cutleek[1403] has the effect of stanching bleeding at the nose, the
 nostrils being plugged with the plant, pounded, or else mixed with
@@ -8833,11 +8096,7 @@ it is said, though, at the same time, they are not injurious to the
 stomach, and act as an aperient. Leeks impart a remarkable clearness to
 the voice.[1410]
 
-
-
-
-CHAP. 22.—BULBED LEEK: THIRTY-NINE REMEDIES.
-
+## Chap. 22.—bulbed Leek: Thirty-Nine Remedies
 
 Bulbed leek[1411] produces the same effects as cut-leek,[1412] but in a
 more powerful degree. To persons troubled with spitting of blood, the
@@ -8858,11 +8117,7 @@ aphrodisiac, and as a promoter of sleep. The heads, boiled in a couple
 of waters, arrest looseness of the bowels, and fluxes of long standing;
 and a decoction of the outer coat acts as a dye upon grey hair.[1416]
 
-
-
-
-CHAP. 23.—GARLIC: SIXTY-ONE REMEDIES.
-
+## Chap. 23.—garlic: Sixty-One Remedies
 
 Garlic[1417] has very powerful[1418] properties, and is of great
 utility to persons on changes of water or locality. The very smell of
@@ -8944,12 +8199,8 @@ poultry in their food, it preserves them from attacks of the pip.[1428]
 Beasts of burden, it is said, will void their urine all the more
 easily, and without any pain, if the genitals are rubbed with garlic.
 
-
-
-
 CHAP. 24.—THE LETTUCE: FORTY-TWO REMEDIES. THE GOAT-LETTUCE: FOUR
 REMEDIES.
-
 
 The first kind of lettuce which grows spontaneously, is the one that
 is generally known as “goat[1429]-lettuce;” thrown into the sea, this
@@ -8961,12 +8212,8 @@ and leaves, bruised and sprinkled with salt, are used for the cure of
 wounds of the sinews. Pounded with vinegar, and employed as a gargle in
 the morning twice a month, they act as a preventive of tooth-ache.
 
-
-
-
 CHAP. 25.—CÆSAPON: ONE REMEDY. ISATIS: ONE REMEDY. THE WILD LETTUCE:
 SEVEN REMEDIES.
-
 
 There is a second kind of wild lettuce, known by the Greeks is
 “cæsapon.”[1431] The leaves of this lettuce, applied as a liniment with
@@ -8982,11 +8229,7 @@ before suppuration. Both the root as well as the leaves are good, too,
 for erysipelas; and a decoction of it is drunk for affections of the
 spleen. Such are the properties peculiar to each of these varieties.
 
-
-
-
-CHAP. 26.—HAWK-WEED: SEVENTEEN REMEDIES.
-
+## Chap. 26.—hawk-Weed: Seventeen Remedies
 
 The properties which are common to all the wild varieties[1434] are
 whiteness, a stem sometimes as much as a cubit in length, and a
@@ -9075,11 +8318,7 @@ which affects[1449] the brain will have no injurious effects upon those
 who eat lettuce. Some persons have stated, however, that if lettuces
 are eaten too frequently they will prove injurious to the eyesight.
 
-
-
-
-CHAP. 27. (8.)—BEET: TWENTY-FOUR REMEDIES.
-
+## Chap. 27. (8.)—beet: Twenty-Four Remedies
 
 Nor are the two varieties of the beet without their remedial
 properties.[1450] The root of either white or black beet, if hung
@@ -9110,11 +8349,7 @@ and vinegar, for the purpose of relaxing the bowels; if it is boiled,
 however, some time longer, it will have the effect of arresting fluxes
 of the stomach and bowels.
 
-
-
-
-CHAP. 28.—LIMONION, OR NEUROIDES: THREE REMEDIES.
-
+## Chap. 28.—limonion, or Neuroides: Three Remedies
 
 There is a wild beet, too, known by some persons as “limonion,”[1452]
 and by others as “neuroides;” it has leaves much smaller and thinner
@@ -9126,11 +8361,7 @@ one acetabulum, is good for dysentery. It is said that a decoction of
 beet with the root has the property of taking stains out of cloths and
 parchment.
 
-
-
-
-CHAP. 29.—ENDIVE: THREE REMEDIES.
-
+## Chap. 29.—endive: Three Remedies
 
 Endive,[1455] too, is not without its medicinal uses. The juice of
 it, employed with rose oil and vinegar, has the effect of allaying
@@ -9141,12 +8372,8 @@ spreading endive has received from some persons among us the name of
 cultivated kind being called “seris.” This last is smaller than the
 other, and the leaves of it more full of veins.
 
-
-
-
 CHAP. 30.—CICHORIUM OR CHRESTON, OTHERWISE CALLED PANCRATION, OR
 AMBULA: TWELVE REMEDIES.
-
 
 Wild endive or cichorium has certain refreshing qualities,[1457] used
 as an aliment. Applied by way of liniment, it disperses abscesses,
@@ -9165,11 +8392,7 @@ greater facility anything they may desire. This plant, in consequence
 of its numerous salutary virtues, has been called by some persons
 “chreston,”[1459] and “pancration”[1460] by others.
 
-
-
-
-CHAP. 31.—HEDYPNOÏS: FOUR REMEDIES.
-
+## Chap. 31.—hedypnoïs: Four Remedies
 
 There is a sort of wild endive, too, with a broader leaf, known to some
 persons as “hedypnoïs.”[1461] Boiled, it acts as an astringent upon a
@@ -9179,11 +8402,7 @@ This variety, as well as the preceding one, is useful for ruptures and
 spasmodic contractions, and relieves persons who are suffering from
 spermatorrhœa.
 
-
-
-
-CHAP. 32.—SERIS, THREE VARIETIES OF IT: SEVEN REMEDIES BORROWED FROM IT.
-
+## Chap. 32.—seris, Three Varieties of It: Seven Remedies Borrowed from It
 
 The vegetable, too, called “seris,”[1462] which bears a considerable
 resemblance to the lettuce, consists of two kinds. The wild, which is
@@ -9204,12 +8423,8 @@ condemns seris, and employs a multitude of arguments to support his
 views: this opinion of his is opposed, however, to that of all other
 writers on the subject.
 
-
-
-
 CHAP. 33. (9).—THE CABBAGE: EIGHTY-SEVEN REMEDIES. RECIPES MENTIONED BY
 CATO.
-
 
 It would be too lengthy a task to enumerate all the praises of the
 cabbage, more particularly as the physician Chrysippus has devoted a
@@ -9271,11 +8486,7 @@ ears, in combination with wine, and assures us that it is a capital
 remedy for deafness: and he says that the cabbage is a cure for
 impetigo[1473] without the formation of ulcers.
 
-
-
-
-CHAP. 34.—OPINIONS OF THE GREEKS RELATIVE THERETO.
-
+## Chap. 34.—opinions of the Greeks Relative Thereto
 
 As we have already given those of Cato, it will be as well to set forth
 the opinions entertained by the Greek writers on this subject, only in
@@ -9340,11 +8551,7 @@ rue-seed, it brings away the after-birth. It is of use, also, for the
 bite of the shrew-mouse. Dried cabbage-leaves, reduced to a powder, are
 a cathartic both by vomit and by stool.
 
-
-
-
-CHAP. 35.—CABBAGE-SPROUTS.
-
+## Chap. 35.—cabbage-Sprouts
 
 In all varieties of the cabbage, the part most agreeable to the taste
 is the cyma,[1482] although no use is made of it in medicine, as it
@@ -9366,11 +8573,7 @@ it is apt to make the breath smell, and that it is injurious to the
 teeth and gums. In Egypt, too, it is never eaten, on account of its
 extreme bitterness.[1485]
 
-
-
-
-CHAP. 36.—THE WILD CABBAGE: THIRTY-SEVEN REMEDIES.
-
+## Chap. 36.—the Wild Cabbage: Thirty-Seven Remedies
 
 Cato[1486] extols infinitely more highly the properties of wild or
 erratic cabbage;[1487] so much so, indeed, as to affirm that the very
@@ -9414,32 +8617,20 @@ vessels in which water is boiled, the incrustations which adhere with
 such tenacity that it is otherwise impossible to detach them, will fall
 off immediately if a cabbage is boiled therein.
 
-
-
-
-CHAP. 37.—THE LAPSANA: ONE REMEDY.
-
+## Chap. 37.—the Lapsana: One Remedy
 
 Among the wild cabbages, we find also the lapsana,[1491] a plant which
 grows a foot in height, has a hairy leaf, and strongly resembles
 mustard, were it not that the blossom is whiter. It is eaten cooked,
 and has the property of soothing and gently relaxing the bowels.
 
-
-
-
-CHAP. 38.—THE SEA-CABBAGE: ONE REMEDY.
-
+## Chap. 38.—the Sea-Cabbage: One Remedy
 
 Sea-cabbage[1492] is the most strongly purgative of all these plants.
 It is cooked, in consequence of its extreme pungency, with fat meat,
 and is extremely detrimental to the stomach.
 
-
-
-
-CHAP. 39.—THE SQUILL: TWENTY-THREE REMEDIES.
-
+## Chap. 39.—the Squill: Twenty-Three Remedies
 
 In medicine, we give the name of white squill to the male plant, and
 of black[1493] to the female: the whiter the squill, the better it is
@@ -9491,11 +8682,7 @@ with honey, is applied topically, for the cure of lumbago. Pythagoras
 says that a squill, suspended at the threshold of the door, effectually
 shuts all access to evil spells and incantations.[1495]
 
-
-
-
-CHAP. 40.—BULBS: THIRTY REMEDIES.
-
+## Chap. 40.—bulbs: Thirty Remedies
 
 Bulbs,[1496] steeped in vinegar and sulphur, are good for the cure of
 wounds in the face;[1497] beaten up and used alone, they are beneficial
@@ -9542,11 +8729,7 @@ of bulbs; he adds, too, that when boiled they are not so wholesome as
 roasted, and that, of whatever nature they may be, they are difficult
 of digestion.
 
-
-
-
-CHAP. 41.—BULBINE; ONE REMEDY. BULB EMETIC.
-
+## Chap. 41.—bulbine; One Remedy. Bulb Emetic
 
 The Greeks give the name bulbine[1501] to a plant with leaves
 resembling those of the leek, and a red bulbous root. This plant, it is
@@ -9555,11 +8738,7 @@ date. The bulbous plant known as the “emetic” bulb,[1502] from the
 effects which it produces, has dark leaves,[1503] and longer than those
 of the other kinds.
 
-
-
-
-CHAP. 42. (10.)—GARDEN ASPARAGUS; WITH THE NEXT TWENTY-FOUR REMEDIES.
-
+## Chap. 42. (10.)—garden Asparagus; With the Next Twenty-Four Remedies
 
 Asparagus[1504] is said to be extremely wholesome as an aliment to
 the stomach. With the addition of cummin, it dispels flatulency of
@@ -9579,11 +8758,7 @@ uterus. Boiled in vinegar the root is very beneficial in cases of
 elephantiasis. It is said that if a person is rubbed with asparagus
 beaten up in oil, he will never be stung by bees.
 
-
-
-
-CHAP. 43.—CORRUDA, LIBYCUM, OR ORMINUM.
-
+## Chap. 43.—corruda, Libycum, or Orminum
 
 Wild asparagus is by some persons called “corruda,” by others
 “libycum,” and by the people of Attica “orminus.”[1507] For all the
@@ -9607,11 +8782,7 @@ if the water in which it is boiled is given to dogs, it will kill
 them;[1511] and that the juice of the root boiled in wine, kept in the
 mouth, is an effectual cure for tooth-ache.
 
-
-
-
-CHAP. 44. (11.)—PARSLEY; SEVENTEEN REMEDIES.
-
+## Chap. 44. (11.)—parsley; Seventeen Remedies
 
 Parsley[1512] is held in universal esteem; for we find sprigs of it
 swimming in the draughts of milk given us to drink in country-places;
@@ -9657,11 +8828,7 @@ the mouth. The seed, mixed with wine, or the root, taken with old wine,
 has the effect of breaking calculi in the bladder. The seed, too, is
 given in white wine, to persons afflicted with the jaundice.
 
-
-
-
-CHAP. 45.—APIASTRUM, OR MELISSOPHYLLUM.
-
+## Chap. 45.—apiastrum, or Melissophyllum
 
 Hyginus gave the name of “apiastrum” to melissophyllum:[1516] but that
 which grows in Sardinia is poisonous, and universally condemned. I
@@ -9669,12 +8836,8 @@ speak here of this plant, because I feel it my duty to place before the
 reader every object which has been classified, among the Greeks, under
 the same name.
 
-
-
-
 CHAP. 46.—OLUSATRUM OR HIPPOSELINON: ELEVEN REMEDIES. OREOSELINON; TWO
 REMEDIES. HELIOSELINON; ONE REMEDY.
-
 
 Olusatrum,[1517] usually known as hipposelinon,[1518] is particularly
 repulsive to scorpions. The seed of it, taken in drink, is a cure for
@@ -9692,11 +8855,7 @@ urine and the catamenia. Helioselinon[1521] is possessed of peculiar
 virtues against the bites of spiders: and oreoselinon is used with wine
 for promoting the menstrual discharge.
 
-
-
-
-CHAP. 47. (12.)—PETROSELINON; ONE REMEDY. BUSELINON; ONE REMEDY.
-
+## Chap. 47. (12.)—petroselinon; One Remedy. Buselinon; One Remedy
 
 Another kind again, which grows in rocky places, is known by some
 persons as “petroselinon:”[1522] it is particularly good for abscesses,
@@ -9707,11 +8866,7 @@ cultivated kind in the shortness of the stalk and the red colour of the
 root, the medicinal properties being just the same. Taken in drink or
 applied topically, it is an excellent remedy for the stings of serpents.
 
-
-
-
-CHAP. 48.—OCIMUM; THIRTY-FIVE REMEDIES.
-
+## Chap. 48.—ocimum; Thirty-Five Remedies
 
 Chrysippus has exclaimed as strongly, too, against ocimum[1524] as he
 has against parsley, declaring that it is prejudicial to the stomach
@@ -9765,11 +8920,7 @@ various affections produced by excessive vomiting, and for abscesses of
 the womb. The root, mixed with wine, is extremely efficacious for bites
 inflicted by wild beasts.
 
-
-
-
-CHAP. 49.—ROCKET: TWELVE REMEDIES.
-
+## Chap. 49.—rocket: Twelve Remedies
 
 The seed of rocket[1528] is remedial for the venom of the scorpion and
 the shrew-mouse: it repels, too, all parasitical insects which breed
@@ -9791,11 +8942,7 @@ them already.[1531] Three leaves of wild rocket plucked with the left
 hand, beaten up in hydromel, and then taken in drink, are productive of
 a similar effect.
 
-
-
-
-CHAP. 50.—NASTURTIUM: FORTY-TWO REMEDIES.
-
+## Chap. 50.—nasturtium: Forty-Two Remedies
 
 Nasturtium,[1532] on the other hand, is an antiaphrodisiac;[1533] it
 has the effect also of sharpening the senses, as already stated.[1534]
@@ -9835,11 +8982,7 @@ naturally caustic. The best nasturtium of all is that of Babylonia; the
 wild[1538] variety possesses the same qualities as the cultivated in
 every respect, but in a more powerful degree.
 
-
-
-
-CHAP. 51.—RUE: EIGHTY-FOUR REMEDIES.
-
+## Chap. 51.—rue: Eighty-Four Remedies
 
 One of the most active, however, of all the medicinal plants, is
 rue.[1539] The cultivated kind has broader leaves and more numerous
@@ -9978,11 +9121,7 @@ to have swallowed a horse-leech, under which circumstances it is
 administered in vinegar. In all other maladies of cattle, the rue is
 prepared just as for man in a similar case.
 
-
-
-
-CHAP. 52. (14.)—WILD MINT: TWENTY REMEDIES.
-
+## Chap. 52. (14.)—wild Mint: Twenty Remedies
 
 Mentastrum, or wild mint,[1552] differs from the other kind in the
 appearance of the leaves, which have the form of those of ocimum and
@@ -10013,11 +9152,7 @@ dreams; and taken in vinegar, it expels tape-worm.[1557] For the cure
 of porrigo, it is put in vinegar, and the head is washed with the
 mixture in the sun.
 
-
-
-
-CHAP. 53.—MINT: FORTY-ONE REMEDIES.
-
+## Chap. 53.—mint: Forty-One Remedies
 
 The very smell of mint[1558] reanimates the spirits, and its flavour
 gives a remarkable zest to food: hence it is that it is so generally
@@ -10067,11 +9202,7 @@ fingers taken in water, will cure stomach-ache.[1561] Sprinkled in this
 form in drink, it is said to have the effect of expelling intestinal
 worms.
 
-
-
-
-CHAP. 54.—PENNYROYAL: TWENTY-FIVE REMEDIES.
-
+## Chap. 54.—pennyroyal: Twenty-Five Remedies
 
 Pennyroyal[1562] partakes with mint, in a very considerable degree, the
 property[1563] of restoring consciousness in fainting fits; slips of
@@ -10118,11 +9249,7 @@ sprig of pennyroyal, wrapped in wool, should be given to the patient to
 smell at, just before the fit comes on, or else it should be put under
 the bed-clothes and laid by the patient’s side.
 
-
-
-
-CHAP. 55.—WILD PENNYROYAL: SEVENTEEN REMEDIES.
-
+## Chap. 55.—wild Pennyroyal: Seventeen Remedies
 
 For all the purposes already mentioned, wild pennyroyal[1572] has
 exactly the same properties, but in a still higher degree. It bears a
@@ -10150,11 +9277,7 @@ too, for bites inflicted by a human being. The root of it, newly taken
 up, is extremely efficacious for corroding ulcers, and in a dried state
 tends to efface the deformities produced by scars.
 
-
-
-
-CHAP. 56.—NEP: NINE REMEDIES.
-
+## Chap. 56.—nep: Nine Remedies
 
 Nep[1577] has also some affinity in its effects with pennyroyal. Boiled
 down in water to one third, these plants dispel sudden chills: they
@@ -10170,12 +9293,8 @@ the nostrils, with the head thrown back, arrests bleeding at the nose,
 and the root has a similar effect. This last is employed also, with
 myrtle-seed, in warm raisin wine, as a gargle for the cure of quinsy.
 
-
-
-
 CHAP. 57.—CUMMIN: FORTY-EIGHT REMEDIES. WILD CUMMIN: TWENTY-SIX
 REMEDIES.
-
 
 Wild cummin is a remarkably slender plant, consisting of four or five
 leaves indented like a saw; like the cultivated[1579] kind, it is much
@@ -10223,11 +9342,7 @@ for the purpose with veal suet or honey. For contusions, it is applied
 as a liniment, with honey, raisins, and vinegar, and for dark freckles
 on the skin with vinegar.
 
-
-
-
-CHAP. 58.—AMMI: TEN REMEDIES.
-
+## Chap. 58.—ammi: Ten Remedies
 
 There is another plant, which bears a very strong resemblance to
 cummin, known to the Greeks as “ammi;”[1587] some persons are of
@@ -10252,11 +9367,7 @@ purgative upon the uterus. It is said, too, that if women smell at this
 plant during the sexual congress, the chances of conception will be
 greatly promoted thereby.
 
-
-
-
-CHAP. 59.—THE CAPPARIS OR CAPER: EIGHTEEN REMEDIES.
-
+## Chap. 59.—the Capparis or Caper: Eighteen Remedies
 
 We have already spoken[1590] of the caper at sufficient length when
 treating of the exotic plants. The caper which comes[1591] from beyond
@@ -10283,22 +9394,14 @@ oxymel, it is prescribed for tapeworm, and a decoction of it in vinegar
 removes ulcerations of the mouth. It is generally agreed among writers
 that the caper is prejudicial to the stomach.
 
-
-
-
-CHAP. 60.—LIGUSTICUM, OR LOVAGE: FOUR REMEDIES.
-
+## Chap. 60.—ligusticum, or Lovage: Four Remedies
 
 Ligusticum,[1594] by some persons known as “panax,” is good for the
 stomach, and is curative of convulsions and flatulency. There are
 persons who give this plant the name of “cunila bubula;” but, as we
 have already[1595] stated, they are in error in so doing.
 
-
-
-
-CHAP. 61. (16.)—CUNILA BUBULA: FIVE REMEDIES.
-
+## Chap. 61. (16.)—cunila Bubula: Five Remedies
 
 In addition to garden cunila,[1596] there are numerous other varieties
 of it employed in medicine. That known to us as “cunila bubula,” has a
@@ -10315,11 +9418,7 @@ being dried for the purpose, or else beaten up fresh and applied to the
 part affected. For every purpose for which it is employed it combines
 remarkably well with wine.
 
-
-
-
-CHAP. 62.—CUNILA GALLINACEA, OR ORIGANUM: FIVE REMEDIES.
-
+## Chap. 62.—cunila Gallinacea, or Origanum: Five Remedies
 
 There is another variety, again, known to our people as “cunila
 gallinacea,”[1599] and to the Greeks as Heracleotic origanum.[1600]
@@ -10328,11 +9427,7 @@ remedy for cough and affections of the liver. Mixed with meal, and
 taken as a broth, with oil and vinegar, it is good for pains in the
 side, and the stings of serpents in particular.
 
-
-
-
-CHAP. 63.—CUNILAGO: EIGHT REMEDIES.
-
+## Chap. 63.—cunilago: Eight Remedies
 
 There is a third species, also, known to the Greeks as “male cunila,”
 and to us as “cunilago.”[1601] This plant has a fœtid smell, a ligneous
@@ -10344,11 +9439,7 @@ stings of scorpions more particularly. It is stated, also, that if a
 person is rubbed with three leaves of it, steeped in oil, it will have
 the effect of keeping all serpents at a distance.
 
-
-
-
-CHAP. 64.—SOFT CUNILA: THREE REMEDIES. LIBANOTIS: THREE REMEDIES.
-
+## Chap. 64.—soft Cunila: Three Remedies. Libanotis: Three Remedies
 
 The variety, on the other hand, known as soft[1602] cunila, has a more
 velvety leaf, and branches covered with thorns; when rubbed it has just
@@ -10359,12 +9450,8 @@ of these plants, taken in wine or vinegar, are antidotes for the stings
 of serpents. Beaten up in water, also, and sprinkled about a place,
 they kill fleas.[1604]
 
-
-
-
 CHAP. 65.—CULTIVATED CUNILA; THREE REMEDIES. MOUNTAIN CUNILA; SEVEN
 REMEDIES.
-
 
 Cultivated cunila[1605] has also its medicinal uses. The juice of
 it, in combination with rose oil, is good for the ears; and the
@@ -10384,11 +9471,7 @@ nature.
 We shall have occasion to speak of other varieties of libanotis[1607]
 in their appropriate places.
 
-
-
-
-CHAP. 66. (17.)—PIPERITIS, OR SILIQUASTRUM: FIVE REMEDIES.
-
+## Chap. 66. (17.)—piperitis, or Siliquastrum: Five Remedies
 
 Piperitis,[1608] which we have already mentioned as being called
 “siliquastrum,” is taken in drink for epilepsy. Castor[1609] used to
@@ -10399,11 +9482,7 @@ like pepper in taste.” He described it also as being beneficial to
 the gums and teeth, imparting sweetness to the breath, and dispelling
 flatulency.
 
-
-
-
-CHAP. 67.—ORIGANUM, ONITIS, OR PRASION: SIX REMEDIES.
-
+## Chap. 67.—origanum, Onitis, or Prasion: Six Remedies
 
 Origanum,[1610] which, as we have already stated, rivals cunila in
 flavour, includes many varieties employed in medicine. Onitis,[1611] or
@@ -10414,11 +9493,7 @@ white wine it is good for the stings of spiders and scorpions; and,
 applied with vinegar and oil, in wool, it is a cure for sprains and
 bruises.
 
-
-
-
-CHAP. 68.—TRAGORIGANUM: NINE REMEDIES.
-
+## Chap. 68.—tragoriganum: Nine Remedies
 
 Tragoriganum[1613] bears a strong resemblance to wild thyme. It
 is diuretic, disperses tumours, and taken in drink is extremely
@@ -10427,11 +9502,7 @@ It is very good for acid eructations from the stomach, and for the
 thoracic organs. It is given also for a cough, with honey, as well as
 for pleurisy and peripneumony.
 
-
-
-
-CHAP. 69.—THREE VARIETIES OF HERACLEOTIC ORIGANUM: THIRTY REMEDIES.
-
+## Chap. 69.—three Varieties of Heracleotic Origanum: Thirty Remedies
 
 Heraclium,[1614] again, comprehends three varieties; the first,[1615]
 which is the darkest, has broader leaves than the others, and is of a
@@ -10476,11 +9547,7 @@ applied with vinegar, it is employed as a liniment for bloody fluxes of
 the generative organs, and it accelerates the lochial discharge after
 child-birth.
 
-
-
-
-CHAP. 70.—DITTANDER: THREE REMEDIES.
-
+## Chap. 70.—dittander: Three Remedies
 
 Dittander[1621] is generally considered to rank among the caustic
 plants. It is owing to this property that it clears the skin of the
@@ -10492,11 +9559,7 @@ by ulcers. It is said, that in cases of tooth-ache, if this plant is
 attached to the arm on the suffering side, it will have the effect of
 drawing the pain to it.
 
-
-
-
-CHAP. 71.—GITH, OR MELANTHION: TWENTY-THREE REMEDIES.
-
+## Chap. 71.—gith, or Melanthion: Twenty-Three Remedies
 
 Gith[1622] is by some Greek writers called “melanthion,”[1623] and by
 others “melaspermon.”[1624] That is looked upon as the best which has
@@ -10528,11 +9591,7 @@ accelerating the after-birth. It is stated, also, that beaten up in
 urine, it is a cure for corns on the feet; and that when burnt it kills
 gnats and flies with the smell.
 
-
-
-
-CHAP. 72.—ANISE: SIXTY-ONE REMEDIES.
-
+## Chap. 72.—anise: Sixty-One Remedies
 
 Anise,[1628] too, one of the comparatively small number of plants
 that have been commended by Pythagoras, is taken in wine, either raw
@@ -10553,12 +9612,8 @@ the objects of art, ever since labour has ceased to stimulate it.
 It is for these various reasons that it has received the name of
 “anicetum,”[1633] given to it by some.
 
-
-
-
 CHAP. 73.—WHERE THE BEST ANISE IS FOUND: VARIOUS REMEDIES DERIVED FROM
 THIS PLANT.
-
 
 The most esteemed anise is that of Crete, and, next to it, that of
 Egypt. This plant is employed in seasonings to supply the place of
@@ -10638,11 +9693,7 @@ the ravages of moths. The more recently it has been gathered, and the
 darker its colour, the greater are its virtues: still, however, it is
 injurious to the stomach, except when suffering from flatulency.
 
-
-
-
-CHAP. 74. (18.)—DILL: NINE REMEDIES.
-
+## Chap. 74. (18.)—dill: Nine Remedies
 
 Dill[1638] acts also as a carminative, allays gripings of the stomach,
 and arrests looseness of the bowels. The roots of this plant are
@@ -10652,11 +9703,7 @@ and, taken in water, it dispels indigestion. The ashes of it are a
 remedy for swellings of the uvula; but the plant itself weakens the
 eyesight and the generative powers.
 
-
-
-
-CHAP 75.—SACOPENIUM, OR SAGAPENON: THIRTEEN REMEDIES.
-
+## Chap 75.—sacopenium, or Sagapenon: Thirteen Remedies
 
 The sacopenium which grows in Italy is totally different from that
 which comes from beyond sea. This last, in fact, is similar to gum
@@ -10671,14 +9718,10 @@ at; in addition to which, it is sometimes administered in drink, or
 employed as a friction with oil. It is a good antidote, also, for
 medicaments of a noxious nature.
 
-
-
-
 CHAP. 76.—THE WHITE POPPY: THREE REMEDIES. THE BLACK POPPY: EIGHT
 REMEDIES. REMARKS ON SLEEP. OPIUM. REMARKS IN DISFAVOUR OF THE POTIONS
 KNOWN AS “ANODYNES, FEBRIFUGES, DIGESTIVES, AND CŒLIACS.” IN WHAT WAY
 THE JUICES OF THESE PLANTS ARE TO BE COLLECTED.
-
 
 We have already[1641] stated that there are three varieties of the
 cultivated poppy, and, on the same occasion, we promised to describe
@@ -10755,11 +9798,7 @@ Mnesides is of opinion that the best way of preserving opium is to mix
 henbane seed with it; others, again, recommend that it should be kept
 with beans.
 
-
-
-
-CHAP. 77. (19.)—THE POPPY CALLED RHŒAS: TWO REMEDIES.
-
+## Chap. 77. (19.)—the Poppy Called Rhœas: Two Remedies
 
 The poppy which we have[1658] spoken of under the names of “rhœas”
 and the “erratic” poppy, forms an intermediate variety between the
@@ -10769,12 +9808,8 @@ all, immediately after it is gathered. This plant is an extremely
 powerful purgative: five heads of it, boiled in three semi-sextarii of
 wine, and taken in drink, have the effect of producing sleep.
 
-
-
-
 CHAP. 78.—THE WILD POPPY CALLED CERATITIS, GLAUCIUM, OR PARALIUM: SIX
 REMEDIES.
-
 
 There is one variety of wild poppy known as “ceratitis.”[1660] It is
 of a black colour, a cubit in height, and has a thick root covered
@@ -10793,12 +9828,8 @@ Some persons give this kind of poppy the name of “glaucion,” and
 others of “paralium,”[1662] for it grows, in fact, in spots exposed to
 exhalations from the sea, or else in soils of a nitrous nature.
 
-
-
-
 CHAP. 79.—THE WILD POPPY CALLED HERACLIUM, OR APHRON: FOUR REMEDIES.
 DIACODION.
-
 
 There is another kind[1663] of wild poppy, known as “heraclion”
 by some persons, and as “aphron” by others. The leaves of it, when
@@ -10821,11 +9852,7 @@ sextarius of raisin wine of Crete. All this, however, is only so much
 ostentation; for the virtue of this simple and ancient preparation
 depends solely upon the poppy and the honey.
 
-
-
-
-CHAP. 80.—THE POPPY CALLED TITHYMALON, OR PARALION: THREE REMEDIES.
-
+## Chap. 80.—the Poppy Called Tithymalon, or Paralion: Three Remedies
 
 There is a third kind, again, called “tithymalon;”[1670] some persons
 give it the name of “mecon,” others of “paralion.” It has a white leaf,
@@ -10838,12 +9865,8 @@ in pure wine immediately after the sting of a scorpion, prevents any
 dangerous results. Some persons, however, attribute this virtue to the
 black poppy only, the head or leaves being beaten up for the purpose.
 
-
-
-
 CHAP. 81. (20.)—PORCILLACA OR PURSLAIN, OTHERWISE CALLED PEPLIS:
 TWENTY-FIVE REMEDIES.
-
 
 There is a wild purslain,[1672] too, called “peplis,” not much superior
 in its virtues to the cultivated[1673] kind, of which such remarkable
@@ -10901,11 +9924,7 @@ rubbed with a liniment of this plant, there will be no defluxions
 perceptible the whole year through. It is generally thought, however,
 that purslain weakens the sight.
 
-
-
-
-CHAP. 82.—CORIANDER: TWENTY-ONE REMEDIES.
-
+## Chap. 82.—coriander: Twenty-One Remedies
 
 There is no wild coriander[1680] to be found; the best, it is generally
 agreed, is that of Egypt. Taken in drink and applied to the wound, it
@@ -10936,11 +9955,7 @@ number of grains taken. Marcus Varro is of opinion, that if coriander
 is lightly pounded, and sprinkled over it with cummin and vinegar, all
 kinds of meat may be kept in summer without spoiling.
 
-
-
-
-CHAP. 83.—ORAGE: FOURTEEN REMEDIES.
-
+## Chap. 83.—orage: Fourteen Remedies
 
 Orage,[1683] again, is found both wild and cultivated. Pythagoras has
 accused this plant of producing dropsy, jaundice, and paleness of the
@@ -10970,13 +9985,9 @@ with mallows or lentils.
 Wild orage is used for dyeing the hair, as well as the other purposes
 above enumerated.
 
-
-
-
 CHAP. 84. (21.)—THE MALLOW CALLED MALOPE: THIRTEEN REMEDIES. THE MALLOW
 CALLED MALACHE: ONE REMEDY. THE MALLOW CALLED ALTHÆA, OR PLISTOLOCHIA:
 FIFTY-NINE REMEDIES.
-
 
 Both kinds of mallows,[1686] on the other hand, the cultivated and the
 wild, are held in very general esteem. These kinds are subdivided,
@@ -11068,13 +10079,9 @@ thickens when exposed in the open air, and congeals[1703] like ice.
 The more recently, however, it has been taken up, the greater are the
 virtues of the root.[1704]
 
-
-
-
 CHAP. 85.—WILD LAPATHUM OR OXALIS, OTHERWISE CALLED LAPATHUM
 CANTHERINUM, OR RUMEX: ONE REMEDY. HYDROLAPATHUM: TWO REMEDIES.
 HIPPOLAPATHUM: SIX REMEDIES. OXYLAPATHUM: FOUR REMEDIES.
-
 
 Lapathum, too, has pretty nearly the same properties. There is a
 wild[1705] variety, known to some as “oxalis,” very similar in taste
@@ -11105,12 +10112,8 @@ with spitting of blood.[1714] Most excellent lozenges are made of the
 leaves and root of this plant, with the addition of nitre and a little
 incense. When wanted for use, they are first steeped in vinegar.
 
-
-
-
 CHAP. 86.—CULTIVATED LAPATHUM: TWENTY-ONE REMEDIES. BULAPATHUM: ONE
 REMEDY.
-
 
 As to garden lapathum,[1715] it is good in liniments on the forehead
 for defluxions of the eyes. The root of it cures lichens and leprous
@@ -11130,11 +10133,7 @@ Not to omit any particulars, Solo has added to the above varieties a
 bulapathon,[1717] which differs only from the others in the length of
 the root. This root, taken in wine, is very beneficial for dysentery.
 
-
-
-
-CHAP. 87. (22.)—MUSTARD, THE THREE KINDS OF IT: FORTY-FOUR REMEDIES.
-
+## Chap. 87. (22.)—mustard, the Three Kinds of It: Forty-Four Remedies
 
 Mustard, of which we have mentioned[1718] three different kinds, when
 speaking of the garden herbs, is ranked by Pythagoras among the very
@@ -11188,23 +10187,15 @@ livid spots and bruises. From the seed, first steeped in olive-oil, and
 then subjected to pressure, an oil is extracted, which is employed for
 rigidity of the sinews, and chills and numbness in the loins and hips.
 
-
-
-
-CHAP. 88.—ADARCA: FORTY-EIGHT REMEDIES.
-
+## Chap. 88.—adarca: Forty-Eight Remedies
 
 It is said that adarca, of which we have already made mention[1727]
 when speaking of the forest-trees, has a similar nature[1728] to that
 of mustard, and is productive of the same effects: it grows upon the
 outer coat of reeds, below the head.
 
-
-
-
 CHAP. 89.—MARRUBIUM OR PRASION, OTHERWISE LINOSTROPHON, PHILOPAIS, OR
 PHILOCHARES: TWENTY-NINE REMEDIES.
-
 
 Most medical writers have spoken in high terms of marrubium, or
 horehound, as a plant of the very greatest utility. Among the Greeks,
@@ -11249,11 +10240,7 @@ this preparation used warm, he says, will bring abscesses to a head,
 and cleanse and heal them. Beaten up, too, with stale axle-grease and
 applied topically, he says, horehound is a cure for the bite of a dog.
 
-
-
-
-CHAP. 90.—WILD THYME: EIGHTEEN REMEDIES.
-
+## Chap. 90.—wild Thyme: Eighteen Remedies
 
 Wild thyme, it is said, borrows its name, “serpyllum,” from the
 fact that it is a creeping[1740] plant, a property peculiar to the
@@ -11276,11 +10263,7 @@ for liver complaints. The leaves are given in doses of four oboli, in
 vinegar, for diseases of the spleen. Beaten up in two cyathi of oxymel,
 it is used for spitting of blood.
 
-
-
-
-CHAP. 91.—SISYMBRIUM OR THYMBRÆUM: TWENTY-THREE REMEDIES.
-
+## Chap. 91.—sisymbrium or Thymbræum: Twenty-Three Remedies
 
 Wild[1743] sisymbrium, by some persons called “thymbræum,” does not
 grow beyond a foot in height. The kind[1744] which grows in watery
@@ -11304,11 +10287,7 @@ the wild variety expels calculi even. For persons necessitated to sit
 up awake, an infusion of it in vinegar is applied as a liniment to the
 head.
 
-
-
-
-CHAP. 92.—LINSEED: THIRTY REMEDIES.
-
+## Chap. 92.—linseed: Thirty Remedies
 
 Linseed[1747] is not only used in combination with other substances,
 but, employed by itself, it disperses spots on the face in women: its
@@ -11338,11 +10317,7 @@ of one sextarius of each, in hydromel, is recommended for pains in
 the stomach; and employed as an injection, with oil or honey, it is
 beneficial for dangerous affections of the chest and intestines.
 
-
-
-
-CHAP. 93.—BLITE: SIX REMEDIES.
-
+## Chap. 93.—blite: Six Remedies
 
 Blite[1752] seems to be a plant of an inert nature, without flavour or
 any pungency whatever; hence it is that, in Menander, we find husbands
@@ -11354,11 +10329,7 @@ used as a liniment for corns on the feet, and, with oil, for affections
 of the spleen and pains in the temples. Hippocrates is of opinion, that
 if taken with the food,[1755] it will arrest the menstrual discharge.
 
-
-
-
-CHAP. 94. (23.)—MEUM, AND MEUM ATHAMANTICUM: SEVEN REMEDIES.
-
+## Chap. 94. (23.)—meum, and Meum Athamanticum: Seven Remedies
 
 Meum[1756] is never cultivated in Italy except by medical men, and
 by very few of those. There are two varieties of it, the finer kind
@@ -11377,11 +10348,7 @@ of the bladder: applied with honey to the region of the uterus, it
 acts as a diuretic; and used as a liniment with parsley, upon the lower
 regions of the abdomen in infants, it has a similar effect.
 
-
-
-
-CHAP. 95.—FENNEL: TWENTY-TWO REMEDIES.
-
+## Chap. 95.—fennel: Twenty-Two Remedies
 
 Fennel has been rendered famous by the serpent, which tastes it,
 as already[1758] stated, when it casts its old skin, and sharpens
@@ -11395,11 +10362,7 @@ from the tear-like drops which exude[1759] from the stalk and the seed
 fresh-gathered. The juice is extracted, also, from incisions made in
 the root at the first germination of the plant.
 
-
-
-
-CHAP. 96.—HIPPOMARATHRON, OR MYRSINEUM: FIVE REMEDIES.
-
+## Chap. 96.—hippomarathron, or Myrsineum: Five Remedies
 
 There is, also, a wild[1760] variety of fennel, known by some persons
 as “hippomarathron,” and by others as “myrsineum;” it has a larger
@@ -11447,11 +10410,7 @@ there is nothing in existence of greater efficacy against serpents than
 hippomarathron: indeed, Nicander[1768] has ranked it by no means among
 the lowest of antidotes.
 
-
-
-
-CHAP. 97.—HEMP: NINE REMEDIES.
-
+## Chap. 97.—hemp: Nine Remedies
 
 Hemp originally grew in the forests,[1769] where it is found
 with a blacker and rougher leaf than in the other[1770] kinds.
@@ -11465,11 +10424,7 @@ in water, relaxes contractions of the joints, and cures gout and
 similar maladies. It is applied raw to burns, but it must be frequently
 changed, so as not to let it dry.
 
-
-
-
-CHAP. 98.—FENNEL-GIANT: EIGHT REMEDIES.
-
+## Chap. 98.—fennel-Giant: Eight Remedies
 
 Fennel-giant[1773] has a seed similar to that of dill. That which has
 a single stem, bifurcated[1774] at the top, is generally thought to be
@@ -11493,11 +10448,7 @@ Fennel-giant is naturally so inimical to the muræna, that the very
 touch of it even will kill that fish. Castor was of opinion that the
 juice of the root is extremely beneficial to the sight.
 
-
-
-
-CHAP. 99.—THE THISTLE OR SCOLYMOS: SIX REMEDIES.
-
+## Chap. 99.—the Thistle or Scolymos: Six Remedies
 
 We have already[1779] spoken, when treating of the garden plants, of
 the cultivation of the thistle; we may as well, therefore, not delay
@@ -11521,11 +10472,7 @@ most attention to the subject, has written to that effect. The thin
 juice, like mastich, which exudes from these plants, imparts sweetness
 to the breath.
 
-
-
-
-CHAP. 100. (24.)—THE COMPOSITION OF THERIACA.
-
+## Chap. 100. (24.)—the Composition of Theriaca
 
 But as we are now about to leave the garden plants, we will take
 this opportunity of describing a very famous preparation extracted
@@ -11544,21 +10491,17 @@ steeped in three cyathi of wine. King Antiochus[1784] the Great, it
 is said, employed this theriaca[1785] against all kinds of venomous
 animals, the asp excepted.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, one thousand,
 five hundred, and six.
-
 
 ROMAN AUTHORS QUOTED.—Cato[1786] the Censor, M. Varro,[1787] Pompeius
 Lenæus,[1788] C. Valgius,[1789] Hyginus,[1790] Sextius Niger[1791] who
 wrote in Greek, Julius Bassus[1792] who wrote in Greek, Celsus,[1793]
 Antonius Castor.[1794]
 
-
 FOREIGN AUTHORS QUOTED.—Democritus,[1795] Theophrastus,[1796]
 Orpheus,[1797] Menander[1798] who wrote the “Biochresta,”
 Pythagoras,[1799] Nicander.[1800]
-
 
 MEDICAL AUTHORS QUOTED.—Chrysippus,[1801] Diocles,[1802]
 Ophelion,[1803] Heraclides,[1804] Hicesius,[1805] Dionysius,[1806]
@@ -11572,18 +10515,11 @@ Metrodorus,[1828] Solo,[1829] Lycus,[1830] Olympias[1831] of Thebes,
 Philinus,[1832] Petrichus,[1833] Micton,[1834] Glaucias,[1835]
 Xenocrates.[1836]
 
+## Book XXI
 
+## An Account of Flowers, and Those Used for Chaplets More Particularly
 
-
-BOOK XXI.
-
-AN ACCOUNT OF FLOWERS, AND THOSE USED FOR CHAPLETS MORE PARTICULARLY.
-
-
-
-
-CHAP. 1. (1.)—THE NATURE OF FLOWERS AND GARLANDS.
-
+## Chap. 1. (1.)—the Nature of Flowers and Garlands
 
 Cato has recommended that flowers for making chaplets should also be
 cultivated in the garden; varieties remarkable for a delicacy which
@@ -11606,10 +10542,7 @@ assuming a circular form, now running obliquely, and now disposed
 in a spiral pattern; or whether, as we see sometimes, one wreath is
 interwoven within another.
 
-
-
-
-CHAP. 2. (2.)—GARLANDS AND CHAPLETS.
+## Chap. 2. (2.)—garlands and Chaplets
 
 The ancients used chaplets of diminutive size, called “struppi;”[1839]
 from which comes our name for a chaplet, “strophiolum.” Indeed, it was
@@ -11621,12 +10554,8 @@ they received the name of “serta,” from the verb “sero,”[1841] or else
 from our word “series.”[1842] The use[1843] of flowers for garlands is
 not so very ancient, among the Greeks even.
 
-
-
-
 CHAP. 3.—WHO INVENTED THE ART OF MAKING GARLANDS: WHEN THEY FIRST
 RECEIVED THE NAME OF “COROLLÆ,” AND FOR WHAT REASON.
-
 
 For in early times it was the usage to crown the victors in the
 sacred contests with branches of trees: and it was only at a later
@@ -11653,12 +10582,8 @@ the remarkable delicacy[1849] of their texture. In more recent times,
 again, when the chaplets presented were made of thin plates[1850] of
 copper, gilt or silvered, they assumed the name of “corollaria.”
 
-
-
-
 CHAP. 4. (3.)—WHO WAS THE FIRST TO GIVE CHAPLETS WITH LEAVES OF SILVER
 AND GOLD. LEMNISCI: WHO WAS THE FIRST TO EMBOSS THEM.
-
 
 Crassus Dives[1851] was the first who gave chaplets with artificial
 leaves of silver and gold, at the games celebrated by him. To embellish
@@ -11669,11 +10594,7 @@ lemnisci were destitute of ornament:[1853] P. Claudius Pulcher[1854]
 was the first who taught us to emboss[1855] them, and added leaves of
 tinsel to the laminæ[1856] of which the lemniscus was formed.
 
-
-
-
-CHAP. 5.—THE GREAT HONOUR IN WHICH CHAPLETS WERE HELD BY THE ANCIENTS.
-
+## Chap. 5.—the Great Honour in Which Chaplets Were Held by the Ancients
 
 Chaplets, however, were always held in a high degree of estimation,
 those even which were acquired at the public games. For it was the
@@ -11692,11 +10613,7 @@ house,[1858] and on its being carried[1859] to the tomb.
 On other occasions, chaplets were not indiscriminately worn, not even
 those which had been won in the games.
 
-
-
-
-CHAP. 6.—THE SEVERITY OF THE ANCIENTS IN REFERENCE TO CHAPLETS.
-
+## Chap. 6.—the Severity of the Ancients in Reference to Chaplets
 
 Indeed the rules upon this point were remarkably severe. L. Fulvius, a
 banker,[1860] having been accused, at the time of the Second Punic War,
@@ -11715,11 +10632,7 @@ the daughter[1864] of the late Emperor Augustus, who, in her nocturnal
 debaucheries, placed a chaplet on the statue[1865] of Marsyas, conduct
 deeply deplored in the letters of that god.[1866]
 
-
-
-
-CHAP. 7.—A CITIZEN DECKED WITH FLOWERS BY THE ROMAN PEOPLE.
-
+## Chap. 7.—a Citizen Decked with Flowers by the Roman People
 
 Scipio is the only person that ever received from the Roman people
 the honour of being decked with flowers. This Scipio received the
@@ -11731,12 +10644,8 @@ expenses of his burial; upon which the people made a subscription and
 contracted[1868] for his funeral, flowers being scattered upon the body
 from every possible quarter[1869] as it was borne along.
 
-
-
-
 CHAP. 8.—PLAITED CHAPLETS. NEEDLE-WORK CHAPLETS. NARD-LEAF CHAPLETS.
 SILKEN CHAPLETS.
-
 
 In those days, too, chaplets were employed in honour of the gods,
 the Lares, public as well as domestic, the sepulchres,[1870] and the
@@ -11754,12 +10663,8 @@ made of nard leaves, or else of silk of many colours steeped in
 unguents. Such is the pitch to which the luxuriousness of our women has
 at last arrived!
 
-
-
-
 CHAP. 9.—AUTHORS WHO HAVE WRITTEN ON FLOWERS. AN ANECDOTE RELATIVE TO
 QUEEN CLEOPATRA AND CHAPLETS.
-
 
 Among the Greeks, the physicians Mnesitheus and Callimachus have
 written separate treatises on the subject of chaplets, making mention
@@ -11797,11 +10702,7 @@ wearing chaplets, for that would be frivolous[1877] indeed; but shall
 proceed to state such particulars in relation to flowers as shall
 appear to us deserving of remark.
 
-
-
-
-CHAP. 10. (4.)—THE ROSE: TWELVE VARIETIES OF IT.
-
+## Chap. 10. (4.)—the Rose: Twelve Varieties of It
 
 The people of our country were acquainted with but very few garland
 flowers among the garden plants, and those few hardly any but the
@@ -11903,11 +10804,7 @@ Persons whose object it is to grow early roses, make a hole a foot in
 width about the root, and pour warm water into it, at the period when
 the buds are beginning to put forth.[1911]
 
-
-
-
-CHAP. 11. (5.)—THE LILY: FOUR VARIETIES OF IT.
-
+## Chap. 11. (5.)—the Lily: Four Varieties of It
 
 The lily holds the next highest rank after the rose, and has a certain
 affinity[1912] with it in respect of its unguent and the oil extracted
@@ -11945,11 +10842,7 @@ those of Antiochia and Laodicea in Syria, and next to them that of
 Phaselis.[1925] To the fourth rank belongs the flower that grows in
 Italy.
 
-
-
-
-CHAP. 12.—THE NARCISSUS: THREE VARIETIES OF IT.
-
+## Chap. 12.—the Narcissus: Three Varieties of It
 
 There is a purple[1926] lily, too, which sometimes has a double stem;
 it differs only from the other lilies in having a more fleshy root and
@@ -11963,11 +10856,7 @@ respect, except that the corolla of the plant is green. They are all of
 them late[1929] flowers: indeed, they only bloom after the setting of
 Arcturus,[1930] and at the time of the autumnal equinox.
 
-
-
-
-CHAP. 13.—HOW SEED IS STAINED TO PRODUCE TINTED FLOWERS.
-
+## Chap. 13.—how Seed Is Stained to Produce Tinted Flowers
 
 There has been invented[1931] also a method of tinting the lily,
 thanks to the taste of mankind for monstrous productions. The dried
@@ -11981,13 +10870,9 @@ purple lilies are obtained, it being a very remarkable thing that we
 should be able to dye a plant to such a degree as to make it produce a
 coloured flower.
 
-
-
-
 CHAP. 14. (6.)—HOW THE SEVERAL VARIETIES OF THE VIOLET ARE RESPECTIVELY
 PRODUCED, GROWN, AND CULTIVATED. THE THREE DIFFERENT COLOURS OF THE
 VIOLET. THE FIVE VARIETIES OF THE YELLOW VIOLET.
-
 
 Next after the roses and the lilies, the violet is held in the highest
 esteem: of this there are several varieties, the purple,[1934] the
@@ -12005,11 +10890,7 @@ but not so odoriferous; the Calatian[1939] violet, too, which has a
 smaller leaf, is entirely destitute of smell. This last is a present to
 us from the autumn, the others from the spring.
 
-
-
-
-CHAP. 15.—THE CALTHA. THE SCOPA REGIA.
-
+## Chap. 15.—the Caltha. The Scopa Regia
 
 Next to it comes the caltha, the flowers of which are of similar colour
 and size;[1940] in the number of its petals, however, it surpasses the
@@ -12019,11 +10900,7 @@ caltha being very powerful. The smell, too, is no less powerful in the
 plant known as the “scopa regia;”[1941] but there it is the leaves of
 the plant, and not the flowers, that are odoriferous.
 
-
-
-
-CHAP. 16.—THE BACCHAR. THE COMBRETUM. ASARUM.
-
+## Chap. 16.—the Bacchar. The Combretum. Asarum
 
 The bacchar,[1942] too, by some persons known as “field nard,” is
 odoriferous in the root only. In former times, it was the practice to
@@ -12045,12 +10922,8 @@ of nard. I find, too, that the name of “asaron” has been given to this
 plant, from the circumstance of its never[1947] being employed in the
 composition of chaplets.
 
-
-
-
 CHAP. 17.—SAFFRON: IN WHAT PLACES IT GROWS BEST. WHAT FLOWERS WERE
 KNOWN AT THE TIME OF THE TROJAN WAR.
-
 
 The wild saffron[1948] is the best; indeed, in Italy it is of no use
 whatever to attempt to propagate it, the produce of a whole bed of
@@ -12099,11 +10972,7 @@ fountains. (7.) Saffron was already held in high esteem in the time of
 the Trojan War; at all events, Homer,[1961] we find, makes mention of
 these three flowers, the lotus,[1962] the saffron, and the hyacinth.
 
-
-
-
-CHAP. 18.—THE NATURE OF ODOURS.
-
+## Chap. 18.—the Nature of Odours
 
 All the odoriferous[1963] substances, and consequently the plants,
 differ from one another in their colour, smell, and juices. It is but
@@ -12157,11 +11026,7 @@ Among the animals, we find none that are odoriferous, unless,
 indeed, we are inclined to put faith in what has been said about the
 panther.[1979]
 
-
-
-
-CHAP. 19.—THE IRIS.
-
+## Chap. 19.—the Iris
 
 There is still another distinction, which ought not to be omitted,—the
 fact, that many of the odoriferous plants never[1980] enter into the
@@ -12199,11 +11064,7 @@ supplied us with the best oil[1993] of iris, for there it has long been
 cultivated; at the present day, however, the best comes from Pamphylia,
 though that of Cilicia and the northern climates is held in high esteem.
 
-
-
-
-CHAP. 20.—THE SALIUNCA.
-
+## Chap. 20.—the Saliunca
 
 The saliunca[1994] has a rather short leaf, which does not admit of its
 being plaited for garlands, and numerous roots, by which it is held
@@ -12216,11 +11077,7 @@ so remarkably sweet that the crops of it have been of late quite as
 profitable as the working of a mine. This plant is particularly valued
 for the pleasant smell it imparts to clothes among which it is kept.
 
-
-
-
-CHAP. 21.—THE POLIUM, OR TEUTHRION.
-
+## Chap. 21.—the Polium, or Teuthrion
 
 It is the same, too, with the polium,[1997] a herb employed for a
 similar purpose among the Greeks, and highly extolled by Musæus and
@@ -12234,11 +11091,7 @@ persons give it the name of “teuthrion.”[2001] The leaves resemble the
 white hairs of a human being; they take their rise immediately from the
 root, and never exceed a palm in height.
 
-
-
-
-CHAP. 22. (8.)—FABRICS WHICH RIVAL THE COLOURS OF FLOWERS.
-
+## Chap. 22. (8.)—fabrics Which Rival the Colours of Flowers
 
 We have now said enough on the subject of the odoriferous flowers;
 in relation to which, luxury not only glories in having vanquished
@@ -12270,11 +11123,7 @@ common by males and females: indeed, it is the circumstance of their
 being used by both sexes in common that gives them their rank as
 principal colours.
 
-
-
-
-CHAP. 23.—THE AMARANTH.
-
+## Chap. 23.—the Amaranth
 
 There is no doubt that all the efforts of art are surpassed by
 the amaranth,[2011] which is, to speak correctly, rather a purple
@@ -12290,11 +11139,7 @@ winter chaplets. The peculiar quality of the amaranth is sufficiently
 indicated by its name, it having been so called from the circumstance
 that it never fades.[2014]
 
-
-
-
-CHAP. 24.—THE CYANOS: THE HOLOCHRYSOS.
-
+## Chap. 24.—the Cyanos: The Holochrysos
 
 The name,[2015] too, of the cyanos[2016] indicates its colour, and
 so does that of the holochrysos.[2017] None of these flowers were in
@@ -12306,11 +11151,7 @@ who can entertain any doubt that they were first introduced by the
 Greeks, from the fact that Italy has only their Greek names by which to
 designate them?
 
-
-
-
-CHAP. 25.—THE PETILIUM: THE BELLIO.
-
+## Chap. 25.—the Petilium: The Bellio
 
 But, by Hercules! it is Italy herself that has given its name to the
 petilium,[2018] an autumnal flower, which springs up in the vicinity
@@ -12327,22 +11168,14 @@ both of them, meadow flowers, which are mostly of no use whatever, and
 consequently without names: even the flowers just mentioned are known
 sometimes by one name, and sometimes by another.
 
-
-
-
-CHAP. 26.—THE CHRYSOCOME, OR CHRYSITIS.
-
+## Chap. 26.—the Chrysocome, or Chrysitis
 
 The chrysocome,[2021] or chrysitis, has no Latin appellation: it is a
 palm in height, the flowers forming clusters of a golden colour. The
 root of it is black, and it has a taste both rough and sweet: it is
 found growing in stony and umbrageous spots.
 
-
-
-
-CHAP. 27. (9.)—SHRUBS, THE BLOSSOMS OF WHICH ARE USED FOR CHAPLETS.
-
+## Chap. 27. (9.)—shrubs, the Blossoms of Which Are Used for Chaplets
 
 Having thus passed in review nearly all the best-known colours, we must
 now give our attention to the chaplets which are pleasing merely on
@@ -12356,11 +11189,7 @@ cyclaminum growing, of which we shall have to speak more at length on
 a future occasion:[2025] its flower, which reflects the hues of the
 purple of Colossæ,[2026] is used as an ingredient in chaplets.
 
-
-
-
-CHAP. 28.—SHRUBS, THE LEAVES OF WHICH ARE USED FOR CHAPLETS.
-
+## Chap. 28.—shrubs, the Leaves of Which Are Used for Chaplets
 
 The leaves, also, of smilax and ivy are employed in chaplets; indeed,
 the clusters of these plants are held in the very highest esteem for
@@ -12372,13 +11201,9 @@ nomenclature. Most of them grow in foreign countries, it is true; but
 still, it is our duty to make some mention of them, as it is of Nature
 in general that we are speaking, and not of Italy in particular.
 
-
-
-
 CHAP. 29.—THE MELOTHRON, SPIRÆA, AND ORIGANUM. THE CNEORUM OR CASSIA;
 TWO VARIETIES OF IT. THE MELISSOPHYLLUM OR MELITTÆNA. THE MELILOTE,
 OTHERWISE KNOWN AS CAMPANIAN GARLAND.
-
 
 Thus it is, that we find employed for chaplets, the leaves of the
 melothron,[2028] spiræa,[2029] origanum,[2030] cneorum,[2031] by
@@ -12394,11 +11219,7 @@ as well as the flower, closely resembles that of saffron, though the
 stem itself is white; the shorter and more fleshy the leaves, the more
 highly it is esteemed.
 
-
-
-
-CHAP. 30.—THREE VARIETIES OF TREFOIL: THE MYOPHONUM.
-
+## Chap. 30.—three Varieties of Trefoil: The Myophonum
 
 The leaves of trefoil also are employed for making chaplets. There
 are three varieties: the first being called by the Greeks sometimes
@@ -12421,12 +11242,8 @@ employed in making chaplets, one of which is destitute of seed, the
 other, which is also odoriferous, being known as the Cretan[2045]
 origanum.
 
-
-
-
 CHAP. 31.—TWO VARIETIES OF THYME. PLANTS PRODUCED FROM BLOSSOMS AND NOT
 FROM SEED.
-
 
 There are also as many varieties of thyme[2046] employed, the one
 white, the other dark:[2047] it flowers about the summer solstice, when
@@ -12458,11 +11275,7 @@ Plains[2051] are quite overgrown with thyme; this being, in fact, the
 only source of revenue to those parts, thousands of sheep[2052] being
 brought thither from distant countries to browse upon the plant.
 
-
-
-
-CHAP. 32.—CONYZA.
-
+## Chap. 32.—conyza
 
 There are two varieties of conyza, also, employed in making chaplets,
 the male[2053] plant and the female. The difference consists in the
@@ -12480,12 +11293,8 @@ exactly the smell of honey; and the root of the male has received the
 name of “libanotis” from some: we have already made mention[2054] of it
 on a previous occasion.
 
-
-
-
 CHAP. 33.—THE FLOWER OF JOVE. THE HEMEROCALLES. THE HELENIUM. THE
 PHLOX. PLANTS IN WHICH THE BRANCHES AND ROOTS ARE ODORIFEROUS.
-
 
 Of the following plants, too, it is only the leaves that are
 employed for chaplets—the flower of Jove,[2055] the amaracus,
@@ -12502,12 +11311,8 @@ esteemed. It is a shrub which throws out its tiny branches along the
 ground, some nine inches in length, with a leaf very similar to that of
 wild thyme.
 
-
-
-
 CHAP. 34.—THE ABROTONUM. THE ADONIUM: TWO VARIETIES OF IT. PLANTS WHICH
 REPRODUCE THEMSELVES. THE LEUCANTHEMUM.
-
 
 The flower of the abrotonum,[2062] which makes its appearance in
 summer, has a powerful but agreeable smell; it is of a bright golden
@@ -12524,11 +11329,7 @@ strength, they throw out branches like those of rue.
 The leucanthemum[2064] has a similar smell to that of the abrotonum: it
 is a foliated plant, with a white flower.
 
-
-
-
-CHAP. 35. (11.)—TWO VARIETIES OF THE AMARACUS.
-
+## Chap. 35. (11.)—two Varieties of the Amaracus
 
 Diocles, the physician, and the people of Sicily have given the name of
 “amaracus” to the plant known in Egypt and Syria as sampsuchum.[2065]
@@ -12541,11 +11342,7 @@ of the earth. Those of the other plants which love the shade, water,
 and manure, are generally set at the beginning of autumn, and even, in
 some localities, in spring.
 
-
-
-
-CHAP. 36.—THE NYCTEGRETON, CHENOMYCHE, OR NYCTALOPS.
-
+## Chap. 36.—the Nyctegreton, Chenomyche, or Nyctalops
 
 Democritus has regarded the nyctegreton[2066] as one of the most
 singular of plants. According to that author, it is of a dark red
@@ -12561,11 +11358,7 @@ it, geese will manifest the greatest alarm; and that by some persons,
 again, it is known as the “nyctalops,”[2069] from the light which it
 emits at a considerable distance by night.
 
-
-
-
-CHAP. 37.—WHERE THE MELILOTE IS FOUND.
-
+## Chap. 37.—where the Melilote Is Found
 
 The melilote[2070] is found growing everywhere, though that of Attica
 is held in the highest esteem. In all countries, however, it is
@@ -12573,13 +11366,9 @@ preferred when fresh gathered; that too, the colour of which is not
 white, but approaches as nearly as possible to the colour of saffron.
 In Italy, however, it is the white kind that is the most odoriferous.
 
-
-
-
 CHAP. 38.—THE SUCCESSION IN WHICH FLOWERS BLOSSOM: THE SPRING FLOWERS.
 THE VIOLET. THE CHAPLET ANEMONE. THE ŒNANTHE. THE MELANION. THE
 HELICHRYSOS. THE GLADIOLUS. THE HYACINTH.
-
 
 The first of the flowers that announce the approach of spring is the
 white[2071] violet; indeed, in warm localities, it is seen peeping out
@@ -12620,13 +11409,9 @@ takes his unguents from a box of gold, of the kind generally known
 as “apyron,”[2086] will be sure to secure esteem and glory among his
 fellowmen. Such are the flowers of spring.
 
-
-
-
 CHAP. 39.—THE SUMMER FLOWERS—THE LYCHNIS: THE TIPHYON. TWO VARIETIES
 OF THE POTHOS. TWO VARIETIES OF THE ORSINUM. THE VINCAPERVINCA OR
 CHAMÆDAPHNE—A PLANT WHICH IS AN EVER-GREEN.
-
 
 The summer flowers come next, the lychnis[2087] the flower of Jove,
 and another kind of lily,[2088] as also the tiphyon[2089] and the
@@ -12655,11 +11440,7 @@ used for the purposes of ornamental gardening, it is sometimes employed
 in chaplets when there is a deficiency of other flowers. From the
 Greeks this plant has received the name of “chamædaphne.”
 
-
-
-
-CHAP. 40.—THE DURATION OF LIFE IN THE VARIOUS KINDS OF FLOWERS.
-
+## Chap. 40.—the Duration of Life in the Various Kinds of Flowers
 
 At the very utmost, the white[2099] violet never lasts longer than
 three years: should it exceed that period, it is sure to degenerate.
@@ -12675,12 +11456,8 @@ the west winds begin to prevail, and, a second time, at the summer
 solstice: every care, however, should be paid, between these two
 periods, to keeping the ground well raked and cleaned.
 
-
-
-
 CHAP. 41. (12.)—PLANTS WHICH SHOULD BE SOWN AMONG FLOWERS FOR BEES. THE
 CERINTHA.
-
 
 Bees and beehives, too, are a subject extremely well suited to a
 description of gardens and garland plants, while, at the same time,
@@ -12702,11 +11479,7 @@ There are other trees, again, which should be planted as near the hives
 as possible, as they attract the swarm when it first wings its flight,
 and so prevent the bees from wandering to any considerable distance.
 
-
-
-
-CHAP. 42.—THE MALADIES OF BEES, AND THE REMEDIES FOR THEM.
-
+## Chap. 42.—the Maladies of Bees, and the Remedies for Them
 
 The greatest care, too, should be taken to keep the cornel[2106] at
 a distance from the hives; for if the bees once taste the blossoms
@@ -12716,11 +11489,7 @@ else human urine or that of oxen, or pomegranate seeds moistened with
 Aminean[2107] wine. It is a very good plan, too, to plant broom about
 the hives, the bees being extremely fond of the blossoms.
 
-
-
-
-CHAP. 43.—THE FOOD OF BEES.
-
+## Chap. 43.—the Food of Bees
 
 In relation to the food of bees, I have ascertained a very singular
 fact, and one that well deserves to be mentioned. There is a village,
@@ -12736,12 +11505,8 @@ withdrawn.
 (13.) In Spain, too, for the same purpose, they have the hives carried
 from place to place on the backs of mules.
 
-
-
-
 CHAP. 44.—POISONED HONEY, AND THE REMEDIES TO BE EMPLOYED BY THOSE WHO
 HAVE EATEN OF IT.
-
 
 Indeed, the food of bees is of the very greatest importance, as
 it is owing to this that we meet with poisonous[2109] honey even.
@@ -12779,11 +11544,7 @@ there is nothing better than this honey, mixed with costus,[2114]
 for softening the skin of females, or, combined with aloes, for the
 treatment of bruises.
 
-
-
-
-CHAP. 45.—MADDENING HONEY.
-
+## Chap. 45.—maddening Honey
 
 In the country of the Sanni, in the same part of Pontus, there is
 another kind of honey, which, from the madness it produces, has
@@ -12820,11 +11581,7 @@ has given to bees the same immunity from the effects of poison which
 she has granted against the attacks of serpents to the Psylli[2119] and
 the Marsi among men.
 
-
-
-
-CHAP. 46. (14.)—HONEY THAT FLIES WILL NOT TOUCH.
-
+## Chap. 46. (14.)—honey that Flies Will Not Touch
 
 Another marvellous fact, again, connected with honey in Crete. Upon
 Mount Carina in that island, which is nine miles in circuit, there
@@ -12833,11 +11590,7 @@ will touch.[2120] It is by this circumstance that honey said to have
 come from that district is usually tested, it being highly prized for
 medicinal preparations.
 
-
-
-
-CHAP. 47.—BEEHIVES, AND THE ATTENTION WHICH SHOULD BE PAID TO THEM.
-
+## Chap. 47.—beehives, and the Attention Which Should Be Paid to Them
 
 The hives ought to have an aspect due east,[2121] but never looking
 towards the north-east or the west. The best hives are those made of
@@ -12863,11 +11616,7 @@ mallow is ripening, there being no moon, but a clear sky: flambeaux
 are then lighted before the hives, upon which the moths precipitate
 themselves in swarms into the flame.
 
-
-
-
-CHAP. 48.—THAT BEES ARE SENSIBLE OF HUNGER.
-
+## Chap. 48.—that Bees Are Sensible of Hunger
 
 If it is found that the bees are in want of aliment, it will be a good
 plan to place at the entrance of the hive raisins or dried figs beaten
@@ -12884,11 +11633,7 @@ taking to flight. It is recommended, too, that the honey-pots and combs
 should be washed with water: this water, boiled, it is said, will make
 an extremely wholesome vinegar.[2131]
 
-
-
-
-CHAP. 49.—THE METHOD OF PREPARING WAX. THE BEST KINDS OF WAX. PUNIC WAX.
-
+## Chap. 49.—the Method of Preparing Wax. The Best Kinds of Wax. Punic Wax
 
 Wax is made[2132] from the honeycombs after the honey has been
 extracted. For this purpose, they are first cleaned with water, and
@@ -12932,14 +11677,10 @@ to bees and honey, when speaking[2141] of the nature of those insects.
 We have now stated pretty nearly all that we have to say on the subject
 of the pleasure garden.
 
-
-
-
 CHAP. 50. (15.)—PLANTS WHICH GROW SPONTANEOUSLY: THE USE MADE OF THEM
 BY VARIOUS NATIONS, THEIR NATURE, AND REMARKABLE FACTS CONNECTED WITH
 THEM. THE STRAWBERRY, THE TAMNUS, AND THE BUTCHER’S BROOM. THE BATIS,
 TWO VARIETIES OF IT. THE MEADOW PARSNIP. THE HOP.
-
 
 We now come to the plants which grow spontaneously, and which are
 employed as an aliment by most nations, the people of Egypt in
@@ -12955,11 +11696,7 @@ some persons as Gallic asparagus; in addition to which we may mention
 the meadow parsnip[2147] and the hop,[2148] which may be rather termed
 amusements for the botanist than articles of food.
 
-
-
-
-CHAP. 51.—THE COLOCASIA.
-
+## Chap. 51.—the Colocasia
 
 But the plant of this nature that is the most famous in Egypt is the
 colocasia,[2149] known as the “cyamos”[2150] to some. It is gathered
@@ -12975,9 +11712,6 @@ colocasia with such skill as to make vessels of various shapes, which
 they are extremely fond of using for drinking vessels. At the present
 day, however, this plant is cultivated in Italy.[2155]
 
-
-
-
 CHAP. 52.—THE CICHORIUM. THE ANTHALIUM OR ANTICELLIUM, OR ANTHYLLUM.
 THE ŒTUM. THE ARACHIDNA. THE ARACOS. THE CANDRYALA. THE HYPOCHŒRIS. THE
 CAUCALIS. THE ANTHRISCUM. THE SCANDIX. THE TRAGOPOGON. THE PARTHENIUM
@@ -12985,7 +11719,6 @@ OR LEUCANTHES, AMARACUS, PERDICIUM, OR MURALIS. THE TRYCHNUM OR
 STRYCHNUM, HALICACABUM, CALLIAS, DORYCNION, MANICON, PERITTON, NEURAS,
 MORIO, OR MOLY. THE CORCHORUS. THE APHACE. THE ACYNOPOS. THE EPIPETRON.
 PLANTS WHICH NEVER FLOWER. PLANTS WHICH ARE ALWAYS IN FLOWER.
-
 
 In Egypt, next to the colocasia, it is the cichorium that is held in
 the highest esteem, a plant which we have already spoken[2156] of
@@ -13014,11 +11747,7 @@ flowers die, from time to time puts forth fresh ones, and remains[2176]
 in blossom throughout the winter and the spring, until the following
 summer.
 
-
-
-
-CHAP. 53.—FOUR VARIETIES OF THE CNECOS.
-
+## Chap. 53.—four Varieties of the Cnecos
 
 The Egyptians have many other plants also, of little note; but they
 speak in the highest terms of the cnecos;[2177] a plant unknown to
@@ -13035,12 +11764,8 @@ be said almost to creep upon the ground; the seed is small. The cnecos
 belongs to the thorny plants: indeed, it will be as well to make some
 classification of them.
 
-
-
-
 CHAP. 54.—PLANTS OF A PRICKLY NATURE: THE ERYNGE, THE GLYCYRRIZA, THE
 TRIBULUS, THE ANONIS, THE PHEOS OR STŒBE, AND THE HIPPOPHAES.
-
 
 For some plants, in fact, are thorny, while others, again, are
 destitute of prickles: the species of thorny plants are very numerous.
@@ -13056,11 +11781,7 @@ on the leaves but on the stem, the pheos[2188] for example, known as
 the stœbe to some. The hippophaës[2189] has thorns at the joints; the
 tribulus presents the peculiarity of bearing a fruit that is thorny.
 
-
-
-
-CHAP. 55.—FOUR VARIETIES OF THE NETTLE. THE LAMIUM AND THE SCORPIO.
-
+## Chap. 55.—four Varieties of the Nettle. The Lamium and the Scorpio
 
 But of all these plants, it is the nettle that is the best known
 to us, the calyces[2190] of the blossoms of which produce a purple
@@ -13090,13 +11811,9 @@ innoxious and destitute of all stinging properties, is known as the
 “lamium.”[2197] Of the scorpio[2198] we shall have occasion to speak
 when treating of the medicinal plants.
 
-
-
-
 CHAP. 56. (16).—THE CARDUUS, THE ACORNA, THE PHONOS, THE LEUCACANTHOS,
 THE CHALCEOS, THE CNECOS, THE POLYACANTHOS, THE ONOPYXOS, THE HELXINE,
 THE SCOLYMOS, THE CHAMÆLEON, THE TETRALIX, AND ACANTHICE MASTICHE.
-
 
 The carduus[2199] has leaves and a stem covered with a prickly
 down; the same is the case, too, with the acorna,[2200] the
@@ -13130,11 +11847,7 @@ protuberance in the shape of an apple, covered with leaves of its own:
 the head of it contains a thick juice of a sweet flavour, the name
 given to which is “acanthice mastiche.”[2212]
 
-
-
-
-CHAP. 57.—THE CACTOS; THE PTERNIX, PAPPUS, AND ASCALIAS.
-
+## Chap. 57.—the Cactos; The Pternix, Pappus, and Ascalias
 
 The cactos,[2213] too, is a plant that grows only in Sicily, having
 peculiar characteristics of its own: the root throws out stalks which
@@ -13148,11 +11861,7 @@ when this is removed, as well as the rind[2216] of the fruit, it
 is tender, and like the pith of the palm: the name given to it is
 “ascalias.”
 
-
-
-
-CHAP. 58.—THE TRIBULUS: THE ANONIS.
-
+## Chap. 58.—the Tribulus: The Anonis
 
 The tribulus[2217] grows nowhere except in marshy places: though held
 in abomination elsewhere,[2218] it is employed on the banks of the
@@ -13173,12 +11882,8 @@ covered also with leaves, in form resembling a garland. It comes up
 in land that has been newly ploughed, being highly prejudicial to the
 corn, and long-lived in the extreme.
 
-
-
-
 CHAP. 59.—PLANTS CLASSIFIED ACCORDING TO THEIR STEMS: THE CORONOPUS,
 THE ANCHUSA, THE ANTHEMIS, THE PHYLLANTHES, THE CREPIS, AND THE LOTUS.
-
 
 Some, again, among the prickly plants have a stem which creeps along
 the ground, that, for instance, known as the “coronopus.”[2221] On the
@@ -13188,14 +11893,10 @@ the plants that are prickly in a less degree, the anthemis,[2223] for
 example, the phyllanthes,[2224] the anemone, and the aphace:[2225] the
 crepis,[2226] again, and the lotus,[2227] have a foliated stem.
 
-
-
-
 CHAP. 60.—PLANTS CLASSIFIED ACCORDING TO THEIR LEAVES. PLANTS WHICH
 NEVER LOSE THEIR LEAVES: PLANTS WHICH BLOSSOM A LITTLE AT A TIME: THE
 HELIOTROPIUM AND THE ADIANTUM, THE REMEDIES DERIVED FROM WHICH WILL BE
 MENTIONED IN THE FOLLOWING BOOK.
-
 
 The leaves of plants, as well as those of trees, differ from one
 another in the length of the footstalk, and in the breadth or
@@ -13210,12 +11911,8 @@ example.
 lose their leaves, the heliotropium,[2231] the adiantum[2232] and the
 polium,[2233] for instance.
 
-
-
-
 CHAP. 61.—THE VARIOUS KINDS OF EARED PLANTS: THE STANYOPS; THE
 ALOPECUROS; THE STELEPHUROS, ORTYX, OR PLANTAGO; THE THRYALLIS.
-
 
 The eared[2234] plants form another variety: among them we find the
 cynops,[2235] the alopecuros,[2236] the stelephuros,[2237] also known
@@ -13229,11 +11926,7 @@ a time. In the cichorium and similar plants, the leaves are near the
 ground, the buds springing from the root just after the rising of the
 Vergiliæ.[2242]
 
-
-
-
-CHAP. 62—THE PERDICIUM. THE ORNITHOGALE.
-
+## Chap. 62—the Perdicium. The Ornithogale
 
 It is not in Egypt only that the perdicium[2243] is eaten; it owes its
 name to the partridge,[2244] which bird is extremely fond of digging
@@ -13243,13 +11936,9 @@ half a foot in thickness, bulbous, soft, and provided with three or
 four other offsets attached to it. It is generally used boiled in
 pottage.[2246]
 
-
-
-
 CHAP. 63.—PLANTS WHICH ONLY MAKE THEIR APPEARANCE AT THE END OF A YEAR.
 PLANTS WHICH BEGIN TO BLOSSOM AT THE TOP. PLANTS WHICH BEGIN TO BLOSSOM
 AT THE LOWER PART.
-
 
 It is a remarkable thing that the herb lotus[2247] and the
 ægilops[2248] never make their appearance above ground till the end of
@@ -13258,12 +11947,8 @@ the singular peculiarity that it begins to blossom at the top, while in
 all the other plants which flower gradually, it is at the lower part
 that the blossom first makes its appearance.
 
-
-
-
 CHAP. 64.—THE LAPPA, A PLANT WHICH PRODUCES WITHIN ITSELF. THE OPUNTIA,
 WHICH THROWS OUT A ROOT FROM THE LEAF.
-
 
 In the lappa,[2250] too, which clings so tenaciously, there is this
 remarkable peculiarity, that within it there grows a flower, which does
@@ -13273,12 +11958,8 @@ the vicinity of Opus there grows a plant[2251] which is very pleasant
 eating to man, and the leaf of which, a most singular thing, gives
 birth to a root by means of which it reproduces itself.
 
-
-
-
 CHAP. 65.—THE IASIONE. THE CHONDRYLLA. THE PICRIS, WHICH REMAINS IN
 FLOWER THE WHOLE YEAR THROUGH.
-
 
 The iasione[2252] has a single leaf only, but that so folded and
 involved, as to have all the appearance of being several in number.
@@ -13287,13 +11968,9 @@ acrid taste. The aphace, too, is bitter, and so is the plant called
 “picris,”[2254] which also remains in flower the whole year through: it
 is to this bitterness that it is indebted for its name.[2255]
 
-
-
-
 CHAP. 66.—PLANTS IN WHICH THE BLOSSOM MAKES ITS APPEARANCE BEFORE THE
 STEM. PLANTS IN WHICH THE STEM APPEARS BEFORE THE BLOSSOM. PLANTS WHICH
 BLOSSOM THREE TIMES IN THE YEAR.
-
 
 The peculiarities also of the squill and saffron deserve remark; for
 while all other plants put forth their leaves first, and then a round
@@ -13304,11 +11981,7 @@ flower emerges from it. This plant blossoms three times in the year,
 indicating thereby, as previously stated,[2256] the three seasons for
 ploughing.
 
-
-
-
-CHAP. 67.—THE CYPIROS. THE THESION.
-
+## Chap. 67.—the Cypiros. The Thesion
 
 Some authors reckon among the bulbs the root of the cypiros, or
 gladiolus;[2257] it is a pleasant food, and when boiled and kneaded up
@@ -13316,11 +11989,7 @@ with bread, makes it more agreeable to the taste, and at the same time
 more weighty. Not unlike it in appearance is the plant known to us as
 the “thesion,”[2258] but it is of an acrid flavour.
 
-
-
-
-CHAP. 68.—THE ASPHODEL, OR ROYAL SPEAR. THE ANTHERICUS OR ALBUCUS.
-
+## Chap. 68.—the Asphodel, or Royal Spear. The Anthericus or Albucus
 
 Other plants of the bulbous kind differ in the leaf: that of the
 asphodel[2259] is long and narrow, that of the squill broad and supple,
@@ -13362,12 +12031,8 @@ until it turns white; but that care must be taken every day to carry it
 under cover before sunset, the night dews being very injurious to marsh
 plants when cut.
 
-
-
-
 CHAP. 69. (18.)—SIX VARIETIES OF THE RUSH: FOUR REMEDIES DERIVED FROM
 THE CYPIROS.
-
 
 Mago has likewise given similar recommendations as to the rush known to
 us as the “mariscus,”[2269] and which is so extensively employed for
@@ -13432,11 +12097,7 @@ stronger, and more robust. He states, also, that the cypiros, employed
 as a liniment with oil, is an undoubted remedy for chafing of the skin,
 and offensive odours of the arm-pits.
 
-
-
-
-CHAP. 70.—THE CYPEROS: FOURTEEN REMEDIES. THE CYPERIS. THE CYPIRA.
-
+## Chap. 70.—the Cyperos: Fourteen Remedies. The Cyperis. The Cypira
 
 The cyperos, as we have just stated, is a rush of angular shape, white
 near the ground, and black and solid at the top. The lower leaves are
@@ -13469,11 +12130,7 @@ render it extremely useful in dropsy. It is employed topically, also,
 for serpiginous ulcers, those of the throat more particularly, being
 usually applied with wine or vinegar.
 
-
-
-
-CHAP. 71.—THE HOLOSCHŒNUS.
-
+## Chap. 71.—the Holoschœnus
 
 The root of the rush, boiled down to one third in three heminæ of
 water, is a cure for cough; the seed of it, parched and taken in water,
@@ -13486,12 +12143,8 @@ I find mention made, also, of one other kind of rush, the name of which
 is “euripice;”[2286] the seed, they say, is narcotic, but the greatest
 care is necessary, not to throw the patient into a lethargy.
 
-
-
-
 CHAP. 72.—TEN REMEDIES DERIVED FROM THE SWEET-SCENTED RUSH, OR
 TEUCHITES.
-
 
 We will also take this opportunity of mentioning the medicinal
 properties of the sweet-scented rush, which is found in Cœle-Syria, as
@@ -13509,12 +12162,8 @@ of affections of the bladder. A decoction of it is used for female
 complaints; and in cases of opisthotony, it is applied in plasters with
 dry resin, these being highly valued for their warming properties.
 
-
-
-
 CHAP. 73.—REMEDIES DERIVED FROM THE FLOWERS BEFORE MENTIONED:
 THIRTY-TWO REMEDIES DERIVED FROM THE ROSE.
-
 
 The rose is of an astringent and refreshing nature. For medicinal
 purposes the petals, the flowers, and the heads are used. Those
@@ -13576,11 +12225,7 @@ on it, after which they are washed off with cold water. The little
 excrescences[2295] of the wild rose, mixed with bears’-grease,[2296]
 are a good remedy for alopecy.
 
-
-
-
-CHAP. 74.—TWENTY-ONE REMEDIES DERIVED FROM THE LILY.
-
+## Chap. 74.—twenty-One Remedies Derived from the Lily
 
 The roots of the lily[2297] ennoble that flower in manifold ways by
 their utility in a medicinal point of view. Taken in wine, they are
@@ -13605,11 +12250,7 @@ is employed as an emollient for the uterus, and is also used for the
 purpose of promoting perspirations, and for bringing suppurations to a
 head.
 
-
-
-
-CHAP. 75.—SIXTEEN REMEDIES DERIVED FROM THE NARCISSUS.
-
+## Chap. 75.—sixteen Remedies Derived from the Narcissus
 
 Two varieties of the narcissus are employed in medicine, the one
 with a purple[2300] flower, and the herbaceous narcissus.[2301] This
@@ -13632,11 +12273,7 @@ of the skin, and for warming parts of the body that have been
 frost-bitten. It is very beneficial, also, for the ears, but is very
 apt to produce head-ache.
 
-
-
-
-CHAP. 76.—SEVENTEEN REMEDIES DERIVED FROM THE VIOLET.
-
+## Chap. 76.—seventeen Remedies Derived from the Violet
 
 There are both wild and cultivated violets.[2303] The purple violet is
 of a cooling nature: for inflammations they are applied to the stomach
@@ -13661,12 +12298,8 @@ ulcerous sores of the head, and, combined with cerate,[2304] they are
 good for chaps of the fundament and other moist parts of the body.
 Employed with vinegar, they effect the cure of abscesses.
 
-
-
-
 CHAP. 77.—SEVENTEEN REMEDIES DERIVED FROM THE BACCHAR. ONE REMEDY
 DERIVED FROM THE COMBRETUM.
-
 
 The bacchar that is used in medicine is by some of our writers called
 the “perpressa.” It is very useful for the stings of serpents,
@@ -13684,11 +12317,7 @@ for the smell.[2307] The combretum which we have spoken[2308] of as
 resembling the bacchar, beaten up with axle-grease, is a marvellous
 cure for wounds.
 
-
-
-
-CHAP. 78.—EIGHT REMEDIES DERIVED FROM ASARUM.
-
+## Chap. 78.—eight Remedies Derived from Asarum
 
 It is generally stated that asarum[2309] is good for affections of the
 liver, taken in doses of one ounce to a semisextarius of honied wine
@@ -13699,11 +12328,7 @@ qualities. It is taken up as soon as it begins to put forth its leaves,
 and is dried in the shade. It is apt however to turn mouldy very
 speedily.
 
-
-
-
-CHAP. 79. (20.)—EIGHT REMEDIES DERIVED FROM GALLIC NARD.
-
+## Chap. 79. (20.)—eight Remedies Derived from Gallic Nard
 
 Some authors, as we have already[2310] stated, having given the name
 of “field nard” to the root of the bacchar, we will here mention the
@@ -13716,22 +12341,14 @@ liver or kidneys, and suffusions of the gall. Employed by itself or in
 combination with wormwood it is good for dropsy. It has the property,
 also, of arresting excessive discharges of the catamenia.
 
-
-
-
-CHAP. 80.—FOUR REMEDIES DERIVED FROM THE PLANT CALLED “PHU.”
-
+## Chap. 80.—four Remedies Derived from the Plant Called “Phu.”
 
 The root of the plant which we have mentioned in the same place under
 the name of “phu,”[2312] is given in drink, either bruised or boiled,
 in cases of hysterical suffocation, and for pains of the chest or
 sides. It acts as an emmenagogue, and is generally taken in wine.
 
-
-
-
-CHAP. 81.—TWENTY REMEDIES DERIVED FROM SAFFRON.
-
+## Chap. 81.—twenty Remedies Derived from Saffron
 
 Saffron does not blend well with honey, or, indeed, with any sweet
 substance, though very readily with wine or water: it is extremely
@@ -13749,11 +12366,7 @@ wine. The flower of it is employed topically with Cimolian[2314] chalk
 for erysipelas. It is used also in the composition of numerous other
 medicaments.
 
-
-
-
-CHAP. 82.—SYRIAN CROCOMAGNA: TWO REMEDIES.
-
+## Chap. 82.—syrian Crocomagna: Two Remedies
 
 There is also an eye-salve[2315] which is indebted to this plant for
 its name. The lees[2316] of the extract of saffron, employed in the
@@ -13762,12 +12375,8 @@ in cases of cataract and strangury. These lees are of a more warming
 nature than saffron itself; the best kind is that which, when put into
 the mouth, stains the teeth and saliva the colour of saffron.
 
-
-
-
 CHAP. 83.—FORTY-ONE REMEDIES DERIVED FROM THE IRIS: TWO REMEDIES
 DERIVED FROM THE SALIUNCA.
-
 
 The red iris is better than the white one. It is very beneficial to
 attach this plant to the bodies of infants more particularly when they
@@ -13816,11 +12425,7 @@ being, I suppose,[2320] to revive the malady which has just been cured.
 The root of the saliunca[2321] boiled in wine, arrests vomiting and
 strengthens the stomach.
 
-
-
-
-CHAP. 84.—EIGHTEEN REMEDIES DERIVED FROM THE POLIUM.
-
+## Chap. 84.—eighteen Remedies Derived from the Polium
 
 Those persons, according to Musæus and Hesiod, who are desirous
 of gaining honour and glory, should rub the body all over with
@@ -13852,12 +12457,8 @@ of the asp; it is quite as astringent too as the flower[2325] of the
 pomegranate, and as efficacious for closing wounds and preventing them
 from spreading.
 
-
-
-
 CHAP. 85.—THREE REMEDIES DERIVED FROM THE HOLOCHRYSOS. SIX REMEDIES
 DERIVED FROM THE CHRYSOCOME.
-
 
 The holochrysos,[2326] taken in wine, is a cure for strangury, and it
 is employed in liniments for defluxions of the eyes. Mixed with burnt
@@ -13868,11 +12469,7 @@ in drink for affections of the liver and lungs, and a decoction of it
 in hydromel is good for pains of the uterus. It acts as an emmenagogue
 also, and, administered raw, draws off the water in dropsy.
 
-
-
-
-CHAP. 86.—TWENTY-ONE REMEDIES DERIVED FROM MELISSOPHYLLUM.
-
+## Chap. 86.—twenty-One Remedies Derived from Melissophyllum
 
 If the bee-hives are rubbed all over with melissophyllum[2328] or
 melittæna, the bees will never desert them; for there is no flower
@@ -13892,11 +12489,7 @@ and ulcerations of the thoracic organs. For films on the eyes, it is
 considered a most excellent plan to anoint them with the juice of this
 plant mixed with honey.
 
-
-
-
-CHAP. 87.—THIRTEEN REMEDIES DERIVED PROM THE MELILOTE.
-
+## Chap. 87.—thirteen Remedies Derived Prom the Melilote
 
 The melilote,[2330] again, applied with the yolk of an egg, or else
 linseed, effects the cure of diseases of the eyes. It assuages pains,
@@ -13911,11 +12504,7 @@ raisin wine. With the addition of rose oil, it is used as a liniment
 for carcinoma. Boiled in sweet wine, it is particularly useful for the
 treatment of the ulcers known as “melicerides.”[2331]
 
-
-
-
-CHAP. 88. (21.)—FOUR REMEDIES DERIVED PROM TREFOIL.
-
+## Chap. 88. (21.)—four Remedies Derived Prom Trefoil
 
 The trefoil,[2332] I know, is generally looked upon as being
 particularly good for the stings of serpents and scorpions, the seed
@@ -13943,11 +12532,7 @@ the seed of the trefoil with an extremely diminutive leaf, applied
 in washes to the face, is extremely beneficial for preserving the
 freshness of the skin in females.
 
-
-
-
-CHAP. 89.—TWENTY-EIGHT REMEDIES DERIVED FROM THYME.
-
+## Chap. 89.—twenty-Eight Remedies Derived from Thyme
 
 Thyme[2334] should be gathered while it is in flower, and dried in the
 shade. There are two kinds of thyme: the white thyme with a ligneous
@@ -13985,11 +12570,7 @@ For maladies of the joints of recent date, thyme is administered in
 drink, in doses of three oboli to three cyathi of oxymel. For loss of
 appetite, it is given, beaten up with salt.
 
-
-
-
-CHAP. 90.—FOUR REMEDIES DERIVED FROM THE HEMEROCALLES.
-
+## Chap. 90.—four Remedies Derived from the Hemerocalles
 
 The hemerocalles[2335] has a soft, pale green leaf, with an
 odoriferous, bulbous root. This root, applied with honey to the
@@ -13997,11 +12578,7 @@ abdomen, draws off the aqueous humours and all corrupt blood. The
 leaves of it are applied for defluxions of the eyes, and for pains in
 the mamillæ, after childbirth.
 
-
-
-
-CHAP. 91.—FIVE REMEDIES DERIVED FROM THE HELENIUM.
-
+## Chap. 91.—five Remedies Derived from the Helenium
 
 The helenium, which springs, as we have already[2336] stated, from
 the tears of Helena, is generally thought to have been produced for
@@ -14017,11 +12594,7 @@ fasting in water, is good for hardness of breathing; it is white
 within, and sweet. An infusion of it is taken in wine for the stings of
 serpents; and the plant, bruised, it is said, will kill mice.
 
-
-
-
-CHAP. 92.—TWENTY-TWO REMEDIES DERIVED FROM THE ABROTONUM.
-
+## Chap. 92.—twenty-Two Remedies Derived from the Abrotonum
 
 We find two varieties of abrotonum[2338] mentioned, the field, and
 the mountain kind; this last, it is generally understood, is the
@@ -14051,12 +12624,8 @@ pillow, will act as an aphrodisiac, and that it is of the very greatest
 efficacy against all those charms and spells by which impotence is
 produced.
 
-
-
-
 CHAP. 93. (22.)—ONE REMEDY DERIVED FROM THE LEUCANTHEMUM. NINE REMEDIES
 DERIVED FROM THE AMARACUS.
-
 
 The leucanthemum,[2341] mixed with two-thirds of vinegar, is curative
 of asthma. The sampsuchum or amaracus,[2342]—that of Cyprus being
@@ -14073,11 +12642,7 @@ softening the sinews; it has a warming effect, also, upon the uterus.
 The leaves are good for bruises, beaten up with honey, and, mixed with
 wax, for sprains.
 
-
-
-
-CHAP. 94. (23.)—TEN REMEDIES DERIVED FROM THE ANEMONE OR PHRENION.
-
+## Chap. 94. (23.)—ten Remedies Derived from the Anemone or Phrenion
 
 We have as yet spoken[2343] only of the anemone used for making
 chaplets; we will now proceed to describe those kinds which are
@@ -14119,11 +12684,7 @@ body of any animated being,[2350] produces an ulcer there by the agency
 of its acrid qualities; hence it is that it is so much employed as a
 detergent for ulcerous sores.
 
-
-
-
-CHAP. 95. (24.)—SIX REMEDIES DERIVED FROM THE ŒNANTHE.
-
+## Chap. 95. (24.)—six Remedies Derived from the Œnanthe
 
 The œnanthe[2351] is a plant which is found growing upon rocks, has
 the leaf of the parsnip, and a large root with numerous fibres. The
@@ -14132,11 +12693,7 @@ delivery and bring away the after-birth: taken with honey, also, they
 are a cure for cough, and act as a powerful diuretic. The root of this
 plant is curative of diseases of the bladder.
 
-
-
-
-CHAP. 96. (25.)—ELEVEN REMEDIES DERIVED FROM THE HELICHRYSOS.
-
+## Chap. 96. (25.)—eleven Remedies Derived from the Helichrysos
 
 The helichrysos is by some persons called the “chrysanthemon.”[2352]
 It has small, white branches, with leaves of a whitish colour, similar
@@ -14155,11 +12712,7 @@ menstrual discharge when in excess.
 The smell of this plant is far from disagreeable, and hence it is kept
 with clothes, to protect them from the attacks of vermin.
 
-
-
-
-CHAP. 97. (26.)—EIGHT REMEDIES DERIVED FROM THE HYACINTH.
-
+## Chap. 97. (26.)—eight Remedies Derived from the Hyacinth
 
 The hyacinth[2353] grows in Gaul more particularly, where it is
 employed for the dye called “hysginum.”[2354] The root of it is
@@ -14170,11 +12723,7 @@ gripings of the stomach, and of the bites of spiders, and it acts as a
 diuretic. The seed is administered, with abrotonum, for the stings of
 serpents and scorpions, and for jaundice.
 
-
-
-
-CHAP. 98.—SEVEN REMEDIES DERIVED FROM THE LYCHNIS.
-
+## Chap. 98.—seven Remedies Derived from the Lychnis
 
 The seed of the lychnis,[2356] too, which is just the colour of fire,
 is beaten up and taken in drink for the stings of serpents, scorpions,
@@ -14186,11 +12735,7 @@ that if they so much as see it, they are struck with torpor. The people
 of Asia call the root of it “bolites,” and they say that if it is
 attached to the body it will effectually disperse albugo.[2357]
 
-
-
-
-CHAP. 99. (27.)—FOUR REMEDIES DERIVED FROM THE VINCAPERVINCA.
-
+## Chap. 99. (27.)—four Remedies Derived from the Vincapervinca
 
 The vincapervinca,[2358] too, or chamædaphne,[2359] is dried and
 pounded, and given to dropsical patients in water, in doses of one
@@ -14200,11 +12745,7 @@ drying tumours: the juice, too, is employed as a remedy for diseases of
 the ears. Applied to the regions of the stomach, this plant is said to
 be remarkably good for diarrhœa.
 
-
-
-
-CHAP. 100.—THREE REMEDIES DERIVED FROM BUTCHER’S BROOM.
-
+## Chap. 100.—three Remedies Derived from Butcher’s Broom
 
 A decoction of the root of butcher’s broom[2360] is recommended to
 be taken every other day for calculus in the bladder, strangury, and
@@ -14215,11 +12756,7 @@ generally considered, too, that there is nothing in existence more
 beneficial to the male organs than the young stalks of the plant,
 beaten up and used with vinegar.
 
-
-
-
-CHAP. 101.—TWO REMEDIES DERIVED FROM THE BATIS.
-
+## Chap. 101.—two Remedies Derived from the Batis
 
 The batis,[2361] too, relaxes the bowels, and, beaten up raw, it is
 employed topically for the gout. The people of Egypt cultivate the
@@ -14228,20 +12765,12 @@ This plant would be the same thing as ocimum, were it not that the
 leaves and branches of it are rougher, and that it has a powerful
 smell. It promotes the catamenia, and acts as a diuretic.
 
-
-
-
-CHAP. 102. (28.)—TWO REMEDIES DERIVED FROM THE COLOCASIA.
-
+## Chap. 102. (28.)—two Remedies Derived from the Colocasia
 
 The colocasia,[2363] according to Glaucias, softens the acridity of
 humours of the body, and is beneficial to the stomach.
 
-
-
-
-CHAP. 103. (29.)—SIX REMEDIES DERIVED FROM THE ANTHYLLIUM OR ANTHYLLUM.
-
+## Chap. 103. (29.)—six Remedies Derived from the Anthyllium or Anthyllum
 
 The people of Egypt eat the anthalium,[2364] but I cannot find that
 they make any other use of it; but there is another plant called the
@@ -14259,12 +12788,8 @@ drachmæ. The other kind is taken in drink, with oxymel, in doses of
 four drachmæ, for indurations of the uterus, gripings of the bowels,
 and epilepsy.
 
-
-
-
 CHAP. 104. (30.)—EIGHT REMEDIES DERIVED FROM THE PARTHENIUM,
 LEUCANTHES, OR AMARACUS.
-
 
 The parthenium[2367] is by some persons called the “leucanthes,” and
 by others the “amaracus.” Celsus, among the Latin writers, gives
@@ -14282,12 +12807,8 @@ not to look back while doing so: a leaf of it should be laid beneath
 the patient’s tongue, after which it must be eaten in a cyathus of
 water.
 
-
-
-
 CHAP. 105. (31.)—EIGHT REMEDIES DERIVED FROM THE TRYCHNUM OR STRYCHNUM,
 HALICACABUM, CALLIAS, DORCYNION, MANICON, NEURAS, MORIO, OR MOLY.
-
 
 The trychnon[2369] is by some called “strychnon;” I only wish that the
 garland-makers of Egypt would never use this plant in making their
@@ -14352,11 +12873,7 @@ the very animal which kills others by striking them with torpor, is
 struck with torpor itself; hence it is, that, beaten up with oil, it
 is used as a cure for the sting of the asp.
 
-
-
-
-CHAP. 106.—SIX MEDICINES DERIVED FROM THE CORCHORUS.
-
+## Chap. 106.—six Medicines Derived from the Corchorus
 
 The corchorus[2378] is a plant which is used at Alexandria as an
 article of food: the leaves of it are rolled up, one upon the other,
@@ -14366,11 +12883,7 @@ freckles. I find it stated also, that it cures the scab in cattle very
 rapidly: and, according to Nicander,[2379] it is a remedy for the
 stings of serpents, if gathered before it blossoms.
 
-
-
-
-CHAP. 107.—THREE REMEDIES DERIVED FROM THE CNECOS.
-
+## Chap. 107.—three Remedies Derived from the Cnecos
 
 There would be no necessity to speak at any length of the cnecos or
 atractylis,[2380] an Egyptian plant, were it not for the fact that it
@@ -14379,23 +12892,15 @@ as also in cases of poisoning by fungi. It is a well-known fact, that
 persons, when stung by the scorpion, are not sensible of any painful
 effects so long as they hold this plant in their hand.
 
-
-
-
-CHAP. 108. (33.)—ONE REMEDY DERIVED FROM THE PESOLUTA.
-
+## Chap. 108. (33.)—one Remedy Derived from the Pesoluta
 
 The Egyptians also cultivate the pesoluta[2381] in their gardens, for
 chaplets. There are two kinds of this plant, the male and the female:
 either of them, it is said, placed beneath the person, when in bed,
 acts as an antaphrodisiac, upon the male sex more particularly.
 
-
-
-
 CHAP. 109. (34.)—AN EXPLANATION OF GREEK TERMS RELATIVE TO WEIGHTS AND
 MEASURES.
-
 
 As we have occasion to make use of Greek names very frequently when
 speaking of weights and measures,[2382] I shall here subjoin, once for
@@ -14409,10 +12914,8 @@ spoken of, it is the same as one fourth part of a hemina, or fifteen
 drachmæ in weight. The Greek mna, or, as we more generally call it,
 “mina,” equals one hundred Attic drachmæ in weight.
 
-
 SUMMARY.—Remedies, narratives, and observations, seven hundred and
 thirty.
-
 
 ROMAN AUTHORS QUOTED.—Cato the Censor,[2383] M. Varro,[2384]
 Antias,[2385] Cæpio,[2386] Vestinus,[2387] Vibius Rufus,[2388]
@@ -14421,12 +12924,10 @@ Cornelius Celsus,[2392] Calpurnius Bassus,[2393] C. Valgius,[2394]
 Licinius Macer,[2395] Sextius Niger[2396] who wrote in Greek, Julius
 Bassus[2397] who wrote in Greek, Antonius Castor.[2398]
 
-
 FOREIGN AUTHORS QUOTED.—Theophrastus,[2399] Democritus,[2400]
 Orpheus,[2401] Pythagoras,[2402] Mago,[2403] Menander[2404] who wrote
 the Biochresta, Nicander,[2405] Homer, Hesiod,[2406] Musæus,[2407]
 Sophocles,[2408] Anaxilaüs.[2409]
-
 
 MEDICAL AUTHORS QUOTED.—Mnesitheus[2410] who wrote on Chaplets,
 Callimachus[2411] who wrote on Chaplets, Phanias[2412] the physician,
@@ -14438,24 +12939,16 @@ Dieuches,[2427] Cleophantus,[2428] Philistio,[2429] Asclepiades,[2430]
 Crateuas,[2431] Petronius Diodotus,[2432] Iollas,[2433]
 Erasistratus,[2434] Diagoras,[2435] Andreas,[2436] Mnesides,[2437]
 
-
 Epicharmus,[2438] Damion,[2439] Dalion,[2440] Sosimenes,[2441]
 Tlepolemus,[2442] Metrodorus,[2443] Solo,[2444] Lycus,[2445]
 Olympias[2446] of Thebes, Philinus,[2447] Petrichus,[2448]
 Micton,[2449] Glaucias,[2450] Xenocrates.[2451]
 
+## Book XXII
 
+## The Properties of Plants and Fruits
 
-
-BOOK XXII.
-
-THE PROPERTIES OF PLANTS AND FRUITS.
-
-
-
-
-CHAP. 1.—THE PROPERTIES OF PLANTS.
-
+## Chap. 1.—the Properties of Plants
 
 Nature and the earth might have well filled the measure of our
 admiration, if we had nothing else to do but to consider the properties
@@ -14470,11 +12963,7 @@ properties of those which remain to be described, furnish us with
 abundant proof that nothing has been created by Nature without some
 purpose to fulfil, unrevealed to us though it may be.
 
-
-
-
-CHAP. 2. (1.)—PLANTS USED BY NATIONS FOR THE ADORNMENT OF THE PERSON.
-
+## Chap. 2. (1.)—plants Used by Nations for the Adornment of the Person
 
 I remark, in the first place, that there are some foreign nations
 which, in obedience to long-established usage, employ certain plants
@@ -14488,12 +12977,8 @@ of Britain are in the habit of staining the body all over, when taking
 part in the performance of certain sacred rites; rivalling hereby the
 swarthy hue of the Æthiopians, they go in a state of nature.
 
-
-
-
 CHAP. 3. (2.)—EMPLOYMENT OF PLANTS FOR DYEING. EXPLANATION OF THE TERMS
 SAGMEN, VERBENA, AND CLARIGATIO.
-
 
 We know, too, that from plants are extracted admirable colours for
 dyeing; and, not to mention the berries[2456] of Galatia,[2457] Africa,
@@ -14535,11 +13020,7 @@ of clarigation, or, in other words, with the object of _clearly_[2466]
 demanding restitution of property that had been carried off, one of
 these officers was always known as the “verbenarius.”[2467]
 
-
-
-
-CHAP. 4. (3.)—THE GRASS CROWN: HOW RARELY IT HAS BEEN AWARDED.
-
+## Chap. 4. (3.)—the Grass Crown: How Rarely It Has Been Awarded
 
 Of all the crowns with which, in the days of its majesty, the
 all-sovereign people, the ruler of the earth, recompensed the valour
@@ -14575,11 +13056,7 @@ surrendered[2471] their native soil, the land that had nurtured them,
 and the very right even there to be interred—a usage which, to my own
 knowledge, still exists among the nations of Germany.[2472]
 
-
-
-
-CHAP. 5. (5.)—THE ONLY PERSONS THAT HAVE BEEN PRESENTED WITH THIS CROWN.
-
+## Chap. 5. (5.)—the Only Persons that Have Been Presented with This Crown
 
 L. Siccius Dentatus[2473] was presented with this crown but once,
 though he gained as many as fourteen civic crowns, and fought one
@@ -14610,11 +13087,7 @@ a citizen by the hands of the state itself, and, another remarkable
 distinction, the only one that has ever been conferred by the whole of
 Italy united.
 
-
-
-
-CHAP. 6. (6.)—THE ONLY CENTURION THAT HAS BEEN THUS HONOURED.
-
+## Chap. 6. (6.)—the Only Centurion that Has Been Thus Honoured
 
 In addition to the persons already mentioned, the honour of this
 crown has been awarded to M. Calpurnius Flamma,[2479] then a military
@@ -14654,11 +13127,7 @@ consulship[2486] of M. Cicero the Younger, the civic crown being looked
 upon as not commensurate with his deserts. Beyond these, I do not find
 any one mentioned as having been rewarded with this honour.
 
-
-
-
-CHAP. 7.—REMEDIES DERIVED FROM OTHER CHAPLET PLANTS.
-
+## Chap. 7.—remedies Derived from Other Chaplet Plants
 
 No plant[2487] in particular was employed in the composition of this
 crown, such only being used as were found growing on the spot so
@@ -14709,11 +13178,7 @@ save and protect the remedies which they afford to man. Thus we see,
 the very qualities even which we hold in such aversion, have been
 devised by Nature for the benefit and advantage of mankind.
 
-
-
-
-CHAP. 8. (7.)—THE ERYNGE OR ERYNGIUM.
-
+## Chap. 8. (7.)—the Erynge or Eryngium
 
 In the first rank of the plants armed with prickles, the erynge[2494]
 or eryngion stands pre-eminent, a vegetable production held in high
@@ -14736,11 +13201,7 @@ in rugged and craggy localities. It grows, too, on the sea-shore, in
 which case it is tougher and darker than usual, the leaf resembling
 that of parsley.[2499]
 
-
-
-
-CHAP. 9. (8.)—THE ERYNGIUM, CALLED CENTUM CAPITA: THIRTY REMEDIES.
-
+## Chap. 9. (8.)—the Eryngium, Called Centum Capita: Thirty Remedies
 
 The white variety of the eryngium is known in our language as the
 “centum capita.”[2500] It has all the properties above-mentioned,
@@ -14773,22 +13234,14 @@ in combination with rain water, for all kinds of maladies of the neck.
 They say too, that, attached as an amulet to the person, it is a cure
 for albugo.[2504]
 
-
-
-
-CHAP. 10. (9.)—THE ACANOS; ONE REMEDY.
-
+## Chap. 10. (9.)—the Acanos; One Remedy
 
 There are some authors, too, who make the acanos[2505] to be a
 species of eryngium. It is a thorny plant, stunted, and spreading,
 with prickles of a considerable size. Applied topically, they say, it
 arrests hæmorrhage in a most remarkable degree.
 
-
-
-
-CHAP. 11.—THE GLYCYRRHIZA OR ADIPSOS: FIFTEEN REMEDIES.
-
+## Chap. 11.—the Glycyrrhiza or Adipsos: Fifteen Remedies
 
 Other authors, again, have erroneously taken the glycyrrhiza[2506] to
 be a kind of eryngium: it will, therefore, be as well to take this
@@ -14824,11 +13277,7 @@ drachmæ, mixed with pepper in one hemina of water. Chewed, and applied
 to wounds, it arrests hæmorrhage:[2518] some authors have asserted,
 also, that it expels calculi of the bladder.
 
-
-
-
-CHAP. 12. (10.)—TWO VARIETIES OF THE TRIBULUS; TWELVE REMEDIES.
-
+## Chap. 12. (10.)—two Varieties of the Tribulus; Twelve Remedies
 
 Of the two[2519] kinds of tribulus, the one is a garden plant, the
 other grows in rivers only. There is a juice extracted from them which
@@ -14847,22 +13296,14 @@ scrofulous sores: and the seed, used as an amulet, allays the pains
 attendant upon varicose veins: pounded and mixed with water, it
 destroys fleas.
 
-
-
-
-CHAP. 13. (11.)—THE STŒBE OR PHEOS.
-
+## Chap. 13. (11.)—the Stœbe or Pheos
 
 The stœbe,[2523] by some persons known as the “pheos,” boiled in wine,
 is particularly good for the cure of suppurations of the ears, and for
 extravasations of blood in the eyes from the effects of a blow. It is
 employed also in injections for hæmorrhage and dysentery.
 
-
-
-
-CHAP. 14. (12.)—TWO VARIETIES OF THE HIPPOPHAES: TWO REMEDIES.
-
+## Chap. 14. (12.)—two Varieties of the Hippophaes: Two Remedies
 
 The hippophaes[2524] grows in sandy soils, and on the sea-shore. It
 is a plant with white thorns, and covered with clusters, like the
@@ -14886,11 +13327,7 @@ their various maladies, and the times at which they are likely to be in
 requisition: hence it is that there is no class of beings, no season,
 and, so to speak, no day, that is without its remedy.
 
-
-
-
-CHAP. 15. (13.)—THE NETTLE: SIXTY-ONE REMEDIES.
-
+## Chap. 15. (13.)—the Nettle: Sixty-One Remedies
 
 What plant can there possibly be that is more an object of our aversion
 than the nettle?[2527] And yet, in addition to the oil which we have
@@ -14956,11 +13393,7 @@ particular: this last, taken in wine, has the additional property of
 removing leprous spots on the face. When animals refuse to couple, it
 is recommended to rub the sexual organs with nettles.[2540]
 
-
-
-
-CHAP. 16. (14.)—THE LAMIUM: SEVEN REMEDIES.
-
+## Chap. 16. (14.)—the Lamium: Seven Remedies
 
 The variety of nettle, too, which we have already[2541] spoken of under
 the name of “lamium,”[2542] the most innoxious of them all, the leaves
@@ -14980,11 +13413,7 @@ leaves, mixed with stale axle-grease, will disperse scrofulous sores,
 or if they suppurate, cauterize them and cause them to fill up with new
 flesh.
 
-
-
-
-CHAP. 17. (15.)—THE SCORPIO, TWO KINDS OF IT: ONE REMEDY.
-
+## Chap. 17. (15.)—the Scorpio, Two Kinds of It: One Remedy
 
 The scorpio[2544] has received its appellation from the animal of that
 name, in consequence of the resemblance of its seeds to a scorpion’s
@@ -14995,12 +13424,8 @@ similar properties; it is destitute of leaves, has a stem like that of
 asparagus,[2547] and a sharp point at the top, to which it owes its
 appellation.
 
-
-
-
 CHAP. 18. (16.)—THE LEUCACANTHA, PHYLLOS, ISCHIAS, OR POLYGONATOS: FOUR
 REMEDIES.
-
 
 The leucacantha,[2548] known also as the phyllos, ischias, or
 polygonatos,[2549] has a root like that of the cypirus, which, when
@@ -15009,11 +13434,7 @@ sides and loins, according to Hicesius, the seed or juice being taken
 in drink, in doses of eight drachmæ.—This plant is employed also for
 the cure of ruptures and convulsions.
 
-
-
-
-CHAP. 19. (17).—THE HELXINE: TWELVE REMEDIES.
-
+## Chap. 19. (17).—the Helxine: Twelve Remedies
 
 The helxine[2551] is called by some, “perdicium,” from the circumstance
 of its forming the principal food of partridges.[2552] Other persons,
@@ -15036,12 +13457,8 @@ instance; and, in combination with rose oil, it is useful for varicose
 veins. It is employed topically for the gout, with goat suet and
 Cyprian wax.
 
-
-
-
 CHAP. 20.—THE PERDICIUM, PARTHENIUM, URCEOLARIS, OR ASTERCUM: ELEVEN
 REMEDIES.
-
 
 The perdicium or parthenium[2559]—for[2560] the sideritis is, in
 reality, a different plant—is known to the people of our country as
@@ -15063,12 +13480,8 @@ dream. Hence it is that it was first called “parthenium,”[2564] and was
 consecrated to that goddess. It is this slave of whom there is a famous
 statue in molten bronze, well known as the Splanchnoptes.[2565]
 
-
-
-
 CHAP. 21. (18.)—THE CHAMÆLEON, IXIAS, ULOPHONON, OR CYNOZOLON; TWO
 VARIETIES OF IT: TWELVE REMEDIES.
-
 
 The chamæleon[2566] is spoken of as the “ixias,” by some authors. There
 are two species of this plant; the white kind has a rougher leaf than
@@ -15111,21 +13524,13 @@ offensive smell. These plants produce also a viscus, which is a most
 excellent remedy for ulcers. The roots of all the different kinds are
 an antidote to the sting of the scorpion.
 
-
-
-
-CHAP. 22. (19.)—THE CORONOPUS.
-
+## Chap. 22. (19.)—the Coronopus
 
 The coronopus[2576] is an elongated plant, with fissures in the leaves.
 It is sometimes cultivated, as the root, roasted in hot ashes, is found
 to be an excellent remedy for cœliac complaints.
 
-
-
-
-CHAP. 23. (20.)—THE ANCHUSA: FOURTEEN REMEDIES.
-
+## Chap. 23. (20.)—the Anchusa: Fourteen Remedies
 
 The root of the anchusa,[2577] too, is made use of, a plant a finger in
 thickness. It is split into leaves like the papyrus, and when touched
@@ -15143,11 +13548,7 @@ applied topically for sprains; and taken in honied wine, in doses of
 two drachmæ, they arrest looseness of the bowels.[2579] A decoction of
 the root in water, it is said, kills fleas.
 
-
-
-
-CHAP. 24.—THE PSEUDOANCHUSA, ECHIS, OR DORIS: THREE REMEDIES.
-
+## Chap. 24.—the Pseudoanchusa, Echis, or Doris: Three Remedies
 
 There is another plant, similar to the preceding one, and hence
 known as the “pseudoanchusa,”[2580] though by some it is called
@@ -15165,12 +13566,8 @@ with the left hand, it being mentioned at the same time for whom they
 are being gathered: after which, they are to be worn as an amulet,
 attached to the person, for the cure of tertian fevers.[2582]
 
-
-
-
 CHAP. 25. (21.)—THE ONOCHILON, ARCHEBION, ONOCHELIS, RHEXIA, OR
 ENCHRYSA: THIRTY REMEDIES.
-
 
 There is another plant, too, the proper name of which is
 “onochilon,”[2583] but which some people call “anchusa,” others
@@ -15195,12 +13592,8 @@ flower, and somewhat smaller. It is applied to the same uses as the
 other; it is asserted, too, that if it is chewed, and then spit out
 upon a serpent, it will cause its instantaneous death.
 
-
-
-
 CHAP. 26.—THE ANTHEMIS, LEUCANTHEMIS, LEUCANTHEMUM, CHAMÆMELUM, OR
 MELANTHIUM; THREE VARIETIES OF IT: ELEVEN REMEDIES.
-
 
 The anthemis has been highly extolled by Asclepiades. Some persons
 call it “leucanthemis,”[2585] some leucanthemum, others, again,
@@ -15228,11 +13621,7 @@ of which are somewhat larger than those of the other kinds. Some
 persons, and with strict propriety, give to this last the name of
 “eranthemis.”
 
-
-
-
-CHAP. 27.—THE LOTUS PLANT: FOUR REMEDIES.
-
+## Chap. 27.—the Lotus Plant: Four Remedies
 
 Those who think that the lotus is nothing but a tree only, can easily
 be refuted, if upon the authority of Homer[2592] only; for that poet
@@ -15241,11 +13630,7 @@ to the pleasures of the gods. The leaves of this plant,[2593] mixed
 with honey, disperse the marks of sores, argema,[2594] and films upon
 the eyes.
 
-
-
-
-CHAP. 28.—THE LOTOMETRA: TWO REMEDIES.
-
+## Chap. 28.—the Lotometra: Two Remedies
 
 The lotometra[2595] is a cultivated lotus; with the seed of it, which
 resembles millet, the shepherds in Egypt make a coarse bread, which
@@ -15257,12 +13642,8 @@ it as a diet are never attacked by dysentery, tenesmus, or other
 affections of the bowels; hence it is, that this plant is reckoned
 among the remedies for that class of diseases.
 
-
-
-
 CHAP. 29.—THE HELIOTROPIUM, HELIOSCOPIUM, OR VERRUCARIA: TWELVE
 REMEDIES. THE HELIOTROPIUM, TRICOCCUM, OR SCORPIURON: FOURTEEN REMEDIES.
-
 
 We have spoken more than once[2596] of the marvels of the heliotropium,
 which turns[2597] with the sun, in cloudy weather even, so great is its
@@ -15324,12 +13705,8 @@ in the heliotropium for a quartan, and three for a tertian fever, at
 the same time offering a prayer that he may recover to untie them, the
 plant being left in the ground meanwhile.
 
-
-
-
 CHAP. 30.—THE ADIANTUM, CALLITRICHOS, TRICHOMANES, POLYTRICHOS, OR
 SAXIFRAGUM; TWO VARIETIES OF IT: TWENTY-EIGHT REMEDIES.
-
 
 Equally marvellous, too, in other respects, is the adiantum;[2613] it
 is green in summer, never dies in the winter, manifests an aversion
@@ -15384,11 +13761,7 @@ general belief that partridges and cocks are rendered more pugnacious
 if this plant is mixed with their food; and it is looked upon as
 particularly beneficial for cattle.
 
-
-
-
-CHAP. 31. (22.)—THE PICRIS; ONE REMEDY. THE THESION; ONE REMEDY.
-
+## Chap. 31. (22.)—the Picris; One Remedy. The Thesion; One Remedy
 
 The picris[2621] derives its name from its intense bitterness, as we
 have previously stated. The leaf of it is round; it is remarkably
@@ -15397,11 +13770,7 @@ efficacious for the removal of warts.
 The thesium,[2622] too, has a bitterness not unlike it: it is a
 powerful purgative, for which purpose it is employed bruised in water.
 
-
-
-
-CHAP. 32.—THE ASPHODEL; FIFTY-ONE REMEDIES.
-
+## Chap. 32.—the Asphodel; Fifty-One Remedies
 
 The asphodel[2623] is one of the most celebrated of all the plants,
 so much so, indeed, that by some persons it has been called
@@ -15471,11 +13840,7 @@ been lost by ulcerations or scab. It has the effect, too, of driving
 away rats and mice, and of exterminating them, if placed before their
 holes.
 
-
-
-
-CHAP. 33.—THE HALIMON: FOURTEEN REMEDIES.
-
+## Chap. 33.—the Halimon: Fourteen Remedies
 
 Some authors have thought that it is the asphodel that is called
 “halimon” by Hesiod, an opinion which appears to me ill-founded;
@@ -15510,11 +13875,7 @@ and grows beneath the ivy more particularly. He states that this plant
 is extremely good for opisthotony and contractions of the sinews, taken
 in doses of three oboli to one sextarius of water.
 
-
-
-
-CHAP. 34.—THE ACANTHUS, PÆDEROS, OR MELAMPHYLLOS: FIVE REMEDIES.
-
+## Chap. 34.—the Acanthus, Pæderos, or Melamphyllos: Five Remedies
 
 The acanthus[2638] is a plant that grows in cities, and is used in
 ornamental gardening. It has a broad, long leaf, and is used as
@@ -15528,11 +13889,7 @@ particularly, it is equally good for ruptures, spasms, and patients who
 are in apprehension of phthisis. The root is also beaten up and applied
 warm for hot gout.
 
-
-
-
-CHAP. 35.—THE BUPLEURON: FIVE REMEDIES.
-
+## Chap. 35.—the Bupleuron: Five Remedies
 
 The bupleuron[2644] is reckoned by the Greeks in the number of the
 leguminous plants which grow spontaneously. The stem of it is a cubit
@@ -15545,11 +13902,7 @@ The leaves, also, in combination with salt and wine, are applied to
 scrofulous sores. The root is prescribed in wine for the stings of
 serpents, and as a diuretic.
 
-
-
-
-CHAP. 36.—THE BUPRESTIS: ONE REMEDY.
-
+## Chap. 36.—the Buprestis: One Remedy
 
 With a remarkable degree of inconsistency, the Greek writers, while
 praising the buprestis[2645] as an aliment, point out certain
@@ -15563,11 +13916,7 @@ it only to please the libidinous fancies of those who imagine that
 there is not a more powerful aphrodisiac in existence than this, when
 taken in drink?
 
-
-
-
-CHAP. 37.—THE ELAPHOBOSCON: NINE REMEDIES.
-
+## Chap. 37.—the Elaphoboscon: Nine Remedies
 
 The elaphoboscon[2648] is a ferulaceous plant, articulated, and about
 a finger in thickness. The seed of it is like that of dill, hanging in
@@ -15585,11 +13934,7 @@ wanted for this purpose, it must be dried first, so as to retain none
 of the juice; though, on the other hand, this juice does not at all
 impair its efficacy as an antidote to the poison of serpents.
 
-
-
-
-CHAP. 38.—THE SCANDIX: NINE REMEDIES. THE ANTHRISCUM: TWO REMEDIES.
-
+## Chap. 38.—the Scandix: Nine Remedies. The Anthriscum: Two Remedies
 
 The scandix,[2651] too, is reckoned by the Greeks in the number of the
 wild vegetables, as we learn from Opion and Erasistratus. Boiled, it
@@ -15607,11 +13952,7 @@ virtue is that it reinvigorates the body when exhausted by sexual
 excesses, and acts as a stimulant upon the enfeebled powers of old age.
 It arrests leucorrhœa in females.
 
-
-
-
-CHAP. 39.—THE IASIONE: FOUR REMEDIES.
-
+## Chap. 39.—the Iasione: Four Remedies
 
 The iasione,[2655] which is also looked upon as a wild vegetable, is a
 creeping plant, full of a milky juice: it bears a white flower, the
@@ -15622,11 +13963,7 @@ women. It is salutary also for patients who are apprehensive of
 phthisis; and, applied to the head of infants, it makes the hair grow,
 and renders the scalp more firm.
 
-
-
-
-CHAP. 40.—THE CAUCALIS: TWELVE REMEDIES.
-
+## Chap. 40.—the Caucalis: Twelve Remedies
 
 The caucalis,[2656] too, is an edible plant. It resembles fennel in
 appearance, and has a short stem with a white flower;[2657] it is
@@ -15643,11 +13980,7 @@ in the form of a liniment, for wounds inflicted by marine animals of
 a venomous nature, at least we find it so stated by Petrichus in his
 poem.[2660]
 
-
-
-
-CHAP. 41.—THE SIUM: ELEVEN REMEDIES.
-
+## Chap. 41.—the Sium: Eleven Remedies
 
 Among these plants there is reckoned also the sium:[2661] it grows in
 the water, has a leaf broader than that of parsley, thicker, and of a
@@ -15663,11 +13996,7 @@ females, at night, for the removal of spots on the face, a result which
 it produces almost instantaneously. It has the effect also of assuaging
 hernia, and is good for the scab in horses.
 
-
-
-
-CHAP. 42.—THE SILLYBUM.
-
+## Chap. 42.—the Sillybum
 
 The sillybum[2663] resembles the white chamæleon, and is a plant quite
 as prickly. In Cilicia, Syria, and Phœnicia, the countries where it
@@ -15675,11 +14004,7 @@ grows, it is not thought worth while to boil it, the cooking of it
 being so extremely troublesome, it is said. It is of no use whatever in
 medicine.
 
-
-
-
-CHAP. 43.—THE SCOLYMOS OR LIMONIA: FIVE REMEDIES.
-
+## Chap. 43.—the Scolymos or Limonia: Five Remedies
 
 The scolymos,[2664] too, is used as an aliment[2665] in the East, where
 it has also the name of “limonia.”[2666] This is a shrub-like plant,
@@ -15700,11 +14025,7 @@ after the bath, as also after meals, a cyathus at a time. It is a
 remarkable thing, but Xenocrates assures us that he has ascertained it
 experimentally, that these bad odours are carried off by the urine.
 
-
-
-
-CHAP. 44.—THE SONCHOS; TWO VARIETIES: FIFTEEN REMEDIES.
-
+## Chap. 44.—the Sonchos; Two Varieties: Fifteen Remedies
 
 The sonchos,[2668] too, is edible—at least, it was this that, according
 to Callimachus, Hecale[2669] set before Theseus. There are two kinds,
@@ -15741,11 +14062,7 @@ refreshing properties; for which reason cataplasms of it may be
 advantageously applied with polenta. Zeno recommends the root of the
 white kind for strangury.
 
-
-
-
-CHAP. 45.—THE CONDRION OR CHONDRYLLA: SIX REMEDIES.
-
+## Chap. 45.—the Condrion or Chondrylla: Six Remedies
 
 The condrion,[2672] or chondrylla, has leaves, eaten away, as it were,
 at the edges, and similar to those of endive, a stalk less than a foot
@@ -15765,11 +14082,7 @@ Some persons, however, have been of opinion that it is unwholesome for
 females, bad for the eyesight, and productive of impotence in the male
 sex.
 
-
-
-
-CHAP. 46.—MUSHROOMS: PECULIARITIES OF THEIR GROWTH.
-
+## Chap. 46.—mushrooms: Peculiarities of Their Growth
 
 Among those vegetable productions which are eaten with risk, I shall,
 with good reason, include mushrooms;[2675] a very dainty food, it
@@ -15823,12 +14136,8 @@ fall before they have retired to their holes. The entire existence of
 the mushroom, from its birth to its death, is never more than seven
 days.[2684]
 
-
-
-
 CHAP. 47. (23.)—FUNGI; SIGNS BY WHICH THE VENOMOUS KINDS MAY BE
 RECOGNIZED: NINE REMEDIES.
-
 
 Fungi are of a more humid nature than the last, and are divided into
 numerous kinds, all of which are derived solely from the pituitous
@@ -15878,11 +14187,7 @@ the stalks of pears: it is a very good plan, too, to eat pears directly
 after them. Vinegar, too, being of a nature diametrically opposed to
 them, neutralizes[2698] their dangerous qualities.
 
-
-
-
-CHAP. 48.—SILPHIUM: SEVEN REMEDIES.
-
+## Chap. 48.—silphium: Seven Remedies
 
 All these productions owe their origin to rain,[2699] and by rain is
 silphium produced. It originally came from Cyrenæ, as already[2700]
@@ -15901,11 +14206,7 @@ with wine and oil, it is extremely good for bruises, and, with wax, for
 the cure of scrofulous sores. Repeated fumigations with the root cause
 excrescences of the anus to subside.
 
-
-
-
-CHAP. 49.—LASER: THIRTY-NINE REMEDIES.
-
+## Chap. 49.—laser: Thirty-Nine Remedies
 
 Laser, a juice which distils from silphium, as we have already[2702]
 stated, and reckoned among the most precious gifts presented to us by
@@ -15981,11 +14282,7 @@ inattention to the sympathy or antipathy which naturally exists between
 the ingredients employed—on this subject, however, we shall have to
 enlarge on a future occasion.[2709]
 
-
-
-
-CHAP. 50. (24.)—PROPOLIS: FIVE REMEDIES.
-
+## Chap. 50. (24.)—propolis: Five Remedies
 
 Honey would be held in no less esteem than laser, were it not for
 the fact that nearly every country produces it.[2710] Laser is the
@@ -16027,12 +14324,8 @@ of that of flowers; the plan of this work compelling us to separate
 subjects which ought properly to be united, if we would arrive at a
 thorough knowledge of the operations of Nature.
 
-
-
-
 CHAP. 51.—THE VARIOUS INFLUENCES OF DIFFERENT ALIMENTS UPON THE
 DISPOSITION.
-
 
 While speaking of the uses of honey, we ought also to treat of the
 properties of hydromel.[2720] There are two kinds of hydromel, one
@@ -16065,11 +14358,7 @@ It will therefore be worth our while to observe what aliments they
 are which exercise a physical effect, not only upon the body, but the
 disposition as well.
 
-
-
-
-CHAP. 52.—HYDROMEL: EIGHTEEN REMEDIES.
-
+## Chap. 52.—hydromel: Eighteen Remedies
 
 Hydromel is recommended, too, as very good for a cough: taken warm,
 it promotes vomiting. With the addition of oil it counteracts the
@@ -16085,11 +14374,7 @@ kept a considerable time, it becomes transformed into a wine,[2729]
 which, it is universally agreed, is extremely prejudicial to the
 stomach, and injurious to the nerves.[2730]
 
-
-
-
-CHAP. 53.—HONIED WINE: SIX REMEDIES.
-
+## Chap. 53.—honied Wine: Six Remedies
 
 As to honied[2731] wine, that is always the best which has been made
 with old wine: honey, too, incorporates with it very readily, which is
@@ -16109,11 +14394,7 @@ oil without,”[2734] was his answer. According to Varro, the jaundice
 has the name of “royal disease”[2735] given to it, because its cure is
 effected with honied wine.[2736]
 
-
-
-
-CHAP. 54.—MELITITES: THREE REMEDIES.
-
+## Chap. 54.—melitites: Three Remedies
 
 We have already described how melitites[2737] is prepared, of must and
 honey, when speaking on the subject of wines. It is, I think, some
@@ -16123,11 +14404,7 @@ be given in fever, to relieve inveterate costiveness of the bowels, as
 also for gout and affections of the sinews. It was prescribed also for
 females who were not in the habit of taking wine.
 
-
-
-
-CHAP. 55.—WAX: EIGHT REMEDIES.
-
+## Chap. 55.—wax: Eight Remedies
 
 To an account of honey, that of wax is naturally appended, of the
 origin, qualities, and different kinds of which, we have previously
@@ -16140,11 +14417,7 @@ milk; and ten pills of wax, the size of a grain of millet, will prevent
 milk from coagulating in the stomach. For swellings in the groin, it is
 found beneficial to apply a plaster of white wax to the pubes.
 
-
-
-
-CHAP. 56.—REMARKS IN DISPARAGEMENT OF MEDICINAL COMPOSITIONS.
-
+## Chap. 56.—remarks in Disparagement of Medicinal Compositions
 
 As to the different uses to which wax is applied, in combination with
 other substances in medicine, we could no more make an enumeration of
@@ -16177,13 +14450,9 @@ the gods; but as to health, we can enjoy that blessing without their
 assistance, as we can easily prove—the greater reason then has luxury
 to blush at its excesses.
 
-
-
-
 CHAP. 57.—REMEDIES DERIVED FROM GRAIN. SILIGO: ONE REMEDY. WHEAT: ONE
 REMEDY. CHAFF: TWO REMEDIES. SPELT: ONE REMEDY. BRAN: ONE REMEDY.
 OLYRA, OR ARINCA: TWO REMEDIES.
-
 
 Having now described the remedies derived from flowers, both those
 which enter into the composition of garlands, and the ordinary garden
@@ -16221,11 +14490,7 @@ decoction of it a medicament is made, known in Egypt as “athera,” and
 extremely good for infants. For adult persons it is employed in the
 form of a liniment.
 
-
-
-
-CHAP. 58.—THE VARIOUS KINDS OF MEAL: TWENTY-EIGHT REMEDIES.
-
+## Chap. 58.—the Various Kinds of Meal: Twenty-Eight Remedies
 
 Barley[2754]-meal, raw or boiled, disperses, softens, or ripens
 gatherings and inflammatory tumours; and for other purposes a decoction
@@ -16266,11 +14531,7 @@ lichens, and with virgin sulphur, leprosy: for head-ache, it is applied
 to the forehead with goose-grease. Boiled in wine, with pigeons’ dung
 and linseed, it ripens inflamed tumours and scrofulous sores.
 
-
-
-
-CHAP. 59.—POLENTA: EIGHT REMEDIES.
-
+## Chap. 59.—polenta: Eight Remedies
 
 Of the various kinds of polenta we have already treated
 sufficiently[2762] at length, when speaking of the places where it is
@@ -16282,12 +14543,8 @@ some other refreshing herb. It is used in a similar manner also for
 chilblains and wounds inflicted by serpents; and with wine, for burns.
 It has the effect also of checking pustular eruptions.
 
-
-
-
 CHAP. 60.—FINE FLOUR: FIVE REMEDIES. PULS: ONE REMEDY. MEAL USED FOR
 PASTING PAPYRUS: ONE REMEDY.
-
 
 The flour[2763] of bolted meal, kneaded into a paste, has the property
 of drawing[2764] out the humours of the body: hence it is applied to
@@ -16301,11 +14558,7 @@ diet. The meal[2767] used for pasting the sheets of papyrus is given
 warm to patients for spitting of blood, and is found to be an effectual
 cure.
 
-
-
-
-CHAP. 61.—ALICA: SIX REMEDIES.
-
+## Chap. 61.—alica: Six Remedies
 
 Alica is quite a Roman invention, and not a very ancient one: for
 otherwise[2768] the Greeks would never have written in such high terms
@@ -16324,11 +14577,7 @@ sextarius of sheep’ or goats’ milk is added: it is then taken by the
 patient daily, and after a time some honey is added. By this kind of
 nutriment a deep decline may be cured.
 
-
-
-
-CHAP. 62.—MILLET: SIX REMEDIES.
-
+## Chap. 62.—millet: Six Remedies
 
 Millet[2770] arrests looseness of the bowels and dispels gripings of
 the stomach, for which purposes it is first parched. For pains in the
@@ -16340,11 +14589,7 @@ those cases in which the application of heat is necessary. The meal
 of it, mixed with tar, is applied to wounds inflicted by serpents and
 millepedes.
 
-
-
-
-CHAP. 63.—PANIC: FOUR REMEDIES.
-
+## Chap. 63.—panic: Four Remedies
 
 Diocles, the physician, has given to panic[2771] the name of “honey of
 corn.”[2772] It has the same properties as millet, and, taken in wine,
@@ -16354,12 +14599,8 @@ goats’-milk, and taken twice a-day, it arrests looseness of the bowels;
 and, used in a similar manner, it is very good for gripings of the
 stomach.
 
-
-
-
 CHAP. 64.—SESAME: SEVEN REMEDIES. SESAMOIDES: THREE REMEDIES.
 ANTICYRICUM: THREE REMEDIES.
-
 
 Sesame,[2773] pounded and taken in wine, arrests vomiting: it is
 applied also topically to inflammations of the ears, and burns. It
@@ -16384,12 +14625,8 @@ obolus and a half of white hellebore; this preparation being employed
 principally as a purgative, in cases of insanity, melancholy, epilepsy,
 and gout. Taken alone, in doses of one drachma, it purges by stool.
 
-
-
-
 CHAP. 65.—BARLEY: NINE REMEDIES. MOUSE-BARLEY, BY THE GREEKS CALLED
 PHŒNICE: ONE REMEDY.
-
 
 The whitest barley is the best. Boiled[2780] in rain-water, the pulp
 of it is divided into lozenges, which are used in injections for
@@ -16405,11 +14642,7 @@ he will experience an immediate cure. There is another plant, too,
 known as “phœnice” by the Greeks, and as “mouse-barley”[2781] by us:
 pounded and taken in wine, it acts remarkably well as an emmenagogue.
 
-
-
-
-CHAP. 66.—PTISAN: FOUR REMEDIES.
-
+## Chap. 66.—ptisan: Four Remedies
 
 To ptisan,[2782] which is a preparation of barley, Hippocrates[2783]
 has devoted a whole treatise; praises, however, which at the present
@@ -16428,11 +14661,7 @@ feet are cold, and, indeed, that no drink of any kind should be taken
 then. With wheat a more viscous kind of ptisan is made, which is found
 to be still more efficacious for ulcerations of the trachea.
 
-
-
-
-CHAP. 67.—AMYLUM: EIGHT REMEDIES. OATS: ONE REMEDY.
-
+## Chap. 67.—amylum: Eight Remedies. Oats: One Remedy
 
 Amylum[2785] weakens the eyesight,[2786] and is bad for the throat,
 whatever opinions may be held to the contrary. It has the effect
@@ -16444,11 +14673,7 @@ an ounce of it is prescribed with an egg, and as much raisin wine as
 three egg-shells will hold, the mixture to be made lukewarm and taken
 immediately after the bath. Oatmeal, boiled in vinegar, removes moles.
 
-
-
-
-CHAP. 68.—BREAD: TWENTY-ONE REMEDIES.
-
+## Chap. 68.—bread: Twenty-One Remedies
 
 Bread,[2787] too, which forms our ordinary nutriment, possesses
 medicinal properties, almost without number. Applied with water and
@@ -16477,11 +14702,7 @@ in water, fasting, immediately after the bath. Burnt bread modifies
 the close smell of bedrooms, and, used in the strainers,[2791] it
 neutralizes bad odours in wine.
 
-
-
-
-CHAP. 69.—BEANS: SIXTEEN REMEDIES.
-
+## Chap. 69.—beans: Sixteen Remedies
 
 Beans,[2792] too, furnish us with some remedies. Parched whole, and
 thrown hot into strong vinegar, they are a cure for gripings of the
@@ -16496,11 +14717,7 @@ bean stalks and shells, with stale hogs’-lard, are good for sciatica
 and inveterate pains of the sinews. The husks, too, boiled down, by
 themselves, to one-third, arrest looseness of the bowels.
 
-
-
-
-CHAP. 70.—LENTILS: SEVENTEEN REMEDIES.
-
+## Chap. 70.—lentils: Seventeen Remedies
 
 Those lentils[2793] are the best which boil the most easily, and
 those in particular which absorb the most water. They injure the
@@ -16546,11 +14763,7 @@ employed topically for abscesses, and for gout in particular, either
 by itself or with polenta. Its glutinous properties render it a good
 medicine for intestinal hernia.
 
-
-
-
-CHAP. 71.—THE ELELISPHACOS, SPHACOS, OR SALVIA: THIRTEEN REMEDIES.
-
+## Chap. 71.—the Elelisphacos, Sphacos, or Salvia: Thirteen Remedies
 
 The plant called by the Greeks “elelisphacos,”[2799] or “sphacos,” is
 a species of wild lentil, lighter than the cultivated one, and with a
@@ -16572,11 +14785,7 @@ Greeks the “salvia”[2803] of the Latins, a plant similar in appearance
 to mint, white and aromatic. Applied externally, it expels the dead
 fœtus, as also worms which breed in ulcers and in the ears.
 
-
-
-
-CHAP. 72.—THE CHICKPEA AND THE CHICHELING VETCH: TWENTY-THREE REMEDIES.
-
+## Chap. 72.—the Chickpea and the Chicheling Vetch: Twenty-Three Remedies
 
 There is a wild chickpea also, which resembles in its leaf the
 cultivated kind,[2804] and has a powerful smell. Taken in considerable
@@ -16608,11 +14817,7 @@ chickpea, it is thought, moderates the shivering fits in tertian or
 quartan fevers; and the black kind, beaten up with half a nut-gall, and
 applied with raisin wine, is a cure for ulcers of the eyes.
 
-
-
-
-CHAP. 73.—THE FITCH: TWENTY REMEDIES.
-
+## Chap. 73.—the Fitch: Twenty Remedies
 
 In speaking of the fitch,[2808] we have mentioned certain properties
 belonging to it; and, indeed, the ancients have attributed to it
@@ -16642,11 +14847,7 @@ remarkably beneficial for oxen and beasts of burden. The pods of it,
 beaten up green with the stalks and leaves, before they harden, stain
 the hair black.
 
-
-
-
-CHAP. 74.—LUPINES: THIRTY-FIVE REMEDIES.
-
+## Chap. 74.—lupines: Thirty-Five Remedies
 
 There are wild lupines,[2810] also, inferior in every respect to the
 cultivated kinds, except in their bitterness. Of all the alimentary
@@ -16689,11 +14890,7 @@ of it strained off, to be used as a potion for cattle. Lupines boiled
 in amurca,[2814] or a decoction of them mixed with amurca, heals the
 itch in beasts. The smoke of lupines kills[2815] gnats.
 
-
-
-
-CHAP. 75.—IRIO, OR ERYSIMUM, BY THE GAULS CALLED VELA: FIFTEEN REMEDIES.
-
+## Chap. 75.—irio, or Erysimum, by the Gauls Called Vela: Fifteen Remedies
 
 When treating of the cereals, we have already stated[2816] that the
 irio, which strongly resembles sesame, is also called “erysimon” by the
@@ -16711,11 +14908,7 @@ and taken in drink, it is an excellent antidote to poisons. It is used,
 also, for asthma,[2817] and with stale axle-grease for fistulas; but it
 must not be allowed to touch the interior of them.
 
-
-
-
-CHAP. 76.—HORMINUM: SIX REMEDIES.
-
+## Chap. 76.—horminum: Six Remedies
 
 Horminum resembles cummin, as already stated,[2818] in its seed; but in
 other respects, it is like the leek.[2819] It grows to some nine inches
@@ -16729,11 +14922,7 @@ tumours, either used by themselves, or in combination with honey; they
 are employed, also, to disperse boils, before they have come to a head,
 and other collections of acrid humours.
 
-
-
-
-CHAP. 77.—DARNEL: FIVE REMEDIES.
-
+## Chap. 77.—darnel: Five Remedies
 
 Even more than this—the very plants which are the bane of the
 corn-field are not without their medicinal uses. Darnel[2820] has
@@ -16748,21 +14937,13 @@ sextarii of darnel meal are boiled down in it to a proper consistency,
 the mixture being applied warm to the part affected. This meal, too, is
 used for the extraction of splinters of broken bones.
 
-
-
-
-CHAP. 78.—THE PLANT MILIARIA: ONE REMEDY.
-
+## Chap. 78.—the Plant Miliaria: One Remedy
 
 “Miliaria”[2822] is the name given to a plant which kills millet: this
 plant, it is said, is a cure for gout in beasts of burden, beaten up
 and administered in wine, with the aid of a horn.
 
-
-
-
-CHAP. 79.—BROMOS: ONE REMEDY.
-
+## Chap. 79.—bromos: One Remedy
 
 Bromos[2823] is the seed also of a plant which bears an ear. It is
 a kind of oat which grows among corn, to which it is injurious; the
@@ -16772,11 +14953,7 @@ appearance. The seed of this plant is useful for plasters, like barley
 and other grain of a similar nature. A decoction of it is good for
 coughs.
 
-
-
-
-CHAP. 80.—OROBANCHE, OR CYNOMORION: ONE REMEDY.
-
+## Chap. 80.—orobanche, or Cynomorion: One Remedy
 
 We have mentioned[2825] orobanche as the name of a plant which kills
 the fitch and other leguminous plants. Some persons have called it
@@ -16784,12 +14961,8 @@ the fitch and other leguminous plants. Some persons have called it
 a dog. The stem of it is leafless, thick, and red. It is eaten either
 raw, or boiled in the saucepan, while young and tender.
 
-
-
-
 CHAP. 81.—REMEDIES FOR INJURIES INFLICTED BY INSECTS WHICH BREED AMONG
 LEGUMINOUS PLANTS.
-
 
 There are some venomous insects also, of the solipuga[2826] kind,
 which breed upon leguminous plants, and which, by stinging the hands,
@@ -16798,11 +14971,7 @@ which have been mentioned for the bite of the spider and the
 phalangium.[2827] Such, then, are the medicinal properties for which
 the cereals are employed.
 
-
-
-
-CHAP. 82.—THE USE MADE OF THE YEAST OF ZYTHUM.
-
+## Chap. 82.—the Use Made of the Yeast of Zythum
 
 Different beverages, too, are made from the cereals, zythum in Egypt,
 cælia and cerea in Spain, cervesia[2828] and numerous liquors in Gaul
@@ -16812,26 +14981,17 @@ it will be the best plan to pass on to the various uses of wine, and
 to make a beginning with the vine of our account of the medicinal
 properties of the trees.
 
-
 SUMMARY.—Remedies, narratives, and observations, nine hundred and six.
-
 
 AUTHORS QUOTED.—All those mentioned in the preceding Book; and,
 in addition to them, Chrysermus,[2830] Eratosthenes,[2831] and
 Alcæus.[2832]
 
+## Book XXIII
 
+## The Remedies Derived from the Cultivated Trees
 
-
-BOOK XXIII.
-
-THE REMEDIES DERIVED FROM THE CULTIVATED TREES.
-
-
-
-
-CHAP. 1. (1.)—INTRODUCTION.
-
+## Chap. 1. (1.)—introduction
 
 We have now set forth the various properties, medicinal or otherwise,
 as well of the cereals as of the other productions which lie upon[2833]
@@ -16851,11 +15011,7 @@ not only this, but she reminds him, too, that even still it is quite
 possible for him to derive his aliment from the trees, without being
 indebted to grain for his subsistence.
 
-
-
-
-CHAP. 2.—THE VINE.
-
+## Chap. 2.—the Vine
 
 But, by Hercules! it is the vine more particularly to which she has
 accorded these medicinal properties, as though she were not contented
@@ -16877,10 +15033,7 @@ ground, if man should be too indolent to reach them as they hang.”
 Vying even with herself, Pomona has done still more for our practical
 advantage than for the mere gratification of our pleasures and caprices.
 
-
-
-
-CHAP. 3.—THE LEAVES AND SHOOTS OF THE VINE: SEVEN REMEDIES.
+## Chap. 3.—the Leaves and Shoots of the Vine: Seven Remedies
 
 [2836] The leaves and shoots of the vine, employed with polenta, allay
 head-ache and reduce inflammations:[2837] the leaves, too, applied by
@@ -16925,11 +15078,7 @@ scorpions and dogs. The ashes of the bark, employed by themselves,
 restore the hair to such parts of the body as have suffered from the
 action of fire.
 
-
-
-
-CHAP. 4.—OMPHACIUM EXTRACTED FROM THE VINE: FOURTEEN REMEDIES.
-
+## Chap. 4.—omphacium Extracted from the Vine: Fourteen Remedies
 
 We have already[2842] mentioned, when speaking of the composition
 of unguents, how omphacium is made from the grape, when it is just
@@ -16943,11 +15092,7 @@ forming, and purulent discharges from the ears. The powerful action of
 omphacium is modified by the admixture of honey or raisin wine. It is
 very useful, too, for dysentery, spitting of blood, and quinsy.
 
-
-
-
-CHAP. 5.—ŒNANTHE: TWENTY-ONE REMEDIES.
-
+## Chap. 5.—œnanthe: Twenty-One Remedies
 
 Next to omphacium comes œnanthe, a product of the wild vine, described
 by us already[2844] when treating of the unguents. The most esteemed
@@ -16976,11 +15121,7 @@ to all these preparations is due solely to the innate greediness of
 mankind, which has racked its invention to gather the productions of
 the earth before they have arrived at maturity.
 
-
-
-
-CHAP. 6.—GRAPES, FRESH GATHERED.
-
+## Chap. 6.—grapes, Fresh Gathered
 
 As to grapes when allowed to gain maturity, the black ones have more
 marked properties[2848] than the others; and hence it is, that the wine
@@ -16998,11 +15139,7 @@ rendering them beneficial even to the stomach, and refreshing to the
 patient, as they are slightly cooling, and tend to remove nausea and
 qualmishness.
 
-
-
-
-CHAP. 7.—VARIOUS KINDS OF PRESERVED GRAPES: ELEVEN REMEDIES.
-
+## Chap. 7.—various Kinds of Preserved Grapes: Eleven Remedies
 
 Grapes which have been preserved in wine or in must are trying to the
 head. Next to the grapes which have been left to hang in the air, are
@@ -17025,21 +15162,13 @@ heavy[2854] by the exhalations from the husks with which they are
 covered.[2855] If vine-blossoms are given to poultry, mixed with their
 food, they will never touch the grapes.[2856]
 
-
-
-
-CHAP. 8.—CUTTINGS OF THE VINE: ONE REMEDY.
-
+## Chap. 8.—cuttings of the Vine: One Remedy
 
 Such cuttings of the vine as have borne grapes, have an astringent
 effect, when they are preserved in earthen[2857] pots, more
 particularly.
 
-
-
-
-CHAP. 9.—GRAPE-STONES: SIX REMEDIES.
-
+## Chap. 9.—grape-Stones: Six Remedies
 
 Grape-stones, also, have a similar[2858] property; it is through them
 that wine is so apt to produce head-ache. Parched and then pounded,
@@ -17048,11 +15177,7 @@ polenta, in the beverage of patients suffering from dysentery, cœliac
 affections, and derangements of the stomach. A decoction of them is
 useful, also, as a fomentation for itch-scabs and prurigo.
 
-
-
-
-CHAP. 10.—GRAPE-HUSKS: EIGHT REMEDIES.
-
+## Chap. 10.—grape-Husks: Eight Remedies
 
 Grape-husks, used by themselves, are less injurious to the head and
 bladder than grape-stones are: beaten up with salt, they form an
@@ -17060,11 +15185,7 @@ excellent liniment for inflammations of the mamillæ. A decoction
 of them, taken in drink, or employed as a fomentation, is good for
 inveterate dysentery, and cœliac affections.
 
-
-
-
-CHAP. 11.—THE GRAPES OF THE THERIACA: FOUR REMEDIES.
-
+## Chap. 11.—the Grapes of the Theriaca: Four Remedies
 
 The grape of the theriaca, of which we have already made mention[2859]
 on the appropriate occasion, is eaten by way of antidote to the stings
@@ -17072,11 +15193,7 @@ of serpents. It is recommended, too, to eat the young shoots of this
 tree, and to apply them topically. The wine and vinegar made from these
 grapes are productive of a similar salutary effect.[2860]
 
-
-
-
-CHAP. 12.—RAISINS, OR ASTAPHIS: FOURTEEN REMEDIES.
-
+## Chap. 12.—raisins, or Astaphis: Fourteen Remedies
 
 Raisins, the name given to which is “astaphis,” would be injurious
 to the stomach, abdomen, and intestines, were it not for the stones
@@ -17098,12 +15215,8 @@ are used with panax,[2865] for gout and loose nails; and they are
 sometimes eaten by themselves, in combination with pepper, for the
 purpose of cleansing the mouth and clearing the brain.
 
-
-
-
 CHAP. 13.—THE ASTAPHISAGRIA, OTHERWISE CALLED STAPHIS OR TAMINIA:
 TWELVE REMEDIES.
-
 
 The wild astaphis, otherwise called staphis,[2866] is by some persons
 erroneously called “uva taminia;”[2867] for it is altogether a distinct
@@ -17134,11 +15247,7 @@ pungent properties. Some persons give to this plant the name of
 “pituitaria,”[2875] and use it as a common application for stings
 inflicted by serpents.
 
-
-
-
-CHAP. 14.—THE LABRUSCA, OR WILD VINE: TWELVE REMEDIES.
-
+## Chap. 14.—the Labrusca, or Wild Vine: Twelve Remedies
 
 The labrusca, too, produces an œnanthe, which has been described at
 sufficient length already:[2876] by the Greeks the labrusca is known
@@ -17159,11 +15268,7 @@ which purpose, salt, thyme, and oxymel are added to it, care being
 taken not to swallow any of the mixture. It is generally looked upon as
 unsafe to employ it as a purgative.
 
-
-
-
-CHAP. 15.—THE SALICASTRUM: TWELVE REMEDIES.
-
+## Chap. 15.—the Salicastrum: Twelve Remedies
 
 There is another plant,[2881] similar to the labrusca, but found
 growing in willow-beds; for which reason it is known by a distinct
@@ -17172,13 +15277,9 @@ name given to it is “salicastrum;” beaten up with oxymel, it displays
 marvellous efficacy in the removal of itch-scab and prurigo in men and
 cattle.
 
-
-
-
 CHAP. 16.—THE WHITE VINE, OTHERWISE CALLED AMPELOLEUCE, STAPHYLE,
 MELOTHRON, PSILOTRUM, ARCHEZOSTIS, CEDROSTIS, OR MADON: THIRTY-ONE
 REMEDIES.
-
 
 The white vine[2882] is known to the Greeks by the various names of
 ampeloleuce, staphyle, melothron, psilotrum, archezostis, cedrostis,
@@ -17233,12 +15334,8 @@ immediately with cold water. The black vine, too, is better for this
 purpose than the white one, as the latter is very apt to be productive
 of itching.
 
-
-
-
 CHAP. 17.—THE BLACK VINE, OTHERWISE CALLED BRYONA, CHIRONIA,
 GYNÆCANTHE, OR APRONIA: THIRTY-FIVE REMEDIES.
-
 
 For there is also a black vine, properly known as the “bryonia,”[2891]
 though by some persons it is called the “chironia,” and by others the
@@ -17260,11 +15357,7 @@ in human beings or in beasts of burden.
 
 Thus much with reference to the various species of vines.
 
-
-
-
-CHAP. 18.—MUST: FIFTEEN REMEDIES.
-
+## Chap. 18.—must: Fifteen Remedies
 
 The various kinds of must[2895] have different properties; some of them
 being black, some white, and others of intermediate shades of colour.
@@ -17293,11 +15386,7 @@ however, white must is not so efficacious, while must prepared from
 raisins of the sun has a more pleasant flavour, and is productive of a
 less degree of oppression to the head.
 
-
-
-
-CHAP. 19.—PARTICULARS RELATIVE TO WINE.
-
+## Chap. 19.—particulars Relative to Wine
 
 We have already[2903] described the various kinds of wine, the
 numerous differences which exist between them, and most of the
@@ -17323,12 +15412,8 @@ of each individual kind, would be a labour without end, and quite
 inexhaustible; the more so, as the opinions of medical men are so
 entirely at variance upon the subject.
 
-
-
-
 CHAP. 20.—THE SURRENTINE WINES: THREE REMEDIES. THE ALBAN WINES: TWO
 REMEDIES. THE FALERNIAN WINES: SIX REMEDIES.
-
 
 Our ancestors set the highest value upon the wines of Surrentum;[2905]
 but at a later period the preference was given to the Alban, or the
@@ -17368,12 +15453,8 @@ nor are they at all trying to the head; they have the property also of
 arresting defluxions of the stomach and intestines. The Cæcuban wines
 are no longer grown.
 
-
-
-
 CHAP. 21.—THE SETINE WINES; ONE OBSERVATION UPON THEM. THE STATAN
 WINES; ONE OBSERVATION UPON THEM. THE SIGNIAN WINES; ONE REMEDY.
-
 
 Among the wines, however, which still exist, those of Setia[2907]
 promote the digestion, having more strength than the Surrentine wines,
@@ -17382,11 +15463,7 @@ so powerful. Those of Stata are but very little inferior in quality to
 the wines already mentioned. It is universally agreed that the wines of
 Signia are extremely beneficial in cases of derangement of the bowels.
 
-
-
-
-CHAP. 22.—OTHER WINES: SIXTY-FOUR REMEDIES.
-
+## Chap. 22.—other Wines: Sixty-Four Remedies
 
 As to the other wines, they may be spoken of in general terms. By the
 use of wine, the human vigour, blood, and complexion are improved. It
@@ -17444,11 +15521,7 @@ flavour[2914] a wine possesses, the more wholesome it is; and the best
 age for a wine is that which naturally belongs to it, a medium age
 being the one that is the most generally esteemed.
 
-
-
-
-CHAP. 23.—SIXTY-ONE OBSERVATIONS RELATIVE TO WINE.
-
+## Chap. 23.—sixty-One Observations Relative to Wine
 
 Persons whose wish it is to make flesh, or to keep the bowels relaxed,
 will do well to drink while taking their food. Those, on the other
@@ -17489,12 +15562,8 @@ it has the effect of removing all sensations of fatigue.[2923] It is
 asserted that in apes, and other quadrupeds with toes, the growth will
 be impeded if they are accustomed to drink undiluted wine.[2924]
 
-
-
-
 CHAP. 24.—IN WHAT MALADIES WINE SHOULD BE ADMINISTERED; HOW IT SHOULD
 BE ADMINISTERED, AND AT WHAT TIMES.
-
 
 We shall now proceed to speak of wine in relation to its medicinal
 uses. The wines of Campania[2925] which have the least body, are the
@@ -17571,11 +15640,7 @@ or when a person has been seized with a sudden fright, with spasms,
 or recurrent fits of torpor, or experiences seminal discharges during
 sleep.
 
-
-
-
-CHAP. 25.—NINETY-ONE OBSERVATIONS WITH REFERENCE TO WINE.
-
+## Chap. 25.—ninety-One Observations with Reference to Wine
 
 It is a well-ascertained fact, that in the cardiac[2940] disease the
 only resource is wine. According to some authorities, however, wine
@@ -17599,11 +15664,7 @@ best proportions are one cyathus of wine and two of water. If, however,
 there is a derangement of the stomach, and if the food does not pass
 downward, the wine must be given in a larger proportion.
 
-
-
-
-CHAP. 26.—ARTIFICIAL WINES.
-
+## Chap. 26.—artificial Wines
 
 Among the artificial wines, the preparation of which we have[2941]
 described, [there are some which],[2942] I think, are no longer made;
@@ -17631,11 +15692,7 @@ bowels, and sciatica. It is said, too, that in times of pestilence,
 and for persons on a long journey, this liquid forms a beverage of
 remarkable efficacy.
 
-
-
-
-CHAP. 27.—VINEGAR: TWENTY-EIGHT REMEDIES.
-
+## Chap. 27.—vinegar: Twenty-Eight Remedies
 
 Wine, even when it has lost its vinous properties, still retains some
 medicinal virtues. Vinegar possesses cooling properties in the very
@@ -17702,11 +15759,7 @@ extremely severe attack he plunged his legs into hot vinegar, content
 to purchase exemption from such cruel torments as he suffered, if even
 at the price of all use and sensation in those limbs, * * * * *.[2957]
 
-
-
-
-CHAP. 28. (2.)—SQUILL VINEGAR: SEVENTEEN REMEDIES.
-
+## Chap. 28. (2.)—squill Vinegar: Seventeen Remedies
 
 Squill vinegar is the more esteemed, the older it is. In addition to
 the properties which we have already[2958] mentioned, it is useful
@@ -17725,11 +15778,7 @@ extravasations of blood in consequence, as also for debility of the
 sinews, and diseases of the kidneys. In cases of internal ulceration,
 however, the use of it must be avoided.
 
-
-
-
-CHAP. 29.—OXYMELI: SEVEN REMEDIES.
-
+## Chap. 29.—oxymeli: Seven Remedies
 
 The following, as we learn from Dieuches, was the manner in which
 oxymeli[2959] was prepared by the ancients. In a cauldron they used
@@ -17747,11 +15796,7 @@ affections of the mouth and throat; for all these purposes, however,
 at the present day, oxalme is employed, the best kind of which is made
 with salt and fresh vinegar.
 
-
-
-
-CHAP. 30.—SAPA: SEVEN REMEDIES.
-
+## Chap. 30.—sapa: Seven Remedies
 
 Sapa[2962] has a close affinity with wine, being nothing else but
 must boiled down to one third: that which is prepared from white must
@@ -17762,11 +15807,7 @@ with onions it has the effect of bringing away the dead fœtus and the
 after-birth. According to Fabianus, it acts as a poison, if taken by a
 person fasting, immediately after the bath.[2965]
 
-
-
-
-CHAP. 31.—LEES OF WINE: TWELVE REMEDIES.
-
+## Chap. 31.—lees of Wine: Twelve Remedies
 
 Next in the natural order come the lees of these several liquids.
 The lees of[2966] wine are so extremely powerful as to prove fatal
@@ -17796,11 +15837,7 @@ wine-lees have lost their strength, they are still useful for cleansing
 the body and scouring clothes, in which case they act as a substitute
 for gum acacia.[2971]
 
-
-
-
-CHAP. 32.—LEES OF VINEGAR: SEVENTEEN REMEDIES.
-
+## Chap. 32.—lees of Vinegar: Seventeen Remedies
 
 The lees of vinegar,[2972] as a matter of course, considering the
 material from which they are derived, are much more acrid than those
@@ -17822,11 +15859,7 @@ applied to the hair, they turn[2976] it red in a single night. Applied
 with water in linen, as a pessary, they act as a detergent upon the
 uterus.
 
-
-
-
-CHAP. 33.—LEES OF SAPA: FOUR REMEDIES.
-
+## Chap. 33.—lees of Sapa: Four Remedies
 
 The lees[2977] of sapa are used for the cure of burns, it being the
 best plan to employ with them the down that grows on the reed; a
@@ -17834,11 +15867,7 @@ decoction too, of these lees, is good for the cure of an inveterate
 cough. They are boiled also in a saucepan with salt and grease as an
 ointment for tumours of the jaws and neck.
 
-
-
-
-CHAP. 34. (3.)—THE LEAVES OF THE OLIVE: TWENTY-THREE REMEDIES.
-
+## Chap. 34. (3.)—the Leaves of the Olive: Twenty-Three Remedies
 
 The next rank, after the vine, clearly belongs to the olive. The
 leaves of the olive-tree are astringent,[2978] detergent, and binding
@@ -17861,11 +15890,7 @@ menstruation when in excess, and is very useful for the treatment
 of purulent sores, condylomata, erysipelas, spreading ulcers, and
 epinyctis.
 
-
-
-
-CHAP. 35.—THE BLOSSOM OF THE OLIVE: FOUR REMEDIES.
-
+## Chap. 35.—the Blossom of the Olive: Four Remedies
 
 The blossom,[2980] too, of the olive-tree possesses similar
 properties. The young branches are burnt when just beginning to
@@ -17888,11 +15913,7 @@ expectorations. The ashes of the tree itself, mixed with axle-grease,
 are useful for the cure of tumours, and heal fistulas by the extraction
 of the vicious humours which they contain.
 
-
-
-
-CHAP. 36.—WHITE OLIVES: FOUR REMEDIES. BLACK OLIVES: THREE REMEDIES.
-
+## Chap. 36.—white Olives: Four Remedies. Black Olives: Three Remedies
 
 White olives are wholesome for the upper regions of the stomach, but
 not so good for the bowels. Eaten by themselves, habitually as a
@@ -17909,11 +15930,7 @@ purpose of preventing blisters from forming. Colymbades[2986] act as a
 detergent for foul ulcers, but they are bad for persons suffering from
 strangury.
 
-
-
-
-CHAP. 37.—AMURCA OF OLIVES: TWENTY-ONE REMEDIES.
-
+## Chap. 37.—amurca of Olives: Twenty-One Remedies
 
 As to the amurca of olives, we might appear to have said enough on the
 subject already,[2987] taking Cato as our guide; it remains, however,
@@ -17944,11 +15961,7 @@ chamæleon,[2992] it is a marvellous cure for itch in beasts of
 burden.[2993] Fomentations of amurca in a raw state[2994] are extremely
 good for gout.
 
-
-
-
-CHAP. 38. (4.)—THE LEAVES OF THE WILD OLIVE: SIXTEEN REMEDIES.
-
+## Chap. 38. (4.)—the Leaves of the Wild Olive: Sixteen Remedies
 
 The leaves of the wild olive are possessed of similar properties.
 The spodium[2995] that is made by burning the young branches is of
@@ -17979,11 +15992,7 @@ at maturity, taken with the food, arrest diarrhœa: parched and beaten
 up with honey, they act as a detergent upon corroding sores, and bring
 carbuncles to a head and dispers them.
 
-
-
-
-CHAP. 39.—OMPHACIUM: THREE REMEDIES.
-
+## Chap. 39.—omphacium: Three Remedies
 
 As to olive oil, we have abundantly treated of its nature and elements
 already.[2998] It now remains to speak of the medicinal properties of
@@ -17997,11 +16006,7 @@ food. Omphacium is good for the gums, and if kept from time to time in
 the mouth, there is nothing better as a preservative of the whiteness
 of the teeth. It checks profuse perspirations.
 
-
-
-
-CHAP. 40.—OIL OF ŒNANTHE: TWENTY-EIGHT REMEDIES.
-
+## Chap. 40.—oil of Œnanthe: Twenty-Eight Remedies
 
 Oil of œnanthe[3002] has just the same properties as oil of roses.
 Like oil in general, it makes the body supple, and imparts to it
@@ -18032,11 +16037,7 @@ combination with water, for the burning attacks in fevers. If old oil
 should happen not to be at hand, the new oil is boiled to act as a
 substitute for it.
 
-
-
-
-CHAP. 41.—CASTOR OIL: SIXTEEN REMEDIES.
-
+## Chap. 41.—castor Oil: Sixteen Remedies
 
 Castor[3008] oil, taken with an equal quantity of warm water, acts
 as a purgative[3009] upon the bowels. It is said, too, that as a
@@ -18056,11 +16057,7 @@ a decoction of them in wine, with polenta and saffron, is good for
 inflammations of various kinds. Boiled by themselves, and applied to
 the face for three successive days, they improve the complexion.
 
-
-
-
-CHAP. 42.—OIL OF ALMONDS: SIXTEEN REMEDIES.
-
+## Chap. 42.—oil of Almonds: Sixteen Remedies
 
 Oil of almonds is of a purgative and emollient nature; it effaces
 wrinkles on the skin, improves the complexion, and, in combination with
@@ -18074,11 +16071,7 @@ wine it heals running ulcers and scaly eruptions, and with melilote,
 condylomatous swellings. Applied by itself to the head, it invites
 sleep.[3015]
 
-
-
-
-CHAP. 43.—OIL OF LAUREL: NINE REMEDIES.
-
+## Chap. 43.—oil of Laurel: Nine Remedies
 
 As to oil of laurel,[3016] the fresher and greener it is, the more
 valuable are its properties. It is of a heating nature, and is
@@ -18086,11 +16079,7 @@ consequently applied, warm, in a pomegranate rind, for paralysis,
 spasms, sciatica, bruises, head-ache, catarrhs of long standing, and
 diseases of the ears.
 
-
-
-
-CHAP. 44.—OIL OF MYRTLE: TWENTY REMEDIES.
-
+## Chap. 44.—oil of Myrtle: Twenty Remedies
 
 Oil of myrtle has similar properties.[3017] It is of an astringent and
 indurative nature; mixed with the scoria of copper, and wax, it cures
@@ -18102,13 +16091,9 @@ offensive odours of the body. This oil is an antidote[3018] to
 cantharides, the buprestis, and other dangerous poisons of a corrosive
 nature.
 
-
-
-
 CHAP. 45.—OIL OF CHAMÆMYRSINE OR OXYMYRSINE; OIL OF CYPRESS; OIL OF
 CITRUS; OIL OF WALNUTS; OIL OF CNIDIUM; OIL OF MASTICH; OIL OF BALANUS;
 VARIOUS REMEDIES.
-
 
 Oil of chamæmyrsine, or oxymyrsine,[3019] possesses similar properties.
 Oil of cypress[3020] also, produces the same effects as oil of myrtle,
@@ -18128,12 +16113,8 @@ pimples produced thereby. It is extremely efficacious also for itch
 in beasts of burden. Oil of balanus[3027] removes spots on the skin,
 boils, freckles, and maladies of the gums.[3028]
 
-
-
-
 CHAP. 46.—THE CYPRUS, AND THE OIL EXTRACTED FROM IT; SIXTEEN REMEDIES.
 GLEUCINUM: ONE REMEDY.
-
 
 We have already enlarged[3029] upon the nature of the cyprus, and the
 method of preparing oil of cyprus. This oil is naturally warming, and
@@ -18152,11 +16133,7 @@ The odour[3032] exhaled by these blossoms induces sleep.
 The oil called “gleucinum”[3033] has certain astringent and refreshing
 properties similar to those of oil of œnanthe.
 
-
-
-
-CHAP. 47.—OIL OF BALSAMUM: FIFTEEN REMEDIES.
-
+## Chap. 47.—oil of Balsamum: Fifteen Remedies
 
 The oil of balsamum is by far the most valuable of them all, as already
 stated[3034] by us, when treating of the unguents. It is extremely
@@ -18172,11 +16149,7 @@ fits in fevers, it modifies their violence. Still, however, it should
 be used but sparingly, as it is of a very caustic nature, and, if not
 employed in moderation, is apt to augment the malady.
 
-
-
-
-CHAP. 48.—MALOBATHRUM: FIVE REMEDIES.
-
+## Chap. 48.—malobathrum: Five Remedies
 
 We have already[3036] spoken, also, of the nature of malobathrum,
 and the various kinds of it. It acts as a diuretic, and, sprinkled
@@ -18187,14 +16160,10 @@ nostrils are rubbed with it, or if it is taken in water. The leaves,
 placed beneath the tongue, impart a sweetness to the mouth and breath,
 and put among clothes, they produce a similar effect.
 
-
-
-
 CHAP. 49.—OIL OF HENBANE: TWO REMEDIES. OIL OF LUPINES: ONE REMEDY.
 OIL OF NARCISSUS: ONE REMEDY. OIL OF RADISHES: FIVE REMEDIES. OIL OF
 SESAME: THREE REMEDIES. OIL OF LILIES: THREE REMEDIES. OIL OF SELGA:
 ONE REMEDY. OIL OF IGUVIUM: ONE REMEDY.
-
 
 Oil of henbane[3037] is of an emollient nature, but it is bad for
 the nerves; taken in drink, it disturbs the brain. Therminum,[3038]
@@ -18212,11 +16181,7 @@ have already[3044] spoken of it as being strengthening to the tendons;
 which is the case, also, with the herbaceous[3045] oil which the people
 of Iguvium[3046] sell, on the Flaminian Way.
 
-
-
-
-CHAP. 50.—ELÆOMELI: TWO REMEDIES. OIL OF PITCH: TWO REMEDIES.
-
+## Chap. 50.—elæomeli: Two Remedies. Oil of Pitch: Two Remedies
 
 Elæomeli, which, as we have already[3047] stated, exudes from the
 olive-trees of Syria, has a flavour like that of honey, but not without
@@ -18228,11 +16193,7 @@ about to drink for a wager, are in the habit of taking[3048] a cyathus
 of it, by way of prelude. Oil of pitch[3049] is employed for the cure
 of cough, and of itch in cattle.
 
-
-
-
-CHAP. 51.—THE PALM: NINE REMEDIES.
-
+## Chap. 51.—the Palm: Nine Remedies
 
 Next in rank after the vine and the olive comes the palm. Dates
 fresh-gathered have an inebriating[3050] effect, and are productive
@@ -18252,11 +16213,7 @@ as a substitute for spodium,[3054] and is used as an ingredient
 in eye-salves, and, with the addition of nard, in washes for the
 eye-brows.[3055]
 
-
-
-
-CHAP. 52. (5.)—THE PALM WHICH PRODUCES MYROBALANUM: THREE REMEDIES.
-
+## Chap. 52. (5.)—the Palm Which Produces Myrobalanum: Three Remedies
 
 Of the palm which produces myrobalanum,[3056] the most esteemed kind
 is that grown in Egypt;[3057] the dates of which, unlike those of
@@ -18264,11 +16221,7 @@ the other kinds, are without stones. Used with astringent wine, they
 arrest[3058] diarrhœa and the catamenia, and promote the cicatrization
 of wounds.
 
-
-
-
-CHAP. 53.—THE PALM CALLED ELATE: SIXTEEN REMEDIES.
-
+## Chap. 53.—the Palm Called Elate: Sixteen Remedies
 
 The palm called “elate,”[3059] or “spathe,” furnishes its buds, leaves,
 and bark for medicinal purposes. The leaves are applied to the thoracic
@@ -18284,14 +16237,10 @@ uterus and the bowels: the ashes of it are used with white wine for
 griping pains in the stomach, and form a very efficacious remedy for
 affections of the uterus.
 
-
-
-
 CHAP. 54. (6.)—REMEDIES DERIVED PROM THE BLOSSOMS, LEAVES, FRUIT,
 BRANCHES, BARK, JUICES, WOOD, ROOTS, AND ASHES OF VARIOUS KINDS OF
 TREES. SIX OBSERVATIONS UPON APPLES. TWENTY-TWO OBSERVATIONS UPON
 QUINCES. ONE OBSERVATION UPON STRUTHEA.
-
 
 We next come to the medicinal properties of the various kinds
 of apples. The spring fruits, of this nature are sour and
@@ -18335,12 +16284,8 @@ person who does so to state at the same moment the object for which it
 is so pulled up, and for whom. Worn as an amulet, this root is a cure
 for scrofula.
 
-
-
-
 CHAP. 55.—THE SWEET APPLES CALLED MELIMELA: SIX OBSERVATIONS UPON THEM.
 SOUR APPLES: FOUR OBSERVATIONS UPON THEM.
-
 
 The apples known as “melimela,”[3068] and the other sweet apples, relax
 the stomach and bowels, but are productive of heat and thirst,[3069]
@@ -18350,11 +16295,7 @@ Wild apples resemble the sour apples of spring, and act astringently
 upon the bowels: indeed, for this purpose they should always be used
 before they are ripe.
 
-
-
-
-CHAP. 56.—CITRONS: FIVE OBSERVATIONS UPON THEM.
-
+## Chap. 56.—citrons: Five Observations upon Them
 
 Citrons,[3071] either the pulp of them or the pips, are taken in
 wine as an antidote to poisons. A decoction of citrons, or the juice
@@ -18363,11 +16304,7 @@ breath.[3072] The pips of this fruit are recommended for pregnant women
 to chew when affected with qualmishness. Citrons are good, also, for a
 weak stomach, but it is not easy to eat them except with vinegar.[3073]
 
-
-
-
-CHAP. 57.—PUNIC APPLES OR POMEGRANATES: TWENTY-SIX REMEDIES.
-
+## Chap. 57.—punic Apples or Pomegranates: Twenty-Six Remedies
 
 It would be a mere loss of time to recapitulate the nine[3074]
 different varieties of the pomegranate. The sweet pomegranates, or, in
@@ -18397,11 +16334,7 @@ pomegranate is cut, and left to soak in rain-water for some three days;
 after which the infusion is given cold to persons suffering from cœliac
 affections and spitting of blood.
 
-
-
-
-CHAP. 58.—THE COMPOSITION CALLED STOMATICE: FOURTEEN REMEDIES.
-
+## Chap. 58.—the Composition Called Stomatice: Fourteen Remedies
 
 With the sour pomegranate a medicament is made, which is known as
 “stomatice,” and is extremely good for affections of the mouth,
@@ -18429,11 +16362,7 @@ pomegranate, put in a new earthen pot tightly covered and burnt in a
 furnace, and then pounded and taken in wine, arrests looseness of the
 bowels, and dispels griping pains in the stomach.
 
-
-
-
-CHAP. 59.—CYTINUS: EIGHT REMEDIES.
-
+## Chap. 59.—cytinus: Eight Remedies
 
 The Greeks have given the name of cytinus[3086] to the first germs
 of this tree when it is just beginning to blossom. These germs have
@@ -18454,11 +16383,7 @@ inflammations of the eyes and intestines, and nearly all the purposes
 for which pomegranate-rind is used. They are remedial also for the
 stings of scorpions.
 
-
-
-
-CHAP. 60.—BALAUSTIUM: TWELVE REMEDIES.
-
+## Chap. 60.—balaustium: Twelve Remedies
 
 We cannot sufficiently admire the care and diligence displayed by the
 ancients, who, in their enquiries into every subject, have left nothing
@@ -18484,11 +16409,7 @@ exterminates tape-worm;[3092] and the root itself, boiled down in
 water to a thick consistency, is employed for the same purposes as
 lycium.[3093]
 
-
-
-
-CHAP. 61.—THE WILD POMEGRANATE.
-
+## Chap. 61.—the Wild Pomegranate
 
 There is a tree, also, which is called the wild pomegranate,[3094]
 on account of its strong resemblance to the cultivated pomegranate.
@@ -18497,11 +16418,7 @@ denarius, promotes sleep. The seed of it taken in drink is curative of
 dropsy. Gnats are kept at a distance by the smoke of burnt pomegranate
 rind.
 
-
-
-
-CHAP. 62. (7.)—PEARS: TWELVE OBSERVATIONS UPON THEM.
-
+## Chap. 62. (7.)—pears: Twelve Observations upon Them
 
 All kinds of pears, as an aliment, are indigestible,[3095] to persons
 in robust health, even; but to invalids they are forbidden as rigidly
@@ -18524,11 +16441,7 @@ to beasts of burden; the best plan to counteract this, they say, is to
 give the animals some to eat, or at least to shew them the fruit before
 starting.
 
-
-
-
-CHAP. 63.—FIGS: ONE HUNDRED AND ELEVEN OBSERVATIONS UPON THEM.
-
+## Chap. 63.—figs: One Hundred and Eleven Observations upon Them
 
 The milky juice of the fig-tree possesses kindred properties with
 vinegar;[3100] hence it is, that, like rennet, it curdles milk. This
@@ -18629,11 +16542,7 @@ substitute for spodium.[3115] Burnt over a second time and incorporated
 with white lead, they are divided into cakes which are used for the
 cure of ulcerations of the eyes and eruptions.
 
-
-
-
-CHAP. 64.—THE WILD FIG: FORTY-TWO OBSERVATIONS UPON IT.
-
+## Chap. 64.—the Wild Fig: Forty-Two Observations upon It
 
 The wild fig, again, is even more efficacious in its properties than
 the cultivated one. It has not so large a proportion of milky juice as
@@ -18687,11 +16596,7 @@ sores. A branch of this tree, attached to the neck of a bull, however
 furious, exercises such a marvellous effect upon him as to restrain his
 ferocity,[3121] and render him quite immoveable.
 
-
-
-
-CHAP. 65.—THE HERB ERINEON: THREE REMEDIES.
-
+## Chap. 65.—the Herb Erineon: Three Remedies
 
 It will be as well to speak here, in consequence of the similarity of
 name,[3122] of the herb which is known to the Greeks as the “erineon.”
@@ -18703,11 +16608,7 @@ considerable abundance of sweet, milky, juice. With the addition of a
 little nitre, this plant is extremely useful for pains in the ears. The
 leaves of it have the property of neutralizing poisons.
 
-
-
-
-CHAP. 66.—PLUMS: FOUR OBSERVATIONS UPON THEM.
-
+## Chap. 66.—plums: Four Observations upon Them
 
 The leaves[3124] of the plum, boiled in wine, are useful for the
 tonsillary glands, the gums, and the uvula, the mouth being rinsed
@@ -18715,11 +16616,7 @@ with the decoction every now and then. As for the fruit itself, it is
 relaxing[3125] to the bowels; but it is not very wholesome to the
 stomach, though its bad effects are little more than momentary.
 
-
-
-
-CHAP. 67.—PEACHES: TWO REMEDIES.
-
+## Chap. 67.—peaches: Two Remedies
 
 Peaches, again, are more wholesome than plums; and the same is the case
 with the juice of the fruit, extracted, and taken in either wine or
@@ -18730,32 +16627,20 @@ to create thirst.[3127] The leaves of it, beaten up and applied
 topically, arrest hæmorrhage: the kernels, mixed with oil and vinegar,
 are used as a liniment for head-ache.[3128]
 
-
-
-
-CHAP. 68.—WILD PLUMS: TWO REMEDIES.
-
+## Chap. 68.—wild Plums: Two Remedies
 
 The fruit of the wild plum, or the bark of the root,[3129] boiled down
 to one-third in one hemina of astringent wine, arrests looseness of
 the bowels and griping pains in the stomach: the proper dose of the
 decoction is one cyathus.
 
-
-
-
-CHAP. 69.—THE LICHEN ON PLUM-TREES: TWO REMEDIES.
-
+## Chap. 69.—the Lichen on Plum-Trees: Two Remedies
 
 Upon the bark of the wild and cultivated plums we find an
 excrescence[3130] growing, known to the Greeks by the name of “lichen:”
 it is remarkably good for chaps and condylomatous swellings.
 
-
-
-
-CHAP. 70.—MULBERRIES: THIRTY-NINE REMEDIES.
-
+## Chap. 70.—mulberries: Thirty-Nine Remedies
 
 In Egypt and in the Isle of Cyprus there are, as already stated,[3131]
 mulberry-trees of a peculiar kind, being of a nature that is truly
@@ -18785,12 +16670,8 @@ bowels. The marvels which are presented by this tree, and of which we
 have made some mention[3136] when describing it, would almost appear to
 belong to a creature gifted with animation.
 
-
-
-
 CHAP. 71.—THE MEDICAMENT CALLED STOMATICE, ARTERIACE, OR PANCHRESTOS:
 FOUR REMEDIES.
-
 
 From the fruit of the mulberry a medicament is prepared, called
 “panchrestos,”[3137] “stomatice,” or “arteriace:” the following is the
@@ -18846,11 +16727,7 @@ extremely useful for tooth-ache, gatherings, and suppurations; it acts,
 also, as a purgative upon the bowels. Mulberry-leaves, macerated in
 urine, remove the hair from hides.
 
-
-
-
-CHAP. 72.—CHERRIES: FIVE OBSERVATIONS UPON THEM.
-
+## Chap. 72.—cherries: Five Observations upon Them
 
 Cherries are relaxing to the bowels and unwholesome[3144] to
 the stomach; in a dried state, however, they are astringent and
@@ -18859,11 +16736,7 @@ taken early in the morning covered with dew, the kernels being eaten
 with them, the bowels will be so strongly acted upon as to effect a
 cure for gout in the feet.
 
-
-
-
-CHAP. 73.—MEDLARS: TWO REMEDIES. SORBS: TWO REMEDIES.
-
+## Chap. 73.—medlars: Two Remedies. Sorbs: Two Remedies
 
 Medlars, the setania[3146] excepted, which has pretty nearly the
 same properties as the apple, act astringently upon the stomach and
@@ -18871,11 +16744,7 @@ arrest looseness of the bowels. The same is the case, too, with dried
 sorbs;[3147] but when eaten fresh, they are beneficial to the stomach,
 and are good for fluxes of the bowels.
 
-
-
-
-CHAP. 74. (8.)—PINE-NUTS: THIRTEEN REMEDIES.
-
+## Chap. 74. (8.)—pine-Nuts: Thirteen Remedies
 
 Pine-nuts,[3148] with the resin in them, are slightly bruised, and then
 boiled down in water to one-half, the proportion of water being one
@@ -18892,11 +16761,7 @@ stomach of extreme violence, they are mixed with cucumber-seed and
 juice of purslain; they are employed, too, in a similar manner for
 ulcerations of the bladder and kidneys,[3150] having a diuretic effect.
 
-
-
-
-CHAP. 75.—ALMONDS: TWENTY-NINE REMEDIES.
-
+## Chap. 75.—almonds: Twenty-Nine Remedies
 
 A decoction of the root of the bitter almond[3151] clears the
 complexion, and gives the face a brighter colour.[3152] Bitter almonds
@@ -18928,22 +16793,14 @@ As to sweet almonds, their remedial properties are not[3161] so
 extensive; still, however, they are of a purgative nature, and are
 diuretic. Eaten fresh, they are difficult[3162] of digestion.
 
-
-
-
-CHAP. 76.—GREEK NUTS: ONE REMEDY.
-
+## Chap. 76.—greek Nuts: One Remedy
 
 Greek nuts,[3163] taken in vinegar with wormwood seed, are said to be
 a cure for jaundice. Used alone, they are employed topically for the
 treatment of diseases of the fundament, and condylomata in particular,
 as also cough and spitting of blood.
 
-
-
-
-CHAP. 77.—WALNUTS: TWENTY-FOUR REMEDIES. THE MITHRIDATIC ANTIDOTE.
-
+## Chap. 77.—walnuts: Twenty-Four Remedies. The Mithridatic Antidote
 
 Walnuts[3164] have received their name in Greek from being
 oppressive[3165] to the head; for, in fact, the emanations[3166] from
@@ -18980,12 +16837,8 @@ Walnut kernels, chewed by a man fasting, and applied to the wound,
 effect an instantaneous cure, it is said, of bites inflicted by a mad
 dog.
 
-
-
-
 CHAP. 78.—HAZEL-NUTS: THREE OBSERVATIONS UPON THEM. PISTACHIO-NUTS:
 EIGHT OBSERVATIONS UPON THEM. CHESNUTS: FIVE OBSERVATIONS UPON THEM.
-
 
 Hazel-nuts[3175] are productive of head-ache, and flatulency of the
 stomach; they contribute, however, to the increase of flesh more than
@@ -19002,12 +16855,8 @@ Chesnuts[3180] have a powerful effect in arresting fluxes of the
 stomach and intestines, are relaxing to the bowels, are beneficial in
 cases of spitting of blood, and have a tendency to make flesh.[3181]
 
-
-
-
 CHAP. 79.—CAROBS: FIVE OBSERVATIONS UPON THEM. THE CORNEL; ONE REMEDY.
 THE FRUIT OF THE ARBUTUS.
-
 
 Fresh carobs[3182] are unwholesome to the stomach, and relaxing to
 the bowels;[3183] in a dried state, however, they are astringent, and
@@ -19021,11 +16870,7 @@ the rust of which is applied for the cure of incipient lichens. The
 arbutus or unedo[3187] bears a fruit that is difficult of digestion,
 and injurious to the stomach.
 
-
-
-
-CHAP. 80.—THE LAUREL; SIXTY-NINE OBSERVATIONS UPON IT.
-
+## Chap. 80.—the Laurel; Sixty-Nine Observations upon It
 
 All parts of the laurel, both the leaves, bark, and berries, are
 of a warming[3188] nature; and a decoction of them, the leaves
@@ -19099,11 +16944,7 @@ wood, chewed, brings off phlegm, and the leaves act as an “emetic;”
 they are unwholesome, however, to the stomach. The berries, too, are
 sometimes taken, fifteen in number, as a purgative.
 
-
-
-
-CHAP. 81.—MYRTLE; SIXTY OBSERVATIONS UPON IT.
-
+## Chap. 81.—myrtle; Sixty Observations upon It
 
 The white[3205] cultivated myrtle is employed for fewer medicinal
 purposes than the black one.[3206] The berries[3207] of it are good
@@ -19159,11 +17000,7 @@ swellings in the inguinal glands, it will suffice for the patient to
 carry[3218] a sprig of myrtle about him which has never touched the
 ground or any implement of iron.
 
-
-
-
-CHAP. 82.—MYRTIDANUM: THIRTEEN REMEDIES.
-
+## Chap. 82.—myrtidanum: Thirteen Remedies
 
 We have already described the manner in which myrtidanum[3219] is made.
 Applied in a pessary, or as a fomentation or liniment, it is good for
@@ -19177,12 +17014,8 @@ is employed, also, for dyeing the hair black, the suppression of
 exudations at the arm-pits,[3220] the removal of freckles, and other
 purposes in which astringents are required.
 
-
-
-
 CHAP. 83.—THE WILD MYRTLE, OTHERWISE CALLED OXYMYRSINE, OR
 CHAMÆMYRSINE, AND THE RUSCUS: SIX REMEDIES.
-
 
 The wild myrtle, oxymyrsine,[3221] or chamæmyrsine, differs from the
 cultivated myrtle in the redness of its berries and its diminutive
@@ -19204,22 +17037,18 @@ are just the same.
 Thus much, then, with reference to the medicinal properties of the
 cultivated trees; let us now pass on to the wild ones.
 
-
 SUMMARY.—Remedies, narratives, and observations, nine hundred and
 eighteen.
-
 
 ROMAN AUTHORS QUOTED.—C. Valgius,[3225] Pompeius Lenæus,[3226] Sextius
 Niger[3227] who wrote in Greek, Julius Bassus[3228] who wrote in
 Greek, Antonius Castor,[3229] M. Varro,[3230] Cornelius Celsus,[3231]
 Fabianus.[3232]
 
-
 FOREIGN AUTHORS QUOTED.—Theophrastus,[3233] Democritus,[3234]
 Orpheus,[3235] Pythagoras,[3236] Mago,[3237] Menander[3238] who wrote
 the “Biochresta,” Nicander,[3239] Homer, Hesiod,[3240] Musæus,[3241]
 Sophocles,[3242] Anaxilaüs.[3243]
-
 
 MEDICAL AUTHORS QUOTED.—Mnesitheus,[3244] Callimachus,[3245]
 Phanias[3246] the physician, Timaristus,[3247] Simus,[3248]
@@ -19234,8 +17063,7 @@ Sosimenes,[3274] Tlepolemus,[3275] Metrodorus,[3276] Solo,[3277]
 Lycus,[3278] Olympias[3279] of Thebes, Philinus,[3280] Petrichus,[3281]
 Micton,[3282] Glaucias,[3283] Xenocrates.[3284]
 
-
-FOOTNOTES:
+## Footnotes
 
 [1] In B. ii. c. 63.
 
@@ -23018,7 +20846,6 @@ and
 
 Rapa juvat stomachum, novit producere ventum.
 
-
 [1338] Dioscorides and Galen say the same, but this property is not
 recognized in modern times.
 
@@ -23228,7 +21055,6 @@ affected with a similar disease.
 
 Non modicum sanas Asclepius asserit illas, Præsertim stomacho,
 pulchrumque creare colorem.
-
 
 [1401] This is not the case.
 
@@ -28896,10 +26722,9 @@ see end of B. xviii.
 
 [3284] See end of B. xx.
 
-  END OF VOL. IV.
+## End of Vol. IV
 
-  J. BILLING, PRINTER AND STEREOTYPER, WOKING, SURREY.
-
+## J. Billing, Printer and Stereotyper, Woking, Surrey
 
 Transcriber’s Notes:—
 

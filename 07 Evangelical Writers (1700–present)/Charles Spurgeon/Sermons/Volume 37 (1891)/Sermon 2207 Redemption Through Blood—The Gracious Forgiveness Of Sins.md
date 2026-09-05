@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Redemption Through Blood—The Gracious Forgiveness Of Sins
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2207
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In whom we have redemption through His blood, the forgiveness of sins, according to the riches of His Grace." Ephesians 1:7.
 
@@ -136,7 +133,6 @@ With Divine assurance knowing,
 He has made my peace with God." You know the story of the poor bricklayer who fell from a scaffold, and when they took him up, he was so much injured that they fetched a minister to him, who, stooping over him, said, "My dear Man, you have a very short time to live. I entreat you to make your peace with God." To the surprise of the minister, the man opened his eyes and said, "Make my peace with God, Sir? It was made for me nearly 1,900 years ago, upon the Cross of Calvary, by Him that loved me and gave Himself for me." Oh, the joy which this creates in the heart! Yes, it is in Jesus that the peace is made— effectually made, made for me, made for you, made for all Believers! In Jesus is perfect redemption! In Jesus pardon is provided, proclaimed, presented and sealed upon the conscience! Go and live on Jesus; live with Jesus; live in Jesus; never go away from Jesus and may He be dearer to you every day of your lives! Blessed be His adorable name! Amen, and Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ephesians 1.
-
 
 ---
 [[Sermon 2206 Am I A Sea, Or A Whale|← #2206]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2208 The Statute of David for the Sharing of the Spoil|#2208 →]]

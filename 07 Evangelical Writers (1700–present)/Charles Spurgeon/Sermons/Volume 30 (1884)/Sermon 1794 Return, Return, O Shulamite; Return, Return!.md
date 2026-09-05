@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # "Return, Return, O Shulamite; Return, Return!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1794
@@ -87,8 +86,7 @@ Here I leave you in the joyful presence of the King. We cannot cease speaking at
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 21.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—917,779,853.
-
+## Hymns from "Our Own Hymn Book"—917,779,853
 
 ---
 [[Sermon 1793 The Glory in the Rear|← #1793]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1795 Pleading and Encouragement|#1795 →]]

@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 16. Letter XV. To Masters Martin and Nicolas
 
-LETTER XV. TO MASTERS MARTIN AND NICOLAS
-
-MILICZIN
+## Miliczin
 
 (August 1412)
 
@@ -26,7 +23,7 @@ Ought he to follow it ? 80-82
 
 CONTENTS xvii
 
-PART III
+## Part III
 
 A SYNOD AT PRAGUE; Hcs's APPEAL; A NEW COMMISSION; FRUITLESS EFFORTS; THE BANISHMENT OF STANISLAUS AND PALECZ ; OLD TOWN ELECTIONS ; Hcs IN THE COUNTRY ; His De Ecclesia', VAST PREACHING LABOURS; THE NATIONAL PARTY ; LETTERS OF THE EXILE 83-8
 

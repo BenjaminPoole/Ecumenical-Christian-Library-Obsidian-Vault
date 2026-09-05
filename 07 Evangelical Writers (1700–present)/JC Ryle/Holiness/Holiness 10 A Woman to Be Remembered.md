@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # A Woman to Be Remembered
 
-Chapter X · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter X · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Remember Lot’s Wife*.”—Luke xvii. 32.
 
@@ -172,7 +171,6 @@ And now, let me conclude this paper by offering to all who read it, a few questi
 (*j*) Do you belong to an Evangelical congregation? Many do, and, alas, go no further! They hear the truth Sunday after Sunday and remain as hard as the nether-millstone. Sermon after sermon sounds in their ears. Month after month they are invited to repent, to believe, to come to Christ, and to be saved. Year after year passes away, and they are not changed. They keep their seat under the teaching of a favourite minister, and they also keep their favourite sins. If you are such an one, I say to you this day, Take care: “Remember Lot’s wife.”
 
 Oh, may these solemn words of our Lord Jesus Christ be deeply graven on all our hearts! May they awaken us when we feel sleepy—revive us when we feel dead—sharpen us when we feel dull—warm us when we feel cold! May they prove a spur to quicken us when we are falling back, and a bridle to check us when we are turning side I May they be a shield to defend us when Satan casts a subtle temptation at our heart; and a sword to fight with, when he says boldly, “Give up Christ, come back to the world, and follow me!” Oh, may we say, in such hours of trial, “Soul, remember thy Saviour’s warning! Soul, soul, hast thou forgotten His words? Soul, soul, ‘REMEMBER LOT’S WIFE!’”
-
 
 ---
 [[Holiness 09 Lot|← Lot]] · [[Holiness|Holiness Contents]] · [[Holiness 11 Christ’s Greatest Trophy|Christ’s Greatest Trophy →]]

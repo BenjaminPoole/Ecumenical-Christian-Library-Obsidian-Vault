@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Incense and Light
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1710
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 11, 1883,.
+*Delivered on Lord's-Day Morning, March 11, 1883*
 
 > "And Aaron shall burn thereon sweet incense every morning: when he dresses the lamps, he shall burn incense upon it. And when Aaron lights the lamps at twilight, he shall burn incense upon it, a perpetual incense before the Lord throughout your generations." Exodus 30:7,8.
 
@@ -124,7 +123,6 @@ I need your prayers for tonight's sermon. You will not be here, for strangers ar
 When the congregation is gathered, pray that the speaker may be guided of the Holy Spirit to a right theme. The preacher has no manuscript, so that there is room for the Spirit's guidance, and he may be led to say what he never thought of saying—the right word may thus be spoken in the right way so as to reach the heart! Then pray that there may be given the willing ear, the receptive mind, the retentive memory—that impressions may be made, tonight, and at all other times, such as even Satan cannot remove. And, oh, pray that tonight many who have been halting between two opinions may decide for God! Pray that many who have not, before, found the Savior's face will be converted! Pray that many who have been, up to now, of a sorrowful spirit, will be led into the joy of the Lord!
 
 I shall feel it a joyous work to be the lamplighter, tonight, for my Master, if I know that I have you at home pleading earnestly on my behalf! Give me this aid this morning, too. Pray God to bless each word that has been spoken. Pray that some poor sinner's soul may be perfumed by the merits of Jesus and illuminated with the Divine Light! Pray for this and it shall be done, for the Lord hears His people! We need, more and more, to be a praying Church—and then we shall be a growing Church! Up to now we have had a great blessing, but the windows of Heaven are wide enough for a greater one to come down through them! The more we plead with God and the more we set forth the light of the Gospel, the more will God be with us and build up, in this place, a temple for His praise! May His love be with you. Amen.
-
 
 ---
 [[Sermon 1709 The Best War Cry|← #1709]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1711 A Sermon to the Lord's Little Children|#1711 →]]

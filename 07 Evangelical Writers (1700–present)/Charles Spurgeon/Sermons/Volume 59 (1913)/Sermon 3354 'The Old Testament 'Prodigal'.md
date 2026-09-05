@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'The Old Testament 'Prodigal'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3354
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers, and prayed unto Him: and He was entreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord, He was God." 2 Chronicles 33:12,13.
 
@@ -27,7 +24,7 @@ We do not find many of what we can accurately call conversions in the Old Testam
 
 We will waste no time on a preface, but come at once to the life story of Manasseh, and look, first, at his circumstances. Then consider him as a great sinner And afterwards, with greater comfort, view him as a remarkable convert First, let us notice—
 
-I. HIS CIRCUMSTANCES.
+## I. His Circumstances
 
 A man's sin may be heightened by his position, or, on the other hand, the condition in which he is placed may suggest some alleviating considerations which, in all fairness, should be remembered. Now, with regard to Manasseh, we find that he was the child of an eminently godly father—the son of a king who, with all his mistakes, was sound in heart towards God. Hezekiah "worked that which was good, and right, and truth before the Lord his God." He was a man mighty in prayer and found deliverance thereby in the hour of great peril through the invasion of Sennacherib. Hezekiah
 
@@ -43,7 +40,7 @@ idolatries which his father Hezekiah had so much abhorred! Look at him, then, as
 
 These are some of the circumstances of Manasseh's life. Now, I have a heavy task and one which saddens me, though it is concerning one who lived so many hundreds of years ago—I have mournfully to describe Manasseh as—
 
-II. A GREAT SINNER.
+## II. A Great Sinner
 
 If you will turn to the Second of Chronicles, Chapter 33, and will follow the verses, you will get a view of this atrocious offender. In the second verse we read, "He did that which was evil in the sight of the Lord. "That is a description of his life as a whole. Take his 55 years' reign in the bulk, notwithstanding the repentance of his later years, it is a true estimate of it all to say that "he did evil in the sight of the Lord." He was a son of David, but he was the very reverse of that king who was always faithful in his loyalty to the one only God of Israel! David's blood was in his veins, but David's ways were not in his heart. He was a wild, degenerate shoot of a noble vine!
 
@@ -79,7 +76,7 @@ Such was this Manasseh—the very chief of sinners! I feel certain that among th
 
 iniquity, and yet he was saved by Divine Grace! O you who hear these words or read them, never dare to doubt the possibility of your being forgiven! If such a wretch as Manasseh was brought to repentance, surely no one need despair! Now listen to what Almighty Grace, nevertheless, did for Manasseh, whom we will now think of as—
 
-III. A REMARKABLE CONVERT.
+## III. A Remarkable Convert
 
 His conversion began, or was worked at its commencement, instrumentally, by his afflictions. The king of Assyria came against him and he was unable to resist his assault. Sennacherib, a former king of Assyria, had invaded the land in the days of Hezekiah and the Lord had delivered His people, but there was no God to deliver Manasseh, and so the armies of Assyria overran the land and the royal idolater found his idols fail him. For fear of being captured in Jerusalem, he fled and concealed himself in a thorn brake, but was soon captured, or "taken among the thorns," and led in chains to Babylon. He seems to have been very severely handled by the king, who was, probably, Esarhaddon, king of united Assyria and Babylon, for he is spoken of as taken with hooks, such as large fish are taken with, or held by a ring such as is often passed through the noses of wild beasts. If this is only a figure, it represents Manasseh as regarded by the Assyrian king as an unmanageable beast to be subdued by rigor—even as a bull is managed by a ring in his nose. We are also told that he was loaded with double fetters of brass and was taken down to Babylon, to be kept in a close dungeon. The Assyrians were notoriously a fierce people and Manasseh, having provoked them, felt all the degradation, scorn and cruelty which anger could invent! He who had trusted idols was made a slave to an idolatrous people! He who had shed very much blood was now in daily jeopardy of the shedding of his own! He who had insulted the Lord must now be continually insulted himself. That which he had meted out was measured into his own bosom! He was the prodigal in actual life, in a far country, where he gladly would have filled his belly with the husks that the swine ate, but no man gave unto him. While fast chained in prison, the iron entered into his soul and his thoughts troubled him. How vain, now, to cry to Baal or Ashtaroth! The stars that peered through the grated bars of his dungeon upbraided him for his foolish worship and the sun and moon took up the tale of rebuke. Familiar spirits were familiar no longer and magic, with its lying wonders, could not release him! No, nor the witches and wizards with their enchantments.
 
@@ -98,7 +95,6 @@ Manasseh also did his best to undo what he had done, and to restore what he had 
 But secondly, never turn it into an excuse for continuing in sin, for this case of Manasseh, with all its mercy, is still a sad one. Though we have seen how Grace gave it a good ending, yet, take it for all-in-all, it is a sad case and as a life, Manasseh's was wasted, misspent and full of wretchedness. Although he sought to mend matters, he could not fully undo what he had done. The people were nothing like as eager to follow the right as they were the wrong—and after many years of royal patronage of idolatry it was not easy for the masses to turn around, all of a sudden, and so the people sacrificed on their high places, though only to Jehovah, and their hearts still went after their idols.
 
 The last word is, seek for mercy, all of you. Do not neglect it because of its greatness, but rather hasten to receive it! Since we all need more mercy than we imagine, let us cry for it at once in hearty earnest! Let us come to the fountain which is opened for the house of David and for the inhabitants of Jerusalem and wash therein! Let us, by faith in Jesus' blood, wash and be clean! The Lord make us to do so, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 3353 The Great Teacher and Remembrancer|← #3353]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3355 Life's Inevitable Burden|#3355 →]]

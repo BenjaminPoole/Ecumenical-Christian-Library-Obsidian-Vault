@@ -9,12 +9,11 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**TO THE MOST RENOWNED PRINCE, THE LORD NICOLAS RADZIWILL, DUKE IN OLIKA,**
+***To the Most Renowned Prince, the Lord Nicolas Radziwill, Duke in Olika,***
 
-**COUNTY PALATINE OF VILNA, CHIEF MARSHAL, AND HEAD CHANCELLOR OF THE GREAT DUKEDOM OF LITHUANIA, ETC.,**
+## **County Palatine of Vilna, Chief Marshal, and Head Chancellor of the Great Dukedom of Lithuania, Etc.,**
 
 HIS LORD HIGHLY TO BE REVERENCED,  
 JOHN CALVIN.

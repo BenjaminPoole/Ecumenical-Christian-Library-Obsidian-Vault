@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Great Change
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2474
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ephraim shall say, What ha ve I to do anymore with idols? I have heard him, and observed him: I am like a green fir tree. From Me is your fruit found." Hosea 14:8.
 
@@ -137,7 +134,7 @@ If I am addressing any poor soul that has been craving mercy from God, one who h
 
 You see, then, some of the ways in which this very great and wonderful change is worked. I have had to omit many other points on which I meant to speak, but I pray that this change may be worked in each of you. Do not wait to have the change worked and then come to God, but come to God for it! If you have a broken heart, come to Christ with it! But if you have not a broken heart, come to Christ to break your heart! If you feel your sin, come to Christ to have it forgiven, but if you do not feel your sin, come to Christ that you may be made to feel it! If there is any good thing in you, thank God for it, and come to Him for more. But if there is no good thing whatever in you, come without any good thing and let Christ begin at the very beginning with you, in all your emptiness, need, spiritual beggary and loathsomeness! Come to Him just as you are, for He still says, "Him that comes to Me, I will in no wise cast out." May His sweet Spirit graciously attract each of you till you shall be drawn to Him and so drawn from your idols! And to Him shall be Glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 34; HOSEA14.
+## Exposition by C. H. Spurgeon: Psalm 34; Hosea 14
 
 Psalm 34:1. I will bless the LORD at all times. "At dark times and bright times when I am alone, and when I am in company. When I feel like doing it and when I do not feel like doing it. 'I will bless the Lord at all times.'"
 
@@ -212,7 +209,6 @@ Hosea 14:1. O Israel, return to the LORD your God; for you have fallen by your i
 7\. They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon. When God blesses men, He also blesses those round about them. Your children, your servants, your neighbors shall all be the better if the Grace of God comes to you. So may it be!
 
 8,9. Ephraim shall say, What have I to do anymore with idols? I have heard him, and observed him: I am like a green fir tree. From Me is your fruit found. Who is wise? Let him understand these things. Who is prudent? Let him know them. For the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.
-
 
 ---
 [[Sermon 2473 An Awful Contrast|← #2473]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2475 My Garden—His Garden|#2475 →]]

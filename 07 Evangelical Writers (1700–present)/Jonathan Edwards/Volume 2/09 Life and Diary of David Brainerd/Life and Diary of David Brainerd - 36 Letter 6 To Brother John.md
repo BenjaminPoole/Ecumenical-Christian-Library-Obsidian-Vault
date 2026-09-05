@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER VI.
 
 *To his brother John*, *at college.*
@@ -25,7 +24,7 @@ My dear brother; *The Lord of heaven*, that has carried me through many trials, 
 
 I am your affectionate brother,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

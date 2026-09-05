@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 13. Can we ourselves then make this satisfaction?
-
-**Question 13. Can we ourselves then make this satisfaction?**
 
 Answer. By no means; but on the contrary we daily increase our debt.
 
-**EXPOSITION**
+## **Exposition**
 
 Having given an explanation of the manner in which our deliverance is accomplished, we must now inquire by whom this satisfaction, and abolishing of sin can be effected: whether by ourselves, or by some one else? And if by some one else, whether it be by a mere creature? And if not by a mere creature, by whom, therefore, and by what kind of a mediator? The first of these questions is answered in this 13th Question of the Catechism. The other two are answered in the 14th and 15th Questions of the Catechism.
 

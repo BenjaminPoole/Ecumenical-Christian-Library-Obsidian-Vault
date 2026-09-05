@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 26
-
-**PSALM 26.**
 
 This psalm, for the most part, is similar to the preceding. The prophet, oppressed with numerous wrongs, and finding no succor in the world, implores the aid of God, entreating him to undertake the cause of a man unrighteously afflicted, and to assert his innocence. And as his contest was with hypocrites, he appeals to the judgment of God, sharply reproving them for making a false profession of God’s name. In the conclusion, as if he had obtained his wish, he promises a sacrifice of praise to God for his deliverance.
 

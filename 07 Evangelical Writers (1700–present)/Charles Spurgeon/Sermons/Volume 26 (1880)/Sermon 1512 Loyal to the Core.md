@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Loyal to the Core
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1512
@@ -29,7 +28,7 @@ I am going to use Ittai’s language for a further purpose. If Ittai, charmed wi
 
 And so, I shall begin by noticing first *in what form this declaration was made,* that we may learn from it how to make the same declaration.
 
-I. IN WHAT FORM AND MANNER WAS THIS DECLARATION MADE?
+## I. In What Form and Manner Was This Declaration Made?
 
 It was made, first, at a time *when David’s fortunes were at their lowest ebb,* and consequently it was made unselfishly, without the slightest idea of gain from it. David was now forsaken of everybody. His faithful bodyguard was all that he had on earth to depend upon, and then it was that Ittai cast in his lot with David. Now beloved, it is very easy to follow religion when she goes abroad in her silver slippers, but the true man follows her when she is in rags, and goes through the mire and the slough. To take up with Christ when everybody cries up his name is what a hypocrite would do, but to take up with Christ when they are shouting, ‘Away with him! away with him!’ is another matter. There are times in which the simple faith of Christ is at a great discount. At one time imposing ceremonies are all the rage, and everybody loves decorated worship, and the pure simplicity of the gospel is overloaded and encumbered with meretricious ornaments; it is such a season that we must stand out for God’s more simple plan, and reject the symbolism which verges on idolatry and hides the simplicity of the gospel.
 
@@ -96,7 +95,6 @@ Unto the Lord our God belong the issues from death, and he restoreth our soul. T
 With love to all the saints, yours,
 
 Menton, Dec. 26, 1879.
-
 
 ---
 [[Sermon 1511 Questions Which Ought To Be Asked|← #1511]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1513 Cheer Up, My Comrades!|#1513 →]]

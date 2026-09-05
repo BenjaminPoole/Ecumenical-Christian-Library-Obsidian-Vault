@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Titus 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Titus 3:1-3
 
@@ -186,7 +185,7 @@ At the same time, we learn from Paul’s words that we must not rashly or at ran
 
 **14** *And let ours also learn to excel in good works.* [^13] That the Cretans, on whom he lays this burden, may not complain of being loaded with the expense, he reminds them that they *must not be unfruitful,* and that therefore they must be warmly exhorted to be zealous in good works. But of this mode of expression we have already spoken. Whether, therefore, he enjoins them to excel in good works, or to assign the highest rank to good works, he means that it is useful for them to have an opportunity afforded for exercising liberality, that they may not “be unfruitful” on this ground, that there is no opportunity, or that it is not demanded by necessity. What follows has been already explained in the other Epistles.
 
-**END OF CALVIN’S COMMENTARY ON TITUS**
+## **End of Calvin’s Commentary on Titus**
 
 ---
 [[Calvin Titus 2|← Titus 2]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Titus/titus-index|Contents]]

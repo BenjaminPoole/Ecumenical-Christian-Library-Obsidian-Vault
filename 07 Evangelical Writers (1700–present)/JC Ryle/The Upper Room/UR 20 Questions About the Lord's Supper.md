@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Questions About the Lord's Supper
 
-Chapter XX · *The Upper Room* — J. C. Ryle
+## Chapter XX · *The Upper Room* — J. C. Ryle
 
 THE paper which begins at this page requires a few words of prefatory explanation. It consists of fifty-one questions about the Lord's Supper, with special reference to points which are the subject of much dispute and controversy in the present day. It supplies fifty-one answers to these questions, chiefly drawn from the New Testament, and the Articles, Communion Service, and Catechism of the Church of England. It contains, in addition, some valuable extracts from the writings of standard English divines.
 
@@ -258,7 +257,6 @@ The answer is plain and obvious. This "policy of compromise and toleration" woul
 51. What is the Real Presence that the Church of England specially needs in these latter days?
 
 It is the presence of God the Holy Spirit. This is of far more importance than any corporal presence of Christ. Our question in every place of worship should be, not, "Is Christ's body here?" but, "Is the Spirit, the Comforter, here?" Excessive craving after Christ's material bodily presence before the Second Advent is in reality dishonouring the Holy Spirit. Where He is, there will be God's blessing. Where He is, there will be true honour given to the body and blood of Christ. What the Church of Christ needs everywhere is the real presence of the Holy Ghost. If the Holy Spirit is not present, the highest show of reverence for the consecrated bread and wine in the Lord's Supper is useless formality, and completely worthless in God's sight.
-
 
 ---
 [[UR 19 Thoughts for Young Men|← Thoughts for Young Men]] · [[The Upper Room|Upper Room Contents]] · [[UR 21 For Kings|For Kings. →]]

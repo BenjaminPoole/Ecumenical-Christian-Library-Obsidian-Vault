@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # How To Become Fishers of Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1906
@@ -77,18 +76,17 @@ Perhaps I speak to an attentive hearer who is not converted at all. Friend, I ha
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Matt. 4 verse 12, &c.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—45, 12, 262.
+## Hymns from "Our Own Hymn Book"—45, 12, 262
 
 *Just Published. Price One Shilling.*
 
-AN EARNEST WORD WITH THOSE WHO ARE SEEKING SALVATION BY THE LORD JESUS CHRIST.
+## An Earnest Word with Those Who Are Seeking Salvation by the Lord Jesus Christ
 
 ### BY C. H. SPURGEON.
 
 "Every word is weighted with precious truth, and truth so simply and convincingly put that none can fail to understand God's way of salvation. Powerful illustrations, apt and original similes, and the one affectionate desire to win for Christ and to Christ, make it a gospel treasury of priceless worth."—*The Christian.*
 
 Passmore & Alabaster, Paternoster Buildings; and all Booksellers.
-
 
 ---
 [[Sermon 1905 Healing and Pardon|← #1905]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1907 'The Tender Mercy of Our God'|#1907 →]]

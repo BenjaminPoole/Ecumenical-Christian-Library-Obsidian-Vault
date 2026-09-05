@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Eternal Truth of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1265
@@ -141,10 +140,9 @@ Truth of God shall never die and Christ's Throne shall never shake, for the plea
 
 PORTION OF SCRIPTURE READ BEFORE SECTION—Psalm 85. HYMNS FROM "OUR OWN HYMN BOOK"— 100 (VERS. IV), 193,1,009.
 
-THE BAPTIST BULLETIN
+## The Baptist Bulletin
 
 THE PILGRIM FATHERS—This is actually a reprint of Brown's work, published in commemoration of the 350th anniversary of the landing of the Pilgrims at Plymouth Rock. It would be good for every American (assuming that he would read with an open mind ) to read this account of the noble band so indelibly tied in with the origins of our nation. It is interesting to read quotations such as this—"For that the propagation of the Gospel is a thing we do profess above all to be our aim in settling this plantation, we have been careful to make plentiful provision of godly ministers, by whose faithful preaching, godly conversation and exemplary life we trust not only those of our own nation will be built up in the knowledge of God, but also the Indians may, in God's appointed time, be reduced to the obedience of the Gospel of Christ." Would that such a purpose would be characteristic of our nation as a whole today!
-
 
 ---
 [[Sermon 1264 The Man of One Subject|← #1264]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1266 Paul's Doxology|#1266 →]]

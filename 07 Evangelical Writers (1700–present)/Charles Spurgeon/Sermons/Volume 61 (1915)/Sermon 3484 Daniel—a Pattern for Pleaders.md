@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Daniel—a Pattern for Pleaders
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3484
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Lord, hear; O Lord, forgive; O Lord, listen and do; defer not, for Your own sake, O my God, for Your city and Your people are called by Your name." Daniel 9:19.
 
@@ -29,7 +26,7 @@ My objective here and now will be to stir up the people of God and especially th
 
 First, our text gives us a model of prayer. Secondly, it and its surroundings give us encouragement for prayer First, then, our text gives us—
 
-I. A MODEL OF PRAYER.
+## I. A Model of Prayer
 
 I think I may notice this first as to the antecedents of the prayer. This prayer of Daniel was not offered without consideration. He did not come to pray as some people do, as though it were a thing that required no forethought whatever. We are constantly told we ought to prepare our sermons and I surely think that if a man does not prepare his sermons he is very blameworthy. But are we never to prepare when we speak to God, but only when we speak to man? Is there to be no preparation of the heart of man when we open our mouth before the Lord? Do not you think we often, both in private and public, begin to pray without any kind of preparation? The words come and then we try to quicken them rather than the desires coming first and the words like garments to clothe them?
 
@@ -57,7 +54,7 @@ Now the last thing I shall call your attention to in this model prayer is this, 
 
 Then next, He puts it on the same footing in another shape, "For Your city and Your people." He urges that this people were not like other people. They had truly sinned, but still there was a relationship between them and God that existed between God and no other people! He pleads the Covenant, in fact, between Abraham and Abraham's seed and the God of the whole earth. Good pleading that! And then he puts in next, "For they are called by Your name." They were said to be Jehovah's people. They were named by the name of the God of Israel. "O God! Let not a thing that bears Your name be rolled about like a common thing! Suffer it not to be trailed in the dust—come to the rescue of it! Your stamp, Your seal is upon Israel. Israel belongs to You, therefore come and interpose." Now from this I gather that if we would prevail we should plead arguments with God—and these are very many—and discreet minds, when they are fervent, will readily know how far to go in pleading, and where to stop. I remember one morning a dear Brother now present praying in a way that seemed to me to be very prevalent when He spoke thus, "O Lord, You have been pleased to call Your Church, Your Bride. Now we, being evil, have such love towards our spouses that if there were anything in the world that would be for her good, we would not spare to give it to her. And will You not, O Husband of the Church, do the same with Your Spouse and let Your Church receive a blessing, now that she pleads for it?" It seemed good arguing, after Christ's own sort, "If you, being evil, know how to give good gifts unto your children, how much more shall your Heavenly Father give the Holy Spirit to them that ask Him?" Get a promise and spread it before the Lord, and say, "O Lord, You have said it—do it!" God loves to be believed in. He loves you to think He means what He says. He is a practical God. His word has power in it and He does not like us to treat His promises as some of us do, as if they were waste paper, as if they were things to be read for the encouragement of our enthusiasm, but not to be used as matters of real practical truth! Oh, plead them with God! Fill your mouths with reasoning and come before Him. Make this your determination, that as a Church, seeing we need His Spirit and need renewed prosperity, we will not spare nor leave a single argument unused by which we may prevail with the God of Mercy to send us what we need! Thus much, then, upon this as a model prayer. Now I shall need a little longer time to speak upon—
 
-II. THE ENCOURAGEMENT WHICH THE TEXT AND ITS SURROUNDINGS GIVE TO US IN PRAYER.
+## II. The Encouragement Which the Text and Its Surroundings Give to Us in Prayer
 
 Brothers and Sisters, it is always an encouragement to do a thing when you see the best of men doing it. Many a person has taken a medicine only because he has known wiser men than himself take it. The best and wisest of persons in all ages have adopted the custom of prayer in times of distress and, indeed, in all times. That ought to encourage us to do the same. I heard a dear Welsh brother speak last Thursday evening who interested and amused me, too, but I cannot profess to repeat the way in which he told us a Biblical story. It was something in this way. He told it as a Welshman, and not quite as I think I might. He said that after the Lord Jesus Christ had gone up to Heaven, having told His disciples to wait at Jerusalem till the Spirit of God was given, Peter might have said, "Well, now we must not go out preaching till this blessing comes, so I shall be off afishing." And John might have said, "Well, there is the old boat over at the lake of Gennesaret. I think I shall go and see how that is getting on—it is a long time since I saw after it." And each one might have said, "Well, I shall go about my business, for it is not many days hence when He is coming, and we may as well be at
 
@@ -101,7 +98,7 @@ bring lasting blessings. Let us not neglect to work when God works. Let the hand
 
 I call you in God's name, to the Mercy Seat! Draw near there, with intense importunity—and such a blessing shall come as you have not yet imagined! Pray for some here present that are unconverted. There are a good many of them. They will not pray for themselves—let us pray them into prayer! Let us pray to God for them until they, at last, pray to God for themselves! Prayer can unlock Mercy's door, for others as well as for our own people! Let us, therefore, abound in prayer, and God, send us the blessing, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DANIEL 9:1-11.
+## Exposition by C. H. Spurgeon: Daniel 9:1-11
 
 Verses 1, 2. In the first year ofDarius, the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans. In the first year of his reign I, Daniel, understood by books the number of the years whereof the Word of the LORD came to Jeremiah the Prophet, that He would accomplish seventy years in the desolations of Jerusa-lem.Daniel was himself a Prophet, but he studied the Inspired prophecies of Jeremiah. If such a man reads Scripture, how much more ought we! Whatever the Light of God we may suppose to dwell within us, we shall do well to walk by the mere sure Word of prophecy.
 
@@ -112,7 +109,6 @@ Verses 1, 2. In the first year ofDarius, the son of Ahasuerus, of the seed of th
 7-9. O Lord, righteousness belongs unto You, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries where You have driven them, because of their trespass that they have trespassed against You. O Lord, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against You. To the Lord our God belong mercies and forgiveness, though we have rebelled against Him. What a gracious verse that is! Surely it might be printed in letters of gold, and every trembling, penitent sinner might look at it till, at last, beams of light should dart into the darkness of his despair!
 
 10, 11. Neither have we obeyed the voice of the LORD our God, to walk in His ways which He set before us by His servants, the Prophets. Yes, all Israel has transgressed Your Law, even by departing, that they might not obey Your voice. Therefore the curse is poured upon us, and the oath that is written in the Law of Moses, the servant of God, because we have sinned against Him.
-
 
 ---
 [[Sermon 3483 The Family Likeness|← #3483]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3485 The Dejected Lover|#3485 →]]

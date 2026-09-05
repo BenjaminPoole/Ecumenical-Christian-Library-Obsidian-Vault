@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Two Pivots
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2633
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." Exodus 3:6.
 
@@ -114,7 +111,6 @@ I am almost ashamed to say what I am going to say. I really feel my very heart b
 If you really do love the Lord, come out and show yourself on His side! And if He is not ashamed of you and if your prayer is, "Lord, remember me when you come into Your Kingdom," acknowledge Him as your Lord and Savior now! You who are not members of any Christian Church—you who have believed in Christ, or think you have—and yet have never confessed Him. You who are hiding like rats behind the wall—come out and confess Christ! What are you doing? How can you be soldiers of the Cross and followers of the Lamb if you fear to acknowledge His cause and blush to speak His name? Come out of your hiding places! May God the Holy Spirit draw or drive you out at once! If anything could do it, surely, it should be such a blessed fact as this—that you are numbered among those of whom it is said that "God is not ashamed to be called their God."
 
 God bless you, dear Friends, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2632 What Shall the Harvest Be|← #2632]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2634 Jesus Only —a Communion Meditation|#2634 →]]

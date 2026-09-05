@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Questions About Regeneration
 
-Chapter XVIII · *The Upper Room* — J. C. Ryle
+## Chapter XVIII · *The Upper Room* — J. C. Ryle
 
 > — John 3:3; 2 Cor. 5:17
 
@@ -124,7 +123,6 @@ I conclude this paper with one general remark about the great principle on which
 The principle of the Prayer Book is to suppose all members of the Church to be in reality what they are in profession, to be true believers in Christ, to be sanctified by the Holy Ghost. The Prayer Book takes the highest standard of what a Christian ought to be, and is all through worded accordingly. The minister addresses those who assemble together for public worship as believers. The people who use the words the Liturgy puts into their mouths are supposed to be believers. But those who drew up the Prayer Book never meant to assert that all who were members of the Church of England were actually and really true Christians! On the contrary, they tell us expressly in the Articles, that "in the visible Church the evil be ever mingled with the good." But they held that if forms of devotion were drawn up at all, they must be drawn up on the supposition that those who used them were real Christians, and not false ones. And in so doing I think they were quite right. A Liturgy for unbelievers and unconverted men would be absurd, and practically useless. The part of the congregation for whom it was meant would care little or nothing for any Liturgy at all. The holy and believing part of the congregation would find its language entirely unsuited to them, and beneath their wants.
 
 How any one can fail to see this principle running through the Prayer-book Services, is one of those things which I must frankly say I fail to understand. It is quite certain that St. Paul wrote his Epistles in the New Testament to the Churches upon this principle. He constantly addresses their members as "saints" and "elect," and as having grace, and faith, and hope, and love, though it is evident that some of them had no grace at all! I am firmly convinced that the compilers of our Prayer Book drew up its Services upon the same lines, the lines of charitable supposition; and it is on this principle alone that the book can be interpreted, and especially on the subject of Baptism and Regeneration. [^1]
-
 
 ---
 [[UR 17 The Rights and Duties of Lay Churchmen|← The Rights and Duties of Lay Churchmen]] · [[The Upper Room|Upper Room Contents]] · [[UR 19 Thoughts for Young Men|Thoughts for Young Men →]]

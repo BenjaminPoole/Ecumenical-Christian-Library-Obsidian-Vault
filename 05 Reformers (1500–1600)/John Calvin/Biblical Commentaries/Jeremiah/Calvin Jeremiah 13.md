@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Jeremiah 13:1-9
 
@@ -65,7 +64,7 @@ The import of this clause then is, “Though the dignity of Judah and Jerusalem 
 
 ## Prayer Lecture 51
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as so many of the people who have been gathered by thee, that they might be the body of thine only-begotten Son, have fallen away, and have by their ingratitude alienated themselves from the hope of eternal salvation, — O grant, that they may again at this day be united together, and hold with us the true unity of faith, so that with one heart and one mouth we may profess thee as our God and Father, and so learn to swear by thy name, that we may acknowledge thee as our Judge, and ascribe to thee all power over us, until we shall at length enjoy that eternal inheritance, into the hope of which thou hast called us and daily invitest; us, through Christ Jesus our Lord. — Amen.
 
@@ -133,15 +132,13 @@ He therefore defends here his calling from their calumnies and reproaches, when 
 
 ## Prayer Lecture 52
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are by nature frail vessels, and our frailty is such that we of ourselves melt away, and when we become stronger we cannot stand by our own power, — O grant, that being supported by thy power, we may indeed rejoice in the perpetuity of our salvation, not indeed relying on any earthly protection, but because thou hast been pleased to choose us as thy people: and may we at the same time so pursue the course of our life, that we may not by our perfidy exclude thy grace from us, but give place to thee, that we may be more and more enriched by those gifts which pertain to the hope of a future life, until we shall at length come to that full and perfect happiness, in thy celestial kingdom, which is laid up for us by Christ our Lord. — Amen.
 
 ## Lecture Fifty Third
 
 ## Jeremiah 13:16
-
-**16** Give glory to the LORD your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while ye look for light, he turn it into the shadow of death, *and* make *it* gross darkness.
 
 Jeremiah pursues the subject, which we began to explain yesterday, for he saw that the Jews were but little moved by what he taught them. He bid them. to regard what he said as coming from God, and told them that they could by no means succeed by their pride. For the same purpose he now adds, *Give glory to Jehovah your God* To give glory to God is elsewhere taken for confessing the truth in his name; for when Joshua abjured Achan, he used these words, “Give glory to God, my son;” that is, As I have set God before you as a judge, beware lest you should think that if you lie you can escape his judgment. (Joshua 7:19) But here, to give glory to God, is the same as to ascribe to him what properly belongs to him, or to acknowledge his power so as to be submissive to his word: for if we deny faith to the prophets; we rob God of his glory, as we thus disown his power, and, as far as we can, diminish his glory. How indeed can we ascribe glory to God except by acknowledging him to be the fountain of all wisdom, justice, and power, and especially by trembling at his sacred word? Whosoever then does not fear and reverence God, whosoever does not believe his word, he robs him of his glory. We hence see that all the unbelieving, though they may testify the contrary by their mouths, are yet in reality enemies to God’s glory and deprive him of it.
 
@@ -192,7 +189,7 @@ I have omitted, if I mistake not, to notice one thing; that is, the pride mentio
 
 **19** The cities of the south shall be shut up, and none shall open *them*: Judah shall be carried away captive all of it, it shall be wholly carried away captive.
 
-By the *cities of the south,* almost all understand the cities of the tribe of Judah, whose portion was towards the south; and by the cities being shut up, they consider that what is meant is, that they would be forsaken; for they say, that cities are open when they are frequented. But I am con- strained here also to take another view. I take the cities of the south to have been those of Egypt; for we know that the Jews looked there for a refuge, whenever they were attacked by the Assyrians or the Chaldeans. Since then they thought that Egypt would be to them a sort of an asylum, the Prophet declares that all these cities would be closed against them, and that there would be no one to open them; as though he had said, “The Lord will drive you out, and will prevent you to take refuge there.”
+By the *cities of the south,* almost all understand the cities of the tribe of Judah, whose portion was towards the south; and by the cities being shut up, they consider that what is meant is, that they would be forsaken; for they say, that cities are open when they are frequented. But I am con-strained here also to take another view. I take the cities of the south to have been those of Egypt; for we know that the Jews looked there for a refuge, whenever they were attacked by the Assyrians or the Chaldeans. Since then they thought that Egypt would be to them a sort of an asylum, the Prophet declares that all these cities would be closed against them, and that there would be no one to open them; as though he had said, “The Lord will drive you out, and will prevent you to take refuge there.”
 
 He would doubtless have spoken more clearly had he meant the cities of Judah; and besides, as he was at Jerusalem, this way of speaking must have been ambiguous, and even improper; and we shall find him presently speaking of the Assyrians as being in the north. He now then warns them, that Egypt would be closed against them, though they at the same time expected that they would be safe there, and that an easily-borne exile was in their power. As then they foolishly trusted that they would be received by the Egyptians, the Prophet says, that the gates would be closed, and that there would be no one to open them. It then follows, *carried away wholly has been Judah, carried away completely;* [^19] that is, “Ye shall all be led away into Assyria and Babylon;” which is the north country, according to what afterwards follows, —
 
@@ -218,7 +215,7 @@ He afterwards says, *Shall not sorrows lay hold on thee as on a woman in travail
 
 ## Prayer Lecture 53
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are so slothful to hear thee, yea, inasmuch as our minds are taken up with so many vanities so that we deceive ourselves*,* — O grant, that thy Holy Spirit may so illuminate us, that we may not despise thy threatenings, but may learn to anticipate in time thy judgment, and thus obtain pardon; that being mindful of thy mercy, we may pursue the course of our calling, until we shall at length be received into that blessed rest, which has been obtained for us by thy only-begotten Son. — Amen.
 
@@ -302,7 +299,7 @@ At length he adds, *Woe to thee, Jerusalem!* The Prophet here confirms what we h
 
 ## Prayer Lecture 54
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast once cleansed us by the blood of thine only-begotten Son, to the end that we might worship thee in true sincerity of heart, and that we might also strive to regulate our whole life according to the rule of righteousness, — O grant that we, being mindful of our vocation, may labor to render ourselves approved by thee, so that thy name may through us be glorified, and that casting far away from us all pollutions, we may retain the simple worship of thee, and preserve ourselves within the limits of thy word, so that we may not be led astray after vanities and the sinful superstitions of this world, but advance towards the mark which thou hast been pleased to set before us, until we shall be at length gathered into that celestial kingdom in which we shall enjoy that inheritance which thine only-begotten Son has provided for us. — Amen.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Is It Nothing To You?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1620
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 11, 1881,.
+*Delivered on Lord's-Day Evening, September 11, 1881*
 
 > "Is it nothing to you, all you that pass by? Behold and see if there is any sorrowlike unto my sorrow, which is done unto me, with which the Lord has afflicted me in the day of His fierce anger." Lamentations 1:12.
 
@@ -136,7 +135,6 @@ We have known some get comfort out of this act of decision. There was a poor gir
 Get to know where you are, Friend. If Baal is God, serve him! If God is God, serve Him! If Christ is a Savior, have Him—if He is not a Savior, do not pretend to serve Him! Decide one way or the other. God help you to decide, tonight, as you will decide when the heavens are on fire, when sun and moon have vanished from their spheres, when the solid earth shall rock and reel and over all shall be heard the trumpet note, "Come to judgment! Come to judgment! Come to judgment!" There sits the Judge, the Crucified, whose sorrows surpassed all sorrows, but whose Glory, then, shall surpass all glory as He shall divide the saints on the right from the graceless on the left—and from His mouth shall come the final sentence which shall settle the doom of Believers and unbelievers.
 
 God bless you, dear Friends, every one of you. Henceforth and forever may you be the Lord's. Amen and amen!
-
 
 ---
 [[Sermon 1619 The Pentecostal Wind and Fire|← #1619]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1621 The Ark of the Covenant|#1621 →]]

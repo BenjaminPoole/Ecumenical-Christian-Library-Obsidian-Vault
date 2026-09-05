@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Sermon and a Reminiscence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3112
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Unto you therefore who believe, He is precious." 1 Peter 2:7.
 
@@ -83,7 +80,7 @@ If you esteem Christ as you should, you will refuse to give Him up at any cost�
 
 Once more, he who really has this high estimate of Jesus will think much of Him. And as the thoughts are sure to run over at the mouth, he will talk much of Him. Do we talk so? If Jesus is precious to you, you will not be able to keep your good news to yourself—you will be whispering it into your child's ear, you will be telling it to your husband, you will be earnestly imparting it to your friends! Without the charms of eloquence, you will be more than eloquent—your heart will speak and your eyes will flail as you talk of His sweet love! Every Christian here is either a missionary or an impostor—remember that you are either trying to spread abroad the Kingdom of Christ, or else you do not love Him at all! It cannot be that there is a high appreciation of Jesus and a totally silent tongue about Him! Of course I do not mean by that, that those who use the pen for Christ are silent—they are not. And those who help others to use the tongue, or spread that which others have written, are doing their part well. But I mean this—that man who says, "I believe in Jesus," but does not think enough of Jesus to ever tell another about Him, by mouth, or pen, or tract is an impostor! You are either doing good, or you are not yourself good. If you know Christ, you are as one who has found honey and you will call others to taste it. You are like the lepers who found the food which the Syrians had cast away—and you will go into Samaria and tell the hungry crowd that you have found Jesus—and are anxious that they should find Him too! Be wise in your generation and speak of Him in fitting ways and at fitting times—and so in every place proclaim the fact that Jesus is most precious to your soul!
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 2.
+## Exposition by C. H. Spurgeon: 1 Peter 2
 
 Verse 1. Therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speaking. This is what we are to lay aside, to put away from us, to banish altogether. These are the old garments of the flesh which we are
 
@@ -154,7 +151,6 @@ not God's will, but "using your liberty...as the servants of God" should use it.
 OUR LORD'S SUBSTITUTION, #2887, Volume 50—A DIRE DISEASE STRANGELY CURED and #1143, Volume 19—DEATH FOR SIN AND DEATH TO SIN] in his own body on the tree, that we, being dead to sins,
 
 should live unto righteousness: by whose stripes you were healed. For you were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.
-
 
 ---
 [[Sermon 3111 Warning and Encouragement|← #3111]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3113 Gratitude for Great Deliverances|#3113 →]]

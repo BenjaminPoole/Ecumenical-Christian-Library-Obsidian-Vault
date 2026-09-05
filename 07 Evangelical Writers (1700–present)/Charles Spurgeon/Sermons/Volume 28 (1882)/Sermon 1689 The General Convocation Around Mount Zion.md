@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The General Convocation Around Mount Zion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1689
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 5, 1882,.
+*Delivered on Lord's-Day Morning, November 5, 1882*
 
 > "Butyou are come unto mountZion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels, to the general assembly and church of the first-born, which are written in Heaven, and to God the Judge of all, and to the spirits of just men made perfect, and to Jesus the Mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel." Hebrews 12:22-24.
 
@@ -128,7 +127,6 @@ If we wish to feel we are among the Lord's host, let us participate in their ser
 And when we are participating in the service, let us, next, feel that we can possess the inheritance! It is "the assembly of the first-born"—let no man miss his birthright! See how the Apostle introduces Esau as a warning and how he bids us regard our afflictions as chastisements which prove our sonship? Come, then, act as sons and rejoice in your Father's riches which are all your own! Let us not remain half-starved through the penury of our unbelief, but let us be filled to the brim through the richness of the faith which the Spirit of God has worked in us! Let us look on all things round about us with quite a different eye—not walking like slaves who dread their taskmaster and scarcely dare to call their breath their own—but like free men who have the Judge of all upon their side and can have nothing to fear in life or death! Deep be our reverence, but high our joy as we stand in His gracious Presence and, with all the blood-bought, rejoice with joy unspeakable and full of glory!
 
 Therefore you are not invited to contend that you may win a reward by your own merit. Ours is holiday work which it is joy to perform. Moved by a spiritual chivalry, saints do and dare for Jesus out of love for Him. His service is its own reward! To die for Him is life! To live for Him is Heaven! Let others boast their pedigree and nationality—we have reached the august convocation of the ransomed of the Lord who have come to Zion with songs and everlasting joy upon their heads!
-
 
 ---
 [[Sermon 1688 Stand Fast|← #1688]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1690 Chariots of Iron|#1690 →]]

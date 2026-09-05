@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Root That Bears Wormwood
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 723
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 2, 1866,.
+*Delivered on Sunday Morning, December 2, 1866*
 
 > "Lest there should be among you a root that bears gall and wormwood." Deuteronomy 29:18.
 
@@ -128,7 +127,6 @@ In order to escape the punishment of sin you must be saved from sin itself, and 
 I did want, this morning, to have pleaded with sinners. I had it in my heart to have put before you the blessing and the curse, and then to have said, "By God's Grace lay hold on eternal life, and let your sins go! Trust Jesus, and let the pleasures of the world go." But if I cannot plead with you, I will ask God the Holy Spirit to plead with your consciences afterwards. Sin cannot bring you pleasure. Man, it cannot profit you in the long run. You may get a little money or pleasure now, but you will lose by it in the long run of eternity! If your existence were only on earth, I believe your happiness would be greatest by being a Christian—but this world is only the first step or two in a race that never has an end.
 
 May God the Holy Spirit influence your will that you may choose that which will endure, and not that which will be buried in the tomb! Oh by the frail character of life, by the certainty of death, by the judgment of God, by His hatred of sin, by the flames that know no abatement though briny tears forever flow, fly away to Christ! Oh may you fly to Him now and find life in His death, healing in His wounds, and everlasting mercy through His merits!
-
 
 ---
 [[Sermon 0722 The Captive Savior Freeing His People|← #722]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0724 His Name—The Everlasting Father|#724 →]]

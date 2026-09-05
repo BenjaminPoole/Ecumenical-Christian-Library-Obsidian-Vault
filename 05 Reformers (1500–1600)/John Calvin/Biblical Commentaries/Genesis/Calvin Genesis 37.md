@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 37
 
-**CHAPTER 37.**
+***Chapter 37.***
 
 ## Genesis 37:1-36
 

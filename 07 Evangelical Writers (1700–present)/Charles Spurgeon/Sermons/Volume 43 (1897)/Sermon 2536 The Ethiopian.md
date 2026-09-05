@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Ethiopian
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2536
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Can the Ethiopian change his skin, or the leopard his spots? Then may you also do good, that are accustomed to do evil." Jeremiah 13:23.
 
@@ -75,7 +72,7 @@ Have you anything to trust to beside Christ? Then you are lost, for you have a m
 
 I noticed, yesterday, when I was talking to some 40 persons who had recently found Christ, that they were, all of them, either hard at work for the Lord, or they were asking what they could do for Him. Could I tell them something they could do for their dear Lord who had saved them? There is far more done out of love than there is out of law. We will not, cannot do anything to be saved, but, when saved, what is there that we cannot do? Live, and then do! Not, do and live. Live in Christ and then serve Him, but do not put the cart before the horse! Come, dear Friends, and trust in Christ. The Lord bless you by His Divine Spirit leading you to do so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM78:9-72.
+## Exposition by C. H. Spurgeon: Psalm 78:9-72
 
 This story of the children of Israel, after they came out of Egypt, is like a mirror in which we may, with great sadness, see ourselves reflected.
 
@@ -120,7 +117,6 @@ Verse 9. The children of Ephraim, being armed, and carrying bows, turned back in
 65-69. Then the Lord awakened as one out of sleep, andlike a mighty man that shouts by reason of wine. AndHe smote His enemies in the hinder parts. He put them to a perpetual reproach. Moreover He refused the tabernacle of Joseph and chose not the tribe of Ephraim, but chose the tribe of Judah, the Mount Zion which He loved. And He built His sanctuary like high palaces, like the earth which He has established forever. You see that we are getting into clear water now—it was all broken water, storm and hurricane, while we heard of what Israel did—but when we come to deal with God in Christ, of whom David is the type, then how sweetly everything goes!
 
 70-72. He chose David, also, His servant, and took him from the sheepfolds: from following the ewes great with young He brought him to feed Jacob, His people, and Israel His inheritance. So he fed them according to the integrity of his heart and guided them by the skillfulness of his hands. Blessed be God who puts away the sin of His people, because He delights in mercy!
-
 
 ---
 [[Sermon 2535 A Singular Plea in Prayer|← #2535]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2537 A Warning to Waverers|#2537 →]]

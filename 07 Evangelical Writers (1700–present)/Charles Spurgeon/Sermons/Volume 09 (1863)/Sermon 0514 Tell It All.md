@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # Tell It All
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 514
@@ -63,7 +62,7 @@ The woman next told the Lord of her sufferings. The peculiar disease with which 
 
 But she told Him all the truth. She told Him briefly, but completely, all she had endured. Tried Soul! You with whom God's Spirit is at work! Tell the Lord, if you would pray aright, all your sufferings! Tell Him how your heart has been broken, how your conscience has been alarmed. Tell Him how your very sleep is scared with dreams, how your days are made as black as though they were nights by a want of hope. Tell Him that sin has become a torment to you, that the places in which you could once find pleasure have now become howling wildernesses to you. Tell Him the harp has lost its music, the cup its enticements, the table its charms, society its delights—for you are full of your own ways and your sins have become a burden to you. Let your sorrows flow in briny floods before the Lord of Hosts, for though no stranger can intermeddle with your sorrow, your God understands it. Tell Him, then, tell Him, troubled Sinner, tell Him all the truth.
 
-Next, I am persuaded that this woman did not hesitate to tell him of her futile attempts after a cure. She had been to other physicians. She had suffered many things by them. That is to say, some of them had put her under various opera- tions of the most painful character. And others had compelled her to drink nauseous medicine. These ancient professors of medicine had given her sleepless nights, and days of exquisite anguish—all of which she might have borne with patience if she had been one whit the better. But she rather grew worse.
+Next, I am persuaded that this woman did not hesitate to tell him of her futile attempts after a cure. She had been to other physicians. She had suffered many things by them. That is to say, some of them had put her under various opera-tions of the most painful character. And others had compelled her to drink nauseous medicine. These ancient professors of medicine had given her sleepless nights, and days of exquisite anguish—all of which she might have borne with patience if she had been one whit the better. But she rather grew worse.
 
 Her doctors, it seems, were her worst disease. They added to the issue of her blood a waste of her money. They gave her consumption in her purse, and vexed her with the plagues of fees. Her substance might have yielded her many little comforts and some extra nourishment to sustain her under the fearful drain upon her system. But the doctors sucked like vampires and made an issue in her pockets more rapid than that in her person. She tells the Lord, although that confession was as good as saying, "Lord, I have been everywhere else, or else I should never have come to You. I have tried everyone, and it is only because all others have failed that I present myself before You."
 
@@ -93,7 +92,7 @@ I pray God the Holy Spirit guide these words which are meant to encourage you wh
 
 The Judge will publish it at last. If you hide it all your life, it will come out then. Go then, tell it—tell it now. To tell this to God will be a very great service to you. It will tend to make you feel your need more. I believe that often, when the penitent begins his confession, he is not half so sensible of guilt as at the close of his prayer. If you will bring your soul to look at your sin, to study its foulness, to meditate upon its heinous ingratitude—while you are considering the subject, the Spirit of God will work upon you—and your heart, like the rock in the desert, smitten by His rod, shall gush with streams of penitence.
 
-If your heart is very grieved, do, I pray you, remember that confession is one of the most rapid ways of getting relief. While the banks hold good the lake swells. Let them break and the water is drained off. Let a vent be found for the swollen lake up yonder on the mountains, and the mass of water which might otherwise inundate the valleys will flow in fertilizing streams. When you have a festering, gathering wound, the surgeon lets in the lances and gives you ease. So con- fession brings peace. Would to God without any delay you who need a Savior would go to Him and confess your sin right plainly.
+If your heart is very grieved, do, I pray you, remember that confession is one of the most rapid ways of getting relief. While the banks hold good the lake swells. Let them break and the water is drained off. Let a vent be found for the swollen lake up yonder on the mountains, and the mass of water which might otherwise inundate the valleys will flow in fertilizing streams. When you have a festering, gathering wound, the surgeon lets in the lances and gives you ease. So con-fession brings peace. Would to God without any delay you who need a Savior would go to Him and confess your sin right plainly.
 
 Jesus is no hard-hearted foe, no cruel Judge. He loves you. Awakened Sinner, He will love to hear that story of yours. And before you have finished it, He will give you the kiss of love, and say, "I have blotted out your sins like a cloud and like a thick cloud your transgressions." Trust the immense generosity of Jesus' infinitely tender heart to give you your soul's desire—the complete and perfect forgiveness of your sin.
 
@@ -101,7 +100,7 @@ I have thus bid this woman become the preacher of this morning and speak to thos
 
 II. We now change the subject for a very short time, to address THOSE WHO ARE CONVERTED, BUT WHO,
 
-LIKE THIS WOMAN, HAVE NOT YET ACKNOWLEDGED THEIR FAITH IN THE PRESENCE OF OTHERS.
+## Like This Woman, Have Not yet Acknowledged Their Faith in the Presence of Others
 
 Our Savior will do nothing by halves. The woman may be content with having her body healed—Jesus is not satisfied till her soul is recovered, too. She has gained the cure, but she would probably go slinking away with the retiring multitude to hide herself from all observation. This will not be for her good, nor for the Master's honor, therefore He takes means to get a plain confession from her. Turning round, He says, "Who touched Me?" At first, there is no answer. He puts it again, "Who touched Me?" They all deny. Peter, moreover, takes upon him to upbraid the Savior for asking so absurd a question—"The multitude throng You," says he, "how can You say, 'Who touched Me?' "
 
@@ -148,7 +147,6 @@ You will be a marked man, often a despised man. People will point you out and sa
 Now I send you away, dear Friends, reminding Penitents of that with which we began, the necessity of telling Jesus all—still wishing, however, that you who have found a Savior, would tell the world all and bear your witness that, let others do as they will, as for you and your house, you will serve the Lord.
 
 And unto the name of God be glory forever. Amen.
-
 
 ---
 [[Sermon 0513 The Young Man'S Prayer|← #513]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0515 The Sinner'S Advocate|#515 →]]

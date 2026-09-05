@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 91. The Year of Jubilee
-
-**The Year of Jubilee**
 
 ## Leviticus 25:8-13
 

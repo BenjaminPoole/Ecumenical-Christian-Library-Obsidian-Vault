@@ -12,16 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Christ's Word with You
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1691
 
-DELIVERED ON LORD'S-DAY EVENING JUNE 12 1881,.
+*Delivered on Lord's-Day Evening June 12 1881*
 
 > "Come unto Me, all you that labor and are heavy laden, and I will give you rest." Matthew 11:28.
 
-WHEN THE REGULAR CONGREGATION LEFT THEIR SEATS TO BE OCCUPIED BY STRANGERS.
+## When the Regular Congregation Left Their Seats to Be Occupied by Strangers
 
 ONE is struck with the personality of this text. There are two persons in it, "you" and "Me"—that is to say, the laboring one and the tender Savior who entreats him to come, that he may find rest. It is most important, if we wish to see the way of peace, clearly, to understand that we must, each one, come personally to Jesus for rest—"Come unto Me, all you that labor"—and that coming, on our part, must be to a personal Christ. In effect He says, "Come, yourselves, to Me. Come not through sponsors, not through men whom you choose to call your priests, not through the petitions of ministers and teachers, but come, yourselves, for yourselves."
 
@@ -150,7 +149,6 @@ If you think there is nothing in what I have said, reject it! I have no authorit
 But he that wishes to live forever should, at least, consider where he would live, with whom he would live and how he can secure happiness in such a life. If there is a God—and that there is a God is written in the very skies—I devoutly desire to have Him for my Friend. I think, as I look up to the stars, "I love the God that made those shining worlds. I worship Him, I desire to serve Him, I wish to be at peace with Him." And what has made me desire to serve Him and obey Him? Can it be a lie which has done this? Does a lie make a man love God and desire to serve Him? No. It is the Truth of God, then, that has made me be of obedient heart! The Gospel must be true, or it could not thus put men right with their Creator.
 
 O, my Beloved, trust your Savior! Lay hold on Jesus! Oh, may Christ lay hold on you at this good hour and cause you to enter into His rest! Amen and amen.
-
 
 ---
 [[Sermon 1690 Chariots of Iron|← #1690]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1692 Without Carefulness|#1692 →]]

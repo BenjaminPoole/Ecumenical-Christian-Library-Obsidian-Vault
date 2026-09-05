@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 16. Exodus 16
-
-**EXODUS 16**
 
 ## Exodus 16:1-8
 

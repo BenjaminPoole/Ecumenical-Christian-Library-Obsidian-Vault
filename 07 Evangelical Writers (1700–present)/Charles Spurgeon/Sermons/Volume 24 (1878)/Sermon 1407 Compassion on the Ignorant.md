@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Compassion on the Ignorant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1407
-
-DELIVERED BY.
 
 > "Who can ha ve compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity." Hebrews 5:2.
 
@@ -148,7 +145,6 @@ He who knows most of Christ knows very little. We are all ignorant and He has co
 Let us come to Him as He is now, enthroned in the highest heavens, and say, "Jesus, we have heard that You have compassion on the ignorant and those that are out of the way, and such are we. Behold, we trust ourselves with You." Trembling Believer, be not slow to draw near, for His loving heart is unable to refuse you! If you will trust yourselves with the Savior, He cannot betray or deceive your trust. Only do that and your faith will have power over the sacred heart of the Crucified One!
 
 You know if a child trusts you—if it is only to buy a penny toy—you do not like to go home without doing it. You City men, if your little daughter trusted you to buy her something, you would not like to disappoint her. Well, and God, our blessed Savior, cannot, will not disappoint His trusting children! If we can trust Him with our souls we have a hold upon Him which He will not shake off, but He will bless us—yes, He will bless us eternally! God help you to trust Him now, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1406 Remember!|← #1406]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1408 The Reason Why Many Cannot Find Peace|#1408 →]]

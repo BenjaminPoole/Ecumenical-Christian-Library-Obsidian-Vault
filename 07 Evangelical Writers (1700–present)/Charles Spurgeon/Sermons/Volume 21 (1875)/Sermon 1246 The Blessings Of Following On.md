@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Blessings Of Following On
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1246
-
-DELIVERED BY.
 
 > "Then shall we know, if we follow on to know the Lord. His going forth is prepared as the morning, and He shall come unto us as the rain, as the latter and former rain unto the earth." Hosea 6:3.
 
@@ -168,7 +165,6 @@ No turn will do but a turning unto the Lord. No new birth, but a birth by His Sp
 You know the Lord, and as you go on to know more about Him, you shall find Him to be as the sun in his brightness, and as the rain in its sweetness and life. God bless you. May we all meet in Heaven, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Hosea 6. HYMNS FROM "OUR OWN HYMN BOOK"—605, 670, 673.
-
 
 ---
 [[Sermon 1245 Why Men Cannot Believe in Christ|← #1245]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1247 The Special Prayer Meeting|#1247 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Unconditional Surrender
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1276
@@ -75,8 +74,7 @@ When he brings you to submit he has given you his grace. Submission to his divin
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— James 4.
 
-HYMNS FROM "OUR OWN HYMN BOOK"— 181, 578, 654.
-
+## Hymns from "Our Own Hymn Book"— 181, 578, 654
 
 ---
 [[Sermon 1275 One Greater Than the Temple|← #1275]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1277 Trial by the Word|#1277 →]]

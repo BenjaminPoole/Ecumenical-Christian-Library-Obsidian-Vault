@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # The Spur
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1119
-
-DELIVERED BY.
 
 > "Whatever your hand finds to do, do it with allyour might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, where you go." Ecclesiastes 9:10.
 
@@ -128,7 +125,6 @@ And, lastly, there is a peculiar voice in the text to those who will die in the 
 We have not as yet begun to serve God as He ought to be served. The divinely born manhood within us, the Divine life which God infuses, is it not sadly clogged and hampered? May God set us free and raise us up to the highest standard of a consecrated life and His shall be the praise for evermore. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ecclesiastes 9.
-
 
 ---
 [[Sermon 1118 The Way To Honor|← #1118]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1121 Christ Asleep in the Vessel|#1121 →]]

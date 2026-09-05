@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 107. Deuteronomy 12:28
-
-**Deuteronomy 12**
 
 **28.** Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou does *that* *which* *is* good and right in the sight of the Lord thy God.
 

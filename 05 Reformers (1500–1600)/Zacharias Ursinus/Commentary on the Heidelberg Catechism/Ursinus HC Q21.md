@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 21. What is true faith?
-
-**Question 21. What is true faith?**
 
 Answer. True faith is not only a certain knowledge, whereby I hold for truth all that God has revealed to us in his word, but also an assured confidence, which the Holy Ghost works by the gospel in my heart; that not only to others, but to me also, remission of sin, everlasting righteousness, and salvation, are freely given by God, merely of grace, only for the sake of Christ's merits.
 
-**EXPOSITION**
+## **Exposition**
 
 The subject of faith is introduced next in order: 1. Because it is the means by which we are made partakers of the Mediator. 2. Because the preaching of the gospel profits nothing without faith. In speaking of faith, we must enquire:
 
@@ -34,7 +31,7 @@ V. What are the effects of faith?
 
 VI. To whom is it given?
 
-**I. WHAT IS FAITH?**
+## **I. What Is Faith?**
 
 The word faith, according to Cicero, is derived from fiendo, which signifies doing, because that which is declared is performed. It is, according to him, the assurance, and truth of contracts, and of whatever may be spoken, and is the foundation of justice. According to the common definition, faith is a certain knowledge of facts, or conclusions, to which we assent on the testimony of faithful witnesses, whom we may not disbelieve, whether it be God, or angels, or men, or experience. But since, according to the most general distinction, there is one kind of faith in divine, and another in human affairs, we must here enquire, what is faith in divine things, or what is theological faith? The definition of faith, therefore, taken generally, must be given somewhat more exactly, and yet it must be such as to comprise in it all the different forms of faith spoken of in the Scriptures.
 
@@ -42,7 +39,7 @@ Faith, in general, of whatever kind mention is made in the Holy Scriptures, is a
 
 Faith is, also, often taken for the doctrine of the church, or for those things of which the word of God informs us, and which are necessary to faith, as when it is called the Christian faith, the Apostolic faith. It is, likewise, often used for the fulfillment of ancient promises, or for the things themselves, which are believed; as "Before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed." (Gal. 3:23.)
 
-**II. OF HOW MANY KINDS OF FAITH DO THE SCRIPTURES SPEAK?**
+## **II. Of How Many Kinds of Faith Do the Scriptures Speak?**
 
 There are four kinds of faith enumerated in the Holy Scriptures, viz: historical, temporary, the faith of working miracles, and justifying or saving faith. The difference which exists between the different kinds of faith here specified, will appear by giving a proper definition of each.
 
@@ -92,13 +89,13 @@ No man, however, truly knows what justifying faith is, except he who believes, o
 
 6. Then he has a will and an earnest desire to obey all the commands of God, without a single exception, and is willing to endure patiently whatever God may send upon him. The man, therefore, who possesses a justifying faith, does that which is required of him, regardless of the opposition of the world, and the devil. He who truly believes, experiences all these things in himself; and he who experiences these things in himself, truly believes.
 
-**III. IN WHAT DOES FAITH DIFFER FROM HOPE?**
+## **III. In What Does Faith Differ from Hope?**
 
 We must not confound justifying faith with hope, although both have respect to the same blessing. Faith lays hold of present good, whilst hope has respect to that which is future. Obj. But we believe in everlasting life, which is, nevertheless, something that is future. Therefore, faith also has respect to future good. Ans. Eternal life is a future good as to its consummation; and, in this respect, we do not simply believe in it, but hope for it. "For we are saved by hope." "Now are we the sons of God, and it doth not yet appear what we shall be." (Rom. 8:24. 1 John 3:2.) But life everlasting is also a present good, in respect to the will of God, who grants it unto us, and in respect to the beginning of it even in this life, in which respect it is not hoped for, but believed, as it is said: "He that believeth on the Son of God, hath everlasting life, and is passed from death unto life." "This is life eternal, that they might know thee, the only true God," &c. (John 5:24; 17:3.) By faith, therefore, we are persuaded that those benefits are ours, which we have not as yet, on account of the promise of God; and by hope, we confidently look for the full consummation of these things. It is in this sense that Paul speaks of faith when he says, "Faith is the substance of things hoped for." (Heb. 11:1.) That is, it is that which makes those things hoped for, present and real; and is the evidence of those things which do not appear as it respects their consummation.
 
 There are some who make the following distinction between faith and hope: Faith embraces the promises contained in the creed concerning things to come; whilst hope comprehends the things themselves which are future. This distinction, however, is less popular, and not as easily understood as the former.
 
-**IV. WHAT ARE THE CAUSES OF FAITH?**
+## **IV. What Are the Causes of Faith?**
 
 The first and chief efficient cause of historical and temporary faith, as well as the faith of miracles, is the Holy Spirit, who produces these differ ent kinds of faith by his general influence and operation. It is different, however, as it respects justifying faith, which the Holy Ghost produces by his special working. "By grace are ye saved, through faith, and that not of yourselves; it is the gift of God." (Eph. 2:8.)
 
@@ -116,13 +113,13 @@ The subject, or part of man in which it exists, is the understanding, the will, 
 
 The end or final cause is, first, the glory of God, or the manifestation of his righteousness, goodness, and mercy; and, secondly, our salvation.
 
-**V. WHAT ARE THE EFFECTS OF FAITH?**
+## **V. What Are the Effects of Faith?**
 
 The effects of justifying faith are, 1. Our justification before God. 2. Joy and delight in God, with peace of conscience. "Being justified by faith, we have peace with God." (Rom. 5:1.) 3. Conversion, regeneration, and universal obedience. "Purifying their hearts by faith." (Acts 15:9.) 4. The consequences which belong to the effects of faith, such as an increase of temporal and spiritual gifts, and the reception of these gifts by faith.
 
 The first effect, therefore, of justifying faith, is our justification. After this has once taken place, all the other benefits which follow faith are made over unto us, which benefits, we believe, are given unto us by faith, inasmuch as faith is the cause of them. For that which is the cause of a cause, is also the cause of the effect. If faith be, therefore, the last cause of our justification, it is likewise the cause of those things which follow our justification. "Thy faith hath made thee whole." (Luke 8:48.) In a word, the effects of faith are justification, and regeneration which is begun in this life, and will be perfected in the life to come. (Rom. 3:28; 10:10. Acts 13:39.)
 
-**VI. TO WHOM IS FAITH GIVEN?**
+## **VI. To Whom Is Faith Given?**
 
 Justifying faith is peculiar to all the elect, and to them alone: for it is given to all the elect, and only to them, including even infants, as it respects an inclination to faith. "No man can come to me except the Father draw him." "It is given unto you to know the mystery of the kingdom of heaven: but to them it is not given." "As many as were ordained unto eternal life believed." "Whom he did predestinate, them he also called, justified and glorified." "Faith is the gift of God." "But they have not all obeyed the gospel; for Esaias saith, Lord who hath believed," &c., "for all men have not faith?" (John 6:44. Matt. 13:11. Acts 13:48. Rom. 8:30; 10:16. Eph. 2:8. 2 Thes. 3:2.)
 

@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. II.
 
-OBSERVATIONS ON OTHER PARTS OF THE HOLY SCRIPTURES, CHIEFLY IN THE OLD TESTAMENT, THAT PROVE THE DOCTRINE OF ORIGINAL SIN.
+*Observations on Other Parts of the Holy Scriptures, Chiefly in the Old Testament, that Prove the Doctrine of Original Sin*
 
 Original depravity may well be argued, from wickedness being often spoken of in Scripture, as a thing *belonging to the race of mankind, and as if it were a property of the species.* So in Psal. xiv. 2, 3. “The Lord looked down from heaven upon the *children of men,* to see if there were any that did understand, and seek God. They are all gone aside; they are altogether become filthy: there is none that doeth good; no, not one.” The like we have again, Psal. liii. 2, 3.—Dr. T. says (p. 104, 105), “The Holy Spirit does not mean this of every individual; because in the very same psalm, he speaks of some that were righteous, ver. 5. *God is in the generation of the righteous*.” But how little is this observation to the purpose? For who ever supposed, that no unrighteous men were ever changed by divine grace, and afterwards made righteous? The psalmist is speaking of what men are as they are the *children of men,* born of the corrupt human race; and not as born of God, whereby they come to be the children of God, and of the *generation of the righteous.* The apostle *Paul* cites this place in Rom. iii. 10-12. to prove the universal corruption of mankind; but yet in the same chapter he supposes the same persons spoken of as wicked, may become righteous, through the righteousness and grace of God.
 

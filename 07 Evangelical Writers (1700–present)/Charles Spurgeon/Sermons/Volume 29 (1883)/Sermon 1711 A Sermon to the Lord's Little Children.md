@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Sermon to the Lord's Little Children
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1711
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 18, 1883,.
+*Delivered on Lord's-Day Morning, March 18, 1883*
 
 > "I write unto you, little children, because your sins are forgiven you for His name's sake." 1 John 2:12.
 
@@ -130,7 +129,6 @@ The last precept to little children is at the end of the Epistle. Carefully read
 Alas, the children must now have their play toys in the Church and their toys in the Chapel—and some must have their toys in the streets, till one would think, with their trumpets and drums, that they had just come home from the fair! "Little children, keep yourselves from idols," I do not think you are likely to fall in love with the idols of the heathen and bow down to them—but there are plenty of other gods which are the idols of one period and the derision of the next. Keep to Christ! Ask not for pomp and show! Ask not for noise and bluster! Ask for nothing but that your sins may be forgiven you; that you may know the Father; that you may abide in Christ and be full of love to all the family of God!
 
 Little children, may the Lord Jesus Christ be with you and may you grow in Grace till you come unto the fullness of the stature of men in Him. May His Grace be upon all them that love Him and wait for His appearing.
-
 
 ---
 [[Sermon 1710 Incense and Light|← #1710]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1712 Filling the Empty Vessels|#1712 →]]

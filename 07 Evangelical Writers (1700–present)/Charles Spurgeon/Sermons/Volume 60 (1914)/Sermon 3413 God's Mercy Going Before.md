@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # God's Mercy Going Before
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3413
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The God of my mercy shall prevent [go before] me." Psalm 59:10.
 
@@ -31,7 +28,7 @@ Now, if you have come to something like the same plight. If your affairs are at 
 
 But now, a few words upon this text of David's. He declares that the God of his mercy would go before him, or forestall him. The word "prevent," when it was used by our translators, did not mean at all what it does now. It means here that God would provide, would forestall, would be beforehand in loving kindness with him—and the two points we will speak of tonight are these—it has been so. It shall be so. First—
 
-I. IT HAS BEEN SO.
+## I. It Has Been So
 
 The God of our mercy has gone before us and outrun us. It has been so in the salvation of all His people. Long before time had begun, God had foreknown His chosen, and foreordained them unto eternal life. They had not chosen Him, for they were not in existence! He chose them as He saw them in the glass of His decrees. It must always be that God goes before or outruns His people, since from before the foundation of the world He had loved them—loved them with an everlasting love. There can be nothing before this. We know of nothing that can stand side by side with it, so far as we are concerned, for we had no being, except in the purpose of God. But even then He loved us. He loved us when we were dead in sins, when we had not a heart with which to love Him, when we were rejecting Him altogether and did evil even as we could—yet He loved us notwithstanding all. It must always be true if we think of the Doctrine of Election that He went before us with His mercy!
 
@@ -59,7 +56,7 @@ How frequently, too, has He gone before us with His goodness, by supplying our n
 
 And once again, how often, dear Friends, when we have begun to pray for a mercy, we have had the mercy while we have yet been calling—while we have been speaking He has heard us! How frequently have we desired to return from our backslidings, and while we have been desiring to return, He has appeared and melted us down in penitence and gratitude. We have desired sanctification, and we have had the rod sent to our house directly, which was probably the very speediest way to ensure our growth in that respect. Whatever we have actually needed of the Lord, our God, He has not withheld it from us in its season, so that we will join in saying that until now it has been so, it has been so. The God of our mercy has gone before us. Now, in the second place—
 
-II. IT SHALL BE SO.
+## II. It Shall Be So
 
 It shall be so with you who are seeking Christ tonight. God's rule for the future is His action and conduct in the past. He never changes. You must not imagine that Jesus Christ will be sterner with you than He has been with others like you. If it has been His custom to reject those who have come, He will reject you. But if it has never been so, it never shall be so, for, "Him that comes to Me, I will in nowise cast out." Hearken, then, to Jesus now! God will go before you with the blessings of His goodness. Now, you have been thinking lately—
 
@@ -87,7 +84,7 @@ My Brothers, as God's servants, we are very much in the position of Joshua with 
 
 And now, lastly, Brothers and Sisters. We shall soon expect to have done with laboring for Christ and to have done with pilgrimage and all its cares, except that we shall have the last river to pass over. But then, "the God of my mercy shall go before me." There shall be the delightful Presence of Jesus and the shining company of angels, and the visions of Glory yet to be revealed—and we shall forget the pangs of earth in the joys of the heavenly land! Like one drop of bitterness that is drowned in the flood of sweetness, death shall be swallowed up in victory, and when we come to Heaven, itself, we shall discover that our God has gone before us there. "Behold," says the Redeemer, "I go to prepare a place for you." Oh, how delightful it is to think of going to Heaven where there will be nothing to get ready, but where all will be just as we need it—all that can be required to give to us the highest conceivable happiness, all ready, and all made ready by Christ! Rejoice, then, Believer! He will go before you through this earth and before you into Heaven, where He has already gone, bless His name! Live happily! Live happily! Live to serve Him out of gratitude for what He has done, and the Lord bless you evermore. Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON: PSALM116:1-6; ROMANS 5:10-21.
+## Exposition by C. H. Spurgeon: Psalm 116:1-6; Romans 5:10-21
 
 Verse 1. I love the LORD because He has heard my voice and my supplications. You cannot help loving God if He has heard your prayers. Have you tried Him? If you have, you can join with David and thousands of others in confessing that He is a prayer-hearing God and, therefore, you love Him. I find the verse might be read, "I love the Lord because He hears." He is always hearing. I am always speaking to Him and He is always hearing me. Therefore I love Him. Can you imagine a better reason for love?
 
@@ -105,7 +102,7 @@ And what was the prayer? A very short one—"O Lord, I beseech You, deliver my s
 
 6\. I was brought low and He helped me.Oh, many of you can say this, I trust, and if you cannot, I hope you will before long—"I was brought low and He helped me."
 
-ROMANS 5:10-21.
+## Romans 5:10-21
 
 10\. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, being reconciled, we shall by saved by His life.This is a grand argument for the safety of all Believers, having a three-fold edge to it! If He reconciled His enemies, will He not save His friends? If He reconciled us, will He not save us? If He reconciled us by the death, will He not save us by the life of His Son?
 
@@ -126,7 +123,6 @@ ROMANS 5:10-21.
 20\. That the offense might abound, but where sin abounded, Grace did much more abound. It makes us see sin where we never saw it. It comes on purpose to drive us to despair of being saved by works. It bids us look to the flames that Moses saw, and shrink and tremble with despair.
 
 21\. That as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord.
-
 
 ---
 [[Sermon 3412 The Heavenly Rainbow|← #3412]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3414 'Brief Life Is Here Our Portion'|#3414 →]]

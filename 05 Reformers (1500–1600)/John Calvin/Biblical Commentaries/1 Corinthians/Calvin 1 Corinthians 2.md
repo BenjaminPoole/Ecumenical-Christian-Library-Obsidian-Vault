@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## 1 Corinthians 2:1-2
 

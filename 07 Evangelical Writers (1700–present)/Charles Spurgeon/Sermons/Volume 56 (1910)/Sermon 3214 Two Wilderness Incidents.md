@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Two Wilderness Incidents
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3214
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners. And Israel voweda vow unto the LORD, and said, If You will indeed deliver this people into my hand, then I will utterly destroy their cities. And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and He called the name of the place Hormah. And they journeyed from Mount Hor by the way of the Red Sea, to compass the land of Edom; and the soul of the people was much discouraged because of the way. And the people spoke against God, and against Moses, Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, neither is there any water and our soul loathes this light bread. And the LORD sent fiery serpents among the people, and they bit the people; and many people of Israel died." Numbers 21:1-6.
 
@@ -79,7 +76,7 @@ So you see, dear Friends, the contrast between these two wilderness incidents. I
 
 II. Now, secondly, LET US LEARN HOW WE MAY USE THESE TWO INCIDENTS TO OUR OWN SPIRITUAL
 
-PROFIT.
+## Profit
 
 Fellow Believer in Christ, you may do one or other of these two things—you may either cast your burden upon the Lord, and He will sustain you—or you may be like the bullock that is unaccustomed to the yoke and that kicks against the sharp goad and so angers his master and injures himself! Remember that true faith is a holy thing, but murmuring is sin. Do not think that it is a light thing to murmur against God, or to complain of His Providential dealings with you. No, it is really setting up your fallible judgment or your self-will against the Infinite Wisdom of the Most High! It is high treason against the King of kings to seek to—
 
@@ -139,7 +136,7 @@ If any of you have never come to Jesus, come now! If you have never looked to Hi
 
 May the Lord add His blessing, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: NUMBERS21:1-9; JOHN 3:1-15.
+## Exposition by C. H. Spurgeon: Numbers 21:1-9; John 3:1-15
 
 Numbers 21:1-4. And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners. And Israel vowed a vow unto the LORD, and said, If You will indeed deliver this people into my hand, then I will utterly destroy their cities. And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and He called the name of the place Hormah. And they journeyed from Mount Hor by the way of the Red Sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.They were not allowed to go through the land of Edom. They had, therefore, to turn around and go right away from the land where they one day hoped to dwell. And the road was a particularly trying one, over hot and burning sand, "and the soul of the people was much discouraged because of the way." Sometimes God's own people, when they find that they are not so far advanced in the Divine Life as they thought they were, when they find old sins reviving and when troubles multiply upon them, get "discouraged because of the way." If this is our experience, let us not fall into the sin into which these Israelites fell, but even in our discouragement let us turn to our God.
 
@@ -172,7 +169,6 @@ change. He becomes a new man and he enters into a new life which others cannot c
 11, 12. Verily verily I say unto you, We speak what We know, and testify what We have seen; and you receive not Our witness. IfIhave toldyou earthly things, and you believe not, howshallyou believe ifI tell you of heavenly things? "If, at the very entrance to the Kingdom of Heaven, you say, 'How can these things be?' what will you say if I take you into the central metropolis of the Truth of God and introduce you to the great King, Himself?"
 
 13-15. And no man has ascended up to Heaven, but He that came down from Heaven, even the Son of Man which is in Heaven. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whoever believes in Him should not perish, but have eternal life. [See Sermon #153, Volume 3—the mysteries of the bronze serpent.]
-
 
 ---
 [[Sermon 3213 Blessings Traced to Their Source|← #3213]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3215 Black Clouds and Bright Blessings|#3215 →]]

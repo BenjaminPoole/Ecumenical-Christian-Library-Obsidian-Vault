@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Last Sermon for the Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2445
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Give an account of your stewardship, for you may no longer be steward." Luke 16:2.
 
@@ -91,7 +88,7 @@ Now give an account of it all! Ah, Sirs, you may not heed what I say, but you wi
 
 O Savior, Son of God, put Your pierced hands on these blind souls and give them light that they may be able to render up their account with joy, and not with grief! Give them Grace to believe in Your name and trust in Your atoning Sacrifice, for this is the way of salvation! O poor Sinners, trust in Christ Jesus and Him Crucified! You cannot be saved by your stewardship, any of you, but unfaithful stewardship will ruin you! Christ Crucified is your only hope of salvation! Look unto Him and live! Oh, look unto Him now! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 12:13-44.
+## Exposition by C. H. Spurgeon: Luke 12:13-44
 
 Verses 13, 14. And one of the company said unto Him, Master, speak to my brother, that he divide the inheritance with me. And He said unto him, Man, who made Me a judge or a divider over you? Our Lord was a Judge and a Divider, but His sphere of action was spiritual—He did not interfere in the personal disputes of those who gathered round Him.
 
@@ -132,7 +129,6 @@ Now, dear children of God, if you trust your Heavenly Father, He will see that y
 38\. And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants. We cannot tell when He will come, but, "Blessed are those servants, whom the Lord, when He comes, shall find watching."
 
 39-44. And this know, that if the good man of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broke into. Be you, therefore, ready also: for the Son of Man comes at an hour when you think not. Then Peter said unto Him, Lord, speak You this parable unto us, or even to all? And the Lord said, Who, then, is that faithful and wise steward, whom his master shall make ruler over his household, to give them their portion of meat in due season? Blessed is that servant, whom his master, when he comes, shall find so doing. Of a truth I say onto you, that he will make him ruler over all that he has. Wonderful words! We cannot at present tell all that they mean, but, by God's Grace, may they be fulfilled to us when our Lord comes to take us to Himself!
-
 
 ---
 [[Sermon 2444 Cheering Words|← #2444]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]]

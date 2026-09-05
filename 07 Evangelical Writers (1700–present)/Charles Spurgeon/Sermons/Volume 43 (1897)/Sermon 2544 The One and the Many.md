@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The One and the Many
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2544
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The judgment was by one to condemnation, but the free gift is of many offenses unto justification." Romans 5:16.
 
@@ -142,7 +139,6 @@ Romans 5:1. Therefore, being justified by faith, we have peace with God through 
 11-21. Through our Lord Jesus Christ, by whom we have now received the Atonement Therefore, as by one man, sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned, (for until the Law, sin was in the world: but sin is not imputed when there is no Law. Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of Him that was to come. But not as the offense, so also is the free gift For if through the offense of one many are dead, much more the Grace of God, and the gift by Grace, which is by one Man, Jesus Christ, has abounded unto many. And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offenses unto justification. For if by one man's offense death reigned by one; much more they which receive abundance of Grace and of the gift of righteousness shall reign in life by One, Jesus Christ). Therefore as by the offense of one, judgment came upon all men to condemnation; even so by the righteousness of One, the free gift came upon all men unto justification of life. For as by one man's disobedience many were made sinners, so by the obedience of One shall many be made righteous. Moreover the Law entered that the offense might abound. But where sin abounded, Grace did much more abound: that as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 
 I have not expounded the latter part of the chapter, as time fails me, but I shall dwell upon it somewhat in the sermon.
-
 
 ---
 [[Sermon 2543 Good Reasons for a Good Resolution|← #2543]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2545 The Greatest Folly in the World|#2545 →]]

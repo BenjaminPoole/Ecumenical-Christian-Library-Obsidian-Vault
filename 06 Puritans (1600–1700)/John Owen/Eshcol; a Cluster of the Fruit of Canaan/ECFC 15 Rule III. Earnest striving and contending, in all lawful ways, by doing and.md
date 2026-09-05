@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule III. Earnest striving and contending, in all lawful ways, by doing and suffering, for the purity of the ordinances, honour, liberty, and privileges of the congregation, being jointly assistant against opposers and common adversaries
-
-Rule iii. Earnest striving and contending, in all lawful ways, by doing and suffering, for the purity of the ordinances, honour, liberty, and privileges of the congregation, being jointly assistant against opposers and common adversaries.
 
 Jude 3, “And exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.”
 
@@ -39,7 +36,6 @@ Explication iii. The former rule concerned our dealing with God in the behalf of
 4\. Joint refusal of subjection, with all gospel opposition, to any persons or things which, contrary to or beside the word, under what name soever, do labour for power over the church, to the abridging of it of any of those liberties and privileges which it claimeth as part of the purchase of Christ.
 
 To them that would inthral us we are not to give place, no not for an hour.
-
 
 ---
 [[ECFC 14 Rule II. Continual prayer for the prosperous state of the church, in God’s|← Rule II. Continual prayer for the prosperous state of the church, in God’s protection towards it]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 16 Rule IV. Sedulous care and endeavouring for the preservation of unity, both in|Rule IV. Sedulous care and endeavouring for the preservation of unity, both in particular and in general →]]

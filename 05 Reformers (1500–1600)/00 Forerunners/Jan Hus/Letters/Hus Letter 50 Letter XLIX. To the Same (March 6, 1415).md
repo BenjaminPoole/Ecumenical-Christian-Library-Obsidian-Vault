@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 50. Letter XLIX. To the Same (March 6, 1415)
-
-LETTER XLIX. TO THE SAME (March 6, 1415)
 
 " For dreams have no care" ; The Bethlehem pictures ; Christ is his proctor ; His defence ; " Take no conscious thought what ye shall say " ; Be careful over the letters . . . 193-5
 

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 26
 
-**CHAPTER 26.**
+***Chapter 26.***
 
 ## Genesis 26:1-35
 

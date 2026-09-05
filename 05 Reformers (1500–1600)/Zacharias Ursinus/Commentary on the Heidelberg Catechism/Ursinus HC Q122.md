@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 122. Which is the first petition?
-
-**Question 122. Which is the first petition?**
 
 Answer. "HALLOWED BE THY NAME;" that is, grant us first rightly to know thee and to sanctify, glorify and praise thee in all thy works, in which thy power, wisdom, goodness, justice, mercy, and truth, are clearly displayed; and further also, that we may so order and direct our whole lives, our thoughts, words and actions, as that thy name may never be blasphemed, but rather honored and praised on our account.
 
-**EXPOSITION**
+## **Exposition**
 
 The second part of the Lord's Prayer now follows, containing six petitions. The petition, Hallowed be thy name, is placed first in order, because it comprehends the end and design of all the rest, inasmuch as the glory of God should be the end of all our affairs, actions and prayers. The end, too, is the first thing in the thoughts and intention of any one, and the last in execution. Therefore the end of the other petitions should be sought in the first place, if we would seek them aright, according to the command of Christ, "Seek ye first the kingdom of God and his righteousness, and all other things shall be added unto you." (Matt. 6:33.)
 
@@ -28,11 +25,11 @@ I. What is the name of God?
 
 II. What is holy, and what is it to hallow the name of God?
 
-**I. WHAT IS THE NAME OF GOD?**
+## **I. What Is the Name of God?**
 
 The name of God signifies: 1. God himself. "Let them that love thy name be joyful in thee." "I will sing praise to thy name." "I will call upon the name of the Lord." "I purpose to build an house unto the name of the Lord my God." (Ps. 5:11; 9:2, 11; 116:13. 1 Kings 5:5.) 2. The attributes and works of God. "The Lord is his name." "The Lord, whose name is Jealous." (Ex. 15:3; 34:14.) 3. The command, will and authority of God. "I come to thee in the name of the Lord of hosts." "Baptizing them in the name of the Father, and of the Son, and of the Holy Ghost." (1 Sam. 17:45. Matt. 28:19.) 4. The worship, trust, praise and profession of God. "I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus." "Be baptized every one of you in the name of Jesus Christ;" in which place, as also in Matt. 28:19, the name of God signifies both the command and profession of God. (Acts 21:13; 2:38.) Here the term is to be understood, according to the first and second signification, as being taken for God himself, and for all his attributes and works, in which his majesty shines.
 
-**II. WHAT IS HOLY, AND WHAT TO HALLOW**
+## **II. What Is Holy, and What to Hallow**
 
 The term holy signifies, 1. God himself, who is most holy and pure; or it signifies essential and uncreated holiness, which is God himself. For all the virtues and properties of God constitute his essential holiness. So the angels exclaim in reference to God, "Holy, holy, holy is the Lord of hosts." (Is. 6:3.) 2. The holiness which is in creatures, which consists in their conformity with God, which, as it respects the godly, is merely begun, but is perfect in the angels. 3. The setting of anything apart to a holy use. In this sense, whatever is consecrated to a sacred purpose is called holy, as the temple in Jerusalem, the altar, the vessels, the priests, &c., &c.
 
@@ -48,7 +45,7 @@ Obj. 1. That which is holy in itself, cannot be sanctified. The name of God is h
 
 Obj. 2. We ought not to desire another to do for us, what belongs to us to do. We now ought to sanctify and hallow the name of God. Therefore, we should not desire that God would hallow his name; for in so doing we seem to act like a scholar, who being commanded by his preceptor to apply himself diligently to his studies, desires his preceptor himself to do it for him. We reply to the major proposition by making a distinction; we should not desire another to do what is devolving upon us, provided we have the ability of ourselves to do it; but what we are unable of ourselves to perform, that we properly desire God to grant us the ability to do. But we cannot of ourselves sanctify and hallow the name of God. Therefore, we must needs pray to God to grant unto us the strength by which we may hallow the name of God; yea, that he himself would hallow his holy name in us.
 
-FORTY-EIGHTH LORD'S DAY
+## Forty-Eighth Lord's Day
 
 ---
 [[Ursinus HC Q121|← Question 121. Why is here added, "WHICH ART ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q123|Question 123. Which is the second petition? →]]

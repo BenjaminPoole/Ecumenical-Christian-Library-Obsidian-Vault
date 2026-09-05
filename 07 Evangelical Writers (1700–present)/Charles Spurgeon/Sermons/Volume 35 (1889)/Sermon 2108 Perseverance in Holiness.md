@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Perseverance in Holiness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2108
@@ -111,8 +110,7 @@ To use an old figure: be sure that you take a ticket all the way through. Many p
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON’Hebrews 8; 10:12-39.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’27, 229, 228.
-
+## Hymns from "Our Own Hymn Book"’27, 229, 228
 
 ---
 [[Sermon 2107 The Withered Fig Tree|← #2107]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2109 The Eye and the Light|#2109 →]]

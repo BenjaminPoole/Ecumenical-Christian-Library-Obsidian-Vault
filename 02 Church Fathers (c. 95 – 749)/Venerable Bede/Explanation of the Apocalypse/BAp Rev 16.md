@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 16
 
 V. 1. pour out". Power was given to the Church to impose judgment upon those who are to be condemned, and to give absolution in mercy to those who are converted. And to all the angels indeed was the command given, to pour upon the earth. But the same men of earth, according to the difference ot sins, have different appellations assigned, that the fulness of guilt also might be reckoned by the number seven, as well as that of preaching and vengeance.
@@ -49,8 +47,6 @@ Qtt. Ps. IxTitL 25 (Ixix. 24 A. v.); cf. Isa. ncni 11. ' Isa. xxTt II. • Ch. b
 
 See ch. xiy. 8, and note 0.
 
-15 1 ^ Explanation of the ApocUlypse. [bk. in*
-
 tongues. As the righteous '' wUl eat the labours of his own hands ""/* so the ungodly also, exposed to the just punishments of his blasphemy, is satiated as it were with his own tongue. They hurt themselves therefore who blasphemed, because of the wrath of God, with which when they were pierced throu^, they thought it joy.
 
 11. repented not He referred it not to their own hardness, but to the just indignation of Gt)d, Who sent on them a plague of such a kind, that in it they should not remember themselves. For who, when af!iicted in body, does not feel the hand of God, like Antiochus^. "They blasphemed,'^ he said, that is, not openly, but by luxuriating in sins.
@@ -73,8 +69,6 @@ kings. As there are holy kings to whom, when the Euphrates is dried, the way of 
 
 I
 
-114 Exphtnatianof the Apocafypse. [bk iii.
-
 the great day of God Almighty: behold He cometh^ as a thief*.'*
 
 Blessed. Blessed are they whose sins are covered, who hide the baseness of a reprehensible life before the eyes of the just at the judgment, by the covering of subsequent good works. In the Gospel also, the Lord, under the example of the thief to be guarded against, commands His servants to watch.
@@ -94,8 +88,6 @@ the last persecution is described; all which Tichonius will have to be understoo
 19. divided. The ungodly city wages a threefold war against the Church of Christ For the heathen and Jews attack it in open conflict, heretics by treacherous defection, false brethren by evil examples. And this has been represented above ^ in the three bad horses, red, black, and pale.
 
 Ch. vi. 4—8.
-
-ii6 Explanation of the Apocalypse, [bk. iit.
 
 cities. That is to say, all the strength and con. fidence of the nations. For the mirth oT the ungodly is their great fall, and the joy of the unjust their destruction.
 

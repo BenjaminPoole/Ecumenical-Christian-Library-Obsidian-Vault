@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Where True Prayer is Found
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1412
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 5, 1878,.
+*Delivered on Lord's-Day Morning, May 5, 1878*
 
 > "Therefore has Your servant found in his heart to pray this prayer to You." 2 Samuel 7:27.
 
@@ -146,7 +145,6 @@ Another thing. During this week the various societies are holding their public m
 Find it in your hearts, too, at this time, to pray for the work of this, our own Church, and I call special attention to the work of our tract distributors. We have, now, nearly 90 Brothers going from village to village, from house to house, distributing the Word of God and preaching it to those who in the hamlets might otherwise be left without the Gospel. Find it in your hearts to invoke a blessing upon them! And, if there is anything that is more upon your heart than another, be wise enough to hedge in a quarter of an hour in order to pray the prayer unto the Lord. Shut yourself up and say, "I have business to do with the Master. I feel a call within my heart to speak with the King."
 
 Beloved Brothers and Sisters, when such a season comes upon you, I would most humbly but most affectionately ask those of you who are benefited by my ministry to whisper my name into the King's ear, for I have much need of His Grace and help. May the Lord accept your petitions, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1411 Under Constraint|← #1411]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1413 Underneath|#1413 →]]

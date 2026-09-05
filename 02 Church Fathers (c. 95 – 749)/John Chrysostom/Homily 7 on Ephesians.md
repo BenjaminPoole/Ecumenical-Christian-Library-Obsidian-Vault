@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 7 on Ephesians
 
-Chapter III. Verses 8-11
+## Chapter III. Verses 8-11
 
 Unto me, who am less than the least of all saints, was this grace given, to preach unto the Gentiles the unsearchable riches of Christ; and to make all men see what is the dispensation of the mystery, which from all ages has been hid in God, who created all things: to the intent that now unto the principalities and the powers in the heavenly places might be made known through the Church the manifold wisdom of God, according to the eternal purpose, which He purposed in Christ Jesus our Lord.
 

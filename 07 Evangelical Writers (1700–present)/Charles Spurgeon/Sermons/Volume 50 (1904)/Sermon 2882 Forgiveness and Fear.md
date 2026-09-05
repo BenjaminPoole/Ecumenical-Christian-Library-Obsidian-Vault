@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Forgiveness and Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2882
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There is forgiveness with You, that You may be feared." Psalm 130:4.
 
@@ -99,7 +96,7 @@ Suppose he had been hanged? What would his parents have said? Well, they might h
 
 Blessed Spirit, apply this message to the Lord's own chosen ones and save many precious souls through it, for the Redeemer's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 32; 130.
+## Exposition by C. H. Spurgeon: Psalms 32; 130
 
 Psalm 32:1. Blessed is he whose transgression is forgiven, whose sin is covered. No man knows the blessedness of pardoned sin but the man who has felt the weight of guilt upon his conscience. If you have ever been burdened and crushed under a load of sin, it will be a joy worth more than ten thousand worlds for you to get the burden lifted from your shoulders! "Blessed"—blessed beyond description—"is he whose transgression is forgiven, whose sin is covered."
 
@@ -133,7 +130,7 @@ Psalm 130:1. Out of the depths have I cried unto You, O LORD. "Sinking, sinking,
 
 He shall redeem Israel from all her iniquities. Children of God, plead that precious promise—"He shall redeem Israel from all her iniquities." And never rest till you are fully freed from the bondage of sin, for God will work a perfect work in you and then He will take you Home to be with Him forevermore!
 
-HYMNS FROM "OUR OWN HYMN BOOK"—202, 556, 559.
+## Hymns from "Our Own Hymn Book"—202, 556, 559
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
@@ -141,7 +138,7 @@ PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF
 
 Prisoners Delivered
 
-A SERMON PUBLISHED ON THURSDAY, MAY 12, 1904.
+## A Sermon Published on Thursday, May 12, 1904
 
 "As for you also, by the blood of your covenant Ihave sent forth yourr prisoners from the waterless pit. Return to the stronghold, you prisoners of hope: even today do I declare that I will render double unto you."
 
@@ -229,7 +226,7 @@ Finally, note how true the promise is. When God says, "Even today do I declare t
 
 God grant that this may be the happy experience of many of you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ZECHARIAH9.
+## Exposition by C. H. Spurgeon: Zechariah 9
 
 Verse 1. The burden of the word of the LORD in the land of Hadrach. Or Syria.
 
@@ -266,7 +263,6 @@ take Ephraim, and make her into an arrow—and then he will shoot His strangely-
 15\. The LORD ofHosts shall defend them; and they shall devour, and subdue with sling stones and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar You remember that the mockers said, on the day of Pentecost, "These men are full of new wine." They were not, as Peter plainly declared, "these are not drunken, as you suppose." Neither does this prophesy mean that they would be so, but that the Spirit of God should fall so copiously upon them as to fill them, like bowls brimming over with precious liquid, or like the corners of the altar drenched for Elijah's sacrifice. It is a grand thing when Believers in Christ are thus filled to overflowing with the Spirit of God and Divine energy—they are the men who will win the battle for the cause of God and His Truth.
 
 16\. 17. And the LORD their God shall sa ve them in that day as the flock of His people; for they shall be as the stones of a crown, lifted up as an ensign upon His land. For how great is His goodness, and how great is His beauty! Corn shall make the young men cheerful, and new wine the maids.
-
 
 ---
 [[Sermon 2881 Feeble Faith Appealing to a Strong Savior|← #2881]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2884 'Who Is on the Lord's Side'|#2884 →]]

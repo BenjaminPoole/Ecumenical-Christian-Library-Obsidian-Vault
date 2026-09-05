@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Prodigal'S Reception
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 588
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 4, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 4, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Luke 15:20.
 
@@ -142,7 +141,6 @@ That is a remarkable passage in one of the Prophets, where he says, "Ekron as a 
 "Not as they stood inn Adam's fall, When sin and ruin covered all. But as they'll stand another day, Fairer than the sun's meridian ray."
 
 O, I would to God that He would in His infinite mercy bring some of His own dear children home this day and He shall have the praise, world without end. Amen.
-
 
 ---
 [[Sermon 0587 God'S Strange Choice|← #587]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0589 Jesus Meeting His Warriors|#589 →]]

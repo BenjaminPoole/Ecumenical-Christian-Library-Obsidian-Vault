@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 1. Dedications and Prefaces, Part 1
 
 6129 22820 92! ς
@@ -22,29 +21,25 @@ Dustituted 2D. M.BCCC.NH.
 
 For the Publication of the Corks of the Fathers and Carly G@iriters of the Reformed Lnglish Church,
 
-THE DECADES
+## The Decades
 
 HENRY BULLINGER,
 
-TRANSLATED BY H. I.
+## The First and Second Decades
 
-THE FIRST AND SECOND DECADES.
-
-EDITED FOR
+## Edited For
 
 The Parker Society,
 
 REV. THOMAS HARDING, A.M.,
 
-OF WORCESTER COLLEGE, OXFORD, AND VICAR OF BEXLEY, IN KENT,
+## Of Worcester College, Oxford, and Vicar of Bexley, in Kent
 
-CAMBRIDGE:
+## Printed At
 
-PRINTED AT
+## The University Press
 
-THE UNIVERSITY PRESS.
-
-M.DCCC.XLIX.
+## M.dccc.xlix
 
 ADVERTISEMENT. : : : : : ems The Preface. : : : : ; : : . 8 Of the Four General Synods or Councils . Σ : : 12
 
@@ -58,7 +53,7 @@ The First Sermon . : : ; : Ε = 193 The Second Sermon . Ε : : : 209 The Third S
 
 ERRATA and ADDENDA : é : 436 a ee re
 
-ADVERTISEMENT.
+## Advertisement
 
 One of the Parker Society’s objects, as stated in the first of its Laws, is “the printing, as may appear desirable, of some of the Early English translations of the Foreign Reformers.” Accordingly, the re-publishing of the English Version of the Decades of Bullinger was announced, as in the contemplation of the Council of the Society, in a List which was appended to the Second Annual Report; and the first volume is now, at length, presented to the subscribers. The edition, which is here reprinted, is that of 1587, which scarcely differs at all, in any material respects, from the former edition of 1584, and very little from that of 1577; but any important variations between the translation and the original Latin are carefully specified in the notes. The Version was made, as stated in the title-page, “by Η. 1. Student in Divinitie,’—“a person,” according to Strype’s testimony, “of eminency in the Church!.”
 
@@ -86,11 +81,11 @@ gione juventutem.” Wood. Hist. et Ant. Univ. Oxon. Lib. 1. p. 296. quoted in P
 
 3 See Adami Vit. Germ. Theol. in vita Bullingeri; and “Bullinger,” in Chalmers’ Biograph. Dict.
 
-FIFTY SERMONS
+## Fifty Sermons
 
-DIVIDED INTO
+## Divided Into
 
-FIVE DECADES.
+## Five Decades
 
 ἘΠῚ ΠῚ καὶ GODLIE AND LEARNED
 
@@ -102,7 +97,7 @@ WITH A TRIPLE OR THREE-FOLD Table verie fruitfull and necessarie},
 
 Translated out of Latine into English, by H. I. Student in Diuinitie.
 
-MATTHEW. 17.
+## Matthew. 17
 
 This is my beloued Sonne in whom I am well pleased: Heare him.
 
@@ -110,7 +105,7 @@ Imprinted at London by Ralph Newberie, dwelling in Fleete street a little aboue 
 
 [ ΝΒ. Notwithstanding what is here stated, the edition of 1587 has not this Table prefixed to it.]
 
-TO THE MINISTRY OF THE CHURCH OF ENGLAND, AND TO OTHER WELL DISPOSED READERS OF GOD’S WORD.
+## To the Ministry of the Church of England, and to Other Well Disposed Readers of God’s Word
 
 Tuat just cause there is that all spiritual shepherds, and specially these of our time, should see carefully to the feeding of the flocks committed to their charge, may easily appear to him that shall but a little stay his consideration upon this matter. For first, the commandments of the Almighty touching this thing are very earnest, the authority of which should greatly enforce. Secondly, the rewards which he proposeth to vigilant and careful pastors are large and bountiful, the sweetness of which should much allure. Thirdly, the plagues and heavy judgments, which he denounceth against slothful and careless shepherds, are grievous and importable!, the terror whereof should make afraid. Then the nature and condition of the sheep over whom they watch, the vigilancy of the wolf against whom they watch, the conscience in taking the fleece for which they watch, and this time and age wherein they watch, being rightly considered, will give them to understand sufficiently, that they have good occasion to watch.
 
@@ -118,7 +113,7 @@ How earnestly God commandeth, appeareth, Esay lviii. where he saith, “ Cry alo
 
 [ i.e. unsupportable: “ importable power.”—Spenser. P.] [2 i. e. reprove. ] 1—2
 
-4 THE PREFACE.
+## 4 the Preface
 
 and they that turn many to righteousness shall shine as the stars for ever and ever.” And 1 Tim, iv. “Take heed to thyself and to doctrine; in them occupy thyself continually. For in so doing thou shalt save thyself and them which hear thee.” How fiercely also he urgeth and driveth on the sluggish and careless shepherds with terrible plagues and whips threatened unto them, appeareth, Ezechiel 111., where he saith, “Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word of my mouth, and give them warning from me: when I shall say unto the wicked, thou shalt surely die, and thou givest him not warning, nor speakest to admonish the wicked of his wicked way that he may live; the same wicked man shall die in his iniquity, but his blood will I require at thy hand.” And Ieremie i. ver. 17: “ Thou therefore, truss up thy loins, and arise, and speak unto them all that I command thee: be not afraid of their faces, lest I destroy thee before them.” And 1 Cor. ix. ver. 16: “Though I preach the gospel, I have nothing to rejoice of!; for necessity is laid upon me, and woe is unto me, if I preach not the gospel: for if I do it willingly, I have a reward: but if I do it against τὰν tie notwithstanding the dispensation is committed unto me.’
 
@@ -146,7 +141,7 @@ THE PREFACE. 7 time, now eighteen years, the universities being well purged, the
 
 The case standing thus, their labour surely is not worst bestowed, neither do they promote the glory of God or profit the church least, which to that end apply their endeavour, that the ministry which now is in place may come forward, and be better able to do their duties: I mean such as either set forth godly and learned treatises, or expositions of the holy scriptures, compiled by themselves in our mother tongue; or else such as translate the worthy works of the famous divines of our time. Both these sorts of men, no doubt, do much edify the godly, and do greatly help forward all those ministers which either not at all, or very meanly, understand the Latin tongue: so that amongst them are found many, which, by painful industry and diligent reading of such books, do God good service in the church; and so might all the rest of them do also, if sloth and worldly affairs did not hinder them. Some of that sort complain, that Calvin’s manner of
 
-8 THE PREFACE.
+## 8 the Preface
 
 writing in his Institutions! is over deep and profound for them: Musculus also, in his Common Places, is very scholastical; the Commentaries of Marlorat? upon John, of Peter Martyr upon the Judges, of Gualter upon the small Prophets, and other many are translated and extant®; which altogether do handle most points of christian doctrine excellently well : but this sort of ministers for the most part are so bare bitten of their patrons‘, that to buy them all would deeply charge them. Therefore, questionless, no writer yet in the hands of men can fit them better than master Bullinger in these his Decades; who in them amendeth much Calvin’s obscurity with singular perspicuity, and Musculus’ scholastical subtlety with great plainness and even popular facility. And all those points of christian doctrine, which are not to be found in one, but handled in all, Bullinger packeth up all, and that in good order, in this one book of small quantity. And whereas divers of the ministry which lack knowledge, and some also which have knowledge but yet lack order, discretion, memory, or audacity, cannot, by reason of their wants, either expound, or exhort, or otherwise preach, but only read the order of service; the Decades of master Bullinger in this respect may do more good than shall perhaps at the first be conceived. For in very deed this book is a book of sermons ; sermons im name, and in nature ; fit to be read out of the pulpit unto the simplest and rudest people of this land: the doctrine of them very plain, without ostentation, curiosity, perplexity, vanity, or superfluity; very sound also, without popery, Ana-
 
@@ -168,7 +163,7 @@ Perhaps some hearers, which delight more to have their eyes fed with the preache
 
 [7 Falso putarunt a Paulo scriptam esse. Non dubito quin epistola fuerit ad Paulum missa.—Calvin. Comment. in loc. ]
 
-10 THE PREFACE.
+## 10 the Preface
 
 appeareth out of Eusebius, Lib. rv. cap. 231, and the writers of the Centuries?, Cent. 1. cap. 10) did use to read openly, for admonition sake, certain epistles of Clement, and of Dionysius, bishop of Corinth. Master Bucer, in his Notes upon the Communion Book in king Edward’s time, writeth thus: “It is better, that where there lacks to expound the seriptures unto the people, there should be godly and learned homilies read unto them, rather than they should have no exhortation at all in the administration of the supper®.” And a little after he saith: ‘“‘There be too few homilies, and too few points of religion taught in them: when, therefore, the Lord shall bless this kingdom with some excellent preachers, let them be commanded to make more homilies of the principal points of religion, which may be read to the people by those pastors that cannot make better themselves*.” And that worthy martyr, doctor Ridley, bishop of London, speaking of the church of England that was in the reign of king Edward (as he is reported by master Foxe, in his book of Acts and Mon., To. τ᾿. page 1940) saith thus): “It had also holy and wholesome homilies in commendation of the principal virtues which are commended in scripture, and likewise other homilies against the most pernicious and capital vices that use, alas! to reign in this church® of England.” So long,
 
@@ -194,7 +189,7 @@ But, to end: these sermons of master Bullinger’s are such as, whether they be 
 
 The Nicene council,
 
-FOUR GENERAL SYNODS OR COUNCILS'.
+## Four General Synods or Councils'
 
 Srvce the time of the apostles, many councils have been celebrated in sundry provinces. Those (councils) then were synods or assemblies of bishops and holy men, meeting together to consult for keeping the soundness of faith, the unity of doctrine, and the discipline and peace of the churches. Some of which sort the epistles of the blessed martyr Cyprian have made us acquainted withal?.
 
@@ -230,7 +225,7 @@ The council of Ephesus.
 
 The council of Calcedon.
 
-14 OF THE FOUR GENERAL SYNODS OF COUNCILS.
+## 14 of the Four General Synods of Councils
 
 year that the blessed father Augustine died, when that godly prince Theodosius the Great was emperor, there came together at Ephesus the third synod, of two hundred priests or thereabouts, against Nestorius!, which tare the mystery of the incarnation and taught that there were two Sons, the one of God, the other of man: whom this council condemned, together with the Pelagians’, helpers of this doctrine as cousin to their own.
 
@@ -250,15 +245,15 @@ Beda de ratione temporum*, and many other writers, do join with these four unive
 
 [6 This council was held a. Ὁ. 680, under the Emperor Constantine Pogonatus. The number of attending bishops increased to near 200. —Mosheim, Vol. 11. p. 101; Hammond’s Canons, p. 125.]
 
-THE NICENE CREED TAKEN OUT OF THE ECCLESIASTICAL AND TRIPARTITE HISTORY.
+## The Nicene Creed Taken out of the Ecclesiastical and Tripartite History
 
 WE believe in one God, the Father Almighty, maker of of all things visible and invisible. And in one Lord Jesus Christ, the Son of God, the only-begotten Son of the Father, that is, of the substance of the Father; God of God, light of light, very God of very God; begotten, not made, being of the same essence and substance with the Father; by whom all things were made, which are in heaven, and which are in earth: who for us men and for our salvation came down, was incarnate and manned (was made man). He suffered, and rose again the third day, he ascended into heaven, and shall come to judge the quick and the dead. And (we believe) in the Holy Ghost. As for those that say, it was sometime when he was not, and before he was born he was not; and which say, because he was made of things not being (of nothing) or of another substance, that therefore the Son of God is either created, or turned, or changed, them doth the holy catholic and apostolic church curse or excommunicate®.
 
 ᾿ μὰ , , , aA [Πιστεύομεν εἰς ἕνα Θεὸν, Πατέρα παντοκράτορα, πάντων ὁρατῶν A ) , , Ν 2 A , ) * \ A ec. τε καὶ ἀοράτων ποιητὴν. Kai εἰς eva Kuptov Inoovy Χριστὸν, τὸν Υἱὸν a A “a lal 4 a Tod Θεοῦ, γεννηθέντα ἐκ τοῦ ἸΤατρὸς, μονογενῆ, τουτέστιν ἐκ τῆς οὐσίας ~ a ~ Ε ~ rod Πατρός: Θεὸν ἐκ Θεοῦ, φῶς ἐκ φωτὸς, Θεὸν ἀληθινὸν ἐκ Θεοῦ ἀληθινοῦ: γεννηθέντα, οὐ ποιηθέντα' ὁμοούσιον τῷ Πατρί: δ οὗ τὰ πάντα ἐγένετο, τά τε ἐν τῷ οὐρανῷ, καὶ τὰ ἐν τῇ γῇ" τὸν δ ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν κατελθόντα, καὶ σαρκωθέντα, ἐναν- , lod , ) θρωπήσαντα, παθόντα καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ, ἀνελθόντα eis τοὺς ’ “ an 7 a οὐρανούς: ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς. Καὶ eis τὸ Πνεῦμα τὸ σ΄͵ \ s 4 3᾽ ν 2 ) κα x ) = \ “ Ἅγιον. Τοὺς δὲ λέγοντας ἦν ποτὲ ὅτε οὐκ ἦν, ἢ οὐκ ἦν πρὶν γεννηθῆναι, x bY ) a A x ) ff €, ’ x aay: , ἢ ἐξ οὐκ ὄντων ἐγένετο, ἢ ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας φάσκοντας ) a hee Nees oa: \ A «ιν ~ ~ , ) εἶναι, ἢ κτιστὸν, ἢ τρεπτὸν ἢ ἀλλοιωτὸν, τὸν Yidv τοῦ Θεοῦ, τούτους ἀναθεματίζει ἡ καθολικὴ καὶ ἀποστολικὴ τοῦ Θεοῦ "ExkAnoia.—Socr. Hist. Eccl. Lib. 1. 6. 8. ed. Reading. Cantab. 1720. P.]
 
-16 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 16 of the Four General Synods or Councils
 
-THE CREED OF THE COUNCIL HELD AT CONSTANTINOPLE, TAKEN OUT OF A CERTAIN COPY WRITTEN IN GREEK! AND LATIN?
+## The Creed of the Council Held at Constantinople, Taken out of a Certain Copy Written in Greek! and Latin?
 
 I BeLieve® in one God, the Father Almighty, maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, born of his Father before all worlds, light of light, very God of very God, begotten, not made, being of the same sub-
 
@@ -274,7 +269,7 @@ I BeLieve® in one God, the Father Almighty, maker of heaven and earth, and of a
 
 ΟΕ THE FOUR GENERAL SYNODS OR COUNCILS. 17 stance with the Father, by whom all things were made: who for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Ghost and the virgin Mary, and was made man. He was also crucified for us under Pontius Pilate. He suffered and was buried: and he rose the third day, according to the scriptures. And he ascended into heaven, and sitteth on the right hand of God the Father: and he shall come again with glory to judge the quick and the dead; whose kingdom shall have no end. And (I believe) in the Holy Ghost, the Lord and giver of life, who, proceeding from the Father, is to be worshipped and glorified together with the Father and the Son; who spake by the prophets: in one catholic and apostolic church. I confess one baptism for the remission of sins. I look for the resurrection of the dead; and the life of the world to come.
 
-THE CONFESSION OF FAITH MADE BY THE SYNOD AT EPHESUS.
+## The Confession of Faith Made by the Synod at Ephesus
 
 Inasmucu as because here I note all things briefly, I could not in writing place with these that large synodal epistle written by St Cyril to Nestorius*, wherein is contained the full consent of the general council held at Ephesus. 1 have therefore rather chosen out of the 28th epistle of the same Cyril a short confession sent to the synod, and allowed by the whole council. Before the confession are set these words: “ Even as in the beginning we have heard out of the divine scriptures, and the tradition’ of the holy fathers; so will we briefly speak, not adding any thing at all to the faith set forth by the holy fathers in Nice. For that doth suffice as well to all knowledge of godliness, as also to the utter forsaking of any heretical overthwartness.”
 
@@ -288,7 +283,7 @@ To this confession Cyril addeth these words: “‘ When we had read these holy 
 
 1 « ” » κ , a » “ , [..-.. ὡς ἄνωθεν ἔκ τε τῶν θείων γραφῶν ἔκ τε τῆς παραδόσεως ΄ € , ὯΝ ra ) , A »Ἥ ) A ) ‘ τῶν ἁγίων πατέρων παρειληφότες ἐσχήκαμεν, διὰ βραχέων ἐροῦμεν, οὐδὲν τὸ συνόλον προστιθέντες τῇ τῶν ἁγίων πατέρων τῶν ἐν Νικαίᾳ ἐκτεθείσῃ lg ¢ \ » ) , εἶ a ) - ‘ ) , πίστει: ὡς yap ἔφθημεν εἰρηκότες, πρὸς πᾶσαν ἐξαρκεῖ καὶ εὐσεβείας “ Lod ) ~ γνῶσιν, πάσης καὶ αἱρετικῆς κακοδοξίας ἀποκήρυξιν... .. “Ομολογοῦμεν τοιaA , € ΄“΄ ) a A A γαροῦν τὸν Κύριον ἡμῶν ᾿Ιησοῦν Χριστὸν, τὸν Υἱὸν τοῦ Θεοῦ τὸν povo- “ nN , Ae, Ls ) o = x ΄ γενῆ, Θεὸν τέλειον καὶ ἄνθρωπον τέλειον ἐκ Ψυχῆς λογικῆς καὶ σώματος" πρὸ αἰώνων μὲν ἐκ τοῦ Πατρὸς γεννηθέντα κατὰ τὴν Θεότητα, ἐπ᾽ ἐσχάτων δὲ τῶν ἡμερῶν τὸν αὐτὸν δ ἡμᾶς καὶ διὰ τὴν ἡμετέραν σωτηρίαν ἐκ , εκ Ψ κ᾿ A ) , ς ΄ κ N \ Μαρίας τῆς παρθένου κατὰ τὴν ἀνθρωπότητα: ὁμοούσιον τῷ Πατρὶ τὸν ‘ A cn αὐτὸν κατὰ τὴν Θεότητα, καὶ ὁμοούσιον ἡμῖν κατὰ τὴν ἀνθρωπότητα" δύο A re oa 4 \ o A og εν σ Δ ς γὰρ φύσεων ἕνωσις γέγονε": διὸ ἕνα Χριστὸν, ἕνα Υἱὸν, ἕνα Κύριον ὁμολογοῦμεν. Κατὰ ταύτην τὴν τῆς ἀσυγχύτου ἑνώσεως ἔννοιαν, ὁμολογοῦA ( , £: , x A A A / lad μεν τὴν ἁγίαν παρθένον Θεοτόκον, διὰ τὸ τὸν Θεὸν Λόγον σαρκωθῆναι, κα a ee) Sw a ΄ en ε x ‘ ) καὶ ἐνανθρωπῆσαι, καὶ ἐξ αὐτῆς τῆς συλλήψεως ἑνῶσαι ἑαυτῷ τὸν ἐξ “ a ~ αὐτῆς ληφθέντα ναόν. Tas δὲ εὐαγγελικὰς καὶ ἀποστολικὰς περὶ τοῦ Κυ- ¢ A w" A cA ‘ ‘ ΄“ ρίου φωνὰς, ἴσμεν τοὺς θεολόγους ἄνδρας τὰς μὲν κοινοποιοῦντας, ὡς » ) C ee. Y , A ‘ ~ « Ὄπ A fl Ν A ‘ ep ἑνὸς προσώπου, tas δὲ διαιροῦντας ὡς ἐπὶ δύο φύσεων": καὶ τὰς μὲν θεοπρεπεῖς κατὰ τὴν Θεότητα τοῦ Χριστοῦ, τὰς δὲ ταπεινὰς κατὰ τὴν 5 - a 5 ΄ ἀνθρωπότητα αὐτοῦ παραδίδοντας..---- Ταύταις ὑμῶν ἐντυχόντες ταῖς ἱεραῖς ΄“ -΄ a φωναῖς, οὕτω τε καὶ ἑαυτοὺς φρονοῦντας εὑρίσκοντες, (εἷς yap Κύριος, ᾿ , a , “ “ μία πίστις, ἕν βάπτισμα,) ἐδοξάσαμεν τὸν τῶν ὅλων Σωτῆρα Θεόν' ἀλ-
 
-A CONFESSION OF FAITH MADE BY THE COUNCIL OF CHALCEDON, TAKEN OUT OF THE BOOK OF ISIDORE.
+## A Confession of Faith Made by the Council of Chalcedon, Taken out of the Book of Isidore
 
 Arter the rehearsal of the creeds set forth by the synods of Nice and Constantinople, with a few words put between, straightway the holy council of Chalcedon doth prescribe (their confession) in these words”.
 
@@ -296,7 +291,7 @@ Arter the rehearsal of the creeds set forth by the synods of Nice and Constantin
 
 , , ¢ ἃς ΄ ἮΝ ᾿ a ἢ λήλοις συγχαίροντες, ὅτι ταῖς θεοπνεύστοις γραφαῖς καὶ τῇ παραδόσει ΄“ lal a ΄σ τῶν ἁγίων ἡμῶν πατέρων συμβαίνουσαν ἔχουσι πίστιν αἵ τε παρὰ ἡμῖν καὶ ai παρὰ ὑμῖν éxkAnoiat.—Cyril. Alex. Opp. Par. 1638, Tom. v. P. 2, p. 106.) 2 c re 4 ΄“- | ee 4 , ΄ A A + ee} © rv a“ [2 “Ἑπόμενοι τοίνυν τοῖς ἁγίοις πατράσιν, ἕνα καὶ τὸν αὐτὸν ὁμολογεῖν ει \ ’, ¢ “ ) a \ ΄ og ) ὃ δά υἱὸν τὸν Κύριον ἡμῶν ᾿Ιησοῦν Χριστὸν συμφώνως ἅπαντες ἐκδιδάσκομεν, ΄ \ ae 2 , ‘ , \ ) eg ἢ ) ) 6 ΄ \ τέλειον τὸν αὐτὸν ἐν Θεότητι, καὶ τέλειον τὸν αὐτὸν ἐν ἀνθρωπότητι, Θεὸν “ lol col “ , e ἀληθῶς καὶ ἄνθρωπον ἀληθῶς τὸν αὐτὸν ἐκ ψυχῆς λογικῆς καὶ σώματος ὁμοούσιον τῷ Πατρὶ κατὰ τὴν Θεότητα, καὶ ὁμοούσιον τὸν αὐτὸν ἡμῖν κατὰ ΄“΄ / τὴν ἀνθρωπότητα, κατὰ πάντα ὅμοιον ἡμῖν, χωρὶς ἁμαρτίας: mpd αἰώνων a ) , ν lol μὲν ἐκ τοῦ Πατρὸς γεννηθέντα κατὰ τὴν Θεότητα, ἐπ᾽ ἐσχάτων δὲ τῶν ἡμερῶν τὸν αὐτὸν δ᾽ ἡμᾶς καὶ διὰ τὴν ἡμετέραν σωτηρίαν ἐκ Μαρίας ΄“ rad ) τῆς παρθένου τῆς Θεοτόκου κατὰ τὴν ἀνθρωπότητα, ἕνα Kai τὸν αὐτὸν a (4 ) i: ) ra Χριστὸν, Υἱὸν, Κύριον, μονογενῆ, ἐκ δύο φύσεων ἀσυγχύτως, ἀτρέπτως, “ “ a“ -. ΄“΄ ἀδιαιρέτως, ἀχωρίστως γνωριζόμενον" οὐδαμοῦ τῆς τῶν φύσεων διαφορᾶς ) , ᾿ ᾿ σ ΄ δὲ αλλ “ ἰδ Pd - 4 ἀνηρημένης Sia τὴν ἕνωσιν, σωζομένης δὲ μᾶλλον τῆς ἰδιότητος ἑκατέρας A ) ) φύσεως, καὶ εἰς ἕν πρόσωπον καὶ μίαν ὑπόστασιν συντρεχούσης, οὐκ εἰς A i ΄ x , 2x ae 4 \ 28 Vis δύο πρόσωπα μεριζόμενον ἢ διαιρούμενον, ἀλλ᾽ ἕνα καὶ τὸν αὐτὸν Yiov - - , »" καὶ μονογενῆ, Θεὸν, Adyov, Κύριον ᾿Ιησοῦν Χριστόν: καθάπερ ἄνωθεν οἱ “ “ “ , “ | ) , προφῆται περὶ αὐτοῦ, καὶ αὐτὸς ἡμᾶς ὁ Κύριος ᾿Ιησοῦς Χριστὸς ἐξεπαίfod “ Yd tA , Sevoe, καὶ τὸ τῶν Πατέρων ἡμῖν παραδέδωκε σύμβολον. Τούτων τοίνυν ) c “ μετὰ πάσης πανταχόθεν ἀκριβείας τε καὶ ἐμμελείας παρ’ ἡμῶν διατυπωΝΣ ta θέντων, ὥρισεν ἡ ἁγία καὶ οἰκουμενικὴ σύνοδος, ἑτέραν πίστιν μηδενὶ ἐξεῖναι : a BN κ x , ς 2 προφέρειν, ἢ γοῦν συγγράφειν, ἢ συντιθέναι, ἢ φρονεῖν, ἢ διδάσκειν ἑτέροις. —Labb. Conc. Par. 1671. Tom. ty. fol. ὅ66, 7. P.] me 2—2
 
-20 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 20 of the Four General Synods or Councils
 
 confounded, nor changed, nor divided, nor separated ; and that the difference of the natures is not to be taken away because of the unity, but rather, the property of both (his) natures remaining whole and meeting together in one person and one substance, that he is not parted or divided into two persons, but is one and the same Son, the only-begotten Son, God, the Word, (our) Lord Jesus Christ : even as the prophets from the beginning (have witnessed) of him, as he himself hath instructed us, and the confession of the fathers hath taught us. These things therefore being ordered by us with all care and diligence, the holy and universal synod doth determine, that it should not be lawful for any man to profess any other faith, or else to write, to teach, or speak to the contrary.”
 
@@ -310,19 +305,19 @@ In this article this displeaseth them, because they said, “The property of bot
 
 About the year of our Lord 400.
 
-22 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 22 of the Four General Synods or Councils
 
 whole man, which consisteth of the body and soul; but we say rather, that the reasonable soul hath coupled to itself the substance of living flesh, that it is unspeakably and unconceivably made man, and is also called the Son of man, not of bare will alone, nor by the only taking on of the person, but because the two natures do after a certain manner come together in one, so that there is one Christ, and one Son of both (tke natures) by joming them in one, not in making void or taking away the difference of the natures, but because they, that is, the Godhead and the manhood together, by that hidden and unspeakable knitting to the unity, have made to us one Lord, and (one) Christ, and (one) Son.” What could be spoken more plainly than this? What could be shewed more clearly out of the epistles of Cyril to agree with the determination of the council of Chalcedon? For see, neither are words to words, nor sentence to sentence any thing contrary: but even as they had one meaning of faith, so use they in a manner the self-same words.
 
 The holy synod said, “The difference of the two natures being no where made void ;” St Cyril said, “‘ The difference of the natures not being made void, or taken away, by joining them together.” The holy synod said, “ Both the natures meeting together in one person;” St Cyril saith, “Not of a bare will only, nor yet by the only taking on of a person, but because the two natures after a sort do meet together in one.” The holy synod said, “Not being divided into two persons, but being one and the same Christ ;” St Cyril said, “So that of two, that is to say (of two) natures in one Christ the Son;” and again, “Because they, that is, the Godhead and the manhood together, have made to us one Lord, (one) Christ, and (one) Son,” &c.
 
-THE CREED OF THE FIRST COUNCIL HELD AT TOLEDO, WHEN HONORIUS AND ARCADIUS WERE EMPERORS, TAKEN OUT OF THE BOOK OF ISIDORE}.
+## The Creed of the First Council Held at Toledo, When Honorius and Arcadius Were Emperors, Taken out of the Book of Isidore}
 
 We believe in one very God, the Father Almighty, and the Son, and the Holy Ghost, maker of things visible and
 
 [1 Credimus in unum Deum Patrem, et Filium et Spiritum Sanctum, visibilium et invisibilium factorem, per quem creata sunt omnia in invisible, by whom all things were made in heaven and in earth. We believe, that there is one God and one Trinity of the divine substance. And that the Father himself is not the Son, but that he hath a Son, which is not the Father. That the Son is not the Father, but that the Son of God is of the nature of the Father. And also that the Holy Ghost is the Comforter, which neither is the Father himself, nor the Son, but proceeding from the Father and the Son. The Father therefore is unbegotten, the Son begotten, the Comforter not begotten but proceeding from the Father and the Son. The Father is he from whom this voice was heard out of heaven, “This is my beloved Son, in whom I am well pleased: hear him.” The Son is he which said, “I went out from the Father, and came from God into the world.” The Comforter is the Holy Ghost, of whom the Son said, “Unless I go away to the Father, the Comforter shall not ceelo et in terra: hunc unum Deum et hanc unam esse divine substantiz Trinitatem: Patrem autem non esse ipsum Filium, sed habere Filium qui Pater non sit: Filium non esse Patrem, sed Filium Dei de Patris esse natura: Spiritum quoque Paracletum esse, qui nec Pater sit ipse nec Filius, sed a Patre Filioque procedens. Est ergo ingenitus Pater, genitus Filius, non genitus Paracletus sed a Patre Filioque procedens. Pater est, cujus vox hee est audita de ccelis, Hic est Filius meus, in quo mihi bene complacui: ipsum audite. Filius est qui ait, go a Patre exivi, et a Deo veni in hune mundum. Paracletus Spiritus est, de quo Filius ait, Nisi abiero ego ad Patrem, Paracletus non veniet ad vos. Hane Trinitatem personis distinctam, substantia unitam, virtute et potestate et majestate indivisibilem, indifferentem; preter hanc nullam credimus divinam esse naturam, vel angeli, vel spiritus vel virtutis alicujus, que Deus esse credatur. Hune igitur Filium Dei, Deum natum a Patre ante omne omnino principium, sanctificasse uterum Marie Virginis, atque ex ea verum hominem sine virili generatum semine suscepisse, duabus duntaxat naturis, id est, Deitatis et carnis, in unam convenientibus omnino personam, id est, Dominum nostrum Jesum Christum: nec imaginarium corpus aut phantasmatis alicujus in eo fuisse, sed solidum atque verum: hunc et esurisse et sitisse et doluisse et flevisse et omnes corporis injurias pertulisse: postremo a Judeeis crucifixum et sepultum tertia die resurrexisse: conversatum postmodum eum discipulis suis, et quadragesima post resurrectionem die ad ccelum ascendisse. Hunc Filium hominis etiam Dei Filium dici. Filium autem Dei Dominum Filium hominis appellamus. Resurrectionem vero futuram humane credimus carnis, animam autem hominis non divinam esse substantiam, aut Dei parem, sed creaturam dicimus divina voluntate creatam.—Labb. Concil. Par. 1671. Tom. 1. col, 1227. P.]
 
-24 OF THE FOUR GENERAL SYNODS OR COUNCILS.
+## 24 of the Four General Synods or Councils
 
 come.” We believe in this Trinity differing in persons (but) all one in substance, not divided nor differing in strength, power and majesty ; (and) we believe, that beside this there is no divine nature, either of angel, or of spirit, or any power, which may be believed to be God.
 
@@ -330,7 +325,7 @@ We therefore believe, that this Son of God, being God begotten of his Father alt
 
 We believe verily, that there shall be a resurrection of the flesh of mankind; and that the soul of man is not of the divine substance, or of God the Father, but is a creature created by the will of God.
 
-THE CREED OF THE FOURTH COUNCIL KEPT AT TOLEDO, TAKEN OUT OF THE BOOK OF ISIDORE?.
+## The Creed of the Fourth Council Kept at Toledo, Taken out of the Book of Isidore?
 
 As we have learned of the holy fathers, that the Father, and the Son, and the Holy Ghost are of one Godhead and
 

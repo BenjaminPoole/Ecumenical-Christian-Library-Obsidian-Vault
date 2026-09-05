@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-FROM THE FLOOD TO THE CALLING OF ABRAHAM.
+*From the Flood to the Calling of Abraham*
 
 I proceed now to show how the same work was carried on *from the beginning of the flood till the calling of Abraham.* For though that mighty, universal deluge overthrew the world: yet it did not overthrow this building of God, the work of redemption. This went on; and instead of being overthrown, continued to be built up, in order to a further preparation for the great Saviour’s coming into the world, for the redemption for his people.
 

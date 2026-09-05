@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Covenant Blessings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2681
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has given meat unto them that fear Him: He will always be mindful of His Covenant." Psalm 111:5.
 
@@ -154,7 +151,6 @@ While you have a rag of your own, you shall never have Christ's robe! Go your wa
 But if you have nothing and are poor, penniless and miserable—reduced to utter spiritual destitution and pov-erty—in God's name I preach to you the Gospel! Christ died for you and you shall not perish. God will not punish Christ for us and then punish us afterwards. He will not demand the payment, first at His hands and then again, at ours. He is not unjust to punish, first, the Scapegoat, the Surety, the Substitute—and then to punish you. Christ was your Substitute—He bore your guilt, He carried your iniquities upon His head. Your sins were numbered upon Him and your punishment was laid upon Him!
 
 Go your way. You can never be punished. Your sins, which are many, are all forgiven. Rejoice in pardon bought with blood—be glad, be satisfied, be happy even till you die—and then you shall be happy forever!
-
 
 ---
 [[Sermon 2680 Ruth Deciding for God|← #2680]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2682 A Song and a Solace|#2682 →]]

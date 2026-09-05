@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 59. Letter LVIII. To the Same ( June 8, 1415)
-
-LETTER LVIII. TO THE SAME ( June 8, 1415)
 
 Glad Occultua is hidden ; Instructions to Chlum as to the depositions ; Toothache ; Qualify his last letter ; Do not make his letters public ; " God sent you as angels " ; Questioned as to books; "Do you wish to abjure?" An unfair alteration of deposition 218-21
 

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 67. Matthew 7:15-20; Luke 6:43-45
-
-**MATTHEW 7:15-20; LUKE 6:43-45**
 
 **15**. But beware of false prophets, who come to you in sheep's clothing, but inwardly are ravening wolves. **16**. From their fruits you shall know them. Do men gather grapes from thorns, or figs from thistles? **17**. So every good tree yields good fruits, and a rotten tree yields bad fruits. **18**. A good tree cannot yield evil fruits, nor can a rotten tree yield good fruits. **19**. Every tree, which does not yield good fruit, is cut down, and is thrown into the fire. **20**. Therefore from their fruits you shall know them.
 

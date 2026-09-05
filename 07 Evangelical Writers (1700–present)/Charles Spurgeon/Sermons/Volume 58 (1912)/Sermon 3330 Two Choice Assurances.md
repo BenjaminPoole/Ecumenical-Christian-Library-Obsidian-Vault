@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Two Choice Assurances
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3330
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fear not, Abram: I am your shield and your exceedingly great reward." Genesis 15:1.
 
@@ -115,7 +112,7 @@ It is astonishing what a difference a night's rest makes with our troubles. I wo
 
 Shall not we who love the Savior hear this same gracious promise sounding clear and sweet in our souls and trusting in the abiding Presence of God find that He gives the unparalleled rest, the rest that endures? And if, on the other hand, we are strangers to that brave, strong peace, shall we not listen as He calls, "Come unto Me, and I will give you rest"? And answering to it, enter into that rest that always follows true believing! The Lord grant it may be so, with each one, for His name's sake!
 
-EXPOSITION BY C. H. SPURGEON: JOHN 10:1-30; HEBREWS 1:1-14.
+## Exposition by C. H. Spurgeon: John 10:1-30; Hebrews 1:1-14
 
 Verse 1. Verily, verily, I say unto you. Now we may be absolutely certain that there is something of the utmost importance wherever Christ uses the solemn phrase, "Verily, verily"—the same word is, "Amen, amen" and it has been well observed that if it were not for Christ's, "Amens," our "Amens" would be of little value. It is because He who is the Amen, the Faithful and True Witness, pleads in Heaven that our, "Amens," are accepted there. If, dear Friends, Christ pays an earnest attention to our, "Amens," how much more ought we to attend to His, especially when He doubles them—"Amen, amen, I say unto you."
 
@@ -166,7 +163,6 @@ faith! Let your soul lovingly track Him in His upward march, and as you see Him,
 10-12. And, You, Lord, in the beginning have laid the foundation of the earth; and the heavens are the works of Your hands: they shall perish; but You remain, and they all shall grow old as does a garment; and as a vesture shall You fold them up, and they shall be changed: but You are the same, and Your years shall not fail Jesus Christ the same yesterday, today, and forever!
 
 13, 14. But to which of the angels saidHe at any time, Sit at My right hand, untilImake Your enemies Your footstool? Are they not all ministering spirits sent forth to minister for them who shall be heirs of salvation?
-
 
 ---
 [[Sermon 3329 Goodness Going Before|← #3329]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3331 Knowing and Believing|#3331 →]]

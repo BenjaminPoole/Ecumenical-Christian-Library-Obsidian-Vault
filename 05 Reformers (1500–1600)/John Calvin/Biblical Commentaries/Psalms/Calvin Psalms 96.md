@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 96
-
-**PSALM 96**
 
 This psalm contains an exhortation to praise God, an exhortation which is directed not only to the Jews, but to all nations. We must infer from this, that it has reference to the kingdom of Christ. God’s name could not be called upon in any other part of the world than Judea, until it had been revealed; and the heathen nations were at that time necessarily altogether incapacitated for any such exercise. [^1] Yet it is evident that the Holy Spirit stirred up the saints who were under the Law to celebrate the Divine praises, till the period should arrive when Christ, by the spread of the Gospel, should fill the whole earth with his glory.
 

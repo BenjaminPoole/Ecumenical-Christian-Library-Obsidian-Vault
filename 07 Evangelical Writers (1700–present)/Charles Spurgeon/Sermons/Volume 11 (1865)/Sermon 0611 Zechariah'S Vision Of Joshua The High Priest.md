@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Zechariah'S Vision Of Joshua The High Priest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 611
 
-DELIVERED ON SUNDAY MORNING, JANUARY 22, 1865,.
+*Delivered on Sunday Morning, January 22, 1865*
 
 > "And he showed me Joshua the high priest standing before the Angel of the Lord and Satan standing at his right hand to resist him. And the Lord said to Satan, The Lord rebuke you Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a log plucked from the fire? Now Joshua was clothed with filthy garments and was standing before the Angel. Then He answered and spoke to those who stood before Him, saying, Take away the filthy garments from him. And to him He said, Behold, I have removed your iniquity from you and I will clothe you with rich robes. And I said, Let them put a clean turban upon his head. So they put a clean turban upon his head and they put the clothes on him. And the Angel of the Lord stood by." Zechariah 3:1-5.
 
@@ -136,7 +135,6 @@ Oh Christian, your State occasion should be always! You are always dear to Chris
 I have thus preached after a very feeble sort to God's people. There is this voice to sinners. Your case is like that of Joshua at first—for you have filthy garments on. Do not try to wash them. Nothing is said here about washing the garments, not a word! Do not try to make those old rags any better—there is nothing said about stitching or mending. Just confess that they are too bad to be mended, too filthy to be washed, and turn your eyes to Christ, the wounded Sufferer, and ask Him this morning to speak the word—"Take away the filthy garments from him. Clothe him with a change of raiment."
 
 I tell you, Sinner, what He did for Joshua, He will do for you! Oh seek His face and live! God help you to seek it and to find it this very morning and He shall have the praise forever and ever. Amen.
-
 
 ---
 [[Sermon 0610 The Great Need—Or, The Great Salvation|← #610]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0612 Jesus Washing His Disciples' Feet|#612 →]]

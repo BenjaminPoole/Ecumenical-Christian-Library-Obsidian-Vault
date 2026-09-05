@@ -9,10 +9,7 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 **UPON**
 

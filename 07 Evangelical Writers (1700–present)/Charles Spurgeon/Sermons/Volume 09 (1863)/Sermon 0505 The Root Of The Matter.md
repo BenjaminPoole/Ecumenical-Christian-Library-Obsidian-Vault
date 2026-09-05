@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # The Root Of The Matter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 505
@@ -31,7 +30,7 @@ Why, my Brothers and Sisters, we have nothing else left after we have given up t
 
 There is no other religion in the world that has been false to its own doctrines in the way that Christianity has been. Imagine a Mohammedan allowed to come forward in the pulpit and preach against Mohammed! Would it be tolerated for a single moment? Suppose a Brahmin, fed and paid to stand up in a temple, and speak against Brahma! Would it be allowed? Surely not! Nor is there an Infidel lecturer in this country but would find his pay stopped at once, if, while pretending to be in the service of Atheism, he declaimed the sentiments he was sworn to advocate. How is it? Why is it? In the name of everything that is reasonable and instinctively consistent, where can it be that men can be called Christian ministers after the last vestige of Christianity has been treacherously repudiated by them?
 
-How is it that they can be tolerated to minister in holy things to people who profess and call themselves sincere followers of Jesus, when they tread under foot the precious blood of Christ, and, "reduce the mystery of godliness to a sys- tem of ethics"? To use the words of a Divine of the last century: "Degrade the Christian Church into a school of philosophy. Deny the expiation made by our Redeemer's Sacrifice. Obscure the brightest manifestation of Divine mercy, and undermine the principal pillar of practical religion. And to make a desperate shipwreck of our everlasting interests, they dash themselves to death on the very rock of salvation."
+How is it that they can be tolerated to minister in holy things to people who profess and call themselves sincere followers of Jesus, when they tread under foot the precious blood of Christ, and, "reduce the mystery of godliness to a system of ethics"? To use the words of a Divine of the last century: "Degrade the Christian Church into a school of philosophy. Deny the expiation made by our Redeemer's Sacrifice. Obscure the brightest manifestation of Divine mercy, and undermine the principal pillar of practical religion. And to make a desperate shipwreck of our everlasting interests, they dash themselves to death on the very rock of salvation."
 
 No. We must have the Atonement, and that not tacitly acknowledged, but openly set forth. Charity can go a good way, but charity cannot remove the altar from the door of the Tabernacle, or admit the worshipper into the most Holy Place without the blood of propitiation. So, again, the doctrine ofjustification by faith is one of the roots of the matter. You know Luther's saying. I need not repeat it. It is the article of a standing, or falling Church, "By grace are you saved through faith, and that not of yourselves, it is the gift of God. Not of works lest any man should boast." Do you preach that doctrine? My hand and my heart are stretched out to you!
 
@@ -83,7 +82,7 @@ Therefore it follows that the root becomes a supplying thing, because it is a re
 
 II. Let me briefly notice, in the second place, that WHEREVER THERE IS THE ROOT OF THE MATTER,
 
-THERE IS VERY MUCH GROUND FOR COMFORT.
+## There Is Very Much Ground for Comfort
 
 Sounds there in my ears the sigh, the groan, the sad complaint?—"I do not grow as I could wish. I am not so holy as I want to be. I cannot praise and bless the Lord as I could desire. I am afraid I am not a fruitful bough whose branches run over the wall"? Yes, but is the root of the matter in you? If so, cheer up, you have cause for gratitude. Remember that in some things you are equal to the greatest and most full-grown Christian. You are as much bought with blood, O little
 
@@ -99,7 +98,7 @@ Am I but little in Israel? Yet in Christ I am made to sit in heavenly places! Am
 
 III. This brings me to the third and closing part—WHEREVER THE ROOT OF THE MATTER IS, THERE WE
 
-SHOULD TAKE CARE THAT WE WATCH IT WITH TENDERNESS AND WITH LOVE.
+## Should Take Care that We Watch It with Tenderness and with Love
 
 Some of you may have the notion that you are advanced in knowledge, that you have much skill in interpreting the Word of God, and that you understand the mysteries of the kingdom of Heaven. It is highly possible that your notion is correct. You go out into the world, and you meet with people who do not know quite as much as you do, and who have not yet learned all the doctrines of Grace as they are threaded together in the Divine plan of salvation. May I persuade you not to get into controversy, not to be continually fighting and quarrelling with people who do not hold to just your sentiments?
 
@@ -136,7 +135,6 @@ Oh, look there! I see His five wounds. They flow with rivers of blood! Look ther
 Look there, Sinner, look, look and live! I think I have closed my sermon each night lately with those words, and I will do so again tonight. There is life in a look at a crucified Savior. There is life at this moment for you. Oh, look to Him, and you shall find that life for yourself. God bless you, for Jesus' sake.
 
 May the Grace of our Lord Jesus Christ, and the love of God our Father, and the fellowship of the Holy Spirit be with all who love Jesus, now and eternally. Amen. Amen.
-
 
 ---
 [[Sermon 0504 I Know That My Redeemer Liveth|← #504]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0506 Strong Meat|#506 →]]

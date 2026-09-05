@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Salvation Altogether By Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 703
 
-DELIVERED ON SUNDAY MORNING, JULY 29, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 29, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > 2 Timothy 19.
 
@@ -148,7 +147,6 @@ Now it is not so. Sinner, whoever you may be, wherever you may be, your greatest
 But when it is all of Grace, why, then, all your past life, however black and filthy it may be, need not keep you from coming to Jesus. Christ receives sinners! God has elected sinners! He has elected some of the filthiest of sinners—why not you? He receives everyone that comes to Him. He will not cast you out. There have been some who have hated Him, insulted Him to His face—that have burned His servants alive, and have persecuted Him in His members—but as soon as they have cried, "God be merciful to me a sinner," He has given them mercy at once!
 
 And He will give it to you if you are led to seek it. If I had to tell you that you were to work out your own salvation apart from His Grace it were a sad day for you. But when it comes to you yourself—filthy—there is washing for you! Dead—there is life for you! Naked—there is raiment for you! All undone and ruined—here is a complete salvation for you! O Soul, may you have Grace to lay hold of it, and then you and I together will sing to the praise of the glory of Divine Grace.
-
 
 ---
 [[Sermon 0702 Peter'S Three Calls|← #702]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0704 Hezekiah And The Ambassadors—Or, Vainglory Rebuked|#704 →]]

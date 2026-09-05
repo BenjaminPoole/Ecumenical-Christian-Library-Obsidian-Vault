@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Heart Disease Curable
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1604
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 19, 1881,.
+*Delivered on Lord's-Day Morning, June 19, 1881*
 
 > "He has sent Me to bind up the brokenhearted." Isaiah 61:1.
 
@@ -136,7 +135,6 @@ I was at the ends of the earth! I thought I was ready to slip over the edge, alt
 Come, brokenhearted ones, do not try to bind yourselves up—you will only wound yourselves the more! Do not look for comfort into the black and horrible abyss of your own nature, but look to Him whom God has sent! Get right away from what you are to what He is. Have you a legion of devils in you? He is the devils' Master and can turn them all out at once! Does Satan, himself, seem to hold you in his grip? He who of old has fought the fiend and vanquished him will lead your captivity captive and take the prey from the mighty! If you must despair, despair yourself into Christ—I mean by that self-despair which is the next of kin to humble faith in Jesus—drop into His hands. Faint upon Christ's bosom and lie there in happy helplessness.
 
 May the Lord disable you for anything else and lead you to believe in His Anointed! God has sent you Jesus! Will you not admit Him? He is able to save to the uttermost them that come unto God by Him. Come, then, at once, and believe in Him whom God has sent!
-
 
 ---
 [[Sermon 1603 What the Farm Laborers Can Do and What They Cannot Do|← #1603]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1605 Jesus Knew What He Would Do|#1605 →]]

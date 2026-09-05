@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 107. But is it enough that we do not kill any man in the manner mentioned above?
-
-**Question 107. But is it enough that we do not kill any man in the manner mentioned above?**
 
 Answer. No; for when God forbids envy, hatred and anger, he commands us to love our neighbour as ourselves; to show patience, peace, meekness, mercy, and all kindness towards him, and prevent his hurt as much as in us lies; and that we do good even unto our enemies.
 
-**EXPOSITION**
+## **Exposition**
 
 The end or design of this commandment is the preservation of the life and health of the body, and so of the safety both of ourselves and of others. All those things, therefore, which have respect to the safety and preservation of our own life and the lives of others, are here enjoined; whilst, on the other hand, every thing is prohibited which tends to the destruction of life, which may be said to include every unlawful injury, and every desire of inflicting a wrong which any one may cherish, with every expression of this desire. It is called murder in this prohibition, or commandment, not because God prohibits this alone, but that in removing the effect he may at the same time remove all the causes which contribute to it, and that embracing under the term murder, all the sins which are connected with it, he may, by showing its aggravated character, the more effectually restrain us from these sins, according to the rule, that when any particular virtue is commanded or vice forbidden, the general virtues and vices, or whatever is connected with it, is at the same time commanded or forbidden.
 
@@ -80,7 +77,7 @@ There is opposed to this virtue on the side of want, 1. A want of mercy, or crue
 
 The extremes of friendship are, 1. Enmity. 2. Neglect of friends. 3. Readiness in contracting and breaking friendship. 5. Flattery. 6 Unjust gratification.
 
-FORTY-FIRST LORD'S DAY
+## Forty-First Lord's Day
 
 ---
 [[Ursinus HC Q106|← Question 106. But this command seems only to]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q108|Question 108. What doth the seventh command  →]]

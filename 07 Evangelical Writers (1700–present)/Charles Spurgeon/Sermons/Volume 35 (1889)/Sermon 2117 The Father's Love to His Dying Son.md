@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Father's Love to His Dying Son
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2117
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore does My Father love Me, because I lay down My life, that I might take it again." John 10:17
 
@@ -186,7 +183,6 @@ If anyone here has, by believing contemplation, found his way through the proces
 What a joy is this! I feel as if I could find no better conclusion than the glowing verse of William Williams—
 
 "To You, my God, my Savior, Praise be forever new. Let people come to praise You In numbers like the dew. Oh, that in every meadow The grass were harps of gold, To sing to Him for coming To ransom hosts untold!"
-
 
 ---
 [[Sermon 2116 The Unchanging God Cheering Jacob in His Change of|← #2116]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2118 The Planter of the Ear Must Hear|#2118 →]]

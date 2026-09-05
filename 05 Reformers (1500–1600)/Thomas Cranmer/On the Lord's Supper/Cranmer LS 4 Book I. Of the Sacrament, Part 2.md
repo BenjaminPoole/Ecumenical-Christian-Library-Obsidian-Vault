@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 4. Book I. Of the Sacrament, Part 2
 
 : “So he;”’ original ed. of Winchester’s book. 7 [) Livery : i.e. the act of giving. ]
@@ -27,7 +26,7 @@ God could not consider, and yet to insinuate that unto them, Christ made mention
 
 And this shall suffice here to shew how Christ's intent was to give verily (as he did in deed) his precious body and blood to be eaten and drunken, according as he taught them to — be verily meat and drink; and yet gave and giveth them so under form of visible creatures — to us, as we may conveniently and without horror of our nature receive them, Christ therein j condescending to our infirmity. As for such other wrangling as is made in understanding’ ov the words of Christ, shall after be spoken of by further occasion. :
 
-CANTERBURY.
+## Canterbury
 
 wane fourth - Now we be come to the very pith of the matter, and the chief point whereupon oho the whole controversy hangeth, whether in these words, “This is my body,” Christ called nr apaeed * bread his body: wherein you and Smith agree like a man and woman that dwelled in— y," to * Lincolnshire, as I have heard reported, that what pleased the one misliked the other, | reg saving that they both agreed in wilfulness. So do Smith and you agree both in The’ varianee this point, that Christ made bread his body, but that it was bread which he called and smith. his body, when he said, “This is my body,” this you grant, but Smith denieth it. pa neg And because all Smith’s buildings clearly fall down, if this his chief foundation be overthrown, therefore must I first prove against Smith, that Christ called the material bread his body, and the wine which was the fruit of the vine his blood. “For why
 
@@ -107,7 +106,7 @@ Matt. xxvi. Mark xiv. Luke xxii.
 
 A warrant for apparel.
 
-Christ’s ambi- guous speeches were not always opened by ie evangelists
+Christ’s ambiguous speeches were not always opened by ie evangelists
 
 Psal. Ixxvii.
 
@@ -139,7 +138,7 @@ _ ‘And is not the visible and corporal feeding upon bread and wine a convenien
 
 But for the conclusion of your matter, here I would wish that you would once truly understand me. For I do not say that Christ’s body and blood be given to us in signification, and not in deed. But I do as plainly speak as I can, that Christ’s body and blood be given to us in deed, yet not corporally and carnally, but spiritually and effectually, as you confess yourself within twelve lines after.
 
-WINCHESTER.
+## Winchester
 
 The author uttereth a great many words, from the eighth to the seventeenth chapter of the
 
@@ -155,7 +154,7 @@ But the catholic teaching by the scriptures goeth further, confessing Christ to 
 
 [* adminicles; i.e. helps, supports. ] [5 senses, 1551.]
 
-Book i. } hap. VII.
+## Book i. } hap. VII
 
 Chap. rx. The spiritual hunger and thirstiness of the soul.
 
@@ -169,7 +168,7 @@ freshing, is the spiritual hunger of the soul.
 
 receive with their faith and with their mouth also, and with those special dainties be fed specially at Christ's table. And so God doth not only preach in his sacraments, but also worketh in them, and with them, and in sensible things giveth celestial gifts, after the doctrine of each sacrament, as in baptism the Spirit of Christ, and in the sacrament of the altar the very body and blood of Christ, according to the plain sense of his words which he spake: “ This is my body,” &c. And this is the catholic faith, against which, how the author will fortify that he would have called catholic, and confute that he improveth, I intend hereafter more particularly to touch in discussion of that is said.
 
-CANTERBURY.
+## Canterbury
 
 I mistrust not the indifferency of the reader so much, but he can well perceive 4 how simple and slender a rehearsal you have made here of my eight annotations, and how little matter you have here to say against them, and how little your sayings require any answer.
 
@@ -241,7 +240,7 @@ And for this cause Christ ordained baptism in water, that as surely as we see, f
 
 [Rabanus de
 
-Instit. clerico- rum, Lib. i. cap. 31. Ber- like as the said bread and wine is the food and sustenance of our bodies. And sete te no less ought we to doubt, that our souls be fed and live by Christ, than ¥4, we
+Instit. clericorum, Lib. i. cap. 31. Ber-like as the said bread and wine is the food and sustenance of our bodies. And sete te no less ought we to doubt, that our souls be fed and live by Christ, than ¥4, we
 
 [* I am resurrection, 1551. ] [° is our spiritual life, 1551.] that our bodies be fed and live by meat and drink. Thus our Saviour Christ, — knowing us to be in this world, as it were, but babes and weaklings in faith, q hath ordained sensible signs and tokens whereby to allure and to draw us to — more strength and more constant faith in him. So that the eating and drinking — of this sacramental bread and wine is, as it were, shewing' of Christ before our — eyes, a smelling of him with our noses, feeling’? and groping of him with our — hands, and an eating, chewing, digesting, and feeding upon him to our spiritual strength and perfection.
 
@@ -259,7 +258,7 @@ Dionysius, that every one is partaker of the same loaf; and likewise one cup of 
 
 Chap.xv. . Seventhly, it is to be noted, that whereas nothing in this life is more ac-
 
-This sacra- ment moveths ceptable before God, or more pleasant unto man, than christian people to live Fis loveand _ together quietly in love and peace, unity and concord, this sacrament doth i most aptly and effectuously move us thereunto. For when we be made all — partakers of this one table, what ought we to think, but that we be all mem- — bers of one spiritual body, whereof Christ is the head; that we be joined ty together in one Christ, as a great number of grains of corn be joined to4 gether in one loaf? Surely, they have very hard and stony hearts, which — with these things be not moved: and more cruel and unreasonable. be they than brute beasts, that cannot be persuaded to be good to their christian bre- — thren and neighbours, for whom Christ suffered death, when in this sacra- —
+This sacra-ment moveths ceptable before God, or more pleasant unto man, than christian people to live Fis loveand _ together quietly in love and peace, unity and concord, this sacrament doth i most aptly and effectuously move us thereunto. For when we be made all — partakers of this one table, what ought we to think, but that we be all mem- — bers of one spiritual body, whereof Christ is the head; that we be joined ty together in one Christ, as a great number of grains of corn be joined to4 gether in one loaf? Surely, they have very hard and stony hearts, which — with these things be not moved: and more cruel and unreasonable. be they than brute beasts, that cannot be persuaded to be good to their christian bre- — thren and neighbours, for whom Christ suffered death, when in this sacra- —
 
 [? a shewing, 1551.] [? a feeling, 1551.] [3 be so, 1551. ] ment they be put in remembrance that the Son of God bestowed his life for his enemies. For we see by daily experience, that eating and drinking together maketh friends, and continueth friendship: much more then ought the table of Christ to move us so to do. Wild beasts and birds be made gentle by giving them meat and drink: why then should not christian men wax meek and gentle with this heavenly meat of Christ? Hereunto we be stirred and moved, as well by the bread and wine in this holy supper, as by the words of holy scripture recited in the same. Wherefore, whose heart soever this holy sacrament, communion, and supper of Christ will not kindle with love unto his neighbours, and cause him to put out of his heart all envy, hatred, and malice, and to grave in the same all amity, friendship, and concord, he deceiveth himself, if he think that he hath the Spirit of Christ dwelling within him. But all these foresaid godly admonitions, exhortations, and comforts, do the papists (as much as lieth in them) take away from all christian people by their transubstantiation. For if we receive no bread nor wine in the holy communion, then all 40. ‘these lessons and comforts be gone, which we should learn and receive by oftransubeating of the bread, and drinking of the wine: and that fantastical imagidoth clean, nation giveth an occasion utterly to subvert our whole faith in Christ. For @i seeing that this sacrament was ordained in’ bread and wine (which be foods for the body) to signify and declare unto us our spiritual food by Christ ; then if our corporal feeding upon the bread and wine be but fantastical, (so that there is no bread nor wine‘ there indeed to feed upon, although they appear there to be,) then it doth us to understand, that our spiritual feeding in Christ is also fantastical, and that indeed we feed not of him: which sophistry is so devilish and wicked, and so much injurious to Christ, that it could not come from any other person, but only from the devil himself, and from his special minister antichrist.
 
@@ -307,7 +306,7 @@ But it is not the doctrine of Christ, but the subtle invention of antichrist, fi
 
 * Firmiter, paragraph light of God’s word, but at the Romish antichrist, believing whatsoever he prescribed unto them, yea, though it were against all reason, all senses, and God’s most holy word also. For else he could not have been very antichrist indeed, except he had been so repugnant unto Christ, whose doctrine is clean contrary to this doctrine of antichrist. For Christ teacheth that we receive very bread and wine in the most blessed supper of the Lord, as sacraments to admonish us, that as we be fed with bread and wine bodily, so we be — 43. fed with the body and blood of our Saviour Christ spiritually: as in our — baptism we receive very water, to signify unto us, that as water is an element to wash the body outwardly, so be our souls washed by the Holy Ghost inwardly. The second The second principal thing, wherein the papists vary from the truth of sence of God’s word, is this: They say, that the very natural flesh and blood of sacrament. Christ, which suffered for us upon the cross, and sitteth at the right hand of the Father in heaven, is also really, substantially, corporally, and naturally, in or under the accidents of the sacramental bread and wine, which they call the forms of bread and wine. And yet here they vary not a little among themselves, for some say, that the very natural body of Christ is there, but not naturally, nor sensibly. And other say, that it is there naturally and sensibly, and of the same bigness and fashion that it is im heaven, and as the same was born of the blessed virgin Mary, and that it is there broken and torn in pieces with our teeth. And this appeareth partly De consecrs by the school authors, and partly by the confession of Berengarius’, which pon Sem Nicholas the second constrained him to make, which was this: That of the — contra @eol. sacraments of the Lord’s table the said Berengarius should promise to hold — pe. orothat faith which the said pope Nicholas and his council held, which was, that not only the sacraments of bread and wine, but also the very flesh and blood — of our Lord Jesus Christ are sensibly handled of the priest in the altar, broken — and torn with the teeth of the faithful people. But the true catholic faith, grounded upon God’s most infallible word, teacheth us, that our Saviour Christ (as concerning his man’s nature and bodily presence) is gone up unto heayén, — *Christisnot aNd sitteth at the right hand of his Father, and there shall he tarry until the carts, world’s end, at what time he shall come again to judge both the quick and the Jomnxvi, ead, as he saith himself in many scriptures: “I forsake the world,” saith Matt.xxvi. he, “and go to my Father.” And in another place he saith: “ You shall ever have poor men among you, but me shall not you* ever have.” And again he
 
-[! Ego Berengarius indignus sancti Mauritii | secrationem non solum sacramentum, sed etiam Andegavensis ecclesia Diaconus cognoscens veram, | verum corpus et sanguinem Domini nostri Jesu catholicam, et apostolicam fidem, anathematizo | Christi esse, et sensualiter, non solum sacramento, omnem heresim, precipue eam, de qua hactenus | sed in veritate manibus sacerdotum tractari, frangi, infamatus sum: que astruere conatur panem et | et fidelium dentibus atteri: jurans per sanctam et vinum, que in altari ponuntur, post consecrationem | homousion Trinitatem, per hec sacrosancta Christi solummodo sacramentum, et non verum corpus et | evangelia. Eos vero, qui contra hanc fidem vene_ sanguinem Domini nostri Jesu Christi esse, nec | rint, cum dogmatibus et sectatoribus suis eterno posse sensualiter, nisi in solo sacramento, manibus | anathemate dignos esse pronuntio. Quod si ego sacerdotum tractari, vel frangi, aut fidelium denti- | ipse aliquando contra hec aliquid sentire aut prabas atteri. Consentio autem sancte Romane et | dicare presumpsero, subjaceam canonum severitati. apostolice Sedi: et ore et corde profiteor de sacra- | Lecto et perlecto sponte subscripsii—Corpus Juris mentis Dominica mense eandem fidem me tenere, | Canonici, Gratiani Decreti tertia pars. ‘‘. De Con= quam. dominus et venerabilis Papa Nicolaus et | secrat.” Dist. 11. ¢. xlii. cols, 1932, 3, Ed. Lugd. hee sancta Synodus auctoritate evangelica et apos- | 1618.] : mi tolica tenendam tradidit, mihique firmavit: scilicet [? you shall not, 1551.] panem et vinum, que in altari ponuntur, post con- saith: “Many hereafter shall come and say, look here is Christ, or look there matt. xxiv he is, but believe them not.” And St Peter saith in the Acts, that “heaven must Aets iii. receive Christ until the time that all things shall be restored.” And St Paul,
+[! Ego Berengarius indignus sancti Mauritii | secrationem non solum sacramentum, sed etiam Andegavensis ecclesia Diaconus cognoscens veram, | verum corpus et sanguinem Domini nostri Jesu catholicam, et apostolicam fidem, anathematizo | Christi esse, et sensualiter, non solum sacramento, omnem heresim, precipue eam, de qua hactenus | sed in veritate manibus sacerdotum tractari, frangi, infamatus sum: que astruere conatur panem et | et fidelium dentibus atteri: jurans per sanctam et vinum, que in altari ponuntur, post consecrationem | homousion Trinitatem, per hec sacrosancta Christi solummodo sacramentum, et non verum corpus et | evangelia. Eos vero, qui contra hanc fidem vene_ sanguinem Domini nostri Jesu Christi esse, nec | rint, cum dogmatibus et sectatoribus suis eterno posse sensualiter, nisi in solo sacramento, manibus | anathemate dignos esse pronuntio. Quod si ego sacerdotum tractari, vel frangi, aut fidelium denti- | ipse aliquando contra hec aliquid sentire aut prabas atteri. Consentio autem sancte Romane et | dicare presumpsero, subjaceam canonum severitati. apostolice Sedi: et ore et corde profiteor de sacra- | Lecto et perlecto sponte subscripsii—Corpus Juris mentis Dominica mense eandem fidem me tenere, | Canonici, Gratiani Decreti tertia pars. ‘‘. De Con= quam. dominus et venerabilis Papa Nicolaus et | secrat.” Dist. 11. ¢. xlii. cols, 1932, 3, Ed. Lugd. hee sancta Synodus auctoritate evangelica et apos- | 1618.] : mi tolica tenendam tradidit, mihique firmavit: scilicet [? you shall not, 1551.] panem et vinum, que in altari ponuntur, post con-saith: “Many hereafter shall come and say, look here is Christ, or look there matt. xxiv he is, but believe them not.” And St Peter saith in the Acts, that “heaven must Aets iii. receive Christ until the time that all things shall be restored.” And St Paul,
 
 ' writing to the Colossians, agreeth hereto, saying: “Seek for things that be co. ii. above, where Christ is sitting at the right hand of the Father.” And St Paul, speaking of the very sacrament, saith: ‘“ As often as you shall iat this 1 Cor. xi. bread, and drink this cup, shew forth the Lord’s death until he come.” “ Till he come,” saith St Paul, signifying that he is not there corporally present.
 
@@ -325,7 +324,7 @@ Christ's body is in the sacrament as it was born of the virgin, and that it.is b
 
 _ [® until I come, 1551.] ally in the faithful christian people, 1551.] wae He is here present in water, bread, and wine, [° it is also very false, 1551.] as in signs and sacraments, but he is thdesd spiritu- {® saith Smith, 1551. ]
 
-A manifest; falsehood in the printing of the bish- op’s book.
+A manifest; falsehood in the printing of the bishop’s book.
 
 Some say that Christ is rent and torn with teeth in the sacrament, touching the first, the bishop writeth thus in his book of the Devil's Sophistry, the — fourteenth leaf: “Good men were never offended with breaking of the host, which — they daily saw, being also persuaded Christ’s body to be present in the sacrament — naturally and really.” And in the eighteenth leaf he saith these words: “Christ, . God and man, is naturally present in the sacrament.” And in ten or twelve places — of this, his last book, he saith, “that Christ is present in the sacrament ‘naturally, ‘ corporally,’ ‘sensibly,’ and ‘carnally,’ as shall appear evidently in the reading thereof.” — So that I make no false report herein, who report no otherwise’ than the papists have — written and published openly in their books. 7
 
@@ -365,7 +364,7 @@ i a Fh, ft WINCHESTER.
 
 * _ against the fourth, and so return to the second, speaking of transubstantiation, whereof to talk, the real presence not being discussed, were clearly superfluous. And finally, I will somewhat say of the fifth book also.
 
-CANTERBURY.
+## Canterbury
 
 4 But now to return to the conclusion of the bishop’s book. As it began with a Why the or- be marvellous sleight and subtlety, so doth he conclude the same with a like notable Sock vee subtlety, changing the order of my books, not answering them in such order as I fhetishom wrote them, nor as the nature of the things requireth. For seeing that, by all men’s
 
@@ -375,7 +374,7 @@ CANTERBURY.
 
 IcrRanwer | bre mare aes Fee eS a
 
-50 THE FIRST BOOK OF THE SACRAMENT.
+## 50 the First Book of the Sacrament
 
 represented by those sacraments, be present also with the said sacraments: and what manner of presence Christ hath, both in the sacraments, and in them that receive the sacraments. But for what intent the bishop changed this order, it is easy to perceive. For he saw the matter of transubstantiation so flat and plain against him, that it was AT. hard for him to devise an answer in that matter, that should have any appearance of truth, but all the world should evidently see him clearly overthrown at the first onset. Wherefore he thought, that although the matter of the real presence hath no truth in it at all, yet forasmuch as it seemed to him to have some more appearance _ of truth than the matter of transubstantiation hath, he thought best to begin with that first, trusting so to juggle in the matter, and to dazzle the eyes of them that be simple and ignorant, and specially of such as were already persuaded in the matter, that they should not well see nor perceive his legerdemain. And when he had won credit with them in that matter, by making them to wonder at his crafty juggling, then thought he, it should be a fit and meet time for him to bring in the matter of transubstantiation. For when men be amazed, they do wonder rather than judge: and when they be muffled and blindfolded, they cannot find the right way, though they seek it never so fast, nor yet follow it, if it chance them to find it; but give up clearly their own judgment, and follow whomsoever they take to be their guide. And so shall they lightly follow me in this matter of transubstantiation, (thought the bishop,) if I can first persuade them and get their good wills in the real presence. This sleight and subtlety thou mayest judge certainly, good reader, to be the cause, and none other, wherefore the order of my book is changed without ground or reason.
 

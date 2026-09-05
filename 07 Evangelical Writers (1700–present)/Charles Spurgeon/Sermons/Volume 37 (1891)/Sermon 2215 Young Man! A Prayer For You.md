@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Young Man! A Prayer For You
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2215
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Elisha prayed, and said, Lord, I pray, open his eyes, that he may see! And the Lord opened the eyes of the youngman, and he saw. And, behold, the mountain was full of horses and chariots of fire all around Elisha" 2 Kings 6:17.
 
@@ -132,7 +129,6 @@ sion—earth and sea may vanish—but a believing soul must live, triumph and be
 If your eyes are opened, you will know that saints are honored by their Lord. Look! He dispatches His squadrons to be a bodyguard to one of them—would not you wish for such honors? See here the secret of the peace which abides with the man of God—as he has meat to eat that men know not of—so has he company that men cannot see! He lives like a prince in the center of a camp and sleeps securely. Faith makes the difference between the tranquil Prophet and his frightened boy. Oh, that you would believe in the Lord Jesus Christ and so enter into His peace! May this be the red-letter day in which your eyes shall be opened to see spiritual things and you shall begin to live a spiritual life! For this I have prayed. For this, let us all breathe, for a moment a silent prayer. (Here followed an interval of silence and then the preacher spoke in prayer), "Lord, I pray you, open the young man's eyes, that he may see: yes, Lord, open the eyes of all the blind among us, for Jesus' sake! Amen."
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—2 Kings 6.
-
 
 ---
 [[Sermon 2214 Barriers Broken Down|← #2214]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2216 The Lad's Loaves in the Lord's Hands|#2216 →]]

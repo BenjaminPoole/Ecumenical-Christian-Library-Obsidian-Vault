@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # God'S Cure For Man'S Weakness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 697
 
-DELIVERED ON SUNDAY MORNING, JUNE 24, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, June 24, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Out of weakness were made strong." Hebrews 11:34.
 
@@ -150,7 +149,6 @@ Let us also, with equal thankfulness, bless the Lord Jesus, for we had never bee
 Brothers and Sisters, do not let what I have said this morning merely pass your ears. I am persuaded that though I have not put it as I could wish there is a great deal of practical value in the truth which I have stated. You must be strong. This is not an age in which weak Christianity will do. It is strong energetic religion that we need now, and you cannot obtain it except by gaining strong faith and much of it. Plead for it, and then, when you shall have obtained it, the world shall feel your power, God shall be glorified, and Christ's name shall be lifted high.
 
 You who have no faith at all may learn something here. It is only by faith that the impotence and inability of human nature is overcome so that the soul receives Christ unto salvation. May the Holy Spirit work that faith in you to your eternal salvation, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0696 Turning Back in the Day of Battle|← #696]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0698 Seeing Is Not Believing, But Believing Is Seeing|#698 →]]

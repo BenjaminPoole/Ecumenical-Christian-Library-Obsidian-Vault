@@ -10,12 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 7. The Preface
-
-### The Preface.
-
-The Estates of Scotland with the inhabitants of the same professing the Holy Evangel of Christ Jesus, to their natural countrymen, and to all other realms and nations, professing the same Lord Jesus with them, wish grace, peace, and mercy from God the Father of our Lord Jesus Christ, with the Spirit of righteous judgment, for salutation.
 
 The Estates of Scotland with the inhabitants of the same professing the Holy Evangel of Christ Jesus, to their natural countrymen, and to all other realms and nations, professing the same Lord Jesus with them, wish grace, peace, and mercy from God the Father of our Lord Jesus Christ, with the Spirit of righteous judgment, for salutation.
 

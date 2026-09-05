@@ -13,7 +13,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # The Song of a City, and the Pearl of Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1818
@@ -86,8 +85,7 @@ I am very much concerned in leaving you, that you, dear friend, should aim much 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 26.
 
-HYMNS FROM OUR OWN HYMN BOOK—46, 738, 552.
-
+## Hymns from Our Own Hymn Book—46, 738, 552
 
 ---
 [[Sermon 1817 The Ascension and the Second Advent Practically Considered|← #1817]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1819 A Sweet Silver Bell Ringing in Each Believer's Heart|#1819 →]]

@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Nehemiah to Esther
 
 [132] Neh. ix. 14. “And madest known unto them the holy sabbath.” It seems that before they had lost the sabbath, that is, they had lost the beginning and ending of the week, reckoning from the creation, until God made it known to them, upon occasion of their being brought out of Egypt on the same day of the week, and there was thereby new occasion given for this sanctifying that day.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Bird Escaped from the Snare
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1696
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "Our soul is escaped as a bird out of the snare of the fowlers; the snare is broken, and we are escaped." Psalm 124:7.
 
@@ -96,7 +95,6 @@ Next, let us trust, for if the Lord has saved us from the dreadful snare of sin 
 I would say, again, to you netted ones—you that are really caught in the trap and held fast—oh, that the Lord would come at once and set you free! I think He will, yes, I am sure that He will if you cry to Him to do so. I have heard of a sailor who had been in prison, that after his release, he had money in his pocket and, going over London Bridge, he saw a man selling birds—thrashes, larks and so on. "What do you want for the lot?" said Jack. I forget how much it was, but Jack found the money and, as soon as the birds were his, he opened the door and let them all fly away. The man called out "Whatever did you buy those birds for, and then let them out?" "Oh," said the sailor, "if you had been in prison as I have been, you would be sure to set everything free you could get a hold of."
 
 You and I ought to display the same kind of feeling towards all poor ensnared souls. I am sure that the Lord Jesus Christ is more tender-hearted than we are and, therefore, He will certainly come and set free all prisoners who beg Him to open their cage doors! He is the great Emancipator—show Him your bonds and beg for liberty—and He will set you free!
-
 
 ---
 [[Sermon 1695 The Orphan's Father|← #1695]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1697 The Word of a King|#1697 →]]

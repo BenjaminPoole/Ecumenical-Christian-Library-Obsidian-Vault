@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # Exhortation to the Heathen, Chapter 2
 
-BY CLEMENT OF ALEXANDRIA
+*By Clement of Alexandria*
 
 ## Chapter 2. The Absurdity and Impiety of the Heathen Mysteries and Fables About the Birth and Death of Their Gods.
 

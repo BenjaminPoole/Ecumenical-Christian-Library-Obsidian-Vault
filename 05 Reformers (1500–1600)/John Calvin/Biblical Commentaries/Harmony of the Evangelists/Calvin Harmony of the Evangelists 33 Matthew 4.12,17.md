@@ -10,12 +10,9 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 33. Matthew 4:12,17;Mark 1:14-15;Luke 3:19-20; 4:14
 
-**MATTHEW 4:12, 17; MARK 1:14-15;**
-
-**LUKE 3:19-20; 4:14**
+## **Luke 3:19-20; 4:14**
 
 **12**. And when Jesus heard that John had been delivered up, [^1] he withdrew into Galilee. **17**. From that time Jesus began to preach, and to say, Repent ye: for the kingdom of heaven is at hand.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Strange Dispensations and Matchless Consolations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2754
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably to her." Hosea 2:14.
 
@@ -107,7 +104,7 @@ There is never any good done in that way. There are more flies caught with honey
 
 Go, Beloved, and lure others to Christ! And may God the Holy Spirit bless each one of you! If in the wilderness, may He speak comfortably to you. If hardened in your sin, may He bring you into the wilderness! And if He has already spoken comfortably to you, may He help you to speak comfortably to others! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE9:51-56'
+## Exposition by C. H. Spurgeon: Luke 9:51-56'
 
 Verse 51. And it came to pass, when the time was come that He should be received up, He steadfastly set His face to go to Jerusalem. It is a very remarkable expression that is used here—"when the time was come that He should be received up." It does not say, "that He should depart," or, "that He should die." It leaps over that and speaks only of His glorious Ascension into Heaven! When that time was drawing near—and, of course, His death would come before it— Christ "steadfastly set His face to go to Jerusalem," where He knew that He should die upon the Cross.
 
@@ -120,7 +117,6 @@ Verse 51. And it came to pass, when the time was come that He should be received
 ions, be they what they may, is a violation of Christianity! Consciences belong to God, alone, and it is not for us to be calling for fire, the stake, the rack or imprisonment for men because they do not believe as we do! "The Son of Man is not come to destroy men's lives, but to save them."
 
 56\. And theey went to another village. That was the easiest thing for them to do and a great deal better than calling for fire from Heaven upon anybody! If one village would not receive them, another would. And if you cannot get on with one person, get on with somebody else. Do not grow angry with people—that is not the way to make them better. To fight God's battles with the devil's weapons is generally, in the end, to fight the devil's battles on his behalf—let none of us make such a mistake as that!
-
 
 ---
 [[Sermon 2753 Patience, Comfort and Hope From the Scriptures|← #2753]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2755 Must He|#2755 →]]

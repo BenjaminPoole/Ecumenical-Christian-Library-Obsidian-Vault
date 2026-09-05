@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 84. Letter III
-
-LETTER III
 
 A PULL explanation of i all the circumstances which led to the writing of this letter would take us far afield. There were wheels within wheels in the complex politico-religious race-feuds and Church struggles of the times. At Prague three distinct issues had become curiously mixed up together towards the close of 1408, in all of which Hus was a leading actor. There was first of all the issue to which this letter especially refers. Tired of the delays of Gregory XII. and Benedict XIII. in coming to any arrangement for ending the great schism, the cardinals of both Pope and anti-pope had withdrawn to Leghorn, and thence on June 24, 1408, had summoned a council to meet at Pisa on March 25, 1409. Under pressure from the University of Paris Europe prepared to obey. What course Bohemia would take was for the moment uncertain. But Wenzel found that
 

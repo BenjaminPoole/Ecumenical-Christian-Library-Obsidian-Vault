@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Death—a Sleep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3077
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But I would not have you to be ignorant, brethren, concerning those who are asleep, that you sorrow not, even as others which have no hope." 1 Thessalonians 4:13.
 
@@ -116,7 +113,6 @@ Or—
 "Shall devils plunge you down to Hell, In infinite despair?"
 
 You can ascertain which it will be! You can tell it by this—Do you believe on the Lord Jesus Christ? Do you love the Lord Jesus? Do you stand on Christ, the solid Rock? Have you built your hope of Heaven on Him alone? Have you, as a guilty sinner, cast yourself at His Mercy Seat, looking to His blood and righteousness, to be saved by them and by them alone? If so, fear not to die—you shall be safe, whenever the summons comes to you! But if not, tremble, tremble! You may die tomorrow—you must die one day. It will be a sad thing to die as to be lost beyond recovery. May God Almighty grant that we may be all saved at last, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3076 The Cause and Effect of Heart Trouble|← #3076]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3078 God-Guided Men|#3078 →]]

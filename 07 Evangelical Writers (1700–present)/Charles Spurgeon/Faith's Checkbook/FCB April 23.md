@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 23
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NO FEAR OF DEATH**
+## **No Fear of Death**
 
 > He that hath an ear, let him hear what the Spirit saith unto the churches; he that overcometh shall not be hurt of the second death" Rev. 2:11
 
@@ -25,7 +24,6 @@ The thing to be feared is not the first, but the second death; not the parting o
 Now, if by God's grace we fight on to the end, and conquer in the glorious war, no second death can lay its chill finger upon us. We shall have no fear of death and hell, for we shall receive a crown of life which fadeth not away. How this nerves us for the fight! Eternal life is worth a life's battle. To escape the hurt of the second death is a thing worth struggling for throughout a lifetime.
 
 Lord, give us faith, so that we may overcome, and then grant us grace to remain unharmed though sin and Satan dog our heels!
-
 
 ---
 [[FCB April 22|← April 22]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 24|April 24 →]]

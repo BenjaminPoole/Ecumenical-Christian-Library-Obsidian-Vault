@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Patients for the Great Physician
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2835
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick." Luke 5:31.
 
@@ -105,7 +102,7 @@ I want to conclude by earnestly inviting you to come to this Great Physician at 
 
 The sin of twenty thousand years—if it could be possible for anyone to have sinned so long—He can take away in a moment when we believe on Him! "Well, but," says one, "I am such an old sinner." I have read that a young lad of the age of 15 heard Mr. Flavel preach and, soon after, he moved to America and settled in a quiet village there. He lived 85 years after that, an unconverted man and, one day, sitting in the field, thinking, he remembered Mr. Flavel's sermon and the earnest way in which he spoke. Old men often remember the things of their youth better than those of yesterday. What Mr. Flavel had preached 85 years before was blessed to that sinner over a hundred years old—and he sought and found mercy! And he lived some years after that to tell what Divine Love and faithfulness could do! You are not a hundred yet, but if you had wasted a whole century in sin, God's Grace could enable you to begin another century walking in the paths of righteousness to your life's end!
 
-EXPOSITION BY C. H. SPURGEON: LUKE 5:1-32.
+## Exposition by C. H. Spurgeon: Luke 5:1-32
 
 Verses 1, 2. And it came to pass, that, as the people pressed upon Him to hear the Word of God, He stood by the Lake of Gennesaret, and saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets. Before folding them up, as if they intended to do no more with them just then, as they had been working all night in vain.
 
@@ -158,7 +155,6 @@ Lord was present to heal the multitude." The only people for whom there seems to
 24-26. But that you may know that the Son of Man has power upon earth to forgive sins, He said unto the sick of the palsy, I say unto you, Arise, and take up your couch, and go into your house. And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God. And they were all amazed, and they glorified God, and were filled with fear, saying, we have seen strange things today. May we often see such "strange things" spiritually!
 
 27-32. And after these things He went forth, andsaw a publican, namedLevi, sitting at the receipt of custom: and He said unto him, Follow Me. And he left all, rose up, and followed Him. And Levi made Him a great feast in his own house: and there was a great company of publicans and of others that sat down with them. But the scribes and Pharisees murmured against His disciples, saying, Why do you eat and drink with publicans and sinners? And Jesus answering said unto them, They that are whole need not a physician; but they that are sick I came not to call the righteous, but sinners to repentance. The murmuring of those Pharisees and doctors of the Law had one good result, for it led the Savior to declare the purpose of His mission to the earth—"I came not to call the righteous, but sinners."
-
 
 ---
 [[Sermon 2834 Conceit Rebuked|← #2834]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2836 Prayerful Importunity|#2836 →]]

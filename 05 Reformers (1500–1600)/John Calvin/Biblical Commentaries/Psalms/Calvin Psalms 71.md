@@ -10,10 +10,9 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 71
 
-**PSALM 71 [^1]**
+***Psalm 71 [^1]***
 
 David, having spoken at the outset of his confidence in God, partly calls upon him for deliverance, and partly complains of the pride of his enemies. At length, to confirm his faith, he prepares himself for yielding a grateful ascription of praise for the benefits which God had conferred upon him.
 

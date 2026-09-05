@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Plumb Line
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2904
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thus He showed me: and, behold, the Lordstood upon a wall made by a plumb line, with a plumb line in His hand. And the LORD said unto me, Amos, what do you see? And I said, A plumb line. Then said the Lord, Behold, I will set a plumb line in the midst of My people Israel: I will not again pass by them anymore." Amos 7:7, 8.
 
@@ -95,7 +92,7 @@ Sirs, you will never be able to truthfully say that, for I do pray you to escape
 
 May God grant this mercy to each one of you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGE0N: 1 CORINTHIANS 3.
+## Exposition by C. H. Spurge 0n: 1 Corinthians 3
 
 Verse 1. AndI, brethren, coulddnot speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. Their spiritual part had not grown strong. Their old carnal nature still had the preponderance as Paul was obliged to address that which was the bigger half of them.
 
@@ -130,7 +127,6 @@ into Heaven, but to have seen that all your life's work had been a failure—to 
 20, 21. And again, The lord knows the thoughts of the wise, that they are vain. Therefore let no man glory in men. Men are poor things to glory in.
 
 21, 23. For all things are yours, whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come, all are yours and you are Christ's; and Christ is God's. Glory be to His holy name!
-
 
 ---
 [[Sermon 2903 Sleepers Awakened|← #2903]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2905 The Father and the Son|#2905 →]]

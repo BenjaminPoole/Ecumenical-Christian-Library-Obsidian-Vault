@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 46. Deuteronomy 8:7-10; 11:10-12
 
 **Deuteronomy 8**
@@ -24,9 +23,9 @@ tags:
 
 **10.** When thou hast eaten and art full, then thou shalt bless the Lord thy God for the good land which he hath given thee.
 
-**DEUTERONOMY 11**
+## **Deuteronomy 11**
 
-**A REPETITION OF THE SAME DECLARATION**
+## **A Repetition of the Same Declaration**
 
 **10.** For the land, whither thou goest in to possess it, *is* not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst *it* with thy foot, as a garden of herbs:
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Elijah's Plea
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1832
-
-DELIVERED BY.
 
 > "Let it be known that I have done all these things at Your word." 1Kings 18:36.
 
@@ -106,7 +103,6 @@ That was the wrong order and spoiled the whole! And it will never do to put Chri
 You can then go to Him in your dying hour and say, "Lord, I have done all these things at Your Word. I claim no merit, but I do claim that You keep Your gracious promise to me, for You cannot run back from one Word which You have spoken."
 
 God bless you, Beloved, for Christ's sake. Amen and amen.
-
 
 ---
 [[Sermon 1831 Smoking Flax|← #1831]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1833 A Proclamation from the King of Kings|#1833 →]]

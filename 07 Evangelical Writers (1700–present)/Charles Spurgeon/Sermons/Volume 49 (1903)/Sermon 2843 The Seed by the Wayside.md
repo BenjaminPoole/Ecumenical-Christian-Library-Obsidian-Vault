@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Seed by the Wayside
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2843
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it." Luke 8:5.
 
@@ -93,7 +90,7 @@ My dear Hearers, are any of you content to be like this trodden wayside? Will yo
 
 Oh, that the Holy Spirit would drive the great steam-plow through you and break you in pieces! It would be the happiest thing that could happen to you, though your misery might be deep and your anguish terrible. And then may He sow you with His own Good Seed, that you may bring forth fruit to life eternal, having in this life joy, peace, restfulness, usefulness— and in the world to come life everlasting! "Believe on the Lord Jesus Christ, and you shall be saved." There is a handful of Seed for you! Believe now, and you shall live. Look! Look! Look and live. Look even now, at this very moment, for you live the moment that you look! God save you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 8:1-21.
+## Exposition by C. H. Spurgeon: Luke 8:1-21
 
 Verse 1. Andit came topass afterward, that He went throughout every city and village, preaching andshowing the glad tidings of the Kingdom of God: and the twelve were with Him. Our Lord's display of forgiving Grace to the woman who was a sinner seemed to whet His appetite for soul-saving, so that, "He went throughout every city and village, preaching and showing the glad tidings of the Kingdom of God." Dear Friends, whenever we win a soul for God, let it spur us on to a greater diligence in His service! Let it make us insatiable for more of this best wine of the Kingdom of Heaven. It was so with our Divine Master. He went about preaching and, as He preached, He was training others to also preach—"the twelve were with Him." I think that whenever there is a successful ministry, there should be those round about who are being trained to continue it. Among the Waldensians, the pastors were always accompanied by young men who learned to preach from their example, and who shared their toils when they went from valley to valley proclaiming the Gospel.
 
@@ -132,7 +129,6 @@ to be concealed, they are meant to be seen—and if any of you are hiding these 
 19\. Then His mother and His brothers came to Him but could not reach Him because of the crowd. I think that His mother and His brothers were under the delusion that He was mad, and they came to seize Him, to restrain Him, so little did even theyunderstand Him!
 
 20\. 21. And it was told Him by certain which said, Your mother and your brothers stand outside, desiring to see You. And He answered and said unto them, My mother andMy brothers are these which hear the Word of Godand do it. The spiritual relationship overtops the natural. But what a sweet and condescending word this is. Dear Brothers and Sisters, do you hear the Word of God and do it? If so, Christ is at home with you. Christ calls you, "Brother." He knows that you will take care of His cause. He calls you, "Brother." He has deep sympathy with you. O blessed One, You who calls us mother and brother, how we welcome those loving and familiar titles!
-
 
 ---
 [[Sermon 2842 The Sower|← #2842]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2844 The Seed Upon a Rock|#2844 →]]

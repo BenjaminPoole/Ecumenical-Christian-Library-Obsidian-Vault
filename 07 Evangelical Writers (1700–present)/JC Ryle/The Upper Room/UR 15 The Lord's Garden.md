@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # The Lord's Garden
 
-Chapter XV · *The Upper Room* — J. C. Ryle
+## Chapter XV · *The Upper Room* — J. C. Ryle
 
 > — Canticles 4:12
 
@@ -144,7 +143,6 @@ Oh, turn not away from Him that speaketh! Resist not the Holy Ghost. Choose not 
 If the wilderness, you will have your own way, run wild, grow to waste, bring forth fruit and flowers to yourself, become a barren, unprofitable, useless plant, live unloved and unlovable to yourself, and at last be gathered in the bundle with the tares, and burned!
 
 If the garden,--you will not have your own way. But you will have what is far better, you will have God and Christ for your own. You will be cultivated, watered, tended, moved, pruned, trained by the Lord Jesus Himself; and at last your name shall be found in the bundle of life.
-
 
 ---
 [[UR 14 Without Clouds|← Without Clouds]] · [[The Upper Room|Upper Room Contents]] · [[UR 16 The Duties of Parents|The Duties of Parents →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # The Glorious Right Hand Of The Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 363
@@ -43,9 +42,9 @@ And now, O true Believer, what say you to this picture? In the cold, cold winter
 
 III. But to proceed—there is a third way by which this question might be very naturally suggested, and that is
 
-WHEN A MAN WHO HAS FAITH IN CHRIST IS EXERCISED WITH DOUBTS AND FEARS WITH REGARD TO
+## When a Man Who Has Faith in Christ Is Exercised with Doubts and Fears with Regard To
 
-HIS OWN FINAL PERSEVERANCE, OR HIS OWN PRESENT ACCEPTANCE IN CHRIST.
+## His Own Final Perseverance, or His Own Present Acceptance in Christ
 
 I must confess here, with sorrow, that I have seasons of despondency and depression of spirit which I trust none of you are called to suffer. And at such times I have doubted my interest in Christ, my calling my election, my perseverance, my Savior's blood, and my Father's love. I am sorry I ever told you that, but having done so on one occasion, I make now my humble apology as before God for it. I met with a sharp rebuke this last week. A Brother who lives very near to God—I believe one of the holiest men living—told me he never had a doubt of his acceptance once he believed in Christ, and another Christian confirmed his testimony. I do not question the Truth of my Brothers, but I do envy them. 'Tis a wondrous position to stand in! I know how it is. They, both of them, live by simple faith upon the Son of God, and one of them said to me, "When I speak to some of the Friends, and tell them they should not doubt and fear, they say, 'Yes, but our minister has doubts and fears.'" When he said that, I felt how wrong I had been, because the pastor should be an example to the flock, and if I have sinned in this respect, as I must sorrowfully confess I have, at least there was no necessity that I should have said so, for now it gives cause to some of the weak of the flock to excuse themselves. My Brothers and Sisters, if I should stand here and say I occasionally steal my neighbor's goods, you would be shocked! But when I said that I sometimes doubt my God, you were not shocked! There is as much guilt in the one as in the other. There is the highest degree of criminality in connection with doubting God and I feel it so. I do not see that we ought to offer any excuse whatever for our doubting our God. He does not deserve it of us—He is a true and faithful God, and with so many instances of His love and of His kindness as I have received, and daily receive at His hands—I feel I have no excuse to offer either to Him or to you for having dared to doubt Him.
 
@@ -70,7 +69,6 @@ V. I have but now one other point and I shall not detain you, probably two momen
 And you say, do you, that God will not avenge your sins upon you—that you may go on in your iniquities and yet meet with no punishment; that you may reject Christ and do it safely; trample on His blood, and yet God is so calm that His anger will never flame forth against you? Well Soul. Well Soul, "You shall see whether His Word shall come to pass or not." But let me tell you His hand is not waxed short! He is as strong to punish as when He bade the floods cover the earth; as powerful to avenge as when He rained hail out of Heaven upon the cities of the plain! He is today as mighty to overtake and punish His enemies as when He sent the angel through the midst of Egypt, or afterwards smote the hosts of Senacherib! You shall see whether He will keep His Word or not—go on in the neglect of His great salvation—go to your dying bed, and buoy yourself up with the false hope that there is no hereafter, no Hell to come! But, Sinner, you shall see. You shall see. This point in dispute shall not long be a matter of question to be laughed at on the one side, and to be taught with tears on the other. You shall see and we are willing enough, ourselves, to wait that time; only, Soul, when you shall see, it will be too late to escape! When the fire gets hold upon you; when the hail of God begins to dash you in pieces, and there shall be none to deliver, where will your infidelity be then? Where your hard sayings against God's earnest ministers, then? You will use another note, and sing another tune, and yell another cry! O God, grant that none among us may ever dare to doubt You, and think that You cannot and will not punish us! By Your Grace may we come to the Cross as sinners, and be saved, lest unhappily in the world to come when You say, "Depart you cursed," we shall see whether Your Word shall come to pass unto us or not! May God add His own blessing for Jesus' sake!—
 
 "From where, then, shall doubts and fears arise? Why trickling sorrows drown our eyes? Slowly, alas, our mind receives The comfort that our Maker gives. Oh for a strong, a lasting faith, To credit what the Almighty says! To embrace the message of His Son, And call the joys of Heaven our own! Then should the earth's old pillars shake, And all the wheels of Nature break, Our steady souls should fear no more Than solid rocks when billows roar! Our everlasting hopes arise Above the venerable skies, Where the eternal Builder reigns, And His own courts His power sustains."
-
 
 ---
 [[Sermon 0362 None But Jesus—Second Part|← #362]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0364 The Shulamite'S Choice Prayer|#364 →]]

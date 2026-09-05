@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # A Blessed Gospel Chain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2895
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered and said unto him, If a man loves Me, he will keep My words; and My Father will love him, and We will come unto him, and make Our abode with him." John 14:23.
 
@@ -125,7 +122,7 @@ Well, they do not quite see it in that light but, still, they return to that sen
 
 "But," says someone, "if I do trust my soul to Christ, will He save me?" Try Him and see. You have His own promise that He will cast out none who come to Him. So, if you believes in the Lord Jesus Christ this very moment—this very moment you are saved! What more need I say? May the Blessed Spirit cause you to cease, by your unbelief, from practically making God a liar and may you now come and trust in Jesus, the Substitute and Surety for His people! So shall you rest your weary hearts upon His loving bosom and it shall be well with you forever and ever. May God bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14:15-31.
+## Exposition by C. H. Spurgeon: John 14:15-31
 
 Verses 15, 16. If you love Me, keep My commandments. And I willpray the Father, and He shall give you another Comforter that He may abide with you forever Is it not very sweet to think that the Spirit of God is given to the Church in answer to the prayer of Christ? Prayer is a holy exercise, for Jesus prayed. And what a powerful influence prayer has, for His prayer has brought to us "another Comforter."
 
@@ -148,7 +145,6 @@ really the most deep. "Because I live, you shall live also." As surely as Christ
 29, 30. And now I have told you before it comes to pass, that when it is come to pass, you might believe. Hereafter I will not talk much with you: for the prince of this world comes, and has nothing in Me. His words must come to an end, for He was going to perform His mightiest deeds. He could converse no longer, for He was going from converse to conflict. He must meet His great enemy now and leave His dearest friends.
 
 31\. But that the world may know that I love the Father; and as the Father gave Me commandment, even so I do. Arise, let us go hence. And so He went to the Garden of Gethsemane—a brave, gentle, confident, victorious spirit "straitened" till He had accomplished the great work of our redemption!
-
 
 ---
 [[Sermon 2894 The Sinner's Only Alternative|← #2894]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2896 Harvest Time|#2896 →]]

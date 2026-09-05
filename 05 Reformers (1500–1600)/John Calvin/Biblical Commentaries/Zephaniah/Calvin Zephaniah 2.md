@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Zephaniah 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Zephaniah 2:1, 2
 

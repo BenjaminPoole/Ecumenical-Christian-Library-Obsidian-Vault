@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Glory, Unity and Triumph of the Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1472
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 4, 1879,.
+*Delivered on Lord's-Day Morning, May 4, 1879*
 
 > "And the Glory which You gave Me, I have given them; that they may be one, even as We are One: fin them, and You in Me, that they may be made perfect in one; and that the world may know that You ha ve sent Me and ha ve lo ved them, as You have loved Me." John 17:22-3.
 
@@ -140,7 +139,6 @@ Will they receive Christianity coming in such guise? If they do not, small blame
 Notice two passages of Scripture with which I finish. One thing you want the world to know is that you are the Disciples of Christ. "By this shall all men know that you are My disciples, if you have love one to another." Does our Lord wish the world to be convinced? How does He, Himself, act? Hear Him! "But that the world may know that I love the Father; and as the Father gave Me commandment, even so I do. Arise, let us go hence." Love, you see again, proves the unity of the Son with the Father! And here again, in this second text, it is the love of the Father to the chosen which is to be the sign unto the world. Therefore, let love abound. Let it be all the weapons of our war!
 
 I know I have preached very feebly to you this morning upon such a theme. The subject is a great deal too much for my limited capacity, but it is good for us to feel how little we are, how low we are. It is good to look above our struggling selves to something much beyond our present attainments. I lie prostrate on my face before the Lord and confess that I have not yet attained all that I have set forth to you and, I suspect, that your confession is very like my own. Let us not be discouraged, for by Grace we are on the way and we will not rest till we reach the goal! O for Grace so to live unto God in Christ Jesus that the world shall never be able to answer the argument of our lives! Help us, O Spirit of the Lord! Amen.
-
 
 ---
 [[Sermon 1471 Concealing the Words of God|← #1471]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1473 Forts Demolished and Prisoners Taken|#1473 →]]

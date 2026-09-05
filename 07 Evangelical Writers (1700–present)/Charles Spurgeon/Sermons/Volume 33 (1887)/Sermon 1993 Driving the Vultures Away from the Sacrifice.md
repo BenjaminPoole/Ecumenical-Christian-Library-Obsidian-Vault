@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Driving the Vultures Away from the Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1993
@@ -113,7 +112,7 @@ not. Stand by the sacrifice till you behold the Lamb on His Throne! One thing I 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 15. HYMNS FROM "OUR OWN HYMN BOOK"—377, 670, 879.
 
-TO THE CHURCH AT THE TABERNACLE:
+## To the Church at the Tabernacle
 
 BELOVED FRIENDS—I write you because my heart prompts me to do so and because many of you desire it. We have not been in hearty union for so many years without feeling a living interest in each other. This should be more largely the fruit of Church membership than it usually is. The idea of real brotherhood should be more tenderly and more practically realized. Let us, each one, labor after it and take a deep personal interest in our fellow members, especially in those who are poor, or ill, or young, or despondent, or under peculiar temptations and afflictions. Thus should we make up among ourselves a sort of mutual pastorate and should each gain as well as bestow a blessing.
 
@@ -124,7 +123,6 @@ My release from public service was greatly needed, for I have felt great prostra
 Yours in Christ Jesus,
 
 November 17, 1887. C H. SPURGEON.
-
 
 ---
 [[Sermon 1992 Song for the Free—Hope for the Bound|← #1992]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1994 Sweet Peace For Tried Believers|#1994 →]]

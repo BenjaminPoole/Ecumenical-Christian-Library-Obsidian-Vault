@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # David Warned and Rewarded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2775
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Moreover by them Your servant is warned: and in keeping them there is great reward." Psalm 19:11.
 
@@ -93,7 +90,7 @@ This is my last remark. There must be a great reward in keeping God's commandmen
 
 God bless you, dear Brothers and Sisters, and give you that reward, according to the riches of His Grace, through Jesus Christ our Lord! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM19.
+## Exposition by C. H. Spurgeon: Psalm 19
 
 This Psalm has the same subject as Psalm 119. Both of them are full of praise of God's Word. God has written two books for us to read—the volume of the Creation and the volume of the Sacred Scriptures—and these two are in complete harmony. Happy are they who can read both these books and see the same vein of teaching running through every page.
 
@@ -128,7 +125,6 @@ insert a list of, "errata"—errors made in the printing of the volume. Ah, me, 
 13\. Then shall I be upright, and I shall be innocent from the great transgression. "That greatest transgression of all, that sin against the Holy Spirit which shall never be forgiven. If I am kept from presumptuous sin, I shall never fall into that fatal pit."
 
 14\. Let the words of my mouth and the meditation of my heart be acceptable in Your sight, O LORD, my strength, and my Redeemer David does not hope to be accepted till he has, first of all, been pardoned. But when the Lord has forgiven him and sanctified him, then he comes with both mouth and heart to serve his God and his prayer is that he may be acceptable in the sight of God, to whom he owes the strength to worship and through whom he hopes to be accepted because he has a Redeemer. "O Lord, my strength, and my Redeemer." May each one of us be thus acceptable in the sight of God, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2774 Love Pledging Fidelity|← #2774]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2776 The Church a Mother|#2776 →]]

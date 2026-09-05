@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Simplicity in Preaching
 
-Chapter III · *The Upper Room* — J. C. Ryle
+## Chapter III · *The Upper Room* — J. C. Ryle
 
 > — Eccles. 12:12[^1]
 
@@ -104,7 +103,6 @@ Wittingly or unwittingly, the good man hit a nail right on the head. We must tal
 (c) All the simplicity in the world, again, is useless without a good lively delivery. If you bury your head in your bosom, and mumble over your manuscript in a dull, monotonous, droning way, like a bee in a bottle, so that people cannot understand what you are speaking about, your preaching will be in vain. Depend upon it, delivery is not sufficiently attended to in our Church. In this, as in everything else connected with the science of preaching, I consider the Church of England is sadly deficient. I know that I began preaching alone in the New Forest, and nobody ever told me what was right or wrong in the pulpit. The result was that the first year of my preaching was a series of experiments. We get no help in these matters at Oxford and Cambridge. The utter want of any proper training for the pulpit is one great blot and defect in the system of the Church of England.
 
 (d) Above all, let us never forget that all the simplicity in the world is useless without prayer for the outpouring of the Holy Spirit, and the grant of God's blessing, and a life corresponding in some measure to what we preach. Be it ours to have an earnest desire for the souls of men, while we seek for simplicity in preaching the gospel of Jesus Christ, and let us never forget to accompany our sermons by holy living and fervent prayer.
-
 
 ---
 [[UR 02 Luke, the Beloved Physician|← Luke, the Beloved Physician.]] · [[The Upper Room|Upper Room Contents]] · [[UR 04 Foundation Truths|Foundation Truths →]]

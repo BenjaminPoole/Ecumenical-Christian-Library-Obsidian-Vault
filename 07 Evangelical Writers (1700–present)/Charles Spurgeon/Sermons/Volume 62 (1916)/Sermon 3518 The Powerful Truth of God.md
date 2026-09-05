@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # The Powerful Truth of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3518
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Many of them also which used curious arts brought their books together and burned them before all men and they counted the price of them, and found it fifty thousand pieces of silver. So mightily grew the Word of God and prevailed." Acts 19:19,20.
 
@@ -25,7 +22,7 @@ IT should be very encouraging to us to hear of the triumphs of the Gospel in the
 
 Our text suggests to me to speak to you upon three matters. The first is—it is said the Word of God grew, so we will begin by noticing that in Ephesus the Word of God was planted. It could not have grown if it had not been planted. Secondly the Word of God grew—we will watch it. And then there was the Word of God prevailing over sin, for it made men burn their foolish books of magic. To begin then—
 
-I. THE WORD OF GOD WAS PLANTED.
+## I. The Word of God Was Planted
 
 It is interesting to notice how it was planted in Ephesus. I read to you all about it and you noticed that when Paul first came there, there were a few persons that received him gladly. I suppose the Apostle went down into the Jews' quarter, for in all these cities there was a Jews' quarter, and he began to enquire a little and look about him—and he soon
 
@@ -39,7 +36,7 @@ not gathered, yet shall Christ be glorious in His Father's eyes, and Christ's se
 
 I would exhort all here who love the Lord Jesus Christ to try to do what the Apostle did—try to break up fresh ground and get fresh hearers. The Gospel succeeded all the better in Ephesus because it was a new thing there. I believe I should have a better hope of conversions, tonight, if I were speaking to people who had never heard the Gospel before. For after long hearing the Gospel, men get accustomed to it—the most startling warnings do not alarm—and the most wooing invitations do not attract! I should not have such attention as you are kind enough to give me, but perhaps here and there, where attention was given, the barbed arrows of Divine Truth would stick fast in true hearts, whereas in some now present it is almost hopeless work to speak, for it is not to know the Gospel that is needed with them—it is to have a heart to yield to it, a soul to give it due attention and a reverent, believing reception! May God grant that you may yet be saved! But my hope lies in my Brothers and Sisters in Christ breaking up fresh ground. Open little rooms, dear Friends, wherever you can, in every part of London! I have a great belief in cottage meetings to get to the poor. We ought to have, if we are a truly living Church, we shall have—little preaching rooms in every court and alley! And if men can't come here, or won't come here—and really, I see not how they can, for I do not perceive that there is room for any more—we must go and take the Gospel to them! And if I must tarry here with the thousands, go, my Brothers, to the tens, and twenties, and the people of London shall hear the Gospel, somehow, and we shall each be able to say, "I am clear of the blood of all men." We need more of the work of the Apostle in breaking up fresh ground! God stir us up to it and send us success in it! Thus I have spoken of the planting. Now to our second point—
 
-II. THE WORD OF GOD GREW.
+## II. The Word of God Grew
 
 A man drops an acorn into the ground, goes his way and forgets it. When he comes back 20 years later, he finds a very respectable tree! And if he could live to come bank in a century, he might find a tree that seemed to cover acres with its outspread branches—all from a single acorn! We never know what will come of an attempt to do good. Paul steps into Ephesus with a friend or two, and finds 12 that come at his call—but before he has left Ephesus, what a stir the man has made! There was never such a shake given to a city as Paul gave to it! By the Grace of God, the Gospel grew! Let us notice how it grew.
 
@@ -71,7 +68,7 @@ I read to you about Paul. There was that dear good man working all the week, mak
 
 Now the last point is this. The Gospel not only grew, but we are told in the text—
 
-III. THE WORD OF GOD PREVAILED OVER SIN.
+## III. The Word of God Prevailed over Sin
 
 We have an instance given of how it prevailed, to which I call your particular attention. Paul, in his preaching, it appears, was not at all like some who think they are very faithful when they abuse people. I daresay Paul, in his preaching, made the remark that God was not like unto images of silver and gold of man's making—but Paul never abused Diana. How do I know that? He never did, for the Town Clerk in the theater said, "These men are not robbers of churches, neither are they blasphemers of your goddess." Paul had just uttered the general Doctrine that idolatry was a great sin—he had not poured out a great torrent of abuse on Diana and all the rest! In the course of his preaching I daresay he had remarked that magic and sorcery were abominations, but Ephesus was very much given to sorcery. There were certain things called Ephesian letters, supposed to possess great magical power, sold at Ephesus. There are many stories which every reader of classic history knows, such as that of a wrestler who always used to win the day because he wore round his neck one of these charms—all lying stories—but they were freely believed! Most of the Ephesians believed that the letters written round the base of Diana possessed potent charms. Now Paul, though he was not preaching about this, was preaching the Gospel—yet the Gospel found out this particular sin and hit the nail on the head—and God worked with the Gospel, for when the seven sons of one Sceva, a Jew, tried to practice magic and used the name of Christ, the evil spirit leaped on them and overcame them and would have slain them—and they were held up to ridicule. Now there is one thing about the Gospel in every place—it finds out the particular sin of that place and it is quite sure to expose it. I have frequently, in this congregation, made remarks without knowing anything about the persons present, and they have come and asked me who told me about them. It has happened scores of times that the Word has so minutely described the case of a hearer that he has felt convinced that the preacher must have been instructed about his case and told what to say—though in truth the preacher knew nothing about it, only the preacher's Master made his tongue to speak the Word so as to fit the case!
 
@@ -92,7 +89,6 @@ Help me to tear it frown its throne,
 And worship only Thee."
 
 You will say, "I am a Christian, and I will have done with these things." God grant it may be so with many! No, with all of us, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 3517 Sympathy and Song|← #3517]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3519 A Gospel Promise|#3519 →]]

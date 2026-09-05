@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 55. Matthew 6:14-15;Mark 11:25-26
-
-**MATTHEW 6:14-15; Mark 11:25-26**
 
 **14**. For if you shall forgive men their trespasses, your heavenly Father will also forgive you. **15**. But if you shall not forgive men their trespasses, neither will you Father forgive your trespasses.
 

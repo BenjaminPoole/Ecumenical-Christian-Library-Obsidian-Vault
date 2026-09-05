@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 13
-
-**PSALM 13.**
 
 The subject of this psalm is almost the same as that of the preceding. David, being afflicted, not only with the deepest distress, but also feeling himself, as it were, overwhelmed by a long succession of calamities and multiplied afflictions, implores the aid and succor of God, the only remedy which remained for him; and, in the close, taking courage, he entertains the assured hope of life from the promise of God, even amidst the terrors of death.
 

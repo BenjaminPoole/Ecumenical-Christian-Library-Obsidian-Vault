@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 20
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HUNGER SATISFIED**
+## **Hunger Satisfied**
 
 > For he satisfieth the longing soul, and filleth the hungry soul with goodness" Ps. 107:9
 
@@ -23,7 +22,6 @@ It is well to have longings, and the more intense they are the better. The Lord 
 Hunger is by no means a pleasant sensation. Yet blessed are they that hunger and thirst after righteousness. Such persons shall not only have their hunger relieved with a little food, but they shall be filled. They shall not be filled with any sort of rough stuff, but their diet shall be worthy of their good Lord, for they shall be filled with goodness by Jehovah Himself.
 
 Come, let us not fret because we long and hunger, but let us hear the voice of the Psalmist as he also longs and hungers to see God magnified. "Oh, that men would praise the Lord for his goodness, and for his wonderful works to the children of men."
-
 
 ---
 [[FCB November 19|← November 19]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 21|November 21 →]]

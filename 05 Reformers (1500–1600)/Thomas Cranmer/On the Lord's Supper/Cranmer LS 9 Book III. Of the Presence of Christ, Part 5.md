@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 9. Book III. Of the Presence of Christ, Part 5
 
 And whereas here, in this process, you attribute unto Christ none other presence Whether in heaven but spiritual, without all manner of grossness or carnality, so that all heaven but manner of being is spiritual, and none otherwise than he is in the sacrament, here onl sane: I join an issue with you for a joint, and for the price of a fagot. I wondered all ee this while that you were so ready to grant, that Christ is but after a spiritual manner in the sacrament; and now I wonder no more at that, seeing that you say he is but after a spiritual manner in heaven. And by this means we may say that he hath but a spiritual manhood, as you say that he hath in the sacrament but a spiritual body. And yet some carnal thing and grossness he hath in him, for he hath flesh and bones, which spirits lack; except that to all this impiety you will add, 143. that his flesh and bones also be spiritual things, and not carnal. And it is not without some strange prognostication, that you be now waxed altogether so spiritual.
@@ -21,7 +20,7 @@ And first, to St Clement. My words be these.
 
 They allege St Clement, whose words be these, as they report: “The Chap. xv. sacraments of God’s secrets are committed to three degrees: to a priest, a fo enemy deacon, and a minister: which with fear and trembling ought to keep the leavings of the broken pieces of the Lord’s body, that no corruption be found in the holy place, lest by negligence great injury be done to the portion of the Lord’s body.” And by and by followeth: “So many hosts must be offered in the altar as will suffice for the people. And if any remain, they must not be kept until the morning, but be spent and consumed of the clerks with fear and trembling. And they that consume the residue of the Lord’s body may not by and by take other common meats, lest they should mix that holy portion with the meat, which is digested by the belly, and avoided by the fundament. Therefore if the Lord’s portion be eaten in the morning,
 
-142 THE THIRD BOOK.
+## 142 the Third Book
 
 the ministers that consume it must fast unto six of the clock; and if they do take it at three or four of the clock, the minister must fast until the evening.”
 
@@ -37,7 +36,7 @@ And here is diligently to be noted, that we ought not unreverently and unadyised
 
 And therefore we ought to come to that board of the Lord with all reverence, faith, love, and charity, fear, and dread, according to the same.
 
-WINCHESTER.
+## Winchester
 
 Let us now consider what particular answers this author deviseth to make to the fathers of the church ; and first what he saith to St Clement's Epistle, his handling whereof is worthy to be noted.
 
@@ -65,11 +64,11 @@ Acts xvi. 1 Cor. x.
 
 Clement’s epistles feigned.
 
-144 THE THIRD BOOK.
+## 144 the Third Book
 
 in this table; for so I understand the word “wherein.” And then if very Christ himself be represented and given in the table, the author meaneth not the material table, but by the word “table” the meat upon the table; as the word mensa, “a table,’ doth signify in the 16th of the Acts, and the 10th of the Corinthians!. Now if very Christ himself be given in the meat, then is he present in the meat to be given. So as by this teaching very Christ himself is not only figuratively in the table, that is to say, the meat of the table, which this author now calleth representing, but is also spiritually given in the table, as these words sound to me. But whether this author will say very Christ himself is given spiritually in the meat, or by the meat, or with the meat, what scripture hath he to prove that he saith, if the words of Christ be only a figurative speech, and the bread only signify Christ's body? For if the words of the institution be but in figure, man cannot add of his device any other substance or effect than the words of Christ purport: and so this supper, after this author's teaching in other places of his book, where he would have it but a signification, shall be a bare memory of Christ's death, and signify only such communication of Christ, as we have otherwise by faith in that benefit of his passion, without any special communication of the substance of his flesh in this sacrament, being the same only a figure, if it were true that this author would persuade in the conclusion of this book, although by the way he saith otherwise, for fear percase and trembling, that he conceiveth even of an epistle which he himself saith is feigned.
 
-CANTERBURY.
+## Canterbury
 
 It is no marvel, though this epistle feigned by the papists many years passed do vary from the papists in these latter days. or the papistical church at the beginning was not so corrupt as it was after, but from time to time increased in errors and corruption more and more, and still doth, according to St Paul’s saying: “ Evil men and deceivers wax ever worse, both leading other into error, and erring themselves.” For at the first beginning they had no private masses, no pardons in purgatory, no reservation of the bread; they knew no masses of Scala Celi, no lady psalters, no transubstantiation; but of later days all these, and an infinite number of errors besides, were invented and devised without any authority of God’s word. As yourself have newly invented’ a great sort of new devices contrary to the papists before your time, as that Christ is in the sacrament carnally and naturally; that the demonstration was made upon the bread when Christ said, “This is my body ;” that the word “ satisfactory” signifieth no more but the priest to do his duty; with many other things, which here for shortness of time I will omit at this present, purposing to speak of them more hereafter. And the epistles of Clement were feigned before the papists had run so far in errors as they be now. For yet at that time was not invented, as I said, the error of transubstantiation, nor the reservation of the sacrament, nor the priests did not communicate alone without the people. But that the said epistle of Clement was feigned, be many most certain arguments. For there be five epistles of Clement so knit together, and referring one to another, that if one be feigned, all must needs be feigned.
 
@@ -129,7 +128,7 @@ By such pretty cases, of the people disappointing the priests, and of lack of st
 
 _[® That there is nothing, 1551.] [* Dayly, and find, 1551.] . 10—2
 
-148 THE THIRD BOOK.
+## 148 the Third Book
 
 if the people disappoint the priest, say you, and come not to the communion? What if the people disappoint the priest, say I, and come not to matins nor sermon? shall he therefore say matins and preach, when no man is present but himself alone? But your imagined case hath such an absurdity in it, as is not tolerable to be thought to have been in christian people in that time, when Clement’s epistles were written, that when all the people should receive the communion with the priest, yet not one would come, but all would disappoint him. And yet in that case I doubt not but the priest would have abstained from ministration unto more opportunity, and more access of christian people, as he would have done likewise in saying of matins and preaching,
 
@@ -161,7 +160,7 @@ Father by his benignity hath stirred wp.” These be Ignatius’ words, which I 
 
 “This is my body,” not to be figurative only, but to express the truth of the very flesh there given; and therefore (Ignatius saith) eucharistia is the flesh of our Saviour Christ, the same that suffered and the same that rose again. Which words of Ignatius so pithily open the matter, as they declare therewith the faith* also of Theodoret that doth allege him, so as if the) author would make so absolute a work as to peruse all the fathers’ sayings, he should not thus leap over Ignatius, nor Irene neither, as I have before declared. But this is a colour of rhetoric called “ rejection” of that is hard to answer, and is here a pretty shift or sleight, «sleight. whereby thou, reader, mayest consider how this matter is handled.
 
-CANTERBURY.
+## Canterbury
 
 It shall not need to make any further answer to you here as concerning Irenzus, but only to note one thing, that if any place of Irenzus had served for your purpose, you would not have failed here to allege it. But because you have nothing that maketh for you in deed, therefore you allege nothing in especial, (lest in the answer it should evidently appear to be nothing,) and so slide you from the matter, as though all men should believe you, because you say it is so.
 
@@ -183,7 +182,7 @@ _ thereto; although Melancthon wrote not his said epistle to C&colampadius, (as 
 
 -* Ed. Patrum Apostol. Opera Tubinge, 1842. (Hefele.) Ignatii Epist. ad Smyrnwos, p. 172, for mpoodopds ovx reads mpocevyijs améxovra.
 
-150 . THE THIRD BOOK.
+## 150 . The Third Book
 
 the words of Irenee alleged by Melancthon mean in effect no more, but to prove that our bodies shall rise again, and be joined unto our souls, and reign with them in the eternal life to come. For he wrote against Valentine, Marcion, and other heretics, which denied the resurrection of our bodies, from whom it seemeth you do not much dissent, when you say that our bodies shall rise spiritually’, if you mean that they shall rise without the form and fashion of men’s bodies, without distinction and proportion of members. For those shall be marvellous bodies, that shall have no shape nor fashion of bodies, as you say Christ’s body is in the sacrament, to whose body ours shall be like after the resurrection.
 
@@ -197,7 +196,7 @@ _ The answer also is easily made to the place which you allege out of Ignatius, 
 
 And your long process here may have a short answer gathered of your own words.
 
-This word eucharistia, say you, “cannot be well Englished:” but the body of Christ is good and plain English ; and then if eucharistia be such a thing as cannot be well Englished, it cannot be called the body of Christ, but by a figurative speech. And how can you then conclude of Ignatius’ words, that “This is my body,” is no figura- tive speech? It seemeth rather that the clean contrary may be concluded. For if these two speeches be like and of one sense, (“‘ ewcharistia is Christ’s body,” and “ This is my body,”) and the first be a declaration of the second, is this a good argument,
+This word eucharistia, say you, “cannot be well Englished:” but the body of Christ is good and plain English ; and then if eucharistia be such a thing as cannot be well Englished, it cannot be called the body of Christ, but by a figurative speech. And how can you then conclude of Ignatius’ words, that “This is my body,” is no figura-tive speech? It seemeth rather that the clean contrary may be concluded. For if these two speeches be like and of one sense, (“‘ ewcharistia is Christ’s body,” and “ This is my body,”) and the first be a declaration of the second, is this a good argument,
 
 The first is a figure, ergo, the second is none? Is it not rather to be gathered upon the other side thus, The first is a declaration of the second, and yet the first is a figure, ergo, the second is also a figure? And that rather than the first; because the declaration should be a more plain speech than that which is declared by it.
 
@@ -229,15 +228,15 @@ Chrysostom. de Sacerdot. Lib. iii.
 
 not found in any old author.
 
-152 THE THIRD BOOK.
+## 152 the Third Book
 
 of Christ’s real and corporal presence, so in divers other things he maketh quite and clean against them, and that specially in three points; in transubstantiation, in reservation of the sacrament, and in the receiving of the same by the priest alone.
 
-WINCHESTER.
+## Winchester
 
 As touching Dionysius, a wise reader may, without any note of mine, see how this author is troubled in him, and calleth for aid the help of him that made the Greek commentaries upon Dionysius, and pleadeth therewith the form of the words “ really,” “ corporally,” “ sensibly,” and “naturally,” whereof two, that is to say, “really” and “sensibly,” the old authors in syllables used not, for so much as I have read, but “corporally” and “naturally” they used speaking of this sacrament. This Dionyse spake of this mystery after the dignity of it, not contending with any other for the truth of it as we do now, but extolling it as a marvellous high mystery, which, if the bread be never the holier, and were only a signification, (as this author teacheth,) were no high mystery at all. As for the things of the sacrament to be in heaven, the church teacheth so, and yet the same things be in deed present in the sacrament also, which is a mystery so deep and dark from man’s natural capacity, as is only to be believed supernaturally, without asking of the question “how,” whereof St Chrysostom maketh an exclamation in this wise: “O great benevolence of God towards us! He that sitteth above with the Father, at the same hour is holden here with the hands of all men, and giveth himself to them that will clasp and embrace him}.” Thus saith Chrysostom, confessing to be above and here the same things at once, and not only? in men’s breasts but hands also, to declare the inward work of God, in the substance of the visible sacrament, whereby Christ is present in the midst of our senses, and so may be called sensibly present, although man’s senses cannot comprehend and feel, or taste of him in their proper nature. But as for this Dionyse, he doth*, without argument, declare his faith in the adoration he maketh of this sacrament, which is openly testified in his works, so as we need not to doubt* what his faith was. As for this author's notes, they be® descant voluntary®, without the tenor part, being belike ashamed to allege the text itself, lest his three notes might seem feigned without ground, as before in St Clement's epistle, and therefore I will not trouble the reader with them.
 
-CANTERBURY.
+## Canterbury
 
 I ask no more of the reader, but to read my book, and then to judge how much I am troubled with this author. And why may I not cite the Greek’ commentaries for testimony of the truth? Is this to be termed a “calling for aid?” Why is not then the allegation of all authors a calling for aid? Is not your doing rather a calling for aid, when you be fain to fly for succour to Martin Luther, Bucer, Melancthon, Epinus, Jonas, Peter Martyr, and such other, whom all the world knoweth you never favoured, but ever abhorred their names? May not this be termed a “calling for aid,” when you be driven to such a strait and need, that you be glad to ery to such men for help, whom ever you have hindered and defamed as much as lay in you to do?
 
@@ -287,7 +286,7 @@ The third,in that he saith, that by these words of Christ, “ This is my body,�
 
 Of Tertullian I have spoken before, and so hath this author also 1 forgotten here one notable thing in Tertullian, where Tertullian saith, that “Christ made the bread his body,” not only called it so, as appear? by Tertullian’s words, reported by this author before. This note that I make now of Tertullian maketh against this author's purpose, but yet it maketh with the truth, which this author should not impugn. The second note gathered of Tertullian, by this author, is not true; for Christ called it his body, and made it his body, as Tertullian saith. And the third note of this author is in controversy of reading, and must be so understanded, as may agree with the rest of Tertullian’s sayings, which, after my reading, doth evidently prove, and at the least doth not improve, the catholic doctrine of Christ's church universally received, although it improveth that which this author calleth here our catholic doctrine, most imprudently® and untruly reporting the same.
 
-CANTERBURY.
+## Canterbury
 
 I desire no more but that the reader will look upon the place of Tertullian before mentioned, and see what you speak there, and what is mine answer thereto, and so confer gibi together and judge.
 
@@ -305,17 +304,17 @@ Moreover they allege for them Origen, (because they would seem to have many anci
 
 And that Origen thus meant that Christ’s flesh is a spiritual meat, and his blood a spiritual drink, and that the eating and drinking of his flesh and blood may not be understand literally, but spiritually, it is manifested by Origen’s own words, in his seventh homily upon the book called Leviticus; where he m In Levit. sheweth that those words must be understand figuratively, and whosoever understandeth them otherwise, they be deceived, and take harm by their own gross understanding.
 
-WINCHESTER.
+## Winchester
 
 Origen’s words be very plain, and meaning also, which speak of manifestation and exhiOrigenes. bition, which be two things to be verified three ways in our religion, that is to say, in the word, and regeneration, and the sacrament of bread and wine, as this author termeth it: which Origen saith not so, but thus, “the flesh of the word of God,” not meaning in every of these after one sort, but after the truth of the scriptwre in each of them. Christ in his word is manifested and exhibited unto us, and by faith, that is, of heartng, dwelleth in us spiritually; for so we have his Spirit. Of baptism St Paul saith, “as many as be baptized be clad in Christ.” Now, in the sacrament of bread and wine, by Origen’s rule, Christ should be manifested and exhibited unto us after the scriptures, so as the sacrament of bread and wine should not only signify Christ, that is to say, preach him, but also exhibit him "Origen hath genesis, as Origen’s words be reported here to be. So as Christs words, “This is my faciem,” but body,” should be words not of figure or shewing, but of exhibiting Christ's body unto us, and 1 take this sensibly, as this author allegeth him, which should signify, to be received with our mouth, as Origa. Christ commanded, when he said, “ Take, eat, &c.” diversely from the other two ways, in *™Swhich by Christ's Spirit we be made participant of the benefit of his passion wrought in when! say his manhood. But in this sacrament we be made participant of his Godhead, by his humanity ae exhibit unto us for food: and so, in this mystery, we receive him man and God; and in the somes corpo other, by mean of his Godhead, be participant of the effect of his passion suffered in his manhood, speaketh. In this saerament Christ's manhood is represented and truly present, whereunto the Godhead is most certainly united, whereby we receive a pledge of the regeneration of our flesh, 159. to be in the general resurrection spiritual with our soul, as we have been in baptism made spiritual by regeneration of the soul: which in the full redemption of our bodies shall be made perfect. And therefore this author may not compare baptism with the sacrament throughly; in which baptism Christ’s manhood is not really present, although the virtue and effect of his most precious blood be there: but the truth of the mystery of this sacrament is to have Christ's body, his flesh and blood, exhibited, whereunto eating and drinking is, by Christ in his supper, appropriate. In which supper Christ said, “ This is my body,” which __—-Bucer noteth; and that Christ said not, “ This is my spirit,’ “ This is my virtue.” Wherefore, after Origen’s teaching, if Christ be not only manifested, but also exhibited “ sensibly” in the sae sacrament, then is he in the sacrament in deed, that is to say, “ really ; 3” and then is he there Ssubutt “ substantially,’ because the substance of the body is there; and is there “corporally” also, *Corporaily, because the very body is there; and “naturally,” because the natural body is there; not un- *N*uraly: derstanding corporally and naturally in the manner of’ presence, nor sensibly neither. For then were the manner of’ presence within man’s capacity, and that is false: and therefore the catholic teaching is, that the manner of Christ's presence in the sacrament is spiritual and Supernatural, not corporal, not carnal, not natural, not sensible, not perceptible, but only spiritual, the “how” and manner whereof God knoweth; and we, assured by his word, know only the truth to be so, that it is there in deed, and therefore really to be also received with our hands and mouths; and so sensibly there, the body that suffered, and therefore his natural body there, the body of very flesh, and therefore his carnal body, the body truly, and thereJore his corporal body there. But as for the manner of presence, that is only spiritual, as I said before, and here in the inculcation of these words. Iam tedious to a learned reader, but yet this author enforceth me thereunto, who with these words, “carnally,” “corporally,” “grossly,”
 
-156 THE THIRD BOOK.
+## 156 the Third Book
 
 “sensibly,” “naturally,” applying them to the manner of presence, doth maliciously! and craftily carry away the reader from the simplicity of his faith; and by such absurdities, as these words grossly wnderstanded import, astonisheth the simple reader in consideration of the matter, and useth these words, as dust afore their eyes, which to wipe away, I am enforced to repeat the understanding of these words oftener than elsewhere necessary. These things well considered, no man doth more plainly confound this author than this saying of Origen, as he allegeth it, whatsoever other sentences he would pick out of Origen, when he useth liberty of allegories to make him seem to say otherwise. And as I have declared afore, to wnderstand Christ's words spiritually, is to understand them as the Spirit of God hath taught the church, and to esteem God’s mysteries most true in the substance of the thing so to be, although the manner exceedeth our capacities, which is a spiritual understanding of the same. And here
 
 2? 66 also this author putteth in for “ figuratively,” “ spiritually?,” to deceive the reader.
 
-CANTERBURY.
+## Canterbury
 
 You observe my words here concerning Origen so captiously, as though I had gone about scrupulously to translate his sayings word by word, which I did not; but because they were very long, I went about only to rehearse the effect of his mind briefly and plainly, which I have done faithfully and truly, although you captiously carp and reprehend the same.
 
@@ -333,7 +332,7 @@ As when a man speaketh wisely, that is wise indeed: and yet sometimes we say, �
 
 The answer to Cyprian, Lib. il. Epist. 3. ‘
 
-158 THE THIRD BOOK.
+## 158 the Third Book
 
 without the said forms and manners. For when Christ was born, and rose from death, and wrought miracles, we say not that he did these things naturally, because the mean and manner was not after a natural sort, although it was the selfsame Christ in nature. But we say that he did eat, drink, sleep, labour, and sweat, talk, and speak naturally, not because only of his nature, but because the manner and fashion of doing was such as we use to do. Likewise when Jesus passed through the people, and they saw him not, he was not then sensibly and visibly among them; their eyes being letted in such sort that they could not see and perceive him. And so in all the rest of your adverbs, the speech admitteth not to say that Christ is there substantially, corporally, carnally, and sensibly, where he is not after a substantial, corporal, carnal, and sensual form and manner. This the husbandman at his plough, and his wife at her rock’, is able to judge, and to condemn you in this point, and so can the boys in the grammar-school, that you speak neither according to the English tongue, grammar, nor reason, when you say that these words and adverbs, “sensibly,” “corporally,” and “naturally,” do not signify a corporal, sensible, and natural manner. I have been here somewhat long and tedious, but the reader must pardon me; for this subtile and evil device of your own brain, without ground or authority, containeth such absurdities, and may cast such mists before men’s eyes to blind them that they should not see, that I am constrained to speak thus much in this matter, and yet more shall do, if this suffice not. But this one thing I wonder much at, that you being so much used and accustomed to lie, do not yet know what “ly” meaneth.
 
@@ -351,7 +350,7 @@ _ . And against the papists he teacheth most plainly, that the communion ought t
 
 _ Thus have you declared the mind of St Cyprian.
 
-WINCHESTER.
+## Winchester
 
 As touching Cyprian, this author maketh an exposition of his own device, which he would cyprianus. have taken for an answer unto him. Whereas Cyprian of all other, like as he is ancient within two hundred and fifty years of Christ, so did he write very openly in the matter; and therefore Melancthon, in his epistle to CGicolampadius, did choose him for one whose words Melancthon. in the affirmation of Christ’s true presence in the sacrament had no ambiguity. And like judgment doth Hippinus, in his book before alleged, give of Cyprianus’ faith in the sacraHippinus ment: which two I allege to countervail the judgment of this author, who speaketh of his own head as it liketh him, playing with the words “gross” and “carnal,” and using the word “represent,” as though it expressed a figure only. Hippinus, in the said book, allegeth Cyprian to say, (Lib. iii. ad Quirinum‘) “that the body of ow Lord is our sacrifice in flesh,’ meaning, Cyprian. Lib. as Hippinus saith, “eucharistiam,’ wherein St Augustine, (as Hippinus saith further,) in the piss, prayer for his mother, speaking of the bread and wine of eucharistia, saith, “that in it is dispensed the holy host and sacrifice, whereby was cancelled the bill obligatory that was against us.” And further, Hippinus saith, that “the old men called the bread and wine of our Lord’s supper a sacrifice, an host, and oblation, for that specially, because they believed and taught the true body of Christ and his true blood to be distribute in the bread and wine of eucharistia;” and, as St Augustin saith, ad Januarium, “to enter in, and be received with the Augustinus. mouth of them that eat.” These be Hippinus’ very words, who, because he is, I think, in this author's opinion, taken for no papist, I rather speak in his words than in mine own, whom in another part of this work this author doth, as it were for charity, by name slander to be a papist. Wherefore the said Hippinus’ words shall be, as I think, more weighty to oppress this author's talk than mine be; and therefore, howsoever this author handleth before the words of St Cyprian (de Unctione Chrismatis), and the word “shewing” out of his epistles, yet the sume Cyprian’s faith appeareth so certain otherwise, as those places shall need no further answer of me here, having brought forth the judgment of Hippinus and Melancthon how they understand St Cyprian’s faith, which thou, reader, oughtest to regard more than the assertion of this author, specially when thow hast read how he hath handled Hilary, Cyril, Lheophylact, and Damascene, as I shall hereafter touch.
 
@@ -367,7 +366,7 @@ Cyprian ad Quirinum, cap. 94.
 
 The answer to Hilarius. 8. de Trinitate.
 
-160 THE THIRD BOOK.
+## 160 the Third Book
 
 And why do you allege their authority for you, which in no wise you admit when they be brought against you? But it seemeth that you be faint-hearted in this matter, and begin to shrink ; and like one that refuseth the combat, and findeth the shift to put another in his place, even so it seemeth you would draw back yourself from the danger, and set me to fight with other men, that in the mean time you might be an idle looker on. And if you as grand captain take them but as mean soldiers to fight in your quarrel, you shall have little aid at their hands; for their writings declare openly that they be against you more than me, although in this place you bring them for your part, and report them to say more and otherwise than they say indeed.
 
@@ -397,7 +396,7 @@ And as the union between Christ and us in baptism is spiritual, and requireth no
 
 And therefore Hilarius, speaking there. of both the sacraments, maketh no difference between our union with Christ in baptism, and our union with him in his holy supper: and saith further, that as Christ is in us, so be we in him; which the papists cannot understand corporally and really, except they will say, that all our bodies be corporally within Christ’s body. Thus is Hilarius answered unto, both plainly and shortly.
 
-WINCHESTER.
+## Winchester
 
 This answer to Hilary, in the seventy-eighth leaf, requireth a plain, precise issue, worthy to be tried® apparent at hand. The allegation. of Hilary toucheth specially me, who do say and maintain that I cited Hilary truly (as the copy did serve), and® translate him truly in English after the same words in Latin. This is one issue which I qualify with the7 copy, because I have Hilary now better correct, which better correction setteth forth more lively the truth than the other did, and therefore that I did translate was not so much to the advantage of that I alleged Hilary for, as is that in the book that I have now better correct. Hilary's words in the book newly corrected be these: Si enim vere Verbum caro factum est, et nos vere Verbum carnem cibo dominico sumimus, quomodo non naturaliter manere in nobis existimandus est: qui et naturam carnis nostre jam inseparabilem sibi homo natus assumpserit §, et naturam carnis suze ad naturam eeternitatis sub sacramento nobis communicand carnis admiscuit? Ita enim omnes unum sumus, quia et in Christo pater est, et Christus in nobis est. Quisquis ergo naturaliter Patrem in Christo negabit, neget prius non naturaliter vel se in Christo vel Christum sibi inesse, quia in Christo Pater et Christus in nobis unum in iis esse nos faciunt. Si vere igitur carnem corporis nostri Christus Sumpsit!®, et vere homo ille qui ex Maria natus fuit Christus est, nosque vere sub mysterio carnem corporis sui sumimus, et per hoc unum erimus, quia Pater in eo est et ille in nobis, quomodo voluntatis unitas asseritur, cum naturalis per sacramentum proprietas perfectze!1 sacramentum sit unitatis ? My translation is this: “If the word was made verily Slesh, and we verily receive the word, being flesh, in our Lord’s meat, how shall not Christ be thought to dwell naturally in us, who, being born man, hath taken unto him the nature of
 
@@ -411,7 +410,7 @@ This answer to Hilary, in the seventy-eighth leaf, requireth a plain, precise is
 
 *Naturally.
 
-162 THE THIRD BOOK.
+## 162 the Third Book
 
 our flesh that cannot be severed, and hath put together the nature of his flesh to the nature of his eternity, under the sacrament of the communion of his flesh unto us? for so we be all one, because the Father is in Christ, and Christ im us. Wherefore, .rvhosoever will deny the Father to be naturally in Christ, must deny, first, either himself to be naturally in Christ, or Christ not to be naturally in him; for the being of the Father in Christ, and the being of Christ in us, maketh us to be one in them. And therefore, if Christ hath taken verily the flesh of our body, and the man that was born of the virgin Mary is verily Christ, and also we verily receive wader a mystery the flesh of his body, by means whereof we shall be one, for the Father is in Christ, and Christ in us; how shall that be called the unity of will, when the natural propriety brought to pass by the sacrament is the sacrament of perfect unity?”
 

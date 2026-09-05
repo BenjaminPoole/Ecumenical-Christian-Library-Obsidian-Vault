@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 77. Concerning the High Priest
-
-**Concerning the High Priest**
 
 ## Leviticus 21:1-6,10-12
 

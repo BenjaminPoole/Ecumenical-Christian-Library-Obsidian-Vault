@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NEEDS TO OPEN OUR MOUTHS**
+## **Needs to Open Our Mouths**
 
 > Open thy mouth wide, and I will fill it" Ps. 81:10
 
@@ -23,7 +22,6 @@ What an encouragement to pray! Our human notions would lead us to ask small thin
 Yet it also means that we may make bold with God, and ask many and large blessings at His hands. Read the whole verse, and see the argument: "I am Jehovah, thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it." Because the Lord has given us so much He invites us to ask for more, yea, to expect more.
 
 See how the little birds in their nests seem to be all mouth when the mother comes to feed them. Let it be the same with us. Let us take in grace at every door. Let us drink it in as a sponge sucks up the water in which it lies. God is ready to fill us if we are only ready to be filled. Let our needs make us open our mouths; let our faintness cause us to open our mouths and pant; yea, let our alarm make us open our mouths with a child's cry. The opened mouth shall be filled by the Lord Himself. So be it unto us, O Lord, this day.
-
 
 ---
 [[FCB September 29|← September 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 1|October 1 →]]

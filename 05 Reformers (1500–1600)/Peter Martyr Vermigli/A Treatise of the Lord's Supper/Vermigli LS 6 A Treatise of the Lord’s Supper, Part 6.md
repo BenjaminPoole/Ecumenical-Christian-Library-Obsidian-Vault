@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 6. A Treatise of the Lord’s Supper, Part 6
 
 If you ask whether this efficacy of the Eucharist is towards all men alike, I answer, No, but according to the state and measure of the faith of the communicants. As Origen said upon the 15th chapter of Matthew, the matter of this Sacrament profits not but by the word and by supplication; it may help our minds according to the quantity and proportion of faith.
@@ -33,7 +32,7 @@ I beseech the Lord to take pity on this great calamity and vouchsafe to restore 
 
 -----
 
-**MONERGISM BOOKS**
+## **Monergism Books**
 
 A Treatise of the Lord's Supper by Peter Martyr Vermigli, Copyright © 2024
 

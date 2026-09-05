@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Teaching for the Outer and Inner Circles
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1669
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 16, 1882,.
+*Delivered on Lord's-Day Morning, July 16, 1882*
 
 > "And with many such parables spoke He the Word unto them, as they were able to hearit. But without a parable He did not speak to them: and when they were alone, He explained all things to His disciples." Mark 4:33,34.
 
@@ -132,7 +131,6 @@ It is for your security, too, for He that knows the Truth will triumph over temp
 Sometimes they say there is no Heaven, as Atheist did in Bunyan's, "Pilgrim's Progress." "What?" says Christian to his companion, "Did not we see it from the top of Mount Clear when the shepherds lent us their optic glass?" Thus the Lord brings eternal things and especially His dear Son so vividly before our consciousness that we laugh to scorn the wisdom of the skeptic, which is but folly! Let us be earnest to get heavenly instruction from Christ, for then we shall be useful—and that is the end we aim at. If you do not know the inner Truth of God, what good can you do? Here you live in this world among blind men and they say, "Lead us!" But if the blind lead the blind, they shall both fall into the ditch.
 
 No! No! You must get your own eyes opened and must know Christ and be known of Him—then you can help the poor blind sinner and you can guide Him to Jesus! No one knows of what usefulness you will be capable of when you have been taught of the Lord! God do so unto you, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1668 The Still Small Voice|← #1668]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1670 One Lion, Two Lions, No Lion at All!|#1670 →]]

@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 188. Deuteronomy 3:21-29
 
 **A Repetition of the same History**
-
-**Deuteronomy 3**
 
 **21.** And I commanded Joshua at that time, saying, Thine eyes have seen all that the Lord your God hath done unto these two kings: so shall the Lord do unto all the kingdoms whither thou passest.
 

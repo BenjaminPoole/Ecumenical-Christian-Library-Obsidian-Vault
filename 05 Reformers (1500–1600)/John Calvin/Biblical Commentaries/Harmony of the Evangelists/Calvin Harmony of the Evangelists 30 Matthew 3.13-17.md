@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 30. Matthew 3:13-17;Mark 1:9-11;Luke 3:21-23
-
-**MATTHEW 3:13-17; MARK 1:9-11; LUKE 3:21-23**
 
 **13**. Then cometh Jesus from Galilee to Jordan to John, that he might be baptized by him. **14**. But John forbade [^1] him, saying, I have need to be baptized by thee, and dost thou come to me? **15**. And Jesus answering said to him, Suffer it now: for thus it becometh us to fulfil all righteousness. Then he suffers him. **16**. And Jesus, having been baptized, went up immediately from the water: and, lo, the heavens were opened to him, and he saw the Spirit of God descending as a dove, and coming upon him. **17**. And, lo, a voice from heaven, saying, This is my be loved Son, in whom I am well pleased.
 

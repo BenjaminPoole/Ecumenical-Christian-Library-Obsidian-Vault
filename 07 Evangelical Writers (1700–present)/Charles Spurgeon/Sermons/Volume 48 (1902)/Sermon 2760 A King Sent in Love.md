@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A King Sent in Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2760
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Hiram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD has loved His people, He has made you king over them." 2 Chronicles 2:11.
 
@@ -149,7 +146,7 @@ must praise Him! And I wish that everyone else would enter the service of my ble
 
 Well, then, if we can all speak so well of our King, we think that common reason, if it were really reasonable, would lead men to say, "Can we not enter into this service, too?" I pray that God's Grace may enable many of you to say this. Will you not seek to become His servant this very hour? The way into His service is by your becoming nothing and letting Him be your All-in-All. Any soldier can tell you how he gets into his sovereign's service. What does he give in order that he may become a soldier? Give? Why, he gives nothing at all! He takes a shilling from the recruiting officer and that seals the act! That is the way to become a Christian—take the Lord Jesus Christ as your own! He gives you Himself, so trust Him and take Him, for thus you become His soldier, enlisted forever! He will teach you your drills. He will show you how to behave yourself in His service and He will give you a rich reward at the end of it. So may He bless each one of you, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 72:1-4.
+## Exposition by C. H. Spurgeon: Psalm 72:1-4
 
 Verse 1. Give the king Your judgments, O God, and Your righteousness unto the king's son. ' 'Give the king Your judgments, O God." The right to reign was transmitted by descent from David to Solomon, but not by that means alone. Israel was a theocracy and the kings were but the viceroys of the greater King. Therefore the prayer that the new king might be enthroned by Divine right and then endowed with Divine Wisdom. Our glorious King in Zion has all judgment committed to Him. He rules in the name of God over all lands. He is King "Dei Gratia" as well as by right of inheritance. "And Your righteousness unto the king's son." Solomon was both king and king's son—so, also, is our Lord. He has power and authority in Himself and also royal dignity given Him of His Father. He is the righteous King. In a word, He is "the Lord our righteousness." We are waiting till He shall be manifested among men as the ever-righteous Judge. May the Lord hasten in His own time the long-looked-for day! Now wars and fights are even in Israel, itself, but soon the dispensation will change and David, the type of Jesus warring with our enemies, shall be displaced by Solomon, the prince of peace.
 
@@ -168,7 +165,6 @@ Verse 1. Give the king Your judgments, O God, and Your righteousness unto the ki
 "And shall break in pieces the oppressor." He is strong to smite the foes of His people. Oppressors have been great breakers, but their time of retribution shall come and they shall be broken themselves, Sin, Satan and all our enemies must be crushed by the iron rod of King Jesus! We have, therefore, no cause to fear, but abundant reason to sing—
 
 "All hail the power of Jesus'name! Let angels prostrate fall, Bring forth the royal diadem, And crown Him Lord of all." It is much better to be poor than to be an oppressor, for both the needy and their children find an Advocate in the heavenly Solomon, who aims all His blows at haughty ones and rests not till they are utterly destroyed!
-
 
 ---
 [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2761 The Free Agency of Christ|#2761 →]]

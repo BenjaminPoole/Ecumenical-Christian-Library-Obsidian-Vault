@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # God's Firebrands
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3233
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is not this a brand plucked out of the fire?" Zechariah 3:2.
 
@@ -73,7 +70,7 @@ Now, if ever such people as these are saved from this terrible disease of self-r
 
 Stand the soul-quickening words—
 
-'BELIEVE AND LIVE.'"
+## 'Believe and Live.'"
 
 II. With more brevity than the preacher likes, though with perhaps as much amplitude as will be pleasant to yourselves, we shall now take the text BY WAY OF ENQUIRY OR HOPE. Our time has so far gone that I can only hint at what I meant to say.
 
@@ -101,7 +98,7 @@ Now, Beloved Brothers and Sisters in Christ, realize in yourselves this precious
 
 The whole end to which we drive is this—May God enable us all to see that our salvation is in Him! Jonah had to go into the whale's belly to learn that grand axiom of theology—and the most of us had to be sorely beaten before we found out that "salvation is of the Lord." If you know this, look to the Lord for it! Repose yourself on Him right now and you shall be His forever—you shall dwell on high, your place of defense shall be the munitions of rocks—and your eyes shall see the King in His beauty—they shall behold the land that is very far off!
 
-EXPOSITION BY C. H. SPURGEON: JOB 1
+## Exposition by C. H. Spurgeon: Job 1
 
 Verse 1. There was a man in the land of Uz. Job was a man, indeed—a true man—a man of the highest type, for he was a man of God.
 
@@ -162,7 +159,6 @@ RESIGNATION and #3025, Volume 53—FIFTEEN YEARS LATE.] I think these are
 the grandest words in the whole record of human speech! Considering the circumstances of the man at the time, that he should thus speak was, I think, a miracle of Grace!
 
 22\. In all this Job sinned not, nor charged God foolishly.
-
 
 ---
 [[Sermon 3232 Facts and Inferences|← #3232]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3234 Strangers and Sojourners|#3234 →]]

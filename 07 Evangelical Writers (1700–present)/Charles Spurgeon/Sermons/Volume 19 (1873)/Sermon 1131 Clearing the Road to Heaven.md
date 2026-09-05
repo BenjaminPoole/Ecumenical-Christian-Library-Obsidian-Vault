@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Clearing the Road to Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1131
-
-DELIVERED BY.
 
 > "Gather out the stones." Isaiah 62:10.
 
@@ -158,7 +155,6 @@ Oh, will you reject Christ? I pray you may not! At your peril you will do it! If
 I draw such a circle around you tonight and say, "Do not stir from that pew till Christ or sin, Heaven or Hell, faith or unbelief, is chosen by you." And may the Holy Spirit help you to such a gracious decision that you may say, "I will believe! Lord, help my unbelief! I cast myself now, whether I am saved or lost, upon the finished work of the risen Lord." The Lord grant it, for Jesus' sake. Amen!
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Mark 5:25-34; 7:24-30; 10:46-52.
-
 
 ---
 [[Sermon 1130 The Christian's Great Business|← #1130]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1132 The Seed Upon Stony Ground|#1132 →]]

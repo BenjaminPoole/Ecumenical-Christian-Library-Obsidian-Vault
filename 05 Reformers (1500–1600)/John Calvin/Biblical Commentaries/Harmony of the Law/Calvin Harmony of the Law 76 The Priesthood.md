@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 76. The Priesthood
-
-**The Priesthood**
 
 ## Exodus 28:1-43
 
@@ -357,8 +354,6 @@ In order that the Jews may hold this mystery in just reverence, he forbids simil
 **Leviticus 8**
 
 **1.** And the LORD spake unto Moses, saying,
-
-**2.** Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;
 
 **3.** And gather thou all the congregation together unto the door of the tabernacle of the congregation.
 

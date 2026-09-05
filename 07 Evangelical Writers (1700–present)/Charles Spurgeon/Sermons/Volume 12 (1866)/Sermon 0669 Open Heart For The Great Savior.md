@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Open Heart For The Great Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 669
 
-DELIVERED ON SUNDAY EVENING, DECEMBER 17, 1865,.
+*Delivered on Sunday Evening, December 17, 1865*
 
 > "But as many as received Him, to them ga ve He power to become the sons of God, even to them thatbelieve on His name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God." John 1:12.
 
@@ -170,7 +169,6 @@ I think I see the Reaper coming. He is hastening to gather the vintage of the wo
 Or will you be yonder, where, with golden sickle, trusting no angel to do the work, Christ Himself shall reap His golden corn, ear after ear, and take it all home with shouts of delight to His Father's garner? Will you see Him, in that day, as the God that died for you? Will you see Him with exultation? Will you meet Him in the air, and so be forever with the Lord? If so, then receive Jesus, and He will receive you. Take Him into your hearts and He will take you into Heaven. Take Him, His Cross, His people, His Gospel, His doctrines! Take Him, to "have and to hold" Him, "for better and for worse," and then not even "death" shall "part" you, but you shall be with Him "in the day of His appearing."
 
 May the Lord seal His Word with His own blessing!
-
 
 ---
 [[Sermon 0668 Unity In Christ|← #668]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0670 Frost And Thaw|#670 →]]

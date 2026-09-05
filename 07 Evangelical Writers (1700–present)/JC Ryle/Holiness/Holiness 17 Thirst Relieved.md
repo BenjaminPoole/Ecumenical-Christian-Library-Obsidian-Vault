@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Thirst Relieved
 
-Chapter XVII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XVII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 “ *In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto Me, and drink. He that believeth on Me, as the Scripture hath said, out of his belly shall flow rivers of living water*.”—John vii. 37. 38.
 
@@ -146,7 +145,6 @@ THERE is a passage in an old writer which throws so much light on some points me
 “If he still say that this believing is hard, this is a good doubt, but easily resolved. It bespeaks a man deeply humbled. Anybody may see his own impotence to obey the law of God fully; but few find the difficulty of believing. For his relief and resolution ask him, What it is he finds makes believing difficult to him? Is it unwillingness to be justified and saved? Is it unwillingness to be so saved by Jesus Christ, to the praise of God’s grace in Him, and to the voiding of all boasting in himself? This he will surely deny. Is it a distrust of the truth of the Gospel record? This he dare not own. Is it a doubt of Christ’s ability or good-will to save? This is to contradict the testimony of God in the Gospel. Is it because he doubts of an interest in Christ and His redemption? You tell him that believing on Christ makes up the interest in Him.
 
 “If he say that he cannot believe on Jesus Christ because of the difficulty of the acting this faith, and that a Divine power is needful to draw it forth, which he finds not, you must tell him that believing in Jesus Christ is no work, but a resting on Jesus Christ. You must tell him that this pretence is as unreasonable as if a man, wearied with a journey and not able to go one step further, should argue, ‘I am so tired, that I am not able to lie down,’ when indeed he can neither stand nor go. The poor wearied sinner can never believe on Jesus Christ till he finds he can do nothing for himself; and in his first believing doth always apply himself to Christ for salvation, as a man hopeless and helpless in himself. And by such reasonings with him from the Gospel, the Lord will (as He hath often done) convey faith, and joy and peace by believing.”— *Robert Traill’s works*, 1696. Vol. I, 266-269.
-
 
 ---
 [[Holiness 16 Without Christ|← Without Christ]] · [[Holiness|Holiness Contents]] · [[Holiness 18 “Unsearchable Riches”|“Unsearchable Riches” →]]

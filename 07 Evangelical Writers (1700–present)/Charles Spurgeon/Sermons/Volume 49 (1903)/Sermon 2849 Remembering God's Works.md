@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Remembering God's Works
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2849
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has made His wonderful works to be remembered: the LORRD is gracious and full of compassion. He has given meat unto them that fear Him: He will ever be mindful ofHis Covenant." Psalm 111:4, 5.
 
@@ -79,7 +76,7 @@ The last thing that this memory of God's wonderful works ought to do for us is t
 
 Now I turn to the unconverted and say, Dear Friends, from our own experience we can tell you that to serve God is a blessed thing. He is a grand Master—there is none like He. He makes His servants blessed forever. He never leaves them, nor forsakes them. Therefore, come and put your trust in Him. Hide yourself under the shadow of His wings and then, you, too, shall be able to say, even as we do, "He is faithful. His mercy endures forever." God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM111.
+## Exposition by C. H. Spurgeon: Psalm 111
 
 Verse 1. Praise you the LORD. Or, "Hallelujah," "Praise be unto Jehovah." "Praise you the Lord." I invite all Christians to give good heed to this injunction, whether others praise Him, or not, "Praise you the Lord." Do it now! Do it always, do it heartily, do it instead of what you sometimes do, namely, doubt Him, murmur at Him, rebel against Him. "Praise you the Lord." You who are beginning the Christian life, praise Him for your regeneration. You who have long continued in it, praise Him for sustaining you. You who are the most ripe for Heaven, begin now the praises that will never, never end!
 
@@ -118,7 +115,6 @@ But when a man becomes an example to others, he should be very careful to set a 
 10\. A good understanding have all they that do His commandments. Practical goodness is the proof of a good understanding. A man may have an orthodox head and yet not have a good understanding. A man may be able to talk very glibly about the commandments of God and even to preach about them with considerable power—but it is the doing of them that is the main point.
 
 10\. His praise endures forever
-
 
 ---
 [[Sermon 2848 Theocracy|← #2848]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2850 The New Song and the Old Story|#2850 →]]

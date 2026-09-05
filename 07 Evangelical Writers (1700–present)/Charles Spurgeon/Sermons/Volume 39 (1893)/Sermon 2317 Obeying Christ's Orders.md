@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Obeying Christ's Orders
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2317
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His mother said unto the servants, Whatever He says unto you, do it." John 2:5.
 
@@ -109,7 +106,7 @@ It is not Mary who speaks to you, tonight, but it is the Church of God, the moth
 
 The Lord grant this, of His infinite Grace, giving to us to know the will of Christ, and then working in us to will and to do of His own good pleasure! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON. JOHN2:1-11.
+## Exposition by C. H. Spurgeon. John 2:1-11
 
 Our Savior had lived on the earth for 30 years and had worked no miracle. There was the hiding of His power. He had been subject to His parents and had lived in obscurity. Now He has broken through the obscurity and He begins His public ministry by working a miracle.
 
@@ -142,7 +139,6 @@ He could not really say whether this was one. He was sure it was, so He said to 
 11\. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His Glory. Moses turned water into blood. Christ turned water into wine. One brought a curse upon the common things of daily life. The other put an added sweetness and blessing into them.
 
 11\. And His disciples believed on Him. They believed on Him before, but now they had an ocular demonstration of His Divine Power and Godhead, and they believed as they had not believed before! May you and I often make distinct progress in faith, so that it may be said of us, also, "His disciples believed on Him"!
-
 
 ---
 [[Sermon 2316 Twelve Covenant Mercies|← #2316]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2318 God's Pupil, God's Preacher—an Autobiography|#2318 →]]

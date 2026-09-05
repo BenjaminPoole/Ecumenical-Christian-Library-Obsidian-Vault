@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Comforted and Comforting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2640
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; who comforts us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God." 2 Corinthians 1:3, 4.
 
@@ -99,7 +96,7 @@ Now to close, there may be some poor soul here broken down under a sense of sin,
 
 Do look after the broken-hearted ones, dear Friends! Watch for Mr. Feeble-Mind. Be on the look-out for poor Mr. Fearing, do not let them lie outside long. Help them over the wall and, as you have found mercy, administer it, in the name of God, to all who are longing to find it! May God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 1:1-20.
+## Exposition by C. H. Spurgeon: 2 Corinthians 1:1-20
 
 Verse 1. Paul, an Apostle of Jesus Christ by the will of God. Paul is very careful to remind the Corinthians of that fact, since some of them had gone the length of denying his Apostleship altogether.
 
@@ -130,7 +127,6 @@ II. You also helping together by prayer for us, that for the gift bestowed upon 
 15-17. And in this confidence I was minded to come unto you before, that you might have a second benefit; and to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judea. When I therefore was thus minded, did I use lightness? Or the things that I purpose, do I purpose according to the flesh, that with me there should be yes, yes, and no, no? There were some in the Church at Corinth who said, "He promised to come and see us, but he did not keep his word." They declared that his promise could not be depended upon and that he very easily changed his mind. Now the Apostle had done nothing of the kind! He had solid reasons for his change of purpose and reasons full of love to them—but they misrepresented him. Do not, my dear Friends, count the fiery trial of misrepresentation to be any strange thing! Even some of those whom you have loved and for whom you have been willing to lay down your lives will turn against you! It is no new thing that they should do so. They may take anything which you have done in the simplicity of your heart and turn it against you. Whenever they do so, I say again, do not think that any strange thing has happened to you—it happened to Paul—then why should not you have a similar experience?
 
 18-20. But as God is true, our word toward you was not yes and no. For the Son of God, Jesus Christ, who was preached among you by us, even by me andSilvanus and Timothy, was not yes and no, but in Him was yes. For all the promises of God in Him are yes, and in Him, Amen, unto the glory of God by us. Paul loved to turn from some lower subject to his Lord. When he wrote the words, "yes and no," they suggested to him the perfect constancy of the love of Christ and thankfulness for His faithful promises. So, as the thought came into his mind, he could do no other than put it into the Epistle he was writing, for he never missed an opportunity of praising the Lord Jesus Christ! I wish we could all imitate him, in this respect, far more than we have ever done, for, our Savior is worthy of all the praise we can ever give Him—and more, too!
-
 
 ---
 [[Sermon 2639 Our Heavenly Father's Pity|← #2639]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2641 God's Heart the Source of All Blessing|#2641 →]]

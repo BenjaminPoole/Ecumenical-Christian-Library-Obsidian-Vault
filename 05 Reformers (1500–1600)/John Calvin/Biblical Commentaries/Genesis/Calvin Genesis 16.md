@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 16
 
-**CHAPTER 16.**
+***Chapter 16.***
 
 ## Genesis 16:1-16
 

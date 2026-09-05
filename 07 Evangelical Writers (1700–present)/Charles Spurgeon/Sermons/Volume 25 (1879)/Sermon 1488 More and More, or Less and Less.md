@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # More and More, or Less and Less
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1488
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 10, 1879,.
+*Delivered on Lord's-Day Morning, August 10, 1879*
 
 > "For whoever has, to him shall be given, and he shall have more abundance: but whoever has not, from him shall be taken away even what he has." Matthew 13:12.
 
@@ -132,7 +131,6 @@ Many professors are in the same plight—they have a name to live and are dead. 
 Look at Judas! He sold his soul for 30 pieces of silver and a rope—that was his way out of his profession. Others have become grosser skeptics and viler haters of Christ than others—their hypocrisy has curdled into blasphemy. Others have settled down in utter indifference, callousness, carelessness and have slept themselves into Hell. Where the cheat is kept up till the end, what a waking awaits the deceiver! He will have to go from the hearing of the Gospel to the howling of the lost—from his pew in the house of God to his place in Hell! He will have to be dragged away from the cup of the Lord, to drink, in very deed, the cup of devils—he will be shut out from the association of the saints to dwell forever with the condemned!
 
 He will then realize that the God whom he professed to worship has rejected him when Jesus Himself shall say, "I never knew you! Depart from Me, you workers of iniquity." God saves us from such a doom, for His sake. Amen.
-
 
 ---
 [[Sermon 1487 The Prophet Like Unto Moses|← #1487]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1489 The Plague of the Heart|#1489 →]]

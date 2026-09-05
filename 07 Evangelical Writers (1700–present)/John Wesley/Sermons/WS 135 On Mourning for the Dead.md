@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 135. On Mourning for the Dead
 
-*PREACHED AT EPWORTH, JANUARY 11, 1726, AT THE FUNERAL OF JOHN GRIFFITH: A HOPEFUL YOUNG MAN.*
+**Preached at Epworth, January 11, 1726, at the Funeral of John Griffith: A Hopeful Young Man.**
 
 > "Now he is dead, wherefore should I fast Can I bring him back again I shall go to him, but he shall not return to me." 2 Sam. 12:23.
 

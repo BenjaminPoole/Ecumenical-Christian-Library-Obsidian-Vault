@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Brought Up from the Horrible Pit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1674
@@ -103,10 +102,9 @@ I praise tire wonders of his hand
 
 In a new thankful song.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON’PSALM 40.
+## Portion of Scripture Read Before Sermon’psalm 40
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’196, 40, 332.
-
+## Hymns from ‘Our Own Hymn Book’196, 40, 332
 
 ---
 [[Sermon 1673 Who Is This|← #1673]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1675 Out Of Egypt|#1675 →]]

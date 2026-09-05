@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Free-agency of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2892
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He came to Bethsaida; and they brought a blind man unto Him, and besought Him to touch him. And He took the blind man by the hand, and led him out of the town, and when He had spit on his eyes, and put His hands upon him, He asked him if he saw anything. And he looked up, and said, I see men as trees walking. After that He put His hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly. And He sent him away to his house, saying, "Neither go into the town, nor tell it to any in the town." Mark 8:22-26.
 
@@ -49,7 +46,7 @@ But he walked along very quietly for a time and then said, "That was a very stri
 
 II. Secondly, THE LORD TAKES CARE TO PREVENT THE DISHONOR WHICH WOULD THUS COME TO
 
-HIM.
+## Him
 
 Observe how He did it in this case. They brought this blind man to Him and besought Him to touch him. So, first, Christ did touch him, yet did not heal him—"He took the blind man by the hand." That was certainly touching him, yet his eyes were not opened. Jesus kept His hand on the blind man "and led him out of the town," but he was still a blind man! How very surprised the poor man, himself, must have been! His own faith led him to expect that if Christ would but touch him, his eyes would be opened. He must have had a feeling of astonishment and despondency when he felt that touch—a prolonged touch—a touch that gripped his hand and led him through the town, right away past the last of the houses and out into the fields—yet a touch that did not enable him to see! But did not that very disappointment make the man realize, once and for all, that it was not merely Christ's touch that opened blind eyes, but Christ Himself who worked the miracle? It was evident that He could, if He pleased, give a touch that did not open the eyes of the blind. Manifestly, there was no magic about the mere touch of Christ's fingers, for His fingers were touching the blind man's fingers all the while, yet he did not even begin to see anything.
 
@@ -101,7 +98,7 @@ O Brothers and Sisters, keep on telling poor sinners about the Savior! Try to br
 
 And as for you, poor Sinners, seek salvation by simply trusting in Jesus and if you have not any clear vision of Him at this moment, get to your knees and do not rise till you have found Him as your Savior! He has His own ways and methods of working, so you must trust Him—not the method—and He will bless you with life eternal! So may He do for His own name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 4:33-41; 5:12-17.
+## Exposition by C. H. Spurgeon: Luke 4:33-41; 5:12-17
 
 We are going to read some verses in the fourth and fifth chapters of Luke's Gospel—hospital chapters, I may call them, for they record many marvelous cures which were worked by the Great Physician, the Lord Jesus Christ. We shall begin at the 33rd verse of the fourth chapter.
 
@@ -126,7 +123,6 @@ Luke 5:12. And it came to pass, when He was in a certain city, behold a man full
 13-15. And He put forth His hand, and touched him, saying, I will: be you clean. And immediately the leprosy departed from him. And He charged Him to tell no man: but go, and show yourself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony unto them. But so much the more went there a fame abroad of Him: and great multitudes came together to hear, and to be healed by Him of their infirmities. Oh, that sinners would come to Christ in this spirit now—"to hear, and to be healed by Him of their infirmities"! Some of you have come to hear, but have you come to Christ to be healed? Have you really come for that purpose? Alas, some even come to God's House only to see, or to be seen! How can such people expect to receive a blessing? Yet my Master is so gracious that, often, He is found of them that sought Him not! So may it be with any careless ones who are with us now!
 
 16, 17. And He withdrew Himself into the wilderness, and prayed. And it came to pass on a certain day, as He was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them. These were the least hopeful patients that the Great Physician ever had, for to heal these doctors of divinity and to bring these proud learned Pharisees down to accept the Gospel needed an Omnipotent display of Divine Power. Penitent sinners are readily brought to Christ, but often the self-righteous—who think they are rich and increased with goods and have need of nothing—are not to be persuaded to accept the fine gold which Christ presents to all who ask Him for it. The Lord grant that if any such people are here, the power of the Lord may be here to heal them!
-
 
 ---
 [[Sermon 2891 A Sabbath Miracle|← #2891]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2893 An Instructive Truth|#2893 →]]

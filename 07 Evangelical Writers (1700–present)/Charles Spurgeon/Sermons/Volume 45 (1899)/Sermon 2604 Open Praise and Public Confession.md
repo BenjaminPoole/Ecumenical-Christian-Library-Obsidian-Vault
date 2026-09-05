@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Open Praise and Public Confession
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2604
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will praise You with my whole heart: before the gods will I sing praise unto You. I will worship toward Your holy Temple, and praise Your name for Your loving kindness and for Your Truth: for You have magnified Your Word above all Your name. In the day when I cried, You answered me, and strengthened me with strength in my soul." Psalm 138:1-3.
 
@@ -109,7 +106,7 @@ Ah, Brothers and Sisters, men say that facts are stubborn things, and so they ar
 
 The Lord give to everyone of you who do not, at present know it, to prove it yourselves, to try it to your heart's joy and satisfaction—and you, also, shall stand fast in your confidence in Him even to the end! The Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM138.
+## Exposition by C. H. Spurgeon: Psalm 138
 
 Verse 1. I will praise You with my whole heart before the gods wiil I sing praise unto You. ' 'Gods or no gods, whatever they may be, 'I will praise You with my whole heart.' I will not be ashamed to declare my confidence in Jehovah, whoever may listen to me."
 
@@ -128,7 +125,6 @@ Verse 1. I will praise You with my whole heart before the gods wiil I sing prais
 8\. The LORD will perfect that which concerns me. "All that has to do with me—my business, my family, my work, my temporal and my eternal interests—'that which concerns me,' and that which troubles me, moves my heart with the deepest concern, Jehovah will perfect."
 
 8\. Your mercy, O LORD, endures forever: forsake not the works of Your own hands. And He will not do it! He will carry on unto completion the work which He has begun, blessed be His holy name!
-
 
 ---
 [[Sermon 2603 Comfort for the Tempted|← #2603]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2605 Death and Its Sentence Abolished|#2605 →]]

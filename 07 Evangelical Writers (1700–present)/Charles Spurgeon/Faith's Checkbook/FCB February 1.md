@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # February 1
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NEVER DESPAIR**
+## **Never Despair**
 
 > But unto you that fear my name shall the Sun of righteousness arise with healing in his wings" Mal. 4:2
 
@@ -25,7 +24,6 @@ The sun which will arise is of no common sort. It is THE sun -- the Sun of Right
 Our one point of inquiry should be -- "Do we fear the name of the Lord? Do we reverence the living God, and walk in His ways?" Then for us the night must be short; and when the morning cometh, all the sickness and sorrow of our soul will be over for ever. Light, warmth, joy, and clearness of vision will come, and healing of every disease and distress will follow after.
 
 Has Jesus risen upon us? Let us sit in the sun. Has He hidden His face? Let us wait for His rising. He will shine forth as surely as the sun.
-
 
 ---
 [[FCB January 31|← January 31]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 2|February 2 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/05
 ---
-
 # Corn in Egypt
 
 *New Park Street Pulpit* · Sermon No. 234
@@ -59,12 +58,11 @@ Lastly, let me put this question, “Why do ye look one upon another?” Why do 
 
 In conclusion, I make this last remark.—Did you notice the argument Jacob used why the sons should go to Egypt? It was this—“That we may live, and not die.” Sinner, this is my argument with thee this morning. My dear hearers, the gospel of Christ is a matter of life and death with you. It is not a matter of little importance, but of *all* importance. There is an alternative before you; you will either be eternally damned, or everlastingly saved. Despise Christ, and neglect his great salvation, and you will be lost, as sure as you live. Believe in Christ; put your trust alone in him, and everlasting life is yours. What argument can be more potent than this to men that love themselves? Are you prepared for everlasting burnings? Friend, art thou ready to make thy bed in hell, and to be lost? If so, reject Christ. But if thou desirest to be blessed for ever, to be accepted of God in the tremendous day of judgment, and to be crowned by him in the day of the reward, I beseech thee, hear again the gospel, and obey it. “He that believeth in the Lord Jesus Christ and is baptized, shall be saved, but he that believeth not shall be damned.” For this is the gospel; it is yet again preached to you, and this is its solitary mandate—“Believe in the Lord Jesus Christ, and thou shalt be saved.” O Lord, help us now to believe, if we have not believed before, for Jesus’ sake!
 
-<HR
+## <Hr
 
 Just published, No. 7 of the New Park street Tracts, entitled, “SO MANY CALLS,” being the Anecdote to referred to in No. 227 of the “New Park Street Pulpit.” Price Is 4d. per 100.
 
 .
-
 
 ---
 [[Sermon 0233 Free Grace|← #233]] · [[Volume 05 (1859)|Volume 05 (1859) Contents]] · [[Sermon 0235 The Fainting Warrior|#235 →]]

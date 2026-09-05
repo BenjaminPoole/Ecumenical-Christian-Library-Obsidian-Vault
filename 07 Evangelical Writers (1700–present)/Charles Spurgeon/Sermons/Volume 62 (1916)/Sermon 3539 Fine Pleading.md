@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Fine Pleading
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3539
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Remember me, O Lord, with the favor that You have toward Your people; O visit me with Your salvation." Psalm 106:4.
 
@@ -27,7 +24,7 @@ My prayer tonight is that many here present may take the words of our text and h
 
 We shall regard our text tonight in three lights—first, as a suitable prayer for every Christian. Secondly, as a very fitting petition for distressed souls—I mean Christians who are desponding and have lost their evidences. And, thirdly, as a very suitable cry for an awakened, seeking sinner. My dear Brothers and Sisters in the faith, will you join me, then, under the first head, while we consider—
 
-I. HOW SUITABLE THIS PRAYER IS FOR EACH OF US WHO ARE IN CHRIST JESUS.
+## I. How Suitable This Prayer Is for Each of Us Who Are in Christ Jesus
 
 You will observe that he who prays here asks for no exceptional favor He says, "Remember me with the favor that You have toward Your people." It is not an ambitious prayer that asks to be distinguished beyond the rest of the beloved family. It is not a discontented prayer that seeks to have some special blessing which shall be denied to the rest of the Christian brotherhood. It is a prayer for benedictions common to all the saints! "Remember me with the favor which You have toward Your people." And this is a lesson for us in our prayers. For instance, nature suggests to me that I should pray to be saved of all bodily pain—but that is not a favor which God bears towards His people. Many of His people here endure even excruciating pain—some in the pangs of martyrdom—and others through His laying His hand upon them in natural sickness. He never intended to keep His people from pain. He had a Son without sin, but He never had a Son without suffering! The Perfect One, the First-Born, must have hands and feet pierced and every nerve must become the means of fresh agony to Him. I dare not, therefore, pray, "Lord, keep me from all physical pain." Why should I ask to have what He has not given to the rest of His people? No, if there is a cup on the table that tastes of the bitter, and He means it for the sons, let me have my share—and His love with it! So, too, I have no right to ask God to preserve me in riches, or in a comfortable position, or to keep me from poverty. I may ask this, but it must always be with complete submission to the Divine Will, for who am I that I should not be poor? Better ones by far than I have been poor—much poorer than I am likely to be. Why am I to expect to go to Heaven by a smooth, grassy road, while others have had to tread the flints that cut their feet?—
 
@@ -55,7 +52,7 @@ tomed to forgive Your people. Forgive me! You blot out their sins like a cloud. 
 
 Only one more remark we will make upon it in reference to the Christian. You observe that all through it is a personal prayer. Our prayers must not always be personal. Our Savior has taught us not to say, "My Father," but "OurFa-ther which are in Heaven." Yet, for all that, he who never prays for himself in the singular never prayed aright for others in the plural. If you have never said, "Lord, remember me," you have not got so far as the thief on the cross. You are not qualified at all to go as far as Abraham on the plains of Mamre, when he interceded for others. He that has the largest heart must see to it that his own personal salvation is secure. So, dear Friend, professing Christian, let me ask you to take the prayer in the first person singular, and say, "Lord, remember me with the favor which You bear to Your chosen." I pray it. If You call me, Lord, to minister to this great people, as my day is, so may my strength be. As You have dealt with others of Your servants in a like position, deal so with me. Elders and deacons, with your responsibility upon you, pray that the God of Stephen and the God of Philip will be with you and extend to you the favor which He gave to Elders and deacons of old! Mothers, fathers, ask for the Grace that He gives to Christian parents. Children, servants, ask for the Grace that He has been known to give to those in your position. You who are rich, pray often that you may not miss the Divine Favor, for these things are often dangerous. You that are poor, pray that you may have this to sweeten all—to make your little to be enough! You that are in health, pray this lest the vigor of your body be the weakness of your soul. And you upon whose cheek there is the hectic flush of consumption—you that are weak and near departure—you have already got your death-song ready. Here it is—"Lord, remember me! Remember me, O Lord, with the favor which You have given Your people! O visit me with Your salvation!" I leave that prayer with every Christian heart, here, and ask that it may be engraved there by the Holy Spirit. This prayer is also—
 
-II. A FITTING PRAYER FOR DEPRESSED, DESPONDING SOULS.
+## II. A Fitting Prayer for Depressed, Desponding Souls
 
 They are God's people and we give to them, now, this prayer, and we trust that as they pray it they may have "the oil of joy given them for mourning, and the garment of praise, instead of the spirit of heaviness." I ask them to look very briefly, but with all their eyes, at this prayer. You will note that here is a case in which a good man may seem to be forgotten. It is a good man that wrote this Psalm—an Inspired man, and yet he says, "Remember me, O Lord." Did he think himself forgotten? He feared he was. There have been others of God's saints who have endured this fear. Yes, a whole Church has sometimes labored under it. Zion said, "My God has forsaken me. My God has forgotten me." Thus you may be, as you think, forgotten—and yet you may be very dear to God—as dear as you ever were!
 
@@ -89,9 +86,9 @@ Such cases Christ loves. He came to seek and save—not the half-lost, but the l
 
 I can do no more than leave it in the hands of the Eternal Spirit. May He bless the Word, for Christ Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 116:10-19; SONG OF SOLOMON 2:1-7.
+## Exposition by C. H. Spurgeon: Psalm 116:10-19; Song of Solomon 2:1-7
 
-PSALM 116:10-19.
+## Psalm 116:10-19
 
 The whole Psalm is one of joyous thanksgiving because of God's mercy to the singer. He had been in deep waters of trial and affliction, but had not been allowed to sink. He had known fierce assaults of sin that threatened tearful eyes and falling, stumbling stops, but God had upheld and strengthened him. As he recalls all this, he longs to make some return by way of praise and witness to others. Hence he now inquires.
 
@@ -109,7 +106,7 @@ so, then he that has once heartily learned to praise his God may begin to forget
 
 18, 19.1 will pay my vows unto the LORD now in the presence ofall His people. In the courts of the LORD'S house, in the midst of you, O Jerusalem. Praise you the LORD. I see that David liked company. He would have been happy here, though we meet under conditions not wholly pleasant. He would have been glad to be in the midst of a smiling company of grateful saints who could all say, "That is true, David. What you have written of yourself, you might have written of each one of us. And we can each one say, 'I love the Lord because He has heard my voice and my supplications.'"
 
-SONG OF SOLOMON 2:1-7.
+## Song of Solomon 2:1-7
 
 We believe that this song sets forth the mutual love of Christ and His believing people. It is a book of deep mystery, not to be understood except by the initiated. But those who have learned a life of sacred fellowship with Jesus will bear witness that when they desire to express what they feel, they are compelled to borrow expressions from this matchless Song! Samuel Rutherford, in his famous letters, when he spoke of the love of Christ as shed abroad in his heart, perhaps was scarcely conscious that he continually reproduced the expressions of the Song, but so it is. They were naturally fresh enough from him, but they came from this wonderful Book. It stands in the middle of the Bible. It is the Holy of Holies—the central point of all. Thus He speaks—the glorious "greater than Solomon."
 
@@ -122,7 +119,6 @@ Verses 1, 2. I am the rose of Sharon, and the lily of the valleys. As the lily a
 5\. Refresh me with flagons, comfort me with apples, for I am sick of love. Oh, that I knew Him better! Oh, that I loved Him more! Oh, that I were more like He! Oh, that I were with Him! "I am sick of love."
 
 6\. 7. His left hand is under my head, and His right hand embraces me. I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love till He please. If He is with me, may nothing disturb Him—nothing cause Him to withdraw Himself. Our Lord Jesus is very jealous, and when He manifests Himself to His people, a very little thing will drive Him away like the hinds and the roes that are very timid—so communion is a very delicate and dainty thing. It is soon broken. Oh, may God grant tonight that nothing may happen to the thoughts of any of you by which your fellowship with Christ should be destroyed!
-
 
 ---
 [[Sermon 3538 Preparation for Heaven|← #3538]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3540 A Remarkable Benediction|#3540 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Longing To Find God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2272
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Oh, that I knew where I might find Him!" Job 23:3.
 
@@ -101,7 +98,7 @@ I think this is the way to find God, that is, to come to Christ, for, remember t
 
 III. I have finished my discourse when I have very briefly answered the third question—WHY ARE SOME SO
 
-LONG IN FINDING GOD?
+## Long in Finding God?
 
 I answer, partly because they are not clear as to what they are seeking. If you want to find God, well, here He is! You yourself know that He is everywhere, so that you have found Him! But what I fear some of you need is some kind of mark, some sign, some feeling. Now, that is not seeking God—you are seeking something in addition to God. I am sure that, in the hour of trial, nothing will stand a man in good stead but simple faith in God by Jesus Christ. "Oh!" says one, "I read of a man, the other day, who was under most wonderful conviction, and of another who had a very remarkable dream, and of another who heard a voice speaking to him."
 
@@ -119,7 +116,7 @@ So runs the Gospel. Look for no other way. Believe! I said not, "Feel," but, "Be
 
 Iam my Lord's, and He is mine" Now you shall begin a new life of obedience and holiness worked in you as the result of your having believed in Jesus Christ, whom God has set forth to be the Propitiation for sin! Will you have Christ or not, Sinner? If you will not have Him, you must perish! If you will have Him, He gives Himself freely to you—and nothing is freer than a gift! Take Him, and go your way happy as the angels. God bless you! Amen.
 
-EXPOSITION BY C. H. SPURGEON JOB23.
+## Exposition by C. H. Spurgeon Job 23
 
 Job is in great physical pain through the sore boils that cover him from head to foot. He is still smarting under all the bereavements and losses he has sustained and he is somewhat irritated by the hard speeches of his friends. We read, in the second chapter of this book, that, "they had made an appointment together to come to mourn with him and to comfort him." "Job's comforters ," even to this day, are regarded as those whose thoughts are preferred to their company. As the result of all the trials through which Job was called to pass, there is, in this chapter, somewhat of bitterness. We need
 
@@ -173,8 +170,7 @@ God your everlasting light."
 
 17\. Because I was not cut off before the darkness, neither has Ee covered the darkness from my face. He wished he had died before he came to such trouble, or that by some means such trouble had been turned away from him. May the Lord, if He sends you Job's trouble, send you Job's consolation! May He glorify Himself by your patient endurance, if He lays upon you His heavy hand!
 
-HYMNS FROM "OUR OWN HYMN BOOK"—607, 594, 606.
-
+## Hymns from "Our Own Hymn Book"—607, 594, 606
 
 ---
 [[Sermon 2271 Alone, Yet Not Alone|← #2271]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2273 Fickle Followers|#2273 →]]

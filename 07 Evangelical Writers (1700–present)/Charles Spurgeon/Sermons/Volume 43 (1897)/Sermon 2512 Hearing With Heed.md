@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Hearing With Heed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2512
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He said unto them, Take heed what you hear: with what measure you use, it shall be measured to you: and unto you that hear shall more be given." Mark 4:24.
 
@@ -91,7 +88,7 @@ Lastly, if you have heard well, and heard often, try to hear still better. Expec
 
 May the Lord's blessing rest upon you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK4:1-25.
+## Exposition by C. H. Spurgeon: Mark 4:1-25
 
 Verse 1. And He began again to teach by the seaside: and there was gathered unto Him a great multitude, so that He entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land. You can easily picture that scene—the Master sitting down in the vessel with a little breathing space of water between Himself and the crowd. And then the multitude on the rising bank, standing one above another, and all gazing upon the Teacher who sat down and taught them. It ought to reconcile any of you who have to stand in the crowd here when you remember that the hearers all stood in those days—and only the preacher sat down!
 
@@ -124,7 +121,6 @@ Yet there is some good even in their work! The sower in the parable is not blame
 22\. 23, For there is nothing hid, which shall not be manifested; neither anything kept secret, but that it should come abroad. If any man has ears to hear, let him hear Tell out, then, what God has told you—and let everybody hear from you the Truth of God as you, yourself, have heard it. See the compound interest that there is to be in this blessed trading for Christ?
 
 24, 25. And He said unto them, Take heed what you hear: with what measure you use, it shall be measured to you: and unto you that hear shall more be given. For he that has, to him shall be given: and he that has not, from him shall be taken even that which he has. When the Gospel is not received, when a man refuses it, it becomes a positive loss to him. There is a way by which it so works that what a man thought he had, disappears. Some have been made worse by the preaching of that Word which ought to have made them better. May it not be so with any one of us!
-
 
 ---
 [[Sermon 2511 Brought Out to Be Brought In|← #2511]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2513 How to Please God|#2513 →]]

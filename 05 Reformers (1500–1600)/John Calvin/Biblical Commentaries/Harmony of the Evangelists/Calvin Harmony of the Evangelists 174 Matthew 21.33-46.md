@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 174. Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19
-
-**MATTHEW 21:33-46; MARK 12:1-12; LUKE 20:9-19**
 
 **33.** Hear another parable: There was a certain householder, who planted a vineyard, and surrounded it by a ditch, and dug a wine-press in it, and built a tower, and let it to husbandmen, and went abroad, **34.** And when the season of the fruits drew near, he sent his servants to the husbandmen, that they might receive its fruits. **35.** And the husbandmen, having seized his servants, wounded one, killed another, and stoned another. **36.** Again, he sent other servants more numerous [^1] than the first, and they did to them in the same manner. **37.** And last of all he sent to them his son, saying, They will reverence my son. **38.** And when the husbandmen saw his son, they said within themselves, This is the heir: come, let us kill him, and seize on his inheritance. **39.** And they caught him, and cast him out of the vineyard, and killed him. **40.** When therefore the proprietor of the vineyard shall come, what will he do to those husbandmen? **41.** They say to him, Since they are wicked, he will miserably destroy them, and will let his vineyard to other husbandmen, who will render to him the fruit in its seasons. **42.** Jesus saith to them, Have you never read in the Scriptures, The stone which the builders rejected is made the head of the corner; [^2] this is done by the Lord, and is wonderful in our eyes? [^3] **43.** Therefore I say to you, The kingdom of God shall be taken from you, and shall be given to a nation yielding its fruits. **44.** And whosoever shall fall on this stone shall be bruised, but on whomsoever it shall fall, it will crush him. **45.** And when the chief priests and Pharisees heard his parables, they knew that he spoke of them. **46.** And though they sought to take him, they dreaded the multitudes, because they reckoned him a prophet.
 

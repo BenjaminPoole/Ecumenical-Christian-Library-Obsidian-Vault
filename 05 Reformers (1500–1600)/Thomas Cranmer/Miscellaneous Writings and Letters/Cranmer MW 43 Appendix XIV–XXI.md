@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 43. Appendix XIV–XXI
 
 XIV. Articuli de Missa Private, De Veneratione Sanctorum, et De Imaglnibus1 .
@@ -27,7 +26,7 @@ Hist, of Reformat. Vol. I. Add. No. 7. pp. 493— 517. Ed. Oxon. 1829; and Secke
 
 [3 Vitl. De sacramentorum usu, supra, p. 477-]
 
-[CRANMER, IT.]
+## [Cranmer, It.]
 
 482 APPENDIX. [lf)38.
 
@@ -63,7 +62,7 @@ Quamquam non negamus quin, ad fidem et spem in Deum excitandam, possimus Deum ve
 
 (rav TT/OOS eTraivov, Kai TOIS (ap^fJ.evoi's irpo(i dpeTi]v ovtrav cis ia(pe\eiav. Basil. Hom. xix. In Gord. Martyr. Tom. I. p. 444. Ed. Paris. 1638.] [5 TOVTO yap co-Ti (JiapTvptav &yKt»fUOVt r; Trpos dpe-rr\v -Tra/oa'/cXj/cris TWV crvveiXeynevwv. Id. Hom. xx. In quadraginta Martyr. Tom. I. p. 453.J
 
-484 APPENDIX. [1538.
+## 484 Appendix. [1538
 
 Dominum orat, ut quemadmodum ad D. Petri preccs ejus socrum febricitantem sauitati restituit, ita velit mine quoque febris ardores ab a?groto corpore depellere ; sive cum oramus, ut Deus, qui Paulum in carcerc cum collega Sila vinctum miraculo liberavit, idem nos e morborum aut peccatorum vinculis eripere dignetur.
 
@@ -105,7 +104,7 @@ Porro autem, quam vis ligandi excommunicandique potestas a Christo presbyteris e
 
 Jam vero cum animarum, pro quibus Christus mortuus est, curam ac solicitudinem Omnipotens Deus presbyteris et episcopis, manifestis scriptura? verbis, commisit atque credidit, ut et illi, quibuscimque poterint honestis modis, et plebis animas ad virtutem excitare ac inflammare, et Christi rdigionem ac Dei gloriam illustrare tencantur ; facile
 
-486 APPENDIX. [1538.
+## 486 Appendix. [1538
 
 liquct ipsorum omcium esse, regulas quasdam sive canones, qui ad dictos obtinendos fines necessarii aut utiles esse videantur, quoties opus fuerit, non solum excogitare, et ad earundem observationem populum adhortari, verum etiam benignitate et consensu principis sic ordinare ac statuere, ut vim habeant obligandi : cujusmodi sunt, canones de temporibus conveniendi ad orandum, verbum Dei audiendum, et reliqua sacra facienda ; praeterea de ritibus ac ceremoniis, quibus sacramenta administrentur, atque orationes publice celebrentur ; denique de ceteris ritibus ac ceremoniis, qua? ad Dei gloriain illustran- • laiii, virtutis incrementum, et religionis christianae propagationem ac decus, utcunque prosint.
 
@@ -145,7 +144,7 @@ Jam Agatho ipse, qui diu post ilia quatuor prima generalia concilia Romans sedis
 
 \* Vid. Labb. et Cossart. Cone. Carthap;. VI. A. D. 419. Tom. IT. col. 1589, etsqq.j
 
-488 APPENDIX. [1538.
+## 488 Appendix. [1538
 
 pertinere. Cujus confessione manifestum est, talem universalem primatum, qualem hodie sibi vindicant, neque ullis sacra? scriptura? verbis, neque generalium conciliorum decretis, neque catholica? demum ecclesia? consensu, Romanes episcopos illis tcmporibus habuisse.
 
@@ -229,7 +228,7 @@ THOMAS, permissione Cant' Archiepiscopus, totius Anglie primas et metropolitans,
 
 [s At that time. Strype.j [« At their tables. Id.]
 
-492 APPENDIX. [1542.
+## 492 Appendix. [1542
 
 Feyld, Johanni Trevison, Johanni Clerk, Simoni Leston, Henrico Bosfell, Thoma? Dock cry, Roberto Johnson, Willielmo Coveyke, et Davidi Clopham, dicta? curia? procuratoribus generalibus, ac ceteris eanmdem curiarum nostrarum ministris, tarn pra?sentibus quam futuris, ac aliis quibuscunque, quos infrascripta tangunt, seu tangere poterunt quomodolibet in futurum, salutem, gratiam, et benedictionem, ac fidem indubiam pra?sentibus adhibere.
 
@@ -287,7 +286,7 @@ Stow's Annals, p. 589. Ed. Lond. 1615.]
 
 [10 " I trust in God that we shall depart hence (Portsmouth) upon Tuesday (August llth), if the wind will serve us." State Papers, Letter CCXXV. John Dudley, Lord Lisle, to Paget, dated August 9, p. 808. " At this present it may like your majesty that the enemies and we have sight one of the other, striving who shall get the advantage of the wind." Id. Letter CCXXVI1. Lisle to Henry VIII. dated August 15, p. 815. No "engagement, however, took place ; for they say it is not possible for their army to return any more to the sea this year, both for scarcity of victuals and for lack of men. For the most part of these that have been out, had rather be hanged than go forth again. There is no manner of courage, nor gladness, nor appearance of comfort among them. The common people (talking as they dare) grudgeth, saying, their king hath been
 
-496 APPENDIX. [1545.
+## 496 Appendix. [1545
 
 assembled in the remembrance of man1:) considering nevertheless that all victories and good successes cometh only at the direction and appointment of God, following herein the trade of such a Christian prince as he is, hath devised to have processions throughout the realm in such sort as in like cases hath heretofore laudably been accustomed : requiring your lordship therefore to take order incontinently, that from henceforth throughout your province the said processions be kept continually upon the accustomed days and none otherwise, and sung or said, as the number of the quire shall serve for the same, in the English tongue, to the intent that there may be an uniformity in every place; whereby it may please God at all times to prosper his majesty in all his affairs, and the rather to have regard at this time unto the uprightness of his grace's quarrel, and to send his highness victorious success of the same. And thus we bid your good lordship most heartily well to fare. From Petworth, the 10th day of August. Your lordship's assured loving friends, W. Essex, Ste. Wynton., Anthonye Browne, William Paget.
 

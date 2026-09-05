@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Lift for the Prostrate
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2980
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he (that is, Jesus) came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them." Mark 1:31.
 
@@ -89,7 +86,7 @@ O Sinner, nothing is impossible with God! If you are sick and near death, Jesus 
 
 Oh, that He would bless this word to you! Christ is God as well as Man. He suffered on the Cross in the place of sinners, but He lives after the suffering has been accomplished! He lives as the Savior who is mighty to save and whoever will take Him as his or her own Savior shall find it to be so this very hour!
 
-EXPOSITION BY C. H. SPURGEON: MARK 1:14-35.
+## Exposition by C. H. Spurgeon: Mark 1:14-35
 
 Verse 14. Now after John was put in prison, Jesus came into Galilee, preaching the Gospel of the Kingdom of God. When one servant of God is laid aside, it is a call to the rest to be the more earnest. So after John the Baptist was put into prison, "Jesus came into Galilee." Sometimes a loss may be a gain—and if the loss of John was the means of bringing out Jesus, certainly both the Church and the world were the gainers! "Jesus came into Galilee, preaching the Gospel of the Kingdom of God."
 
@@ -114,7 +111,6 @@ Verse 14. Now after John was put in prison, Jesus came into Galilee, preaching t
 28-30. And immediately His fame spread abroad throughout all the region round about Galilee. And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John. But Simon's wife's mother lay sick of a fever, and soon they told Him of her. Christ was a house-to-house missionary, as well as an open-air preacher. There is much good to be done by those who know how to visit and to look after individual cases. There is great good to be done in that way—as well as by dealing with mankind in the bulk.
 
 31-35. And He came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them. And at evening, when the sun set, they brought unto Him all that were diseased, and them that were possessed with devils. And all the city was gathered together at the door. And He healed many that were sick of divers diseases, and cast out many devils: and suffered not the devils to speak, because they knew Him. And in the morning, rising up a great while before day, He went out and departed into a solitary place, and there prayed. His hard day's work probably ran on far into the night. Yet, "a great while before day," He was up at the sacred work of supplication! The more work we have to do with men for God, the longer we ought to be at work with God for men. If you plead with men, you cannot hope to prevail unless you first plead with God. And, inasmuch as our Lord had great success the day before, it teaches us that the greatest success does not release us from the necessity of still waiting upon God. If God has given you much, my Brother, go with your basket and ask for more. Never stop prayer. Increase your spiritual hunger and God will increase the richness of the gifts He will bestow upon you!
-
 
 ---
 [[Sermon 2979 Our Banner|← #2979]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2981 The Safeguards of Forgiveness|#2981 →]]

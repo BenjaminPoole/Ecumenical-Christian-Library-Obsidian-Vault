@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 39
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -250,10 +249,9 @@ Outline of a Sermon entitled "Attachment to Life, "preached by *Joseph Hughes, M
 
 2. The *reasons* for this petition. 1. That he may remove by his future life, the calumnies that had been heaped upon him. 2. That he may have brighter evidences of his interest in the divine favour. 3. That he may become a blessing to others, his family and nation. 4. That he might have greater peace and comfort in death; and, 5. That he might "have an entrance ministered more abundantly, "etc. —G. Rogers.
 
-WORK UPON THE THIRTY-NINTH PSALM
+## Work upon the Thirty-Ninth Psalm
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 038|← Psalm 38]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 040|Psalm 40 →]]

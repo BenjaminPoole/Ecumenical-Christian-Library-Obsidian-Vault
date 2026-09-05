@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Night-and Jesus Not There!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2945
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it was now dark, and Jesus had not come to them." John 6:17.
 
@@ -55,7 +52,7 @@ There I leave this first point—the affliction of Christ's absence.
 
 II. Now, secondly, I am going to mention SOME CONSIDERATIONS WHICH MAY CHEER US WHEN IN THIS
 
-CONDITION.
+## Condition
 
 The first consideration I would mention is this. Dear Friend, perhaps it may not really be as you think it is. You say that Christ is absent from you, but, possibly He is not. Perhaps you have not really lost His Presence. "Oh, but I am not as happy as I once was!" I do not know that Christ's company in the soul necessarily makes that soul consciously happy continually. I know that Jesus was very near to Peter when a look from Him made the sinful disciple go out and weep bitterly. I think that the Presence of Christ may sometimes tend to breed in us a certain holy sorrow which, though not so sweet, is yet as precious as holy joy itself. Perhaps, dear Friend, you are not just now in a right state of body or in a right mental condition to get joy and happiness from the Presence of Christ. At any rate, if He were not there, your spirit would have sunk much lower than it does now. Sad as you are, you would have been much sadder if it had not been for the sacred influence of His more than magnetic Presence which is really staying your soul. You might have fallen into despair, but you have not come to that condition yet and it is because His left hand is under your head so that, although you sink, you do not sink lower. You might have been utterly overwhelmed if it had not been for the Divine supports which have been given to keep you where you are!
 
@@ -115,7 +112,7 @@ Look to Him and live! God help you to look now! And then, when it is dark, Jesus
 
 God bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:14-40.
+## Exposition by C. H. Spurgeon: John 6:14-40
 
 Verses 14, 15. Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that Prophet who should come into the world. When Jesus therefore perceived that they would come and take Him by force, to make Him a king, He departed again into a mountain, Himself alone. Our Lord Jesus had just worked the miracle of feeding the five thousand men with five loaves and two small fishes, so He was very popular at that time. The people even wanted to come and take Him by force and make Him a king, but He escaped from them, for He knew the value of that popularity! What was it but a puff of wind? Probably many of the very people who tried then to crown Him were among the crowds in Jerusalem who cried, "Crucify Him! Crucify Him!" And, nowadays there may be a great deal of anxiety to hear the Gospel, yet very little result may follow from it. A crowded House of Prayer is certainly a very hopeful sight, yet it may end in disappointment to those who are looking for souls to be won for the Savior.
 
@@ -144,7 +141,6 @@ always asking, "What shall we eat, what shall we drink, and with what shall we b
 36\. But I said unto you that you have seen Me, and believe not. How the Savior brings the truth home to these people and He might do the same to some of you. You pray, "Give us this bread" and He replies, "I have given it to you, yet you have not eaten it. You have seen Me, you have heard Me, you know Me and yet you do not believe on Me." If Christ were to appear in this building at this moment, might He not say to many of you, "You have heard of Me from your childhood and you know all you need to know about Me, yet you have not believed in Me"? Would God it were not so with so many of you!
 
 37-40. All that the Father gives Me shall come to Me andhim that comes to Me I willin no wise cast out. For Icame down from Heaven not to do My own will, but the will of Him that sent Me. And this is the Father's will which has sent Me, that ofall which He hasgiven Me Ishouldlose nothing, but shouldraise it again at the last day. And this is the will ofHim that sent Me, that everyone who sees the Son, and believes on Him, may have everlasting life: andI willraise him up at the last day. This is the glorious Gospel of the blessed God—that everyone who looks to Christ with eyes of faith has everlasting life, and though his body may die, yet even for that there is everlasting life, for Christ will raise him up again at the last day. Oh, that you would all believe on Jesus Christ and so find that eternal life!
-
 
 ---
 [[Sermon 2944 Urging Lot|← #2944]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2946 A Procession of Cross-bearers|#2946 →]]

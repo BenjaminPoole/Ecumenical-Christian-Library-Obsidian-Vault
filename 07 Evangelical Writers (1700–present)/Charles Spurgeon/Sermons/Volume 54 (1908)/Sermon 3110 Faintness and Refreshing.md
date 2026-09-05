@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Faintness and Refreshing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3110
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God." 1 Kings 19:8.
 
@@ -113,9 +110,9 @@ And how often has God given much comfort to His people when they were ready to g
 
 III. Let us observe, in the third place, that WHENEVER GOD THUS GIVES TO HIS CHILDREN VERY
 
-REMARKABLE ENJOYMENTS, IT IS IN ORDER THAT THEY MAY GO ON IN THE STRENGTH OF THOSE
+## Remarkable Enjoyments, It Is in Order that They May Go on in the Strength of Those
 
-ENJOYMENTS FOR A LONG TIME.
+## Enjoyments for a Long Time
 
 Elijah was not fed that he might get strong and then waste his strength. There are no sinecures in God's service! All His true servants are real workmen and when they have strength given to them by Him, it is not that they may show what fine fellows they are, but that they may toil on in their Master's cause. The soldier is a smart-looking fellow on parade in days of peace—and long may it be before he shall have cause to do anything more than show himself at such times—but God's soldiers are always on active service and as sure as ever the Master gives them a double round of ammunition, He means them to fire it all! If ever He gives them a new sword, it is because they will soon need it! And whenever He is pleased to furnish them with fresh armor, it is because He knows that they will require the sacred panoply. There are no superfluities in the provisions of God's Grace!
 
@@ -139,7 +136,7 @@ I leave these thoughts with those of you who know the way of the wilderness. Tho
 
 God bless every one of us, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM143.
+## Exposition by C. H. Spurgeon: Psalm 143
 
 Verses 1-3. Hear my prayer, O LORD, give ear to my supplications: in Your faithfulness answer me, and in Your righteousness. And enter not into judgment with Your servant for in Your sight shall no man living be justified. For the enemy has persecuted my soul; he has smitten my life down to the ground; he has made me to dwell in darkness, as those that have been long dead. This is a very graphic description of David's sorrow. And those who have ever come under the power of Satan so as to be crushed in spirit and see all their hopes blighted and withered know what David meant when he penned these words. Only think of a soul dwelling in darkness like a body that has been long dead and shut up in the grave.
 
@@ -160,7 +157,6 @@ Volume 26—AT SCHOOL] for You are my God: Your spirit is good.
 10, 11. Lead me into the land of uprightness. Quicken me, O LORD, for Your name's sake. Do not these prayers fit you, my Brothers and Sisters? Do you not feel as if you were being taught how to pray by the reading of this Psalm? I think it must be so at least with some of you.
 
 11, 12. For Your righteousness' sake bring my soul out of trouble. And of Your mercy cut offmy enemies, and destroy all them that afflict my soul: for I am Your servant. We cannot join in the prayers in this verse just as it stands, for we live in another dispensation in which we are taught to pray for our enemies, not against them, but as far as this verse relates to our spiritual enemies—our sins, temptations and Satanic foes—we do pray that they may be utterly cut off and that the very name of them may be blotted out from under Heaven! May God hear that prayer and answer it, for His dear son's sake! Amen.
-
 
 ---
 [[Sermon 3109 Sowing and Reaping|← #3109]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3111 Warning and Encouragement|#3111 →]]

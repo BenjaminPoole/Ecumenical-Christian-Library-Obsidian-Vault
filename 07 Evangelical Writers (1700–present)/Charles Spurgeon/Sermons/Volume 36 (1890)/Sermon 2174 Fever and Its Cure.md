@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Fever and Its Cure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2174
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He arose out of the synagogue, and entered into Simon's house. And Simon's wife's mother was taken with a great fever, and they besought Him for her. And He stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them." Luke 4:38,39.
 
@@ -136,7 +133,6 @@ The next thing Jesus did was to raise her up. You must have felt, when lying ver
 On the contrary, as you go home, trip over the pavements with a sense of spiritual health! And when you get home, say at once, "I must minister unto Jesus. He has driven out my cares and fears and soothed my mind—and therefore out of love I will spend and be spent to His praise." God bless you, for the Savior's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Psalm 37.
-
 
 ---
 [[Sermon 2173 Little Faith and Great Faith|← #2173]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2175 So It Is|#2175 →]]

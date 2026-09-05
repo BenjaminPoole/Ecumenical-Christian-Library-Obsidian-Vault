@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 14
 
-**CHAPTER 14**
+***Chapter 14***
 
 ## Acts 14:1-4
 

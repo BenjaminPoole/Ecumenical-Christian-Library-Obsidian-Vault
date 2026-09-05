@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Truly Blessed Man
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3270
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed is the maun that walks not in the counsel of the ungodly; nor stands in the way of sinners, nor sits in the seat of the scornful. But his delight is in the Law of the Lord: and in His Law does he meditate day and night. And he shall be like a tree planted by the rivers of water, that brings forth his fruit in his season: his leaf also shall not wither, and whatever he does shall prosper." Psalm 1:1-3.
 
 IT is an old saying and possibly a true one, that every man is seeking after happiness. If it is so, then every man should read this Psalm, for this directs us where happiness is to be found in its highest degree and purest form! "Blessed," says David, "is such-and-such a man," and the word which he uses is, in the original, exceedingly expressive. It implies a sort of plurality of blessedness—"Blessednesses are to the man" and it is scarcely known whether the word is an adjective or a noun, as if the blessedness qualified the whole of life and was, in itself, better even than life itself! The very highest degree of happiness is blessedness, "these blessednesses,'' as Ainsworth says, "heaped up, one upon the other." Surely this is the very highest to which the human heart can aspire! Let us then, this evening, come with attentive hearts to consider in the Light of Revelation, the character of the blessed man. We will begin by considering—
 
-I. WHO THE "BLESSED MAN" IS.
+## I. Who the "Blessed Man" Is
 
 The description given of him is simply this, that he is a man. There are moral qualities given, but the only thing said of him, in the first place, is that he is a man. Here is something very suggestive, for he is a person subject to the common sorrows of humanity. If we hear of a person greatly blessed by the sense of Christ's Presence and so enabled to walk in holiness and much usefulness, we cherish the delusion that he must have been better than the ordinary run of men, certainly not such an one as ourselves! Ah, but how great is the mistake! God fashions all hearts alike and if there are distinctions, they are of Divine Grace, not of being better by nature! The most blessed man is still a man. He must suffer pain, or pine in sickness, endure losses and crosses—and yet in it all be a blessed man!
 
@@ -39,7 +36,7 @@ There is in the Psalm, however, one word which truly describes this man, and tha
 
 This is the description of the "blessed man," but still I beg you to remember he is only a man. Some such were born in the lowliest paths of life, educated in the most slender fashion, yet they have been among the finest witnesses and most heroic martyrs for their Lord. The brightest spirits that now wave the palm branch and strike the golden lyres most rapturously, were but sons and daughters of Adam, like ourselves. Ezekiel, privileged to see more visions, perhaps, than any other Prophet, is constantly called "son of man," as if God would keep him humble, reminding him of the hole of the pit from where he was dug. However blessed you may get, my Brothers and Sisters, it is still only, "Blessed is the man." So I have tried to put the ladder down to you who are beginners in the heavenly life, to show you that there is not a long step to take at first. You are a man, and the text comes to you with, "Blessed is the man!" May it be true of all of us! Now, we get following on this—
 
-II. WHAT THE "BLESSED MAN" AVOIDS.
+## II. What the "Blessed Man" Avoids
 
 There is, I believe, a book published which is entitled, What to Eat, Drink and Avoid. I should imagine the third section to be by far the largest portion, for there are a thousand things to be avoided. Now in this Psalm it appears that the Divinely blessed man avoids the common way of ungodly persons. The ungodly are not necessarily drunks or swearers. These are ungodly, of course, but not all ungodly persons are like they. The ungodly are just your go-easy sort of people. They may go to Church or Chapel, or go nowhere. They are often very respectable, good neighbors, kind to the poor. They may hold public office and enter Parliament. There is no place they may not fill, for it is not considered an offense among men to be "ungodly." The tragic folly and sin of these people is that they have neglected the chief thing to be remembered, namely, that there is a God, that they are His creatures and, being His creatures, ought to live to Him. But they give God no part of their lives and He is in none of their thoughts. They will think of their neighbors, remember their friends and acquaintances. The duties of the second table of the Law of God they observe in a measure, but the first table is despised as though it had never been written!
 
@@ -53,7 +50,7 @@ that a very slight test is enough for some things and he puts them quickly aside
 
 Once more, he avoids the very persons of sinners except as far as he has to deal with them in civil matters and the common courtesies and duties of life. They are not his bosom friends—he would never dream of being unequally yoked with them in marriage! He shuns their company all he can, for his congenial associates are elsewhere. Their ways, example, words, he avoids. As he would keep from plague-infected places and people, so he strives to keep aloof from men who blaspheme, lest their profanity should taint and defile him. "Father," said a young fellow, "I can go into such-and-such company and not be hurt." The father stooped down to the fireplace and picked up a piece of coal. "There," said he to his son "take that in your hands." The son shrank from the black cinder. "Why," said the father, "it will not burn you!" "No! but it will blacken me," he replied. Ah, bad company can blacken even where it does not burn, so stay away from it! You can never retain this blessedness unless, like the man described here, you walk not in the counsel of the ungodly, you stand not in the way of sinners, nor sit in the seat of the scornful. And now for the third Truth of God here insisted on—
 
-III. WHEREIN THE "BLESSED MAN" DELIGHTS.
+## III. Wherein the "Blessed Man" Delights
 
 "His delight is in the Law of the Lord." Man must have some delight, some supreme pleasure. His heart was never meant to be a vacuum. If not filled with the best things, it will be filled with the unworthy and disappointing. As we remarked the other night when our text was, "Then the devil left Him and, behold, angels come and ministered unto
 
@@ -83,7 +80,7 @@ Again, we delight in it because it is pleasant There are sweetnesses in it bette
 
 Lastly, the Christian delights in "the Law of the Lord," because it is profitable. This book enriches with the best of wealth and stored-up treasures for all eternity! Now gathering up all these reasons I want to earnestly ask each one of us here, "Do you delight in this Book?" Not, do you read it—but do you read it with delight? To go to it dragged there by duty, is miserably to miss its best messages and is no evidence of true godliness. To put a sentence of it under the tongue as a sweet morsel, to grow healthy upon it when you are sick, rich upon it when poor—this is one of the truest tests of being a "blessed man"—but if you do not enjoy this, God help you to begin at the foundation! Repent of sin, seek the Savior, or otherwise where God is you can never go! But I must hasten on to ask—
 
-IV. WHAT OCCUPIES THE "BLESSED MAN'S" TIME?
+## IV. What Occupies the "Blessed Man's" Time?
 
 "In His Law he does meditate day and night" By day he gets little intervals of time to read it, so he steals from his nightly rest, moments in which to meditate upon it. Reading reaps the wheat, meditation threshes it, grinds it and makes it into bread. Reading is like the ox feeding—meditation is it digesting when chewing the cud. It is not only reading that does us good, but the soul inwardly feeding on it and digesting it. A preacher once told me that he had read the Bible through 20 times on his knees and had never found the Doctrine of Election there. Very likely not. It is a most uncomfortable position in which to read. If he had sat in an easy chair, he would have been better able to understand it. To read on one's knees is like a Popish penance! Besides, he read in the wrong way—if instead of 20 times galloping through, he had read once and pondered continually—he probably would have seen clearer than he evidently did.
 
@@ -93,7 +90,7 @@ May I ask whether there are not some here who do not meditate on God's Word at a
 
 This brings us now to the very center of the Psalm's teaching.
 
-V. WHEREIN IS THIS MAN SO DIVINELY "BLESSED"?
+## V. Wherein Is This Man so Divinely "Blessed"?
 
 Very briefly on each point. He is blessed first of all, for life. "He shall be like a tree." Not a dry, dead, sapless pole. His life is such that unregenerate men are strangers to it. He has been begotten again unto a living hope. The sap of
 
@@ -117,7 +114,7 @@ O Lamb of God, I come"
 
 If your very soul sings that, you are on the road to true blessedness and all that is in this Psalm shall be yours in life, in death and throughout eternity! May God bless you thus, for Jesus' sake. Amen
 
-EXPOSITION BY C. H. SPURGEON: PSALM32.
+## Exposition by C. H. Spurgeon: Psalm 32
 
 "A Psalm of David, Maschil" that is to say, an instructive Psalm. I suppose that David wrote it after he had been forgiven and restored to Divine favor. I think we may read it as a part of our own experience—either of conversion or when restored after backsliding.
 
@@ -148,7 +145,6 @@ there," but he runs to it! Beloved, run to your hiding place this evening! Each 
 10\. Many sorrows shall be to the wicked: but he that trusts in the LORD, mercy shall compass him about "Many sorrows shall be to the wicked." David had found that out—his sin had brought him a transient pleasure, but a lasting misery! He shall have a bodyguard of mercy, God will be gracious to him, tender to him and will not leave him if he is trusting in the Lord.
 
 11\. Be glad in the LORD, and rejoice, you righteous: and shout for joy, all you that are upright in heart "Be glad in the Lord, and rejoice, you righteous." Be glad. Well, but you cannot always be glad, says one. "Be glad in the Lord." You may always be glad in Him! Here is an unchanging source ofjoy. "Rejoice, you righteous, and shout for joy." Here, the man that was silent has now gone as far as shouting. Is it not enough to make him so? Twice he was blessed in the first and second verses—and now, he has been pardoned, he has been delivered, he has been compassed about with mercy! Why, he must be glad! "Shout for joy all you that are upright in heart." God bless you in the reading of His Word.
-
 
 ---
 [[Sermon 3269 A Frail Leaf|← #3269]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3271 God, the Children's Teacher|#3271 →]]

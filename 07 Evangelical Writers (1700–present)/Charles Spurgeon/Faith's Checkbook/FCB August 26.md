@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 26
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE OF TENDER CONSCIENCE**
+## **He of Tender Conscience**
 
 > I will judge between cattle and cattle" Ezek. 34:22
 
@@ -25,7 +24,6 @@ Is the reader one of the despised? Is he a mourner in Zion, and a marked man bec
 Let the hardhearted oppressor tremble. Even though he may ride roughshod over others with impunity for the present, all his proud speeches are noted, and for every one of them account must be given before the bar of the Great Judge.
 
 Patience, my soul! Patience! The Lord knoweth thy grief. Thy Jesus hath pity upon thee!
-
 
 ---
 [[FCB August 25|← August 25]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 27|August 27 →]]

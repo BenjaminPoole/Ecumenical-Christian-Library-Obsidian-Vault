@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 40. Why was it necessary for Christ to humble himself even unto death?
-
-**Question 40. Why was it necessary for Christ to humble himself even unto death?**
 
 Answer. Because with respect to the justice and truth of God, satisfaction for our sins could be made no otherwise than by the death of the Son of God.
 
-**EXPOSITION**
+## **Exposition**
 
 Under this question we are to consider:
 
@@ -28,7 +25,7 @@ II. Whether it was necessary that Christ should die:
 
 III. For whom he has died.
 
-**I. HOW CHRIST IS SAID TO HAVE BEEN DEAD**
+## **I. How Christ Is Said to Have Been Dead**
 
 The exposition of this question is necessary on account of hereties who have corrupted the sense of this article. Marcion denied that Christ did truly die, and affirmed also that the whole dispensation of the word in the flesh, and all those things which Christ endured for us were imaginary, and that he had only the appearance of a man, but was not such in reality. Nestorius separated the natures in Christ, and would not admit that the Son of God was crucified, and died; but said that this was true only of the man Christ. "Do not exult and glory O thou Jew, (said he) thou hast not crucified God, but man." The Ubiquitarians believe that the human nature of Christ, from the moment of the incarnation, was so endowed with all the properties of Deity, that the only difference between this and the Godhead of Christ, is that the former has by accident what the latter has by and of itself. Hence it is, that they imagine that Christ in his death, yea, when he was concealed in the womb of the virgin, was not only as to his Deity, but also as to his body, in heaven, and everywhere. And this is what they call the form of God, concerning which Paul speaks in Phil. 2:6.
 
@@ -40,7 +37,7 @@ Obj. But he gave up the ghost just as virtue, that is, his Divinity is said to h
 
 Obj. But if there was no such separation between the natures of Christ, why did he exclaim, "My God, my God, why hast thou forsaken me?" Ans. This cry was extorted from the suffering Son of God, not on account of any separation of the two natures, but on account of the delay of help and assistance: for the two natures in Christ ought not to be disjoined, because it is written. "God hath purchased the church with his own blood." (Acts 20:28.) And it was necessary that he, who would die for our sins, should be the Son of God, that there might thus be a sufficient ransom. So it is also clearly manifest, that the union of the natures in Christ is no ubiquity: for his soul, being separated from his body, was not in the sepulchre with his body, and consequently not everywhere; because that which is everywhere can never be separated. And yet the union of the natures remained complete even in death, and in the grave.
 
-**II. WHETHER IT WAS NECESSARY THAT CHRIST SHOULD DIE FOR US**
+## **II. Whether It Was Necessary that Christ Should Die for Us**
 
 It was necessary for Christ, in order that he might make satisfaction, not only to suffer, but also to die:
 
@@ -58,7 +55,7 @@ Obj. But Adam did not immediately die. Ans. He did not, indeed, instantly suffer
 
 From what has now been said the following conclusions may be drawn: 1. That sin should especially be avoided by us, inasmuch as it could not be expiated except by the intervention of the death of the Son of God. 2. That we ought to be grateful to the Son of God for this great benefit which he has, out of his great goodness, conferred upon us. 3. That all our sins, however great, however many, and grievous they may be, are expiated by the death of Christ alone.
 
-**III. DID CHRIST DIE FOR ALL?**
+## **III. DID Christ Die for All?**
 
 In answering this question we must make a distinction, so as to harmonise those passages of Scriptures which seem to teach contradictory doctrines. In some places Christ is said to have died for all, and for the whole world. "He is the propitiation for our sins, and not for ours only, but also for the sins of the whole world." "That he, by the grace of God, should taste death for every man." "We thus judge that if one died for all, then were all dead; and that he died for all that they which live should not henceforth live unto themselves, but unto him that died for them, and rose again." "Who gave himself a ransom for all," &c. (John 2:2. Heb. 2:9. 2 Cor. 5:15. 1 Tim. 2:6.) The Scriptures, on the contrary, affirm in many places, that Christ died, prayed, offered himself, &c., only for many, for the elect, for his own people, for the Church, for his sheep, &c. "I pray for them; I pray not for the world; but for them which thou hast given me, for they are thine," that is, the elect alone. "The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many." "I am not sent, but unto the lost sheep of the house of Israel." "He shall save his people from their sins." "This is my blood of the New Testament which is shed for many for the remission of sins." "Christ was once offered, to bear the sins of many." "By his knowledge shall my righteous servant justify many, for he shall bear their iniquities." "Christ loved the Church, and gave himself for it." (John 17:9. Matt. 20:28; 15:24; 1:21. Heb. 9:28. Is. 53:11. Ep. 5:25.)
 

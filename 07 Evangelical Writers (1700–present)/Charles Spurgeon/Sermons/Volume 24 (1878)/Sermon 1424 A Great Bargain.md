@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Great Bargain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1424
-
-DELIVERED BY.
 
 > "Again, the kingdom of Hea ven is like unto a merchant, seeking good pearls: Who, when he had found one pearl of great price, went and sold all that he had, and bought it." Matthew 13:45, 46.
 
@@ -138,7 +135,6 @@ The Emperor of Russia bid an enormous price for it and promised him honor and ra
 There is only one Pearl that never can be clouded and will last right on throughout eternity and that is the Son of God, "who only has immortality." If you get Him, you have a Divine hope which can never fail you! But if your hope is in priests or a hope connected with sacramentarianism, or any other hope but that of which Christ is top and bottom, beginning and end—you may make what sacrifice you will—your brightest prospects will end in bitterest disappointment! May the Lord grant that none of us may ever be thus balked of our life-confidence—that no such blank bewilderment may ever fall on our spirits.
 
 Listen to me, you that follow after righteousness, you that seek the Lord. The voice of Jesus is heard in this parable of the kingdom describing and directing the seekers. Such persons comprise no small fraction of an assembly like the present. It would, indeed, be strange if seekers were not always largely represented here and, in every stage of anxious enquiry! I am sure some of you have seen the Pearl you want sparkling before your eyes. I wonder how many of you have resolved to sell all you have to buy it? But who among you all have actually made the Pearl your own and rejoice in its possession? That such of you will go on your way rejoicing there is no doubt! But will you not return and give glory to God? Shall we not have the happiness of greeting you here in the fellowship of the kingdom of His Grace? The Lord grant it may be so for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1423 A Sacred Solo|← #1423]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1425 Concern For Other Men's Souls|#1425 →]]

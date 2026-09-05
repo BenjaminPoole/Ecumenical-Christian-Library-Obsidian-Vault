@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # A Warning Against Hardness Of Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 620
 
-DELIVERED ON SUNDAY MORNING, MARCH 19, 1865,.
+*Delivered on Sunday Morning, March 19, 1865*
 
 > "But exhort one another daily, while it is called 'Today,'lest any of you be hardened through the deceitfulness of sin." Hebrews 3:13.
 
@@ -115,7 +114,7 @@ To the second she said, "How near could you drive to danger?" "Within a hair's b
 
 Again, sin will sometimes have the impudence to say, "It is very easy to repent of it. If you have once plunged into the mire, you can at any time see the evil of it and you have only to repent and straightway there is forgiveness." This vile traitor is even dastardly enough to take the Doctrines of Grace and turn them into a reason for sin. The old serpent hisses out, as none but the devil dares do, "God will not cast you off! He never casts away His people. He can soon visit you in mercy and lift you up to the highest state of spirituality! Though you may have fallen into the lowest condition of degradation, you run no risks as others would for the eternal purpose of God is engaged to keep you from final perdition and therefore you may drink the deadly thing and it shall not hurt you. You may tread upon serpents and they shall not bite you."
 
-"Their damnation is just," says the Apostle, of those who use the Doctrines of Grace as an argument for licentiousness. The child of God scorns the thought of making the love of God a reason for sin! When a little boy was tempted to steal from an orchard, the others said to him, "You my safely do it. Your father is so fond of you that he will not beat you." "No, no," said the little fellow, "that is the very reason why I would not go a thieving, for I should grieve my fa- ther who is so kind and so good to me." Yet the deceitfulness of sin is such that it will turn the strongest motive for holiness into an argument for rebellion against God!
+"Their damnation is just," says the Apostle, of those who use the Doctrines of Grace as an argument for licentiousness. The child of God scorns the thought of making the love of God a reason for sin! When a little boy was tempted to steal from an orchard, the others said to him, "You my safely do it. Your father is so fond of you that he will not beat you." "No, no," said the little fellow, "that is the very reason why I would not go a thieving, for I should grieve my fa-ther who is so kind and so good to me." Yet the deceitfulness of sin is such that it will turn the strongest motive for holiness into an argument for rebellion against God!
 
 My dear Friends, I feel the weight of this subject pressing down on my own heart. And for that very reason I cannot bring out these Truths of God as I would desire, so as to make them flash into your faces. But I do feel that it must be true of some of you who make a profession of religion, that sin, through its deceitfulness, is tampering with your spirits, trying to make you traitors to God—seeking, if it possibly can—to pervert your mind from hatred of sin and from true love to Jesus, Christ.
 
@@ -154,7 +153,6 @@ No matter how hard, how insensible, how dead we may have become—let us go agai
 "With all my sin and all my hardness of heart," let the Believer say, "I do believe that Jesus died for me." Let him clasp that Cross! Let him look into those listless eyes! Let him bathe in that fountain filled with blood—this will bring back to him his first love! This will restore the ancient holiness of his faith and the former tenderness of his soul! To you who think that you never were converted and probably never were—who have grown very hard and fear you never could by any possibility melt in repentance—I give this exhortation, and O, may the Holy Spirit enable you to obey it:
 
 Come to Jesus you vilest of men! Laboring ones, heavy laden ones, come to Jesus! Black, foul, filthy, hard-hearted ones, come to Jesus! He is able to save unto the uttermost them that come unto God by Him. We are not in Hell yet! The iron door has not grated on its hinges! The dread bolt has not yet slid into its socket! There is hope—for there is life. There is hope—for there is a promise! There is hope for there hangs the Savior—there is hope for me, for you, for both of us—if we go humbly to the Mercy Seat and take Christ to be our All in All! God help us to do it for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0619 The Golden Key Of Prayer|← #619]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0621 The Precious Blood Of Christ|#621 →]]

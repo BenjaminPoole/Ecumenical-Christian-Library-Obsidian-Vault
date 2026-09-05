@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Galatians 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Galatians 3:1-5
 

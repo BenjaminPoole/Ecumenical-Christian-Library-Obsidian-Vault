@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Taking Hold of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1377
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 7, 1877,.
+*Delivered on Lord's-Day Morning, October 7, 1877*
 
 > "There is none that calls upon Your name, that stirs up himself to take hold of You." Isaiah 64:7.
 
@@ -146,7 +145,6 @@ Oh for a John Knox! We need a leader, firm and heroic! We need a man strong and 
 God save us from the men of willow and gutta-percha and plaster of Paris, such as would be dear if you could buy them at a shilling the dozen! Take these away, O, Father Time, and give us back men of granite, men of backbone, say rather, men of God! Oh that each man among us were awakened to take hold of God and that all our faculties were stirred to their utmost depth and that then they grasped the Lord! Ho, comrades, don't you see the standard? It wavers! Shall it fall? The true soldier in the cruel fight, when he sees the standard-bearer struck down and the fight thickening all around the banner, stirs up all his strength and rushes into the strife as a lion leaps on his prey!
 
 He strains every sinew and throws every nerve into action, dashing forward to grasp the standard and to hold it aloft, touch it who dare! He strikes right and left and sooner than the banner shall be trailed in the mire, he will spill his life in crimson streams upon the ground! Up you soldiers of Christ! Up you lion-like men and turn the battle to the gate! May God help you to do it for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1376 The True Priesthood, Temple and Sacrifice|← #1376]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1378 The Righteous Father Known and Loved|#1378 →]]

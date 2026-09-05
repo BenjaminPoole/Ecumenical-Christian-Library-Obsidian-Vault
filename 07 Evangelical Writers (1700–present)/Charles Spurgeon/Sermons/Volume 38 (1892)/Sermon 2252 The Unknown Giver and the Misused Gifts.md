@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # The Unknown Giver and the Misused Gifts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2252
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal. Therefore I wiil return, and take away My corn in the time thereof, and My wine in the season thereof, and will recover My wool and flax." Hosea 2:8,9.
 
@@ -144,7 +141,6 @@ I have tried to speak very earnestly, but if I have failed to speak as tenderly 
 God grant that you may be led by the blessed Spirit to yield yourself to Him who has given you so much cause to trust Him! And to His name shall be eternal honor! Amen, and amen.
 
 Portion of Scripture Read before Sermon—Hosea 2.
-
 
 ---
 [[Sermon 2251 Our Compassionate High Priest|← #2251]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2253 The Perseverance of Faith|#2253 →]]

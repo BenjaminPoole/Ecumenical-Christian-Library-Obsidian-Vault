@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # One of the Master's Choice Sayings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3046
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But Jesus said unto them, They need not depart." Matthew 14:16.
 
@@ -119,9 +116,9 @@ Brothers and Sisters, the way to maintain fellowship with Christ is very simple.
 
 V. Once more, we "need not depart." That is to say, THERE IS NO REASON THAT CAN BE IMAGINED
 
-WHICH WOULD RENDER IT A WISE, PROPER AND GOOD THING FOR A CHRISTIAN TO DEPART FROM
+## Which Would Render It a Wise, Proper and Good Thing for a Christian to Depart From
 
-CHRIST.
+## Christ
 
 Suppose that the search after happiness is the great drift of our life, as the old philosophers assert—then we "need not depart" from Jesus to win it, for He is Heaven below! If you desire pleasure, forget not that the pleasures of God which are in Christ—His joy, the joy that fills His great heart—are more than enough to fill your heart! I sometimes hear people say, as an excuse for professors going to doubtful places of amusement, "You know, they must have some recreation." Yes, I know, but the re-creation which the Christian experienced when he was born-again has so completely made all things new to him, that the vile rubbish called recreation by the world is so dull to him that he might as well try to fill himself with fog as to satisfy his soul with such utter vanity! No, the Christian finds happiness in Christ Jesus—and when he needs pleasure, he does not depart from Jesus.
 
@@ -135,7 +132,7 @@ Now, if this is true, do not some of us feel very guilty? I could weep to think 
 
 this, nor blamed to that—it is our own fault. We "need not depart!" There never was any need for it and there never will be. May God's Grace descend mightily upon us so that we may henceforth abide in our Lord! May those who know Him not, be led to seek Him by faith even now, and find Him, and then even they shall not need to depart from Him at the last.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 14:13-36.
+## Exposition by C. H. Spurgeon: Matthew 14:13-36
 
 Verse 13. When Jesus heard of it, He departed from there by a boat into a desert place apart It is well for us to get alone with God when He takes Home the best and most faithful of His servants. Neither the Church nor the world could afford to lose such a man as John the Baptist—so it was well for Christ's disciples to retire with Him to a desert place that He might teach them the lesson of that highly-favored martyr's death.
 
@@ -172,7 +169,6 @@ Witnessed the fervor of Your prayer." He is not now on the bare mountainside, bu
 33\. Then they that were in the boat came and worshipped Him, saying, Of a truth You are the Son of God. This seems to have been the first time that the disciples arrived at this conclusion so as to state it so positively. Yet, do you not think that after the miraculous multiplication of the loaves and fishes they might have very fitly said, "Of a truth You are the Son of God"? Sometimes, however, one wonder will strike us more than another and, possibly it was because they were in danger when this second miracle was worked and, therefore, they the more appreciated the coming of Christ to them at midnight. They were in no danger when the multitude were fed. Perhaps they were not themselves hungry. That strikes us most which comes most home to us, as this miracle did.
 
 34-36. And when they were gone over, they came into the land of Gennesaret. And when the men of that place had knowledge of Him, they sent out into all that country roundabout and brought unto Him all that were diseased; and besought Him that they might only touch the hem ofHis garment: and as many as touched were made perfectly whole.
-
 
 ---
 [[Sermon 3045 Believers A Blessing|← #3045]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3047 If So—what Then|#3047 →]]

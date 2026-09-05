@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 176. Matthew 22:23-33; Mark 12:18-27; Luke 20:27-40
-
-MATTHEW 22:23-33; MARK 12:18-27;  
-LUKE 20:27-40
 
 **23.** The same day came to him the Sadducees, who say that there is no resurrection, and interrogated him, **24.** Saying, Master, Moses said, If a man die, not having a child, [^1] his brother shall marry his wife, and raise up seed to his brother. **25.** Now there were amongst us seven brothers, and the first, having married a wife, died, and, having no seed, left his wife to his brother. **26.** In like manner, the second, and the third, till the seventh. **27.** And last of all the woman died also. **28.** In the resurrection, therefore, whose wife shall she be of the seven? for they all had her. **29.** And Jesus answering said to them, You err, not knowing the Scriptures, nor the power of God. **30.** For in the resurrection they neither marry nor are given in marriage, but are as the angels of God in heaven. **31.** But as to the resurrection of the dead, have you not read what was spoken to you by God, saying, **32.** I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living. **33.** And when the multitudes heard it, they were astonished at his doctrine.
 

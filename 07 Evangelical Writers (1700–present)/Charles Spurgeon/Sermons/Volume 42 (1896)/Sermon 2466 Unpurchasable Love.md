@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Unpurchasable Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2466
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If a man would give all the substance of his house for love, it would be utterly despised." Song of Solomon 8:7.
 
@@ -95,7 +92,7 @@ We do not love Him merely for the substance of His house, but for Himself, and b
 
 IV. The last observation I shall have to make upon our text is this—THE LOVE OF SAINTS CANNOT BE
 
-BOUGHT OFF FROM CHRIST AT ANY PRICE.
+## Bought off from Christ at Any Price
 
 The love of some persons to religion is very cheaply bought and very speedily sold. It is very lamentable to notice the great numbers of persons who are quite content to go and worship God with Christian Brothers and Sisters, and to hear the Gospel preached while they are, themselves, poor, or in middling circumstances—but who find, as soon as they have accumulated a little wealth, that the world has a church of its own and they must go there, "because, you see, everybody goes there! And if you are cut off from Society, where are you?" I have been asked that question, sometimes, and I have replied, "Where are you? Why, where Christ would have you to be—'outside the camp, bearing His reproach.'" But that place of separation, "outside the camp," is a position which is not always taken up cheerfully by professedly Christian people! It is very sorrowful to see how, because God has entrusted them with wealth, they get drawn away from the Gospel and from the Church of God—and though they are troubled a little, at first, they soon get rid of one scruple after another and subside altogether into worldliness!
 
@@ -117,9 +114,9 @@ there let them be for His sake! Give me but a vision of the Crucified! Let me se
 
 If a man should give all the substance of his house to bribe the saints to sell their Lord, it would be utterly despised. By this test shall we prove you, O professors! By this trial shall it be known whether you can stand firm in the evil day. God grant that you may, for our Lord Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—792, 811, 808.
+## Hymns from "Our Own Hymn Book"—792, 811, 808
 
-EXPOSITION BY C. H. SPURGEON: LUKE20:9-16.
+## Exposition by C. H. Spurgeon: Luke 20:9-16
 
 Verse 9. Then He began to speak to the people this parable, A certain man planted a vineyard, and leased it to vinedressers, and went into a far country for a long time. It is a long time since Jesus left us and He has not yet returned. Many say that He is coming back very soon. Others say, "The Lord delays His coming."
 
@@ -136,7 +133,6 @@ Verse 9. Then He began to speak to the people this parable, A certain man plante
 16\. He shall come and destroy these vinedressers, and shall give the vineyard to others. And He did so! He scattered abroad the Jews and gave the Kingdom, for a while, at least, to the Gentiles. And they heard the Gospel which the Jews refused.
 
 16\. And when they heard it, they said, God forbid. That is exactly what you and I would say, for we, too, have ill-treated the blessed Lord of the vineyard and His beloved Son! Lest we should have the heritage taken from us, let us yield up the fruit to Him who has the best right to it all.
-
 
 ---
 [[Sermon 2465 Our Omnipotent Leader|← #2465]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2467 Christ and His Co-workers|#2467 →]]

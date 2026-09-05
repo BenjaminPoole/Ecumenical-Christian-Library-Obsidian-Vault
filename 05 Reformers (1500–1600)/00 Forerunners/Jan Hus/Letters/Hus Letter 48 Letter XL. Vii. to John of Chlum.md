@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 48. Letter XL. Vii. to John of Chlum
-
-LETTER XL VII. TO JOHN OF CHLUM
 
 (February 28 (?), 1415)
 

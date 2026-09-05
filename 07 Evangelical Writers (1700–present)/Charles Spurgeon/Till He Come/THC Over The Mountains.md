@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Over The Mountains
 
 *Till He Come* — Charles H. Spurgeon
 
 ## OVER THE MOUNTAINS.“My Beloved is mine, and I am His: He feedeth among the lilies. Until the day break, and the shadows flee away, turn, my Beloved, and be Thou like a roe or a young hart upon the mountains of Bether.”— Song of Solomon ii. 16, 17.
-
-## OVER THE MOUNTAINS.
 
 IT may be that there are saints who are always at their best, and are happy enough never to lose the light of their Father’s countenance. I am not sure that there are such persons, for those believers with whom I have been most intimate have had a varied experience; and those whom I have known, who have boasted of their constant perfectness, have not been the most reliable of individuals. I hope there is a spiritual region attainable where there are no clouds to hide the Sun of our soul; but I cannot speak with positiveness, for I have not traversed that happy land. Every year of my life has had a winter as well as a summer, and every day its night. I have hitherto seen clear shinings and heavy rains, and felt warm breezes and fierce winds. Speaking for the many of my brethren, I confess that though the substance be in us, as in the teil-tree and the oak, yet we do lose our leaves, and the sap within us does not flow with equal vigour at all seasons. We have our downs as well as our ups, our valleys as well as our hills. We are not always rejoicing; we are sometimes in heaviness through manifold trials. Alas! we are grieved to confess that our fellowship with the Well-beloved is not always that of rapturous delight; but we have at times to seek Him, and cry, “Oh, that I knew where I might find Him!” This appears to me to have been in a measure the condition of the spouse when she cried, “Until the day break, and the shadows flee away, turn, my Beloved.”
 
@@ -86,7 +83,6 @@ All things with Thy bride say ‘Come;’
 Jesus, whom all worlds adore,
 
 Come and reign for evermore!”
-
 
 ---
 [[THC Under The Apple Tree|← Under The Apple Tree]] · [[Till He Come|Till He Come Contents]] · [[THC Fragrant Spices From the Mountains of Myrrh|Fragrant Spices From the Mountains of Myrrh →]]

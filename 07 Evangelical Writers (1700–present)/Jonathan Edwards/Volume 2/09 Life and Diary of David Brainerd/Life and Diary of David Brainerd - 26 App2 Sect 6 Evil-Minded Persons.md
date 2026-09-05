@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # SECT. VI.
 
 Fourth difficulty in converting the Indians, viz. The designs of evil-minded persons to hinder the work.
@@ -33,7 +32,7 @@ These are some of the difficulties I have met with from the conduct of *those* w
 
 P. S. Since the conclusion of the preceding Journal which was designed to represent the operations of *one year* only, from the first time of my preaching to the Indians in New Jersey I administered the *sacrament* of the *Lord*’*s supper* a second time in my congregation, *viz.* on the 13th of July. At which time there were more than *thirty* communicants of the Indians, although divers were absent who should have communicated: so considerably has God enlarged our number since the former solemnity of this kind, described somewhat particularly in my Journal. This appeared to be a season of divine power and grace, not unlike the former; a season of refreshing to God’s people in general, and of awakening to some others, although the divine influence manifestly attending the several services of the solemnity, seemed not so great and powerful as at the former season.
 
-D. BRAINERD.
+## D. Brainerd
 
 ---
 

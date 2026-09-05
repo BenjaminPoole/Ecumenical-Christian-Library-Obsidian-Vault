@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/05
 ---
-
 # The Ceremony of Laying the First Stone of the New Tabernacle
 
 *New Park Street Pulpit* · Sermon No. 268
@@ -45,19 +44,19 @@ The Rev. C. H. SPURGEON.
 
 Deacons.
 
-SAMUEL GALE.
+## Samuel Gale
 
-GEORGE WINSOR.
+## George Winsor
 
-JAMES LOW.
+## James Low
 
-WILLIAM P. OLNEY.
+## William P. Olney
 
-THOMAS OLNEY.
+## Thomas Olney
 
-GEORGE MOORE.
+## George Moore
 
-THOMAS COOK.
+## Thomas Cook
 
 London,
 
@@ -103,7 +102,7 @@ And crown him Lord of all.
 
 Numerous donations were then placed upon the stone, after which the assembly separated.
 
-EVENING MEETING
+## Evening Meeting
 
 A PUBLIC TEA MEETING was held in the evening in REA’S Repository which was appropriately fitted up for the occasion. About two thousand persons sat down to tea at five o’clock, and at half-past six, the cloth having been removed, and the seats re-arranged, the chair was taken by the Right Hon. the LORD MAYOR.
 
@@ -240,7 +239,6 @@ The Doxology was then sung, and the proceedings terminated.
 *The Committee think it needful to add, that notwithstanding the very great assistance afforded upon this occasion, their enterprise is very far from accomplishment. The freehold ground has been purchased and paid for, the excavation and throwing in of concrete for foundations have also been completed; and when this expense shall also have been fully defrayed, the Committee will find themselves with about ten thousand pounds in hand. The present contract for the erection of the building is twenty thousand pounds, which does not include lighting, boundary walls, and necessary furniture. The Committee therefore earnestly appeal to the Church of Christ for help in their arduous undertaking.*
 
 *Subscriptions will be joyfully received by the Rev. C. H. SPURGEON; or by Mr. T. COOK, Hon. Sec., New Park Street Chapel, Southwark, S.E.*
-
 
 ---
 [[Sermon 0267 The Tabernacle of the Most High|← #267]] · [[Volume 05 (1859)|Volume 05 (1859) Contents]] · [[Sermon 0271 Faith Illustrated|#271 →]]

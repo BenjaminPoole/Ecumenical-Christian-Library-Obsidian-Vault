@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # The Suffering Savior's Sympathy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1974
-
-DELIVERED BY.
 
 > "For in that He Himself has suffered being tempted, He is able to succor them that are tempted." Hebrews 2:18.
 
@@ -148,7 +145,6 @@ surgeon, to say, "My bone is broken, but I shall not have it set until it begins
 Come, then, just as you are, saint or sinner, whoever you may be! Have done with yourself, your good self and your bad self, too, and say, "If I perish I will trust in Jesus." Trust in Jesus and you cannot perish. If you perish believing in Jesus, I must perish with you. I am in the same boat with you. You may be a very seasick passenger and I may be an able-bodied seaman, but if you are drowned, I shall be, for I cannot swim any more than you can. I depend upon the seaworthiness of this vessel of Free Grace in which we are embarked—and we must either reach the Fair Havens together, or sink together. You and I, poor broken-down one, oh, will we not sing when we get safely to land? Will we not sing? If we once get to Heaven, will we not sing aloud and clash the high-sounding cymbals with all our might? I will contend with you as to which shall praise God the most! You say that you will. I say that I shall! Will we not vie with each other and with all the blood-redeemed ones, sing hallelujah to God and the Lamb? If ever such sinners as you and I get inside the gates of Heaven, we will give forth such outcries of holy joy and gladness as never came from angels' throats, but can only come from the lips of sinners bought with blood
 
 The Lord, who succors the tempted, Himself, bless and comfort you! Amen.
-
 
 ---
 [[Sermon 1973 God's Nearness To Us|← #1973]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1975 The Covenanter|#1975 →]]

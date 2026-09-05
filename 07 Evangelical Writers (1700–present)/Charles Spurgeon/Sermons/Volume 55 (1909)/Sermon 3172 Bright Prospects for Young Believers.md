@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Bright Prospects for Young Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3172
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But unto you that fear My name shall the Sun of Righteousness arise with healing in His wings; and you shall go forth and grow up as calves of the stall." Malachi 4:2.
 
@@ -127,7 +124,7 @@ Now I have to say this to you who fear the Lord and who are seeking to have Chri
 
 May God grant us this blessing now! Let the prayer be breathed, "Arise upon us, Sun of Righteousness," and then let the other prayer follow, "Make us to go forth and to grow up like calves of the stall, and may we serve You, O God, and receive Your blessing world without end! Amen."
 
-EXPOSITION BY C. H. SPURGEON: LUKE10:25-42.
+## Exposition by C. H. Spurgeon: Luke 10:25-42
 
 Verses 25-28. And, behold, a certain lawyer stood up and tempted Him, saying, Master, what shall I do to inherit eternal life? He said unto him, What is written in the La w? How do you read it? And he answering, said, You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself And He said unto him, You have answered right this do and you shall live. Do any of you want to live by the Law? There is the Law. Does any man here pretend that he has kept it? Let me ask any man here who would justify himself by his own works—have you thought of God today? How much time have you spent with God? Or yesterday, how much of your time did you give Him—how many minutes? Would you venture to say that you spent a quarter of an hour in prayer? No. Perhaps if it comes to the truth, you did not spend five minutes. Now, if you loved God with all your heart and all your soul, and all your strength, and all your mind, do you think that five minutes would satisfy such a love as that? Oh, no, Sirs! You that are unconverted give God no love at all—and how can you think, therefore, that you are keeping His Law which puts it so strongly, "You shall love the Lord your God with all your heart? And with all your soul, and with all your strength, and with all your mind, and your neighbor as yourself? Have you ever done that? Neither the first nor the second table have you kept intact!
 
@@ -162,7 +159,6 @@ Verses 25-28. And, behold, a certain lawyer stood up and tempted Him, saying, Ma
 42\. And Mary has chosen that good part, which shall not be taken away from her And so He let her still sit there and hear His blessed Words—
 
 "Oh, that I could forever sit With Mary at the Master's feet— Be this my happy choice!"
-
 
 ---
 [[Sermon 3171 A Voice With Four Messages|← #3171]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3173 'As' and 'So'|#3173 →]]

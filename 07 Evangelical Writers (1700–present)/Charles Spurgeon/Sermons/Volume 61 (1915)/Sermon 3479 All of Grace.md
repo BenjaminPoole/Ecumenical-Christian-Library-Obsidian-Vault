@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # All of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3479
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For by Grace are you saved through faith; and that not of yourselves: it is the gift of God." Ephesians 2:8.
 
@@ -29,11 +26,11 @@ I am so much at home with these glorious Truths of God that I could not feel any
 
 I am not contradicting the testimony of forefathers who are now with God. If my grandfather could return to earth, he would find me where he left me—steadfast in the faith and true to that form of Doctrine which was once delivered to the saints. I shall handle the text briefly, by way of making a few statements. The first statement is clearly contained in the text—
 
-I. THERE IS PRESENT SALVATION.
+## I. There Is Present Salvation
 
 The Apostle says, " You are saved." Not, "you shall be," or, "you may be," but, "you are saved." He says not, "You are partly saved," nor, "on the way to being saved," nor, "hopeful of salvation," but, "by Grace are you saved." Let us be as clear on this point as he was and let us never rest till we know that we are saved! At this moment we are either saved or unsaved. That is clear. To which class do we belong? I hope that, by the witness of the Holy Spirit, we may be so assured of our safety as to sing, "The Lord is my strength and my song; He also has become my salvation." Upon this I will not linger, but pass on to note the next point.
 
-II. A PRESENT SALVATION MUST BE THROUGH GRACE.
+## II. A Present Salvation Must Be Through Grace
 
 If we can say of any man, or of any set of people, "You are saved," we shall have to preface it with the words, "by Grace." There is no other present salvation except that which begins and ends with Grace. As far as I know, I do not think that anyone in the whole world pretends to preach or to possess a present salvation, except those who believe salvation to be all of Grace. No one in the Church of Rome claims to be now saved—completely and eternally saved. Such a profession would be heretical! Some few Catholics may hope to enter Heaven when they die, but the most of them have the miserable prospect of "purgatory" before their eyes. We see constant requests for prayers for departed souls and this would not be if those souls were saved and glorified with their Savior! "Masses" for the repose of the soul indicate the incompleteness of the salvation which Rome has to offer. Well may it be so, since Papal salvation is by works—and even if salvation by good works were possible, no man can ever be sure that he has performed enough of them to secure his salvation!
 
@@ -51,7 +48,7 @@ Paul speaks of this salvation as belonging to the Ephesians, "By Grace are you s
 
 if saved at all, we must owe it to the free favor of God! I know it is so in my own case and I believe the same rule holds good in the rest of Believers. This is clear enough and so I advance to the next observation—
 
-III. PRESENT SALVATION BY GRACE MUST BE THROUGH FAITH.
+## III. Present Salvation by Grace Must Be Through Faith
 
 A present salvation must be through Grace and salvation by Grace must be through faith. You cannot get a hold of salvation by Grace by any other means than by faith. This live coal from off the altar needs the golden tongs of faith with which to carry it. I suppose that it might have been possible, if God had so willed it, that salvation might have been through works and yet by Grace, for if Adam had perfectly obeyed the Law of God, he still would only have done what he was bound to do—and so if God should have rewarded him, the reward, itself, must have been according to Grace— since the Creator owes nothing to the creature! This would have been a very difficult system to work, while the object of it was perfect, but in our case it would not work at all. Salvation in our case means deliverance from guilt and ruin. And this could not have been laid hold of by any measure of good works since we are not in a condition to perform any. Suppose I had to preach that you, as sinners, must do certain works and then you would be saved? And suppose that you could perform them? Such a salvation would not, then, have been seen to be altogether of Grace—it would have soon appeared to be of debt Apprehended in such a fashion, it would have come to you in some measure as the reward of work done and its whole aspect would have been changed. Salvation by Grace can only be gripped by the hands of faith! The attempt to lay hold upon it by the doing of certain acts of Law would cause the Grace to evaporate! "Therefore, it is of faith that it might be by Grace." "If by Grace, then is it no more of works: otherwise Grace is no more Grace. But if it is of works, then is it no more Grace: otherwise work is no more work."
 
@@ -61,7 +58,7 @@ Again, you cannot lay hold upon salvation by Grace through your feelings. The ha
 
 Moreover, the evidence yielded by feeling is singularly fickle. When your feelings are peaceful and delightful, they are soon broken in upon and become restless and melancholy. The most fickle of elements, the most feeble of creatures, the most contemptible of circumstances may sink or raise our spirits! Experienced men come to think less and less of their present emotions as they reflect upon the little reliance which can be safely placed upon them. Faith receives the statement of God concerning His way of gracious pardon and thus it brings salvation to the man believing! But feeling, warming under passionate appeals, yielding itself deliriously to a hope which it dares not examine, whirling round and round in a sort of frenzied dance of excitement which has become necessary for its own sustaining, is all on a stir, like the troubled sea which cannot rest. From its toiling and raging, feeling is apt to drop to lukewarmness, despondency, despair and all the kindred evils! Feelings are a set of cloudy, windy phenomena which cannot be trusted in reference to the eternal Truths of God. We now go a step further—
 
-IV. SALVATION BY GRACE, THROUGH FAITH, IS NOT OF OURSELVES.
+## IV. Salvation by Grace, Through Faith, Is Not of Ourselves
 
 The salvation, the faith and the whole gracious work together are not of ourselves!
 
@@ -73,7 +70,7 @@ Salvation by Grace, through faith, is not of ourselves in the sense of being the
 
 Even the very will to be saved by Grace is not of ourselves, but is the gift of God! There lies the stress of the question. A man ought to believe in Jesus—it is his duty to receive Him whom God has set forth to be a Propitiation for sins. But man will not believe in Jesus—he prefers anything rather than faith in his Redeemer! Unless the Spirit of God convinces the judgment and constrains the will, man has no heart to believe in Jesus unto eternal life! I ask any saved man to look back upon his own conversion and explain how it came about. You turned to Christ and believed on His name—these were your own acts and deeds. But what caused you to turn? What sacred force was that which turned you from sin to righteousness? Do you attribute this singular renewal to the existence of a something better in you than has been yet discovered in your unconverted neighbor? No, you confess that you might have been what he now is if it had not been that there was a potent something which touched the spring of your will, enlightened your understanding and guided you to the foot of the Cross! Gratefully we confess the fact! It must be so. Salvation by Grace, through faith, is not of ourselves, and none of us will dream of taking any honor to ourselves from our conversion, or from any gracious effort which has flowed from the first Divine Cause. Last of all—
 
-V. "BY GRACE ARE YOU SAVED THROUGH FAITH AND THAT NOT OF OURSELVES—IT IS THE GIFT OF GOD."
+## V. "By Grace Are You Saved Through Faith and that Not of Ourselves—it Is the Gift of God."
 
 Salvation may be called Theodora, or God's gift. And each saved soul may be surnamed, Dorothea, which is another form of the same expression. Multiply your phrases and expand your expositions, but salvation truly traced to its wellhead is all contained in the unspeakable gift—the free, unmeasured benison of love!
 
@@ -82,7 +79,6 @@ Salvation is the gift of God, in opposition to a wage. When a man pays another h
 Salvation is the gift of God—that is to say completely so—in opposition to the notion of growth. Salvation is not a natural production from within. It is brought from a foreign zone and planted within the heart by heavenly hands! Salvation is in its entirety a gift from God. If you will have it, there it is, complete! Will you have it as a perfect gift, "No. I will produce it in my own workshop." You cannot forge a work so rare and costly upon which even Jesus spent His life's blood! Here is a garment without seam, woven from the top throughout. It will cover you and make you glorious! Will you have it? "No. I will sit at the loom and I will weave a raiment of my own!" Proud fool that you are! You spin cobwebs! You weave a dream! Oh, that you would freely take what Christ upon the Cross declared to be finished!
 
 It is the gift of God. That is, it is eternally secure in opposition to the gifts of men, which soon pass away. "Not as the world gives, give I unto you," says our Lord Jesus. If my Lord Jesus gives you salvation at this moment, you have it and you have it forever! He will never take it back—and if He does not take it from you, who can? If He saves you, now, through faith, you are saved—so saved that you shall never perish, neither shall any pluck you out of His hand. May it be so with all of us! Amen.
-
 
 ---
 [[Sermon 3478 Go Back Never!|← #3478]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3480 Fragrant Graces|#3480 →]]

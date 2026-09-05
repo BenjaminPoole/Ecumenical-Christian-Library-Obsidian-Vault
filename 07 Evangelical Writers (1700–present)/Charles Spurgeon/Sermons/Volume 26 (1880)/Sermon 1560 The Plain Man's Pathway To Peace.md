@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Plain Man's Pathway To Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1560
-
-DELIVERED BY.
 
 > "And when Jesus departed from there, two blind men followed Him, crying and saying, You son of Da vid, have mercy on us! And when He was come into the house, the blind men came to Him: and Jesus said unto them, Do you believe that I am able to do this? They said unto Him, Yes, Lord. Then He touched their eyes, saying, According to your faith be it unto you. And their eyes were opened; and Jesus straitly charged them, saying, See that no one knows it." Matthew 9:27-30.
 
@@ -154,7 +151,6 @@ He answered that he thought it was a good thing for ministers to be poor because
 Is it not useful to have some who can say, "Well, dear Heart, don't be troubled because the great dog of Hell did not howl at you. If you have entered the gate calmly and quietly and Christ has received you, do not be troubled because you are not barked at by the devil, for I, too, came to Jesus just as gently and safely and sweetly as you have done"? Such a testimony will comfort the poor soul and so, if you lose the power to sympathize one way, you will gain the power to sympathize in another—and there will be no great loss, after all. To sum it all up—I would that every man and woman and child here would come and trust the Lord Jesus Christ! It seems to me to be such a matchless plan of salvation—for Christ to take human sin and to suffer in the sinner's stead and for us to have nothing to do but just to accept what Christ has done and to trust ourselves wholly with Him!
 
 He that would not be saved by such a plan as this deserves to perish—and so he will! Was there ever so sweet, so sure and so plain a Gospel? It is a joy to preach it! Will you have it? Dear Souls, will you not yield to be nothing and have Jesus to be All in All? God grant that none of us may reject this way of Grace, this open way, this safe way. Come, linger no longer. The Spirit and the bride say "Come." Lord, draw them by the love of Jesus! Amen.
-
 
 ---
 [[Sermon 1559 Tokens For Good|← #1559]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1561 Asleep and Yet Awake—a Riddle|#1561 →]]

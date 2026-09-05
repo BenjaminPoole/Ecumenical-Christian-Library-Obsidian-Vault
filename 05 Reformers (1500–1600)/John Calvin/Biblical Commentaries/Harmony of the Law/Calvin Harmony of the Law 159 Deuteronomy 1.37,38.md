@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 159. Deuteronomy 1:37,38
 
 **A Reputation of the same History**
-
-**Deuteronomy 1**
 
 **37.** Also the Lord was angry with me for your sakes, saying, Thou also shalt not go in thither.
 

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 29
 
-**CHAPTER 29.**
+***Chapter 29.***
 
 ## Genesis 29:1-35
 

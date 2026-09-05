@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 24. No. XVII. Letter of Mary Queen of Scots to Lord James Prior of the Monastery of St. Andrews. July 1559
 
 ## No. XVII.
 
-LETTER OF MARY QUEEN OF SCOTS TO LORD JAMES PRIOR OF THE MONASTERY OF ST. ANDREWS. JULY 1559.
+## Letter of Mary Queen of Scots to Lord James Prior of the Monastery of St. Andrews. July 1559
 
 Calderwood, when noticing the arrival of the Sieur de Bethancourt in Scotland, speaks of his bringing "forged letters" to Lord James Stewart; but the whole of his account (vol. i. p. 498,) was evidently derived from Knox, but whose words are, "with letteris, as was allegit:" see supra, page 384. Spottiswood, on the other hand, throws no doubt on their genuineness, but says the bearer was Monsieur Crock; and he inserts (Hist. p. 130,) a different version of that of Francis the Second, from the one which Knox has given, and also the following letter, of which Knox, at page 386, only makes mention to quote the concluding phrase. "The letter (says Spottiswood) sent by the Queen, was of the tenor following:—
 

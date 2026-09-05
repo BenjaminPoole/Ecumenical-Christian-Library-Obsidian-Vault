@@ -10,7 +10,6 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 8
 
 **Chapter 8**
@@ -57,7 +56,7 @@ Now God complains with his Prophet; and we must always mark the object and consi
 
 ## Prayer Lecture 21
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast treated us so indulgently, and when provoked by our iniquities, hast yet shown thyself a propitious Father to us, that we may no longer abuse thy patience, but return directly to thy way and submit ourselves to thee — and, being humbled by a true sense of penitence, grant that we may be so dissatisfied with our sins, that we may devote ourselves to thee with our whole heart and follow the direction of thy holy calling; until after finishing the pursuits of this rife, we may arrive at that happy repose which thine only-begotten Son has acquired for us by his blood. — Amen.
 
@@ -101,7 +100,7 @@ He now mentions the third kind of idolatry by which the Jews polluted the temple
 
 ## Prayer Lecture 22
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast delivered to us a sure rule of worship, which cannot deceive us, and since thy Son became for us a perfect master of all wisdom and of solid piety, that we may obediently follow whatever he prescribes for us, and turn neither to the right hand nor the left; but being content with that simplicity which we have learnt from his Gospel, may go on in the course of our holy calling, until at length, that pursuit being finished, we may arrive at the perfect state of thy glory, and may so enjoy it that we may be transformed into it, as thou hast promised us by the same Jesus Christ our Lord. — Amen.
 

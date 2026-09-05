@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # God Pleading For Saints, And Saints Pleading For God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 579
 
-DELIVERED ON SUNDAY MORNING, JULY 10, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 10, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Lamentations 3:58.
 
@@ -79,7 +78,7 @@ Beloved, "Who shall lay anything to the charge of God's elect? It is God that ju
 
 3\. In the third place, Jesus pleads the cause of my soul in the Court of Conscience which is a minor imitation of the great Court of Heaven. Let me talk to your hearts now, Brothers and Sisters, as the Lord helps me. Sometimes you have doubts and fears springing up and conscience assists them, for it says, "You know what a guilty worm you are! What? You a saved soul? It was but the other day that you were murmuring at God, and doubting His faithfulness!
 
-Look at your prayers—what cold things they are! See your daily life—what inconsistencies mingle with it! Mark your temper—how quick! How fierce! Look at yourself as to spiritual things—was there ever a more poverty-stricken soul than you are? Why, you are as black as the tents of Kedar and quite as filthy. Can you see any good thing in your- self? Why, are you not a very sink of corruption, a walking dunghill, a mass of abominations? And yet you say, 'I am a child of God'? How can it be?" And now, when these thoughts arise, you and I find it sometimes rather hard to answer them. And if we go upon the common logic of human reason and begin to argue, "But I do find in myself some humblings of soul. I have some melting desires towards the Lord God. I find this and that and therefore I have some evidence," it is ten to one that conscience and the devil together will beat us and we shall be ready to lie down in despair.
+Look at your prayers—what cold things they are! See your daily life—what inconsistencies mingle with it! Mark your temper—how quick! How fierce! Look at yourself as to spiritual things—was there ever a more poverty-stricken soul than you are? Why, you are as black as the tents of Kedar and quite as filthy. Can you see any good thing in your-self? Why, are you not a very sink of corruption, a walking dunghill, a mass of abominations? And yet you say, 'I am a child of God'? How can it be?" And now, when these thoughts arise, you and I find it sometimes rather hard to answer them. And if we go upon the common logic of human reason and begin to argue, "But I do find in myself some humblings of soul. I have some melting desires towards the Lord God. I find this and that and therefore I have some evidence," it is ten to one that conscience and the devil together will beat us and we shall be ready to lie down in despair.
 
 But, oh, how sweet it is when our soul tells of the finished work of the Lord Jesus Christ! Then—I hope that I am now talking what you all know and many of you know sweetly—then as you turn to Jesus Christ and see the precious Person of the perfect Savior pouring out streams of cleansing blood—there is a voice which speaks to you and pleads the cause of your soul! You feel, "Let conscience say what he may, this blood has answered him! Let the devil suggest what he will, this complete Atonement shall shut his mouth!" "I will," says Rutherford, in one of his sweet letters, "I will hold to Christ under water and if I must drown I will not let go my hold of Him."
 
@@ -121,7 +120,7 @@ But how different the condition of the poor man who lived and died in undeserved
 
 II. Now I want your solemn and earnest attention while for a few minutes I plead for what is our reasonable service, namely, THAT IF THE LORD HAS PLEADED THE CAUSES OF OUR SOUL, WE SHOULD PLEAD HIS CAUSE
 
-WHILE WE HAVE ANY BREATH TO PRAY OR A TONGUE WITH WHICH TO BEAR WITNESS FOR HIM.
+## While We Have Any Breath to Pray or a Tongue with Which to Bear Witness for Him
 
 Pleading the cause of Christ is the lifework of the Christian—it has to be done by some in the high places of the field. This age has given up all witness-bearing for Christ. We have grown so enamored of that gilded idol called charity that nowadays the Truth of God is fallen in the streets. It has come to be, by general consent, allowed by all men that religion is all very well in its way. That every man must keep his own religion and not meddle with other people's—that a lie may be a truth, or a truth may be a lie and that whether a doctrine is a truth or a lie does not matter a button—that, in fact, we are all of us to be agreed upon this one point—that God's Truth is not worthy our contending for.
 
@@ -148,7 +147,6 @@ Now John was very sensitive and his whole soul was filled with grief at Joseph's
 Beloved, witness thus for Christ! Be it mine to weep for the sins of the times and prophecy against them! Be it yours in your own private walk and conversation to rebuke private sin and by your loving earnestness to make Jesus Christ dear to many souls! Tell them that Jesus Christ came to save sinners! Tell them that He is able to save to the uttermost all who come to Him! Tell them that, "whoever believes on Him shall not perish, but have everlasting life," and in this way you shall plead the cause of God, who has pleaded the causes of your soul.
 
 Adapted from The C.H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
-
 
 ---
 [[Sermon 0578 A Bad Excuse Is Worse Than None|← #578]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0580 God Is With Us|#580 →]]

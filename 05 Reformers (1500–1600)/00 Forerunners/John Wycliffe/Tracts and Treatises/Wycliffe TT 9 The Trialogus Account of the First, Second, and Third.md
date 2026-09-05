@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 9. The Trialogus: Account of the First, Second, and Third Books
 
-BEING SOME ACCOUNT OF THE FIRST, SECOND, AND THIRD BOOKS
+*Being Some Account of the First, Second, and Third Books*
 
-OF THE TRIAL0GU8.
+## Of the Trial 0gu8
 
 The work of our Reformer which bears the name of the Trialogas, is so called because it consists of a series of colloquies between three speakers. The names of these speakei*s are Alithia, Pseuois, and Phronesis — or Truth, Falsehood, and Wisdom. The opinions and reasonings of Alithia, accordingly, are to be regarded as those of Truth ; those of Pseudis as being the contrary of truth ; while in the person of Phronesis, WyclifTe himself speaks ; and in setting forth his judgment on the points at issue, he generally assigns such reasons for his opinions as tend to expose the sophistry of Pseudis, and to sustain the views of Alitliia.
 
@@ -33,7 +32,7 @@ That there should have been men during the middle age disposed to bestow a labor
 
 * " Doctor in theologia eminentlasimus in diebus illis. In philosophia nulli reputabatur secundus : in seholasticis diaciplinis incomparabilis. Hie maxime nitebatur aliorum ingenia subtilitate teientia et proAmditafc Ingtnii ml tnuMeandeni.''— JTiqiyiJhlofi, p. 2044.
 
-110 THE TRIALOOU8.
+## 110 the Trialoou 8
 
 impassioiied, have been united in strong proportions in the same men. In Pascal, that purely intellectual concentration which is so necessary to success in the exact sciences, was combined with the imagination of the poet, and with the feeling of the saint. But opposites of this nature meet in something like equal apportionments in the weak, much more frequently than in the strong : and among the reformers it is in the genius of Calvin that we see, in this respect, the nearest reflection of the mind of Wycliffe.
 
@@ -53,7 +52,7 @@ In another place, the mind of man is viewed as consisting eminently in '' memory
 
 • Chap. TtSi. S3.
 
-112 THE TRIALOGUS.
+## 112 the Trialogus
 
 kind of trinity in man, but as a species of revelation in man concemiog the Trinity in the Divine nature. To the modern metaphysician, reasoning of this nature will appear as singularly open to objection, and many of the objections to which it is exposed were strongly urged against it even in those times ; but such is the potency of circumstancei and fashion, even in respect to such matters, that this method of treating theological subjects long retained its hold upon the learned, and is only partiaUy superseded even in our own day.
 
@@ -69,7 +68,7 @@ BOOK THE SECOND. 113 knowing, fa they did, that the imprisonment and burden of t
 
 " In respect to every man we must come to this same conclusion. For if we afiirm that immortality belongs to the nature of any one individual, this same property must necessarily be inherent in every individual of a like nature ; otherwise, it would not be inherent by nature, but by 6hance, or from some other adventitious cause, which we cannot describe, because supposing that soul might have been destroyed in tlic lapse of time by its contrary, or by any other cause, every one would have become liable to destruction ; otherwise there would have been in it a liability to destruction, without any cause. For things which come
 
-1 I A THE TRIALOGUS.
+## 1 I a the Trialogus
 
 to their termination at the end of certain periods of time, dp not kst for ever, because if they did, they would become possessed of an infinite power, beyond that Ixilonging to things of a similar specic-s, which endure only for a limited space. Since, then, man has a longing to exist together with God, as the noblest and most natural limit of his desires, no reason can be assigned, apart from his own demerit, which should hinder the accomplishment of such a purpose, especially when we remember that the destruction of the body does not AnniKilati* that soul, but rather gladdens it.
 
@@ -89,7 +88,7 @@ The next four chapters consist of observations, partly scriptural, and partly co
 
 The first chapter in this book is " On the Virtues." Phroncsis intimates his intention of stating his views on this subject, both pi*actically and speculatively, and accordingly commences by enmnerating the various classes of virtues. He' divides them into the created and tmcreated. The former are separated into natural and moral. The natural virtues are described as the divisible and indivisible. The
 
-1 1 THE TKIALOOUS.
+## 1 1 the Tkialoous
 
 moral virtues consist of such as belong to man naturallyi and of such as are termed theological, — as faith, hope, and charity. Virtue of the former description is defined by Aristotle as consisting in that disposition, or habit of mind, which chooses the medium most suitable to the individual, according to the dictates of reason. The cardinal virtues are four, — justice, fortitude, prudence, and temperance. The intellectual virtues of which man is capable are five, each of them regulating, according to reason, the moral virtue which corresponds to it. These five virtues, or powers, are — wisdom, intellect, science, art, and prudence. In this class of virtues wisdom holds the highest rank. Intellect is defined as that faculty by which we gain our knowledge of the fundamental principles of science, such as that the same thing cannot be, and not be, at the same time, and that the whole must be greater than its parts. By science, we arrive at the results of scientific investigation. Art consists, not so much in the manual dexterity which enables us to create works of art, as in a theoretic knowledge of the principles on which all such works should be modelled. Lastly, the office of prudence is direct and practical, and is most closely connected with the moral virtues, each one of which may be said to have its special kind of prudence belonging to it.
 
@@ -129,7 +128,7 @@ BOOK THI$ THIRD. Ill) pursuit of some branch of knowledge that may bring him mon
 
 " Thus, then, private sects deprived their members of charity. But Christ, who wished his law to be observed in freedom, that its obsen'ance might earn a more happy reward, appointed no infiiction of sensible punishment on its transgressors, but has abandoned the person neglecting it to a suffering more severe after the day of judgment. Arc tho.^c three virtues, then, faith, hope, chaiuty, anything less than banished now-a-days? The fear of the sensible penalty immediately to be infiictcd on the violator of human law, makes those laws to be carefully observed ; and accordingly, faith, hope, and charity, in obedience to the law of the Lonl, are things that slumber. No one can convince us by reason, that when two objects of choice are set before a man, and \w
 
-W) THE TRIALOGUS.
+## W) the Trialogus
 
 pursues the one, letting go, or taking no nodoe of the other, that be does so from any other motive than Grom an utter wtaA, or at least an inferior degree of love, for that which he n^lects. And thus should we judge of the lovers of the world or the flesh. And in this manner these three theological virtues grow coldL
 
@@ -165,7 +164,7 @@ The fifteenth chapter is '' On Patience and Meekness," and teaches in the follow
 
 '^ AU Christians, then, should be the soldiers of Christ, and it is plain how many are chargeable with insensibility to this duty, inasmuch as the fear of losing temporal goods, and worldly friendships, and apprehensions of the insecurity of life and fortune, prevent so great a number from being faithful either in setting forth the cause of God, in standing manfully for its defence, or, if need be, suffering death in its behalf. From such a source, also, comes that subterfuge of Lucifer urged by our modern hypocrites, who say, that to suffer martyrdom cannot be a duty now as it was in the primitive church, since in our time all men, or at least the great majority are believers — so that the tyrant is no more who may persecute Christ and his members to the death, and this is the cause why there are not martyrs now, as formerly. But it is certain that this excuse has been devised by Satan, to shield sin ; for the believer in maintaining the law of Christ should be prepared, as his soldier, to endure all things at the hands of the proud rulers of this world," so as to declare boldly to the pope and cardinals, to bishops and prelates, how unjustly, according to the testimony of the Gospel, they serve God in their offices, inflicting perilous injury on those committed to their care, such as must bring on them a speedy destruction, one way or another. All this applies to temporal lords, but not in so great a degree as to the clergy ; for as the abomination of desolation begins with a perverted clergy, so the consolation begins with a converted clergy. Hence we Christians need not visit pagans to convert them by enduring martyrdom in their behalf, but have only to declare with constancy the law of Christ even
 
-124 TUE TRIALOGCS.
+## 124 Tue Trialogcs
 
 before Cesarean prelates, and straightway the flower of martyrdom will be at hand.'^
 
@@ -219,7 +218,7 @@ On " the Incarnation," the Reformer discourses as follows : —
 
 " As we discern the imcreated l^inity, by reasoning a posteriori from the trinity of the soul, so from the union of the soul and body wo become acquainted with the incarnation of our Lord. For as the created spirit, united to the animated body, makes one human person, the same as to the spirit, however the corporeal nature may vary, so we must, in great part, form our conception in regard to the person of the Word ; because he assumed in the unity of his person, a complete humanity, becoming that human person which had an eternal preexistence, inasmuch as according to his nature, as the Word, he had existed from eternity. We are not to understand, that the created spirit in man has any perception which it does not communicate to the compound person of man, but whatever the hiunan spirit perceives, that the compound person perceives, and vice versd. We must consider in the same light the person of the Word, and the manhood assumed, so that the compound divine person perceives whatever the person of the Word perceives. And whatever the assumed humanity sufiers, that compound person suffers. We are not to imderstand that the person of the Word, or the Deity, is part of that man, just as the aforesaid spirit is not
 
-12S THE THIALOGUS.
+## 12s the Thialogus
 
 an integral part of man, but in reality the whole naan. Hence we see, that as in the matter of the Trinity, three persons are the same divine nature, so in th(i matter of the incarnation, three natures, namely, — ^body, soul, and the Divine nature, are each the same person of the Word."
 
@@ -247,9 +246,9 @@ It is bv reasoning, which, pushed to its resohs, mtut lead to impiety of this co
 
 It is expedient, he adds, to the obtaining of such a complete acquaintance with the Scriptures, that the believer should be instructed in sound logic, and by a philosophy chastened finom the Lord. Then follows a reference to the " manifold armour" with which the disciple of truth should be provided, when opposed to ^ the disciples of Antichrist.'' The modern reader will probably smile, when he finds among the requisites enumerated, such matters as the following — just views in respect to *' universals ; " such an acquaintance with " the metaphysics of the scliofils " as may include a knowledge of " the quiddity of time, and other accidents, and how it is that accidents are nothing but di*)j)ositions formally inherent in their subjects ; " such an acquaintance, moreover, with the nature of the Creator and the created, and the relations Ix-tween them, as to see that God is an " everlasting ideal,*' an "eternal existence in his own genus, and a necessary antecedent;" and to see that " the essence of matter is everlasting, and material forms only so many arrangements of it, though they are quiddities of specie's and genera ! " But we must concede much in this form to the tastes of a man who — " In philosophia nulli rcputabatur secundus : in scholasticis disciplinis incomparabilis."
 
-ON THE EUCHARIST. 131
+## On the Eucharist. 131
 
-SECTION II.
+## Section II
 
 ---
 [[Wycliffe TT 8 On the Remaining Writings of Wycliffe Still in|← 8. On the Remaining Writings of Wycliffe]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 10 The Trialogus Chapters Translated from the Fourth Book|10. The Trialogus Chapters Translated from →]]

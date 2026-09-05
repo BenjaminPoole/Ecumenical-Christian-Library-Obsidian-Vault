@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Our King, Our Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 963
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 27, 1870,.
+*Delivered on Lord's-Day Morning, November 27, 1870*
 
 > "Let the children of Zion bejoyful in their King." Psalm 149:2.
 
@@ -184,7 +183,6 @@ He wants not slaves to grace His Throne—rejoicing hearts are His delight. You 
 Let not the enemy laugh us to scorn because of our trembling. But let us charge home with renewed vigor, for Truth, for God, for Christ, for the Cross, for the everlasting decrees of a sovereign God, for the majesty of the Holy Spirit who will effect those decrees in the heart of men! Let us set up our banners anew and advance to the fight! Let us strengthen ourselves in God this day and go forth to the conflict, which if it is severe, will, nevertheless most certainly yield all the more glorious a victory to Him who is our King, and to us who loyally serve Him, even as we rejoice in Him this day!
 
 O that all were subjects of this King! Would God that those who are not reconciled to our Almighty Monarch would seek His face this morning! He will give them mercy through Jesus the Savior—may they seek it and find it. Amen.
-
 
 ---
 [[Sermon 0962 A Personal Application|← #962]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0964 The Essence Of The Gospel|#964 →]]

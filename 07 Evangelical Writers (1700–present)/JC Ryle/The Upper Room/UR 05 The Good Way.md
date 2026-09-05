@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # The Good Way
 
-Chapter V · *The Upper Room* — J. C. Ryle
+## Chapter V · *The Upper Room* — J. C. Ryle
 
 > — Jer. 6:16[^1]
 
@@ -114,7 +113,6 @@ Last, but not least, look forward with confidence to a better rest in a world to
 There is a good time coming for all who have come to Christ in the "old paths," and committed their souls into His keeping. They will remember all the way by which they have been led, and see the wisdom of every step in the way. They will wonder that they ever doubted the kindness and love of their Shepherd. Above all, they will wonder that they could live so long without Him, and that when they heard of Him they could hesitate about coming to Him.
 
 There is a pass in Scotland called Glencroe, which supplies a beautiful illustration of what heaven will be to the man who comes to Christ. The road through Gleneroe carries the traveller up a long and steep ascent, with many a little winding and many a little turn in its course. But when the top of the pass is reached, a stone is seen by the wayside, with these simple words engraven on it, "Rest, and be thankful." Those words describe the feelings with which every one who comes to Christ will at length enter heaven. The summit of the narrow way will be won: we shall cease from our weary journeying, and sit down in the kingdom of God. We shall look back over all the way of life with thankfulness, and see the perfect wisdom of every little winding and turn in the steep ascent by which we were led. We shall forget the toils of the upward journey in the glorious rest. Here in this world our sense of rest in Christ at best is feeble and partial; but "when that which is perfect is come, that which is in part shall be done away." Thanks be unto God, a day is coming when the end of the "old path" will be reached, and believers shall rest perfectly, and be thankful!
-
 
 ---
 [[UR 04 Foundation Truths|← Foundation Truths]] · [[The Upper Room|Upper Room Contents]] · [[UR 06 One Blood|One Blood. →]]

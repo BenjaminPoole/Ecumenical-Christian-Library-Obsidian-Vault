@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Soul Saving Our One Business
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1507
-
-DELIVERED BY.
 
 > "I am made all things to all men, that I might by all means save some." 1 Corinthians 9:22.
 
@@ -126,7 +123,6 @@ garment woven from the top throughout, without seam—and I think He would have 
 You cannot pull people out of the water without stooping down and getting hold of them. If you have to deal with bad characters you must come down to them, not in their sin, but in their roughness and in their style of language so as to get a hold of them. I pray God that we may learn the sacred art of soul-winning by adaptation. They called Mr. Whitefield's chapel at Moorfields, "The Soul Trap." Whitefield was delighted and said he hoped it always would be a soul trap! Oh that all our places of worship were soul traps and every Christian a fisher of men, each one doing his best, as the fisherman does, by every art and artifice, to catch those they fish for! Well may we use all means to win so great a prize as a spirit destined for eternal weal or woe!
 
 The diver plunges deep to find pearls and we may accept any labor or hazard to win a soul. Rouse yourselves, my Brothers and Sisters, for this God-like work and may the Lord bless you in it! I commend these wandering thoughts to your earnest attention. I pray the ungodly to think of what their ruin will be unless they come to Jesus and trust in Him. And I ask Believers to be doubly earnest, from this time forth, in laboring to save the souls of men! And may God send us such a blessing that we shall not have room to receive it! Amen.
-
 
 ---
 [[Sermon 1506 Choice Comfort for a Young Believer|← #1506]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1508 The Philosophy of Promise|#1508 →]]

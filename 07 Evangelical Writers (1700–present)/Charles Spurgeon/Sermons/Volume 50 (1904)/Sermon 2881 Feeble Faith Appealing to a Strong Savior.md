@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Feeble Faith Appealing to a Strong Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2881
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And immediately the father of the child cried out and said with tears, Lord, I believe; help my unbelief." Mark 9:24.
 
@@ -89,7 +86,7 @@ I close with this one thought. If, poor Soul, it is your lack of faith that stan
 
 Do I need to ask you, Sirs, a thousand times, to believe the Truth of God? Must I, over and over again, say to you as Jesus said to the Jews, "Because I tell you the truth, you believe me not"? If Christ is not worthy of being believed, then He is a liar. If Christ cannot be trusted, then He is wrongly named. Oh, do not drive us to the inference that you think thus of Him! Commit your soul into His hands this very moment and have done with it, once and for all, for His dear name's sake. Amen!
 
-EXPOSITION BY C. H. SPURGEON: MAARK92-29
+## Exposition by C. H. Spurgeon: Maark 92-29
 
 Verses 2-6. And after six days Jesus took with Him Peter, and James, and John, and led them up into an high mountain apart by themselves and He was transfigured before them. And His raiment became shining, exceedingly white as snow, so as no fuller on earth could whiten them. And there appeared unto them Elijah with Moses: and they were talking with Jesus. And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for You, and one for Moses, and one for Elijah. For he knew not what to say; for they were afraid. Brothers and Sisters, like these disciples of our Lord, we are not yet fit to be favored with a sight of His Glory. As we now are, we could not bear it. As our poet says—
 
@@ -128,7 +125,6 @@ bear with you?" Often, He must derive more pain than pleasure from communion wit
 23\. Jesus said unto him. Catching at his words, "If You can do anything"—
 
 23-29. If you can believe, all thing are possible to him that believes. And straightway the father of the child cried out and said with tears, Lord, I believe; help my unbelief! When Jesus saw that thepeople came running together, he rebuked the foul spirit, saying unto him, You deaf and dumb spirit, I charge you come out of him and enter no more into him. And the spirit cried, and convulsed him sorely and came out of him: and he was as one dead; insomuch that many said, He is dead. But Jesus took him by the hand, and lifted him up; and he arose. And when He was come into the house, His disciples asked Him privately, Why could not we cast him out? And He said unto them, This kind can come forth by nothing but by prayer and fasting. There are some things which we are not fit to do until we have drawn very near to God and have been deeply humbled and, with sincere repentance and the gracious operation of the Holy Spirit, have been cleaned so as to receive so great a gift. Faith alone will not accomplish everything. Faith must be accompanied by prayer, and prayer must be, at least sometimes, in special cases, attended with fasting. The Lord makes reserves of His mercies which He does not give immediately. Even to the request of faith, He demands importunity on our part and heart-searching, and heart-cleansing before the blessing will be bestowed.
-
 
 ---
 [[Sermon 2880 New Tokens of Ancient Love|← #2880]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2882 Forgiveness and Fear|#2882 →]]

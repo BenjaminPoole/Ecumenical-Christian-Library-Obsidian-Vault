@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Search Warrant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2898
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But there are some of you that believe not." John 6:64.
 
@@ -89,7 +86,7 @@ Oh, what peace it gives to know that you are now forgiven, now blessed, now save
 
 known by those who are saved and who know that they are saved. May that be your case and mine, Beloved! Christ's own words are, "He that believes and is baptized shall be saved; but he that believes not shall be damned." May God bless us all with the true belief which is eternal life to all who possess it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 12:1-32.
+## Exposition by C. H. Spurgeon: Luke 12:1-32
 
 The teaching of our Lord in this chapter has very much to do with Christianity in connection with this present life, its cares and troubles. God has nowhere promised us exemption from affliction and trial. Indeed, it has been said, with much truth, that the Old Testament promise was one of prosperity, but that the New Testament promise is one of tribulation. You may rest assured that if it had been best for us to be taken directly to Heaven when we were converted, the Lord would have done it! But as He has not done so, there are wise reasons why He keeps His people here for a while. The gold must go through the fire before it has its place in the king's crown—and the wheat must be exposed to the winnowing fan before it can be taken into the heavenly garner.
 
@@ -130,7 +127,6 @@ that He knows me." And surely there is a great force in that Truth of God! Your 
 rayed like one of these. If then God so clothes the grass, which is today in the field, and tomorrow is cast into the oven; how much more willHe clothe you, Oyou oflittle faith? And seek not whatyou shall eat, or whatyou shall drink, neither be you of a doubtful mind. For all these things do the nations of the world seek after: and your Father knows that you have need of these things. So that, with the knowledge of His guarantees to you that you shall always have enough, why do you need to be care-worn and anxious? I have often looked at birds in a cage and thought of the happiness and carelessness of heart which they seem to exhibit. And yet, if you were to forget to give them water, or if you were to fail to give them seed, how soon they would die! Perhaps the little creature has not enough to last it more than one day, but it goes on singing its tune and leaves all anxiety about tomorrow to those whose business it is to care for it. You would be ashamed to let your bird starve—and will your Heavenly Father let you, who are not His birds, but His children, starve? Oh, no! "Your Father knows that you have need of these things."
 
 31, 32. But rather seek you the Kingdom of God; and all these things shall be added unto you. Fear not, little flock; for it is your Father's good pleasure to give you the Kingdom. He does not give you all that you would like to have, but He is going "to give you the Kingdom." He gives the lesser gifts to others, but He is saving up the Kingdom for you! Luther once said, "All the empires of the earth are only so much meal for God's swine—but the treasure is for His children. They may have less meal, but they shall have the Eternal Kingdom." Oh, how blessed are we if, by faith, we know that this is true concerning us! "It is your Father's good pleasure to give you the Kingdom"!
-
 
 ---
 [[Sermon 2897 The Source|← #2897]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2899 'To You'|#2899 →]]

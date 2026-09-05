@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Life Proved by Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2556
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We know that we have passed from death unto life, because we love the brethren." 1 John 3:14.
 
@@ -93,7 +90,7 @@ It is also a sure mark of Grace when we love the company of God's people as a pe
 
 God grant us all to have a share in this precious knowledge, for Christ's sake! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM32.
+## Exposition by C. H. Spurgeon: Psalm 32
 
 A Psalm of David, giving instruction. The 32nd Psalm is a Gospel benediction. It belongs not to the law—it is a word which can only come of Sovereign Grace to the guilty. The very first sentence tells us that.
 
@@ -122,7 +119,6 @@ Verse 1. Blessed is he whose transgression is forgiven, whose sin is covered. Bl
 10\. But he that trusts in the LORD, mercy shall compass him about ' 'He that trusts in the Lord"—he is the very opposite of the wicked. Do you trust in the Lord, my Friend? If not, you will have to be put among the wicked, for there are only two sorts of people in the world—the wicked and those that trust in the Lord! If you are not a believer in Christ, you must go with the other company. "He that trusts in the Lord, mercy shall compass him about." Mercy shall go all round him, before him, behind him, above him, beneath him, within him and around him everywhere! As you see the moon, sometimes, with a halo around it, so shall you be—you shall have brightness within and round about you, mercy shall compass you about.
 
 11\. Be glad in the LORD, and rejoice, you righteous: and shout for joy, all you that are upright in heart If anybody has a right to be glad, you have! So indulge the gladness and magnify the name of the Lord.
-
 
 ---
 [[Sermon 2555 The Stronghold|← #2555]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2557 A Vexed Soul Comforted|#2557 →]]

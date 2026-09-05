@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # The Lord No More Angry with His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2176
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For this is as the waters of Noah unto Me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be angry with you, nor rebuke you." Isaiah 54:9.
 
@@ -138,7 +135,6 @@ meet with, "Believe on the Lord Jesus Christ, and you shall be saved." "Ho, ever
 You can prove your knowing this for yourselves by your desire to make it known to others—and you have need to doubt whether you truly understand the salvation of the Lord in your own soul if you feel no inward impulse to make others know the glorious promise of your Lord. May God bless you, dear Friends, by putting this text right into your souls! I can only lay it near the open door of your ears, but the Holy Spirit can place it in the inner depths of your hearts. May He do so at once, for His name's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Isaiah 54.
-
 
 ---
 [[Sermon 2175 So It Is|← #2175]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2177 Camp Law and Camp Life|#2177 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 30
-
-**PSALM 30.**
 
 David having been delivered from great danger, not only renders thanks to God apart by himself, but at the same time invites and exhorts all the pious to perform the same duty. He then confesses that he had flattered himself too confidently in his prosperity, and that his security had justly been chastised. In the third place, having briefly expressed his sorrow, he returns again to thanksgiving.
 

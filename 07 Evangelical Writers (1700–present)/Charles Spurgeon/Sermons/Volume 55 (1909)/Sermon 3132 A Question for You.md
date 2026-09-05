@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # A Question for You
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3132
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Do you believe on the Son of God?" John 9:35.
 
@@ -51,7 +48,7 @@ This man might have said, "I have had my eyes opened. I was blind, but now I see
 
 III. Thirdly, the text seems to me to give A HINT AS TO THE REASONABLENESS OF BELIEVING IN JESUS
 
-CHRIST.
+## Christ
 
 Our Savior seems to say to this man, not in words, but in reality, "You have had your eyes opened. A great deal has been done for you. Now, do you believe on the Son of God? It is a natural inference, from the opening of the eyes of a man who has been born blind, that the One who has opened them is Divine—have you perceived that great Truth of God? Do you see it now?" "Why," I think I hear you all say, "He ought to see it! There ought certainly to be, in such a miracle as that, enough to convince him. He has been in darkness all his life, and now he has had his eyes opened, so that He who opened his eyes must be the Son of God." Very well, but what about yourselves? You say that you believe the Bible—then how is it that you do not believe on the Son of God? You say that the testimony of God in Scripture is true. Then why do you not believe it? Why do you not trust your soul to Him who you know is able to save you? You know what faith is—then why do you not exercise it? You know that the things which you are bid to believe are true. Then how is it that you do not believe these things? Some of you have heard the Gospel preached many hundreds of times. A hundred and more times every year I have tried to batter away at the doors of your hearts! And sometimes you have been a great deal impressed by the Truth that you have heard. You have gone home and prayed over the sermon, or you have sat here and wept under it. You have said truly that God has come very near to you—then how is it that you have not believed in Him? You have, perhaps, seen your daughter saved. Your wife, also, you know to be a Believer in the Lord Jesus Christ. You have seen your sister brought to Jesus. You remember what wonders of Grace God worked for your old father and how triumphantly your dear mother went home to Heaven! You believe that all this is true—then you are no atheist, no skeptic. You believe that Jesus Christ can save you and you also believe that He will save you if you trust Him. What reason can there be, then, why you do not trust Him?
 
@@ -81,7 +78,7 @@ I knew a man who thought he would go to Heaven alone and never tell anybody that
 
 Why is it that some of you who believe in Jesus, are so backward in confessing your faith in Him? Do not profess to believe if you do not, but if you do believe in Jesus, I ask again, why are you so backward in confessing your faith? Jesus Christ said to His disciples, "Go you into all the world and preach the Gospel to every creature." And then He told them what Gospel to preach, "He that believes and is baptized shall be saved." You see the two parts of it. "Ah," you say, "you Baptists make a great deal of Baptism." We Baptists do not make any more of Baptism than the Lord Jesus Christ has done! But I was not talking about Baptists, I was talking about the words of the Lord Jesus Christ as they are recorded in the New Testament. He says, "He that believes and is baptized shall be saved." Is not that plain? Someone asks, "Can we not be saved without being baptized? "I am not going to answer such a question as that! My business is to bid you listen to what Jesus Christ says, "He that believes and is baptized shall be saved." Give good heed to what Christ says, and raise no questions concerning it. For my part, I am going to run no risks and, therefore, I take the whole passage just as it stands! My Master alone knows the relative importance of the two parts of the message, but I am bound to deliver His message just as I have received it. Suppose I send a servant to my front door with a message and the person to whom it is sent says to her, "Your master did not mean all that," she would naturally say, "I have nothing to do with what my master means—I have only to tell you what he said." So say I concerning what my Master said—and what He said was—"He that believes and is baptized shall be saved." And He has also said, "Whoever, therefore, shall confess Me before men, him will I confess also before My Father which is in Heaven. But whoever shall deny Me before men, (which is here the same thing as not confessing Him), Him will I also deny, (or, not confess), before my Father which is in Heaven." Come along then, you who have been hiding yourselves! Come forth and confess that Jesus Christ is yours!
 
-EXPOSITION BY C. H. SPURGEON: JOHN9.
+## Exposition by C. H. Spurgeon: John 9
 
 Verse 1. And as Jesus passed by, He saw a man who was blind from his birth. Therefore the man could not see Jesus, but the more important matter was that Christ could see the blind man! And you, dear Heart, may not yet have learned to look on Christ, but He can look on you in your blindness—and a look from Him will speedily work a wondrous change in you!
 
@@ -136,7 +133,6 @@ simple means to cure this man's blindness, very unlikely means, apparently, to p
 37-40. And Jesus said unto him, You have both seen Him, and it is He that talks with you. And he said, Lord, I believe. And he worshipped Him. And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind. And some of the Pharisees which were with Him heard these words, and said unto Him, Are we blind also?"Are we blind?" It seemed impossible to them that it could be so! Jesus answered them with scathing words.
 
 41\. Jesus said unto them, If you were blind, you would have no sin: but now you say, We see. Therefore your sin remains. "If what you have done had been done in utter ignorance, you would have been comparatively guiltless. But you have sinned against light and knowledge, with a most determined antipathy to the Grace of God and, therefore, your sin remains in all its scarlet hue to condemn you."
-
 
 ---
 [[Sermon 3131 The Fainting Hero|← #3131]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3133 Christ's Prayer for Believers|#3133 →]]

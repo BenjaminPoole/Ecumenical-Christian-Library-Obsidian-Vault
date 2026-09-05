@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 21
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD'S MULTIPLICATION TABLE**
+## **God's Multiplication Table**
 
 > A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time" Isa. 60:22
 
@@ -23,7 +22,6 @@ Works for the Lord often begin on a small scale, and they are none the worse for
 "A small one." What can be more despicable in the eyes of those who count heads and weigh forces! Yet this is the nucleus of a great nation. Only one star shines out at first in the evening, but soon the sky is crowded with countless lights.
 
 Nor need we think the prospect of increase to be remote, for the promise is, "I Jehovah will hasten it in his time." There will be no premature haste, like that which we see at excited meetings; it will be all in due time; but yet there will be no delay. When the Lord hastens, His speed is glorious.
-
 
 ---
 [[FCB October 20|← October 20]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 22|October 22 →]]

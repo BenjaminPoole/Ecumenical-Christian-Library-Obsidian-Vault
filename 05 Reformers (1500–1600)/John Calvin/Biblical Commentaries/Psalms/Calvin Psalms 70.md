@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 70
-
-**PSALM 70**
 
 This psalm is merely a part of the fortieth, and the inscription, *To* *call to remembrance,* is perhaps designed to indicate this; David having taken these five verses out of that other psalm, and accommodated them for being used on some particular occasion. I shall only here repeat the words of the text; and would refer the reader for the interpretation to the proper place.
 

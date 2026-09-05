@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Believer Not An Orphan
 
 *Till He Come* — Charles H. Spurgeon
 
 ## THE BELIEVER NOT AN ORPHAN. “I will not leave you comfortless: I will come to you.”—John xiv. 18.
-
-## THE BELIEVER NOT AN ORPHAN.
 
 YOU will notice that the margin reads, “I will not leave you orphans: I will come to you.” In the absence of our Lord Jesus Christ, the disciples were like children deprived of their parents. During the three years in which He had been with them, He had solved all their difficulties, borne all their burdens, and supplied all their needs. Whenever a case was too hard or too heavy for them, they took it to Him. When their enemies well nigh overcame them, Jesus came to the rescue, and turned the tide of battle. They were all happy and safe enough whilst the Master was with them; He walked in their midst like a father amid a large family of children, making all the household glad. But now He was about to be taken from them by an ignominious death, and they might well feel that they would be like little children deprived of their natural and beloved protector. Our Saviour knew the fear that was in their hearts, and before they could express it, He removed it by saying, “You shall not be left alone in this wild and desert world; though I be absent in the flesh, yet I will be present with you in a more efficacious manner; I will come to you spiritually, and you shall derive from My spiritual presence even more good than you could have had from My bodily presence, had I still continued in your midst.”
 
@@ -130,7 +127,6 @@ On His kingly, conquering way;
 In the glory,
 
 Bride and Bridegroom reign for aye!”
-
 
 ---
 [[THC A Word From the Beloved's Own Mouth|← A Word From the Beloved's Own Mouth]] · [[Till He Come|Till He Come Contents]] · [[THC Communion With Christ And His People|Communion With Christ And His People →]]

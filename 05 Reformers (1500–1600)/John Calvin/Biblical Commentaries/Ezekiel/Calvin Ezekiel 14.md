@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 14
 
-**CHAPTER 14**
+***Chapter 14***
 
 ## Ezekiel 14:1-3
 
@@ -41,7 +40,7 @@ He shows God’s object in being unwilling to dismiss without an answer the hypo
 
 ## Prayer Lecture 37
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are so inclined to all kinds of vices, that we may be restrained by the power of thy Spirit: then that we may be attentive to the teaching which sounds continually in our ears, so that we may persevere in the pure worship of thy name; and thus being strengthened against the cunning of the wicked, may we be upheld in our weakness, and preserved from all error, until we finish our course, and arrive at the goal which is proposed to us in Christ Jesus our Lord. — Amen.
 
@@ -83,7 +82,7 @@ In another sense Jeremiah says that he was deceived (Jeremiah 20:7). I am deceiv
 
 ## Prayer Lecture 38
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are so prone to error, that thy truth may always shine upon us amidst the darkness of this world: Grant, also, that we may gaze upon it with open eyes, and subject ourselves to thee with true docility, so that being governed by both thy Word and thy Spirit, we may fulfill our course, and at length arrive at that happy rest, which your only begotten Son has prepared for us. Amen.
 
@@ -138,7 +137,7 @@ Again, *and I will stretch forth, my hand upon it, and will break the staff of b
 
 ## Prayer Lecture 39
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you shine so clearly upon us with the teaching of thy Gospel, in which thy Son reveals himself familiarly to us, — Grant that we may not shut our eyes to this light, or turn them hither and thither by depraved curiosity, but may remain in simple obedience, until at length having passed through the course of this life, we may arrive at the fullness of light, when you will transform us into thy glory by the same — your only-begotten Son. — Amen.
 
@@ -192,7 +191,7 @@ For he says, *a departure of those who go forth shall come: sons as well as daug
 
 ## Prayer Lecture 40
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you daily exercise thy judgments in all parts of the world, and since many regions are harassed by pestilence and war, that so long as you spare us we may profit by the evils and slaughters of others: Grant, also, if thy scourges reach also unto us, that we may not be obstinate, but may submit ourselves to thy judgment, and being truly humble, may we seek pardon by the serious pursuit of piety, so that we may truly acknowledge thee; and may feel thee to be a propitious Father to us, until at length we enjoy thy love in thy heavenly kingdom, through Christ our Lord. — Amen.
 

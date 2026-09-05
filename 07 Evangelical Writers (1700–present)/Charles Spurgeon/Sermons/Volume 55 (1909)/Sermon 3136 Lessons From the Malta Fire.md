@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Lessons From the Malta Fire
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3136
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They kindled a fire, and received us, every one, because of the present rain, and because of the cold." Acts 28:2.
 
@@ -115,7 +112,7 @@ Thus have I used a very simple incident to set forth very important Truths of Go
 
 [Mr. Spurgeon's Exposition of Acts 28 was too long for insertion here. It must be used with a shorter sermon. The Exposition here given belongs to Sermon #3127, Volume 55—A PROMISE AND A PRECEDENT.]
 
-EXPOSITION BY C. H. SPURGEON: JOHN16:1-14.
+## Exposition by C. H. Spurgeon: John 16:1-14
 
 Verses 1-3. These things have I spoken unto you, that you should not be offended. They shall put you out of the synagogues: yes, the time comes that whoever kills you will think that he does God service. And these things will they do unto you because they have not known the Father, nor Me. True followers of Christ must not reckon upon having the world's commendation. At first the Jews persecuted the Christians. Then the Romans took up the cruel work and others have continued it, in some form or other, even to this day, for the persecution of the saints has not yet ceased. There are many who still have hard times and have to endure trials of cruel mocking for Christ's sake. If you resolve to follow Christ, men will be sure to call you old-fashioned, ridiculous, Puritan and I know not what besides—yet what does it matter to you if they do? Your Master foretold that it would be so.
 
@@ -136,7 +133,6 @@ HOLY SPIRIT—THE GREAT TEACHER—Read/download the entire sermon, free of charg
 Christ said that He did not bear witness to Himself, but spoke the words which His Father had given Him, so the Spirit of God does not speak of Himself, but He bears witness to the Truth which Christ has revealed, and also makes known "things to come." But He will never reveal anything contrary to that which Christ has revealed in His Word. That which is to be revealed is that Truth which was from the beginning. As we are taught it by the Divine Spirit, it becomes fresh Truth to us, though it was always in Christ's eternal mind.
 
 14\. He shall glorify Me: for He shall receive of Mine, and shall show it unto you. Oh, that this blessed Spirit may continually show the things of Christ to us!
-
 
 ---
 [[Sermon 3135 A Golden Sentence|← #3135]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3137 Soul Satisfaction|#3137 →]]

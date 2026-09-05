@@ -9,14 +9,13 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**TO THE MOST ILLUSTRIOUS PRINCE**
+***To the Most Illustrious Prince***
 
-**CHRISTOPER,**
+## **Christoper,**
 
-**DUKE OF WIRTEMBERG, EARL OF MONTEBELIARD, ETC.**
+## **Duke of Wirtemberg, Earl of Montebeliard, Etc.**
 
 Though personally unknown to you, most illustrious Prince, I venture unhesitatingly [^1] to dedicate to you one of my productions. It may be thought that so bold a step will be censured by some persons as rash, and therefore demands an apology. Nothing is more easy. A few words shall suffice. My motives to address you are chiefly two.
 

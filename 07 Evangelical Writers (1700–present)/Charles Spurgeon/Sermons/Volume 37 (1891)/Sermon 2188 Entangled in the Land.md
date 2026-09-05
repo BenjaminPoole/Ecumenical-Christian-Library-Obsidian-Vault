@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Entangled in the Land
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2188
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness has shut them in." Exodus 14:3.
 
@@ -79,7 +76,7 @@ A friend came to me with a great difficulty, supposing that I could answer it of
 
 II. I have thus shown you what our danger is. Now, secondly, let us think of OUR SECURITY UNDER THIS
 
-TRIAL.
+## Trial
 
 My text is, "Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness has shut them in." Upon this I make the first observation, that this is not true. It is only what Pharaoh said. And so when Satan says, "They are entangled in the land," it is not true! It is only one of the sayings of the Father of Lies. "They say"—says one. Well, what do they say? Let them say it—their saying it will not make it true. A troubled one comes to me and complains of a certain charge which has been made. And he adds, as the sharp edge of it all, "Sir, it is not true." Well, then, do not fret about it! One cries out, "They are taking away my character and I feel it keenly because what they say is cruelly false." Friend, do not feel it at all! You ought to feel it only if what they say is true.
 
@@ -116,7 +113,6 @@ If you, my Friend, will come and cast yourself on Christ and take Him to be your
 Oh, no! The devil may say that we are entangled in the land, the wilderness has shut us in! But we shall get out of the labyrinth right enough. Is it not written, "Sin shall not have dominion over you: for you are not under the law, but under Grace"? We shall yet sing unto the Lord who has triumphed gloriously. He has thrown our sins and our fears into the sea. So be it! Hallelujah! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Exodus 13:21,22; 14.
-
 
 ---
 [[Sermon 2187 Jesus—All Blessing and All Blessed|← #2187]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2189 A Call To Prayer and Testimony|#2189 →]]

@@ -9,12 +9,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
 
 **EPISTLE TO THE ROMANS.**
-
-**THE ARGUMENT**
 
 With regard to the excellency of this Epistle, I know not whether it would be well for me to dwell long on the subject; for I fear, lest through my recommendations falling far short of what they ought to be, I should do nothing but obscure its merits: besides, the Epistle itself, at its very beginning, explains itself in a much better way than can be done by any words which I can use. It will then be better for me to pass on to the Argument, or the contents of the Epistle; and it will hence appear beyond all controversy, that besides other excellencies, and those remarkable, this can with truth be said of it, and it is what can never be sufficiently appreciated — that when any one gains a knowledge of this Epistle, he has an entrance opened to him to all the most hidden treasures of Scripture.
 

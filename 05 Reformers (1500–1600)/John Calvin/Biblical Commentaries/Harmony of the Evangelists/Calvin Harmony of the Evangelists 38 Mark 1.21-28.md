@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 38. Mark 1:21-28;Luke 4:31-36
-
-**MARK 1:21-28; LUKE 4:31-36**
 
 **21**. And they entered into Capernaum, and immediately on the Sabbaths, entering into the synagogue, he taught. **22**. And they were astonished at his doctrine; for he was teaching them, as one invested with authority, and not as the Scribes. **23**. And there was in their synagogue a man liable to an unclean spirit, who cried out, **24**. Saying, Ah! what have I to do with thee, Jesus of Nazareth? Art thou come to destroy us? I know thee who thou art, the Holy One of God. **25**. And Jesus rebuked him, saying, Hold they peace, and go out of him. **26**. And when the unclean spirit had torn him, and had cried with a loud voice, he went out from him. **27**. And all were astonished, so that they inquired among themselves, saying, What is this? What new doctrine is this? for with authority he commandeth even the unclean spirits, and they obey him. **28**. And immediately his fame went out into every part of Galilee.
 

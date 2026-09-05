@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # "They Were Tempted"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1528
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 14, 1880,.
+*Delivered on Lord's-Day Morning, March 14, 1880*
 
 > "They were tempted." Hebrews 11:37.
 
@@ -142,7 +141,6 @@ Such is the Church of God on earth. The Lord makes the instruments down here and
 But here is a being with a soul, encumbered with materialism and it has known sin, known it terribly and yet it is forever bound to do right beyond fear of turning aside! How is this to be achieved? Take away its free agency, says one. No, that would spoil it! It would be no longer a man if free agency were destroyed. This being is perfectly free to do whatever he pleases throughout eternity and yet he will never wish to do a wrong thing again! It is a wonderful work for God to fashion such a creature! He begins to do it in regeneration and continues the work in sanctification—and all the endurance of trial and all the patience manifested by the tried ones work together to prepare a character which can endure the strain of everlasting bliss and perform the holy service incident thereto!
 
 I speak for every Christian here—I am to stand, one day, so near to God that between Him and me there will be but one Person and that Person the Lord Jesus Christ, my Lord and Mediator! I am, in Christ, to have dominion over all the works of God's hands and to be crowned with glory and honor! Angels are to be my servants and Heaven my inheritance! Shall I never grow proud? Shall no self-exaltation creep in? No! The character will be fixed for holiness as though engraved in eternal brass and yet the man will be free! It may be that all the afflictions and temptations which God permits to pass over us here below are forming us for eternal bliss. Thus is the corn ripening for the garner, the fruit mellowing for the basket! Here the engraving tool and the hammer bring out the beauties which shall shine in the courts of the Lord forever when, of us, also, the record will be written—"they were tempted."
-
 
 ---
 [[Sermon 1527 Perfect Sanctification|← #1527]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1529 A Powerful Reason For Coming To Christ|#1529 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 222. Mark 16:19-20; Luke 24:50-53
-
-**MARK 16:19-20; LUKE 24:50-53**
 
 **19.** And after the Lord had thus spoken to them, he was taken up into heaven, and sat down at the right hand of God. **20.** And they went out and preached everywhere, the Lord working with them, and confirming the word by accompanying signs.
 

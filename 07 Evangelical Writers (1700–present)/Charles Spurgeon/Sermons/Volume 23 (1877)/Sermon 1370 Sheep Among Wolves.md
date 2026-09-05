@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Sheep Among Wolves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1370
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 19, 1877,.
+*Delivered on Lord's-Day Morning, August 19, 1877*
 
 > "Behold, I send you forth as sheep in the midst of wolves: be you therefore wise as serpents, and harmless as doves." Matthew 10:16.
 
@@ -144,7 +143,6 @@ I believe that even in affairs of State, truth is wisdom. No diplomatic agent wo
 There, then, is the policy of your warfare—be prudent, but be innocent and simple-minded. Oh, the power of truthfulness! Do not believe that men are strong in proportion as they are artful. By no manner of means! Do not believe that they are strong in proportion as they can bend a fist. No, the power of a Christian must lie in his holy heart, in his earnest tongue and in his look of love. By this he shall vanquish, and by nothing else! The conclusion of my sermon is this. Does it come home to you, Brothers and Sisters? Do you hear the Lord sending you out to work? Then I entreat you, go forth! Suppose I make that one sentence my last word—"go forth"?
 
 You may have heard of the Scot officer who had his men drawn up for the battle and felt bound to make them a speech. He pointed to the enemy, and said, "There they are, lads. If you don't kill them, they will kill you." My words are the same—There are the enemies of all righteousness, the enemies of Christ, the enemies of the good of men, the enemies of progress—if you do not overthrow them by publishing the Gospel to all according to your ability, they will overthrow you! Which is it to be? By the Grace of the Eternal and the Omnipotence of Him who bled for us, we will conquer even by His Cross after His own fashion! Only let His Holy Spirit rest upon us. Amen.
-
 
 ---
 [[Sermon 1369 Proclamation of Acceptance and Vengeance|← #1369]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1371 Brave Waiting|#1371 →]]

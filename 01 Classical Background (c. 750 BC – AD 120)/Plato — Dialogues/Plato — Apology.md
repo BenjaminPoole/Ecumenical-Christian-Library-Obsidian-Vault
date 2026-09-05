@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Apology
 *trans. Benjamin Jowett*
 
@@ -25,17 +24,10 @@ by Plato
 
 Translated by Benjamin Jowett
 
-
-Contents
-
  INTRODUCTION
  APOLOGY
 
-
-
-
-INTRODUCTION.
-
+## Introduction
 
 In what relation the “Apology” of Plato stands to the real defence of
 Socrates, there are no means of determining. It certainly agrees in
@@ -267,9 +259,7 @@ might be an evil, but then he has none to give; perhaps he can make up
 a mina. Let that be the penalty, or, if his friends wish, thirty minæ;
 for which they will be excellent securities.
 
-
            [_He is condemned to death._]
-
 
 He is an old man already, and the Athenians will gain nothing but
 disgrace by depriving him of a few years of life. Perhaps he could have
@@ -305,7 +295,6 @@ done him no harm, although they never meant to do him any good.
 He has a last request to make to them—that they will trouble his sons
 as he has troubled them, if they appear to prefer riches to virtue, or
 to think themselves something when they are nothing.
-
 
 “Few persons will be found to wish that Socrates should have defended
 himself otherwise,”—if, as we must add, his defence was that with which
@@ -465,11 +454,7 @@ engaged in friendly intercourse. Nor is there any trace in the
 Dialogues of an attempt to make Anytus or Meletus personally odious in
 the eyes of the Athenian public.
 
-
-
-
-APOLOGY
-
+## Apology
 
 How you, O Athenians, have been affected by my accusers, I cannot tell;
 but I know that they almost made me forget who I was—so persuasively
@@ -1216,7 +1201,6 @@ that there are gods, and in a sense higher than that in which any of my
 accusers believe in them. And to you and to God I commit my cause, to
 be determined by you as is best for you and me.
 
-
 There are many reasons why I am not grieved, O men of Athens, at the
 vote of condemnation. I expected it, and am only surprised that the
 votes are so nearly equal; for I had thought that the majority against
@@ -1301,7 +1285,6 @@ therefore I propose that penalty: Plato, Crito, Critobulus, and
 Apollodorus, my friends here, bid me say thirty minæ, and they will be
 the sureties. Let thirty minæ be the penalty; for which sum they will
 be ample security to you.
-
 
 Not much time will be gained, O Athenians, in return for the evil name
 which you will get from the detractors of the city, who will say that

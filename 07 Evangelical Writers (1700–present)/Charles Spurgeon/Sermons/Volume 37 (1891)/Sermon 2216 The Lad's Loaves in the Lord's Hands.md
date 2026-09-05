@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Lad's Loaves in the Lord's Hands
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2216
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus took the loaves." John 6:11.
 
@@ -132,7 +129,6 @@ I am almost done, but again I cannot help reminding those who are not Christ's, 
 She went into the kitchen and had her fire all ready, and her food—but all the while she was putting things in the pot she kept saying to herself, "I am not saved." And so it was when she was busy all the afternoon and when her husband came home, she could not help blurting it out to him, "Oh, Husband, I am not saved!" But he was—and, by God's Grace, he pointed her to Christ! They knelt together, and oh, how he prayed with her! She found that which she so earnestly sought and it was not very many days before she could say, "Oh, Husband, by His Grace I am saved!" May that be the case with you! The Lord bless every one of you, wherever you may be! We shall all meet in the Day of Judgment. May you and I meet there without fear, to sing of the Sovereign Grace of God, which saved us from the wrath to come and helped us while we were here to bring our little, and put it into Christ's hands! The Lord be with you! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 6.
-
 
 ---
 [[Sermon 2215 Young Man! A Prayer For You|← #2215]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2217 Three Names High on the Muster Roll|#2217 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Institution of religious worship an evidence of forgiveness
-
-*Institution of religious worship an evidence of forgiveness.*
 
 VII. *God’s institution of religious worship, and honour therein to be rendered unto him by sinners*, is another evidence that there is forgiveness with him. I have instanced before in one particular of worship to this purpose, — namely, in that of sacrifices; but therein we intended only their particular nature and signification, how they declared and manifested reconciliation, atonement, and pardon. That now aimed at is, to show how all the worship that God hath appointed unto us, and all the honour which we give unto his holy majesty thereby, is built upon the same foundation, — namely, a supposition of forgiveness, — and is appointed to teach it, and to ascertain us of it; which shall briefly be declared. To this end observe, —
 
@@ -65,7 +62,6 @@ The end of all these things, as we shall afterward at large declare, is to encou
 Take heed, you that hear or read these things; if they are not mixed with faith, they will add greatly to your misery. Every argument will be your torment. But these considerations must be insisted on afterward.
 
 Moreover, if you will take into your minds what hath been delivered in particular concerning the nature and end of the worship of God which you attend unto, you may he instructed in the use and due observation of it. When you address yourselves unto it, remember that this is that which God requires of you who are sinners; that this he would not have done but with thoughts and intention of mercy for sinners. Bless him with all your souls that this is laid as the foundation of all that you have to do with him. You are not utterly cast off because you are sinners. Let this support and warm your hearts when you go to hear, to pray, or any duty of worship. Consider what is your principal work in the whole. You are going to deal with God about forgiveness, in the being, causes, consequents, and effects of it. Hearken what he speaks, declares, or reveals about it; mix his revelation and promises with faith. Inquire diligently into all the obedience and thankfulness, all those duties of holiness and righteousness, which he justly expects from them who are made partakers of it. So shall you observe the worship of God unto his glory and your own advantage.
-
 
 ---
 [[PEPC 24 Farther evidences of forgiveness with God|← Farther evidences of forgiveness with God]] · [[Practical Exposition upon Psalm Cxxx|Contents]] · [[PEPC 26 The giving and establishing of the new covenant another evidence of forgiveness|The giving and establishing of the new covenant another evidence of forgiveness with God →]]

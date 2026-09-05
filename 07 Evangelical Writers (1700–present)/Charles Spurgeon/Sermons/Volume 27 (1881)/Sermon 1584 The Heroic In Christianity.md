@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Heroic In Christianity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1584
 
-DELIVERED ON LORD'S-DAY-MORNING, FEBRUARY 20, 1881,.
+*Delivered on Lord's-Day-Morning, February 20, 1881*
 
 > "For if you love them which love you, what credit is that to you? For sinners also love those that lo ve them. And if you do good to them which do good to you, what credit is that to you? For sinners also do even the same. And if you lend to them of whom you hope to receive, what credit is that to you? For sinners also lend to sinners, to receive as much again." Luke 6:32-34.
 
@@ -130,7 +129,6 @@ If that sight touches you not, let me remind you of a further scene—He went in
 He has not a rag, for they have stripped Him, yes, stripped and scourged your Lord! And they are hissing at Him, jesting at His prayers and scoffing at His cries—all this at your Lord! And what of you? The other day you were ashamed to acknowledge that you were His disciple. Are you not disgusted at such cowardice? You were silent the other day when sinners were blaspheming Him—you were stingy when His poor people needed help! You refused to give when His Church and His cause knocked at your door! You would not forgive a fellow Christian the other day and you parted company with one who had been your friend for years—and all for a hot word!
 
 And yet you call yourself a Christian? Yes, and I, too, am a Christian and have my own private cause for self-humiliation—and that is our Master bleeding there. How can we bear to look Him in the face? What sorry disciples we are! O blessed Master, let Your blood drop on us till You have blotted out these many faults of ours and made us like Yourself! Amen and amen!
-
 
 ---
 [[Sermon 1583 Choice Food for Pilgrims to Canaan|← #1583]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1585 Truthfulness|#1585 →]]

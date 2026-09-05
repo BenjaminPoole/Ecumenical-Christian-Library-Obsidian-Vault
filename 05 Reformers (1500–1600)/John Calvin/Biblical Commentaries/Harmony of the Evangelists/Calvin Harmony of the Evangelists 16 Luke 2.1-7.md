@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 16. Luke 2:1-7
-
-**LUKE 2:1-7**
 
 **1**. Now it happened in those days, an edict came out from Augustus Caesar, that the whole world should be registered. [^1] **2**. This first registration [^2] was made when Cyrenius was governor of Syria. **3**. And all went to make the return, [^3] each in his own city. **4**. And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, into the city of David, which is called Bethlehem, (because he was of the house and lineage of David,) **5**. To make the return with Mary [^4] his betrothed wife, who was pregnant. **6**. And it happened while they were there, the days of bringing forth were fulfilled. [^5] **7**. And she brought forth her first-born son, and wrapped him in bandages, [^6] and laid him in a manger; [^7] because there was no room for them in the inn.
 

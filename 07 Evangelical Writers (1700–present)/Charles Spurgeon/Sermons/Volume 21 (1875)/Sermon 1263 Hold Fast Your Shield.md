@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Hold Fast Your Shield
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1263
-
-DELIVERED BY.
 
 > "Cast not away, therefore, your confidence, which has great recompense of reward." Hebrews 10:35.
 
@@ -142,7 +139,6 @@ The enemies of Christ laugh today, but they will laugh on the other side of thei
 Oh, you that know not Christ and have no confidence in Him, beware! He is coming—coming to call you to judgement. Beware, for in the day of His appearing He will look upon you and He will know that you never trusted Him and never suffered for Him, but chose the broad road that leads to destruction. Oh, how you will tremble, then, and with what agony will you cry to the mountains, "Hide us from the face! Hide us from the face of Him that sits upon the Throne!" God grant that you may not thus be carried away with terror, but may you believe your Lord and then have a full confidence in Him—a confidence which you will never cast away, "for it has great recompense of reward."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Hebrews 10:19-39. HYMNS FROM "OUR OWN HYMN BOOK"—675, 632.
-
 
 ---
 [[Sermon 1262 The Turning Of Job's Captivity|← #1262]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1264 The Man of One Subject|#1264 →]]

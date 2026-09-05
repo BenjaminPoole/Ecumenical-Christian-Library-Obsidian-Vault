@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # God-Guided Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3078
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I conferred not with flesh and blood." Galatians 1:16.
 
@@ -85,7 +82,7 @@ Another says, "My position would become very uncomfortable if I were to be bapti
 
 III. I see that my time has gone, but I need not dwell upon the last point— that THIS PRINCIPLE COMMENDS
 
-ITSELF TO OUR BEST JUDGMENT.
+## Itself to Our Best Judgment
 
 It is the judgment we exercise upon others. We do not like to see half-and-half people, do we? And if we see people who are willing to suffer for their principles, we respect and honor them. Well then, let us so act that others may be able, in their inmost hearts, to respect and honor us!
 
@@ -95,7 +92,7 @@ And finally, this will be our judgment at the Last Great Day. We shall account t
 
 If you love not the Lord Jesus Christ, take heed that He should come against you with His rod of iron and utterly destroy you. May He, by His gracious Spirit, give to all of us faith in Him and loyalty to Him for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14.
+## Exposition by C. H. Spurgeon: John 14
 
 Verse 1. Let not your heart be troubled: you believe in God, believe also in Me.\See Sermons #730, Volume 13—let not your
 
@@ -156,7 +153,6 @@ you. [See Sermons #247, Volume 5—THE BEST OF MASTERS and #300, Volume 6—SPIR
 29, 30. AndnowIhave toldyou, before it comes topass, that when it is comes topass, you might believe. Hereafter I will not talk much with you: for theprince of this world comes, and has nothing in Me. Still Christ would have enough to do to meet that arch-enemy and to endure all that would come upon Him during that dread encounter.
 
 31\. But that the world may know that I love the Father; and as the Father gave Me commandment, even so I do. Arise, let us go from here.
-
 
 ---
 [[Sermon 3077 Death—a Sleep|← #3077]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3079 A Searching Question|#3079 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # A Voice From Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1219
-
-DELIVERED BY.
 
 > "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus. And I heard a voice from Heaven saying unto me, Write, Blessed are the dead which die in the Lord from now on: Yes, says the Spirit, that they may rest from their labors, and their works follow them." Revelation 14:12,13.
 
@@ -144,7 +141,6 @@ The Lord acknowledges every one of us who are on His side, but if we are not on 
 May we fly, even now, to Jesus, and through faith in His blood be delivered from all evil, that we also may have it said of us, "Blessed are the dead which die in the Lord." The Lord bless you for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Revelation 16. HYMNS FROM "OUR OWN HYMN BOOK"—878, 853, 852.
-
 
 ---
 [[Sermon 1218 The Miracle of the Loaves|← #1218]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1220 The Leading of the Spirit, The Secret Token of the Sons|#1220 →]]

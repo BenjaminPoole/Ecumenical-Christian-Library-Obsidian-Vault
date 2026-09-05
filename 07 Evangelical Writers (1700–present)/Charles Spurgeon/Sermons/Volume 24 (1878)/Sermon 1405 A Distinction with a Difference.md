@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Distinction with a Difference
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1405
-
-DELIVERED BY.
 
 > "And Zacharias said unto the angel, How shall I know this?" Luke 1:18.
 
@@ -138,7 +135,6 @@ If you will come and trust Him in this way you shall be like a tree planted by t
 And now, secondly, let us with all our hearts imitate Mary in being enquirers—often asking, desiring to know and looking deep and searching—for into the promises of God we cannot look too closely, since "these things the angels desire to look into." You ought to realize the promise as to be sure that it means what it says and then you will naturally begin to ask how it will come to pass. Only strive to keep out all unbelief from your enquiry and say, "I know in my heart how it can be, for nothing is impossible with God."
 
 There is our answer to all questions—"With God all things are possible." If I enquire, "How can He deliver me?" Nothing is impossible with God. "How can He keep me to the end?" Nothing is impossible with God. "How can He preserve me amid persecution? How can He keep me from temptation and preserve me from the world, the flesh and the devil?" Nothing is impossible with God! Fling yourself upon Omnipotence and you shall be strong! May the Holy Spirit help you to do this for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1404 Over Against the Sepulcher|← #1404]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1406 Remember!|#1406 →]]

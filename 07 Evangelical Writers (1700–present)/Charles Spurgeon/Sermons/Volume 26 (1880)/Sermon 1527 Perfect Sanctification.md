@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Perfect Sanctification
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1527
-
-DELIVERED BY.
 
 > "By that will we have been sanctified through the offering of the body of Jesus Christ once for all." Hebrews 10:10.
 
@@ -155,10 +152,9 @@ Brothers and Sisters, are you dispirited at this time? Have you a great trouble 
 
 Wipe your eyes and smooth your brow and in the strength of the Eternal go to your life-battle. It will not be long. The trumpet of victory almost sounds in your ears. Will you now beat a retreat? No! Play the man and win the day! "Trust in the Lord and do good; so shall you dwell in the land and verily you shall be fed," till He comes to catch you away where you shall see what Jesus did for you when He made His body once and for all a Sacrifice that He might fulfill the will of the eternal Father and sanctify you and all His people unto God forever and ever! May the best of blessings rest upon all who are in Christ Jesus. Amen.
 
-STOCKWELL ORPHANAGE FOR GIRLS
+## Stockwell Orphanage for Girls
 
 The land being bought and paid for, Mr. Spurgeon is anxious to begin building, since large numbers of orphans are applying. The block, which will contain houses for 250 girls and the various schoolrooms, will cost about £8,000, of which £3,000 is promised. To raise the rest of the money will need the united liberality of many and the special bounty of the few who are wealthy. It is proposed that the first stone should be laid on Mr. Spurgeon's birthday, June 19, should a sufficient sum be in hand to make it prudent to begin. Sympathizing readers can forward donations to Mr. Spurgeon, Nightingale Lane, Balham, and he will gratefully acknowledge the same.
-
 
 ---
 [[Sermon 1526 The Fair Portrait of a Saint|← #1526]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1528 They Were Tempted|#1528 →]]

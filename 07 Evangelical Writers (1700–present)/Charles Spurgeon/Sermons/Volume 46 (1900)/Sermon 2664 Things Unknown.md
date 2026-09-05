@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Things Unknown
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2664
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Call unto Me, and I will answer you, and show you great and mighty things which you know not." Jeremiah 33:3.
 
@@ -108,7 +105,6 @@ And, to conclude, the same Truth of God holds good with regard to the universal 
 We shall read of multitudes assembled in a building, the property of one connected with a theatre. We shall hear of people being gathered together and there will be a person found who will profess to preach the Gospel to them, and the "Messiah" will be performed as the great inducement for attracting them. Perhaps there is no person who feels more sorrow than I do that this fearful cloud has fallen upon us. The devil may one day open the Crystal Palace, the Museum and every other place on Sunday—but the Lord reigns—and if this nation shall be given up to Sabbath-breaking, let us not despair! God sits as the Ruler in Heaven and, as surely as He is God, He will get the victory! The devil will outwit himself, as he has always done—Satan will fall into his own pit. I hope, however, that the Christians of Great Britain will be very earnest in calling upon God. Pray continually to the Most High, that He will prosper the preaching of the Gospel to the multitude, but that He will never allow our entering into unconsecrated places to be twisted and turned to unhallowed uses! And pray that God will bring forth greater good out of the great evil, and so glorify Himself, and thus show us great and mighty things that we know not.
 
 I can only now beseech the Lord to pour His blessing upon each of you. May you be earnest in prayer and constant in supplication. And if you have yet never known Christ, may He soon be made known to you by the Holy Spirit and may your prayers be lifted up to Heaven that He may show you His salvation—which is one of the "great and mighty things" which you know not now!
-
 
 ---
 [[Sermon 2663 A Leap Year Sermon|← #2663]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2665 A Day to Be Remembered|#2665 →]]

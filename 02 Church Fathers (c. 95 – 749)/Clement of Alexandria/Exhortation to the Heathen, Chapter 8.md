@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # Exhortation to the Heathen, Chapter 8
 
-BY CLEMENT OF ALEXANDRIA
+*By Clement of Alexandria*
 
 ## Chapter 8. The True Doctrine is to Be Sought in the Prophets.
 

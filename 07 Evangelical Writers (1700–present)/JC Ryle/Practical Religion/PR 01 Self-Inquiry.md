@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Self-Inquiry
 
-Chapter I · *Practical Religion* — J. C. Ryle
+## Chapter I · *Practical Religion* — J. C. Ryle
 
 >  *Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.* "—Acts xv. 36.
 
@@ -82,7 +81,6 @@ I end my inquiries here. I might easily add to them; but I trust I have said eno
 (*d*) Is any reader of this paper *a believer oppressed with doubts and fears*, on account of his feebleness, infirmity, and sense of sin? Remember the text that says of Jesus, "A bruised reed will He not break, and smoking flax shall He not quench." (Matt. xii. 20.) Take comfort in the thought that this text is for you. What though your faith be feeble? It is better than no faith at all. The least grain of life is better than death. Perhaps you are expecting too much in this world. Earth is not heaven. You are yet in the body. Expect little from self, but much[Pg 22] from Christ. Look more to Jesus, and less to self.
 
 (*e*) Finally, is any reader of this paper *sometimes downcast* by the trials he meets with in the way to heaven, bodily trials, family trials, trials of circumstances, trials from neighbours, and trials from the world? Look up to a sympathizing Saviour at God's right hand, and pour out your heart before Him. He can be touched with the feeling of your infirmities, for He suffered Himself being tempted.—Are you alone? So was He. Are you misrepresented and calumniated? So was He. Are you forsaken by friends? So was He. Are you persecuted? So was He. Are you wearied in body and grieved in spirit? So was He.—Yes! He can feel for you, and He can help as well as feel. Then learn to draw nearer to Christ. The time is short. Yet a little time, and all will be over: we shall soon be "with the Lord." "There is an end; and thine expectation shall not be cut off." (Prov. xxiii. 18.) "Ye have need of patience, that, after ye have done the will of God, ye might receive the promise. For yet a little while, and He that shall come will come, and will not tarry." (Heb. x. 36, 37.)
-
 
 ---
 [[PR Preface|← Preface]] · [[Practical Religion|Practical Religion Contents]] · [[PR 02 Self-Exertion|Self-Exertion →]]

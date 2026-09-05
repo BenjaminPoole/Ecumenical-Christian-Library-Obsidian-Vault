@@ -9,10 +9,9 @@ epub_file: "works1.i.i.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER I.
 
-BIRTH—PARENTAGE—EARLY RELIGIOUS ADVANTAGES—SERIOUS IMPRESSIONS AND ACCOUNT OF HIS EXPERIENCE.
+*Birth—parentage—early Religious Advantages—serious Impressions and Account of His Experience*
 
 Few individuals ever appeared in the church of God who have merited, and actually received, higher tributes of respect than Jonathan Edwards. His intellectual powers were of no common order, and his industry in the cultivation of those powers is strongly marked in that wide extent of most important knowledge which he possessed. If we consider him as ranking with Hartley, Locke, and Bacon, in the scale of intellect, we shall have little apprehension of his title to such distinction being disputed. His mighty mind grasped with ease those subjects at which others faltered. He saw truth almost intuitively, and was equally keen in the detection of error in all its varied shades.—This distinguished man claims admiration, not merely on the ground of uncommon strength of intellectual powers, and intense application of mind, rewarded by proportionate acquirements, but also as a most humble and devoted servant of Christ; bringing all he had received into his service, and living only to him. His soul was indeed a temple of the Holy Spirit, and his life uniformly manifested all the simplicity, purity, disinterestedness, and elevated character of the gospel of Christ. The glory of God was his supreme object, whether engaged in his devotional exercises, his studies, his social intercourse, the discharge of his public ministry, or in the publication of his writings. All inferior motives seem to have been without any discernible influence upon him. He entered fully into the expressive language of Paul—“The love of Christ constraineth me.” “For me to live is Christ.” His personal example will long instruct, excite, and encourage, and his writings will necessarily be most highly esteemed so long as the love of truth prevails.
 

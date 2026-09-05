@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Personal Application
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 962
 
-DELIVERED ON LORD'S-DAY EVENING, JANUARY 16, 1870,.
+*Delivered on Lord's-Day Evening, January 16, 1870*
 
 > "But now once in the end of the world has He appeared to put away sin by the sacrifice of Himself." Hebrews 9:26.
 
@@ -152,7 +151,6 @@ This morning I also dwelt upon that word "appeared." Christ was not ashamed to a
 I shall not detain you longer. I have said too little unless God has blessed it. I have said enough if He shall apply it. I beseech you, Brothers and Sisters, when you come to the Table, do not be satisfied with these outward signs. Think it nothing to eat the bread or to drink the wine. In fact, it is less than nothing and vanity, unless there is something more. The great thing is for that bread to help you to think of the broken Body of your Lord, and for that cup to show you the agonies of His soul when He was exceeding sorrowful even unto death. Come here with the subject of this morning's sermon fresh upon your hearts.
 
 Come with the thoughts which it suggests this evening burning for fuller expressions in your lives. And as you sit before the Lord in the fellowship of His people, let this be your desire, "Lord, as You have given Yourself for me, let me know experimentally all the blessings which Your blood has purchased. Bring me unto communion with Yourself. Permit me to put my fingers into the prints of the nails, and thrust my hand into Your side tonight. Give me the cleansing, the purification, the sanctification which Your blood can bestow, and help me from this day to be Yours, and Yours alone, till death shall take me to dwell with You where You are, and till Your second coming shall make me to be like You, when I shall see You as You are. May God bless these words to us for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0961 The Saint One With His Savior|← #961]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0963 Our King, Our Joy|#963 →]]

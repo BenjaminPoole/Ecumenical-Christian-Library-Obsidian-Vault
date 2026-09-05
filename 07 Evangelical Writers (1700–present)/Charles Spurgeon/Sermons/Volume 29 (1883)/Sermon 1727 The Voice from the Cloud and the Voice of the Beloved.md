@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Voice from the Cloud and the Voice of the Beloved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1727
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 24, 1883,.
+*Delivered on Lord's-Day Morning, June 24, 1883*
 
 > "While He yet spoke, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is My beloved Son, in whom I am well pleased; hear Him. And when the disciples heard it, they fell on their faces, and were afraid. And Jesus came and touched them, and said, Arise, and be not afraid." Matthew 17:5, 6, 7.
 
@@ -134,7 +133,6 @@ But what a proof of His being with us is given to our mind when the Lord sweeps 
 Precious words! "Arise, be not afraid." When the Word of Jesus Christ comes with power to our discouraged souls and we are made strong in confidence, then we are persuaded of the truth of the Gospel! When we are disabled from the Divine service through fear and Jesus renews our strength by saying, "Arise," so that we are able to work, again—then do we believe and are sure! "The joy of the Lord is our strength." Whenever the blessed Comforter reveals Christ to us so that we are cheered and made glad in the midst of our tribulations, then we need not ask for signs and wonders, nor for voices speaking out of the clouds! It is enough, the truth is sealed in our consciences. The voice of Christ is far better than all other manifestations, for it does not leave us swooning with fear, but sends us out to fight the battles of the Lord!
 
 This is the sum of what I have spoken to you—ask not for signs and wonders which God will not give. But, "Hear Him." Listen to Jesus by faith and your personal experience of His Presence shall be to you all that you need by way of assurance. Live on Christ, live in Christ, live with Christ and this shall be better to you than visions or bright clouds, or celestial voices, or all supposable evidences! This shall make your spirit leap and your heart rejoice till the day breaks and the shadows flee away—and you see God, even the Father—face to face in Glory! May the Grace of our Lord Jesus Christ be with you always. Amen.
-
 
 ---
 [[Sermon 1726 Buying Without Money|← #1726]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1728 The Works of the Devil Destroyed|#1728 →]]

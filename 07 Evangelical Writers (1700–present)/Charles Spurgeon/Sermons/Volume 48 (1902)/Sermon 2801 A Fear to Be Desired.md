@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A Fear to Be Desired
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2801
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall fear the LORD and His goodness in the latter days." Hosea 3:5.
 
@@ -101,7 +98,7 @@ There are others of you, I am afraid, who never fear either God or His goodness.
 
 May God grant to everyone of us the Grace to believe in Jesus, to rest in Him and then to walk in the fear of the Lord all our days, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM103.
+## Exposition by C. H. Spurgeon: Psalm 103
 
 Verse 1. Bless the LORD, O my soul: and all that is within me, bless His holy name. We ought to be always blessing God. This sacred employment should be like an atmosphere surrounding us at all times. Yet there are special seasons when we feel as if we must wake ourselves up and brace ourselves up for some special adoration, talking to ourselves as the Psalmist does here.
 
@@ -150,7 +147,6 @@ Lord! Come, my heart, you have been thinking of many things while you have been 
 Circle His Throne rejoicing."
 
 21\. 22. Bless you the LORD, all you His hosts; you ministers of His, that do His pleasure. Bless the LORD, all His works in all places of His dominion: bless the LORD, O my soul The praise is now spread widely, over all the universe! Yet, O my heart, do not forget your own personal note in it—"O Bless the Lord, O my soul."
-
 
 ---
 [[Sermon 2800 'Pray, Always Pray'|← #2800]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2802 Lukewarmness|#2802 →]]

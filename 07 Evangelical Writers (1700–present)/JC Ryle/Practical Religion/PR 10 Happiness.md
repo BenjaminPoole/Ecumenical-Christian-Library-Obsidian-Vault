@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Happiness
 
-Chapter X · *Practical Religion* — J. C. Ryle
+## Chapter X · *Practical Religion* — J. C. Ryle
 
 >  *Happy is that people whose God is the Lord.* "—Psalm cxliv. 15.
 
@@ -228,7 +227,6 @@ Believers, if you would have an increase of happiness in Christ's service, *labo
 Believers, if you would have an increase of happiness in Christ's service, *labour every year to do more good*. Look round the circle in which your lot is cast, and lay yourself out to be useful. Strive to be of the same character with God: He is not only good, but "doeth good." (Ps. cxix. 68.) Alas, there is far too much selfishness among believers in the present day! There is far too much lazy sitting by the fire nursing our own spiritual diseases, and croaking over the state of our own hearts. Up; and be useful in your day and generation! Is there no one in all the world that you can read to? Is there no one that you can speak to? Is there no one that you can write to? Is there literally nothing that you can do for the glory of God, and the benefit of your fellow-men? Oh I cannot think it! I cannot think it. There is much that you might do, if you had only the will. For your own happiness' sake, arise and do it, without delay. The bold, outspeaking, working Christians are always the happiest. The more you do for God, the more God will do for you.
 
 The compromising lingering Christian must never expect to taste perfect peace. THE MOST DECIDED CHRISTIAN WILL ALWAYS BE THE HAPPIEST MAN.
-
 
 ---
 [[PR 09 Freedom|← Freedom]] · [[Practical Religion|Practical Religion Contents]] · [[PR 11 Formality|Formality →]]

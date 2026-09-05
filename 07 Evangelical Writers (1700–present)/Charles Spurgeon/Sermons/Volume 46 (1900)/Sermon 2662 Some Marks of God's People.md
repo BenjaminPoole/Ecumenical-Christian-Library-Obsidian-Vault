@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Some Marks of God's People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2662
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your God has commanded your strength: Strengthen, O God, what You have done for us." Psalm 68:28.
 
@@ -107,7 +104,7 @@ from all of us, "Not unto us, O Lord, not unto us, but unto Your name give glory
 
 Let us begin to learn that song, now, and let us sing it in life, in death and forever, for our Lord Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM68
+## Exposition by C. H. Spurgeon: Psalm 68
 
 This was a Psalm sung at the removing of the Ark when it was taken up to its resting place on Mount Zion. All the tribes were gathered together and, in full pomp, they marched along, bearing the sacred chest. As they marched forward, the trumpets sounded and this Psalm rose up to God.
 
@@ -144,7 +141,6 @@ Verse 1. Let God arise, let His enemies be scattered: let them also that hate Hi
 21, 22. But God shall wound the head of His enemies, and the hairy scalp of such an one as goes on still in his trespasses. The Lord said, I will bring again from Bashan, I will bring My people again from the depths of the sea. Wherever His people may have gone, God will bring them all together again—"from Bashan"—or "from the depths of the sea."
 
 23-35. That your foot may be dipped in the blood of your enemies, and the tongue of your dogs in the same. They have seen Your goings, O God; even the goings of my God, my King, in the sanctuary. The singers went before, the players on instruments followed after, among them were the damsels playing with timbrels. Bless God in the congregations, even the Lord, from the fountain of Israel There is little Benjamin with their ruler, the princes of Judah, and their council, the princes of Zebulun, and the princes of Naphtali. Your God has commanded your strength: strengthen, O God, what You have worked for us. Because of Your temple at Jerusalem shall kings bring presents unto You. Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till everyone submits himself with pieces of silver: scatter the people that delight in war. Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God. Sing unto God, you kingdoms of the earth! O sing praises unto the Lord; Selah: to Him that rides upon the heavens of heavens, which were of old; lo, He does send out His voice, and that a mighty voice. Ascribe strength unto God: His exceelency is over Israel, and His strength is in the clouds. O God, You are terrible out of Your holy places: the God of Israel is He that gives strength and power unto His people. Blessed be God. The Psalm ends with an ascription of praise unto God. So let our reading end—and our worship—and our lives! "Blessed be God."
-
 
 ---
 [[Sermon 2661 A Marvelous Change|← #2661]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2663 A Leap Year Sermon|#2663 →]]

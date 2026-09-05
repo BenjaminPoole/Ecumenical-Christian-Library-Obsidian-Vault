@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 7. Letter VI. To Master Richard [wyche] of England
-
-LETTER VI. TO MASTER RICHARD [WYCHE] OF ENGLAND
 
 (September 1410)
 

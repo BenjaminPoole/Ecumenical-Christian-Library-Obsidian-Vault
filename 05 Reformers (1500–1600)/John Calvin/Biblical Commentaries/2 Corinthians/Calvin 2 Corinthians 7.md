@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## 2 Corinthians 7:1
 

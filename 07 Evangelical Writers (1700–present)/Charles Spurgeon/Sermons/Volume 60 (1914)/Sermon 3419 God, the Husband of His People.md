@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # God, the Husband of His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3419
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Although I was a Husband unto them, says the Lord." Jeremiah 31:32.
 
@@ -27,7 +24,7 @@ Brothers and Sisters in Christ, God's ancient people, Israel, seem to have lived
 
 Now, at this time, we shall first of all, spend a few minutes in considering the indictment which God brought against His people Israel—they had sinned—"although," He said, "I was a Husband unto them." Secondly, we shall have to plead guilty to the indictment for ourselves. And then, thirdly, we shall offer some suggestions of amendment that should arise out of the painful and penitent reflections of this evening. First, then, let us consider very earnestly and humbly—
 
-I. THE INDICTMENT WHICH GOD BROUGHT AGAINST ISRAEL.
+## I. The Indictment Which God Brought Against Israel
 
 Their sin was aggravated because God was a Husband unto them. How was this? He was a Husband to them in that He set His special love upon them as a husband does upon his bride. He found them, as He says, in a desert land, in a howling wilderness. He found them, as we know, literally, in the land of Egypt, in the house of bondage where their lives were made bitter in the cruel slavery of making bricks for their tyrant masters. But He so loved them that with a high hand and an outstretched arm, He redeemed them. All His plagues He brought on Pharaoh and upon the fields of Zoan. He magnified His power, even on the tribes of Pharaoh, and at the Red Sea He glorified Himself by the destruction of all the hosts of Egypt. But as for His people, He led them forth like sheep, by the hands of Moses and Aaron. A husband, having loved his bride, and finding her in slavery, would never cease until the utmost that could be done had been done for her liberty and happiness! And God was thus a Husband unto His people. He says, "I gave Egypt for your ransom, Ethiopia and Seba for you."
 
@@ -63,7 +60,7 @@ So I might continue, for I think we may add that last point. God has given to ma
 
 This, then is the indictment against us, that although He has been a Husband unto us, we have not acted towards Him as such a Husband's love deserves. So we turn now to the next great thought, which is this—
 
-II. WE HAVE TO PLEAD GUILTY TO THE INDICTMENT AGAINST OURSELVES.
+## II. We Have to Plead Guilty to the Indictment Against Ourselves
 
 Dear Brothers and Sisters, I desire not to speak so much to you as to myself. And I pray of you that my voice may be accepted as your own voice to yourselves and if anything comes home to the conscience, open the door to it—let it wound you and let it grieve you—and let it awaken you to something nobler. God grant that it may.
 
@@ -83,7 +80,7 @@ Once more, is there not this sin very common among professors—that even the id
 
 Thus have I read the indictment, and thus would I plead guilty. Thus would I weigh, and thus would I ask each professing Christian here to weigh the charges as they come against himself, and say how far they concern him. And now to close. A few words by way of—
 
-III. SUGGESTIONS FOR AMENDMENT.
+## III. Suggestions for Amendment
 
 It is idle to be always regretting, but never reforming—to be forever confessing, but never making an advance in the right direction. Now, first, dear Brothers and Sisters—sitting here tonight while Gods' gracious rain is falling on the earth, may His rain fall on our hearts—let us admire the condescension of God that He should say, "I have been a Husband unto you." It is a depth of Grace that He who made the Heaven and the earth and who is infinitely great and glorious, should condescend to come into anything like such a relation as this with His poor creatures whom He has made and whose breath is in their nostrils. Oh, what a stoop—from the highest loftiness of Glory—to call Himself a Husband to a worm!
 
@@ -101,7 +98,7 @@ And, Brothers and Sisters, if there is anything that we have not done for Christ
 
 Now, I know that to some here all this seems like an idle tale. Well, well dear Friends, I wish it were not so! But you must be born-again and until you are born-again you will not understand this. But if you do not understand this simple talk which Believers have with one another, depend upon it, you will never be able to enter where they sing in nobler notes before the Throne of God! May God convince you of your need of a Savior and bring you to put your trust in Jesus, for there is life in Him, and in Him, alone! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 55; JEREMIAH30:1-11.
+## Exposition by C. H. Spurgeon: Isaiah 55; Jeremiah 30:1-11
 
 It is the language of Infinite Mercy, speaking to the abject condition of mankind. We have become naked, poor and miserable through sin and, God, instead of driving us from His Presence, comes loaded with mercy—and thus He speaks to us.
 
@@ -133,7 +130,7 @@ Verse 1. Ho, everyone that thirsts, come you to the waters, and he that has no m
 
 13\. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off.
 
-JEREMIAH 30:1-11.
+## Jeremiah 30:1-11
 
 Verses 1, 2. The word that came to Jeremiah from the LORD, saying, Thus speaks the LORD God ofIsrael, saying, Write you all the words that I have spoken unto you in a book.Too good to be lost! The Prophets said much when they did not write, but this particular Chapter and the next were to be carefully written down. God here begins to deal with His guilty people in a way of love and mercy. It is a very strange Chapter, one of the richest, one of the most cheering in the whole of God's Word! Therefore, write it in a book.
 
@@ -152,7 +149,6 @@ Verses 1, 2. The word that came to Jeremiah from the LORD, saying, Thus speaks t
 11\. For I am with you, says the LORD, to save you. God may destroy the wicked, and He will—but not His people, His own beloved—His heart goes after them. "I will not make a full end of you."
 
 11\. Though I make a full end of all nations where I have scattered you, yet will I not make a full end of you: but I will correct you in measure and will not leave you altogether unpunished. You will have to smart for it. If you are God's child, you will have to be brought home with many a tear and many a sigh. Your sorrow, tonight, is a part of a heavenly discipline by which you shall be saved!
-
 
 ---
 [[Sermon 3418 An Unalterable Law|← #3418]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3420 Could He Not Ah! But He Would Not|#3420 →]]

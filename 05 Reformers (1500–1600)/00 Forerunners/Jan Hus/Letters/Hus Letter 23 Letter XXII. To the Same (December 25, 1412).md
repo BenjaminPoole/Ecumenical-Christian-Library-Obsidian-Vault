@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 23. Letter XXII. To the Same (December 25, 1412)
-
-LETTER XXII. TO THE SAME (December 25, 1412)
 
 Rejoice for Christ is born to-day ; The meaning of the Nativity 108-10
 

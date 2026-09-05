@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Three Hours' Darkness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3471
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now from the sixth hour there was darkness over all the land until the ninth hour." Matthew 27:45.
 
@@ -45,7 +42,7 @@ bear the weight of sin, is not for you, but for Christ. He has done it for you, 
 
 Once more. Does not the darkness, inasmuch as it is an emblem of Christ's sufferings, also set forth to us our own condition? I suppose the Savior was, by force of His Suretyship, compelled to take the very place which the sinner should have occupied. The plan of salvation is just this, that Christ shall take the sinner's place and suffer in the sinner's stead, what the sinner ought to have suffered. The very pith and marrow of the Gospel lies in that word—"Substitution." Christ, who knew no sin, was made sin for us that we might be made the righteousness of God in Him. We take Christ's place because Christ took our place! He stood in the place of lost sinners. Well now, the place of a lost sinner is the place of darkness. Outer darkness will be his eternal place, and darkness is his present state—his natural condition—as the Apostle said, "We were sometimes darkness." So the Savior is made to be in darkness and as man would have had to abide forever in darkness, misery, despair, and hopelessness, so the Savior is, for three hours, denied the light of the sun! He is denied all comfort, denied all mercies—He is left without a glimpse of His Father, or a ray from the light of the sun because He then stood in the place of His people! Ah, Christian, ought not this to make you hate sin, to think that sin thus put you in the dark and would have kept you there, and continued you in the bleakness of darkness forever? Ought it not, too, to make you hate it when you remember that it put your Lord in the dark, and made Him hang bleeding from His wounds without a light to cheer Him or a glimpse to comfort Him? If, Christian, you do not hate sin when you think of this darkness, surely you must be still in the dark! We gather, then, these few lessons from the darkness, though we are persuaded that there are many more in it. But now we come to—
 
-II. GATHER SOME LESSONS FROM THE LIGHT.
+## II. Gather Some Lessons from the Light
 
 It is fair to say that the darkness continued till just about the time when the Savior died, and that the light came as the Savior expired. The light broke upon Him a few minutes, or perhaps less, after He had cried, "Eloi, Eloi, lama Sabac-thani," and after He had received the vinegar, and with a loud voice had given up the ghost. It is fair to say, then, that the darkness lasted till the Savior died. A dying Savior lights up the world. His expiring groan bids the sun come back. He raises His triumphant shout and, "It is finished" kindles, like a torch, the lamp of day once more, and earth is glad, for salvation's work is accomplished!
 
@@ -79,7 +76,7 @@ back to Jesus that you may kindle your torches! You may kindle your beams of lig
 
 I would ask Brothers and Sisters who are present to join with us in earnest prayer that there may be a thorough revival throughout England of the preaching of the Doctrine of the Cross, and that God would put power into the ministry in order to the conversion of many. I told you last Sunday [September 23, 1866] that some of us would meet on Tuesday for prayer all day long. We have never had such a day as that before! I have thought since that I shall never see such another day, when some hundred or more of us met together to fast and pray during the day. We continued in prayer from about ten till six o'clock, unwearied, unexhausted. If any soul ever went to the gates of Heaven, I did last Tuesday! I feel now like a reed that is broken, the strength gone out of me through the excessive excitement, the sort of sacred delirium, of wrestling with God in prayer, in company with the Brothers present, for the conversion of sinners. There were times during last Tuesday when we could not, any of us, pray, and strong men as we were, we were but just able to cry aloud as if our hearts would break because we could not let the Lord go till He had looked down on His poor Church and returned again in mercy to visit His ministers! We feel as if we need a revival of religion now—not such revivals as there were a few years ago—some of us think but little of them. We believe there were many gathered in, but where are many of them now? Scattered, to a very great extent, to the winds of Heaven! We need the true revival work of the Holy Spirit, without fanaticism and without excitement, but the genuine stirring of the soul of the people, the turning of them to God as on the Day of Pentecost! And we shall have it, Brothers! We shall have it, for we have sought it in believing prayer! We shall have it, for it must come through every Christian resolving that the Cross of Christ, the blood of the Savior, shall be the theme of his life and the objective of his desires—telling of it wherever he goes and so taking the darkness from off the face of the land. And now, putting the two together—
 
-III. THE DARKNESS AND THE LIGHT ARE EMBLEMATIC OF THE CHURCH OF GOD.
+## III. The Darkness and the Light Are Emblematic of the Church of God
 
 Christ had hours of darkness and then there came the Light. The Church has her hours of darkness, too. She has struggled by her martyrs. She has even died in the persons of her confessors. Then comes her Light. She has her "Dark Ages" and she has her "Reformation." She must struggle on through the darkness, expecting the Light to come. Perhaps the Light will come in a way in which we have not expected it. Perhaps the Master, Himself, will come before long—the Light of Lights, the Beginner of Days. May it be so! Meanwhile, we must, like He, struggle through the darkness.
 
@@ -89,7 +86,7 @@ Now, are there some hearts in the Tabernacle, tonight, who need to find the Ligh
 
 May the Master give every one of you a blessing through this plain but truly earnest attempt to lead you to Himself and so secure your eternal salvation! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH55:1-4.
+## Exposition by C. H. Spurgeon: Isaiah 55:1-4
 
 It is the language of Infinite Mercy, speaking to the abject condition of mankind. We have become naked, and poor, and miserable through sin—but God, instead of driving us from His Presence, comes loaded with mercy—and thus He speaks to us.
 
@@ -106,7 +103,6 @@ Verse 1. Ho, everyone who thirsts, come to the waters, and he that has no money,
 4\. Behold, I have given Him. That is the Son of David—Jesus the Christ—"Ihave given Him."
 
 4\. For a witness to the people, a leader and commander to the people. If you want anyone to tell you what God is, Jesus Christ is the Witness to the Character of God. Do you need a leader to lead you back to peace and happiness—a commander by whose power you may be able to fight Satan and all the powers of darkness that hold you in bondage? God has all in Jesus Christ that I can need for time and eternity, and this can all be mine for the asking and receiving. Shall we not ask and receive?
-
 
 ---
 [[Sermon 3470 An Earnest Entreaty|← #3470]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3472 A Solemn Deprival|#3472 →]]

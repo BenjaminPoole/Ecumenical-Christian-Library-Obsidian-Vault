@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Love's Lamentation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2782
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have loved you, says the LORD. Yet you say, In what way have You loved us?" Malachi 1:2.
 
@@ -104,7 +101,6 @@ And lastly, dear Friends, I wonder what we shall think of ourselves when we get 
 I wonder whether that man is there who pierced His side and those soldiers who nailed Him to the tree? Certainly, he is there who railed at Him on the Cross and then repented and was forgiven! And he is there who said, "I know not the Man." When they are singing, "Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing," I think that, sometimes, Peter pauses a while—and those around wonder why Peter has left off singing, but he cannot help it. Emotions of unutterable gratitude are coming over him as he remembers that he has been forgiven through the wondrous Grace of Christ who loved him even when He was being denied by him with oaths and curses!
 
 I wish that I could communicate to you the emotions of my own spirit as I think of the greatness of man's sin and set it side by side with the greatness of God's Grace—as I think of unspeakable love and of unutterably vile sin which that love puts away. Come, dear Friends, and let us all join together to bless and magnify the wondrous love which God has revealed to us in His Word—and may we all meet in Heaven, to the praise of the glory of His Grace, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2781 Jesus Calling|← #2781]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2783 A Worthy Theme for Thought|#2783 →]]

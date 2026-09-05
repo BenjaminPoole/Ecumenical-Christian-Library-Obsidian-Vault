@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # God's Thoughts and Ways Far Above Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1387
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 2, 1877,.
+*Delivered on Lord's-Day Morning, December 2, 1877*
 
 > "For My thoughts are not your thoughts, neither are your ways My ways, says the Lord. For as the hea vens are higher than the earth, so are My ways higher than your ways, and My thoughts than your thoughts." Isaiah 55:8,9.
 
@@ -146,7 +145,6 @@ Once come and walk in the ways of God and His Grace will keep you in them and yo
 If all this should seem to be too good to be true, as often it has done—if the sinner should feel unable to believe that he can obtain immediate forgiveness for a long life of transgression—we are then commanded to tell you that you must not measure God by yourself. You must not calculate what He can do by what your fellow man can perform. The Lord can forgive what otherwise could never be forgiven. He can pour out mercies so multiplied as to baffle human arithmetic! He can bless you beyond your desires. He can delight you beyond a dream and He can finally give you a Heaven which "eye has not seen nor ear heard, neither has entered into the heart of man."
 
 Close in with Him, Soul, at once, while yet in the Person of the Lord Jesus He commands your faith! Go not about by good works and prayers and tears to obtain forgiveness! Spend not your money on that which is not bread, but come, penniless and poor as you are, and buy the wine and milk of Covenant blessings without money and without price!! Lend the willing ear and yield the believing heart. "Hear, and your soul shall live!" Believe, and you shall be saved! Through Jesus Christ we proclaim the Good News and, for His sake, we implore a blessing upon it. Amen.
-
 
 ---
 [[Sermon 1386 Sins Of Ignorance|← #1386]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1388 Jesus Christ Himself|#1388 →]]

@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Gorgias
 *trans. Benjamin Jowett*
 
@@ -19,23 +18,16 @@ tags:
 
 ---
 
-GORGIAS
+## Gorgias
 
 by Plato
 
 Translated by Benjamin Jowett
 
-
-Contents
-
  INTRODUCTION
  GORGIAS
 
-
-
-
-INTRODUCTION
-
+## Introduction
 
 In several of the dialogues of Plato, doubts have arisen among his
 interpreters as to which of the various subjects discussed in them is
@@ -968,7 +960,6 @@ overlooks them, holding a golden sceptre, as Odysseus in Homer saw him
 
 “Wielding a sceptre of gold, and giving laws to the dead.”
 
-
 My wish for myself and my fellow-men is, that we may present our souls
 undefiled to the judge in that day; my desire in life is to be able to
 meet death. And I exhort you, and retort upon you the reproach which
@@ -1302,7 +1293,6 @@ time he acknowledges the natural result, which he hardly seeks to
 avert, that he who speaks the truth to a multitude, regardless of
 consequences, will probably share the fate of Socrates.
 
-
 The irony of Plato sometimes veils from us the height of idealism to
 which he soars. When declaring truths which the many will not receive,
 he puts on an armour which cannot be pierced by them. The weapons of
@@ -1414,7 +1404,6 @@ healed by time;
 
 “While rank corruption, mining all within,
 Infects unseen.”
-
 
 The “accustomed irony” of Socrates adds a corollary to the
 argument:—“Would you punish your enemy, you should allow him to escape
@@ -1855,7 +1844,7 @@ God and of the human soul, yet the ideal of them may be present to us,
 and the remembrance of them be an example to us, and their lives may
 shed a light on many dark places both of philosophy and theology.
 
-THE MYTHS OF PLATO.
+## The Myths of Plato
 
 The myths of Plato are a phenomenon unique in literature. There are
 four longer ones: these occur in the Phaedrus, Phaedo, Gorgias, and
@@ -2140,11 +2129,7 @@ which they are united; which gives a fitting expression to the highest
 truths; and in which the trifles of courtesy and the familiarities of
 daily life are not overlooked.
 
-
-
-
-
-GORGIAS
+## Gorgias
 
 By Plato
 
@@ -4486,7 +4471,6 @@ good for much, you would die if he were disposed to claim the penalty
 of death. And yet, Socrates, what is the value of
 
 “An art which converts a man of sense into a fool,”
-
 
 who is helpless, and has no power to save either himself or others,
 when he is in the greatest danger and is going to be despoiled by his

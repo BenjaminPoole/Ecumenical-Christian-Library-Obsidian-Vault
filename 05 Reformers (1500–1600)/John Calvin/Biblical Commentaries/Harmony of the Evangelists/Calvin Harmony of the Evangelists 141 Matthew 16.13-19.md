@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 141. Matthew 16:13-19; Mark 8:27-29; Luke 9:18-20
-
-Matthew 16:13-19; Mark 8:27-29;  
-Luke 9:18-20
 
 **13**. And when Jesus came to the coasts of Cesarea Philippi, he asked his disciples, saying, Who do men say that I the Son of man am? **14**. And they said, Some [say,] John the Baptist; and other, Elijah; and others, Jeremiah, or one of the prophets. **15**. He saith to them, But who do you say that I am? **16**. And Simon Peter answering said, Thou art the Christ, the Son of the living God. **17**. And Jesus answering said to him, Blessed art thou, Simon Bar-Jona; [^1] for flesh and blood hath not revealed it to thee, but my Father who is in heaven. **18**. But I say to thee, That thou art Peter, and on this rock will I build my church; and the gates of hell shall not prevail against it. **19**. And I will give to thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatseover thou shalt loose on earth shall be loosed in heaven.
 

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 42. Matthew 5:13-16;Mark 9:49-50; 4:21;Luke 14:34-35; 8:16; 11:33
-
-MATTHEW 5:13-16; MARK 9:49-50; 4:21;  
-LUKE 14:34-35; 8:16; 11:33
 
 **13**. Ye are the salt of the earth: but if salt shall become tasteless, [^1] with what shall it be salted? [^2] It is good for nothing farther, than to be thrown out and trodden down by men. **14**. Ye are the light of the world: a city placed upon a mountain cannot be hid. **15**. Neither do men light a candle, and put it upon a bushel but upon a candlestick, and it gives light to all who are in the house. **16**. Let your light shine before men, so that they may see your good works, and may glorify your Father who is in heaven.
 

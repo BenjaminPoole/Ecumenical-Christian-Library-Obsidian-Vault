@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Daniel 7:1-2
 
@@ -55,7 +54,7 @@ The Prophet then adds: *Three ribs were in the beast’s mouth between its teeth
 
 ## Prayer Lecture 32
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou exposest us to various distresses in this world, for the purpose of exercising our faith and patience: Grant, I say, that we may remain tranquil in our station, through reliance on thy promises. When storms gather around us on all sides, may we never fall away and never despond in our courage, but persevere in our calling. Whatever may happen, may we recognize thee as carrying on the government of the world, not only to punish the ingratitude of the reprobate, but to retain thine own people in thy faith and protection, and preserve them to the end. May we bear patiently whatever changes may happen to us and may we never be disturbed or distressed in our minds, till at length we are gathered into that happy rest, where we shall be free from all warfare and all contests, and enjoy that eternal blessness which thou hast prepared for us in thine only begotten Son. — Amen.
 
@@ -93,7 +92,7 @@ It is sufficiently clear, therefore, that this exhibition ought to be referred t
 
 ## Prayer Lecture 33
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast formerly admonished thy servants, that thy children, while they are pilgrims in this world, must be familiar with horrible and cruel beasts, if the same thing should happen to us, that we may be prepared for all contests. May we endure and overcome all temptations, and may we never doubt thy desire to defend us by thy protection and power, according to thy promise. May we proceed through the midst of numberless dangers, until after accomplishing the course of our warfare, we at length arrive at that happy rest which is laid up for us in heaven by Christ our Lord. — Amen.
 
@@ -142,7 +141,7 @@ Since the presumptuous speaking of the little horn terrified the Prophet, he now
 
 ## Prayer Lecture 34
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, whatever revolutions happen daily in the world, that we may always be intent on the sight of thy glory, once manifested to us in thy Son. May the splendor of thy majesty illuminate our hearts, and may we pass beyond the visible heavens, the sun, the moon, and every shining thing; and may we behold the blessedness of thy kingdom, which thou proposest to us in the light of thy Gospel. May we walk through the midst of the darkness and afflictions of the world, content with that light by which thou invitest us to the hope of the eternal inheritance which thou hast promised us, and acquired for us by the blood of thine only begotten Son. — Amen.
 
@@ -186,7 +185,7 @@ He says, therefore, in the first place, *his spirit was cut off,* or vanished, *
 
 ## Prayer Lecture 35
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since the faith of the fathers was supported by obscure shadows, by which thou didst wish it to be nourished, until thy Son was manifestly revealed to us in the flesh: Grant, I pray thee, at this day, after he has appeared to us as the best and most perfect teacher, and explained thy counsels to us similarly, that we may not be either so dull or so careless as to allow the great clearness of the manifestation of thyself offered us in the Gospel to escape from our grasp. May we be so directed towards life eternal, until after the performance of our course in this present life, and the removal of all obstacles which Satan places in our way, either to delay us or turn us aside, we may at length arrive at the enjoyment of that blessed life in which Christ., thine only begotten Son, has preceded us. May we thus be co-heirs with him, and as thou hast appointed him sole inheritor, so may he gather us unto the secure inheritance of a blessed immortality. Amen.
 
@@ -230,7 +229,7 @@ It now follows, *Until the Ancient of days came, judgment was given to the saint
 
 ## Prayer Lecture 36
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou profest our faith and constancy by many trials, as it is our duty in this respect and in all others, to submit to thy will: Grant, I pray, that we may not give way to the many attacks by which we are tossed about. For we are assailed on all sides by Satan and all the impious, and while their fury is ever burning and raging cruelly against us, may we never yield to it. May we proceed in our warfare, in reliance on the unconquered might of the Spirit, even though impious men prevail for a season. May we look forward to the advent of thy only-begotten Son, not only when he shall appear at the last day, but also whenever it shall please time for him to assist thy Church, and to raise it out of its miserable afflictions. And even if we must endure our distresses, may our courage never fail us, until at length we are gathered into that holy rest, which has been obtained for us through the blood of the same, thine only-begotten Son — Amen.
 
@@ -274,7 +273,7 @@ This, then, was one reason why God admonished the faithful *concerning the time 
 
 ## Prayer Lecture 37
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we must be daily exercised by various contests, that we may never yield to the infirmities of the flesh, and never forget thy Holy calling. Animate us, we pray thee, for all hostile engagements; may we stand unbroken against all the assaults of Satan and the wicked; and thus give ourselves up and devote ourselves to thee. May we never hesitate to suffer death itself, if necessary, and even to offer ourselves daily to various kinds of death, until we shall have discharged our warfare, and enjoy that happy and eternal rest which thou hast prepared for us in thine only-begotten Son. — Amen.
 

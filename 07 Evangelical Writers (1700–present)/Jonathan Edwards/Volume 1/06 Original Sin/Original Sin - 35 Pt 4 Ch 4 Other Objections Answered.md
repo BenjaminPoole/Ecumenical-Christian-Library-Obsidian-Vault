@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. IV.
 
-WHEREIN SEVERAL OTHER OBJECTIONS ARE CONSIDERED.
+*Wherein Several Other Objections Are Considered*
 
 Dr. T. objects against Adam’s posterity being supposed to come into the world under a *forfeiture* of God’s *blessing,* and subject to his curse through his sin,—That at the restoration of the world after the flood, *God pronounced equivalent or greater* blessings on Noah and his sons, than he did on Adam at his creation, when he said, *be fruitful, and multiply, and replenish the earth, and have dominion over the fish of the sea, &c.**—To this I answer, in the following remarks.
 

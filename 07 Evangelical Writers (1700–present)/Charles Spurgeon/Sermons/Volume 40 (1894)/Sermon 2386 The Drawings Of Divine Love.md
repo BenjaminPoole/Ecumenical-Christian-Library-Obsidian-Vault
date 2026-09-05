@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Drawings Of Divine Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2386
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "No man can come to Me, except the Father who sent Me draws him and I will raise him up at the last day. It is written in the Prophets, 'And they shall all be taught by God.' Therefore, everyone who has heard, and has learned of the Father, comes unto Me." John 6:44,45.
 
@@ -168,7 +165,6 @@ lessons of the Truths of God? Oh, for a faith that never staggers when Christ sp
 68-70. Answered Him, Lord, to whom shall we go? You have the words of eternal life. And we believe and are sure that you are that Christ, the Son of the living God. Jesus answered them, have not I chosen you twelve, and one of you is a devil? Our Lord often surprises us by the way in which He speaks. He does not say what we would have expected to hear from Him, but He says something that is very startling and even discouraging! It is the way of our Master, because He sees further than we do—and He often replies, not to the question as it lies in the words addressed to Him—but to a belief in the heart at the back of the words. He did so here. Peter may have thought that "the twelve" were all steadfast and sincere, so Christ says to him, "Have not I chosen you twelve, and one of you is a devil?"
 
 71\. He spoke of Judas Iscariot the son of Simon: for he it was that should betray Him, being one of the twelve.
-
 
 ---
 [[Sermon 2385 Another Lesson From Manasseh's Life|← #2385]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2387 Good Advice For Troublous Times|#2387 →]]

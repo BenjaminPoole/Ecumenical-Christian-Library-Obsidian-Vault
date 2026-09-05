@@ -11,7 +11,6 @@ tags:
   - classical
   - pliny-the-elder
 ---
-
 # The Natural History
 *Volume 6*
 
@@ -27,52 +26,31 @@ corrected.
 
 See further notes at the end of the book.
 
+## The
 
-
-
-  THE
-
-  NATURAL HISTORY
+## Natural History
 
   OF
 
-  PLINY.
+## Pliny
 
-  TRANSLATED, WITH COPIOUS NOTES AND ILLUSTRATIONS
+## And
 
-  BY THE LATE
+## Late Scholar of Clare Hall, Cambridge
 
-  JOHN BOSTOCK, M.D., F.R.S.,
+## Vol. VI
 
-  AND
+## With General Index
 
-  H. T. RILEY, ESQ., B.A.,
+## Henry G. Bohn, York Street, Covent Garden
 
-  LATE SCHOLAR OF CLARE HALL, CAMBRIDGE.
+## MDCCCLVII
 
+## Of the Sixth Volume
 
-  VOL. VI.
+## Book XXXII
 
-  WITH GENERAL INDEX.
-
-
-  LONDON:
-
-  HENRY G. BOHN, YORK STREET, COVENT GARDEN.
-
-  MDCCCLVII.
-
-
-
-
-CONTENTS
-
-OF THE SIXTH VOLUME.
-
-
-  BOOK XXXII.
-
-  REMEDIES DERIVED FROM AQUATIC ANIMALS.
+## Remedies Derived from Aquatic Animals
 
   CHAP.                                                           Page
 
@@ -248,10 +226,9 @@ OF THE SIXTH VOLUME.
 
   54. Additional names of fishes found in the poem of Ovid          65
 
+## Book XXXIII
 
-  BOOK XXXIII.
-
-  THE NATURAL HISTORY OF METALS.
+## The Natural History of Metals
 
   1. Metals                                                         68
 
@@ -391,10 +368,9 @@ OF THE SIXTH VOLUME.
 
   58. Two remedies derived from cæruleum                           143
 
+## Book XXXIV
 
-  BOOK XXXIV.
-
-  THE NATURAL HISTORY OF METALS.
+## The Natural History of Metals
 
   1. The ores of brass                                             147
 
@@ -522,10 +498,9 @@ OF THE SIXTH VOLUME.
 
   56. Arrhenicum                                                 _ib._
 
+## Book XXXV
 
-  BOOK XXXV.
-
-  AN ACCOUNT OF PAINTINGS AND COLOURS.
+## An Account of Paintings and Colours
 
   1. The honour attached to painting                               223
 
@@ -669,10 +644,9 @@ OF THE SIXTH VOLUME.
   59. The earth of Galata; of Clypea; of the Baleares; and of
         Ebusus                                                     303
 
+## Book XXXVI
 
-  BOOK XXXVI.
-
-  THE NATURAL HISTORY OF STONES.
+## The Natural History of Stones
 
   1. Luxury displayed in the use of various kinds of marble        305
 
@@ -828,10 +802,9 @@ OF THE SIXTH VOLUME.
 
   70. Prodigies connected with the hearth                          384
 
+## Book XXXVII
 
-  BOOK XXXVII.
-
-  THE NATURAL HISTORY OF PRECIOUS STONES.
+## The Natural History of Precious Stones
 
   1. The first use of precious stones                              386
 
@@ -1037,27 +1010,16 @@ OF THE SIXTH VOLUME.
   77. A comparative view of Nature as she appears in different
         countries. The comparative values of things                464
 
+## General Index 469
 
-  GENERAL INDEX                                                    469
+## Natural History of Pliny
 
+## Book Xxxii.[1]
 
-
-
-NATURAL HISTORY OF PLINY.
-
-
-
-
-BOOK XXXII.[1]
-
-REMEDIES DERIVED FROM AQUATIC ANIMALS.
-
-
-
+## Remedies Derived from Aquatic Animals
 
 CHAP. 1. (1.)—THE POWER OF NATURE AS MANIFESTED IN ANTIPATHIES. THE
 ECHENEÏS: TWO REMEDIES.
-
 
 Following the proper order of things, we have now arrived at the
 culminating point of the wonders manifested to us by the operations of
@@ -1140,11 +1102,7 @@ possibility of any manifestation of her power by Nature, or as to
 the effectual operation of the remedies which she has centred in her
 spontaneous productions?
 
-
-
-
-CHAP. 2.—THE TORPEDO: NINE REMEDIES.
-
+## Chap. 2.—the Torpedo: Nine Remedies
 
 And then, besides, even if we had not this illustration by the agency
 of the echeneïs, would it not have been quite sufficient only to cite
@@ -1160,11 +1118,7 @@ enabled to affect the members of the human body,[17] what are we not to
 hope for from the remedial influences which Nature has centred in all
 animated beings?
 
-
-
-
-CHAP. 3.—THE SEA HARE: FIVE REMEDIES.
-
+## Chap. 3.—the Sea Hare: Five Remedies
 
 No less wonderful, too, are the particulars which we find stated
 relative to the sea-hare.[18] Taken with the food or drink, it is a
@@ -1192,11 +1146,7 @@ turn, acts as a poison upon the fish, which dies instantly in the sea,
 if it is only touched with the human finger. There, like the rest of
 the animals, it attains a much larger size than it does with us.
 
-
-
-
-CHAP. 4.—MARVELS OF THE RED SEA.
-
+## Chap. 4.—marvels of the Red Sea
 
 Juba, in those books descriptive of Arabia, which he has dedicated to
 Caius Cæsar, the son of Augustus, informs us that there are mussels[23]
@@ -1208,11 +1158,7 @@ there. He tells us, too, that in those parts they anoint their camels
 with the grease of all kinds of fish, for the purpose of keeping off
 the gad-flies[26] by the smell.
 
-
-
-
-CHAP. 5. (2.)—THE INSTINCTS OF FISHES.
-
+## Chap. 5. (2.)—the Instincts of Fishes
 
 The statements which Ovid has made as to the instincts of fish, in the
 work[27] of his known as the “Halieuticon,”[28] appear to me truly
@@ -1260,11 +1206,7 @@ razor-fish[43] smell of iron.[44] The hardest of all fishes, beyond a
 doubt, is that known as the “orbis:”[45] it is spherical, destitute[46]
 of scales, and all head.[47]
 
-
-
-
-CHAP. 6.—MARVELLOUS PROPERTIES BELONGING TO CERTAIN FISHES.
-
+## Chap. 6.—marvellous Properties Belonging to Certain Fishes
 
 Trebius Niger informs us that whenever the loligo[48] is seen darting
 above the surface of the water, it portends a change of weather: that
@@ -1275,11 +1217,7 @@ Mauritania, known as Cotte, not far from the river Lixus.[50] He says,
 too, that the loligo sometimes darts above the surface, in such vast
 numbers, as to sink the ships upon which they fall.
 
-
-
-
-CHAP. 7.—PLACES WHERE FISH EAT FROM THE HAND.
-
+## Chap. 7.—places Where Fish Eat from the Hand
 
 At many of the country-seats belonging to the Emperor the fish
 eat[51] from the hand: but the stories of this nature, told with such
@@ -1291,12 +1229,8 @@ wear ear-rings,[53] it is said. The same, too, at Chios, near the Old
 Men’s Temple[54] there; and at the Fountain of Chabura in Mesopotamia,
 already mentioned.[55]
 
-
-
-
 CHAP. 8.—PLACES WHERE FISH RECOGNIZE THE HUMAN VOICE. ORACULAR
 RESPONSES GIVEN BY FISH.
-
 
 At Myra, too, in Lycia, the fish in the Fountain of Apollo, known
 as Surium, appear and give oracular presages, when thrice summoned
@@ -1314,11 +1248,7 @@ the melanuri[58] seize with avidity bread that is thrown to them in the
 sea, but they will never approach any bait in which there is a hook
 concealed.
 
-
-
-
-CHAP. 9.—PLACES WHERE BITTER FISH ARE FOUND, SALT, OR SWEET.
-
+## Chap. 9.—places Where Bitter Fish Are Found, Salt, or Sweet
 
 Nor is it by any means the least surprising fact, that off the island
 of Pele,[59] the town of Clazomenæ,[60] the rock[61] [of Scylla]
@@ -1339,12 +1269,8 @@ illustration of which is, the well-known fact that, at Beneventum[67]
 in Italy, salted provisions of all kinds require[68] to be salted over
 again.
 
-
-
-
 CHAP. 10.—WHEN SEA-FISH WERE FIRST EATEN BY THE PEOPLE OF ROME. THE
 ORDINANCE OF KING NUMA AS TO FISH.
-
 
 Cassius Hemina informs us that sea-fish have been in use at Rome from
 the time of its foundation. I will give his own words, however, upon
@@ -1356,11 +1282,7 @@ provided at a smaller expense than formerly: it being also his wish to
 preclude the risk that the caterers for the sacred banquets would spare
 no expense in buying provisions, and so forestall the market.”
 
-
-
-
-CHAP. 11.—CORAL: FORTY-THREE REMEDIES AND OBSERVATIONS.
-
+## Chap. 11.—coral: Forty-Three Remedies and Observations
 
 In the same degree that people in our part of the world set a value
 upon the pearls of India—a subject on which we have already spoken[71]
@@ -1415,14 +1337,10 @@ eyes, being productive of certain astringent and cooling effects: it
 makes flesh, also, in the cavities left by ulcers, and effaces scars
 upon the skin.
 
-
-
-
 CHAP. 12.—THE ANTIPATHIES AND SYMPATHIES WHICH EXIST BETWEEN
 CERTAIN OBJECTS. THE HATREDS MANIFESTED BY CERTAIN AQUATIC ANIMALS.
 THE PASTINACA: EIGHT REMEDIES. THE GALEOS: FIFTEEN REMEDIES. THE
 SUR-MULLET: FIFTEEN REMEDIES.
-
 
 In reference to that repugnance which exists between certain things,
 known to the Greeks as “antipathia,” there is nothing more venomous[77]
@@ -1435,12 +1353,8 @@ pursuit of what is poisonous even! Persons stung by the pustinaca find
 a remedy in the flesh of the galeos, as also in that of the sur-mullet
 and the vegetable production known as laser.[80]
 
-
-
-
 CHAP. 13. (3).—AMPHIBIOUS ANIMALS. CASTOREUM: SIXTY-SIX REMEDIES AND
 OBSERVATIONS.
-
 
 The might of Nature, too, is equally conspicuous in the animals
 which live upon dry land as well;[81] the beaver, for instance, more
@@ -1510,11 +1424,7 @@ The urine, too, of the beaver, is a neutralizer of poisons, and for
 this reason is used as an ingredient in antidotes. The best way of
 keeping it, some think, is in the bladder of the animal.
 
-
-
-
-CHAP. 14. (4.)—THE TORTOISE: SIXTY-SIX REMEDIES AND OBSERVATIONS.
-
+## Chap. 14. (4.)—the Tortoise: Sixty-Six Remedies and Observations
 
 The tortoise,[97] too, is an animal that is equally amphibious with the
 beaver, and possessed of medicinal properties as strongly developed;
@@ -1627,12 +1537,8 @@ removal of inflammatory tumours. Incredible also as the statement is,
 we find it asserted by some, that ships[108] make way more slowly when
 they have the right foot of a tortoise on board.
 
-
-
-
 CHAP. 15.—REMEDIES DERIVED FROM THE AQUATIC ANIMALS, CLASSIFIED
 ACCORDING TO THE RESPECTIVE DISEASES.
-
 
 We will now proceed to classify the various remedies derived from the
 aquatic animals, according to the several diseases; not that we are
@@ -1644,12 +1550,8 @@ grouped and classified; seeing that this thing may be good for one
 patient, that for another, and that some of these remedies may be more
 easily met with in one place and some in another.
 
-
-
-
 CHAP. 16. (5.)—REMEDIES FOR POISONS, AND FOR NOXIOUS SPELLS. THE
 DORADE: FOUR REMEDIES. THE SEA-STAR: SEVEN REMEDIES.
-
 
 We have already[109] stated in what country the honey is venomous: the
 fish known as the dorade[110] is an antidote to its effects. Honey,
@@ -1673,14 +1575,10 @@ door, or to the door itself, with a copper nail, no noxious spells will
 be able to obtain admittance, or, at all events, to be productive of
 any ill effects.
 
-
-
-
 CHAP. 17.—REMEDIES FOR THE STINGS OF SERPENTS, FOR THE BITES OF DOGS,
 AND FOR INJURIES INFLICTED BY VENOMOUS ANIMALS. THE SEA-DRAGON: THREE
 REMEDIES. TWENTY-FIVE REMEDIES DERIVED FROM SALTED FISH. THE SARDA: ONE
 REMEDY. ELEVEN REMEDIES DERIVED FROM CYBIUM.
-
 
 Stings inflicted by the sea-dragon[118] or by the sea-scorpion, are
 cured by an application[119] of the flesh of those animals to the
@@ -1713,13 +1611,9 @@ As a cure for the venomous sting inflicted with its stickle by the
 sea-dragon, the fish itself is applied topically to the wound, or else
 its brain, extracted whole.
 
-
-
-
 CHAP. 18.—THE SEA-FROG: SIX REMEDIES. THE RIVER-FROG: FIFTY-TWO
 REMEDIES. THE BRAMBLE-FROG: ONE REMEDY. THIRTY-TWO OBSERVATIONS ON
 THESE ANIMALS.
-
 
 The broth prepared from sea-frogs,[128] boiled in wine and vinegar,
 is taken internally as a neutralizer of poisons and of the venom
@@ -1777,13 +1671,9 @@ and of checking amorous propensities. The spleen of these frogs is used
 as an antidote to the various poisons that are prepared from them; and
 for all these purposes the liver is considered still more efficacious.
 
-
-
-
 CHAP. 19.—THE ENHYDRIS: SIX REMEDIES. THE RIVER-CRAB: FOURTEEN
 REMEDIES. THE SEA-CRAB: SEVEN REMEDIES. THE RIVER-SNAIL: SEVEN
 REMEDIES. THE CORACINUS: FOUR REMEDIES. THE SEA-PIG: TWO REMEDIES.
-
 
 There is also a snake[140] which lives in the water, the fat and
 gall of which, carried about them by persons when in pursuit of
@@ -1830,12 +1720,8 @@ causes great suffering to those who have been pierced with the pointed
 fin upon its back: the proper remedy in such case is the slime taken
 from the other parts of the body of the fish.
 
-
-
-
 CHAP. 20.—THE SEA-CALF: TEN REMEDIES. THE MURÆNA: ONE REMEDY. THE
 HIPPOCAMPUS: NINE REMEDIES. THE SEA-URCHIN: ELEVEN REMEDIES.
-
 
 In cases of hydrophobia resulting from the bite of the mad dog, the
 practice is to rub the patient’s face with the fat of the sea-calf; an
@@ -1859,12 +1745,8 @@ looked upon as highly efficacious in cases of poisoning by dorycnium;
 and as a neutralizer of the venom of the sea-hare they are particularly
 good.
 
-
-
-
 CHAP. 21. (6.)—THE VARIOUS KINDS OF OYSTERS: FIFTY-EIGHT REMEDIES AND
 OBSERVATIONS. PURPLES: NINE REMEDIES.
-
 
 Oysters, too, neutralize the venom of the sea-hare—and now that we
 are speaking of oysters, it may possibly be thought that I have not
@@ -1944,11 +1826,7 @@ curative of scrofula and of chilblains upon the feet.
 
 Purples, too, are useful[180] as a counterpoison.
 
-
-
-
-CHAP. 22.—SEA-WEED: TWO REMEDIES.
-
+## Chap. 22.—sea-Weed: Two Remedies
 
 According to Nicander, sea-weed is also a theriac.[181] There are
 numerous varieties of it, as already[182] stated; one, for instance,
@@ -1959,14 +1837,10 @@ it being used also for dyeing wool, as it has the property[183] of
 so fixing the colours as never to allow of their being washed out.
 Nicander recommends it to be taken with wine.
 
-
-
-
 CHAP. 23. (7.)—REMEDIES FOR ALOPECY, CHANGE OF COLOUR IN THE HAIR, AND
 ULCERATIONS OF THE HEAD. THE SEA-MOUSE: TWO REMEDIES, THE SEA-SCORPION:
 TWELVE REMEDIES. THE LEECH: SEVEN REMEDIES. THE MUREX: THIRTEEN
 REMEDIES. THE CONCHYLIUM: FIVE REMEDIES.
-
 
 Ashes of the hippocampus,[184] mixed with nitre[185] and hog’s lard, or
 else used solely with vinegar, are curative of alopecy; the skin being
@@ -1990,14 +1864,10 @@ for the same purpose, applied with water. For the cure of head-ache,
 castoreum is employed, in combination with peucedanum[190] and oil of
 roses.
 
-
-
-
 CHAP. 24.—REMEDIES FOR DISEASES OF THE EYES AND EYELIDS. TWO REMEDIES
 DERIVED FROM THE FAT OF FISHES. THE CALLIONYMUS: THREE REMEDIES. THE
 GALL OF THE CORACINUS: ONE REMEDY. THE SÆPIA: TWENTY-FOUR REMEDIES.
 ICHTHYOCOLLA: FIVE REMEDIES.
-
 
 The fat of all kinds of fish, both fresh-water as well as sea fish,
 melted in the sun and incorporated with honey, is an excellent
@@ -2089,12 +1959,8 @@ the proportion of four denarii, with oil of cedar, and applied as
 a depilatory for nine months together, is considered to be highly
 effectual for this purpose.
 
-
-
-
 CHAP. 25.—REMEDIES FOR DISEASES OF THE EARS. THE BATIA: ONE REMEDY. THE
 BACCHUS OR MYXON: TWO REMEDIES. THE SEA-LOUSE: TWO REMEDIES.
-
 
 For diseases of the ears, fresh gall of the fish called “batia”[212]
 is remarkably good; the same, too, when it has been kept in wine. The
@@ -2121,12 +1987,8 @@ of the murex, reduced to ashes, and applied with honey, or the burnt
 shells of other shell-fish,[219] used with honied wine, are curative of
 imposthumes of the parotid glands.
 
-
-
-
 CHAP. 26.—REMEDIES FOR TOOTH-ACHE. THE DOG-FISH: FOUR REMEDIES. WHALE’S
 FLESH.
-
 
 Tooth-ache is alleviated by scarifying the gums with bones of the
 sea-dragon, or by rubbing the teeth once a year with the brains of a
@@ -2175,13 +2037,9 @@ content themselves with using an eyetooth only. Ashes, too, of burnt
 crabs are used for this purpose; and the murex, reduced to ashes, makes
 an excellent dentifrice.
 
-
-
-
 CHAP. 27.—REMEDIES FOR LICHENS, AND FOR SPOTS UPON THE FACE. THE
 DOLPHIN: NINE REMEDIES. COLUTHIA OR CORYPHIA: THREE REMEDIES.
 HALCYONEUM: SEVEN REMEDIES. THE TUNNY: FIVE REMEDIES.
-
 
 Lichens and leprous spots are removed by applying the fat of the
 sea-calf,[228] ashes of the mæna[229] in combination with three oboli
@@ -2236,14 +2094,10 @@ It is employed, also, for the removal of marks upon the eyes.[236]
 Andreas[237] has recommended for the cure of leprosy ashes of burnt
 crabs, with oil; and Attalus,[238] fresh fat of tunny.
 
-
-
-
 CHAP. 28.—REMEDIES FOR SCROFULA, IMPOSTHUMES OF THE PAROTID GLANDS,
 QUINSY, AND DISEASES OF THE FAUCES. THE MÆNA: THIRTEEN REMEDIES. THE
 SEA-SCOLOPENDRA: TWO REMEDIES. THE SAURUS: ONE REMEDY. SHELL-FISH: ONE
 REMEDY. THE SILURUS: FIFTEEN REMEDIES.
-
 
 Ulcerations of the mouth are cured by an application of brine in
 which mænæ[239] have been pickled, in combination with calcined heads
@@ -2280,11 +2134,7 @@ put beneath the uvula with a spoon, effectually cures diseases of that
 part. The silurus,[246] used as food, either fresh or salted, improves
 the voice.
 
-
-
-
-CHAP. 29.—REMEDIES FOR COUGH AND DISEASES OF THE CHEST.
-
+## Chap. 29.—remedies for Cough and Diseases of the Chest
 
 Surmullets act as an emetic, dried and pounded, and taken in drink.
 Castoreum, taken fasting, with a small quantity of hammoniacum[247]
@@ -2301,12 +2151,8 @@ lets it go, he will experience a cure, it is said. For cough attended
 with spitting of blood, it is recommended to beat up the raw flesh of a
 snail, and to drink it in hot water.
 
-
-
-
 CHAP. 30. (9.)—REMEDIES FOR PAINS IN THE LIVER AND SIDE. THE ELONGATED
 CONCH: SIX REMEDIES. THE TETHEA: FIVE REMEDIES.
-
 
 For pains in the liver, a sea-scorpion is killed in wine, and the
 liquid is taken. The meat, too, of the elongated conch[250] is taken
@@ -2318,13 +2164,9 @@ sciatica, the pickle of the silurus is injected, by way of clyster.
 The flesh of conchs, too, is prescribed, for fifteen days, in doses of
 three oboli soaked in two sextarii of wine.
 
-
-
-
 CHAP. 31.—REMEDIES FOR DISEASES OF THE BOWELS. SEA-WORT: ONE REMEDY.
 THE MYAX: TWENTY-FIVE REMEDIES. THE MITULUS: EIGHT REMEDIES. PELORIDES:
 ONE REMEDY. SERIPHUM: TWO REMEDIES. THE ERYTHINUS: TWO REMEDIES.
-
 
 The silurus,[253] taken in its broth, or the torpedo,[254] used as
 food, acts as a laxative upon the bowels. There is a sea-wort,[255]
@@ -2419,14 +2261,10 @@ honey, as Niceratus[276] recommends. For the cure of jaundice, salt
 fish should be taken with pepper, the patient abstaining from all other
 kinds of meat.
 
-
-
-
 CHAP. 32.—-REMEDIES FOR DISEASES OF THE SPLEEN, FOR URINARY CALCULI,
 AND FOR AFFECTIONS OF THE BLADDER. THE SOLE: ONE REMEDY. THE TURBOT:
 ONE REMEDY. THE BLENDIUS: ONE REMEDY. THE SEA-NETTLE: SEVEN REMEDIES.
 THE PULMO MARINUS: SIX REMEDIES. ONYCHES: FOUR REMEDIES.
-
 
 For the cure of spleen diseases, the fish known as the sole[277]
 is applied to that part; the torpedo,[278] also, or else a
@@ -2456,13 +2294,9 @@ effect: the flesh of the female is sweeter than that of the male, and
 of an uniform colour. The eggs, too, of the sæpia promote the urinary
 secretions, and act detergently upon the kidneys.
 
-
-
-
 CHAP. 33.—REMEDIES FOR INTESTINAL HERNIA, AND FOR DISEASES OF THE
 RECTUM. THE WATER-SNAKE: ONE REMEDY. THE HYDRUS: ONE REMEDY. THE
 MULLET: ONE REMEDY. THE PELAMIS: THREE REMEDIES.
-
 
 For the cure of intestinal hernia the sea-hare is applied, bruised with
 honey. The liver of the water-snake,[290] and that of the hydrus,[291]
@@ -2481,13 +2315,9 @@ River-crabs,[297] reduced to ashes, and applied with oil and wax, are
 curative of chaps of the fundament: sea-crabs, too, are equally useful
 for the purpose.
 
-
-
-
 CHAP. 34.—-REMEDIES FOR INFLAMED TUMOURS, AND FOR DISEASES OF THE
 GENERATIVE ORGANS. THE SCIÆNA: ONE REMEDY. THE PERCH: FOUR REMEDIES.
 THE SQUATINA: THREE REMEDIES. THE SMARIS: THREE REMEDIES.
-
 
 The pickle of the coracinus[298] disperses inflammatory tumours; an
 effect which is equally produced by using the calcined intestines
@@ -2520,11 +2350,7 @@ carbuncles upon the generative organs. For relaxation of the testes,
 the slime[307] of snails is recommended, applied in the form of a
 liniment.
 
-
-
-
-CHAP. 35.—REMEDIES FOR INCONTINENCE OF URINE. THE OPHIDION: ONE REMEDY.
-
+## Chap. 35.—remedies for Incontinence of Urine. The Ophidion: One Remedy
 
 The flesh of hippocampi,[308] grilled and taken frequently as food,
 is a cure for incontinence of urine; the ophidion,[309] too, a little
@@ -2534,12 +2360,8 @@ them, reduced to ashes and taken in water. It is recommended, too, to
 burn[310] African snails, both shells and flesh, and to administer the
 ashes with wine[311] of Signia.
 
-
-
-
 CHAP. 36.—REMEDIES FOR GOUT, AND FOR PAINS IN THE FEET. THE BEAVER:
 FOUR REMEDIES. BRYON: ONE REMEDY.
-
 
 For the cure of gout and of diseases of the joints, oil is useful
 in which the intestines of frogs have been boiled. Ashes, too, of
@@ -2565,11 +2387,7 @@ now and then: some authorities recommend that they should be split
 asunder before being applied. The liquor from mussels[320] and other
 shell-fish has a tendency to make flesh.
 
-
-
-
-CHAP. 37.—REMEDIES FOR EPILEPSY.
-
+## Chap. 37.—remedies for Epilepsy
 
 Epileptic patients, as already[321] stated, are recommended to drink
 the rennet of the sea-calf,[322] mixed with mares’ milk or asses’
@@ -2585,12 +2403,8 @@ to give him castoreum, with vinegar, to smell. The liver, too, of
 the sea-weasel[324] is given to epileptic patients, or else that of
 sea-mice,[325] or the blood of tortoises.
 
-
-
-
 CHAP. 38. (10.)—REMEDIES FOR FEVERS. THE FISH CALLED ASELLUS: ONE
 REMEDY. THE PHAGRUS: ONE REMEDY. THE BALÆNA: ONE REMEDY.
-
 
 Recurrent fevers are effectually checked by making the patient
 taste the liver of a dolphin, just before the paroxysm comes on.
@@ -2634,11 +2448,7 @@ vertebræ[335] of a perch attached to the body, and quartan fevers by
 using fresh river snails, as an aliment. Some persons preserve these
 snails in salt for this purpose, and give them, pounded, in drink.
 
-
-
-
-CHAP. 39.—REMEDIES FOR LETHARGY, CACHEXY, AND DROPSY.
-
+## Chap. 39.—remedies for Lethargy, Cachexy, and Dropsy
 
 Strombi,[336] left to putrefy in vinegar, act as an excitant upon
 lethargic patients by their smell; they are very useful, too, for the
@@ -2659,11 +2469,7 @@ being seasoned in such a manner as to allow of its being taken without
 loathing. River-crabs, too, eaten with their broth, are said to be very
 good for the cure of phthisis.
 
-
-
-
-CHAP. 40.—REMEDIES FOR BURNS AND FOR ERYSIPELAS.
-
+## Chap. 40.—remedies for Burns and for Erysipelas
 
 Burns are cured by applying ashes of calcined sea-crabs or river-crabs
 with oil: fish-glue, too, and calcined frogs are used as an application
@@ -2681,11 +2487,7 @@ Prurigo and itch-scab, not only in man but in quadrupeds as well, are
 most efficaciously treated with the liver of the pastinaca[341] boiled
 in oil.
 
-
-
-
-CHAP. 41.—REMEDIES FOR DISEASES OF THE SINEWS.
-
+## Chap. 41.—remedies for Diseases of the Sinews
 
 The exterior callosity with which the flesh of purples is covered,
 beaten up, unites the sinews, even when they have been severed
@@ -2696,12 +2498,8 @@ relief from castoreum,[343] provided they are well anointed with oil.
 I find it stated that the surmullet,[344] used as an article of diet,
 acts injuriously upon the sinews.
 
-
-
-
 CHAP. 42.—METHODS OF ARRESTING HÆMORRHAGE AND OF LETTING BLOOD. THE
 POLYP: ONE REMEDY.
-
 
 Fish, used as an aliment, it is generally thought, make blood. The
 polyp,[345] bruised and applied, arrests hæmorrhage, it is thought: in
@@ -2750,11 +2548,7 @@ the latter are killed by the aid of a fumigation made with leeches.
 Ashes of beaver-skin burnt with tar, kneaded up with leek-juice, arrest
 bleeding at the nostrils.
 
-
-
-
-CHAP. 43.—METHODS OF EXTRACTING FOREIGN BODIES FROM THE FLESH.
-
+## Chap. 43.—methods of Extracting Foreign Bodies from the Flesh
 
 To extract pointed weapons which have pierced the flesh, ashes of
 calcined shells of the sæpia are used, as also of the purple, the meat
@@ -2765,11 +2559,7 @@ well as the fat, have the property of extracting pointed bodies,
 and the back-bone, in a calcined state, is used as a substitute for
 spodium.[358]
 
-
-
-
-CHAP. 44.—REMEDIES FOR ULCERS, CARCINOMATA, AND CARBUNCLES.
-
+## Chap. 44.—remedies for Ulcers, Carcinomata, and Carbuncles
 
 Ulcers of a serpiginous nature, as also the fleshy excrescences which
 make their appearance in them, are kept in check by applying ashes
@@ -2799,12 +2589,8 @@ with the flesh of the coracinus. Ashes of the murex, applied with
 oil, disperse tumours, and the gall of the sea-scorpion makes scars
 disappear.
 
-
-
-
 CHAP. 45.—REMEDIES FOR WARTS, AND FOR MALFORMED NAILS. THE GLANIS: ONE
 REMEDY.
-
 
 To remove warts, the liver of the glanis[367] is applied to the part;
 ashes also of heads of mæmæ[368] bruised with garlic—substances which
@@ -2813,11 +2599,7 @@ removed—the gall of the red sea-scorpion,[370] smarides[371] pounded
 and applied, or alex[372] thoroughly boiled. Ashes of calcined heads of
 mænæ[373] are used to rectify malformed nails.
 
-
-
-
-CHAP. 46.—REMEDIES FOR FEMALE DISEASES. THE GLAUCISCUS: ONE REMEDY.
-
+## Chap. 46.—remedies for Female Diseases. The Glauciscus: One Remedy
 
 The milk is increased in females by eating the glauciscus[374] in its
 own liquor, or else smarides[375] with a ptisan, or boiled with fennel.
@@ -2887,11 +2669,7 @@ females, there is nothing more efficacious, it is said, than a female
 crab beaten up, just after full moon, with flower of salt[395] and
 applied with water.
 
-
-
-
-CHAP. 47.—METHODS OF REMOVING SUPERFLUOUS HAIR. DEPILATORIES.
-
+## Chap. 47.—methods of Removing Superfluous Hair. Depilatories
 
 Depilatories are prepared from the blood, gall, and liver of the tunny,
 either fresh or preserved; as also from pounded liver of the same fish,
@@ -2917,11 +2695,7 @@ used castoreum with honey, for many days together, as a depilatory.
 In the case, however, of every depilatory, the hairs should always be
 removed before it is applied.
 
-
-
-
-CHAP. 48.—REMEDIES FOR THE DISEASES OF INFANTS.
-
+## Chap. 48.—remedies for the Diseases of Infants
 
 Dentition in infants is promoted, and the gums greatly relieved, by
 rubbing them with ashes of a dolphin’s teeth, mixed with honey, or
@@ -2937,24 +2711,16 @@ or a frog applied, the back part to the head, is a most efficacious
 cure for siriasis[409] in infants. When the frog is removed, it will be
 found quite dry, they say.
 
-
-
-
 CHAP. 49.—METHODS OF PREVENTING INTOXICATION. THE FISH CALLED RUBELLIO:
 ONE REMEDY. THE EEL: ONE REMEDY. THE GRAPE-FISH: ONE REMEDY.
-
 
 A surmullet[410] stifled in wine; the fish called “rubellio;”[411] or a
 couple of eels similarly treated; or a grapefish,[412] left to putrefy
 in wine, all of them, produce an aversion to wine in those who drink
 thereof.
 
-
-
-
 CHAP. 50.—ANTAPHRODISIACS AND APHRODISIACS. THE HIPPOPOTAMUS: ONE
 REMEDY. THE CROCODILE: ONE REMEDY.
-
 
 In the number of antaphrodisiacs, we have the echeneïs;[413] the skin
 from the left side of the forehead of the hippopotamus,[414] attached
@@ -2970,11 +2736,7 @@ sinews of a bramble-frog,[419] worn as an amulet upon the right arm.
 A bramble-frog, attached to the body in a piece of fresh sheep-skin,
 effectually puts an end to love.
 
-
-
-
-CHAP. 51.—REMEDIES FOR THE DISEASES OF ANIMALS.
-
+## Chap. 51.—remedies for the Diseases of Animals
 
 A decoction of frogs in water, reduced to the form of a liniment, is
 curative of itch-scab in horses; indeed, it is said, that a horse, when
@@ -2982,12 +2744,8 @@ once treated in this manner, will never again be attacked with the
 disease. Salpe says that if a live frog is given to dogs in their mess,
 they will lose the power of barking.
 
-
-
-
 CHAP. 52.—OTHER AQUATIC PRODUCTIONS. ADARCA OR CALAMOCHNOS: THREE
 REMEDIES. REEDS: EIGHT REMEDIES. THE INK OF THE SÆPIA.
-
 
 Among the aquatic productions ought also to be mentioned calamochnos,
 in Latin known as “adarca,”[420] a substance which collects about
@@ -3015,12 +2773,8 @@ If wood is rubbed with the pulmo marinus,[427] it will have all the
 appearance of being on fire; so much so, indeed, that a walking-stick,
 thus treated, will light the way like a torch.[428]
 
-
-
-
 CHAP. 53. (11.)—THE NAMES OF ALL THE ANIMALS THAT EXIST IN THE SEA, ONE
 HUNDRED AND SEVENTY-SIX IN NUMBER.
-
 
 Having now completed our exposition of the properties which belong to
 the aquatic productions, it would appear by no means foreign to my
@@ -3143,11 +2897,7 @@ the tethea,[606] the tritomus, a large kind of pelamis,[607] which
 admits of being cut into three cybia;[608] the shells of Venus,[609]
 the grape-fish,[610] and the xiphias.[611]
 
-
-
-
-CHAP. 54.—ADDITIONAL NAMES OF FISHES FOUND IN THE POEM OF OVID.
-
+## Chap. 54.—additional Names of Fishes Found in the Poem of Ovid
 
 To the above enumeration we will add some names given in the poem of
 Ovid,[612] which are not to be found in any other writer: species,
@@ -3198,18 +2948,11 @@ Mæcenas,[636] Iacchus,[637] Sornatius.[638]
 FOREIGN AUTHORS QUOTED.—Juba,[639] Andreas,[640] Salpe,[641]
 Apion,[642] Pelops,[643] Apelles,[644] Thrasyllus,[645] Nicander.[646]
 
+## Book XXXIII
 
+## The Natural History of Metals.[647]
 
-
-BOOK XXXIII.
-
-THE NATURAL HISTORY OF METALS.[647]
-
-
-
-
-CHAP. 1. (1.)—METALS.
-
+## Chap. 1. (1.)—metals
 
 We are now about to speak of metals, of actual wealth,[648] the
 standard of comparative value, objects for which we diligently search,
@@ -3245,11 +2988,7 @@ delightful even would life be, if we were to desire nothing but what is
 to be found upon the face of the earth; in a word, nothing but what is
 provided ready to our hands!
 
-
-
-
-CHAP. 2.—GOLD.
-
+## Chap. 2.—gold
 
 Gold is dug out of the earth, and, in close proximity to it,
 chrysocolla,[654] a substance which, that it may appear all the more
@@ -3279,11 +3018,7 @@ gems,[663] and we set our goblets with smaragdi;[664] we take delight
 in possessing the wealth of India, as the promoter of intoxication, and
 gold is now nothing more than a mere accessory.[665]
 
-
-
-
-CHAP. 3.—WHAT WAS THE FIRST RECOMMENDATION OF GOLD.
-
+## Chap. 3.—what Was the First Recommendation of Gold
 
 Would that gold could have been banished for ever from the earth,
 accursed by universal report,[666] as some of the most celebrated
@@ -3302,11 +3037,7 @@ for those of Diomedes, which were worth but nine.[668] Proceeding upon
 the same system of barter, many of the fines imposed by ancient laws,
 at Rome even, were levied in cattle,[669] [and not in money].
 
-
-
-
-CHAP. 4.—THE ORIGIN OF GOLD RINGS.
-
+## Chap. 4.—the Origin of Gold Rings
 
 The worst crime against mankind was committed by him who was the
 first to put a ring upon his fingers: and yet we are not informed, by
@@ -3390,11 +3121,7 @@ made too, in Homer,[695] of men wearing gold plaited with the hair;
 and hence it is that I am at a loss to say whether the practice first
 originated with females.
 
-
-
-
-CHAP. 5.—THE QUANTITY OF GOLD POSSESSED BY THE ANCIENTS.
-
+## Chap. 5.—the Quantity of Gold Possessed by the Ancients
 
 At Rome, for a long period of time, the quantity of gold was but very
 small. At all events, after the capture of the City by the Gauls, when
@@ -3437,11 +3164,7 @@ silver. The same Sylla had, the day before, displayed in his triumph
 fifteen thousand pounds’ weight of gold, and one hundred and fifteen
 thousand pounds’ weight of silver, the fruit of all his other victories.
 
-
-
-
-CHAP. 6.—THE RIGHT OF WEARING GOLD RINGS.
-
+## Chap. 6.—the Right of Wearing Gold Rings
 
 It does not appear that rings were in common use before the time of
 Cneius Flavius, the son of Annius. This Flavius was the first to
@@ -3585,11 +3308,7 @@ bargain. We may therefore very safely conclude, that though money was
 first introduced among us, the use of rings was introduced very shortly
 after. Of money, I shall shortly have occasion to speak further.[745]
 
-
-
-
-CHAP. 7.—THE DECURIES OF THE JUDGES.
-
+## Chap. 7.—the Decuries of the Judges
 
 Rings, as soon as they began to be commonly worn, distinguished the
 second order from the plebeians, in the same manner as the use of the
@@ -3627,11 +3346,7 @@ of some one of these names, great divisions ensued in this order, one
 person styling himself a member of the nine hundred, another one of the
 selecti, and a third a tribune of the treasury.
 
-
-
-
-CHAP. 8.—PARTICULARS CONNECTED WITH THE EQUESTRIAN ORDER.
-
+## Chap. 8.—particulars Connected with the Equestrian Order
 
 At length, however, in the ninth[756] year of the reign of the Emperor
 Tiberius, the equestrian order was united in a single body; and a
@@ -3686,11 +3401,7 @@ added to the formula—“The Senate and People of Rome.” Hence[765] it is,
 too, that at the present day even, the name of this order is written
 after that of the people, it being the one that was the last instituted.
 
-
-
-
-CHAP. 9.—HOW OFTEN THE NAME OF THE EQUESTRIAN ORDER HAS BEEN CHANGED.
-
+## Chap. 9.—how Often the Name of the Equestrian Order Has Been Changed
 
 Indeed, the name itself of the equites even, has been frequently
 changed, and that too, in the case of those who only owed their name
@@ -3711,11 +3422,7 @@ that name.”[770]—He[771] then goes on to explain the reason, as above
 mentioned, and adds that, though much against their will, those persons
 are still called “Trossuli.”
 
-
-
-
-CHAP. 10.—GIFTS FOR MILITARY SERVICES, IN GOLD AND SILVER.
-
+## Chap. 10.—gifts for Military Services, in Gold and Silver
 
 There are also some other distinctions connected with gold, the
 mention of which ought not to be omitted. Our ancestors, for
@@ -3724,11 +3431,7 @@ troops, while to Roman citizens they only granted silver[773] ones:
 bracelets[774] too, were given by them to citizens, but never to
 foreigners.
 
-
-
-
-CHAP. 11.—AT WHAT PERIOD THE FIRST CROWN OF GOLD WAS PRESENTED.
-
+## Chap. 11.—at What Period the First Crown of Gold Was Presented
 
 But, a thing that is more surprising still, crowns[775] of gold were
 given to the citizens as well. As to the person who was first presented
@@ -3743,11 +3446,7 @@ pounds in weight. Piso Frugi, too, presented his son with a golden
 crown, at his own private expense, making[779] it a specific legacy in
 his will.
 
-
-
-
-CHAP. 12. (3.)—OTHER USES MADE OF GOLD, BY FEMALES.
-
+## Chap. 12. (3.)—other Uses Made of Gold, by Females
 
 To honour the gods at their sacrifices, no greater mark of honour has
 been thought of than to gild the horns of the animals sacrificed—that
@@ -3787,15 +3486,11 @@ rendered them impossible, by proclaiming that the right of admission to
 the emperor belonged equally to all. Let these particulars suffice on
 the subject of golden rings and the use of them.
 
-
-
-
 CHAP. 13.—COINS OF GOLD. AT WHAT PERIODS COPPER, GOLD, AND SILVER
 WERE FIRST IMPRESSED. HOW COPPER WAS USED BEFORE GOLD AND SILVER WERE
 COINED. WHAT WAS THE LARGEST SUM OF MONEY POSSESSED BY ANY ONE AT THE
 TIME OF OUR FIRST CENSUS. HOW OFTEN, AND AT WHAT PERIODS, THE VALUE OF
 COPPER AND OF COINED MONEY HAS BEEN CHANGED.
-
 
 The next[792] crime committed against the welfare of mankind was on the
 part of him who was the first to coin a denarius[793] of gold, a crime
@@ -3864,11 +3559,7 @@ emperors gradually curtailed the weight of the golden denarius, until
 at last, in the reign of Nero, it was coined at the rate of forty-five
 to the libra.
 
-
-
-
-CHAP. 14.—CONSIDERATIONS ON MAN’S CUPIDITY FOR GOLD.
-
+## Chap. 14.—considerations on Man’s Cupidity for Gold
 
 But the invention of money opened a new field to human avarice, by
 giving rise to usury and the practice of lending money at interest,
@@ -3909,12 +3600,8 @@ thus to impart a certain utility to gold, by putting an insult upon
 Nature. Oh how righteously would he himself have been proscribed! but
 then the proscription should have been made by Spartacus.[821]
 
-
-
-
 CHAP. 15.—THE PERSONS WHO HAVE POSSESSED THE GREATEST QUANTITY OF GOLD
 AND SILVER.
-
 
 For my own part, I am much surprised that the Roman people has always
 imposed upon conquered nations a tribute in silver, and not in gold;
@@ -3944,12 +3631,8 @@ of Sesostris,[829] king of Egypt; a monarch so haughty, that every
 year, it is said, it was his practice to select one of his vassal kings
 by lot, and yoking him to his car, celebrate his triumph afresh.
 
-
-
-
 CHAP. 16.—AT WHAT PERIOD SILVER FIRST MADE ITS APPEARANCE UPON THE
 ARENA AND UPON THE STAGE.
-
 
 We, too, have done things that posterity may probably look upon as
 fabulous. Cæsar, who was afterwards dictator, but at that time ædile,
@@ -3973,12 +3656,8 @@ it to Tiridates, king of Armenia. And yet how small was this theatre in
 comparison with that Golden Palace[836] of his, with which he environed
 our city.
 
-
-
-
 CHAP. 17.—AT WHAT PERIODS THERE WAS THE GREATEST QUANTITY OF GOLD AND
 SILVER IN THE TREASURY OF THE ROMAN PEOPLE.
-
 
 In the consulship of Sextus Julius and Lucius Aurelius,[837] seven
 years before the commencement of the Third Punic War, there was in
@@ -4000,11 +3679,7 @@ paid into the public treasury, from the spoil obtained in Macedonia,
 three hundred millions[841] of sesterces, and from this period the
 Roman people ceased to pay tribute.
 
-
-
-
-CHAP. 18.—AT WHAT PERIOD CEILINGS WERE FIRST GILDED.
-
+## Chap. 18.—at What Period Ceilings Were First Gilded
 
 The ceilings which, at the present day, in private houses even, we
 see covered with gold, were first gilded in the Capitol, after
@@ -4016,11 +3691,7 @@ very different from the times when Catulus[843] was far from being
 unanimously approved of for having gilded the brazen tiles of the
 Capitol!
 
-
-
-
-CHAP. 19.—FOR WHAT REASONS THE HIGHEST VALUE IS SET UPON GOLD.
-
+## Chap. 19.—for What Reasons the Highest Value Is Set upon Gold
 
 We have already stated, in the Seventh[844] Book, who were the first
 discoverers of gold, as well as nearly all the other metals. The
@@ -4082,11 +3753,7 @@ gold without any other material. For this long time past, gold has been
 interwoven in the Attalic[865] textures, an invention of the kings of
 Asia.
 
-
-
-
-CHAP. 20.—THE METHOD OF GILDING.
-
+## Chap. 20.—the Method of Gilding
 
 On marble and other substances which do not admit of being brought to
 a white heat, gilt is laid with glair of egg, and on wood by the aid
@@ -4106,11 +3773,7 @@ amalgam of pumice, alum, and quicksilver, to receive the gold leaf when
 applied. Alum has the same property of purifying copper, that we have
 already[871] mentioned us belonging to lead with reference to gold.
 
-
-
-
-CHAP. 21. (4.)—HOW GOLD IS FOUND.
-
+## Chap. 21. (4.)—how Gold Is Found
 
 Gold is found in our own part of the world; not to mention the gold
 extracted from the earth in India by the ants,[872] and in Scythia by
@@ -4273,11 +3936,7 @@ Victumulæ, in the territory of Vercellæ,[900] by which the farmers of
 the revenue were forbidden to employ more than five thousand men at the
 works.
 
-
-
-
-CHAP. 22.—ORPIMENT.
-
+## Chap. 22.—orpiment
 
 There is also one other method of procuring gold; by making it from
 orpiment,[901] a mineral dug from the surface of the earth in Syria,
@@ -4291,11 +3950,7 @@ an experiment prompted solely by avarice: and this too, although the
 price of the orpiment itself was no more than four denarii per pound.
 Since his time, the experiment has never been repeated.
 
-
-
-
-CHAP. 23.—ELECTRUM.
-
+## Chap. 23.—electrum
 
 In all[905] gold ore there is some silver, in varying proportions; a
 tenth part in some instances, an eighth in others. In one mine, and
@@ -4321,11 +3976,7 @@ will form upon the surface of the goblet, and emit a crackling noise,
 like that of flame, thus giving a twofold indication of the presence of
 poison.[911]
 
-
-
-
-CHAP. 24.—THE FIRST STATUES OF GOLD.
-
+## Chap. 24.—the First Statues of Gold
 
 The first statue of massive gold, without any hollowness within, and
 anterior to any of those statues of bronze even, which are known as
@@ -4349,11 +4000,7 @@ first to erect a solid statue of gold, in the Temple at Delphi, in
 honour of himself, about the seventieth[917] Olympiad: so great were
 the fortunes then made by teaching the art of oratory!
 
-
-
-
-CHAP. 25.—EIGHT REMEDIES DERIVED FROM GOLD.
-
+## Chap. 25.—eight Remedies Derived from Gold
 
 Gold is efficacious as a remedy in many ways, being applied to
 wounded persons and to infants, to render any malpractices of sorcery
@@ -4378,11 +4025,7 @@ Gold, boiled in honey with melanthium[920] and applied as a liniment to
 the navel, acts as a gentle purgative upon the bowels. M. Varro assures
 us that gold is a cure for warts.[921]
 
-
-
-
-CHAP. 26. (5.)—CHRYSOCOLLA.
-
+## Chap. 26. (5.)—chrysocolla
 
 Chrysocolla[922] is a liquid which is found in the shafts already
 mentioned,[923] flowing through the veins of gold; a kind of slime
@@ -4418,11 +4061,7 @@ take the colour, scytanum and turbistum[926] are added to the dye; such
 being the name of two drugs which compel it to absorb the colouring
 matter.
 
-
-
-
-CHAP. 27.—THE USE MADE OF CHRYSOCOLLA IN PAINTING.
-
+## Chap. 27.—the Use Made of Chrysocolla in Painting
 
 When chrysocolla has been thus dyed, painters call it “orobitis,” and
 distinguish two kinds of it, the cleansed[927] orobitis,[928] which
@@ -4452,11 +4091,7 @@ thought, from the plant called “lutum;” which itself is often pounded
 with cæruleum[937] instead of real chrysocolla, and used for painting,
 making a very inferior kind of green and extremely deceptive.[938]
 
-
-
-
-CHAP. 28.—SEVEN REMEDIES DERIVED FROM CHRYSOCOLLA.
-
+## Chap. 28.—seven Remedies Derived from Chrysocolla
 
 Chroysocolla, too, is made use of in medicine. In combination with
 wax and oil, it is used as a detergent for wounds; and used by itself
@@ -4469,11 +4104,7 @@ too, it is used, for soothing pain and making scars disappear. This
 kind of chrysocolla[939] is known by medical men as “acesis,” and is
 altogether different from orobitis.
 
-
-
-
-CHAP. 29.—THE CHRYSOCOLLA OF THE GOLDSMITHS, KNOWN ALSO AS SANTERNA.
-
+## Chap. 29.—the Chrysocolla of the Goldsmiths, Known Also as Santerna
 
 The goldsmiths also employ a chrysocolla[940] of their own, for the
 purpose of soldering gold; and it is from this chrysocolla, they say,
@@ -4492,12 +4123,8 @@ peculiar solder employed, made of gold and one-seventh part of silver,
 in addition to the materials above-mentioned, the whole beaten up
 together.
 
-
-
-
 CHAP. 30.—THE MARVELLOUS OPERATIONS OF NATURE IN SOLDERING METALLIC
 SUBSTANCES, AND BRINGING THEM TO A STATE OF PERFECTION.
-
 
 While speaking on this subject, it will be as well to annex the
 remaining particulars, that our admiration may here be drawn to all the
@@ -4517,11 +4144,7 @@ of vinegar, viscus,[948] and unboiled eggs. Earth will under no
 circumstance ignite. When charcoal has been once quenched, and then
 again ignited, it gives out a greater heat than before.
 
-
-
-
-CHAP. 31. (6.)—SILVER.
-
+## Chap. 31. (6.)—silver
 
 After stating these facts, we come to speak of silver ore, the
 next[949] folly of mankind. Silver is never found but in shafts sunk
@@ -4561,11 +4184,7 @@ particularly. The softer they are, the more beautiful gold and silver
 are considered. It is a matter of surprise with most persons, that
 lines traced[962] with silver should be black.
 
-
-
-
-CHAP. 32.—QUICKSILVER.
-
+## Chap. 32.—quicksilver
 
 There is a mineral also found in these veins of silver, which yields a
 humour that is always[963] liquid, and is known as “quicksilver.”[964]
@@ -4592,11 +4211,7 @@ hydrargyros, a substance of which we shall make further mention in the
 appropriate place.[972] Generally speaking, quicksilver has not been
 found in any large quantities.
 
-
-
-
-CHAP. 33.—STIMMI, STIBI, ALABASTRUM, LARBASIS, OR PLATYOPHTHALMON.
-
+## Chap. 33.—stimmi, Stibi, Alabastrum, Larbasis, or Platyophthalmon
 
 In the same mines in which silver is found, there is also found
 a substance which, properly speaking, may be called a stone
@@ -4608,11 +4223,7 @@ stimmi being more uneven, rougher to the touch, less ponderous, not so
 radiant, and more gritty. The female kind, on the other hand, is bright
 and friable, and separates in laminæ, and not in globules.[977]
 
-
-
-
-CHAP. 34.—SEVEN REMEDIES DERIVED PROM STIMMI.
-
+## Chap. 34.—seven Remedies Derived Prom Stimmi
 
 Stimmi is possessed of certain astringent and refrigerative properties,
 its principal use, in medicine, being for the eyes. Hence it is that
@@ -4648,11 +4259,7 @@ of linen cloth; after which, they reject the lees, and pour off the
 remainder of the liquid, collecting all that is deposited at the
 bottom, and using it as an ingredient in plasters and eye-salves.
 
-
-
-
-CHAP. 35.—THE SCORIA OF SILVER. SIX REMEDIES DERIVED FROM IT.
-
+## Chap. 35.—the Scoria of Silver. Six Remedies Derived from It
 
 The scoria of silver is called by the Greeks “helcysma.”[986] It has
 certain restringent and refrigerative effects upon bodies, and, like
@@ -4725,12 +4332,8 @@ ingredient in plaster, and in the liparæ previously mentioned.[1001] In
 combination with rue, myrtle, and vinegar, it removes erysipelas: and,
 with myrtle and wax, it is a cure for chilblains.
 
-
-
-
 CHAP. 36. (7.)—MINIUM: FOR WHAT RELIGIOUS PURPOSES IT WAS USED BY THE
 ANCIENTS.
-
 
 It is also in silver-mines that minium[1002] is found, a pigment held
 at the present day in very high estimation; and by the Romans in former
@@ -4752,11 +4355,7 @@ habit of staining the body all over with it, and this being the colour
 appropriated to the statues of their gods. I shall therefore use all
 the more diligence in enquiring into all the known facts respecting it.
 
-
-
-
-CHAP. 37.—THE DISCOVERY AND ORIGIN OF MINIUM.
-
+## Chap. 37.—the Discovery and Origin of Minium
 
 Theophrastus states that, ninety years before the magistracy of
 Praxibulus at Athens—a date which answers to the year of our City,
@@ -4777,11 +4376,7 @@ of preparing their minium with a single washing, while with others it
 is more diluted. The best kind, however, he says, is that which has
 undergone a second washing.
 
-
-
-
-CHAP. 38.—CINNABARIS.
-
+## Chap. 38.—cinnabaris
 
 I am not surprised that this colour should have been held in such high
 esteem; for already, in the days of the Trojan War, rubrica[1007] was
@@ -4800,11 +4395,7 @@ But, by Hercules! our physicians, because minium also has the name of
 “cinnabaris,” use it as a substitute for the other, and so employ a
 poison, as we shall shortly[1010] show it to be.
 
-
-
-
-CHAP. 39.—THE EMPLOYMENT OF CINNABARIS IN PAINTING.
-
+## Chap. 39.—the Employment of Cinnabaris in Painting
 
 The ancients used to paint with cinnabaris[1011] those pictures of one
 colour, which are still known among us as “monochromata.”[1012] They
@@ -4819,11 +4410,7 @@ Cinnabaris[1016] is adulterated by the agency of goats’ blood, or of
 bruised sorb-apples. The price of genuine cinnabaris is fifty sesterces
 per pound.
 
-
-
-
-CHAP. 40.—THE VARIOUS KINDS OF MINIUM. THE USE MADE OF IT IN PAINTING.
-
+## Chap. 40.—the Various Kinds of Minium. The Use Made of It in Painting
 
 According to Juba minium is also a production of Carmania,[1017] and
 Timagenes says that it is found in Æthiopia. But from neither of
@@ -4889,11 +4476,7 @@ Minium is employed also for writing[1030] in books; and the letters
 made with it being more distinct, even on gold or marble, it is used
 for the inscriptions upon tombs.
 
-
-
-
-CHAP. 41. (8.)—HYDRARGYROS. REMEDIES DERIVED FROM MINIUM.
-
+## Chap. 41. (8.)—hydrargyros. Remedies Derived from Minium
 
 Human industry has also discovered a method of extracting
 hydrargyros[1031] from the inferior minium, a substitute for
@@ -4918,11 +4501,7 @@ allowed to penetrate to the viscera, or to touch any sore. Beyond such
 cases as these, for my own part, I should never recommend it to be used
 in medicine.
 
-
-
-
-CHAP. 42.—THE METHOD OF GILDING SILVER.
-
+## Chap. 42.—the Method of Gilding Silver
 
 At the present day silver is gilded almost exclusively by the agency
 of hydrargyros;[1035] and a similar method should always be employed
@@ -4931,11 +4510,7 @@ itself so extremely ingenious in all departments of human industry,
 has devised a plan of substituting an inferior material, as already
 mentioned.[1036]
 
-
-
-
-CHAP. 43.—TOUCHSTONES FOR TESTING GOLD.
-
+## Chap. 43.—touchstones for Testing Gold
 
 A description of gold and silver is necessarily accompanied by that
 of the stone known as “coticula.”[1037] In former times, according
@@ -4951,11 +4526,7 @@ can tell in a moment the proportion of gold there is in it, how much
 silver, or how much copper; and this to a scruple, their accuracy being
 so marvellous that they are never mistaken.
 
-
-
-
-CHAP. 44.—THE DIFFERENT KINDS OF SILVER, AND THE MODES OF TESTING IT.
-
+## Chap. 44.—the Different Kinds of Silver, and the Modes of Testing It
 
 There are two kinds of silver. On placing a piece of it upon an iron
 fire-shovel at a white heat, if the metal remains perfectly white, it
@@ -4968,11 +4539,7 @@ test with reference to polished silver: when the human breath comes in
 contact with it, it should immediately be covered with steam,[1040] the
 cloudiness disappearing at once.
 
-
-
-
-CHAP. 45. (9.)—MIRRORS.
-
+## Chap. 45. (9.)—mirrors
 
 It is generally supposed among us that it is only the very finest
 silver that admits of being laminated, and so converted into mirrors.
@@ -5013,11 +4580,7 @@ Pompeius Magnus. More recently,[1053] a notion has arisen that the
 object is reflected with greater distinctness, by the application to
 the back of the mirror of a layer of gold.[1054]
 
-
-
-
-CHAP. 46.—EGYPTIAN SILVER.
-
+## Chap. 46.—egyptian Silver
 
 The people of Egypt stain their silver vessels, that they may see
 represented in them their god Anubis;[1055] and it is the custom
@@ -5046,12 +4609,8 @@ of falsification should be made a study:[1061] for the sample of the
 false denarius is now an object of careful examination, and people
 absolutely buy the counterfeit coin at the price of many genuine ones!
 
-
-
-
 CHAP. 47. (10.)—INSTANCES OF IMMENSE WEALTH. PERSONS WHO HAVE POSSESSED
 THE GREATEST SUMS OF MONEY.
-
 
 The ancients bad no number whereby to express a larger sum than one
 hundred thousand; and hence it is that, at the present day, we reckon
@@ -5107,12 +4666,8 @@ nature to centre its desires upon a thing that has either fallen to the
 lot of slaves, or else has reached no known limit in the aspirations
 even of kings!
 
-
-
-
 CHAP. 48.—AT WHAT PERIOD THE ROMAN PEOPLE FIRST MADE VOLUNTARY
 CONTRIBUTIONS.
-
 
 The Roman people first began to make voluntary contributions[1075] in
 the consulship of Spurius Posthumius and Quintus Marcius.[1076] So
@@ -5124,11 +4679,7 @@ Menenius, I look upon that to have been a mark of respect paid to him,
 an honour, too, that was rendered necessary by his poverty, rather than
 in the light of a largess.
 
-
-
-
-CHAP. 49. (11.)—INSTANCES OF LUXURY IN SILVER PLATE.
-
+## Chap. 49. (11.)—instances of Luxury in Silver Plate
 
 The caprice of the human mind is marvellously exemplified in the
 varying fashions of silver plate; the work of no individual manufactory
@@ -5148,12 +4699,8 @@ very carriages[1084] with chased silver, and it was in our own age that
 Poppæa, the wife of the Emperor Nero, ordered her favourite mules to be
 shod even with gold!
 
-
-
-
 CHAP. 50.—INSTANCES OF THE FRUGALITY OF THE ANCIENTS IN REFERENCE TO
 SILVER PLATE.
-
 
 The younger Scipio Africanus left to his heir thirty-two pounds’ weight
 of silver; the same person who, on his triumph over the Carthaginians,
@@ -5190,12 +4737,8 @@ with him, when serving with the army, and that, too, in a war against
 the most savage nations, a service of silver plate that weighed twelve
 thousand pounds!
 
-
-
-
 CHAP. 51.—AT WHAT PERIOD SILVER WAS FIRST USED AS AN ORNAMENT FOR
 COUCHES.
-
 
 For this long time past, however, it has been the fashion to plate the
 couches of our women, as well as some of our banquetting-couches,[1094]
@@ -5208,13 +4751,9 @@ well: and it was not long after his time that silver couches came into
 fashion, in imitation of the couches of Delos. All this extravagance,
 however, was fully expiated by the civil wars of Sulla.
 
-
-
-
 CHAP. 52.—AT WHAT PERIOD SILVER CHARGERS OF ENORMOUS SIZE WERE FIRST
 MADE. WHEN SILVER WAS FIRST USED AS A MATERIAL FOR SIDEBOARDS. WHEN THE
 SIDEBOARDS CALLED TYMPANA WERE FIRST INTRODUCED.
-
 
 In fact, it was but very shortly before that period that these couches
 were invented, as well as chargers[1097] of silver, one hundred pounds
@@ -5250,11 +4789,7 @@ it was at this period, too, that the chargers which had been known as
 “magides” by the ancients, first received the name of “lances,” from
 their resemblance[1106] to the scales of a balance.
 
-
-
-
-CHAP. 53.—THE ENORMOUS PRICE OF SILVER PLATE.
-
+## Chap. 53.—the Enormous Price of Silver Plate
 
 It is not, however, only for vast quantities of plate that there is
 such a rage among mankind, but even more so, if possible, for the plate
@@ -5294,11 +4829,7 @@ from a cantharus,[1114] it is said, in imitation of Father Liber;[1115]
 Marius, that ploughman[1116] of Arpinum, a general who had risen from
 the ranks![1117]
 
-
-
-
-CHAP. 54. (12.)—STATUES OF SILVER.
-
+## Chap. 54. (12.)—statues of Silver
 
 It is generally believed, but erroneously, that silver was first
 employed for making statues of the deified Emperor Augustus, at a
@@ -5335,12 +4866,8 @@ valour in our day are either composed of these objects of luxury, or
 else are broken up to make them![1125] Alas for the morals of our age!
 Fabricius puts us to the blush.
 
-
-
-
 CHAP. 55.—THE MOST REMARKABLE WORKS IN SILVER, AND THE NAMES OF THE
 MOST FAMOUS ARTISTS IN SILVER.
-
 
 It is a remarkable fact that the art of chasing gold should have
 conferred no celebrity upon any person, while that of embossing silver
@@ -5386,12 +4913,8 @@ on which are so much worn that the figures cannot be distinguished.
 Silver becomes tainted by the contact of mineral waters, and of the
 salt exhalations from them, as in the interior of Spain, for instance.
 
-
-
-
 CHAP. 56.—SIL: THE PERSONS WHO FIRST USED IT IN PAINTING, AND THE
 METHOD THEY ADOPTED.
-
 
 In the mines of gold and silver there are some other pigments also
 found, sil[1152] and cæruleum. Sil is, properly speaking, a sort of
@@ -5419,11 +4942,7 @@ kind for strong lights only, and employed the Scyric and Lydian kinds
 for shadow painting. The Lydian sil used to be bought at Sardes; but at
 the present day we hear nothing of it.
 
-
-
-
-CHAP. 57. (13.)—CÆRULEUM.
-
+## Chap. 57. (13.)—cæruleum
 
 Cæruleum[1159] is a kind of sand. In former times there were three
 kinds of it; the Egyptian, which was the most esteemed of all; the
@@ -5458,11 +4977,7 @@ it emits a flame, on being laid upon burning coals. One method of
 adulterating it is to boil dried violets in water, and then to strain
 the liquor through linen into Eretrian[1170] clay.
 
-
-
-
-CHAP. 58.—TWO REMEDIES DERIVED FROM CÆRULEUM.
-
+## Chap. 58.—two Remedies Derived from Cæruleum
 
 Cæruleum has the medicinal property of acting as a detergent upon
 ulcers. Hence it is, that it is used as an ingredient in plasters,
@@ -5506,18 +5021,11 @@ did the same, Menander[1212] who wrote on Toreutics, Heliodorus[1213]
 who wrote on the Votive Offerings of the Athenians, Metrodorus[1214] of
 Scepsis.
 
+## Book XXXIV
 
+## The Natural History of Metals
 
-
-BOOK XXXIV.
-
-THE NATURAL HISTORY OF METALS.
-
-
-
-
-CHAP. 1. (1.)—THE ORES OF BRASS.[1215]
-
+## Chap. 1. (1.)—the Ores of Brass.[1215]
 
 We must, in the next place, give an account of the ores of brass,[1216]
 a metal which, in respect of utility, is next in value; indeed the
@@ -5531,11 +5039,7 @@ esteem in which it was held was of equal antiquity with that of the
 City itself, the circumstance that the third associated body[1221]
 which Numa established, was that of the braziers.
 
-
-
-
-CHAP. 2.—THE DIFFERENT KINDS OF COPPER.
-
+## Chap. 2.—the Different Kinds of Copper
 
 The ore is extracted in the mode that has been described above,[1222]
 and is then purified by fusion. The metal is also obtained from a
@@ -5565,11 +5069,7 @@ sesterces and double asses,[1232] the Cyprian copper being thought good
 enough for the as. Thus much concerning the natural qualities of this
 metal.
 
-
-
-
-CHAP. 3.—THE CORINTHIAN BRASS.
-
+## Chap. 3.—the Corinthian Brass
 
 The other kinds are made artificially, all of which will be described
 in the appropriate places, the more celebrated kinds first coming
@@ -5625,11 +5125,7 @@ to that of liver, and it is on this account that it is called
 “hepatizon:”[1240] it is far inferior to the Corinthian metal, but much
 superior to the Æginetan and Delian, which long held the first rank.
 
-
-
-
-CHAP. 4.—THE DELIAN BRASS.
-
+## Chap. 4.—the Delian Brass
 
 The Delian brass was the first[1241] that became famous, all the
 world coming to Delos to purchase it; and hence the attention paid
@@ -5638,11 +5134,7 @@ obtained celebrity for the manufacture of the feet and supports of
 dining-couches. After some time it came to be employed for the statues
 of the gods, and the effigies of men and other animated beings.
 
-
-
-
-CHAP. 5.—THE ÆGINETAN BRASS.
-
+## Chap. 5.—the Æginetan Brass
 
 The next most esteemed brass was the Æginetan; the island itself
 being rendered famous for its brass—not indeed that the metal was
@@ -5655,11 +5147,7 @@ metal and Polycletus[1244] the latter; they were contemporaries and
 fellow-pupils, but there was great rivalry between them as to their
 materials.
 
-
-
-
-CHAP. 6. (3.)—STANDS FOR LAMPS.
-
+## Chap. 6. (3.)—stands for Lamps
 
 Ægina was particularly famous for the manufacture of sockets only for
 lamp-stands, as Tarentum was for that of the branches;[1245] the most
@@ -5687,11 +5175,7 @@ destroyed: at the same time, however, it should be remembered that this
 victory dispersed a number of bronzes which originally came from many
 other cities of Achaia.
 
-
-
-
-CHAP. 7.—ORNAMENTS OF THE TEMPLES MADE OF BRASS.
-
+## Chap. 7.—ornaments of the Temples Made of Brass
 
 The ancients were in the habit of making the door-sills and even the
 doors of the temples of brass. I find it stated, also, that Cneius
@@ -5706,11 +5190,7 @@ has been wrested to similar purposes. Spurius Carvilius, the quæstor,
 among the other charges which he brought against Camillus,[1252]
 accused him of having brazen doors in his house.
 
-
-
-
-CHAP. 8.—COUCHES OF BRASS.
-
+## Chap. 8.—couches of Brass
 
 We learn from L. Piso,[1253] that Cneius Manlius was the first who
 introduced brazen banquetting-couches, buffets, and tables with
@@ -5726,12 +5206,8 @@ form of trees loaded with fruit; such as the one, for instance, in the
 Temple of the Palatine Apollo,[1258] which Alexander the Great, at the
 sacking of Thebes, brought to Cyme,[1259] and dedicated to that god.
 
-
-
-
 CHAP. 9. (4.)—WHICH WAS THE FIRST STATUE OF A GOD MADE OF BRASS AT
 ROME. THE ORIGIN OF STATUES, AND THE RESPECT PAID TO THEM.
-
 
 But after some time the artists everywhere applied themselves to
 representations of the gods. I find that the first brass image, which
@@ -5766,12 +5242,8 @@ kind of forum or public place came to be made in private houses and in
 our halls, the clients adopting this method of doing honour to their
 patrons.
 
-
-
-
 CHAP. 10. (5.)—THE DIFFERENT KINDS AND FORMS OF STATUES. STATUES AT
 ROME WITH CUIRASSES.
-
 
 In former times the statues that were thus dedicated were clad in the
 toga.[1263] Naked statues also, brandishing a spear, after the manner
@@ -5799,13 +5271,9 @@ who have triumphed. But this did not take place until a late period;
 and it was not until the time of the late Emperor Augustus, that we had
 chariots represented with six horses,[1271] as also with elephants.
 
-
-
-
 CHAP. 11.—IN HONOUR OF WHOM PUBLIC STATUES WERE FIRST ERECTED: IN
 HONOUR OF WHOM THEY WERE FIRST PLACED ON PILLARS: WHEN THE ROSTRA WERE
 FIRST ERECTED.
-
 
 The custom of erecting chariots with two horses in honour of those who
 had discharged the office of prætor, and had passed round the Circus in
@@ -5872,12 +5340,8 @@ female. I will state her merits in the words of the Annals: “Because
 she had gratuitously presented to the public the field bordering on the
 Tiber.”[1290]
 
-
-
-
 CHAP. 12.—IN HONOUR OF WHAT FOREIGNERS PUBLIC STATUES WERE ERECTED AT
 ROME.
-
 
 I find also, that statues were erected in honour of Pythagoras and of
 Alcibiades, in the corners of the Comitium; in obedience to the command
@@ -5901,12 +5365,8 @@ to pieces. The different tribes erected statues, in all the quarters
 of Rome, in honour of Marius Gratidianus, as already stated;[1294] but
 they were all thrown down by Sylla, when he entered Rome.
 
-
-
-
 CHAP. 13.—THE FIRST EQUESTRIAN STATUES PUBLICLY ERECTED AT ROME, AND IN
 HONOUR OF WHAT FEMALES STATUES WERE PUBLICLY ERECTED THERE.
-
 
 Pedestrian statues have been, undoubtedly, for a long time in
 estimation at Rome: equestrian statues are, however, of considerable
@@ -5931,12 +5391,8 @@ the only person that escaped and swam across the Tiber; the rest of
 the hostages that had been sent to Porsena having been destroyed by a
 stratagem of Tarquinius.
 
-
-
-
 CHAP. 14.—AT WHAT PERIOD ALL THE STATUES ERECTED BY PRIVATE INDIVIDUALS
 WERE REMOVED FROM THE PUBLIC PLACES.
-
 
 We are informed by L. Piso, that when M. Æmilius and C. Popilius were
 consuls, for the second time,[1299] the censors, P. Cornelius Scipio
@@ -5958,11 +5414,7 @@ in a sitting posture, and the statue is remarkable for having no straps
 to the shoes. This statue, which was formerly in the public Portico of
 Metellus, is now in the Buildings of Octavia.[1301]
 
-
-
-
-CHAP. 15.—THE FIRST STATUES PUBLICLY ERECTED BY FOREIGNERS.
-
+## Chap. 15.—the First Statues Publicly Erected by Foreigners
 
 The first statue that was erected at Rome at the expense of a foreigner
 was that of C. Ælius, the tribune of the people, who had introduced
@@ -5977,12 +5429,8 @@ Hannibal even are to be seen in three different places in that city,
 within the walls of which, he alone of all its enemies, had hurled his
 spear.[1304]
 
-
-
-
 CHAP. 16. (7.)—THAT THERE WERE STATUARIES IN ITALY ALSO AT AN EARLY
 PERIOD.
-
 
 Various circumstances prove, that the art of making statues was
 commonly practised in Italy at an early period. The statue in the
@@ -6014,11 +5462,7 @@ would fill many volumes, if we were desirous of making an extensive
 acquaintance with the subject: but as to learning everything connected
 with it, who could do it?
 
-
-
-
-CHAP. 17.—THE IMMODERATE PRICES OF STATUES.
-
+## Chap. 17.—the Immoderate Prices of Statues
 
 In the ædileship of M. Scaurus, there were three thousand statues
 erected on the stage of what was a temporary theatre[1312] only.
@@ -6053,11 +5497,7 @@ security that was taken for its safety; for, no sum appearing equal to
 its value, it was publicly enacted that the keepers of it should be
 answerable for its safety with their lives.
 
-
-
-
-CHAP. 18.—THE MOST CELEBRATED COLOSSAL STATUES IN THE CITY.
-
+## Chap. 18.—the Most Celebrated Colossal Statues in the City
 
 As to boldness of design, the examples are innumerable; for we see
 designed, statues of enormous bulk, known as colossal statues and
@@ -6154,12 +5594,8 @@ usually supported, it is said, by statues, two of which are consecrated
 before the Temple of Mars Ultor,[1342] and a similar number before the
 Palace.[1343]
 
-
-
-
 CHAP. 19.—AN ACCOUNT OF THE MOST CELEBRATED WORKS IN BRASS, AND OF THE
 ARTISTS, 366 IN NUMBER.
-
 
 An almost innumerable multitude of artists have been rendered famous
 by their statues and figures of smaller size. Before all others is
@@ -6628,12 +6064,8 @@ restored to the public from the hands of a private individual. So vast
 has been the rivalry caused by this statue, and so high the value set
 upon it.
 
-
-
-
 CHAP. 20.—THE DIFFERENT KINDS OF COPPER AND ITS COMBINATIONS. PYROPUS.
 CAMPANIAN COPPER.
-
 
 We will now return to the different kinds of copper, and its
 several combinations. In Cyprian copper we have the kind known as
@@ -6692,11 +6124,7 @@ every hundred pounds of copper. By the addition of lead to Cyprian
 copper, the purple tint is produced that we see upon the drapery of
 statues.
 
-
-
-
-CHAP. 21.—THE METHOD OF PRESERVING COPPER.
-
+## Chap. 21.—the Method of Preserving Copper
 
 Copper becomes covered with verdigris more quickly when cleaned than
 when neglected, unless it is well rubbed with oil. It is said that
@@ -6705,11 +6133,7 @@ of making use of copper for monuments, which are intended to be
 perpetuated, is of very ancient date: it is upon tablets of brass that
 our public enactments are engraved.
 
-
-
-
-CHAP. 22. (10.)—CADMIA.
-
+## Chap. 22. (10.)—cadmia
 
 The ores of copper furnish a number of resources[1597] that are
 employed in medicine; indeed, all kinds of ulcers are healed
@@ -6761,12 +6185,8 @@ the consistency of ceruse, and presents no grittiness to the teeth.
 Iollas[1606] recommends the same process; except that he selects the
 purest specimens of native cadmia.
 
-
-
-
 CHAP. 23.—FIFTEEN REMEDIES DERIVED FROM CADMIA. TEN MEDICINAL EFFECTS
 OF CALCINED COPPER.
-
 
 Cadmia[1607] acts as a desiccative, heals wounds, arrests discharges,
 acts detergently upon webs and foul incrustations of the eyes, removes
@@ -6789,11 +6209,7 @@ This process is repeated until the deposit has gained the appearance
 of minium;[1610] after which it is dried in the sun, and put by for
 keeping in a box made of copper.
 
-
-
-
-CHAP. 24. (11.)—THE SCORIA OF COPPER.
-
+## Chap. 24. (11.)—the Scoria of Copper
 
 The scoria, too, of copper is washed in the same manner; but the action
 of it is less efficacious than that of copper itself. The flower,
@@ -6811,11 +6227,7 @@ great difference between these substances being, that this lepis is
 detached from the cakes by hammering, whereas the flower falls off
 spontaneously.
 
-
-
-
-CHAP. 25.—STOMOMA OF COPPER; FORTY-SEVEN REMEDIES.
-
+## Chap. 25.—stomoma of Copper; Forty-Seven Remedies
 
 There is another finer kind of scale which is detached from the surface
 of the metal, like a very fine down, and known as “stomoma.”[1613] But
@@ -6847,11 +6259,7 @@ wash them in rain water. They are then given to dropsical patients, in
 doses of two drachmæ, with one semisextarius of honied wine: they are
 also made into a liniment with fine flour.
 
-
-
-
-CHAP. 26.—VERDIGRIS; EIGHTEEN REMEDIES.
-
+## Chap. 26.—verdigris; Eighteen Remedies
 
 Verdigris[1617] is also applied to many purposes, and is prepared
 in numerous ways. Sometimes it is detached already formed, from the
@@ -6892,11 +6300,7 @@ mordent action is highly beneficial for watery humours of the eyes. It
 is necessary, however, to wash the part with warm water, applied with a
 fine sponge, until its mordency is no longer felt.
 
-
-
-
-CHAP. 27.—HIERACIUM.
-
+## Chap. 27.—hieracium
 
 “Hieracium”[1623] is the name given to an eye-salve, which is
 essentially composed of the following ingredients; four ounces of sal
@@ -6915,11 +6319,7 @@ about the anus, either used by itself, applied with sal ammoniac, or
 inserted in the fistula in the form of a salve. The same substance,
 kneaded with one third part of resin of turpentine, removes leprosy.
 
-
-
-
-CHAP. 28. (12.)—SCOLEX OF COPPER; EIGHTEEN REMEDIES.
-
+## Chap. 28. (12.)—scolex of Copper; Eighteen Remedies
 
 There is another kind of verdigris also, which is called
 “scolex.”[1626] It is prepared by triturating in a mortar of Cyprian
@@ -6935,11 +6335,7 @@ they have, both of them, the same properties as verdigris. Native
 scolex is also procured by scraping the copper ore of which we are
 about to speak.
 
-
-
-
-CHAP. 29.—CHALCITIS: SEVEN REMEDIES.
-
+## Chap. 29.—chalcitis: Seven Remedies
 
 Chalcitis[1628] is the name of a mineral, from which, as well as
 cadmia, copper is extracted by heat. It differs from cadmia in this
@@ -6967,11 +6363,7 @@ one of cadmia, the medicament becomes more active; and it is rendered
 still more powerful if vinegar is used instead of wine. For all these
 purposes, calcined chalcitis is the most efficacious.
 
-
-
-
-CHAP. 30.—SORY: THREE REMEDIES.
-
+## Chap. 30.—sory: Three Remedies
 
 The sory[1633] of Egypt is the most esteemed, being considered much
 superior to that of Cyprus, Spain, and Africa; although some prefer the
@@ -6986,11 +6378,7 @@ collutory, it is good for toothache. It is also useful for malignant
 ulcers of a serpiginous nature. It is calcined upon charcoal, like
 chalcitis.
 
-
-
-
-CHAP. 31.—MISY: THIRTEEN REMEDIES.
-
+## Chap. 31.—misy: Thirteen Remedies
 
 Some persons have stated, that misy[1634] is formed by the calcination
 of the mineral, in trenches;[1635] its fine yellow powder becoming
@@ -7016,11 +6404,7 @@ ulcers, and consumes fleshy excrescences. It is particularly useful
 for diseases of the male generative organs, and acts as a check upon
 menstruation.
 
-
-
-
-CHAP. 32.—CHALCANTHUM, OR SHOEMAKERS’ BLACK: SIXTEEN REMEDIES.
-
+## Chap. 32.—chalcanthum, or Shoemakers’ Black: Sixteen Remedies
 
 The Greeks, by the name[1636] which they have given to it, have
 indicated the relation between shoemakers’ black[1637] and copper; for
@@ -7073,11 +6457,7 @@ lately discovered, that if it is sprinkled upon the mouths of bears and
 lions in the arena, its astringent action is so powerful as to deprive
 the animals of the power of biting.
 
-
-
-
-CHAP. 33. (13.)—POMPHOLYX.
-
+## Chap. 33. (13.)—pompholyx
 
 The substances called pompholyx[1644] and spodos[1645] are also found
 in the furnaces of copper-smelting works; the difference between them
@@ -7095,11 +6475,7 @@ in its action being less powerful. It is also used for plasters, when
 required to be gently cooling and desiccative. For all these purposes
 it is more efficacious when it has been moistened with wine.
 
-
-
-
-CHAP. 34.—SPODOS: FIVE REMEDIES.
-
+## Chap. 34.—spodos: Five Remedies
 
 The Cyprian spodos[1646] is the best. It is formed by fusing cadmia
 with copper ore. This substance, which is the lightest part of the
@@ -7131,11 +6507,7 @@ ingenuity of man is more to be admired; for it has discovered among the
 very commonest objects, a substance that is in every way possessed of
 similar properties.
 
-
-
-
-CHAP. 35.—FIFTEEN VARIETIES OF ANTISPODOS.
-
+## Chap. 35.—fifteen Varieties of Antispodos
 
 The substance called “antispodos”[1649] is produced from the ashes
 of the fig-tree or wild fig, or of leaves of myrtle, together with
@@ -7148,11 +6520,7 @@ virtues have also been found in the ashes of bull-glue[1653] and of
 linen cloth. All these substances are burnt in a pot of raw earth,
 which is heated in a furnace, until the earthenware is thoroughly baked.
 
-
-
-
-CHAP. 36.—SMEGMA.
-
+## Chap. 36.—smegma
 
 In the copper forges also smegma[1654] is prepared. When the metal is
 liquefied and thoroughly smelted, charcoal is added to it and gradually
@@ -7161,11 +6529,7 @@ pair of bellows, a substance is disengaged like a sort of copper chaff.
 The floor on which it is received ought to be prepared with a stratum
 of coal-dust.
 
-
-
-
-CHAP. 37.—DIPHRYX.
-
+## Chap. 37.—diphryx
 
 There is another product of these furnaces, which is easily
 distinguished from smegma, and which the Greeks call “diphryx,”[1655]
@@ -7191,11 +6555,7 @@ excrescenses, and acts as a detergent. It is tested by placing it
 on the tongue, which ought to be instantly parched by it, a coppery
 flavour being perceptible.
 
-
-
-
-CHAP. 38.—PARTICULARS RELATIVE TO THE SERVILIAN TRIENS.
-
+## Chap. 38.—particulars Relative to the Servilian Triens
 
 We must not neglect to mention one other very remarkable fact
 relative to copper. The Servilian family, so illustrious in our
@@ -7209,11 +6569,7 @@ they say, appears sometimes to increase in size and sometimes to
 diminish; changes which indicate the coming advancement or decadence of
 the family.”
 
-
-
-
-CHAP. 39 (14).—IRON ORES.
-
+## Chap. 39 (14).—iron Ores
 
 Next to copper we must give an account of the metal known as iron, at
 the same time the most useful and the most fatal instrument in the hand
@@ -7241,11 +6597,7 @@ There is an edict extant, published in the third consulship of Pompeius
 Magnus, during the tumults that ensued upon the death of Clodius,
 prohibiting any weapon from being retained in the City.
 
-
-
-
-CHAP. 40.—STATUES OF IRON; CHASED WORKS IN IRON.
-
+## Chap. 40.—statues of Iron; Chased Works in Iron
 
 Still, however, human industry has not failed to employ iron
 for perpetuating the honours of more civilized life. The artist
@@ -7264,11 +6616,7 @@ her usual foresight in rendering nothing in existence more perishable,
 than the substance which brings the greatest dangers upon perishable
 mortality.
 
-
-
-
-CHAP. 41.—THE DIFFERENT KINDS OF IRON, AND THE MODE OF TEMPERING IT.
-
+## Chap. 41.—the Different Kinds of Iron, and the Mode of Tempering It
 
 Iron ores are to be found almost everywhere; for they exist even in
 the Italian island of Ilva,[1667] being easily distinguished by the
@@ -7319,11 +6667,7 @@ with oil, lest by being hardened in water they should be rendered
 brittle. Human blood revenges itself upon iron; for if the metal has
 been once touched by this blood it is much more apt to become rusty.
 
-
-
-
-CHAP. 42.—THE METAL CALLED LIVE IRON.
-
+## Chap. 42.—the Metal Called Live Iron
 
 We shall speak of the loadstone in its proper place,[1680] and of the
 sympathy which it has with iron. This is the only metal that acquires
@@ -7343,11 +6687,7 @@ suspended in the air:[1685] his death, however, and that of King
 Ptolemæus, who had ordered this monument to be erected in honour of his
 sister, prevented the completion of the project.
 
-
-
-
-CHAP. 43. (15.)—METHODS OE PREVENTING RUST.
-
+## Chap. 43. (15.)—methods Oe Preventing Rust
 
 Of all metals, the ores of iron are found in the greatest abundance. In
 the maritime parts of Cantabria[1686] which are washed by the Ocean,
@@ -7368,11 +6708,7 @@ which Alexander the Great constructed a bridge across the river; the
 links of which that have been replaced are attacked with rust, while
 the original links are totally exempt from it.[1690]
 
-
-
-
-CHAP. 44.—SEVEN REMEDIES DERIVED FROM IRON.
-
+## Chap. 44.—seven Remedies Derived from Iron
 
 Iron is employed in medicine for other purposes besides that of making
 incisions. For if a circle is traced with iron, or a pointed weapon
@@ -7389,11 +6725,7 @@ on the wound being cauterized.[1692] Water in which iron has been
 plunged at a white heat, is useful, as a potion, in many diseases,
 dysentery[1693] more particularly.
 
-
-
-
-CHAP. 45.—FOURTEEN REMEDIES DERIVED FROM RUST.
-
+## Chap. 45.—fourteen Remedies Derived from Rust
 
 Rust itself, too, is classed among the remedial substances; for it was
 by means of it that Achilles cured Telephus, it is said, whether it
@@ -7412,12 +6744,8 @@ wine, and kneaded with myrrh, it is applied to recent wounds, and,
 with vinegar, to condylomatous swellings. Employed in the form of a
 liniment, it alleviates gout.[1695]
 
-
-
-
 CHAP. 46.—SEVENTEEN REMEDIES DERIVED FROM THE SCALES OF IRON.
 HYGREMPLASTRUM.
-
 
 The scales of iron,[1696] which are procured from a fine point or a
 sharp edge, are also made use of, being very similar in effect to rust,
@@ -7436,11 +6764,7 @@ pounded copper, the same quantity of scales of iron, six drachmæ of
 wax, and one sextarius of oil. To these is added some cerate, when it
 is wanted to cleanse or fill up wounds.
 
-
-
-
-CHAP. 47. (16.)—THE ORES OF LEAD.
-
+## Chap. 47. (16.)—the Ores of Lead
 
 The nature of lead next comes to be considered. There are two kinds of
 it, the black and the white.[1699] The white is the most valuable: it
@@ -7476,11 +6800,7 @@ is silver; and the metal that remains behind is galena,[1710] the third
 constituent part of the mineral. On this last being again submitted to
 fusion black lead is produced, with a deduction of two-ninths.
 
-
-
-
-CHAP. 48. (17.)—STANNUM. ARGENTARIUM.
-
+## Chap. 48. (17.)—stannum. Argentarium
 
 When copper vessels are coated with stannum,[1711] they produce a less
 disagreeable flavour, and the formation of verdigris is prevented; it
@@ -7525,11 +6845,7 @@ ought to have the appearance of being torn rather by the weight than by
 the heat of the metal. India has neither copper nor lead,[1723] but she
 procures them in exchange for her precious stones and pearls.
 
-
-
-
-CHAP. 49.—BLACK LEAD.
-
+## Chap. 49.—black Lead
 
 Black lead[1724] is used in the form of pipes and sheets: it is
 extracted with great labour in Spain, and throughout all the Gallic
@@ -7555,11 +6871,7 @@ It is a remarkable fact, that if we pour water into a vessel of lead,
 it will not melt; but that if we throw into the water a pebble or a
 copper quadrans,[1730] the vessel will be penetrated by the fire.
 
-
-
-
-CHAP. 50. (18.)—FIFTEEN REMEDIES DERIVED FROM LEAD.
-
+## Chap. 50. (18.)—fifteen Remedies Derived from Lead
 
 Lead is used in medicine, without any addition, for the removal of
 scars; if it is applied, too, in plates, to the region of the loins
@@ -7613,11 +6925,7 @@ barley, and triturate it in the way mentioned for raw lead; indeed,
 the lead which has been prepared this way is preferred to the spodium
 of Cyprus.
 
-
-
-
-CHAP. 51.—FIFTEEN REMEDIES DERIVED FROM THE SCORIA OF LEAD.
-
+## Chap. 51.—fifteen Remedies Derived from the Scoria of Lead
 
 The scoria[1736] of lead is also made use of; the best kind being that
 which approaches nearest to a yellow colour, without any vestiges of
@@ -7631,11 +6939,7 @@ wonderful is the knowledge which we gain by experiment, when even the
 very dregs and foul residues of substances have in so many ways been
 tested by mankind!
 
-
-
-
-CHAP. 52.—SPODIUM OF LEAD.
-
+## Chap. 52.—spodium of Lead
 
 A spodium[1737] of lead is also prepared in the same manner as that
 extracted from Cyprian copper.[1738] It is washed with rain water,
@@ -7644,11 +6948,7 @@ pouring it off; after which it is sifted, and then pounded. Some prefer
 removing the fine powder with a feather, and then triturating it with
 aromatic wine.
 
-
-
-
-CHAP. 53.—MOLYBDÆNA: FIFTEEN REMEDIES.
-
+## Chap. 53.—molybdæna: Fifteen Remedies
 
 Molybdæna,[1739] which in another place I have called “galena,”[1740]
 is a mineral compounded of silver and lead. It is considered better in
@@ -7668,11 +6968,7 @@ oil; to which are added lees of olives, in the case of aged persons.
 Combined with scum of silver[1743] and scoria of lead, it is employed
 warm in fomentations for dysentery and tenesmus.
 
-
-
-
-CHAP. 54.—PSIMITHIUM, OR CERUSE; SIX REMEDIES.
-
+## Chap. 54.—psimithium, or Ceruse; Six Remedies
 
 Psimithium,[1744] which is also known as ceruse, is another production
 of the lead-works. The most esteemed comes from Rhodes. It is made
@@ -7697,11 +6993,7 @@ lead; in addition to which, it is also used by females to whiten the
 complexion.[1746] It is, however, like scum of silver, a deadly poison.
 Melted a second time, ceruse becomes red.
 
-
-
-
-CHAP. 55.—SANDARACH; ELEVEN REMEDIES.
-
+## Chap. 55.—sandarach; Eleven Remedies
 
 We have already mentioned nearly all the properties of sandarach.[1747]
 It is found both in gold-mines and in silver-mines. The redder it is,
@@ -7715,11 +7007,7 @@ food, in combination with turpentine, it is a pleasant cure for cough
 and asthma. In the form of a fumigation also, with cedar, it has a
 remedial effect upon those complaints.[1748]
 
-
-
-
-CHAP. 56.—ARRHENICUM.
-
+## Chap. 56.—arrhenicum
 
 Arrhenicum,[1749] too, is procured from the same sources. The best in
 quality is of the colour of the finest gold; that which is of a paler
@@ -7755,18 +7043,11 @@ Diagoras,[1778] Botrys,[1779] Archidemus,[1780] Dionysius,[1781]
 Aristogenes,[1782] Democles,[1783] Mnesides,[1784] Xenocrates[1785] the
 son of Zeno, Theomnestus.[1786]
 
+## Book XXXV
 
+## An Account of Paintings and Colours
 
-
-BOOK XXXV.
-
-AN ACCOUNT OF PAINTINGS AND COLOURS.
-
-
-
-
-CHAP. 1. (1.)—THE HONOUR ATTACHED TO PAINTING.
-
+## Chap. 1. (1.)—the Honour Attached to Painting
 
 I have now given at considerable length an account of the nature of
 metals, which constitute our wealth, and of the substances that are
@@ -7800,11 +7081,7 @@ willed that Nature should produce them. Such are our resources when the
 quarries fail us, and luxury ceases not to busy itself, in order that
 as much as possible may be lost whenever a conflagration happens.
 
-
-
-
-CHAP. 2. (2.)—THE HONOUR ATTACHED TO PORTRAITS.
-
+## Chap. 2. (2.)—the Honour Attached to Portraits
 
 Correct portraits of individuals were formerly transmitted to future
 ages by painting; but this has now completely fallen into desuetude.
@@ -7892,12 +7169,8 @@ it might be possible for them to be present, and for each to occupy
 his niche. This service, too, Varro conferred upon persons who were no
 members of his own family.
 
-
-
-
 CHAP. 3. (3.)—WHEN SHIELDS WERE FIRST INVENTED WITH PORTRAITS UPON
 THEM; AND WHEN THEY WERE FIRST ERECTED IN PUBLIC.
-
 
 So far as I can learn, Appius Claudius, who was consul with P.
 Servilius, in the year of the City, 259, was the first to dedicate
@@ -7911,11 +7184,7 @@ those germs, as it were, which are destined to continue the line:
 shields such as these, no one can look at without a feeling of pleasure
 and lively interest.
 
-
-
-
-CHAP. 4.—WHEN THESE SHIELDS WERE FIRST PLACED IN PRIVATE HOUSES.
-
+## Chap. 4.—when These Shields Were First Placed in Private Houses
 
 More recently, M. Æmilius, who was consul[1812] with Quintus Lutatius,
 not only erected these shields in the Æmilian Basilica,[1813] but in
@@ -7939,12 +7208,8 @@ security for the safety of the Capitol, informed the senate that the
 bucklers there which for some lustra[1818] had been assessed as copper,
 were in reality made of silver.
 
-
-
-
 CHAP. 5.—THE COMMENCEMENT OF THE ART OF PAINTING. MONOCHROME PAINTINGS.
 THE EARLIEST PAINTERS.
-
 
 We have no certain knowledge as to the commencement of the art
 of painting, nor does this enquiry fall under our consideration.
@@ -7970,11 +7235,7 @@ came to Italy with Demaratus, the father of the Roman king, Tarquinius
 Priscus, on his flight from Corinth to escape the violence of the
 tyrant Cypselus.
 
-
-
-
-CHAP. 6.—THE ANTIQUITY OF PAINTING IN ITALY.
-
+## Chap. 6.—the Antiquity of Painting in Italy
 
 But already, in fact, had the art of painting been perfectly developed
 in Italy.[1825] At all events, there are extant in the temples at
@@ -7993,11 +7254,7 @@ carefully examines them, will be forced to admit that no art has
 arrived more speedily at perfection, seeing that it evidently was not
 in existence at the time of the Trojan War.[1829]
 
-
-
-
-CHAP. 7. (4.)—ROMAN PAINTERS.
-
+## Chap. 7. (4.)—roman Painters
 
 Among the Romans, too, this art very soon rose into esteem, for it
 was from it that the Fabii, a most illustrious family, derived their
@@ -8049,11 +7306,7 @@ Pulcher,[1839] brought the art of painting into great admiration, it
 being observed that the ravens were so deceived by the resemblance, as
 to light upon the decorations which were painted in imitation of tiles.
 
-
-
-
-CHAP. 8.—AT WHAT PERIOD FOREIGN PAINTINGS WERE FIRST INTRODUCED AT ROME.
-
+## Chap. 8.—at What Period Foreign Paintings Were First Introduced at Rome
 
 The high estimation in which the paintings of foreigners were held at
 Rome commenced with Lucius Mummius, who, from his victories, acquired
@@ -8078,12 +7331,8 @@ Shepherd leaning on his staff; respecting which, when the envoy of the
 Teutones was asked what he thought was the value of it, he made answer
 that he would rather not have the original even, at a gift.
 
-
-
-
 CHAP. 9.—AT WHAT PERIOD PAINTING WAS FIRST HELD IN HIGH ESTEEM AT ROME,
 AND FROM WHAT CAUSES.
-
 
 But it was the Dictator Cæsar that first brought the public exhibition
 of pictures into such high estimation, by consecrating an Ajax and
@@ -8100,11 +7349,7 @@ set in marble in the very hottest part of his Warm Baths;[1847] where
 they remained until they were removed a short time since, when the
 building was repaired.
 
-
-
-
-CHAP. 10.—WHAT PICTURES THE EMPERORS HAVE EXHIBITED IN PUBLIC.
-
+## Chap. 10.—what Pictures the Emperors Have Exhibited in Public
 
 The late Emperor Augustus did more than all the others; for he
 placed in the most conspicuous part of his Forum, two pictures,
@@ -8132,11 +7377,7 @@ means very gracious, has exhibited in the temple dedicated by him,
 in his turn, to Augustus, several pictures which we shall describe
 hereafter.[1858]
 
-
-
-
-CHAP. 11. (5.)—THE ART OF PAINTING.
-
+## Chap. 11. (5.)—the Art of Painting
 
 Thus much then with reference to the dignity of this now expiring art.
 We have already[1859] stated with what single colours the earlier
@@ -8157,12 +7398,8 @@ lustre and light on the one hand and shade on the other, was called
 “tonos;” while the blending of the various tints, and their passing
 into one another, was known as “harmoge.”[1862]
 
-
-
-
 CHAP. 12. (6.)—PIGMENTS OTHER THAN THOSE OF A METALLIC ORIGIN.
 ARTIFICIAL COLOURS.
-
 
 Colours are either[1863] sombre or florid, these qualities arising
 either from the nature, of the substances or their mode of combination.
@@ -8177,11 +7414,7 @@ speaking of metals; in addition to which there are, among the more
 common colours, ochra, usta or burnt ceruse, sandarach, sandyx,
 syricum, and atramentum.
 
-
-
-
-CHAP. 13.—SINOPIS: ELEVEN REMEDIES.
-
+## Chap. 13.—sinopis: Eleven Remedies
 
 Sinopis[1868] was discovered in Pontus; and hence its name, from the
 city of Sinope there. It is produced also in Egypt, the Balearic
@@ -8211,11 +7444,7 @@ as a check upon female discharges. Applied in a burnt state, with wine
 in particular, it has a desiccative effect upon granulations of the
 eyelids.
 
-
-
-
-CHAP. 14.—RUBRICA; LEMNIAN EARTH: FOUR REMEDIES.
-
+## Chap. 14.—rubrica; Lemnian Earth: Four Remedies
 
 Some persons have wished to make out that sinopis is nothing else but
 a kind of rubrica[1874] of second-rate quality, looking upon earth
@@ -8237,22 +7466,14 @@ the effects of poisons, and of stings inflicted by sea or land
 serpents; hence it is that it is so commonly used as an ingredient in
 antidotes.
 
-
-
-
-CHAP. 15.—EGYPTIAN EARTH.
-
+## Chap. 15.—egyptian Earth
 
 Of the other kinds of rubrica, those of Egypt and Africa are of the
 greatest utility to workers in wood, from the fact of their being
 absorbed with the greatest rapidity. They are used also for painting,
 and are found in a native state in iron-mines.[1876]
 
-
-
-
-CHAP. 16.—OCHRA: REMEDIES DERIVED FROM RUBRICA.
-
+## Chap. 16.—ochra: Remedies Derived from Rubrica
 
 It is from rubrica also, that ochra[1877] is prepared, the rubrica
 being burnt[1878] in new earthen pots well luted with clay. The more
@@ -8260,22 +7481,14 @@ highly it is calcined in the furnace, the better the colour is. All
 kinds of rubrica are of a desiccative nature, and hence it is that they
 are so useful for plasters, and as an application even for erysipelas.
 
-
-
-
-CHAP. 17.—LEUCOPHORON.
-
+## Chap. 17.—leucophoron
 
 Half a pound of Pontic sinopis, ten pounds of bright sil,[1879] and
 two pounds of Greek melinum,[1880] well mixed and triturated together
 for twelve successive days, produce “leucophoron,”[1881] a cement used
 for applying gold-leaf to wood.
 
-
-
-
-CHAP. 18.—PARÆTONIUM.
-
+## Chap. 18.—parætonium
 
 Parætonium[1882] is so called from the place[1883] of that name in
 Egypt. It is sea-foam,[1884] they say, solidified with slime, and
@@ -8286,11 +7499,7 @@ the highest quality is fifty denarii per six pounds. This is the most
 unctuous of all the white colours, and the most tenacious as a coating
 for plaster, the result of its smoothness.
 
-
-
-
-CHAP. 19.—MELINUM: SIX REMEDIES. CERUSE.
-
+## Chap. 19.—melinum: Six Remedies. Ceruse
 
 Melinum, too, is a white colour, the best being the produce of the Isle
 of Melos.[1886] It is found also in Samos; but this last kind is never
@@ -8308,11 +7517,7 @@ at Smyrna, which the ancients made use of for painting ships. At
 the present day, all ceruse is prepared artificially, from lead and
 vinegar,[1889] as already stated.
 
-
-
-
-CHAP. 20.—USTA.
-
+## Chap. 20.—usta
 
 Usta[1890] was accidentally discovered at a fire in the Piræus,
 some ceruse having been burnt in the jars there. Nicias, the artist
@@ -8322,11 +7527,7 @@ price of it is six denarii per pound. It is prepared also at Rome by
 calcining marbled sil,[1892] and quenching it with vinegar. Without the
 use of usta shadows cannot be made.[1893]
 
-
-
-
-CHAP. 21.—ERETRIA.
-
+## Chap. 21.—eretria
 
 Eretria takes its name from the territory[1894] which produces it.
 Nicomachus[1895] and Parrhasius made use of it. In a medicinal point
@@ -8337,11 +7538,7 @@ of internal suppurations. If the earth, when applied[1896] with
 water, does not dry with rapidity, the presence of purulent matter is
 apprehended.
 
-
-
-
-CHAP. 22.—SANDARACH.
-
+## Chap. 22.—sandarach
 
 According to Juba, sandarach and ochra are both of them productions of
 the island of Topazus,[1897] in the Red Sea; but neither of them are
@@ -8350,11 +7547,7 @@ have described[1898] already: there is a spurious kind also, prepared
 by calcining ceruse in the furnace. This substance, to be good, ought
 to be of a flame colour; the price of it is five asses per pound.
 
-
-
-
-CHAP. 23.—SANDYX.
-
+## Chap. 23.—sandyx
 
 Calcined with an equal proportion of rubrica, sandarach forms
 sandyx;[1899] although I perceive that Virgil, in the following
@@ -8365,21 +7558,13 @@ line,[1900] has taken sandyx to be a plant—
 The price of sandyx[1901] is one half that of sandarach; these two
 colours being the heaviest of all in weight.
 
-
-
-
-CHAP. 24.—SYRICUM.
-
+## Chap. 24.—syricum
 
 Among the artificial colours, too, is syricum, which is used as an
 under-coating for minium, as already[1902] stated. It is prepared from
 a combination of sinopis with sandyx.
 
-
-
-
-CHAP. 25.—ATRAMENTUM.
-
+## Chap. 25.—atramentum
 
 Atramentum,[1903] too, must be reckoned among the artificial colours,
 although it is also derived in two ways from the earth. For sometimes
@@ -8416,11 +7601,7 @@ exposure to the sun; the black, for writing, having an admixture of
 gum, and that for coating walls, an admixture of glue. Black pigment
 that has been dissolved in vinegar is not easily effaced by washing.
 
-
-
-
-CHAP. 26.—PURPURISSUM.
-
+## Chap. 26.—purpurissum
 
 Among the remaining colours which, as already stated,[1910] owing to
 their dearness are furnished by the employer, purpurissum holds the
@@ -8446,11 +7627,7 @@ tints of minium. If, on the other hand, it is their object to make a
 purple, they lay a coat of cæruleum[1915] beneath, and purpurissum,
 with egg,[1916] upon it.
 
-
-
-
-CHAP. 27.—INDICUM.
-
+## Chap. 27.—indicum
 
 Next in esteem to this is indicum,[1917] a production of India, being
 a slime[1918] which adheres to the scum upon the reeds there. When
@@ -8468,11 +7645,7 @@ opinion that it is gathered from the rocks on the sea-shore. The price
 of indicum is twenty denarii per pound. Used medicinally, it alleviates
 cold shiverings and defluxions, and acts as a desiccative upon sores.
 
-
-
-
-CHAP. 28.—ARMENIUM; ONE REMEDY.
-
+## Chap. 28.—armenium; One Remedy
 
 Armenia sends us the colouring substance which is known to us by its
 name.[1922] This also is a mineral, which admits of being dyed, like
@@ -8486,11 +7659,7 @@ of whiteness, which causes the colour it yields to be thinner in
 comparison. The only use made of it in medicine is for the purpose of
 giving nourishment to the hair, that of the eyelids in particular.
 
-
-
-
-CHAP. 29.—APPIANUM.
-
+## Chap. 29.—appianum
 
 There are also two colours of very inferior quality, which have
 been recently discovered. One of these is the green known as
@@ -8499,11 +7668,7 @@ had not had to mention sufficient of these counterfeits already. This
 colour, too, is prepared from a green chalk, the usual price of it
 being one sesterce per pound.
 
-
-
-
-CHAP. 30.—ANULARIAN WHITE.
-
+## Chap. 30.—anularian White
 
 The other colour is that known as “anularian[1925] white;” being used
 for giving a brilliant whiteness to the figures of females.[1926] This,
@@ -8511,12 +7676,8 @@ too, is prepared from a kind of chalk, combined with the glassy paste
 which the lower classes wear in their rings:[1927] hence it is, that it
 has the name “anulare.”
 
-
-
-
 CHAP. 31. (7.)—WHICH COLOURS DO NOT ADMIT OF BEING LAID ON A WET
 COATING.
-
 
 Those among the colours which require a dry, cretaceous, coating,[1928]
 and refuse to adhere to a wet surface, are purpurissum, indicum,
@@ -8531,11 +7692,7 @@ in handsome carriages to the scene of death, or, at all events, of
 carnage. When we only contemplate this extensive variety of colours, we
 cannot but admire the ingenuity displayed by the men of former days.
 
-
-
-
-CHAP. 32.—WHAT COLOURS WERE USED BY THE ANCIENTS IN PAINTING.
-
+## Chap. 32.—what Colours Were Used by the Ancients in Painting
 
 It was with four colours only,[1932] that Apelles,[1933] Echion,
 Melanthius, and Nicomachus, those most illustrous painters, executed
@@ -8552,12 +7709,8 @@ and the reason is, as we have already stated,[1939] that it is the
 material, and not the efforts of genius, that is now the object of
 research.
 
-
-
-
 CHAP. 33.—AT WHAT TIME COMBATS OF GLADIATORS WERE FIRST PAINTED AND
 PUBLICLY EXHIBITED.
-
 
 One folly, too, of this age of ours, in reference to painting, I must
 not omit. The Emperor Nero ordered a painting of himself to be executed
@@ -8577,12 +7730,8 @@ adopted him, he provided thirty pairs of gladiators in the Forum, for
 three consecutive days, and exhibited a painting of their combats in
 the Grove of Diana.[1941]
 
-
-
-
 CHAP. 34. (8.)—THE AGE OF PAINTING; WITH THE NAMES OF THE MORE
 CELEBRATED WORKS AND ARTISTS, FOUR HUNDRED AND FIVE IN NUMBER.
-
 
 I shall now proceed to enumerate, as briefly as possible, the
 more eminent among the painters; it not being consistent with the
@@ -8636,11 +7785,7 @@ various generals who commanded at that battle, Miltiades, Callimachus,
 and Cynægirus, on the side of the Athenians, and, on that of the
 barbarians, Datis and Artaphernes.
 
-
-
-
-CHAP. 35. (9.)—THE FIRST CONTEST FOR EXCELLENCE IN THE PICTORIAL ART.
-
+## Chap. 35. (9.)—the First Contest for Excellence in the Pictorial Art
 
 And not only this, but, during the time that Panænus flourished,
 there were contests in the pictorial art instituted at Corinth and
@@ -8672,11 +7817,7 @@ There was also another Micon, distinguished from the first Micon by
 the surname of “the younger,” and whose daughter Timarete[1960] also
 practised the art of painting.
 
-
-
-
-CHAP. 36.—ARTISTS WHO PAINTED WITH THE PENCIL.
-
+## Chap. 36.—artists Who Painted with the Pencil
 
 In the ninetieth Olympiad lived Aglaophon,[1961] Cephisodorus, Erillus,
 and Evenor, the father of Parrhasius, one of the greatest of painters,
@@ -9250,11 +8391,7 @@ crowned with a chaplet and holding a goblet: two of his pupils were
 Antorides and Euphranor, of the latter of whom we shall have to make
 mention again.[2071]
 
-
-
-
-CHAP. 37.—VARIOUS OTHER KINDS OF PAINTING.
-
+## Chap. 37.—various Other Kinds of Painting
 
 We must now, however, make some mention of those artists who acquired
 fame by the pencil in an inferior style of painting. Among these
@@ -9350,12 +8487,8 @@ painted the Temple of Honour and that of Virtue,[2094] on their
 restoration by the Emperor Vespasianus Augustus. Priscus approaches
 more closely to the ancient masters.
 
-
-
-
 CHAP. 38. (11.)—AN EFFECTUAL WAY OF PUTTING A STOP TO THE SINGING OF
 BIRDS.
-
 
 I must not omit here, in reference to painting, a celebrated story that
 is told about Lepidus. During the Triumvirate, when he was entertained
@@ -9369,12 +8502,8 @@ that so terrified the birds, it is said, that they became silent at
 once; and hence it was that it first became known how this object could
 be attained.
 
-
-
-
 CHAP. 39.—ARTISTS WHO HAVE PAINTED IN ENCAUSTICS OR WAX, WITH EITHER
 THE CESTRUM OR THE PENCIL.
-
 
 It is not agreed who was the inventor of the art of painting in wax and
 in encaustic.[2095] Some think that it was a discovery of the painter
@@ -9386,14 +8515,10 @@ has inscribed upon a picture of his at Ægina, the word ἐνέκαεν;[2099]
 a thing that he certainly could not have done, if the art of encaustic
 painting had not been then invented.
 
-
-
-
 CHAP. 40.—THE FIRST INVENTORS OF VARIOUS KINDS OF PAINTING. THE
 GREATEST DIFFICULTIES IN THE ART OF PAINTING. THE SEVERAL VARIETIES OF
 PAINTING. THE FIRST ARTIST THAT PAINTED CEILINGS. WHEN ARCHED ROOFS
 WERE FIRST PAINTED. THE MARVELLOUS PRICE OF SOME PICTURES.
-
 
 It is said, too, that Pamphilus,[2100] the instructor of Apelles,
 not only painted in encaustic, but also instructed Pausias[2101] of
@@ -9663,11 +8788,7 @@ and Dionysius,[2185] with whose pictures our galleries are filled. One
 Olympias painted also, but nothing is known relative to her, except
 that she had Autobulus for a pupil.
 
-
-
-
-CHAP. 41.—ENCAUSTIC PAINTING.
-
+## Chap. 41.—encaustic Painting
 
 In ancient times there were but two methods of encaustic[2186]
 painting, in wax and on ivory,[2187] with the cestrum or pointed
@@ -9677,11 +8798,7 @@ colours and laying them on with a brush, while hot.[2188] Painting of
 this nature,[2189] applied to vessels, will never spoil from the action
 of the sun, winds, or salt water.
 
-
-
-
-CHAP. 42.—THE COLOURING OF TISSUES.
-
+## Chap. 42.—the Colouring of Tissues
 
 In Egypt, too, they employ a very remarkable process for the colouring
 of tissues. After pressing the material, which is white at first, they
@@ -9701,11 +8818,7 @@ submitted to the action of fire becomes stouter and more serviceable
 for wear, than it would have been if it had not been subjected to the
 process.
 
-
-
-
-CHAP. 43. (12.)—THE INVENTORS OF THE ART OF MODELLING.
-
+## Chap. 43. (12.)—the Inventors of the Art of Modelling
 
 On painting we have now said enough, and more than enough; but it will
 be only proper to append some accounts of the plastic art. Butades, a
@@ -9736,12 +8849,8 @@ designs,[2196] too, that the ornaments on the pediments of temples
 originated; and from this invention modellers first had their name of
 “plastæ.”
 
-
-
-
 CHAP. 44.—WHO WAS THE FIRST TO MOULD FIGURES IN IMITATION OF THE
 FEATURES OF LIVING PERSONS, OR OF STATUES.
-
 
 The first person who expressed the human features by fitting a mould of
 plaster upon the face, and then improving it by pouring melted wax into
@@ -9755,11 +8864,7 @@ figure nor statue made without its model in clay. Hence it would
 appear, that the art of modelling in clay is more ancient than that of
 moulding in bronze.[2198]
 
-
-
-
-CHAP. 45.—THE MOST FAMOUS MODELLERS.
-
+## Chap. 45.—the Most Famous Modellers
 
 The most celebrated modellers were Damophilus and Gorgasus, who were
 painters as well. These artists adorned with their works, in both
@@ -9808,11 +8913,7 @@ gods; and small reason have we to complain of our forefathers for
 worshipping such divinities as these; for in their day there was no
 working of gold and silver—no, not even in the service of the gods.
 
-
-
-
-CHAP. 46.—WORKS IN POTTERY.
-
+## Chap. 46.—works in Pottery
 
 Statues of this nature are still in existence at various places. At
 Rome, in fact, and in our municipal towns, we still see many such
@@ -9901,12 +9002,8 @@ of a similar nature; forming the cement known as the “Signine”[2227]
 composition, so extensively employed for even making the pavements of
 houses.[2228]
 
-
-
-
 CHAP. 47. (13.)—VARIOUS KINDS OF EARTH, THE PUTEOLAN DUST, AND OTHER
 EARTHS OF WHICH CEMENTS LIKE STONE ARE MADE.
-
 
 But there are other resources also, which are derived immediately
 from the earth. Who, indeed, cannot but be surprised at finding the
@@ -9938,11 +9035,7 @@ earth and wax of which the ceromata are made, so much employed by our
 youth in their exercises of the body, at the cost of all vigour of the
 mind.
 
-
-
-
-CHAP. 48. (14.)—FORMACEAN WALLS.
-
+## Chap. 48. (14.)—formacean Walls
 
 And then, besides, have we not in Africa and in Spain walls[2233] of
 earth, known as “formacean” walls? from the fact that they are moulded,
@@ -9958,11 +9051,7 @@ of rivers. What person, too, is unacquainted with the fact, that
 partitions are made of hurdles coated with clay, and that walls are
 constructed of unbaked bricks?
 
-
-
-
-CHAP. 49.—WALLS OF BRICK. THE METHOD OF MAKING BRICKS.
-
+## Chap. 49.—walls of Brick. The Method of Making Bricks
 
 Earth for making bricks should never be extracted from a sandy or
 gravelly soil, and still less from one that is stony; but from a
@@ -10009,12 +9098,8 @@ would not support more than a single story; and by public ordinance it
 has been enacted that no partition should exceed that thickness; nor,
 indeed, does the peculiar construction of our party-walls admit of it.
 
-
-
-
 CHAP. 50. (15.)—SULPHUR, AND THE SEVERAL VARIETIES OF IT: FOURTEEN
 REMEDIES.
-
 
 Let thus much be deemed sufficient on the subject of bricks. Among the
 other kinds of earth, the one of the most singular nature, perhaps,
@@ -10068,12 +9153,8 @@ a great affinity to fire. Lightning and thunder are attended with
 a strong smell of sulphur, and the light produced by them is of a
 sulphureous complexion.
 
-
-
-
 CHAP. 51.—BITUMEN, AND THE SEVERAL VARIETIES OF IT; TWENTY-SEVEN
 REMEDIES.
-
 
 Nearly approaching to the nature of sulphur is that of bitumen,[2251]
 which in some places assumes the form of a slime, and in others that
@@ -10131,12 +9212,8 @@ cemented with it. In the smithies they are in the habit of varnishing
 iron and heads of nails with it, and of using it for many other
 purposes as well.
 
-
-
-
 CHAP. 52.—ALUMEN, AND THE SEVERAL VARIETIES OF IT; THIRTY-EIGHT
 REMEDIES.
-
 
 Not less important, or indeed very dissimilar, are the uses that are
 made of alumen;[2261] by which name is understood a sort of brine[2262]
@@ -10239,11 +9316,7 @@ As to the other uses that are made of it for industrial purposes, such
 as preparing hides and wool, for example, they have been mentioned
 already.[2278]
 
-
-
-
-CHAP. 53. (16.)—SAMIAN EARTH: THREE REMEDIES.
-
+## Chap. 53. (16.)—samian Earth: Three Remedies
 
 In succession to these, we shall now have to speak of various other
 kinds of earth[2279] which are made use of in medicine.
@@ -10258,11 +9331,7 @@ are both of them useful for discharges of blood from the mouth, and are
 employed as an ingredient in plasters of a desiccative nature. They are
 used also in the preparation of ophthalmic compositions.
 
-
-
-
-CHAP. 54.—THE VARIOUS KINDS OF ERETRIA.
-
+## Chap. 54.—the Various Kinds of Eretria
 
 Of eretria, or Eretrian[2282] earth, there are also the same number
 of varieties; one white, and the other of an ashy colour, this last
@@ -10272,11 +9341,7 @@ The virtues of eretria in a medicinal point of view, and the methods of
 using it, have been already mentioned[2283] in our description of the
 pigments.
 
-
-
-
-CHAP. 55.—THE METHOD OF WASHING EARTHS FOR MEDICINAL PURPOSES.
-
+## Chap. 55.—the Method of Washing Earths for Medicinal Purposes
 
 All these earths—for we will take the present opportunity of mentioning
 it—are well washed in water, and then dried in the sun; after which,
@@ -10284,12 +9349,8 @@ they are again triturated in water, and left to settle: this done, they
 are divided into tablets. They are usually boiled in earthen vessels,
 which are well shaken every now and then.
 
-
-
-
 CHAP. 56.—CHIAN EARTH; THREE REMEDIES. SELINUSIAN EARTH; THREE
 REMEDIES. PNIGITIS; NINE REMEDIES. AMPELITIS; FOUR REMEDIES.
-
 
 Among the medicinal substances, there is the white earth of Chios
 also, the properties of which are the same as those of Samian earth.
@@ -10309,12 +9370,8 @@ Its properties are emollient and repercussive; for which reason, it is
 used in medicinal compositions, those known as “calliblephara,”[2288]
 more particularly, and in preparations for dyeing the hair.
 
-
-
-
 CHAP. 57. (17.)—CRETACEOUS EARTHS USER FOR SCOURING CLOTH. CIMOLIAN
 EARTH; NINE REMEDIES. SARDINIAN EARTH. UMBRIAN EARTH. SAXUM.
-
 
 Of cretaceous[2289] earths there are several varieties; and among
 them, two kinds of Cimolian earth, employed in medicine, the one white
@@ -10363,12 +9420,8 @@ for white tissues, after the application of sulphur, but to coloured
 cloths it is highly injurious.[2300] In Greece they use Tymphæan[2301]
 gypsum in place of Cimolian earth.
 
-
-
-
 CHAP. 58.—ARGENTARIA. NAMES OF FREEDMEN WHO HAVE EITHER RISEN TO POWER
 THEMSELVES, OR HAVE BELONGED TO MEN OF INFLUENCE.
-
 
 There is another cretaceous earth, known as “argentaria,”[2302] from
 the brightness[2303] which it imparts to silver. There is also the most
@@ -10402,12 +9455,8 @@ and their laurels, in fact, and sent back in state to the very place
 from which they originally came, with their feet whitened with the
 slave-dealer’s chalk!
 
-
-
-
 CHAP. 59. (19.)—THE EARTH OF GALATA; OF CLYPEA; OF THE BALEARES; AND OF
 EBUSUS.
-
 
 In addition to these, there are various other kinds of earth, endowed
 with peculiar properties of their own, and which have been already
@@ -10437,18 +9486,11 @@ Botrys,[2344] Archidemus,[2345] Dionysius,[2346] Aristogenes,[2347]
 Democles,[2348] Mnesides,[2349] Xenocrates[2350] the son of Zeno,
 Theomnestus.[2351]
 
+## Book XXXVI
 
+## The Natural History of Stones
 
-
-BOOK XXXVI.
-
-THE NATURAL HISTORY OF STONES.
-
-
-
-
-CHAP. 1. (1.)—LUXURY DISPLAYED IN THE USE OF VARIOUS KINDS OF MARBLE.
-
+## Chap. 1. (1.)—luxury Displayed in the Use of Various Kinds of Marble
 
 It now remains for us to speak of stones, or, in other words, the
 leading folly of the day; to say nothing at all of our taste for gems
@@ -10487,11 +9529,7 @@ others may take their repose in the midst of variegated stones? Just as
 though too, the shades of night, which occupy one half of each man’s
 existence, would forbear to curtail these imaginary delights.
 
-
-
-
-CHAP. 2.—WHO WAS THE FIRST TO EMPLOY MARBLE IN PUBLIC BUILDINGS.
-
+## Chap. 2.—who Was the First to Employ Marble in Public Buildings
 
 Indeed, while making these reflections, one cannot but feel ashamed
 of the men of ancient times even. There are still in existence
@@ -10526,12 +9564,8 @@ still preserved their silence, when such enormous masses as these were
 being carried past the earthenware[2360] pediments of the temples of
 the gods, to the house of a private individual!
 
-
-
-
 CHAP. 3. (3.)—WHO WAS THE FIRST TO ERECT COLUMNS OF FOREIGN MARBLE AT
 ROME.
-
 
 And yet it cannot be said that Scaurus, by way of a first essay in
 vice, took the City by surprise, in a state of ignorance and totally
@@ -10555,14 +9589,10 @@ degrees of estimation in which they are held, who have worked in
 marble. We will, therefore, proceed to review the sculptors who have
 flourished at different periods.
 
-
-
-
 CHAP. 4. (4.)—THE FIRST ARTISTS WHO EXCELLED IN THE SCULPTURE OF
 MARBLE, AND THE VARIOUS PERIODS AT WHICH THEY FLOURISHED. THE MAUSOLEUM
 IN CARIA. THE MOST CELEBRATED SCULPTORS AND WORKS IN MARBLE, TWO
 HUNDRED AND TWENTY-FIVE IN NUMBER.
-
 
 The first artists who distinguished themselves in the sculpture of
 marble, were Dipœnus[2362] and Scyllis, natives of the Isle of Crete.
@@ -10942,11 +9972,7 @@ that it could be covered, driver and all, by the wings of a fly; and by
 Callicrates,[2481] some ants, in marble, the feet and other limbs of
 which were so fine as to escape the sight.
 
-
-
-
-CHAP. 5. (6.)—AT WHAT PERIOD MARBLE WAS FIRST USED IN BUILDINGS.
-
+## Chap. 5. (6.)—at What Period Marble Was First Used in Buildings
 
 This must suffice for the sculptors in marble, and the works that have
 gained the highest repute; with reference to which subject it occurs to
@@ -10978,12 +10004,8 @@ used at Tibur.”[2486] And, by Hercules! the art of painting[2487] never
 would have been held in such esteem, or, indeed, in any esteem at all,
 if variegated marbles had been held in admiration.
 
-
-
-
 CHAP. 6.—WHO WERE THE FIRST TO CUT MARBLE INTO SLABS, AND AT WHAT
 PERIOD.
-
 
 I am not sure whether the art of cutting marble into slabs, is not an
 invention for which we are indebted to the people of Caria. The most
@@ -10992,12 +10014,8 @@ palace of Mausolus, at Halicarnassus, the walls of which, in brick, are
 covered with marble of Proconnesus. Mausolus died in the second year of
 the hundred and seventh[2488] Olympiad, being the year of Rome, 403.
 
-
-
-
 CHAP. 7.—WHO WAS THE FIRST TO ENCRUST THE WALLS OF HOUSES AT ROME WITH
 MARBLE.
-
 
 The first person at Rome who covered the whole of the walls of
 his house with marble, according to Cornelius Nepos,[2489] was
@@ -11013,12 +10031,8 @@ Nepos adds, as well, that he was the first to have all the columns of
 his house made of nothing but solid marble, and that, too, marble of
 Carystus[2491] or of Luna.[2492]
 
-
-
-
 CHAP. 8.—AT WHAT PERIOD THE VARIOUS KINDS OF MARBLE CAME INTO USE AT
 ROME.
-
 
 M. Lepidus, who was consul with Q. Catulus, was the first to have the
 lintels of his house made of Numidian marble, a thing for which he
@@ -11041,12 +10055,8 @@ of Jupiter Tonans,[2495] in the Capitol, I cannot exactly say: for, up
 to this period, I cannot find any vestiges of the use of marble slabs
 in Italy.
 
-
-
-
 CHAP. 9.—THE METHOD OF CUTTING MARBLE INTO SLABS. THE SAND USED IN
 CUTTING MARBLE.
-
 
 But whoever it was that first invented the art of thus cutting marble,
 and so multiplying the appliances of luxury, he displayed considerable
@@ -11084,11 +10094,7 @@ so much more in thickness. For giving the last polish to marble,[2498]
 Thebaic stone[2499] is considered well adapted, as also porous stone,
 or pumice, powdered fine.
 
-
-
-
-CHAP. 10. (7.)—STONE OF NAXOS. STONE OF ARMENIA.
-
+## Chap. 10. (7.)—stone of Naxos. Stone of Armenia
 
 For polishing marble statues, as also for cutting and giving a polish
 to precious stones, the preference was long given to the stone of
@@ -11096,11 +10102,7 @@ Naxos,[2500] such being the name of a kind of touchstone[2501] that
 is found in the Isle of Cyprus. More recently, however, the stones
 imported from Armenia for this purpose have displaced those of Naxos.
 
-
-
-
-CHAP. 11.—THE MARBLES OF ALEXANDRIA.
-
+## Chap. 11.—the Marbles of Alexandria
 
 The marbles are too well known to make it necessary for me to enumerate
 their several colours and varieties; and, indeed, so numerous are they,
@@ -11155,11 +10157,7 @@ block not unlike it, which forms the statue of Memnon[2517] there;
 remarkable, it is said, for emitting a sound each morning when first
 touched by the rays of the rising sun.
 
-
-
-
-CHAP. 12.—ONYX AND ALABASTRITES; SIX REMEDIES.
-
+## Chap. 12.—onyx and Alabastrites; Six Remedies
 
 Our forefathers imagined that onyx[2518] was only to be found in the
 mountains of Arabia, and nowhere else; but Sudines[2519] was aware that
@@ -11190,12 +10188,8 @@ spots curling in whirls,[2529] and not transparent. Alabastrites
 is considered defective, when it is of a white or horn colour, or
 approaching to glass in appearance.
 
-
-
-
 CHAP. 13.—LYGDINUS; CORALLITIC STONE; STONE OF ALABANDA; STONE OF
 THEBAIS; STONE OF SYENE.
-
 
 Little inferior to it for the preservation of unguents, in the opinion
 of many, is the stone, called “lygdinus,”[2530] that is found in Paros,
@@ -11221,11 +10215,7 @@ for the eyes. In the neighbourhood of Syene, too, in Thebais, there is
 a stone found that is now known as “syenites,”[2533] but was formerly
 called “pyrrhopœcilon.”[2534]
 
-
-
-
-CHAP. 14.—OBELISKS.
-
+## Chap. 14.—obelisks
 
 Monarchs, too, have entered into a sort of rivalry with one another
 in forming elongated blocks of this stone, known as “obelisks,”[2535]
@@ -11314,12 +10304,8 @@ and was originally made by order of Sesothis. They are both of them
 covered with inscriptions, which interpret the operations of Nature
 according to the philosophy of the Egyptians.
 
-
-
-
 CHAP. 15. (10.)—THE OBELISK WHICH SERVES AS A DIAL IN THE CAMPUS
 MARTIUS.
-
 
 The one that has been erected in the Campus Martius[2556] has been
 applied to a singular purpose by the late Emperor Augustus; that of
@@ -11356,11 +10342,7 @@ remains[2564] another by him, one hundred cubits in height, which, by
 order of an oracle, he consecrated to the Sun, after having lost his
 sight and recovered it.
 
-
-
-
-CHAP. 16. (12.)—MARVELLOUS WORKS IN EGYPT. THE PYRAMIDS.
-
+## Chap. 16. (12.)—marvellous Works in Egypt. The Pyramids
 
 We must make some mention, too, however cursorily, of the Pyramids
 of Egypt, so many idle[2565] and frivolous pieces of ostentation of
@@ -11386,11 +10368,7 @@ what we have mentioned[2570] as the Delta, within four miles of the
 river, and seven miles and a-half from Memphis, near a village known as
 Busiris, the people of which are in the habit of ascending them.
 
-
-
-
-CHAP. 17.—THE EGYPTIAN SPHINX.
-
+## Chap. 17.—the Egyptian Sphinx
 
 In front of these pyramids is the Sphinx,[2571] a still more wondrous
 object of art, but one upon which silence has been observed, as it is
@@ -11455,11 +10433,7 @@ philosopher and fabulist, and the sharer of his bed; but what is much
 more surprising is, that a courtesan should have been enabled, by her
 vocation, to amass such enormous wealth.
 
-
-
-
-CHAP. 18.—THE PHAROS.
-
+## Chap. 18.—the Pharos
 
 There is another building, too, that is highly celebrated; the tower
 that was built by a king of Egypt, on the island of Pharos, at the
@@ -11477,11 +10451,7 @@ stars, the flames having very much that appearance at a distance. This
 architect is the first person that built a promenade upon arches; at
 Cnidos, it is said.
 
-
-
-
-CHAP. 19. (13.)—LABYRINTHS.
-
+## Chap. 19. (13.)—labyrinths
 
 We must speak also of the Labyrinths, the most stupendous works,
 perhaps, on which mankind has expended its labours; and not for
@@ -11581,11 +10551,7 @@ which can never be of utility to any one; to say nothing of exhausting
 the resources of the kingdom, and after all, that the artist may reap
 the greater share of the praise!
 
-
-
-
-CHAP. 20.—HANGING GARDENS. A HANGING CITY.
-
+## Chap. 20.—hanging Gardens. A Hanging City
 
 We read, too, of hanging gardens,[2608] and what is even more than
 this, a hanging city,[2609] Thebes in Egypt: it being the practice
@@ -11596,11 +10562,7 @@ city. If, however, all this had really been the case, there is no doubt
 that Homer would have mentioned it, he who has celebrated the hundred
 gates of Thebes.
 
-
-
-
-CHAP. 21. (14.)—THE TEMPLE OF DIANA AT EPHESUS.
-
+## Chap. 21. (14.)—the Temple of Diana at Ephesus
 
 The most wonderful monument of Græcian magnificence, and one that
 merits our genuine admiration, is the Temple of Diana at Ephesus, which
@@ -11638,11 +10600,7 @@ apparently having come to the proper level by dint of its own weight.
 The other decorations of this work would suffice to fill many volumes,
 but they do not tend in any way to illustrate the works of Nature.
 
-
-
-
-CHAP. 22. (15.)—MARVELS CONNECTED WITH OTHER TEMPLES.
-
+## Chap. 22. (15.)—marvels Connected with Other Temples
 
 There still exists, too, at Cyzicus,[2616] a temple of polished stone,
 between all the joints of which the artist has inserted a thread of
@@ -11653,12 +10611,8 @@ reflection of the gold, obscured as it is, gently falling upon the
 statues, besides proclaiming the genius of the artist, heightens their
 effect, and so teaches us to appreciate the costliness of the work.
 
-
-
-
 CHAP. 23.—THE FUGITIVE STONE. THE SEVEN-FOLD ECHO. BUILDINGS ERECTED
 WITHOUT THE USE OF NAILS.
-
 
 In the same city also, there is a stone, known as the “Fugitive
 Stone;”[2617] the Argonautæ, who used it for the purposes of an anchor,
@@ -11683,11 +10637,7 @@ at Rome; and this by enactment, on religious grounds, there having
 been such difficulty experienced in breaking it down when Horatius
 Cocles”[2623] defended it.
 
-
-
-
-CHAP. 24.—MARVELLOUS BUILDINGS AT ROME, EIGHTEEN IN NUMBER.
-
+## Chap. 24.—marvellous Buildings at Rome, Eighteen in Number
 
 But it is now time to pass on to the marvels in building displayed
 by our own City, and to make some enquiry into the resources and
@@ -11977,11 +10927,7 @@ spontaneously. If such is the fact, luxury has good grounds for hoping
 that it will never be at a loss for a supply of materials for its
 gratification.
 
-
-
-
-CHAP. 25. (16.)—THE MAGNET: THREE REMEDIES
-
+## Chap. 25. (16.)—the Magnet: Three Remedies
 
 Upon quitting the marbles to pass on to the other more remarkable
 stones, who can for a moment doubt that the magnet[2665] will be the
@@ -12041,21 +10987,13 @@ stone called “theamedes”[2676] is found, a mineral which repels and
 rejects all kinds of iron. Of the attractive and repulsive properties
 of iron, we have spoken[2677] more than once.
 
-
-
-
-CHAP. 26.—STONE OF SCYROS.
-
+## Chap. 26.—stone of Scyros
 
 In the Isle of Scyros[2678] there is a stone,[2679] they say, which
 floats upon water when whole, but which falls to the bottom when broken
 into fragments.
 
-
-
-
-CHAP. 27. (17.)—SARCOPHAGUS, OR STONE OF ASSOS: TEN REMEDIES.
-
+## Chap. 27. (17.)—sarcophagus, or Stone of Assos: Ten Remedies
 
 At Assos in Troas, there is found a stone of a laminated texture,
 called “sarcophagus.”[2680] It is a well-known fact, that dead bodies,
@@ -12066,11 +11004,7 @@ the dead, become transformed into stone. In Lycia, and in the East,
 there are certain stones of a similar nature, which, when attached to
 the bodies of the living even, corrode the flesh.
 
-
-
-
-CHAP. 28.—CHERNITES.
-
+## Chap. 28.—chernites
 
 Less active in its properties is chernites,[2681] a stone which
 preserves bodies without consuming them, and strongly resembles ivory
@@ -12096,11 +11030,7 @@ the cure of wounds of an obstinate nature inflicted by animals, and
 acts as a desiccative upon suppurations. Plaisters, too, are made of it
 for gout, bean-meal being incorporated with it for the purpose.
 
-
-
-
-CHAP. 29. (18.)—OSSEOUS STONES. PALM STONES. CORANI. BLACK STONES.
-
+## Chap. 29. (18.)—osseous Stones. Palm Stones. Corani. Black Stones
 
 Theophrastus and Mucianus are of opinion that there are certain stones
 which bring[2683] forth other stones. Theophrastus states, also, that
@@ -12121,11 +11051,7 @@ yield a flame even; and that, at Volsinii, molar stones[2690] for
 grinding are found. Among the prodigies that have happened, I find
 mention made of millstones that have moved of themselves,
 
-
-
-
-CHAP. 30.—MOLAR STONES. PYRITES; SEVEN REMEDIES.
-
+## Chap. 30.—molar Stones. Pyrites; Seven Remedies
 
 In no country are the molar stones[2691] superior to those of Italy;
 stones, be it remembered, and not fragments of rock: there are some
@@ -12161,11 +11087,7 @@ on being struck with a nail or any other kind of stone, they emit a
 spark, which, received upon sulphur, dried fungus,[2698] or leaves,
 produces a fire almost sooner than it could be named.
 
-
-
-
-CHAP. 31.—OSTRACITES; FOUR REMEDIES. AMIANTHUS; TWO REMEDIES.
-
+## Chap. 31.—ostracites; Four Remedies. Amianthus; Two Remedies
 
 The several varieties of ostracites[2699] bear a resemblance to shells.
 They are used by way of substitute for pumice-stone, for smoothing the
@@ -12178,21 +11100,13 @@ no diminution from the action of fire. This substance effectually
 counteracts all noxious spells, those wrought by magicians in
 particular.
 
-
-
-
-CHAP. 32.—GEODES; THREE REMEDIES.
-
+## Chap. 32.—geodes; Three Remedies
 
 Geodes[2702] is so called from its formation, it containing earth
 within. It is remarkably beneficial for the eyes, and is used for the
 cure of diseases of the testes and mamillæ.
 
-
-
-
-CHAP. 33.—MELITINUS; SIX REMEDIES.
-
+## Chap. 33.—melitinus; Six Remedies
 
 The stone called “melitinus”[2703] yields a liquid that is sweet, like
 honey. Bruised and incorporated with wax, it is curative of pituitous
@@ -12200,11 +11114,7 @@ eruptions, spots upon the skin, and ulcerations of the fauces. It
 removes epinyctis[2704] also, and, applied as a pessary, in wool, it
 alleviates pains in the uterus.
 
-
-
-
-CHAP. 34.—GAGATES: SIX REMEDIES.
-
+## Chap. 34.—gagates: Six Remedies
 
 Gagates[2705] is a stone, so called from Gages, the name of a town
 and river in Lycia.[2706] It is asserted, too, that at Leucolla[2707]
@@ -12223,22 +11133,14 @@ it is said, make use of gagates in the practice of what they call
 axinomancy;[2713] and they assure us that it will be sure not to burn,
 if the thing is about to happen as the party desires.
 
-
-
-
-CHAP. 35.—SPONGITES: TWO REMEDIES.
-
+## Chap. 35.—spongites: Two Remedies
 
 The stone called “spongites” is found in sponges, and is a marine
 formation. By some persons it is called “tecolithos,”[2714] from the
 circumstance that it is curative of affections of the bladder. Taken in
 wine, it breaks and disperses urinary calculi.
 
-
-
-
-CHAP. 36.—PHRYGIAN STONE.
-
+## Chap. 36.—phrygian Stone
 
 Phrygian stone is so called from the country which produces it, and
 is a porous mass like pumice. It is first saturated with wine, and
@@ -12247,11 +11149,7 @@ is brought to a red heat; which done, it is quenched in sweet wine.
 This operation is repeated three times. The only use made of it is for
 dyeing cloths.[2715]
 
-
-
-
-CHAP. 37. (20.)—HÆMATITES: FIVE REMEDIES. SCHISTOS: SEVEN REMEDIES.
-
+## Chap. 37. (20.)—hæmatites: Five Remedies. Schistos: Seven Remedies
 
 Schistos and hæmatites[2716] have a certain affinity between them. The
 latter is found in mines, and, when burnt, has just the colour[2717]
@@ -12271,12 +11169,8 @@ the corners of the eyes,[2720] and it is also very serviceable for
 reducing procidence of those organs. Such, at least, is the opinion of
 the authors who have most recently written on the subject.
 
-
-
-
 CHAP. 38.—ÆTHIOPIC HÆMATITES. ANDRODAMAS; TWO REMEDIES. ARABIAN
 HÆMATITES. MILTITES OR HEPATITES. ANTHRACITES.
-
 
 Sotacus, one of the most ancient writers, says, that there are five
 kinds of hæmatites, in addition to the magnet[2721] so called. He
@@ -12308,11 +11202,7 @@ upon a water-whetstone, it yields a black colour on the side which has
 adhered to the earth, and, on the opposite side, a saffron tint. He
 states also that it is a useful ingredient in ophthalmic preparations.
 
-
-
-
-CHAP. 39. (21)—AËTITES. TAPHIUSIAN STONE. CALLIMUS.
-
+## Chap. 39. (21)—aëtites. Taphiusian Stone. Callimus
 
 The stone called aëtites[2735] has a great reputation, in consequence
 of the name which it bears. It is found in the nests of eagles, as
@@ -12345,11 +11235,7 @@ the uterus is the result. If, on the other hand, they are not removed
 at the moment when parturition is about to ensue, that operation of
 Nature cannot be effected.
 
-
-
-
-CHAP. 40.—SAMIAN STONE: EIGHT REMEDIES.
-
+## Chap. 40.—samian Stone: Eight Remedies
 
 Samian stone[2738] comes from the same island which produces the
 earth in praise of which we have spoken already.[2739] It is useful
@@ -12365,22 +11251,14 @@ known as “acopa.”[2741] The test of its purity is its weight and its
 whiteness. Some persons will have it that, worn as an amulet, it acts
 as a preventive of abortion.
 
-
-
-
-CHAP. 41.—ARABIAN STONE; SIX REMEDIES.
-
+## Chap. 41.—arabian Stone; Six Remedies
 
 Arabian[2742] stone resembles ivory in appearance; and in a calcined
 state it is employed as a dentifrice.[2743] It is particularly useful
 for the cure of hæmorrhoidal swellings, applied either in lint or by
 the aid of linen pledgets.
 
-
-
-
-CHAP. 42.—PUMICE; NINE REMEDIES.
-
+## Chap. 42.—pumice; Nine Remedies
 
 And here, too, I must not omit to give some account of pumice.[2744]
 This name is very generally given, it is true, to those porous
@@ -12413,12 +11291,8 @@ he says, if they fail to swallow the whole draught of wine at once;
 it being of so refrigerative a nature that grape-juice[2751] will
 absolutely cease to boil if pumice is put into it.
 
-
-
-
 CHAP. 43. (22.)—STONES FOR MORTARS USED FOR MEDICINAL AND OTHER
 PURPOSES. ETESIAN STONE. THEBAIC STONE. CHALAZIAN STONE.
-
 
 Authors, too, have paid some attention to the stones in use for
 mortars, not only those employed for the trituration of drugs and
@@ -12444,11 +11318,7 @@ in them, are considered still better adapted for these purposes than
 the kinds last mentioned. It is this kind of ophites, too, from which
 vessels, and casks even, are made.
 
-
-
-
-CHAP. 44.—STONE OF SIPHNOS. SOFT STONES.
-
+## Chap. 44.—stone of Siphnos. Soft Stones
 
 At Siphnos,[2761] there is a kind of stone[2762] which is hollowed
 and turned in the lathe, for making cooking-utensils and vessels for
@@ -12466,11 +11336,7 @@ used as a substitute for roof-tiles and gutter-tiles, and even for
 the kind of roofing known as the pavonaceous[2767] style, if that is
 preferred. Such are the stones that admit of being cut into thin slabs.
 
-
-
-
-CHAP. 45.—SPECULAR STONES.
-
+## Chap. 45.—specular Stones
 
 As to specular[2768] stone—for this, too, is ranked as one of the
 stones—it admits of being divided with still greater facility, and can
@@ -12509,11 +11375,7 @@ stone, have been used of late for another purpose; the Circus Maximus
 having been strewed with them at the celebration of the games, with the
 object of producing an agreeable whiteness.
 
-
-
-
-CHAP. 46.—PHENGITES.
-
+## Chap. 46.—phengites
 
 During the reign of Nero, there was a stone found in Cappadocia, as
 hard as marble, white, and transparent even in those parts where red
@@ -12530,11 +11392,7 @@ building.
 In Arabia, too, according to Juba, there is a stone, transparent like
 glass, which is used for the same purposes as specular-stone.
 
-
-
-
-CHAP. 47.—WHETSTONES.
-
+## Chap. 47.—whetstones
 
 We must now pass on to the stones that are employed for handicrafts,
 and, first of all, whetstones for sharpening iron. Of these stones
@@ -12555,11 +11413,7 @@ worthless, however, for all other purposes, in consequence of their
 soft and brittle nature: those from the district of Laminium,[2779] in
 Nearer Spain, are the best of the kind.
 
-
-
-
-CHAP. 48.—TOPHUS.
-
+## Chap. 48.—tophus
 
 Among the multitude of stones which still remain undescribed, there
 is tophus;[2780] material totally unsuited for building purposes, in
@@ -12582,11 +11436,7 @@ Rain, however, frost, and dew, split them to pieces, nor can they
 resist the humidity of the sea-air. The stone[2784] of Tibur can stand
 everything except heat, which makes it crack.
 
-
-
-
-CHAP. 49.—THE VARIOUS KINDS OF SILEX.
-
+## Chap. 49.—the Various Kinds of Silex
 
 The black silex[2785] is in general the best; but in some localities,
 it is the red, and occasionally the white; as in the Anician quarries
@@ -12604,11 +11454,7 @@ building purposes, unless it is well braced and tightly held together.
 Nor yet does river silex offer any greater security, for it always has
 the appearance of being wet.
 
-
-
-
-CHAP. 50.—OTHER STONES USED FOR BUILDING.
-
+## Chap. 50.—other Stones Used for Building
 
 When the nature of stone is doubtful, the proper precaution is, to
 quarry it in summer, and not to use it for building before the end of a
@@ -12618,11 +11464,7 @@ suited for the foundations under ground: while those, on the other
 hand, which have remained uninjured, may be employed with safety, and
 exposed to the open air even.
 
-
-
-
-CHAP. 51.—THE VARIOUS METHODS OF BUILDING.
-
+## Chap. 51.—the Various Methods of Building
 
 The Greeks construct party-walls, resembling those of brickwork, of
 hard stone or of silex, squared. This kind of stonework is what they
@@ -12641,11 +11483,7 @@ The reticulated[2793] kind of building, which is mostly in use at Rome,
 is very liable to crack.[2794] All building should be done by line and
 rule, and ought to be strictly on the perpendicular.
 
-
-
-
-CHAP. 52. (23.)—CISTERNS.
-
+## Chap. 52. (23.)—cisterns
 
 Cisterns should be made of five parts of pure, gravelly, sand, two of
 the very strongest quicklime, and fragments of silex not exceeding a
@@ -12655,11 +11493,7 @@ the cisterns double; so that all superfluities may settle in the inner
 cistern, and the water filter through, as pure as possible, into the
 outer one.
 
-
-
-
-CHAP. 53.—QUICK-LIME.
-
+## Chap. 53.—quick-Lime
 
 Cato[2795] the Censor disapproves of lime prepared from stones of
 various colours: that made of white stone is the best. Lime prepared
@@ -12673,11 +11507,7 @@ others. It is something truly marvellous, that quick-lime, after the
 stone has been subjected to fire, should ignite on the application of
 water!
 
-
-
-
-CHAP. 54.—THE VARIOUS KINDS OF SAND. THE COMBINATIONS OF SAND WITH LIME.
-
+## Chap. 54.—the Various Kinds of Sand. The Combinations of Sand with Lime
 
 There are three kinds of sand: fossil[2797] sand, to which one-fourth
 part of lime should be added;[2798] river sand; and sea sand; to both
@@ -12686,11 +11516,7 @@ of the mortar is composed of bruised earthenware, it will be all the
 better. Fossil sand is found in the districts that lie between the
 Apennines and the Padus, but not in the parts beyond sea.
 
-
-
-
-CHAP. 55.—DEFECTS IN BUILDING. PLASTERS FOR WALLS.
-
+## Chap. 55.—defects in Building. Plasters for Walls
 
 The great cause of the fall of so many buildings in our City, is, that
 through a fraudulent abstraction of the lime, the rough work is laid
@@ -12716,11 +11542,7 @@ milk and saffron:[2800] hence it is, that, even at the present day,
 when rubbed with spittle on the finger, it yields the smell and flavour
 of saffron.
 
-
-
-
-CHAP. 56.—COLUMNS. THE SEVERAL KINDS OF COLUMNS.
-
+## Chap. 56.—columns. The Several Kinds of Columns
 
 The more closely columns are placed together, the thicker they appear
 to be. There are four different kinds of pillars. Those of which the
@@ -12742,11 +11564,7 @@ in height, the upper extremity of the shaft being one-seventh less in
 diameter than the foot. In addition to these columns, there are what
 are called “Attic” columns, quadrangular, and with equal sides.
 
-
-
-
-CHAP. 57. (24.)—FIVE REMEDIES DERIVED FROM LIME.
-
+## Chap. 57. (24.)—five Remedies Derived from Lime
 
 Lime is also employed very extensively in medicine. For this purpose,
 fresh lime is selected, which has not been slaked with water. Its
@@ -12757,11 +11575,7 @@ it is tempered with wax and oil of roses, and applied to promote
 cicatrization. In combination with honey, and liquid resin, or hogs’
 lard, lime is curative of sprains and scrofulous sores.
 
-
-
-
-CHAP. 58.—MALTHA.
-
+## Chap. 58.—maltha
 
 Maltha[2802] is a cement prepared from fresh lime; lumps of which are
 quenched in wine, and then pounded with hogs’ lard and figs, both of
@@ -12769,11 +11583,7 @@ them, mollifying substances.[2803] It is the most tenacious of all
 cements, and surpasses stone in hardness. Before applying the maltha,
 the substance upon which it is used must be well rubbed with oil.
 
-
-
-
-CHAP. 59.—GYPSUM.
-
+## Chap. 59.—gypsum
 
 Gypsum[2804] has a close affinity with limestone, and there are
 numerous varieties of it. One kind is prepared from a calcined[2805]
@@ -12797,11 +11607,7 @@ Proculeius,[2810] an intimate friend of the Emperor Augustus, suffering
 from violent pains in the stomach, swallowed gypsum, and so put an end
 to his existence.[2811]
 
-
-
-
-CHAP. 60. (25.)—PAVEMENTS. THE ASAROTOS ŒCOS.
-
+## Chap. 60. (25.)—pavements. The Asarotos Œcos
 
 Pavements are an invention of the Greeks, who also practised the art of
 painting them, till they were superseded by mosaics.[2812] In this last
@@ -12816,11 +11622,7 @@ throwing the shadow of its head upon the water; while other birds
 are to be seen sunning and pluming themselves, on the margin of a
 drinking-bowl.
 
-
-
-
-CHAP. 61.—THE FIRST PAVEMENTS IN USE AT ROME.
-
+## Chap. 61.—the First Pavements in Use at Rome
 
 The first pavements, in my opinion, were those now known to us as
 barbaric and subtegulan[2815] pavements, a kind of work that was
@@ -12833,11 +11635,7 @@ prevalent, is evident from the line of Lucilius—
 
   “With checquered emblems like a pavement marked.”[2818]
 
-
-
-
-CHAP. 62.—TERRACE-ROOF PAVEMENTS.
-
+## Chap. 62.—terrace-Roof Pavements
 
 The Greeks have also invented terrace-roof[2819] pavements, and have
 covered their houses with them; a thing that may easily be done in the
@@ -12860,11 +11658,7 @@ the lime. It is necessary, too, before putting down the planking, to
 underset it with a bed of round pebbles. Wheat-ear[2822] tesselated
 pavements are laid down in a similar manner.
 
-
-
-
-CHAP. 63.—GRÆCANIC PAVEMENTS.
-
+## Chap. 63.—græcanic Pavements
 
 We must not omit here one other kind of pavement, that known as the
 “Græcanic.” The ground is well rammed down, and a bed of rough work,
@@ -12875,12 +11669,8 @@ it a uniform thickness of half a foot. The surface then presents the
 ordinary appearance of the ground; but if it is well rubbed with the
 polishing-stone, it will have all the appearance of a black pavement.
 
-
-
-
 CHAP. 64.—AT WHAT PERIOD MOSAIC PAVEMENTS WERE FIRST INVENTED. AT WHAT
 PERIOD ARCHED ROOFS WERE FIRST DECORATED WITH GLASS.
-
 
 Mosaic[2823] pavements were first introduced in the time of Sylla; at
 all events, there is still in existence a pavement, formed of small
@@ -12897,11 +11687,7 @@ as already[2824] stated, glass had by that time come to be used for the
 arched roofs of apartments. It will be as well, therefore, to give some
 account, also, of glass.
 
-
-
-
-CHAP. 65. (26.)—THE ORIGIN OF GLASS.
-
+## Chap. 65. (26.)—the Origin of Glass
 
 In Syria there is a region known as Phœnice,[2825] adjoining to Judæa,
 and enclosing, between the lower ridges of Mount Carmelus, a marshy
@@ -12928,11 +11714,7 @@ combination with the sand of the sea-shore, they beheld transparent
 streams flowing forth of a liquid hitherto unknown: this, it is said,
 was the origin of glass.[2828]
 
-
-
-
-CHAP. 66.—THE VARIOUS KINDS OF GLASS, AND THE MODE OF MAKING IT.
-
+## Chap. 66.—the Various Kinds of Glass, and the Mode of Making It
 
 In process of time, as human industry is ingenious in discovering, it
 was not content with the combination of nitre, but magnet-stone[2829]
@@ -12976,11 +11758,7 @@ process discovered, by which two small glass cups were made, of the
 kind called “petroti,”[2836] the price of which was no less than six
 thousand sesterces!
 
-
-
-
-CHAP. 67.—OBSIAN GLASS AND OBSIAN STONE.
-
+## Chap. 67.—obsian Glass and Obsian Stone
 
 Among the various kinds of glass, we may also reckon Obsian glass,
 a substance very similar to the stone[2837] which Obsius discovered
@@ -13022,11 +11800,7 @@ making the small checquers, known as “abaculi,” for mosaic work; some
 of which are of variegated colours, and of different shapes. If glass
 is fused with sulphur, it will become as hard as stone.
 
-
-
-
-CHAP. 68. (27.)—MARVELLOUS FACTS CONNECTED WITH FIRE.
-
+## Chap. 68. (27.)—marvellous Facts Connected with Fire
 
 Having now described all the creations of human ingenuity,
 reproductions, in fact, of Nature by the agency of art, it cannot but
@@ -13050,11 +11824,7 @@ then that it has its greatest energies. An element this, of immense,
 of boundless[2848] power, and, as to which, it is a matter of doubt
 whether it does not create even more than it destroys!
 
-
-
-
-CHAP. 69.—THREE REMEDIES DERIVED FROM FIRE AND FROM ASHES.
-
+## Chap. 69.—three Remedies Derived from Fire and from Ashes
 
 Fire even has certain medicinal virtues of its own. When pestilences
 prevail, in consequence of the obscuration[2849] of the sun, it is a
@@ -13074,11 +11844,7 @@ which are despised even, and looked upon as so utterly destitute of all
 virtues, have still their own remedial properties, charcoal and ashes
 for example.
 
-
-
-
-CHAP. 70.—PRODIGIES CONNECTED WITH THE HEARTH.
-
+## Chap. 70.—prodigies Connected with the Hearth
 
 I must not omit too, one portentous fact connected with the hearth,
 and famous in Roman history. In the reign of Tarquinius Priscus, it
@@ -13108,18 +11874,11 @@ Duris,[2878] Herodotus,[2879] Euhemerus,[2880] Aristagoras,[2881]
 Dionysius,[2882] Artemidorus,[2883] Butoridas,[2884] Antisthenes,[2885]
 Demetrius,[2886] Demoteles,[2887] Lyceas.[2888]
 
+## Book XXXVII
 
+## The Natural History of Precious Stones
 
-
-BOOK XXXVII.
-
-THE NATURAL HISTORY OF PRECIOUS STONES.
-
-
-
-
-CHAP. 1. (1.)—THE FIRST USE OF PRECIOUS STONES.
-
+## Chap. 1. (1.)—the First Use of Precious Stones
 
 That nothing may be wanting to the work which I have undertaken, it
 still remains for me to speak of precious stones: a subject in which
@@ -13146,11 +11905,7 @@ story of the chains of Prometheus: for we are told by tradition, that
 he enclosed a fragment of this stone in iron, and wore it upon his
 finger;[2890] such being the first ring and the first jewel known.
 
-
-
-
-CHAP. 2.—THE JEWEL OF POLYCRATES.
-
+## Chap. 2.—the Jewel of Polycrates
 
 With a beginning such as this, the value set upon precious stones
 increased to such a boundless extent, that Polycrates,[2891] the
@@ -13175,11 +11930,7 @@ deposited, by the Emperor Augustus, in the Temple of Concord, where it
 holds pretty nearly the lowest rank among a multitude of other jewels
 that are preferable to it.
 
-
-
-
-CHAP. 3.—THE JEWEL OF PYRRHUS.
-
+## Chap. 3.—the Jewel of Pyrrhus
 
 Next in note after this ring, is the jewel that belonged to another
 king, Pyrrhus, who was so long at war with the Romans. It is said that
@@ -13213,12 +11964,8 @@ appearance of being addressed to those, who, piquing themselves upon a
 similar display, become puffed up with a vanity which is evidently much
 more appropriate to a performer on the flute.
 
-
-
-
 CHAP. 4.—WHO WERE THE MOST SKILFUL LAPIDARIES. THE FINEST SPECIMENS OF
 ENGRAVING ON PRECIOUS STONES.
-
 
 The stone of the ring[2899] which is now shown as that of Polycrates,
 is untouched and without engraving. In the time of Ismenias, long[2900]
@@ -13251,11 +11998,7 @@ monetary imposts which it announced. At a later period, with the view
 of avoiding the sarcasms relative to the Sphinx, Augustus made use of a
 signet with a figure upon it of Alexander the Great.
 
-
-
-
-CHAP. 5.—THE FIRST DACTYLIOTHECÆ AT ROME.
-
+## Chap. 5.—the First Dactyliothecæ at Rome
 
 A collection of precious stones bears the foreign name of
 “dactyliotheca.”[2909] The first person who possessed one at Rome
@@ -13268,11 +12011,7 @@ Scaurus. Following his example, the Dictator Cæsar consecrated six
 dactyliothecæ in the Temple of Venus Genetrix; and Marcellus, the son
 of Octavia,[2911] presented one to the Temple of the Palatine Apollo.
 
-
-
-
-CHAP. 6.—JEWELS DISPLAYED AT ROME IN THE TRIUMPH OF POMPEIUS MAGNUS.
-
+## Chap. 6.—jewels Displayed at Rome in the Triumph of Pompeius Magnus
 
 But it was this conquest by Pompeius Magnus that first introduced
 so general a taste for pearls and precious stones; just as the
@@ -13338,12 +12077,8 @@ enriched, and of rings that sparkle with gems: for what species of
 luxury can there be thought of, that was not more innocent in its
 results than this on the part of Pompeius?
 
-
-
-
 CHAP. 7.—AT WHAT PERIOD MURRHINE VESSELS WERE FIRST INTRODUCED AT ROME.
 INSTANCES OF LUXURY IN REFERENCE TO THEM.
-
 
 It was the same conquest, too, that first introduced murrhine[2925]
 vessels at Rome; Pompeius being the first to dedicate, at the
@@ -13380,11 +12115,7 @@ surpassed them all, by paying one million of sesterces for a single
 cup: a fact well worthy of remembrance, that an emperor, the father of
 his country, should have drunk from a vessel of such costly price!
 
-
-
-
-CHAP. 8.—THE NATURE OF MURRHINE VESSELS.
-
+## Chap. 8.—the Nature of Murrhine Vessels
 
 Murrhine vessels come from the East, in numerous localities of which,
 remarkable for nothing else, they are to be found. It is in the empire
@@ -13409,11 +12140,7 @@ and of spots that look like warts; not prominent, but depressed, as we
 mostly see upon the human body. The perfume,[2935] too, of which they
 smell, is looked upon as an additional recommendation.
 
-
-
-
-CHAP. 9—THE NATURE OF CRYSTAL.
-
+## Chap. 9—the Nature of Crystal
 
 It is a diametrically opposite cause to this that produces
 crystal,[2936] a substance which assumes a concrete form from excessive
@@ -13454,12 +12181,8 @@ substance; and the more so, as the pyramidal terminations do not always
 have the same appearance. The polish on its faces is so exquisite, that
 no art can possibly equal it.
 
-
-
-
 CHAP. 10.—LUXURY DISPLAYED IN THE USE OF CRYSTAL. REMEDIES DERIVED FROM
 CRYSTAL.
-
 
 The largest block of crystal that has ever been beheld by us, is
 the one that was consecrated by Julia Augusta in the Capitol, and
@@ -13498,11 +12221,7 @@ been brought to a marvellous degree of resemblance to crystal; and
 yet, wonderful to say, they have only tended to enhance the value of
 crystal, and in no way to depreciate it.
 
-
-
-
-CHAP. 11.—AMBER: THE MANY FALSEHOODS THAT HAVE BEEN TOLD ABOUT IT.
-
+## Chap. 11.—amber: The Many Falsehoods that Have Been Told About It
 
 Next in rank among the objects of luxury, we have amber;[2953]
 an article which, for the present, however, is in request among
@@ -13689,11 +12408,7 @@ gnats, and lizards. These, no doubt, must have first adhered to it
 while liquid, and then, upon its hardening, have remained enclosed
 within.[2980]
 
-
-
-
-CHAP. 12.—THE SEVERAL KINDS OF AMBER: THE REMEDIES DERIVED FROM IT.
-
+## Chap. 12.—the Several Kinds of Amber: The Remedies Derived from It
 
 There are several kinds[2981] of amber. The white is the one that has
 the finest odour;[2982] but neither this nor the wax-coloured amber
@@ -13752,11 +12467,7 @@ of the stomach. Amber, too, is greatly in request for the imitation
 of the transparent precious stones, amethystos in particular: for, as
 already stated, it admits of being dyed of every colour.
 
-
-
-
-CHAP. 13.—LYNCURUIM: TWO ASSERTED REMEDIES.
-
+## Chap. 13.—lyncuruim: Two Asserted Remedies
 
 The pertinacity that has been displayed by certain authors compels me
 to speak of lyncurium[2985] next; for even those who maintain that
@@ -13778,12 +12489,8 @@ have been made as to its medicinal properties, as equally false; to the
 effect that, taken in drink, it disperses urinary calculi, and that,
 taken in wine, or only looked at, it is curative of jaundice.
 
-
-
-
 CHAP. 14.—THE VARIOUS PRECIOUS STONES, CLASSIFIED ACCORDING TO THEIR
 PRINCIPAL COLOURS.
-
 
 We will now proceed to speak of the various kinds of precious stones,
 the existence of which is generally admitted, beginning with those
@@ -13796,11 +12503,7 @@ their fabulous stories, stepping, under that most alluring guise of
 ascertaining remedial virtues, beyond all bounds, and entering the
 region of the marvellous.
 
-
-
-
-CHAP. 15. (4.)—ADAMAS: SIX VARIETIES OF IT. TWO REMEDIES.
-
+## Chap. 15. (4.)—adamas: Six Varieties of It. Two Remedies
 
 The substance that possesses the greatest value, not only among the
 precious stones, but of all human possessions, is adamas;[2988] mineral
@@ -13881,11 +12584,7 @@ Germany, and in the island of Basilia,[3006] where amber is found. He
 says, too, that this is preferable to the stone of Arabia; but can
 there be any doubt that his statement is incorrect?
 
-
-
-
-CHAP. 16.—-SMARAGDUS.
-
+## Chap. 16.—-Smaragdus
 
 Next[3007] in esteem with us are the pearls of India and Arabia, of
 which we have already spoken in the Ninth Book,[3008] when treating of
@@ -13920,11 +12619,7 @@ them. When the surface of the smaragdus is flat, it reflects the image
 of objects in the same manner as a mirror. The Emperor Nero used to
 view[3013] the combats of the gladiators upon a smaragdus.
 
-
-
-
-CHAP. 17.—TWELVE VARIETIES OF THE SMARAGDUS.
-
+## Chap. 17.—twelve Varieties of the Smaragdus
 
 Of this stone there are no less than twelve different kinds; of
 which the finest is the Scythian[3014] smaragdus, so called from the
@@ -13955,11 +12650,7 @@ a degree, as to alarm the tunnies and put them to flight: a novel
 circumstance, which for a long time excited wonder in the fishermen,
 till at last the stones in the statue were changed for others.
 
-
-
-
-CHAP. 18.—DEFECTS IN THE SMARAGDUS.
-
+## Chap. 18.—defects in the Smaragdus
 
 It will be only proper, too, seeing that the prices of these stones
 are so exorbitant, to point out their defects. Some defects, no doubt,
@@ -14036,11 +12727,7 @@ too, we learn that there are several varieties of the smaragdus in the
 neighbouring mountains, and that stones like those of Media are found
 in Mount Taygetus,[3030] as also in Sicily.
 
-
-
-
-CHAP. 19.—THE PRECIOUS STONE CALLED TANOS. CHALCOSMARAGDOS.
-
+## Chap. 19.—the Precious Stone Called Tanos. Chalcosmaragdos
 
 Among the smaragdi is also included the precious stone known as
 “tanos.”[3031] It comes from Persia, and is of an unsightly green, and
@@ -14062,11 +12749,7 @@ which had not as yet been entirely transformed. Apion, surnamed
 still in existence, in his time, in the Labyrinth of Egypt, a colossal
 statue of Serapis made of a single smaragdus, nine cubits in height.
 
-
-
-
-CHAP. 20.—BERYLS: EIGHT VARIETIES OF THEM. DEFECTS IN BERYLS.
-
+## Chap. 20.—beryls: Eight Varieties of Them. Defects in Beryls
 
 Beryls, it is thought, are of the same[3037] nature as the smaragdus,
 or at least closely analogous. India[3038] produces them, and they
@@ -14110,11 +12793,7 @@ in the vicinity of Pontus.[3048] The people of India, by colouring
 crystal, have found a method of imitating various precious stones,
 beryls in particular.
 
-
-
-
-CHAP. 21. (6.)—OPALS: SEVEN VARIETIES OF THEM.
-
+## Chap. 21. (6.)—opals: Seven Varieties of Them
 
 Opals[3049] are at once very similar to, and very different from,
 beryls, and only yield to the smaragdus in value. India, too, is
@@ -14145,11 +12824,7 @@ the very brutes even tear off the portion of their body for the sake of
 which they know their existence to be imperilled,[3056] and so redeem
 themselves by parting with it.
 
-
-
-
-CHAP. 22.—DEFECTS IN OPALS: THE MODES OF TESTING THEM.
-
+## Chap. 22.—defects in Opals: The Modes of Testing Them
 
 Defects in opal are, a colour inclining to that of the flower called
 heliotropium,[3057] or to that of crystal or of hailstones; salt-like
@@ -14177,12 +12852,8 @@ are wanting: those, too, are preferred, which have their brilliancy
 deepened by a vinous hue, rather than those which have their colours
 diluted, as it were, with water.
 
-
-
-
 CHAP. 23.—SARDONYX; THE SEVERAL VARIETIES OF IT. DEFECTS IN THE
 SARDONYX.
-
 
 Thus far we have spoken in reference to the stones, which, it is
 generally agreed, belong to the highest rank; in obedience, more
@@ -14241,11 +12912,7 @@ of any one of the colours is interrupted by the interposition of
 another. The sardonyx of Armenia is held in some esteem, but the zone
 round it is of a pallid hue.
 
-
-
-
-CHAP. 24.—ONYX: THE SEVERAL VARIETIES OF IT.
-
+## Chap. 24.—onyx: The Several Varieties of It
 
 We must give some account also of onyx,[3070] because of the name which
 it partly shares in common with sardonyx. This name, though in some
@@ -14277,11 +12944,7 @@ part, a kindred name with it; but before passing on to it, we must
 first take some notice of all those precious stones which have a
 brilliancy like that of flame.
 
-
-
-
-CHAP. 25. (7.)—CARBUNCULUS: TWELVE VARIETIES OF IT.
-
+## Chap. 25. (7.)—carbunculus: Twelve Varieties of It
 
 In the first rank among these is carbunculus,[3076] so called from its
 resemblance to fire; though in reality it is proof against the action
@@ -14346,11 +13009,7 @@ Bocchus informs us in his writings, that these stones are extracted
 from the ground at Olisipo;[3092] at the cost of great labour, however,
 in consequence of the parched, argillaceous, nature of the soil.
 
-
-
-
-CHAP. 26.—DEFECTS IN CARBUNCULUS, AND THE MODE OF TESTING IT.
-
+## Chap. 26.—defects in Carbunculus, and the Mode of Testing It
 
 Nothing is more difficult than to distinguish the several varieties of
 this stone, so great an opportunity do they afford to artistic skill of
@@ -14366,11 +13025,7 @@ in them; and the weight of the glass counterfeit is always less. In
 some cases, too, they present small blisters within, which shine like
 silver.
 
-
-
-
-CHAP. 27.—AHTHRACITIS.[3093]
-
+## Chap. 27.—ahthracitis.[3093]
 
 There is also a fossil stone found in Thesprotia, known as
 “anthracitis,”[3094] and resembling a burning coal[3095] in appearance.
@@ -14383,11 +13038,7 @@ into the fire they have all the appearance of becoming quenched and
 deadened; while, on the other hand, if they are drenched with water,
 they become doubly glowing.[3096]
 
-
-
-
-CHAP. 28.—SANDASTROS. SANDARESOS.
-
+## Chap. 28.—sandastros. Sandaresos
 
 Of a kindred nature, too, is sandastros,[3097] known as “garamantites”
 by some: it is found in India, at a place of that name, and is a
@@ -14425,11 +13076,7 @@ well as the other, and likewise takes its name from the locality where
 it is found. The colour of it is that of an apple, or of green oil, and
 no one sets any value on it.
 
-
-
-
-CHAP. 29.—LYCHNIS: FOUR VARIETIES OF IT.
-
+## Chap. 29.—lychnis: Four Varieties of It
 
 To the same class of flame-coloured stones belongs that known as
 “lychnis;”[3100] so called from its lustre being heightd by the light
@@ -14444,11 +13091,7 @@ radiance, and another of a scarlet[3103] tint. It is asserted, too,
 that these stones, when heated or rubbed between the fingers, will
 attract[3104] chaff and filaments of paper.
 
-
-
-
-CHAP. 30.—CARCHEDONIA.
-
+## Chap. 30.—carchedonia
 
 Carchedonia,[3105] too, is said to have the same property, though far
 inferior in value to the stones already mentioned. It is found in the
@@ -14463,11 +13106,7 @@ stone and of lychnis:[3107] all these kinds of stone, however, offer
 the most obstinate resistance to the graver, and, if used for seals,
 are apt to bring away a part of the wax.
 
-
-
-
-CHAP. 31.—SARDA: FIVE VARIETIES OF IT.
-
+## Chap. 31.—sarda: Five Varieties of It
 
 Sarda,[3108] on the other hand, is remarkably useful for this purpose;
 a stone which shares its name, in part, with sardonyx. It is a common
@@ -14495,11 +13134,7 @@ upon it. Those stones which are like honey in colour, are generally
 disapproved of, and still more so, when they have the complexion of
 earthenware.[3110]
 
-
-
-
-CHAP. 32. (8.)—TOPAZOS: TWO VARIETIES OF IT.
-
+## Chap. 32. (8.)—topazos: Two Varieties of It
 
 Topazos[3111] is a stone that is still held in very high estimation
 for its green tints: indeed, when it was first discovered, it was
@@ -14531,11 +13166,7 @@ those of high value that yields to the action of the file, the rest
 being polished by the aid of stone of Naxos.[3119] It admits, too, of
 being worn by use.
 
-
-
-
-CHAP. 33.—CALLAINA.
-
+## Chap. 33.—callaina
 
 With this stone we must also couple another, which resembles it
 more closely in appearance than in value, the stone known as
@@ -14576,11 +13207,7 @@ easily counterfeited in glass. Some writers say, that this stone is
 to be found in Arabia also, in the nest of the bird known as the
 “melancoryphus.”[3124]
 
-
-
-
-CHAP. 34.—PRASIUS; THREE VARIETIES OF IT.
-
+## Chap. 34.—prasius; Three Varieties of It
 
 There are numerous other kinds also of green stones. To the more common
 class belongs prasius;[3125] one variety of which is disfigured with
@@ -14591,11 +13218,7 @@ between topazos and gold. This stone is found of so large a size as to
 admit of drinking-boats[3128] even being made of it, and is cut into
 cylinders very frequently.
 
-
-
-
-CHAP. 35.—NILION.
-
+## Chap. 35.—nilion
 
 India, which produces these stones, produces nilion[3129] also, a stone
 that differs from the last in its dull, diminished lustre, which, when
@@ -14606,11 +13229,7 @@ a tint like honey. According to Juba, Æthiopia produces it, upon the
 shores of the river known to us as the Nilus; to which circumstance, he
 says, it owes its name.
 
-
-
-
-CHAP. 36.—MOLOCHITIS.
-
+## Chap. 36.—molochitis
 
 Molochitis[3130] is not transparent, being of a deeper green, and more
 opaque than smaragdus; its name is derived from the mallow,[3131] which
@@ -14619,11 +13238,7 @@ it is endowed by Nature with medicinal properties which render it a
 preservative for infants against certain dangers which menace them.
 This stone is a native of Arabia.[3132]
 
-
-
-
-CHAP. 37.—IASPIS; FOURTEEN VARIETIES OF IT. DEFECTS FOUND IN IASPIS.
-
+## Chap. 37.—iaspis; Fourteen Varieties of It. Defects Found in Iaspis
 
 Iaspis,[3133] too, is green, and often transparent; a stone which, if
 surpassed by many others, still retains the renown which it acquired in
@@ -14682,11 +13297,7 @@ and looks as if it had been smoked. We have seen in our day an
 iaspis[3155] fifteen inches in length, of which a figure of Nero was
 made, armed with a cuirass.
 
-
-
-
-CHAP. 38.—CYANOS; THE SEVERAL VARIETIES OF IT.
-
+## Chap. 38.—cyanos; The Several Varieties of It
 
 We must also give a separate account of cyanos,[3156] a name which,
 until very recently, was given to a species of iaspis, on account of
@@ -14699,11 +13310,7 @@ discovered it being still preserved in their annals. This stone, too,
 is divided into male and female, and sometimes it has the appearance of
 being powdered with a golden dust, in much the same way as sapphiros.
 
-
-
-
-CHAP. 39.—SAPPHIROS.
-
+## Chap. 39.—sapphiros
 
 For sapphiros,[3159] too, is refulgent with spots[3160] like gold. It
 is also of an azure colour, though sometimes, but rarely, it is purple;
@@ -14713,12 +13320,8 @@ engraving when intersected with hard particles of a crystalline[3161]
 nature. Those among them that have the colour of cyanos are generally
 thought to be the male stones.
 
-
-
-
 CHAP. 40.—AMETHYSTOS; FOUR VARIETIES OF IT. SOCONDION. SAPENOS.
 PHARANITIS. APHRODITES BLEPHARON, ANTEROS, OR PÆDEROS.
-
 
 We will now commence with another class of precious stones, those of
 a purple colour, or whose tints are derived from purple. To the first
@@ -14768,11 +13371,7 @@ or of a scarabæus: statements which, in my opinion, they cannot have
 committed to writing without a feeling of contempt and derision for the
 rest of mankind.
 
-
-
-
-CHAP. 41.—HYACINTHOS.
-
+## Chap. 41.—hyacinthos
 
 Very different from this stone is hyacinthos,[3172] though partaking
 of a colour that closely borders upon it. The great difference between
@@ -14783,11 +13382,7 @@ it from satisfying the sight, that it almost wholly fails to attract
 the eye, its lustre disappearing more rapidly than the tints of the
 flower[3173] known by the same name.
 
-
-
-
-CHAP. 42.—CHRYSOLITHOS: SEVEN VARIETIES OF IT.
-
+## Chap. 42.—chrysolithos: Seven Varieties of It
 
 Æthiopia, which produces hyacinthos, produces chrysolithos[3174] also,
 a transparent stone with a refulgence like that of gold. The stones
@@ -14802,11 +13397,7 @@ and so give it the appearance of silver. When this is the case, they
 are set in a bezel that is open on either side; but when the stone is
 of inferior quality, a ground of aurichalcum[3176] is placed beneath.
 
-
-
-
-CHAP. 43.—CHRYSELECTRUM.
-
+## Chap. 43.—chryselectrum
 
 Though it has now altogether gone out of use for jewellery, there
 is a precious stone known as “chryselectrum,”[3177] the colour of
@@ -14819,11 +13410,7 @@ has been discovered, in sinking to the water-level for wells.[3180] He
 tells us also that he once saw a chrysolithos twelve[3181] pounds in
 weight.
 
-
-
-
-CHAP. 44.—LEUCOCHRYSOS: FOUR VARIETIES OF IT.
-
+## Chap. 44.—leucochrysos: Four Varieties of It
 
 There is also a stone known as “leucochrysos,”[3182] with a white vein
 running across it. To this class, too, belongs capnias;[3183] a stone
@@ -14833,11 +13420,7 @@ such a degree of perfection, that it is impossible to distinguish them
 by the eye. The touch, however, detects the difference, the imitation
 being not so cold as the real stone.
 
-
-
-
-CHAP. 45.—MELICHRYSOS. XUTHON.
-
+## Chap. 45.—melichrysos. Xuthon
 
 To this class also belongs melichrysos,[3184] a stone which has all the
 appearance of pure honey, seen through transparent gold. India produces
@@ -14845,11 +13428,7 @@ these stones, and, although hard, they are very brittle, but not
 unpleasing to the sight. The same country, too, produces xuthon,[3185]
 a stone much used by the lower classes there.
 
-
-
-
-CHAP. 46.—PÆDEROS, SANGENON, OR TENITES.
-
+## Chap. 46.—pæderos, Sangenon, or Tenites
 
 At the very head of the white stones is pæderos;[3186] though it may
 still be questionable to which of the colours it in reality belongs.
@@ -14878,11 +13457,7 @@ defects commonly found in these stones are, a want of brilliancy, a
 confusion with colours which do not properly belong to them, and the
 other imperfections which are found in stones in general.[3189]
 
-
-
-
-CHAP. 47.—ASTERIA.
-
+## Chap. 47.—asteria
 
 Next among the white stones is “asteria,”[3190] a gem which holds its
 high rank on account of a certain peculiarity in its nature, it having
@@ -14894,11 +13469,7 @@ white rays like those of a star, and to this, in fact, it owes its
 name.[3191] The stones of India are very difficult to engrave, those of
 Carmania being preferred.
 
-
-
-
-CHAP. 48.—ASTRION.
-
+## Chap. 48.—astrion
 
 Of a similar white radiance is the stone that is known as
 “astrion,”[3192] closely resembling crystal in its nature, and found
@@ -14912,31 +13483,19 @@ defects. They add, also, that a stone of inferior quality is known as
 “ceraunia,”[3194] and that, in the worst of all, the light is very
 similar to that given by a lamp.
 
-
-
-
-CHAP. 49.—ASTRIOTES.
-
+## Chap. 49.—astriotes
 
 Astriotes,[3195] too, is a stone that is highly esteemed, and
 Zoroaster, they say, has sung its wondrous praises as an adjunct of the
 magic art.
 
-
-
-
-CHAP. 50.—ASTROBOLOS.
-
+## Chap. 50.—astrobolos
 
 Sudines says, that astrobolos[3196] resembles the eye of a fish in
 appearance, and that it has a radiant white refulgence when viewed in
 the sun.
 
-
-
-
-CHAP. 51.—CERAUNIA; FOUR VARIETIES OF IT.
-
+## Chap. 51.—ceraunia; Four Varieties of It
 
 Among the white stones also, there is one known as “ceraunia,”[3197]
 which absorbs the brilliancy of the stars. It is of a crystalline
@@ -14957,11 +13516,7 @@ rarely to be met with, and much in request for the practices of magic,
 it never being found in any place but one that has been struck by
 lightning.[3200]
 
-
-
-
-CHAP. 52.—IRIS; TWO VARIETIES OF IT.
-
+## Chap. 52.—iris; Two Varieties of It
 
 The next name mentioned by these authors is that of the stone called
 “iris;”[3201] which is found, in a fossil state, in a certain island
@@ -14988,25 +13543,17 @@ respects, but remarkable for its extreme hardness. Horus says, in his
 writings, that this stone, calcined and triturated, is a remedy for the
 bite of the ichneumon, and that it is a native of Persia.
 
-
-
-
-CHAP. 53.—LEROS.
-
+## Chap. 53.—leros
 
 The stone called “leros”[3203] is similar in appearance, but does not
 produce the same effects. It is a crystal, with streaks of white and
 black running across it.
-
-
-
 
 CHAP. 54.—ACHATES; THE SEVERAL VARIETIES OF IT. ACOPOS; THE REMEDIES
 DERIVED FROM IT. ALABASTRITIS; THE REMEDIES DERIVED FROM IT. ALECTORIA.
 ANDRODAMAS. ARGYRODAMAS. ANTIPATHES. ARABICA. AROMATITIS. ASBESTOS.
 ASPISATIS. ATIZÖE. AUGETIS. AMPHIDANES OR CHRYSOCOLLA. APHRODISIACA.
 APSYCTOS. ÆGYPTILLA.
-
 
 Having now described the principal precious stones, classified
 according to their respective colours, I shall proceed to mention the
@@ -15117,13 +13664,9 @@ sarda, intersected with veins; but the stone commonly known by that
 name is black at the lower part, and azure on the surface. It takes its
 name from the country that produces it.
 
-
-
-
 CHAP. 55.—BALANITES. BATRACHITIS. BAPTES. BELI OCULUS. BELUS.
 BAROPTENUS OR BARIPPE. BOTRYITIS. BOSTRYCHITIS. BUCARDIA. BRONTEA.
 BOLOS.
-
 
 Of balanites[3241] there are two kinds, the one of a greenish hue,
 and the other like Corinthian bronze in appearance; the former comes
@@ -15153,15 +13696,11 @@ the property of quenching the fire in objects that have been struck by
 lightning. Bolos[3253] is the name of a stone found in Iberia,[3254]
 similar to a clod of earth in appearance.
 
-
-
-
 CHAP. 56.—CADMITIS. CALLAIS. CAPNITIS. CAPPADOCIA. CALLAICA.
 CATOCHITIS. CATOPTRITIS. CEPITIS OR CEPOLATITIS. CERAMITIS. CINÆDIA.
 CERITIS. CIRCOS. CORSOÏDES. CORALLOACHATES. CORALLIS. CRATERITIS.
 CROCALLIS. CYITIS. CHALCOPHONOS. CHELIDONIA. CHELONIA. CHELONITIS.
 CHLORITIS. CHOASPITIS. CHRYSOLAMPIS. CHRYSOPIS. CEPONIDES.
-
 
 Cadmitis differs only from the stone that is known as ostracitis[3255]
 in being sometimes surrounded with blisters of an azure colour.
@@ -15227,11 +13766,7 @@ of glass, sometimes of crystal, and sometimes of iaspis. Indeed, the
 stones of this kind that are tarnished even, are possessed of such
 singular brilliancy as to reflect objects like a mirror.
 
-
-
-
-CHAP. 57.—DAPHNEA. DIADOCHOS. DIPHYES. DIONYSIAS. DRACONITIS.
-
+## Chap. 57.—daphnea. Diadochos. Diphyes. Dionysias. Draconitis
 
 Daphnea[3292] is mentioned by Zoroaster as curative of epilepsy.
 Diadochos[3293] is a stone that resembles the beryl. Of diphyes[3294]
@@ -15253,13 +13788,9 @@ strew narcotic drugs in its way, and then cut off its head when asleep.
 According to him, this stone is white and pellucid, and admits of no
 polishing or engraving.
 
-
-
-
 CHAP. 58.—ENCARDIA OR ARISTE. ENORCHIS. EXEBENUS. ERYTHALLIS. EROTYLOS.
 AMPHICOMOS, OR HIEROMNEMON. EUMECES. EUMITHRES. EUPETALOS. EUREOS.
 EUROTIAS. EUSEBES. EPIMELAS.
-
 
 The stone encardia[3299] is also called “ariste.”[3300] There are
 three varieties of it; one of a black colour, with a figure in relief
@@ -15287,12 +13818,8 @@ made in the Temple of Hercules at Tyrus, from which the pious [only]
 could raise themselves without difficulty. Epimelas[3313] is a white
 gem, with a black hue reflected from its surface.
 
-
-
-
 CHAP. 59.—GALAXIAS. GALACTITIS, LEUCOGÆA, LEUCOGRAPHITIS, OR
 SYNNEPHITIS. GALLAICA. GASSINADE. GLOSSOPETRA. GORGONIA. GONIÆA.
-
 
 Galaxias,[3314] by some called “galactitis,”[3315] is a stone that
 closely resembles those next mentioned, but is interspersed with
@@ -15324,12 +13851,8 @@ assumes the hardness of stone: it has the property of counteracting
 fascinations,[3326] it is said. Goniæa,[3327] it is asserted, and with
 the same degree of untruthfulness, ensures vengeance upon our enemies.
 
-
-
-
 CHAP. 60.—HELIOTROPIUM. HEPHÆSTITIS. HERMUAIDOION. HEXECONTALITHOS.
 HIERACITIS. HAMMITIS. HAMMONIS CORNU. HORMISCION. HYÆNIA. HÆMATITIS.
-
 
 Heliotropium[3328] is found in Æthiopia, Africa, and Cyprus: it is
 of a leek-green colour, streaked with blood-red veins. It has been
@@ -15385,11 +13908,7 @@ battle. There is another stone of the same class, called “menui” by the
 people of India, and “xanthos”[3344] by the Greeks: it is of a whitish,
 tawny colour.
 
-
-
-
-CHAP. 61.—IDÆI DACTYLI. ICTERIAS. JOVIS GEMMA. INDICA. ION.
-
+## Chap. 61.—idæi Dactyli. Icterias. Jovis Gemma. Indica. Ion
 
 The stones called Idæi dactyli,[3345] and found in Crete, are of an
 iron colour, and resemble the human thumb in shape. The colour of
@@ -15407,12 +13926,8 @@ stone also of this name, white, and of a dusty appearance. Ion[3351] is
 an Indian stone, of a violet tint: it is but rarely, however, that it
 is found of a deep, full, colour.
 
-
-
-
 CHAP. 62.—LEPIDOTIS. LESBIAS. LEUCOPHTHALMOS. LEUCOPŒCILOS.
 LIBANOCHRUS. LIMONIATIS. LIPAREA. LYSIMACHOS. LEUCOCHRYSOS.
-
 
 Lepidotis[3352] is a stone of various colours, and resembles the
 scales of fish in appearance. Lesbias, so called from Lesbos which
@@ -15428,12 +13943,8 @@ resembles Rhodian marble, with veins of gold: in polishing it, it is
 reduced very considerably in size, in order to remove all defects.
 Leucochrysos[3358] is a kind of chrysolithos interspersed with white.
 
-
-
-
 CHAP. 63.—MEMNONIA. MEDIA. MECONITIS. MITHRAX. MOROCHTHOS. MORMORION OR
 PROMNION. MURRHITIS. MYRMECIAS. MYRSINITIS. MESOLEUCOS. MESOMELAS.
-
 
 What kind of stone memnonia[3359] is, we do not find mentioned.
 Medea[3360] is a black stone, said to have been discovered by
@@ -15458,11 +13969,7 @@ the name given to a stone when a white line runs through the middle;
 and when a black vein intersects any other colour, it is called
 “mesomelas.”[3374]
 
-
-
-
-CHAP. 64.—NASAMONITIS. NEBRITIS. NIPPARENE.
-
+## Chap. 64.—nasamonitis. Nebritis. Nipparene
 
 Nasamonitis is a blood-red stone, marked with black veins. Nebritis,
 a stone sacred to Father Liber,[3375] has received its name from its
@@ -15470,12 +13977,8 @@ resemblance to a nebris.[3376] There is also another stone of this
 kind, that is black. Nipparene[3377] bears the name of a city and
 people of Persia, and resembles the teeth of the hippopotamus.
 
-
-
-
 CHAP. 65.—OICA. OMBRIA OR NOTIA. ONOCARDIA. ORITIS OR SIDERITIS.
 OSTRACIAS. OSTRITIS. OPHICARDELON. OBSIAN STONE.
-
 
 Oica is the barbarian name given to a stone which is pleasing for its
 colours, black, reddish yellow, green, and white. Ombria,[3378] by
@@ -15498,13 +14001,9 @@ Book. There are gems, too, of the same name and colour, found not only
 in Æthiopia and India, but in Samnium as well, and, in the opinion of
 some, upon the Spanish shores that lie towards the Ocean.
 
-
-
-
 CHAP. 66.—PANCHRUS. PANGONUS. PANEROS OR PANERASTOS. PONTICA; FOUR
 VARIETIES OF IT. PHLOGINOS OR CHRYSITIS. PHŒNICITIS. PHYCITIS.
 PERILEUCOS. PÆNITIS OR GÆANIS.
-
 
 Panchrus[3390] is a stone which displays nearly every colour.
 Pangonus[3391] is no longer than the finger: the only thing that
@@ -15530,13 +14029,9 @@ conceives, it is said, and is good for females at the time of
 parturition: this stone is found in Macedonia, near the monument[3403]
 of Tiresias there, and has all the appearance of congealed water.
 
-
-
-
 CHAP. 67.—SOLIS GEMMA. SAGDA. SAMOTHRACIA. SAURITIS. SARCITIS.
 SELENITIS. SIDERITIS. SIDEROPŒCILOS. SPONGITIS. SYNODONTITIS. SYRTITIS.
 SYRINGITIS.
-
 
 Solis gemma[3404] is white, and, like the luminary from which it takes
 its name, emits brilliant rays in a circular form. Sagda is found
@@ -15563,12 +14058,8 @@ it is of a honey colour, with a reflected tint of saffron, and contains
 stars of a feeble lustre within. Syringitis[3413] is hollow throughout,
 like the space between the two joints in a straw.
 
-
-
-
 CHAP. 68.—TRICHRUS. THELYRRHIZOS. THELYCARDIOS OR MULC. THRACIA; THREE
 VARIETIES OF IT. TEPHRITIS. TECOLITHOS.
-
 
 Trichrus[3414] comes from Africa: it is of a black colour, but yields
 three different liquids, black at the lower part, blood-red in the
@@ -15583,22 +14074,14 @@ new moon, but it is of an ashy colour. Tecolithos[3419] has all the
 appearance of an olive stone: it is held in no estimation as a gem, but
 a solution of it will break and expel urinary calculi.
 
-
-
-
-CHAP. 69.—VENERIS CRINES. VEIENTANA.
-
+## Chap. 69.—veneris Crines. Veientana
 
 Veneris crines[3420] is the name given to a stone that is remarkably
 black and shining, with an appearance like red hair within. Veientana
 is an Italian stone, found at Veii: it is black, divided by a line of
 white.
 
-
-
-
-CHAP. 70.—ZATHENE. ZMILAMPIS. ZORANISCÆA.
-
+## Chap. 70.—zathene. Zmilampis. Zoraniscæa
 
 Zathene, according to Democritus, is a native of Media. It is like
 amber in colour, and, if beaten up with palm-wine and saffron, it will
@@ -15608,13 +14091,9 @@ appearance, and is of a sea-green colour within. Zoraniscæa is found
 in the river Indus: it is a stone used by magicians, it is said, but I
 find no further particulars relative to it.
 
-
-
-
 CHAP. 71. (11.)—PRECIOUS STONES WHICH DERIVE THEIR NAMES FROM
 VARIOUS PARTS OF THE HUMAN BODY. HEPATITIS. STEATITIS. ADADUNEPHROS.
 ADADUOPHTHALMOS. ADADUDACTYLOS. TRIOPHTHALMOS.
-
 
 There is also another method of classifying stones; according to
 the resemblance which they bear to various other objects. Thus,
@@ -15626,14 +14105,10 @@ Adad,” “eye of Adad,” and “finger of Adad,” a god[3423] of the Syrians
 so called. Triophthalmos[3424] is a stone found in conjunction with
 onyx, which resembles three human eyes at once.
 
-
-
-
 CHAP. 72.—PRECIOUS STONES WHICH DERIVE THEIR NAMES FROM ANIMALS.
 CARCINIAS. ECHITIS. SCORPITIS. SCARITIS. TRIGLITIS. ÆGOPHTHALMOS.
 HYOPHTHALMOS. GERANITIS. HIERACITIS. AETITIS. MYRMECITIS. CANTHARIAS.
 LYCOPHTHALMOS. TAOS. TIMICTONIA.
-
 
 Other stones, again, derive their names from various animals.
 Carcinias[3425] is so called from the colour of the sea-crab;
@@ -15651,9 +14126,6 @@ closely resembling the eye of the wolf in every respect. Taos[3433] is
 a stone with colours like those of the peacock. Timictonia, I find, is
 the name of a stone, like the asp in colour.
 
-
-
-
 CHAP. 73.—PRECIOUS STONES WHICH DERIVE THEIR NAMES PROM OTHER OBJECTS.
 HAMMOCHRYSOS. CENCHRITIS. DRYITIS. CISSITIS. NARCISSITIS. CYAMIAS.
 PYREN. PHŒNICITIS. CHALAZIAS. PYRITIS. POLYZONOS. ASTRAPÆA. PHLOGITIS.
@@ -15661,7 +14133,6 @@ ANTHRACITIS. ENHYGROS. POLYTHRIX. LEONTIOS. PARDALIOS. DROSOLITHOS.
 MELICHRUS. MELICHLOROS. CROCIAS. POLIAS. SPARTOPOLIAS. RHODITIS.
 CHALCITIS. SYCITIS. BOSTRYCHITIS. CHERNITIS. ANANCITIS. SYNOCHITIS.
 DENDRITIS.
-
 
 Hammochrysos[3434] resembles sand in appearance, but sand mixed with
 gold. Cenchritis[3435] has all the appearance of grains of millet
@@ -15711,12 +14182,8 @@ outrageously marvellous nature, to which, admitted as it is that they
 are stones, barbarous names have been given: we have refuted, however,
 a quite sufficient number of these portentous lies already.
 
-
-
-
 CHAP. 74. (12.)—PRECIOUS STONES THAT SUDDENLY MAKE THEIR APPEARANCE.
 COCHLIDES.
-
 
 New species of precious stones are repeatedly brought into existence,
 and fresh ones are found all at once, destitute of names. Thus, for
@@ -15756,11 +14223,7 @@ tints and shades, the names of precious stones are subject to repeated
 changes; the material itself, for the most part, remaining just the
 same.
 
-
-
-
-CHAP. 75.—THE VARIOUS FORMS OF PRECIOUS STONES.
-
+## Chap. 75.—the Various Forms of Precious Stones
 
 We will now make some observations in reference to precious stones in
 general, following therein the opinions that have been expressed by
@@ -15783,11 +14246,7 @@ transparent stones, how to make sardonyx of sarda, and other gems in a
 similar manner. Indeed, there is no kind of fraud practised, by which
 larger profits are made.
 
-
-
-
-CHAP. 76. (13.)—THE METHODS OF TESTING PRECIOUS STONES.
-
+## Chap. 76. (13.)—the Methods of Testing Precious Stones
 
 On the contrary, we will make it our business to point out the methods
 of detecting these false stones, seeing that it is only proper to put
@@ -15817,12 +14276,8 @@ heating the graver. The rivers which produce precious stones, are the
 Acesinus[3474] and the Ganges; and, of all countries, India is the most
 prolific of them.
 
-
-
-
 CHAP. 77.—A COMPARATIVE VIEW OF NATURE AS SHE APPEARS IN DIFFERENT
 COUNTRIES. THE COMPARATIVE VALUES OF THINGS.
-
 
 Having now treated of all the works of Nature, it will be as well to
 take a sort of comparative view of her several productions, as well
@@ -15912,11 +14367,7 @@ Archelaüs,[3532] Callistratus,[3533] Democritus,[3534] Ismenias,[3535]
 Olympicus,[3536] Alexander[3537] Polyhistor, Apion,[3538] Horus,[3539]
 Zoroaster,[3540] Zachalias.[3541]
 
-
-
-
-FOOTNOTES:
-
+## Footnotes
 
 [1] It is in the last six Books of Pliny, and those only, we regret
 to say, that we are enabled to avail ourselves of the new readings of
@@ -26501,15 +24952,11 @@ frivolous person.”
 [3541] A native of Babylon, mentioned in Chapter 60 of this Book, as
 having dedicated a work, on Precious Stones, to King Mithridates.
 
+## Index
 
-
-
-INDEX
-
-TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
+## To the Principal Subjects Mentioned in the Text and Notes
 
 ⁂ _The Roman numerals refer to the volume, the Arabic to the Page._
-
 
   A.
 
@@ -28398,7 +26845,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Azotus, i. 425.
 
-
   B.
 
   Babba, i. 376.
@@ -29272,7 +27718,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Byzacium, i. 390.
 
   Byzantium, i. 307, 495.
-
 
   C.
 
@@ -31507,7 +29952,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Cyzicus, i. 489; vi. 233.
 
-
   D.
 
   Daci, i. 329, 330; ii. 145.
@@ -32129,7 +30573,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Dyrrhachium, i. 227, 261.
 
   Dysentery, remedies for, v. 441, 442.
-
 
   E.
 
@@ -32802,7 +31245,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Eye-lids, iii. 54, 55
     —affections and diseases of the, v. 410, 411; vi. 29, 30, 31.
 
-
   F.
 
   Fabaria, i. 344.
@@ -33268,7 +31710,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Fuseli quoted, vi. 235.
 
   Fustic, iii. 371.
-
 
   G.
 
@@ -33883,7 +32324,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
     —taken internally, 269.
 
   Gyrini, ii. 462.
-
 
   H.
 
@@ -34693,7 +33133,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Hysteria, v. 355.
 
-
   I
 
   Iacchus, Fescennius, vi. 67.
@@ -35033,7 +33472,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Iÿnx, iii. 90.
 
-
   J.
 
   Jackal, ii. 97, 304.
@@ -35162,7 +33600,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Juvenal quoted, i. 21, 301, 321; ii. 541; iv. 144; vi. 70, 80, 305.
 
-
   K
 
   Kæmpfer quoted, vi. 4.
@@ -35213,7 +33650,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Kraken or korven, ii. 362.
 
   Kurds, ii. 29.
-
 
   L
 
@@ -36019,7 +34455,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Lystra, i. 492.
 
   Lytarmis, ii. 24.
-
 
   M.
 
@@ -37173,7 +35608,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Myxon, vi. 33.
 
-
   N.
 
   Nabatæi, i. 422; ii. 88; iv. 364.
@@ -37529,7 +35963,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Nymphodorus, i. 270.
 
   Nysa, ii. 50.
-
 
   O.
 
@@ -37996,7 +36429,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Ozænitis, iii. 120.
 
   Ozolæ, i. 276.
-
 
   P.
 
@@ -39756,7 +38188,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Pyxacanthus, Chironian, iii. 114.
 
-
   Q.
 
   Quadrupeds, prognostics derived from, iv. 124, 125.
@@ -39794,7 +38225,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Quinzy, remedies for, v. 161, 434, 435, 436.
 
   Quorra, i. 395.
-
 
   R.
 
@@ -40147,7 +38577,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Rutupæ, oysters of, vi. 27.
 
   Rye, iv. 31, 52.
-
 
   S.
 
@@ -42066,7 +40495,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Syrtitis, vi. 457.
 
-
   T.
 
   Tabanus, iii. 35.
@@ -43153,7 +41581,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Tyrus, i. 434.
 
-
   U.
 
   Ubii, i. 355.
@@ -43239,7 +41666,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
     —Temple at, iii. 424.
 
   Uvula, iii. 62.
-
 
   V.
 
@@ -43559,7 +41985,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
     —remedies derived from, v. 398, 399.
 
   Vulva, iii. 75.
-
 
   W.
 
@@ -43902,7 +42327,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Wryneck, iii. 90.
 
-
   X.
 
   Xanthos (stone), vi. 452.
@@ -43940,7 +42364,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Xyris, iv. 372.
 
-
   Y.
 
   Yarrow, v. 61.
@@ -43950,7 +42373,6 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
   Yeast, iv. 26, 456.
 
   Yew, iii. 360; v. 47.
-
 
   Z.
 
@@ -44039,11 +42461,7 @@ TO THE PRINCIPAL SUBJECTS MENTIONED IN THE TEXT AND NOTES.
 
   Zythum, iv. 456.
 
-
-
-
-ERRATA.
-
+## Errata
 
   VOL.  I. p. 455, l. 36, _for_ “agate,”     _read_ “jet.”
    —   II. —  537, —  39,   —   “urine-egg,”    —   “wind-egg.”
@@ -44051,12 +42469,9 @@ ERRATA.
    —   IV. —  391, —  42,   —   “on this”       —   “on this subject,
                                                       in B. xxv. c. 59.”
 
-  THE END.
+## The End
 
-  J. BILLING, PRINTER AND STEREOTYPER, GUILDFORD, SURREY.
-
-
-
+## J. Billing, Printer and Stereotyper, Guildford, Surrey
 
 Transcriber’s Notes:—
 

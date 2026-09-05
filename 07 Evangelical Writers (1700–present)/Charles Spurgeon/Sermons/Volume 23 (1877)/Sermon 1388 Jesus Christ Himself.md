@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Jesus Christ Himself
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1388
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 9, 1877,.
+*Delivered on Lord's-Day Morning, December 9, 1877*
 
 > "Jesus Christ Himself." Ephesians 2:20.
 
@@ -156,7 +155,6 @@ Will it be amazed and cry, "It is He, even He, my best Beloved, Jesus Himself! H
 The glories of Your love."
 
 Within a week it may be our meeting with Jesus Himself may take place! Perhaps within an hour! A poor girl lying in the hospital was told by the doctor or the nurse that she could only live another hour. She waited patiently and when there remained only one quarter of an hour more, she exclaimed, "One more quarter of an hour and then"—she could not say what! Neither can I—but Jesus Himself has said, "Father, I will that they, also, whom You have given Me, be with Me where I am that they may behold My Glory." And as He has prayed, so shall it be and so let it be! Amen and Amen.
-
 
 ---
 [[Sermon 1387 God's Thoughts and Ways Far Above Ours|← #1387]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1389 A Gospel Sermon To Outsiders|#1389 →]]

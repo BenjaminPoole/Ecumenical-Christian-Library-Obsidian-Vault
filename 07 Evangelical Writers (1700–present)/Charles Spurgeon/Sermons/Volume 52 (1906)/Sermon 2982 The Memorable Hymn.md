@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Memorable Hymn
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2982
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when they had sung a hymn, they went out to the Mount of Olives." Matthew 26:30.
 
@@ -145,9 +142,9 @@ Saints, the dying words record. Tune your harps anew, you seraphs, Join to sing 
 
 Glory to the bleeding Lamb!"
 
-HYMNS FROM "OUR OWN HYMN BOOK"—421, 439, 300.
+## Hymns from "Our Own Hymn Book"—421, 439, 300
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 26:20-30; 1 CORINTHIANS 11:20-26.
+## Exposition by C. H. Spurgeon: Matthew 26:20-30; 1 Corinthians 11:20-26
 
 Matthew 26:20. Now when the evening was come, He sat down with the twelve. Why so many people celebrate the Lord's Supper in the morning, I cannot imagine, unless it is that they desire to do everything contrary to their Lord's command and example! "When the evening was come, He sat down with the twelve." I do not think there is any binding ordinance making the evening the only time for the observance of this ordinance—but to make the morning the only time is certainly not according to the Word of God!
 
@@ -184,7 +181,6 @@ day." He will keep His tryst with us, my Brothers and Sisters; and we shall drin
 24, 25. And when He had given thanks, He broke it, and said, Take, eat: this is My body, which is broken for you: this do in remembrance of Me. After the same manner also He took the cup, when He had supped, saying, This cup is the new testament ' 'The New Covenant."
 
 26, 26. In My blood: this do you as often asyou drink it, in remembrance ofMe. For as often as you eat this bread, and drink this cup, you do show the Lord's death till He comes.
-
 
 ---
 [[Sermon 2981 The Safeguards of Forgiveness|← #2981]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2983 A Wonderful Transformation|#2983 →]]

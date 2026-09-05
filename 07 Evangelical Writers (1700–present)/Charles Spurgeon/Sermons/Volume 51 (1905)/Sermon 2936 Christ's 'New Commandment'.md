@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Christ's 'New Commandment'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2936
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A new commandment I give unto you, that you love one another: as I have loved you, that you also love one another. By this all will know that you are My disciples, if you have love for one another." John 13:34,35.
 
@@ -99,7 +96,7 @@ shout. And when the day comes for God to let loose the angel of vengeance, woe u
 
 "How can I get love?" asks one. Love comes by the way of faith. First trust the Master and then you will soon learn to love His servants. Rely upon the Savior and you will then feel an affection for all the saved ones. Commit yourself now into the hands that were pierced for sinners and you will soon joyfully give a loving embrace to those for whom Christ's precious blood was shed! May we all meet in Heaven, where love reigns supreme, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN13:1-17.
+## Exposition by C. H. Spurgeon: John 13:1-17
 
 Verse 1. Now before the feast of the Passover. Or, just as it was about to begin—
 
@@ -122,7 +119,6 @@ Then our Savior meekly, gently, quietly, explained that there was no need for th
 11\. For He knew who should betray Him; therefore said He, You are not all clean. They were all washed so far as their feet were concerned, but not all of them had been cleansed in the sacred bath which removes the stains of sin!
 
 12-17. So after He had washed their feet, and had taken His garments, and was set down again, He said unto them, Know you what I have done to you? You call me Master and Lord: and you say well; for so I am. If I then, your Lord and Master, have washed your feet, you also ought to wash one another's feet For I have given you an example, that you should do as I have done to you. Verity, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him. If you know these things, happy are you if you do them. Blessed are they who, when they understand the meaning of Christ's example, imitate it in their own lives!
-
 
 ---
 [[Sermon 2935 Christ's Joy and Ours|← #2935]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2937 Too Little for the Lamb|#2937 →]]

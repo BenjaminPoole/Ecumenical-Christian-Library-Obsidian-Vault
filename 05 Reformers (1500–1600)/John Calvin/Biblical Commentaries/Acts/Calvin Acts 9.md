@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Acts 9:1-5
 

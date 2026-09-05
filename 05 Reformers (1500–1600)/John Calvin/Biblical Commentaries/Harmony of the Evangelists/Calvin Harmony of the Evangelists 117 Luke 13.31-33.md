@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 117. Luke 13:31-33
-
-**Luke 13:31-33**
 
 **31**. The same day some of the Pharisees came, saying to him, Depart, and go hence: for Herod intends to kill thee. **32**. And he said to them, Go, tell that fox, Lo, I cast out devils, and I perform cures today and tomorrow, and the third day I am completed. [^1] **33**. But yet I must walk today and tomorrow, and the following day; for it is not a usual occurrence that a prophet perish anywhere else than in Jerusalem. [^2]
 

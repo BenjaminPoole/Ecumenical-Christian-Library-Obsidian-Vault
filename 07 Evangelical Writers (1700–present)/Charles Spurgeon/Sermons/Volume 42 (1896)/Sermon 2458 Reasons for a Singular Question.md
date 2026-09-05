@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Reasons for a Singular Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2458
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What do you want Me to do for you?" Mark 10:51.
 
@@ -83,7 +80,7 @@ I remember that when I was collecting the money for the building of this Taberna
 
 I feel upon me a conviction that there are some who will come and put their trust in Jesus now. Lie down at His feet. Say, "I never will leave except You bless me." This is God's own message—"Look unto Me, and be you saved, all you ends of the earth." Some of you have been hearing me a very long time. I love to look at your faces but when I see you, I always pray that you may be saved. I say to myself, "When will God bring that good man in? His wife and many friends pray for him. When will he be decided?" I look upon another and I say, "When will that elderly woman be converted? She has children who pray for her." I look elsewhere—no, I will not look exactly that way, but you know, my Friend, whom I mean when I say, "When will that brother be brought in? He has a praying wife, yet he is not saved." I cannot understand some of you husbands. I suppose that there are many more men than women in this congregation—there are often five men to three women in the congregation—yet when they come to join the Church, the women are probably three times as many as the men! I am half afraid it is as much as that, certainly two to one of those who really give their hearts to Christ. How do you make this out? Some of you husbands come here as regularly as your wives come, yet you do not know the Savior, and they do! Are you going to be parted forever? Are you going to die in your sins? Oh, let it not be so! Lord God, convert them by Your Grace, convert them now! Let us pray that it may be so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 18:31-43; 19:1-10.
+## Exposition by C. H. Spurgeon: Luke 18:31-43; 19:1-10
 
 Luke 18:31-33. Then He took unto Him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the Prophets concerning the Son of Man shall be accomplished. For He shall be delivered unto the Gentiles, and shall be mocked, and spitefully treated, and spit on: and they shall scourge Him, and put Him to death: and the third day He shall rise again. Our Lord Jesus Christ often talked to His disciples about His death. Before the time for it came He foresaw it, He thought and spoke much of it, He even dwelt upon the terrible details of it very minutely—"He shall be delivered unto the Gentiles, and shall be mocked, and spitefully treated, and spit on: and they shall scourge Him, and put Him to death." Ah, dear Friends, when our Lord Jesus died for us, He knew what He was doing! There are some men who, without a moment's consideration, could do a brave notion, but they could not sit down and coolly calculate all the consequences of doing it. If they find themselves unexpectedly in the face of imminent danger—if they see a person needing to be saved from peril, they make a rush for it, and the daring deed is done. But here our Savior deliberately thinks and talks about His death, yet He never flinches, or looks back, but He prepares His heart for the solemn event and sets His face like a flint to go through it all that He may save the souls of His people! We, also, ought to think and talk much of our Lord's death since He thought and spoke so much of it.
 
@@ -130,7 +127,6 @@ Luke 19:1, 2. And Jesus entered and passed through Jericho. And, behold, there w
 9\. And Jesus said unto him, This day is salvation come to this house, forasmuch as he, also, is a son of Abraham. "He does not look like it. He has become a tax-gatherer for the Romans. He has oppressed his own countrymen. But he is a son of Abraham and salvation has come to him."
 
 10\. For the Son of Man is come to seek and to save that which was lost. If, at this time, we ask our Lord Jesus, "Where are You going, Divine Master?" His answer still is, "I am come to seek and to save that which was lost." "Have You come after those who think themselves good enough without You?" He shakes His head and says, "I am a Physician and the whole have no need of a Physician, but they that are sick. I came not to call the righteous, but sinners to repentance." The Gospel of the Grace of God is for the guilty! If you are not guilty, there is no Gospel for you. But if you are guilty and confess it, to you is the Word of this salvation sent!
-
 
 ---
 [[Sermon 2457 Job's Resignation|← #2457]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2459 Better Than Wine|#2459 →]]

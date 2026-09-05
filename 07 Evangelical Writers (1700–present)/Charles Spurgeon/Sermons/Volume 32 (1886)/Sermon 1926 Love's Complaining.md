@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Love's Complaining
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1926
@@ -69,7 +68,7 @@ The next word of the prescription is "Repent." Repent as thou didst at first. Th
 
 Repent of much good that thou hast left undone through want of love. Oh, if thou hadst always loved thy Lord at thy best, what mightest thou not have known of him by this time! What good deeds thou mightest have done by force of his love! How many hearts mightest thou have won for thy Lord if thine own heart had been fuller of love, if thine own soul had been more on fire! Thou hast lived a poor beggarly life because thou hast allowed such poverty of love.
 
-Repent! Repent! To my mind, as I thought over this text, the call for repentance grew louder and louder, because of the occasion of its utterance. Here is the glorious Lord, coming to his church and speaking to her angel in tones of tender kindness. He condescends to visit his people in all his majesty and glory, intending nothing but to manifest himself in love to his own elect as he doth not to the world. And yet he is compelled even then to take to chiding, and to say, "I have this against thee, because thou hast left thy first love." Here is a love- visit clouded with upbraiding—necessary upbraiding. What mischief sin has done! It is a dreadful thing that when Jesus comes to his own dear bride he should have to speak in grief, and not in joy. Must holy communion, which is the wine of heaven, be embittered with the tonic of expostulation? I see the upper springs of nearest fellowship, where the waters of life leap from their first source in the heart of God. Are not these streams most pure and precious? If a man drink thereof he liveth for ever. Shall it be that even at the fountain-head they shall be dashed with bitterness? Even when Christ communes personally with us must he say, "I have somewhat against thee?" Break, my heart, that it should be so! Well may we repent with a deep repentance when our choicest joys are flavoured with the bitter herbs of regret, that our best Beloved should have somewhat against us.
+Repent! Repent! To my mind, as I thought over this text, the call for repentance grew louder and louder, because of the occasion of its utterance. Here is the glorious Lord, coming to his church and speaking to her angel in tones of tender kindness. He condescends to visit his people in all his majesty and glory, intending nothing but to manifest himself in love to his own elect as he doth not to the world. And yet he is compelled even then to take to chiding, and to say, "I have this against thee, because thou hast left thy first love." Here is a love-visit clouded with upbraiding—necessary upbraiding. What mischief sin has done! It is a dreadful thing that when Jesus comes to his own dear bride he should have to speak in grief, and not in joy. Must holy communion, which is the wine of heaven, be embittered with the tonic of expostulation? I see the upper springs of nearest fellowship, where the waters of life leap from their first source in the heart of God. Are not these streams most pure and precious? If a man drink thereof he liveth for ever. Shall it be that even at the fountain-head they shall be dashed with bitterness? Even when Christ communes personally with us must he say, "I have somewhat against thee?" Break, my heart, that it should be so! Well may we repent with a deep repentance when our choicest joys are flavoured with the bitter herbs of regret, that our best Beloved should have somewhat against us.
 
 But then he says in effect, *Return*. The third word is this—"Repent, and do the first works." Notice, that he does not say, "Repent, and get back thy first love." This seems rather singular; but then love is the chief of the first works, and, moreover, the first works can only come of the first love. There must be in every declining Christian a *practical repentance.* Do not be satisfied with regrets and resolves. Do the first works; do not strain after the first emotions, but do the first works. No renewal is so valuable as the practical cleansing of our way. If the life be made right, it will prove that the love is so. In doing the first works you will prove that you have come back to your first love. The prescription is complete, because the doing of the first works is meant to include the feeling of the first feelings, the sighing of the first sighs, the enjoying of the first joys: these are all supposed to accompany returning obedience and activity.
 
@@ -101,8 +100,7 @@ Heaven on earth is abounding love to Jesus. This is the first and last of true d
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Revelation 1; 2:1-7.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—425, 797, 804.
-
+## Hymns from "Our Own Hymn Book"—425, 797, 804
 
 ---
 [[Sermon 1925 Jesus and the Children|← #1925]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1927 Our Sympathizing High Priest|#1927 →]]

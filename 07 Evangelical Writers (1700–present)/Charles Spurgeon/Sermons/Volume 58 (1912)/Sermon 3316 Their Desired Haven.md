@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Their Desired Haven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3316
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So He brings them to their desired haven." Psalm 107:30.
 
@@ -113,7 +110,7 @@ Now, you who want to cry to God but do not know how, I recommend to you the publ
 
 "Forever with the Lord."
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:81-96.
+## Exposition by C. H. Spurgeon: Psalm 119:81-96
 
 Verse 81. My soul faints for Your salvation: but I hope in Your Word. The ship rocks, but the anchor holds. The singer is ready to faint, but he is not ready to despair. He knows where his restoring will come.
 
@@ -148,7 +145,6 @@ Verse 81. My soul faints for Your salvation: but I hope in Your Word. The ship r
 has no limit, it covers everything! And it has no termination, it endures forever! "Your commandment is exceedingly
 
 broad."
-
 
 ---
 [[Sermon 3315 Joy in Harvest|← #3315]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3317 A Sweet Bow|#3317 →]]

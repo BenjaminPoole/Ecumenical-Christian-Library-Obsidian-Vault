@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Anxious Enquirer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2615
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Oh that I knew where I might find Him!" Job 23:3.
 
@@ -71,7 +68,7 @@ To illustrate this, I will give you two instances. One is that of an ancient Kin
 
 III. I have thus turned aside from the subject, somewhat, in order to clear away any ignorance that might exist in the minds of certain of my hearers as to this essential point of the Gospel plan. And now I am, in closing my discourse, to give SOME ADVICE TO THOSE WHO HAVE BEEN SEEKING CHRIST, BUT WHO HAVE NEVER FOUND HIM,
 
-AS TO HOW THEY MIGHT FIND HIM.
+## As to How They Might Find Him
 
 In the first place, let me say, Go wherever Christ goes. If Christ were to walk this earth again and heal the sick, as He did when He was here, before, many sick people would enquire, "Where will Christ be tomorrow?" And, as soon as they found out where He would take His walks, there they would be, lying on the pavement, in the hope that as He passed by, He would heal them. Go up, then, sick Soul, to Christ's House! It is there that He meets with His people. Read His Word! It is there that He blesses them by applying sweet promises to them. Observe His ordinances. Do not neglect them. Christ comes to Bethesda Pool, so lie by the water and wait till He arrives. If you cannot put in your foot, be where Christ comes. Thomas did not get the blessing, for He was not with the other disciples when the Master came to them. Stay not away from the House of God, poor seeking Soul—be there whenever the doors are opened, so that, when Jesus passes by, He may look on you and say, "Your sins are forgiven you."
 
@@ -108,7 +105,6 @@ But, alas, for such of you as will go away and say, "The man has talked about sa
 Take warning, then, before death comes! Take warning! He must be a poor ignorant man who does not insure his house before it is on fire and he must be the greatest of fools who thinks it unnecessary to seek the salvation of his soul till he comes to the last moment and is in peril of his life! May God give you thought and consideration, so that you may be led to flee from sin and fly to Jesus! And may God, the Everlasting Father, give you what I cannot—His Grace, which saves the soul and makes sinners into saints and lands them in Heaven!
 
 I can only close by repeating the Words of the Gospel, "He that believes and is baptized shall be saved; but he that believes not shall be damned." Having said this, if I had said no more, I would have preached Christ's Gospel to you. The Lord give you understanding in all things and help you to believe, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2614 Strange Things|← #2614]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2616 Christ's Care of His Disciples|#2616 →]]

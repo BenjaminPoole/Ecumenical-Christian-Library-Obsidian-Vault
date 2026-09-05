@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Small Things Not to Be Despised
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2601
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For who has despised the day of small things?" Zechariah 4:10.
 
@@ -89,7 +86,7 @@ Your godly mother, when she hears that you have been to the Tabernacle, will say
 
 There is one other Person who never despises "the day of small things," and with Him I finish. And that is, our blessed Lord and Savior, Jesus Christ He is so eager to see of the travail of His soul that if He spies in you even a desire after Him, He is pleased with it. Believe me, if you have but a spark of desire after Christ, He has a whole furnace of desire after you! Oh, that you would have Him as your Savior! He is free to every soul of you who will have Him! Is it not put just so in His last invitation? "Whoever will, let him take the water of life freely." Do not think that He excludes you— you may exclude yourself, but if there is in your heart any wish, any shadow of a wish, anything like a desire for Christ, you may come, and welcome! Mercy's gate is wide open. Christ invites you to His house and to His heart. Oh, come to Him and come now! "Believe on the Lord Jesus Christ, and you shall be saved." May His Divine Spirit lead you to believe on Him at this moment! To believe on Him is to trust Him. Throw yourself on Him, sink or swim. Take Christ to be yours! Have you done it? Then you are saved, for, "he that believes on the Son has everlasting life." His believing is the evidence that he is already a saved man! So, go your ways and the Lord be with you, but I charge every one of you, meet me in Heaven! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 54:1-10.
+## Exposition by C. H. Spurgeon: Isaiah 54:1-10
 
 Verse 1. Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not travail with child: for more are the children of the desolate than the children of the married wife, says the LORD. In this Western clime we do not know all the misery which was felt by Eastern women who were childless. They were looked down upon and despised. Yet here God bids them sing! And, dear Friends, if you and I feel as if our hearts have become barren so that we cannot think of God or raise our thoughts towards Him as we would desire. If we feel that we have become useless and for that reason our spirit is greatly depressed, let us give heed to this sweet, this charming exhortation of Je-hovah—"Sing, O barren soul; break forth into singing, and cry aloud," for God can turn our barrenness into fruitful-ness and make us to rejoice exceedingly before Him. If we are now sighing and crying because we are not what we ought to be, or what we want to be, God can, in the richness of His Grace, make us all that we desire! Therefore let us begin to be joyful even before the miracle of mercy is worked! Let us have unbounded faith in God and expect Him to bless us even while we are in our lowest state.
 
@@ -104,7 +101,6 @@ Verse 1. Sing, O barren, you that did not bear; break forth into singing, and cr
 7\. 8. For a small moment have I forsaken you; but with great mercies will I gather you. In a little wrath I hid My face from you for a moment; but with everlasting kindness will I have mercy on you, says the LORD your Redeemer. What words of comfort lie here to those of the Lord's people who have fallen into spiritual darkness and come upon evil days! God still remembers you! His wrath is but for a moment and will swiftly pass away—but His age-enduring kindness which sweeps across the boundless eternity shall be with you forever!
 
 9, 10. For this is as the waters of Noah unto Me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that 1 would not be angry with you, nor rebuke you. For the mountains shall depart, and the hills be removed; but My kindness shall not depart from you, neither shall the Covenant of My peace be removed, says the LORD that has mercy on you. Oh, for Grace, oh, for the help of the Holy Spirit to lay hold upon these precious promises, and to feed on them!
-
 
 ---
 [[Sermon 2600 A Strange Yet Gracious Choice|← #2600]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2602 Good News for the Aged|#2602 →]]

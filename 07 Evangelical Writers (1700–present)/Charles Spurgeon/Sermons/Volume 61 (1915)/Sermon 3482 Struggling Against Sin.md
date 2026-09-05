@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Struggling Against Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3482
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I cried with my whole heart; hear me, O Lord: I will keep Your statutes. I cried unto You; save me, and I shall keep Your testimonies." Psalm 119:145,146.
 
@@ -25,7 +22,7 @@ THE fear of punishment leads many people to think about their sins. And a dread 
 
 Now our text exhibits to us the frame of mind of one whose chief prayer was that he might keep God's statutes—and his chief anxiety lest he should fail to observe them. Oh, that you might be brought to this state of heart, those of you who are not saved! And may those of you who are saved have this state of heart perpetually in exercise! A tender heart, a scrupulous conscience, a tenacity of offending God in thought, in word, or in deed should hold us in check every day and every hour. Let us continually cry unto God to save us from violating His precepts and compel us to keep His testimonies. I address myself very indiscriminately to all who hear my voice, desiring that the text may prove a test whereby everyone should examine himself. Do we, or do we not, desire to get rid of every evil way? Are we anxious to be sincere and without offense, holy in our character and obedient to God's statutes in our lives? The man who really does desire this will be sure to pray for it. "I cried," says the Psalmist. And then again he says, "I cried." Moreover, he combines his prayer with strong resolution, "I cried unto You; hear me, O Lord: I will keep Your statutes." Still further he seasons his prayer with a deep sense of his own weakness, for he puts it thus, "I cried unto You; save me, and I shall keep Your statutes." Well then—
 
-I. EVERY MAN WHO DESIRES PURITY OF HEART AND CHARACTER WILL BETAKE HIMSELF TO PRAYER.
+## I. Every Man Who Desires Purity of Heart and Character Will Betake Himself to Prayer
 
 While struggling after purity, he will soon discover that he is unable to reach it of himself. Have you ever thought that you had destroyed an evil tendency in your disposition—and then found in an unguarded moment that you fell into the temptation from the coils of which you did suppose you had escaped? You have resolved in the morning, maybe at the hour of prayer, that throughout the day your temper should be calm and quiet. Yet very likely before breakfast was over, you were more ruffled than usual. Where you fancied you had set a double guard, there it was that you were taken by surprise! You thought yourself weak in one point, but it did not happen to be that on which you were beset! Where you said to yourself, "I am safe," there you were betrayed. You must have found this out, if you are striving against sin. When it has occurred many times, you will have a habitual mistrust of yourself. Does it happen but once, you will be dri-
 
@@ -37,7 +34,7 @@ The expression by which he memorializes his prayer shows us the intensity of it.
 
 Wherever there is a real and true prayer about this matter, it must be a prayer of faith God can, in answer to prayer, help me to conquer sin. Beloved, you pray in vain unless you steadfastly believe that there is no sin which you cannot overcome. I meet with men who say, "I can never give up drinking." My dear Friend, God can make you! I meet with a man who has a violent temper and he thinks he can never curb or subdue it. Surely you do not think of taking it to Heaven with you! They have no passionate people in that happy clime. You will have to get that anger put away, but only God can accomplish it! Do you say, "It would be like turning a lion into a lamb"? That is just what His Grace is able to do! He can bring you from darkness to light. He can work such a transformation in you that you would not know yourself if you could see yourself after you have passed under the Divine hand. Resolve in your soul that sin must be conquered—believe that it is possible—and cry to God with a full conviction that He is able to save you from it! Yet I think there are some who would not like to have their prayers answered. They ask for a humble heart. Well, I question whether they would like it, if it were given to them—whether they would not want to send it back! They pray that they may have a pure conscience, but how, then, could they carry on that business of theirs? They ask that they may he upright in God's statutes, but they know very well that they prefer following their own crooked devices! There are thousands of prayers that are insults to Heaven, but where the Spirit of God is really at work, the man who wants to be pure, prays sincerely, and cries mightily to God for purity! And nor will he be content to tolerate anything—either in his disposition or in his daily life—which would be inconsistent with the perfect holiness of God. Oh, that God might implant in all of us this desire and then set us a-praying that we might secure the blessing we crave! Now, secondly—
 
-II. THE MAN WHO DESIRES TO WALK IN GOD'S WAY NOT MERELY PRAYS, BUT HE RESOLVES.
+## II. The Man Who Desires to Walk in God's Way Not Merely Prays, but He Resolves
 
 "I cried with my whole heart; hear me, O Lord. I will keep Your statutes." He puts his whole heart into it. His prayer is no deceit. Then he throws that same heart into a strong resolution that he will find out what God's statutes are and when he has found them, he will keep them, cost whatever it may! Need I say that nobody becomes holy against his will? No man keeps God's statutes unless he exercises a resolve to do so. The very essence of obedience to God lies in the heart, so the heart must be set upon obedience! It must be a sincere, willing, cheerful obedience, or else it is not a genuine
 
@@ -75,7 +72,7 @@ The world will not say, "There, that is a false professor." They ought to say it
 
 teaching! We have told you and we constantly do tell you, that you are only to be saved by the blood of Jesus! But, remember, Jesus came to save us from our sins. If we hug our sins, we cannot have Christ for our Savior! Christ and you must part, unless you and your sins part. Jesus Christ will take any sinner to Heaven, but He will not take any sin to Heaven. He will spare the sinner, but He will not spare his sin! If you want to spare your own sins, depend upon it, you will lose your souls! Watch, I pray you, against what are called "little" sins! Remember, when thieves want to get into the house, if they cannot find a ready entrance, they will often put a child through a little window—and then he opens the front or the back door. So a little sin will often open the door to a big sin. Watch, I pray you—watch against secret sins! We have heard of some who barred the doors at night and fastened the windows, but there was a thief under the bed! Mind that it is not so with you—some hidden evil—some secret lust. Watch, pray, resolve, but still come back to this— "Lord, help me; Lord, save me; Lord, keep me." The old plowman whom I sometimes used to talk with before he went to Heaven said to me, "Depend upon it, if you and I get one inch above the ground, we shall be that inch too high." There is much truth in his plain remark. If we get any high notions of what we are, we shall soon sink below what we should be. Lie low! Aspire high! Be nothing! Take Christ to be your All-in-All! Renounce self-confidence and have faith in God! In this way you shall conquer sin, your prayers shall be accepted, your resolutions shall be carried out and the purpose of your heart shall be verified. "I will keep Your statutes." May it be so with everyone of us! Amen, and amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:145-168.
+## Exposition by C. H. Spurgeon: Psalm 119:145-168
 
 Verse 145. I cried with my whole heart: hear me, O LORD: I will keep Your statutes. In the time of trouble there is no resort like that of prayer, but it must be intense and earnest. "I cried with my whole heart." And sometimes it should be accompanied with a resolve to profit by the affliction. "I will keep Your statutes." As the child under the rod prays to be spared because he hopes in future to be obedient, so does the Psalmist here say, "Hear me, O Lord: I will keep Your statutes." This ought to be the effect of every affliction—to make us more careful in our obedience. It is not always so, but so it ought always to be.
 
@@ -108,7 +105,6 @@ your Grace Immutable, not fickle, nor changeable as if it were founded yesterday
 162-166. Irejoice at Your Word, as one that finds great spoil Ihate and abhor lying: but Your Law do Ilove. Seven times a day do I praise You because of Your righteous judgments. Great peace have they which love Your Law: and nothing shall offend them. LORD, Ihave hoped for Your salvation, and done Your commandments. Present duty, future expectation. It is no use our hoping for great things unless we cultivate good things. God will make tomorrow bright— let us make today holy.
 
 167, 168. My soul has kept Your testimonies; and Ilove them exceedingly. Ihave kept Your precepts and Your testimonies: for all my ways are before You
-
 
 ---
 [[Sermon 3481 Visits From the Lord|← #3481]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3483 The Family Likeness|#3483 →]]

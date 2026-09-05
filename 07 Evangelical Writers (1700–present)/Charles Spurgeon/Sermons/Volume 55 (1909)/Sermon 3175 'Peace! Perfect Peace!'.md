@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'Peace! Perfect Peace!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3175
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You will keep him in perfect peace (Margin: peace, peace), whose mind is stayed on You: because he trusts in You." Isaiah 26:3.
 
@@ -121,7 +118,7 @@ You and I are like Jacob. The Lord said to Him, "The land whereon you lie, to yo
 
 We must get this perfect peace of which we have now been singing and speaking. I admire in certain of the saints their self-command, their great quiet and deep restfulness of spirit. It is not everything, but it is a very great deal. It is all the more necessary just now because the world is in such a hurry. It is necessary to us when we are weak and suffering, and when we are surrounded by cares and sorrows. Yet it is quite as valuable when we are strong and young and comfort would tempt us aside. Oh, that the world may see that we have a peace that cannot be taken away from us by force or fraud! I do not quite like that saying of Addison, "Come here, young man, and see how a Christian can die." It looks too theatrical. But I should like it to be so with us that men might turn aside to see how a Christian can live! O Lord and Giver of peace, grant us Your peace, and Grace to keep it, even to the end!
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 14.
+## Exposition by C. H. Spurgeon: Hosea 14
 
 Verse 1. O Israel, return unto the LORD your God, [See Sermon #2192, Volume 37—THE JOYOUS RETURN] Bless His name that He is still your Gil! However much you may have backslid-
 
@@ -178,7 +175,6 @@ idols?"
 9\. Who is wise, and he shall understand these things? Prudent, and he shall know them? For the ways of the LORD are righ. Did your murmuring spirit say that they were not right? Because you have had some sore trial, did your repining spirit say that they were not right? They are certainly right and you shall see that it is so one day! "The ways of the Lord are right."
 
 9\. And the just shall walk in them: but the transgressors shall fall therein. Even in God's good ways, transgressors cannot stand—they fall even when they try to praise God, or to pray to Him—and this is a sad proof of man's deep depravity, that even when he is engaged in the worship of God, the thing which is, in itself, good, becomes obnoxious to God by reason of the sin which is certain to be mingled with it!
-
 
 ---
 [[Sermon 3174 Concentration and Diffusion|← #3174]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3176 The Beauty Of The Olive Tree|#3176 →]]

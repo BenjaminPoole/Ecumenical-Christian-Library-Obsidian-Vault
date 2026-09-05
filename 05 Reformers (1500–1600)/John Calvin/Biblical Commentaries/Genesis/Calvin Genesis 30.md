@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 30
 
-**CHAPTER 30.**
+***Chapter 30.***
 
 ## Genesis 30:1-43
 

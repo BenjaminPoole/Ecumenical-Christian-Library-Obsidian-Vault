@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Good Cheer From Christ's Call and From Himself
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3277
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they came to Jericho: and as Jesus went out of Jericho with His disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging. And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, You Son of David, have mercy on me! And many charged him that he should hold his peace: but he cried the more a great deal, You Son of David, have mercy on me! And Jesus stoodstill, and commanded him to be called. And they called the blind man, saying unto him, Be of good comfort, rise, He calls you. And he, casting away his garment, rose, and came to Jesus. And Jesus answered and said unto him, What will you that I should do unto you? The blind man said unto Him, Lord, that I might receive my sight. And Jesus said unto him, Go your way; your faith has made you whole. And immediately he received his sight, and followed Jesus in the way." Mark 10:46-52.
 
@@ -109,7 +106,7 @@ been a Bartimaeus who was not the son of Timaeus. Mark, however, writes as if Ti
 
 If, my Friend, you have been long in seeking salvation, and have become discouraged, may the Lord give you resolution to come to Jesus Christ this very day! Bring that firm, steadfast mind of yours, and bow it to Jesus, and He will accept you and end your darkness! Under His teaching you may yet become a marked man in the Church, of whom in later years Believers will say, "You know that man—that grievous sinner while he was unsaved, that eager seeker when he was craving mercy, that earnest worker after he became a Believer—he will not be outworked by anybody! He is a true man and gives his whole heart to our Lord." I shall be delighted beyond measure if you should be such a convert—a man or woman who will not need looking after, but a determined man resolute to do right, cost what it may! Such persons are a great gain to the good cause. Gently would I whisper to each one of you— Will not you be one of them?
 
-EXPOSITION BY C. H. SPURGEON: LUKE10:25-37.
+## Exposition by C. H. Spurgeon: Luke 10:25-37
 
 Verses 25, 26. And, behold a certain lawyer stood up and tempted Him, saying, Master, what shall I do to inherit eternal life? He said unto him, What is written in the Law? How do you readit?That was a most appropriate answer to a lawyer. "You ask me what you should do—well, you profess to be a teacher of the Law, you ought, therefore, to know what is written in the Law."
 
@@ -130,7 +127,6 @@ out of its precepts. [There is a Sermon by Mr. Spurgeon upon the whole of this p
 35, 36. And gave them to the host, and said unto him, Take care of him; and whatever you spend more, when I come again, I will repay you. Which now of these three, think you, was neighbor unto him that fell among the thieves?He might have said, "The Samaritan," but he would not, for the Jews hated them.
 
 37\. And hie said, hie that showed mercy on him. Then said Jesus unto him, Go, and do you likewise. Here was a dismission, and here was a commission, too! Jesus dismissed him. "I have nothing more to say to you. 'Go.'" Here was the commission. "Do you likewise." Alas, I am afraid that after most sermons people get the dismission, "Go," but they forget the commission—"Go, and do you likewise." It is your privilege as well as your duty, O Christians, to assist the needy and, whenever you discover distress, as far as lies in you, to minister practically to its relief!
-
 
 ---
 [[Sermon 3276 Christ's Glory Turned to Shame|← #3276]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3278 The Wordless Book|#3278 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 65
-
-**PSALM 65**
 
 This psalm is composed both of petition and thanksgiving. It contains a prediction of the Gentiles being called to the common faith, but is principally occupied with praising God for the fatherly care which he exercises over his Church, and the benefits which flow from it. The Psalmist prays particularly that God would continue his former kindness to the Jewish people. Two instances of the Divine goodness are specified, — the powerful defense extended to their land, and the enriching of it with so many blessings.
 

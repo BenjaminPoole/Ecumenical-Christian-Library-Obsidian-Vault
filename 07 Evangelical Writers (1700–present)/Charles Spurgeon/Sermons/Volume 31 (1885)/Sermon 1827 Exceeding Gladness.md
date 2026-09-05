@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Exceeding Gladness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1827
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For You have made Him most blessed forever: You have made Him exceedingly glad with Your countenance." Psalm 21:6.
 
@@ -140,7 +137,6 @@ I would, if I could, stir you all up to a burst of holy joy, a blaze of sacred g
 "Blessed be the God and Father of our Savior Jesus Christ Who has blessed us with such blessings, all uncounted and unpriced! Let our high and holy calling, and our strong salvation be Theme of never-ending praises, God of Sovereign Grace, to Thee!"
 
 Hallelujah! Amen.
-
 
 ---
 [[Sermon 1826 The Horns of the Altar|← #1826]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1828 How The Unspeakable is Spoken of|#1828 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Wilderness Cry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1427
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 4, 1878,.
+*Delivered on Lord's-Day Morning, August 4, 1878*
 
 > "O God, You are my God; early will I seek You: my soul thirsts for You, my flesh longs for You in a dry and thirsty land, where there is no water; to see Your power and Your Glory, so as I have seen You in the sanctuary." Psalm 63:1,2.
 
@@ -142,7 +141,6 @@ Think, my dear Brothers and Sisters, if you and I all get into a dull, sleepy st
 Oh Lord, awaken us, even if it be by thunder claps! Oh God, for Jesus Christ's sake, bring us out of the dry and thirsty land! Have You not said that if we drink of the river of the Water of Life, out of our belly shall flow rivers of living water so that we shall neither complain of thirst, ourselves, nor shall there remain a desert around us? Help us, then, to drink abundantly!
 
 I have thus spoken to as many as believe in Jesus Christ, but to you that are unbelievers, much of this may equally well apply, for you, too, are in a land still more dry and thirsty. Do not go about to sacraments and sermons, much less to priests, but go straight to God in Christ Jesus! Cry to HIM! O Sinner, cry to Him, "O God, though You are not my God, yet still early will I seek You! My heart longs for You! Come to me and save me!" Jesus will come to you and save you, even you, to the praise of the glory of His Grace. Amen.
-
 
 ---
 [[Sermon 1426 The Lifting Up of the Bowed Down|← #1426]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1428 The True Position of the Witness Within|#1428 →]]

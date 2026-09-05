@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Mourning For Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1362
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 1, 1877,.
+*Delivered on Lord's-Day Morning, July 1, 1877*
 
 > "I will pour upon the house of David, and upon the inhabitants of Jerusalem, the Spirit of Grace and of supplications. And they shall look upon Me whom they have pierced, and they shall mourn for Him, as one mourns for his only son, and shall be in bitterness for Him, as one that is in bitterness for his firstborn." Zechariah 12:10.
 
@@ -146,7 +145,6 @@ I think what I have now said of myself will suit most of you who are engaged in 
 So let us plunge into the sacred bath! Believing in the precious blood, let us wash and be clean! Glory be to His name, those whom He has washed are clean every whit! Amen!
 
 ERROR—To our intense regret we perceive that in the last sermon, the Printer has inserted a verse from the First Epistle to the Corinthians instead of from the Second. This entirely spoils our argument. Will the reader kindly correct his copy? Put 2 Corinthians for 1 Corinthians and mark out the misquoted words. The error was occasioned by a slip of our pen. [By His Grace, the verse is corrected.—EOD]
-
 
 ---
 [[Sermon 1361 The Final Perseverance of the Saints|← #1361]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1363 Sudden Sorrow|#1363 →]]

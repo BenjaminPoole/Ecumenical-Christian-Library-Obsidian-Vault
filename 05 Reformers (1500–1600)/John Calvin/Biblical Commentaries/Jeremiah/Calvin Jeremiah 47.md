@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 47
 
-**CHAPTER 47**
+***Chapter 47***
 
 ## Jeremiah 47:1
 

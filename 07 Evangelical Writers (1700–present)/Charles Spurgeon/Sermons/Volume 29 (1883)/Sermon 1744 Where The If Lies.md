@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Where The "If" Lies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1744
@@ -89,8 +88,7 @@ Years ago one of our students was greatly emaciated with what seemed to be consu
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Mark 9:2-29.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—249, 498 551.
-
+## Hymns from "Our Own Hymn Book"—249, 498 551
 
 ---
 [[Sermon 1743 A Loving Entreaty|← #1743]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1745 Abijah, or Some Good Thing Towards the Lord|#1745 →]]

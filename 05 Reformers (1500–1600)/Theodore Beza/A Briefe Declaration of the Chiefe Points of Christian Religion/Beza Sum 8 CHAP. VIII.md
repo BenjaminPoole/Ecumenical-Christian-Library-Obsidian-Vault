@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - theodore-beza
 ---
-
 # 8. CHAP. VIII
-
-## CHAP. VIII.
 
 *How euery man may with profit apply this uniuersal doctrine to himselfe.*
 
@@ -35,7 +32,7 @@ Besides this, whe~ we know that faith is a speciall gift of God, shall wee not r
 
 Finally, when wee see the doctrine of the Gospell not onely despised of all the world, but also cruelly persecuted: and vvhen vvee see so great falshood and rebellion amongst men, what thing then can better confirme [^17] and fortifie vs, then to bee assured that nothing chaunceth by fortune: that GOD knoweth his 35, and that they vvhich commit these thinges (except the Lord GOD turne their hearts) are those which are destinate, not by chaunce, but by the sure and eternall counsel of GOD, to be as it vvere a glasse, wherein the anger & power of God doth appeare? Truth it is, that these things can neuer bee so commodiously and perfectly treated of, that mans reason and wit cannot find out some thing to reply alwaies to the contrary; yea and so kindleth with desire of contradiction, that it is ready to bring an action against God, and to accuse and blame him, as chiefe author of all things. But let the Diuell roare and discontent him selfe, and the wicked kick and winse: yet their owne conscience shall [^18] reproue & condemne them 36: when as ours, being confirmed in the truth, by the grace & mercie of our God, shall deliuer & freevs 37, in the day of Christ. To whom with the Father, and the holy Ghost, praise, glory, and honour be giuen for euer.
 
-*SO BE IT.*
+## *So Be It.*
 
 [^1]: Iustification by faith is vnprofitable, if it bee seperat from election.
 [^2]: Peace of co~ science dependeth on predestination.

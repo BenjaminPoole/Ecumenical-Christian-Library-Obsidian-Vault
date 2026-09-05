@@ -11,16 +11,13 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 28. Deuteronomy 13:18
-
-**deuteronomy 13**
 
 **18.** When thou shalt hearken to the voice of the Lord thy God, to keep all his commandments which I command thee this day, to do *that which is* right in the eyes of the Lord thy God.
 
 **18.** *When thou shalt hearken.* Although this sentence depends on something else, (as may be seen by referring to it,) yet is it general, and extends to the commendation of the whole Law. Moses teaches first, that the rule of a holy life must be sought from the mouth of God; and then adds that He must be obeyed not partially, but universally. He confirms also what I have said respecting obedience, for men only please God when they listen to His voice. Moreover, the expression is worth our notice, wherein Moses only assumes for himself the character of a minister, and claims power for God alone; for he says that he commands, but expressly explains that the commandments which he sets before them are God’s.
 
-**DEUTERONOMY 4**
+## **Deuteronomy 4**
 
 **5.** Behold, I have taught you statutes and judgments, even as the Lord my God commanded me, that ye should do so in the land whither ye go to possess it.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Craving the Best Things
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3122
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David said, There is none like that; give it to me." 1 Samuel 21:9.
 
@@ -156,7 +153,6 @@ Then, again, He has promised to do this, and that is the best of all encourageme
 And as for you, Sinner, He has told you to come to Him. I spoke of rest just now as being enjoyed by those who find Him. He says, "Come unto Me, and I will give you rest." Whatever it is that your soul desires, is there not a promise for it? And if there is, there is a faithful God at the back of every promise who will make that promise good!
 
 But we have even more than that. We have a living Savior to plead the promise on our behalf. ' 'Therefore He is able also to save them to the uttermost that come unto God by Him, seeing He ever lives to make intercession for them." We have the promise of God and then we have the plea of Christ to make that promise effective! I remind you Believers who are asking for more Grace—and you sinners who are asking for pardon—that God has made a great supply and that supply must be intended to be used! It is to God's Glory that it should be used. He gives a promise that He will hear your prayer. Jesus Christ stands up to plead that promise! "Let us therefore come boldly unto the Throne of Grace, that we may obtain mercy and find Grace to help in time of need." "There is none like that, give it to me." Give it to me now! Give it to me now, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 3121 The Necessity of Regeneration|← #3121]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3123 'The King of the Jews'|#3123 →]]

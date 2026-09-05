@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # A Sermon For Men Of Taste
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 459
@@ -117,7 +116,7 @@ And whereas before he thought Christ sweet, now he knows He is! Where he once co
 
 And he can cry out with Rutherford, "Black heavens, black moon, black sun! But fair, fair, incomparably fair Lord Jesus!" He can now tread everything beneath his feet as he would a dead and corrupt thing. But his soul cries, "Jesus! Jesus! Jesus! You are brighter, fairer and more lovely to me than ever You were before!" God give us Grace that we may understand and know—experimentally—-what it is to taste that the Lord is gracious.
 
-II. MEN WHO HAVE THUS TASTED OF CHRIST HAVE SPECIAL SINS TO AVOID AND OBJECTS TO DESIRE.
+## II. Men Who Have Thus Tasted of Christ Have Special Sins to Avoid and Objects to Desire
 
 We first dwell upon evils to be avoided. Malice. "Revenge is sweet," is the proverb of the Italians and many an Englishman has half learned it, if not wholly. "Revenge is sweet." But not to the man who has tasted Christ, for he says, "How can I have vengeance upon my fellow, when Christ has put away my sin?" Now, forgiveness is sweet and he loathes malice and turns aside from it as from venom itself.
 
@@ -158,7 +157,6 @@ Are you black with sin? The fountain is open—wash. Are you hungry? The door is
 Soul, taste and see that He is good. "But I am not fit to taste," says one. Well but who is fit to eat? A hungry man? Are you hungry? Eat. "Oh but my hands are black with sin." Never mind. It is not hand work here, it is mouth work. "Oh but I am afraid I have no taste and that if I did receive Christ into my heart, I should not taste His sweetness." Mark, the taste is in Him and not in your mouth. Come and take Him as he is. A little child, however weak, can be fed. Put up your mouth, you weak and foolish Sinner, weary and heavy laden as you are, and by receiving Christ into your soul's mouth, you shall find Him good, and you shall go your way rejoicing.
 
 Hearken diligently unto the Lord and eat that which is good and let your soul delight itself in fatness. It will be an awful thing to feed on the wind forever and roll the morsels of Hell beneath your tongue to all eternity—but this will be your portion unless you taste of Christ. May He add His own blessing to His own glory. Amen.
-
 
 ---
 [[Sermon 0458 The Friend of Sinners|← #458]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0460 Faith and Repentance Inseparable|#460 →]]

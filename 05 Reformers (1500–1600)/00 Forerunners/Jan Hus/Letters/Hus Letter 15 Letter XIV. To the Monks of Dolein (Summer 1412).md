@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 15. Letter XIV. To the Monks of Dolein (Summer 1412)
-
-LETTER XIV. TO THE MONKS OF DOLEIN (Summer 1412)
 
 The invectives of Stephen ; Do not believe him ; Hus's relation to Wyclif ; Why he did not go to Rome; An appeal to Stephen not to judge Wyclif or himself .... 75-7
 

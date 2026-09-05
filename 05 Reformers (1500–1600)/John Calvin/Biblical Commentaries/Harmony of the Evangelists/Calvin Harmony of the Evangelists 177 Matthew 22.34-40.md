@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 177. Matthew 22:34-40; Mark 12:28-34; Luke 10:25-37
-
-MATTHEW 22:34-40; MARK 12:28-34;  
-LUKE 10:25-37
 
 **34.** But when the Pharisees heard that he had put the Sadducees to silence, they assembled together. **35.** And one of them, a doctor of the law, put a question to him, tempting him, and saying, **36.** Master, which is the great commandment in the law? **37.** Jesus saith to him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. **38.** This is the first and great commandment. **39.** And the second is like it, Thou shalt love thy neighbor as much as thyself. **40.** On these two commandments the whole law and the prophets depend.
 

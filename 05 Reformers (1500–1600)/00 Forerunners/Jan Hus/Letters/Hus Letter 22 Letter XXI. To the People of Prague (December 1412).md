@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 22. Letter XXI. To the People of Prague (December 1412)
-
-LETTER XXI. TO THE PEOPLE OF PRAGUE (December 1412)
 
 The Advent is nigh; Why HUB fled ; Why he does not return ;
 

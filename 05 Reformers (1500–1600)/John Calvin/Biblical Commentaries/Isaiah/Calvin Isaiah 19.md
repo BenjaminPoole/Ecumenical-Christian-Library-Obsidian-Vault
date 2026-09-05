@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 19
 
-**CHAPTER 19**
+***Chapter 19***
 
 ## Isaiah 19:1-25
 

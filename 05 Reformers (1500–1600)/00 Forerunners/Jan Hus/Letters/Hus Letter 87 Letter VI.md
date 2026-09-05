@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 87. Letter VI
-
-LETTER VI
 
 IN the September of 1410, before the excitement over the burn ing of the books had yet cooled down, Hus received a letter from an English Lollard, one Richard Wyche, vicar of Deptford. Wyche's letter is of remarkable interest, not merely as a sign of the close connection at that time existing between the two countries, or because of the answer of Hus, but also because of the interest attaching to Wyche himself. Wyche was one of the many priests who had come under the influence of Wyclif's teaching. Of his earlier years we know little or nothing. Hus, it is true, speaks of him as " the companion of Wyclif in the toils of the gospel," but too much weight should not be attached to a chance phrase by one to whom Wyche was really a stranger. At one time it is possible he had been a monk, for we find in 1399 one of that name in charge of the alien priory of Derehurst, near Stow-on-the-Wold, Gloucestershire. In the following year we find that Wyche was an ordained priest in the diocese of Hereford. Shortly afterwards he travelled up to Northumber land to preach the gospel, taking with him a companion named
 
@@ -24,7 +21,7 @@ With the despatch of this letter our knowledge of Wyche once more becomes uncert
 
 1 See Fasciculi Zizaniorum (Eolls Series), 370-82, 501-5,
 
-32 LETTEES WEITTEN BEFORE THE
+## 32 Lettees Weitten Before The
 
 THE LETTER OF KICHARD WYCHE (London: September 8, 1410)
 
@@ -112,13 +109,13 @@ But Wenzel and Zbinek were anxious for peace. Both realised that they had gone t
 
 With this introduction, the following letters, for the most part full of the strife of the times, will explain themselves : —
 
-LETTEE VII
+## Lettee VII
 
 THE date of this letter is inaccurately given in the one MS. in which it has been preserved as 'A.D. MCCCCXH. Dominica Priscae '— i.e., January 18, 1413 (N.S.). As Hus was at that time in exile, the date is improbable, while January 18 fell on a Sunday in 1411, not 1413. We therefore date accordingly, reading 'MCCCCX.' (O.S., i.e. 1411 N.S.) for 'MCCCCXII.'
 
 The illustrations in this letter, for which see the notes, were probably found by Hus in some one of the many commentaries on the famous Rule of Benedict, perhaps in Benedict Anianensis Concordia Regvlarum (see Migne, vol. ciii. pp. 1058 ff.). For Other illustrations of this letter, see Migne, vol. Ixvi. c. 33,
 
-42 LETTERS WEITTEN BEFOEE THE
+## 42 Letters Weitten Befoee The
 
 VII. To A CERTAIN MONK (January 18, 1411)
 

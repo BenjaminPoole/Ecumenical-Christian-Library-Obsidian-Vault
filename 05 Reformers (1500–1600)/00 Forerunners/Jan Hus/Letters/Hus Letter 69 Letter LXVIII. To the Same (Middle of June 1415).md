@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 69. Letter LXVIII. To the Same (Middle of June 1415)
-
-LETTER LXVIII. TO THE SAME (Middle of June 1415)
 
 Reasons why Hus cannot "abjure" 241
 

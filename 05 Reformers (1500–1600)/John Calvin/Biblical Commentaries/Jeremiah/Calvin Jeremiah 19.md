@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 19
 
-**CHAPTER 19**
+***Chapter 19***
 
 ## Jeremiah 19:1-3
 
@@ -93,7 +92,7 @@ He at last adds, that that place was *filled with the blood of innocents*; for t
 
 ## Prayer Lecture 73
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to shew to us the way in which we cannot err, provided we obey thee, — O grant, that we may render ourselves really teachable and ready to obey, and never undertake anything but what we know is approved by thee, nor turn aside on the right hand or on the left; but continue in that form of worship which thou hast prescribed to us in thy word, so that we may be able to bear witness, not only before the world, but before thee and the holy angels, that we obediently follow thee; and may we never blend anything of our own, but with submissive minds worship thee alone, and strive to render ourselves wholly subject to thee, until having at length rendered to thee due service through the whole course of our life, we shall reach that blessed rest which thy Son has procured for us by his own blood. — Amen.
 
@@ -202,7 +201,7 @@ And a clearer definition follows, *That they might not hear my words*. Though th
 
 ## Prayer Lecture 74
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to prescribe a rule for us, by which we may truly and purely worship thee, — O grant, that we may follow this plain rule, and never indulge our own imaginations, nor trifle with thee through our own fancies or through the foolish wisdom of our flesh, but continue in thy law, and in the doctrine which thine only-begotten Son, our Lord, has delivered to us, so that we may advance more and more in the knowledge of that glory, the foretaste of which thou givest us now, until we shall at length fully and perfectly enjoy it, when we shall be gathered into that celestial kingdom, which thy Son has procured for us by his own blood. — Amen.
 

@@ -10,18 +10,17 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 9. Injunctions to the Diocese of Hereford, 1538
 
-INJUNCTIONS
+*Injunctions*
 
-THOMAS ARCHBISHOP OF CANTERBURY
+## Thomas Archbishop of Canterbury
 
-TO THE PARSONS, VICARS, AND OTHER CURATES, IN HIS
+## To the Parsons, Vicars, and Other Curates, in His
 
-VISITATION KEPT (SEDE VACANTE2) WITHIN THE
+## Visitation Kept (Sede Vacante 2) within The
 
-DIOCESE OF HEREFORD, ANNO DOMINI 1538.
+## Diocese of Hereford, Anno Domini 1538
 
 First ; That ye and every one of you shall, with all your diligence and faithful Regist. obedience, observe, and cause to be observed, all and singular the king's highness' iniunc- **). b. foi. i»7.
 

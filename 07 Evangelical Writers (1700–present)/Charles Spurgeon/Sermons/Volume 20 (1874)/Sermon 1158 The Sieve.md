@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Sieve
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1158
-
-DELIVERED BY.
 
 > "Not everyone that says unto Me, Lord, Lord, shall enter into the kingdom of Heaven; but he that does the will of My Father which is in Heaven." Matthew 7:21.
 
@@ -133,12 +130,11 @@ But if any one of you has been a hypocrite and has to plead guilty to many thing
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Matthew 7. HYMNS FROM "OUR OWN HYMN BOOK"—643, 640, 637.
 
-MESSAGE:
+## Message
 
 Beloved Friends—This is the last sermon to be issued in my absence. I hope to present you next week with a discourse preached on my return. I have been very ill during my absence in foreign lands, but I hope the result will be that on recommencing my work I shall be both physically and mentally all the more fitted for it. And I pray that to these blessings spiritual energy may be added by the abiding power of the Holy Spirit. It is a period of revival—may the Lord revive His work in each of us! I entreat the prayers of my readers and of my beloved flock. Grace, mercy, and peace be with you all. Amen.
 
 Mentone, Feb. 12,1874 C. H. SPURGEON.
-
 
 ---
 [[Sermon 1157 Shiloh|← #1157]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1159 Counting the Cost|#1159 →]]

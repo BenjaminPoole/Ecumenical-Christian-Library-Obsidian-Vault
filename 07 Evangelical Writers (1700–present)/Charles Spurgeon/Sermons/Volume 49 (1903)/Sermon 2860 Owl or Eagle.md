@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Owl or Eagle?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2860
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am like an owl of the desert." Psalm 102:6.
 
@@ -95,7 +92,7 @@ He came into the world to save sinners, to seek and to save the lost. So you, be
 
 Bankrupt sinners, come and learn how all your debts have been discharged! Wounded sinners, come and be healed by the Great Physician! Yes, and even to you who are dead, and in your graves, the Lord says, "Live." And you shall live, even as the Lord Jesus said to Martha, "He that believes in Me, though he were dead, yet shall he live." The Lord grant you Grace to look to Jesus, that the owls' eyes may now be turned into eagles' eyes and the owls of the desert into eagles, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 102.
+## Exposition by C. H. Spurgeon: Psalm 102
 
 Kindly notice the title of this Psalm—"Prayer of the afflicted, when he is overwhelmed, and pours out his complaint before the LORD." I call your attention to it in order to remind you what charges there are in the life of a Believer. Here, in the 102nd Psalm, the afflicted saint is pouring out his complaint. And then, in the 103rd, the rejoicing Believer is blessing the Lord in a jubilant song of grateful praise. Such are a true Christian's ups and downs, nights and days, and I can see how the 103rd Psalm blossoms out of the 102nd. When the afflicted Believer can pour out his complaint before the Lord, it will not be long before he will be able to cry, "Bless the Lord, O my soul; and all that is within me, bless His holy
 
@@ -136,7 +133,6 @@ Verses 1, 2. Hear my prayer, O LORD, and let my cry come unto You. Hide not Your
 24-27. I said, O my God, take me not away in the midst of my days: Your years are throughout all generations. Of old have You laid the foundation of the earth: and the heavens are the work of Your hands. They shall perish, but You shall endure: yes, all ofthem shall wax oldlike a garment, as a vesture shall You change them, and they shall be changed: but You are the same, and Your years shall have no end. The ever-living God is our constant comfort amidst the ever-changing scenes of this mortal life! Yes, and when we come even to the border of the land of death-shade, this is still our joy, "The Lord lives," for, from the midst of the Throne of God, we hear our Savior say, "Because I live, you shall live also."
 
 28\. The children of Your servant shall continue. We pass away, but our children take our place. As Wesley said, "God buries His workmen, but His work goes on." One generation passes away, but another comes in its place. 28. And their seed shall be established before You. Blessed be the name of the ever-living God!
-
 
 ---
 [[Sermon 2859 The Lions' Den|← #2859]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2861 'The Time Is Short'|#2861 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 64
 
-**CHAPTER 64.**
+***Chapter 64.***
 
 ## Isaiah 64:1-12
 

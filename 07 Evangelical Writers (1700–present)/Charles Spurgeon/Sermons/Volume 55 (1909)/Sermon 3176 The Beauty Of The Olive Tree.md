@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Beauty Of The Olive Tree
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3176
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His beauty shall be as the olive tree." Hosea 14:6.
 
@@ -121,7 +118,7 @@ present seems to be joyous, but grievous: nevertheless afterward it yields the p
 
 X. Lastly, dear Friends, to me the very choicest beauty of the olive grove is that IT ALWAYS REMINDS ME OF
 
-THE LORD JESUS CHRIST.
+## The Lord Jesus Christ
 
 This is also the point in which every Christian who has the dew of the Lord upon him has a beauty like that of the olive tree, namely, that he reminds those about him of his Master! They take note of him that he has been with Jesus. When you are under the olives, you cannot help thinking of Gethsemane, of the dark night in the garden, of the disciples asleep, and of our Savior, Himself, in an agony of grief. A poetess sweetly sings—
 
@@ -148,7 +145,6 @@ Trembled, perchance, within your trembling shade." Well, just as all right-minde
 We should so act when we are provoked, bearing it so gently that observers should be compelled to say, "How Christlike they are!" We should, when offended, so readily, so truthfully, so thoroughly forgive the offenders that if they do not say, they should at least feel, "How Christlike they are!" We should be so unselfish, so generous, so anxious to serve others and to please them rather than ourselves. We should be so kind in our judgment, so truthful, so tender, so upright, so calm, so strong, so brave and yet so free from all Phariseeism and affectation that men should not have to look at us long before they would be obliged to say, "They have been with Jesus. They never learned that lesson anywhere but at the feet of the Crucified."
 
 The Lord bless you, dear Friends, and give you faith in Jesus! And then, by His Spirit, impart to you all this beauty of which I have spoken—and a great deal more of which no tongue can adequately speak—even the beauty of holiness— and so your beauty shall be as the olive tree! God grant it for His dear Son's sake! Amen and Amen.
-
 
 ---
 [[Sermon 3175 'Peace! Perfect Peace!'|← #3175]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3177 Christ Seen as God's Salvation|#3177 →]]

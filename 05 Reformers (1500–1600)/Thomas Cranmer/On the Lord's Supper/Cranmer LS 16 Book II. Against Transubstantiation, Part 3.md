@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 16. Book II. Against Transubstantiation, Part 3
 
 [} Corpus Juris Canonici. De Consecrat. Dist. [2 Gloss. in Corpus Juris Canonici, De Consecrat. — ii. cap. 48. “Hoe est.’ col. 1937. Ed. Lugd. | Dist. ii. col. 1936. Lugd. 1618.] ; 1618.] | [F Ib. col. 1937.)
 
-“ment, therefore they must be there naturally present, as the two natures of the hupurpose -manity and divinity be in Christ ; many wicked errors should be established by them: they te as if the similitude of the wicked steward were strained as you strain and force pam sem this similitude, men might gather, that it is lawful for christian men to beguile their lords and masters whiles they be in office, to help themselves when they be out of _ office, because the Lord praised the wicked steward; yet you know that the simi- litude was not taught of our Saviour Christ for that purpose, for God is no favourer of falsehood and untruth. So you do wrong both to the holy doctors and to me, to gather of our similitude any other doctrine than we mean by the said similitude.
+“ment, therefore they must be there naturally present, as the two natures of the hupurpose -manity and divinity be in Christ ; many wicked errors should be established by them: they te as if the similitude of the wicked steward were strained as you strain and force pam sem this similitude, men might gather, that it is lawful for christian men to beguile their lords and masters whiles they be in office, to help themselves when they be out of _ office, because the Lord praised the wicked steward; yet you know that the similitude was not taught of our Saviour Christ for that purpose, for God is no favourer of falsehood and untruth. So you do wrong both to the holy doctors and to me, to gather of our similitude any other doctrine than we mean by the said similitude.
 
 Nor any reasonable man can say, that I am forced by confessing two natures in Christ’s person really, naturally, and substantially, to confess also the nature of the body and blood of Christ to be likewise in the sacrament, except he could prove that the holy doctors, and I following their doctrine, do teach and affirm, that the natures of bread and wine are joined in the sacrament with the natural body and blood of Christ in unity of person, as the natures of God and man be joined in our Saviour Christ :
 
@@ -29,7 +28,7 @@ And it is not necessary for our eternal salvation, nor yet profitable for our co
 
 Two examples of the two natures in Christ, one in aman, the other in the sacra~- meat, other. The other example is of the Lord’s supper, or ministration of the sacrament, where —
 
-284 THE SECOND BOOK.
+## 284 the Second Book
 
 over me,” but I standing upright myself, have given you such a fall, that you shall q never be able to recover. And now that I have brought you to the ground, although — it be but a small piece of manhood to strike a man when he is down, yet for the — truth’s sake, unto whom you have ever been so great an adversary, I shall beat you with your transubstantiation, as they say, both back and bone. How say you, sir? is whiteness or other colours the nature of bread and wine, (for the colours be © only visible by your doctrine ;) or be they elements? or be accidents the bodily matter? Lie still, ye shall be better beaten yet for your wilfulness. Be the accidents of bread — substances, as you said not long before? and if they be substances, what manner of substances be they, corporal or spiritual? If they be spiritual, then be they — souls, devils, or angels? And if they be corporal substances, either they have life — or no life. I trust you will say at the least, that bread hath life, because you said — but even now almost, that “the substance of bread is the soul of it.” Such absurdities they fall into that maintain errors. But at length when the similitude of the two natures in Christ, remaining both | in their proper kinds, must needs be answered unto, then cometh in again the cuttle — with his colours to hide himself, that he should not be seen, because he perceiveth what danger he is in to be taken: and when he cometh to the very net, he so stoutly — striveth, wrangleth, and wrestleth, as he would break the net, or else by some craft wind himself out of it; but the net is so strong, and he so surely masted therein, that he shall never be able to get out. 1 For the old catholic authors, to declare that two natures remain in Christ together, that isto say, his humanity ms his divinity, without corruption or wasting of any of the said two natures, do give two examples thereof: one is of the body and soul, — which both be in a man together, and the presence of the one putteth’ not away the is also together the substance and nature of bread and wine with the body and blood of Christ ; and the presence of the one putteth not away the other, no more than the presence of Christ’s humanity putteth away his divinity. And as the presence of the soul driveth not away the body, nor the presence of the flesh and blood of Christ driveth not away the bread and wine; so doth not the presence of Christ’s humanity expel his divinity, but his divinity remaineth still with his humanity, as the soul doth with the body, and the body of Christ with the bread. And then if there remain not the nature and substance of bread, it must follow also, that there remaineth not the divine nature of Christ with his humanity, or else the similitude is clearly dissolved. : q
 
@@ -53,7 +52,7 @@ And where you think that “my second book against transubstantiation was a col-
 
 Chrysostom. ad Cesarium Monachum.
 
-286 THE SECOND BOOK.
+## 286 the Second Book
 
 And what availeth it you so often to affirm this untruth, “that the body of Christ — is present in the sacrament, as the soul of man is present in the body,” except you — be like to them that tell a lie so often, that with often repeating they think men be- — lieve it, and sometime by often telling they believe it themselves? But the authors — bring not this similitude of the body and soul of man, to prove thereby the presence of Christ’s body in the sacrament, but to prove the two natures of the Godhead and — the manhood in the person of Christ.
 
@@ -83,7 +82,7 @@ i For proof whereof, to shew remaining of the property without alteration, Chrys
 
 } understand 5 transubstantiation. ,
 
-CANTERBURY.
+## Canterbury
 
 Where you like not my translation of Chrysostom’s words, I trow you would have
 
@@ -107,7 +106,7 @@ _ Christ were there present. a
 
 Lactantius Instit. Lib. Il. cap. i.
 
-288 ' THE SECOND BOOK.
+## 288 ' the Second Book
 
 and would gather thereof no truth to be where such diversity is, let the reader kL judge what a wonderful diversity it is. The Latin is this, Panis dignus habitus ot 4 Dominici corporis appellatione. The translator of M. Peter Martyr's book saith: “The — bread is reputed worthy the name of the Lord’s body.” My translation hath, “The bread is exalted to the name of the body of the Lord.” When a man is made a lord or — knight, if one say of him, that he is reputed worthy the name of a lord or knight, — and another say, that he is exalted to the name of a lord or knight, what difference — is between these two sayings? Is not this a wonderful diversity? I pray thee, judges indifferently, good . reader,
 
@@ -125,7 +124,7 @@ Instit. Lib. 11. De Origine erroris, cap. ii.] a
 
 Chrysostom bring it for a resemblance to prove that the substance of Christ's humanity remaineth with his divinity? Marry, this that you say had been a gay lesson _ for the Manichees, to say that there appeareth bread by all the accidents thereof, and _ yet is none in deed; that then by this similitude they might say likewise, that Christ _ appeared a man by all the accidents and properties of a man, and yet he was none in _ deed. And to make an end of this author, your vain comment will not serve you, to call the accidents of bread the nature of bread, except you will allow the same in the Manichees, that the nature of Christ’s body is nothing else but the accidents thereof. Now followeth Gelasius of the same matter. Hereunto accordeth also Gelasius, writing against Eutyches and Nestorius, Seat aom. _ of whom the one said, that “Christ was a perfect man, but not God;” and the rg moe other affirmed clean contrary, that “he was very God, but not man.” But against ene these two heinous heresies, Gelasius proveth by most manifest scriptures, that Christ is both God and man, and that after his incarnation remaineth’ in him [as well] the nature of his Godhead, [as the nature of his manhood, |* so that he hath in him two natures with their natural properties, and yet is he but gne Christ. And for the more evident declaration hereof he bringeth two examples: the one is of man, who being but one, yet he is made of two parts, and hath in him two natures remaining both together in him, that is to say, the body and the soul, with their natural properties. The other example is of the sacrament of the body and blood of Christ, 308. “ which,” saith he, ‘is a godly thing, and yet the substance or nature of bread and wine do not cease to be there still*.” Note well these words against all the papists of our time, that Gelasius, which was bishop of Rome® more than a thousand years past, writeth of this sacrament, that the bread and wine cease not to be there still, as Christ ceased not to be God after his incarnation, but remained still perfect God, as he was before.
 
-WINCHESTER.
+## Winchester
 
 Now followeth to answer to Gelasius, who abhorring both the heresies of Eutyches and NestoGelasius. rius, in his treatise against the Eutychians, forgetteth not to compare with their error, in extremity in the one side, the extreme error of the Nestorians on the other side, but yet principally intendeth the confusion of the Eutychians, with whom he was specially troubled. These two heresies were not so gross as the author of this book reporteth them, wherein I will write what Vigilius saith: Inter Nestorii ergo, quondam ecclesiz Constantinopolitane non rectoris, sed dissipatoris, [Vigitius. non pastoris, sed pradatoris, sacrilegum dogma et Eutychetis nefariam et detestabilem ong ea" _ Sectam, ita serpentine grassationis sese calliditas temperavit, ut utrumque sine utriusque Witch 'periculo plerique vitare non possint, dum si quis Nestorii perfidiam damnat, Eutychetis _ putatur errori succumbere ; rursum dum Eutychianz heeresis impietatem destruit, Nestorii “arguitur dogma erigere. These be Vigilius’ words in his first book, which be thus much in ag “ Between the abominable teaching of Nestorius, sometime not ruler but waster, not | » but prey-searcher of the church of Constantinople, and the wicked and detestable sect of 4 Diratyjcheo, the craft of the devil’s spoiling so fashioned itself, that men could not avoid any of the _secrets® without danger of the other: so as whiles any man condemneth the falseness of [the] Nestorian, he may be thought fallen to the error of the Eutychian; and whiles he destroyeth the wickedness _ Of the Eutychian’s heresy, he may be challenged to relieve the teaching of the Nestorian.” This is the sentence of Vigilius, by which appeareth how these heresies were both subtly conveyed, without so plain contradiction, as this author either by ignorance or of purpose feigneth ; as though the Nestorian should say, “that Christ was a perfect man, but not God,’ and the Eutychian clean contrary,
 
@@ -139,7 +138,7 @@ Now followeth to answer to Gelasius, who abhorring both the heresies of Eutyches
 
 * Substance.
 
-290 THE SECOND BOOK.
+## 290 the Second Book
 
 “very God, but not man.” For if the heresies had been such, Vigilius had had no cause to speak of any such ambiguity, as he noteth that a man should hardly speak against the one, but he might be suspected to favour the other. And yet I grant that the Nestorians’ saying! might imply Christ not to be God, because they would two distinct natures to make also two distinct persons, and so as it were two Christs, the one only man, and the other only God; so as by their teaching, God was neither incarnate, nor (as Gregory Nazianzen saith) “man — deitate,” for so he is termed to say.
 
@@ -157,7 +156,7 @@ _ of the things represented, to be wnderstanded only by faith as invisibly prese
 
 {5 The same man, Orig. ed. Winch.] 19—2 must resist him, although he be a father, because Christ saith: “He that loveth his father Matt. x. above me, is not worthy me.” But Nestorius, as appeareth, although he used it ill.favouredly, Wikch }
 
-292" THE SECOND BOOK.
+## 292" the Second Book
 
 is; 80 in the sacrament, being a mystery ordered to feed us, and the image of that principal mystery, there is not an only figure but truth of the presence of the natures, earthly and celestial.
 
@@ -169,7 +168,7 @@ In the sacrament, the visible matter of the earthly creature in his property of 
 
 : mean of us to be consubstantial to beasts. And thus I write to shew, that we may not press the 312. example in every part of it, as the author of this book noteth upon Gelasius, who overturneth his doctrine of the figure.
 
-CANTERBURY.
+## Canterbury
 
 I pity you, to see how ye swink® and sweat to confound this anthor Gelasius. And yet his words be so plain against your papistical transubstantiation, that you have clearly lost all your pains, labours, and costs, For these be his words spoken of the sacrament : Hsse non desinit substantia vel natura panis et vini ; “The substance or nature of bread and wine ceaseth not to be.” But to avoid and dally away these words that _be so clear and plain, must needs be laid on load of words, the wit must be stretched out to the utmost, all fetches must be brought in that can be devised, all colours of rhetoric must be sought out, all the air must be cast over with clouds, all the water darkened with the cuttle’s ink ; and if it could be, at the least as much as may be, all men’s eyes also must be put out, that they should not see. But I would wish that you stood not so much in your own conceit, trusted not so much in your inventions and device of __wit, in eloquence, and in craftiness of speech, and multitude of words, looking that no man should dare encounter you, but that all men should think you speak well because you speak much; and that you should be had in great reputation among the multitude of them that be ignorant, and cannot discern perfectly those that follow the right way of truth from other that would lead them out of the way into error and blindness. This standing in your conceit is nothing else but to stand in your own light. But where you say that these heresies of Nestorius and Eutyches were “not so gross as I report,” that the one should say, that “Christ was a perfect man, but not God ;” and the other should say clean contrary, that “he was very God, but not man :” of the grossness of these two heresies I will not much contend. For it might be that they were of some misreported, as they were indeed if credit be to be given to divers ancient histories; but this I dare say, that there be divers authors that _ report of them as I do write, and consequently you grant the same in effect. For you report of the Eutychians, that they did perniciously say, that there was but povodveis, “one nature in Christ:” and of the Nestorians you say, that “they denied Christ to be conceived God or born God, but only man,” and then could not _ he be naturally God, but only man. And therefore neither by ignorance nor of pur_ pose do I report them otherwise than you confess yourself, and than I have learned _ of other that were before my time. For St Augustine in the place which you do August. com. _ cite of him, hath these words of Nestorius, Dogmatizare ausus est, Dominum nostrum — Sesum Melitsinn hominem tantum; “he presumed to teach,” saith St Augustine, _ “that our Lord Jesus Christ was but man only.” And of Eutyches he saith, Hw_ manitatis in Christo denegavit veritatem ; “he denied the truth of Christ’s manhood’.” _ And Gelasius writeth also thus: Hutychiani dicunt unam esse naturam, id est divinam ; Gelasius _ ae Nestorius nihilominus memorat singularem: “The Eutychians say, that there is but Hutyehen et _ one nature in Christ, that is to say, the Godhead: and also Nestorius saith, there is but amen one nature,” meaning the manhood. By which words of St Augustine and Gelasius appeareth, as plainly as can be spoken, the plain contradiction between the Nestorians and the Eutychians, that the one denied the humanity of Christ, and the other his 313. divinity, as I have written in my book; so that neither of ignorance nor of purpose have I feigned any thing: but you, either of malice, or of your accustomed manner to calumniate and find fault with every thing that misliketh you, be it never so well, seek
 
@@ -177,7 +176,7 @@ I pity you, to see how ye swink® and sweat to confound this anthor Gelasius. An
 
 Gelasius writeth as well against Nestorius as Eutyches.
 
-294 THE SECOND BOOK.
+## 294 the Second Book
 
 occasion likewise here to carp and yeprehend where no fault is; being like unto Momus, which, when he could find no fault with Venus’ person, yet he picked a quarrel to her slipper. And not in this place only, but throughout your whole book, you use this fashion, that when you cannot answer to the principal matter, then you find fault with some bye-matter, whereby it seemeth you intend so to occupy the reader's mind, that he should not see how craftily you convey yourself from direct answering of the chief point of the argument; which when you come unto, you pass it over slenderly, answering either nothing, or very little, and nothing to the purpose.
 
@@ -273,7 +272,7 @@ And yet the triumph this author maketh against them he calleth for his pleasure 
 
 This author of the book, for the name of Nestorius, should have put Eutyches, and then said Jor conclusion, the nature of manhood remained not in Christ. And although in Theodorete the substance of bread is spoken of to remain, yet because he doth after expound himself to speak of that is seen and felt, he seemeth to speak of substance after the common capacity, and not as it is truly in learning understanded, an inward, invisible, and not palpable nature, but only perceived by understanding ; so as this outward nature that Theodorete speaketh of, may according to his words truly remain, notwithstanding transubstantiation. This author declareth plainly his ignorance, not to perceive whither the argument of Theodorete and Gelasius tendeth, which is properly against the Eutychians rather than the Nestorians. For, and no propriety of bread remain, it proveth not the Godhead in Christ not to remain, but the humanity only to be as it were swallowed up of the divinity, which the Eutychians intended, and specially after Christ’s resurrection, against whom the argument by Theodorete is specially brought, howsoever this author confoundeth the Nestorians’ and Eutychians’ names and taketh one for another, which in so high a matter is no small fault, and yet no great fault among so many other huger and greater, as be in this book committed.
 
-CANTERBURY.
+## Canterbury
 
 If that which you have said to Gelasius be well considered and conferred with this in Theodorete, it seemeth by your process in both, that you know not what confusion ignorant of all their whole discourse, which tendeth only to prove that the two natures in Christ, his divinity and his humanity, be not confounded. And for ignorance of confusion, you confound all together. Gelasius and Theodorete prove, that the two natures in Christ be not confounded, because they remain both in their own substances and properties, so that the remaining declareth no confusion, which should be confounded if they remained not. If a drop of milk be put into a pot of wine, by and by it loseth the first nature and substance, and is confounded with the nature and substance of wine. And if wine and milk be put together in equal quantity, then both be confounded, because neither remaineth, neither perfect wine with his substance and natural proprieties, nor perfect milk with the substance and proprieties of milk ; but a confusion, an humble-jumble or hotch-potch, a posset or syllabub is made of them both together, like as in man’s body the four elements be confounded to the constitution of the same, not one of the elements remaining in his proper substance,” form, and pure natural qualities.
 
@@ -295,7 +294,7 @@ _ by natural operation, by natural reason, by all our senses, and by the most ol
 
 [* Vid. p. 299. In the original text of the passage | transmutatum. Loci Communes, Class. tv. cap. 10. __ here referred to there isno negative. Peter Martyr’s | Geney. 1623. p603. ] __ translation of the sentence is: Sic et corpus domini- [? Vid. p. 274.] [? Vid. p. 289.] cum post assumptionem in divinam est substantiam {* Vid. p. 299.]
 
-302 THE SECOND BOOK.
+## 302 the Second Book
 
 well weighed, what moved the school authors of late years to defend the con- ; . trary opinion, not only so far from all experience of our senses, and so far from — all reason, but also clean contrary to the old church of Christ and to God’s most holy word. Surely nothing moved them thereto so much, as did the vain — faith which they had in the church and see of Rome.
 

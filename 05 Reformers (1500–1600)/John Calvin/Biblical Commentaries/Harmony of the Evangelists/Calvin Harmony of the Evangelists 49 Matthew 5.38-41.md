@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 49. Matthew 5:38-41;Luke 6:29-30
-
-**MATTHEW 5:38-41; LUKE 6:29-30**
 
 **38**. You have heard that it was said, An eye for an eye, and a tooth for a tooth. **39**. But I say to you, Do not resist evil: but whoever, shall inflict a blow on thy right cheek, turn to him the other also: **40**. And to him who wishes to enter into a law-suit with thee, and to take away thy coat, allow him thy cloak also: **41**. And whoever shall constrain thee to one mile, go with him two.
 

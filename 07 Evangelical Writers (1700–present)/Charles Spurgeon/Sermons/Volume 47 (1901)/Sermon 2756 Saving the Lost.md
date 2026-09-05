@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Saving the Lost
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2756
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Son of Man hats come to seek and to save that which was lost." Luke 19:10.
 
@@ -99,7 +96,7 @@ Dear Master, we are only too glad to go on such an errand! You shall not have to
 
 Go thus, Brothers and Sisters, in the Holy Spirit's might, and in your Savior's name! And may He enable you to bring home, with rejoicing, many of the lost ones—and to Him shall be all the glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW21:23-46.
+## Exposition by C. H. Spurgeon: Matthew 21:23-46
 
 Verse 23. And when He was come into the temple, the chief priests and the elders of the people came unto Him as He was teaching and said, By what authority are You doing these things? And who gave You this authority?fesus knew that these men came to Him for no good purpose, and that they were only trying to trip Him up in His speech. He was always willing to teach when men were willing to learn, but He did not care to cast His pearls before swine. Therefore, mark the holy caution, the sacred ingenuity with which our Lord replied to these men.
 
@@ -124,7 +121,6 @@ Last of all, the Son of God Himself has come to you in the preaching of the Gosp
 44\. But on whomever it shall fall, it will grind him to powder. If you arouse the wrath of Christ and the Rock of Ages falls on you—a huge cliff comes toppling from its lofty height upon the traveler and crushes him past all recognition—you will be ground to powder.
 
 46, 46. And when the chief priests and Pharisees had heard His parables, they perceived that Hie spoke of them. But when they sought to lay hands on Him, they feared the multitude, because they took Him for a Prophet. Unhappy people, to reject Him who alone could bless them—and yet to stand in fear of Him whom they tried to despise! Let it not be so with any of us, but may Jesus become our Teacher, our Friend and our Savior forever, by His abounding Grace! Amen.
-
 
 ---
 [[Sermon 2755 Must He|← #2755]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2757 Victorious Faith|#2757 →]]

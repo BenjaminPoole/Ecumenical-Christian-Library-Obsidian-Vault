@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 71. Letter LXX. To the Same ( June 21, 1415)
-
-LETTER LXX. TO THE SAME ( June 21, 1415)
 
 HUB'S final intentions ; Thanks to Sigismund ! and others . 246-7
 

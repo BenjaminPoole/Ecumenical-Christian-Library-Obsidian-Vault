@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Priest and Victim
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2693
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He offered up Himself." Hebrews 7:27.
 
@@ -101,7 +98,7 @@ But preach Jesus Christ and Him Crucified—preach the atoning Sacrifice—and s
 
 And, finally, this Truth of God that Christ offered up Himself, leads us who accept it to be ready for self-sacrifice. It makes the believing man say, "As He offered Himself for me, I must give myself for Him." It teaches the doctrine of the self-sacrifice of men for God and of men for men. This is the nursery of brave spirits and the school in which true heroes are trained. None have been bolder for the truth and for the right, and for the advancement of the ages, and for the Glory of God, than those who have enshrined the blood-red Cross within their hearts, and who have been prepared, for love of it, even to die. O Christ of God, You who have offered Yourself for us, we offer ourselves to You! Accept us now! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 10:1-22.
+## Exposition by C. H. Spurgeon: Hebrews 10:1-22
 
 Verse 1. For the law—The old ceremonial law of Moses—
 
@@ -136,7 +133,6 @@ are expecting something better than we have yet seen. "We were saved in hope." W
 18\. Now where remission of these is, there is no more offering for sin. No more offering for sin is needed, for the work of Atonement is fully done, and done forever. As the sin of all who believe in Jesus is put away, what need is there of any further sacrifice on account of it? The Atonement is complete! Let us, therefore, rejoice in it and praise God for it!
 
 19-22. Having therefore, brethren, boldness to enter into the Holiest by the blood of Jesus, by a new and living way, which He has consecrated for us, through the veil, that is to say, His flesh; and having an High Priest over the house of God; let us draw near with a true heart in full assurance offaith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
-
 
 ---
 [[Sermon 2692 Church Increase|← #2692]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2694 Grace Preferred to Gifts|#2694 →]]

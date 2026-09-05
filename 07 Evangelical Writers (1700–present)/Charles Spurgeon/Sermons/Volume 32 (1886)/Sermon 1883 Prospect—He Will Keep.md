@@ -12,16 +12,13 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Prospect—"He Will Keep"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1883
 
-DELIVERED BY.
-
 > "Now I am no more in the world, but these are in the world, and I come to You. Holy Father, keep through Your own name those whom You have given Me that they may be one, as We are. While I was with them in the world, I kept them in Your name: those whom You gave Me I have kept, and none of them is lost, but the son of perdition; that the Scripture might be fulfilled." John 17:11,12.
 
-THE PASTOR'S RETURN. THREE SPECIALLY- SELECTED SERMONS TO HIS CHURCH, CONGREGATION, READERS AND FRIENDS, CONSISTING OF
+## The Pastor's Return. Three Specially- Selected Sermons to His Church, Congregation, Readers and Friends, Consisting Of
 
 A RETROSPECT, A PROSPECT [No. 1883] AND AN EXHORTATION [No. 1884.]
 
@@ -108,7 +105,6 @@ Remember that double-handed safety of which Jesus speaks in John 10:28, 29—"Th
 Do you belong to Christ, dear Hearer? You are not alone in being owned by that royal Proprietor—many of us are the sheep of His flock and the children of His love. We are going to gather around our Lord's table. Will you go away, or will you come with us and say, "We belong to Him and we would share His banquet of love?" If you must go away this once, hasten to put yourself right, that you may obey your Lord in the future. End this forgetfulness of your dying Lord, I pray you! Give yourself to Jesus and that shall be the best evidence that the Father gave you to Jesus, for never did a heart give itself to Jesus except as the result of the eternal purpose of God and the work of the Spirit within. Beloved Hearer, yield yourself to the Well-Beloved, whose love shall henceforth be your joy, your safeguard, your perfection, your bliss! Yield yourself, now, without an hour's delay!
 
 Let the Lord's people now come and keep the feast with joy and gladness, singing praises unto the name of the Great Keeper of Israel who does neither slumber nor sleep!
-
 
 ---
 [[Sermon 1882 Retrospect—The Lord Has Blessed|← #1882]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1884 Exhortation—Set Your Heart|#1884 →]]

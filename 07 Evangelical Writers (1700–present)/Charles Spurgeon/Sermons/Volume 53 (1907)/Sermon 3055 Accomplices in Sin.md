@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Accomplices in Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3055
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Neither be partaker of other men's sins." 1 Timothy 5:22.
 
@@ -165,7 +162,7 @@ That, on the Cross, He shed His blood
 
 From sin to set me free!"
 
-EXPOSITION BY C. H. SPURGEON: PSALM 73.
+## Exposition by C. H. Spurgeon: Psalm 73
 
 You may have noticed that the 73rd Psalm and the 37th Psalm are on the same subject. It will help you to recall this fact if you remember that the figures are the same, only reversed.
 
@@ -220,7 +217,6 @@ then?
 26\. 27. My flesh and my heart fails; but God is the strength of my heart and my portion forever For, lo, they that are far from You shallperish: You have destroyed all them that go a whoring from You. That is, setting their hearts on unlovely things and forgetting to love God.
 
 28\. But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all Your works.The Psalm ends jubilantly, as it began, though part of it had been in a minor key.
-
 
 ---
 [[Sermon 3054 Pardon and Justification|← #3054]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3056 The Guilt and the Cleansing|#3056 →]]

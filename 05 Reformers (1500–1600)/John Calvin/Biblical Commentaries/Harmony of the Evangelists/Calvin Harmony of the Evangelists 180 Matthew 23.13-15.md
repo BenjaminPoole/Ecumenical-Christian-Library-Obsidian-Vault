@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 180. Matthew 23:13-15; Mark 12:40 Luke 11:52; 20:47
-
-MATTHEW 23:13-15; MARK 12:40  
-LUKE 11:52; 20:47
 
 **13.** But woe to you, scribes and Pharisees, hypocrites! For you shut up the kingdom of heaven against men; for you do not enter yourselves, and do not permit those who come to enter. **14.** And woe to you, scribes and Pharisees, hypocrites! for you devour widows’ houses, and that under the disguise of a long prayer; therefore you will be the more severely punished. **15.** Woe to you, scribes and Pharisees, hypocrites! for you compass sea and land to make [^1] one proselyte; and when he is made, [^2] you make him twice as much the child of hell as yourselves.
 

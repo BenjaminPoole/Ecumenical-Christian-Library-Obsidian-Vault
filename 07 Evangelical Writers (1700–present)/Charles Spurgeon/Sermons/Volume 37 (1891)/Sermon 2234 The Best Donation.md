@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Best Donation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2234
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And this they did, not as we hoped, but first gave themselves to the Lord, and unto us by the will of God." 2 Corinthians 8:5.
 
@@ -166,7 +163,6 @@ service to his Lord, he always lived wherever his pastor told him to live, seein
 The sum of all that I have said is this—let all who are not the Lord's come and, first of all, give themselves to Him and then give themselves to His people and to His service. And let those of us who are already Christ's, keep together and fulfill our vows more than ever we have done—and so prove continually that we have given ourselves to the Lord and to His people, according to His will. Thus shall God be magnified, Christ glorified, His Church increased and the world blessed. God grant it, for Jesus Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 8.
-
 
 ---
 [[Sermon 2233 Both Sides of the Shield|← #2233]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2235 A Warrant for Your Apprehension|#2235 →]]

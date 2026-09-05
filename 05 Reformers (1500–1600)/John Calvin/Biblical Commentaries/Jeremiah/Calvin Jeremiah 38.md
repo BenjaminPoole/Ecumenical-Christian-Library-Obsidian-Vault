@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 38
 
-**CHAPTER 38**
+***Chapter 38***
 
 ## Jeremiah 38:1-4
 
@@ -63,7 +62,7 @@ As to these couriers, their arrogance was inexcusable in daring to condemn Jerem
 
 ## Prayer Lecture 147
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou invitest us daily to thyself with so much kindness, and givest us also time to repent, and then offerest to us the hope of mercy and salvation, if we return to thee, — O grant, that we may not pass by such benevolent warnings with deaf ears, but in due time attend to thee, and with true and sincere acknowledgment of all our sins so surrender up ourselves to thee, that we may find thee to be merciful; and that when we return to thee we may so continue in obedience to thee, that we may be capable of receiving thy constant kindness, until the full fruition of it shall be given us in thy celestial kingdom, through Christ our Lord. — Amen.
 
@@ -143,7 +142,7 @@ There is no doubt but that Zedekiah in course of time entertained a higher regar
 
 ## Prayer Lecture 148
 
-**PRAYER**
+## **Prayer**
 
 Grant, omnipotent God, that since the life of thy servants ought to be deemed precious by us, each of us, according to his ability may strive to do his part in this respect, and, in the meantime, so cultivate mutual love as to assist one another in time of necessity, and that we may also be so solicitous respecting thy servants, as to consecrate all our efforts, all our labors, and all our services to thee, and strive thus to please thee, so that all our doings may be directed to this end, until, having at length finished the course of our present warfare, we shall come to that rest in thy celestial kingdom, which has been procured for us by the blood of thine only-begotten Son. — Amen.
 
@@ -221,7 +220,7 @@ We now perceive the meaning of the Prophet: *Go forth then shall women,* that is
 
 ## Prayer Lecture 149
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou daily invitest us to repentance by constant exhortations, we may seriously reflect on thy goodness, and in due time return to thee and submit to thy will, and never refuse to undergo the punishment thou layest on us; and that we may not in the meantime so provoke thy extreme vengeance, as to find thee a rigorous judge, but ever experience, even under punishment, thy paternal mercy, until we shall at length come to the fullness of that joy which is laid up in heaven for us in Christ Jesus our Lord. — Amen.
 

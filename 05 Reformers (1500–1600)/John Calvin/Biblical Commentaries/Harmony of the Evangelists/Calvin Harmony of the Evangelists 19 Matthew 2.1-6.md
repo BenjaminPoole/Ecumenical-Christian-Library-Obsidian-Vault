@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 19. Matthew 2:1-6
-
-**MATTHEW 2:1-6**
 
 **1**. Now when Jesus had been born in Bethlehem of Judea, [^1] in the times of Herod the King, lo, Magi from the East came to Jerusalem, **2**. Saying, Where is he who is born King of the Jews? for we have seen his star in the East, and have come that we may worship him. **3**. And having heard these things, Herod the King was troubled, and all Jerusalem with him. **4**. And having assembled all the chief priests and scribes of the people, he inquired at them where Christ should be born. **5**. But they said to him, In Bethlehem of Judea: for thus it has been written by the prophet: **6**. And thou, Bethlehem, in the land of Judah, art by no means the least among the princes of Judah: for out of thee shall come the leader, [^2] who shall feed my people Israel.
 

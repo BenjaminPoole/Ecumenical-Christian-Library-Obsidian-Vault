@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Euthyphro
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-EUTHYPHRO
+## Euthyphro
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 In the Meno, Anytus had parted from Socrates with the significant words:
 'That in any city, and particularly in the city of Athens, it is easier
@@ -250,16 +245,11 @@ of similarity or difference, and still less from arguments respecting
 the suitableness of this little work to aid Socrates at the time of his
 trial or the reverse, can any evidence of the date be obtained.
 
-
-
-
-EUTHYPHRO
-
+## Euthyphro
 
 PERSONS OF THE DIALOGUE: Socrates, Euthyphro.
 
 SCENE: The Porch of the King Archon.
-
 
 EUTHYPHRO: Why have you left the Lyceum, Socrates? and what are you
 doing in the Porch of the King Archon? Surely you cannot be concerned in

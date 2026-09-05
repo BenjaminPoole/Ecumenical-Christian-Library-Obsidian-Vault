@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. IV.
 
-CONTAINING OBSERVATIONS ON ROM. V. 12, TO THE END.
+*Containing Observations on Rom. V. 12, to the End*
 
 ---
 

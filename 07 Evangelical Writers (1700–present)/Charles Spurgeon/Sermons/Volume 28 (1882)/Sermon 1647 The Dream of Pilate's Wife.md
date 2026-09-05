@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Dream of Pilate's Wife
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1647
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 26, 1882,.
+*Delivered on Lord's-Day Morning, February 26, 1882*
 
 > "When he was set down on the judgment seat, his wife sent unto him, saying, Have you nothing to do with thatjust Man: for I have suffered many things this day in a dream because of Him." Matthew 27:19.
 
@@ -134,7 +133,6 @@ It is a dreadful thing to sin against a mother's prayers! She stands in your way
 It is hard for me to talk to you like this. If it is coming home to any of you, it will be very hard for you to hear it. Indeed, I hope it will be so hard that you will end it by saying, "I will yield to love which assails me by such tender entreaties." It will not be a piece of mere imagination if I conceive that at the Last Great Day, when Jesus sits upon the Judgment Seat, and Pilate stands there to be judged for the deeds done in the body, that his wife will be a swift witness against him to condemn him! I can imagine that at the Last Great Day there will be many such scenes as that, wherein those who loved us best will bring the most weighty evidences against us, if we are still in our sins! I know how it affected me as a lad when my mother, after setting before her children the way of salvation, said to us, "If you refuse Christ and perish, I cannot plead in your favor and say that you were ignorant. No, but I must say, Amen, to your condemnation."
 
 I could not bear that! Would my mother say, "Amen," to my condemnation? And yet, Pilate's wife, what can you do otherwise? When all must speak the truth, what can you say but that your husband was tenderly and earnestly warned by you and yet consigned the Savior to His enemies? Oh, my ungodly Hearers, my soul goes out after you! "Turn you, turn you, why will you die?" Why will you sin against the Savior? God grant you may not reject your own salvation, but may turn to Christ and find eternal redemption in Him! "Whoever believes in Him has everlasting life."
-
 
 ---
 [[Sermon 1646 A Home Question and a Right Answer|← #1646]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1648 Pilate and Ourselves Guilty of the Savior's Death|#1648 →]]

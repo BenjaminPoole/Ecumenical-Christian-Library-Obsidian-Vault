@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Preparation for Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3538
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now He who has prepared us for this very thing is God, who has also given us the earnest of the Spirit." 2 Corinthians 5:5.
 
@@ -112,7 +109,6 @@ But seek enduring happiness
 In You, and You alone."
 
 But, oh, suppose you feel persuaded and honestly admit that you are not prepared to die, not made meet for Heaven? Do not utterly despair, but be grateful that you live where the Gospel is preached! "Faith comes by hearing, and hearing by the Word of God." Be much in hearing the Word and be much in earnest prayer that the hearing may be blessed to your soul. Above all, give diligence to that Divine Command which bids you trust in Jesus Christ, whom He has sent. Eternal Life lies in the nutshell of that one sentence, "Believe in the Lord Jesus Christ, and you shall be saved." All that is asked of you—and even that Grace gives you—is simply to trust in Him who, as Son of God, died for the sins of men! God give you that faith, and then may you meet death with joy, or look forward to the coming of the Lord with peace, whichever may be your lot. Amen.
-
 
 ---
 [[Sermon 3537 A Definite Challenge for Definite Prayer|← #3537]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3539 Fine Pleading|#3539 →]]

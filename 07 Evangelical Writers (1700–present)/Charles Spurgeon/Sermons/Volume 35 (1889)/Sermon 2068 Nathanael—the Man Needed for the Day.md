@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Nathanael—the Man Needed for the Day
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2068
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold an Israelite indeed, in whom is no deceit!" John 1:47.
 
@@ -148,7 +145,6 @@ Remember that there is an absolute necessity that a Christian should possess tho
 You would suppose that they possessed the beauty of holiness. But see them when the paint is off—catch them at home—watch them in their own families—trace them into their secret places and there you will say, "Can these be the same men?" When one saw a woman of eighty tricked out like a girl of eighteen, he shouted, "What old hag is this?" So might you say of many a brave professor, "What disgraceful creature is this?" That which we thought was the beauty of Divine Grace we find to be the worn and shriveled countenance of the old man hidden beneath coats of deceptive coloring. Loathe all this and be as free from it as you would wish to be free from theft or murder.
 
 O Sirs, if any of us are lost, let us at least know that we are so. If we hope that we are saved, God grant that it may be a true hope and a vital experience. I will speak to you, one and all, the Gospel of the Grace of God and I have done. To each one the Word of the Lord says, "Believe on the Lord Jesus Christ and you shall be saved"—saved from hypocrisy, saved from falsehood, saved from deceit and guilt—for "he that believes and is baptized shall be saved. But he that believes not shall be damned." May God set His seal upon this admonition, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2067 The Spirit and the Wind|← #2067]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2069 My Own Personal Holdfast|#2069 →]]

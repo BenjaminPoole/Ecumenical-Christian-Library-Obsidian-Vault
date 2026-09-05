@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 5. An Answer unto Sir Thomas More's Dialogue: To the First Book
 
-THE SOLUTIONS AND ANSWERS UNTO M. MORE'S FIRST BOOK.
+*The Solutions and Answers unto M. More's First Book*
 
 In the first chapter, to begin the book withal, to bring you good luck, and to give you a say l, or a taste what truth shall follow, he feigneth a letter sent from no man.
 
@@ -33,7 +32,7 @@ St Hierome, St Basil, St Gregory, with so many a godly conning man as hath been 
 
 [4 « Christ also promised that Saint Mary Magdalene should be worshipped through the world, and have here an honourable remem-
 
-ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
+## Answer to Sir Thomas More*s Dialogue. [Chap
 
 True wor shipping of saints.
 
@@ -52,8 +51,6 @@ II.] THE FIRST BOOK. 81 that he so did ! If in this world, when I have need of m
 The devil desired to have his imaginations worshipped as God, and his popish children desire the same, and compel men so to honour them; and of their devilish nature describe they both God and his saints. And therefore I say, all such fleshly AH popish imaginations, as to fast the Wednesday in the worship of St aTeTSry.3 John, or of St Catharine, or what saint it be, or to fast saints' eves, or to go a pilgrimage unto their images, or to offer to them, to do them pleasure, thinking thereby to obtain their favour, and to make special advocates of them, as a man would win the favour of another with presents and gifts, and think ing that if we did it not, they would be angry, are plain idol atry and image-service ; for the saint delighteth in no such. And when thou stickest up a candle before the image, thou candies. mightest with as good reason make an hollow belly in the image, and pour in meat and drink : for as the saint neither eateth nor drinketh, so hath he no bodily eyes to delight in the light of a candle.
 
 Another is this, God giveth not the promises that are in we receive Christ for bodily service, but of his mercy only, unto his own g°tdh™rfor glory. Yea, and of the father's goodness do all natural children receive. Ask a little boy, who gave him his gay coat? He answereth, 'his father.' Ask him why? And he answereth, 'Because he is his father, and loveth him; and because he is his son.' Ask him whether his father love him ? And hesaith, 'Yea.' Ask him how he knoweth it? And he saith, 'Because he giveth me this, or that.' Ask him whether he love his father? He saith, 'Yea.' Ask him why? He saith, 'for his father loveth him, and giveth him all thing.' Ask him, why he worketh? He answereth, 'his father will so have it.' Ask him, why his father giveth not such and such boys coats too? 'Nay, saith he, they be not his sons; their fathers must give them, as mine doth me.' Go now, ye popish bond-servants, and receive your reward for your false works, and rob your brethren, and reign over them with violence and cruel tyranny; and make them worship your pillars, poleaxes, images and hats. And we will receive of the merciful
-
-82 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 we must do kindness of our Father; and will serve our brethren freely of very i0ve; and will be their servants, and suffer for their sakes. And thereto, our good deeds, which we do unto our neighbour's need, spring out of our righteousness or justifying, which is the forgiveness of our sins in Christ's blood ; and of other righteousness know we not before God. And contrariwise, your righteousness or justifying, which standeth (as your faith doth) with all wickedness, springeth out of your holy works; which ye do to no man freely, save unto painted posts.
 
@@ -78,8 +75,6 @@ Stephen's tomb. I answer, that the miracles done at saints' Miracles i -i f i �
 A x confirm their they did, when they were alive, were done; even to provoke doctrine, unto the faith of their doctrine ; and not to trust in the place, or in bones, or in the saint : as Paul sent his napkin to heal the sick; not that men should put trust in his napkin, but be lieve his preaching.
 
 And in the old Testament Elisseus healed Naaman, the Eiiseus. heathen man, in the water of Jordan, not to put trust in the water, or to pray in that place; but to wonder at the power of God, and to come and believe as he also did. And that his bones, when he was dead, raised up a dead man, was not done that men should pray to him, (for that was not lawful then, by their own doctrine,) neither to put their trust in his bones. For God, to avoid all such idolatry, had polluted all Dead bones dead bones ; so that whosoever touched a dead bone, was unclean, and all that came in his company, until he had washed
-
-84 ANSWER TO SIR THOMAS MORELS DIALOGUE. [ciIAP.
 
 Pilgrimages.
 
@@ -117,11 +112,9 @@ doth for his father when he is dead ; but mourneth for his sins, and, at the sig
 
 [3 So C. U. L. ed. Daye omits C%ra*.]
 
-86 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 the consolation of him that died thereon. But there is no sight, whether of the cross, or aught else, that can move you to leave your wickedness ; for the testament of God is not written in your hearts.
 
-The church And when he speaketh of praying at church ; who de- prayer, nieth him, that men might not pray at church, or that the church should not be a place of prayer? But that a man could not pray save at church, and that my prayers were not heard as well elsewhere, if I prayed with like ferventness and strong faith, is a false lie.
+The church And when he speaketh of praying at church ; who de-prayer, nieth him, that men might not pray at church, or that the church should not be a place of prayer? But that a man could not pray save at church, and that my prayers were not heard as well elsewhere, if I prayed with like ferventness and strong faith, is a false lie.
 
 And when he speaketh of the presence of God in the temple ; I answer, that the prophets testified how that he dwelt not there; and so doth Paul (Acts xvii.); and so doth Stephen (Acts vii.); and Solomon, iii. of the Kings viii. And
 
@@ -157,8 +150,6 @@ God is wor shipped in our hearts, and not in any other place.
 
 The father careth most for the youngest.
 
-88 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
-
 miracle of Siloe1, I answer, that the said miracle, and that Christ sent the blind thither to receive his sight, were not done that men should pray in the pool: but the second miracle was so done, to declare the obedient faith of the blind, and to make the miracle more known; and the first, for the word of God that was preached in the temple, to move the country about to come thither, and learn to know God, and to become a lively temple, out of which they might ever pray, and in all places. Neither was the miracle of Lazarus done, that men should more pray in that place than in another, but to shew Christ's power, and to move the people, through wonder ing at the miracle, to hearken unto God's word and believe it, as it is to see plainly.
 
 Moreover God so loveth no church, but that the parish have liberty to take it down, and to build it in another place : yea, and if it be timber, to make it of stone, and to alter it at their pleasure. For the places, yea, and the images must serve us, and not God, which is a Spirit, and careth for none more than other, nor is otherwise present in one place than in another. And likewise is it of saints' bones : we may remove them whither we will, yea, and break all images thereto, and make new, or if they be abused, put them out of the way for ever, as was the brasen serpent ; so that we be lords over all such things, and they our servants. For if the saints were our servants, how much more their bones ! It is the heart, and not the place, that worshippeth God. The kitchen-page, turning the spit, may have a purer heart to God than his master at church ; and therefore worship God better in the kitchen than his master at church. But when will M. More be able to prove, that miracles done at saints' tombs were done that we should pray unto the saints; or that miracles done by dead saints, which alive neither preached God's word nor could do miracle, are done of God?
@@ -185,8 +176,6 @@ Concerning his sixteenth chapter, of the maid of Ipswich, The maid of I answer, 
 
 " The author sheweth that whoso would inquire should soon find that at pilgrimages be daily many great and undoubted miracles wrought and well known. And specially he speaketh of the great
 
-90 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
-
 should be done to prove them, whether their hearts were fast in the Lord. And even so Christ and the apostles shewed us before, that lying miracles should come to pervert the very elect, if it were possible. And therefore we must have a rule, and open miracle shewed at our lady of Ipswich, of late, upon the daughter of sir Roger Wentworth, Knt."
 
 "And as for the point that we spake of, concerning miracles done in our days at diverse images, where these pilgrimages be, yet could I tell you some such done so openly, so far from all cause of suspicion, and thereto testified in such sufficient wise, that he might seem almost mad that hearing the whole matter will mistrust the miracles. Among which I durst boldly tell you for one the wonderful work of God, that was within these few years wrought in the house of a right wor shipful knight, sir Roger Wentworth, upon divers of his children, and specially one of his daughters, a very fair young gentlewoman, of twelve years of age, in marvellous manner vexed and tormented by our ghostly enemy, the devil, her mind alienated and raving, with despising and blaspheming of God, and hatred of all hallowed things, with knowledge and perceiving of the hallowed from the unhallowed, all were she nothing warned thereof; and after that moved in her own mind, and monished by the will of God, to go to our lady of Ipswich. In the way of which pilgrimage she prophesied and told many things, done and said at the same time in other places, which were proved true, and many things said, lying in her trance, of such wisdom and learning, that right cunning men highly marvelled to hear of so young an unlearned maiden, when herself wist not what she said, such things uttered and spoken, as well learned men might have missed with a long study ; and finally being brought and laid before the image of our blessed lady, was there, in the sight of many wor shipful people, so grievously tormented, and in face, eyes, look, and countenance, so grisly changed, with her mouth drawn aside, and her eyes laid out upon her cheeks, that it was a terrible sight to behold. And after many marvellous things, at the same time shewed upon divers persons by the devil, through God's sufferance, as well all the remnant as the maiden herself, in the presence of all the company, restored to their good state, perfectly cured and suddenly. And in this matter no pretext of begging, no suspicion of feigning, no possi bility of counterfeiting, no simpleness in the seers, her father and mother right honourable and rich, sore abashed to see such chances in their children, the witnesses great number, and many of great wor ship, wisdom, and good experience, the maid herself too young to feign. And the end of the matter virtuous, the virgin so moved in her mind with the miracle, that she forthwith, for aught her father could do, forsook the world and professed religion in a very good and godly company at the Minories, where she hath lived well and gra ciously ever since."]
@@ -203,15 +192,13 @@ Ghost in the maid of Ipswich. For they were both in like trances; both ravished 
 
 Now as for the maid of Ipswich, she was possessed of the devil by their own confession: whence then came that revela tion, that she should be holp, and all her holy preaching ? If of the devil, then was the miracle and all of the devil : if of the Holy Ghost, then was she inspired with the Holy Ghost, and had the devil within her, both at once. And inasmuch p Elizabeth Barton, a nun, called for a while " The holy maid of Kent," was executed as a selfconvicted impostor, in little more than three years after Tyndale's penning this paragraph. For accounts of her pretended visions, and of the difficulties in which More involved himself by consulting her, the reader may look at Strype's Eccles. Mem. Vol. i. chap. 25. Burnet's Hist, of Reform. B. n. Jenkyns* Remains of Cranmer, Vol. i. Letters Ixxxii. and Ixxxiv. and Anderson's Annals, B. i. § xi.]
 
-92 ANSWER TO SIR THOMAS MORfl's DIALOGUE. [CHAP.
-
 as the maid of Kent was inspired by the Holy Ghost, by their confession; whence came that stopping of her throat, that rav ing, those grievous pangs, that tormenting, disfiguring, drawing of her mouth awry, and that fearful and terrible countenance? If of the Holy Ghost, and then why not the revel and gambols of the maid of Ipswich also? And then what matter maketh it, whether a man have the devil or the Holy Ghost in him ? If ye say of the devil, then had she likewise both the devil such as were and the Holy Ghost, both at once. Moreover, those possessed, fl!ffEnls wm'cn Christ helped, avoided Christ, and fled from him; so Christthat other, which believed, were fain to bring them unto him against their wills. For which causes, and many more that might be made, thou mayest conclude, that the devil vexed them and preached in them, to confirm feigned confession, and dumb ceremonies, and sacraments without signification, and damnable sects, and shewed them those revelations; and as soon as they were brought before our lady's image, departed out of them, to delude us, and to turn our faiths from Christ un^0 an °^ block : as we read in the legend of St Bartho lomew, how the devils hurt men in their limbs, and as soon as they were brought into a certain temple before an idol, there they departed out of them, and so beguiled the people, making them believe that the idol had healed them of some natural diseases1.
 
 Howbeit let it be the Holy Ghost that was in the maid of Kent. Then, I pray you, what thing, worthy of so great therma?lofd Pra*se» natn our ^&J done? Our lady hath delivered her of ]Susre.aU the ^°ty Gh°st) and emptied her of much high learning, which, as a goodly poetess, she uttered in rhymes. For appose her now of Christ, as scripture testifieth of him, and thou shalt find her clean without rhyme or reason. The maid was at home also in heavenly pleasures; and our lady hath de livered her out of the joys of Orestes2, and brought her into the miseries of middle earth again.
 
 [i Ingressus Bartholomseus templura, in quo erat idolum Astaroth, quasi peregrinus ibi manere ccepit. In hoc idolo quidam daemon habitabat, qui se languentes curare dicebat ; sed non subveniebat sanando, sed homines primo leedendo, deinde a Isesione cessando. Jussu apostoli dsemon confiteri coepit, qualiter ad animarum proditionem populum ludificabat, eis illudens ut sic ipsum ut deum adorarent, et verum Deum cceli ncgarent.—P. de Natal. Catalog. Sanct. Argent. 1513. Lib. vii. cap. ciii.] p That is, of the insane; as Orestes was according to Grecian story.]
 
-XVII. XVIII.] THE FIRST BOOK. 93
+## XVII. XVIII.] the First Book. 93
 
 The Seventeenth Chapter.
 
@@ -222,8 +209,6 @@ The Eighteenth Chapter.
 In the eighteenth, where he would fain prove that the Traditions, pope's church cannot err, he allegeth things whereof he might be ashamed, if he were not past shame, to prove that the bishops have authority to lade us with traditions, neither pro fitable for soul nor body. He bringeth a false allegory upon the overplus that the Samaritan, if it were laid out, promised to pay when he came again, for the bishops' traditions3. Nay, Allegories. M. More, besides that allegories, which every man may feign at his pleasure, can prove nothing, Christ interpreteth it him self; that it betokeneth a kind mind, and a loving neighbour, which so loved a stranger, that he never left caring for him, both absent as well as present, until he were full whole, and comen out of all necessity. It signifieth that the prelates, AJ™^*-f if they were true apostles, and loved us after the doctrine of ^etfearsaable Christ, would sell their mitres, crosses, plate, shrines, jewels maritanand costly shews, to succour the poor, and not rob them of all that was offered unto them, as they have done; and to repair things fallen in decay and ruin in the commonwealth, and not to beggar the realms with false idolatry and image-
 
 [3 In Chap. 18, of Moro's Dial, the objector expounds Matt, xxiii. 2, 3, as teaching us, " that Christian men in like wise obey the bishop and prelates, commanding only such things as [Christ] himself hath commanded his people in his gospel and his own law." Upon which More says to him, "And in nothing else ! What meaneth it then that our Lord, in the parable of the Samaritan, bearing the wounded man into the inn of his church, and delivering him to the host, after that he had himself dressed his wounds with wine and oil, and left with the host the two groats of the two testaments, promised the host be side that whatsoever the host would bestow upon him more, he would, when he came again, recompense him therefor?" p. 142. More intended that the meaning should be confessed to be that put upon this part of the parable by several Romanists; viz. that the promised supple mentary gift for the healing of the souls left under the church's care signified the traditions which should gradually be brought to light.]
-
-94 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
 
 service, that they have not left them wherewith to bear the cost of the common charges.
 
@@ -262,8 +247,6 @@ And when he saith God is honoured by praying to saints, because it is done for h
 [2 That is, part, separate.]
 
 [3 " Very well, quod I, then erreth he as much and as far lacketh his right belief, that believethtoo much, as he that believeth too little." More's Dial. p. 145.]
-
-96 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 fervent devotion to saints, we should pray to no saints at all, seeing we have promises of all things in our Saviour Jesus, and in the saints none at all.
 
@@ -307,9 +290,7 @@ And as for the Saboth7, a great matter, we be lords over the Saboth; and may yet
 
 [7 Tyndale has spelt this word Saboth ; More has spelt it Sabbaoth.]
 
-[TYNDALE, HI.]
-
-98 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [cHAP.
+## [Tyndale, Hi.]
 
 Saturday, than to put difference between us and the Jews; and lest we should become servants unto the day, after their superstition. Neither needed we any holy day at all, if the people might be taught without it1.
 
@@ -336,8 +317,6 @@ Now, sir, God hath made his last and everlasting testaM. c. ment3, and no more b
 [3 In Day's edition the words so that all is open occur here ; but they do not appear in More's quotation, and seem as if added by one who did not duly consider that by the word testament Tyndale here means God's covenant.]
 
 [4 The clause, Because all is done save the doom, is supplied from More's quotation.]
-
-100 ANSWER TO SIR THOMAS MORfi's DIALOGUE. [cHAP.
 
 M c concluded such things as were in them determined, as stories Mlxcxxv' make mention. And by the same scripture we know which councils were true, and which false. And by the same scrip ture shall we, if any new question arise, determine it also. Abraham answered the rich man, "They have Moses and the prophets, let them hear them;" and said not, ' They have the ;UL scribes and the Pharisees, whom they should hear preaching out of the seat of their own doctrine,' without scripture. Lukex. And when he allegeth, "He that heareth you heareth me,
 
@@ -373,7 +352,7 @@ And upon that M. More concludeth his first book, that M. More'* whatsoever the c
 
 [4 More's conclusion is expressed by himself as follows, in the same chapter : " Then are ye, quod I, also fully answered in this, that where ye said ye should not believe the church telling you a tale of their own, but only telling you scripture, ye now perceive that in such things as we speak of, that is to wit, necessary points of our faith, if they tell you a tale, which if it were false were damnable, ye must believe and may be sure that, sith the church cannot in such things err, it is very true all that the church in such things telleth you; and that it is not their own word, but the word of God, though it be not in scripture. That appeareth well, quod he. Then are ye, quod I, as fully satisfied that where ye lately said that it were a disobedience to God, preferring of the church before himself, if he shall believe the church in such things as God in his holy scripture sayeth him self the contrary, ye now perceive it can in no wise be so. But sith
 
-ANSWER TO SIR THOMAS MORE'S DIALOGUE.
+## Answer to Sir Thomas More's Dialogue
 
 The po e is antichrist.
 
@@ -387,7 +366,7 @@ For first Peter saith (2 Pefc- "•)» "There shall be false teachers among you 
 
 his church, in such things as we speak of, cannot err, it is impossible that the scripture of God can be contrary to the faith of the church. That is very true, quod he. Then it is as true, quod I, that ye be further fully answered in the principal point, that the scriptures laid against images, and pilgrimages, and worship of saints, make nothing against them. And also that those things, images I mean and pil grimages, and praying to saints, are things good, and to be had in honour in Christ's church, sith the church believeth so; which as ye grant, and see cause why ye should grant, can in such points not be suffered, for the special assistance and instruction of the Holy Ghost, to fall into error. And so be we, for this matter, at last, with much work, come to an end." Sir T. More's Works, p. 176.]
 
-THAT THE POPE IS ANTICHRIST. 103
+## That the Pope Is Antichrist. 103
 
 Now the pope hath ten thousand sects cropen in, as pied in their consciences as in their coats, setting up a thousand by the pope. manner works to be saved by; which is the denying of Christ : and we see many, and almost all together, follow their dam nable ways. And in that Peter said that they shall rail' and blaspheme the truth, it followeth that there shall be a little flock reserved, by the hand of God, to testify the truth unto them ; or else how could they rail on it ? And it followeth that those railers shall be the mightier part in the world, or else they durst not do it. Now what truth in Christ doth not Th the pope rebuke, and, in setting up false works, deny altoof gether? And as for their feigned words, where findest thou in all the scripture purgatory, shrift, penance, pardon, pcena, wordculpa, hyperdoulia, and a thousand feigned terms more? And as for their merchandise, look whether they sell not all God's laws, and also their own, and all sin, and all Christ's merits, and all that a man can think. To one he selleth the The nope fault only ; and to another the fault and the pain too1 ; and and^ain?
 
@@ -396,8 +375,6 @@ Now the pope hath ten thousand sects cropen in, as pied in their consciences as 
 And Christ saith (Matt, xxiv.),"! " There shall false Matt. anointed arise, and shew signs and wonders : " that is, they shall shew miracles, and so prevail that, if it were possible, the elect should be brought out of the true way. And these false anointed, by the same rule of Paul, and in that Christ saith also that they shall come in his name, must be in the church of Christ, and of them that shall call themselves Christen, and shall shew their wonders before the elect, and be a sore temptation unto them, to bring them out of the way. And the elect, which are few in comparison of them that be called and come feignedly, shall among that great multitude be kept by the mighty hand of God against all natural possibility. So that the church and very elect shall never be such a multiThe popish tude together by themselves, without persecution and temptapersecutors, tion of their faith, as the great multitude under the pope is, fefe™ su which persecute and suffer not. And these which the pope calleth heretics, shew no miracles, by their own confession; neither ought they, inasmuch as they bring no new learning,
 
 [! That is, to some he sells exemptions a culpa only, and to others a poena et culpa.~\
-
-104 ANSWER TO SIR THOMAS MORE's DIALOGUE.
 
 The church of Christ is ever perse cuted.
 
@@ -421,7 +398,7 @@ THAT THE POPE IS ANTICHRIST. 105 shall be perilous times. For there shall be men
 
 , . .1 TIT StPaulde- themselves, covetous, high-minded, proud, railers, disobedient •crib^Jdth^ to father and mother, unthankful, ungodly, churlish, promise- ™£yh co~ breakers, accusers, or pick-quarrels, unloving, despisers of the good, traitors, heady, puffed up, and that love lusts more than
 
-God, having an appearance of godliness, but denying the power thereof." And by " power" I understand the pure God's word is faith in God's word ; which is the power and pith of all godli- ^ pjjj^ ness, and whence all that pleaseth God springeth. And this text pertaineth unto them that profess Christ. And in that he saith, " having an appearance of godliness," and of that fol- loweth in the text, "Of this sort are they that enter into men's houses, and lead women captive laden with sin, ever asking and never able to attain unto the truth" (as our hearers of confesconfession.
+God, having an appearance of godliness, but denying the power thereof." And by " power" I understand the pure God's word is faith in God's word ; which is the power and pith of all godli- ^ pjjj^ ness, and whence all that pleaseth God springeth. And this text pertaineth unto them that profess Christ. And in that he saith, " having an appearance of godliness," and of that followeth in the text, "Of this sort are they that enter into men's houses, and lead women captive laden with sin, ever asking and never able to attain unto the truth" (as our hearers of confesconfession.
 
 sions do) ; it.appeareth that they be such as will be holier than other, and teachers and leaders of the rest. And look whether there be here any syllable that agreeth not unto our spiritualty in the highest degree. Love they not themselves, their own Love of decrees and ordinances, their own lies and dreams, and despise all laws of God and man, regarding no man but them only that be disguised as they be ? And as for their covetousness, which covetous.
 
@@ -432,8 +409,6 @@ Job, to heal the disease, instead of warning the people to mend their living. An
 the names of God ; and whether any man may come to bear rule in this world, except he be sworn to them, and come up under them.
 
 And as for their railing, look in their excommunication, and see whether they spare king, or emperor, or the testa ment of God. And as for obedience to father and mother, Disobedient. nay, they be immediately under God and his holy vicar the pope; he is their father, and on his ceremonies they must wait. And as for unthankful, they be so kind, that if they unthankful. have received a thousand pound land of a man, yet for all that they would not receive one of his offspring unto a night's harbour, at his need, for their founder's sake. And whether ungodly. they be ungodly or no, I report me unto the parchment1. [! In these words Tyndale evidently refers to that document, breakers.
-
-106 ANSWER TO SIR THOMAS MORfi'S DIALOGUE.
 
 church. And as for churlishness, see whether they will not have their causes venged, though it should cost whole regions, yea, and all Christendom, as ye shall see, and as it hath cost half promise. Christendom already. And as for their promise or trucebreaking, see whether any appointment may endure for their dispensations, be it never so lawful, though the sacrament were received for confirmation. And see whether they have not broken all the appointments made between them and
 
@@ -451,7 +426,7 @@ Of these and such like texts, and of the similitudes that Christ maketh in the g
 
 " on eight skins of parchment," of which an account has been given in Vol. i. pp. 35, 36. The ungodly temper of those who dictated it would seem to Tyndale sufficiently conspicuous, from what they had dared to say respecting the consequences likely to follow the reading of the word of God.]
 
-THAT THE POPE IS ANTICHRIST. 107 so that they cannot err therein ; yet, while the world stand- eth, God shall never have a church that shall either persecute, or be unpersecuted themselves any season, after the fashion of the pope. But there shall be in the church a fleshly seed in the church of Abraham and a spiritual ; a Cain and an Abel ; an Ishmael for ever both good and evil.
+THAT THE POPE IS ANTICHRIST. 107 so that they cannot err therein ; yet, while the world stand-eth, God shall never have a church that shall either persecute, or be unpersecuted themselves any season, after the fashion of the pope. But there shall be in the church a fleshly seed in the church of Abraham and a spiritual ; a Cain and an Abel ; an Ishmael for ever both good and evil.
 
 and an Isaac ; an Esau and a Jacob ; as I have said, a worker and a believer ; a great multitude of them that be called, and a small flock of them that be elect and chosen. And the fleshly shall persecute the spiritual; as Cain did Abel, and Ishmael Isaac, and so forth; and the great multitude shall persecute the small little flock, and antichrist will be ever the best Christian man.
 
@@ -460,8 +435,6 @@ So now the church of God is double, a fleshly and a spiThis word ritual : the on
 11 n i • i i_ • IA; calledLu- to call generally ; which messengers bring in a great multitherans and tude, amazed and astonied with miracles and power of the reasons which the preachers make, and therewith be com pelled to confess that there is but one God, of power and might above all, and that Christ is God and man, and born of a virgin, and a thousand other things. And then the great multitude that is called and not chosen, when they have got ten this faith, common as well to the devils as them, and more strongly persuaded unto the devils than unto them, then they go unto their own imaginations, saying, ' We may no longer serve idols, but God that is but one/ And the manner of The fleshly church serve service they fetch out of their own brains, and not of the %%}£'$ word of God; and serve God with bodily service, as they did their own. in times past their idols, their hearts serving their own lusts still. And one will serve him in white; another in black; another in grey; and another in pied. And another, to do Friars. God a pleasure withal, will be sure that his shoe shall have two or three good thick soles under, and will cut him above, The biasing so that in summer, while the weather is hot, thou mayest see ° his bare foot, and in winter his sock. They will be shorn and shaven, and Sadducees, that is to say, righteous1; and Pharisees,
 
 [l This is an allusion to the opinion which derived their name from the Hebrew D^p*1"-!^ , contrary to the ordinarily received opinion,
-
-108 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 that is, separated in fashions from all other men1. Yea, and they will consecrate themselves altogether unto God, and will anoint their hands, and hallow them as the chalice, from all manner lay uses: so that they may serve neither father nor mother, master, lord or prince, for polluting themselves; but must wait on God only, to gather up his rents, tithes, offerings, and all other duties. And all the sacrifice that come they cam is a consume in the altar of their bellies, and make Calil of it;
 
@@ -494,8 +467,6 @@ Christ's blood. And he will not be saved for serving his brethren ; neither prom
 When the great multitude, that be called and not chosen, A pretty Cain, Ishmael, Esau, and carnal Israel, that serve God night between the
 
 11 • i i TI • i t i i i • pope'schurch and day with bodily service and holy works, such as they were wont to serve their idols withal, behold little flock, that they come not forth in the service of God, they roar out, 'Where art thou? Why comest thou not forth and takest holy water?' 'Wherefore?' saith little flock. 'To put away thy sins.' 'Nay, brethren, God forbid that ye should so think; Christ's blood only washeth away the sins of all that repent and believe. Fire, salt, water, bread, and oil be bodily things, given unto man for his necessity, and to help his brother with ; and God that is a spirit cannot be served therewith : neither can such things enter into the soul, to purge her ; for God's word only is her purgation.' 'No!' say they, 'are not such The popish things hallowed? and say we not in the hallowing of them, Jlereth?n~ that whosoever is sprinkled with the water, or eateth of the
-
-110 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 bread, shall receive health of soul and body?' 'Sir, the blessihe little ings promised unto Abraham, for all nations, are in Christ; and out of his blood we must fetch them, and his word is the bread, salt, and water of our souls. God hath given you no power to give, through your charms, such virtue unto unsensible creatures, which he hath hallowed himself, and made them all clean (for the bodily use of them that believe) through his word of promise and permission, and our thanksgiving. God saith, If thou believe St John's gospel, thou shalt be saved; and not for the bearing of it about thee with so many crosses, or for the observing of any such observances.' The popes 'God, for thy bitter passion/ roar they out by and by,
 

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 26. Letter XXV. To the Synod of Prague (February 1413)
-
-LETTER XXV. TO THE SYNOD OF PRAGUE (February 1413)
 
 Heretics should be pointed out, or false accusers punished; Obedience to the Pope; The case of Master Maurice; Reasons why the judgment of the Theological Faculty bhould be rejected 115-17
 

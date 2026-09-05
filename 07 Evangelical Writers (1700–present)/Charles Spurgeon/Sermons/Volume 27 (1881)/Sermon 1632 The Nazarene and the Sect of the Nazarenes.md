@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Nazarene and the Sect of the Nazarenes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1632
 
-DELIVERED ON THURSDAY EVENING, JUNE 9, 1881,.
+*Delivered on Thursday Evening, June 9, 1881*
 
 > "And He came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the Prophets, He shall be called a Nazarene." Matthew 2:23.
 
@@ -128,7 +127,6 @@ of men for His sake, if by any means we may bring honor to Him? I trust it shall
 They would be glad to leave their rest to bear the hardness which a follower of Christ must endure for His dear Captain's sake. Jesus is coming! He is on His way! He may come tonight! He may come before another Sabbath's bells shall ring—and oh, if I have never confessed Him, if I have been ashamed of Him—how shall I face Him? Hear this, you cowards! What will you say when He appears? Be wise and confess Him tonight! Come you out from among the ungodly! Be you separate! Confess your Lord and Master!
 
 "He that with His heart believes, and with His mouth makes confession of Him, shall be saved." "He that believes and is baptized shall be saved. He that believes not shall be damned." God save us from being ashamed of the Nazarene! Amen.
-
 
 ---
 [[Sermon 1631 The Main Matter|← #1631]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1633 Sarah and Her Daughters|#1633 →]]

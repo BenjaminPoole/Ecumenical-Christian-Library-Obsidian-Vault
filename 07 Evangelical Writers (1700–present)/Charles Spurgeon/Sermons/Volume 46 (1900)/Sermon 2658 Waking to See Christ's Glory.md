@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Waking to See Christ's Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2658
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when they were awake, they saw His glory and the two men that stood with Him." Luke 9:32.
 
@@ -87,7 +84,7 @@ But above all, dear Friends, we must be awake with regard to our Lord Himself. O
 
 and passion, by Your glorious Resurrection and Ascension, awaken all our spirits to perceive that You are not far from any one of Your people and that Your Word is still true, "Lo, I am with you always, even unto the end of the world." III. I must not keep you much longer, but I want to say that THIS DOCTRINE OF THE NECESSITY OF OUR
 
-WAKEFULNESS IN ORDER THAT WE MAY SEE THE GLORY OF CHRIST, THROWS A LIGHT ON SEVERAL THINGS.
+## Wakefulness in Order that We May See the Glory of Christ, Throws a Light on Several Things
 
 First, it shows us why some see so little of the glory of Christ ' 'Ah," says one, "I used to see it. I could not get through a sermon without being moved at the thought of my Savior suffering for me, and rising for me. But now I do not seem to get any good out of all the services I attend." Whose fault is that? It is not His, for He is unchanged. Is it mine? Perhaps so and yet, since others see him, surely the blame cannot be allmine. Is it not your fault, Friend? You are not as wide awake as you used to be! It is a curious thing when a man says, "I do not knew how it is that I cannot see as I used to." Why, he has not got his eyes open! Foolish man, let him awaken himself and when he is thoroughly awake, then his eyes will be as good as ever and he will see as much of his Lord's glory as he used to! Old age has not come upon you yet, my Brother, my Sister, though you sorrowfully sing—
 
@@ -111,7 +108,7 @@ Well, Beloved, be content to go to bed when there is such an awakening in store 
 
 The Lord grant to you and to me, dear Friends, to know all the bliss of awakening to behold His glory! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW17:1-5.
+## Exposition by C. H. Spurgeon: Matthew 17:1-5
 
 [Mr. SPURGEON does not appear to have commented on the chapter read before he preached the foregoing Sermon. It has, therefore, been decided to insert his exposition of the parallel passage in Matthew, as he wrote it for The Gospel of the Kingdom. This will enable his Sermon readers, who do not possess his last literary work, to judge as to the contents of the volume upon which he was at workjust eight years ago, within a few days of receiving the call Home. It is one of the most precious of the many memorials of the "promoted" Pastor.]
 
@@ -124,7 +121,6 @@ heads of former dispensations conversed with the Lord as to His decease by which
 4\. Then answered Peter and said unto Jesus, Lord, it is good for us to be here. If You will, let us make here three tabernacles; one for You, and one for Moses, and one for Elijah. The sight spoke to the three beholders, and they felt bound to answer to it. Peter must speak—"Then answered Peter." That which is uppermost comes out—"Lord, it is good for us to be here." Everybody was of his opinion. Who would not have been? Because it was so good, he would gladly stay in this beatific state and get still more good from it. But he has not lost his reverence and, therefore, he would have the great ones suitably sheltered. He submits the proposal to Jesus. "If You will." He offers that, with his Brothers, he will plan and build shrines for the three holy ones. "Let us make here three tabernacles." He does not propose to build for himself, and James, and John, but he says, "One for You, and one for Moses, and one for Elijah." His talk sounds rather like that of a bewildered child! He wanders a little, yet his expression is a most natural one. Who would not wish to abide in such society as this? Moses, Elijah and Jesus! What company! But yet how unpractical is Peter. How selfish the one thought, "It is good for us"! What was to be done for the rest of the twelve and for the other disciples, and for the wide, wide world? A sip of such bliss might be good for the three, but to continue to drink thereof might not have been really good, even for them. Peter knew not what he said. The same might be said of many another excited utterance of enthusiastic saints.
 
 5\. While he yet spoke, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is My beloved Son, in Whom I am well pleased. Hear Him. "While he yet spoke." Such wild talk might well be interrupted! What a blessed interruption! We may often thank the Lord for stopping our babbling. "A bright cloud overshadowed them." It was bright and cast a shadow. They felt that they were entering it and feared as they did so. It was a singular experience, yet we have had it repeated in our own cases. Do we not know what it is to get shadow out of brightness and "a voice out of the cloud"? This is after the frequent manner of the Lord in dealing with His favored ones. The voice was clear and distinct. First came the Divine attestation of the Sonship of our Lord, "This is My beloved Son," and the Father's declaration of delight in Him, "in Whom I am well pleased." What happiness for us that Jehovah is well pleased in Christ and with all who are in Him! Then followed the consequent Divine requirement, "Hear Him." It is better to hear the Son of God than to see saints, or to build tabernacles. This will please the Father more than all else that love can suggest. The good pleasure of the Father in the Lord Jesus is a conspicuous part of His glory. The voice conveyed to the ear a greater glory than the luster of light could communicate through the eyes. The audible part of the Transfiguration was as wonderful as the visible!
-
 
 ---
 [[Sermon 2657 All the Promises|← #2657]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2659 Fallen Asleep|#2659 →]]

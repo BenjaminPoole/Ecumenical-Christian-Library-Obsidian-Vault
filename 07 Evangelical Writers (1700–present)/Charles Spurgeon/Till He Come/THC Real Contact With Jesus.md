@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Real Contact With Jesus
 
 *Till He Come* — Charles H. Spurgeon
 
 ## REAL CONTACT WITH JESUS. “And Jesus said, Somebody hath touched Me: for I perceive that virtue is gone out of Me.”—Luke viii. 46.
-
-## REAL CONTACT WITH JESUS.
 
 OUR Lord was very frequently in the midst of a crowd. His preaching was so plain and so forcible that He always attracted a vast company of hearers; and, moreover, the rumour of the loaves and fishes no doubt had something to do with increasing His audiences, while the expectation of beholding a miracle would be sure to add to the numbers of the hangers-on. Our Lord Jesus Christ often found it difficult to move through the streets, because of the masses who pressed upon Him. This was encouraging to Him as a preacher, and yet how small a residuum of real good came of all the excitement which gathered around His personal ministry! He might have looked upon the great mass, and have said, “What is the chaff to the wheat?” for here it was piled up upon the threshing-floor, heap upon heap; and yet, after His decease, His disciples might have been counted by a few scores, for those who had spiritually received Him were but few. Many were called, but few were chosen. Yet, wherever one was blessed, our Saviour took note of it; it touched a chord in His soul. He never could be unaware when virtue had gone out of Him to heal a sick one, or when power had gone forth with His ministry to save a sinful one. Of all the crowd that gathered round the Saviour upon the day of which our text speaks, I find nothing said about one of them except this solitary “somebody” who had touched Him. The crowd came, and the crowd went; but little is recorded of it all. Just as the ocean, having advanced to full tide, leaves but little behind it when it retires again to its channel, so the vast multitude around the Saviour left only this one precious deposit—one “somebody” who had touched Him, and had received virtue from Him.
 
@@ -92,7 +89,6 @@ Now, as Jesus knows of your salvation, He wishes other people to know of it, and
 And you, believers, when you come to the Lord’s table, if you draw near to Christ, and have a sweet season, tell it to your brethren. Just as when Benjamin’s brethren went down to Egypt to buy corn, they left Benjamin at home, but they took a sack for Benjamin, so you ought always to take a word home for the sick wife at home, or the child who cannot come out. Take home food for those of the family who cannot come for it. God grant that you may have always something sweet to tell of what you have experimentally known of precious truth, for while the sermon may have been sweet in itself, it comes with a double power when you can add, “and there was a savour about it which I enjoyed, and which made my heart leap for joy”!
 
 Whoever you may be, my dear friend, though you may be nothing but a poor “somebody,” yet if you have touched Christ, tell others about it, in order that they may come and touch Him, too; and the Lord bless you, for Christ’s sake! Amen.
-
 
 ---
 [[THC Jesus Asleep on a Pillow|← Jesus Asleep on a Pillow]] · [[Till He Come|Till He Come Contents]] · [[THC Christ and His Table-Companions|Christ and His Table-Companions →]]

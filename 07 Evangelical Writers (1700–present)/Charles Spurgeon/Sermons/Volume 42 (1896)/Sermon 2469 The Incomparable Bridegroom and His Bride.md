@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Incomparable Bridegroom and His Bride
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2469
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What is your Beloved more than another beloved, O you fairest among women? What is your Beloved more than another beloved, that you so charge us?" Song of Solomon 5:9.
 
@@ -87,9 +84,9 @@ Oh, that the Lord would send us times of true revival once again! Run your finge
 
 As I sat, last week, in the hall of the Free Church Assembly in Edinburgh, just beneath the Castle, I started in my seat! I thought the whole hall was going to fall, for at one o'clock the gun on the Castle was fired from Greenwich by electricity! It startled every one of us and I noticed that nearly everybody took out his watch to see whether it was right by the gun. I thought to myself, "That is just what the Christian Church ought to do. It ought, at the proper time, to give a loud, clear, thundering testimony for God and for Truth, so that every man might examine his own conscience and get himself put right where he is wrong." Our testimony for Christ ought not to be like the ticking of an ordinary clock, or as sounding brass or a tinkling cymbal, but a mighty booming noise that commands and that demands a hearing! Let our soul be but linked with Heaven—let the Spirit of the Lord flash the message along the wires—and our life may be just as accurate and just as startling as that gun at Edinburgh! So, when men ask us, "What is your Beloved more than another beloved, that you do so charge us?" we shall have an answer ready for them, which may God bless to them, for Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—386, 807, 802.
+## Hymns from "Our Own Hymn Book"—386, 807, 802
 
-EXPOSITION BY C. H. SPURGEON: SONG OF SOLOMON 1.
+## Exposition by C. H. Spurgeon: Song of Solomon 1
 
 We will, this evening, read in the one Book of the Bible which is wholly given up to fellowship. I allude to the Book of Canticles. This Book stands like the Tree of Life in the midst of the garden and no man shall ever be able to pluck its fruit, and eat thereof, until first he has been brought by Christ past the sword of the cherubim, and led to rejoice in the love which has delivered him from death! The Song of Solomon is only to be comprehended by the men whose standing is within the veil. The outer-court worshippers and even those who only enter the court of the priests think the Book a very strange one, but they who some very near to Christ can often see in this Song of Solomon the only expression which their love to their Lord desires.
 
@@ -164,7 +161,6 @@ Can with Your courts on earth compare!
 And here we wait, until Your love
 
 Raise us to nobler seats above."
-
 
 ---
 [[Sermon 2468 Solitude, Silence, Submission|← #2468]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2470 Jacob and Doubting Souls a Parallel|#2470 →]]

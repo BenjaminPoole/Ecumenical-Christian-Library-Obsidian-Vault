@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 174. Numbers 24:1-25
-
-**Numbers 24**
 
 **1.** And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 

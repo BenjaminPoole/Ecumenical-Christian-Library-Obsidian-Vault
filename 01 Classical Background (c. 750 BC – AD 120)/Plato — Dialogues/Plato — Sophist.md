@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Sophist
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-SOPHIST
+## Sophist
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 The dramatic power of the dialogues of Plato appears to diminish as
 the metaphysical interest of them increases (compare Introd. to the
@@ -2110,16 +2105,11 @@ theology and philosophy of England as well as of Germany, and also in
 the lighter literature of both countries, there are always appearing
 'fragments of the great banquet' of Hegel.
 
-
-
-
-SOPHIST
-
+## Sophist
 
 PERSONS OF THE DIALOGUE: Theodorus, Theaetetus, Socrates. An Eleatic
 Stranger, whom Theodorus and Theaetetus bring with them. The younger
 Socrates, who is a silent auditor.
-
 
 THEODORUS: Here we are, Socrates, true to our agreement of yesterday;
 and we bring with us a stranger from Elea, who is a disciple of

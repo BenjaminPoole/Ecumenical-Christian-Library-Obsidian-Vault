@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Place of Prayer and Pardon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2637
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whatever burden or whatever sickness there is: then what prayer or what supplication shall be made of any man, or of all Your people Israel, when everyone shall know his own burden and his own grief, and shall spread forth his hands in this house: then hear You from Heaven, Your dwelling place, and forgive, and render unto every man according unto all his ways, whose heart You know (for You, only, know the hearts of the children of men)." 2 Chronicles 6:28-30.
 
@@ -115,7 +112,7 @@ I finish up by saying that those who do this shall find rest unto their souls. S
 
 "I am afraid to come," says one. Well come all trembling and fearing—only come. "But I am afraid I shall be cast out if I come." Oh, but you must not indulge that fear, for He has said, "He that comes to Me I will in no wise cast out." "But suppose I should not happen to be one of the right sort?" Come all the same, whether you are or not, for Christ will not cast you out if you do but come to Him! When a man is very hungry, if he takes bread that is not his own and eats it, no one will ever take it away from him, for he has it too securely. So, if you come and take the Lord Jesus Christ into your very soul, there is no one who can take Him away from you! "Oh, taste and see that the Lord is good!" And he that really feeds upon Him has so received Him that he shall never lose Him. Oh, that all who are strangers to Him might do so even now. The Lord bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 7:53; 8:1-11.
+## Exposition by C. H. Spurgeon: John 7:53; 8:1-11
 
 John 7:53; John 8:1: And every man went unto his own house. Jesus went unto the Mount of Olives. That is, as every man went to his own house to rest, so Jesus found rest in secret prayer on the Mount of Olives. There is a very striking contrast here. It is a pity to have brought the dividing saw right through the middle of such charming consecutive sentences.
 
@@ -132,7 +129,6 @@ John 7:53; John 8:1: And every man went unto his own house. Jesus went unto the 
 9\. And they which heard it, being convicted by their own conscience, went out, one by one, beginning with the eldest, even unto the last; and Jesus was left alone, and the woman standing in the midst They left her alone with Jesus in the midst of the place that the guilty crowd had forsaken in silent shame.
 
 10\. 11. When Jesus had lifted up Himself, and saw none but the woman, He said unto her, Woman, where are those, your accusers? Has no man condemned you? She said, No man, Lord. And Jesus said unto her, Neither do I condemn you: go, and sin no more. He condemned the sin—His own pure and holy life was the best condemnation of that. But, as for the sinner, He had not come to condemn, but to forgive. His own declaration was, "The Son of Man is come to seek and to save that which was lost."
-
 
 ---
 [[Sermon 2636 The Perpetuity of the Gospel|← #2636]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2638 The Right Observance of the Lord's Supper|#2638 →]]

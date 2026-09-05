@@ -9,7 +9,6 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 31
 
 *Morning and Evening: Daily Readings* — Charles H. Spurgeon
@@ -34,11 +33,11 @@ No waiting or preparation is so much as hinted at. Drinking represents a recepti
 
 “IF ANY MAN THIRST,
 
-LET HIM
+## Let Him
 
-COME UNTO ME
+## Come unto Me
 
-AND DRINK.”
+## And Drink.”
 
 ## Evening
 
@@ -58,8 +57,7 @@ NEITHER STAY THOU IN ALL THE PLAIN;
 
 ESCAPE TO THE MOUNTAIN,
 
-LEST THOU BE CONSUMED.”
-
+## Lest Thou Be Consumed.”
 
 ---
 [[ME December 30|← December 30]] · [[Morning and Evening|Morning and Evening Contents]]

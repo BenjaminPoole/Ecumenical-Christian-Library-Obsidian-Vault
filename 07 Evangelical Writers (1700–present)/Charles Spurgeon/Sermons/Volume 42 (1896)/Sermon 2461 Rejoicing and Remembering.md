@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Rejoicing and Remembering
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2461
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We will be glad and rejoice in You, we will remember Your love more than wine." Song of Solomon 1:4.
 
@@ -123,9 +120,9 @@ Think only of Him! Put the glass to your eye and shut out all the rest of the la
 
 God bless you, dear Friends! I wish that all of you understood this Truth of God of which I have been speaking. Some of you do not—may the Lord lead you to do so, for there is no life like that which is spent at Jesus' feet, and no joy like that which comes from our dear Lord! I wish you knew it. Believe on Him and you shall know it, and shall know it at once. Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—797, 804, 819.
+## Hymns from "Our Own Hymn Book"—797, 804, 819
 
-EXPOSITION BY C. H. SPURGEON: PSALM22.
+## Exposition by C. H. Spurgeon: Psalm 22
 
 This Psalm is a sort of window through which we can look into the heart of our crucified Savior. We see all the external part of the Crucifixion through the four windows of the Gospels, but this 22nd Psalm brings us into the King's innermost chamber and here we perceive the secret sufferings of His soul. You can very well conceive of the Lord Jesus Christ, when He was on the Cross, beginning to speak in the language of the first verse of this Psalm and closing with the last words of the Psalm—"He has done this," which might properly be interpreted, "It is finished." I have often read this Psalm with you, especially on the evenings of our great Communion services. If we are spared, we will read it together many more times. It is a very wonderful Psalm—the Lord give us to understand it as we read it!!
 
@@ -172,7 +169,6 @@ Verse 1. My God, My God, why have You forsaken Me? Why are You so far from helpi
 31\. They shall come—The passion of Christ shall work for a certain deliverance for His people. What He has purchased, He shall surely have—"They shall come"—
 
 31\. And shall declare His righteousness unto a people that shall be born, that He has done this. Or, "it is finished." When our Lord had uttered these words, "He bowed His head, and gave up the ghost."
-
 
 ---
 [[Sermon 2460 God's Fire and Hammer|← #2460]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2462 The Known and the Unknown|#2462 →]]

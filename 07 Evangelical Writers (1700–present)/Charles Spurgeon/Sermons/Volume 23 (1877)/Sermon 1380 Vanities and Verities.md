@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Vanities and Verities
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1380
-
-DELIVERED BY.
 
 > "We look not at the things which are seen, but at the things which are notseen: for the things which are seen are temporal; but the things which are not seen are eternal." 2 Corinthians 4:18.
 
@@ -144,7 +141,6 @@ do I!
 I finish with this. Treat the things present as if they were not and live like an heir of Heaven's invisible but substantial joys. Higher and better things are in store for you! God bless you by His blessed Spirit with blessed foretastes of the blessed hereafter. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 4. HYMNS FROM "OUR OWN HYMN BOOK"—783, 656, 657.
-
 
 ---
 [[Sermon 1379 The Magnanimity of God|← #1379]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1381 A Sunday School Sermon|#1381 →]]

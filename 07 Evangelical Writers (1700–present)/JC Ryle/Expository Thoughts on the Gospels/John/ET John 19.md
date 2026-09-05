@@ -11,12 +11,11 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 19
 
 *Expository Thoughts on John* — J. C. Ryle
 
-**JOHN 19**
+## **John 19**
 
 ## JOHN 19:1-16 — Listen to AUDIO
 
@@ -125,7 +124,6 @@ We learn, lastly, from these verses, that ***the burial of the dead is an act wh
 The true Christian need never be ashamed of regarding a funeral with peculiar reverence and solemnity. It is the body, which may be the instrument of committing the greatest sins, or of bringing the greatest glory to God. It is the body, which the eternal Son of God honored by dwelling in it for thirty and three years, and finally dying in our stead. It is the body, with which He rose again and ascended up into heaven. It is the body, in which He sits at the right hand of God, and represents us before the Father, as our Advocate and Priest. It is the body, which is now the temple of the Holy Spirit, while the believer lives. It is the body, which will rise again, when the last trumpet sounds, and, reunited to the soul, will live in heaven to all eternity. Surely, in the face of such facts as these, we never need suppose that reverence bestowed on the burial of the body is reverence thrown away.
 
 Let us leave the subject with one word of caution. Let us take care that we do not regard a sumptuous funeral as an atonement for a life wasted in carelessness and sin. We may bury a man in the most expensive style, and spend thousands of dollars in mourning. We may place over his grave a costly marble stone, and inscribe on it a flattering epitaph. But all this will not save our souls or his. The turning point at the last day will not be how we are buried, but whether we were "buried with Christ," and repented and believed. (Rom. 6:4.) Better a thousand times to die the death of the righteous, have a lowly grave and a pauper's funeral, than to die graceless, and lie under a marble tomb!
-
 
 ---
 [[ET John 18|← John 18]] · [[Expository Thoughts on John|John Contents]] · [[ET John 20|John 20 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Titles of Honor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3300
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Brethren beloved of the Lord." 2 Thessalonians. 2:13.
 
@@ -73,7 +70,7 @@ assurance except by faith, but when you have believed, joy and peace will quickl
 
 II. I have taken so long in speaking of these titles of honor that I have very little time left for speaking of THE
 
-WEARERS OF THESE TITLES.
+## Wearers of These Titles
 
 Suppose, dear Friends, you had all heard the Gospel preached and that you understood the dignity and happiness of a Christian—what sort of a person would you suppose him to be? If I try to picture him for you, you will see how far your ideas and mine agree. I should think you would so imagine that a man who is "beloved of the Lord" would be the happiest man in the world. You naturally suppose that if the eternal God has loved him, if the infinite heart of the Most High has been set upon him from all eternity, he must experience the greatest imaginable delight in such a belief and he must feel that whatever else he may or may not possess, he is rich to the fairest possible extent in having the love of God shed abroad in his heart by the Holy Spirit who is given unto him! I know that a sorrowful friend over yonder is saying, "If I really could say that Jesus is mine, I would be quite content to be poor. If I were 'beloved of the Lord,' I would not mind if I had to lie in a dungeon or even to be burned to death for His sake." So I conceive that those who are "beloved of the Lord" must be the most happy and joyful people to be found anywhere upon the face of the earth!
 
@@ -91,7 +88,7 @@ Some of you have come here tonight from the workshop where you have been laughed
 
 Lord"!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:1-14.
+## Exposition by C. H. Spurgeon: Romans 8:1-14
 
 This wonderful Chapter is the very cream of the cream of Holy Scripture! What a grand keynote the Apostle strikes in the first verse!
 
@@ -142,7 +139,6 @@ members—we owe nothing to that. It has been a curse and a plague to us. We are
 13\. For if you live after the flesh, you shall die. If you live simply to gratify your ambition. If you live for avarice. If you live to please yourself—if you live for any earthly object which can be comprised under the term "after the flesh"— you will certainly be disappointed, for you will die and your hope will die with you!
 
 13\. But if you, through the Spirit do mortify the deeds of the body, you shall live. If you seek, by the Holy Spirit's power, to kill sin. If you try to crush all sinful desires. If you keep evil with a rope about its neck—if you mortify it—put it to death, then you shall live! Holiness is the mode of the Christian's life—sin is the way of the sinner's death.
-
 
 ---
 [[Sermon 3299 Ho! Ho!|← #3299]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3301 A Prophetic Warning|#3301 →]]

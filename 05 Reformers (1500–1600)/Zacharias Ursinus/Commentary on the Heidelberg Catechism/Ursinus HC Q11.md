@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 11. But is not God also merciful?
-
-**Question 11. But is not God also merciful?**
 
 Answer. God is indeed merciful, but also just; therefore his justice requires that sin, which is committed against the most high majesty of God, be also punished with extreme, that is, with everlasting punishment, both of body and soul.
 
-**EXPOSITION**
+## **Exposition**
 
 There is here an objection to what is taught in the preceding question, which affirms, that God punishes every sin with eternal punishment. The objection is this: It belongs to him, who is in the highest degree merciful, not to be too rigorous in the demands of his justice. God is in the highest degree merciful; therefore he will not exact all that his extreme justice demands, and so will not punish sin with eternal punishment. To the major proposition we thus reply: It does indeed belong to him, who is merciful, to be lenient in his demands, but not so as to wrong his justice, if he be at the same time extremely just. But God is exceedingly merciful in such a way, that he is also exceedingly just. Hence he will exercise his mercy in such a manner as not to do any violence to his justice. Now, the justice of God demands that sin, which is committed against his most high Majesty, be punished with extreme, that is, with everlasting punishment, both of body and soul, that there may be a proportion between the offence and its punishment. Every crime is great, and deserving of punishment in proportion to the majesty of him against whom it is committed. The following objection demands a passing notice:
 
@@ -32,7 +29,7 @@ II. What are the causes of them?
 
 III. What comforts may be opposed to them?
 
-**I. HOW MANY KINDS OF AFFLICTIONS ARE THERE?**
+## **I. How Many Kinds of Afflictions Are There?**
 
 There are two kinds of afflictions, such as are temporal and such as are eternal. Eternal, are those everlasting torments of body and soul which constitute the final portion of devils, and of the wicked who in this life are not converted to God. They are called in the Scriptures, hell, torments, unquenchable fire, a worm that dieth not, and everlasting death, because they are torments which will be everlasting, and such as are experienced by the dying, who, although they are always dying, will never be dead. This now will be the character of eternal death, always to die, and never to be dead; or it will be a continuation of death, with an infinite increase of hellish agonies and torments. The following are some of the declarations of Scripture which refer to everlasting punishment: "Their worm shall not die, neither shall their fire be quenched." "It is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched; where the worm dieth not, and the fire is not quenched." "Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels." "If the righteous scarcely be saved, where shall the ungodly and the sinner appear." (Is. 66:24. Mark 9:43, 44. Matt. 25:41. 1 Pet. 4:18.) The reason which makes this form of punishment necessary is evident from this: that sin which is committed against God, who is infinitely good, demands an infinite punishment and satisfaction, which could not be rendered by the afflictions which are incident merely to this life. This would not satisfy the infinite and eternal justice of God.
 
@@ -58,7 +55,7 @@ The third form of the cross is martyrdom, which includes the testimony and witne
 
 The cross, in the last place, includes ransom, or the obedience of Christ: which is a satisfaction for our sins, and includes the entire humiliation of Christ, from the very moment of his conception to his last agony upon the cross.
 
-**II. WHAT ARE THE CAUSES OF AFFLICTIONS?**
+## **II. What Are the Causes of Afflictions?**
 
 The causes of the punishments of the wicked are: 1. Sin, which is the impelling cause. They are made to suffer, that satisfaction may thus be made by a just punishment for their sins. 2. The justice of God, which is the chief efficient cause which inflicts punishment for sin. 3. The instrumental causes are various: they are such as angels and men, both good and bad, and other creatures, all of whom are armed against the sinner, and fight under God's banner.
 
@@ -82,7 +79,7 @@ The causes of the cross which is peculiar to the godly, are:
 
 Having made these remarks in relation to the afflictions of the godly, we may easily reply to the objection which the men of the world are wont to bring against the providence of God. The church, say they, is oppressed throughout the whole world, and trodden under foot by all men. Therefore it is not the true church, and is not cared for on the part of God. But this, instead of proving any thing against the church, is rather an argument in its favor: for if the church were of the world, then this opposition and persecution would cease, for the world loves its own. The reasons of the afflictions of the church are therefore manifest; and the end of things win convict and condemn the world.
 
-**III. WHAT ARE THE COMFORTS WHICH WE MAY OPPOSE TO OUR AFFLICTION** ?
+## **III. What Are the Comforts Which We May Oppose to Our Affliction** ?
 
 There are some comforts under afflictions which are peculiar to the church, whilst there are others that are common both to the church and philosophy. The first, in connection with the ninth and tenth, which we shall now present are peculiar to the church, whilst the rest are common, both to it, and philosophy; and yet whilst it may be said that they are common, it is only as it respects the outward appearance, and not as it regards the matter, or substance of the thing spoken of. These comforts we shall present in the following order:
 
@@ -106,9 +103,9 @@ There are some comforts under afflictions which are peculiar to the church, whil
 
 10. Complete and final deliverance, is the crowning point of all the rest. The first is the chief comfort, and foundation of all the others; this is the perfection and consummation of all. For as there are degrees of punishment, so there are also degrees of deliverance. The first degree is in this life, where we have the beginning of eternal life. The second is in temporal death, when the soul is carried into Abraham's bosom. The third will be in the resurrection of the dead, and their glorification, when we shall be perfectly happy, both in body and soul. "And God shall wipe away all tears from their eyes." (Rev. 21:4.)
 
-**FIFTH LORD'S DAY**
+## **Fifth Lord's Day**
 
-**THE SECOND GENERAL DIVISION OF THE CATECHISM**
+## **The Second General Division of the Catechism**
 
 ---
 [[Ursinus HC Q10|← Question 10. Will God suffer such disobedien]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q12|Question 12. Since, then, by the righteous j →]]

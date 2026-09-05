@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Magdalene at the Sepulcher—an Instructive Scene
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2119
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the disciples went away again unto their own homes. But Mary stood without at the sepulcher weeping: and as she wept, she stooped do wn and looked into the sepulcher and saw two angels in white sitting, the one at the head and the other at the feet, where the Body of Jesus had lain. And they said unto her, Woman, why do you weep? She said unto them, Because they have taken away my Lord and I know not where they have laid Him. And when she had thus said, she turned herself back and saw Jesus standing and knew not that it was Jesus. Jesus said unto her, Woman, why do you weep? Whom do you seek? She, supposing Him to be the gardener, said unto Him, Sir, if you have borne Him, therefore, tell me where you have laid Him and I will take Him away. Jesus said unto her, Mary. She turned herself and said unto Him, Rabboni; which is to say, Master." John 20:10-16
 
@@ -59,7 +56,7 @@ I am sure of you, for you will not run away to your home. You stay near the plac
 
 II. But now, going a little further on, I would observe, secondly, that A SOUL SEEKING JESUS MAKES SMALL
 
-ACCOUNT OF ANYTHING ELSE.
+## Account of Anything Else
 
 Mary, when she looked down, saw the angels sitting, the one at the head, and the other at the feet, where the Body of Jesus had lain. At any other time, if Mary Magdalene had seen two angels, she would have been astounded, so as to lose her balance, through reverent fear. A vision of angels to a holy woman—there is something overpowering in it. A vision of angels, even to the ungodly soldiers that watched the grave of Christ, had made them faint and become as dead men.
 
@@ -186,7 +183,6 @@ From now on opposing philosophies will go to the wind and you will learn of Him.
 "I am Yours and Yours alone, This I gladly, fully own; And, in all my works and ways, Only now would seek Your praise." From that time, even if it had not been so with her before, Mary Magdalene was one of those of whom it could be said, "They follow the Lamb wherever He goes."
 
 Happy man and happy woman, who will keep close to every footstep of the Lord. If you are seeking Him at this hour, pray that, at this moment, He may speak the revealing word, so that you may from now on feel that a change has come over you, the likes of which you have never known. May you experience a sacred twist which shall affect your whole character! May Jesus touch your heart so that your whole body, soul and spirit shall never forget that touch in time or in eternity! Amen.
-
 
 ---
 [[Sermon 2118 The Planter of the Ear Must Hear|← #2118]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2120 The Security Of Believers—Or, Sheep Who Shall Never Perish|#2120 →]]

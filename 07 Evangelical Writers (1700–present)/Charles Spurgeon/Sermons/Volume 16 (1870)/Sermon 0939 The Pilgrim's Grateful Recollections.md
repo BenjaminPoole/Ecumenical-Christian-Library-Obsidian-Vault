@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Pilgrim's Grateful Recollections
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 939
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 3, 1870,.
+*Delivered on Lord's-Day Morning, July 3, 1870*
 
 > "And He humbled you, and suffered you to hunger, and fed you with manna, which you knew not, neither did your fathers know; that He might make you know that man does not live by bread only, but by every Word that proceeds out of the mouth of the Lord does man live. Your raiment waxed not old upon you, neither did your foot swell, these forty years. You shall also consider in your heart, that, as a man chastens his son, so the Lord your God chastens you. Therefore you shall keep the commandments of the Lord your God, to walk in His ways, and to fear Him." Deuteronomy 8:3-6.
 
@@ -172,7 +171,6 @@ What encouragement all this gives to young Brethren who are setting out in the C
 Think not of this world's gain, but "seek first the kingdom of God and His righteousness." Lay self in the dust, and let Christ be All in All. Live by the rule of Truth. Walk by the way of faith. Have confidence in God, and your path shall be as brightness, and your glory as a lamp that burns. Joined on earth to the hand of Christian soldiers, you shall, before long, be added to the countless host of the Church triumphant, who at this hour bear witness that God is faithful, and that His promise is sure.
 
 O you who are not Believers, methinks your mouths must water this morning to come and join with God's Israel! And remember that simply believing on the Lord Jesus Christ will bring you to be numbered with Israel. If you will but with your hearts accept Christ to be your Savior, then His people shall be your people, His God shall be your God. Where He dwells and His people dwell, you shall dwell. And if for awhile you are buried with Him, you shall arise again to live forever with Him in Heaven. May the Holy Spirit seal this on your hearts. Amen.
-
 
 ---
 [[Sermon 0938 A Good Soldier Of Jesus Christ|← #938]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0940 The Winnowing Fan|#940 →]]

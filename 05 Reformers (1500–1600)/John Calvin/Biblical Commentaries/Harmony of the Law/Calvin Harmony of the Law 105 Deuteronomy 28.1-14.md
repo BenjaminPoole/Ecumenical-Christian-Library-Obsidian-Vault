@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 105. Deuteronomy 28:1-14
-
-**Deuteronomy 28**
 
 **1.** And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe *and* to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:
 

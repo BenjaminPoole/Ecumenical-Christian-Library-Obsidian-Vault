@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 106. Matthew 12:38-42; Luke 11:16, 29-32
-
-**Matthew 12:38-42; Luke 11:16, 29-32**
 
 **38**. Then some of the scribes and Pharisees asked him, saying, Master, we desire to see a sign from thee. **39**. But he answering said to them, A wicked and adulterous generation seeketh a sign, [^1] and a sign shall not be given to it, except the sign of Jonah the prophet. **40**. For as Jonah was in the belly of the whale three days and three nights, so will the Son of man be three days and three nights in the heart of the earth. **41**. The men of Nineveh will rise in judgment with this generation, and will condemn it: for they repented at the preaching of Jonah; and, lo, a greater than Jonah is here. [^2] **42**. The queen of the south will rise in judgment with this generation, and will condemn it: for she came from the ends of the earth to hear the wisdom of Solomon; and, lo, a greater than Solomon is here. [^3]
 

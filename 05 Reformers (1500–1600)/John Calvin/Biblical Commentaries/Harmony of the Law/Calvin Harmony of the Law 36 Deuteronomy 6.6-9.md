@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 36. Deuteronomy 6:6-9
 
-**deuteronomy 6**
-
-**REPETITION OF THE SAME COMMAND**
+## **Repetition of the Same Command**
 
 **6.** And these words, which I command thee this day, shall be in thine heart;
 

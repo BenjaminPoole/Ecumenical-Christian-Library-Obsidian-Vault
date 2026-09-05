@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # An Inscription for the Mausoleum of the Saints
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1825
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These all died in faith, not having received the promises, but having seen them afar off, were persuaded of them, embraced them and confessed that they were strangers and pilgrims on the earth. For those who say such things declare plainly that they seek a country." Hebrews 11:13,14.
 
@@ -96,7 +93,6 @@ A dear Sister, the other day, wanted to have a long talk with me and I did not w
 My dear aged friend will forget all her rheumatism and so shall I! You may be bent half double while you are here below, but you will be straight enough up there! Those dim eyes need glasses, but you will need no spectacles before the Throne of God! Limping, lame and halt you may be at this hour, but up there you will be able to join with all the happy ones in that music and dancing which shall celebrate the triumph of Christ! Arise, then, and be glad! Lift up your eyes from the dust and the darkness and gaze upon the eternal Light of God!
 
 The gate of Heaven is open! If we may not enter yet, we shall enter before it shuts—let us rest assured of that! The day dawns and until its full light has come, let us rejoice in the anticipation of it. Until the day breaks and the shadows flee away, let us cry, "Turn, O our Beloved, and abide with us!" He will not deny us our fond request! The Lord bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1824 The History of Sundry Fools|← #1824]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1826 The Horns of the Altar|#1826 →]]

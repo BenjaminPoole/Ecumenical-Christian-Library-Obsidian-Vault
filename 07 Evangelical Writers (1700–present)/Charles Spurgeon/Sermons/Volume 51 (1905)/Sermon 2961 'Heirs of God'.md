@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'Heirs of God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2961
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And if children, then heirs; heirs of God and joint-heirs with Christ." Romans 8:17.
 
@@ -114,7 +111,6 @@ Again, this joint-heirship ensures the inheritance to us. I am quite sure that I
 And, my Brothers and Sisters, to conclude, how this endears His love to us—that He should thus put Himself on the same footing with us as to His heirship, first taking us into union with Himself, making us joint-heirs with Himself, and then Himself going back to Heaven to plead for us and to make it part of His glory up there to prepare the place which we are to share with Him! Does not this bind us fast to Him? If He lets us be sharers in His inheritance in Glory, will we not gladly be sharers here in His sufferings and in His shame? Is there anybody who desires to spit upon Christ as they did of old? Then let him do me the honor to spit upon me for Christ's sake! Is there anyone who has an evil word for Christ? Then let that word fall upon my ears. Do you not feel, Beloved, that it is an honor for you to endure any reproach for Christ's sake? Surely if we are to be there with Him forever, it is but right that we should be with Him here! If we are to share the splendor of His Throne, we may be joyful to share the dishonor of His Cross so far as we may.
 
 I have thus set before you the heirship of the saints and the way to attain it. I pray God the Holy Spirit to apply the message to His own people and to make them feel glad in the Lord. As for the others, I have shown that they can only be heirs through being children—and if you are not the children of God by faith in Christ Jesus—I pray the Lord to reveal to you whose children you must be and what inheritance you must expect to have at the last. Yet I pray you to remember that the way of salvation lies in simply looking to Jesus Christ. May you look to Him tonight—not tomorrow. Before you leave this place, present this prayer, "O Lord, give me the nature of Your children, and the spirit of Your children, and faith in Jesus, as all Your children have it, for His dear name's sake! Amen."
-
 
 ---
 [[Sermon 2960 'Where Are the Nine' Where|← #2960]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2962 Diamond Hinges - 'as' and 'so'|#2962 →]]

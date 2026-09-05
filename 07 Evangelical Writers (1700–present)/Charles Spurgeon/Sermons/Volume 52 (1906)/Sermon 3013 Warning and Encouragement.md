@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Warning and Encouragement
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3013
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night." Song of Solomon 5:2.
 
@@ -85,7 +82,7 @@ Perhaps we, as a Church, have been brought to our present state for a great purp
 
 This Church cries tonight, "I sleep." But she can also say, "my heart wakes." The heart of the Church is still awake! I think my voice to you tonight is an echo of the voice of your Beloved. Sisters, Brothers, bestir yourselves! Let us cry mightily unto God! Let us labor for the winning of souls! Let us pant and pray for a great increase to our membership and God will save sinners, in answer to our prayer, and His name shall be glorified forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS 12:1-27.
+## Exposition by C. H. Spurgeon: Exodus 12:1-27
 
 Verses 1, 2. And the Lord spoke unto Moses and Aaron in the land of Egypt, saying, This month shall be unto you the beginning of months: it shall be the first month of the year to you. And for this reason that, now, as a nation, they were to begin their separate history, separate in existence from all the rest of mankind!
 
@@ -120,7 +117,6 @@ lamb, let him and his neighbor next unto his house take it according to the numb
 A sinner saved by blood."
 
 26, 27. And it shall come to pass, when your children shall say unto you, What mean you by this service? That you shall say, It is the sacrifice of the LORD'S Passover, who passed over the houses of the children of Israel in Egypt, when He smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.
-
 
 ---
 [[Sermon 3012 God Comforting His People|← #3012]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3014 A Sermon From a Sick Preacher|#3014 →]]

@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 18
 
-**CHAPTER 18**
+***Chapter 18***
 
 ## Acts 18:1-5
 

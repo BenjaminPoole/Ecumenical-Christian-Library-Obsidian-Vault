@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 5. Exodus 5
-
-**EXODUS 5**
 
 ## Exodus 5:1-5
 

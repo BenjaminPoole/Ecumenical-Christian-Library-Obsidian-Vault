@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A New Song For New Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 928
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 1, 1870,.
+*Delivered on Lord's-Day Morning, May 1, 1870*
 
 > "And in that day you shall say, O Lord, I will praise You: though You were angry with me, Your anger is turned away, and You comfort me." Isaiah 12:1.
 
@@ -168,7 +167,6 @@ I am afraid you are guilty here. See to it, dear Brother. See to it, dear Sister
 You do not know what half a word might do if you would but speak it! O keep not back the good news that might bring salvation to your wife, to your husband, to your child, to your servant! If you have, indeed, felt the Lord's anger pass away this morning, go home to your chamber, and on your knees repeat this vow, "My God, I will praise You! I have been a sluggard, I have been very silent about You. I am afraid I have not given You of my substance as I ought. I am sure I have not given You of my heart as I should. But oh, forgive the past, and accept Your poor servant yet again. 'Then I will praise You. For though You were angry with me, Your anger is turned away, and You comfort me.' "
 
 God bless you, for Christ's sake.
-
 
 ---
 [[Sermon 0927 Martha And Mary|← #927]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0929 The Model Home Mission and the Model Home Missionary|#929 →]]

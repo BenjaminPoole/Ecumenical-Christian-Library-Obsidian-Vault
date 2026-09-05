@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Mocked of the Soldiers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2824
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when they had platted a crown of thorns, they put it upon His head, and a reed in His right hand: and they bowed the knee before Him, and mocked Him, saying, Hail, King of the Jews" Matthew 27:29.
 
@@ -89,7 +86,7 @@ A dear Friend, now in Heaven, but who used to worship in this place, had a son w
 
 He did that for Christ's sake. Cannot some of you do a similar deed for the same reason? Is there any skeleton in your closet? Is there any mischief you could set right? Or have you anything you can give to your Lord and Master? Think, each one of you for himself or herself, what you can do and, inasmuch as Christ was so shamefully despised and rejected, seek to honor and glorify Him in the best way that you can and He will accept your homage and your offering for His love's sake. May He help you to do so! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW27:15-54; JOHN18:28-38.
+## Exposition by C. H. Spurgeon: Matthew 27:15-54; John 18:28-38
 
 We are now to read about our Lord before Pontius Pilate.
 
@@ -112,7 +109,6 @@ for envy they had delivered Him. When he was set down on the Judgment Seat, his 
 43-54. Now from the sixth hour there was darkness over all the land unto the ninth hour. And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama Sabachthani? That is to say, My God, My God, why have You forsaken Me? Some of them that stood there, when they heard that, said, This Man calls for Elijah. And straightway one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave Him to drink The rest said, let Him be, let us see whether Elijah will come to save Him. Jesus, when He had criedagain with a loud voice, yielded up the ghost, and, behold, the veil of the temple was ripped in two from the top to the bottom, and the earth did quake, and the rocks split; and the graves were opened; andmany bodies ofthe saints which slept, arose, and came out of the graves after His resurrection, and went into the holy city, and appeared unto many. Now when the centurion, and they that were with Him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God. John gives us some details of our Lord before Pilate which Matthew does not mention.
 
 John 18:28-38. Then led they Jesus from Caiaphas unto the Hall of Judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled, but that they might eat the Passover. Pilate then went out unto them, and said, What accusation bring you against this Man? They answered and said unto him, If He were not a malefactor we would not have delivered Him up unto you. Then said Pilate unto them, Take you Him, and judge Him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death: that the saying of Jesus might be fulfilled, which He spoke, signifying what death He should die. Then Pilate entered into the judgment hall again, and called Jesus, and said unto Him, Are You the King ofthe Jews? Jesus answered Him, Say you this thing of yourself, or did others tell it you of Me? Pilate answered, Am I a Jew? Your own nation and the chief priests have delivered You unto me: what have You done? Jesus answered, My Kingdom is not of this world: if My Kingdom were of this world, then would My servants fight, that I should not be delivered to the Jews: but now is My Kingdom not from here. Pilate therefore said unto Him, Are You a king then? Jesus answered, You say that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the Truth. Everyone that is ofthe truth hears My voice. Pilate said unto Him, What is truth? And when he had said this, he went out again unto the Jews, and said unto them, I find in Him no fault at all Thus did all who came into contact with Jesus bear witness that the Lamb of God was indeed "holy, harmless, undefiled and separate from sinners."
-
 
 ---
 [[Sermon 2823 One Trophy for Two Exploits|← #2823]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2825 Majesty in Misery|#2825 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Wakeful and Watchful Eyes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2654
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, He that keeps Israel shall neither slumber nor sleep." Psalm 121:4.
 
@@ -87,9 +84,9 @@ I feel that the spot I occupy just now is a very solemn one, for, like the capta
 
 This is the way of salvation. Believe in the Lord Jesus Christ! Trust yourself with Him! Put your soul, as a sacred deposit, into the hands of that dear Banker whose bank has never failed—no, more—who has never lost a penny that was entrusted to Him! And before you sleep, just rest in Jesus. God help you to do so, for Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—194, 119 (SONG VI), 123, 538.
+## Hymns from "Our Own Hymn Book"—194, 119 (Song VI), 123, 538
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH30:1-22.
+## Exposition by C. H. Spurgeon: Jeremiah 30:1-22
 
 Verses 1, 2. The word that came to Jeremiah from the LORD, saying, Thus speaks the LORD God ofIsrael, saying, Write you all the words that I have spoken unto you in a book We believe in Verbal Inspiration and, though some people treat with contempt the very ides of words being Inspired, be you sure of this, if you have not Inspired Words, you are not likely to get Inspired men! Besides, words are to the thought what the shell is to the egg and if you break the shell, you have destroyed the egg. Somehow or other, the thought will ooze out unless it is conveyed in God's own Words. Observe that the Lord does not say to Jeremiah, "Write you all the thoughtthat I have given you," but, "Write you all the wordsthat I have spoken unto you in a book."
 
@@ -124,7 +121,6 @@ My mourning He to dancing turns, For sackcloth, joy He gives, A moment, Lord, Yo
 22\. And you shall be My people, and I will be your God. Happy are we if we can rejoice in this precious Truth of
 
 God!
-
 
 ---
 [[Sermon 2653 The Head and the Body|← #2653]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2655 Decided Ungodliness|#2655 →]]

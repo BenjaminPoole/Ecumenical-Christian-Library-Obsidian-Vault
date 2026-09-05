@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Sixth Beatitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3159
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed aire the pure in heart: for they shall see God." Matthew 5:8.
 
@@ -85,7 +82,7 @@ And, lastly, the time shall come when those who have thus seen God on earth shal
 
 III. Now, lastly, and very briefly, I have to remind you that THIS PURIFICATION OF THE HEART IS A DIVINE
 
-WORK.
+## Work
 
 And believe me when I tell you that it is never an unnecessary work. No man (except the Man, Christ Jesus), was ever born with a pure heart. All have sinned, all need to be cleansed—there is none good—no, not one!
 
@@ -104,7 +101,6 @@ Now he is the man who sees God, loves God, delights in God, longs to be like God
 But perhaps you ask, "What is it to believe in the Lord Jesus Christ?" It is to trust Him, to rely upon Him. Oh, that we could all rely upon Jesus Christ now! Oh, that that troubled young man over there could come and trust in Jesus! You will never get rid of your troubles till you do! But, dear Friend, you may be rid of them this very moment if you will but believe in Jesus! Yes, though you have struggled in vain against your evil habits, though you have wrestled with them sternly and resolved, and re-resolved, only to be defeated by your giant sins and your horrible passions, there is One who can conquer all your sins for you! There is One who is stronger than Hercules, who can strangle the hydra of your lust, kill the lion of your passions and cleanse the Augean stable of your evil nature by turning the great rivers of blood and water of His atoning Sacrifice right through your soul! He can make and keep you pure within! Oh, look to Him! He hung upon the Cross, accursed of men, and God made Him to be sin for us, though He knew no sin, that we might be made the righteousness of God in Him. He was condemned to die as our Sin-Offering that we might live forever in the love of God. Trust Him, trust Him! He has risen from the dead and gone up into His Glory, and He is at the right hand of God pleading for transgressors. Trust Him! You can never perish if you trust Him, but you shall live with ten thousand times ten thousand more who have all been saved by Grace, to sing of a mighty Savior able to save to the uttermost all them that come unto God by Him!
 
 God grant that you may all be thus saved, that so you may be among the pure in heart who shall see God and never leave off seeing Him. And He shall have all the Glory! Amen and Amen!
-
 
 ---
 [[Sermon 3158 The Fifth Beatitude|← #3158]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3160 The Call of 'Today'|#3160 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 65
 
-**CHAPTER 65.**
+***Chapter 65.***
 
 ## Isaiah 65:1-25
 
@@ -196,7 +195,7 @@ Thus the word “earth,” by which he denotes, in this passage, the whole world
 
 Thus the world is (so to speak) renewed by Christ; and hence also the Apostle (Hebrews 2:5) calls it “a new age,” and undoubtedly alludes to this statement of the Prophet. Yet the Prophet speaks of the restoration of the Church after the return from Babylon. This is undoubtedly true; but that restoration is imperfect, if it be not extended as far as to Christ; and even now we are in the progress and accomplishment of it, and those things will not be fulfilled till the last resurrection, which has been prescribed to be our limit.
 
-*The former things shall not be remembered.* Some refer these words to heaven and earth; as if he had said that henceforth they shall have no celebrity and no name. But I choose rather to refer them to the former times; for he means that the joy at being restored shall be so great that they shall no longer remember their miseries. Or perhaps it will be thought preferable to view them as relating to benefits which, though they were worthy of being recorded, lost their name when God’s amazing- grace shone forth. In this sense the Prophet said elsewhere, “Remember ye not the former things.” (Isaiah 43:18.) Not that God wished the first deliverance to be set aside or blotted out of the hearts of believers; but because by comparison the one brought a kind of forgetfulness over the other, just as the sun, when he rises, deprives the stars of their brightness.
+*The former things shall not be remembered.* Some refer these words to heaven and earth; as if he had said that henceforth they shall have no celebrity and no name. But I choose rather to refer them to the former times; for he means that the joy at being restored shall be so great that they shall no longer remember their miseries. Or perhaps it will be thought preferable to view them as relating to benefits which, though they were worthy of being recorded, lost their name when God’s amazing-grace shone forth. In this sense the Prophet said elsewhere, “Remember ye not the former things.” (Isaiah 43:18.) Not that God wished the first deliverance to be set aside or blotted out of the hearts of believers; but because by comparison the one brought a kind of forgetfulness over the other, just as the sun, when he rises, deprives the stars of their brightness.
 
 Let us remember that these things take place in us so far as we are renewed. But we are only in part renewed, and therefore we do not yet see a new heaven and a new earth. We need not wonder, therefore, that we continue to mourn and weep, since we have not entirely laid aside the old man, but many remains are still left. It is with us also that the renovation ought to begin; because we hold the first rank, and it is through our sin that “the creatures groan, and are subject to vanity,” as Paul shews. (Romans 8:20.) But when we shall be perfectly renewed, heaven and earth shall also be fully renewed, and shall regain their former state. And hence it ought to be inferred, as we have frequently remarked, that the Prophet has in his eye the whole reign of Christ, down to its final close, which is also called
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Education of Sons of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2722
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Though He were a Son, yet learned He obedience by the things which He suffered." Hebrews 5:8.
 
@@ -117,7 +114,7 @@ A man who has never been on board ship, says, "I am a splendid sailor." I have o
 
 Perhaps the last moments before our death will teach us something concerning obedience which is not to be learned in the rest of life. I know not, but it may be that those last hours before the spirit shall be severed from the body will teach us, once and for all, what is the casting of the soul on God in all its fullness and the entering of the soul into communion with God in all its blessedness. At any rate, whatever it costs us to learn obedience, it will never cost us so much as it cost our Lord—"Though He were a Son, yet learned He obedience by the things which He suffered." Go, then, Brothers and Sisters, back to your school to learn until, like your Master, you can say, "It is finished." And bless God for every suffering that comes to you, for it will be part of your preparation for the happinesses of eternity. God bless you, for Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: JOHN 7:1-13; HEBREWS 5.
+## Expositions by C. H. Spurgeon: John 7:1-13; Hebrews 5
 
 John 7:1-5. After these things Jesus walked in Galilee: for He would not walk in Judea, because the Jews sought to kill Him. Now the Jews' Feast of Tabernacles was at hand. His brothers therefore said unto Him, Depart hence, and go into Judaea, that Your disciples also may see the works that You do. For there is no man that does anything in secret, and he himself seeks to be known openly. If You do these things, show Yourself to the world. For neither did His brothers believe in Him. I t is a very painful truth, that those who were the near relations of the Savior were not believers in His Divine mission—at any rate, at first. He was truly a Prophet who was without honor in His own country and among His own kindred. And, on this occasion, they half taunted Him concerning His claims. In effect, they said to Him, "If indeed You are a Prophet, get out into the world and prove it! We hear that You profess to work miracles, then, why do You hide Yourself away in this country place down here in Galilee? Be gone to Jerusalem and perform Your wonders before the crowds in the capital"—half hoping, perhaps, that His claims might prove to be true, yet not, at that time, at any rate, being themselves willing to become His disciples.
 
@@ -136,7 +133,6 @@ Hebrews 5:1-5. For every high priest taken from among men is ordained for men in
 6-9. As He says also in another place, You are a priest forever after the order of Melchisedec. Who in the days ofHis flesh, when He had offered up prayers and supplications with strong crying and tears unto Him that was able to save Him from death, and was heard in that He feared; though He were a Son, yet learned He obedience by the things which He suffered; and being made perfect, That is, in His official Character.
 
 9-14. He became the author of eternal salvation unto all them that obey Him; called of Godan High Priest after the order of Melchisedec. Of whom we have many things to say, and hard to be uttered, seeing you are dull of hearing. For when, for the time you ought to be teachers, you have need that one teach you again what are the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. For everyone that uses milk is unskillful in the word of righteousness: for he is a babe. But strong meat belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
-
 
 ---
 [[Sermon 2721 Faith Without Sight|← #2721]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2723 God's Dealings With Egypt and Israel|#2723 →]]

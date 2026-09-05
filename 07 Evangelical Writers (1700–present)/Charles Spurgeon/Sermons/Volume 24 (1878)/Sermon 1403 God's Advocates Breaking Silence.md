@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # God's Advocates Breaking Silence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1403
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 17, 1878,.
+*Delivered on Lord's-Day Morning, March 17, 1878*
 
 > "Suffer me a little and I will show you that I have yet to speak on God's behalf." Job 36:2.
 
@@ -142,7 +141,6 @@ I would speak to you new converts on the behalf of God just these few sentences.
 O you new converts who are to be brought into the Church, I speak on God's behalf to you! I hope you will be better than your fathers, better far than some of us who have been a stiff-necked generation! I hope you will come in among us as plastic material which the Lord Jesus will mold according to His will. I trust you will come into the Church like firebrands, like coals of juniper which have a most vehement flame—that all of us may anew be set on fire! There are some of us—I will not say who—but each one may judge for himself, who are quite cold. O that their arctic hearts may become a torrid region! May the Lord warm the mass right through that we may praise and bless His name.
 
 And now, to you Christians, I have yet to speak on the behalf of God. Is it necessary I should? Do you love the Lord? Do you really love Him? "Simon, son of Jonas, do you love Me?" Mary, Hannah, do you, indeed, love your Lord? Then what manner of persons ought we to be? What lives should love prompt us to lead? Come, let us gird our garments about us and give ourselves up, once again, to His service, by whom we are brought near unto God. May the Holy Spirit come upon us in a sevenfold measure from this day forward, to the praise of the Glory of His name who gives us the great privilege of saying, "I have yet to speak on God's behalf."
-
 
 ---
 [[Sermon 1402 Lead Us Not Into Temptation|← #1402]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1404 Over Against the Sepulcher|#1404 →]]

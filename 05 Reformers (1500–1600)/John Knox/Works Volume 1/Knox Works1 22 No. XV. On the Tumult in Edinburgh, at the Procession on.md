@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 22. No. XV. On the Tumult in Edinburgh, at the Procession on St. Gile's Day, 1558
 
 ## No. XV.
 
-ON THE TUMULT IN EDINBURGH, AT THE PROCESSION ON ST. GILES'S DAY, 1558.
+## On the Tumult in Edinburgh, at the Procession on St. Giles's Day, 1558
 
 It has not been ascertained in what way St. Ægidius or St. Giles became the tutelar Saint of our Metropolis. Regarding the Saint himself, as there prevails less diversity of opinion than usual, we may assume that St. Giles flourished about the end of the Seventh Century. According to Butler, and other authorities,—"This Saint, whose name has been held in great veneration for several ages in France and England, is said to have been an Athenian by birth, and of noble extraction. His extraordinary piety and learning, (it is added,) drew the admiration of the world upon him in such a manner, that it was impossible for him to enjoy, in his own country, that obscurity and retirement which was the chief object of his desires on earth." Having sailed for France, he spent many years in the wild deserts near the mouth of the Rhone, and afterwards in a forest in the diocese of Nismes. The Bollandists have shewn that this district belonged to the French, towards the beginning of the Eighth Century when St. Giles died; and that his body remained there till the 13th Century: "when, (as we are informed by the anonymous author of 'Lives of Saints,' printed at London 1739, 4 vols. 4to.,) "the Albigenses being very troublesome in that country, it was thought proper to remove it to Toulouse, where it is still kept in St. Saturnin's Church.... His name occurs on the first of September in the Calendars of the English Church before the Reformation; that, and two antient churches in London, are a sufficient proof of his being known and honoured by our devout ancestors."—(Lives, &c. vol. iv. p. 314.)
 

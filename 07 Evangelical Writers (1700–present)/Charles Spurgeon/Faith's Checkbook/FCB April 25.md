@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 25
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WHAT TO LEAVE CHILDREN**
+## **What to Leave Children**
 
 > The just man walketh in his integrity: his children are blessed after him" Prov. 20:7
 
@@ -27,7 +26,6 @@ He leaves them also his repute. Men think all the better of us as the sons of a 
 Above all, he leaves his children his prayers and the blessing of a prayer-hearing God, and these make our offspring to be favored among the sons of men. God will save them even after we are dead. Oh, that they might be saved at once!
 
 Our integrity may be God's means of saving our sons and daughters. If they see the truth of our religion proved by our lives, it may be that they will believe in Jesus for themselves. Lord, fulfill this word to my household!
-
 
 ---
 [[FCB April 24|← April 24]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 26|April 26 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 29
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**KNOW HOW TO WAIT**
+## **Know How to Wait**
 
 > He that believeth shall not make haste" Isa. 28:16
 
@@ -27,7 +26,6 @@ He shall not haste in his expectations, craving his good things at once and on t
 He shall not haste by plunging into wrong or questionable action. Unbelief must be doing something, and thus it works its own undoing; but faith makes no more haste than good speed, and thus it is not forced to go back sorrowfully by the way which it followed heedlessly.
 
 How is it with me? Am I believing, and am I therefore keeping to the believer's pace, which is walking with God? Peace, fluttering spirit! Oh, rest in the Lord, and wait patiently for Him! Heart, see that thou do this at once!
-
 
 ---
 [[FCB November 28|← November 28]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 30|November 30 →]]

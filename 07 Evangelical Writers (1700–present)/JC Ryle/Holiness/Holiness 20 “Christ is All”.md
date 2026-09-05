@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # “Christ is All”
 
-Chapter XX · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XX · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Christ is all*.”—Colossians iii. 11.
 
@@ -261,7 +260,6 @@ Alas, I fear there is a great piece of pride and unbelief still sticking in the 
 Change you plan, reader, if your conscience tells you you are guilty: change your plan, and learn to trust Christ more. Physicians love to see patients coming to consult them: it is their office to receive the sickly and, if possible, to effect cures. The advocate loves to be employed: it is his calling. The husband loves his wife to trust him and lean upon him: it is his delight to cherish her and promote her comfort. And Christ loves His people to lean on Him, to rest in Him, to call on Him, to abide in Him.
 
 Let us all learn and strive to do so more and more. Let us live on Christ. Let us live in Christ. Let us live with Christ. Let us live to Christ. So doing, we shall prove that we fully realize that “Christ is all.” So doing, we shall feel great peace, and attain more of that “holiness without which no man shall see the Lord.” (Heb. xii. 14.)
-
 
 ---
 [[Holiness 19 Wants of the Times|← Wants of the Times]] · [[Holiness|Holiness Contents]] · [[Holiness 21 Extracts from Old Writers|Extracts from Old Writers →]]

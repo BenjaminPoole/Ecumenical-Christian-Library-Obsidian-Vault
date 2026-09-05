@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # With the King for His Work!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1400
 
-DELIVERED ON THURSDAY EVENING, NOVEMBER 1, 1877,.
+*Delivered on Thursday Evening, November 1, 1877*
 
 > "These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work." 1 Chronicles 4:23.
 
@@ -138,7 +137,6 @@ Go, Beloved, wherever you reside and realize that your abode is a station you ar
 You that have talents should feel the same imperative obligation—yes, and especially you that have only one talent! It was the man of one talent that buried it. So it commonly is. You have not much talent, you think—nothing brilliant. Then the temptation is to go and bury your bit of bronze because you cannot display any glittering gold. Your conscious weakness produces a wicked conceit. Do not withhold your mite from the treasury because you have not a million to contribute. Still live with the King for His work.
 
 Doubtless I have been addressing some who have never served the King, who do not know Him, who do not love Him. I am not going to ask you to work for Him. No, no. My Lord needs none to work for Him who do not believe in Him. "Come and trust Him." Our soldier friends over there, a sprinkling of whom I am pleased to see and proud to salute, know how to enlist in the service. How does a man first become a soldier? Well, he receives a shilling. He receives and then he is a soldier. He that will receive Christ is made a soldier of Christ! It is receiving you have to begin with. And after you have received Christ, then you shall go forth and serve Him! Put out an empty hand and receive Christ into it by a little faith and then go and serve Him—and may the Lord bless you from that time and forever. Amen.
-
 
 ---
 [[Sermon 1399 Am I My Brother's Keeper|← #1399]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1401 Jacob Worshipping on His Staff|#1401 →]]

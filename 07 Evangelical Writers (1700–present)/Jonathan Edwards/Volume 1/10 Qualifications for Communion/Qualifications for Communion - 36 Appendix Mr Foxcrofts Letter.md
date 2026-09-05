@@ -10,7 +10,6 @@ written: "1749"
 tags:
   - jonathan-edwards
 ---
-
 # APPENDIX.
 
 *Being a* letter *to the* author*, in answer to his request of information concerning the opinion of Protestant Divines and Churches in general, of the Presbyterians in Scotland and Dissenters in England in particular, respecting* five questions *that relate to this controversy.*
@@ -81,7 +80,7 @@ Your very affectionate Friend
 
 and humble Servant,
 
-THOMAS FOXCROFT.
+## Thomas Foxcroft
 
 *Boston,*
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Hallelujah! Hallelujah!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2421
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the LORD takes pleasure in His people: He will beautify the meek with salvation. Let the saints be joyful in glory: let them sing aloud upon their beds. Let the high praises of God be in their mouths and a two-edged sword in their hands." Psalm 149:4-6.
 
@@ -135,7 +132,7 @@ I have been talking all this while about praising God and there are some here wh
 
 Perhaps this may be the beginning of something better, for when you have begun to praise Him, you may begin to dispraise yourself—and that is next door to feeling your sinfulness, which will lead you to seek the Savior! And if you seek Him, He will be found of you. Seek Him now, this summer's night, while all God's bounty is being poured upon the earth to make it fertile! Oh, that He might pour some heavenly beams on you to make you fruitful to His praise! May He do it and to His name shall be glory, world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 149; 150.
+## Exposition by C. H. Spurgeon: Psalms 149; 150
 
 The whole Book of Psalms is full of praise, but the praise culminates at the close. There are five "Hallelujah Psalms" at the end of the Book. They are so named because they both begin and conclude with the word, Hallelujah, "Praise you the Lord." It must be to the intense regret of all reverent persons to find the word, Hallelujah, so used today in such a way that it is made to be a commonplace instead of a very sacred word—Hallelujah, or, Praise be unto Jah, Jehovah! He who uses this word in a flippant manner is guilty of taking the name of the Lord in vain!
 
@@ -186,7 +183,6 @@ Loud as His thunder shout His praise, And sound it lofty as His Throne." But who
 5\. Praise Him upon the high sounding cymbals. Then came another crash!
 
 6\. Let everything that has breath praise the LORD. Praise you the LORD. A Jewish Rabbi once remarked to me that the name, Jehovah, was not made up of letters, but only of a series of breaths. [The preacher here uttered the three syllables of the sacred name, Je-ho-vah, as though they were not composed of letters, but only a succession of breaths.] That is the nearest approach to the name of God, three breaths—therefore since all breath comes from Him—and His very name can only be pronounced by breath, "Let everything that has breath praise the Lord. Praise you the Lord." Hallelujah!
-
 
 ---
 [[Sermon 2420 The King Can Do No Wrong|← #2420]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2422 There Is Forgiveness|#2422 →]]

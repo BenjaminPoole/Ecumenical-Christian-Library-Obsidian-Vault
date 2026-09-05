@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Growth of Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3250
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We aire bound to thank God always for you, brethren, as it is meet, because that your faith grows exceedingly." 2 Thessalonians 1:3.
 
@@ -93,7 +90,7 @@ I have only time for just a word or two with you who have no faith at all. Sad m
 
 It is just so with you, Sinner! You are powerless to save yourself, but all power in Heaven and in earth has been committed to Christ—He is mighty to save! Therefore trust Him to save you! Rest wholly upon what He is as the Christ of God, the anointed and appointed Savior—and upon what He has done upon Calvary's Cross to save all who believe in Him—and you shall be saved this very hour! Trust Jesus here and now and you shall be saved here and now—and to God shall be all the Glory forever and ever! Amen.
 
-GENESIS 22:1-19.
+## Genesis 22:1-19
 
 Verse 1. And it came to pass after these things, that God did tempt—[See Sermon #2223, Volume 37—abraham's trial—a lesson FOR BELIEVERS.] That is, "God did test or try"-
 
@@ -144,7 +141,6 @@ foresee. "God will—as we usually say—"provide," which is being interpreted, 
 and your seed shall possess the gate of his enemies; and in your seed shall all the nations of the earth be blessed; because you have obeyed My voice.There stands the old Covenant, the Covenant of Grace made with Abraham concerning his seed. Paul writes to the Galatians, "Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ." It is in Christ that all the nations of the earth are to be blessed. If there is a nation that has not yet heard the Gospel, it must hear it, for so the promise stands, "In your seed shall all the nations of the earth be blessed." We may look for a glorious future from the preaching of Christ throughout every land, for so the Covenant was made with Abraham because he had obeyed God's voice! God had been good to Abraham before that time, for he was His beloved friend, but now He lifts him up to a higher platform altogether and makes him a greater blessing than ever! It may be that God is about to test and try some of you in order that He may afterwards make you to be greater and more useful than you have ever been before. 19. So Abraham returned unto his young men. As he said that he would!
 
 19\. And they rose up and went together to Beer-Sheba; and Abraham dwelt at Beer-Sheba. So the Lord bore His servant through this great trial, and blessed him more than He had ever blessed him before.
-
 
 ---
 [[Sermon 3249 Under the Apple Tree|← #3249]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3251 Christ the Tree of Life|#3251 →]]

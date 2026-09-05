@@ -11,21 +11,15 @@ tags:
   - classical
   - flavius-josephus
 ---
-
 # The Life of Flavius Josephus
 
 [[Josephus — Against Apion|← previous]] · [[Josephus — Works|Flavius Josephus]] · [[Historical Works index|Historical Works]]
 
 ---
 
-THE LIFE OF FLAVIUS JOSEPHUS
-
 By Flavius Josephus
 
-
 Translated by William Whiston
-
-
 
 1. The family from which I am derived is not an ignoble one, but hath
 descended all along from the priests; and as nobility among several
@@ -2062,11 +2056,7 @@ character by them as they please. But to thee, O Epaphroditus, [28]
 thou most excellent of men! do I dedicate all this treatise of our
 Antiquities; and so, for the present, I here conclude the whole.
 
-
-
-
 Footnotes
-
 
 [Footnote 1: We may hence correct the error of the Latin copy of the
 second book Against Apion, sect. 8, [for the Greek is there lost,]

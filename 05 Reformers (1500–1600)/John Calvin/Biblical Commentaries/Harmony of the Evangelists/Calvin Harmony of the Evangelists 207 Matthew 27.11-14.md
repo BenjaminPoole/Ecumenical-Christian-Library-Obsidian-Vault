@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 207. Matthew 27:11-14; Mark 15:2-5; Luke 23:2-12
-
-**MATTHEW 27:11-14; MARK 15:2-5; LUKE 23:2-12**
 
 **11.** Now Jesus stood [^1] before the governor. And the governor asked him, saying, Art thou the King of the Jews? Jesus saith to him, Thou sayest it. [^2] **12.** And when he was accused by the chief priests and elders, and he answered nothing. **13.** Then Pilate saith to him, Hearest thou not how many things they testify against thee? [^3] **14.** And he did not answer him a single word, so that the governor was greatly astonished.
 

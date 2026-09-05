@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # David Dancing Before the Ark Because of His Election
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2031
 
-DELIVERED ON LORD'S DAY MORNING, JULY 1, 1888,.
+*Delivered on Lord's Day Morning, July 1, 1888*
 
 > "Then David returned to bless his household. And Michal the daughter of Saul came out to meet Da vid and said, How glorious was the king of Israel today, who uncovered himself today in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovers himself! And David said unto Michal, It was before the Lord, which chose me before your father and before all his house, to appoint me ruler over the people of the Lord, over Israel: therefore will I play before the Lord. And I will yet be more vile than thus and will be base in my own sight: and of the maidservants which you have spoken of, of them shall I be had in honor." 2 Samuel 6:20-22.
 
@@ -135,7 +134,7 @@ And I pray its power may be felt more and more until everything like caste and c
 
 V. I have been quick upon that point, for time is flying with six wings and I want to dwell a minute upon this point.
 
-A SENSE OF BEING CHOSEN OF GOD STIRS A DESIRE FOR THE SERVICE OF GOD.
+## A Sense of Being Chosen of God Stirs a Desire for the Service of God
 
 Such service will be personal. Look at David. He must serve God himself. He cannot let the priests and Levites do it. He must take a turn as a Levite himself. Lots of people allow their ministers to serve God for them, or they subscribe to societies that by means of a committee they may serve God secondhand. The man that God has chosen must have a personal religion and he must offer a personal service. The woman who had had much forgiven did not come to Peter and say, "Please, Mr. Peter, I have an alabaster box of ointment—will you at some proper time or other be pleased to pour it upon the Master?"
 
@@ -178,7 +177,6 @@ And instead of this doctrine leading to inaction, it has ever been an irresistib
 Did they never hear of the evangelical band which was called the Clapham sect? Was Whitefield a man who cared nothing for the salvation of the people? He who flew like a seraph throughout England and America unceasingly proclaiming the Grace of God—was he selfish? Yet he was distinctly a Free Grace preacher. Did Jonathan Edwards have no concern for the souls of others? Oh how he wept and cried and warned them of the wrath to come! Time would fail me to tell of the lovers of men who have been lovers of this Truth of God. This doctrine first makes sure to the man himself that he is the Lord's and then fills him with a desire to see myriads brought to bow before the Lord of love.
 
 Oh, that the Lord would speedily accomplish the number of His elect! Oh, that Christ might see of the travail of His soul and be satisfied! O my dear Hearers, how I wish that you would all believe in the Lord Jesus unto eternal life! If you do not believe in Him yet I pray that you may do so this very day and then this very day you may share with me the exulting delight that God has chosen you from before the foundation of the world. The Lord bless you, for Jesus' sake!
-
 
 ---
 [[Sermon 2030 Moses—His Faith and Decision|← #2030]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2032 The Charge of the Angel|#2032 →]]

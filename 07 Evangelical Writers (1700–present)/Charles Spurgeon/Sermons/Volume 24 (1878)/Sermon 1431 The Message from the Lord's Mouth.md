@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Message from the Lord's Mouth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1431
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 1, 1878,.
+*Delivered on Lord's-Day Morning, September 1, 1878*
 
 > "Son of man I have made you a watchman for the house of Israel: therefore hear the word from My mouth, and give them warning from Me." Ezekiel 3:17.
 
@@ -136,7 +135,6 @@ You will never be able to escape from torment, according to my Master's teaching
 Did He say that? Yes, just before the cloud received Him out of their sight, He said, "He that believes not shall be damned." It was He that said it! I should have liked to have seen how He looked when He thus spoke—the evident pain which crossed His mind and showed itself in His eyes as He said in effect, "There will be some who will not believe, but you must tell them plainly, "He that believes not shall be damned." I do warn you of this, men and women, every one of you—if I am not a believer in Christ, I shall be damned! And if you are not believers you will be damned! I beseech you run not so dreadful a risk!
 
 Trust yourselves with Jesus, right now, and you shall be saved, for it is He that says it, not I—"He that believes and is baptized shall be saved." And again, "He that believes in Him has everlasting life." I do not think He meant me to try and put this in any pretty shape in order to amuse you with it and so I have not tried to do so. I have spoken to you His own Word as best I know how. May He be pleased to weed out my frailties and throw them away, but may all that is His own live in your souls and mine unto eternal life! Amen.
-
 
 ---
 [[Sermon 1430 Refined, But Not With Silver|← #1430]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1432 Divine Interpositions|#1432 →]]

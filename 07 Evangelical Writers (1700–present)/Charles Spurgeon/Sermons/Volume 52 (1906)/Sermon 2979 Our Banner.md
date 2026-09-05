@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Our Banner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2979
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have given a banner to those who fear You, that it may be displayed because of the truth." Psalm 60:4.
 
@@ -152,7 +149,6 @@ Psalm 119:33. Teach me, O Lord, the way of Your statutes. The Psalmist is consta
 39, 40. For Your judgments are good. Behold, I have longed after Your precepts. Some people whom I know long after the promises, and others long after the doctrines. I hope that they will all get an equal longing for the precepts, for true Believers love the precepts as much as they love the promises or the doctrines. "Behold, I have longed after Your precepts."
 
 40\. Quicken me in Your righteousness.
-
 
 ---
 [[Sermon 2978 Power With God|← #2978]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2980 A Lift for the Prostrate|#2980 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Gospel Promise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3519
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will put My Spirit within you, and cause you to walk in My statutes, and you will keep My judgments, and do them." Ezekiel 36:27.
 
@@ -25,7 +22,7 @@ THE blessing here promised is one of the most essential that men can need, or th
 
 I am always apprehensive lest by any means in my ministry I should even seem to obscure this blessed and indispensable agency of the Holy Spirit. Oh, if the Spirit of God is not honored—if He takes offense at our neglect—if He withdraw from us—of what use will be our congregations? Of what use our earnestness, even if we could maintain it? To what purpose your assembling for prayer if you had not any wish to gather? Without Him, we can do nothing! He breathes all the animation into the Christian Church! Jesus is gone from us into Heaven, but He continues to reign and rule in our midst by His Vicegerent, the Holy Spirit! Let us honor Him. Let us rely upon Him. Let us earnestly seek Him. Let it be ours to declare Him, those of us who have to speak, and yours to receive Him, those of you who have to hear!
 
-I. WHO IS THIS SPIRIT?
+## I. Who Is This Spirit?
 
 He is spoken of in this text and often elsewhere. It is very necessary that we should talk over the commonplaces of the Gospel and the simplicities of the Word of God. I do not doubt but that there are some here who do not understand the Doctrine of the Divine Trinity. I have been annoyed—I would have been amused but for the sadness of the reflection—at the ignorance of some who have come in here and learned, for the first time, the most elementary Truths of the Gospel. They know them, now, and rejoice in them! They are even able to teach others. But when they first came, though not uneducated people, but well versed in some other matters—they had no more knowledge of the plan of Salvation, or even of the plain and simple fundamental Truths of the Gospel of Jesus—than if they had come here from the center of China, or some region into which our Bible had never been carried! Let it then be understood that the Holy Spirit, of whom we so often speak, is a Person. He is not a mere influence. We speak of "the influences of the Holy Spirit," and very properly so, but those influences proceed from a Person who works upon the minds of men by His influence. It is right to pray for the influences of the Holy Spirit, but it is not right to think of the Holy Spirit, Himself, as though He were an influence, for He is a Person!
 
@@ -39,7 +36,7 @@ It is a matter to be reverently accepted as it stands in the Word of God and to 
 
 That unpardonable sin against the Holy Spirit, I know not what it is—in vain might I assay to define it. It stands like a beacon, as if God saw that an ungodly and stiff-necked generation would vex the Holy Spirit and venture far in blasphemy! Therefore, while all manner of blasphemy shall be forgiven unto men, the sin against the Holy Spirit shall never be forgiven. Take heed you do not harden your heart, lest you should commit it! I do not believe you have. I know you have not if you desire to be saved. I am sure you have not if you are willing to come and put your trust in Jesus Christ. Still, I admonish you to take care and treat with reverence the very thought of the Holy Spirit, the Comforter, the Instructor of your souls. Your second question will be—
 
-II. HOW DOES HE FULFILL THIS PROMISE?
+## II. How Does He Fulfill This Promise?
 
 We understand by these words that those who formerly loved sin shall be made to love righteousness. That those who found it hard, at one time, to break off their evil ways, shall be induced to run with alacrity in the way of God's Commandments. Now this is a great thing to be promised and a very great thing to be obtained! By no human power could it
 
@@ -67,7 +64,7 @@ Nor must I omit to notice that one of the Spirit's great works is to dwell in Hi
 
 But that is a prayer for His special manifestation. The Holy Spirit is here. He lives in the Church. He has come as a Comforter who shall abide with us forever. He dwells in the bodies of His people—God is in His Temple. And, mark you, it is by this indwelling that the holiness of the Believer is kept up. If the Holy Spirit left him, he would return, like a dog to his vomit, but because the Holy Spirit looks out of these eyes and throbs in this hear and moves these hands, when the man is freely obedient to the Divine Power, the man is kept in the paths of integrity and his end is everlasting life! To gather up all these thoughts in one, whatever offices the Holy Spirit sustains to God's people, the result of all these offices will be to keep the man from going back to his old ways and to cause him to walk in God's statutes, and to keep God's judgments and do them! Do you wish, then, to be saved from sin and to be made holy? Look to the wounds of the bleeding Savior and remember that He has promised to give you the Holy Spirit, by whom you shall be made holy and kept in holiness till you stand hereafter without spot or wrinkle, or any such thing, before the Eternal Throne! In closing, I want to—
 
-III. SAY A FEW GOOD AND COMFORTABLE WORDS TO SOME OF YOU WHO MAY BE ANXIOUS TO POSSESS THIS SPIRIT OF GOD IN YOUR HEARTS.
+## III. Say a Few Good and Comfortable Words to Some of You Who May Be Anxious to Possess This Spirit of God in Your Hearts
 
 "Ah," complains one, "the Holy Spirit would never look on me!" Why do you have such a thought? Do you think to honor Him by such reflections? Far rather do you shame yourself. Know you not that He has looked on many such as you are and they are alive to tell of His condescending love? Will you look to Jesus? Will you cast yourself upon the Great Surety who has deigned to become the Scapegoat for sinners? If so, the Holy Spirit has looked on you! The first desire you have towards God comes from Him! These inward strivings which you feel now (tenderly do I wish that you may not stifle or quench them) come from Him! That fear, that anxiety, that longing may be and I trust they are, the initiative of a blessed work of the Holy Spirit within your soul! Judge not of the Holy Spirit as though He were reluctant. Nehemiah spoke of the Spirit of God as "the GoodSpirit." So He is! He is the very essence of goodness, taking goodness in the sense of benevolence. He is good to men, full of generous love towards them. We read of "the love of the Spirit." Sweet words! What must it be to appreciate them and to prove their meaning! The love of the Spirit! I marvel that the Spirit of God should come down into the valley of dry bones. I wonder that He should have contact with such corruption as ours and make us live! I am surprised that He has not left us long ago, dullards as we are in His school, yet He patiently teaches us. It is amazing to me that He should dwell in such poor temples as our clay bodies. Still, He does. He condescendingly abides with us. You speak of the love of Jesus in coming down to earth and enduring all its misery and shame—you cannot speak too well of that—but do not forget that the Holy Spirit has been abiding here these 1,800 years and still the dispensation of His government lasts—He is still waiting and striving, persuading, preciously illuminating, grandly quickening! Thus He will continue to do until the Lord Jesus, Himself, shall descend from Heaven with a shout and the dispensation of the Holy Spirit shall be perfected in the world to come! The Holy Spirit, then, is a good Spirit, and that should encourage you to go to Him with a full confidence in His Person and works.
 
@@ -83,7 +80,7 @@ If God does not raise up good men in the colleges to preach the Gospel, He will 
 
 degrading abominations of drunkenness He can extricate you! All the charms of worldliness He can dissolve! He can set you free, though you are now a captive fast in the inner prison with your feet in the stocks! While the Holy Spirit lives, while Jesus intercedes, while the Father is willing to receive prodigals, let no one despair! Grace makes the most worthless creatures welcome to the most inestimable blessings! What Paul said to saints I venture to say to sinners, "Covet earnestly the best gifts." Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14:21-31.
+## Exposition by C. H. Spurgeon: John 14:21-31
 
 In this "sacred farewell" talk of our Lord's, He gives us many a Revelation of the soul's way of communion with Him.
 
@@ -96,7 +93,6 @@ In this "sacred farewell" talk of our Lord's, He gives us many a Revelation of t
 27, 28. Peace I leave with you, My peace I give unto you: not as the world gives, give I unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, I go away, and come again unto you. If you loved Me, you would rejoice, because I said, I go unto the Father: for My Father is greater than I. Christ had, Himself, less than the Father in His state of humiliation. And now He is returning to the Father to be re-clothed with honor and majesty. Should we not rejoice in that?
 
 29-31. And now I have told you before it comes to pass, that when it is come to pass, you might believe. Hereafter I will not talk much with you: for the prince of this world comes, and has nothing in Me. But that the world may know that I love the Father; and as the Father gave Me commandment, even so I do. Arise, let us go. And He went to His death bravely determined to do the Father's will, though it meant the drinking up of that bitter cup which made His very soul to tremble within Him! God give us such love to Christ as Christ had to the Father!
-
 
 ---
 [[Sermon 3518 The Powerful Truth of God|← #3518]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3520 Jerusalem the Guilty|#3520 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Captive Savior Freeing His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 722
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 25, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, November 25, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Jesus answered, 'I have told you that I am He. If therefore you seek Me, let these go their way,' that the saying might be fulfilled, which He spoke, 'Of them whom You gave Me have I lost none.'" John 18:8,9.
 
@@ -132,7 +131,6 @@ What? Can't you give them up? Silly companions, idle habits, foolish songs, plea
 Can't you give these poor things up? Are they such dear attractions, such precious things, that you let Heaven go, and Christ go, sooner than let them go? No, I hope it will be a voice of power to you, and that you will say, "My Savior let them all go! What are they to me? I shall find ten thousand times more pleasure, and more profit, too, in following Christ than in following the best of them. So I let them go forever, and may they never entice me again." Have you any self-righteousness remaining? Are you in your own conceit better than other people? Do you secretly trust in your works? Now if you want Christ, you must let all that go!
 
 Christ will tread the winepress alone, and of the people, there must be none with Him. And if you seek to be saved by Christ it must not be by the works of the Law, but by Grace alone. Would to God that there might be a clean sweep made in some of your hearts, and that you would come to Jesus all empty-handed as you are, and say, "Yes, Master, Your precious blood, Your triumphant Resurrection, Your effectual plea—these are our hope and these our joy. We would serve You in life, and bless You in death. Yours we are, Son of God, and all that we have! Take us and keep us, and Yours be the praise. Amen.
-
 
 ---
 [[Sermon 0721 The Last Enemy Destroyed|← #721]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0723 The Root That Bears Wormwood|#723 →]]

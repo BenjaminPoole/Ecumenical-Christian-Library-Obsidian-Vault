@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Songs in the Night
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2558
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But none says, Where is God my Maker, who gives songs in the night?" Job 35:10.
 
@@ -120,7 +117,6 @@ Sinner, to be saved, all you have to do is to look at that Man! Can you not do i
 "No sinner was ever empty sent back, Who came seeking mercy for Jesus'sake."
 
 I beseech you, therefore, try Him and you shall not try Him in vain! You shall find Him "able to save them to the uttermost that come unto God by Him." And you shall, by His Grace, be saved now—and saved forever!
-
 
 ---
 [[Sermon 2557 A Vexed Soul Comforted|← #2557]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2559 Co-workers With God|#2559 →]]

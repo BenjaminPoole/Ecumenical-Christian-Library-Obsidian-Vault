@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 22
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Without address. On the Perfection of the Life of Solitaries.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # A Handkerchief
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2956
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said to her, Woman, why are you weeping? Whom are you seeking?" John 20:15.
 
@@ -100,7 +97,6 @@ If these do not meet your case, I do not know what you would wish to have. My Lo
 then commences in you, as the work of salvation for you is already complete and you shall be saved from your sins, made new creatures, and made holy creatures through the power of that blessed Spirit whom Jesus Christ bestows upon those who believe in Him!
 
 May God bless the words I have spoken to the comfort of some! I believe He will. I expect He will. I know He will! And He shall have the Glory. Amen.
-
 
 ---
 [[Sermon 2955 Simple But Sound|← #2955]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2957 Advance!|#2957 →]]

@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 15. Homily of Salvation
 
-HOMILY OF SALVATION1.
+*Homily of Salvation 1*
 
 The efficacy of Christ's passion and oblation.
 
@@ -41,7 +40,7 @@ Cranmer, Vol. I. pp. 213, 14. 249. Ed. Oxon. 1840. Eccl. Memorials, Vol. I. pp. 
 
 [7 When they turn again, Ibid.]
 
-OF SALVATION. ]2()
+## Of Salvation. ]2()
 
 And although this justification be free unto us, yet it cometh not so freely to usa, that there is no ransom paid therefore at all.
 
@@ -63,7 +62,7 @@ I12 But are justified, Ibid.]
 
 [14 Which must go together, Eds. 1560, 62.]
 
-[CRANMER, II.]
+## [Cranmer, II.]
 
 [15 Doth not shut out the justice, but only shutteth out the justice of man, Ibid.] ['"' Doth not shut out, Ibid.]
 
@@ -103,7 +102,7 @@ TricrTei $e fiovy Trj £is XPKTTOI/ fieSiKaiu)- fjievov. KOL Ka.vyjS.Ta.1 IlauXo
 
 [10 Quia hoc constitutum est a Deo, utqui credit in Christum, salvus sit sine opere, sola fide gratis accipiens remissionem peccatorum — Ambros. in Epist. 1 ad Corinth. Cap. i. v. 4. Tom. III. p. 161. Ed. Colon. Agrip. 1616.]
 
-OF SALVATION.
+## Of Salvation
 
 without works, by faith only, we obtain remission of our sins ? These and other like sentences, that we be justified by faith only, freely, and without works, we do read ofttimes in the most best and ancient writers : as, beside Hilary, Basil, and St Ambrose, before rehearsed, we read the same in Origen, St Chrysostom, St Cyprian, St Augus tine, Prosper, CEcumenius, Photius, Bernardus, Anselm, and many other authors, Greek and Latin11.
 
@@ -149,7 +148,7 @@ Truth it is, that our own works doth not6 justify us, to speak properly of our j
 
 [5 Matters of contention, Ed. 1560.] [6 Works do not, Eds. 1560, 62.] [7 Only merits or deserving, Ed. 154J. Only mercies and deservings, Eel. 1560. j
 
-OF SALVATION.
+## Of Salvation
 
 ancient fathers of the church from time to time have uttered our justification with this speech, Only faith justifieth us ; meaning none other thing than St Paul meant, when he said, Faith without works justifieth us. And because all this is brought to pass through the only merits and deservings of our Saviour Christ, and not through our merits, or through the merit of any virtue that we have within us, or of any work that cometh from us; therefore, in that respect of merit and deserving, we renounce, as it were8, altogether again faith, wrorks, and all other virtues. For our own imperfection is so great, through the corruption of original sin, that all is imperfect that is within us ; faith, charity, hope, dread, thoughts, words, and works ; and therefore not apt to merit and deserve any part of our justification for us. And this form of speaking we use9, in the humbling of ourselves to God, and to give all the glory to our Saviour Christ, which is best worthy to have it.
 
@@ -163,7 +162,7 @@ I10 Ed. 1547 (Grafton) reads, " his present life," probably a misprint.]
 
 [13 Himself to be very God, Ed. 1562.] [13 From everlasting death, Eds. 1560, 62. [14 Hand of God the Father, Ed. 1562.] [15 Be forgiven, Eds. 1560, 62. j [10 Shall not enjoy the kingdom, Ibid.]
 
-]34 HOMILY OF SALVATION.
+## ]34 Homily of Salvation
 
 come unto resurrection1 of judgment." And very well they know2 also, that "to them that be contentious, and to them that will not be obedient unto the truth, but will obey unrighteousness, shall come indignation, wrath, and affliction," &c.
 

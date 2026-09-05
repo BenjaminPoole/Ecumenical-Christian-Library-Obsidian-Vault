@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 11. Chapter IX
 
-THE CHURCH FOUNDED ON CHRIST, THE ROCK
+*The Church Founded on Christ, the Rock*
 
 The third foundation, included in the proposition (Matt. 16 : 18) is touched upon in the words: "On this rock I will build my church." And in view of the fact that in their utterances the popes most of all use this saying of Christ, wishing to draw from it that they themselves are the rock or the foundation upon which the church stands, namely upon Peter, to whom it was said, "Thou art Peter," — in view of this fact, in order to understand the Lord's word it must be noted that the foundation of the church by whom it is founded is touched upon in the words: "I will build," and the foundation in which it is laid is referred to in the words, "on this Rock," and the foundation wherewith the church is founded is referred to in the words, "Thou art the Christ, the Son of the living God." Christ is therefore the foundation by whom primarily and in whom primarily the holy catholic church is founded, and faith is the foundation with which it is founded — that faith which works through love, which Peter set forth when he said: "Thou art the Christ, the Son of the living God." The foundation, therefore, of the church is Christ, and he said: "Apart from me ye can do nothing," John 15 : 5; that is, apart from me as the prime and principal foundation. But Christ grounds and builds his church on himself, the Rock, when he so influences her that she hears and does his words, for then the gates of hell do not prevail against her. Hence Christ says: "Every one that cometh unto me and heareth my words and doeth them, I will show you to whom he is like: he is like a man building a house, who built a house deep and laid the foundation on a rock : and when the flood arose, the stream brake against that house, and could not shake it : f or it was founded on the rock," Luke 6 : 47. And what this foundation is, the apostle Paul shows in I Cor. 3 : 11: "Other foundation can no man lay than that which is laid, which is Christ Jesus"; and I Cor. 10 : 4: "But the rock was Christ." Therefore, it is in this foundation and on this rock and from this rock up that the holy church is built, for he says: "Upon this Rock I will build my church."
 
@@ -22,7 +21,7 @@ And on this foundation the apostles built the church of Christ. For not to thems
 
 Now, this foundation is the rock of righteousness of which
 
-THE CHURCH FOUNDED ON CHRIST 75
+## The Church Founded on Christ 75
 
 Christ spoke in the Gospel to St. Peter: "Thou art Peter, and upon this Rock I will build my church." On these words St. Augustine says, in his Sermons on the Words of the Lord, 13 [Nic. Fathers, 6 : 340]: "Our Lord Jesus Christ thus spake to Peter, Thou art Peter and upon this rock I will build my church — on this Rock, which thou hast confessed, on this Rock which thou hast recognized, when thou saidst, 'Thou art Christ, the Son of the living God ' — ' I will build my church ' : I will build thee upon myself, not myself upon thee. For wishing that men should be built upon men, they were saying, 'I am of Paul, I of Apollos, and I of Cephas/ that is, Peter. And others who did not wish to be built upon Peter — Petrum — but upon the Rock — Petram — said, 'I am of Christ.' " Again, in his last Homily on John [Nic. Fathers, 7 : 450], Augustine says: "Peter the apostle, because of the primacy of his apostleship, had a symbolic and representative personality, for what belonged to him as an individual was that by nature he was one man, by grace one Christian, and by a more abundant grace he was one and the same chief apostle. But when it was said to him: 'I will give unto thee the keys of the kingdom of heaven, and whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven,' he represented the universal church which in this world is shaken by divers temptations, even as by torrents of rain, by rivers, and tempests, and yet doth not fall, because it is founded upon the Rock, the word from which Peter got his name. For Rock — Petra — does not come from Peter — Petrus — but Peter from Rock, just as the word Christ is not derived from Christian, but Christian from Christ.
 
@@ -78,7 +77,7 @@ It is conceded, however, that Peter had his humility, poverty, steadfastness of 
 
 8 Anacletus, 79^-91 ?, placed by the Catholics in the list of popes second after Petcr. Linus, Anacletus, Clement were probably contemporary presbyters in Rome, as Lipsius says. This quotation is from Pseudo-Isidore. Thirty quotations are ascribcd to Anacletus in the Corp. jur. can.
 
-THE CHURCH FOUNDED ON CHRIST 83
+## The Church Founded on Christ 83
 
 By what was said above in Chapters II, III, IV, namely, that the holy universal church is one and consists of all the predestinate that are to be saved and that Christ alone is the head of the church, just as he alone is the most exalted person in the church, imparting to it and to its members motion and understanding unto the life of grace, so it is evident that Peter never was and is not now the head of the holy catholic church. And the dictum of St. Dionysius is true, that Peter was the captain among the apostles and was the foundation of churches, as is said in the next chapter of the apostles. And the dictum of Augustine is also true, that by a certain prerogative Peter was the first among the apostles. And the dictum of Marcellus is also true, that Peter was the head of the whole church which he ruled by his teaching and example. But he was not a person higher in dignity than Christ's mother; nor was he equal to Christ or made the governor of the angels who, at that time, were the church triumphant.
 
@@ -90,7 +89,7 @@ But the reason for Christ's appointing Peter after himself as captain and shephe
 
 2 Referring to Prov. 8, Wisdom being intcrpreted to mean the second person of the Trinity by the old commentators.
 
-THE CHURCH FOUNDED ON CHRIST 85
+## The Church Founded on Christ 85
 
 And so Peter heard from the Lord's lips the words: "Blessed art thou, Simon Bar-Jonah, for flesh and blood hath not revealed this unto thee, but my Father which is in heaven." And because of this faith Peter received the burden of the church's prefecture. And the Rock said: "I say that thou art Peter and upon this Rock I will build my church." Hence, on account of these things Peter's vicars and those appointed to rule in the church are bound to preach the church's faith. Therefore, the Saviour said: "I have prayed for thee, that thy faith fail not; and do thou, when once thou hast turned again, establish thy brethren," Luke 22:32. Therefore, praying for faith, "he was heard for his godly fear," Heb. 5 = 7-
 
@@ -102,7 +101,7 @@ Peter's second virtue was humility. Inasmuch as Peter heard from his Master the 
 
 As for the third virtue, love, it is plain that Peter had this in certain respects above the others, as appears from the fervor of his acts which fittingly proceed from greater love. This is confirmed by the fact that otherwise he would have been ungrateful, if he had not loved his Master, in a way corresponding to Him who had loved him in so peculiar a way, and wiped him clean from his great blasphemy and graciously placed him over his sheep. Again it is confirmed by this, that otherwise there would have been no fitness in the
 
-THE CHURCH FOUNDED ON CHRIST 87
+## The Church Founded on Christ 87
 
 Master asking him, "Simon, son of John, lovest thou me more than these?" and then immediately committing to him his sheep to feed, John 21 : 15. But here it should be noted that the reasons for loving Christ are manifold. Some love Christ more than others on the ground of his divinity, as is believed to have been the case with John the Evangelist; others because of his humanity, as is believed to have been the case with Philip; and others love Christ because of his body which is the church, and so men love him for many other reasons, for which, in the case of a certain saint, they quote Ecclesiasticus 42: "No one has been found like unto him in keeping the law of the Most High." Peter's pre-eminence is manifest from his faith, humility, love, yea, and also from his poverty and endurance. For he said to the man asking an alms: "Silver and gold have I none, but such as I have give I thee," Acts 3 : 6. And, because he heard from the Master the words, "In your patience possess ye your souls," Luke 21 : 19, it seems probable that, after his denial of the Master, Peter stood for that very reason more ready to endure martyrdom and especially for the reason that, recognizing his weakness, he had fresh in his mind the memory of his own frailty in denying his Master. And for this reason he stooped in humility to others and was more ready to suffer imprisonments, even unto death, for the Lord whom he denied. Nor is it to be doubted that he bore with an humble mind Herod's prison in Jerusalem, the prison of ) Theophilus in Antioch, and Nero's prison at Rome.
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 94
-
-**PSALM 94**
 
 The Psalmist implores Divine assistance against wicked and violent men, who persecuted the upright in a cruel and tyrannical manner. It is evident that he refers to domestic foes, whose unrighteous domination was as vexatious and oppressive to the Lord’s people, as all the injuries received from the Gentile nations without.
 

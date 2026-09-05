@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Heedlessness In Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 685
 
-DELIVERED ON SUNDAY MORNING, APRIL 15, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 15, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > 2 Kings 10:31.
 
@@ -152,7 +151,6 @@ And when you come to Christ and trust in Him, then I know you will cry—
 "Loved of my God, for Him again With love intense I'd burn! Chosen of Him before time began, I choose Him in return."
 
 God bless this sermon of admonition, and make it profitable to every hearer, and His shall be the praise. Amen.
-
 
 ---
 [[Sermon 0684 Hope, Yet No Hope—No Hope, Yet Hope|← #684]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0686 Obedience Better Than Sacrifice|#686 →]]

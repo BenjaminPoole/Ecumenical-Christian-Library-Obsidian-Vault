@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Justice Vindicated And Righteousness Exemplified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3038
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Being justified freely by His Grace through the redemption that is in Christ Jesus; whom God has set forth to be a propitiation through faith in His blood, to declare His righteousness for the remission of sins that are past, through the forbearance of God; to declare, I say, at this time His righteousness: that He might be just, and the justifer of him who believes in Jesus." Romans 3:24-26.
 
@@ -97,7 +94,7 @@ I am not in the habit of often using such strong words. I rather love to plead t
 
 if you believe in Him. God give you the Grace to believe, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 3:19-31; 4:1-21.
+## Exposition by C. H. Spurgeon: Romans 3:19-31; 4:1-21
 
 Romans 3:19, 20. Now we know that what things soever the Law says, it says to them who are under the Law: that every mouth may be stopped, and all the world may become guilty before God. Therefore by the deeds of the La w there shall no flesh be justified in His sight for by the Law is the knowledge of sin. The Law can convict and condemn, but it can never justify the guilty. Its special work is to prove that they are not justified in sinning and to stop their mouths from uttering any excuse for their sin.
 
@@ -124,7 +121,6 @@ Law, but through the righteousness of faith. For if they which are of the Law ar
 17\. Before Him whom he believed, even God, who quickens the dead, and calls those things which are not as though they were. Abraham was a believer in the God of Resurrection, expecting to see Isaac raised up from the dead if he did actually offer him as a sacrifice to God. He was a believer in things that were not yet apparent to him, looking forward to them and expecting to see them in due time—believing in them because he believed in God, who "calls those things which are not as though they were."
 
 18-21. Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall your seed be. And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb: he staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God; and being fully persuaded that what He had promised, He was able also to perform.
-
 
 ---
 [[Sermon 3037 Christians Kept From Sin|← #3037]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3039 The King's Sharp Arrows|#3039 →]]

@@ -9,13 +9,11 @@ tags:
   - puritans
   - john-bunyan
 ---
-
 # THE AUTHOR'S WAY
 
-OF SENDING FORTH HIS SECOND PART OF THE PILGRIM
+*Of Sending Forth His Second Part of the Pilgrim*
 
 ## Is the hearty prayer of The Author, JOHN BUNYAN.
-
 
 ---
 [[PSP 11 PART II|← PART II]] · [[The Pilgrim's Progress|Contents]] · [[PSP 13 TO THE READER|TO THE READER →]]

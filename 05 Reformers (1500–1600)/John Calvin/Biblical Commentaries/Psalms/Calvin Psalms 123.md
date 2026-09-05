@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 123
-
-**PSALM 123**
 
 In this Psalm, the faithful oppressed with the cruel tyranny of their enemies, beseech God to deliver them, there being no other source of hope left for them except in his protection.
 

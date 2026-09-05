@@ -10,14 +10,13 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 1
 
 **Commentary**
 
 **upon the book of Psalms**
 
-**PSALM 1.**
+## **Psalm 1.**
 
 He who collected the Psalms into one volume, whether Ezra or some other person, appears to have placed this Psalm at the beginning, by way of preface, in which he inculcates upon all the godly the duty of meditating upon the law of God. The sum and substance of the whole is, that they are blessed who apply their hearts to the pursuit of heavenly wisdom; whereas the profane despisers of God, although for a time they may reckon themselves happy, shall at length have a most miserable end.
 

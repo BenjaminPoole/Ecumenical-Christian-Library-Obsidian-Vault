@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # 'Love and I' A Mystery
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1667
@@ -131,8 +130,7 @@ To bear me to the King.’
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 17.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’917, 797, 766.
-
+## Hymns from ‘Our Own Hymn Book’917, 797, 766
 
 ---
 [[Sermon 1666 The First Recorded Words of Jesus|← #1666]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1668 The Still Small Voice|#1668 →]]

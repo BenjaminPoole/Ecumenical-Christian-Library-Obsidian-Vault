@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 9
 
 V. 1. star. He declares with what fuel the flame of heretics, of which he had ispoken briefly^ was kindled. The old enemy forsooth, whom the Lord saw ^* like lightning fall from heaven v/' opened the heart of his own by blasphemous doctrine, and taught them to speak impiety against the Most High.
@@ -88,8 +86,6 @@ serpents. For the false teachers of the old serpent who deceived man, like those
 Prov. xxiv. 24. ' Ps. X. 8. Sept., and Vulg., as Bed.;
 
 A. v., with Heb., " in the lurking-places of the villages." Bellarmine in Comment, in Psalm, ^ thinks that it is probable that the Hebrew text has been changed since the Septuagint translation was made.
-
-68 Explanation of the Apocalypse. [bk. ii.
 
 20. the rest Ashe had described the false Christians and heretics, in order that he may comprehend the whole body of the devil, he now mentions also the error of the heathen, to whom it is of no avail not to have been slain by these plagues, as it is evident that they still continue in heathen wickedness. For not even in that last persecution will the heathen be compelled to yield their assent by the things mentioned above, but will die in their unbelief
 

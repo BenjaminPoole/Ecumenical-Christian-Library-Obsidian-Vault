@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon V. Holiness urged from the liability of all things to dissolution. 2 Peter iii. 11
-
-## Sermon V. Holiness urged from the liability of all things to dissolution.
 
 Preached July 11, 1673.
 
@@ -87,7 +84,6 @@ First, Because in every such dissolution, especially where the gospel hath been 
 Secondly, What doth he come for? Why, every such time of dissolution is a lesser day of judgment. I thought to have showed you how Christ in such a season will execute judgment. There are two parts of the judgment that Christ will execute. One is in vengeance upon his adversaries; the other is in trial upon his people. The apostle puts both together, Heb. x. 30, “Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.” The first place is taken out of Deut. xxxii. 35, and the latter place is taken out of Ps. l. 4. In the first place, God doth eminently speak of his stubborn adversaries, of his enemies: “Vengeance belongeth unto me,” saith he, “I will recompense.” And in the latter place, he directly speaks of his saints, of his own people, “The Lord will judge his people;” as we may see Ps. l. 4. Why doth our apostle put both these together, things of so wonderfully different natures, “Vengeance belongeth unto me,” and, “The Lord shall judge his people”? The reason is, because though these works are wonderfully distant and discrepant one from another, yet Christ doth them always at the same time. When he taketh vengeance upon his adversaries, he judgeth his people. He judgeth the profession of many, and will put an end to it, determine it. He judgeth the miscarriages of others, and reproves them. He comes as a spirit of judgment in all such trials. Let none mistake themselves. Whenever Christ comes to take vengeance on his people’s enemies, he cometh also to judge his people. We are wonderfully apt to have pleasant thoughts, that when the Lord comes forth in judgment on the world professors shall be hid, and shall escape. No; saith he, “Vengeance belongeth unto me, I will recompense;” and again, “The Lord shall judge his people.”
 
 What manner of persons, then, ought we to be? If Christ be coming to judge us, to make a judgment upon ore’ profession, he will come into a church, and discard one for a false professor, and another for a false professor. Have none of us seen such a day of judgment already, — how God, by his providence, hath discarded many already? And he will do so more and more. He will discover hypocritical professors, and bring forth their hidden works of darkness; he will reprove others for their worldliness and unprofitableness under the gospel. How? It may be by consuming them, all they have in this world, bringing them to great poverty and distress. He will judge them in these things. ‘You have loved the world, and you shall have nothing left you in the world.’ Don’t expect the day of the Lord will be all light; there is sharpness even to his own in the coming of Christ, when he shall come with a destructive dissolution. It is good, therefore, to be preparing beforehand for his entertainment, and considering what manner of persons we ought to be in all holy conversation and godliness, seeing Christ will thus come and call upon us.
-
 
 ---
 [[SJO 107 Sermon IV. Spiritual strength; — its reality, decay, and renovation. Isaiah xl.|← Sermon IV. Spiritual strength; — its reality, decay, and renovation. Isaiah xl. 31]] · [[Sermons of John Owen|Contents]] · [[SJO 109 Sermon VI. The obligation to increase in godliness. 1 Thessalonians iv. 1|Sermon VI. The obligation to increase in godliness. 1 Thessalonians iv. 1 →]]

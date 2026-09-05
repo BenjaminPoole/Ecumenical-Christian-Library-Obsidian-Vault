@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # The Best Burden for Young Shoulders
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1291
-
-DELIVERED BY.
 
 > "It is good for a man that he bear the yoke in his youth." Lamentations 3:27.
 
@@ -150,7 +147,6 @@ This should give joy to you at all times—it must be good for you to bear the y
 "The way may be rough but it cannot be long So let's smooth it with hope, and cheer it with song."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Lamentations 5. HYMNS FROM "OUR OWN HYMN BOOK"—750, 748.
-
 
 ---
 [[Sermon 1290 Godly Fear and Its Goodly Consequence|← #1290]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1292 The Soul-Winner|#1292 →]]

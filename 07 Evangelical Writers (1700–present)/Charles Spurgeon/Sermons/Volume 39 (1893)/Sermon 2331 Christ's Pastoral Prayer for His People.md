@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Christ's Pastoral Prayer for His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2331
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I pray for them: Ipray not for the world, but for them which You have given Me; for they are Yours. And all Mine are Yours, and Yours are Mine; and I am glorified in them." John 17:9,10.
 
@@ -55,7 +52,7 @@ I think that I have said enough to show you the intensity of the sense of proper
 
 II. The next head of my discourse is THE INTENSITY OF UNITED INTEREST BETWEEN THE FATHER AND
 
-THE SON CONCERNING BELIEVERS.
+## The Son Concerning Believers
 
 First, let me say that Jesus loves us because we belong to the Father. Turn that Truth of God over. "My Father has chosen them, My Father loves them. Therefore," says Jesus, "I love them and I lay down My life for them, and I will take My life, again, for them, and live throughout eternity for them. They are dear to Me because they are dear to My Father." Have you not often loved another person for the sake of a third one upon whom all your heart was set? There is an old proverb and I cannot help quoting it just now. It is, "Love me, love my dog." It is as if the Lord Jesus so loved the Father that even such poor dogs as we are get loved by Him for His Father's sake! To the eyes of Jesus we are radiant with beauty because God has loved us.
 
@@ -107,7 +104,7 @@ Soldiers of Christ are to fight the battle out where they are. To quit the field
 
 Now, I want that we should so come to the Communion Table, tonight, that even here Christ may be glorified in us. Ah, you may sit at the Lord's Table wearing a fine dress or a diamond ring and you may think that you are somebody of importance, but you are not! Ah, you may come to the Lord's Table and say, "Here is an experienced Christian man who knows a thing or two." You are not glorifying Christ that way—you are only a nobody! But if you come, tonight, saying, "Lord, I am hungry, You can feed me"—that is glorifying Him! If you come saying, "Lord, I have no merit and no worthiness. I come because You have died for me and I trust You"—you are glorifying Him! He glorifies Christ most who takes most from Him and who then gives most back to Him! Come, empty pitcher, come and be filled! And, when you are filled, pour all out at the dear feet of Him who filled you! Come, trembler, come and let Him touch you with His strengthening hands, and then go out and work—and use the strength which He has given you! I fear that I have not led you where I wanted to bring you—close to my Lord and to the Father—yet I have done my best. May the Lord forgive my feebleness and wandering, and yet bless you for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN17.
+## Exposition by C. H. Spurgeon: John 17
 
 Verses 1, 2. These words spoke Jesus and lifted up His eyes to Heaven, and said, Father, the hour is come; glorify Your Son, that Your Son also may glorify You: as You have given Him power over all flesh, that He should give eternal life to as many as You have given Him. Here the Doctrines of a General and a Particular redemption sweetly blend, "As You have given Him power over all flesh," they are all under Christ's mediatorial government by virtue of His matchless Sacrifice. But the object in view is specially the gift of everlasting life to the chosen people—"that He should give eternal life to as many as You have given Him."
 
@@ -146,7 +143,6 @@ are not of the world, even as I am not of the world. Jesus puts twice over this 
 26\. And I have declared unto them Your name, and will declare it. I read it to you as it stands. Our good translators were always afraid of using a word too often, for fear of falling into tautology. So, for what they considered the beauty of the language, they used the word, "declared," instead of, "I made known." But why should they have done so? Who were they that they should have needed to improve on Christ's Words? It should be the same Word right on—"The world has not known You: but I have known You, and these have known that You have sent Me. And I have made known unto them Your name, and will make it known."
 
 26\. That the love wherewith You have loved Me may be in them, and I in them. Oh, that this love may be in us, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2330 Witnessing Better Than Knowing the Future|← #2330]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2332 Lessons From the Manna|#2332 →]]

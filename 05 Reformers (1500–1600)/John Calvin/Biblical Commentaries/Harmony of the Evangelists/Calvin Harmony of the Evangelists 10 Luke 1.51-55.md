@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 10. Luke 1:51-55
-
-**LUKE 1:51-55**
 
 **51**. He hath done might [^1] with his arm: he hath scattered the proud in the thought of their heart. **52**. He hath cast down the nobles from their thrones, and hath exalted mean persons. **53**. He hath filled the hungry with good things, and hath sent the rich away empty. **54**. He hath lifed up his servant Israel, so as to be mindful of his mercy, **55**. As he spake to our fathers, to Abraham, and to his seed for ever.
 

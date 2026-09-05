@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Members Of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2244
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For we are members of His body, of His flesh, and of His bones." Ephesians 5:30.
 
@@ -172,7 +169,6 @@ How blest are they, and only they,
 Who in His truth confide!" God bless you all, for Christ's sake! Amen.
 
 Portion of Scripture Read before Sermon—Ephesians 5.
-
 
 ---
 [[Sermon 2243 His Own Funeral Sermon|← #2243]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2245 Living, Loving, Lasting Union|#2245 →]]

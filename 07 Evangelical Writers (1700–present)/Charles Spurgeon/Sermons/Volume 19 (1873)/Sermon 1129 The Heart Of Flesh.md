@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # The Heart Of Flesh
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1129
@@ -57,7 +56,7 @@ Some of you have attended this place ever since it was built [12 years earlier] 
 
 The devil himself could not make a Judas till he had found a false Apostle. You must look among hypocritical professors of religion if you would find the worst of men! And I must add, you may succeed best in your search if you can find a false-hearted minister. The higher the place in God's garden the more the weeds stink. The hardest-hearted men of all are not those who have been guilty of crimes against society and have been put away into our jails—often a little kindness will melt these savages down. No, the worst of all are those demons in human shape who make a profession of being the people of God and all the while know that they are sinning wickedly with both hands! To cover a vile life with the coverlet of a Christian profession is a sign of reprobation. Take men, however, at any stage, this is still true—that the heart of flesh is not to be found in any unregenerate man.
 
-II. WHEREVER TRUE TENDERNESS IS FOUND, IT IS A SPECIAL GIFT OF THE NEW COVENANT. A
+## II. Wherever True Tenderness Is Found, It Is a Special Gift of the New Covenant. A
 
 heart of flesh is a gift of Sovereign Grace and it is always the result of Divine power. No heart of stone was ever turned into flesh by accident, nor by mere Providential dispensations, nor by human persuasions. You might argue with a rock a long while before you would persuade it into flesh. Neither is such a change worked by a man's own actions. How shall a stone, being a stone, produce in itself flesh?
 
@@ -144,7 +143,6 @@ praise. We can pray without any earnestness or fervency. We can read the Bible w
 I beseech you who are Believers to strive after this. Remember how tender the Savior was. There was no stone about His heart. May you be as tender as He was and you will then be fashioned into the likeness for which God is preparing you by His eternal Spirit. Dread growing hard in your thoughts of sin! Dread growing cold in your thoughts of Christ! Dread growing stony in your thoughts of your fellow sinners! And let this promise be pleaded in your prayers before God, "I will take away the heart of stone out of your flesh, and I will give you a heart of flesh." The Lord fulfill it to you for His Truth's sake and His name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ezekiel 36.
-
 
 ---
 [[Sermon 1128 Love's Crowning Deed|← #1128]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1130 The Christian's Great Business|#1130 →]]

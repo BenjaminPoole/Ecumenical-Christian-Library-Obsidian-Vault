@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # One War Over and Another Begun
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1679
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 17, 1882,.
+*Delivered on Lord's-Day Morning, September 17, 1882*
 
 > "And when Gideon perceived that He was the Angel of the Lord, Gideon said, Alas, O Lord God! For I have seen the Angel of the Lord face to face. And the Lord said unto him, Peace be unto you; fear not: you shall not die. Then Gideon built an altar there unto the Lord, and called it Jehovah-Shalom." Judges 6:22-24.
 
@@ -96,7 +95,6 @@ Beloved, if God has given you peace, go home and begin your reform! I would prea
 It was a Psalm in two words. It was a song of one verse, infinitely sweet. "Jehovah-Shalom"—The Lord Our Peace. Moreover, it was a prayer, as the margin puts it—"Jehovah, send peace." If you have peace with God, let your next prayer be, "Lord, give peace to all Your people." "Pray for the peace of Jerusalem." Work it, O Holy Spirit of Peace! Then ask for peace by conquest of an ungodly world for Jesus till the first Christmas carol shall be sung again, "Glory to God in the highest, peace on earth, goodwill toward men."
 
 See, Brothers and Sisters, and with that I finish, there may sit here, this morning, a young man who does not know what God is going to make of him. The capacities of service that God can infuse into a single individual are marvelous! At present you are disturbed in mind, afflicted in heart, ill at ease—you need perfect peace, but you have not found it, yet. Rest not till you have it. At God's own altar, where Jesus died, you will find it, and only there. When Jesus' blood makes peace with God, there is your peace. Rest not till you are assuredly at peace with the Lord of All, so that your soul lies down in green pastures and is led by the still waters.
-
 
 ---
 [[Sermon 1678 The Samaritan Woman and Her Mission|← #1678]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1680 Bochim—Or, the Weepers|#1680 →]]

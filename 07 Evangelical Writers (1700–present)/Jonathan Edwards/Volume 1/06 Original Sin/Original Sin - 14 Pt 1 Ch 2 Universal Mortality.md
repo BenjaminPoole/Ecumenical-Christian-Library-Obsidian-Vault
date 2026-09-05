@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. II.
 
-UNIVERSAL MORTALITY PROVES ORIGINAL SIN; PARTICULARLY THE DEATH OF INFANTS, WITH ITS VARIOUS CIRCUMSTANCES.
+*Universal Mortality Proves Original Sin; Particularly the Death of Infants, with Its Various Circumstances*
 
 Theuniversal reign of *death* over persons of all ages indiscriminately, with the awful circumstances and attendants of death, prove that men come sinful into the world.—It is needless here particularly to inquire, Whether God has not a sovereign right to set bounds to the lives of his own creatures, be they sinful or not; and as he gives life, so to take it away when he pleases? Or how far God has a right to bring extreme suffering and calamity on an innocent moral agent? For death, with the pains and agonies with which it is usually brought on, is not merely a limiting of existence, but is a most terrible calamity; and to such a creature as man—capable of conceiving of immortality, made with an earnest desire after it, capable of foresight and reflection on approaching death, and having an extreme dread of it—is a calamity above all others terrible. I say, it is needless elaborately to consider, whether God may not, consistent with his perfections by absolute sovereignty, bring so great a calamity on mankind when perfectly innocent. It is sufficient, if we have good evidence from Scripture, that it is not agreeable to God’s manner of dealing with mankind so to do.
 

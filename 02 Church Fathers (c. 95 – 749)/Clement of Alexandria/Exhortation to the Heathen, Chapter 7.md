@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # Exhortation to the Heathen, Chapter 7
 
-BY CLEMENT OF ALEXANDRIA
+*By Clement of Alexandria*
 
 ## Chapter 7. The Poets Also Bear Testimony to the Truth.
 

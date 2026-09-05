@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Beginning of Months
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1637
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 1, 1882..
+*Delivered on Lord's-Day Morning, January 1, 1882*
 
 > "And the Lord spoke unto Moses and Aaron in the land of Egypt, saying, this month shall be unto you the beginning of months: it shall be the first month of the year to you." Exodus 12:1,2.
 
@@ -164,7 +163,6 @@ Everything is out of joint till a man knows Christ! Everything is disorderly and
 I wonder how long a man ought to thank God for forgiving his sins? Is life long enough? Is time long enough? Is eternity too long? How long ought a man to thank God for saving him from going down to Hell? Would 50 years suffice? Oh no, that would never do—the blessing is too great to be all sung of in a millennium! Suppose you and I never had a single mercy except this one, that we were made the children of God and co-heirs with Christ Jesus? Suppose we had nothing else to enjoy? We ought to sing about that, alone, forever and ever! Yes, if we were sick, cast on the bed of pain with a hundred diseases—with our bones sticking through our skin—yet since God's everlasting mercy will sanctify every pain and every affliction, should we not still continue to lift up happy Psalms to God and praise Him forever and ever?
 
 Therefore, let that be your watchword all through the year—"Hallelujah, praise the Lord!" The Israelite always closed the Passover with a hymn of praise and, therefore, let us close our sermon this morning with holy joy and continue our happy music till this year ends, yes, till time shall be no more! Amen.
-
 
 ---
 [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1638 Men Without Heart, Sight, or Hearing|#1638 →]]

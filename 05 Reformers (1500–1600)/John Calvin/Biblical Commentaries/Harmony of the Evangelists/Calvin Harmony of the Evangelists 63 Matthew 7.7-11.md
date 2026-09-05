@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 63. Matthew 7:7-11; Luke 11:5-13
-
-**MATTHEW 7:7-11; LUKE 11:5-13**
 
 **7**. Ask, and it shall be given you: seek, and ye shall find: knock, and it shall be opened to you. **8**. For every one that asketh receiveth, and he that seeketh findeth, and to him that knocketh it shall be opened. **9**. Is there any man among you, who, if his son shall ask bread, will give him a ston? **10**. Or if he shall ask a fish, does he offer him a serpent? **11**. If you, then, though you are evil, know to give good gifts to your children, how much more shall your Father, who is in heaven, give good things, if you ask them from him?
 

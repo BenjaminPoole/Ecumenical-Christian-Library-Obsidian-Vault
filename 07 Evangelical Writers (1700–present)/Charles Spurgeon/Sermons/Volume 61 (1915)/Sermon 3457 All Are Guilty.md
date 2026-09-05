@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # All Are Guilty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3457
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Pilate said unto them...'Let Him be crucified.'" Matthew 27:22,23.
 
@@ -25,7 +22,7 @@ THIS morning we heard the shouts of "Hosanna!" It was very delightful to us to b
 
 The point, however, to which I shall endeavor to draw your attention tonight (and may the Holy Spirit assist us) is of far more importance than the prattling gossip of the vulgar crowd. In this sad and brutal cry, "Let Him be crucified," I observe—
 
-I. A VERY STRANGE ILLUSTRATION OF THE ASSERTED DIGNITY OF HUMAN NATURE.
+## I. A Very Strange Illustration of the Asserted Dignity of Human Nature
 
 I have heard till I have been sick of hearing. I have read till I am weary of reading, all sorts of praise passed upon it. I know not what a grand and noble being the creature man is in the estimation of certain lackadaisical divines. They seem to make this their chief end—to laud and magnify their own species! The drift of all their preaching is to please men's ears with their rhetoric and to delude men's judgment with their flattery. And as for their logic, it exalts the ideal of man, while it ignores the actual sinner. It sets up the image and says, "Behold what a splendid intellectual creature man is!" We look around and fail to catch a sight of the individuals they portray! I hesitate not to say that he who praises man does the opposite to glorifying God and is as far as the poles asunder from testifying to the Truth of God. The Truth, as we learn it in the Word of God, is most uncomplimentary to man—it rolls him in the very dust, ranks him with the worms, makes nothing of him—yes, less than nothing! So desperate is his moral condition that it adjudges him as his only fit place, the lowest pit of Hell as the due reward of his deeds. But inasmuch as they thus praise human nature, I would like the admirers of it to look a little while on this scene—where humanity gathers around the Savior, Christ the Lord, and cries, "Crucify Him! Crucify Him!"
 
@@ -53,7 +50,7 @@ I must close this indictment against human nature with its vaunted dignity by ac
 
 Cowardice! Cowardice! Cowardice, craven, base, lies at your door, O Humanity! The Christ who was like a sheep— harmless and defenseless—was treated as if He had been one of the wild beasts of the forest! Who could have had the heart to smite Him who gave His back to the smiters and His cheeks to them that plucked off the hair? O Humanity! If I stand at the bar to impeach you, I scarcely know where to commence the indictment and, having commenced it, I know not where to close it! How fallen, dishonored, infamous are you, O Humanity! Low, depraved, heinous, indeed, have you become that you could put the Messiah, Himself, to death, and crucify the Lord of Glory! Passing onward, I shall now occupy a few minutes as I—
 
-II. ENDEAVOR TO CLOSE THE DOOR AGAINST CERTAIN SELF-RIGHTEOUS DISCLAIMERS.
+## II. Endeavor to Close the Door Against Certain Self-Righteous Disclaimers
 
 I think I hear one and another of you say, "But I would not have done so. I will not allow that my nature be so corrupt or abandoned." Listen, Friend! Is not your self-esteem a little suspicious? Of whom were you born but of a woman, as they were? Your circumstances may be somewhat different. Praise your circumstances, not yourself, for had you been in their circumstances, you would have done the same! It is suspicious, I say, when a man begins to say, "I am better than these." Why, this is just what those very persons, the priests of old, pretended! What said they but this, "We will build the sepulchers of the Prophets whom our fathers slew, for had we lived in our fathers' day, we would not have slain them." And by that very speech of theirs—that self-righteous speech—the Lord Jesus said that they proved that they were the true sons of their fathers! When men begin to plead that they're so much better than others, that they would not have done such things, the suspicion crosses one's mind that they know not what spirit they are of. Certainly they are rather proud in heart than humble in mind.
 
@@ -69,7 +66,7 @@ up any righteousness of your own! You don't think at all about the matter—you 
 
 But I address some tonight who would shudder at all this, and say, "Oh, Sir, I have neither persecuted His people, nor thought lightly of Him. Neither have I been negligent concerning Him, for oh, I long to be saved by Him. I seek His face day and night and confess my sins into His ear, and I ask for pardon through His blood." Beloved, I am glad to hear you say this, but I must ask you a question, too. Have you ever doubted whether He could save you? Do you doubt now whether He is willing to save you? Ah, then you crucify Him, for there is nothing that so grieves Him as that unkind, ungenerous thought that He is unwilling to forgive! This touches Him in the heart. This pierces His heart as with a spear, for you to think that He will not, or cannot, pardon you! Be guilty of this no longer! Satan told you it was humility— no, but it is dishonoring your Savior! Come, poor awakened Sinner, full of guilt, and full of fear, and say, "I do believe! I will believe that He is both able and willing to save me!" Then, but not until then, may you be able to say, "I have not crucified Him." Now I shall leave that, more especially to address—
 
-III. THOSE WHO HAVE CONFESSED THE SIN OF CRUCIFYING CHRIST—AND HAVE RECEIVED PARDON FOR IT.
+## III. Those Who Have Confessed the Sin of Crucifying Christ—and Have Received Pardon for It
 
 Beloved, we are coming to the Table of the Lord. With what profound emotions should these meditations fill our breasts as we observe this ordinance? When we remember that our sins did crucify Christ (for He would not have needed to have died if we had not sinned), we ought to think of it with deep repentance—
 
@@ -91,9 +88,9 @@ God, and proclaim the coronation of the Christ who once wore the crown of thorns
 
 Now are there any here that confess their guilt in the death of Christ? Then let me say to every sinner here, if you will look to Him that was pierced, you shall live! There is only one look at Jesus that is needed to give you pardon! "He that believes on Him is not condemned." You have nailed Him to the Cross—now look at Him! Moses hung the serpent on the pole—then looked, himself, and bade all Israel look. I, who had my share in crucifying Him, do look tonight! He is all my salvation—I trust in nothing else. Look you, then—yes, look you! God help you now to look, each one, and you are saved! God grant it, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 1:19-33; 19:1-16.
+## Exposition by C. H. Spurgeon: John 1:19-33; 19:1-16
 
-JOHN1:19-33
+## John 1:19-33
 
 Verses 19-28. And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who are you? And he confessed and denied not; but confessed, I am not the Christ And they asked him, Who then? Are you Elijah? And he said, I am not Are you that Prophet? And he answered, No. Then said they unto him, Who are you? that we may give an answer to those that sent us. What say you of yourself? He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the Prophet Isaiah And they which were sent were of the Pharisees. And they asked him, and said unto him, Why baptize you, then, if you are not that Christ, nor Elijah neither that Prophet? John answered them, saying, I baptize with water: but there stands One among you, whom you know not: He it is, who, coming after me, is preferred before me, whose shoe laces I am unworthy to unloose. These things were done in Be-thabara beyond Jordan, where John was baptizing. Was that the place where the Israelites crossed the Jordan? It is said to have been so, and truly this is the place where we cross the Jordan, too—come out of old Judaism into the true faith of the revealed Christ!
 
@@ -107,7 +104,7 @@ Verses 19-28. And this is the record of John, when the Jews sent priests and Lev
 
 Spirit descending, and remaining on Him, the same is He which baptizes with the Holy Spirit I doubt not that John had assuredly guessed that Jesus was the One, but he had nothing to do with guesses—he was a witness for God and he could only speak as God revealed things to him.
 
-JOHN19:1-16.
+## John 19:1-16
 
 Verses 1-3. Then Pilate, therefore, took Jesus and scourged Him. And the soldiers platted a crown of thorns, and put it on His head, and they put on Him a purple robe, and said, Hail, King of the Jews! Just as they were gathered to say, "Ave Imperator"—"Hail emperor"—so imitating that word which they applied to Caesar, and applying it to Jesus in mockery, "King of the Jews," the utmost scorn was thrown into the last word, "of the Jews." There had been a general tradition that there should arise among the Jews a king who would subdue the nations—and the Romans jested at the very thought that they should be conquered by the leader of such a despised race as the Jews! And so they said, "King of the Jews."
 
@@ -130,7 +127,6 @@ who judges the Jews, yet there is a strain of the gentleness of His Character ab
 14\. 15. And it was the preparation of the Passover, and about the sixth hour: and he said unto the Jews, Behold your King! But they cried out, Away with Him! Away with Him! Crucify Him! Pilate said unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar "To crucify your King." In bitter sarcasm—"You call Him, King, and ask to have Him crucified?" "The chief priests answered, 'We have no king but Caesar.'" Verily they thus proved the truth of that word, "The scepter shall not depart from Judah, nor the lawgiver from between his feet until Shiloh comes." And here He was sent of God! He had come at last, for the scepter has evidently departed from Judah, and these men are crying, "We have no king but the alien monarch, the all-conquering Caesar."
 
 16\. Then he delivered Him, therefore, unto them to be crucified. And they took Jesus andledHim away.
-
 
 ---
 [[Sermon 3456 'Peace Be Unto You'|← #3456]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3458 Redeeming the Unclean|#3458 →]]

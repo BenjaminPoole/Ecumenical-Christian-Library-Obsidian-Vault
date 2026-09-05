@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 2. How many things are necessary for thee to know, that thou, enjoying this comfort, mayest live and die happy?
-
-**Question 2. How many things are necessary for thee to know, that thou, enjoying this comfort, mayest live and die happy?**
 
 Answer. Three; the first, how great my sins and miseries are; the second, how I may be delivered from all my sins and miseries; the third, how I shall express my gratitude to God for such deliverance.
 
-**EXPOSITION**
+## **Exposition**
 
 This question contains the statement and division of the whole catechism and at the same time accords with the division of the Scriptures into the Law and Gospel, and with the differences of these parts, as they have already been explained.
 
@@ -58,9 +55,9 @@ Objection. It is not necessary to teach that which follows of its own accord. Gr
 
 Answer. There is here an incorrect course of reasoning, in supposing that to be true generally, which is so only in part; for it is not a just inference that because gratitude follows a knowledge of our deliverance from misery, that the manner of it must also necessarily follow. We are, therefore, to learn from the Holy Scriptures, the nature of true gratitude, and the manner in which it should be expressed, so as to be pleasing and acceptable to God. Again; the major proposition is not universally true; for that also which follows of its own accord, may be taught for the purpose of increasing our knowledge and confirming us therein. And it is in this way, that is, through the revelation and knowledge of his Word, that God awakens, increases, and confirms in us, true gratitude.
 
-**SECOND LORD'S DAY**
+## **Second Lord's Day**
 
-THE FIRST GENERAL DIVISION OF THE CATECHISM
+## The First General Division of the Catechism
 
 ---
 [[Ursinus HC Q1|← Question 1. What is thy only comfort in life]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q3|Question 3. Whence knowest thou thy misery? →]]

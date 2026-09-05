@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Great House and the Vessels In It
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1348
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 8, 1877,.
+*Delivered on Lord's-Day Morning, April 8, 1877*
 
 > "But in a great house there are not only vessels of gold and of silver, but, also, of wood and of earth; and some to honor and some to dishonor. If a man, therefore, purges himself from these, he shall be a vessel unto honor, sanctified, and meet for the Master's use, and prepared unto every good work." 2 Timothy 2:20,21.
 
@@ -160,7 +159,6 @@ Secondly, the Master knows all about the house and knows the quality of all the 
 There are many wooden preachers. If we are earth and earthly-minded He may put us to earthly uses, as He did Judas, who carried the bag, but had no Grace. If you are silver He will give you silver use. And if you are gold He will give you golden service in which you shall be happy, honored and blessed. What comes of this, then, lastly? Why, Brothers and Sisters, let us bestir ourselves that we be purged, for the text says, "If a man therefore purges himself." It throws this business upon each one of us personally—a man must purge himself from ill company! And when we have confessed the responsibility, let us turn to God in prayer and feel that thorough purging is a work which we cannot achieve and, therefore, we cry, "Cleanse me, O God! Sanctify me! Make me meet for Your service and prepared for every good work."
 
 Beloved, finish with earnest prayer. Pray God that you may not be hypocrites! Beseech the Lord to search you and try you, that you not be found deceivers. And when you are sure that you are His, then ask Him to make you not merely silver, for it is very apt to tarnish, but rather the precious gold which, when exposed to the worst influences, scarcely shows a trace of dullness. Pure unalloyed gold may we be! And then may the Master, both in secret and public, use us to His own joy. May He refresh Himself with our love and faith, yes, may His joy be fulfilled in us, that our joy may be full. God grant it may be so, for Christ's sake.
-
 
 ---
 [[Sermon 1347 How Is Salvation Received|← #1347]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1349 Faith Purifying the Heart|#1349 →]]

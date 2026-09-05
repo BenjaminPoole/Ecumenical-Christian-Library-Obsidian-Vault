@@ -10,22 +10,21 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 5. Introductory Notice and Prologue to the Exposition of the First Epistle of St John
 
-EXPOSITION
+*Exposition*
 
-FIRST EPISTLE OF SAINT JOHN,
+## First Epistle of Saint John
 
-SET FORTH BY
+## Set Forth By
 
-M. WILLIAM TYNDALE,
+## M. William Tyndale
 
-IN THE YEAR OF OUR LORD 1531. SEPTEMB.
+## In the Year of Our Lord 1531. Septemb
 
-EXPOSITION
+## Exposition
 
-THE FIRST EPISTLE OF SAINT JOHN.
+## The First Epistle of Saint John
 
 [Ay ancient edition of the following exposition is preserved in the library of St Paul's Cathedral, and has been collated for the present editor by George Offer, Esq. Its peculiar readings will be distinguished by the letters P. C. L. ; whilst those found in Day's less ancient edition of Tyndale's works will be denoted by the letter D. In the former, Tyndale is found to have systematically avoided giving the Roman pontiff the title of pope ; but in Day's reprint his editor John Foxe has with like regularity substituted pope for the words ' bishop of Rome,* or for any other periphrasis to the same purport. Another difference is, that in the older copy the relative pronoun which is frequently found with the prefixed ; whilst Day has modernised this idiom by omitting the. In the present edition Tyndale's manner of designating the pope will be restored; but the obsolete idiom connected with which will be relinquished, after Day's example; and these two repeatedly recurring variations will not be farther noticed at the foot of the page.
 
@@ -37,9 +36,7 @@ INTRODUCTORY NOTICE. 135 ought not to prevent his testimony from having considcr
 
 There are also such ungrammatical and ill-constructod sentences in the exposition of the two less epistles, as Tyndale was too skilful a writer to have penned. For example, in explaining verse 12 of epistle HI, the expositor has expressed himself as follows : * It must undoubtedly have been a man of marvellous integrity and unblameable, this Demetrius, unto whom all the congregation of good men, yea, and the truth also, beside that the apostle John, a man without guile, and that had not leai-ned to flatter, gave such verdict.' But besides these discrepancies between his words and style, and those of Tyndale, this expositor has indulged in such fancies as are not at all in harmony with Tyndale's manner of commenting upon the scriptures. Thus on verse 1 of epistle ii, he says, * John calleth the church or congregation a lady, because she is the bride of the Lord Jesus ; and the members of the church he calleth children, remaining so still, in comparing and alluding.' And in concluding his exposition, he says, of both epistles, ' The shortness hath a wondrous favour ; and the briefness hath also mysteries.' If Tyndale had written upon these epistles, and so thought, he would have told his readers why he imagined there was a mystery in the brevity, and what he supposed that mystery to mean. In another place, on ver. 10 of Epist. in, the expositor has said that 'it is the duty of true herdsmen, to forgive nought.' It is incredible that T)nidale would have expressed himself so rashly, or inculcated a rule of proceeding so contrary to plain scripture.]
 
-136 EXPOSITION OF THE FIRST EPISTLE OF ST JOHN.
-
-THE PROLOGUE.
+## The Prologue
 
 We must first learn the profession of our baptism. Ant. ed.
 
@@ -79,8 +76,6 @@ Chi'ist's blood out of a repenting heart. For our outward ioo(i. wih * r ~ _ ^ ^
 
 [6 So P. C. L., in D. and is wanting.]
 
-138 EXPOSITION OF THE FIRST EPISTLE OF ST JOHN.
-
 When God visiteth us with sickness, poverty, or whatsoever adversity it be, he doth it not of a tyrannous mind, to satisfy his lust in our suffering of evil, to make satisfaction for The father the siu that is past, of which we repent and be sorry ; but recterhthe' of a fatherly love, to make us know ourselves and feel his Anu'ed. mercy, and to tame our^ flesh, and to keep us from sinning again: as no natural father punisheth his child because he delighteth in tormenting of him, to take satisfaction for the sin that is past ; but first teacheth kindly, and suffereth, and forgiveth once or twice ; and then at the last, when he seeth the body so wanton, that the child cannot continue in the right way for the rage of wild lusts, he beateth him 2, to subdue the flesh only, and to tame it, that the doctrine of the father may have her due course in the heart of the child, and should not be choked with lusts and concupiscences of our wicked nature ^ God as a Evou SO is it of God ; if any of his children, that have lovinp fa- . iit ii /!/ n * thercareth profcsscd his law and the faith of our Saviour, be negliffent for us, and '^ ^ ^ ^ O O rertetVuIto ^ tame his flesh with prayer, fasting, and good deeds after rigfSway.***^ the doctrine of Christ, he will surely scourge him, to bring Ant.ed. j^-j^ jj^^.^ ^^^ right way again, and to keep him, that the doctrine of his soul's health perish not in him. But he taketh not his mercy from us, nor thinketh on the sin that is past, after that we repent and be full converted ; but absolveth us both a poena et culpa for Christ's sake ; and is as mighty and as merciful to do it for Christ's sake, as the bishop of Rome for money ; besides that he hath promised mercifully so to do.
 
 t The knowledge of our baptism is the key and the light of the scripture.
@@ -102,8 +97,6 @@ For as the doctrine which we should bo taught before 'weihakmm* were baptized, a
 Now we be all baptized ; but, alas I not one, from the highest to the lowest, ever taught the profession or meaning thereof. And therefore we remain all blind generally, as well cur great rabbins for all their high learning which they seem to have, as the lay people. Yea, and so much the more blind are our great clerks, that where the lay people, for a great number of them, are taught nothing* at all, they be all wrong taught, and the doctrine of their baptism is all corrupt unto them with the leaven of false glosses, ere they come to read the scripture ; so that the hght which they bring with them, to understand the scripture withal, is utter darkness, and as contrary unto the scripture as the devil unto Christ : by reason whereof the scripture is locked up and become so dark unto them, that they grope for the door, and can find no way in ; and is become a maze unto them, in which ttiey wander as in a mist, or (as we say) led by Robin Goodfellow, that they cannot come to the right way, no, though they turn their caps ; and the brightness thereof hath blinded their eyes with malice, so that though they believe not the scripture to [ ^^ be false, yet they persecute the right understanding thereof, ^]^*;
 
 and cannot behove it true in the plain sense, which it spcakcth ^SUST'* w.t. [* In P. C. L. the words than he is are added here.] [6 So P. C. L., but D. has naught.]
-
-140 EXPOSITION OF THE FIRST EPISTLE OF ST JOHN.
 
 to them in. It is become a turn-again lane unto them, which they cannot go through, nor make three Unes agree together. And finally, the sentences of the scripture are nothing but very riddles unto them, at the which they cast as the blind man doth at the crow, and expound by guess, an hundred doctors an hundred ways ; and one man in twenty sermons alleging one text after twenty fashions, having no sure doctrine to cleave unto ; and all for lack of the right knowledcje of the profession of our baptism.
 
@@ -143,8 +136,6 @@ The whole ^ sum then of all together is this : If our hearts were taught the app
 
 [6 So P. C. L., but D. wants having, and has are after minds.] [1 In D. Tyndale's last remark is followed by a jocular illustration, for which there is no authority in the older edition.] [8 So P. C. L.: in D. it is wanting ] [9 So P. C. L., but D. interposes and.]
 
-142 EXPOSITION OF THE FIRST EPISTLE OF ST JOHN.
-
 corrupt it, and it not us; as the taste of the sick maketh wholesome and well-seasoned meat bitter, wearish, and unsa- ll^un^infaith "^'ourj. Nevcrtheless yet the scripture abideth pure in herself atuint^'tL ^^^ bright, so that he which is sound in the faith shall at the^s^ptoe. once perceive that the judgment of the heretics is corrupt in their expositions, as an whole man doth feel at once, even with smelling to the meat, that the taste of the sick is infected.
 
 And with the scripture shall they ever improve heresies and false expositions: for the scripture purgeth herself, even as the water once in the year casteth all filthiness unto the sides of
@@ -170,8 +161,6 @@ PROLOGUE TO THE READER. 143 were mad to believe that which hath lien fifteen hun
 Finally then, forasmuch as the scripture is the light and xhe^jj^w life of God's elect, and that mighty power wherewith God ^'^^ createth them, and shapeth them, after the similitude, likeness, and very fashion of Christ ; and therefore sustenance, comfort, and strength to courage them, that they may stand fast, and endure, and merrily bear their souls' health, wherewith the lusts of the flesh are^ subdued and killed, and the spirit mollified and made soft, to receive the print of the image of our Saviour Jesus : and forasmuch as the scripture is so pure of itself, that it can corrupt no man, but the wicked only, which are infect beforehand, and, ere they come at it, corrupt it with the heresies that^ they brine with them :
 
 [ So P. C. L., but D. wants are.] [6 So P. C. L., but D. wants /or.] [1 So P. C. L , but D. wants that.]
-
-141 EXPOSITION OF THE FIRST EPISTLE OF ST JOHN.
 
 Hypocrites and forosmuch as the complaint of the hypocrites, that the say that the . 111 1 /) scripture scripture maketh heretics, is vain and leigrned ; and the maketh . O '
 

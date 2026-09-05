@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 149. Matthew 18:11-14; Luke 15:1-10
-
-**Matthew 18:11-14; Luke 15:1-10**
 
 **11**. For the Son of man is come to save that which was lost. **12**. What think you? If a man shall have a hundred sheep, and one of them shall go astray, doth he not leave the ninety-nine, and go to the mountains, and seek that which had gone astray? **13**. And if he happen to find it, verily, I say to you, he rejoiceth more on account of that sheep than on account of the ninety-nine which had gone astray. **14**. So it is not the will of your Father who is in heaven, that one of those little ones should perish.
 

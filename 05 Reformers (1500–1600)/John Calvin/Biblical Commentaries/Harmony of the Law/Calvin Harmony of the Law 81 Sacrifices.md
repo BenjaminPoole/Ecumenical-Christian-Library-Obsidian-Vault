@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 81. Sacrifices
-
-**Sacrifices**
 
 ## Exodus 29:38-46
 

@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## 2 Corinthians 11:1-6
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Setting Jesus at Nothing—Treating Him with Contempt
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2051
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 2, 1888,.
+*Delivered on Lord's-Day Evening, September 2, 1888*
 
 > "And Herod with his men of war set Him at nothing." Luke 23:11.
 
@@ -91,7 +90,7 @@ Those, I suppose, were the grounds upon which Herod and such as Herod, make ligh
 
 III. Now, dear Friends, let us consider—DO MEN NOW SET OUR LORD AT NOTHING? DO MEN NOW
 
-TREAT OUR LORD WITH CONTEMPT?
+## Treat Our Lord with Contempt?
 
 Herod is dead and buried and there is no sort of reason why we should not let him rot into oblivion. I therefore speak to you and try to discover whether you are setting Christ at nothing. Are you treating our Lord with contempt? I fear there are such. Who are they?
 
@@ -192,7 +191,6 @@ Alas, what are we all together? The music has no volume in it, compared with wha
 "Angels, assist our mighty joys! Strike all your harps of gold! But when you raise your highest notes, His love can never be told."
 
 Therefore do I summon all things that are to praise the Lord, without whom was not anything made. I charge all living things to adore Him who is the resurrection and the life. Let space become one great mouth for song. Let time unceasingly flow with hallelujahs. Let eternity become an orchestra to the praise of Jesus who was mocked of Herod and his men of war. Glory be to His name! Hallelujah, Hallelujah, Amen.
-
 
 ---
 [[Sermon 2050 A Paradox|← #2050]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2052 On His Breast|#2052 →]]

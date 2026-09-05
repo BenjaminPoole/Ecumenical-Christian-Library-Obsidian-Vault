@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 1 Corinthians 5:1-5
 

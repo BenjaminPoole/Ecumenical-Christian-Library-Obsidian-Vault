@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 13
 
 V. 1. beast. The beast has different interpretations, ac cording to its place. Here, accordingly, it denotes the body of the devil, which springs from the people of the ungodly; for this is the sea, which above is understood as the abyss \ And, therefore, the dragon is said to be king of all that is in the waters, and whose ^' heads," according to David, ^^ are broken in pieces in the sea'*."
@@ -59,8 +57,6 @@ beginning. "A lamb," that is, as Peter says, "without spot, who verily was fore-
 
 away; " Gr^ Vute., as A. V., ** taketh awajr-" ^ i St Pet. i. 19.
 
-90 Explanaiian of the Apocalypse* [bk. ii.
-
 world'." It may also be understood by transposition, that the names of the saints were written from the beginning in the book of life. 0. have an ear As often as the Scripture interposes this sa3dng, it seeks an attentive hearer, because of the obscurity of the subject For in order that the shortlived kingdom of the devil may not be highly esteemed, he anticipates the thoughts of man by saying, ^' He that shall lead into captivity will go into captivity;" that is, the devil with the beast who now appears to lead the nations captive in his toils, will himself speedily be in captivity with his own.
 
 10. sword. He who now persecutes the Church with carnal or even spiritual death, him the Lord Jesus ^'will slay with the breath of His mouth, and will destroy with the brightness of His coming \"
@@ -84,8 +80,6 @@ healed. That is, who pretended that by rising again he had overcome death. For t
 13. fire. He preferred the miracle of fire, as if the greatest, to all others, that, as the Lord Christ had
 
 ^ Dan. vii. 17. Sept., TheocL, Vulg., as Bed.; Chald., A. V., "kings." St, Matt. vU. 15. St. Johnxviil z%.
-
-92 Explanation of the Apocalypse. [bk. ii
 
 given to His disciples the gift of divers miracles by the Holy Ghost, Who came in fire, so he with deceitful CTaft might delude his own, as' it were, by a similar gift. 14. seduces. ** His coming will be," as is said, ** after the working of Satan in all power, and signs, and prodigies of falsehood ^^ And there is wont to be a question, whether these are called " signs and prodigies of falsehood," because he is to deceive the senses of men by phantasms, so ats to seem to do what he does not; or because these very things, even if they shall be true prodigies, will lead to falsehood those who shall believe, that they could only have been wrought by divine influence, betng ignorant of the power of the devil. For it was not by a phantastical, but a true fire and whirlwind that he destroyed so great a household as that of the holy Job, with so great flocks. But whether they are called "prodigies of falsehood^ in this way or that, it is in this that the temptation will appear to be greater than all the rest, that when the pious martyr submits his body to torments he too at the same time performs so many miracles before his eyes.
 
@@ -112,8 +106,6 @@ name. That is, who participates in his deceit For the mark, that is, the note an
 1 Thesfc iL J. ' Iiewmis mentio'
 
 "noK wortbr of neffiL" Bk. v. ch. 30, f
-
-94 Explanation of the Apocalypse. [bk. ii.
 
 in this manner, — ^T three hundred, E five, I ten, T three hundred, A one, N fifty. And it is thought that Antichrist will usurp this name, as if he excelled all in power, boasting also that he is the one of whom it was written, '^ He rejoiced as a giant to run his course. His going forth is from the highest heaven '." And Primasius" also mentions another name, which contains the same number, — A one, N fifty, T three hundred, E five, M forty, o seventy, s two hundred, which signifies, "contrary to honour." Besides there is the word, — ^A one, P one hundred, N fifty, o seventy, Y four hundred, M forty, E five, that is, " I deny.*' By these, both the character of the person and the asperity of the work of Antichrist are indicated*. But how so great a coveter of praise should be willing to be denoted by such a mark, requires a lengthened exposition. Otherwise: who is ignorant, that the number six, in accordance with which the world was created, signifies the perfection of work? And this, whether simple, or multiplied by ten, or a hundred, demonstrates the fruit of the same perfection to be sixty-fold, or a hundred-fold. The weight of gold also which was brought to Solomon™ every year was six hundred and sixty-six thousand talents \ The seducer/ therefore, will presume to exact for himself the offering which is rightfiiUy due and paid to the true king.
 

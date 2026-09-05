@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Rare Fruit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1558
-
-DELIVERED BY.
 
 > "I create the fruit of the lips: Peace, peace." Isaiah 57:19.
 
@@ -156,7 +153,6 @@ Let all this be silenced while we cry, "Peace, peace!" None of us who are minist
 May this blessed word be rung out as a clarion note beneath these heavens till men shall recognize that they make one family and God is the one great Father! You nations, learn war no more! "Peace, peace, peace." Catch the words, you winds, and carry them—"Peace, peace, peace!" Hear the words, you stars, and shine them out tonight—"Peace, peace." Rise up, O sun, in the morning and over all rejoicing lands pour forth, with your light and warmth, peace and quietness! May peace be with you, my Brothers and Sisters, now and forever. Amen and amen!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 57:15-21; 58:1-12. HYMNS FROM "OUR OWN HYMN BOOK"—23 (VERS. II), 704, 722.
-
 
 ---
 [[Sermon 1557 Walking Humbly With God|← #1557]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1559 Tokens For Good|#1559 →]]

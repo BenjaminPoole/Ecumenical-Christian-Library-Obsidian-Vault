@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 119. What are the words of that prayer?
-
-**Question 119. What are the words of that prayer?**
 
 Answer. Our father which art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our debts, as we forgive our debtors; and lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, for ever. Amen.
 
-**EXPOSITION**
+## **Exposition**
 
 The form of prayer prescribed by Christ is recited by two of the evan gelists, Matthew and Luke. It is, without doubt, the best, the most expressive and perfect form of prayer that has ever been delivered. It was delivered by Christ, who is the wisdom of God, and whose words were always heard and answered by his heavenly Father. It also contains, in the most condense form, all things which are to be sought as necessary for soul and body. It is in like manner a rule or pattern with which all our prayers ought to conform and agree.
 
@@ -28,7 +25,7 @@ Obj. 1. But we must not pretend to be wiser than Christ. Therefore since he has 
 
 Obj. 2. That should be retained, than which no better can be invented. But it is not possible for us to invent any better form of prayer, nor to select more suitable words, than we find in the Lord's Prayer. Therefore we should retain both the form and the words of Christ. Ans. We cannot invent a better form, nor more suitable words for the purpose of expressing the same summary, which is, as it were, the general of all those things which we ought to seek in prayer. These kinds or classes of benefits which Christ has prescribed in this form of prayer as the ones to be prayed for, cannot be presented in a better form. But then Christ will have us to decend into particulars, and pray for special benefits according to our necessity. The form which Christ has prescribed is nothing else than a series of certain classes or heads, under which may be comprehended and referred all spiritual and temporal blessings necessary for us. Hence when Christ commands us to pray for these general benefits, he at the same time commands us to pray for every special benefit included in that which is general. And still further, those things which are here expressed generally, ve ought to specify particularly, that we may in this way be led to a consideration of our necessity, and to a desire of asking God to help us in our necessity. But it is necessary in order that we may do this, that we should have special forms of prayer; for the explanation of that which is general by that which is special necessarily requires other forms of expression. Hence Augustin declares that all the prayers of the saints which we have in the Scriptures are contained in the Lord's Prayer. Augustin also adds, that we are at liberty to express the same things in other words when we pray, but are not allowed to pray for things different from those comprehended in this prayer.
 
-FORTY-SIXTH LORD'S DAY
+## Forty-Sixth Lord's Day
 
 ---
 [[Ursinus HC Q118|← Question 118. What hath God commanded us to ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q120|Question 120. Why hath Christ commanded us t →]]

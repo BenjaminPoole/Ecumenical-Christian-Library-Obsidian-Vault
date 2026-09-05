@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 13. Decade 2, Sermon 1
 
 Tue sum of all laws is the love of God and our neighbour; of which and every part whereof because I have already spoken in my last sermon, the next is, that now also I make a particular discourse of laws, and every part and kind thereof. Let us therefore call to God, who is the cause and beginning of laws, that he through our Lord Jesus Christ will vouchsafe with his Spirit always to direct us in the way of truth and righteousness.
@@ -32,8 +31,6 @@ Conscience.
 
 Nature.
 
-194 THE SECOND DECADE. [SERM.
-
 The law of nature is an instruction of the conscience, and, as it were, a certain direction placed by God himself in the minds and hearts of men, to teach them what they have to do and what to eschew. And the conscience, verily, is the knowledge, judgment, and reason of a man, whereby every man in himself, and in his own mind, being made privy to every thing that he either hath committed or not committed, doth either condemn or else acquit himself. And this reason proceedeth from God, who both prompteth and writeth his judgments in the hearts and minds of men. Moreover, that which we call nature is the proper disposition or inclination of every thing. But the disposition of mankind being flatly corrupted by sin, as it is blind, so also is it in all points evil and naughty. It knoweth not God, it worshippeth not God, neither doth it love the neighbour; but rather is affected with self-love toward itself, and seeketh still for its own advantage. For which cause the apostle said, “that we by nature are the children of wrath.” Wherefore the law of nature is not called the law of nature, because in the nature and disposition of man there is of or by itself that reason of light exhorting to the best things, and that holy working ; but for because God hath imprinted or engraven in our minds some knowledge, and certain general principles of religion, justice, and goodness, which, because they be grafted in us and born together with us, do therefore seem to be naturally in us.
 
 Let us hear the apostle Paul, who beareth witness to this, and saith: “ When the Gentiles, which have not the law, do of nature the things contained in the law; they, having not the law, are a law unto themselves; which shew the works of the law! written in their hearts, their conscience bearing them witness, and their thoughts accusing one another, or excusing, in that same day, when the Lord shall judge the secrets of men by Jesus Christ according to my gospel?” By two arguments here doth the apostle very evidently prove, that the Gentiles are sinners. For first of all (lest peradventure they might make this excuse, and say, that they have no law) he sheweth, that they have a law; and that, because they transgress this law, they are become sinners. For, although they had not the written law
@@ -48,8 +45,6 @@ Two especial points of the law of nature.
 
 The Gentiles knew God.
 
-196 THE SECOND DECADE. [SERM.
-
 or lightly pass over the conscience’s accusations, when the Lord shall come with justice and equity to judge the world. So then by all this it followeth, that all nations are sinners; whom unless the Son of God, the common and only Saviour and deliverer of all the world, do cleanse from their offences, it cannot be but that all nations must needs perish in their sins.
 
 But now we come again to the law of nature, of which there are two points especially for you to be put in mind of. The first is, Acknowledge God, and worship him: the second is, Keep or maintain society and friendship among men. Touching the first, we have these words of Christ his apostle: “Whatsoever may be known of God is manifest among them” (to wit, among the Gentiles); “for God hath shewed it to them. For his invisible things, being understood by his works, through the creation of the world are seen; that is, both his eternal power and Godhead: so that they are without excuse ; because that, when they knew God, (notwithstanding) they glorified him not as God, neither were thankful!,” &c. So then, the Gentiles knew God; yea, they knew whatsoever might be known of God. But what teacher had they, or what master? They had God to their master. In what order taught he them, or out of what book ? Not out of the written books of Moses, or the prophets; but out of that great and large book of nature. For the things that are not seen of God (in which sort are his everlasting eternity, his virtue, power, majesty, goodness, and Godhead), those he would have to be esteemed of according to the visible things, that is, the things which he hath created. For God’s eternal Godhead is known by man’s creation, by the continual moving of heaven, and the perpetual course of rivers: for it must needs be, that he is most mighty which sustaineth all these things, which moveth, strengtheneth, and keepeth all things from decay, and which with his beck shakes the whole world. Finally, who doth not see the goodness of him which suffereth the sun to rise upon the good and the evil? But to what intent revealeth he these things to the Gentiles? To the intent, forsooth, that they may acknowledge him to be God, that they may glorify and worship him as God, and be thankful to such a benefactor. When therefore they do not
@@ -60,7 +55,7 @@ But now we come again to the law of nature, of which there are two points especi
 
 God which is to be acknowledged and reverently worshipped. Touching the latter of these two especial points (that is, Friendship and society for the preserving of friendship and society among men) the fee Lord in the Gospel saith: “ Whatsoever ye would that men should do to you, do ye the same to them?.” This sentence did Alexander Severus the Emperor turn and express thus: * Whatsoever thou wouldest not have done to thyself, that do not thou to another.” Which saying he loved so well, that he commanded it to be written up in his palace and common houses of office*, Moreover, to that general law belong these that follow: “Live honestly: hurt not another: give every man his own‘: provide things necessary for life, and keep it from distress.” But now, because the law of nature is made opposite to The law of
 
-Nature an- the written law of God, it is requisite that it be answerable swerabie to also to the law of God: let us therefore see what the wise 2: men and lawgivers of the Gentiles have left in writing to countervail the ten commandments ®, and how far their writ- ings are answerable to the law of God.
+Nature an- the written law of God, it is requisite that it be answerable swerabie to also to the law of God: let us therefore see what the wise 2: men and lawgivers of the Gentiles have left in writing to countervail the ten commandments ®, and how far their writ-ings are answerable to the law of God.
 
 Pythagoras, in St Cyril’s first book contra Julianum, 1. writeth thus of God: ‘“ God verily is one; and he too is not, of God. as some do imagine, without the government of the world; but, being wholly in every place of it, doth view all the generations in the whole compass thereof, and is himself the moderation of all ages, the light of his own virtues, the beginning of all works, the light in heaven, the father of all things, the life and quickening of all things, and lastly, the moving of all the circles®.” See, here Pythagoras confesseth that there is
 
@@ -72,21 +67,17 @@ Pythagoras, in St Cyril’s first book contra Julianum, 1. writeth thus of God: 
 
 [5 quod respondeat Decalogo, Lat.]
 
-198 THE SECOND DECADE. [SERM.
-
 but one God, who is the maker, preserver, and governor of all things, the father of all, and the light and life of all things. Zaleucus, in the preface of his laws, writeth as followeth : “It is necessary that all men, which inhabit any city or region whatsoever, be throughly persuaded that there are gods; which is evident to be seen by the contemplation of heaven and all the world, and by the goodly disposition and order of that that is therein: for it is not convenient to think that these are the works of fortune or man’s ability. Then also the gods must be worshipped and honoured, as they that are the causes of all good things that are done to us by any manner of means. Every one, therefore, must do his best to have his mind purely cleansed from all evil. For God is not honoured of a wicked man; he is not worshipped with sumptuous cost, neither is he delighted with the sight of solemn tragedies, as a wicked man is; but his delight is in virtue, and in a mind that purposeth to do good works and righteousness. Wherefore every one must endeavour himself, as much as he may, both to do well and will well, if he desire to have God to his friend,” &c. Cicero, in his second book de Natura Deorum, saith: “The best worshipping of the gods, and the most holy and pure religion is, always to honour them with a pure, perfect, and uncorrupted mind and voice?.” ὑπονοοῦσιν, ἐκτὸς Tas διακοσμήσιος" ἀλλ᾽ ἐν αὐτῷ ὅλος ἐν ὅλῳ, τῷ κύκλῳ ἐπισκοπῶν πάσας γενεάς" ἔστι κράσις ὧν τῶν ὅλων αἰώνων, καὶ φῶς τῶν αὐτοῦ δυνάμεων καὶ ἔργων, ἀρχὰ πάντων, ἐν οὐρανῷ φωστὴρ, καὶ πάντων πατὴρ, νοῦς καὶ ψύχωσις τῶν ὅλων κύκλων, πάντων κίνασις.---- ΟΥΥΊ]. Alexandr. Contra Julian. Lib. 1. Tom. v1. p. 80, ed. Paris. 1638. See also Early Writings of Bp Hooper, Parker Soc. ed. p. 285.]
 
 [1 Τοὺς κατοικοῦντας τὴν πόλιν καὶ τὴν χώραν πάντας πρῶτον πεπεῖσθαι χρὴ καὶ νομίζειν θεοὺς εἶναι, καὶ ἀναβλέποντας ἐς οὐρανὸν καὶ τὸν κόσμον καὶ τὴν ἐν αὐτοῖς διακόσμησιν καὶ τάξιν: οὐ γὰρ τύχης οὐδ᾽ ἀνθρώπων εἶναι δημιουργήματα: σέβεσθαι δὲ τούτους καὶ τιμᾷν, ὡς αἰτίους ὄντας ἁπάντων ἡμῖν ἀγαθῶν, τῶν κατὰ λόγον γιγνομένων. Ἕκαστον οὖν ἔχειν καὶ παρασκευάζειν δεῖ τὴν αὑτοῦ ψυχὴν πάντων τῶν κακῶν καθαράν: ὡς οὐ τιμᾶται θεὸς in’ ἀνθρώπου φαύλου, οὐδὲ θεραπεύεται δαπάναις οὐδὲ τραγῳδίαις τῶν ἁλισκομένων, καθάπερ μοχθηρὸς ἄνθρωπος GAN ἀρετῇ καὶ προαιρέσει τῶν καλῶν ἔργων καὶ δικαίων. Διὸ ἕκαστον δεῖ εἰς δύναμιν ἀγαθὸν εἶναι, καὶ πράξει καὶ προαιρέσει, τὸν μέλλοντα ἔσεσθαι θεοφιλῆ.---Ζα]Θου8 ap. Stobei Florileg. ed. Gaisford. Oxon. 1822. Vol. 1. pp. 197, 8.]
 
 (? Cultus autem Deorum est optimus, idemque castissimus atque sanctissimus, plenissimusque pietatis, ut eos semper pura, integra,
 
-1.1 OF THE LAW OF NATURE AND OF ΜΕΝ. 199
+## 1.1 of the Law of Nature and of Μεν. 199
 
-Seneca also, in his fifth book ad Lucil. saith: “Our usual custom is to teach men how the gods are to be worshipped. Let us give commandment, that on holy days no man set perchers* or taper light before the gods; for they are as much delighted with lights, as men half smouldered have pleasure in smoke. Let us forbid these morning greetings, and solemn kneelings at the temple-doors. This more than needing fiddle-faddle smacks somewhat of ambition. He worshippeth God that knoweth God. Let us forbid to bring napkins and rubbers to Jupiter, and to hold a lookingglass to Juno. God seeketh not such service. Why so? Because he himself, forsooth, doth serve and supply all men’s necessities. He is present every where, and at hand with all men. Let every man hear therefore how he ought to worship God as he should. He shall never verily be sufficiently clear from troublesome superstitions, unless he in his mind think of God as he should do; that is, that he hath all things, that he giveth all things, and that he bestoweth benefits freely, not looking for any recompence at all. What is the cause that the gods do good? Their nature, forsooth. He is deceived, whosoever thinketh that they either will or possibly can do harm: they can neither take wrong nor yet do wrong: for to do harm and to suffer harm are coupled together. The chiefest and most excellent nature of all is the nature of them which are themselves exempt from peril, and are not by nature hurtful to others. The first point of worship due to the gods, is to believe that there are gods; then to give them the majesty due unto them, and to ascribe to them their goodness, without the which their majesty is none at all; to confess that they are they that govern the world, that they rule all things as their own, that they do generally look to the safeguards of all mankind, and sometime too are careful for peculiar men. They neither do nor have any evil at all. But some they chastise, keep under, and punish sometime by whipping, in hope to make them good. Wilt thou please the gods, and make them thy friends? Be good thy- incorrupta et mente et voce veneremur.—Cic. de Nat. Deor. Lib. i. 28.]
+Seneca also, in his fifth book ad Lucil. saith: “Our usual custom is to teach men how the gods are to be worshipped. Let us give commandment, that on holy days no man set perchers* or taper light before the gods; for they are as much delighted with lights, as men half smouldered have pleasure in smoke. Let us forbid these morning greetings, and solemn kneelings at the temple-doors. This more than needing fiddle-faddle smacks somewhat of ambition. He worshippeth God that knoweth God. Let us forbid to bring napkins and rubbers to Jupiter, and to hold a lookingglass to Juno. God seeketh not such service. Why so? Because he himself, forsooth, doth serve and supply all men’s necessities. He is present every where, and at hand with all men. Let every man hear therefore how he ought to worship God as he should. He shall never verily be sufficiently clear from troublesome superstitions, unless he in his mind think of God as he should do; that is, that he hath all things, that he giveth all things, and that he bestoweth benefits freely, not looking for any recompence at all. What is the cause that the gods do good? Their nature, forsooth. He is deceived, whosoever thinketh that they either will or possibly can do harm: they can neither take wrong nor yet do wrong: for to do harm and to suffer harm are coupled together. The chiefest and most excellent nature of all is the nature of them which are themselves exempt from peril, and are not by nature hurtful to others. The first point of worship due to the gods, is to believe that there are gods; then to give them the majesty due unto them, and to ascribe to them their goodness, without the which their majesty is none at all; to confess that they are they that govern the world, that they rule all things as their own, that they do generally look to the safeguards of all mankind, and sometime too are careful for peculiar men. They neither do nor have any evil at all. But some they chastise, keep under, and punish sometime by whipping, in hope to make them good. Wilt thou please the gods, and make them thy friends? Be good thy-incorrupta et mente et voce veneremur.—Cic. de Nat. Deor. Lib. i. 28.]
 
 [3 The larger sort of wax candles, which were usually set upon the altar.—Bailey apud Johnson in voc. See also Calfhill’s Answer to Martiall, Parker Soc. ed. p. 300.]
-
-200 THE SECOND DECADE. [SerM.
 
 self then. He hath sufficiently worshipped them, whosoever hath imitated them in goodness.”
 
@@ -113,8 +104,6 @@ The name of God highly esteemed.
 4, The Gentiles keepers of religion.
 
 The honouring of parents.
-
-202 THE SECOND DECADE. [SERM.
 
 they which first brought in images among the people, diminished devout fear, and augmented foolish error, in the cities where they governed; wisely judging thereby that the gods may easily be despised under the fondness of imagined likenesses!,” &c.
 
@@ -156,8 +145,6 @@ Sicily.
 
 Concupiscence,
 
-204 THE SECOND DECADE. [SERM.
-
 for bargaining, the Gentiles have very commendable laws. That saying of Ausonius is notably known:
 
 If greedy gaping after gain To get another groat Makes usury dispatch apace To cut the poor man’s throat}.
@@ -178,7 +165,7 @@ To mingle poison privily To stop another’s breath,
 
 [8 Τιμάτω δὲ ἕκαστος τὸ καλὸν καὶ τὸ ἀληθὲς, καὶ μισείτω τὸ αἰσχρὸν καὶ τὸ ψεῦδος " ταῦτα γὰρ ἀρετῆς σημεῖα καὶ κακίας. Διὸ χρὴ συνεθίζειν ἐκ παίδων, κολάζοντας μὲν τοὺς φιλοψευδεῖς, φιλοῦντας δὲ τοὺς φιλαλήθεις, iv’ ἐμφυσιῶται ἑκάστῳ τὸ κάλλιστον καὶ σπερματωδέστατον τῆς ἀρετῆς. —Charondas ap. Stobei Florileg. Vol. π. p. 220.]
 
-1.} OF THE LAW OF NATURE AND OF ΜΕΝ. 205
+## 1.} of the Law of Nature and of Μεν. 205
 
 Or else in armour openly To work his rival’s death, As beastly raging lust hath done‘.
 
@@ -200,8 +187,6 @@ Laws of men.
 
 Laws of policy.
 
-206 THE SECOND DECADE. [SERM.
-
 saved, not by the works of nature, or their own deserts, but by the merey of God in our Lord Jesus Christ.
 
 Moreover, the law of nature is not graffed of God in man to the intent that it, without grace and Christ, should work man’s salvation; but rather, to teach us what is good and what is evil, thereby to convince us to be sinners, and without excuse before the Lord. Paul verily, proving that the Gentiles by the law of nature are guilty of sin, as well as the Jews by Moses’ law, doth shew that in Christ alone, the Son of God, is justification, life, and all good else. Thus far touching the law of nature.
@@ -220,8 +205,6 @@ Furthermore, ecclesiastical laws have their measure and certain marks, beyond wh
 
 Men’s traditions.
 
-208 THE SECOND DECADE. [SERM.
-
 coloured pretence of ecclesiastical laws, to bring in, and pop into the mouths of the godly!, any superstitious, busy*, and unseemly traditions of men, which withal do differ from the scriptures ; their part shall be, first to try that deceit of theirs by the rule of God’s word, and then to reject it.
 
 There remain now the traditions of men, which have their beginning, are made and invented, of men, at their own choice; of some foolish intent, or some fond affection of mankind; contrary or without the holy scriptures: of which sort you shall find an infinite number of examples; I mean, the sects, the dominion’, and single life of spiritual men, the rites and sundry fashioned customs used in their church. Touching all which the Lord in the gospel, citing the prophet Esay, saith: ‘ Why transgress ye the Lord’s commandment for your own tradition? Ye hypocrites, rightly did Esaias prophesy of you, where he saith, This people cometh nigh unto me with their mouth, and with their lips they honour me, but their heart is far from me: but they worship me in vain, teaching doctrines the precepts of men*.” The blessed martyr Cyprian, alluding to these words of Christ, Epistolarum, Lib. 1. Ep. 8, saith: “It is corrupt, wicked, and robbery to the glory of God, whatsoever is ordained by the giddy madness of men’s heads, to the violating of God’s disposition. Depart as far as may be from the infective contagiousness of such fellows, and seek by flight to shun their talk, as warily as an eating canker or infecting pestilence ; for the Lord forewarneth and telleth you, that they are blind leaders of the blind®.” Paul also in his epistle to Titus saith : “Rebuke them sharply, that they may be sound in the faith; not taking heed to Jewish fables, and commandments of men turning from the truth.” I do of purpose here let pass the words of Paul in his second chapter to the Colossians, because the place is known of all men. .
@@ -234,11 +217,11 @@ There remain now the traditions of men, which have their beginning, are made and
 
 (6 Adulterum est, impium est, sacrilegum est, quodcunque humano furore instituitur, ut dispositio divina violetur. Procul ab hujusmodi hominum contagione discedite, et sermones eorum yelut cancer et pestem fugiendo vitate, premonente Domino et dicente: Ceci sunt duces ceecorum.—Cypr. Opp. Ep. 43, pag. 83, Oxon. 1682. ]
 
-1] OF THE LAW OF NATURE AND OF ΜΕΝ. 209
+## 1] of the Law of Nature and of Μεν. 209
 
 I will not trouble you, dearly beloved, with too large and busy® an exposition hereof. For I suppose that this little that I have said, touching the laws of nature and of men, (I mean laws politic, ecclesiastical, and mere traditions of men,) are sufficient to the attentive and faithful hearers, who at their coming home do more diligently think of every point by themselves, and also read the places of scripture often cited by me, and devoutly expounded’. The Lord for his mercy grant, that we do never despise the admonitions of nature’s law graffed in our hearts, nor yet be entangled in men’s traditions; but that we, in walking lawfully in upright politic laws and holy ecclesiastical ordinances, may serve the Lord: to whom be all glory, honour and dominion, for ever and ever Amen.
 
-OF GOD’S LAW, AND OF THE TWO FIRST COMMANDMENTS OF THE FIRST TABLES.
+## Of God’s Law, and of the Two First Commandments of the First Tables
 
 ---
 [[Bullinger Dec 12 Decade 1, Sermon 10|← 12. Decade 1, Sermon 10]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 14 Decade 2, Sermon 2|14. Decade 2, Sermon 2 →]]

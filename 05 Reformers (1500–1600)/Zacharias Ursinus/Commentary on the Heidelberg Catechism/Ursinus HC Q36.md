@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 36. What profit dost thou receive by Christ's holy conception and nativity?
-
-**Question 36. What profit dost thou receive by Christ's holy conception and nativity?**
 
 Answer. That he is our mediator, and with his innocence and perfect holiness covers, in the sight of God, my sins, wherein I was conceived and brought forth.
 
-**EXPOSITION**
+## **Exposition**
 
 There are two benefits resulting from the holy conception and nativity of Christ. First, the confirmation of our faith that he is the mediator; and, secondly, the consolation that we are justified before God through him. The reason of this arises from the fact, that he could not be the mediator between God and man, who is not himself very man, and perfectly righteous, and who is not united with the Word. It behooved the mediator to be, by nature, true God and man, that he might preserve the salvation purchased for us. "For such an High-Priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens." (Heb. 7:26.)
 
@@ -38,7 +35,7 @@ III. If but one person, what is the nature of this union?
 
 IV. Why was it necessary that the hypostatical union should be constituted?
 
-**I. ARE THERE TWO NATURES IN THE MEDIATOR?**
+## **I. Are There Two Natures in the Mediator?**
 
 That Christ has a divine nature has already been proven. That he has a human nature was formerly denied by Marcion, and is to this day denied by the Swenckfieldians, who hold that Christ is a man only in name. It is, therefore, to be proven against heretics, that Christ is a true and natural man, consisting of a body and soul, perfectly and truly, and subject to all infirmities, sin excepted. The proofs of this are:
 
@@ -62,7 +59,7 @@ Rep. 2. God dwells in light inaccesible. Therefore it is not possible that human
 
 Rep. 3. It is reproachful to God to be a creature. Ans. It would, indeed, be reproachful to God if he were to be changed into a creature; but that he should be united with a created nature, without a change of his own essence, is honorable unto God, as he, by this means, demonstrates to the whole world, his infinite wisdom, goodness and power.
 
-**II. DO THE TWO NATURES OF CHRIST CONSTITUTE ONE OR MORE PERSONS?**
+## **II. Do the Two Natures of Christ Constitute One or More Persons?**
 
 There are two natures in Christ, whole and distinct; but only one person. Marcion taught that there were two Christs: the one crucified, the other not: and that the one came to the assistance of the other upon the cross. But it behooved one to be Christ, because it was necessary that one should be mediator both by merit and efficacy. Therefore there must needs be only one person.
 
@@ -76,15 +73,15 @@ Reply 1. But the Word united to himself a body and soul; and, therefore, a perso
 
 Reply 2. But he united to himself the essential parts of a person, and therefore he must also have united a person. Ans. This holds true merely in relation to such parts as subsist by themselves; but the body and soul of Christ do not subsist, nor could they ever have subsisted, unless in this union.
 
-**III. WHAT IS THE UNION WHICH EXISTS BETWEEN THE TWO NATURES OF CHRIST, AND HOW WAS IT MADE?**
+## **III. What Is the Union Which Exists Between the Two Natures of Christ, and How Was It Made?**
 
 The union which exists between the two natures in Christ was made by the operation of the Holy Ghost in the very conception, in such a manner that the two natures subsist in the single person of Christ, without confusion, without change, indivisible, and inseparable, as it is expressed in the Calcedonian creed. It is called the hypostatical or personal union, because the two natures that are different are united in a mysterious manner in one person, whilst the essential properties of each nature are retained whole and entire. It is on account of this union that Christ is called, and is true God and man in respect to the distinct natures of which he is possessed: he is very God according to the divine, and very man according to the human nature. "That holy thing which shall be born of thee shall be called the Son of God." "In him dwelleth all the fullness of the Godhead bodily." "The word was made flesh." "He took upon him the seed of Abraham." "God was manifested in the flesh." (Luke 1:35. Col. 2:9. John 1:14. Heb. 2:16. 1 Tim. 3:16.)
 
-**IV. WHY WAS IT NECESSARY THAT THIS HYPOSTATICAL UNION SHOULD BE EFFECTED?**
+## **IV. Why Was It Necessary that This Hypostatical Union Should Be Effected?**
 
 The reasons which made it necessary that the mediator should be a true man, and perfectly righteous, and at the same time, true God, have been presented and explained under the 16th and 17th Questions of the Catechism, so that it is not necessary that we should here repeat them. Fo these reasons it was necessary that a personal union should be effected between the natures of the mediator, that he might at the same time be very man and very God, who might be able to restore and merit for us that righteousness and life which we have lost; for had not these natures concurred and met together in the person of the Word, as above described, he could not have accomplished the work of our redemption.
 
-**FIFTEENTH LORD'S DAY**
+## **Fifteenth Lord's Day**
 
 ---
 [[Ursinus HC Q35|← Question 35. What is the meaning of these wo]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q37|Question 37. What dost thou understand by th →]]

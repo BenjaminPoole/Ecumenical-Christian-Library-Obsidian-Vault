@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon II. The wisdom of making the Lord our refuge. Psalm xiv 6
-
-## Sermon II. The wisdom of making the Lord our refuge.
 
 Preached February 27, 1669.
 
@@ -88,10 +85,8 @@ The reasons of it are, —
 
 Here we see what our duty is; and I thought I should have been able to have added a word or two of direction how to put this counsel into execution, to make the Lord our refuge, but my strength is gone.
 
-
 ---
 [^1]: In the Hebrew EL, which signifies “Mighty.”
-
 
 ---
 [[SJO 104 Sermon I. The furnace of divine wrath. Ezekiel xxii. 17–22|← Sermon I. The furnace of divine wrath. Ezekiel xxii. 17–22]] · [[Sermons of John Owen|Contents]] · [[SJO 106 Sermon III. Faith’s answer to divine reproofs. Habakkuk ii. 1–4|Sermon III. Faith’s answer to divine reproofs. Habakkuk ii. 1–4 →]]

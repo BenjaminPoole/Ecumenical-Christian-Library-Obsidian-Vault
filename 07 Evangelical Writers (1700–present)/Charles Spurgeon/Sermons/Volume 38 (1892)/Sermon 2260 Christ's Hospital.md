@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Christ's Hospital
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2260
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He heals the broken in heart, and binds up their wounds." Psalm 147:3.
 
@@ -150,7 +147,6 @@ Verse 1. Praise you the LORD—It is not enough for the Psalmist to do it, himse
 20\. And as for His judgments, they have not known them. Even today there are large tracts of country where God is not known. If we know Him, let us praise Him.
 
 20\. Praise you the LORD. Hallelujah! The Psalm ends upon its keynote—"Praise you the LORD." So may all our lives end! Amen.
-
 
 ---
 [[Sermon 2259 The Simplicity and Sublimity of Salvation|← #2259]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2261 One Worker Preparing For Another|#2261 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # No Difference
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1414
 
-DELIVERED ON LORD'S-DAY EVENING, MAY 12, 1878,.
+*Delivered on Lord's-Day Evening, May 12, 1878*
 
 > "He makes His sun to rise on the evil and on the good and sends rain on thejust and on the unjust." Matthew 5:45.
 
@@ -135,7 +134,7 @@ His Grace in conversion, pardon, adoption and preservation is as large as ever! 
 
 III. Lest I should weary you, I will finish with the last head, under which I should like to MAKE THE EARTH, THE
 
-FLOWERS AND THE TREES WHICH HAVE BEEN WATERED AND WARMED, SPEAK TO YOU A LITTLE.
+## Flowers and the Trees Which Have Been Watered and Warmed, Speak to You a Little
 
 And, first, I will suppose, dear Friend, that you are here tonight and feel that you cannot pray—feel as if you could not come to God, could not do anything. The flowers say, "We are cheered by the sun and refreshed by the rain. We do nothing to deserve these blessings, but we do long for them." The little flowers say, "We do long for the rain." Look at them—they droop their heads during a long drought. See the grass, how brown it gets! See the leaves, how dry they are! See the earth, how chapped it is after a dry season.
 
@@ -154,7 +153,6 @@ Lastly—and this the flowers cannot teach you, because the flowers cannot do it
 See his point? The dew comes every morning. The grass cannot ask for it, but it comes. And shall the dew be more free and swift than the Holy Spirit? No, says the poet—I can pray for that holy Dove—will He not come to me, who prays, since the dew comes to the grass which cannot call for it? Behold He visits the earth and waters it with the river of God which is full of water and flings back the curtains of the sky and bids the sun shine out with genial face upon the poor dead soil! And if He does all this for the fields that cannot pray and for flowers that cannot speak, how much more will He do it for you who seek His face through Jesus Christ?!
 
 Come, then, to Him! He will gladly welcome you. Come and trust His Son. Come and rest in the merit of Jesus' blood and you shall find eternal life! May God bless you all, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1413 Underneath|← #1413]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1415 Great Difference|#1415 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Jesus, The Delight of Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1225
-
-DELIVERED BY.
 
 > "And they sung a new song, saying, You are worthy to take the book, and to open the seals thereof: for You were slain, and have redeemed us to God by Your blood out of every kindred, and tongue, and people, and nation; and have made us unto our God kings and priests: and we shall reign on the earth." Revelation 5:9,10.
 
@@ -134,7 +131,6 @@ Let time and space become one mouth for song, and all eternity sound forth that 
 God bless you all, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Revelation 4:5. HYMNS FROM "OUR OWN HYMN BOOK"—412, 416, 417.
-
 
 ---
 [[Sermon 1224 Jesus, The Stumbling Stone Of Unbelievers|← #1224]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1226 The Secret Of Health|#1226 →]]

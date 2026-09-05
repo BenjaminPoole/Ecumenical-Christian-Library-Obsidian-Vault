@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Christ's Love to His Spouse
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2488
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Christ also loved the Church, and gave Himself for it." Ephesians 5:25.
 
@@ -99,7 +96,7 @@ I grow angry, I confess it, when I hear some men speak of Christ. They talk of m
 
 And what else shall we say? If such is the love of Christ, how shall we think of it but in a way of holiness? Let us seek to be like He is. Let us try to fulfill His will that He may purify us and sanctify us by the washing of water by the Word, that we may be holy as He who has called us is holy. Let us think of this love by striving after sanctification and let us think of this love, above all, by rendering to Him, now, and as long as we live, the full love of our heart. We cannot love Him without being moved to love Him more. We can love the more by thinking much of the Person towards whom our hearts are drawn, so think much of my Lord, think of Him every day! Get to be familiar with Him. Read frequently the story of His life and death. Get alone as often as you can and picture Him before your eyes until you find your heart exclaiming, "I love You, dearest Lord. You know all things. You know that I love You." I find it a profitable form of devotion, sometimes, to sit quite still and not say a word, but just thinkof Him. My heart has burned within me while doing that and I believe that it is not lost or wasted time, but time most profitably spent, for I come forth from my chamber and feel, "Now I am ready for the service of life—or for its suffering—for I have seen the Well-Beloved and the glances of His countenance have charmed away my grief and prepared me to take up my cross and follow Him wherever He goes." Oh, love the Lord, you His saints and, as long as you live, love Him more and more, love Him to the very utmost, till you die of love! Blessed, forever blessed be His holy name! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 3.
+## Exposition by C. H. Spurgeon: 1 John 3
 
 I have read this chapter many times in your hearing, but we cannot read it too often, for it is full of the deepest and most important instruction. God grant that fresh light from above may shine upon it as we listen once more to the familiar words!
 
@@ -146,7 +143,6 @@ Verse 1. Behold—If you never used your eyes to good purpose before, use them s
 20-23. For if our heart condemns us, God is greater than our heart and knows all things. Beloved, if our heart condemns us not, then have we confidence toward God. And whatever we ask, we receive of Him because we keep His commandments and do those things that are pleasing in His sight. And this is His commandment, That we should believe on the name of His Son, Jesus Christ, and love one another, as He gave us commandment. Faith works by love. We believe on the name of the Lord Jesus, God's well-beloved and only-begotten Son and that faith leads us to love all who bear His holy name.
 
 24\. And He that keeps His commandments dwells in Him, and He in him. And hereby we know that He abides in us, by the Spirit which He has given us. If He has given us the Spirit of Christ, then Christ Himself is in us! If He has given us the Spirit of love, that also is the evidence that Christ, Himself, abides in us. Oh, for more of that blessed Spirit in every one of us!
-
 
 ---
 [[Sermon 2487 Ordered Steps|← #2487]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2489 Singing Saints|#2489 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Feeding on the Bread of Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2706
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Verily, verily, I say unto you, He that believes on Me hats everlasting life. I am that bread of life." John 6:47, 48.
 
@@ -101,9 +98,9 @@ I wish that all my congregation knew the sweetness of feeding upon Christ. Every
 
 God and made to live with Christ! You will go to the place "where their worm dies not." That is the place of corruption—"and the fire is not quenched." that is Tophet's flame. God save you from it! But there is no salvation from it except for those who have life through believing in Jesus—"He that believes on the Son has everlasting life: and He that believes not the Son shall not see life; but the wrath of God abides on Him." God save you, dear Friends, from that awful doom, for His dear Son's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—282, 295, 942.
+## Hymns from "Our Own Hymn Book"—282, 295, 942
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:41-65.
+## Exposition by C. H. Spurgeon: John 6:41-65
 
 Verse 41. The Jews then murmured at Him. That is, at the Christ.
 
@@ -132,7 +129,6 @@ live by Me. This is that bread which came down from Heaven: not as your fathers 
 63\. The flesh profits nothing: the words that I speak unto you, they are spirit, and they are life. They are not carnal. They are not gross. They have in them an inner sense which is full of life and spirit.
 
 64, 65. But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray Him. And He said, Therefore said I unto you, that no man can come unto Me, except it were given unto Him of My Father. "No man"—no, not even an Apostle—not the one who ate bread with Christ and was His familiar friend—not even he could come without being drawn by God. And Judas did not come to Christ. In the sense in which our Lord used the word, Judas never really came to Him, but perished in his sin. The Father must draw us with Divine cords, or else to the Son we shall never come.
-
 
 ---
 [[Sermon 2705 Why Some Sinners Are Not Pardoned|← #2705]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2707 An Antidote to Satan's Devices|#2707 →]]

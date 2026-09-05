@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 98. Matthew 12:1-8; Mark 2:23-28; Luke 6:1-5
-
-**Matthew 12:1-8; Mark 2:23-28; Luke 6:1-5**
 
 **1**. At that time Jesus was passing through the corn-fields on the Sabbath; [^1] and his disciples were hungry, and began to pluck the ears of corn, and to eat. **2**. But when the Pharisees saw it, they said to him, Lo, thy disciples do what it is not lawful to do on the Sabbath. **3**. But he said to them, Have you not read what David did, when he was hungry, and those who were with him? **4**. How he entered into the house of God, and ate the shew-bread, which it was not lawful for him to eat, nor for those who were with him, but for the priests alone? **5**. Or have you not read in the Law, that on the Sabbath the priests in the temple profane the temple, and are free from blame? [^2] **6**. But I say to you, That one greater than the temple is in this place. **7**. But if you knew what that is, I choose mercy, and not sacrifice, you would not have condemned the innocent. **8**. For the Son of man is Lord even of the Sabbath.
 

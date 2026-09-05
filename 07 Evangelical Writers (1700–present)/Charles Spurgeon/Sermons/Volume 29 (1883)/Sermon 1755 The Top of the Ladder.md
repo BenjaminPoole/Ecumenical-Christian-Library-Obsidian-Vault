@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Top of the Ladder
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1755
 
-DELIVERED ON THURSDAY EVENING, OCTOBER 25, 1883,.
+*Delivered on Thursday Evening, October 25, 1883*
 
 > "And to know the love of Christ, whichpasses knowledge, thatyou might be filled with all the fullness of God." Ephesians 3:19.
 
@@ -144,7 +143,6 @@ If you go to a fountain and find no water flowing, that fountain mocks your thir
 After you begin to live, you will be strengthened by the Spirit of the Lord. After you are strengthened, Christ will dwell in your heart. After Christ has dwelt in your heart, you shall know the love that passes knowledge—and after you know the love that passes knowledge, you shall be filled with all the fullness of God! Do not begin at the end, but take things according to God's order. A man who wishes to climb a ladder does not expect to put his foot upon the top rung at the first step—he ascends by degrees.
 
 There is your first rung—"Believe on the Lord Jesus Christ and you shall be saved." Take that first step at once! May the Lord help you! Beginning with faith in Jesus, you shall persevere and ascend till you reach the top of the ladder. The Lord be with you and in you to the fullest! Amen and Amen.
-
 
 ---
 [[Sermon 1754 The Blind Man's Eyes Opened—or, Practical Christianity|← #1754]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1756 Renewing Strength|#1756 →]]

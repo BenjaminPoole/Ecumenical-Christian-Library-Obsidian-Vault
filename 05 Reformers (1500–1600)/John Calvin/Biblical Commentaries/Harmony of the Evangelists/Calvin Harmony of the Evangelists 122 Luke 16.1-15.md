@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 122. Luke 16:1-15
-
-**Luke 16:1-15**
 
 **1**. And he said also to his disciples, There was a certain rich man who had a steward, and he was accused to him that he was wasting his estate. **2**. And he called him, and said to him, What is this that I hear of thee? render an account of thy stewardship, for thou shalt no longer have it in thy power to be steward. **3**. And the steward said within himself, What shall I do, since my master taketh from me my stewardship? I cannot dig, and am ashamed to beg. **4**. I know what I shall do, that, when I shall be dismissed from the stewardship, they may receive me [^1] into their houses. **5**. Having therefore sent for each of his master’s debtors, he said to the first, How much owest thou to my master? **6**. And he said, A hundred baths of oil. And he said to him, Take thy bill, and sit down quickly, and write fifty. [^2] **7**. Then he said to another, And how much owest thou? Who said, A hundred measures of barley. He saith to him, Take thy bill, and write eighty. **8**. And the master commended the unjust steward, because he had acted prudently; for the children of this world are more prudent in their generation than the children of light. **9**. And I say to you, Make to yourselves friends of the unjust mammon, that, when you shall fail, they may receive you into eternal habitations. **10**. He that is faithful in that which is least is faithful also in much; and he that is unjust in that which is least is unjust also in much. **11**. If therefore you have not been faithful in the unjust mammon, who shall entrust to you what is true? [^3] **12**. And if you have not been faithful in what belongs to another, who will give you what is your own? — (A little after.) **14**. And the Pharisees, who were covetous, heard all these things, and they ridiculed him. **15**. And he said to them, It is you that, justify yourselves in the sight of men: but God knoweth your hearts; for that which is highly esteemed among men is abomination in the sight of God.
 

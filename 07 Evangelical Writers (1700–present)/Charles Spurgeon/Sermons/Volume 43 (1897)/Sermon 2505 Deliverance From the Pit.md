@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Deliverance From the Pit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2505
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then He is gracious unto him, and says, Deliver him from going down to the Pit: I have found a ransom." Job 33:24.
 
@@ -59,7 +56,7 @@ Yet this is the very man whom I described just now as going down to the Pit! But
 
 III. This brings me to my third point, which is concerning how this Grace operates. It operates by A WORD OF
 
-POWER.
+## Power
 
 This man was going down to the Pit, but God said, "Deliver him." To whom is this command spoken? It appears to be addressed to the messengers of Divine Justice. They have grasped the guilty man, they have bound him, they are taking him off to the place of death and well does he deserve to die—but the great King upon the Throne says to His ministers ofjustice, "Deliver him, let him go, deliver him from going down to the Pit." And, in an instant, his chains are snapped, his bonds drop off and the man is free—freed by the word of the King, Himself. No sheriffs officer can arrest him, now. None of all the police of the universe can lay a finger on him, now, for God has said to all of them, "Let him go. Deliver him from going down to the Pit." Here is a clean jail delivery for the prisoners of hope—they are set free by the mandate of the eternal God!
 
@@ -87,7 +84,7 @@ To my mind, and with this thought I will finish, there is the ring of heavenly m
 
 Now, dear Hearts, if God has found a Ransom and speaks thus joyously about it, I do pray you to accept it. "If you are willing and obedient, you shall eat the good of the land." Receive Christ and you have the proof that God has received you. Only take Him—you have nothing else to do! Put out that empty hand of yours, black though it is, and receive in it the Pearl of Great Price, even the Christ of God, Himself! Receive Him, accept Him, believe Him, trust Him! That is all you have to do. Oh, will you not trust Him? Can you doubt Him? If God takes upon Himself our nature and in that nature, dies, I cannot only trust Him with my soul, but if I had all your souls within my body, and all the souls of the millions of London all gathered beneath this breast—and if I had besides that the souls of all the sinners who have ever lived, all compressed within this one frame—I could believe that the dying Christ could blot out all that mass of sin! I believe it and so confide in Him—will not you? Verily, if you will not believe, neither shall you be established! But he that believes shall not be ashamed nor confounded, world without end! May God add His own blessing, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB 33.
+## Exposition by C. H. Spurgeon: Job 33
 
 This is a speech of young Elihu who had sat quietly listening to the taunting words of the three "candid Friends" of Job—and to the somewhat exasperated replies of the Patriarch. At last, the young man breaks the silence and, with some dignity, and quite sufficient self-content, he thus addresses himself to Job.
 
@@ -118,7 +115,6 @@ Verse 1. Therefore, Job, Ipray you, hear my speeches and listen to all my words.
 29, 30. Lo, all these things works God oftentimes with man, to bring back his soul from the Pit, to be enlightened with the light of the living. The chastisement of sickness and the flagellation of pain whip the sinner back to Him, who alone can save him! These are the black dogs of the Great Shepherd wherewith He brings back wandering sheep till they come again under His crook and He leads them into green pastures.
 
 31-33. Mark well, O Job, hearken unto me: hold your peace, and I will speak. If you have anything to say, answer me: speak, for I desire to justify you. If not, listen to me: hold your peace, and I shall teach you wisdom. May the Lord graciously apply to all our hearts this instructive portion of Old Testament Scripture! There is a message in it to each of us as well as to the Patriarch, Job, to whom it was specially addressed.
-
 
 ---
 [[Sermon 2504 Jonah's Object-lessons|← #2504]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2506 God's Law in Man's Heart|#2506 →]]

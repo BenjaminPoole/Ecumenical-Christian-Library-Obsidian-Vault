@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Family Likeness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3483
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as many as are led by the Spirit of God, they are the sons of God." Romans 8:14.
 
@@ -25,7 +22,7 @@ WE shall do well to notice how much in this Chapter is ascribed to the Holy Spir
 
 Now it is to this leading of the Spirit rather than to the Sonship, and all the blessed things that come out of that, that I shall direct your attention at this time. And we shall notice first—
 
-I. WHAT IS INTENDED BY A MAN'S BEING LED BY THE SPIRIT.
+## I. What Is Intended by a Man's Being Led by the Spirit
 
 Every man is led by some spirit. There is an evil spirit in the world, and it leads the mass of mankind. He who says, "I am free and led by none," is led by the spirit of pride and self-conceit. Under some form or another, the human mind subjects itself to some spiritual sway—and here we are told that those who are the sons of God are distinguished by this— that the leadership under which they move is that of the Holy Spirit! I take this to mean, first, that the Holy Spirit becomes the governing principle of our life. Years ago we were led by the Spirit from the wilderness of our natural state. We had been called under the preaching of the Word, but vain were those calls. The Holy Spirit came and then the call of the preacher became an effectual call to our own souls. The first active Grace we ever exercised was by the leading of the Holy Spirit! We were then, for the first time, recognized as the children of God, because then, also, for the first time, we yielded ourselves up to the leadership of the Holy Spirit. And mark, from that day to this, every act of ours that has been heavenward, every thought of ours that has been towards God and His Christ, has been under the leadership of that same Spirit! He who gave us at first to live, has kept us alive! He who guided our tottering footsteps to the foot of the Cross
 
@@ -43,7 +40,7 @@ And fourthly, this being led implies acquiescence in the government, and in the 
 
 agency of man. It has been commonly laid to the charge of those who preach Calvinistic Doctrine that we make it out that man is passive and that the will is nowhere! I do not know who may have said so, but certainly the master theologians of our school have always endeavored carefully to show that the Holy Spirit works in us to will and to do, yet never so as to treat man as if he were not a free agent! God does not deal with man as with blocks of wood or stone. He deals with men as men. He has His will with them—His Sovereign and ever-blessed will, but He does not violate their will! There is a lock box—it is locked. Soon it is opened. Now he that made that box opens it with a key and does not violate the lock, nor even the most delicate ward of the lock. It is only the thief that comes with his crowbar and rifles it, that violates its constitution. And so God knows how to put spiritual life and Divine Grace and obedience into the human heart without destroying the fact that it was a human heart and that it had a free choice! He makes us willing in the day of His power! It is not that the day of His power is one of physical might, but of moral spiritual might, so that we are made willingto do what once we would abhor to do! Now a man, then, whose religion leaves him passive cannot prove that he is a child of God because he is drawn by the Spirit, for it is as many as are led. Now to be led means that you are willing to go! To be led means that as you begin to feel the gentle drawing of the Guide, you follow—not always with equal footsteps, but still with willing steps, desirous to go in the way He indicates. Beloved, is it so with you, or not? Do you yield to His guidance? Do you desire to submit to all His government? Do you wish to work with Him, and He with you—working out your own salvation—to will and to do according to His good pleasure? If so, you are one of the sons of God. But now, secondly—
 
-II. INTO WHAT DOES THE HOLY SPIRIT LEAD US?
+## II. Into What Does the Holy Spirit Lead Us?
 
 It is a subject that would take many discourses. Therefore, very briefly, let us say He leads us into the truth of the faith, into holiness of life and into peacefulness of spirit You shall know His guidance. He leads us into the truth of the faith.If any receives error, it is not by the teaching of the Holy Spirit. And if, on the other hand, any man shall be able to enter into the soul, and marrow, and essence of the Truth of God, flesh and blood have not revealed it unto him, but the Spirit of the living God has done so! Believe me, you have learned nothing if you have learned it of the flesh. You may take a creed and suppose it to be perfection. You may also have it explained to you in the clearest manner, but if all your learning of Christian Doctrine comes from that catechism or creed, or the instruction of the minister—and if that Spirit of God has not sent it into your soul—you have learned nothing aright yet! We need to have Truth burned into us, right into our very nature, before we know it—for half of the things we think we believe we don't believe, and indeed, nothing is really grasped, truly laid hold of by a living faith until the Holy Spirit leads us into the Truth of God! Beloved, are you staggered by a Doctrine of God's Word? Are you as yet a beginner in the Divine Mystery? Then wait upon the blessed Spirit with this prayer, "Open, You, my eyes that I may behold wondrous things out of Your Law, and what I know not, teach me."
 
@@ -84,7 +81,6 @@ every ordinance, whatever it may be—Baptism, confirmation, confession to a pri
 But are we willing, all of us all round now, to learn what the Spirit of God would teach us, honestly and truly? Can all of us say, to whatever creed we belong, "I am a disciple at the feet of Jesus, and I desire to submit all my belief entirely to the instructions of the Divine Spirit"? We ought to say this, and must, or we lack one mark of being the sons of God! And when all through the Christian Church this shall be the spirit, there will come a fusing—a separating between the precious and the vile, a casting away of all old beliefs and old traditions! I do not believe for a moment that the Church will come to believe as I believe, or as you believe, my dear Brother. You will have something wrong to give up and I shall have something wrong to give up. We ought to desire to give up everything which is wrong and to learn everything which we do not know yet to be the Truth of God, but which is the Truth—may we all be brought there, kept there, held there—led by the Spirit, not tethered down by a creed, not tied hand and foot by a certain commentary, not made to say, "There, that is all I ever will believe under any circumstances," but led by the Spirit through His Word and through the enlightenment which He is sure to give to as many as put their trust in the Lord Jesus Christ!
 
 Oh, that every sinner here were led to resign himself, now, to the Holy Spirit's will, for He would lead him to the Cross at once! The Holy Spirit never leads a man into self-righteousness, never leads him to put his trust in sacraments, but leads him right away to the feet of Jesus! May the Holy Spirit guide you and all of us there, for the sake of Jesus Christ our Lord! Amen.
-
 
 ---
 [[Sermon 3482 Struggling Against Sin|← #3482]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3484 Daniel—a Pattern for Pleaders|#3484 →]]

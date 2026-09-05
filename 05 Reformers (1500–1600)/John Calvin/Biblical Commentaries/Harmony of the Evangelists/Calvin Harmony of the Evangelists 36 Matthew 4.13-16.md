@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 36. Matthew 4:13-16
-
-**MATTHEW 4:13-16**
 
 **13**. And having left Nazareth, he came and dwelt in Capernaum, which is a town on the sea-coast in the borders of Zebulun and Naphtali, **14**. That it might be fulfilled, which was spoken by Isaiah the prophet, saying, **15**. The land of Zebulun and the land of Naphtali, near the way of the sea, beyond Jordan, Galilee of the Gentiles: **16**. The people who sat [^1] in darkness have seen a great light: and to those who sat in the region and shadow of death light hath arisen.
 

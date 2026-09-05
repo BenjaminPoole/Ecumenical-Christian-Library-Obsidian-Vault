@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 108. Matthew 13:18-23; Mark 4:13-20; Luke 8:11-15
-
-**MATTHEW 13:18-23; Mark 4:13-20; Luke 8:11-15**
 
 **18**. Hear therefore the parable of the sower. **19**. When any one heareth the word of the kingdom, and understandeth not, that wicked one cometh, and taketh away what was sown in the heart. This is he who received seed near the road. **20**. But he that received the seed thrown into stony places, is he that heareth the word, and immediately receiveth it with joy: **21**. But hath not root in himself, but is of short duration: when affliction or persecution ariseth on account of the word, immediately he is offended. **22**. And he that received the seed among thorns is he that heareth the word, and the care of this life, and the deceitfulness of riches, choke the word, and it becometh unfruitful. **23**. But he who receiveth seed into a good soil is he that heareth the word and understandeth it, and who afterwards yieldeth and produceth fruit, [^1] some a hundred-fold, some sixty-fold, and some thirty-fold.
 

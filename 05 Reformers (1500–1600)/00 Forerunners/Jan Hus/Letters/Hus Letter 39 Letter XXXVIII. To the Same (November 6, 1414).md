@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 39. Letter XXXVIII. To the Same (November 6, 1414)
-
-LETTER XXXVIII. TO THE SAME (November 6, 1414)
 
 Michael the Pleader ; The action of the Pope ; He is preparing sermons to deliver when Sigismund comes ; His herald the Bishop of Lebus ; They thought it was a show ! Fears for his finances 160-1
 

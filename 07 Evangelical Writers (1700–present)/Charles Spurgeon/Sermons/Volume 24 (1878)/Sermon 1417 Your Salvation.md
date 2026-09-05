@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # "Your Salvation"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1417
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 2, 1878,.
+*Delivered on Lord's-Day Morning, June 2, 1878*
 
 > "Then took he Him up in his arms, and blessed God, and said, Lord, now let Your servant depart in peace, according to Your word: for my eyes have seen Your salvation." Luke 2:28-30.
 
@@ -118,7 +117,6 @@ Lastly, that sight, of course, had made Simeon's eyes ready to behold the Glory 
 by the splendors of Incarnate Deity, they will be fitted to behold the King Himself as He sits upon His Throne! At any rate, when some of us have had a sight of Christ, we have wondered what more we could see in Heaven. When Solomon's Song has come to be our everyday talk and the Beloved has made us to feel that His left hand is under our head while His right hand embraces us, we have almost thought we would not give a pin change earth for Heaven—for whether in the body or out of the body we could not tell—but this we knew, we could sing, "My Beloved is mine and I am His. He feeds among the lilies."
 
 If your soul once comes there and if the Lord helps you to continue there, then dying will be nothing more than crossing the threshold and going from the doorstep of the King's palace to the interior of its halls! Some Believers dwell in the suburbs of the Celestial City and little will be their change when, in a little while, they shall enter the central golden streets where the sun shall no more go down, neither shall the Lord withdraw Himself! The Lord give you to find all your salvation in Christ! And may He teach you a great deal more than these poor stammering lips can ever tell you. May Christ Jesus our Lord be every day more near and dear to me and to you. To Him be Glory forever and ever! Amen.
-
 
 ---
 [[Sermon 1416 The Faithful Saying|← #1416]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1418 The Holdfast|#1418 →]]

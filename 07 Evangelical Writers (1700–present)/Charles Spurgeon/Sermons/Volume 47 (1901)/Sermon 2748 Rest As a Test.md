@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Rest As a Test
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2748
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ask for the old path, where the good way is, and walk in it, and you shall find rest for your souls." Jeremiah 6:16.
 
@@ -132,7 +129,6 @@ I have only time for just this final word to you who have this rest. ENJOY IT. E
 you do not really have Him. If you have Him, He is everything to you. "Ah," you say, "satisfied with Him? Satisfied with Him? That is a very cold word—I am charmed with Him! No music is like His charming name. My soul is overflowing with love to Him."
 
 The other day I saw a little cup suspended under a flowing fountain, so that the stream came right into it. The cup was quite full and as the stream kept flowing, the cup remained brimming over. And as I stood and looked at it, I thought, "That is very much like myself beneath the flowing of the Savior's love. I cannot hold much, so it soon fills me, but I can pour it out to others as fast as it comes into me!" O come, Beloved, come all of you who know the Lord, and put yourselves, like little cups, under the flowing fountain and be filled with all the fullness of God! What a word that is! I do not know whether you understand it—I don't—"filled with all the fullness of God." Why, you cannot get all the fullness of God into you, can you? Suppose that a bottle were taken and held down into the sea till the water had filled it— then, when it is quite full, of course it sinks down to the bottom of the ocean. Now think that the sea is in the bottle and the bottle is in the sea, and that the bottle is full of all the fullness of the sea—it contains all it can hold and then it has all the rest to hold it! Now, just so, get as full as you can of the love of Christ and then sink into the Godhead's deepest sea—be plunged into His immensity and dwell there, filled with all the fullness of the ever-blessed God! The Lord bless you, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2747 Saying Versus Doing|← #2747]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2749 Rehoboam the Unready|#2749 →]]

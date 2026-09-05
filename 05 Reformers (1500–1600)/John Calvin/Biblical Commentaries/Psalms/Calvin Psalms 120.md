@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 120
-
-**PSALM 120.**
 
 A Song of Degrees.
 

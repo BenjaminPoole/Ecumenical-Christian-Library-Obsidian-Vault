@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # God's Providence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3114
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the color of a beryl: and they four had one likeness: and their appearance and their work was, as it were, a wheel in the middle of a wheel. Where they went, they went upon their four sides: and they turned not when they went As for their rims, they were so high that they were dreadful; and their rims were full of eyes round about them four And when the living creatures went, the wheels went by them, and when the living creatures were lifted up from the earth, the wheels were lifted up." Ezekiel 1:15-19.
 
@@ -37,7 +34,7 @@ I trust I have made the first part of my subject intelligible—that the Provide
 
 II. My second thought is that THE PROVIDENCE OF GOD IS, IN SOME MYSTERIOUS WAY, CONNECTED
 
-WITH ANGELS.
+## With Angels
 
 Look at verse 15. "Now as I beheld the living creatures." Then turn to the 19th verse. "And when the living creatures went, the wheels went by them; and when the living creatures were lifted up from the earth, the wheels were lifted up." These living creatures I believe to be angels. And the text teaches us that there is a connection between Providence and angelic agency. I do not know how to explain it. I cannot tell how it is, but I believe angels have a great deal to do with the affairs of this world. An angel cut off the hosts of Sennacherib and it is still my firm belief that angels are sent forth, somehow or other, to accomplish the everlasting purpose of God. The great wheel of Providence is still turned by an angel. When there is some trouble which seems to stop that wheel, some mighty cherub puts his shoulder to it and hurls it round—and makes the chariot of God's Providence go on still. Angels have much more to do with us than we imagine. I do not know but that spirits sometimes come down and whisper thoughts into our ears. I have strange thoughts, sometimes, that seem to come from a land of dreams—and fiery visions that make my soul hot within me. Sometimes I have thoughts which I know come from God's Spirit—some which are glorious and some that are not so good, but still holy thoughts—and I often attribute them to angels. I have sometimes a thought which cheers me in distress—and was not an angel sent to strengthen Christ in the Garden of Gethsemane? How do you think the angel strengthened Him? Why, by putting thoughts into Christ's mind! He could not do it in any other way—he could not strengthen Him by a plaster, or by any physical means, but by injecting holy thoughts! So is it with us. There was a temptation which might have led you astray, but God said, "Gabriel, fly! There is one of My people in peril—go and put such a thought into his soul that when the danger comes, he will say, 'Get you behind me, Satan, I will have nothing to do with sin.'"
 
@@ -103,7 +100,7 @@ Shall walk all day beneath His shade
 
 And there at night shall rest his head." Let this be your shield to keep off the thrusts of distress and this be your high rock against all the winds of sorrow! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM103.
+## Exposition by C. H. Spurgeon: Psalm 103
 
 Verse 1. Bless the LORD, O my Soul: and all that is within me, bless His holy name. [See Sermons #1077, Volume 18—the
 
@@ -134,7 +131,6 @@ PITY OF THE LORD; #1650, Volume 28—GOD'S FATHERLY PITY and #2639, Volume 45—
 20, 21. Bless the LORD, you His angels that excel in strength, that do His commandments, hearkening unto the voice of His word. Bless you the LORD, all you His hosts. "Let all the armies of Heaven break forth into one song— "Bless you the LORD, all you His hosts."
 
 21, 22. You ministers of His, that do His pleasure. Bless the LORD, all His works in all places of His dominion: bless the LORD, O my Soul.
-
 
 ---
 [[Sermon 3113 Gratitude for Great Deliverances|← #3113]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3115 Sin and Grace|#3115 →]]

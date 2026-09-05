@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Lord Leading—David Following
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2348
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And let it be, whien you hiear he sound of a going in he tops of he mulberry trees, hat hen you shiall bestir yourself: for hen shiall he LORD go out before you, to smite he hiost of he Phiilistines. And David did so, as he LORD haadd commanded Aim and smote tie Phiilistines from Geba until you come to Gazer." 2 Samuel 5:24,25.
 
@@ -154,7 +151,6 @@ Now let us read about two interesting incidents in David's warrior life.
 24, 25. For then shall the LORD go out before you, to smite the host of the Philistines. And David did so, as the LORD had commanded him. I hope that may be said of you and me all our lives!
 
 25\. And smote the Philistines from Geba until you come to Gazer. That is, he utterly overthrew them and drove them away.
-
 
 ---
 [[Sermon 2347 The Lord's Famous Titles|← #2347]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2349 All Comers To Christ Welcomed|#2349 →]]

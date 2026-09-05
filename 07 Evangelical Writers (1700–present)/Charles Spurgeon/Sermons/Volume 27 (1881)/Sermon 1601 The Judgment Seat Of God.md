@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Judgment Seat Of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1601
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 29, 1881,.
+*Delivered on Lord's-Day Morning, May 29, 1881*
 
 > "But why do you judge your brother? Or why do you set at nothing your brother? For we shall all stand before the Judgment Seat of Christ. For it is written, As I live, says the Lord, every knee shall bow to Me, and every tongue shall confess to God. So then every one of us shall give account of himself to God." Romans 14:10-12.
 
@@ -140,7 +139,6 @@ Oh, is not this a blessed ending to a solemn sermon?—
 "Bold shall I stand in that great day, For who anything to my charge shall lay? While through Your blood absolved I am From sin's tremendous curse and shame."
 
 God bless you. Amen.
-
 
 ---
 [[Sermon 1600 A Greater Than Solomon|← #1600]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1602 Farm Laborers|#1602 →]]

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 42
 
-**CHAPTER 42.**
+***Chapter 42.***
 
 ## Genesis 42:1-38
 

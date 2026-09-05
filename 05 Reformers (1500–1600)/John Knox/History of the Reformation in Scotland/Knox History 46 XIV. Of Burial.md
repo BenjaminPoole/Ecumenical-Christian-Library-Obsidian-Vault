@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 46. XIV. Of Burial
-
-### XIV. Of Burial.
 
 Burial in all ages hath been holden in estimation, to signify the faith that the same body that was committed to the earth would not utterly perish, but would rise again. And we would have the same kept within this realm, provided that superstition, idolatry, and whatsoever hath proceeded of a false opinion and for advantage's sake, be avoided. Singing of Mass, placebo, and dirge, and all other prayers over or for the dead, are not only superfluous and vain, but are idolatry, and are repugnant to the plain Scriptures of God. Plain it is that every one that dieth departeth either in the faith of Christ Jesus, or else departeth in incredulity. Plain it is that they that depart in the true faith of Christ Jesus rest from their labours, and from death do go to life everlasting, as by our Master and by His Apostle we are taught. But whosoever shall depart in unbelief or in incredulity shall never see life, but the wrath of God abideth upon him. And so we say that prayers for the dead are not only superfluous and vain, but are expressly repugnant to the manifest Scriptures and truth thereof.
 

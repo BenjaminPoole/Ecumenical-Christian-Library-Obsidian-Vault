@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Judgment Threatening But Mercy Sparing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 650
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 17, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 17, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Luke 13:7,8.
 
@@ -156,7 +155,6 @@ While I have thus spoken of the general interest which Christ has in you all, I 
 "I would mourn that I could ever have hated Him that loved me so well! Oh, that I could ever have stood out against Him that was determined to save me! What a fool I was to quarrel with Him who had paid my price and chosen me by His Grace and taken me to be married unto Himself forever!"
 
 I tell you that God will forgive you, but you will never forgive yourselves for having stood out and resisted so long. Oh, may eternal Mercy, which has not yet said, "Cut it down," now dig about you and feed you that you may bring forth fruit—and then it shall be all to the praise of Him whose precious blood has saved us from eternal wrath. May God bless these feeble words of mine. He knows how I meant them—how I meant to speak them, how I meant to have wept over you, how I wanted that my soul should heave with passionate desire for your conversion—but if there have been no such outward manifestations, yet I pray God that the Truth itself may be irresistible and may He get to Himself the victory and His shall be the praise, forevermore. Amen.
-
 
 ---
 [[Sermon 0649 Songs For Desolate Hearts|← #649]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0651 A Sermon From A Rush|#651 →]]

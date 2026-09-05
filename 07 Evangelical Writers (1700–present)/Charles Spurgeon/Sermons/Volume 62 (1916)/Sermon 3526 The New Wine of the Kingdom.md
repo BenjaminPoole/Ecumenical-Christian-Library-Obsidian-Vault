@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # The New Wine of the Kingdom
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3526
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in My Father's Kingdom." Matthew 26:29.
 
 SUCH words could hardly have been spoken at such a time by our Lord Jesus Christ without some deep significance. Let us, then, reverently enquire into their meaning. What thoughts were those that stirred in His own breast? What lessons did He convey to His beloved disciples? And, first, does not our Lord here express—
 
-I. HIS RENUNCIATION FROM THAT MOMENT OF ALL THE JOYS AND COMFORTS OF LIFE?
+## I. His Renunciation from that Moment of All the Joys and Comforts of Life?
 
 Putting aside the cup that was filled with the juice of the vine, He said, "I shall henceforth no more drink of this fruit of the vine." Here He bids farewell to social cheer. Whatever little comforts He had enjoyed were now to be quitted. He had never been rich—full often He had not where to lay His head. His clothing had always been that of a simple peasant—"a garment without seam" had sufficed for Him. Scanty the rest He had ever known. Little luxury He had ever enjoyed, but now He does, as it were, solemnly relinquish every creature gratification, "I will henceforth no more drink of fruit of the vine." Not as One who had been satiated with the comforts or surfeited with the pleasures of life did our Lord and Master speak. It is no uncommon thing for the pleasure seekers of the world to feel the strongest aversion to the indulgences for which they once had the keenest relish. The world's joy sours, its sweet honey sickens on the palate, its most fascinating entertainments, by constant repetition, pall the faculty of enjoying them! Our Savior had encountered life in its sterner moods. His main aim was to discharge its duties, not to divert Himself with its amenities. Nor did He put aside that cup out of any ostentation, as though He affected a stoical indifference. We all know that refreshment is needed to recruit the energies of the laborer or the sufferer. Nothing could be less in keeping with our Lord's disposition than a gloomy asceticism. Yet He willingly now, before His disciples, renounces all that there was of this world's good. Taking, then, this wine cup as a symbol, and understanding it to represent earthly cheer, we observe how significantly He puts it aside—He will partake of it no more! We ask the reason why in the presence of so strong a determination, so clear a prediction.
 
@@ -37,7 +34,7 @@ Our Savior did this, again, because His love to men compelled Him. Giving up the
 
 I take it that this no more drinking of the fruit of the vine means more than my tongue could ever tell, though I spoke on for many an hour. So I leave the thought with you. It is Jesus renouncing all that makes life happy—giving up everything that cheers and gladdens—sanctifying Himself for our sakes because He is called to a noble work by His Father and by His God. But now, secondly, I would have you think of our Lord—
 
-II. AS TAKING FAREWELL OF EARTH.
+## II. As Taking Farewell of Earth
 
 He took the cup and, making that the symbol of everything below, He said, "I will no more drink of this fruit of the vine." He bade farewell to His disciples, and to the earth, upon which He had lived for 33 years—and this He did without any repining. He did not say, "Why am I taken away in the strength of My days? Why, when scarcely 40 years old, must My sun go down at noon? Why, before I have attained the full age of man, must I be laid in the grave?" No, not a word of it, and when your turn and mine shall come to bid farewell to everything on earth, and to part with all below,
 
@@ -83,7 +80,7 @@ Such a day shall come when the great hallelujah shall be sung, when the marriage
 
 EXPOSITION BY C. H. SPURGEON: ROMANS8:26-30; REVELATION 21:10-27; 22:l-5.
 
-ROMANS8:26-30.
+## Romans 8:26-30
 
 Verse 26. Likewise the Spirit also helps our infirmities. For we do not know what we should pray for as we ought: but the Spirit Himself makes intercession for us with groans which cannot be uttered. Groans, then, are prayers, yes, and prayers which the Spirit of God most certainly hears! And those desires which altogether exhaust language, or which cannot be put into language by reason of the exhaustion of our sorrow, are nevertheless heard of God, for the Spirit of God is in them.
 
@@ -97,7 +94,7 @@ falling upon the soul as a kind of prelude to the coming fulfillment of that pur
 
 29, 30. For whom He did foreknow, He also did predestinate to be conformed to the image of His Son, that He might be the First-Born among many brethren. Moreover whom He did predestinate, them He also called: and whom He called, them He also justified: and whom He justified, them He also glorified. One is tempted to linger over that golden chain and examine every link! It will suffice, however, to observe that every link is well fastened to the next. Where there is the "foreknowledge," which is also the "forelove," there is also "elect"—there must be '"called"—there shall certainly be "justification," and where that is, there must be "glory."
 
-REVELATION 21:10-27.
+## Revelation 21:10-27
 
 Here we shall see a picture of what the Church of God is to be in the latter days. And inasmuch as this vision came out of Heaven, it gives us an idea of what is already in Heaven. Crowded as it is with almost impossible beauties, this description is given to us to let us think, and by faith conceive, of the glories of the future state!
 
@@ -121,7 +118,7 @@ Verses 10, 11. Andhe carried me away in the spirit to a great andhigh mountain, 
 
 24-27. And the nations of them which are savedshall walk in the light of it and the kings of the earth do bring their glory and honor into it. And the gates of it shall not be shut at all by day: for there shall be no night there. And they shall bring the glory and honor of the nations unto it. And there shall in no wise enter into it anything that defiles, neither whatever works abomination, or makes a lie: but they who are written in the Lamb's Book of Life.
 
-REVELATION 22:1-5.
+## Revelation 22:1-5
 
 Verses 1, 2. And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. In the middle of its street, and on either side of the river, was the tree of life, which bore twelve fruits, and yielded her fruit every month; and the leaves of the tree were for the healing of the nations. Abounding joy, varied joy, ever changing, yet ever perfect—a tree which bears twelve fruits, and yet fruits every month! Oh, when shall we get away to those golden orchards? When shall we sit under those vines and press the clusters with our lips?
 
@@ -136,7 +133,6 @@ Verses 1, 2. And he showed me a pure river of water of life, clear as crystal, p
 4\. And His name shall be on their foreheads. Their faces made like God's face, then—His name, His Character, reflected on their brows—is not this worth having?
 
 5\. And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God gives them light; and they shall reign forever and ever. They themselves shall be kings! They shall reign forever and ever!
-
 
 ---
 [[Sermon 3525 God's Overtaking Mercy|← #3525]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3527 The Divided Heart|#3527 →]]

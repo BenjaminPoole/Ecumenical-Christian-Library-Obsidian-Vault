@@ -12,16 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Cause And Cure Of Weariness In Sunday School Teachers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1383
 
-DELIVERED ON THURSDAY EVENING, NOVEMBER 8, 1877,.
+*Delivered on Thursday Evening, November 8, 1877*
 
 > "Let us not be weary in doing good: for in due season we shall reap, if we faint not." Galatians 6:9.
 
-[AT A CONVENTION OF THE SUNDAY SCHOOL UNION.]
+## [At a Convention of the Sunday School Union.]
 
 THIS verse occurs in the Epistle to the Galatians, which so plainly sets forth the grand doctrine of Justification by Faith and teaches us most plainly that salvation is not of works, but of Grace. As if to confuse forever those who say that the doctrine of Free Grace is unpractical, the Apostle, before he closes his Epistle, exhorts Believers to labor. And in the verse before us gives us a sentence worthy to be printed in letters of gold and hung up forever before the eyes of all Christian workers, "Be not weary in doing good." It is true, my Brothers and Sisters, that you are not to save yourselves by doing good. Your motive is not selfish, but because you are saved already, you desire to manifest the power of gratitude and to prove to all the world that those who receive a free salvation are the very men who most cheerfully labor to please God and to bring glory to His name. O you who are debtors to infinite mercy, "Be not weary in doing good."
 
@@ -138,7 +137,6 @@ Alas, it is not so in London! We have hundreds of thousands who forget the Sabba
 I trust that your leaven will leaven the whole lump of our country—that you will be the means of improving the moral tone of society—and as generation follows generation I trust we shall see a nation bright with religious knowledge, devout with religious thought and in all things exalted by justice and the Truth of God. What an army you are here tonight! May your Captain come into the midst of you and, as He reviews you, may He cast a look of love into the heart of every one of you and cheer you and send you away invigorated!
 
 I am delighted to have had the opportunity of speaking this word to you, feeble though it is, for God may make it powerful by His Spirit. Go, Beloved, and train the children well! You have undertaken the work—be faithful in the discharge of it. It is worth doing well, for so much depends upon it. If you do it badly, the results will accuse you throughout eternity! Go and teach with all your heart, soul and might. Be not weary! Be not slack! Your reaping time is coming. The next generation will, even more than the present, show what you have been doing! And the next and the next will each more fully declare it till this blessed island, first gem of the sea, shall shine as a very priceless jewel in the diadem of Christ!
-
 
 ---
 [[Sermon 1382 The Touch|← #1382]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1384 A Round of Delights|#1384 →]]

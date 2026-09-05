@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # A Sermon Upon One Nothing by Another Nothing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1458
-
-DELIVERED BY.
 
 > "Though I am nothing." 2 Corinthians 12:11.
 
@@ -135,14 +132,13 @@ If you are nothing. If you are clean emptied out and stripped and done for, grou
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 11:13-33; 12:1-12. HYMNS FROM "OUR OWN HYMN BOOK"—625, 627.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 BELOVED FRIENDS—Yesterday I was gladdened by a telegram from our well-beloved deacon, Mr. Murrell. "All going well. Tabernacle crowded each service. All friends united and hearty, expecting great results this February." This was more precious to me than a banknote for a large amount! I have no greater joy than to hear that the Lord blesses the work at home. For myself, as you desire to hear frequently of my welfare, I can only say that the weather here is variable and I have varied with it, but yet I am greatly refreshed and in a fair way to recover strength. I still lean heavily upon my staff and can only totter a short distance, but my spirits are revived and my mind is regaining its tone. Pray for me daily, as I also do for you with all my heart.
 
 Your loving friend,
 
 Mentone, February 11, 1879
-
 
 ---
 [[Sermon 1456 Peace—a Fact and a Feeling|← #1456]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1460 The Meat and Drink of the New Nature|#1460 →]]

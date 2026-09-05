@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christ's Poverty, Our Riches
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2716
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For you know the Grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you, through His poverty might be rich." 2 Corinthians 8:9.
 
@@ -109,7 +106,7 @@ I remember preaching, one summer's afternoon, about the New Jerusalem. There was
 
 go to sleep tonight and awake in eternal Glory! We are not far from Home, so let us be of good cheer, and rejoice, and praise and bless our Divine Lord that He should ever have stooped so low to raise us so high!
 
-EXPOSITION BY C. H. SPURGEON: PHILIPPIANS 1:12-30; 2:1-13.
+## Exposition by C. H. Spurgeon: Philippians 1:12-30; 2:1-13
 
 Philippians 1:12-14. But I want you to understand, brethren, that the things which happened to me have fallen out rather unto the furtherance of the Gospel; so that my bonds in Christ are manifest in all the palace, and in all other places; and many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the Word without fear Notice the beautiful self-forgetfulness of the Apostle Paul. So long as the Gospel could be more widely published, he did not mind where he was, or what he suffered. He was able to witness for Christ among the Praetorian guards who had the charge of the prison where he was confined and who, also, in their turn, were on duty in Caesar's palace. So Paul says that through his being in bonds there, the particulars concerning his imprisonment were talked about even in the imperial palace—and by that means the Gospel was made known to many in Caesar's household. Then, in addition, other brethren who, perhaps, might have felt compelled to be quiet in his presence, finding that their leader was removed from them, waxed confident to come out and "speak the Word without fear." The same sort of thing has often happened since. You have sometimes seen a widely spreading oak tree cut down and you have missed its grateful shadow. Yet, afterwards, you have discovered that many little trees which would have been dwarfed beneath its shade, have grown more rapidly in its absence and, in like manner, the removal of some eminent servant of the Lord Jesus Christ has frequently made room for others to spring up and more than fill his place.
 
@@ -136,7 +133,6 @@ Philippians 2:1-4. If there is, therefore, any consolation in Christ, if any com
 9-11. Therefore God also has highly exalted Him and given Him a name which is above every name; that at the name of Jesus every knee should bow, of things in Heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father. Note how the Apostle, after writing on this high theme, again seeks the practical good of his friends at Philippi.
 
 12, 13. Therefore, my Beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling. For it is God which works in you both to will and to do of His good pleasure.
-
 
 ---
 [[Sermon 2715 Christian Resignation|← #2715]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2717 Man's Extremity, God's Opportunity|#2717 →]]

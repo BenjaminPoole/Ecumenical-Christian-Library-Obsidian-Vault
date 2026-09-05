@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Foundation Work
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2094
 
-DELIVERED ON LORD'S DAY MORNING, JULY 7, 1889,.
+*Delivered on Lord's Day Morning, July 7, 1889*
 
 > "And the king commanded and they brought great stones, costly stones and hewed atones, to lay the foundation of the house." 1 Kings 5:17.
 
@@ -166,7 +165,6 @@ Today he weeps, because he has built so little. "O Lord," says he, "I wish I cou
 A life well-grounded in Christ Jesus, made sound throughout by the power of the Spirit, will bear to be inspected of God and even to be inspected by the envious eyes of men, who would gladly find fault with it. And at last it will bear the trial of the Judgment Day and will be found to the praise and Glory of God forever and ever. Therefore, see to it that you lay the foundation of all your religion with "great stones, costly stones and hewed stones," that so it may last forever.
 
 To those of you who are not converted, let this be the final word of my sermon—build on God's foundation, build on Christ—the Sacrifice appointed of the Lord for the putting away of sin. And see to it that with sincere repentance, childlike faith and Gospel holiness you build thereon "great stones, costly stones and hewed stones," which shall lie firmly on the One Foundation and never be removed, world without end. Amen.
-
 
 ---
 [[Sermon 2093 The Curse and the Curse for Us|← #2093]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2095 The Lamb In Glory|#2095 →]]

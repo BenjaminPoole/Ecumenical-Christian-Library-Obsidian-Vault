@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # A Lesson and a Fortune for Christian Men of Business
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1880
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let your conversation be without covetousness; and be content with such things as you have: for He has said, I will never leave you, nor forsake you." Hebrews 13:5.
 
@@ -148,7 +145,6 @@ Praise Him all Creatures here below!
 Praise Him above, you heavenly host!
 
 Praise Father, Son, and Holy Ghost!"
-
 
 ---
 [[Sermon 1879 A Plain Man's Sermon|← #1879]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1881 The Dying Thief in a New Light|#1881 →]]

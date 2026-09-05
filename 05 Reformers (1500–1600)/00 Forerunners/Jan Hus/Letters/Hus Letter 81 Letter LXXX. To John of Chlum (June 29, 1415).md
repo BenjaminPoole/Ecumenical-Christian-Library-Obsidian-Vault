@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 81. Letter LXXX. To John of Chlum (June 29, 1415)
-
-LETTER LXXX. TO JOHN OF CHLUM (June 29, 1415)
 
 The great harlot; Rejoices at the news concerning Chlum; The sufferings and glory of Peter and Paul; Still keep on writing . , , , , , 270-72
 

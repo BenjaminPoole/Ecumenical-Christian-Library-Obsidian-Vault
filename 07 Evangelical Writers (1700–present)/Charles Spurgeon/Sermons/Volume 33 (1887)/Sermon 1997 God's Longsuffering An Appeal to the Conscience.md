@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # God's Longsuffering: An Appeal to the Conscience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1997
@@ -87,8 +86,7 @@ If the Lord has shown longsuffering to any of you, and yet you have never repent
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— 2 Peter 3.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—174, 529, 513.
-
+## Hymns from "Our Own Hymn Book"—174, 529, 513
 
 ---
 [[Sermon 1996 Public Testimony—a Debt To God and Man|← #1996]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1998 Not Bound Yet|#1998 →]]

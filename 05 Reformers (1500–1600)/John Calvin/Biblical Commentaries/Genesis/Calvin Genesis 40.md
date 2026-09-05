@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 40
 
-**CHAPTER 40.**
+***Chapter 40.***
 
 ## Genesis 40:1-23
 

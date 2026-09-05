@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 17
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**LIKE PALM AND CEDAR**
+## **Like Palm and Cedar**
 
 > The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon" Ps. 92:12
 
@@ -23,7 +22,6 @@ These trees are not trained and pruned by man: palms and cedars are "trees of th
 The child of God flourishes like a palm tree, which pushes all its strength upward in one erect column without a single branch. It is a pillar with a glorious capital. It has no growth to the right or to the left, but sends all its force heavenward, and bears its fruit as near the sky as possible. Lord, fulfill this type in me.
 
 The cedar braves all storms, and grows near the eternal snows, the Lord Himself filling it with a sap which keeps its heart warm and its boughs strong. Lord, so let it be with me, I pray thee. Amen.
-
 
 ---
 [[FCB September 16|← September 16]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 18|September 18 →]]

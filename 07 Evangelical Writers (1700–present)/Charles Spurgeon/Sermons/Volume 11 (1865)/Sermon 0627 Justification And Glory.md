@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Justification And Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 627
 
-DELIVERED ON SUNDAY MORNING, APRIL 30, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 30, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Whom He justified, them He also glorified." Romans 8:30.
 
@@ -65,7 +64,7 @@ We, having nothing, being nothing, boasting of nothing and being utterly emptied
 
 Now concerning this great mercy of justification let us say that it is instantaneous. Sanctification needs a whole life. Justification is the work of a second, perhaps it needs no appreciable time. The sinner looks to Christ. It is all done—his sin is gone in a moment. The righteousness of Christ is, as in an instant, imputed to the believing sinner. Sanctification, however, progresses or declines. It is a thing of changes. The work of the Holy Spirit sometimes ripens swiftly and at other times, by reason of temptation or trial within, it is but slow in its advance. But justification is complete in a moment! The dying thief was as clean one moment after he had trusted in Christ as he was when he was with Christ in Paradise.
 
-Justification in Heaven is not more complete than it is on earth. No, listen to me, Child of God. When your soul seems to be a very pandemonium through the blasphemies of Satan. When your doubts and fears leap upon you like so many lions. When your sins prevail against you so that you cannot look up, yet, if you are a Believer you are even then, in your worst moments, as completely and perfectly justified as in those happy days when on Tabor's summit you were apt to say, "Let us build three tabernacles and here abide." Justification never alters in a child of God. God pronounces him guiltless and guiltless he is! Jehovah justifies him and neither his holiness can improve his righteousness, nor his sins diminish it. He stands in Christ Jesus the same yesterday, today and forever—as accepted one moment as at another mo- ment—as sure of eternal life at one instant as at another. Oh, how blessed is this Truth of God—justified in a moment and justified completely!
+Justification in Heaven is not more complete than it is on earth. No, listen to me, Child of God. When your soul seems to be a very pandemonium through the blasphemies of Satan. When your doubts and fears leap upon you like so many lions. When your sins prevail against you so that you cannot look up, yet, if you are a Believer you are even then, in your worst moments, as completely and perfectly justified as in those happy days when on Tabor's summit you were apt to say, "Let us build three tabernacles and here abide." Justification never alters in a child of God. God pronounces him guiltless and guiltless he is! Jehovah justifies him and neither his holiness can improve his righteousness, nor his sins diminish it. He stands in Christ Jesus the same yesterday, today and forever—as accepted one moment as at another mo-ment—as sure of eternal life at one instant as at another. Oh, how blessed is this Truth of God—justified in a moment and justified completely!
 
 And observe, my dear Brothers and Sisters, that he who is thus justified is justified infallibly. There is no mistake concerning the transaction. "It is God that justifies." Where, then, can there be a mistake? If I justify myself, I am a tool and I make God a liar. But if God justifies me, who is he that condemns? I, a poor sinner, black as night, fly to the shelter of the great Shield stained with blood which God holds over my head and there I stand at all times. And though I know that every lightning of Justice might well dart its force upon me, as I am in myself, yet as I see my Shield, the Lord's Anointed, I am not afraid. Standing under that Shield, I defy Heaven, and earth and Hell! Crying in the language of Paul, "Who shall lay anything to the charge of God's elect? It is God that justifies. Who is he that condemns?"
 
@@ -152,7 +151,6 @@ He did not begin to build and then fail to finish. "Whom He justified, them He a
 The only question is, am I justified? I would say in closing, do not let that be a question, dear Hearer. But look to Him who freely justifies every believing soul and trust yourself now in His hands. May the Spirit of God bring you graciously to do it and you shall find it true, "Whom He justified, them He also glorified."
 
 ["A Catechism with Proofs," compiled by C. H. Spurgeon from the Assembly's Shorter Catechism and the Baptist Catechism. London—Passmore & Alabaster, 23, Paternoster Row. Price 1d.; 7s. per hundred.]
-
 
 ---
 [[Sermon 0626 The Waterer Watered|← #626]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0628 A Glorious Church|#628 →]]

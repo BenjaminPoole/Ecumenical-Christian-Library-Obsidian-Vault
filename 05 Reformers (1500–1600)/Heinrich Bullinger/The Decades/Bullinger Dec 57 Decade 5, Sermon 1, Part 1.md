@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 57. Decade 5, Sermon 1, Part 1
 
 The order and course of things1 so leading us, next after God, the workman and author of ali things, we come to speak of his most excellent work, to wit, the church. For so great is the goodness of our good God and most loving Father, that not he himself is desirous to live happily and blessedly alone, but moreover to bestow and pour upon us men, his beloved creatures, all kind of blessedness2; and that we should enjoy his goods by all means possible. And for that intent he chooseth men to himself who live in this world, that he may once3 translate unto himself: in whom also (even while they live here) he may dwell, whom he may enrich with all his goods, in whom he may reign ; and that they should be called by his name, to wit, a people, a house, a kingdom, an inheritance, a flock, a congregation or church, of the living God. Of which church I will speak (being aided with your prayers) such things as the Lord of the church shall grant unto me to utter.
@@ -21,8 +20,6 @@ This word Ecclesia, which signifieth a church or conEeeiesia, a gregation4, is a
 \} rerum coheerentium, Lat. : of things mutually related to each other.]
 
 [2 et bona sua omnia, Lat. omitted: and all his good things.] [3 aliquando, Lat.] [4 which — congregation: not in Lat.]
-
-4 THE FIFTH DECADE. [sERM.
 
 Latins, signifying, as I said, a congregation, communion, or assembly (in the Dutch tongue, Ein Gemeind), or a people called together to hear of matters of the commonwealth : for so it is found that St Luke used this word in the nineteenth chapter of the Acts of the Apostles. But it was translated to an holy use, and began to be called a congregation, assembly, or company of the faithful, calling upon the name of the 1 cor. xv. Lord. St Paul saith that he persecuted the congregation or Actsxxii. church of God: who in another place saith, "I received authority from the high priests to bind all those that call upon the name of Christ1;" for now doth he term them such as call upon the name of Christ, or Christians, whom before he named the church. Or else this word Ecclesia, the church or congregation, is so called of calling forth together : for in the Greek tongue e/c/caXe'w signifieth to call forth. For God calleth forth from all parts of the wide "world, and from the whole congregation of men, all believers together with their seed2, that they may be his peculiar people, and he again may be their God ; that is to say, that they may be the church of the living God. In times past the congregation or assembly of the Jewish people, synagogue, being God his flock, was called a synagogue ; for this word synagogue signifieth as much as Ecclesia, the congregation. But because of the stubbornness of the Jews, and the unappeasable hatred which they bear towards christian religion, this word synagogue is not esteemed, but is almost quite grown out of use. But we will not dispute by due and right order of the churches either of the Jews or the Turks, or of other strange churches of the Gentiles3, whereof we know there are many sorts and kinds. We will speak of the christian church and congregation of the faithful : which the Germans do call Die Mrch, alluding peradventure to the Greek word Kvpioaaj. For they call KvpiaKt)v anything belonging to the Lord, to wit, a house or a people ; as the Germans do call Die Hrchen both the people of God themselves, and also the place wherein they assemble together to worship
 
@@ -43,8 +40,6 @@ The church is distinguished into the triumphant and the The ^g)e°- militant. Th
 [9 graphice, Lat.] [10 Revelations, ed. 1577.]
 
 [n So also ed. 1584 : but ed. 1577, white garments.] [12 So Erasmus : and Bibl. Lat.: Tigur. 1544; and Tyndale, 1534; and Cranmer, 1539.]
-
-6 THE FIFTH DECADE. [sERM.
 
 and said unto me : These which are clothed in white garments, who are they? or from whence come they? And I said whence unto him, Thou knowest, Lord. And he said unto me, These
 
@@ -84,8 +79,6 @@ ways. For either it is to be taken strictly, comprehending them only which be no
 
 [l7 duntaxat, Lat. omitted : only.]
 
-8 THE FIFTH DECADE. [sERM.
-
 i believe saying ! : "I believe the holy catholic church, the communion catholic of saints." And in these few words we comprehend that church. «iii li there is a church, also what is the church, and what manner one it is. For first we confess that there hath been, and is, a church of God, and that it shall continue for ever. Then, professing what it is, we add this, " The communion of saints." That is to say : We believe the church to be nothing else but the company of all those saints that are, have been, and shall be, as well in this present age, as in the world to come, who enjoy all good things in common granted unto them by God. Also we express what manner of thing the church is, to wit, holy, even the spouse of Christ, cleansed and blessed. 1 cor. vi. Yor St Paul calleth them holy, which are cleansed with the Spirit and blood of our God, of which a great part have received crowns of glory2: the residue labour here upon earth, hoping to receive them in heaven. And truly, in consideration of the church, the chiefest matter is that through the grace of God we be made the members of Christ's body, and partakers of all heavenly gifts with the angels3 ; for we confess none to be more holy than our own selves4. The church Or the church more largely considered comprehendeth her,d'tneni)re' not only those that are the very faithful and holy indeed, wicked. .
 
 but also them who although they believe not truly or unfeignedly, neither be clean or holy in the conversation of their life, yet do they acknowledge and profess true religion with the true believers and the holy men of God : yea, they speak well and allow of virtues and reprove evil, neither do sever themselves5 from the unity of this holy church militant. In which consideration, not so much as the wicked and hypocrites (such as we read to have been in the church in the time of Christ and the apostles, as Judas, Ananias and Sapphira, Simon Magus, also Demas, Hymenals, Alexander, and many other) are excluded and put from the church; which church may well be called the outward and visible church.
@@ -116,9 +109,9 @@ number, and is known by some sure and certain place : for of the place it taketh
 
 [15 Bullinger seems here to have borrowed from Polydor. Vergil. De Rerum Inv. Lib. iv. cap. 9.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 The church of God hath been, and shall be, for ever.
 
@@ -142,9 +135,9 @@ I know right well that ye will object against me, for that HowhypoI have reckone
 
 [4 ecclesia malignantium, Lat. : Psalm xxv. 5. Vulgate.] [5 in sancto erangelio, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 you will say, That it is impossible that the same hypocrites may take part of both churches differing betwixt themselves ' ;
 
@@ -169,8 +162,6 @@ But let us hear what the evangelical and apostolical testimony saith. The Lord s
 [4 adhuc, Lat. omitted: still.] [5 nonnunquam, Lat.]
 
 [° ratione ccrta ct suo quodam modo, Lat.]
-
-14 THE FIFTH DECADE. [sERM.
 
 it ; and when it is filled, it is brought to the shore ; and there men sitting reserve that which is good in a vessel, and that which is evil they cast away." Again behold, how ye may see both good and bad to be drawn in the selfsamo net ; and therefore in the selfsame kingdom both good and evil to be reckoned. Also in another parable, there entereth one in among the guests which hath not on his wedding-garment ; who is suffered for a season, but yet at last is cast out of doors by the lord of the feast. In another place it is said that he hath a fan1 in his hand, and cleanseth the floor, and burnetii the chaff with unquenchable fire. 2St Paul in his epistle to the Corinthians putteth a difference betwixt the professed and open enemies of Christ's church, and the impure sort of men who as yet are not quite repugnant and adversaries of the church and the name of Christ3. " If any man (saith he) that is called a brother be a thief, or a whoremonger, or a covetous person, &c. with such an one see that ye eat no meat. For what doth it belong unto me to judge of them that be without? For God judgeth them that are without." Without, that is to say, without the bounds of the church, he placeth them that are not called brethren, to wit, such as do not acknowledge the name of Christ or of the church : within, that is to say, in the society of the church (I mean of the outward church), he reckoneth up them that as yet do acknowledge the name of Christians, neither yet do withstand ecclesiastical discipline, though themselves4 in meantime be defiled and spotted with much mischief5. Of all men St John the apostle spake plainly6, saying : " They went out from us, but they were none of us ; for if they had been of us, they had tarried still with us." This seemeth to be a new kind of speech. For if they which go out of the church had not been in the society of the church, how could they go out of the church ? Can a man come forth of a place, in the which he never came, or in which he never was ? Therefore if hypocrites and evil men are gone out of the church, surely
 
@@ -208,8 +199,6 @@ Now forasmuch as we have said that the church militant oftheoutupon earth is mar
 
 [bullinger, iv.J
 
-18 THE FIFTH DECADE. [sERM.
-
 sanctified visibly, whereupon they are counted holy amongst men ; and these things do improperly belong unto them. St Peter in this point differeth not a whit from St Paul, who when he preached the word of God to the people of Jerusalem, and they demanding what they should do, Peter answerActs u. eth : "Repent, and be ye every one baptized in the name of Jesus Christ for the remission of sins." St Peter therefore joined baptism with doctrine, the sacrament with the word. Which thins: he had learned of our Saviour himself in the Matt, xxviii. gospel written by St Matthew, saying : " Teach ye all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost." So that ye read in the Acts no other mysteries of the word and sacraments of the church ActsH. than are recited1 in these words, "They continued in the doctrine of the apostles, and in doing almsdeeds2, and in breaking of bread, and prayer:" where ye may see the supper of the Lord, another sacrament, adjoined to the sacrament of baptism, also the desire and study of unity and love, and the calling upon the name of God.
 
 These things being thus sufficiently plain and firm enough, yet notwithstanding I will add other testimonies out of the holy scriptures. Concerning the token of God's word, or the preaching of his gospel, the Lord himself speaketh by Esay isai. ux. the prophet, saying: "I will make this covenant with them,
@@ -240,8 +229,6 @@ All these testimonies properly (as I said a little before) do how these belong u
 
 [12 aliorum malorura vi, Lat. : by the constraint of other evils.]
 
-20 THE FIFTH DECADE. [SEUM.
-
 attain unto that which they earnestly desire; and yet for all that they arc the true and lively members of Christ and of the catholic church. In times past the Lord instituted or appointed to the people1 of Israel a visible church, which he established by a certain law, and set it forth by visible signs. If any man had despised this church, or refused, when he might, to hear the doctrine of the church, and to enter in among the holy company, and to do sacrifice ; or else had railed at it ; or instead of the order of worshipping God that was appointed had embraced any other kind ; truly he was not accounted at all to be of the order and number of the people of God. And yet it is certain, that there were an innumerable company of men dispersed throughout the whole world among the gentiles, who never did, nor could, communicate with this visible company and congregation of God's people ; and yet notwithstanding they were holy members of this society and communion2, and the friends of almighty God. There were a great many of the children of God with Joachim3 and Jechonias4 taken prisoners by INabucodonosor and brought captive into Babylon, to whom it was no prejudice, neither did they5 hurt them, that they were separated from the people of God, the church, and worshipping of God, being then visibly uph olden by Zedechias at Jerusalem6 : even as in very deed it did little avail a great many, to be in the visible assemblies and congregations with the people of God in God's temple, when their minds and hearts were not sound and perfit. We may in these days find out a great many of the faithful dispersed on the seas, condemned to the galleys for the confession of the true faith : we may find many that be holden in captivity under antichrist, of the which we will speak in the next sermon following : we may find also a wonderful many in Grascia, Natolia, Persia, Arabia, or in Africa, being the servants of Jesus Christ and worthy members of the catholic church of Christ, being shut out and debarred from the holy mysteries7 of the Christians through
 
 [x in populo, Lat. : among the people.]
@@ -268,8 +255,6 @@ That which we have said concerning the word of God isAfterwhat also necessarily 
 
 [13 coiTumpas, Lat.: if ye corrupt, ed. 1577.] [14 orthodoxa?, Lat.]
 
-22 THE FIFTH DECADE. [sERJI.
-
 order in the which the Lord himself instituted them, they i Kings xu. are no marks or signs of the church of God. Jeroboam truly sacrificed, yea, he sacrificed unto God ; but because he sacrificed not lawfully, he was accounted a stranger, and a 2 Sam. vi. faller off from the true church of God. Yea, David himself brought with great devotion and much joy and melody the ark of the Lord of hosts ; but because he carried it not lawfully upon the shoulders of the priests, by and by, instead of great joy, the exceeding sorrow which followed declared that it is not enough to use the sacraments and ordinances of God, unless ye use them lawfully ; which if you do, God will acBaptizedof knowledge vou for his. Moreover, those which of old were heretics are o * not rebapbaptized of heretics were not for that cause baptized again by the ancient catholics : because the heretics baptized not into the name of any man, or into the society of their errors ' or heresies, but baptized " in the name of the Father, and of the Son, and of the holy Ghost ;*' neither did they invocate their own name, or the name of arch-heretics, but of Jesus Christ. "Wherefore not the baptism of heretics, but the baptism of the church, yet ministered by heretics, they not refusing, they allowed not the churches of heretics as known to be true by true signs : but they acknowledged that heretics use things properly 2 belonging unto the true church ; neither that it doth anvthing at all derogate or take from a good thing, if any wicked or evil man do administer it. We do not acknowledge at this day the upstart Romish church of the pope (we speak not now of that old apostolic church) to be the true church of Christ ; yet we do not rebaptize those which were baptized of the priests embrued with popish corruption : for we know that they are baptized with the baptism of Christ's church, and not of the pope, in the name of the holy Trinity, to the articles of the catholic faith, not to errors, not to superstitions and papistical impieties. Finally, we confess that not at this day3 the unworthiness of the minister can derogate anything from the service of God4. In like sort also we refuse not the Lord's prayer, or the Apostles1 Creed, or finally the canonical scriptures themselves, because the Romish church doth also use them : for she hath them not of herself, but received them from the true church f1 ignorantia?, Lat." [- peculiariter, Lat.j
 
 [3 ne hodie quidem, L [•* rei divinsc, Lat.] of God. Wherefore we use them in common with her, not for the Romish church's sake ; but because they came from the true church of Christ do we use them.
@@ -282,7 +267,7 @@ Beside those outward marks of the church which the true ofthe.nward
 
 [6 acceptos vel gratos Deo, Lat." \~ tvpus. Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 [sEIt.M.
 
@@ -308,9 +293,9 @@ But although properly faith join us to our head Christ, yet the same also doth k
 
 We come now to speak of love, which, I said, joineth together the members of the ecclesiastical body mutually amongst themselves. The Lord saith in the gospel: "A new John *w. commandment give I unto you, that ye love one another ; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another." It is therefore out of doubt, that the only mark of the church next after faith is love, a bond most firmly knitting together all the members. This groweth from the communion of Christ and unity of the Spirit. For insomuch as Christ, the king, the head and high bishop, of the catholic church, enduing us all with one and the same Spirit, hath made us all his members, the sons of God, brethren and fellow-heirs, whom undoubtedly he loveth tenderly ; every faithful man cannot choose but with fervent love embrace the members and fellow-heirs of their king, their head, and their high bishop. For John the apostle saith: "Every one [i John v. \r\ that loveth him that begat, doth love him also that is born of him." "If any man say, I love God, and hateth his brother, he 1 John*. is a liar : for how can he that loveth not his brother whom he hath seen, love God whom he hath not seen ? " Paul, to the end that he might most properly express before our eyes, and as it were set to view and behold, this unity and agreement of the members, useth a parable taken from the members of a man's body, and saith : "For as we have many members in Rom. xH. one body, and all members have not one office ; so we being many are one body in Christ, and every one one another's members." The same in the twelfth chapter of the first epistle to the Corinthians, more largely and plainly expounding joining together of the heads and the members, and that chiefly by the said parable of the members of a man's body, and publishing it very eloquently4, witnesseth, that between the highest [4 elegantissime expoliens, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Of the original of the church.
 
@@ -323,8 +308,6 @@ Since therefore faith cometh by hearing, and hearing by the word of God, and tha
 We do add that it is out of doubt that the church of God The church is preserved by the same word of God, lest at any time it byptheewoerd should be seduced, or lest it should slip and perish ; and that neither can it at any time be preserved by any other means: Paul again witnessing, and saying : "Christ hath given some Ephes. w. to be apostles, and some prophets, and some evangelists, some pastors and teachers, for the gathering6 together of thevsaints, for the work of the ministry (that is to say, to teach and preach the word), and for the edification of the body of Christ ; till we all meet together in the unity of faith, and knowledge of the Son of God, unto a perfect man, and unto the measure of the age of the fulness of Christ ; that we henceforth be no more children, wavering and carried about with every wind
 
 [3 but in plain — power, the Translator's addition.] [4 traditions and, not in Lat.] [5 irrefragabile, Lat.] f6 ad administrationem, Lat. : that the saints might be gathered together, Geneva, 1557.] ,
-
-23 THE FIFTH DECADE. [SERM.
 
 of doctrine, by the deceit of men, (mark, I pray, how men's doctrines are condemned again with great and inviolable authority,) and with craftiness, whereby they lay in wait to deceive. But let us follow the truth in love, and in all things grow up into him which is the head, that is, Christ; by whom all the body being coupled and knit together by every joint, for the furniture thereof, (according to the effectual power which is in the measure of every part,) receiveth increase of the body unto the edifying of itself in love, (increaseth the body unto the edifying of itself through love.)" These words of the apostle are so plain, that they need no better exposition than they have of themselves.
 
@@ -346,8 +329,6 @@ church, to wit, in the continual succession of bishops comin^ from St Peter by C
 
 [7 vse pastori idolo, Lat. Idle appears to be a mere mistake.]
 
-30 THE FIFTH DECADE. [sERM.
-
 succession of bishops, -without any interruption thereof, even from Aaron to Urias1 who lived under Achas, and to other wicked bishopsalso falling from the word of God to the traditions of men, yea, and also idolatry. But for all that, that succession did not prove the idolatrous bishops2, with the church that clave unto them, to be the true bishops2 of God, and the true church of God. Truly the true prophets of God, the sound and catholic fathers3, preaching only the word of God without men's4 traditions, yea, clean against all traditions, were not able to reckon up any continual succession of priests their predecessors to whom they themselves should succeed ; and yet notwithstanding, they were most excellent lights, and worthy members of the church of God ; and they which believed their doctrine were neither schismatics nor heretics, but even to this day are acknowledged to be the true church of Christ. When Christ our Lord, the blessed Son of God, did teach here on earth, and gathered together his church, the succession of bishops2 was on his adversaries1 part : but they for that cause were not rulers of the true church of God, and Christ of the heretical church. The apostles of our Lord could not allege for themselves and their doctrine a succession of bishops2 not interrupted : for they were ordained of the Lord, who was also himself created of God the High Priest for ever after the new order of Melchisedech, without the succession5 of the order of Levi ; and yet the church that was gathered by them is acknowledged of all men to be the true and holy church. The apostles themselves would have none other to be accounted for their true fellows6 and successors but those who walked upright in the doctrine and way of Christ ; for notable and manifest is the saying of Paul : " Be ye the followers of me, even as I am of Christ." And though he speaketh these words to all the faithful, and not only to the ministers of God's word ; yet those would he chiefly have such followers of him, as the residue of common Christians, that is to say, every man in his vocation and calling. The same apostle, speaking at Miletum with the bishops of Asia, among other things saith : "I know this,
 
 [! 2 Kings xvi. 10. His name is omitted in 1 Chron. vi.] [2 pontifices, Lat. : high-priests.]
@@ -357,8 +338,6 @@ succession of bishops, -without any interruption thereof, even from Aaron to Uri
 [s extra succcssionem, Lat.] [6 imitatoribus, Lat.] that after my departing shall grievous solves enter in amonoyou, not sparing the flock. Moreover, of your own selves shall men arise speaking perverse things, to draw disciples after them." Paul the apostle not from any other place than out of the apostolic church itself, yea, out of the company or assembly of apostolic bishops and pastors, fctcheth out the wolves and devourers of the church. But could not these (think you) allege the apostolic succession for themselves and their most corrupt cause, that is to say, that they be descended from apostolic pastors ? But forsomuch as, forsaking the truth, they be fallen from the faith and doctrine of the apostles, the offspring and apostolical succession doth nothing at all make for them. Therefore we conclude, that the continual succession of bishops by itself proveth nothing ; yea, rather that that is no lawful succession which wanteth the purity of the doctrine of the scriptures and apostles7.
 
 And therefore Tertullian, greatly esteeming (and that Tertuiiian of worthily) the continual succession of pastors in the church, tXuZSSF* yet requireth the same to be approved by the sincerity of past°rs' apostolic doctrine ; yea, he acknowledged those churches which are instructed with pure doctrine, and yet not able to make any reckoning of succession of bishops, to be apostolic churches. If any man require the words of the author, they be these : " But if there be any churches that dare presume to plant themselves in the very age of the apostles, that therefore they may seem to have been planted by the apostles, because they were under the apostles, we may say thus : Let them bring forth the first beginning of their churches, let them turn over the order of succession of their bishops, so by successions going from the first beginning that that first bishop of theirs may be found to have for his author and predecessor some one of the apostles and apostolical sort of men, and yet such an one as continued with the apostles. For by this means the apostolic churches give their judgment: as the church of Smyrna testifieth that they had Polycarpus placed there by St John ; and as the church of Rome sheweth that Clemens was appointed by St Peter ; and as in like sort also other do shew for themselves, who have their offspring of apostolic seed, placed in their bishopricks by the apostles. Let heretics feign some such matter ; (for after their blasphemies, what is unlawful for them ?) but [T doctrinee evangelicse et apostolicre, Lat.]
-
-32 THE FIFTH DECADE. [SERM.
 
 albeit they do feign, they shall not prevail. For their own doctrine being compared with the doctrine of the apostles, by the diversity and contrariety thereof shall shew that it had neither apostle nor apostolical man for the author ; because, as the apostles taught nothing that was contrary among themselves, even so apostolical men set forth nothing contrary to the apostles ; but only such as fell away from the apostles, and taught other doctrine1." In this manner therefore mav those churches appeal, who albeit they can bring for their author none of the apostles or apostolic men, as those that are of far later time and are but now daily erected, yet they, agreeing in one faith, are nevertheless counted apostolical, for the likeness of the doctrine. The doctnne The selfsame author, speaking of the ancient church of church of Rome, and gathering the sum of that it either taught or learned, said2: "Happy is that church to which the apostles have uttered all their doctrine with their blood : where Peter in suffering is made like to the Lord : where Paul is crowned with the like end that John had : where the apostle John, after that he was plunged in hot scalding oil, felt no pain, and was banished into the isle. Let us see what it learned, and what it taught, and how it doth agree with the churches of Africa. It acknowledged one God the maker of all things, and Jesus Christ the Son of God, the creator,
 
@@ -380,9 +359,9 @@ _.. i/«ii i • • is not built
 
 [6 quam doctrina veritatis et pietatis sincera et simplici, Lat. J r -i 3
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Matt. xxvi. Luke xxii.
 
@@ -399,8 +378,6 @@ when writing; to the Thessalonians he saith : " Our exhortation was not by decei
 In this place it seemeth unto me not unfitly may the whether the
 
 I « v church of famous question be handled or briefly expounded, Whether the God may errchurch of God may err ? which that it may more plainly be understood, I will briefly discuss the parts of this question. I have taught that the catholic church of God doth comprehend, first the blessed spirits in heaven, then all faithful Christians here on earth ; unto whom I said did cleave the wicked, or hypocrites, feigning faith for a season. Now therefore, if we understand by the church the blessed spirits in heaven, the church can never err. But if we understand the wicked or hypocrites joined and mingled with the good, and the wicked alone by themselves, they do nothing else but err ; but as they are joined unto the good and faithful, and follow them, they either err, or they err not. For the church of the good and faithful here upon earth doth err, and doth not err. Which thing we will declare, when we have weighed the diversities of errors, and gathered the number of them together wholly in a bundle. Errors some be of doctrine and faith, and some be of life and manners : and what manner of ones either of them be, I think there is no man but knoweth. Let us see then, whether the church of the faithful upon earth do err or no ; and if it err, in what point or how far it erreth. As concerning the manners and life of the church, it cannot wholly and clearly acquit itself of errors ; that is to say, from sin. For always, so long as it is [4 ecclesiam Dei, Lat.]
-
-36 THE FIFTH DECADE. [sEUM.
 
 living here on earth, it prayeth heartily: " And forgive us our trespasses, as we do forgive them that trespass against us."
 
@@ -423,8 +400,6 @@ The church therefore is said to err, when a part of it, having lost God's word, 
 [4 obstitit, Lat.] [5 opportunum erit, Lat.]
 
 [6 extra, Lat.] [' quorum fide et diligentia, Lat.]
-
-38 THE FIFTH DECADE. [sERM.
 
 the grace of God) arc reserved, by whom the truth may flourish again, and may again be spread abroad in every place. St Paul called the churches of the Corinthians and Galatians "the holy churches of God;" yet these erred greatly, in doctrine, in faith, and in manners : and yet who doubteth that there were many among them who were most sincere followers of the pure doctrine preached by St Paul ? That holy church therefore erred, so far forth as it continued not stedfastly in true doctrine : and it erred not, so far forth as it departed not from the truth delivered by the apostles'. From hence it plainly appeareth to the whole world, that those are most vain liars which commend unto us churches not builded upon the foundation of the prophets and apostles, but upon the decrees of men, which they shame not to commend unto us for most true churches and such as cannot err. [Psai. cxvi. David crieth out : " Only God is true, and every man a liar." jer. viii. Jeremy also crieth: "They have rejected the word of the Lord, and what wisdom is in them?" Therefore those churches do err, neither be they the true churches of God. The true church groundeth upon Christ Jesus, and is governed by his word only. o/theXrch. Unto tms treatise of the word of God, which is the only rule whereby all things are done in the church, the disputation of the power of the church of God in earth, and of the studies thereof which also are directed according to the word of God, is very like2. But before I will bring forth my judgment, that is to say, the judgment delivered by the scriptures, I will briefly rehearse the sum of those things, which the papists have left in writing concerning this matter, and do undoubtedly maintain for sound doctrine. John Gerson (not much amiss, unless he have an evil interpreter3) hath defined ecclesiastical authority to be "a power supernaturally and spiritually given of the Lord to his disciples and to their lawful successors unto the end of the world, for the edification of the church militant according to the laws of the gospel for the obtaining of eternal felicity V But
 
@@ -451,8 +426,6 @@ placing ministers ot the church ecclesiastical jurisdiction, and to consist in a
 [9 in sacerdotum ordinandorum capita, Lat. : on the heads of the priests who are to be ordained.]
 
 [10 adeoque, Lat. : and so.] tection.
-
-40 THE FIFTH DECADE. [sERM.
 
 only in the pope, having respect to the whole universal church. T?or it belongeth only to the pope to appoint rulers and prelates in the ecclesiastical hierarchy, because it was said to him, " Feed my sheep." Moreover they say, that all jurisdiction ecclesiastical doth come from the pope to the inferior rulers either mediately or immediately : in which things authority is limited at his pleasure that hath the fulness of power ; for a bishop hath authority only in his diocese,
 

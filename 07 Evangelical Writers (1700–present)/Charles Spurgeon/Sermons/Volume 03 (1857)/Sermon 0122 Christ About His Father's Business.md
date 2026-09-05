@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/03
 ---
-
 # Christ About His Father's Business
 
 *New Park Street Pulpit* · Sermon No. 122
@@ -51,7 +50,7 @@ On the bloody tree behold him:
 
 Hear him cry before he dies—
 
-’IT IS FINISHED!’”
+## ’It Is Finished!’”
 
 And there you have a proof that he was about his Father’s business. It was his Father’s business made him sweat great drops of blood; his Father’s business ploughed his back with many gory furrows; his Father’s business pricked his temple with the thorn crown; his Father’s business made him mocked and spit upon; his Father’s business made him go about bearing his cross; his Father’s business made him despise the shame when, naked, he hung upon the tree; his Father’s business made him yield himself to death, though he needed not to die if so he had not pleased; his Father’s business made him tread the gloomy shades of Gehenna, and descend into the abodes of death; his Father’s business made him preach to the spirits in prison; and his Father’s business took him up to heaven, where he sitteth on the right hand of God, doing his Father’s business still! His Father’s business makes him plead day and night for Sion; the same business shall make him come as the Judge of quick and dead, to divide the sheep from the goats; the same business shall make him gather together in one, all people who dwell on the face of the earth! Oh, glory to thee, Jesus; thou hast done it! Thou hast done thy Father’s business well.
 
@@ -88,7 +87,6 @@ And this dear friends, will be the way—and I trust you can be moved by this—
 ’Tis all that I can do.”
 
 Go out now, and if you are tempted by the world, may the Spirit enable you to reply, “I must be about my Father’s business.” Go out, and if they call you fanatical, let them laugh at you as much as you like, tell them you must be about your Father’s business. Go on, and conquer. God be with you. And now farewell, with this last word, “He that believeth and is baptized, shall be saved; he that believeth not, shall be damned.” Faith in Christ is the only way of salvation. Ye who know your guilt cast yourselves on Christ, and then dedicate yourselves to him. So shall you have joy here, and glory everlasting in the kind of the blessed, where bliss is without alloy, and joy without end.
-
 
 ---
 [[Sermon 0121 The Leafless Tree|← #121]] · [[Volume 03 (1857)|Volume 03 (1857) Contents]] · [[Sermon 0123 Particular Election|#123 →]]

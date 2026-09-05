@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 131
-
-**PSALM 131**
 
 David, having it as his object in this Psalm to encourage the people to fight strenuously under his banner, and to exhort and excite the godly to acknowledge him as entitled to their obedience, declares that he had always submitted himself to the guidance of God, and had done nothing without his call and commission.
 

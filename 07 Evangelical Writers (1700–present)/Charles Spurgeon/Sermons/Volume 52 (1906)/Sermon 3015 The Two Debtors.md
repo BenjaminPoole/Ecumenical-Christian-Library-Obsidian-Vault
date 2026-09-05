@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Two Debtors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3015
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There was a certain creditor who had two debtors: the one owed one hundred pence, and the other fifty. And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him more?" Luke 7:41,42.
 
@@ -95,7 +92,7 @@ What is the best way to reach this point? Not to be great sinners, but to feelth
 
 God bless this message to those poor trembling souls who are deeply in debt through sin—that they may see God's way of forgiving them through the merits and death of His dear Son, Jesus Christ. And may those who are forgiven much love Jesus much, and may God bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 7:36-50.
+## Exposition by C. H. Spurgeon: Luke 7:36-50
 
 Verse 36. And one of the Pharisees desired Him that He would eat with him. And He went into the Pharisee's house, and sat down to meat It was usually a suspicious circumstance when a Pharisee desired to be familiar with Christ. It might generally be suspected that he wished to entrap Him. Yet, on this occasion, if there was no real friendliness to Christ, there was at least the appearance of it. We see what our Savior did when the Pharisee gave Him an invitation— "He went into the Pharisee's house, and sat down to meat." The Lord saw there an opportunity for usefulness. He knew that He would have a good reason for speaking personally to this Pharisee, who, perhaps, was one of the better sort. At all events, our Lord felt that it was right for Him to go into that house, even if they did watch Him and try to catch Him in His talk. If there was hypocrisy there, there was the more need for His Presence, as Jesus Himself said concerning His eating with publicans and sinners, "They that are whole need not a physician; but they that are sick."
 
@@ -128,7 +125,6 @@ This woman "stood at His feet behind Him"—as if she were unworthy to be looked
 49\. And they that sat at meat with Him began to say within themselves, Who is this that also forgive sins "Who is this who can thus absolve from guilt?
 
 50\. And He said to the woman, Your faith has saved you; go in peace. "Go home, good Woman, do not stay here and be bothered by these people." And oftentimes that is the best advice that we can give to new converts. There is a theological controversy raging and the jargon of the different schools of thought is being used by one and another, but, do go home, good Soul. You need not trouble about controversial matters. Your sins are forgiven you. Your faith has saved you. If you know that, you know as much as you need to know just now. Go home and be quiet and happy. "Go in peace."
-
 
 ---
 [[Sermon 3014 A Sermon From a Sick Preacher|← #3014]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3016 Good Cheer From Forgiven Sin|#3016 →]]

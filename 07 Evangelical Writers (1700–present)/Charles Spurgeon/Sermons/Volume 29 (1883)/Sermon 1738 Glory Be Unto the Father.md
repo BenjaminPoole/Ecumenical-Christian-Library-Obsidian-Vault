@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # "Glory Be Unto the Father"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1738
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 9 1883, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Lord's-Day Morning, September 9 1883, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Ephesians 1:3, 4.
 
@@ -150,7 +149,6 @@ To conclude, we are to be holy and blameless before Him in love. Love is the ano
 Do you love poor sinners? For if your heart does not grow tender, you are not growing holy. What a blessed thing it would be to be saturated with love! They said of Basil, that he was a pillar of fire because of his zeal. I wish it could be said of us that we were flames of fire because of our love. Oh, to love our neighbor as ourselves, thinking no evil! "Oh," says one, "we would be taken advantage of!" That would be no harm compared with being hardened by selfishness. "But we should be ill-treated and defrauded." Suppose we were? It would be better than being miserly and cruel. The worst of ills is hate—the best of blessings is love. When we become incapable of selfishness and get right away from unkindness of heart and uncharitableness of thought, Christ will be living in us and we in Him—and then we shall be fulfilling the purpose of electing love and the design of the innumerable spiritual blessings which are already given us in Christ Jesus.
 
 To this let us all aspire. Let brotherly love continue. Let us love each other more than we have ever done and join our hands anew in a firm league of concord. Let us love the universal Church of Christ. Let our hearts burn with ardent affection towards the perishing multitudes of men, that we may bring them to put their whole trust in Jesus and live! May the Father deal with us according to His riches in glory by Christ Jesus, and to Father, Son and Holy Spirit be glory forever and ever. Amen.
-
 
 ---
 [[Sermon 1737 John's First Doxology|← #1737]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1739 Bankrupt Debtors Discharged|#1739 →]]

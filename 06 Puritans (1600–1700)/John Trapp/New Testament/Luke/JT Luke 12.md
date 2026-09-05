@@ -11,7 +11,6 @@ tags:
   - john-trapp
   - trapp-commentary
 ---
-
 # Luke 12
 
 **Ver. 1.** Beware of the leaven] Which our eyes cannot discern from dough by the colour, but only our palate, by the taste. Such is hypocrisy, which also, as leaven, is: 1. spreading; 2. swelling; 3. souring the meal; 4. impuring and defiling the house where it is, though it be but as much as a man’s fist.
@@ -115,8 +114,6 @@ tags:
 **Ver. 57.** Yea, and why even of yourselves] By consulting with your own consciences, which would, if rightly dealt with, tell you, that I am that Messiah you have so long looked for.
 
 **Ver. 58.** Give diligence] δος εργασιαν, Purus Putus Latinismus, saith Drusius. Da operam Id eat, festina, et labora, omnesque modos cogita quomodo ab eo libereris, as Theophylact expounds it. Be at utmost pains to get freed from him.
-
-**Ver. 59.** Till thou hast paid the very last mite] It is good to compound quickly with the Lord, and to take up the suit before it come to execution and judgment, lest we be forced to pay, not only the main debt, but the arrearages too, that is, the time of God’s longsuffering and patience, here and hereafter.
 
 **Ver. 59.** Till thou hast paid the very last mite] It is good to compound quickly with the Lord, and to take up the suit before it come to execution and judgment, lest we be forced to pay, not only the main debt, but the arrearages too, that is, the time of God’s longsuffering and patience, here and hereafter.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # God Is With Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 580
 
-DELIVERED ON SUNDAY MORNING, JULY 17, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 17, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "If God is for us, who can be against us?" Romans 8:31.
 
@@ -148,7 +147,6 @@ You must take your post, every one of you, on one side or the other. "If the Lor
 The men of this generation cry to me and say, "Is there peace?" and my answer is, "What peace can there be so long as the sins of Jezebel are so many?" Then they revile me and say, "Are you he that troubles Israel?" I have not troubled Israel, but you and your father's house, in that you have forsaken the Commandments of the Lord and you have followed Baal."
 
 Stand up and bear witness against regeneration by Baptism and against those who use Popish words and would have us believe that it is right to attach another sense to them! Take your part with Christ and His despised people and when the day comes when He shall distribute His rewards, happy shall that man be who never flinched. And blessed shall he be and shall she be who stood fast in the evil day and stood still in the integrity of the Lord and in the firmness of His Truth, firm even to the end! The Lord bless you in this thing for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0579 God Pleading For Saints, And Saints Pleading For God|← #579]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0581 Children Brought to Christ, and Not to the Font|#581 →]]

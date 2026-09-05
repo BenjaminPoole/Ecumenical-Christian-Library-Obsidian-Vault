@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Three Decisive Steps
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2220
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Audit came to pass, while the ark abode in Kirjath Jearim, that the time was long; for it was twenty years. And all the house of Israel lamented after the Lord. And Samuel spoke to all the house of Israel, saying, If you return to the Lord with all your hearts, then put away the strange gods and Ashtaroth from amongyou, andprepare your hearts for the Lord, and serve Him only: and He will deliver you out of the hands of the Philistines. Then the children of Israel put away Baalim and Ashtaroth, and served the Lord only. And Samuel said, Gather all Israel to Mizpeh, and I will pray to the Lord for you." 1 Samuel 7:2-5.
 
@@ -148,7 +145,6 @@ Israel also accepted Samuel's rule—"Samuel judged Israel all the days of his l
 I trust that none of you will say, "We will keep our idols." Ah, if you do so, you will not keep them long! If your idols are not taken away from you, you will be taken away from your idols. What will some of you do in the next world when there is no gold to hoard and no revelry in which to indulge? When you will have no occupation but to gnash your teeth upon yourself because you committed everlasting suicide and refused and rejected Christ for a few days' pleasure, or a few years' gain? Will any of you be mad enough to let eternity go, let Heaven go and let God go for the paltry lusts of the flesh, for the fleeting gains of the hour? As I shall confront you at the bar of God, I charge you, seek Him! Put away your idols! Prepare your hearts! Trust in Jesus and serve only the Lord! God grant that it may be so, for His name's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Samuel 7.
-
 
 ---
 [[Sermon 2219 A Harp of Ten Strings|← #2219]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2221 The First, Last—And the Last, First|#2221 →]]

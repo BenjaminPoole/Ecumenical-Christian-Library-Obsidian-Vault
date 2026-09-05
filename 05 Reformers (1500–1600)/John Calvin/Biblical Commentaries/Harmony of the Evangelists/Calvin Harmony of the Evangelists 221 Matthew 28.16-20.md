@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 221. Matthew 28:16-20; Mark 16:15-18
-
-**MATTHEW 28:16-20; MARK 16:15-18**
 
 **16.** But the eleven disciples went into Galilee, to the mountain where Jesus had appointed them. **17.** And when they saw him, they worshipped him; but some doubted. **18.** And Jesus approached, and spoke to them, saying, All power is given to me in heaven and on the earth. **19.** Go out, therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost; **20.** Teaching them to observe all things, whatsoever I have commanded you; and, lo, I am with you always, even to the end of the world.
 

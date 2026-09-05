@@ -9,10 +9,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 **ON THE GOSPEL OF JESUS CHRIST**
 

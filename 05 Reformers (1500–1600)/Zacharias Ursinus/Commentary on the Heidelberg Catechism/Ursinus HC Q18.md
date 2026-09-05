@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 18. Who, then, is that Mediator, who is, in one person, both very God, and a real righteous man?
-
-**Question 18. Who, then, is that Mediator, who is, in one person, both very God, and a real righteous man?**
 
 Answer. Our Lord Jesus Christ; who of God is made unto us wisdom and righteousness, and sanctification, and redemption.
 
-**EXPOSITION**
+## **Exposition**
 
 We have now shown what kind of a Mediator it is necessary for us to have. The next question which claims our attention is, Who is this Mediator? That this Mediator is Jesus Christ, the Son of God, manifested in the flesh, is proven by these considerations:
 
@@ -60,7 +57,7 @@ V. Who he is:
 
 VI. Whether there can be more than one Mediator.
 
-**I. WHAT A MEDIATOR IS**
+## **I. What a Mediator Is**
 
 A mediator, in general, signifies one who reconciles two parties that are at variance, by interposing himself and pacifying the offended party, by entreaty, by satisfaction, and giving security that the like offence will not again be committed. A mediator, in the German, is ein schiedmann. To reconcile includes: 1. To intercede for the offender with the offended. 2. To make satisfaction for the injury done. 3. To promise, and bring it to pass, that the offending party shall not repeat the offence. 4. To bring the parties at variance together. If any of these conditions are wanting, there can be no true reconciliation.
 
@@ -70,7 +67,7 @@ A middle person, and mediator, are different. The former is the name of the pers
 
 Addenda. It is sometimes asked, whether Adam had need of a Mediator before the fall? To this, answer may be returned according to the signification which we attach to the term, Mediator. If we mean by it, one through whose mediation, or by whom God bestows his benefits, and communicates himself to us, then Adam, even before his fall, had need of a Mediator, because Christ ever has been the person through whom the Father creates and quickens all things; for "in him was life," both natural and spiritual, "and the life was the light of men." (John 1:4.) But if we understand by a Mediator, one who performs these and all the other duties which belong to the office, then we reply that Adam did not need a Mediator before the fall. We must observe, however, that the Scriptures do not speak of Christ, as being Mediator before the fall of man.
 
-**II. WHETHER WE NEED A MEDIATOR WITH GOD**
+## **II. Whether We Need a Mediator with God**
 
 That we need a Mediator is evident—
 
@@ -84,7 +81,7 @@ Obj. Where there is but one way of making satisfaction, no other is to be sought
 
 4. That we have need of a Mediator with God, may be shown by many other considerations, of which we may mention the following: 1. The chidings and compunctions of conscience. 2. The punishments of the wicked. 3. The sacrifices instituted by God, which referred to, and shadowed forth the perfect sacrifice of Christ. 4. The sacrifices of the heathen and Papists, with which they desired to please God, which had their origin in the feeling, or consciousness of the need of some satisfaction being made in order to our acceptance with God.
 
-**III. WHAT THE OFFICE OF THE MEDIATOR IS**
+## **III. What the Office of the Mediator Is**
 
 It becomes a Mediator to treat with both parties, the offended and offending. It was in this way that Christ performed the office of Mediator, treating with each party.
 
@@ -96,7 +93,7 @@ All these things Christ does, obtains, and perfects, not only by his merits, but
 
 There are many benefits comprehended in the office of the Mediator; for God has instituted it for the purpose of bestowing blessings upon the Church. Paul comprehends these blessings very briefly in four general terms, when he says, "But of him are ye in Christ Jesus, who, of God, is made unto us wisdom, righteousness, sanctification and redemption." (1 Cor. 1:30.) He is made unto us wisdom, 1. Because he is the matter and subject of the wisdom which we possess. "I determined not to know any thing among you save Jesus Christ, and him crucified." "We preach Christ crucified, to the Jews a stumbling block, and to the Greeks foolishness; but to them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God." (1 Cor. 2:2; 1:24.) 2. Because he is the cause of our wisdom, and that in three ways; because he brought it from the bosom of the Father—instituted, and preserves the ministry of the word, through which he instructs us concerning the will of the Father, and his office as Mediator; and, finally, because he works effectually in the hearts of the elect, so that they assent to the doctrine, and are renewed in the image of God. In a word, Christ is our wisdom, because he is the subject, the author, and the medium. He is our righteousness, that is, our justifier. Our righteousness is in him, as in the subject; and he himself gives this unto us by his merit and efficacy. He is our sanctification, that is, sanctifier; because he regenerates us, and sanctifies us through the Holy Spirit. He is our redemption, that is, redeemer; because he finally delivers us: for the word that is here translated redemption, does not only signify the price, but also the effect and consummation of our redemption.
 
-**IV. WHAT KIND OF A MEDIATOR HE OUGHT TO BE**
+## **IV. What Kind of a Mediator He Ought to Be**
 
 This question is most wisely connected with the foregoing; for since it is manifest, that satisfaction must be made—that it must be made through another, and that it must be with the satisfaction of the Mediator, which has already been described, we must now enquire, What kind of a Mediator is he?
 
@@ -104,7 +101,7 @@ In answer to this question we would reply, that our Mediator must be man—very 
 
 The proofs concerning the person of the Mediator are drawn from his office; for it was necessary that he should be, and possess all that was included in his office. These proofs have been already presented and explained, in the exposition of the 15th, 16th and 17th Questions of the Catechism, to which we refer the reader.
 
-**V. WHO THIS MEDIATOR IS, WHO IN ONE PERSON IS BOTH GOD AND MAN**
+## **V. Who This Mediator Is, Who in One Person Is Both God and Man**
 
 The Mediator has thus far been spoken of as the Son of God, our Lord Jesus Christ, as we have shown in the eighteenth question of the Catechism. The sum and substance of what we are to believe in relation to this subject is this, that the Scriptures attribute at the same time these three things to Christ, and to him alone:
 
@@ -114,7 +111,7 @@ First, that he is God. "The Word was God." "All things were made by him." "The C
 
 3. That these two natures in Christ constitute one person. Those declarations of Scripture are here in point, which attribute, through the communication of properties, to the person of Christ, those things which are peculiar to the divine, or human nature. "The Word was made flesh." "He partook of flesh and blood." "Before Abraham was, I am." "I am with you alway, even unto the end of the world." "God hath in these last days spoken unto us by his Son, by whom also he made the world." "Jesus Christ is come in the flesh." "Who is over all, God blessed for ever." "Had they known it, they would not have crucified the Lord of Glory." (John 1:14. Heb. 2:14. John 8:38. Matt. 28:20. Heb. 1:1, 2. 1 John 4:3. Rom. 9:6. 1 Cor. 2:8.)
 
-**VI. WHETHER THERE CAN BE MORE THAN ONE MEDIATOR**
+## **VI. Whether There Can Be More than One Mediator**
 
 There is but one Mediator between God and man. The reason of this is, because no one but the Son of God can perform the office of Mediator; and as there is only one natural Son of God, there cannot be more than one Mediator.
 
@@ -132,7 +129,7 @@ III. Is it one, or more than one?
 
 IV. In what do the old and new Covenants agree, and in what do they differ?
 
-**I. WHAT IS THIS COVENANT?**
+## **I. What Is This Covenant?**
 
 A covenant in general is a mutual contract, or agreement between two parties, in which the one party binds itself to the other to accomplish something upon certain conditions, giving or receiving something, which is accompanied with certain outward signs and symbols, for the purpose of ratifying in the most solemn manner the contract entered into, and for the sake of confirming it, that the engagement may be kept inviolate. From this general definition of a covenant, it is easy to perceive what we are to understand by the Covenant here spoken of, which we may define as a mutual promise and agreement, between God and men, in which God gives assurance to men that he will be merciful to them, remit their sins, grant unto them a new righteousness, the Holy Spirit, and eternal life by and for the sake of his Son, our Mediator. And, on the other side, men bind themselves to God in this covenant that they will exercise repentance and faith, or that they will receive with a true faith this great benefit which God offers, and render such obedience as will be acceptable to him. This mutual engagement between God and man is confirmed by those outward signs which we call sacraments, which are holy signs, declaring and sealing unto us God's good will, and our thankfulness and obedience.
 
@@ -146,11 +143,11 @@ It is called a Testament, because this reconciliation was made by the interposit
 
 Obj. A testament is made by the death of the testator. But God can not die. Therefore his testament is not ratified; or this reconciliation can not be called a testament. Ans. We deny the minor proposition; because God is said to have redeemed the Church with his own blood. Hence he must have died; but it was in his human nature, according to the testimony of the apostle Peter, who says of Christ the testator, who was both God and man, that he was put to death in the flesh. (1 Pet. 3:18.)
 
-**II. HOW COULD THIS COVENANT BETWEEN GOD AND MAN BE MADE?**
+## **II. How Could This Covenant Between God and Man Be Made?**
 
 This covenant could only be made by a Mediator, as may be inferred from the fact that we, as one of the parties, were not able to satisfy God for our sins, so as to be restored to his favor. Yea, such was our miserable condition, that we would not have accepted of the benefit of redemption had it been purchased by another. Then God as the other party, could not, on account of his justice, admit us into his favor without a sufficient satisfaction. We were the enemies of God, and hence there could be no way of access to him, unless by the intercession of Christ, the Mediator, as has been fully shown in the remarks which we have made upon the question—Why was a Mediator necessary? We may conclude, therefore, that this reconciliation was possible only by the satisfaction and death of Christ, the Mediator.
 
-**III. IS THIS COVENANT ONE, OR MORE?**
+## **III. Is This Covenant One, or More?**
 
 This covenant is one in substance, but two-fold in circumstances; or it is one as it respects the general conditions upon which God enters into an engagement with us, and we with him; and it is two as it respects the conditions which are less general, or as some say, as it respects the mode of its administration.
 
@@ -160,7 +157,7 @@ The Covenant is one in substance. 1. Because there is but one God, one Mediator 
 
 But there are said to be two covenants, the old and the new, as it respects the circumstances and conditions which are less general, which constitute the form, or the mode of administration, contributing to the principal conditions, in order that the faithful, by their help, may obtain those which are general.
 
-**IV. IN WHAT DO THE OLD AND THE NEW COVENANT AGREE, AND IN WHAT DO THEY DIFFER?**
+## **IV. In What Do the Old and the New Covenant Agree, and in What Do They Differ?**
 
 Since there is but one covenant, and the Scriptures speak of it as though it were two, we must consider in what particulars the old and the new covenants agree and in what they differ.
 

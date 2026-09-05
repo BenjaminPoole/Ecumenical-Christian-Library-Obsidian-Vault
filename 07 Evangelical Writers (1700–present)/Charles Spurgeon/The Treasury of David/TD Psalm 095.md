@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 95
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -27,8 +26,6 @@ tags:
 it becomes us to praise him with heart and with voice from day to day; and especially should we delight to do this when we assemble as his people for public worship.
 
 "Come let us to the Lord sing out With trumpet voice and choral shout."
-
-it becomes us to praise him with heart and with voice from day to day; and especially should we delight to do this when we assemble as his people for public worship.
 
 "Come let us to the Lord sing out With trumpet voice and choral shout."
 
@@ -325,7 +322,6 @@ The meaning of the ninth verse is, that when the children of Israel tempted God,
 **Verses 10-11.** The kindling, increasing, and full force of divine anger, and its dreadful results.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 094|← Psalm 94]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 096|Psalm 96 →]]

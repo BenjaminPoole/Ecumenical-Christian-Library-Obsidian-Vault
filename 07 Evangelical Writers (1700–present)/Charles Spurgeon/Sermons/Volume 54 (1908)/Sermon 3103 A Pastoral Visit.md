@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Pastoral Visit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3103
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Church in your house." Philemon 1:2.
 
@@ -67,7 +64,7 @@ seeking to extend the bounds of Messiah's Kingdom within your own sphere? Dr. Gu
 
 III. Before leaving, however, I venture to GIVE A LITTLE ADVICE AS TO THE WAY OF HAVING A CHURCH
 
-IN A HOUSE.
+## In a House
 
 It must be brought about, of course, by Divine Grace. The Holy Spirit is the great Agent, but still He uses means. You young woman—yes, you—you are thinking about being engaged to that young man. You are a professed Christian, but he is a worldling. Now, do you ever expect to have a Church in your house at that rate? And may I ask you—do you know what you are doing? I see some of you are smiling. Well, you may smile as much as you can now, for you will never have much smiling after, I can tell you that! If you want to wither your happiness forever, you have only to go and be yoked with an unbeliever. I have known some Christian women who have forgotten the Divine precept and have been married to ungodly men. And I have seen godly men married to ungodly women. And mark this—my experience has not been very long, but it has been very wide—I never knew any good come of it. I have always seen misery as the result and in nine cases out of ten, backsliding has followed—often final, too—proving that the person committing that sin had no Grace at all! We do not often talk about these things when we are preaching, but we ought to talk about them a great deal more than we do. I do beseech you, young Christian people, if you hope to have God's blessing, take care that you do not get "unequally yoked with unbelievers."
 
@@ -95,7 +92,7 @@ I may be excused, perhaps, for referring to God's singular mercy to my own house
 
 "Faith, mighty faith, the promise sees," and claims its fulfillment, "for the promise is unto you and to your children, and to all that are afar off, even to as many as the Lord our God shall call." God's eternal purpose stands fast and fixed, we know, but when He moves His people's hearts to pray, He intends to bless. We will be more earnest in praying for one another than we have been. We will be more earnest in praying about our children than we have been. And may God grant us Grace so that we may, all of us, be able to say that we have a Church in our house! "Believe on the Lord Jesus Christ"—this is the foundation of the Church and they who have believed are members of Christ's Church and so see His face in the midst of the one family in Heaven and earth, which is named by Him as "the general assembly and Church of the first-born, which are written in Heaven." God grant that, of this Church, both we and ours may all be members!
 
-EXPOSITION BY C. H. SPURGEON: PHILEMON.
+## Exposition by C. H. Spurgeon: Philemon
 
 Verse 1. Paul, a prisoner of Jesus Christ This is one of Paul's private letters, though it has the stamp of Inspiration upon it. It was not written concerning Church business, nor to teach some great doctrinal Truth of God, but there was a runaway slave who had come to Rome and who had been converted under Paul's ministry. Paul was sending him back to his master—and this was the letter which he was to take with him, to make some sort of apology for him and to ask his master to receive him with kindness and to forgive his fault. Every word of this Epistle is very wisely put. Paul begins by calling himself "a prisoner of Jesus Christ." Who would not grant him his desire when he was wearing a chain for Christ's sake? If a letter were to come to you from some beloved minister whom you knew to be lying in a dungeon and likely soon to die, you would be greatly touched if you noticed the traces of the rust of his chains on the letter. "Paul, a prisoner of Jesus Christ."
 
@@ -126,7 +123,6 @@ II, 12. Which in timepast was to you unprofitable, but now profitable to you and
 21\. Having confidence in your obedience I wrote unto you, knowing that you will do more than I say. This is delicately yet forcibly put, and we feel certain that Philemon must have done as Paul wished, even though we have no record of the fact.
 
 22-25. But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you. There salute you Epaphras, my fellow prisoner in Christ Jesus; Marcus, Aristarchus, Demas, Lucas, my fellow laborers. The Grace of our Lord Jesus Christ be with your spirit. Amen.
-
 
 ---
 [[Sermon 3102 The Forerunner|← #3102]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3104 Binding Up Broken Hearts|#3104 →]]

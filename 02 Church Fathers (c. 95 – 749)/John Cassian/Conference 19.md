@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 19
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT JOHN. ON THE AIM OF THE COENOBITE AND HERMIT.
+## Conference of Abbot John. On the Aim of the Coenobite and Hermit
 
 ## Chapter 1
 

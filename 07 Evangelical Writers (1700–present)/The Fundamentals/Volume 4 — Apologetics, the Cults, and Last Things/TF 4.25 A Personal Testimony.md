@@ -34,7 +34,7 @@ From Osmaston Manor I drove to the town of Derby, and by the time I arrived ther
 
 As I reached the course the gates were closed to allow a race being run without danger of interruption, and as I came to those gates the horses dashed by, and I saw the only horse-race I have ever witnessed in my life.
 
-At that moment a young man - almost as young as myself- touched his hat and, holding out a small piece of paper to me, said, "I beg pardon, sir; would you kindly read this?"
+At that moment a young man - almost as young as myself-touched his hat and, holding out a small piece of paper to me, said, "I beg pardon, sir; would you kindly read this?"
 
 I thought that he wanted me to read it for him, so I took it and looked at it as if to help him. What was my astonishment to find only these (printed) words on the paper: "Reader, if you died tonight, would your soul be IN HELL?"
 

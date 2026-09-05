@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 183. Matthew 23:29-39; Luke 11:47-51; 13:34-35; 11:53-54
-
-MATTHEW 23:29-39  
-LUKE 11:47-51; 13:34-35; 11:53-54
 
 **29.** Woe to you scribes and Pharisees, hypocrites! for you build the sepulchers of the prophets and embellish the monuments of the righteous, **30.** And say, If we had been in the days of our fathers, we would not have been their associates in the blood of the prophets. **31.** Thus you testify against yourselves, that you are the children of those who killed the prophets. **32.** Do you also fill up the measure of your fathers. **33.** Serpents, offspring of vipers, how shall you escape the judgment of hell? **34.** Therefore, lo, I send to you prophets, and wise men, and scribes, and some of them you will slay and crucify, and some of them you will scourge in your synagogues, and persecute from city to city: **35.** That upon you may come all the righteous blood which hath been shed on the earth, from the blood of righteous Abel to the blood of Zechariah, son of Barachiah, whom you slew between the temple and the altar. **36.** Verily I say to you, All these things shall come on this generation. **37.** Jerusalem, Jerusalem, who slayest the prophets, and stonest those who were sent to thee, how often would I have gathered together thy children, as a hen gathereth her chickens under her wings, and you would not! **38.** Lo, your house is left to you desolate. **39.** For I tell you, that you shall never see me henceforth, till you say, Blessed be he that cometh in the name of the Lord.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Law's Failure and Fulfillment
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2228
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For what the Law could not do, in that it was weak through the flesh, God, sending His own Son in the likeness of sinful flesh and for sin, condemned in the flesh. That the righteousness of the Law might be fulfilled in us, who walk not after the flesh, but after the Spirit." Romans 8:3,4.
 
@@ -132,7 +129,6 @@ To crown all, this righteousness is fulfilled in the energy of the Spirit—"in 
 I have now set before you God's glorious method and achievement. May you accept the one and have your part in the other! Sin is condemned and righteousness fulfilled for everyone that believes! That is what the Christ has done by coming here below. Blessed be His name! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 8.
-
 
 ---
 [[Sermon 2227 Wanted!—Volunteers|← #2227]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2229 God's Glorious and Everlasting Name|#2229 →]]

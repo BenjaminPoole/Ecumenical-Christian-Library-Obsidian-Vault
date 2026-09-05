@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 78. Matthew 9:23-26; Mark 5:35-43; Luke 8:49-56
-
-**MATTHEW 9:23-26; MARK 5:35-43; LUKE 8:49-56**
 
 **23**. And when Jesus came into the house of the ruler, and saw the musicians and the multitude making a noise, **24**. He saith to them, Withdraw: for the young woman is not dead, but sleepeth: and they ridiculed him. **25**. And when the multitude was put out, he entered and took hold of her hand, and the girl arose. **26**. And this report spread into all that country.
 

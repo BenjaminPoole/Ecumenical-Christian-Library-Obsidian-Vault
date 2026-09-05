@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 14
 
-**CHAPTER 14**
+***Chapter 14***
 
 ## Isaiah 14:1-32
 

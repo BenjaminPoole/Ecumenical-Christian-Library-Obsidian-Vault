@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 3
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT PAPHNUTIUS. ON THE THREE SORTS OF RENUNCIATIONS.
+## Conference of Abbot Paphnutius. On the Three Sorts of Renunciations
 
 ## Chapter 1
 

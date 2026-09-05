@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 20. VIII. Confession on the Eucharist, Delivered to the Delegates at Oxford, 1382
 
-CONFESSION ON THE EUCHARIST,
+*Confession on the Eucharist*
 
-DEUVEKED TO THE DELEGATES AT OXFORD, IN 1382."
+## Deuveked to the Delegates at Oxford, in 1382."
 
 We believe, as Christ and his apostles have taught us, that thei sacrament of the alter, white and rande, and like to our bread or host unsacred is very God*s body in form of bread, and if it be broken in three parties, as the church uses, or else in a thousand, every one of these parties is the same God^s body, and ryth^ so as the person of Christ is very God and very man, very Godhead, and very manhead, ryth so as holy kirke many hundred winters has trowyde, ^ the same sacrament is very Grod's body, and very bread ; as it is form of Grod's body, and form of bread, as teacheth Christ and his apostles. And therefore Saint
 
@@ -29,7 +28,7 @@ But it is to suppose that many saints that died in the mean time before their de
 
 « Knighton de Event. Angl. ai ud X. Scrlptores, Cull. 2649, 2650. « right. « believed.
 
-302 CONFESSION ON THE EUCHARIST.
+## 302 Confession on the Eucharist
 
 For before that the fiend, the father of lesynges* was loosened, was never this gabbjing^ contrived. And how great diversity is between ns that trowes that this sacrament that in its kind it is very bread, and sacra* mentally God's body, and between heretics that trowes and tells that this sacrament may on none wise be God*s body 1 For I dare surely say that if this were truth, Christ and his saints died heretics, and the more part of holy kyrke believeth now heresy, and therefore devout men supposed that this council of friars in London, was with the herydene.^ For they put an heresy upon Christ and saints in heaven, wherefore the earth trembled. In truth, landman's voice answered for God as it did in time of his passion, when he was dampnyde to bodily death. Christ and his modur that in ground had destroyed all heresies, keep his kyrke in right belief of this sacrament, and move the king and his realm to ask sharply of his clerks this office that all his possessioners, on pain of losing all their temporalities, tell the king and his realm with sufficient grounding what is this sacrament ; and all the orders of friars on pain of losing their all^;iance tell the king and his realm with good groimdiiig what is the sacrament : for I am certain of the thridde part of dergy that defends these doubts that is here said, that they will defend it on pain of their life.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # God Fighting Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2179
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But they rebelled, and vexed His Holy Spirit; therefore He was turned to be their enemy, and He fought against them." Isaiah 63:10.
 
@@ -106,7 +103,6 @@ If you will turn to this Book, you will not find between these two covers a soli
 I charge you, by the living God, do not provoke Him to this! Rush not upon the edge of Jehovah's sword. At once look to Jesus crucified—Jesus crucified for the guilty—Jesus who came into the world, took our nature and bore our sins and shame! He cries from the Cross, "Look unto Me, and be you saved, all the ends of the earth." I cannot speak to you like an angel from Heaven, but I speak like a sinner saved from Hell—and I implore you to believe in the Lord Jesus Christ and you shall be saved—"for God so loved the world, that He gave His only begotten Son, that whoever believes in Him should not perish, but have everlasting life." God bless you! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON— Psalm 106.
-
 
 ---
 [[Sermon 2178 Zedekiah—or, the Man Who Cannot Say, No|← #2178]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2180 A Mediator|#2180 →]]

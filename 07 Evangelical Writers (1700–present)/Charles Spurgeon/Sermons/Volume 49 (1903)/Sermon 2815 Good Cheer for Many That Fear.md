@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Good Cheer for Many That Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2815
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Say to them that are of a fearful heart, Be strong, fear not." Isaiah 35:4.
 
@@ -93,7 +90,7 @@ There is one person I must not forget, perhaps more. There are those who know th
 
 God grant unto each one of us that we may be strong, and fear not, for Christ's sake Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH45'
+## Exposition by C. H. Spurgeon: Isaiah 45'
 
 While we are reading this chapter, and thinking of Cyrus, the Lord's anointed deliverer for Israel, let us not forget the greater Deliverer of whom the hymn writer sings—
 
@@ -126,7 +123,6 @@ no other God. Verily You are a God that hides Yourself O God of Israel, the Savi
 20, 21. Assemble yourselves and come; draw near together, you that are escaped of the nations. They have no knowledge that set up the wood of their graven image, and pray unto a god that cannot save. Tell and bring forth your case; yes, let them take counsel together. What wooden god has ever foretold the future? What idol of brass or stone had a word to say about the coming of Cyrus? Not one.
 
 21-25. Who has declared this from ancient time? Who has told it from that time? Have not I, the LORD? And there is no other God besides Me; a just God and a Savior; there is none besides Me. Look unto Me, and be you saved, all the ends of the earth: for I am God, and there is none else. I have sworn by Myself, the word is gone out of My mouth in righteousness, and shallnot return, That unto Me every knee shall bow, every tongue shallswear. Surely, shall one say, in the LORD have I righteousness and strength: even to Him shall men come, and all that are incensed against Him shall be ashamed. In the Lord shall all the seed of Israel be justified, and shall glory.
-
 
 ---
 [[Sermon 2814 Abraham's Great Reward|← #2814]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2816 Invitation to a Conference|#2816 →]]

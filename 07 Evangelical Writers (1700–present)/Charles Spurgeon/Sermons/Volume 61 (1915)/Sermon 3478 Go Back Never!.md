@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Go Back? Never!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3478
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned. But now they desire a better country, that is an heavenly country." Hebrews 11:15,16.
 
@@ -47,7 +44,7 @@ And oh, my Brothers and Sisters, if some of us wished to return, we would have t
 
 Perhaps you will say, "Why does the Lord make them so plentiful? Could He not have kept us from temptations?" There is no doubt He could, but it never was the Master's intention that we should all be hothouse plants! He taught us to pray, "Lead us not into temptation," but at the same time He leads us there and intends to do it—and this is for the proving of our faith to see whether it is true faith or not. Only He also bids us pray, "Deliver us from evil." Depend upon it, faith that is never tried is not faith! It must, sooner or later, be tested. God does not create useless things. He intends that the faith which He gives should have its test and should glorify His name. These opportunities to return are meant to try your faith and they are sent to you to prove that you are a volunteer soldier. Why, if Grace was a sort of chain that manacled you so that you could not leave your Lord—if it had become a physical impossibility for you to forsake your Savior—there would be no credit in your abiding faithful to Him! He that does not run away because his legs are weak, does not prove himself a hero, but he that could run, but won't run—who could desert his Lord, but won't desert Him—has within him a principle of Grace stronger than any fetter could be—the highest, strongest, noblest bond that unites a man to the Savior! By this you shall know whether you are Christ's or not—when you have opportunity to re-turn—if you don't return, that shall prove you are His. Two men are going along a road and they have a dog behind them. I do not know to whom that dog belongs, but I'll tell you directly. They are coming to a cross road. One goes to the right, the other goes to the left. Now which man does the dog follow? That is his master! Now when Christ and the world go together, you cannot tell which a man is following—but when there is a separation, and Christ goes one way, and your interest, your pleasure seems to go the other way—if you can part with the world and stay with Christ, then you are one of His. So that these opportunities to return may serve us a good purpose by trying our faith and helping us to see whether we are, indeed, the Lord's or not. But we must pass on (for we have a very wealthy text tonight) to notice the second point.
 
-II. WE CANNOT TAKE THE OPPORTUNITY TO GO BACK BECAUSE WE DESIRE SOMETHING BETTER
+## II. We Cannot Take the Opportunity to Go Back Because We Desire Something Better
 
 than we could get by going back. An insatiable desire has been implanted in us by Divine Grace, which urges us to—
 
@@ -63,7 +60,7 @@ More than that, if ever the child of God gets entangled for a while, he is uneas
 
 So, then, you see the reason why the Christian cannot go back, though he has many opportunities, lies in this, that through Divine Grace he has had produced in his heart desires for something better. And even when he does not as yet enjoy that something better, the desires, themselves, become mighty bonds that keep him from returning to what he was. Dear Brothers and Sisters, cultivate these desires more and more. If they have such a separating effect upon our character in keeping us from the world, let us cultivate them much. Do you think that we meditate enough upon Heaven? Look at the miser. When does he forget his gold? He dreams of it! He has locked it up tonight and he goes to bed, but he is afraid he heard a footstep downstairs, and he goes to see. He looks to that iron safe to be quite sure that it is well secured—he cannot forget his dear gold! Let us think of Heaven, of Christ, of all the blessings of the Covenant, and let us thus keep our desires wide awake. The more they draw us to Heaven, the more we shall be separated from earth. But I must close with the sweetest part of the text.
 
-III. WE HAVE FOR THIS REASON GREAT BLESSEDNESS.
+## III. We Have for This Reason Great Blessedness
 
 "Therefore God is not ashamed to be called their God, for He has prepared for them a city." Because they are strangers and because they will not go back to their old abode, therefore God is not ashamed to be called their God! He might be. What poor people God's people are—many of them poor in circumstances, but how many of them I might very well call poor as to spiritual things? I do not think if any of us had such a family as God has, we would ever have patience with them. We cannot even have, when we judge ourselves rightly, patience with ourselves! But how is it that God bears with the ill manners of such a forward, weak, foolish, forgetful people as His people are? He might well be ashamed to be called their God if you look upon them as they are! Acknowledge them—how can He acknowledge them? Does He not, Himself, sometimes say of them, "How can I put you among the Children?" And yet He does. Viewed as they are, they are such a rabble in many respects that it is marvelous He is not ashamed of them—and yet He never is—and to prove that He is not ashamed of them we have this fact—that He calls Himself their God! "I will be your God," and He oftentimes seems to speak of it as a very joyful thing to His own heart. "I am the God of Abraham, the God of Isaac, and the God of Jacob," and while He calls Himself their God, he never forbids them to call Him their God! And in the presence of the great ones of the earth they may call him their God anywhere. He is not ashamed that it should be so.
 
@@ -77,7 +74,7 @@ But I must not dwell on this, delightful theme as it is, for I must close by not
 
 Now what shall be said to those who are not strangers and foreigner? Oh, you dwell in a land where you find some sort of repose, but I have heavy tidings for you! This land in which you dwell and all the works thereof, must be burned up. The city of which you, who have never been converted to Christ, are citizens, is the City of Destruction! And as is its name, such shall be its ends The King will send His armies against that wicked city and destroy it—and if you are citizens of it, you will lose all you have—you will lose your souls, you will lose yourselves! "Wither away?" asks one. "Where can I find comfort, then, and security?" You must do as Lot did when the angels pressed him and said, "Hasten to the mountain, lest you are consumed." The mountain of safety is Calvary. Where Jesus died, there you shall live! There is death everywhere else, but there is life in His death. Oh, fly to Him! "But how?" asks one. Trust Him! God gave His Son, equal with Himself, to bear the burdens of human sin—and He died a Substitute for sinners, a real Substitute, an efficient Substitute for all who trust in Him. If you will trust your soul with Jesus, you are saved! Your sin was laid on Him—it is forgiven you! It was blotted out when He nailed the handwriting of ordinances to His Cross. Trust Him, now, and you are saved! That is, you shall henceforth become a stranger and a pilgrim, and in the better land you shall find the rest which you never shall find here, and need not wish to find, for the land is polluted! Let us stay away from it. The curse has fallen. Let us get away to the uncursed and ever blessed, where Jesus Christ dwells forever! God add His blessing on these words for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 11:1-26.
+## Exposition by C. H. Spurgeon: Hebrews 11:1-26
 
 VERSES 1, 2. Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report The names of those who lived in old time are handed down with commendation because of their faith. If they had had no faith, we would have had no report of them.
 
@@ -130,7 +127,6 @@ set yourself to do it in the first place. Live a holy life, and you will judge t
 23\. By faith Moses, when he was born, was hid three months by his parents because they saw he was a proper child; and they were not afraid of the king's commandment Their faith made them hide him, for that faith laid hold of God, and they were not afraid of the king's commandment.
 
 24-26. By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter; choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompense of the reward
-
 
 ---
 [[Sermon 3477 Araunah's Threshing Floor|← #3477]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3479 All of Grace|#3479 →]]

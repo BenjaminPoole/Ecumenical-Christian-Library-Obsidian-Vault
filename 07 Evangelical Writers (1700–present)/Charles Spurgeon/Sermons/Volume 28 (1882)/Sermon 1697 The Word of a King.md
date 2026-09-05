@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Word of a King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1697
-
-DELIVERED BY C. H. SPURGEON..
 
 > "Where the word of a king is, there is power." Ecclesiastes 8:4.
 
@@ -126,7 +123,6 @@ And thus these smooth-speaking gentlemen are finding out that they are not neede
 We must teach the King's Word if our work is to be blessed to the salvation of souls. We must plow with the Law and let the people know what sin means and what repentance means—then we may hopefully sow them with the Gospel. Some time ago we were told that there was no need of repentance and that repentance only meant a change of mind. But what tremendous change of mind true repentance means! Never speak lightly of repentance. Then, too, the preaching of the Truth of God—the whole Truth of God—will bring a power of union among you, so that you who love the Lord will be heartily united. When Christian people quarrel, it is generally because they do not get sufficient spiritual food. Dogs fight when there are no bones and Church members fall out when there is no spiritual food. We must give them plenty of Gospel, for the Gospel has the power of sweetening the temper and making us put up with one another!
 
 Preach the King's Word, for it will give you power in private prayer, power in the Sunday school, power in the Prayer Meeting, power in everything that you do because you will live upon the King's own Word and His Word is meat to the soul! The Prophet said, "Your Words were found, and I did eat them; and Your Word was unto me the joy and rejoicing of my heart." If you try this meat, you will all find it is nourishing to you, also. The Lord bless you and grant that it may be so. Amen.
-
 
 ---
 [[Sermon 1696 The Bird Escaped from the Snare|← #1696]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]]

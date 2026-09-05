@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 13. X. Letter to Erasmus Fabricius
 
 Letter of Huldreich Zwingli to Erasmus Fabricius ABOUT the Proceedings, on the 7th, 8th, and 9TH OF April, 1522, of the Delegates Sent to Zurich BY THE Bishop of Constance
@@ -28,7 +27,7 @@ HOW the Reverend Lord Bishop of Constance [Hugo von Hohenlandenberg], through hi
 
 114 The Works of Huldreich Zwingli
 
-ZWINGLI TO ERASMUS FABRICIUS.
+## Zwingli to Erasmus Fabricius
 
 On the seventh day of April the before mentioned Fathers came to our city pretty eariy, and I, knowing that they were coming, was trying to discover what their design was, and yet could not until late at night, when our beloved assistant, Henry Liiti, came and gave me warning that the clerk, as they call him, was getting together the whole body of priests for a meeting early next morning at the usual place of assembly of the canons. I regarded it as a happy omen that the thing had been thus neatly set on foot by a courier both lame and without grace, and began to consider in my mind how they were likely to begin their job. At length I understood, as I thought, and when day dawned and we had come together the suffragan began in the fashion that will follow when I come to describe how the matter was carried on before the Senate. His whole speech was violent and full of rage and arrogance, though he took pains to hide the fact that he had any quarrel with me. For he avoided mentioning my name as scrupulously as if it were sacred, though meanwhile there was nothing that he did not say against me. When the tragedian had finished shrieking out his part, I stepped forward, feeling that it was unbecoming and disgraceful to allow a speech which might do so much damage to go unrebutted, especially as I saw from their sighs and their pale and silent faces that some of the feebler priests who had recently been won for Christ had been troubled by the tirade. Therefore I made answer upon the spur of the moment to the words of the suffragan, with what spirit or feeling the good men who heard me may judge. The general gist of what I said, however, you shall hear when we come to the proceedings before the Senate. The delegates abandoned this wing as routed and put to flight, and
 

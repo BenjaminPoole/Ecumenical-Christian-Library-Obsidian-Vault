@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Jude's Doxology
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2994
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now unto Him who is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and forever. Amen." Jude 1:24,25.
 
@@ -69,9 +66,9 @@ Above all, it is by the Divine Spirit that God bears us up as upon eagle's wings
 
 Brothers and Sisters, join with me in adoring the Lord that He will keep us to the end. Have we committed our souls into the hands of Jesus? Then our souls are safe forever! Are we trusting to Him to keep us till the day of His appearing? If so, He will keep us—not one sheep or lamb out of His flock shall by any possibility be destroyed by the wolf, or the bear, or the roaring lion of Hell! They shall all be His in the day when they pass again under the hands of Him that counts them!
 
-II. NOW, SECONDLY, LET US ADORE HIM BECAUSE HE WILL, AT THE LAST, PRESENT US
+## II. Now, Secondly, Let Us Adore Him Because He Will, at the Last, Present Us
 
-"FAULTLESS BEFORE THE PRESENCE OF HIS GLORY WITH EXCEEDING JOY."
+## "Faultless Before the Presence of His Glory with Exceeding Joy."
 
 There will come a day, Brothers and Sisters, when we shall either be presented in the courts of God as His courtiers, or else be driven from His Judgment Seat as rebels against His authority. We look forward with the confident expectation that we shall be presented as the friends of Christ, unto God, even the Father and that is, indeed, a cause for adoring gratitude!
 
@@ -87,7 +84,7 @@ This is how you are to be presented by Christ in Glory. There is a great stir in
 
 III. That is the note with which I have to close my discourse. LET US, BECAUSE OF THESE TWO GREAT
 
-BLESSINGS OF FINAL PRESERVATION AND PRESENTATION BEFORE HIS GLORY, OFFER UNTO THE LORD OUR HIGHEST ASCRIPTIONS OF PRAISE.
+## Blessings of Final Preservation and Presentation Before His Glory, Offer unto the Lord Our Highest Ascriptions of Praise
 
 Jude says, "Both now and forever." Well, we will attend to the "forever" as eternity rolls on, but let us attend to the praise of God "now"—at this moment! "To the only wise God our Savior be glory and majesty, dominion and power" now! Come, Brothers and Sisters, think of what you owe to Him who has kept you to this day—and will not let you go! Think of where you might have been and think, I may say, of where you used to be in your unregenerate state. Yet you are not there now—but here you are, without self-righteousness, made to differ from your fellow men entirely through the Grace of God! You have been kept perhaps 20 years, 30 years, 40 years—possibly 50 years! Well, unto Him be the glory! Give Him the glory even now!
 
@@ -101,7 +98,7 @@ The first moment of thus trusting God is the beginning of a new life—a life wh
 
 While I am away, listen with all earnestness to other heralds of the Cross, and pray the Lord to bless their messages to your salvation, if mine have not been so blest. I pray that by some instrumentality, you may all be saved in the Lord with an everlasting salvation. Amen.
 
-EXPOSITION BY C. H. SPURGEON: THE GENERAL EPISTLE OF JUDE.
+## Exposition by C. H. Spurgeon: The General Epistle of Jude
 
 Verse 1. Jude. That is to say Judas, not Iscariot.
 
@@ -156,7 +153,6 @@ Verse 1. Jude. That is to say Judas, not Iscariot.
 23\. And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh. When you have to deal with unclean professors, there must be an abhorrence and detestation of their sin even when there is great gentleness towards the sinner. We must never be such believers in the repentance of the guilty as to be willing to wink at sin, for sin is a great evil in any case and repentance cannot wipe it away. And though it behooves us to be tender to the sinner, we must never be tender to the sin. How beautifully this short and sad Epistle ends! Having described the many who, after making a profession, yet turn aside, Jude bursts out with this jubilant doxology!
 
 24, 25. Now unto Him who is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and ever. Amen.
-
 
 ---
 [[Sermon 2993 'That King Ahaz'|← #2993]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2995 Very Singular|#2995 →]]

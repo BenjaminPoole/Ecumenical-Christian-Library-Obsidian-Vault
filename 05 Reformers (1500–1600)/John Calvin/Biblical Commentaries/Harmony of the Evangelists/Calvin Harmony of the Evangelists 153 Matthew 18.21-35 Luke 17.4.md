@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 153. Matthew 18:21-35 Luke 17:4
-
-**Matthew 18:21-35 Luke 17:4**
 
 **21**. Then Peter approaching him said, Lord, how often shall my brother offend against me, and I forgive him? Till seven times? **22**. Jesus saith to him, I say not to thee till seven times, but till seventy times seven. **23**. Therefore the kingdom of heaven is compared to a king, who wished to make a reckoning with his servants. **24**. And when he had begun to reckon, one was brought to him who owed ten thousand talents. **25**. But as he was unable to pay, his master commanded him to be sold, and his wife and children, and all that he had, and payment to be made. **26**. And that servant falling down, entreated him, saying, Master, have patience with me, and I will pay thee all. **27**. And his master, pitying that servant, forgave him, and acquitted him of the debt. **28**. But that servant, having gone out, found one of his fellow-servants, who owed him a hundred pence: and laying hands on him, saying, Pay me what thou owest. **29**. And his fellow-servant, fallind down, entreated him, saying, Have patience with me, and I will pay thee all. **30**. But he would not, but went out, and threw him into prison, till he should pay the debt. **31**. And when his fellow-servants saw what was done, they were deeply grieved, and came, and related to their master all that had been done. **32**. Then his master called him, and said to him, Wicked servant, I forgave thee all that debt, because thou didst implore me: **33**. Oughtest not thou also to pity thy fellow-servant, even as I pitied thee? **34**. And his master, being enraged, delivered him to the tormentors, till he should pay all that he owed him. **35**. So likewise shall my heavenly Father do to you, if you forgive not every one his brother from your hearts their offenses.
 

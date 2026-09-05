@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Stern Teacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1196
-
-DELIVERED BY.
 
 > "Therefore the Law was our schoolmaster to bring us unto Christ, that we might bejustified by faith. But after faith has come, we are no longer under a schoolmaster." Galatians 3:24-26.
 
@@ -172,7 +169,6 @@ Oil is soft—but set it on fire and see how it burns! Love is sweet—but curdl
 Fly now and kiss the Son, lest He be angry, and you perish from the way while His wrath is kindled but a little! Blessed are all they that put their trust in Him! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Galatians 4. HYMNS FROM "OUR OWN HYMN BOOK"—567, 647, 565.
-
 
 ---
 [[Sermon 1195 Abundant Pardon|← #1195]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1197 The Claims of God|#1197 →]]

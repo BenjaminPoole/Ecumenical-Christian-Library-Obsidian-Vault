@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 1
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD WITH US**
+## **God with Us**
 
 > God shall be with you" Gen. 48:21
 
@@ -23,7 +22,6 @@ Good old Jacob could no more be with Joseph, for his hour had come to die: but h
 If God be with us, we are in ennobling company, even though we are poor and despised. If God be with us, we have all-sufficient strength, for nothing can be too hard for the Lord. If God be with us, we are always safe, for none can harm those who walk under His shadow. Oh, what a joy we have here! Not only is God with us, but He will be with us. With us as individuals; with us as families; with us as churches. Is not the very name of Jesus, Immanuel -- God with us? Is not this the best of all, that God is with us? Let us be bravely diligent, and joyously hopeful. Our cause must prosper, the truth must win, for the Lord is with those who are with Him.
 
 All this day may this sweet word be enjoyed by every believer who turns to "Faith's Check Book." No greater happiness is possible.
-
 
 ---
 [[FCB June 30|← June 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 2|July 2 →]]

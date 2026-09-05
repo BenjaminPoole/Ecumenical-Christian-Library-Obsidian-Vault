@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 143
-
-**PSALM 143**
 
 Although the enemies with whom David had to contend were wicked, and their persecution as unjust as it was cruel, David recognized the just judgment of God in it all, and seeks to conciliate his favor by humbly supplicating pardon. Having complained of the cruelty of his enemies, and declared that amidst all his affliction he still remembered God, he prays for restoration, and the guidance of God’s Spirit, that the remainder of his life might be devoted to his fear.
 

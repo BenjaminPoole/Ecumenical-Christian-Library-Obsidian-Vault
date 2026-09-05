@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Your Personal Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1524
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 22, 1880,.
+*Delivered on Lord's-Day Morning, February 22, 1880*
 
 > "Receiving the end of your faith—the salvation of your souls. Of this salvation the Prophets have inquired and searched diligently, who prophesied of the Grace that would come to you, searching what, or what manner of time the Spirit of Christ which was in them did indicating, when He testified beforehand the sufferings of Christ and the glories that would follow. To whom it was revealed, that not to themselves, but to us they did minister the things which are now reported to you by them that have preached the Gospel to you by the Holy Spirit sent down from Heaven—which things angels desire to look into." 1 Peter 1:9-12.
 
@@ -115,7 +114,7 @@ From the first day in which man fell—when the Holy Spirit, at the gates of Ede
 
 II. So far I have commended my Lord's salvation and now I would desire you, with all this in your minds, to turn to the prayer in the 119th Psalm—"Let Your mercies come also unto me, O Lord, even Your salvation, according to Your Word." Use the prayer with this intent—Lord, I have been hearing what Prophets and Apostles and angels think of Your salvation. What Your Son and what Your Spirit think of it. Now let me humbly say what I think of it—Oh that it were mine! Oh that it would come to me! This, then, is my second head. I would RECOMMEND THE PRAYER OF
 
-THE PSALMIST.
+## The Psalmist
 
 I will say about it, first, that it is, in itself, a very gracious prayer, for it is offered on right grounds. "Let Your mercies come also unto me." There is no mention of merit or desert. His entreaty is only for mercy. He pleads guilty and throws himself upon the prerogative of the King who can pardon offenders. Are you willing, my dear Hearer, you who have never sought the Savior—are you willing at this moment to stand on that ground and to ask for salvation as the result of mercy? You shall have it on such terms, but you can never be saved until you will acknowledge that you are guilty and submit to Justice.
 
@@ -152,7 +151,6 @@ I do not know whether the elder brother is here to murmur at a penitent sinner. 
 I will close by assuring you that this blessedly gracious prayer which I have helped to back up with arguments will be answered by our gracious God. Oh, be sure of this! He never sent His Prophets to preach to us a salvation which cannot be ours! He never sent His Apostles to report to us concerning a mere dream! He never set the angels wondering at an empty speculation! He never gave His Son to be a Ransom which will not redeem and He never committed His Spirit to witness to that which will, after all, mock the sinner's need! No, He is able to save—there is salvation—there is salvation to be had, to be had now, even now!
 
 We are sitting in the light in this house while a dense fog causes darkness all around, even darkness which may be felt. This is an emblem of the state of those who are in Christ—they have light in their hearts, light in their habitations, light in Jesus Christ! O come to Him and find salvation now! May God bring any that have been in darkness into His marvelous light and bring them now and unto His name shall be praise forever and ever! Amen and amen.
-
 
 ---
 [[Sermon 1523 The Royal Prerogative|← #1523]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1525 The Lily Among Thorns|#1525 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # A Solemn Enquiry Concerning Our Families
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 601
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 20, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE NEWINGTON..
+*Delivered on Sunday Morning, November 20, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle Newington*
 
 > Genesis 19:12.
 
@@ -113,7 +112,7 @@ Ah, if they perish, we cannot say that we wept after them! Whitfield could say t
 
 IV. And now I shall not weary you, I trust, if I continue a little longer. It seems to me that our text FOSTERS A VERY CHEERING HOPE. It says, "Have you here any besides?," as much as if it would say, "Hope for them all. Why should they not all be brought out of Sodom? Why should one be left behind?" That was a grand saying of Moses when Pharaoh said, "Go, serve the Lord. Only let your flocks and your herds be stayed: let your little ones also go with you. And Moses said, You must give us also sacrifices and burnt offerings, that we may sacrifice unto the Lord our God. Our cattle also shall go with us. There shall not an hoof be left behind"—the smallest lamb, or the meanest goat—they shall all come out.
 
-So it is glorious when in strength of faith the father of the family can feel that he will give the Master no rest till they are all saved. Not leaving William out, nor omitting Mary. Not saying, "Well, thank God, I am blessed above the aver- age—the most of my children are converted and if one shall perish, I must bear with it as a cross." No! But saying in your soul with humble boldness—
+So it is glorious when in strength of faith the father of the family can feel that he will give the Master no rest till they are all saved. Not leaving William out, nor omitting Mary. Not saying, "Well, thank God, I am blessed above the aver-age—the most of my children are converted and if one shall perish, I must bear with it as a cross." No! But saying in your soul with humble boldness—
 
 "Lord, I will not let You go, Till a blessing You bestow upon every child of my loins, upon every brother and every sister and every relative." I say the text fosters a hope that you may yet see them all brought to Jesus!
 
@@ -136,7 +135,6 @@ Let me give you the nail and the hammer by preaching the sermon—but YOU—as a
 V. Alas, I must conclude! Conclude, too, with a very dark and gloomy thought. The text SUGGESTS A VERY SOLEMN FEAR, namely, that there may be some in our households who will not be saved. Ah, young men and women! Ah, you who are fathers of Christian children, but not converted yourselves! You who are godless daughters and unre-generate sons of Christian people—you are lost now and you may be lost forever! Lot's sons-in-law were consumed and why not you? Saved shall the Patriarch be, but not saved the Patriarch's son, except he shall flee out of Sodom!
 
 Beware! No kinship can save you! You may be allied to a race of saints, but, being yourself a sinner, your pedigree cannot save you. Unconverted souls, flee away, I pray you! And may God's Grace direct you to the Rock of Ages split for you. Hide yourself in the cracks there and let your soul find peace through Jesus the Savior. May God bless these feeble words of mine to every soul here, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0600 The Centurion—Or An Exhortation To The Virtuous|← #600]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0602 The Smoke Of Their Torments|#602 →]]

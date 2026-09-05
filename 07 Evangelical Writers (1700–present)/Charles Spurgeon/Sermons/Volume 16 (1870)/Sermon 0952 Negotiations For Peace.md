@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Negotiations For Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 952
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 18, 1870,.
+*Delivered on Lord's-Day Evening, September 18, 1870*
 
 > "Preaching peace by Jesus Christ; (He is Lord of all)." Acts 10:36.
 
@@ -190,7 +189,6 @@ Then take heed what you do, for as the Lord lives you shall answer for this in t
 I say, again, then—I come to you not to flatter and deceive you. I come not to plead with you as though my Lord and Master were on equal terms with you. He summons you to surrender! He bids you throw down your arms and accept His mercy. He is not afraid of your opposition. Neither does He need your friendship. It is His Grace which leads Him to invite you to peace. He condescends to treat you thus, whom He might have sent into Hell with one word of His lips years ago. If you refuse Him you shall answer for it. On your heads shall be your own blood, and in that day when Heaven and earth shall pass away like a scroll, you, without a shelter—you, without an Advocate—you, without an excuse, shall be banished from His Presence to endure the wrath of God.
 
 The Lord grant His mercy that not one of you may stand out against Him, but this night, before another sun rises, may there be peace established on a sure footing between you and God, for Christ is our peace. May you take Him and trust Him, and be reconciled to God. And to God shall be the glory forever and forever. Amen and Amen.
-
 
 ---
 [[Sermon 0951 The Unrivalled Eloquence Of Jesus|← #951]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0953 Done In A Day, But Wondered At Forever|#953 →]]

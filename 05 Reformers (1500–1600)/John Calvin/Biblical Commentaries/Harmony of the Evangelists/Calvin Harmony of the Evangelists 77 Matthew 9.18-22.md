@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 77. Matthew 9:18-22; Mark 5:22-34; Luke 8:40-48
-
-**MATTHEW 9:18-22; MARK 5:22-34; LUKE 8:40-48**
 
 **18**. While he was speaking these things to them, a certain ruler came, and worshipped him, [^1] saying, My daughter is now dead; but come and lay thy hand upon her, and she will live. **19**. And Jesus arose, and followed him, and likewise his disciples, **20**. And, lo, a woman, who had been afflicted with a bloody flux for twelve years came behind him, and touched the tuft of his cloak: **21**. For she said within herself, If I shall only touch his cloak, I shall be cured. **22**. But Jesus turned round, and, when he saw her, he said, Take courage, my daughter; thy faith hath cured thee. And the woman was cured from that time.
 

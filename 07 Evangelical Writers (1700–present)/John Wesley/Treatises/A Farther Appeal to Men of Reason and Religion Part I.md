@@ -9,14 +9,13 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # A Farther Appeal to Men of Reason and Religion, Part I
 
 Let the righteous smite me friendly and reprove me.*
 
 Psalms CXLI. 5.
 
-PART I.
+## Part I
 
 IN a former treatise I declared, in the plainest manner I could, both my principles and practice; and answered some of the most important, as well as the most common objections to each. But I have not yet delivered my own soul. I believe it is still incumbent upon me to answer other objections, particularly such as have been urged by those who are esteemed religious or reasonable men.
 

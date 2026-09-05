@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "Your First Love"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2399
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Go and cry in the ears of Jerusalem, saying, Thus says the LORD, 'I remember you, the kindness of your youth, the love of your espousals, when you went after Me in the wilderness, in a land that was not sown.'" Jeremiah 2:2.
 
@@ -61,7 +58,7 @@ Now, whatever you may have suffered in the days gone by, the Lord says, "I remem
 
 II. So now, secondly, I want to show you that GOD REMEMBERS, WITH A GRACIOUS PURPOSE, THE BEST
 
-THINGS OF OUR EARLY DAYS.
+## Things of Our Early Days
 
 He remembers them that He may make use of and honor us in our later days. There is many a man, now honored and beloved in the service of God, who would not have been where he is if he had not been faithful to God as a youth. And I believe that there is many a man who has missed his opportunity of serving God through not beginning well. Young man, I charge you, when you become a Christian, be out and out for Christ! Be true to your convictions through and through! Do not neglect the least thing that you see to be in the Scriptures, but determine to follow the Lord fully. If you do that, you will be the kind of man that God will use! There are plenty of young men who are pliant as the willow, they will bend to anything and anyone—and God says, "I can never make anything of them" and, though He saves them, He puts them in the background as far as His service is concerned.
 
@@ -107,7 +104,7 @@ That is the way to go to Heaven—in full sail, rejoicing in the blessed Spirit 
 
 So I commend these thoughts to you. Let our days be such that we may look back upon them with pleasure! And if they are not so, now, let us begin to look back upon them with repentance—and turn to God with full purpose of heart, for His dear Son's sake.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 2:1-25.
+## Exposition by C. H. Spurgeon: Jeremiah 2:1-25
 
 Verses 1-3. Moreover the word of the LORD came to me, saying, Go and cry in the ears of Jerusalem saying, Thus says the LORD, 'I remember you, the kindness of your youth, the love of your espousals, when you went after Me in the wilderness in a land that was not sown. Israel was holiness unto the LORD, and the first-fruits of His increase: all that devour him shall offend; evil shall come upon them, says the LORD.' God reminds His people of what they used to be in their first days, when they came out of Egypt. They had very sadly declined from what they then were. They were none too faithful to the Lord, then, but they had fallen back, even, from that condition! Does not this passage come home to some of you who are not, now, what you once were? May the Lord graciously speak through these words to your ears and to your heart, if you have backslidden from Him in any degree!
 
@@ -134,7 +131,6 @@ Verses 1-3. Moreover the word of the LORD came to me, saying, Go and cry in the 
 19-25. Your own wickedness shall correct you, and your backsliding shall reprove you: know therefore and see that it is an evil thing and bitter, that you have forsaken the LORD, your God, and that My fear is not in you, says the Lord GOD of hosts. For of old time I have broken your yoke, and burst your bands; and you said, I will not transgress; when upon every high hill and under every green tree you wander, playing the harlot. Yet I had planted you a noble vine, wholly a right seed: how, then, are you turned into the degenerate plant of a strange vine unto Me? For though you wash yourself with niter, and take you much soap, yet your iniquity is marked before Me, says the Lord God. How can you say, I am not polluted, I have not gone after Baalim? See your way in the valley, know what you have done: you are a swift dromedary traversing her ways; a wild donkey used to the wilderness, that snuffs up the wind at her pleasure: in her occasion who can turn her away? All they that seek her will not weary themselves. In her month they shall find her. Withhold your foot from being unshod, and your throat from thirst, but you said, There is no hope—no—for I have loved strangers, and after them will I go. God compares His erring people, in the delirium of their sin, to these wild creatures that cannot be tamed, but are driven by their ungovernable passions wherever they will. Alas, that men should be so sinful that God can only find a parallel to them in the wild donkeys of the wilderness!
 
 See, also, what despair will do for its victims. When a man says, "There is no hope," then he feels that for him there is no repentance. When he believes that God will not forgive him, then he will not turn from his evil ways. "You said, There is no hope, no, for I have loved strangers, and after them will I go." God save any here present who are getting into the clutches of Giant Despair! May they know the true goodness of God and may that goodness lead them to repentance! Amen.
-
 
 ---
 [[Sermon 2398 Mediation of Moses|← #2398]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2400 Number 2400—or, Escape for Your Life!|#2400 →]]

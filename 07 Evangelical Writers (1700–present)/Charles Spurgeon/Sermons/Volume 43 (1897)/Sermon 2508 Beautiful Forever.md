@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # "Beautiful Forever"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2508
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He will beautify the meek with salivation." Psalm 149:4.
 
@@ -83,7 +80,7 @@ I feel sure, too, that this meekness makes a Christian attractive. Your high and
 
 The Lord beautify us thus with salvation and great good will come of it. May the Lord grant to some of you, who are not meek, but the very reverse, that you may come under the touch of His renewing Spirit and be born again! Then will you be capable of becoming truly meek—and then will God beautify you with His salvation through Jesus Christ our Lord. Amen.
 
-EXPOSITIONS BY C. H. SURGEON: PSALM 149; MATTHEW 5:1-12.
+## Expositions by C. H. Surgeon: Psalm 149; Matthew 5:1-12
 
 Psalm 149:1. Praise you the Lord. This is a Hallelujah Psalm. It begins with, "Praise you the Lord," and finishes in the same way. It is a complete circle of praise. The long streams of the Psalms end in glorious cascades of hallelujahs. One after another these jubilant notes roll out, as in Handel's magnificent Hallelujah Chorus.
 
@@ -132,7 +129,6 @@ Matthew 5:1. And seeing the multitudes, He went up into a mountain: and when He 
 10, 11. Blessed are they which are persecuted for righteousness' sake: for their's is the Kingdom of Heaven. Blessed are you, when men shall revile you, andpersecute you, and shall say all manner of evil against you falsely, for My sake. It is not when men truthfully speak evil concerning you, but when they say it falsely. Not when they say evil against you because of your ill temper which provokes them, but when they do it falsely, for Christ's sake, then, "blessed are you."
 
 12\. Rejoice, and be exceedingly glad: for great is your rewardin Heaven: for so persecuted they the Prophets which were before you. And you are treading in their steps, so you are entering into their heritage. You have your beginning with them and, 'you shall have your end with them. If persecuted with them, you shall also reign with them.
-
 
 ---
 [[Sermon 2507 He Ran, and He Ran|← #2507]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2509 The Sinful Made Sinless|#2509 →]]

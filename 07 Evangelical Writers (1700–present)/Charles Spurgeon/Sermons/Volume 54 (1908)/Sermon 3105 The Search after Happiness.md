@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Search after Happiness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3105
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There aire many who say, Who will show us any good? LORD, lift up the light of Your Countenance upon us." Psalm 4:6.
 
@@ -89,7 +86,7 @@ been, they are not so great as His love! The file of my backsliding shall not be
 
 "Turn, then, my Soul, unto your rest. The merits of your great High Priest Have bought your liberty— Trust in His efficacious blood, Nor fear your banishment from God, Since Jesus died for thee."
 
-EXPOSITION BY C. H. SPURGEON: PSALM 66; ROMANS 8:1-9.
+## Exposition by C. H. Spurgeon: Psalm 66; Romans 8:1-9
 
 PSALM 66:1, 2. Make a joyful noise unto God all you lands: sing forth the honor of His name! Make His praise glorious. In a company of advanced saints, silence may be sometimes profitable. The first verse of the previous Psalm should read, according to the Hebrew, "Praise is silent for You, O God, in Zion." Full-grown saints may have their times of waiting in silence before the Lord, but when the heathen are to be brought in—and when new hearts are to be taught new songs—then there must be a noise! And not merely a noise, but a noise that is full of joy—"Make a joyful noise unto God all you lands." This should be the chief point about it, that it should be a joyful noise. Many of the newly invented tunes which have put the good old tunes out of favor appear to have been made to rattle through the hymn as quickly as possible, as though the composer had written, "Let us praise God at express speed and get it done. And the quicker, the better." But I prefer those tunes in which we can sometimes repeat the words and roll them under the tongue until our heart gets thoroughly saturated with the spirit of them.
 
@@ -166,7 +163,6 @@ Rowland Hill uses a very singular and odd metaphor in his " Village Dialogues." 
 9\. But you are not in the flesh, but in the Spirit, if so be that the Spirit of God dwells in you. Nowif any man has not the Spirit of Christ, he is none of His. O Beloved, we have need, each of us, to put ourselves in this scale! Come, Preacher, be not too sure of your own salvation. Come, Church Member, do not be too certain of your own regeneration. Come, Christian, put yourself in this scale—"If any man has not the Spirit of Christ, he is none of His." If he has not the Holy Spirit really dwelling in him, guiding him, directing him, teaching him, comforting him, supporting him—he is none of Christ's! And if we do not exhibit the Spirit of Christ in our character—if we have not gentleness, meekness, purity, holiness, benevolence— we are none of Christ's! Ah, this will take some of your flimsy Christians to pieces! Half of your professors, we fear, will at the last be found not to have had "the Spirit of Christ."
 
 It is one thing to profess religion, Beloved—it is quite another thing to possess vital godliness. We may sit down at the Communion Table, but oh, if we never had the Spirit of Christ, we "are none of His." We may plead our own goodness before the Throne of God at the last, but Jesus Christ will say, "You have not My Spirit. You are none of Mine." And then, however much we may have striven to serve God, unless we have the Spirit of Christ, there shall be nothing for us but the fearful curse, "Depart! Depart! Depart!" "O come, let us worship and bow down: let us kneel before the Lord our Maker." Let us ask Him for His Spirit! Let us plead with Him for His Grace and though some of you have never had it, yet if you now ask for it, our God is a gracious God, full of mercy and pity—whoever calls upon His name shall be saved! And though the chief of sinners, if you sincerely ask for pardon and for Grace, you shall receive it at His hands. The Lord help you so to pray, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3104 Binding Up Broken Hearts|← #3104]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3106 Freedom Through Christ's Blood|#3106 →]]

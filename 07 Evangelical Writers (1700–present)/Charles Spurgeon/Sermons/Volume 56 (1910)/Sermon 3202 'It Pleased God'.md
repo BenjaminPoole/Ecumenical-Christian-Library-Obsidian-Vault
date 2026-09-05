@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'It Pleased God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3202
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It pleased God." Galatians 1:15.
 
@@ -77,7 +74,7 @@ Then, next, we have here A SUGGESTION FOR HOPE. If it pleased God to save Saul o
 
 And then, last of all, our text is A MOTIVE FOR HOLINESS AND ZEAL. If "it pleased God" and, therefore, He saved me when there was no reason in me why I should be saved. If He loved me when I was filthy—now that I have been washed I would be filthy no more—and in holiness I will seek to show my gratitude to Him! If He loved me when I was dead, now that He has made me alive I will not be lifeless and cold, but full of zeal and fire for Him! I do not know how to press this last point unless I get back to the one I was urging upon you just now. If you feel that God has willed that you should be saved and that God wills that you should be the means of saving others—that God wills that you should become a spiritual father or mother in Israel—then I know that your heart will boil over with holy zeal and that you will go forth as a conqueror who has the certainty of victory already in his heart! God shall be with you and you shall go on conquering and to conquer! The Lord add His blessing for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS 1:11-24; 2.
+## Exposition by C. H. Spurgeon: Galatians 1:11-24; 2
 
 Galatians 1:11-17. But I make known to you, brethren, that the Gospel that was preached by me is not after man. For Ineither received it from man, neither was I taught it but by the Revelation of Jesus Christ For you have heard of my conversation in timepast in the Jews 'religion, how that beyond measure Ipersecuted the Church of God, and wasted it: and profited in the Jews 'religion above many my equals in my own nation, being more exceedingly jealous of the traditions of my fathers. But when it pleased God, who separated me from my mother's womb, and called me by His Grace, to reveal His Son in me, that I might preach Him among the heathen; immediately I conferred not with flesh and blood: neither went I up to Jerusalem to them who were Apostles before me; but I went up to Arabia, and returned again unto Damascus.Paul was intensely desirous that the Galatian Christians should understand that he was no mere repeater of other men's doctrines, but that what he taught he had received directly from God by supernatural Revelation. They knew that he had been a most determined opposer of the Gospel. Indeed, he was a man of such great determination that whatever he did, he did with all his might! So, no sooner did God reveal Christ to him, so that he knew Jesus to be the Messiah, than he earnestly sought to learn yet more of the Truth of God, not by going up to the Apostles at Jerusalem, to borrow from them, but by getting alone in the waste places of Arabia! There, by thought and meditation upon the Word, and by communion with God, to learn yet more concerning the Divine mysteries.
 
@@ -104,7 +101,6 @@ was a famine in Judaea, was to make a collection for the saints in other places,
 18, 19. For I build again the things which I destroyed, I make myself a transgressor. For I through the Law am dead to the Law, that I might live unto God. "Through my sight of the Law, which I have seen to be so stern that all it can do is to condemn me for my shortcomings, I am driven away from it and led to come and live in Christ Jesus under the rule of Grace—not under the law of Moses."
 
 20, 21. I am crucified with Christ: nevertheless Ilive; yet not I, but Christ lives in me: and the life which Inow live in the flesh Ilive by the faith of the Son of God, who loved me, and gave Himself for me. I do not frustrate the Grace of God: for if righteousness comes by the Law, then Christ is dead in vain.
-
 
 ---
 [[Sermon 3201 Mercy for the Meanest of the Flock|← #3201]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3203 Christ Made Sin|#3203 →]]

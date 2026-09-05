@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 6. Did God then create man so wicked and perverse?
-
-**Question 6. Did God then create man so wicked and perverse?**
 
 Answer. By no means; but God created man good, and after his own image, in righteousness and true holiness, that he might rightly know God, his Creator heartily love him, and live with him in eternal happiness, to glorify him and praise him.
 
-**EXPOSITION**
+## **Exposition**
 
 Having established the proposition that human nature is depraved, or sinful, we must now enquire, did God create man thus? and if not, with what nature did he create him? and whence does this depravity of human nature proceed? The subject of the creation of man, therefore, and of the image of God in man, belongs properly to this place.
 
@@ -30,7 +27,7 @@ I. What was the state or condition in which God originally created man?
 
 II. For what end did he create him?
 
-**I. WHAT WAS THE STATE IN WHICH GOD ORIGINALLY CREATED MAN?**
+## **I. What Was the State in Which God Originally Created Man?**
 
 This question is proposed almost for the same reasons for which the whole subject itself is considered, viz.: That it may be manifest, in the first place, that God created man without sin, and is therefore not the author of sin, or of our corruption and misery. 2. That we may see from what a height of dignity, to what a depth of misery we have fallen by sin, that we may thus acknowledge the mercy of God, who has deigned to extricate and deliver us from this wretchedness. 3. That we may acknowledge the greatness of the benefits which we have received, and our unworthiness of being made the recipients of such favors. 4. That we may the more earnestly desire, and seek in Christ, the recovery of that dignity and happiness which we have lost. 5. That we may be thankful to God for this restoration.
 
@@ -38,7 +35,7 @@ As touching the state and condition in which God originally created man, we are 
 
 Man was created by God on the sixth day of the creation of the world. His body was made of the dust of the ground, immortal if he continued in righteousness, but mortal if he fell; for mortality followed sin as a punishment. His soul was made out of nothing. It was immediately breathed into him by the Almighty. It was, therefore, rational, spiritual, and immortal. "And God breathed into his nostrils the breath of life, and man became a living soul." (Gen. 2:7.) He created, and united the soul and the body, so as to constitute, by this union, one person, performing such internal and external functions and actions as are peculiar to human nature, and which are just, holy, and pleasing to God. Man was also created in the image of God; by which we mean that he was created perfectly good, wise, just, holy, happy, and lord of all other creatures. Concerning this image of God, in which man was at first created, more will be said a little further on.
 
-**II. FOR WHAT END DID GOD CREATE MAN?**
+## **II. For What End DID God Create Man?**
 
 To this the catechism answers: "That he might rightly know God his Creator, heartily love him, and live with him in eternal happiness, to glorify and praise him." The glory of God is, therefore, the chief and ultimate end for which man was created. It was for this purpose that God created rational and intelligent beings, such as angels and men, that knowing him, they might praise him forever. Hence, man was created principally for the glory of God; that is, for professing and calling upon his holy name, for praise and thanksgiving, for love and obedience, which consists in a proper discharge of the duties which we owe to God and our fellowmen. For the glory of God comprehends all these things.
 
@@ -66,7 +63,7 @@ II. To what extent is it lost, and what remains in man?
 
 III. How may it be restored?
 
-**I. WHAT IS IT, AND WHAT ARE THE PARTS THEREOF?**
+## **I. What Is It, and What Are the Parts Thereof?**
 
 The image of God in man, is a mind rightly knowing the nature, will, and works of God; a will freely obeying God; and a correspondence of all the inclinations, desires, and actions, with the divine will; in a word, it is the spiritual and immortal nature of the soul, and the purity and integrity of the whole man; a perfect blessedness and joy, together with the dignity and majesty of man, in which he excels and rules over all other creatures.
 
@@ -78,7 +75,7 @@ When Christ, however, is called the image of God, it is in a far different sense
 
 But angels and men are said to be the image of God, as well in respect to the Son and Holy Ghost, as in respect to the Father, where it is said, "Let us make man in our image, after our likeness." (Gen. 1:26.) This is not to be understood, however, of any likeness or equality of essence, but merely of certain properties which have a resemblance to the Godhead, not in degree or essence, but in kind and imitation; for there are some things in angels and men which bear a certain analogy and correspondence with what we find in God, who comprehends, in himself, all that is truly good. Those things, on the other hand, concerning the image of God in man, which were formerly discussed, and denied by the Anthropomorphites, and recently by Osiander, may be found in Ursini Vol. I. pages 154, 155.
 
-**II. TO WHAT EXTENT IS IT LOST, AND WHAT REMAINS IN MAN?**
+## **II. To What Extent Is It Lost, and What Remains in Man?**
 
 Such, now, was the image of God in which man was originally created, and which was apparent in him before the fall. But after the fall, man lost this glorious image of God, on account of sin, and became transformed into the hateful image of satan. There were, however, some remains and sparks of the image of God still left in man, after his fall, and which even yet continue in those who are unregenerated, of which we may mention the following: 1. The incorporeal, rational, and immortal substance of the soul, together with its powers, of which we would merely make mention of the liberty of the will, so that whatever man wills, he wills freely 2. There are, in the understanding, many notions and conceptions of God, of nature, and of, the distinction which exists between things proper and improper, which constitute the principles of the arts and sciences. 3. There are some traces and remains of moral virtues, and some ability of regulating the external deportment of the life. 4. The enjoyment of many temporal blessings. 5. A certain dominion over other creatures. Man did not wholly lose his dominion over the various creatures which were put in subjection to him; for many of them still remain subject to him, so that he has the power of governing and using them for benefit. These vestiges and remains of the image of God in man, although they are greatly obscured and marred by sin, are nevertheless, still preserved in us to a certain extent; and that for these ends: 1. That they may be a testimony of the mercy and goodness of God towards us, unworthy as we are. 2. That God may make use of them in restoring his image in us. 3. That the wicked may be without excuse.
 
@@ -86,7 +83,7 @@ But those things which we have lost of the image of God are by far the greatest 
 
 Obj. The heathen were distinguished for many virtues, and performed works of great renown. Therefore it would seem that the image of God was not destroyed in them. Ans. The excellent virtues and deeds of renown, which are found among heathen nations, belong, indeed, to the vestiges or remains of the image of God, still preserved in the nature of man; but there is so much wanting, to constitute that true and perfect image of God, which was at first apparent in man, that these virtues are only certain shadows of external propriety, without the obedience of the heart to God, whom they neither know nor worship. Therefore, these works do not please God, since they do not proceed from a proper knowledge of him, and are not done with the intention of glorifying him.
 
-**III. HOW THE IMAGE OF GOD MAY BE RESTORED IN US**
+## **III. How the Image of God May Be Restored in Us**
 
 The restoration of this image of God in man, is effected by him alone, who first conferred it upon man; for he who gives life, and restores it when lost, is the same being. God the Father, restores this image through the Son; because he has "made him unto us wisdom, righteousness, sanctification, and redemption." (1 Cor. 1:30.) The Son, through the Holy Spirit, "changes us into the same image, from glory unto glory, as by the Spirit of the Lord." (2 Cor. 3:18.) And the Holy Ghost carries forward and completes what is begun by the Word, and the use of the Sacraments. "The gospel is the power of God unto salvation." (Rom. 1:16.) This restoration, however, of the image of God in man, is effected in such a manner, that it is only begun, in this life, in such as believe, and is confirmed and carried forward in them, even to the end of life, as it concerns the soul—but as it concerns the whole man, it will be consummated in the resurrection of the body. We are, therefore, to consider who is the author, and what is the order, and manner in which this restoration is effected?
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Jesus Appearing To Mary Magdalene
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 625
 
-DELIVERED ON SUNDAY MORNING, APRIL 16, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 16, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Now when Jesus was risen early the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven devils.'" Mark 16:9.
 
@@ -49,7 +48,7 @@ Let us learn from this, that the greatness of our sin before conversion should n
 
 If you come to Christ, if the seven devils are cast out of you, all these things shall never be mentioned against you! No, but you shall stand on a par with those who were preserved by Providence and restraining Grace from going into gross sins. When the prodigal came back he was not told that he might eat his father's bread, but it must be in the kitchen. He was not told that he might sit at the table, but it must be at the far end, below the salt. No, he sits at the table as the most honored guest and his father feasts with him as if he had never gone astray! So is it forevermore with my God, to the chief of sinners.
 
-You shall not be permitted to eat the crumbs that fall from the table, but the daintiest viands shall be yours! Yes, and if you wish it and will press forward and seek it, you shall have Benjamin's mess—you shall have more than others. Oh, though you have been black and vile, He can make you so white and fair that He will not blush to treat you as the man in the parable did his little ewe lamb. You shall drink of His cup and sleep in His bosom and be very, very dear to Him, sin- ner though you have been. This seems to be upon the very surface of the text, that Mary Magdalene was selected to be the first to see the Savior because she was a woman—a woman out of whom seven devils had been cast—a type of a great sinner.
+You shall not be permitted to eat the crumbs that fall from the table, but the daintiest viands shall be yours! Yes, and if you wish it and will press forward and seek it, you shall have Benjamin's mess—you shall have more than others. Oh, though you have been black and vile, He can make you so white and fair that He will not blush to treat you as the man in the parable did his little ewe lamb. You shall drink of His cup and sleep in His bosom and be very, very dear to Him, sin-ner though you have been. This seems to be upon the very surface of the text, that Mary Magdalene was selected to be the first to see the Savior because she was a woman—a woman out of whom seven devils had been cast—a type of a great sinner.
 
 Again, she was a woman in whom mighty Grace had proved its power. It is a well known fact that devils never went out of men willingly in the Savior's day. They had always to be cast out. You find them foaming at the mouth as soon as Christ is seen and when He says, "I command you to come out of him," the devil tears the man, rolls him in the dust and subjects him to unusual spasms of pain and agony before he will depart. Thus seven devils had been driven out of Mary— forced out of her. Mary was no free-willer. Her deliverance was achieved by irresistible, eternal, sovereign Grace. And surely those are privileged to see most of Christ who know that their salvation is not of man, neither by man, but by the will and power of the gracious God alone!
 
@@ -63,7 +62,7 @@ I like the thought of her being with the Savior. How much she must have seen! Sh
 
 One would think her friends must have been exceedingly glad to have her under the teaching of our Lord. And so long as they knew that she was in health with the Savior, they probably thought her to be in the place most fitting for her, as mad people are supposed to be most fitly attended when they are accompanied by their keeper or their physician. Having been a demoniac, she was happily freed from all household ties and bonds. And now what if I say that Christ was her father, her brother, her husband, her friend, her children, her everything? He was her family and there was she, daily with Him.
 
-We read that when Christ preached a certain Truth, "many of His disciples went back and walked no more with Him." Not so the Magdalene. Let Him preach whatever He might, the woman of Magdala still hung upon His lips. To her, every word was honey, every syllable was a pearl. She treasured all, she fed upon all—she abided with Jesus. O dear Friends, I wish we could get into this position—when our calling should be to serve Christ and when our place should be always with Christ. I do not wonder that Christ appeared first to her when I recollect that Christ had so long been her first, her chief delight. She had nothing in the world but Christ. It strikes me that very likely her being a demoniac had so separated her from all human sympathy that there were none that loved her, none that cared for her except the disci- ples and the society she had found through being a follower of Christ. And Jesus, pitying her, would not send her away as He did the most of those whom He cured.
+We read that when Christ preached a certain Truth, "many of His disciples went back and walked no more with Him." Not so the Magdalene. Let Him preach whatever He might, the woman of Magdala still hung upon His lips. To her, every word was honey, every syllable was a pearl. She treasured all, she fed upon all—she abided with Jesus. O dear Friends, I wish we could get into this position—when our calling should be to serve Christ and when our place should be always with Christ. I do not wonder that Christ appeared first to her when I recollect that Christ had so long been her first, her chief delight. She had nothing in the world but Christ. It strikes me that very likely her being a demoniac had so separated her from all human sympathy that there were none that loved her, none that cared for her except the disciples and the society she had found through being a follower of Christ. And Jesus, pitying her, would not send her away as He did the most of those whom He cured.
 
 One thing we must not pass over—she spent her substance in relieving His needs. The bag was not often full, while Judas had the keeping of it. And while there were so many poor and Christ had such a tender heart, I will be bound to say that no surplus was ever allowed to mold there. But this woman and the other Marys took care that it should never be quite empty and that there should be something for the Savior when He needed it. She was not the woman who broke the alabaster box of precious ointment over Christ's head, but her whole life long her constant income was her alabaster box and she spent what she had in ministering to the needs of her Lord.
 
@@ -138,7 +137,6 @@ Finally, if there are any enquirers here, as I hope there are—if you are seeki
 Take Jesus to be your Lord—He deserves it. You are not your own, but you are bought with a price. Give yourself, as a blood-bought one, up to Him. He asks you as He asks Mary, "Woman, why do you weep?" He asks of each of you who are seeking Him, "whom do you seek?" Do you know what it is you seek? Do you seek some strange feeling? Do you seek signs and wonders, dreams and visions? Seek them no longer! Jesus is what you want! Take Him and be blest. There, close at your side, is the food your hungry spirit wants—look not up to Heaven—look not down to earth! There is in Jesus all you need!
 
 Feed on, Beloved—faith shall fill your mouth. Love shall enjoy the sweet dainty and your whole body, soul and spirit shall be sanctified by the Divine repast. May God bless you, dear Friends, all of you, by giving you, like Mary Magdalene, to seek the Lord.
-
 
 ---
 [[Sermon 0624 Present Privilege And Future Favor|← #624]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0626 The Waterer Watered|#626 →]]

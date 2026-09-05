@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Voice Behind Thee
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1672
@@ -101,8 +100,7 @@ Now he enquires, ‘Which is my way? Speak, sweet voice; speak, sweet voice; tel
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Isaiah 30.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’909, 496, 497.
-
+## Hymns from ‘Our Own Hymn Book’909, 496, 497
 
 ---
 [[Sermon 1671 The Value and Rank of the Believer|← #1671]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1673 Who Is This|#1673 →]]

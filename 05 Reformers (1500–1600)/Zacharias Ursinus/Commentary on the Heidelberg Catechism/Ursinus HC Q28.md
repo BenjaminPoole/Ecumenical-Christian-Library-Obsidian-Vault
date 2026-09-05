@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 28. What advantage is it to us to know that God has created, and his providence doth still uphold all things?
-
-**Question 28. What advantage is it to us to know that God has created, and his providence doth still uphold all things?**
 
 Answer. That we may be patient in adversity; thankful in prosperity; and that in all things which may hereafter befal us, we place our firm trust in our faithful God and father, that nothing shall separate us from his love; since all creatures are so in hand, that without his will they cannot so much as move.
 
-**EXPOSITION**
+## **Exposition**
 
 It is necessary that the doctrine of the creation of all things, and of the providence of God should be known, and held:
 
@@ -28,7 +25,7 @@ It is necessary that the doctrine of the creation of all things, and of the prov
 
 From these things it appears that the whole truth of religion, and the very foundation of piety would be overthrown if the providence of God, as it has been defined and explained, be not maintained: Because, 1. We would not be patient in adversity if we did not know that these things are sent upon us from God our Father. 2. We would not be grateful for the benefits which we receive if we did not know that they are given to us from above. 3. We would not have a good and certain hope in relation to future things if we were not fully persuaded that the will of God, in regard to our salvation, and that of all his people, is unchangeable.
 
-**ELEVENTH LORD'S DAY**
+## **Eleventh Lord's Day**
 
 ---
 [[Ursinus HC Q27|← Question 27. What dost thou mean by the prov]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q29|Question 29. Why is the Son of God called Je →]]

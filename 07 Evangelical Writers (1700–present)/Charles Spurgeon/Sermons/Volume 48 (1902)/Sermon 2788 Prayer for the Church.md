@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Prayer for the Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2788
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Cause Your face to shine upon Your sanctuary." Daniel 9:17.
 
@@ -111,7 +108,7 @@ Christ. But what use are you, Brother, in that body? What are you doing, Sister,
 
 But when we have done all that we can, let us pray much more than we ever have done. Oh, for a praying Church! I rejoice that ever since I have been with you, the spirit of prayer has never died out among us and I earnestly entreat you never to let it do so. May our Prayer Meetings be sustained in fervor and increased in number! Praying is, after all, the chief matter. Praying is the end of preaching! Preaching has its right use, and must never be neglected, but real heart devotion is worth more than anything else. Prayer is the power which brings God's blessing down upon all our work. I beg you, day by day, as you walk the streets, to have this petition in your hearts and in your mouths, "'Cause Your face to shine upon Your sanctuary.' O God, bless Your Church all over the world—in Europe, in America, in Asia, in Africa, in Australia! Everywhere prosper Your work among the heathen, and in our own highly-favored land, too, cause Your face to shine upon Your sanctuary.'" And do not cease to present that prayer until, to the fullest possible extent, it shall be answered. And when will that be? When He comes, for whose coming we look with joyful expectation! The Lord blesses you for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 114; 48.
+## Exposition by C. H. Spurgeon: Psalms 114; 48
 
 Psalm 114. When Israel went out of Egypt, the house of Jacob from a people of strange language; Judah was his sanctuary, and Israel his dominion. The sea saw it, and fled: Jordan was driven back. The mountains skipped like rams, and the little hills like lambs. What ailed you, O you sea, that you fled? You Jordan, that you were driven back? You mountains, that you skipped like rams; and you little hills, like lambs? Tremble, you earth, at the Presence of the Lord, at the Presence of the God of Jacob; who turned the rock into a standing water, the flint into a fountain of waters.
 
@@ -132,7 +129,6 @@ Psalm 48:1-3. Great is the LORD, and greatly to be praised in the city of our Go
 4-7. They passed by together. They saw it, and so they marveled; they were troubled, and hasted away. Fear took hold upon them there, and pain, as of a woman in travail. You broke the ships of Tarshish with an east wind. The adversaries of Zion looked up at the city set on that high hill and they despaired of being able to capture it. And, in like manner, those who attack the Truth of God as it is in Jesus—if they did but know how well it is garrisoned by the Omnipotence of Jehovah, they, also, would faint with fear and give up the assault. If they do not, the Lord can break them in pieces as He broke the ships of Tarshish with His strong east wind.
 
 8-14. As we have heard, so have we seen in the city of the LORD ofHosts, in the city of our God: God will establish it forever. Selah. We have thought of Your loving kindness, O God, in the midst of Your Temple. According to Your name, O God, so is Your praise unto the ends of the earth: Your right hand is full of righteousness. Let Mount Zion rejoice, let the daughters of Judah be glad because of Your judgments. Walk about Zion, and go round about her: tell the towers thereof. Mark you well her bulwarks, consider her palaces; that you may tell it to the generation following. For this God is our God forever and ever: He will be our Guide even unto death. According to Alexander and Bonar, this last clause should be read, "He will be our Guide at death and over death." He will lead us across the Jordan, and be our God and our Guide in the land that flows with milk and honey, wherever we are bound. So, glory be unto the God of Abraham—Father, Son, and Holy Spirit, forever and ever! Amen.
-
 
 ---
 [[Sermon 2787 Christ's Triple Character|← #2787]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2789 Perfect Justification and Perfect Pardon|#2789 →]]

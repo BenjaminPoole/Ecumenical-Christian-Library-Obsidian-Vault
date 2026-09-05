@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # If So—what Then?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3047
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If the righteous are scarcely saved, where shall the ungodly and the sinner appear?" 1 Peter 4:18.
 
@@ -148,7 +145,6 @@ Verses 1, 2. Again the word of the LORD of Hosts came to me, saying, Thus says t
 20, 21. Thus says the LORD of Hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities: and the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of Hosts: I will go also. You see that in the latter days there is to be a great spirit of prayer and of seeking the Lord. This will include the hearing of the Word and the love of the Truths of God. And one good sign is that the people will say, "Let us go speedily." They will not come in late, as so many do nowadays, just getting into their seats when the Scripture is being read, instead of being present at the opening prayer. I am sorry to say that some of you are getting later and later—and some morning I shall most certainly carry out my threat, and preach the sermon first unless you are more punctual! A little more thought and a little sooner start and you might all be at God's House on time. David longed to be a doorkeeper in the Lord's house and you know that the doorkeeper is always the first in and the last out. May you all have more of David's spirit, though you cannot all be doorkeepers! These people are to say, "Let us go speedily (the marginal reading is 'continually') to pray before the Lord and to seek the Lord of Hosts: I will go also." That is the best way of bringing others to God's House—to say, "I will go also." I have read that Julius Caesar never said to his soldiers, "Go," but, "Let us go." So should we seek to get others to God's House by saying to them, "Let us go...I will go also."
 
 22, 23. Yes, many people and strong nations shall come to seek the LORD ofHosts in Jerusalem, and to pray before the LORD. Thus says the LORD ofHosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you. In the latter days, the Jews, who are still despised, oppressed and persecuted in many countries, shall be so highly honored by God that men of other nationalities will want to be in their company! But, no doubt, there is here a special reference to Jesus, the Jew, the Son of God who became the Son of Mary, too. Oh that this very day many Jews and Gentiles may take hold of His skirt by a living faith and so may receive blessing from Him and be saved in the Lord with an everlasting salvation!
-
 
 ---
 [[Sermon 3046 One of the Master's Choice Sayings|← #3046]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3048 The Holy Spirit in the Covenant|#3048 →]]

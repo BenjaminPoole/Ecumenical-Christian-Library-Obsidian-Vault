@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 2
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**REFRESHING SLEEP**
+## **Refreshing Sleep**
 
 > So he giveth his beloved sleep" Ps. 127:2
 
@@ -31,7 +30,6 @@ I lay me down to rest,
 As in the embraces of my God,
 
 Or on my Saviour's breast.
-
 
 ---
 [[FCB July 1|← July 1]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 3|July 3 →]]

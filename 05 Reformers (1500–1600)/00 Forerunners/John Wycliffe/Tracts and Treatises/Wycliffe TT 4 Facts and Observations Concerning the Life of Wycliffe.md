@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 4. Facts and Observations Concerning the Life of Wycliffe, Part 3
 
 This bold and admirable production appears to have made the kind of impression on the parliament which it was designed to produce. In a petition to the king, the members of the
@@ -83,7 +82,7 @@ XCiv FACTS AND 0BSEBVAT10N8 complexion of his temper — the turn of his convers
 
 « Le Bas, Life of Wiclif, 294, 295.
 
-ON THE WBITINGS OF WYCLIFFE
+## On the Wbitings of Wycliffe
 
 ---
 [[Wycliffe TT 3 Facts and Observations Concerning the Life of Wycliffe|← 3. Facts and Observations Concerning the]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 5 On the Writings of Wycliffe Still in Manuscript, Part 1|5. On the Writings of Wycliffe Still in →]]

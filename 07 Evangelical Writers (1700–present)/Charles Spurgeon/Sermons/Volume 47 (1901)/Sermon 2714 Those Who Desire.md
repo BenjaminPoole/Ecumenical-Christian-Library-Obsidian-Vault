@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Those Who Desire
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2714
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Lord, I beseech You, let now Your ear be attentive to the prayer of Your servant, and to the prayer of Your servants, who desire to fear Your name." Nehemiah 1:11.
 
@@ -115,7 +112,7 @@ O yes, we delight to fear God! Our misery is that we cannot fear Him as we would
 
 Thus I have shown you that this description comprehends all ranges and grades of Grace. God grant that we may all come in under the description, and may we then take care to present our prayers with those of all who fear God's name. Be at the Prayer Meetings whenever you can and I beg you to pray at home, and to join the people of God wherever prayer is offered, even though some of you, at present, only desire to fear His name. And may the Lord bless you all, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: NEHEJMAH1.
+## Exposition by C. H. Spurgeon: Nehejmah 1
 
 Verses 1, 2. The words of Nehemiah the son of Hachaliah. And it came to pass in the month, Chislev, in the twentieth year, as I was in Shushan, the palace, that Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem. Nehemiah was in a high office in Shushan, the palace of King Artaxerxes, but his heart was at Jerusalem. He therefore remembered the very date, "in the month Chislev," when some of his brethren came from Judah to visit him, for he was more interested in their coming than in any transaction of the court in which he was, for a while, employed. Observe the subject of this good man's conversation—"I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem." Whenever Christian people meet together, they ought to make the subject of their mutual discourse an enquiry as to the progress of the Kingdom of God in the place where they respectively dwell. If you have come up from the country, we want you to tell us about the work of God in your village, or in the town to which you reside— are there many conversions there? We also will tell you about the work in London. Thus should Christian brethren commune with one another and ask concerning Christ's Kingdom among men, and the progress that His Gospel is making.
 
@@ -132,7 +129,6 @@ Character as well as His mercifulness. He evidently had right views of God. Some
 10-11. Now these are Your servants and Yourpeople, whom You have redeemed by Your great power, and by Your strong hand. O Lord, I beseech You, let now Your ear be attentive to the prayer of Your servant, and to the prayer of Your servants, who desire to fear Your name. And prosper, I pray You, Your servant this day, and grant him mercy in the sight of this man. That is, in the sight of King Artaxerxes to whom he was about to speak.
 
 11\. For I was the king's cupbearer. He counts this as a high privilege, that he would be able to speak for his people to the great king who would give him the opportunity to go and rebuild the walls of Jerusalem.
-
 
 ---
 [[Sermon 2713 Walking in the Light of the Lord|← #2713]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2715 Christian Resignation|#2715 →]]

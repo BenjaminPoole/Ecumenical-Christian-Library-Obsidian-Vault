@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Barriers Obliterated
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2847
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins; return unto Me; for I have redeemed you." Isaiah 44:22.
 
@@ -99,7 +96,7 @@ Ah, young man, you did not think of this when you came in to this service? You s
 
 Perhaps you remember how Colonel Gardiner, on the very night when he had made a sinful appointment, was convicted of sin, brought to the Savior and became one of the most earnest followers of the Lord Jesus Christ. My dear Lord, with His sorrowful Countenance, looks into the faces of some of you. I do not know who it may be, but He does and, lifting up His pierced hand, He lays it upon one here, and another there, and He says, "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins: return unto Me; for I have redeemed you." The Lord bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 43:21-25; 44:1-23.
+## Exposition by C. H. Spurgeon: Isaiah 43:21-25; 44:1-23
 
 Isaiah 43:21. This people—That is, God's own people. "This people."—
 
@@ -136,7 +133,6 @@ we see that these idol gods grow first in the woods and then, afterwards, they n
 21, 22. Remember these, O Jacob and Israel; for you are My servant: I have formed you, you are My servant: O Israel, you shall not be forgotten of Me. I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins: return unto Me; for I have redeemed you. Out of all the world, God had a chosen people, His own Israel, to whom He revealed Himself—but they also turned aside to idols, yet here He bids them return to Him. Even to this day they bravely bear their protest against idols. I would to God that they also knew the Christ of God and worshipped Him. All Believers are the true Israel after the spirit and are to maintain forever the Glory of the one only living and true God.
 
 23\. Sing, O you heavens; for the LORD has done it: shout, you lower parts of the earth: break forth into singing, you mountains, O forest, and every tree therein: for the LORD has redeemed Jacob, and glorified Himself in Israel
-
 
 ---
 [[Sermon 2846 'No Root in Themselves'|← #2846]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2848 Theocracy|#2848 →]]

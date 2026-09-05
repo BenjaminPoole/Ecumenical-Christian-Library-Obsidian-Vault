@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Faith Tried and Triumphing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3265
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Though He slays me, yet will I trust in Him." Job 13:15.
 
@@ -115,7 +112,7 @@ Now, in closing I would observe that if we say the text, it will take a good dea
 
 But beware, above all things, of religious boasting! Remember that God does not care for our words—it is the heart, it is the reality and truth of what we say—not the verbiage—that commends us to Him. Many a man says very boldly, "Though God should slays me, I will trust Him," and yet when God denies him a week's work, he does not trust Him! If he had a sick child, his faith would begin to waver. A little puff of wind will alter some people's faith, for heaviest the heart is in the heavy air! O for a faith that can stand the test! Seek such faith, look to the Strong for strength in this matter and cry loudly unto Him who is the Author and the Finisher of faith, that He would strengthen it in you. Say, "Lord, I believe; help You my unbelief and bring me to this—that I can look anything in the face." And then say, "Let all the floods of earth, and all the out-flowing from Hell, and even the drenching trials that come from Heaven, itself, come upon me, yet will I stay myself on the Lord, for He will not fail me, neither will He leave me! His mercy cannot depart from His chosen. He will keep to the end those who have rested in Him.
 
-EXPOSITION BY C. H. SPURGEON: PSALM26.
+## Exposition by C. H. Spurgeon: Psalm 26
 
 No doubt this Psalm was written by David when his cruel persecutor, Saul, the more effectually to stab at him, spread false reports concerning his character. When the wicked can use no other weapons, they always have their quivers full of slanderous reports. Let us learn, here, that the best of men must expect to be misrepresented and to have the worst of crimes laid to their charge. Let us learn, also, from the example of David, to carry our case to the highest court at once, not to meddle with the lower courts of earth, but to go at once to the Court of King's Bench in Heaven and there plead our cause before the Eternal Throne.
 
@@ -148,7 +145,6 @@ Come, my Brothers and Sisters, forget for a little while the burden of your busi
 11\. But as for me, I will walk in my integrity: redeem me, and be merciful unto me. See again, my Beloved, how in the Christian's practice, good works and faith are seen happily blended. He declares that he will walk in his integrity, but still, still note, he prays as one that is conscious of a thousand imperfections—"Redeem me and be merciful unto me." We rest on Christ, alone, but still we desire to walk in holiness with as much exactness as though our salvation depended upon our good works!
 
 12\. My foot stands in an even place: in the congregations will I bless the LORD.
-
 
 ---
 [[Sermon 3264 God's Care of Elijah|← #3264]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3266 The Priesthood of Believers|#3266 →]]

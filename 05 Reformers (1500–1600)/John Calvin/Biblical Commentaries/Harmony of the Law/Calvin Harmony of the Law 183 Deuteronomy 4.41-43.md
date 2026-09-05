@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 183. Deuteronomy 4:41-43
-
-**Deuteronomy 4**
 
 **41.** Then Moses severed three cities on this side Jordan, toward the sun-rising;
 

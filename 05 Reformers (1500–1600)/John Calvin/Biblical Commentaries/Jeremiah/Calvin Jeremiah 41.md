@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 41
 
-**CHAPTER 41**
+***Chapter 41***
 
 ## Jeremiah 41:1-3
 
@@ -47,7 +46,7 @@ Jeremiah says, in the first of these verses, that the death of Gedaliah was conc
 
 ## Prayer Lecture 154
 
-**PRAYER**
+## **Prayer**
 
 Grant, omnipotent God, that since our life is exposed to innumerable dangers, and thou settest before our eyes what happened to the best and choicest of thy servants, — O grant, that we may flee to thee, and resign ourselves wholly to thy will, that we may know that thou art the guardian of our life, so that not a hair of our head can fall without thy hidden permission, and that we may also learn to ask of thee the spirit of wisdom and discretion, so that thou thyself mayest guide our steps, as it is not in us to defend our life from those many intrigues by which we are on every side surrounded, the whole world being opposed to us, so that we may proceed in the course of our pilgrimage under thy care and protection, until we shall be removed into that blessed rest, which is laid up for us in heaven by Christ our Lord. — Amen.
 
@@ -140,7 +139,7 @@ Let us then learn not to form our judgment according to the present appearance o
 
 ## Prayer Lecture 155
 
-**PRAYER**
+## **Prayer**
 
 Grant, omnipotent God, that as this world is filled with the filth of the wicked, and as we are on every side surrounded with enemies, — O grant, that we may learn to flee under thy protection, and so hide ourselves under the shadow of thy wings, that we may look nowhere else for safety but from thy defense; and that we may also know that as to everything that happens to us, our life and our death are so ordered by thy wonderful providence, that all events help forward our salvation, so that we may go onward, not only through many calamities, but, if need be, through the midst of slaughters, until we shall come to that blessed rest, which thine only-begotten Son has obtained for us by his own blood. — Amen.
 

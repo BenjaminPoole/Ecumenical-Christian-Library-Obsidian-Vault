@@ -10,12 +10,11 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 1
 
-**COMMENTARY ON THE PROPHET ISAIAH**
+***Commentary on the Prophet Isaiah***
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Isaiah 1:1-31
 

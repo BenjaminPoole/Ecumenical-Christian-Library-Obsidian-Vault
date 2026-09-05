@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Red Heifer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1481
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 29, 1879,.
+*Delivered on Lord's-Day Morning, June 29, 1879*
 
 > "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifies to the purifying of the flesh: how much more shall the blood of Christ, who through the Eternal Spirit offered Himself without spot to God, purge your conscience from dead works to serve the living God?" Hebrews 9:13,14.
 
@@ -150,7 +149,6 @@ Where pardon is received at the hands of the Lord, the soul is sure to feel a lo
 PORTION OF SCRIPTURE READ BEFORE SERMON—Numbers 19. HYMNS FROM "OUR OWN HYMN BOOK"—395, 561, 303.
 
 Spurgeon's Birthday Book and Autographic Register. COMPILED FROM THE WORKS OF C. H. SPURGEON. "Our young friends delight in possessing birthday albums and here is one which is fit for a queen! We will say nothing of the contents, but the binding is simply gorgeous. Whether in cloth or not, we think we might venture to say that it is second to none. Facsimiles of the autographs of the Pastor and his wife are given in their proper places."—The Sword and the Trowel, PASSMORE & ALABASTER 4, Paternoster Buildings and all Booksellers.
-
 
 ---
 [[Sermon 1480 Constant, Instant, Expectant|← #1480]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1482 Our Change of Masters|#1482 →]]

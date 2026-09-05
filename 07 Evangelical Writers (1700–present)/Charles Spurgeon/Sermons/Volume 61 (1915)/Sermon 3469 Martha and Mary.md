@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Martha and Mary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3469
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus answered and said unto her, Martha, Martha, you are careful and troubled about many things: but one thing is necessary; and Mary has chosen that goodpart which shall not be taken away from her." Luke 10:41-42.
 
@@ -25,7 +22,7 @@ I THINK I see the Man of Sorrows as He is traversing the high road, attended by 
 
 This little quick reply must have surprised Martha! She did not expect it would come to herself being reproved and Mary being commended! But so it was—and the incident, we think, may give us some profitable instruction. Let us see if we can find out what it is.
 
-I. WE WILL TAKE THE CASE OF MARTHA FIRST.
+## I. We Will Take the Case of Martha First
 
 There is no reason to find any great fault with her. Martha was a good woman. The Lord "Jesus loved Mary, and Martha, and Lazarus." Since He appreciated Martha's character, it is not for us to depreciate it. Martha was an excellent housewife. Perhaps a little too fussy—I know not what better word to use—a little too particular about the little things. Troubling and vexing herself about domestic arrangements in spreading the board and serving the provisions. She was, perhaps, a little too prone to disquiet her mind by the scrupulousness of her tastes—still she was an admirable woman, one who kept her house in good order. No mean prize is it, especially for the working man, to have a Martha for his wife—one who orders her household well. Indeed, so commendable is this in Christian women, that the Apostle might well say, "Let them first learn to show piety at home." If your children's stockings are not darned, if their clothes are not mended, if the buttons are not put on their dresses at the proper time, I would not give much for your Christian example! A housewife should see to these details and, before all others, for neatness and industry should be the woman whose heart is right before the Lord. One or two friends, I see, are smiling. Let them smile if they like. I only hope they will mind my homely advice and attend to their home duties—then they will make their husbands smile with satisfaction and their families will look brighter. If they have ungodly husbands, it will tend to paint religion in fairer colors, and to commend it to their esteem.
 
@@ -93,7 +90,7 @@ And now, dear Friends, the question comes—question which I hope all who mean t
 
 Trust in His blood! Trust in His merits and you shall be saved! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN11.45-57.
+## Exposition by C. H. Spurgeon: John 11.45-57
 
 Lazarus had been publicly raised from the dead. A great number of persons saw the miracle and there was never any question about its having been worked.
 
@@ -112,7 +109,6 @@ Verses 45, 46. Then many of the Jews which came to Mary, and had seen the things
 55, 56. And the Jews 'Passover was near at hand: and many went out of the country up to Jerusalem before the Passover, to purify themselves. Then sought they for Jesus, and spoke among themselves, as they stood in the Temple, What do you think, will He not come to the feast? They had heard much of Him in the country. Country people coming to town want to hear the great minister—to see the Great Prophet. So that is their question, "Will He come to the feast?"
 
 57\. Now both the chiefpriests and the Pharisees hadgiven a commandment, that ifany man knew where He was, he should report it, that they might take Him. They could not deny the miracles—they could arrest and punish the Miracle Worker.
-
 
 ---
 [[Sermon 3468 Consolation for Poor Petitioners|← #3468]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3470 An Earnest Entreaty|#3470 →]]

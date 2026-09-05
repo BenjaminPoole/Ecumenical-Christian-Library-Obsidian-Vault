@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 27. Examination before Brokes, 1555
 
-[EXAMINATION AT OXFORD BEFORE BROKES,
+*[Examination at Oxford Before Brokes*
 
-SEPTEMBER, 1555 '.]
+## September, 1555 '.]
 
 [Poxe's Act and Monu ments, pp 1872—81, ed. Lond. 1583.1
 
@@ -85,7 +84,7 @@ Christ saith, that antichrist shall be. And who shall he be ? Forsooth, he that 
 
 R Other editions read, "by inheritance."'
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 Matt. xvi. Mark viii.
 
@@ -125,9 +124,9 @@ Cranmer: — To this I answer, you report me ill, and say not the truth, and I w
 
 [3 Other editions read, " to the realm."] [4 " Archbishop Parker gives the following ac count of the first admission of the king's supremacy by the clergy : ' Clerus Anglicanus, qui Cardinali [WolseioJ ut Romani pontificis legato obtemperabant, ob admissam receptamque papse potestatem actione de prcemunire teneri putabatur : cujus vi proscribi et cum bonis atque membris adjudicari regi debuit, nisi rex misertus esset. Itaque .... consilium iniit clerus de tarn dira poena redimenda. ... At rex, qui solus regnare, nee divisum et dis-
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
-. uni- gave the supremacy to king Henry the eighth, and said that he ought to have it before the bishop of Rome, and that God's word would bear him6. And upon the same was there sent to both the universities, Oxford and Cambridge, to know what the word of God would do touching the supremacy; and it was reasoned upon and argued at length. So at the last both the universities agreed, and set to their seals, and sent ^°ih it to king Henry the eighth to the court, that he ought to be supreme head, and not scribed to the the pope. Whereupon you were then doctor of divinity at that time, and your consent '"••« -y befcw was thereunto, as by your hand doth appear. Therefore you misreport me, that I was archbishop.
+. uni-gave the supremacy to king Henry the eighth, and said that he ought to have it before the bishop of Rome, and that God's word would bear him6. And upon the same was there sent to both the universities, Oxford and Cambridge, to know what the word of God would do touching the supremacy; and it was reasoned upon and argued at length. So at the last both the universities agreed, and set to their seals, and sent ^°ih it to king Henry the eighth to the court, that he ought to be supreme head, and not scribed to the the pope. Whereupon you were then doctor of divinity at that time, and your consent '"••« -y befcw was thereunto, as by your hand doth appear. Therefore you misreport me, that I was archbishop.
 
 the cause of your falling away from the pope, but it was yourself. All this was in bishop Warham's time, and whilst he was alive; so that it was three quarters of a year after, ere ever I had the bishoprick of Canterbury in my hands, and before I might do any thing. So that here ye have reported of me that which yo cannot prove, which is evil done.
 
@@ -161,7 +160,7 @@ pertitum de clero et populo suo gubernando cum papa officium amplius gerere volu
 
 [5 Vid. Todd's Life of Abp. Cranmer, Vol. 1. p. 69. Ed. Lond. 1831.]
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 The arch, .^ swom to the king, ought not to swear
 
@@ -209,7 +208,7 @@ Remains of Abp. Cranmer, Vol. IV. p. 91.]
 
 [4 Other editions read, " in his hand."] [5 Other editions read, " should serve a Turk."} [8 Dr Jenkyns remarks hereon, that " this asser tion has been questioned, but without sufficient rea son. (See Lingard, Vol. VI. p. 254 ; Todd's Life of Abp. Cranmer, Vol. I. p. 50.) Warham died on the 23d of Aug. 1532. The precise date of Cranmer's return from the continent is not known. Strype indeed states, that Cranmer was in England and present at the marriage of Anne Boleyn, on the 14th of November. He may possibly have been then in England ; but neither was Anne Boleyn married on that day, nor was Cranmer present on the occasion. See his letter to Hawkyns. It is certain that on the 20th of October, he was still in Germany, at Villach ; and the letter which he wrote from that place contains no allusion to his coming home. Nor were the bulls for his promotion applied for at Rome till the end of January, 1533." Jenkyns' Remains of Abp. Cranmer, Vol. IV. p. 92, n.]
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 Martin:— You declare well by the way that the king took you to be a man of good conscience, who could not find within all his realm any man that would set forth his strange attempts, but was enforced to send for you in post to come out of Germany. What may we conjecture hereby, but that there was a compact between you, being then v» queen Anne's chaplain, and the king : " Give me the archbishoprick of Canterbury, and I will give you licence to live in adultery ? "
 
@@ -233,7 +232,7 @@ T8 Other editions read, " for Basilides."]
 
 [to Other editions read, " Christ foresaid."]
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 first a Pagan,
 
@@ -255,7 +254,7 @@ Dr Cranmer Cranmer : — I grant that then I believed otherwise than I do now; a
 
 IcdKeofthe f , , M* • • 5 sacrament by and authorities of doctors drew me quite from my opinion .
 
-bishop Kid- ley. _ f1 Vid. Jenkyns' Remains of Abp. Cranmer, Vol. IV. p. 95, where is found the following note : " Dr Wordsworth seems to think this declaration decisive against the common belief, that Cranmer at one time held the Lutheran tenets on the eucharist. Yet such an opinion seems to have been entertained, not only by Foxe, to whom Dr W. traces it, but by the archbishop's contemporaries in general. (See [Dr J.'s] Preface.) It is therefore scarcely to be surrendered on the authority of a conversation, which, there is reason to suppose, has not been reported accurately. As far indeed as it rested on the translation of Justus Jonas' Catechism, it must be admitted to be with out foundation : for Cranmer repeatedly declared, that the doctrine there taught, though it had been misunderstood, was none other than that which was maintained in the Defence. But the following ex tract from his Answer to Smythe's Preface leaves a strong impression, that in his passage from transubstantiation to the tenets of the Church of England, he had paused at the Real Presence according to the Lutheran sense. Smythe, he says, ' understood not the matter — no more than he understood my book of the Catechism ; and therefore reporteth un truly of me, that I in that book did set forth the real presence of Christ's body in the sacrament. Unto which false report I have answered in my fourth book, the eighth chapter. But this I confess of myself, that not long before I wrote the said Cate chism, I was in that error of the real presence, as I was many years past in divers other errors; as of transubstantiation, of the sacrifice propitiatory of the priests in the mass, of pilgrimages, purgatory, pardons, and many other superstitions and errors that came from Rome. . . . But after it had pleased God to shew unto me, by his holy word, a more perfect knowledge of his Son Jesus Christ, from time to time, as I grew in knowledge of him, by little and little I put away my former ignorance.' " — See Writings of Abp. Cranmer on the Sacrament, Vol. I. pp. 190, 226, 7; (Answer to Smythe's Pre face), p. 374, Park. Soc. Ed. ; Wordsworth's Eccl. Biogr. Vol. III. p. 550 ; Preface to Crunmer's
+bishop Kid-ley. _ f1 Vid. Jenkyns' Remains of Abp. Cranmer, Vol. IV. p. 95, where is found the following note : " Dr Wordsworth seems to think this declaration decisive against the common belief, that Cranmer at one time held the Lutheran tenets on the eucharist. Yet such an opinion seems to have been entertained, not only by Foxe, to whom Dr W. traces it, but by the archbishop's contemporaries in general. (See [Dr J.'s] Preface.) It is therefore scarcely to be surrendered on the authority of a conversation, which, there is reason to suppose, has not been reported accurately. As far indeed as it rested on the translation of Justus Jonas' Catechism, it must be admitted to be with out foundation : for Cranmer repeatedly declared, that the doctrine there taught, though it had been misunderstood, was none other than that which was maintained in the Defence. But the following ex tract from his Answer to Smythe's Preface leaves a strong impression, that in his passage from transubstantiation to the tenets of the Church of England, he had paused at the Real Presence according to the Lutheran sense. Smythe, he says, ' understood not the matter — no more than he understood my book of the Catechism ; and therefore reporteth un truly of me, that I in that book did set forth the real presence of Christ's body in the sacrament. Unto which false report I have answered in my fourth book, the eighth chapter. But this I confess of myself, that not long before I wrote the said Cate chism, I was in that error of the real presence, as I was many years past in divers other errors; as of transubstantiation, of the sacrifice propitiatory of the priests in the mass, of pilgrimages, purgatory, pardons, and many other superstitions and errors that came from Rome. . . . But after it had pleased God to shew unto me, by his holy word, a more perfect knowledge of his Son Jesus Christ, from time to time, as I grew in knowledge of him, by little and little I put away my former ignorance.' " — See Writings of Abp. Cranmer on the Sacrament, Vol. I. pp. 190, 226, 7; (Answer to Smythe's Pre face), p. 374, Park. Soc. Ed. ; Wordsworth's Eccl. Biogr. Vol. III. p. 550 ; Preface to Crunmer's
 
 Catechism, p. 18. Ed. Oxon. 1829; Boner's attack on Cranmer ; Foxe's Acts and Monuments pp. 1312, 1317. Ed. Lond. 1683.]
 
@@ -267,7 +266,7 @@ Catechism, p. 18. Ed. Oxon. 1829; Boner's attack on Cranmer ; Foxe's Acts and Mo
 
 [5 Ne quis autem putet, hunc sanctum Dei martyrem ad asserendam hanc de cccna Dominica explicationem . . . vel temere vel factiose descendisse ; neutiquam id te latere velim, pie lector, hunc virum, post multam scripturarum pervestigationem, ex unius beati martyris Ridlei episcopi Londinensis institutione sero tandem (nimiium anno 1546) in earn quam hie tuctur sententiam adductum esse — Preface to Embd. Ed. of the Defence of the Sacra ment, Vol. I. Appendix, pp. 2, 6. Park. Soc. Ed.]
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 Martin : — Now, sir, as touching the last part of your oration, you denied that pope's holiness was supreme head of the church of Christ.
 
@@ -329,7 +328,7 @@ marriage of arch bishop.
 
 [9 Thomas and Margaret, who survived the archbishop, and were restored in blood A. D. 15ti3, and Anne, who died before his death. Vid. Genea logical Table in Vol. I. of Todd's Life of Abp. Cranmer.J
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 The arch bishop and books,
 
@@ -409,7 +408,7 @@ Alas ! what hath the pope to do in England ? whose jurisdiction is so far differ
 
 [6 Vid. Disputations at Oxford, Vol. I. pp. 394, | [7 This passage is found only in the first edition 5, 423.] I of Foxe's Acts and 31onuments. Ed. 1503, p. 1481.]
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 and of the pope de scribed.
 
@@ -461,7 +460,7 @@ To be brief, when the king himself spake with him, declaring his full intention6
 
 [7 Other editions read, " if he might in that vo cation serve God."j
 
-EXAMINATION BEFORE BROKES.
+## Examination Before Brokes
 
 SorrTtothe Afterwards it pleased his highness (quoth the archbishop) many and sundry times to Protestation *a^ w^n me °f & ) and perceiving that I could not be brought to acknowledge the sSrhT'to" authority of the bishop of Rome, the king himself called doctor Oliver and other civil no*r!m^withd lawvers '» an^ devised with them how he might bestow it upon me, enforcing me nothing the best"* °f aSams^ m7 conscience. Who thereupon informed him, that I might do it by the way of protestation, and so one to be sent to Rome, who might take the oath, and do every tiling in my name. Which when I understood, I said he should do it super animam suam : and I indeed lona fide made my protestation, that I did not acknowledge his authority any further than as it agreed with the express word of God, and that it might be lawful for me at all times to speak against him, and to impugn his errors, when time and occasion should serve me. And this my protestation did I cause to be enrolled, and there I think it remaineth.
 

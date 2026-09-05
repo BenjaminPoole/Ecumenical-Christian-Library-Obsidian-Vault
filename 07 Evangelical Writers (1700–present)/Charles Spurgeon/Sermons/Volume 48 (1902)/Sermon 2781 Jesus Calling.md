@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Jesus Calling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2781
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come unto Me, all you that labor and are heavy laden, and I will give you rest." Matthew 11:28.
 
@@ -97,7 +94,7 @@ Let us, each one, say to Him, "Jesus, Master, I trust You to save Me. I will fol
 
 Listen! He is still gently whispering "Come! Come! Come!" Linger no longer. Come away, my Brother, my Sister. Hesitate not, poor doubter. Come along—it is the voice of Jesus that calls you! Come just as you are! Tarry not to amend or cleanse yourself, but come to Him to do it all! He has said, "Him that comes to Me I will in no wise cast out." God help you to come even now, for His dear Sons sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW11:25-30.
+## Exposition by C. H. Spurgeon: Matthew 11:25-30
 
 Verses 25, 26. At that time Jesus answered and said, I thank You, O Father, Lord ofHeaven and earth, because You have hid these things from the wise and prudent, and have revealed them unto babes. Even so, Father: for so it seemed good in Your sight. "Jesus answered"—Sovereign Grace is the answer to abounding guilt. With rejoicing spirit Jesus sees how Sovereign Grace meets the unreasonableness of human sin and chooses out its own according to the good pleasure of the Father's will. Here is the spirit in which to regard the electing Grace of God—"I thank You." It is cause for deepest gratitude. Here is the Author of election—"O Father." It is the Father who makes the choice and reveals the blessings. Here is His right to act as He does—He is "Lord of Heaven and earth." Who shall question the good pleasure of His will? Here we see the objects of election, under both aspects—the chosen and the passed-over. Babes see because sacred Truths of God are revealed to them, and not otherwise. They are weak and inexperienced. They are simple and unsophisticated. They can cling, trust, cry and love—and to such the Lord opens up the treasures of Wisdom! The objects of Divine Choice are such as these. Lord, let me be one among them! The Truths of the heavenly Kingdom are hid by a judicial act of God from men who, in their own esteem, are "the wise and prudent." They cannot see because they trust their own dim light and will not accept the Light of God. Here we see, also, the reason of election, the Divine Will—"So it seemed good in Your sight." We can go no further than this. The choice seemed good to Him who never errs and, therefore, it isgood. This stands to the children of God as the reason which is above all reason. Deus vultis enough for us! If God wills it, so it must be, and so it oughtto be.
 
@@ -112,7 +109,6 @@ understanding obtain complete rest. When we have obtained the rest He gives, we 
 We are to learn of Christ and also to learn Christ. He is both Teacher and Lesson. His gentleness of heart fits Him to teach, to be the Illustration of His own teaching and to work in us His great design. If we can become as He is, we shall rest as He does. We shall not only rest from the guilt of sin—this He gives us—but we shall rest in the peace of holiness which we find through obedience to Him. It is the heart which makes or mars the rest of the man. Lord, make us "lowly in heart," and we shall be restful of heart. "Take My yoke." The yoke in which we draw with Christ must be a happy one and the burden which we carry for Him is a blessed one. We rest in the fullest sense when we serve, if Jesus is the Master. We are unloaded by bearing His burden. We are rested by running on His errands. "Come unto Me," is thus a Divine prescription, curing our ills by the pardon of sin through our Lord's Sacrifice and causing us the greatest peace by sanctifying us to His service.
 
 Oh, for Grace to be always coming to Jesus and to be constantly inviting others to do the same! Always free, yet always bearing His yoke! Always having the rest once given, yet always finding more—this is the experience of those who come to Jesus always and for everything. Blessed heritage—and it is ours if we are really His!
-
 
 ---
 [[Sermon 2780 The Sojourn in Mesech|← #2780]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2782 Love's Lamentation|#2782 →]]

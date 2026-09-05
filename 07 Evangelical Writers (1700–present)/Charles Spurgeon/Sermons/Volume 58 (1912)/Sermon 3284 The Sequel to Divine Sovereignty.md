@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Sequel to Divine Sovereignty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3284
-
-DELIVERED BY C. H. SPURGEON.
 
 > "The LORD reigns; let the people tremble." Psalm 99:1.
 
@@ -99,7 +96,7 @@ This solemn Truth of the Sovereignty of God rests very heavily on my heart. Let 
 
 Now as we come to the Table of our Lord, let us come with deep solemnity remembering that there is Sovereignty here, also. The observance of this ordinance may be very dull and dreary to you—or God make it a time of most blessed fellowship with Him and with one another. The means of Grace are not always equally profitable to us. The pipes are always golden, but the holy oil does not always flow in our direction. There is blessing to be had at all times, but you cannot always get it. Ask the King to give you Divine Grace to recognize His right to give or to withhold the blessing— and then plead with Him, for Jesus' sake, to remember you for good! God grant that it may be so, for His dear name's sake! Amen!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 72
+## Exposition by C. H. Spurgeon: Psalm 72
 
 A Psalm for Solomon.
 
@@ -140,7 +137,6 @@ He be praised. There shall be an handful of corn on the earth—[See Sermon #717
 16\. And they of the city shall flourish like grass of the earth. They shall be so many that one might as well attempt to count the blades of grass as to reckon the number of God's saints!
 
 17-20. His name shall endure forever: His name shall be continued as long as the sun: and men shall be blessed in Him: all nations shall call Him blessed. Blessed be the LORD God, the God of Israel, who only does wondrous things. And blessed be His glorious name forever: and let the whole earth be filled with His Glory. Amen, and Amen. The prayers of David, the son of Jesse are ended [See Sermons #27, Volume 1—THE ETERNAL NAME; #2187, Volume 37—JESUS—"ALL BLESSING AND ALL BLESSED"; #2451, Volume 42—"BLESSED IN HIM" and #129, Volume 3—DAVID'S DYING PRAYER.] He had nothing more to pray for! He had his heart's highest and best wish and, therefore, he closes his prayer where God had given him all that he could ask.
-
 
 ---
 [[Sermon 3283 The Voices of Our Days|← #3283]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3285 Good Cheer From Christ's Victory Over the World|#3285 →]]

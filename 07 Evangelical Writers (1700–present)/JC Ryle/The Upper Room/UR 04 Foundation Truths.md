@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Foundation Truths
 
-Chapter IV · *The Upper Room* — J. C. Ryle
+## Chapter IV · *The Upper Room* — J. C. Ryle
 
 > — 1 Cor. 15:3-4[^1]
 
@@ -92,7 +91,6 @@ And now let me wind up this paper with some words of advice to all who read it. 
 (b) But, after all, your religion must have roots, if it is to live and bear fruit in this cold world. "Earnestness," and "zeal," and "work" are brave words; but, like cut flowers stuck in a garden, they have no power of continuance, if they have no hidden roots below. Admitting to the full that there are secondary things in religion, about which those who are young may fairly suspend their judgment and wait for light, I charge you to remember that there are first things about which you must be decided and make up your minds. You must, I say, if you want peace within, and desire to be useful. And among these first things stand forth like mountains in a plain, the two great truths which are laid down in the text which heads this paper, Christ's death for our sins, and Christ's miraculous resurrection. Grasp tightly these two great truths. Plant your feet firmly on them. Feed your own soul on them. Live on them. Die on them. Never let them go. Strive to be able to say, "I know whom I believe,"--not what, but whom. I live by faith in One who died for me, and rose again. Be decided about this at any cost, and in due time all other truths shall be added to you.
 
 (c) Some, it may be, into whose hands this paper may have fallen are going forth from the quiet haven of a happy home into the battle and conflict of busy life. But wherever your lot may be cast, whether in town or in country, whether among rich or poor, I hope you will try to do good. And remember one chief problem you will have to be continually solving is how to help souls who are labouring under the burden of sin, crushed down with sorrow, or oppressed with the fear of death. And when that time comes, remember the word that I speak to you this day.--The only way to do good is to walk in St. Paul's steps, and to tell men first, foremost, continually, repeatedly, publicly, and from house to house, that Jesus Christ died for their sins, rose again for their justification, lives at the right hand of God to receive, to pardon, and to preserve, and will soon come again to give them a glorious resurrection. These are the truths which the Holy Ghost has always blessed, is blessing, and will bless until the Lord comes. These were St. Paul's "first things." Resolve and determine that by God's grace they shall be yours in this generation. I knew a man of God who made a great mark in his day, who said to me, thirty-five years ago, that Jeremiah was pre-eminently a book for the latter days of England. To that opinion I entirely subscribe. Holding that opinion, I ask my readers to hear a few words about the text which I have chosen. I commend it to you as a text for the times.
-
 
 ---
 [[UR 03 Simplicity in Preaching|← Simplicity in Preaching]] · [[The Upper Room|Upper Room Contents]] · [[UR 05 The Good Way|The Good Way →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 129. Matthew 14:1-2; Mark 6:14-16; Luke 9:7-9
-
-**Matthew 14:1-2; Mark 6:14-16; Luke 9:7-9**
 
 **1**. At that time, Herod the tetrarch heard of the fame of Jesus, **2**. And said to his servants, This is John the Baptist: he is raised from the dead, and therefore miracles work in him.
 

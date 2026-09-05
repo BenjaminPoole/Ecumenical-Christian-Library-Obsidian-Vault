@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # A Visit to Bethlehem
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2915
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let us now go to Bethlehem and see this thing which is come to pass, which the Lord has made known unto us." Luke 2:15.
 
@@ -165,7 +162,7 @@ For our affliction's His.'"
 
 So closed the series of observations by the various members of a Christian family around the Christmas fire. The father said it was time to retire. And he bade them all, 'good night.'" And as the father said, so say I, "Good night and God bless you all!" Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE2:1-19.
+## Exposition by C. H. Spurgeon: Luke 2:1-19
 
 [Remember, the Exposition was before the sermon.]
 
@@ -187,10 +184,9 @@ afraid. For such is the condition, even of gracious souls, that the near approac
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
-END OF VOLUME 50
-
+## End of Volume 50
 
 ---
 [[Sermon 2914 A Mournful Defection|← #2914]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]]

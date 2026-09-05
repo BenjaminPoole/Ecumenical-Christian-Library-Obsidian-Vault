@@ -9,10 +9,7 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Habakkuk
-
-**Calvin’s Preface to Habakkuk**
 
 Now follows The Prophet Habakkuk; [^1] but the time in which he discharged his office of a Teacher is not quite certain. The Hebrews, according to their usual manner, unhesitatingly assert that he prophesied under the king Manasseh; but this conjecture is not well founded. We are however led to think that this prophecy was announced when the contumacy of the people had become irreclaimable. It is indeed probable, from the complaint which we shall have presently to notice, that the people had previously given many proofs of irremediable wickedness. To me it appears evident that the Prophet was sent, when others had in vain endeavored to correct the wickedness of the people. But as he denounces an approaching judgement on the Chaldeans, he seems to have prophesied either under Manasseh or under the other kings before the time of Zedechiah; but we cannot fix the exact time. [^2]
 

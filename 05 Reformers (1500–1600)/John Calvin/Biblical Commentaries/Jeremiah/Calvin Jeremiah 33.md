@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 33
 
-**CHAPTER 33**
+***Chapter 33***
 
 ## Jeremiah 33:1-6
 
@@ -68,7 +67,7 @@ There are two parts to this prophecy, — that the Jews were about to perish thr
 
 ## Prayer Lecture 132
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may so learn to humble ourselves under thy mighty hand, whenever thou chastisest us, that we may not faint in our miseries, but flee to thy mercy with more confidence, and by acknowledging our sins, may become so displeased with ourselves, that we may never lose the taste of thy mercy but gird ourselves up so as to entertain good hope, and call upon thee, until we shall at length find by success that our prayers are not in vain; and may we ever thus find comfort in our evils, so that we may at length enjoy that perfect felicity, which thou hast prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -155,7 +154,7 @@ He then adds, *To the house of Jehovah* Now, this also ought in the last place t
 
 ## Prayer Lecture 133
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not to separate ourselves often from thee, we may at least know that reconciliation is prepared for us, provided we seek it by a true and sincere faith in thine only-begotten Son, and so return to thee as really to loathe ourselves on account of our sins, and that relying on thine infinite mercy we may never doubt but that thou wilt be reconciled to us, until having at length finished our present course of life, and being cleansed from all the pollutions of the flesh, we shall be clothed with that celestial glory, which thy Son by his death and resurrection has obtained for us. — Amen.
 
@@ -262,7 +261,7 @@ This cannot be applied to Christ personally, but he thus calls the Church by a m
 
 ## Prayer Lecture 134
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to perform to the Jews what thou didst promise, by sending the Savior, and hast also designed, by pulling down the middle wall of partition, to make us partakers of the same invaluable blessing, — O grant, that we may embrace him with true faith, and constantly abide in him, and so know thee as our Father, that, being renewed by the Spirit of thy Son, we may wholly devote ourselves to thee, and consecrate ourselves to thy service, until at length that which is begun in us be completed, and we be filled with that glory to which thy Son, our Lord, daily invites us. — Amen.
 
@@ -357,7 +356,7 @@ He lastly adds, *For I will restore their captivity* This obviated the diffidenc
 
 ## Prayer Lecture 135
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou settest before us daily, both in the heavens and on the earth, an illustrious example, not only of thy power and wisdom, but also of thy goodness and faithfulness, — O grant, that we may learn to raise up our thoughts still higher, even to that hope which is laid up for us in heaven, and that we may so suffer ourselves to be agitated by the various changes of this world, that yet our hope may remain fixed in thee, and that whatever may happen, we may be fully persuaded that thou wilt be in such a way our Father, that we shall at length enjoy that blessed rest, which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

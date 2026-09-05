@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 40. VIII. Of the Rents and Patrimony of the Kirk
-
-### VIII. Of the Rents and Patrimony of the Kirk.
 
 The ministers and the poor, together with the schools, when order shall be taken thereanent, must be sustained upon the charges of the Church. Provision must therefore be made, how and from whom the necessary sums must be lifted. But, before we enter upon this head, we must crave of your honours, in the name of the Eternal God and of His Son, Christ Jesus, that ye have respect to your poor brethren, the labourers and manurers of the ground. These have been so oppressed by these cruel beasts, the Papists, that their lives have been dolorous and bitter. If ye will have God author and approver of your reformation, ye must not follow their footsteps. Ye must have compassion upon your brethren, appointing them to pay reasonable teinds, that they may feel some benefit of Christ Jesus, now preached unto them.
 

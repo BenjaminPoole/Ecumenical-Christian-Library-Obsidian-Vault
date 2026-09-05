@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 139. On Love
 
-*PREACHED AT SAVANNAH, FEBRUARY 20, 1736*
+**Preached at Savannah, February 20, 1736**
 
 > "Though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not love, it profiteth me nothing." 1 Cor. 13:3.
 

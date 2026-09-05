@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Clinging to Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3210
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Jesus said unto the twelve, Will you also go away? Then Simon Peter answered Him, Lord, to whom shall we go? You have the words of eternal life." John 6:67, 68.
 
@@ -110,7 +107,6 @@ None among the heavenly train,
 Can with Jesus Christ compare,
 
 None so sweet, and none so fair!" I wish that some who have never yet been followers of the Lord Jesus Christ would become His disciples right now. But remember that if you enlist beneath His banner, it is for life. The Captain of our salvation has not six-months' soldiers—He grants no discharge from His army till the fight is fought, the victory won and the crown is bestowed upon those who have been faithful even unto death! Those are the conditions of His service. Will you accept them and enlist in His army tonight? There is nothing for you to pay, but everything for you to receive! Open your empty hand, bring your empty heart and receive Christ—and so shall you be enlisted into His service! And more than that, you shall become members of the great family of the redeemed, for "as many as received Him, to them He gave power to become the sons of God, even to them that believe on His name." Believe on Him now and you, too, shall become the children of God by faith in Christ Jesus! And then if He says to you, when others turn back and walk no more with Him, "Will you also go away?" you will answer, as Peter did, "Lord, to whom shall we go? You have the words of eternal life." The Lord bless you, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3209 The Priceless Prize|← #3209]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3211 'Feed My Sheep'|#3211 →]]

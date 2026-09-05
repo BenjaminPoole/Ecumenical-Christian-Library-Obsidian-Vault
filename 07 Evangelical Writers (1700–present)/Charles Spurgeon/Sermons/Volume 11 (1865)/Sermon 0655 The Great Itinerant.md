@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Great Itinerant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 655
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 22, 1865,.
+*Delivered on Sunday Morning, October 22, 1865*
 
 > "Who went about doing good." Acts 10:38.
 
@@ -158,7 +157,6 @@ Without leaving your position, any one of you—without giving up the plow, or t
 May God add His blessing for the Savior's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Acts 10.
-
 
 ---
 [[Sermon 0654 Memory—The Handmaid Of Hope|← #654]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0656 Preceding Grace|#656 →]]

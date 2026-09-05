@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # A Woman of a Sorrowful Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1515
-
-DELIVERED BY.
 
 > "Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit." 1 Samuel 1:15.
 
@@ -100,7 +97,6 @@ In many of our homes we have a well-drawn picture of a child at prayer and such,
 Moreover, her sorrow prepared her to receive further blessings, for after the birth of Samuel she had three more sons and two daughters—God thus giving her five for the one that she had dedicated to Him! This was grand interest for her loan—500 percent! Parting with Samuel was the necessary preface to the reception of other little ones. God cannot bless some of us till, first of all, He has tried us. Many of us are not fit to receive a great blessing till we have gone through the fire. Half the men that have been ruined by popularity have been so ruined because they did not undergo a preparatory course of opprobrium and shame! Half the men who perish by riches do so because they had not toiled to earn them but made a lucky hit and became wealthy in an hour.
 
 Passing through the fire anneals the weapon which afterwards is to be used in the conflict! And Hannah gained Divine Grace to be greatly favored by being greatly sorrowing. Her name stands among the highly-favored women because she was deeply sorrowing. Last of all, it was by suffering in patience that she became so brave a witness for the Lord and could so sweetly sing, "There is none holy as the Lord, neither is there any rock like our God." We cannot bear testimony unless we test the promise and, therefore, happy is the man whom the Lord tests and qualifies to leave a testimony to the world that God is true. To that witness I would set my own personal seal.
-
 
 ---
 [[Sermon 1514 The Key-Note of a Choice Sonnet|← #1514]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1516 Salvation by Knowing the Truth|#1516 →]]

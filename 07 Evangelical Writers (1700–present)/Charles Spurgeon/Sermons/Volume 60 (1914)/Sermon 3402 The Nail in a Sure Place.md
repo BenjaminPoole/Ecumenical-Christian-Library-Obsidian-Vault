@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # The Nail in a Sure Place
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3402
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will fasten him as a nail in a sure place, and he shall be for a glorious throne to his father's house. And they shall hang upon him all the glory of his father's house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons. In that day, says the Lord of Hosts, shall the nail that is fastened in the sure place be removed and be cut down and fall; and the burden that was upon it shall be cut off: for the Lord has spoken it." Isaiah 22:23-25.
 
@@ -57,7 +54,7 @@ And may there not be some who come merely as casual hearers now and then, who, i
 
 "I'll go to Jesus though my sins, Have like a mountain rose! I know His courts, I'll enter in Whatever may oppose. Prostrate I'll lie before His Throne And there my sins confess. I'll tell Him I'm a wretch undone Without His Sovereign Grace." God bless these words for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 41:1-18.
+## Exposition by C. H. Spurgeon: Isaiah 41:1-18
 
 God enters into a controversy with those who had fallen into the worship of idols.
 
@@ -90,7 +87,6 @@ Verse 1. Keep silence before Me, O islands, and let the people renew their stren
 17 When the poor and needy seek water, and there is none, and their tongue fails for thirst, I, the LORD, will hear them. I, the God of Israel, will not forsake them. What a blessed promise that is! God thinks of poor and needy men. When they are in their greatest extremity, with nothing to quench their thirst, and they are ready to die, then He is pleased to make the rocks run with rivers in order that they may be supplied.
 
 18\. I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water.
-
 
 ---
 [[Sermon 3401 Sharing Christ's Life|← #3401]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3403 The Multitude Before the Throne|#3403 →]]

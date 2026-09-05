@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # God's Knowledge of Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2551
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O God, You know my foolishness; and my sins are not hid from You " Psalm 69:5.
 
@@ -125,7 +122,7 @@ Lastly, the Lord knows—and this is the best thing that He knows about us—He 
 
 God bless this searching message to every one of you for His dear Son's sake! Amen.
 
-EXPOSITION BY C. G. SPURGEON: PSALM139.
+## Exposition by C. G. Spurgeon: Psalm 139
 
 1\. O LORD, You have searched me, and known me. God does not need to "search" us, for that implies a lack of knowledge, a knowledge obtained by search. But the meaning of the text is that God knows us as well as if He hadexam-ined us through and through, just as an excise officer searches a house to find contraband goods. "O Lord, You have searched me, and known me."
 
@@ -178,7 +175,6 @@ EXPOSITION BY C. G. SPURGEON: PSALM139.
 23\. And know my heart: try me, and know my thoughts. Every attribute of God works for the good of those who trust Him. If you are a Believer, you may ask for His infinite power to protect you and His infinite knowledge to search you.
 
 24\. And see if there is any wicked way in me, and lead me in the way everlasting. May God first make that our prayer and then graciously hear it, for His great name's sake! Amen.
-
 
 ---
 [[Sermon 2550 Joy in God|← #2550]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2552 Take Heed, Brethren|#2552 →]]

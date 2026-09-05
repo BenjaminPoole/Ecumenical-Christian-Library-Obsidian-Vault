@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 66
-
-**PSALM 66**
 
 There may have been one deliverance in particular, which the Psalmist celebrates here in the name of the Church, but he includes the many and various mercies which God had all along conferred upon his chosen people. While he takes notice of the divine interposition in their behalf, in a crisis of great mercy and distress, he suggests it as matter of comfort under trial, that their subjection to the tyranny of their enemies had been designed to prove them as silver in the furnace. At the close, he would appear to speak of himself individually, and adduces it as a proof of his integrity, that God had heard him, for God does not grant acceptance to the wicked.
 

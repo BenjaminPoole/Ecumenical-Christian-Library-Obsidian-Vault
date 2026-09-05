@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Zedekiah—or, the Man Who Cannot Say, "No"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2178
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Zedekiah the king said, Behold, he is in your hands: for the king is not he that can do anything against you." Jeremiah 38:5.
 
@@ -130,7 +127,6 @@ And oh, what will it be in the hour of death to lie dying, racked with pain and 
 In the next world what must be the doom of the man who was ashamed of Christ, when the Lord Himself will say, "I am ashamed of him! I am ashamed of him!" The Lord Jesus is not ashamed of the penitent drunkard—for He cleanses him. He is not ashamed of the repenting harlot, but permits her to wash His feet with her tears. But in that day He will be ashamed of all those who have been ashamed of Him! He cannot claim us if we deny Him. May God bless this word of mine! I have not so much preached the Gospel as shown you your need of the Grace of God to make you decide for Jesus. May that Grace be sought and found at once, for His dear sake! I have worn out all my strength in pleading with you. May the Lord Himself take you in hand! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON— Jeremiah 38:1-23.
-
 
 ---
 [[Sermon 2177 Camp Law and Camp Life|← #2177]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2179 God Fighting Sin|#2179 →]]

@@ -9,14 +9,13 @@ tags:
   - puritans
   - savoy-assembly
 ---
-
 # A Declaration of Faith, and of the Institution of Churches
 
 [As the Savoy Declaration is merely a modification of the Westminster Confession to suit the Congregational polity, it is only necessary to note the principal omissions, additions, and changes, which will be better understood by comparison with the corresponding original and with the more thorough change made by the American Presbyterians in Chap. XXIII. 3.]
 
 Chap. XX. is added to the Westminster Confession (which accounts for the change of numbers of chapters after Chap. XX.), and reads as follows:
 
-CHAPTER XX.
+## Chapter XX
 
 Of the Gospel, and of the Extent of the Grace thereof.
 
@@ -127,7 +126,6 @@ XXVIII. Persons that are joined in Church-fellowship, ought not lightly or witho
 XXIX. Such reforming Churches as consist of Persons sound in the Faith, and of Conversation becoming the Gospel, ought not to refuse the communion of each other, so far as may consist with their own Principles respectively, though they walk not in all things according to the same Eules of Church Order.
 
 XXX. Churches gathered and walking according to the mind of Christ, judging other Churches (though less pure) to be true Churches, may receive unto occasional communion with them such Members of those Churches as are credibly testified to be godly and to live without offense.
-
 
 ---
 [[SAV 01 A Preface|← A Preface]] · [[The Savoy Declaration|Contents]]

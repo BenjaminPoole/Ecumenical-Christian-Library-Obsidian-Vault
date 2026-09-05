@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 366
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Basil to Urbicius the monk, concerning continency
 

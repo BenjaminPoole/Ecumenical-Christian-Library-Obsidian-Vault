@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # 'The Tender Mercy of Our God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1907
@@ -91,8 +90,7 @@ But I appeal to you on higher grounds. I forget just now how many thousands of c
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Matthew 8:1-18.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—912, 328, 195.
-
+## Hymns from "Our Own Hymn Book"—912, 328, 195
 
 ---
 [[Sermon 1906 How To Become Fishers of Men|← #1906]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1908 Washed to Greater Foulness|#1908 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "There Is Forgiveness"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2422
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But there is forgiveness with You, that You may be feared." Psalm 130:4.
 
@@ -117,7 +114,7 @@ Some think that it will be a good way of deepening their Graces to begin to ques
 
 If any of you poor people, here, who have not yet found the Savior, are saying, "We wish that we could feel our sin more. We wish that we could fear the Lord more." Let me tell you that this fear is to come to you afterwards. There is forgiveness, first, and then the fear comes afterwards. All the fear in the world that is worth having is the result of pardoned sin. The fear that is not to be cast out, the fear that has no torment in it, is that fear which comes of a sense of every iniquity being blotted out! I charge you, believe in Jesus Christ! In the name of Jesus of Nazareth, I say to you unbelieving ones—Believe in Him now! Rise, take up your bed, and walk. I, who have no power whatever of myself, yet speaking in my Master's name, know that His power will go with His Gospel and that His Word shall not return to Him void. Believe and live! God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 129; 130; 131.
+## Exposition by C. H. Spurgeon: Psalms 129; 130; 131
 
 Three Songs of degrees.
 
@@ -154,7 +151,6 @@ Psalm 131:1. LORD, my heart is not haughty, nor my eyes lofty: neither do I exer
 3\. Let Israel hope in the LORD—You will never be weaned from Him if you are His, but if you are weaned from the world, so as to have all your hope in the Lord, thrice happy are you! Now, too, you will grow. Now you will come to the fullness of the stature of a man in Christ Jesus which you could never have done if you had not been weaned! I remember that when Sarah weaned Isaac, there was a great feast at the weaning, and I believe that God's children often have a great feast at their weaning from the world. All the while they are but babes and suck their comforts from the world, they get but little real joy. But when, by Divine Grace, they outgrow that state of things, then is there a great feast made for them!
 
 3\. From henceforth and forever. That is real comfort that you may always enjoy, hoping in the Lord from henceforth and forever! In life and in death here is a blessed confidence that will never fail you! God grant that we may enjoy it now and evermore! Amen.
-
 
 ---
 [[Sermon 2421 Hallelujah! Hallelujah!|← #2421]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2423 The Model Soul-winner|#2423 →]]

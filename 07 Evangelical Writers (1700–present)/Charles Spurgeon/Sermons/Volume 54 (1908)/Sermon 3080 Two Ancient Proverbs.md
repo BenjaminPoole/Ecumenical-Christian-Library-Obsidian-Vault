@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Two Ancient Proverbs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3080
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The fear of man brings a snare; but whoever puts his trust in the LORRD shall be safe." Proverbs 29:25.
 
@@ -73,7 +70,7 @@ but he is safe! He may not always have the joy of full assurance, but he is safe
 
 I was astonished, the other day, to meet with an expression used by Cardinal Bellarmine, who was one of the greatest Jesuit controversialists. He closes a long argument about being saved by works with the following very remarkable sentences, which I will quote as accurately as I can—"Nevertheless, although the way of acceptance with God is by our own works, there is a danger that men may so trust in their own works as to grow proud, which would quite spoil their works and, therefore, upon the whole, it is safest for them to rely upon the blood and merits of Jesus Christ alone." Well done, Cardinal Bellarmine! "Upon the whole. "I mean to do that as long as I live and oh that everyone who has ever been deluded by the doctrines of the Church of Rome, would listen to the Cardinal's confession that, upon the whole it is safest to rest upon what Christ has done! Upon the whole i t is better to trust in the Savior than to trust in ourselves! Upon the whole it is better to be washed in His blood than to think that we can make ourselves clean! The cardinal did not say all the truth, but I thank him for what he did say, though the truth is better put by Solomon in my text, "Whoever puts his trust in the Lord shall be safe." He shall be safe if he is sick, if he is rich, if he is poor! He shall be safe when he dies, safe when he rises again, safe at the Day of Judgment, and safe throughout eternity! Oh, then, come all of you and trust in the Lord, for "whoever puts his trust in the Lord shall be safe" forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PROVERBS27.
+## Exposition by C. H. Spurgeon: Proverbs 27
 
 Verse 1. Boast not yourself of tomorrow; for you know not what a day may bring forth. Let us never boast of future days and years, or what we mean to do when we come to any age, or what shall be our position when we grow gray. Let us never boast of anything in the future, for we cannot tell what even a day may bring forth.
 
@@ -120,7 +117,6 @@ knows that there is no love in it. You will generally find that men measure othe
 23\. Be you diligent to know the state ofyour flocks, and look well to your herds. Be not slothful in business and, above all, let the Christian be diligent to know the state of his own heart.
 
 24-27. For riches are not forever: and does the crown endure to every generation? The hay appears, and the tender grass shows itself, and herbs of the mountains are gathered. The lambs are for your clothing, and the goats are the price of the field. And you shall have goat's milk enough for your food, for the food ofyour household, and for the maintenance for your maidens. Those who are diligent, generally prosper, and they who are diligent in spiritual things shall have all that their souls need. They shall be clothed with the robe of righteousness, they shall be well fed and shall be satisfied. May the wisdom of these Proverbs be given to us in daily life, that we may be wise as serpents and harmless as doves. But above all, may heavenly wisdom be given to us in all spiritual things, to the praise of our Lord and Savior, Jesus Christ!
-
 
 ---
 [[Sermon 3079 A Searching Question|← #3079]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3081 The Gracious Lips of Jesus|#3081 →]]

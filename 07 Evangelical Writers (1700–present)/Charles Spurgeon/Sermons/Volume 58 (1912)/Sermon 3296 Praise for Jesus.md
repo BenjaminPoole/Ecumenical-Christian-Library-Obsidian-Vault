@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Praise for Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3296
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Judah, you are he whom your brothers shall praise." Genesis 49:8.
 
@@ -81,7 +78,7 @@ to serve Him and to praise Him all your days—and to glorify Him forever. Let u
 
 "Let Him be crowned with majesty Who bowed His head to death; And be His honors sounded high By all things that have breath! Jesus, our Lord, how wondrous great Is your exalted name! The glories of Your heavenly state Let the whole earth proclaim!"
 
-EXPOSITION BY C. H. SPURGEON: GENESIS49:1-28.
+## Exposition by C. H. Spurgeon: Genesis 49:1-28
 
 Verses l, 2. And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days. Gather yourselves together, and hear, you sons of Jacob; and hearken unto Israel your father.It must have been a great comfort to the old man to have all his 12 sons with him. What a quiet answer this was to his former unbelief! They were all there, yet he could remember the time when he had said, "Me have you bereaved of my children: Joseph is not, and Simeon is not, and you will take Benjamin away." Ah, we also shall have in our later days to chide ourselves for our foolish unbelief! "Jacob called unto his sons." So he was not bereaved after all! They are all here, Jacob! It falls to the lot of few fathers to have 12 sons—but still fewer to have all 12 of them gathered about his dying bed! "Gather yourselves together." They were to keep together as a family—and shall not the people of God keep together? Come away from the world, Beloved, but come close to one another! Be one household. Be it your delight to assemble around your elder Brother, the Lord Jesus Christ! "Gather yourselves together, that I may tell you that which shall befall you in the last days." We are not told, nowadays, everything about the future, but much of the future is unfolded to us in the great principles of the Law and the Gospel. And we may learn very much of holy foresight by coming to the oracles of God.
 
@@ -134,7 +131,6 @@ Israel). [See Sermon #17, Volume 1—JOSEPH ATTACKED BY THE ARCHERS.]
 Joseph is a type of Him who is both the Shepherd and the Stone to us—the Shepherd who defends us, provides for us, and dies for us. And the Foundation on which we build for time and eternity.
 
 25-28. Even by the God of your father, who shall help you; and by the Almighty, who shall bless you with blessings of Heaven above, blessings of the deep that lies under, blessings of the breasts, and of the womb: the blessings of your father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren. Benjamin shall prey as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil All these are the twelve tribes of Israel: and this is it that their father spoke unto them, and blessed them; every one according to his blessing he blessed them
-
 
 ---
 [[Sermon 3295 Communion With Christ and His People|← #3295]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3297 David and His Volunteers|#3297 →]]

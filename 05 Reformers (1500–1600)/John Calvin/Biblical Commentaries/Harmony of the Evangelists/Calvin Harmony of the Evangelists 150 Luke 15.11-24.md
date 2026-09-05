@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 150. Luke 15:11-24
-
-**Luke 15:11-24**
 
 **11**. And he said, [^1] A certain man had two sons: **12**. And the younger of them said to his father, Father, give me the portion of property which falls to me. And he divided between them the property. **13**. And not many days afterwards, [^2] the younger son, having gathered all together, set out on a journey to a distant country, and there wasted his property by living extravagantly. **14**. But when he had spent all, a sore famine arose in that country; and he began to be in want. **15**. And he went and entered into the service of one of the inhabitants of that country; and he sent him into his field to feed swine. **16**. And he was desirous to fill his belly with the husks on which the swine were feeding: and no man gave to him. [^3] **17**. And when he came to himself, he said, How many hirelings of my father have abundance of bread, [^4] while I perish with hunger! **18**. I will arise, and go to my father, [^5] and will say to him, Father, I have sinned against heaven, and before thee, **19**. And am no longer worthy to be called thy son: make me as one of thy hirelings. **20**. And he arose, and came to his father. And while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him. **21**. And the son said to him, Father, I have sinned against heaven, and before thee, and am no longer worthy to be called thy son. **22**. And the father said to his servants, Bring out the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: **23**. And bring the fatted calf, and kill it; and let us feast, and be merry: **24**. For this my son was dead, and is alive again; he was lost, and is found. [^6] And they began to be merry.
 

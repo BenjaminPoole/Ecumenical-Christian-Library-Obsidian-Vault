@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Sin
 
-Chapter I · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter I · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Sin is the transgression of the law.* ”—1 John iii. 4.
 
@@ -76,7 +75,6 @@ Into the causes of this state of things I cannot pretend to enter fully, and can
 As to the best remedy for the state of things I have mentioned, I shall venture to give an opinion. Other schools of thought in the Churches must judge for themselves. The cure for Evangelical Churchmen, I am convinced, is to be found in a clearer apprehension of the nature and sinfulness of sin. We need not go back to Egypt, and borrow semi-Romish practices in order to revive our spiritual life. We need not restore the confessional, or return to monasticism or asceticism. Nothing of the kind! We must simply repent and do our first works. We must return to first principles. We must go back to “the old paths.” We must sit down humbly in the presence of God, look the whole subject in the face, examine clearly what the Lord Jesus calls sin, and what the Lord Jesus calls “doing His will.” We must then try to realize that it is *terribly possible* to live a careless, easy-going, half-worldly life, and yet at the same time to maintain Evangelical principles and call ourselves Evangelical people! Once let us see that sin is far viler, and far nearer to us, and sticks more closely to us than we supposed, and we shall be led, I trust and believe, to get nearer to Christ. Once drawn nearer to Christ, we shall drink more deeply out of His fullness, and learn more thoroughly to “live the life of faith” in Him, as St. Paul did. Once taught to live the life of faith in Jesus, and abiding in Him, we shall bear more fruit, shall find ourselves more strong for duty, more patient in trial, more watchful over our poor weak hearts, and more like our Master in all our little daily ways. Just in proportion as we realize how much Christ has done for us, shall we labour to do much for Christ. Much forgiven, we shall love much. In short, as the Apostle says, “with open face beholding as in a glass the glory of the Lord, we are changed into the same image even as by the Spirit of the Lord.” (2 Cor. iii. 18.)
 
 Whatever some may please to think or say, there can be no doubt that an increased feeling about holiness is one of the signs of the times. Conferences for the promotion of “spiritual life” are becoming common in the present day. The subject of “spiritual life” finds a place on Congress platforms almost every year. It has awakened an amount of interest and general attention throughout the land, for which we ought to be thankful. An^ movement, based on sound principles, which helps to deepen our spiritual life and increase our personal holiness, will be a real blessing to the Church of England. It will do much to draw us together and heal our unhappy divisions. It may bring down some fresh out-pouring of the grace of the Spirit, and be “life from the dead” in these later times. But sure I am, as I said in the beginning of this paper, we must begin low, if we would build high, I am convinced that the first step towards attaining a higher standard of holiness is to realize more fully the amazing sinfulness of sin.
-
 
 ---
 [[Holiness Introduction|← Introduction]] · [[Holiness|Holiness Contents]] · [[Holiness 02 Sanctification|Sanctification →]]

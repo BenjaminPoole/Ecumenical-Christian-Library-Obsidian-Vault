@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 60
 
-**CHAPTER 60.**
+***Chapter 60.***
 
 ## Isaiah 60:1-22
 

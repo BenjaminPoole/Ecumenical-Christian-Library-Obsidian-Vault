@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Question Between the Plagues
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2503
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How long will you refuse to humble yourself before Me?" Exodus 10:3.
 
@@ -89,7 +86,7 @@ In closing, I would very affectionately press home this passage upon all whom it
 
 Ah, poor Sinner! If you once get a view of the Lord Jesus Christ and know who He is, and what He is—if you can, by faith, perceive His beauties, you will say, "To fall at His feet is a high privilege! To submit myself to such an One as Jesus Christ of Nazareth is a higher honor than to receive a peerage from an earthly sovereign." Therefore, let us go together—you who never went and some of us who have often been—let us go together and let us cry to Christ, "Lord, receive us! We are nothing but a mass of sin and misery! Receive us and save us, for Your mercy's sake, and unto Your name shall be the glory forever and ever!" Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS 10:1-20; PSALM105:26-38.
+## Exposition by C. H. Spurgeon: Exodus 10:1-20; Psalm 105:26-38
 
 Exodus 10:1, 2. And the Lord said unto Moses, Go in unto Pharaoh: for Ihave hardened his heart, and the heart of his servants, that I might show these My signs before him: and that you may tell in the ears of your son, and of your son's son, what things I have worked in Egypt, and My signs which Ihave done among them; that you may know how that I am the Lord. God would stamp the early history of Israel with the deep impression of His Godhead. His overthrow of the proud Egyptian king should let Israel know in the very beginning how great a God had chosen her to be His own peculiar portion.
 
@@ -118,7 +115,6 @@ Psalm 105:26-28. He sent Moses, His servant, and Aaron whom He had chosen. They 
 38\. Egypt was glad when they departed: for the fear of them fell upon them. Yet this was the mighty nation whose proud king had defied the Lord! At last they had had enough of the combat; they were glad that the people of God should retire out of their land and they themselves bowed low before Him. May we be taught humility of heart, so that we can sing the hymn I have chosen!—
 
 "Sovereign Ruler, Lord of all, Prostrate at Your feet I fall. Hear, oh, hear my earnest cry! Frown not, lest I faint and die!"
-
 
 ---
 [[Sermon 2502 Grace and Glory|← #2502]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2504 Jonah's Object-lessons|#2504 →]]

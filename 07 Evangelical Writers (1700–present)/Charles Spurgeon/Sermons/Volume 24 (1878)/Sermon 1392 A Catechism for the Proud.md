@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Catechism for the Proud
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1392
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 6, 1878,.
+*Delivered on Lord's-Day Morning, January 6, 1878*
 
 > "For who makes you to differ from another? And what have you that you did not receive? Now if you did receive it, why do you glory, as if you had not received it?" 1 Corinthians 4:7.
 
@@ -132,7 +131,6 @@ The Lord, in His abundant mercy can give to you what He has given to the best of
 low we may sink. When a person is covered with rags, covered with filth, covered with disease, he can still become a receiver! And even if he cannot stretch out his hand, he can find ways and means for receiving.
 
 Receiving implies neither strength, nor merit, nor wisdom. It requires no power, no faculty, no virtue, no anything! The power to be a receiver dwells with the weakest of the weak and the worst of the worst. The emptier you are, the more room there is for reception! The blacker you are, the more room to receive washing! The more foul you are, the more reason to receive cleansing! The more sick and near to death, the more room to receive healing! Will you have the blessing which God in Christ Jesus is ready to give? If you will be saved, listen to the voice of God and live! If you are willing to accept His Son Jesus Christ as your Savior and, from this time forth put your whole trust in Him, you shall be saved! May He by His Grace lead you, now, to become a receiver, for it is written—"As many as received Him, to them gave He power to become the sons of God; even to them that believe on His name." Amen.
-
 
 ---
 [[Sermon 1391 A Golden Prayer|← #1391]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1393 Speak For Yourself—a Challenge!|#1393 →]]

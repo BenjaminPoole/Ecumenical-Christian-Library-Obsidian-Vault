@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # John's First Doxology
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1737
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 2, 1883,.
+*Delivered on Lord's-Day Morning, September 2, 1883*
 
 > "Unto Him that loved us, and washed us from our sins in His own blood, and has made us kings and priests unto God and His Father; to Him be glory and dominion forever and ever. Amen." Revelation 1:5, 6
 
@@ -146,7 +145,6 @@ But the doxology also ascribes dominion to Him. My heart longs for Jesus to have
 Then it is added, let Him have glory and dominion "forever and ever." I suppose we shall have some gentlemen coming up to prove that, "forever and ever," only means for a time. They tell us that everlasting punishment means only for a time and, of course, everlasting life must mean the same and this praise must also have a limit. I do not mean that and neither do you, Beloved! I pray that our Lord may have endless glory, eternal dominion. I pray that Christ's power and dominion may be over this generation, the next and the next until He comes—and then that it may be said—"The Lord shall reign forever and ever." Hallelujah! As long as there are wings of angels or songs of man; as long as God Himself shall live, may the Lord Jesus Christ that loved us and washed us have glory and dominion!
 
 Now we have come to the last word of the text. It finishes up with, "Amen." "Forever and ever. Amen." Can you heartily say, "Amen," to this? Do you wish Christ to have glory and dominion forever and ever? If you know He loved you, I am sure you do! If you know He washed you, I am sure you do! Now let our beating hearts in solemn silence say, "Amen!" And when we have done that, do you think you could join in one voice with me and say it out aloud, like thunder? Now, "Unto Him that loved us, and washed us from our sins in His own blood, and has made us kings and priests unto God and His Father, to Him be glory and dominion forever and ever. "Amen." And, "Amen!" yet again. (Here the great congregation joined aloud with the preacher). The prayers of David, the son of Jesse, were ended when he came to that, and so may ours be, and so may this morning's service be. God bless you through His adorable Son. Amen and Amen!
-
 
 ---
 [[Sermon 1736 The King's Weighings|← #1736]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1738 Glory Be Unto the Father|#1738 →]]

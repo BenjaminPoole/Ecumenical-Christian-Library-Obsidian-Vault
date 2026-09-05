@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Christ and His Co-workers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2467
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they went out and preached everywhere, the Lord working with them, and confirming the Word through accompanying signs. Amen." Mark 16:20.
 
@@ -95,7 +92,7 @@ Perhaps for the moment you may seem to do so, but in the long run—and God can 
 
 O poor Sinners, all this sermon is about you! Our wish is to see you saved! Our prayer is that you may be brought to Christ! Oh, that you were as willing to come as we would be to lead you to the Savior—as willing to come as God is to receive you! Come and try Him, now, and you shall praise Him forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK16.
+## Exposition by C. H. Spurgeon: Mark 16
 
 Verse 1. And when the Sabbath was past, Mary Magdalene, and Mary, the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. We know that, "Him," whose name is not given here. There is scarcely need to mention that it was Jesus whom the women came to anoint. Oh, how gladly would we also anoint "Him" whose name is The Anointed One! But not as a dead Christ, for, "He is risen!" Our sweet spices must henceforth be for that Living One whom we anoint with our living joy and consecration! Or, rather, we must receive our anointing from Him, for He is the Christ and we the Christians who get our very name and life from Him! As He was supposed to be dead and still lying in the tomb, these holy women came to anoint Him.
 
@@ -128,7 +125,6 @@ Verse 1. And when the Sabbath was past, Mary Magdalene, and Mary, the mother of 
 19\. So then, after the Lord had spoken to them, He was received up into Heaven, and sat at the right hand of God. The disciples were not at once received up into Heaven, though they might have been if God had so willed it. There was work for them to do here below, so Christ, alone, "was received up into Heaven, and sat at the right hand of God." And as for His followers—
 
 20\. And they went out and preached everywhere, the Lord working with them, and confirming the Word through accompanying signs. Amen. These last verses of Mark's Gospel have, as some of you know, been questioned as to their Inspiration and authenticity, but they are so like Mark that you cannot read them without feeling that they are part and parcel of what the Evangelist wrote. Set any critic you please to work and if he knows the idiom and style of Mark's writing, he will be bound to say that this is part of the Gospel according to Mark. And God the Holy Spirit, blessing these words to our hearts, as I trust He will, will set His seal to what we believe and know to be His Inspired Word.
-
 
 ---
 [[Sermon 2466 Unpurchasable Love|← #2466]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2468 Solitude, Silence, Submission|#2468 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule VI. Frequent spiritual communication for edification, according to gifts received
-
-Rule vi. Frequent spiritual communication for edification, according to gifts received.
 
 Mal. iii. 16, “Then they that feared the Lord spake often one to another; and the Lord hearkened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name.”
 
@@ -45,7 +42,6 @@ This the Scriptures annexed to the rule declare; which in an especial manner hol
 2\. *Occasionally*, Luke xxiv. 14; Mal. iii. 16. If any thing of weight and concernment to the church be brought forth by Providence, a spiritual improvement of it, by a due consideration amongst believers, is required.
 
 3\. *By assembling of more together, by appointment*, for prayer and instruction from the word, Acts x. 24, xii. 12; Job ii. 11; Eph. v. 19; James v. 16; Jude 20; 1 Thess. v. 14; this being a special ordinance and appointment of God, for the increasing of knowledge, love, charity, experience, and the improving of gifts received, every one contributing to the building of the tabernacle. Let then, all vain communication be far away. The time is short, and the days are evil. Let it suffice us that we have neglected so many precious opportunities of growing in the knowledge of our Lord Jesus Christ, and doing good to one another; let the remainder of our few and evil days be spent in living to him who died for us. Be not conformed to this world, nor the men thereof.
-
 
 ---
 [[ECFC 17 Rule V. Separation and sequestration from the world and men of the world, with|← Rule V. Separation and sequestration from the world and men of the world, with all ways of false worship, until we be apparently a people dwelling alone, not reckoned among the nations]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 19 Rule VII. Mutually to bear with each other’s infirmities, weakness, tenderness|Rule VII. Mutually to bear with each other’s infirmities, weakness, tenderness, failings, in meekness, patience, pity, and with assistance →]]

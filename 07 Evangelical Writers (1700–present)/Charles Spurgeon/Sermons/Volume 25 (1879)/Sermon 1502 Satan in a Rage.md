@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Satan in a Rage
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1502
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 2, 1879,.
+*Delivered on Lord's-Day Morning, November 2, 1879*
 
 > "Woe to the inhibitors of the earth and of the sea! For the devil has come down to you, having great wrath, because he knows that he has but a short time." Revelation 12:12.
 
@@ -138,7 +137,6 @@ One more comfort for you and it is this—the more Satan rages, the more must yo
 Tell him so and it is not long before he will depart. Say, "Rejoice not over me, O my enemy; though I fall, yet shall I rise again." Tell him you know his Master. Tell him he may nibble at your heel, but you recollect one that broke his head. Point to his broken head he always tries to hide if he can. Tell him his crown is battered to pieces and tell him where that deed was done and by whose blessed hand! And as you tell him these things, he will shrink back and you shall find yourself alone with Jesus! Then will Jesus say to you, "Where is your accuser?" You will look around and the enemy will be gone. And then your blessed Master will say, "Neither do I condemn you, go and sin no more."
 
 The Lord grant us to get such a riddance of our archenemy and to get it this very moment for Christ's dear sake. Amen.
-
 
 ---
 [[Sermon 1501 Refuges of Lies and What Will Become of Them|← #1501]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1503 How to Read the Bible|#1503 →]]

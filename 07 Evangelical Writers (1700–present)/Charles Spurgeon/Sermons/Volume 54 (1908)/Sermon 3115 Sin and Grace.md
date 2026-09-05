@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Sin and Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3115
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Where sin abounded, Grace did much more abound." Romans 5:20.
 
@@ -79,7 +76,7 @@ Sin has separated us from God, but Grace has brought us nearer to God than we ev
 
 One practical remark I want to make before I close. It is this—if you have received this Grace which has abounded over your sin, take care that you do more for Grace than you ever did for sin. It is amazing how much people will do for sin—what they will give, what they will spend, and what they will endure to gratify their passions and serve their cruel taskmaster, Satan! I should not like to guess what some men waste on their lusts. I should not like to make a calculation as to what some people spend in a year on what they call their pleasures. Well, whatever the amount is, shall they give more, shall they do more for their god than we give and do for ours? Shall they be more intense in their adoration of Satan than we are in our obedience to God? That must never be, nor must we ever permit them to outdo us in the praises of their treasure! They make night hideous with their praises of their god, Bacchus—but we do not often annoy them with the songs of Zion! It would be as well, perhaps, if we did, but we are often cowards in not rendering due praises to our God. They are not ashamed to make the sky ring with their lascivious notes—then let us pluck up courage and solidly assert the glories of our God and the wonders of our Lord and Savior, Jesus Christ! Especially, let us never be ashamed to say, "He loved me and gave Himself for me—blessed be His holy name forever and ever. Amen."
 
-EXPOSITION BY C. H. SPURGEON: ROMANS5.
+## Exposition by C. H. Spurgeon: Romans 5
 
 Verse 1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ [See Sermon #1456,
 
@@ -142,7 +139,6 @@ was terribly effectual—it has brought death upon the human race, age after age
 20\. But where sin abounded, Grace did much more abound. There was more Grace than terror even in the Law! It has served a gracious purpose, for it was given to make us realize our guilt and so might drive us to seek the Grace of God for its forgiveness. Salvation is all of Grace! Sin cannot conquer Grace—it has had a hard struggle for it, but Grace will ultimately win the victory in all who believe in Jesus.
 
 21\. That as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord. The drift of the whole chapter is to comfort Believers in the time of trouble by the fact of the great love of God to them in the Person of Jesus Christ their Lord and Savior.
-
 
 ---
 [[Sermon 3114 God's Providence|← #3114]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3116 Preparing to Depart|#3116 →]]

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 54. Deuteronomy 4:44-49
-
-**Deuteronomy 4**
 
 **44.** And this *is* the law which Moses set before the children of Israel:
 

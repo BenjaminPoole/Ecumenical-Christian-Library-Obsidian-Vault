@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Meditation on God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2690
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My meditation of Him shall be sweet." Psalm 104:34.
 
@@ -114,7 +111,6 @@ O wicked men! Wicked women! Let me say my closing word to you and to all who kno
 Here is a lesson which will afford you a subject for meditation tonight, you who are servants of the devil. Your master is telling you to make a chain. Some of you have been 50 years welding the links of that chain and he says, "Go and make it still longer." Next Sunday morning you will open that shop of yours and put another link on. Next Sunday night you will be drunk and put another link on. Next Monday you will do a dishonest action, and so you will keep on adding fresh links to the chain. And when you have lived 20 more years, the devil will say, "Add still more links!" And then, at last, his command will be, "Take him and bind him hand and foot, and cast him into a furnace of fire." "For the wages of sin is death."
 
 There is a subject for your meditation! I do not think it will be sweet, but if God makes it profitable, it will do you good. You must have strong medicines, sometimes, when your disease is bad. God apply this message to your hearts! Amen.
-
 
 ---
 [[Sermon 2689 The Ever-Living Christ|← #2689]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2691 Sorrow and Sorrow|#2691 →]]

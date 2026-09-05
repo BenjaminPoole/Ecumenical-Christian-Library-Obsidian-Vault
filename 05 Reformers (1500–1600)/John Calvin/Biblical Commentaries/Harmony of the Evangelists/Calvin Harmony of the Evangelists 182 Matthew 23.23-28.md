@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 182. Matthew 23:23-28; Luke 11:42, 44
-
-**MATTHEW 23:23-28; LUKE 11:42, 44**
 
 **23.** Woe to you, scribes and Pharisees, hypocrites! for you pay tithe of mint, and anise, and cumin and have omitted the more important points of the law, judgment, and mercy, and faith. The latter you ought to have done, and not to have omitted the former. **24.** Blind guides, who strain out the gnat, but swallow the camel. **25.** Woe to you, scribes and Pharisees, hypocrites! for you cleanse the outer part of the cup and of the dish, but within they are full of extortion and intemperance. **26.** Blind Pharisee, cleanse first what is within the cup and dish, that the outer parts of them also may be made clean. **27.** Woe to you, scribes and Pharisees, hypocrites! for you are like whitened sepulchers, which outwardly indeed appear beautiful, but within are full of dead men’s bones, and of all filthiness. **28.** So you also outwardly indeed appear righteous to men; but within you are full of hypocrisy and iniquity.
 

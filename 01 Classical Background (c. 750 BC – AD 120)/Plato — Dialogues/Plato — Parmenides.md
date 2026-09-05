@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Parmenides
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-PARMENIDES
+## Parmenides
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 The awe with which Plato regarded the character of 'the great'
 Parmenides has extended to the dialogue which he calls by his name. None
@@ -714,7 +709,6 @@ The argument has two divisions: There is the hypothesis that
      Involving two parallel consequences respecting the other or remainder:
      2.aa.  If one is not one, other things are all.
      2.bb.  If one has not being, other things are not.
-
 
 .....
 
@@ -1534,11 +1528,7 @@ opinion, better confirmation,' not merely as the inspirations either of
 ourselves or of another, but deeply rooted in history and in the human
 mind.
 
-
-
-
-PARMENIDES
-
+## Parmenides
 
 PERSONS OF THE DIALOGUE: Cephalus, Adeimantus, Glaucon, Antiphon,
 Pythodorus, Socrates, Zeno, Parmenides, Aristoteles.
@@ -1546,7 +1536,6 @@ Pythodorus, Socrates, Zeno, Parmenides, Aristoteles.
 Cephalus rehearses a dialogue which is supposed to have been narrated in
 his presence by Antiphon, the half-brother of Adeimantus and Glaucon, to
 certain Clazomenians.
-
 
 We had come from our home at Clazomenae to Athens, and met Adeimantus
 and Glaucon in the Agora. Welcome, Cephalus, said Adeimantus, taking me

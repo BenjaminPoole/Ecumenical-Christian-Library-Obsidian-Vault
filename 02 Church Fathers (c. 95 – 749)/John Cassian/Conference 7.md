@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 7
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-FIRST CONFERENCE OF ABBOT SERENUS. ON INCONSTANCY OF MIND, AND SPIRITUAL WICKEDNESS.
+## First Conference of Abbot Serenus. On Inconstancy of Mind, and Spiritual Wickedness
 
 ## Chapter 1
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Believers A Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3045
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You shall be a blessing," Zechariah 8:13.
 
@@ -136,7 +133,6 @@ Or on the other hand, are you passing through a very trying experience? If so, y
 Yes, Beloved, and we may even be content to die if our last testimony shall be more useful than any that we have borne before! If God will enable us to glorify Him by being a blessing to others, we will be content. I hope we can say that we desire nothing on earth compared with this—to be blessed of God and to be made a blessing by God. We covet not earthly wealth or position, but we do covet the honor of being a blessing! Have an insatiable thirst for this honor, beloved Brothers and Sisters in Christ—to be a blessing to tens, to hundreds, to thousands, to the millions of this great city! Incessantly strive, by your private prayer, by your generous alms, by your kindly deeds, by your public testimony, to be a blessing and may God bless you more and more—you and your children—for His dear name's sake!
 
 But, alas, there are many who cannot be a blessing to others, for they are not themselves saved. They are getting gray, but they are not saved! Death will soon call for them. Hell opens wide for them and they are not saved! May the Lord have mercy upon all of you who are not saved and may He, by His Grace, constrain you to believe on the Lord Jesus Christ and then to make the Scriptural profession of your faith, for HE said, "He that believes and is baptized shall be saved." May God grant that you may all "be saved in the Lord with an everlasting salvation," for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3044 Spiritual Transformations|← #3044]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3046 One of the Master's Choice Sayings|#3046 →]]

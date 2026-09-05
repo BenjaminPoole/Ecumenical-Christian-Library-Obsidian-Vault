@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Maroth—or, the Disappointed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3184
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the inhabitant of Marroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem." Micah 1:12.
 
@@ -83,7 +80,7 @@ I fear that there are some here who have no right to cherish any of these expect
 
 was all in vain, for die they must! God save all of you, my dear Hearers, from such a doom as that! In order that it may be so, put not your trust in things below—be not like the inhabitants of Maroth who looked to the Philistines and the Egyptians to help them—and so waited in vain for the good that never came. But turn your eyes unto Him who says, "Look unto Me, and be you saved," and then your expectations shall not be disappointed. So may it be, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 4.
+## Exposition by C. H. Spurgeon: Hebrews 4
 
 (This Exposition belongs to sermon No. 3182, Volume 56—"Boldness at the Throne," but there was no space available for it there.
 
@@ -120,7 +117,6 @@ and related to one another that we need not attempt to separate them, but see Ch
 of charge, at http://www.spurgeongems.org.] Let us, therefore, come boldly unto the Throne of Grace, that we may obtain mercy and find Grace to help in time of need.
 
 as we are, yet without sin. [See Sermon #2143, Volume 36—THE TENDERNESS OF JESUS
-
 
 ---
 [[Sermon 3183 Cheer for Despondency|← #3183]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3185 'A Song of My Beloved'|#3185 →]]

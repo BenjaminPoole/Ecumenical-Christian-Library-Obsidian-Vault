@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # A TRAITOR SUSPECTED AND CONVICTED
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1878
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The carnal mind is enmity against God." Romans 8:7.
 
@@ -130,7 +127,6 @@ Soon dissolves a heart of stone." May you receive a sense of that love at once a
 For that—to conclude with—is the main thing. While the man continues to mind the flesh, he cannot love God. While his first business is his body and the things of time and sense, he is and must be at enmity with God. But when the Lord Jesus Christ wins his heart. When the Spirit of God renews his mind. When he comes to love God—then he cares for spiritual things—then his treasure is in Heaven and his heart is there also! Then his hopes are in the advent of the Lord Jesus Christ when He shall come a second time—and then his life tends towards Heaven, honor and immortality. Thus the man is raised from being a worm of the earth to kinship with angels! He drops the serpentine slough and puts on the seraphic wings. He gets away from the mole life, burrowing under ground in the dark, and gains the eagle's eye and the eagle's pinion. He quits the gloom and night of earth and mounts aloft with his eyes upon the Sun of Glory, delighting in the holy and the heavenly!
 
 God bring you to that state by faith in Jesus Christ! Amen.
-
 
 ---
 [[Sermon 1877 Our Own Dear Shepherd|← #1877]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1879 A Plain Man's Sermon|#1879 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 132
-
-**PSALM 132**
 
 The writer of this Psalm, whoever he may have been [^1] here, in the name of all the faithful, puts God in remembrance of his promise, that he would never suffer his house or kingdom to fail, but support and defend both.
 

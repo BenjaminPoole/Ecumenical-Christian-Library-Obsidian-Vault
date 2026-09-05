@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 8
 
-BY ST. GREGORY OF NYSSA
+*By St. Gregory of Nyssa*
 
 To a Student of the Classics
 

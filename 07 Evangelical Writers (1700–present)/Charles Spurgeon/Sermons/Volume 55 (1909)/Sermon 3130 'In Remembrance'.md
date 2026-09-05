@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'In Remembrance'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3130
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This do in remembrance of Me...This do you, as often as you drink it, in remembrance of Me." 1 Corinthians 11:24,25.
 
@@ -118,7 +115,6 @@ which He has Himself appointed as His special memorial! Remember Him often! Pray
 And then, last of all, never come to this Table except it is with the solemn determination that you will remember Him. You mock Christ if you regard this communion as anything other than the remembrance of Him. What is there in that bread? What is there in that wine? There is nothing whatever there but bread and wine after we have invoked a blessing upon them just as there was before! We pay these emblems no reverence of any kind, nor could we do so without being guilty of idolatry! There is nothing in the whole ordinance but a help to our memory and I have tried to explain to you how it does help the memory. But if you do not remember Jesus, if you have no faith in Him, if you do not love Him, if you do not cast yourselves wholly upon Him, what business have you at His Table? You have no part nor lot in this matter! Faith in Christ first, then Baptism, then the Lord's Supper! But neither of these ordinances is for unbelievers— and whoever dares to observe them as an unbeliever, or to get others who believe not in Christ to observe them—is a profaner of the ordinances, a thief and a robber who is doing incalculable mischief to the souls of men! Come to Jesus first—believe in Him and you shall be saved. Go to the foot of the Cross, confessing your sins and trusting in Him who hung there—and then, after that, we are told to bid you remember all things that He has commanded you and to tell you that He has promised to be with us even to the end of the age!
 
 Observe you, then, these things in their right order! Faith in Jesus first and then obedience to Jesus and the remembrance of Jesus in His own appointed way. If you miss the all-important matter of faith in Jesus, you have gained the chaff, but lost the wheat—you have gained the salt, but it has no savor—you have a name to live, but you have not life eternal! God grant that none of us may be found thus lacking the one thing necessary, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3129 The King's Mowings|← #3129]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3131 The Fainting Hero|#3131 →]]

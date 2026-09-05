@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # My Hourly Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1657
 
-DELIVERED ON LORD'S-DAY EVENING, FEBRUARY 26, 1882,.
+*Delivered on Lord's-Day Evening, February 26, 1882*
 
 > "Hold You me up, and I shall be safe: and I will have respect unto Your statutes continually." Psalm 119:117.
 
@@ -144,7 +143,6 @@ Your mercy, O Lord,
 Held me up."
 
 "Now unto Him that is able to keep you from falling, and to present you faultless before the presence of His Glory with exceeding joy, to the only wise God our Savior, be Glory and majesty, dominion and power, both now and forever. Amen."
-
 
 ---
 [[Sermon 1656 My Solace in My Affliction|← #1656]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1658 Healed or Deluded Which|#1658 →]]

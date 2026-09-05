@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Fathomless
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3368
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your judgments are a great deep." Psalm 36:6.
 
@@ -27,7 +24,7 @@ But I prefer tonight to take the text as it may refer to God's dealings with His
 
 Now, these dealings of God with His servants, always wise and prudent, are frequently like great deeps. This evening I shall simply work out three or four thoughts which arise out of that metaphor.
 
-I. THE DEALINGS OF GOD WITH HIS PEOPLE ARE OFTEN UNFATHOMABLE.
+## I. The Dealings of God with His People Are Often Unfathomable
 
 We cannot discover the foundation or cause and spring of them. Some of God's servants who are earnestly desirous to provide things honest in the sight of all men, though they are industrious and energetic and use proper prudence, do not find themselves able to prosper in trade. They are thwarted in all their purposes. There seems to be a kind of fatality connected with all their enterprises. If they do but touch a business or a bargain which will turn into gold with the traffic of others, it melts under their hand into dross. Now, it is not always that this can be explained. "Your judgments are a great deep"—a matter to be perceived as a fact, but not to be explained by reasoning.
 
@@ -49,7 +46,7 @@ Many other reasons why God calls His people thus to feel His judgments occur to 
 
 I leave that thought with you—expect that God's judgments will sometimes be unfathomable. In the next place—if God's judgments are a great deep—
 
-II. THEN THEY ARE SAFE SAILING.
+## II. Then They Are Safe Sailing
 
 Ships never strike on rocks out in the great deeps. Children, perhaps, may fancy that a shallow sea is the safest, but an old sailor knows better. While they are off the Irish coast the captain has to keep a good look out, but while he is crossing the Atlantic he is in far less danger. There he has plenty of room and there is no fear of quicksands or of shoals. When the sailor begins to come up the Thames, then it is that there is first one sandbank and then another, and he is in
 
@@ -63,11 +60,11 @@ Down in those great depths, who knows what there may be? Pearls lie deep there�
 
 Now, Brothers and Sisters, I said there were treasures concealed in the great deeps which we cannot yet reach, and so in the great deeps in which God makes us to do business there are great treasures that we cannot come upon at present. We do not, perhaps, as yet, receive, or even perceive, the present and immediate benefit of some of our afflictions. There may be no immediate benefit—the benefit may be for hence and to come. The chastening of our youth may be intended for the ripening of our age. "It is good for a man that he bear the yoke in his youth." The affliction of today may have no reference to the circumstances of today, but to the circumstances of 50 years ahead! I do not know that that blade required the rain on such a day, but God was looking not to February as such, but to February in its relation to July, when the harvest should be reaped. He considered the blade not merely as a blade and in its present necessity, but as it would be in the full corn in the ear. There are certain marks that an artist makes upon the block that you cannot see the reason of as yet—and they spoil the apparent likeness of the block and marble to the image which you know he wishes to produce—but then those lines are to be worked out, by-and-by! They are scratches now, but they will be lines of beauty soon, when he comes to finish them. So, a present trial may even lame us for present service, damage us—I will even go the length of saying—for years to come and make us go groaning and brokenhearted, so as to be of comparatively little service to the Church and of very little joy to ourselves. But then afterwards—afterwards as Paul puts it—it bears the peaceable fruits of righteousness in those that are exercised thereby. Why will you not let the Lord have time? Why will you be in a hurry? Why will you stand at His elbow and perpetually say, "Explain this today and show me the motive and reason of this in this present hour"? A thousand years in His sight are but as yesterday when it is past, and as a watch in the night! The mighty God takes mighty time in which to work out His grand results! Therefore, be content to let the treasures lie at the bottom of the deep for awhile. But then faith may see them. Faith can make the deep translucent till it sees the treasure lying there—and it is yours and though you may not at this hour be able to be at it—yet you shall have it, "for all things are yours." Everything that is stored up in the great deep of the Eternal Purpose, or in the deep of the manifest judgment, everything there belongs to you, O, Believer! Therefore rejoice in it and let it lie there till such a time as God may choose to raise it for your spiritual enrichment. God's judgments are a great deep—
 
-IV. AND THEY WORK MUCH GOOD.
+## IV. And They Work Much Good
 
 The great deep, though ignorance thinks it to be all waste—a salt and barren wilderness—is one of the greatest blessings to this round world! If, tomorrow, there should be "no more sea," although that may one day be a blessing, it would not be so today, but the greatest of all curses! It is from the sea that there arises the perpetual mist which, floating by-and-bye in mid-air, at last descends in plenteous showers on hill and vale to fertilize the land. The sea is the great heart of the world—I might say the circulating blood of the world! We must have it. It must be in motion. Its tides, like a great pulse, must be felt, or the world's vitality would cease. There is no waste in the sea—it is all needed. It must be there. There is not a drop of it too much. So with our afflictions which are Your judgments, O God! They are necessary to our life, to our soul's health, to our spiritual vigor. "By all these," said one of old, "do men live, and in all these is the life of my spirit." Rising up from my trouble is the constant mist which is afterwards transformed into sacred dew, which moistens my life. "It is good for me that I have been afflicted," said David. "Amen!" say all the afflicted ones. A thousand sick beds shall bear witness to the blessedness of the trial. A thousand losses and crosses that have been borne by the faithful now help the sweetness of the harmony of everlasting hymns in the land of the blessed. "Oh, blessed cross," said one, "I fear lest I should come to love you too much! 'Tis so good to be afflicted!" May God grant to us that at all times, instead of trying to fathom the deep, we may understand that it is useful to us and be content. Lastly, if God's judgments are a great deep—
 
-V. THEN THEY BECOME A HIGHWAY OF COMMUNION WITH HIMSELF.
+## V. Then They Become a Highway of Communion with Himself
 
 We thought at one time that the deep separated different peoples—that nations were kept asunder by the sea. But lo, the sea is today the great highway of the world! The rapid ships cross it with their white sails, or with their palpitating engines they soon flash across the waves. The sea is the world's great canal—a mighty channel of communication. And so, Brothers and Sisters, our afflictions—which we thought in our ignorance would separate us from our God—are the highway by which we may come nearer to God than we otherwise could! They that go down to the sea in ships, that do business on the great waters, these see the works of the Lord and His wonders in the deep. You that keep close in shore and have but small trials, you are not likely to know much of His wonders in the deep—but if you are made to put out far to sea, where deep calls unto deep and the noise of God's waterspouts astounds the spiritual mariner, then it is that you shall see God's wonders—wonders of faithfulness, wonders of power, wonders of wisdom, wonders of love! You shall see them and you shall rejoice to see them! These troubles shall be as fiery chariots to bear you up to God. Your afflictions, wave upon wave, shall wash your soul, like a tempest-tossed boat, nearer to the haven. Oh, but this is a blessed thing when God's judgments bring us nearer to Him! Old Quarles has a quaint idea when he represents God as swinging
 
@@ -81,7 +78,7 @@ Dear child of God, you that are in trouble tonight, the voice of that trouble is
 
 May God bless the tried ones here! But there are some here, perhaps, who are in trial and have no God to go to. Poor souls! Poor souls! Poverty and no God! Sickness and no God! A life of toil, and no Heaven! A slavery of penury on earth and then driven forever away from God's Presence! Oh, how pitiable! How pitiable! Pity yourselves and remember that it need not always be so. You may have a Heaven, you may have present bliss. Here is the Gospel—"He that believes and is baptized shall be saved." Oh, if you can but trust Him who bled upon the Cross, you shall have comfort for your present trouble! You shall have pardon for your past, present and future sins! The Lord bless each one of you, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 73; 37:1-10.
+## Exposition by C. H. Spurgeon: Psalms 73; 37:1-10
 
 TITLE, "A PSALM OF ASAPH." He was a great singer, but he could not always sing. In the first part of the Psalm he felt rather like groaning than singing—and you shall find that those who sing the sweetest the praises of God sometimes have to hang their harps upon the willows and are silent. The strong temptation through which Asaph passed is one which is very common. You find another account of it in the 37th Psalm. It may help your memory to notice that it is the 37th and the 73rd Psalm (transpose the figures) which are both upon the same subject—the temptation caused to the people of God by the prosperity of the wicked.
 
@@ -162,7 +159,6 @@ PSALM 37. Verse 1. Fret not yourself because of evildoers, neither be you enviou
 10\. For yet a little while, and the wicked shall not be. How transient are their joys! Their wealth which they accumulate, the beauty which they think is upon their estate—all this is but as the painted colors of the bubble, which is scarcely seen before it vanishes. Will you envy this? Will you envy a little child his playthings, which will be broken in an hour? Will you envy a madman the straw crown which he plaits and puts upon his head when he thinks himself a king? Oh, be not so foolish! Your inheritance is eternal and you are immortal! Why should you envy the creature of an hour? "For yet a little while, and the wicked shall not be."
 
 10\. Yes, you shall diligently consider his place. His mansion, his house, the grand figure that he cut in society.
-
 
 ---
 [[Sermon 3367 Paul As a Pattern Convert|← #3367]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3369 Man Humbled, God Exalted|#3369 →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 115. Why will God then have the ten commands so strictly preached, since no man in this life can keep them?
-
-**Question 115. Why will God then have the ten commands so strictly preached, since no man in this life can keep them?**
 
 Answer. First, that all our lifetime, we may learn more and more to know our sinful nature, and thus become the more earnest in seeking the remission of sin, and righteousness in Christ; likewise, that we constantly endeavour and pray to God for the grace of the Holy Spirit, that we may become more and more conformable to the image of God, until we arrive at the perfection proposed to us, in a life to come.
 
-**EXPOSITION**
+## **Exposition**
 
 When we enquire concerning the use of the divine law, it is necessary that we should keep in view the differences of each part of the law.
 
@@ -100,7 +97,7 @@ Obj. 10. The law is not necessary to salvation. Therefore, it should not be taug
 
 Obj. 11. We have all things in Christ according to what is said: "And of his fullness have all we received." "In whom are hid all the treasures of wisdom and knowledge." "And ye are complete in him." (John 1:16. Col. 2:3, 10.) Therefore, we must not go back from Christ to Moses, nor is there any need of the law in the church of Christ. Ans. There is here a fallacy of the consequent, which proceeds from a statement of the whole to a denial of a part. The whole wisdom and knowledge, or doctrine which has been delivered unto us by Christ, is sufficient and necessary for the church. But the moral law is also a part of this doctrine, because Christ does not only command that faith, but that repentance also should be preached in his name. Hence, the doctrine of the law is not excluded from the perfect wisdom which we have in Christ, but is rather included in it.
 
-FORTY-FIFTH LORD'S DAY
+## Forty-Fifth Lord's Day
 
 ---
 [[Ursinus HC Q114|← Question 114. But can those who are converte]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q116|Question 116. Why is prayer necessary for Ch →]]

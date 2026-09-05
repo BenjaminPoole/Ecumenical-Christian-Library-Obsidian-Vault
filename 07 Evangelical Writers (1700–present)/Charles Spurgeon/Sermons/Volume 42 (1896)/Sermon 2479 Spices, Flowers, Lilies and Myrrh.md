@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Spices, Flowers, Lilies and Myrrh
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2479
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His cheeks are as a bed of spices, as sweet flowers: His lips like lilies, dropping sweet-smelling myrrh." Song of Solomon 5:13.
 
@@ -102,7 +99,6 @@ Oh, dear Friends, beware of going to places of worship merely to hear men! Of co
 This blessing is what you and I must seek after day by day, for we need this myrrh for the healing of the wounds that sin has made. We need this myrrh in our spiritual worship that we may offer it up to God. We need this myrrh to perfume us and make our lives fragrant in the midst of our daily cares. We need this myrrh to kill the contagion that abounds in this wicked world—and we shall get it through the Word of God when it comes fresh from the lips of Christ! O God, bring us all into this blessed state!
 
 I close by saying that if there are any here present who do not prize the Word of God, who have no care to listen to the lips of Christ, I pray God that they may speedily be converted, for if they are not, they shall hear Him speak when His lips shall not be as lilies, but as a flaming fire! And His Word that shall be spoken, then, shall burn as an oven, and His enemies shall be consumed thereby! God give Grace to such as have not believed in Jesus to look to Him and listen to Him now! "Incline your ears," He says, "and come to Me: hear, and your soul shall live." Yes, He says, "Look to Me, and be you saved, all the ends of the earth: for I am God, and there is none else." May God give His blessing to these words, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2478 Christ's Perfection and Precedence|← #2478]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2480 The Tender Grapes|#2480 →]]

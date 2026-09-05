@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # "If You Can"—"If You Can"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2224
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If You can do anything, have compassion on us, and help us. Jesus said unto him, If you can believe, all things are possible to him that believes." Mark 9:22,23.
 
@@ -126,7 +123,6 @@ Take him out at night and the first things he sees are the stars! He says, "What
 May this never be the case and, lest it should, come, now, and bring your case before Christ! It is no use to bring it before me and let me preach to you. It is no use to bring it before the mere means of Grace! Turn to the Lord Jesus, who is beside you, and tell Him all the case—say to Him that you renounce all other hope and trust yourself in His hands. Believe in Him this moment, lest haply the very Gospel, itself, should be a "savor of death unto death" to you. If you trust to Christ, you must have life! O Spirit of God, help many to come this very hour and trust in the Crucified, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Mark 9.
-
 
 ---
 [[Sermon 2223 Abraham's Trial—a Lesson for Believers|← #2223]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2225 A Clarion Call to Saints and Sinners|#2225 →]]

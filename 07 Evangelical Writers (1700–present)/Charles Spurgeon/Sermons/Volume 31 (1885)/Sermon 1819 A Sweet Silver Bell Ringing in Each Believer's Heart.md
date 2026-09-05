@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # A Sweet Silver Bell Ringing in Each Believer's Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1819
@@ -103,8 +102,7 @@ O, my dear hearer, have you a God? Strange question, but I press it even with te
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Micah 7.
 
-HYMNS FROM OUR OWN HYMN BOOK—622, 999, 981.
-
+## Hymns from Our Own Hymn Book—622, 999, 981
 
 ---
 [[Sermon 1818 The Song of a City, and the Pearl of Peace|← #1818]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1820 Fallen Angels a Lesson To Fallen Men|#1820 →]]

@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. A Treatise on Good Works About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## A Treatise on Good Works
 
 ### By
 

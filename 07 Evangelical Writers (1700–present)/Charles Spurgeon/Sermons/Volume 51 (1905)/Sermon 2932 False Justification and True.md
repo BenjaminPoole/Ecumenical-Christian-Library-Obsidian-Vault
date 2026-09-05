@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # False Justification and True
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2932
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If I justify myself, my on mouth shall condemn me." Job 9:20.
 
@@ -93,7 +90,7 @@ The young man looked up and said, "Yes, Sir." "When?" asked the preacher. The yo
 
 You may have come into this place unsaved and have been sitting here a lost soul—yet you may go home saved in the Lord with an everlasting salvation and you may know it, too! So I say to each individual here—If you believe in the Lord Jesus Christ, you are saved, saved now and saved forever! Therefore be of good courage, you who have trusted in the Lord, and go your way rejoicing in Him and may God bless you both now and forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10.
+## Exposition by C. H. Spurgeon: Romans 10
 
 In commenting once more upon this familiar Chapter, I cannot help repeating a remark which I have made to you before—that it is very significant that this 10th Chapter should immediately follow the subject dealt with in the 9th Chapter. In the 9th Chapter we have the Doctrine of Absolute Predestination proclaimed in the sternest and boldest manner—the Doctrine that God will have mercy on whom He will have mercy, and will have compassion on whom He will have compassion. Now, it is commonly thought by those who do not rightly understand Calvinism that that Doctrine has a tendency to burden the heart and dry up the springs of compassion. That it was not so in Paul's case is very clear, for this Chapter is a most affectionate one and in it the Apostle manifests a most loving spirit towards his fellow countrymen, the Jews, and the chapter also contains the widest conceivable declaration of the Gospel of Jesus Christ—the fact being that the grand Doctrine of Divine Predestination is by no means inconsistent with the fullest and freest preaching of the Gospel of Christ!
 
@@ -122,7 +119,6 @@ Verse 1. Brethren, my heart's desire and prayer to God for Israel is that they m
 19, First Moses says, I will provoke you to jealousy by them that are not a nation and by a foolish nation I will anger you. So the poor outcast Gentiles have received Christ although Israel rejected Him!
 
 20, 21. But Isaiah is very bold, and says, I was found of them that sought Me not; I was made manifest unto them that asked not after Me. But to Israel He says, All day long I have stretched forth My hands unto a disobedient and gainsaying people. God grant that we may not be disobedient and gainsaying as Israel was but that we may all accept Christ at once as our only and all-sufficient Savior!
-
 
 ---
 [[Sermon 2931 Return! Return!|← #2931]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2933 Dead, Yet Alive|#2933 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 70. Matthew 8:1-4; Mark 1:40-45; Luke 5:12-16
-
-**MATTHEW 8:1-4; MARK 1:40-45; LUKE 5:12-16**
 
 **1**. And when he had come down from the mountain, great multitudes followed him. **2**. And, lo, a leper, approaching, worshipped him, saying, Lord, if thou art willing, thou art able to cleanse me. **3**. And Jesus, having stretched out his hand, touched him, saying, I am willing; be thou clean: and immediately his leprosy was cleansed. **4**. And Jesus saith to him, See that thou do not tell it to any man: but go, show thyself to the priest, and present the offering which Moses commanded, for a testimony to them.
 

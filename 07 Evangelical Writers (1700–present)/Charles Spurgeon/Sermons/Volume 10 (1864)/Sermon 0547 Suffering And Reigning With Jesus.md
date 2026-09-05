@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Suffering And Reigning With Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 547
 
-DELIVERED ON SUNDAY MORNING JANUARY 3, 1864,.
+*Delivered on Sunday Morning January 3, 1864*
 
 > "If we suffer, we shall also reign with Him: if we deny Him, He also will deny us." 2 Timothy 2:12.
 
@@ -142,7 +141,6 @@ You will not! You cannot! I know you cannot if the Spirit of the Lord dwells in 
 What will Jesus say? I know you not! "But, Lord, I want You to be my Advocate." I know you not! "But, Lord, I cannot get into Heaven unless You should open the gate—open it for me." I do not know you! I do not know you! "But, Lord, my name was in the Church Book." I know you not—I deny you. "But will You not hear my cries?" You did not hear Mine—you did deny Me and I deny you. "Lord, give me the lowest place in Heaven, if I may but enter and escape from wrath to come." No, you would not brook the lowest place on earth and you shall not enjoy the lowest place here. You had your choice and you did choose evil. Keep to your choice. You were filthy, be you filthy still. You were unholy, be you unholy still.
 
 O, Sirs, if you would not see the angry face of Jesus! O, Sirs, if you would not behold the lightning flashing from His eyes and hear the thunder of His mouth in the day when He judges the fearful and the unbelieving and the hypocrite. If you would not have your portion in the lake which burns with fire and brimstone, cry this day mightily unto God, "Lord, hold me fast, keep me, keep me. Help me to suffer with You, that I may reign with You. But do not, do not let me deny You, lest You also should deny me."
-
 
 ---
 [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0548 Forward! Forward! Forward!|#548 →]]

@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 5. Book III. Of the Presence of Christ, Part 1
 
-CONFUTATION OF THE THIRD BOOK.
+*Confutation of the Third Book*
 
 IN the beginning of the third book, the author hath thought good to note certain differences, 48. which I will also particularly consider. It followeth in him thus. oe ee “ They teach that Christ is in the bread and wine: but we say, according to the truth, that a he is in them that worthily eat and drink the bread and wine.” Note here, reader, even in the entry of the comparison of these differences, how untruly (The answer, the true faith of the church is reported, which doth not teach that Christ is in the bread and I, 1551.) wine (which was the doctrine of Luther); but the true faith is, that Christ’s most precious body and blood is, by the might of his word and determination of his will, which he declareth by his word, in his holy supper present under form of bread and wine. The substance of which natures of bread and wine is converted into his most precious body and blood, as it is truly “believed and taught in the catholic church, of which teaching this author cannot be ignorant. So as the author of this book reporteth an untruth wittingly against his conscience, to say they teach (calling them papists) that Christ is in the bread and wine, but they agree in form of teaching with that the church of England teacheth at this day, in the distribution of the holy *The teachcommunion, in that it is there said, the body and blood of Christ to be under the form of meni tris bread and wine. And thus much serveth for declaration of the wrong and untrue report Sy 05 "he of the faith of the catholic church, made of this author in the setting forth of this difference England on that part, which it pleaseth him to name papists. Hace het And now to speak of the other part of the difference on the author’s side, when he would Pavists’. tell what he and his say, he conveyeth a sense craftily in words to serve for a difference, such *Crafty conas no catholic man would deny. For every catholic teacher granteth, that no man can receive speech by. worthily Christ's body! and blood in the sacrament, unless he hath by faith and charity Christ * dwelling in him. For otherwise, such one as hath not Christ in him, receiveth Christ's body in the sacrament uwnworthily, to his condemnation. Christ cannot be received worthily, but *Worthy re- ‘into his own temple, which be ye, Saint Paul saith; and yet, he that hath not Christ's Spirit Christ's 2a him, is not his. As for calling it bread and wine, a catholic man forbeareth not that —- bn , signifying what those creatures were before the consecration in substance. Wherefore 1 Cor. vi. f reth, how the author of this book, in the liew and place of a difference, which he pretendeth he would shew, bringeth in that under a “but”, which every catholic man must needs confess, that Christ is in them who worthily eat and drink the sacrament of his body and blood, or the bi ad and wine, as this author speaketh. _ But as? this author would have spoken plainly, and compared truly the difference of the *A difference ld be of teachings, he should in the second part have said somewhat contrary to that the catholic soutrariah burch teacheth, which he doth not; and therefore as he sheweth untruth in the first report, $0 he sheweth a sleight and shift in the declaration of the second part, to say that repugneth
 
@@ -23,7 +22,7 @@ Of the substance of the sacrament to be received, where it is truth, Christ to b
 
 30 both the differences thus taught make but one catholic doctrine. Let us see what the author aith further.
 
-; CANTERBURY.
+## ; Canterbury
 
 Gtkow the crafts, wiles, and untruths of the first book being partly detected, after
 
@@ -75,7 +74,7 @@ ref ont? PS ee eet i you purge yourself of that, which in the meantime I take to
 
 Repugnances,
 
-54 THE THIRD BOOK.
+## 54 the Third Book
 
 corporal presence,) bread and wine? Let the reader now judge, whether you be caught in your own snare or no. But such is the success of them that study to wrangle in words, without any respect of opening the truth.
 
@@ -85,7 +84,7 @@ And where you note in this second part of the difference a sleight and craft, as
 
 They say that Christ is corporally under, or in the forms of bread and wine: we say, that Christ is not there, neither corporally, nor spiritually; but in them that worthily eat and drink the bread and wine, he is spiritually, and corporally in heaven?.
 
-Here, I trust, I have satisfied, as well the untrue report wittingly made, as you say, in the first part of the difference against my conscience, as the craft and sleight — used in the second part. But what be you eased now by this? We say as the scripture teacheth, that Christ is corporally ascended into heaven, and nevertheless he is so* in them that worthily eat the bread and drink the wine, given and distributed at his holy supper, that he* feedeth and nourisheth them with his flesh and blood unto eternal — life. But we say not (as you do, clearly without ground of scripture), that he is cor- porally under the forms of bread and wine, where his presence should be without — any profit or commodity, either to us, or to the bread and wine.
+Here, I trust, I have satisfied, as well the untrue report wittingly made, as you say, in the first part of the difference against my conscience, as the craft and sleight — used in the second part. But what be you eased now by this? We say as the scripture teacheth, that Christ is corporally ascended into heaven, and nevertheless he is so* in them that worthily eat the bread and drink the wine, given and distributed at his holy supper, that he* feedeth and nourisheth them with his flesh and blood unto eternal — life. But we say not (as you do, clearly without ground of scripture), that he is corporally under the forms of bread and wine, where his presence should be without — any profit or commodity, either to us, or to the bread and wine.
 
 And here in this difference, it seemeth that you have either clearly forgotten, or — negligently overshot yourself, uttering that thing unawares which is contrary to your whole book. For the first part (which is of the being of Christ in the sacramental — bread and wine,) is of the substance of the sacrament to be received, say you, where — it is true, Christ to be present God and man. The second part, say you, which is of the being of Christ in them that worthily eat and drink the bread and wine, is of Christ’s spiritual presence. Of your which words® I see nothing to be gathered, — but that as concerning his substantial presence, Christ is received into the sacramental — bread and wine; and as for them that worthily receive the sacrament, he is in them none otherwise than after a spiritual presence: for else why should ye say, that the — second part is of Christ’s spiritual presence, if it be as well of his corporal, as of his® — spiritual presence? Wherefore, by your own words, this difference should be under- — standed of two different beings of Christ, that in the sacrament he is by his substance, — and in the worthy receivers spiritually, and not by his substance; for else the differences — repugn not, as you object against me. Wherefore either you write one thing and mean another, or else, as you write of other, God so blindeth the adversaries of the truth, that in one place or other they confess the truth unawares. Now follow my words in the second comparison.
 
@@ -99,7 +98,7 @@ In this comparison, the author termeth the true catholic teaching at his pleasur
 
 Now where this author in the second part, by an adversative with a “but” to make the comparison, telleth what he and his say, he telleth in effect that which every catholic man must needs and doth confess. For such as receive Christ's most precious body and blood in the sacrament worthily, they have Christ dwelling in them, who comforteth both body and soul; which the church hath ever taught most plainly. So as this comparison of difference in his two parties is made of one open untruth, and a truth disguised, as though it were now first opened by this author and his; which manner of handling declareth what sleight and shift is used in. the matter.
 
-CANTERBURY.
+## Canterbury
 
 In the first part of this comparison I go not about to term the true catholic faith,
 
@@ -129,7 +128,7 @@ Ennocentins and lawyers, that have written of this matter, with Innocent the thi
 
 [! “Certum est, quod species quam cito dentibus | mentum, quandiu est corpus Christi. Sed quandiu teruntur, tam cito in celum rapitur corpus Christi.”’ | hoc sit, id est, usque ad quem locum procedat per —Corpus Juris Canonici: Decreti tertia pars: ‘‘de | gulam, nescio. Sed licet non sit sacramentum, cum consecrat.”’ Dist. 11. ‘* Tribus gradibus,”’ col. 1922. | est in corpore, si tamen evomerit illud, cum venera-
 
-Lugduni, 1618. ] tione est servandum, guia sacramentum fuit.”-—Ib. [? “Hug. species tamen bene vadunt in corpus. | Dist. 11. “* Non iste panis,”’ col. 1942. Ib.] Sed nunquid ibi est sacramentum ? Non, quia desi- [? Would, 1551. ] nit ibi esse corpus Christi: et tandiu est ibi sacra- ee a no —a ~~ s ’ e
+Lugduni, 1618. ] tione est servandum, guia sacramentum fuit.”-—Ib. [? “Hug. species tamen bene vadunt in corpus. | Dist. 11. “* Non iste panis,”’ col. 1942. Ib.] Sed nunquid ibi est sacramentum ? Non, quia desi- [? Would, 1551. ] nit ibi esse corpus Christi: et tandiu est ibi sacra-ee a no —a ~~ s ’ e
 
 Sw i OF THE PRESENCE OF CHRIST. 57
 
@@ -155,7 +154,7 @@ s They say that Christ is received with the mouth, and entereth in with the brea
 
 ‘and wine: we say that he is not received with the mouth, but with heart, and enrhe diftertereth in by faith. And now, I trust, there is no sleight in this comparison, nor both “~~ the parts may not be understand on both sides, as you say they might before.
 
-And as for St Augustine, serveth nothing for your purpose, to prove that Christ’s August, con- tra lit. Petil.
+And as for St Augustine, serveth nothing for your purpose, to prove that Christ’s August, con-tra lit. Petil.
 
 body is eaten with the mouth. For he speaketh not one word in the place by you lib 2.cap. 47.
 
@@ -163,7 +162,7 @@ body is eaten with the mouth. For he speaketh not one word in the place by you l
 
 August. contra lit. Petil.
 
-58 THE THIRD BOOK.
+## 58 the Third Book
 
 alleged, neither of our mouths, nor of Christ’s body. But it seemeth you have so fervent desire’ to be doing in this matter, that you be like to certain men, which have such a fond delight in shooting, that so they be doing, they pass not how far they shoot from the mark. For in this place of St Augustine against the Donatists, he shooteth not at this butt®, whether Christ’s very natural body be received with our mouths, but whether the sacraments in general be received both of good and evil. And there he declareth, that it is all one water, whether Simon Peter, or Simon Magus be christened in it; all one table of the Lord, and one cup, whether Peter sup thereat, or Judas; all one oil, whether David or Saul were anointed therewith. Wherefore he concludeth thus : Memento ergo sacramentis Det nihil obesse mores malorum hominum, lib.2. cap. 47. guo illa vel omnino non sint, vel minus sancta sint, sed ipsis malis hominibus, ut hee
 
@@ -181,9 +180,9 @@ Now followeth the fourth comparison in my book.
 
 They say, that Christ is really in the sacramental bread, being reserved a whole year, or so long as the form of bread remaineth: but after the receiving thereof he flieth up, say they, from the receiver unto heaven, as soon as the bread is chewed in the mouth, or changed in the stomach: but we say, that Christ remaineth in the man that worthily receiveth it, so long as the man remaineth a member of Christ.
 
-WINCHESTER.
+## Winchester
 
-This comparison is like the other before, whereof the first part is garnished and embossed with untruth ; and the second part is that the church hath ever taught most truly, and that all must believe: and therefore that piece hath no untruth in the matter, but in the manner only, — being spoken as though it differed from the continual open teaching of the church, which is not itself is nevertheless most true. For undoubtedly Christ remaineth in the man that worthily receiveth the sacrament, so long as the man remaineth a member of Christ. In this jirst part there is a fault in the matter of the speech; for explication whereof I will examine it particu- larly. This author saith, “they say, that Christ is really in the sacramental bread, being reserved — an whole year, &c.” The church giving faith to Christ's word, when he said, “ This is my body,” — &c., teacheth the body of Christ to be ee in the sacrament under the form of bread; unto which words when we put the word “really,” it serveth only to express that truth in open — the shadows and figures of the law, and who did exhibit and give in his sacraments of the
+This comparison is like the other before, whereof the first part is garnished and embossed with untruth ; and the second part is that the church hath ever taught most truly, and that all must believe: and therefore that piece hath no untruth in the matter, but in the manner only, — being spoken as though it differed from the continual open teaching of the church, which is not itself is nevertheless most true. For undoubtedly Christ remaineth in the man that worthily receiveth the sacrament, so long as the man remaineth a member of Christ. In this jirst part there is a fault in the matter of the speech; for explication whereof I will examine it particularly. This author saith, “they say, that Christ is really in the sacramental bread, being reserved — an whole year, &c.” The church giving faith to Christ's word, when he said, “ This is my body,” — &c., teacheth the body of Christ to be ee in the sacrament under the form of bread; unto which words when we put the word “really,” it serveth only to express that truth in open — the shadows and figures of the law, and who did exhibit and give in his sacraments of the
 
 [’ Fervent a desire, 1551.) — [* In the Cheap, 1551.] * [? Butt: i.e. a mark. ] [) Of none of, 1551. ] + [* August. Opera, Tom. VII. p. 107. Ed. [® At rovers: i.e. at random. ] ti
 
@@ -191,7 +190,7 @@ Paris, 1535.] [? Afore, 1541.] new law the things promised in his sacraments of 
 
 I affirm, or precisely deny, I mean within the compass of my knowledge; which I speak never read of not because I am in any suspicion or doubt of that I affirm, or deny, but to avoid the *Yt in man _ temerity of denying as “never,” or affirming as “ever,” which be extremities. . And I mean Sip8erous to also of public doctrine by consent received, so taught, and believed, and not that any one DY; &xtremi- ties, although man might blindly write, as uttering his fancy, as this author doth for his pleasure. There pg As oa followeth in the author thus. him suspect ( weaene-
 
-CANTERBURY.
+## Canterbury
 
 Because this comparison, as you say, is like the other, therefore it is fully anHow long Tis TTi-
 
@@ -257,7 +256,7 @@ The fifth comparison.
 
 * Pugnat cum aliis papistis.
 
-62 "THE THIRD BOOK.
+## 62 "the Third Book
 
 that after what manner Christ is received of us, in the same wise he remaineth in us, so long as we remain the members of Christ.
 
@@ -265,9 +264,9 @@ And where in the end you admonish the reader, that whatsoever you affirm or prec
 
 Now followeth in my book the fifth comparison.
 
-They say, that in the sacrament the corporal members of Christ be not distant in place one from another, but that wheresoever the head is, there be the feet; and wheresoever the arms be, there be the legs: so that in every part of the bread and wine is altogether whole head, whole feet, whole flesh, whole blood, whole heart, whole lungs, whole breast, whole back, and altogether whole, confused and mixed without distinction or diver- sity. O what a foolish and an abominable imvention is this, to make of - the most pure and perfect body of Christ such a confuse and monstrous body! And yet can the papists imagine nothing so foolish, but all christian people must receive the same as an oracle of God, and as a most certain article of their faith, without whispering to the contrary.
+They say, that in the sacrament the corporal members of Christ be not distant in place one from another, but that wheresoever the head is, there be the feet; and wheresoever the arms be, there be the legs: so that in every part of the bread and wine is altogether whole head, whole feet, whole flesh, whole blood, whole heart, whole lungs, whole breast, whole back, and altogether whole, confused and mixed without distinction or diver-sity. O what a foolish and an abominable imvention is this, to make of - the most pure and perfect body of Christ such a confuse and monstrous body! And yet can the papists imagine nothing so foolish, but all christian people must receive the same as an oracle of God, and as a most certain article of their faith, without whispering to the contrary.
 
-WINCHESTER.
+## Winchester
 
 This is a marvellous rhetoric, and such as the author hath overseen himself in the utterance of it, and confesseth himself prettily abused, to the latter end of his years to have believed that he now calleth so foolish. But to the purpose. In the book of common prayer, now at this time set forth in this realm, “ It is ordered to teach the people, that in each part of the bread consecrate, broken, is the whole body of our Saviour Christ, which is agreeable to the catholic doctrine.” Upon occasion hereof, it liketh this author to multiply language by enumeration of parts; and because reason without faith directeth the bodily eye to so little a visible quantity im the host, this author beareth in hand the catholic church to say and teach all that fond reason deviseth; whereas the church im the doctrine of this mystery, denieth all that reason without faith deviseth: and therefore when we acknowledge by faith Christ's body present, although we say it is present truly, really, substantially, yet we say, our senses be not privy to that presence, or! the manner of it, but by instruction of faith; and therefore we say Christ's body to be not locally present, not by manner of quantity, but invisible2, and in no sensible manner, but marvellously in a sacrament and mystery truly, and in such a spiritual manner as we cannot define and determine, and yet by faith we know his body present, the parts of which be in themselves distinct one from another, in their own substance, but not by circumscription of several places to be comprehended of our capacity; which parts we can by no demonstration® place, nor by imagination displace, diminish, alter, or confound, as this author for his pleasure reporteth, who writeth monstrously in so high a mystery, and impudently beareth in hand the catholic church to teach that he listeth to bear in hand, may by wanton reason be deduced of the teaching+; whereas all true christian men believe simply Christ's words, and trouble not their heads with such consequences as seem to strive with reason. This is in the author no whispering, but plainly railing, wherein if he had remembered himself well, he would not have spoken of all christian men in the receipt of that he intendeth to disprove. And if he would say he spake it by am irony or scorn, yet it implieth that all had received that he thus mocketh, which, after the sort he writeth, was never
 
@@ -287,7 +286,7 @@ _ him to be of the same substance with his Father, which was a pestilent heresy.
 
 % one thing to be the signification of another, which is practised daily among men. But from 4 the beginning the mystery of the sacrament hath been with wonder marvelled at, how. Christ made bread his body, and wine his blood, and under the figure of those visible creatures
 
-Bernard su- gave invisibly his precious body and blood presently there. And as he gave, saith St Bernard’, per Cant. ser.
+Bernard su-gave invisibly his precious body and blood presently there. And as he gave, saith St Bernard’, per Cant. ser.
 
 his life for us, so he gave his flesh to us, in that mystery to redeem us, in this to feed us. °”
 
@@ -297,7 +296,7 @@ Which doings of Christ we must understand to have been perfected, not in an imag
 
 Vieve it so, but because he wrought it so; whose works we must. believe to be most perfectly true, according to the truth of the letter, where no absurdity in scripture driveth us from it, howsoever it seem repugnant to our reason, be we never so wise and witty; which man’s reason now-a-days inflamed with fury of language, is the only adversary against the most blessed sacrament, as it may appear by these comparisons of differences throughly’ considered.
 
-CANTERBURY.
+## Canterbury
 
 _ Did not you believe, I pray you, many years together, that the bishop of Rome was Christ’s vicar, and the head of his church ?
 
@@ -369,7 +368,7 @@ in the sacrament.
 
 Christ’s flesh and blood, as they outwardly and visibly receive the sacraments of them.
 
-66 | THE THIRD BOOK.
+## 66 | the Third Book
 
 But your terms here of railing, mocking, and scorning, I would have taken patiently at your hand, if your tongue and pen had not overshot themselves in bragging so far, that the truth by you should be defaced. But now I shall be so bold as to send those terms thither, from whence they came. And for the matter itself, I am — ready to join an issue with you, notwithstanding all your stout and boasting words.
 
@@ -395,7 +394,7 @@ Now followeth the sixth comparison.
 
 Furthermore, the papists say, that a dog or a cat eateth’ the body of Christ, if they by chance do eat the sacramental bread. We say, that no earthly creature can eat the body of Christ, nor drink his blood, but only man.
 
-WINCHESTER.
+## Winchester
 
 I have read that some’ entreat these chances of dogs and cats, but I never heard any of *The contrathat opinion’, to say or write so, as a doctrine, that a dog or a cat eateth the body of thr 0 sn (i Christ, and set it forth for a teaching, as this author most impudently supposeth; and I ren marvel much that such a word, and such a report, can come out of a christian man’s mouth, and therefore this is by the author a marvellous surmise, whereupon to take occasion to bring the adversative “but” for the author’s part, being such a saying on that side as all christendom hath ever taught, that no creature can eat the body and drink the blood® of *Pugnat eum
 
@@ -403,7 +402,7 @@ I have read that some’ entreat these chances of dogs and cats, but I never hea
 
 But let us see the rest.
 
-CANTERBURY.
+## Canterbury
 
 Yet still in these comparisons you grant that part of the difference to be true which Taffirm ; but you say that I report untruly of the papists, impudently bearing them
 
@@ -413,13 +412,13 @@ And this is a common proposition among the school divines, that the body of Chri
 
 _ [? Eat, 1551, and Orig. Ed.] [) Can eat the body and blood, 1551.] [® Some that, 1551.] [® Of this comparison, Orig. Ed. Winchester, [* Of that abominable opinion, Orig. Ed. Win- | 1551.) chester, 1551.) [7 Receive, 1551.]
 
-68 THE THIRD BOOK.
+## 68 the Third Book
 
 Thomas, your St Thomas writeth thus: Quidam vero dixerunt, quod quam primum sacramentum — q. 00. att. ii. semitur @ mure vel cane, desinit ibi esse corpus Christi. Sed hoe derogat veritati hujus — sacramenti. Substantia enim panis sumpta a peccatore tamdiu manet, dum per calorem — naturalem est in digestione: igitur tamdiu manet corpus Christi sub speciebus sacramentalibus’. And Perin*, in his book printed and set abroad in this matter for all men to read, saith: “That although the mouse, or any other beast, do eat the sacra-_ arse yet nevertheless the same is the very and real body of Christ.” And he a “what inconvenience it is against the verity of Christ’s real body in the sacrament, though the impassible body lie in the mouth or maw of the beast? Is it not then fore the body of Christ? Yes, undoubtedly,” saith he. So that now these abominable — opinions and beastly asseverations, (as you truly term them, meaning thereby to bite me, as appeareth,) be fit terms, and meet for the papists, whee asseverations they be. Now followeth the seventh comparison. P
 
 They say, that every man, good and evil, eateth the body of Christ. We say, that both do eat the sacramental bread, and drink the wine; but — none do eat the very body of Christ, and drink his blood, but only they that be lively members of his body.
 
-‘WINCHESTER.
+## ‘Winchester
 
 In this comparison the former part, speaking of such men as be by baptism received into Christ’s church, is very true, confirmed by St Paul, and ever since affirmed in the church; in the proof whereof here in this book I will not travel, but make it a demur as it were in law, whereupon to try the truth of the whole matter. If that doctrine, called by this author the doctrine of the papists, and is indeed the catholic doctrine, be not in this point true, let all be so judged for me. If it be true, as it is most true, let that be a mark whereby te judge the rest of this author’s untrue asseverations. For undoubtedly St Augustine saith:
 
@@ -441,11 +440,11 @@ Antverp. 1624.]
 
 ‘[* For any alteration, 1551.]
 
-A OF THE PRESENCE OF CHRIST. 69
+## A of the Presence of Christ. 69
 
 - Judas, receive the same very body, touching the truth of the presence thereof, that St Peter did. For in: the substance of the sacrament, which is God’s work, is no variety, who ordaineth all (as afore) uniformly; but in man is the variety, amongst whom he that receiveth worthily Christ's body, receiveth life, and he that receiveth unworthily, receiveth condemnation. There followeth further.
 
-CANTERBURY.
+## Canterbury
 
 I thank you for this demur, for I myself could have chosen no better for my #A demur. purpose. And I am content that the trial of the whole matter be judged hereby, haere yy as you desire. You say, that “all that be baptized, good and evil, eat the body of ghra” Christ ;’ and I say, only the good, and not the evil.
 
@@ -487,13 +486,13 @@ Judas, the sacramental bread, but they eat not the celestial bread, which is Chr
 
 ‘whereunto we ought to give most certain trust and confidence: wherefore to teach the spiritual ‘manducation to be equal with the spiritual manducation and sacramental also, that is to diminish the effect of the institution of the sacrament, which no christian man ought to do. —
 
-70 | THE THIRD BOOK.
+## 70 | the Third Book
 
 to a verb, and not to his proper substantive, of any man that had any learning — at all? : (a - And as for the matter of Judas is answered before. For he received not the — bread that was the Lord, as St Augustine saith, but the bread of the Lord. Nor — worthily the sacrament thereof. a And hitherto D. Smith hath found no fault at all in my comparisons, whereby — the reader may see how nature passeth art, seeing here much more captiousness in — a subtil sophistical wit, than in him that hath but learned the sophistical art. ig Now followeth the eighth comparison. infees
 
 They say, that good men eat the body of Christ and drink his blood, 7 only at, that time when they receive the sacrament. We say, that they eat, drink, and feed of Christ continually, so long as they be members of his body. . a
 
-WINCHESTER.
+## Winchester
 
 What forehead, I pray you, is so hardened, that can utter this among them that know here affirmed in the second part of “we say,” wherein the author and his say as the church saith: another eating is both sacramentally and spiritually, which is when men worthily
 
@@ -521,7 +520,7 @@ But now cometh in Smith with his five eggs, saying that I have made here five sm
 
 “lies in these comparisons. “The first lie is,” saith he, “that the papists do say, that
 
-| Boood men do eat and drink Christ’s body and blood only when they receive the eament : ” which thing Smith saith the papists do not say, but that they then only do eat Christe body and drink his blood corporally, which sufficeth for my purpose. For I mean no* other thing, but that the papists teach such a corporal eating of Christ’s body as endureth not, but vanisheth away, and ceaseth at the furthest within few hours after the sacrament is‘ received. But forasmuch as Smith agreeth here with “you, the answer made before to you will serve for him also. And yet Smith here ‘ serve me in good stead against you, who have imputed unto me so many im- pudent lies, made against the papists in the comparisons before rehearsed: and Smith. ‘saith that this is the first lie, which is in the eighth comparison. And so shall Smith,
+| Boood men do eat and drink Christ’s body and blood only when they receive the eament : ” which thing Smith saith the papists do not say, but that they then only do eat Christe body and drink his blood corporally, which sufficeth for my purpose. For I mean no* other thing, but that the papists teach such a corporal eating of Christ’s body as endureth not, but vanisheth away, and ceaseth at the furthest within few hours after the sacrament is‘ received. But forasmuch as Smith agreeth here with “you, the answer made before to you will serve for him also. And yet Smith here ‘ serve me in good stead against you, who have imputed unto me so many impudent lies, made against the papists in the comparisons before rehearsed: and Smith. ‘saith that this is the first lie, which is in the eighth comparison. And so shall Smith,
 
 (being mine adversary and your friend,) be anh a witness for me, as you cannot except against, to prove that those things which before you said were impudent lies, be no lies at all. For this “is the first lie,” saith Smith ; and then my sayings bafane must be all true, and not impudent lies.
 
@@ -531,7 +530,7 @@ But now cometh in Smith with his five eggs, saying that I have made here five sm
 
 They say, that the body of Christ that is in the sacrament, hath his own proper form and quantity. We say, that Christ is there sacramentally and spiritually, without form or quantity.
 
-WINCHESTER.
+## Winchester
 
 The answer. In this comparison is both sleight and craft: in the first part of it, which is that “ they say,” Wiech 1551.4] there is mention of the body of Christ, which is proper of the humanity of Christ. In the second poirist’s part, which is of “ we say,” there is no mention of Christ's body, but of Christ, who in his divine derstanded ature is understanded present without a body. Now the sacrament is institute of Christ's humanity. body and blood; and because the divine nature in Christ continueth the wnity with the body of *The unityof Christ, we must needs confess where the body of Christ is there is whole Christ, God and man. hood and And when we speak of Christ's body, we must understand a true body, which hath both form on and quantity; and therefore such as confess the true catholic faith, they afirm of Christ's body all truth of a natural body, which although it hath all those truths of form and quantity, yet they say, Christ’s body is not present after the manner of quantity, nor in a visible form, as it was conversant in this present life: but that there is truly in the sacrament the very true body of Christ, which good men believe upon the credit of Christ that said so, and knowledge therewith the manner of that presence to be an high mystery, and the manner so spiritual, as the carnal man cannot by discourse of reason reach it, but in his discourse shall (as this author doth) think it a vanity and foolishness: which foolishness nevertheless overcometh the wisdom of the world. And thus have I opened what they say on the catholic part. *A marvelNow for the other part, whereof this author is, and with his faith “we say,” the words seem to tps saving of imply, that Christ's human body is not in the sacrament, in that it is said, “Christ to be there bn sacramentally and spiritually, without form or quantity,” which saying hath no scripture for it. ig oe . For the scripture speaketh of Christ's body which was betrayed Jor us, to be given us to be eaten. institution of Where also Christ's divinity is present, as accompanying his humanity, which humanity %s nent awake specially spoken of, the presence of which hwmanity when it is denied, then is there no text to ny avin prove the presence of Christ's divinity specially, that is to say, otherwise than it is by his body Y omnipotency present every where. And to conclude this piece of comparison, this manner of Phil. ii. speech was never, I think, read, that Christ is present in the sacrament without form or quantity. And St Paul speaketh of a form in the Godhead, Qui quum in forma Dei esset, “ Who when he was in the form of God.” So as if Christ be present in the sacrament without all form, then is he there neither as God nor man; which is a stranger teaching than yet hath been heard or read of: but into such absurdities indeed do they fall, who entreat irreverently and untruly this high mystery. This is here worthy a special note, how by the manner of the speech in the latter part of this difference the teaching seemeth to be, that Christ is spiritually present
 

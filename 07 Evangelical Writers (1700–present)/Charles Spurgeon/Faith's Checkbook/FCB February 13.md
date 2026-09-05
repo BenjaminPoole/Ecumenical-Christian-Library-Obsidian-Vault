@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # February 13
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BLESSED IN THE FIELD**
+## **Blessed in the Field**
 
 > Blessed shalt thou be in the field" Deut. 28:3
 
@@ -29,7 +28,6 @@ We go to the field for exercise, and we are happy in the belief that the Lord wi
 We go to the field to study nature, and there is nothing in a knowledge of the visible creation which may not be sanctified to the highest uses by the divine benediction.
 
 We have at last to go to the field to bury our dead; yea, others will in their turn take us to God's acre in the field: but we are blessed, whether weeping at the tomb, or sleeping in it.
-
 
 ---
 [[FCB February 12|← February 12]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 14|February 14 →]]

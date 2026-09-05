@@ -10,14 +10,11 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # The Large Catechism
 
 *Der Grosse Katechismus* (1529), Luther's extended exposition of the Ten Commandments, Creed, Lord's Prayer, and sacraments, written for pastors and heads of households.
 
 1. [[Luther LC 1 The Large Catechism About This Book|The Large Catechism About This Book]]
-
-## The Large Catechism
 
 2. [[Luther LC 2 Short Preface of Dr. Martin Luther|Short Preface of Dr. Martin Luther]]
 

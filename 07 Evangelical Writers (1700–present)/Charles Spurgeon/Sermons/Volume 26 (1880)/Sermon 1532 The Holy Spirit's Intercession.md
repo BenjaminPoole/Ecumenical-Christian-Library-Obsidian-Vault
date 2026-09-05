@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Holy Spirit's Intercession
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1532
@@ -91,8 +90,7 @@ And, then O ye people of God, let this last thought abide with you,’what conde
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Romans 8:14 to end.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’1009, 978, 400.
-
+## Hymns from ‘Our Own Hymn Book’1009, 978, 400
 
 ---
 [[Sermon 1531 On Whose Side Are You|← #1531]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1533 Fear Not|#1533 →]]

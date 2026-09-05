@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 24
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Athanasius, father of Athanasius bishop of Ancyra.
 

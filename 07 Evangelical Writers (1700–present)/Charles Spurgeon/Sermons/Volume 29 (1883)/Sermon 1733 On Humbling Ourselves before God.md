@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # On Humbling Ourselves before God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1733
-
-DELIVERED BY.
 
 > "Humble yourselves therefore under the mighty hand of God, that He may exalt you in due time." 1 Peter 5:6.
 
@@ -136,7 +133,6 @@ down! Did I hear you say, "Alas, Sir, I need to get comfort"? Cease from that! D
 Many years ago a certain prince visited the Spanish galleys where a large number of convicts were confined, chained to their oars to toil on without relief. I think nearly all of them were condemned to a life sentence. Being a great prince, the King of Spain told him that he might, in honor of his visit, set free any one of the galley slaves he chose. He went down among them to choose his man. He said to one, "Man, how did you come here?" He replied that false witnesses swore away his character. "Ah!" said the prince and passed on. He went to the next, who stated that he had done something that was certainly wrong, but not very much, and that he never ought to have been condemned. "Ah," said the prince, and again passed on. He went the round and found that they were all good fellows—all convicted by mistake.
 
 You that have no sins shall have no pardon. You good people shall die in your sins! But, you guilty ones, who humble yourselves under the hand of God, my Master thinks that it is a pity that you should be among these self-righteous people! So come right away and trust your Savior—and obtain life eternal through His precious blood! And to Him shall be glory forever and ever. Amen.
-
 
 ---
 [[Sermon 1732 In Him Like Him|← #1732]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1734 A Gospel Worth Dying For|#1734 →]]

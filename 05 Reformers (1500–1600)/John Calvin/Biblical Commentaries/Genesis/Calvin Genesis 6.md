@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 6
 
-**CHAPTER 6.**
+***Chapter 6.***
 
 ## Genesis 6:1-22
 

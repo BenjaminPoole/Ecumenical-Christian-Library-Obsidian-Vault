@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Day of Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1394
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 13, 1878,.
+*Delivered on Lord's-Day Morning, January 13, 1878*
 
 > "Behold, now is the day of salvation." 2 Corinthians 6:2.
 
@@ -156,7 +155,6 @@ Do not let Sodom and Gomorrah and Tyre and Sidon have to tell you that it is mor
 I have no such flattering message to speak to you, but I speak as this Book teaches. If you let this day of salvation pass and if you glide into another world unsaved, you are lost forever. I know no more, but I know that this Bible so declares it. "These shall go away into everlasting punishment and the righteous into life eternal." Do not indulge vain dreams! If the Lord speaks of a day, be sure that He has limited the day—and if He declares this to be the day of salvation, you are not authorized to expect that another such period will ever come. "If He that despised Moses' Law died without mercy under two or three witnesses" (listen to that!)—"of how much sorer punishment, suppose you, shall he be thought worthy, who has trod under foot the Son of God?"
 
 Oh, yield to the Lord Jesus! Accept His salvation and trust Him at once! I pray you, in Christ's place, be reconciled to God. Amen.
-
 
 ---
 [[Sermon 1393 Speak For Yourself—a Challenge!|← #1393]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1395 Family Reformation—or, Jacob's Second Visit to Bethel|#1395 →]]

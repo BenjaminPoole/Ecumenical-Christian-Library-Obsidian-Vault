@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Vexed Soul Comforted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2557
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Almighty hats vexed my soul." Job 27:2.
 
@@ -85,7 +82,7 @@ Sometimes, when I am thinking about my Hearers and my work, I seem to take God's
 
 Oh, come to Him! In the name of Jesus of Nazareth, I beseech you, come! By amazing love and amazing pity, by wondrous Grace that abounds over sin, come and welcome! Jesus said, "He that comes to Me, I will in no wise cast out." Then come to Him and come now! Blessed Spirit, draw them! Draw them now, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB27
+## Exposition by C. H. Spurgeon: Job 27
 
 Remember that Job's friends had accused him of having committed some great sin which would account for his great sorrows. The good man is naturally very indignant and he uses the strongest possible language to cast away from himself with horror the charges which they brought against him in the day of his grief.
 
@@ -118,7 +115,6 @@ Verses 1-4. Moreover Job continued his parable and said, As God lives, who has t
 22\. For God shall cast upon him, and not spare: he would gladly flee out of His hand. The man would escape from God if he could. It was Job's glory, as we read just now, that he was in God's hand. But the hypocrite would gladly flee out of God's hand, yet that is altogether impossible.
 
 23\. Men shall clap their hands at him, and shall hiss him out of hisplace. Such ignominy shall be poured upon the hypocrite at the last, that all mankind shall endorse the sentence of God which condemns him! And shame and everlasting contempt shall be his portion. The Lord save all of us from such an awful doom, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2556 Life Proved by Love|← #2556]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2558 Songs in the Night|#2558 →]]

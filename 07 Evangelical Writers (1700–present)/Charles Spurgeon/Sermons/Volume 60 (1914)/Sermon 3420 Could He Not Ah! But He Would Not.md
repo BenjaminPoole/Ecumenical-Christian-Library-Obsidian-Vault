@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Could He Not? Ah! But He Would Not
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3420
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And some of them saaid—Could not this Man, who opened the eyes of the blind, have caused that even this man should not have died?" John 11:37.
 
@@ -35,15 +32,15 @@ Now, I am quite sure, Brothers and Sisters, if you had a dear one at home that w
 
 Brothers and Sisters, we are now about to look the question in the face—and what shall we say about it? The first thing we shall say about it is this, that—
 
-I. IT IS NOT ALWAYS RIGHT FOR US TO MAKE ENQUIRIES AS TO THE LOVE AND THE WISDOM OF OUR LORD.
+## I. It Is Not Always Right for Us to Make Enquiries as to the Love and the Wisdom of Our Lord
 
 It may seem a very strange thing to us that He does not prevent the afflictions which are so grievous, and that He does not give us some of those mercies which we think would make us so comfortable. But we have no right to ask questions. A servant must not be always asking his master, "Why do you do this?" Or, "Why do you do that?" And the scholar is not expected to understand all the doings of the professor at whose feet he sits. A master-builder would soon discharge the carpenter on the work who should always be saying, "Why should that piece of timber be of that shape," or, "Why must those stones be placed in such a position?" The architect is supposed to know the plan, not the Irish laborer! It is enough for the architect to know, without every small body on the work understanding everything that is to be done. We are not, therefore, to be always asking questions. There is another spirit that ought to rule us, rather than the spirit of captious criticism. A man goes and takes stones, and he puts some of them into the earth, deep down. Some of them He places higher up, one upon another. Some he daubs with mortar, some he places where they cannot be seen and some he polishes and puts into the corners. Are the stones to say to the builder, "Why do you place me here?" Or, "Why do you place me there?" The potter takes his lumps of clay and puts them on his knees—and one vessel is made to dishonor and another is made a graceful form to honor—but shall the thing formed say to him who formed it, "Why do you make me thus?" It is not for the thing that is created to begin to question its Creator, for then the Creator might well reply, "Who are you and where were you when I made the Heaven and the earth? When I balanced the clouds and laid the foundations of the earth? Declare now, if you can answer Me!" That wonderful sermon from the mouth of God Himself, at the close of the book of Job rolls like crashes of thunder over our heads and makes us cower down conscious of our insignificance! And when we dare to lift up our heads once more, we find upon our lips words like those which came from the mouth of Job, "I have heard of You by the hearing of ear, but now my eye sees You. Therefore I abhor myself and repent in dust and ashes." For you and for me to think to understand God is as though some tiny insect, whose whole life was comprehended in an hour, should expect to understand the marches of the heavens and to comprehend the revolutions of the spheres! The child by your side, taking up a shell full of water, has no idea of what the sea is, and you, when you look at God's ways, see no more of God's ways than that little shell full, as it were, compared with the sea! Stand still and see that He is God! Let Him be exalted in the earth! Yes, let Him be exalted in the heavens! He gives no account of His matters. He does as He wills in the armies of Heaven and among the inhabitants of this lower earth. Ah, Lord, it is better for us to lie passive in Your hands than to be attempting to sit upon Your Throne, holding the balance and judging Your work! What if He does not make me rich, but lets me pine in poverty? What if He does not heal me, but allows me to linger out a life of sorrow? What if He does not bless my undertaking, but He permits heavy trials to overcome me? I will not ask Him why! "I was dumb with silence. I opened not my mouth because You did it"—that is the spirit in which we may look at this question. One thing more I want you to remember, and that is this—
 
-II. THAT WHATEVER GOD MAY DO OR MAY NOT DO WITH US, IT IS ALWAYS THE CHRISTIAN'S WISDOM TO STAND TO THIS—THAT CHRIST IS ALWAYS LOVE.
+## II. That Whatever God May Do or May Not Do with Us, It Is Always the Christian's Wisdom to Stand to This—that Christ Is Always Love
 
 The Jews said, "Behold how He loved him!" They could see that by His tears, though He let him die. Now, there were good reasons, though the Jews might not see the reasons and, Brothers and Sisters, there are good reasons why God withholds that right hand of His which is so full of bounty and why at other times He does stretch it out—and good reasons why He lifts that left hand of His which is so heavy to smite, and brings it down upon you, the chosen child of His heart! But do not think that Christ can be otherwise than kind? If you have trusted in Him, never believe that He can hate or forget you. Never think that He can suspend His affection towards you. No, never once will He deal with you according to any other rule than that of love—never once! The dispensation may be very dark, but judge not by appearances. Your conscience may be very guilty, but He is greater than your guilt. Your heart may condemn you, yet can He absolve you and His love is not measured by even your consciousness of His Presence. He has forgiven you and He will not visit you in wrath for sin! No, though Satan tells you that repeated strokes must argue an angry God, he is the father of lies from the beginning—believe not that which he suggests! It cannot be possible that God is unkind! The camels are destroyed, the oxen are stolen, the children have perished, the body is covered with sore boils, but, "Though He slay me, yet will I trust in Him," says the triumphant Patriarch. "Shall we receive good from the hand of the Lord and shall we not receive evil? The Lord gave, and the Lord has taken away, and blessed be the name of the Lord." Be then as Job was and as David was when, being about to describe the uneasiness of his mind on account of the affliction of the righteous, and the prosperity of the wicked, he began the Psalm by saying, "Truly God is good to Israel," as if he started with that and nothing could ever drive him from it! Though the wicked prospered and the righteous were chastened every morning, yet God was good to His own Covenant people in the most supreme and emphatic sense! But now let us come to this question, again, for it still looks difficult. If faith makes no enquiries and resignation shall be content, still—
 
-III. THERE IS DIFFICULTY.
+## III. There Is Difficulty
 
 Let us see now. If Christ had prevented Lazarus's death, what would have happened?He might have done, if He had liked, but, in the first place, Christ would not have been glorified by raising Lazarus from the dead. If Lazarus does not die, he cannot be raised, and that manifestation of miraculous power could not be evinced. You will let Lazarus die, then—you all agree to that—that Christ may have an opportunity of raising him again. See, then, if you do not have a trouble—and Christ can prevent it if He wills—but if you are not brought into trouble, you cannot have the deliverance, Christ cannot put out His hand of love to save you, if there is nothing to save you from! Oh, then, be quite content to bear trouble, in order that your blessed Lord Jesus may make Himself illustrious as He comes to you in the very nick of time and delivers you out of the depth of your distress!
 
@@ -61,7 +58,7 @@ When the Lord brought His people out of Egypt, they might have gone right straig
 
 Now, Beloved, the point I want to come to is this—depend upon it, that as I have proved in the case of Lazarus, it was the best thing that the worst thing should happen—so it is in your case! You are in trouble tonight. Now, Christ could have prevented it, could have carried you to Heaven on a featherbed if He had chosen. He could have made you ride to Heaven all the way in a chariot that never jolted—on a paved road right straight up to Paradise, without a single rut, or any stones on it—but He chose not to do so. Now—
 
-IV. LET US SEE IF WE CANNOT FIND A REASON.
+## IV. Let Us See if We Cannot Find a Reason
 
 If we cannot, it will not matter if you believe it is right. Still we will try. The roughness of the road that you are travailing now, may it not be necessary to wean you from this world? Oh, but the goods of this world are like bird lime to birds—they stick to our feet and keep us from mounting towards Heaven. "Ah," said one, as he looked abroad on his gardens and house and park, "these are the things that make it hard to die." Yes, and these are the things that make it hard to live near to God! When a man's heart begins to be content with the things of this world. When he finds his satisfaction here, he is not inclined to look up to his God. Now, perhaps you are one of that kind that could not bear too much prosperity. Every gardener will tell you that there are some of his flowers that he cannot put in the glare of the sun, for they would never do there. So with you—you grow better in the shade. Your nearness to Heaven and your soul's health require this affliction.
 
@@ -83,7 +80,7 @@ You will have no right to this ordinance until you have trusted the Savior. When
 
 May the Lord bless you, for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:25-40.
+## Exposition by C. H. Spurgeon: Psalm 119:25-40
 
 By the help of God's Holy Spirit, this Psalm may serve for the purposes of self-examination, for we may ask ourselves as we read, "Do I feel that way? Are my prayers like those of this good man? Is my experience like his?" We may often ask ourselves, "Am I as watchful, as careful and as fond of God's Word as he was?" Such questions will do us good.
 
@@ -132,7 +129,6 @@ Verse 25. My soul cleaves unto the dust: quicken You me according to Your Word. 
 39\. Turn away my reproach which I fear: for Your judgments are good. I fear lest I bring a reproach upon You, and then upon myself. Oh, suffer me not to do so! I am not afraid of the reproach of the world. I count the reproach of Christ greater riches than all the treasures of Egypt. But, oh, let them never have to charge me with sin and let me not fall into such pecuniary difficulties or other troubles, that men will be able to make a charge against me out of them. Help me to provide things honest in the sight of all men. "Take away my reproach, which I fear, for Your judgments are good."
 
 40\. Behold, I have longed after Your precepts: quicken me in Your righteousness.
-
 
 ---
 [[Sermon 3419 God, the Husband of His People|← #3419]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3421 Prayer Meetings|#3421 →]]

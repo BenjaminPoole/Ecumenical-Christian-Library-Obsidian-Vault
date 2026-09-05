@@ -9,14 +9,13 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XII — Of Christ’s Priestly Office
 
 ## Chap. XII. — Of Christ’s Priestly Office.
 
 Q. 1. By what means did Jesus Christ undertake the office of an eternal priest?
 
-A. By ^athe decree, ordination, and will of God his Father, ^bwhereunto he yielded voluntary obedience; so ^cthat concerning this there was a compact and covenant between them. ^aPs. cx. 4; Heb. v. 5, 6, vii. 17, 18. ^bIsa. l. 4–6; Heb. x. 5–10. ^cPs. ii. 7, 8; Isa. liii. 8, 10–12; Phil. ii. 7, 9; Heb. xii. 2; John xvii. 2, 4.
+A. By [^a1]the decree, ordination, and will of God his Father, [^b1]whereunto he yielded voluntary obedience; so [^c1]that concerning this there was a compact and covenant between them.
 
 Q. 2. Wherein doth his execution of this office consist?
 
@@ -24,11 +23,11 @@ A. In bringing his people unto God. Heb. ii. 10, iv. 16, vii. 25.
 
 Q. 3. What are the parts of it?
 
-A. First, ^aoblation; secondly, ^bintercession.[^1] ^aHeb. ix. 14. ^bHeb. vii. 25.
+A. First, [^a2]oblation; secondly, [^b2]intercession.[^1]
 
 Q. 4. What is the oblation of Christ?
 
-A. The ^aoffering up of himself upon the altar of the cross, an holy propitiatory sacrifice for the sins of all the elect throughout the world; as ^balso, the presentation of himself for us in heaven, sprinkled with the blood of the covenant. ^aIsa. liii. 10, 12; John iii. 16, xi. 51, xvii. 19; Heb. ix. 13,14. ^bHeb. ix. 24.
+A. The [^a3]offering up of himself upon the altar of the cross, an holy propitiatory sacrifice for the sins of all the elect throughout the world; as [^b3]also, the presentation of himself for us in heaven, sprinkled with the blood of the covenant.
 
 Q. 5. Whereby doth this oblation do good unto us?
 
@@ -52,7 +51,7 @@ A. In that he was not a mere[^5] man only, but God also, of infinitely more valu
 
 Q. 10. How did the oblation of Christ redeem from death and hell?
 
-A. First, ^aby paying a ransom[^6] to God, the judge and lawgiver, who had condemned us; secondly, ^bby overcoming and spoiling Satan, death, and the powers of hell, that detained us captives. ^aMatt. xx. 28; John vi. 51; Mark x. 45; Rom. iii. 25; 1 Cor. vi. 20; Gal. iii. 13; Eph i. 7; 1 Tim. ii. 6; Heb. x. 9. ^bJohn v. 24; Col. ii. 13–15; 1 Thess. i. 10; Heb. ii. 14; 1 Pet. i. 18, 19.
+A. First, [^a4]by paying a ransom[^6] to God, the judge and lawgiver, who had condemned us; secondly, [^b4]by overcoming and spoiling Satan, death, and the powers of hell, that detained us captives.
 
 Q. 11. What was the ransom that Christ paid for us?
 
@@ -64,7 +63,7 @@ A. By being accompanied with[^7] his death; for that, as all other testaments, w
 
 Q. 13. What is this new covenant?
 
-A. The gracious, free, ^aimmutable promise of God, made unto all his elect fallen in Adam, to ^bgive them Jesus Christ, and ^cin him mercy, pardon, grace, and glory, ^dwith a re-stipulation of faith from them unto this faith from them unto this promise, and new obedience. ^aGen. iii. 15; Jer. xxxi. 31–34, xxxii. 40; Heb. viii. 10–12. ^bGal. iii. 8, 16; Gen. xii. 3. ^cRom. viii. 32; Eph. i. 3, 4. ^dMark xvi. 16; John i. 12, x. 27, 28.
+A. The gracious, free, [^a5]immutable promise of God, made unto all his elect fallen in Adam, to [^b5]give them Jesus Christ, and [^c5]in him mercy, pardon, grace, and glory, [^d5]with a re-stipulation of faith from them unto this faith from them unto this promise, and new obedience.
 
 Q. 14. How did Christ procure for us grace, faith, and glory?
 
@@ -73,7 +72,6 @@ A. By the way of purchase[^8] and merit; for the death of Christ deservedly proc
 Q. 15. What is the intercession of Christ?
 
 A. His continual soliciting[^10] of God on our behalf, begun here in fervent prayers, continued in heaven by appearing as our advocate at the throne of grace. Ps. ii. 8; Rom. viii. 34; Heb. vii. 25, ix. 24, x. 19–21; 1 John ii. 1, 2; John xvii.
-
 
 ---
 [^1]: Against both these the Papists are exceedingly blasphemous; against the one, by making their mass a sacrifice for sins, — the other, by making saints mediators of intercession.
@@ -87,6 +85,31 @@ A. His continual soliciting[^10] of God on our behalf, begun here in fervent pra
 [^9]: All these holy truths are directly denied by the blasphemous Socinians; and by the Papists, with their merits, masses, penance, and purgatory, by consequent, overthrown.
 [^10]: To make saints our intercessors, is to renounce Jesus Christ from being a sufficient Saviour.
 
+[^a1]: Ps. cx. 4; Heb. v. 5, 6, vii. 17, 18.
+
+[^b1]: Isa. l. 4–6; Heb. x. 5–10.
+
+[^c1]: Ps. ii. 7, 8; Isa. liii. 8, 10–12; Phil. ii. 7, 9; Heb. xii. 2; John xvii. 2, 4.
+
+[^a2]: Heb. ix. 14.
+
+[^b2]: Heb. vii. 25.
+
+[^a3]: Isa. liii. 10, 12; John iii. 16, xi. 51, xvii. 19; Heb. ix. 13,14.
+
+[^b3]: Heb. ix. 24.
+
+[^a4]: Matt. xx. 28; John vi. 51; Mark x. 45; Rom. iii. 25; 1 Cor. vi. 20; Gal. iii. 13; Eph i. 7; 1 Tim. ii. 6; Heb. x. 9.
+
+[^b4]: John v. 24; Col. ii. 13–15; 1 Thess. i. 10; Heb. ii. 14; 1 Pet. i. 18, 19.
+
+[^a5]: Gen. iii. 15; Jer. xxxi. 31–34, xxxii. 40; Heb. viii. 10–12.
+
+[^b5]: Gal. iii. 8, 16; Gen. xii. 3.
+
+[^c5]: Rom. viii. 32; Eph. i. 3, 4.
+
+[^d5]: Mark xvi. 16; John i. 12, x. 27, 28.
 
 ---
 [[TSC 15 Chapter XI — Of the Offices of Christ; and, First, of His Kingly|← Chapter XI — Of the Offices of Christ; and, First, of His Kingly]] · [[Two Short Catechisms|Contents]] · [[TSC 17 Chapter XIII — Of Christ’s Prophetical Office|Chapter XIII — Of Christ’s Prophetical Office →]]

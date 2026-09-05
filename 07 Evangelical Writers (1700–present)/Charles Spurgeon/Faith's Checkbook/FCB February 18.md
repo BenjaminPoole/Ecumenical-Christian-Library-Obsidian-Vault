@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # February 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD WILL ANSWER**
+## **God Will Answer**
 
 > He will fulfill the desire of them that fear him: he also will hear their cry, and will save them" Ps. 145:19
 
@@ -25,7 +24,6 @@ Holy desires are grace in the blade, and the heavenly Husbandman will cultivate 
 Yes, if we fear God, we have nothing else to fear; if we cry to the Lord, our salvation is certain.
 
 Let the reader lay this text on his tongue, and keep it in his mouth all the day, and it will be to him as "a wafer made with honey."
-
 
 ---
 [[FCB February 17|← February 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 19|February 19 →]]

@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Fullness of Joy Our Privilege
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3406
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And these things we write unto you, that your joy may be full." 1 John 1:4.
 
 VERY closely does the Apostle John resemble his Lord in the motive that prompted him to write this Epistle! You remember how Christ said in His last discourse to His disciples on the eve of His passion, "These things have I spoken unto you that your joy may be full"—and how He counseled them, "Ask and receive that your joy may be full"—and how He prayed to the Father for them, "that they might have My joy fulfilled in themselves." Here, then, the beloved disciple, moved by the Spirit of God, reflects and follows out the same gracious purpose—"These things we write unto you, that your joy may be full." What an evidence of our Savior's deep attachment to His people that He is not content with having made their ultimate salvation sure, but He is anxious concerning their present state of mind! He delights that His people should not only be safe, but happy! Not merely saved, but rejoicing in their salvation! It does not please your Savior for you to hang your head as the bulrush and go mourning all your days. He would have you rejoice in Him always and for this end He has made provision and to this end He has given us precepts. Therefore it appears—
 
-I. THAT THE CHRISTIAN'S JOY NEEDS LOOKING AFTER.
+## I. That the Christian's Joy Needs Looking After
 
 We should not find the Apostle John writing to promote that which, in the natural order of things, would be sure to occur. In this object of pastoral anxiety, he seems to include the whole of the Apostolic College with himself when he says, "These things we write unto you that your joy might be full," as if your joy would not be full unless Inspired Apostles should be commissioned of God to further it. Your joy then, I say, needs looking after. I do not doubt but you have very suggestive proofs of this, yourselves, in your external circumstances. You cannot always rejoice because, although your treasure is not in this world, your affliction is. Poverty will sometimes be too heavy a cross for you to sing under. Sickness sometimes casts you upon a bed on which you have not, as yet, learned to rejoice. Losses befall you in business, failures of hope, forsaking of friends and cruelty of foes—and any of these may prove like winter nights which nip the green leaves of your joy and make them fade and fall off your branches. You cannot always rejoice, but sometimes there is a necessity that you should be in heaviness through manifold temptations. I suppose none of you are so perfectly happy as to be without some trial. Your joy will need to be looked after, then, lest floods should come in and quench it. You will need to cry to Him who alone can keep its flame burning, to trim it with fresh oil.
 
@@ -103,7 +100,7 @@ It ought to be a wretched land to lazy people! Those that will not work, neither
 
 All the writings of Scripture, whether they are doctrinal, experimental, or practical, have the drift which John indicates in these words, "That your joy may be full!" Having thus shown that the Christian's joy needs looking after and that it is mainly fed upon things revealed in Scripture, the inference clearly must be that—
 
-III. WE SHOULD CONSTANTLY READ THE SCRIPTURES.
+## III. We Should Constantly Read the Scriptures
 
 Read the Scriptures in preference to any other book What a deal of reading there is now-a-days! But how large a proportion of what you call, "popular literature," is mere chaff-cutting—nothing more! Why, I am really ashamed to state the fact that I am bound, as a Christian minister, to denounce. You cannot publish a religious newspaper, or a religious magazine, as a rule, to make it pay, without a religious novel in it—and these religious novels are a disgrace to the Christianity of the 19th Century! People's minds must be in an odd state when they can eat nothing but these whipped-creams and syllabubs—for people who would be healthy, should sit down to something solid, and their stimulants should be consistent with sobriety. You will never attain the mental growth of men and women by feeding on such stuff as that! You may make lackadaisical people in the shape of men and women, but the thinking soul with something in it, the woman who would serve her God as a true helper to the Christian ministry, the young man who would proclaim Christ and win souls need some better nutriment than the poor stuff that modern literature deals out so plentifully. Oh, my dear Friends, read the Bible in preference to all such books! They only deprave your taste. If you want these books, have them. We would not deny pigs their proper food and I would not deny any person living that which his taste goes after, provided it does not shock decent morals. I lament the taste rather than the indulgence of it! If you have a soul that canappreciate the pleasures of wisdom, eschew the trifles of folly. And if you have been taught to love verities, and substantial truths, you scarcely need that I should say, "Search the Scriptures." Search them diligently and frequently!
 
@@ -111,7 +108,7 @@ Prefer the Scriptures to all religious books. In our books and our sermons—we 
 
 And, when you read your Bible, read it in earnest. There are several ways of reading the Bible. There is a skimming over the surface of it—content with the letter. There is also diving into it and praying yourselves down deep into the soul of it—that is the way to read the Bible! Do not always read it one verse at a time. How would Milton's Paradise Lost be understood if read by little snatches selected at random? You would never scan the purpose or design of the poem. Read one book through. Read John's Gospel. Do not read a bit of John and then a bit of Mark, but read John through, and get at John's drift. Remember that Matthew, though he wrote of the same Savior as Luke, is not more various in his style than he is distinct in his aim and, in a certain sense, independent of the testimony he bears. The four Evangelists are four separate witnesses, each giving a special contribution to the Doctrine as well as the history of Christ. Matthew, for instance, shows you Jesus as a King. You will notice that most of his parables begin with "a king." "Then shall the Kingdom of Heaven be likened." Mark shows you Christ as the Servant. Luke shows you Christ as Man, giving sketches of His childhood. And His parables begin with, "A certain man," while John teaches you Christ in His Godhead, with a starting point far different from the other three, which have been styled the Synoptical Gospels. "In the beginning was the Word, and the Word was with God, and the Word was God." Try, if you can, to get a hold of what the books mean, and pray God the Holy Spirit to lead you into the drift and aim of the sacred writers in so writing. I would like to see my Church members, all of them, good, hard, solid Bible students. Beloved, I would not be afraid of all the errors of Popery, Infidelity, Socinianism, Plymouth Brethrenism, or any other "ism" if you were to read your Bibles! You will thus keep clear of the whole lot. There is no doubt about your standing firm to the good old faith which we seek to teach you, if you do but keep to Scripture—the Book, the one Book, the Book of books, the Bible! That studied, not hurriedly, but with a determination to compare spiritual things with spiritual, and to observe the analogy of faith, you shall find a well-spring of delight and holy joy which men of letters who dabble in the proudest classics might envy, for Isaiah is better than Homer, and David is richer than Horace. But better still, you shall stand while others fall!
 
-IV. BUT ARE WE ALL BELIEVERS? IS THIS BOOK JOY TO ALL OF US?
+## IV. But Are We All Believers? Is This Book Joy to All of Us?
 
 That is a significant pronoun in the text, "These things we write unto you that your joy may be full." To whom writes he? Is it to you? Young woman, does the Scripture write to you that your joy may be full? Young man, does the Scripture speak to you to fill you with holy joy? You do not know whether it does or not—you do not care about it. Then, it does not speak to you. You get plenty of joy elsewhere. Well, it does not speak to you. It does not intrude upon you. It leaves you alone. It offers you no joy. You have enough. "The whole have no need of a physician, but they that aresick."
 
@@ -127,7 +124,7 @@ Turn to Jesus' wounded side
 
 Look to that dear blood of His." Here is peace, here is joy in Christ Jesus! Oh, if you are sick of the world, come to my Master! May God the Holy Spirit bless this sickness and make you come because you have nowhere else to go! Jesus Christ will receive the devil's castaways. The very sweepings of pleasure, the dregs of the intoxicating cup, those who have gone so far that now their friends reject them, Jesus Christ accepts! May He accept me, and accept you—and then in Him our joy shall be full! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM66:1-15.
+## Exposition by C. H. Spurgeon: Psalm 66:1-15
 
 Verse 1. Make a joyful noise unto God, all you lands. Let not Israel alone do it. Take up the strain, you nations. He is the God of all the nations of the earth. "Make a joyful noise unto God, all you lands."
 
@@ -148,7 +145,6 @@ Verse 1. Make a joyful noise unto God, all you lands. Let not Israel alone do it
 12\. But You brought us out into a wealthy place.Out of the fire and out of the water they came because God brought them! And when He brought them, it was not to a stinted, barren heritage, but into a wealthy place. Oh, Beloved, when we think of where the Covenant of Grace has placed every Believer, it is a wealthy place, indeed!
 
 13-15. I will go into Your house with burnt offerings: I will pay You my vows which my lips have uttered, and my mouth has spoken when I was in trouble. I will offer unto You burnt sacrifices of fatlings, with the incense of rams. I will offer bullocks with goats. Selah. The best, I think. "The best of the best will I bring You, O my God. I will bring You my heart. I will bring You my tongue. I will bring you my entire being
-
 
 ---
 [[Sermon 3405 Confession of Christ|← #3405]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3407 Peter's Prayer|#3407 →]]

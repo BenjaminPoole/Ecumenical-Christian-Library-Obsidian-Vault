@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 88. Matthew 10:32-35; Mark 8:38; Luke 9:26; 12:8-9, 51-53
-
-MATTHEW 10:32-35; MARK 8:38;  
-LUKE 9:26; 12:8-9, 51-53
 
 **32**. Whosoever therefore shall confess me before men, him will I also confess before my Father, who is in heaven. **33**. And whosoever shall deny me before men, him will I also deny before my Father, who is in heaven. **34**. Think not that I came to send peace on the earth: I came not to send peace, but a sword. **35**. For I have come to set a man at variance against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. And the persons of a man’s household shall be his enemies.
 

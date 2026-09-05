@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Fields White For Harvest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 706
 
-DELIVERED ON SUNDAY EVENING, JULY 29, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Evening, July 29, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > John 4:35.
 
@@ -144,7 +143,6 @@ He is waiting to be gracious, near at hand, and not afar off. There are, in some
 But here, my dear Hearers, is the difference in your case. The Physician knocks at your door and tells you of your disease. He proffers to you the remedy, assures you of a complete and of an immediate cure. And you—oh madness and folly unspeakable!—you hesitate to welcome Him! And you reject, it may be, all His offered care. Then you must perish! For your ignorance and poverty are such that no help of man can avail. You cannot effect your own cure and therefore you will go down to the pit with your blood upon your own head.
 
 May this folly soon cease, and you be inclined to listen to Him whose touch gives health, yes, life from the dead! In His name I proclaim salvation! Look, then, to Him! Believe, and life everlasting shall be yours. May God Almighty bless you, and may we meet in Heaven. Amen.
-
 
 ---
 [[Sermon 0705 The Voice Of Cholera|← #705]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0707 Heavenly Geometry|#707 →]]

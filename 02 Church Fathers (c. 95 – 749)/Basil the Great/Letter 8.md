@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 8
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the Cæsareans. A defense of his withdrawal, and concerning the faith.
 

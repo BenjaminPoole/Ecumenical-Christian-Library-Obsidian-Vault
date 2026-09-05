@@ -11,7 +11,6 @@ tags:
   - classical
   - pliny-the-elder
 ---
-
 # The Natural History
 *Volume 2*
 
@@ -29,49 +28,31 @@ corrected.
 
 Further notes can be found at the end of the book.
 
+## The
 
-
-
-  THE
-
-  NATURAL HISTORY
+## Natural History
 
   OF
 
-  PLINY.
-
-  TRANSLATED,
-  WITH COPIOUS NOTES AND ILLUSTRATIONS
-
-  BY THE LATE
-  JOHN BOSTOCK, M.D., F.R.S.,
+## Pliny
 
   AND
   H. T. RILEY, Esq., B.A.,
   LATE SCHOLAR OF CLARE HALL, CAMBRIDGE.
 
-  VOL. II.
+## Vol. II
 
   LONDON:
   HENRY G. BOHN, YORK STREET, COVENT GARDEN.
   MDCCCLV.
 
-
-
-
   J. BILLING,
   PRINTER AND STEREOTYPER,
   WOKING, SURREY.
 
+## Of the Second Volume
 
-
-
-CONTENTS.
-
-OF THE SECOND VOLUME.
-
-
-  BOOK VI.
+## Book VI
 
   AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
   RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST, OR FORMERLY
@@ -161,10 +142,9 @@ OF THE SECOND VOLUME.
   39. Division of the earth into parallels and shadows of equal
         length                                                   110
 
+## Book VII
 
-  BOOK VII.
-
-  MAN, HIS BIRTH, HIS ORGANIZATION, AND THE INVENTION OF THE ARTS.
+## Man, His Birth, His Organization, and the Invention of the Arts
 
   1. Man                                                         117
 
@@ -299,10 +279,9 @@ OF THE SECOND VOLUME.
 
   60. When the first time-pieces were made                       237
 
+## Book VIII
 
-  BOOK VIII.
-
-  THE NATURE OF THE TERRESTRIAL ANIMALS.
+## The Nature of the Terrestrial Animals
 
   1. Elephants; their capacity                                   244
 
@@ -489,10 +468,9 @@ OF THE SECOND VOLUME.
         which injure the natives of the country only, and where
         they are found                                           353
 
+## Book IX
 
-  BOOK IX.
-
-  THE NATURAL HISTORY OF FISHES.
+## The Natural History of Fishes
 
   1. Why the largest animals are found in the sea                358
 
@@ -697,10 +675,9 @@ OF THE SECOND VOLUME.
   88. The antipathies and sympathies that exist between aquatic
         animals                                                  _ib._
 
+## Book X
 
-  BOOK X.
-
-  THE NATURAL HISTORY OF BIRDS.
+## The Natural History of Birds
 
   1. The ostrich                                                 478
 
@@ -933,24 +910,14 @@ OF THE SECOND VOLUME.
 
   98. What animals are subject to dreams                         553
 
+## Natural History of Pliny
 
-
-
-NATURAL HISTORY OF PLINY.
-
-
-
-
-BOOK VI.
+## Book VI
 
 AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
 RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST, OR FORMERLY EXISTED.
 
-
-
-
-CHAP. 1. (1.)—THE EUXINE AND THE MARYANDINI.
-
+## Chap. 1. (1.)—the Euxine and the Maryandini
 
 The Euxine[1] Sea, which in former times had the name of Axenus,[2]
 from the savage and inhospitable character of the nations living on
@@ -1004,11 +971,7 @@ a deadly poison, and then the cavern of Acherusia,[19] the rivers
 Pædopides, Callichorus, and Sonautes, the town of Tium,[20] distant
 from Heraclea thirty-eight miles, and the river Billis.
 
-
-
-
-CHAP. 2. (2.)—PAPHLAGONIA.
-
+## Chap. 2. (2.)—paphlagonia
 
 Beyond this river begins the nation of Paphlagonia,[21] by some writers
 called Pylæmenia;[22] it is closed in behind by the country of Galatia.
@@ -1040,11 +1003,7 @@ rest being of barbarian origin.[42] To Amisus was joined the town of
 Eupatoria,[43] founded by Mithridates: after his defeat they were both
 included under the name of Pompeiopolis.
 
-
-
-
-CHAP. 3. (3.)—CAPPADOCIA.
-
+## Chap. 3. (3.)—cappadocia
 
 Cappadocia[44] has in the interior Archelais,[45] a colony founded by
 Claudius Cæsar, and past which the river Halys flows; also the towns
@@ -1066,11 +1025,7 @@ interior also there is the famous river Ceraunus,[62] and on the coast
 beyond the town of Amisus, the town and river of Chadisia,[63] and the
 town of Lycastum,[64] after which the region of Themiscyra[65] begins.
 
-
-
-
-CHAP. 4.—THE REGION OF THEMISCYRA, AND THE NATIONS THEREIN.
-
+## Chap. 4.—the Region of Themiscyra, and the Nations Therein
 
 The river Iris brings down to the sea the waters of the Lycus. In
 the interior is the city of Ziela,[66] famous for the defeat of
@@ -1129,12 +1084,8 @@ miles distant from Phasis, the nation of the Sannigæ, the town of
 Cygnus,[110] and the river and town of Penius.[111] We then come to the
 tribes of the Heniochi,[112] who are distinguished by numerous names.
 
-
-
-
 CHAP. 5. (5.)—THE REGION OF COLICA, THE NATIONS OF THE ACHÆI, AND OTHER
 NATIONS IN THE SAME PARTS.
-
 
 Below this lies the region of Pontus known as Colica,[113] in
 which the mountain chain of Caucasus bends away towards the Riphæan
@@ -1171,11 +1122,7 @@ passing which, we come to the river Setheries. (6.) From thence to the
 entrance of the Cimmerian Bosporus the distance is eighty-eight miles
 and a half.
 
-
-
-
-CHAP. 6.—THE CIMMERIAN BOSPORUS.
-
+## Chap. 6.—the Cimmerian Bosporus
 
 The length of the peninsula[130] which projects between the Euxine
 and Lake Mæotis, is not more than sixty-seven miles and a half, and
@@ -1189,11 +1136,7 @@ mouth, Cimmerium,[137] which was formerly called Cerberion. (7.) We
 then come to Lake Mæotis, which has been already mentioned[138] in the
 description of Europe.
 
-
-
-
-CHAP. 7.—LAKE MÆOTIS AND THE ADJOINING NATIONS.
-
+## Chap. 7.—lake Mæotis and the Adjoining Nations
 
 After passing Cimmerium, the coast[139] is inhabited by the Mæotici,
 the Vali, the Serbi,[140] the Arrechi, the Zingi, and the Psessi. We
@@ -1235,11 +1178,7 @@ Spondolici, the Synhietæ, the Anasi, the Issi, the Catetæ, the Tagoræ,
 the Caroni, the Neripi, the Agandei, the Mandarei, the Satarchei, and
 the Spalei.
 
-
-
-
-CHAP. 8. (8.)—THE SITUATION OF CAPPADOCIA.
-
+## Chap. 8. (8.)—the Situation of Cappadocia
 
 We have now gone over the coast which borders upon the Inner[153] Sea,
 and have enumerated the various nations that dwell thereon; let us now
@@ -1265,11 +1204,7 @@ portion of it known as Cataonia extending as far as Cyrrhestica, which
 forms part of that district. The length of Asia[158] here is twelve
 hundred and fifty miles, its breadth six hundred and forty.[159]
 
-
-
-
-CHAP. 9. (9.)—THE LESSER AND THE GREATER ARMENIA.
-
+## Chap. 9. (9.)—the Lesser and the Greater Armenia
 
 Greater Armenia,[160] beginning at the mountains known as the
 Paryadres,[161] is separated, as we have already stated,[162] from
@@ -1287,11 +1222,7 @@ which it is separated by the river Absarus, which flows into the
 Euxine, and by the mountains known as the Paryadres, in which the
 Absarus takes its rise.
 
-
-
-
-CHAP. 10.—THE RIVERS CYRUS AND ARAXES.
-
+## Chap. 10.—the Rivers Cyrus and Araxes
 
 The river Cyrus[168] takes its rise in the mountains of the Heniochi,
 by some writers called the Coraxici; the Araxes rises in the same
@@ -1323,11 +1254,7 @@ we shall state in the proper place, receives its waters from the
 ocean,[183] and is wholly surrounded by the Caucasian Mountains. The
 inhabitants upon the confines of Armenia shall now be treated of.
 
-
-
-
-CHAP. 11. (10.)—ALBANIA, IBERIA, AND THE ADJOINING NATIONS.
-
+## Chap. 11. (10.)—albania, Iberia, and the Adjoining Nations
 
 The whole plain which extends away from the river Cyrus is inhabited
 by the nation of the Albani,[184] and, after them,[185] by that of the
@@ -1346,11 +1273,7 @@ confines of Albania, the wild tribes of the Silvi inhabit the face of
 the mountains, below them those of the Lubieni, and after them the
 Diduri and the Sodii.
 
-
-
-
-CHAP. 12. (11.)—THE PASSES OF THE CAUCASUS.
-
+## Chap. 12. (11.)—the Passes of the Caucasus
 
 After passing the last, we come to the Gates of Caucasus,[193] by many
 persons most erroneously called the Caspian Passes; a vast work of
@@ -1381,11 +1304,7 @@ through this isthmus just at the time when he was slain by Ptolemy
 Ceraunus. It is a well-known fact that the distance from the Gates of
 Caucasus to the shores of the Euxine is two hundred miles.
 
-
-
-
-CHAP. 13. (12.)—THE ISLANDS OF THE EUXINE.
-
+## Chap. 13. (12.)—the Islands of the Euxine
 
 The islands of the Euxine are the Planctæ or Cyaneæ,[198] otherwise
 called Symplegades, and Apollonia, surnamed Thynias,[199] to
@@ -1396,11 +1315,7 @@ given the name of Aria,[202] and consecrated it to Mars; here, they
 say, there were birds that used to attack strangers with blows of their
 wings.
 
-
-
-
-CHAP. 14. (13.)—NATIONS IN THE VICINITY OF THE SCYTHIAN OCEAN.
-
+## Chap. 14. (13.)—nations in the Vicinity of the Scythian Ocean
 
 Having now stated all that bears reference to the interior of Asia,
 let us cross in imagination the Riphæan[203] Mountains, and traverse
@@ -1431,11 +1346,7 @@ we come straight to the Scythians, the Cimmerii, the Cisianthi, the
 Georgi, and a nation of Amazons.[213] These last extend to the Caspian
 and Hyrcanian Sea.[214]
 
-
-
-
-CHAP. 15.—THE CASPIAN AND HYRCANIAN SEA.
-
+## Chap. 15.—the Caspian and Hyrcanian Sea
 
 Bursting through, this sea makes a passage from the Scythian Ocean into
 the back of Asia,[215] receiving various names from the nations which
@@ -1503,11 +1414,7 @@ other Caspian Gates, which join up to the Caspian tribes; but these can
 only be distinguished from a perusal of the narrative of those who took
 part in the expedition of Alexander the Great.
 
-
-
-
-CHAP. 16.—ADIABENE.
-
+## Chap. 16.—adiabene
 
 The kingdom of the Persians, by which we now understand that of
 Parthia, is elevated upon the Caucasian chain between two seas, the
@@ -1528,11 +1435,7 @@ of Armenia, by the river Araxes; Gazæ[239] is its chief city, distant
 from Artaxata four hundred and fifty miles, and the same from Ecbatana
 in Media, to which country Atropatene belongs.
 
-
-
-
-CHAP. 17. (14.)—MEDIA AND THE CASPIAN GATES.
-
+## Chap. 17. (14.)—media and the Caspian Gates
 
 Ecbatana,[240] the capital of Media, was built[241] by king Seleucus,
 at a distance from Great Seleucia of seven hundred and fifty miles, and
@@ -1576,11 +1479,7 @@ set down as fifteen thousand six hundred and eighty[255] stadia, to the
 city of Bactra,[256] commonly called Zariaspa, three thousand seven
 hundred, and thence to the river Jaxartes[257] five thousand stadia.
 
-
-
-
-CHAP. 18. (16.)—NATIONS SITUATE AROUND THE HYRCANIAN SEA.
-
+## Chap. 18. (16.)—nations Situate Around the Hyrcanian Sea
 
 Lying to the east of the Caspii is the region known as Apavortene,[258]
 in which there is a place noted for its singular fertility, called
@@ -1633,12 +1532,8 @@ Seleucus and Antiochus, and whose account more particularly we have
 here followed. He also consecrated certain altars here to Apollo
 Didymæus.[283]
 
-
-
-
 CHAP. 19. (17.)—THE NATIONS OF SCYTHIA AND THE COUNTRIES ON THE EASTERN
 OCEAN.
-
 
 Beyond this river are the peoples of Scythia. The Persians have called
 them by the general name of Sacæ,[284] which properly belongs to only
@@ -1671,11 +1566,7 @@ by land to Phasis in Pontus, in five days at most. There are numerous
 islands throughout the whole of the Caspian sea: the only one that is
 well known is that of Tazata.[297]
 
-
-
-
-CHAP. 20.—THE SERES.
-
+## Chap. 20.—the Seres
 
 After we have passed the Caspian Sea and the Scythian Ocean, our course
 takes an easterly direction, such being the turn here taken by the
@@ -1719,11 +1610,7 @@ human flesh. Here are also numerous wandering Nomad tribes of India.
 There are some authors who state that in a north-easterly direction
 these nations touch upon the Cicones[308] and the Brysari.
 
-
-
-
-CHAP. 21.—THE NATIONS OF INDIA.
-
+## Chap. 21.—the Nations of India
 
 But we come now to nations as to which there is a more general
 agreement among writers. Where the chain of Emodus[309] rises, the
@@ -1839,11 +1726,7 @@ comes nearest to the sea, and above them are the Mandei and the
 Malli.[339] In the territory of the last-named people is a mountain
 called Mallus: the boundary of this region is the river Ganges.
 
-
-
-
-CHAP. 22. (18.)—THE GANGES.
-
+## Chap. 22. (18.)—the Ganges
 
 Some writers have stated that this river, like the Nile, takes its
 rise from unknown sources,[340] and, in a similar manner, waters
@@ -1926,11 +1809,7 @@ to the Indus; in the mountains of the Prasii a race of Pygmies is said
 to exist. Artemidorus says that between these two rivers there is a
 distance of two thousand one hundred miles.
 
-
-
-
-CHAP. 23. (20.)—THE INDUS.
-
+## Chap. 23. (20.)—the Indus
 
 The Indus, called Sindis by the natives, rises in that branch of the
 Caucasian range which bears the name of Paropanisus,[362] and runs in
@@ -2056,11 +1935,7 @@ at twelve miles’ distance from it, Bibraga,[385] abounding in oysters
 and other shell-fish. At eight miles’ distance from Bibraga we find
 Toralliba, and many others of no note.
 
-
-
-
-CHAP. 24. (22.)—TAPROBANE.
-
+## Chap. 24. (22.)—taprobane
 
 Taprobane,[386] under the name of the “land of the Antichthones,”[387]
 was long looked upon as another world: the age and the arms of
@@ -2095,7 +1970,6 @@ land. They devote only four months in the year to the pursuits of
 navigation, and are particularly careful not to trust themselves on
 the sea during the next hundred days after our summer solstice, for in
 those seas it is at that time the middle of winter.
-
 
 Thus much we learn from the ancient writers; it has fallen to our lot,
 however, to obtain a still more accurate knowledge of these people; for
@@ -2202,11 +2076,7 @@ an abode, of such vast size are they to be found. These people look
 upon a hundred years as a comparatively short life. Thus much have we
 learned respecting Taprobane.
 
-
-
-
-CHAP. 25.—THE ARIANI AND THE ADJOINING NATIONS.
-
+## Chap. 25.—the Ariani and the Adjoining Nations
 
 We will now proceed to give some further particulars relative to the
 four Satrapies, of which we have postponed further mention[407] till
@@ -2260,11 +2130,7 @@ whole of the Ichthyophagi[438] to live any longer on fish. Next after
 these the writers have placed extensive deserts, and then Carmania,
 Persia, and Arabia.
 
-
-
-
-CHAP. 26.—VOYAGES TO INDIA.
-
+## Chap. 26.—voyages to India
 
 But before we enter into any details respecting these countries, it
 will be as well to mention what Onesicritus[439] has stated, who
@@ -2407,11 +2273,7 @@ they do this, they can go and return in the same year. They set sail
 from India with a south-east wind, and upon entering the Red Sea, catch
 the south-west or south. We will now return to our main subject.
 
-
-
-
-CHAP. 27.—CARMANIA.
-
+## Chap. 27.—carmania
 
 Nearchus states in his writings that the coast of Carmania[475] extends
 a distance of twelve hundred and fifty miles. From its frontier to
@@ -2421,11 +2283,7 @@ as far as the river Ananis,[477] a distance of twenty-five miles. This
 region is known by the name of Armuzia. The cities of Carmania are
 Zetis and Alexandria.[478]
 
-
-
-
-CHAP. 28.—THE PERSIAN AND THE ARABIAN GULFS.
-
+## Chap. 28.—the Persian and the Arabian Gulfs
 
 The sea then makes a two-fold indentation[479] in the land upon
 these coasts, under the name of Rubrum[480] or “Red,” given to it by
@@ -2474,11 +2332,7 @@ fifty miles in length; it is a country opulent even to luxury, but has
 long since changed its name for that of “Parthia.”[495] I shall now
 devote a few words to the Parthian empire.
 
-
-
-
-CHAP. 29.—THE PARTHIAN EMPIRE.
-
+## Chap. 29.—the Parthian Empire
 
 The kingdoms[496] of Parthia are eighteen in all: such being the
 divisions of its provinces, which lie, as we have already stated,
@@ -2525,11 +2379,7 @@ after Mesopotamia, which we shall now describe, with the exception of
 that angle of it and the peoples of Arabia, which have been already
 mentioned in a former book.[512]
 
-
-
-
-CHAP. 30.—MESOPOTAMIA.
-
+## Chap. 30.—mesopotamia
 
 The whole of Mesopotamia formerly belonged to the Assyrians, being
 covered with nothing but villages, with the exception of Babylonia[513]
@@ -2633,11 +2483,7 @@ seventy-five[544] miles. Such is the extent of the land that lies in
 these parts between the two seas.[545] The length of the kingdom of
 Parthia is nine hundred and eighteen miles.
 
-
-
-
-CHAP. 31.—THE TIGRIS.
-
+## Chap. 31.—the Tigris
 
 There is, besides the above, another town in Mesopotamia, on the
 banks of the Tigris and near its confluence with the Euphrates, the
@@ -2808,11 +2654,7 @@ the discoveries made by the Roman arms, and the description given by
 king Juba, in his work dedicated to Caius Cæsar above-mentioned, on the
 subject of the same expedition against Arabia.
 
-
-
-
-CHAP. 32. (28.)—ARABIA.
-
+## Chap. 32. (28.)—arabia
 
 Arabia, inferior to no country throughout the whole world, is of
 immense extent, running downwards, as we have previously stated,[601]
@@ -3029,11 +2871,7 @@ the world, seeing that such vast wealth flows in upon them from both
 the Roman and the Parthian Empires; for they sell the produce of the
 sea or of their forests, while they purchase nothing whatever in return.
 
-
-
-
-CHAP. 33.—THE GULFS OF THE RED SEA.
-
+## Chap. 33.—the Gulfs of the Red Sea
 
 We will now trace the rest of the coast that lies opposite to that
 of Arabia. Timosthenes has estimated the length of the whole gulf at
@@ -3094,11 +2932,7 @@ name of the mother of Philadelphus, and to which there is a road from
 Coptos, as we have previously stated;[678] then the Arabian Autei, and
 the Zebadei.
 
-
-
-
-CHAP. 34.—TROGLODYTICE.
-
+## Chap. 34.—troglodytice
 
 Troglodytice comes next, by the ancients called Midoë, and by some
 Michoë; here is Mount Pentedactylos, some islands called Stenæ
@@ -3203,11 +3037,7 @@ these matters, however, to the option of each, to form his opinion on
 them, and shall now proceed to mention the towns on each side[710] in
 the order in which they are given.
 
-
-
-
-CHAP. 35.—ÆTHIOPIA.
-
+## Chap. 35.—æthiopia
 
 On leaving Syene,[711] and taking first the Arabian side, we find
 the nation of the Catadupi, then the Syenitæ, and the town of
@@ -3427,11 +3257,7 @@ who affirm that in these regions there are hills of a moderate height,
 which afford a pleasant shade from the groves with which they are clad,
 and are the haunts of Ægipans[748] and Satyrs.
 
-
-
-
-CHAP. 36. (31.)—ISLANDS OF THE ÆTHIOPIAN SEA.
-
+## Chap. 36. (31.)—islands of the Æthiopian Sea
 
 We learn from Ephorus, as well as Eudoxus and Timosthenes, that there
 are great numbers of islands scattered all over this sea; Clitarchus
@@ -3474,11 +3300,7 @@ Mauritania. We only know, as a fact well-ascertained, that some few
 were discovered by Juba over against the country of the Autololes, upon
 which he established a manufactory of Gætulian purple.[755]
 
-
-
-
-CHAP. 37. (32.)—THE FORTUNATE ISLANDS.
-
+## Chap. 37. (32.)—the Fortunate Islands
 
 There are some authors who think that beyond these are the Fortunate
 Islands,[756] and some others; the number of which Sebosus gives, as
@@ -3522,11 +3344,7 @@ papyrus, and the fish called silurus,[770] are found. These islands,
 however, are greatly annoyed by the putrefying bodies of monsters,
 which are constantly thrown up by the sea.
 
-
-
-
-CHAP. 38.—THE COMPARATIVE DISTANCES OF PLACES ON THE FACE OF THE EARTH.
-
+## Chap. 38.—the Comparative Distances of Places on the Face of the Earth
 
 Having now fully described the earth, both without[771] as well as
 within, it seems only proper that we should succinctly state the length
@@ -3584,12 +3402,8 @@ of one-third, Asia one-fourth and one-fourteenth part of one-fourth,
 and Africa, one-fifth and one-sixtieth part of one-fifth of the whole
 earth.[778]
 
-
-
-
 CHAP. 39.—DIVISION OF THE EARTH INTO PARALLELS AND SHADOWS OF EQUAL
 LENGTH.
-
 
 To the above we shall add even another instance of ingenious discovery
 by the Greeks, and indeed of the most minute skilfulness; that so
@@ -3747,18 +3561,11 @@ Megasthenes,[827] Diognetus,[828] Aristocreon,[829] Bion,[830]
 Dalion,[831] the Younger Simonides,[832] Basilis,[833] Xenophon[834]
 of Lampsacus.
 
+## Book Vii.[835]
 
+## Man, His Birth, His Organization, and the Invention of the Arts
 
-
-BOOK VII.[835]
-
-MAN, HIS BIRTH, HIS ORGANIZATION, AND THE INVENTION OF THE ARTS.
-
-
-
-
-CHAP. 1.—MAN.
-
+## Chap. 1.—man
 
 Such then is the present state of the world, and of the countries,
 nations, more remarkable seas, islands, and cities which it
@@ -3864,11 +3671,7 @@ all subjects of a nature to inspire doubt. My readers, however, must
 make no objection to following the Greeks, who have proved themselves
 the most careful observers, as well as of the longest standing.[861]
 
-
-
-
-CHAP. 2.—THE WONDERFUL FORMS OF DIFFERENT NATIONS.
-
+## Chap. 2.—the Wonderful Forms of Different Nations
 
 We have already stated, that there are certain tribes of the Scythians,
 and, indeed, many other nations, which feed upon human flesh.[862] This
@@ -4143,11 +3946,7 @@ prodigies.
 Let us now proceed to mention some other particulars connected with
 Man, the truth of which is universally admitted.
 
-
-
-
-CHAP. 3.—MARVELLOUS BIRTHS.
-
+## Chap. 3.—marvellous Births
 
 (3.) That three children are sometimes produced at one birth, is
 a well-known fact; the case, for instance, of the Horatii and the
@@ -4208,12 +4007,8 @@ old sooner. Of the two, male children most frequently are known to
 move in the womb;[960] they mostly lie on the right side of the body,
 females on the left.[961]
 
-
-
-
 CHAP. 4. (5.)—THE GENERATION OF MAN; UNUSUAL DURATION OF PREGNANCY;
 INSTANCES OF IT FROM SEVEN TO TWELVE MONTHS.
-
 
 In other animals the period of gestation and of birth is fixed and
 definite, while man, on the other hand, is born at all seasons of the
@@ -4244,12 +4039,8 @@ heir,[968] although his mother declared that her period of gestation
 had lasted thirteen months—upon the ground that it did not appear that
 there was any fixed and definite period of gestation.[969]
 
-
-
-
 CHAP. 5. (6.)—INDICATIONS OF THE SEX OF THE CHILD DURING THE PREGNANCY
 OF THE MOTHER.[970]
-
 
 On the tenth day after conception, pains are felt in the head, vertigo,
 and dimness of the sight; these signs, together with loathing of food
@@ -4291,11 +4082,7 @@ Fabius, was choked, and so met his death. He only, in fact, will be
 able to form a just estimate of the value of life, who will always bear
 in mind the extreme frailty of its tenure.
 
-
-
-
-CHAP. 6. (8.)—MONSTROUS BIRTHS.
-
+## Chap. 6. (8.)—monstrous Births
 
 It is contrary to nature for children to come into the world with
 the feet first, for which reason such children are called Agrippæ,
@@ -4320,11 +4107,7 @@ left it recorded in writing, that he was born with his feet first. It
 is in the due order of nature that man should enter the world with the
 head first, and be carried to the tomb in a contrary fashion.
 
-
-
-
-CHAP. 7. (9.)—OF THOSE WHO HAVE BEEN CUT OUT OF THE WOMB.
-
+## Chap. 7. (9.)—of Those Who Have Been Cut out of the Womb
 
 Those children, whose birth has cost the mother her life, are evidently
 born under more favourable auspices; for such was the case with the
@@ -4334,22 +4117,14 @@ a similar reason, too, the Cæsones were called by that name.[980]
 Manilius, also, who entered Carthage with his army, was born in a
 similar manner.
 
-
-
-
-CHAP. 8. (10.)—WHO WERE CALLED VOPISCI.
-
+## Chap. 8. (10.)—who Were Called Vopisci
 
 A child used to be called Vopiscus,[981] who, when twins had been
 conceived, had been retained in the womb and born alive, the other
 having perished by abortion. There are, too, some very remarkable
 instances of this kind, although they are singularly rare and uncommon.
 
-
-
-
-CHAP. 9. (11.)—THE CONCEPTION AND GENERATION OF MAN.
-
+## Chap. 9. (11.)—the Conception and Generation of Man
 
 Few animals, except the female of the human species, receive the
 male when pregnant. In only one or two species, and no more, does
@@ -4371,11 +4146,7 @@ five months old: and again, with another female, who, having been
 delivered of one child at the end of seven months, in due course, two
 months afterwards, brought forth twins.[986]
 
-
-
-
-CHAP. 10.—STRIKING INSTANCES OF RESEMBLANCE.
-
+## Chap. 10.—striking Instances of Resemblance
 
 It is universally known that well-formed parents often produce
 defective children; and on the other hand, defective parents children
@@ -4467,12 +4238,8 @@ in the mind of the proscriber,[1003] that he who was but just before
 frantic under the injury he had received, was led to set a higher value
 on no part whatever of all the property in his possession.
 
-
-
-
 CHAP. 11. (13.)—WHAT MEN ARE SUITED FOR GENERATION. INSTANCES OF VERY
 NUMEROUS OFFSPRING.
-
 
 There exists a kind of peculiar antipathy between the bodies of
 certain persons, which, though barren with respect to each other, are
@@ -4503,11 +4270,7 @@ to offer sacrifice, attended by eight children (of whom two were
 daughters), twenty-eight grandsons, nineteen great-grandsons, and eight
 granddaughters, who all followed him in a lengthened train.
 
-
-
-
-CHAP. 12. (14.)—AT WHAT AGE GENERATION CEASES.
-
+## Chap. 12. (14.)—at What Age Generation Ceases
 
 Women cease to bear children at their fiftieth year, and, with the
 greater part of them, the monthly discharge ceases at the age of forty.
@@ -4525,12 +4288,8 @@ Volusius Saturninus, who was afterwards consul. Among the lower classes
 of the people, we not uncommonly meet with men who become the fathers
 of children after the age of seventy-five.
 
-
-
-
 CHAP. 13. (15.)—REMARKABLE CIRCUMSTANCES CONNECTED WITH THE MENSTRUAL
 DISCHARGE.
-
 
 Among the whole range of animated beings, the human female is the
 only one that has the monthly discharge,[1015] and in whose womb are
@@ -4583,11 +4342,7 @@ Nigidius says.
 is giving suck will not become impure, if she should happen to become
 pregnant again by the same man.[1023]
 
-
-
-
-CHAP. 14.—THE THEORY OF GENERATION.
-
+## Chap. 14.—the Theory of Generation
 
 Conception is generally said to take place the most readily, either at
 the beginning or the end of the menstrual discharge.[1024] It is said,
@@ -4595,11 +4350,7 @@ too, that it is a certain sign of fecundity in a woman, when her saliva
 becomes impregnated with any medicament which has been rubbed upon her
 eye-lids.[1025]
 
-
-
-
-CHAP. 15.—SOME ACCOUNT OF THE TEETH, AND SOME FACTS CONCERNING INFANTS.
-
+## Chap. 15.—some Account of the Teeth, and Some Facts Concerning Infants
 
 It is a matter beyond doubt, that in young children the front teeth
 are produced at the seventh month, and, nearly always, those in the
@@ -4652,11 +4403,7 @@ laughed on the same day on which he was born. We hear, too, that his
 brain pulsated so strongly that it repelled the hand when laid upon it,
 a presage of his future wisdom.
 
-
-
-
-CHAP. 16.—EXAMPLES OF UNUSUAL SIZE.
-
+## Chap. 16.—examples of Unusual Size
 
 It is a well-known fact, that, at the age of three years, the body of
 each person is half the height that it will ever attain. Taking it all
@@ -4696,11 +4443,7 @@ are occasionally born a foot and a half in height, and sometimes a
 little more; such children, however, have finished their span of
 existence by the time they are three years old.[1049]
 
-
-
-
-CHAP. 17.—CHILDREN REMARKABLE FOR THEIR PRECOCITY.
-
+## Chap. 17.—children Remarkable for Their Precocity
 
 We find it stated by the historians, that the son of Euthymenes of
 Salamis had grown to be three cubits in height, at the age of three
@@ -4722,11 +4465,7 @@ left; though in some, the strength of the two sides is equal; while in
 others again, the left side is the strongest. This, however, is never
 found to be the case in women.[1053]
 
-
-
-
-CHAP. 18.—SOME REMARKABLE PROPERTIES OF THE BODY.
-
+## Chap. 18.—some Remarkable Properties of the Body
 
 Males are heavier than females, and the bodies of all animals are
 heavier when they are dead than when alive; they also weigh more when
@@ -4769,11 +4508,7 @@ troubled with eructation. Those rare instances of men,[1060] whose
 bones are naturally solid and without marrow, are known to us as men
 “of horn.”[1061]
 
-
-
-
-CHAP. 19. (20.)—INSTANCES OF EXTRAORDINARY STRENGTH.
-
+## Chap. 19. (20.)—instances of Extraordinary Strength
 
 Varro, speaking of persons remarkable for their strength, gives us an
 account of Tributanus, a celebrated gladiator, and skilled in the use
@@ -4802,11 +4537,7 @@ taken his stand, there was not a person who could move him from his
 position; and when he grasped an apple in his hand, no one could so
 much as open one of his fingers.
 
-
-
-
-CHAP. 20.—INSTANCES OF REMARKABLE AGILITY.
-
+## Chap. 20.—instances of Remarkable Agility
 
 It was considered a very great thing for Philippides to run one
 thousand one hundred and sixty stadia, the distance between Athens
@@ -4824,11 +4555,7 @@ made all possible haste to reach his brother Drusus, who was then sick
 in Germany, reached him in three stages, travelling day and night on
 the road; the distance of each stage was two hundred miles.[1071]
 
-
-
-
-CHAP. 21. (21.)—INSTANCES OF ACUTENESS OF SIGHT.
-
+## Chap. 21. (21.)—instances of Acuteness of Sight
 
 Instances of acuteness of sight are to be found stated, which, indeed,
 exceed all belief. Cicero informs us,[1072] that the Iliad of Homer
@@ -4846,11 +4573,7 @@ of similar material, a chariot drawn by four horses, which a fly could
 cover with its wings; as well as a ship which might be covered by the
 wings of a tiny bee.[1078]
 
-
-
-
-CHAP. 22. (22.)—INSTANCES OF REMARKABLE ACUTENESS OF HEARING.
-
+## Chap. 22. (22.)—instances of Remarkable Acuteness of Hearing
 
 We have one instance on record of remarkable acuteness of hearing; the
 noise of the battle, on the occasion when Sybaris[1079] was destroyed,
@@ -4860,11 +4583,7 @@ which was conveyed to Rome by the Castors,[1082] they are to be looked
 upon in the light of visions and presages proceeding immediately from
 the gods.
 
-
-
-
-CHAP. 23. (23.)—INSTANCES OF ENDURANCE OF PAIN.
-
+## Chap. 23. (23.)—instances of Endurance of Pain
 
 Of patience in enduring pain, that being too frequently the lot of our
 calamitous fate, we have innumerable instances related. One of the most
@@ -4875,11 +4594,7 @@ we have that of Anaxarchus, who, when put to the torture for a similar
 reason, bit off his tongue and spit it into the face of the tyrant,
 thus destroying the only hope[1084] of his making any betrayal.
 
-
-
-
-CHAP. 24. (24.)—MEMORY.
-
+## Chap. 24. (24.)—memory
 
 It would be far from easy to pronounce what person has been the most
 remarkable for the excellence of his memory, that blessing so essential
@@ -4910,11 +4625,7 @@ from us, even while the body is at rest and in perfect health. When
 sleep, too, comes over us, it is cut off altogether; so much so, that
 the mind, in its vacancy, is at a loss to know where we are.[1090]
 
-
-
-
-CHAP. 25. (25.)—VIGOR OF MIND.
-
+## Chap. 25. (25.)—vigor of Mind
 
 The most remarkable instance, I think, of vigour of mind in any man
 ever born, was that of Cæsar, the Dictator. I am not at present
@@ -4937,11 +4648,7 @@ under the strong influence of necessity; and, indeed, he himself
 confesses as much, in his omission to state the number of persons who
 perished by the sword in the civil wars.
 
-
-
-
-CHAP. 26.—CLEMENCY AND GREATNESS OF MIND.
-
+## Chap. 26.—clemency and Greatness of Mind
 
 With much more justice we may award credit to Pompeius Magnus, for
 having taken from the pirates[1093] no less than eight hundred and
@@ -4960,11 +4667,7 @@ papers of Pompeius, which were taken in his desk at the battle of
 Pharsalia, and those of Scipio, taken at Thapsus, without so much as
 reading them.[1094]
 
-
-
-
-CHAP. 27. (26.)—HEROIC EXPLOITS.
-
+## Chap. 27. (26.)—heroic Exploits
 
 But now, as it belongs fully as much to the glorious renown of the
 Roman Empire, as to the victorious career of a single individual, I
@@ -5020,12 +4723,8 @@ exploits of Cæsar, who has shown himself greater still than Pompeius,
 why then he must enumerate all the countries in the world, a task, I
 may say, without an end.
 
-
-
-
 CHAP. 28. (27.)—UNION IN THE SAME PERSON OF THREE OF THE HIGHEST
 QUALITIES WITH THE GREATEST PURITY.
-
 
 Many other men have excelled in different kinds of virtues. Cato,
 however, who was the first of the Porcian family,[1106] is generally
@@ -5040,11 +4739,7 @@ be a peculiarity in Cato’s career, that he had to plead his own cause
 no less than four and forty times;[1109] and yet, though no person was
 so frequently accused, he was always acquitted.
 
-
-
-
-CHAP. 29. (28.)—INSTANCES OF EXTREME COURAGE.
-
+## Chap. 29. (28.)—instances of Extreme Courage
 
 A minute enquiry by whom the greatest valour has ever been exhibited,
 would lead to an endless discussion, more especially if all the fables
@@ -5109,11 +4804,7 @@ where it was deemed the greatest effort of valour to have escaped[1124]
 from the enemy? Other persons have been conquerors of men, no doubt,
 but Sergius[1125] conquered even Fortune herself.[1126]
 
-
-
-
-CHAP. 30. (29.)—MEN OF REMARKABLE GENIUS.
-
+## Chap. 30. (29.)—men of Remarkable Genius
 
 Among so many different pursuits, and so great a variety of works and
 objects, who can select the palm of glory for transcendent genius?
@@ -5145,11 +4836,7 @@ king made enquiry who had lately died in Athens; and understanding
 without any difficulty from the Athenians to whom the god referred, he
 allowed the funeral rites to be performed without molestation.
 
-
-
-
-CHAP. 31. (30.)—MEN WHO HAVE BEEN REMARKABLE FOR WISDOM.
-
+## Chap. 31. (30.)—men Who Have Been Remarkable for Wisdom
 
 Dionysius the tyrant, who otherwise manifested a natural propensity for
 cruelty and pride, sent a vessel crowned with garlands to meet Plato,
@@ -5245,11 +4932,7 @@ have the surnames of Catus and Corculus[1148] given to them. Among the
 Greeks, Socrates was declared by the oracle of the Pythian Apollo to be
 superior to all others in wisdom.
 
-
-
-
-CHAP. 32. (32.)—PRECEPTS THE MOST USEFUL IN LIFE.
-
+## Chap. 32. (32.)—precepts the Most Useful in Life
 
 Again, men have placed on an equality with those of the oracles the
 precepts uttered by Chilon,[1149] the Lacedæmonian. These have been
@@ -5260,22 +4943,14 @@ and litigation.” He died of joy, on hearing that his son had been
 victorious in the Olympic games, and all Greece assisted at his funeral
 rites.
 
-
-
-
-CHAP. 33. (33.)—DIVINATION.
-
+## Chap. 33. (33.)—divination
 
 A spirit of divination, and a certain communion with the gods, of the
 most exalted nature, was manifested—among women, in the Sibyl, and
 among men, in Melampodes,[1151] the Greek, and in Marcius,[1152] the
 Roman.
 
-
-
-
-CHAP. 34. (34.)—THE MAN WHO WAS PRONOUNCED TO BE THE MOST EXCELLENT.
-
+## Chap. 34. (34.)—the Man Who Was Pronounced to Be the Most Excellent
 
 Scipio Nasica is the only individual who, since the commencement of the
 Roman era, has been declared, by a vote of the senate, confirmed by
@@ -5286,11 +4961,7 @@ country,[1154]—no, by Hercules! no more than Socrates, who was declared
 by Apollo to be the wisest of men, was permitted to die outside of a
 prison.
 
-
-
-
-CHAP. 35. (35.)—THE MOST CHASTE MATRONS.
-
+## Chap. 35. (35.)—the Most Chaste Matrons
 
 Sulpicia, the daughter of Paterculus, and wife of Fulvius Flaccus, has
 been considered, in the judgment of matrons, to have been the chastest
@@ -5300,11 +4971,7 @@ the precepts contained in the Sibylline books.[1155] Again, Claudia
 gave strong proof of her piety and virtue, on the occasion of the
 introduction into Rome of the Mother of the gods.[1156]
 
-
-
-
-CHAP. 36. (36.)—INSTANCES OF THE HIGHEST DEGREE OF AFFECTION.
-
+## Chap. 36. (36.)—instances of the Highest Degree of Affection
 
 Infinite is the number of examples of affection which have been known
 in all parts of the world: but one in particular occurred at Rome, to
@@ -5337,12 +5004,8 @@ P. Catienus Plotinus was so much attached to his patron, that on
 finding himself named heir to all his property, he threw himself on the
 funeral pile.
 
-
-
-
 CHAP. 37. (37.)—NAMES OF MEN WHO HAVE EXCELLED IN THE ARTS, ASTROLOGY,
 GRAMMAR, AND MEDICINE.
-
 
 Innumerable are the men who have excelled in the various arts; we
 may, however, take a cursory survey of them, by citing the names of
@@ -5372,11 +5035,7 @@ looked upon as a physician, if he should ever happen in any way to fall
 sick; and he won his wager, for he met his death at an extreme old age,
 by falling down stairs.[1170]
 
-
-
-
-CHAP. 38.—GEOMETRY AND ARCHITECTURE.
-
+## Chap. 38.—geometry and Architecture
 
 M. Marcellus, too, at the taking of Syracuse, offered a remarkable
 homage to the sciences of geometry and mechanics, by giving orders that
@@ -5394,12 +5053,8 @@ that no one should make a marble statue of him except Pyrgoteles, or
 a bronze one except Lysippus.[1175] These arts have all been rendered
 glorious by many illustrious examples.
 
-
-
-
 CHAP. 39. (38.)—OF PAINTING; ENGRAVING ON BRONZE, MARBLE, AND IVORY; OF
 CARVING.
-
 
 King Attalus gave one hundred talents,[1176] at a public auction, for
 a single picture of Aristides, the Theban painter.[1177] Cæsar, the
@@ -5421,11 +5076,7 @@ Phidias,[1182] and the Capitoline Jupiter and the Diana of Ephesus to
 those of Mentor;[1183] to which deities, also, were consecrated vases
 made by this artist.
 
-
-
-
-CHAP. 40. (39.)—SLAVES FOR WHICH A HIGH PRICE HAS BEEN GIVEN.
-
+## Chap. 40. (39.)—slaves for Which a High Price Has Been Given
 
 The highest price ever given for a man born in slavery, so far as I
 am able to discover, was that paid for Daphnus, the grammarian, who
@@ -5447,11 +5098,7 @@ than in commendation of the beauty of the slave. Universal sorrow and
 consternation then reigning, the public were too much pre-occupied with
 it to put a stop to a bargain of so scandalous a nature.[1190]
 
-
-
-
-CHAP. 41. (40.)—SUPREME HAPPINESS.
-
+## Chap. 41. (40.)—supreme Happiness
 
 Of all nations of the earth, the Romans have, without doubt, excelled
 every other in the display of valour.[1191] The human judgment cannot,
@@ -5490,12 +5137,8 @@ Alas! what a vain and unreasonable task we impose upon ourselves! We
 trouble ourselves with counting the _number_ of days, when it is their
 _weight_[1193] that ought to be taken into consideration.
 
-
-
-
 CHAP. 42. (41.)—RARE INSTANCES OF GOOD FORTUNE CONTINUING IN THE SAME
 FAMILY.
-
 
 During the whole course of ages, we find only one woman, and that,
 Lampido, the Lacedæmonian, who was the daughter of a king, the wife of
@@ -5506,11 +5149,7 @@ produce three orators in succession; that of the Fabii alone has given
 three chiefs of the senate in succession, Fabius Ambustus, his son
 Fabius Rullianus, and his grandson Quintus Fabius Gurges.[1197]
 
-
-
-
-CHAP. 43. (42.)—REMARKABLE EXAMPLE OF VICISSITUDES.
-
+## Chap. 43. (42.)—remarkable Example of Vicissitudes
 
 As to examples of the vicissitudes of Fortune, they are innumerable.
 For what great pleasures has she ever given us, which have not taken
@@ -5522,11 +5161,7 @@ second time; for he survived Sylla, even to the days of Antony, and, as
 it appears, was proscribed by him, for no other reason but because he
 had been proscribed before.
 
-
-
-
-CHAP. 44.—REMARKABLE EXAMPLES OF HONOURS.
-
+## Chap. 44.—remarkable Examples of Honours
 
 Fortune has determined that P. Ventidius alone should enjoy the honour
 of a triumph over the Parthians, and yet the same individual, when he
@@ -5569,12 +5204,8 @@ to all envy; though at the same time, he confessed that it was still
 wanting to his supreme happiness, that he had not dedicated the
 Capitol.[1210]
 
-
-
-
 CHAP. 45.—TEN VERY FORTUNATE CIRCUMSTANCES WHICH HAVE HAPPENED TO THE
 SAME PERSON.
-
 
 Q. Metellus, in the funeral oration which he made in praise of his
 father, L. Metellus, who had been pontiff, twice consul,[1211]
@@ -5660,11 +5291,7 @@ age,[1225] or to feel an increased degree of indignation, that, among
 so many members of the family of the Metelli, such wicked audacity as
 that of C. Atinius remained unpunished.
 
-
-
-
-CHAP. 46.—THE MISFORTUNES OF AUGUSTUS.
-
+## Chap. 46.—the Misfortunes of Augustus
 
 In the life of the now deified emperor Augustus even, whom the whole
 world would certainly agree to place in this class,[1226] if we
@@ -5711,11 +5338,7 @@ god,[1253] who was raised to heaven, I am at a loss to say whether
 deservedly or not, died, leaving the son of his own enemy his
 heir.[1254]
 
-
-
-
-CHAP. 47. (46.)—MEN WHOM THE GODS HAVE PRONOUNCED TO BE THE MOST HAPPY.
-
+## Chap. 47. (46.)—men Whom the Gods Have Pronounced to Be the Most Happy
 
 In reference to this point, two oracles of Delphi may come under our
 consideration, which would appear to have been pronounced as though in
@@ -5731,12 +5354,8 @@ he had never so much as left it, and, as was quite evident from his
 mode of living, his desires being of the most limited kind, he had
 experienced but an extremely small share of the miseries of life.
 
-
-
-
 CHAP. 48. (47.)—THE MAN WHOM THE GODS ORDERED TO BE WORSHIPPED DURING
 HIS LIFE-TIME; A REMARKABLE FLASH OF LIGHTNING.
-
 
 While still surviving, and in full possession of his senses, by the
 command of the same oracle, and with the sanction of Jupiter, the
@@ -5751,11 +5370,7 @@ was accordingly done, both during his life-time, and after his death.
 Nothing, indeed, has appeared to me so remarkable, as this mark of
 approval given by the gods.
 
-
-
-
-CHAP. 49. (48.)—THE GREATEST LENGTH OF LIFE.
-
+## Chap. 49. (48.)—the Greatest Length of Life
 
 Not only the differences of climate, but the multitude of instances
 named, and the peculiar destiny attached to each of us from the moment
@@ -5841,11 +5456,7 @@ as many other proofs that he had been alive at certain periods—for that
 prince greatly interested himself in ascertaining the exact truth of
 the matter.
 
-
-
-
-CHAP. 50. (49.)—THE VARIETY OF DESTINIES AT THE BIRTH OF MAN.
-
+## Chap. 50. (49.)—the Variety of Destinies at the Birth of Man
 
 The present conjuncture would appear to demand from me some
 opinion upon the science of the stars. Epigenes[1282] used to
@@ -5905,11 +5516,7 @@ in every part of the world, with respect to men that are born in the
 self-same hour; masters and slaves, kings and beggars, come into the
 world at the same moment.
 
-
-
-
-CHAP. 51. (50.)—VARIOUS INSTANCES OF DISEASES.
-
+## Chap. 51. (50.)—various Instances of Diseases
 
 P. Cornelius Rufus,[1297] who was consul with M. Curio, lost his sight
 while he was asleep and dreaming that that accident had befallen
@@ -5964,11 +5571,7 @@ subject, that the plague always takes a course from the south towards
 the west,[1304] and scarcely ever in an opposite direction; it never
 appears in the winter, or lasts longer than three months.
 
-
-
-
-CHAP. 52. (51.)—DEATH.
-
+## Chap. 52. (51.)—death
 
 And now to speak of the premonitory signs of death. Among these are
 laughter, in madness;[1305] in cases of delirium,[1306] the patient
@@ -5994,12 +5597,8 @@ moment’s sleep.[1312] Antipater of Sidon, the poet, was attacked with
 fever every year, and that only on his birthday; he died of it at an
 advanced age.[1313]
 
-
-
-
 CHAP. 53. (52.)—PERSONS WHO HAVE COME TO LIFE AGAIN AFTER BEING LAID
 OUT FOR BURIAL.
-
 
 Aviola,[1314] a man of consular rank, came to life again when on
 the funeral pile; but, by reason of the violence of the flames, no
@@ -6083,11 +5682,7 @@ We have instances also of men who have been seen after their burial;
 but, for the present, we are treating of the operations of nature, and
 not of miracles.
 
-
-
-
-CHAP. 54. (53.)—INSTANCES OF SUDDEN DEATH.
-
+## Chap. 54. (53.)—instances of Sudden Death
 
 Among the things that are looked upon as more especially singular,
 though of frequent occurrence, is sudden death, a thing that, in
@@ -6176,11 +5771,7 @@ of the heat, could not be replaced upon it; in consequence of which,
 his naked body was burnt with some other pieces of brushwood, in the
 vicinity of the pile.
 
-
-
-
-CHAP. 55. (54.)—BURIAL.
-
+## Chap. 55. (54.)—burial
 
 The burning of the body after death, among the Romans, is not a very
 ancient usage; for formerly, they interred it.[1357] After it had been
@@ -6195,11 +5786,7 @@ he was afraid that others might retaliate on his own.[1358] The term
 body; while, on the other hand, the word “humatus” is applicable solely
 when it is deposited in the earth.
 
-
-
-
-CHAP. 56. (55.)—THE MANES, OR DEPARTED SPIRITS OF THE SOUL.
-
+## Chap. 56. (55.)—the Manes, or Departed Spirits of the Soul
 
 After burial come the different quiddities as to the existence of the
 Manes. All men, after their last day,[1360] return to what they were
@@ -6240,11 +5827,7 @@ for each of us to put his trust in himself, and guided by our knowledge
 of what our state has been before birth, to assume that that after
 death will be the same.
 
-
-
-
-CHAP. 57. (56.)—THE INVENTORS OF VARIOUS THINGS.
-
+## Chap. 57. (56.)—the Inventors of Various Things
 
 Before we quit the consideration of the nature of man, it appears
 only proper to point out those persons who have been the authors of
@@ -6461,12 +6044,8 @@ and Tiphys,[1476] the helm and rudder. Minos was the first who waged
 war by means of ships; Hyperbius, the son of Mars, the first who killed
 an animal; and Prometheus, the first who slew the ox.[1477]
 
-
-
-
 CHAP. 58. (57.)—THE THINGS ABOUT WHICH MANKIND FIRST OF ALL AGREED. THE
 ANCIENT LETTERS.
-
 
 There was at the very earliest[1478] period a tacit consent among all
 nations to adopt the letters now used by the Ionians.[1479] (58.)
@@ -6475,15 +6054,11 @@ Latin,[1480] is proved by the ancient Delphic inscription on copper,
 which is now in the Palatine library, having been dedicated by the
 emperors to Minerva; this inscription is as follows:
 
-  ΝΑΥΣΙΚΡΑΤΗΣ ΑΝΕΘΕΤΟ ΤΗΙ ΔΙΟΣ ΚΟΡΗΙ.
+## Ναυσικρατης Ανεθετο Τηι Διος Κορηι
 
   [“Nausicrates offered this to the daughter of Zeus.”][1481]
 
-
-
-
-CHAP. 59. (59.)—WHEN BARBERS WERE FIRST EMPLOYED.[1482]
-
+## Chap. 59. (59.)—when Barbers Were First Employed.[1482]
 
 The next point upon which all nations appear to have agreed, was the
 employment of barbers.[1483] The Romans, however, were more tardy
@@ -6494,11 +6069,7 @@ Romans did not cut the hair. The younger Africanus[1485] was the first
 who adopted the custom of shaving every day. The late Emperor Augustus
 always made use of razors.[1486]
 
-
-
-
-CHAP. 60.—WHEN THE FIRST TIME-PIECES WERE MADE.
-
+## Chap. 60.—when the First Time-Pieces Were Made
 
 (60.) The third point of universal agreement was the division of time,
 a subject which afterwards appealed to the reasoning faculties. We have
@@ -6553,7 +6124,6 @@ Figulus,[1514] Pomponius Atticus,[1515] Pedianus Asconius,[1516]
 Fabianus,[1517] Cato the Censor,[1518] the Register of the
 Triumphs,[1519] Fabius Vestalis.[1520]
 
-
 Foreign authors quoted.—Herodotus,[1521] Aristeas,[1522] Bæton,[1523]
 Isigonus,[1524] Crates,[1525] Agatharchides,[1526] Calliphanes,[1527]
 Aristotle,[1528] Nymphodorus,[1529] Apollonides,[1530]
@@ -6571,18 +6141,11 @@ Hegesias,[1562] Archimachus,[1563] Thucydides,[1564] Mnesigiton,[1565]
 Xenagoras,[1566] Metrodorus[1567] of Scepsos, Anticlides,[1568]
 Critodemus.[1569]
 
+## Book VIII
 
+## The Nature of the Terrestrial Animals
 
-
-BOOK VIII.
-
-THE NATURE OF THE TERRESTRIAL ANIMALS.
-
-
-
-
-CHAP. 1. (1.)—ELEPHANTS; THEIR CAPACITY.
-
+## Chap. 1. (1.)—elephants; Their Capacity
 
 Let us now pass on to the other animals, and first of all to the land
 animals. The elephant is the largest of them all, and in intelligence
@@ -6609,11 +6172,7 @@ extreme docility, they pay homage to the king, fall upon their knees,
 and offer him the crown. Those of smaller growth, which the Indians
 call bastards,[1575] are employed by them in ploughing.[1576]
 
-
-
-
-CHAP. 2. (2.)—WHEN ELEPHANTS WERE FIRST PUT INTO HARNESS.
-
+## Chap. 2. (2.)—when Elephants Were First Put into Harness
 
 The first harnessed elephants that were seen at Rome, were in the
 triumph of Pompeius Magnus over Africa, when they drew his chariot;
@@ -6633,11 +6192,7 @@ table, reclining upon couches which were filled with people; and so
 nicely did they manage their steps, that they did not so much as touch
 any of those who were drinking there.
 
-
-
-
-CHAP. 3. (3.)—THE DOCILITY OF THE ELEPHANT.
-
+## Chap. 3. (3.)—the Docility of the Elephant
 
 It is a well-known fact,[1581] that one of these animals, who was
 slower than usual in learning what was taught him, and had been
@@ -6655,11 +6210,7 @@ terrified at the length of the platform, which extended from the vessel
 to the shore, they walked backwards, in order to deceive themselves by
 forming a false estimate of the distance.
 
-
-
-
-CHAP. 4.—WONDERFUL THINGS WHICH HAVE BEEN DONE BY THE ELEPHANT.
-
+## Chap. 4.—wonderful Things Which Have Been Done by the Elephant
 
 These animals are well aware that the only spoil that we are anxious
 to procure of them is the part which forms their weapon of defence, by
@@ -6684,11 +6235,7 @@ spoil is not worth the combat; and afterwards, when they are weary of
 resistance, they break off their teeth, by dashing them against a
 tree, and in this manner pay their ransom.[1590]
 
-
-
-
-CHAP. 5. (4.)—THE INSTINCT OF WILD ANIMALS IN PERCEIVING DANGER.
-
+## Chap. 5. (4.)—the Instinct of Wild Animals in Perceiving Danger
 
 It is a wonderful thing, that most animals are aware why it is that
 they are sought after, and what it is, that, under all circumstances,
@@ -6775,11 +6322,7 @@ men kept sallying forth among them to goad them on, he could not, with
 all his endeavours, force them to become the ministers of the cruelty
 of others.
 
-
-
-
-CHAP. 6. (6.)—WHEN ELEPHANTS WERE FIRST SEEN IN ITALY.
-
+## Chap. 6. (6.)—when Elephants Were First Seen in Italy
 
 Elephants were seen in Italy, for the first time, in the war with King
 Pyrrhus,[1601] in the year of the City 472; they were called “Lucanian
@@ -6800,11 +6343,7 @@ place by workmen, who had nothing but spears blunted at the point. The
 authors who are of opinion that they were not killed, do not, however,
 inform us how they were afterwards disposed of.
 
-
-
-
-CHAP. 7. (7.)—THE COMBATS OF ELEPHANTS.
-
+## Chap. 7. (7.)—the Combats of Elephants
 
 There is a famous combat mentioned of a Roman with an elephant, when
 Hannibal compelled our prisoners to fight against each other. The one
@@ -6868,11 +6407,7 @@ as though they acted under command and in accordance with discipline.
 When taken captive, they are very speedily tamed, by being fed on the
 juices of barley.[1622]
 
-
-
-
-CHAP. 8. (8.)—THE WAY IN WHICH ELEPHANTS ARE CAUGHT.
-
+## Chap. 8. (8.)—the Way in Which Elephants Are Caught
 
 In India[1623] they are caught by the keeper guiding one of the tame
 elephants towards a wild one which he has found alone or has separated
@@ -6906,11 +6441,7 @@ exerting themselves with equal efforts, bend them, and so wound the
 animals as they pass by, and afterwards trace them by their blood. The
 female elephant is much more timid by nature than the male.
 
-
-
-
-CHAP. 9. (9.)—THE METHOD BY WHICH THEY ARE TAMED.
-
+## Chap. 9. (9.)—the Method by Which They Are Tamed
 
 Elephants of furious temper are tamed by hunger[1625] and blows, while
 other elephants are placed near to keep them quiet, when the violent
@@ -6930,12 +6461,8 @@ which they deal to their own side, than to their opponents. The African
 elephant is afraid of the Indian, and does not dare so much as look at
 it, for the latter is of much greater bulk.[1628]
 
-
-
-
 CHAP. 10. (10.)—THE BIRTH OF THE ELEPHANT, AND OTHER PARTICULARS
 RESPECTING IT.
-
 
 The vulgar notion is, that the elephant goes with young ten
 years;[1629] but, according to Aristotle, it is two years only. He says
@@ -6985,12 +6512,8 @@ of Æthiopia, they are employed as door-posts for houses; and Polybius
 informs us, on the authority of the petty king Gulussa,[1639] that they
 are also employed as stakes in making fences for the folds of cattle.
 
-
-
-
 CHAP. 11. (11.)—IN WHAT COUNTRIES THE ELEPHANT IS FOUND; THE ANTIPATHY
 OF THE ELEPHANT AND THE DRAGON.
-
 
 Africa produces elephants, beyond the deserts of the Syrtes, and in
 Mauritania; they are found also in the countries of the Æthiopians and
@@ -7002,11 +6525,7 @@ coils. The contest is equally fatal to both; the elephant, vanquished,
 falls to the earth, and by its weight, crushes the dragon which is
 entwined around it.[1643]
 
-
-
-
-CHAP. 12. (12.)—THE SAGACITY OF THESE ANIMALS.
-
+## Chap. 12. (12.)—the Sagacity of These Animals
 
 The sagacity which every animal exhibits in its own behalf is
 wonderful, but in these it is remarkably so. The dragon has much
@@ -7040,11 +6559,7 @@ consequently, the elephant, being thus drained of its blood, falls to
 the earth exhausted; while the dragon, intoxicated with the draught, is
 crushed beneath it, and so shares its fate.
 
-
-
-
-CHAP. 13. (13.)—DRAGONS.
-
+## Chap. 13. (13.)—dragons
 
 Æthiopia produces dragons, not so large as those of India, but still,
 twenty cubits in length.[1645] The only thing that surprises me is,
@@ -7055,11 +6570,7 @@ interlaced together like so many osiers in a hurdle, and thus setting
 sail, with their heads erect, they are borne along upon the waves, to
 find better sources of nourishment in Arabia.
 
-
-
-
-CHAP. 14. (14.)—SERPENTS OF REMARKABLE SIZE.
-
+## Chap. 14. (14.)—serpents of Remarkable Size
 
 Megasthenes informs us, that in India, serpents grow to such an immense
 size, as to swallow stags and bulls;[1647] while Metrodorus says, that
@@ -7080,11 +6591,7 @@ other animals, which have been of late repeatedly brought to Italy from
 all parts of the world, it is quite unnecessary to give any minute
 account of their form.
 
-
-
-
-CHAP. 15. (15.)—THE ANIMALS OF SCYTHIA; THE BISON.
-
+## Chap. 15. (15.)—the Animals of Scythia; The Bison
 
 Scythia produces but very few animals, in consequence of the scarcity
 of shrubs. Germany, which lies close adjoining it, has not many
@@ -7094,12 +6601,8 @@ and swiftness. To these, the vulgar, in their ignorance, have given
 the name of bubalus:[1654] whereas, that animal is really produced in
 Africa, and rather bears a resemblance to the calf and the stag.
 
-
-
-
 CHAP. 16.—THE ANIMALS OF THE NORTH; THE ELK, THE ACHLIS, AND THE
 BONASUS.
-
 
 The North, too, produces herds of wild horses, as Africa and Asia do
 of wild asses;[1655] there is, also, the elk, which strongly resembles
@@ -7121,11 +6624,7 @@ flight, and, while in the act of flying, it sends forth its excrements,
 sometimes to a distance of even three jugera;[1659] the contact of
 which burns those who pursue the animal, just like a kind of fire.
 
-
-
-
-CHAP. 17.—LIONS; HOW THEY ARE PRODUCED.
-
+## Chap. 17.—lions; How They Are Produced
 
 It is a remarkable fact, that pards,[1660] panthers, lions, and other
 animals of this kind, walk with the points of their nails concealed in
@@ -7183,11 +6682,7 @@ he says, are found in Europe, but only between the rivers Achelous and
 Nestus; being much superior in strength to those which are produced in
 Africa or Syria.[1666]
 
-
-
-
-CHAP. 18.—THE DIFFERENT SPECIES OF LIONS.
-
+## Chap. 18.—the Different Species of Lions
 
 There are two species of lions; in the one the body is shorter and
 more compact, and the mane more crisp and curly;[1667] these are more
@@ -7210,11 +6705,7 @@ that he, as well as Scipio, had seen some of them hung upon a cross;
 it being supposed that others, through dread of a similar punishment,
 might be deterred from committing the like outrages.
 
-
-
-
-CHAP. 19.—THE PECULIAR CHARACTER OF THE LION.
-
+## Chap. 19.—the Peculiar Character of the Lion
 
 The lion is the only one of all the wild beasts that shows mercy to
 the suppliant; after it has conquered, it will spare,[1671] and when
@@ -7280,13 +6771,9 @@ appetite; this, however, is cured by putting insults upon him, by means
 of the pranks of monkeys placed about him, a thing which rouses his
 anger; immediately he tastes their blood, he is relieved.
 
-
-
-
 CHAP. 20.—WHO IT WAS THAT FIRST INTRODUCED COMBATS OF LIONS AT ROME,
 AND WHO HAS BROUGHT TOGETHER THE GREATEST NUMBER OF LIONS FOR THAT
 PURPOSE.
-
 
 Q. Scævola, the son of P. Scævola, when he was curule ædile, was the
 first to exhibit at Rome a combat of a number of lions; and L. Sylla,
@@ -7296,11 +6783,7 @@ Magnus exhibited six hundred lions in the Circus, three hundred and
 fifteen of which had manes; Cæsar, the Dictator, exhibited four
 hundred.
 
-
-
-
-CHAP. 21.—WONDERFUL FEATS PERFORMED BY LIONS.
-
+## Chap. 21.—wonderful Feats Performed by Lions
 
 It was formerly a very difficult matter to catch the lion, and it
 was mostly done by means of pit-falls. In the reign, however, of the
@@ -7390,11 +6873,7 @@ and gladness, in order that she might more appropriately testify how
 grateful she was, and how little she had given him in return; a mode of
 acting which is but rarely found, among men even.
 
-
-
-
-CHAP. 22.—A MAN RECOGNIZED AND SAVED BY A DRAGON.
-
+## Chap. 22.—a Man Recognized and Saved by a Dragon
 
 Facts such as these induce us to give some credit to what Democritus
 relates, who says that a man, called Thoas, was preserved in Arcadia by
@@ -7410,11 +6889,7 @@ attribute such cases as these rather to the greatness of the destinies
 which have to be fulfilled, than to any peculiarity in the nature of
 the animals themselves.
 
-
-
-
-CHAP. 23.—PANTHERS.
-
+## Chap. 23.—panthers
 
 The panther and the tiger are nearly the only animals that are
 remarkable for a skin distinguished by the variety of its spots;[1689]
@@ -7434,13 +6909,9 @@ common in Africa and Syria.[1692] Some writers distinguish the panther,
 as being remarkable for its whiteness: but as yet I have not observed
 any other difference between them.
 
-
-
-
 CHAP. 24.—THE DECREE OF THE SENATE, AND LAWS RESPECTING AFRICAN
 ANIMALS; WHO FIRST BROUGHT THEM TO ROME, AND WHO BROUGHT THE GREATEST
 NUMBER OF THEM.
-
 
 There was an ancient decree of the senate, which prohibited animals
 being imported from Africa into Italy; but Cn. Aufidius, the tribune
@@ -7451,11 +6922,7 @@ one hundred and fifty in the whole; after which, Pompeius Magnus sent
 four hundred and ten, and the late Emperor Augustus four hundred and
 twenty.
 
-
-
-
-CHAP. 25.—TIGERS: WHEN FIRST SEEN AT ROME; THEIR NATURE.
-
+## Chap. 25.—tigers: When First Seen at Rome; Their Nature
 
 The same emperor was the first person who exhibited at Rome a tame
 tiger[1695] on the stage.[1696] This was in the consulship of Q.
@@ -7477,11 +6944,7 @@ lair, and then again sets out in pursuit; and this she continues to do,
 until the hunter has reached his vessel, while the animal vainly vents
 her fury upon the shore.
 
-
-
-
-CHAP. 26.—CAMELS:[1699] THE DIFFERENT KINDS.
-
+## Chap. 26.—camels:[1699] the Different Kinds
 
 Camels are found feeding in herds in the East. Of these there are two
 different kinds, those of Bactria and those of Arabia;[1700] the former
@@ -7505,11 +6968,7 @@ even, when required for the purposes of war, has been discovered;
 it renders them more courageous, by the destruction of all sexual
 feelings.
 
-
-
-
-CHAP. 27.—THE CAMELEOPARD; WHEN IT WAS FIRST SEEN AT ROME.
-
+## Chap. 27.—the Cameleopard; When It Was First Seen at Rome
 
 There are two other[1704] animals, which have some resemblance to the
 camel. One of these is called, by the Æthiopians, the nabun.[1705] It
@@ -7522,11 +6981,7 @@ occasionally seen. It is more remarkable for the singularity of its
 appearance than for its fierceness; for which reason it has obtained
 the name of the wild sheep.[1708]
 
-
-
-
-CHAP. 28. (19.)—THE CHAMA, AND THE CEPUS.
-
+## Chap. 28. (19.)—the Chama, and the Cepus
 
 It was at the games of Pompeius Magnus that the chama[1709] was first
 exhibited; an animal called rufius by the Gauls; having the figure
@@ -7536,11 +6991,7 @@ some animals from Æthiopia, which they called by the Greek name,
 and legs, while the fore-feet were like hands. These animals have not
 been seen at Rome since that time.
 
-
-
-
-CHAP. 29. (20.)—THE RHINOCEROS.
-
+## Chap. 29. (20.)—the Rhinoceros
 
 At the same games the rhinoceros was also exhibited, an animal
 which has a single horn projecting from the nose;[1711] it has been
@@ -7551,11 +7002,7 @@ belly of its adversary, which it knows to be the softest part. The two
 animals are of equal length, but the legs of the rhinoceros are much
 the shorter: its skin is the colour of box-wood.
 
-
-
-
-CHAP. 30. (21.)—THE LYNX, THE SPHINX, THE CROCOTTA, AND THE MONKEY.
-
+## Chap. 30. (21.)—the Lynx, the Sphinx, the Crocotta, and the Monkey
 
 Æthiopia produces the lynx[1713] in abundance, and the sphinx, which
 has brown hair and two mammæ on the breast,[1714] as well as many
@@ -7594,11 +7041,7 @@ in a sting, like that of the scorpion. Its voice resembles the union of
 the sound of the flute and the trumpet; it is of excessive swiftness,
 and is particularly fond of human flesh.
 
-
-
-
-CHAP. 31.—THE TERRESTRIAL ANIMALS OF INDIA.
-
+## Chap. 31.—the Terrestrial Animals of India
 
 There are in India oxen also with solid hoofs[1721] and a single
 horn;[1722] and a wild beast called the axis, which has a skin like
@@ -7612,12 +7055,8 @@ noise, and has a single black horn, which projects from the middle of
 its forehead, two cubits in length.[1726] This animal, it is said,
 cannot be taken alive.
 
-
-
-
 CHAP. 32.—THE ANIMALS OF ÆTHIOPIA; A WILD BEAST WHICH KILLS WITH ITS
 EYE.
-
 
 Among the Hesperian Æthiopians is the fountain of Nigris, by many,
 supposed to be the head of the Nile. I have already mentioned the
@@ -7630,11 +7069,7 @@ the earth. Were it not for this circumstance, it would prove the
 destruction of the human race; for all who behold its eyes, fall dead
 upon the spot.[1729]
 
-
-
-
-CHAP. 33.—THE SERPENTS CALLED BASILISKS.
-
+## Chap. 33.—the Serpents Called Basilisks
 
 There is the same power also in the serpent called the basilisk.[1730]
 It is produced in the province of Cyrene, being not more than twelve
@@ -7656,11 +7091,7 @@ is easily known from the soil around it being infected. The weasel
 destroys the basilisk by its odour, but dies itself in this struggle of
 nature against its own self.[1732]
 
-
-
-
-CHAP. 34. (22.)—WOLVES; THE ORIGIN OF THE STORY OF VERSIPELLIS.
-
+## Chap. 34. (22.)—wolves; The Origin of the Story of Versipellis
 
 In Italy also it is believed that there is a noxious influence in
 the eye of a wolf; it is supposed that it will instantly take away
@@ -7711,11 +7142,7 @@ to be, if it only turns its head while eating, it immediately becomes
 oblivious of the food that is before it, and takes its departure to
 seek it elsewhere.[1744]
 
-
-
-
-CHAP. 35. (23.)—DIFFERENT KINDS OF SERPENTS.
-
+## Chap. 35. (23.)—different Kinds of Serpents
 
 With reference to serpents, it is generally known, that they
 assume the colour of the soil in which they conceal themselves. The
@@ -7748,11 +7175,7 @@ frequently put in motion by the approach of the footstep than through
 the sight. (24.) The ichneumon, too, is its enemy[1755] to the very
 death.
 
-
-
-
-CHAP. 36.—THE ICHNEUMON.
-
+## Chap. 36.—the Ichneumon
 
 This hostility is the especial glory of this animal, which is also
 produced in Egypt. It plunges itself repeatedly into the mud, and then
@@ -7764,11 +7187,7 @@ head sideways, and viewing its enemy, it seizes it by the throat. Not
 content, however, with this victory, it conquers another creature also,
 which is no less dangerous.
 
-
-
-
-CHAP. 37. (25.)—THE CROCODILE.
-
+## Chap. 37. (25.)—the Crocodile
 
 The Nile produces the crocodile also,[1756] a destructive quadruped,
 and equally dangerous on land and in the water. This is the only land
@@ -7795,11 +7214,7 @@ these moments that the ichneumon, seeing it fast asleep in consequence
 of the agreeable sensation thus produced, darts down its throat like an
 arrow, and eats away its intestines.[1763]
 
-
-
-
-CHAP. 38.—THE SCINCUS.
-
+## Chap. 38.—the Scincus
 
 Like the crocodile, but smaller even than the ichneumon, is the
 scincus,[1764] which is also produced in the Nile, and the flesh of
@@ -7843,11 +7258,7 @@ in a cave, without taking food.[1768] Some persons say, that this is
 the only animal that continues to increase in size as long as it lives;
 it is very long-lived.
 
-
-
-
-CHAP. 39.—THE HIPPOPOTAMUS.
-
+## Chap. 39.—the Hippopotamus
 
 The Nile produces the hippopotamus, another wild beast, of a still
 greater size. It has the cloven hoof of the ox; the back, the mane, and
@@ -7859,12 +7270,8 @@ standing corn, and determines beforehand what part it shall ravage on
 the following day; it is said also, that it enters the field backwards,
 to prevent any ambush being laid for it on its return.
 
-
-
-
 CHAP. 40. (26.)—WHO FIRST EXHIBITED THE HIPPOPOTAMUS AND THE CROCODILE
 AT ROME.
-
 
 M. Scaurus was the first who exhibited this animal at Rome, together
 with five crocodiles, at the games which he gave in his ædileship, in
@@ -7878,12 +7285,8 @@ one of the veins in the thigh; and, by the flow of blood thus produced,
 the body, which would otherwise have fallen into a morbid state, is
 relieved; after which, it covers up the wound with mud.
 
-
-
-
 CHAP. 41. (27.)—THE MEDICINAL REMEDIES WHICH HAVE BEEN BORROWED FROM
 ANIMALS.[1773]
-
 
 The bird also, which is called the ibis,[1774] a native of the same
 country of Egypt, has shewn us some things of a similar nature. By
@@ -7943,11 +7346,7 @@ with the bulrush. The raven, when it has killed a chameleon, a contest
 in which even the conqueror suffers, counteracts the poison by means of
 laurel.
 
-
-
-
-CHAP. 42. (28.)—PROGNOSTICS OF DANGER DERIVED FROM ANIMALS.
-
+## Chap. 42. (28.)—prognostics of Danger Derived from Animals
 
 There are a thousand other facts of this kind: and the same Nature
 has also bestowed upon many animals as well, the faculty of observing
@@ -7968,11 +7367,7 @@ purpose of testing its thickness; hence it is, that the inhabitants
 will never cross frozen rivers and lakes until the foxes have passed
 over them and returned.
 
-
-
-
-CHAP. 43. (29.)—NATIONS THAT HAVE BEEN EXTERMINATED BY ANIMALS.
-
+## Chap. 43. (29.)—nations that Have Been Exterminated by Animals
 
 We have accounts, too, no less remarkable, in reference even to the
 most contemptible of animals. M. Varro informs us, that a town in
@@ -7987,11 +7382,7 @@ ants.[1795] and Theophrastus informs us, that the people of
 Rhœteum[1796] were driven away by scolopendræ.[1797] But we must now
 return to the other kinds of wild beasts.
 
-
-
-
-CHAP. 44. (30.)—THE HYÆNA.
-
+## Chap. 44. (30.)—the Hyæna
 
 It is the vulgar notion, that the hyæna possesses in itself both
 sexes, being a male during one year, and a female the next, and that
@@ -8011,11 +7402,7 @@ in contact with its shadow, dogs will lose their voice, and that, by
 certain magical influences, it can render any animal immoveable, round
 which it has walked three times.
 
-
-
-
-CHAP. 45.—THE COROCOTTA; THE MANTICHORA.[1799]
-
+## Chap. 45.—the Corocotta; The Mantichora.[1799]
 
 By the union of the hyæna with the Æthiopian lioness, the corocotta
 is produced, which has the same faculty of imitating the voices of
@@ -8025,11 +7412,7 @@ bone; they are enclosed in a sort of box as it were, that they may not
 be blunted by rubbing against each other. Juba informs us, that the
 mantichora of Æthiopia can also imitate the human speech.
 
-
-
-
-CHAP. 46.—WILD ASSES.
-
+## Chap. 46.—wild Asses
 
 Great numbers of hyænas are produced in Africa, which also gives birth
 to multitudes of wild asses. In this species each male rules over a
@@ -8039,11 +7422,7 @@ as soon as they are born.[1800] The pregnant females, on the other
 hand, seek concealment, and endeavour to bring forth in secret, being
 desirous to increase their opportunities of sexual indulgence.
 
-
-
-
-CHAP. 47.—BEAVERS, AMPHIBIOUS ANIMALS;[1801] OTTERS.
-
+## Chap. 47.—beavers, Amphibious Animals;[1801] Otters
 
 The beavers of the Euxine, when they are closely pressed by danger,
 themselves cut off the same part, as they know that it is for this
@@ -8056,22 +7435,14 @@ and crackle under their teeth. The tail is like that of a fish;[1804]
 in the other parts of the body they resemble the otter;[1805] they are
 both of them aquatic animals, and both have hair softer than down.
 
-
-
-
-CHAP. 48. (31.)—BRAMBLE-FROGS.
-
+## Chap. 48. (31.)—bramble-Frogs
 
 Bramble-frogs,[1806] also, which live both on land and in water, are
 replete with various medicinal substances, which they are said to
 discharge each day, and to take in again with their food, of which they
 only retain the poisonous parts.
 
-
-
-
-CHAP. 49.—THE SEA-CALF; BEAVERS; LIZARDS.
-
+## Chap. 49.—the Sea-Calf; Beavers; Lizards
 
 The sea-calf, too, lives equally in the sea and on land, being
 possessed of the same degree of intelligence as the beaver. It vomits
@@ -8083,11 +7454,7 @@ instantly devour them, thus depriving us of a powerful remedy for
 epilepsy; he says, too, that the bite of the lizard is fatal in Greece,
 but harmless in Italy.[1809]
 
-
-
-
-CHAP. 50. (32.)—STAGS.
-
+## Chap. 50. (32.)—stags
 
 Stags, although the most mild of all animals, have still their own
 feelings of malignancy;[1810] when hard pressed by the hounds, of
@@ -8188,11 +7555,7 @@ stag in having a beard and long hair about the shoulders: it is called
 tragelaphus,[1824] and is produced nowhere except on the banks of the
 Phasis.[1825]
 
-
-
-
-CHAP. 51.—THE CHAMELEON.
-
+## Chap. 51.—the Chameleon
 
 Africa is almost the only country that does not produce[1826] the
 stag, but then it produces the chameleon,[1827] although it is much
@@ -8221,12 +7584,8 @@ except in the heart and about the eyes, and its entrails are without a
 spleen.[1832] It conceals itself during the winter months, just like
 the lizard.
 
-
-
-
 CHAP. 52.—OTHER ANIMALS WHICH CHANGE COLOUR; THE TARANDUS, THE LYCAON,
 AND THE THOS.
-
 
 The tarandrus,[1833] too, of the Scythians, changes its colour, but
 this is the case with none of the animals which are covered with hair,
@@ -8247,11 +7606,7 @@ it is so rarely captured. It is wonderful that such various hues should
 be given to the body, but still more so that it should be given to the
 hair.
 
-
-
-
-CHAP. 53. (35.)—THE PORCUPINE.
-
+## Chap. 53. (35.)—the Porcupine
 
 India and Africa produce the porcupine, the body of which is covered
 with prickles. It is a species of hedgehog, but the quills of the
@@ -8262,11 +7617,7 @@ distance further.[1836] It conceals itself during the winter months,
 which, indeed, is the nature of many animals, and more especially the
 bear.
 
-
-
-
-CHAP. 54. (36.)—BEARS AND THEIR CUBS.
-
+## Chap. 54. (36.)—bears and Their Cubs
 
 Bears couple in the beginning of winter,[1837] and not after the
 fashion of other quadrupeds; for both animals lie down and embrace each
@@ -8324,11 +7675,7 @@ as many Æthiopian hunters. I am surprised to find the word Numidian
 added, seeing that it is well known that there are no bears produced in
 Africa.[1851]
 
-
-
-
-CHAP. 55. (37.)—THE MICE OF PONTUS AND OF THE ALPS.
-
+## Chap. 55. (37.)—the Mice of Pontus and of the Alps
 
 The mice of Pontus also conceal themselves during the winter; but only
 the white ones.[1852] I wonder how those authors, who have asserted
@@ -8344,11 +7691,7 @@ off their backs. There is a similar animal also in Egypt,[1854] which
 sits, in the same way, upon its haunches, and walks on two feet, using
 the fore feet as hands.
 
-
-
-
-CHAP. 56.—HEDGEHOGS.
-
+## Chap. 56.—hedgehogs
 
 Hedgehogs also lay up food for the winter; rolling themselves on
 apples as they lie on the ground, they pierce one with their quills,
@@ -8385,11 +7728,7 @@ have resulted;[1856] there is no subject on which the senate has more
 frequently passed decrees, and there is not one of the Emperors, who
 has not received from the provinces complaints respecting it.[1857]
 
-
-
-
-CHAP. 57. (38.)—THE LEONTOPHONUS, AND THE LYNX.[1858]
-
+## Chap. 57. (38.)—the Leontophonus, and the Lynx.[1858]
 
 There are also two other animals, whose urine possesses very wonderful
 properties. We have heard speak of a small animal, to which the name of
@@ -8413,11 +7752,7 @@ aware of this property, envies us the possession of its urine, and
 therefore buries it in the earth;[1863] by this, however, it becomes
 solid all the sooner.
 
-
-
-
-CHAP. 58.—BADGERS AND SQUIRRELS.
-
+## Chap. 58.—badgers and Squirrels
 
 The badger, when alarmed, shows its fear by a different kind of
 artifice; inflating the skin, it distends it to such a degree, as
@@ -8430,11 +7765,7 @@ therefore,[1865] that some animals lay up a store of food for the
 winter, while others pass the time in sleep, which serves them instead
 of food.
 
-
-
-
-CHAP. 59. (39.)—VIPERS AND SNAILS.
-
+## Chap. 59. (39.)—vipers and Snails
 
 It is said, that the viper is the only one among the serpents that
 conceals itself in the earth; the others lurking either in the
@@ -8456,11 +7787,7 @@ environs of the Maritime Alps: they have, however, of late been dug up
 in the territory of Liternum;[1870] the most valued, however, of all,
 are those of the island of Astypalæa.[1871]
 
-
-
-
-CHAP. 60.—LIZARDS.[1872]
-
+## Chap. 60.—lizards.[1872]
 
 It is said, that the lizard, the greatest enemy of all to the snail,
 never prolongs its life beyond six months. The lizards of Arabia are
@@ -8468,12 +7795,8 @@ a cubit in length,[1873] while those upon Nysa,[1874] a mountain of
 India, are twenty-four feet long, their colour being either yellow,
 purple, or azure blue.
 
-
-
-
  CHAP. 61. (40.)—THE QUALITIES OF THE DOG; EXAMPLES OF ITS ATTACHMENT
  TO ITS MASTER; NATIONS WHICH HAVE KEPT DOGS FOR THE PURPOSES OF WAR.
-
 
 Among the animals, also, that are domesticated with mankind, there are
 many circumstances that are far from undeserving of being known: among
@@ -8572,11 +7895,7 @@ retreating at the opportune moment, until at last the elephant, being
 rendered quite giddy by turning round and round, fell to the earth, and
 made it quite re-echo with his fall.
 
-
-
-
-CHAP. 62.—THE GENERATION OF THE DOG.[1888]
-
+## Chap. 62.—the Generation of the Dog.[1888]
 
 This animal brings forth twice in the year; it is capable of bearing
 young when a year old, and gestation continues for sixty days. The
@@ -8592,11 +7911,7 @@ night-mare.[1889] The best dog of the litter is the one which is last
 in obtaining its sight, or else the one which the mother carries first
 into her bed.
 
-
-
-
-CHAP. 63.—REMEDIES AGAINST CANINE MADNESS.[1890]
-
+## Chap. 63.—remedies Against Canine Madness.[1890]
 
 Canine madness is fatal to man during the heat of Sirius,[1891] and,
 as we have already said, it proves so in consequence of those who are
@@ -8616,11 +7931,7 @@ rabid.[1895] It is mentioned, among the other prodigies, and this I
 take to be one indeed, that a dog once spoke;[1896] and that when
 Tarquin was expelled from the kingdom, a serpent barked.
 
-
-
-
-CHAP. 64. (42.)—THE NATURE OF THE HORSE.
-
+## Chap. 64. (42.)—the Nature of the Horse
 
 King Alexander had also a very remarkable horse;[1897] it was called
 Bucephalus, either on account of the fierceness of its aspect, or
@@ -8674,12 +7985,8 @@ master, with a swarm of bees, which had settled on its mane; and that
 it was in consequence of this portent, that Dionysius gained possession
 of the kingdom.[1907]
 
-
-
-
 CHAP. 65.—THE DISPOSITION OF THE HORSE; REMARKABLE FACTS CONCERNING
 CHARIOT HORSES.
-
 
 These animals possess an intelligence which exceeds all
 description.[1908] Those who have to use the javelin are well aware
@@ -8722,11 +8029,7 @@ different, however; and while horses are put in training for other
 purposes at only two years old, they are not admitted to the contests
 of the Circus before their fifth year.
 
-
-
-
-CHAP. 66.—THE GENERATION OF THE HORSE.[1916]
-
+## Chap. 66.—the Generation of the Horse.[1916]
 
 The female of this animal carries her young for eleven months, and
 brings forth in the twelfth. The connection takes place at the vernal
@@ -8758,11 +8061,7 @@ plunge its nose into the water while drinking. The Scythians prefer
 mares for the purposes of war, because they can pass their urine
 without stopping in their career.
 
-
-
-
-CHAP. 67.—MARES IMPREGNATED BY THE WIND.
-
+## Chap. 67.—mares Impregnated by the Wind
 
 It is well known that in Lusitania, in the vicinity of the town
 of Olisipo[1921] and the river Tagus, the mares, by turning their
@@ -8779,11 +8078,7 @@ ambling.[1926] Horses have very nearly the same diseases as men;[1927]
 besides which, they are subject to an irregular action of the bladder,
 as, indeed, is the case with all beasts of burden.[1928]
 
-
-
-
-CHAP. 68. (45.)—THE ASS, ITS GENERATION.
-
+## Chap. 68. (45.)—the Ass, Its Generation
 
 M. Varro informs us that Quintus Axius, the senator, paid for an ass
 the sum of four hundred thousand sesterces;[1929] I am not sure
@@ -8835,12 +8130,8 @@ preferred to the onager or wild ass;[1939] but, since his time, the
 taste has gone out of fashion. An ass, after witnessing the death of
 another ass, survives it but a very short time only.
 
-
-
-
 CHAP. 69. (44.)—THE NATURE OF MULES,[1940] AND OF OTHER BEASTS OF
 BURDEN.
-
 
 From the union of the male ass and the mare a mule is produced in the
 thirteenth month, an animal remarkable for its strength in laborious
@@ -8890,11 +8181,7 @@ account of its age, it persisted in promoting the work by accompanying
 and assisting them; in consequence of which a decree was passed, that
 the dealers in corn were not to drive it away from their sieves.[1950]
 
-
-
-
-CHAP. 70. (45.)—OXEN; THEIR GENERATION.
-
+## Chap. 70. (45.)—oxen; Their Generation
 
 We find it stated, that the oxen of India are of the height of camels,
 and that the extremity of their horns are four feet asunder. In our
@@ -8978,11 +8265,7 @@ among the ancients, for an ox to speak;[1964] upon such a fact being
 announced to the senate, they were in the habit of holding a meeting in
 the open air.
 
-
-
-
-CHAP. 71. (46.)—THE EGYPTIAN APIS.[1965]
-
+## Chap. 71. (46.)—the Egyptian Apis.[1965]
 
 In Egypt an ox is even worshipped as a deity; they call it Apis. It
 is distinguished by a conspicuous white spot on the right side, in
@@ -9016,11 +8299,7 @@ this time, no one is ever attacked by the crocodile; on the eighth day,
 however, after the sixth hour, these beasts resume all their former
 ferocity.
 
-
-
-
-CHAP. 72. (47.)—SHEEP, AND THEIR PROPAGATION.[1971]
-
+## Chap. 72. (47.)—sheep, and Their Propagation.[1971]
 
 Many thanks, too, do we owe to the sheep, both for appeasing the gods,
 and for giving us the use of its fleece. As oxen cultivate the fields
@@ -9059,11 +8338,7 @@ but the latter is more nice about its pastures, for the covered sheep
 will feed on brambles even. The best coverings for sheep are brought
 from Arabia.[1983]
 
-
-
-
-CHAP. 73. (43.)—THE DIFFERENT KINDS OF WOOL, AND THEIR COLOURS.[1984]
-
+## Chap. 73. (43.)—the Different Kinds of Wool, and Their Colours.[1984]
 
 The most esteemed wool of all is that of Apulia, and that which in
 Italy is called Grecian wool, in other countries Italian. The fleeces
@@ -9113,11 +8388,7 @@ wool will take no colour. I shall describe the mode of dyeing the
 other kinds of wool when speaking of the sea-purple,[2013] or of the
 nature of various plants.[2014]
 
-
-
-
-CHAP. 74.—DIFFERENT KINDS OF CLOTHS.
-
+## Chap. 74.—different Kinds of Cloths
 
 Varro informs us, he himself having been an eye-witness, that in the
 temple of Sancus,[2015] the wool was still preserved on the distaff and
@@ -9159,11 +8430,7 @@ the living animal dyed purple, scarlet, and violet,—a pound and a
 half[2036] of dye being used for each,—just as though they had been
 produced by Nature in this form, to meet the demands of luxury.
 
-
-
-
-CHAP. 75.—THE DIFFERENT SHAPES OF SHEEP; THE MUSMON.
-
+## Chap. 75.—the Different Shapes of Sheep; The Musmon
 
 In the sheep, it is considered a proof of its being of a very fair
 breed, when the legs are short, and the belly is covered with wool;
@@ -9187,11 +8454,7 @@ thirteen. Goats live in that country eleven years, but in other parts
 of the world mostly eight years only. Both of these animals require to
 be covered not more than four times to ensure conception.
 
-
-
-
-CHAP. 76. (50.)—GOATS AND THEIR PROPAGATION.
-
+## Chap. 76. (50.)—goats and Their Propagation
 
 The goat occasionally brings forth as many as four at a birth; but
 this is rarely the case.[2043] It is pregnant five months, like the
@@ -9246,11 +8509,7 @@ when any one of them has eaten of a certain herb.[2057] Their bite is
 very destructive to trees, and they make the olive barren by licking
 it;[2058] for which reason they are not sacrificed to Minerva.[2059]
 
-
-
-
-CHAP. 77. (51.)—THE HOG.[2060]
-
+## Chap. 77. (51.)—the Hog.[2060]
 
 The period for coupling the hog lasts from the return of the west wind
 to the vernal equinox; the proper age commences in the eighth month,
@@ -9312,12 +8571,8 @@ author of the Mimes, when he ceased to be a slave, is said to have
 given no entertainment without serving up the belly of a sow, to which
 he also gave the name of “sumen.”
 
-
-
-
 CHAP. 78.—THE WILD BOAR; WHO WAS THE FIRST TO ESTABLISH PARKS FOR WILD
 ANIMALS.
-
 
 The flesh of the wild boar is also much esteemed. Cato, the Censor, in
 his orations, strongly declaimed against the use of the brawn of the
@@ -9347,11 +8602,7 @@ young bull. The hair of these animals, in a wild state, is the colour
 of copper, the others are black. No species whatever of the swine is
 found in Arabia.
 
-
-
-
-CHAP. 79. (53.)—ANIMALS IN A HALF-WILD STATE.
-
+## Chap. 79. (53.)—animals in a Half-Wild State
 
 In no species is the union with the wild animal so easy as in that
 of the swine; the produce of such unions was called by the ancients
@@ -9377,11 +8628,7 @@ strongly resemble them. The first mentioned of these animals,[2091]
 however, dwell in the Alps; all the others are sent to us from the
 parts beyond sea.
 
-
-
-
-CHAP. 80. (54.)—APES.
-
+## Chap. 80. (54.)—apes
 
 The different kinds of apes, which approach the nearest to the human
 figure, are distinguished from each other by the tail.[2092] Their
@@ -9405,11 +8652,7 @@ it has a beard on the face, and a tail, which in the first part of it
 is very bushy. It is said that this animal cannot live except in the
 climate of Æthiopia, which is its native place.
 
-
-
-
-CHAP. 81. (55.)—THE DIFFERENT SPECIES OF HARES.
-
+## Chap. 81. (55.)—the Different Species of Hares
 
 There are also numerous species of hares. Those in the Alps are
 white,[2097] and it is believed that, during the winter, they live
@@ -9443,11 +8686,7 @@ have been made to form a kind of stuff of the hair of these animals;
 but it is not so soft as when attached to the skin, and, in consequence
 of the shortness of the hairs, soon falls to pieces.
 
-
-
-
-CHAP. 82. (56.)—ANIMALS WHICH ARE TAMED IN PART ONLY.
-
+## Chap. 82. (56.)—animals Which Are Tamed in Part Only
 
 Hares are seldom tamed, and yet they cannot properly be called wild
 animals; indeed, there are many species of them which are neither tame
@@ -9492,11 +8731,7 @@ old age of theirs is put an end to by their winter’s rest, when they
 conceal themselves and sleep; they are young again by the summer. The
 field-mouse[2118] also enjoys a similar repose.
 
-
-
-
-CHAP. 83. (58.)—PLACES IN WHICH CERTAIN ANIMALS ARE NOT TO BE FOUND.
-
+## Chap. 83. (58.)—places in Which Certain Animals Are Not to Be Found
 
 It is a remarkable fact, that nature has not only assigned different
 countries to different animals, but that even in the same country,
@@ -9536,12 +8771,8 @@ district of Cydon;[2130] the same is the case with the wild boar, the
 woodcock,[2131] and the hedgehog. In Africa, there are neither wild
 boars, stags, deer, nor bears.
 
-
-
-
 CHAP. 84. (59.)—ANIMALS WHICH INJURE STRANGERS ONLY, AS ALSO ANIMALS
 WHICH INJURE THE NATIVES OF THE COUNTRY ONLY, AND WHERE THEY ARE FOUND.
-
 
 Besides this, there are certain animals, which are harmless to the
 natives of the country, but destroy strangers; such are the little
@@ -9593,18 +8824,11 @@ Agriculture, Lysimachus[2192] who wrote on Agriculture, Dionysius[2193]
 who translated Mago, Diophanes[2194] who made an epitome of the work of
 Dionysius, King Archelaus,[2195] Nicander.[2196]
 
+## Book IX
 
+## The Natural History of Fishes
 
-
-BOOK IX.
-
-THE NATURAL HISTORY OF FISHES.
-
-
-
-
-CHAP. 1. (1.)—WHY THE LARGEST ANIMALS ARE FOUND IN THE SEA.
-
+## Chap. 1. (1.)—why the Largest Animals Are Found in the Sea
 
 We have now given an account of the animals which we call terrestrial,
 and which live as it were in a sort of society with man. Among the
@@ -9636,11 +8860,7 @@ both in colour and in smell. We shall find the less reason then to be
 surprised to find that in so small an object as a shell-fish[2202] the
 head of the horse is to be seen protruding from the shell.
 
-
-
-
-CHAP. 2. (3.)—THE SEA MONSTERS OF THE INDIAN OCEAN.
-
+## Chap. 2. (3.)—the Sea Monsters of the Indian Ocean
 
 But the most numerous and largest of all these animals are those
 found in the Indian seas; among which there are balænae,[2203] four
@@ -9678,11 +8898,7 @@ were in the habit of coming on shore, and, after feeding on the roots
 of shrubs, they would return; some of them, which had the heads of
 horses,[2214] asses, and bulls, found a pasture in the crops of grain.
 
-
-
-
-CHAP. 3. (4.)—THE LARGEST ANIMALS THAT ARE FOUND IN EACH OCEAN.
-
+## Chap. 3. (4.)—the Largest Animals that Are Found in Each Ocean
 
 The largest animals found in the Indian Sea are the pistrix and the
 balæna; while of the Gallic Ocean the physeter[2215] is the most bulky
@@ -9695,12 +8911,8 @@ which are called sea-wheels,[2217] in consequence of their singular
 conformation; they are divided by four spokes, the nave being guarded
 on every side by a couple of eyes.
 
-
-
-
 CHAP. 4. (5.)—THE FORMS OF THE TRITONS AND NEREIDS. THE FORMS OF SEA
 ELEPHANTS.
-
 
 A deputation of persons from Olisipo,[2218] that had been sent for the
 purpose, brought word to the Emperor Tiberius that a triton had been
@@ -9740,11 +8952,7 @@ These bones exceeded forty feet in length, and the ribs were higher
 than those of the Indian elephant, while the back-bone was a foot and a
 half[2227] in thickness.
 
-
-
-
-CHAP. 5. (6.)—THE BALÆNA AND THE ORCA.
-
+## Chap. 5. (6.)—the Balæna and the Orca
 
 The balæna[2228] penetrates to our seas even. It is said that they are
 not to be seen in the ocean of Gades before the winter solstice, and
@@ -9790,11 +8998,7 @@ monster, while the soldiers on board showered lances upon it. I myself
 saw one of the boats[2233] sunk by the water which the animal, as it
 respired, showered down upon it.
 
-
-
-
-CHAP. 6.—WHETHER FISHES RESPIRE, AND WHETHER THEY SLEEP.
-
+## Chap. 6.—whether Fishes Respire, and Whether They Sleep
 
 Balænæ have the mouth[2234] in the forehead; and hence it is that, as
 they swim on the surface of the water, they discharge vast showers of
@@ -9844,11 +9048,7 @@ on the back. Sea-calves, too, which we call “phocæ,”[2249] breathe and
 sleep upon dry land—sea-tortoises also,[2250] of which we shall have
 more to say hereafter.
 
-
-
-
-CHAP. 7. (8.)—DOLPHINS.
-
+## Chap. 7. (8.)—dolphins
 
 The swiftest[2251] not only of the sea animals, but of all animals
 whatever, is the dolphin.[2252] He is more rapid in his movements than
@@ -9889,11 +9089,7 @@ this reason[2261] it is that they all recognize in a most surprising
 manner the name of Simo, and prefer to be called by that rather than by
 any other.
 
-
-
-
-CHAP. 8.—HUMAN BEINGS WHO HAVE BEEN BELOVED BY DOLPHINS.
-
+## Chap. 8.—human Beings Who Have Been Beloved by Dolphins
 
 The dolphin is an animal not only friendly to man, but a lover of
 music as well; he is charmed by melodious concerts,[2262] and more
@@ -9968,11 +9164,7 @@ around the ship, and, upon throwing himself into the sea, he was taken
 up by one of them, and borne in safety to the shore of the Promontory
 of Tænarum.[2278]
 
-
-
-
-CHAP. 9.—PLACES WHERE DOLPHINS HELP MEN TO FISH.
-
+## Chap. 9.—places Where Dolphins Help Men to Fish
 
 There is in the province of Gallia Narbonensis and in the territory of
 Nemausus[2279] a lake known by the name of Latera,[2280] where dolphins
@@ -10018,11 +9210,7 @@ repaid with only one day’s reward, they take care to wait there till
 the following day, when they are filled not only with fish, but bread
 crumbs soaked in wine as well.
 
-
-
-
-CHAP. 10.—OTHER WONDERFUL THINGS RELATING TO DOLPHINS.
-
+## Chap. 10.—other Wonderful Things Relating to Dolphins
 
 The account which Mucianus gives of a similar mode of fishing in the
 Iasian Gulf differs from the preceding one, in the fact that there the
@@ -10042,11 +9230,7 @@ attended[2286] by a larger one, who acts as a guardian to them; and
 before now, they have been seen[2287] carrying off the body of one
 which had died, that it might not be devoured by the sea-monsters.
 
-
-
-
-CHAP. 11. (9.)—THE TURSIO.
-
+## Chap. 11. (9.)—the Tursio
 
 There is a fish called the tursio,[2288] which bears a strong
 resemblance to the dolphin; it differs from it, however, in a certain
@@ -10054,12 +9238,8 @@ air of sadness, and is wanting in its peculiar vivacity. This animal
 most resembles the dog-fish,[2289] however, in the shape and dangerous
 powers of the muzzle.
 
-
-
-
 CHAP. 12. (10.)—TURTLES.[2290] THE VARIOUS KINDS OF TURTLES, AND HOW
 THEY ARE CAUGHT.
-
 
 The Indian Sea[2291] produces turtles of such vast[2292] size, that
 with the shell of a single animal they are able to roof a habitable
@@ -10110,21 +9290,13 @@ where the scorched sands are more especially destitute of water, and
 subsist, it is believed, upon the moisture of the dews. No other animal
 is to be found there.
 
-
-
-
-CHAP. 13. (11.)—WHO FIRST INVENTED THE ART OF CUTTING TORTOISE-SHELL.
-
+## Chap. 13. (11.)—who First Invented the Art of Cutting Tortoise-Shell
 
 Carvilius Pollio, a man of prodigal habits and ingenious in inventing
 the refinements of luxury, was the first to cut the shell of the
 tortoise into laminæ, and to veneer beds and cabinets[2302] with it.
 
-
-
-
-CHAP. 14. (12.)—DISTRIBUTION OF AQUATIC ANIMALS INTO VARIOUS SPECIES.
-
+## Chap. 14. (12.)—distribution of Aquatic Animals into Various Species
 
 The integuments of the aquatic animals are many in number. Some are
 covered with a hide and hair, as the sea-calf and hippopotamus, for
@@ -10137,12 +9309,8 @@ as the squatina,[2304] the skin of which is used for polishing wood and
 ivory; others, with a soft skin, like the muræna;[2305] and others with
 none at all, like the polypus.[2306]
 
-
-
-
 CHAP. 15. (13.)—THOSE WHICH ARE COVERED WITH HAIR, OR HAVE NONE, AND
 HOW THEY BRING FORTH. SEA-CALVES, OR PHOCÆ.
-
 
 Those aquatic animals which are covered with hair are viviparous, such,
 for instance, as the pristis, the balæna,[2307] and the sea-calf. This
@@ -10168,11 +9336,7 @@ under the head, it induces sleep.
 (14.) There are only two animals without hair that are viviparous, the
 dolphin and the viper.[2312]
 
-
-
-
-CHAP. 16.—HOW MANY KINDS OF FISH THERE ARE.
-
+## Chap. 16.—how Many Kinds of Fish There Are
 
 There are seventy-four[2313] species of fishes, exclusive of those
 that are covered with crusts; the kinds of which are thirty in number.
@@ -10180,11 +9344,7 @@ We shall, on another occasion,[2314] speak of each individually;
 but, for the present, we shall treat only of the nature of the more
 remarkable ones.
 
-
-
-
-CHAP. 17. (15.)—WHICH OF THE FISHES ARE OF THE LARGEST SIZE.
-
+## Chap. 17. (15.)—which of the Fishes Are of the Largest Size
 
 Tunnies are among the most remarkable for their size; we have found
 one weighing as much as fifteen[2315] talents, the breadth of its tail
@@ -10216,12 +9376,8 @@ their name from their peculiar conformation. These fish, he says, are
 of such enormous strength, that with their teeth they seize hold of the
 trunks of elephants that come to drink, and so drag them into the water.
 
-
-
-
 CHAP. 18.—TUNNIES, CORDYLA, AND PELAMIDES, AND THE VARIOUS PARTS OF
 THEM THAT ARE SALTED. MELANDRYA, APOLECTI, AND CYBIA.
-
 
 The male tunny has no ventral fin;[2328] these fish enter the Euxine
 in large bodies from the main[2329] sea, in the spring, and will spawn
@@ -10242,11 +9398,7 @@ nutriment[2335] in them. The pelamides are cut up into small sections,
 known as “apolecti;”[2336] and these again are divided into cubical
 pieces, which are thence called “cybia.”[2337]
 
-
-
-
-CHAP. 19.—THE AURIAS AND THE SCOMBER.
-
+## Chap. 19.—the Aurias and the Scomber
 
 All kinds of fish grow[2338] with remarkable rapidity, and more
 especially those in the Euxine; the reason[2339] of which is the
@@ -10260,12 +9412,8 @@ when in the water, but when out of it resembles other fish in colour.
 The salt-water preserves[2343] of Spain are filled with these last
 fish, but the tunnies do not consort with them.[2344]
 
-
-
-
 CHAP. 20.—FISHES WHICH ARE NEVER FOUND IN THE EUXINE; THOSE WHICH ENTER
 IT AND RETURN.
-
 
 The Euxine, however, is never entered by any animal[2345] that is
 noxious to fish, with the exception of the sea-calf and the small
@@ -10318,11 +9466,7 @@ unless they are induced to come out by the warmth of the weather or the
 full moon. These fish fatten[2362] to such an extraordinary degree as
 to burst. The longest period of their life[2363] is two years.
 
-
-
-
-CHAP. 21.—WHY FISHES LEAP ABOVE THE SURFACE OF THE WATER.
-
+## Chap. 21.—why Fishes Leap Above the Surface of the Water
 
 There is a little animal,[2364] in appearance like a scorpion, and
 of the size of a spider.[2365] This creature, by means of its sting,
@@ -10334,11 +9478,7 @@ of the violence of other fish, and mullets more especially, which are
 of such extraordinary swiftness, that they will sometimes leap over a
 ship, if lying crosswise.
 
-
-
-
-CHAP. 22. (16.)—THAT AUGURIES ARE DERIVED FROM FISHES.
-
+## Chap. 22. (16.)—that Auguries Are Derived from Fishes
 
 Auguries are also derived from this department of Nature, and fishes
 afford presages of coming events. While Augustus[2367] was walking on
@@ -10349,11 +9489,7 @@ who at that moment were in possession of the seas—it was just at this
 time that Sextus Pompeius had adopted[2368] Neptune as his father, so
 elated was he with his successes by sea.
 
-
-
-
-CHAP. 23.—WHAT KINDS OF FISHES HAVE NO MALES.
-
+## Chap. 23.—what Kinds of Fishes Have No Males
 
 The females of fishes are larger[2369] in size than the males, and in
 some kinds there are no males[2370] at all, as in the erythini[2371]
@@ -10371,13 +9507,9 @@ they are produced in swamps, will not grow to maturity without the
 aid of rain: in addition to this, we find that wherever fishes remain
 constantly in the same water, if it is not renewed they will die.
 
-
-
-
 CHAP. 24.—FISHES WHICH HAVE A STONE IN THE HEAD; THOSE WHICH KEEP
 THEMSELVES CONCEALED DURING WINTER; AND THOSE WHICH ARE NOT TAKEN IN
 WINTER, EXCEPT UPON STATED DAYS.
-
 
 All fish have a presentiment of a rigorous winter, but more especially
 those which are supposed to have a stone[2376] in the head, the
@@ -10394,12 +9526,8 @@ that, during the winter, the torpedo,[2389] the psetta,[2390] and the
 sole, conceal themselves in the earth, or rather, I should say, in
 excavations made by them at the bottom of the sea.
 
-
-
-
 CHAP. 25.—FISHES WHICH CONCEAL THEMSELVES DURING THE SUMMER; THOSE
 WHICH ARE INFLUENCED BY THE STARS.
-
 
 Other fishes,[2391] again, are unable to bear the heat of summer,
 and lie concealed during the sixty days of the hottest weather
@@ -10413,11 +9541,7 @@ a thing which is more especially to be observed in the Bosporus: for
 there sea-weeds and fish are seen floating on the surface, all of which
 have been thrown up from the bottom.
 
-
-
-
-CHAP. 26. (17.)—THE MULLET.
-
+## Chap. 26. (17.)—the Mullet
 
 One singular propensity of the mullet[2398] has afforded a subject
 for laughter;[2399] when it is frightened, it hides its head, and
@@ -10430,11 +9554,7 @@ sea, after which he is drawn back again by the line, upon which the
 females will follow him to the very water’s edge; and so, on the other
 hand, the male will follow the female, during the spawning season.
 
-
-
-
-CHAP. 27.—THE ACIPENSER.
-
+## Chap. 27.—the Acipenser
 
 Among the ancients, the acipenser[2401] was esteemed the most noble
 fish of all; it is the only one that has the scales turned towards the
@@ -10443,11 +9563,7 @@ present day, however, it is held in no esteem, which I am the more
 surprised at, it being so very rarely found. Some writers call this
 fish the elops.
 
-
-
-
-CHAP. 28.—THE LUPUS, ASELLUS.
-
+## Chap. 28.—the Lupus, Asellus
 
 At a later period, they set the highest value on the lupus[2402] and
 the asellus,[2403] as we learn from Cornelius Nepos, and the poet,
@@ -10459,7 +9575,6 @@ bacchus,[2404] which is only taken in deep water, and is hence much
 preferred to the former. On the other hand, among the varieties of the
 lupus, those are the most esteemed which are taken in rivers. CHAP.
 29.—THE SCARUS, THE MUSTELA.
-
 
 At the present day, the first place is given to the scarus,[2405] the
 only fish that is said to ruminate, and to feed on grass and not on
@@ -10480,12 +9595,8 @@ but that is valued only for its liver. A singular thing to tell of—the
 lake of Brigantia,[2408] in Rhætia, lying in the midst of the Alps,
 produces them to rival even those of the sea.[2409]
 
-
-
-
 CHAP. 30.—THE VARIOUS KINDS OF MULLETS, AND THE SARGUS THAT ATTENDS
 THEM.
-
 
 Of the remaining fish that are held in any degree of esteem, the
 mullet[2410] is the most highly valued, as well as the most abundant
@@ -10518,11 +9629,7 @@ a surname—and he proposed a prize for any one who should invent a new
 sauce,[2421] made from the liver of this fish. I find it much easier to
 relate this fact, than to state who it was that gained the prize.
 
-
-
-
-CHAP. 31.—ENORMOUS PRICES OF SOME FISH.
-
+## Chap. 31.—enormous Prices of Some Fish
 
 Asinius Celer,[2422] a man of consular rank, and remarkable for his
 prodigal expenditure on this fish, bought one at Rome, during the
@@ -10541,11 +9648,7 @@ a mullet eighty[2425] pounds in weight. What a price would have been
 paid for it by our epicures, if it had only been found off the shores
 in the vicinity of our city!
 
-
-
-
-CHAP. 32.—THAT THE SAME KINDS ARE NOT EVERYWHERE EQUALLY ESTEEMED.
-
+## Chap. 32.—that the Same Kinds Are Not Everywhere Equally Esteemed
 
 There is this also in the nature of fish, that some are more highly
 esteemed in one place, and some in another; such, for instance, as the
@@ -10556,11 +9659,7 @@ thoroughly cooked, wherever found, without being first beaten with a
 stick: in Aquitania, again, the river salmon[2432] is preferred to all
 the fish that swim in the sea.
 
-
-
-
-CHAP. 33.—GILLS AND SCALES.
-
+## Chap. 33.—gills and Scales
 
 Some fishes have numerous gills, others again single[2433] ones,
 others double; it is by means of these that they discharge the water
@@ -10573,22 +9672,14 @@ sharpness[2437] of them, strongly resembling hob-nails[2438] in
 appearance; these fish, however, are only to be seen during that
 month,[2439] and no longer.
 
-
-
-
-CHAP. 34. (19.)—FISHES WHICH HAVE A VOICE.—FISHES WITHOUT GILLS.
-
+## Chap. 34. (19.)—fishes Which Have a Voice.—fishes without Gills
 
 Arcadia produces a wonder in its fish called exocœtus,[2440] from the
 fact that it comes ashore to sleep. In the neighbourhood of the river
 Clitorius,[2441] this fish is said to be gifted with powers of speech,
 and to have no gills;[2442] by some writers it is called the adonis.
 
-
-
-
-CHAP. 35.—FISHES WHICH COME ON LAND. THE PROPER TIME FOR CATCHING FISH.
-
+## Chap. 35.—fishes Which Come on Land. The Proper Time for Catching Fish
 
 Those fish, also, which are known by the name of sea-mice,[2443] as
 well as the polypi[2444] and the murænæ,[2445] are in the habit of
@@ -10604,12 +9695,8 @@ of periods, when we reflect how few persons there are that know that
 the most favourable time for taking fish is while the sun is passing
 through the sign of Pisces.[2447]
 
-
-
-
 CHAP. 36. (20.)—CLASSIFICATION OF FISHES, ACCORDING TO THE SHAPE OF THE
 BODY.
-
 
 Some sea-fish are flat, such, for instance, as the rhombus,[2448] the
 sole,[2449] and the sea-sparrow;[2450] which last only differs from
@@ -10617,11 +9704,7 @@ the rhombus in the lateral position of the body. The rhombus lies with
 the right side upwards,[2451] while in the sea-sparrow the left side is
 uppermost. Some sea-fish, again, are long, as the muræna and the conger.
 
-
-
-
-CHAP. 37.—THE FINS OF FISH, AND THEIR MODE OF SWIMMING.
-
+## Chap. 37.—the Fins of Fish, and Their Mode of Swimming
 
 Hence it is that there is a difference,[2452] also, in the fins of
 fish, which have been given them to serve in place of feet, none having
@@ -10638,11 +9721,7 @@ also, have no fins, the pastinacæ,[2460] for instance—for these swim
 broad-wise—those, also, which are known as the “soft” fish, such as the
 polypi, for their feet[2461] serve them in stead of fins.
 
-
-
-
-CHAP. 38. (21.)—EELS.
-
+## Chap. 38. (21.)—eels
 
 Eels live eight[2462] years; they are able to survive out of water as
 much as six days,[2463] when a north-east wind blows; but when the
@@ -10663,11 +9742,7 @@ of them, containing more than a thousand in number, are often taken in
 the chambers[2471] which are formed in the bed of the river for that
 purpose.
 
-
-
-
-CHAP. 39. (23.)—THE MURÆNA.
-
+## Chap. 39. (23.)—the Muræna
 
 The muræna brings forth every month, while all the other fishes
 spawn only at stated periods: the eggs of this fish increase with
@@ -10694,11 +9769,7 @@ us that formerly the children of the Roman citizens, while wearing the
 prætexta,[2479] were flogged with eel-skins, and that, for this reason,
 no pecuniary penalty[2480] could by law be inflicted upon them.
 
-
-
-
-CHAP. 40. (24.)—VARIOUS KINDS OF FLAT FISH.
-
+## Chap. 40. (24.)—various Kinds of Flat Fish
 
 There is another kind of flat fish, which, instead of bones, has
 cartilage, such, for instance, as the raia,[2481] the pastinaca,[2482]
@@ -10715,11 +9786,7 @@ while the other fishes,[2493] too, are oviparous, this one kind, with
 the exception of that known as the sea-frog, is viviparous, like the
 cetacea.[2494]
 
-
-
-
-CHAP. 41. (25.)—THE ECHENEIS, AND ITS USES IN ENCHANTMENTS.
-
+## Chap. 41. (25.)—the Echeneis, and Its Uses in Enchantments
 
 There is a very small fish[2495] that is in the habit of living among
 the rocks, and is known as the echeneis.[2496] It is believed that
@@ -10748,11 +9815,7 @@ another peculiar property—when preserved in salt, and applied, it is
 able to draw up gold which has fallen into a well, however deep it may
 happen to be.[2505]
 
-
-
-
-CHAP. 42. (26.)—FISHES WHICH CHANGE THEIR COLOUR.
-
+## Chap. 42. (26.)—fishes Which Change Their Colour
 
 The mæna changes[2506] its white colour, and in summer becomes swarthy.
 The phycis[2507] also changes its colour, and while at other times it
@@ -10760,12 +9823,8 @@ is white, in spring it is parti-coloured. This last is the only fish
 that builds itself a nest; it makes it of sea-weed, and there deposits
 its eggs.
 
-
-
-
 CHAP. 43.—FISHES WHICH FLY ABOVE THE WATER.—THE SEA-SWALLOW.—THE FISH
 THAT SHINES IN THE NIGHT.—THE HORNED FISH.—THE SEA-DRAGON.
-
 
 The sea-swallow,[2508] being able to fly, bears a strong resemblance to
 the bird of that name; the sea-kite[2509] too, flies as well.
@@ -10779,11 +9838,7 @@ above the surface of the water. The sea-dragon,[2512] again, if caught
 and thrown on the sand, works out a hole for itself with its muzzle,
 with the most wonderful celerity.
 
-
-
-
-CHAP. 44. (28.)—FISHES WHICH HAVE NO BLOOD.—FISHES KNOWN AS SOFT FISH.
-
+## Chap. 44. (28.)—fishes Which Have No Blood.—fishes Known as Soft Fish
 
 The varieties of fish which we shall now mention are those which have
 no blood: they are of three kinds[2513]—first, those which are known as
@@ -10797,11 +9852,7 @@ their mouth, and attach themselves to places in the sea, as though with
 an anchor; the others act as so many arms, by means of which they seize
 their prey.[2518]
 
-
-
-
-CHAP. 45. (29.)—THE SÆPIA, THE LOLIGO, THE SCALLOP.
-
+## Chap. 45. (29.)—the Sæpia, the Loligo, the Scallop
 
 The loligo is also able to dart above the surface of the water, and
 the scallop does the same, just like an arrow as it were. In the
@@ -10812,11 +9863,7 @@ to flight. Both of them, as soon as ever they find themselves in danger
 of being caught. discharge[2520] a kind of ink, which with them is in
 place of blood,[2521] and thus darkening the water, take to flight.
 
-
-
-
-CHAP. 46.—THE POLYPUS.
-
+## Chap. 46.—the Polypus
 
 There are numerous kinds of polypi. The land[2522] polypus is larger
 than that of the sea; they all of them use their arms[2523] as feet
@@ -10848,11 +9895,7 @@ that it gnaws[2531] its own arms; for it is from the congers that this
 mischance befalls it; but it is no other than true that its arms shoot
 forth again, like the tail in the colotus[2532] and the lizard.[2533]
 
-
-
-
-CHAP. 47.—THE NAUTILUS, OR SAILING POLYPUS.
-
+## Chap. 47.—the Nautilus, or Sailing Polypus
 
 Among the most remarkable curiosities is the animal which has the
 name[2534] of nautilus, or, as some people call it, the pompilos. Lying
@@ -10869,11 +9912,7 @@ appearance of a light Liburnian[2536] bark; while, if anything chances
 to cause it alarm, in an instant it draws in the water, and sinks to
 the bottom.[2537]
 
-
-
-
-CHAP. 48. (30.)—THE VARIOUS KINDS OF POLYPI; THEIR SHREWDNESS.
-
+## Chap. 48. (30.)—the Various Kinds of Polypi; Their Shrewdness
 
 Belonging to the genus of polypi is the animal known as the
 ozæna,[2538] being so called from the peculiarly strong smell exhaled
@@ -10947,11 +9986,7 @@ the same shores of a size fully as large: in our own seas[2552] the
 loligo is sometimes found five cubits in length, and the sæpia, two.
 These animals do not live beyond two years.
 
-
-
-
-CHAP. 49.—THE SAILING NAUPLIUS.
-
+## Chap. 49.—the Sailing Nauplius
 
 Mucianus also relates that he had seen, in the Propontis, another
 curious resemblance to a ship in full sail.[2553] There is a
@@ -10973,11 +10008,7 @@ antipathy to man—for it is a well-known fact, that to see them thus
 sailing along, is a bad omen, and that it is portentous of misfortune
 to those who witness it.
 
-
-
-
-CHAP. 50.—SEA-ANIMALS, WHICH ARE ENCLOSED WITH A CRUST; THE CRAY-FISH.
-
+## Chap. 50.—sea-Animals, Which Are Enclosed with a Crust; The Cray-Fish
 
 The cray-fish,[2557] which belongs to that class of animals which is
 destitute of blood, is protected by a brittle crust. This creature
@@ -11003,12 +10034,8 @@ autumn and spring, and more particularly during the full moon; for the
 warmth of that luminary, as it shines in the night, renders[2562] the
 temperature of the weather more moderate.
 
-
-
-
 CHAP. 51.—THE VARIOUS KINDS OF CRABS; THE PINNOTHERES, THE SEA URCHIN,
 COCKLES, AND SCALLOPS.
-
 
 There are various kinds of crabs,[2563] known as carabi,[2564]
 astaci,[2565] maiæ,[2566] paguri,[2567] heracleotici,[2568]
@@ -11063,11 +10090,7 @@ which also conceal themselves during severe frosts and great heats; the
 onyches,[2592] too, which shine in the dark like fire, and in the mouth
 even while being eaten.
 
-
-
-
-CHAP. 52.—VARIOUS KINDS OF SHELL-FISH.
-
+## Chap. 52.—various Kinds of Shell-Fish
 
 Let us now pass on to the murex[2593] and various kinds of shell-fish,
 which have a stronger shell, and in which Nature, in her sportive
@@ -11091,11 +10114,7 @@ breeze, and sail along on the surface of the sea. Scallops are also
 able to leap[2606] and fly above the surface of the water, and they
 sometimes employ their shell by way of a bark.
 
-
-
-
-CHAP. 53. (34.)—WHAT NUMEROUS APPLIANCES OF LUXURY ARE FOUND IN THE SEA.
-
+## Chap. 53. (34.)—what Numerous Appliances of Luxury Are Found in the Sea
 
 But why mention such trifles as these, when I am sensible that no
 greater inroads have been made upon our morals, and no more rapid
@@ -11122,11 +10141,7 @@ in a similar way; so true it is, that for all the wants of the body,
 that which is sought at the expense of human life, is sure to please us
 the most.
 
-
-
-
-CHAP. 54.—PEARLS; HOW THEY ARE PRODUCED, AND WHERE.
-
+## Chap. 54.—pearls; How They Are Produced, and Where
 
 The first rank then, and the very highest position among all valuables,
 belongs to the pearl. It is the Indian Ocean that principally sends
@@ -11189,11 +10204,7 @@ boxes for unguents. In addition to these facts, we may remark that the
 pearl is soft[2620] in the water, but that it grows hard the instant it
 is taken out.
 
-
-
-
-CHAP. 55.—HOW PEARLS ARE FOUND.
-
+## Chap. 55.—how Pearls Are Found
 
 The fish, as soon as ever it perceives the hand,[2621] shuts its shell
 and covers up its treasures, being well aware that it is for them that
@@ -11216,11 +10227,7 @@ the flesh is gradually consumed, certain knots,[2626] which form the
 pearls, are disengaged[2627] from their bodies, and fall to the bottom
 of the vessel.
 
-
-
-
-CHAP. 56.—THE VARIOUS KINDS OF PEARLS.
-
+## Chap. 56.—the Various Kinds of Pearls
 
 There is no doubt that pearls wear with use, and will change their
 colour, if neglected. All their merit consists in their whiteness,
@@ -11271,11 +10278,7 @@ the case also with those found on the coast of Mauritania. Alexander
 Polyhistor and Sudines[2643] are of opinion that as they grow old their
 tints gradually fade.
 
-
-
-
-CHAP. 57.—REMARKABLE FACTS CONNECTED WITH PEARLS—THEIR NATURE.
-
+## Chap. 57.—remarkable Facts Connected with Pearls—their Nature
 
 It is quite clear that the interior of the pearl is solid, as no fall
 is able to break it. Pearls are not always found in the middle of the
@@ -11289,11 +10292,7 @@ small, and of a bad colour; for the deified Julius Cæsar[2645] wished
 it to be distinctly understood,[2646] that the breast-plate which he
 dedicated to Venus Genetrix, in her temple, was made of British pearls.
 
-
-
-
-CHAP. 58.—INSTANCES OF THE USE OF PEARLS.
-
+## Chap. 58.—instances of the Use of Pearls
 
 I once saw Lollia Paulina,[2647] the wife of the Emperor Caius[2648]—it
 was not at any public festival, or any solemn ceremonial, but only at
@@ -11359,11 +10358,7 @@ come off victorious on so important a question, had been seized, it was
 cut asunder, in order that this, the other half of the entertainment,
 might serve as pendants for the ears of Venus, in the Pantheon at Rome.
 
-
-
-
-CHAP. 59.—HOW PEARLS FIRST CAME INTO USE AT ROME.
-
+## Chap. 59.—how Pearls First Came into Use at Rome
 
 Antony and Cleopatra, however, will not bear away the palm of
 prodigality in this respect, and will be stripped of even this boast in
@@ -11384,11 +10379,7 @@ evident that he is mistaken, for Ælius Stilo tells us, that it was in
 the time of the Jugurthine war, that the name of “unio” was first given
 to pearls of remarkable size.
 
-
-
-
-CHAP. 60.—THE NATURE OF THE MUREX AND THE PURPLE.
-
+## Chap. 60.—the Nature of the Murex and the Purple
 
 And yet pearls may be looked upon as pretty nearly a possession of
 everlasting duration—they descend from a man to his heir, and they
@@ -11436,11 +10427,7 @@ live as long as fifty days on their saliva. All shell-fish grow very
 fast, and purples more especially; they come to their full size at the
 end of a year.
 
-
-
-
-CHAP. 61.—THE DIFFERENT KINDS OF PURPLES.
-
+## Chap. 61.—the Different Kinds of Purples
 
 Were I at this point to pass on to other subjects, luxury, no
 doubt would think itself defrauded of its due, and so accuse me of
@@ -11487,11 +10474,7 @@ shut their shells, and hold fast the object that has wounded them: in
 this way, victims to their greediness, they are drawn up to the surface
 hanging by the tongue.
 
-
-
-
-CHAP. 62. (38.)—HOW WOOLS ARE DYED WITH THE JUICES OF THE PURPLE.
-
+## Chap. 62. (38.)—how Wools Are Dyed with the Juices of the Purple
 
 The most favourable season for taking these fish is after the
 rising of the Dog-star, or else before spring; for when they have
@@ -11535,12 +10518,8 @@ clotted blood, and is of a blackish hue to the sight, but of a shining
 appearance when held up to the light; hence it is that we find Homer
 speaking of “purple blood.”[2693]
 
-
-
-
 CHAP. 63. (39.)—WHEN PURPLE WAS FIRST USED AT ROME: WHEN THE LATICLAVE
 VESTMENT AND THE PRÆTEXTA WERE FIRST WORN.
-
 
 I find that, from the very first, purple has been in use at Rome, but
 that Romulus employed it for the trabea.[2694] As to the toga prætexta
@@ -11564,11 +10543,7 @@ mighty piece of costly extravagance; while now, at the present day,
 nearly all the purple cloths that are reckoned of any account are dyed
 in a similar manner.
 
-
-
-
-CHAP. 64.—FABRICS CALLED CONCHYLIATED.
-
+## Chap. 64.—fabrics Called Conchyliated
 
 Fabrics that are called conchyliated are subjected to the same process
 in all other respects, but without any admixture of the juice of the
@@ -11586,12 +10561,8 @@ on no occasion ought the juice of the pelagiæ to exceed fifty,[2702]
 and that of the buccinum one hundred sesterces for one hundred
 pounds.[2703]
 
-
-
-
 CHAP. 65.—THE AMETHYST, THE TYRIAN, THE HYSGINIAN, AND THE CRIMSON
 TINTS.
-
 
 But no sooner have we finished with one branch of this subject than we
 have to begin upon another, for we find that it is made quite a matter
@@ -11633,11 +10604,7 @@ I have now abundantly treated of an art, by means of which men, just as
 much as women, have an idea that their appearance may be set off to the
 greatest possible advantage.
 
-
-
-
-CHAP. 66. (42.)—THE PINNA, AND THE PINNOTHERES.
-
+## Chap. 66. (42.)—the Pinna, and the Pinnotheres
 
 Belonging to the shell-fish tribe there is the pinna[2713] also: it is
 found[2714] in slimy spots, always lying upright, and never without a
@@ -11652,12 +10619,8 @@ notice to the pinna at the critical moment by a gentle bite, upon which
 the other instantly closes its shell, and so kills whatever it has
 caught there; after which, it divides the spoil with its companion.
 
-
-
-
 CHAP. 67.—THE SENSITIVENESS OF WATER ANIMALS; THE TORPEDO, THE
 PASTINACA, THE SCOLOPENDRA, THE GLANIS, AND THE RAM-FISH.
-
 
 Upon[2717] reflecting on such facts as these, I am the more inclined
 to wonder at the circumstance that some persons have been found who
@@ -11698,12 +10661,8 @@ out at sea, and wait for any one who may be tempted to swim; while at
 another, it will raise its head from the surface of the water, survey
 the fishermen’s boats, and then slily swim towards them and sink them.
 
-
-
-
 CHAP. 68. (45.)—BODIES WHICH HAVE A THIRD NATURE, THAT OF THE ANIMAL
 AND VEGETABLE COMBINED—THE SEA-NETTLE.
-
 
 Indeed, for my own part, I am strongly of opinion that there is sense
 existing in those bodies which have the nature[2729] of neither animals
@@ -11728,12 +10687,8 @@ makes its escape. Its mouth is situate, it is said, at the root or
 lower part,[2735] and the excrements[2736] are discharged by a small
 canal situated above.
 
-
-
-
 CHAP. 69.—SPONGES; THE VARIOUS KINDS OF THEM, AND WHERE THEY ARE
 PRODUCED: PROOFS THAT THEY ARE GIFTED WITH LIFE BY NATURE.
-
 
 We find three[2737] kinds of sponges mentioned; the first are thick,
 very hard, and rough, and are called “tragi:”[2738] the second, are
@@ -11770,11 +10725,7 @@ kind of all are those which are called “aplysiæ,”[2746] because it is
 impossible to clean them: these have large tubes, while the other parts
 of them are thick and coarse.
 
-
-
-
-CHAP. 70. (46.)—DOG-FISH.[2747]
-
+## Chap. 70. (46.)—dog-Fish.[2747]
 
 Vast numbers of dog-fish infest the seas in the vicinity of the
 sponges, to the great peril of those who dive for them. These persons
@@ -11820,12 +10771,8 @@ approach of this enemy.
 frequent the spots where these noxious monsters are found: and it is
 for this reason that the divers[2752] call them sacred.
 
-
-
-
 CHAP. 71.—FISHES WHICH ARE ENCLOSED IN A STONY SHELL—SEA ANIMALS WHICH
 HAVE NO SENSATION—-OTHER ANIMALS WHICH LIVE IN THE MUD.
-
 
 Those animals, however, it must be admitted, which lie enclosed in
 a stony shell, have no sensation whatever—such as the oyster,[2753]
@@ -11841,11 +10788,7 @@ of fish is sometimes so troubled in the night. Upon some fish, indeed,
 these animals breed[2760] as parasites: among these, we find the fish
 known as the chalcis.[2761]
 
-
-
-
-CHAP. 72. (48.)—VENOMOUS SEA-ANIMALS.
-
+## Chap. 72. (48.)—venomous Sea-Animals
 
 Nor yet are dire and venomous substances found wanting in the sea:
 such, for instance, as the sea-hare[2762] of the Indian seas, which
@@ -11862,11 +10805,7 @@ inches in length. Fixing this in the root of a tree, the fish is able
 to kill it; it can pierce armour too, just as though with an arrow, and
 to the strength of iron it adds all the corrosive qualities of poison.
 
-
-
-
-CHAP. 73. (49.)—THE MALADIES OF FISHES.
-
+## Chap. 73. (49.)—the Maladies of Fishes
 
 We do not find it stated that all kinds of fishes are subject to
 epizoötic diseases,[2765] like other animals of a wild nature: but it
@@ -11875,11 +10814,7 @@ maladies, from the emaciated appearance that many present, while at the
 same moment others of the same species are taken quite remarkable for
 their fatness.
 
-
-
-
-CHAP. 74. (50.)—THE GENERATION OF FISHES.
-
+## Chap. 74. (50.)—the Generation of Fishes
 
 The curiosity and wonder which have been excited in mankind by this
 subject, will not allow me any longer to defer giving an account
@@ -11979,11 +10914,7 @@ purple,[2800] the murex, and other fishes of the same kind, bring forth
 in the spring. Sea-urchins have their eggs at full moon during the
 winter; sea-snails[2801] also are produced during the winter season.
 
-
-
-
-CHAP. 75.—FISHES WHICH ARE BOTH OVIPAROUS AND VIVIPAROUS.
-
+## Chap. 75.—fishes Which Are Both Oviparous and Viviparous
 
 The torpedo is known to have as many as eighty young ones. It
 produces within itself[2802] very soft eggs, which it then transfers
@@ -11996,12 +10927,8 @@ often for as long a period as fifty days, that they may not be devoured
 by other fish. The females of other kinds bring forth their eggs in the
 course of three days, if the male has only touched them.
 
-
-
-
 CHAP. 76.—FISHES THE BELLY OF WHICH OPENS IN SPAWNING, AND THEN CLOSES
 AGAIN.
-
 
 The sea-needle,[2804] or the belone, is the only fish in which the
 multitude of its eggs, in spawning, causes the belly to open asunder;
@@ -12011,23 +10938,15 @@ sea-mouse[2805] digs a hole in the earth, deposits its eggs there, and
 then covers them up. On the thirtieth day it opens the hole, and leads
 its young to the water.
 
-
-
-
 CHAP. 77. (52.)—FISHES WHICH HAVE A WOMB; THOSE WHICH IMPREGNATE
 THEMSELVES.
-
 
 The fishes called the erythinus[2806] and the channe[2807] are said to
 have a womb; and those which by the Greeks are called trochi,[2808] it
 is said, impregnate themselves. The young of all aquatic animals are
 without sight at their birth.[2809]
 
-
-
-
-CHAP. 78. (53.)—THE LONGEST LIVES KNOWN AMONGST FISHES.
-
+## Chap. 78. (53.)—the Longest Lives Known Amongst Fishes
 
 We have lately heard of a remarkable instance of length of life in
 fish. Pausilypum[2810] is the name of a villa in Campania, not far
@@ -12039,11 +10958,7 @@ This mention of fish-preserves reminds me that I ought to mention a
 few more particulars connected with this subject, before we leave the
 aquatic animals.
 
-
-
-
-CHAP. 79. (54.)—THE FIRST PERSON THAT FORMED ARTIFICIAL OYSTER-BEDS.
-
+## Chap. 79. (54.)—the First Person that Formed Artificial Oyster-Beds
 
 The first person who formed artificial oyster-beds was Sergius
 Orata,[2812] who established them at Baiæ, in the time of L. Crassus,
@@ -12068,11 +10983,7 @@ a plan has been more recently hit upon, of feeding the oysters of
 Brundisium in Lake Lucrinus, famished as they must naturally be after
 so long a journey.
 
-
-
-
-CHAP. 80.—WHO WAS THE FIRST INVENTOR OF PRESERVES FOR OTHER FISH.
-
+## Chap. 80.—who Was the First Inventor of Preserves for Other Fish
 
 In the same age, also, Licinius Murena[2819] was the first to form
 preserves for other fish; and his example was soon followed by the
@@ -12084,11 +10995,7 @@ Magnus gave him the name of “Xerxes in a toga.”[2821] After his
 death, the fish in his preserves was sold for the sum of four million
 sesterces.
 
-
-
-
-CHAP. 81. (55.)—WHO INVENTED PRESERVES FOR MURENÆ.
-
+## Chap. 81. (55.)—who Invented Preserves for Murenæ
 
 C. Hirrus[2822] was the first person who formed preserves for the
 murena; and it was he who lent six thousand of these fishes for the
@@ -12105,11 +11012,7 @@ that Antonia,[2826] the wife of Drusus, placed earrings upon a murena
 which she had become fond of; the report of which singular circumstance
 attracted many visitors to the place.
 
-
-
-
-CHAP. 82. (56.)—WHO INVENTED PRESERVES FOR SEA-SNAILS.
-
+## Chap. 82. (56.)—who Invented Preserves for Sea-Snails
 
 Fulvius Lupinus[2827] first formed preserves for sea-snails,[2828] in
 the territory of Tarquinii, shortly before the civil war between Cæsar
@@ -12126,11 +11029,7 @@ was brought to such a pitch of perfection, that the shell of a single
 animal would hold as much as eighty quadrantes.[2832] This we learn
 from M. Varro.
 
-
-
-
-CHAP. 83. (57.)—LAND FISHES.
-
+## Chap. 83. (57.)—land Fishes
 
 Besides these, there are still some wonderful kinds of fishes[2833]
 which we find mentioned by Theophrastus: he says, that when the waters
@@ -12171,11 +11070,7 @@ the life of the mole under ground less a matter for surprise; unless,
 perhaps, these fishes mentioned by Theophrastus are similar in nature
 to the earth-worm.
 
-
-
-
-CHAP. 84. (58.)—THE MICE OF THE NILE.
-
+## Chap. 84. (58.)—the Mice of the Nile
 
 But all these things, singular as they are, are rendered credible by
 a marvel which exceeds them all, at the time of the inundation of the
@@ -12185,11 +11080,7 @@ of the waters and the earth: in one part of the body they are already
 alive, while in that which is of later formation, they are still
 composed of earth.
 
-
-
-
-CHAP. 85. (59.)—HOW THE FISH CALLED THE ANTHIAS IS TAKEN.
-
+## Chap. 85. (59.)—how the Fish Called the Anthias Is Taken
 
 Nor would it be right to omit what is said about the fish called
 anthias, and which I find is looked upon as true by most writers. I
@@ -12236,11 +11127,7 @@ out as much as it can, to enable them to cut it. But among the sargi,
 the fish itself, that is held fast, rubs the line asunder against the
 rocks.
 
-
-
-
-CHAP. 86. (60.)—SEA-STARS.
-
+## Chap. 86. (60.)—sea-Stars
 
 In addition to what I have already stated, I find that authors,
 distinguished for their wisdom, express surprise at finding a star in
@@ -12253,11 +11140,7 @@ easily say; but I am about to make mention of one fact which is more
 remarkable still, and which we have the opportunity of testing by every
 day’s experience.
 
-
-
-
-CHAP. 87. (61.)—THE MARVELLOUS PROPERTIES OF THE DACTYLUS.
-
+## Chap. 87. (61.)—the Marvellous Properties of the Dactylus
 
 Belonging also to the class of shell-fish is the dactylus,[2847] a fish
 so called from its strong resemblance to the human nails. It is the
@@ -12270,12 +11153,8 @@ clothes, are of the same nature. Hence it is beyond a doubt, that it is
 a liquid that possesses this peculiar property, which, even in a solid
 body, would be a ground for considerable surprise.
 
-
-
-
 CHAP. 88. (62.)—THE ANTIPATHIES AND SYMPATHIES THAT EXIST BETWEEN
 AQUATIC ANIMALS.
-
 
 There are also marvellous instances to be found of antipathies and
 sympathies existing between them. The mullet and the wolf-fish[2848]
@@ -12316,18 +11195,11 @@ Callimachus,[2872] Democritus,[2873] Theophrastus,[2874]
 Thrasyllus,[2874] Hegesidemus,[2875] Cythnius,[2876] Alexander
 Polyhistor.[2877]
 
+## Book X
 
+## The Natural History of Birds
 
-
-BOOK X.
-
-THE NATURAL HISTORY OF BIRDS.
-
-
-
-
-CHAP. 1. (1.)—THE OSTRICH.
-
+## Chap. 1. (1.)—the Ostrich
 
 The history of the birds[2878] follows next, the very largest of which,
 and indeed almost approaching to the nature of quadrupeds, is the
@@ -12347,11 +11219,7 @@ account of their large size, and are employed as vessels for certain
 purposes, while the feathers of the wing and tail are used as ornaments
 for the crest and helmet of the warrior.
 
-
-
-
-CHAP. 2. (2.)—THE PHŒNIX.
-
+## Chap. 2. (2.)—the Phœnix
 
 Æthiopia and India, more especially, produce[2886] birds of diversified
 plumage, and such as quite surpass all description. In the front rank
@@ -12393,11 +11261,7 @@ public view in the Comitium.[2894] This fact is attested by the public
 Annals, but there is no one that doubts that it was a fictitious phœnix
 only.
 
-
-
-
-CHAP. 3. (3.)—THE DIFFERENT KINDS OF EAGLES.
-
+## Chap. 3. (3.)—the Different Kinds of Eagles
 
 Of all the birds with which we are acquainted, the eagle is looked upon
 as the most noble, and the most remarkable for its strength. There are
@@ -12470,11 +11334,7 @@ turn produces the large vulture, which, however, is quite barren.
 Some writers add to the above a seventh kind, which they call the
 “bearded”[2905] eagle; the Tuscans, however, call it the ossifrage.
 
-
-
-
-CHAP. 4.—THE NATURAL CHARACTERISTICS OF THE EAGLE.
-
+## Chap. 4.—the Natural Characteristics of the Eagle
 
 The first three and the fifth class of eagles employ in the
 construction of their aerie the stone aëtites,[2906] by some known as
@@ -12515,12 +11375,8 @@ of other birds, will consume them.[2908] It is said that this is the
 only bird that has never been killed by lightning; hence it is, that
 usage has pronounced it to be the armour-bearer of Jove.
 
-
-
-
 CHAP. 5. (4.)—WHEN THE EAGLE WAS FIRST USED AS THE STANDARD OF THE
 ROMAN LEGIONS.
-
 
 Caius Marius, in his second consulship, assigned the eagle exclusively
 to the Roman legions. Before that period it had only held the first
@@ -12547,12 +11403,8 @@ whenever it happens to see it; upon these occasions, the dragon coils
 itself about the wings of the bird in multiplied folds, until at last
 they fall to the earth together.
 
-
-
-
 CHAP. 6. (5.)—AN EAGLE WHICH PRECIPITATED ITSELF ON THE FUNERAL PILE OF
 A GIRL.
-
 
 There is a very famous story about an eagle at the city of Sestos.
 Having been reared by a little girl, it used to testify its gratitude
@@ -12563,11 +11415,7 @@ event, the inhabitants raised upon the spot what they called an heroic
 monument,[2911] in honour of Jupiter and the damsel, the eagle being a
 bird consecrated to that divinity.
 
-
-
-
-CHAP. 7. (6.)—THE VULTURE.
-
+## Chap. 7. (6.)—the Vulture
 
 Of the vultures, the black ones[2912] are the strongest. No person has
 yet found a vulture’s nest: hence it is that there are some who have
@@ -12580,11 +11428,7 @@ and that with one of these eggs[2915] it purifies the others and its
 nest, and then throws it away: he states also that they hover about for
 three[2916] days, over the spot where carcases are about to be found.
 
-
-
-
-CHAP. 8. (7.)—THE BIRDS CALLED SANGUALIS AND IMMUSULUS.
-
+## Chap. 8. (7.)—the Birds Called Sangualis and Immusulus
 
 There has been considerable argument among the Roman augurs about
 the birds known as the “sangualis” and the “immusulus.” Some persons
@@ -12597,11 +11441,7 @@ time of the augur Mucius; for my part, I think it much more likely,
 that, amid that general heedlessness as to all knowledge, which has of
 late prevailed, no notice has been taken of them.
 
-
-
-
-CHAP. 9. (8.)—HAWKS. THE BUTEO.
-
+## Chap. 9. (8.)—hawks. The Buteo
 
 We find no less than sixteen[2918] kinds of hawks mentioned; among
 these are the ægithus, which is lame[2919] of one leg, and is looked
@@ -12628,12 +11468,8 @@ of the whole of Massæsylia, breed in Cerne,[2923] an island of Africa,
 lying in the ocean; and none of the kinds that are accustomed to those
 parts will breed anywhere else.
 
-
-
-
 CHAP. 10.—IN WHAT PLACES HAWKS AND MEN PURSUE THE CHASE IN COMPANY WITH
 EACH OTHER.
-
 
 In the part of Thrace which lies above Amphipolis, men[2924] and hawks
 go in pursuit of prey, in a sort of partnership as it were; for while
@@ -12651,12 +11487,8 @@ cybindis;[2928] it is rarely found, even in the woods, and in the
 day-time its sight is not good; it wages war to the death with the
 eagle, and they are often to be found clasped in each other’s talons.
 
-
-
-
 CHAP. 11. (9.)—THE ONLY BIRD THAT IS KILLED BY THOSE OF ITS OWN KIND.—A
 BIRD THAT LAYS ONLY ONE EGG.
-
 
 The cuckoo seems to be but another form of the hawk,[2929] which at a
 certain season of the year changes its shape; it being the fact that
@@ -12692,11 +11524,7 @@ is now able to take the wing, he finishes by devouring[2932] her. For
 sweetness of the flesh, there is not a bird in existence to be compared
 to the cuckoo at this season.
 
-
-
-
-CHAP. 12. (10.)—THE KITE.
-
+## Chap. 12. (10.)—the Kite
 
 The kite, which belongs to the same genus, is distinguished from the
 rest of the hawks by its larger size. It has been remarked of this
@@ -12712,11 +11540,7 @@ Kites also disappear during the winter months, but do not take their
 departure before the swallow. It is said, also, that after the summer
 solstice they are troubled with the gout.
 
-
-
-
-CHAP. 13. (11.)—THE CLASSIFICATION OF BIRDS.
-
+## Chap. 13. (11.)—the Classification of Birds
 
 The first distinctive characteristic among birds is that which bears
 reference more especially to their feet: they have either hooked
@@ -12724,12 +11548,8 @@ talons, or else toes, or else, again, they belong to the web-footed
 class, geese for instance, and most of the aquatic birds. Those which
 have hooked talons feed, for the most part, upon nothing but flesh.
 
-
-
-
 CHAP. 14. (12.)—CROWS. BIRDS OF ILL OMEN. AT WHAT SEASONS THEY ARE NOT
 INAUSPICIOUS.
-
 
 Crows, again, have another kind of food. Nuts being too hard for their
 beak to break, the crow flies to a great height, and then lets them
@@ -12745,11 +11565,7 @@ some time after they have begun to fly. The crow is most inauspicious
 at the time of incubation, or, in other words, just after the summer
 solstice.
 
-
-
-
-CHAP. 15.—THE RAVEN.
-
+## Chap. 15.—the Raven
 
 All the other birds of the same kind drive their young ones from their
 nest, and compel them to fly; the raven, for instance, which not only
@@ -12777,11 +11593,7 @@ of Medus[2937] were assassinated, they all took their departure from
 Peloponnesus and the region of Attica. They are of the very worst omen
 when they swallow their voice, as if they were being choked.
 
-
-
-
-CHAP. 16.—THE HORNED OWL.
-
+## Chap. 16.—the Horned Owl
 
 The birds of the night also have crooked talons, such as the
 owlet,[2938] the horned owl, and the screech-owl, for instance; the
@@ -12799,12 +11611,8 @@ horned owl entered the very sanctuary of the Capitol, in the consulship
 of Sextus Palpelius Hister and L. Pedanius; in consequence of which,
 Rome was purified on the nones[2939] of March in that year.
 
-
-
-
 CHAP. 17. (13.)—BIRDS, THE RACE OF WHICH IS EXTINCT, OR OF WHICH ALL
 KNOWLEDGE HAS BEEN LOST.
-
 
 An inauspicious bird also is that known as the “incendiary;”[2940]
 on account of which, we find in the Annals, the City has had to be
@@ -12830,11 +11638,7 @@ seen. It is surprising that these birds are no longer in existence,
 since we find that even those kinds abound, among which the gluttony of
 man commits such ravages.
 
-
-
-
-CHAP. 18. (16.)—BIRDS WHICH ARE BORN WITH THE TAIL FIRST.
-
+## Chap. 18. (16.)—birds Which Are Born with the Tail First
 
 Among foreigners, a person called Hylas is thought to have written the
 best treatise on the subject of augury. He informs us that the owlet,
@@ -12844,11 +11648,7 @@ the egg, being turned upside down through the weight of the head of the
 chick, presents the wrong end to be warmed by the mother as she sits
 upon it.
 
-
-
-
-CHAP. 19. (17.)—THE OWLET.
-
+## Chap. 19. (17.)—the Owlet
 
 The owlet shows considerable shrewdness in its engagements with other
 birds; for when surrounded by too great a number, it throws itself on
@@ -12859,11 +11659,7 @@ takes its share in the combat. Nigidius says, that the incubation of
 the owlet lasts sixty days, during the winter, and that it has nine
 different notes.
 
-
-
-
-CHAP. 20. (18.)—THE WOOD-PECKER OF MARS.
-
+## Chap. 20. (18.)—the Wood-Pecker of Mars
 
 There are some small birds also, which have hooked talons; the
 wood-pecker, for example, surnamed “of Mars,” of considerable
@@ -12890,11 +11686,7 @@ menaced with danger, but if killed, disaster would befall the prætor;
 in an instant he tore the bird to pieces, and before long the omen was
 fulfilled.[2946]
 
-
-
-
-CHAP. 21. (19.)—BIRDS WHICH HAVE HOOKED TALONS.
-
+## Chap. 21. (19.)—birds Which Have Hooked Talons
 
 Many birds of this kind feed also on acorns and fruit, but only those
 which are not carnivorous, with the exception of the kite; though when
@@ -12907,11 +11699,7 @@ of larger size. They all have large wings, and a small body; they walk
 with difficulty, and rarely settle upon stones, being prevented from
 doing so by the curved shape of their talons.
 
-
-
-
-CHAP. 22. (20.)—THE PEACOCK.
-
+## Chap. 22. (20.)—the Peacock
 
 We shall now speak of the second class of birds, which is divided into
 two kinds; those which give omens[2947] by their note, and those which
@@ -12939,12 +11727,8 @@ in the same way that they attribute bashfulness to the goose.[2949] The
 characteristics, however, which they have thus ascribed to these birds,
 appear to me to be utterly unfounded.
 
-
-
-
 CHAP. 23.—WHO WAS THE FIRST TO KILL THE PEACOCK FOR FOOD.—WHO FIRST
 TAUGHT THE ART OF CRAMMING THEM.
-
 
 The orator Hortensius was the first Roman who had the peacock killed
 for table; it was on the occasion of the banquet given by him on his
@@ -12953,11 +11737,7 @@ was the first who taught the art of fattening them, about the time of
 the last war with the Pirates. From this source of profit he acquired
 an income of sixty thousand sesterces.[2951]
 
-
-
-
-CHAP. 24. (21.)—THE DUNGHILL COCK.
-
+## Chap. 24. (21.)—the Dunghill Cock
 
 Next after the peacock, the animal that acts as our watchman by night,
 and which Nature has produced for the purpose of arousing mortals
@@ -13006,11 +11786,7 @@ that famous victory[2956] which they gained over the Lacedæmonians;
 such, in fact, being the interpretation that was put upon it by way of
 prognostic, as this bird, when conquered, is never known to crow.
 
-
-
-
-CHAP. 25.—HOW COCKS ARE CASTRATED. A COCK THAT ONCE SPOKE.
-
+## Chap. 25.—how Cocks Are Castrated. A Cock that Once Spoke
 
 When castrated, cocks cease to crow. This operation is performed two
 different ways. Either the loins of the animal are seared with a
@@ -13024,11 +11800,7 @@ We find it stated in the Roman Annals, that in the[2958] consulship of
 M. Lepidus and Q. Catulus a dung-hill cock spoke, at the farm-house of
 Galerius; the only occasion, in fact, that I know of.
 
-
-
-
-CHAP. 26. (22.)—THE GOOSE.
-
+## Chap. 26. (22.)—the Goose
 
 The goose also keeps a vigilant guard; a fact which is well attested
 by the defence of the Capitol, at a moment when, by the silence of
@@ -13044,11 +11816,7 @@ an appreciation of wisdom:[2961] for it is said, that one of them was
 the constant companion of the philosopher, Lacydes, and would never
 leave him, either in public or when at the bath, by night or by day.
 
-
-
-
-CHAP. 27.—WHO FIRST TAUGHT US TO USE THE LIVER OF THE GOOSE FOR FOOD.
-
+## Chap. 27.—who First Taught Us to Use the Liver of the Goose for Food
 
 Our people, however, are more wise; for they only esteem the goose for
 the goodness of its liver.[2962] When they are crammed, this grows to
@@ -13080,11 +11848,7 @@ guard, in pursuit of these birds: indeed, we have come to such a pitch
 of effeminacy, that now-a-days, not even the men can think of lying
 down without the aid of the goose’s feathers, by way of pillow.
 
-
-
-
-CHAP. 28.—OF THE COMMAGENIAN MEDICAMENT.
-
+## Chap. 28.—of the Commagenian Medicament
 
 The part of Syria which is called Commagene, has discovered another
 invention also; the fat of the goose[2966] is enclosed with some
@@ -13093,11 +11857,7 @@ snow. Under the influence of the excessive cold, it becomes macerated,
 and fit for use as a medicament, remarkable for its properties: from
 the country which produces it, it is known to us as “Commagenum.”[2967]
 
-
-
-
-CHAP. 29.—THE CHENALOPEX, THE CHENEROS, THE TETRAO, AND THE OTIS.
-
+## Chap. 29.—the Chenalopex, the Cheneros, the Tetrao, and the Otis
 
 To the goose genus belong also the chenalopex,[2968] and the
 cheneros,[2969] a little smaller than the common goose, and which forms
@@ -13116,11 +11876,7 @@ the “tarda,”[2972] and in Greece the “otis;” they are looked upon
 however as very inferior food; the marrow,[2973] when disengaged from
 the bones, immediately emits a most noisome smell.
 
-
-
-
-CHAP. 30. (23.)—CRANES.
-
+## Chap. 30. (23.)—cranes
 
 By the departure of the cranes, which, as we have already stated,[2974]
 were in the habit of waging war with them, the nation of the Pygmies
@@ -13155,11 +11911,7 @@ food than cranes: whereas at the present day, this last bird is one of
 those that are held in the very highest esteem, while no one will so
 much as touch the other.
 
-
-
-
-CHAP. 31.—STORKS.
-
+## Chap. 31.—storks
 
 Up to the present time it has not been ascertained from what place the
 storks come, or whither they go when they leave us. There can be no
@@ -13187,11 +11939,7 @@ highly are they esteemed for their utility in destroying serpents, that
 in Thessaly, it was a capital crime for any one to kill a stork, and by
 the laws the same penalty was inflicted for it as for homicide.
 
-
-
-
-CHAP. 32.—SWANS.
-
+## Chap. 32.—swans
 
 Geese, and swans also, travel in a similar manner, but then they are
 seen to take their flight. The flocks, forming a point, move along
@@ -13208,12 +11956,8 @@ it gives utterance to a mournful song;[2979] but this is an error, in
 my opinion, at least I have tested the truth of the story on several
 occasions. These birds will eat the flesh of one another.
 
-
-
-
 CHAP. 33.—FOREIGN BIRDS WHICH VISIT US; THE QUAIL, THE GLOTTIS, THE
 CYCHRAMUS, AND THE OTUS.
-
 
 Having spoken of the emigration of these birds over sea and land, I
 cannot allow myself to defer mentioning some other birds of smaller
@@ -13273,11 +12017,7 @@ great repugnance is manifested to eating their flesh, on account of the
 epilepsy,[2985] to which alone of all animals, with the exception of
 man, the quail is subject.
 
-
-
-
-CHAP. 34. (24.)—SWALLOWS.
-
+## Chap. 34. (24.)—swallows
 
 The swallow, the only bird that is carnivorous among those which have
 not hooked talons, takes its departure also during the winter months;
@@ -13299,14 +12039,10 @@ brought to him, in order that he might give them notice, by the number
 of knots on a string tied to its leg, on what day succour would arrive,
 and a sortie might be made with advantage.
 
-
-
-
 CHAP. 35.—BIRDS WHICH TAKE THEIR DEPARTURE FROM US, AND WHITHER THEY
 GO; THE THRUSH, THE BLACKBIRD, AND THE STARLING—BIRDS WHICH LOSE THEIR
 FEATHERS DURING THEIR RETIREMENT—THE TURTLE-DOVE AND THE RING-DOVE—THE
 FLIGHT OF STARLINGS AND SWALLOWS.
-
 
 In a similar manner also, the blackbird, the thrush, and the starling
 take their departure to neighbouring countries; but they do not lose
@@ -13324,12 +12060,8 @@ reason it is that they are not exposed to the attacks of other birds
 of prey: these too, in fine, are the only birds that take their food
 solely on the wing.
 
-
-
-
 CHAP. 36. (25.)—BIRDS WHICH REMAIN WITH US THROUGHOUT THE YEAR; BIRDS
 WHICH REMAIN WITH US ONLY SIX OR THREE MONTHS; WITWALLS AND HOOPOES.
-
 
 The time during which birds show themselves differs very considerably.
 Some remain with us all the year round, the pigeon, for instance;
@@ -13338,11 +12070,7 @@ months only, as the thrush, the turtle-dove, and those which take their
 departure the moment they have reared their young, the witwall[2989]
 and the hoopoe, for instance.
 
-
-
-
-CHAP. 37. (26.)—THE MEMNONIDES.
-
+## Chap. 37. (26.)—the Memnonides
 
 There are some authors who say that every year certain birds[2990]
 fly from Æthiopia to Ilium, and have a combat at the tomb of Memnon
@@ -13351,11 +12079,7 @@ of Memnonides, or birds of Memnon. Cremutius states it also as a fact,
 ascertained by himself, that they do the same every fifth year in
 Æthiopia, around the palace of Memnon.
 
-
-
-
-CHAP. 38.—THE MELEAGRIDES.
-
+## Chap. 38.—the Meleagrides
 
 In a similar manner also, the birds called meleagrides[2991] fight in
 Bœotia. They are a species of African poultry, having a hump on the
@@ -13364,11 +12088,7 @@ among the foreign birds that have been received at our tables, on
 account of their disagreeable smell. The tomb, however, of Meleager has
 rendered them famous.
 
-
-
-
-CHAP. 39. (27.)—THE SELEUCIDES.
-
+## Chap. 39. (27.)—the Seleucides
 
 Those birds are called seleucides, which are sent by Jupiter at the
 prayers offered up to him by the inhabitants of Mount Casius,[2992]
@@ -13377,22 +12097,14 @@ come, or whither they go, has never yet been ascertained, as, in fact,
 they are never to be seen but when the people stand in need of their
 aid.
 
-
-
-
-CHAP. 40. (28.)—THE IBIS.
-
+## Chap. 40. (28.)—the Ibis
 
 The Egyptians also invoke their ibis against the incursions of
 serpents; and the people of Elis, their god Myiagros,[2994] when the
 vast multitudes of flies are bringing pestilence among them; the flies
 die immediately the propitiatory sacrifice has been made to this god.
 
-
-
-
-CHAP. 41. (29.)—PLACES IN WHICH CERTAIN BIRDS ARE NEVER FOUND.
-
+## Chap. 41. (29.)—places in Which Certain Birds Are Never Found
 
 With reference to the departure of birds, the owlet, too, is said to
 lie concealed for a few days. No birds of this last kind are to be
@@ -13436,12 +12148,8 @@ that even pigeons, as well as peacocks and ravens, have been introduced
 from other parts into Asia,[3000] as also croaking frogs[3001] into
 Cyrenaica.
 
-
-
-
 CHAP. 42.—THE VARIOUS KINDS OF BIRDS WHICH AFFORD OMENS BY THEIR
 NOTE—BIRDS WHICH CHANGE THEIR COLOUR AND THEIR VOICE.
-
 
 There is another remarkable fact too, relative to the birds which give
 omens by their note; they generally change their colour and voice at
@@ -13454,11 +12162,7 @@ also assumes the appearance of ivory; this, however, is the case only
 with the male. In the summer, the thrush is mottled about the neck, but
 in the winter it becomes of one uniform colour all over.
 
-
-
-
-CHAP. 43.—THE NIGHTINGALE.
-
+## Chap. 43.—the Nightingale
 
 The song of the nightingale is to be heard, without intermission,
 for fifteen days and nights, continuously,[3002] when the foliage
@@ -13516,11 +12220,7 @@ disappears. The tongue of the nightingale is not pointed at the tip, as
 in other birds. It lays at the beginning of the spring, six eggs at the
 most.
 
-
-
-
-CHAP. 44.—THE MELANCORYPHUS, THE ERITHACUS, AND THE PHŒNICURUS.
-
+## Chap. 44.—the Melancoryphus, the Erithacus, and the Phœnicurus
 
 The change is different that takes place in the ficedula,[3006] for
 this bird changes its shape as well as its colour. “Ficedula” is the
@@ -13532,11 +12232,7 @@ bird that feeds upon filth[3009] of all kinds, and is remarkable for
 its twisted top-knot, which it can contract or elevate at pleasure
 along the top of the head.
 
-
-
-
-CHAP. 45.—THE ŒNANTHE, THE CHLORION, THE BLACKBIRD, AND THE IBIS.
-
+## Chap. 45.—the Œnanthe, the Chlorion, the Blackbird, and the Ibis
 
 The œnanthe,[3010] too, is a bird that has stated days for its
 retreat. At the rising of Sirius it conceals itself, and at the
@@ -13550,11 +12246,7 @@ with white[3012] plumage; a thing that is the case nowhere else. The
 ibis, in the neighbourhood of Pelusium[3013] only is black, while in
 all other places it is white.
 
-
-
-
-CHAP. 46. (31.)—THE TIMES OF INCUBATION OF BIRDS.
-
+## Chap. 46. (31.)—the Times of Incubation of Birds
 
 The birds that have a note, with the exception of those previously
 mentioned,[3014] do not by any chance produce their young before the
@@ -13562,12 +12254,8 @@ vernal or after the autumnal equinox. As to the broods produced before
 the summer solstice, it is very doubtful if they will survive, but
 those hatched after it thrive well.
 
-
-
-
 CHAP. 47. (32.)—THE HALCYONES: THE HALCYON DAYS THAT ARE FAVOURABLE TO
 NAVIGATION.
-
 
 It is for this that the halcyon[3015] is more especially remarkable;
 the seas, and all those who sail upon their surface, well know the
@@ -13594,23 +12282,15 @@ never yet been discovered of what material they are made; some persons
 think that they are formed of sharp fish-bones, as it is on fish that
 these birds live. They enter rivers also; their eggs are five in number.
 
-
-
-
-CHAP. 48.—OTHER KINDS OF AQUATIC BIRDS.
-
+## Chap. 48.—other Kinds of Aquatic Birds
 
 The sea-mew also builds its nest in rocks, and the diver[3018] in trees
 as well. These birds produce three at the very most; the sea-mew in
 summer, the diver at the beginning of spring.
 
-
-
-
 CHAP. 49. (33.)—THE INSTINCTIVE CLEVERNESS DISPLAYED BY BIRDS IN THE
 CONSTRUCTION OF THEIR NESTS. THE WONDERFUL WORKS OF THE SWALLOW. THE
 BANK-SWALLOW.
-
 
 The form of the nest built by the halcyon reminds me also of the
 instinctive cleverness displayed by other birds; and, indeed, in no
@@ -13654,11 +12334,7 @@ birds do not build nests, and they take care to migrate a good many
 days before, if it so happens that the rise of the river is about to
 reach their holes.
 
-
-
-
-CHAP. 50.—THE ACANTHYLLIS AND OTHER BIRDS.
-
+## Chap. 50.—the Acanthyllis and Other Birds
 
 Belonging to the genus of birds known as the “vitiparræ,” there is
 one[3021] whose nest is formed of dried moss,[3022] and is in shape so
@@ -13688,11 +12364,7 @@ two eggs, and then solder them to it by means of a glutinous matter
 secreted from their body; after which, they pass their neck between the
 eggs, and so forming an equipoise, convey them to another place.
 
-
-
-
-CHAP. 51.—THE MEROPS—PARTRIDGES.
-
+## Chap. 51.—the Merops—partridges
 
 No less, too, is the shrewdness displayed by those birds which make
 their nests upon the ground, because, from the extreme weight of their
@@ -13750,11 +12422,7 @@ some furrow, and seizing a clod of earth with her claws, cover herself
 all over. It is supposed that the life of the partridge extends to
 sixteen years.
 
-
-
-
-CHAP. 52. (34.)—PIGEONS.
-
+## Chap. 52. (34.)—pigeons
 
 Next to the partridge, it is in the pigeon that similar tendencies
 are to be seen in the same respect: but then, chastity is especially
@@ -13830,12 +12498,8 @@ among themselves of gaining one another over, and so seducing their
 companions: hence it is that we frequently find them return attended by
 others which they have enticed away.
 
-
-
-
 CHAP. 53.—WONDERFUL THINGS DONE BY THEM; PRICES AT WHICH THEY HAVE BEEN
 SOLD.
-
 
 In addition to this, pigeons have acted as messengers in affairs of
 importance. During the siege of Mutina, Decimus Brutus, who was in the
@@ -13854,11 +12518,7 @@ denarii, as we learn from the writings of M. Varro.[3034] Countries
 even have gained renown for their pigeons; it is thought that those of
 Campania attain the largest size.
 
-
-
-
-CHAP. 54. (38.)—DIFFERENT MODES OF FLIGHT AND PROGRESSION IN BIRDS.
-
+## Chap. 54. (38.)—different Modes of Flight and Progression in Birds
 
 The flight of the pigeon also leads me to consider that of other birds
 as well. All other animals have one determinate mode of progression,
@@ -13898,11 +12558,7 @@ the head upwards; indeed the fact is, that if we were to see several
 kinds at the same moment, we should not suppose that they have to make
 their way in the same element.
 
-
-
-
-CHAP. 55. (39.)—THE BIRDS CALLED APODES, OR CYPSELI.
-
+## Chap. 55. (39.)—the Birds Called Apodes, or Cypseli
 
 Those birds which are known as “apodes”[3035] fly the most of all,
 because they are deprived of the use of their feet. By some persons
@@ -13914,12 +12570,8 @@ cease to hover around it. Other birds settle and come to a stand,
 whereas these know no repose but in the nest; they are always either on
 the wing or else asleep.
 
-
-
-
 CHAP. 56. (40.)—RESPECTING THE FOOD OF BIRDS—THE CAPRIMULGUS, THE
 PLATEA.
-
 
 The instincts, also, of birds are no less varied, and more especially
 in relation to their food. “Caprimulgus”[3036] is the name of a bird,
@@ -13937,12 +12589,8 @@ with shell-fish, shells and all; after the natural heat of its crop has
 softened them, it brings them up again, and then picking out the shells
 from the rest, selects the parts that are fit for food.
 
-
-
-
 CHAP. 57. (41.)—THE INSTINCTS OF BIRDS—THE CARDUELIS, THE TAURUS, THE
 ANTHUS.
-
 
 The farm-yard fowls have also a certain notion of religion; upon laying
 an egg they shudder all over, and then shake their feathers; after
@@ -13958,11 +12606,7 @@ imitates the neighing of the horse; upon being driven from the pasture
 by the approach of the horses, it will mimic their voices—and this is
 the method it takes of revenging itself.
 
-
-
-
-CHAP. 58.—BIRDS WHICH SPEAK—THE PARROT.
-
+## Chap. 58.—birds Which Speak—the Parrot
 
 But above all, there are some birds that can imitate the human voice;
 the parrot, for instance, which can even converse. India sends us
@@ -13976,11 +12620,7 @@ insensible to blows. When it lights on the ground it falls upon its
 beak, and by resting upon it makes itself all the lighter for its feet,
 which are naturally weak.
 
-
-
-
-CHAP. 59.—THE PIE WHICH FEEDS ON ACORNS.
-
+## Chap. 59.—the Pie Which Feeds on Acorns
 
 The magpie is much less famous for its talking qualities than the
 parrot, because it does not come from a distance, and yet it can speak
@@ -14018,12 +12658,8 @@ with their lesson; a person sits by them, and continually repeats the
 words he wishes them to learn, while at the same time he encourages
 them by giving them food.
 
-
-
-
 CHAP. 60. (48.)—A SEDITION THAT AROSE AMONG THE ROMAN PEOPLE, IN
 CONSEQUENCE OF A RAVEN SPEAKING.
-
 
 Let us do justice, also, to the raven, whose merits have been attested
 not only by the sentiments of the Roman people, but by the strong
@@ -14078,11 +12714,7 @@ afraid to go down to the water, by thus accumulating the stones, it
 caused as much water to come within its reach as was necessary to
 satisfy its thirst.
 
-
-
-
-CHAP. 61. (44.)—THE BIRDS OF DIOMEDES.
-
+## Chap. 61. (44.)—the Birds of Diomedes
 
 Nor yet must I pass by the birds[3055] of Diomedes in silence. Juba
 calls these birds “cataractæ,” and says that they have teeth and eyes
@@ -14107,11 +12739,7 @@ and cover their feathers, with water, and so wash and purify the
 temple there. From this circumstance arises the fable[3057] that the
 companions of Diomedes were metamorphosed into these birds.
 
-
-
-
-CHAP. 62. (45.)—ANIMALS THAT CAN LEARN NOTHING.
-
+## Chap. 62. (45.)—animals that Can Learn Nothing
 
 We ought not to omit, while we are speaking of instincts, that among
 birds the swallow[3058] is quite incapable of being taught, and among
@@ -14119,11 +12747,7 @@ land animals the mouse; while on the other hand, the elephant does what
 it is ordered, the lion submits to the yoke, and the sea-calf and many
 kinds of fishes are capable of being tamed.
 
-
-
-
-CHAP. 63. (46.)—THE MODE OF DRINKING WITH BIRDS. THE PORPHYRIO.
-
+## Chap. 63. (46.)—the Mode of Drinking with Birds. The Porphyrio
 
 Birds drink by suction; those which have a long neck taking their drink
 in a succession of draughts, and throwing the head back, as though
@@ -14134,11 +12758,7 @@ then dip its food in the water, and then lift it with its foot to its
 bill, using it as a hand. Those that are the most esteemed are found in
 Commagene. They have beaks and very long legs, of a red colour.
 
-
-
-
-CHAP. 64. (47.)—THE HÆMATOPOUS.
-
+## Chap. 64. (47.)—the Hæmatopous
 
 There are the same characteristics in the hæmatopous[3060] also, a bird
 of much smaller size, although standing as high on the legs. It is a
@@ -14146,21 +12766,13 @@ native of Egypt, and has three toes on each foot; flies[3061] forming
 its principal food. If brought to Italy, it survives for a few days
 only.
 
-
-
-
-CHAP. 65.—THE FOOD OF BIRDS.
-
+## Chap. 65.—the Food of Birds
 
 All the heavy birds are frugivorous; while those with a higher flight
 feed upon flesh only. Among the aquatic birds, the divers[3062] are in
 the habit of devouring what the other birds have disgorged.
 
-
-
-
-CHAP. 66.—THE PELICAN.
-
+## Chap. 66.—the Pelican
 
 The pelican is similar in appearance to the swan, and it would be
 thought that there was no difference between them whatever, were
@@ -14172,11 +12784,7 @@ bit by bit what it has thus stowed away, and reconveys it by a sort of
 ruminating process into its real stomach. The part of Gallia that lies
 nearest to the Northern Ocean produces this bird.
 
-
-
-
-CHAP. 67.—FOREIGN BIRDS: THE PHALERIDES, THE PHEASANT, AND THE NUMIDICÆ.
-
+## Chap. 67.—foreign Birds: The Phalerides, the Pheasant, and the Numidicæ
 
 In the Hercynian Forest, in Germany, we hear of a singular[3063]
 kind of bird, the feathers of which shine at night like fire; the
@@ -14190,12 +12798,8 @@ bird with two tufts of feathers like ears, which it drops and raises
 every now and then. The numidicæ[3066] come from Numidia, a part of
 Africa: all these varieties are now to be found in Italy.
 
-
-
-
 CHAP. 68.—THE PHŒNICOPTERUS, THE ATTAGEN, THE PHALACROCORAX, THE
 PYRRHOCORAX, AND THE LAGOPUS.
-
 
 Apicius, that very deepest whirlpool of all our epicures, has informed
 us that the tongue of the phœnicopterus[3067] is of the most exquisite
@@ -14218,11 +12822,7 @@ delicate eating. Egnatius Calvinus, who was prefect there, pretends
 that he has seen[3074] in the Alps the ibis also, a bird that is
 peculiar to Egypt.
 
-
-
-
-CHAP. 69. (49.)—THE NEW BIRDS. THE VIPIO.
-
+## Chap. 69. (49.)—the New Birds. The Vipio
 
 During the civil wars that took place at Bebriacum, beyond the river
 Padus, the “new birds”[3075] were introduced into Italy—for by that
@@ -14233,11 +12833,7 @@ to the one previously mentioned. There the buteo, a kind of hawk, is
 held in high esteem for the table, as also the vipio,[3077] the name
 given to a small kind of crane.
 
-
-
-
-CHAP. 70.—FABULOUS BIRDS.
-
+## Chap. 70.—fabulous Birds
 
 I look upon the birds as fabulous which are called “pegasi,” and are
 said to have a horse’s head; as also the griffons, with long ears and
@@ -14267,12 +12863,8 @@ it; nor, indeed, is it a bird that is any longer known to exist.
 It will be better, therefore, to confine my relation to those the
 existence of which is generally admitted.
 
-
-
-
 CHAP. 71. (50.)—WHO FIRST INVENTED THE ART OF CRAMMING POULTRY: WHY THE
 FIRST CENSORS FORBADE THIS PRACTICE.
-
 
 The people of Delos were the first to cram poultry; and it is with them
 that originated that abominable mania for devouring fattened birds,
@@ -14296,11 +12888,7 @@ their refinements in luxury, no article is found to please equally in
 every part, for in one it is the thigh, and in another the breast only,
 that is esteemed.
 
-
-
-
-CHAP. 72.—WHO FIRST INVENTED AVIARIES. THE DISH OF ÆSOPUS.
-
+## Chap. 72.—who First Invented Aviaries. The Dish of Æsopus
 
 The first person who invented aviaries for the reception of all kinds
 of birds was M. Lænius Strabo, a member of the equestrian order,
@@ -14324,11 +12912,7 @@ are ready to admit that it was less unseemly to banquet upon the most
 costly of all the productions of Nature, than to devour[3087] tongues
 which had given utterance to the language of man.
 
-
-
-
-CHAP. 73. (52.)—THE GENERATION OF BIRDS: OTHER OVIPAROUS ANIMALS.
-
+## Chap. 73. (52.)—the Generation of Birds: Other Oviparous Animals
 
 The generation of birds would appear to be very simple, while at the
 same time it has its own peculiar marvels. Indeed, there are quadrupeds
@@ -14343,11 +12927,7 @@ lay eggs in considerable numbers. Birds have two modes of coupling,
 the female crouching on the ground, as in the barn-door fowl, or else
 standing, as is the case with the crane.
 
-
-
-
-CHAP. 74.—THE VARIOUS KINDS OF EGGS, AND THEIR NATURE.
-
+## Chap. 74.—the Various Kinds of Eggs, and Their Nature
 
 Some eggs are white, as those of the pigeon and partridge, for
 instance; others are of a pale colour, as in the aquatic birds: others,
@@ -14414,11 +12994,7 @@ are hatched before the vernal equinox: chickens that are hatched after
 the summer solstice, never attain their full growth, and the more so,
 the later they are produced.
 
-
-
-
-CHAP. 75. (54.)—DEFECTS IN BROOD-HENS, AND THEIR REMEDIES.
-
+## Chap. 75. (54.)—defects in Brood-Hens, and Their Remedies
 
 Those eggs which have been laid within the last ten days, are the
 best for putting under the hen; old ones, or those which have just
@@ -14447,11 +13023,7 @@ related about a man at Syracuse, who was in the habit of covering eggs
 with earth,[3100] and then continuing his drinking bout till they were
 hatched.
 
-
-
-
-CHAP. 76. (55.)—AN AUGURY DERIVED FROM EGGS BY AN EMPRESS.
-
+## Chap. 76. (55.)—an Augury Derived from Eggs by an Empress
 
 And, what is even more singular still, eggs can be hatched also by
 a human being. Julia Augusta, when pregnant in her early youth of
@@ -14481,11 +13053,7 @@ she will stand at the margin of the pond, uttering her laments, while
 the ducklings, with Nature for their guide, are diving beneath the
 water.
 
-
-
-
-CHAP. 77. (56.)—THE BEST KINDS OF FOWLS.
-
+## Chap. 77. (56.)—the Best Kinds of Fowls
 
 The breed of a fowl is judged of by the erectness of the crest, which
 is sometimes double, its black wings, reddish beak, and toes of unequal
@@ -14498,11 +13066,7 @@ other kind of bird. These dwarfs, however, rarely lay at any stated
 periods, and their incubation is productive of injury[3102] to the
 eggs.
 
-
-
-
-CHAP. 78. (57.)—THE DISEASES OF FOWLS, AND THEIR REMEDIES.
-
+## Chap. 78. (57.)—the Diseases of Fowls, and Their Remedies
 
 The most dangerous malady with every kind of fowl is that known as the
 “pituita;;”[3103] which is prevalent more particularly between the
@@ -14515,12 +13079,8 @@ mixed with speltmeal, or else is first soaked in water in which an
 owlet has been dipped, or boiled together with the seeds of the white
 vine. There are also some other receipts besides.
 
-
-
-
 CHAP. 79. (58.)—WHEN BIRDS LAY, AND HOW MANY EGGS. THE VARIOUS KINDS OF
 HERONS.
-
 
 Pigeons have the peculiarity of billing before they couple; they
 generally lay two eggs, Nature so willing it, that among birds the
@@ -14593,12 +13153,8 @@ superior in fecundity are the smaller birds. The young ones of the
 swallow are blind at first, as is the case also with almost all the
 birds the progeny of which is numerous.
 
-
-
-
 CHAP. 80.—WHAT EGGS ARE CALLED HYPENEMIA, AND WHAT CYNOSURA. HOW EGGS
 ARE BEST KEPT.
-
 
 The barren eggs, which we have mentioned as “hypenemia,” are either
 conceived by the females when they are influenced by libidinous
@@ -14617,12 +13173,8 @@ packed in bean-meal, or chaff, during the winter, and in bran during
 the summer. It is a general belief, that if kept in salt, they will
 lose their contents.
 
-
-
-
 CHAP. 81. (61.)—THE ONLY WINGED ANIMAL THAT IS VIVIPAROUS, AND NURTURES
 ITS YOUNG WITH ITS MILK.
-
 
 Among the winged animals, the only one that is viviparous is the bat;
 it is the only one, too, that has wings formed of a membrane. This is,
@@ -14631,12 +13183,8 @@ the breast. The mother clasps her two young ones as she flies, and so
 carries them along with her. This animal, too, is said to have but one
 joint in the haunch, and to be particularly fond of gnats.
 
-
-
-
 CHAP. 82. (62.)—TERRESTRIAL ANIMALS THAT ARE OVIPAROUS.—VARIOUS KINDS
 OF SERPENTS.
-
 
 Again, among the terrestrial animals, there are the serpents that are
 oviparous; of which, as yet, we have not spoken. These creatures couple
@@ -14655,11 +13203,7 @@ year. Crocodiles sit on their eggs in turns, first the male, and then
 the female. But let us now turn to the generation of the rest of the
 terrestrial animals.
 
-
-
-
-CHAP. 83. (63.)—GENERATION OF ALL KINDS OF TERRESTRIAL ANIMALS.
-
+## Chap. 83. (63.)—generation of All Kinds of Terrestrial Animals
 
 The only one among the bipeds that is viviparous is man. Man is the
 only animal that repents of his first embraces; sad augury, indeed, of
@@ -14788,11 +13332,7 @@ the quadrupeds, refuse the male, with the exception, indeed, of the
 mare and the sow; superfœtation, however, takes place in none but the
 dasypus and the hare.
 
-
-
-
-CHAP. 84. (64.)—THE POSITION OF ANIMALS IN THE UTERUS.
-
+## Chap. 84. (64.)—the Position of Animals in the Uterus
 
 All those animals that are viviparous produce their young with the head
 first, the young animal about the time of yeaning turning itself round
@@ -14812,11 +13352,7 @@ swine is the only one that bears them in considerable numbers as well;
 and, indeed, several times in the year—a thing that is contrary to the
 usual nature of animals with a solid or cloven hoof.
 
-
-
-
-CHAP. 85.—ANIMALS WHOSE ORIGIN IS STILL UNKNOWN.
-
+## Chap. 85.—animals Whose Origin Is Still Unknown
 
 But it is mice that surpass all the other animals in fecundity; and
 it is not without some hesitation that I speak of them, although I
@@ -14847,11 +13383,7 @@ eggs, as they forget in what place they have laid them, being utterly
 destitute of memory; hence it is that the young ones are hatched
 spontaneously.
 
-
-
-
-CHAP. 86. (66.)—SALAMANDERS.
-
+## Chap. 86. (66.)—salamanders
 
 We find it stated by many authors,[3123] that a serpent is produced
 from the spinal marrow of a man. Many creatures, in fact, among the
@@ -14865,13 +13397,9 @@ way as ice does. It spits forth a milky matter from its mouth; and
 whatever part of the human body is touched with this, all the hair
 falls off, and the part assumes the appearance of leprosy.
 
-
-
-
 CHAP. 87. (68.)—ANIMALS WHICH ARE BORN OF BEINGS THAT HAVE NOT
 BEEN BORN THEMSELVES—ANIMALS WHICH ARE BORN THEMSELVES BUT ARE NOT
 REPRODUCTIVE—ANIMALS WHICH ARE OF NEITHER SEX.
-
 
 Some animals, again, are engendered of beings that are not engendered
 themselves, and have no such origin as those above mentioned, which are
@@ -14892,13 +13420,9 @@ and one which requires to be treated of in a Book[3124] by itself. We
 will, therefore, proceed for the present with our remarks upon the
 instincts of the animals that have been previously mentioned.
 
-
-
-
 CHAP. 88. (69.)—THE SENSES OF ANIMALS—THAT ALL HAVE THE SENSES OF TOUCH
 AND TASTE—THOSE WHICH ARE MORE REMARKABLE FOR THEIR SIGHT, SMELL, OR
 HEARING—MOLES—WHETHER OYSTERS HAVE THE SENSE OF HEARING.
-
 
 Man excels more especially in his sense of touch, and next, in that
 of taste. In other respects, he is surpassed by many of the animals.
@@ -14916,11 +13440,7 @@ sense of hearing, but it is said that immediately a noise is made the
 solen[3125] will sink to the bottom; it is for this reason, too, that
 silence is observed by persons while fishing at sea.
 
-
-
-
-CHAP. 89. (70.)—WHICH FISHES HAVE THE BEST HEARING.
-
+## Chap. 89. (70.)—which Fishes Have the Best Hearing
 
 Fishes have neither organs of hearing, nor yet the exterior orifice.
 And yet, it is quite certain that they do hear; for it is a well-known
@@ -14932,11 +13452,7 @@ wolf-fish, the salpa, and the chromis, have a very exquisite sense of
 hearing, and that it is for this reason that they frequent shallow
 water.
 
-
-
-
-CHAP. 90.—WHICH FISHES HAVE THE FINEST SENSE OF SMELL.
-
+## Chap. 90.—which Fishes Have the Finest Sense of Smell
 
 It is quite manifest that fishes have the sense of smell also; for they
 are not all to be taken with the same bait, and are seen to smell at
@@ -14964,11 +13480,7 @@ attracted by acids, but not by anything sweet.
 other sense; for even in the oyster, and, among land animals, in the
 worm, this sense is found.
 
-
-
-
-CHAP. 91.—DIVERSITIES IN THE FEEDING OF ANIMALS.
-
+## Chap. 91.—diversities in the Feeding of Animals
 
 I am strongly inclined to believe, too, that the sense of taste exists
 in all animals; for why else should one seek one kind of food, and
@@ -14983,11 +13495,7 @@ diversity is there in the uses they make of their feet, for the purpose
 of carrying, tearing asunder, holding, squeezing, suspending[3128]
 their bodies, or incessantly scratching the ground.
 
-
-
-
-CHAP. 92. (72.)—ANIMALS WHICH LIVE ON POISONS.
-
+## Chap. 92. (72.)—animals Which Live on Poisons
 
 Roe-bucks and quails[3129] grow fat on poisons, as we have already
 mentioned, being themselves the most harmless of animals. Serpents
@@ -15002,12 +13510,8 @@ folds, it will suck the contents. In the same manner, too, when it has
 swallowed a bird whole, it will make a violent effort, and vomit the
 feathers.
 
-
-
-
 CHAP. 93.—ANIMALS WHICH LIVE ON EARTH—ANIMALS WHICH WILL NOT DIE OF
 HUNGER OR THIRST.
-
 
 Scorpions live on earth. Serpents, when an opportunity presents itself,
 show an especial liking for wine, although in other respects they need
@@ -15040,11 +13544,7 @@ in a domesticated state. All animals ruminate lying in preference to
 standing, and more in winter than in summer, mostly for seven months
 in the year. The Pontic mouse[3133] also ruminates in a similar manner.
 
-
-
-
-CHAP. 94.—DIVERSITIES IN THE DRINKING OF ANIMALS.
-
+## Chap. 94.—diversities in the Drinking of Animals
 
 In drinking, those animals which have serrated[3134] teeth, lap; and
 common mice do the same, although they belong to another class. Those
@@ -15067,12 +13567,8 @@ a bird! How slily they will sit and watch, and then dart out upon a
 mouse! These animals scratch up the earth and bury their ordure, being
 well aware that the smell of it would betray their presence.
 
-
-
-
 CHAP. 95. (74.)—ANTIPATHIES OF ANIMALS. PROOFS THAT THEY ARE SENSIBLE
 OF FRIENDSHIP AND OTHER AFFECTIONS.
-
 
 Hence there will be no difficulty in perceiving that animals are
 possessed of other instincts besides those previously mentioned. In
@@ -15123,11 +13619,7 @@ seized with vertigo, coil round and round, while it finds itself unable
 to take to flight, or so much as to break the web of the spider, as it
 hangs suspended above; this scene only ends with its death.
 
-
-
-
-CHAP. 96.—INSTANCES OF AFFECTION SHOWN BY SERPENTS.
-
+## Chap. 96.—instances of Affection Shown by Serpents
 
 On the other hand, there is a strict friendship existing between the
 peacock and the pigeon, the turtle-dove and the parrot, the blackbird
@@ -15148,11 +13640,7 @@ upon which, returning to its food as usual, and becoming sensible of
 the crime, it immediately killed the young one, and returned to the
 house no more.
 
-
-
-
-CHAP. 97. (75.)—THE SLEEP OF ANIMALS.
-
+## Chap. 97. (75.)—the Sleep of Animals
 
 The question as to their sleep, is one that is by no means difficult
 to solve. In the land animals, it is quite evident that all that have
@@ -15174,11 +13662,7 @@ It is quite evident, also, that insects sleep, from the silent
 stillness which they preserve; and even if a light is put close to
 them, they will not be awoke thereby.
 
-
-
-
-CHAP. 98.—WHAT ANIMALS ARE SUBJECT TO DREAMS.
-
+## Chap. 98.—what Animals Are Subject to Dreams
 
 Man, just after his birth, is hard pressed by sleep for several months,
 after which he becomes more and more wakeful, day by day. The infant
@@ -15239,10 +13723,7 @@ on Agriculture, Dionysius[3201] who translated Mago, Diophanes[3202]
 who made an Epitome of Dionysius, Nicander,[3203] Onesicritus,[3204]
 Phylarchus,[3205] Hesiod.[3206]
 
-
-
-
-FOOTNOTES:
+## Footnotes
 
 [1] Or the “Hospitable” Sea, now the Black Sea.
 
@@ -29685,22 +28166,14 @@ prætor Sextilius.
 
 [3206] See end of B. vii.
 
+## End of Vol. II
 
-END OF VOL. II.
-
-
-
-
-ERRATA IN VOL. I.
-
+## Errata in Vol. I
 
   Page vii. line 31, _for_ Coisicius, _read_ Cossicius.
    „  xvii.  „   15, _for_ pepole, _read_ people.
    „ xviii.  „   30, _for_ Fabulosetas, _read_ Fabulositas.
    „   378,  „   20, _for_ Goat-Pens, _read_ Goat-Pans.
-
-
-
 
 Transcriber’s Notes:—
 

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 10
 
-**CHAPTER 10.**
+***Chapter 10.***
 
 ## Genesis 10:1-32
 

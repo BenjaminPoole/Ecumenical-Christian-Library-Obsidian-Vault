@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - philipp-melanchthon
 ---
-
 # 1. Apology of the Augsburg Confession About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## Apology of the Augsburg Confession
 
 ### By
 

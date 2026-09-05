@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/19th-century
 ---
-
 # Pastor Aeternus
 
 ## SESSION 4: 18 July 1870
@@ -100,7 +99,7 @@ This doctrine is **to be believed** and held by all the faithful in accordance w
 
 Furthermore, we shall proscribe and condemn the contrary errors which are so harmful to the Lord’s flock.
 
-Chapter 1 On the institution of the apostolic primacy in blessed Peter
+## Chapter 1 On the institution of the apostolic primacy in blessed Peter
 
 We *teach and declare* that,
 
@@ -114,7 +113,7 @@ was **immediately and directly**
 
 **conferred** on him by Christ the lord.
 
-[PROMISED]
+## [Promised]
 
 It was to Simon alone,
 
@@ -132,7 +131,7 @@ Blessed are you, Simon Bar-Jona. For flesh and blood has not revealed this to yo
 
 And I tell you, you are Peter, and on this rock I will build my church, and the gates of the underworld shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven [43].
 
-[CONFERRED]
+## [Conferred]
 
 And it was to Peter alone that Jesus,
 
@@ -156,7 +155,7 @@ it was a primacy of honour only and not one of true and proper jurisdiction that
 
 let him be **anathema**.
 
-Chapter 2. On the permanence of the primacy of blessed Peter in the Roman pontiffs
+## Chapter 2. On the permanence of the primacy of blessed Peter in the Roman pontiffs
 
 That which our lord Jesus Christ, the prince of shepherds and great shepherd of the sheep, established in the blessed apostle Peter, for the continual salvation and permanent benefit of the church, must of necessity remain for ever, by Christ’s authority, in the church which, founded as it is upon a rock, will stand firm until the end of time [45].
 
@@ -176,7 +175,7 @@ the Roman pontiff is not the successor of blessed Peter in this primacy:
 
 let him be **anathema**.
 
-Chapter 3. On the power and character of the primacy of the Roman pontiff
+## Chapter 3. On the power and character of the primacy of the Roman pontiff
 
 And so,
 
@@ -284,7 +283,7 @@ this power of his is not **ordinary and immediate** both over all and each of th
 
 let him be **anathema**.
 
-Chapter 4. On the infallible teaching authority of the Roman pontiff
+## Chapter 4. On the infallible teaching authority of the Roman pontiff
 
 That apostolic primacy which the Roman pontiff possesses as successor of Peter, the prince of the apostles, includes also the supreme power of teaching.
 

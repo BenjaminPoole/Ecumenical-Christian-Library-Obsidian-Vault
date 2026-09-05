@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Good Talk
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3399
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Talk you of all His wondrous works." 1 Chronicles 16:9.
 
@@ -41,7 +38,7 @@ God's aid has been very wonderful! There have been miracles, heaped upon miracle
 
 There is a topic for you—and you never shall know how large it is.
 
-II. THE EXCELLENCY OF THIS SUBJECT IS BOTH NEGATIVE AND POSITIVE.
+## II. The Excellency of This Subject Is Both Negative and Positive
 
 Were we to talk more of God's wondrous works, there would be this negative good, that we should talk less about our own works. A man never lowers himself more than when he tries to lift himself up. There are some whose propensity is to use vain swelling words about their own doings—and they seem to be never better pleased than when they are bragging and saying, "I did this. I did that. I did the other." "Talk you of all His wondrous works." As for your puny actions, if you judge and estimate them properly, you will find more to mourn over than to boast of! Give to the Lord the glory that is due unto His name and your discretion shall not be periled.
 
@@ -67,7 +64,7 @@ The spirit of observing God in all things was prevalent among our Puritan ancest
 
 And Beloved, while holding this lofty fellowship of heart and tongue, how would our gratitude glow and what an impulse would be given to our entire life!I do not know how you find it, but with me it is no easy matter to maintain spiritual life in the fullness of its vigor. To go week after week, month after month, and year after year, plodding on in the pilgrimage is hard work! It needs no small degree of strength, resolve and skill. If it were one tremendous leap, we could soon perform it. If it were but a spurt in the race, we might soon win the prize—but to go on, on, on—and still to keep up our zeal, still to be awake, still to be earnest—here it is one feels the need of the mercies of God to be means of Grace to us, to refresh our gratitude and put fresh fuel upon the altar. Oh, Brothers and Sisters, we have not lived yet! We do not seem to recognize what the Christian life really means! When I instanced our conversation just now as being poor, and mean, and barren, I did but cull one mildewed leaf out of the whole field, for I fear our whole life is much alike. Lord, revive us! What means is He likely to use except He employs the rod of chastisement as the renewal of our memory of His great loving kindness, that we may be constrained to dedicate ourselves more fully unto Him? But times flies. Let me proceed, therefore—
 
-III. TO URGE THIS TALKING, ORDINARILY AND COMMONLY, ABOUT GOD'S WONDROUS WORKS.
+## III. To Urge This Talking, Ordinarily and Commonly, About God's Wondrous Works
 
 I have already said that it would prevent much evil and do us much good. May I not safely add that it would be the means of doing much good to others? If we spoke often of God's wondrous works, we might impress the sinner. We might enlighten the ignorant. We might comfort the desponding. You say, "But how are we to do it?" I reply, "How is it you have notdone it before?" If we began early in our Christian course to make Jesus Christ our companion in the family and everywhere we went—and to take Him always with us—we would never leave off! It would become the business of our life! I have noticed that many Christian people delay in this matter for years. They cultivate habits of retirement and reticence more upon this subject than upon any other! Perhaps it is a long time after they have believed that they come forward to obey the second great command of Baptism—and the same shyness happens with regard to their talking about Christ in all companies. They do love Him—at least in the judgment of charity, we trust they do. We acknowledge them, but having never began at the first to acknowledge Him openly, they cannot break the ice now. If they had then had the courage to say, "I have given Christ my tongue and mean to use it for Him. I am His servant and I mean to serve Him wherever I go," they would still have continued the profession and the practice! Brothers and Sisters, is it shyness that restrains you? Take care it is shyness and not cowardice! Say to yourselves, each one of you—
 
@@ -85,7 +82,7 @@ Oh, that there should be any here who never thought of God, much less talked of 
 
 The Lord grant it, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 142; 143.
+## Exposition by C. H. Spurgeon: Psalm 142; 143
 
 "MaschilofDavid."An instructive Psalm of David, for we speak to one another in Psalms, hymns and spiritual songs, and they are a means of instruction as well as a means of utterance of praise. "A prayer when he was in the cave" and, therefore, likely to suit any of you who are in trouble—a prayer when he hid away from Saul and was hunted like a partridge upon the mountains—"A prayer when he was in the cave."
 
@@ -111,7 +108,7 @@ Verse 1. I cried unto the LORD with my voice; with my voice unto the LORD did I 
 
 7\. The righteous shall compass me about; for You shall deal bountifully with me. Lord, if You are kind to me, all Your people will hear of it. When I get out of prison, they will say, one to another, "Such-and-such a Brother has been cheered and comforted. His face has changed. He is no more sad." And they will come round me. They will begin to ask me how it came about. Thus I shall tell out Your praises—encourage others and get to You a great and glorious name, if You shall deal bountifully with me. Now, the next Psalm, much after the same fashion.
 
-PSALM143.
+## Psalm 143
 
 "A Psalm of David."
 
@@ -134,7 +131,6 @@ Verse 1. Hear myprayer, O LORD, give ear to my supplications: in Your faithfulne
 11\. Quicken me, O LORD, for Your name's sake. He felt as if he would die and, therefore, he says, "Quicken me: put new life into me." To whom should we go for life, but to the living God? And who can communicate with us but the same God who first made us live in His name?
 
 11, 12. For Your righteousness 'sake bring my soul out oftrouble. And of Your mercy cut offmy enemies and destroy all them that afflict my soul, for I am Your servant.
-
 
 ---
 [[Sermon 3398 Love's Great Reason|← #3398]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3400 The Day of Atonement|#3400 →]]

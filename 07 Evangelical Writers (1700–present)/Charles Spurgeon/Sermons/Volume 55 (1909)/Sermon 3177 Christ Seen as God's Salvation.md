@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Christ Seen as God's Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3177
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My eyes have seen Your Salivation." Luke 2:30.
 
@@ -107,7 +104,7 @@ I have no time for more. I wish I had. But I want to say this final word to ever
 
 my eyes saw His Salvation. In my sickness and in my death, I did but see it all the more clearly because of the clouds and darkness that were round about me!" God bless you, dear Friends! I earnestly pray that you may all see God's Salvation! May He hear the prayer, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE2:1-40.
+## Exposition by C. H. Spurgeon: Luke 2:1-40
 
 Verses 1-9. And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed. (And this taxing was first made when Cyrenius was governor of Syria). And all went to be taxed, every one into his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem, (because he was of the house and lineage of David), to be taxed with Mary, his espoused wife, being great with child. And so it was, that while they were there, the days were accomplished that she should be delivered. And she brought forth her first-born Son and wrapped Him in swaddling clothes and laid Him in a manger, because there was no room for them in the inn. And there were in the same country, shepherds abiding in the field, keeping watch over their flocks by night And, lo, the angel of the Lord came upon them and the Glory of the Lord shone round about them: and they were sorely afraid. These men were probably poor and illiterate, but that did not hinder God from revealing Himself to them, nor prevent the coming of His Son to them! They were engaged in their ordinary calling, "keeping watch over their flocks by night," when this great blessing came to them. Seldom does such a blessing as this come to idlers. It was not while they were gadding abroad and wasting their time, but while they kept watch over their flocks that "the angel of the Lord came upon them." First one angel led the way and then a multitude of the heavenly host followed and these poor men, perhaps troubled with the common superstition of the Jews that the appearance of God, or any supernatural visitation, would always be followed by death, "were sorely afraid."
 
@@ -144,7 +141,6 @@ Grace."
 and dead in trespasses and sins! Our Savior was not only to be received by men, but He was to be welcomed by women also, so now we read.
 
 36-40. And there was one Anna, a Prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age and had lived with her husband seven years from her virginity; and she was a widow of about 84 years, which departed not from the Temple, but served God with fasting and prayers night and day. And she coming in that instant, gave thanks, likewise, unto the Lord, and spoke of Him to all them that looked for redemption in Jerusalem. And when they had performed all things according to the Law of the Lord, they returned into Galilee, to their own city Nazareth. And the Child grew and waxed strong in spirit, filled with wisdom: and the Grace of God was upon Him.
-
 
 ---
 [[Sermon 3176 The Beauty Of The Olive Tree|← #3176]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]]

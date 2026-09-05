@@ -495,13 +495,13 @@ Concerning our Lord — that He is the Son of God, yea God.
 
 Addæus, who brought the bridegroom's ring and put it on her hand,
 
-Betrothed her thus to the Son of God, who is the Only- begotten.
+Betrothed her thus to the Son of God, who is the Only-begotten.
 
 Sharbil the priest, who made trial and proof of all gods,
 
 Died, even as he said, for God who became man.
 
-Shamuna and Guria, for the sake of the Only- begotten,
+Shamuna and Guria, for the sake of the Only-begotten,
 
 Stretched out their necks to receive the stroke, and for Him died, forasmuch as He is God.
 
@@ -543,7 +543,7 @@ And despises and contemns him that maligns His corporeal nature.
 
 And she recognises Him as One in Godhead and in manhood —
 
-The Only- begotten, whose body is inseparable from Him.
+The Only-begotten, whose body is inseparable from Him.
 
 And thus did the daughter of the Parthians learn to believe,
 

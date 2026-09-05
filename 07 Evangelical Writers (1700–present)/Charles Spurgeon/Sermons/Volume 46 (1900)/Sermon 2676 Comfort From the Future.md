@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Comfort From the Future
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2676
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You shall forget your misery, and remember it as waters that pass away." Job 11:16.
 
@@ -91,7 +88,7 @@ This is the sum and substance of all that I have been trying to say to you—"Be
 
 Now that, by God's mercy, I again find myself in your midst after a season of sore suffering, I desire to forget my miseries—and some of them have been very sharp ones. I am so glad to be here, again, to see you all, and I pray that it may be a long time before I am deprived of the great privilege of speaking to you in the name of the Lord. I bless God tonight and praise His name in the great congregation. And I ask for every Brother and Sister that, when your time of misery comes, you may be brought through it all and come out of the big end of the horn, rejoicing in the cornucopia of God's bounty and blessedness, and praising His name, as I do at this time with all my heart! Oh, may every one of you find this text to be true to you, "You shall forget your misery, and remember it as waters that pass away"! The blessing of the Lord be with you all forevermore! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB 11.
+## Exposition by C. H. Spurgeon: Job 11
 
 The words we are about to read were spoken by one of Job's three friends—or what if I call them his three tormentors? These men did not speak wisely and their argument was not altogether sound. But, for all that, in the instance before us, Zophar the Naamathite spoke that which was truthful. Although he made a great mistake in turning it against Job, yet what he said was, in the main, correct, and we may learn from it as we read it. Remember, dear Friends, that whenever you read the words of these three men, you must take them with a good many grains of salt. They are not to be
 
@@ -128,7 +125,6 @@ man would be wise."
 20\. And their hope. The last thing that ever dies, "their hope"—
 
 20\. Shall be as the giving up of the ghost Like death itself, their hope shall be. Then, if "their hope shall be as the giving up of the ghost," what hope is there for them? Let us not have our portion with them, else we shall be as hopeless as they are!
-
 
 ---
 [[Sermon 2675 Jehovah's Challenge|← #2675]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2677 Spiritual Religion|#2677 →]]

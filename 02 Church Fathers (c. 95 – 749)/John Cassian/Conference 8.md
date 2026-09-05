@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 8
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE SECOND CONFERENCE OF ABBOT SERENUS. ON PRINCIPALITIES.
+## The Second Conference of Abbot Serenus. On Principalities
 
 ## Chapter 1
 

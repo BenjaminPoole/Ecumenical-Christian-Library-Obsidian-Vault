@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 59. Respecting the Payment of tribute
 
 **Another Supplement**
-
-**respecting the Payment of Tribute**
 
 **Exodus 30**
 

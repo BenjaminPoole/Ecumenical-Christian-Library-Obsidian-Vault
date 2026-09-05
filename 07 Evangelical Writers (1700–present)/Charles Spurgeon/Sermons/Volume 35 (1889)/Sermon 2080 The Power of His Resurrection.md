@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Power of His Resurrection
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2080
 
-DELIVERED ON LORD'S DAY MORNING, APRIL 21, 1889,.
+*Delivered on Lord's Day Morning, April 21, 1889*
 
 > "That I may know Him and the power of His resurrection." Philippians 3:10.
 
@@ -170,7 +169,6 @@ The opposition of men might have proved a dark den in which the cause of God sho
 That is my close. I desire that you should feel resurrection power. We have many technical Christians who know the phrases of godliness but know not the power of godliness. We have ritualistic Christians who treasure the outward but know not the power. We have many moral religionists, but they also know not the power. We are pestered with conventional, regulation Christians. Oh, yes, no doubt we are Christians. But we are not enthusiasts, fanatics, nor even as this bigot. Such men have a name to live and are dead. They have a form of godliness but deny the power of it.
 
 I beseech you, my Hearers, be not content with a Truth of God till you feel the force of it. Do not praise the spiritual food set before you, but eat of it till you know its power to nourish. Do not even talk of Jesus till you know His power to save. God grant that you may know the powers of the world to come, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2079 Man Unknown To Man|← #2079]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2081 Truth Stranger Than Fiction|#2081 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 44
-
-**PSALM 44**
 
 This psalm is divided into three principal parts. In the beginning of it the faithful record the infinite mercy of God towards his people, and the many tokens by which he had testified his fatherly love towards them. Then they complain that they do not now find that God is favorable towards them, as he had formerly been towards their fathers. In the third place, they refer to the covenant which God had made with Abraham, and declare that they have kept it with all faithfulness, notwithstanding the sore afflictions to which they had been subjected. At the same time, they complain that they are cruelly persecuted for no other cause but for having continued steadfastly in the pure worship of God. In the end, a prayer is added, that God would not forget the wrongful oppression of his servants, which especially tends to bring dishonor and reproach upon religion.
 

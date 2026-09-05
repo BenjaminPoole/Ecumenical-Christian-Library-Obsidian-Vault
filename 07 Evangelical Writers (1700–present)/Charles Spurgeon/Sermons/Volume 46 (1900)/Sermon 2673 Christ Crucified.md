@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Christ Crucified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2673
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For I determined not to know anything among you except Jesus Christ and Him crucified." 1 Corinthians 2:2.
 
@@ -154,7 +151,6 @@ also. I was left for a time, and yet I was not finally left. I cried, 'Lama Saba
 27\. All the ends of the world shall remember and turn unto the Lord: and all the kindreds of the nations shall worship before You. He sees the result of His death. He beholds the fruit of His soul-travail and His heart is glad within Him!
 
 28-31. For the kingdom is the Lord's: and He is the Governor among the nations. All they that are fat upon earth shall eat and worship: all they that go down to the dust shall bow before Him: and none can keep alive his own soul A seed shall serve Him; it shall be accounted to the Lord for a generation. They shall come and shall declare His righteousness unto a people that shall be born, that He has done this. The Psalm really ends with almost the last cry of our Lord upon the Cross—"It is finished." So the whole Psalm is a window through which we can see into the inmost heart of Christ when it was being torn upon the Cross.
-
 
 ---
 [[Sermon 2672 Neither Forsaken Nor Forgotten|← #2672]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2674 Learning in Private What to Teach in Public|#2674 →]]

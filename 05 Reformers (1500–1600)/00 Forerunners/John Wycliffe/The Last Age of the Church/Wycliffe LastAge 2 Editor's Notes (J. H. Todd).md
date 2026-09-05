@@ -10,11 +10,9 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 2. Editor's Notes (J. H. Todd)
 
 *Todd's notes to the 1840 Dublin edition, printed there as sidenotes and gathered here as they stand in the Project Gutenberg text.*
-
 
 [1] Milner, Hist. of the Church, vol. iv. p. 121. Lond. 1819.
 
@@ -257,8 +255,6 @@ Words*; in voc.)
 [104] *Petri Comestoris* Hist. Schol. 8ᵒ. Florent. 1526. *fol.* cxvii.
 
 [105] Berchorii *Red. Mor.* lib. xiv. c. 60. n. 4. p. 658. fol. Venet.
-
-1683.
 
 [106] *Gesta Romanorum*, &c. translated from the Latin by the Rev.
 

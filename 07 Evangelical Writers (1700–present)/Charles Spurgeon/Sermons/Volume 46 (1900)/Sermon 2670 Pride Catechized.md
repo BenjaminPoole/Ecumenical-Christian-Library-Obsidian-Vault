@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Pride Catechized
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2670
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Should it be according to your mind? He will recompense it whether you refuse, or whether you choose; and not I: therefore speak what you know." Job 34:33.
 
@@ -100,7 +97,6 @@ He cannot possibly punish sin, or put men to pain. But He does it. Hear the cry 
 It is well for us to speak of God as we have found Him. He has dealt kindly and graciously with us—"He has not dealt with us after our sins; nor rewarded us according to our iniquities"—else had we been cast away forever. We long that others may be able to speak of God in the same way—not saying what they would have Him to be, but what He has revealed Himself to be in nature, in Providence and especially in Grace. Let us all come humbly to His feet! He bids us look to His dear Son and so find peace and salvation. If we will not do so, there is nothing for us but to be driven from His Presence and from the glory of His power, world without end.
 
 Will we dare to defy Him? Have we the impiety to do so? O God, humble us! Beneath the terror of Your majesty, the glory of Your righteousness and the supreme splendor of Your love, bow us down to accept Your Grace and to become Yours forever and ever! God grant that it may be so, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2669 Comfort From Christ's Omniscience|← #2669]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2671 A Sincere Summary—and a Searching Scrutiny|#2671 →]]

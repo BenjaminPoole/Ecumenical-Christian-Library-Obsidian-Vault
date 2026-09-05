@@ -12,16 +12,13 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Exhortation—"Set Your Heart"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1884
 
-DELIVERED BY.
-
 > "Now set your heart and your soul to seek the Lord your God." 1 Chronicles 22:19.
 
-THE PASTOR'S RETURN. THREE SPECIALLY- SELECTED SERMONS TO HIS CHURCH, CONGREGATION, READERS AND FRIENDS, CONSISTING OF
+## The Pastor's Return. Three Specially- Selected Sermons to His Church, Congregation, Readers and Friends, Consisting Of
 
 A RETROSPECT, A PROSPECT [No. 1883] AND AN EXHORTATION [No. 1884.]
 
@@ -96,7 +93,6 @@ nature at first—born in the image of Christ Jesus at last! Oh, how happy the m
 There is an old saying that, "Half a loaf is better than no bread," but that saying is not true spiritually. A man who has half a loaf of his own never seeks the Bread which came down from Heaven. The man who has no bread at all is in a better case, for he is more likely to come to the banquet of Divine Grace. Come, you starving ones, and eat of the Bread of Heaven! Believe and live! Faith brings God to you and you to God! Therefore believe and seek—seek and believe!
 
 The Lord send all of you home with my text ringing in your ears, "Now set your heart and your soul to seek the Lord your God."
-
 
 ---
 [[Sermon 1883 Prospect—He Will Keep|← #1883]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1885 The Problem of the Age|#1885 →]]

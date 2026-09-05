@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Maschil Of Ethan, A Majestic Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1565
-
-DELIVERED BY.
 
 > "I will sing of the mercies of the Lord forever: with my mouth will I make known Your faithfulness to all generations. ForIhave said, Mercy shall be built up forever: Your faithfulness shall You establish in the very heavens." Psalm 89:1,2.
 
@@ -136,7 +133,6 @@ Is but to love and sing,
 And wait until the angels come,
 
 To bear me to my King!"
-
 
 ---
 [[Sermon 1564 Desires Towards God—a Sermon For The Weak|← #1564]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1566 Cheer for the Worker and Hope for London|#1566 →]]

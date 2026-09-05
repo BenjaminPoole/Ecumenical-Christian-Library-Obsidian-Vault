@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Intercession and Supplication
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2745
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Are You not He, O Lord our God? Therefore we will wait for You" Jeremiah 14:22.
 
@@ -95,7 +92,7 @@ too late!"
 
 The Lord grant that it may not be so. But, because it is true, therefore wait upon God, now, for there is no hope anywhere else.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH14.
+## Exposition by C. H. Spurgeon: Jeremiah 14
 
 In some respects, Jeremiah is one of the greatest of the ancient Prophets, for he had a most sorrowful task to perform. He had not to deliver a message full of Evangelical comfort, like that of Isaiah, nor had he gorgeous visions of coming kingdoms, as Ezekiel had. He was the Cassandra of his age. Jeremiah spoke the Truths of God, yet few believed him. His life was spent in sighing over a wicked people who rejected and despised him. He bore a heavy burden upon his heart and tears continually wet his cheeks, so that he was rightly called "the weeping Prophet." This chapter gives us an illustration of the style in which he used to pray.
 
@@ -130,7 +127,6 @@ wickedness upon them. That seems to be a hard answer to Jeremiah's pleading—wh
 21\. Do not abhor us for Your name's sake, do not disgrace the Throne of Your Glory: remember, break not Your Covenant with us. Now he is actually getting to praying. He cannot help himself. He is told that he must not pray, but he feels that he must—he loves the people so much that he must plead for them.
 
 22\. Are there any among the vanities of the Gentiles that can cause rain! Or can the heavens give showers? Are You not He, O LORD our God? Therefore we will wait for You: for You have made all these things. O splendid perseverance of importunity—strong resolve of a forbidden intercession! "You, O Lord our God, tell us not to pray, but we cannot restrain our supplication—'Therefore we will wait for You.'" God help us all to wait for Him! We are not so discouraged from praying as he was who spoke these words, so there is still more reason why we should say to the Lord, "Therefore we will wait for You."
-
 
 ---
 [[Sermon 2744 Lost Through One-Saved Through One|← #2744]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2746 The Nature and Design of Divine Chastening|#2746 →]]

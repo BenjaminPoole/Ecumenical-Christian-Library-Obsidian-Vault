@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 61. Decade 5, Sermon 3
 
 The exposition touching the church of God shall be trulier understood, brethren, by those things which remain to be spoken out of the word of the Lord concerning the ministry and ministers of the church. For I said, the church of God is builded and preserved by the word of God ; and that, through ministers appointed for that purpose by the Lord : so that now it followeth to speak of the ministers of the church, and of their ministry, that is, of that order wherewith God governeth his church.
@@ -52,8 +51,6 @@ men. But such is our weakness and corruption through sin, we cannot abide the me
 
 [14 in nos, Lat., but Erasmus, in vos.]
 
-96 THE FIFTH DECADE. [SERM.
-
 sins soever ye remit, they are remitted unto thein ; and whose sins soever you do retain, they are retained."
 
 Let every But some, wresting these places of the holy scripture piven to him against the natural sense, do give the ministers an equal power longeth: i m a manner with Christ; and that which onlv pertaineth unto mean, both to , " •*•
@@ -78,8 +75,6 @@ power with the king, neither are they kings with the king or for the king ; but 
 
 [bullinger, IV.]
 
-98 THE FIFTH DECADE. [sERM.
-
 sion of sins1: whereupon also they attribute all the means of life, salvation, and delivery, to the only deliverer Christ.
 
 1 cor. iii. iv. Paul in another place calleth ministers, " fellow -labourers with God ;" and afterward again, " disposers of the secrets of God." For the salvation which the Son of God hath only wrought, and which he also only giveth, the ministers preach or dispose2, and so they are "fellow-labourers." The same apostle out of the doctrine of the gospel, which resem-
@@ -96,8 +91,6 @@ Wherefore, when in another place St Paul saith, "Ye2Cor. are the epistle of Chri
 
 [4 Omnes regni illius homines docibiles Dei erunt, non ab hominibus audient. Etsi ab hominibus audiunt, tamen quod intelligunt intus datur, intus coruscat, intus revelatur. Quid faciunt homines forinsecus annunciantes ? Quid facio ego modo cum loquor? Strepitum verborum ingero auribus vestris : nisi vero revelet ille qui intus est, quid dico, quid loquor? Exterior cultor arboris, interior est creator. Qui plantat et qui rigat, extrinsecus operatur ; hoc facimus nos : sed neque qui plantat est aliquid, neque qui rigat ; sed qui incrementum dat, Deus. Hoc est, Erunt omnes docibiles Dei. — Id. Tract, in Joan. 26. Tom. ix. fol. 47. col. 1. See also Vol. I. p. 86.]
 
-100 THE FIFTH DECADE. [SERM.
-
 ink, but with the Spirit of the living God; not in stony tables, but in fleshy tables of the heart ;" we must diligently put a difference between the work of the Spirit, and the work of man or of the minister. The minister doth not take on him the honour of God and the work of the Spirit, but his own work, that is to say, the ministry. Paul preacheth, and writeth with ink ; but the Spirit of God moveth the heart ; and with his grace, or anointing, he writeth in the very heart : so he worketh together with God, Paul working his proper work, and the Spirit working his work. The apostles are preachers and ministers of the gospel, not of the letter, but of the Spirit : not that they give the Holy Ghost, but because they are preachers of the gospel, that is, of that which giveth the Spirit of Christ1, yea, which poureth it into the believers : but they are not preachers of the letter of the law, which doth not give grace and remission of sins, but worketh wrath and bringeth sin to light. Touching the keys and the power of the keys, there will be elsewhere a more fit place to speak. And moreover it seemeth that here is a meet place for those things, which I have disputed of in the first sermon of this decade, touching the power and ministry of the church.
 
 Again ; whereas the Lord useth in teaching his church man's help, and us as labourers together in finishing the salvation of mankind2, he sheweth most evidently how greatly he loveth us, and how much he esteemeth of us ; who hath laid up so great a treasure in earthen vessels, and even in us ourselves worketh whatsoever is most excellent, and overcometh all the high excellency of the world. Whereby we learn again to attribute all the glory unto Christ, Paul again 2 cor. iv. teaching us, and saying : " We preach not ourselves, but Jesus Christ the Lord ; and ourselves your servants for Jesus' sake. For it is God, that commanded the light to shine out of darkness, who hath slimed in our hearts, for to give the light of knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us. We are afflicted on every side, yet are we not in distress, &c." Moreover, all the members of the ecclesiastical body are
@@ -113,8 +106,6 @@ Out of these things let us also derive this; that the eccle-
 [5 See Vol. ii. p. 128.]
 
 [6 instaurationem, Lat. and Erasmus.]
-
-102 THE FIFTH DECADE. [sERM.
 
 siastical ministry, though it be executed by men, yet is it Ttiebecinnot of man, that is to sav, invented by man. For the begin- niiiK of the n -i 111 • ministry, and nj,-,fr thereof is from heaven, and the author or institutor the worthi- & ness thereof, thereof is God liimself; and therefore the worthiness of it doth greatly excel.
 
@@ -133,8 +124,6 @@ But before we proceed anv further in other things That the belonsins: to this ma
 [4 Nos itaque sic audiamus evangelium tanquam prsesentem Dominum, nee dicamus, O illi felices, qui eum videre (Bullinger read audire) potuerunt : quia multi in eis qui viderunt, et occiderunt ; multi autem in nobis qui non viderunt, et crediderunt. Quod enim pretiosum sonabat de ore Domini, et propter nos scriptum est, et nobis servatum est, et propter nos recitatur, et propter posteros recitabitur, et donee seculum finiatur. Sursum est Dominus, sed etiam hie est Veritas Dominus. Corpus enim Domini, in quo resurrexit, uno loco esse potest : Veritas ejus ubique diffusa est. Dominum ergo audiamus, et quod ipse donaverit de verbis ejus. — August. Tract, in Joan. xxx. Opp. Tom. ix.]
 
 [5 Imo, Lat. : Nay.] [6 Bullinger. adv. Anabnpt. Lib. n. cap. 4.]
-
-104 THE FIFTH DECADE. [sERM.
 
 so we say, by that kind of speech and figurative saying that he meant nothing else, than that the knowledge of God and heavenly things should be very common in the whole world ; which Joel also foretold would come to pass, and which Peter allegeth in the Acts, second chapter. In the meanwhile these two prophets, as also all other very often, do make mention of the teachers of the church, whom the Lord should send unto his people : which they would not have done, if they had understood that all preachers should be taken clean away. Whereas How an other object, that all have the office of teaching committed alike unto them, to wit, parents to teach their children, and every one to admonish his neighbour ; therefore that there is no need of the ministry of the word of God in the church : it is sophistical. For all of us can and ought privately to teach and admonish our children and our neighbours ; but therefore the public ministry of the word of God is not superfluous. For Deut. vi. the same God, which commanded parents and us all that they should instruct their children in godliness, and that every one of us also should teach and admonish our neighbours, hath given public ministers unto the church. It is their office to teach openly or publicly in the church ; neither is this permitted to whomsoever will, but only to them that be lawfully ordained ; lest happily, if other teach, they should not go forward in the right path ; for then it were lawful for every one, being inspired with the Spirit of God, at what time and place soever, both soberly to gainsay and to affirm the truth. Therefore the public ministry of the word remaineth nevertheless, and that perpetually, in the church.
 
@@ -156,9 +145,9 @@ An evangelist is a preacher of the gospel of Jesus Christ, Evangelists. sent wit
 
 10G
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Doctors or teachers.
 
@@ -188,9 +177,9 @@ the church out of the synagogue ; for otherwise ye shall not find in the new Tes
 
 [5 episcopi, Lat. : the bishops.] [c continue, Lat.]
 
-THE FIFTH DEC AUK.
+## The Fifth Dec Auk
 
-[SERM.
+## [Serm
 
 There is an interchanging between i Pet. u. all Christians arc called priests by the apostle Peter. But it appeareth that the ministers of the new Testament, for a certain likeness which they have with the ministers of the old Testament, of ecclesiastical writers are called priests ; for as they did their service in their tabernacle, so these also, after their manner and their fashion, minister to the church of God. For otherwise the Latin word is derived of holy things, and signifieth a minister of holy things : a man, I say, dedicated and consecrated unto God to do holy things. And holy things are not only sacrifices, but what things soever come under the name of religion ; from which we do not exclude the laws s sam. vni. themselves, and holy doctrine. In the old Testament we read that David's sons were called priests l : not that they were ministers of holy things, (for it was not lawful for them, which came of the tribe of Juda, to serve in the tabernacle, but only to the Levites) ; but because they, living under the government and discipline of priests, did learn good sciences and holy divinity.
 
@@ -213,8 +202,6 @@ contention or strife for prerogative, or titles, or dignity ; for all acknowledg
 [5 ostendi, Lat. : Bullinger. de Episc. Instit. et Funct. capp. 1. and 5.]
 
 [6 So also ed. 15S4: but ed. 1577, meaner: mediocres, Lat.]
-
-110 THE FIFTH DECADE. [sERM.
 
 ■which of them should bo the greatest1, setting a child in the Matth.xviii. midst of them, said : " Verily, verily2, I say unto you, Except ye turn, and become as little children, ye shall not enter into the kingdom of heaven." Truly the martyr of God, St Cyprian, standing in the council of the bishops at Carthage, wisely said3: "Neither hath any of us appointed himself to be a bishop of bishops, or by tyrannous fear compelled his fellows in office to necessity of obeying : since every bishop hath, according to the licence and liberty of his power, his own free choice ; as if he might not be judged of another, since neither he himself can judge another. But let us all look for the judgment of our Lord Jesus Christ, who only and alone hath power both to prefer us in the government of his church, and to give sentence of our doing4." Thus far he. At that time, therefore, bishops contended not for I know not what primacy or patrimony of Peter ; but that one might excel the other in pureness of doctrine and holiness of life, and mutually to help one another. And then undoubtedly the affairs of the church went forward prosperously ; insomuch that, though the most puissant princes of the world should have persecuted the church of Christ with fire and sword, yet nevertheless against all the assaults of the devil and the world she had stood unmoveable, having won the victory, and had daily been more enlarged and also renowned. Oh happy had we been, if this order of pastors had not been changed ; but that that ancient simplicity of ministers, that faith, humility, and diligence, had remained uncorrupted! when the But in process of time all things of ancient soundness, prerogative * . . . . ° ..
 
@@ -248,7 +235,7 @@ unto themselves him placed above the rest. His office was to that was best, whom
 
 [8 Tbis extract from Bullinger's treatise De Episcop. Instit. et Funct. cap. 16, fol. 143, is not given in edd. 1577 and 15S4; nor in the folio Latin ed. of the Decades, Tiguri, 1552. It appears however in the octavo edition of the Latin Decades, "Londini excudebat Henricus Midletonus;" no date.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 [sERM.
 
@@ -278,8 +265,6 @@ Clerks (who are the Lord's inheritance, or whose lot the cierk*. Lord is) in tim
 
 [bullinger, IV.]
 
-114 THE FIFTH DECADE. [sERM.
-
 this day reckoned amongst ecclesiastical orders1. But they which were more familiarly present with the bishops and accompanied them, and were esteemed as those who after the decease of the bishops might succeed in their places, were called Acoluthi, as if you would say, "followers;" for it is a Greek word. And as in time, for the most part, all things become worse, even so these things, the further off from their first institution, the more filthily were they wrested. In some things you shall see nothing left but the bare name ; some things utterly lost ; some things are turned altogether to another use. And here for witness I allege Isidorus, Rabanus, Innocentius, Durandus, and other writers of this kind2. They make two sorts of ecclesiastical persons; one of dignity, another of order : of dignity ; as pope, patriarch, primate, archbishop, archpriest, archdeacon, and provost : of order ; as the minister3 or priest, the deacon, &c. But some account six orders, other some eight. All with one accord do reckon doorkeepers or porters, readers or singers, exorcists, acoluthes, subdeacons, deacons, elders or priests. Those again they divide into greater and lesser orders. Among the greater orders are the priest or elder, the deacon, and the subdeacon. The rest are called the lesser orders ; of which orders there remaineth nothing: in a manner beside the bare name. The office of doorkeepers is turned over to the sextons, which they call holy-water clerks4. There are no readers; for that ancient reading is worn out of use. The psalmists, or singers, do understand nothing less than that they rehearse or sing. Touching the exorcists this they say : Josephus writeth, that king Solomon found out the manner of exorcism, that is, of conjuring, whereby unclean spirits were driven out of a man that was possessed by Eleazar the exorcist, so that they durst no more come again5. To this office they that are
 
 \} Ho rum mentiofit in Carthaginen. Concilio iv. Lat. marg. These are mentioned in the fourth Council of Carthago. Lahb. et Coss. Tom. II. col. 1200. capp. 8, 9. Par. 1671.]
@@ -300,9 +285,9 @@ ulterius reverti non sunt ausi. — Rabani Mauri de Instit. Cleric, cap. 10. Opp
 
 11G
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Topish secular priests.
 
@@ -326,8 +311,6 @@ diately they divide the order of bishops into three parts ; namely, patriarchs, 
 
 [3 Gratian. ap. Corp. Jur. Can. Decret. i. par. distinct, xxi. Tom. i. p. 26. Par. 1687.]
 
-118 THE FIFTH DECADE. [sERM.
-
 is, of the hinge of a gate ; " for as by the hinge the gate is ruled, so by cardinals the universal church is governed1." Archbishops are, as it were, the princes of bishops : they are also surnamed metropolitans, because they have their government in the chiefest cities. In very deed metropolis -with the Greeks is as it were a mother-city, from whence colonies are deducted, that is, people are sent to inhabit some new place2. Whereupon he is called the metropolitan bishop, who governeth some one province, and hath other bishops under him. And these are called both bishops3, chief priests4, and presuls. But if you compare all these things with that which I said before of the bishops and governors of the primitive church, you will say there is very great difference between them. Thejopcor But that which they write touching the pope, or chief bishop, is far5 from the writings of the apostles and evangelists, and from the first ordaining; of ministers made bv our Saviour Christ. All those bishops, say they, our most holy lord, the pope, doth excel in dignity and power : who is called pope, that is, the father of fathers : he is also called universal, because he is chief of the universal church : and he is also called apostolical, and the chief bishop, because he supplieth the room of the chief of the apostles6. For he is Melchizedech, whose priesthood other are not to be compared unto, because he is the head of all bishops7, from whom they descend as members from the head ; and of whose power they all do receive, whom he calleth to be partakers of his care and burden, but not to be partakers of the fulness of power8. They therefore define the pope to be the
 
 [T Dicuntur cardinales a cardine: quia sicut in cardine regitur ostium, ita per istos debet in ccclesia regi officium: unde etiam dicti sunt cardinales, quia per eos regitur universalis ecclesia. — Gregor. Decretal. Lib. I. tit. 24. cap. 2. col. 319. Par.'15S5.] [2 This explanation is the translator's.] [3 pontifices, Lat.] [4 antistites, Lat.]
@@ -341,8 +324,6 @@ is, of the hinge of a gate ; " for as by the hinge the gate is ruled, so by card
 [u Tbe editor has not been able to verify this reference.] [12 See Jewel's Works, ed. Parker Soc. Vol. i. pp. 69, 93, 443.] [13 Consistorium Dei et papse unum et idem est censendum. - — Hostiens. de Transl. Episc. Opp. fol. 75. Par. 1512.]
 
 [H The editor has not been able to verify this reference.]
-
-120 THE FIFTH DECADE. [SEUM.
 
 hath he any fellow1 : That he hath all laws within his breast : That there is a general council where the pope is2 : That he hath all laws in his breast3: That he hath both swords, whereby he may rightly be called an emperor ; yea, that he is above the emperor : That he only can depose the emperor, and pronounce the sentence of the emperor to be of no effect: Read Anton. That he only may spare whom he will ; and may also take thel'owereo°ff awa7 the right of one man, and give it to another ; and the emperor! finally, may take away privileges." To be short, they say, " he is lord of lords, and hath the right of the king of kings over his subjects ; yea, and also hath fulness of power over the temporal things in earth4. Yea, and also the whole world is the pope's diocese, wherein he is the ordinary of all men5: and it standeth upon the necessity of salvation, that every man be subject to the bishop of Rome6." Hereunto, for
 
@@ -366,8 +347,6 @@ non ab homine, poterit judicari .... Porro subesse Romano pontifici omni humanse
 
 [8 Pauli quoque, Lat.] [9 eeniulus, Lat.] bishops.
 
-122 THE FIFTH DECADE. [sERM.
-
 shall be exalted above all that is called God, or that is worshipped1; so that he, as God, sitteth in the temple of God, shewing himself that he is God?11 whether it But the pope's champions dispute, that it is for the profit andnwessary an(j salvation, yea, necessary for the church, to have some one haveSprelld bishop to have preeminence over the other, both in dignity overnthee and power. But let them dispute and set forth this their idol as they please : they which will simply confess the truth must needs freely acknowledge, that the pope is antichrist ; for that which these men babble of the supremacy of the pope is flatly repugnant to the doctrine of the gospel and of the apostles. For what more evident thing can be alleged against their disputations, than that which the Lord said to his disciples, when Lukexxii. they strived for sovereignty? " The kings of the Gentiles reign over them, and they that bear rule over them are called gracious lords. But ye shall not be so; but let the greatesUimong you be as the least; and the chiefest, as he that serveth. For who is greater; he that sitteth at table, or he that serveth? is not he that sitteth at table ? And I am among you as he that serveth." This place I alleged and discussed briefly also in my former sermon2. This simple and plain truth shall condemeth anat tmuG invincible against all the disputations of these harpies*, touefethf The most holy apostles of our Lord Christ will not be lords iPet.'v. over any man under pretence of religion3; yea, St Peter in plain words forbiddeth lordship over God^ heritage, and commandeth bishops to be examples to the flock.
 
 Whereas they object, that Christ said to Peter, " Thou art
@@ -386,13 +365,11 @@ But Constantine gave it to Sylvester, say they. But if ofthedowe never so perfec
 
 [5 On the Donation of Constantine, see Fulke's Answers, ed. Parker Soc. page 360, note 4.]
 
-124 THE FIFTH DECADE. [SERM.
-
 him. For the voice of the high and heavenly prince, Christ, had been of more authority with him, (" The kings of the nations bear rule over them, but it shall not be so with you,") than the foolish affection of an earthly emperor. Shall we believe that Peter1 would have received secular power with imperial government, if the emperor Nero had proffered it him '? TsTo, in no wise. For this word of the Lord took deep root in his inward bowels : " But it shall not be so with you.'" Before he had received the Holy Ghost, wandering in blindness with the rest of the multitude of Jews, he imagined that the kingdom of Christ in earth should be an earthly kingdom: but after he received the Holy Ghost, he understood that the throne of Christ, the chief king and emperor, was not on the earth, but situated in heaven2. He knew that Christ our Lord fled into the wilderness, when the people thought to 2 Kings v. make him a king. He knew that Helisseus by most wholesome counsel refused the reward of Naaman, the prince ; and that Giesi his servant, to his everlasting reproach and overthrow of his own health, required it afterward at his hand. St Feter would not take upon him the charge of the poor, lest he should thereby with less diligence attend upon prayer and preaching of the word of God ; which thing the Acts of the Apostles do witness. Who therefore thinketh it likely that he, casting aside the office of apostleship, would have received the empire even of the whole world *? He denieth that one man can both happily execute the charge of the ministry of the word, and also minister unto the necessity of the poor3. But what pope will they give unto us, that hath the Spirit more fully than Peter had ? which can perform that which Peter could not? which can not only now both serve at tables, but also can govern the whole world ? Therefore they are trifles which they rehearse to us touching the donation of Constantine. Constantine was more sound than that he would frame such a donation, which he knew was repugnant to the doctrine of Christ. Sylvester was more upright than to receive that which he knew could not be received without the utter overthrow of the ministry of the word. But if f1 Petrum apostolum, Lat.]
 
 [2 Ac rcgnum ejus non esse ex hoc mundo, Lat. omitted; and that his kingdom is not of this world.] [3 mensis ministrare, Lat.]
 
-III.] OF THE MINISTRY OF THE WORD OF GOD, &C. I 25
+## III.] of the Ministry of the Word of God, &C. I 25
 
 Constantine gave that altogether, which he is said to have given ; and that Sylvester did not refuse his donation ; both of them offended, because both dealt against the word of God.
 
@@ -409,8 +386,6 @@ Constan tine's donation against Laurentius Valla4: but he Con3tantinebringeth no
 [7 Vere profertur a nonnullis de ecclesia carmen Virgilianum oraculum summi Jovis, Imperium sine fine dedi. Hoc inquara de ecclesia, de Romanse sedis majestate vere profertur, qua; fecit ut imperium Romanorum esset sine fine renatum in ipsa ecclesia. — Steuchi de falsa Don. Con. fol. 258.]
 
 [8 Audis summum pontificem a Constantino Deum appellatum, habitum pro Deo. Hoc videlicet factum est, cum eum prseclaro illo edicto decoravit, adoravit uti Deum, uti Christi et Petri successorem : divinos honores ei quoad ejus potuit contulit ; velut vivam Christi imaginem veneratus est. — Ibid. fol. 277.]
-
-126 THE FIFTH DECADE. [sERM.
 
 the kingdoms of the world are governed by the pope's beck ; that kings worship him, as being a thing very well known to them, that he is the successor of Christ; and therefore that they receive him not so much a mortal man, as God himself in him, who hath substituted him in his room on earth ; and therefore we ought to abstain from reproachful words, if he sin in anything as a man, because in him they worship the Son of God1. These wicked rejoicings, and these flattering or rather sacrilegious voices, would Peter have suffered, think you ; who lifted up Cornelius, when he fell down before him, and would
 
@@ -432,25 +407,23 @@ We have almost gone further than we determined : therefore, that we may draw to 
 
 [4 auctoritatem, Lat.J [5 fundare, Lat.]
 
-128 THE FIFTH DECADE. [sERM.
+## Of Calling unto the Ministry of the Word Of
 
-OF CALLING UNTO THE MINISTRY OF THE WORD OF
+## God. What Manner of Men, and After What
 
-GOD. WHAT MANNER OF MEN, AND AFTER WHAT
+## Fashion, Ministers of the Word Must Be
 
-FASHION, MINISTERS OF THE WORD MUST BE
+## Ordained in the Church. Of the Keys
 
-ORDAINED IN THE CHURCH. OF THE KEYS
+## Of the Church. What the Office Of
 
-OF THE CHURCH. WHAT THE OFFICE OF
+## Them Is that Be Ordained. Of
 
-THEM IS THAT BE ORDAINED. OF
+## The Manner of Teaching The
 
-THE MANNER OF TEACHING THE
+## Church; And of the Holy
 
-CHURCH; AND OF THE HOLY
-
-LIFE OF THE PASTORS.
+## Life of the Pastors
 
 ---
 [[Bullinger Dec 60 Decade 5, Sermon 2, Part 2|← 60. Decade 5, Sermon 2, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 62 Decade 5, Sermon 4|62. Decade 5, Sermon 4 →]]

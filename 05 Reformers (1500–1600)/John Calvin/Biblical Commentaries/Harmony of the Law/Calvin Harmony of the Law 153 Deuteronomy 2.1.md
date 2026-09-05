@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 153. Deuteronomy 2:1
-
-**Deuteronomy 2**
 
 **1.** Titan we turned, and took our journey into the wilderness, by the way of the Red sea, as the Lord spoke unto me; and we compassed mount Stir many days.
 

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 56
 
-**CHAPTER 56.**
+***Chapter 56.***
 
 ## Isaiah 56:1-12
 

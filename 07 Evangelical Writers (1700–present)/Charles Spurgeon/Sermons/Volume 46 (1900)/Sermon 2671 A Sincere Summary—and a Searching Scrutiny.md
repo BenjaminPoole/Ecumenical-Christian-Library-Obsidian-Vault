@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Sincere Summary—and a Searching Scrutiny
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2671
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have kept Your precepts and Your testimonies: for all my ways are before You." Psalm 119:168.
 
@@ -162,7 +159,6 @@ Romans 8:1. There is therefore now no condemnation to them which are in Christ J
 3\. For what the Law couldnot do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh. That He has done most effectually!
 
 4\. That the righteousness ofthe Law might be fulfilledin us, who walk not after the flesh, but after the Spirit Oh, what a blessed thing it is to walk freely, "not after the flesh, but after the Spirit," even though, all the while, there is, within the soul this strife that the Apostle has been describing!
-
 
 ---
 [[Sermon 2670 Pride Catechized|← #2670]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2672 Neither Forsaken Nor Forgotten|#2672 →]]

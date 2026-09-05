@@ -13,7 +13,6 @@ tags:
   - summa-contra-gentiles
   - written/13th-century
 ---
-
 # Chapter 12. How the Son of God May be Called the Wisdom of God
 
 *Book Four — Salvation, Chapter 12* — Summa Contra Gentiles
@@ -32,7 +31,7 @@ tags:
 
 **Chapter 13**
 
-**THAT THERE IS BUT ONE SON IN THE DIVINITY**
+## **That There Is but One Son in the Divinity**
 
 [1] However, since God by understanding Himself understands all else, as Book I showed, but understands Himself by a single simple inward look, since His act of understanding is His act of being, necessarily the Word of God is unique. Since, of course, in divinity the generation of the Son is not other than the conception of the Word. it follows that there is one sole generation in divinity and that a unique Son is alone, begotten by the Father. Hence, John says: “We saw Him, as it were the only-begotten of the Father”; and again: “The only-begotten Son who is in the bosom of the Father, He has declared Him” (1:14, 18).
 
@@ -57,7 +56,6 @@ tags:
 [11] Now, just as an intellectual agent, because of the account he has in himself, produces things in being, so also a teacher, because of the account he has in himself, causes science in another, since the science of the learner is drawn from the science of the teacher, as a kind of image of the latter. God is not only the cause by His intellect of all things which naturally subsist, but even every intellectual cognition is derived from the divine intellect, as is clear from the foregoing.” Necessarily, then, it is by the Word of God, which is the knowledge of the divine intellect, that every intellectual cognition is caused. Accordingly, we read in John (1:4): “The life was the light of men,” that is, because the Word Himself who is life and in whom all things are life does, as a kind of light, make the truth manifest to the minds of men. Nor is it a failure of the Word that not all men arrive at a knowledge of the truth, but that some exist in darkness. This comes, rather, from a failure of men who are not converted to the Word and cannot fully grasp Him. Hence, there still remains darkness among men greater or less, as men are more or less converted to the Word and cleave to Him. Hence, John, to exclude every defect from the clarifying power of the Word when he had said that the “life was the light of men,” adds that it “shines in the darkness and the darkness did not comprehend it” (1:5). The darkness is not because the Word does not shine, but because some do not grasp the light of the Word, just as with the light of the bodily sun diffused through the world there is darkness for him whose eyes are closed or weak.
 
 [12] Such, then, are the points on divine generation and the power of the only-begotten Son which—taught by holy Scripture—we can in some way comprehend.
-
 
 ---
 [[SCG IV.11 How Generation is to 13e Understood in Divinity|← IV.11. How Generation is to 13e Understood in Divinity, and What is Said of the Son of God in Scripture]] · [[Book Four - Salvation|Book Four — Salvation Contents]] · [[SCG IV.14 Solution of the Arguments Against Divine|IV.14. Solution of the Arguments Against Divine Generation Previously Introduced →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # COME AND WELCOME
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3000
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Him that comes to Me, I will in no wise cast out." John 6:37.
 
@@ -118,7 +115,6 @@ When Jesus says, "I will not cast out Him that comes to Me," He means that He wi
 I have known the time when if I had heard such a sermon as this, I think I would have leaped for joy to think that there was such mercy to be had by me! I would not have needed any fine speaking, or any display of oratory. I would only have needed to be assured that Jesus would receive me and I would at once have come to Him! And this I know—every truly hungry soul here will come and feed on this Truth of God tonight, and every thirsty soul will come and drink! But if there are any here who think they are good enough—if there are any who fancy that they have not sinned against God and so do not feel that they are in any great danger, or have any great needs—well, it will be according to the old rule, the full will loathe the loaded table, but to the hungry man even bitter things will be sweet!
 
 I can only give you the Gospel invitation and leave it with the Lord to incline you to accept it. May you be led to come to Jesus by a spiritual act of faith this very hour!
-
 
 ---
 [[Sermon 2999 Railings|← #2999]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3001 The Vision of the Field|#3001 →]]

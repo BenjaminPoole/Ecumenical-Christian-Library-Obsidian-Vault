@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 15
-
-**PSALM 15.**
 
 This psalm teaches us upon what condition God made choice of the Jews to be his people, and placed his sanctuary in the midst of them. This condition was, that they should show themselves to be a peculiar and holy people, by leading a just and upright life.
 

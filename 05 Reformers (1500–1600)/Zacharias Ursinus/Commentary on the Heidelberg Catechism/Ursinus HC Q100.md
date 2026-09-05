@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 100. Is then the profaning of God's name by swearing and cursing, so heinous a sin, that his wrath is kindled against those who do not endeavour, as much as in them lies, to prevent and forbid such cursing and swearing?
-
-**Question 100. Is then the profaning of God's name by swearing and cursing, so heinous a sin, that his wrath is kindled against those who do not endeavour, as much as in them lies, to prevent and forbid such cursing and swearing?**
 
 Answer. It undoubtedly is; for there is no sin greater, or more provoking to God, than the profaning his name, and therefore he has commanded this sin to be punished with death.
 
-**EXPOSITION**
+## **Exposition**
 
 God, in the first and second commandments, framed the mind and heart for his worship; in the third and fourth the external members and actions.
 
@@ -142,7 +139,7 @@ That which is opposed to swearing religiously includes, 1. A refusing to take an
 
 5. Oaths which are made rashly, and from levity, without any necessity or sufficient cause. It is of this that the Scriptures speak when they forbid swearing. (See Matt. 5:23. James 5:12.) The doctrine respecting the oath is contained and explained in the following Questions if the Catechism.
 
-THIRTY-SEVENTH LORD'S DAY
+## Thirty-Seventh Lord's Day
 
 ---
 [[Ursinus HC Q99|← Question 99. What is required in the third c]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q101|Question 101. May we then swear religiously  →]]

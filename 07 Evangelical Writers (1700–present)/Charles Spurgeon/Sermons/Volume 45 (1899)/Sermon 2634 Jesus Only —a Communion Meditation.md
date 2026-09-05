@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "Jesus Only" —a Communion Meditation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2634
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus only." Mark 9:8.
 
@@ -129,7 +126,7 @@ But if you can say, "Jesus," do not be afraid to say, "Jesus only." If you have 
 
 And you, poor Souls, who are panting to know the way to Heaven, remember, there is only one ladder that can ever take you there. The rungs of it are made by Sovereign Grace. That ladder is called Jesus. The foot rests on the earth, in His humanity. The top leans in Heaven, on His Godhead. Poor Sinner, run up the rungs! Do you think you are so heavy that you will break the them? Oh, no! There have been some stout old sinners up that ladder before now! Many a guilty one has run up it with enough weight of sin upon his back to have crushed the heavens into Hell if God had put their sin there! But the ladder has never been broken, yet, and it never will be! Up with you, Sinner! If your feet are ever so black, they will not soil the ladder. Run up with all your sin, and care, and woe! Come to the Lord Jesus and He will not cast you away, for He has said, "He that comes to Me, I will in no wise cast out."
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 11.
+## Exposition by C. H. Spurgeon: Hebrews 11
 
 This is a very familiar chapter, but it is none the less precious. It is the roll of the heroes of faith. Here you have a list of the men who believed in God and who, therefore, did great things.
 
@@ -171,8 +168,7 @@ When we give our attention to keeping God's precepts and leave Him to fulfill Hi
 
 —Adapted from The C. H. Spurgeon Collection, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2633 The Two Pivots|← #2633]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2635 Depths and Heights|#2635 →]]

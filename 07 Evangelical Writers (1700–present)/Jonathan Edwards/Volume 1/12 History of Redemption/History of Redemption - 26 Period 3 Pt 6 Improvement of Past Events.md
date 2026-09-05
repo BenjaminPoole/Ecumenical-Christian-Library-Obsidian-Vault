@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART VI.
 
-IMPROVEMENT OF PAST EVENTS
+*Improvement of Past Events*
 
 Having now shown how the work of redemption has been carried on from the fall of man to the present time, before I proceed any further, I would make some application.
 

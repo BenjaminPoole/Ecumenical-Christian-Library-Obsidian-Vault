@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Away With Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 930
 
-DELIVERED ON LORD'S-DAY EVENING, APRIL 10, 1870,.
+*Delivered on Lord's-Day Evening, April 10, 1870*
 
 > "Fear you not. For I am with you; be not dismayed; for I am your God: I will strengthen you; yes, I will help you; yes, I will uphold you with the right hand of My righteousness." Isaiah 41:10.
 
@@ -186,7 +185,6 @@ rest upon it, and you shall not be cast down! The right hand of His righteousnes
 Try to know that it is true, and true to you, though you are the very least of God's people in your own estimation, and the most unworthy sinner this side of Hell. "Fear you not. For I am with you; be not dismayed; for I am your God: I will strengthen you; yes, I will help you; yes, I will uphold you with the right hand of My righteousness." Go home, and take the text with you in the hand of faith. It shall prove to you like the widow's barrel of meal and cruse of oil. It shall not fail you till the day when the Lord shall bring you out of this land of famine to eat bread in His kingdom with His dear Son.
 
 My heart mourns to think that this text does not belong to some of you, because you do not belong to Christ. O my dear Friend, how I desire that you may yet have the promises of the Covenant for your own! If you believe with all your heart, you may. Trust Jesus Christ, and the promises are yours. I tried to preach my Master's sacrifice for sin this morning. I have now set before you one of the sweet fruits that grow from the bitter tree upon which He hung. O come to the tree of the Cross, and look up to His sufferings, and rely upon Him! And then, when you have sat under His shadow with great delight, may this text, which is one of the fruits of that tree, be sweet unto your taste. The Lord bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0929 The Model Home Mission and the Model Home Missionary|← #929]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0931 Three Precious Things|#931 →]]

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 18. Book II. Against Transubstantiation, Part 5
 
 But note well here, good reader, the end of wit, when it is not stayed by God's word, but shooteth at rovers, or runneth at large, as it were a young colt without a bridle. ‘That nothing 1 is broken but the accidents, this is denied. Then would I fain learn of this great wise man, that so well can dina substances from accidents, what | substance it is that is broken? Not the body of Christ, saith he, for that is whole in every part; nor the bread is not broken, saith he, for our faith teacheth us contrary: then must it be either Christ's divinity or soul that is broken, or else is some other substance there which never man heard -of before.
@@ -33,7 +32,7 @@ Simple and plain doetrine.
 
 The answer. ntentiarum, distinct. ix. 9, 10. Orig. ed.
 
-328° THE SECOND BOOK.
+## 328° the Second Book
 
 And is not this a simple and plain doctrine, I pray you, that visible forms and substances be transubstantiated, and yet accidents remain? A plain doctrine, be you assured, which you confess yourself that the simple and plain people understand not, nor yourself with the help of all the papists is not able to defend it; where the true doctrine of the first catholic christian faith is most plain, clear and comfortable, without any difficulty, scruple or doubt, that is to say, that our Saviour Christ, although he be sitting in heaven in equality with his Father, is our life, strength, food, and sustenance, who by his death delivered us from death, and daily nourisheth and increaseth us to eternal life. And in token hereof he hath prepared bread to be eaten and wine to be drunken of us in his holy supper, to put us in remembrance of his said death, and of the celestial feeding, nourishing, increasing, and of all the benefits which we have thereby; which benefits through faith and the Holy Ghost are exhibited and given unto all that worthily receive the said holy supper. This the husbandman at his plough, the weaver at his loom, and the wife at her rock can remember, and give thanks unto God for the same. This is the very doctrine of the gospel, with the consent wholly of all the old ecclesiastical doctors, howsoever the papists for their pastime put visors upon the ssid doctors, and disguise them in other coats, making — a play and mocking of them. ,
 
@@ -41,11 +40,11 @@ Now followeth the second absurdity.
 
 Secondly, these transubstantiators do say, contrary to all learning, that the accidents of bread and wine do hang alone in the air, without any substance wherein they may be stayed. And what can be said more foolishly ? i
 
-WINCHESTER.
+## Winchester
 
 The Master of the sentences, shewing divers men’s sayings in discussion, as they can, of this mystery, telleth what some say, that had rather say somewhat than nothing ; which this author rehearseth as a determination of the church, that indeed maketh no doctrine of that point so, but acknowledgeth the mystery to exceed our capacity. And as for the accidents to be stayed, that is to say, to remain without their natural substance, is without difficulty believed of men that have faith, considering the almighty power of Christ, whose divine body is there present. And shall that be accounted for an inconvenience in the mystery, that any one man saith, whose saying is not asa full determination approved? IPf that man should encounter with this author, if he were alive so to do, I think he would say it were more tolerable in him, of a zeal to agree with the true doctrine, to utter his conceit fondly, than, of a malice to dissent from the true doctrine, this author so fondly to improve his saying. But if he should oppose this author in learning, and ask him how he will understand Fiat lux in creation of the world, where the light stayed that was then create? But I will proceed to peruse the other differences}.
 
-CANTERBURY.
+## Canterbury
 
 The doctrine that even now was so simple and plain is now again waxed so full of — ambiguities and doubts, that learned men in discussing thereof, as they can, be fain to “say rather something than nothing ;” and yet were they better to say nothing at all, than — to say that is not true, or nothing to purpose. And if the Master of the Sentences’ saying in this point vary from the common doctrine of the other papists*, why is not — this his error rejected among other, wherein he is not commonly held? And why do — yourself after approve the same saying of the Master, as a thing believed without diffi- — culty, that the accidents be stayed without their natural substance?. And then I would know of you wherein they be stayed, seeing they be not stayed in the air, as in their substance, nor in the bread and wine, nor in the body of Christ? For either you must appoint some other stay for them, or else grant, as I say, that they hang alone in the air, without any substance wherein they may be stayed. And either I understand you not in this place, (you speak so diffusely,) or else that thing which the Master spake, and yourself have here affirmed, you call it “a tolerable conceit fondly uttered.” And an
 
@@ -57,11 +56,11 @@ The doctrine that even now was so simple and plain is now again waxed so full of
 
 Thirdly, that the substance of Christ’s body is there really, corporally, and naturally present, without any accidents of the same, And so the papists make accidents to be without substances, and substances to be without accidents.
 
-WINCHESTER.
+## Winchester
 
 How Christ's body is in cirewmstance present, no man can define; but that it is truly present, 353. and. therefore really present, corporally also, and naturally®, with relation to the truth of the One ‘a body present, and not to the manner of presence, which is spiritual, exceeding our capacity, Wie) inne and therefore therein without drawing away accidents or adding, we believe simply the truth, Lene howsoever it liketh this author without the book to term it at his pleasure, and to speak of substance without accidents and accidents without substance, which perplexity in words cannot jest out the truth of the catholic belief. And this is on the author's part nothing but jesting with a wrong surmise and supposal, as though men had invented and imagined that which by force and truth of the scripture all good men have and must believe, that is to say, the true presence of the substance of the body and blood of Christ in the sacrament, according to the words of Christ, “ This is my body ;” which exclude the substance of bread, declaring the substance of the body of Christ to be acknowledged and professed in the sacrament by the true faith of a christian man. Compare with this what this author writeth in his ninth difference in the Sorty-seventh leaf of his book*, and so consider the truth of this report, and how this author agreeth with himself.
 
-CANTERBURY.
+## Canterbury
 
 I suspect not the judgment of the indifferent reader so much, but that he can perceive how indirectly you answer to this third absurdity, and be loth, as it seemeth, to answer any thing at all.
 
@@ -79,11 +78,11 @@ Now followeth the fourth absurdity. !
 
 Fourthly, they say, that ‘the place where the accidents of bread and wine be*, hath no substance there to fill that place, and so must they needs — grant vacuum, which nature utterly abhorreth.” a aa as TT
 
-WINCHESTER.
+## Winchester
 
 This author goeth about to find so many absurdities, that he speaketh he wotteth not what, and where he seeth and feeleth quantity, accompteth the place void for want of substance; as — though in consideration of common natural things severally as they be in nature, it were the substance that filled the place, and not rather quantity, although in the natural order of things — there is no quantity without substance, and is in this sacrament only by miracle. There — wanted a substance in consideration of this absurdity, and was such @ vacuum as nature — plainly endureth.
 
-CANTERBURY.
+## Canterbury
 
 All the authors that write what vacuwm is, account a place that is not filled with — a substance which hath quantity in it to be void and empty. So that my saying is not grounded upon ignorance, but upon the mind of all that write in that matter. Whereas — your saying, “that quantity alone filleth place, without substance,” hath no ground at all but the papists’ bare imagination. And if “quantity in the sacrament be without substance by miracle,” it is marvel that no* ancient writer in no place of their books made any mention of such a miracle. But yourself grant enough for my purpose in this place, “that it is an absurdity in nature, and wrought only by miracle, that quantity — occupieth a place alone without substance.” Which absurdity followeth not of the true and right faith, but only of your error "of transubstantiation.
 
@@ -95,9 +94,9 @@ True believing men are not ashamed to confess the truth of their faith, whatsoev
 
 [' Vide p. 72.] {® Where the bread and wine be. _ Orig. ed.] [® None, 1551.]
 
-[knowledge an uncertain work, to deduce an argument, wherewith to impugn our]* cer- tain faith. But to come nearer to the purpose, it is wrong borne in hand, that we affirm worms to be engendered of accidents; but when the worms be engendered, we grant the worms to be, and will rather say, whereof they be we cannot tell, than to say that substance is made of accidents, and that doctrine is not annexed to the faith of transubstantiation, and such as entreat those chances and accidents do not induce that conclusion, but do reasonably avoid it. And yet by the way in moulding and souring it should, meseemeth, be properly said that the accidents mould, and the accidents sowr, because we call mould bread bread, sour wine wine; and in wine, as I said before, made vinegar, the former substance hath been in learning accounted in manner to remain: so as this author overshooteth himself, when he matcheth generation of worms with moulding and souring, which differ so far in the speculation. But even as this author's wit is overturned in consideration of the true faith, so doth it appear perverted in consideration of natural things.
+[knowledge an uncertain work, to deduce an argument, wherewith to impugn our]* cer-tain faith. But to come nearer to the purpose, it is wrong borne in hand, that we affirm worms to be engendered of accidents; but when the worms be engendered, we grant the worms to be, and will rather say, whereof they be we cannot tell, than to say that substance is made of accidents, and that doctrine is not annexed to the faith of transubstantiation, and such as entreat those chances and accidents do not induce that conclusion, but do reasonably avoid it. And yet by the way in moulding and souring it should, meseemeth, be properly said that the accidents mould, and the accidents sowr, because we call mould bread bread, sour wine wine; and in wine, as I said before, made vinegar, the former substance hath been in learning accounted in manner to remain: so as this author overshooteth himself, when he matcheth generation of worms with moulding and souring, which differ so far in the speculation. But even as this author's wit is overturned in consideration of the true faith, so doth it appear perverted in consideration of natural things.
 
-CANTERBURY.
+## Canterbury
 
 I know not to what purpose you have written all this fond matter, except it be that you would the world should know how ignorant you be in philosophy, which have not learned so much as to know the diversity between the six kinds of movings, generation, corruption, augmentation, diminution, alteration, and moving from place
 
@@ -119,7 +118,7 @@ And it is the simplest reason that ever was made, that the’ accidents mould an
 
 [* Ed. 1551, and Orig. ed. Winch.]
 
-332 THE SECOND BOOK.
+## 332 the Second Book
 
 sweetness cannot be sour; but wine that is sweet may turn into sour wine, and bread — that is pure may be changed into mouldy bread. But the more you strive in the matters of philosophy, the more appeareth your ignorance therein, even as it did before in the matters of our faith. And who can condemn your doctrine more clearly than your own Ulpian doth, as you do here allege him? that “in vinegar remaineth in manner the same substance that was in the wine;” whereof it must follow, that when the sacramental wine is turned into vinegar, there must be a substance remaining, which is in manner the same with the substance of the vinegar. The sixth absurdity.
 
@@ -149,13 +148,13 @@ And the final end of all this f spheres doctrine is none other, but by subtilty 
 
 It hath been heard, without fables, of certain men that have lived and been nourished with ed gpa savours only. And in gold and certain precious stones, that they give a kind of nurture Winch.) tou another substance, without diminution of their substance, experience hath shewed it so, and therefore the principle or maxim that this author gathereth hath no such absurdity in it as he noted, to say that “substance is nourished without substance.” But when vermin by chance happen to devour any host, as I am sure they cannot violate Christ's most precious body, so what effect followeth of the rest, what needeth it to be discussed? If it nourisheth, then doth that effect remain, although the substance be not there. If every nurture must needs be of substance, then would those that discuss those chances say the substance to return; but hell gates shall not make me speak against my faith. And if I be asked the question, whether the visible matter of the sacrament nourish; I will answer, Yea. Ergo, saith he, “there is substance:” I deny it. He shall now from the effect to the cause argue by physic; I shall disprove the conclusion by the authority of faith: who is it most meet should yield to other? And if in nature many things be in experience contrary to the general rules, why may not one singular condition be in this visible matter of the sacrament, that, the only substance being changed, all other parts, properties, and effects may remain? Is it an absurdity for a maid to have a child, because it is against the rules of nature? Is it an absurdity the world to be made of nothing, because the philosopher saith, “Of nothing cometh nothing?” The principle of nature is, that whatsoever hath a beginning, hath an end; and yet it is no absurdity to believe our souls to have a beginning without end, and to be immortal. Wherefore, to conclude this matter, it is a great absurdity in this author, to note that for an absurdity in our faith, which repugneth only to the principles of philosophy or reason; when that is only to be ac- ‘counted for an absurdity, that should repugn to the scripture and God’s will, which is the standard to try the rule of our faith. Howsoever reason or philosophy be offended, it forceth not, so God's teaching be embraced and persuaded in faith, which needeth no such plaisters and salves as this author hath devised, to make a sore where none is, and to corrupt that is whole.
 
-CANTERBURY.
+## Canterbury
 
 Men may here see what feigned fables be sought out to defend your errors and ignorance, which is now so manifest, that it appeareth you never read, or else have forgotten, the very principles and definitions of philosophy: of which this is one, 358. that nutrition is a conversion of substance into substance, that is to say, of the meat into the substance of the thing that is fed. Another is thus: Hx eisdem sunt et nutriuntur omnia: “ All things be nourished of things like themselves.” And so I grant you, that a man made of savours, and a man made of the virtue of gold and precious stones, may be nourished by the same, because he is made of the same. And yet it may be that some certain savour, or the virtue of some precious stone, may increase or continue some humour, whereof a man may be nourished, as we read of some men or certain people that have lived no small time by the savour of apples.
 
 But still in your book you cry “faith, faith,” and “catholic faith,” when you teach but your own inventions, clean contrary to the true catholic faith and express word of God. And in all your arguments here you commit the greatest vice that can be in reasoning, called Petitio principii, taking that thing which is chiefly in controversy to be a principle to induce your conclusion. “Faith, faith,” say you, where is no faith, but your bare feigning. I have disproved your faith by God’s word, by the universal consent of all Christendom a thousand years together; and you cry out still, “faith, faith,’ which is not the faith of Christ, but of antichrist. Let christian men now judge, “who should yield to other.” If you had proved your doctrine by faith, founded upon God’s word, I would condescend unto you, that it is no absurdity that accidents remain when the substance is gone. But God's word is clearly against
 
-334 | THE SECOND BOOK.
+## 334 | the Second Book
 
 you, not only in your doctrine of transubstantiation, but also in the doctrine of the — real presence, of the eating and drinking, and of the sacrifice of Christ’s flesh and blood.
 
@@ -169,7 +168,7 @@ I deny not but things signifying may have the name of that they signify by a fig
 
 _ transubstantiation, Zuinglius taketh it truly for a necessary consequence of the truth, if there _ be in the sacrament the real presence of Christ's body, as there is in deed. For as a carnal man, not instruct by faith, as well after consecration as before, as he is of the earth, speaketh and ealleth it bread, and asking him what it is will never answer otherwise, and if one asked him whether it were the body of Christ, would think the questioner mocked him; so the faithful spiritual man, answering to that question what it is, would after consecration, according to Saith, answer the body of Christ, and think himself mocked if he were asked, is it not bread? unless he had been taught Christ to have said it had been both his body and bread. As for calling it by the name of bread which it was, he would not greatly stick, and one thing may have many names; but one thing is but one substance, whereby to answer to the question what it is, saving only in the person of Christ, wherein we know united the two substances of God and man. And this matter I repeat and summarily touch again, to leave in the reader’s breast the principal point of our belief of this mystery to be of the real presence, that is to say, unfeigned substantial presence, and therefore the true presence of Christ’s most precious body in the sacrament, which hath been in all ages taught, and been as it is the catholic faith of Christendom, as appeareth by the testimony of the old authors in all ages.
 
-CANTERBURY.
+## Canterbury
 
 For the conclusion of all these questions, when you see that you can make no answer, but that you be driven to so many absurdities, and that I have answered so plainly unto every one, that there is left neither absurdity nor difficulty at all, then you devise the best way and most easy for yourself, to “lay apart all questions 360. and idle talk ;’ when all these questions and idle talk needed not, if the papists of their idle brains had not devised their transubstantiation, and thereupon moved this idle talk themselves; which hath been occasion not only of much dissension in all christian realms, but of the effusion also of much innocent blood.
 
@@ -199,13 +198,13 @@ And where you have set out the answer of the carnal and spiritual man after your
 
 And where you say, that “one thing is but one substance, saving only in the person one su of Christ,” your teaching is untrue, not only in the person of Christ, but also in every 363. man, who is made of two substances, the body and soul. And if you had been learned in philosophy, you would have found your saying false also in every corporal thing, which consisteth of two substances, of the matter, and of the form. And Gelasius sheweth the same likewise in this matter of the sacrament. So untrue it is that you most vainly boast here, that your doctrine hath been taught in all ages, and been the catholic faith ; which was never the catholic, but only the papistical faith, as I have evidently proved by holy scripture and the old catholic authors, wherein truly and directly you have not answered to one.
 
-WINCHESTER.
+## Winchester
 
 In whose particular words although there may be sometime cavillations, yet I will note to the reader four marks and tokens imprinted rather in those old authors’ deeds than words, which be certain testimonies to the truth of their faith of the real presence? of Christ’s most precious body in the sacrament. The first mark is in the process of arguing used by them to the conviction of heretics by the truth of this sacrament, wherein I note not the particular3 sentences, which sometime be dangerous speeches, but their whole doings. As Irene, who was in the beginning of the church, argueth against ‘the Valentinians that denied the resurrection of our flesh, whom Irene reproveth by the feeding of our souls and bodies with the divine,
 
 [' Cautels, i. e. cautions. ] [* Not their particular, ibid.} [2 Of real presence, Orig, ed. Winch.]
 
-LCRANMER. ] 22
+## Lcranmer. ] 22
 
 Hilarius. libro de
 
@@ -213,13 +212,13 @@ Trin. Ori ed. Win ch.)
 
 The meani of Irenee cea other. John vi.
 
-338 THE SECOND BOOK.
+## 338 the Second Book
 
 glorified flesh of Christ in the sacrament; which flesh, and it be there but in a figure}, then it should have proved the resurrection of our flesh slenderly, as it were? but figuratively. And if the catholic faith had not been then certainly taught, and constantly believed without variance, Christ's very flesh to be in deed eaten in that mystery, it would have been answered of the heretics, it had been but a figure; but that appeareth not, and the other appeareth, which is a testimony to the truth of matter in deed.
 
 Hilary, reasoning of the natural conjunction between us and Christ by mean of this sacrament, expresseth the same to come to pass by the receiving truly the very flesh of our Lord in our Lord’s meat, and thereupon argueth against the Arians; which Arians, if it had not been so really in deed, would have answered, But all was spiritually, so as there was no such natural and corporal communion in deed as Hilary supposed, but, as this author teacheth, a figure, and it had been the catholic doctrine; so that argument of Hilary had been of no force. St Chrysostom, Gelasius, and Theodorete, argue of the truth of this mystery to convince the Apollinarists and Eutychians; which were none argument, if Christ's very body were not as really present in the sacrament for the truth of presence, as the Godhead is in the person of Christ; being the effect of the argument this, that as the presence of Christ’s body in this mystery doth not alter the property? of the visible natures, no more doth the Godhead in the person of Christ extinguish his humanity; which against those hereties served for an argument to exclude confusion of natures in Christ, and had been a dangerous arguing* to be embraced of the Nestorians, who would hereby have furthered their heresy, to prove the distinction of natures in Christ without any union; for they would have said: “ As the earthly and heavenly natures be so distinct in the sacrament, as the one is not spoken of the other, so be the natures of the humanity and Godhead not united in Christ ;’? which is false; and in the comparings® we may not look that all should answer in equality, but only Sor the point that it is made® for, that is, as in the sacrament the visible element is not extinguished by the presence of Christ's most precious body, no more is Christ's humanity by his Godhead ; and yet we may not say, that as in the sacrament be but only accidents of the visible earthly matter, that therefore in the person of Christ be only accidents of the humanity. For that mystery requireth the whole truth of man’s nature, and therefore Christ took upon him the whole man, body and soul. The mystery of the sacrament requireth the truth of the accidents only, being the substance of the visible creatures converted into the body and blood of Christ. And this I write to prevent such cavillations as some would search for. But to return to our matter: all these arguments were vain, if there were not in the sacrament the true presence of Christ's very body, as the celestial part of the sacrament, being the visible forms the earthly thing: which earthly thing remaineth in the former propriety with the very presence of the celestial thing. And this sufficeth concerning the first mark.
 
-CANTERBURY.
+## Canterbury
 
 As for your four marks and tokens, if you mark them well, you shall perceive most manifestly your ignorance and error, how they note and appoint, as it were with their fingers, your doctrine to be erroneous, as well of transubstantiation as of the — real presence. |
 
@@ -237,9 +236,9 @@ And for St Chrysostom, Gelasius, and Theodorete, if there be no bread and wine i
 
 And where you would gather the same conclusion, if Christ’s flesh and blood be not really present, it seemeth that you understand not the purpose and intent of these authors. For they bring not this similitude of the sacrament for the real presence, but for the real being: that as the sacrament consisteth in two parts, one earthly and another heavenly, the earthly part being the bread and wine, and the heavenly the body and blood of Christ, and these parts be all truly and really in deed, without colour or simulation, that is to say, very true bread and wine indeed, the very true body and blood of Christ indeed ; even likewise in Christ be two natures, his humanity and earthly substance, and his divinity and heavenly substance, and both these be true natures and
 
-(Cyprian. de cena Do- mini, Ori ed. Win eh
+(Cyprian. de cena Do-mini, Ori ed. Win eh
 
-340 THE SECOND BOOK.
+## 340 the Second Book
 
 substances, without colour or dissembling. And thus is this similitude of the sacrament brought in for the truth of the natures, not for the presence of the natures. For Christ was perfect God and perfect man when his soul went down to hell, and his body lay in the grave, because the body and soul were both still united unto his divinity ; and yet it was not required that his soul should be present with the body 1 in the sepulture : no more is it now required that his body should be really present in the sacrament; but as the soul was then in hell, so is his body now in heaven. And as it is not roquiiel that wheresoever Christ’s divinity is, there should be really and corporally his manhood ;
 
@@ -251,7 +250,7 @@ And thus the similitude of Chrysostom, Gelasius, and Theodorete, joined to dg : 
 
 And the heretics shall soon find out your cavillation, where, to avoid the matter, you say that “the mystery of the sacrament requireth not the truth of the substance.” For why should the authors bring them forth to prove the truth of the substance in — Christ, if there were no true substance in them? Thus all your shifts and sophistications be but wind, or colours cast over the truth to blear men’s eyes, which colours — rubbed off, the truth appeareth clear and plain. And your first mark is not clearly put out, but turned to a mark and spectacle for yourself, wherein you may clearly see your own error, and how foul you have been deceived in this matter, and open your eyes, if God will give you grace to put away your indurate' heart, to see the clear truth. t
 
-WINCHESTER.
+## Winchester
 
 Another certain token is the wondering and great marvelling that the old authors : how the substance of this sacrament is wrought by God’s omnipotency. Baptism is marvelle at, for the wonderful effect that is in man by it, how man is regenerate, not how the wate or the Holy Ghost is there. But the wonder in this sacrament is specially directed to the work of God in the visible creatures, how they be so changed into the body and blood of Chris which is a work ‘wrought of God before we receive the sacrament. Which work Cyprian sait is ineffable, that is to say, not speakable; which is not so if it be but a figure, for then it ma be easily spoken, as this author speaketh it with ease, I think, he speaketh it so often. Of presence by signification, if it may be so called, every man may speak and tell how; but the very presence in deed, and therefore the real presence of Christ’s body in the sacramem
 
@@ -259,7 +258,7 @@ Another certain token is the wondering and great marvelling that the old authors
 
 / no creature can tell how it may be, that Christ ascended into heaven with his human body, and therewith continually reigning there, should make present in the sacrament the same body in deed, which Christ in deed worketh, being nevertheless then at the same hour present in heaven, as St Chrysostom doth witha marvel say. If the marvel were only of God’s work in man in the effect of the sacrament, as it is in baptism, it were another matter: but I said before, the wonder is in the work of God, in the substance of the sacrament, before it be received ; which declareth the old authors that so wonder to understand the real presence of Christ's very body, and not an only signification, which hath no wonder at all. And thereSore seeing St Cyprian wondereth at it, and calleth the work ineffable, St Chrysostom wondereth at it, St Ambrose wondereth at it, Emissene wondereth at it, Cyril wondereth at it: what should we now doubt whether their faith were of a signification only, as this author would have it, which is no wonder at all, or of the real presence, which is indeed a wonderful work? Wherefore where this manifest token and certain mark appeareth in the old fathers, there can no construction? of syllables or words dissuade or pervert the truth thus testified.
 
-CANTERBURY.
+## Canterbury
 
 As touching this your second mark in the ministration of the sacraments, as well of the Lord’s holy supper as of baptism, God worketh wonderfully by his omnipotent power in the true receivers, not in the outward visible signs. For it is the person baptized that is so regenerate that he is made a new creature, without any real alteration of the water. And none otherwise it is in the Lord’s supper; for the bread and wine remain in their former substance, and neither be fed nor nourished, and yet in the man that worthily receiveth them is such a wonderful nourishment wrought by the mighty power of God, that he hath thereby everlasting life. And this is the “ineffable work of God,” whereof Cyprian speaketh.
 
@@ -273,23 +272,23 @@ And considering deeply this matter, Cyprian wondereth as much at God's work in b
 
 The wonder in the sacraments.
 
-342 THE SECOND BOOK.
+## 342 the Second Book
 
-WINCHESTER.
+## Winchester
 
 A third token there is by declaration of figures: as for example, St Hierome, when he declareth upon the epistle ad Titum so advisedly at length, how panes propositionis were the figure of the body of Christ in the sacrament; that process declareth the mind of the author to be, that in the sacrament is present the very truth of Christ’s body, not in a figure again, to join one shadow to another, but even the very truth to answer the figure; and therefore no particular words in St Hierome can have any understanding contrary to his mind declared in this process.
 
-CANTERBURY.
+## Canterbury
 
 To St Hierome I have answered sufficiently before to your confutation of my third book, almost in the end’, which should be in vain to repeat here again; therefore I will go to your last mark.
 
-WINCHESTER.
+## Winchester
 
 Fourthly, another certain mark is, where the old authors write of the adoration of this — sacrament, which cannot be but to the things godly, really present. And therefore St Augus- — tine writing in his book De Catechisandis Rudibus, how the invisible things be honoured in this sacrament, meaning the body and blood of Christ, and in the ninety-eight psalm, speaketh —
 
 [Theodoretus of adoration; Theodoretus also speaking specially of adoration of this sacrament: these a ore. a authors by this mark, that is most certain, take away all such ambiguity as men might by — suspicious divination gather sometime of their several words, and declare by this mark of — adoration plainly their faith to have been, and also their doctrine understanded as they meant of the real presence of Christ's very body and blood in the sacrament, and Christ himself God and man to be there present, to whose divine nature, and the humanity wnite thereunto, adoration may only be directed of us. And so to conclude up this matter, forasmuch as one — of these four marks and notes may be found testified and apparent in the ancient writers, with other words and sentences conformable to the same, this should suffice to exclude all arguments — of any bye sentences and ambiguous speeches, and to uphold the certainty of the true catholic — faith in deed, which this author by a wrong name of the catholic faith impugneth, to the q great slander of the truth, and his own reproach. J
 
-CANTERBURY.
+## Canterbury
 
 Your fourth mark also of adoration proveth no more that Christ is present in the —
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Prayer-Its Discouragements and Encouragements
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2841
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But He answered her not a word." Matthew 15:23.
 
@@ -109,7 +106,7 @@ me."
 
 And he went on his way rejoicing. Now, doesn't that fit you, too? What would you give tonight if you could believe that Jesus Christ was punished instead of you, so that all your sins shall never be mentioned anymore, but all be forgiven because God punished Christ Jesus instead of you? I repeat, the only way you can tell is by answering this question—Are you a sinner? "Well, we are all sinners," says one. No, no—you are all sinners, but you are not all the sort of sinners that I mean. Some people say they are sinners but they don't mean it. They are like the beggars in London apparently full of sores. Many a man we see in the streets with his leg tied up and seeming desperately lame, will take off the bandage when he gets to his lodging house— and will dance before he goes to bed at night! Another man standing against the wall says he is stone blind—but he will see to count his money when he gets home after begging all day! There are plenty of people of that sort. Now, if I invited the lame and the blind, do you think I should receive those who were only shamming? No, I would only have those who were really lame and blind! So Christ died only for those who are real sinners.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS2.
+## Exposition by C. H. Spurgeon: Ephesians 2
 
 Verse 1. And you has He quickened. Is it so? Can anyone lay his hand on your shoulder and say right into your ear, "You has He quickened"? If so, why this deadness of spirit? Why this worldliness? Why these wanderings? "You has He quickened."
 
@@ -130,7 +127,6 @@ Truth which we so soon forget that we have need to have it rung in our ears as b
 10-12. Created in Christ Jesus unto good works, which God has before ordained that we should walk in them. Therefore remember that you, being in times past, Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; that at that time you were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world. That is a true description of our Anglo-Saxon forefathers who were certainly heathen of the heathen, the wildest and most savage of men when Paul wrote this Epistle! And yet, by Sovereign Grace, we have been brought to the very forefront of the nations of the earth and we are no longer without God, nor yet without hope, nor yet without Christ. Neither are we now strangers to the covenants of promise, nor aliens from the commonwealth of Israel.
 
 13-22. But now in Christ Jesus you who sometimes were far off are made near by the blood of Christ For He is our peace, who has made both one and has broken down the middle wall of partition between us, having abolished in His flesh the enmity, even the law of commandments containedin ordinance; for to make in Himself of two, one newman, so making peace, and that he might reconcile both unto God in one body by the Cross, having slain the enmity thereby: and came and preached peace to you which were afar off, and to them that were near. For through Him we both have access by one Spirit unto the Father. Now therefore you are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God; and are built upon the foundation of the Apostles and Prophets, Jesus Christ Himself being the chief cornerstone; in whom all the building fitly framed together grows unto an holy temple in the Lord: in whom you also are built together for an habitation of God through the Spirit. Happy are the people who enjoy these high privileges!
-
 
 ---
 [[Sermon 2840 Laying the Hand on the Sacrifice|← #2840]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2842 The Sower|#2842 →]]

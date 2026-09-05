@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## John 9:1-5
 

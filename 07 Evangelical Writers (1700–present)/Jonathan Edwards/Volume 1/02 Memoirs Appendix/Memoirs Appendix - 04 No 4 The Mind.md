@@ -9,10 +9,9 @@ epub_file: "works1.ii.iv.html"
 tags:
   - jonathan-edwards
 ---
-
 # APPENDIX, NO. IV.
 
-REMARKS IN MENTAL PHILOSOPHY—THE MIND
+*Remarks in Mental Philosophy—the Mind*
 
 There are four distinct series of these manuscript Notes or Remarks, which from the handwriting, as well as from other evidence, were obviously commenced by him during his collegiate life, and as nearly as can be judged in the following order. The first, entitled ”*The Mind,*“ is a brief collection of discussions and remarks in mental philosophy. The second is without a title, and consists of ”*Notes on Natural Science.*“ The third is entitled ”*Notes on the Scriptures.*“ The fourth is entitled, ”*Miscellanies.*“ and consists chiefly of observations on the doctrines of the Scriptures. The two last he continued through life.
 
@@ -442,13 +441,13 @@ C
 
 it is requisite, in order to regularity and beauty, if there be another, D, that it should be at half an inch distance; otherwise there is no regularity, and the last, D, would stand out of its proper place; because now the relation that the space C D bears to B C, is equal to the relation that B C bears to A C; so that B C D is exactly similar to A B C. It is evident, this is a more complicated excellency than that which consisted in Equality, because the terms of the relation are here complex, and before were simple. When there are three points set in a right line, it is requisite, in order to regularity, that they should be set at an equal distance, as A B C (Fig. 2,) where A B is similar to B C, or the relation of C to B is the same as of B to A. But in the other are three terms necessary in each of the parts, between which is the relation, B C D is as A B C: so that here more simple beauties are omitted, and yet there is a general complex beauty: that is, B C is not as A B nor is C D as B C, but yet B C D is as A B C. It is requisite that the consent or regularity of C D to B C be omitted, for the sake of the harmony of the whole. For although, if C D were perfectly equal to B C, there would be regularity and beauty with respect to them two; yet, if A B be taken into the idea, there is nothing but confusion. And it might be requisite, if these stood with others, even to omit this proposition, for the sake of one more complex still. Thus, if they stood with other points, where B stood at four inches distance from A, C at two from B, and D at six from C: the place where D must stand in, if A, B, C, D, were alone, *viz*. one inch from C, must be so as to be made proportionate with the other points beneath;
 
-A B C D
+## A B C D
 
 | Ι | Ι | Ι | Ι | Ι | Ι |
 
 | Ι | Ι | Ι | Ι | Ι | Ι | Ι | Ι | Ι | Ι | Ι | Ι
 
-A B C D
+## A B C D
 
 So that although A, B, C, D, are not proportioned, but are confusion among themselves; yet taken with the whole they are proportioned and beautiful.
 

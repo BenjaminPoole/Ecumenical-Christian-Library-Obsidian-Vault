@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Think Well And Do Well
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 956
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 23, 1870,.
+*Delivered on Lord's-Day Morning, October 23, 1870*
 
 > "For Your loving kindness is before my eyes: and I have walked in Your Truth." Psalm 26:3.
 
@@ -202,7 +201,6 @@ Still hold on Jesus, sink or swim,
 Still at His footstool bow the knee,
 
 And Israel's God your help shall be." If I am a dead soul and a lost soul and have not a grain of Grace, and have everything that is bad about me, still I will cling to the Cross, and say, "I will never depart from this place: if I perish, I will perish here." Light will come unto you again, and the joy of the Lord will return, and your heart will wonder to find its own hardness depart, and your dumb tongue shall sing, and you, though once so lame, shall leap as a hart! God the Holy Spirit cause these meditations to be the means of quickening our spirits, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0955 A Singular But Needful Question|← #955]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0957 Jesus No Phantom|#957 →]]

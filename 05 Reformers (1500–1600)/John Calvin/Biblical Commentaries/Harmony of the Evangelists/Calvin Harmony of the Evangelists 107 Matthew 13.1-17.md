@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 107. Matthew 13:1-17; Mark 4:1-12, 24-25; Luke 8:1-10, 18; 10:23-24
-
-Matthew 13:1-17; Mark 4:1-12, 24-25;  
-Luke 8:1-10, 18; 10:23-24
 
 **1**. And on the same day Jesus went out of the house, and sat down near the sea. **2**. And great multitudes were gathered to him, so that he entered into a ship, and sat down, and the whole multitude was standing on the shore. **3**. And he said many things to them by parables, saying, Lo, one who was sowing, some seeds fell near the road, and the birds came and devoured them. **5**. And some fell on stony places, where they had not much earth, and immediately they sprang up, because they had not depth of earth. **6**. But when the sun rose, they were burnt up, and because they had not a root, they withered away. **7**. Others again fell on thorns, and the thorns grew up, and choked them. **8**. And others fell on good soil, and yielded fruit: some a hundred-fold, some sixty-fold, some thirty-fold. **9**. He that hath ears to hear, let him hear. **10**. And the disciples approaching said to him, Why dost thou speak to them by parables? **11**. But he answering, said to them, To you it is given to know the mysteries [^1] of the kingdom of heaven, but to them it is not given, **12**. For whosoever hath, it shall be given to him, and he shall be rendered more wealthy; [^2] and whosoever hath not, even that which he hath shall be taken from him. **13**. For this reason I speak to them in parables, because seeing, they do not see, and hearing, they do not hear nor understand. **14**. And in them is fulfilled the prophecy of Isaiah, which saith, With the ears you shall hear, and shall not understand, and seeing, you shall see, and shall not perceive. **15**. For the heart of this people hath become gross, and with their ears they have heard heavily, and their eyes they have shut, lest at any time they should see with their eyes, and hear with their ears, and understand with the heart, and be converted, and I should heal them. **16**. But your eyes are blessed for they see; and your ears, for they hear. **17**. Verily, I say to you, That many prophets and righteous men have desired to see the things which you see, and have not seen them, and to hear the things which you hear, and have not heard them.
 

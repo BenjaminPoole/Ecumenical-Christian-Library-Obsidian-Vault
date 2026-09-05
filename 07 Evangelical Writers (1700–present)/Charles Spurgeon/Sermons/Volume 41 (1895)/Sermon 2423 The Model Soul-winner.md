@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Model Soul-winner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2423
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There came a woman of Samaria to draw water: Jesus said to her, Give Me a drink." John 4:7.
 
@@ -93,7 +90,7 @@ I have heard of a great king who had pitched his royal pavilion and when he was 
 
 Oh, that I knew how to bring you to Christ, dear Hearers! This is a hot summer's night and you are weary, perhaps, of my talking, but I would not mind that if I could bring you to Jesus! Oh, that I might have fruit from this sermon! This week I believe I might say that I have met and heard of hundreds who, in past years, have been brought to the Savior by the printed sermons. They came to me, grasped my hand, and thanked me—and I praised God—but then I thought, "Yes, God did bless me, and He has blessed the printed sermons, but I want present fruit, and to see sinners, now, close in with Christ and be eternally saved." Is all that I preach to you only a dream or a fiction? Then, fling it away from you and despise both it and me! But if it is true and if I only tell you of a true salvation, and a true Savior, come and have it, come and trust Him now, for He casts out none who come to Him! May this be the deciding time with many of you, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN4:1-32.
+## Exposition by C. H. Spurgeon: John 4:1-32
 
 Verses 1-4. When, therefore, the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John, (though Jesus Himself baptized not, but His disciples), He left Judea and departed again into Galilee. And He needed to go through Samaria. When He was needed in so many places, He did not care to stay among the Pharisees where He was not wanted. They would not receive His message, so He left the lordly professors and went to look after a fallen woman! Christ's estimates of usefulness are not always the same as ours. We think it a grand thing to be the means of converting a great man—Christ thinks it a worthy work to convert a great sinner!
 
@@ -134,7 +131,6 @@ Verses 1-4. When, therefore, the Lord knew how the Pharisees had heard that Jesu
 28, 29. And went her way into the city, and said to the men, Come, see a Man which told me all things that ever I did. Is not this the Christ? They must have been surprised to hear her talking about good things. There was no more likely messenger to win men, or to strike them with curiosity, than such a woman as this.
 
 30-32. Then they went out of the city and came to Him. In the meantime His disciples urged Him, saying, Master, eat. But He said unto them, I have meat to eat that you know not of. So has every man who lives to win souls for Christ! There is a table which he enters where the very delicacies of God are brought before him and his soul is sustained and his strength is renewed by the dainties that the Lord has provided for those who do His will! Brothers and Sisters, may we often feed upon this heavenly meat! Amen.
-
 
 ---
 [[Sermon 2422 There Is Forgiveness|← #2422]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2424 The New Song On Earth|#2424 →]]

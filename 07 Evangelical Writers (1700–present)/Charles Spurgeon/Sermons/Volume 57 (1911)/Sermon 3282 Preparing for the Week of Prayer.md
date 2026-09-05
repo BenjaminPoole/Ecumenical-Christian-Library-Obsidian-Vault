@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Preparing for the Week of Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3282
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And another angel came and stood at the altar, having a golden censer; and then was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne. And the smoke of the incense which came with the prayers of the saints, ascended up before God out of the angel's hand." Revelation 8:3,4.
 
@@ -99,7 +96,7 @@ I want, in closing, to remind you of the remarkable verses that follow my text. 
 
 There may be some here, and doubtless there are some who have never truly prayed in their lives. What a blessed beginning it would be to the week of united prayer if they would begin to pray tonight! But, my Brother, or my Sister, it is no use for you to attempt to pray without faith, "for he that comes to God must believe that He is" and that He is a re-warder of them that diligently seek Him." And what is faith? Why, faith is trust, confidence, reliance upon Christ! If anyone among you will trust the Lord Jesus Christ tonight. If you will put your whole confidence in Him. If you will rely upon Him for time and eternity—especially if you trust to the merit of His great atoning Sacrifice, He will prove Himself to be worthy of your trust and He will save you with His everlasting salvation! No, more than that, for if you trust Christ, you are saved, for, "he that believes on the Son has everlasting life." Then when you are saved, you can join your believing prayers to the prayers of all the rest of the saints—and your prayers shall be put with theirs in the golden censer in the hand of our Great High Priest—and He will add to them the, "much incense," of His intercession and so they shall ascend acceptably before the Throne of God! May the Lord graciously teach you the holy arts of faith and prayer for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION21:22-27; 22
+## Exposition by C. H. Spurgeon: Revelation 21:22-27; 22
 
 Verse 22. And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it It has a temple, that better state, that land of the Well-Beloved, but not a material temple that John could see, yet he knew that it had a temple "for the Lord God Almighty and the Lamb are the temple of it." Where They are is the holy place where all the tribes of the spiritual Israel shall be gathered at the last, to go no more out forever. "The Lord God Almighty and the Lamb" have a Glory far greater than Solomon's Temple ever had and far greater even than that later Temple which excelled even his in Glory!
 
@@ -154,7 +151,6 @@ earth to Heaven. Christ says to us, "Come," and we cry to Him, "Come." Oh, that 
 20\. He which testifies these things says, Surely I come quickly. Amen. Even so come, Lord Jesus. All those centuries ago, Jesus said, "I am coming quickly." How much nearer His coming must be, and how earnestly we, too, should cry, "Even so come, Lord Jesus."
 
 21\. The Grace of our lord Jesus Christ be with you all Amen. The Old Testament ended with a curse, the New Testament ends with benediction. Oh, that we might all have a share of it!
-
 
 ---
 [[Sermon 3281 The Broad Wall|← #3281]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]]

@@ -10,10 +10,9 @@ written: "1561"
 tags:
  - calvin-commentaries
 ---
-
 # Daniel 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 In this second chapter we are informed how God brought Daniel into a theater, to exhibit that prophetic office to which he had been destined. God had already engraven, as we have said, distinct marks by which Daniel might be acknowledged as a Prophet, but he wished really to prove the effect of the grace which he had conferred upon Daniel. First of all, a simple history is narrated, then Daniel proceeds to the interpretation of a dream. This is the heading of the chapter.
 
@@ -37,7 +36,7 @@ I now come to Nebuchadnezzar’s Dream. In this, two points are worthy of remark
 
 ## Prayer Lecture 4
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since every perfect gift comes from thee, and since some excel others in intelligence and talents, yet as no one has anything of his own, but as thou deignest to distribute to man a measure of thy gracious liberality, — Grant that whatever intelligence thou dost confer upon us, we may apply it to the glory of thy name. Grant also, that we may acknowledge in humility and modesty what thou hast committed to our care to be thine own; and may we study to be restrained by sobriety, to desire nothing superfluous, never to corrupt true and genuine knowledge, and to remain in that simplicity to which thou callest us. Finally, may we not rest in these earthly things, but learn rather to raise our minds to true wisdom, to acknowledge thee to be the true God, and to devote ourselves to the obedience of thy righteousness; and may it be our sole object to devote and consecrate ourselves entirely to the glory of thy name throughout our lives, through Jesus Christ our Lord. — Amen.
 
@@ -85,7 +84,7 @@ He adds again, *Ye have prepared a fallacious and corrupt speech to relate here 
 
 ## Prayer Lecture 5
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, since during our pilgrimage in this world we have daily need of the teaching and government of thy Spirit, that with true modesty we may depend on thy word and secret inspiration, and not take too much on ourselves, — Grant, also, that we may be conscious of our ignorance, blindness, and stupidity, and always flee, to thee, and never permit ourselves to be drawn aside in any way by the cunning of Satan and of the ungodly. May we remain so fixed in thy truth as never to turn aside from it, whilst thou dost direct us through the whole course of our vocation, and then may we arrive at that heavenly glory which has been obtained for us through the blood of thine only begotten Son. — Amen.
 
@@ -147,7 +146,7 @@ Here it may be gathered, that Daniel did not vacillate nor pray with his compani
 
 ## Prayer Lecture 6
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are in danger every day and ever, moment, not merely from the cruelty of a single tyrant, but from the devil, who excites the whole world against us, arming the princes of this world, and impelling them to destroy us, — Grant, I pray thee, that we may feel and demonstrate, by experience, that our life is in thy hand, and that under thy faithful guardianship thou wilt not suffer one hair of our heads to fall. Do thou also so defend us, that the impious themselves may acknowledge that we do not boast this day in vain in thy name, nor invoke thee without success. And when we have experienced thy paternal anxiety, through the whole course of our life, may we arrive at that blessed immortality which thou hast promised us, and which is laid up for us in heaven, through Jesus Christ our Lord. — Amen.
 
@@ -191,7 +190,7 @@ He afterwards adds, *because thou hast given me wisdom and strength* As far as r
 
 ## Prayer Lecture 7
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we have so many testimonies to thy glory daily before our eyes, though we seem so blind as to shut out all the light by our ingratitude; grant, I pray, that we may at length learn to open our eyes; yea, do thou open them by thy Spirit. May we reflect on the number, magnitude, and importance of thy benefits towards us; and while thou dost set before us the proof of thy eternal divinity, grant that we may become proficient in this school of piety. May we learn to ascribe to thee the praise of all. virtues, till nothing remains but to extol thee alone. And the more thou deignest to declare thyself liberal towards us, may we the more ardently desire to worship thee. May we devote ourselves to thee without reserving the slightest self praise, but caring for this only, that thy glory may remain and shine forth throughout all the world, through Christ our Lord. — Amen.
 
@@ -253,7 +252,7 @@ He afterwards adds, *But that I may make known to the king the interpretation, a
 
 ## Prayer Lecture 8
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou desirest us to differ from the brutes, and hence didst impress our minds with the light of intellect, — Grant, I pray thee, that we may learn to acknowledge and to magnify this singular favor, and may we exercise ourselves in the knowledge of those things which induce us to reverence thy sovereignty. Besides this, may we distinguish between that common sense which thou hast bestowed upon us, and the illumination of thy Spirit, and the gift of faith, that thou alone mayest be glorified by our being grafted by faith into the body of thine only-begotten Son. We entreat also from thee further progress and increase of the same faith, until at length thou bring us to the full manifestation of light. Then, being like thee, we shall behold thy glory face to face, and enjoy the same in Christ our Lord. — Amen.
 
@@ -299,7 +298,7 @@ As to Christ being called *the stone cut out without human, hands,* and being po
 
 ## Prayer Lecture 9
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we so travel through this world that our attention is easily arrested, and our judgment darkened, when we behold the power of the impious refulgent and terrible to ourselves and others. Grant, I say, that we may raise our eyes upwards, and consider how much power thou hast conferred upon thine only-begotten Son. Grant, also, that he may rule and govern us by the might of his Spirit, protect us by his faithfulness and guardianship, and compel the whole world to promote our salvation; thus may we rest calmly under his protection, and fight with that boldness and patience which he both commands and commends, until at length we enjoy the fruit of the victory which thou hast promised, and which thou wilt provide for us in thy heavenly kingdom. — Amen.
 
@@ -351,7 +350,7 @@ With respect to the word “*stone,*” Christ is not here called *a stone* in t
 
 ## Prayer Lecture 10
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may remember ourselves to be pilgrims in the world, and that no splendor of wealth, or power, or worldly wisdom may blind our eyes, but may we always direct our eyes and all our senses towards the kingdom of thy Son. May we always fix them there, and may nothing hinder us from hastening on in the course of our calling, until at length we pass over the course and reach the goal which thou hast set before us, and to which thou dost this day invite us by the heralding of thy gospel. Do thou at length gather us unto that happy eternity which has been obtained for us through the blood of the same, thy Son. May we never be separated from him, but, being sustained by his power, may we at last be raised by him to the highest heavens. — Amen.
 
@@ -391,7 +390,7 @@ When the king of Babylon *fell upon his face,* it is partly to be considered as 
 
 ## Prayer Lecture 11
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast shewn us by so many, such clear and such solid *testimonies,* that we can hope for no other Redeemer than him whom thou hast set forth and as thou hast sanctioned his divine and eternal power by so many miracles, and hast sealed it by both the preaching of the Gospel and the seal of thy Spirit in our hearts, and dost confirm the same by daily *experience,* — *Grant* that we may remain firm and stable in him. May we never decline from him may our faith never waver, but withstand all the temptations of Satan and may *we* so persevere in the course of thy holy calling, that we may be gathered at length unto that eternal blessedness and perpetual rest which has been obtained for us by the blood of the same, thy Son — Amen.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Self-righteousness—a Smoldering Heap of Rubbish
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1497
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 28, 1879,.
+*Delivered on Lord's-Day Morning, September 28, 1879*
 
 > "Which say, Stand by yourself, come not near to me; for I am holier than you. These are a smoke in My nose, a fire that burns all the day." Isaiah 65:5.
 
@@ -142,7 +141,6 @@ What is the remedy for all this? The remedy is just this. God says, "Behold Me."
 Then comes the second, "Behold Me." See Christ Jesus on the Cross dying, the Just for the unjust, to bring us to God! As you see Him dying, your self-righteousness will die. You will say, "He would never have suffered thus for me unless I had sin to repent of. God would never have put Him to this grief for me unless I had been sadly guilty. I should never have needed such a Savior if I had not been a great transgressor. In the heights and depths of dying love I read the heights and depths of my accursed sin! In the infinity of the Atonement I read the boundless blackness of my guilt and lie humble before God. At the same time, in that perfect Divine righteousness, which has put away sin, I see the hope of a sinner and as a sinner I look to Christ for everything."
 
 If you do this, it is well. God blesses you. May everyone here be enabled to do this immediately and unto God shall be the glory forever and ever. Amen.
-
 
 ---
 [[Sermon 1496 Among Lions|← #1496]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1498 Mistrust of God Deplored and Denounced|#1498 →]]

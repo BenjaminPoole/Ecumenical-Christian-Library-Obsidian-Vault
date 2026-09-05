@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Knowing the Lord Through Pardoned Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2006
 
-DELIVERED ON LORD'S DAY MORNING, JANUARY 29, 1888,.
+*Delivered on Lord's Day Morning, January 29, 1888*
 
 > "And they shall teach no more every man his neighbor and every man his brother, saying, Know the Lord: for they shall all know Me, from the least of them unto the greatest of them, says the Lord; for I will forgive their iniquity and I will remember their sin no more." Jeremiah 31:34.
 
@@ -150,7 +149,6 @@ Neither time with its lapse, nor suffering with its fret, nor doubt with its ven
 We may be beaten in argument by the sophistries of the new theologians. But we cling to the facts of our experience and cannot be parted from them. When the God of the Old Testament is decried, we glory in Him, saying, "He has pardoned my sin and thus He has proved Himself to be God, indeed." Our opponents may turn round and say, "That is no argument to us." We only reply, "We dare say it is not. But it is argument enough for us and we must leave you to judge for yourselves. If you will not believe our testimony, we are clear."
 
 May the Lord renew to our souls, from day to day, our sense of pardoned sin and we shall be happily established in His faith and fear, whatever others may have to say. Oh, how I desire that all my hearers may seek and find this sin-pardoning God in Christ Jesus! Look to your Savior hanging on the tree, bearing the curse that you might be blessed. Look, I say and you also shall know the Lord. The Lord help you—Amen and amen.
-
 
 ---
 [[Sermon 2005 The Hairs of Your Head Numbered|← #2005]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2007 Holding Fast the Faith|#2007 →]]

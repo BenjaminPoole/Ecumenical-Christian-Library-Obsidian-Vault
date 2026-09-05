@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Christ's Loneliness and Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3052
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered them, Do you now believe? Behold, the hour comes, yes, is now come, that you shall be scattered, every man to his own, and shall leave Me alone: and yet I am not alone, because the Father is with Me." John 16:31,32.
 
@@ -87,7 +84,7 @@ There is such a thing—I would that we might reach it—as the solitude of elev
 
 The last solitude will come to us all in the hour of death. Down to the river's brink they may go with us, a weeping company—wife, children and friends. Their kind looks will mean the help they cannot give. To that river's brink they may go in fond companionship, but then, as with our Lord, the cloud received Him out of His disciples' sight, so must we be received out of sight of our beloved ones. The chariot of fire must take Elijah away from Elisha. We must ascend alone. Bunyan may picture Christian and Hopeful together in the stream, but it is not so—they pass, each one, alone through the river. Yet we shall not be alone, my Brothers and Sisters—we correct our speech—the Father will be with us! Jesus will be with us! The Eternal Comforter will be with us! The everlasting Godhead in the Trinity of Persons shall be with us! And the angels of God shall be our convoy. Let us go our way, rejoicing that when we shall be alone, we shall not be alone because the Father will be with us—as He is with us even now!
 
-EXPOSITION BY C. H. SPURGEON: JOHN161-22.
+## Exposition by C. H. Spurgeon: John 161-22
 
 Verse 1. These things have I spoken unto you, that you should not be offended. "That you should not be scandalized when you see Me put to death, and when you miss My bodily Presence from your midst. I want to prepare you for the shame and death that lie before Me and also prepare you for all that lies before you, for many of you will have to drink of My cup and to be baptized with My Baptism." "These things have I spoken unto you, that you should not be offended," or ashamed, or scandalized, or caused to stumble when they come to pass.
 
@@ -122,7 +119,6 @@ clue to it, so ask Him to guide you into it. There is such a thing as seeing the
 14-18. For He shall receive of Mine and shall show it unto you. All things that the Father has are Mine: therefore saidI, that He shall take ofMine, and shall show it unto you. A little while, andyou shall not see Me: andagain, a little while, and you shall see Me, because I go to the Father Then said some of His disciples among themselves, What is this that He says unto us, A little while, andyou shall not see Me: andagain, a little while, andyou shall see Me: and, Because I go to the Father? They said therefore, What is this that He says, A little while? We cannot tell what He says.These disciples of Christ were almost as ignorant as the rank outsiders were! Though they had been with Jesus for three years, they had not learned what is clear enough to every Sunday school child, today, and what is certainly perfectly understood by all who are taught of God! They said, "What is this that He says unto us, A little while, and you shall not see Me: and again, a little while, and you shall see Me: and, because I go to the Father? They said therefore, What is this that He says, A little while? We cannot tell what He says."
 
 19-22. Now Jesus knew that they were desirous to ask Him, and said unto them, Do you inquire among yourselves of that I said, A little while, andyou shall not see Me: and again, a little while, andyou shall see Me? Verily, verily, I say unto you, That you shall weep and lament, but the world shall rejoice: andyou shall be sorrowful, but your sorrow shall be turned into joy. A woman when she is in travail has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world. And you now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man takes from you
-
 
 ---
 [[Sermon 3051 Lessons From a Dovecot|← #3051]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3053 Jesus Christ's Idiom|#3053 →]]

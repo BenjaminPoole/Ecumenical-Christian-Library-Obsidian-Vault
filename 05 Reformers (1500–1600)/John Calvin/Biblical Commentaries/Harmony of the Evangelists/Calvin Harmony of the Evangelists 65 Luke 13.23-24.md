@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 65. Luke 13:23-24
-
-**LUKE 13:23-24**
 
 **23**. And one saith to him, Lord, are there few who obtain salvation? And he said to them, **24**. Strive to enter by the narrow gate: for many, I say to you, will seek to enter, and shall not be able.
 

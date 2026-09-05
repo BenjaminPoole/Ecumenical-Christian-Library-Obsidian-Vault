@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Our Lord's Posture in Ascension
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2949
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He led them out as far as to Bethany, and He lifted up His hands, and blessed them. And it came to pass, while He blessed them, He was parted from them, and carried up into Heaven. And they worshipped Him, and returned to Jerusalem with great joy: and were continually in the temple, praising and blessing God." Luke 24:50-53.
 
@@ -142,7 +139,6 @@ Then there was another thing that the disciples did. They "were continually in t
 If outsiders are asking, "What have we to do with this Jesus who has gone up into Heaven?" let me remind you of another purpose of His exaltation. Peter said to the high priest, "Him has God exalted with His right hand to be a Prince and a Savior, for to give repentance to Israel"—that is, to the very chief of sinners—"to give repentance to Israel, and forgiveness of sins." And it is through faith in Him that this forgiveness may be given to you. If you trust in Him who has
 
 risen from the dead and gone into His Glory, you shall be saved, for, "He is able also to save them to the uttermost that come unto God by Him, seeing He ever lives to make intercession for them." That is what He is doing now, so trust Him with your case, trust Him now, for His dear name's sake. Amen.
-
 
 ---
 [[Sermon 2948 Stephen and Saul|← #2948]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2950 True and Not True|#2950 →]]

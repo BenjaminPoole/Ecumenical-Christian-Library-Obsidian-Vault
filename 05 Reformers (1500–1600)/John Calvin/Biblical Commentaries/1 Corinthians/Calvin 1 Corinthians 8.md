@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## 1 Corinthians 8:1-7
 

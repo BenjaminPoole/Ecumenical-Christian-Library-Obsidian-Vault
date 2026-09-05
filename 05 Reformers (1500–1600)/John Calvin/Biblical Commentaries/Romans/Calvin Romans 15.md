@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 15
 
-**CHAPTER 15 [^1]**
+***Chapter 15 [^1]***
 
 ## Romans 15:1-3
 

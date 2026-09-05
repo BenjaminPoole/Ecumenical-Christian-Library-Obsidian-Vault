@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Shaved and Shorn, But Not Beyond Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1939
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "However, the hair of his head began to grow again after he was shaved." Judges 16:22.
 
@@ -114,7 +111,6 @@ Lastly, what did it prophesy? Well, it prophesied mischief for the Philistines. 
 When a sinner who has gone astray is restored again, it means mischief to the kingdom of Satan. Oh, how he will serve his God! How he will try to bring back his fellow sinners! Having had much forgiven, this man will love much and will serve Jesus much! He will be one of your earnest Christian men, depend upon it! He will be much in prayer! He will be careful in his walk! He will be holy in his speech! He will contend earnestly for the Doctrines of Grace! He will be a leader among the host of God, even as he had been a ringleader in sin! He will invade the dark places and lead the chief of sinners captive to the Cross! Woe to you, Philistia, when Samson's hair grows again! Woe to the hosts of evil when the backslider is restored!
 
 There, I have put it all before you. I have tried to put the matter interestingly, but all the while my heart has been yearning over you that have gone aside. I am pining for the restoration of those who have turned like the dog to his vomit and the sow that was washed to her wallowing in the mire. I long for your restoration, or your true conversion. I want to see a different nature in you, that you may neither be dogs nor swine, but may become the real children of our God and Father! And then you will not return to your former ways. If you have defiled yourselves, may you at once be washed! If you have wandered, may you at once be restored to Jesus and His Church, to the praise and the glory of His Divine Grace wherein He has made us accepted in the Beloved! Amen.
-
 
 ---
 [[Sermon 1938 The Master Key—Opening the Gate of Heaven|← #1938]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1940 The Best Bread|#1940 →]]

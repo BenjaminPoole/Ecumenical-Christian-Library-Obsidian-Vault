@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Railings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2999
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When you build a new house, then you shall make a railing for your roof that you bring not guilt of bloodshed on your household, if any man fall from it." Deuteronomy 22:8.
 
@@ -87,9 +84,9 @@ We ought to strictly rail our houses as to many things which in this day are tol
 
 For another reason, we should carefully discern between places of public amusement. Some that are perfectly harmless, recreative and instructive—to deny these to our young people would be foolish. But certain amusements stand on the border between the openly profane and the really harmless. We say do not go to these—never darken the doors of such places. Why? Because it may be the edge of the house and though you may not break your neck if you walk along the railing, yet you are best on this side of the railing! You are least likely to fall into sin by staying away—and you cannot afford to run risks. We have all heard the old story of the good woman who required a coachman. Two or three young fellows came to seek for the situation. Each of them she saw and questioned alone. The first one had this question put to him, "How near could you drive to danger?" And he said, "I do not doubt but that I could drive within a yard of danger." "Well, well," the lady said, "you will not do for me." When the second came in, the good woman questioned him in like manner, "How near could you drive to danger?" "Within a hair's breath, Madam," he said. "Oh," she said, "that will not suit me at all." A third was asked the same question and he prudently replied, "If you please, Madam, that is one of the things I have never tried. I have always tried to drive as far from danger as I can." "You are the coachman for me," she said, and surely that is the kind of manager we all should have in our households! Oh, let us not so train up our children that in all probability they will run into sin! Let us, on the contrary, exhibit such an example in all things that they may safely follow us. Let us so walk that they may go step by step where we go and not be cast out of the Church of God as a reproach, nor be cast away from the Presence of God. Rail your houses, then! Do not be afraid of being too strict and too Puritan! There is no fear of that in these days—there is a great deal more danger of bringing solemn judgments on our families through neglecting the worship of God in our households!
 
-IV. THE PREACHER WOULD NOW REMIND HIMSELF THAT THIS CHURCH IS, AS IT WERE, HIS OWN
+## IV. The Preacher Would Now Remind Himself that This Church Is, as It Were, His Own
 
-HOUSE AND THAT HE IS BOUND TO RAIL IT.
+## House and that He Is Bound to Rail It
 
 Many come here, Sabbath after Sabbath, to hear the Gospel. The immense number and the constancy of it surprise me. I do not know why the multitudes come and crowd these aisles. When I preached yesterday in Worcestershire and saw the thronging crowds in every road, I could not help wondering to see them—and the more so because they listened as though I had some novel discovery to make—they listened with all their ears, eyes and mouths! I could but marvel and thank God. Ah, but it is a dreadful thing to remember that so many people hear the Gospel and yet perish under the sound of it! Alas, the Gospel becomes to them a savor of death unto death—and there is no lot so terrible as perishing under a pulpit from which the Gospel is preached!
 
@@ -103,7 +100,7 @@ Once more, remember the love of God in Christ Jesus. I heard, the other day, of 
 
 God bless you, and help you to trust in Jesus, and His shall be the praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 6:1-14; 30-45.
+## Exposition by C. H. Spurgeon: John 6:1-14; 30-45
 
 Verses 1-6. After these things Jesus went over the Sea of Galilee, which is the sea of Tiberias. And a great multitude followed Him, because they saw His miracles which He did on them that were diseased. And Jesus went up into a mountain, and there He sat with His disciples. And the Passover, a feast of the Jews, was near. When Jesus then lifted up
 
@@ -130,7 +127,6 @@ His eyes and saw a great company come unto Him, He said unto Philip, Where shall
 How is it then that He says, I came down from Heaven; Jesus therefore answered and said unto them, Murmur not among yourselves. No man can come to Me, except the Father which has sent Me draw him. Note how that Doctrine of Sovereign Grace is used by Christ. He seems to wave it, like a lighted torch, in the faces of His adversaries, as if He said to them, "I did not expect you to understand Me. I did not expect you to receive Me. Do not think that you surprise Me by your action. Imagine not that you frustrate My eternal purposes by rejecting Me. I knew that you would not receive Me and that, as you are, you could not come to Me, for 'no man can come to Me, except the Father which has sent Me draw him.'"
 
 44, 45. And I will raise Him up at the last day. It is written in the Prophets, And they shall be all taught of God. Every man therefore that has heard, and has learned of the Father, comes unto Me. May we so hear and so learn of the Father that we may come to Jesus Christ!
-
 
 ---
 [[Sermon 2998 The Rule of Christ|← #2998]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3000 COME AND WELCOME|#3000 →]]

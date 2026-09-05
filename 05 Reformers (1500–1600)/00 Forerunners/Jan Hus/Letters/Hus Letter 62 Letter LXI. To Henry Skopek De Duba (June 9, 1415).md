@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 62. Letter LXI. To Henry Skopek De Duba (June 9, 1415)
-
-LETTER LXI. TO HENRY SKOPEK DE DUBA (June 9, 1415)
 
 Contrast in serving Christ and Sigismund ; Some verses enclosed 227-8
 

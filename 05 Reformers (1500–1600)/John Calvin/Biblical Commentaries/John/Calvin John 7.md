@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## John 7:1-8
 

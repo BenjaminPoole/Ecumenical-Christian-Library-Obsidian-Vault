@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 173. Numbers 23:1-30
-
-**Numbers 23**
 
 **1.** And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 

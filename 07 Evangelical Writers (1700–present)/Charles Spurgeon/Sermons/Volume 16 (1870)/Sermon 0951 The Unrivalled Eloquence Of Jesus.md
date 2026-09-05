@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Unrivalled Eloquence Of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 951
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 18, 1870,.
+*Delivered on Lord's-Day Morning, September 18, 1870*
 
 > "The officers answered, Never man spoke like this Man." John 7:46.
 
@@ -184,7 +183,6 @@ You have sometimes marvelled that the minister should give such fearful descript
 forth.
 
 Love once made angry turns to wrath, intense and terrible. Oil is soft, but how fiercely it burns! Beware, lest His anger is kindled against you, for it will burn even to the lowest Hell. The Lamb of God is as a lion to those who reject His love. Provoke Him no longer. May the Holy Spirit bow you to repentance. God grant that in a far happier sense than this last, you may learn to say, "Never man spoke like this Man." But one way or other every soul here, and every soul of woman born, shall acknowledge that, "Never man spoke like this Man." To God I commend you. Farewell.
-
 
 ---
 [[Sermon 0950 Means for Restoring the Banished|← #950]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0952 Negotiations For Peace|#952 →]]

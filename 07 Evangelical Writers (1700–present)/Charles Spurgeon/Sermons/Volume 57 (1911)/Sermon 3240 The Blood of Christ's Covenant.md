@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Blood of Christ's Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3240
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As for you, also, by the blood ofyour Covenant I have sent forth your prisoners out of the pit wherein is no water." Zechariah 9:11.
 
@@ -93,7 +90,7 @@ Perhaps you are afraid to say as much as this, lest it should seem to be presump
 
 If any here are still prisoners in the pit wherein is no water, may the Lord even now bring them forth by the blood of His Covenant, that they may share with all the chosen ones, all the blessings of that Covenant now and to all eternity! And too Him shall be the praise and the Glory forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ZECHARIAH 9; 10.
+## Exposition by C. H. Spurgeon: Zechariah 9; 10
 
 As we read these ancient prophecies, we will not only notice how exactly they have been fulfilled, but we will also try to learn the lesson that they are intended to teach us.
 
@@ -148,7 +145,6 @@ them. [See Sermon #2588, Volume 44—PERFECT RESTORATION.] See, Beloved, how the
 11\. And shall smite the wave in the sea, and all the deeps of the River shall dry up: and the pride of Assyria shall be brought down, and the scepter of Egypt shall depart away. For the Glory of God in the deliverance of His people is sure to be attended by another form of Glory in the destruction of His enemies! Christ is a sweet Savior unto God both in them that are saved and in them that perish.
 
 12\. AndI will strengthen them in the LORD; and they shall walk up and down in His name, says the LORD.
-
 
 ---
 [[Sermon 3239 Woe and Weal|← #3239]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3241 A Painful and Puzzling Question|#3241 →]]

@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Habakkuk 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Lecture One Hundred And Ninth
 

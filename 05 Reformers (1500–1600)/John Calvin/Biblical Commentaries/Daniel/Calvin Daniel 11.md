@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Daniel 11:1
 
@@ -23,7 +22,7 @@ Interpreters explain this verse in various ways. Some think the angel fought for
 
 ## Prayer Lecture 55
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou daily and familiarly deignest to grant us the light of heavenly doctrine, that we may come to thy school with true humility and modesty. May our docility be really apparent; may we receive with reverence whatever proceeds from thy lips, and may thy majesty be conspicuous among us. May we taste of that goodness which thou dost manifest to us in thy word, and be enabled to rejoice in thee as our Father; may we never dread thy presence, but may we enjoy the sweet testimony of thy paternal grace and favor. May thy word be more precious to us than gold and worldly treasures, and, meanwhile, may we feed upon its sweetness, until we arrive all that full satiety which is laid up for us in heaven through Christ our Lord. — Amen.
 
@@ -71,7 +70,7 @@ Here the angel begins to treat of the kings of Egypt and of Syria. He does not m
 
 ## Prayer Lecture 56
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou not only deignedst to unfold future events to thy servant Daniel, and to the pious who waited for the advent of thine only-begotten Son, that they might be prepared for all sufferings, and might perceive the Church to repose under thy care and protection, but also wishedst these prophecies to profit us at this day, and to confirm us in the same doctrine: Grant us to learn how to cast all our cares and anxieties on thy paternal providence. May we never doubt thy oversight of the cares of thy Church in these days, and thy protection against the fury of the ungodly who try all means of destroying it. May we repose in peace under that guardianship which thou hast promised us, and struggle on under the standard of the cross; and possess our souls in patience, until at length thou shalt appear as our Redeemer with outstretched hand, at the manifestation of thy Son, when he returns to judge the world. — Amen.
 
@@ -121,7 +120,7 @@ This is the reason why the angel says, *The king of Syria,* or *of the north*, *
 
 ## Prayer Lecture 57
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou hast deigned to set before our eyes as in a glass that peculiar providence of thine by which thou defendest thy Church: Grant, that being confirmed by these examples, we may learn to repose entirely upon thee. Amidst the numerous disturbances by which the world is at this time agitated, may we remain quiet under thy protection. May we so commit our safety to thee as never to hesitate, whatever may happen, as to our future safety and security. Whatever we may suffer, may it all issue in our salvation, while we are protected by thy hand; thus will we call upon thy name with sincerity of mind, and thou wilt in return shew thyself as our Father in thine only-begotten Son. — Amen.
 
@@ -177,7 +176,7 @@ There is some obscurity in these words, but the history will afterwards determin
 
 ## Prayer Lecture 58
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since it pleases thee to exercise our confidence by not allowing us any fixed or stable rest upon earth, that we may learn to rest in thee while the world rolls over and over even a hundred times. May we never doubt either our protection under thy hand, or the perpetual issue of all things in our good. Although we are not beyond the reach of darts, yet may we know the impossibility of our suffering under any deadly wound, when thou puttest forth thy hand to shield us. May we have full confidence in thee, and never cease to march under thy standard with constant and invincible courage, until at length thou shalt gather us into that happy rest which is laid up for us in heaven, by Christ our Lord. — Amen.
 
@@ -237,7 +236,7 @@ The angel here announces how Antiochus Epiphanes after prevailing by fraud, shou
 
 ## Prayer Lecture 59
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may remain quiet under thy shelter and protection, hi the midst of those numerous disturbances which thou ever submittest to our eyes in this world. May we never lose our courage when an occasion is given to Satan and our enemies to oppress us, but may we remain secure trader thy protection, and every hour and every moment may we fly to thy guardianship. Relying on thine unconquered power, may we never hesitate so to pass through all commotion’s, as to repose with quiet minds upon thy grace, till at length we are gathered into that happy and eternal rest which thou hast prepared for us in heaven, by Jesus Christ our Lord. — Amen.
 
@@ -291,7 +290,7 @@ Lastly, he wished the faithful to retain by this teaching a sense of God’s unc
 
 ## Prayer Lecture 60
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as we are instructed by thy Spirit and armed by thy sacred teaching, we may carry on the war bravely with open enemies and with all who boldly oppose true religion. May we also constantly despise all domestic foes and apostates, and resist them manfully. May we never be disturbed, even if various tumults should arise in thy Church. May we fix our eyes upon thee, and always expect a happier issue than appears possible at the time, until at length thou shalt fulfill thy promises. And may all events which now seem contrary to us, issue in our salvation, when thy Son our Redeemer shall appear. — Amen.
 
@@ -325,7 +324,7 @@ Besides this, the old enemy the devil, who formerly opposed the Church, is equal
 
 ## Prayer Lecture 61
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as at this day thou dost try the faith of thy people by many tests, that they may obtain strength from the unconquered fortitude of thy Holy Spirit. May we constantly march under thy standard, even to the end, and never succumb to any temptation. May we there join intelligence with zeal in building up thy Church: as each of us is endowed with superior gifts, so may he strive for the edification of his brethren with greater boldness, manliness, and fervor, while he endeavors to add numbers to the cause. And should the number of those who are professed members of thy Church diminish, yet may some seed always remain, until abundant produce shall flow forth from it, and such fruitfulness arise as shall cause thy name to be glorified throughout the whole world, in Jesus Christ our Lord. — Amen.
 
@@ -363,7 +362,7 @@ I now proceed to the words, *The king shall do according to his will* I have sta
 
 ## Prayer Lecture 62
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as in these days the affairs of the world are in a state of disturbance, and as wherever we turn our eyes we see nothing but horrible confusion: Grant, I pray, that we may be attentive to thy teaching. May we never wander after our own imaginations, never be drawn aside by any cares, and never turn aside from our stated course. May we remain fixed in thy word, always seeking thee and always relying on thy providence. May we never hesitate concerning our safety, as thou hast undertaken to be the guardian of our salvation, but ever call upon thee in the name of thine only-begotten Son. — Amen.
 
@@ -403,7 +402,7 @@ We now perceive the angel’s meaning throughout this verse, *The King should be
 
 ## Prayer Lecture 63
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as in all ages the blindness of mankind has been so great as to lead them to worship thee erroneously and superstitiously, and since they manifest such duplicity and pride as to despise thy name, and also the very idols which they have fashioned for themselves: Grant, I pray thee, that true piety may be deeply rooted in our hearts. May the fear of thy name be so engraven within us, that we may be sincerely and unreservedly devoted to thee. May each of us heartily desire to glorify thy name, and may we endeavor to lead our brethren in the same course. Do thou purge us more and more from all dissimulation, until at length we arrive at that perfect purity which is laid up for us in heaven, through Jesus Christ our Lord. — Amen.
 

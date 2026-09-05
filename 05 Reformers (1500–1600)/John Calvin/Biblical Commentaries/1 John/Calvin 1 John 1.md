@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 1 John 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## 1 John 1:1-2
 

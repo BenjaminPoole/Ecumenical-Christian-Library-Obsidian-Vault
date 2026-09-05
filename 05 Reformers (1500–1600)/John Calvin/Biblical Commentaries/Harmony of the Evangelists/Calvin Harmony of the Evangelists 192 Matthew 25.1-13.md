@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 192. Matthew 25:1-13
-
-**MATTHEW 25:1-13**
 
 **1.** Then shall the kingdom of heaven be like ten virgins, who took their lamps, and went out to meet the bridegroom. **2.** And five of them were foolish, and five were wise. **3.** They that were foolish, while they took their lamps, took no oil with them: **4.** But the wise took oil in their vessels along with their lamps. **5.** And while the bridegroom tarried, they all slumbered and slept. **6.** And at midnight a cry arose, Behold, the bridegroom cometh; go you out to meet him. **7.** Then all those virgins arose, and trimmed their lamps. **8.** And the foolish said to the wise, Give us of your oil; for our lamps are going out. **9.** But the wise answered, saying, By no means, lest there be not enough for you and for us; [^1] but go you rather to them that sell, and buy for yourselves. **10.** And while they went to buy, the bridegroom came, and they that were ready went in with him to the marriage, and the door was shut. **11.** And afterwards came also the other virgins, saying, Lord, Lord, open to us. **12.** But he answering said, Verily I tell you, I know you not. **13.** Watch, therefore, for you know not the day nor the hour in which the Son of man shall come.
 

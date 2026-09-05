@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # God's King Magnified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3333
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His enemies will I clothe with shame: but upon Himself shall His crown flourish." Psalm 132:18.
 
@@ -27,7 +24,7 @@ You see the text teaches very definitely this Truth of God, for it not only spea
 
 The text, therefore, divides itself very easily and naturally into the two great declarations. We see the clothing of the enemies of the Lord Jesus Christ with shame, but then, again, the crowning of the Lord with a flourishing diadem of eternal Glory. Let us look, then, at—
 
-I. THE ENEMIES OF CHRIST WHOM GOD SAYS HE WILL CLOTHE WITH SHAME.
+## I. The Enemies of Christ Whom God Says He Will Clothe with Shame
 
 Who are these enemies of Christ? In the days of His flesh, you could very easily have discovered them. Some slandered Him, calling Him friend of sinners, gluttonous and a wine-bibber, having a devil and even being a blasphemer. Some took up stones to kill Him. Some cried, "Crucify Him! Crucify Him!" And others bribed the multitude that they might thus hound Him to His shameful and cruel death. Enemies He had on all sides! But there are many who think today that had they lived in that age they would have been numbered with His friends. If it is so, is it not strange that they are not among His friends now? If they would have behaved so well 1800 years ago, it is amazing they should behave so badly now. Our belief is—and the common actions of mankind justify it—that had the sinners of this present day who pretend to have so much affection for the Person of Christ, lived in that age, they, too, alas, would have helped to crucify the Lord of Life and Glory, for they do, in effect, crucify Him now!
 
@@ -67,7 +64,7 @@ It is a sad, sad text I have to preach upon. I would to God it would go into you
 
 Now, we shall need a little time to take the second part of our subject—"Upon Himself shall His crown flourish." We are here very clearly taught that—
 
-II. THE SAVIOR WILL WEAR A CROWN, THAT THE CROWN WILL FLOURISH, THAT IT WILL FLOURISH UPON HIM!
+## II. The Savior Will Wear a Crown, that the Crown Will Flourish, that It Will Flourish upon Him!
 
 Brothers and Sisters, I need not detain you long by mentioning to you the crowns which Jesus wears. He has the royal crown of the kingdoms of Heaven, earth and Hell, for "the government is upon His shoulder, and His name shall be called Wonderful, The Counselor, The Mighty God, The Everlasting Father, The Prince of Peace."
 
@@ -105,7 +102,7 @@ I have thus tried to preach both to saint and sinner. Oh, that He would bring th
 
 with Your righteousness. Wash me in Your precious blood. Make me Your friend and allow me no longer to be among those of whom it is written, 'Shame shall be the promotion of fools.'" God bless you for Jesus' sake, Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM95.
+## Exposition by C. H. Spurgeon: Psalm 95
 
 Verses 1, 2. O come, let us sing unto the LORD: let us make a joyful noise to the Rock of our salvation. Let us come before His Presence with thanksgiving, and make a joyful noise unto Him with Psalms. There must be, there should be joy in our worship—it is the very juice, the wine that flows from the trodden grape. It is the cream of the soul when the heart takes delight in God and joys in Him. To worship as if it were mere duty would be but the reverence of slaves before one who is dreaded, but to worship with delight—this is the adoration of children who come to One whom they love! God grant us that joy while we adore the Lord. Let us, however, mingle great reverence with joy.
 
@@ -126,7 +123,6 @@ Verses 1, 2. O come, let us sing unto the LORD: let us make a joyful noise to th
 10\. And they have not known My way. They have seen them but not understood them. He says, "They saw My work," but you may see and yet not know, for what is merely seen with the eyes but not understood by the heart is not known—they were a willful, erring people—and an ignorant people.
 
 11\. Unto whom Iswore in My wrath that they should not enterinto Myrest. Ah me!
-
 
 ---
 [[Sermon 3332 The Dumb Become Singers|← #3332]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3334 Lovely, But Lacking|#3334 →]]

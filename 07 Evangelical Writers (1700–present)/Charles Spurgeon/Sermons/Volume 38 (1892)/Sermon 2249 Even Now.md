@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Even Now
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2249
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Even now." John 11:22
 
@@ -146,7 +143,6 @@ Surely all these are sufficient reasons why, "even now," is a time of hope to yo
 I long that God would give me some souls tonight, on this first occasion when I have met an evening congregation since my return from the sunny South. I desire earnestly that He would set the bells of Heaven ringing because sinners have returned and heirs of Glory have been born into the family of Grace! I stirred you up to pray this morning. Pray mightily that this word, tonight, simple but pointed, may be blessed to many!
 
 Portion of Scripture Read before Sermon—John 11.
-
 
 ---
 [[Sermon 2248 Sad Fasts Changed To Glad Feasts|← #2248]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2250 Words To Rest On|#2250 →]]

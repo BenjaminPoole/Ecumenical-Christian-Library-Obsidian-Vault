@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Foretastes of the Heavenly Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2607
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the Lord our God does give us." Deuteronomy 1:25.
 
@@ -131,7 +128,7 @@ Sweet Master, if You give me communion with You in Your sufferings. If I have to
 
 Cherish, then, these foretastes of whatever kind they may have been in your individual case. Differently constituted, you will all look at Heaven in a different light. Keep your foretaste just as God gave it to you. He has given each of you a separate experience of it which is most suitable to your own condition. Treasure it up! Think much of it, but think more of your Master, for, remember, it is, "Christ in you, the hope of glory," that is your best foretaste of Heaven! And the more you realize that blessed Truth of God, the more fully prepared shall you be for the bliss of the joyous ones in the land of the happy!
 
-EXPOSITION BY C. H. SPURGEON: GENESIS49.
+## Exposition by C. H. Spurgeon: Genesis 49
 
 Verses 1-3. And Jacob called unto his sons and said, Gather yourselves together, that I may tell you that which shall befall you in the last days. Gather yourselves together and hear, you sons of Jacob; and hearken unto Israel your father. Reuben, you are my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power. All this was to Reuben's advantage, yet he was spoiled through one fault.
 
@@ -178,7 +175,6 @@ Verses 1-3. And Jacob called unto his sons and said, Gather yourselves together,
 24-27. Were made strong by the hands of the mighty God of Jacob (from there is the Shepherd, the Stone of Israel) even by the God of your father, who shall help you; and by the Almighty, who shall bless you with blessings of Heaven above, blessings of the deep that lie under, blessings of the breasts, and of the womb: the blessings of your father have prevailed above the blessings of my progenitors into the utmost bound of the everlasting hills; they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren. Benjamin is a ravenous wolf: in the morning he shall devour the prey, and at night he shall divide the spoil. Little Benjamin is the last of the tribes.
 
 28-33. All these are the twelve tribes of Israel: and this is it that their father spoke onto them, and blessed them; everyone according to his blessing he blessed them. And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite, in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a burying place. There they buried Abraham and Sarah, his wife; there they buried Isaac and Rebecca, his wife; and there I buried Leah. The purchase of the field and of the cave that is therein was from the children of Heth. And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people. It is a very sweet thing to die with a blessing on your lips. And it is equally good to live in the same spirit. Our Lord Jesus was blessing His disciples when He was taken from them—and since we do not know when we shall be taken away from our relatives, let us be always blessing them. May the Lord, who has blessed us, make us a blessing to others!
-
 
 ---
 [[Sermon 2606 Choice Teaching for the Chosen|← #2606]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2608 There Is No Difference|#2608 →]]

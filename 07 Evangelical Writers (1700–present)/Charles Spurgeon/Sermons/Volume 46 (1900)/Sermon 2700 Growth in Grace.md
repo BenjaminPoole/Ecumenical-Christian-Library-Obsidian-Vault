@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Growth in Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2700
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But grow in Grace, and in the knowledge of our Lord and Savior Jesus Christ." 2 Peter 3:18.
 
@@ -140,7 +137,6 @@ For such a worm as I?"
 You will never feel yourself such a worm as when, by faith, you see your Savior dying for you! You will never know your own nothingness so well as when you see your Savior's greatness. When you grow in the Grace and knowledge of our Lord and Savior Jesus Christ, you will be sure to grow in humility!
 
 Growing Christians think themselves nothing, but, full-grown Christians think themselves less than nothing. The nearer we get to Jesus, the smaller self will appear to be. Self and Christ can never come close together. When I stand near self, Christ is small. When I stand near Christ, self is small. May God grant to you, dear Friends, to grow in the knowledge of Christ! Read the Scriptures more. Seek more the influences of the Holy Spirit upon them. Spend more time in devotion—ask God the Holy Spirit to give you a fresh sight of Calvary. Be more often on the Mount of Transfiguration, in the Garden of Suffering, in the Hall of Agony, under the Cross of Crucifixion! Live with Jesus and near to Him—and so, changed from glory to glory as by the Spirit of the Lord, you shall, each one of you, grow unto the stature of a perfect man or woman in Christ Jesus!
-
 
 ---
 [[Sermon 2699 Examination Before Communion|← #2699]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2701 Jesus Joyfully Received|#2701 →]]

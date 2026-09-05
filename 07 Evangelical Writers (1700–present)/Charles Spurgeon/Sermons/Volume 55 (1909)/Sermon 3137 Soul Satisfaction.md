@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Soul Satisfaction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3137
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Say unto my soul, I am your salvation." Psalm 35:3.
 
@@ -105,7 +102,7 @@ Pray Him to reveal Himself to you in His sufferings and in His Glory. Ask Him th
 
 Let us ask Him to say to each of our souls tonight, "I am your salvation." Some of us are going to the Communion Table. Perhaps He will say it to us there. And if He does not, we will go home to pray. And if He does not speak to us then, perhaps in the night-watches He will say it. And when we awake, we will still plead on until those lips which said, "Let there be light," and there was light, shall again say, "Let there be light," to us, and we shall know that He is our salvation! May God bless you very richly for hearing this prayer, for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: PHILIPPIANS 1:21-30; 2:1-11.
+## Exposition by C. H. Spurgeon: Philippians 1:21-30; 2:1-11
 
 Philippians 1:21. For to me to live is Christ, and to die is gain. [See Sermon #146, Volume 3—the good man's life and death.] "To me to live is Christ." If he lived, he lived to know more of
 
@@ -154,7 +151,6 @@ CHRIST—Read/download the entire sermon, free ofcharge, at http://www.spurgeong
 passage a pretext for bowing their heads at the name of Jesus whenever it is mentioned. Nothing can be more senseless, because the passage means no such thing!
 
 What we are taught here is the great Truth of God that Jesus Christ, though once He stooped to the lowest shame, is now exalted to the very highest Glory and even the devils in Hell are compelled to acknowledge the might of His power! We are also to learn from this passage that the way to ascend is to descend. He who would be chief must be willing to be the servant of all. The King of kings was the Servant of servants—and if you would be crowned with honor, by-and-by, you must be willing to be despised and rejected of men now! The Lord give us this gracious humbleness of mind, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3136 Lessons From the Malta Fire|← #3136]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3138 Mocking the King|#3138 →]]

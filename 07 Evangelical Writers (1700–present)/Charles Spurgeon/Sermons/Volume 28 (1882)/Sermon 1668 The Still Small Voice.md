@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Still Small Voice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1668
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 9, 1882,.
+*Delivered on Lord's-Day Morning, July 9, 1882*
 
 > "And after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice. So it was when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the ca ve. And, behold, there came a voice unto him, and said, What are you doing here, Elijah?" 1 Kings 19:12,13.
 
@@ -164,7 +163,6 @@ Equally listen diligently to the teachings of the Holy Spirit. Sit down and say,
 Finally, let me, with most tender accents, ask each unconverted one the question Jehovah asked of Elijah. "What are you doing here, Elijah?" What brought you here this morning? Did you come to worship God, or to gratify curiosity, or merely because it is a proper thing—to go to a place of worship on a Sunday? "What are you doing here, Elijah?" What have you been doing all morning? When the hymn was lifted up, did you praise or did you mock? And when prayer was offered did you join in it or have you been sitting here insulting the Most High by offering Him the outside of devotion while your heart has been far from Him? "What are you doing here, Elijah?"
 
 Oh, that you would reply, "I do repent of what I have done and of what I have not done! And I lay myself down at the Father's feet and beseech Him, for Jesus' sake, to have pity upon me and forgive me my transgressions!" You are forgiven already if you believe in Christ Jesus! If you trust your soul with Jesus, go your way—there is no sin in God's book against you, now—He has blotted out your transgressions and will no more remember your sins! It shall be a happy day, for the voice shall speak to you this morning and never leave off speaking till the King shall come in His Glory and take you to His right hand! The Lord bless you, dear Friends, by His own Spirit, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1667 'Love and I' A Mystery|← #1667]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1669 Teaching for the Outer and Inner Circles|#1669 →]]

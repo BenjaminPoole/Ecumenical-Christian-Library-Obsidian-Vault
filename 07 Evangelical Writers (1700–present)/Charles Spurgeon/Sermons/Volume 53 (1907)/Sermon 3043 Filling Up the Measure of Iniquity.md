@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Filling Up the Measure of Iniquity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3043
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The iniquity of the Amorites is not yet full." Genesis 15:16.
 
@@ -89,7 +86,7 @@ I was reading in the New Testament, the other night, and there were half-a-dozen
 
 Hear them again—"If you believe not that I am He, you shall die in your sins." I heard of a man who died in a ditch, but that is nothing compared with dying in the ditch of your sins! I heard of one who fell down dead in the street, but what is that compared with dying in sin? Some die starved, but that is nothing to dying in sin! Near my house, the other day, there was one who sat down to eat and some coals from a fire flew out and caught her clothes on fire—the people around her tore her clothes from her back, but she was so badly burnt that she died—but the flames of sin are worse than coals of the fire. "You shall die in your sins." I have no choice as to how or where I shall die except in this one respect—that I may never die in sin, with iniquity like the fabled poison shirt killing its unhappy wearer. He tried to tear it off and even tore away his flesh, but the poison burnt into his bones—but it is worse than that to die in sin! Man, you must die in your sins if you continue to live in them! You cannot escape from the consequence of sin if you keep following in the pursuit of sin. Work and you shall have your wages—and "the wages of sin is death." Sow and you shall reap your harvest—and if you sow to the flesh, you must and shall of the flesh reap corruption! I pray God that none of you may ever know, in your own persons, the full meaning of those awful words of the Savior, "You shall die in your sins."\f you believe not—
 
-"YOU SHALL DIE IN YOUR SINS."
+## "You Shall Die in Your Sins."
 
 But I cannot send you away like this, although yonder clock has struck the usual hour for closing the service. Thank God that no clock has struck to forbid me to proclaim the tidings of mercy as long as men are yet in this world. I told you that you could not take any sin out of that measure and most truly did I speak, but let me whisper in your ears that there is One, the ever-blessed Son of God, who can empty it! He can take the measure of your sin, just as it is, and not merely take out a little, but He can take it all and put it on His own shoulders and carry it right away, and hurl it into his own sepulcher where it shall be buried so deep that even the eyes of God, Himself, shall never see it again! "Oh, would to God," says one, "that He would do that with my sins!" Sir, He will do it with your sins, now, at this moment, if you believe on Him. "Believe on Him?" says one, "I believe that He is the Son of God and the Savior of men." Go further then, and trust Him as your own Savior. Give up your sins! Give up your self-reliance and cast yourself into those dear arms that were outstretched on the Cross that great sinners might be folded in them and find eternal shelter there—
 
@@ -100,7 +97,6 @@ But remember that if Christ is not received, there is no other hope of salvation
 I often wonder why some of you come to hear me as you do. It puzzles me, for I see no reason why you should do so. I offer you no amusement. I tell you no comical stories, but I seek to break your hearts with the hammer of the Word of God! You come and you go, yet you get no blessing as far as I can see. Are you content to always have it so? If you are, I am not content! I am at least responsible for faithfully warning you and honestly preaching to you the great Gospel message, "Believe on the Lord Jesus Christ, and you shall be saved." Every time I stand in this pulpit, there is somebody here who never comes again—he cannot come again, for he dies before the next Lord's-Day. So large is the congregation here that I may almost say, speaking according to the laws of probability, that it is almost certain that some one of us
 
 will have gone the way of all flesh before this week is gone. Who will it be? May God take the ripe and spare the green! May He take those who are ready and spare those who are not ready! But, better still, may He lead us all to trust in the Savior and then we shall all be ready whenever the summons comes! May He do so, for His name's sake! Amen.
-
 
 ---
 [[Sermon 3042 The Parable of the Ark|← #3042]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3044 Spiritual Transformations|#3044 →]]

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 161. Matthew 19:27-30; Mark 10:28-31; Luke 18:28-30; 22:28-30
-
-Matthew 19:27-30; Mark 10:28-31;  
-Luke 18:28-30; 22:28-30
 
 **27**. Then Peter answering said to him, Lo, we have left all, and have followed thee: what therefore shall we have? **28**. And Jesus said to them, Verily I say to you, That you who have followed me in the regeneration, when the Son of man shall sit on the throne of his majesty, you also shall sit on twelve thrones, judging the twelve tribes of Israel. **29**. And whosoever shall leave houses, or brothers, or sisters, or father, or mother, or wife, or children, or fields, for the sake of my name, shall receive a hundred-fold, and shall obtain eternal life. **30**. And many that are first shall be last, and the last first. [^1]
 

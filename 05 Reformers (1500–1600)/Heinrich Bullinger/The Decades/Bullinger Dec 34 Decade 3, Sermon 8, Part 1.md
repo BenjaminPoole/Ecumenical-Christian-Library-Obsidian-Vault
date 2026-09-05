@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 34. Decade 3, Sermon 8, Part 1
 
 ALTHOUGH I have hitherto in large sermons laid forth1 the law of God by several parts, yet methinketh I have not said all that should be said, nor made an end as I should do, unless I add now a treatise of the use, effect, fulfilling, and abrogating of the law of God; albeit I have here and there in my sermons2 touched the same argument. Now by this discourse or treatise, dearly beloved, ye shall understand, that the Testament of the old and new church of God is all one ; and that there is but one means of true salvation for all them that either have or else at this present are saved in the world : ye shall also perceive wherein the old Testament3 doth differ from the new. Moreover this treatise will be necessary and very profitable both to the understanding of many places in the holy scripture, and also to the easy perceiving and most wholesome use of those things which I have said hitherto touching the law. God, who is the author, the f1 qua potui diligentia, Lat. ; with my best diligence.]
@@ -33,8 +32,6 @@ and thou shalt love the Lord thy God with all thy heart, and ["ark xii- ^ with a
 [5 adeoque, Lat. ; and so a.] [8 certe, Lat. undoubtedly.]
 
 [7 etiain hodie, Lat.]
-
-238 THE THIRD DECADE. [sERM.
 
 law1, revealed in mankind2. What shall we say to this? Where, I pray you, doth there appear in any man that divine and most absolute righteousness, which the law requireth ? Job crieth, "I know verily that a man, compared to God, cannot be justified3." Or, " How shall a man be found right- [job a.. 2, 3, eous, if he be compared to God ? If he will argue with him, he shall not be able to answer one for a thousand. 4If I have any righteousness in me, I will not answer him, but I will beseech my judge." Likewise, these5 are the words of the apostle John, who saith : "If we say we have no sin, we [UohnL deceive ourselves, and the truth is not in us." Again, "If we say we have not sinned, we make him a liar, and his word is not in us." Therefore by this means the law is a certain The law doth looking-glass, wherein we behold our own corruption, frailness, "nas manifest, imbecility, imperfection, and our judgment, that is, our just °o rmhtery an(* Deserved damnation. For the apostle doth expressly say, that the law was given to the end that it might make manifest men's transgressions, and by that means drive them to the acknowledging of their imperfection and guilt in sinning. For none of us doth look into his own bosom, nor into the secrets of his own breast, but we do all flatter ourselves, and will not be persuaded that our thoughts and deeds6 are so corrupt as they be in very deed ; and therefore doth the law creep in, and lay open the secrets of our hearts, and bringeth to light our sin and corruption. "Before the law," saith the apostle, " although sin were in the world, yet was it not imputed7." [Rom.iv. 15; The same apostle also saith : "The law worketh wrath; for where there is no law, there is no transgression." And again, "By the law cometh the knowledge of sin." For in the seventh to the Romans the same apostle doth say more fully : "I knew not sin, but by the law: for I had not known lust, except the law had said, Thou shalt not lust. But sin, taking
 
@@ -68,8 +65,6 @@ And now here we must think that our holy ancestors had not the law, alone to con
 
 [16 ut mederetur etiam, Lat. ; but to heal also.]
 
-240 THE THIRD DECADE.
-
 rows: that is Christ Jesus, -who also wrought by the ministery of Moses. For we must not think, from the beginning of the world, nor from Moses his time till the coming of Christ1, that the bare letter was preached only, and that the grace and Spirit of God was idle and wrought not in the minds of the faithful : for in that the law doth shew us, and invincibly prove to us, that in us, I mean, in our flesh, that perfection is not, which the most holy and perfect God doth in his law require of us, it doth therein revoke and pull back mankind (not by the virtue of itself, but by the power of the quickening Spirit of Christ) from confidence of the flesh2, as that wherein there is no health nor jot of perfection ; and so consequently doth give us occasion to turn ourselves to Christ our mediator, who is alone our sanctification and perfection. And so, for this occasion3, the law is a path and ready way, and, as it were, a schoolmaster4 given by God to us men, to draw us from all confidence in our own strengths, from all hope of our own merits5, and from the trust in any kind of creatures, and to lead us directly by faith to Christ, who was
 
 [i cor. i. so.] made by God (as I said even now) our " righteousness, sanctification, and redemption," without whom there is no salvation under the sun. Therefore Moses did not only urge the law, but did also preach Christ and life in Christ. For the Lord in
@@ -102,8 +97,6 @@ By which we learn also, that the law doth not only The law teach us the first pr
 
 [BULLINGER, ii.J
 
-242 THE THIRD DECADE.
-
 us by the hand to Christ, that we should be justified by faith. Now the righteousness of faith is the most perfect rightprecepts eousness. Therefore, whereas the precepts of the law are of the law * * mlntseorfuthe 'lli some places called the rudiments of the world1, that is for two especial causes : the first whereof is, because the law is, as it were, the first instructions or elements, which, when the doctrine of the gospel cometh, is finished, and giveth place to it as to more absolute principles ; the latter cause is, because ceremonies are taught under outward things or signs, when as in those outward things they do prefigure, and set forth to be seen, the inward things, even Christ himself and his holy mysteries.
 
 And out of that which I have hitherto said we may also learn, that the ancient saints, which lived under the old testament, did not seek for righteousness and salvation in the works of the law, but in him which is the perfectness and end of the law, even Christ Jesus ; and therefore that they used the law and the ceremonies as a guide and schoolmistress to lead them by the hand to Christ their Saviour. For so often as they heard that the law required perfect righteousness at their hands, they did by faith through grace2
@@ -126,11 +119,9 @@ The second use and another office of the law is, to teach Theiaw them that are j
 
 16—2
 
-244 THE THIRD DECADE. [sERM.
-
 wherein it is necessary that an holy worshipper of God should be instructed. Wherefore so often as the holy prophets of God would set up again and restore the worship of God and true religion that was decayed ; so often as they would cry out upon and rebuke1 the faults and errors of men ; and lastly, when they would teach them to do those good works, which are good works indeed, they led them always2 unto the law, and cited all their testimonies out of the law. Whereof we have evident examples in the fifteenth Psalm of David, and in the first and thirty-third chapter of Esay's Prophecy, and in the eighteenth of Ezekiel also. Paul in the thirteenth to the Romans referreth all the offices of our life to the law of charity ; for the Lord himself, before Paul, had done the same in the gospel. Moreover the prophet David in the ninety-fourth Psalm crieth, " Blessed is the man, O Lord, whom thou instructest in thy law ;" and in the seventy-eighth Psalm, " He made a covenant to Jacob, and gave a law in Israel, that the posterity might know it, and put their trust in the Lord, and not forget the works of God, but keep his commandments." Again, in the nineteenth Psalm he saith : " The law of the Lord is an undefiled law, converting the soul : the testimony of the Lord is sure, and giveth wisdom unto the simple : the statutes of the Lord are right, and rejoice the heart : the commandment of the Lord is pure, and giveth light unto the eyes. The fear of the Lord is holy, and endureth for ever: the judgments of the Lord are true and righteous altogether3 : more to be desired are they than gold and precious stone4 ; and sweeter than honey and the honeycomb." And to this end tendeth the sense of all the alphabetical psalm, which is in order of number the 119th.
 
-The law The third use or office of the law6 is to repress the un- ruly ; and those whom no reason can move to orderliness the law commandeth to constrain with punishment, that honesty, peace, and public tranquillity, may be maintained in Christian f1 corrigere, Lat.]
+The law The third use or office of the law6 is to repress the unruly ; and those whom no reason can move to orderliness the law commandeth to constrain with punishment, that honesty, peace, and public tranquillity, may be maintained in Christian f1 corrigere, Lat.]
 
 [2 semper ac unice, Lat. ; always and alone.]
 
@@ -142,7 +133,7 @@ VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 245 commonweals6. For some th
 
 After the declaration of the use, the end, and the office it « unpossi- f 1 1 T 1 1 1 111 b'6 ^°r US °^ ot the law, I have next to teach you how, and by what our °wn
 
-» * strength to means, the law of God is fulfilled. It is impossible for any fulfil lhe law- man, of his own strength, to fulfil the law, and fully to satisfy the will of God in all points. For it is manifest that in the law there is not required the outward work only, but also the pureness of the inward affections, and, as it were, as I said even now, a certain heavenly 8 and absolute perfectness. For the Lord himself in one place crieth, " Be ye perfect, even as [Matt v. 48.] your Father which is in heaven is perfect." But so absolute a perfectness is not found in us so long as we live in this flesh :
+» * strength to means, the law of God is fulfilled. It is impossible for any fulfil lhe law-man, of his own strength, to fulfil the law, and fully to satisfy the will of God in all points. For it is manifest that in the law there is not required the outward work only, but also the pureness of the inward affections, and, as it were, as I said even now, a certain heavenly 8 and absolute perfectness. For the Lord himself in one place crieth, " Be ye perfect, even as [Matt v. 48.] your Father which is in heaven is perfect." But so absolute a perfectness is not found in us so long as we live in this flesh :
 
 for the flesh, even to the very last end of our life, doth keep still her corrupt disposition ; and although it doth many times receive an overthrow by the spirit, that striveth against it, yet doth it still renew the fight9 ; so that in us there is not found, nor in our strength there doth remain10, that heavenly and most absolute perfectness8. But let us hear the testimony of the holy apostle Paul touching this matter, who saith :
 
@@ -153,8 +144,6 @@ under sin. For that which I do I allow not : for what I *' 14) would, that do I 
 [6 in Christian commonweals, not in the original.] [7 irreverentibus, Lat.] [8 divinam perfectioncm, Lat.]
 
 [9 usque tamen recurrit, Lat. Cf. Herat. Ep. Lib. i. 10, 24.] [10 ex nostris viribus derivetur, Lat.]
-
-246 THE THIRD DECADE. [SERM.
 
 again : " I know that in me, that is, in my flesh, dwelleth no good thing : for to will is present with me ; but I find no means to perform that which is good." Again : " I delight in the law of God after the inward man : but I see another law in my members, rebelling against the law of my mind, and subduing me unto the law of sin which is in my members."
 
@@ -190,8 +179,6 @@ Gentiles, and saith simply that works do not justify : but, speaking to the Gent
 
 [8 diserte quidem, Lat.]
 
-248 THE THIRD DECADE. [sERM.
-
 And to prove that, he addeth ; " For it is written, Cursed is every one that continueth not in all things -which are written in the book of the law to do them." Now unless we do by the deeds of the law understand the morals, as well as the ceremonials, I do not see how his proof can hang to that which went before. For he saith expressly, "In all things which are written in the book of the law1 to do them." Now who knoweth not that the ceremonials were not written alone, but that the morals were written also ? And St Augustine in his book, De Spiritu et litera, cap. vin.2 doth by many arguments prove, that Paul by the deeds of the law did understand the morals also3.
 
 Now that we may conclude this place, I will here recite the words of the apostle in the eighth chapter to the Romans4, saying : " What the law could not do, inasmuch as it was weak through the flesh, that God performed by sending his own Son in the similitude of sinful flesh, and by sin condemned sin in the flesh ; that the righteousness of the law might be fulfilled in us, which walk not after flesh, but after the spirit." The apostle in these words teacheth us two things : first, that the law neither can now, nor never could, justify us men. The fault of this weakness or lack of ability he casteth not upon the law, which is of itself good and effectual, and is the doctrine of most absolute righteousness; but he layeth the fault thereof upon our corrupt flesh. Our flesh neither could, nor can, perform that which is required of us by the law5 of God. Whereupon St Peter, in the council held at Hierusalem, [Acts xv. 10.3 is read to have said : " Now therefore why tempt ye God, to put on the disciples' necks the yoke, which neither our fathers nor we were able to bear ? " The latter is inferred upon the
@@ -219,8 +206,6 @@ But here this place requireth a more full exposition, how Christ hath Christ hat
 [8 et mens, Lat. ; omitted.] [9 sanctus sanctorum, Lat.]
 
 [10 and have — him, not in Lat.]
-
-250 THE THIRD DECADE. [SERM.
 
 and maketh us partakers of his own righteousness ; which is for that cause called imputed righteousness1. Whereunto the testimonies of the apostle do appertain. " God," saith Paul, "was in Christ reconciling the world unto himself, not imputing their sins unto them. For him, which knew no sin, he made sin for us, that we might be made the righteousness of God
 
@@ -254,11 +239,9 @@ Now that faith, wherewith we believe that Christ hath HOW we mny keep satisfied 
 
 [13 ex hoc corpore morti obnoxio, Lat. ; Erasmus* rendering.]
 
-252 THE THIRD DECADE. [SERM.
-
 law of God, but with the flesh the law of sin. There is then1 no condemnation to them which are graffed2 in Christ Jesu, which walk not after the flesh but after the spirit," &c.
 
-Wherefore, since we are in Christ, we are in grace, and there- fore is God pleased with our works, which, being given to us by faith3 and by the liberal Spirit4, do proceed from an heart that loveth God, the giver of them all5. For John said :
+Wherefore, since we are in Christ, we are in grace, and there-fore is God pleased with our works, which, being given to us by faith3 and by the liberal Spirit4, do proceed from an heart that loveth God, the giver of them all5. For John said :
 
 " This is the love of God, that we keep his commandments ;
 
@@ -294,8 +277,6 @@ I told you that God's commandments require the whole man, and a very heavenly 12
 
 [13 through grace — Jesus, not in Lat.]
 
-254 THE THIRD DECADE. [SERM.
-
 For he is that blessed Seed in whom all the kindreds of the earth are blessed. He is our righteousness. For Paul rAcuxiii. saith, "By him every one that believeth is justified from all things, from which ye could not be justified by the law of 2 Moses." Therefore the law is put for the curse of the law : or else the law of God is taken for that which is bewrayed or made manifest by the law, that is to say, it is taken for sin; for by the law cometh the knowledge of sin. Therefore the law is abrogated, that is, sin is taken away, not that it should not be, or not shew itself1 in us, but that it should not be imputed unto us and condemn us ; " for there
 
 3 is no damnation to them that are in Christ Jesu2." Moreover the law is taken for the vengeance or punishment which is by the law appointed for transgressors. Therefore the law is abrogated, because the punishment appointed by the law
@@ -327,8 +308,6 @@ The whole law9 is divided into the moral, the ceremonial, and the judicial laws.
 [u in universe decalogo, Lat.; omitted, of all the ten.]
 
 [12 Inter omnia ilia decem prsecepta, solum ibi quod de Sabbato
-
-256 THE THIRD DECADE. [sERM.
 
 ceremonial : for so far forth as the outward worship of God requireth a certain appointed time to be exercised in, and carrieth with it the1 sacrifices of the law, so far, I say, it is ceremonial ; but in respect that it teacheth to meet in holy assemblies to worship God, to pray, to preach, to be partakers of the sacraments, and to offer spiritual sacrifices, therein it is eternal and not ceremonial : as I have before declared in s the exposition of the sabbath2. The fifth precept, touching the honour due to parents, the Lord himself doth ratify in the fifteenth chapter of Matthew's gospel ; even as he doth also
 
@@ -363,8 +342,6 @@ Now the ceremonial9 things, or stuff of the ceremonies, of which sort are the pr
 [6 necessario, Lat. omitted.] p from Christians, not in Lat.] [8 Vol. i. p. 59.] [° res coremoniales, is Bullinger's own term.] r 17
 
 LBULLINGER, n.J
-
-258 THE THIRD DECADE. [SERM.
 
 abrogated, so that henceforth they are neither used, nor have any place in the church of Christ. This did Jeremy foretell in the third chapter of his prophecy, saying : " In those days1 they shall make no more boast of the ark of the Lord's covenant2: no man shall think upon it, neither shall any man make mention of it ; for from thenceforth it shall neither be visited, neither shall such things be done any more3." By the ark the prophet meaneth those points of the law4 which are abolished by the coming of Christ. St taul, in his epistle to the Hebrews, by the promise that God made to Jeremy5, saying, "that he would make a new covenant," doth gather
 
@@ -414,13 +391,11 @@ But he saith that we were so delivered by Christ from the guilt, that the obliga
 
 17—2
 
-260 THE THIRD DECADE. [sERM.
-
 hundred years before Daniel's time, foretold and said should come to pass. Neither hitherto yet, by the space of 1500 years and more, have they had any place to restore and set up again their city and temple.
 
 In Theodoretus and Ruffinus we read that in the reign of Julian the emperor the Jews, with very great hope and presumption, went about to build a new temple ; and that they sought the foundation thereof in the place where that temple stood which was burnt by Titus, son and general1 to the emperor Vespasian: but Christ our Lord (who in the gospel foretold out of Daniel's prophecy the desolation thereof, and did among other speeches say, "And Hierusalem shall be trodden under foot of the Gentiles, till the time of the Gentiles be fulfilled,") did mightily repress their wicked endeavours, and hinder their labour for going forward. For when they had gathered and brought together many thousand bushels of lime and chalk, then suddenly came a whirlwind with a wonderful storm and blustering, which scattered abroad and carried away the store of stuff by them provided. There happened also a terrible earthquake, by which all the buildings almost of the whole place were swept away, and made even with the ground. Finally, when a great company, which were busy in the work, did the same night remain, or take their rest, in a certain porch or gallery near to the new begun city and temple, the whole building and roof thereof, falling down on a sudden, slew all the number that were within the reach thereof. In the morning they which remained alive ran together to seek every man for his friend among them that were slain by the ruinous building. And when those terrors could do no good, nor turn them from their purpose, then suddenly out of the trenches, foundations, and storehouses hard by, where their tools and other necessaries lay, there sprang forth a fearful fire, which burnt many that urged the work, and compelled the rest to take their heels. For in that one day it brake forth sundry times, and so at last repressed the stubborn rashness of that stiff-necked people. And for because these things should not be thought to have happened casually or at adventures, the night before and the night following there appeared in the sky a bright or glistering sign of the cross, and the garments of the Jews were filled over [i and general, not in Lat.]
 
-VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 261
+## VIII.] Use, Fulfilling, and Abrogation of the Law. 261
 
 •with crosses, not bright but black, which could not be rid away or wiped out by any pains-taking or manner of means. They therefore, in spite of their teeth and full sore against their wills, being compelled with those horrible terrors, fearful judgments, and bitter plagues of Christ our Lord, forsook the place, and fled every man to his house, leaving the work undone, and openly confessing, that Jesus Christ, whom their forefathers had crucified, is a most mighty God, howsoever Julian, with Pharao2, and the chief of the Jews, did persevere still in their disloyalty and despiteful blasphemy against him3 and his holy church4.
 
@@ -438,8 +413,6 @@ Basil, 1540. In the more modern editions the account is contained in the chapter
 
 Bell. Jud.]
 
-262 THE THIRD DECADE. [sERM.
-
 easily gather, that the Messiah is already come into the world, and that he hath abrogated all the ceremonial rites. Kites or It is a very slender, or rather no defence at all for the hoTthey are Jews to allege the words in the law, which are many times perpetual or everlasting, rehearsed, where the ceremonies are described : " Ye shall keep it for an everlasting ordinance." For in this sense everlasting is taken for long lasting and unchangeable, so far forth as it hath respect unto the will or authority of mankind1. For the Lord did with threatening of grievous punishments forbid that mankind's unadvisedness should change or abrogate the holy ceremonies. And yet, since he did ordain those ceremonies until the time of amendment, he2 doth neither sin, nor yet incur the crime of unconstancy, when he doth change or take away the ceremonies according to the determinate purpose which he intended from the beginning. Moreover, so long as the thing signified3 doth not decay, and that the shadow only, or momentany figure4, doth vanish away, it is assuredly certain that the ceremony doth yet remain in full effect and substance5. The whole man doth live for ever ; and yet the things that are temporal or corruptible in him do perish in death, and are abolished in his clarification6.
 
 But that all these things may appear as clear as the daylight, I will particularly run through and touch the more notable sort of ceremonies. That the priesthood of Aaron is utterly abrogated, it is evident by the words which7 the 4; apostle citeth out of David, saying: "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchisedech." Christ, therefore, is the one and only high priest, and that too an everlasting priest, having an immutable priesthood, which cannot by succession pass from him to any other man or angel. For he now, standing at the right hand of the Father in heaven, the very true temple which was prefigured by the tabernacle and temple at Jerusalem, doth make intercession for us, and doth all the offices of an high priest : of whom the apostle of Christ, St Paul, doth speak very largely in his epistle unto the Hebrews.
@@ -452,15 +425,13 @@ But that all these things may appear as clear as the daylight, I will particular
 
 [6 i. e. glorification.] [7 id maxim e arguit quod, Lat.]
 
-VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 263
+## VIII.] Use, Fulfilling, and Abrogation of the Law. 263
 
 This Christ Jesus, our high priest, hath consecrated all the faithful to be kings and priests unto himself. And yet notwithstanding he doth ordain ministers of the church, by doctrine and examples to instruct the church, and to minister the sacraments ; I mean, not those old and ancient ones, but those which the Lord hath substituted instead of the old ones. What doctrine they must teach, he doth expressly declare. The mystical attire and garments of the priesthood he neither did commend to his apostles, nor leave to his church, but took them away with all the ceremonies8 that are called the middle wall betwixt the Jews and Gentiles. The Lord himself and his apostle Paul will have the pastors of the people clad with righteousness and honesty ; and do precisely remove the ministers of the church from superiority and secular affairs. They do also appoint stipends for the ministers to live upon ; yet not those which the law allowed Matt *. them, but such as were most tolerable and convenient for the state and condition of every church.
 
 The Lord left the place to serve and worship God in The place for f • i . , . ,. MI to worship free, without exception or binding to any one prescribed or God in u
 
 ° * r free for every peculiar place, when in the gospel after John he said : " The Sf0n04°where hour shall come, and is already, when the true worshippers ^d aie'lSonshall worship the Father neither in this mountain, nor at gkfSl!011 Jerusalem, but in the spirit and in truth : for such the Father 23°24.]v' 21* requireth to worship him. God is a Spirit ; and they that worship him must worship him in spirit and in truth." The apostle followed the Lord in this doctrine, and said ; " I will [i Tim. u. a.] that men pray in every place, lifting up pure hands, without anger." Neither did the Lord in vain, as I shewed you even now, suffer the temple to be utterly overthrown, considering that at his death he had rent the veil thereof. And yet, for all that, the ecclesiastical assemblies are not thereby condemned : of which I spake in the exposition of the fourth precept9, "Remember that thou keep holy the sabbath-day." Verily, the tabernacle and the temple bare the type of the catholic church of God, out of which there are no prayers nor oblations acceptable to the Lord. But the church is extended to the very ends of the world. And yet it followeth not thereupon, that all are in the church which are in the world : they alone are in the church, which through the [8 decretis, Lat.] p See Vol. I. page 265.]
-
-264 THE THIRD DECADE. [sERM.
 
 catholic faith are in the fellowship of Christ Jesus, and by the agreement of doctrine, by charity, and by the participation of the sacraments (unless some great necessity hinder them), are TO sacrifice in the communion of the holy saints. But they burn incense and sacrifice in high places, whosoever seek after any other sacrifice than the one and only oblation of Christ Jesus ; or look for any other to offer their prayers to God the Father than Christ alone l, as they are taught by the mouth of the pastor sincerely preaching the word of God. Moreover the church of God hath no need now of any ark, any table, any shewbread, any golden candlestick, any altar either of incense or burnt-offerings, nor yet of any brasen laver : for Christ alone is all in all2 to the catholic church ; which church hath all these things spiritually and effectually in Christ Jesus, and can seek for nothing in any other creatures ; insomuch that, if it perceive any man to bring in again either these or such like ceremonial instruments, it doth sharply rebuke and bitterly curse3 him for his unwarrantable rashness and blasphemous presumption in the church of Christ. For what need hath the church of shadows and figures, when it doth now enjoy4 the thing itself, even Christ Jesus, whose shadow and figure the ceremonies bare? Moreover the church hath signs enough, in that it hath received of Christ two sacramental signs, wherein are contained all the things which the old church did comprehend5 in sundry and very many • figures.
 
@@ -496,8 +467,6 @@ Moreover the Christians do celebrate their passover more spiritually than bodily
 
 [1S to bear — desert, not in Lat.] [u hsec declarat, Lat. j
 
-266 THE THIRD DECADE. [sERM.
-
 The Romwh But now because this present year, wherein this book is first of all printed, is the year of grace 1550, and according to the Romish tradition is called the year of jubilee ; I am therefore compelled, as it were of necessity, to make a little digression, and speak somewhat of the Romish jubilee.
 
 I do therefore call it the Romish, and not the Christian, jubilee, because, as I shewed you even now, the church of Christ, after our redemption wrought by Christ and preached by the gospel, doth neither acknowledge nor receive any other year of jubilee. In the ancient Jewish year of jubilee there is to be considered the meaning of the letter, and of the
@@ -528,8 +497,6 @@ Ingreditur vulpes, regnat leo, sed canis exit ; Re tandem vera, si sic fuit, ecc
 
 [1* and so — end, not in the original.]
 
-268 THE THIRD DECADE. [SERM.
-
 year of jubilee there came so great heaps of people to Rome, that although the city were indifferently large enough, yet one man could not for throng pass by another1. For the world will needs be deceived: if it were not so, they would give ear unto the Lord which crieth, " 0 all ye that thirst, come to the waters, and ye that have no money, draw nigh. Why spend ye your money upon a thing of nought, Sec." Esay lv., and John iv. vii. Now all the while that the world was set thus on madding, the righteous Lord was not asleep, nor yet did dissemble how much they displeased him with that devilish2 invention. For the very same year he stirred up Ottoman3, the patriarch and first founder of the Turkish empire, by whose means he did notably scourge the church of Rome and the corrupt manners that were crept into Christendom. A few years after succeeded Clement the sixth4, Paul the second, and Sixtus the fourth5, as wicked men as he, as is to be found in the histories of their lives ; who changed the year of jubilee from every hundreth to every fiftieth year, and so at last to every five and twentieth year, that so they might suck the more advantage out of men's foolishness. But now to the matter again.
 
 f1 Jubileum idem (Bonifacius VIII.) retulit anno millcsimo trecentesimo, quo plenam delictorum omnium remissionem his praestabat, qui limina apostolorum visitassent. — Idem etiaai centesimo quoque anno observari mandavit. — Ob hanc rem eo anno tanta undique hominum multitudo Romam venit, ut vix incedere per urbem, amplam quidem et vastam, liceret. — Platin. de Vit. Pontif. Rom. p. 245. Colon. 1568.]
@@ -542,7 +509,7 @@ f1 Jubileum idem (Bonifacius VIII.) retulit anno millcsimo trecentesimo, quo ple
 
 [6 Quum vero annus Jubileus instaret, quern ex quinquagesimo ad xxv contraxit (Xystus IV.) primusque anno salutis MCCCCLXXV. celebravit, &c. Platin. p. 350 — This was in confirmation of the bull of his predecessor, Paul the Second.]
 
-VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 269
+## VIII.] Use, Fulfilling, and Abrogation of the Law. 269
 
 The sacraments also of the ancient Jews are flatly abro-
 
@@ -559,8 +526,6 @@ Moreover, that all sorts of sacrifices contained in the law are utterly abrogate
 [6 subiit, Lat.] [7 signum, Lat.] [8 omnem sanguinem, Lat.] L9 in remembrance of him, not in Lat.]
 
 [10 ecclesise, Lat. ; to the church.] [n expiationis futurce, Lat.] [ia veterum, Lat. ; Jews, not in Lat.]
-
-270 THE THIRD DECADE. [sERM.
 
 remission of sins, there is no longer any sacrifice for sin. But in the new Testament there is a full remission of sins : therefore in the new Testament there is no longer any sacrifice offered for sins. For Christ is only and alone instead of all the sacrifices. For he was once offered up, and after that is offered no more : who by the once offering up of himself hath found eternal redemption ; so that all, which be sanctified, are sanctified by none other oblation but that of Christ upon the cross made once for all. Wherefore Christ, being once offered upon the cross for the sins of all the world, is the burnt-offering of the catholic church : he is also the meat-offering, which feedeth us with his flesh offered upon the cross unto eternal life, if we receive and feed on him1 by faith. Moreover he is the drink-offering of the church, which with his blood doth quench the thirst of the faithful unto life everlasting. He is the purging and daily sacrifice of the church ; because he is " the Lamb of God that taketh away the sins of the world2." His death and passion cleanseth all men from then* sins, their errors, and iniquities3. Finally, he is the church's sacrifice of thanksgiving ; because by Christ we offer praise to God, and by Christ we render thanks unto the Lord4.
 
@@ -588,8 +553,6 @@ Christ doth not so distinguish between clean and unclean The choice in the gospe
 
 [8 Coloss. ii. 20-22, ipso pereant abusu, Lat. ; and Erasmus : whych all peryshe thorow the very abuse. Cranmer, 1539.]
 
-272 THE THIRD DECADE. [sERM.
-
 and God hath sanctified, that call not thou unclean." Therefore strangled o°frtheden whereas, in the synodal epistle set forth by the apostles in apostles. tke fifteenth of the Acts, both blood and strangled is forbidden and exempted from the meat of men, that commandment was not perpetual, but momentany, for a time only. For it pleased the apostles, for charity's sake, to bear therein with the Jewish nation, who otherwise would have been too stubborn and self-willed. The Jews at that time did every day so rifely hear the reading of the law, which did expressly forbid to eat blood and strangled, as if the preaching of the gospel had not begun to be sowed among them ; and therefore they could not but be greatly offended to see the Gentiles so lavishly to use the things prohibited. Wherefore the apostles would have the Gentiles for a time to abstain from the things that otherwise were lawful enough, to see if peradventure by that means they might win the Jews to the faith of Christ. For the epistles, which Paul wrote a few years after the council at Hierusalem, do sufficiently argue that the decree of the apostles against blood and strangled was not perpetual. But the commandments given against things offered to idols, and against fornication, (in using whereof the Gentiles thought that they did not greatly offend,) are perpetual, because they be morals, and of the number1 of the ten commandments. But of that matter I have spoken in another place.
 
 And now, because I am come to make mention of the synodal decree ordained by the apostles and elders of the council at Hierusalem, I think it not amiss to recite unto you, dearly beloved, as a conclusion to this place, the whole epistle
@@ -600,7 +563,7 @@ Dne* testimony, that the law is abrogated after that manner which I have declare
 
 [* legum primarum atque, Lat. ; of the first laws and, &c.] [2 labcfactantcs, Lat.]
 
-VIH.] USE, FULFILLING, AND ABROGATION OF THE LAW. 273
+## Vih.] Use, Fulfilling, and Abrogation of the Law. 273
 
 •with our beloved Paul and Barnabas, men that have jeoparded their lives for the name of our Lord Jesus Christ. We have sent therefore Judas and Silas, which shall also tell you the same things by mouth. For it seemed good to the Holy Ghost and to us, to charge you with no more than these necessary things ; (that is to say) that ye abstain from things offered to idols, and from blood, and from strangled, and from fornication : from which if ye keep yourselves, ye shall do well. So fare ye well." This is word for word the catholic, the synodal, apostolic, and ecclesiastical epistle of the council held at Hierusalem, both brief and easy : for as the speech of truth is simple, so also may true religion and Christian faith be easily laid down in very few and evident words.
 

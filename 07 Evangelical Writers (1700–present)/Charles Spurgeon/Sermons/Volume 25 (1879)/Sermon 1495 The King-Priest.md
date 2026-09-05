@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The King-Priest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1495
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 21, 1879,.
+*Delivered on Lord's-Day Morning, September 21, 1879*
 
 > "He shall sit and rule on His throne; and He shall be a priest on His throne: and the counsel of peace shall be between them both." Zechariah 6:13.
 
@@ -146,7 +145,6 @@ It seems very amazing that God should allow, in His house, memorials of His serv
 "Oh," you say, "but we must not remember men!" "No," I say, "we may remember men and, women, too, for our Lord has set us the example. "Wherever this Gospel is preached there shall this which this woman has done be mentioned for a memorial of her." My Master thinks much of His people and in the plenitude of His great goodness the little things which they do for Him are held in remembrance. Did he not say of Cornelius, "Your prayers and your alms have come up as a memorial of you"? This is sweet to think upon. While our King-Priest shall have the crowns and wear them, yet we, if we bring love tokens and honorable spoils to Him, shall be remembered, too, in that day when He shall award the praise to His people, saying, "Well done, good and faithful servants."
 
 The Lord whom we serve will immortalize our service by uniting it with His service! We shall rest from our labors, but our works shall follow us. The righteous shall be had in everlasting remembrance! They shall shine forth as the sun when their Lord's Glory shall be revealed. Their Priest shall make them priests! Their King shall make them kings and they shall forever be filled with the vision of the Priest upon His Throne. So may it be with us! Amen.
-
 
 ---
 [[Sermon 1494 The One Foundation|← #1494]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1496 Among Lions|#1496 →]]

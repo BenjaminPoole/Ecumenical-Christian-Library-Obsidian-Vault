@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part VI
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 42. Persecution and Lapse of Hosius
 

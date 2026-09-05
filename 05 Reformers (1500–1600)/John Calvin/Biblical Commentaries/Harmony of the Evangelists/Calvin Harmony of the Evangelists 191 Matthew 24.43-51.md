@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 191. Matthew 24:43-51; Mark 13:34-37; Luke 12:35-50
-
-MATTHEW 24:43-51; MARK 13:34-37;  
-LUKE 12:35-50
 
 **43.** But know this, that if the householder had known at what hour the thief would come, he would certainly have watched, and would not have permitted his house to be broken into. **44.** Therefore, be you also ready; because the Son of man will come at an hour when you are not aware. **45.** Who is the faithful and wise servant, whom his master hath appointed over his household, to give them food in due season? **46.** Blessed is that servant, whom his master, when he cometh, shall find acting in this manner. **47.** Verily I say to you, He will appoint him [^1] over all his property. **48.** But if that wicked servant shall say in his heart, My master delayeth to come; **49.** And shall begin to beat his fellow-servants, and even to eat and drink with drunkards; **50.** The master of that servant will come on a day when he doth not look for him, and at an hour when he is not aware; **51.** And shall cut him off; and assign his portion with hypocrites: weeping and gnashing of teeth shall be there.
 

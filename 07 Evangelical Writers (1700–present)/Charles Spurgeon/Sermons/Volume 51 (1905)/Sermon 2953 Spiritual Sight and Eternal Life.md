@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Spiritual Sight and Eternal Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2953
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yet a little while, and the world sees Me no more, but you see Me: because I live, you shall live also." John 14:19.
 
@@ -93,7 +90,7 @@ Put your trust in Jesus, dear Friends, and this passage shall be true concerning
 
 nor of the will of the flesh, nor of the will of man, but of God"—"being born-again, not of corruptible seed, but of incorruptible, by the Word of God, which lives and abides forever. For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers and the flower thereof falls away; but the Word of the Lord endures forever." Blessed is the man who has this Word of the Lord sown in His heart as a living seed which cannot die or be destroyed! The Lord grant this blessing to each one of you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14:15-31.
+## Exposition by C. H. Spurgeon: John 14:15-31
 
 Verses 15-17. If you love Me, keep My commandments. And I willpray the Father, and He shall give you another Comforter, that He may abide with you forever, even the Spirit of Truth, whom the world cannot receive, because it sees Him not, neither knows Him but you know Him; for He dwells with you, and shall be in you. "I am going away from you. You will not have My personal Presence much longer, but I will send you One who will never go away from you, for whom there is no death and no departure—'another Comforter, that He may abide with you forever, even the Spirit of Truth'—who knows the Truths of God, who can teach the Truths of God and who applies the Truth to the hearts and consciences of men—'whom the world cannot receive, because it sees Him not, neither knows Him.'" Let us not imagine that the world will ever receive the Spirit of God. It is supposed, by some, that the world gets more enlightened from age to age, but that is a supposition for which there is not the slightest foundation! The death of human nature never develops into life! The darkness brought by the Fall never becomes the Light of God without the operation of a supernatural power. It is the Spirit of God that works this change in God's own children—"but you know Him, for He dwells with you, and shall be in you." He was with them in a certain sense even while Christ was here, otherwise they would have learned nothing. And He was more fully in them when Christ had gone back to Heaven—hence they learned, after Pentecost, more of the meaning of the Gospel than they had ever gathered from the teaching of their Master.
 
@@ -118,7 +115,6 @@ poor feeble thoughts be? Our only power lies in the fact that we do not utter ou
 28\. You have heard how I said unto you, I go away, and come again unto you. If you loved Me, you would rejoice, because I said, I go unto the Father: for My Father is greater than I. Love makes us rejoice in the prosperity of the one we love. The Lord Jesus Christ, in coming to this earth, had taken upon Himself a subordinate position—He had become the stepping-stone between man and God. But now that He was returning to His Glory—returning to His Father—it was the duty of those who loved Him to rejoice—and we should do the same now. He has left behind Him the humiliation, the scorn, the spitting, the Crucifixion—and who among us, who truly loves Him, would wish to bring Him back to this poor earth as He same at first? Ah, no! It is well that all that is over! There is sweetest music to our ears in our Lord's declaration, "It is finished," and our soul swims in a sea of light as we think of the ineffable Glory with the father to which He has returned forever!
 
 29-31. And now I have told you before it comes to pass, that when it is comes to pass, you might believe. Hereafter I will not talk much with you: for the Prince of this world comes, and has nothing in Me. But that the world may know that I love the Father; and as the Father gave Me commandment, even so I do. Arise, let us go hence. "Let us go to Gethsemane and to the Passion! Let us go fulfill the Father's will!" It was a sure proof of Christ's love when He went forward from speaking to sufferingthat He might save His own forever!
-
 
 ---
 [[Sermon 2952 The Church—the World's Hope|← #2952]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2954 The Big Gates Wide Open|#2954 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD IS IN THE FRONT LINE**
+## **God Is in the Front Line**
 
 > The Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed" Deut. 31:8
 
@@ -25,7 +24,6 @@ Nor is the Lord before us only; He is with us. Above, beneath, around, within is
 Being before us and with us, He will never withdraw His help. He cannot fail in Himself, and He will not fail toward us. He will continue to help us according to our need, even to the end. As He cannot fail us, so He will not forsake us. He will always be both able and willing to grant us strength and succor till fighting days are gone.
 
 Let us not fear nor be dismayed; for the Lord of hosts will go down to the battle with us, will bear the brunt of the fight, and give us the victory.
-
 
 ---
 [[FCB November 29|← November 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 1|December 1 →]]

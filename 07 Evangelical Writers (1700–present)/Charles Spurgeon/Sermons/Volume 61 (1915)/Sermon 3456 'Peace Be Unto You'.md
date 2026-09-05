@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # 'Peace Be Unto You'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3456
-
-DELIVERED BY C H. SPURGEON,.
 
 > "And as they thus spoke.. .Peace be unto you." Luke 24:36.
 
@@ -51,7 +48,7 @@ More than that—on that occasion when He came, there were some of them who were
 
 Once more, though, I say they were in a low state—they were all lamenting their Master's absence. I do not think, of all that company, there was one but what had a heavy heart and was sad because Jesus was not there. If you had turned to Peter and said, "Peter, would you like to see Him?" He would have said, "Oh, for another look on those dear eyes, even though it broke my heart again." And John would have said, "Oh, for another leaning of my head upon that bosom, if I might be permitted such a favor." And everyone, by dear remembrances of the past, would have said, "Alas, we have lost everything in losing Him! Take away the sun out of the skies, rather than take Christ out of the circle of our fellowship." Now, dear Friends, have you, you lovers of the Savior—have you missed Him and are you now saying, "Oh, that I knew where I might find Him"? Well, our mingled notes shall reach Him and He will come and stand tonight in the midst of us, and we, again, shall rejoicingly honor and worship while the King sits at His Table with His people. But time flies, and, therefore, I give you but the bare outline of the rest of my sermon.
 
-III. WHAT CAME OF IT?
+## III. What Came of It?
 
 What came of His appearance and of His speaking of peace? If you will look at the Chapter when you are at home, you will see that, first of all, when Jesus came He banished all their doubts—He said to them, "Why are you troubled? Why do thoughts arise in your hearts?" Now, if He comes here tonight, in the midst of this assembly, that is just what He will say to you troubled ones. He will say, "Why are you troubled?" You, perhaps, might answer, "Perhaps there is cause enough for it," but He will reply to it, "All things work together for your good." "When you pass through the river, I will be with you; the floods shall not overflow you." "Cast your care upon Me." "Why are you troubled?" And He would then ask you the very question, "Why do those thoughts arise in your hearts?" You would have to guiltily, perhaps, confess what those thoughts were. You thought He was too hard! You thought He had forgotten you! You thought He was not true, after all—that He did not love you. You thought He would fail you. I will not tell you all your thoughts, but they have been evil thoughts—and if He is here tonight, the blush will mantle on your cheeks while you will say, "I will never have such thoughts, again, but I will from now on say, 'Though He slays me, yet will I trust in Him.'" There is one cure for evil thoughts like this—the vanished Savior manifested to the eyes of faith!
 
@@ -77,11 +74,11 @@ Now I have said nothing to those of you who know Him not, but I will say these w
 
 God bless you. Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 5
 
-PSALM 32; JOHN 17. PSALM32
+## Psalm 32; John 17. Psalm 32
 
 "A Psalm of David, Maschil"—that is to say, an instructive Psalm—"Maschil." I suppose that David wrote it after he had been forgiven and restored to Divine favor. I think we may read it as a part of our own experience, either of conversion or when restored after backsliding.
 
@@ -105,7 +102,7 @@ Verses 1, 2. Blessed is he whose transgression is forgiven, whose sin is covered
 
 11\. Be glad in the Lord, and rejoice, you righteous: and shout for joy, all you that are upright in heart "Be glad in the Lord, and rejoice, you righteous." Be glad. Well, but you cannot always be glad, says one. "Be glad in the Lord"— you may always be glad in Him! Here is an unchanging source of joy! "Rejoice, you righteous, and shout for joy." Here is the man that was silent, but now has gone as far as shouting! Is it not enough to make him rejoice? Twice he was blessed, in the first and second verses, and now he has been pardoned, he has been delivered, he has been compassed about with mercy—why, he must be glad! "Shout for joy, all you that are upright in heart." God bless you in the reading of his Word.
 
-JOHN 17.
+## John 17
 
 Verses 1, 2. These words spoke Jesus, and lifted up His eyes to Heaven, and said, Father, the hour is come; glorify Your Son, that Your Son also may glorify You. As You have given Him power over all flesh, that He should give eternal life to as many as You have given Him. Here we have the two Doctrines of a General and a Particular Redemption. Through His death, Christ has power given Him over all flesh, but the distinct, special objective is the salvation of His own—"that He should give eternal life to as many as You have given Him."
 
@@ -140,7 +137,6 @@ prays again and again that we may be one! Cultivate the spirit of Christian affe
 24-26. Father, I will that they, also, whom You have given Me, be with Me where I am; that they may behold My Glory which You have given Me: for You loved Me before the foundation of the world. O righteous Father, the world has not known You: but Ihave known You, and these have known that You have sent Me. And I have declared unto them Your name, and will declare it: that the love with which You have loved Me may be in them. Let us read that wonderful passage again—"that the love with which You have loved Me may be in them."
 
 26\. And I in them. Sacred, mystical union! May our souls enjoy it day by day!
-
 
 ---
 [[Sermon 3455 A Message From God|← #3455]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3457 All Are Guilty|#3457 →]]

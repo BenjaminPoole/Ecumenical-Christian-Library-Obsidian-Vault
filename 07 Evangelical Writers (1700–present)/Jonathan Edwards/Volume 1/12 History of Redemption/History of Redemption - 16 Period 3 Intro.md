@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PERIOD III.
 
-FROM CHRIST’S RESURRECTION TO THE END OF THE WORLD.
+*From Christ’s Resurrection to the End of the World*
 
 In discoursing on this subject, we have already shown how the work of redemption was carried on through the two first of the THREE PERIODS into which we divided the whole space of time from the fall to the end of the world. We are now come to the third and last period, beginning with Christ’s resurrection; and would show, that the space of time from the end of Christ’s humiliation to the end of the world is all taken up in bringing about the great effect or success of Christ’s purchase.
 

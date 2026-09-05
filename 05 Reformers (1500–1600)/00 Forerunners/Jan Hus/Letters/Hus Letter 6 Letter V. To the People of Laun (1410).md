@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 6. Letter V. To the People of Laun (1410)
-
-LETTER V. TO THE PEOPLE OF LAUN (1410)
 
 Hus praises their constancy ; Do not avenge yourselves ; Evil priests ; The great alternative ; The Judge is at the gate . 28-30
 

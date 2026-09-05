@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 102. May we also swear by saints, or any other creatures?
-
-**Question 102. May we also swear by saints, or any other creatures?**
 
 Answer. No; for a lawful oath is a calling upon God, as the one who knows the heart, that he will bear witness to the truth, and punish me if I swear falsely; which honor is due to no creature.
 
-**EXPOSITION**
+## **Exposition**
 
 In these two Questions the doctrine respecting the oath is explained at large.
 
-**THE DOCTRINE OF THE OATH**
+## **The Doctrine of the Oath**
 
 Concerning this we must enquire,
 
@@ -36,13 +33,13 @@ IV. What are the things concerning which we are to make oath?
 
 V. Are all oaths to be kept?
 
-**I. WHAT IS AN OATH?**
+## **I. What Is an Oath?**
 
 An oath is often used in the Scriptures for the whole worship of God, as, "Thou shalt swear by his name." "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the Lord of hosts." "Every knee shall bow unto me, every tongue shall swear." (Deut. 10:20. Is. 19:18; 45:23.) Concerning the worship of the New Testament it is said: "He who blesseth himself in the earth, shall bless himself in the God of truth, and he that sweareth in the earth, shall swear by the God of truth." "If they will diligently learn the ways of my people, to swear by my name, then shall they be built in the midst of my people." (Is. 65:16. Jer. 12:16. The reason of this is that we profess him as our God, by whom we swear. An oath, properly speaking, is a calling upon God, as the one who knows the heart, that he will bear witness to the truth, and punish me if I swear falsely. It is in this way that the Catechism defines a lawful oath, which definition is taken from the form of swearing which the apostle Paul uses, when he says, "I call God for a witness upon my soul, that to spare you I came not as yet unto Corinth." (2 Cor. 1:23.)
 
 It is said in the definition just given, that God will bear witness; viz., by preserving and doing good to him that swears, if he swear religiously, and by punishing and destroying him if he swear falsely. For the oath was instituted by God, that it might serve as a bond of truth between men, and be a testimony that God is the author and defender of truth.
 
-**II. BY WHOM ARE WE TO SWEAR?**
+## **II. By Whom Are We to Swear?**
 
 We must swear by the name of the true God alone; 1. Because God has commanded that we swear by him alone, as he alone is to be feared and worshipped. "Thou shalt fear the Lord thy God, him shalt thou serve, and to him shalt thou cleave, and shalt swear by his name." (Deut. 10:20.) 2. God positively forbids us to swear by any other name. "Make no mention of the names of other gods." (Ex. 23:13.) 3. God wills that the worship of invocation be given to him alone, and condemns those who in their oaths join creatures with himself. The oath now, according to the definition, is one of the ways in which we call upon God, being comprehended in it. 4. An oath ascribes to him by whom it is taken, a knowledge of hearts, omniscience, omnipresence, &c. And it is indeed necessary that he by whom we swear should be possessed of infinite wisdom, and have a knowledge of the heart; because when oaths are taken it is not concerning things which are manifest, and of which there is no doubt, but of things unknown and uncertain, and of which he only, who has a knowledge of all hearts, can judge whether men speak the truth, or that which is false. But God alone knows the heart, is omniscient and every where present. And as Christ and the Holy Ghost are God, and know all things, as the following passages of Scripture sufficiently testify, we are also to swear by them. "He knew all men, and needed not that any should testify of man, for he know what was in man." "The Spirit searcheth all things." (John 2:24, 25. 1 Cor. 2:11.) 5. We commit the execution of punishment to him by whom we swear, and also attribute such power to him as is necessary to maintain the truth, and punish those who are guilty of perjury. But God alone is possessed of such power, and inflicts punishment upon the wicked. "Fear not them which kill the body, but are not able to kill the soul; but rather fear him which is able to destroy both soul and body in hell." (Matt. 10:28.) Men cannot be the avengers of those who are guilty of perjury, inasmuch as those who swear falsely may escape the judgment of men, either because they do not know the heart, so as to see whether those who swear are practising a deception or not, or because those who perjure themselves are too powerful to be punished by men. It follows, therefore, that we must not take an oath except by the name of God alone.
 
@@ -50,7 +47,7 @@ It is apparent, from what has now been said, that oaths which are taken by the s
 
 Obj. But Joseph swore by the life of Pharaoh. (Gen. 42:15.) Therefore it is lawful to swear by men and creatures. Ans. There are some who admit that Joseph sinned in following the custom of the Gentiles, who were wont to swear by things, that his brethren might not by this means recognise him. But we may give a different reply to the objection, by maintaining that his language does not, properly, contain an oath, but merely a strong affirmation; so that the sense is, As truly as Pharaoh lives, or is in safety; or, As truly as I desire him to be in safety, so truly do I affirm these things. The same interpretation must be given to all other asseverations of a similar character, instances of which may be found in 1 Sam. 1:27; 15:55; 20:3; 25:26. These forms of speech are not properly oaths, but strong declarations, made for the sake of placing something in the clearest light by comparing it with something known and manifest; so that we are to understand them as meaning that those things which are affirmed are as certain, as that he liveth, who is named by the person making the declaration.
 
-**III. IS IT LAWFUL FOR CHRISTIANS TO TAKE AN OATH?**
+## **III. Is It Lawful for Christians to Take an Oath?**
 
 That it is lawful to swear religiously by the name of God, when the magistrates demand it, or otherwise when necessity requires, may be proven by these four arguments:
 
@@ -80,13 +77,13 @@ Obj. 1. But Christ says, Swear not at all; and James says, Nor by any other oath
 
 Obj. 2. But such oaths as were permitted, together with the examples which are found in the Scriptures, have respect to public oaths—such as were exacted or given in the name of the public and for the public good. Therefore at least private oaths, or such as pass between private individuals, are entirely prohibited. Ans. 1. We deny the antecedent; because there is not only no such restriction as that which is here maintained, specified in the instances recorded in the Scriptures, where the saints make oath to God, but it is impossible to interpret them in this way, as a careful examination of the passages themselves will prove. 2. There are many oaths recorded in the Scriptures, the private character of which cannot be doubted, such as that of Jacob and Laban, that of Boaz, Abdiah, Abigail, and David. (Gen. 31:53. Ruth 3:13, &c.) 3. The same thing may be proven from the design of the oath, which is a confirmation of fidelity and truth amongst men, and the putting an end to strife. These things now have respect to Christians also as private individuals; and hence the oath itself by which we establish truth and fidelity, likewise has respect to them.
 
-**IV. WHAT ARE THE THINGS CONCERNING WHICH WE ARE TO MAKE OATH; OR WHAT OATHS ARE LAWFUL, AND WHAT UNLAWFUL?**
+## **IV. What Are the Things Concerning Which We Are to Make Oath; Or What Oaths Are Lawful, and What Unlawful?**
 
 Only such oaths are lawful as are evidently not opposed to the word of God, and which are made concerning things true, certainly known, lawful, possible, weighty, necessary, useful, and worthy of such and so great a confirmation, or of such things as require a confirmation for the glory of God and the safety of our neighbor. It is only in reference to such things, that it is lawful for us to make oath. Unlawful oaths are such as are plainly in opposition to the word of God, and made in reference to things which are either false, uncertain, unlawful, impossible, or light and trifling. Of such things no one should make oath: for he who makes oath in reference to things which are false, calls God to witness a lie. He who swears concerning things uncertain, makes oath with an evil conscience and with contempt of God, inasmuch as he has the presumption to make God a witness of something of which he has no certain knowledge whether it be true or false. He who swears in this way, has but little concern whether he makes God a witness of what is truth, or falsehood; and yet at the same time he desires that God will either give testimony to a lie, or if he will not be a witness of what is false, that he will punish him making an oath. He who makes oath concerning things unlawful, calls upon God to approve and sanction what he has forbidden in his law, and so makes God contradict himself; because he desires that God may punish him if he does what he commands, or if he does not do what God has forbidden. And still further, he who swears in this way, either purposes to act contrary to the command of God, or if he swears sincerely, he calls God to witness a falsehood. He who swears in reference to things impossible, is either beside himself, or else trifles with God and men, since he cannot have a sincere purpose to do what he takes an oath to, or he swears hypocritically concerning a lie, viz: that he will do that which he neither will nor can do. Lastly, he who swears with levity, is devoid of all proper reverence to God, and he who swears readily and thoughtlessly, also readily for swears, or takes oath to what is false. The principle cause of an oath should be glory of God, and the public and private safety of our neighbor.
 
 Obj. We should not make oath concerning things that are uncertain. But future contingencies, such as those which men promise themselves that they will perform, are uncertain. Therefore we should not swear in reference to things still future. Ans. As it respects future things, no one does, neither should he swear respecting the event which is beyond our control, but of our present will and purpose to do what is just and lawful, either now or hereafter, and of our obligation, present and future, to do a certain thing, in reference to which every one may and ought to be certain. It was in this way that Abraham, Isaac, Abimelech, David, Jonathan, Boaz, &c., made oath, binding themselves to perform certain duties.
 
-**V. SHOULD ALL OATHS BE KEPT?**
+## **V. Should All Oaths Be Kept?**
 
 Oaths which have been properly made concerning things lawful, true, certain, weighty and possible, should necessarily be kept. For if any one once acknowledges and declares that he is justly bound to keep what he made oath to, and calls God to testify thereto, if he afterwards willingly, or knowingly violates his faith, or breaks his oath—he, in so doing, breaks a lawful bond, and so becomes guilty of perjury. The case, however, is different as it respects oaths which have been made unlawfully, either concerning things unlawful, or by error, or by infirmity, or against the conscience. These are not to be kept; but retracted and amended by repentance and by not persisting in an evil purpose, and so adding sin to sin. "He that sweareth to his own hurt, and changeth not." (Ps. 15:4.) He who keeps an unlawful oath, sins twice—he sins in the first place by making an oath wickedly, and, in the second place, by keeping that which was done unlawfully, according to the rule, that which is sworn to wickedly, is worse when kept. What God forbids, that he will not have us to keep, whether sworn to or not; and what he forbids us to promise, or to swear to, that he the more strictly forbids us to do, by as much as doing surpasses permitting. Those, therefore, who keep such oaths as have been wickedly made, add sin to sin, as Herod did, who put John the Baptist to death upon the pretext of keeping his oath. The same thing may also be said in reference to the vows of Monks who have sworn to that which was idolatrous, or to an unholy single life.
 
@@ -98,7 +95,7 @@ From what has now been said in reference to keeping such oaths as are lawful, we
 
 Obj. No one should take an oath in regard to what would be injurious to the commonwealth, and if such an oath be taken it should not be kept. But to make oath of secrecy to a robber is injurious to the commonwealth. Therefore, such an oath should not be made, and if made, should not be kept. Ans. 1. What is injurious to the commonwealth should not be promised, in case the withholding of such a promise do not endanger our lives, and in case the person placed in such circumstances of danger, be not rather bound to consult his own personal safety, than to come to such a decision. 2. We also deny the minor proposition, because to make such a promise to a robber, and to keep it when made, is rather profitable than injurious to the commonwealth, inasmuch as the life of him who promises secrecy by an oath under such circumstances, is by this means preserved, which is an advantage to the commonwealth; whereas, if he had not by an oath promised secrecy to the robber threatening him with death, he might have been slain, and so have been lost both to the commonwealth and himself. Hence, to promise secrecy by an oath to a robber should rather be preferred, inasmuch as this is a less evil to the state, than that a member thereof should be slain.
 
-**THIRTY-EIGHTH LORD'S DAY**
+## **Thirty-Eighth Lord's Day**
 
 ---
 [[Ursinus HC Q101|← Question 101. May we then swear religiously ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q103|Question 103. What doth God require in the f →]]

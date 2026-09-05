@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # A Dire Disease Strangely Cured
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2887
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "With His stripes we are healed." Isaiah 53:5.
 
@@ -117,7 +114,7 @@ I do not know what you think about sermons. Perhaps you imagine that preaching i
 
 Will you have Him now, or not? With some of you, it is now or never! Hark to the ticking of the clock! As the pendulum swings to and fro, it says to some of you, "Now or never! Now or never! Now or never! Now or never!" Will you trust your soul with Jesus? If you will, the soft persuasions of His blessed Spirit are guiding you that way. Cast your guilty soul on Him and you are saved! But if you will have another Savior, or be your own Savior and reject Christ, I am clear of your blood! And when we stand before that dread tribunal when Heaven and earth shall shake, and reel, and pass away like a mist before the rising sun, you will have no one but yourself to blame that you are lost! God save you, for Jesus Christ's sake! Amen!
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW27:27-54.
+## Exposition by C. H. Spurgeon: Matthew 27:27-54
 
 Verses 27-30. Then the soldiers of the governor took Jesus into the Praetorium and gathered unto Him the whole band of soldiers. And they stripped Him and put on Him a scarlet robe. And when they had platted a crown of thorns, theyput it upon His head, anda reedin His right hand. And they bowed the knee before Him, and mocked Him, saying, Hail, King of the Jews! And they spit upon Him, and took the reed and struck Him on the head. Ridicule is very painful to bear at any time and soldiers have been masters of that cruel art when they have been encouraged in it by their leaders. Remember, Brothers and Sisters, who it was that bore all this shameful treatment from these brutal men—your Lord and the angels' Lord—the Maker of Heaven and earth who had deigned, for a while, to veil his Deity in human flesh! And there He stood, to be "set at nothing"—to be made nothing of—by those rough Roman legionaries, the creatures of His own hands whom He could have destroyed in a moment by a word or a wish! What matchless condescension our gracious Redeemer displayed even in His own deepest degradation and agony!
 
@@ -146,7 +143,6 @@ not, He was an impostor and not a good Man at all! You must either repudiate Chr
 50\. Jesus, when He had cried again with a loud voice, yielded up the ghost You know what He said when He cried with a loud voice—"It is finished."
 
 51-54. And, behold, the veil of the Temple was torn in two from the top to the bottom; and the earth did quake, and the rocks split; and the graves were opened; and many bodies of the saints which slept, arose, and came out of the graves after His Resurrection, and went into the holy city, and appeared unto many. Now when the centurion, and they that were with Him, watching Jesus, saw the earthquakes, and these things that were done, they feared greatly, saying, Truly that was the Son of God.
-
 
 ---
 [[Sermon 2886 Restless! Peaceless!|← #2886]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2888 'Christ Is All'|#2888 →]]

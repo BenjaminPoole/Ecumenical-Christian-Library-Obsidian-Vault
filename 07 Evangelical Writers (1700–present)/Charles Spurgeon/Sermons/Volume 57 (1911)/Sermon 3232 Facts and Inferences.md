@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Facts and Inferences
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3232
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have seen the wicked in great power, and spreading himself like a green bay tree, Yet he passed away, and, lo, he was not: yes, I sought him, but he could not be found. Mark the perfect man, and behold the upright for the end of that man is peace." Psalm 37:35-37.
 
@@ -111,7 +108,7 @@ Now, my Hearers, I have set before you two men representing two very different c
 
 Glory and your own and others' good for you to have them. May the Lord give you the Grace to make the wise choice this very hour, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM37.
+## Exposition by C. H. Spurgeon: Psalm 37
 
 May the Spirit of God graciously apply this Psalm to our hearts, comforting us as no one else can! Is He not the Comforter? And what better cordial has He for our spirits than His own Word?
 
@@ -164,7 +161,6 @@ such as are blessed of Him shall inherit the earth, and they that are cursed of 
 38, 39. But the transgressors shall be destroyed together: the end of the wicked shall be cut off But the salvation of the righteous is of the LORD: He is their strength in the time of trouble. Have you not proved it so, dear Brothers and Sisters in Christ? I know that you have had times of trouble, but has not God been your strength in a very peculiar way in all such times?
 
 40\. And the LORD shall help them—He is and He shall always be their Helper. "The Lord shall help them"— 40. And deliver them: He shall deliver them from the wicked, and save them, because they trust in Him. That is the point—not because of any merit of theirs, nor because of any skill of theirs— but, "He shall deliver them from the wicked, and save them, because they trust in Him." So, Lord, help us to trust in You! Amen.
-
 
 ---
 [[Sermon 3231 A New Year's Wish|← #3231]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3233 God's Firebrands|#3233 →]]

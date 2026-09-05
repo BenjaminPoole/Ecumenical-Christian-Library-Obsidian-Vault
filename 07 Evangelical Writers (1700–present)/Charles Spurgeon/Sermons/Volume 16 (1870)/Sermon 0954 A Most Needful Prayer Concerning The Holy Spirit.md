@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Most Needful Prayer Concerning The Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 954
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 9, 1870,.
+*Delivered on Lord's-Day Morning, October 9, 1870*
 
 > "Cast me not away from Your Presence. And take not Your Holy Spirit from me." Psalm 51:11.
 
@@ -176,7 +175,6 @@ thus to the Lord, "O You most merciful God, pronounce not yet that word, 'Depart
 Have you prayed that prayer, dear Hearer? It shall be heard. But hear what God speaks to you—it is this—"Believe you now this day, and trust in Jesus and you shall be saved." Come now and put yourself before the Cross. Trust yourself for time and for eternity in His dear hands, who there poured out His soul unto death for sinners. Then shall you know without a doubt that He will never cast you away from His Presence!
 
 "Him that comes to Me," says Jesus, "I will in no wise cast out." Then shall you know that the Spirit shall not be taken from you, for He is with them that believe, and He shall abide in them forever. God bless you, every one of you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0953 Done In A Day, But Wondered At Forever|← #953]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0955 A Singular But Needful Question|#955 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Jacob's Model Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3010
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Genesis 32:9-12.
 
@@ -105,7 +102,7 @@ Although Jacob's own plans were put on one side, and God met him as though He we
 
 Brothers and Sisters, the pith of the whole matter is this, "Trust in the Lord forever, for in the Lord Jehovah is everlasting strength." As for you who know Him not, I pray you to trust in the Sacrifice of His dear Son, Jesus Christ. As the doves hide themselves in the clefts of the rock, hide yourselves in the wounds of Jesus by trusting in His atoning Sacrifice. And as for you, the saints of the Lord, return unto your rest for the Lord has dealt bountifully with you, therefore, "rest in the Lord and wait patiently for Him," remembering that "they who wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint." May the Lord graciously give all of us His blessing and benediction, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 32.
+## Exposition by C. H. Spurgeon: Genesis 32
 
 Jacob had just come out of a great trouble. God's gracious interposition had delivered him out of the hands of the angry Laban—Laban the churl, who cared for Jacob only for what he could get out of him.
 
@@ -137,12 +134,11 @@ life. Better than squadrons of horses and regiments of foot soldiers are the min
 
 32\. Therefore the children of Israel eat not of the sinew which shrank which is upon the hollow of the thigh unto this day: because He touched the hollow of Jacob's thigh in the sinew that shrank. Some touch of human weakness must always accompany the Divine Strength that God may give us. If we are allowed the high honor of carrying the untold treasure of the Gospel, we must be reminded that "we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us." Yet who would not be content to limp for life if he might but win such a victory as Jacob won on that memorable night by the Brook Jabbok?
 
-HYMNS FROM "OUR OWN HYMN BOOK"— 229, 734, 326.
+## Hymns from "Our Own Hymn Book"— 229, 734, 326
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3009 Our Champion|← #3009]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3011 Faith First, Confession Following|#3011 →]]

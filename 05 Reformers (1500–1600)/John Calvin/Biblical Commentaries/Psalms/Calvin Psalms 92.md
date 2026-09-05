@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 92
-
-**PSALM 92**
 
 This psalm contains an exhortation to praise God, and shows how much ground we have for this exercise from the works of God, insisting, especially, upon his justice, displayed in the protection of his people, and the destruction of the wicked. By such truth it encourages to the practice of righteousness, and preserves us from fainting under the cross of Christ, by proposing to our view a happy issue out of all our afflictions. To deter us, on the other hand, from the commission of iniquity it declares that sinners, however they may prosper for a time, will speedily be destroyed.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Individual Sin Laid On Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 925
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 10, 1870,.
+*Delivered on Lord's-Day Morning, April 10, 1870*
 
 > "All we like sheep have gone astray. We have turned, every one to his own way; and the Lord has laid on Him the iniquity of us all." Isaiah 53:6.
 
@@ -150,7 +149,6 @@ And it is not for Paul to mimic Cephas, nor for Cephas to copy Apollos. As we ha
 Robert Raikes invented the Sunday school. John Pounds invented Ragged schools—have we come to the end of gracious ingenuity? Oh, if we loved Christ better, every man would invent something—he would have a mode of action growing out of his own peculiar capacities. He would feel that God meant to meet a case by him that would never be met by anybody else. Men are all alive about this world, and all asleep about the world to come. I would urge you each to have a mission, to espouse a work, to obtain a calling. Ask God not to put you into the Sunday school as a matter of mere Providence, but as a matter of special ordination.
 
 And if you are ordained to be a Sunday school teacher, ask Him to put you into some particular class, not as by an accident, but as a special sphere for your special character and taste, and mode of thought, and manner of action. Follow, as God the Holy Spirit shall help you, the promptings of the Divine life that God has put within you. And as you served Satan with all your individuality, even so serve Him upon whom the Lord of old did lay your iniquity. The Lord bless you for Christ's sake.
-
 
 ---
 [[Sermon 0924 Jesus Only|← #924]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0926 The Sine Qua Non|#926 →]]

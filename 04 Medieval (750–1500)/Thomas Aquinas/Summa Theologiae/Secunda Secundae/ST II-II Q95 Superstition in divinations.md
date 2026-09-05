@@ -15,7 +15,6 @@ tags:
   - summa-theologiae
   - written/13th-century
 ---
-
 # Question 95. Superstition in divinations
 
 *Secunda Secundæ, Question 95* — Summa Theologiae
@@ -57,8 +56,6 @@ Accordingly it is not called divination, if a man foretells things that happen o
 **Reply to Objection 2.** This kind of divination pertains to the worship of the demons, inasmuch as one enters into a compact, tacit or express with the demons.
 
 **Reply to Objection 3.** In the New Law man's mind is restrained from solicitude about temporal things: wherefore the New Law contains no institution for the foreknowledge of future events in temporal matters. On the other hand in the Old Law, which contained earthly promises, there were consultations about the future in connection with religious matters. Hence where it is written (Isaiah 8:19): "And when they shall say to you: Seek of pythons and of diviners, who mutter in their enchantments," it is added by way of answer: "Should not the people seek of their God, a vision for the living and the dead? [Vulgate: 'seek of their God, for the living of the dead?']"
-
-In the New Testament, however, there were some possessed of the spirit of prophecy, who foretold many things about future events.
 
 In the New Testament, however, there were some possessed of the spirit of prophecy, who foretold many things about future events.
 
@@ -199,7 +196,6 @@ If, however, there be urgent necessity it is lawful to seek the divine judgment 
 This suffices for the Reply to the First and Second Objections.
 
 **Reply to Objection 3.** The trial by hot iron or boiling water is directed to the investigation of someone's hidden sin, by means of something done by a man, and in this it agrees with the drawing of lots. But in so far as a miraculous result is expected from God, it surpasses the common generality of sortilege. Hence this kind of trial is rendered unlawful, both because it is directed to the judgment of the occult, which is reserved to the divine judgment, and because such like trials are not sanctioned by divine authority. Hence we read in a decree of Pope Stephen V [II, qu. v., can. Consuluist i]: "The sacred canons do not approve of extorting a confession from anyone by means of the trial by hot iron or boiling water, and no one must presume, by a superstitious innovation, to practice what is not sanctioned by the teaching of the holy fathers. For it is allowable that public crimes should be judged by our authority, after the culprit has made spontaneous confession, or when witnesses have been approved, with due regard to the fear of God; but hidden and unknown crimes must be left to Him Who alone knows the hearts of the children of men." The same would seem to apply to the law concerning duels, save that it approaches nearer to the common kind of sortilege, since no miraculous effect is expected thereupon, unless the combatants be very unequal in strength or skill.
-
 
 ---
 [[ST II-II Q94 Idolatry|← Q94. Idolatry]] · [[Secunda Secundae|Secunda Secundæ Contents]] · [[ST II-II Q96 Superstition in observances|Q96. Superstition in observances →]]

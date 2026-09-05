@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 32
-
-**PSALM 32.**
 
 David having largely and painfully experienced what a miserable thing it is to feel God’s hand heavy on account of sin, exclaims that the highest and best part of a happy life consists in this, that God forgives a man’s guilt, and receives him graciously into his favor. After giving thanks for pardon obtained, he invites others to fellowship with him in his happiness, showing, by his own example, the means by which this may be obtained.
 

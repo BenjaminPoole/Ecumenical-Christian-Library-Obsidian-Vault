@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 11
-
-**PSALM 11.**
 
 This psalm consists of two parts. In the first part, David recounts the severe assaults of temptation which he had encountered, and the state of distressing anxiety to which he had been reduced during the time of his persecution by Saul. In the second, he congratulates himself on the deliverance which God had granted him, and magnifies the righteousness of God in the government of the world.
 

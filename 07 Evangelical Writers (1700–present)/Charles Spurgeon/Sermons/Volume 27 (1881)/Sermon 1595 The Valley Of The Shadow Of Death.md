@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Valley Of The Shadow Of Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1595
 
-DELIVERED ON THURSDAY EVENING, AUGUST 12, 1880,.
+*Delivered on Thursday Evening, August 12, 1880*
 
 > "Yea, though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me." Psalm 23:4.
 
@@ -146,7 +145,6 @@ But, last of all, the rod and the staff are used by the shepherd to protect his 
 "Skin for skin, yes, all that a man has, will he give for his life." And when he has once given up his life, that which he has purchased with it is dearer to him than all the world. Christ would sooner lose His life than lose His people! He died once to save them and until He dies, again, they shall never perish! Has He not said it Himself, "Because I live you shall live, also"? Unless they live, He does not live! His life has entered into them and it can never leave them. "I give," says He, "unto My sheep eternal life." And what can, "eternal life," mean but a life which lasts forever? Oh, may God give to everyone here the faith which I have been talking about!
 
 Perhaps some of you have never trusted your souls with Christ. You know that faith is the way of salvation—why do you not follow it? Simply trust Him. Simply trust Him. Simply trust Him now! It is wonderful, the power of faith to change the heart! When you trust a man, you love him. You cannot be an enemy to a man in whom you trust. The effect of faith upon the affections is marvelous—it changes their whole nature and bent. God give you to know Christ, for they that know His name will put their trust in Him and when you know Him and trust Him, then shall you confess with us unto the Lord, "Blessed is the man that trusts in You." God bless you, dear Friends, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1594 The Candle|← #1594]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1596 Hearken and Look; or, Encouragement for Believers|#1596 →]]

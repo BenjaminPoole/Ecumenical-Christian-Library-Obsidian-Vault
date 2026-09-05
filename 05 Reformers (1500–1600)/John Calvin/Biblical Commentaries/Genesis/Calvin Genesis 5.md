@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 5
 
-**CHAPTER 5.**
+***Chapter 5.***
 
 ## Genesis 5:1-32
 

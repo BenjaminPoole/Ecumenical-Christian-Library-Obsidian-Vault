@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # 'Do I Love the Lord or Not?'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3524
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Peter was grieved because He said unto Aim the third time, Do you love Me?" John 21:17.
 
@@ -45,7 +42,7 @@ To save my precious soul?"
 
 Alas, then, if instead of having, like the beloved Persis, labored much in the Lord (Rom 16:12), might we not, some of us, suspect ourselves of having so acted as rather to dishonor His name? Are you not tenderly conscious that Christian people full often lend their sanction by a loose conversation and lax habits, to the sins which the world has allowed and applauded? Jerusalem becomes a Comforter to Sodom when those who call themselves people of God conform to the usages of society—and of such society as is corrupt to the core! They say, "Ah, you see, there is no harm in it, for the saints, themselves, indulge in it! They are of the same mind as we are! They make a great pretence, but to no great purpose, for they do as we do." God forgive us if we have opened the mouths of the Lord's enemies after this fashion! Surely such failures and such offenses make it necessary for us to ask whether we love the Lord or not! And though we may hesitate to answer the question, it is well to raise it, lest, closing our eyes in carnal security, we should go on to destruction! Let us put the question to ourselves again, and again, and again, for the question will not mar our faith, nor even mar our comfort, as long as we are able to fall back upon Peter's reply, "Lord, You know all things; You know that I love You." And now, presuming that we are, all of us, convinced that the question is expedient and becoming, let me remark that—
 
-II. IT IS A QUESTION WHICH, WHEN RAISED, OFTEN CAUSES GRIEF.
+## II. It Is a Question Which, When Raised, Often Causes Grief
 
 Peter was "grieved," but the Lord Jesus Christ never grieved one of His disciples heedlessly. This goes again to prove the need of the question. He was rather for comforting, cheering and blessing them. He inflicted no needless pain. He shielded them from bootless anxiety. Yet Peter was grieved. Now why should you and I be grieved when the enquiry turns upon our sincerity? You know that if we do not canvass the matter, ourselves, our foes will be prompt enough to suspect us, especially if we are in a public position. The clearer your character, the keener the assault. Satan—and he is the accuser of the brethren—said, "Does Job serve God for nothing? Have You not set a hedge about him?" The devil's taunting question has become a proverb with the profane! What worse can they say of the Christian minister than this, "Is he zealous for nothing? Has he not a motive? Is there not selfishness in the background?" Base insinuations will, I suppose, be freely uttered about you whatever may be your position in the world. Of the tradesman who fears the Lord, they will say, "Of course, he makes it pay." As for the merchant who consecrates his wealth for the love of Christ, they ask, "Do not you see that he is seeking notoriety? Is it not a cheap way of getting up a name?" We are sure to have the question raised. Sometimes it sorely grieves us because of our pride.
 
@@ -75,7 +72,7 @@ If you can say that you love Christ from your very heart, how happy you ought to
 
 As for you who do not love my Lord and Master, what can I do but pray for you, that His great love may now overcome your ignorance and aversion—until, having first been loved of Him, you love Him in return? Jesus Christ would have you trust Him! Faith is the first Grace you need. Oh, come and depend upon Him who did hang upon the Cross! When you rest in Him, your soul is saved and, being saved, it shall become your constant joy to love Him who loved you and gave Himself for you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN21.
+## Exposition by C. H. Spurgeon: John 21
 
 Verses 1-3. After these things Jesus showed Himself again to the disciples at the Sea of Tiberias; and on this wise showed He, Himself There were together Simon Peter, and Thomas called the Twin, and Nathanael of Cana in Galilee, and the sons of Zebedee and two other ofHis disciples. Simon Peter said unto them, I am going fishing. They said to him, We are also going with you. They could not do better. Idleness is the most injurious condition in which a man can be found. A preacher is much better occupied fishing than doing nothing!
 
@@ -116,7 +113,6 @@ supper, and said, Lord, who is he that betrays You? Peter seeing him, said to Je
 23\. Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, he shall not die, but if I will that he tarry till I come, what is that to you?The Word of God is to be trusted—not tradi-tion—for in the handing of a message from mouth to mouth, it generally varies. It sometimes loses its very essential spirit, and sometimes may be made to say the very reverse of what was said. Stick to the Word of God—and leave the traditions alone!
 
 24\. 25. This is the disciple which testifies of these things, and wrote these things: and we know that his testimony is true. And there are also many other things which Jesus did, the which, if they should be written, every one, I suppose that even the world itself could not contain the books that should be written. Amen. Such a full life—so pregnant with meaning—so active, and all its activity so intensely real and spiritual, that to write a life of Christ is an impossibility! And though there have been many very admirable "lives of Christ" in our time, I recommend you to keep to one which is the best of them all—and that one is written by four Inspired authors—the Gospels according to Matthew, Mark, Luke, and John are the best life of Christ out of sight! All others must be but mere helps to the understanding of these four.
-
 
 ---
 [[Sermon 3523 A Type and Its Teaching|← #3523]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3525 God's Overtaking Mercy|#3525 →]]

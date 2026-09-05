@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Secret of Love to God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2730
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We love Him, because He first loved us." 1 John 4:19.
 
@@ -121,7 +118,7 @@ Then, do you not see, Brothers and Sisters, if there is such a force as this to 
 
 Strong Son of God—immortal love, nor pain, nor grief, nor bloody sweat, nor death, itself, could stop You and, by Your sacred passion, we implore You to let Your love drop into our souls till we, too, shall become strong, like Yourself, according to our measure, and shall be able to contend for You, to suffer for You, to live for You and to die for You, all the while giving this as the explanation of it all—"We love Him, because He first loved us"! God bless you, Beloved, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 4
+## Exposition by C. H. Spurgeon: 1 John 4
 
 Verse 1. Beloved, believe not every spirit A simpleton believes every word that he hears, but "the wise man's eyes are in his head," so he examines what he sees and hears, and does not blindly accept whatever may be told to him. So John says, "Believe not every spirit."
 
@@ -154,7 +151,6 @@ Verse 1. Beloved, believe not every spirit A simpleton believes every word that 
 18-20. Because fear has torment. He that fears is not made perfect in love. We love Him, because He first loved us. If a man says, Ilove God, and hates his brother, he is a liar. John! John! John! This is a very strong expression! Did we not always understand that John was full of affection? Yes, but he was not one of those oily, sugary sort of people who cannot speak the truth! There is no real love in that kind of man—he has only the mere pretense of love. John speaks sharply because he loves ardently. True love hates that which is unlovely. It is inevitable that a man who is full of love should feel intense indignation against that which is contrary to love. Hence the Apostle says, "If a man says, I love God, and hates his brother, he is a liar."
 
 20, 21. For he that loves not his brother whom he has seen, how can he love God whom he has not seen? And this commandment have we from Him, That he who loves God must love his brother also. And the word, "brother," is to be understood in the widest possible sense! We are all brothers, springing from the same common parent and, therefore, we ought to be philanthropists, lovers of man, loving even the guilty and the worthless, having an earnest desire to do good even to those who do us evil. If we have not yet reached that spirit, we had best begin our true Christian life at the foot of the Cross by trusting and loving Him who died there out of love for sinners—for only there can we learn, in the Person of Christ Jesus our Lord—this Divine philosophy of love to God and men!
-
 
 ---
 [[Sermon 2729 Christ's Transfigured Face|← #2729]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2731 Bringing Sinners to the Savior|#2731 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # No Tears In Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 643
 
-DELIVERED ON SUNDAY MORNING, AUGUST 6, 1865,.
+*Delivered on Sunday Morning, August 6, 1865*
 
 > "And God shall wipe away all tears from their eyes." Revelation 7:17.
 
@@ -154,7 +153,6 @@ Now it is the mark of a Christian that he not only goes to Christ to wash away h
 What do you say, dear Friends? Have you washed in blood? The meaning of it is, have you trusted in the atoning sacrifice? "Without shedding of blood there is no remission of sin." Have you taken Christ to be your All in All? Are you now depending on Him? If so, out of deep distress you shall yet ascend, leaning on your Beloved, to the Throne of God and to the bliss which awaits His chosen. But if not, "there is none other name," there is no other way. Your damnation will be as just as it will be sure.
 
 Christ is "the Way." But if you will not tread it you shall not reach the end. Christ is "the Truth," but if you will not believe Him, you shall not rejoice. Christ is "the Life," but if you will not receive Him you shall abide among the dead and be cast out among the corrupt. From such a doom may the Lord deliver us and give us a simple confidence in the Divine work of the Redeemer and to Him shall be the praise eternally. Amen.
-
 
 ---
 [[Sermon 0642 Withholding Corn|← #642]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0644 God'S Witnesses|#644 →]]

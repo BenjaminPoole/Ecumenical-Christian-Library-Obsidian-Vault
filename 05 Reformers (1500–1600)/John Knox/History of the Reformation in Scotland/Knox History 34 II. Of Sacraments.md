@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 34. II. Of Sacraments
-
-### II. Of Sacraments.
 
 To the true preaching of the holy Evangel of Christ Jesus it is necessary that His holy Sacraments be annexed, and truly ministered, as seals and visible confirmations of the spiritual promises contained in the Word. These be two, to wit, Baptism and the Holy Supper of the Lord Jesus; which are rightly ministered when the people, before the administration of the same, are plainly instructed by a lawful minister, and put in mind of God's free grace and mercy, offered unto the penitent in Christ Jesus; when God's promises are rehearsed, the end and use of the Sacraments declared, and that in such a tongue as the people do understand; when, farther, to them is nothing added, from them nothing diminished, and in their practice nothing changed from the institution of the Lord Jesus and practice of His holy Apostles.
 

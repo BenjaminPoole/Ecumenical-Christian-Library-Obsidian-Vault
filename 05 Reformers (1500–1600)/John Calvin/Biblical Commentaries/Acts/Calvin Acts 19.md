@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 19
 
-**CHAPTER 19**
+***Chapter 19***
 
 ## Acts 19:1-7
 

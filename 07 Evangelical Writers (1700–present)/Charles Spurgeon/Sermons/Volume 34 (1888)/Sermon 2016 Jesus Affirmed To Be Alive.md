@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Jesus Affirmed To Be Alive
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2016
 
-DELIVERED ON LORD'S DAY MORNING, APRIL 1, 1888,.
+*Delivered on Lord's Day Morning, April 1, 1888*
 
 > "Against whom when the accusers stood up, they brought none accusation of such things as I supposed: but had certain questions against him of their own superstition and of one Jesus, which was dead, whom Paul affirmed to be alive." Acts 25:18,19.
 
@@ -154,7 +153,6 @@ Oh that our Lord would now appear! Oh that His silver trumpets would ring out wh
 said, "I will come again and receive you unto Myself"? They that have been faithful to Him in this evil generation, through the dark as well as through the light and have followed at His heels through mire and slough—these shall partake of His glory.
 
 "These are they which follow the Lamb wherever He goes." Who is on the side of the living Christ at this hour? Let him come out and boldly say so. Hold not back lest you be found traitors. Confess your Lord, take up your cross and by God's grace be the living servants of the living Jesus. Amen.
-
 
 ---
 [[Sermon 2015 The Rent Veil|← #2015]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2017 'David's Spoil'|#2017 →]]

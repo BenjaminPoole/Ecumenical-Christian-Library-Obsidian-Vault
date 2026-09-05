@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Beauty for Ashes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3336
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To give unto them [who mourn in Zion] beauty for ashes." Isaiah 61:3.
 
@@ -140,7 +137,6 @@ In the sense of being a joy to others, many of the Lord's people are very beauti
 Yes, and when the Lord makes His people beautiful they are a delight even to God, Himself, for the Lord rejoices in His works and His works of Grace are the noblest labor of His hands and, as being fullest of Divine Grace, are most graceful! The Lord delights in His people! We read of the Lord Jesus that His delights were with the sons of men, and even now, though angelic harps ring out His praises, He loves to be here in our Churches and to commune with us as a man speaks with his friend. Beloved, cultivate His society! Abide with Him and if He can find any cause of delight in you, which is a wonder of wonders, put all your delight in Him!
 
 Let us have this gracious beauty about us and even our heavenly Bridegroom will have to say, "Turn away your eyes from Me, for they have overcome Me. You have ravished My heart with one of your eyes." May we be kept from marring this beauty and be forever so fair that even our Lord, Himself, may look and love! Amen.
-
 
 ---
 [[Sermon 3335 The Divine Discipline|← #3335]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3337 Ears Bored to the Doorpost|#3337 →]]

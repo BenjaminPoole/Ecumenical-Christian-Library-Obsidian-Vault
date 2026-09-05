@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Searching Test
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3521
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Unto the pure all things are pure, but unto them who are defiled and unbelieving, nothing is pure, but even their mind and conscience are defiled." Titus 1:15.
 
@@ -27,7 +24,7 @@ This text has often been misused—made to mean what was never in the Apostle's 
 
 Our text has in it, tonight, two kinds of men—the pure and the defiled and unbelieving. And secondly, it has two kinds of effects produced upon these men by outward things—to the one, all things are pure—to the other, there is nothing pure. First, let us talk about these—
 
-I. TWO KINDS OF MEN.
+## I. Two Kinds of Men
 
 First, the pure—where shall we find them? Where are they born? We answer, no men are born so! Who shall bring a clean thing out of an unclean? No one! Not one! As our parents have sinned, we, their children, are born with tendencies to sin—we are impure even from birth! There are none pure but those who are made so by a second creation! The first time they are marred upon the wheel. They must go under the Creator's hand a second time—they must feel the power of the purifying Spirit of God creating them anew before they can be called pure at all! And these are not absolutely pure. Even in those who are entitled to be called, "pure in heart," there remains impurity. If any man shall question that, let him remember the First Epistle of John, the first Chapter, at the 8th verse—"If any man says he has no sin, he is a liar, and the truth is not in him." There is sin in the best of men—and if they do not perceive it, it must be because they are blinded with a foolish self-conceit—for in the purest heart there still remains connected with it the old nature and the impurity inherited from the first Adam. This makes life a perpetual conflict until life's close. Still, we name men by their predominant characteristics. The partial impurity of a good man does not entitle him to be called impure. If the master principle within him, the reigning principle, is purity, he is a pure man. A man may once in his life have spoken an untruth—he may have been surprised into saying a thing which is not—but if the general tenor of his life is stern integrity, we do not, therefore, condemn him and brand him as a liar! Otherwise where were the men living upon earth who would be worthy of a name implying praise? The godly are pure—have been made pure by regeneration, and they are pure, though not absolutely so.
 
@@ -49,7 +46,7 @@ Now there are men in the world with defiled understandings and defiled conscienc
 
 Thus have I spoken upon the two sorts of men, the pure and the defiled. But now, secondly, here is the main point that we have to speak of—
 
-II. THE TWO AFFECTS PRODUCED ON THESE TWO KINDS OF MEN.
+## II. The Two Affects Produced on These Two Kinds of Men
 
 To those who are pure, all things are pure. To those who are impure and unbelieving, everything becomes impure. Only a few things by way of specimen.
 
@@ -80,7 +77,6 @@ But provided we are obliged to come to the conclusion that our minds are not pur
 "No outward form can make me clean, The leprosy lies deep within"
 
 But God has set forth Christ to be a Savior—and He shall save His people from their sins—from their sinfulness, too, and whoever believes in Christ Jesus, that is, trusts in Him, there is already in him the beginning of purity! God the Holy Spirit will give him more and more of the likeness of Christ, for he that believes shall be saved from sin, from indwelling sin, from all sin, from the power as well as from the guilt of it! Faith will cleanse him, applying to him the precious blood and the water which flows from the side of Christ! Faith will, by the Holy Spirit's power, become a cleansing as well as a saving Grace! God grant it to us, and may we all be among the pure, unto whom all things shall be pure. We ask it for Christ's sake! Amen.
-
 
 ---
 [[Sermon 3520 Jerusalem the Guilty|← #3520]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3522 Christ a Sanctuary|#3522 →]]

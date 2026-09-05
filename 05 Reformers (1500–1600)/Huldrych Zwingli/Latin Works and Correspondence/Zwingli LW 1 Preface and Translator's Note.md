@@ -11,14 +11,13 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 1. Preface and Translator's Note
 
 D'visioQ fO '^ bectton _ _
 
 Of this translation of the Works of Huldreich Zwmgli, seven hundred and fifty copies have been printed from type, and the type destroyed.
 
-HULDREICH ZWINGLI.
+## Huldreich Zwingli
 
 The Latin Warks ( oct and ^^^e/G;
 
@@ -46,7 +45,7 @@ Ubc lknicl?erbocfter press
 
 Copyright, 1912
 
-SAMUEL MACAULEY JACKSON
+## Samuel Macauley Jackson
 
 TClK ftniclierbocfiec Dtess, 'Dew BocR
 
@@ -156,7 +155,7 @@ Samuel Macauley Jackson.
 
 New York, May 20, 1912.
 
-TRANSLATION
+## Translation
 
 Professor Dr. S. M. Jackson New York City
 
@@ -180,7 +179,7 @@ Koehler, and of the publisher, the free horising, in his own name and in that of
 
 PREFACE ......... iii
 
-ORIGINAL LIFE OF ZWINGLI ...... I
+## Original Life of Zwingli ...... I
 
 THE FABLE OF THE OX. A COMMENTARY ON THE PRESENT (autumn, 15 IO) COURSE OF AFFAIRS, BY HULDREICH ZWINGLI OF THE TOGGENBURG, IN CRUDE CENTIMETRE FORM ......... 27
 
@@ -188,25 +187,19 @@ THE FABULOUS POEM OF THE PRIEST ZWINGLI CONCERNING AN OX AND MANY OTHER ANIMALS,
 
 ACCOUNT BY HULDREICH ZWINGLI OF THE ENGAGEMENTS BETWEEN THE FRENCH AND THE SWISS HARD BY RAVENNA AND PAVIA AND IN OTHER PLACES, AND OF THE CONVENTION AT BADEN IN SWITZERLAND, IN THE YEAR I512 35
 
-THE MISSING DIALOGUES ...... 48
-
-THE LABYRINTH ........ 50
-
 TRANSCRIPT OF THE PAULINE EPISTLES . •• • 55 xiv Contents
 
-A CHRISTIAN SONG WRITTEN BY HULDREICH ZWINGLI WHEN
-
-HE WAS ATTACKED BY THE PESTILENCE (1519) . . 56
+## A Christian Song Written by Huldreich Zwingli When
 
 ADVICE OF ONE WHO DESIRES WITH HIS WHOLE HEART THAT DUE CONSIDERATION BE PAID BOTH TO THE DIGNITY OF THE POPE AND TO THE PEACEFUL DEVELOPMENT OF THE CHRISTIAN RELIGION ..... 58
 
 I. WHAT ZWINGLI SAID AND PREACHED AT THIS TIME (1521) AGAINST THE MERCENARY SERVICE OF THE SWISS. 2. WHAT ZWINGLI PREACHED AT THIS TIME (152 1 ) . 68
 
-CONCERNING CHOICE AND LIBERTY RESPECTING FOOD — CONCERNING OFFENCE AND VEXATION WHETHER ANYONE
+## Concerning Choice and Liberty Respecting Food — Concerning Offence and Vexation Whether Anyone
 
-HAS POWER TO FORBID FOODS AT CERTAIN TIMES
+## Has Power to Forbid Foods at Certain Times
 
-OPINION OF HULDREICH ZWINGLI . . . . ^0
+## Opinion of Huldreich Zwingli . . . . ^0
 
 LETTER OF HULDREICH ZWINGLI TO ERASMUS FABRICIUS ABOUT THE PROCEEDINGS, ON THE 7TH, 8TH, AND 9TH OF APRIL, 1522, OF THE DELEGATES SENT TO ZURICH BY THE BISHOP OF CONSTANCE . . . . 113
 

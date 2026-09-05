@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 20
 
 ## Lecture Seventy Fifth
 
-**CHAPTER 20**
+## **Chapter 20**
 
 ## Jeremiah 20:1-2
 
@@ -71,7 +70,7 @@ He goes on with the same subject, but amplifies what he had said in order to con
 
 ## Prayer Lecture 75
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may not by our perverseness increasingly provoke thy wrath, but that whenever thou threatenest us, we may immediately fear and tremble at thy word, and also obey thee in the true spirit of meekness, and so dread thy threatenings as to anticipate thy judgment by true repentance, and thus strive to glorify thy name, that thou mayest become our strength and glory, and that we may be able not only before the world, but before thee and thy angels, really to glory, that we are that peculiar people whom thou hast favored with thy adoption, that thou mayest to the end carry on in us the work of thy grace, through Jesus Christ our Lord. — Amen.
 
@@ -162,7 +161,7 @@ Let us also beware lest we withdraw ourselves from God; but even when many thing
 
 ## Prayer Lecture 76
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as at this day a greater and viler impiety breaks forth than at any age, and thy sacred truth is treated with derision by many of Satan’s drudges, — O grant, that we may nevertheless constantly persevere in it, nor hesitate to oppose the fury of all the ungodly, and relying on the power of thy Spirit, contend with them until that truth, which thou didst once proclaim by thy Prophets, and at length by thine only-begotten Son, and which was sealed by his blood, may attain its full authority, that as it proves to many the savor of eternal death, so it may also be a pledge to us of eternal salvation, until we shall be gathered into thy kingdom at the coming of the same thy Son Jesus Christ. — Amen.
 
@@ -250,7 +249,7 @@ But we are here reminded how much vigilance we ought to exercise over ourselves;
 
 ## Prayer Lecture 77
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as virulent tongues now surround us, and the devil has many mercenaries, who have nothing else in view but to prevent by clamors whatever is rightly derived from thee, and has proceeded from thy mouth, — O grant, that we may firmly oppose such intrigues, and also stand with resolute minds against all their violent artifices, and proceed in the course of thy holy calling, until we shall at length surely know that they who trust in thee, and faithfully devote themselves to thy service, are never left without thy help; and that, having at last finished our warfare, we may be gathered into that blessed rest which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

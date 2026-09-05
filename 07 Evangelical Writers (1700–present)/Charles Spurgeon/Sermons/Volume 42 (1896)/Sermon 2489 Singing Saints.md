@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Singing Saints
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2489
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Sing to the LORD, O you saints of His, and give thanks at the remembrance of His holiness." Psalm 30:4.
 
@@ -91,7 +88,7 @@ We have not enough singing saints! The other Sunday morning I noticed that there
 
 "All hail the power of Jesus' name! Let angels prostrate fall. Bring forth the royal diadem, And crown Him Lord of all."
 
-EXPOSITION BY C. H. SPURGEON: LUKE22:39-65.
+## Exposition by C. H. Spurgeon: Luke 22:39-65
 
 In anticipation of the Communion service that is to follow this service, [The Scripture exposition always took place before the sermon waspreached—EOD] l et us read once more the story of our Lord's agony and arrest, as recorded in the 22nd Chapter of the Gospel according to Luke. Probably we are all familiar with the narrative of the event which happened on that dreadful night. May the Holy Spirit teach us what He meant!
 
@@ -126,7 +123,6 @@ Verse 39. And Jesus came out and went, as He was known, to the mount of Olives; 
 61-64. And Peter remembered the word of the Lord, how He had said to him, Before the cock crows, you shall deny Me thrice. And Peter went out, and wept bitterly. And the men that held Jesus mocked Him, and smote Him. And when they had blindfolded Him, they struck Him on the face, and asked Him, saying, Prophesy, who is it that struck You? Upon this passage a good man well observes that one of these days Christ will answer this taunt. With His unerring finger, the Judge of All shall point them out and say to each one, "You are the man." There are many of you, perhaps, who are committing sin in private and you think it is not known. You are almost ready to ask the question of Him whom you look upon as a blindfolded God, "Who is it that struck You?" Ah, but He sees you all the while! He reads the secret thoughts of your hearts and the day will come when He will let you know that nothinghas escaped His all-seeing eyes!
 
 65\. And many other things blasphemously spoke they against Him. The Lord bless to us all the reading of this sad, sad story! Amen.
-
 
 ---
 [[Sermon 2488 Christ's Love to His Spouse|← #2488]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2490 The Danger of Carnal Security|#2490 →]]

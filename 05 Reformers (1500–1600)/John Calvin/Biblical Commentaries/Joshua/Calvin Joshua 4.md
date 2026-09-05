@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Joshua 4:1-9
 

@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Timaeus
 *trans. Benjamin Jowett*
 
@@ -19,31 +18,15 @@ tags:
 
 ---
 
-      TIMAEUS
+## Timaeus
 
       by Plato
 
       Translated by Benjamin Jowett
 
+## Timaeus
 
-      Contents
-
- INTRODUCTION AND ANALYSIS.
- Section 1.
- Section 2.
- Section 3.
- Section 4.
- Section 5.
- Section 6.
- Section 7.
- Section 8.
-
- TIMAEUS
-
-
-
-
-      INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
       Of all the writings of Plato the Timaeus is the most obscure and
       repulsive to the modern reader, and has nevertheless had the
@@ -328,11 +311,7 @@ tags:
       upon: (8) lastly, we may examine in what points Plato approaches
       or anticipates the discoveries of modern science.
 
-
-
-
-      Section 1.
-
+## Section 1
 
       Socrates begins the Timaeus with a summary of the Republic. He
       lightly touches upon a few points,—the division of labour and
@@ -1643,11 +1622,7 @@ tags:
       visible, made in the image of the Intellectual, being the one
       perfect only-begotten heaven.
 
-
-
-
-      Section 2.
-
+## Section 2
 
       Nature in the aspect which she presented to a Greek philosopher
       of the fourth century before Christ is not easily reproduced to
@@ -2029,11 +2004,7 @@ tags:
       which is at variance with facts and has failed to satisfy the
       requirements of thought.
 
-
-
-
-      Section 3.
-
+## Section 3
 
       Plato’s account of the soul is partly mythical or figurative, and
       partly literal. Not that either he or we can draw a line between
@@ -2567,11 +2538,7 @@ tags:
       become solids; and he characteristically ridicules Democritus for
       not seeing that the worlds are finite and not infinite.
 
-
-
-
-      Section 4.
-
+## Section 4
 
       The astronomy of Plato is based on the two principles of the same
       and the other, which God combined in the creation of the world.
@@ -2777,11 +2744,7 @@ tags:
       ascertaining how they were imagined by Plato, if he had any fixed
       or scientific conception of them at all.
 
-
-
-
-      Section 5.
-
+## Section 5
 
       The soul of the world is framed on the analogy of the soul of
       man, and many traces of anthropomorphism blend with Plato’s
@@ -2875,11 +2838,7 @@ tags:
       of hunger are pleasant and painful because they are
       extraordinary.
 
-
-
-
-      Section 6.
-
+## Section 6
 
       I shall not attempt to connect the physiological speculations of
       Plato either with ancient or modern medicine. What light I can
@@ -3024,11 +2983,7 @@ tags:
       and that the influence of the one over the other may be exerted
       in a manner which is not now thought possible.
 
-
-
-
-      Section 7.
-
+## Section 7
 
       In Plato’s explanation of sensation we are struck by the fact
       that he has not the same distinct conception of organs of sense
@@ -3106,11 +3061,7 @@ tags:
       or source of life, but with an express purpose, and in a separate
       mass.
 
-
-
-
-      Section 8.
-
+## Section 8
 
       We have now to consider how far in any of these speculations
       Plato approximated to the discoveries of modern science. The
@@ -3668,7 +3619,6 @@ tags:
       world as a whole which the genius of antiquity has bequeathed to
       us.
 
-
       One more aspect of the Timaeus remains to be considered—the
       mythological or geographical. Is it not a wonderful thing that a
       few pages of one of Plato’s dialogues have grown into a great
@@ -3962,11 +3912,7 @@ tags:
       shall do well in believing on the testimony of wise men,’ is very
       characteristic of Plato.
 
-
-
-
-      TIMAEUS.
-
+## Timaeus
 
       PERSONS OF THE DIALOGUE: Socrates, Critias, Timaeus, Hermocrates.
 

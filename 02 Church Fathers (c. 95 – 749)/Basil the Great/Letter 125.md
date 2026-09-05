@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 125
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 A transcript of the faith as dictated by Saint Basil, and subscribed by Eustathius, bishop of Sebasteia.
 

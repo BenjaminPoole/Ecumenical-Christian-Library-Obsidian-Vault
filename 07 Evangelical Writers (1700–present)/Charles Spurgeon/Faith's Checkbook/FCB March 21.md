@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 21
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**AVOID THAT SLIP**
+## **Avoid that Slip**
 
 > Then shalt thou walk in thy way safely, and thy foot shall not stumble" Prov. 3:23
 
@@ -25,7 +24,6 @@ Our greatest danger lies in ourselves: our feeble foot is so sadly apt to stumbl
 Alas! our worst peril is our own carelessness, but against this the Lord Jesus has put us on our guard, saying, "Watch and pray."
 
 Oh for grace to walk this day without a single stumble! It is not enough that we do not actually fall; our cry should be that we may not make the smallest slip with our feet, but may at the last adore Him "who is able to keep us from stumbling."
-
 
 ---
 [[FCB March 20|← March 20]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 22|March 22 →]]

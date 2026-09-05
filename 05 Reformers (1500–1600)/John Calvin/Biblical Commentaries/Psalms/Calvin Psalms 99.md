@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 99
-
-**PSALM 99**
 
 This psalm differs from those which precede it in one respect, that it speaks of the kingdom of God, and the blessings consequent upon it, as confined within Judea; and rather calls upon the posterity of Abraham, in distinction from the surrounding nations, to praise God for the privilege of their adoption.
 

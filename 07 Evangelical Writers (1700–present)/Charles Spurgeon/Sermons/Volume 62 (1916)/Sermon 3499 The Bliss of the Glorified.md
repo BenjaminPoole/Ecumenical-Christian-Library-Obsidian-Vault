@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # The Bliss of the Glorified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3499
@@ -25,7 +24,7 @@ WE cannot too often turn our thoughts heavenward, for *this is one of the great 
 
 And, first, we shall think a little of *the blessedness of the saints* as described in the simple words of our text; then we will say a few words as to *how they came by that felicity;* and thirdly, *draw some practical lessons from it.* First, then, we have here:—
 
-I. A DESCRIPTION OF THE BLESSEDNESS OF THE GLORIFIED.
+## I. A Description of the Blessedness of the Glorified
 
 We have not the full description of it here; but we have here a description of certain *evils from which they are free.* You notice they are of two or three kinds—first, *such as originate within*—"They shall hunger no more, neither thirst any more"—they are free from inward evils; secondly, *such as originate without*—"Neither shall the sun light on them, nor any heat." They are altogether delivered from the results of outward circumstances. Take the first: "They shall hunger no more, neither thirst any more." We are never so to strain Scripture for a spiritual sense as to take away its natural sense, and hence we will begin by saying this is no doubt to be understood physically of the body they will have in glory. Whether there will be a necessity for eating and drinking in heaven, we will not say, for we are not told, but anyhow it is met by the text, "The Lamb that is in the midst of the throne shall feed them"—if they need food—"and lead them to living fountains of water" if they need to drink. Whatever may be the necessities of the future, those necessities shall never cause a pang. Here, the man who is hungry may have to ask the question, "What shall I eat?"; the man who is thirsty may have to say, "What shall I drink?"; and we have all to ask, "Wherewithal shall we be clothed?" But such questions shall never arise there. They are abundantly supplied. Children of God have been hungry here: the great Son of God, the head of the household was hungry before them; and they need not wonder if they have fellowship with him in this suffering. Children of God have had to thirst here: their great Lord and Master said, "I thirst"; they need not wonder, therefore, if in his affliction they have to take some share. Should not they who are to be like their head in heaven be conformed unto him on earth? But up yonder there is no poverty, and there shall be no accident that shall place them in circumstances of distress. "They shall hunger no more, neither thirst any more."
 
@@ -39,7 +38,7 @@ And now, dear friends, *the evils that come from without:* let us think of them.
 
 We have thus opened up as well as we could the words of the text on the felicity of the saints. Now, very briefly:—
 
-II. HOW DO THEY COME TO BE HAPPY?
+## II. How Do They Come to Be Happy?
 
 Well, it is quite clear that they did not come to it because they were very fortunate people on earth, for if you read another passage of the Word of God you will find, "These are they that came out of great tribulation." Those that have had trial and suffering on earth are amongst those that have the bliss of heaven. Encourage yourselves, you poor and suffering ones. It is quite certain they did not come there from their own merit, for we read, they have "washed their robes"—they wanted washing. They did not keep them always undefiled. There had been spots upon them. They came there not because they deserved to be there, but because of the rich grace of God. How did they come there then? Well, first, they came there *through the lamb that was slain.* He bore the sun and the heat, and, therefore, the sun doth not light on them, nor any heat. The hot sun of Jehovah's justice shone full upon the Saviour—scorched, and burned, and consumed him with grief and anguish; and because the Saviour suffered, therefore we suffer it no more. All our hopes of heaven are found at the cross.
 
@@ -47,7 +46,7 @@ But they came there next *because the Saviour shed his blood.* They washed their
 
 And besides, *they have the love of God to enjoy,* for the last word of the chapter is, "God shall wipe away all tears from their eyes." The blood of Jesus applied, the presence of Jesus enjoyed, and the love of God fully revealed—these are the causes of the bliss of the saved in heaven. But we must close our meditation with the last point, which is:—
 
-III. WHAT THIS TEACHES US.
+## III. What This Teaches Us
 
 First, the bliss of the saved in glory teaches us *to long for it.* It is legitimate to long for heaven—not to long to escape from doing our duty here. It is idleness to be always wanting to have done with this world—it is clear sloth—but to be longing to be where Jesus is, is only natural and gracious. Should not the child long to go home from the school? Should not the captive pine for liberty? Should not the traveller in foreign lands long to see his native country? Should not the bride, the married wife, when she has been long away from her husband, long to see his face? If you did not long for heaven, surely you might question whether heaven belonged to you. If you have ever tasted of the joys of the saints, as believers do on earth, you will sing with full soul:—
 
@@ -100,7 +99,6 @@ Celestial fruits on earthly ground
 From faith and hope may grow."
 
 The Lord grant you a participation in this bliss, beloved, and an abundant entrance into that bliss for ever, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 3498 God's Gentle Power|← #3498]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3500 Two Coverings and Two Consequences|#3500 →]]

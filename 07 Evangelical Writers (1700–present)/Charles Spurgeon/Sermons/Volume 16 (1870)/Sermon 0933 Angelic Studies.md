@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Angelic Studies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 933
 
-DELIVERED ON LORD'S-DAY EVENING, MAY 1, 1870.
+*Delivered on Lord's-Day Evening, May 1, 1870*
 
 > "To the intent that now unto the principalities and powers in heavenly places might be known by the Church the manifold wisdom of God." Ephesians 3:10.
 
@@ -132,7 +131,6 @@ In proportion to a man's ignorance is generally his impudence when he meddles wi
 Last of all. If this is so, how we ought to love Christ, we who has a saving interest in it, and how they ought to tremble who have it not! Unsaved Men! Unsaved Women! If it needs manifold wisdom to save men, then men's ruin must be very great, and your peril must be very imminent. If it amazes angels to see how God saves, it must be a terrible destruction from which He saves them. That destruction is coming upon you—its dark shadows have already began to gather round you. How great your folly to refuse a salvation so wise, to reject a Savior so attractive as Jesus!
 
 Think of His loving gentleness and consider the simple way in which He saves—believe and live! The supplies necessary for your salvation are all waiting. There is nothing to be done. It is all complete. There is nothing to be found. It is all ready. Salvation is finished. What a fool must he be that will not have it! O stretch out your withered hand and take it! God give you power. If you say "How? "I answer thus—Trust, trust, trust! Come and confide in Christ. Rely upon Christ, and He will save you. God grant you Grace to do it at once, and He shall have the praise. Amen.
-
 
 ---
 [[Sermon 0932 How God Condemned Sin|← #932]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0934 Bands Of Love|#934 →]]

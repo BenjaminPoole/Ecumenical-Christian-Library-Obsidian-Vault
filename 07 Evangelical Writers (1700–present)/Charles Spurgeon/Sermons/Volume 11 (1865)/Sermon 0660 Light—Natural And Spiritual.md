@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Light—Natural And Spiritual
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 660
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 12, 1865, BY C. H. SPURGEON AT CORNWALL ROAD CHAPEL, BAYSWATER..
+*Delivered on Sunday Morning, November 12, 1865, by C. H. Spurgeon at Cornwall Road Chapel, Bayswater*
 
 > Genesis 1:1-5.
 
@@ -160,7 +159,6 @@ NO, "You must, you MUST be born again." He that sits on the Throne says, "Behold
 The Lord grant we may be all present in the New Jerusalem which is from above, which is the mother of all the saints and unto God be praise, world without end. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 1,3:18. And 1 Thessalonians 5.
-
 
 ---
 [[Sermon 0659 Simeon|← #659]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0661 The Great Arbitration Case|#661 →]]

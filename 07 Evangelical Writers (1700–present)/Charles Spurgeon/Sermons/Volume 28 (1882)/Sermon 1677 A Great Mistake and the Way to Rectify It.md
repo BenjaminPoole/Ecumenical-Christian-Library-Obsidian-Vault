@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # A Great Mistake and the Way to Rectify It
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1677
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 3, 1882,.
+*Delivered on Lord's-Day Morning, September 3, 1882*
 
 > "Because you say, I am rich, and increased with goods, and have need of nothing; and know not that you are wretched, and miserable, and poor, and blind, and naked: I counsel you to buy of Me gold tried in the fire, that you may be rich; and white raiment, that you may be clothed, and that the shame of your nakedness does not appear; and anoint your eyes with eye salve, that you may see." Revelation 3:17,18.
 
@@ -122,7 +121,6 @@ only had in fancy. All things are ready for you! You have not to search for the 
 Believe, and be rich! When Satan tells me, or conscience tells me, that I am not a Christian, that I am not saved, then I find it wise to say, "I will begin now. If I have made a mistake. If I have been presumptuous. If I have not truly believed, then I will believe at once and lay hold upon Jesus at this good hour!" I recommend you who are not puffed up to take Christ's counsel, for when He counsels these proud ones to come, I am sure His advice is good for you, too. It is always wise to get gold when you can buy it for nothing! I guarantee you if the Bank of England put up a notification that they would sell any quantity of pure bullion for nothing tomorrow morning, our Stock Exchange men, instead of turning into Capel Court, would take the other side of the street and dispose, at once, of the Bank's surplus! There is a ready market for pure gold at this extraordinary minimum! Come, then, and accept the gold of free Grace! It is sure to be useful, therefore come along, you that love Christ, and you that are afraid you do not love Him. Come along, all of you—come and buy this "gold tried in the fire." You will never made a better investment in all your lives. May the good Master sweetly lead you to do so.
 
 But what a rebuke this is to all boasting! The Lord does not say to us, "You have been very foolish in talking about your riches," but He convicts us by saying, "I counsel you to buy gold." He does not say, "You are stupid to glory in your dress," but He convicts us by saying, "Buy raiment." He does not condemn us for pretending to be able to see when we are blind, but He cries, "Anoint your eyes with eye salve." Is not this a sweet way of making us feel our error? Perhaps you would turn away from stern rebuke, but you cannot turn from love! Come now, members of this Church and members of no Church—come, buy these three precious things, "without money and without price!" You cannot take better counsel than that of the Son of God! Therefore, do as He bids you and buy at once!
-
 
 ---
 [[Sermon 1676 Despair Denounced and Grace Glorified|← #1676]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1678 The Samaritan Woman and Her Mission|#1678 →]]

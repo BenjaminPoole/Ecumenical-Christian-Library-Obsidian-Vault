@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Bible Tried and Proved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2084
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 5, 1889,.
+*Delivered on Lord's-Day Morning, May 5, 1889*
 
 > "The Words of the Lord are pure words: as silver tried in a furnace of earth, purified seven times." Psalm 12:6.
 
@@ -160,7 +159,6 @@ Would it be worth while dying for a doctrine which may not be true next week? Fr
 Believing and defending the Word of God, let us proclaim it. Go out this afternoon on this first Sunday of summer and speak in the street the Words of this Book. Go to a cottage meeting, or to a workhouse, or to a lodging house and declare the Divine Words. "Truth is mighty and will prevail," they say—it will not prevail if it is not made known. The Bible itself works no wonders until its Truths are published abroad. Tell it among the heathen that the Lord reigns from the Tree. Tell it among the multitude that the Son of God has come to save the lost and that whosoever believes in Him shall have eternal life!
 
 Make all men know that "God so loved the world, that He gave His only begotten Son, that whosoever believes in Him should not perish but have everlasting life." This thing was not done in a corner—keep it not a secret. Go into all the world and preach the Gospel to every creature. And may God bless you! Amen.
-
 
 ---
 [[Sermon 2083 One Lost Sheep|← #2083]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2085 A Dirge for the Down-grade and a Song For Faith|#2085 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Established Work
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3142
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Establish the work of our hands for us; yes, establish the work of our hands." Psalm 90:17.
 
@@ -73,7 +70,7 @@ PRAYER, but I will say just this. If we want God to establish our work, we must 
 
 The Lord grant that all of us may be looking to His work for salvation and then be doing His work with both our hands and all our heart and praying God to establish it.
 
-EXPOSITION BY C. H. SPURGEON: PSALM142.
+## Exposition by C. H. Spurgeon: Psalm 142
 
 [See Sermon #2282, Volume 38—DAVID'S PRAYER IN THE CAVE.]
 
@@ -104,7 +101,6 @@ Verse 1. I cried unto the LORD with my voice; with my voice unto the LORD did I 
 7\. The righteous shall compass me about This is a beautiful idea. It seems to imply that they would be so astonished to find him at liberty that they would all come round him to hear his story! They would be so glad to see the mourner rejoicing that they would all begin to enquire what God had done for his soul.
 
 7\. For you shall deal bountifully with me. In the 13th Psalm, David said, "I will sing unto the Lord because He has dealt bountifully with me." But here he looks into the future and sings, "You shalldeal bountifully with me."
-
 
 ---
 [[Sermon 3141 Women's Rights—a Parable|← #3141]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3143 Shoes for Pilgrims and Warriors|#3143 →]]

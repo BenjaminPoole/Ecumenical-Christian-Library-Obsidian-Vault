@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 172. Matthew 21:23-27; Mark 11:27-33; Luke 20:1-8
-
-**MATTHEW 21:23-27; MARK 11:27-33; LUKE 20:1-8**
 
 **23.** And when he was come into the temple, the chief priests and elders of the people came to him, saying By what authority doest thou these things? and who gave thee that authority? [^1] **24.** And Jesus answering said to them, I also will ask you something, which if you shall tell me, I also will tell you by what authority I do these things. **25.** Whence was the baptism of John? From heaven, or from men? But they thought within themselves saying, If we shall say, From heaven, he will say to us, Why then did you not believe him? **26.** But if we shall say, From men, we dread the multitude, for they all hold John for a prophet. **27.** And answering Jesus, they said, We do not know. And he saith to them, Neither do I tell you by what authority I do these things.
 

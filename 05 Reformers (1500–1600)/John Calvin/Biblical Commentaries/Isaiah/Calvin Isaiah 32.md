@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 32
 
-**CHAPTER 32**
+***Chapter 32***
 
 ## Isaiah 32:1-20
 

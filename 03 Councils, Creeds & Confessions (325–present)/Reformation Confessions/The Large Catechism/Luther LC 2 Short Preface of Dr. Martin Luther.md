@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 2. Short Preface of Dr. Martin Luther
 
 This sermon is designed and undertaken that it might be an instruction for children and the simple-minded. Hence of old it was called in Greek catechism, i.e., instruction for children, what every Christian must needs know, so that he who does not know this could not be numbered with the Christians nor be admitted to any Sacrament, just as a mechanic who does not understand the rules and customs of his trade is expelled and considered incapable. Therefore we must have the young learn the parts which belong to the Catechism or instruction for children well and fluently and diligently exercise themselves in them and keep them occupied with them.
@@ -20,7 +19,7 @@ Therefore it is the duty of every father of a family to question and examine his
 
 First.
 
-THE TEN COMMANDMENTS OF GOD.
+## The Ten Commandments of God
 
 1\. Thou shalt have no other gods before Me.
 
@@ -44,7 +43,7 @@ THE TEN COMMANDMENTS OF GOD.
 
 Secondly.
 
-THE CHIEF ARTICLES OF OUR FAITH.
+## The Chief Articles of Our Faith
 
 1\. I believe in God the Father Almighty, Maker of heaven and earth.
 
@@ -54,7 +53,7 @@ THE CHIEF ARTICLES OF OUR FAITH.
 
 Thirdly.
 
-THE PRAYER, OR "OUR FATHER," WHICH CHRIST TAUGHT
+## The Prayer, or "Our Father," Which Christ Taught
 
 Our Father who art in heaven.
 
@@ -76,13 +75,13 @@ These are the most necessary parts which one should first learn to repeat word f
 
 Now, when these three arts are apprehended, it behooves a person also to know what to say concerning our Sacraments, which Christ Himself instituted, Baptism and the holy body and blood of Christ, namely, the text which Matthew [28, 19 ff.] and Mark [16, 15 f.] record at the close of their Gospels when Christ said farewell to His disciples and sent them forth.
 
-OF BAPTISM.
+## Of Baptism
 
 Go ye and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
 So much is sufficient for a simple person to know from the Scriptures concerning Baptism. In like manner, also, concerning the other Sacrament in short, simple words, namely the text of St. Paul [1 Cor. 11, 23 f.].
 
-OF THE SACRAMENT
+## Of the Sacrament
 
 Our Lord Jesus Christ, the same night in which He was betrayed, took bread; and when He had given thanks, He brake it, and gave it to His disciples and said, Take, eat; this is My body, which is given for you: this do in remembrance of Me.
 

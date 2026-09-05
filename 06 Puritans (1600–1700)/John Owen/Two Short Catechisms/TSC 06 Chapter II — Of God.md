@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter II — Of God
 
 ## Chap. II. — Of God.
@@ -28,7 +27,7 @@ A. No, his glorious being is not of us, in this life, to be comprehended. Exod. 
 
 Q. 4. Whereby is God chiefly made known unto us in the Word?
 
-A. First, by his ^anames; secondly, by his ^battributes or properties. ^aExod. iii. 14, vi. 3; Ps. lxxxiii. 18. ^bExod. xxxiv. 6, 7; Matt. v. 48.
+A. First, by his [^a1]names; secondly, by his [^b1]attributes or properties.
 
 Q. 5. What are the names of God?
 
@@ -44,8 +43,7 @@ A. ^aEternity, ^binfiniteness, ^csimplicity[^5] [^6] or purity, ^dall-sufficienc
 
 Q. 8. What are the attributes which usually are ascribed to him in his works, or the acts of his will?
 
-A. ^aGoodness, ^bpower,[^7] [^8] ^cjustice, ^dmercy, ^eholiness, ^fwisdom, and the like; which he delighteth to exercise towards his creatures, for the praise of his glory. ^aPs. cxix. 68; Matt. xix. 17. ^bExod. xv. 11; Ps. lxii. 11; Rev. xix. 1. ^cZeph. iii. 5; Ps. xi. 7; Jer. xii. 1; Rom. i. 32. ^dPs. cxxx. 7; Rom. ix. 15; Eph. ii. 4. ^eExod. xv. 11; Josh. xxiv. 19; Hab. i. 13; Rev. iv. 8. ^fRom. xi. 33, xvi. 27.
-
+A. [^a2]Goodness, [^b2]power,[^7] [^8] [^c2]justice, [^d2]mercy, [^e2]holiness, [^f2]wisdom, and the like; which he delighteth to exercise towards his creatures, for the praise of his glory.
 
 ---
 [^1]: The perfection of God’s being is known of us chiefly by removing all imperfections.
@@ -57,6 +55,21 @@ A. ^aGoodness, ^bpower,[^7] [^8] ^cjustice, ^dmercy, ^eholiness, ^fwisdom, and t
 [^7]: Nothing is to be ascribed unto God, nor imagined of him, but what is exactly agreeable to those his glorious properties.
 [^8]: These last are no less essential unto God than the former — only we thus distinguish them, because these are chiefly seen in his works.
 
+[^a1]: Exod. iii. 14, vi. 3; Ps. lxxxiii. 18.
+
+[^b1]: Exod. xxxiv. 6, 7; Matt. v. 48.
+
+[^a2]: Ps. cxix. 68; Matt. xix. 17.
+
+[^b2]: Exod. xv. 11; Ps. lxii. 11; Rev. xix. 1.
+
+[^c2]: Zeph. iii. 5; Ps. xi. 7; Jer. xii. 1; Rom. i. 32.
+
+[^d2]: Ps. cxxx. 7; Rom. ix. 15; Eph. ii. 4.
+
+[^e2]: Exod. xv. 11; Josh. xxiv. 19; Hab. i. 13; Rev. iv. 8.
+
+[^f2]: Rom. xi. 33, xvi. 27.
 
 ---
 [[TSC 05 Chapter I — Of the Scripture|← Chapter I — Of the Scripture]] · [[Two Short Catechisms|Contents]] · [[TSC 07 Chapter III — Of the Holy Trinity|Chapter III — Of the Holy Trinity →]]

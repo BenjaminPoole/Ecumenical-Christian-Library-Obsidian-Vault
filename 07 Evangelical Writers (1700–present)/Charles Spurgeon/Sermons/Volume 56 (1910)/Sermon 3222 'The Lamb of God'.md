@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'The Lamb of God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3222
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold the Lamb of God, which takes away the sin of the world." John 1:29.
 
@@ -91,7 +88,7 @@ III. I must not detain you longer, as our time has fled. Otherwise I was to have
 
 The answer would have been that God has appointed this as the only way of salvation, that those who obey the command of the text will obtain immediate salvation and that, being saved, they shall have joy and peace in believing! But you who neglect or refuse to "behold the Lamb of God" must, without doubt, everlastingly perish! Of His infinite mercy, may God graciously grant that none whom I am now addressing may refuse to believe in Jesus, but may everyone look to Him and live—live now, and live forever!
 
-EXPOSITION BY C. H. SPURGEON: JOHN 1:1-34.
+## Exposition by C. H. Spurgeon: John 1:1-34
 
 Verse 1. In the beginning was the Word. Christ the Word has existed from all eternity! He is the Eternal Son of the Eternal Father. He is really what Melchisedec was metaphorically, "having neither beginning of days, nor end of life." "In the beginning was the Word."
 
@@ -136,7 +133,6 @@ Him"—
 31-34. But that He should be made manifest to Israel, therefore am I come baptizing with water. And John bore record, saying, I saw the Spirit descending from Heaven like a dove, and it abode upon Him. And I knew Him not: but He that sent me to baptize with water, the same said unto me, Upon whom you shall see the Spirit descending, and remaining on Him, the same is He which baptizes with the Holy Spirit. And I saw, and bare record that this is the Son of God. Since John's time, many others have borne similar testimony. We, also, have received Him and rejoice to say that He has baptized us with the Holy Spirit. All that John said of Him is true—and much more than John said is also true. He is the Lamb of God who has taken upon Himself the sin of all who believe in Him and, therefore, He is able to save unto the uttermost all that come unto God by Him. Oh, that all men would receive the testimony concerning Him which we find in this blessed Book—and which we delight to repeat in His name!
 
 [See Sermons #858, Volume 15—THE FULLNESS OF JESUS THE TREASURY OF SAINTS and #1169, Volume 20—THE FULLNESS OF CHRIST.]
-
 
 ---
 [[Sermon 3221 'Yet There Is Room'|← #3221]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3223 Salvation As It Is Now Received|#3223 →]]

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 11. The Trialogus: Chapters Translated from the Fourth Book, on the Sacraments, the Hierarchy, and the Religious Orders, Part 2
 
 But after the clergy were given to the world, and leamt to despise the commandments of the Lord, and gave little heed to Christ's decision hereupon, the disciples of Antichrist said in their hearts, " Christ is contrary to our practice. He taught nothing of that refinement, so necessary for the world, but lived in misery and dishonour, like a beggar. Who, then, would follow in his footsteps, unless he were
 
-1G8 THE TRIALOGUS.
+## 1g8 the Trialogus
 
 a fool ?"* From this threefold testimony in the Gosp^ the afisresaid doctrine is educed, and it is confirmed by the Old Testament.
 
@@ -27,13 +26,13 @@ In the sixth chapter of the Acts, we find that seven deacons were ordained, beca
 
 ORDERS. — ^THE AVARICE OF THE CLERGY. 169 seven loaves, not barley ones indeed, but unpalateable enough, the people may have their fill of prelates, and the aforesaid doctrine be confirmed. Other fragments from the doctors, and arguments which some multiply on this subject, we need not collect, for these complete testimonies, adduced from the old and new law, are sufficient to confirm this doctrine in the eyes of believers.
 
-ON THE AVARICE OP THE CLERGY.
+## On the Avarice Op the Clergy
 
 PsEUDis. Though you have often taught after this manner, at the peril of your life, yet it is evident that both reason, and the groimds on which the saints have been canonised, contradict your doctrine. For who can entertain any doubt, but that the law of Christ not only permits, but requires that the man who is especially his servant, should be duly ministered unto in things temporal? For God, who is not wanting to his servants in greater things, as in the blessings of grace and of nature, does not withhold from them wealth, or the goods of fortune in any form. In like manner, though your argument would deny the prelate the right, by reason of his clergy, to require these things, and declares that he should be content with little temporal possession, yet you dare not assert that it is unlawful for temporal lords to make such offerings to their clergy, under the title of alms, since you would, by so doing, put an end to temporal alms of every kind. On this ground the clergy may possess these temporal things, and yet live sparingly as did the apostle. Such, we believe, was the case with Sylvester, and many others whom the chiirch has canonised. For since, then, temporal things are fit)m God, and, by consequence, eminently good, what harm can there be in our possessing the things themselves, along with the higher blessings before mentioned, since the gifts of nature and grace may derive much good, incidentally, from the gifts of fortune?
 
 Phronesis. In my view, it is plain, from the Scriptures before alleged, which we believe the mouth of the Lord hath spoken, that our clergy, especially under the law of grace, are bound to live in the mftTinAT which I have set forth. And since this is an injunction, laid
 
-170 THE TRUL0GU8.
+## 170 the Trul 0gu8
 
 on US bj the God-man, Christy it is dear that he who manifiesdj despiseth it cannot love Christ, and, therefore, must fidl under the sentence of a most fearful excommunication ; for the apostle saith, '' If any man love not the Lord Jesus Christ, let him be anathema maranatha." And this excommunication, inflicted bj the Holj Spirit, does not admit of being evaded by the precautions of men, but is sure to be inflicted where guilt is incurred, and is a matter greatly more to be feared, than any danmation or condenmation for heresy, which Cesarean prelates are wont to send forth. And since to lore Christ, and to keep his commandments, are the same thing, it is plain that those prelates especially, who are so disobedient to the law of the Lord, incur a more heavy anathema.
 
@@ -51,11 +50,11 @@ In the rule of Christ, poverty must be understood in the following threefold man
 
 As to your third objection, it has often been said that man holdeth things temporal \mder a twofold title, namely, that of original justice, and that of mundane justice. Now under the title of original justice, Christ possessed all the goods in the universe ; as Augustine often declares — under that title, or the title of grace, all things belong to the just. But civil possession differs widely from such title. Accordingly, Christ and his apostles, despising civil dominion, were content with possession according to that title ; and hence it is the rule of Christ, that none of his disciples presume to contend for his temporal goods, as appears. Matt, vi., '^ If any man take thy coat," (S:c. But the laws of the state, and the custom of secidar rulers, are far removed from this. And this is the reason why these mundane laws, and the eager execution
 
-172 THE TRIALOGUS.
+## 172 the Trialogus
 
 thereof, have been so wrongfully introduced, even among the dergj. The conclusion you draw must be admitted, but the mode of possession should be distinguished ; for possession in a civil sense, since it necessitates a carefulness about temporal things, and the observance of himian laws, ought to be strictly forbidden to th^ clergy. With regard to Sylvester and others, it appears to me probable, that in accepting such endowment they sinned grievously. We may entertain the supposition, however, that they afterwards repented of this to some purpose. So I grant you, then, that the clergy may possess temporal things, but after that title and mode of possession which God instituted, and not after that covetous fashion which the institution of Cain hath invented.
 
-ON THE CULPABILITY OF THE LAITY IN RESPECT TO ENDOWMENTS.
+## On the Culpability of the Laity in Respect to Endowments
 
 Alithia. I am pleased, brother, with your doctrine, because it appears to me, that you inveigh with clearness and force against the avarice of the priests ; and as, according to the apostle, 1 Tim. i., covetousness is the root of all evil, and priests should be the root of all goodness, conveying the laity to heaven, you appear to direct your censures against the source of all sin in the church. But tell me, I pray you, whether secular men are justly liable to rebuke on accoimt of such endowments.
 
@@ -71,7 +70,7 @@ For if there are six methods of consenting, as enimierated by the poet —
 
 — it is clear as light, that temporal lords are manifestly guilty, in respect to these six modes, and especially in regard to the last two, inasmuch as they indolently withhold the assistance and rebuke by means of which this injury done to Christ and his church might be rectified. Nevertheless, it devolves on them, for many reasons, to amend this injury done to Christ. In the first place, because they are those who have sinned by the commission of this injury, therefore it is for them to make satisfaction for the sin. In the second place, because God gave the power they possess that they might regulate the affairs of his church, as appears in Romans xiii. Therefore, that they be not negligent in respect to the use of this power, nor guilty of an abuse of it, they should exercise it in the instance of so great an injury done to Christ, after his own example ; for Christ, in rebuking the priests of the temple, made use often of this kingly power, ejecting, in person, the buyers and sellers. And on many occasions, by his sufferings and his reproofs, Christ condemned the conduct of the priests, as may be seen at the time of his seizure and passion. And he afterwards awfully chastised that priesthood, by the hand of Titus and Vespasian his servants, as Luke had prophesied. Isodorus, also, admirably declares this doctrine, as may be seen in the twenty-third decree, q. v. c. Principes Seculi. For if they hold their temporal possessions on condition of service rendered, what service, I ask, could better befit them, than that of vindicating the wrongs done to Christ, and defending so reasonable an ordinance ? Forasmuch as it is the same thing to love Christ, and to keep his law and commandments, as is shown in John xiv., it is manifest that if the temporal lords love Christ above all things, it is their duty to exert their power in defending his chief ordinance. What temporal lord, I ask, would not be offended beyond measure on seeing his own decree reversed ? Still more would this be the case, if that reversing were to dishonour his betrothed, and to break up his kingdom. But much more is all this true in respect to the primitive justice of Jesus Christ. Let temporal lords remember, then, how distinguished was the favour which our Lord showed them in his lifetime, without doubt intending that they should make him a return of their service.
 
-174 THE TRIALOGUS.
+## 174 the Trialogus
 
 Now I have collected from the Scripture account six inatancea of Idndness shown by Christ to temporal lords ; First, because Christ, who is the Lord of time, and who might have been born at whatever period he chose, selected that interval in which secular dominion was most flourishing ; for in Luke ii. it is said, that a decree went faxiSii that the whole world should be taxed. Second, because Christ migbt have had dominion, had he been so disposed, over all the kingdoms of the world ; but was unwilling to detract, in the smallest degree, from the secular power of the earth — as in Matt. viii. it is written, " The Son of man hath not where to lay his head.'* In the third place, becanse Christ, that he might restore the secular authority undiminished to secular lords, caused the old priesthood to be despoiled of their possessions, as was foretold by Luke, when predicting the destructioD of the temple, chap. xix. Fourth, because Christ paid tribute to Caesar for himself and his little flock, as may be seen in Matt. xviiL Fiilh, because Christ pronounced a most decisive judgment, when he said that the goods of Csesar should be rendered to Cassar, Matt. xxii. And in the sixth place, because Christ fed the poor tenants of secular lords, and healed them, and taught them in many ways obedience, so that the Gospels, and the Acts of the Apostles, show how servants ought to obey their lords. And what is infinitely more than any of these considerations, though the men of the world place such things first, Christ is the Creator, Redeemer, and finally the Rewarder of temporal lords.
 
@@ -85,7 +84,7 @@ Alithia. You have said enough, brother, on this doctrine concerning the clergy, 
 
 PfiROMESis. No scholastic matter have I ever had more at heart than that on which I have now dwelt, forasmuch as it appears to me that it would tend above all things to the honour of God and the advantages of the universal church. Wherefore, it seems to me, that he is notably deficient in respect to perfect charity, and the bve of his king and
 
-176 THE TRIALOGUS.
+## 176 the Trialogus
 
 kingdom, who, from fear of losing temporal things, and the firiendship of great men, nay, who even to save his life, n^lects this duty. I doabt not that the apostles, and other discreet disciples of Christ, would hare defended this doctrine, even to the death. But the king and kingdon are worthy of condemnation on account of this sin, to which they hare given their consent. What faithful servant of the king, therefore, tdmj remain silent with regard to this great crime? For the sovereigii authorises, by such conduct, the greatest transgression on the part of his clergy, and gives his sanction to the root of that evil by which the kingdom under him is cut to pieces. And since it is necessary to true secular dominion, that the holder of it should rule justly, and so be opposed to this crime, it appears that the king, and the nobles of his kingdom, in this case, govern without the care proper to their office. For according to the law of England, if a tenant shall withhold his service from his cliief lord during two years, the said chief lord, by the authority of the king of England, may seize, in his own behoof, the land which his subject had unworthily occupied to his own purposes. How much more, then, should the King of kings confiscate the property of kingdoms, if the service they owe has been neglected for many times two years, it being plain that they ought to serve Christ, by refusing all treacherous consent to the claims of Antichrist, and by opposing his works as contrary to Christ, to the extent of their pow^er I We see clearly how long has been the time through which the service so due to God has been neglected. And as it seems to me, that lioge man of the king, who should fail to expose such misdoing, would be a slothful traitor to his king, his country, and his God.
 
@@ -99,9 +98,9 @@ From all that has been said, we conclude that the king and his kingdom ought to 
 
 * Patientes. — This word seems to he used in this connexion more in a negative than a positive sense.
 
-I 78 THE TRIALOOUS.
+## I 78 the Trialoous
 
-ON PENANCE.
+## On Penance
 
 Alithia. You would oblige me now by stating your views of the sacrament of penance. To define it seems difficult, fi)r it is said that penitence hath three parts, like a harp, namely, contrition of heait, confession with the mouth, and satisfaction by deeds, — and its genus, accordingly, is not easily specified, — ^these three things being diverse in genus.
 
@@ -109,7 +108,7 @@ PnBONESis. It appears to me that penitence consists in the condidon of the mind,
 
 Now from a regard to gain, it is to this last view of penitence that we give most attention. But whether this third kind is necessary to salvation, or on what authority it was introduced, is with many a matter of tlispute. But we must confide on this point in John, who, in his gloss on the decrees, says, after stating many opinions which he censures, that Innocent^ III. invented it, and to confirm it, established the law " Omnis utrusque sexus," which is set forth in the fifth decretal. But in my opinion, as I have explained more at length, it would be better for the church did she content herself with the first and second kinds of penitence as above mentioned. But though the third form (confession to a priest) is injurious to many, and is the cause of many evils to both parties, (the priest and the confessing,) nevertheless it brings many good results to the church, and since it might possibly be well conducted, it appears to me that it may be, by supposition, necessary, and so really necessary, forasmuch as many, through shame of being obliged to confess the sin, and of submitting to the penance enjoined, and from the fear of being obliged to make confession of what they have done elsewhere, are deterred from repeating their sin.
 
-ON PENANCE. 179
+## On Penance. 179
 
 No one can believe that a man may not be saved without confession of this kind, for, otherwise, all the dead from Christ's ascension to the time of Innocent lU. are lost — a horrible thing to believe. Bather do we think, that a much greater number are lost under the law of that pope on this subject, than would ever have been lost for the want of it. Besides, it generally happens, that he who absolves, is not acquainted with the magnitude of the sin confessed, just as he knows not if the man who is confessing be contrite ; though he is well aware that unless he be so, his sin is not removed. How, then, can he utter falsehoods in the name of Christ, and so impudently absolve sin, and enjoin a penance which he cannot know as being proportioned to the transgression ? Neither is it lawful to burden the church with new traditions, especially such as are of a suspicious character, for what we have is already sufficient. And the laws about confession in the Scripture, have served us well enough for more than a thousand years. On what ground, then, is it that without a law, a third kind of penitence has been introduced in a manner so unlikely ? It appears to me, that this papal law is to be admitted as far as the discretion of the person who confesses may deem profitable.
 
@@ -119,11 +118,11 @@ Phronesis. The observations you make seem to involve much truth, inasmuch as in 
 
 Let us look, then, and see what is enjoined and commanded by the Lord, in the law of perfect liberty, and observe it, and abstain from what is forbidden, and from giving attention to laws newly ordained, and this will be enough. Accordingly, what is over and above, is not only evil in its origin, but is itself evil, and blinds numbers. Concerning all vows, promises, and other private obsen'ances, let the believer look up to the almighty power of Jesus Christ ; let him bend all the strength of his soul to living henceforth in more perfectness, so as to be serviceable n2
 
-180 THE TRIALOGUS.
+## 180 the Trialogus
 
 to the church ; let him repent of his past evil life, strengthen within him the purpose of so sinning no more ; and this, in my opinion, sufficeth to destroy his guilt, and to save him, whatever our superiors miy say to the contrary. But in all this, let the believer beware of anj insincerity toward God. With regard to the words in Matthew xvL, " Whatsoever ye bind," &c., let the believer demand from the fiike bishop when he alleges this saying of our Lord's, if his own life of hc^- ness, by its resemblance to the life of Peter, is such as to make him a true vicar of Peter. If the presimiptuous hypocrite shall impudently affirm that it is so, ask him to show the similarity of his life to that of Peter, more especially in the grace given him to work miracles, and in the lowliness of his poverty. Peter presumed not on the possession of such power, how then can this hypocrite claim it? And since he cannot prove himself a true vicar of Christ, or a member of the church of Christ, what is it to him that Christ promised this power to the blessed Peter, seeing he is neither Peter, nor by the lowness and holiness of his life the vicar of Peter ?
 
-ON THE SIGNS OF CONTRITION.
+## On the Signs of Contrition
 
 Alithia. Tell me, I pray you, brother Phronesis, what the signs are which denote true contrition, inasmuch as you have exposed the craft of Anticlirist, acutely though obscurely, and say, do the Ccesarean sect«, and new orders, which set aside the rules of Christ, and observe and value the new regulations they have devised, sin herein ; or is there true penitence in their earnest and bold observance of such rules ?
 
@@ -139,11 +138,11 @@ Our possessioners ought to know, both from the life of Christ. and his apostles,
 
 This weightiest of sins is not to be taken away by fiourishing pompous words, or displaying sensible signs, or by absolutions, or by
 
-182 THE TRIALOOUS.
+## 182 the Trialoous
 
 the invention of indulgences — ^more especially when the power and opportunity of making satisfaction are within reach, and the sinner remains obstinate in his sin. God discemeth the hearts and intents of men, the condition and circumstances of their passions. It is ill, then, for a man to blaspheme Him, and say that he himself, by a sensible sign he has invented, can absolutely blot out the pollutiozM of such as are reprobate. Could there be a more presumptuous blasphemy, than for God*s enemy falsely to profess that he can so recondk God, though God^s everlasting law and clear justice contradict him? Satan has suggested to these possessioners, that should they have soch lordship in worldly things, it would be well, for the establishing of their false dominion, to invest themselves, by means of such blasphemies, with an imaginary spiritual power, a power which cannot be assailed, because not palpable to the senses, and thus procure to themselves authority from kings to bum all their opponents as heretics. Thus was the pretended power of Antichrist artfully introduced.
 
-OF EXTREME UNCTION.
+## Of Extreme Unction
 
 Alithta. You have said quite enough on this subject, brother Phronesis ; but inform me, I pray you, somewhat concerning the last sacrament, which is called extreme unction. It has its foundation in the passage, James v., "Is any sick among you? let him call for the ciders of the church ; and let them pray over him, anointing him with oil in the name of the Lord : and the prayer of faith shall save the sick, and the Lord shall raise him up ; and if he have committed sins, they shall be forgiven him."
 
@@ -159,7 +158,7 @@ Whence it appears to me, that those who institute such private orders, and send 
 
 But whether a rich man, thus anointed, is permitted subsequently to recover, and whether the priest ought to have a certain knowledge, that the man so anointed will not survive, and whether this sacrament of extreme unction can be repeated, is a matter of doubt with many. But I leave it to the weak, uselessly to protract difficult questions of this nature. I merely state one thing as probable, — ^that a man thus sick, and thus anointed, and afterwards convalescent, cannot again receive the sacrament of extreme unction.
 
-OF THE VARIOUS KINDS OF MINISTERS.
+## Of the Various Kinds of Ministers
 
 Alithia. Pray inform me, brother, concerning the various kinds of ministers in the church, for you consume our time needlessly in deridiiig the doctrine of extreme unction.
 
@@ -173,11 +172,11 @@ ON THE VARIOUS KINDS OF MINISTERS. 185 that he is a dead body come out of the to
 
 Some wear russet above, as a sign of their labours, and a white garment under, to signify the purity of their mind. Others wear over all, black funeral vestments, as a sign, they say, of their continual sorrow and pain on account of sin, and wear white clothes underneath, as the former. A third class are clad in white, both without and vrithin, wearing russet to denote the labour they undergo for the church. The fourth order dress like the second, in black and white, but in the fashion of their dress, and their form of burial, they differ from the two following, as do the first. The deformity of their appearance, they say, shows the utility of their body, and the girdle they so tie round them in a knot, that they endure a constant and distressing bodily penance. But we see not the reality of what is thus signified, since they are no prophets, but hypocrites who seduce the ])eople, and give their attention more to the shutting up of the bo(ly than of the soul. They pretend, that by thus shutting up the body, they have presented to their view heaven and things heavenly. The plants that grow in the cloister signify the vigour of those virtues wherein they surpass all, and the tree in the midst of it denotes a ladder along which they mount by the steps of virtue to things heavenly. But was there ever a more hypocritical lie ? For they eat of the forbidden fruit in the midst of their paradise, and make drunken to the uttermost all men who follow after them. As to the Bishop of Lincoln's fourth particular, that every such corpse hath been set in motion among men by the devil, the believer cannot doubt that men of this sort, who break out from the cloister of the soul, are set in motion by fiends, since the fiends, who most love hypocrisy, and such deceiving
 
-186 THE TRIAL00U8.
+## 186 the Trial 00u8
 
 of the human race, run of course to the support of such heretical &lkci€i ; for the sin of hypocrisy, as it is most contrary to the first principles d truth, and most seduces the people, is carefully promoted bj the fiend. Thus this description of the fourfold member, set forth by that holy bishop, is made good, and the blessed Hild^gard makes the sune statement more expressly in her prophecy before these friars weie introduced.*
 
-ON THE BEGGING FRIARS.
+## On the Begging Friars
 
 Alithia. I could wish that you would make some statement of yoor opinion concerning the begging of the friars ; for many are of opinion that Christ so begged, and certain it is that on this assumption the friars found their system. This opinion has the more colour, from the &ct that in the Psalms it is said that Iscariot persecuted a man who was poor and a beggar. And as the blessed Peter says, Acts i., that this prophecy was spoken by David concerning Christ and Iscariot, it is no sufficient reply to say that Christ begged only in the person of his members, for certainly the psalm refers to the person of Christ, which Iscariot persecuted.
 
@@ -189,13 +188,13 @@ ON THE MENDICANCY OF THE FRIARS. 187 offisred in words, is a faultless and most 
 
 Job saith, (c. xxix.) ^* Oh that it were with me as in the months past, as in the days when God preserved me ; when his candle shined upon my head, and when by his light I walked through darkness ; as I was in the days of my youth." Here it is clear as noon-day that this pious man piously prayeth that he might possess the prosperity he had in times past, which, according to their doctrine, would be a blame-worthy petition. To the same effect speaks Paul, (Acts xx.) " I have coveted no man's silver, or gold, or apparel : yea, ye yourselves know, that these hands have ministered unto my necessities" — ^whence it appears that bodily labour is indirectly enjoined, and mendicity forbidden." Also 2 Thess. iii., "For even when we were with you this we commanded you, that if any would not work neither should he eat ; for we hear that there are some which walk among you disorderly, working not at all, but are busy bodies " — ^whence it is shown, as clearly as before, that the apostle forbids begging of this sort. Again, 1 Thess. iv., " But we beseech you, brethren, that ye increase more and more ; and that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you" — which likewise shows that the friars in begging violate the injunction of the apostle, and so of our Lord. Also Eph. iv., " Let him that stole steal no more" — but we may see how directly this command is disobeyed by the friars, for oftentimes by their knavery, contrary to the will of our Lord, they delude men, and seize the property of others by the foulest means, and neglect to labour with their own hands. Yet the apostle (as appears from Acts xviii) laboured as a tcntmaker that the church might not be burdened. God enjoined corporeal labour on the first sinner, Gen. iii. : '* In the
 
-188 THE TRIALOOUS.
+## 188 the Trialoous
 
 sweat of thy face shalt thou eat bread.** Are we to regard the sect of tk friars as more excellent than the first man, or as a better example thu the apostle Paul ? Likewise, 2 Cor. vi., the apostle lays down the folloving injunction : " We beseech you also that ye receive not the grace of God in vain.** Do not the iriars receive the grace of God in vain, wlio are endowed by God with bodily strength, and have the opportuni^, and yet will not work — to the great burden of the church ? Again, whoi Christ prohibits such public begging, inasmuch as he who so begs ii burthensome to the community, a course of life which Christ throng Paul repeatedly forbids, how can the new orders have the efironteiy to proclaim such open mendicancy in the case of able-bodied men, and found a new form of devotion on such an ordinance ? Do not Francis, and other idiot trafficcrs, depart from the faith of the church, and from the Lord Jesus Christ ? Furthermore, when paupers, the blind, the sick, and the infirm, ought, according to God*s commandment, to receive such alms, (Luke xiv.) the robust mendicant taking the relief away from them, wrongs this class of men ; and what robbery can be more infiunous ? Such beggary is contrary to the law of nature : what blasphemous necessity, then, could impose it upon our Lord Jesus Christ, especially when it neither became him so to beg, nor have the Gospel commandments, wherein is involved all truth, expressed anything of the sort ? How dare the friars, then, thus blaspheme the Lord Christ Jesus? For Christ and his disciples, in abstaining from such medicancy, obeyed the tenth commandment in the decalogue, the law of nature, and the bidding of the Old Testanu^nt.
 
-FURTHER SHOWING THAT THK MENDICANCY OF THE FRIARS 18 NOT
+## Further Showing that Thk Mendicancy of the Friars 18 Not
 
-CONSISTENT WITH 8CRI1»TURE.
+## Consistent with 8cri1»ture
 
 Phuon'Ksis. 1 sec clearly, from the reasons adduced, and from manv others that miglit l)e brought forward, if n(H.»d wen», that this mendicancy of the friars is not only without scriptural authority, but a manifest l)lasphemy. Yet it may be well to go briefly over the poor evidence adduced by the friars in its support. In John iv. it is \vTitten that Christ asked drink of a Samaritan woman; who can refuse, they argue, to attribute such mendicancy to Christ, when he was thus poor? But in weighing this argument we bhould define clearly what is
 
@@ -205,13 +204,13 @@ In the second place, the friars endeavour to establish their falsehood by that p
 
 In the third place, these blasphemers argue from Matt, xxi., where Christ sent two disciples to Jerusalem for an ass and her colt, whereon he might go up thither, — Did he not then beg from the city of Jerusalem ? Now let these heretics blush to say, that it is ai\er the example of the Lord that they beg of men without leave sought or obtained ; for Christ the Lord of all needed not thus to mount a colt and an ass, save to fiilfil the Scripture, (Zech. ix.) and to prefigure how he should ride over the Gentiles as colts, and the Jews (stupidly continuing under the burdens of the law) as asses, and still more when his disciples laid their garments
 
-190 THE TRIAL0GU8.
+## 190 the Trial 0gu8
 
 on those beasts, that is to say, while the apostles taught the virtoca, and piincipallj the riitiie of humilitj, by the efficacy of their example. Nay, I repeat, Christ monnted these animals to condemn the riding of pope and cardinals, and of the inferior bishops too, who are wont to ride in snperduoos pomp on war-hoTBes decked out with gold and sUk. In the fourth plaoe, these blind heretics argae, that Christ begged lodging and bread for his last sapper in Jerusalem, which they rest o& Matthew xxvi. But let these shameless heretics know that the words of the Go5pel plainly condemn their heresy. For the words of Chriflt are — ^* Go into the dty to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.*^ Where it appears clearer than light that Chiiit speaks as Lord, and not as a mendicant. For as in Matthew "^ tfaii Lonl taught his disciples, saying, ^* If any man say ought unto you, ye shall say, The Lord hath need of them ; and straightway he will tead them,** so he speaks in this instance as Lord and Master. — ^Let the heretic mark this consequence — ^ The Lord hath need of them,^^ — and it follows, ** straightway they will let them go :" — therefore the Troth, uttering those words, begged the animals referred to ; for in both these cases they attribute to Christ robbery of the poor. Christ, therefore, in addressing these words to his disdples, '' Go into the city,^^ (Scc., and especially in giving fulfilment to those words in a manner consistent with justice, shows the extent of his dominiou. because John, in the twelfth chapter, savs, " Ye call me Master and Lord,^ &c. Hence, according to the evangelical doctrine, Christ*s disciples daie not call themselvea masters and lords, but servants of our Lord Jesus Christ. Let heretics, then, compare these three sayiags of Christ ; in the first place, how he enjoined upon his disciples, in general terms, that they were to go into a certain city, as if he had said, — ^By reason of the universalit}' of my dominion, whatever I shall ask of any one in my name is provided by him. In the second place, they should mark the expression — " The Master saith f for Christ who speaks is greater in station than any other man that can be named. Whence to denote the certainty of what he says, and to denote that teachers are worthy of their maintenance, he subjoins distinctly these words, " The Master saith," &c. But let the same men mark the third expression also—" My time is at hand ;" for other men whom Christ does not illuminate in so high a degree, withdraw their help even when they suppose their dearest friends are near death ; so when Christ speaks with such certainty and authority, he shows that he makes it imperative on the part of that citizen to do as required. Therefore, to conclude, it is manifest to believers, that the Gospel, so far from teaching that Christ practised such mendicancy, condemns the custom as the height of heresy.
 
-OK THE LETTERS OF THE FRATERNITIES. 191
+## Ok the Letters of the Fraternities. 191
 
-ON THE LETTERS OF THE FRATERNITIES.
+## On the Letters of the Fraternities
 
 Alithia. Tou have argued with sufficient shrewdness in regard to this second blasphemy of the friars. But touch, I pray you, a little on m third — ^that relating to their letters of fraternity, for by that means the ehurch is too commonly deceived.
 
@@ -221,7 +220,7 @@ But in proceeding to deal with these false letters of the friars, it is importan
 
 The friars must also beware not to give occasion to the faithful to discover their fallacies, or to introduce unauthorised novelties, since they ought to know that Christ meant his church should be free from such things ; and inasmuch as the friars do not thus act, they fraudulently diminish the liberty of the church of Christ. On many grounds it appears that the friars have fallen into a radical heresy, for they pretend expressly in these letters, that the individuals to whom they grant them, shall be made partakers of merits from themselves after death.
 
-192 THE TRIALOGUS.
+## 192 the Trialogus
 
 But where can yuu find a more presumptuous blasphemy? For neither they themselves, nor the men with whom they carry on this traffic, cu know, whether they may not be condemned in hell. How blind is their folly, then, in making assertions on a subject of which they know lo little I But they have, it seems, such an innate tendency to &lflehood, that they hesitate not to assert, contrary to eternal judgment, that thej can do the things they cannot do.
 
@@ -235,7 +234,7 @@ FRIARS SELL THEIR PRAYERS AND MERITS. 193 a more than devilish presumption to af
 
 Many simple people, however, confide as much in these frivolous letters as in an article of faith like that of the conmiunion of saints, or salvation by Jesus Christ. How then can such a heresy fail to place an oocasion of falling in the way of the believer ? Will a man shrink firom acts of licentiousness and fraud, if he believes that soon after, by the aid of a Kttle money bestowed on friars, an entire absolution from the crime lie has committed may be obtained ? Accordingly, this heresy is supposed to be the cause why the faith of the laity is found to be so wavering.
 
-HOW THE FRIARS FALSELY SELL THEIR PRAYERS AND MERITS.
+## How the Friars Falsely Sell Their Prayers and Merits
 
 Alithia. Since the subtle evasions of the friars are so many, I pray you strike at their root, that this evil may be altogether rooted out from the church ; because I see clearly that the mendicants affect to dispense more of merit from their communion than they have power to bestow, or tihan they really possess.
 
@@ -243,7 +242,7 @@ Pheonesis. I am pleased to find that you Jbave formed such conceptions in regard
 
 In the second place, they say that the men to whom they make such grants are in many respects meritorious, because of the assistance they render to the friars. But, on the contrary, it appears to me probable that the men thus described are in many respects worthy of punishment more than of reward. In the first place, because they have become unstable in the faith, casting off the catholic belief for the sake of the
 
-IDC THE TRIAL00U8.
+## IDC the Trial 00u8
 
 beginning of darkness, the riviilet of the friars strives unnaturally to raise itself above its source. I confess that the indulgences of the pope, if they arc what they are said to be, are a manifest blasphemy, inasmuch as he claims a power to save men almost without limit, and not only to mitigate the penalties of those who have sinned, by granting them the aid of absolutions and indulgences, that they may never come to purgator}"^, but to give command to the holy angels, that when the soul is separated from the body, they may carry it without delay to its everlasting rest.
 
@@ -259,7 +258,7 @@ Moreover, it appears that this doctrine is a manifold blasphemy against Christ, 
 
 Similar in its folly is the doctrine which teaches, that the pope dispenses these same merits of the saints, for the service of men, to any extent, according to his pleasure. For it behoves Christ to do more, both on his own part, to fulfil the chiims of justice ; and on that of tht
 
-198 THE TRIALOGUS.
+## 198 the Trialogus
 
 sinner, whom it becomes him to affect, imparting grace to him, that he may prove worthy of the Divine assistance.
 
@@ -267,9 +266,9 @@ The same may be said concerning the fiction of the keys of Antichrist, for it is
 
 In such infinite blasphemies is the infatuated church involved, especially by the means of the tail of this dragon, that is the sects d the friars, who labour in the cause of this illusion, and of other Luciferian seductions of the church. But arise, O soldiers of Christ ! be wise to fling away these things, along with the other fictions of the prince of darkness, and put ye on the Lord Jesus Christ, and confide, undoubtedly, in your own weapons, and sever from the church sucli frauds of Antichrist, and teach the people that in Christ alone, and in his law, and in his members, they should tnist ; that bi so doing, they may be saved through his goodness, and learn above all things honestly to detect the devices of Antichrist !
 
-HOW THE ORDERS OF FRIARS WERE INTRODUCED. 199
+## How the Orders of Friars Were Introduced. 199
 
-HOW THE ORDERS OF FRIARS WERE INTRODUCED.
+## How the Orders of Friars Were Introduced
 
 Alithu. Inform me, brother, how these orders, which, according to your account, so greatly disturb the church, were introduced ; for it appears to many of the people that they are the safety of the church, smce in them, in a special degree, the life and poverty of Christ are retained ; while the pope, the bishops, and other prelates have notoriously declined from that life. Four orders so numerous, and of such a character, must therefore, it is thought, have a stable foundation.
 
@@ -277,7 +276,7 @@ Phronesis. The matter you touch upon is in part historical, and since it has no 
 
 These fictions, false as the shape and colour of their liabit, and every thread carrying a falsehood, show with what care and labour I hey fc^llow the father of lies. These appear to be the apostiites described hy Solomon in the sixth chapter of Proverbs : " A wicked man walketh with a
 
-200 THE TRIALOGUS.
+## 200 the Trialogus
 
 froward mouth : he winketh with his eyes, he speaketh with his feet, be teacheth with his fingers ; frowardness is in his heart, he deviseth mischief continually ; he soweth discord." This I have elsewhere set forth in detail.
 
@@ -297,9 +296,9 @@ Who, I ask, will find in this order of mendicants, such a collection of men as w
 
 The sort of reply proper to the argument with which we began on this subject, is now manifest, for what is assumed in this case is not valid; though hypocrites, by their false pretences, deceive and blind many men, giving attention to the surface of life, and not to the foundation of their order. They follow not the poverty of Christ, and his mode of life, since that best of masters would not be the holder of such sumptuous dwelling-places as belong to them, nor lay such a tax on the poor, nor collect together such thieves and plunderers as are the accomplices of Antichrist. But the patron of these men seems to influence them in this opposite direction. Nor is it any argument in their favour, that this patron himself hath appointed them the law, and given them the privilege to beg, since the blessed Clement forbade his people so to do.
 
-202 THE TRIALOGUS.
+## 202 the Trialogus
 
-IN WHAT RESPECT THE FRIARS ARE CONTRARY TO CHRIST.
+## In What Respect the Friars Are Contrary to Christ
 
 Alithia. The majority of men think that the fHars, as they say mass, and preach and pray so much, are necessary to the holy motiier church. Therefore, pray tell me wherein they are contrary to the law of Christ, because they are then doubtless heretics, and ought especially to be stoned by the clergy. *
 
@@ -319,11 +318,11 @@ A second abuse of the friars is the crime of blasphemy, because they impute to C
 
 But certain it is, that herein they are guilty of a blasphemous falsehood against Christ ; for Christ in his humanity never built any such a mansion, nay, it was repugnant to his state of innocence thus to heap together books, and money, and such things. The sixth abuse in their
 
-204 THE TRIALOGUS.
+## 204 the Trialogus
 
 simoniacal accumulation of things temporal, by virtue of their office, as false preachers ; for Christ taught his disciples, in the tenth of Matthew, since they had freely received from above the teaching which enabled them to preach the Gospel, and the power also of working miracles, that they should freely extend the benefit of such endovnnents to all who might be benefited by them, just as God and good angels bestow their gifts most fireely. Thus these sealed commodities of the friars involve them in many ways in the guilt of simony and heresy.
 
-OP THE OTHER SIX ABUSES OP THE FRIARS.
+## Op the Other Six Abuses Op the Friars
 
 Alithia. Pray, brother Phronesis, inform me of the other six abuses of the friars, as you have promised, for I do not clearly sec how they can avoid the guilt you impute to them, without returning to the free law of Jesus Christ, inasmuch as their rule and religion, as it appears to me, compel them to the commission of the evils you condemn.
 

@@ -9,10 +9,7 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 It appears from the writings of Jerome and Eusebius, that this Epistle was not formerly received by many Churches without opposition. There are also at this day some who do not think it entitled to authority. I, however, am inclined to receive it without controversy, because I see no just cause for rejecting it. For what seems in the second chapter to be inconsistent with the doctrine of free justification, we shall easily explain in its own place. Though he seems more sparing in proclaiming the grace of Christ than it behooved an Apostle to be, it is not surely required of all to handle the same arguments. The writings of Solomon differ much from those of David; while the former was intent on forming the outward man and teaching the precepts of civil life, the latter spoke continually of the spiritual worship of God, peace of conscience, God’s mercy and gratuitous promise of salvation. But this diversity should not make us to approve of one, and to condemn the other. Besides, among the evangelists themselves there is so much difference in setting forth the power of Christ, that the other three, compared with John, have hardly sparks of that full brightness which appears so conspicuous in him, and yet we commend them all alike.
 

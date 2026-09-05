@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # All the Promises
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2657
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For all the promises of God in Him are Yes, and in Him Amen, to the glory of God through us." 2 Corinthians 1:20.
 
@@ -89,7 +86,7 @@ Ah, but I think I hear the weak souls crying out, "By us! By us! 'To the glory o
 
 Come along, then, all you who need God's mercy. You have laid hold of one of His promises and feel that you need and must have all that it includes. With utmost reverence would I say that God Himself cannot be glorified by His promises without you! If He intends to feed the hungry, then the hungry are essential to the accomplishment of His purpose! If He would clothe the naked, then there must be naked ones for Him to clothe! Is there not a mine of comfort here for you who have been almost outside hope? I trust that some of you poor lost ones will say in your hearts, if you do not utter it with your voices, "Are we really essential to God's Glory? Does God need our poverty, our sinfulness and our nothingness in order that He may, through them, display the greatness of His Grace? Then we will certainly come to Him just as we are." Do so, I pray you. Come! Come!! Come!!! May the Holy Spirit, by His Omnipotent Grace draw you now, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 1; 2:1.
+## Exposition by C. H. Spurgeon: 2 Corinthians 1; 2:1
 
 2 Corinthians 1:1. Paul, an Apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia. Paul is very jealous of his Apostleship. There were some in Corinth who denied it and, therefore, he takes care, at the very commencement of this Epistle—as he does in beginning most of his letters—to write concerning himself, "Paul, an Apostle of Jesus Christ by the will of God." But with what humility of mind does he associate Timothy with himself! Frequently he puts Timothy, his own convert, one so young and so much beneath him in position and attainments, on a level with himself! And if we also can help our younger brethren, how willingly should we put ourselves side by side with them!
 
@@ -129,10 +126,9 @@ God guides him when guidance is absolutely necessary, but, at other times, He le
 
 24\. Not for that we have dominion over your faith, but are helpers ofyour joy: for by faith you stand.
 
-Chapter 2. Verse 1. But I determined this with myself, that I would not come again to you in heaviness. And they ought to have had enough confidence in him to know that he had a very good and sufficient reason for not fulfilling his conditional promise.
+## Chapter 2. Verse 1. But I determined this with myself, that I would not come again to you in heaviness. And they ought to have had enough confidence in him to know that he had a very good and sufficient reason for not fulfilling his conditional promise
 
 Let us, dear Friends, who, are one in Christ, trust each other, for, if suspicion is once bred among the people of God, it will mean farewell to all fellowship.
-
 
 ---
 [[Sermon 2656 The Death of Christ for His People|← #2656]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2658 Waking to See Christ's Glory|#2658 →]]

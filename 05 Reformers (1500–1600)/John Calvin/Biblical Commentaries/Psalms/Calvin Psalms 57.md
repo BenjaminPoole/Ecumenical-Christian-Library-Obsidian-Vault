@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 57
-
-**PSALM 57**
 
 This psalm consists of two parts. In the first, David gives expression to the anxiety which he felt, imploring Divine assistance against Saul and his other enemies. In the second, he proceeds upon the confident expectation of deliverance, and stirs up his soul to the exercise of praise.
 

@@ -11,7 +11,6 @@ tags:
   - classical
   - pliny-the-elder
 ---
-
 # The Natural History
 *Volume 3*
 
@@ -25,47 +24,32 @@ Italic text is denoted _thus_.
 
 See further notes at the end of this volume.
 
+## The
 
-
-
-  THE
-
-  NATURAL HISTORY
+## Natural History
 
   OF
 
-  PLINY.
+## Pliny
 
-  TRANSLATED,
+## With Copious Notes and Illustrations
 
-  WITH COPIOUS NOTES AND ILLUSTRATIONS
-
-
-  BY THE LATE
-  JOHN BOSTOCK, M.D., F.R.S.,
-
-  AND
+## And
 
   H. T. RILEY, ESQ., B.A.,
   LATE SCHOLAR OF CLARE HALL, CAMBRIDGE.
 
-  VOL. III.
+## Vol. III
 
   LONDON:
   HENRY G. BOHN, YORK STREET, COVENT GARDEN.
   MDCCCLV.
 
+## Of the Third Volume
 
+## Book XI
 
-
-CONTENTS.
-
-OF THE THIRD VOLUME.
-
-
-  BOOK XI.
-
-  THE VARIOUS KINDS OF INSECTS.
+## The Various Kinds of Insects
 
   CHAP.                                                         Page
 
@@ -352,10 +336,9 @@ OF THE THIRD VOLUME.
   119. What things, by merely tasting of them, allay hunger
          and thirst                                               99
 
+## Book XII
 
-  BOOK XII.
-
-  THE NATURAL HISTORY OF TREES.
+## The Natural History of Trees
 
   1. The honourable place occupied by trees in the system of
        nature                                                    101
@@ -492,10 +475,9 @@ OF THE THIRD VOLUME.
 
   63. Cinnamon or comacum                                        _ib._
 
+## Book XIII
 
-  BOOK XIII.
-
-  THE NATURAL HISTORY OF EXOTIC TREES, AND AN ACCOUNT OF UNGUENTS.
+## The Natural History of Exotic Trees, and an Account of Unguents
 
   1. Unguents—at what period they were first introduced          159
 
@@ -613,10 +595,9 @@ OF THE THIRD VOLUME.
   52. The plants of the Troglodytic Sea; the hair of Isis:
         the Charito-blepharon                                    212
 
+## Book XIV
 
-  BOOK XIV.
-
-  THE NATURAL HISTORY OF THE FRUIT-TREES.
+## The Natural History of the Fruit-Trees
 
   1 and 2. The nature of the vine. Its mode of
         fructification                                           215
@@ -681,10 +662,9 @@ OF THE THIRD VOLUME.
   29. Liquors with the strength of wine made from water
         and corn                                                 274
 
+## Book XV
 
-  BOOK XV.
-
-  THE NATURAL HISTORY OF THE FRUIT-TREES.
+## The Natural History of the Fruit-Trees
 
   1. The olive.—How long it existed in Greece only.—At what
        period it was first introduced into Italy, Spain,
@@ -775,10 +755,9 @@ OF THE THIRD VOLUME.
 
   40. Historical anecdotes connected with the laurel             334
 
+## Book XVI
 
-  BOOK XVI.
-
-  THE NATURAL HISTORY OF THE FOREST TREES.
+## The Natural History of the Forest Trees
 
   1. Countries that have no trees                                339
 
@@ -1001,10 +980,9 @@ OF THE THIRD VOLUME.
 
   95. Historical facts connected with the mistletoe              435
 
+## Book XVII
 
-  BOOK XVII.
-
-  THE NATURAL HISTORY OF THE CULTIVATED TREES.
+## The Natural History of the Cultivated Trees
 
   1. Trees which have been sold at enormous prices               438
 
@@ -1107,11 +1085,7 @@ OF THE THIRD VOLUME.
 
   47. Medicaments for trees                                      _ib._
 
-
-
-
-GREEK AND ROMAN MONEY, WEIGHTS, AND MEASURES MENTIONED BY PLINY.
-
+## Greek and Roman Money, Weights, and Measures Mentioned by Pliny
 
   Acetabulum. R                  1/8 of a Sextarius, .1238 pint.
   Actus. R                       120 Pedes or Roman feet.
@@ -1171,23 +1145,13 @@ Attic, or Great Talent, was in value £343 15s. or, according to Pollux,
 Drachmæ, or about 3/4 oz. and 71 grs. The Egyptian Talent, as a measure
 of weight, was equal to about twice the Attic Talent.
 
+## Natural History of Pliny
 
+## Book XI
 
+## The Various Kinds of Insects
 
-NATURAL HISTORY OF PLINY.
-
-
-
-
-BOOK XI.
-
-THE VARIOUS KINDS OF INSECTS.
-
-
-
-
-CHAP. 1. (1.)—THE EXTREME SMALLNESS OF INSECTS.
-
+## Chap. 1. (1.)—the Extreme Smallness of Insects
 
 We shall now proceed to a description of the insects, a subject replete
 with endless difficulties;[3] for, in fact, there are some authors who
@@ -1244,11 +1208,7 @@ objects, not to feel a similar disdain for the information I am about
 to give relative thereto, seeing that, in the study of Nature, there
 are none of her works that are unworthy of our consideration.
 
-
-
-
-CHAP. 2. (3.)—WHETHER INSECTS RESPIRE, AND WHETHER THEY HAVE BLOOD.
-
+## Chap. 2. (3.)—whether Insects Respire, and Whether They Have Blood
 
 Many authors deny that insects respire,[7] and make the assertion upon
 the ground, that in their viscera there is no respiratory organ to be
@@ -1290,11 +1250,7 @@ it is my purpose to set forth the operations of Nature in the clearest
 possible light, and not to enter upon the discussion of points that are
 replete with doubt.
 
-
-
-
-CHAP. 3. (4.)—THE BODIES OF INSECTS.
-
+## Chap. 3. (4.)—the Bodies of Insects
 
 Insects, so far as I find myself able to ascertain, seem to have
 neither sinews,[12] bones, spines, cartilages, fat, nor flesh; nor yet
@@ -1317,11 +1273,7 @@ longest when cut asunder, as we see in the case of the scolopendra.
 They have eyes, and the senses as well of touch and taste; some of them
 have also the sense of smelling, and some few that of hearing.
 
-
-
-
-CHAP. 4. (5.)—BEES.
-
+## Chap. 4. (5.)—bees
 
 But among them all, the first rank, and our especial admiration, ought,
 in justice, to be accorded to bees, which alone, of all the insects,
@@ -1346,11 +1298,7 @@ question of their blood; and yet, how little of it can possibly exist
 in bodies so minute as theirs.—And now let us form some idea of the
 instinct they display.
 
-
-
-
-CHAP. 5. (6.)—THE ORDER DISPLAYED IN THE WORKS OF BEES.
-
+## Chap. 5. (6.)—the Order Displayed in the Works of Bees
 
 Bees keep within the hive during the winter—for whence are they to
 derive the strength requisite to withstand frosts and snows, and the
@@ -1379,12 +1327,8 @@ will prove an object of attraction to them. Having done this, they
 employ similar substances in narrowing the entrance to the hive, if
 otherwise too wide.
 
-
-
-
 CHAP. 6. (5.)—THE MEANING OF THE TERMS COMMOSIS, PISSOCEROS, AND
 PROPOLIS.
-
 
 The persons who understand this subject, call the substance which
 forms the first foundation of their combs, _commosis_,[16] the next,
@@ -1401,11 +1345,7 @@ for the admission of cold or other injurious influences; it has also a
 strong odour, so much so, indeed, that many people use it instead of
 galbanum.
 
-
-
-
-CHAP. 7.—THE MEANING OF ERITHACE, SANDARACA, OR CERINTHOS.
-
+## Chap. 7.—the Meaning of Erithace, Sandaraca, or Cerinthos
 
 In addition to this, the bees form collections of _erithace_ or
 bee-bread, which some persons call “sandaraca,”[20] and others
@@ -1420,11 +1360,7 @@ nut trees in Greece. Menecrates says, that it is a flower, which gives
 indications of the nature of the coming harvest; but no one says so,
 with the exception of him.
 
-
-
-
-CHAP. 8. (8.)—WHAT FLOWERS ARE USED BY THE BEES IN THEIR WORK.
-
+## Chap. 8. (8.)—what Flowers Are Used by the Bees in Their Work
 
 Bees form wax[21] from the blossoms of all trees and plants, with
 the sole exception of the rumex[22] and the echinopodes,[23] both
@@ -1443,11 +1379,7 @@ overtaken by night in their expeditions, they watch till the morning,
 lying on their backs, in order to protect their wings from the action
 of the dew.
 
-
-
-
-CHAP. 9. (9.)—PERSONS WHO HAVE MADE BEES THEIR STUDY.
-
+## Chap. 9. (9.)—persons Who Have Made Bees Their Study
 
 It is not surprising that there have been persons who have made bees
 their exclusive study; Aristomachus of Soli, for instance, who for a
@@ -1455,11 +1387,7 @@ period of fifty-eight years did nothing else; Philiscus of Thasos,
 also, surnamed Agrius,[25] who passed his life in desert spots, tending
 swarms of bees. Both of these have written works on this subject.
 
-
-
-
-CHAP. 10. (10.)—THE MODE IN WHICH BEES WORK.
-
+## Chap. 10. (10.)—the Mode in Which Bees Work
 
 The manner in which bees carry on their work is as follows. In the
 day time a guard is stationed at the entrance of the hive, like the
@@ -1532,11 +1460,7 @@ those of the king-bee. If they have reason to expect an abundant[28]
 season, they add abodes also for the drones: these are cells of a
 smaller size, though the drones themselves are larger than the bees.
 
-
-
-
-CHAP. 11.—DRONES.
-
+## Chap. 11.—drones
 
 The drones have no sting,[29] and would seem to be a kind of imperfect
 bee, formed the very last of all; the expiring effort, as it were, of
@@ -1556,11 +1480,7 @@ drones are ever to be seen. If you deprive a drone of its wings, and
 then replace it in the hive, it will pull off the wings of the other
 drones.
 
-
-
-
-CHAP. 12.—THE QUALITIES OF HONEY.
-
+## Chap. 12.—the Qualities of Honey
 
 In the lower part of the hive they construct for their future sovereign
 a palatial abode,[32] spacious and grand, separated from the rest,
@@ -1592,11 +1512,7 @@ such repeated changes—still, in spite of all this, it affords us by
 its flavour a most exquisite pleasure, the result, no doubt, of its
 æthereal nature and origin.
 
-
-
-
-CHAP. 13. (13.)—WHERE THE BEST HONEY IS PRODUCED.
-
+## Chap. 13. (13.)—where the Best Honey Is Produced
 
 The honey is always best in those countries where it is to be found
 deposited in the calix of the most exquisite flowers, such, for
@@ -1610,11 +1526,7 @@ The honey of the very finest flavour, and the least tainted by the
 leaves of trees, is that gathered from the foliage of the oak and the
 linden, and from reeds.
 
-
-
-
-CHAP. 14. (14.)—THE KINDS OF HONEY PECULIAR TO VARIOUS PLACES.
-
+## Chap. 14. (14.)—the Kinds of Honey Peculiar to Various Places
 
 The peculiar excellence of honey depends, as already stated,[36] on
 the country in which it is produced; the modes, too, of estimating
@@ -1667,11 +1579,7 @@ the sweetness of this substance, and the virtue which it possesses of
 restoring men to life, are not inferior to those attributed to the
 nectar of the gods.
 
-
-
-
-CHAP. 15. (15.)—HOW HONEY IS TESTED. ERICÆUM. TETRALIX, OR SISIRUM.
-
+## Chap. 15. (15.)—how Honey Is Tested. Ericæum. Tetralix, or Sisirum
 
 The crop of honey is most abundant if gathered at full moon, and
 it is richest when the weather is fine. In all honey, that which
@@ -1742,11 +1650,7 @@ contact with dew, will very quickly receive injury from the taint thus
 contracted: hence it is that among the various kinds of honey which are
 preserved, there is one which is known by the name of _acapnon_.[49]
 
-
-
-
-CHAP. 16.—THE REPRODUCTION OF BEES.
-
+## Chap. 16.—the Reproduction of Bees
 
 How bees generate their young has been a subject of great and subtle
 research among the learned; seeing that no one has ever witnessed[50]
@@ -1813,11 +1717,7 @@ a white spot on the forehead, which bears some resemblance to a diadem:
 they differ, too, very much from the rest of the community, in their
 bright and shining appearance.
 
-
-
-
-CHAP. 17. (17.)—THE MODE OF GOVERNMENT OF THE BEES.
-
+## Chap. 17. (17.)—the Mode of Government of the Bees
 
 Let a man employ himself, forsooth, in the enquiry whether there has
 been only one Hercules, how many fathers Liber there have been, and all
@@ -1851,11 +1751,7 @@ astray, it is able to follow the others by the aid of its acuteness
 of smell. Wherever the king bee happens to settle, that becomes the
 encampment of all.
 
-
-
-
-CHAP. 18.—HAPPY OMENS SOMETIMES AFFORDED BY A SWARM OF BEES.
-
+## Chap. 18.—happy Omens Sometimes Afforded by a Swarm of Bees
 
 And then, too, it is that they afford presages both of private and
 public interest, clustering, as they do, like a bunch of grapes, upon
@@ -1897,11 +1793,7 @@ immediately put an end to by throwing dust[65] among them, or raising
 a smoke; and if milk or honey mixed with water is placed before them,
 they speedily become reconciled.
 
-
-
-
-CHAP. 19. (18.)—THE VARIOUS KINDS OF BEES.
-
+## Chap. 19. (18.)—the Various Kinds of Bees
 
 There are field bees also, and wild bees, ungainly in appearance,
 and much more irascible than the others, but remarkable for their
@@ -1945,11 +1837,7 @@ are peculiarly dangerous to them, as they have the greatest difficulty
 in extricating themselves from the fleece. The smell of crabs,[70] if
 they happen to be cooked in their vicinity, is fatal to them.
 
-
-
-
-CHAP. 20.—THE DISEASES OF BEES.
-
+## Chap. 20.—the Diseases of Bees
 
 Bees are also by nature liable to certain diseases of their own. The
 sign that they are diseased, is a kind of torpid, moping sadness: on
@@ -1975,11 +1863,7 @@ labouring is known by the name of _claros_,[71] and if they fail to
 rear their young, they are suffering from the effects of that known as
 _blapsigonia_.[72]
 
-
-
-
-CHAP. 21.—THINGS THAT ARE NOXIOUS TO BEES.
-
+## Chap. 21.—things that Are Noxious to Bees
 
 Echo, or the noise made by the reverberation of the air, is also
 injurious to bees, as it dismays them by its redoubled sounds; fogs,
@@ -2012,11 +1896,7 @@ so bountiful to us is exposed. In the appropriate place[75] we will
 treat of the proper remedies; for the present the nature of them is our
 subject.
 
-
-
-
-CHAP. 22. (20.)—HOW TO KEEP BEES TO THE HIVE.
-
+## Chap. 22. (20.)—how to Keep Bees to the Hive
 
 The clapping of the hands and the tinkling of brass afford bees great
 delight, and it is by these means that they are brought together; a
@@ -2033,11 +1913,7 @@ if they are preserved in the house throughout the winter, and then
 exposed to the warmth of the spring sun, and kept hot all day in the
 ashes of fig-tree wood, they will come to life again.
 
-
-
-
-CHAP. 23.—METHODS OF RENEWING THE SWARM.
-
+## Chap. 23.—methods of Renewing the Swarm
 
 These persons say also, that if the swarm is entirely lost, it may be
 replaced by the aid of the belly[77] of an ox newly killed, covered
@@ -2049,12 +1925,8 @@ these last, sexual intercourse is to be perceived as well, though the
 characteristics of the offspring are pretty much the same as those of
 the bee.
 
-
-
-
 CHAP. 24. (21.)—WASPS AND HORNETS: ANIMALS WHICH APPROPRIATE WHAT
 BELONGS TO OTHERS.
-
 
 Wasps build their nests of mud in lofty places,[79] and make wax
 therein: hornets, on the other hand, build in holes or under ground.
@@ -2095,11 +1967,7 @@ in the winter. Neither hornets nor wasps have a king, nor do they
 ever congregate in swarms; but their numbers are recruited by fresh
 offspring from time to time.
 
-
-
-
-CHAP. 25. (22.)—THE BOMBYX OF ASSYRIA.
-
+## Chap. 25. (22.)—the Bombyx of Assyria
 
 A fourth class of this kind[83] of insect is the bombyx,[84] which is a
 native of Assyria, and is of larger size than any of those which have
@@ -2109,11 +1977,7 @@ where they become so hard, that it is scarcely possible to penetrate
 them with a dart even. In these nests they make wax, in larger
 quantities than bees, and the grub which they then produce is larger.
 
-
-
-
-CHAP. 26.—THE LARVÆ OF THE SILK-WORM—WHO FIRST INVENTED SILK CLOTHS.
-
+## Chap. 26.—the Larvæ of the Silk-Worm—who First Invented Silk Cloths
 
 There is another class also of these insects produced in quite a
 different manner. These last spring from a grub of larger size, with
@@ -2129,11 +1993,7 @@ tissue therefrom; indeed, she ought not to be deprived of the glory of
 having discovered the art of making vestments which, while they cover a
 woman, at the same moment reveal her naked charms.
 
-
-
-
-CHAP. 27. (23.)—THE SILK-WORM OF COS—HOW THE COAN VESTMENTS ARE MADE.
-
+## Chap. 27. (23.)—the Silk-Worm of Cos—how the Coan Vestments Are Made
 
 The silk-worm, too, is said to be a native of the isle of Cos, where
 the vapours of the earth give new life to the flowers of the cypress,
@@ -2159,12 +2019,8 @@ manners degenerated in our day, that, so far from wearing a cuirass,
 a garment even is found to be too heavy. The produce of the Assyrian
 silk-worm, however, we have till now left to the women only.
 
-
-
-
 CHAP. 28. (24.)—SPIDERS; THE KINDS THAT MAKE WEBS; THE MATERIALS USED
 BY THEM IN SO DOING.
-
 
 It is by no means an absurdity to append to the silk-worm an account
 of the spider, a creature which is worthy of our especial admiration.
@@ -2232,11 +2088,7 @@ is generally supposed that it is the female spider that spins, and the
 male that lies in wait for prey, thus making an equal division of their
 duties.
 
-
-
-
-CHAP. 29.—THE GENERATION OF SPIDERS.
-
+## Chap. 29.—the Generation of Spiders
 
 Spiders couple[92] backwards, and produce maggots like eggs; for I
 ought not to defer making some mention of this subject, seeing, in
@@ -2250,11 +2102,7 @@ incubation. These last produce as many as three hundred eggs, the
 others a smaller number. Spiders take three days to hatch their eggs.
 They come to their full growth in twenty-eight days.
 
-
-
-
-CHAP. 30. (25.)—SCORPIONS.
-
+## Chap. 30. (25.)—scorpions
 
 In a similar manner to the spider, the land scorpion also produces
 maggots[93] similar to eggs, and dies in a similar manner. This animal
@@ -2314,22 +2162,14 @@ say, becomes the avenger of the rest, and at last, taking advantage of
 its elevated position, puts its parents to death. The scorpion produces
 eleven at a birth.
 
-
-
-
-CHAP. 31. (26.)—THE STELLIO.
-
+## Chap. 31. (26.)—the Stellio
 
 The stellio[100] has in some measure the same nature as the chameleon,
 as it lives upon nothing but dew, and such spiders[101] as it may
 happen to find.
 
-
-
-
 CHAP. 32.—THE GRASSHOPPER: THAT IT HAS NEITHER MOUTH NOR OUTLET FOR
 FOOD.
-
 
 The cicada[102] also lives in a similar manner, and is divided into
 two kinds. The smaller kind are born the first and die the last, and
@@ -2378,11 +2218,7 @@ again, none of the grasshoppers have any note, while beyond the river,
 in the territory of Locri,[110] they sing aloud. Their wings are formed
 similarly to those of bees, but are larger, in proportion to the body.
 
-
-
-
-CHAP. 33. (28.)—THE WINGS OF INSECTS.[111]
-
+## Chap. 33. (28.)—the Wings of Insects.[111]
 
 There are some insects which have two wings, flies, for instance;
 others, again, have four, like the bee. The wings of the grasshopper
@@ -2394,11 +2230,7 @@ their wants. If pulled from off the body, the wings of an insect will
 not grow again; no insect which has a sting inserted in its body, has
 two wings only.
 
-
-
-
-CHAP. 34.—THE BEETLE. THE GLOW-WORM. OTHER KINDS OF BEETLES.
-
+## Chap. 34.—the Beetle. The Glow-Worm. Other Kinds of Beetles
 
 Some insects, for the preservation of their wings, are covered with a
 crust;[112] the beetle, for instance, the wing of which is peculiarly
@@ -2447,11 +2279,7 @@ protruding in front of the eyes, but without any power in them; the
 butterfly, for instance. Some insects are destitute of wings, such as
 the scolopendra, for instance.[126]
 
-
-
-
-CHAP. 35.—LOCUSTS.
-
+## Chap. 35.—locusts
 
 Those insects which have feet, move sideways. Some of them have the
 hind feet longer than the fore ones, and curving outwards, the locust,
@@ -2527,11 +2355,7 @@ the male, and turning back the extremity of the tail towards him; it is
 only after a considerable time that they separate. In all these kinds
 of insects the male is of smaller size than the female.
 
-
-
-
-CHAP. 36. (30.)—ANTS.
-
+## Chap. 36. (30.)—ants
 
 The greater part of the insects produce a maggot. Ants also produce
 one in spring, which is similar to an egg,[136] and they work in
@@ -2576,11 +2400,7 @@ frequently tear them to pieces, though provided with the swiftest
 camels for the purpose of flight; so great is their fleetness, combined
 with their ferocity and their passion for gold!
 
-
-
-
-CHAP. 37. (32.)—THE CHRYSALIS.
-
+## Chap. 37. (32.)—the Chrysalis
 
 Many insects, however, are engendered in a different manner; and some
 more especially from dew. This dew settles upon the radish[143] leaf in
@@ -2593,11 +2413,7 @@ hard husk. It moves only when touched, and is covered with a web like
 that of the spider. In this state it is called a chrysalis, but after
 the husk is broken, it flies forth in the shape of a butterfly.
 
-
-
-
-CHAP. 38. (33.)—ANIMALS WHICH BREED IN WOOD.
-
+## Chap. 38. (33.)—animals Which Breed in Wood
 
 In the same manner, also, some animals are generated in the earth
 from rain, and some, again, in wood. And not only wood-worms[144]
@@ -2606,12 +2422,8 @@ from it, whenever there is an excess of moisture; just as in man,
 tape-worms[145] are sometimes found, as much as three hundred feet or
 more in length.
 
-
-
-
 CHAP. 39.—INSECTS THAT ARE PARASITES OF MAN. WHICH IS THE SMALLEST OF
 ANIMALS? ANIMALS FOUND IN WAX EVEN.
-
 
 Then, too, in dead carrion there are certain animals produced, and in
 the hair, too, of living men. It was through such vermin as this that
@@ -2631,11 +2443,7 @@ the sun—these fleas are called “petauristæ,”[148] from the activity
 which they display in their hind legs. Others, again, are produced with
 wings, from the moist dust that is found lying in holes and corners.
 
-
-
-
-CHAP. 40. (34.)—AN ANIMAL WHICH HAS NO PASSAGE FOR THE EVACUATIONS.
-
+## Chap. 40. (34.)—an Animal Which Has No Passage for the Evacuations
 
 There is an animal,[149] also, that is generated in the summer, which
 has its head always buried deep in the skin [of a beast], and so,
@@ -2652,12 +2460,8 @@ winged insect[151] which peculiarly infests dogs, and more especially
 attacks them with its sting about the ears, where they are unable to
 defend themselves with their teeth.
 
-
-
-
 CHAP. 41. (35.)—MOTHS, CANTHARIDES, GNATS—AN INSECT THAT BREEDS IN THE
 SNOW.
-
 
 Dust, too, is productive of worms[152] in wools and cloths, and this
 more especially if a spider should happen to be enclosed in them: for,
@@ -2678,11 +2482,7 @@ colour—indeed, the snow itself becomes red after it has lain some time
 on the ground. These grubs are covered with a sort of hair, are of a
 rather large size, and in a state of torpor.
 
-
-
-
-CHAP. 42. (36.)—AN ANIMAL FOUND IN FIRE—THE PYRALLIS OR PYRAUSTA.
-
+## Chap. 42. (36.)—an Animal Found in Fire—the Pyrallis or Pyrausta
 
 That element, also, which is so destructive to matter, produces certain
 animals; for in the copper-smelting furnaces of Cyprus, in the very
@@ -2692,11 +2492,7 @@ animal with wings, the size of a large fly: this creature is called the
 fire it will live, but if it comes out and flies a little distance from
 it, it will instantly die.
 
-
-
-
-CHAP. 43.—THE ANIMAL CALLED HEMEROBION.
-
+## Chap. 43.—the Animal Called Hemerobion
 
 The Hypanis, a river of Pontus, brings down in its waters, about
 the time of the summer solstice, small membranous particles, like a
@@ -2713,12 +2509,8 @@ that are winged, generally die in the autumn, the gad-fly becoming
 quite blind[159] even before it dies. Flies which have been drowned in
 water, if they are covered with ashes,[160] will return to life.
 
-
-
-
 CHAP. 44. (37.)—THE NATURE AND CHARACTERISTICS OF ALL ANIMALS
 CONSIDERED LIMB BY LIMB. THOSE WHICH HAVE TUFTS AND CRESTS.
-
 
 In addition to what is already stated, we will add an account of every
 part of the body of an animal, taken limb by limb.
@@ -2744,12 +2536,8 @@ it flesh, nor can we pronounce it to be cartilage or a callosity, but
 must admit that it is something of a nature peculiar to itself. As to
 the crests of dragons, there is no one to be found who ever saw one.
 
-
-
-
 CHAP. 45.—THE VARIOUS KINDS OF HORNS. ANIMALS IN WHICH THEY ARE
 MOVEABLE.
-
 
 Horns, too, of various forms have been granted to many animals of the
 aquatic, marine, and reptile kind, but those which are more properly
@@ -2823,11 +2611,7 @@ hind, which has no more teeth than the male, and yet is without horns
 altogether. In the stag the horn is only imbedded in the skin, but in
 the other[180] animals it adheres to the bone.
 
-
-
-
-CHAP. 46.—THE HEADS OF ANIMALS. THOSE WHICH HAVE NONE.
-
+## Chap. 46.—the Heads of Animals. Those Which Have None
 
 The head of the fish is very large in proportion to the rest of the
 body, probably, to facilitate its diving under water. Animals of the
@@ -2835,11 +2619,7 @@ oyster and the sponge kind have no head, which is the case, also, with
 most of the other kinds, whose only sense is that of touch. Some,
 again, have the head blended with the body, the crab, for instance.
 
-
-
-
-CHAP. 47.—THE HAIR.
-
+## Chap. 47.—the Hair
 
 Of all animals man has the longest hair upon the head; which is the
 case more especially with those nations where the men and women in
@@ -2862,11 +2642,7 @@ horse are the only creatures whose hair turns grey; but with man this
 is always the case, first in the fore-part of the head, and then in the
 hinder part.
 
-
-
-
-CHAP. 48.—THE BONES OF THE HEAD.
-
+## Chap. 48.—the Bones of the Head
 
 Some few persons only are double-crowned. The bones of the head are
 flat, thin, devoid of marrow, and united with sutures indented like a
@@ -2876,11 +2652,7 @@ forms, and so makes good the loss. We have already mentioned, in their
 respective[187] places, that the skull of the bear is the weakest of
 all, and that of the parrot the hardest.
 
-
-
-
-CHAP. 49.—THE BRAIN.
-
+## Chap. 49.—the Brain
 
 The brain exists in all animals which have blood, and in those sea
 animals as well, which we have already mentioned as mollusks, although
@@ -2911,11 +2683,7 @@ stags[189] have in the head certain small maggots, twenty in number:
 they are situate in the empty space that lies beneath the tongue, and
 around the joints by which the head is united to the body.
 
-
-
-
-CHAP. 50.—THE EARS. ANIMALS WHICH HEAR WITHOUT EARS OR APERTURES.
-
+## Chap. 50.—the Ears. Animals Which Hear without Ears or Apertures
 
 Man is the only animal the ears of which are immoveable. It is from
 the natural flaccidity of the ear, that the surname of _Flaccus_ is
@@ -2944,11 +2712,7 @@ animal is weary, they are drooping and flaccid; when it is startled,
 they quiver to and fro; when it is enraged, they are pricked up; and
 when it is ailing, they are pendant.
 
-
-
-
-CHAP. 51.—THE FACE, THE FOREHEAD, AND THE EYE-BROWS.
-
+## Chap. 51.—the Face, the Forehead, and the Eye-Brows
 
 Man is the only creature that has a face, the other animals having
 only a muzzle or a beak. Other animals have a forehead as well, but
@@ -2964,11 +2728,7 @@ here they take up their position. In no part of the body could they
 meet with a spot more lofty and more precipitous, in which to establish
 themselves free from all control.
 
-
-
-
-CHAP. 52.—THE EYES—ANIMALS WHICH HAVE NO EYES, OR HAVE ONLY ONE EYE.
-
+## Chap. 52.—the Eyes—animals Which Have No Eyes, or Have Only One Eye
 
 Below the forehead are the eyes, which form the most precious portion
 of the human body, and which, by the enjoyment of the blessings of
@@ -2989,11 +2749,7 @@ nor grasshoppers have eyes. In snails,[194] the two small horns with
 which they feel their way, perform the duties of eyes. Neither the
 mawworm[195] nor any other kind of worm has eyes.
 
-
-
-
-CHAP. 53.—THE DIVERSITY OF THE COLOUR OF THE EYES.
-
+## Chap. 53.—the Diversity of the Colour of the Eyes
 
 The eyes vary in colour in the human race only; in all other animals
 they are of one uniform colour peculiar to the kind, though there
@@ -3004,11 +2760,7 @@ These last are generally supposed to be very weak, while those which
 are deep-seated are considered the best, as is the case also with those
 which in colour resemble the eyes of the goat.
 
-
-
-
-CHAP. 54.—THE THEORY OF SIGHT—PERSONS WHO CAN SEE BY NIGHT.
-
+## Chap. 54.—the Theory of Sight—persons Who Can See by Night
 
 In addition to this, there are some persons who can see to a very
 great distance, while there are others, again, who can only distinguish
@@ -3069,11 +2821,7 @@ and cold. This coat she purifies from time to time by the lachrymal
 humours, and she has made the surface lubricous and slippery, to
 protect the eye against the effects of a sudden shock.
 
-
-
-
-CHAP. 55.—THE NATURE OF THE PUPIL—EYES WHICH DO NOT SHUT.
-
+## Chap. 55.—the Nature of the Pupil—eyes Which Do Not Shut
 
 In the midst of the cornea of the eye Nature has formed a window in the
 pupil, the small dimensions of which do not permit the sight to wander
@@ -3139,12 +2887,8 @@ nature, as well as fishes and insects, are destitute of eye-lids, and
 their eyes have no covering; but in all there is a membrane that is
 transparent like glass, spread over them.
 
-
-
-
 CHAP. 56.—THE HAIR OF THE EYE-LIDS; WHAT ANIMALS ARE WITHOUT THEM.
 ANIMALS WHICH CAN SEE ON ONE SIDE ONLY.
-
 
 Man has lashes on the eye-lids on either side; and women even make
 it their daily care to stain them;[209] so ardent are they in the
@@ -3163,11 +2907,7 @@ soft skin, such as the serpent, and those among the quadrupeds that are
 oviparous, the lizard, for instance. The ostrich is the only one among
 the birds that, like man, has eyelashes on either side.
 
-
-
-
-CHAP. 57.—ANIMALS WHICH HAVE NO EYELIDS.
-
+## Chap. 57.—animals Which Have No Eyelids
 
 All birds, however, have not eyelids: hence it is, that those which are
 viviparous have no nictation of the eye. The heavier kinds of birds
@@ -3182,11 +2922,7 @@ eyelid was by the ancients called “cilium,” from which comes our word
 will not reunite,[212] which is the case also with some few other parts
 of the human body.
 
-
-
-
-CHAP. 58.—THE CHEEKS.
-
+## Chap. 58.—the Cheeks
 
 Below the eyes are the cheeks, a feature which is found in man only.
 From the ancients they received the name of “genæ,” and by the laws of
@@ -3194,11 +2930,7 @@ the Twelve Tables, women were forbidden to tear them.[213] The cheeks
 are the seat of bashfulness; it is on them more particularly that
 blushes are to be seen.
 
-
-
-
-CHAP. 59.—THE NOSTRILS.
-
+## Chap. 59.—the Nostrils
 
 Within the cheeks is the mouth, which gives such strong indications
 of the feelings of joyousness and laughter; and above it, but in man
@@ -3210,11 +2942,7 @@ the nose that are derived the surnames of “Simus”[215] and “Silo.”
 Children born in the seventh month often have the ears and the nostrils
 imperforate.
 
-
-
-
-CHAP. 60.—THE MOUTH; THE LIPS; THE CHIN; AND THE JAW-BONE.
-
+## Chap. 60.—the Mouth; The Lips; The Chin; And the Jaw-Bone
 
 It is from the “labia,” or lips, that the Brocchi[216] have received
 the surname of Labeo. All animals that are viviparous have a mouth that
@@ -3230,12 +2958,8 @@ either chin or cheek-bones. The crocodile is the only animal that has
 the upper jaw-bone[217] moveable; among the land quadrupeds it is the
 same as with other animals, except that they can move it obliquely.
 
-
-
-
 CHAP. 61.—THE TEETH; THE VARIOUS KINDS OF TEETH; IN WHAT ANIMALS THEY
 ARE NOT ON BOTH SIDES OF THE MOUTH: ANIMALS WHICH HAVE HOLLOW TEETH.
-
 
 Teeth are arranged in three different ways, serrated, in one continuous
 row, or else protruding from the mouth. When serrated they unite
@@ -3269,11 +2993,7 @@ in addition to which, some have them inclining to the interior of the
 mouth, that the food may not fall out, the animal itself having no
 other means of retaining it there.
 
-
-
-
-CHAP. 62.—THE TEETH OF SERPENTS; THEIR POISON. A BIRD WHICH HAS TEETH.
-
+## Chap. 62.—the Teeth of Serpents; Their Poison. A Bird Which Has Teeth
 
 The asp also, and other serpents, have similar teeth; but in the
 upper jaw, on the right and left, they have two of extreme length,
@@ -3312,11 +3032,7 @@ at all, but in place of them, the interior of the mouth is lined with
 bristles, as well as the tongue and palate. Among the smaller land
 quadrupeds, the two fore-teeth in each jaw are the longest.
 
-
-
-
-CHAP. 63.—WONDERFUL CIRCUMSTANCES CONNECTED WITH THE TEETH.
-
+## Chap. 63.—wonderful Circumstances Connected with the Teeth
 
 The other animals are born with[233] teeth, whereas man has them only
 at the seventh[234] month after his birth. While other[235] animals
@@ -3344,12 +3060,8 @@ While in all other animals the teeth grow of a tawny colour with old
 age, with the horse, and him only, they become whiter the older he
 grows.
 
-
-
-
 CHAP. 64.—HOW AN ESTIMATE IS FORMED OF THE AGE OF ANIMALS FROM THEIR
 TEETH.
-
 
 The age, in beasts of burden,[243] is indicated by the teeth. In
 the horse they are forty in number. At thirty months it loses the
@@ -3377,12 +3089,8 @@ teething first commences, the bodies of infants are subject to certain
 maladies. Those animals which have serrated teeth inflict the most
 dangerous bites.[250]
 
-
-
-
 CHAP. 65.—THE TONGUE; ANIMALS WHICH HAVE NO TONGUE. THE NOISE MADE BY
 FROGS. THE PALATE.
-
 
 The tongue is not similarly formed in all animals. Serpents have a
 very thin tongue, and three-forked,[251] which they vibrate to and
@@ -3432,11 +3140,7 @@ imitate the voices of various birds and other animals with the greatest
 exactness. The other animals have the sense of taste centred in the
 fore-part of the tongue; but in man it is situate in the palate as well.
 
-
-
-
-CHAP. 66.—THE TONSILS; THE UVA; THE EPIGLOSSIS; THE ARTERY; THE GULLET.
-
+## Chap. 66.—the Tonsils; The Uva; The Epiglossis; The Artery; The Gullet
 
 In man there are tonsils at the root of the tongue; these in swine are
 called the glandules. The uvula,[258] which is suspended between them
@@ -3458,11 +3162,7 @@ breathing or articulation. The tracheal artery is composed of cartilage
 and flesh, while the gullet is formed of a sinewy substance united with
 flesh.
 
-
-
-
-CHAP. 67.—THE NECK; THE THROAT; THE DORSAL SPINE.
-
+## Chap. 67.—the Neck; The Throat; The Dorsal Spine
 
 The neck is found to exist in no animal but those which have both these
 passages. All the others which have the gullet only, have nothing but
@@ -3480,11 +3180,7 @@ immediately ensues.[263] Those animals which have long legs have a long
 throat as well, which is the case also with aquatic birds, although
 they have short legs, as well as with those which have hooked talons.
 
-
-
-
-CHAP. 68.—THE THROAT; THE GULLET; THE STOMACH.
-
+## Chap. 68.—the Throat; The Gullet; The Stomach
 
 Man only, and the swine, are subject to swellings in the throat, which
 are mostly caused by the noxious quality of the water[264] which they
@@ -3502,11 +3198,7 @@ purpose of levigating the food, the incisions[268] gradually becoming
 smaller as they approach the belly. The roughness at the very extremity
 of this organ strongly resembles that of a blacksmith’s file.
 
-
-
-
-CHAP. 69.—THE HEART; THE BLOOD; THE VITAL SPIRIT.
-
+## Chap. 69.—the Heart; The Blood; The Vital Spirit
 
 In all other animals but man the heart is situate in the middle of the
 breast; in man alone it is placed just below the pap on the left-hand
@@ -3532,12 +3224,8 @@ to the ordinary penalties of human life; but when injured, it produces
 instant death. While all the other viscera are injured, vitality may
 still remain in the heart.
 
-
-
-
 CHAP. 70.—THOSE ANIMALS WHICH HAVE THE LARGEST HEART, AND THOSE WHICH
 HAVE THE SMALLEST. WHAT ANIMALS HAVE TWO HEARTS.
-
 
 Those animals are looked upon as stupid and lumpish which have a hard,
 rigid heart, while those in which it is small are courageous, and
@@ -3565,12 +3253,8 @@ the expense of his body, burnt off the cords by which he was bound. On
 being taken a third time, the Lacedæmonians opened his breast while he
 was still alive, and his heart was found covered with hair.
 
-
-
-
 CHAP. 71.—WHEN THE CUSTOM WAS FIRST ADOPTED OF EXAMINING THE HEART IN
 THE INSPECTION OF THE ENTRAILS.
-
 
 On an examination of the entrails, to find a certain fatty part on
 the top of the heart, is looked upon as a fortunate presage. Still,
@@ -3595,13 +3279,9 @@ in consequence of his having been poisoned. On the other hand, the
 peculiar nature[279] of the disease under which Germanicus was
 labouring, was alleged in Piso’s defence.
 
-
-
-
 CHAP. 72.—THE LUNGS: IN WHAT ANIMALS THEY ARE THE LARGEST, AND IN WHAT
 THE SMALLEST. ANIMALS WHICH HAVE NOTHING BUT LUNGS IN THE INTERIOR OF
 THE BODY. CAUSES WHICH PRODUCE EXTRAORDINARY SWIFTNESS IN ANIMALS.
-
 
 Beneath the heart are the lungs, the laboratory in which the
 respiration is prepared. The use of these, is to draw in the air and
@@ -3618,12 +3298,8 @@ proportion to the body, the greater is the swiftness of the animal. It
 is in the chameleon that the lungs are the largest in proportion to the
 body; in which, in fact, it has no other viscera at all.[281]
 
-
-
-
 CHAP. 73.—THE LIVER: IN WHAT ANIMALS, AND IN WHAT PART THERE ARE TWO
 LIVERS FOUND.
-
 
 The liver is on the right side: in this part is situate what has been
 called the “head of the entrails,” and it is subject to considerable
@@ -3648,13 +3324,9 @@ of Briletum[286] and Tharne, and in the Chersonnesus on the Propontis,
 have a double liver; but, what is very singular, if they are removed to
 another place, they will lose one of them.
 
-
-
-
 CHAP. 74.—THE GALL; WHERE SITUATE, AND IN WHAT ANIMALS IT IS DOUBLE.
 ANIMALS WHICH HAVE NO GALL, AND OTHERS IN WHICH IT IS NOT SITUATE IN
 THE LIVER.
-
 
 In the liver is the gall, which, however, does not exist in every
 animal. At Chalcis, in Eubœa, none of the cattle have it, while in the
@@ -3673,11 +3345,7 @@ at all events, it is a well-known fact, that no animal has a liver
 unless it has blood as well. The liver receives the blood from the
 heart, to which it is united, and then disperses it in the veins.
 
-
-
-
-CHAP. 75.—THE PROPERTIES OF THE GALL.
-
+## Chap. 75.—the Properties of the Gall
 
 When the gall is black, it is productive of madness in man, and if it
 is wholly expelled death will ensue. Hence it is, too, that the word
@@ -3703,13 +3371,9 @@ that of gold. The aruspices have consecrated the gall to Neptune and
 the influence of water. The Emperor Augustus found a double gall in a
 victim which he was sacrificing on the day of his victory at Actium.
 
-
-
-
 CHAP. 76.—IN WHAT ANIMALS THE LIVER INCREASES AND DECREASES WITH THE
 MOON. OBSERVATIONS OF THE ARUSPICES RELATIVE THERETO, AND REMARKABLE
 PRODIGIES.
-
 
 It is said, that in the small liver of the mouse the number of lobes
 corresponds to the day of the moon, and that they are found to be just
@@ -3721,11 +3385,7 @@ nature, it is generally thought. The liver is remarkable for its powers
 of preservation, and sieges have afforded us remarkable instances of
 its being kept so long as a hundred years.[287]
 
-
-
-
-CHAP. 77.—THE DIAPHRAGM. THE NATURE OF LAUGHTER.
-
+## Chap. 77.—the Diaphragm. The Nature of Laughter
 
 The entrails of serpents and lizards are of remarkable length. It is
 related that—a most fortunate omen—Cæcina of Volaterræ beheld two
@@ -3752,12 +3412,8 @@ vicinity. Hence it is, that in battles and gladiatorial combats, many
 persons have been known to be pierced through the midriff, and to die
 in the act of laughing.[289]
 
-
-
-
 CHAP. 78.—THE BELLY: ANIMALS WHICH HAVE NO BELLY. WHICH ARE THE ONLY
 ANIMALS THAT VOMIT.
-
 
 In those animals which have a stomach, below the diaphragm the belly
 is situate. In other animals it is single, but in those which ruminate
@@ -3773,12 +3429,8 @@ be the case with the animals in which the belly is more capacious at
 the extremity, and so leaves a free passage for the food to the lower
 parts of the body.
 
-
-
-
 CHAP. 79.—THE SMALL GUTS, THE FRONT INTESTINES, THE ANUS, THE COLON.
 THE CAUSES OF THE INSATIATE VORACITY OF CERTAIN ANIMALS.
-
 
 After the belly we find in man and the sheep the “lactes,”[290] the
 place of which in other animals is occupied by the “hillæ:”[291] it
@@ -3822,11 +3474,7 @@ there is a black tufa found, round like a ball,[297] and of no weight
 to speak of: this, it is generally thought, is singularly efficacious
 in laborious deliveries, if it happens not to have touched the ground.
 
-
-
-
-CHAP. 80.—THE OMENTUM: THE SPLEEN; ANIMALS WHICH ARE WITHOUT IT.
-
+## Chap. 80.—the Omentum: The Spleen; Animals Which Are without It
 
 The belly and the intestines are covered with a caul known as the
 “omentum,” consisting of a fatty, thin membrane; except in the case of
@@ -3849,12 +3497,8 @@ Asia, known as Scepsis,[301] in which it is said that the spleen of the
 cattle is remarkably small, and that from thence it is that remedies
 for diseases of the spleen have been introduced.
 
-
-
-
 CHAP. 81.—THE KIDNEYS: ANIMALS WHICH HAVE FOUR KIDNEYS. ANIMALS WHICH
 HAVE NONE.
-
 
 About Briletum and Tharne[302] the stags have four kidneys: while, on
 the other hand, those animals which have wings and scales have[303]
@@ -3870,11 +3514,7 @@ the tortoise is the only one that has them; an animal which has all
 the other viscera, but, like man, has the kidneys composed, to all
 appearance, of several kidneys, similar to those of the ox.
 
-
-
-
-CHAP. 82.—THE BREAST: THE RIBS.
-
+## Chap. 82.—the Breast: The Ribs
 
 Nature has placed the breast, or, in other words, certain bones, around
 the diaphragm and the organs of life, but not around the belly, for the
@@ -3885,11 +3525,7 @@ shape, in birds more particularly, and most of all, the aquatic birds.
 The ribs of man are only eight in number; swine have ten, the horned
 animals thirteen, and serpents thirty.
 
-
-
-
-CHAP. 83.—THE BLADDER: ANIMALS WHICH HAVE NO BLADDER.
-
+## Chap. 83.—the Bladder: Animals Which Have No Bladder
 
 Below the paunch, on the anterior side, lies the bladder, which
 is never found in any oviparous animal, with the exception of the
@@ -3904,11 +3540,7 @@ consists of a membrane, which, when once wounded, does not[304]
 cicatrize, just like those in which the brain and the heart are
 enveloped: there are many kinds of membranes, in fact.
 
-
-
-
-CHAP. 84.—THE WOMB: THE WOMB OF THE SOW: THE TEATS.
-
+## Chap. 84.—the Womb: The Womb of the Sow: The Teats
 
 Women have all the same organs, except that adjoining to the bladder
 there is one like a small sac,[305] from which circumstance it is
@@ -3939,11 +3571,7 @@ miscarried are very inferior. The ancients called this part by the name
 of “abdomen,” before it grew hard, and were not in the habit of killing
 swine while in a state of pregnancy.
 
-
-
-
-CHAP. 85.—ANIMALS WHICH HAVE SUET: ANIMALS WHICH DO NOT GROW FAT.
-
+## Chap. 85.—animals Which Have Suet: Animals Which Do Not Grow Fat
 
 Those among the horned animals which have teeth in one jaw only, and
 pastern bones on the feet, produce tallow or suet. Those, on the other
@@ -3963,11 +3591,7 @@ mice.[308] It has been even asserted that the fat was drawn off from
 the body of a son of L. Apronius, a man of consular rank, and that he
 was thus relieved of a burden which precluded him from moving.
 
-
-
-
-CHAP. 86.—THE MARROW: ANIMALS WHICH HAVE NO MARROW.
-
+## Chap. 86.—the Marrow: Animals Which Have No Marrow
 
 The marrow seems also to be formed of a similar material; in the young
 it is of a reddish colour, but it is white in the aged. It is only
@@ -3982,11 +3606,7 @@ little only in some few bones of the thighs and the brachia, which are
 of such extraordinary hardness that sparks may be emitted therefrom, as
 though from a flint-stone.
 
-
-
-
-CHAP. 87.—BONES AND FISH-BONES: ANIMALS WHICH HAVE NEITHER. CARTILAGES.
-
+## Chap. 87.—bones and Fish-Bones: Animals Which Have Neither. Cartilages
 
 The bones are hard, also, in those animals[311] which do not grow fat;
 those of the ass are used by musicians for making flutes. Dolphins have
@@ -4008,11 +3628,7 @@ fills out; but it is more particularly when he first arrives at the
 age of puberty that he seems to have untied a sort of knot in his
 existence, and this especially when he has been overtaken by illness.
 
-
-
-
-CHAP. 88.—THE NERVE: ANIMALS WHICH HAVE NONE.
-
+## Chap. 88.—the Nerve: Animals Which Have None
 
 The nerves[312] take their rise at the heart, and even surround it
 in the ox; they have the same nature and principle as the marrow. In
@@ -4042,12 +3658,8 @@ in consequence of their remarkable subtilty and minuteness, though, at
 the same time, it is by the observation of the pulse, as being fast or
 slow, that the health of the body, as regulating life, is ascertained.
 
-
-
-
 CHAP. 89.—THE ARTERIES; THE VEINS: ANIMALS WITHOUT ARTERIES OR VEINS.
 THE BLOOD AND THE SWEAT.
-
 
 The arteries are destitute of sensation, for they are devoid of blood.
 They do not, all of them, however, contain the vital spirit, and when
@@ -4062,14 +3674,10 @@ which oozes forth from the skin in innumerable small drops, and is
 known to us as “sweat.” The knot, and place of union of the veins, is
 the navel.
 
-
-
-
 CHAP. 90. (38.)—ANIMALS, THE BLOOD OF WHICH COAGULATES WITH THE
 GREATEST RAPIDITY: OTHER ANIMALS, THE BLOOD OF WHICH DOES NOT
 COAGULATE. ANIMALS WHICH HAVE THE THICKEST BLOOD: THOSE THE BLOOD OF
 WHICH IS THE THINNEST: ANIMALS WHICH HAVE NO BLOOD.
-
 
 Those animals in which the blood is more abundant and of an unctuous
 nature, are irascible; it is darker in males than in females, and in
@@ -4097,12 +3705,8 @@ substance in the body that is sensible of any temporary increase, for a
 larger quantity will come from the victims if they happen to have drunk
 just before they are sacrificed.
 
-
-
-
 CHAP. 91.—ANIMALS WHICH ARE WITHOUT BLOOD AT CERTAIN PERIODS OF THE
 YEAR.
-
 
 Those animals which conceal themselves[316] at certain periods of
 the year, as already mentioned, have no blood at those times, with
@@ -4124,11 +3728,7 @@ the other hand, man is the only one that has the elements which cause
 these changes centred in himself. All diseases, as well as death, tend
 to absorb the blood.
 
-
-
-
-CHAP. 92. (39.)—WHETHER THE BLOOD IS THE PRINCIPLE OF LIFE.
-
+## Chap. 92. (39.)—whether the Blood Is the Principle of Life
 
 There are some persons who are of opinion that the fineness of the wit
 does not depend upon the thinness of the blood, but that animals are
@@ -4141,11 +3741,7 @@ the case, too, with men, when the skin is very thick or callous, and
 so excludes the air. Just as if, indeed, the crocodile was not equally
 remarkable for the hardness of its skin and its extreme cunning.
 
-
-
-
-CHAP. 93.—THE HIDE OF ANIMALS.
-
+## Chap. 93.—the Hide of Animals
 
 The hide, too, of the hippopotamus is so thick, that lances,[319]
 even, are turned from it, and yet this animal has the intelligence
@@ -4157,11 +3753,7 @@ that of the head; wherever it is found alone, and unaccompanied with
 flesh, if wounded, it will not unite, as in the cheek and on the
 eyelid,[320] for instance.
 
-
-
-
-CHAP. 94.—THE HAIR AND THE COVERING OF THE SKIN.
-
+## Chap. 94.—the Hair and the Covering of the Skin
 
 Those animals which are viviparous, have hair; those which are
 oviparous, have feathers, scales, or a shell, like the tortoise; or
@@ -4201,12 +3793,8 @@ thick hair on the back, have the belly quite smooth. From the hides
 of oxen, and that of the bull more especially, glue is extracted by
 boiling.
 
-
-
-
 CHAP. 95.—THE PAPS: BIRDS THAT HAVE PAPS. REMARKABLE FACTS CONNECTED
 WITH THE DUGS OF ANIMALS.
-
 
 Man is the only male among animals that has nipples, all the rest
 having mere marks only in place of them. Among female animals even,
@@ -4249,12 +3837,8 @@ bottom of the belly; they are not easily visible, and have a somewhat
 oblique direction: this is the only animal which gives suck while in
 motion. The balæna and sea-calf also suckle their young by teats.
 
-
-
-
 CHAP. 96. (41.)—THE MILK: THE BIESTINGS. CHEESE; OF WHAT MILK CHEESE
 CANNOT BE MADE. RENNET; THE VARIOUS KINDS OF ALIMENT IN MILK.
-
 
 The milk that is secreted in a woman before her seventh month is
 useless; but after that month, so long as the fœtus is healthy, the
@@ -4298,11 +3882,7 @@ as the “serum.”[327] We ought not to omit that butter has certain of
 the properties of oil, and that it is used for an ointment among all
 barbarous nations, and among ourselves as well, for infants.
 
-
-
-
-CHAP. 97. (42.)—VARIOUS KINDS OF CHEESE.
-
+## Chap. 97. (42.)—various Kinds of Cheese
 
 The kinds of cheese that are most esteemed at Rome, where the various
 good things of all nations are to be judged of by comparison, are those
@@ -4332,12 +3912,8 @@ original fresh flavour. It is said that Zoroaster lived thirty years in
 the wilderness upon cheese, prepared in such a peculiar manner, that he
 was insensible to the advances of old age.
 
-
-
-
 CHAP. 98. (43.)—DIFFERENCES OF THE MEMBERS OF MAN FROM THOSE OF OTHER
 ANIMALS.
-
 
 Of all the terrestrial animals, man is the only biped: he is also the
 only one that has a throat, and shoulders, or “humeri,” parts in other
@@ -4346,11 +3922,7 @@ has the “ulna,” or elbow. Those animals which are provided with hands,
 have flesh only on the interior of them, the outer part consisting of
 sinews and skin.
 
-
-
-
-CHAP. 99.—THE FINGERS, THE ARMS.
-
+## Chap. 99.—the Fingers, the Arms
 
 Some persons have six fingers on the hands. We read that C. Horatius,
 a man of patrician rank, had two daughters, who for this reason
@@ -4372,11 +3944,7 @@ longer than the left. Some animals also use their fore-paws to perform
 the duties of hands, and employ them in conveying food to the mouth as
 they sit, the squirrel, for instance.
 
-
-
-
-CHAP. 100. (44.)—RESEMBLANCE OF THE APE TO MAN.
-
+## Chap. 100. (44.)—resemblance of the Ape to Man
 
 As to the various kinds of apes, they offer a perfect resemblance to
 man in the face, the nostrils, the ears, and the eyelids; being the
@@ -4389,11 +3957,7 @@ that of the palm of our hand. They have a thumb also, and articulations
 similar to those in man. The males differ from man in the sexual parts
 only, while all the internal viscera exactly resemble those of man.
 
-
-
-
-CHAP. 101. (45.)—THE NAILS.
-
+## Chap. 101. (45.)—the Nails
 
 It is generally supposed that the nails are the terminations of the
 sinews. All animals which have fingers have nails as well. In the ape
@@ -4412,11 +3976,7 @@ the joints of the hinder legs bend in a contrary direction to those of
 the fore ones. Those animals which are viviparous bend the fore-leg
 forward, while the joint of the hind-leg is directed backward.
 
-
-
-
-CHAP. 102.—THE KNEES AND THE HAMS.
-
+## Chap. 102.—the Knees and the Hams
 
 In man the knee and the elbow bend contrary ways; the same is the case,
 too, with the bear and the ape, and it is for this reason that they
@@ -4428,12 +3988,8 @@ which is the case also with the multipede insects, the hind-legs only
 excepted of such as leap. Birds, like quadrupeds, have the joints of
 the wings bending forwards, but those of the legs backwards.
 
-
-
-
 CHAP. 103.—PARTS OF THE HUMAN BODY TO WHICH CERTAIN RELIGIOUS IDEAS ARE
 ATTACHED.
-
 
 In accordance with the usages of various nations, certain religious
 ideas have been attached to the knees. It is the knees that suppliants
@@ -4455,22 +4011,14 @@ Capitol even. It is to this part that we apply the finger next the
 little finger, after touching the mouth with it, when we silently ask
 pardon of the gods for having let slip an indiscreet word.
 
-
-
-
-CHAP. 104.—VARICOSE VEINS.
-
+## Chap. 104.—varicose Veins
 
 Men only, in general, have varicose veins in the legs, women but very
 rarely. We are informed by Oppius, that C. Marius, who was seven times
 consul, was the only man ever known to be able to have them extracted
 in a standing position.
 
-
-
-
-CHAP. 105.—THE GAIT, THE FEET, THE LEGS.
-
+## Chap. 105.—the Gait, the Feet, the Legs
 
 All animals take a right-hand direction when they first begin to walk,
 and lie down on the left side. While the other animals walk just as it
@@ -4495,11 +4043,7 @@ having a fleshy sole, like that of the bear: hence it is, that in a
 long journey, the animal becomes fatigued, and the foot cracks, if it
 is not shod.
 
-
-
-
-CHAP. 106. (46.)—HOOFS.
-
+## Chap. 106. (46.)—hoofs
 
 The horn of the hoof grows again in no animals except beasts of burden.
 The swine in some places in Illyricum have solid hoofs. Nearly all
@@ -4517,11 +4061,7 @@ pastern-bone is straight, and situate in the joints of the foot; it
 projects outwards in a convex protuberance, and is held fast in its
 vertebration by certain ligaments.
 
-
-
-
-CHAP. 107. (47.)—THE FEET OF BIRDS.
-
+## Chap. 107. (47.)—the Feet of Birds
 
 Among birds, some have the feet divided into toes, while others, again,
 are broad and flatfooted—in others, which partake of the intermediate
@@ -4541,12 +4081,8 @@ called apodes,[347] are not without them, as also the oce, and the
 drepanis,[348] which last is a bird but very rarely seen. Serpents,
 too, have been seen with feet like those of the goose.
 
-
-
-
 CHAP. 108. (48.)—THE FEET OF ANIMALS, FROM THOSE HAVING TWO FEET TO
 THOSE WITH A HUNDRED.—DWARFS.
-
 
 Among insects, those which have hard eyes have the fore-feet long, in
 order that from time to time they may rub the eyes with their feet, as
@@ -4576,11 +4112,7 @@ length.
 (49.) There are dwarfs to be found among all animals, and among birds
 even.
 
-
-
-
-CHAP. 109.—THE SEXUAL PARTS.—HERMAPHRODITES.
-
+## Chap. 109.—the Sexual Parts.—hermaphrodites
 
 We have already spoken sufficiently[351] at length of those animals,
 the males of which have the sexual parts behind. In the wolf, the
@@ -4602,11 +4134,7 @@ yoked to his car, which had been found in the territory of the Treviri,
 in Gaul; as if, indeed, it was so remarkably fine a sight to behold the
 ruler of the earth seated in a chariot drawn by monstrosities!
 
-
-
-
-CHAP. 110.—THE TESTES—THE THREE CLASSES OF EUNUCHS.
-
+## Chap. 110.—the Testes—the Three Classes of Eunuchs
 
 In sheep and cattle the testes hang down to the legs, while in the
 boar they are knit up close to the body. In the dolphin they are
@@ -4622,11 +4150,7 @@ form a third class of half men, in addition to hermaphrodites and
 eunuchs. In all species of animals the male is more courageous than the
 female, with the exception of the panther and the bear.
 
-
-
-
-CHAP. 111. (50.)—THE TAILS OF ANIMALS.
-
+## Chap. 111. (50.)—the Tails of Animals
 
 Nearly all the animals, both viviparous as well as oviparous, with
 the exception of man and the ape, have tails in proportion to the
@@ -4647,11 +4171,7 @@ long hair, as in sheep, in which it is longer also. In swine, the tail
 is curled; among dogs, those that are mongrels carry it close beneath
 the belly.
 
-
-
-
-CHAP. 112. (51.)—THE DIFFERENT VOICES OF ANIMALS.
-
+## Chap. 112. (51.)—the Different Voices of Animals
 
 Aristotle[355] is of opinion that no animal has a voice which does
 not respire, and that hence it is that there is no voice in insects,
@@ -4731,11 +4251,7 @@ beasts; just as, in the same way, the various shades and differences in
 language that exist among men have created an equally marked difference
 between us and the brutes.
 
-
-
-
-CHAP. 113. (52.)—SUPERFLUOUS LIMBS.
-
+## Chap. 113. (52.)—superfluous Limbs
 
 Supernumerary limbs, when they grow on animals, are of no use, which
 is the case also with the sixth finger, when it grows on man. It
@@ -4743,12 +4259,8 @@ was thought proper in Egypt to rear a human monster, that had two
 additional eyes in the back part of the head; it could not see with
 them, however.
 
-
-
-
 CHAP. 114.—SIGNS OF VITALITY AND OF THE MORAL DISPOSITION OF MAN, FROM
 THE LIMBS.
-
 
 I am greatly surprised that Aristotle has not only believed, but has
 even committed it to writing, that there are in the human body certain
@@ -4787,11 +4299,7 @@ of impudence, while those who are incessantly closing the eyelids
 are inconstant. Largeness of the ears is a sign of loquacity and
 foolishness.” Thus much of what Trogus says.
 
-
-
-
-CHAP. 115. (53.)—RESPIRATION AND NUTRIMENT.
-
+## Chap. 115. (53.)—respiration and Nutriment
 
 The breath of the lion is fetid, and that of the bear quite
 pestilential; indeed, no beast will touch anything with which its
@@ -4826,12 +4334,8 @@ dip their arrows in the poison of serpents and human blood: against
 this frightful composition there is no remedy, for with the slightest
 touch it is productive of instant death.
 
-
-
-
 CHAP. 116.—ANIMALS WHICH WHEN FED UPON POISON DO NOT DIE, AND THE FLESH
 OF WHICH IS POISONOUS.
-
 
 The animals which feed upon poison have been already[369] mentioned.
 Some of them, which are harmless of themselves, become noxious if
@@ -4849,11 +4353,7 @@ difference to be found between one kind of food and another. In the
 country, too, of the Ichthyophagi,[370] as we learn from Theophrastus,
 the oxen are fed upon fish, but only when alive.
 
-
-
-
-CHAP. 117.—REASONS FOR INDIGESTION. REMEDIES FOR CRUDITY.
-
+## Chap. 117.—reasons for Indigestion. Remedies for Crudity
 
 The most wholesome nutriment for man is plain food. An accumulation of
 flavours is injurious, and still more so, if heightened by sauces. All
@@ -4864,11 +4364,7 @@ youth. The vomits which man has invented, by way of remedy for this
 evil, render the body more cold, and are more particularly injurious to
 the eyes and teeth.
 
-
-
-
-CHAP. 118.—FROM WHAT CAUSES CORPULENCE ARISES; HOW IT MAY BE REDUCED.
-
+## Chap. 118.—from What Causes Corpulence Arises; How It May Be Reduced
 
 Digestion during sleep is more productive of corpulence than strength.
 Hence it is, that it is preferable for athletes to quicken digestion
@@ -4884,12 +4380,8 @@ necessity fatal to man; and it is a well-known fact, that many persons
 have not died till after an abstinence of eleven days. Man is the only
 animal that is ever attacked with an insatiate[371] craving for food.
 
-
-
-
 CHAP. 119.—WHAT THINGS, BY MERELY TASTING OF THEM, ALLAY HUNGER AND
 THIRST.
-
 
 On the other hand, there are some substances which, tasted in small
 quantities only, appease hunger and thirst, and keep up the strength,
@@ -4900,10 +4392,8 @@ is the most prudent plan to retrench everything that may be possibly
 productive of injury. Let us, however, now pass on to the other
 branches of Nature.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, two
 thousand, two hundred, and seventy.
-
 
 ROMAN AUTHORS QUOTED.—M. Varro,[372] Hyginus,[373] Scrofa,[374]
 Saserna,[375] Celsus Cornelius,[376] Æmilius Macer,[377] Virgil,[378]
@@ -4912,7 +4402,6 @@ Divination, Tarquitius[381] who wrote on the same subject, Umbricius
 Melior[382] who wrote on the same subject, Cato the Censor,[383]
 Domitius Calvinus,[384] Trogus,[385] Melissus,[386] Fabianus,[387]
 Mucianus,[388] Nigidius,[389] Manilius,[390] Oppius.[391]
-
 
 FOREIGN AUTHORS QUOTED.—Aristotle,[392] Democritus,[393]
 Neoptolemus[394] who wrote the Meliturgica, Aristomachus[395] who wrote
@@ -4926,18 +4415,11 @@ Euphronius[412] of
  Athens, Theophrastus,[413] Hesiod,[414] King
 Philometor.[415]
 
+## Book XII
 
+## The Natural History of Trees
 
-
-BOOK XII.
-
-THE NATURAL HISTORY OF TREES.
-
-
-
-
-CHAP. 1.—THE HONOURABLE PLACE OCCUPIED BY TREES IN THE SYSTEM OF NATURE.
-
+## Chap. 1.—the Honourable Place Occupied by Trees in the System of Nature
 
 Such, then, is the history, according to their various species and
 their peculiar conformations, of all the animals within the compass
@@ -4965,11 +4447,7 @@ then, to follow the order of human inventions, and to speak of the
 trees before treating of other subjects; thus may we trace up to their
 very origin the manners and usages of the present day.
 
-
-
-
-CHAP. 2. (1.)—THE EARLY HISTORY OF TREES.
-
+## Chap. 2. (1.)—the Early History of Trees
 
 The trees formed the first temples of the gods, and even at the
 present day, the country people, preserving in all their simplicity
@@ -5012,12 +4490,8 @@ at Rome, to practise there as an artizan. We may offer some excuse,
 then, for them, when we know that they came in quest of these various
 productions, though at the price even of war.
 
-
-
-
 CHAP. 3.—EXOTIC TREES. WHEN THE PLANE-TREE FIRST APPEARED IN ITALY, AND
 WHENCE IT CAME.
-
 
 But who is there that will not, with good reason, be surprised to learn
 that a tree has been introduced among us from a foreign clime for
@@ -5037,11 +4511,7 @@ were some other instances, in those days even, of plane-trees being
 found in Italy, and I find some mentioned by name as existing in
 Spain.[429]
 
-
-
-
-CHAP. 4.—THE NATURE OF THE PLANE-TREE.
-
+## Chap. 4.—the Nature of the Plane-Tree
 
 This circumstance took place about the time of the capture of the
 City of Rome; and to such high honour, in the course of time, did the
@@ -5049,11 +4519,7 @@ plane-tree attain, that it was nurtured by pouring wine upon it, it
 being found that the roots were greatly strengthened by doing[430] so.
 Thus have we taught the very trees, even, to be wine-bibbers!
 
-
-
-
-CHAP. 5.—REMARKABLE FACTS CONNECTED WITH THE PLANE-TREE.
-
+## Chap. 5.—remarkable Facts Connected with the Plane-Tree
 
 The first plane-trees that were spoken of in terms of high admiration
 were those which adorned the walks of the Academy[431] at Athens—[in
@@ -5110,11 +4576,7 @@ country-seat: so that he may not inappropriately be styled a second
 Dionysius. These monstrosities of other lands are still to be seen in
 Italy, independently of those which that country has herself devised.
 
-
-
-
-CHAP. 6. (2.)—THE CHAMÆPLATANUS. WHO WAS THE FIRST TO CLIP GREEN SHRUBS.
-
+## Chap. 6. (2.)—the Chamæplatanus. Who Was the First to Clip Green Shrubs
 
 For we find in Italy some plane-trees, which are known as
 chamæplatani,[437] in consequence of their stunted growth; for we
@@ -5126,11 +4588,7 @@ them. C. Matius,[438] a member of the Equestrian order, and a friend of
 the late Emperor Augustus, invented the art of clipping arbours, within
 the last eighty years.
 
-
-
-
-CHAP. 7. (3.)—HOW THE CITRON IS PLANTED.
-
+## Chap. 7. (3.)—how the Citron Is Planted
 
 The cherry and the peach, and all those trees which have either Greek
 or foreign names, are exotics: those, however, of this number, which
@@ -5160,11 +4618,7 @@ the Parthian grandees employ in seasoning their ragouts, as being
 peculiarly conducive to the sweetening of the breath. We find no other
 tree very highly commended that is produced in Media.
 
-
-
-
-CHAP. 8. (4.)—THE TREES OF INDIA.
-
+## Chap. 8. (4.)—the Trees of India
 
 In describing the country of the Seres, we have already made
 mention[444] of the wool-bearing trees which it produces; and we have,
@@ -5193,11 +4647,7 @@ tree that is to be found there, is the palm. It was, probably, for this
 reason, that ebony held the third place in the tribute that was thus
 imposed.
 
-
-
-
-CHAP. 9.—WHEN EBONY WAS FIRST SEEN AT ROME. THE VARIOUS KINDS OF EBONY.
-
+## Chap. 9.—when Ebony Was First Seen at Rome. The Various Kinds of Ebony
 
 Pompeius Magnus displayed ebony on the occasion of his triumph over
 Mithridates. Fabianus declares, that this wood will give out no
@@ -5208,11 +4658,7 @@ shining, and pleasing to the eye, without any adventitious aid from
 art. The other kind of ebony is the produce of a shrub which resembles
 the cytisus, and is to be found scattered over the whole of India.
 
-
-
-
-CHAP. 10. (5.)—THE INDIAN THORN.
-
+## Chap. 10. (5.)—the Indian Thorn
 
 There is in India, also, a kind of thorn[453] very similar to ebony,
 though it may be distinguished from it, by the aid of a lantern even;
@@ -5221,11 +4667,7 @@ tree. We will now proceed to describe those trees which were the
 admiration of Alexander the Great in his victorious career, when that
 part of the world was first revealed by his arms.
 
-
-
-
-CHAP. 11.—THE INDIAN FIG.
-
+## Chap. 11.—the Indian Fig
 
 The Indian fig[454] bears but a small fruit. Always growing
 spontaneously, it spreads far and wide with its vast branches, the
@@ -5252,11 +4694,7 @@ are quite worthy of the marvellous tree by which they are produced.
 These fig-trees are found, more particularly, in the vicinity of the
 river Acesines.[455]
 
-
-
-
-CHAP. 12. (6.)—THE PALA: THE FRUIT CALLED ARIENA.
-
+## Chap. 12. (6.)—the Pala: The Fruit Called Ariena
 
 There is another tree[456] in India, of still larger size, and even
 more remarkable for the size and sweetness of its fruit, upon which the
@@ -5274,12 +4712,8 @@ a still sweeter fruit, though very apt to cause derangement of the
 bowels. Alexander issued strict orders, forbidding anyone in the
 expedition to touch this fruit.
 
-
-
-
 CHAP. 13.—INDIAN TREES, THE NAMES OF WHICH ARE UNKNOWN. INDIAN TREES
 WHICH BEAR FLAX.
-
 
 The Macedonians[460] have made mention of various other kinds of
 trees, the greater part of which, however, are without names. There
@@ -5294,12 +4728,8 @@ dog-rose.[463] This tree is reared in the plains, and there is no sight
 throughout the cultivated parts of the country that is more enchanting
 than the plantations of it.
 
-
-
-
 CHAP. 14. (7.)—THE PEPPER-TREE.—THE VARIOUS KINDS OF
 PEPPER—BREGMA—ZINGIBERI, OR ZIMPIBERI.
-
 
 The olive-tree[464] of India is unproductive, with the sole exception
 of the wild olive. In every part we meet with trees that bear
@@ -5353,11 +4783,7 @@ the property, to a marvellous degree, of assuming the pungency of
 pepper. In reference to its weight, there are also several methods of
 adulterating it.
 
-
-
-
-CHAP. 15.—CARYOPHYLLON, LYCION, AND THE CHIRONIAN PYXACANTHUS.
-
+## Chap. 15.—caryophyllon, Lycion, and the Chironian Pyxacanthus
 
 There is, also, in India another grain which bears a considerable
 resemblance to pepper, but is longer and more brittle; it is known by
@@ -5379,11 +4805,7 @@ Indians send it to us in leather bottles, made of the skin of the camel
 or the rhinoceros. The shrub itself is known by some persons in Greece
 under the name of the Chironian pyxacanthus.[472]
 
-
-
-
-CHAP. 16. (8.)—MACIR.
-
+## Chap. 16. (8.)—macir
 
 Macir,[473] too, is a vegetable substance that is brought from India,
 being a red bark that grows upon a large root, and bears the name of
@@ -5391,22 +4813,14 @@ the tree that produces it; what the nature of this tree is, I have not
 been able to ascertain. A decoction of this bark, mixed with honey, is
 greatly employed in medicine, as a specific for dysentery.
 
-
-
-
-CHAP. 17.—SUGAR.
-
+## Chap. 17.—sugar
 
 Arabia, too, produces sugar;[474] but that of India is the most
 esteemed. This substance is a kind of honey, which collects in reeds,
 white, like gum, and brittle to the teeth. The larger pieces are about
 the size of a filbert; it is only employed, however, in medicine.
 
-
-
-
-CHAP. 18.—TREES OF ARIANA, GEDROSIA, AND HYRCANIA.
-
+## Chap. 18.—trees of Ariana, Gedrosia, and Hyrcania
 
 On the frontiers of India is a country called Ariana, which produces
 a thorny shrub,[475] rendered precious by the tears which it distils.
@@ -5425,13 +4839,9 @@ Onesicritus states, that in the vallies of Hyrcania, there is a tree
 resembling the fig, and known as the occhus,[479] from which a honey
 distils for two hours every morning.
 
-
-
-
 CHAP. 19. (9.)—TREES OF BACTRIANA, BDELLIUM, OR BROCHON, OTHERWISE
 MALACHA, OR MALDACON, SCORDASTUM. ADULTERATIONS USED IN ALL SPICES AND
 AROMATICS; THE VARIOUS TESTS OF THEM AND THEIR RESPECTIVE VALUES.
-
 
 In the vicinity, too, of India, is Bactriana, in which region we find
 bdellium,[480] that is so highly esteemed. This tree is of a black
@@ -5461,11 +4871,7 @@ besides which, it should be of a certain weight, heavier or lighter
 than which it ought not to be. The price of bdellium, in its pure
 state, is three denarii per pound.
 
-
-
-
-CHAP. 20.—TREES OF PERSIS.
-
+## Chap. 20.—trees of Persis
 
 Adjoining the countries which we have previously mentioned is Persis,
 lying along the shores of the Red Sea, which, when describing[483] it,
@@ -5483,12 +4889,8 @@ marvellous; in appearance they strongly resemble the arbute; the fruit,
 which on the outside is very similar to the almond, has a spiral kernel
 within.[484]
 
-
-
-
 CHAP. 21. (10.)—TREES OF THE ISLANDS OF THE PERSIAN SEA. THE COTTON
 TREE.
-
 
 In the same gulf, there is the island of Tylos,[485] covered with a
 forest[486] on the side which looks towards the East, where it is
@@ -5508,12 +4910,8 @@ which a costly kind of linen cloth is made.
 island of Tylos, which is ten miles distant from the larger one,
 produces it in even greater abundance.
 
-
-
-
 CHAP. 22.—THE TREE CALLED CYNA. TREES FROM WHICH FABRICS FOR CLOTHING
 ARE MADE IN THE EAST.
-
 
 Juba states, that about a certain shrub there grows a woolly down, from
 which a fabric is manufactured, preferable even to those of India. He
@@ -5524,11 +4922,7 @@ the islands of Tylos, there is also another tree, with a blossom like
 the white violet[490] in appearance, though four times as large, but it
 is destitute of smell, a very remarkable fact in these climates.
 
-
-
-
-CHAP. 23.—A COUNTRY WHERE THE TREES NEVER LOSE THEIR LEAVES.
-
+## Chap. 23.—a Country Where the Trees Never Lose Their Leaves
 
 There is also another tree similar to the preceding one, but with a
 thicker foliage, and a blossom like the rose. This flower shuts[491] at
@@ -5539,11 +4933,7 @@ vine, and the fig, with various other kinds of fruit. None of the trees
 in this island lose their leaves;[492] it is abundantly watered by cool
 streams, and receives the benefit of rain.
 
-
-
-
-CHAP. 24.—THE VARIOUS USEFUL PRODUCTS OF TREES.
-
+## Chap. 24.—the Various Useful Products of Trees
 
 Arabia, which is in the vicinity of these islands, requires that we
 should make some distinction in its vegetable products, seeing that
@@ -5551,11 +4941,7 @@ here the various parts of trees which are employed for useful purposes
 are the root, the branches, the bark, the juices, the gum, the wood,
 the shoots, the blossoms, the leaves, and the fruit.
 
-
-
-
-CHAP. 25. (12.)—COSTUS.
-
+## Chap. 25. (12.)—costus
 
 A root and a leaf, however, are the productions which are held in the
 very highest estimation in India. The root is that of the costus;[493]
@@ -5565,11 +4951,7 @@ Patale,[494] situate at the very mouth of the river Indus, there
 are two kinds of costus found, the black and the white; the last is
 considered the best. The price of it is five denarii per pound.
 
-
-
-
-CHAP. 26.—NARD. THE TWELVE VARIETIES OF THE PLANT.
-
+## Chap. 26.—nard. The Twelve Varieties of the Plant
 
 Of the leaf, which is that of the nard,[495] it is only right to
 speak somewhat more at length, as it holds the principal place among
@@ -5628,11 +5010,7 @@ adulteration of nard, though it differs from it in the fact that it has
 no stem, and its leaves are smaller; the root, too, is not bitter, and
 is entirely destitute of smell.
 
-
-
-
-CHAP. 27. (13.)—ASARUM, OR FOAL-FOOT.
-
+## Chap. 27. (13.)—asarum, or Foal-Foot
 
 The herb asarum,[505] too, has the properties of nard, and, indeed,
 by some persons is known as wild nard. It has a leaf, however, more
@@ -5648,11 +5026,7 @@ been lately found a certain herb in some parts of Greece, the leaves of
 which do not differ in the slightest degree from those of the Indian
 nard.
 
-
-
-
-CHAP. 28.—AMOMUM.—AMOMIS.
-
+## Chap. 28.—amomum.—amomis
 
 The clustered amomum[506] is very extensively used; it grows upon a
 kind of wild vine that is found in India, though some persons have
@@ -5676,11 +5050,7 @@ amomis;[507] it is not so full of veins as amomum, harder, and not so
 odoriferous; from which it would appear, either that it is altogether a
 different plant, or else that it is amomum gathered in an unripe state.
 
-
-
-
-CHAP. 29.—CARDAMOMUM.
-
+## Chap. 29.—cardamomum
 
 Similar to these substances, both in name as well as the shrub which
 produces it, is the cardamomum,[508] the seeds of which are of an
@@ -5694,11 +5064,7 @@ little smell; which, in its genuine[509] state ought to be very similar
 to costum. Cardamomum grows also in Media. The price of the best is
 three denarii per pound.
 
-
-
-
-CHAP. 30.—THE COUNTRY OF FRANKINCENSE.
-
+## Chap. 30.—the Country of Frankincense
 
 Next in affinity to cardamomum would have been cinnamomum,[510] and
 this we should have now proceeded to speak of, were it not more
@@ -5743,11 +5109,7 @@ however, say, that the right of gathering incense in the forests
 belongs to all these people in common, while others again state, that
 they take their turns year by year.
 
-
-
-
-CHAP. 31.—THE TREES THAT BEAR FRANKINCENSE.
-
+## Chap. 31.—the Trees that Bear Frankincense
 
 Nor is it by any means agreed what is the appearance of the
 incense-tree. We have sent several expeditions against Arabia, and
@@ -5779,11 +5141,7 @@ have been brought among us, from which we have some reason to conclude
 that the parent tree is round and tapering, and that it puts forth its
 shoots from a trunk that is entirely free from knots.
 
-
-
-
-CHAP. 32.—VARIOUS KINDS OF FRANKINCENSE.
-
+## Chap. 32.—various Kinds of Frankincense
 
 In former times, when they had fewer opportunities of selling it, they
 used to gather the frankincense only once a year; but at the present
@@ -5886,11 +5244,7 @@ placed on heated coals; in addition to which, it should not give to the
 pressure of the teeth, but from its natural brittleness crumble all to
 pieces.
 
-
-
-
-CHAP. 33. (15.)—MYRRH.
-
+## Chap. 33. (15.)—myrrh
 
 According to some authors, myrrh[528] is the produce of a tree that
 grows in the same forests as the incense-tree, though most say that
@@ -5903,11 +5257,7 @@ and when thus cultivated is greatly preferred to that which is grown in
 the forests. The plant is greatly improved by raking and baring the
 roots; indeed, the cooler the roots are kept, the better it is.
 
-
-
-
-CHAP. 34.—THE TREES WHICH PRODUCE MYRRH.
-
+## Chap. 34.—the Trees Which Produce Myrrh
 
 The tree grows to the height of five cubits, and has thorns upon
 it: the trunk is hard and spiral, and thicker than that of the
@@ -5922,11 +5272,7 @@ though they have exactly the taste of the juniper. There have been some
 writers who have incorrectly asserted that both myrrh and frankincense
 are the product of the same tree.
 
-
-
-
-CHAP. 35.—THE NATURE AND VARIOUS KINDS OF MYRRH.
-
+## Chap. 35.—the Nature and Various Kinds of Myrrh
 
 Incisions are made in the myrrh-tree also twice a year, and at the same
 season as in the incense-tree; but in the case of the myrrh-tree they
@@ -5979,11 +5325,7 @@ worse quality than the corresponding produce of other countries: they
 may, however, be very easily distinguished, that of India being so very
 much inferior.
 
-
-
-
-CHAP. 36. (17.)—MASTICH.
-
+## Chap. 36. (17.)—mastich
 
 The transition, therefore,[536] is very easy to mastich, which grows
 upon another prickly shrub of India and Arabia, known by the name of
@@ -5999,11 +5341,7 @@ denarii per pound, while the black mastich sells at twelve. It is said
 that the mastich of Chios exudes from the lentisk in the form of a sort
 of gum: like frankincense, it is adulterated with resin.
 
-
-
-
-CHAP. 37.—LADANUM AND STOBOLON.
-
+## Chap. 37.—ladanum and Stobolon
 
 Arabia, too, still boasts of her ladanum.[538] Many writers have
 stated that this substance is the fortuitous result of an accidental
@@ -6062,11 +5400,7 @@ immediately discovered by their crackling in the fire. In addition to
 this, the genuine ladanum has more grits, or stony particles, adhering
 to it, than dust.
 
-
-
-
-CHAP. 38.—ENHÆMON.
-
+## Chap. 38.—enhæmon
 
 In Arabia, too, the olive-tree distils a sort of tear, with which
 the Indians make a medicament, known by the Greeks as enhæmon;[541]
@@ -6082,11 +5416,7 @@ for the perfumes of foreign parts, and import them from places at a
 considerable distance; so soon are men sated with what they have of
 their own, and so covetous are they of what belongs to others.
 
-
-
-
-CHAP. 39.—THE TREE CALLED BRATUS.
-
+## Chap. 39.—the Tree Called Bratus
 
 Hence it is, that they import from the country of the Elymæi[543] the
 wood of a tree called bratus,[544] which is similar in appearance to
@@ -6100,11 +5430,7 @@ by other wood. This tree grows in the countries that lie beyond the
 Pasitigris,[546] in the territory of the city of Sittaca, upon Mount
 Zagrus.
 
-
-
-
-CHAP. 40.—THE TREE CALLED STOBRUM.
-
+## Chap. 40.—the Tree Called Stobrum
 
 The Arabians import from Carmania also the wood of a tree called
 stobrum,[547] which they employ in fumigations, by steeping it in
@@ -6139,11 +5465,7 @@ to be found, but what the continual enjoyment of it begets loathing.
 They also burn this substance to drive away the serpents, which are
 extremely numerous in the forests which bear the odoriferous trees.
 
-
-
-
-CHAP. 41. (18.)—WHY ARABIA WAS CALLED “HAPPY.”
-
+## Chap. 41. (18.)—why Arabia Was Called “Happy.”
 
 Arabia produces neither cinnamon nor cassia; and this is the country
 styled “Happy” Arabia! False and ungrateful does she prove herself
@@ -6172,11 +5494,7 @@ our luxury and our women. How large a portion, too, I should like to
 know, of all these perfumes, really comes to the gods of heaven, and
 the deities of the shades below?
 
-
-
-
-CHAP. 42. (19.)—CINNAMOMUM.[552] XYLOCINNAMUM.
-
+## Chap. 42. (19.)—cinnamomum.[552] Xylocinnamum
 
 Fabulous antiquity, and Herodotus[553] more particularly, have related
 that cinnamomum and cassia are found in the nests of certain birds, and
@@ -6274,11 +5592,7 @@ gold: from it drops used to distil every year, which congealed in hard
 grains. It remained there until the temple was accidentally destroyed
 by fire.
 
-
-
-
-CHAP. 43.—CASSIA.
-
+## Chap. 43.—cassia
 
 Cassia[561] is a shrub also, which grows not far from the plains where
 cinnamon is produced, but in the mountainous localities; the branches
@@ -6322,21 +5636,13 @@ scorched colour which is produced by the excessive heat of the sun; nor
 has it, for the same reason, a similar smell to that which comes from
 the south.
 
-
-
-
-CHAP. 44.—CANCAMUM AND TARUM.
-
+## Chap. 44.—cancamum and Tarum
 
 From the confines of the country which produces cinnamon and cassia,
 cancamum[567] and tarum[568] are imported; but these substances are
 brought by way of the Nabatæan Troglodytæ, a colony of the Nabatæi.
 
-
-
-
-CHAP. 45. (21.)—SERICHATUM AND GABALIUM.
-
+## Chap. 45. (21.)—serichatum and Gabalium
 
 Thither, too, are carried serichatum[569] and gabalium, aromatics
 which the Arabians rear for their own consumption, and which are only
@@ -6345,11 +5651,7 @@ country as cinnamon and cassia. Still, however, serichatum does reach
 us occasionally, and is employed by some persons in the manufacture of
 unguents. It is purchased at the rate of six denarii per pound.
 
-
-
-
-CHAP. 46.—MYROBALANUM.
-
+## Chap. 46.—myrobalanum
 
 In the country of the Troglodytæ, the Thebais, and the parts of Arabia
 which separate Judæa from Egypt, myrobalanum[570] is commonly found; it
@@ -6378,11 +5680,7 @@ a black shell, but the kernel is white. The perfumers, however, only
 extract the juices from the shells; but medical men pound the kernels,
 pouring warm water on them, little by little, as they do it.
 
-
-
-
-CHAP. 47. (22.)—PHŒNICOBALANUS.
-
+## Chap. 47. (22.)—phœnicobalanus
 
 The fruit of the palm in Egypt, which is known by the name of
 adipsos,[573] is put to a similar use in unguents, and is held next
@@ -6394,11 +5692,7 @@ inebriate the person who eats of it. The price of myrobalanum is two
 denarii per pound. The shop-keepers give this name also to the dregs of
 the unguent that is made with it.
 
-
-
-
-CHAP. 48.—THE SWEET-SCENTED CALAMUS;[575] THE SWEET-SCENTED RUSH.
-
+## Chap. 48.—the Sweet-Scented Calamus;[575] the Sweet-Scented Rush
 
 Scented calamus also, which grows in Arabia, is common to both India
 and Syria, that which grows in the last country being superior to
@@ -6425,11 +5719,7 @@ when broken. The price of the scented calamus is eleven, and of the
 rush fifteen denarii per pound. It is said that the sweet-scented rush
 is to be met with also in Campania.
 
-
-
-
-CHAP. 49.—HAMMONIACUM.
-
+## Chap. 49.—hammoniacum
 
 We have now departed from the lands which look towards the ocean to
 enter upon those which have an aspect towards our seas. (23.) Africa,
@@ -6446,11 +5736,7 @@ it during its growth: hence it is greatly preferred when the pieces
 are extremely small, and in the purest state possible. The price of
 hammoniacum of the best quality is forty asses per pound.
 
-
-
-
-CHAP. 50.—SPHAGNOS.
-
+## Chap. 50.—sphagnos
 
 Below these countries, and in the province of Cyrenaica, the perfume
 called sphagnos[578] is found in the highest state of perfection: there
@@ -6467,11 +5753,7 @@ The sphagnos, too, that is produced on islands and among rocks,[579] is
 held in no esteem, as well as all those varieties which have the odour
 of the palm-tree, and not that which is so peculiarly their own.
 
-
-
-
-CHAP. 51.—CYPROS.
-
+## Chap. 51.—cypros
 
 The cyprus[580] is a tree of Egypt, with the leaves of the
 ziziphus,[581] and seeds like coriander,[582] white and odoriferous.
@@ -6483,11 +5765,7 @@ third in estimation for the sweetness of its odour, from the island
 of Cyprus. Some people will have it that this is the same as the tree
 which in Italy we call ligustrum.[583]
 
-
-
-
-CHAP. 52.—ASPALATHOS, OR ERYSISCEPTRUM.
-
+## Chap. 52.—aspalathos, or Erysisceptrum
 
 In the same country,[584] too, grows aspalathos,[585] a white, thorny
 shrub, the size of a moderate tree, and with flowers like the rose, the
@@ -6500,21 +5778,13 @@ of its genuineness is its red or fiery colour; it is also compact to
 the touch, and has the smell of castoreum:[587] it is sold at the rate
 of five denarii per pound.
 
-
-
-
-CHAP. 53.—MARON.
-
+## Chap. 53.—maron
 
 In Egypt, too, grows marum,[588] though of inferior quality to that of
 Lydia, which last has larger leaves, covered with spots. Those of the
 other are shorter and smaller, and give out a powerful scent.
 
-
-
-
-CHAP. 54. (25.)—BALSAMUM; OPOBALSAMUM; AND XYLOBALSAMUM.
-
+## Chap. 54. (25.)—balsamum; Opobalsamum; And Xylobalsamum
 
 But to all other odours that of balsamum[589] is considered preferable,
 a plant that has been only bestowed by Nature upon the land of Judæa.
@@ -6630,11 +5900,7 @@ denarii, is sold again for a thousand, so vast is the profit to be
 derived from increasing this liquid by sophistication. The price of
 xylobalsamum is six denarii per pound.
 
-
-
-
-CHAP. 55.—STORAX.
-
+## Chap. 55.—storax
 
 That part of Syria joining up to Judæa, and lying above Phœnicia,
 produces storax, which is found in the vicinity of Gabala and
@@ -6659,11 +5925,7 @@ of storax of the best quality is seventeen denarii per pound. It comes
 also from Pamphylia, but this last is more arid, and not so full of
 juice.
 
-
-
-
-CHAP. 56.—GALBANUM.
-
+## Chap. 56.—galbanum
 
 Syria produces galbanum too, which grows upon the same mountain of
 Amanus: it exudes from a kind of giant-fennel[598] of the same name
@@ -6675,11 +5937,7 @@ pure state, it has the property of driving away serpents[600] by its
 smoke. It is sold at five denarii per pound, and is only employed for
 medicinal purposes.
 
-
-
-
-CHAP. 57. (26.)—PANAX.
-
+## Chap. 57. (26.)—panax
 
 Syria, too, furnishes panax,[601] an ingredient used in unguents.
 This plant grows also at Psophis in Arcadia, about the sources of the
@@ -6695,11 +5953,7 @@ whiteness. The next in value is that of a pallid colour, while the
 black is held in no esteem. The price of that of the best quality is
 two denarii per pound.
 
-
-
-
-CHAP. 58.—SPONDYLIUM.
-
+## Chap. 58.—spondylium
 
 The difference between this kind of giant-fennel and that known as
 spondylium,[602] consists only in the leaf, which is smaller, and
@@ -6707,11 +5961,7 @@ divided like that of the plane-tree. It grows in shady places only. The
 seed bears the same name as the plant, and has a strong resemblance to
 that of hart-wort: it is only employed in medicine.
 
-
-
-
-CHAP. 59.—MALOBATHRUM.
-
+## Chap. 59.—malobathrum
 
 Syria produces the malobathrum[603] also, a tree which bears a folded
 leaf, with just the colour of a leaf when dried. From this plant an
@@ -6727,11 +5977,7 @@ drug ranges are something quite marvellous, being from one denarius to
 four hundred per pound; as for the leaf, it generally sells at sixty
 denarii per pound.
 
-
-
-
-CHAP. 60. (27.)—OMPHACIUM.
-
+## Chap. 60. (27.)—omphacium
 
 Omphacium[604] is also a kind of oil, which is obtained from two
 trees, the olive and the vine, by two different methods. It is
@@ -6753,11 +5999,7 @@ price at which it sells is six denarii per pound. Omphacium is also
 made another way—the unripe grape is pounded in a mortar, after which
 it is dried in the sun, and then divided into lozenges.
 
-
-
-
-CHAP. 61. (28.)—BRYON, ŒNANTHE, AND MASSARIS.
-
+## Chap. 61. (28.)—bryon, Œnanthe, and Massaris
 
 Bryon[608] also bears an affinity to these substances, being the
 clusters of berries produced by the white poplar. The best kinds grow
@@ -6777,11 +6019,7 @@ from Africa, it is solely used for medicinal purposes, being known by
 the name of massaris.[611] Whatever country it may happen to be, the
 white wild vine produces an œnanthe of superior quality to the black.
 
-
-
-
-CHAP. 62.—ELATE OR SPATHE.
-
+## Chap. 62.—elate or Spathe
 
 There is another tree[612] also, that contributes to the manufacture of
 unguents, by some persons known under the name of elate, but which we
@@ -6792,11 +6030,7 @@ places that are destitute of water. The tears of it are of an unctuous
 nature, and are employed as an ingredient in unguents, to modify the
 harshness of the oil.
 
-
-
-
-CHAP. 63.—CINNAMON OR COMACUM.
-
+## Chap. 63.—cinnamon or Comacum
 
 In Syria, too, is produced that kind of cinnamon which is also known as
 comacum.[613] This is a juice which is extracted from a nut, and very
@@ -6804,10 +6038,8 @@ different from the extract of the real cinnamomum, though it somewhat
 resembles it in its agreeable smell. The price at which it sells is
 forty asses per pound.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, nine
 hundred and seventy-four.
-
 
 ROMAN AUTHORS QUOTED.—M. Varro,[614] Mucianus,[615] Virgil,[616]
 Fabianus,[617] Sebosus,[618] Pomponius Mela,[619] Flavius,[620]
@@ -6815,7 +6047,6 @@ Procilius,[621] Hyginus,[622] Trogus,[623] Claudius Cæsar,[624]
 Cornelius Nepos,[625] Sextus Niger[626] who wrote a Greek treatise
 on Medicine, Cassius Hemina,[627] L. Piso,[628] Tuditanus,[629]
 Antias.[630]
-
 
 FOREIGN AUTHORS QUOTED.—Theophrastus,[631] Herodotus,[632]
 Callisthenes,[633] Isigonus,[634] Clitarchus,[635] Anaximenes,[636]
@@ -6832,18 +6063,11 @@ Euphron[666] the physician, Mnesides[667] the physician, Diagoras[668]
 the physician, Iollas[669] the physician, Heraclides[670] of Tarentum,
 Xenocrates[671] of Ephesus, Eratosthenes.[672]
 
+## Book XIII
 
+## The Natural History of Exotic Trees, and an Account of Unguents
 
-
-BOOK XIII.
-
-THE NATURAL HISTORY OF EXOTIC TREES, AND AN ACCOUNT OF UNGUENTS.
-
-
-
-
-CHAP. 1. (1.)—UNGUENTS—AT WHAT PERIOD THEY WERE FIRST INTRODUCED.
-
+## Chap. 1. (1.)—unguents—at What Period They Were First Introduced
 
 Thus far we have been speaking of the trees which are valuable for the
 odours they produce, and each of which is a subject for our wonder in
@@ -6873,11 +6097,7 @@ Those perfumes which are not the produce of shrubs[679] will only be
 mentioned for the present by name: the nature of them will, however, be
 stated in their appropriate places.
 
-
-
-
-CHAP. 2.—THE VARIOUS KINDS OF UNGUENTS—TWELVE PRINCIPAL COMPOSITIONS.
-
+## Chap. 2.—the Various Kinds of Unguents—twelve Principal Compositions
 
 The names of unguents are due, some of them, to the original place of
 their composition, others, again, to the extracts which form their
@@ -7033,11 +6253,7 @@ of the iris, which grows in Illyricum, and the nard, which is to be
 found in Gaul: as to the wine, the rose, the leaves of myrtle, and the
 olive-oil, they are possessed by pretty nearly all countries in common.
 
-
-
-
-CHAP. 3.—DIAPASMA, MAGMA; THE MODE OF TESTING UNGUENTS.
-
+## Chap. 3.—diapasma, Magma; The Mode of Testing Unguents
 
 Those unguents which are known by the name of “diapasma,”[753] are
 composed of dried perfumes. The lees[754] of unguents are known by
@@ -7051,11 +6267,7 @@ away in a shady place in vessels of lead. When their goodness is being
 tested, they are placed on the back of the hand, lest the heat of the
 palm, which is more fleshy, should have a bad effect upon them.
 
-
-
-
-CHAP. 4. (3.)—THE EXCESSES TO WHICH LUXURY HAS RUN IN UNGUENTS.
-
+## Chap. 4. (3.)—the Excesses to Which Luxury Has Run in Unguents
 
 These perfumes form the objects of a luxury which may be looked upon
 as being the most superfluous of any, for pearls and jewels, after
@@ -7101,11 +6313,7 @@ conquest[768] of the world: thus do we seek to obtain their patronage
 and sanction for our vices, and make them our precedent for using
 unguents even beneath the casque.[769]
 
-
-
-
-CHAP. 5.—WHEN UNGUENTS WERE FIRST USED BY THE ROMANS.
-
+## Chap. 5.—when Unguents Were First Used by the Romans
 
 I cannot exactly say at what period the use of unguents first found
 its way to Rome. It is a well-known fact, that when King Antiochus and
@@ -7125,11 +6333,7 @@ the guilt[775] attending his proscription. For who is there that can
 be of opinion that such men as this do not richly deserve to come to a
 violent end?
 
-
-
-
-CHAP. 6.—THE PALM-TREE.
-
+## Chap. 6.—the Palm-Tree
 
 In other respects, Egypt is the country that is the best suited of all
 for the production of unguents; and next to it, Campania,[776] from its
@@ -7150,11 +6354,7 @@ Italy that grow spontaneously,[782] nor, in fact, in any other part of
 the world, with the exception of the warm countries: indeed, it is only
 in the very hottest climates that this tree will bear fruit.
 
-
-
-
-CHAP. 7.—THE NATURE OF THE PALM-TREE.
-
+## Chap. 7.—the Nature of the Palm-Tree
 
 The palm-tree grows in a light and sandy soil, and for the most part of
 a nitrous quality. It loves the vicinity of flowing water; and as it
@@ -7237,11 +6437,7 @@ the blossoms and the down[795] gathered from off the male trees, and,
 indeed, sometimes by only sprinkling the dust from off them on the
 female trees.
 
-
-
-
-CHAP. 8.—HOW THE PALM-TREE IS PLANTED.
-
+## Chap. 8.—how the Palm-Tree Is Planted
 
 Palm-trees are also propagated by planting;[796] the trunk is first
 divided with certain fissures two cubits in length which communicate
@@ -7272,12 +6468,8 @@ tree is about the height of a man. So long as the tree is quite young
 the fruit has no seed within, from which circumstance it has received
 the nickname of the “eunuch.”[799]
 
-
-
-
 CHAP. 9.—THE DIFFERENT VARIETIES OF PALM-TREES, AND THEIR
 CHARACTERISTICS.
-
 
 There are numerous varieties of the palm-tree. In Assyria, and
 throughout the whole of Persis, the barren kinds are made use of for
@@ -7398,12 +6590,8 @@ when in a fresh state, they are so remarkably luscious, that there
 would be no end to eating them, were it not for fear of the dangerous
 consequences that would be sure to ensue.
 
-
-
-
 CHAP. 10. (5.)—THE TREES OF SYRIA: THE PISTACIA, THE COTTANA, THE
 DAMASCENA, AND THE MYXA.
-
 
 In addition to the palm, Syria has several trees that are peculiar to
 itself. Among the nut-trees there is the pistacia,[822] well known
@@ -7415,12 +6603,8 @@ too, which grows upon Mount Damascus,[824] as also that known as the
 “myxa;”[825] these last two are, however, now naturalized in Italy. In
 Egypt, too, they make a kind of wine from the myxa.
 
-
-
-
 CHAP. 11.—THE CEDAR. TREES WHICH HAVE ON THEM THE FRUIT OF THREE YEARS
 AT ONCE.
-
 
 Phœnicia, too, produces a small cedar, which bears a strong resemblance
 to the juniper.[826] Of this tree there are two varieties; the one
@@ -7441,11 +6625,7 @@ a statue of Apollo Sosianus[830] in cedar, originally brought from
 Seleucia. There is a tree similar to the cedar, found also in Arcadia;
 and there is a shrub that grows in Phrygia, known as the “cedrus.”
 
-
-
-
-CHAP. 12. (6.)—THE TEREBINTH.[831]
-
+## Chap. 12. (6.)—the Terebinth.[831]
 
 Syria, too, produces the terebinth, the male tree of which bears no
 fruit, and the female consists of two different varieties;[832] one
@@ -7461,11 +6641,7 @@ the leaves are dense, and closely packed. It produces follicules, too,
 from which issue certain insects like gnats, as also a kind of resinous
 liquid[833] which oozes from the bark.
 
-
-
-
-CHAP. 13.—THE SUMACH-TREE.
-
+## Chap. 13.—the Sumach-Tree
 
 The male sumach-tree[834] of Syria is productive, but the female is
 barren. The leaf resembles that of the elm, though it is a little
@@ -7476,11 +6652,7 @@ The seed, which strongly resembles a lentil in appearance, turns red
 with the grape; it is known by the name of “ros,” and forms a necessary
 ingredient in various medicaments.[836]
 
-
-
-
-CHAP. 14. (7.)—THE TREES OF EGYPT. THE FIG-TREE OF ALEXANDRIA.
-
+## Chap. 14. (7.)—the Trees of Egypt. The Fig-Tree of Alexandria
 
 Egypt, too, has many trees which are not to be found elsewhere, and the
 kind of fig more particularly, which for this reason has been called
@@ -7505,11 +6677,7 @@ additional moisture sucks it dry, which has the effect of penetrating
 and soaking all[841] other kinds of wood. It is a sign that it is fit
 for use[842] when it begins to float.
 
-
-
-
-CHAP. 15.—THE FIG-TREE OF CYPRUS.
-
+## Chap. 15.—the Fig-Tree of Cyprus
 
 The fig-tree that grows in Crete, and is known there as the Cyprian
 fig,[843] bears some resemblance to the preceding one; for it bears
@@ -7524,11 +6692,7 @@ The sweetness of the fruit and the appearance of the inside are in all
 respects similar to those of the fig, and in size it is about as large
 as a sorb-apple.
 
-
-
-
-CHAP. 16. (8.)—THE CAROB-TREE.
-
+## Chap. 16. (8.)—the Carob-Tree
 
 Similar to this is the carob-tree, by the Ionians known as the
 “ceraunia,”[846] which in a similar manner bears fruit from the trunk,
@@ -7545,12 +6709,8 @@ Dog-star, fresh fruit immediately makes its appearance; after which the
 tree blossoms while the constellation of Arcturus[848] is above the
 horizon, and the winter imparts nourishment to the fruit.
 
-
-
-
 CHAP. 17. (9.)—THE PERSIAN TREE. IN WHAT TREES THE FRUITS GERMINATE THE
 ONE BELOW THE OTHER.
-
 
 Egypt, too, produces another tree of a peculiar description, the
 Persian[849] tree, similar in appearance to the pear-tree, but
@@ -7570,11 +6730,7 @@ although very durable, is not so highly esteemed as this, as it is
 knotted and twisted in the greater part: hence it is only employed for
 the purposes of ship-building.
 
-
-
-
-CHAP. 18.—THE CUCUS.
-
+## Chap. 18.—the Cucus
 
 On the other hand, the wood of the cucus[853] is held in very high
 esteem. It is similar in nature to the palm, as its leaves are
@@ -7589,11 +6745,7 @@ that it can only be eaten after being soaked in water for several days.
 The wood is beautifully mottled with circling veins,[855] for which
 reason it is particularly esteemed among the Persians.
 
-
-
-
-CHAP. 19.—THE EGYPTIAN THORN.
-
+## Chap. 19.—the Egyptian Thorn
 
 No less esteemed, too, in the same country, is a certain kind of
 thorn,[856] though only the black variety, its wood being imperishable,
@@ -7626,11 +6778,7 @@ it has leaves which have all the appearance of wings, and which fall
 immediately the branch is touched by any one, and then immediately
 shoot again.
 
-
-
-
-CHAP. 20. (11.)—NINE KINDS OF GUM. THE SARCOCOLLA.
-
+## Chap. 20. (11.)—nine Kinds of Gum. The Sarcocolla
 
 It is universally agreed, that the best gum is that produced from the
 Egyptian thorn;[860] it is of variegated appearance, of azure colour,
@@ -7649,11 +6797,7 @@ and medical men; it is similar to incense dust in appearance, and for
 those purposes the white kind is preferable to the red. The price of it
 is the same as that mentioned above.[868]
 
-
-
-
-CHAP. 21.—THE PAPYRUS: THE USE OF PAPER; WHEN IT WAS FIRST INVENTED.
-
+## Chap. 21.—the Papyrus: The Use of Paper; When It Was First Invented
 
 We have not as yet taken any notice of the marsh plants, nor yet of
 the shrubs that grow upon the banks of rivers: before quitting Egypt,
@@ -7683,11 +6827,7 @@ as Varro relates, parchment was invented for a similar purpose at
 Pergamus. After this, the use of that commodity, by which immortality
 is ensured to man, became universally known.
 
-
-
-
-CHAP. 22.—THE MODE OF MAKING PAPER.
-
+## Chap. 22.—the Mode of Making Paper
 
 Papyrus grows either in the marshes of Egypt, or in the sluggish waters
 of the river Nile, when they have overflowed and are lying stagnant,
@@ -7714,11 +6854,7 @@ kind of paper may easily be produced: still, however, up to the present
 time the Parthians have preferred to impress[881] their characters upon
 cloths.
 
-
-
-
-CHAP. 23. (12)—THE NINE DIFFERENT KINDS OF PAPER.
-
+## Chap. 23. (12)—the Nine Different Kinds of Paper
 
 Paper is made from the papyrus, by splitting it with a needle into
 very thin leaves, due care being taken that they should be as broad
@@ -7763,11 +6899,7 @@ another, the best sheets being always taken first, and the inferior
 ones added afterwards. There are never more than twenty of these sheets
 to a roll.[893]
 
-
-
-
-CHAP. 24.—THE MODE OF TESTING THE GOODNESS OF PAPER.
-
+## Chap. 24.—the Mode of Testing the Goodness of Paper
 
 There is a great difference in the breadth of the various kinds of
 paper. That of best quality[894] is thirteen fingers wide, while the
@@ -7799,11 +6931,7 @@ used for the purposes of epistolary correspondence. The Livian, which
 had nothing in common with that of first quality, but was entirely of a
 secondary rank, still holds its former place.
 
-
-
-
-CHAP. 25.—THE PECULIAR DEFECTS IN PAPER.
-
+## Chap. 25.—the Peculiar Defects in Paper
 
 The roughness and inequalities in paper are smoothed down with a
 tooth[898] or shell; but the writing in such places is very apt to
@@ -7821,11 +6949,7 @@ forming the letters; so many are the openings for fraud to be put in
 practice. The consequence is, that another labour has been added to the
 due preparation of paper.
 
-
-
-
-CHAP. 26.—THE PASTE USED IN THE PREPARATION OF PAPER.
-
+## Chap. 26.—the Paste Used in the Preparation of Paper
 
 The common paper paste is made of the finest flour of wheat mixed with
 boiling water, and some small drops of vinegar sprinkled in it: for the
@@ -7845,11 +6969,7 @@ poet, a very illustrious citizen, almost two hundred years since those
 characters were penned. As for the handwriting of Cicero, Augustus, and
 Virgil, we frequently see them at the present day.
 
-
-
-
-CHAP. 27. (13.)—THE BOOKS OF NUMA.
-
+## Chap. 27. (13.)—the Books of Numa
 
 There are some facts of considerable importance which make against the
 opinion expressed by M. Varro, relative to the invention of paper.
@@ -7908,11 +7028,7 @@ a scarcity[912] of paper that members of the senate were appointed
 to regulate the distribution of it: had not this been done, all the
 ordinary relations of life would have been completely disarranged.
 
-
-
-
-CHAP. 28. (14.)—THE TREES OF ÆTHIOPIA.
-
+## Chap. 28. (14.)—the Trees of Æthiopia
 
 Æthiopia, which borders upon Egypt, has in general no remarkable trees,
 with the exception of the wool-bearing[913] ones, of which we have had
@@ -7925,12 +7041,8 @@ palms, of which we have spoken already.[915] In describing the islands
 along the coast of Æthiopia, we have already made mention[916] of their
 trees and their odoriferous forests.
 
-
-
-
 CHAP. 29. (15.)—THE TREES OF MOUNT ATLAS. THE CITRUS, AND THE TABLES
 MADE OF THE WOOD THEREOF.
-
 
 Mount Atlas is said to possess a forest of trees of a peculiar
 character,[917] of which we have already spoken.[918] In the vicinity
@@ -7981,11 +7093,7 @@ appearance of the trunk. A spot called Mount Ancorarius, in Nearer
 Mauretania, used formerly to furnish the most esteemed citrus-wood, but
 at the present day the supply is quite exhausted.
 
-
-
-
-CHAP. 30.—THE POINTS THAT ARE DESIRABLE OR OTHERWISE IN THESE TABLES.
-
+## Chap. 30.—the Points that Are Desirable or Otherwise in These Tables
 
 The principal merit of these tables is to have veins[927] arranged in
 waving lines, or else forming spirals like so many little whirlpools.
@@ -8053,11 +7161,7 @@ that are made of it; indeed, we have no more ancient accounts of them
 than those of the time of Cicero, from which it would appear that they
 are a comparatively recent invention.
 
-
-
-
-CHAP. 31.—THE CITRON-TREE.
-
+## Chap. 31.—the Citron-Tree
 
 There is another tree also which has the same name of “citrus,”[939]
 and bears a fruit that is held by some persons in particular dislike
@@ -8065,11 +7169,7 @@ for its smell and remarkable bitterness; while, on the other hand,
 there are some who esteem it very highly. This tree is used as an
 ornament to houses; it requires, however, no further description.
 
-
-
-
-CHAP. 32. (17.)—THE LOTUS.
-
+## Chap. 32. (17.)—the Lotus
 
 Africa, too, at least that part of it which looks towards our shores,
 produces a remarkable tree, the lotus,[940] by some known as the
@@ -8134,11 +7234,7 @@ lies within this skin is white, and forms very pleasant food, but is
 better cooked, either in water or upon hot ashes, then in a raw state.
 Swine fatten upon nothing better than the peelings of this root.
 
-
-
-
-CHAP. 33. (19.)—THE TREES OF CYRENAICA. THE PALIURUS.
-
+## Chap. 33. (19.)—the Trees of Cyrenaica. The Paliurus
 
 The region of Cyrenaica places before the lotus its paliurus,[950]
 which is more like a shrub in character, and bears a fruit of a redder
@@ -8150,11 +7246,7 @@ is covered with palms, remarkable for their extraordinary size and
 the lusciousness of their fruit. The most celebrated are those in the
 vicinity of the Temple of Jupiter Hammon.
 
-
-
-
-CHAP. 34.—NINE VARIETIES OF THE PUNIC APPLE. BALAUSTIUM.
-
+## Chap. 34.—nine Varieties of the Punic Apple. Balaustium
 
 But the vicinity of Carthage is claimed more particularly as its own
 by the fruit the name of which is the “Punic apple;”[951] though by
@@ -8173,12 +7265,8 @@ this tree is known by the name of “balaustium,” and is very useful for
 medicinal purposes;[956] also for dyeing cloths a colour which from it
 has derived its name.[957]
 
-
-
-
 CHAP. 35. (20.)—THE TREES OF ASIA AND GREECE; THE EPIPACTIS, THE ERICA,
 THE CNIDIAN GRAIN OR THYMELÆA, PYROSACHNE, CNESTRON, OR CNEORON.
-
 
 In Asia and Greece are produced the following shrubs, the
 epipactis,[958] by some known as “elleborine,” the leaves of which are
@@ -8195,11 +7283,7 @@ has a gummy taste in the mouth. The shrub is of about the size of the
 myrtle; its seed is of the same colour and appearance, but is solely
 used for medicinal purposes.
 
-
-
-
-CHAP. 36.—THE TRAGION: TRAGACANTHE.
-
+## Chap. 36.—the Tragion: Tragacanthe
 
 The island of Crete is the only place that produces the shrub called
 “tragion.”[963] It is similar in appearance to the terebinth;[964]
@@ -8209,11 +7293,7 @@ tragacanthe[965] also, with a root which resembles that of the white
 thorn; it is very much preferred[966] to that which is grown in Media
 or in Achaia; the price at which it sells is three denarii per pound.
 
-
-
-
-CHAP. 37.—THE TRAGOS OR SCORPIO; THE MYRICA OR BRYA; THE OSTRYS.
-
+## Chap. 37.—the Tragos or Scorpio; The Myrica or Brya; The Ostrys
 
 Asia, too, produces the tragos[967] or scorpio, a thorny shrub,
 destitute of leaves, with red clusters upon it that are employed
@@ -8233,11 +7313,7 @@ form and colour. The wood is hard and solid; it is said, that if it is
 introduced into a house, it is productive of painful deliveries and of
 shocking deaths.
 
-
-
-
-CHAP. 38. (22.)—THE EUONYMOS.
-
+## Chap. 38. (22.)—the Euonymos
 
 There is no tree productive of a more auspicious presage than one which
 grows in the Isle of Lesbos, and is known by the name of euonymos.[972]
@@ -8251,11 +7327,7 @@ make and poisonous to animals. The leaf, too, has the same noxious
 effects; sometimes, however, a speedy alvine discharge is found to give
 relief on such occasions.
 
-
-
-
-CHAP. 39.—THE TREE CALLED EON.
-
+## Chap. 39.—the Tree Called Eon
 
 Alexander Cornelius has called a tree by the name of “eon,”[976] with
 the wood of which, he says, the ship Argo was built. This tree has on
@@ -8264,11 +7336,7 @@ injury from either fire or water, in the same manner, in fact, as that
 of no other tree known. This tree, however, appears to have been known
 to no other author, that I am aware of.
 
-
-
-
-CHAP. 40.—THE ANDRACHLE.[977]
-
+## Chap. 40.—the Andrachle.[977]
 
 Nearly all the Greek writers interpret the name of the tree called
 “andrachle,” as meaning the same as “purslain:”[978] whereas purslain
@@ -8279,11 +7347,7 @@ only that its leaves are smaller, and never fall off. The bark, too, is
 not rough, but might be taken to be frozen all over, so truly wretched
 is its appearance.
 
-
-
-
-CHAP. 41.—THE COCCYGIA; THE APHARCE.
-
+## Chap. 41.—the Coccygia; The Apharce
 
 Similar, too, in leaf to the preceding tree, is the coccygia,[979]
 though not so large; it has this peculiarity, that it loses its fruit
@@ -8294,11 +7358,7 @@ the grape is beginning to flower the first fruit is ripening, while the
 second fruit ripens at the commencement of winter; of what nature this
 fruit is we do not find stated.
 
-
-
-
-CHAP. 42.—THE FERULA.
-
+## Chap. 42.—the Ferula
 
 We ought to place the ferula[982] also in the number of the exotics,
 and as making one of the trees. For, in fact, we distinguish the trees
@@ -8317,11 +7377,7 @@ in its fruit. The wood of no shrub is lighter than this; hence it is
 very easily carried, and the stalks of it make good walking-sticks[985]
 for the aged.
 
-
-
-
-CHAP. 43.—THE THAPSIA.
-
+## Chap. 43.—the Thapsia
 
 The seed of the ferula has been by some persons called “thapsia;”[986]
 deceived, no doubt, by what is really the fact, that the thapsia is
@@ -8360,11 +7416,7 @@ all rumours, by appearing with a whole skin.[991] It is a well-known
 fact, that fire[992] is kept alight remarkably well in the hollow stalk
 of the ferula, and that for this purpose those of Egypt are the best.
 
-
-
-
-CHAP. 44. (23.)—THE CAPPARIS OR CYNOSBATON, OTHERWISE OPHIOSTAPHYLE.
-
+## Chap. 44. (23.)—the Capparis or Cynosbaton, Otherwise Ophiostaphyle
 
 In Egypt, too, the capparis[993] is found, a shrub with a wood of
 much greater solidity. The seed of it is a well-known article of
@@ -8377,11 +7429,7 @@ is productive of vomiting, and causes derangement in the stomach and
 intestines. Some persons call this shrub “cynosbaton,”[996] others,
 again, “ophiostaphyle.”[997]
 
-
-
-
-CHAP. 45.—THE SARIPHA.
-
+## Chap. 45.—the Saripha
 
 The saripha,[998] too, that grows on the banks of the Nile, is one of
 the shrub genus. It is generally about two cubits in height, and of
@@ -8389,11 +7437,7 @@ the thickness of one’s thumb: it has the foliage of the papyrus, and
 is eaten in a similar manner. The root, in consequence of its extreme
 hardness, is used as a substitute for charcoal in forging iron.
 
-
-
-
-CHAP. 46. (24.)—THE ROYAL THORN.
-
+## Chap. 46. (24.)—the Royal Thorn
 
 We must take care, also, not to omit a peculiar shrub that is planted
 at Babylon, and only upon a thorny plant there, as it will not live
@@ -8406,11 +7450,7 @@ takes possession of the whole tree. They use it in the preparation of
 wine, and it is for this purpose that it is planted. This thorn grows
 at Athens also, upon the Long Walls there.[1000]
 
-
-
-
-CHAP. 47.—THE CYTISUS.
-
+## Chap. 47.—the Cytisus
 
 The cytisus[1001] is also a shrub, which, as a food for sheep, has been
 extolled with wonderful encomiums by Aristomachus the Athenian, and, in
@@ -8459,12 +7499,8 @@ cold, from hail, and from snow: and, as Hyginus adds, against the
 depredations of the enemy even, the wood[1004] produced being of no
 value whatever.
 
-
-
-
 CHAP. 48. (25.)—THE TREES AND SHRUBS OF THE MEDITERRANEAN. THE PHYCOS,
 PRASON, OR ZOSTER.
-
 
 Shrubs and trees grow in the sea[1005] as well; those of our sea[1006]
 are of inferior size, while, on the other hand, the Red Sea and all the
@@ -8484,11 +7520,7 @@ very best quality. A third kind,[1014] again, is similar in appearance
 to grass; the root of it is knotted, and so is the stalk, which
 resembles that of a reed.
 
-
-
-
-CHAP. 49.—THE SEA BRYON.
-
+## Chap. 49.—the Sea Bryon
 
 There is another kind of marine shrub, known by the name of
 “bryon;”[1015] it has the leaf of the lettuce, only that it is of a
@@ -8506,11 +7538,7 @@ that grows with the leaf of the leek, and others with those of the
 carrot,[1022] and of thyme. Both of these last, when thrown up by the
 tide, are transformed[1023] into pumice.
 
-
-
-
-CHAP. 50.—PLANTS OF THE RED SEA.
-
+## Chap. 50.—plants of the Red Sea
 
 In the East, it is a very remarkable thing, that immediately after
 leaving Coptos, as we pass through the deserts, we find nothing
@@ -8525,11 +7553,7 @@ and they are all filled with sea-dogs,[1027] to such a degree, that it
 is hardly safe to look at them from the ship, for they will frequently
 seize hold of the very oars.
 
-
-
-
-CHAP. 51.—PLANTS OF THE INDIAN SEA.
-
+## Chap. 51.—plants of the Indian Sea
 
 The officers[1028] of Alexander who navigated the Indian seas, have
 left an account of a marine tree, the foliage of which is green while
@@ -8556,12 +7580,8 @@ the same persons making mention of certain other trees which they saw
 out at sea, which always retained their leaves, and bore a fruit very
 similar to the lupine.
 
-
-
-
 CHAP. 52.—THE PLANTS OF THE TROGLODYTIC SEA; THE HAIR OF ISIS: THE
 CHARITO-BLEPHARON.
-
 
 Juba relates, that about the islands of the Troglodytæ there is
 a certain shrub found out at sea, which is known as the “hair of
@@ -8576,10 +7596,8 @@ be taken, and that it turns as hard as horn, so hard, indeed, as to
 blunt the edge of iron. If, on the other hand, it is cut before it is
 sensible of the danger, it is immediately transformed to stone.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, four
 hundred and sixty-eight.
-
 
 ROMAN AUTHORS QUOTED.—M. Varro,[1037] Mucianus,[1038] Virgil,[1039]
 Fabianus,[1040] Sebosus,[1041] Pomponius Mela,[1042] Fabius,[1043]
@@ -8587,7 +7605,6 @@ Procilius,[1044] Hyginus,[1045] Trogus,[1046] Claudius Cæsar,[1047]
 Cornelius Nepos,[1048] Sextius Niger[1049] who wrote in Greek on
 Medicine, Cassius Hemina,[1050] L. Piso,[1051] Tuditanus,[1052]
 Antias.[1053]
-
 
 FOREIGN AUTHORS QUOTED.—Theophrastus,[1054] Herodotus,[1055]
 Callisthenes,[1056] Isigonus,[1057] Clitarchus,[1058] Anaximenes,[1059]
@@ -8605,18 +7622,11 @@ physician, Euphron[1090] the physician, Mnesides[1091] the
 physician, Diagoras[1092] the physician, Iollas[1093] the physician,
 Heraclides[1094] of Tarentum, Xenocrates[1095] of Ephesus.
 
+## Book XIV
 
+## The Natural History of the Fruit Trees
 
-
-BOOK XIV.
-
-THE NATURAL HISTORY OF THE FRUIT TREES.
-
-
-
-
-CHAPS. 1 & 2. (1.)—THE NATURE OF THE VINE. ITS MODE OF FRUCTIFICATION.
-
+## Chaps. 1 & 2. (1.)—the Nature of the Vine. Its Mode of Fructification
 
 Those which have been hitherto mentioned, are, nearly all of them,
 exotic trees, which it is impossible to rear in any other than
@@ -8724,11 +7734,7 @@ a more lasting nature than this; I am strongly inclined, however, to
 be of opinion that the material of which these various articles were
 constructed was the wild vine.
 
-
-
-
-CHAP. 3.—THE NATURE OF THE GRAPE, AND THE CULTIVATION OF THE VINE.
-
+## Chap. 3.—the Nature of the Grape, and the Cultivation of the Vine
 
 The cultivated vine is kept down by pruning every year, and all the
 strength of the tree is drawn as much as possible into the shoots, or
@@ -8836,11 +7842,7 @@ medicinal preparations, too, the vine holds so high a place, that
 its very wines taken by themselves are efficacious as remedies for
 disease.[1134]
 
-
-
-
-CHAP. 4. (2.)—NINETY-ONE VARIETIES OF THE VINE.
-
+## Chap. 4. (2.)—ninety-One Varieties of the Vine
 
 Democritus, who has declared that he was acquainted with every
 variety of the grape known in Greece, is the only person who has
@@ -9135,11 +8137,7 @@ which blossoms but a single day, and is consequently proof against all
 accidents: the name given to it is “Narbonica,” and it is now planted
 throughout the whole of that province.
 
-
-
-
-CHAP. 5. (4.)—REMARKABLE FACTS CONNECTED WITH THE CULTURE OF THE VINE.
-
+## Chap. 5. (4.)—remarkable Facts Connected with the Culture of the Vine
 
 The elder Cato, who was rendered more particularly illustrious by his
 triumph[1218] and the censorship, and even more so by his literary
@@ -9230,11 +8228,7 @@ not make a more bounteous return to the merchant, no, not even the
 merchandize that we seek on the shores of the Red and the Indian Seas,
 than does a well-tilled homestead to the agriculturist.
 
-
-
-
-CHAP. 6.—THE MOST ANCIENT WINES.
-
+## Chap. 6.—the Most Ancient Wines
 
 The wine of Maronea,[1231] on the coast of Thrace, appears to have been
 the most celebrated in ancient times, as we learn from the writings
@@ -9295,11 +8289,7 @@ other, and influenced by a sort of national self-esteem. This wine,
 drunk in a cool state, is generally thought to be of a colder[1247]
 temperature than any other.
 
-
-
-
-CHAP. 7. (5.)—THE NATURE OF WINES.
-
+## Chap. 7. (5.)—the Nature of Wines
 
 It is the property of wine, when drunk, to cause a feeling of warmth in
 the interior of the viscera, and, when poured upon the exterior of the
@@ -9316,11 +8306,7 @@ nothing more useful than wine for strengthening the body, while, at the
 same time, there is nothing more pernicious as a luxury, if we are not
 on our guard against excess.
 
-
-
-
-CHAP. 8. (6.)—FIFTY KINDS OF GENEROUS WINES.
-
+## Chap. 8. (6.)—fifty Kinds of Generous Wines
 
 Who can entertain a doubt that some kinds of wine are more agreeable
 to the palate than others, or that even out of the very same vat[1250]
@@ -9472,11 +8458,7 @@ may be other wines deserving of a very high reputation, but those which
 I have already enumerated are the varieties upon the excellence of
 which the world is at present agreed.
 
-
-
-
-CHAP. 9. (7.)—THIRTY-EIGHT VARIETIES OF FOREIGN WINES.
-
+## Chap. 9. (7.)—thirty-Eight Varieties of Foreign Wines
 
 We will now, in a similar manner, give a description of the varieties
 found in the parts beyond sea. After the wines mentioned by Homer,
@@ -9520,11 +8502,7 @@ which last he gives the preference over all the rest, though he states
 that it enjoyed an inferior reputation, from the fact of its not being
 considered fit for drinking until it had been kept six years.
 
-
-
-
-CHAP. 10. (8.)—SEVEN KINDS OF SALTED WINES.
-
+## Chap. 10. (8.)—seven Kinds of Salted Wines
 
 Thus far we have treated of wines, the goodness of which is due to
 the country of their growth. In Greece the wine that is known by the
@@ -9554,12 +8532,8 @@ still salter flavour. It is generally thought that all the wines from
 beyond sea arrive at their middle state of maturity in the course of
 six[1350] or seven years.
 
-
-
-
 CHAP. 11. (9.)—EIGHTEEN VARIETIES OF SWEET WINE. RAISIN-WINE AND
 HEPSEMA.
-
 
 All the luscious wines have but little[1351] aroma: the thinner the
 wine the more aroma it has. The colours of wines are four, white,[1352]
@@ -9627,11 +8601,7 @@ Directly it flows it is put into flaggons, and allowed to ferment;
 after which it is left to ripen for forty days in a summer sun, about
 the rising of the Dog-star.
 
-
-
-
-CHAP. 12. (10.)—THREE VARIETIES OF SECOND-RATE WINE.
-
+## Chap. 12. (10.)—three Varieties of Second-Rate Wine
 
 Those cannot properly be termed wines, which by the Greeks are known
 under the name of “deuteria,”[1377] and to which, in common with Cato,
@@ -9649,12 +8619,8 @@ its original quantity. A third kind, again, is pressed out from the
 wine-lees; Cato gives it the name of “fæcatum.”[1381] None of these
 beverages, however, will keep for more than a single year.
 
-
-
-
 CHAP. 13. (11.)—AT WHAT PERIOD GENEROUS WINES WERE FIRST COMMONLY MADE
 IN ITALY.
-
 
 While treating of these various details, it occurs to me to mention
 that of the eighty different kinds throughout the whole earth, which
@@ -9666,11 +8632,7 @@ of Italy have not been in any great favour from an early period, their
 high repute having only been acquired since the six hundredth year of
 the City.
 
-
-
-
-CHAP. 14. (12.)—THE INSPECTION OF WINE ORDERED BY KING ROMULUS.
-
+## Chap. 14. (12.)—the Inspection of Wine Ordered by King Romulus
 
 Romulus made libations, not with wine but with milk; a fact which is
 fully established by the religious rites which owe their foundation
@@ -9716,11 +8678,7 @@ of those who are in the habit of giving to their guests even inferior
 wine[1388] to that which they drink themselves, or else contrive to
 substitute inferior in the course of the repast.[1389]
 
-
-
-
-CHAP. 15.—WINES DRUNK BY THE ANCIENT ROMANS.
-
+## Chap. 15.—wines Drunk by the Ancient Romans
 
 The wines that were the most esteemed among the ancient Romans were
 those perfumed with myrrh,[1390] as mentioned in the play of Plautus,
@@ -9738,12 +8696,8 @@ answer, “Do you ask the question? He has myrrh wine, raisin wine,
 defrutum,[1396] and honey;” from which it would appear that myrrh wine
 was not only reckoned among the wines, but among the sweet wines too.
 
-
-
-
 CHAP. 16. (14.)—SOME REMARKABLE FACTS CONNECTED WITH WINE-LOFTS. THE
 OPIMIAN WINE.
-
 
 The fact of the existence of the Opimian wine gives undoubted proof
 that there were wine-lofts,[1397] and that wine was racked off in
@@ -9765,11 +8719,7 @@ quadrantal[1399]—for such, in fact, are the exact words of the edict.
 Indeed, the Greek wines were so highly valued, that not more than a
 single cup was served to a guest during the repast.
 
-
-
-
-CHAP. 17.—AT WHAT PERIOD FOUR KINDS OF WINE WERE FIRST SERVED AT TABLE.
-
+## Chap. 17.—at What Period Four Kinds of Wine Were First Served at Table
 
 M. Varro gives us the following statement as to the wines that were
 held in the highest esteem at table in his day: “L. Lucullus, when
@@ -9794,12 +8744,8 @@ occasion on which four different kinds of wine were served at table. It
 was after this, then, that all the other sorts came into such very high
 repute, somewhere about the year of the City 700.
 
-
-
-
 CHAP. 18. (16.)—THE USES OF THE WILD VINE. WHAT JUICES ARE NATURALLY
 THE COLDEST OF ALL.
-
 
 I am not surprised, then, that for these many ages there have been
 invented almost innumerable varieties of artificial wines, of which
@@ -9819,11 +8765,7 @@ whole of them never attain maturity; if one of these grapes, in an
 unripe state, is given to a barn-door fowl to eat, it is productive of
 a dislike to grapes for the future.[1406]
 
-
-
-
-CHAP. 19.—SIXTY-SIX VARIETIES OF ARTIFICIAL WINE.
-
+## Chap. 19.—sixty-Six Varieties of Artificial Wine
 
 The first of the artificial wines has wine for its basis; it is called
 “adynamon,”[1407] and is made in the following manner. Twenty sextarii
@@ -9938,11 +8880,7 @@ shrub in must. They employ, also, the wood of the dwarf olive,[1476]
 the ground-pine,[1477] and the germander[1478] for a similar purpose,
 adding at the same time ten drachms of the flower to a congius of must.
 
-
-
-
-CHAP. 20. (17.)—HYDROMELI, OR MELICRATON.
-
+## Chap. 20. (17.)—hydromeli, or Melicraton
 
 There is a wine also made solely of honey and water.[1479] For this
 purpose it is recommended that rain-water[1480] should be kept for a
@@ -9956,11 +8894,7 @@ is kept. This beverage is known as “hydromeli,” and with age acquires
 the flavour of wine. It is nowhere more highly esteemed than in
 Phrygia.[1482]
 
-
-
-
-CHAP. 21.—OXYMELI.
-
+## Chap. 21.—oxymeli
 
 Vinegar[1483] even has been mixed with honey; nothing, in fact, has
 been left untried by man. To this mixture the name of oxymeli has been
@@ -9983,11 +8917,7 @@ sole exception of those which we have spoken of as requiring age; many
 of these, indeed, there can be no doubt, do not improve after being
 kept so little as thirty days.
 
-
-
-
-CHAP. 22. (18.)—TWELVE KINDS OF WINE WITH MIRACULOUS PROPERTIES.
-
+## Chap. 22. (18.)—twelve Kinds of Wine with Miraculous Properties
 
 There are some miraculous properties, too, in certain wines. It is
 said that in Arcadia there is a wine grown which is productive of
@@ -10019,11 +8949,7 @@ carried across the seas: those that are able to withstand the motion of
 the waves, appear afterwards to be twice as old[1498] as they really
 are.
 
-
-
-
-CHAP. 23. (19.)—WHAT WINES IT IS NOT LAWFUL TO USE IN THE SACRED RITES.
-
+## Chap. 23. (19.)—what Wines It Is Not Lawful to Use in the Sacred Rites
 
 As religion is the great basis of the ordinary usages of life, I shall
 here remark that it is considered improper to offer libations to the
@@ -10038,11 +8964,7 @@ they contain a portion of water.
 The vine itself is sometimes eaten; the tops of the shoots[1500] are
 taken off and boiled, and are then pickled in vinegar[1501] and brine.
 
-
-
-
-CHAP. 24.—HOW MUST IS USUALLY PREPARED.
-
+## Chap. 24.—how Must Is Usually Prepared
 
 It will be as well now to make some mention of the methods used in
 preparing wines; indeed, several of the Greeks have written separate
@@ -10066,11 +8988,7 @@ all others, they always employ vessels which have themselves received
 an inner coat of pitch; the method of preparing them will be set forth
 in a succeeding Book.[1505]
 
-
-
-
-CHAP. 25. (20.)—PITCH AND RESIN.
-
+## Chap. 25. (20.)—pitch and Resin
 
 Of the trees from which pitch and resin distil, there are some which
 grow in the East, and others in Europe: the province of Asia,[1506]
@@ -10174,11 +9092,7 @@ effects!
 It is a proof that wine is beginning to turn bad, if a plate of lead,
 on being put in it, changes its colour.[1536]
 
-
-
-
-CHAP. 26.—VINEGAR—LEES OF WINE.
-
+## Chap. 26.—vinegar—lees of Wine
 
 It is a peculiarity of wine, among the liquids, to become mouldy, or
 else to turn to vinegar. There are whole volumes which treat of the
@@ -10189,11 +9103,7 @@ addition of fuel: the ashes so produced have very much the nature
 of nitre,[1537] and similar virtues; the more so, indeed, the more
 unctuous they are to the touch.
 
-
-
-
-CHAP. 27. (21.)—WINE-VESSELS—WINE-CELLARS.
-
+## Chap. 27. (21.)—wine-Vessels—wine-Cellars
 
 The various methods of keeping and storing wines in the cellar are very
 different. In the vicinity of the Alps, they put their wines in wooden
@@ -10252,11 +9162,7 @@ the smoke. In Campania they expose the very finest wines in casks in
 the open air, it being the opinion that it tends to improve the wine if
 it is exposed to the action of the sun and moon, the rain and the winds.
 
-
-
-
-CHAP. 28. (22.)—DRUNKENNESS.
-
+## Chap. 28. (22.)—drunkenness
 
 If any one will take the trouble duly to consider the matter, he
 will find that upon no one subject is the industry of man kept more
@@ -10385,11 +9291,7 @@ the habit of drinking, the more eager he is for drink; and the remark
 of the Scythian ambassador is as true as it is well known—the more the
 Parthians drank, the thirstier they were for it.
 
-
-
-
-CHAP. 29.—LIQUORS WITH THE STRENGTH OF WINE MADE FROM WATER AND CORN.
-
+## Chap. 29.—liquors with the Strength of Wine Made from Water and Corn
 
 The people of the Western world have also their intoxicating drinks,
 made from corn steeped in water.[1565] These beverages are prepared
@@ -10418,10 +9320,8 @@ reckoned, they will amount to nearly double that number. The various
 kinds of oil are much less numerous—we shall proceed to give an account
 of them in the following Book.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, five
 hundred and ten.
-
 
 ROMAN AUTHORS QUOTED.—Cornelius Valerianus,[1567] Virgil,[1568]
 Celsus,[1569] Cato the Censor,[1570] Saserna,[1571] father and son,
@@ -10432,7 +9332,6 @@ Fenestella,[1583] Tergilla,[1584] Maccius Plautus,[1585] Flavius,[1586]
 Dossennus,[1587] Scævola,[1588] Ælius,[1589] Ateius Capito,[1590]
 Cotta Messalinus,[1591] L. Piso,[1592] Pompeius Lenæus,[1593]
 Fabianus,[1594] Sextius Niger,[1595] Vibius Rufus.[1596]
-
 
 FOREIGN AUTHORS QUOTED.—Hesiod,[1597] Theophrastus,[1598]
 Aristotle,[1599] Democritus,[1600] King Hiero,[1601] King Attalus
@@ -10450,19 +9349,12 @@ Dionysius[1626] who translated Mago, Diophanes[1627] who made an
 Epitome of the work of Dionysius, Asclepiades[1628] the Physician,
 Onesicritus,[1629] King Juba.[1630]
 
+## Book XV
 
-
-
-BOOK XV.
-
-THE NATURAL HISTORY OF THE FRUIT-TREES.
-
-
-
+## The Natural History of the Fruit-Trees
 
 CHAP. 1. (1.)—THE OLIVE.—HOW LONG IT EXISTED ONLY IN GREECE. AT WHAT
 PERIOD IT WAS FIRST INTRODUCED INTO ITALY, SPAIN, AND AFRICA.
-
 
 Theophrastus,[1631] one of the most famous among the Greek writers, who
 flourished about the year 440 of the City of Rome, has asserted that
@@ -10488,11 +9380,7 @@ reaching maturity in those times; whereas, now at the present day, it
 is sown in nurseries even, and if transplanted will bear fruit the
 following year.
 
-
-
-
-CHAP. 2.—THE NATURE OF THE OLIVE, AND OF NEW OLIVE OIL.
-
+## Chap. 2.—the Nature of the Olive, and of New Olive Oil
 
 Fabianus maintains that the olive will grow[1636] neither in very cold
 climates, nor yet in very hot ones. Virgil[1637] has mentioned three
@@ -10524,12 +9412,8 @@ the tree has been watered, or whether the fruit has been nurtured
 solely by its own juices, and has imbibed nothing else but the dews of
 heaven.
 
-
-
-
 CHAP. 3. (2.)—OLIVE OIL: THE COUNTRIES IN WHICH IT IS PRODUCED, AND ITS
 VARIOUS QUALITIES.
-
 
 It is not with olive oil as it is with wine, for by age it acquires a
 bad flavour,[1647] and at the end of a year it is already old. This, if
@@ -10610,11 +9494,7 @@ clear proof of which is, that if they are not gathered before the west
 winds prevail, they are found to have acquired renewed strength, and
 are all the later before they fall.
 
-
-
-
-CHAP. 4.—FIFTEEN VARIETIES OF OLIVES.
-
+## Chap. 4.—fifteen Varieties of Olives
 
 The first olive that is gathered after the autumn is that known as
 the “posia,”[1661] the berry of which, owing to a vicious method of
@@ -10687,11 +9567,7 @@ being, in general, but three different degrees of goodness. In fine
 oil the odour is more penetrating, but even in the very best it is but
 short-lived.
 
-
-
-
-CHAP. 5. (4.)—THE NATURE OF OLIVE OIL.
-
+## Chap. 5. (4.)—the Nature of Olive Oil
 
 It is one of the properties of oil to impart warmth to the body, and
 to protect it against the action of cold; while at the same time it
@@ -10707,12 +9583,8 @@ in the minor triumphs of the ovation.[1677] At Athens, also, they are
 in the habit of crowning the conqueror with olive; and at Olympia, the
 Greeks employ the wild olive[1678] for a similar purpose.
 
-
-
-
 CHAP. 6. (5.)—THE CULTURE OF THE OLIVE: ITS MODE OF PRESERVATION. THE
 METHOD OF MAKING OLIVE OIL.
-
 
 We will now proceed to mention the precepts given by Cato[1679] in
 relation to this subject. Upon a warm, rich[1680] soil, he recommends
@@ -10763,12 +9635,8 @@ oil that flows out at the first pressure is called the “flos.”[1691]
 Four men, working at two presses day and night, ought to be able to
 press out three factuses of olives.
 
-
-
-
 CHAP. 7. (7.)—FORTY-EIGHT VARIETIES OF ARTIFICIAL OILS. THE CICUS-TREE
 OR CROTON, OR SILI, OR SESAMUM.
-
 
 In those times artificial oils had not been introduced, and hence
 it is, I suppose, that we find no mention made of them by Cato; at
@@ -10868,11 +9736,7 @@ kinds of maladies; it is thought to be particularly useful, too, in
 the preservation of ivory from decay:[1739] at all events, the statue
 of Saturn, at Rome, is filled with oil in the interior.
 
-
-
-
-CHAP. 8. (8.)—AMURCA.
-
+## Chap. 8. (8.)—amurca
 
 But it is upon the praises of amurca[1740] more particularly, that
 Cato[1741] has enlarged. He recommends that vats and casks[1742] for
@@ -10901,12 +9765,8 @@ the tongue of the she-goat, or upon which she has browsed when it was
 first budding,[1747] is sure to be barren. Thus much in reference to
 the olive and the oils.
 
-
-
-
 CHAP. 9. (9.)—THE VARIOUS KINDS OF FRUIT-TREES AND THEIR NATURES. FOUR
 VARIETIES OF PINE-NUTS.
-
 
 The other fruits found on trees can hardly be enumerated, from their
 diversity in shape and figure, without reference to their different
@@ -10930,12 +9790,8 @@ in honey[1751] among the Taurini, who then call them “aquiceli.”
 The conquerors at the Isthmian games are crowned with a wreath of
 pine-leaves.
 
-
-
-
 CHAP. 10. (11.)—THE QUINCE. FOUR KINDS OF CYDONIA, AND FOUR VARIETIES
 OF THE STRUTHEA.
-
 
 Next in size after these are the fruit called by us “cotonea,”[1752]
 by the Greeks “Cydonia,”[1753] and first introduced from the island
@@ -10958,11 +9814,7 @@ the night with us in our chambers.
 There is a small wild[1761] quince also, the smell of which, next to
 that of the strutheum, is the most powerful; it grows in the hedges.
 
-
-
-
-CHAP. 11.—SIX VARIETIES OF THE PEACH.
-
+## Chap. 11.—six Varieties of the Peach
 
 Under the head of apples,[1762] we include a variety of fruits,
 although of an entirely different nature, such as the Persian[1763]
@@ -10987,11 +9839,7 @@ to be wondered at, as there is none that is a worse keeper: for, when
 it is once plucked, the longest time that it will keep is a couple of
 days; and so sold it must be, fetch what it may.
 
-
-
-
-CHAP. 12. (13).—TWELVE KINDS OF PLUMS.
-
+## Chap. 12. (13).—twelve Kinds of Plums
 
 Next comes a vast number of varieties of the plum, the parti-coloured,
 the black,[1769] the white,[1770] the barley[1771] plum—so called,
@@ -11025,11 +9873,7 @@ native country. The myxa,[1783] too, may be mentioned, as being the
 fellow-countryman of the Damascene: it has of late been introduced into
 Rome, and has been grown engrafted upon the sorb.
 
-
-
-
-CHAP. 13.—THE PEACH.
-
+## Chap. 13.—the Peach
 
 The name of “Persica,” or “Persian apple,” given to this fruit, fully
 proves that it is an exotic in both Greece as well as Asia,[1784] and
@@ -11059,12 +9903,8 @@ it, growing immediately upon the others. It must be quite evident to
 every one that all our plums have been introduced since the time of
 Cato.[1789]
 
-
-
-
 CHAP. 14. (14.)—THIRTY DIFFERENT KINDS OF POMES. AT WHAT PERIOD FOREIGN
 FRUITS WERE FIRST INTRODUCED INTO ITALY, AND WHENCE.
-
 
 There are numerous varieties of pomes. Of the citron[1790] we have
 already made mention when describing its tree; the Greeks gave it the
@@ -11087,11 +9927,7 @@ on both the strutheum variety of quince and the peach, but still it has
 given its name to this particular fruit, which is recommended to us by
 no other remarkable quality.
 
-
-
-
-CHAP. 15.—THE FRUITS THAT HAVE BEEN MOST RECENTLY INTRODUCED.
-
+## Chap. 15.—the Fruits that Have Been Most Recently Introduced
 
 Why should I hesitate to make some mention, too, of other varieties by
 name, seeing that they have conferred everlasting remembrance on those
@@ -11146,11 +9982,7 @@ from their mealiness have received the name of “farinacea;”[1818] they
 are the first, however, to ripen, and ought to be gathered as soon as
 possible.
 
-
-
-
-CHAP. 16. (15.)—FORTY-ONE VARIETIES OF THE PEAR.
-
+## Chap. 16. (15.)—forty-One Varieties of the Pear
 
 A similar degree of precocity has caused the appellation of
 “superbum”[1819] to be given to one species of the pear: it is a
@@ -11199,11 +10031,7 @@ mention of a pear called the “volema,”[1845] a name which he has
 borrowed from Cato,[1846] who makes mention also of kinds known as the
 “sementivum”[1847] and the “musteum.”[1848]
 
-
-
-
-CHAP. 17.—VARIOUS METHODS OF GRAFTING TREES. EXPIATIONS FOR LIGHTNING.
-
+## Chap. 17.—various Methods of Grafting Trees. Expiations for Lightning
 
 This branch of civilized life has long since been brought to the
 very highest pitch of perfection, for man has left nothing untried
@@ -11232,11 +10060,7 @@ with wine and water, and so make a preserve[1853] that is eaten with
 bread; a preparation which is never made of any other fruit, with the
 exception of the quinces, known as the “cotoneum” and the “strutheum.”
 
-
-
-
-CHAP. 18. (16.)—THE MODE OF KEEPING VARIOUS FRUITS AND GRAPES.
-
+## Chap. 18. (16.)—the Mode of Keeping Various Fruits and Grapes
 
 For the better preserving of fruits it is universally recommended
 that the storeroom should be situate in a cool, dry spot, with a
@@ -11357,11 +10181,7 @@ effectually protected against the attacks of wasps by being sprinkled
 with oil[1875] spirted from the mouth. Of palm-dates we have already
 spoken.[1876]
 
-
-
-
-CHAP. 19. (18.)—TWENTY-NINE VARIETIES OF THE FIG.
-
+## Chap. 19. (18.)—twenty-Nine Varieties of the Fig
 
 Of all the remaining fruits that are included under the name of
 “pomes,” the fig[1877] is the largest: some, indeed, equal the pear,
@@ -11432,11 +10252,7 @@ so ripens along with the blossom of the coming crop; thus attaining
 maturity in a year not its own, and this in a country,[1898] too, where
 the greatest cold prevails.
 
-
-
-
-CHAP. 20.—HISTORICAL ANECDOTES CONNECTED WITH THE FIG.
-
+## Chap. 20.—historical Anecdotes Connected with the Fig
 
 [1899] The mention by Cato of the variety which bears the name of the
 African fig, strongly recalls to my mind a remarkable fact connected
@@ -11501,11 +10317,7 @@ that once stood there was afterwards removed by order of the deified
 Julius Cæsar, upon the occasion of the last spectacle of gladiatorial
 combats[1909] which he gave in the Forum.
 
-
-
-
-CHAP. 21.—CAPRIFICATION.
-
+## Chap. 21.—caprification
 
 The fig, the only one among all the pomes, hastens to maturity by the
 aid of a remarkable provision of Nature. (19.) The wild-fig,[1910]
@@ -11571,11 +10383,7 @@ censorship,[1929] introduced all these varieties from Syria at his
 country-seat at Alba,[1930] having acted as legatus in that province in
 the latter years of the reign of Tiberius Cæsar.
 
-
-
-
-CHAP. 22. (20.)—THREE VARIETIES OF THE MEDLAR.
-
+## Chap. 22. (20.)—three Varieties of the Medlar
 
 The medlar and the sorb[1931] ought in propriety to be ranked under
 the head of the apple and the pear. Of the medlar[1932] there are
@@ -11591,11 +10399,7 @@ numerous, and penetrate remarkably deep, which renders it almost
 impossible to grub it up. This tree[1937] did not exist in Italy in
 Cato’s time.
 
-
-
-
-CHAP. 23. (21).—FOUR VARIETIES OF THE SORB.
-
+## Chap. 23. (21).—four Varieties of the Sorb
 
 There are four varieties of the sorb: there being some that have all
 the roundness[1938] of the apple, while others are conical like the
@@ -11611,11 +10415,7 @@ the leaf being nearly that of the plane-tree; the fruit, too, is
 particularly small. Cato[1942] speaks of sorbs being preserved in
 boiled wine.
 
-
-
-
-CHAP. 24. (22.)—NINE VARIETIES OF THE NUT.
-
+## Chap. 24. (22.)—nine Varieties of the Nut
 
 The walnut,[1943] which would almost claim precedence of the sorb in
 size, yields the palm to it in reference to the esteem[1944] in which
@@ -11689,11 +10489,7 @@ into Italy at the same time as the others that we mentioned;[1970]
 and Flaccus Pompeius, a Roman of Equestrian rank, who served with him,
 introduced it at the same period into Spain.
 
-
-
-
-CHAP. 25. (23.)—EIGHTEEN VARIETIES OF THE CHESNUT.
-
+## Chap. 25. (23.)—eighteen Varieties of the Chesnut
 
 We give the name of nut, too, to the chesnut,[1971] although it would
 seem more properly to belong to the acorn tribe. The chesnut has
@@ -11729,11 +10525,7 @@ esteemed localities for the chesnut: other kinds, again, are grown to
 feed pigs upon,[1983] the skin of which is rough and folded inwards, so
 as to penetrate to the heart of the kernel.
 
-
-
-
-CHAP. 26. (24.)—THE CAROB.
-
+## Chap. 26. (24.)—the Carob
 
 The carob,[1984] a fruit of remarkable sweetness, does not appear to be
 so very dissimilar to the chesnut, except that the skin[1985] is eaten
@@ -11742,11 +10534,7 @@ the thickness of the thumb, being sometimes of a curved shape, like a
 sickle. The acorn cannot be reckoned in the number of the fruits; we
 shall, therefore, speak of it along with the trees of that class.[1986]
 
-
-
-
-CHAP. 27.—THE FLESHY FRUITS. THE MULBERRY.
-
+## Chap. 27.—the Fleshy Fruits. The Mulberry
 
 The other fruits belong to the fleshy kind, and differ both in the
 shape and the flesh. The flesh of the various berries,[1987] of the
@@ -11767,11 +10555,7 @@ is a distinction made between the mulberries of Ostia and those of
 Tusculum. A variety grows also on brambles, but the flesh of the fruit
 is of a very different nature.[1992]
 
-
-
-
-CHAP. 28.—THE FRUIT OF THE ARBUTUS.
-
+## Chap. 28.—the Fruit of the Arbutus
 
 The flesh of the ground-strawberry[1993] is very different to that of
 the arbute-tree,[1994] which is of a kindred kind: indeed, this is the
@@ -11789,11 +10573,7 @@ varieties. It has also with us another name besides that of “unedo,”
 being known also as the “arbutus.” Juba states that in Arabia this tree
 attains the height of fifty cubits.
 
-
-
-
-CHAP. 29.—THE RELATIVE NATURES OF BERRY FRUITS.
-
+## Chap. 29.—the Relative Natures of Berry Fruits
 
 There is a great difference also among the various acinus fruits. First
 of all, among the grapes, we find considerable difference in respect
@@ -11821,11 +10601,7 @@ olive and the laurel, for instance; while in the mulberry, the cherry,
 and the cornel, the change is to red; and then in some to black, as
 with the mulberry, the cherry, and the olive, for instance.
 
-
-
-
-CHAP. 30. (25.)—NINE VARIETIES OF THE CHERRY.
-
+## Chap. 30. (25.)—nine Varieties of the Cherry
 
 The cherry did not exist in Italy before the period of the victory
 gained over Mithridates by L. Lucullus, in the year of the City 680.
@@ -11853,11 +10629,7 @@ trees to recompense the cultivator with its yearly growth; it loves
 cold localities and a site exposed to the north.[2017] The fruit are
 sometimes dried in the sun, and preserved, like olives, in casks.
 
-
-
-
-CHAP. 31. (26.)—THE CORNEL. THE LENTISK.
-
+## Chap. 31. (26.)—the Cornel. The Lentisk
 
 The same degree of care is expended also on the cultivation of the
 cornel[2018] and the lentisk;[2019] that it may not be thought,
@@ -11872,11 +10644,7 @@ nor does man stick at poisons[2020] even, if he can only gratify his
 longing to devour everything: a thing that will be still more evident
 when we come to treat of the nature of herbs.
 
-
-
-
-CHAP. 32. (27.)—THIRTEEN DIFFERENT FLAVOURS OF JUICES.
-
+## Chap. 32. (27.)—thirteen Different Flavours of Juices
 
 While upon this subject, it may be as well to state that there are
 no less than thirteen different flavours[2021] belonging in common
@@ -11909,11 +10677,7 @@ that three of the principal elements[2028] of Nature—water, air, and
 fire—should have neither taste nor smell, nor, indeed, any flavouring
 principle whatever.
 
-
-
-
-CHAP. 33. (28.)—THE COLOUR AND SMELL OF JUICES.
-
+## Chap. 33. (28.)—the Colour and Smell of Juices
 
 Among the juices, those of a vinous[2029] flavour belong to the pear,
 the mulberry, and the myrtle, and not to the grape, a very singular
@@ -11942,11 +10706,7 @@ the taste sour in the highest degree. Sometimes the smell is of a more
 delicate[2040] nature, as in the quince, for instance; while the fig
 has no odour whatever.
 
-
-
-
-CHAP. 34.—THE VARIOUS NATURES OF FRUIT.
-
+## Chap. 34.—the Various Natures of Fruit
 
 Thus much, then, for the various classes and kinds of fruit: it will
 be as well now to classify their various natures within a more limited
@@ -12017,11 +10777,7 @@ much wood? Nor ought we to omit one peculiarity that exists in the seed
 of this fruit—it can be called neither flesh, wood, nor cartilage, and
 yet no other name has been found for it.
 
-
-
-
-CHAP. 35. (29).—THE MYRTLE.
-
+## Chap. 35. (29).—the Myrtle
 
 The nature of the juices that are found in the myrtle are particularly
 remarkable, for it is the only one[2057] of all the trees, the berries
@@ -12035,11 +10791,7 @@ by the aid of these berries, too, that the flavour of the flesh of the
 wild boar is improved, and they generally form one of the ingredients
 in the flavouring of our sauces.
 
-
-
-
-CHAP. 36.—HISTORICAL ANECDOTES RELATIVE TO THE MYRTLE.
-
+## Chap. 36.—historical Anecdotes Relative to the Myrtle
 
 This tree was seen for the first time in the regions of Europe, which
 commence on this side of the Ceraunian mountains,[2062] growing at
@@ -12074,11 +10826,7 @@ utter exhaustion and sterility. There was an ancient altar[2070] also,
 consecrated to Venus Myrtea, known at the present day by the name of
 Murcia.
 
-
-
-
-CHAP. 37.—ELEVEN VARIETIES OF THE MYRTLE.
-
+## Chap. 37.—eleven Varieties of the Myrtle
 
 Cato[2071] makes mention of three varieties of the myrtle, the black,
 white, and the conjugula, perhaps so called from its reference to
@@ -12121,11 +10869,7 @@ are found to be very refreshing[2081] on a long journey. Rings, too,
 made of myrtle which has never been touched by iron, are an excellent
 specific for swellings in the groin.[2082]
 
-
-
-
-CHAP. 38.—THE MYRTLE USED AT ROME IN OVATIONS.
-
+## Chap. 38.—the Myrtle Used at Rome in Ovations
 
 The myrtle has played[2083] its part, also, in the successes of war.
 Posthumius Tubertus, who gained a victory over the Sabines in his
@@ -12147,11 +10891,7 @@ second Scipio Africanus. Marcus Valerius[2089] wore two wreaths, one of
 laurel, the other of myrtle; it was in consequence of a vow which he
 had made to that effect.
 
-
-
-
-CHAP. 39. (30.)—THE LAUREL; THIRTEEN VARIETIES OF IT.
-
+## Chap. 39. (30.)—the Laurel; Thirteen Varieties of It
 
 The laurel is especially consecrated to triumphs, is remarkably
 ornamental to houses, and guards the portals of our emperors[2090]
@@ -12217,11 +10957,7 @@ inclining to black. The ancient writers have remarked, that in their
 time there was no species of laurel in the island of Corsica. Since
 then, however, it has been planted there, and has thrived well.
 
-
-
-
-CHAP. 40.—HISTORICAL ANECDOTES CONNECTED WITH THE LAUREL.
-
+## Chap. 40.—historical Anecdotes Connected with the Laurel
 
 This tree is emblematical of peace:[2109] when a branch of it is
 extended, it is to denote a truce between enemies in arms. For the
@@ -12295,10 +11031,8 @@ their doubts as to that fact.
 
 We shall now proceed to speak of the forest trees.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, one
 hundred and twenty.
-
 
 ROMAN AUTHORS QUOTED.—Fenestella,[2124] Fabianus,[2125] Virgil,[2126]
 Corn. Valerianus,[2127] Celsus,[2128] Cato the Censor,[2129]
@@ -12310,7 +11044,6 @@ Messalinus,[2143] L. Piso,[2144] Pompeius Lenæus,[2145] Maccius
 Plautus,[2146] Flavius,[2147] Dossenus,[2148] Scævola,[2149]
 Ælius,[2150] Ateius Capito,[2151] Sextius Niger,[2152] Vibius
 Rufus.[2153]
-
 
 FOREIGN AUTHORS QUOTED.—Aristotle,[2154] Democritus,[2155] King
 Hiero,[2156] King Attalus Philometor,[2157] Archytas,[2158]
@@ -12330,18 +11063,11 @@ Aristomachus[2186] who wrote on the same subject, Hicesius[2187]
 who wrote on the same subject, Themiso[2188] the Physician,
 Onesicritus,[2189] King Juba.[2190]
 
+## Book XVI
 
+## The Natural History of the Forest Trees
 
-
-BOOK XVI.
-
-THE NATURAL HISTORY OF THE FOREST TREES.
-
-
-
-
-CHAP. 1.—COUNTRIES THAT HAVE NO TREES.
-
+## Chap. 1.—countries that Have No Trees
 
 We have given the precedence in this account to the fruit-trees
 and others which, by their delicious juices, first taught man to
@@ -12389,11 +11115,7 @@ they were vanquished by the Roman people, would exclaim against being
 reduced[2197] to slavery! Be it so, then—Fortune is most kind to many,
 just when she means to punish them.[2198]
 
-
-
-
-CHAP. 2.—WONDERS CONNECTED WITH TREES IN THE NORTHERN REGIONS.
-
+## Chap. 2.—wonders Connected with Trees in the Northern Regions
 
 Another marvel, too, connected with the forests! They cover all
 the rest of Germany, and by their shade augment the cold. But the
@@ -12425,11 +11147,7 @@ of a squadron of horse.
 class,[2204] and have ever been held in the highest honour by the Roman
 people.
 
-
-
-
-CHAP. 3. (4.)—THE ACORN OAK. THE CIVIC CROWN.
-
+## Chap. 3. (4.)—the Acorn Oak. The CIVIC Crown
 
 It is with the leaves of this class of trees that our civic crown
 is made, the most glorious reward that can be bestowed on military
@@ -12457,11 +11175,7 @@ beneath the feet of the citizens to their heads. Augustus presented
 to Agrippa the rostrate crown, while he himself received the civic
 crown[2213] at the hands of all mankind.
 
-
-
-
-CHAP. 4.—THE ORIGIN OF THE PRESENTATION OF CROWNS.
-
+## Chap. 4.—the Origin of the Presentation of Crowns
 
 In ancient times crowns[2214] were presented to none but a divinity,
 hence it is that Homer[2215] awards them only to the gods of heaven
@@ -12484,11 +11198,7 @@ reward of military prowess. It is a well-known fact, however, that this
 people has more varieties of crowns than those of all other nations put
 together.
 
-
-
-
-CHAP. 5.—PERSONS PRESENTED WITH A CROWN OF LEAVES.
-
+## Chap. 5.—persons Presented with a Crown of Leaves
 
 Romulus presented Hostus Hostilius[2219] with a crown of leaves, for
 being the first to enter Fidenæ. This Hostus was the grandfather of
@@ -12533,11 +11243,7 @@ by being made of gold, disdained to set a price upon the safety of a
 citizen, and loudly proclaimed thereby that it is unrighteous to save
 the life of a man for motives of lucre.
 
-
-
-
-CHAP. 6. (5.)—THIRTEEN VARIETIES OF THE ACORN.
-
+## Chap. 6. (5.)—thirteen Varieties of the Acorn
 
 It is a well-known fact that acorns[2228] at this very day constitute
 the wealth of many nations, and that, too, even amid these times of
@@ -12570,11 +11276,7 @@ not so much as known throughout the greater part of Italy. We shall
 distinguish them, therefore, by their characteristic features, and when
 circumstances render it necessary, shall give their Greek names as well.
 
-
-
-
-CHAP. 7. (6.)—THE BEECH.
-
+## Chap. 7. (6.)—the Beech
 
 The acorn of the beech[2235] is similar in appearance to a kernel,
 enclosed in a shell of triangular shape. The leaf is thin and one of
@@ -12588,11 +11290,7 @@ fattening for dormice, and good for thrushes too. Almost all trees bear
 an average crop but once in two years; this is the case with the beech
 more particularly.
 
-
-
-
-CHAP. 8.—THE OTHER ACORNS—WOOD FOR FUEL.
-
+## Chap. 8.—the Other Acorns—wood for Fuel
 
 The other trees that bear acorns, properly so called, are the robur,
 the æsculus, the cerrus, the holm-oak,[2237] and the cork-tree:[2238]
@@ -12684,11 +11382,7 @@ this acorn is the last to fall, and that the flesh of swine, if fed
 upon the acorns of the æsculus, the robur, or the cork-tree, will be of
 a spongy nature.
 
-
-
-
-CHAP. 9.—THE GALL-NUT.
-
+## Chap. 9.—the Gall-Nut
 
 All[2250] the glandiferous trees produce the gall-nut as well: they
 only bear acorns, however, in alternate years. The gall-nut of the
@@ -12709,11 +11403,7 @@ Commagene,[2255] and the most inferior are those produced by the robur:
 it may easily be tested by means of certain holes in it which admit of
 the passage of the light.[2256]
 
-
-
-
-CHAP. 10.—OTHER PRODUCTIONS ON THESE TREES BESIDES THE ACORN.
-
+## Chap. 10.—other Productions on These Trees Besides the Acorn
 
 The robur, in addition to its fruit, has a great number of other
 productions: it bears[2257] the two varieties of the gall-nut, and a
@@ -12741,11 +11431,7 @@ transparent while they are soft; in these a kind of gnat[2263] is
 produced, and they come to maturity just in the same way that the
 ordinary gall-nut does.
 
-
-
-
-CHAP. 11. (8.)—CACHRYS.
-
+## Chap. 11. (8.)—cachrys
 
 The robur bears cachrys,[2264] too; such being the name given to
 a small round ball that is employed in medicine for its caustic
@@ -12769,11 +11455,7 @@ itself upon the leaves of this tree in preference to those of any
 other. It is also well known that the wood of this tree, when burnt,
 produces a nitrous[2271] ash.
 
-
-
-
-CHAP. 12.—THE KERMES BERRY.
-
+## Chap. 12.—the Kermes Berry
 
 The holm oak, however, by its scarlet berry[2272] alone challenges
 competition with all these manifold productions. This grain appears at
@@ -12785,11 +11467,7 @@ of the purple of the murex, mentioned the best methods adopted for
 using it. It is produced also in Galatia, Africa, Pisidia, and Cilicia:
 the most inferior kind is that of Sardinia.
 
-
-
-
-CHAP. 13.—AGARIC.
-
+## Chap. 13.—agaric
 
 It is in the Gallic provinces more particularly that the glandiferous
 trees produce agaric;[2277] such being the name given to a white fungus
@@ -12820,11 +11498,7 @@ in the vicinity of Elis and Lacedæmon for instance. The cork-tree does
 not grow throughout the whole of Italy, and in no[2286] part whatever
 of Gaul.
 
-
-
-
-CHAP. 14. (9.)—TREES OF WHICH THE BARK IS USED.
-
+## Chap. 14. (9.)—trees of Which the Bark Is Used
 
 The bark also of the beech, the lime, the fir, and the pitch-tree is
 extensively used by the peasantry. Panniers and baskets are made of
@@ -12836,11 +11510,7 @@ of it that are the most juicy. The bark of the beech is also employed
 for religious purposes in certain sacred rites.[2288] This tree,
 however, when deprived of its bark, will not survive.
 
-
-
-
-CHAP. 15. (10.)—SHINGLES.
-
+## Chap. 15. (10.)—shingles
 
 The best shingles are those made of the wood of the robur; the next
 best being those furnished by the other glandiferous trees and the
@@ -12859,11 +11529,7 @@ the secession of the plebeians to the Janiculum, passed a law in the
 Æsculetum,[2292] that what the plebeians had enacted should be binding
 upon every Roman citizen.[2293]
 
-
-
-
-CHAP. 16.—THE PINE.
-
+## Chap. 16.—the Pine
 
 In those days they regarded as exotics, because they did not exist in
 the vicinity[2294] of the City, the pine and the fir, as well as all
@@ -12879,11 +11545,7 @@ previously spoken,[2297] it is sometimes to be found, but hardly in
 sufficient quantities to warrant us in reckoning the pine among the
 resinous trees.
 
-
-
-
-CHAP. 17.—THE PINASTER.
-
+## Chap. 17.—the Pinaster
 
 The pinaster is nothing else but a wild pine: it rises to a surprising
 height, and throws out branches from the middle, just as the pine does
@@ -12896,11 +11558,7 @@ compact than the pine; it is likewise free from knots, and hence is
 used in the construction of light gallies;[2300] they are both almost
 entirely destitute of resin.
 
-
-
-
-CHAP. 18.—THE PITCH-TREE: THE FIR.
-
+## Chap. 18.—the Pitch-Tree: The Fir
 
 The pitch-tree[2301] loves the mountain heights and cold localities.
 This is a funereal tree, and, as an emblem of death, is placed before
@@ -12929,11 +11587,7 @@ action of the sun. On the other hand, the wood which in the fir-tree is
 remarkably fine, in the pitch-tree is only used for making shingles,
 vats, and a few other articles of joiners’ work.
 
-
-
-
-CHAP. 19.—THE LARCH: THE TORCH-TREE.
-
+## Chap. 19.—the Larch: The Torch-Tree
 
 The fifth kind of resinous tree has the same localities, and is very
 similar in appearance; it is known as the larch.[2306] The wood of
@@ -13006,11 +11660,7 @@ in the other varieties; hence it is that the Greeks call this tree by
 the name of phthirophoron.[2317] In this tree, too, the nuts on the
 male are more compressed, and less moist with resin.
 
-
-
-
-CHAP. 20.—THE YEW.
-
+## Chap. 20.—the Yew
 
 Not to omit any one of them, the yew[2318] is similar to these other
 trees in general appearance. It is of a colour, however, but slightly
@@ -13030,11 +11680,7 @@ called taxica,[2322] from this tree. It has been discovered, also, that
 these poisonous qualities are quite neutralized by driving a copper
 nail into the wood of the tree.
 
-
-
-
-CHAP. 21. (11.)—METHODS OF MAKING TAR—HOW CEDRIUM IS MADE.
-
+## Chap. 21. (11.)—methods of Making Tar—how Cedrium Is Made
 
 In Europe, tar is extracted from the torch-tree[2323] by the agency
 of fire; it is employed for coating ships and for many other useful
@@ -13046,11 +11692,7 @@ known as “cedrium;”[2326] and it possesses such remarkable strength,
 that in Egypt the bodies of the dead, after being steeped in it, are
 preserved from all corruption.[2327]
 
-
-
-
-CHAP. 22.—METHODS BY WHICH THICK PITCH IS PREPARED.
-
+## Chap. 22.—methods by Which Thick Pitch Is Prepared
 
 The liquid that follows is of a thicker consistency, and constitutes
 pitch, properly so called. This liquid, thrown again into a brazen
@@ -13086,11 +11728,7 @@ the resin of the terebinth[2338] in a flat pan[2339] placed upon hot
 ashes, and prefer it to any other kind. The resin of the mastich[2340]
 is held in the next degree of estimation.[2341]
 
-
-
-
-CHAP. 23. (12.)—HOW THE RESIN CALLED ZOPISSA IS PREPARED.
-
+## Chap. 23. (12.)—how the Resin Called Zopissa Is Prepared
 
 We must not omit, too, that the Greeks call by the name of
 zopissa[2342] the pitch mixed with wax which has been scraped from
@@ -13150,12 +11788,8 @@ small portion of its wild character. The name “sappinus” is also given
 to the timber of these trees when cut, as we shall have occasion to
 mention[2355] hereafter.
 
-
-
-
 CHAP. 24. (13.)—TREES THE WOOD OF WHICH IS HIGHLY VALUED. FOUR
 VARIETIES OF THE ASH.
-
 
 It is for the sake of their timber that Nature has created the other
 trees, and more particularly the ash,[2356] which yields it in greater
@@ -13191,11 +11825,7 @@ been made to blossom before the serpents leave their holes, and the
 fall of its leaf does not take place till after they have retired for
 the winter.
 
-
-
-
-CHAP. 25. (14.)—TWO VARIETIES OF THE LINDEN-TREE.
-
+## Chap. 25. (14.)—two Varieties of the Linden-Tree
 
 In the linden-tree the male[2364] and the female are totally different.
 In the male the wood is hard and knotty, of a redder hue, and with
@@ -13213,11 +11843,7 @@ wreaths[2367] and garlands. The wood of this tree is proof against the
 attacks of worms:[2368] it is of moderate height[2369] only, but of
 very considerable utility.
 
-
-
-
-CHAP. 26. (15.)—TEN VARIETIES OF THE MAPLE.
-
+## Chap. 26. (15.)—ten Varieties of the Maple
 
 The maple, which is pretty nearly of the same[2370] size as the lime,
 is inferior to the citrus[2371] only for the beauty of its wood when
@@ -13243,11 +11869,7 @@ which is easily split, and a pale, rough bark. Other authors, however,
 prefer to make of this last a peculiar species, and give it in Latin
 the name of “carpinus.”
 
-
-
-
-CHAP. 27. (16.)—BRUSCUM: MOLLUSCUM; THE STAPHYLODENDRON.
-
+## Chap. 27. (16.)—bruscum: Molluscum; The Staphylodendron
 
 But the most beautiful feature of all in the maple is what is known
 as bruscum, and, even more particularly so, the molluscum. These are
@@ -13269,11 +11891,7 @@ which is very similar to that of the white maple, and which is known as
 the staphylodendron.[2382] This tree bears a pod[2383] in which there
 is found a kernel, which has the flavour of the hazel-nut.
 
-
-
-
-CHAP. 28.—THREE VARIETIES OF THE BOX-TREE.
-
+## Chap. 28.—three Varieties of the Box-Tree
 
 One of the most highly esteemed of all the woods is the box,[2384]
 but it is seldom veined, and then only the wood of the root. In
@@ -13300,11 +11918,7 @@ loves spots exposed to the cold winds and the sun: in fire, too, it
 manifests all the hardness of iron; it gives out no flame, and is of no
 use whatever for the manufacture of charcoal.[2394]
 
-
-
-
-CHAP. 29. (17.)—FOUR VARIETIES OF THE ELM.
-
+## Chap. 29. (17.)—four Varieties of the Elm
 
 Midway between the preceding ones and the fruit-trees stands the elm,
 partaking of the nature of the former in its wood, and being akin to
@@ -13321,12 +11935,8 @@ samara,[2400] that being the name given to the seed of the elm. All
 the elms will grow from slips or cuttings, and all of them, with the
 exception of the Atinia, may be propagated from seed.
 
-
-
-
 CHAP. 30. (18.)—THE NATURES OF THE VARIOUS TREES ACCORDING TO THEIR
 LOCALITIES: THE MOUNTAIN TREES, AND THE TREES OF THE PLAIN.
-
 
 Having now made mention of the more remarkable trees, it remains for
 me to state some general facts connected with them all. The cedar, the
@@ -13360,12 +11970,8 @@ the occasion of the rape of the Sabine women, made their torches of
 the wood of this tree: at the present day, however, the woods of the
 yoke-elm and the hazel are more generally employed for this purpose.
 
-
-
-
 CHAP. 31.—TREES WHICH GROW ON A DRY SOIL: THOSE WHICH ARE FOUND IN WET
 LOCALITIES: THOSE WHICH ARE FOUND IN BOTH INDIFFERENTLY.
-
 
 The cypress, the walnut, the chesnut, and the laburnum,[2411] are
 averse to water. This last tree is also a native of the Alps, and
@@ -13384,11 +11990,7 @@ size, and are of more comely appearance when grown on the plains, while
 those found on the mountains have a better wood and more finely veined,
 with the exception of the apple and the pear.
 
-
-
-
-CHAP. 32. (19.)—DIVISION OF TREES INTO VARIOUS SPECIES.
-
+## Chap. 32. (19.)—division of Trees into Various Species
 
 In addition to these particulars, some of the trees lose their leaves,
 while others, again, are evergreens. Before, however, we treat of this
@@ -13400,13 +12002,9 @@ which by their fruits or some other beneficial property, or else by the
 shade which they afford, show themselves the benefactors of man, are
 not inappropriately called “civilized”[2423] trees.
 
-
-
-
 CHAP. 33. (20.)—TREES WHICH DO NOT LOSE THEIR FOLIAGE. THE
 RHODODENDRON. TREES WHICH DO NOT LOSE THE WHOLE OF THEIR FOLIAGE.
 PLACES IN WHICH THERE ARE NO TREES.
-
 
 Belonging to this last class, there are the following trees which do
 not lose their leaves: the olive, the laurel, the palm, the myrtle,
@@ -13436,11 +12034,7 @@ Indeed, so remarkable are the virtues that we find belonging to some
 localities, that about Memphis in Egypt, and at Elephantina in Thebais,
 the leaves[2433] fall from none of the trees, not the vine even.
 
-
-
-
-CHAP. 34. (22.)—THE NATURE OF THE LEAVES WHICH WITHER AND FALL.
-
+## Chap. 34. (22.)—the Nature of the Leaves Which Wither and Fall
 
 All the trees, with the exception of those already mentioned—a list
 which it would be tedious to enumerate—lose their leaves, and it has
@@ -13473,12 +12067,8 @@ their foliage do the same leaves always remain, for as others shoot up
 beneath them, the old leaves gradually wither away: this takes place
 about the solstices more particularly.
 
-
-
-
 CHAP. 35.—TREES WHICH HAVE LEAVES OF VARIOUS COLOURS; TREES WITH LEAVES
 OF VARIOUS SHAPES. THREE VARIETIES OF THE POPLAR.
-
 
 The leaves continue the same upon every species of tree, with the
 exception of the poplar, the ivy, and the croton, which we have already
@@ -13499,11 +12089,7 @@ greater quantity of leaves than the others, this down is quite white,
 resembling locks of wool. The leaves of the pomegranate and the almond
 are red.
 
-
-
-
-CHAP. 36.—LEAVES WHICH TURN ROUND EVERY YEAR.
-
+## Chap. 36.—leaves Which Turn Round Every Year
 
 We find a most remarkable and, indeed, a marvellous peculiarity[2441]
 existing in the elm, the lime, the olive, the white poplar, and the
@@ -13524,12 +12110,8 @@ its heat. The upper surface of them all has a down upon it, in however
 small quantity it may be; in some countries this down is used as a kind
 of wool.[2444]
 
-
-
-
 CHAP. 37.—THE CARE BESTOWED ON THE LEAVES OF THE PALM, AND THE USES TO
 WHICH THEY ARE APPLIED.
-
 
 We have already said[2445] that in the East strong ropes are made of
 the leaves of the palm, and that they are improved by lying in the
@@ -13540,11 +12122,7 @@ days, after which they are spread out in the sun, and left out in the
 open air all night, till they have become quite white and dry: after
 this they are split before they are put to any use.
 
-
-
-
-CHAP. 38.—REMARKABLE FACTS CONNECTED WITH LEAVES.
-
+## Chap. 38.—remarkable Facts Connected with Leaves
 
 The broadest leaves are those of the fig, the vine, and the plane;
 while those of the myrtle, the pomegranate, and the olive are narrow.
@@ -13586,11 +12164,7 @@ sometimes given them to eat. The leaves of the service-tree fall all at
 once, but in the others only by degrees. Thus much in reference to the
 leaves.
 
-
-
-
-CHAP. 39. (25.)—THE NATURAL ORDER OF THE PRODUCTION OF PLANTS.
-
+## Chap. 39. (25.)—the Natural Order of the Production of Plants
 
 The following is the order in which the operations of Nature take
 place throughout the year. The first is fecundation, which takes place
@@ -13614,11 +12188,7 @@ its little capsule, which has acted to it as an uterus. The period of
 training and education is the growth of the fruit. This, as well as
 that of germination, is a laborious process.
 
-
-
-
-CHAP. 40.—TREES WHICH NEVER BLOSSOM. THE JUNIPER.
-
+## Chap. 40.—trees Which Never Blossom. The Juniper
 
 The appearance of the blossom bespeaks the arrival of the spring and
 the birth anew of the year; this blossom is the very pride and delight
@@ -13644,12 +12214,8 @@ two years: this assertion, however, is utterly fallacious, and all the
 junipers always present the same sombre appearance. So, too, in life,
 the fortunes of many men are ever without their time of blossoming.
 
-
-
-
 CHAP. 41.—THE FECUNDATION OF TREES. GERMINATION: THE APPEARANCE OF THE
 FRUIT.
-
 
 All trees germinate, however,[2468] even those which do not blossom.
 In this respect there is a very considerable difference in relation to
@@ -13715,11 +12281,7 @@ when it has once begun, bursts forth all over the tree at the very same
 moment; so much so, indeed, that it is accomplished in a single night,
 and even with a noise that may be audibly heard.[2479]
 
-
-
-
-CHAP. 42.—IN WHAT ORDER THE TREES BLOSSOM.
-
+## Chap. 42.—in What Order the Trees Blossom
 
 Of the trees which, as we have already stated,[2480] bud in winter
 at the rising of the Eagle, the almond blossoms the first of all, in
@@ -13743,11 +12305,7 @@ fall later, but none remain on more than twice seven days. The blossoms
 are always off before the eighth day[2489] of the ides of July, the
 period of the prevalence of the Etesian[2490] winds.
 
-
-
-
-CHAP. 43. (26.)—AT WHAT PERIOD EACH TREE BEARS FRUIT. THE CORNEL.
-
+## Chap. 43. (26.)—at What Period Each Tree Bears Fruit. The Cornel
 
 Upon some trees the fruit does not follow immediately upon the fall of
 the blossom. The cornel[2491] about the summer solstice puts forth a
@@ -13770,12 +12328,8 @@ solstice, and the seed is ripe just after the setting of the Vergiliæ.
 The pine and the pitch-tree germinate about fifteen days before the
 fir, but their seed is not ripe till after the setting of the Vergiliæ.
 
-
-
-
 CHAP. 44.—TREES WHICH BEAR THE WHOLE YEAR. TREES WHICH HAVE ON THEM THE
 FRUIT OF THREE YEARS.
-
 
 The citron-tree,[2496] the juniper, and the holm-oak are looked upon as
 having fruit on them the whole year through, and upon these trees we
@@ -13791,11 +12345,7 @@ this tree are not ripening. Those nuts which split while still upon the
 tree, are known by the name of azaniæ;[2498] they are productive of
 injury to the others, if not removed.
 
-
-
-
-CHAP. 45.—TREES WHICH BEAR NO FRUIT: TREES LOOKED UPON AS ILL-OMENED.
-
+## Chap. 45.—trees Which Bear No Fruit: Trees Looked upon as ILL-Omened
 
 The only ones among all the trees that bear nothing whatever, not so
 much as any seed even, are the tamarisk,[2499] which is used only for
@@ -13808,11 +12358,7 @@ upon which Phyllis[2504] hanged herself, is never green. Those trees
 which produce a gum open of themselves after germination: the gum never
 thickens until after the fruit has been removed.
 
-
-
-
-CHAP. 46.—TREES WHICH LOSE THEIR FRUIT OR FLOWERS MOST READILY.
-
+## Chap. 46.—trees Which Lose Their Fruit or Flowers Most Readily
 
 Young trees are unproductive[2505] so long as they are growing. The
 fruits which fall most readily before they come to maturity are the
@@ -13840,11 +12386,7 @@ found in the Isle of Crete, at the descent from the grotto of Jupiter:
 the seed is unsightly and ligneous, and in size about as large as a
 chick-pea.
 
-
-
-
-CHAP. 47.—TREES WHICH ARE UNPRODUCTIVE IN CERTAIN PLACES.
-
+## Chap. 47.—trees Which Are Unproductive in Certain Places
 
 Certain trees also become unproductive, owing to some fault in the
 locality, such, for instance, as a coppice-wood in the island of
@@ -13856,11 +12398,7 @@ transposition, assert that it is the male trees only that are prolific.
 Barrenness may also arise from a tree being too thickly covered with
 leaves.
 
-
-
-
-CHAP. 48.—THE MODE IN WHICH TREES BEAR.
-
+## Chap. 48.—the Mode in Which Trees Bear
 
 Some among the fruit-trees[2511] bear on both the sides of the branches
 and the summit, the pear, for instance, the fig-tree, and the myrtle.
@@ -13870,11 +12408,7 @@ in the leguminous varieties the pod grows from the sides. The palm, as
 we have already[2512] stated, is the only one that has fruit hanging
 down in bunches enclosed in capsules.
 
-
-
-
-CHAP. 49.—TREES IN WHICH THE FRUIT APPEARS BEFORE THE LEAVES.
-
+## Chap. 49.—trees in Which the Fruit Appears Before the Leaves
 
 The other trees, again, bear their fruit beneath the leaves, for the
 purpose of protection, with the exception of the fig, the leaf of
@@ -13889,12 +12423,8 @@ early fig, known to the Athenians by the name of “prodromos.”[2513] In
 the Laconian varieties of this fruit more particularly, we find trees
 that bear two crops[2514] in the year.
 
-
-
-
 CHAP. 50. (27.)—TREES THAT BEAR TWO CROPS IN A YEAR. TREES THAT BEAR
 THREE CROPS.
-
 
 In the island of Cea there are wild figs that bear three times in
 one year. By the first crop the one that succeeds is summoned forth,
@@ -13932,12 +12462,8 @@ ploughed or broken and loosened, bring their fruit to maturity more
 speedily than those in which this has been neglected; by this process
 they are also rendered more fruitful.
 
-
-
-
 CHAP. 51.—WHICH TREES BECOME OLD WITH THE GREATEST RAPIDITY, AND WHICH
 MOST SLOWLY.
-
 
 There are great differences also in trees in respect to age. The
 almond and the pear[2525] are the most fruitful when old, which is
@@ -13972,11 +12498,7 @@ the first to blossom, and the first to bud; in a word, are the most
 precocious in every respect: but all natural productions which are in
 any way weakened are more susceptible of atmospheric influences.
 
-
-
-
-CHAP. 52.—TREES WHICH BEAR VARIOUS PRODUCTS. CRATÆGUM.
-
+## Chap. 52.—trees Which Bear Various Products. Cratægum
 
 Many trees bear more than one production, a fact which we have already
 mentioned[2530] when speaking of the glandiferous trees. In the number
@@ -13993,11 +12515,7 @@ the south hyphear; two products of which I shall shortly have to speak
 more[2534] at length. Sometimes, indeed, this tree has all four of
 these products growing upon it at the same moment.
 
-
-
-
-CHAP. 53.—DIFFERENCES IN TREES IN RESPECT OF THE TRUNKS AND BRANCHES.
-
+## Chap. 53.—differences in Trees in Respect of the Trunks and Branches
 
 Some trees are of a simple form, and have but a single trunk rising
 from the root, together with numerous branches; such as the olive, for
@@ -14044,11 +12562,7 @@ The branches of the apple-tree have a peculiar conformation; knots are
 formed which resemble the muzzles[2541] of wild beasts, several smaller
 ones being united to a larger.
 
-
-
-
-CHAP. 54.—THE BRANCHES OF TREES.
-
+## Chap. 54.—the Branches of Trees
 
 Some of the branches are barren, and do not germinate; this takes place
 either from a natural deficiency of strength, or else some injury
@@ -14063,11 +12577,7 @@ sometimes[2543] found to yield a beam forty cubits in length by two in
 thickness throughout. Some trees divide into branches from the very
 ground, as in the apple-tree, for example.
 
-
-
-
-CHAP. 55. (31.)—THE BARK OF TREES.
-
+## Chap. 55. (31.)—the Bark of Trees
 
 In some trees the bark[2544] is thin, as in the laurel and the lime; in
 others, again, it is thick, as in the robur; in some it is smooth, as
@@ -14081,11 +12591,7 @@ the coats of the papyrus, while in the vine, the lime, and the fir, it
 is composed of numerous layers. In others, again, it is single, the fig
 and the reed for instance.
 
-
-
-
-CHAP. 56.—THE ROOTS OF TREES.
-
+## Chap. 56.—the Roots of Trees
 
 There are great differences, too, in the roots of trees. In the fig,
 the robur, and the plane, they are numerous; in the apple they are
@@ -14125,11 +12631,7 @@ have stated, as to the roots of trees diminishing[2550] when they are
 old; for I once saw an ancient oak, uprooted by a storm, the roots of
 which covered a jugerum of ground.
 
-
-
-
-CHAP. 57.—TREES WHICH HAVE GROWN SPONTANEOUSLY FROM THE GROUND.
-
+## Chap. 57.—trees Which Have Grown Spontaneously from the Ground
 
 It is a not uncommon thing for trees when uprooted to receive new
 strength when replanted, the earth about their roots forming a sort of
@@ -14158,12 +12660,8 @@ Antandros, resumed its original position even after its sides had been
 rough-hewn all round with the adze,[2553] and took root again: it was a
 tree fifteen cubits long, and four ulnæ in thickness.
 
-
-
-
 CHAP. 58.—HOW TREES GROW SPONTANEOUSLY—DIVERSITIES IN THEIR NATURE, THE
 SAME TREES NOT GROWING EVERYWHERE.
-
 
 The trees which we owe to Nature are produced in three different ways;
 spontaneously, by seed sown, or by a slip which throws out a root. Art
@@ -14177,11 +12675,7 @@ on the part of the tree, sometimes through an innate stubbornness, but
 more frequently through the weakness of the variety so transplanted,
 either the climate being unfavourable, or the soil repulsive to it.
 
-
-
-
-CHAP. 59.—PLANTS THAT WILL NOT GROW IN CERTAIN PLACES.
-
+## Chap. 59.—plants that Will Not Grow in Certain Places
 
 Balsamum[2557] will grow nowhere but [in[2558] Judæa]: and the citron
 of Assyria refuses to bear fruit in any other country. The palm, too,
@@ -14224,11 +12718,7 @@ that the cherry and the chesnut will grow, and the peach-tree, too, at
 Tusculum: the Greek nut, too, is grown there from grafts only at a cost
 of considerable labour, while Tarracina abounds with whole woods of it.
 
-
-
-
-CHAP. 60. (33.)—THE CYPRESS.
-
+## Chap. 60. (33.)—the Cypress
 
 The cypress[2568] is an exotic, and has been reckoned one of the
 trees that are naturalized with the greatest difficulty; so much so,
@@ -14274,12 +12764,8 @@ marvellous—seeing that, in other countries, it will only grow in warm
 localities; from which it would appear to have a great dislike to its
 native climate.
 
-
-
-
 CHAP. 61.—THAT THE EARTH OFTEN BEARS PRODUCTIONS WHICH IT HAS NEVER
 BORNE BEFORE.
-
 
 It is not only the quality of the soil and the unchanging influences
 of the climate that affect the nature of trees, but wet and showery
@@ -14292,11 +12778,7 @@ herbs.[2583] A forest, too, sprang[2584] up in the vicinity of the city
 of Cyrene, just after a shower of rain, of a dense, pitchy nature,
 about the year of the City of Rome 430.
 
-
-
-
-CHAP. 62. (34.)—THE IVY.—TWENTY VARIETIES OF IT.
-
+## Chap. 62. (34.)—the Ivy.—twenty Varieties of It
 
 It is said that the ivy now grows in Asia,[2585] though
 Theophrastus[2586] has denied that such is the fact, and asserts that
@@ -14381,11 +12863,7 @@ the varieties, it has thence obtained the distinctive name of “cissos.”
 The chamæcissos,[2601] on the other hand, is never found except
 creeping upon the ground.
 
-
-
-
-CHAP. 63. (35.)—THE SMILAX.
-
+## Chap. 63. (35.)—the Smilax
 
 Very similar to the ivy is a plant which first came from Cilicia,
 but is now more commonly found in Greece, and known by the name of
@@ -14410,12 +12888,8 @@ for testing wine, and that a vessel made of this wood will let the wine
 pass through it, while the water will remain behind, if there has been
 any mixed with it.[2605]
 
-
-
-
 CHAP. 64. (36.)—WATER PLANTS: THE RUSH: TWENTY-EIGHT VARIETIES OF THE
 REED.
-
 
 Among those plants which thrive best in cold localities, it will be
 only proper to mention the aquatic shrubs.[2606] In the first rank, we
@@ -14442,11 +12916,7 @@ inserted between the joints of ships, to close the seams, a thing that
 it does most effectually, being more tenacious than glue, and adhering
 more firmly than pitch.
 
-
-
-
-CHAP. 65.—REEDS USED FOR ARROWS, AND FOR THE PURPOSE OF WRITING.
-
+## Chap. 65.—reeds Used for Arrows, and for the Purpose of Writing
 
 It is by the aid of the reed[2609] that the nations of the East decide
 their wars; fixing in it a barbed point, they inflict a wound from
@@ -14499,12 +12969,8 @@ way that when one springs from the right side, the next issues from
 the joint above it on the left, and so in turns. Branches, too, shoot
 occasionally from the stem, being themselves reeds of diminutive growth.
 
-
-
-
 CHAP. 66.—FLUTE REEDS: THE REED OF ORCHOMENUS; REEDS USED FOR FOWLING
 AND FISHING.
-
 
 The varieties of the reed are numerous. Some are more compact than
 others, thicker at the joints, and with a shorter interval between
@@ -14599,11 +13065,7 @@ lotus,[2630] the bones of the ass, or else silver. The fowler’s reeds
 of the best quality are those of Panormus,[2631] and the best reeds for
 fishing-rods come from Abarita in Africa.[2632]
 
-
-
-
-CHAP. 67.—THE VINE-DRESSERS’ REED.
-
+## Chap. 67.—the Vine-Dressers’ Reed
 
 The reed is employed in Italy more particularly, as a support for
 the vine. Cato[2633] recommends that it should be planted in a damp
@@ -14623,11 +13085,7 @@ against the violence of the rivers when they overflow; when cut down,
 too, this last tree is useful for the innumerable suckers which it
 throws out.
 
-
-
-
-CHAP. 68.—- THE WILLOW: EIGHT VARIETIES OF IT.
-
+## Chap. 68.—- the Willow: Eight Varieties of It
 
 Of the willow, too, there are several varieties. One[2636] of them
 throws out its branches to a considerable height; and these, coupled
@@ -14651,12 +13109,8 @@ that will yield a more certain profit, which can be cultivated at less
 expense, or which is less liable to be influenced by changes in the
 weather.
 
-
-
-
 CHAP. 69.—TREES IN ADDITION TO THE WILLOW, WHICH ARE OF USE IN MAKING
 WITHES.
-
 
 Cato[2640] considers the culture of the willow as deserving to hold the
 third rank in estimation, and he gives it precedence to the cultivation
@@ -14683,11 +13137,7 @@ willow,[2645] another as the nitelina,[2646] from its resemblance to
 the colour of the nitela, thinner in the trunk than the preceding one,
 and the third as the Gallic[2647] kind, being the thinnest of them all.
 
-
-
-
-CHAP. 70.—RUSHES: CANDLE-RUSHES: RUSHES FOR THATCHING.
-
+## Chap. 70.—rushes: Candle-Rushes: Rushes for Thatching
 
 The rush,[2648] so frail in form, and growing in marshy spots, cannot
 be reckoned as belonging to the shrubs, nor yet to the brambles or the
@@ -14705,11 +13155,7 @@ will appear that the rush is held in pretty nearly the same degree
 of estimation there as the papyrus is in the inner regions of the
 world.[2651]
 
-
-
-
-CHAP. 71.—THE ELDER: THE BRAMBLE.
-
+## Chap. 71.—the Elder: The Bramble
 
 Of a peculiar nature, too, though to be reckoned among the
 water[2652]-plants, is the bramble, a shrub-like plant, and the elder,
@@ -14730,11 +13176,7 @@ The elder[2657] bears a small black berry, which contains a viscous
 juice, employed more particularly for staining[2658] the hair. The
 berries, too, are boiled in water and eaten.[2659]
 
-
-
-
-CHAP. 72. (38.)—THE JUICES OF TREES.
-
+## Chap. 72. (38.)—the Juices of Trees
 
 There is a juice in the bark of trees, which must be looked upon as
 their blood, though it is not of a similar nature in all. In the fig it
@@ -14768,11 +13210,7 @@ too, of blood. In the same way, too, the service-tree has no bones,
 and the elder no flesh, while both of them have marrow in the greatest
 abundance. Reeds, too, have hardly any flesh.
 
-
-
-
-CHAP. 73.—THE VEINS AND FIBRES OF TREES.
-
+## Chap. 73.—the Veins and Fibres of Trees
 
 In the flesh of some trees we find both fibres[2663] and veins: they
 are easily distinguished. The veins[2664] are larger, while the fibres
@@ -14824,11 +13262,7 @@ is remarkably firm: indeed, those whose business it is to make hunting
 spears, prefer this material to all others, it being a wood composed
 wholly of skin and bone.
 
-
-
-
-CHAP. 74.—THE FELLING OF TREES.
-
+## Chap. 74.—the Felling of Trees
 
 The proper time for felling trees that are wanted for barking, the
 round, tapering trees, for instance, that are employed in temples and
@@ -14882,11 +13316,7 @@ the fleet of Scipio was at sea the fortieth day after the axe had been
 put to the tree. Such is the energy and dispatch that can be displayed
 on occasions of emergency.
 
-
-
-
-CHAP. 75.—THE OPINION OF CATO ON THE FELLING OF TIMBER.
-
+## Chap. 75.—the Opinion of Cato on the Felling of Timber
 
 Cato,[2682] a man of consummate authority in all practical matters,
 expresses himself in relation to timber to the following effect:—“For
@@ -14908,11 +13338,7 @@ The Emperor Tiberius used also to observe the changes of the moon for
 cutting his hair.[2685] M. Varro[2686] has recommended that the hair
 should be cut at full moon only, if we would avoid baldness.
 
-
-
-
-CHAP. 76.—THE SIZE OF TREES: THE NATURE OF WOOD: THE SAPPINUS.
-
+## Chap. 76.—the Size of Trees: The Nature of Wood: The Sappinus
 
 From the larch, and still more the fir, after it has been cut, a
 liquid[2687] flows for a considerable period: these are the loftiest
@@ -15043,11 +13469,7 @@ other wood.[2712] In the number, also, of the trees that are hot by
 nature, are the mulberry, the laurel, the ivy, and all those woods from
 which fire is kindled by attrition.
 
-
-
-
-CHAP. 77.—METHODS OF OBTAINING FIRE FROM WOOD.
-
+## Chap. 77.—methods of Obtaining Fire from Wood
 
 This is a method[2713] which has been employed by the outposts of
 armies, and by shepherds, on occasions when there has not been a stone
@@ -15088,11 +13510,7 @@ solid than that of the fruit-bearing ones, except in those species in
 which the male trees[2716] bear fruit, the cypress and the cornel, for
 instance.
 
-
-
-
-CHAP. 78.—TREES WHICH ARE PROOF AGAINST DECAY: TREES WHICH NEVER SPLIT.
-
+## Chap. 78.—trees Which Are Proof Against Decay: Trees Which Never Split
 
 The following trees are proof against decay and the otherwise
 injurious effects of age—the cypress, the cedar, the ebony, the lotus,
@@ -15101,11 +13519,7 @@ Among the others, the larch, the robur, the cork-tree, the chesnut, and
 the walnut are also remarkably durable. The cedar, cypress, olive, and
 box are never known to split or crack spontaneously.
 
-
-
-
-CHAP. 79.—HISTORICAL FACTS CONNECTED WITH THE DURABILITY OF WOOD.
-
+## Chap. 79.—historical Facts Connected with the Durability of Wood
 
 Of all the woods, the ebony, the cypress, and the cedar are considered
 to be the most durable, a good proof of which is to be seen in the
@@ -15181,11 +13595,7 @@ woods are, with the exception of the wild and cultivated olive. It is a
 fact, too, that there are some woods that are more liable to spoil in
 the sea, and others in the ground.
 
-
-
-
-CHAP. 80. (41.)—VARIETIES OF THE TEREDO.
-
+## Chap. 80. (41.)—varieties of the Teredo
 
 There are four kinds of insects that attack wood. The teredo has a
 head remarkably large in proportion to the other part of the body, and
@@ -15213,11 +13623,7 @@ about the thickness of a walking-stick only, and spotted like a tiger’s
 skin: it is very heavy, and will break like glass if it happens to fall
 upon a hard substance.
 
-
-
-
-CHAP. 81. (42.)—THE WOODS USED IN BUILDING.
-
+## Chap. 81. (42.)—the Woods Used in Building
 
 We have in Italy some woods that are apt to split of themselves: to
 prevent this, architects recommend that they should be first seasoned
@@ -15241,11 +13647,7 @@ over, they will very soon rot; and the resistance they offer to decay
 will increase in a most surprising degree if the outer surface as well
 is left in contact with the water.
 
-
-
-
-CHAP. 82.—CARPENTERS’ WOODS.
-
+## Chap. 82.—carpenters’ Woods
 
 The wood of the fir is strongest in a vertical[2731] position: it is
 remarkably well adapted for the pannels of doors, and all kinds of
@@ -15256,11 +13658,7 @@ unites particularly well with glue: it is used in this state for making
 vehicles, and is found to split sooner in the solid parts than in a
 place where the pieces have been glued together.
 
-
-
-
-CHAP. 83. (43.)—WOODS UNITED WITH GLUE.
-
+## Chap. 83. (43.)—woods United with Glue
 
 Glue, too, plays one of the principal parts in all veneering and works
 of marqueterie. For this purpose, the workmen usually employ wood
@@ -15291,11 +13689,7 @@ supple, that it is employed in the construction of vehicles even. The
 elm would rival the trunk of the vine[2735] for some purposes, were it
 not that its weight is so much against it.
 
-
-
-
-CHAP. 84.—VENEERING.
-
+## Chap. 84.—veneering
 
 The wood, too, of the beech is easily worked, although it is brittle
 and soft. Cut into thin layers of veneer, it is very flexible, but is
@@ -15349,12 +13743,8 @@ than the real one, and the grain of the maple to be feigned. At one
 time luxury was not content with wood; at the present day it sets us on
 buying tortoise-shell in the guise of wood.
 
-
-
-
 CHAP. 85. (44.)—THE AGE OF TREES. A TREE THAT WAS PLANTED BY THE FIRST
 SCIPIO AFRICANUS. A TREE AT ROME FIVE HUNDRED YEARS OLD.
-
 
 The life of some trees might really be looked upon as of infinite[2740]
 duration, if we only think of the dense wilds and inaccessible forests
@@ -15374,11 +13764,7 @@ as the Capillata, is still older than this, though it is uncertain what
 is its age; it received that name from the circumstance of the Vestal
 Virgins suspending locks of their hair[2744] from it.
 
-
-
-
-CHAP. 86.—TREES AS OLD AS THE CITY.
-
+## Chap. 86.—trees as Old as the City
 
 There is another lotus in the Vulcanal,[2745] which Romulus erected
 with the tenth part of the spoil taken from the enemy: according to
@@ -15388,11 +13774,7 @@ the meeting-places of the municipalities.[2746] There was a cypress of
 equal age growing with it till towards the latter part of Nero’s reign,
 when it fell to the ground, and no attempts were made to raise it again.
 
-
-
-
-CHAP. 87.—TREES IN THE SUBURBAN DISTRICTS OLDER THAN THE CITY.
-
+## Chap. 87.—trees in the Suburban Districts Older than the City
 
 Still older than the City is the holm-oak that stands on the Vaticanian
 Hill: there is an inscription in bronze upon it, written in Etruscan
@@ -15404,13 +13786,9 @@ founder of that place; the tradition is that in their vicinity he was
 inaugurated. Tradition states also that he was a son of Amphiaraüs, who
 died before Thebes, one generation before the period of the Trojan war.
 
-
-
-
 CHAP. 88.—TREES PLANTED BY AGAMEMNON THE FIRST YEAR OF THE TROJAN WAR:
 OTHER TREES WHICH DATE FROM THE TIME THAT THE PLACE WAS CALLED ILIUM,
 ANTERIOR TO THE TROJAN WAR.
-
 
 There are some authors, too, who state that a plane-tree at Delphi was
 planted by the hand of Agamemnon, as also another at Caphyæ, a sacred
@@ -15422,12 +13800,8 @@ away, and then begun to flourish again. Near the city, at the tomb of
 Ilus, there are some oaks[2748] which are said to have been planted
 there when the place was first known by the name of Ilium.
 
-
-
-
 CHAP. 89.—TREES PLANTED AT ARGOS BY HERCULES: OTHERS PLANTED BY APOLLO.
 A TREE MORE ANCIENT THAN ATHENS ITSELF.
-
 
 At Argos[2749] an olive-tree is said to be still in existence, to
 which Argus fastened Io, after she had been changed into a cow. In the
@@ -15449,11 +13823,7 @@ from which Hercules received his first wreath: at the present day it
 is preserved with the most scrupulous veneration. At Athens, too, the
 olive produced by Minerva, is said still to exist.
 
-
-
-
-CHAP. 90.—TREES WHICH ARE THE MOST SHORT-LIVED.
-
+## Chap. 90.—trees Which Are the Most Short-Lived
 
 On the other hand, the pomegranate,[2753] the fig, and the apple are
 remarkably short-lived; the precocious trees being still more so than
@@ -15468,11 +13838,7 @@ out fresh shoots at the root. The olive must be looked upon, then, as
 being one of the most long-lived, for it is generally agreed among
 authors that it will last two hundred years.
 
-
-
-
-CHAP. 91.—TREES THAT HAVE BEEN RENDERED FAMOUS BY REMARKABLE EVENTS.
-
+## Chap. 91.—trees that Have Been Rendered Famous by Remarkable Events
 
 In the territory about the suburbs of Tusculum, upon a hill known by
 the name of Corne, there is a grove which has been consecrated to Diana
@@ -15488,13 +13854,9 @@ likewise of very considerable celebrity, the trunk of which is no
 less[2757] than thirty-four feet in circumference; giving birth to ten
 other trees of remarkable size, it forms of itself a whole forest.
 
-
-
-
 CHAP. 92.—PLANTS THAT HAVE NO PECULIAR SPOT FOR THEIR GROWTH: OTHERS
 THAT GROW UPON TREES, AND WILL NOT GROW IN THE GROUND. NINE VARIETIES
 OF THEM: CADYTAS, POLYPODION, PHAULIAS, HIPPOPHÆSTON.
-
 
 It is a well-known fact that trees are killed by ivy.[2758] The
 mistletoe also has a similar influence, although it is generally
@@ -15514,12 +13876,8 @@ fuller’s thistle is called the “hippophæston;”[2764] it has a thin,
 hollow stem, a small leaf, and a white root, the juice of which is
 considered extremely beneficial as a purgative in epilepsy.
 
-
-
-
 CHAP. 93.—THREE VARIETIES OF MISTLETOE. THE NATURE OF MISTLETOE AND
 SIMILAR PLANTS.
-
 
 There are three varieties of the mistletoe.[2765] That which grows upon
 the fir and the larch has the name of[2766] stelis in Eubœa; and there
@@ -15549,11 +13907,7 @@ crop of the bird. It never exceeds a single cubit in height, and is
 always green and branchy. The male[2773] plant is fruitful, the female
 barren; sometimes, indeed, the male even bears no berry.
 
-
-
-
-CHAP. 94.—THE METHOD OF MAKING BIRDLIME.
-
+## Chap. 94.—the Method of Making Birdlime
 
 Birdlime is made of the berries of the mistletoe, which are gathered
 at harvest, and while in an unripe state; for if the rainy season
@@ -15568,11 +13922,7 @@ is birdlime; and after it has been thinned by the addition of walnut
 oil, it is found particularly useful for catching birds, it being quite
 sufficient if they only touch it with the wings.
 
-
-
-
-CHAP. 95.—HISTORICAL FACTS CONNECTED WITH THE MISTLETOE.
-
+## Chap. 95.—historical Facts Connected with the Mistletoe
 
 Upon this occasion we must not omit to mention the admiration that is
 lavished upon this plant by the Gauls. The Druids—for that is the name
@@ -15607,10 +13957,8 @@ that it is an antidote for all poisons.[2780] Such are the religious
 feelings which we find entertained towards trifling objects among
 nearly all nations.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, one
 thousand one hundred and thirty-five.
-
 
 ROMAN AUTHORS QUOTED.—M. Varro,[2781] Fetialis,[2782] Nigidius,[2783]
 Cornelius Nepos,[2784] Hyginus,[2785] Massurius,[2786] Cato,[2787]
@@ -15618,23 +13966,15 @@ Mucianus,[2788] L. Piso,[2789] Trogus,[2790] Calpurnius Bassus,[2791]
 Cremutius,[2792] Sextius Niger,[2793] Cornelius Bocchus,[2794]
 Vitruvius,[2795] Græcinus.[2796]
 
-
 FOREIGN AUTHORS QUOTED.—Alexander Polyhistor,[2797] Hesiod,[2798]
 Theophrastus,[2799] Democritus,[2800] Homer, Timæus[2801] the
 mathematician.
 
+## Book XVII
 
+## The Natural History of the Cultivated Trees
 
-
-BOOK XVII.
-
-THE NATURAL HISTORY OF THE CULTIVATED TREES.
-
-
-
-
-CHAP. 1. (1.)—TREES WHICH HAVE BEEN SOLD AT ENORMOUS PRICES.
-
+## Chap. 1. (1.)—trees Which Have Been Sold at Enormous Prices
 
 We have described the trees which grow spontaneously on land and in
 the sea,[2802] and it now remains for us to speak of those which owe
@@ -15733,12 +14073,8 @@ purpose. In the first place, however, we will consider in a general
 point of view, those influences of soil as well as weather which are
 exercised upon all the trees in common.
 
-
-
-
 CHAP. 2. (2.)—THE INFLUENCE OF WEATHER UPON THE TREES: WHAT IS THE
 PROPER SITUATION FOR THE VINE.
-
 
 Trees are fond of a site more particularly that faces the
 north-east;[2813] the breezes rendering their foliage more thick and
@@ -15905,11 +14241,7 @@ mentioned[2830] the plants that thrive in the shade, and in the cold
 even; but in all these matters experience will be found the best of
 guides.
 
-
-
-
-CHAP. 3.—WHAT SOILS ARE TO BE CONSIDERED THE BEST.
-
+## Chap. 3.—what Soils Are to Be Considered the Best
 
 Next after the influences of the heavens, we have to treat of those of
 the earth, a task that is in no way more easy than the previous one.
@@ -16111,12 +14443,8 @@ soil over one that is humid and unctuous, it is a labour of perfect
 madness.[2874] What can a man possibly hope for who cultivates such a
 soil as this?
 
-
-
-
 CHAP. 4. (6.)—THE EIGHT KINDS OF EARTH BOASTED OF BY THE GAULS AND
 GREEKS.
-
 
 There is another method, which has been invented both in Gaul and
 Britain, of enriching earth by the agency of itself, being * * * * and
@@ -16202,11 +14530,7 @@ soil is moist, a dry marl is best suited for it; and if dry, a rich
 unctuous marl. If, on the other hand, the land is of a medium quality,
 chalk or columbine[2889] marl is the best suited for it.
 
-
-
-
-CHAP. 5. (9.)—THE EMPLOYMENT OF ASHES.
-
+## Chap. 5. (9.)—the Employment of Ashes
 
 The agriculturists of the parts of Italy beyond the river Padus, are
 such admirers of ashes[2890] for this purpose, that they even prefer
@@ -16223,11 +14547,7 @@ the province of Gallia Narbonensis, and it is a fact even better
 ascertained that the grape ripens all the sooner for it; indeed, the
 dust there contributes more to its ripeness than the heat of the sun.
 
-
-
-
-CHAP. 6.—MANURE.
-
+## Chap. 6.—manure
 
 There are various kinds of manure, the use of which is of very ancient
 date. In the times of Homer[2893] even, the aged king is represented
@@ -16302,11 +14622,7 @@ prune[2908] the shoots of it, and plough them in round about it.” The
 same author says, also,[2909] “When you are going to sow corn in a
 field, fold your sheep[2910] there first.”
 
-
-
-
-CHAP. 7.—CROPS WHICH TEND TO IMPROVE THE LAND: CROPS WHICH EXHAUST IT.
-
+## Chap. 7.—crops Which Tend to Improve the Land: Crops Which Exhaust It
 
 Cato[2911] says, also, that there are some crops which tend to nourish
 the earth: thus, for instance, corn land is manured by the lupine, the
@@ -16318,11 +14634,7 @@ as, in fact, do all those plants which are pulled up by the roots. Take
 care, too, not to plant stone-fruits on corn land. Virgil[2913] is of
 opinion, also, that corn land is scorched by flax, oats, and poppies.
 
-
-
-
-CHAP. 8.—THE PROPER MODE OF USING MANURE.
-
+## Chap. 8.—the Proper Mode of Using Manure
 
 It is recommended,[2914] also, that the dung-heap should be kept in the
 open air, in a spot deep sunk and well adapted to receive the moisture:
@@ -16340,11 +14652,7 @@ blowing due west at the time, and that the moon is on the wane, and
 quite dry. Such precautions as these will increase in a most surprising
 degree the fertilizing effects of manure.
 
-
-
-
-CHAP. 9. (10.)—THE MODES IN WHICH TREES BEAR.
-
+## Chap. 9. (10.)—the Modes in Which Trees Bear
 
 Having now treated at sufficient length of the requisite conditions
 of the weather and the soil, we shall proceed to speak of those trees
@@ -16360,11 +14668,7 @@ am really surprised that Trogus should have ever believed it. Some of
 the trees are reproduced by several of the methods above enumerated,
 others, again, by all of them.
 
-
-
-
-CHAP. 10.—PLANTS WHICH ARE PROPAGATED BY SEED.
-
+## Chap. 10.—plants Which Are Propagated by Seed
 
 It is Nature herself that has taught us most of these methods, and more
 particularly that of sowing seed, as it was very soon evident how the
@@ -16382,11 +14686,7 @@ slow in coming to maturity,[2921] degenerate[2922] very rapidly, and
 must often be renewed by grafting: indeed, the chesnut even sometimes
 requires to be grafted.
 
-
-
-
-CHAP. 11.—TREES WHICH NEVER DEGENERATE.
-
+## Chap. 11.—trees Which Never Degenerate
 
 On the other hand, there are some trees which have the property of
 never degenerating, in whatever manner they are reproduced, the
@@ -16444,11 +14744,7 @@ propagated from pips as well as layers, and the sorb from seed, by
 sucker, or by slip: the citron, however, requires a warm site, the sorb
 a cold and moist one.
 
-
-
-
-CHAP. 12.—PROPAGATION BY SUCKERS.
-
+## Chap. 12.—propagation by Suckers
 
 Nature, too,[2936] has taught us the art of forming nurseries; when
 from the roots of many of the trees we see shooting up a dense forest
@@ -16471,11 +14767,7 @@ have been transplanted, they lay aside their bad qualities and become
 tame, like the wild animals, the moment they are separated from the
 parent stock.
 
-
-
-
-CHAP. 13.—PROPAGATION BY SLIPS AND CUTTINGS.
-
+## Chap. 13.—propagation by Slips and Cuttings
 
 Nature has also discovered another method, which is very similar to
 the last—for slips torn away from the tree will live. In adopting
@@ -16495,11 +14787,7 @@ intended they should occupy: but before we pass on to the other methods
 of propagation, it seems as well to mention the care that should be
 expended upon making seed-plots.[2940]
 
-
-
-
-CHAP. 14.—SEED-PLOTS.
-
+## Chap. 14.—seed-Plots
 
 In laying out a seed-plot it is necessary that a soil of the very
 highest quality should be selected; for it is very often requisite
@@ -16578,11 +14866,7 @@ upon it as advice that would only lead to so much unnecessary trouble,
 although it is most confidently urged that by this process the leaves
 are sure to be considerably larger than they otherwise would.
 
-
-
-
-CHAP. 15.—THE MODE OF PROPAGATING THE ELM.
-
+## Chap. 15.—the Mode of Propagating the Elm
 
 The elm seed is collected about the calends of March,[2957] before the
 tree is covered with leaves, but is just beginning to have a yellow
@@ -16616,11 +14900,7 @@ line. The same method is employed in propagating the poplar from seed
 as the elm, and the mode of transplanting it from the seed-plot is the
 same as that adopted in transplanting it from the forests.
 
-
-
-
-CHAP. 16.—THE HOLES FOR TRANSPLANTING.
-
+## Chap. 16.—the Holes for Transplanting
 
 But it is more particularly necessary in transplanting, that the
 trees should always be removed to a soil that is similar, or else
@@ -16729,11 +15009,7 @@ primary importance; while, at the same time, he recommends that the
 wound made in the stock should be first covered with dung, and then
 bound with a layer of leaves.[2984]
 
-
-
-
-CHAP. 17. (12.)—THE INTERVALS TO BE LEFT BETWEEN TREES.
-
+## Chap. 17. (12.)—the Intervals to Be Left Between Trees
 
 The present seems to me to be the proper occasion for making some
 mention of the intervals[2985] that ought to be left between the trees.
@@ -16750,11 +15026,7 @@ body of the tree in a spherical form, as in the apple and the pear, for
 instance. In the cherry, on the other hand, and the laurel, the shadow
 projected is of enormous extent.
 
-
-
-
-CHAP. 18.—THE NATURE OF THE SHADOW THROWN BY TREES.
-
+## Chap. 18.—the Nature of the Shadow Thrown by Trees
 
 The shadows of trees are possessed of certain properties. That of the
 walnut is baneful[2986] and injurious to man, in whom it is productive
@@ -16795,11 +15067,7 @@ step-mother. There is no doubt that the shadow of the walnut, the pine,
 the pitch-tree, and the fir is poisonous to everything it may chance to
 light upon.
 
-
-
-
-CHAP. 19.—THE DROPPINGS OF WATER FROM THE LEAVES.
-
+## Chap. 19.—the Droppings of Water from the Leaves
 
 A very few words will suffice for the water that drops from the
 leaves of trees. In all those which are protected by a foliage so
@@ -16833,12 +15101,8 @@ altogether. Nothing can reflect greater disgrace upon agriculturists
 than to have to undo what they have done, and it is therefore much the
 best to commit an error in leaving a superfluity of room.
 
-
-
-
 CHAP. 20. (13.)—TREES WHICH GROW BUT SLOWLY: THOSE WHICH GROW WITH
 RAPIDITY.
-
 
 Some trees are naturally slow in their growth; and those in particular
 which grow solely from seed[2997] and are long-lived. On the other
@@ -16853,11 +15117,7 @@ flower almost immediately, and then produce their seed. All trees will
 come to maturity more rapidly when the suckers are removed, and the
 nutrimental juices are thrown into the stock only.
 
-
-
-
-CHAP. 21.—TREES PROPAGATED FROM LAYERS.
-
+## Chap. 21.—trees Propagated from Layers
 
 Nature, too, has taught us the art of reproduction from layers. The
 bramble, by reason of its thinness and the excessive length to which
@@ -16901,11 +15161,7 @@ manner, as also from cuttings of the branches; neither savin nor
 rosemary having any seed. The rhododendrum[3005] is propagated by
 layers and from seed.
 
-
-
-
-CHAP. 22. (14.)—GRAFTING: THE FIRST DISCOVERY OF IT.
-
+## Chap. 22. (14.)—grafting: The First Discovery of It
 
 Nature has also taught us the art of grafting by means of seed. We
 see a seed swallowed whole by a famished bird; when softened by the
@@ -16919,11 +15175,7 @@ is said, too, that the jack-daw, from its concealment of the seeds
 of plants in holes which serve as its store-houses, gives rise to a
 similar result.
 
-
-
-
-CHAP. 23.—INOCULATION OR BUDDING.
-
+## Chap. 23.—inoculation or Budding
 
 In this, too, the art of inoculating[3007] took its rise. By the aid of
 an instrument similar to a shoe-maker’s paring-knife an eye is opened
@@ -16935,11 +15187,7 @@ fissure to be made in the knot of a bud which has burst through the
 bark, and in this is enclosed a bud taken from another tree. Thus far
 has Nature been our instructor in these matters.
 
-
-
-
-CHAP. 24.—THE VARIOUS KINDS OF GRAFTING.
-
+## Chap. 24.—the Various Kinds of Grafting
 
 A different mode of engrafting, however, has been taught us by chance,
 another great instructor, and one from whom, perhaps, we have learnt
@@ -17089,11 +15337,7 @@ The grafts of vines, however, are kept in dry holes, in which they are
 covered over with straw, and then with earth, care being taken to let
 the tops protrude.[3023]
 
-
-
-
-CHAP. 25.—GRAFTING THE VINE.
-
+## Chap. 25.—grafting the Vine
 
 Cato[3024] speaks of three[3025] methods of grafting the vine. The
 first consists in piercing the stock to the pith, and then inserting
@@ -17130,11 +15374,7 @@ near the stock and filled with ashes; through which a little water is
 slowly filtered. Light dews are extremely favourable to grafting by
 inoculation.
 
-
-
-
-CHAP. 26. (16)—GRAFTING BY SCUTCHEONS.[3029]
-
+## Chap. 26. (16)—grafting by Scutcheons.[3029]
 
 Grafting by scutcheons would appear to owe its origin to that by
 inoculation; but it is suited more particularly to a thick bark,
@@ -17196,11 +15436,7 @@ again, Etereius, his freedman, grafted the Corellian[3037] chesnut
 afresh. There is this difference between the two; the Corellian is more
 prolific, but the Etereian is of superior quality.
 
-
-
-
-CHAP. 27.—PLANTS WHICH GROW FROM A BRANCH.
-
+## Chap. 27.—plants Which Grow from a Branch
 
 It is accident that has the credit of devising the other methods of
 reproduction, and has taught us how to break off a branch of a tree
@@ -17218,11 +15454,7 @@ trees of this nature a branch is required three feet in length, and not
 quite the thickness of the arm, care being taken to keep the bark on,
 and to sharpen the branch to a point at the lower end.
 
-
-
-
-CHAP. 28.—TREES WHICH GROW FROM CUTTINGS; THE MODE OF PLANTING THEM.
-
+## Chap. 28.—trees Which Grow from Cuttings; The Mode of Planting Them
 
 The myrtle, too, may be propagated from cuttings, and the mulberry
 is grown no other way, the religious observances relative to
@@ -17237,11 +15469,7 @@ nearest the root should always be the one inserted in the earth. While
 the work of germination is going on, the slip should be kept well
 moulded up, until such time as it has fully taken root.
 
-
-
-
-CHAP. 29. (18.)—THE CULTIVATION OF THE OLIVE.
-
+## Chap. 29. (18.)—the Cultivation of the Olive
 
 Cato[3041] has treated so well of the precautions that are necessary
 in cultivating the olive, that we cannot do better than employ his
@@ -17267,12 +15495,8 @@ greatest caution, and see that there is as much earth left about the
 roots as possible. When you have covered the roots well up, tread down
 the earth with the foot, so that nothing may injure the plant.”
 
-
-
-
 CHAP. 30.—TRANSPLANTING OPERATIONS AS DISTRIBUTED THROUGHOUT THE
 VARIOUS SEASONS OF THE YEAR.
-
 
 If the enquiry is made what is the proper season for planting the
 olive, my answer will be, “where the soil is dry, at seed-time; where
@@ -17412,11 +15636,7 @@ branch is cut away and left entirely upon the tree that has so adopted
 it. This method, however, is not at present universally known, at all
 events, so far as I have been able to ascertain.
 
-
-
-
-CHAP. 31.—CLEANING AND BARING THE ROOTS, AND MOULDING THEM.
-
+## Chap. 31.—cleaning and Baring the Roots, and Moulding Them
 
 In addition to these particulars, the same considerations that I have
 already[3058] mentioned in reference to warm or cold, moist or dry
@@ -17441,11 +15661,7 @@ range near the surface far and wide. Such, then, are the general
 observations that we have to make in reference to the planting and
 grafting of trees that we value for their fruits.
 
-
-
-
-CHAP. 32. (20.)—WILLOW-BEDS.
-
+## Chap. 32. (20.)—willow-Beds
 
 It now remains to give an account of those trees which are planted for
 the sake of others—the vine[3059] more particularly—and the wood of
@@ -17476,11 +15692,7 @@ before it is planted, and a space is left between the plants a foot and
 a palm in width, after which they are covered with earth to the depth
 of a couple of cubits.
 
-
-
-
-CHAP. 33.—REED-BEDS.
-
+## Chap. 33.—reed-Beds
 
 The reed[3064] requires a soil still moister even than that employed
 for the willow. It is planted by placing the bulb of the root, that
@@ -17507,11 +15719,7 @@ reed is usually cut when the moon is on the wane.[3068] When required
 for the vineyard, it is better dried for a year than used in a green
 state.
 
-
-
-
-CHAP. 34.—OTHER PLANTS THAT ARE CUT FOR POLES AND STAKES.
-
+## Chap. 34.—other Plants that Are Cut for Poles and Stakes
 
 The chesnut is found to produce better stays[3069] for the vine than
 any other tree, both from the facility with which they are worked,
@@ -17572,12 +15780,8 @@ stakes of the very stoutest quality, is grown from cuttings, like the
 poplar. As to the cypress, we have already spoken of it at sufficient
 length.[3078]
 
-
-
-
 CHAP. 35. (21.)—THE CULTURE OF THE VINE AND THE VARIOUS SHRUBS WHICH
 SUPPORT IT.
-
 
 Having now described what we may call the armoury[3079] of the vine,
 it remains for us to treat with a particular degree of care of the
@@ -18316,11 +16520,7 @@ in pruning, or to turn them whichever way you please. When trees are
 pruned at the top, cup-like cavities should be formed[3165] there, to
 prevent the water from lodging.
 
-
-
-
-CHAP. 36.—HOW GRAPES ARE PROTECTED FROM THE RAVAGES OF INSECTS.
-
+## Chap. 36.—how Grapes Are Protected from the Ravages of Insects
 
 Stays, too, should be given to the vine for it to take hold of and
 climb upwards, if they are taller than it. (24.) Espaliers[3166]
@@ -18334,11 +16534,7 @@ Scorpio, Sagittarius, or Taurus: and that, in general, they ought to be
 planted either when the moon is at full or on the increase. In Italy,
 ten workmen will suffice for one hundred jugera of vineyard.
 
-
-
-
-CHAP. 37.—THE DISEASES OF TREES.
-
+## Chap. 37.—the Diseases of Trees
 
 Having now treated sufficiently at length of the planting and
 cultivation of trees—(for we have already said enough of the palm[3169]
@@ -18601,11 +16797,7 @@ the hazel[3222] as well; indeed it will become weak and ailing if they
 are not removed to a distance from it. Nitre, alum, warm sea-water, and
 the shells of beans[3223] and fitches act as poisons on the vine.
 
-
-
-
-CHAP. 38. (25.)—PRODIGIES CONNECTED WITH TREES.
-
+## Chap. 38. (25.)—prodigies Connected with Trees
 
 Among the maladies which affect the various trees, we may find room
 for portentous prodigies also. For we find some trees that have
@@ -18660,11 +16852,7 @@ Equestrian order, bodily crossed the public highway, while the fields
 that lay on the opposite side of the road passed over to supply the
 place which had been thus vacated by the olive-yard.[3229]
 
-
-
-
-CHAP. 39. (26.)—TREATMENT OF THE DISEASES OF TREES.
-
+## Chap. 39. (26.)—treatment of the Diseases of Trees
 
 Having set forth the various maladies by which trees are attacked, it
 seems only proper to mention the most appropriate remedies as well.
@@ -18697,11 +16885,7 @@ suckers; this, however, is not the case with all of them, but only
 those, the nature of which, as we have already stated,[3232] will admit
 of it.
 
-
-
-
-CHAP. 40.—METHODS OF IRRIGATION.
-
+## Chap. 40.—methods of Irrigation
 
 Watering is good for trees during the heats of summer, but injurious in
 winter; the effects of it are of a varied nature in autumn, and depend
@@ -18718,11 +16902,7 @@ the ones that have been the most used to it. On the other hand, plants
 which grow in a dry soil, require no more moisture than is absolutely
 necessary to their existence.
 
-
-
-
-CHAP. 41.—REMARKABLE FACTS CONNECTED WITH IRRIGATION.
-
+## Chap. 41.—remarkable Facts Connected with Irrigation
 
 In the Fabian district, which belongs to the territory of Sulmo[3233]
 in Italy, where they are in the habit, also, of irrigating the fields,
@@ -18736,11 +16916,7 @@ call “warming” the soil. This peculiarity, however, exists in the
 water of one river[3234] only, the cold of which in summer is almost
 insupportable.
 
-
-
-
-CHAP. 42. (27.)—INCISIONS MADE IN TREES.
-
+## Chap. 42. (27.)—incisions Made in Trees
 
 The proper remedies for charcoal-blight and mildew[3235] will be
 pointed out in the succeeding Book.[3236] In the meantime, however,
@@ -18754,11 +16930,7 @@ It is a proof that the method has been adopted with success, when the
 fissures so made remain open and become filled with wood of the trunk
 growing between the lips.
 
-
-
-
-CHAP. 43.—OTHER REMEDIES FOR THE DISEASES OF TREES.
-
+## Chap. 43.—other Remedies for the Diseases of Trees
 
 The medical treatment of trees in a great degree resembles that of man,
 seeing that in certain cases the bones of them both are perforated
@@ -18786,11 +16958,7 @@ the fig, just as it is beginning to put forth leaves, its strength and
 productiveness are greatly increased. As to caprification, the effect
 of that is to ripen the fruit.
 
-
-
-
-CHAP. 44.—CAPRIFICATION, AND PARTICULARS CONNECTED WITH THE FIG.
-
+## Chap. 44.—caprification, and Particulars Connected with the Fig
 
 It is beyond all doubt that in caprification the green fruit gives
 birth to a kind of gnat;[3240] for when they have taken flight, there
@@ -18813,11 +16981,7 @@ the wild figs, the black ones, and those which grow in rocky places,
 are the most esteemed, from the fact of the fruit containing the most
 seed. Caprification takes place most advantageously just after rain.
 
-
-
-
-CHAP. 45.—ERRORS THAT MAY BE COMMITTED IN PRUNING.
-
+## Chap. 45.—errors that May Be Committed in Pruning
 
 But, before everything, especial care should be taken that intended
 remedies are not productive of ill results; as these may arise from
@@ -18832,11 +16996,7 @@ even is never scraped,[3245] except in spring. In pruning a tree,
 all that is removed beyond what is absolutely necessary, is so much
 withdrawn from its vitality.
 
-
-
-
-CHAP. 46.—THE PROPER MODE OF MANURING TREES.
-
+## Chap. 46.—the Proper Mode of Manuring Trees
 
 The same precautions, too, are to be regarded in manuring. Though
 manure is grateful to the tree, still it is necessary to be careful
@@ -18850,11 +17010,7 @@ plentifully. It is generally considered the proper proportion, to use
 three modii to every ten feet square; this, however, the nature of the
 soil must decide.
 
-
-
-
-CHAP. 47.—MEDICAMENTS FOR TREES.
-
+## Chap. 47.—medicaments for Trees
 
 Wounds and incisions of trees are treated also with pigeon dung and
 swine manure. If pomegranates are acid, the roots of the tree are
@@ -18960,10 +17116,8 @@ being cut down, after a sacrifice has first been offered: the form of
 prayer, and the rest of the proceedings, will be found fully set forth
 in the same work of his.
 
-
 SUMMARY.—Remarkable facts, narratives, and observations, eight
 hundred and eighty.
-
 
 ROMAN AUTHORS QUOTED.—Cornelius Nepos,[3267] Cato[3268] the
 Censor, M. Varro,[3269] Celsus,[3270] Virgil,[3271] Hyginus,[3272]
@@ -18971,7 +17125,6 @@ Saserna[3273] father and son, Scrofa,[3274] Calpurnius Bassus,[3275]
 Trogus,[3276] Æmilius Macer,[3277] Græcinus,[3278] Columella,[3279]
 Atticus Julius,[3280] Fabianus,[3281] Mamilius Sura,[3282] Dossenus
 Mundus,[3283] C. Epidius,[3284] L. Piso.[3285]
-
 
 FOREIGN AUTHORS QUOTED.—Hesiod,[3286] Theophrastus,[3287]
 Aristotle,[3288] Democritus,[3289] Theopompus,[3290] King Hiero,[3291]
@@ -18988,8 +17141,7 @@ who wrote on Agriculture, Dionysius[3315] who translated Mago,
 Diophanes[3316] who made an Epitome of Dionysius, Aristander[3317] who
 wrote on Portents.
 
-
-FOOTNOTES:
+## Footnotes
 
 [1] In B. xii. c. 32—it is supposed by some that it is the Roman Libra
 that is meant, under the name of “Mina,” as containing eighty-four
@@ -28679,12 +26831,9 @@ Lampsacus, see end of B. iii.
 
 [3317] See end of B. viii.
 
+## End of Vol. III
 
-END OF VOL. III.
-
-
-J. BILLING, PRINTER AND STEREOTYPER, WOKING, SURREY.
-
+## J. Billing, Printer and Stereotyper, Woking, Surrey
 
 Transcriber’s notes:
 

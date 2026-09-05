@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Overwhelming Obligations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 910
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What shall I render unto the Lord for all His benefits toward me?" Psalm 116:12.
 
@@ -144,7 +141,6 @@ What a dear Savior I have found."
 And yet, dear Friends, it is not for me to answer the question that is propounded for you. With these few brief hints I do put the question in all its touching pathos, in all its deep solemnity, in all its momentous gravity, before every Christian man and woman here—and I cite you to answer it before the Searcher of all hearts—"What shall I render?" Thrice happy you who respond in lip and life to the urgent call! "For God is not unrighteous to forget your work and labor of love, which you have showed toward His name, in that you have ministered to the saints, and do minister. And we desire that every one of you show the same diligence to the full assurance of hope unto the end that you are not slothful, but followers of them who through faith and patience inherit the promises."
 
 As for those of you, my Hearers, who are not yet converted—you who are not saved—this is not the question for you. Your question is, "What must I do to be saved?" and the answer is, "Believe on the Lord Jesus Christ, and you shall be saved." O believe on Him tonight! Trust Him—that is the point—trust Jesus Christ. You may come to Him and be saved at once. Then, not till then, you will begin to serve Him. May God bless you, my dear Friends, every one of you, for Christ's sake.
-
 
 ---
 [[Sermon 0909 Voices from the Excellent Glory|← #909]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0911 The Putting Away Of Sin|#911 →]]

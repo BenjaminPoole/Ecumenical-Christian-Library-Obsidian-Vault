@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 140. Mark 8:22-26
-
-**Mark 8:22-26**
 
 **22**. And he cometh to Bethsaida, and they bring to him a blind man, and implore him to touch him. **23**. Then taking the blind man by the hand, he led him out of the village. And when he had spat on his eyes, and laid his hands upon him, he asked him if he saw any thing. **24**. And he looking up said, I see men; for I perceive them walking as if they were trees. **25**. Then he again laid his hands upon his eyes, and desired him to look; and he was restored, so that he saw them all clearly. **26**. And he sent him away to his own house, saying, Neither enter into the village, nor tell it to any one in the village.
 

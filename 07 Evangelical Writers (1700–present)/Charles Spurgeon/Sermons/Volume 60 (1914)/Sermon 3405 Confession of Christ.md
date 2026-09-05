@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Confession of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3405
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whoever, therefore, shall confess Me before men, him will I confess before My Father who is Heaven. But whoever shall deny Me before men, him will I also deny before My Father who is in Heaven." Matthew 10:32,33.
 
@@ -27,7 +24,7 @@ But, Brothers and Sisters, there are other matters beside faith. And while belie
 
 We shall, therefore, first of all, consider what is the duty taught here. And secondly, why it is a duty. And then, thirdly, what are the sanctions of reward and penalty appended to the performance or neglect of this duty
 
-I. WHAT IS THE DUTY HERE MENTIONED?
+## I. What Is the Duty Here Mentioned?
 
 "Whoever shall confess Me before men, him will I confess." Observe the word. It is not "profess." It means that, but it means more. It is "confess." I take it a difference worthy of observation. To "profess" Christ may be work which anyone would do, especially in soft and silken times, when a profession may even be remunerative, when it may even add respectability to a man's character and make his path smooth! But the "confession" has this difference in it—it is a kind of thing that comes out when a sort of accusation is brought. A man professes Christ before his brethren because they will all be pleased with him for it. Another man in the midst of enemies, who will revile and persecute him, pleads guilty to the blessed impeachment of being a Christian. He confesses that what they count a crime, he counts a virtue—while they have him brought up, as it were, before their judgment seat. The crime alleged is that this man is a follower of Christ and, therefore, to be scoffed at, to be badgered and otherwise maltreated! The man says, "I am guilty, if it is guilt. I am thus vile, and rejoice in it—and I hope to be viler in it! I confess Christ, that He is mine and I am His." I think that is an obvious difference between profession and confession—there may be other differences, but we shall not be detained with them now. This seems to me to be clear beyond dispute. To "profess" Christ is but an easy thing. To "confess" Him implies that the circumstances make that confession a deed of courage, exposing the confessing soul to peril and penalty.
 
@@ -55,7 +52,7 @@ There will occasionally happen—I will only mention this and then conclude this
 
 I do not say that you are always to speak, for sometimes it would be casting pearls before swine. But I will say that if any unholy cowardice will make you hold your tongue and keep silence when you might have spoken for your Master's name, you have need to confess this sin with bitter tears and trembling, lest that denial should not be the denial of Peter, for which there is forgiveness after sore repentance—but the denial of Judas, which followed only by remorse, made him the son of perdition. Oh, stand up for Jesus! To be ashamed to acknowledge yourself a Christian, ah, then Christianity may well be ashamed of you! I know that is not the name—it is Presbyterian, Puritan, Methodist, hypocrite—oh, confess the impeachment whatever it may be! If they choose to make even the term, "hypocrite," a synonym for Christian, tell them that by the way which they call hypocrisy, even so do you in all sincerity worship the Lord God of your fathers! Be bold enough to stand in the front rank for Christ and never hide yourself behind for fear of feeble man! He is worthy to be confessed, so dare to confess Him, I beseech you! Thus much in explanation of the duty argument for it.
 
-II. WHY IS IT A DUTY?
+## II. Why Is It a Duty?
 
 To be very brief, first, the genius of the Christian religion requires it The genius and spirit of the Christian religion is, first, light. Everything is above board with Christianity. We have no mysteries which are only revealed to a special few. We are not like those teachers of philosophy who keep their tenets for the initiated. The religion of Jesus Christ, as far as men are able to comprehend it, is as plain as a pikestaff. We, my Brothers and Sisters, have no learned books to which to point you and say, "There is the secret locked up in the dead languages. And there in the process of reading some twenty tomes, you may fish out the secret almost as clearly as the secret of alchemy." No, but here is our secret— Jesus Christ, the Son of God, was made flesh, died for sinners, the Just for the unjust, and whoever believes in Him shall be saved! If there is any mystery, it is only because there must be something mysterious in that which comes of God and tells of Him. But the Gospel never aims at mystery!
 
@@ -81,7 +78,7 @@ I shall urge no other reason. If that last convinces not, the spirit of obedienc
 
 Now, the last thing is to be treated with brevity, but great solemnity because we are to enquire—
 
-III. WHAT ARE THE REWARDS AND PENALTIES ATTACHED TO THIS DUTY?
+## III. What Are the Rewards and Penalties Attached to This Duty?
 
 Here we have two sanctions. "He that confesses Me before men, him will I confess before My Father who is in Heaven." Take this sentence home with you, everyone of you. What Christ is to you on earth, that you will be to Christ in Heaven. I shall repeat that Truth of God. Whatever Jesus Christ is to you on earth, you will be to Him in the Day of
 
@@ -99,9 +96,9 @@ Choose you, this night, whom you will serve! By the living God, before whom I st
 
 But I cannot finish so. Consider, think and turn unto Him with full purpose of heart. Give yourselves to Him. Unite yourselves with God's people, wherever you may find them. Cast in your lot with the lovers of Jesus in whatever Christian denomination you may happen to meet with them. The Lord bless you and them—and acknowledge you in the day when He shall appear! May God add His solemn sanction, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-MATTHEW 10:16-23.
+## Matthew 10:16-23
 
 Verse 16. Behold, I send you forth as sheep in the midst of wolves: be you, therefore, wise as serpents and harmless as doves. It is a strange errand that you are sent upon—not as dogs to fight with wolves. Yet you are to fight with them, but you are to go as lambs in the midst of wolves! Expect, therefore, that they will rend you. Bear much, for even in that you shall conquer! If they kill you, you shall be honored in your death. As I have often said, the fight looks very unequal between sheep and wolves, yet at the present moment there are vastly more sheep in the world than wolves, the sheep having outlived the wolves. In this country, at any rate, the last wolf is gone and the sheep, with all their weaknesses, continue to multiply. "That is due," you say, "to the shepherd." And to Him shall your safety and your victory be due! He will take care of you. "I send you forth as sheep among wolves." But do not, therefore, provoke the wolves. "Be wise as serpents." Have a holy prudence. "Be as harmless as doves," but not as silly as doves.
 
@@ -110,7 +107,6 @@ Verse 16. Behold, I send you forth as sheep in the midst of wolves: be you, ther
 20, 21. For it is not you that speaks, but the Spirit of your Father who speaks in you. And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents and cause them to be put to death. Strange venom of human nature! It never grows so angry against anything as against God's Truth. Why is this? False religions will tolerate one another, but they will not tolerate the religion of Christ! Is not this all accounted for by that old dark saying at the gates of Eden, "I will put enmity between you and the woman—between your seed and her Seed." That enmity is sure to come up as long as the world stands.
 
 22, 23. And you shall be hated of all men for My name's sake: but he that endures to the end shall be saved. But when they persecute you in this city, flee you into another, for verily I say unto you, You shall not have gone over the cities ofIsrael till the Son of Man is come. They had not been able to get all through Palestine before the destruction of Jerusalem. Perhaps we shall scarcely have been able to preach the Gospel in every part of the world before our Master's speedy footsteps shall be heard.
-
 
 ---
 [[Sermon 3404 A Gross Indignity|← #3404]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3406 Fullness of Joy Our Privilege|#3406 →]]

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 25. No. XVIII. David Forrest, General of the Mint
 
 ## No. XVIII.
 
-DAVID FORREST, GENERAL OF THE MINT.
+## David Forrest, General of the Mint
 
 David Forrest, General of the Mint, was probably a native of East-Lothian. His name first occurs in 1546, as entertaining George Wishart, in his house in the town of Haddington. Knox speaks of him, when mentioning this circumstance, as "ane man that long hes professed the truth," (p. 137.) He had retired to England soon afterwards, as Sir Ralph Sadler, when noticing that Forrest had come to England, along with William Maitland of Lethington, and Mr. Henry Balnaves, in November 1559, he adds,—"who departed out of England in the beginning of the reign of Queen Mary for cause of religion, and now retuurneth agayn because of these troubles in Scotland, as he sayeth."—(Letters, vol. i. p. 585.)
 

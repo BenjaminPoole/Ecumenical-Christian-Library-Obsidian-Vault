@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Romans 16:1-16
 
@@ -137,11 +136,11 @@ If any one objects and says, that there is an inconsistency in the words of Paul
 
 Though it is not agreed among the learned in what sense he calls the gospel a hidden mystery in this place, and in Ephesians 3:9, and in Colossians 1:26; yet their opinion has most in its favor, who apply it to the calling of the Gentiles, to which Paul himself expressly refers in his Epistle to the Colossians. Now, though I allow this to be one reason, I yet cannot be brought to believe that it is the only reason. It seems to me more probable that Paul had also a regard to some other differences between the Old and the New Testament. For though the Prophets formerly taught all those things which have been explained by Christ and his Apostles, yet they taught them with so much obscurity, that in comparison with the clear brightness of gospel light, it is no wonder that those things are said to have been hidden which are now made manifest. Nor was it indeed to no purpose that Malachi declared that the Sun of righteousness would arise, (Malachi 4:2;) or that Isaiah had beforehand so highly eulogized the embassy of the Messiah. And lastly, it is not without reason that the gospel is called the kingdom of God: but we may conclude from the event itself, that then only were opened the treasures of celestial wisdom, when God appeared to his ancient people through his only-begotten Son, as it were face to face, all shadows having been done away. He again refers to the end, mentioned at the beginning of the first chapter, for which the gospel is to be preached, — that God may lead all nations to *the obedience of faith*
 
-**PRAISE FOR EVER TO**
+## **Praise for Ever To**
 
-**THE ONLY WISE GOD:**
+## **The Only Wise God:**
 
-**AMEN.**
+## **Amen.**
 
 ---
 [[Calvin Romans 15|← Romans 15]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Romans/romans-index|Contents]]

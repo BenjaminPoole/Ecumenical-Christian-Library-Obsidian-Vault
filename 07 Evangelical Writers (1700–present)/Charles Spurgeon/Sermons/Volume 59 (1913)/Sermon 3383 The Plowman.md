@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Plowman
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3383
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Does the plowman plow all day to sow?" Isaiah 28:24.
 
@@ -93,7 +90,7 @@ My Jesus and my All."
 
 I tried to represent faith as falling into Christ's arms and I thought I made it so plain that the wayfaring man could not err therein. When I had finished preaching, a young man came to me and said, "But, Sir, I cannot fall upon Christ's arms." I replied at once, "Tumble into them anyway you can! Faint away into Christ's arms, or die in Christ's arms, so long as you get there." Many talk of what they can do and what they cannot do, and I fear they miss the vital point. Faith is leaving off "can-ing" and "cannot-ing," and leaving it all to Christ, for He can do all things, though you can do nothing! "Does the plowman plow all day to sow?" No, he makes progress and goes from plowing to sowing. Go, and do you likewise—sow unto the Spirit the precious Seed of faith in Christ—and the Lord will give you a joyous harvest!
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 10:16-33.
+## Exposition by C. H. Spurgeon: Matthew 10:16-33
 
 Verses 16-25. Behold, Isendyou forth as sheep in the midst ofwolves: be you therefore wise as serpents, andharm-less as doves. But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues. And you shall be brought before governors and kings for My sake, for a testimony against them and the Gentiles. But when they deliver you up, take no thought how or what you shall speak: for it shall be given you in that same hour what you shall speak For it is not you that speaks, but the Spirit of Your Father which speaks in you. And the brother shall deliver up the brother to death, and the father the child; and the children shall rise against their parents, and cause them to be put to death And you shall be hated of all men for My name's sake; but he that endures to the end shall be saved. But when they persecute you in this city, flee you into another: for verily I say unto you, you shall not have gone over the cities of Israel till the Son of Man is come. The disciple is not above his master, nor his servant above his lord. It is enough for the disciple that he is as his master, and the servant as his lord. It is more than enough, for the disciple might expect to fare worse than his master, and the servant to have less comfort than the lord. So it is in worldly things—that our Lord and Master has such fellowship with His people that He does not put it so, but He says, "It is enough for the disciple that he is as his master, and the servant as his Lord."
 
@@ -124,7 +121,6 @@ Some of the best and noblest spirits that ever lived have not been ashamed to as
 35\. 36. For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter-in-law against her mother-in-law. And a man's foes shall be they of his own household. They will drive us back
 
 when they perceive that our face is set towards Heaven. When you see a fish swimming with the stream, it is a almost always a dead one. The living fish goes against the stream—and the true child of God has to go against the current of mankind, and oftentimes the hardest push in life is to go against father, mother, brother, sister, for Christ's sake and the Gospel.
-
 
 ---
 [[Sermon 3382 Our Lord's Transcendent Greatness|← #3382]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3384 Growth in Faith|#3384 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Good Shepherd
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3060
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD is my shepherd; I shall not want." Psalm 23:1.
 
@@ -94,7 +91,6 @@ But Beloved, we must divide our congregation before we send you away and remind 
 Beloved, there are some I know here—and your conscience tells you whom I mean—who have a voice within your own hearts which says, "I am not one of Christ's sheep." Well then, there is no promise for you that you shall not want! The promise and the Providence are for Believers, not for you. There is no promise that all things shall work together for your good, but rather you shall be cursed in your basket and cursed in your store, cursed in the field, cursed in your house, cursed in your going out and cursed in your coming in, for, "the curse of the Lord is in the house of the wicked." It does not merely peep in at his window but it is in his house! Yet God "blesses the habitation of the just." If you do not repent, the curse shall follow you until your dying day and not having Christ for your Shepherd, you shall wander where that hungry wolf, the devil, shall at last seize upon your soul—and everlasting misery and destruction from the Presence of Jehovah must be your inevitable, miserable and inexpressibly awful doom! May the Lord in mercy deliver you from it!
 
 And this is the way of salvation—"He that believes and is baptized shall be saved; but he that believes not shall be damned." "He that believes and is baptized"—we omit nothing that God has said. "He that believes and is baptized"— not he that is baptized and then believes (which would be reversing God's order), but "He that believes and is baptized— not he that is baptized without believing, but the two joined together! He that believes with his heart and is baptized, confessing with his mouth—"he that believes and is baptized shall be saved." Do you neglect one part of it? It is at your peril, Sir! "He that believes and is baptized," says God. If any of you have neglected one portion of it—if you have believed and have not been baptized—God will save you. Still, this promise says not so. "He that believes and is baptized." It puts the two together and "what God has joined together, let no man put asunder." What He has ordered let no man disarrange. "He that believes"—that is, he that trusts in Jesus—he that relies upon His blood, His merits, His righteousness—"and is baptized, shall be saved; but he that believes not shall be damned."
-
 
 ---
 [[Sermon 3059 The Poor Man's Friend|← #3059]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3061 The Rule of Grace|#3061 →]]

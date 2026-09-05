@@ -10,12 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 21. Articles of Inquiry, 1550
 
-ARTICLES OF INQUIRY
-
-VISITATION OF THE CATHEDRAL CHURCH OF CANTERBURY,
+*Visitation of the Cathedral Church of Canterbury*
 
 1550, 10 Septemlris, Visitation in the Chapter-house ly my lord Archlishop, and Hari. MSS. Articles there ministered to be answered unto. coiiyby
 
@@ -39,7 +36,7 @@ The chronological order has in this instance been departed from for the sake of 
 
 [3 See the sixth of the Injunctions to the Dean and Chapter of Canterbury, p. lf»2.J
 
-100 ARTICLES OF VISITATION, 1550.
+## 100 Articles of Visitation, 1550
 
 the benefices appropriated to this church, or elsewhere, by the appropriations, ordinances, and statutes of this church, have been done accordingly, or no.
 
@@ -89,7 +86,7 @@ Item, Whether every year once there is a perfect and full account made of all an
 
 Item, Whether any within this church have been or is a hindercr of the word of God, either for reading or preaching of the same, or a notorious slanderer of the preachers thereof.
 
-ARTICLES OF VISITATION, 1550. 161
+## Articles of Visitation, 1550. 161
 
 Item, Whether those of this church, which may dispend in benefices and other pro motions ecclesiastical an hundred pounds, do give competent exhibition to one scholar at one of the universities of Cambridge or Oxford, and so for so many hundred pounds as lie may dispend, do find so many scholars, and what be their names1.
 

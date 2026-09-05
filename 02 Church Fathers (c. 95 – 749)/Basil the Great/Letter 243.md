@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 243
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the bishops of Italy and Gaul concerning the condition and confusion of the Churches.
 

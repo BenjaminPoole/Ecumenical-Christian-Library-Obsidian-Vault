@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Jesus Knew What He Would Do
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1605
 
-DELIVERED ON THURSDAY EVENING, JUNE 23, 1881,.
+*Delivered on Thursday Evening, June 23, 1881*
 
 > "This He said to test him: for He Himself knew what He would do." John 6:6.
 
@@ -132,7 +131,6 @@ It is no question with Jesus and, therefore, it should never be an unbelieving q
 Do you know why that question is put to you? It is to test you and to humble you. It is meant to make you feel the impossibility of salvation by your own works so that you may submit yourself to the righteousness of God and be saved by faith in Christ Jesus! Remember that there is no question with Christ about how you are to be saved. In fact, that question was settled—when shall I say? Settled when He died? No, settled long before that—it was decided in the Everlasting Covenant before the day-star knew its place, or planets ran their round! God had then regarded His son as the Lamb of God, slain before the foundation of the world and to this day the word still stands—"Behold the Lamb of God, which takes away the sin of the world."
 
 Look unto Him and be saved! There is no question about the possibility of your salvation, or about Christ's ability to save you. The question in your heart, "What must I do to be saved?" is put there to test you, but Jesus Himself knows what He will do. What a blessed word is that! He knows how He will pardon, comfort, regenerate, instruct and lead you! He knows how He will keep you to the end by His unchanging Grace! He knows how He will preserve you and sanctify you and use you and glorify His own name by you! He knows how He will take you up to Heaven and set you upon His Throne and make all the angels wonder and adore, as they see what He will do! God bless what He will do. God bless you for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1604 Heart Disease Curable|← #1604]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1606 Ziklag—or David Encouraging Himself In God|#1606 →]]

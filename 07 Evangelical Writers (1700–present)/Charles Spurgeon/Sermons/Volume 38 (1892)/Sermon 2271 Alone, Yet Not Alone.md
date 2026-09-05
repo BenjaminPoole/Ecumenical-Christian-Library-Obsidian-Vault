@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Alone, Yet Not Alone
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2271
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered them, Do you now believe? Behold, the hour comes, yes, is now come, that you shall be scattered, every man to his own, and shall leave Me alone: and yet I am not alone, because the Father is with Me." John 16:31,32.
 
@@ -141,7 +138,7 @@ But if not literally only an hour, yet certainly the longest reign of persecutio
 
 So it shall seem in Heaven as if we never had suffered anything for Christ. The martyr shall go in the red-hot chariot from the stake—and when he gets to Heaven, he will have forgotten that he burned to death, in the exceeding joy of beholding his Master! It is but an hour and we shall meet before the golden Throne of God and stand upon the sea of glass, and sing forever, "Unto Him that loved us, and washed us from our sins in His own blood, and has made us kings and priests unto God and His Father—to Him be Glory and dominion forever and ever. Amen."
 
-EXPOSITION BY C. H. SPURGEON JOHN 16:16-33.
+## Exposition by C. H. Spurgeon John 16:16-33
 
 Verse 16. A little while and you shall not see Me: and again, a little while, and you shall see Me, because I go to the Father. Remember that the disciples were on the verge of great trouble. Their Leader and Friend was about to be taken away from them by a cruel death. They were to be tried as they had never been tried before. The Savior, therefore, prepared their minds for the trial. I have often noticed that before a great trouble comes, the Spirit of God secretly comforts
 
@@ -180,7 +177,6 @@ different sort, although it comes from the same Fountain as the first—"For the
 33\. These things I have spoken unto you, that in Me you might have peace. In the world you shall have tribulation: but be of good cheer; I have overcome the world. Christ wants His disciples to have peace. Are you fretting tonight? Are you afraid of Monday? Are you fearful about the trials of the week? Christ wants you to be at peace! Be quiet. Be quiet. Let all be still within your heart and wait your Father's will. "In the world you shall have tribulation." On God's threshing floor the flail will be kept going. If you are a child of God, you will have to suffer. The Captain of our salvation was made perfect through sufferings—and good soldiers of Jesus Christ must expect to pass through the same experience. As long as you are here, you will be tried—"In the world you shall have tribulation: but be of good cheer; I have overcome the world." Think of that! The Christ who is about to sweat great drops of blood and to die on the Cross of Calvary, says, "I have overcome." It is not Julius Caesar's, "Veni, vidi, vici," but it is Christ's, "Veni, vidi, vici"—"I came, I saw, I conquered." "I have overcome."
 
 And as He has overcome, so shall you, if you are His true follower!
-
 
 ---
 [[Sermon 2270 Two I Wills In Isaiah 41|← #2270]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2272 Longing To Find God|#2272 →]]

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # The Fight
 
-Chapter IV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter IV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Fight the good fight of faith.* ”—1 Timothy vi. 12.
 
@@ -156,7 +155,6 @@ Let me conclude all with the words of John Bunyan, in one of the most beautiful 
 “After this it was noised abroad that Mr. Valiant-for-truth was sent for by a summons, by the same party as the others. And he had this word for a token that the summons was true, ‘The pitcher was broken at the fountain.’ (Eccl. xii. 6.) When he understood it, he called for his friends, and told them of it. Then said he, ‘I am going to my Father’s house; and though with great difficulty I have got hither, yet now I do not repent me of all the troubles I have been at to arrive where I am. My sword I give to him that shall succeed me in my pilgrimage, and my courage and skill to him that can get it. My marks and scars I carry with me, to be a witness for me that I have fought His battles, who will now be my rewarder.’ When the day that he must go home was come, many accompanied him to the river-side, into which, as he went down, he said, ‘O death where is thy sting?’ And as he went down deeper, he cried, ‘O grave, where is thy victory?’ So he passed over, and all the trumpets sounded for him on the other side.”
 
 May our end be like this! May we never forget that without fighting there can be no holiness while we live, and no crown of glory when we die!
-
 
 ---
 [[Holiness 03 Holiness|← Holiness]] · [[Holiness|Holiness Contents]] · [[Holiness 05 The Cost|The Cost →]]

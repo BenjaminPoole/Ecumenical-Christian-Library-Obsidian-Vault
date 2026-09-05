@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 24. Letter XXIII. To the Same (January 1413)
-
-LETTER XXIII. TO THE SAME (January 1413)
 
 Faint not ; The attacks of his enemies ; The benediction of the
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Christ the Seeker and Savior of the Lost
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3309
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the Son of Man has come to seek and to save that which was lost." Luke 19:10.
 
@@ -113,7 +110,7 @@ Then He seeks their faith He seeks that they may come and trust Him—and He has
 
 He seeks their hearts, for it is their hearts that He has lost. And oh, how sweetly does Christ, by the Holy Spirit, win men's affection and hold them fast! I shall never forget how He won mine—how first He gained my ear and then my desires, so that I wished to have Him for my Lord! And then He taught me to trust Him. And when I had trusted Him and found that I was saved, then I loved Him and I love Him still! So, dear Hearer, if Jesus Christ finds you, you will become His loving follower forever! I have been praying that He would bring this message under the notice of those whom He means to bless. I have asked Him to let me sow in good soil. I hope that among those who read these pages, there will be many whom the Lord Jesus has specially redeemed with His most precious blood—and I trust that He will appear at once to them and say to each one of them, "I have loved you with an everlasting love: therefore with loving kindness have I drawn you." May the eternal Spirit open your ears to hear the still small voice of love! By Omnipotent Grace may you be made to yield to the Lord with the cheerful consent of your conquered will and accept that glorious Grace which will bring you to praise the seeking and saving Savior in Heaven! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH31:29-37.
+## Exposition by C. H. Spurgeon: Jeremiah 31:29-37
 
 (Concluded from Sermon #3308).
 
@@ -132,7 +129,6 @@ THROUGH PARDONED SIN.] Let me read that again, and may some
 poor wandering children of God hear the promise and be glad that it applies to them—"I will forgive their iniquity, and I will remember their sin no more."
 
 35-37. Thus says the LORD, which gives the sun for a light by day, and the ordinances ofthe moon and ofthe stars for a light by night, which divides the sea when the waves thereof roar The LORD of Hosts is His name: if these ordinances depart from before Me, says the LORD, then the seed of Israel also shall cease from being a nation before Me forever Thus says the LORD; If Heaven above can be measured, and the foundation ofthe earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, says the LORD.
-
 
 ---
 [[Sermon 3308 Gathering in the Chosen|← #3308]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3310 Prompt Obedience|#3310 →]]

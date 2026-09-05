@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 44
 
-**CHAPTER 44**
+***Chapter 44***
 
 ## Jeremiah 44:1-7
 
@@ -85,7 +84,7 @@ And this he explains more fully by adding, *To cut off man and woman, child and 
 
 ## Prayer Lecture 160
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou ceasest not continually to shew to us thy paternal love and care, — O grant, that we may not be so insensible as to turn a deaf ear to thy teaching and admonitions; but as thou watchest for our safety, may the constancy of our faith and obedience so respond to thee, that we may reverently receive thy word, suffer ourselves to be ruled by it, and follow the way which thou hast set before us, until we shall attain complete salvation, and enjoy that blessed inheritance which has been prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -169,7 +168,7 @@ He then says, that *all the men* to whom the impiety of their wives was known, *
 
 ## Prayer Lecture 161
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou wouldest prove our faith by many trials, we may constantly persevere in the pure worship of thy name, and in calling on thee in sincerity and truth, and that as we are surrounded and beset on every side by many pollutions, we may preserve ourselves pure and devoted to thee, both in body and soul, and thus proceed through the whole course of our life, so that at length we may appear unpolluted before thee, through Christ our Lord. — Amen.
 
@@ -251,7 +250,7 @@ he at length adds, *Therefore has all this evil happened to you, as it appears a
 
 ## Prayer Lecture 162
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only in thy Law prescribed to us what is right, and shewed to us the way of a godly life, but hast also more clearly revealed thy will to us by the light of thy Gospel, where Christ thy Son shines forth as the Sun of righteousness, — O grant, that we may submit ourselves wholly to thee, and from the heart render thee obedience, and to this apply all our efforts and direct all our doings, so that having finished the course of this life, we may at length come into that blessed rest which has been prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -333,7 +332,7 @@ We hence see, that the Prophet reasons from the greater to the less; for if God 
 
 ## Prayer Lecture 163
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since by our adoption, thou hast favored us with this honor, that we may call on thy name, — O grant, that we may with a pure mouth call on thee, that thou mayest be glorified among us, through the whole course of our life; and that whilst we labor to render to thee that sincere obedience which thou requirest, thy truth may be more and more propagated among us, and that the memory of thy name may flourish more and more, until we shall at length come into that glory, which we know is laid up for us in heaven, by Christ our Lord. — Amen.
 

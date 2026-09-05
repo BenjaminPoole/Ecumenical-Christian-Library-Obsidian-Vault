@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 10. SECTION I. THE FALSE VIEWS OF CHRIST'S SUFFERINGS.
-
-## SECTION I. THE FALSE VIEWS OF CHRIST’S SUFFERINGS.
 
 1\. In the first place, some reflect upon the sufferings of Christ in a way that they become angry at the Jews, sing and lament about poor Judas, and are then satisfied; just like by habit they complain of other persons, and condemn and spend their time with their enemies. Such an exercise may truly be called a meditation not on the sufferings of Christ, but on the wickedness of Judas and the Jews.
 

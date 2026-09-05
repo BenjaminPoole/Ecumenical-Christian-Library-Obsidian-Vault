@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Lord's Famous Titles
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2347
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD looses the prisoners: the LORD opens the eyes of the blind: the LORD raises them that are bowed down: the LORD lo ves the righteous: the LORD preserves the strangers, He relie ves the fatherless and widow: but the way of the wicked He turns upside down." Psalm 146:7-9.
 
@@ -105,7 +102,7 @@ rangement upside down and makes a prince of him! Think of Mordecai. Haman will h
 
 Be you just and fear not! Rest in Christ's atoning Sacrifice! Trust Him only! Come to your God and be His servant from this day and forever, and you shall see how He will break your bonds, open your eyes, cheer your spirit, indulge you with His love and preserve you even to the end! "There shall no evil befall you, neither shall any plague come near your dwelling." God bless you, dear Friends, and may you all come to God, tonight, through Jesus Christ our Lord! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: PSALM146; LUKE 17:11-19
+## Expositions by C. H. Spurgeon: Psalm 146; Luke 17:11-19
 
 Psalm 146:1. Praise you the LORD. Or, "Hallelujah." I am sorry to see that great word, Hallelujah, Hallelu-Jah, praise to Jah, Jehovah, become so hackneyed as it is, by talk about "Hallelujah lasses," and Hallelujah—I know not what. The Jews will not even pronounce the word Jah, or write it. It seems a great pity that it should be thus dragged in the dirt by Gentiles. "Praise you the Lord." Whenever you make use of the word Hallelujah, let it be with the due reverence which should be given to that blessed name, for remember, "the Lord will not hold him guiltless that uses His name in vain."
 
@@ -154,7 +151,6 @@ But, at the same time, note the humility as well as the zeal of this man—he "f
 most precious pearls have been found in the deepest sea and some of the most grateful hearts have been discovered among those who were most immersed in sin and error.
 
 19\. And He said unto him, arise, go your way; your faith has made you whole. Christ uses the word, "whole," in an emphatic sense—"Not only your body, but also your soul is made whole, and you are holy from this day." There is a wonderful connection between these two words, "whole," and, "holy." A holy man is a whole man, but he who is not holy is unsound and not whole in the sight of God. The Lord make us wholly holy for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2346 Earth's Vanities and Heaven's Verities|← #2346]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2348 The Lord Leading—David Following|#2348 →]]

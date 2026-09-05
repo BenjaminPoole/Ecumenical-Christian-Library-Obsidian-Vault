@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # 'Accepted in the Beloved'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3429
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Accepted in the Beloved." Ephesians 1:6.
 
@@ -31,7 +28,7 @@ Of all the titles that are given to Christ, there may be some that excel in sple
 
 But now to the text. And the first thing I think I see in the text is that "the Beloved" is accepted of God. The second thing I see is that the saints are "in the Beloved." And the third thing, that the saints are "acceptedin the Beloved." It is clear in the text that "the Beloved" is—
 
-I. ACCEPTED OF GOD.
+## I. Accepted of God
 
 It will delight you if you try in meditation to get a hold of this thought, of how infinitely acceptable Christ must be to God the Father. All other forms of acceptance must have their limit and boundary—but the acceptability of the Son of God to the First Person of the Blessed Trinity must be altogether beyond either bottom or shore!
 
@@ -73,7 +70,7 @@ And we are one with Him by a fixed decree of God that never shall be broken. "Wh
 
 Now this is a great mystery. The Apostle always speaks of it as such. But it is one of the most blessed mysteries in the whole compass of Revelation. Dear Friend, never forget that God does not deal with you as an individual—He deals with you as in Christ. If you stood as an individual, you would perish, for you will be sure to fall. You are so weak and frail and apt to sin, that with the best resolutions and intentions, you would be sure to turn aside and, therefore, the blessed Father has put you in a safer place—He has put you in Christ! And now your interests are Christ's interests. As I have often told you, you cannot drown a man's foot unless you can drown his head—and if our Head is in Heaven, we are safe. And He, our Head, is there! When your vessel tosses in the storm, you may hear a voice that says, "Fear not, the boat is safe; you carry Jesus and all His fortune." Christ is one with His people—they must sink or swim together. Has He not, Himself, said it, "Because I live, you shall live also"? The saint, then, is "in" Him. Now we come to the full text, and that is, that—
 
-III. THE SAINTS ARE "ACCEPTED IN THE BELOVED."
+## III. The Saints Are "Accepted in the Beloved."
 
 Their persons are accepted. You know there are some persons that are not acceptable to you. You would sooner live in Heaven with them, forever, than you would like to live a quarter of an hour with them on earth! There are some people of that kind to whom we take a very natural objection. And I suppose it is not possible, although we would treat them always with kindness and so on, that we would ever desire them as companions. They are not acceptable to us. And now it does seem amazing that we, who have not any personal recommendation, but very much in us that might render us obnoxious to God, are nevertheless acceptable in our persons, through Jesus Christ our Lord! Yes, you with no talents, you with no wealth, no position, no great friends—you who can do so little when you do your best—you, though the garment you wear is not of the finest, but of the very lowliest material, are acceptable to God! God looks not according to the outward appearance, but He looks to the heart. And whenever He sees a simple trust in Jesus, which is a token of our being in Jesus, our person is acceptable to Him because, you see, He does not look at us as we are, but He looks at us through Christ! He looks through the wounds of Jesus upon us poor sinners, as a verse of one of our hymns runs—
 
@@ -107,7 +104,7 @@ I think these words were the favorite words of that dear man of God, Mr. Harring
 
 The Lord bless this simple meditation to His people, and His shall be the praise forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS1; 2:1.
+## Exposition by C. H. Spurgeon: Ephesians 1; 2:1
 
 Verses 1, 2. Paul, an Apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: Grace be to you, and peace from God our Father, and from the Lord Jesus Christ. He wishes them Divine Grace, first, and peace afterwards, which is the right and natural order. There is no lasting peace without Grace.
 
@@ -132,7 +129,6 @@ There is no peace worth having which does not spring from a work of Grace in the
 13-23; Chapter 2:1. In whom you also trusted, after that you heard the word of truth, the Gospel of your salvation: in whom also after that you believed, you were sealed with that Holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of His glory. Therefore I also, after I heard of your faith in the Lord Jesus and love unto all the saints, cease not to give thanks for you, making mention of you in my prayers: That the God of our Lord Jesus Christ, the Father of Glory, may give unto you the spirit of wisdom and revelation in the knowledge of Him: The eyes of your understanding being enlightened, that you may know what is the hope of His calling, and what the riches of the glory of His inheritance in the saints, And what is the exceeding greatness of His power to us who believe, according to the working of His mighty power Which He worked in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places. Far above all principality, and power and might and dominion, and every name that is named, not only in this world, but also in that which is to come. And has put all things under His feet, and gave Him to be the Head over all things to the Church, Which is His body, the fullness of Him that fills all in all And you has He quickened, who were dead in trespasses and sins. So that what He did for Christ, He has done for you! He raised Him and He has raised you. And having begun thus to quicken you, He will go on to lift you up and to exalt you till you sit with Him upon His Throne!
 
 The only question, dear Friends, is this—Do we belong to those of whom Paul here speaks? We look to the first verse to see who they are and we find he is addressing the faithful in Christ Jesus. That is, those who are believing in Christ Jesus. If we are believing in Him, then all the privileges which are mentioned in this Chapter belong to us and we are quickened—and we shall be exalted even as Christ is, at the Father's right hand! So be it, gracious Lord!
-
 
 ---
 [[Sermon 3428 Private and Confidential|← #3428]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3430 Chiding and Cheering|#3430 →]]

@@ -10,18 +10,17 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 25. Defensio: Liber Primus, De Sacramento
 
-VERE ET CATHOLICH DOCTRINE
+*Vere Et Catholich Doctrine*
 
-DE SACRAMENTO.
+## De Sacramento
 
 iat he aT sing i, Other = ae PS ate his fe
 
 ; Fn ae ¥ mento corporis et sanguinis Christi Ser- a ioe ile
 
-Pt af yatoris nostri, et quorundam in hac causa er- rorum confutatio, verbo sanctissimo Domini : nixa atque fundata, et consensu antiquissi- ; morum Ecclesia eoripitvian firmata, 3 a Reverendiss. in Christo Patre ac | | ; Domino D. Thoma he “hii j mero Archiepiscopo Cantuariensi, Primate totius
+Pt af yatoris nostri, et quorundam in hac causa errorum confutatio, verbo sanctissimo Domini : nixa atque fundata, et consensu antiquissi- ; morum Ecclesia eoripitvian firmata, 3 a Reverendiss. in Christo Patre ac | | ; Domino D. Thoma he “hii j mero Archiepiscopo Cantuariensi, Primate totius
 
 Angliz et Metropolitano, scripta. ©
 
@@ -53,7 +52,7 @@ head pgs aes Quartus, de Perceptione Corporis et Sanguinis Christi. fees ee | ((
 
 Quintus, de Oblatione et Sacrificio
 
-PIO LECTORI S'.
+## Pio Lectori S'
 
 QvUEMADMoDUM muliercula illa evangelica, amissa drachma, omnes adeo domus sux angulos eyerrit, et diligenter conquirit, donec eam inveniat, ac ea inventa, ipsa non veluti in sinu sola gaudet, sed convocatas amicas et vicinas, ut sibi congratulentur, monet: eodem modo neque nos potuimus, pie lector, quin reperto hujus libelli thesauro (quem libellum sanctissimus Christi martyr et reverendissimus pater, D. Thomas Cranmerus Cantuariensis archiepiscopus, non minus docte quam pie de Coena Domini conscripsit) gaudium nostrum tibi quoque contestatum faceremus. Indignum enim judicavimus, si hune libellum, non parvo nostro sumptu typis excusum, ecclesiz Dei invideremus, ac non potius eam ecclesiam, que tam insigni membro, tam electo Dei organo (auctorem libri loquor) orbata sit, ad publicam etiam gratulationem hujus operis editione vocaremus. Ut autem hoc ipsum gaudium pio etiam dolore temperes, amice lector, constitui hac quidem dedicatoria epistola calamitosum reipublice christiane per Angliam statum tibi ob oculos ponere, ut hujus rei occasione iram Dei in illud regnum immodice, imo horribiliter effusam, (promerentibus ita peccatis nostris,) nobiscum depreceris, si forte piorum omnium precibus vel tandem motus ccelestis Pater nostri misereatur. Quam enim plausibili successu sancta et vere apostolica religio sub Edvardo sexto, Anglia Rege, nunquam satis laudato, annis superioribus floruit, tam nunc omnia ibi (propter summam gentis nostre ingratitudinem cum nimia securitate animi conjunctam) deformata sunt, ut superioris illius ecclesiz vestigium vix ullum amplius ibi appareat. Etenim, cum illustrissimis Regis Anglize Henrici octavi (qui Edvardi sexti pater erat) temporibus, omnes totius regni proceres, archiepiscopi, episcopi, reliquique ordinis ecclesiastici viri, ad hac duces quoque omnes, comites, barones, equites, et tam legum municipalium, quam juris ecclesiastici, ut vocant, administri et judices, deinde civitatum quoque, urbium, pagorum, et municipiorum omnium rectores, preefecti, omneque genus magistratus, denique cujuscumque conditionis, status, aut ordinis viri (qui modo decimum sextum etatis sue annum excesserant), juramento verbis conceptis prestito, sancte fidem dedissent, se quidem nunquam consensuros, ut vel ipse Romanus pontifex, vel ullus alius civili potestate preditus homo, supra regiam in regno Angliz potestatem evectus, supremum regni caput agnosceretur; prodierunt tum quidem in medium nonnulli primi nominis apud Anglos viri, qui libris publice editis, et habitis super ea re frequentibus concionibus, pro confirmatione ejusdem juramenti, et idoli illius Romani ejectione fortiter laborantes dimicarent. In quorum numero facile primos fuisse accipio (ut plerosque alios taceam melioris notw# atque nominis homines) Stephanum illum Gardinerun Wintoniensis episcopum, Cutbertum Tonstallum Dunelmensis, et Edmundum Bonerum Londonensis episcopos; qui tamen postea (mutatis cum rege animis) ex Paulo facti sunt Sauli.
 
@@ -61,7 +60,7 @@ Ab hoc publico totius regni decreto, consensu omnium inito, cum in suscepta reli
 
 [! Not in ed. 1553.]
 
-6 PIO LECTORI &.
+## 6 Pio Lectori &
 
 factitatum legimus,) totius ecclesiz simul et regni facies mutaretur in pejus. Ibi enim statim, non sine magno grassantium in bonos omnes impetu, et regni antea bene constituti turbatione, Baalitica (que diximus) altaria, omnis adulterinus cultus, omnia idola, et superstitiosi (qui jam exoleverant) ritus et ceremonie in pristinam abominationem restituebantur, non sine magno piorum omnium dolore.
 
@@ -83,7 +82,7 @@ In propheticis literis soriptum legimus, “ Labia sacerdotum sianiedline scient
 
 Hee cum ita habeant, lector optime, quis non bene factum predicet, quod bona piorum hominum pars (dum effugiendi illine copia datur) relicta patria, relictis bonis et amicis, eo se recipiant, ubi salva conscientia Deo militare queant, potius quam ut ibi antichristum Romanum tantum non adorent? Equidem non possum non laudare eorum consilium, qui ex Christi Jesu mandato solum vertere, quam sub tali animarum tyrannide in patria vivere malunt: ut certe, preter multas concionatorum, nobilium, mercatorum, opificum, et plebeiorum hominum in dispersione Germanie passim nunc
 
-8 . PIO LECTORI S.
+## 8 . Pio Lectori S
 
 degentium) chiliades, multi clarissimi viri tam tragicam regni ac religionis mutationem in tempore evaserunt; quamobrem et facultatum suarum direptionem patiebantur. In quorum numero mihi primi omnium sunt habendi, Joannes Poynetus Winton., Guliel. Barlous Bathonen., Jo. Scoreus Cicestrien., Milo Coverdalus Exon., et Jo. Balus Osrien. episcopi; ut Katarinam Suffolcie ducem, cum Joanna Wilkensona vidua (foeminas eterna memoria dignas), et multos alios concionatores in suo catalogo postea memorandos, preteream; qui omnes ignominiam crucis exulando ferre, quam in patria magni haberi cum anime sue periculo, preoptarunt. |
 
@@ -93,7 +92,7 @@ Ut autem expeditior hujus libri lectio fiat, nonnullis locis manus indicem paren
 
 Hee ea sunt, pie lector, que te scire volui: Quod superest, enixe Deum precor, ut in Christo Domino, vero animarum nostrarum Pastore, Sacerdote, et Episcopo, quam optime valeas, et hance doctrine evangelice veritatem, qua decet fide, amplectens salvus fias. Amen.
 
-CATALOGUS'
+## Catalogus'
 
 ILLORUM EPISCOPORUM PRELATORUM ET PRECIPUORUM CONCIONATORUM, QUI EX ORDINE ECCLESIASTICO BENE CONSTITUTO, PROPTER FIDEI SUZ CONSTANTEM CONFESSIONEM, SUA PATRIA IN CHRISTO EXULARE, QUAM PALINODIAM IM. PIE CANERE, MALUERUNT.
 
@@ -101,13 +100,13 @@ Jo. Poynet, Winto. Guliel. Barlo, Bathon. et Vellen. Jo. Scory, Cicest. Milo Cov
 
 Doct. Jo. Cox, Edoar. Regis in eleemosynis elargiendis dispensator, Westmo. D. Jaco. Haddon, Exon. D. Rober. Horne, Dunel. D. Guliel. Turner, Vellen. Tho. Sampson, Cicestr.
 
-ARCHIDIACONT.
+## Archidiacont
 
 Edmundus Cranmer, Cantuar. hujus martyris frater. D. Jo. Ailmer, Stoyen. D. Bullin, Lincol. Tho. Yonge, preecentor Meneven.
 
 DOCTORES THEOLO. Edmundus Grindal, Rober. Kinge, Sandes, Renoldes, Pilkinton, Jo. Joseph.
 
-CONCIONATORES.
+## Concionatores
 
 David Whitheed, Jo. Alvei, Jo. Pedder, Jo. Biddill, Tho. Becon, Rob. et Ric. Turneri, Edmundus Allein, Leveri fratres tres, Jo. Pekins, Tho. Cottesford, Tho. Donel, Alex. Nowel, cum fratre, Bartho. Traheron, alius Pilkinton, Jo. Wolloc, Jo. Olde, Jo: Medwel, Jo. Rough, Jo. Knokes, Jo. Appelbie, Jo. Perkehurst, Edoa. Large, Galfri. Jones, Rob. Crowley, Ro. Wysdome, Ro. Watson, Guil. Goodman, Anto. Gilbie, Whittingham, Macbrey, Henri. Renold, Jac. Perse, Jugge, Edmundes, Cole, Mounteyn, duo Fischeri, Da.
 
@@ -115,7 +114,7 @@ Simson, Jo. Bendel, ete.
 
 [! Not in ed. 1553.]
 
-ILLUSTRISSIMO AC NOBILISSIMO
+## Illustrissimo Ac Nobilissimo
 
 PRINCIPI EDVARDO SEXTO,
 
@@ -139,21 +138,21 @@ Eximinm in nos Christi beneficium.
 
 Error papistarum obscurans Christi beneficium.
 
-PROG@MIUM AD LECTOREM.
+## Prog@mium Ad Lectorem
 
 Curistus Servator noster, pro sempiterni Patris sui voluntate (cum statutum ad id tempus expletum esset), suscepta in se natura nostra, e ccelestis Patris altissimo solio in hunec mundum descendit, ut nobis miseris peccatoribus fausta ac felicia nuntiaret ; ut egrotis sanitatem, cecis visum, surdis auditum, mutis sermonem, vinctis libertatem, hominibus in tenebris et mortis umbra versantibus lucem tribueret; ut tempus gratie et misericordiz jam adesse demonstraret, ut electis omnibus veniam et plenam peccatorum omnium remissionem daret et promulgaret. Quod ut prestaret, hostiam sui corporis immolavit in cruce, et sacrificium ejusmodi fecit, ut plena atque integra redemptio, satisfactio, et propitiatio pro peccatis universi mundi eo contineretur. Atque ut hoc sacrificium omnibus fidelibus commendaret, et spem ac fiduciam eterne salutis in eo collocandam confirmaret, perpetuum hujus sacrificii monumentum instituit, in ecclesia sua assidue celebrandum, ad eternam divini nominis laudem et gloriam, et singulare nostrorum omnium solatium et commodum. Sacrosancte enim coene celebratio ita nobis a Christo proposita est, ut im ea se suaque omnia libenter libereque donasse testaretur his, qui rite secundum prescriptum ab illo modum ad eam accederent. Sed antichristus Romanus, ut hoc ingens Christi beneficitum imminueret et labefactaret, hoc sacrificium in cruce factum haud satis idoneum ad hee que diximus esse docet, nisi aliud adhibeatur sacrificium ab ipso excogitatum, et a sacerdotibus ejus factum; aut indulgentia, precule lignes, peregrinationes, atque alie ejusmodi quisquiliz seu cxvGada proponantur, ad inchoatum Christi beneficium explendum atque absolvendum. Deinde Christianos amplissime mortis Christi beneficium aut accommodare sibi non posse, sed illud episcopi Romani arbitrio relinqui distribuendum ; aut per Christum plenam remissionem non habere, sed peccatis solum liberari, poenam autem illis debitam in purgatorio restare luendam, nisi per antichristum Romanum et ejus administros, post hujus vite confectum iter, remittatur: qua in re sibi hoe
 
-.pro sceleribus nostris efficere arroganter presumunt, quod Christus vel noluit vel non potuit efficere. O dira maledicta, et injuriam in Christum execrandam! O impium in templo Dei nefas! O superbiam antichristi intolerandam, et certissimum filii perditionis argumentum, supra Deum se extollentis, et Luciferi in modum sedem suam et potentiam supra majestatem Dei collocantis! Nam qui hoc sibi assumit_perficiendum, quod in Christo rude adhue et inchoatum judicat, se Christo meliorem et prestantiorem facit, atque adeo antichristus existit. Quid enim est, si hoc non est, Christo repugnare, atque illum in contemptum deducere, qui vel caritatis quadam inopia nollet, aut imbecillitate quadam magnitudinis et potentiz non posset, ne cum acerbissima quidem morte et sanguinis profusione, fideles suos omnino liberare, atque illis plenam peccatorum omnium remissionem condonare, nisi harum rerum plena quedam et absoluta confectio ab antichristo Romano ejusque administris requiratur ? Quis (queso) hee intelligens, et cupidus glorie Christi, siccis oculis hance injuriam Christo illatam, et religionis statum a papistis inductum, intueri poterit? cum verum divini verbi sensum, falsis humanorum commentorum interpretationibus obscurari videat, veram Christi religionem in simulatas quasdam et superstitiosas sectas degenerare, plebem in templis et ore precari, et auribus accipere que non intelligat, et ita rudem atque professionis sue et discipline christiane ignaram, ut hypocrisim et superstitio- nem a vera et sincera religione nequeant internoscere? Hee fuit nuper in Anglia deformata religionis facies, que in plerisque adhue regionibus foedata et horrida permanet. Sed immortales nobis gratize agende sunt Deo Patri, per Dominum nostrum Jesum Christum, quod nobilissimi et clarissimi regis nostri auctoritate et sententia superstitiosorum sacerdotum factiones (quemadmodum illustrissimi Henrici octavi memoria omnes in hoc regno fraterculorum et monachorum heereses) sublate et delete
+.pro sceleribus nostris efficere arroganter presumunt, quod Christus vel noluit vel non potuit efficere. O dira maledicta, et injuriam in Christum execrandam! O impium in templo Dei nefas! O superbiam antichristi intolerandam, et certissimum filii perditionis argumentum, supra Deum se extollentis, et Luciferi in modum sedem suam et potentiam supra majestatem Dei collocantis! Nam qui hoc sibi assumit_perficiendum, quod in Christo rude adhue et inchoatum judicat, se Christo meliorem et prestantiorem facit, atque adeo antichristus existit. Quid enim est, si hoc non est, Christo repugnare, atque illum in contemptum deducere, qui vel caritatis quadam inopia nollet, aut imbecillitate quadam magnitudinis et potentiz non posset, ne cum acerbissima quidem morte et sanguinis profusione, fideles suos omnino liberare, atque illis plenam peccatorum omnium remissionem condonare, nisi harum rerum plena quedam et absoluta confectio ab antichristo Romano ejusque administris requiratur ? Quis (queso) hee intelligens, et cupidus glorie Christi, siccis oculis hance injuriam Christo illatam, et religionis statum a papistis inductum, intueri poterit? cum verum divini verbi sensum, falsis humanorum commentorum interpretationibus obscurari videat, veram Christi religionem in simulatas quasdam et superstitiosas sectas degenerare, plebem in templis et ore precari, et auribus accipere que non intelligat, et ita rudem atque professionis sue et discipline christiane ignaram, ut hypocrisim et superstitio-nem a vera et sincera religione nequeant internoscere? Hee fuit nuper in Anglia deformata religionis facies, que in plerisque adhue regionibus foedata et horrida permanet. Sed immortales nobis gratize agende sunt Deo Patri, per Dominum nostrum Jesum Christum, quod nobilissimi et clarissimi regis nostri auctoritate et sententia superstitiosorum sacerdotum factiones (quemadmodum illustrissimi Henrici octavi memoria omnes in hoc regno fraterculorum et monachorum heereses) sublate et delete
 
 PROGEMIUM. 13 sunt, scriptura ad verum et proprium sensum restituta est, populus quotidie legere et audire cowleste Dei verbum poterit, et sua ipsorum lingua intelligenter orare, atque adeo lingua atque animo consentienter congruere, neque ex eorum numero esse, de quibus Christus queritur, “ Populus hic labiis me colit, cor autem eorum longe a me Matt. xv. abest.” Mult (de quibus magnas merito gratias agere Deo possumus) perniciosee herbw radicitus extracte atque evulse sunt, que gregem Christi non modo contagione inficere, sed etiam messis dominic incrementum retardare solent. Sed quid refert globulos precatorios, indulgenitias, peregrinationes, reliquumque papismum tollere, quamQuatuor
 
-. *-* ry oy. . . . . pracipue diu quatuor perniciosissime radices infixe inherent, neque adhuc fibre illarum vel errorum pa- mote loco vel labefactate sunt? que quamdiu permanent, priora tum messis domiradice. nice impedimenta, tum gregis exitia, ex eis repullulare et amplificare necesse est. Que hactenus sublate sunt superstitiones veluti frondes et. folia sunt, quarum amputatio frondationi similis est, aut noxiarum herbarum truncationi, trunco relicto, aut radicibus in terra inherentibus. Truncus autem ipse, vel potius radices in terra defixe, sunt papistica illa et perniciosa dogmata de transubstantiatione, de corporis et sanguinis Christi reali presentia in sacramento (ut vocant) altaris, de manducatione Christi a sceleratis diaboli membris, et de sacrificio et oblatione Christi per sacerdotem facta pro viventium et mortuorum salute. Hz radices si in vinea Domini crescere permittantur, universam iterum terram nefariis superstitionibus. et inveteratis erroribus opplebunt.
+. *-* ry oy. . . . . pracipue diu quatuor perniciosissime radices infixe inherent, neque adhuc fibre illarum vel errorum pa-mote loco vel labefactate sunt? que quamdiu permanent, priora tum messis domiradice. nice impedimenta, tum gregis exitia, ex eis repullulare et amplificare necesse est. Que hactenus sublate sunt superstitiones veluti frondes et. folia sunt, quarum amputatio frondationi similis est, aut noxiarum herbarum truncationi, trunco relicto, aut radicibus in terra inherentibus. Truncus autem ipse, vel potius radices in terra defixe, sunt papistica illa et perniciosa dogmata de transubstantiatione, de corporis et sanguinis Christi reali presentia in sacramento (ut vocant) altaris, de manducatione Christi a sceleratis diaboli membris, et de sacrificio et oblatione Christi per sacerdotem facta pro viventium et mortuorum salute. Hz radices si in vinea Domini crescere permittantur, universam iterum terram nefariis superstitionibus. et inveteratis erroribus opplebunt.
 
 He in Christum injuriz ita graves et intolerabiles sunt, ut lubenter ista tolerare Quid nemo Christianus vivus et videns possit. Itaque cum multi manus admoverint, et sariteaduane omnia ingenii ac industria arma exacuerint, ad nefarias has herbas sarriendas, et om universum errorum truncum exscindendum, ego (cum scirem me alia ratione meipsum excusare non posse, cum severus paterfamilias rationem factorum a servis suis requiret) hoc in libro operam meam et industriam obtuli, et securim etiam cum reliquis adhibui ad truncum hune protinus exscindendum, et omnes stirpium ac radicum fibras penitus elidendas, quas ccelestis Pater nunquam sevit, sed ab adversario ‘diabolo et ministro ejus antichristo sate fuerunt. Dabit (spero) Dominus, ut hic labor, quem in vinea ejus excipio, inanis non sit, sed bene procedat, et bonos fructus ad honorem gloriamque suam ferat. Nam cum vineam ejus video spinis, tribulis, et permultis aliis *Deformata!
 
-tis 5 P ‘ . a ‘ Sanat - i religionis noxiis herbis obsitam, intelligo execrationem sempiternam mihi impendere, si tacitus facies, a ista silentio preteream, neque manus et linguam ad laborem in vinea Domini susciate. piendum admoveam. Testificor autem Deum, qui abdita et intima penitus scrutatur, me hune laborem nulla alia de causa capere, quam ad divini nominis gloriam, et officii mei functionem, et animi studium atque ardorem (quo erga gregem dominicum afficior) ostendendum. Hand ignoro quo in gradu me Deus, et ad quem finem collocavit, ut (quantum in me situm est) verbum ejus sincere propagetur, et sine ulla vel rerum vel personarum ratione in illum solum actiones mee intueantur. Scio quam me opor- tet rationem illo tempore reddere, cum unusquisque pro se munereque suo dicet, et bonum vel malum pro factis suis percepturus est. Scio antichristum veram Dei glo- riam et puritatem verbi ejus obscurasse, errorum atque ignorantize tenebris offusis, et
+tis 5 P ‘ . a ‘ Sanat - i religionis noxiis herbis obsitam, intelligo execrationem sempiternam mihi impendere, si tacitus facies, a ista silentio preteream, neque manus et linguam ad laborem in vinea Domini susciate. piendum admoveam. Testificor autem Deum, qui abdita et intima penitus scrutatur, me hune laborem nulla alia de causa capere, quam ad divini nominis gloriam, et officii mei functionem, et animi studium atque ardorem (quo erga gregem dominicum afficior) ostendendum. Hand ignoro quo in gradu me Deus, et ad quem finem collocavit, ut (quantum in me situm est) verbum ejus sincere propagetur, et sine ulla vel rerum vel personarum ratione in illum solum actiones mee intueantur. Scio quam me oportet rationem illo tempore reddere, cum unusquisque pro se munereque suo dicet, et bonum vel malum pro factis suis percepturus est. Scio antichristum veram Dei gloriam et puritatem verbi ejus obscurasse, errorum atque ignorantize tenebris offusis, et
 
-_ anilibus ac deliris interpretationum commentis adhibitis. Doloris enim acerbitatem mihi non mediocrem injicit, cum videam simplicem et famescentem Christi gregem in pascua pestilentia abduci, et occecatum in omnes errores abripi, et pro salutari cibo venenatis rebus pasci. Non parum igitur officii mei locique munere excitatus (in quo Admonitio benignus Deus electione sua me locavit) omnes auctoritate Christi moneo, qui Christi Gmnes chtisnomen professi sunt, ut longe a Babylone fugiant (siquidem animas suas salvas vofi20%;, lunt) et meretricem illam magnam, sedem nempe Romanam, vitent, ne suavi illos apoc. xiv. potione ad ebrietatem deducat. Nolite fidem blandis ejus promissis adhibere, nolite *“”*Y" cum illa epulari: nam vini loco amaras feces porrigit, et pro cibo mortiferum vene- num apponit. Ad Servatorem autem et Redemptorem Christum accedite, qui omnes Matt. xi. advenientes ad se refocillat, etiam in acerbissimis et gravissimis perturbationibus. Illi fidem adjungite, cujus in ore nihil doli, nihil falsi repertum est. lle vos ab omni faa. tii.
+_ anilibus ac deliris interpretationum commentis adhibitis. Doloris enim acerbitatem mihi non mediocrem injicit, cum videam simplicem et famescentem Christi gregem in pascua pestilentia abduci, et occecatum in omnes errores abripi, et pro salutari cibo venenatis rebus pasci. Non parum igitur officii mei locique munere excitatus (in quo Admonitio benignus Deus electione sua me locavit) omnes auctoritate Christi moneo, qui Christi Gmnes chtisnomen professi sunt, ut longe a Babylone fugiant (siquidem animas suas salvas vofi20%;, lunt) et meretricem illam magnam, sedem nempe Romanam, vitent, ne suavi illos apoc. xiv. potione ad ebrietatem deducat. Nolite fidem blandis ejus promissis adhibere, nolite *“”*Y" cum illa epulari: nam vini loco amaras feces porrigit, et pro cibo mortiferum venenum apponit. Ad Servatorem autem et Redemptorem Christum accedite, qui omnes Matt. xi. advenientes ad se refocillat, etiam in acerbissimis et gravissimis perturbationibus. Illi fidem adjungite, cujus in ore nihil doli, nihil falsi repertum est. lle vos ab omni faa. tii.
 
 wgritudine levabit, ille vobis plenam a peena et culpa remissionem tribuet. TIlle omnes ko, tii
 
@@ -163,13 +162,13 @@ Fe disciplinam vos tradite, que recta vos ad wternam vitam —: cum eres %, coel
 
 VERA ET CATHOLICA DOCTRINA,
 
-ET USU CORPORIS ET SANGUINIS CHRISTI SERVATORIS NOSTRI.
+## Et Usu Corporis Et Sanguinis Christi Servatoris Nostri
 
-CAPUT PRIMUM.
+## Caput Primum
 
 Cana Domini, que sacra synaxis, vel sacramentum corporis et sanguinis Christi Abuse Servatoris nostri appellatur, variis est rationibus et a multis hominibus male tractata, cene. precipue autem his quadringentis aut quingentis annis. A quibusdam pro sacrificio propitiante et peccatum expiante est habita, et aliis superstitionibus profanata, longe a primi auctoris Christi mente, ad magnam sanctissime mortis ejug injuriam et contumeliam. Quibusdam autem res levis et nugatoria visa est, et quasi nullius auctoritatis aut momenti esset, spreta et contempta jacuit. Ita utrinque magne dimicationes orte, et diversis in locis diversorum hominum opiniones in varias sententias distractee sunt. Itaque ne hoc sacramentum posthac vel his in contemptum vel illis in abusum veniat, aut utrisque ad aliam rationem traducatur, quam Curistus, primus auctor atque inventor ejus, constituit; atque adeo contentiones utrinque suscepte sedari et tranquillari possint ; certissima et expeditissima via est sanctis scripturis adherere; in quibus quicquid invenitur, pro certissimo fundamento et firmissima veritate habendum est. Quod autem ad fidem nostram pertinet, quicquid ex scripturis probari non potest, humanum inventum, commutabile atque incertum est. Ideo hic ipsa scripture verba referemus, que tam Christus ipse quam ejus apostolus Paulus, tum de edenda carne et bibendo sanguine, tum de edendis et bibendis carnis et sanguinis sacramentis, locuti sunt.
 
-CAPUT II. DE MANDUCATIONE ET POTATIONE CORPORIS ET SANGUINIS CHRISTI.
+## Caput II. De Manducatione Et Potatione Corporis Et Sanguinis Christi
 
 De corpore Christi vere edendo et sanguine ejus bibendo, Christus ipse, in sexto Joannis, ad hune modum loquitur: “ Amen amen dico vobis, nisi ederitis carnem Filii Joan. vi. hominis, et biberitis ejus sanguinem, non habetis vitam in vobis. Qui edit meam carnem et bibit sanguinem meum, habet vitam eternam: et ego excitabo illum in extremo die. Caro enim mea revera est cibus, et sanguis meus revera est potus. Qui edit carnem meam, et bibit sanguinem meum, in me manet, et ego in illo. Quemadmodum misit me vivens Pater, et ego vivo propter Patrem; et qui edit me, etiam ille vivet propter me. Hic est panis qui de ccelo descendit: non quemadmodum ederunt patres manna, et mortui sunt: qui edit hunc panem, vivet in #ternum.”
 
@@ -179,7 +178,7 @@ Ex hisce Christi verbis clarum efficitur, perceptionem carnis et sanguinis ejus 
 
 16 DE VERO USU CQ@ENZ DOMINI. \ [Lrn.
 
-DE MANDUCATIONE ET POTATIONE SACRAMENTI CORPORIS ET SANGUINIS CHRISTI.
+## De Manducatione Et Potatione Sacramenti Corporis Et Sanguinis Christi
 
 SacRaMENTA eorundem Servator noster Christus pridie mortis ejus extrema in coena, quam cum apostolis suis habuit, in pane et vino instituit.
 
@@ -199,23 +198,23 @@ Ex his Christi verbis, que evangelistee commemorant, et hac doctrina Pauli, quam
 
 ee DE VERO USU C@ENE DOMINE VW
 
-CAPUT IV. CHRISTUS PANEM VOCAVIT CORPUS SUUM.
+## Caput IV. Christus Panem Vocavit Corpus Suum
 
 Primum, Christum Servatorem nostrum panem, quem confregerat, corpus suum, et vinum, fructunr vitis, sanguinem suum appellavisse. Neque vero hoc ita Christus dixit, ut ex granis confectum panem verum ejus corpus esse quisquam putaret ; aut contra, Corpus ejus esse panem ex granis confectum, neque vinum ex uvis expressum esse verum ejus sanguinem; aut contra, verum ejus sanguinem esse vinum ex uvis. expressum: sed ut id significaret nobis, quod Paulus dixit, Poculum esse communionem vel consortionem sanguinis Christi pro nobis effusi, et panem esse societatem vel communionem carnis ejus pro nobis cruci affixe. Itaque quamvis nature illius humane substantia in coelo sit, et ad dexteram Dei Patris sedeat, quicunque tamen de hoc pane in ccena dominica, secundum Christi institutionem, edit, Christi ipsius promissis et testamento certior factus est, se membrum esse corporis Christi, et participem beneficiorum mortis ejus, quam pro nobis in cruce perpessus est. Pari modo, qui ex hoc sanctissimo poculo in ccena dominica, secundum Christi institutionem, biberit, is legatione et testamento Christi certior factus est, se sanguinis Christi participem esse, quem pro nobis profudit.. Hoc enim nobis significavit Paulus his verbis, “Poculum benedictionis, cui benedicimus, nonne communio sanguinis Christi est?’ Ex quo fit, ut hance sacrosanctam communionem nemo contemnere aut parvo estimare poterit, nisi Christi corpus et sanguinem quoque contemnat, et non multum sua interesse putet, utrum particeps illorum fuerit, an non. Hos Paulus ait suam ipsorum condemnationem edere et bibere, quia Christi corpus non discernunt.
 
-CAPUT V. MALI EDUNT SACRAMENTUM, NON VERUM CORPUS CHRISTI.
+## Caput V. Mali Edunt Sacramentum, Non Verum Corpus Christi
 
 ALTERUM, quod ex verbis Christi et apostoli intelligitur, est, Quod quamvis nemo verum corpus Christi edat, et verum ejus sanguinem bibat, quin idem vitam eternam habeat (quemadmodum ex his liquet, que apud Joannem commemorantur), boni tamen quoque et mali panem et vinum, que sacramenta corporis et sanguinis sunt, edant et bibant: sed preter sacramenta boni eternam vitam, mali sempiternam mortem comedunt. Itaque Paulus dicit, “‘Qui panem hunc ederit, et poculum Domini biberit indigne, reus erit corporis et sanguinis Domini.” Hic Paulus, non qui panem illum ederit, aut poculum sacramenti biberit indigne, dicit corpus Christi et sanguinem ejus edere et bibere, sed reum esse corporis et sanguinis Domini. Quid autem edat et bibat, Paulus aperte exponit his verbis: “‘ Qui edit et bibit indigne, judicium sibi edit et bibit.”
 
 Jam paucissimis declaratum est, que sit summa eorum omnium, que de Christi corpore et sanguine, et de sacramento eorundem percipiendo, scriptura docet.
 
-CAPUT VI. QU AD CHRISTIANORUM DE HOC SACRAMENTO FIDEM SATIS SUNT.
+## Caput VI. Qu Ad Christianorum De Hoc Sacramento Fidem Satis Sunt
 
 Er quemadmodum certissima hee et verissima sunt, que a Christo ipso, omnis veritatis auctore, et ab apostolo ejus Paulo, quemadmodum a Christo accepit, traduntur; sic omnes doctrine, que huic repugnant, false et commentitiz sunt, et ab omnibus Christianis (quia verbo Dei adversantur) repudiandew. Que autem aliquid amplius istis de rebus continent, quod verbo Dei non nitatur, illa nihil necessarium in se habent ; neque vel ingenia hominum ejusmodi rebus non necessariis exerceri, vel conscientize perturbari debent. Itaque dicta et facta Christi, et Pauli atque evangelistarum scripta, quod ad hane de ccena Domini et sanctissima synaxi sive sacramento corporis et sanguinis Christi doctrinam spectat, fidei Christianorum satisfacere debent.
 
 Hee si bene considerata et pertractata fuerint, satis erunt ad omnes controversias et dissensiones pacificandas, tum eorum qui antehac ista contempserunt et non magno estimarunt, tum eorum qui vel ignorantia, vel alia quavis de causa nefarie profanarunt, atque ad alienos usus traduxerunt.
 
-L CRANMER. ] 2
+## L Cranmer. ] 2
 
 [1.] Eph. ii. Rom. iii.
 
@@ -223,17 +222,17 @@ Rom. iv. Rom. vii.
 
 18 DE VERO USU CQ@NAZ DOMINI. [Lis.
 
-SACRAMENTUM AMORIS ET CONCORDLE AD DISSENSIONUM ET RIXARUM OCCASIONEM ARRIPITUR.
+## Sacramentum Amoris Et Concordle Ad Dissensionum Et Rixarum Occasionem Arripitur
 
 Curistus hoc sacramentum instituit, ut ex inimicis amicos faceret, et omnes discordiarum varietates tolleret, et omnes Christianos ad amoris et caritatis stabilitatem inter se devinciendam duceret. Sed diabolus, Christi ipsius et omnium Christi membrorum adversarius, tam versute prestigiis quibusdam et captionibus lusit, ut ex hoc sacramento, quod ad omnes contentiones sedandas institutum est, maxime dissensiones et dissidia excitentur. Faxit Deus, ut omnibus dissensionibus abjectis, ad hance sacrosanctam communionem omnes vera in Christum fide, et ardenti erga Christi membra amore, accedamus: ut quemadmodum carnaliter ore sacramentalem panem comedimus et vinum bibimus, sic spiritualiter animo verum Christi corpus et sanguinem percipiamus, in ccelo jam existentis, et ad dexteram Dei Patris sedentis: denique ut illius opera, regni et gloriz ccelestis participes cum illo ad omnem evi eternitatem efficiamur.
 
-CAPUT VIII. AUCTORIS QUODNAM SIT HIS IN LIBRIS PROPOSITUM.
+## Caput VIII. Auctoris Quodnam Sit His in Libris Propositum
 
 QuanquaM in prima hujus operis parte satis de sacramento corporis et sanguinis Domini tractatum sit, tum quod ad institutionem pertinet, tum quod ad evangelistarum et Pauli verba spectat intelligenda; minime tamen alienum fuerit fusius illa ad sacree scripture et sanctorum patrum sententiam exponere, idque ita plane et perspicue, omissis controversiarum ambiguitatibus et inanibus questionibus, ut rudes etiam atque nape riti ista facile addiscant, et fructum inde percipiant.
 
 Hoc enim (Deo Sumani mihi in hoc opere efficiendum proposui, ut grex Christi, in hoc regno dispersus (cujus ego pastor designatus sum), hujus divine et ccelestis cognitionis fructu non careat: quo enim clarius ista cernuntur, eo majorem atque uberiorem suavitatem, fructum, consolationem, zdificationem adferunt his, qui ista pie percipiunt. Ad meliorem autem horum intelligentiam, quedam diligenter nobis consideranda sunt.
 
-CAPUT IX. QUENAM SIT SPIRITUALIS FAMES ET SITIS ANIMA.
+## Caput IX. Quenam Sit Spiritualis Fames Et Sitis Anima
 
 Primum, omnes homines natura sua peccatores esse, et,propter peccata in Dei iram offensionemque incurrere, longe ab illo exules atque ejectos, inferni et sempiterne damnationis convictos esse, nemimemque (Christum solum excipio) prorsus innocentem esse, statuendum est. Qua de causa mentes hominum, a Deo inspiratw, valde expetunt, ut a peccato et inferno liberentur, et apud clementem Deum misericordiam, favorem, justitiam, et sempiternam salutem adipiscantur.
 
@@ -255,7 +254,7 @@ Itemque cum Samaritane dicebat, “ Quicunque ex hac aqua biberit, quam ego dabo
 
 Ex his omnibus datur intelligi, aliud edendi et bibendi, esuriendi et sitiendi genus propositum populo fuisse, quam quod ad vitam hance fluxam et caducam alendam et sustentandam pertineret. Quemadmodum igitur, quod corpus alit, cibus et potio dicitur ; ita quod mentem pascit, cibi et potionis nominibus in sacris literis appellatur.
 
-CAPUT X. SPIRITUALIS ANIMI PASTUS QUINAM SIT.
+## Caput X. Spiritualis Animi Pastus Quinam Sit
 
 Superior in loco, que esuries et sitis animi esset, exposuimus: nunc quidnam cibus, _ II. potio et pastus animi sit, dicendum videtur. Cibus, potio, et pastus animorum nostrorum Christus est. Sic enim Servator de se ait: ‘ Venite ad me omnes qui laboratis et Matt. xi. onerati estis, et ego reficiam vos.” Et alio loco: “Si quis (inquit) sitiat, veniat ad me, Joan. vii et bibat. Qui credit in me, flumina e ventre ejus manabunt aque vive.” Et, “Ego sum Joan. vi. panis vite,” inquit Christus: “qui accedit ad me, non esuriet: qui credit in me, nunquam sitiet.” Quemadmodum enim cibus et potio famelicum corpus sustentant et fovent, ita corporis Christi mors et sanguinis effusio animam levant et pascunt, cum suo modo esurit et sitit. Quid est quod miserum et exhaustum corpus reficit? Cibus et potio. Quibus igitur nominibus appellabimus carnem et sanguinem Christi, que reficiunt et sustentant mentem, nisi cibi et potionis? Atque hee similitudo Christum Servatorem induxit, ut diceret : “‘Caro mea est revera cibus, et sanguis meus est revera potus.” Joan. vi. Nullum enim cibi genus jucundum animo esse potest, nisi mors Christi: neque ullum potionis genus exstuantis animi sitim restinguere queat, nisi sanguis Christi, pro peccatis in cruce profusus. eQuemadmodum enim carnalis quidam ortus est, et carnalis pastus, et carnale nutrimentum, sic spiritualis ortus et spirituale quoque nutrimentum est atque nutritio. Et quemadmodum carnali ortu ex patre et matre carnaliter nascimur ad hane ca- *2—2
 
@@ -267,13 +266,13 @@ ducam vitam, sic quivis pius Christianus spiritualiter ex Deo per Christum: nasc
 
 sicuti Christus ipse in vi. Joannis docuit, his verbis: “Amen amen dico vobis, nisi ederitis carnem Filii hominis, et biberitis ejus sanguinem, non habetis vitam in vobis. Qui edit meam carnem, et bibit meum sanguinem, habet eternam vitam: et ego illum in extremo die excitabo. Caro enim mea revera est cibus, et sanguis meus revera est potus. Qui edit meam carnem, et bibit meum sanguinem, in me manet et ego in illo, Quemadmodum vivens Pater misit me, et ego vivo propter Patrem; sic qui edit me, vivet propter me.” Hoc ipsum Paulus de se confessus est: “Quod nunc vivo in carne, per fidem vivo Filii Dei; et nunc non ego vivo, sed vivit in me Christus.”
 
-CAPUT XI. CHRISTUS OMNEM CORPORALEM PASTUM SUPERAT.
+## Caput XI. Christus Omnem Corporalem Pastum Superat
 
 Quamvis Servator Christus carnem et sanguinem suum cibo et potioni comparet, longe tamen longeque plurimum omni cibo et potioni prestat. Quanquam enim cibus et potus hance presentem vitam nutriunt et conservant, principia tamen vite nostre non sunt. Principium enim vite nostra parentum est satus; et ubi semel procreati sumus, cibus et potus nutriunt nos, et vitam nostram ad tempus continent. Christus autem non modo procreator noster est, qui nos primum Deo Patri regenerat, sed etiam vitalis pastus, vitale nutrimentum est.
 
 His accedit, quod cibus et potus corpora nostra tantum alunt; Christus autem verum et sempiternum nutrimentum est, tum corporis, tum animi. Insuper corporalis pastus vitam ad tempus conservat; Christus autem ita perfectus et spiritualis pastus est, ut corpus et animam ad perpetuitatem conservet. Quemadmodum ille ipse Marthe dixerat: “Ego sum resurrectio et vita: qui credit in me, etiam si moriatur, vivet : et quicunque vivit et credit in me, non morietur in eternum.”
 
-CAPUT. XII. SACRAMENTA AD CONFIRMANDAM FIDEM INSTITUTA SUNT.
+## Caput. XII. Sacramenta Ad Confirmandam Fidem Instituta Sunt
 
 Vera harum rerum cognitio vera est Christi cognitio: et hee docere, sincere et recte Christum docere est: et harum rerum fiducia et sensus est vere in Christum credere, et illum in cordibus nostris sentire. Quantoque clarius ista videmus, intelligimus et credimus, tanto clarius Christum videmus et intelligimus, et pleniorem fiduciam et consolationem in illo habemus.
 
@@ -283,13 +282,13 @@ Hac de causa Servator Christus non solum ista a nobis in verbo suo auribus accip
 
 Qua de causa Christus baptismum in aqua instituit: ut quemadmodum propalam aquam corporibus nostris videmus, tangimus, tractamus, et ea abluimur, sic ‘baptizati certo credamus Christum vere nobiscum prasentem, per illum nos spiritualiter regeneratos, omnibus peccatis elutos, in corporis Christi stirpem insitos, et illo vestitos tectosque ita esse, ut quemadmodum diabolus nullam in illum potestatem habet, sic quamdiu in hac stirpe insiti et hoc vestitu tecti sumus, nullam in nos auctoritatem aut ay DE VERO USU C@NZ DOMINI. 21 dominatum gerat. Ita fit, ut aqua baptismi lavari nihil sit aliud, quam Christum ante oculos ponere, ac illum quasi manibus tangendum, palpandum, et pertractandum, ad nostram in illum fidem confirmandam, adhibere.
 
-Pari modo Christus corporis et sanguinis sui sacramentum in pane et vino, ad nos commonefaciendos atque instruendos, instituit, ut quemadmodum corpora nostra cibo et potione pascuntur, nutriuntur, et conservantur, sic quod ad spiritualem vitam nostram erga Deum pertinet, corpore et sanguine Christi Servatoris nostri pascimur, nutrimur et conservamur; atque ita conservamur, ut neque diabolus, infernus, nec mors eterna, nec peccatum ipsum, quicquam contra nos valere possint, quamdiu hoc cibo et potione nutriamur. Qua de causa Christus in pane et vino (que ad quotidianum Hugo de pastum et: precipuum nutrimentum adhibemus) hoc sacramentum instituit, ut eeque ac Cone 575, panem et vinum oculis, ore, ceterisque sensibus percipimus, Christum spiritualem “” " animorum pastum credamus, et non magis dubitemus animos pasci et vivere Christo, quam corpora cibo et potione vivant. Itaque Christus, sciens nos in hoc mundo quasi pueros et infirmos fide versari, signa quedam et notas instituit, que in sensus nostros incurrerent, et nos ad majorem firmitatem et constantiorem in Christum fidem pertraherent. Ita fit, ut hec sacramentalis panis et vini perceptio sit quedam Christi ante oculos nostros collocatio, et illius non modo in ceteros sensus defixio, sed etiam perpetua comestura, concoctio et pastus, ad plenam spiritualem firmitatem et per- fectionem.
+Pari modo Christus corporis et sanguinis sui sacramentum in pane et vino, ad nos commonefaciendos atque instruendos, instituit, ut quemadmodum corpora nostra cibo et potione pascuntur, nutriuntur, et conservantur, sic quod ad spiritualem vitam nostram erga Deum pertinet, corpore et sanguine Christi Servatoris nostri pascimur, nutrimur et conservamur; atque ita conservamur, ut neque diabolus, infernus, nec mors eterna, nec peccatum ipsum, quicquam contra nos valere possint, quamdiu hoc cibo et potione nutriamur. Qua de causa Christus in pane et vino (que ad quotidianum Hugo de pastum et: precipuum nutrimentum adhibemus) hoc sacramentum instituit, ut eeque ac Cone 575, panem et vinum oculis, ore, ceterisque sensibus percipimus, Christum spiritualem “” " animorum pastum credamus, et non magis dubitemus animos pasci et vivere Christo, quam corpora cibo et potione vivant. Itaque Christus, sciens nos in hoc mundo quasi pueros et infirmos fide versari, signa quedam et notas instituit, que in sensus nostros incurrerent, et nos ad majorem firmitatem et constantiorem in Christum fidem pertraherent. Ita fit, ut hec sacramentalis panis et vini perceptio sit quedam Christi ante oculos nostros collocatio, et illius non modo in ceteros sensus defixio, sed etiam perpetua comestura, concoctio et pastus, ad plenam spiritualem firmitatem et perfectionem.
 
-CAPUT XIII. QUARE HOC SACRAMENTUM IN PANE ET VINO INSTITUTUM EST.
+## Caput XIII. Quare Hoc Sacramentum in Pane Et Vino Institutum Est
 
 Quamvis multa ciborum potionumque genera sunt, quibus corpus alitur, hoc tamen iy. sacramentum spiritualis pastus Christus in pane et vino, potius quam in ceteris cibis instituit, quia illa nobis spiritualem omnium fidelium cum Christo et inter se Hugo de conjunctionem plane exprimunt. Quemadmodum enim ex magna vi granorum triTract vi. tici molita, subacta, pista, unus panis conficitur; et magnus uvarum numerus in vasfiabenus de culum unum depressus vinum facit; sic universa Christianorum multitudo primo oot? Christo, deinde inter se, una fide, uno baptismo, uno spiritu, uno nexu et vinculo Tape amoris consociantur. Gems Ties.
 
-CAPUT XIV. MYSTICI CORPORIS CHRISTI UNITAS.
+## Caput XIV. Mystici Corporis Christi Unitas
 
 QuEMADMopUM panis et vinum, que percipimus, in carnem et sanguinem nostrum _—‘VI. convertuntur, atque ita carni et sanguini admiscentur, ut unum corpus integrum efficiant: ita omnes fideles Christiani spiritualiter in corpus Christi convertuntur, atque adeo tum Christo, tum ipsi inter se ita junguntur, ut unum Christi corpus mysticum efficiant. Quemadmodum Paulus ait: “Unus panis et unum corpus sumus, quotquot } Cor. x. unius panis et poculi participes sumus.”
 
@@ -299,7 +298,7 @@ Doctrina transubstantiationis tiduciam nostram in Christum eripit.
 
 22 DE VERO USU CQENA DOMINI. | Lin.
 
-CAPUT XV. SACRAMENTUM HOC OMNES AD AMOREM ET CARITATEM EXCITAT.
+## Caput XV. Sacramentum Hoc Omnes Ad Amorem Et Caritatem Excitat
 
 Cum nihil in hac vita sit gratius Deo, aut acceptius hominibus, quam ut Christiani inter se quiete, cum caritate, pace et consensione animorum vivant, hoc sacramentum nos ad id aptissime et efficacissime movet. Quid enim potius, cum unius sacre mens participes effecti sumus, cogitandum est, quam unius corporis spiritualis (cujus caput Christus est) membra nos esse, ita Christo conjunctos, quemadmodum magnus granorum numerus unum in panem confertur? Duros homines et prefractos necesse est esse, qui istis rebus non commoventur; et bestiis ipsis magis efferatos et crudeles, qui adduci non possunt, ut christianos fratres et pervicinos benevolentia atque officiis prosequantur, cum hoc sacramento admoneantur, Christum Filium Dei non modo amorem suum, verum etiam sanguinem et vitam pro inimicis suis profudisse. Usus enim vite communis nos perpetuo edocet, consuetudinem cibi et potionis una capiendi non modo progignere, sed etiam adaugere amicitias: quanto magis hoc de mensa Domini nobis judicandum censendumque est? ere etiam ipse adhibendo cibo et potione cicurantur: cur igitur Christiani, ccelestis hujus cibi et potionis perceptione commonefacti, non mitescerent? Ad hoc ipsum in hac sacra ccena excitamur, tum pane et vino, tum sacre scripture verbis, que tunc citantur.
 
@@ -309,7 +308,7 @@ Sed preedictas omnes adhortationes, commonitiones, consolationes, papiste (quant
 
 Si enim neque panem neque vinum sacra illa communione percipimus, omnia monita et solatia, que percipiendo pane et vino cepissemus, ' exciderunt, levisque ista opinio occasionem prebet universe in Christum fidei evertende. Cum enim sacramentum hoc in pane et vino institutum est, ad spiritualem pastum nobis in Christo demonstrandum ; si corporalis hic noster panis et vini pastus opinatus tantum sit et imaginarius, neque panis ibi aut vinum revera sit, (quamvis externa ejus species in sensus nostros cadat,) efficitur ex eo, ut neque spiritualis in Christo pastus noster solidus aut verus sit, sed opinatus tantum; imo revera nullus sit. Hee doctrina ita impia atque injuriosa in Christum est, ut a nullo alio, nisi a diabolo aut ejus pri- mario administro antichristo, proficisci possit.
 
-CAPUT XVI. SPIRITUALIS PASTUS CORDE NON DENTIBUS FIT.
+## Caput XVI. Spiritualis Pastus Corde Non Dentibus Fit
 
 Hic spiritualis corporis et sanguinis pastus neque ore percipitur, neque ventre conficitur, (quemadmodum ceteri cibi et potiones, qui corporibus accipiuntur,) sed. puro animo et sincera fide assumitur. Atque hic verus est corporis et sanguinis Christi pastus, ubi constanti veraque fide credimus, Christum corpus suum pro: nobis objecisse in crucem, et sanguinem effudisse, atque adeo conjunxisse et concorporasse nos sibi, ut ille nostrum caput, nos illius membra, et caro de carne ejus,. et os de ossibus ejus essemus, et ille in nobis maneret et nos in illo. Atque hic universa vis et efficientia sacramenti versatur. Hance fidem Deus intus in cordibus nostris Spiritu sancto suo efficit, et eandem partim auribus nostris verbi ejus_auditione, iain ceteris sensibus panis et vini perceptione, in sacra synaxi confirmat.
 
@@ -329,7 +328,7 @@ Hee omnia esse verissima, ex Christi ipsius verbis apertissime liquet, que habui
 
 Hee doctrina hic a nobis commemorata satis esse potest moderatis et piis viris, et nihil otiosum aut supervacaneum querentibus, sed tantum necessaria atque utilia sequentibus ; atque adeo illis hic finis esse potest. Contentiosis autem papistis et idololatris nihil satis esse potest, quamvis expletum id perfectumque sit, et ad salutis. nostre summam complectendam satis instructum. Atqui ut minus gloriari vel de subtili acumine, vel de doctrina, reipsa detestabili, sed illorum opinione gloriosa, queant, quasi nemo illorum sententiam refutare posset; precabor a lectoribus, ut aliquod tempus patiantur me leviter consumere in illorum levissima vanitate confutanda. Quamquam haud arbitror me temere hoc tempus consumpturum, cum ex eo manifeste cernetur, quid lux sit, quid tenebree, quid verum, quid fucatum, quid certissimum verbum Dei, et que vana hominum somnia.
 
-CAPUT XVII. QUATUOR PRECIPUI PAPISTARUM ERRORES.
+## Caput XVII. Quatuor Precipui Papistarum Errores
 
 Sep hee manifeste apparere lectori non possunt, nisi precipua capita proponantur, in quibus papiste a veritate verbi Dei dissentiunt: hac autem quatuor sunt.
 

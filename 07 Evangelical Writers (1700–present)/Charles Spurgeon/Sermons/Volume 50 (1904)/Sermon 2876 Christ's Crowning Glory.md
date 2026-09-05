@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Christ's Crowning Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2876
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His glory is great in Your salvation: honor and majesty have You laid upon Him." Psalm 21:5.
 
@@ -87,7 +84,7 @@ There will have to appear, before the Judgment Seat of the Nazarene, the spirits
 
 But are we all His people? Do not desire that day if you are not His, for the Day of the Lord will be darkness, not light, to all who are His enemies! The more glorious Christ is to His own people, the more dreadful will His appearance be to you if you live as unbelievers and if you die without trusting in Him! O Christians, I bid you be glad in your Lord, and I also bid you pray for the unsaved, that they may trust, and love, and serve Jesus, too—and rejoice with you in recollecting that He is coming again to receive unto Himself all to whom He is both Lord and Savior! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 7:18-50.
+## Exposition by C. H. Spurgeon: Luke 7:18-50
 
 Verse 18. And the disciples of John showed him of all these thing. John was in prison and, possibly, troubled in spirit.
 
@@ -140,7 +137,6 @@ more? Simon answered and said, I suppose that he, to whom he forgave most. And H
 49, 50. And they that sat at meat with Him began to say within themselves, Who is this that forgives sins also? And He said to the woman, Your faith has saved you; go in peace. He did not want this young convert, this beginner in the Christian life to hear the bickering and controversies of these coarse spirits, so He said to her, "Go in peace."
 
 And, dear Soul, if you have begun to find out that even in the Christian Church there are many opinions concerning many things, do not trouble yourself about those things. This is enough for you—"Your faith has saved you; go in peace." There may be some who are galled to contend for this or that point of the faith but, as for you, poor Child, if, with your broken heart you have found the Savior and if you love Him with an inward, warm and hearty love, do not spoil that love by getting into a controversial spirit—"Your faith has saved you; go in peace."
-
 
 ---
 [[Sermon 2875 Confirming the Witness of Christ|← #2875]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2877 Trials Expected and Conquered|#2877 →]]

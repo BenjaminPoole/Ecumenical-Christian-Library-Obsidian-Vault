@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Greater Things Yet Who Shall See Them?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1478
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 8, 1879,.
+*Delivered on Lord's-Day Morning, June 8, 1879*
 
 > "Jesus answered and said unto him, Because I said unto you, I saw you under the fig tree, do you believe? You shall see greater things than these. And He said unto him, Verily, verily, I say unto you, Henceforth you shall see Heaven open, and the angels of God ascending and descending upon the Son of Man." John 1:50,51.
 
@@ -146,7 +145,6 @@ By faith I commit myself and I trust, also, my beloved Church and Friends, to fa
 PORTIONS OFSCRIPTURE READ BEFORE SERMON—John 1:35—51; Genesis28:10—22. HYMNS FROM "OUR OWN HYMN BOOK"—H2, 335, 317.
 
 [Mr. Spurgeon alludes to the Girls' Orphanage. The fund has just commenced and land has been purchased. A large amount will be needed, but there is a great God to look to!]
-
 
 ---
 [[Sermon 1477 Jesus Admired In Them That Believe|← #1477]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1479 The Work of Grace the Warrant for Obedience|#1479 →]]

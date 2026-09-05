@@ -10,12 +10,9 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 1. The Works of John Knox, Vol. 1 (of 6) About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## The Works of John Knox, Vol. 1 (of 6)
 
 ### By
 

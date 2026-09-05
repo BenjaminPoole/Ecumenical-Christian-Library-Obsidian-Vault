@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 44. Why is there added, "he descended into hell?"
-
-**Question 44. Why is there added, "he descended into hell?"**
 
 Answer. That in my greatest temptations, I may be assured, and wholly comfort myself in this, that my Lord Jesus Christ, by his inexpressible anguish, pains, terrors, and hellish agonies, in which he was plunged during all his sufferings, but especially on the cross, hath delivered me from the anguish and torments of hell.
 
-**EXPOSITION**
+## **Exposition**
 
 There are two things which it is proper for us to consider in relation to this Article of the Creed. The first is: What is its meaning or sense? And the second, What is its use?
 
-**I. WHAT IS THE TRUE SENSE OF THIS ARTICLE OF THE CREED; OR, WHAT DOES THE DESCENT OF CHRIST INTO HELL SIGNIFY?**
+## **I. What Is the True Sense of This Article of the Creed; Or, What Does the Descent of Christ into Hell Signify?**
 
 The term hell is used in the Scriptures in three different senses. 1. It is used for the grave. "Then ye shall bring down my gray hairs with sorrow to the grave." "Thou wilt not leave my soul in hell." (Gen. 42:38. Ps. 16:10.) 2. It is employed to represent the place of the damned, as in the parable of the rich man and Lazarus. "In hell he lifted up his eyes, being in torments, and seeth Abraham afar off." (Luke 16:23.) 3. It is employed to signify the most extreme distress and anguish. "The sorrows of death compassed me, and the pains of hell gat hold upon me." "The Lord bringeth down to the grave, and bringeth up," that is, he brings us into the most extreme pains, from which he afterwards again delivers us. (Ps. 116:3. 1 Sam. 2:6.)
 
@@ -62,13 +59,13 @@ Obj. 1. The articles of the Creed ought to be understood in their proper and nat
 
 Obj. 2. The torments and horrors of soul which Christ experienced preceded his burial. But his descent into hell follows it. Therefore it cannot refer to, and designate the anguish of soul which Christ endured. Ans. There is here a fallacy in the minor proposition, in making that a cause which is not designed as such; for the descent into hell in the Creed follows the burial of Christ, not because it was accomplished after his burial; but because it is an explanation of what precedes concerning his passion, death and burial, lest something should be detracted from these; as if it said, he did not only suffer in body—he did not only die a bodily death and was not only buried; but he also suffered in soul the most extreme torments, and hellish agonies such as all the ungodly shall forever endure. The chief, and heaviest part of the sufferings of Christ is, therefore, correctly placed last, according to the order in the Creed; for it proceeds from the pains of the body to those of the soul, and from the sufferings which are visible to those that are invisible, as it were from the lighter to the heavier.
 
-**II. WHAT ARE THE FRUITS OF CHRIST'S DESCENT INTO HELL?**
+## **II. What Are the Fruits of Christ's Descent into Hell?**
 
 Christ descended into hell: 1. That we might not descend thither, and that he might deliver us from the eternal anguish and torments of hell. 2. That he might carry us with himself to heaven.
 
 Therefore to believe in Christ, who descended into hell, is to believe that he sustained for us, in his own soul, hellish agonies and pains, and that extreme ignominy which awaits the ungodly in hell, that we might never descend thither, nor be compelled to suffer the pains and torments, which all the devils and reprobate will for ever suffer in hell; but that on the contrary, we might rather ascend with him to heaven, and there with him enjoy the greatest felicity and glory to all eternity. This is the fruit, and benefit of this article of Christ's descent into hell.
 
-**SEVENTEENTH LORD'S DAY**
+## **Seventeenth Lord's Day**
 
 ---
 [[Ursinus HC Q43|← Question 43. What further benefit do we rece]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q45|Question 45. What doth the resurrection of C →]]

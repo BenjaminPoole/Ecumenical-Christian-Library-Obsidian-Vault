@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Forgiveness Made Easy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1448
@@ -89,8 +88,7 @@ Above all, my brethren, and with this I close, never in any way, directly or ind
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ephesians 4.
 
-HYMNS FROM “OUR OWN HYMN BOOK”—621, 566, 559.
-
+## Hymns from “Our Own Hymn Book”—621, 566, 559
 
 ---
 [[Sermon 1447 Three Crosses|← #1447]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1449 A Vile Weed and a Fair Flower|#1449 →]]

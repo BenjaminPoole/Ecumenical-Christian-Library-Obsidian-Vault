@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 101. Leviticus 18:5
 
 **contained in the Promises and Threats**
@@ -19,8 +18,6 @@ tags:
 We now come to the conclusion of the Exposition of the Law, wherein we are to treat of the sanctions of it contained both in the promises and threats. For, although God might in His own right simply require what He pleased, yet such is His kindness to men, that He chose to entice them by promises to obey Him freely. Since, therefore, we are naturally attracted by the hope of reward, we are slow and lazy, until some fruit appears. Consequently God voluntarily promises, in order to arouse them from their sloth, that if men obey His Law, He will repay them. Nor is this an ordinary act of liberality that He prefers to agree with us for the payment of a recompense, rather than simply to command by His sovereignty. For we must bear in mind the declaration of Christ, that when we have fulfilled the whole Law, we still deserve nothing; since God claims for Himself our entire services. (Luke 17:10.) However we may strive, therefore, even beyond our strength, and devote ourselves entirely to keep the Law, still God lies under no obligation to us, except in so far as He has Himself voluntarily agreed, and made Himself our spontaneous debtor. And this has been pointed out even by the common theologians, that the reward of good works does not depend upon their dignity or merit, but upon His covenant. [^1] Still, as we shall soon see, such promises would not avail us the least if God rewarded every one according to his works; but, because this defect is adventitious, God’s great mercy nevertheless shines forth in the fact that he has deigned to encourage us to obedience by setting before us the hope of eternal life. And hence He reproves the ingratitude of the Israelites by Ezekiel 20:21; because they had despised His good commandments, of which it was said that “if a man do them, he should live in them.”
 
 We now perceive how the authority of the Law was confirmed by the promises; but because we are not only indolent but also refractory, He added on the other side threats which might inspire terror, both to subdue the obstinacy of the flesh and to correct the security in which we are too apt to indulge. It will be expedient now to treat of both.
-
-**Leviticus 18**
 
 **5.** Ye shall therefore keep my statutes and my judgments; which if a man do, he shall live in them: I *am* the Lord.
 

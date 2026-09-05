@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Christ Before Annas
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2820
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the band and the captain and officers of the Jews took Jesus and bound Him and led Him away to Annas first: for he was father-in-law to Caiaphas, who was the high priest that same year...The high priest then asked Jesus of His disciples and of His doctrine. Jesus answered him, I spoke openly to the world; I taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing. Why do you ask Me? Ask them who heard Me, what I have said unto them: behold, they know what I said. And when He had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answer You the high priest so? Jesus answered him, if I have spoken evil, bear witness of the evil: but if well, why do you strike Me?" John 18:12,13,19-23.
 
@@ -96,7 +93,6 @@ Oh, that we could always give to our persecutors such an answer as our blessed M
 Yet it is not always so. There are times when, in conscious integrity, or concerning certain words or acts of ours, we can challenge any man to find fault with us. But, taking the whole range of our lives, in public and in private, most of us would be loath to ask for such a test as that. When our adversaries persecute us, we might say to them, "Ah, if you really knew all that we have been, you would not so much persecute us for our goodness, but punish us for our badness." When I have been slandered, I have often said to myself, "Ah, they have spoken a lie against me, but if they had known me better, they might have said quite as bad a thing as that and yet have only spoken what was true." There is not one man living, who is in his right mind, who would like to have all his thoughts written down, or all his words and acts recorded. We have often wished that half our words could be blotted out with our tears—and then the other half would have to be washed with that precious blood of Jesus before we could, ourselves, endure it.
 
 Now, I think that all this of which I have been speaking to you, ought very much to endear the Master to us and it will do so if we remember and believe that God "has made Him to be sin for us, who knew no sin, that we might be made the righteousness of God in Him." Here is a Lamb that is fit for sacrifice. The high priest and all his officers may examine it as much as they please—they will find that it is perfect. There is not a blemish in it. There is no redundancy and there is no omission. There is neither speck nor spot of sin in Christ—we cannot find any fault in Him. Whether we look at Him within or without, in His youth, or in His childhood, or in His Manhood—in His life or in His death—in His speech or in His silence, in His feelings, or in His thoughts, or in His acts—He is good, and only good—and blessed be His holy name forever and ever! Amen.
-
 
 ---
 [[Sermon 2819 A Caution for Sin-sick Souls|← #2819]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2821 'Until He Finds It'|#2821 →]]

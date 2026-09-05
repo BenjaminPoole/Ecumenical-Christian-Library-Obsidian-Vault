@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Victory
 
-Chapter VIII · *The Upper Room* — J. C. Ryle
+## Chapter VIII · *The Upper Room* — J. C. Ryle
 
 > — 1 John 5:4-5[^1]
 
@@ -110,7 +109,6 @@ Thanks be to God, the review day of Christ's victorious army will be a very diff
 He who saw our gracious Queen distributing the Victoria Cross at the Horse Guards during the Russian war might well be stirred and moved at the sight. But he who saw her come down from her seat to meet a wounded officer who could not walk, and, with her own royal hands, pin his decoration on his breast, will probably remember it as long as he lives.
 
 But, after all, it was nothing compared to the transactions of that great day, when the Captain of our salvation and His victorious soldiers shall at length meet face to face. What tongue can tell the happiness of that time when we shall lay aside our armour, and "say to the sword, Rest, and be still!" What mind can conceive the blessedness of that hour when we shall see the King in His beauty, and hear these words, "Well done, good and faithful servant and soldier, enter thou into the joy of thy Lord"? For that glorious day let us wait patiently, for it cannot be far off. In the hope of it let us work, and watch, and pray, and fight on, and resist the world. And let us never forget our Captain's words: " In the world ye shall have tribulation: but be of good cheer; I have overcome the world" (John 16:33).
-
 
 ---
 [[UR 07 Let Any Man Come|← Let Any Man Come.]] · [[The Upper Room|Upper Room Contents]] · [[UR 09 Athens|Athens →]]

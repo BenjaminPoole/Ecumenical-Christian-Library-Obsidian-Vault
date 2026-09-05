@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 9
-
-**Psalm 9**
 
 David, after having recounted the former victories which he had gained, and exalted in lofty strains the grace and power of God in their happy issue, now again, when he sees new enemies and dangers rising up, implores the protection of the same God by whom he had before been delivered, and beseeches him to overthrow the pride of his enemies.
 

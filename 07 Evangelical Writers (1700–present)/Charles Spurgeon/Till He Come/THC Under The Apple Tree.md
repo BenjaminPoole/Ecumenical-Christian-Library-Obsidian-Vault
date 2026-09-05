@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Under The Apple Tree
 
 *Till He Come* — Charles H. Spurgeon
 
 ## UNDER THE APPLE TREE.“I sat down under His shadow with great delight, and His fruit was sweet to my taste.”—Song of Solomon ii. 3.
-
-## UNDER THE APPLE TREE.
 
 Christ known should be Christ used. The spouse knew her Beloved to be like a fruit-bearing tree, and at once she sat under His shadow, and fed upon His fruit. It is a pity that we know so much about Christ, and yet enjoy Him so little. May our experience keep pace with our knowledge, and may that experience be composed of a practical using of our Lord! Jesus casts a shadow, let us sit under it: Jesus yields fruit, let us taste the sweetness of it. Depend upon it that the way to learn more is to use what you know; and, moreover, the way to learn a truth thoroughly is to learn it experimentally. You know a doctrine beyond all fear of contradiction when you have proved it for yourself by personal test and trial. The bride in the song as good as says, “I am certain that my Beloved casts a shadow, for I have sat under it, and I am persuaded that He bears sweet fruit, for I have tasted of it.” The best way of demonstrating the power of Christ to save is to trust in Him and be saved yourself; and of all those who are sure of the divinity of our holy faith, there are none so certain as those who feel its divine power upon themselves. You may reason yourself into a belief of the gospel, and you may by further reasoning keep yourself orthodox; but a personal trial, and an inward knowing of the truth, are incomparably the best evidences. If Jesus be as an apple tree among the trees of the wood, do not keep away from Him, but sit under His shadow, and taste His fruit. He is a Saviour; do not believe the fact and yet remain unsaved. As far as Christ is known to you, so far make use of Him. Is not this sound common-sense?
 
@@ -78,7 +75,6 @@ He was admitted into the church, and continued with the brethren, walking in hol
 Now, at this time I want you to think of Jesus, not as a Prince, but as an apple tree; and when this is done, I pray you to sit down under His shadow. It is not much to do. Any child, when it is hot, can sit down in a shadow. I want you next to feed on Jesus: any simpleton can eat apples when they are ripe upon the tree. Come and take Christ, then. You who never came before, come now. Come and welcome. You who have come often, and have entered into the palace, and are reclining at the banqueting table, you lords and peers of Christianity, come to the common wood and to the common apple tree where poor saints are shaded and fed. You had better come under the apple tree, like poor sinners such as I am, and be once more shaded with boughs and comforted with apples, for else you may faint beneath the palace glories. The best of saints are never better than when they eat their first fare, and are comforted with the apples which were their first gospel feast.
 
 The Lord Himself bring forth His own sweet fruit to you! Amen.
-
 
 ---
 [[THC Under His Shadow|← Under His Shadow]] · [[Till He Come|Till He Come Contents]] · [[THC Over The Mountains|Over The Mountains →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 81. For whom is the Lord's supper instituted?
-
-**Question 81. For whom is the Lord's supper instituted?**
 
 Answer. For those who are truly sorrowful for their sins, and yet trust that these are forgiven them for the sake of Christ; and that their remaining infirmities are covered by his passion and death; and who also earnestly desire to have their faith more and more strengthened, and their lives more holy; but hypocrites, and such as turn not to God with sincere hearts, eat and drink judgment to themselves.
 
-**EXPOSITION**
+## **Exposition**
 
 There are three things to be explained in the exposition of this Question:
 
@@ -28,7 +25,7 @@ II. What do the wicked receive, if they come to this Supper?
 
 III. What is the lawful use of the Supper?
 
-**I. WHO OUGHT TO COME TO THE LORD'S SUPPER?**
+## **I. Who Ought to Come to the Lord's Supper?**
 
 The questions who ought to come, and who ought to be admitted to the Supper, are distinct and different. The former speaks of the duty of communicants; the latter of the duty of the church and ministers. The former is more restricted; the latter is broader, and more general: for, as touching the former, none but the godly ought to come to the Supper; whilst, as it respects the latter, not only the godly, but hypocrites also, who are not known to be such, are to be admitted by the church. Hence all that ought to come, ought also to be admitted; but not all who ought to be admitted, ought to come: but only those, 1. Who acknowledge their sins, and are truly sorrowful for them. 2. Who trust that their sins are forgiven them by and for the sake of Christ. 3. Who earnestly desire to have their faith more and more strengthened, and their lives more holy: that is, those only ought to come to the Lord's supper, and they alone are worthy guests of Christ, who live in true faith and repentance. It is in these things that a true examination, in order to a profitable approach to the holy Supper, consists. Paul speaks of this, when he says, "Let a man examine himself, and so let him eat of that bread, and drink of that cup." (2 Cor. 11:28.) To examine one's self is to see if we have faith and repentance, as it is said, "Examine yourselves whether ye be in the faith, and whether Christ is in you." But how shall a man know that he possesses these things? 1. By having confidence in God, and peace of conscience. "Being justified by faith, we have peace with God." "Hope maketh not ashamed, because the love of God is shed abroad in our hearts by the Holy Ghost, which is given to us." (Rom. 5:1, 5.) 2. From the effects of a true faith, or from the beginning of a true obedience, being both internal and external, and from a sincere desire and purpose to obey all the commandments of God. Those who have the consciousness that they possess these things; or, to express it in other words, those who have faith and repentance, not only in possibility, but actually, ought to come to, and partake of, the Lord's supper. Infants are not capable of coming to the Lord's supper, because they do not possess faith actually, but only potentially and by inclination. But here actual faith is required, which includes a certain knowledge of what God has revealed, and an assured confidence in Christ; it also requires the commencement of a new obedience, and purpose to live godly; and also an examination of ourselves, with a commemoration of the Lord's death.
 
@@ -40,7 +37,7 @@ Obj. 2. We are all unworthy. Therefore, none ought to come to the Lord's table. 
 
 Obj. 3. Those who keep from profaning the supper act properly. Those now who stay away from the Lord's table on account of being at enmity with some one, and for other sins, keep from profaning the supper. Therefore, their conduct is such as is right and proper. Ans. We reply to the major proposition by making a distinction: Those who keep from profaning the Lord's table act properly, if they keep from it in such a way as they ought, viz: by repenting of those sins which render them unworthy; but they act unwisely and wickedly, who, when they absent themselves from the Lord's table, continue in sin, hypocrisy, and a state of enmity with their neighbor, for they add sin to sin, and contempt to profanation. We must not do evil, that good may come.
 
-**II. WHAT DO THE WICKED RECEIVE IN THE USE OF THE LORD'S SUPPER?**
+## **II. What Do the Wicked Receive in the Use of the Lord's Supper?**
 
 Hypocrites, and such as turn not to God with sincere hearts coming to the Lord's supper, receive not the things signified, viz: the body and blood of Christ, but the naked signs of bread and wine, and these to their condemnation. This is proven,
 
@@ -64,7 +61,7 @@ The reasons, on account of which unbelievers, and such as are ungodly bring upon
 
 Those, therefore, who argue that if the ungodly eat to themselves condemnation, they must eat the body of Christ, reason falsely. Yea, it may be said that the contrary is rather true; for if they eat to themselves condemnation, they do not eat the body of Christ. For to eat Christ and to eat condemnation are contraries, which cannot hold true at the same time. But, say our opponents, they eat unworthily; therefore they nevertheless eat. We grant that they do indeed eat; but they merely eat bread, and not the body of Christ; for it is expressly said, Whosoever shall eat this bread unworthily. But, say they again, Christ is not only a saviour, but also a judge; to which we reply, that he is not a judge of those by whom he is eaten, but of those by whom he is despised; for it is said of them that eat, "He that eateth me, even he shall live by me." (John 6:57.) And of those that despise Christ, "Depart from me, ye that work iniquity." (Matt. 7:23.) As the gospel is the savour of life unto life when it is believed, and is the savour of death unto death when it is despised, so Christ, when he is eaten, quickeneth, and when he is despised, judgeth. Christ now is despised, when he is offered to the unbelieving in the word and sacraments, and is rejected by their unbelief. But it is still further objected: The ungodly are guilty of the body of Christ; and therefore must eat it. But the cause of their guilt is not the eating of Christ, but the eating of the bread without Christ; because it is said, Whosoever shall eat of this bread unworthily, &c. An abuse of the sign is a contempt cast upon Christ himself; as an injury done to the charter or seal of a king is an injury done to the king himself, and is an offence against his injured majesty. But how, it is asked, can the ungodly eat judgment to themselves, and be guilty, when it is a good work to receive the sacraments? We reply, that the receiving of the sacraments is in itself a good work, and when it is accompanied with the true and lawful use thereof; otherwise it is a work which God does not command, but forbids, as he himself says: "He that killeth an ox is as if he slew a man," &c. (Is. 66:3.) So Paul says: "This is not to eat the Lord's supper," &c. "If thou be a breaker of the law, thy circumcision is made uncircumcision." (1 Cor. 11:20. Rom. 2:25.) If this were not true, we might thus conclude: The receiving of the body of Christ is a good work; therefore the ungodly cannot by this receiving be guilty of the body of Christ.
 
-**III. WHAT IS THE LAWFUL USE OF THE LORD'S SUPPER?**
+## **III. What Is the Lawful Use of the Lord's Supper?**
 
 The lawful use of the Supper is, when the faithful receive in the church the bread and cup of the Lord, and show his death, so that this receiving may be a pledge of their union with Christ, and an application of the whole benefit of our redemption and salvation. It consists in these three things:
 

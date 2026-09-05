@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # "Return! Return!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2547
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Return now every one from his evil way." Jeremiah 18:11.
 
@@ -97,7 +94,7 @@ I wish that we were all agreed, by the power of the good Spirit, that we would t
 
 "O Lord, turn us! Turn us and we shall be turned! And, if You have turned us, help us to persevere in righteousness, and let us not turn again to folly. But oh, turn men and women tonight, for Your love's sake—for Your mercy's sake— for Christ's sake! Turn the whole congregation of unsaved ones with their face to the Cross! And may they look on Him whom they have pierced, and mourn for their sin! And then may they look again unto Him and be lightened, as they see their sin effectually and eternally put away by the substitutionary Sacrifice of their redeeming God! Answer, O Christ, the cries of our soul, for Your own name's sake! Amen."
 
-EXPOSITION BY C. H. SPURGEON: LUKE 13:1-22.
+## Exposition by C. H. Spurgeon: Luke 13:1-22
 
 Verse 1. There were present at that season some that told Him of the Galileans, whose blood Pilate had mingled with their sacrifices. It was a cruel and wicked act on the part of Pilate to wreak his vengeance upon the Galileans when they were occupied in offering the sacrifices of their religion.
 
@@ -116,7 +113,6 @@ Next, in the chapter, we have a word of comfort to those who have been under the
 17\. And all the people rejoiced for all the glorious things that were done by Him. There is a very striking contrast between the two parts of this verse—"All His adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by Him." The next parable is full of comfort to those in whom there is at present little Grace, but, being a living seed, it will become more.
 
 18-22. Then said He, Unto what is the Kingdom of Godlike? And whereunto shall I resemble it? It is like a grain of mustard seed which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it. And again He said, Whereunto shall I liken the Kingdom of God? It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened. And He went through the cities and villages, teaching, and journeying toward Jerusalem. With His face toward the place where He should offer an Atonement for the sin of men, which was to be the climax of all His labors!
-
 
 ---
 [[Sermon 2546 A Message to the Glad and the Sad|← #2546]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2548 Four Contrasts|#2548 →]]

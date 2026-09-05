@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Perfect Justification and Perfect Pardon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2789
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In those days, and in that time, says the LORRD, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom Ipreserve." Jeremiah 50:20.
 
@@ -105,7 +102,7 @@ His pardon at once He receives,
 
 Redemption in fill through His blood." So, without delay, just as you are, come and trust in Christ! and your sins, which are many, shall be forgiven you, and you shall go on your way rejoicing in hope of the glory of God, even as you are rejoicing in the assurance of the love of God. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 18:1-35.
+## Exposition by C. H. Spurgeon: Psalm 18:1-35
 
 Verse 1. I will love You, O LORD, my strength What a blessed "I will"—"I will love You"! He does love the Lord, and he declares that he will continue to do so. He feels that he must do so, for the Lord has been his strength. There are many aspects under which the love of our heart is most justly and fitly given to God and this is one of them. If the Lord has been the strength of our heart, then let our heart love Him.
 
@@ -160,7 +157,6 @@ hands in His eyesight The godly never see any merit in their own works, they nev
 31\. For who is God save the LORD? Or who is a rock save our God? Where can lasting hopes be fixed? Where can the soul find rest? Where is stability to be found? Where is strength to be discovered? Surely, in the Lord Jehovah alone can we find rest and refuge!
 
 32- 36. It is God that girds me with strength, and makes my way perfect He makes my feet like hinds' feet, and sets me upon my high places. He teaches my hands to war, so that a bow of steel is broken by my arms. You have also given me the shield of Your salvation: and Your right hand has held me up, and Your gentleness has made me great. I think you will see that David has given us, in this Psalm, the reasons why he began by saying, "I will love You, O Lord, my strength."
-
 
 ---
 [[Sermon 2788 Prayer for the Church|← #2788]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2790 Our Lord's Substitution|#2790 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Clear Understanding
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3305
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto them, Have you understood all these things?" Matthew 13:51.
 
@@ -67,7 +64,7 @@ Should there be, my dear Hearers, something which keeps you back from Christ, ar
 
 I am deeply concerned for some of you, especially for such of you as often listen to my voice, that I may not forever keep on talking into your ears and never reach your hearts. What? Am I to rock your cradle and send you to sleep that you may sleep yourselves into Hell? Is mine to be the voice that is really to increase your responsibility and not to be the means of bringing you to Jesus? I pray God to avert so dreadful a result to all our ministry, but may you be led this very night—for God's people have been praying for you—may you be led this very night to confess that you do not understand what you ought to understand and go to the great and wise God to teach and instruct you! And as surely as His Word is the Truth of God, He will instruct you and teach you in the way that you should go and bring you to Himself. He that believes on the Lord Jesus Christ shall be saved! Thus says His own Word, "He that believes and is baptized shall be saved." Trust—that is the main matter. To believe is to trust, to rely on, to depend upon—he that depends upon Jesus, trusts Him, believes in Him, is saved! May we be of that blessed number and His shall be the Glory. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 13:1-23.
+## Exposition by C. H. Spurgeon: Matthew 13:1-23
 
 Verses 1, 2. The same day went Jesus out of the house, and sat by the seaside. And great multitudes were gathered together unto Him, so that He went into a boat, and sat; and the whole multitude stood on the shore. I think I can see the little ship at a convenient distance from the shore so as to keep off the multitudes of people, in order that the Savior might speak more freely. There He sits with a boat for a pulpit. There were no conventionalities about the Lord Jesus when He was upon the earth—He was willing to speak to the people anywhere from any pulpit whatever!
 
@@ -120,7 +117,6 @@ Now, if the Savior's main design, in the use of parables, had been that men shou
 23\. Which also bears fruit, and brings forth, some an hundredfold, some sixty, some thirty. I say again—Oh, that we had a hundredfold return for our sowing! Yet let us not forget to give God thanks if we have sixtyfold or even thirty-
 
 fold.
-
 
 ---
 [[Sermon 3304 Grace Abounding|← #3304]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3306 Satan, Self, Sin and the Savior|#3306 →]]

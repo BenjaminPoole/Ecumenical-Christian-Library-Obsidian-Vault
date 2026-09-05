@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Salvation by Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2741
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By Grace you are saved." Ephesians 2:5.
 
@@ -127,7 +124,7 @@ Lastly, one word to those who cannot say that they are saved. My dear Friends, t
 
 Go, then, my Brothers and Sisters, and spread the Doctrine of Salvation by Grace, for this old watchword of the Church is the source of her victory! And when once this shall be her battle-cry, her triumph is sure! The headstone of God's spiritual temple shall be brought forth with shouts, crying, "Grace, Grace unto it."
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 12; 13:1-3.
+## Exposition by C. H. Spurgeon: 1 Corinthians 12; 13:1-3
 
 1 Corinthians 12:1, 2. Now concerning spiritual gifts, brethren, I would not have you ignorant You know that you were Gentiles, carried away unto these dumb idols, even as you were led. Although the members of the church at Corinth were highly favored with spiritual gifts, they do not seem to have known how to use them. Paul points out to them, in this chapter, how ignorant they were concerning the very gifts which they possessed. They did not know how to put them to proper use in the service of God. The Apostle, therefore, reminds these gift-exalted Corinthians that, only a little while before, they were heathens, carried away by lies and superstition, and worshipping dumb idols. They had nothing, therefore, to boast of and it is probable that if we look back to the hole of the pit from where we were dug, we shall find no more occasion for boasting than they had.
 
@@ -174,7 +171,6 @@ members suffer with it; or one member is honored, all the members rejoice with i
 27-31. Now you are the body of Christ, and members in particular. And God has set some in the church, first Apostles, secondarily Prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. Are all Apostles? Are all Prophets? Are all teachers? Are all workers of miracles? Have all the gifts of healing? Do all speak with tongues? Do all interpret? But covet earnestly the best gifts and yet show I unto you a more excellent way.
 
 1 Corinthians 13:1-3. Though I speak with the tongues of men and of angels and have not charity, I am become as sounding brass, or a tinkling cymbal And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing. And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profits me nothing. God grant us Grace, then, that we may abound in this most excellent Grace of a true Christian life which is infinitely more essential than the highest gifts or the most remarkable talents that God Himself can bestow upon us!
-
 
 ---
 [[Sermon 2740 What Is Essential in Coming to God|← #2740]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2742 Question and Exclamation|#2742 →]]

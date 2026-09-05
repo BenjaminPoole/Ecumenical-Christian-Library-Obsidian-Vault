@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Believer's Glad Prospects
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3323
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Until the day breaks and the shadows flee away, turn, my Beloved, and be You like a roe or a young hart upon the mountains of BBether." Solomon's Song 2:17.
 
@@ -123,7 +120,7 @@ Only, again I say, I wish with all my heart—it is my heart's desire and prayer
 
 Oh, that you just now might end your service of the devil and forthwith commence your service of the Lord Jesus! The Master grant it by the power of His Holy Spirit and His shall be the praise!
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 7.
+## Exposition by C. H. Spurgeon: Revelation 7
 
 Verse 1. Andafter these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. Observe that God has servants always ready for His work. There were winds to be restrained. "And I saw four angels"—mighty spiritual beings—who had power over the air. These winds were to be restrained until all God's people were safely sealed and you may depend upon it that no calamity shall happen to destroy the people of God—they must first be saved. There shall be no deluge till there is the ark—there shall be no Romans to destroy Jerusalem till there is a little city in the mountains to which the disciples may flee. God will protect His own. The dead calm, the perfect quietude which prevailed while the angels restrained the winds is set forth in these words. The wind did not appear to blow on land, or sea, or tree—not a ripple broke the surface of the waters, not a leaf stirred on the bough—everything is quiet until God's people are secured.
 
@@ -148,7 +145,6 @@ behalf.
 14-15. And I said unto him, Sir, you know. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb. Therefore are they before the Throne of God, andserve Him day and night in His Temple: and He that sits on the Throne shall dwellamong them. Shall "tabernacle over them," that is the exact word, as though He were a pavilion, a canopy over them.
 
 16-17. They shall hunger no more, neither thirst any more, neither shall the sun light on them, nor any heat. For the Lamb which is in the midst of the Throne shall feed them, and shall lead them unto living fountains of water: and God shall wipe away all tears from their eyes. It looks almost as if they might have a tear in their eye when they first come there—certainly they shall never be sure of being without a tear till they have crossed the pearly threshold—but then He shall wipe away the very tear—there shall be no possibility of weeping there! May our eyes behold that sinless and sor-rowless land and its Eternal Lord!
-
 
 ---
 [[Sermon 3322 Hiding Among the Stuff|← #3322]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3324 Turning From Death|#3324 →]]

@@ -10,20 +10,15 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 5. On the Writings of Wycliffe Still in Manuscript, Part 1
 
-STILL IN MANUSCRIPT.
-
-ON THE WRITINGS OF WYCLIFFE STILL IN MANUSCRIPT.
+*Still in Manuscript*
 
 In this section the attention of the reader will be directed in the first place to the pieces written by Wycliffe in English, and which, for the most part, were addressed alike to the clergy, to the opulent among the laity, and to the people at large. Even these pieces, though the most popular of the Reformer's productions, were they printed entirely and to the letter, would prove wearisome to most readers in our day, partly from the obsoleteness of their language and allusions, and partly from the fi^uent repetitions of thought and illustration with which they abound. Such iteration of great principles served an important end in the history of the Reformer, but cannot contribute to the agreeableness of his writings as read by men in difierent circumstances, and in a laterage. My impression is, that the attentive reader may form as correct a judgment in respect to the writings of Wycliffe from the present volume, as would be acquired by an immediate perusal of the whole of his works ; nothing characteristic of those works, so far as my knowledge extends, being wanting in the descriptions here given of them, and the selections here made from them.
 
 I. ExposiTio Decalogi." Wycliffe wrote several expositions of the Decalogue. One forms a part of the collection of treatises, under the title of " The Poor Caitiff :" another, of much greater extent, in Latin, is preserved in the Bodleian Library. Similar thoughts and passages appear in all these pieces. From internal evidence, I conclude the piece fix)m which the following passages are selected to be one of the Reformer's earlier productions, of much the same period probably with the several tracts in The Poor Caitiff.
 
 • British MuMum. MSS. Titus D. xix. In the Bodleian U a tract with the fbHowing title:— Compemdhm X. MandaUtrum editum a MajeHro Jo, Wiclife, Doctore Evangetiea verUmUt. It ii much tiwd by Dr. James, in his " Apology for John WicUiffe.**
-
-2 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 In the prologue to this exposition, WjcMe laments that men should be found calling God master, and professing to honour ^' his Son from heaven," and for " forty, threescore, fourscore years,'' be ignorant of hit " ten commandments." lie exhorts his reader, accordingly, after this wise, '^ If thou wilt be God's servant, begin and think how thou earnest first into this world ; how thou wast born of thy mother with pain and sorrow, poor, feeble, and imable to help thyself. Think how thou art set here in this wretched world, to sweat and toil for thy sustenance. Think also that thou shalt go out of this wretched world, poor and naked as thou earnest in ; — and that thou shalt have nothing with thee (^ thy goods, save thy good deeds or thy wicked." He then speaks of the " high bliss of heaven," and of " the pains of hell," as supplying motives to the obedience required. The signs of not being in deadly sin are said to be " when a man will gladly and willingly hear the word of God ; when he knoweth himself prepared to do good works ; when he is willing to flee sin ; when a man can be sorry for his sin."
 
@@ -36,8 +31,6 @@ EXPOSITION OF THE DECALOGUE. 3 saints. By these " dead images,** the laity, and 
 Thus the man who would l^e obedient to the command which requires him duly to honour God, is reminded that ^^ he must steadily believe, that Almighty God in Trinity, the Father, the Son, and the Holy Ghost, three persons in one God, are the noblest object that may be, so that all power, all knowledge, all wisdom, all goodness, all charity, all mercy, is in him, and cometh of him. Also, thou must fear God before all things in this world, and break his commandments for no worldly good. Also, thou must love God before all things, and labour earnestly to understand and know his will ; that thy will may be so ruled and set that it may ever accord with God*s will. Have a mind also of the goodness of God, how he made thee in his own likeness, and how Jesus Christ, both God and man, died so painful a death on the cross, to buy man's soul out of hell and to the bliss of heaven, with his own heart's blood r* All trust in amulets, or the devices of magic, is described as 80 much weakness and impiety : and the question is asked — '* Since men dread so much the pope*s cursing, the bishop's cursing, and other priests* cursing, why do not men fear the rightful, the dreadful, and the terrible cursing that God giveth to those who will not keep his commandments ? **
 
 In regard to the second commandment, '^ all men and women who would be called Christians, and who live contrary to the living and b2
-
-4 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 teaching of Christ and of his apostles, take God^s name in yain ; for it is in vain for a man to say that he is a Christian, when he doeth not the works of Christ." Men are further chargeable with taking God's name in vain when they indulge in profane or unlawful swearing. He then cites certain canons which menace profane swearers, if ecclesiastics, with "degradation," and if laymen, with "excommunication;" and adding to that authority the authority of our Lord in his sermon on the mount, he remarks — " These are Christ's own words in his Gospel, and therefore for love of him who for you shed his blood, beware henceforward night and day of your oathes swearing, and always that you swear not in vain, and much more, that you swear not falsely, for a great clerk hath said, he that sweareth falsely maketh God false, for he maketh God the author of falsehood."
 
@@ -52,8 +45,6 @@ On Sunday it should be matter for our meditation, that creation was completed on
 " And bethink thee heartily of the wonderful kindness of God, who was so high and worshipful in heaven, that he should come down so low, and be born of the maiden, and become our brother to buy us again by his hard passion, from our thraldom of the devil. He was beaten, buffeted, and scourged. He was crowned with a crown of thorns for despite, and when the crown, as clerks say, could not sit fast, and close down to his head, for the long and stiff thorns, they took staves and beat them down, till the thorns pierged the place of the brain. He was naUed hand and foot, and with nails sharp and rugged, that his pain should be the more, and so at last he suffered a painful death, hanging full shamefully on the hard tree. And all this he did and suffered of his own kindness, without any sin of his own, to deliver us from sin and pain, and to bring us to everlasting bliss. Thou shouldst also think constantly, how, when he had made thee of nought, thou hadst forsaken him, and all his kindness through sin, and hadst taken thee to the devil and his service, world without end, had not Christ, God and Man, suffered this hard death to save us. And thus shouldst thou see the great kindness, and all other goodness that God hath done for thee, and leam thereby thy own great unkindness, and thou shalt thus see that man is the most fallen of creatures, and the unkindest of all the creatures that ever God made. It should be full sweet and delightful to us to think thus on this great kindness and this great love of Jesus Christ."
 
 The second occupation proper to the Sabbath, is said to consist in speaking. This should be first in confession of sin, made immediately to God— -confession of having lived a false, sensual, and unnatural life, neglecting the study and the observance of his will, after the manner of the brute. This confession being made, Wycliffe's counsel to the penitent is, that he should " cry heartily to God for grace and power to leave all sin, and ever after to live in virtue. And after this be about with thy speaking to bring thy neighbours to better living. And if they are at debate, bring them by thy power to love and charity and
-
-6 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 concord. If thou be a priest, be a true lanthom to the people, both in speaking, and in doing truly all things that belong to a priest. And seek wisely the ground, and the true ofEce of priesthood, and be thou not led blindly by the lewd customs of the world ; but read God's law, and the exposition of holy doctors thereupon — study it, learn it, and keep it ; and when thou knowest it, preach it to them that are unknowing, and look evermore that thy deeds be so rightful, that no man may blame thee with reason.^'
 
@@ -79,8 +70,6 @@ n. In a manuscript volume in Corpus Christi College, Cambridge, including a seri
 
 * MS. Corpus Christi College, Cambridge, pp. 1—22. Trinity College, Dublin. Class C. Tab. ili. No. 12. pp. 1—17.
 
-8 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 and nearly the whole of the first page is illegible. In a portion of that page remaining, the Reformer speaks of the importance of '^ bringing men cleanly to the Gospel, and the peace and freedom of Christ^s order, that being the most perfect, and the most easy to win heaven by.^^ The treatiBe extends to twenty-two pages, double columns, in quarto, and from its reference to the papal schism, and to the disputes concerning the eucharist, it manifestly belongs to the later period of the Heformer^s life. •
 
 " See now," he writes, " where these friars break falsely all the commandments of God. If they choose to be ruled more after the ordinance of sinful men and idiots, than after the clean ordinance of Christ ; and say that sinful maii^s ordinance is better, and truer for man, and more perfect than is the clean ordinance of Christ — then they worship false gods, and are heretics and blasphemers, and so they break the first commandment of God. If they dread more, and punish more for breaking of sinful man^s traditions, than for breaking the commandments of God ; and study and love more their private rules, than the bests * of God, then they worship, love, and dread sinful man, and, it may be danmed devils, more than God Almighty — for as Austin saith, a man maketh that thing his God the which he dreadeth most and loveth most."
@@ -95,7 +84,7 @@ Of the clergy generally, he remarks, that a schism having grown up in the papacy
 
 * Commandments. ' Man-kiUers.
 
-ON THE LEAVEN OF THE PHARISEES. 9
+## On the Leaven of the Pharisees. 9
 
 It is in the following terms that he exhorts men to Christian fidelity :
 
@@ -107,8 +96,6 @@ Having censured the vices, not only of the mendicants, but of the regular clergy
 
 « Supremely. * Truly. ' Steadily-^nnly.
 
-10 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 his church, and to nourish and maintain Christian souls in good goveniance and holy life/^ Merchants, and all classes, are said to be afiected by this insincere and worldly temper, " but the hypocrisy of the Pharisees is the most accursed and poisonous of all."
 
 m. The next treatise in this collection is intitled, De Obedientia PbeLATORUM. The English title is, How mm owe Obedience to Prelates^ ^c. It begins with the words, Prelates sloaider poor priests^ (md other Christian meriy that they will not obey to their sovereigns^ nor fear the cursej nor dread nor keep the law, but despise cUl things that are against their liking. * On this accoimt they are said to be ^* worse than Jews and Pagans, and all lords, and prelates, and mighty men should destroy them, for else they will destroy holy church, and make each man to live as him liketh, that so they may the more destroy Christendom."
@@ -117,7 +104,7 @@ m. The next treatise in this collection is intitled, De Obedientia PbeLATORUM. T
 
 « MS. C.C.C. Cambridge. Trin. Coll. Dub. Gus. C. Tab. Ui. No. 12. pp. 17—33. It does not appear that the itinerant labours of the persons so often mentioned in the writings of WycliA under the title of " poor priests/' had become such as to attract much attention firom the ruling clergj until within some flve or six years of the Reformer's death : and throughout this work, *' On Obedience,'* there is so much said concerning the manner in which the bishops employed their anthodrity to silence this new and irregular class of teachers, as to place it beyond doubt that this piece was written by the Reformer sometime within the space above-mentioned.
 
-ON OBEDIENCE TO PRELATES. 1 1
+## On Obedience to Prelates. 1 1
 
 Wyclifie then complains that prelates should thus demand greater reverence and submission than had been claimed by the apostles, or by Christ himself, while their life commonly bore so little resemblance to that of the Redeemer. He bids them remember that *^ Christ, God and Man, sought man^s soul, lost through sin, thirty years and more, with great travail, and weariness, and many pains, by many thousand miles upon his feet, in great cold, and storm, and tempests r To this example, it is contended, his vicars should be, at least in some good measure, conformed : and it is demanded with some warmth, ^* Why should a sinful idiot claim more obedience than did Christ and his apostles ?'*
 
@@ -126,8 +113,6 @@ It is maintained further, that no man should leave the greater duty in favour of
 " By reason, also, and by man's law, if a man be summoned together by the higher judge and a less, he shall be excused from the less by virtue of the higher. But each man is summoned first of God to worship him with all his wit, and with all his might — and by virtue of this chief dominion, he oweth to be excused from the less.
 
 " Men of law say, and reason also, that it is worst of all to take doom luder a suspected doomsman. But these worldly prelates are suspected
-
-12 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 doomsmen against God^s servants, for they are enemies to the persons of Christ^s servants, and also to the cause of God. And the new religions assessors of these worldly prelates are more to be suspected than any other, for they put the decrees of the church and of their founders before the law of God, and thus charge deficiency and evil on the author of Holy Writ, deceiving lords and ladies in matters of faith and charity, and making them to trust that it is alms to destroy true men, that stand fiist for God's law and true living. And thus the damnable ignorance of God's law, and the accursed life of these worldly prelates, and the strong maintaining of their own sin, and the sins of other men, is the cause why poor priests and Christian men have been suspected of heresy, and counted enemies both of God's cause and of his servants.
 
@@ -149,8 +134,6 @@ In the first chapter it is shown that our Lord and his apostles were devoted to 
 
 » MS. C.CC. Cambridge. Trin. ColL Dub. CUm C. Tab. U. No. 13. pp. 32— £4. This work contains repeated allusions, in common with the preceding, to the conduct of the prelates, In persecuting the "poor priests** who went about preaching to the people. (Chap, yi., rvi, xxiil., xxviL) In the thirteenth chapter there Is a reference to the crusade carried on in Flanders under the command of Spencer, bishop of Norwich, in favour of Pope Urban. The bishop embarked on that enterprise in April, 1383, having raised a force for the purpose chiefly by means of ptiv^ pardons and indulgences. " All who should die at this time," says Froissart, " and who had given their mtHsey, were absolved Crom every fkult, and by the tenure of the bull, happy were they who could now die, in order to obtain so noble an absolution." Hist, ubi supra. WycUffe maintain* Indignantly that the spiritual weapons of religion should be used " to make peace," and not, after this manner, " to make dissensions and war."
 
-1 4 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 the example of a good life ; the true preaching of the Croepel ; and a willingness to suffer death, if need be, to render men stable in the truth, and in the hope of bliss. The case of Eli and his sons is cited, as showing the domestic and national evil^ which follow naturally in the train of an unholy priesthood. The language of Ezekiel also, on the responsibility of the minister of truth, is adduced, as holding forth the same warning. Hence also the language of the apostle — " woe is me if I preach not the Gospel :" and as Peter was called Satan, when opposing himself to the death of Christ, so may prelates be thus designated, if they interpose to prevent that salvation from coming to men, which the death of Christ has brought near to us. "Christ," says Wydiffe, " purged the temple with his own hands, as the Gospel telleth, in token that, if the priests were good, the people would soon be amended. And for this reason, true men say, that prelates are more bound to preach truly the Gospel, than their subjects are bound to pay them dymes ;• for God chargeth that more, and that is more profitable to both parties. Therefore prelates are more accursed if they cease from their preaching, than the people are if they cease to pay tithes, even while prelates do their office well." Matins, masses, and chantings, arc all described as "man's ordinances," but the preaching of the Gospel is of Divine obligation, as having been enjoined by Christ, both before and after his passion.
 
 In the beginning of the second chapter, the authority of the venerable Bede, of Gregory I., of Augustine, and others, is cited in support of the importance which the Reformer ascribes to preaching. Prelates who do not preach themselves, and who prevent others from doing so, are described as monsters who refuse to feed their own offspring, and who will not suffer others to feed them : and they are denounced accordingly, as " procurators to the fiend, enemies of Christ, and traitors to his people I"
@@ -162,8 +145,6 @@ ON PRELATES. 15 less than sixty thousand marks, ^^ all robbed from the king^s li
 In the fourth chapter, Wyclifie says, "Lords and ladies who hold curates in worldly ofiices, from the souls of which they have the care, are traitors. For God giveth them lordship and presentation of churches, that they should maintain his law, and help true priests in the preaching of his Gospel ; and if they withhold curates, who are God's treasure, in their worldly services, or prevent them from keeping Christian souls, the which Christ bought with his precious blood, they are foul traitors to Jesus Christ, and to the people whom they thus destroy." But if it is a great sin in the laity thus to bind the clergy to secular things, it is a greater sin in the clergy to consent to be thus bound, and a greater sin still, when a clerk descends to add crafl to worldliness, and to play the false confessor for gain. These " three treasons " are said to be frightfully prevalent. " But the simony of the court of Rome doth most harm, for it is most common, and done most under the colour of holiness, and robbeth most our land, both of men and treasure." The customary exactions of the Roman see are then described and censured, especially because those exactions, and the money spent in journeying to Rome, and during the delays which kept men there, were all so much wealth lost to the kingdom. " When a lord hath the gold for presentation, then the gold dwelleth still in the land. But when the pope hath the first-fruits, then the gold goeth out, and cometh never again."
 
 But the purchase of benefices with money was only one form of simony. " Pardons, if they are aught worth, must be free, and to take money for them, is to sell God's grace, and so simony." Hence masses, and other services, " for which money is taken," are spoken of as so much fiuudulent invention, meant to give the priesthood the power of spoiling the people. The history of Jeroboam, and the fall of Gehazi,
-
-1 6 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 and of Simon Magus, are cited as showing the displeasure with which simoniacal preachers are regarded by the Ahnighty. '' The king and lords," says the Reformer, " are charged of God to destroy this sin and others, and if they do it not, they are consenters to it, and fauterers* thereof"
 
@@ -183,8 +164,6 @@ In the ninth and tenth chapters are the fbllowing passages :— *
 
 In this manner did the Reformer plead for natural right, and liberty of conscience, against the abuses of power on the part of a worldly and vicious clergy. To concede that such methods of proceeding are just, he remarks, would be to concede the justice of the death inflicted on the martyrs, and on Christ himself, against whom it must, of coiu*se, have been easy to produce three such witnesses. By such means, indeed, it were easy to prove ** each king of Christendom foresworn, and therefore no king." But as the judgment of Elijah prevailed against that of eight hundred false priests, so shall the judgment of one true man prevail against that of a host of prelates ; and if ^' the clerks of
 
-18 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 Antichrist curse the soul into heU, as they pretend, surely they are evil fathers, who thus violently curse their own children into hell — not for rebellion against God, nor against his law, but because Christian men withstand the prelates' covetousness or pride, or because they teach and maintain the Gospel of Jesus Christ."
 
 In the next chapter Wycliffe touches on the subject of prayer, on its nature, and its supposed efficacy. "Prayer," he remarks, '^standeth principally in good life, and of this prayer speaketh Christ, when he saith in the Gospel that we must ever pray. For Augustine and other saints say, that so long as a man dwelleth in charity, so long he prsyeth well." Prayer is also said to " stand in holy desire," and " in word ;" but prayer in word " is nought worth, imless it be done with devotion, and cleanness, and holiness of life. Ah ! Lord, since prelates are so ^r from God's law, that they will not preach the Gospel themselves, nor suflfer other men to preach it, how abominable is their prayer before God Almighty ! Lord, since prelates know not whether their prayer be acceptable or abominable, why do they magnify it so much, and sell it so dear ? For the prayer of a lewd" man who shall be saved, is without mcasiu*e better than the prayer of a prelate who shall be damned." Vicious priests,, it is observed, " need to have new laws, made of sinful fools, to colour their sin by, and to gather greedily tithes, when they do not their office ; for God's law helpeth them not thereto, but condemns their pride, covetousness, and other sins." He then combats the notion that such men are heard " not for their own holiness," but " in virtue of holy church ;" and replies to this " dreaming," that it is " not grounded in Holy Writ, for God saith generally that such prayer is abominable." The offijring of strange fire on the ancient altar, betokened the offering of prayer without charity.
@@ -203,8 +182,6 @@ In this bold manner did the genius of our Reformer separate between the institut
 
 • See pages 2, 3.
 
-20 ON THE WAITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 religion of Cbrist, inculcating diat no reverence should be evinced towarda mere office, if not allied with the spirit proper to it — ^the irreligious man who assumes a religious office, becoming only so much the more guilty, and the more despicable in so doing. It is not difficult to see that this one principle included the germ of all subsequent revolution in religious usage and opinion. Heavily does the Reforms complain of the arrogance which required that the people should not presume to judge in respect to the life or doctrine of the clergy, while Paul from the third heavens, and Jesus Christ, God and man, challenged such scrutiny from friends and foes. But the intention of this doctrine is said to be, that men " may not reprove such persons for any sin whatsoever which they may do ;^' and that good men may not presume to preach the Gospel except as bad men shall give them permission, w^hich, according to the right of private judgment, as held in fact, though not in terms, by Wyclifie, was to place the authority of Satan before the audiority of Christ,
 
 Nor was it enough that this description of clergjonen should claim exemption from all popular censure, — ^they affected the same independence of the highest authorities, and in respect to civil matters no less than the religious^ " Prelates most destroy obedience to the law of God, for they say that they are not to be subject to secular lords, to pay them taxes, or to help the commons ; and are not to be amended by their subjects (people) of their open sins, but only by the pope who is their sovereign, and he by no man on earth, because he is the greatest of all." But the men who avow this doctrine are reminded that Christ paid tribute to a heathen emperor, and to his religion or church, when it was demanded of him, though " he had no secular lordship, nor plenty of tithes, and much more therefore should these rich priests" be made to comply with such demands.
@@ -221,8 +198,6 @@ In the remaining portion of this work, Wycliffe insists that it is just and scri
 
 Masses, pardons, and pilgrimages, all are described as " novelties," the efiect of whi«h is, " to make people believe that if a priest say a certain
 
-22 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 mass for a soul, it shall anon be out of purgatory, though God in his righteousness ordain that soul to abide there forty year or more, and though the priest himself be accursed for simony and pride, for, as they falsely pretend, the mass may not be impaired by the priest^s sin. — ^Prelates blaspheme against God, the Father of heaven, by taking to themselves the power which belongs only and especially to God — that is, the power of absolving sins, and the full remission of them. For they take on them principally to absolve, and make the people to believe so, when they have only absolved as vicars, or messengers, to witness for the people that God absolveth on contrition, or else neither angel, nor man, nor God himself absolveth — unless the sinner is contrite, that is, fully have sorrow for his sin."
 
 The treatise concludes thus — " In these three and forty errors and heresies, men may see how evil prelates destroy Christendom — for of them and no other is this speech — and how they are the cause of wars, and of evil life in the people, and of their damnation. God of his might and mercy amend these errors, and others, if it be his will I"
@@ -235,7 +210,7 @@ The second " deceit" is, " that many men will be damned notwithstanding the hear
 
 • MS. C.C.C. Cambridge. Trin. CoU. Dub. Class C. Tab. iii. No. 12. Our only eTldence in respect to the date of this piece, is from its general contents. It greatly magnifies the offlce of preaching, charges the friars with doing their utmost to deceive the people, and to "stop poor priests" from endeavouring to bring them out of their ignorance and irreligion ; and it is altogether marked by the opinions, feeling, and language observable in such of the Reformer's works as are known to be the production of his later years. We know of no work strictly of this compkzlon, that can be shown to have been written by WyclUTe in the early period of his history; but everything known to be from his pen during the last five or seven years of his life carries Ua impfwa.
 
-FOUR DECEITS OF ANTICHRIST AND HIS CLERKS. 23
+## Four Deceits of Antichrist and His Clerks. 23
 
 God giveth to each man free will to choose good or evil, and God is ready to give them grace if they will receive it. And in this life they do many good deeds of kind, ' and because of them they shall have much reward in this world, and at the last a less pain in hell. And it is a great vengeance from God when he withdraweth preaching from a community, accounting them not worthy to hear his word ; and wherever a gathering of people is, there is commonly some good done, and for those who will receive the word principally men preach it." But if none will hear, it is admitted that from such a people, after apostolic example, the preacher should turn away. The reader will not fail to mark the moral discrimination which is blended with this treatment of a subtle theological question. It has been too much the practice of divines to estimate the moral and immoral in the unregenerate by the same rule.
 
@@ -244,8 +219,6 @@ The third "deceit" is, " that good men shall be saved though there be no preachi
 The fourth " deceit" is, when it is said, " that men should cease from preaching, and give themselves to holy prayers and contemplations, because that helpeth Christian men more, and is better.'' But in answer, " true men say boldly that true preaching is better than prayer by the mouth, or though it should come from the heart and from pure devotion, and that it edifieth more the people. Therefore Christ especially commanded his apostles and disciples to preach the Gospel, and not to shut themselves up in cloisters or churches to pray as some men. Hence Isaiah cried, V Woe is me that I was still ;' and Paul says, ' Woe
 
 ■ Naturt— they dlschjorg* many natural duties wUlioat being nligiou*.
-
-24 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 is me if I preach not the Gospel.' Devout prajer in men of good life is good in certain time ; but it is against charity for priests to pray evermore, and at no time to preach, since Christ chargeth priests to preach the Gospel, more than to say mass and matins.*' These enlightened views concerning the paramoimt importance of preaching, exhibit the mind of WycUffe as some two centuries in advance of his age ; but he cites Gregory and Jerome in support of these opinions, and as censuring customs which deprived society of the benefit of good examples, and led to much sin in the way of omission*
 
@@ -266,8 +239,6 @@ The men who thus subordinate lemming, as well as religion, to their love of pomp
 In the remaining chapters of this treatise the Reformer exposes the folly of supposing that the existing race of clergymen would be found equal to the duties of )^ two lordships,** the secular and the spiritual, while
 
 • B7 Mcultt clerks, the rtgukrclexgy are meant, ae distiiigvielMd fktMBi the leUckwe orden.
-
-20 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 Christ and his apostles were so careful to avoid such a weight and mixture of obligation. He laments, also, the many instances in which the laws of God are " put aback/^ and the laws of men advanced to their place ; and all this that priests may be sustained in pleading exemption from the authority of the civil power, and from the usual burdens of the state, and persecuting all good men, who, by living a holy life and preaching truly the Gospel, reprove them for their sins. He concludes the piece, as was his custom, by a prayer. "God Almighty, stir up priests, lords, and commons, to know the h3rpocri8y, and treason, of Antichrist^s worldly clerks, and to know and maintain the rightful ordinance of Christ, and the profit and freedom of the Gospel Amen."
 
@@ -295,8 +266,6 @@ The next passage is from the thirtieth chapter : —
 
 * " The fourth error ie, that they think more of sUtntet of einf^I men, than of the moft reaaonable law of Almighty Godi For they dread the pope^s law, and itatutes made by biehopt, and other oflloen, more than the noble law of the Gospel. Therefore they have many great and coetly books of man's law, and study them much ; but fiew curates have the Bible and good expositions on the Gospel : they study them but little, and do them less. But would to God that «v«ry parish churoh
 
-28 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 parting them in common to all priests and ministen} of the clrarch. Nor according to the form of the Gospel, taking a simple livelihood, given of free devotion of the people, without constraining, as Christ and his apostles did. But bj the new law of sinful men, one prieist dudkngeth to himself all the tithes of a great country, by a worldly plea, and by new censures ; while he neither liveth as a good priest, nor teacheth as a curate, nor giveth the residue to poor men, but wasteth it in pomp, and gluttony, and other sins, and hindereth true priests from doing the office laid on them by God Almighty. Surely it seemeth that these priests are not after God^s law, but after some ordinance of sinful men, and would be masters of (rod, and lords over Christian people, since they never hold the law of God. And as to tithes, them they take by violence, and by strong curses, against men^s good will, and make the people out of patience and charity by their pleading, and do not well their ghostly office." "
 
 VIII. It will be seen from these extracts, that the work on the Office of Curates breathes a spirit of earnest piety, and that it gives prominence to the soundest Protestant principle. The piece which is next in succession, intitled. Of the Order of Priesthood,* is of the same complexion, touching vigorously on the same evils, and pointing to the same remedy. The matter of this treatise is divided into twenty-nine sections, or chapters, but, as in the preceding work, with more of the appearance of order than of the reality. It concludes with the following devout appeal : —
@@ -315,8 +284,6 @@ Then follows a series of articles which expose and reprove existing abuses, and 
 
 • MS. C.C.C. Cambridge. The Hnt sentence of tliU work shows that it was written in behalf of a class of men, who, as we have before observed, do not become known to \i» until near the dote of the life of the Reformer. Its doctrine throughout is that of Wycliife when his views were most matured. If this and similar pieces be compared with the " Pore Caitif," or the " Last Age of the Church," the reader will be aensiblA to the force of this kind of evidence.
 
-30 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 the Gospel, and the fiilfiUing of the works of mercy ; for Crod blesseUi where they curse."
 
 It is argaed further — ^^ that Christian men of the reahn should not be robbed by simony, of the first fruits to go to the bishop of Borne ; nor by the bishops at home for the hallowing of churches, altars, and such things ; that Christian men should give more heed to Christ^s Gospel and his life, than to any bulb from the sinful bishops of this world, or else they forsake Christ, and take Antichrist and Satan for their chief governor : — that no liege man of the king should be imprisoned for the wrongful cursing of the prelates, while he is ready to justify himself by Holy Writ, and while he does truly his office: — and that whosoever doth most simony, and maintaineth most sin, should be judged, known, and treated, as in the most degree a heretic, as most the adversary of Jesus Christ, and as Antichrist.** Wycliffe then adds, " If any man can prove by Holy Writ or reason that these points are false, poor priests will meekly amend them, and heartily pray all good men to help them in the tnie cause, for the honour of God, the health of their souls, and the salvation of Christian nations/*
@@ -333,8 +300,6 @@ The Reformer begins by defining heresy, on the authority of Augustine and other 
 
 * The further evhience In respect to date ii in chapters Ui. xv. xvi. xlx. xxvt
 
-32 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIFr.
-
 depend for liberty to preach on appitnral from the children of the fiend, but evea mn angel from heaven would not dare deliTer the message of the Almighty to save men's souls, because some worldly pnest has presumed to oontraTcne the commandment of God. But whatever may be the doctrine or practice of the rulers of the church in this respect, '^ sending by those worldly prelates is not enough, without a sending of God, as Paul saith/' Nerertheless, it is so, that "^ poor priests are slandered as heretics, accursed, and imprisoned, without answer, forasmuch as they stand up for Christ's life and teaching, and the maintenance of the king^s regalia."
 
 According to the '^ Great Sentence," all persons were accursed, who should '* spoil, or take away any right from holy church, or defraud holy church of any endowment.*^ On this point, it is remarked, that *^ Christian men, taught in God s law, call holy church, the congregation of just men, for whom Jesus Christ shed his blood, and they do not so call stones, and timber, and earthly rubbish, which Antichrist^s clerks magnify more than God's righteousness, and the souls of Christian men. True teaching is most due to holy church, and is most chaiged of God, and most profitable to Christian souls. Insomuch therefore as God's word, and the bliss of heaven in the souls of men, are better than earthly goods, insomuch are those worldly priests who withdraw the great debt of holy teaching worse than thieves, and more accursedly sacrilegious than the ordinary thief who breaks into chiux^hes and steals thence chalices, and vestments, and never so much gold.'* The fault, and the just doom of such men, are illustrated by an allusion to feudal relationships. They hold their oiiice to certain ends, such as Christ and the apostles had set before them ; and inasmuch as they not only fail to perform the duties of that ofilce, but prevent others who are able and willing to perform them fix)m so doing, they are pronounced traitors to the said lord, and their place is said to be a forfeiture.
@@ -350,8 +315,6 @@ On the sale of masses Wycliffe writes — " Ah Lord I how much is our king and o
 The eighth chapter commences with passages fh)m St. Gregory, St, Augustine, St. Bernard, and others, concerning the duties of the pastoral office. On these passages suitable comment is made ; and it is especially remarked, that the men who have filled this office with the greatest success have generally been men on whom it has been forced. It is said that
 
 • Coniecrate. D
-
-34 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 no man should seek it, inasmuch as that would be to forget the admonition of Scripture-—*^ No man taketh this honour upon himself, but he that is called of God, as was Aaron." When bishoprics were poor, and to become a bishop was to be exposed to martyrdom, it might have been well to aspire to such distinction ; but in these later times, when the office is connected with much temptation to indulge in every sort of worldliness, a devout man may with good reason avoid, rather than seek such an elevation.
 

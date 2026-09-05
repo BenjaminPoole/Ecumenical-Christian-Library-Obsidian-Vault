@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 26
 
-**CHAPTER 26**
+***Chapter 26***
 
 ## Isaiah 26:1-21
 

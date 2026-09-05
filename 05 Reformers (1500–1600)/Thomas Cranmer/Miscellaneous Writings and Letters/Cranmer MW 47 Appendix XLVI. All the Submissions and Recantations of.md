@@ -10,36 +10,35 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 47. Appendix XLVI. All the Submissions and Recantations of Thomas Cranmer
 
 XLIII. 1AII the Submissions and Recantations of Thomas Crammer, late Archbishop Todd'sLifeof of Canterbury ', truly set forth both in Latin and English, agreeable to the Originals, me?,' Yo^ii. written and subscribed with his own hand. KlK?** original copy
 
-VISUM ET EXAMINATUM PER REVERENDUM PATREM ET DOMINUM, DOMINUM EDMUNDUM EPISCOPUM LONDON. ANNO MDLVI.
+## Visum Et Examinatum per Reverendum Patrem Et Dominum, Dominum Edmundum Episcopum London. Anno MDLVI
 
 1\. The true copy of the first submission of Thomas Cranmer, late archbishop of Canterbury, which afterward by inconstancy and unstableness he the said Thomas Cranmer did cancel, the original whereof was sent to the queen's majesty and her privy council, as followeth :
 
 Forasmuch as the king and queen's majesties, by consent of their parliament, have received the pope's authority within this realm, I am content to submit myself to their laws herein, and to take the pope for chief head of this church of England, so far as God's l^ws and the laws and customs of this realm will permit.
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 2\. The true copy of the second submission of the said Thomas Cranmer, which he the said Thomas did advisedly subscribe with his own hand, and did not after ward revoke it, the original whereof was also sent up to the queen's majesty and her said council, as before.
 
 I, Thomas Cranmer, doctor in divinity, do submit myself to the catholic church of Christ, and to the pope, supreme head of the same church, and unto the king and the queen's majesties, and unto all their laws and ordinances.
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 3\. Tertium scriptum Cranmeri sua ipsius manu exaratum, et per eum in Buccardo exhibitum London' episcopo.
 
 I am content to submit myself to the king and queen's majesties, and to all their laws and ordinances, as well concerning the pope's supremacy as others. And I shall from time to time move and stir all other to do the like, to the uttermost of my power, and to live in quietness and obedience unto their majesties, most humbly, with out murmur or grudging against any of their godly proceedings. And for my book which I have written, I am contented to submit me to the judgment of the catholic church, and of the next general council.
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 4\. Quartum scriptum Cranmeri sua ipsius manu exaratum, et per eum in Buccardo exhibitum London' episcopo.
 
 Be it known by these presents, that I, Thomas Cranmer, doctor of divinity, and late archbishop of Canterbury, do firmly, stedfastly, and assuredly believe in all articles and points of the Christian religion and catholic faith, as the catholic church doth believe, and hath ever believed from the beginning. Moreover, as concerning the sacraments of the church, I believe unfeignedly in all points as the said catholic church doth and hath believed from the beginning of Christian religion. In witness whereof I have humbly subscribed my hand unto these presents, the xvi. day of February, MDLV. [155?.]
 
-THOMAS CRANMER.
+## Thomas Cranmer
 
 5\. The true copy of a fifth submission of the said Thomas Cranmer, written and sub scribed with his own hand in the presence of master Henry Syddall, and of one called Frater Johannes de Villa Garcina, a notable learned man, as followeth.
 
@@ -47,11 +46,11 @@ EGO, Thomas Cranmer, anathematize omnem Lutheri et Zuinglii heeresim et quodcunq
 
 [! Vid. Strype's Eccl. Mem. Vol. III. pt. i. pp.
 
-390, et sqq. Ed. Oxon. 1822 Also, Sampson's let- ter to Bullinger, dated April 6, 1566, in the Original
+390, et sqq. Ed. Oxon. 1822 Also, Sampson's let-ter to Bullinger, dated April 6, 1566, in the Original
 
 Letters relative to the English Reformation, (Park. Soc.) p. 173, with the note there ; and the quotation from Todd, infra pp. 567—9.]
 
-564 APPENDIX. [1556.
+## 564 Appendix. [1556
 
 et catholicam ecclesiani visibilem, extra quam salus non est; atque cjusdem in terris supremum agnosco caput cpiscopuin Romanum, quern fateor summum esse pontificem et papam ac Christ! vicarium, cui omnes tenentur subessc fideles. Jam quod ad sacramenta attinet, credo et colo in sacramento eucharisticC vcrum Christi corpus et sanguinem sub speciebus panis et vini verissime citra ullum tropum et figuram contenta, conversis et transubstantiatis pane in corpus et vino in sanguincm Rcdemptoris divina potentia. Atque in sex aliis sacramentis (sicut in hoc) id credo et teneo quod universa tenet ccclesia ac sentit Romana. Credo insuper purgatorium locum, ubi ad tempus cruciantur defunctorum animre, pro quibus sancte et salubriter orat ecclesia, sicut et sanctos colit, ad illosque preccs effundit. Demum in omnibus me profiteer non aliud sentire quam ecclesia catholica et Romana tenet ; ac per me pcenitet quod aliud unquam tenuerim ac senserim. Deum autem supplex oro, lit pietate sua mihi condonare dignctur, qiue in ilium et cjus ecclesiani commisi : fideles simul rogo et obsecro, ut pro me prcces cffundant ; eos autem qui meo aut exemplo aut doctrina seducti sunt, per sanguincm Jesu Christi obtestor, ut ad ecclesia redeant unitatem, idemque dicamus omnes, ut non sint in nobis schismata. Postremo sicut me subjicio catholics Christi ecclesiaa ejusdemque supremo capiti, ita me submitto Philippo et Marias Anglire Regibus, atque eorum legibus et decretis, et tester Deum optimum maximumque, ha?c in nullius gratiam, nullius metu a me confcssa, sed ex animo et libentissime, ut meaa et aliorum simul conscientiis consulam ct prospiciam.
 
@@ -79,7 +78,7 @@ Every man desireth, good people, at the time of their death to give some exhor t
 
 I1 This prayer, &c. will also be found in Vol. I. pp. xxvi. et sqq., but it is again inserted here in order to give Cawood's book entire. It will be seen that the report here printed, as published by Boner, agrees with Foxe's account, except in the last para graph and the line immediately preceding it.]
 
-560 APPENDIX. [1556.
+## 560 Appendix. [1556
 
 so I beseech God grant unto me that I may speak something, whereby he may be glorified, and you edified.
 
@@ -119,7 +118,7 @@ On the whole question Archdeacon Todd writes as follows:
 
 1 i. e. Dr Marshall. Vid. p. 382, n. 3.
 
-:)68 APPENDIX.
+## :)68 Appendix
 
 scription only to a few words in ' a little leaf of paper,' with his own hand ; and that then, whether he would have rank or wealth, or would prefer the quietness of private life, his choice might be secured by the regal power ; but that if he refused, of pardon there was no hope; for the queen was so purposed that she would have Cranmer a Roman Catholic, or else no Cranmer at all.
 
@@ -145,7 +144,7 @@ is flippantly pretended as his expression by the French ambassador ; not a shado
 
 8 Collier's Eccl. Hist. Vol. VI. p. 139. Ed. Lond. 1840, 1.
 
-570 APPENDIX.
+## 570 Appendix
 
 which, if not to other parts of it, at least to the conclusion, belongs, where what the sufferer really spoke is concealed, but what was prepared for him to have spoken is related, and by many of the compiler's party was afterwards reported, as if indeed he did speak it."— Id. Vol. II. pp. 484—480." Vide also Todd's Vindication of Arch bishop Cxranmer, pp. 116 et sqq. 2nd Ed. Lond. 182(5. Soames' Hist, of Reformat. Vol. IV. pp. 515, et sqq., who enters largely into an examination of this portion of the archbishop's history. Wordsworth's Eccl. Biog. Vol. IV. pp. 258—200. Ed. Lond. 1839. Original Letters relative to the English Reformation, Letter XC. p. 173, n. 1, Park. Soc. Ed. 1846.]
 

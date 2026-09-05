@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Watching For Christ's Coming
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2302
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed are those servants whom the master, when he comes, shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to eat, and will come forth and serve them. And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants." Luke 12:37,38.
 
@@ -101,7 +98,7 @@ May the Lord keep you waiting, working, watching, that when He comes, you may ha
 
 God grant that we may believe in the Lord Jesus unto life eternal and then wait for His appearing from Heaven, for His love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. LUKE 12:12-48.
+## Exposition by C. H. Spurgeon. Luke 12:12-48
 
 Verses 13, 14. And one of the company said unto Him, Master, speak to my brother, that he divide the inheritance with me. And He said unto him, Man, who made Me a judge or a divider over you? Our Lord kept to His proper business, which was the preaching of the Gospel and the healing of the sick. We find, in these days, that the minister of the Gospel is asked to do almost everything. He must be a politician. He must be a social reformer. He must be, I know not what! For my part, I often feel as if I could answer, "Who made me to do anything of the kind? If I can preach the Gospel, I shall have done well if I do that to the glory of God and to the salvation of men. Surely there are enough people to be judges and dividers, there are quite sufficient politicians to attend to politics and plenty of men who feel themselves qualified to direct social reforms. Some of us may be spared to attend to spiritual affairs."
 
@@ -150,7 +147,6 @@ Him.
 47\. And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes. So that there are different measures of responsibility—there are degrees in guilt, and degrees in punishment.
 
 48\. But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more. O my Brothers and Sisters, let those of us who are privileged with the possession of the Gospel, and privileged with any amount of ability to spread it, enquire whether we could give in a good account if the Lord were to come tonight and summon us, as stewards, to give an account of our stewardship. God bless to us all the reading of His Word! Amen.
-
 
 ---
 [[Sermon 2301 Marah Better Than Elim|← #2301]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2303 Three Arrows—or Six|#2303 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Unparalleled Loving Kindnesses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3242
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lord, where are Your former loving kindnesses, which You swore unto David in Your truth?" Psalm 89:49.
 
@@ -61,7 +58,7 @@ so what can we need besides?
 
 III. Now, thirdly, WHY ARE WE NOT ALWAYS CONSCIOUS OF THE SAME FLOW OF MERCY TOWARD
 
-US?
+## Us?
 
 Sometimes we miss our former comforts as the result of sin. Sin indulged is a certain barrier to happiness. No one can enjoy communion with Christ while turning aside to crooked ways. To the extent to which a Believer is inconsistent with his profession, to that extent will he be unhappy—and it will be no cause for surprise if he has to cry, "Lord, where are Your former loving kindnesses?" We must always distinguish between the punishment of sin which Christ endured on His people's behalf and the fatherly chastisement with which God visits upon them for their wrong-doing. Though He will not condemn them as a Judge, He will chastise them as a Father. And they cannot expect to enjoy the loving kindnesses of the Lord while they are enduring the strokes of His rod because of their transgressions!
 
@@ -93,7 +90,7 @@ When God said, "Let there be light," there was light. And when that same God say
 
 As for those here who have no former loving kindnesses of the Lord to which they can look back, I pray that this may be the beginning of better days for them. May they think of the mercies which the Lord has bestowed upon others and may they cry unto Him, "Lord, do to us as You have done to them! Adopt us into Your family as Your sons and Your daughters, and let us share in all the blessings that You give to Your children!" Remember, dear Friends, that it is by simple and sincere faith in the crucified Christ of Calvary that sinners are eternally saved! It is by His blood that we who once were afar off, are now made near! Whoever believes in Him shall not be ashamed or confounded! Therefore, my Hearer, believe on the Lord Jesus Christ and you shall be saved, and God shall be glorified. So may it be, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM89.
+## Exposition by C. H. Spurgeon: Psalm 89
 
 Verses 1, 2. I will sing of the mercies of the LORD forever: with my mouth will I make known Your faithfulness to all generations. For I have said, Mercy shall be built up forever: Your faithfulness shall You establish in the very heavens.
 
@@ -164,7 +161,6 @@ found David and anointed him as king, even as He has taken the Lord Jesus, and a
 47, 48. Remember how short my time is: Therefore have You made al men in vain? What man is he that lives, and shall not see death? Shall he deliver his soul from the hand of the grave? Selah. The brevity of life makes it all the more important that we should waste none of it—and that we should appeal to the Lord to interpose speedily on the behalf of His Truth and those who love it.
 
 49-52. Lord, where are Your former loving kindnesses, which You swore unto David in Your truth? Remember, Lord, the reproach of Your servants; how I do bear in my bosom the reproach of all the mighty people; wherewith Your enemies have reproached, O LORD; wherewith they have reproached the footsteps of Your anointed. Blessed be the LORD forevermore. Amen and Amen. The Psalm ends upon its keynote of praise unto Jehovah. There had been much to sadden the writer, as there is much to sadden us in these days. But we can unite with him in saying, "Blessed be the Lord forevermore. Amen and Amen."
-
 
 ---
 [[Sermon 3241 A Painful and Puzzling Question|← #3241]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3243 The Vine of Israel|#3243 →]]

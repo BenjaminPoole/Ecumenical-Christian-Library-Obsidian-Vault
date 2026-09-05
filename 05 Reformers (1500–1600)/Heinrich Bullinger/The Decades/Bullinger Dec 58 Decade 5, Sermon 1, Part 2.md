@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 58. Decade 5, Sermon 1, Part 2
 
 Pow^ of and a curate in his parish, &c. Power of apostleship or preaching the word of God they call the authority of preaching, which the Lord had given to his disciples, saying : " Go ye into all the world, preaching the gospel to all creatures." But doctors in these days affirm, that none ought to be sent' to preach but only by Peter, that is, his successor, mediately or
@@ -28,8 +27,6 @@ of the bishop of Rome ; which I doubt not are known well enough to the whole wor
 
 We will now hereunto join a true, simple, plain, and manifest doctrine concerning ecclesiastical jurisdiction. Power is what power defined to be a right which men have to do some thing by. It is called in Greek ' E^ovaia, and A^ra^us : whereof the first word signifieth right and power ; the second, ability to execute power or authority ; for oftentimes it cometh to pass that a man shall have authority to do a thing, but is destitute of ability to perform it. But God can do both ; and hath given them both unto the apostles against those that were possessed Luke u. with devils, as Luke witnesseth, saying: eSwuev avrois ovvapiv [} fere, Lat. : generally.]
 
-42 THE FIFTH DECADE. [sERM.
-
 /ecu e^ovalav : " He gave them power and authority over all two kinds of devils," &c. And there is also one sort of power, which is free and absolute ; and another sort of power which is limited, which is also called ministerial. Absolute power is that which is altogether free, and is neither governed or restrained by the law or will of any other : of which sort is the power of Christ which
 
 Matt, xxviii. he speakcth of in the gospel, saying : " All power is given unto me in heaven and in earth : go therefore, and teach all nations, baptizing them," &c. He, speaking again of this power in the
@@ -43,8 +40,6 @@ I1 Baptizavit ergo Paul us tanquam minister, non tanquam ipsa potestas ; baptiza
 But the limited power of the church consisteth very near in what in these points ; to wit, in ordaining of the ministers of the Si'ca"c e" church, in doctrine, and in the discerning between doctrines, sisteth. and finally, in the ordering of ecclesiastical matters. Of every one of which points in their order we will speak a little; declaring what manner of authority the church hath, and how far it is limited in every part thereof.
 
 The Lord himself appointed the chief2 doctors of the to ordain church, which were the apostles, that all men might underthe church. stand that the ecclesiastical ministry is the divine institution of God himself, and not a tradition devised by men. And therefore after that the Lord was ascended into heaven, St Peter, Acts*, calling the church together, speaketh out of the scriptures of placing another apostle in the stead of the traitor Judas ; by that very fact shewing that power was given unto the church by God to elect ministers or teachers. The same church also not long after, by the persuasion of Peter Acts vi. and the apostles, so persuading undoubtedly by the inspiration of the Holy Ghost, chose seven deacons. The church of Antioch, being manifestly instructed by the Holy Ghost, doth Acts xui ordain and send Paul and Barnabas, although they were long before that time assigned to the ministry. It is read also in the Acts of the Apostles that the churches, by the commandment of the apostles, did ordain doctors for the holy ministry, as often as need required : and yet notwithstanding they did not ordain every one without choice, but such only as [2 primos, Lat. : the first.]
-
-44 THE FIFTH DECADE. [sERM.
 
 •were fit for that office ; that is to say, such as afterward by i Tim. iii. express laws they themselves did describe; to wit, " If any man were faultless, the husband of one wife, watchful, sober,11 &c.
 
@@ -76,8 +71,6 @@ Lukeix. in the holy ministry. The two disciples, if they had been able to have d
 
 Finally1, that the church hath power to give judgment of powerto doctrines, even by this one sentence of the apostle Paul apdoctrines. peareth : " Let the prophets (saith he) speak two or three 1 cor. xiv. at once2, and let the other judge." And in another place he saith : " Prove all things, and keep that which is good." 1 -mess. v. And St John saith: " Dearly beloved, believe not every spirit; ijohniv. but try the spirits, whether they are of God.1' But of this kind of power to judge there is also a certain order. For the church doth not judge at her own pleasure, but after the sentence of the Holy Ghost, and according to the order and rule of the holy scriptures. And here also order, moderation, and charity, is observed. Therefore if at any time the church of God, according to that authority which she hath received from the Lord, do call a council together for to eaii a some weighty matter, as we read that the apostles of the Lord did in the Acts of the Apostles ; it leaneth not here Acts xv. [x Porro, Lat ] [2 at once, not in Lat.]
 
-46 THE FIFTH DECADE. [SERM.
-
 to her own fleshly judgment, but giveth over herself to be guided by the Spirit, and examineth all her doings by the rule of the word of God and of the twofold charity. Wherefore the church maketh no new laws ; as the church of Jerusalem, or rather the apostolic church, saith, that " it seemeth good both to the Holy Ghost and to the church, that no other burden should be laid upon" the faithful Christians, but only a few and those very necessary things, and neither Power to beside nor contrarv to the holv scriptures. Xow ecclesias- oispose the ^ «/ ± ch^rch°fthe ^ca^ matters are of divers sorts, the good ordering and welldisposing whereof for the commodity of men is in the power of the church : of which sort those things are which concern outward worship in place and in time, as is prophesying, or interpretation of tongues, and schools. Also the church hath to judge in causes of matrimony; and chiefly it hath correction of manners, admonitions, punishments, and also excommuni-
 
 2 cor. xiii. eating or cutting off from the body of the church : for the apostle also saith, that this power is given him, and yet to the intent he should therewith edify, and not destroy. For all these things which we have remembered, and such like, are limited with the rule of the word and of love, also with holy examples and reasons deduced out of the holy scriptures: of all which we will perchance more largely speak in their place.
@@ -90,15 +83,13 @@ These things being in this sort considered, it shall not be greatly laboursome t
 
 [3 bonitatem et, Lat. omitted: goodness and.] [4 suae, Lat. : its life, &c]
 
-48 THE FIFTH DECADE. [SEK.M. I.
-
 from and by all means detesteth all unlawful congregations and profane religions, with all wicked men; and willingly and openly confesseth Christ both by word and deed, even with the damage of her life. It is exercised with afflictions, but yet never overcome. It keepcth unity and concord carefully. All and every the members of her body she most tenderly lovoth. It doth good unto all men, as much as power and ability will suffer. It hurteth no man. It forgiveth willingly. It bcareth with the weak brotherly, till they be brought forth forward to perfection. She is not puffed up with pride, but through humility is kept in obedience, in modesty l, and in all the duties of godliness. But who (I pray you) is able to recite all and every one of the studies of the church2 in a very large discourse, much less in this short recital ? And who would not desire to be a member of so divine and heavenly a congregation ?
 
 I would by and by join hereunto that which remaineth touching the unity of the catholic church, of the division thereof, and of other things belonging to the consideration hereof, but that I do perceive you, being already weary of hearing, do earnestly look for an end of this sermon. Therefore we will put off the residue till to-morrow. And now, lifting up our minds into heaven, let us give thanks to the Lord our God, who through his beloved Son hath purified us and gathered us together, to be a chosen people to himself, and to be heirs of all his heavenly treasures. To him therefore be all praise and glory, world without end, Amen.
 
 p moderatione, Lat.] [a sanctse ecclesiee, Lat.]
 
-II.] OF THE CNITY OI" THE CHURCH. 49
+## II.] of the Cnity Oi" the Church. 49
 
 C THAT THERE IS ONE CATHOLIC CHURCH: THAT WITHOUT THE CHURCH THERE IS NO LIGHT OR SALVATION. AGAINST SCHISMATICS. "WHEREFORE WE DEPART FROM THE UPSTART CHURCH OF ROME. THAT THE CHURCH OF GOD IS THE HOUSE, VINEYARD, AND KINGDOM OF GOD; AND THE BODY, SHEEPFOLD, AND SPOUSE OF CHRIST; A MOTHER AND A VIRGIN.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Our Lord's Humanity a Sweet Source of Comfort
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1295
-
-DELIVERED BY.
 
 > "Then there came again and touched me one like the appearance of a man, and he strengthened me." Daniel 10:18.
 
@@ -174,7 +171,6 @@ Sinner, you have not to deal with an absolute God! You have to deal with God in 
 Trust that and you shall climb till you ascend where the full Deity of the Incarnate Savior blazes forth! And you shall rejoice in His Second Advent and all the splendors of His future reign. Tonight you may leave those higher things alone. Begin at the bottom of the Ladder and commence to climb! The Lord help you! The Lord bless you! May He lay His hand on you at this moment, poor Sinner! That will melt your heart! That will cheer your spirit! That will give you life from the dead! May He do it for His name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Daniel 10. HYMNS FROM "OUR OWN HYMN BOOK"—820, 260, 761.
-
 
 ---
 [[Sermon 1294 The Anchor|← #1294]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1296 Gone, Gone Forever|#1296 →]]

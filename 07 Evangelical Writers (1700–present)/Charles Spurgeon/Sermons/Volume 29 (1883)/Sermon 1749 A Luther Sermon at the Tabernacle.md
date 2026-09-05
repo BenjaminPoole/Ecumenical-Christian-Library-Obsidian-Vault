@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Luther Sermon at the Tabernacle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1749
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 11, 1883,.
+*Delivered on Lord's-Day Morning, November 11, 1883*
 
 > "But the just shall live by his faith." Habakkuk 2:4.
 
@@ -130,7 +129,6 @@ The times needed a firmly assured leader and faith made Luther all that for year
 Those stirring excitements of his brought on him, afterwards, fearful depressions of spirit—and then he needed faith in God. If you read a spiritual life of him, you will find that it was hard work, sometimes, for him to keep his soul alive. Being a man of like passions with us, and full of imperfections, he was, at times, as desponding and despairing as the weakest among us. And the swelling grief within him threatened to burst his mighty heart. Both he and John Calvin frequently sighed for the rest of Heaven, for they loved not the strife in which they dwelt, but would have been glad to peacefully feed the flock of God on earth and then to enter into rest. These men dwelt with God in holy boldness of believing prayer, or they could not have lived at all. Luther's faith laid hold upon the Cross of our Lord and would not be stirred from it. He believed in the forgiveness of sins and could not afford to doubt it.
 
 He cast anchor upon Holy Scripture and rejected all the inventions of clerics and all the traditions of the fathers. He was assured of the Truth of the Gospel and never doubted but what it would prevail though earth and Hell were leagued against it. When he came to die, his old enemy assailed him fiercely, but when they asked him if he held the same faith, his, "Yes," was positive enough! They needed not to have asked him—they might have been sure of that. And now, today, the Truths of God proclaimed by Luther continue to be preached and will be till our Lord, Himself, shall come! Then the Holy City shall need no candle, neither light of the sun, because the Lord, Himself, shall be the Light of His people! But till then we must shine with Gospel Light to our utmost. Brothers and Sisters, let us stand to it that as Luther lived by faith, even so will we—and may God the Holy Spirit work in us more of that faith. Amen and Amen!
-
 
 ---
 [[Sermon 1748 Jehovah Has Spoken—will You Not Hear|← #1748]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1750 The Luther Sermon at Exeter Hall|#1750 →]]

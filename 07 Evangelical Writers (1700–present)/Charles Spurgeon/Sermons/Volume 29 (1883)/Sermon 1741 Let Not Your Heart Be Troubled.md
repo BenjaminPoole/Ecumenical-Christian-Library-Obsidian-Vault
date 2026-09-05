@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # "Let Not Your Heart Be Troubled"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1741
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 23, 1883,.
+*Delivered on Lord's-Day Morning, September 23, 1883*
 
 > "Let not your heart be troubled: you believe in God, believe also in Me. In My Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto Myself; that where I am, there you may be also. And where I go you know, and the way you know." John 14:1-4.
 
@@ -146,7 +145,6 @@ Then the mother is cheered. She thinks of the ocean as a little bit of blue betw
 This, Beloved, is the way for us as well as for our Lord. He could not reach His crown except by the Cross, nor His mediatorial Glory except by death! And that way once made in His own Person is open for all who believe in Him. Thus you know where the Lord has gone and you know the road—therefore, be encouraged, for He is not far away—He is not inaccessible! You shall soon be with Him. "Let not your heart be troubled." Oh, brave Master, shall You be followed by a tribe of cowards? No, we will not lose heart through the trials of the day. Oh, holy Master, You did meet Your death with song, for, "after supper they sang a hymn!" Shall not we go through our griefs with joyful trust? Oh, confident Lord, bidding us believe in You as in God, Himself, we do believe in You, by Your Grace, and we also grow confident!
 
 O, my Master, Your undisturbed serenity of faith infuses itself into our souls and we are made strong! When we hear You bravely talking of Your death which You had to accomplish at Jerusalem, and then of Your after-Glory, we, also, think hopefully of all the opposition of ungodly men and, waiting for Your appearing, we solace ourselves with that blessed hope! Make no tarrying, O our Lord! Come quickly! Amen.
-
 
 ---
 [[Sermon 1740 The Exeter-Hall Sermon to Young Men|← #1740]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1742 Spiritual Knowledge and Its Practical Results|#1742 →]]

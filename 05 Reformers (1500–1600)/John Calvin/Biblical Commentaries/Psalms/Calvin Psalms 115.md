@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 115
-
-**PSALM 115**
 
 It is obvious that this psalm was penned when the Church was deeply afflicted. Unworthy as they are to be heard by God, the faithful, nevertheless, offer up supplications to him for deliverance, lest his holy name might be exposed to scorn and reproach among the heathen. Then, mustering courage, they mock at the madness of all who are addicted to the worship of idols; and, with holy boasting, they magnify their own happiness, in that they have been adopted by God; and from this also they take occasion to stimulate one another to acknowledge the kindness which they have received from him.
 

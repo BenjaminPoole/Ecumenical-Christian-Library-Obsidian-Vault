@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Faith—life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2809
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The just shall live by his faith." Habakkuk 2:4.
 
@@ -97,7 +94,7 @@ That is how it is with the faith of these people, and very good faith it is, too
 
 so developed, strengthened and full-grown that, from this time forth, we may live by faith even to the end! The Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW22:1-14.
+## Exposition by C. H. Spurgeon: Matthew 22:1-14
 
 Verses 1-3. And Jesus answered and spoke unto them again by parables, and said, The Kingdom of Heaven is like unto a certain king, which made a marriage for his son, and sent forth his servants to call them that were bid to the wedding: and they would not come. Observe that it was a king who made this wedding feast. Therefore, to refuse to come to it when the command implied great honor to those who were bid, was as distinct an insult as could very well be perpetrated against both the king and his son! "They would not come." Had the one who invited them been only an ordinary person, it might not have been their duty to come and they might even have been justified in their refusal. But this was a king who sent his servants to summon the guests to the marriage of his son. And I bid you to take notice that the Gospel marriage feast, to which you are invited, is the feast, not only of a king, but of the King of Kings, your Creator and your God! And in refusing to come in obedience to His command, you commit an overt act of rebellion against His Divine Majesty. The king "sent forth his servants to call them that were bid to the wedding: and they would not come." They were bid, yet they would not come—from which I gather that those who think the invitations of the Gospel are to be restricted to certain characters, because they say it is useless to invite others, "do err, not knowing the Scriptures." What have we to do with the apparent uselessness of what we are commanded to do? It is our duty to give the invitation according as our King directs us! It is not our business to decide whether that invitation will be accepted or rejected. In this case, we know what happened—"They would not come."
 
@@ -118,7 +115,6 @@ pel from Sunday to Sunday are bid by it to come to the great supper and, as some
 13\. Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth. You may manage to get into the Church even though you are not converted, but if you are not trusting in Christ, you are not saved, and your false profession will only make your destruction the more terrible! Woe unto us unless we are found wearing the righteousness of Christ—unless our lives are made holy by the gracious influence of His blessed Spirit! These are the wedding garments which we are to wear. If we have them not, our presence at the festival will not avail us in the great testing time that is coming.
 
 14\. For many are called, but few are chosen. All who hear the Gospel are called, but the call does not come with equal power to every heart. And with some, the power with which it comes is not that which saves—it only convinces the intellect so that an outward homage is paid to the Word of God and the inward obedience of the soul is not rendered to the Lord. God grant that each of us may have on the wedding garment when the King comes in to see the guests!
-
 
 ---
 [[Sermon 2808 The Disowned|← #2808]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2810 'Nevertheless at Your Word'|#2810 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 4
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**COVERED AND PROTECTED**
+## **Covered and Protected**
 
 > He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler" Ps. 91:4
 
@@ -25,7 +24,6 @@ While the Lord covers us we trust. It would be strange if we did not. How can we
 This done, we go out to war in His name and enjoy the same guardian care. We need shield and buckler, and when we implicitly trust God, even as the chick trusts the hen, we find His truth arming us from head to foot. The Lord cannot lie; He must be faithful to His people; His promise must stand. This sure truth is all the shield we need. Behind it we defy the fiery darts of the enemy.
 
 Come, my soul, hide under those great wings, lose thyself among those soft feathers! How happy thou art!
-
 
 ---
 [[FCB December 3|← December 3]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 5|December 5 →]]

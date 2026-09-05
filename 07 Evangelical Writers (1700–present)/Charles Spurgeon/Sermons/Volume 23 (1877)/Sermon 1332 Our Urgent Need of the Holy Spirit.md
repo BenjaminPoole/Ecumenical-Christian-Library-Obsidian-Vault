@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Our Urgent Need of the Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1332
 
-DELIVERED ON LORD'S DAY MORNING, JANUARY 7, 1877,.
+*Delivered on Lord's Day Morning, January 7, 1877*
 
 > "Through the po wer of the Holy Spirit." Romans 15:13.
 
@@ -158,7 +157,6 @@ See, again, how entirely dependent we are on the Spirit of God for meeting all t
 One blow of real conviction of sin will stagger the most obstinate unbeliever and afterwards, if his unbelief returns, the Holy Spirit's consolations will soon comfort it out of him. Therefore, as at the first, I say at the last—all this depends upon the Holy Spirit and upon Him let us wait in the name of Jesus, beseeching Him to manifest His power among us! Amen.
 
 Portion Of Scripture Read Before Sermon—Romans 15 HYMNS FROM "OUR OWN HYMN BOOK"—912, 446, 445.
-
 
 ---
 [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1333 Rest in the Lord|#1333 →]]

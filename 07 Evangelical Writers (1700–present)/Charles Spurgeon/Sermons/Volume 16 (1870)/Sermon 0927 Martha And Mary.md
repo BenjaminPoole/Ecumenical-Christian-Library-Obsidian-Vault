@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Martha And Mary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 927
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 24, 1870,.
+*Delivered on Lord's-Day Morning, April 24, 1870*
 
 > "Now it came to pass, as they went, that He entered into a certain village: and a certain woman named Martha received Him into her house. And she had a sister called Mary, which also sat at Jesus 'feet, and heard His Word. But Martha was cumbered aboutmuch serving, and came to Him, and said, Lord, do you not care that my sister has leftme to serve alone? Bid her therefore that she help me. And Jesus answered and said unto her, 'Martha, Martha, you are careful and troubled about many things: but one thing is needful: and Mary has chosen that good part, which shall not be taken away from her." Luke 10:38-42.
 
@@ -154,7 +153,6 @@ We have noticed the same, and it so happens that the clouds and general constitu
 So too, lastly, if you want to serve God, as I trust you do, I charge you first be careful of your own souls. Do not begin with learning how to preach, or how to teach, or how to do this and that. Dear Friend, get the strength within your own soul, and then even if you do not know how to use it scientifically, yet you will do much. The first thing is to get the heart warmed! Stir up your manhood! Brace up all your faculties! Get the Christ within you—ask the everlasting God to come upon you! Get Him to inspire you—and then if your methods should not be according to the methods of others it will not matter. Or if they should, neither will it be of consequence,
 
 Having the Power of the Holy Spirit, you will accomplish the results. But if you go about to perform the work before you have the strength from on High, you shall utterly fail. Better things we hope of you. God send them. Amen.
-
 
 ---
 [[Sermon 0926 The Sine Qua Non|← #926]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0928 A New Song For New Hearts|#928 →]]

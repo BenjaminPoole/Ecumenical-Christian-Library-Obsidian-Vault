@@ -10,14 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 26. Notes on Justification
 
-[NOTES ON JUSTIFICATION,
+## Authorities from Scripture, the Fathers, and The
 
-AUTHORITIES FROM SCRIPTURE, THE FATHERS, AND THE
-
-SCHOOLMEN2.]
+## Schoolmen 2.]
 
 AUGUSTINUS, Defide ad Petrum. " Fundamentum est Christus Jesus, id est, . . . Christi fides, . . . scilicet Stillincflect qu» per dilectionem operatur, ... per quam Christus habitat in cordibus, . . . quse neminem perire shut3." S Library. THOMAS. " Fidete . . . et spes attingunt . . . Deum secundum quod ex ipso provenit nobis vel cognitio 1108. f. 58. veri vel adeptio boni ; sed caritas attingit . . .Deum, ut in ipso sistat, non ut ex eo aliquid nobis proveniat4."
 
@@ -37,7 +34,7 @@ AUGUSTINUS, Enchirid. ca.3. " Quseris quonam modo sit colendus Deus? Hie si resp
 
 Et ca. 8. "Fides est et malarum rerum et bonarum, et periturarum rerum8 et praesentium et futurarum,
 
-. . . . et suarum rerum . . . . et alienarum Spes autem non nisi bonarum rerum est, nee nisi futurarum, et ad eum pertinentium qui earum spem gerere perhibetur. Quae cum ita sint, propter has causas distinguenda erit fides a spe, sicut vocabulo, ita et rationabili differentia Jam de amore quid dicam, sine quo fides nihil prodest I Spes vero sine amore esse non potest ' Demones credunt et contremiscunt,' nee tamen sperant vel amant : propter quod .... Paulus fidem qua? per dilectionem operatur approbat atque com- mendat, qure utique sine spe esse non potest. Proinde nee amor sine spe est, nee sine amore spes, neque utrumque sine fide9."
+. . . . et suarum rerum . . . . et alienarum Spes autem non nisi bonarum rerum est, nee nisi futurarum, et ad eum pertinentium qui earum spem gerere perhibetur. Quae cum ita sint, propter has causas distinguenda erit fides a spe, sicut vocabulo, ita et rationabili differentia Jam de amore quid dicam, sine quo fides nihil prodest I Spes vero sine amore esse non potest ' Demones credunt et contremiscunt,' nee tamen sperant vel amant : propter quod .... Paulus fidem qua? per dilectionem operatur approbat atque commendat, qure utique sine spe esse non potest. Proinde nee amor sine spe est, nee sine amore spes, neque utrumque sine fide9."
 
 CYRILLUS, In Joh. lib. x. ca. 16. " ' Sicut palmes non potest ferre fructum a semet ipso, nisi manserit in vite ; sic nee vos, nisi in me manseritis.' Manifesting jam ex hoc loco discimus sincera fide palmites justos viti fideles fieri. Sed non est minoris curse, jugiter per caritatem, id est, mandati servationem, Christo
 
@@ -61,7 +58,7 @@ II. pp. 181, 2 ; where, si autem credit in eum, and qu& ex Deo est justitia, in 
 
 [9 August. Enchirid. ad Laurent, cap. viii. p. 67, where est itaque fides et malarum.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 inhaerere Non igitur tufficit ad perfectionem (id est, ad sanctificationem, quae per Christum in spiritu est) iTi numero palmitum redpi, sed oportet ardenti caritate atque continuo immaculate Christum sequi1."
 
@@ -121,7 +118,7 @@ Et mox. " Licet posset poni amicitia quaedam acquisita ex actibus dilectionis di
 
 [12 Id. ibid. Dist. xxvi. foil, xxii., xxiii.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 diligendum, tamen actus dilectionis non elicitur ita intensus mediante tali habttu, sicut mediante caritate a Deo infusa, per quam etiam acceptatur a Deo humana operatic 13."
 
@@ -171,7 +168,7 @@ Nee quod recti sunt corde, sed ut recti sint corde, praetendit justitiam suam qu
 
 De Spiritu et Litera, ca. 7 20.
 
-AMBROSIUS.
+## Ambrosius
 
 " Ideo nemo glorietur in operibus, quod nemofactis suis justificatur ; sed qui Justus est, donatum habet21." Idem. " Manifesto beati sunt, quibus sine labore aut opere aliquo remittuntur iniquitates et peccata teguntur, nulla ab eis requisita poenitentiae opera, nisi tantum ut credant22."
 
@@ -197,11 +194,11 @@ IV. p. 587. Ed. Lutet. Paris. 1642.]
 
 [22 Id. Comm. in Epist. ad Rom. cap. iv. Tom. III. p. 124.]
 
-206 NOTES ON JUSTIFICATION.
+## 206 Notes on Justification
 
 Idem. " Convenit . . . . ut creatura in solo nomine Domini Creatoris consequatur salutem, hoc est, per fidem1:'
 
-LOMBARDUS.
+## Lombardus
 
 " ' Ubi est gloriatio tua1 ? . ... Sola fide sine operibus prcccedentibus fit homo Justus*"
 
@@ -221,7 +218,7 @@ Meaning thereby to exclude the merit and dignity of all works and virtues, as in
 
 Horn. iv. " Ideo ex fide ut secundum gratiam."
 
-OBIGENES BASILIUS
+## Obigenes Basilius
 
 HlERONYMUS ra
 
@@ -229,7 +226,7 @@ AUGUSTINUS THEODORETUS AMBROSIUS CHRYSOSTOMUS postea.
 
 AMBROSIUS. "Dignitatem et meritum non facit nisi fides6."
 
-AUGUSTINUS.
+## Augustinus
 
 "Opera bona sequuntur justificatum, non pracedunt justificandum 7."
 
@@ -239,7 +236,7 @@ AUGUSTINUS.
 
 "Per fidem impetratio gratise contra peccatum, per gratiam sanatio animae a vitio peccati, per animai sanitatem libertas arbitrii," &c. De Spiritu et Lit. ca. 30 9.
 
-BERNARDUS.
+## Bernardus
 
 " Non est quo gratia intret, ubi jam meritum occupavit Deest gratite quicunque meritis deputat.
 
@@ -247,7 +244,7 @@ Gratia me reddit justificatum gratis, et sic liberatum a servitute peccati10."
 
 BRUNO. " Fides credentis reputatur ei ad justitiam, quod justificatur sine omni merito per solam fidem11."
 
-CHRYSOSTOMUS.
+## Chrysostomus
 
 " Non ex benefactis, nee laboribus, nee pensatore, sed sola gratia justificavit genus nostrum. Quod et Paulus declarans dicit, « Nunc autem absque lege justitia Dei manifestata est.' Justitia autem Dei per fidem Jesu Christi, non per ullum sudorem aut dolorem ls."
 
@@ -273,21 +270,21 @@ t1 Id. In Epist. ad Rom. cap. ix. Tom. III. p. 144, where ut in solo nomine Domi
 
 [12 Chrysost. Adv. Judaeos, Orat. vii. Tom. I. p. 665.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 Idem. " Ne tuao confidas pcenitentiae ; tua namque pcenitentia tanta nequit peccata delete13." " Si sola foret pcenitentia, jure timeres : sed postquam cum poenitentia commiscetur Dei misericordia, confide, . . . quia tuam vicit nequitiam 14."
 
-GENNADIUS.
+## Gennadius
 
 " Gratis, hoc est, absque bonis operibus salvus factus es, ut nihil contuleris praeter fidem. Justificatus autem gratis justificaris, et a tergo venis post yloriam et beneficium Dei. Egent gloria Dei, hoc est, a tergo veniunt, et non praeoccupaverunt glorificare Deum. Ideo omnes qui crediderunt in Christum, gratis justincantur, credere tamen coimportantes16."
 
-LOMBARDUS.
+## Lombardus
 
 "Per .... fidem justificatur impius, ut deinde ipsa fides incipiat per dilectionem operari. Ea enim sola bona opera dicenda sunt, qucefiunt per dilectionem Dei. Ipsa enim dilectio opus fidei dicitur18."
 
 " His qui pure simpliciterque Christo fidunt, hoc praestat fides, ut pro justis habeantur, nulla legis observatcB commendatione, sed solius fidei17."
 
-AUGUSTINUS.
+## Augustinus
 
 " Quomodo ergo justificabitur homo per fidem sine operibus ? Responderet ipse apostolus, Propterea hoc dixi tibi, O homo, ne quasi de operibus tuis prasumere videreris, et merito operum tuorum accepisse fidei gratiam 18."
 
@@ -343,7 +340,7 @@ Rom. v. "Peccatum non imputatur, cum non est lex."
 
 In the Lambeth MSS. this extract from Anselm appears to be in another hand than that of the arch bishop.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 Rom. vii. " Peccatum non cognovi, nisi per legem. Nam et concupiscentiam non novissem, nisi lex dixisset, Non concupisces. Lex quidem sancta, et mandatum sanctum et justum et bonum. Quod ergo bonum est, mihi factum est mors ? Absit. - Scimus enim quod lex spiritualis est, ego autem carnalis. — Invenio igitur legem volenti mihi facere bonum, quum mihi malum adjacet. Condelector enim legi Dei secundum interiorem hominem."
 
@@ -367,13 +364,13 @@ The same meant divers ancient authors, as well Greeks as Latins, when they said,
 
 ORIGENES supra.
 
-HIERONYMUS.
+## Hieronymus
 
 "'Ex operibus legis non justificabitur omnis caro.' Quod ne de lege Mosi tantum dictum putes, et non de omnibus mandatis, (quae uno legis nomine continentur,) idem apostolus scribit dicens, ' Consentio legi Dei' &C.1"
 
 GENNADIUS. " Gratis servaris, hoc est, sine operibus virtutum, aut offidis rectis et perfectis 2."
 
-TIIEODORETUS } AMBROSIUS
+## Tiieodoretus } Ambrosius
 
 BERNARDUS J AUGUSTINUS, De Spiritu et Litera, ca. 8, 13, 14, 29 3. Et, Ad Simplicianum, q. 2.
 
@@ -409,7 +406,7 @@ Apoc. [xxii.] "Qui Justus est, justificetur adhuc."
 
 [7 Dr Jenkyns has added the following words : numquid poterit fides salvare eum? Vol. II. p. 128.]
 
-NOTES ON JUSTIFICATION. 209
+## Notes on Justification. 209
 
 Et mox. " Cum [Jacobus] bona opera commemorat Abraham, quae ejus fidem comitata sunt, satis ostendit Paulum apostolum non ita per Abraham docere justificari hominem per fidem sine operibus, ut, si quis crediderit, non ad eum pertineat bene operari ; sed ad hoc potius, ut nemo arbitretur meritis priorum bonorum operum se pervenisse ad donum justificationis, qua3 est in fide 8.
 
@@ -419,7 +416,7 @@ Glossa ordinaria.
 
 " Probavit [apostolus,] eos qui opera non habent, veram fidem non habere Quod Abraham per fidem sine operibus justificatus dicitur, de operibus quae pnecedebant intelligitur; quia per opera quae fecit insons non fuit, sed sola fide. Hie de operibus agitur quae fidem sequuntur, per quae amplius justificatur, cum jam per fidem fuisset Justus. . . . [Heb. xi.] 'Fide Abraham obtulit filium suum, cum tentaretur.' Haec oblatio fuit opus et testimonium fidei et justitiae10."
 
-HUGO CARDINALIS.
+## Hugo Cardinalis
 
 "Apostolus loquitur ad Rom. de operibus praecedentibus fidem, quibus non Abraham nee alius jus tificatus est: hie vero est sermo de operibus sequentibus fidem; qua; dicuntur justiftcare, turn quod justificationem jam habita/n per fidem infusam notificant, turn quod earn perficiunt et conservant. Et tune res fieri dicitur, quando perficitur, vel quum innotescit11."
 
@@ -467,9 +464,9 @@ THOMAS fo. sequenti.
 
 [16 Id. in Psalm, ciii. col. 383.] [)7 Anselm. in Rom. iii. p. 24.]
 
-[CRANMER, II.]
+## [Cranmer, II.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 Yet nevertheless, because ly faith ice know God's mercy and grace promised by his word, (and that freely for Christ's death and passion sake,) and leliece the same, and, being truly penitent, we by faith receive the same, and so excluding all glory from ourselves, we do by faith transcribe the whole glory of our justification to the merits of Christ only, (which properly is not the nature and office of charity;) therefore to set forth the same, it is said of faith in ancient writers, "we be justified only by faith," or, "by faith alone," and in St Paul, "we be justified by faith freely without works."
 
@@ -481,17 +478,17 @@ Acts x. " Huic omnes prophetae testimonium perhibent, remissionem peccatorum acc
 
 [Acts] xiii. "Notum sit vobis, viri fratres, quod per hunc vobis remissio peccatorum annunciatur, et ab omnibus a quibus non potuistis in lege Mosis justificari, in hoc omnis qui credit justificatur."
 
-AUGUSTINUS.
+## Augustinus
 
 " His qui gratiam (quam commendat apostolus et percipit fides Christi) putatis esse naturam, verissime dicit: 'Si ex naturajustitia, ergo gratis Christus mortuus est1.'"
 
 11 Si aliqui consequi hoc per gratiam confitentur, et id non accepit nisi fides ; quac accepta non cst, in ipsa cst meritum : cui non donum datur, sed meritum redditur2."
 
-AMBROSIUS.
+## Ambrosius
 
 ' Per fidem . . . prsedicationis Jesu Christi agnoscitur donum dudum promissum a Deo, vel sumitur3" THEODORETUS in folio 1° praecedentc 4.
 
-HISICHIUS.
+## Hisichius
 
 " Miseratus .... Deus humanum genus, cum illud ad explenda legis opera infirmatum vidisset, jam non ex operibus salvari, sed per gratiam, hominem voluit. Gratia vero ex misericordia atque compassione pr.Tbetur, etfide comprchenditur sola, 'non ex operibus,' ut Paulus dicit, nam 'gratia jam non erit gratia5.'"
 
@@ -499,7 +496,7 @@ BERNARDUS. " Oleum misericordiao non reponit nisi in vasa fidei 6."
 
 " Fides hominis imputatur ad justitiam, . . . non quidem ita, quod per fidem justitiam mereatur, sed quod ipsum credere cst primus actus justitia;, quam Deus in eo operatur. Ex eo enim quod credit in Deum justifi can tern, justificationi ejus subjicit se, et sic recipit effectum7."
 
-MAGISTER SENTENTIARUM.
+## Magister Sententiarum
 
 "Per... fidem justificatur impius, .. .ut deinde ipsa fides incipiat per dilectionem operari. Ea cnim sola bona opera dicenda sunt, qua) fiunt per dilectionem Dei. Ipsa enim dilectio opus fidei dicitur6"
 
@@ -541,7 +538,7 @@ Venet. 1593. Ad Rom. cap. iv. fol. 14, 1, where Credenti autem in eum quijustifi
 
 [n Id. Op. Imperf. contr. Julian. Lib. n. 158. Tom. X. col. 1016. Ed. Paris. 1679—1709, where in nobis DC us.] f12 Id. ibid. Lib. i. cap. cxli. Tom. X. col. 955, where fides cnim habct, quoniam omnis, opera bona et, and Deo sint.]
 
-NOTES ON JUSTIFICATION.
+## Notes on Justification
 
 Idem. "Fides in nobis, Christus in nobis. Quid cnim aliud dicit apostolus, 'habitare Christum in cordibus nostris per fidem ?' Ergo fides tua de Christo, Christus est in corde tuo 13."
 
@@ -555,7 +552,7 @@ Et mox : " Quod autem dicit, ' Ei vero qui operatur,' &c. videtur ostendere, qua
 
 Et longe infra super hunc locum, 'Ideo ex fide, ut secundum gratiam.' "In superioribus, inquit, distinctionem dedit mercedis et gratia), dicens mercedem rem debitam esse, gratiam autem nullius esse debiti, sed benevolentiae beneficium. Et in prcesenti ergo loco ostendere volens, Deum hcereditatem promissionum non ex debito, scd ex gratia dare, dicit quia h&reditas a Deo his qui credunt, non ex mercedis debito, sed fidei munere concedatur. Sicut enim (ut exempli gratia dixerim) hoc quod subsistimus non potest intelligi, quasi ex operis nostri mercede subsistamus, sed evidenter Dei munus est quod sumus, et gratia Conditoris, qui esse nos voluit; ita, etsi haereditatem promissionum Dei capiamus, divinae gratia; est, non alicujus debiti aut operis merces16."
 
-AUGUSTINUS.
+## Augustinus
 
 "Medicina enim animae vulnerum, et una propitiatio pro delictis omnibus, est credere in Christum17.'' "Credentibus sufficit fides ad justificationem18."
 
@@ -565,7 +562,7 @@ AUGUSTINUS.
 
 'Ne quis glorietur.'
 
-AUGUSTINUS.
+## Augustinus
 
 " Non hoc ideo dicit, quod opera bona pia cogitatione facta frustrentur (cum Dcus reddat cuique secun dum opera ejus, sitque gloria Dei operanti bonum,) sed quod opera ex gratia, non ex operibus gratia21."
 
@@ -587,7 +584,7 @@ THEOPHYLACTUS. Rom. iv.
 
 " Quia lex iram operatur, propterea ex fide dicitur justificari Abrahamus ac haores constitui, ut secundum gratiam omnia fiant26."
 
-(ECUMENIUS.
+## (Ecumenius
 
 "Per legem, inquit, non confirmantur promissiones, quod secundum modum aliquem impediuntur. Quomodo ? Quia lex iram operatur, eo quod non observatur : nemo enim illam poterat implere. Undo autem ira, quomodo haereditas? Quomodo hsereditatem accipiet, qui irritavit? Quomodo venient promis siones? Fides, inquit, gratiam inducit Dei ; existente autem gratia, veniunt et implentur promissiones 26."
 

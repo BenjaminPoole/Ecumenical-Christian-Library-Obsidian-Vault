@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "There Is No Difference"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2608
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The righteousness of God through faith in Jesus Christ unto ail and upon all them that believe: for there is no difference: for all have sinned, and come short of the glory of God." Romans 3:22,23.
 
@@ -69,7 +66,7 @@ And if you go in for soul-winning, do not be picking and choosing which souls yo
 
 III. Now, in closing my discourse, I want to spend a minute or two in bidding you REJOICE OVER THIS GREAT
 
-TRUTH.
+## Truth
 
 I rejoice over the fact that there is no difference, in the matters of which I have been speaking, concerning the whole human race. I saw a picture of the Tower of Babel by an eminent painter. All the various races of mankind were represented as going off in different directions, some to the North, others to the South, to the West, or to the East, all being scattered over the face of the whole earth. It was a painful sight to see the great family broken up, never, as far as we could see, to be reunited again. But, dear Friends, hear how this text collects the whole family of mankind into one and gathers all these scattered ears of corn and makes one sheaf of them—"There is no difference." All men are fallen through sin, but whoever, out of them all, believes in Jesus Christ, shall have eternal life! There is one blessed bath of salvation in which all may be washed whiter than snow! There is one remedy, and only one, for the disease of sin—and all who apply to the great Physician are healed forever. I love to see the human race thus reunited.
 
@@ -81,7 +78,7 @@ And so to you, dear Hearers, who are seeking after Christ, is it not a great mer
 
 When God gives us, by His Spirit, a simple faith in Jesus, we at once receive eternal life—and every soul that believes in Jesus Christ has that life. I pray God to bless this message to you who are still unsaved. Quarrel not with your only hope of salvation! Accept what God provides! Yield yourselves to the Divine decree, for God has decreed that no soul shall enter Heaven but by His Son, "the Way, the Truth and the Life." This name—this one name—you must rely on if you would be saved! This way—this one way—you must run in if you would enter Heaven! God help you to enter it at once, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS3.
+## Exposition by C. H. Spurgeon: Romans 3
 
 Verses 1, 2. What advantage, then, has the Jew? Or what profit is there in circumcision? Much every way; chief, because that unto them were committed the oracles of God. If it is so that, after all, no outward rite or birth privileges can bestow Grace, what advantage did the Jews possess? "Why," says Paul, "they had this very great privilege, 'that unto them were committed the oracles of God!'" It is no small blessing to have a Revelation from Jehovah and to have the means of knowing what that Revelation really is.
 
@@ -134,7 +131,6 @@ Verses 1, 2. What advantage, then, has the Jew? Or what profit is there in circu
 30\. 31. Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith. Do we then make void the Law through faith?Some will be sure to say so, but it is not true.
 
 31\. God forbid! Yes, we establish the Law. There is no one who so much loves the Law of God and delights in it after the inward man, as the one who is justified by faith! There is nothing that so honors the Law of God as "the righteousness of God through faith in Jesus Christ." It establishes forever the Law, even as Christ said to His disciples, "Think not that I am come to destroy the Law, or the Prophets: I am not come to destroy, but to fulfill. For verily I say unto you, Till Heaven and earth pass, one jot or one tittle shall in no wise pass from the Law, till all is fulfilled."
-
 
 ---
 [[Sermon 2607 Foretastes of the Heavenly Life|← #2607]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2609 Our Thoughts About God's Thoughts|#2609 →]]

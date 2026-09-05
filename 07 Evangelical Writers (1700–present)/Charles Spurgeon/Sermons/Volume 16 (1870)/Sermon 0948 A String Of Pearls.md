@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A String Of Pearls
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 948
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 28, 1870,.
+*Delivered on Lord's-Day Morning, August 28, 1870*
 
 > "Blessed be the God and Father of our Lord Jesus Christ, which according to His abundant mercy has begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, to an inheritance incorruptible, and undefiled, and that fades not away, reserved in Heaven for you, who are kept by the power of God through faith unto salvation ready to be revealed in the last time." 1 Peter 1:3-5.
 
@@ -188,7 +187,6 @@ Shall the true faith have less operative power upon us? Shall the "lively hope" 
 Preacher, live more intensely and ardently than ever you have done. Deacons, serve the Church more thoroughly than you have done as yet. Elders, give your whole souls to the care of Christ's flock, which He has redeemed with His blood. Each one of you workers for Jesus Christ work not for Him after an ordinary sort, as men do for a master whose pay is no larger than he can be compelled to make it—but work with heart, and soul, and strength for Him who loved you to the death and poured out His soul to redeem you from going down into Hell.
 
 Thus prove that the Divine Nature is truly in you, and that you possess the "lively hope" implanted by the resurrection of Jesus Christ from the dead. The Lord bless you all, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0947 Seeking For Jesus|← #947]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0949 The Unconquerable King|#949 →]]

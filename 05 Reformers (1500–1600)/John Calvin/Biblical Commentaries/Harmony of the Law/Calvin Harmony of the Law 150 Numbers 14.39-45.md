@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 150. Numbers 14:39-45
-
-**Numbers 14**
 
 **39.** And Moses told these sayings unto all the children of Israel: and the people mourned greatly.
 

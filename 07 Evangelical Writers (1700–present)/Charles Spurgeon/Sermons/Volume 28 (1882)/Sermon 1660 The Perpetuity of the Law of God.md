@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Perpetuity of the Law of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1660
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 21, 1882,.
+*Delivered on Lord's-Day Morning, May 21, 1882*
 
 > "For verily I say unto you, Till Heaven and earth pass, one jot or one tittle shall in no wise pass from the Law till all is fulfilled." Matthew 5:18.
 
@@ -154,7 +153,6 @@ This which is begun in regeneration is continued and grows till it ultimately ar
 Then nothing which God has commanded, however much of self-denial it requires, now, will require any self-denial from us! Holiness will be our element, our delight! Our nature will be entirely conformed to the Nature and mind of God as to holiness and goodness—and then the Law will be fulfilled in us and we shall stand before God, having washed our robes and made them white in the blood of the Lamb! And, at the same time, being ourselves without spot, or wrinkle, or any such thing! Then shall the Law of the Lord have eternal honor from our immortal being. Oh, how we shall rejoice in it! We delight in it after the inward man, now, but then we shall delight in it as to our risen bodies which shall be charmed to be instruments of righteousness unto God forever and ever! No appetite of those risen bodies, no want and no necessity of them shall then lead the soul astray, but our whole body, soul and spirit shall be perfectly conformed unto the Divine mind!
 
 Let us long and pant for this! We shall never attain it except by believing in Jesus. Perfect holiness will never be reached by the works of the Law, for works cannot change the nature. But by faith in Jesus and the blessed work of His Holy Spirit, we shall have it and then, I believe, it will be among our songs of Glory that Heaven and earth pass away, but the Word of God and the Law of God shall stand fast forever and ever. Hallelujah! Hallelujah! Amen.
-
 
 ---
 [[Sermon 1659 A Feast for the Upright|← #1659]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1661 Praying and Pleading|#1661 →]]

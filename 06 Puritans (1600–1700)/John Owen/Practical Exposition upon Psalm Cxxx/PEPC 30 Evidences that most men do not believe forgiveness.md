@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Evidences that most men do not believe forgiveness
-
-*Evidences that most men do not believe forgiveness.*
 
 That which should now ensue is the peculiar improvement of this truth, all along aimed at, — namely, to give exhortations and encouragements unto believing; but I can take few steps in this work, wherein methinks I do not hear some saying, “Surely all this is needless. Who is there that doth not believe all that you go about to prove? and so these pains are spent to little or no purpose.” I shall, therefore, before I persuade any unto it, endeavour to show that they do it not already. Many, I say, the most of men who live under the dispensation of the gospel, do wofully deceive their own souls in this matter. They do not believe what they profess themselves to believe, and what they think they believe. Men talk of “fundamental errors;” this is to me the most fundamental error that any can fall into, and the most pernicious. It is made up of these two parts:— 1. *They do not indeed believe forgiveness.* 2. *They suppose they do believe it*, which keeps them from seeking after the only remedy. Both these mistakes are in the foundation, and do ruin the souls of them that live and die in them. I shall, then, by a brief inquiry, put this matter to a trial. By some plain rules and principles may this important question, whether we do indeed believe forgiveness or no, be answered and decided. But to the resolution intended, I shall premise two observations —
 
@@ -59,7 +56,6 @@ Let us, then, weigh to what ends and purposes this forgiveness was first reveale
 Our inquiry, then, is, Whether men do receive this revelation as unto these ends, and use it for these purposes, and these only? I might evince the contrary, by passing through the general abuses of the doctrine of grace which are mentioned in the Scripture and common in the world; but it will not be needful. Instead of believing, the most of men seem to put a studied despite on the gospel. They either proclaim it to be an *unholy and polluted way*, by turning its grace into lasciviousness, or *a weak and insufficient way*, by striving to twist it in with their own righteousness; both which are an abomination unto the Lord.
 
 From these and such other considerations of the like importance as might be added, it is evident that our word is not in vain, nor the exhortation which is to be built upon it. It appears that notwithstanding the great noise and pretences to this purpose that are in the world, they are but few who seriously receive this fundamental truth of the gospel, — namely, that there is forgiveness with God. Poor creatures sport themselves with their own deceivings, and perish by their own delusions.
-
 
 ---
 [[PEPC 29 Properties of forgiveness|← Properties of forgiveness]] · [[Practical Exposition upon Psalm Cxxx|Contents]] · [[PEPC 31 Exhortation unto the belief of the forgiveness that is with God|Exhortation unto the belief of the forgiveness that is with God →]]

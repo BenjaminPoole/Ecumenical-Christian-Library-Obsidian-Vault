@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Daniel 1:1-2
 
@@ -42,7 +41,7 @@ Here Daniel pursues his narrative, and shows the manner in which he was led away
 
 ## Prayer Lecture 1
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou settest before us so clear a mirror of thy wonderful providence and of thy judgments on thine ancient people, that we may also be surely persuaded of our being under thy hand and protection — Grant, that relying on thee, we may hope for thy guardianship, whatever may happen, since thou never losest sight of our safety, so that we may invoke thee with a secure and tranquil mind. May we so fearlessly wait for all dangers amidst all the changes of this world, that we may stand upon the foundation of thy word which never can fail; and leaning on thy promises may we repose on Christ, to whom thou hast committed us, and whom thou hast made the shepherd of all thy flock. Grant that he may be so careful of us as to lead us through this course of warfare, however troublesome and turbulent it may prove, until we arrive at that heavenly rest which he has purchased for us by his own blood. — Amen.
 
@@ -86,7 +85,7 @@ It may also be asked, Why does Daniel claim this praise, as His own, which was s
 
 ## Prayer Lecture 2
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as long as our pilgrimage in this world continues, that we may feed on such diet for the necessities of the flesh as may never corrupt us; and may we never be led aside from sobriety, but may we learn to use our abundance by preferring abstinence in the midst of plenty. Grant also, that we may patiently endure want and famine, and eat and drink with such liberty as always to set before us the glory of thy Name. Lastly, may our very frugality lead us to aspire after that fullness by which we shall be completely refreshed, when the glory of thy countenance shall appear to us in heaven, through Jesus Christ our Lord. — Amen.
 
@@ -138,7 +137,7 @@ After Melsar saw it possible to gratify Daniel and his companions without danger
 
 ## Prayer Lecture 3
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are now encompassed by so many enemies, and the devil does not cease to harass us with fresh snares, so that the whole world is hostile to us, that we may perceive even the devil himself to be restrained by thy bridle. Grant, also, that all the impious may be subjected to thee, that thou mayest lead them whithersoever thou wishest. Do thou direct their hearts, and may we be experimentally taught how safe and secure we are under the protection of thy hand. And may we proceed, according to thy promise, in the course of our calling, until at length we arrive at that blessed rest which is laid up for us in heaven by Christ our Lord. — Amen.
 

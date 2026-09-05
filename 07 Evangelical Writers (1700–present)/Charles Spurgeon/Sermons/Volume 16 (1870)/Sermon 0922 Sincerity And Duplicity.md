@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Sincerity And Duplicity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 922
 
-DELIVERED ON LORD'S-DAY EVENING, MARCH 6, 1870,.
+*Delivered on Lord's-Day Evening, March 6, 1870*
 
 > "Hereby we do know that we know Him, if we keep His commandments. He that says, I know Him, and keeps not His commandments, is a liar, and the Truth is not in him." 1 John 2:3,4.
 
@@ -150,7 +149,6 @@ It has been hard work for me thus to mention these inconsistencies. I cannot ven
 My last word is this. If any man now feels himself troubled on account of sin, let me read these words to him, and I have done. Hear them in faith. They are the words that come before the text. "And if any man sin, we have an Advocate with the Father, Jesus Christ the righteous." O come, you guilty ones, you guilty professors, you that have been false to your Lord and to His love! Come to Him notwithstanding all your bitter provocations. "And He is the Mercy Seat: the Propitiation for our sins, and not for ours only, but also for the sins of the whole world."
 
 Look you, then, look and live! Whether saints or sinners, whatever your past lives may have been, look to the Propitiatory Sacrifice offered on Calvary's bloody tree! Look and live! The Lord grant it for His dear Son's sake. Amen.
-
 
 ---
 [[Sermon 0921 Nathanael And The Fig Tree|← #921]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0923 Prepare To Meet Your God|#923 →]]

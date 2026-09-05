@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # What Is Essential in Coming to God?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2740
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Without faith it is impossible to please Him: for he that comes to God must believe that He is, and that He is a rewarder of them that diligently seek Him." Hebrews 11:6.
 
@@ -97,7 +94,7 @@ But if you have lived for God—if, by His Grace, you have put your trust in Jes
 
 So may it be with every one of us, for Christ's sake! Amen.
 
-EXPOSITIONS OF C. H. SPURGEON: HEBREWS 11.
+## Expositions of C. H. Spurgeon: Hebrews 11
 
 These men, of whom we are now briefly to read, are a company of God's witnesses. And the Apostle calls them, in the next chapter, "a cloud of witnesses," who, from their lofty seats above, are watching us who are now running the Christian race.
 
@@ -148,7 +145,6 @@ faith.
 40\. God having provided some better thing for us, that they. Even they, great as they are—
 
 40\. Without us should not be made perfect There is a something for us, whose lot is cast in these latter days, to bring, which shall complete the circle and choir of the Church of Christ, for they without us could not be made perfect. The Lord grant us Grace to be ready for our share in that glorious consummation, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 2739 'I Have Enough'|← #2739]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2741 Salvation by Grace|#2741 →]]

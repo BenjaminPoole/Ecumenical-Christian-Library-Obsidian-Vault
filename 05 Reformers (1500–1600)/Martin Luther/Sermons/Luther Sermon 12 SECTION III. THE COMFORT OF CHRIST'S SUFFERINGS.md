@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 12. SECTION III. THE COMFORT OF CHRIST'S SUFFERINGS.
-
-## SECTION III. THE COMFORT OF CHRIST’S SUFFERINGS.
 
 12\. Until the present we have been in the Passion week and have celebrated Good Friday in the right way: now we come to Easter and Christ’s resurrection. When man perceives his sins in this light and is completely terror-stricken in his conscience, he must be on his guard that his sins do not thus remain in his conscience, and nothing but pure doubt certainly come out of it; but just as the sins flowed out of Christ and we became conscious of them, so should we pour them again upon him and set our conscience free. Therefore see well to it that you act not like perverted people, who bite and devour themselves with their sins in their heart, and run here and there with their good works or their own satisfaction, or even work themselves out of this condition by means of indulgences and become rid of their sins; which is impossible, and, alas, such a false refuge of satisfaction and pilgrimages has spread far and wide.
 

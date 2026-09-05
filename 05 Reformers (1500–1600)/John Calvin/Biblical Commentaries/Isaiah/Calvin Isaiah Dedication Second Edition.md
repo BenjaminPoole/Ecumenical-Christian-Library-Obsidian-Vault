@@ -9,14 +9,13 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication to the Second Edition
 
-**TO HER SERENE HIGHNESS,**
+***To Her Serene Highness,***
 
-**NOT LESS ILLUSTRIOUS BY HER OWN VIRTUES THAN BY THE SPLENDOUR OF ROYALTY,**
+## **Not Less Illustrious by Her Own Virtues than by the Splendour of Royalty,**
 
-**ELIZABETH, QUEEN OF ENGLAND, ETC.**
+## **Elizabeth, Queen of England, Etc.**
 
 Although, in making improvements on this Commentary, I have bestowed so much care and industry, most noble Queen, that it ought justly to be reckoned a new work, yet, as in the first edition it was dedicated to your brother King Edward, who, though a youth, greatly excelled the men of his age, and whom I wish to be held in remembrance by posterity, as he deserves, I had intended to make no change in that dedication. But since, amidst that wretched and lamentable dispersion of the Church and oppression of pure doctrine, which raged with prodigious violence for a short period, this book, together with the whole doctrine of true godliness, was banished from England for a time, but now, I trust, favored by your happy reign, will be restored to its former privileges, I thought that there would be no impropriety if to the name of a most excellent king I should join your own name, which is regarded by all good men with not less esteem and satisfaction. Not only was an opportunity offered, but necessity appeared to demand, that I should obtain your full protection to this Commentary, the banishment of which, I am aware, was beheld by a great number of your godly subjects with deep sorrow.
 

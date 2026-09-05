@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 202. Matthew 26:51-56; Mark 14:47-52; Luke 22:49-53
-
-MATTHEW 26:51-56; MARK 14:47-52;  
-LUKE 22:49-53
 
 **51.** And, lo, one of those who were with Jesus, stretching out his hand, drew his sword, and, striking the servant of the high priest, cut off his ear. **52.** Then Jesus said to him, Put thy sword again into its place; for all who take the sword shall perish by the sword. **53.** Thinkest thou that I cannot now pray to my Father, and he will grant to me more than twelve legions of angels? **54.** How then shall the scriptures be fulfilled, that thus it must be? **55.** At that hour [^1] Jesus said to the multitudes, You are come out, as against a robber, with swords and clubs to seize me. I sat daily with you, teaching in the temple, and you did not take me. **56.** But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
 

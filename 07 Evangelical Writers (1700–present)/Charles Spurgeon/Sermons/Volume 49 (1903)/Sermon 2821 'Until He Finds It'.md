@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # 'Until He Finds It'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2821
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Until he finds it." Luke 15:4.
 
@@ -111,7 +108,7 @@ On whose shoulders was the sheep? It was on the shoulders of the rejoicing one w
 
 So you see that there is a great deal in these four words, "until he finds it." Where are you now, my Friend? Are you still lost? What a joy it is to think that the Good Shepherd is still seeking lost sheep! But, if you have seen Christ near you, oh, that you may, by His Grace, this very hour, be caught up by His pierced hands and laid upon His everlasting shoulders and so be carried to the heavenly fold! The Lord grant it! This is what you need and what you must have if you are really to be saved. You must be "saved in the Lord." Christ Jesus must save you—it must be by His blessed hands and His almighty power that you must be rescued from danger and saved from going down to the Pit. May He soon find all of you who are lost and carry you on His shoulders all the way to the eternal fold above, for His dear names sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 17.
+## Exposition by C. H. Spurgeon: John 17
 
 Verse 1. These words spoke Jesus, and lifted up His eyes to Heaven, and said, Father, the hour is come. That tremendous hour which was the very hinge of history—that hour in which He must suffer, bleed and die—to pay the ransom price for His people—"Father, the hour is come."
 
@@ -158,7 +155,6 @@ He did not merely pray for the little handful of disciples who were with Him the
 23\. That they may be made perfect in one; and that the world may know that You have sent Me, and have loved them, as You have loved Me. This is a wonderful Truth of God—that the Father loves the Church even as He loves Jesus Christ, His Son. When shall the world ever know this till the unity of the Church is more clearly seen?
 
 24-26. Father, I will that they also, whom You have given Me, be with Me where I am; that they may behold My glory, which You have given Me: for You loved Me before the foundation of the world. O Righteous Father, the world has not known You, but I have known You, and these have known that You have sent Me. And I have declared unto them Your name, and will declare it that the love wherewith You have loved Me may be in them, and I in them. Oh, for a blessed fulfillment of that prayer in our experience this very moment, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2820 Christ Before Annas|← #2820]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2822 Christ in Bonds|#2822 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Found By Jesus—And Finding Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2375
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The day following, Jesus would go forth into Galilee, and He found Philip, and said to him, Follow Me. Now Philip was of Bethsaida, the city of Andrew and Peter. Philip found Nathanael, and said to him, We have found Him, of whom Moses in the Law, and the Prophets, did write, Jesus of Nazareth, the son of Joseph." John 1:43-45.
 
@@ -144,7 +141,6 @@ tation, and He was Jesus of Bethlehem quite as much as He was Jesus of Nazareth�
 49, 50. Nathanael answered and said to Him: Rabbi, You are the Son of God; You are the King of Israel. Jesus answered and said unto him, Because I said unto you, I saw you under the fig tree, do you believe? You shall see greater things than these. You who are honest in heart. You who can be convinced by a single argument—and, mark you, one good argument is as convincing as 20 good arguments, and a great deal better than a 100 bad ones—you who are willing to be led by a single thread shall be led! If you are willing to believe on what is clear evidence, you shall have more evidence—"you shall see greater things than these." God will show much to that man who has eyes with which to see. He who will not see and does not wish to see, shall grow more and more blind—and the darkness shall thicken about him.
 
 51\. And He said to him, Verily, verily, I say unto you, Hereafter you shall see Heaven open and the angels of God ascending and descending upon the Son of Man. He could see actually what Jacob saw only in a dream when he beheld that wonderful stairway of Light which leads from earth to Heaven, even the Lord Jesus Christ, who, by His Manhood and His Godhead bridges the distance between us and God!
-
 
 ---
 [[Sermon 2374 Blessed Discipline|← #2374]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2376 I Will, Yet, Not As I Will|#2376 →]]

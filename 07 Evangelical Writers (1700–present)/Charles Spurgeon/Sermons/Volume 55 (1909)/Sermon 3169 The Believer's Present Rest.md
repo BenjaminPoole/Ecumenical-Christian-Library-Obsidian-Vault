@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Believer's Present Rest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3169
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We who have believed do enter into rest." Hebrews 4:3.
 
@@ -81,7 +78,7 @@ Now, lastly, let me remind you, Beloved, that this rest is perfectly consistent 
 
 Labor also to show your gratitude to God for what He has done for you, and then labor to show your love to men. You must not suppose that when we enter into rest, it means that we are idle. Our Lord Jesus Christ said, "My Father works up to now, and I work." God rests, yet He works. Heaven is a place of rest, but it is not a place of idleness—there is still holy service to be done there, so you Christian people who are perfectly saved, devote all your strength to the winning of others for Christ! Show your love to Jesus by trying to find some of His lost sheep for Him. Awaken yourselves, my Brothers and Sisters who have entered into rest, and prove to mankind that the grand old Calvinistic Doctrine of a finished salvation does not breed sluggishness! Rise, I pray you, and show that the children of the freewoman are not slothful, but that the motive of gratitude to God is a higher and more potent one than the selfish motive of seeking to save yourselves! Let those who want to save themselves go and work for themselves, but as for you who are saved, go and work for Jesus! And let your deeds of holy heroism prove that you are constrained by love to Him to do all that you can to bring others to trust in Him! Now, as some of you are coming to this Communion Table, may it prove to be a feast of rest to your souls! Sitting, as you will be, in the posture of rest, eating the bread and drinking the wine which are the tokens of the finished work of Christ, may you have real rest in Him! And oh, that some poor sinner who has never believed in Jesus, may do so now, for thus shall he find rest unto his soul! The Lord grant it, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 4.
+## Exposition by C. H. Spurgeon: 2 Corinthians 4
 
 Verse 1. Therefore seeing we have this ministry, as we have received mercy, we faint not It is a very high privilege to be called to the work of the Christian ministry. And when the minister remembers what great mercy he has, himself, received, what sins have been forgiven, what favors have been bestowed—he has the very best incentives in all the world to pursue his ministry with diligence and with zeal. "We faint not," says the Apostle. We do not hang our harps upon the willows. We do not pray to be allowed to retire from the battle and give up the strife, but feeling how great has been the mercy of God to our own souls, we are stirred up to press forward with holy zeal to win the victory! We long that others may taste of the same good things on which we have feasted.
 
@@ -136,7 +133,6 @@ or foot, yet bravely says the Apostle, "We are not distressed," or, as the origi
 18\. But at the things which are not seen: for the things which are seen are temporal Temporal and temporary! See how they melt away, one after another!
 
 18\. But the things which are not seen are eternal. [See Sermon #1380, Volume 23—VANITIES AND VERITIES.] The substance is beyond the river. The shadows are here. God help us to look for the substance and to claim it as our own—and let none of us try to grasp the shadows which would be worthless if we could ever hold them in our hands!
-
 
 ---
 [[Sermon 3168 The Scarlet Line in the Window|← #3168]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3170 The Novelties of Divine Mercy|#3170 →]]

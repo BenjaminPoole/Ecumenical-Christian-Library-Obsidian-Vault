@@ -32,7 +32,7 @@ tags:
 
 **10.** Called - The Greek word here properly signifies surnamed. His name is, "the Son of God." The Holy Ghost seems to have concealed who Melchisedec was, on purpose that he might be the more eminent type of Christ. This only we know, - that he was a priest, and king of Salem, or Jerusalem.
 
-**11.** Concerning whom - The apostle here begins an important digression, wherein he reproves, admonishes, and exhorts the Hebrews. We - Preachers of the gospel. Have many things to say, and hard to be explained - Though not so much from the subject- matter, as from your slothfulness in considering, and dulness in apprehending, the things of God.
+**11.** Concerning whom - The apostle here begins an important digression, wherein he reproves, admonishes, and exhorts the Hebrews. We - Preachers of the gospel. Have many things to say, and hard to be explained - Though not so much from the subject-matter, as from your slothfulness in considering, and dulness in apprehending, the things of God.
 
 **12.** Ye have need that one teach you again which are the first principles of religion. Accordingly these are enumerated in the first verse of the ensuing chapter. And have need of milk - The first and plainest doctrines.
 

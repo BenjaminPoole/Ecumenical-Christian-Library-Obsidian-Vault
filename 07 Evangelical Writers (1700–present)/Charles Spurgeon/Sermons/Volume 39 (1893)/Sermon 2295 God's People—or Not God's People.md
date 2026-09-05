@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # God's People—or Not God's People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2295
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will have mercy upon her that had not obtained mercy; and I will say to them which were not My people, You are My people; and they shall say, You are my God." Hosea 2:23.
 
@@ -111,7 +108,7 @@ Will you say that, tonight, my dear Hearers? I do not know your cases, but I kno
 
 Now, if Noah's ark had a door that was big enough to let an elephant through, then it was big enough to let a dog through, or a fox, or a cat, or a mouse. You may come if you are the biggest sinner in the world, but I do not suppose that you are, for the biggest sinner died and went to Heaven long ago. Paul says that he was the biggest sinner, the chief of sinners—and I believe that he knew what sized sinner he was. If there was room for him to go through the gate of salvation, there is room for you! May God's Grace draw you this very night—and unto the God of all Grace shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON. HOSEA 2:5-23.
+## Exposition by C. H. Spurgeon. Hosea 2:5-23
 
 In this chapter God compares Israel to a woman who had been unfaithful to her husband in the very worst and most wicked manner.
 
@@ -158,7 +155,6 @@ God, we get right with everything—when we are at peace with Him—then neither
 23\. And I will have mercy upon her that had not obtained mercy. I would like to read that again. Somebody has, perhaps, come in here, tonight, who has never obtained mercy. Perhaps you have been seeking it and you have not found it. Hear God's promise, and lay hold upon it—"I will have mercy upon her that had not obtained mercy."
 
 23\. And I will say to them which were not My people, You are My people; and they shall say, You are my God. See, it is all in, "shalls," and, "wills!" God is speaking! God Omnipotent, Omnipotent over men's hearts. He is not saying, "I will if they will," but, "I will, and they shall," for He has the key of free agency—and when He turns it in the lock, without violating the free will of man, He makes him willing in the day of His power to the praise of His Divine supremacy, for God is God when He saves as much as when He reigns! Yes, His reigning Grace is the very glory of His Nature, and this we love and adore. Grant us a taste of it! Amen.
-
 
 ---
 [[Sermon 2294 The Memory Of Christ's Love|← #2294]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2296 Saints Guarded From Stumbling|#2296 →]]

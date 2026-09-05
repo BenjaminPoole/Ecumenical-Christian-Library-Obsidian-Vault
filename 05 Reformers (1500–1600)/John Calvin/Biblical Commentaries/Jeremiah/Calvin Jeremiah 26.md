@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 26
 
 ## Lecture Ninety Ninth
 
-**CHAPTER 26**
+## **Chapter 26**
 
 ## Jeremiah 26:1-2
 
@@ -101,7 +100,7 @@ He says further, *Whom I have sent to you, rising early and sending* Here he upb
 
 ## Prayer Lecture 99
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased not only to make known thy will once by the Law, but also to add more light by thy holy prophets, and further to give us perfect light by thy Gospel, and as thou invitest us daily to learn by means of those whom thou hast sent, — O grant, that we may not be deaf nor tardy to hear, but promptly submit ourselves to thee, and so suffer ourselves to be ruled by thy word, that through our whole life we may testify that thou art indeed our God, we being thy people, until we shall at length be gathered into that celestial kingdom, which thine only-begotten Son our Lord has purchased for us. — Amen.
 
@@ -187,7 +186,7 @@ He adds, *Hear ye the voice of Jehovah,* in order to shew that he required nothi
 
 ## Prayer Lecture 100
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast not only called us once to the hope of an eternal inheritance, but invitest us continually to repentance, while we cease not by our continual sins to depart from thee, — O grant that we may not with deaf ears reject thy voice, but be pliable and submissive to thee, and that we may also so accustom ourselves to bear the yoke, that we may prove, through our whole life, that we are of thy sheep, and that Christ, thine only-begotten Son, whom thou hast set over us, is indeed our Shepherd, until we shall be gathered unto that kingdom which he has obtained for us by his own blood. — Amen.
 
@@ -272,7 +271,7 @@ Now this also is to be noticed, — that the pious king is here commended by the
 
 ## Prayer Lecture 101
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to gather us as a people to thyself, and to promise that we should be like a spiritual temple for thee to dwell in, — O grant that we may consecrate among us a perpetual habitation for time, and so strive through the whole course of our life to devote ourselves to thee, that thy grace and blessing may never depart from us, but that we may experience more and more that those are never destitute of thy protection who truly and undissemblingly rely on thee, so that thy name may be more and more glorified in us through thine only-begotten Son. — Amen.
 

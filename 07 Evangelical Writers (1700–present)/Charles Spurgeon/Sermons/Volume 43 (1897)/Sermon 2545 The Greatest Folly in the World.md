@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Greatest Folly in the World
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2545
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There is none who understands, there is none who seeks after God." Romans 3:11.
 
@@ -55,7 +52,7 @@ Moreover, my dear Brothers and Sisters, if we do not seek after God and do not f
 
 II. And now, secondly, let me say that THIS LACK OF UNDERSTANDING IS VERY COMMON AND TAKES
 
-MANY FORMS.
+## Many Forms
 
 This is one form of it, the man sinks to mere brutishness. He lives for nothing else but this world. I will suppose that he is a poor man. He gets up very early in the morning and trudges off to work. He toils hard all day and when night comes, he returns home, goes to bed and falls asleep. The next morning the big bell rings, the man gets up and he works just as he did yesterday. Six days in the week he works and toils. On the seventh, probably, he rests a bit, but he has no thought of God, even then, and all the week he just keeps on working, working, working, working, working, working! There are thousands upon thousands of our fellow men whose life consists in going round, and round, and round, and round, and round, and round like a poor horse in a mill, never getting a bit further. They are just where they were when they were young and they know no more than they did then. They are just consumers of so much bread and meat—that is about all they are—and sometimes there is not enough of that to satisfy them.
 
@@ -112,7 +109,6 @@ Verses 29-32. And Jesus departed from there and came near unto thee sea of Galil
 36\. And He took the seven loaves and the fishes, and gave thanks, and broke them, and gave to His disciples, and the disciples to the multitude. Notice the order of our Lord's action—thanksgiving first, and then the breaking of the bread. We do not always thank God for what we have already received, but the Lord, here, sets us the example of giving thanks for what is yet to come. For the multiplied loaves and fishes, He first gives thanks, and then passes them to His disciples to hand to the multitude.
 
 37-39. And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full And they that did eat were four thousand men, beside women and children. And He sent away the multitude, and took ship, and came into the coasts of Magdala.
-
 
 ---
 [[Sermon 2544 The One and the Many|← #2544]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2546 A Message to the Glad and the Sad|#2546 →]]

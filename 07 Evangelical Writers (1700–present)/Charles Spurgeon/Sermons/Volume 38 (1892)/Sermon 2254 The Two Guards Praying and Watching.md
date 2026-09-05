@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # The Two Guards Praying and Watching
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2254
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them." Nehemiah 4:9.
 
@@ -113,7 +110,7 @@ The Lord grant that it may come to many of you! "Seek you the Lord while He may 
 
 Portion of Scripture Read before Sermon—Nehemiah 4. HYMNS FROM "OUR OWN HYMN BOOK"—994, 999, 668.
 
-EXPOSITION BY C. H. SPURGEON NEHEMIAH 4:1-23
+## Exposition by C. H. Spurgeon Nehemiah 4:1-23
 
 Verse 1. But it came to pass, that when Sanballat heard that we built the wall, he was angry and took great indignation, and mocked the Jews. It was necessary to rebuild the wall of Jerusalem which had been lying in ruins. They went on pretty briskly, for everyone had a mind to work. There never was a good work yet but what there were some to oppose it—and there never will be till the Lord comes! Sanballat heard what the Jews were doing and he was very angry. "He was angry and took great indignation." He was all on fire with anger that God's work was being continued.
 
@@ -160,7 +157,6 @@ counsel to nothing, that we returned all of us to the wall, every one unto his w
 22\. 23. Likewise at the same time said I unto the people, Let everyone with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labor on the day. So neither I, nor my brethren, nor my servants nor the men of the guard which followed me, none of us put off our clothes. Nehemiah was a good leader. He did not say, "Go." He said, "Come"—and he bore the brunt of the service! Like Alexander, who went with the Macedonians into the rough places, and did the hard work, so did Nehemiah. He and those with him did not put off their clothes, even for sleeping.
 
 23\. Saving that every one put them off for washing. Which was necessary, for cleanliness is next to godliness. May the Lord send us more Nehemiahs and plenty of people to work with them who can endure hardness as good soldiers of Jesus Christ, and who will also be good builders of the Church of God!
-
 
 ---
 [[Sermon 2253 The Perseverance of Faith|← #2253]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2255 God Justified, Though Man Believes Not|#2255 →]]

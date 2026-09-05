@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 39. Decade 3, Sermon 10, Part 2
 
 [Rom. iu. from the filthiness of sins. And Paul saith : " All have sinned,
@@ -25,8 +24,6 @@ The Lord in the gospel saith to Nicodemus : " Verily, I say unto thee, unless a 
 [3 Amen dico tibi, Lat. omitted ; Verily, I say unto thee.]
 
 [( et spiritu, Lat.] [5 e coelo, Lat.]
-
-396 THE THIRD DECADE.
 
 Paul in his second chapter to the Ephesians saith : " We were by nature the sons of wrath, even as other." In which words he pronounceth that all men are damned. For all those that are damned, or are worthy of eternal death, and all such with whom God hath good cause to be offended, he calleth the sons of wrath, after the proper phrase of the Hebrew speech. For the wrath of God doth signify the punishment which is by the just judgment of God laid upon us men. And he is called the child of death, which is adjudged or appointed to be killed. So is also the son of perdition, &c. Now mark, that he calleth us all the sons of wrath, that is, the subjects of pain and damnation, even by nature, in birth, from our mother's womb. But whatsoever is naturally in all men, that is original : therefore original sin maketh us the sons of wrath ; that is, we are all for our original corruption made subject to death and utter damnation. This place of Paul for the proof of this argument is worthy to be remembered1.
 
@@ -52,8 +49,6 @@ tie doth not absolutely say that the sm or transgression lJR°miv- (which is sin
 
 [6 Peccatum bifariam in evangelica doctrina accipitur: primum, pro morbo isto, quern ex generis auctore contrahimus, quo amori nostri addictis suuin . . . Eum morbum intelligit Paulus Rom. vii. quum dicit,
 
-398 THE THIRD DECADE. [sERM.
-
 did diligently distinguish betwixt sin and disease or infirmity, when once he had occasion to dispute of original sin, which he chose rather to call a disease than sin : because by the name of sin all men do understand the naughty act committed by our own consent and will against the law of God ; but by the name of disease or sickness they understand a certain corruption and depravation of the nature that was created good, and the miserable condition of bondage whereinto it is brought : even as also we read1 before, that Augustine did call this original sin peccatum alienum, another's sin, that thereby he might give us to understand that it is hereditary, and doth descend from others into us; and yet he denied not but it is proper to every several one of us. In like manner Zuinglius denied not original sin, as some did falsely slander him: he thought not that by itself it is unhurtful to infants, but so far forth as it is by the grace of God, through the blood of Jesus Christ, in the virtue of God's promise and covenant, made harmless unto them2. His mind was to make an exquisite difference betwixt the actual and original sins3. For in rendering an account of his faith in the council held at
 
 Jam non ego operor illud, sed inhabitans in me peccatum . . . Secundo loco accipitur peccatum pro eo quod contra legem fit ; ut, per legem cognitio peccati. Rom. vii. Actio ergo qusecunque tandem, quse contra legem fit, peccatum appellatur. — Zuingl. de Vera et Falsa Relig. Comment, p. 116. Tiguri. 1525.] f1 audivimus, Lat. ; heard, ed. 1577.]
@@ -70,8 +65,6 @@ There is now remaining the other effect of original sin for original sin me to e
 
 [° aut scaturigo aquam peronniter profundit, Lat.j
 
-400 THE THIRD DECADE. [sERM.
-
 Galatians doth reckon up no small number of the works of the flesh ; even as he doth the like also in the first and third chapters of his epistle to the Romans. In the fourth to the Ephesians he doth very properly l describe those works of the flesh, which spring out of the natural corruption of all them2 which are not regenerate by the Holy Ghost. " This I say," saith he, " and testify unto you3, that ye henceforth walk not as other Gentiles walk, in vanity of their mind ; darkened in cogitation, being alienated from the life of God by the ignorance that is in them, by the blindness of their hearts : which being past feeling have given themselves over unto wantonness, to work all uncleanness with greediness." This, though it be but little, shall suffice for this place ; for I will more largely prosecute it in the treatise of actual sin : to the handling whereof I will presently pass, so soon as I have by the way admonished you, that I have not without good cause thus far in many words spoken of the cause of original sin, that is, of man's depravation and the corruption of all his strength, on these For as in these are opened the veins of pure doctrine, so foundations in them are placed the foundations of our faith and whole of our faith are laid. belief. For if there be no original sin, then is there no grace : or if there be any, yet shall it have nothing to work in us. If our own strength is whole and sound, then have we no need of any physician. In vain therefore came the Son of God into the world4; for then shall men be saved by their own strength and ability : and so shall the foundation of our faith be quite turned upside down. Therefore St Augustine is very vehement in this cause ; whose golden words I will recite unto you, dearly beloved, out of his second book De Originali Peccato contra Pelagium et Ccelestium. In the twenty-third and twenty -fourth chapters I find written as followeth: "There is great diversity in these questions, which are thought to be beside the articles of faith, and those wherein (keeping sound the faith whereby we are Christians) it is either not known what is true, and so the sentence definitive is suspended ; or else it is otherwise guessed at by human and unassured suspicion than the thing itself in very deed is : as for example, when it is demanded of what sort and where
 
 [i graphice, Lat.] [2 in omnibus, Lat.]
@@ -81,8 +74,6 @@ Galatians doth reckon up no small number of the works of the flesh ; even as he 
 God and one Mediator of God and man, the man Christ Jesus ; of two men. because there is none other name under heaven given unto men in which they must be saved; and in him hath God appointed all men to trust, raising him up from death to life. Therefore Christian verity doubteth not but that without this faith, that is, without the faith of the only Mediator of God and man, the man Christ Jesus ; without the belief, I say, of his resurrection, which God hath prescribed to men, which cannot be truly believed without the belief of his incarnation and death ; without the faith therefore of the incarnation, death, and resurrection of Christ, none of the ancient just men could be cleansed and justified of God from their sins : whether they were in the number of those just men whom the holy scripture mentioneth ; or in the number of those just men whom the scripture nameth [not], and yet are to be believed to have been either before the deluge, or betwixt the deluge and the law, or in the very time of the law ; not only among the children of Israel, as the prophets were, but also without that people, as Job was. For even their hearts were cleansed by some were the same faith of the Mediator, and charity was poured into israei, but them by the same Holy Spirit, which breatheth where he listeth, chrut. not following after merits, but even working the very merits r i 26
 
 [BULLINGER, n.J
-
-402 THE THIRD DECADE. [sERM.
 
 themselves. For God's grace will not be by any means, unless it be free by all means. Although therefore death reigned from Adam unto Moses, because the law given by Moses could not overcome it ; for there was no such law given as could quicken, but such a law as whose office was to shew, that the dead, to the quickening of whom grace was necessary, were not only overthrown by the propagation and dominion of sin, but were also condemned by the hidden l transgression of the very law itself ; not that every one should perish that did then understand it in the mercy of God, but that every one, being through the dominion of death appointed unto punishment and detected to himself by the transgression of the law, should seek for the help of God; that where sin abounded, grace might more abound, which alone doth deliver from the body of this death. Although therefore the law given by Moses could not rid any man from the kingdom of death, yet in the very time of the law were the men of God not under the terrifying, convincing, and punishing law, but under the delectable, saving, and delivering grace. There were among them some which said, 'In iniquity was I conceived, and in sin hath my mother fed me in her womb 2.' " And so forth ; for hitherto I have cited the very words of St Augustine.
 
@@ -98,8 +89,6 @@ nos salvos fieri, et in illo definivit Deus fidem omnibus, suscitans ilium a mor
 
 26—2
 
-404 THE THIRD DECADE. [sERM.
-
 The cause of g0 then by this the cause of actual sin is known to be the actual sin. J very corruption of mankind, which sheweth forth itself through concupiscence and evil affections : affections entice the will; and will, being helped with the other faculties in man that work together with it, doth finish actual sin. And that ye may more clearly perceive that which I say, I wish you to note, that our mind hath two parts : the understanding, or reason, or judgment ; and the will or appetite. In the reason are the laws of nature, whereunto must be added the preaching, or reading, or knowledge of God's word. And now, as of good works in man there are two especial causes, to wit, sound judgment well framed by the word of God, and a will consenting and obeying thereunto, (and yet notwithstanding there is principally to be required the coining to of the Holy Ghost from heaven1, to illuminate the mind and move forward the will ;) even so we may most properly say that actual sin is finished, when any thing is of set purpose, with advised judgment and the consent of our will, committed against the law of God. And yet to these there do many times happen other outward causes both visible and invisible ; for evil spirits move men, and evil men2 move men, and other infinite examples of corruption that are in the world. Hope, fear, and weakness, do also move men. Augustine, Qucest. in Exodum xxix. saith: "The beginning of vice is in the will of man : but the hearts of men are moved by sundry accidental causes, now this, now that ; sometimes the causes are all one ; the difference is in the manner and order, according to every one's proper qualities, which do arise of every several will3." Again in the seventy-ninth psalm he saith : " Two things there are that work all sins in mortal men, desire and fear. Consider, examine, and ask your hearts, search your consciences, and see, if any sins can be but by desiring, or else by fearing. Thou art promised, if thou wilt sin, to have such a reward given thee as thou dost delight in ; and for desire of the gift thou crackest thy conscience, and dost commit sin. And again on f1 extrinsecus aut ccelitus accedens, Lat.]
 
 [2 homines, Lat. ; -not evil men.]
@@ -107,8 +96,6 @@ The cause of g0 then by this the cause of actual sin is known to be the actual s
 [3 In voluntate quippe hominis est origo vitiorum ; moventur autem causis corda hominum, alia sic, alia vero sic ; etiam non dirersis causis, ssepe diverse modo secundum proprias qualitates quee ex voluntatibus veniunt. — August. Opp. Tom. iv. fol. 29. col. 2.] the other side, though peradventure thou wilt not be seduced with gifts, yet being terrified with threatenings thou dost, for dread of that which thou fearest, commit the iniquity that otherwise thou wouldest not. As for example, some one man or other would with gifts corrupt thee to bear false witness. Thou presently hast turned thyself to God, and hast said in thy heart, 'What doth it advantage a man, if he gain the whole world, and suffer the loss of his own soul ?' I will not be hired with gifts to lose my soul for the gain of money. Thereupon he, which before enticed thee, doth now turn himself to terrify thee ; and for because his gifts did fail to hire thee, he beginneth to threaten unto thee damage, banishment, wounds, and death. In such a case now if greediness could not, yet fear perhaps might cause thee to sin4." The same Augustine again, in his book De Sermone Domini in Monte, saith : " Three things there be by which sin is accomplished, suggestion, delectation, and consent. Suggestion, whether it be wrought by the memory, or senses of the body ; as when we see, hear, smell, taste, or touch any thing. Now if we be delighted to have it, that unlawful delight must be restrained : as for example, when we fast, if at the sight of meat our appetite do arise, it is not done without delectation : but we must not give our consent to that delectation, but suppress it with the power of reason ; for if the consent be given, then is the sin accomplished. These three things are correspondent to the circumstances of the history that is written in Genesis : so that of the serpent was made that suggestion; in the carnal appetite, as in Eva, was the delectation ; and in reason, as in Adam, did the full consent appear : which being finished,
 
 [4 Omnia peccata duse res faciunt in homine, cupiditas et timor. Cogitate, discutite, interrogate corda vestra, perscrutamini conscientias ; videte utrum possint esse peccata, nisi aut cupiendo aut timendo. Proponitur tibi prsemium, ut pecces ; id est, quod to delectet : facia propter quod cupis. Sed forte non induceris donis, terreris minis : facis propter quod times. Corrumpere te vult aliquis ut dicas, verbi gratia, falsum testimonium . . . Attendisti tu Deum, et dixisti in animo tuo, Quid prodest homini, si totum mundum lucretur, animse autem suse detrimentum patiatur ? Non adducor praemio ut perdam animam meam pro lucro pecuniae. Convertit ille se ad incutiendum metum, qui prsemio corrumpere non valuit; incipit minari damnum, et expulsionem, csedes, fortassis mortem. Ibi jam si cupiditas non valuit, forte timor valebit ut pecces. — Id. Tom. vui. fol. 185. col. 4.]
-
-406 THE THIRD DECADE. [sERM.
 
 man is expelled as it were out of paradise, that is, out of the blessed light of righteousness into death and damnation1." Thus much saith Augustine touching the cause of sin. sinisrepugBut here we must especially note in the definition of nant to the . , •!•/*• i i • jaw of God. actual sin the very property or difference, whereby this action is discerned from all other actions, and whereby the most proper note of sin is made manifest. This action therefore, even as all sins else do, doth directly tend against God's law. But what the law of God is, I have in my former sermons at large declared. Verily, it is none other but the very will of God. Now the will of God is, that man should be like unto his2 image, that is, that he should be holy, innocent, and so consequently saved.
 
@@ -128,8 +115,6 @@ And although this might seem to be sufficient, as that The which hath sufficient
 
 [6 A Joviniano quodam monacho ista hseresis orta est setato nostra, cum adhuc juvenes essemus. Hie omnia peccata, sicut Stoici philosophi, paria esse dicebat, &c. — Aug. de Hseres. No. 82. Tom. vi. fol. 7. col. 1.]
 
-408 THE THIRD DECADE. [sERM.
-
 rMatt xxiii. " Woe to you, scribes and Pharisees, hypocrites ! which devour widows' houses under the pretence of long prayer : therefore shall you receive the greater damnation." And
 
 [Matt x. is.] again ; "It shall be easier," saith the Lord, " for the land of Sodom in the day of judgment, than for the city" that rejecteth the preaching of the gospel. Likewise in the eleventh of Matthew he saith : " It shall be easier for Tyre and Sidon in the day of judgment, than for you." To Pilate also he
@@ -145,8 +130,6 @@ the very affection or desire of man. But I have already told you, that affection
 Sceiera are those heinous crimes which are conceived and^ommitted of set purpose and pretendeoTmalice : of which sort arc those especially which are called the crying sins, as Peccata murder, usury, oppression of the fatherless and widows, sodomy, and the withheld hire of the needy labourer. For touching murder, the voice of the Lord in Genesis saith : " The voice of thy brother's blood crieth unto me." And in [Gen. IT. 10.] the twenty-second of Exodus he saith : " If ye vex the fatherless and widows, and they cry to me, I will hear them and slay you." The word of God doth with bitter quips bate usury and ultOTlV condemn it. Tile1 ymruf the Quduwltes ascended up to Oflaren, MQttbnng vengeance to light upon the villanous beasts3. And James the apostle saith: " Behold, [James *• 4-l the hire of the labourers which have reaped down your fields, which hire of you is kept back by fraud, crieth ; and the cries of them which have reaped are entered into the ears of the Lord of sabaoth." To these sins other men do also annex The seven
 
 - ii i_ ____ j __^_j^ i ._, __ — principal tbote ietcn rinmM,' ™fflfl, f'de or sloth, covetousness, gluttony, and lechery. Yea, they make ^ these the seeds and first beginnings of all sins and wickedness, [2 unadvisedly, not in Lat.] [3 to light— beasts, not in Lat.]
-
-410 THE THIRD DECADE. [SERM.
 
 and therefore do they call them the principal sins ; as is to be seen in the Sentences of Peter Lombard l.
 
@@ -166,7 +149,7 @@ Furthermore we call that false and counterfeit ignorance, which is of very malic
 
 [5 Domino donante respondeo, Habere illos excusationem, non de omni peccato suo, sed de hoc peccato, quo in Christum non crediderunt, ad quos non venit, et quibus non est locutus . . . Restat inquirere, utrum hi qui priusquam Christus veniret in ecclesiam ad gentes, et priusquam evangelium ejus audirent, vitse hujus fine praeventi sunt seu prceveniuntur, possunt habero hanc excusationem ? Possunt plane, sed non ideo possunt effugere damnationem. Quicunque enim sine lege peccaverunt, sine lege peribunt. — Id. Expos, in Evang. Joan. Tract. LXXXIX. Tom. IX. fol. 94. col. 3, 4.]
 
-THE THIRD DECADE.
+## The Third Decade
 
 [sERM.
 
@@ -196,7 +179,7 @@ To proceed now ; if consent be not given, but mere and unavoidable violence is o
 
 [8 laude et vituperationc, Lat. ; praise and blame.] [( Aug. de Mend, ad Consentium, 9. and 10. Tom. iv. fol. 3. col. 4. and fol. 4. col. 1, 2.]
 
-THE THIRD DECADE.
+## The Third Decade
 
 [sERM.
 
@@ -219,8 +202,6 @@ So also we must think the best of the unwilful death of men Desicle their wits, 
 [6 Si pugnare non vultis, licet fugere. — Senec. do Provident, cap. 6. In his Comment, in Matth. chap. xvi. 25. Lib. vii. p. 613, Bullinger's reference on this topic is to Senec. ad Lucil. Ep. 71.]
 
 [7 et peccent, Lat. omitted ; and commit sin.]
-
-416 THE THIRD DECADE. [sERM.
 
 sleepeth1 !" Thus much out of Augustine : now do we return to our purpose again.
 
@@ -246,8 +227,6 @@ First of all here is demanded, Whether that sin or disJJ^fJI1^ ease, which after
 
 [BULLINGER, ir.]
 
-418 THE THIRD DECADE. [sERM.
-
 infants after deed? Now it is manifest, that concupiscence remaineth in affor^o* a them that are baptized ; and that concupiscence is sin ; and therefore that sin remaineth in them that are baptized : which sin, notwithstanding, is through the grace of God in the merit of Jesus Christ not imputed unto them. So did St Augustine resolve this knot in the first book De Peccatorum Meritis et Remissione, cap. 39, where he saith : " In infants verily it is so wrought by the grace of God, through the baptism of him that came in the likeness of sinful flesh, that the flesh of sin should be made void. And yet it is made void so, not that the concupiscence which is spread and bred in the flesh, while it liveth, should of a sudden be consumed, vanish away, and not be; but that it should not hurt him now being dead, in whom it was even at his birth. For it is not given in baptism to them of more years, that the law of sin which is in their members contrary to the law of their mind should utterly be extinguished and not be at all ; but that all the evil, whatsoever is said, done, or thought of man, when with his captive mind he served that concupiscence, should be utterly wiped out, and so reputed as though it never had been done1." Thus much hath Augustine, whether Another question is, Whether those works, that the Gen- the virtuous .
 
 h(^rthenfaree *^es ^°) which have a shew of virtue and goodness, are sins, ? or e^se gOO(j WOrks ? It is assuredly true, that God even among the Gentiles also had his elect. Now so many such as were among them were not without the Holy Ghost and faith. Therefore their works which were wrought by faith were good works, and not sins. For in the Acts of the Apos-
@@ -259,8 +238,6 @@ C Acts x. 2, 4.] ties mention is made, that the prayers and alms-deeds of Cornel
 Lastly they do demand, Whether the good works of the ^* saints and faithful ones be sins or no ? Verily, if thou re- $*** spectest our corruption and infirmity, then all our works are no? sins, because they be the works of us which are ourselves not without filthy spots ; and therefore the works which be wrought by us cannot be so perfect as otherwise they ought to be in the sight of God. And yet the very same works, for the faith's sake in us and because we are received into the grace of God, and that therefore they are wrought of us which are now by grace the sons of God, both are indeed and also called good3. For to this end tendeth that saying of the apostle : " With the mind the same I, or even I, do serve rRom. the law of God ; but with the flesh the law of sin." Lo here, one and the same apostle, even being regenerate, doth retain in himself two sundry dispositions ; so that his very work, working in divers respects, is both sin and a good work also. For inasmuch as in mind he serveth God, so far forth he doth a good work ; but insomuch as he again did serve the law of [2 Certe, Lat. ; unquestionably.] [3 and also called, not in Lat.]
 
 27—2
-
-420 THE THIRD DECADE. [SERM.
 
 the flesh, therein his work is not without a spot. For he himself a little before in the same seventh chapter said: "I find, when I would do good, that evil (TrapdiceiTai, that is to say) is present with, by, and in me1:" which evil undoubtedly, making always a shew of itself in all our words, works, and thoughts, doth cause that the work which is done of us, when we are regenerate, cannot be so pure as God's justice doth look that it should be. By the grace therefore and the mercy of God it is reputed and esteemed as pure.
 
@@ -283,8 +260,6 @@ Wherefore the property of the sin against the Holy Ghost is, not only to revolt 
 But now the course of the matter requireth to hear what the Lord said in the gospel concerning this sin. In the twelfth
 
 [7 execrandos, Lat. ; guides is the translator's addition.] [8 ornant, Lat.]
-
-422 THE THIRD DECADE. [sERM.
 
 of Matthew he saith : "Every sin and blasphemy shall be forgiven unto men; but the blasphemy against the Holy Ghost shall not be forgiven unto men. And whosoever speaketh a word against the Son of man, it shall be forgiven him ; but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, nor in the world to come." The same sentence of our Saviour is thus expressed in the third chapter of St Mark's gospel:1 "All sins shall be forgiven unto the children of men, and blasphemies wherewith soever they shall blaspheme : but he that speaketh blasphemy against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation." In the twelfth chapter after St Luke these words in a manner are uttered thus: "Whosoever speaketh a word against the Son of man, it shall be forgiven him ; but unto him that blasphemeth the Holy Ghost it shall not be forgiven." In these words of the Lord we have here mention made of blasphemy against the Son of man, and of blasphemy against the Holy Ghost : of which that against the Holy Ghost is utterly unpardonable, but that against the Son Blasphemy of man is altogether venial. Blasphemy against the Son of against the . P . r » ° son of man. man is committed of the ignorant, which are not yet enlightened ; and doth tend against Christ, whom the blasphemer doth think to be a seducer, because he knoweth him not. Such blasphemers the word of the Lord doth manifestly testify that Paul himsejf before his conversion and a great part of the Jews were ; for upon the cross the Lord prayed, rLukewiii. crying : "Father, forgive them ; for they wot not what they
 
@@ -312,8 +287,6 @@ As this sin is of all other the filthiest, so is it not venial, sin but utterly 
 
 [10 perstans, Lat. ; obstinate.]
 
-424 THE THIRD DECADE. [SERM.
-
 salvation1. Wherefore St Paul in the tenth to the Hebrews saith : "If we sin willingly after we have received the knowledge of the truth, there remaineth no more sacrifice for sins, but a fearful looking for of judgment and violent fire, which shall devour the adversaries." Now, I pray you, what is it to sin willingly ? Forsooth, to sin willingly is not to sin through infirmity, or oftentimes to fall into one and the same sin : but to sin willingly is with a most stubborn contempt to sin ; as they are wont to do, which wittingly and willingly do reject and spurn at the grace of God, not ceasing to make a mock of the cross and death of Christ, as though it were foolish and not sufficiently effectual to the purging of all our sins : for to such there is prepared none other sacrifice for sins. And -such the apostle calleth the adversaries, that is, the contemners and enemies of God. And therefore the same apostle in the sixth chapter of the same epistle saith: "It cannot be that they which were once lighted, and have tasted of the heavenly gift, and were become partakers of the Holy Ghost, and have tasted of the good word of God, and the powers of the world to come, and they fall away, should be renewed again into repentance ; crucifying to themselves the Son of God afresh, and making a mock of him." He speaketh not here of every fall of the faithful ; but of wilful and stubborn apostasy. For Peter fell and was restored again through repentance : which happeneth to more than Peter alone ; for all sinners are through repentance daily restored. But unrepentant Judas is not restored, because he was a wilful2 apostate. Mockers and blaspemers are not restored through repentance, because they do obstinately stand against the known verity, and cease not to blaspheme the way by which alone they are to be led unto eternal life. Therefore those places of St Paul do make never a whit for the Novatians3, but do expound to us the nature and envenomed force of the sin against the Holy Ghost.
 
 St John the apostle and evangelist, disputing of this sin in kis canonical epistle, saith : "If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin
@@ -331,8 +304,6 @@ St John the apostle and evangelist, disputing of this sin in kis canonical epist
 [7 malus ille, Lat.]
 
 [8 Peccatum in Spiritum Sanctum est finalis impcenitentia : do qua dicit Aug. — Gratian. Decret. Par. n. caus. 1. qusest. 1. cap. 81. p. f 73. Par. 1583. The treatise De Ver. et Fals. Pcenitent. in which occur the words, — Soli peccant in Spiritum Sanctum, qui impcenitentes existunt usque ad mortem, — is considered to be spurious.]
-
-426 THE THIRD DECADE. [sERM.
 
 of the just And although I have already, in the handling of original and certain . . • i TT i /•* of Snnmnt sm an(* sm agamst ^e Holy Ghost, partly touched the effects of sin ; yet to conclude this treatise withal, I will briefly shew you somewhat touching the just and assured punishment that shall be laid upon sinners. For in the definition of sin I said, that sin brought upon us the wrath of God with death and sundry punishments : of which in this place I mean to speak. It is as manifest, as what is most manifest, by the scriptures, that God doth punish the sins of men, yea, that he punisheth sinners for their sins. For many places in the scriptures declare, that God is angry and grievously offended at the sins of
 
@@ -372,8 +343,6 @@ But how great and what kind of punishment is due to every fault and several tran
 
 [13 prophetam, Lat. omitted; the prophet.]
 
-428 THE THIRD DECADE. [sERM.
-
 with the Lord because of his judgments: for he sheweth that he hath justly a care of the infants, yea, and of the cattle in Ninive. The place is extant1 in the fourth chapter of the prophecy of Jonas. Let us therefore stedfastly hold, that the Lord, when he punisheth, doth injury to no creature which he hath made. Here therefore the disputations and questions come to an end, wherein men are wont to demand, Why the Lord doth sometimes use so sharp torments towards infants or sucklings ? or why he rewardeth temporal offences
 
 Ij psaim cxiv. with eternal punishments ? " For the Lord is righteous in all his ways, and holy in all his works." As David did most truly witness, where as in another place he saith : " Thou art rpsaim cxix. just, O Lord, and thy judgment is right." Blessed is he that stumbleth not here, and doth not murmur against the Lord.
@@ -391,8 +360,6 @@ If hereafter therefore thou shalt chance to see the wicked live in prosperity, t
 [5 primum — deinde, Lat. omitted; first, and then.] [a Cf. above, pages 6—13.]
 
 [7 justi judicii, Lat. ; the justice of God's judgment.] [8 prseterea, Lat. omitted; besides.]
-
-430 THE THIRD DECADE. [sERM.
 
 nation and wrath, tribulation and anguish, upon every soul of man that doth evil." This, I say, let us firmly hold, and with this let us content ourselves, not grudging to see1 the wicked live long in prosperity without pain or punishment. The holy, just, wise, and mighty God knoweth best what to do, how to do, why and when to do everything conveniently. To him be glory for ever and ever. Amen.
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 142
-
-**PSALM 142**
 
 When Saul came into the cave where David lay concealed, this saint of God might upon such an occurrence have been either thrown into consternation, or led by his alarm into some unwarrantable step, it being common for persons in despair either to be prostrated with dismay, or driven into frenzy. But it appears from this Psalm that David retained his composure, relying with assured confidence upon God, and resigning himself to vows and prayers instead of taking any unauthorized steps.
 

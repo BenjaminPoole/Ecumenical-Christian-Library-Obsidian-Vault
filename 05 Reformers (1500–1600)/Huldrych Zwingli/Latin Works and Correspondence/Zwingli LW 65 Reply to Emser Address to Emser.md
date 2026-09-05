@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 65. Reply to Emser: Address to Emser
 
-REPLY OF HULDREICH ZWINGLI TO JEROME EMSER DEFENDER OF THE CANON OF THE MASS
+*Reply of Huldreich Zwingli to Jerome Emser Defender of the Canon of the Mass*
 
 (August 20, 1524)
 

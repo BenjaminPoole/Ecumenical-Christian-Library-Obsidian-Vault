@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 15
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE SECOND CONFERENCE OF ABBOT NESTEROS. ON DIVINE GIFTS.
+## The Second Conference of Abbot Nesteros. On Divine Gifts
 
 ## Chapter 1
 

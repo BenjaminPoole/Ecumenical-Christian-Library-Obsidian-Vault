@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 35. III. Touching the Abolition of Idolatry
-
-### III. Touching the Abolition of Idolatry.
 
 As we require Christ Jesus to be truly preached, and His holy Sacraments to be rightly ministered; so can we not cease to require idolatry, with all monuments and places of the same, as abbeys, monasteries, friaries, nunneries, chapels, chantries, cathedral kirks, canonries, colleges, others than presently are parish kirks or schools, to be utterly suppressed in all bounds and places of this realm, except only the palaces, mansions, and dwelling places adjacent thereto, with orchards and yards of the same. As also that idolatry may be removed from the presence of all persons of whatsoever estate or condition within this realm.
 

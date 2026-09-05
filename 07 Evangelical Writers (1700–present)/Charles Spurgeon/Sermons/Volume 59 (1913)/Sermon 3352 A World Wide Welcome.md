@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # A World Wide Welcome
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3352
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come unto Me, all you that labor and are heavy laden, and I will give you rest." Matthew 11:28.
 
@@ -43,7 +40,7 @@ moment he feels that and then takes Christ to be his fullness, his trust, his Al
 
 But to come to Christ implies a little more than even this, if we would get the perfection of it and the completeness of the rest which is promised. When I come to Christ and trust in Him to be my Savior, I am then to continue to come to Him by following in His footsteps, obeying His precepts, drinking in His spirit, and serving His cause. Brothers and Sisters, we are all, as His people, constantly coming to Him! "To whom coming," says the Apostle, "as unto a living stone"—not, "to whom we have come, and there is an end of it," but to whom we are always coming! We are like the country people who do not live by experience of having gone to the well seven years ago, but they go every day and dip the pitcher in afresh. We are like in our souls what we are in our bodies—we do not grow fat and flourishing on the experience of having eaten a good meal 20 years ago, but it is by daily coming to the table and continually receiving fresh food for the sustenance of our bodies! And, Brothers and Sisters, to get perfect peace through Jesus Christ, there must be a daily, an hourlycoming to Him in constant trust, in faithful obedience and in holy fellowship, striving to be conformed to His image. "Come unto Me,"then, says the Savior, "all you that labor and are heavy laden." He picks out you working men and He says, "Come and hear what I have got to say. Believe it, accept it, trust it and I will give you rest." He finds out you merchants who toil so much that the brain sometimes gives way, and He says, "Now, come. Come to Me and I will give you rest. You expect to get it when you retire from business and go to your country house—but even now, if you come to Me, you shall have a rest that no suburban retreat, no accumulation of wealth, no immunity from the strain of business can ever give you! I can make that heart beat at an easier rate. I can cool that hot blood that is now coursing through your veins at such speed. I can bathe your spirit in a sleep that shall be like an infant's slumber, soft and light—and I can do this for you while you are striving to be rich, or while you are poor, while your losses are great, while your friends are falling like autumn leaves and while your fears are howling in your ears like winter's winds! I can give you rest, perfect rest, if you come to Me." If you come to Him, believe what He says, trust Him entirely, rest and repose in Him and you shall get for your souls that Paradise which they so much need, of perfect peace! Having noticed the persons addressed and the invitation given, let us observe—
 
-III. OUR LORD'S DESCRIPTION OF THE BLESSING WHICH IS TO BE GIVEN TO SUCH WHEN THEY
+## III. Our Lord's Description of the Blessing Which Is to Be Given to Such When They
 
 COME. "I will give you rest."
 
@@ -87,7 +84,7 @@ It will be a rest from all sin! A rest from all temptation to sin! A rest from a
 
 And this is for you, laboring and heavy laden one! This is for you, son of poverty! For you, daughter of sorrow! This is for the inmate of the poorhouse, the dweller in the alms room. This is for the crossing sweeper, this is for the toiling artisan. This is for the burdened merchant. This is for the care-worn statesman. This is for the minister who serves his Master till he is weary in his work! This is for us all if we have, by the Holy Spirit, through Divine Grace, been led to come to Jesus! That is the point. Do you believe on the Son of God? Dear Hearer, do you believe Jesus to have been God's Son, and to have died as the Substitute for sinners? And will you trust in Him as such, wholly and only? Will you venture on Him, and venture on Him now? If so, here is His promise, "He that believes and is baptized shall be saved." If you believe Him, you shall have salvation now! Obey Him! Be baptized as He commands you, and you shall thus have the blessing which God gives to all who trust in the slain Lamb of God!
 
-EXPOSITION BY C. H. SPURGEON: JOHN61-41.
+## Exposition by C. H. Spurgeon: John 61-41
 
 Verses 1-5. After these things Jesus went over the sea of Galilee, which is the sea of Tiberias. And a great multitude followed Him, because they saw His miracles which He did on them that were diseased. And Jesus went up into a mountain, and there He sat with His disciples. And the Passover, a feast of the Jews, was near When Jesus then lifted up His eyes, and saw a great company come unto Him. They had been hearing Him all day and He had withdrawn a little from them, but they pursued Him up the hill—and I doubt not that as they toiled up the hill, they showed their faintness and their weariness which led the Savior to see how much they needed refreshment.
 
@@ -156,7 +153,6 @@ was not come to them." Have you never been in that condition? Dark, dark, dark, 
 35-37. And Jesus said unto them, I am the bread oflife. He that comes to Me shall never hunger. And he that believes on Me shall never thirst. But I say unto you, That you also have seen Me, but believe not. All that the Father gives Me shall come to Me and him that comes to Me, I will in no wise cast out. What a striking Truth of God that was, with which to reply to them! You only come after Me for bread, but you do not come after spiritual things. You do not believe in Me. But, even if you do not, I shall not be disappointed, and My work will not fail. God has an election of Grace and that election shall be carried out. "All that the Father gives Me shall come to Me." And then, as if to cheer them up again, He says, "Him that comes to Me I will in no wise cast out."
 
 38-41. For I came down from Heaven, not to do My own will, but the will of Him that sent Me. And this is the Father's will which has sent Me, that of all which He has given Me, I should lose nothing, but should raise it up again at the last day. And this is the will of Him that sent Me, that everyone which sees the Son, and believes on Him, may have everlasting fife: and I will raise him up at the last day. The Jews then murmured at Him, because He said, I am the bread which came down from Heaven. And there you see Christ has got no farther with them but to leave them murmuring! And I believe that often the true minister of God must expect to see no other result come of faithful testimony than for the people to murmur at him. But what if it is so? Will his Master blame him? No. No more than He blamed the Only-Begotten. It must be so that there may be a separation between the precious and the vile—that God's chosen may be drawn out! While such as believe not shall be judged and, in their own consciences, shall be condemned.
-
 
 ---
 [[Sermon 3351 The Queen of Sheba|← #3351]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3353 The Great Teacher and Remembrancer|#3353 →]]

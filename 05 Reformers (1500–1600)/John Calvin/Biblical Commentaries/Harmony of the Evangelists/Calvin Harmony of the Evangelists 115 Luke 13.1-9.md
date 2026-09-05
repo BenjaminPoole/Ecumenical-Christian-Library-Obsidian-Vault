@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 115. Luke 13:1-9
-
-**Luke 13:1-9**
 
 **1**. And at that time some were present, who told him of the Galileans, whose blood Pilate had mingled with their sacrifices. **2**. And Jesus answering said to them, Do you imagine that these Galileans were sinners beyond all the Galileans, because they suffered such things? **3**. I tell you, no; but unless you repent, you will all perish in like manner. **4**. Or those eighteen, on whom the tower in Siloah fell and slew them, do you imagine that they were debtors beyond all men that dwell in Jerusalem? [^1] **5**. I tell you, no; but unless you repent, you shall all perish in like manner. **6**. And he spake this parable: A certain man had a fig-tree planted in his vineyard, and came seeking fruit on it, and did not find it. **7**. And he said to the vine-dresser, Lo, there are three years that I come seeking fruit on this fig-tree, and find none: cut it down; why does it even occupy the ground? [^2] **8**. But he answering, said to him, Lord, let it alone this year also, till I shall dig about it, and dung it: **9**. And if it bear fruit: [^3] but if not, afterwards thou shalt cut it down.
 

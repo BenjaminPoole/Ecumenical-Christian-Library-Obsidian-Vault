@@ -10,14 +10,13 @@ written: "c. 1730s–1750s (preached; published in Edwards' collected Works)"
 tags:
   - jonathan-edwards
 ---
-
 # SEVEN SERMONS
 
 #### ON
 
 ## IMPORTANT SUBJECTS.
 
-*VIZ.*
+## *Viz.*
 
 #### THE BEST PORTION.
 
@@ -101,7 +100,7 @@ He who sincerely prefers God to all other things in his heart, will do it in his
 
 ### THE SOLE CONSIDERATION, THAT GOD IS GOD, SUFFICIENT TO STILL ALL OBJECTIONS.
 
-TO HIS SOVEREIGNTY.
+## To His Sovereignty
 
 Psalm xlvi. 10.
 

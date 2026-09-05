@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Safe, Though Surrounded By Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3535
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Unto You will I cry, O Lord, my Rock. Do not be silent to me, lest if You are silent to me, I become like those who go down to the pit." Psalm 28:1.
 
@@ -27,7 +24,7 @@ I HAVE no doubt that the first and most natural meaning of these words is this, 
 
 But in reading the other day Masillon's Reflections of the Psalms, I noticed that that eminent French preacher gives quite another turn to the passage, and he seems to regard this as being the prayer of David when he was exposed to the association of the ungodly, fearful lest he should become in character like those that go down into the pit, and even if that should not be the first meaning of the text, it seems to me to be a natural inference from it, and if not, still the thought, itself, is one which contains so much of holy caution about it that I desire to commend it to all my Brothers and Sisters in Christ Jesus tonight, and especially to such as are usually exposed to danger from evil society. We will begin, then, by remarking that—
 
-I. MANY OF THE BEST OF GOD'S SAINTS ARE CALLED IN THE ORDER OF PROVIDENCE TO BE TRIED BY EVIL COMPANIONSHIP.
+## I. Many of the Best of God's Saints Are Called in the Order of Providence to Be Tried by Evil Companionship
 
 "I pray not that You should take them out of the world," said Christ, "but that You should keep them from the Evil One." Hence we are not shut up in monasteries or nunneries. We have not to—
 
@@ -39,9 +36,9 @@ It must be difficult, too, for a man to keep himself free from the contamination
 
 Yet Brothers and Sisters, I may as well come back to where I started. I suppose that we are, all of us, in whatever way of life we may be walking, exposed more or less to the associations of those who are not the servants of Christ. What business could a man select in which he would find that all with whom he had to deal were Christians? If there were, indeed, a parish of All Saints, it might be a very desirable place for residence, though I hardly know whether any man would be right in going to live there, since God's objective in making saints on earth at all is that by casting them like salt in the midst of the earth, they may work for good and savor the mass. You must, you must mix, more or less, with those who will tempt you! Do not be in a hurry, therefore, to change your position in life. If it is not, in itself, sinful—in case it is so, give it up tomorrow—but if it is not, in itself, sinful, stand not aghast at its peculiar temptations! There are temptations elsewhere. You may go from the frying pan into the fire, as the old proverb has it, very readily. In getting out of one temptation, you may soon get into another and, on the whole, probably the temptation that is troubling you most is the best that you can have. It is the temptation that would not trouble you that would be the most dangerous, and when a man's cross has been long on his shoulder, it begins to fit him—and he had better not change it for another. In every condition it is your lot to be crying to God for help, but do not be earnest to get out of the fire. This much the first point, then. The second is this. It appears from the text that—
 
-II. THE GREAT DANGER OF GOOD MEN IS LEST THEY SHOULD BECOME LIKE THE UNGODLY
+## II. The Great Danger of Good Men Is Lest They Should Become Like the Ungodly
 
-THROUGH ASSOCIATION WITH THEM.
+## Through Association with Them
 
 Brothers and Sisters, I shall speak very much from observation, actual observation and, I fear, also partly from personal experience, when I briefly describe the way in which association with the ungodly tends to make Christians like they are.
 
@@ -63,7 +60,7 @@ of Hell!
 
 Brothers, just one moment here. There is nothing more horrible that I know of than that a man who professes to have been washed in the blood of Christ should defile himself as others do! What a dishonor to that dear name before which the angels bow, that we who wear it should act as Christ's enemies do! Paul says, "I tell you, even weeping, that there are some who are the enemies of the Cross of Christ, for their god is their belly; their end is destruction; they glory in their shame"—and these were professors! Nothing can be worse for the Church—nothing more disastrous to the world—than for Christians to become like the unconverted! The flood came upon the earth when the sons of God entered into alliance with the daughters of men. The day of chastisement is always near the day of sin—and the day when the godly assimilate with the Christless will be the prelude of the great overwhelming flood of fire that shall sweep away the earth! Do let us, if we would bless our age, be firm for the right and for the Truth of God! If we would be happy, ourselves, if we would honor and glorify Christ, let our prayer constantly be that we may not be as the wicked are. But I must not tarry longer, for I have to notice, in concluding—
 
-III. THE REMEDY TO WHICH DAVID RESORTED AGAINST THE DANGEROUS TENDENCY WHICH HE FELT.
+## III. The Remedy to Which David Resorted Against the Dangerous Tendency Which He Felt
 
 David was a great deal better man than we might have expected him to be in the position he occupied. When you hear persons condemn the glaring fall of David, you may join in their condemnation, but you may also ask them to remember the remarkable circumstances in which David was found. The sin which David committed, great and grievous as it was, was all too common—what if I say isall too common—in a soldier's life! The first part of David's life he spent as a captain of free-booters. That word does not quite describe his band, for they were not lawless robbers, but they were men, we are told, who were discontented and who fled from regular government—and we know from their character and conduct that they were rough, unbridled soldiers who would never have been governed by anyone less strong in character than David. Now associations like these he must often have felt to be extremely dangerous to his spirit.
 
@@ -75,7 +72,7 @@ I shall not need, I think, to spend even a moment in making the personal applica
 
 But I need your attention, in closing, to the last thought suggested by the text. The objective of David's prayer was that he might hear the voice of God in his soul, "lest," says he, "if You are silent to me, I become like those who go down to the pit."
 
-IV. WHAT, THEN, WAS THIS VOICE OF GOD WHICH DAVID DESIRED TO HEAR?
+## IV. What, Then, Was This Voice of God Which David Desired to Hear?
 
 Let me guess at it for a minute. Was it not, first, that voice which would awaken sacred memories You have been exposed to temptation, my Brothers and Sisters, and you are ready to yield, but a voice reminds you of the day of your first espousals when your heart was warm towards Christ—of the days of your Baptism, when you were buried with Christ, professing to be dead to the world! It reminds you of the solemn vows that you made in years gone by, of solemn declarations that were registered before high Heaven that you would be firm and faithful, and keep Covenant with God. What? Will you, you, you—will you sin? A member of a Christian Church, one whose head has been leaning on Christ's bosom, one who has heard His voice and rejoiced in it—can you, can you turn aside? Perhaps you have an invitation for tomorrow—can you accept it when it involves sin? It may be that this very night you would have fallen, but by the recollection of those holy and happy seasons that you have had at the Lord's Table, those times of private payer, those hours when it was well with you, and you did walk with God, the still small voice of God calls to you, "What are you doing here, Elijah? Servant of God, what have you to do in the way of Assyria, to drink the waters of the muddy river? Turn aside from the ways of sin and seek your God."
 
@@ -85,7 +82,7 @@ The voice of God, moreover, may be regarded as that which actually impels the so
 
 May the Lord keep you, my Beloved, keep you fast and firm amidst this crooked and perverse generation! You young people, you young men and women—may the Lord grant that none of you may ever turn your backs in the day of battle! And you old people—the greatest pain we have ever had has been brought to this Church not by young people, but by old people! It is the old fools that are the biggest fools when they are fools! When old people are wise, they are the wisest—but when they are foolish, they are the most foolish! God keep the aged, and preserve their reverend heads, that they may not disgrace them, but may be a crown of glory to them! The Lord keep the pastors, keep the Elders, be with you all, and keep you all pure and unspotted from the world! This is our prayer and desire. God grant it, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: DANIEL 6.
+## Exposition by C. H. Spurgeon: Daniel 6
 
 Verses 1-3. It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom. And over these three governors, of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage. Then this Daniel was preferred above the governors and princes, because an
 
@@ -122,7 +119,6 @@ king answered andsaidd, Thee thing is true. According to thee law of thee Mede a
 16-24. Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spoke and said unto Daniel, Your God, whom you serve continually, He wiil deliver you. And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel Then the king went to his palace, and passed the night fasting: neither were instruments of music brought before him: and his sleep went from him. Then the king arose very early in the morning, and went in haste unto the den of lions. And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spoke and said to Daniel, O Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions? Then saidDaniel unto the king, O King, live forever! My God has sent His angel, and has shut the lions' months, that they have not hurt me: forasmuch as before Him innocence was found in me; and also before you, O King, have I done no hurt. Then was the king exceedingly glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God. And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives. Which was a piece of injustice, the throwing in of their wives and children, though we cannot say as much of the throwing of them in.
 
 24\. And the lions had the mastery of them, and broke all their bones in pieces before they ever came to the bottom of the den.
-
 
 ---
 [[Sermon 3534 The Light of the World|← #3534]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3536 A Threefold Slogan|#3536 →]]

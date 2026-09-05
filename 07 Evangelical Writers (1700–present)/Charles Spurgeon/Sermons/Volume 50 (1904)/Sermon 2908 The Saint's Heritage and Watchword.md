@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Saint's Heritage and Watchword
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2908
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "No weapon that is formed against you shall prosper; and every tongue that shall rise against you in judgment you shall condemn. This is the heritage of the servants of the LOUD, and their righteousness is of Me, says the Lord." Isaiah 54:17.
 
@@ -125,7 +122,7 @@ The Lord is our glory and each of the host
 
 Shall yet shout 'Hosanna,' on Canaan's fair coast!" Glory be to Father, Son, and Holy Spirit, world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH43:14-28; 44:1-8.
+## Exposition by C. H. Spurgeon: Isaiah 43:14-28; 44:1-8
 
 Isaiah 43:14-16. Thus says the LORD, your Redeemer, the Holy One ofIsrael; For your sake Ihave sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships. I am the LORD, your Holy One, the creator ofIsrael, your King. Thus says the LORD, which makes a way in the sea, and a path in the mighty water. Great events in history all have some connection with the Church of Christ. We may not always be able to see it, but we may rest assured that it is so. The rise and fall of empires have a great deal to do with the chosen people of God. So here He reminds them of what He did in the ancient days when He smote Egypt at the Red Sea and made a path for His people through the mighty waters.
 
@@ -156,7 +153,6 @@ Isaiah 44:1-3. Yet now hear, O Jacob My servant and Israel, whom I have chosen. 
 7\. And who can proclaim as I do? Then let him declare it and set it in order for Me. Since I appointed the ancient people and the things that are coming, and shall come, let them show these to them. If these idols are gods, let them prophesy and tell what is to happen in the future! But they cannot even speak to one another.
 
 8\. Fear you not, neither be afraid: have not I told you from that time, and have declared it? You are even My witnesses, is there a God beside Me?Indeed, there is no other God; Iknow not any.
-
 
 ---
 [[Sermon 2907 The Holy Spirit Glorifying Christ|← #2907]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2909 Job's Sure Knowledge|#2909 →]]

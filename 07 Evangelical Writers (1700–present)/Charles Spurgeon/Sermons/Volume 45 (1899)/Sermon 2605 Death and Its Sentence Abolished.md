@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Death and Its Sentence Abolished
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2605
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you, being dead in your sins and the uncircumcision of your flesh, has He quickened together with Him, having forgiven you all trespasses; blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to His Cross." Colossians 2:13,14.
 
@@ -93,9 +90,9 @@ What better way can there be of abolishing a debt than by paying it? And Christ 
 
 O Beloved Friends, go in thought to Calvary, and with joyful hearts trust in the Crucified! The great transaction is done, and done forever! He has blotted out the handwriting that was against you and put it away, "nailing it to His Cross." All this is true of everyone who believes in the Lord Jesus Christ. Then, trust yourself with Him, now, and my text shall be true of you at this moment and true forever! "You, being dead in your sins and the uncircumcision of your flesh, has He quickened together with Him, having forgiven you all trespasses; blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to His Cross." God bless you all, for our Lord Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK—307, 430, 406.
+## Hymns from "Our Own Hymn Book—307, 430, 406
 
-EXPOSITION BY C. H. SPURGEON: COLOSSIANS 2:6-23; 3:1-3.
+## Exposition by C. H. Spurgeon: Colossians 2:6-23; 3:1-3
 
 Colossians 2:6. As you have therefore received Christ Jesus the Lord, so walk you in Him. That is, keep on as you began. Christ was enough for you when, as poor, guilty sinners, you came and trusted Him, so keep on trusting Him in the same way as you did at the first. Do not try to live by feeling, after having lived by faith. Do not begin to live upon outward forms and ceremonies after having found salvation by Grace through faith. "As you have therefore received Christ Jesus the Lord, so walk you in Him."
 
@@ -128,7 +125,6 @@ Whatever there was of blessing and privilege in the Covenant mark in the flesh o
 Colossians 3:1 If you then are risen with Christ Leave all these outward rituals, formalities and ordinances of men.
 
 1-3. Seek those things which are above, where Christ sits at the right hand of God. Set your affection on things above, not on things on the earth. For you are dead, andyour life is hid with Christ in God.
-
 
 ---
 [[Sermon 2604 Open Praise and Public Confession|← #2604]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2606 Choice Teaching for the Chosen|#2606 →]]

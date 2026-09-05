@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # God's Glory in Hiding Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2838
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is the glory of God to conceal a thing, but the honor of kings is to search out a matter." Proverbs 25:2.
 
@@ -107,7 +104,7 @@ Then, you cover matters, too. I know some people who always like to be poking in
 
 And now, for love of Christ, if they strike you on one cheek, you should turn the other, also. If they will have your cloak, for love of Jesus let them have your coat, also, sooner than live in the spirit of perpetual contention and strife. May God enable you to act thus, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS25:10-22; PSALM 32.
+## Exposition by C. H. Spurgeon: Exodus 25:10-22; Psalm 32
 
 Exodus 25:10, 11. And they shall make an Ark of shittim wood: two cubits and a half shall be the length thereof and a cubit and a half the breadth thereof, and a cubit and a half the height thereof And you shall overlay it with pure gold, within and without shall you overlay it, and shall make upon it a crown of gold'round about. The Ark of the Covenant was the most sacred object in the tabernacle in the wilderness. It stood at the extreme end of the Holy of Holiest. It was the place over which the bright shining light called the Shekinah, which was the token of the Presence of God, shone forth. The Ark was, doubtless, typical of our Lord Jesus Christ. It was a sacred chest made to contain the Law of God. Blessed are they who know the Law in Christ. Out of Christ, the Law condemns. In Christ, it becomes a blessed guide to
 
@@ -150,7 +147,6 @@ Psalm 32:1. Blessed is he whose transgression is forgiven, whose sin is covered.
 10, 11. But he that trusts in the LORD, mercy shall compass him about. Be glad in the LORD, and rejoice, you righteous: and shout for joy. Be demonstrative about it, make other people hear of it. Do not be ashamed to let your holy joy be known. Be not so very proper and orderly as to mumble out your praises as some do—"Be glad in the Lord, and rejoice, you righteous: and shout for joy,"
 
 11\. All you that are upright in heart.
-
 
 ---
 [[Sermon 2837 'The Ministry of Reconciliation'|← #2837]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2839 'Prisoners of Hope'|#2839 →]]

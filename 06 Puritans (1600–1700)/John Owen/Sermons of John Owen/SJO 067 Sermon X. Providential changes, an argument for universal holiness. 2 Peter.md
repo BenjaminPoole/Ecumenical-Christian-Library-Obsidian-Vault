@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon X. Providential changes, an argument for universal holiness. 2 Peter iii. 11
-
-## Sermon X. Providential changes, an argument for universal holiness.
 
 “Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness?” — 2 Pet. iii. 11.
 
@@ -118,10 +115,8 @@ But you will say, “Is this enough, then, that we look to be found in all godli
 
 Put, now, these things together:— Every such dispensation is a coming of Christ; — the coming of Christ, as it is trying in itself, so it is the coming of the holy King of saints in his love and pity towards them; yea, be the dispensation what it will, never so sharp and severe unto them, yet it is in love and compassion to their souls; — their work is to meet this their holy King in the works of his love and power: and “what manner of persons ought we to be?”
 
-
 ---
 [^1]: See note, p. 32 of this volume.
-
 
 ---
 [[SJO 066 Sermon IX. Of walking humbly with God. Micah vi. 8|← Sermon IX. Of walking humbly with God. Micah vi. 8]] · [[Sermons of John Owen|Contents]] · [[SJO 068 Sermon XI. Providential changes, an argument for universal holiness. 2 Peter|Sermon XI. Providential changes, an argument for universal holiness. 2 Peter iii. 11 →]]

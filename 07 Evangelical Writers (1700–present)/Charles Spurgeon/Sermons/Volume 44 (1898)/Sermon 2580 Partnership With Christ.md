@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Partnership With Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2580
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "God is faithful, by whom you were called into the fellowship of His Son Jesus Christ our Lord." 1 Corinthians 1:9.
 
@@ -113,7 +110,7 @@ Many of you, I trust, will be ready enough to give Him your tongues, but does He
 
 Sometimes, Jesus needs you to act as a foot-washer, to wash His feet. If you see a Brother going wrong, backsliding, and getting his feet dirty, your Lord does not want you to go and call out so that everybody can hear you, "Here is a Brother who has dirty feet." No, no! Go and fetch a basin of water and a towel, and wash the man all by himself, and set your fallen Brother right again. Then Christ has some very poor members of His family, perhaps in the workhouse—and He wants you to go and relieve them. There are some who are sick. He wants you to visit them. There are some of His loved ones, it may be, who are cast down and ready to sink in utter despair—He wants you to go and comfort them. Since it is a joint-stock concern in which you are a partner, look out for Christ's poor people, and say to yourself, "If I cannot give anything to Him, I will give it to them, for they are a part of Him and He will accept it as given to Himself." God help you to do so—you who love His dear name—and thus may we have fellowship with the Father and with His Son Jesus Christ, to whom, with the ever-blessed Spirit, be glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 1:1-9.
+## Exposition by C. H. Spurgeon: 1 Corinthians 1:1-9
 
 Verse 1. Paul, called to be an Apostle of Jesus Christ through the will of God, and Sosthenes our brother Paul could never have sustained the great weight of responsibility and tribulation which fell upon him if he had not felt that he was "called to be an Apostle of Jesus Christ through the will of God." No man will ever be fit for the ministry of the Word unless he is called to it by God. This also will be your strength in every other station of life—if God has called you to your peculiar work and warfare, He will not send you at your own charges, but He will be at the back of you and support you even to the end. I think it is for this reason that Paul so constantly dwells upon his own calling when he is about to write to the Churches—that he may remind other Believers that they have similar privileges in their spheres of labor.
 
@@ -128,7 +125,6 @@ but if we are not holy, if we are not truly sanctified, how can we expect to be 
 5-8. That in everything you are enriched by Him, in all utterance, and in all knowledge; even as the testimony of Christ was confirmed in you: so that you come behind in no gift; waiting for the coming of our Lord Jesus Christ: who shall also confirm you unto the end, that you may be blameless in the day of our Lord Jesus Christ. It was very wise of Paul to thus praise these Corinthians where they could be praised, for he was about to upbraid them and reprove them for many things which were not pleasing to God. If you have the unpleasant duty of rebuking those who deserve it, always take care that you begin by saying all that you can and all that ought to be said in their favor—it will prepare the way for what you have to say to them afterwards. The Corinthians were a highly-gifted Church. They probably had more knowledge and more of the gifts of utterance than any other Church of their day. But, alas, they fell into greater sin than did their sister Churches! Great gifts are not great Graces, but great gifts requiregreat Graces to go with them, or they become a temptation and a snare. Yet Paul felt quite sure that God would keep even these Corinthians with all their imperfections—and confirm them to the end. And that which was true of them is also true of all the Lord's people—God will preserve them to the very end.
 
 9\. God is faithful, by whom you were called into the fellowship of His Son Jesus Christ our Lord.
-
 
 ---
 [[Sermon 2579 Waiting, Hoping, Watching|← #2579]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2581 Perfection in Christ|#2581 →]]

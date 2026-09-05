@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 27. What dost thou mean by the providence of God?
-
-**Question 27. What dost thou mean by the providence of God?**
 
 Answer. The Almighty and everywhere present power of God; whereby, as it were by his hand, he upholds and governs heaven, earth, and all creatures; so that herbs and grass, rain and drought, fruitful and barren years, meat and drink, health and sickness, riches and poverty, yea all things come not by chance, but by his fatherly hand.
 
-**EXPOSITION**
+## **Exposition**
 
 Intimately connected with the doctrine of the creation of the world, is the subject of the providence of God, which is nothing else than a continuation of the creation; because the government of the world is the preservation of the things created by God. We are not to imagine, therefore, that the creation of the world is like the building of a ship, which the architect as soon as it is completed, commits to the government of some pilot; but we must hold this as a most certain truth, that as nothing could ever have existed except by the creating power of God; so it is impossible that any thing should exist, even for a moment, without his government and preservation. It is for this reason that the scriptures often join the preservation and continual administration of all things with their creation. Hence we cannot have a full and correct knowledge of the creation unless we, at the same time, embrace the doctrine of divine providence, concerning which we must inquire particularly.
 
@@ -78,7 +75,7 @@ The arguments which establish a divine providence are of two kinds. Some are a p
 
 8. An unchangeable foreknowledge depends on an immutable cause. God foreknows all things unchangeably from everlasting. Therefore he foreknows from an immutable cause, which is his eternal counsel and decree. The sum of all is this: God is almighty, most wise, just and good: therefore he ordained and created nothing without some special end and purpose; neither does he cease to guide and direct his works to the ends for which he hath ordained them; nor does he suffer those things to be accomplished by chance, which he made and ordained for the manifestation of his own glory. "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such a one as thyself," &c. "Hath God forgotten to be gracious?" "My counsel shall stand, and I will do all my pleasure." (Ps. 50:21; 77:9. Is. 46:10.)
 
-**II. WHAT IS THE PROVIDENCE OF GOD?**
+## **II. What Is the Providence of God?**
 
 Foreknowledge, providence and predestination differ from each other. By foreknowledge we understand the knowledge of God, by which he foreknew, from all eternity, not only what he himself would do, but also what others would do by his permission, viz: that they would sin. Providence and predestination, although they include only those things which God himself will do, yet they differ in this, that providence extends to all the things and works of God, whilst predestination properly has respect only to rational creatures. Predestination is therefore the most wise, eternal and immutable decree of God, by which he appointed and destined every man, before he was created, to his certain use and end, as will hereafter be more clearly shown. But providence is the eternal, most free, immutable, wise, just and good counsel of God, according to which he effects all good things in his creatures; permits also evil things to be done, and directs all, both good and evil, to his own glory and the salvation of his people.
 
@@ -148,7 +145,7 @@ The arguments by which we demonstrate that the providence of God embraces all an
 
 6. All good things are from God as the first cause. All things made and established in nature, as substance, desires, actions, &c., as far as they are merely such, are good. Therefore they are from God, and are accomplished by his providence.
 
-**A REFUTATION OF CERTAIN OBJECTIONS AGAINST THE PROVIDENCE OF GOD**
+## **A Refutation of Certain Objections Against the Providence of God**
 
 The first objection respects the confusion, or disorders in nature
 

@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Daniel 4:1-3
 
@@ -69,7 +68,7 @@ Here the king of Babylon addresses Daniel kindly, since he saw himself deserted 
 
 ## Prayer Lecture 17
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou here proposest a remarkable example before our eyes, that we may learn thy power to be so great as not to be sufficiently celebrated by any human praises: and since we hear how its herald was a profane king, nay, even a. cruel and proud one, and thou hast afterwards deigned to manifest thyself to us familiarly in Christ, — Grant, that in the spirit. of humility we may desire to glorify thee, and to cleave entirely to thee. May we declare thee to be ours, not only in mouth and tongue, but also in works; not only as our true and only God, but our Father, since thou hast adopted us in thine only-begotten Son, until at length we enjoy that eternal inheritance which is laid up for us in heaven by the same Christ our Lord. — Amen.
 
@@ -115,7 +114,7 @@ The reason for this punishment follows, when it is added, *seven times shall pas
 
 ## Prayer Lecture 18
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we see it so difficult for us. to bear prosperity without injury to the mind, that we may remember ourselves to be mortal — may our frailty be ever present to our eyes, and tender us humble, and lead us to ascribe the glory to thee. Being advised by thee, may we learn to walk with anxiety and fear, to submit ourselves to thee, and to conduct ourselves modestly towards our brethren. May none of us despise or insult his brother, but may we all strive to discharge our duties with moderation, until at length thou gatherest us into that glory which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -165,7 +164,7 @@ Daniel follows up what he had begun with perseverance, shewing judgment to be ov
 
 ## Prayer Lecture 19
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou settest before us our sins, and at the same time announcest thyself as our judge, that we may not abuse thy forbearance and lay up for ourselves a treasure of greater wrath through our sloth and torpor. Grant, also, that we may fear thee reverently, and be anxiously cautious ourselves: may we be frightened by thy threats, and enticed by thy sweetness, and be willing and submissive to thee: may we never desire more than to consecrate ourselves entirely to obey thee, and to glorify thy name through Jesus Christ our Lord. — Amen.
 
@@ -203,7 +202,7 @@ In whatever way Nebuchadnezzar ought to prepare to bear God’s chastisement, ye
 
 ## Prayer Lecture 20
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may learn to bear patiently all adverse misfortunes, and know that thou exercisest towards us the duties of a judge, as often as we are afflicted in this world. Thus may we prevent thy wrath, and so condemn ourselves with true humility, that trusting in thy pity we may always flee to thee, relying upon the mediation of thy only-begotten Son, which thou hast provided for us. Grant, also, that we may beg pardon of thee, and resolve upon a true repentance, not with vain and useless fictions, but by true and serious proofs, cultivating true charity and faith among ourselves, and testifying in this way our fear of thy name, that thou mayest be truly glorified in us by the same our Lord. — Amen.
 
@@ -249,7 +248,7 @@ The Prophet again introduces King Nebuchadnezzar as the speaker. He says, then, 
 
 ## Prayer Lecture 21
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, (since we are nothing in ourselves, and yet we cease not to please ourselves, and so are blinded by our vain confidence, and then we vainly boast in our virtues, which are worthless,) that we may learn to put off these perverse affections. May we so submit to thee as to depend upon thy mere favor: may we know ourselves, to stand and be sustained by thy strength alone: may we learn so to glorify thy name that we may not only obey thy word with true and pure humility, but also earnestly implore thy assistance, and distrusting ourselves, may rely upon thy favor as our only support, until at length thou gather-est us into thy heavenly kingdom, where we may enjoy that blessed eternity which has been obtained for us by thine only-begotten Son — Amen.
 
@@ -293,7 +292,7 @@ He now adds at last, *He can humble those who walk in pride.* Here Nebuchadnezza
 
 ## Prayer Lecture 22
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since the disease of pride remains fixed in us all through our original corruption in our father Adam, — Grant, I say, that we may learn to mortify our spirits, and to be displeased with our conduct, as we ought; may we feel ourselves to be deprived of all wisdom and rectitude without thee alone. May we fly to thy pity, and confess ourselves utterly subject to eternal death; may we rely on thy goodness which thou hast deigned to offer us through thy Gospel; may we trust in that Mediator whom thou hast given us; may we never hesitate to fly to thee, to call upon thee as our Father, and having been renewed by thy Spirit, may we walk in true humility and modesty, till at length thou shalt raise us to that heavenly kingdom which has *been* obtained for us by the blood of thine only-begotten Son. — Amen.
 

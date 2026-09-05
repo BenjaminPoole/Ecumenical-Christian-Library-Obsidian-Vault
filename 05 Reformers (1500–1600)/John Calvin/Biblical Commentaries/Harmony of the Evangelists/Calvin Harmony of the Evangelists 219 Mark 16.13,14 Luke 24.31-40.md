@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 219. Mark 16:13,14 Luke 24:31-40
-
-**MARK 16:13,14; LUKE 24:31-40**
 
 **13.** And they went away and told it to the rest, but neither did they believe them. **14.** Afterwards he appeared to the eleven while they sat at meat, and upbraided them with their unbelief and hardness of heart, because they did not believe those who saw him after he was risen.
 

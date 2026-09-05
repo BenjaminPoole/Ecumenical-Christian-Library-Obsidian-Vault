@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 21. Deuteronomy 5
 
-**DEUTERONOMY 5**
-
-**THE REPETITION OF THE SAME HISTORY**
+## **The Repetition of the Same History**
 
 ## Deuteronomy 5:22-31
 

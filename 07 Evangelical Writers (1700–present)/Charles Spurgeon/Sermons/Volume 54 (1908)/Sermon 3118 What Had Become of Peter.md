@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # What Had Become of Peter?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3118
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now as soon as it was day, there was no small stir among the soldiers about what had become of Peter." Acts 12:18.
 
@@ -79,7 +76,7 @@ I hold up the blood-red standard at this time. I am a recruiting sergeant and I 
 
 "Well," says one, "If I am enlisted, and become a new creature, what shall I do?" I will not say what you shall do, but if the Lord saves you, you will love Him so much that nothing will be too hard, or too heavy, or too difficult for you! You will not need driving, if you once receive His great salvation—you will be for doing more than you can and you will pray for more Grace and strength to attempt yet greater things for His name's sake. A man who has had much forgiven, what will he not attempt for the service and Glory of Him who has forgiven him? May I be fortunate enough to enlist beneath the Savior's banner some black offender! That is the man for Christ's service! That is the man who will sound out His name more sweetly than anybody else! That is the man who will be afraid of no one! That is the man who will truly know the power of the Gospel of Christ! Oh, that the Lord would bring such men among us, for we need them in these days—men who will come right out, without doubt, fear, or quitting, facing all criticisms, defying all opinions and each one saying, "Sinners, Christ can save you, for He saved me! I was a drunkard and a thief, but God has forgiven and cleansed, and washed me, and I know the power of His salvation!" Pray, members of the Church, that both among men and women there may be many such conversions and that throughout this city of London there may be no small stir, "What has become of Peter," and may that stir be to the praise and Glory of God! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 PETER 1.
+## Exposition by C. H. Spurgeon: 2 Peter 1
 
 Verse 1. Simon Peter, a servant and an Apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Savior Jesus Christ Peter here uses both his names—Simon or Simeon, which was his first name and signifies, "hearing with acceptance." And happy are they who have the hearing ear and the receptive heart. And then there is what I may call his Christian name, the name which Christ gave him, Petros, or Cephas, a rock or stone. Those who learn to hear well, since faith comes by hearing, may hope to obtain even greater stability of character than Peter had. Observe that Peter calls himself, "a servant of Christ." There is no higher honor than to be a servant of God. "To serve God is to reign." An ancient philosopher was the author of that maxim and Christianity fully endorses it. He is a true king who is a servant of God. In this respect, all Believers are on a level with Peter, but here is his distinguishing title, "an Apostle of Jesus Christ," a sent one, one who had seen the Lord and who could bear personal testimony to the fact of His existence, His death and His Resurrection. Hence the Apostleship has ceased, since there are no longer any who lived in our Lord's days upon the earth. Mark the reason why this Epistle, like the first, is called "the general Epistle of Peter," since it is addressed, not to any one Church, as Paul's Epistle to the Ephesians, but to all saints. Not to the Hebrews alone, but to the Gentiles as well. It is a general Epistle, addressed to all those who have "obtained like precious faith." These words were written by the Apostle Peter many centuries ago, yet they come to us as fresh as if he had written them but yesterday! And may God grant us Grace to profit from them as they are read by us today! After the Apostle's titles comes the salutation of his Epistle.
 
@@ -114,7 +111,6 @@ patience," or endurance, so that we are able to endure the "trial of cruel mocki
 19, 20. We have also a more sure word of prophecy, whereunto you do well that you take heed, as unto a light that shines in a dark place, until the day dawns and the day star arise in your hearts: knowing this first, that no prophecy of the Scripture is of any private interpretation.Even the Prophets themselves did not always know the full meaning of their own prophecies. Many prophecies have never been completely understood until they have been fulfilled. This passage also appears to me to mean that no prophecy is to be restricted to any one event, so as to say, "This prophecy has been entirely fulfilled."
 
 21\. For the prophecy came not in old times by the will of man: but holy men of God spoke as they were moved by the Holy Spirit.So that they sometimes spoke what they did not themselves understand. The prophecy carried its own key within itself and the key could not be found until the prophecy was fulfilled. I believe that the prophesies in the Revelation and in the books of Daniel and Ezekiel are very much of this character, and that while it is quite right to watch for and expect the coming of the Lord, we shall spend our time more profitably in preaching the Doctrines of the Gospel than in meditating upon the mysterious prophecies of the Word. They will be understood when they are fulfilled, but we do not think they will be fully understood before that time.
-
 
 ---
 [[Sermon 3117 Eyes Opened|← #3117]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3119 Mistakes Concerning God|#3119 →]]

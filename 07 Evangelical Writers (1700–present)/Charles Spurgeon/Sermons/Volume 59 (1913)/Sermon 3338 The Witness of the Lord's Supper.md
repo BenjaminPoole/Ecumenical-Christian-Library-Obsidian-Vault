@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Witness of the Lord's Supper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3338
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as often as you eat this bread, and drink this cup, you do show the Lord's death till He comes." 1 Corinthians 11:26.
 
@@ -27,7 +24,7 @@ In order to keep in our mind's eye what, alas, we so easily forget—the death o
 
 The great meaning of "The Lord's Supper," as we call it, is that we show the Lord's death till He comes. We show it to ourselves and we show it, or represent it, to others—to unbelievers who may chance to look on. The former of these is, perhaps, the more important. In coming to eat of the bread and drink of the wine at this Supper—
 
-I. WE SHOW THE LORD'S DEATH TO OURSELVES.
+## I. We Show the Lord's Death to Ourselves
 
 Not, indeed, that this is the exclusive manner of exhibiting the passion which our dear Savior endured, or the decease which He accomplished, for there are, it must be admitted, other methods of showing the Lord's death. One is by this Book, this Inspired Volume which contains the record of His Crucifixion—which explains it—which enforces upon men the duty of putting their trust in the merit of Him who died. Wherever this Bible is opened there is a showing of Christ's death! Why, the whole Book is full of it! There is a crimson line of atoning Sacrifice running from Genesis to Revelation—
 
@@ -67,7 +64,7 @@ His messages of love to bear." Thus, you see, in the bread and the wine, in the 
 
 Observe now that—
 
-II. WE ARE TO SHOW CHRIST'S DEATH TO OTHERS.
+## II. We Are to Show Christ's Death to Others
 
 As often as we eat this bread and drink of this cup, we do this. We show to others the fact that Jesus died. I think historians have taken it as one of the best proofs of a fact when some rite has been instituted to commemorate it. A pillar with an inscription is not always a certain index to truth. Our own Monument, for instance, had a record on it that London was burned down by the Catholics—who had no more to do with it, certainly, than the Muslims did! The inscription in that case was not a record of fact! Yes, and a pillar might be erected to record an event which never occurred at all. But, as a general rule, large bodies of men will not agree together to continually celebrate events which never occurred. Nobody doubts, I suppose, the siege of Londonderry, when the prentice boys meet every year to make a noise and disturbance. They at least bring before the historian's mind the certainty that such an event did occur, for it is still thus recorded. Now, our Lord gave us this simple method of breaking bread and drinking wine to be our way of setting up our pillar—our mode of keeping up a great historical fact—that there was a Man who lived in Judea, who professed to be the Son of God, who was the King of the Jews, who lived a humble life and died a marvelous death! There is no fact in history so well attested as this! So that those who have given up the Inspiration of Scripture have seldom touched either the life or the death of Jesus, but have conceded both to be facts. And now this very night, perhaps, in fifty thousand places, at this moment, this commemorative act of eating bread and drinking wine is about to be performed in this one country of England. Now that is something by way of record, and by this act we help to perpetuate to all generations the fact that Jesus died!
 
@@ -123,7 +120,7 @@ Shall lift His hand and swear,
 
 Shall have no portion there.'"
 
-EXPOSITION BY C. H. SPURGEON: EZEKKIEL 36:16-38.
+## Exposition by C. H. Spurgeon: Ezekkiel 36:16-38
 
 Verses 16-20. Moreover the word of the Lord came unto me, saying, Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before Me as the uncleanness of a removed woman. Therefore I poured My fury upon them for the blood that they had shed upon the land, and for their idols wherewith they had polluted it and I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them. And when they entered unto the heathen, where they went, they profaned My holy name, when they said to them, these are the people of the LORD, and are gone forth out of His land.All through Scripture we are told that God has great regard to the honor of His holy name. "The Lord your God is a jealous God." And this is no small blessing to us, for it has so happened that when there has been no other reason for mercy, God's regard to His own name has found Him a reason for dealing mercifully with His unbelieving, undeserving people! See how He had scattered His chosen people. He had sent them away into captivity, justly, on account of their sins. But it came to pass that wherever they went, whether it was into Persia or Babylonia, the people said, "These are Jehovah' s people! These are Jehovah' s people and they are gone forth out of His land." What was the consequence of this?
 
@@ -156,7 +153,6 @@ honor? What, I say, must He think of the fact that if there are any vices yet un
 37\. Thus says the LORD GOD; I will yet for this be enquired of by the house of Israel, to do it for them; I will increase them with men like a flock. There must be the spirit of prayer and supplication poured out first. We shall see Israel restored to her land when Israel is restored to the Mercy Seat—and we shall see great prosperity as a Church and the blessing of God will rest upon our nation when once God's people go up to the top of Carmel with their faces between their knees and cry, and cry, and cry again, expecting that yet the heavenly shower shall end this long drought of the curse—and the blessing shall come. "I will yet be enquired of by the house of Israel to do it for them."
 
 38\. As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men; and they shall know that I am the LORD. And that is the great end of it all—to make men know that the I AM is— that the true and real God is still potent among the sons of men and does His will both here and among the armies of Heaven. Unto His name be glory forever and ever!
-
 
 ---
 [[Sermon 3337 Ears Bored to the Doorpost|← #3337]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3339 The Heart Perfumed|#3339 →]]

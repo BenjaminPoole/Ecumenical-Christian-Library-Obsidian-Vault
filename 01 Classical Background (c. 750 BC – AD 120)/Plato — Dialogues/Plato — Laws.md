@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Laws
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-LAWS
+## Laws
 
 By Plato
 
-
 Translated By Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 The genuineness of the Laws is sufficiently proved (1) by more than
 twenty citations of them in the writings of Aristotle, who was residing
@@ -1140,7 +1135,7 @@ younger statesmen detect in his enactments. When institutions have been
 once subjected to this process of criticism, he would have them fixed
 for ever.
 
-THE PREAMBLE.
+## The Preamble
 
 BOOK I. Strangers, let me ask a question of you--Was a God or a man the
 author of your laws? 'A God, Stranger. In Crete, Zeus is said to have
@@ -7456,9 +7451,6 @@ and 'Juris domestici et familiaris apud Platonem in Legibus cum veteris
 Graeciae inque primis Athenarum institutis comparatio': Marburg, 1836),
 and by J.B. Telfy's 'Corpus Juris Attici' (Leipzig, 1868).
 
-
-
-
 EXCURSUS ON THE RELATION OF THE LAWS OF PLATO TO THE INSTITUTIONS OF
 CRETE AND LACEDAEMON AND TO THE LAWS AND CONSTITUTION OF ATHENS.
 
@@ -8389,16 +8381,9 @@ of heaven which he beheld of old in a vision (Phaedr.). So, 'partly
 trifling, but with a certain degree of seriousness' (Symp.), we linger
 around the memory of a world which has passed away (Phaedr.).
 
+## Laws
 
-
-
-
-LAWS
-
-
-
-
-BOOK I.
+## Book I
 
 PERSONS OF THE DIALOGUE: An Athenian Stranger, Cleinias (a Cretan),
 Megillus (a Lacedaemonian).
@@ -9656,10 +9641,7 @@ them; and that art, if I am not mistaken, is politics.
 
 CLEINIAS: Exactly so.
 
-
-
-
-BOOK II.
+## Book II
 
 ATHENIAN: And now we have to consider whether the insight into human
 nature is the only benefit derived from well-ordered potations, or
@@ -10723,10 +10705,7 @@ you agree.
 
 CLEINIAS: Excellent: we agree.
 
-
-
-
-BOOK III.
+## Book III
 
 ATHENIAN: Enough of this. And what, then, is to be regarded as the
 origin of government? Will not a man be able to judge of it best from
@@ -12032,10 +12011,7 @@ MEGILLUS: And so will I.
 
 CLEINIAS: Excellent; and now let us begin to frame the State.
 
-
-
-
-BOOK IV.
+## Book IV
 
 ATHENIAN: And now, what will this city be? I do not mean to ask what is
 or will hereafter be the name of the place; that may be determined
@@ -12940,10 +12916,7 @@ in order.
 
 CLEINIAS: Very good.
 
-
-
-
-BOOK V.
+## Book V
 
 ATHENIAN: Listen, all ye who have just now heard the laws about Gods,
 and about our dear forefathers:--Of all the things which a man has, next
@@ -13723,10 +13696,7 @@ since you are going to colonize a new country.
 CLEINIAS: Your words, Athenian Stranger, are excellent, and I will do as
 you say.
 
-
-
-
-BOOK VI.
+## Book VI
 
 ATHENIAN: And now having made an end of the preliminaries we will
 proceed to the appointment of magistracies.
@@ -15083,10 +15053,7 @@ appear any need to make use of her in military service, let the time of
 service be after she shall have brought forth children up to fifty years
 of age; and let regard be had to what is possible and suitable to each.
 
-
-
-
-BOOK VII.
+## Book VII
 
 And now, assuming children of both sexes to have been born, it will
 be proper for us to consider, in the next place, their nurture and
@@ -16683,10 +16650,7 @@ complete.
 
 CLEINIAS: Very good.
 
-
-
-
-BOOK VIII.
+## Book VIII
 
 ATHENIAN: Next, with the help of the Delphian oracle, we have to
 institute festivals and make laws about them, and to determine what
@@ -17612,10 +17576,7 @@ remain, may do so, if he can persuade the council and assembly. And if
 he depart, let him erase all the entries which have been made by him in
 the register kept by the magistrates.
 
-
-
-
-BOOK IX.
+## Book IX
 
 Next to all the matters which have preceded in the natural order of
 legislation will come suits of law. Of suits those which relate to
@@ -18837,10 +18798,7 @@ slave has persuaded the man whom he has stricken that he ought to be
 released. And let there be the same laws about women in relation to
 women, and about men and women in relation to one another.
 
-
-
-
-BOOK X.
+## Book X
 
 And now having spoken of assaults, let us sum up all acts of violence
 under a single law, which shall be as follows: No one shall take or
@@ -20133,10 +20091,7 @@ in earnest, or only from childish levity, let the guardians of the law
 determine, before they bring the matter into court and prosecute the
 offender for impiety.
 
-
-
-
-BOOK XI.
+## Book XI
 
 In the next place, dealings between man and man require to be suitably
 regulated. The principle of them is very simple: Thou shalt not, if thou
@@ -21153,10 +21108,7 @@ because he is a lover of money, in whatever manner gained; and equally,
 if he be judged to have acted more than once from contentiousness, he
 shall die.
 
-
-
-
-BOOK XII.
+## Book XII
 
 If a herald or an ambassador carry a false message from our city to any
 other, or bring back a false message from the city to which he is sent,

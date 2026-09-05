@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # An Earnest Entreaty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3470
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Show Your marvelous loving kindness." Psalm 17:7.
 
 IF one were about to have an audience with the Queen, or with some other royal personage, he might be apt to say, "How shall I behave myself? What am I expected to do? What is the proper form of address?" Now, in entering into the Presence of the great King of Kings, the Eternal God, we may suppose the trembling penitent saying, "What shall I do? How shall I come before the Most High God? What words shall I use and into what fashion shall I cast my desires?" Well, Holy Scripture has been very rich in answers to this question, for you have hundreds of most appropriate prayers made ready to your hand! We might readily enough compose a Biblical Liturgy, if one believed in Liturgies at all! Nor would it be difficult to find Scriptural words for every desire that could possibly strike the human heart. The Bible, besides all its other excellences, is a great and universal Prayer Book, and has in it petitions suited to all classes and conditions of men at all times, whatever their desires and necessities may be. Now I take out of this Prayer Book this one short supplication. I know the children of God will join with me in praying it, and I trust that before we have done, some who never prayed before may make this their firm prayer, "Show Your marvelous loving kindness." Now, in the first place, we may offer up this prayer—
 
-I. DESIRING THAT GOD WOULD SHOW MARVELOUS LOVING KINDNESS IN OUR MEDITATIONS.
+## I. Desiring that God Would Show Marvelous Loving Kindness in Our Meditations
 
 What marvelous loving kindness there is for us to look at! Old as the everlasting hills—but old as it is, and majestic as it must be—there are some eyes that never saw it! Others, too, who, though they have read their Bibles and heard Gospel sermons from their infancy, have never yet seen God's marvelous loving kindness! Let us spend, then, a few minutes in meditation, in order that the Lord may hear this prayer and show us His loving kindness while we muse upon it.
 
@@ -41,7 +38,7 @@ And then, if you recollect what you would have been if He had not called you, he
 
 flame, are waving the palm, wearing the crown and singing the song! I know not what you think of it, Brothers and Sisters, but in every view I take of the great acts of God's Grace towards Believers, it is to me, marvelous loving kindness! Meditation upon these great acts of Divine Grace might tend very much to promote gratitude, and it were well if we sometimes set apart a time to go over in our thought and recollection all the mighty acts of the gracious God of Israel. But I have said enough upon the first point—so let me proceed briefly to speak upon a second. Surely David meant to say—
 
-II. "SHOW YOUR MARVELOUS LOVING KINDNESS IN OUR EXPERIENCE."
+## II. "Show Your Marvelous Loving Kindness in Our Experience."
 
 It may be there is a man over yonder who did not think of coming in here tonight at all, till, as he was passing by the building, he saw so large a crowd that he decided he would step in, though he fully meant to go out again. But, somehow or other, here he is. Man, you know what you have been. It is not for me to recount your sins before this assembly, but be assured the darkness of night has not covered them—neither has the silence of your confederates concealed them! The Lord that searches all hearts and tries the reins knows your iniquity. No feature of it is hidden from His eyes. Still, thus says the Lord of Hosts unto you this night, "Turn you, turn you! Why will you die?" And thus say I unto you—Pray this prayer this evening and who can tell but God may have mercy upon you, that you perish not? Pray it now. Let me offer it aloud for you, "Show Your loving kindness." I know you say, "If God should have mercy on me, it will be a great wonder! If He should change my heart and make me a saint, it would be a marvel, indeed!" Just so, Sinner, but that is just why I put this prayer into your mouth, for it suits you—"Show me Your marvelous loving kindness." Do you not see that you have been a marvelous sinner? Marvelously ungrateful have you been! Marvelously have you aggravated your sins! Marvelously did you kick against a mother's tears! Marvelously did you defy a father's counsel! Marvelously have you laughed at death! Marvelously have you made a covenant with death and a league with Hell! But your covenant with death is broken, and your league with Hell is disannulled—and He who does great wonders meets you tonight and says, "Come, now, let us reason together; though your sins are as scarlet, they shall be as wool; though they are red like crimson, they shall be whiter than snow." Believe on Him that died upon the tree, who Himself bore our sins in His own body! There is life in Jesus Christ for those who turn their eyes on Him! Look to Him! Look to Him, now, and live! I wish this prayer might be taken up in many parts of this congregation by some who have been outcasts in Israel, that they might pray, "Show Your marvelous loving kindness."
 
@@ -55,7 +52,7 @@ Brother, God can deliver you! Oh, what a blessing it is to have such a God to de
 
 So this prayer will do for beginners, and it is alike suitable for those who are ending their course. I may call it the Alpha-prayer and the Omega-prayer—fit for babes, and fit for strong men! Take it up, each one of you, and say, "Show me Your marvelous loving kindness." Having thus taken this prayer first as to meditation, and then as to experience, we will now take it as—
 
-III. A REQUEST PREFERRED FOR SOME SIGNAL GIFT.
+## III. A Request Preferred for Some Signal Gift
 
 "Show Your marvelous loving kindness by some special revelation to me at this time." I think one of the best translators of the Hebrew gives it, "Distinguish Your loving kindness." I do not know which to quote, but several of them seem to treat the passage in this way, "Lord, You have a great many loving kindnesses. I am just now in great trouble. Pick out one of Your loving kindnesses—distinguish—give me in my time of extraordinary need some extraordinary loving kindness. Show Your marvelous loving kindness." If you lay the stress on the word, "marvelous," you will then get the pith of it. I think it is Trapp who said that "God is good at a dead-lift"—and he has put a deal of meaning into that homely phrase. When you and I can do nothing, and it has come to a dead-lift, then we need our God and then we may say to Him, "Now, Lord, show me more than Your known goodness—show Your marvelous loving kindness. Oh, let us see what Omnipotence can do! Human wisdom fails—let Omniscience come to our aid! Lord, we are at our wits' end—may this, our extremity, prove to be Your opportunity. Show Your marvelousloving kindness." Do you not think we shall be warranted in using this prayer as we gather round the Table, tonight, to partake of the Lord's Supper? (My sermon seems to have more praying than preaching in it). Lord, here are the emblems that set forth Your body and Your blood—now "show Your marvelous loving kindness." Oh, do give us some choice token for good, some special mercy such as we received not when last we met for this communion! Lord, we are very weary. We have been harassed in the world. We need rest—give us some marvelous peace, some sacred calm, some sweet repose which we have not known before! Gathered as we are here, can we not, as Believers, cry, "Have You not a blessing, O my Father? Give it to me, even to me, O my Father"?
 
@@ -71,9 +68,9 @@ But you are going away, many of you. I beg you not to pass from under yonder col
 
 'Show Your marvelous loving kindness.' Oh, forgive me. I do accept Your Son. I do believe in Jesus, that He is able to save my soul, and my soul does rest on Him alone. Lord, for Jesus' sake 'show Your marvelous loving kindness.'" Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 51; PSALM119:145-168.
+## Exposition by C. H. Spurgeon: Psalm 51; Psalm 119:145-168
 
-PSALM51.
+## Psalm 51
 
 There are seven penitential Psalms, but this seems to be the chief one of the seven. The language of David is as suitable to us today as it was to him. And though much was lost to the cause of righteousness by David's sin, yet the Church is enriched for all ages by the possession of such a Psalm as this. It is a marvelous recompense. Surely here the Lord reigns, bringing good out of evil, blessing generation after generation through that which in itself was a great evil!
 
@@ -121,7 +118,7 @@ punishment, You will be quite clear and quite just. I could put in no plea again
 
 18\. 19. Do good in Your good pleasure unto Zion: build You the walls of Jerusalem. Then shall You bepleased with the sacrifices of righteousness, with burnt offering and whole burnt offerings: then shall they offer bullocks upon Your altar.Gratitude ascends when sin is forgiven, and when God appears to bless His Church, then she blesses her God.
 
-PSALM119:145-168.
+## Psalm 119:145-168
 
 Verse 145. I cried with my whole heart; hear me, O LORD: I will keep Your statutes. It is sweet to look back upon our prayers, if those prayers were uttered with our whole heart, for it is no small work of Divine Grace to enable us to throw the whole heart into prayer! And when we get that, we may be quite sure that our prayer will succeed. The God who gives us Grace to pray with the whole heart will be sure to reply to the prayer! After prayer David uttered a resolution, "I will keep Your statutes." He was resolved upon this with his whole heart, and though a resolution is not enough, for many make resolves and break them, yet no man is likely to keep God's Word who does not resolve to do so. Therefore it is necessary, first, to cry in prayer, and then to resolve with the whole heart to walk according to God's will.
 
@@ -154,7 +151,6 @@ structed Christian when he is able to derive comfort, not merely from the love o
 166\. LORD, I have hoped for Your salvation, and done Your commandments. Now, cannot some of you feeble people say that? You that cannot talk of full assurance and are half afraid that you are none of the Lord's people at all, yet you can say, "Lord, I have hoped for Your salvation, and done Your commandments." And, if so, you have done that which proves you to be His!
 
 167, 168. My soul has kept Your testimonies; and Ilove them exceedingly. Ihave kept Your precepts and Your testimonies: for all my ways are before You. And no man will ever take comfort in that if he is not a renewed man, for to know that all our ways are before God is ground for great distress if we are ungodly—if we are walking contrary to His mind. But if we are, indeed, His children, we love to feel that we are always living under His eye—that there is nothing about us unknown to Him—no secret sorrow which He does not read—no invisible burden which He does not see.
-
 
 ---
 [[Sermon 3469 Martha and Mary|← #3469]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3471 The Three Hours' Darkness|#3471 →]]

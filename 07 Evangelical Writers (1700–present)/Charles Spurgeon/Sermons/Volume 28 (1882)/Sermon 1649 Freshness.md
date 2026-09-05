@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Freshness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1649
 
-DELIVERED ON THURSDAY EVENING, FEBRUARY 16, 1882,.
+*Delivered on Thursday Evening, February 16, 1882*
 
 > "My glory was fresh in me, and my bow was renewed in my hand." Job 29:20.
 
@@ -130,7 +129,6 @@ Come, you that sit in the dust, begin to rejoice, for God the Spirit is still wi
 There is not a star in the great firmament of Scripture but shines for you! There is not a text in all this mighty treasury of God but you may take it and spend it and live upon the produce! Therefore, while the Word of the Lord is so fresh and so full, it cannot be that you shall be stale in thought and conversation. You shall be anointed with fresh oil! God Himself is with you and He is always full! God Himself is with you and He is always living! God Himself is with you and He is always fresh—and He shall refresh your spirit! Why stay away? Come from all that is stale and flat and from all the dead past—and enter into eternal life where flowers forever bloom, fruits forever ripen—and the fresh springs forever flow!
 
 Come and eat the new corn of the land and drink the new wine of the kingdom! And may the Lord make you glad in His House of Prayer for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1648 Pilate and Ourselves Guilty of the Savior's Death|← #1648]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1650 God's Fatherly Pity|#1650 →]]

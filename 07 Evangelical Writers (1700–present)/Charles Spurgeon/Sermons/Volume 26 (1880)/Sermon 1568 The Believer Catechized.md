@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Believer Catechized
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1568
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 21, 1880,.
+*Delivered on Sunday Morning, November 21, 1880*
 
 > "Do you believe this?" John 11:26.
 
@@ -152,7 +151,6 @@ It is a great wonder that God should promise, but not a wonder that He should pe
 I might go to another who is sighing and crying because of his poverty and say to him, "God has said, 'No good thing will He withhold from them that walk uprightly.' Do you believe this?" What would the complainer say? How could he reconcile his discomfort and his murmuring with his belief in the comforting promise? My Brothers and Sisters, let us, then, go over these matters with our souls. We call ourselves Believers, but are we? If it is so that one after another we doubt the precious things of God when they come before us in detail, where is our faith? Let us entreat our God to grant us Divine Grace that we may put our finger on this doctrine, on that promise and on the other assurance and say of each one, "Lord, I believe this, and I believe this, and I believe this—for I believe whatever You say in Your Word and I know that it shall be even as You have told me."
 
 God bless you, Beloved, and be always with you for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1567 The Blood of the Covenant|← #1567]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1569 The Golden Lamp and Its Goodly Lessons|#1569 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Chariots Of Amminadib
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1155
-
-DELIVERED BY.
 
 > "Before I was even aware, my soul made me like the chariots of Amminadib." Song of Solomon 6:12.
 
@@ -172,7 +169,6 @@ Which wonders to feel its own hardness depart.
 Dissolved by Your goodness, I fall to the ground
 
 And weep to the praise of the Glory I've found."
-
 
 ---
 [[Sermon 1154 Daniel Facing the Lions' Den|← #1154]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1156 Rubbish|#1156 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Sermon From a Sick Preacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3014
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore, to you who believe, He is precious." 1 Peter 2:7.
 
@@ -125,9 +122,9 @@ This may serve as a test for each one here. My Brother, my Sister, do you believ
 
 If not, you have not built on the Rock. If you are not loving Christ, I pray you examine yourself and see where you are, for there is but a step between you and Hell. Repent! May God convert you and give you now to put your confidence in Jesus and now to be saved, that He may be glorified in you, for hitherto He has had no glory from you! Unto you that do not believe, Christ is not precious, and you will go your way and despise Him. Oh, that you were made wise by the Holy Spirit and taught to consider things rightly! Then Christ would, indeed, be precious to you. He is the only way for your escape from the wrath to come. He is the only hope for you of ever entering the gates of Heaven. He must be your only Shelter when the world will be all ablaze, as soon it shall—when the stars shall fall, like withered leaves from the trees, when all creation shall rock and reel—and His voice shall resound in earth, and Heaven, and Hell, "Awake, you dead, and come to judgment!" The only hope of a Savior, in that last tremendous day, must be found in Jesus. Oh, seek Him now while He may be found! Call upon Him now while He is near! Turn not your heels away Him now, lest you turn once and for all to Hell! Come to Him now! Believe in Him now! And He shall have the glory! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-1 PETER 2.
+## 1 Peter 2
 
 Verse 1. Therefore laying aside all malice, and all guile, and hypocrisies and envies, and all evil speaking. Putting these evil things right away from you, having nothing further to do with any of them. Notice the repetition of the word "all." "All malice and all guile"—everything in the shape of deceit—"and all evil speaking." All these are to be put away by all Believers, as rags are put away in the rag-bucket, or refuse on the dunghill!
 
@@ -183,8 +180,7 @@ Him.
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3013 Warning and Encouragement|← #3013]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3015 The Two Debtors|#3015 →]]

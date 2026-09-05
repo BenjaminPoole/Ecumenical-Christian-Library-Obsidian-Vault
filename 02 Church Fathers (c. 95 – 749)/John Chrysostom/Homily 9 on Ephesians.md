@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 9 on Ephesians
 
-Chapter IV. Verses 1-3
+## Chapter IV. Verses 1-3
 
 I therefore, the prisoner in the Lord, beseech you, to walk worthily of the calling wherewith you were called, with all lowliness and meekness, with long-suffering, forbearing one another in love; giving diligence to keep the unity of the Spirit in the bond of peace.
 

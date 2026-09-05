@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # Metropolitan Tabernacle Pulpit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 421
@@ -37,7 +36,7 @@ Do not, I pray, let us attempt to measure Christ's sufferings by the finite one 
 
 My discourse will, I have no doubt, more fully illustrate the remark with which I have commenced—let us proceed to it at once. First, let us hear the text and understand it. Then let us hear it and wonder at it. And then, thirdly, let us hear it and proclaim it.
 
-I. LET US HEAR THE TEXT AND UNDERSTAND IT.
+## I. Let Us Hear the Text and Understand It
 
 The Son of God has been made Man. He has had a life of perfect virtue and of total self-denial. He has been all that life-long despised and rejected of men, a Man of Sorrows and acquainted with grief. His enemies have been legion. His friends have been few and those few faithless. He is at last delivered over into the hands of them that hate Him. He is arrested while in the act of prayer. He is arraigned before both the spiritual and temporal courts. He is robed in mockery and then enrobed in shame. He is set upon His throne in scorn and then tied to the pillar in cruelty. He is declared innocent and yet He is delivered up by the judge who ought to have preserved Him from His persecutors.
 
@@ -142,7 +141,6 @@ Do you thirst for Christ? Do you wish to be saved by Him? "Everyone that thirsts
 "It is finished." Sinner, there is nothing for God to do. "It is finished." There is nothing for you to do. "It is finished," "Christ need not bleed." It is finished. "You need not weep." "It is finished." God the Holy Spirit need not tarry because of your unworthiness, nor need you tarry because of your helplessness. "It is finished." Every stumbling block is rolled out of the road, every gate is opened, the bars of brass are broken, the gates of iron are burst asunder.
 
 "It is finished!" Come and welcome, come and welcome! The table is laid, the fatlings are killed. The oxen are ready. Lo, here stands the messenger! Come from the highways and from the hedges! Come from the dens and from the kens of London. Come, you vilest of the vile. You who hate yourselves today, come! Jesus bids you! Oh, will you tarry? Oh, Spirit of God, won't You repeat the invitation and make it an effectual call to many a heart, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 0420 Abram And The Ravenous Birds|← #420]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0422 The Peacemaker|#422 →]]

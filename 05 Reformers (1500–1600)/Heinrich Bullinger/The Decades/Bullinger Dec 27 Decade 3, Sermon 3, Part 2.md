@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 27. Decade 3, Sermon 3, Part 2
 
 [2 So the Vulgate and Coverdale, The Lord hath done his pleasure : and Cyprian.]
@@ -32,8 +31,6 @@ The faithful are exiled, or banished their country : but Affliction in the heath
 
 [8 ceu morbus aliquis, Lat. omitted ; like some disease.]
 
-102 THE THIRD DECADE. [sERM.
-
 Affliction in in hell1. Moreover, it is to be abhorred, detested, and (yet) wars by de- /• i_ i_ MI • flouring of lamented of all men, to see a crew ot barbarous villains and women.
 
 unruly soldiers abuse perforce, not honest matrons only, but tender virgins also, that are not fit yet nor ripe for a man. But the greatest comfort that we have in so great a mischief and intolerable ignominy is, that chastity is a virtue of the mind. For if it be a treasure of the mind, then is it not lost though the body be abused : even as in like sort the faith of a man is not thought to be overcome, although the whole body be consumed with fire. And chastity is not lost, verily, where the body is defloured ; because the will of the abused body persevereth still to use that chastity, and doth what it may to keep it undefiled. For the body is not holy therefore, because the members thereof are undefiled, or because the secret parts thereof are not undecently touched : considering that the body, being wounded by many casualties, may suffer filthy violence ; and since physicians for health's sake may do to the members the thing that otherwise is unseemly to the eyes. Wherefore so long as the purpose of the mind (by which the body must be sanctified) remaineth, the violent deed of another's filthy lust taketh not from the body that chastity, which the persevering continency of the defloured body doth seek to preserve. And hi the meanwhile there is no doubt but the most just Lord will sharply punish those shameless beasts and monsters of nature, which dare undertake to commit such wickedness. The sainu in The saints are confirmed in their tribulation by the innu- suffering the merable examples of their fore-fathers; whereby they gather,
@@ -45,8 +42,6 @@ unruly soldiers abuse perforce, not honest matrons only, but tender virgins also
 [3 domestica infortunia, Lat. ; in his family.} [4 a Domino Israclem cognominatum, Lat. omitted; whom God surnamed Israel.]
 
 [•'' in exquisitissima afflictionum palaestra sen offtcina, Lat.] [6 optimum senem tantum non enecant, Lat.] [7 sanctum Deo tradit spiritum, Lat.] [8 peccati, Lat. ; of sin.]
-
-104 THE THIRD DECADE. [SERM.
 
 brought him to his end: but having at the last (for all that Saul could do) obtained the kingdom, afflictions ceased not to follow him still; for, after many troublesome broils, he was by Absalom thrust beside his kingdom, and very straitly dealt withal: and yet in the end God of his goodness did set him up again.
 
@@ -69,8 +64,6 @@ The first persecution of those ten5 did Nero, that beast and lecherous monster, 
 [5 Primam (persecutionem) quippe computant (nonnulli) a Nerone qurc facta cst, secundam a Domitiano, a Trajano tertiam, quartam ab Antonino, a Severo quintain, scxtam a Maximino, a Decio septimam, octavam a Valeriano, ab Aureliano nonam, decimam a Dioclctiano et Maximiano. — Aug. de Civ. Dei, Lib. xvm. cap. 62. Par. 1631. Tom. v. fol. 251. See Euseb. Eccl. Hist. in. 18, 36; iv. 16; vi. 1, 41; vn. 11, 30, &c.]
 
 [6 We have no account of the death of Irenoeus upon which wo can absolutely depend ; and there is a doubt whether he was martyred or not.]
-
-106 THE THIRD DECADB. [SERM.
 
 wore especially slaughtered. The seventh blood-sucker after beastly Nero was Decius the Emperor, who proclaimed most horrible edicts against the faithful. In his time was St Laurence, a deacon of the church, broiled upon a grate-iron ; and the renowned Virgin Apollonia, for her profession, did leap into the fire alive. Licinius Valerianus was as cruel as the rest in executing the eighth persecution against the faithful professors of Christ and his gospel. In that broil were slain many millions of Christians, and especially St Cornelius and Cyprian, the most excellent doctors in all the world. Valerius Aurelianus did rather purpose, than put in execution, the ninth persecution : for a thunder rushed before him to the great terror of them that were about him; and, shortly after, he was slain as he journeyed, and so his tyranny by his death was ended. But Caius Aurelius Valerius Diocletianus, Maximinianus Maxentius, and Marcus Julius Licinius, being nothing terrified with this horrible example, did raise the tenth persecution against the church of Christ, which, enduring by the space of ten whole years, brought to destruction an infinite number of Christians in every province and quarter of the world. This broil doth Eusebius Csesariensis passingly1 paint to the eyes of the reader : for he himself was an eye-witness and looker-on of many a bloody pageant and triumphant victory of the martyrs, which he rehearseth in the eighth book of his ecclesiA.D. see. astical history. In that slaughter were killed the first apostles of our Tigurine church, both martyrs of Christ and professors of his gospel, S. Fcelix and his sister Regula2.
 
@@ -102,21 +95,19 @@ be punished, and in the world to come to be damned for ever; yet they are glad, 
 
 [6 hoc potissimum nomine, Lat. ; for this reason specially.]
 
-108 THE THIRD DECADE. [SERM.
-
 a care over those that be his servants. They do gather also bj the present vengeance of God upon the wicked, that as afflictions are for the health and amendment of the faithful, so they are to the hurt and destruction of the unbelievers : for, while they persecute other, they themselves are destroyed ; and while they trouble the church of the living God, they kindle a fire of the wrath of God against themselves, that will never be quenched. For in the prophecy of Zacharias thus we read that the Lord speaketh touching xu. his church : " Behold, I make Jerusalem a cup1 of poison unto all the people that are round about her : yea, Juda himself shall be in the siege against Jerusalem2. And in that day I will make Jerusalem a heavy stone for all people ; so that all such as lift it up shall be torn and rent, and all the people of the earth shall be gathered together against it." A like saying to this hath the Lord in Jeremy, where he speaketh
 
 [jcr. KV. is, against the persecutors of his church, and saith : " Take this wine-cup of indignation from my hand, and make all the people, to whom I send thee, to drink of it ; that when they have drunken thereof, they may be mad, and out of their wits, for fear of the sword which I will send among them. For I begin to plague the city that is called after my name ; and think ye then that ye shall escape unpunished? Ye shall not go unpunished." And this is that whereto St Peter
 
 £i Pet ir. 17.] alluding saith: "The time is that the judgment of God beginneth at the house of God : if it first begin with us, what shall the end of them be, that believe not the gospel ?"
 
-Vengeance I have a little above rehearsed in order the ten persecu- tions, which the Roman emperors stirred up against the church of Christ : now histories make mention, that there was not one of them but was requited with some notable calamity. And, beside the peculiar revengements that followed every several persecution, it is to be noted, that the most just Lord, after the space of three hundred and forty-two years (for so many years are reckoned from the last of Nero unto the second
+Vengeance I have a little above rehearsed in order the ten persecutions, which the Roman emperors stirred up against the church of Christ : now histories make mention, that there was not one of them but was requited with some notable calamity. And, beside the peculiar revengements that followed every several persecution, it is to be noted, that the most just Lord, after the space of three hundred and forty-two years (for so many years are reckoned from the last of Nero unto the second
 
 [l calix soporis, Lat. ; a cup of trembling, Auth. Ver. ; slumber, marg. reading.]
 
 [2 So also Coverdale, 1535. Calvin in loc. remarks: Miror cur omittant quidam interpretes particulam ^y, et ita vertant, Erit etiam Jehudah in obsidione contra Jerusalem.]
 
-III.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS.
+## III.] the Eighth Precept of the Ten Commandments
 
 year of the emperors Honorius and Theodosius3), did begin more abundantly to requite the death of his saints upon the necks of the blood-thirsty Rome. For within the space of one hundred and nine and thirty years Rome was six times taken and brought into subjection to the barbarous nations4. For in the four hundredth5 year of grace, which was the second of Honorius and Theodosius his reign, the Wisigothes, under their captain Alaricus, both took and sacked the city, using notwithstanding great mercy in then* victory. After that again, the Vandals, under their guide Genserichus, brake into the city cruelly, and spoiled it very greedily6. After them came the Herules, and the remnant of Atthilas his army, with their captain Odacer, who took the city, and got the kingdom to themselves, extinguishing utterly the rule of the Romans in the west part of the world7. Then again, when about fourteen years were come and gone, in cometh Theodoricus Veronensis with his Ostrogothes, who slew the Herules, and o'btained the city8. But, it, being recovered by the faith and industry of the valiant captain Belisarius, and restored to Justinian the emperor of the east, was immediately again taken by Totylas9, a prince of the Goths; who with fire and sword did sack it, pull down houses, and overthrew a great part of the walls thereof, whereby Rome was so defaced, that for the space of certain days there was no man that dwelt within it. That spoil of the city happened about the five hundred and forty-eighth year after Christ his incarnation10. And thus did Christ, in revenging his church, lay deserved plagues upon the neck of bloody Rome ; beside other miseries (I pass that over)
 
@@ -136,8 +127,6 @@ year of the emperors Honorius and Theodosius3), did begin more abundantly to req
 
 [10 A.D. 546. Gibbon, chap. 43, Vol. vn. p. 366; and again, after a repulse, finally taken A.D. 549. ibid. p. 375.]
 
-110 THE THIRD DECADE. [sERM.
-
 which it did suffer by the Huns and Lombards1. For this is enough to shew how miserably Rome was plagued for afflicting the church of Christ ; which nevertheless, maugre the tyrants' heads, remained safe, and overcame those brunts, and shall reign with Christ for evermore. In like manner were the Saracens extinguished and utterly destroyed, when first they had suffered many a great overthrow, and had been plagued throughout the world with sundry mishaps and overthwart calamities. The Turks also do daily feel their woes and miseries, and are likely hereafter to feel sharper punishments. Moreover, the popes2 with poison are one slain by another, and are strangely vexed with wonderful terrors. They are in no place sure of their lives, but even in the midst of all their friends are beset with miseries; they live in fear continually, all the whole pack of them. Furthermore, even they among them, that live most happily, do rot away with the disease that folio weth filthy pleasures; than which there is no kind of death either sharper to the patient, or more detested among all men. And their adherents, which by their setting on do persecute the church of Christ, do either They were drop away with the like disease that waiteth upon filthy lust, eaten of iii«i i i« i T-T-I i • worms aiive, or do by little and little consume away, as Herod and Anti- and stank so * . » normany) that oc^us3 ^ » w^c^ death is long before it dispatch them, but them.abide doth torment them beyond all measure: yea, and besides these bitter plagues, they destroy one another with endless civil wars. The Lord therefore is righteous, and his judgments are just and equal, who never forgetteth to revenge his friends by finding out his own and his servants' enemies, to punish them for their deserts.
 
 The conSince then, my brethren, that the case so standeth, let us.
@@ -150,17 +139,17 @@ I beseech you, patiently suffer the hand of the Lord our God, as often as we are
 
 III.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. Ill temptations, and guide us in the way of constancy, peace, and righteousness. And for an example, let every one set before his eyes the order that Christ our Saviour and master did use; who, a little before the cross of his passion, betook himself to prayer. For going up into the mount of Olives, he beseecheth his Father humbly, and prayeth to him ardently. He is instant in prayer4, and lieth upon him earnestly5; and yet so, that he submitteth all to his will and pleasure. Let us also do the like, that we may have trial of our Father's present aid with the effectual comfort of our minds, and that we for his goodness may give him praise for evermore. Amen.
 
-OF THE FIFTH AND SIXTH PRECEPTS OF THE SECOND
+## Of the Fifth and Sixth Precepts of the Second
 
-TABLE, WHICH ARE IN ORDER THE NINTH AND TENTH
+## Table, Which Are in Order the Ninth and Tenth
 
-OF THE TEN COMMANDMENTS, THAT IS, THOU SHALT
+## Of the Ten Commandments, that Is, Thou Shalt
 
-NOT SPEAK FALSE WITNESS AGAINST THY
+## Not Speak False Witness Against Thy
 
-NEIGHBOUR : AND, THOU SHALT NOT
+## Neighbour : And, Thou Shalt Not
 
-COVET THY NEIGHBOUR'S
+## Covet Thy Neighbour's
 
 HOUSE, &c.
 

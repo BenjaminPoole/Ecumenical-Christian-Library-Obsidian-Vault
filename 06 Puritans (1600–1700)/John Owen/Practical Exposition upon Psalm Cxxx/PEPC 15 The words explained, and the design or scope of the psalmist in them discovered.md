@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # The words explained, and the design or scope of the psalmist in them discovered
-
-*The words explained, and the design or scope of the psalmist in them discovered.*
 
 The state and condition of the soul making application unto God in this psalm is recounted, verse 1. It was in the “depths” not only *providential depths* of trouble, affliction, and perplexities thereon; but also *depths of conscience*, distress on the account of sin; as in the opening of those words have been declared.
 
@@ -67,7 +64,6 @@ By the “fear of the Lord,” in the Old Testament, the whole worship of God, m
 The words being thus opened, we may take a full view in them of the state and condition of the soul expressed in this psalm; and that answering the experiences of all who have had any thing to do with God in and about the depths and entanglements of sin.
 
 Having in and from his great depths, verse 1, addressed himself with fervent, redoubled cries, yea, outcries to God, and to him alone, for relief, verses 1, 2; having also acknowledged his iniquities, and considered them according to the tenor of the law, verse 3; he confesseth himself to be lost and undone for ever on that account, verse 3. But he abides not in the state of self-condemnation and dejection of soul; he says not, “There is no hope; God is a jealous God, a holy God, I cannot serve him; his law is a fiery law, which I cannot stand before; so that I had as good give over, sit down and perish, as contend any longer!” No; but searching by faith into the discovery that God makes of himself in Christ through the covenant of grace, he finds a stable foundation of encouragement to continue waiting on him, with expectation of mercy and pardon.
-
 
 ---
 [[PEPC 14 Grounds of miscarriages when persons are convinced of sin and humbled|← Grounds of miscarriages when persons are convinced of sin and humbled]] · [[Practical Exposition upon Psalm Cxxx|Contents]] · [[PEPC 16 Propositions or observations from the former exposition of the words|Propositions or observations from the former exposition of the words →]]

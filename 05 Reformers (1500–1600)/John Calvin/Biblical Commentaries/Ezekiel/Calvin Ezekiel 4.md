@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Ezekiel 4:1-3
 
@@ -31,7 +30,7 @@ When God pronounces that the Prophet should do nothing in vain, this ought to be
 
 ## Prayer Lecture 11
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou so graciously invitest us to thee, and ceasest not, even if we are deaf, to continue towards us the same goodness — that at length we may be disciplined to obedience and permit ourselves to be ruled by thy word: grant also that we may obey not only for a single day or a short period, but perseveringly, until at the final close of life’s journey we may be gathered at length to thy celestial repose, through Jesus Christ our Lord. Amen.
 
@@ -81,7 +80,7 @@ This confirms what I have said, namely, that the want should be such, that the P
 
 ## Prayer Lecture 12
 
-**PRAYER.**
+## **Prayer.**
 
 Almighty God, since thou hast thus far sustained us by thy inestimable clemency, grant that we may not abuse thy goodness, and by our perverseness provoke thy vengeance against us, but may we prevent thy judgment, and so submit ourselves to thee that thou mayest take us into thy confidence and protect us against all our enemies: then supply us bountifully with whatever is needful for us, and since thou wishest us to restrain our natural desires, may we never be deficient in spiritual food, but be continually refreshed with it, until at length we enjoy that fullness which is promised us and laid up for us in heaven by Christ our Lord. — Amen.
 

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Without Clouds
 
-Chapter XIV · *The Upper Room* — J. C. Ryle
+## Chapter XIV · *The Upper Room* — J. C. Ryle
 
 > — 2 Sam. 23:4-5[^1]
 
@@ -106,7 +105,6 @@ He would have us never forget that our departed friends in Christ are not lost, 
 (c) Finally, have we troubles? Let us never forget that one of the best of remedies and most soothing medicines is to try to do good to others, and to be useful. Let us lay ourselves out to make the sorrow less and the joy greater in this sin-burdened world. There is always some good to be done within a few yards of our own doors. Let every Christian strive to do it, and to relieve either bodies or minds.
 
 Selfish feeding on our own troubles, and lazy poring over our sorrows, are one secret of the melancholy misery in which many spend their lives. If we trust in Jesus Christ's blood, let us remember His example. He ever "went about doing good" (Acts 10:38). He came not to be ministered unto, but to minister, as well as to give His life a ransom for many. Let us try to be like Him. Let us walk in the steps of the good Samaritan, and give help wherever help is really needed. Even a kind word spoken in season is often a mighty blessing. That Old Testament promise is not yet worn out: "Blessed is the man that provideth for the sick and needy; the Lord shall deliver him in the time of trouble" (Ps. 41:1, Prayer-book version).
-
 
 ---
 [[UR 13 Many|← Many]] · [[The Upper Room|Upper Room Contents]] · [[UR 15 The Lord's Garden|The Lord's Garden →]]

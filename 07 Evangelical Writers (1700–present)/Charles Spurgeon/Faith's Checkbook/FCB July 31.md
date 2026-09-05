@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 31
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**AN APPEAL; DELIVERANCE**
+## **An Appeal; Deliverance**
 
 > And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me." Ps. 50:15
 
@@ -27,7 +26,6 @@ Here is condescending advice, "call upon me." We ought not to need the exhortati
 Here is reassuring encouragement: "I will deliver thee." Whatever the trouble may be, the Lord makes no exceptions, but promises full, sure, happy deliverance. He will Himself work out our deliverance by His own hand. We believe it, and the Lord honors faith.
 
 Here is an ultimate result: "Thou shalt glorify me. Ah! that we will do most abundantly. When He has delivered us we will loudly praise Him; and as He is sure to do it, let us begin to glorify Him at once.
-
 
 ---
 [[FCB July 30|← July 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 1|August 1 →]]

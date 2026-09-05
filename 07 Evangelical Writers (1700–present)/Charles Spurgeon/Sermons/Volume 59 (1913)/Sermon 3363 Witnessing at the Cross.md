@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Witnessing at the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3363
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And one of the malefactors who was hanged, railed on Him, saying, If you are Christ, save Yourself and us. But the other answering rebuked him, saying, Do not you fear God, seeing you are in the same condemnation? And we, indeed, justly, for we receive the due reward of our deeds; but this Man has done nothing amiss. And he said unto Jesus, Lord, remember me when You come into Your Kingdom. And Jesus said unto him, Verily, I say unto you, today shall you be with Me in Paradise." Luke 23:39-43.
 
@@ -39,7 +36,7 @@ Let us always expect, then, dear Friends, that God will overrule the machination
 
 We will now come close up to the dying thief and look, first, at his faith. Secondly, at his confession of faith. Thirdly, at his prayer of faith. And fourthly, at the answer of his faith. First, then, may the Holy Spirit help us concerning this dying malefactor, to consider—
 
-I. HIS FAITH.
+## I. His Faith
 
 It was of the operation of the Spirit of God and there was nothing in his previous character to lead up to it. How came that thief to be a Believer in Jesus? You who carefully read the Gospels will have noticed that Matthew says (Matt 27:44), "The thieves also, which were crucified with Him, cast the same in His teeth." Mark also says, "They that were crucified with Him reviled Him." These two Evangelists plainly speak of both thieves as reviling our Lord! How are we to understand this? Would it be right to say that those two writers speak in broad terms of the thieves as a class because one of them so acted, just as we in common conversation speak of a company of persons doing such-and-such, when, in fact, the whole matter was the deed of one man of the party? Was it a loose way of speaking? I think not! I do not like the look of suppositions of error in the Inspired volume. Would it not be more reverent to the Word of God to believe that the thieves did both revile Jesus? May it not be true that, at the first, they both joined in saying, "If you are the Christ, save Yourself and us," but that afterwards, one, by a miracle of Sovereign Grace, was led to a change of mind and became a Believer? Or would this third theory meet the case—that at the first the thief who afterwards became a penitent, having no thought upon the matter, by his silence gave consent to his fellow's reviling so as fairly to come under the charge of being an accomplice therein—but when it gradually dawned upon his mind that he was under error as to this Jesus of Nazareth, it pleased God in Infinite Mercy to change his mind so that he became a confessor of the Truth of God, though he had at first silently assented to the blasphemy of his companion? It would be idle to dogmatize, but we will gather this lesson from it—that faith may enter the mind, notwithstanding the sinful state in which the man is found. Grace can transform a reviling thief into a penitent Believer!
 
@@ -57,7 +54,7 @@ That word, "restful," reminds me of a lovely characteristic of his faith, namely
 
 This is the kind of faith which we must all have if we would be saved. Whether we know how we come by it or not, it must be a faith which rolls itself upon Christ and a faith which consequently brings peace to the soul. Do you possess such faith, dear Friend? If you do not, remember that you may die all of a sudden, and then into Paradise you will never enter! Look well to this and believe in the Lord Jesus at once! And now in the second place, we are going to look at this man's—
 
-II. CONFESSION OF FAITH.
+## II. Confession of Faith
 
 He had faith and he confessed it. He could neither be baptized nor sit at the Communion Table, nor unite with the Church below. He could not do any of those things which are most right and proper on the part of other Christians, but he did the best he could under the circumstances to confess his Lord!
 
@@ -71,7 +68,7 @@ The thiefs confession of faith was exceedingly honoring to the Lord Jesus Christ
 
 One other point about this man's confession is worthy of notice, namely, that he was evidently anxious to change the mind of his companion. He rebuked him and he reasoned with him. Dear Friends, I must again put a personal question. Are there not many professing Christians who have never manifested a tithe as much anxiety for the souls of others as this thief felt? You have been a Church member 10 years, but did you ever say as much to your brother as this dying thief said to the one who was hanging near him? Well, you have meant to do so. Yes, but did you ever do it? You reply that you have been very glad to join others in a meeting. I know that, too, and so far so good! But did you ever personally say as much to another as this dying man did to his old companion? I fear that some of you cannot say so. I, for my part, bless and magnify the Grace of God which gave this man one of the sweet fruits of the Spirit, namely, holy charity towards the soul of another so soon after he, himself, had come to believe in Jesus! May we, all of us, have it yet more and more! So much for the confession of his faith. Now a little, in the third place, about—
 
-III. HIS PRAYER OF FAITH.
+## III. His Prayer of Faith
 
 "Lord, remember me when You come into Your Kingdom." He addressed the dying Savior as Divine. Wonderful faith this, to call Him Lord who was "a worm and no man," and was hanging there upon the Cross to die! What shall we say of those who, now that He is exalted in the highest heavens, yet refuse to acknowledge His Deity? This man had a clearer knowledge of Christ than they have! The Lord take the scales from their eyes and make them pray to Jesus as Divine!
 
@@ -87,7 +84,7 @@ We see how strong that faith was because he had no invitation to pray. I do not 
 
 Glory be to God who worked such a faith in such a man as this! We have done when we have mentioned, in the fourth place—
 
-IV. THE ANSWER TO HIS FAITH.
+## IV. The Answer to His Faith
 
 We will only say that his faith brought him to Paradise. We had a Paradise, once, and the first Adam lost it. Paradise has been regained by the Second Adam, and He has prepared for Believers an Eden above, fairer than that first Garden of delights below! Faith led the dying thief to be with Christ in Paradise which was best of all! "Today shall you be with Me in Paradise." Whatever the joy of Christ, and the Glory of Christ, the thief was there to see it and to share it as soon as Christ Himself!
 
@@ -97,7 +94,7 @@ The lesson of our text is not merely that Christ can save in our last extremity,
 
 Instantaneous salvation! Immediate salvation! This, the Spirit of God gives to those who trust in Jesus! You need not wait till tomorrow's sun has dawned. Talk not of a more convenient season. Sitting where you are, the Almighty Grace of God can come upon you and save you—and this shall be a sign unto you that Christ is born in your heart, the hope of Glory—when you believe in Him as your Pardon, Righteousness, and All-in-All, you shall have peace. If you do but trust yourself in Jesus' hands, you are a saved soul and the angels in Heaven are singing high praises to God and the Lamb on your account! Farewell.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 1:1-24.
+## Exposition by C. H. Spurgeon: 1 Corinthians 1:1-24
 
 Verse 1. Paul, called to be an Apostle of Jesus Christ through the will of God, and Sosthenes our brother This brother had been put to great shame. He was beaten before the judgment seat, if you remember, and now he has the great and lasting honor of being mentioned by the Apostle with himself. God will honor those who bear dishonor for His name's sake. Be not ashamed even to be beaten for Christ—the stripes are stripes of glory!
 
@@ -126,7 +123,6 @@ itself exceedingly philosophical and sage, but if you weigh its wisest conclusio
 21\. 22. It pleased God by the foolishness of preaching to save them that believe. For the Jews require a sign. Some miracle, something that shall attest it in a supernatural way.
 
 22-24. And the Greeks seek after wisdom. But we preach Christ crucified, unto the Jews a stumbling block, and unto the Greeks foolishness. But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. Beloved, you know how true this is! It has been a wonderful power in you, and this day it is the only wisdom which you desire to possess!
-
 
 ---
 [[Sermon 3362 Fearing and Trusting—trusting and Not Fearing|← #3362]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3364 Surveying the Field|#3364 →]]

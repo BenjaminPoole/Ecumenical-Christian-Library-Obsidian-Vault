@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 25
 
-**CHAPTER 25**
+***Chapter 25***
 
 ## Isaiah 25:1-12
 

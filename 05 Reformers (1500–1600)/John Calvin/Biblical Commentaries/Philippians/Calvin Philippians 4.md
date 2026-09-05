@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Philippians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Philippians 4:1-3
 
@@ -165,7 +164,7 @@ The similitude of sacrifices, however, adds much emphasis, by which we are taugh
 
 **22** *The brethren that are with me salute you* In these salutations he names first of all his intimate associates, [^53] afterwards all the saints in general, that is, the whole Church at Rome, but chiefly those of the household of Nero — a thing well deserving to be noticed; for it is no common evidence of divine mercy, that the gospel had made its way into that sink of all crimes and iniquities. It is also the more to be admired, in proportion as it is a rare thing for holiness to reign in the courts of sovereigns. The conjecture formed by some, that Seneca is here referred to among others, has no appearance of foundation; for he never gave any evidence, even the smallest, of his being a Christian; nor did he belong to the *household of Caesar,* but was a senator, and had at one time held the office of praetor. [^54]
 
-**END OF THE COMMENTARY ON THE EPISTLE TO THE PHILIPPIANS.**
+## **End of the Commentary on the Epistle to the Philippians.**
 
 ---
 [[Calvin Philippians 3|← Philippians 3]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Philippians/philippians-index|Contents]]

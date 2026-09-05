@@ -18,7 +18,7 @@ tags:
 
 **3.** But let not any impure love be even named or heard of among you - Keep at the utmost distance from it, as becometh saints.
 
-**4.** Nor foolish talking - Tittle tattle, talking of nothing, the weather, fashions, meat and drink. Or jesting - The word properly means, wittiness, facetiousness, esteemed by the heathens an half- virtue. But how frequently even this quenches the Spirit, those who are tender of conscience know. Which are not convenient - For a Christian; as neither increasing his faith nor holiness.
+**4.** Nor foolish talking - Tittle tattle, talking of nothing, the weather, fashions, meat and drink. Or jesting - The word properly means, wittiness, facetiousness, esteemed by the heathens an half-virtue. But how frequently even this quenches the Spirit, those who are tender of conscience know. Which are not convenient - For a Christian; as neither increasing his faith nor holiness.
 
 **6.** Because of these things - As innocent as the heathens esteem them, and as those dealers in vain words would persuade you to think them.
 

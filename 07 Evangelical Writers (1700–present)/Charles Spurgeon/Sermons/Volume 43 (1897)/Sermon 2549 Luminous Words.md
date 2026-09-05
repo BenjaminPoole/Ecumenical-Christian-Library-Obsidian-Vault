@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Luminous Words
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2549
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore since Christ has suffered for us in the flesh, arm yourselves, likewise, with the same mind: for he that has suffered in the flesh has ceased from sin; that he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. For the time past of our life may suffice us to have worked the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, drinking parties and abominable idolatries." 1 Peter 4:1-3.
 
@@ -85,7 +82,7 @@ And, sometimes, it is a good thing to put it to yourself, "Why, I have stood up 
 
 I would like you all to take up these three threads—"No longer," "The rest of His time," "The time past of our life." Wind them round your finger and keep them in your memory, and may God grant that we may all start afresh from this time, to the praise of the glory of His Grace! Amen and amen.
 
-EXPOSTION OF C. H. SPURGEON: 1 PETER 4
+## Expostion of C. H. Spurgeon: 1 Peter 4
 
 Verse 1. Therefore since Christ has suffered for us in the flesh, arm yourselves, likewise, with the same mind. Accepting this great Truth of God, that it is well that the flesh should die that the spirit may triumph, even as it was with Christ.
 
@@ -132,7 +129,6 @@ Verse 1. Therefore since Christ has suffered for us in the flesh, arm yourselves
 18\. Where shall the ungodly and the sinner appear?\f even men who live godly lives are often hard put to it to know whether they shall be saved or not—if they raise the question again and again with a terrible seriousness, "where shall the ungodly and the sinner appear?"
 
 19\. Therefore let them that suffer according to the will of God commit the keeping of their souls to Him in doing well, as unto a faithful Creator The whole run of the chapter is that we are to prefer any suffering of the flesh to the sin of the spirit and we are to be prepared to endure whatever trial or pain may come upon us for Christ's sake, and to hear it joyfully, rather than to seek the pleasures of sin and to be plunged under the waves of the wrath of God. May He give us the Grace thus to glorify Him, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2548 Four Contrasts|← #2548]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]]

@@ -10,13 +10,11 @@ tags:
   - venerable-bede
   - bede-history
 ---
-
-
 # Book II, Chapter 11. How Pope Boniface advised the king's consort to use her best endeavours for his salvation. [Circ.625 a.d.]
 
 The same pope also wrote to King Edwin's consort, Ethelberg, to this effect:
 
-THE COPY OF THE LETTER OF THE MOST BLESSED AND APOSTOLIC BONIFACE, POPE OF THE CITY OF ROME, TO ETHELBERG, KING EDWIN'S QUEEN.
+## The Copy of the Letter of the Most Blessed and Apostolic Boniface, Pope of the City of Rome, to Ethelberg, King Edwin's Queen
 
 “To the illustrious lady his daughter, Queen Ethelberg, Boniface, bishop, servant of the servants of God.The goodness of our Redeemer has in His abundant Providence offered the means of salvation to the human race, which He rescued, by the shedding of His precious Blood, from the bonds of captivity to the Devil; to the end that, when He had made known His name in divers ways to the nations, they might acknowledge their Creator by embracing the mystery of the Christian faith. And this the mystical purification of your regeneration plainly shows to have been bestowed upon the mind of your Highness by God's gift. Our heart, therefore, has greatly rejoiced in the benefit bestowed by the bounty of the Lord, for that He has vouchsafed, in your confession, to kindle a spark of the orthodox religion, by which He might the more easily inflame with the love of Himself the understanding, not only of your illustrious consort, but also of all the nation that is subject to you.
 

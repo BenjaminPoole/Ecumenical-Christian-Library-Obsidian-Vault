@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'Feed My Sheep'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3211
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He said unto him, Feed My sheep." John 21:16.
 
@@ -102,7 +99,6 @@ I always feel, in reference to my own people, that if they can put up with me, I
 Much honor lies in the fact that our Lord says to each of us personally, "Feed My sheep." I think that I see Him here among us. He of the pierced hands and the marred Countenance, with the crown of thorns about His brow stands in this hall and speaks to us. Or, if you will, with all His glories on, He comes among us! He looks on us all and even on me, my dear Brothers—and He says to each of us, "Do you see those poor tempted people? They are My sheep. I have loved them from before the foundation of the world. Will you feed them for Me? I have called them out of the world by victorious Grace, will you feed them for Me? I have provided abundant pasture for them, will you feed them for Me? I have bought them with My blood—behold the memorials of My purchase in My hands and My feet, My head and My side—will you feed them for Me? I have also loved you, and you love Me—will you feed My sheep for Me? I will feed you, will you feed them? Your bread shall be given you and your water shall be sure—will you feed My beloved ones for Me? I have gone to prepare a place for them in My own sweet pastures on the hilltops of Glory. Will you feed them till I come again? I will feed them through you by the Holy Spirit—will you be My instruments?"
 
 Do we not all reply, "Beloved Master, we think it our highest honor to be privileged thus and, cost us what it may, we will spend our lives in feeding Your sheep"? Brothers, say not much by way of a vow, but say much by way of prayer! Lord, help us all henceforth to feed Your sheep! Amen.
-
 
 ---
 [[Sermon 3210 Clinging to Christ|← #3210]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3212 A Command and a Promise|#3212 →]]

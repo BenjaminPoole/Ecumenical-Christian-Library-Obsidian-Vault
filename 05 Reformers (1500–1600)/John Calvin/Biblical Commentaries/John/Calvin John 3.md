@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## John 3:1-6
 

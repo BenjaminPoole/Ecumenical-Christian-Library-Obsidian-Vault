@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 18 — Whereas sundry of these things are founded in the light and law of nature, as requisite unto all solemn worship, and are, moreover, commanded in the moral law, and explications of it in the Old Testament, how do you look upon them as evangelical institutions, to be observed principally on the authority of Jesus Christ?
-
-Question 18 — Whereas sundry of these things are founded in the light and law of nature, as requisite unto all solemn worship, and are, moreover, commanded in the moral law, and explications of it in the Old Testament, how do you look upon them as evangelical institutions, to be observed principally on the authority of Jesus Christ?
 
 Answer — Neither their general suitableness unto the principles of right reason and the dictates of the light and law of nature, nor the practice of them in the worship of God under the Old Testament, does at all hinder them from depending on the mere institution of Jesus Christ, as to those especial ends of the glory of God in and by himself, and the edification of his church in the faith which is in him, whereunto he hath appointed them, nor as unto that especial manner of their performance which he requireth; in which respects they are to be observed on the account of his authority and command only. Matt. xvii. 5, xxviii. 20; John xvi. 23, 24; Heb. iii. 4–6; Eph. i. 22, ii. 20–22; Heb. xii. 25.
 
@@ -23,7 +20,6 @@ First, That our Lord Jesus Christ being the king and head of his church, the lor
 Secondly, And that, therefore, the suitableness of any thing to right reason or the light of nature is no ground for a church-observation of it, unless it be also appointed and commanded in especial by Jesus Christ.
 
 Thirdly, That being so appointed and commanded, it becomes an especial institution of his, and as such is to be observed. So that in all things that are done, or to be done, or to be done, with respect unto the worship of God in the church, the authority of Christ is always principally to be considered, and every thing to be observed as commanded by him, without which consideration it hath no place in the worship of God.
-
 
 ---
 [[BIWG 18 Question 17 — Which are the principal institutions of the gospel to be observed|← Question 17 — Which are the principal institutions of the gospel to be observed in the worship of God?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 20 Question 19 — What is an instituted church of the gospel|Question 19 — What is an instituted church of the gospel? →]]

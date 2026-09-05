@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Peter's Restoration
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2034
 
-DELIVERED ON LORD'S DAY MORNING, JULY 22, 1888,.
+*Delivered on Lord's Day Morning, July 22, 1888*
 
 > "And immediately, while he yet spoke, the cock crowed. And the Lord turned and looked upon Peter. And Peter remembered the word of the Lord, how He had said unto him, Before the cock crowed, you shall deny Me thrice. And Peter went out and wept bitterly." Luke 22:60-62.
 
@@ -158,7 +157,6 @@ And now, to conclude, it made Peter as long as he lived, ashamed to be ashamed. 
 Courage was the bone in Peter which snapped. But when it was set, it became the strongest bone in his nature and never broke again. When the Lord sets the bones of His people they never break again—He does His work effectually. The man who has erred by anger becomes meek and gentle. The man who has erred by drink quits the deadly cup and loathes it. The man who has sinned by shame becomes the bravest of the company.
 
 O Lord Jesus, I have tried to preach YOU this morning, but I cannot look with Your eyes. You must look on erring ones Yourself. Look, Savior! Look, Sinner! "There is life in a look AT the crucified One," because there is life in a look FROM the crucified One. May Jesus look and by His Grace may the sinner look, too! Amen.
-
 
 ---
 [[Sermon 2033 Plain Directions To Those Who Would Be Saved From Sin|← #2033]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2035 Peter After His Restoration|#2035 →]]

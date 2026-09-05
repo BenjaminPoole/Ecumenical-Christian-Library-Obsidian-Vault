@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # All Comers To Christ Welcomed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2349
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Him that comes to Me I will in no wise cast out." John 6:37.
 
@@ -192,7 +189,6 @@ John 6:22-26. The day following, when the people which stood on the other side o
 34-39. Then said they unto Him, Lord, evermore give us this bread. And Jesus said unto them, I am the Bread of life. He that comes to Me shall never hunger; and He that believes on Me shall never thirst. But I said unto you, That you also have seen Me and believe not. All that the Father gives Me shall come to Me, and him that comes to Me I will in no wise cast out. For I came down from Heaven, not to do My own will, but the will of Him that sent Me. And this is the Father's will which has sent Me, that of all which He has given Me, I should lose nothing, but should raise it up again at the last day. See how the salvation of Christ reaches right to the end of all things? You and I may die, but though we lie a while in the grave, the salvation of Christ will preserve us, to raise us up, again, at the Last Day! There shall not be a bone nor a piece of a bone, of a true Believer, left in the enemies' land. All Israel and all that belongs to Israel shall come out of this Egypt, through the blood of the Lamb—not a hoof shall be left behind.
 
 40\. And this is the will of Him that sent Me that everyone which sees the Son, and believes on Him, may have everlasting life: and I will raise him up at the Last Day. May all of us see the Son and believe on Him, that we may have everlasting life, and that He may raise us up at the Last Day, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2348 The Lord Leading—David Following|← #2348]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2350 Take, Eat|#2350 →]]

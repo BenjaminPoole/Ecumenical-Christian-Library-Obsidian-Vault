@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # 'By Water and Blood'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3252
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is He that came by water and blood, even Jesus Christ—not by water only, but by water and blood." 1 John 5:6.
 
@@ -107,7 +104,7 @@ heart for all that Christ has done for you will constrain you to walk before Him
 
 Now, many of us are coming to the Table of our Lord to commune with Him and with one another—and there we must especially think of how He came to us, "not by water only, but by water and blood." The broken bread will remind us of His body broken for us, and the wine in the cup will bring to our remembrance His precious blood of the New Covenant shed for us for the remission of our sins. Oh, what a wonder it is that we, who once were as the prodigal son in the far country, wasting our substance in riotous living, or perhaps even herding among the swine—are now welcomed at our Father's board among His happy forgiven children! A few years ago, no, even a few months ago, some of us would not have been spending the Sabbath evening among the Lord's people in a House of Prayer—and it would never have entered into our thoughts that we should be found sitting as honored guests at His Table! Our ideas of enjoyment, then, were very different from what they are now. The laughter of fools was then in our mouth and perhaps the song of the drunkard issued from our lips. But now, by God's Grace, a blessed change has been worked in us, for we are washed, we are sanctified, we are justified in the name of the Lord Jesus and by the Spirit of our God! So, as we come to this Table of Communion, let us come humbly remembering what we once were, thankfully recollecting what Christ has done for us and earnestly entreating Him to continue and complete His good work in us by purifying us with water even as He has already put away our guilt by His blood! And to Him shall be the Glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: IJOHN5.
+## Exposition by C. H. Spurgeon: Ijohn 5
 
 Verse 1. Whoever believes that Jesus is the Christ is born of God. [See Sermon #979, Volume 17—faith and regeneration.] Take comfort, Believer, from that declaration! You have accepted Jesus as the Christ, the anointed of God, so the Apostle affirms that you are "born of God." It may be only lately that you have been born-again. You may be only a babe in Grace, but if you have a true faith in Christ as God's Anointed, you are "born of God."
 
@@ -152,7 +149,6 @@ You need not be curious to enquire what this unpardonable sin is. I will give yo
 19-21. And we know that we are of God, and the whole world lies in wickedness. And we know that the Son of God is come, and has given us an understanding, that we may know Him that is true, and we are in Him that is true, even in His Son Jesus Christ This is the true God, and eternal life. Little children keep yourselves from idols. Amen. After the Reformation in England, there was a certain part of the Church called the rood-loft, where the crucifix used to be, and it was ordered by the Reformers, when "the holy rood" was taken away, that these words should be printed in capital letters in its place—
 
 "LITTLE CHILDREN KEEP YOURSELVES FROM IDOLS." This was an admirable arrangement and this text might very profitably be put up in a good many Ritualistic churches now, instead of the Agnus Dei and the crucifix— "Little children, keep yourselves from idols." Might we not also say to many a mother and many a father concerning their children, and to many a lover of money and hunger after gold, "Keep yourselves from idols"? Idolatry will intrude itself in one form or another. Some idolize themselves— they look in the mirror and there see the face of their god! O beware of all idolatry! "Little children, keep yourselves from idols. Amen." We may very well say, "Amen," to that!
-
 
 ---
 [[Sermon 3251 Christ the Tree of Life|← #3251]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3253 Faith Hand in Hand With Fear|#3253 →]]

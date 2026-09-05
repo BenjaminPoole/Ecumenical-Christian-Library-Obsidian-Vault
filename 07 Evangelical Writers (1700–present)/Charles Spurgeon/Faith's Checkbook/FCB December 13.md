@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 13
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**EVENING BRIGHTENS INTO DAY**
+## **Evening Brightens into Day**
 
 > It shall come to pass, that at evening time it shall be light" Zech. 14:7
 
@@ -23,7 +22,6 @@ It is a surprise that it should be so; for all things threaten that at evening t
 This promise should assist our patience. The light may not fully come till our hopes are quite spent by waiting all day to no purpose. To the wicked the sun goes down while it is yet day: to the righteous the sun rises when it is almost night. May we not with patience wait for that heavenly light, which may be long in coming, but is sure to prove itself well worth waiting for?
 
 Come, my soul, take up thy parable and sing unto Him who will bless thee in life and in death, in a manner surpassing all that nature has ever seen when at its best.
-
 
 ---
 [[FCB December 12|← December 12]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 14|December 14 →]]

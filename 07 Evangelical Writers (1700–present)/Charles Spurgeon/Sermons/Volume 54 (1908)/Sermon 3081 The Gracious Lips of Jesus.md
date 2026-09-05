@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Gracious Lips of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3081
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Grace is poured into Your lips." Psalm 45:2.
 
@@ -49,7 +46,7 @@ seemingly productive at the time, were so full of the Spirit's quickening power 
 
 III. We have very hastily passed over these two divisions, that we may dilate on the third. We are now to consider THE VARIOUS OFFICES IN WHICH WE MAY DISCERN "GRACE" AS BEING "POURED INTO THE LIPS" OF
 
-CHRIST AND SHED AGAIN FROM HIS LIPS.
+## Christ and Shed Again from His Lips
 
 First, let us regard our Savior as the eternal Surety of the Covenant and we shall see that Grace was poured into His lips. When God the Father originally made the Covenant, it stood somewhat in this form, "My Son, You desire, and I also agree with You, to save a multitude that no man can number, whom I have elected in You. But, in order to their salvation, that I may be just, and yet the Justifier of them that believe, it is necessary that someone should be their Representative, to stand responsible for their obedience to My Laws, and their Substitute to suffer whatever penalties they incur. If You, My Son, will agree to bear their punishment and endure the penalty of their crimes, I on My part will agree that You shall see Your seed, shall prolong Your days, and that the pleasure of the Lord shall prosper in Your hands. If You are prepared to promise that You will bear the punishment of all the people whom You would save, I on my part am prepared to swear by Myself, because I can swear by no greater, that all for whom You shall atone shall Infallibly be delivered from death and Hell, and that all for whom You bear the punishment shall hence go free, nor shall My wrath rise against them, however great may be their sins." Jesus spoke the word and He said, "My Father! Lo, I come: in the volume of the Book it is written of Me, I delight to do Your will, O My God."
 
@@ -100,7 +97,6 @@ Poor Sinners, do not despise my blessed Master, I beseech you! If you knew Him, 
 He went to a friend of mine and he said, "Do you think Jesus Christ is the 'Lover of mys oul?' If I thought He was, I think I could love Him at once." The friend said, "Ah, well, if you feel like that, Jesus is the Lover of your soul." O Beloved, what would you give if you might but call Jesus Christ your Lover and your Friend? If you could but know that He loved you? Do you sigh for an interest in His love? Ah, then He does love you, for you would not have wanted Him to love you if He had not set His heart upon you! Have you a desire for Jesus? Then Jesus has a thousand times as much desire for you! I tell you Christ is more pleased to save poor sinners than poor sinners are to be saved. The Shepherd is more ready to reclaim the lost sheep than the sheep is to be reclaimed. So let me tell you, poor Soul, that Jesus has no pleasure in the death of him that dies—but He has a pleasure deep as the sea, high as Heaven, wide as the East is from the West, and as unsearchable as His own Divinity, in saving souls! Only believe in His name, Sinner! To you I preach, you actual, bona
 
 fide sinner! You real sinner, to you I preach! Jesus Christ says, "Whoever lives and believes in Me shall never die." Do you Believe this? Will you put your trust in Him? Will you drop into His arms and let Him carry you? Will you fall flat upon the Rock of Ages and let that sustain you? If you do it now, this moment, you shall become in this happy moment a changed man or woman! You shall be no longer an heir of wrath, but a child of Grace! And your salvation shall become as inevitably secure as if you were even now among the glorified!
-
 
 ---
 [[Sermon 3080 Two Ancient Proverbs|← #3080]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3082 'Here I Am!'|#3082 →]]

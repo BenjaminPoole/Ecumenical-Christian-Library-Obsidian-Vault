@@ -11,11 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 56. Exposition of the First Commandment
 
-PASSAGES WHICH HAVE REFERENCE  
-TO THE EXPOSITION OF THIS COMMANDMENT
+*Passages Which Have Reference to the Exposition of This Commandment*
 
 ## Deuteronomy 6:4,13,6;10:20
 

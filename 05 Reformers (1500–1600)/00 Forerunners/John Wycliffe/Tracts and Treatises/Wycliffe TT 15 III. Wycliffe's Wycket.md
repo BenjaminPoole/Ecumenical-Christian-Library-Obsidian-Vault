@@ -10,28 +10,25 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 15. III. Wycliffe's Wycket
 
-WYCKLIFFE'S WYCKETT,
+*Wyckliffe's Wyckett*
 
-WHICH HE MADE IN KING RICHARD'S DAYS
+## Which He Made in King Richard's Days
 
-THE SECOND.
+## The Second
 
-WYCLIFFE'S WYCKETT:
+## Wycliffe's Wyckett
 
-WHICH HE KADE IN KINO RICHIBD'S DATS THE SECOND.
+## Which He Kade in Kino Richibd's Dats the Second
 
 '* I am the living bread which came down from heaven : whoso eateth of this bread shall live for •rer. And the bread that I wiU give is my flesh, which I will give for the lifo of the world."
 
-A VERY BRIEF DEFINITION OF THESE WORDS: HOC BST CORPUS MSUM.
+## A Very Brief Definition of These Words: Hoc Bst Corpus Msum
 
 ** I beseech ye, brethren, in the Lord Christ Jeens, and for the love of his Spirit, to pray with me, that we may be vessels to his laud and praise, what time so ever it pleaseth him to caU upon us."
 
 Forasmuch as our Saviotir Jesus Christy when that he walked here on earth with the prophets which were presently before him, and the apostles which were presently with him, whom also he left after him, whose hearts were mollified with the Holy Ghost, and warned us, and gave us knowledge that there was two manner of ways, the one to life, the other to death, as Christ saith, (Matt. vii. Luke xiii.) "How strait and narrow is the way that leadeth to life, and there be few that findeth it. But how large and broad is the way that leadeth to damnation, and there be many that go into it." Therefore pray we heartily to God, that he of his mere mercy will so strengthen us with the grace and stedfastness [of] his Holy Spirit, to make us strong in spiritual living aft;er the evangelical Gospel, so that the world, no not the very infidels, papists, and apostates, can gather none occasion to speak evil of us, whereby we may enter into that strait gate, as Christ our Saviour and all that follow him have done, that is not in idle living, but in diligent labouring, yea in great sufferance of persecution even to the death, and that we find the way of everlasting life, as he hath promised where he
-
-274 wycliffe's wyckett.
 
 saith, — (' He that seeketh findeth, and he that axeth * reoeiveth, and to him that knocketh it shall be opened." (Matt, vii.)
 
@@ -41,7 +38,7 @@ fill.] " And when they shall fall down they shall be araised by a little help, a
 
 • aaketli. * uk.
 
-WYCLIFFE*S WYCKETT. 275
+## Wycliffe*s Wyckett. 275
 
 Hitherto be they the words of Daniel, who may see a greater abomination than to see the people to be led away from God, and they be taught to worship for God that thing that is not God nor Saviour of the world? For though it be their god, as it is written by a prophet, saying, " The Lord^s going shall make low the god of the earth, for it is their gods that they believe in them which may make them safe," (Zeph. ii. 11,) as it is written.
 
@@ -50,8 +47,6 @@ Hitherto be they the words of Daniel, who may see a greater abomination than to 
 [V.] And the Holy Ghost descended upon the heathen, as he did upon the apostles in Jerusalem, as it is written (Joel ii.) ; and Christ were so merciful to send the Holy Ghost to the heathen men (Acts viii. x.), and he made them partakers of his blessed word ; why should it then be taken from us in this land that be Christian men ? Consider you whether it is not all one to deny Christ's words for heresy, and Christ for an heretic ? for if my word be a lie, then I am a liar that speaketh the word ; therefore if my words be heresy, then am I a heretic that
 
 • idolatries.
-
-276 wycliffe's wyckett.
 
 speaketh the word ; therefore it is all one to condemn the word of God in any language for heresy, and God for an heretic that spake the word; for he and his word is all one, and they may not be separated; and if the word of him is the life of the world, as it is written, (Matt ii.) " Not only by bread liveth man, but in every word that cometh oat of the mouth of God ;" and every word of God is the life of the soul of man, as saith St. John, (1 John ii. 27) " that thou have anointing of the Holy Ghost, and thou have no need of any man, but teach thou in all things," which is his blessed word, in whom is all wisdom and cunning, and yet ye be always to learn as well as we. How may any antichrist for dread of God take it away from us that be Christian men, and thus suffer the people to die for hunger in heresy and blasphemy of man^s law that corrupteth and slayeth the soul, as pestilence slayeth the body ? As David beareth witness, where he speaketh of the diain of pestilence; and most of all they make us believe a false law that th^ have made upon the secret host, for the most falsest belief is taught in it.
 
@@ -64,8 +59,6 @@ wycliffe's wyckitt. 277 and brake it to them, and said, Take ye, eat ye; this is
 [Vn.] Now understand ye the words of our Saviour Christ, as he spake them one alter another, as Christ spake them. For he took bread and blessed ; and yet what blessed he ? The Scripture saith not that Christ took bread and blessed it, or that he blessed the bread which he had taken. Therefore it seemeth more that he blessed his disciples and apostles, whom he had ordained witnesses of his passion, and in them he left his blessed word, which is the bread of life, as it is written, " Not only in bread lived man, but in every word that proceedeth out of the mouth of God." (Matt, iv.) Also Christ saith, " I am the bread of life, that came down from heaven." (John vi.) And Christ saith often in Matthew, " The words that I have spoken to you be spirit and life." (John vi. 68.) Therefore it seemeth more that he blessed his disciples, and also his apostles, in whom the bread of life was left more than in material bread ; for the material bread hath an end, as it is written in the Gospel of Matthew xv., that Christ said, " All things that a man eateth goeth down into the draught away," (Matt. XV.) and it hath an end of rooting ; but the blessing of Christ kept his disciples and apostles both bodily and ghostly. As it is written, that " none of them perished, but the son of perdition, that the Scriptures might be fulfilled." (John xvii.) And often the Scripture saith that " Jesus took bread, and brake it, and gave it to his disciples, and said, Take ye, eat ye ; this is my body, that shall be given for you." But he said not, " This bread is my body," or that " the bread should be given for the life of the world." For Christ saith, " What and if ye shall see the Son of man ascend up where he was before ? It is the Spirit that quickeneth, the flesh profiteth nothing." (John vi.)
 
 [VrH.] Also Christ saith in the Gospel, "Verily, verily, I say unto you. Except the wheat com fall into the ground and die, it bideth alone ; but if it die, it bringeth forth much fruit." (John xii.) Here men may see by the words of Christ, that it behoved that he died in the flesh, and that in his death was made the fruit of everlasting life for all them that believe on him ; as it is written, " For as by Adam all die, even so by Christ shall all live, and every man in his own order ; for as one clearness is in the sim, another in the moon, and a star in clc^irness [is] nothing in comparison to the sim, even so is the again rising of the dead men. For we be sown in corruption, and shall rise again incorruptible ; we are sown in infirmity, and shall rise again in virtue ; we • are sown in natural bodies, and shall rise again spiritual bodies." (1 Cor. XV.) Then if Christ shall change thus our deadly bodies by death, and God the Father spared not his own Son, as it is written, (Matt. Mark, Luke,) but that death should reign in him as in us, and
-
-278 wycliffe's wyckktt.
 
 that he should be translated into a spiritual body, the first again rising of dead men ; then how saith hypocrites that take on them to make oar Lord's body too, whether make they the glorified body, either make they again the spiritual body, which is risen from death to life, either make they the fleshly body, as it was before he suffered death ? and if they say, also, that they make the spiritual body of Christ, it may not be so, for that thing that Christ said and did, he did it as he was at supper, before he suffered his passion, as it is written that the spiritual body of Christ rose again from death to life. (Matt xxviii.)
 
@@ -83,8 +76,6 @@ Then if thou sajest that flesh and blood of Christ, that is to say, hit manhood,
 
 [XII.] For it is prophesied, Isaiah vi. and xlii., chapter of Matthew xiii., and Luke viii., Mark iv., " Ye shall have eyes and see not, and ears and hear not, and ye shall see prophecies and ye shall not imderstand, lest they were converted, for I hide them from the hearts of those
 
-280 MnrcLiFFE's wyckett.
-
 people ; their hearts are greatly fatted, and this thing is done to jou for the wickedness of your errors in unbelief; therefore be ye conyerted from your worst sin ; ** as it is written, when Moses was in the hill with God, (Exodus xx.) the people made a calf, and worshipped it as God, '^ And God spake to Moses, Go, for the people have done the worst sm to make and worship alien gods.^ (Exod. xxxii.) But now I shall ask you a word, answer ye me ; Whether is the body of the Lord made at once or at twice ? is both the flesh and the blood in the host of the bread ? or else is the flesh made at one time, and the blood made at other time, that is to say, the wine in the chalice ? If thou wilt say, '* It is full and whole the manhood of Christ in the host of bread, both flesh and blood, skin, hair, and bones ;" then makest thou to worship a false god in the chalice, which is unconjured when ye worship the bread ; and if ye say, ^' The flesh is in the bread, and the blood in the wine,*^ then thou must grant, if thy crafb be true, as it is not in deed, that the manhood of Christ is departed, and that he is made two times : for first thou takest the host of bread, other a piece of bread, and make it, as ye say, and the innocent people worship it. And then thou takest to thee the chalice, and likewise marrest, makest I would have said, the blood [XUL] in it, and then worship it also ; and if it be so, as I am assured, that the flesh and blood of Christ ascended, then be ye false harlots* to God and to us ; for when we shall be household,^ ye bring to us the dry flesh, and let the blood be away ; for ye give us after the bread wine and water, and sometimes clean water unblessed, rather conjured, by virtue of your craft ; and yet ye say, " Under the host of bread b the full manhood of Christ." Then by your own confession must it needs be that we worship a false god in the chalice which is unconjured when we worship the bread, and worship the one as the other ; but where find ye that ever Christ or any of his disciples taught any man to worship this bread or wine ?
 
 Therefore what shall we say of the apostles that were so much with Christ, and were called by the Holy Ghost ? had they forgot it to set it in the orecd when they made it, that is, Christian men's belief? or else we might say that they knew no such God : for they believe in no more gods but in Him that was at the beginning, and made of nought all things, Hebrews the first, Psalm cii., visible and invisible ; which Lord took flesh and blood, being in the virgin the same GkxL But ye have many false ways to beguile the innocent people, and sleights of the fiend.
@@ -98,8 +89,6 @@ wycliffe's wyckett. 281 a glass, and break the glass into many pieces, and in ey
 [XIY.] But will ye take heed of this subtil question, how a man may take a glass and behold the very likeness of his own face, and yet it is not his face, but the likeness of his face ? for and it were his very face, then he must needs have two faces, one on his body, and another in the glass. And if the glass were broken in many places, so there should be many faces, more by the glass than by the body, and each man shall make as many faces to them as they would : but as ye may see the mind or likeness of your face, and it is not the very face, but the figure thereof, so the bread is the figure or mind of Christ's body in earth ; and therefore Christ said, " As ofl as ye do this thing, do it in mind of me." (Luke xxii.) Also ye say, " As a man may light many candles at one candle, and the light of that candle never the more nor never the less ; so," ye say, " that the manhood of Christ descendeth into each part of every host, and the manhood of Christ never the more nor less," — ^where then becomefli your ministrations ? For if a man light many candles at one candle, as long as they bum there will be many candles lighted, and as well the last candle as the first ; and so by this reason, if ye shall fetch your word at (xod, of god make god, there must be many gods, and that is forbidden in the first commandment. (Exod. xx.) And as for making more, either making less of Christ's manhood, it lieth not in your power to come there nigh, neither touch it, for it is ascended into heaven in a spiritual body, (Matthew xxviii.) which he suffered not Magdalene to touch, when her sins were forgiven to her. (John XX. 17.)
 
 [XV.] Therefore all the sacraments that be left here in earth be but minds of the body of Christ ; for a sacrament is no more to say, but a sign or mind of a thing passed or a thing to come : for when Jesus spake of the bread, and said to his disciples, Luke the xxii., ^^ As ye do this thing, do it in mind of me," it was set for a mind of good things of Christ's body. But when the angel showed to John (Apocalypse xvii.) the sacraments of the woman, and of the beast that bare her, it was set for a mind of evil things to come on the face of the earth, and great stroying* of the people of God. (Luke xxii. 19.) And in the old law there were many figures or minds of things to come. For the body of Christ and circumcision was commanded unto a law, (Gen. xvii. 1 2) and he that kept not the law was slain. And yet St. Paul saith, (Romans ii.) " And neither it is circumcision that is openly in the flesh,
-
-282 wycliffe's wyckett.
 
 but he that is circumcised of heart in spirit, not in letter, whose praising is not of men, but of God." Peter saith, the third chapter, '^ And so baptism of like form maketh not us safe, but the putting awaj of filthincss of the flesh, and the axing of good conscience in God, bj the again rising of our Lord Jesus Christ from the dead, that we should be made heirs of everlasting life, he yeade' into heaven, and angels, and powers, and virtues being made subjects to him.^ And also the Scriptures say of John Baptist, Matthew the third chapter, that he *' preached in wilderness and said : A stronger than I shall come after me, and I am not worthy to kneel down and unlace his shoe." And yet Christ said that he was more than a prophet.
 

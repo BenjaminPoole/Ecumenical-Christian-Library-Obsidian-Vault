@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Father and the Son
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2905
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And truly our fellowship is with the Father and with His Son Jesus Christ." 1 John 1:3.
 
@@ -121,7 +118,7 @@ Heaven's heights shall echo and re-echo the strain and the deeps of Hell are sti
 
 Come then, Beloved, and rest, for so you will have fellowship with God, Himself! Let no sense of sin disturb you— no distracting thoughts annoy you. Say to yourself, "God is satisfied with Christ's work and so am I. God has said, 'It is enough' and what is enough for the Infinite God is surely enough for me." The Lord bless you, as you come to His Table, for His Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 1; 2:1-6.
+## Exposition by C. H. Spurgeon: 1 John 1; 2:1-6
 
 May that Divine Spirit who inspired every Word of this wonderful letter, bless it to all our hearts as we read it!
 
@@ -150,7 +147,6 @@ May that Divine Spirit who inspired every Word of this wonderful letter, bless i
 2\. And He is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. Whoever comes to Him shall receive deliverance from sin. Neither Jew nor Gentile is exclusively considered in the offering of the Atonement of Christ—those for whom He died are of every race, color, class and kin.
 
 3-6. And hereby we know that we know Him, if we keep His commandments. He that says, Iknow Him, and keeps not His commandments, is a liar, and the truth is not in him. But whoever keeps His word, in him verily is the love of God perfected: hereby know we that we are in Him. He that says he abides in Him ought himself also so to walk even as He walked. May the Holy Spirit graciously lead us all to this extraordinary walk of Grace, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2904 The Plumb Line|← #2904]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2906 Honor for Honor|#2906 →]]

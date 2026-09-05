@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # A Holy and Homely Resolve
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1230
-
-DELIVERED BY.
 
 > "I will behave myself wisely in a perfect way. O when will You come unto me? I will walk within my house with a perfect heart." Psalm 101:2.
 
@@ -136,7 +133,6 @@ That was the trouble that bowed her down with heaviness when she was relieved of
 May you bend your knees at this very hour, and say, "Lord, give me Your Grace! Give me a renewed heart! Give me Christ to be my Savior and help me to behave myself rightly in a perfect way till You shall bring me to see You in Heaven in Your Glory." God fulfill to you this petition, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—James 1
-
 
 ---
 [[Sermon 1229 Decision—Illustrated by the Case of Joshua|← #1229]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1231 The Sure Triumph Of The Crucified One|#1231 →]]

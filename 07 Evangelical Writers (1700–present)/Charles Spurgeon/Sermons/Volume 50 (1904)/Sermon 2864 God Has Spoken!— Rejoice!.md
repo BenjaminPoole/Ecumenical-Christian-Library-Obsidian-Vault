@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # God Has Spoken!— Rejoice!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2864
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "God has spoken in His holiness; I will rejoice, I will divide Shechem and measure out the valley of Succoth." Psalm 108:7.
 
@@ -101,9 +98,9 @@ Then think what room for enterprise you have among your fellow men. "The earth i
 
 Let each child of God say, "O my Father, I believe that weak and feeble as I am, my weakness and feebleness need be no hindrance to me if I go to Your service in Your strength! You have spoken in Your holiness; I will rejoice and, in Your name, I will conquer the foe, and gather the spoil for You." "Through God," says David, in the 13th verse, "we shall do valiantly: for He it is that shall tread down our enemies." Therefore, if you believe in God, hasten to the spoil of His enemies! Be strong! If you really are linked with Omnipotence, prove it! Do not talk about it, but let your deeds show that the Lord of Hosts is with you and that the God of Jacob is your refuge. If, indeed, the Lord's arm is with you, smite as the Lord would smite! If, indeed, He speaks through you, speak as He would speak! Be strong, very courageous and press forward in the name of God! Set up your banners and who knows whether even this feeble message of mine, in rousing you to action upon the basis of confidence in the Word of God, may not cast down some stronghold of the enemy and make the walls of some mighty Jericho to fall flat to the ground? The Lord grant it for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALMS 57:7-11; 108.
+## Psalms 57:7-11; 108
 
 Let me say, before we begin our reading, that the 108th Psalm is made up partly of the 60th and partly of the 57th, yet we are sure that the Holy Spirit is not short of language so that He needs to repeat Himself. It is always a pity to think that any portion of Scripture can be repetitious. It cannot be! There is some good reason for every repetition and you will see that in the two Psalms which we are about to read, the latter part of the 57th coincides with the first part of the 108th. And also that in the 57th Psalm we have prayer and praise and, in the 108th, we have praise and prayer. It is well that we should see how these two holy exercises can change places—so that sometimes we begin with prayer and pray ourselves up into praise and, at other times we begin with praise and find in it the strength we need to aid us in prayer.
 
@@ -124,7 +121,6 @@ other Psalm—praise in a very joyous, confident spirit, for the praise which pr
 10\. Who will bring me into the strong city? Who will lead me into Edom?\n the spirit of a truly courageous leader, he means to fight with that ancient foe of Israel and, wisely, appeals to God to lead his army.
 
 11-13. Will not You, O God, who has cast us off? And will not You, O God, go forth with our hosts? Give us help from trouble: for vain is the help of man. Through God we shall do valiantly: for He it is that shall tread down our enemies.
-
 
 ---
 [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2865 Fencing the Table|#2865 →]]

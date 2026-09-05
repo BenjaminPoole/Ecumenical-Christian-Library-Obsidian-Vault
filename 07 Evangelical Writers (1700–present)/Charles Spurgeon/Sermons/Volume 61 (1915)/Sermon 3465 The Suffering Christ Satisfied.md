@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Suffering Christ Satisfied
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3465
 
-DELIVERED BY C. H. SPURGEON, ON LORD'S-DAY EVENING, MARCH 29, 1888..
+*Delivered by C. H. Spurgeon, on Lord's-Day Evening, March 29, 1888*
 
 > "He stall see ofthe travail of His soul and shall be satisfied. By His knowledge shall My righteous Servant justify many." Isaiah 53:11.
 
@@ -27,7 +26,7 @@ With that by way of preface, we shall now come to the text at once, taking the w
 
 The Father says of the Son that, "He shall see of the travail of His soul and shall be satisfied." The first point of consideration, very briefly, is—
 
-I. OUR LORD'S PAINS AND SUFFERINGS, BY WHICH HE MADE AN ATONEMENT FOR OUR SINS.
+## I. Our Lord's Pains and Sufferings, by Which He Made an Atonement for Our Sins
 
 These are described in the text as "the travail of His soul." You know the meaning of the word, "travail." I will not explain it—I will the rather do with it as the painter who drew the picture of Agamemnon and the sacrifice of his daughter, Iphigenia. He painted Agamemnon, but he threw a veil over his face, for he felt he could not express the grief that was in the father's face and, therefore, the face was delicately concealed. Let us do the same. It may suffice for us to say that whenever in Holy Scripture a forcible word is needed to express fear, overwhelming pain, distraction and confusion, the word, "travail," is used. For instance, when the kings looked upon Mount Zion and saw how safe it was from their attacks, "fear took hold upon them, there, and pain as of a woman in travail." And in the description which is given by the Prophet of the men of Babylon when their city was overthrown—he represents them as being "full of pain as if they were in travail." It is an unutterable amount of inward grief and trouble and a swelling of the inner man until it seems as if the whole fabric of nature, being delicately convulsed, would be utterly broken up to its ruin.
 
@@ -49,7 +48,7 @@ But I have got another plumb line with which, perhaps, if the Holy Spirit helps 
 
 I ask you now to think of your Lord in His bitter pangs and tormenting griefs. View Him prostrate in the Garden. See Him sweating great drops of blood for you. Behold Him tortured by Pilate and Herod, and then see Him, with broken heart, going up to the accursed tree and there being made a curse for us that we might be made the righteousness of God in Him! We must now pass on to observe that there are—
 
-II. CERTAIN RESULTS GUARANTEED FROM THE SUFFERING OF THE LORD.
+## II. Certain Results Guaranteed from the Suffering of the Lord
 
 The Eternal Father says, "He shall see the fruit of the travail of His soul." That is, He shall see the fruit of it. Jesus is not dead! The travail was enough to kill Him, but He remembers no more His travail for the joy of the blessed fruit which is brought into the world thereby. He looks down from Heaven, tonight, as He has been looking down ever since He ascended there and He beholds the sweet results of all His pains and griefs. Now attentively observe one thing. It has always seemed to us, and I think it will seem reasonable to you, that if Jesus Christ is to see of the travail of His soul, and to be satisfied, then whatever was His intention when He laid down His life will be given Him. This is not far-fetched because if it is written, "He shall see of the travail of His soul and shall be satisfied," how is a man satisfied if he does not have the result, the full result of his labor, above all such labor—labor even unto death? If a man does not achieve by his dying all that he died for, then he cannot be satisfied—unless his first intention is amended, which would imply that he had been in error. Do you see the drift of this observation? Jesus Christ did not, then, on the Cross, intend to save every man! It is not true that Jesus Christ died with the intention of saving every man of the human race. But this is true—Christ died that every man might be spared—and they are spared. You are here tonight as the result of His death. And in that sense He "tasted death for every man." He died that every man might have the Gospel preached to Him, that there should be an honest declaration that whoever believes in Jesus Christ shall be saved. I this night, for the ten thousandth time, announce to you that Gospel—that if you believe in Jesus Christ, you shall be saved! And this Gospel is to be preached not to some, but to every creature under Heaven! And the proclamation of this Gospel comes universally to all mankind as the result of Christ's death—and in that sense He tasted death for every man.
 
@@ -91,7 +90,7 @@ If you believe not, it will be because you are not of His sheep, as He said unto
 
 I could wish, and I do wish, that some of you would believe in the Lord Jesus Christ before you go home tonight. You may not have many more times to go home. This may be the very last time that you shall ever come here. It will not make you wretched on earth. It will increase your happiness here. It will help you to live and help you to die. It will make those eyes brighter and put that heart at greater ease. And as for eternity, this is the true Lamp for its darkness, this is the true Light for all its gloom! What will you do without Christ? Oh, get Him and you shall be eternally blest! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 72:1-16.
+## Exposition by C. H. Spurgeon: Psalm 72:1-16
 
 "A Psalm for Solomon"—much more for one who is greater than Solomon, the true Prince of Peace!
 
@@ -126,7 +125,6 @@ Verse 1. Give the king Your judgments, O God, and Your righteousness unto the ki
 15\. And daily shall He be praised. He shall have praise as well as prayer and gold.
 
 16\. There shall be an handful off corn in the earth upon the top off the mountains; the fruit thereof shall shake like Lebanon: and they off the city shall flourish like grass off the earth. It was corn—good seed corn, but there was only a handful of it. So there were saints in the world, but there were very few of them. And where were they? On the tops of the mountains! A strange place for corn—not a likely place for a harvest. So have God's servants been pushed into the corners of the earth. There they were in the valleys of Piedmont for many a year fighting for dear life. And in all lands, those that have been faithful to God have been put away into the corners—driven, as it were, to the mountaintops. But what has come of it, and what will come of it? Why, the fruit shall shake like Lebanon. The golden corn, standing upright in its strength, adorned with its ear, shall wave in the breeze as pleasing a sight even as the cedar of Lebanon!
-
 
 ---
 [[Sermon 3464 True Worship|← #3464]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3466 A Warning to Believers|#3466 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Drought of Nature, the Rain of Grace and the Lesson Therefrom
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2115
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And their nobles have sent their little ones to the waters: they came to the pits and found no water. They returned with their vessels empty. They were ashamed and confounded and covered their heads. Because the ground is parched, for there was no rain in the earth, the plowmen were ashamed, they co vered their heads. Are there any among the vanities of the Gentiles that can cause rain? Or can the hea vens give showers? Are not you He, O Lord our God? Therefore we will wait upon You: for You have made all these things." Jeremiah 14:3, 4,22.
 
@@ -166,7 +163,6 @@ Jesus has said, "He that comes unto Me I will in no wise cast out." If you peris
 Vanity of vanities. All is vanity! Quit the vanities and seek the verities. Turn unto your God. Turn instantly! Hark back! Hark back! You have gone too far already in the evil way. A precipice is before you! One more step, yes, one more step and you are over and your eternal ruin is complete. Hark back as quickly as you can to the great God from whom you have departed! Come now, even now, for He invites you—"Come now, and let us reason together, says the Lord: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool."
 
 While he speaks in this manner, I hope you will answer to the call and bow at His feet at once. "Today if you will hear His voice, harden not your hearts." May the Holy Spirit lay hold on you, that you may lay hold on Jesus! God grant it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2114 The Burden of the Word of the Lord|← #2114]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2116 The Unchanging God Cheering Jacob in His Change of|#2116 →]]

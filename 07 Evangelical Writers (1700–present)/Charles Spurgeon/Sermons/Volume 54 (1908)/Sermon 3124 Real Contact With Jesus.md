@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Real Contact With Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3124
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus said, Somebody touched Me: for I perceived power going out from Me." Luke 8:46.
 
@@ -57,7 +54,7 @@ You see, the woman did really touch Christ, and so I come back to that. Whatever
 
 This brings me to the second part of my discourse, upon which I will only say a little.
 
-II. THE WOMAN IN THE CROWD DID TOUCH JESUS AND, HAVING DONE SO, SHE RECEIVED POWER FROM HIM.
+## II. The Woman in the Crowd DID Touch Jesus and, Having Done so, She Received Power from Him
 
 The healing energy streamed at once though the finger of faith into the woman. In Christ, there is healing for all spiritual diseases. There is a speedy healing, a healing which will not take months nor years, but which is complete in one second! There is in Christ a sufficient healing, though your diseases should be multiplied beyond all bounds. There is in Christ an all-conquering power to drive out every ill. Though, like this woman, you baffle physicians and your case is reckoned desperate beyond all parallel, yet a touch of Christ will heal you! What a precious, glorious Gospel I have to preach to sinners! If they touch Jesus, no matter though the devil himself were in them, that touch of faith would drive the devil out of them! Though you were like the man into whom there had entered a legion of devils, the word of Jesus would cast then all into the deep and you would sit at His feet, clothed, and in your right mind! There is no excess or extravagance of sin which the power of Jesus Christ cannot overcome. If you can believe, whatever you may have been, you shall be saved! If you can believe, though you have been lying in the scarlet dye till the warp and woof of your being are ingrained therewith, yet shall the precious blood of Jesus make you white as snow! Though you have become black as Hell itself, and only fit to be cast into the Pit, yet if you trust Jesus, that simple faith shall give to your soul the healing which shall make you fit to tread the streets of Heaven and to stand before Jehovah-Rophi's face, magnifying the Lord that heals you!
 
@@ -97,7 +94,7 @@ And you, Believers, when you come to the Lord's Table, if you draw near to Chris
 
 Whoever you may be, my dear Friend, though you may be nothing but a poor "somebody," yet if you have touched Christ, tell others about it in order that they may come and touch Him, too! And the Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN3.1-21.
+## Exposition by C. H. Spurgeon: John 3.1-21
 
 [This Exposition belongs to Sermon #3121, Volume 54—THE NECESSITY OF REGENERATION, but there was no space available for it there.]
 
@@ -149,8 +146,7 @@ look at the Crucified Savior, be saved at once and forever!
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3123 'The King of the Jews'|← #3123]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]]

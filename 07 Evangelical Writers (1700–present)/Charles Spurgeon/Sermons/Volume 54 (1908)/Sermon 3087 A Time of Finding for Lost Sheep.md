@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Time of Finding for Lost Sheep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3087
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment" Ezekiel 34:16.
 
@@ -118,7 +115,6 @@ Is to feel your need of Him—
 And this He gives you!
 
 'Tis His Spirit's rising beam."
-
 
 ---
 [[Sermon 3086 'Marvelous Things'|← #3086]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3088 The Storm and the Shower|#3088 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # Dwell Deep, O Dedan!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1085
 
-DELIVERED.
+*Delivered*
 
 > "Dwell deep, O inhabitants of Dedan." Jeremiah 49:8.
 
@@ -146,7 +145,6 @@ The cup that Christ gives has no dregs—it has at its bottom the sweetness of t
 While deep living gives a man more happiness, it also endows him with more strength. Some single Christians of my acquaintance are worth 20 ordinary ones because they enter into the very marrow of religion and then impress others with the reality of it. I know at this moment Christian women who are worth 50 ordinary professing women. I would not say the others are not very good, too, in their way, but they are superficial compared with these deep-taught daughters of Zion. God, if the Church is to be strong it must be through those that dwell deep! And so, Beloved, let me close by saying, dwell deep, for you will glorify God the most. The nearer you get to the sun, the brighter you will be. The nearer you live to Christ, the more like He you will be.
 
 Dwell deep, Beloved! Beware of levity in godliness! Beware of superficiality! Beware of skimming! Seek to enjoy the deep, the blessed, the true reality! The Lord grant it to you for His name's sake. But still, let me say to any who have not begun the Divine life, this is not for you just now. I talked to you last night and the night before and you know I bade you come to Christ just as you were. And so I do now, for saving work is coming and touching even the hem of the Redeemer's garment. If you have touched the hem of His garment, do not be satisfied with that! Go on to know Him more and long, like Simeon, to take Him up in your arms, and say, "This Christ is mine—the blessed Christ—mine forever and forever!" God bless you, beloved Friends!
-
 
 ---
 [[Sermon 1084 The Thorn in the Flesh|← #1084]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1086 Jesus, The King of Truth|#1086 →]]

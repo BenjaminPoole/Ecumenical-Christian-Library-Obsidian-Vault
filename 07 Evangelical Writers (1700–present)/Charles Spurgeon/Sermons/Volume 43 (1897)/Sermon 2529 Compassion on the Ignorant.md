@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Compassion on the Ignorant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2529
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who can have compassion on the ignorant, and on them that are out of the way." Hebrews 5:2.
 
@@ -79,7 +76,7 @@ And there is many a man who says, "No, no. Not just yet, not just now. I will th
 
 III. Now I must conclude by answering a third question—How DOES OUR LORD SHOW HIS COMPASSION TO
 
-THE IGNORANT?
+## The Ignorant?
 
 He does it, first, by offering to teach them. If there is anybody here who desires to be taught, the Lord is willing and waiting to teach you! Is it a Mary? She may come and sit at Jesus' feet and He will not upbraid her, but He will say that she has chosen the good part. Is it a Zacchaeus? Would you steal into the House of God, as he climbed up into the sycamore tree, that, among the foliage, he might not be seen, but yet might hear? Well, the Lord Jesus Christ is willing to teach you and to bid you make haste and come down, that He may abide in your house and your heart! He keeps a school which is always open and there is no charge for admission. The poorer and the more ignorant you are, the more welcome are you to the school of Christ—and this is how He proves His compassion to the ignorant. An ancient philosopher in Greece put over his door, "He that is ignorant of arithmetic must not enter here." He required some amount of knowledge before he would take a pupil, but the Lord Jesus Christ puts over His door, "He that is simple, let him turn in here. As for him who is void of understanding, let him come and learn of the Great Teacher! "Come, then, my poor ignorant Friend, for He will have compassion on you!
 
@@ -97,7 +94,7 @@ Another great proof of His compassion is seen in His never casting off those He 
 
 The promise is, "All your children shall be taught of the Lord." Not one of the whole family shall go without an education—and the very dullest shall still be "taught of the Lord." Will you go home, if you have never been instructed by Him, and seek Him in prayer? Ask Him to teach you. If the Gospel seems all a maze and a mist to you, go and say, "Lord, will You explain it to me?" One touch of Christ is better than years of study! You may try for many an hour to see in the dark, and yet see nothing. But if you go to Him who is the Morning Star and the Sun of Righteousness, you shall soon see. God grant that it may be so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 4:14-16; 5.
+## Exposition by C. H. Spurgeon: Hebrews 4:14-16; 5
 
 Hebrews 4:14. Seeing, then, that we have a Great High Priest, who has passed through the heavens, Jesus the Son of God, let us holdfast our profession. Why should we let it go? Jesus has triumphed, He has entered into Glory on our be-half—the victory on our account rests with Him! Therefore let us follow Him as closely as we can. May He help us, just now, if we are in the least dispirited or cast down, to pluck up courage, and press on our way!
 
@@ -134,7 +131,6 @@ Possibly you have sometimes had a dread of death. So had your Lord—not a sinfu
 11\. 12. Ofwhom we have many things to say, andhard to be uttered, seeingyou are dull ofhearing. For when for the time you ought to be teachers, you have need that one teach you again which are the first principles of the oracles of God.—I hope it is not true of any of you, dear Friends, but it is true of many Christians that they learn very little to any purpose and always need to be going over the A B C of the Gospel. They never get into the classics, the deep things of God! They are afraid of the Doctrine of Election, of the Doctrine of the Eternal Covenant, and of the Doctrine of the Sovereignty of God, for these Truths of God are meant for men of full age, and these poor puny babes have not cut their teeth yet! They need some softer and more childlike food. Well, it is a mercy that they are children of God! It would be better, however, for them to grow so as to become teachers of others—"You have need that one teach you again which are the first principles of the oracles of God."
 
 12-14. And are become such as have need of milk, and not of strong meat For everyone that uses milk is unskillful in the Word of righteousness, for he is a babe. But strong meat belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. Do not be frightened, you who have lately been brought into the Lord's family! We are not yet going to feed you with meat! We shall be glad enough to serve you with milk for the present. At the same time, let us all be praying to the Lord to make us grow, that we may know more and do more, and be more what the Lord would have us to be! A child is a very beautiful object. An infant is one of the loveliest sights under Heaven, but if, after 20 years, your child were still an infant, it would be a dreadful trial to you. We must keep on growing till we come to the stature of men in Christ Jesus! God grant that we may do so, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2528 Eating the Sacrifice|← #2528]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2530 A Peculiar People|#2530 →]]

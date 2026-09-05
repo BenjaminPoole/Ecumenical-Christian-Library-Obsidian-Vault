@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Men Without Heart, Sight, or Hearing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1638
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 8, 1882,.
+*Delivered on Lord's-Day Morning, January 8, 1882*
 
 > Deuteronomy 29:4.
 
@@ -132,7 +131,6 @@ If you must play the fool, trifle with something less precious than your souls! 
 Will your ears again refuse the language of His Grace? Will you still go to your farm and to your merchandise, to your labor and to your amusement, and reject the voice that calls you to Glory and immortality? Will you trample upon the bleeding love of Jesus? Oh, then, what shall I do and to whom shall I turn? I must go back to my Master, mourning with Isaiah, "Who has believed our report, and to whom is the arm of the Lord revealed?" Lord, reveal Your arm and then they will believe the report! Amen and Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Deuteronomy 29. HYMNS FROM "OUR OWN HYMN BOOK"—917, 461, 100 (V. 2).
-
 
 ---
 [[Sermon 1637 The Beginning of Months|← #1637]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1639 Acceptable Service|#1639 →]]

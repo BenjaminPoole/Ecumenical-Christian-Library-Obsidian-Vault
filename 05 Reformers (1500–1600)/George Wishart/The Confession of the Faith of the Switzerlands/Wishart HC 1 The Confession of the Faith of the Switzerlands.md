@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - george-wishart
 ---
-
 # 1. The Confession of the Faith of the Switzerlands
 
-THE CONFESSION OF FAITH
+*The Confession of Faith*
 
-OP THE
+## Op The
 
-CHURCHES OF SWITZERLAND.
+## Churches of Switzerland
 
-I. OP THE HOLT SCBYPTURB.*
+## I. Op the Holt Scbypturb.*
 
 The CttDonycall or holy Scrypture, whiche is the Worde of God, taught and gyyen by the Holy Spry te, and publyshed * unto the iroilde by the prophetes and holy apostles^ which also is the moost perfyte and anncient science ' and doctrjrne of wysdome^ it alone contayneth consmnatly all godlynes and all sorte and manor of fiicyon of lyfe.
 
@@ -67,17 +66,17 @@ Digitized by
 
 Google
 
-OF THE CHUBCUES OF SWITZERLAND. 13
+## Of the Chubcues of Switzerland. 13
 
-VIU. OF ORIGINALL SYNNE.
+## Viu. Of Originall Synne
 
 And 00 this pestiferous infection whiche men calleth Originally bathe infecte and ouerspied the whole kynde of man, so &r that by no helpe (he beynge the sone of wrathe and vengamice' and enemye of God) collide be healed by any meanes but by the helpe of God onely : for yf there be any good that remayneth in man after the hHy that same beynge joyntelie made weaker and weaker by onr ▼yce toumes to the worse; because the strengthe and power of eayll ouercometh it, and nother suffereth it us to folowe reason nor yet to exersyse the godlynes of our mynde.
 
-J3L, OFFBEWTLL.
+## J3l, Offbewtll
 
 Wherfore we attribute so free wyll to man as we whiche wyttynge and wyllynge to do good, fde experience of euyll. Also eoyll trewly we maye -do of cure owne wyll, but to enbrace and folowe good (except we be elluminat, styred up and mounted, by the grace of Chryst) we maye not: for, "God is he whiche worketh in us bothe to wyll, to performe, and to accomplyshe for his owne good wyll sake f^ and of " God commeth our helth and saluadon, but of our selfe commeth perdicion."'
 
-X. OF THE ETEBKALL MTNDB OF GOB TO BE8TOBE HAN.
+## X. Of the Etebkall Mtndb of Gob to Be8tobe Han
 
 And howbdt that through his £siult man was subjecte unto dampnacion, and also was runne under the juste indingnacion of God to take vengeaunce of hym, yet God the &ther neuer seaced to take a mercyfuU cure ouer hym : The whiche thynge is mani-' fest not onely of the fyrst promyses ^ and the whole lawe, whiche as it is holy and good, teaching us the wyll of God, ryghtuousnes, and trothe, so worketh it wrath and storeth up synne within us, and slacketh it not, and that not through any &ulte of it selfe, but
 
@@ -95,7 +94,7 @@ Google
 
 14 THK CONFESSION OF FAITH through our yyce, but abo clerely appereth it through Christy whiche was ordayned and geuen for that purpose*
 
-2U. OF JESUS CHRIST AND THAT IS DONE BY HYM.
+## 2u. Of Jesus Christ and that Is Done by Hym
 
 This Christ, the very Sone of God, and very God and very man also, was made our brother, at the tyme appoynted he toke upon him whole man, made of soule and body, hauynge two natures un* permyxte and one deuyne person,^ to the intent that he shoulde restore unto lyfe us that were deed, and make us aryse of God annexte with hym selfe* He also after that he had taken upon him of the immaculate Virgin, by operacion of the Holy Goost, fleshe, whiche was holy bycause of the union of the Godhed, which is, and also was lyke to our fleshe in all thynges excepte in synftdnes : And that bycause it behoued the sacrefice for synne to be cleane and immaculate, gaue that same fleshe to death for to expell all our synne by that meanes. And he also, to the entent that we shuld have one full and perfecte hope and trust of our immortalitie, hath raysed up agayne fro death to lyfe his owne fleshe, and hathe set it and placed it in heauen at the ryghte hande of his Almyghty Father.
 
@@ -109,11 +108,11 @@ Digitized by
 
 Google
 
-OF THE CHUHCHES OF SWITZERLAND. 15
+## Of the Chuhches of Switzerland. 15
 
 Aitd as he onely is oure mediatoar and entercessour, hoste and Mciifice, bjsshop,^ lorde^ and our kynge ; also do we acknowlage uid confease hym onety to be onr attonement and raunsome, salisfiiction, ezpiacion, or wyBdome^ our defence, and our onely delinerw: refuajmg utterly all other meane of lyfe and saluacion, excepte thus by Chryst onely.
 
-XU. THE EXDE OF THE PBEACHYNGE OF THE GOSPELL.
+## Xu. The Exde of the Pbeachynge of the Gospell
 
 And therefore in the whole doctryne of the Euangelystes annunciat and shew to be the fyrste, and chefely to be inculcated and taoght, that we are safe ^ onely by the marde of God, and merite of our Sauiour Christ. And that men may perceyue and understande the better^ howe necessary is the mercie of God and Christes merites for them, theyr synnes shuld be clerely shewed to them by the lawe, and remission by Christes death.
 
@@ -133,7 +132,7 @@ Digitized by
 
 Google
 
-16 THE CONFESSION OF FAITH
+## 16 the Confession of Faith
 
 ## Xiv. of the Gongregagion or Churche.
 
@@ -159,7 +158,7 @@ Google
 
 OF THE CHURCHES OF 8W1TZEBLAXD. 17 prescribynge and commaimdyng all men, bothe hye and lowe, all lyke, shulde be holy and inuiolat ; and shulde be committed onely to them that are mete therfore : and chosen other by the eleccion of God/ or elles by a sure and aduysed eleccion of the Churche ; or by theyr wyll, to whom the Churches depute and apoynt that offyce ofchosynge.
 
-XVII. THE CHOSYNO OF M1NI8TEBS OB 0FFICEB8.
+## XVII. The Chosyno of M1ni8tebs Ob 0fficeb8
 
 This ministracion and ofiyce shulde be graunted to no man but to him whom the ministers of the Churche, and they unto whom the chaige is gyuen by the Churches, and found judged to be of knowlage in the law of God and of innocent lyfe. The whiche seynge it is the very eleccion of God, it is well and justly e approned by the Toyce of the Churche, and the imposicion of handes of the heedes of the preestes.
 
@@ -177,7 +176,7 @@ The chefe and pryncypall ofiyce of this ministracion is to preache repentaunce a
 
 * " Is Eoclesiae su« pastores dat et
 
-VOL. I. H
+## Vol. I. H
 
 Digitized by
 
@@ -211,7 +210,7 @@ Digitized by
 
 Google
 
-OF THE CHURCHES OF SWITZERLAND. 19
+## Of the Churches of Switzerland. 19
 
 ## Xxi. of Baptym.
 
@@ -253,7 +252,7 @@ Digitized by
 
 Google
 
-OF THE CHURCHES OF SWITZERLAND. 21
+## Of the Churches of Switzerland. 21
 
 But the rest of ceremonies which, as they are unprofitable, so are they innumerable, as vescels, garmentes, waxe, Ijghtes, alters, golde, sylver, in so moch as they seme to subuerte the trewe relygion of God : and chefely Idols and Images, that stande open to be worshyped, and geue offence and slaunder, and all suche prophane and ungodly thjmges do we abandon, rejecte, and put awaye from the holy congr^acion and conuencion.
 
@@ -291,7 +290,7 @@ Google
 
 OF THE CHURCHES OF SWITZEBJLAND. 23 blisaheth it, so it belongeth to the magiBtrate to se that it be worthely bothe b^onne and worshjrppedy and not broken' but for a just cause.
 
-A DECLABAGION OB WYTNES8YNQB OF OUR MTNDE.'
+## A Declabagion Ob Wytnes 8ynqb of Our Mtnde.'
 
 It is not our mjnde for to prescribe by this breefe chapters a certayne rule of the Faythe to all chiux^hes and congregacyons, for we knowe no other rule of £siy the but the Holy Scripture : and, therefore^ we are well contented with them that agreeth with these thynges, howebeit they use an other maner of speakynge, or Confession dyfferent apartly to this of ours in wordes, for rather shulde the matter be consydered then the wordes.
 
@@ -301,9 +300,9 @@ And yf any man wyll attempte to corrupte the trewe meanynge of this cure Confess
 
 It was our pleasure to use these wordes at this present tyme, that we myght declare our opinion in our religion and worshypenge of God.
 
-FINIS.
+## Finis
 
-THE TRUTH WYL HATE THE UPPER HANDE.'
+## The Truth Wyl Hate the Upper Hande.'
 
 ^ This ^^Dedaracion ^ is not added, sion, which is dated 1st, 2d, 3d, and either to the Latin text, or to any of 4th of Febraary 1536, had been ex- the German, French, or English verandned and approved at a meeting of sions of this Confession. the Estates, on the 26th March that
 
@@ -319,7 +318,7 @@ Digitized by
 
 Google
 
-CERTAMEN
+## Certamen
 
 ---
 [[Library/protestant reformers/George Wishart/The Confession of the Faith of the Switzerlands/confession-index|Contents]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Song of Songs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1240
@@ -93,8 +92,7 @@ Then, sinner, listen. Your sin can be blotted out. You have tried to remove the 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 44.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—96, 203, 428.
-
+## Hymns from "Our Own Hymn Book"—96, 203, 428
 
 ---
 [[Sermon 1239 Messrs. Moody and Sankey Defended; or, A Vindication of|← #1239]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1241 Honest Dealing with God|#1241 →]]

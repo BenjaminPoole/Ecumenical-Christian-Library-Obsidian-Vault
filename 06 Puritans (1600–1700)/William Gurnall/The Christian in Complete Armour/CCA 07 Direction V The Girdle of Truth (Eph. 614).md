@@ -9,7 +9,6 @@ tags:
   - puritans
   - william-gurnall
 ---
-
 # Direction V: The Girdle of Truth (Eph. 6:14)
 
 ## Direction Fifth.
@@ -494,12 +493,11 @@ Again, may be the thing God would have thee deny thyself in is thy wrath and rev
 
 (3.) *Means. Continue thou to wait upon God in all the ways of his ordinances—*every one in their season. Whenever thou comest to get the comfortable sight of thy sincerity, it is the Spirit of God that must befriend thee in it, or else, like Hagar, thou mayest sit by the well and not find it; thou mayest round thy field again and again, but find not the treasure hid in it. It is the Spirit of God by which we ‘know the things that are freely given to us of God,’ I Cor. 2:12. Now the Spirit sits in the ordinances, as a minister of state in his offices, whither we must resort, if we will have the truth of our graces—that are our evidences for heaven—sealed to our consciences. Thither go therefore, yea, there wait, for thou knowest not, as the wise man saith of sowing seed, Ecc. 11:6, whether thy waiting on this or that, now or then, shall prosper and be successful to thee in the end. It is enough to confirm, yea, quiet and comfort thee in thy attendance, that thou art at the right door; and though thou knockest long and hearest no news of his coming, yet thou canst not stay so long, like Eglon’s servants, Judges 3:25, that thou needst be ashamed. They indeed waited on a deadman, and might have stood long enough before he had heard them; but thou on a living God, that hears every knock thou givest at heaven-gate with thy prayers and tears; yea, a loving God, that, all this while he acts the part of a stranger, like Joseph to his brethren, is yet so big with mercy, that he will at last fall on thy neck and ease his heart, by owning of thee and his grace in thee. Lift up thy head then, poor drooping soul, and go with expectation of the thing; but remember thou settest not God the time. The sun riseth at his own hour, whatever time we set it. And when God shall meet thee in an ordinance—as sometimes no doubt, Christian, thou findest a heavenly light irradiating, and influence quickening, thy soul, while hearing the word, or may be on thy knees wrestling with God—this is a sweet advantage and season thou shouldst improve for the satisfying soul. As when the sun breaks out, we then run to the dial to know how the day goes; or when, as we are sitting in the dark, one brings a candle into the room, we then bestir ourselves to look for the thing we miss, and soon find what we in vain groped for in the dark; so mayest thou, poor soul—as many of thy dear brethren and sisters before thee have done—know more of thy spiritual state in a few moments at such a time, than in many a day when God withdraws. Carefully therefore watch for such seasons and improve them. But if God will hide thy treasure from thy sight, comfort thyself, comfort thyself with this, that God knows thy uprightness, though wrapped up from thy own eye. Say as David, ‘When my spirit was overwhelmed within me, then thou knewest my path,’ Ps. 142:3; and God will do with thee, not by the false accusations thou bringest in against thyself—as it is to be feared some have suffered at men’s hands—but by the testimony which his all-seeing eye can give to thy grace.
 
-—SDB
+## —Sdb
 
-—SDB
+## —Sdb
 
 [1]Here, file Gurnal49.arm begins.
-
 
 ---
 [^1]: *Cozen—*cheat, deceive.
@@ -536,7 +534,6 @@ Again, may be the thing God would have thee deny thyself in is thy wrath and rev
 [^32]: ÐD2@B@*,4<.
 [^33]: *Philosopher’s stone —* an imaginary stone, substance, or chemical preparation believed to have the power of transmuting baser metals into gold and sought for by alchemists. From *Webster’s.*—SDB
 [^34]: *Scurf*: the foul remains of something adherent.
-
 
 ---
 [[CCA 06 Directions III and IV A Second Exhortation to Arm (Eph. 613)|← Directions III and IV: A Second Exhortation to Arm (Eph. 6:13)]] · [[The Christian in Complete Armour|Contents]] · [[CCA 08 Direction V Sincerity Strengthens the Christian's Spirit (continued)|Direction V: Sincerity Strengthens the Christian's Spirit (continued) →]]

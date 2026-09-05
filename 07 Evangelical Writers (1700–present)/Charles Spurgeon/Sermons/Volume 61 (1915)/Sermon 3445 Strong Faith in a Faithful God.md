@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Strong Faith in a Faithful God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3445
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will cry unto God Most High; unto God that performs all things form." Psalm 57:2.
 
@@ -25,7 +22,7 @@ DAVID was in the Cave Adullam. He had fled from Saul, his remorseless foe, and h
 
 Our text is capable of three meanings. To these three meanings we shall call your attention briefly. "Unto God who performs all things for me." First, there is Infinite Providence. As it stands, the words, "all things," you perceive, have been added by the translators. Not that they were mistaken in so doing, for the unlimited expression, "God that performs for me," allows them to supply the omission without any violation of the sense. Secondly, there is inviolable faithfulness, as we know that David here referred to God's working out the fulfillment of the promises He had made. We sang just now of the sweet promise of His Grace as the performing God. I think Dr. Watts borrowed that expression from this verse. Thirdly, there is a certainty of ultimate completeness. The original has for its root the word, "finishing," and now working it out, it means a God that performs or, as it were, perfects and accomplishes all things concerning me. Whatever there is in His promise or Covenant that I may need, He will perfect for me. To begin with—
 
-I. THE MARVELOUS PROVIDENCE.
+## I. The Marvelous Providence
 
 The text, as it stands, speaks of a service—"I will cry unto God Most High; unto God that performs all things for me." "All things," that is to say, in everything that I have to do, I am but an instrument in His hands—it is God who does it for me. The Christian has no right to have anything to do for which he cannot ask God's help. No, he should have no business which he could not leave with his God. It is his to work and to exercise prudence, but it is his to call in the aid of God to his work and to leave the care of it with the God who cares for him. Any work in which he cannot ask Divine co-operation, the care of which he cannot cast upon God is unfit for him to be engaged in. Depend upon it, if I cannot say of the whole of my life, "God performs all things for me," there is sin somewhere and evil lurks in the disposition thereof. If I am living in such a state that I cannot ask God to carry out for me the enterprises I have embarked in, and entirely rely on His Providence for the issues, then what I cannot ask Him to do for me, neither have I any right to do for myself!
 
@@ -41,7 +38,7 @@ Very likely among this audience, some are foolish enough to perplex themselves a
 
 So shall it be even at life's close. He performs all things for me. I have the boundary of life in the prospective, the almost certainty that I must die. Unless the Lord comes before my term expires, I must close these eyes, gather up these feet in the bed, breathe a last gasp and yield my soul to Him who gave it. Well, fear not! He helped me to live—He will help me to die! He has made me perform up to this moment my allotted task, yes, He has performed it for me—giving me His Grace and working His Providence with me. Shall I fear that He will desert me at the last? He performs not some things, but all things, and He cannot omit this most important thing which often makes me tremble. No, that must be included, for all things are mine—death as well as life! I leave my dying hour, then, with Him, and never boding ill of it, I cry unto God Most High, unto God that performs all things for me! I want, dear Brothers and Sisters, to leave this impression in your minds, that in the great business of life, whatever it is, while we do not sit still and fold our hands for lack of work, yet God works in us to will and to do of His own good pleasure. This we recognize distinctly—if anything is done right, or successfully, it is God that performs it, and we give Him the Glory! I want you to feel that, as the task is performed by Him in all its details, so to the very close of your life, all shall be performed of His Grace through you by Himself, to His own honor and praise, world without end! The second run of thought which the text suggests is that of—
 
-II. INVIOLABLE FAITHFULNESS.
+## II. Inviolable Faithfulness
 
 "Unto God that performs all things for me." The God who made the promises has not left them as pictures, but has made them to fulfill them. It is God who is the actual Worker of all that He declared in the Covenant of Grace should be worked in and for His people!
 
@@ -51,7 +48,7 @@ As I look back upon my own spiritual career, when I was seeking the Savior, I am
 
 What a consolation it is that our God never changes! What He was yesterday, He is today. What we find Him today, we shall find Him forever! Are you struggling against sin? Don't struggle in your own strength—it is God who performs all things for you! Victories over sin are only sham victories unless we overcome through the blood of the Lamb, and through the power of Divine Grace. I am afraid of backsliding, but I think I am more afraid of growing in sanctification apparently in my own strength. It is a dreadful thing for the gray hairs to appear here and there—but it is worse, still, for the hair to appear to be of raven hue when the man is weak. Only the indication is changed, but not the state itself. May we have really what we think we have—no surface work, but deep, inner, spiritual life, worked in us from God— yes, every good spiritual thing from Him who performs all things for us and, I say, whatever struggles may come, whatever vehement temptations assail, or whatever thunderclouds may burst over your heads, you shall not be deserted, much less destroyed! In spiritual things it is God who performs all things for you. Rest in Him, then. It is no work of yours to save your own soul—Christ is the Savior. If He cannot save you, you certainly cannot save yourself. Why rest you your hopes where hopes never ought to be rested? Or let me change the question. Why do you fear where you never ought to have hoped? Instead of fearing that you cannot hold on, despair of holding on yourself and never look in that direction again! But if the preservation is of God, where is the cause for anxiety with you? In Him let your entire reliance be fixed. Cast the burden of your care on Him who performs all things for you! Lastly, this text in its moral, literal acceptation refers to—
 
-III. THE FINISHING STROKE OF A GRAND DESIGN.
+## III. The Finishing Stroke of a Grand Design
 
 It really means, "I will cry unto God Most High—unto God who perfects all things concerning me." David's career was charged with a great work. It was portentous with a high destiny. He had been anointed when a lad by Samuel. The Lord had said, "I have provided Me a king among the sons of Jesse." And Samuel had taken "the horn of oil and anointed him in the midst of his brothers." He was thus clearly ordained to be king over Israel. His way to the throne was by Adullam. Strange route! To be king over Israel and Judah, he must first become a rebel, a wandering vagabond, known as a chieftain of bandits, hunted about by Saul, the reigning monarch. He must seek refuge in the courts of his country's enemies, the Philistines, being without an earthly refuge, or place to lay his head. Strange way to a throne! Yet the Son of David had to go that way, and all the sons of God. The younger brethren of the Crown Prince will have to
 
@@ -61,7 +58,7 @@ He is perfecting us in all things for Himself! He has promised to bring us to Gl
 
 Now is there a soul here that desires salvation? My text gives you the clue of comfort. Try—the thing is simple—try. Look to Him. He performs all things for you! Everything that is needed to save your soul, your Heavenly Father will give you. Jesus, the Savior, has worked out all the sinner's needs. You have but to come and take what is already accomplished and rest in it. "I cannot save myself," you say. You need not—there is One who performs all things for you. "I am bruised and mangled by the Fall," says one, "as though every bone were broken." "I am incapable of a good thought. There is nothing good in me, or that can come from me." Soul! It is not what you can do, but what God can do—what Christ hasdone—that must be the ground of your hope! Give yourself up unto God, Most High—unto God, who performs all things for you, and you shall be blessed, indeed! God send you away with His own blessing, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM34:1-20.
+## Exposition by C. H. Spurgeon: Psalm 34:1-20
 
 Verse 1. I will bless the LORD at all times; His praise shall continually be in my mouth "Others may do what they please, and murmur, and complain, and be filled with dread and apprehension of the future, but I will bless the Lord at all times. I can always see something for which I ought to bless Him. I can always see some good which will come out of blessing Him. Therefore will I bless Him at all times. And this." says the Psalmist, "I will not only do in my heart, but I will do with my tongue." His praise shall continually be in my mouth, that others may hear it, that others may begin to praise Him, too, for murmuring is contagious, and so, thank God, is praise! And one man may learn from another—take the catchword and the keyword out of another man's mouth—and then begin to praise God with him. "His praise shall continually be in my mouth." What a blessed mouthful! If some people had God's praises in their mouths, they would not so often find fault with their fellow men. "If half the breath thus vainly spent" in finding fault with our fellow Christians
 
@@ -110,7 +107,6 @@ else!
 19\. But the LORD delivers him out of them all. Not out of some of them, but out of all of them, however numerous they may be!
 
 20\. He keeps all his bones: not one of them is broken. He sustains no real injury. He gets flesh-wounds and bruises, but his bones are not broken. That is to say, the substantial part of his nature is well kept and preserved.
-
 
 ---
 [[Sermon 3444 Keeping the Soul Alive|← #3444]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3446 'Christ Is All'|#3446 →]]

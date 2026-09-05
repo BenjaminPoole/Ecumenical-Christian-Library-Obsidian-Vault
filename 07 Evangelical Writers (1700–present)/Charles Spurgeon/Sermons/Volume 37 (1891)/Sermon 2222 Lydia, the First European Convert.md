@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Lydia, the First European Convert
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2222
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now a certain woman named Lydia heard us. She was a seller of purple, from the city of Thyatira, who worshipped God, whose heart the Lord opened, that she attended unto the things which were spoken of Paul." Acts 16:14.
 
@@ -122,7 +119,6 @@ So, at last, Paul yields to her constraint and goes to her home. How glad they w
 The Lord open your hearts, for His name's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Acts 16.
-
 
 ---
 [[Sermon 2221 The First, Last—And the Last, First|← #2221]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2223 Abraham's Trial—a Lesson for Believers|#2223 →]]

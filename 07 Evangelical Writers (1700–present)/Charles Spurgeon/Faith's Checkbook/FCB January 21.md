@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 21
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD'S ENEMIES SHALL BOW**
+## **God's Enemies Shall Bow**
 
 > The Egyptians shall know that I am the Lord." Exod. 7:5
 
@@ -23,7 +22,6 @@ The ungodly world is hard to teach. Egypt does not know Jehovah, and therefore d
 The salvation of His own people was another potent means of making Egypt know that the God of Israel was Jehovah, the living and true God. No Israelite died by any one of the ten plagues. None of the chosen seed were drowned in the Red Sea. Even so, the salvation of the elect, and the sure glorification of all true believers, will make the most obstinate of God's enemies acknowledge that Jehovah He is the God.
 
 Oh, that His convincing power would go forth by His Holy Spirit in the preaching of the gospel, till all nations shall bow at the name of Jesus, and call Him Lord!
-
 
 ---
 [[FCB January 20|← January 20]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 22|January 22 →]]

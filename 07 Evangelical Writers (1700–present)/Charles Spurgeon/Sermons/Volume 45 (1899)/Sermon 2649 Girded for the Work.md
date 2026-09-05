@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Girded for the Work
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2649
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore gird up the loins of your mind." 1 Peter 1:13.
 
@@ -109,9 +106,9 @@ I wish that all who profess to be converted knew what they were converted from a
 
 I know that I have spoken all of this for nothing, so far as some of you are concerned, because you have nothing for which to gird up your mind and nothing with which to gird it. For you, as you now are, there is no inheritance. For you there is no place of joy, no hope of peace. O poor Soul, first remember that you must be born again, for it is no use to gird up the natural man that is unsaved! It is the new man that is to be gird about. Your first business is with God and with His Christ, and with the eternal Spirit. The first necessity for you is to believe in the Lord Jesus Christ and to accept that Gospel which says, "He that believes and is baptized shall be saved." That being done, then you have something to gird up! God grant it to every one of you, for Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—660, 632, 659.
+## Hymns from "Our Own Hymn Book"—660, 632, 659
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 1:13-20.
+## Exposition by C. H. Spurgeon: 1 Peter 1:13-20
 
 Verse 13. Therefore gird up the loins of your mind, be sober, and hope to the end for the Grace that is to be brought unto you at the revelation of Jesus Christ This is Peter's practical application of the great Truths of which he had been writing. "Look ahead and expect great things. Live in the future. Project your thoughts beyond the centuries that are passing away into the ages which will never die."
 
@@ -126,7 +123,6 @@ Verse 13. Therefore gird up the loins of your mind, be sober, and hope to the en
 20, 21. Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, who by Him do believe in God, that raised Him up from the dead and gave Him glory, that your faith and hope might be in God. It is no use to place them anywhere else! All other vessels are too frail to bear such a heavy burden, but, if your faith and hope are in God, then you have a security which none can destroy.
 
 22-25. Seeing you have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that you love one another fervently with a pure heart: being born again, not of corruptible seed, but of incorruptible, by the Word of God, which lives and abides forever For all flesh is as grass, and all the glory of man as the flower of grass. Thegrass withers and the flower thereoffalls away: but the Word ofthe Lordendures forever. And this is the Word which by the Gospel is preached unto you. Blessed be God for an everlasting Gospel, founded on the Everlasting Covenant, which brings with it everlasting life to all those who believe in Christ Jesus the Lord!
-
 
 ---
 [[Sermon 2648 Sacred Memories|← #2648]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2650 Characteristics of Christ's Disciples|#2650 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 36
 
-**CHAPTER 36**
+***Chapter 36***
 
 ## Jeremiah 36:1-2
 
@@ -63,7 +62,7 @@ We then see that there were two reasons why the Prophet, by God’s command, fix
 
 ## Prayer Lecture 141
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not continually to provoke thine anger against us, we may at length return to thee, and that every one may so examine his life, that being prostrate under a sense of thy wrath, we may betake ourselves to the only true remedy, even to implore thee, and to seek forgiveness; and do thou also so graciously meet us, that we may in sure faith call on thee, and, in the meantime, find really, by experience, that our prayers are not in vain, until we shall at length have a perfect enjoyment of thy mercy, in thy celestial kingdom. — Amen.
 
@@ -145,7 +144,7 @@ It follows, that they *said, Declaring we shall declare to the king, etc*. We he
 
 ## Prayer Lecture 142
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou art pleased to invite us daily to thyself, we may respond to thy call in the spirit of meekness and obedience; and do thou also so seriously impress our minds, that we may not only confess our sins, but also so loathe ourselves on account of them, that we may without delay seek the true remedy, and, relying on thy mercy, may so repent, that thy name may hereafter be glorified in us, until we shall at length become partakers of that glory, which thy Son has obtained for us by his own blood. — Amen.
 
@@ -231,7 +230,7 @@ However this may have been, we ought to notice the words, that God *hid them* Je
 
 ## Prayer Lecture 143
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou dost daily invite us kindly to thyself, and dost also terrify us in order to correct our tardiness and sloth, — O grant, that we may not obstinately resist thee and thy word, but be so allured by thy condescension and subdued by thy threatenings, that in real fear we may flee to thy mercy, and never hope for any other remedy, except we obtain salvation through being reconciled to thee, and that we may so seek thee in true penitence and by true faith, that thou mayest come to our aid, and be propitious to us through thine only-begotten Son our Lord. — Amen.
 
@@ -333,7 +332,7 @@ But Baruch, I doubt not, again proclaimed these words; how was it then that the 
 
 ## Prayer Lecture 144
 
-**PRAYER**
+## **Prayer**
 
 Grant, Omnipotent God, that since thou warnest us by so remarkable examples, that the ungodly by obstinately resisting thee, do nothing but aggravate their own ruin, — O grant, that we may receive with meek hearts the admonitions of thy Prophets, and submit to thee, and be so humbled by thy threatenings and tremble at thy word, that being touched with the feeling of true repentance, and reconciled to thee by faith, we may find thee to be the best and the kindest Father to obedient children, until we shall at length enjoy that eternal inheritance which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

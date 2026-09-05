@@ -10,20 +10,19 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 7. Book First
 
 THE FIRST BOOKE OF THE HISTORY OF THE REFORMATIOUN OF RELIGIOUN WITHIN THE REALME OF SCOTLAND: CONTEANYNG THE MANER AND BY WHAT PERSONS THE LIGHT OF CHRISTIS EVANGELL HATH BENE MANIFESTED UNTO THIS REALME, AFTER THAT HORRIBLE AND UNIVERSALL DEFECTIOUN FROM THE TREWTH, WHICH HES CUME BY THE MEANES OF THAT ROMANE ANTICHRIST.
 
 ## PREFACE
 
-TO THE GENTILL READAR, GRACE AND PEACE FROME GOD THE FATHER OF OUR LORD JESUS CHRIST, WITH THE PERPETUALL ENCREASE OF THE HOLY SPREIT.10
+## To the Gentill Readar, Grace and Peace Frome God the Father of Our Lord Jesus Christ, with the Perpetuall Encrease of the Holy Spreit.10
 
 It is not unknowen, Christeane Reader, that the same clud11 of ignorance, that long hath darkened many realmes under this accurssed kingdome of that Romane Antichrist, hath also owercovered this poore Realme; that idolatrie12 hath bein manteined, the bloode of innocentis hath bene sched, and Christ Jesus his eternall treuth hath bene abhorred, detested, and blasphemed. But that same God that caused light to schyne out of darknes, in the multitud of his mercyes, hath of long tyme opened the eis13 of some evin within this Realme, to see the vanitie of that which then was universally embrased for trew religioun; and hes gevin unto them strenth to oppone thame selfis unto the same: and now, into these our last and moist corrupt dayis, hath maid his treuth so to triumphe amonges us, that, in despyte of Sathan, hipochrisye is disclosed, and the trew wyrschipping of God is manifested to all the inhabitantis of this realme whose eis14 Sathan blyndis not, eyther by thair fylthy lustes, or ellis by ambitioun, and insatiable covetousnes, which maek them repung to the power of God working by his worde.
 
 And becaus we ar not ignorant what diverse bruittis war dispersed of us, the professoures of Jesus Christ within this realme, in the begynnyng of our interprise, ordour was lackin, that all our proceidingis should be committed to register; as that thei war, by such as then paynfullie travailled15 boith by toung and pen; and so was collected a just volume, (as after will appeir,) conteanyng thingis done frome the fyftie-awght16 year of God, till the arrivall of the Quenis Majestie furth of France,17 with the which the Collectour and Writtar for that tyme was content, and never mynded further to have travailled in that kynd of writting.18 But, after invocatioun of the name of God, and after consultatioun with some faythfull,19 what was thought by thame expedient to advance Goddis glorie, and to edifie this present generatioun, and the posteritie to come, it was concluded, that faythfull rehersall should be maid of such personages as God had maid instrumentis of his glorie, by opponyng of thame selfis to manifest abuses, superstitioun, and idolatrie; and, albeit thare be no great nomber, yet ar thei mo then the Collectour wold have looked for at the begynnyng, and thairfoir is the volume some what enlarged abuif his expectatioun: And yit, in the begynnyng, mon we crave of all the gentill Readaris, not to look of us such ane History as shall expresse all thingis that have occurred within this Realme, during the tyme of this terrible conflict that hes bene betuix the sanctes of God and these bloody wolves who clame to thame selves the titill of clargie, and to have authoritie ower the saules of men; for, with the Pollicey,20 mynd we to meddill no further then it hath Religioun mixed with it. And thairfoir albeit that many thingis which wer don be omitted, yit, yf we invent no leys, we think our selves blamless in that behalf. Of one other [thing] we mon foirwarne the discreat Readaris, which is, that thei be not offended that the sempill treuth be spokin without partialitie; for seing that of men we neyther hunt for reward, nor yitt for vane21 glorie, we litill pass by the approbatioun of such as seldome judge weill of God and of his workis. Lett not thairfoir the Readar wonder, albeit that our style vary and speik diverslie of men, according as thei have declared thame selves sometymes ennemyes and sometymes freindis, sometymes fervent, sometymes cold, sometymes constant, and sometymes changeable in the cause of God and of his holy religioun: for, in this our simplicitie, we suppoise that the Godlie shall espy our purpose, which is, that God may be praised for his mercy schawin, this present age may be admonished to be thankfull for Goddis benefittis offerred, and the posteritie to cum may be instructed how wonderouslie hath the light of Christ Jesus prevailled against darkness in this last and most corrupted age.
 
-HISTORIÆ INITIUM.22
+## Historiæ Initium.22
 
 In the Scrollis of Glasgw is found mentioun of one whais name is not expressed,23 that, in the year of God 1422, was burnt for heresye;24 bot what war his opinionis, or by what ordour he was condempned, it appearis not evidentlie. But our Cronikilles mack mentioun, that in the dayis of King James the First, about the year of God 1431, was deprehended in the Universitie of Sanctandrose, one named Paull Craw,25 a Bohame,26 who was accused of heresye befoir such as then war called Doctouris of Theologie. His accusatioun consisted principallye, that he followed Johnne Husse and Wyckleif, in the opinioun of the sacrament, who denyed that the substance of braid and wyn war changed be vertew of any wourdis; or that confessioun should be maid to preastis; or yitt prayeris to sanctes departed. Whill that God geve unto him grace to resist thame, and not to consent to thair impietie, he was committed to the secular judge, (for our bischoppis follow Pilat, who boith did condempne, and also wesche27 his handis,) who condempned him to the fyre; in the quhilk he was consumed in the said citie of Sanctandrose, about the time afoir writtin. And to declair thame selvis to be the generatioun of Sathan, who, from the begynnyng, hath bein ennemy to the treuth, and he that desyrith the same to be hyd frome the knowledge of men, thei putt a ball of brass in his mouth, to the end that he should nott geve confessioun of his fayth to the people, neyther yit that thei should understand the defence which he had against thair injust accusatioun and condemnatioun.
 
@@ -125,7 +124,7 @@ The Ten Commandimentis.
 
 [All these Commandments are briefly comprised in these two here under ensuing]:—"Love the Lord thy God with all thyne harte, wyth all thy saule, and with all thy mynd." (Deut. 6.)—"This is the first and great commandiment. The secund is lyik unto this, Love thy nychtbour as thy selve. On these two commandimentis hang all the Law and the Propheittis." (Matth. 12.)
 
-[CERTAINE GENERALL PROPOSITIONS PROVED BY THE SCRIPTURE.]64
+## [Certaine Generall Propositions Proved by the Scripture.]64
 
 I. He that loveth God, loveth his nychtbour.65—"If anie man say, I love God, and yit hattith his nychtbour, he is a lyer: He that lovith not his brother whome he hath sene, how can he love God whome he hath nott sein." (1 Joan. 4.)
 
@@ -967,7 +966,7 @@ Wyth this commission and credytt was Lord James, then Priour of Sanctandrois, di
 
 This head obteaned, whaireat France and sche principallie schote, what faith sche keapt unto the Protestantis, in this our Secound Book shalbe declared: In the begynnyng whairof, we man more amplie reherse some thingis, that in this our First ar summarly tweiched.
 
-THE END OF THE FIRST BOOK.
+## The End of the First Book
 
 ---
 [[Knox Works1 6 Printed Editons of the History|← 6. Printed Editons of the History]] · [[Library/protestant reformers/John Knox/Works Volume 1/works1-index|Contents]] · [[Knox Works1 8 Book Second|8. Book Second →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Orphan's Father
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1695
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "For in You the fatherless finds mercy." Hosea 14:3.
 
@@ -86,7 +85,6 @@ As our orphan boys grow older, however, they begin to have a perception of their
 You shall have a touch or two of the rod every now and then, and that is among your choice mercies! But you shall also have all the cherishing of His sweet love and, by-and-by, when you are fit for it, He will take you Home from school and you shall see His face—and you shall live forever in His House above, where the many mansions are. Oh, if you come and put yourselves, by a simple faith, into the blessed custody and keeping of God, He will admit you into His Salvation Orphanage and He will take care of you! And you shall find Him a better Father than you will be to your own chil-dren—a better Father than the best of fathers could ever be to the best beloved of sons!
 
 "I will be a Father unto you, and you shall be My sons and daughters, says the Lord Almighty." I will not say more, but I should like to leave John's choice sentence as my last word. "Behold what manner of love the Father has bestowed upon us, that we should be called the sons of God!" Blessed be Your name, O Lord, that we, also, have been led of Your Spirit to prove that in You the fatherless finds mercy!
-
 
 ---
 [[Sermon 1694 The Use of the Bow|← #1694]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1696 The Bird Escaped from the Snare|#1696 →]]

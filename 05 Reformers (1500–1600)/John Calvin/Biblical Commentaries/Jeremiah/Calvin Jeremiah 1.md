@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Jeremiah 1:1-3
 
@@ -157,7 +156,7 @@ God then bids us with quiet minds to wait for the accomplishment of his word; bu
 
 ## Prayer Lecture 2
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou art pleased kindly to invite us to thyself, and hast consecrated thy word for our salvation, — O grant that we may willingly, and from the heart, obey thee, and become so teachable, that what thou hast designed for our salvation may not turn to our perdition; but may that incorruptible seed by which thou dost regenerate us into a hope of the celestial life so drive its roots into our hearts, and bring forth fruit, that thy name may be glorified; and may we be so planted in the courts of thine house, that we may grow and flourish, and that fruit may appear through the whole course of our life, until we shall at length enjoy that blessed life which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -234,7 +233,7 @@ This passage contains a useful doctrine, from which we learn that strength shall
 
 ## Prayer Lecture 3
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been once pleased to fortify thy servant Jeremiah with the invincible power of thy Spirit, — O grant that his doctrine may at this day make us humble, and that we may learn willingly to submit to thee, and so to receive and even cordially to accept what thou offerest to us by thy servant — to sustain us by thine hand, and that we, relying on thy power and protection, may fight against the world and against Satan, while each of us, in his vocation, so recumbs on thy power, as not to hesitate, whenever necessary, to expose our very life to dangers: and may we manfully fight and persevere in our warfare to the end, until having finished our course we shall at length come to that blessed rest which is reserved for us in heaven, through Christ our Lord. — Amen.
 

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 118. Exodus 39:1-43
-
-**Exodus 39**
 
 **1.** And of the blue, and purple, and scarlet, they made clothes of service, to do service in the holy *place*, and made the holy garments for Aaron; as the Lord commanded Moses.
 

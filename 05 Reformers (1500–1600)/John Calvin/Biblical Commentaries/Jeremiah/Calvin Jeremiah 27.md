@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 27
 
-**CHAPTER 27**
+***Chapter 27***
 
 ## Jeremiah 27:1-5
 
@@ -33,7 +32,7 @@ God’s design then was to communicate this to his Prophet himself, that he migh
 
 ## Prayer Lecture 102
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that when at any time thou grievously threatenest us, we may not, on that account, become angry, but learn to acknowledge our sins, and truly to humble ourselves under thy mighty hand, and also to deprecate thy wrath, and to prove by true repentance, that we profit by thy word, and believe thy denunciations, so that we may become partakers of that mercy, through which thou promisest to be propitious to all who turn to thee: and may we thus advance more and more, and persevere in the right course of repentance, until having at length put off all the vices of the flesh, we shall attain to a perfection of righteousness and the fruition of that glory which has been laid up for us in heaven by Jesus Christ our Lord. — Amen.
 
@@ -99,7 +98,7 @@ Death might have seemed lighter, if only they could have escaped the tyranny of 
 
 ## Prayer Lecture 103
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not in various ways to arm thine hand against us, we may, being at least touched by thy holy admonitions, humble ourselves under thy mighty hand, and thus anticipate thy judgment, so that thou mayest meet us as a merciful and gracious God, and not only remit to us the punishments which we have deserved, but also shew and perpetuate to us thy paternal favor, until, having been led by thine hand, we shall come unto that celestial kingdom which thou hast prepared for us, and which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -179,7 +178,7 @@ We hence see that nothing was left undone by the Prophet to bend the Jews to obe
 
 ## Prayer Lecture 104
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not often and continually to provoke thy wrath against us, we may of our own accord anticipate thy judgment, and not harden ourselves in our sins, having been especially warned by thy word, but in due time repent, and so submit ourselves to thee, that whatever thou mayest appoint for us, we may not doubt but thou wilt be propitious to us; and while fleeing to thy mercy, may we not refuse the punishment thou deemest expedient to bring us to the right way, until having at length put off all our corruptions, we shall enjoy that eternal inheritance, which is laid up for us in heaven, through Jesus Christ our Lord. — Amen.
 
@@ -259,7 +258,7 @@ We said by these words of the Prophet it may be determined who they are who dese
 
 ## Prayer Lecture 105
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we continually by our many vices draw on ourselves new punishment, we may strive to be reconciled to thee, and thus anticipate thy judgment, and so submit to thee in true humility, that we may not by struggling against thee be untamable, but confess our guilt, obtain thy favor, and find reconciliation with thee, until having at length put off all our vices, we shall come to that blessed rest, which thine only-begotten Son has procured for us by his own blood. — Amen.
 

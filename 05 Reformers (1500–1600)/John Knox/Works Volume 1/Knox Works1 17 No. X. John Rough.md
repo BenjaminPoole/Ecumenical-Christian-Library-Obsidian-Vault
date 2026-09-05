@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 17. No. X. John Rough.
 
 ## No. X.
 
-JOHN ROUGH.
+## John Rough
 
 A brief notice of this very zealous preacher is given at page 187. I regret that only a portion can be added in this place of the interesting account of his examination and death in December 1558, as preserved in Foxe's "Actes and Monuments." Calderwood's account of Rough's martyrdom, (Hist. vol. i. p. 251,) is abridged from the same authority.
 

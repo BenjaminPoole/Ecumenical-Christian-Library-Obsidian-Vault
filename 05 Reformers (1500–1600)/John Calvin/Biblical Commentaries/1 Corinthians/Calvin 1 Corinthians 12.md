@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## 1 Corinthians 12:1-7
 

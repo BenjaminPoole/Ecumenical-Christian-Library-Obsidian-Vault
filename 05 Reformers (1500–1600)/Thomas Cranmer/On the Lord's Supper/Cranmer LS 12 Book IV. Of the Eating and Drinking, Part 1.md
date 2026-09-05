@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 12. Book IV. Of the Eating and Drinking, Part 1
 
-CONFUTATION OF THE FOURTH BOOK,
+*Confutation of the Fourth Book*
 
 [ wincuEsTER. |
 
@@ -43,7 +42,7 @@ Augustinus. n Joh. Tract. 27.
 
 (Eecumenius.
 
-202 THE FOURTH BOOK.
+## 202 the Fourth Book
 
 the effect is other in good men than in evil men, I will not strive therein. But to discuss this matter, evidently we must rightly open the truth, and then must consider the visible sacraments as they be of God’s ordinance, who directeth us where to seek for his gifts, and how: whose working albeit it be not restrained by his sacraments, and therefore God may and doth invisibly sanctify and salve as it pleaseth him; yet he teacheth us of his ordinary working, in the visible sacraments, and ordereth us to seek his gifts of health and life there; whereupon St Augustine noteth how baptism, among the christian men of Africa, was very well called health, and the sacrament of Christ's body called life, as in which God giveth health and life, if we worthily use them!. The ordinance of these sacraments is God’s work, the very author of them, who as he is in himself uniform, as St James saith, “ without alteration,” so, as David saith, “his works be true,” which is as much as uniform; for “truth” and “uniform” answereth together. As God is all goodness, so all his works be good. So as considering the substance of God’s works and ordinances as they be in themselves?, they be always uniform, certain, and true in their substance as God ordered them. Among men, for whom they be wrought and ordered, there is variety; good men, evil men, worthy, unworthy; but as St Paul saith, there is but “one Lord, one faith, one baptism.” And the parable of the sower, which Christ declared himself, sheweth a diversity of the grounds where the seed did fall; but the seed was all one that did fall in the good ground, and that did fall in the naughty grownd, but it Sructified only in the good ground, which seed Christ calleth his word; and in the sixth of St John saith, “his word is spirit and life;” so as by the teaching of Christ spirit and life may fall upon naughty men, although for their malice it tarrieth not, nor fructifieth not in them. And St Augustine®, according hereunto, noteth how Christ's words be spirit and life, “although thow dost carnally understand them, and hast no fruit of them; yet so they be spirit and life, but not to thee:” whereby appeareth the substance of God's ordinance to be one, though we in the using of it vary. The promises of God cannot be disappointed by man’s infidelity, as St Paul saith; which place Luther allegeth to shew the unity in the substance of baptism, whether it be ministered to good or evil. But St Paul to the Corinthians declareth it notably im these words: “We be the good savour of Christ in them that be saved, and them that perish.” Here St Paul noteth the savour good and one to divers men; but, after the diversity in men, of divers effects in them, that is to say, the savour of life, and the savour of death: which saying of St Paul the Greek scholies, gathered by (ecumenius, open and declare with similitudes in nature very aptly. The dove, they say, and the beetle shall feed both upon one ointment, and the beetle die of it, and the dove strengthened by it; the diversity in the effect following of the diversity of them that eat, and not of that is eaten, which is alway one. According hereunto St Augustine, against the Donatists, giveth for a rule the sacraments to be one in all, although they be not one that receive and use them. And therefore to knit wp this matter for the purpose, I intend and write it; for we must consider thée substance of the visible sacrament of Christ's body and blood to be always as of itself it is, by Christ's ordinance: in the understanding whereof this author maketh variance, and would have it by Christ’s ordinance but a figure, which he hath not proved; but and he had proved it, then is it in substance but a figure, and but a figure to good men. For it must be m substance one to good and bad; and so neither to good nor bad this sacrament is otherwise dispensed than it is truly taught to be by preaching.
 
@@ -53,7 +52,7 @@ Wherefore if it be more than a figure, as it is in deed, and if by Christ's ordi
 
 [? As they be themselves, Orig. ed. Winch. ] Pars ix.]
 
-CANTERBURY.
+## Canterbury
 
 In this book, because you agree with me almost in the whole, I shall not need much to travail in the answer; but leaving all your pretty taunts against me, and - glorious boasting of yourself, which neither beseemeth our persons, nor hindereth the truth, nor furthereth your part, but by pompous words to win a vain glory and fame of them that be unlearned, and have more regard to words than judgment of the matter, I shall only touch here and there such things as we vary in, or that be necessary for the defence of the truth. _
 
@@ -103,7 +102,7 @@ Spint and life to fall upon evil men.
 
 Aug. in Joh. Tract. 27.
 
-206 THE FOURTH BOOK.
+## 206 the Fourth Book
 
 upon naughty men, although for their malice it tarry not.” For by this doctrine you join together in one man Christ and Belial, the Spirit of God and the spirit of the devil, life and death, and all at one time; which doctrine I will not name what it is, for all faithful men know the name right well, and detest the same. And what ignorance can be shewed more in him that accompteth himself learned, than to gather of Christ's words, where he saith, “his words be spirit and life,” that spirit and life should be in evil men because they hear his words? For the words which you recite by and by of St Augustine shew how vain your argument is, when he saith: “The words be spirit and life, but not to thee that dost carnally understand them'.” What estimation of learning or of truth would you have men to conceive of you, that bring such unlearned arguments, whereof the invalidity appeareth within six lines after ? Which must needs declare in you either much untruth and unsincere proceeding, or much ignorance, or at the least an exceeding forgetfulness, to say any thing reproved again within six lines after, And if the promises of God, as you say, be not disappointed by our infidelity, then if evil men eat the very body of Christ and drink his blood, they must needs dwell in Christ, and have Christ dwelling in them, and by him have everlasting life, because of these promises of Christ, Qui manducat meam carnem, et bibit meum sanguinem, in me manet et ego in eo. Et qui manducat meam carnem et bibit meum sanguinem, habet vitam cternam: “He that eateth my flesh and drinketh my blood, hath everlasting life. And he that eateth my flesh and drinketh my blood, dwelleth in me and I in him.” And yet the third promise, Qui manducat me, et tpse vivet propter me: “ He that eateth me, he shall also live by me.” These be three promises of God, which if they cannot be disappointed by our infidelity, then if evil men eat the very body of Christ and drink his blood, as you say they do in the sacrament, then must it needs follow that they shall have everlasting life, and that they dwell in Christ and Christ in them, because our in-
 
@@ -159,7 +158,7 @@ Chap. tv. The good only eat Christ.
 
 Origenes in Matt. cap.
 
-208 THE FOURTH BOOK.
+## 208 the Fourth Book
 
 his blood there shed for the remission of his sins. And this great benefit of Christ the faithful man earnestly considereth in his mind, chaweth and digesteth it with the stomach of his heart, spiritually receiving Christ wholly into him, and giving again himself wholly unto Christ.
 
@@ -175,7 +174,7 @@ And now to return to our purpose, that only the lively members of Christ do eat 
 
 First, Origen writeth plainly after this manner: “The Word was made flesh and very meat, which whoso eateth shall surely live for ever, which no evil man can eat. For if it could be, that he that continucth evil might eat the Word made flesh, seeing he is the Word and bread of life, it should not have been written: ‘ Whosoever eateth this bread, shall live for ever‘.’” These cera panem sanctum frangimus et partimur. Cyprian, (i.e. Arnold. ap. Cyprian.) De Cena Do-
 
-[? Hance Dei gratiam recolens, qui de sacro calice bibit, amplius sitit: et ad Deum vivum erigens desiderium, ita singulari fame illo uno appetitu tenetur, ut deinceps fellea peccatorum horreat pocula, et omnis sapor delectamentorum carnalium sit ei quasi rancidum radensque palatum acute mordacitatis acetum. Ad hee inter sacra mysteria ad gratiarum actiones convertitur, et inclinato capite, munditia cordis adepta, se intelligens consummatum, restitutus peccator sanctificatam Deo animam quasi depositum custoditum fideliter reddit, et deinceps cum Paulo gloriatur et letatur dicens : *“‘ Vivo jam non ego, vivit vero in me Christus.”’ Hec in Christi commemoratione retractantur a fidelibus, et defeecatis animis carnis ejus edulium non est horrori, sed honori, potuque sancti et sanctificantis sanguinis spiritus delectatur. Hac quotiens agimus, non dentes ad mordendum acuimus, sed fide sin- mini, p. 471. Ed. Paris. 1574.] [? Noli parare fauces, sed cor. August. de - Verbis Domini. Sermo. xxxiii. cap. y. Tom. X. p. 49. Ed. Paris. 1635.] - [* Ut quid paras dentes et ventrem ? Crede, et manducasti. Id. In Joannem, de cap. vi. Tract.
+[? Hance Dei gratiam recolens, qui de sacro calice bibit, amplius sitit: et ad Deum vivum erigens desiderium, ita singulari fame illo uno appetitu tenetur, ut deinceps fellea peccatorum horreat pocula, et omnis sapor delectamentorum carnalium sit ei quasi rancidum radensque palatum acute mordacitatis acetum. Ad hee inter sacra mysteria ad gratiarum actiones convertitur, et inclinato capite, munditia cordis adepta, se intelligens consummatum, restitutus peccator sanctificatam Deo animam quasi depositum custoditum fideliter reddit, et deinceps cum Paulo gloriatur et letatur dicens : *“‘ Vivo jam non ego, vivit vero in me Christus.”’ Hec in Christi commemoratione retractantur a fidelibus, et defeecatis animis carnis ejus edulium non est horrori, sed honori, potuque sancti et sanctificantis sanguinis spiritus delectatur. Hac quotiens agimus, non dentes ad mordendum acuimus, sed fide sin-mini, p. 471. Ed. Paris. 1574.] [? Noli parare fauces, sed cor. August. de - Verbis Domini. Sermo. xxxiii. cap. y. Tom. X. p. 49. Ed. Paris. 1635.] - [* Ut quid paras dentes et ventrem ? Crede, et manducasti. Id. In Joannem, de cap. vi. Tract.
 
 xxv. Pars ix. Basil. ap. Amerbach. 1506.]
 
@@ -217,7 +216,7 @@ Augustinus in sententiis ex Prospero decerptis, cap. 34].
 
 De Civitate Dei, Lib. xxi. cap. 25.
 
-THE FOURTH BOOK.
+## The Fourth Book
 
 Thus teacheth Basilius how we eat Christ’s flesh and drink his blood, which pertaineth only to the true and faithful members of Christ.
 
@@ -277,7 +276,7 @@ tomi hujus.]
 
 [!? For age, 1551, and Orig. ed.]
 
-212 THE FOURTH BOOK.
+## 212 the Fourth Book
 
 eat and drink them not, have not everlasting life: and contrariwise, whosoever eat and drink them, have everlasting life.”
 
@@ -299,7 +298,7 @@ eating of Christ’s body and the drinking of his blood, saying: ‘‘ The eati
 
 [? Est enim (i.e. sermo), de corpore Domini, quod dicebat se dare ad manducandum propter zternam vitam. Exposuit autem modum attributionis hujus et doni sui, quomodo daret carnem suam manducare, dicens: ** Qui manducat carnem meam, et bibit sanguinem meum, in me manet, et ego in illo.’ Signum quia manducavit et bibit, hoc est: si manet et manetur, si habitat et inhabitatur, si heret ut non deseratur. Hoc ergo nos docuit et admonuit mysticis verbis, ut simus in ejus corpore sub ipso capite in membris ejus, edentes carnem ejus, non relinquentes unitatem ejus.—August. in Joannem. Tract. xxvii. De cap. vi. Pars 1x.]} f* See p. 115.]
 
-OF THE EATING AND DRINKING.
+## Of the Eating and Drinking
 
 be refreshed, and the drinking what is it but to live? Lat life, drink life. And that shall be, when that which is taken visibly in the sacrament, is in very deed eaten spiritually and drunken spiritually*.”
 
@@ -323,7 +322,7 @@ _ [° Ili manducabant panem Dominum, ille (i. e. Judas,) panem Domini contra Dom
 
 [® Kai el dia povns adgys tis adylas capKds Cworoetrar Td épOappéevov, was obyxi wovowwrTépav atroxepdavovmev tiv Cworrody ed\oyiav, Stay a’tis Kai dtroyevowpmeba ;—'Qorep yap eitis knpdv évépw cuvawvere KNp@, WavTws SyTou Kal ErEepov év éTépw yeyovora kaTrowWera® Tov avTov, oluat, Tpdmov Kal 6 THv odpxa dexopuevos TOU swTIpos juwy Xpicrov, Kai wivwv adrov rd Tipmiov aia, xabd pnow aires, ev ws mpds ai’Tdv eipioxeTat cuvavaKipvamevos womep Kai dvautyvipevos abTwe did Tijs petadiews, ws év Xpiotw@ pev ab’tov eipicxecOa, Xpiorov dé ad waédw ev aito.—Id. Lib. rv. capp. xiv. xvii. Tom. 1V. pp. 361, 4, 4.]
 
-14 THE FOURTH BOOK.
+## 14 the Fourth Book
 
 it eateth away all rotten and dead flesh, and perfectly healeth all wounds and sores that it is laid unto. .
 
@@ -331,13 +330,13 @@ This is the dignity and excellency of Christ’s flesh and blood, joined to his 
 
 Thus hast thou heard, gentle reader, the grounds and proofs, which moved me to write the matter of this fourth book, that good men only eat Christ’s flesh and drink his blood. Now shalt thou hear the late bishop’s confutation of the same.
 
-WINCHESTER.
+## Winchester
 
 And as for the scriptures and doctors which this author allegeth to prove that only good men receive the body and blood of Christ, I grant it without contention, speaking of spiritual manducation and with lively faith without the sacrament. But in the visible sacrament evil men receive the same that good men do, for the substance of the sacrament is by G'od’s ordinance all one. And if this author would use for a proof, that in the sacrament Christ's very body is not present, because evil men receive it, that shall be no argument ; for the good seed when it was sown did fall in the evil ground, and although Christ dwelleth not in the evil man, yet he may be received of the evil man to his condemnation, because he receiveth him not to glorify him as God, as St Paul saith, non dijudicans corpus domini, “not esteeming our Lord’s body.” And to all that ever this author bringeth to prove, that evil men eat not the body of Christ, may be said shortly, that spiritually they eat it not, besides the sacrament, and in the sacrament they eat it not effectually to life, but condemnation. And that is and may be called a not eating; as they be said not to hear the word of God, that hear it not profitably. And because the body of Christ of itself is ordained to be eaten for life, those that unworthily eat to condemnation, although they eat in deed, may be said not to eat, because they eat unworthily ; as a thing not well done may be in speech called not done, in respect of the good effect wherefore it was chiefly ordered to be done. And by this rule thou, reader, mayest discuss all that this author bringeth forth for this purpose, either out of scriptures or doctors. For evil men eat not the body of Christ to have any fruit by it, as evil men be said not to hear God’s word to have any fruit by it; and yet as they hear the words of spirit and life, and nevertheless perish, so evil men eat, in the visible sacrament the body of Christ, and yet perish. And as I said, this answereth$ the scripture with the particular sayings of Cyprian, Athanase, Basil, Hierome, and Ambrose.
 
 As for St Augustine, which this author allegeth, de civitate Dei, the same St Augustine doth plainly say there in this place* alleged, how the good and evil receive the same sacrament, and addeth, “ but not with like profit,” which words this author suppresseth, and therefore dealeth not sincerely. As for St Augustine shall be hereafter more plainly declared. Finally, he that receiveth worthily the body and blood of Christ, hath everlasting life, dwelleth in Christ and Christ in him: he that receweth unworthily, which can be only in the sacrament, receiveth not life, but condemnation.
 
-CANTERBURY.
+## Canterbury
 
 If you “ grant without contention” that which I do prove, then you must grant absolutely and frankly without any addition, that only good men eat and drink the body and blood of Christ. For so say all the scriptures and authors plainly, which I have alleged, without your addition of spiritual manducation: and not one of them all say as you do, that “in the visible sacrament evil men receive the same that good men do.”
 
@@ -357,7 +356,7 @@ And yet moreover, the authorities, which I have brought to approve my doctrine, 
 
 August. de Civit. Dei, Lib. xxi. cap. 25.
 
-216\. THE FOURTH BOOK.
+## 216\. The Fourth Book
 
 book, ‘‘that Christ’s body is but a spiritual body, and after a spiritual manner eaten by faith.” And now you have confessed, ‘that whoso feedeth upon Christ spiritually, must needs be a good man.” How can you then defend now, that evil men eat the body of Christ; except you will now deny that which you granted in the beginning, and now have forgotten it, “that Christ’s body cannot be eaten but after a spliinal manner by faith?” Wherein it is marvel, that you, having so good a memory, should forget the common proverb, Mendacem memorem esse oportet.
 
@@ -387,7 +386,7 @@ And this wickedness of the papists is to be wondered at, that they affirm Christ
 
 But to encounter directly with this author where he opposeth by interrogation, and would be answered, “whether an unrepentant sinner, that receiveth the sacrament, hath Christ's body within him or no?” Mark, reader, this question, which declareth that this author talketh of the sacrament, not as himself teacheth, but as the true teaching is, although he mean otherwise: Sor else how can an unrepentant sinner receive Christ's body, but only in the sacrament unworthily? and how could he receive it wnworthily, and it were not there?? But to answer to this question®, I answer “no;” for it followeth not, he received him, ergo, he hath him in him; Jor the vessel being not meet, he departed from him, because he was a sinner, in whom he dwelleth not. And where this author, now become a questionist, maketh two questions, of Christ's body, and his Spirit, as though Christ's body might be divided from his Spirit; he swpposeth other to be as ignorant as himself. For the learned man will answer, that an evil man by force _ of God's ordinance, in the substance of the sacrament, received in deed Christ's very body there present, whole Christ, God and man; but he tarried not, nor dwelled not, nor fructified not 226. in him, nor Christ's Spirit entered not into that man’s soul, because of the malice and unworthiness of him that received. For Christ will not dwell with Belial nor abide with sinners. 2 Cor. vi. And what hath this author won now by his forked question? wherein he seemeth to glory as Witch} though he had embraced an absurdity that he hunted for; wherein he sheweth only his ignorance, who putteth no difference between the entering of Christ into an evil man by God's ordinance in the sacrament, and the dwelling of Christ's Spirit in an evil man, which by scripture cannot be, ne is by any catholic man affirmed. For St Paul saith: “In him that receiveth unworthily, remaineth judgment and condemnation.” And yet St Paul’s words (1 Cor. xi. plainly import, that those did eat the very body of Christ, which did eat unworthily, and’) - therefore were guilty of the body and blood of Christ. Now, reader, consider what is before written, and thow shalt easily see what a fond conclusion this author gathereth in the ninetyseventh leaf, as though the teaching were, that the same man should be both the temple of God, and the temple of the devil; with other terms, wherewith it liketh this author to refresh himself, and feigneth an adversary such as he would have, but hath none, for no catholic man teacheth so, nor it is not all one to receive Christ and to have Christ dwelling in him. And a figure thereof was in Christ's conversation upon earth, who tarrietht not with all that received him in outward appearance; and there is noted a difference that some believed in Christ, and yet Christ committed not himself to them. And the gospel praiseth them that hear the word [John iii. of God and keep it, signifying many to have the word of God and not to keep it; as they [Luice xi. that receive Christ by his ordinance in the sacrament, and yet because they receive him not “4 according to the intent of his ordinance worthily, they are so much the worse thereby through their own malice. And therefore to conclude this place with the author, “whosoever eateth Christ's flesh and drinketh his blood, hath everlasting life,” with St Paul’s exposition, if he \1 Cor. xi. doth it worthily ; or else by the same St Paul, he hath condemnation. mani
 
-CANTERBURY.
+## Canterbury
 
 | Tere the reader shall evidently see your accustomed manner, that when you be destitute of answer, and have none other shift, then fall you to scoffing and scolding _ out the matter, as sophisters sometimes do at their problems. But as ignorant as ‘I am, you shall not so escape me. First you bid the reader mark, that I “talk of the sacrament, not as I teach myself.” But I would have the reader here mark, that you report my words as you list yourself, not as I speak them. For you report my question as I should say, that “an unrepentant sinner should receive Christ’s body,” whereas I speak of the receiving of the sacrament of the body, and not of the very body itself, Moreover, I make my question of the being. of Christ’s body in an unpenitent sinner, and you turn “being” into “abiding,” because “ being” biteth you so sore.
 
@@ -413,7 +412,7 @@ _ St Paul: “ Let a man examine himself, and so eat of the bread and drink of _
 
 Tn these words St Paul’s mind is, that forasmuch as the bread and wine in _ the Lord’s supper do represent unto us the very body and blood of our Saviour Christ, by his own institution and ordinance, therefore, although he sit in heaven at his Father’s right hand, yet should we come to this mystical bread and wine with faith, reverence, purity, and fear, as we would do if we should come to see and receive Christ himself sensibly present. For unto the faithful Christ is at his own holy table present, with his mighty Spirit and grace, and is of them more fruitfully received, than if corporally they should receive him bodily present: and therefore they that shall worthily come to this God’s board, must after due trial of themselves consider first, who ordained this table; also what meat and drink they shall have that come thereto, and how they ought to behave themselves thereat. He that prepared the table is Christ himself: the meat and drink wherewith he feedeth them that come thereto as they ought to do, is his own body, flesh, and blood. They that come thereto, must occupy their minds in considering how his body was broken for them, and his blood shed for their redemption; and so ought they to approach to this heavenly table with all humbleness of heart and godliness of mind, as to the table wherein Christ himself is given. And they that come otherwise to this holy table, they come unworthily, and do not eat and drink Christ’s flesh and blood, but eat and drink their own damnation; because they do not duly consider Christ’s very flesh and blood, which be offered there spriritually to be eaten and drunken, but despising Christ’s most holy supper, do come thereto as it were to other common meats' and drinks, without regard of the Lord’s body, which is the spiritual meat of that table. )
 
-WINCHESTER.
+## Winchester
 
 In the ninety-seventh leaf and the second column, the author beginneth to traverse the words of
 
@@ -431,9 +430,9 @@ _ the thing to be one ordered to be eaten, and all the care to be used on our si
 
 __ [! To other meats, 1551, and Orig. ed.] [* So ed. 1551. In 1580 it is printed gift, by a [° If this bread, Orig. ed. Winch.] | mistake. ]}-
 
-220 | THE FOURTH BOOK.
+## 220 | the Fourth Book
 
-CANTERBURY.
+## Canterbury
 
 As touching mine answer here to the words of St Paul, you would fain have them hid with darkness of speech, that no man should see what I mean. For, as Christ said, Qui male agit, odit lucem; and therefore, that which I have spoken in plain speech, you darken so with your obscure terms, that my meaning can not be understand. For I speak in such plain terms, as all men understand, that when St Paul said, “He that eateth and drinketh unworthily, eateth and drinketh his own damnation ;” in that place he spake of the eating of the bread and drinking of the cup, and not of the corporal eating and drinking of Christ’s flesh and blood. These my plain words you do wrap up in these dark terms, that I “ would distinct the unworthy eating in the substance of the sacrament received.” Which your words vary so far from mine, that no man can understand by them my meaning, except you put a large comment thereto. For I distinct the unworthy eating none otherwise, than that I
 
@@ -455,7 +454,7 @@ But here may not be passed over the answer unto certain places of — ancient au
 
 The first place is of St Augustine, contra Cresconium Grammaticum, —
 
-OF THE EATING AND DRINKING.
+## Of the Eating and Drinking
 
 where he saith: “ That although Christ himself say, ‘He that eateth not my flesh, and drinketh not my blood, shall not have life in him,’ yet doth not his apostles teach, that the same is pernicious to them which use it not well ? For he saith: ‘Whosoever eateth the bread, and drinketh the cup of the Lord unworthily, shall be guilty of the body and blood of the Lord'.”
 
@@ -463,7 +462,7 @@ In which words St Augustine seemeth to conclude, that as well the evil as the go
 
 But consider the place of St Augustine diligently, and then it shall evidently appear, that he meant not of the eating of Christ’s body, but of the sacrament thereof. For the intent of St Augustine there is to prove that good things avail not to such persons as do evil use them; and that many things which of themselves be good, and be good to some, yet to other some they be not good. As that light is good for whole eyes, and hurteth sore eyes: that meat which is good for some, is evil for other some: one medicine healeth some, and maketh other sick: one harness doth harm one, and cumbereth another: one coat is meet for one, and too strait for another.
 
-And after other examples, at the last St Augustine sheweth the same to be true in the sacraments, both of baptism and the Lord’s body, which he saith do profit only them that re- ceive the same worthily.
+And after other examples, at the last St Augustine sheweth the same to be true in the sacraments, both of baptism and the Lord’s body, which he saith do profit only them that re-ceive the same worthily.
 
 And the words of St Paul, which St Augustine citeth, do speak of the sacramental bread and cup, and not of the body and blood.
 
@@ -473,7 +472,7 @@ Augustine called? the bread and the cup the flesh and blood, not that they be so
 
 Therefore, as in baptism those that come feignedly, and those that come unfeignedly, both be washed with the sacramental water, but both be not washed with the Holy Ghost, and clothed with Christ: so in the Lord’s supper both eat and drink the sacramental bread and wine, but both eat not Christ himself, and be fed with his flesh and blood, but those only which worthily receive the sacrament.
 
-And this answer will serve to another place of St Augustine, against the ne wee Donatists, where he saith, that “Judas received the body and blood of the contra’ Dona. Lord".” For as St Augustine in that place speaketh of the sacrament of bap-ea-8"” tism, so doth he speak of the sacrament of the body and blood, which never- theless he calleth the body and blood, because they signify and represent unto us the very body, flesh, and blood.
+And this answer will serve to another place of St Augustine, against the ne wee Donatists, where he saith, that “Judas received the body and blood of the contra’ Dona. Lord".” For as St Augustine in that place speaketh of the sacrament of bap-ea-8"” tism, so doth he speak of the sacrament of the body and blood, which never-theless he calleth the body and blood, because they signify and represent unto us the very body, flesh, and blood.
 
 [' Quamvis ipse Dominus dicat, “Nisi quis manducaverit carnem meam, et biberit sanguinem Meum, non habebit in se vitam”; nonne idem Apostolus docet etiam hoc perniciosum male utentibus fieri ? Ait enim : ‘¢Quicunque manducaverit panem, et biberit calicem Domini indigne, reus erit corporis et sanguinis Domini.””—August. contra Cresconium Grammaticum, Lib. 1. cap. xxv. Pars vi. Basil. ap. Amerbach. 1506.]
 
@@ -495,7 +494,7 @@ August. de Verb. Dom. Sermo 1l.
 
 SE EULER Se eae ne he eee
 
-999 | THE FOURTH BOOK.
+## 999 | the Fourth Book
 
 And yet he goeth about, because he will make all things clear, to answer such authors “ as the papists,” he saith, “bring for their purpose.” And first he beginneth with St Augustine, who writeth as plainly against this author's mind as I would have devised it, if I had no conscience of truth more than I see some have, and might with a secret wish have altered St Augustine as I had list. And therefore here I make a plain issue with this author, that in the searching of St Augustine he hath trusted his man or his friend over-negligently im so great a matter, or he hath willingly gone about to deceive the reader. For in the place of St Augustine against the Donatists, alleged here by this author, which he would with the rest assail, - St Augustine hath these formal words in Latin: Corpus Domini et sanguis Domini nihilominus erat etiam illis quibus dicebat Apostolus, “Qui manducat indigne, judicium sibi manducat et bibit;’ which words be thus much in English: “ It was nevertheless the body of our Lord and the blood of our Lord also unto them to whom the apostle said, ‘ He that eateth unworthily, eateth and drinketh judgment to himself’” These be St Augustine's words, who that received unworthily, declaring that their unworthiness doth not alter the substance of that sacrament, and doth us to understand therewith the substance of the sacrament to be the body and blood of Christ ; and nevertheless so, though the receivers be unworthy: wherein this author is so overseen, as I think there was never learned man before that durst in a commonwealth, where learned men be, publish such an untruth as this is, to be answered in a tongue that all men knew!. Yet Peter Martyr wrote in Latin, and rejoiceth not, I think, to have his lies in English. I will bring in here another place of St Augustine to this purpose: Ilud etiam, quod ait, ‘Qui manducat carnem meam, et bibit sanguinem meum, in me manet et ego in illo, quomodo intellecturi sumus? Nunquid etiam illos sic? poterimus accipere, de quibus dixit? Apostolus, quod ‘judicium sibi manducent et bibant,’ quum ipsam carnem manducent, et ipsum sanguinem bibant? Nunquid et Judas Magistri venditor et traditor impius, quamyis primum ipsum manibus ejus confectum sacramentum carnis et sanguinis ejus cum ceteris discipulis, sicut apertius Lucas Evangelista declarat, manducaret et biberet, mansit in Christo, aut Christus in eo? Multi denique, qui vel corde ficto carnem illam manducant, et sanguinem bibunt, vel quum manducayerint et biberint, apostatee fiunt, nunquid manent in Christo, aut Christus in eis? Sed profecto est quidam — modus manducandi illam carnem, et bibendi illum sanguinem: quomodo qui manduca- — verit et biberit, in Christo. manet et Christus in eo. Non ergo quocunque modo quisquam — manducaverit carnem Christi, et biberit sanguinem Christi, manet in Christo, et in illo Christus; sed certo quodam modo, quem modum utique ipse videbat, quando ista dicebat3, The English of these words is this: “ That same that he also saith, * Who eateth my flesh and drinketh my blood, dwelleth in me and Iin him; how shall we understand it? May we understand also of them of whom the apostle speak+, that they did eat to themselves, and drink, judgment, when they did eat the same flesh and drink the same. blood, the flesh itself, the blood itself? Did not Judas, the wicked seller and betrayer of his master, when he did eat and drink (as Lucas the Evangelist declareth) the first sacrament of the flesh and blood of Christ made with his own hands, dwell in Christ, and Christ in him? Finally, many that with a feigned heart eat that flesh and drink the blood, or when they have eaten and drunken become apostates, do not they dwell in Christ, or Christ in them? But undoubtedly there is a certain manner of eating that flesh and drinking that blood; after which manner whosoever eateth and drinketh, dwelleth in Christ, and Christ in him. Therefore, not in whatsoever manner any man eateth the flesh of Christ, and drinketh the blood of Christ, he dwelleth in Christ, and Christ in him, but after a certain manner, which manner he saw when he said these words.” This is the sense of St Augustine's saying in Latin, whereby appeareth the faith of St Augustine to be, in the sacrament to be eaten and drunken the very body and blood of Christ, which for the substance of the sacrament evil men receive as good men do; that is to say, as St Augustine doth point i out by his words, the same flesh and the same blood of Christ, with such an expression of speech®, as he would exclude all difference that device of figure might imagine, and therefore saith, Ipsam carnem, ipsum sanguinem; which signify® the self-same in deed, not by name only, as the
 

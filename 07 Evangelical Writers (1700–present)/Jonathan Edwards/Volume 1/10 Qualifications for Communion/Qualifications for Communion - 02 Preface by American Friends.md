@@ -10,7 +10,6 @@ written: "1749"
 tags:
   - jonathan-edwards
 ---
-
 # A PREFACE
 
 by his american friends.
@@ -23,15 +22,15 @@ The following Treatise contains the substance of those convictions, or the parti
 
 We heartily pray that the reverend Author and his flock may for a long time be happy together; that their cordial love and tenderness to each other may continue and operate in mutual and all lawful condescensions and forbearances under different sentiments in these particulars; that every one may be open to light, and guard against all prejudice, precipitance, and passion; that they may be very watchful against the devices of Satan to disunite or disaffect them; that they may study the things that make for peace and edification.—And the god of light, love, and peace, will continue with them.
 
-THOMAS PRINCE.
+## Thomas Prince
 
-JOHN WEBB.
+## John Webb
 
-THOMAS FOXCROFT.
+## Thomas Foxcroft
 
 *Boston,*.
 
-M. BYLES
+## M. Byles
 
 *August* 11, 1746.
 

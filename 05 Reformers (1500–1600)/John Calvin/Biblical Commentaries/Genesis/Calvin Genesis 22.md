@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 22
 
-**CHAPTER 22.**
+***Chapter 22.***
 
 ## Genesis 22:1-24
 

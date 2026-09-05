@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 140
-
-**PSALM 140**
 
 David complains of the implacable cruelty of his enemies, and of their treachery and rancorous calumnies. In the close, having besought God’s help, and expressing his persuasion of obtaining his layout, he comforts himself with the hope of deliverance, and just vengeance being executed upon his enemies.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # A Drama in Five Acts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 481
@@ -43,7 +42,7 @@ Hath joys substantial and sincere:
 
 When shall I wake and find me there?"
 
-I. WE WILL WITNESS "THE FASHION OF THIS WORLD" AS IT PASSES BEFORE US, LISTENING TO THE WORLDLING'S COMMENT.
+## I. We Will Witness "the Fashion of This World" as It Passes Before Us, Listening to the Worldling's Comment
 
 The *first act* introduces *those that have wives.* It opens with *a wedding.* The bride and bridegroom advance to the altar in bridal attire. The bells are ringing; crowds are cheering at the door, while overflowing mirth is supreme within. In another scene we observe domestic happiness and prosperity, a loving husband and a happy wife. Yet, further on in the performance, rosy children are climbing the father's knee; the little prattlers are lisping their mother's name. "Now," says our companion as he gazes with rapture, "This is real and enduring, I know it is; this will satisfy me; I crave for nothing more than this. *Home* is a word as sweet as heaven, and a healthy happy race of children is as fine a possession as even angels can desire. On this rock will I build all my hope; secure me this portion, and I cheerfully renounce the dreamy joys of religion." We whisper in his ear that all this is but a changing scene, and will by-and-bye pass away, for time is short, and wife and children are dying creatures. The man laughs at us, and says, "Fanatics and enthusiasts may seek eternal joys, but these are enough me." He believes that if there be anything permanent in the universe it is marrying and being given in marriage, educating and bringing up a family, and seeing them all comfortably settled. He is right in valuing the blessing, but wrong in making it his *all.* Will he see his error before the curtain falls? Or will he continue to found the hopes of an immortal spirit upon dying joys? See the green mounds in the cemetery, and the headstone, with "Here he lies." Alas for thee, poor deluded worldling, where is thy soul now? Doth it console thee that the dust of thine offspring shall mingle with thine ashes? Where hast thou now a home? What family hast thou now to care for? The first act is over; take breath and say, "This also is vanity."
 
@@ -126,7 +125,6 @@ Yes, there are some real things besides my own soul. There are *other men's soul
 Yes, there is something real—*there is Christ's Church.* The Church that is to shine like the stars in heaven for ever, the Bride of the Lamb—what am I doing for Her? Do I seek the good of Jerusalem? As a member of the Church, do I contribute to its strength? Do I give of my substance to her efforts, and of my talents to her doings? Do I cast myself wholly into the arms of Christ, and work for him! Yes, there is something real—*Jesus is so.* Am I glorifying him here on earth? When I see him in his poor people, do I feed him? When he shivers at my door in the garb of poverty, do I clothe him? When I know that he hath need, do I visit him? If so, I am doing real things. If I devote my life to God, to Christ, to his Church, to the souls of men, and if my own soul is saved, then I am living; but if not, I am dead while I live. *"Let us live while we live!"* Alas! how many are dying while they live, drivelling while they live! Oh! the scores of pounds we spend on ourselves; the hundreds we give to our own comfort! And where is that? It is gone like smoke! But that which is given to God lasts and endures; it is treasured up in God's bank; that which is given to the poor and needy is made—though unrighteous mammon—to be treasured up in heaven! But I know many practical persons will say, "Yes, this is a very pretty speech for a young minister; but these ministers do not understand business; they cannot be expected to understand temporal matters." I would to God ye understood them half so well, for our understanding in this matter we know is sound; and when you shall come to see these things in the light of eternity streaming between the curtains of your dying bed, you will understand, then, that there was nothing worth living for but God, and Christ, and his Church; and you will give your verdict then with mine to this, that truly to live must be Christ, or else to die never can be gain!
 
 God add his blessing, and may some be led to trust in Jesus this morning!
-
 
 ---
 [[Sermon 0480 A Message from God for Thee|← #480]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0482 The Royal Pair in Their Glorious Chariot|#482 →]]

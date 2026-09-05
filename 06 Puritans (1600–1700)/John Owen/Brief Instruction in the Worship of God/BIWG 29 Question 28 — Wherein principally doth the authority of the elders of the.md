@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 28 — Wherein principally doth the authority of the elders of the church consist?
-
-Question 28 — Wherein principally doth the authority of the elders of the church consist?
 
 Answer — ^aIn that the rule of the church and the guidance thereof, in things appertaining unto the worship of God, is committed unto them. And, therefore, ^bwhatever they do as elders in the church, according unto rule, they do it not in the name or authority of the church by which their power is derived unto them, nor as members only of the church by their own consent or covenant, but in the name and authority of Jesus Christ, from whom, by virtue of his law and ordinance, their ministerial office and power are received. So that, ^cin the exercise of any church-power, by and with the consent of the church, there is an obligation thence proceeding, which ariseth immediately from that authority which they have received of Jesus Christ, which is the spring of all rule and authority in the church. ^aActs xx. 28; Heb. xiii. 7, 17; 1 Pet. v. 2; 1 Cor. xii. 28. ^b1 Tim. iii. 5; Col. iv. 17; 2 Cor. x. 4, 8. ^c1 Tim. iv. 11; Titus ii. 15; 1 Pet. v. 2–5.
 
@@ -37,7 +34,6 @@ Eighthly, This authority is comprised in the law and constitution of Christ, whi
 Ninthly, The reason, therefore, why the *consent* of the church is required unto the authoritative acting of the elders therein is, not because from thence any authority doth accrue unto them anew, which virtually and radically they had not before, but because by the rule of the gospel this is required to the orderly acting of their power, which without it would be contrary to rule, and therefore ineffectual; as also it must needs be from the nature of the thing itself, for no act can take place in the church without or against its own consent, whilst its obedience is voluntary and of choice.
 
 But if it be asked, “What, then, shall the elders do in case the church refuse to consent unto such acts as are indeed according to rule, and warranted by the institution of Christ?” it is answered, that they are, — 1. Diligently to *instruct* them from the word in their duty, making known the mind of Christ unto them in the matter under consideration; 2. To declare unto them the *danger* of their dissent in obstructing the edification of the body, to the dishonour of the Lord Christ and their own spiritual disadvantage; 3. To *wait patiently* for the concurrence of the grace of God with their ministry in giving light and obedience unto the church; and, 4. In case of the church’s continuance in any failure of duty, to seek for advice and *counsel* from the elders and brethren of other churches; — all which particulars might be enlarged, would the nature of our present design and work permit it.
-
 
 ---
 [[BIWG 28 Question 27 — What are the principal duties of the pastors or teachers of the|← Question 27 — What are the principal duties of the pastors or teachers of the church?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 30 Question 29 — What is the duty of the church towards their elders, pastors, or|Question 29 — What is the duty of the church towards their elders, pastors, or teachers? →]]

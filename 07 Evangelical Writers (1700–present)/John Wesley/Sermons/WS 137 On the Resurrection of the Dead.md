@@ -10,12 +10,11 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 137. On the Resurrection of the Dead
 
-BENJAMIN CALAMY ABRIDGED AND REVISED BY JOHN WESLEY
+*Benjamin Calamy Abridged and Revised by John Wesley*
 
-WRITTEN IN THE YEAR 1732
+## Written in the Year 1732
 
 > "But some man will say, how are the dead raised up and with what body do they come" 1 Cor. 15:35.
 

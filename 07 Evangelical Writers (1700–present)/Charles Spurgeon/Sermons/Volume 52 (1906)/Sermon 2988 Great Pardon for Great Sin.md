@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Great Pardon for Great Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2988
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For Your name's sake, O Lord, pardon my iniquity, for it is great." Psalm 25:11.
 
@@ -91,7 +88,7 @@ I have tried, and I am trying, to preach a wide Gospel. I do not like to have a 
 
 then, by that deathbed of yours where you shall see your dreadful sins in another light. By that resurrection of yours where you shall see eternity to be no trifle. By that doom of yours. By the last dread thunders. By the awful sentence, "Depart, you cursed," of the Judge, I beseech you, do me but this one favor! Acknowledge that you had an invitation tonight and that it was affectionately pressed upon you. I have told you, in God's name, that your sin is not a trifle with God—that it is not a matter to be laughed at or to be whistled over. I have told you that the greatness of your sin need not shut you out. What is needed is that the Spirit of God should teach you these things in your heart. But do remember, if your ears refuse these Truths of God, and if you reject them, we are a sweet savor unto Christ as well in them that perish as in them that are saved! But woe unto you—woe unto you, who, with the Gospel ringing in your ears, go down to Hell!" Verily, verily, I say unto you, it shall be more tolerable for Sodom and Gomorrah in the Day of Judgment, than for you! May God save you, for Jesus' sake! Amen!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10:1-15.
+## Exposition by C. H. Spurgeon: Romans 10:1-15
 
 Verse 1. Brethren, my heart's desire and prayer to God for Israelis that they might be saved. Let this be our "heart's desire and prayer to God for Israel." Sorrows upon sorrows have come to the Lord's ancient people even down to this day—and they have been scattered and peeled, and rent and torn in almost every land. Who does not pity their griefs and woes? Let it be our heart's desire and daily prayer for Israel that they may be saved through faith in the Messiah whom they have so long rejected.
 
@@ -114,7 +111,6 @@ for me to lay aside my own righteousness and just take the righteousness of Chri
 15\. And how shall they preach, except they are sent Here is the great engine at the back of all the machinery—God sending the preacher—God blessing the Word—God working faith in the heart of them that hear it!
 
 15\. As it is written, How beautiful are the feet of them that preach the Gospel of peace, and bring glad tidings of good things!
-
 
 ---
 [[Sermon 2987 The 'Beau Ideal' of Life|← #2987]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2989 Near the Kingdom, or in It|#2989 →]]

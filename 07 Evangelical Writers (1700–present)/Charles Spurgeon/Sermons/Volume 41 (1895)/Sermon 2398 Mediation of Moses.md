@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Mediation of Moses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2398
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the LORD repented of the evil which He thought to do unto His people." Exodus 32:14.
 
@@ -89,7 +86,7 @@ IV. I had many more things to say to you, but I must leave them unsaid and concl
 
 Remember, Brothers and Sisters, that He not only prayed and willingly offered Himself to die for us, but He actually died for us. His name was blotted from the book of the living—He died that we might live. He went not to God saying, "Perhaps I may make Atonement for the guilty," but He made the Atonement and His pleading for sinners is perpetually prevalent. God is hearing Christ at this moment as He makes intercession for the transgressors! And He is giving Him to see of the travail of His soul. This being the case, nothing ought to prevent any sinner from pleading for himself through Jesus Christ! If you think that God means to destroy you, yet go and pray to Him, for "The Lord repented of the evil which He thought to do unto His people." Thus may He deal in mercy with you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS32.
+## Exposition by C. H. Spurgeon: Exodus 32
 
 Verse 1. And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we know not what is become of him. What a terrible speech to be made by the people whom God had chosen to be His own! "Make us gods. Make our creator." How could that be?
 
@@ -132,7 +129,6 @@ Verse 1. And when the people saw that Moses delayed to come down out of the moun
 32\. And if not, blot me, I pray You, out of Your Book which You have written. "Let me die in their place!" But God could not accept one man in the place of another! There is a great Substitute, ordained of old, but He is more than man and, therefore, He can stand in the sinner's place.
 
 33-36. And the LORD said unto Moses, Whoever has sinned against Me, him will I blot out of My Book. Therefore now go, lead the people unto the place of which I have spoken unto you: behold, My Angel shall go before you: nevertheless in the day when I visit I will visit their sin upon them. And the LORD plagued the people, because they made the calf, which Aaron made. Moses had only half success in pleading for the people. They were not to die as yet, but God declared that He would visit their sin upon them.
-
 
 ---
 [[Sermon 2397 Out of Darkness into Light|← #2397]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2399 Your First Love|#2399 →]]

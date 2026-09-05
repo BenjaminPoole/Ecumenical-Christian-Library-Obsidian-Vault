@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "I Will," Yet, "Not As I Will"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2376
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Father, I will." "Not as I will." John 7:24, Matthew 16:39.
 
@@ -180,7 +177,6 @@ Matthew 26:36-40. Then came Jesus with them unto a place called Gethsemane, and 
 42-44. He went away, again, the second time, and prayed, saying, O My Father, if this cup may not pass away from Me, except I drink it, Your will be done. And He came and found them asleep again: for their eyes were heavy. And He left them, and went away, again, and prayed the third time, saying the same words. You cannot use much variety of language when your heart is very heavy. You will usually dwell upon just a few words at such a time. Do not blame yourself for doing so—it is natural, and it is right. Even your Lord, the Master of language, "prayed the third time, saying the same words."
 
 45, 46. Then came He to His disciples, and said unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners. Rise, let us be going: behold, he is at hand that does betray Me. May the Master never have to say this concerning any of us, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2375 Found By Jesus—And Finding Jesus|← #2375]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2377 Love Stronger Than Death|#2377 →]]

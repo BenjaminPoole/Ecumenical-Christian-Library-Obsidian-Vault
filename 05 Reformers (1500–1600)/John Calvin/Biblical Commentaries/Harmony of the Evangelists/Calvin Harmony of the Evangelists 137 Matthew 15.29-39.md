@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 137. Matthew 15:29-39; Mark 7:31-37, 8:1-10
-
-**Matthew 15:29-39; Mark 7:31-37, 8:1-10**
 
 **29**. And Jesus departing thence, came near the sea of Galilee, and he went up into the mountain, and sat down there. **30**. And great multitudes came to him, bringing with them the lame, the blind, the dumb, the maimed, and many others, and laid them at the feet of Jesus; and he cured them: **31**. So that the multitudes wondered, when they perceived the dumb to speak, the maimed to be whole, the lame to walk, the blind to see; and they glorified the God of Israel. **32**. And Jesus, having called his disciples to him, said, I have compassion on the multitude, because they have now remained with me three days, and have nothing to eat; and I do not choose to send them away fasting, lest they faint by the way. **33**. His disciples say to him, Whence shall we obtain so many loaves in a solitary place as to satisfy so great a multitude? **34**. And Jesus saith to them, How many loaves have you? And they say, Seven, and a few small fishes. **35**. And he commanded the multitudes to sit down on the ground. **36**. And he took those seven loaves, and the fishes, and after that he had given thanks, he broke and gave to his disciples, and the disciples to the multitude. **37**. And they all ate, and were satisfied; and they took up of the fragments that were left seven baskets full. **38**. And they who had eaten were four thousand men, besides women and children. **39**. And having sent away the multitudes, he embarked, and came to the borders of Magdala.
 

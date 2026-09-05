@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Knowing and Believing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3331
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I know whom I have believed." 2 Timothy 1:12.
 
@@ -49,7 +46,7 @@ You see, then, that the knowledge which saves, and the belief which saves, both 
 
 I pass on now to a second point, which is this—
 
-II. THAT KNOWLEDGE WITHOUT FAITH IS VAIN.
+## II. That Knowledge without Faith Is Vain
 
 This is to try to balance with but one scale—to run a chariot on one wheel. You have the double matter here. "I know whom I have believed." It is good to know, but knowledge must be crowned with faith! It has been remarked that Paul does not say, "I know of whom I have heard." He does not say, "I know of whom I have read." He does not say, "I know of whom I have preached," but, "I know whom I have believed." Here he hits the nail on the head. Knowledge is useful in the bud. Mere reading, preaching, too, are well as an exercise—but believingis the fruit which must grow upon the Tree of Knowledge or else the knowledge will be of little use to us!
 
@@ -95,7 +92,7 @@ His pardon at once he receives,
 
 Salvation in full through Christ's blood." When a man once gets into the lifeboat, if it were certain that the lifeboat would never sink, he is saved as soon as he gets in. Now, the act of faith does, as it were, put us into the lifeboat of Christ Jesus and we are saved immediately! You may have many a tossing, but you will get safely to land at last. If you want faith you must get it, as I have told you, by knowing Him, studying the Word of God, listening to it and seeking His face. But make use of what you know, or else what you know will be like the stale manna and will be of no use to you. Believe it as you know it. Use it up as you get it. And if you already know Christ to be a sinner's Savior, and know that you are a sinner, then come tonight and put your trust in Him! And be of good cheer because He will never, never, never cast you away! And now, lastly, I should like to ask a question, and it is this—
 
-V. HOW MANY ARE THERE WHO DO KNOW CHRIST?
+## V. How Many Are There Who Do Know Christ?
 
 We all know something of which we are a little proud, but, "I know, I know, I know," is a very poor thing to say when you do not know Christ! "I know," says my young friend over there who has been to Oxford or Cambridge University, "I know So-and-So." "I know," says another, "such-and-such a special line of distinguished thinking." But do you know Christ, my dear Friend? "Ah, thank God," says one upstairs, and another good soul below, "we can hardly read, Sir, but we do know Him." I would change places with you, Friends, much sooner than I would with the most learned of men who do not know Christ, because when they come to the gates of death, you know, he who keeps the gate will not say, "Do you know the classics? Have you read Horace? Have you studied Homer? Do you know mathematics? Do you understand logarithms or conic sections?" No, but he will say, "Do you know Christ?" And if you scarcely even know your own native tongue, yet if you know Christ, the gates of Heaven shall fly open to let you in!
 
@@ -103,7 +100,7 @@ Now, do you know Christ? Do let the question go round to each one, "Do I know Ch
 
 "On Christ the solid Rock I stand All other ground is sinking sand." Oh, then, Brothers and Sisters, let us be of good cheer, for, trusting Him, He will never fail us! Believing Him, He will never leave us! We shall see His face in Glory. Oh, that the day were come! But when it does, to His name shall be all the praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 4:1-11.
+## Exposition by C. H. Spurgeon: 2 Timothy 4:1-11
 
 Verses 1, 2. I charge you, therefore, before God and the Lord Jesus Christ, who shall judge the quick and the dead at His appearing and His Kingdom, preach the Word of God. We are not to use such strong language as this unless there is some sufficient reason for it. We must not be too hot upon cold matters, but even this is better than to be cold upon matters that require heat. When John Calvin wished to leave Geneva to complete his studies elsewhere, that man of God, Farrell, knowing how necessary it was for the Church that Calvin should remain at Geneva, charged him before God that
 
@@ -130,7 +127,6 @@ Truly they are mistaken and are surely wrong, for was not this the very comfort 
 10\. Crescens to Galatia, Titus unto Dalmatia. It is likely that Paul had sent Crescens and Titus away upon a mission, but now, from certain intimations, the Apostle is sure that his time of death is coming on and so, indeed, it was, for his head was struck off by Nero's orders a few weeks after the writing of this Epistle—and now he somewhat laments that he had sent them away. And would not you and I want the consolation of kind faces round about us, and the sweet music of loving voices in our ears if we were about to be offered up?
 
 11\. Only Luke is with me. Take Mark, and bring him with you for he is profitable to me for the ministry. That is one of the prettiest verses in the Bible! You remember that the Apostle Paul quarreled with Barnabas about this very Mark, because John Mark would not go into Bythinia to preach the Word, but left Paul and Barnabas. Therefore Paul would not have Mark with him anymore because he had turned in the day of trouble. But now Paul is about to die and he wishes to be perfectly at peace with everyone. He has quite forgiven poor John Mark for his former weakness. He sees Divine Grace in him and so he is afraid lest John Mark should be under some apprehensions of the Apostle's anger. And so he puts in this very kind passage, without seeming to have any reference at all to the past, but he gives him this great praise—"for he is profitable to me for the ministry."
-
 
 ---
 [[Sermon 3330 Two Choice Assurances|← #3330]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3332 The Dumb Become Singers|#3332 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Two "I Wills" In Isaiah 41
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2270
@@ -41,7 +40,7 @@ Now, all this is meant to introduce my text with its two glorious, "I wills." Le
 
 I. I propose to apply the text as a sort of general promise to many things and, first, to apply it to THE TRIALS OF
 
-SAINTS.
+## Saints
 
 Consider, first, their temporal trials. God's people may be hungry and thirsty—and their anxiety may be great. Your cupboard may be bare. The flocks may be cut off from the fold and there may not be any cattle in the stalls, but God can feed you! Though you seek water and there is none, He can open rivers in high places, and fountains in the midst of the valleys. Do not distrust the God of Providence. Many of His children have been brought to their last loaf and yet they have not starved. Remember her who had nothing left but a little meal and a little oil—when the Prophet came to her— and yet the barrel of meal wasted not, neither did the cruse of oil fail! Remember him who sat by the brook Cherith— and the ravens brought him bread and meat in the morning—and bread and meat in the evening.
 
@@ -113,7 +112,7 @@ To bless the conduct of His Grace And make His glories known."
 
 God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON ISAIAH 411-20.
+## Exposition by C. H. Spurgeon Isaiah 411-20
 
 Verse 1. Keep silence before Me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment. God invites the people to argue with Him. He bids them, first, "listen" to Him and then speak to Him. They had been worshipping idols, so the Lord shows them that the idols are nothing and that all worship paid to them is a lie. He begins by asking a question—
 
@@ -156,7 +155,6 @@ nowed away, as the chaff is blown from among the heap on the threshing floor! Wh
 Martin Luther was a very cheerful man, as a rule, but he had terrible fits of depression. He was, at one time, so depressed that his friends recommended him to go away for a change of air, to see if he could get relief. He went away, but he came home as miserable as ever. And when he went into the sitting room, his wise wife, Kate, Catherine von Bora, was sitting there, dressed in black and her children round about her, all in black. "Oh," said Luther, "who is dead?" "Why," she said, "Doctor, have not you heard that God is dead? My husband, Martin Luther, would never be in such a state of mind if he had a living God to trust." He burst into a hearty laugh and said, "Kate, you are a wise woman. I have been acting as if God were dead and I will do so no more. Go and take off your black." If God is alive, why are we discouraged? If we have a God to look to, why are we cast down? Let us rejoice and be glad together, for God will do all that He has promised, for this reason—
 
 20\. That they may see, and know, and consider, and understand together, that the hand of the LORD has done this, and the Holy One of Israel has created it. God wants you to know that He is at work on your behalf. He wants you to so trust Him as to see how His promises can be applied to your case—and what His right hand can accomplish even for you! Let us trust Him tonight with all our hearts!
-
 
 ---
 [[Sermon 2269 Impotence and Omnipotence|← #2269]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2271 Alone, Yet Not Alone|#2271 →]]

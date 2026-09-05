@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Joseph's Bones
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 966
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 18, 1870,.
+*Delivered on Lord's-Day Morning, December 18, 1870*
 
 > "By faith Joseph, when he died, made mention of the departing of the children of Israel. And gave commandment concerning his bones." Hebrews 11:22.
 
@@ -160,7 +159,6 @@ Lord, who is like to You?"
 I do not know when a witness to the resurrection sounds more sweetly than it does from the lips of a saint who is just about to quit this mortal body, to enter into the Presence of his God. It is well to say, as you take leave of these hands, and feet, and eyes, and all the members of this mortal frame, "Farewell, poor body, I shall return to you again. You shall be sown in weakness, but you shall rise in power! You have been the faithful friend and servant of my soul, but you shall be still more fit for my spirit when the trumpet shall sound and the dead shall be raised." May we take care that our last act shall be a triumph of faith, the crowning deed of our lives. God help us that it may be so!
 
 Beloved, there is one sad reflection, namely, that we cannot hope to die triumphantly unless we live obediently. We cannot expect to exhibit faith in dying moments if we have not faith now. God grant you faith, O Unbeliever. Seeker, rest not till you have it, and may the Spirit of God give you the faith of God's elect, that living you may serve God, and dying you may honor Him as Joseph did of old. The Lord bless you, dear Friends, for His sake. Amen.
-
 
 ---
 [[Sermon 0965 Purging Out the Leaven|← #965]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0967 The Sages, The Star, and The Savior|#967 →]]

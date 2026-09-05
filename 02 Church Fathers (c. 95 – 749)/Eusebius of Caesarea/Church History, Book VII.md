@@ -47,7 +47,7 @@ Dionysius, therefore, having communicated with him extensively on this question 
 
 3. But Stephen, having filled his office two years, was succeeded by Xystus. Dionysius wrote him a second epistle on baptism, in which he shows him at the same time the opinion and judgment of Stephen and the other bishops, and speaks in this manner of Stephen:
 
-4. He therefore had written previously concerning Helenus and Firmilianus, and all those in Cilicia and Cappadocia and Galatia and the neighboring nations, saying that he would not commune with them for this same cause; namely, that they re- baptized heretics. But consider the importance of the matter.
+4. He therefore had written previously concerning Helenus and Firmilianus, and all those in Cilicia and Cappadocia and Galatia and the neighboring nations, saying that he would not commune with them for this same cause; namely, that they re-baptized heretics. But consider the importance of the matter.
 
 5. For truly in the largest synods of the bishops, as I learn, decrees have been passed on this subject, that those coming over from heresies should be instructed, and then should be washed and cleansed from the filth of the old and impure leaven. And I wrote entreating him concerning all these things. Further on he says:
 

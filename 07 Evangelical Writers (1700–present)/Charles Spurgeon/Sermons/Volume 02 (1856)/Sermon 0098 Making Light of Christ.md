@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/02
 ---
-
 # Making Light of Christ
 
 *New Park Street Pulpit* · Sermon No. 98
@@ -41,7 +40,7 @@ Consider again: thou makest light of heaven—that place to which the blest ones
 
 This is what men make light of, “Oh! sir,” says one, “I never indulge in any words hostile to God’s truth, I never laugh at the minister, nor do I despise the Sabbath.” Stop, my friend, I will acquit thee of all that; and yet I will solemnly lay to thy charge this great sin of making light of the gospel. Hear me then!
 
-II. HOW IS IT THAT MEN MAKE LIGHT OF IT?
+## II. How Is It that Men Make Light of It?
 
 In the first, it is making light of the gospel and of the whole of God’s glorious things, *when men go to hear and yet do not attend*. How many frequent churches and chapels to indulge in a comfortable nap! Think what a fearful insult that is to the King of heaven. Would they enter into Her Majesty’s palace, ask an audience, and then go to sleep before her face? And yet the sin of sleeping in Her Majesty’s presence, would not be so great, even against her laws, as the sin of wilfully slumbering in God’s sanctuary. How many go to our houses of worship who do not sleep, but who sit with vacant stare, listening as they would to a man would could not play a lively tune upon a good instrument. What goeth in at one earth goeth out at another. Whatever entereth the brain goeth out without ever affecting the heart. Ah, my hearers, you are guilty of making light of God’s gospel, when you sit under a sermon without attending to it! Oh! what would lost souls give to the hear another sermon! What would yonder dying wretch who is just now nearing the grave, give for another Sabbath! And what will you give, one of these days, when you shall be hard by Jordan’s brink, that you might have one more warning, and listen once more to the wooing voice of God’s minister! We make light of the gospel when we hear it, without solemn and awful attention to it.
 
@@ -82,7 +81,6 @@ And, lastly, I fear there are a great many who make light of Christ *because of 
 Ne’er were prophetic sounds so full of woe.”
 
 Look! the sheeted dead have started from their graves. Behold, the cloudy chariot of wheeled along by cherub’s hand. Mark! there upon the throne there sits the King—the Prince. O angel, what in this terrible day must become of the man that has thought lightly of Christ? See there, he unleashes his sword. “This blade,” says he, “shall find and pierce him through. This blade, like a sickle, shall reap each tare from the wheat, and this strong arm shall bind him up in his bundle to be burned; and this great arm of mine shall grasp him, and hurl him down, down, down, where flames for ever burn, and hell for ever howls.” It will go hard with you then. Mark this man’s word to-night; go away and laugh at it; but remember, I say to you again, it will be a solemn thing for you when Christ shall come to judgment, if you have made light of him, and worse than all, if you should ever be locked up in the caverns of despair, if you should ever hear it said, “Depart ye cursed,” if you should ever mingle your awful shrieks with the doleful howls of lost myriads, if you should see the pit that is bottomless, and the gulf that has walls of fire. It will be a fearful thing to find thyself in there, and to know that thou canst ne’er get out again! Sinner, this night I preach the gospel to thee. E’er thou goest, hear it, and believe it; may God grant thee grace to receive it, so thou shalt be saved. “He that believeth and is baptized, shall be saved. He that believeth not,” so saith the Scripture, “shall be damned.” To believe, is to put your trust in Christ; to be baptized, is to be plunged in water in the name of the Lord Jesus, as a profession that you are already saved, and that you love Christ. “He that believeth, and is baptized, shall be saved, and he that believeth not shall be damned.” O may you never know the meaning of that last word. Farewell!
-
 
 ---
 [[Sermon 0097 Pride and Humility|← #97]] · [[Volume 02 (1856)|Volume 02 (1856) Contents]] · [[Sermon 0099 The Duty of Remembering the Poor|#99 →]]

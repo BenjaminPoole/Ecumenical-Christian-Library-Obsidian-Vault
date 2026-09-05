@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Walking In The Light And Washed In The Blood
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 663
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 3, 1865,.
+*Delivered on Sunday Morning, December 3, 1865*
 
 > "But if we walk in the light, as He is in the light, we have fellowship one with another and the blood of Jesus Christ, His Son, cleanses us from all sin." 1 John 1:7.
 
@@ -146,7 +145,6 @@ But here are many birds killed with one stone, as the Proverb puts it. Now there
 I leave this text with the Believer, only adding, if any of you would have it, and joy in it, you must walk in the light. I pray God the Holy Spirit to bring you to see the light of the Glory of God in the face of Jesus Christ! Then you will trust Him and then you shall have fellowship with Him! And by His blood you shall be cleansed from all sin. God bless you for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON. -1 John 1,2:1-11.
-
 
 ---
 [[Sermon 0662 Consolation In The Furnace|← #662]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0664 Early And Late|#664 →]]

@@ -11,7 +11,6 @@ tags:
   - classical
   - livy
 ---
-
 # The History of Rome
 *Books 1–8*
 
@@ -19,36 +18,24 @@ tags:
 
 ---
 
-THE
+## The
 
-HISTORY OF ROME.
-
-BY
-
-TITUS LIVIUS.
-
-THE FIRST EIGHT BOOKS.
-
-LITERALLY TRANSLATED, WITH NOTES AND ILLUSTRATIONS,
+## History of Rome
 
 BY
 
-D. SPILLAN, A.M. M.D.
+## Titus Livius
 
+## The First Eight Books
 
-LONDON:
+BY
 
 HENRY G. BOHN, YORK STREET, COVENT GARDEN.
 MDCCCLIII.
 
+## John Childs and Son, Bungay
 
-JOHN CHILDS AND SON, BUNGAY
-
-
-
-
-PREFACE.
-
+## Preface
 
 In this new English version of the most elegant of the Roman historians,
 the object of the translator has been, to adhere as closely to the
@@ -75,18 +62,11 @@ Among the manuals of Roman History which may most advantageously be used
 by the student, is Twiss's Epitome of Niebuhr, 2 vols. 8vo, a work
 frequently referred to in these pages.
 
+## The
 
+## History of Rome
 
-
-THE
-
-HISTORY OF ROME.
-
-
-
-
-BOOK I.
-
+## Book I
 
      _The coming of Æneas into Italy, and his achievements there; the
      reign of Ascanius in Alba, and of the other Sylvian kings. Romulus
@@ -122,11 +102,7 @@ BOOK I.
      the person of Lucretia by his son Sextus. L. Junius Brutus and L.
      Tarquinius Collatinus first created consuls._
 
-
-
-
-PREFACE.
-
+## Preface
 
 Whether in tracing the history of the Roman people, from the foundation
 of the city, I shall employ myself to a useful purpose,[1] I am neither
@@ -221,11 +197,7 @@ and more_, those of Sulla; (5) _precipitate_, those of Cæsar; (6) _the
 present times_, those of Augustus after the battle of
 Actium.--_Stocker._]
 
-
-
-
-CHAPTER I.
-
+## Chapter I
 
 Now first of all it is sufficiently established that, Troy having been
 taken, the utmost severity was shown to all the other Trojans; but that
@@ -2979,11 +2951,7 @@ consuls, viz. Lucius Junius Brutus and Lucius Tarquinius Collatinus,
 were elected by the prefect of the city at the comitia by centuries,
 according to the commentaries of Servius Tullius.
 
-
-
-
-BOOK II.
-
+## Book II
 
      _Brutus binds the people by oath, never to suffer any king to reign
      at Rome, obliges Tarquinius Collatinus, his colleague, to resign
@@ -3013,7 +2981,6 @@ BOOK II.
      been unsuccessful in the war with the Veientians, by their refusing
      to obey orders. An account of the wars with the Volscians, Æquians,
      and Veientians, and the contests of the fathers with the commons._
-
 
 1. The affairs, civil and military, of the Roman people, henceforward
 free, their annual magistrates, and the sovereignty of the laws, more
@@ -5855,11 +5822,7 @@ time seemed insufficient for the purpose. Others understand the words to
 signify that they surrendered without waiting for the Romans to make any
 additional efforts to take the town.]
 
-
-
-
-BOOK III
-
+## Book III
 
      _Disturbances about the agrarian laws. The Capitol surprised by
      exiles and slaves. Quintius Cincinnatus called from the cultivation
@@ -5881,7 +5844,6 @@ BOOK III
      the Roman people, who being chosen arbitrators between the people
      of Ardea and Aricia concerning some disputed lands, adjudge them to
      themselves._
-
 
 1. After the taking of Antium, Titus Æmilius and Quintus Fabius are
 elected consuls. This was the Fabius Quintus who alone had survived the
@@ -9203,11 +9165,7 @@ disgraceful or more hideous to the people of Aricia and of Ardea, than
 it did to the Roman senate. The remainder of the year continued free
 from either city or foreign commotions.
 
-
-
-
-BOOK IV.
-
+## Book IV
 
      _A law was passed concerning the intermarriage of the patricians
      and plebeians, after strong resistance on the part of the
@@ -9224,7 +9182,6 @@ BOOK IV.
      military tribune, slain by the army for his cruelties. Pay from the
      treasury first given to the soldiers. Operations against the
      Volscians, Fidenatians, and Faliscians._
-
 
 1. Marcus Genucius and Caius Curtius followed these as consuls. The year
 was disturbed both at home and abroad. For at the commencement of the
@@ -11829,11 +11786,7 @@ Veii. But the Roman kings destroyed it; and it belonged to the
 Cæretians, not to the Veientians. The other of the same name, the
 demolition of which has been mentioned, was in the Volscian territory.
 
-
-
-
-BOOK V.
-
+## Book V
 
      _During the siege of Veii winter dwellings erected for the
      soldiers. This being a novelty, affords the tribunes of the people
@@ -11854,7 +11807,6 @@ BOOK V.
      being weighed to them, Camillus, who had been appointed dictator,
      arrives with an army, expels the Gauls, and destroys their army. He
      successfully opposes the design of removing to Veii._
-
 
 1. Peace being established in every other quarter, the Romans and
 Veientians were still in arms with such rancour and animosity, that it
@@ -14341,11 +14293,7 @@ under private houses, and why the form of the city appears more like one
 taken up by individuals, than regularly portioned out [by
 commissioners].
 
-
-
-
-BOOK VI.
-
+## Book VI
 
      _Successful operations against the Volscians, and Æquans, and
      Prænestines. Four tribes were added. Marcus Manlius, who had
@@ -14360,7 +14308,6 @@ BOOK VI.
      of the commons being for five years the only magistrates in the
      state; and Lucius Sextius was the first consul elected from the
      commons._
-
 
 1. The transactions of the Romans, from the building of the city of Rome
 to the capture of the same city, first under kings, then under consuls,
@@ -16347,11 +16294,7 @@ dictator should ask of the people two persons as ædiles from among the
 patricians; that the senate should give their approbation to all the
 elections of that year.
 
-
-
-
-BOOK VII.
-
+## Book VII
 
      _Two magistrates were added, the prætorship and curule ædileship. A
      pestilence rages in the city, which carries off the celebrated
@@ -16374,7 +16317,6 @@ BOOK VII.
      restored to their country, by Marcus Valerius Corvus, dictator.
      Successful operations against the Hernicians, Gauls, Tiburtians,
      Privernians, Tarquinians, Samnites, and Volscians._
-
 
 1. This year will be remarkable for the consulship of a man of mean
 birth, remarkable for two new magistracies, the prætorship and curule
@@ -18329,11 +18271,7 @@ time was not to be depended on, the Privernians also by a sudden
 incursion laid waste Norba and Setia, Roman colonies in their
 neighbourhood.
 
-
-
-
-BOOK VIII.
-
+## Book VIII
 
      _The Latins with the Campanians revolt; and ambassadors having been
      sent to the senate, they propose that, if they wished for peace,
@@ -18354,7 +18292,6 @@ BOOK VIII.
      Papirius, dictator; and, with difficulty, obtains pardon, through
      the intercession of the people. Successful expedition against the
      Samnites._
-
 
 1. The consuls now were Caius Plautius a second time, and Lucius Æmilius
 Mamercinus; when the people of Setia and Norba came to Rome to announce
@@ -20326,11 +20263,9 @@ certainly, both the actions of individuals and the public records of
 events have been confused. Nor is there extant any writer, contemporary
 with those events, on whose authority we can with certainty rely.
 
+## End of Vol. I
 
-END OF VOL. I.
-
-
-JOHN CHILDS AND SON, BUNGAY.
+## John Childs and Son, Bungay
 
 ---
 

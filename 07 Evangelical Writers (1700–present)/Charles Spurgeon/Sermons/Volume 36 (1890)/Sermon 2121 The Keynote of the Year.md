@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # The Keynote of the Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2121
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Bless the Lord, O my Soul: and all that is within me, bless His holy name." Psalm 103:1.
 
@@ -174,7 +171,6 @@ Lastly, to bless God will prepare us for Heaven. Praise is the rehearsal of our 
 May you receive His blessing in a moment by faith in the Lord Jesus! The Lord grant it, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Psalm 103.
-
 
 ---
 [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2122 A Straight Talk|#2122 →]]

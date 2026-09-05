@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Mistrust of God Deplored and Denounced
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1498
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 5, 1879,.
+*Delivered on Lord's-Day Morning, October 5, 1879*
 
 > "How long will it be before they believe Me?" Numbers 14:11.
 
@@ -140,7 +139,6 @@ If we will but confide in God, our young men shall see visions and our old men s
 God the Holy Spirit helping you, resolve in your hearts this day that you will doubt all the boasted discoveries of science! You will doubt all the affirmations of the wise! You will doubt all the speculations of great thinkers! You will doubt all your own feelings and all the conclusions drawn from outward circumstances! Yes, and everything that seems to be demonstrable to a certainty, you will doubt! But NEVER, NEVER, NEVER, while eternity shall last, will you suffer the thought to pass your mind that God can ever, in the least degree, run back from anything that He has spoken, or change the Word that has gone forth from His lips!
 
 Thus have I spoken for Him. May His Holy Spirit make it powerful on your minds, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1497 Self-righteousness—a Smoldering Heap of Rubbish|← #1497]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1499 The Lessons of the Foot-washing|#1499 →]]

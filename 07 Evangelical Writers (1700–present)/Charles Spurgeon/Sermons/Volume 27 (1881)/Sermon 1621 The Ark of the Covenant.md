@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Ark of the Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1621
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 25, 1881,.
+*Delivered on Lord's-Day Morning, September 25, 1881*
 
 > "And it shall come to pass, when you are multiplied and increased in the land, in those days, says the Lord, they shall say no more, The ark of the co venant of the Lord: neither shall it come to mind: neither shall they remember it; neither shall they visit it; neither shall that be done any more." Jeremiah 3:16.
 
@@ -150,7 +149,6 @@ If you live where they are giving up on Prayer Meetings, carry home a live coal 
 The last thing is, "Neither shall that be done any more," but the margin has it, "Neither shall that be magnified any more." Transfer your reverence, then, and as you cannot magnify the literal Mercy Seat, come and magnify Christ, who is the real Mercy Seat. Oh, that I knew how to speak words worthy to lie under the soles of my Master's feet! Oh, that I could speak a sentence that was fit to be laid in the road like the palm branches with which the disciples strewed His way, not worthy to be touched by His feet, but by the feet of the beast that He rode upon! I am not worthy to unloose His shoe lace! He is so glorious that archangels fall on their faces to adore Him! Heaven is splendid, but the splendor of Heaven is the Presence of my Lord and Master! His Throne is a glorious high throne, but it owes its Glory and its height to Him that sits upon it! Hallelujah unto You, O Christ! Hallelujah forever and ever, for You were slain and have redeemed us unto God by Your blood! If the Jew was ever permitted to look upon the golden chest of the ark, he saw but little compared with what I see in You, You Man, You God!
 
 The wood that could not rot, covered over with precious gold, was a poor representation of His perfect Manhood and glorious Godhead. The ark was crowned, but we see Jesus made a little lower than the angels and crowned King Of kings and Lord of lords! Again my heart cries hallelujah! The Jew could but see a slab of gold that was called the Throne of God, but we see the spotless, perfect life and infinitely precious Atonement of Christ which are better than the much fine gold. I see God, not as a light for the eyes, but as shining upon the soul in Jesus, my Lord. Oh, the Glory, the Glory of that Light of God! I am reconciled! I am a child of God! I am brought near! Jehovah speaks to me! I speak to Him! Hallelujah! All praise to Him through whom such fellowship is rendered possible so that a man can see God and live! Glory, glory be unto Him who is now in the Temple above! The veil is torn and faith can see Jesus, to whom we come this day. God bless you this day. God bless you, Beloved! Amen.
-
 
 ---
 [[Sermon 1620 Is It Nothing To You|← #1620]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1622 Mongrel Religion|#1622 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Self-destroyed, Yet Saved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2425
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Israel, you have destroyed yourself; but in Me is your help." Hosea 13:9.
 
@@ -101,7 +98,7 @@ Lastly, I pray you, do not fight against your best Friend, or contend against yo
 
 The Lord bless you, and this simple testimony of mine, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 13:1-14.
+## Exposition by C. H. Spurgeon: Hosea 13:1-14
 
 Verse 1. When Ephraim spoke trembling, he exalted himself in Israel. When we are little in our own esteem. When we are full of fears concerning ourselves. When we dare not think of boasting, then it is that we grow! "When Ephraim spoke trembling, he exalted himself in Israel."
 
@@ -134,7 +131,6 @@ Verse 1. When Ephraim spoke trembling, he exalted himself in Israel. When we are
 13, 14. The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children. I will ransom them from the power of the grave. Oh, what great promises we get driven, like piles, into the marshes of our sin to make a foundation for God's Grace! Here, when the Lord says that we have destroyed ourselves and He notes all the blackness of our depravity, then He comes in with this gracious word, "I will ransom them from the power of the grave." You who believe in Jesus shall not die! No, not even the deadly force of sin shall hold you in your grave! There is a resurrection for the dead. There is a spiritual resurrection for you, Believers! When you mourn your death and cry, "O wretched man that I am! Who shall deliver me from the body of this death?" the Lord will answer you, "I will ransom you from the power of the grave."
 
 14\. I will redeem them from death: O Death, I will be your plagues; O Grave, I will be your destruction: repentance shall be hid from My eyes. Lord, work this quickening in Your people, tonight, and let us live in the fullness of Your Divine Love, and so anticipate the day when our bodies, also, shall be raised by Your glorious power!
-
 
 ---
 [[Sermon 2424 The New Song On Earth|← #2424]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2426 A Prayer for Revival|#2426 →]]

@@ -9,12 +9,9 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 8 — How may we sanctify the name of God in the use of gospel institutions?
 
-Question 8 — How may we sanctify the name of God in the use of gospel institutions?
-
-Answer — ^aBy a holy reverence of his sovereign authority appointing of them; ^ba holy regard unto his special presence in them; ^cfaith in his promises annexed to them; ^ddelight in his will, wisdom, love, and grace, manifested in them; ^econstancy and perseverance in obedience unto him in their due observation. ^aLev. x. 3; Mal. i. 6; Rom. iv. 11; Exod. xx. 6; James iv. 12. ^bMatt. xxviii. 20; Isa. lix. 21; Exod. xxix. 43–45. ^cGen. xv. 6; Heb. iv. 2, 6; Exod. xii. 27, 28; 2 Cor. vi. 16–18, vii. 1. ^dPs. lxxxiv. 1, 28, 4, 10, lxv. 4, xxxvi. 7, 8. ^ePs. xxiii. 6, xxvii. 4; Rev. ii. 3, 10; Gal. vi. 9; Heb. x. 23–25, xii. 3.
+Answer — [^a1]By a holy reverence of his sovereign authority appointing of them; [^b1]a holy regard unto his special presence in them; [^c1]faith in his promises annexed to them; [^d1]delight in his will, wisdom, love, and grace, manifested in them; [^e1]constancy and perseverance in obedience unto him in their due observation.
 
 Explication — This is the first thing that God requireth us to attend unto in the celebration of the ordinances of his worship, — namely, that we therein *sanctify his name*, the greatest duty that we are called unto in this world. This he lays down as the general rule of all we do herein: Lev. x. 3, “I will,” saith he, “be sanctified in them that come nigh me, and before all the people I will be glorified.” Whatever we do in his worship, we must do it that he may be sanctified, or whatever we do is an abomination to him. Now, the principal ways how we may herein sanctify the name of God are expressed; as, —
 
@@ -32,6 +29,15 @@ Lastly, Whereas great *opposition* lies oftentimes against the church’s obedie
 
 2\. And as to the manner of their performance, two things are to be regarded in this duty of perseverance, and the sanctification of the name of God therein:— (1.) The *inward principle* of our obedience, our faith and love; which are to be preserved from decay: Rev. ii. 4, 5, “I have somewhat against thee, because thou hast left thy first love. Remember therefore from whence thou art fallen, and repent, and do the first works.” Chap. iii. 3, “Remember how thou hast received and heard, and hold fast, and repent.” (2.) The *outward manner* of observance; which is to be kept entire, according to the primitive institution of Christ: 1 Cor. xi. 23, “I have received of the Lord that which also I delivered unto you,” — not admitting of any corruptions in it, to avoid the greatest trouble: Gal. v. 11, “And I, brethren, if I yet preach circumcision, why do I yet suffer persecution?”
 
+[^a1]: Lev. x. 3; Mal. i. 6; Rom. iv. 11; Exod. xx. 6; James iv. 12.
+
+[^b1]: Matt. xxviii. 20; Isa. lix. 21; Exod. xxix. 43–45.
+
+[^c1]: Gen. xv. 6; Heb. iv. 2, 6; Exod. xii. 27, 28; 2 Cor. vi. 16–18, vii. 1.
+
+[^d1]: Ps. lxxxiv. 1, 28, 4, 10, lxv. 4, xxxvi. 7, 8.
+
+[^e1]: Ps. xxiii. 6, xxvii. 4; Rev. ii. 3, 10; Gal. vi. 9; Heb. x. 23–25, xii. 3.
 
 ---
 [[BIWG 08 Question 7 — What are the chief things that we ought to aim at in our|← Question 7 — What are the chief things that we ought to aim at in our observation of the institutions of Christ in the gospel?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 10 Question 9 — How do we in our observation profess our subjection unto the Lord|Question 9 — How do we in our observation profess our subjection unto the Lord Jesus Christ and his gospel? →]]

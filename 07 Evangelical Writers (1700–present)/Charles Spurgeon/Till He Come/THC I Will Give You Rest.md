@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # I Will Give You Rest
 
 *Till He Come* — Charles H. Spurgeon
 
-## “I WILL GIVE YOU REST.”
-
 ### A COMMUNION ADDRESS AT MENTONE. “I will give you rest.”—Matthew xi. 28.
-
-## “I WILL GIVE YOU REST.”
 
 WE have a thousand times considered these words as an encouragement to the labouring and the laden; and we may, therefore, have failed to read them as a promise to ourselves. But, beloved friends, we have come to Jesus, and therefore He stands engaged to fufil this priceless pledge to us. We may now enjoy the promise; for we have obeyed the precept. The faithful and true Witness, whose word is truth, promised us rest if we would come to Him; and, therefore, since we have come to Him, and are always coming to Him, we may boldly say, “O Thou, who art our Peace, make good Thy word to us wherein Thou hast said, ‘I will give you rest.’”
 
@@ -86,7 +81,6 @@ First, by coming to Christ. He says, “Come unto Me, . . . and I will give you 
 Next, we obtain rest by yielding to Christ. “Take My yoke upon you, . . . and ye shall find rest unto your souls.” Christ bids us wear His yoke; not make one for ourselves. He wants us to share the yoke with Him, to be His true yoke-fellow. It is wonderful that He should be willing to be yoked with us; the only greater wonder is that we should be so unwilling to be yoked with Him. In taking His yoke upon us what joy we shall enter upon our eternal rest! Here we find rest unto our souls; a further rest beyond that which He gives us when we come to Him. We first rest in Jesus by faith, and then we rest in Him by obedience. The first rest He gives through His death; the further rest we find through copying His life.
 
 Lastly, we secure this rest by learning of Christ. “Learn of Me, for I am meek and lowly in heart: and ye shall find rest unto your souls.” We are to be workers with Christ, taking His yoke upon us; and, at the same time, we are to be scholars in Christ’s school, learning of Him. We are to learn of Christ, and to learn Christ; He is both Teacher and lesson. His gentleness of heart fits Him to teach, and makes Him the best illustration of His own teaching. If we can become as He is, we shall rest as He does. The lowly in heart will be restful of heart. Now, as we come to the table of communion, may we find to the full that rest of which we have been speaking, for the Great Rest-Giver’s sake! Amen.
-
 
 ---
 [[THC Bands of Love; or, Union to Christ|← Bands of Love; or, Union to Christ]] · [[Till He Come|Till He Come Contents]] · [[THC The Memorable Hymn|The Memorable Hymn →]]

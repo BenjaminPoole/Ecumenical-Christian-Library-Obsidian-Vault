@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Stand Fast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1688
 
-DELIVERED ON LORD'S-DAY EVENING, AUGUST 27, 1882,.
+*Delivered on Lord's-Day Evening, August 27, 1882*
 
 > "Be not moved away from the hope of the Gospel." Colossians 1:23.
 
@@ -198,7 +197,6 @@ As I was riding along in the south of France one day, I saw pair of fine birds o
 We are going along the King's Highway and the thieves on the side of the road say, "Come off the highway! It is so dull and monotonous. Come into the woods! We will show you fair flowers, ferny dells and quiet caves. Come, listen to the birds that sing all day and all night, too. Come with us." We heed you not—he that travels along the King's Highway is under the King's protection—but he that wanders into the dark mountains and lonesome woods may take care of himself. We shall do as we have done—follow the way that leads from the banishment—the way of trusting in the Savior and in Him, alone!
 
 As you hold to the faith, so may God bless and enrich you. As with simple heart you plod along the road that leads to Heaven by the righteousness of the Son of God, may the Lord be with you and comfort you. But if you turn back, woe unto you! A curse will fall upon you in that day of shame and crime! The Lord keep you, that you may keep the faith. Amen.
-
 
 ---
 [[Sermon 1687 The Law Written in the Heart|← #1687]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1689 The General Convocation Around Mount Zion|#1689 →]]

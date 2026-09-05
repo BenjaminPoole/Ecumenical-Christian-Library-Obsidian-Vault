@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE REMEMBERS NO MORE**
+## **He Remembers No More**
 
 > For I will forgive their iniquity, and I will remember their sin no more" Jer. 31:34
 
@@ -25,7 +24,6 @@ But how divinely is this promise worded: the Lord promises no more to remember o
 The Great Lord will not remember our sins so as to punish them, or so as to love us one atom the less because of them. As a debt when paid ceases to be a debt, even so doth the Lord make a complete obliteration of the iniquity of His people.
 
 When we are mourning over our transgressions and shortcomings, and this is our duty as long as we live, let us at the same time rejoice that they will never be mentioned against us. This makes us hate sin. God's free pardon makes us anxious never again to grieve Him by disobedience.
-
 
 ---
 [[FCB April 11|← April 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 13|April 13 →]]

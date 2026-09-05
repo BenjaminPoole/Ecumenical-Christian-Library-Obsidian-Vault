@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Shining Christians
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2617
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Arise shine; for your light is come, and the Glory ofthe LORD is risen upon you." Isaiah 60:1.
 
@@ -83,7 +80,7 @@ Shine, next, because of the great blessing that it will bring to the Church, for
 
 And, best of all, we must do this because of the argument used in the 21st verse. I will not speak upon it, I shall leave it with you—"that I may be glorified." It is God your Father who says that! It is Christ who has bought you with His blood who says it! It is the Holy Spirit who is your indwelling Comforter who says it! There is no argument that eloquence could state, or that reason could suggest that can have such force with a loyal heart as this—"that I might be glorified." Do you not pray, "Father, glorify Your Son"? Now, in the power of the Holy Spirit, prove the sincerity of your prayer by giving out whatever light God has given to you and, since your light has come, arise and shine, as you have ability, from this very hour! The Lord grant it, dear Brothers and Sisters, to me and to you, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 103; ISAIAH 59:16-21; ISAIAH 60:1-16.
+## Exposition by C. H. Spurgeon: Psalm 103; Isaiah 59:16-21; Isaiah 60:1-16
 
 What more appropriate passage than the 103rd Psalm can we read, on this first Sabbath night of another year, to express the gratitude of our thankful hearts? I will only interject a sentence here and there, but let me beg all to try to worship God in the spirit while we once more read together the familiar words of this much-loved Psalm.
 
@@ -156,7 +153,6 @@ Isaiah 60:1-3. Arise, shine; for your lightt is come, and the Glory of the LORD 
 9\. Surely the isles shall wait forMe, and the ships ofTarshish first, to bring your sons from far, their silver and their gold with them, unto the name of the LORD your God, and to the Holy One of Israel, because He has glorified you. In ships from these remote islands, and from countries that were dimly spoken of, in the East, as, "lands of Tarshish," far away, great multitudes were to come to Christ. Are they not coming today from this Ultima Thule, this distant land beyond the pillars of Hercules, are they not coming to Christ "as a cloud, and as the doves to their windows"?
 
 10-16. And the sons of strangers shall build up your walls, and their kings shall minister unto you: for in My wrath I smote you, but in My favor have I had mercy on you. Therefore your gates shall be continually open; they shall not be shut day nor night; that men may bring unto you the forces of the Gentiles, and that their kings may be brought. For the nation and kingdom that will not serve you shall perish; yes, those nations shall be utterly wasted. The glory of Lebanon shall come unto you, the fir tree, the pine tree, and the box together, to beautify the place of My sanctuary; and I will make the place of My feet glorious. The sons, also, of them that afflicted you shall come bending unto you; and all they that despised you shall bow themselves down at the soles of your feet; and they shall call you, The City of the LORD, The Zion of the Holy One of Israel. Whereas you have been forsaken and hated, so that no man went through you, I will make you an eternal excellency, a joy of many generations. You shall also drink the milk of the Gentiles, and milk the breast of kings: and you shall know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob. In God's good time, all this shall come to pass.
-
 
 ---
 [[Sermon 2616 Christ's Care of His Disciples|← #2616]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2618 Straightway|#2618 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # A Proclamation from the King of Kings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1833
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Go and proclaim these words toward the north, and say, Return, you backsliding Israel, says the Lord; and I will not cause My anger to fall upon you: for I am merciful, says the Lord, and I will not remain angry forever. Only acknowledge your iniquity, that you have transgressed against the Lord your God, and have scattered your ways to the strangers under every green tree, and you have not obeyed My voice, says the Lord." Jeremiah 3:12,13.
 
@@ -174,7 +171,6 @@ Confess also your hardness of heart. God has spoken and you would not hear. He h
 Confess, also, your ingratitude. His voice, which is your Father's voice, you have not heard or obeyed. What unnatu-ralness! Shall a wife not know her husband's voice? Shall a brother forget his brother's? Yet it is so with some of you who once used to be with us—you were our joy and we were your joy—and God the joy of us both but you have gone aside. You have left your first love. You have departed from the ways of the Lord. Yet remember at this moment there is no judgment for you—no threats, no scolding words—simply this, "Only return." The heart of love has room in it for you! Hasten home to Him who is your only resting place. You can never be happy where you are and as you are. You have tried it! Oh, how long you have tried it, but you are going downward and waxing worse and worse!
 
 Oh, that you would say, "I will end it! I will end it! Never more will I depart from Him who has redeemed me with His blood. I will yield myself to Him at once." Happy is the preacher if this has been effected by the Spirit of God. Happy shall you be, also, and happy are these Christian folk to know that such a thing has been done in their midst. God bless you, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1832 Elijah's Plea|← #1832]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1834 To Lovers of Jesus—an Example|#1834 →]]

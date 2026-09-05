@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Healed or Deluded? Which?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1658
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 7, 1882,.
+*Delivered on Lord's-Day Morning, May 7, 1882*
 
 > "They have healed the hurt of the daughter of My people slightly, saying, Peace, peace; when there is no peace." Jeremiah 8:11.
 
@@ -138,7 +137,6 @@ I love my text because it gives security for the future. "Heal me, and I shall b
 Dear Friends, if you are saved, pray the Lord that you may be saved, indeed! And if you are not saved, get to Him and pray Him to begin His good work within your souls. I am often anxious about this congregation. I do not want to build up, in this place, a host of hopes that are ill-founded. I felt that I must come and deliver this message at this time, though I am quite unfit to be among you. I have not delivered it as I hoped to—still there it is—and unto God I commend it. I was told if I preached, this morning, I should suffer a month's relapse as the consequence of it. But I ran the risk because I could not be quiet till I had delivered my soul! Oh that the careless might be disquieted! Oh that the penitent might be encouraged! Let none of us excuse ourselves from self-examination!
 
 Do not let the preacher, or the deacons, or the workers in this Church deceive themselves! Let us get on the Rock and know that we are on it! Let us be true men—true to the core—sincere right through and through. Let us pray God that there may be a work of Grace in us and not the mere outgrowth of human will, fancy and self-flattery! If there are any who have not even felt the slight healing, I am glad they have not. May their wounds never be bound up till Jesus binds them! May none of us ever think of health unless it comes from beneath the wings of the Sun of Righteousness! May we all stand together and gaze with tearful eyes upon the Cross of our Lord! He is all my salvation, all my desire and all my praise! If I perish, it shall be at His feet! If I live, it shall be in His service. Amen!
-
 
 ---
 [[Sermon 1657 My Hourly Prayer|← #1657]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1659 A Feast for the Upright|#1659 →]]

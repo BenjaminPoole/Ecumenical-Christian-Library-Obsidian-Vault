@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Titus 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Titus 1:1-4
 

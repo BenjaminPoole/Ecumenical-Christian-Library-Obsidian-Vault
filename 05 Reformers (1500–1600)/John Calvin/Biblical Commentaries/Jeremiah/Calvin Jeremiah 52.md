@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 52
 
 The last chapter, as it is historical, and all its parts have been elsewhere handled, holy Calvin did not expound in his Lectures, that he might not burden the hearers with superfluous repetitions: however, to render the book complete, we here add it.
 
-**CHAPTER 52**
+## **Chapter 52**
 
 **1**. Zedekiah *was* one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name *was* Hamutal the daughter of Jeremiah of Libnah.
 

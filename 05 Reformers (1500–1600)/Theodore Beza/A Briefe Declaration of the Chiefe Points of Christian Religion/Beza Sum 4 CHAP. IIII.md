@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - theodore-beza
 ---
-
 # 4. CHAP. IIII
-
-## CHAP. IIII.
 
 *By what order God proceedeth to declare & after a sort to execute his election.*
 

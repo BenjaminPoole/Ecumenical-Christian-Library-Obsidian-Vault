@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Form of Godliness Without the Power
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2088
 
-DELIVERED ON LORD'S DAY MORNING, JUNE 2, 1889,.
+*Delivered on Lord's Day Morning, June 2, 1889*
 
 > "Having a form of godliness but denying the power thereof: from such turn away." 2 Timothy 3:5.
 
@@ -170,7 +169,6 @@ Let me give you a word of admonition. Learn from the text that there is somethin
 Beware of second-hand religion, it is never worth the carrying home. Get your godliness direct from Heaven by the personal dealing of your own soul with your Savior. Profess only what you possess and rest only in that which has been given you from above. Your heavenly life, as yet, may be very feeble but the grain of mustard seed will grow. You may be the least in Israel but that is better than being the greatest in Babylon.
 
 The Lord bless these words and apply them to each one in his own way by His Holy Spirit. You can make either a blister of them or a plaster of them, as conscience shall direct. God guide you, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 2087 Grace For Grace|← #2087]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2089 Profitable Mixture|#2089 →]]

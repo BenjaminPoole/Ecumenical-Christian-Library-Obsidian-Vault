@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # "Now Then, Do It"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1375
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 23, 1877,.
+*Delivered on Lord's-Day Morning, September 23, 1877*
 
 > "You sought for David in times past to be king over you: now then, do it: for the Lord has spoken of David, saying, By the hand of My servant David I will save My people Israel out of the hand of the Philistines, and out of the hand of all their enemies." 2 Samuel 3:17,18.
 
@@ -150,7 +149,6 @@ He drew me, and I followed on,
 Charmed to confess the voice Divine.'"
 
 May the Lord bless you. Amen.
-
 
 ---
 [[Sermon 1374 Forever With The Lord|← #1374]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1376 The True Priesthood, Temple and Sacrifice|#1376 →]]

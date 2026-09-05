@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # For Kings.
 
-Chapter XXI · *The Upper Room* — J. C. Ryle
+## Chapter XXI · *The Upper Room* — J. C. Ryle
 
 > — 1 Thess. 2:1-2
 
@@ -79,8 +78,7 @@ On a day" like this it is meet, right, and our bounden duty to praise God. Let m
 
 And now to these praises and thanksgivings let us add an earnest prayer that the life of our beloved Sovereign may yet be spared to us for many years, and that these years may be years of increasing happiness and usefulness to the end. We all know that she has had many sorrowful times to pass through. The deaths of the Prince Consort, the Princess Alice, and the Duke of Albany, were crushing trials which will never be forgotten. Let us pray that she may he spared further trials of this kind, that she may long continue to live in the affections of a prosperous, united, and contented people, and that when she is removed from this world of sorrow, she may enter with an abundant entrance into that kingdom where tears are wiped from all eyes, and receive that crown of glory which alone never fades away.
 
-THE END
-
+## The End
 
 ---
 [[UR 20 Questions About the Lord's Supper|← Questions About the Lord's Supper]] · [[The Upper Room|Upper Room Contents]]

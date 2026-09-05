@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Sad Plight and Sure Relief
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1184
-
-DELIVERED BY.
 
 > "For when we were yet without strength, in due time Christ died for the ungodly." Romans 5:6.
 
@@ -132,7 +129,6 @@ I am of that old woman's mind who said, "If Jesus Christ does save me, He shall 
 Do you say the same, Beloved? I am sure you do! And may He of His mercy touch the heart of some great sinner tonight! Perhaps there is a woman that is a sinner, here. Oh, that you may come to wash His feet with your tears and wipe them with the hairs of your head, because of His love to you! Perhaps there is some thief here. Oh, that you might be with Him in Paradise! And I am sure, if He pronounces you absolved, you will sing more sweetly in Heaven than any other, because of what He has done for you! Blessed be Your name, O Son of God, forever and forever! And all our hearts say, "Amen."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 5
-
 
 ---
 [[Sermon 1183 Is Conversion Necessary|← #1183]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1185 An Earnest Warning about Lukewarmness|#1185 →]]

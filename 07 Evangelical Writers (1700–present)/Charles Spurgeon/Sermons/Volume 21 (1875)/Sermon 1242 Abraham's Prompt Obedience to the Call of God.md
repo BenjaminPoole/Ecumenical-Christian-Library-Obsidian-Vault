@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Abraham's Prompt Obedience to the Call of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1242
@@ -73,8 +72,7 @@ And now may we all be led to imitate his example. If we never have done so, may 
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Hebrews 11:1 to 13; Genesis 11:27 to end; 12:1 to 9.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—174, 655, 658.
-
+## Hymns from "Our Own Hymn Book"—174, 655, 658
 
 ---
 [[Sermon 1241 Honest Dealing with God|← #1241]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1243 Rivers Of Water In A Dry Place|#1243 →]]

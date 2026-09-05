@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Among Lions
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1496
 
-DELIVERED ON THURSDAY EVENING, SEPTEMBER 4, 1879,.
+*Delivered on Thursday Evening, September 4, 1879*
 
 > "My soul is among lions." Psalm 57:4.
 
@@ -162,7 +161,6 @@ These brave men went in and died that they might bring the lepers to Christ! I h
 It will be a grand thing for you to come, one day, to the Church meeting with two or three of your neighbors whom you have been the means of converting to Christ. I like to see a man march, if he can do it, with a tame lion on each side! When a man has, by God's Grace, brought some of those that were drunks and swearers to the feet of Jesus, oh, it is a grand triumph! It has been my business for many years to be a lion tamer and I delight in it! If there is any lion of the sort here, I wish the Master would tame him and make him lie down and crouch at His feet. There is the place for us poor sinners—at the feet of Christ.
 
 But do not be afraid of sinners, dear Friends, for how can you tame them if you tremble at them? Go forth to win them in the strength of the living God and you shall yet see the lion lie down with the lamb—and a little child shall lead them. Amen and amen!
-
 
 ---
 [[Sermon 1495 The King-Priest|← #1495]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1497 Self-righteousness—a Smoldering Heap of Rubbish|#1497 →]]

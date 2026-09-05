@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Solitude, Silence, Submission
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2468
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He sits alone and keeps silent, because He has borne it upon him. He puts his mouth in the dust; if so be there may be hope." Lamentations 3:28,29.
 
@@ -91,7 +88,7 @@ Christ sits on His Throne of Grace and stretches out the silver scepter. Bow bef
 
 We are getting into summer and I feel very anxious that none of my hearers should have to say, "The harvest is past, the summer is ended and we are not saved." Then, before the harvest comes, now that the summer is just beginning, may the Lord incline your hearts to come and put your trust in Jesus! Many of you are from the country. You have come to see London. Of all the sights possible to you, the best will be, first, to see yourselves, and then to see your Savior! There is no exhibition like the exhibition of the love of God in Jesus Christ to guilty sinners! May this be the best day you have ever lived because it shall be the first day you have ever truly lived with the life of God in your soul! I pray the Lord to bless my words to each of you without exception! Surely, there is not anybody here who would wish to be left out! God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LAMENTATIONS 3:1-33;55-58.
+## Exposition by C. H. Spurgeon: Lamentations 3:1-33;55-58
 
 We are about to read a chapter which is full of sorrow. While you are listening to it, some of you may be saying, "We are not in that condition." Well then, be thankful that you are not! And while you hear of the sorrows of others, bless God for the joys you, yourself, experience. At the same time, remember that there is a way of sorrow which leads, at last, to rest and piece. There is truth in the words of the poet Cowper—
 
@@ -136,7 +133,6 @@ Verses 1, 2. I am the man that has seen affliction by the rod of His wrath. He h
 57, 58. You drew near in the day that I called upon You: You said, Fear not. O Lord, You have pleaded the causes of my soul. What a comfort it is that Christ in Heaven is our great Advocate and that He has pleaded the causes of our soul before the Throne of God!
 
 58\. You have redeemed my life. He who is our Advocate is also our Redeemer and, therefore, we are doubly safe! Glory be to His name!
-
 
 ---
 [[Sermon 2467 Christ and His Co-workers|← #2467]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2469 The Incomparable Bridegroom and His Bride|#2469 →]]

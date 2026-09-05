@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 35
 
-**CHAPTER 35**
+***Chapter 35***
 
 ## Isaiah 35:1-10
 

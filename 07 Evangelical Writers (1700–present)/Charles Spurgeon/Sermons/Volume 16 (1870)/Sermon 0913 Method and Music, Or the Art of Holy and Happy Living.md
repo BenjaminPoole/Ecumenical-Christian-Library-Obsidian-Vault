@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Method and Music, Or the Art of Holy and Happy Living
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 913
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 30, 1870,.
+*Delivered on Lord's-Day Morning, January 30, 1870*
 
 > "And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God the Father by Him." Colossians 3:17.
 
@@ -194,7 +193,6 @@ Further, many of us here present have professed to be His disciples. We remember
 Lastly, I need not thus plead with some of you, for your hearts are pleading with you. I know you love Him whose name is as ointment poured forth. I know how the tendrils of your heart have entwined themselves about His Cross. His Person fixes all your love. You are only happy when you are walking in communion with Him. He is the sun of your soul, without whom you cannot live. Well, then, do what love dictates—bring forth the alabaster box of ointment, break it, pour the sacred nard upon His head, and if any ask, "Why is this waste?" say that He is worthy of it—and that you love much because you have had much forgiven.
 
 This day bring forth the best that is within your store, the spiced wine of your pomegranate, and set it before your Lord, while Jesus sups with you and you with Him. Again I say arouse yourselves to live at a more vigorous rate, and let the whole of the force and energy that dwells within you, and all that you can borrow from the seventh Heaven, be given up to Him who loved you and gave Himself for you. May my Master's blessing be with these words, to all who hear or read them, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0912 The Glorious Hereafter and Ourselves|← #912]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0914 Work in Us and Work by Us|#914 →]]

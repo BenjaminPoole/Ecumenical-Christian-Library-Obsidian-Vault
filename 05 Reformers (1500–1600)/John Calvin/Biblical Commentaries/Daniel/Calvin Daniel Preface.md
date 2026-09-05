@@ -9,18 +9,17 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface
 
-**COMMENTARIES**
+***Commentaries***
 
-**ON**
+## **On**
 
-**THE PROPHET DANIEL.**
+## **The Prophet Daniel.**
 
 **John Calvin’s Preface**
 
-**TO HIS LECTURES ON DANIEL.**
+## **To His Lectures on Daniel.**
 
 ## Lecture First
 

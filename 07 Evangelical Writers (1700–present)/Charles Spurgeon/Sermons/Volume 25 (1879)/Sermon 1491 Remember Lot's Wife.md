@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Remember Lot's Wife
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1491
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 24, 1879,.
+*Delivered on Lord's-Day Morning, August 24, 1879*
 
 > "RememberLot's wife." Luke 17:32.
 
@@ -144,7 +143,6 @@ I Believe that fathers and husbands ought to take the lead in the management of 
 It was partly Lot's own doing that his wife became what she was. If Lot had never gone to Sodom, his wife would not have perished near it. Look to yourselves lest you lead others astray! Keep near to God and you will be blessed and become a blessing to others. Abraham did not have this trouble with Sarah, nor Isaac with Rebekah, for they walked with God and their influence was felt in their tents. Live near to God and let your own life be according to the command which God gave the Patriarch—"Walk with Me and be you perfect," and you shall see that He will bless your household and your children after you.
 
 But if you do not thus walk before the Lord, you will have to "remember Lot's wife." May God add His blessing on these words, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1490 Contention Ended and Grace Reigning|← #1490]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1492 The First Note of My Song|#1492 →]]

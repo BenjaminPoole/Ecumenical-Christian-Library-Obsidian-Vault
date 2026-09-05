@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Waterer Watered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 626
 
-DELIVERED ON SUNDAY MORNING, APRIL 23, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 23, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "He that waters shall be watered also himself." Proverbs 11:25.
 
@@ -77,7 +76,7 @@ My dear Brother, you may be a man of talent. You may be a man of wealth—just t
 
 This simile needs to be supplemented by another—many true saints are unable to do much. See, then, the gardeners going down to the pond and dipping in their watering pots to carry the refreshing liquid to the flowers. A child comes into the garden and wishes to help. And yonder is a little watering pot for him. Now, see that little water pot? Though it does not carry so much, yet carries the same water. And it does not make any difference to the half-dozen flowers which get that water, whether it came out of the big pot or the little pot, so long as it is the same water and they get it!
 
-You who are like children in God's Church. You who do not know much—try and tell others what you do know—and if it is the same Gospel Truth, and it is blest by the same Spirit—it will not matter to the souls who get blessed by you whether they were blessed by a man of one or ten talents! What differ- ence will it make to me whether I was converted to God by means of a poor woman who was never made a blessing to anybody else, or by one who had brought his thousands to the Savior's feet? Go, my dear Brothers and Sisters, and exercise the holy art of watering!
+You who are like children in God's Church. You who do not know much—try and tell others what you do know—and if it is the same Gospel Truth, and it is blest by the same Spirit—it will not matter to the souls who get blessed by you whether they were blessed by a man of one or ten talents! What differ-ence will it make to me whether I was converted to God by means of a poor woman who was never made a blessing to anybody else, or by one who had brought his thousands to the Savior's feet? Go, my dear Brothers and Sisters, and exercise the holy art of watering!
 
 You say "How?" Why, a word may do it! A look may do it! An action may do it! Only zealously desire to offer sympathy, to afford instruction, to give needed help, to impart what you may be favored with to others and you shall be watered yourselves! The main point is that in so watering others we shall be watered ourselves. I am sure we shall, for God promises it and He always keeps His promise. If I need to get water, I must give water. Though that seems a strange way of self-serving I pray you try it. Was not that a very singular thing that when the poor woman of Sarepta had nearly exhausted all her meal, the Prophet asked for a cake for himself? She had been saving it. I dare say she had eaten only a mouthful or two every day. She and her poor boy were looking very thin. They had come to the last handful.
 
@@ -105,7 +104,7 @@ He has spared your lives. He has given you health and strength. He has provided 
 
 "This world is yours and worlds to come, Earth is your lodge and Heaven your home."
 
-There is a crown for your head and a palm branch for your hand. There are pavements of gold for your feet and felicities forever for your entire soul! And even your body is to be raised again from the dust and fashioned like unto Christ's glorious body. "Eye has not seen, nor ear heard, neither have en- tered into the heart of man the things which God has prepared for you." Now what will you do for Him? Will you not win the promise that your soul shall be watered by seeking to water the souls of others?
+There is a crown for your head and a palm branch for your hand. There are pavements of gold for your feet and felicities forever for your entire soul! And even your body is to be raised again from the dust and fashioned like unto Christ's glorious body. "Eye has not seen, nor ear heard, neither have entered into the heart of man the things which God has prepared for you." Now what will you do for Him? Will you not win the promise that your soul shall be watered by seeking to water the souls of others?
 
 II. A BRIEF EXHORTATION shall suffice for the second point. This general principle is worthy of a wider application. We, as a Church, dear Friends, have enjoyed singular prosperity. While many churches have been depressed and decreased in numbers, we have increased. While other churches have had the hectic flush of a spurious revival, we have had one perpetual revival lasting for nearly twelve years. I do not know that we have increased at a more or a less rapid rate. We could not increase more quickly, for we have not officers enough or time enough to see the converts as it is.
 
@@ -117,7 +116,7 @@ We have never sought to hinder the planting of other churches from our midst or 
 
 I have marked those who have followed this course and I have seen that the effect of trying to keep all the blood in the heart is to bring on congestion. And very soon the whole body has been out of health. My Brethren, if you can do more good elsewhere than you can do here, for God's sake, go! And happy shall I be that you have gone. If you can serve my Master in the little rooms in the neighborhood—if by forming yourselves into smaller churches you can increase the honor of my Master's name I shall love you none the less for going—and I shall delight to think that you have Christ's spirit in you and can do and dare for His name's sake!
 
-We must not say, "We have the College to support and we do as much as other churches for various societies and we can be content to sit still." This Church will begin to go rotten at the core the moment we are not working for God with might and main. Sometimes I get a pull at my coattail by very kind, judicious friends who think I shall ask you to do too much. My Brethren are welcome to pull my coat- tail, but it will come off before I shall stand back for a moment! As long as I live I must serve my Master with my whole soul and when you think I go too fast, you can stand back if you dare, for mark—you will be responsible to God if you do.
+We must not say, "We have the College to support and we do as much as other churches for various societies and we can be content to sit still." This Church will begin to go rotten at the core the moment we are not working for God with might and main. Sometimes I get a pull at my coattail by very kind, judicious friends who think I shall ask you to do too much. My Brethren are welcome to pull my coat-tail, but it will come off before I shall stand back for a moment! As long as I live I must serve my Master with my whole soul and when you think I go too fast, you can stand back if you dare, for mark—you will be responsible to God if you do.
 
 You may start back if you will and if you dare! But I must go on, must go, MUST go on! You and I that are worthy of the day in which we live will follow, step by step, in any good project. And though I should seem too rash, you will redeem me from the charge of rashness by the enthusiasm and the earnestness with which you carry out my plans. Here is this great city! Was there ever such spiritual desti-tution—a million people who could not go to a place of worship if they had the heart to go there! And here we have the priest-craft of the Church of England increasing the spiritual destitution by building fresh churches—not providing for it, but increasing it, I say—for I reckon that wherever Puseyism is preached, there is an increase of spiritual destitution!
 
@@ -138,7 +137,6 @@ III. And now, dear Friends, another sentence or two will close the sermon. On th
 Relinquishing them, giving them up, stopping them would bring such a blight and a curse that we had need to go down on our knees and pray, "God send the missionary work back again! Give us an outlet for our liberality and our zeal, for without it we become like a pool dammed up that is full of filth and toads and frogs and all sorts of foul things. Lord, open the river for our zeal and let us once again have an opportunity to serve You for the nations that are far away!"
 
 But I must leave you to preach on that point, for my time has gone and you can do so more practically than I can. My sermon is reported and I will undertake that what you preach shall not be forgotten—it shall all be taken down in those boxes which shall be passed round. Say each of you as much as ever you can upon this subject by your contributions and remember, "He that waters others, shall himself be watered."
-
 
 ---
 [[Sermon 0625 Jesus Appearing To Mary Magdalene|← #625]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0627 Justification And Glory|#627 →]]

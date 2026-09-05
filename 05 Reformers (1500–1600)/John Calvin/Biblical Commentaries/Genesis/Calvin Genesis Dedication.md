@@ -9,10 +9,7 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # The Author's Epistle Dedicatory
-
-**THE AUTHOR’S EPISTLE DEDICATORY**
 
 **John Calvin**
 

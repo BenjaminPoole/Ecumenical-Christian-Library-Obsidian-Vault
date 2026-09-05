@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # One Lion, Two Lions, No Lion at All!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1670
 
-DELIVERED ON THURSDAY EVENING, JUNE 8, 1882,.
+*Delivered on Thursday Evening, June 8, 1882*
 
 > "The slothful man says, There is a lion outside, I shall be slain in the streets." Proverbs 22:13.
 
@@ -184,7 +183,6 @@ I have heard of a king upon the crown of whose pavilion, when it was pitched, a 
 Oh, come along with you! Come, you that are afraid of lions! There are no lions! The way is clear and open, for Jesus says, "I am the Way," and, "Him that comes to Me I will in no wise cast out." Why do you still say that you will come by-and-by? Do not trifle so! I had almost rather that you cried, "I will not come at all!" Such perversity might end better than feigned promises and base delays. I pray God to give you a better mind than that and may you say, "Yes, this very night, please God, I will be saved! The sun has gone down, but there is a little twilight left, and I will yield before darkness quite sets in. I will now trust my Savior and hasten to Him and seek Him on my knees in prayer."
 
 May the Spirit of God sweetly lead you to do this and, oh, our heart will be so glad of it! The Lord grant it, for His dear name's sake. Amen.
-
 
 ---
 [[Sermon 1669 Teaching for the Outer and Inner Circles|← #1669]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1671 The Value and Rank of the Believer|#1671 →]]

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 36
 
-**CHAPTER 36.**
+***Chapter 36.***
 
 ## Genesis 36:1-43
 

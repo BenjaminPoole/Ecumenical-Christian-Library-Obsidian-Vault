@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Sinner's Only Alternative
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2894
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now therefore come, let us surrender to the army of the Syrians: if they keep us alive, we shall live; and if they kill us, we shall but die." 2 Kings 7:4.
 
@@ -137,7 +134,7 @@ To you, unpardoned Soul, I have spoken at length, and God knows how truly from m
 
 Are there none who will do so? Great God, are all hearts hard? O Spirit of God, come now, in this solemn moment, and break the hearts of stone with the mighty hammer of the Word of God! Cut and wound with Your two-edged sword and then heal with Your wondrous ointment even now! I say no more, but leave it with Him. May it be so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM84.
+## Exposition by C. H. Spurgeon: Psalm 84
 
 May the Spirit of God bless to us every syllable of this familiar Psalm as we read it!
 
@@ -176,7 +173,6 @@ else!
 10\. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness. ' 'I had rather dust the mats in Your house than sit on Satan's throne. I had rather wash the feet of Your saints, or perform any menial duties for them, than rule over all the hosts in the realms of darkness."
 
 11, 12. For the LORD Godis a sun andshield: the LORD willgive Grace andglory: no good thing willHe withhold from them that walk uprightly. O LORD of Hosts, blessed is the man that trusts in You. He will never walk uprightly unless he trusts in the Lord, neither will he receive the fullness of the blessing except as he learns to trust to the fullest, for the Master still says, "According to your faith, be it unto you."
-
 
 ---
 [[Sermon 2893 An Instructive Truth|← #2893]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2895 A Blessed Gospel Chain|#2895 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # Our Magnificent Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3554
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Isaiah 53:11.
 
@@ -25,7 +22,7 @@ EVERY word of the text is peculiarly full of meaning. There are passages of Scri
 
 There are two points in the text. You observe there are two persons. There is the Lord Christ, and there are the many. We will take these two persons in order and you will perceive in a moment that these are both represented in a threefold character. And our first point will be the Lord Jesus in His threefold Character. And the second will be the many in their threefold character. To begin, then, where all mustbegin—
 
-I. OUR BLESSED LORD HIMSELF IN HIS THREEFOLD CHARACTER.
+## I. Our Blessed Lord Himself in His Threefold Character
 
 You have Him here in a threefold Character. First, the Servant—"My righteous Servant." Secondly, the Sin-Bearer—"He shall bear their iniquities." Thirdly, the Justifer—"He shall justify many."
 
@@ -69,7 +66,7 @@ Remember, Beloved, that this is the reward that Christ has for His death. "He sh
 
 I have thus briefly set forward Christ in His threefold capacity—a Servant, a Sin-Bearer and a Justifier. Now, with brevity, we are to look at—
 
-II. THE MANY IN THEIR THREEFOLD CHARACTER.
+## II. The Many in Their Threefold Character
 
 And in the text we see them, first, as needing Justification. Secondly, as receiving knowledge. And thirdly, as justified. Now we begin, tonight, this second head where God began with us. We see the many needing Justification. Christ would not have come to justify the just—they do not need it. The whole have no need of a physician. Suppose a man is brought up before a court of justice. He is justified, or reckoned to be just, if he is proved not guilty. But we, before the court of God, are all guilty! Therefore, Justification cannot come in that way to us. Our only hope of Justification lies in this—God says, "That man's sins I laid upon Christ. I punished Christ for that man. He is not guilty. Christ was obedient in that man's behalf. Christ's obedience is that man's obedience. He is just in Christ's Righteousness. I take him not as what he is, but as what his Sponsor is, even Christ! What his Surety is, what his Substitute is." As, for instance, in the old ballot days, when men had to go to war, if the number was called out and a substitute was provided, the person providing the substitute was said, by the law, to discharge his duty to his country. I believe that some time ago in the Northern States a person who had found a substitute to go to fight in the South, heard after a while that his substitute was dead. On a second drawing being made, this man was drawn, but he said, "No, I am dead. Number so-and-so went to the war and is dead. That is me. My substitute is dead." So when God's justice calls to me, a sinner, I do not answer to it! Why? Christ answered on my behalf long ago and died for me! I am dead with Christ. "I live, yet not I, but Christ lives in me." There is no legal charge that can be brought because Christ has stood in my place, been punished in my place, been reckoned as if He were I, and now, this day, I am reckoned as if I were in Christ's place, even as He was reckoned to be in my place. You see where we begin, then. We begin needing Justification, for we have, first of all, the sin of our first parents. "All we like sheep have gone astray." We have, next, our own sins. "We have turned, everyone, to his own way." We have many sins of omission and of commission. "The Lord has laid on Him our iniquities." Whether they are iniquities of excess or of shortcoming, they are both laid upon Jesus Christ's head. We were guilty—we were so guilty, that by ourselves considered, we were under condemnation! "He that believes not is condemned already," and if we had remained as we were, we were heirs of wrath, even as others! And our sin deserved the same punishment as others.
 
@@ -94,7 +91,6 @@ What was my gain I count my loss,
 My former pride I call my shame,
 
 And nail my glory to His Cross. Oh, you will have done with your old companions! The love of Christ will constrain you. Nothing cleanses the Augean stable of human nature like a stream of love and blood made to run through it! When Christ's sacrifice comes to a soul, it casts out sin and Satan, sets the man working at once—and none can work so vigorously as those who feel that they owe all to the Grace of God, who feel that they have nothing to do to save themselves—they are saved! That work is all done forever! And now, out of gratitude, they give their whole life, and soul, and strength to spread abroad the Gospel of Jesus, now, and make God's names famous, even to the end of time! God bless you, dear Hearers. May this all be yours, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 3553 The Fullness and the Filling|← #3553]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3555 With Golden Band Girded|#3555 →]]

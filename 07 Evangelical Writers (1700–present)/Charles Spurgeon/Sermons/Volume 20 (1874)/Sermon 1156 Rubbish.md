@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # Rubbish
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1156
-
-DELIVERED BY.
 
 > "There is much rubbish; so that we are not able to build the wall" Nehemiah 4:10.
 
@@ -147,12 +144,11 @@ The Lord bless you, every one of you, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Nehemiah 4. HYMNS FROM "OUR OWN HYMN BOOK"—623, 641, 665.
 
-MESSAGE:
+## Message
 
 This sermon I have revised at Mentone after an attack of severe pain from which I am recovering, by God's good hand. I beg, in my great feebleness, to ask the prayers of my friends that I may return to my beloved sphere of labor free from the disease which is my constant cross, and that every personal trial may work in me for the good of others by rendering my ministry more deeply experimental. From this delicious retreat I desire Christian love to all the people of God, of whom I am both the servant and friend."
 
-C. H. SPURGEON.
-
+## C. H. Spurgeon
 
 ---
 [[Sermon 1155 The Chariots Of Amminadib|← #1155]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1157 Shiloh|#1157 →]]

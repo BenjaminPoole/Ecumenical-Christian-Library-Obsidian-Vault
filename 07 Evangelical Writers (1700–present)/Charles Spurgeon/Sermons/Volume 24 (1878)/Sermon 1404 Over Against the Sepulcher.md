@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Over Against the Sepulcher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1404
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 24, 1878,.
+*Delivered on Lord's-Day Morning, March 24, 1878*
 
 > "Sitting over against the sepulcher." Matthew 27:61.
 
@@ -162,7 +161,6 @@ Once more, it will be well if we can obtain peace by having fellowship with our 
 But, Brothers and Sisters, if we are always to lie in that tomb, we must be wrapped about with the fine linen of holiness—these are the shrouds of a man who is dead to sin. All about us must be the spices, the myrrh and aloes of preserving Grace, that being dead with Christ we may see no corruption, but may show that death to be only another form of the new life which we have received in Him. When the world goes by, let it know, concerning our heart's desire and ambition, that they are all buried with Christ! And let it be written on the memorial of our spiritual grave, "Here he lies." As far as this world's sin, pleasure, self-seeking and wisdom are concerned, "Here he lies buried with his Master."
 
 Know, you who are not converted, that the way of salvation is by believing in Christ, or trusting in Him! And if you so trust, you shall never be confounded, world without end, for he that trusts Christ and believes in Him even as a little child, the same shall enter into His kingdom. And he that will follow Him, even down to His grave, shall be with Him in His Glory—and shall see His triumphs forever and ever. Amen.
-
 
 ---
 [[Sermon 1403 God's Advocates Breaking Silence|← #1403]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1405 A Distinction with a Difference|#1405 →]]

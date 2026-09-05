@@ -9,7 +9,6 @@ epub_file: "works1.i.xxvi.html"
 tags:
   - jonathan-edwards
 ---
-
 # A FAREWELL SERMON,
 
 #### PREACHED AT THE
@@ -20,7 +19,7 @@ tags:
 
 ### ON JUNE 32, 1750;
 
-OCCASIONED BY DIFFERENCE OF SENTIMENTS, CONCERNING THE REQUISITE QUALIFICATIONS OF MEMBERS OF THE CHURCH IN COMPLETE STANDING.
+## Occasioned by Difference of Sentiments, Concerning the Requisite Qualifications of Members of the Church in Complete Standing
 
 Acts. xx. 18.Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons Acts. xx. 20.And how I kept back nothing that was profitable unto you, but have showed you, and have taught you publicly, and from house to house. Acts. xx. 26, 27.Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare unto you all the counsel of God. Gal. iv. 15, 16.Where is then the blessedness ye speak of? For I bear you record, that if it had been possible, ye would have plucked out your own eyes, and haven given them to me. Am I therefore become your enemy, because I tell you the truth?
 
@@ -48,7 +47,7 @@ Nor do I think it improper for a minister in such a case, to inquire and know of
 
 2 Corinthians i. 14
 
-AS ALSO YOU HAVE ACKNOWLEDGED US IN PART, THAT WE ARE YOUR REJOICING, EVEN AS YE ALSO ARE OURS IN THE DAY OF THE LORD JESUS.
+## As Also You Have Acknowledged Us in Part, that We Are Your Rejoicing, Even as Ye Also Are Ours in the Day of the Lord Jesus
 
 The apostle, in the preceding part of the chapter, declares what great troubles he met with in the course of his ministry. In the text, and two foregoing verses, he declares what were his comforts and supports under the troubles he met with. There are four things in particular.
 

@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 72
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -183,8 +182,6 @@ The lofty glory of the Flavian family shall remain, Enduring like the sun and st
 **Verse 10.** *The isles.* Myya, only in the Psalter besides, Ps 97:1, where, and uniformly, so rendered. The word, however, denotes all habitable land as opposed to water (see Ge 10:5, where first it occurs, with Isa 42:15), and so *"maritime land,* whether the sea coast of continent or island" (Gesenius); especially the countries washed by the Mediterranean, and the remote coasts to the west of Palestine. So in the parallel prophecy, Isa 60:9 11:11 41:1-2 Isa 42:10-12 49:1, etc. Accordingly, *"The isles* shall wait for his law, "(Isa 42:4) is expounded in Mt 12:22—"In Him shall *the Gentiles* trust." *William DeBurgh.*
 
 **Verse 10.** *Sheba and Seba.* There appear to have been two nations living in the same region, viz., Southern Arabia. One of these was descended from Cush, the son of Ham, and the other from Joktan, a descendant of Shem. These two people were often antagonistic in interests, despite the similarity of their names, but their divisions would be healed, and unitedly they would offer tribute to the Great King. It is an Arab proverb, "divided as the Sabaeans, "but Christ makes them one. "The Greek geographers usually couple Abyssinia with Yemen, in Arabia, and invariably represent the Abyssinian as an Arab or Sabaean race. Modern travellers, also, unanimously agree in recognising the Arab type among those Abyssinian populations which do not belong to the African stock." That the Sabaean nations were wealthy is clear from the Greek historian Agatharchides. "The Sabaeans, "says he, "have in their houses an incredible number of vases and utensils of all sorts, of gold and silver, beds and tripods of silver, and all the furniture of astonishing richness. Their buildings have porticoes with columns sheathed with gold, or surmounted by capitals of silver. On the friezes, ornaments, and the framework of the doors, they place plates of gold encrusted with precious stones. They spend immense sums in adorning these edifices, employing gold, silver, ivory, and precious stones, and materials of the greatest value." They appear, also, to have acquired great wealth by trading, both with India and Africa, their peninsula lying between those two regions. Rich would be their gifts if Lenormant and Chevallier's description of their commerce be correct. "The principal importations from India were gold, tin, precious stones, ivory, sandalwood, spices, pepper, cinnamon, and cotton. Besides these articles, the storehouses of southern Arabia received the products of the opposite coast of Africa, procured by the Sabaeans in the active coasting trade they carried on with this not far distant land, where Mosyton (now Ras Abourgabeh) was the principal port. These were, besides the spices that gave name to that coast, ebony, ostrich feathers, and more gold and ivory. With the addition of the products of the soil of southern Arabia itself, incense, myrrh, laudanum, precious stones, such as onyx and agates, lastly, aloes from the island of Socotra, and pearls from the fisheries of the Gulf of Ormus, we shall have the list of the articles comprised in the trade of this country with Egypt, and with those Asiatic countries bordering on the Mediterranean; and at the same time, by considering this activity of such a traffic." "Poor as God's people usually are, the era will surely arrive when the richest of the rich will count it all joy to lay their treasures at Jesus' feet." *C. H. S.*
-
-**Verses 9-11.** They that dwell in the wilderness shall bow before him; *and his enemies shall lick the dust. See Psalms on "Ps 72:9"* for further information.
 
 **Verse 12.** *He shall deliver the needy when he crieth.* There needeth no mediator between him and his subjects; *he heareth the needy when they cry.* The man that hath nothing within him or without him to commend him to Christ, to assist, help, relieve, or comfort him in heaven or earth, is not despised by Christ, but delivered from that which he feareth. *David Dickson.*
 
@@ -388,14 +385,13 @@ Blessed be Jehovah God, God of Israel, alone performing wonders; And blessed be 
 
 4. Should be continued till they are no more needed.
 
-**HERE ENDETH THE SECOND BOOK OF THE PSALMS.**
+## **Here Endeth the Second Book of the Psalms.**
 
 ## Other Works
 
 In CHANDLER'S *Life of David,* Vol. 2, pp. 440-44, there is an Exposition of this Psalm.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 071|← Psalm 71]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 073|Psalm 73 →]]

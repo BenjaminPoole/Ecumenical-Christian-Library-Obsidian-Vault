@@ -9,11 +9,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Prayer
 
-THE PRAYER  
-WHICH JOHN CALVIN WAS WONT TO USE AT THE BEGINNING OF HIS LECTURES:
+*The Prayer Which John Calvin Was Wont to Use at the Beginning of His Lectures*
 
 MAY the Lord grant, that we may engage in contemplating  
 the mysteries of his heavenly wisdom with really increasing devotion,  

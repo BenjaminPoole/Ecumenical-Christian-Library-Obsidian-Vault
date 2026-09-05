@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Three Blessings of the Heavenly Charter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2314
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have granted me life and favor, and Your visitation has preserved my spirit." Job 10:12.
 
@@ -135,7 +132,7 @@ And if my Lord will come anywhere, tonight, it is to you who think yourselves un
 
 The Lord grant you such a visitation that you may be constrained to believe, for Jesus' sake! Amen and Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. PSALMS 6, 8.
+## Expositions by C. H. Spurgeon. Psalms 6, 8
 
 Psalm 6: Here the Psalmist asks for a visit from God, for he is sick at heart, heavy and depressed. Be very thankful if that is not your case, but if it is, be very grateful that here is a prayer ready-made for you. Here you are taught how to cry to God and what to expect from Him. If you are very sick and sad, you are not worse off than David was. Send for David's Physician—you cannot have a better doctor than the royal Physician! He who waited on King David is prepared to wait on you.
 
@@ -198,7 +195,6 @@ Psalm 8:1. O LORD our Lord, how excellent is Your name in all the earth! Who has
 7, 8. All sheep and oxen, yes, and the beasts of the field; the fowl of the air, and the fish of the sea, and whatever passes through the paths of the seas. What a king, man is! Let him not be cruel to the beasts of the field; let him not be a tyrant; God did not make him for that purpose. Let his reign be generous and kind—and if the animals must suffer, yet spare them as much suffering as possible. O man, be you a generous viceroy, for you are under a most generous King who is, Himself, the happy God and who delights in the happiness of all His creatures!
 
 9\. O LORD our Lord, how excellent is Your name in all the earth! Thus does the Psalmist finish as he began the Psalm, by praising the name of the Lord.
-
 
 ---
 [[Sermon 2313 Charity and Purity|← #2313]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2315 Paul Apprehended and Apprehending|#2315 →]]

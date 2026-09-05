@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Justification, Propitiation, Declaration
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3488
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Being justified freely by His Grace through the redemption that is in Christ Jesus: whom God has set forth to be a propitiation through faith in His blood, to declare His righteousness for the remission of sins that are past through the forbearance of God. To declare, I say, at this time His righteousness: that He might be just, and the justifier of him who believes in Jesus." Romans 3:24-26.
 
@@ -25,7 +22,7 @@ I think, dear Friends, some of you will be saying, "There is that same old Doctr
 
 I do not intend at this time to try and preach a sermon, but rather give an "outline exposition" again of this Doctrine. And if you turn to the text, I think we can very well divide it, and very properly, too, into three parts, and head it with three words of, Justification, Propitiation and Declaration. Justification—"Being justified freely by His Grace through the redemption that is in Christ Jesus." Propitiation—"Whom God has set forth to be a propitiation though faith in His blood to declare His righteousness for the remission of sins." And then we come to the third—the Declaration—to declare His righteousness for the remission of sins that are past through the forbearance of God! To declare, I say, at this time, His righteousness, that He might be just and the Justifier of him who believes in Jesus! First, then, here is something about—
 
-I. JUSTIFICATION.
+## I. Justification
 
 The sense of this term is, in this place, and in most others, to declare a person to be just. A person is put on trial, he is brought before the judge. One of two things will happen—he will either be acquitted or justified, or else he will be condemned. You and I are all virtually before the judge and we are, at this moment, either acquitted or condemned, either justified or under condemnation! It is not possible that any one of us should be acquitted on the grounds of our not being guilty, for we must all confess that we have broken the Law of God thousands of times! It is not possible for any of us to be declared just on the ground of our own personal obedience to the Law of God, for to be just through our own obedience we must have been perfect—but we have not been perfect! We have broken the Law, we still continue to break it and, by the works of the Law, it is clear we cannot be just—cannot be justified. The Lord, even the God of Heaven and
 
@@ -61,7 +58,7 @@ My sins turned away Your face—You have turned away Your face from Him. My sins
 
 Thus have I dwelt as well as our short time allows upon the Propitiation. And now a word about—
 
-III. THE DECLARATION.
+## III. The Declaration
 
 The great objective, it appears, of the Redemption, and of the Gospel, is to show how God is just and yet the Justifier of such as believe. And Paul very properly divides the effect of Christ's death into two parts. First, he says that that death declared God's righteousness as to the sins that were past, through the forbearance of God.
 
@@ -91,7 +88,7 @@ loved." "I am found," He says, "of them that sought Me not." Oh, may He be found
 
 The Lord grant it, and may many in this place be saved tonight, to the praise and the glory of His Grace wherein He has made us accepted in the Beloved. Amen and amen!
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:1-17.
+## Exposition by C. H. Spurgeon: John 15:1-17
 
 Thus speaks the Lord Jesus—Verse 1. I am the true vine. Many questions have been raised about which is the true Church. The Savior answers them, "I am the true vine." All who are united, really united, to the ever-living Savior are members of the true Church. Find them where you may, if they are one with Christ, they are His—they are parts of the Divine Vine—they belong to His Church.
 
@@ -128,7 +125,6 @@ it!
 11-16. That My joy might remain in you, and that your joy might be full. This is My commandment, That you love one another, as Ihave loved you. Greater love has no man than this, that a man lay down his life for his friends. You are My friends if you do whatever I command you. Henceforth I call you not servants, for the servant knows not what his master is doing: but Ihave called you friends; for all things that Ihave heard of My Father, Ihave made known unto you. You have not chosen Me, but Ihave chosen you, and ordainedyou, that you shouldgo and bring forth fruit, and that your fruit should remain: that whatever you shall ask of the Father in My name, He may give it to you. A second time He puts this remarkable prevalence of prayer side by side with walking in the Lord's commandments! Oh, you that miss success in your life and work, may you not trace your failure to your forgetfulness of God? Shall God do your will, if you will not do His? Shall He wait on you, if you will not wait on Him? Will He not (must you not expect that He will) walk contrary to you if you walk contrary to Him? May His Spirit make you pure in life, for then shall you be successful at the Mercy Seat!
 
 17\. These things I command you, that you love one another. Jesus, send us this spirit of love, we beseech you!
-
 
 ---
 [[Sermon 3487 The Honored Guest|← #3487]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3489 Encouragement for the Depressed|#3489 →]]

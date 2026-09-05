@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Lot
 
-Chapter IX · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter IX · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 ### A BEACON
 
@@ -236,7 +235,6 @@ If you are a lingerer, you must go to Christ at once and be cured.—You must us
 Think not for a moment your case is past recovery. Think not, because you have been long living in a dry, sleepy, and heavy state of soul, that there is no hope of revival. Is not the Lord Jesus Christ an appointed Physician for all spiritual ailments? Did He not cure every form of disease when He was upon earth? Did He not cast out every kind of devil? Did He not raise poor backsliding Peter, and put a new song in his mouth? Oh, doubt not, but earnestly believe that He will yet revive His work within you! Only return from lingering, and confess your folly, and come—come at once to Christ. Blessed are the words of the prophet: “Only acknowledge thine iniquity.”—“Return, ye backsliding children, and I will heal your backsliding.” (Jerem. iii. 13, 22.)
 
 And let us all remember the souls of others, as well as our own. If at any time we see any brother or sister lingering, let us try to awaken them—try to arouse them—try to stir them up. Let us all “exhort one another” as we have opportunity. “Let us provoke unto love and good works.” (Heb. iii. 13; x. 24.) Let us not be afraid to say to each other, “Brother, or sister, have you forgotten Lot? Awake! and remember Lot!—Awake, and linger no more.”
-
 
 ---
 [[Holiness 08 Moses — An Example|← Moses — An Example]] · [[Holiness|Holiness Contents]] · [[Holiness 10 A Woman to Be Remembered|A Woman to Be Remembered →]]

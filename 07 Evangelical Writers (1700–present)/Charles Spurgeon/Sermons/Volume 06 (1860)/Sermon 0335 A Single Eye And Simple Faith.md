@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # A Single Eye And Simple Faith
 
 *New Park Street Pulpit* · Sermon No. 335
 
-DELIVERED ON SABBATH MORNING,SEPTEMBER 16, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning,september 16, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > Matthew 6:22,23.
 
@@ -70,7 +69,6 @@ I speak vehemently when I come to this point. I do pray, my dear Hearers, by you
 and you will be a happy, blessed, honored, useful man! Divide your allegiance, and you shall be a hissing reproach to sinners; you shall be a pain to yourself, you shall be a dishonor here, and you shall be held up to shame and everlasting contempt when Christ shall appear in the Glory of His Father, and all His holy angels with Him. Charge, Christians, in the name of Christ, charge against the embattled marks of sin! But do it with one heart; break not your rank; hold not out the flag of truce to the world with one hand, and draw the sword with the other. Throw away the scabbard. Be the sworn enemies, forever, of everything that is selfish and sinful. And trusting in the precious blood of Christ, and wearing the Cross in your hearts, go forward conquering, and to conquer, making mention of your Master's name, preaching His Word and triumphing in His Grace alone!
 
 God grant, if we must have two eyes, that they may be both clear ones, one the eye of faith wholly fixed on Christ, the other the eye of obedience equally and wholly fixed on the same objective!
-
 
 ---
 [[Sermon 0334 Man'S Weakness—God'S Anointing|← #334]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0336 Struggles of Conscience|#336 →]]

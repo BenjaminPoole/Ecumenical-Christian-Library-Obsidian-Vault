@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # 'Who Is on the Lord's Side?'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2884
-
-DELIVERED BY CHSPURGEON,.
 
 > "Then Moses stood in the entrance of the camp, and said, Whoever is on the LORD'S side—come to me! And all the sons of Levi gathered themselves together to him." Exodus 32:26.
 
@@ -91,7 +88,7 @@ Then, when you are fully armed, drilled and trained, we shall expect you to wage
 
 Now, then, you who are on "the Lord's side" in this congregation—you who really believe in Jesus—I invite all of you to confess your faith in Him if you have not already done so. No, more than that—in the name of Jesus in whom you believe, I exhort and command you to confess your faith in Him! Be not ashamed to avow your convictions. Do not try to conceal yourselves from your fellow Christians. Come out and come out soon—and may the numbers of this church, or of some other church be greatly swollen by the addition of those who are truly upon "the Lord's side." I wish I could persuade some of you not to put off this confession any longer, but to say, "I love my Savior, and I mean to come out and confess that I am on 'the Lord's side.' I have been far too long hesitating and halting between two opinions, but I will not let another week go by without saying, as plainly as words can say it, 'I have given myself to Christ and now I wish to give myself to His Church.'" May God bless you all for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS32:1-29.
+## Exposition by C. H. Spurgeon: Exodus 32:1-29
 
 Verse 1. And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron and said to him, Up, make us gods which shall go before us, for as for this Moses, the man who brought us up out of the land of Egypt, we know not what is become of him. They needed something to look at— something visible that they could adore. It was not that they meant to cease to worship Jehovah, but they intended to worship Him under some tangible symbol. That is the great fault of Ritualists and Romanists—they aim at worshipping God, but they must do so through some sign, some symbol, some cross, some crucifix, or something or other that they can see.
 
@@ -128,7 +125,6 @@ Verse 1. And when the people saw that Moses delayed to come down out of the moun
 25-28. And when Moses saw that the people were naked, (for Aaron had made them naked unto their shame among their enemies) then Moses stood in the entrance of the camp, and said, Whoever is on the LORD'S side—come to me! And all the sons of Levi gathered themselves together to him. Andhe said unto them, Thus says the LORD God of Israel, Put every man, his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbor. And the children of Levi did according to the word of Moses. The rebellious, the idolatrous, the men who had defied the authority of God were to be summarily executed on the spot.
 
 28, 29. And there fell of the people that day about three thousand men. For Moses had said, Consecrate yourselves today to the LORD, even every man upon his son, and upon his brother; that He may bestow upon you a blessing this day. Such a colossal crime as that must be expiated before the Lord could again bless the chosen race.
-
 
 ---
 [[Sermon 2882 Forgiveness and Fear|← #2882]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2885 Christ's Sympathy With His People|#2885 →]]

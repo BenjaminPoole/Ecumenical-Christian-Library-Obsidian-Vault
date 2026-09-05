@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # A New Year's Retrospect And Prospect
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2342
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "LORD, You have heard the desire of the humble: You will prepare their heart, You will cause Your ear to hear." Psalm 10:17.
 
@@ -123,7 +120,7 @@ When it is said, "You will cause Your ear to hear," does it not mean that the Lo
 
 And as for such as were not saved when they came into the Tabernacle this evening, I trust that God will, this very night, make them desire to believe on the Lord Jesus Christ—and He will hear their desire and lead them to look to the Lamb of God who takes away the sin of the world! As we who love the Lord come to the Communion Table, we can use our text, for I am sure the desire of the humble is that they may see Christ in the Supper. "Lord, You have heard the desire of the humble: You will prepare their heart." Oh, it is sad to go to the Lord's Table with an unprepared heart! Lord, prepare our heart to come to Your banqueting table, tonight and then, "You will cause Your ear to hear." You will grant us Grace to feed upon Christ and to be satisfied! May it be so to every communicant! The Lord bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: PSALM103.
+## Expositions by C. H. Spurgeon: Psalm 103
 
 One's heart naturally turns to this passage when one desires to magnify the Lord. It is specially suitable for a New Year's meditation.
 
@@ -176,7 +173,6 @@ Covenant mercy. Oh, if we do not praise God when we think of the Covenant, what 
 21\. Bless you the LORD, all you His host; you ministers of His, that do His pleasure. All living things, and all the forces and powers of Nature are calling upon men to praise the Lord! And all the hosts of God, the organs of Omnipotence, ring out the grand chorus, "Bless you the Lord."
 
 22\. Bless the LORD, all His work, in all places of His dominion: bless the LORD, O my Soul. I must not go grumbling up to Heaven, nor stumbling among the works of God. I must gratefully come to Him and, myself, praise Him! And so, with the Psalmist, I cry, "Bless the Lord, O my Soul."
-
 
 ---
 [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2343 Faint—but Not Faint-Hearted|#2343 →]]

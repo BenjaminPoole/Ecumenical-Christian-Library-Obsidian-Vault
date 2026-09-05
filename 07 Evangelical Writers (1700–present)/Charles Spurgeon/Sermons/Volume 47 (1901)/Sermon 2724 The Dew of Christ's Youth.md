@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Dew of Christ's Youth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2724
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have the dew of Your youth." Psalm 110:3.
 
@@ -91,7 +88,7 @@ You have heard, perhaps, the story of a party of travelers who were crossing the
 
 "But," says one, "we shall not need Him in Heaven." Who told you that? Whoever told you so has certainly misled you. Not need Christ in Heaven? Why, Beloved, if you could take Christ away from Heaven, you would take Heaven away, altogether, and leave every saint in Hell! They do not "need" Christ in Heaven, in one sense of the word, because they have Him—therefore they do not "need" Him as the Scotch use the word "need." But they still need to have Christ with them every hour, for He is the sum and substance of Heaven. If I shall not need Christ to cleanse me in Heaven, yet I shall need Christ to commune with me. If I shall not need His blood to wash me, yet I shall need the offering of praise wherewith to bless and honor God. If I shall not need to pray to Him, I shall need to praise Him. If I shall not need Him to forgive me, yet I shall need Him to embrace me. If I shall not need Him as a Shepherd, I shall need Him as a Husband, as a Priest, as a King so that I may forever serve Him with joy and gladness!
 
-III. WHAT ARE THE LESSONS WE SHOULD LEARN FROM THIS TRUTH?
+## III. What Are the Lessons We Should Learn from This Truth?
 
 The first is for the pulpit, a lesson of admonition. Dear Brothers, we who occupy the pulpit must take care that we never, for a moment, entertain the idea that the Gospel has become worn out. It still has the dew of its youth. There is a good deal of nonsense talked about a Gospel adapted to the times. People say that the way Whitefield preached and the way that John Berridge and Rowland Hill preached was all wrong. True, many sinners were converted under their ministry, but, you know, sinners were different, then, from the sinners of these day, who do not need the same sort of preaching. Some say that the devil himself is improved, but I find him worse if anything—improved the wrong way! They say that sinners are improved and do not need to be addressed with the same fiery, burning words as of old. They say that they do not need the same simple preaching of Christ. The 19th Century has become so learned that it has advanced beyond the simple knowledge of Christ Crucified! It has become so erudite, that the simplicity of the Gospel is far behind it! It has marched on so far ahead that it has left the Cross miles in the rear!
 
@@ -109,8 +106,7 @@ I have just another word to add, and that is, a word of aspiration. If Christ ha
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2723 God's Dealings With Egypt and Israel|← #2723]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2725 Elijah Fainting|#2725 →]]

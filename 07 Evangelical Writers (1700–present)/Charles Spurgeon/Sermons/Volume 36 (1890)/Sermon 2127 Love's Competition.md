@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Love's Competition
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2127
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Tell Me therefore, which of them will love him most? Simon answered and said, I suppose that he, to whom he forgave most. And He said unto him, You have rightly judged." Luke 7:42, 43.
 
@@ -154,7 +151,6 @@ Jehu talked in that fashion—but he was good for nothing. Do your personal part
 Stoop down and kiss and kiss again those blessed feet which traveled so far in love for you! Throw your whole soul into your deed of love. "Why," they will say, "Mrs. So-and-So is enthusiastic! She is quite carried away by her zeal." Let it be true more and more! Never mind what the cold-hearted think, for they cannot understand you. They will say, "Ah, that young person is too fast by half." Never mind. Be faster still! Wise people cry out, "He has too many irons in the fire." But I say to you, heat up the fire! Get all the irons red hot and hammer away with all your might! With all your strength and energy plunge into the service of your Master! If you love your Master, you can best show your love by ardent service. The Lord bless you with the utmost degree of love, for Jesus Christ's sake! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON— Psalm 18.
-
 
 ---
 [[Sermon 2126 Something Done for Jesus|← #2126]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2128 Heaven Above and Heaven Below|#2128 →]]

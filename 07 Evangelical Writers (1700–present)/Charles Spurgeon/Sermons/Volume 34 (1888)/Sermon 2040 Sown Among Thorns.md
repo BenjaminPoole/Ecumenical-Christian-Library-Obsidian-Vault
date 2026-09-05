@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Sown Among Thorns
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2040
@@ -97,8 +96,7 @@ May we meet in heaven! Oh, may we all meet in heaven! What a congregation I have
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Matthew 13:1-23.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’916, 643, 30.
-
+## Hymns from "Our Own Hymn Book"’916, 643, 30
 
 ---
 [[Sermon 2039 Crossing the Jordan|← #2039]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2041 Jesus Known by Personal Revelation|#2041 →]]

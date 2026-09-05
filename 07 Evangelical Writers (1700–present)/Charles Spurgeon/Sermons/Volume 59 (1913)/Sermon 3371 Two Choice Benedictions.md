@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Two Choice Benedictions
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3371
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Speak unto Aaron and unto his sons, saying, on this wise you shall bless the children of Israel, saying unto them, The Lord bless you, and keep you: the Lord make His face shine upon you, and be gracious unto you; the Lord lift up His countenance upon you, and give you peace. And they shall put My name upon the children of Israel; and I will bless them." Numbers 6:23-27.
 
@@ -27,7 +24,7 @@ DELIVERED BY C. H. SPURGEON,.
 
 IT seemed to me that as this was the last of the Thursday evenings of the dying year and I should no more meet some of you who only come here on Thursday evenings during this year, it would be well for us to close the year as our Master closed His life on earth, with a benediction—and, oh, it will be a rich enjoyment in the year to come if, by God's Grace, we shall be able to grasp and make our very own the precious things which are here presented to the whole redeemed family of the living God! I shall begin, therefore, first of all with—
 
-I. THE AARONIC BLESSING.
+## I. The Aaronic Blessing
 
 This was pronounced at the close of the public tabernacle service when the people were about to separate, the one from the others. It is said by the Rabbis to have been only spoken at the morning sacrifice, but not in the evening because, say some, the old faith of the few gave them the early blessing. But it remained for Christ to come in the eventide of the world, at the end of time, to give us the evening blessing, the blessing of the great, eternal, evening Sacrifice.
 
@@ -79,7 +76,7 @@ If we stopped here tonight and went no further, provided we got these blessings 
 
 Now, I shall ask your attention for a little while to the second blessing, that spoken in God's name by the Apostle Paul, in the Second Epistle to the Corinthians. "The Grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen." Here we have—
 
-II. THE NEW TESTAMENT BENEDICTION.
+## II. The New Testament Benediction
 
 This second blessing is precisely like the first as to its essence and substance. But there is some little difference as to the expression and circumstance. The first thing that strikes me in reading it through, as it almost always does when I pronounce it, is this—you notice it begins with the Lord Jesus Christ The Lord Jesus is the Second Person of the blessed Divine Unity—Father, Son and Holy Spirit—but this benediction begins with the Son of God. Why is that? In the order of Doctrine and fact, all infinite blessings begin with the Father. He is the Fountainhead of Creation. He is the Fountain, Christ the channel and the Holy Spirit produces the grand results. Father first, Son next, Spirit third. But in the order of experience—the order in which the blessing comes—it is always the Son first. "No man comes unto the Father but by Me." Not the Father first, but the Son first! What a sinner learns to comfort him first is not that the Father loves Him. No. He learns first of all that Jesus Christ died for sinners because God loves Him—and so he puts his trust in Him. The first thing a poor Believer gets, then, is Grace through Jesus Christ. After that, perhaps, he may sometimes think that God the Father has no love towards him, but as he begins to read his Bible and to experience more of Divine Grace in his heart, he finds that God the Father is full of love. So, then, he goes on and gets the love of God the Father. And when he knows this, perhaps he often wonders what communion may be of, and fellowship. And when he hears some of those delightful hymns which we sing at the Lord's Supper, he thinks he shall never get to them—to talk with God, to have communion with Christ—but, by-and-by, as the Lord leads him on, from being a babe, he grows to be a man and he gets into communion with the Holy Spirit. Babes in Grace know "the Grace of our Lord Jesus Christ." But as they grow they discover "the love of God our Father." And as they grow still more, they come to "the fellowship of the Holy Spirit." The three things are put in the order of experience, not in the order of fact, nor the order of Doctrine.
 
@@ -128,7 +125,6 @@ In the first case there was a confirmation and in the second case there is one a
 But I notice in the Apostolic benediction there is one thing which there is not in the first, namely, the communion, that is, the privilege—the privilege which comes to a child of God in this age of bliss when Christ is fully revealed. Did you ever notice that when John was born, an angel appeared to his father, Zacharias, to announce that Christ was come? No sooner did that bell begin to ring to tell that Christ was coming, than what happened? The greatest blessing was about to be pronounced and, therefore, the smaller blessing had to be silenced. When Zacharias came out, he was expected to bless the people, but what did he do? He could not speak a word—he was speechless and he beckoned with his hand—and that morning the assembly went home without the benediction! The priest could not pronounce it. Now, I dare say they said one to another, "What a strange thing it was. We always had that benediction before, 'The Lord bless you, and keep you,' but this morning the priest could not speak a word." You and I know what that means. We must stop that one because there is a better coming! God seemed, as it were, to give notice to His people, "I am about to hush the voice of Aaron because Melchisedec is coming. I am about to stop the sound of the symbolic, because the real Priest is coming. I am about to hush the voice of Zacharias because the Son of God is now to appear and declare that the fullest blessing of Jehovah will rest upon His people."
 
 Now, let us go our separate ways tonight, guided home, I trust, safely and rightly. And let us feed upon and make our soul's bread the two precious texts that have been before us. And I am not afraid but that you will be like those who went out to gather the manna—you shall each have enough! He who needs much shall have in abundance and he who requires little shall have no lack. Let us close by singing the blessing and go our way to turn all life into a song of gratitude for God's rich benedictions! Amen.
-
 
 ---
 [[Sermon 3370 Our Leader Through the Darkness|← #3370]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3372 Conversion and Character|#3372 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Silly Dove
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2984
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ephraim is like a silly dove without heart." Hosea 7:11.
 
@@ -93,11 +90,11 @@ Remember, too, that some of the vilest sinners that have ever livedhave been man
 
 May the Spirit of the living God stir you up to this, for, if not, I have one more consideration to urge upon you. Remember how soon you may be in Hell And they who go there, if they have been such as you are, go there with a vengeance. To go from under the shadow of the pulpit to the Pit is terrible. To go from the Communion Cup, to drink the cup of devils—from the song of saints to the weeping, and wailing, and gnashing of teeth of lost souls—from all the hallowed joys of God's Sabbath, of God's House and of His Word, down to the unutterable infamy of spirits that have no love of God, but curse Him day and night—my Hearers, that may be your lot within an hour, a week, a year! It matters not what the period may be, for if it ever is your lot, the time past shall seem to have been but the twinkling of an eye for its joy, though it may appear to you to have been ages for the awful responsibility which the day of mercy will have entailed upon you. Repent and be baptized, everyone of you!" As Peter said, so say I! If you have not as yet received Christ, lay hold on eternal life and oh, that the Spirit of the living God, while I preach the Word generally, may apply it particularly, finding out His own chosen and gathering them out of the ruins of the Fall, that they may be jewels in the crown of the Redeemer! The Lord make us doves, but God forbid that we should be "silly doves without heart."
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 www.spurgeongems.org
 
-PSALM 88:10-61; 1 PETER 4:1-13.
+## Psalm 88:10-61; 1 Peter 4:1-13
 
 The story of how the children of Israel behaved themselves towards their gracious God.
 
@@ -148,7 +145,6 @@ limited the Holy One of Israel In their unbelieving imagination, they circumscri
 9, 10. Use hospitality, one to another, without grudging. As every man has received a gift, even so minister the same, one to another, as good stewards of the manifold Grace of God. Whatever "the gift" is, whether it be money, or talent, or Divine Grace, "even so minister the same, one to another, as good stewards of the manifold Grace of God." God gives much to you that you may give it to others—it is only meant to run through you as through a pipe. You are a steward and if a steward should receive his lord's goods, and keep them for himself, he would be an unfaithful steward. Child of God, see to it that you faithfully discharge your responsibility as one of the "good stewards of the manifold Grace of God."
 
 11-13. If any man speaks, let him speak as the oracles of God; if any man ministers, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion forever and ever. Amen. Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you. But rejoice, inasmuch as you are partakers of Christ's sufferings; that when His glory shall be revealed, you may be glad, also, with exceeding joy. If you do not share in Christ's humiliation, how can you expect to share in His exaltation? But if worldlings begin to rebuke and reproach you, take it for granted that they can discern something of Christ in you. Dogs do not usually bark at those who live in the same village with them—it is only at strangers that they bark. And when ribald tongues are lifted up against you, you have reason to hope that you are a stranger and a foreigner to the citizens of this world, for they love their own, as our Savior reminded His disciples, "If you were of the world, the world would love his own: but because you are not of the world, but I have chosen you out of the world, therefore the world hates you"
-
 
 ---
 [[Sermon 2983 A Wonderful Transformation|← #2983]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2985 Messages to Sinners and Saints|#2985 →]]

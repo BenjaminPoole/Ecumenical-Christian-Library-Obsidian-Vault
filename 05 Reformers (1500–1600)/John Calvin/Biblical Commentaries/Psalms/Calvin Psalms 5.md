@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 5
-
-**PSALM 5.**
 
 David being grievously oppressed by the cruelty of his enemies, and apprehending still more mischief, earnestly beseeches God for help. And the more easily to obtain what he asks, after having, by the earnestness of his prayers, manifested the greatness of his grief, he first brings forward the intolerable malice of his enemies, showing how inconsistent it would be with the character of God, were they to be left unpunished. He next speaks of his own faith and patience, and even comfort; having no doubt whatever of a happy issue. Finally, he concludes, that when he shall be delivered, the benefits resulting from his deliverance would not be limited to himself, but would extend to all the godly.
 

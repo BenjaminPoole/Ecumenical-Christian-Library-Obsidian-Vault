@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Seeing and Testifying
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2383
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And we have seen and testify that the Father sent the Son to be the Savior of the world." 1 John 4:14.
 
@@ -132,7 +129,6 @@ Verse 1. Beloved, believe not every spirit, but try the spirits whether they are
 18-20. Because fear has torment. He that fears is not made perfect in love. We love Him because He first loved us. If a man says I love God, and hates his brother, he is a liar. That is very plain language! John does not mince matters. He is all love, but he is also all truth. Some people think that if you love, you will never use strong language, but that is not the case. Sometimes, because a surgeon loves the patient, he cuts the more deeply.
 
 20, 21. For he that loves not his brother whom he has seen, how can he love God whom he has not seen? And this commandment have we from Him, That he who loves God, loves his brother, also. Now I do not know to whom this message may specially apply in all this great congregation, but there is the Word of God as plain as a pike-staff! If you do not live in love, you do not live in God! and if any of you are harboring any animosities, ill-feelings and unkindnesses, get rid of them, get rid of them at once! The sun has well near gone down—remember the Apostle Paul's injunction, "Let not the sun go down upon your wrath," but, as God has forgiven you, forgive all others for Christ's sake, and dwell in a loving-hearted Christ-like spirit toward all mankind.
-
 
 ---
 [[Sermon 2382 The Holy Spirit's Chief Office|← #2382]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2384 Forget You, I Will Not|#2384 →]]

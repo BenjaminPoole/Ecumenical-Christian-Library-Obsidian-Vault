@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Vision of the Field
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3001
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For behold, I am for you, and I will turn to you, and you shall be tilled and sown." Ezekiel 36:9.
 
@@ -27,7 +24,7 @@ The mountains of Israel were a soil of glass in which you could see reflected, a
 
 I intend to take the hills of Israel as a representation of our own state—the state of our own heart. As they really did mirror forth the condition of the people of old, the metaphor becomes peculiarly attractive. I shall divide the subject thus—first, man's heart, by nature, is like a waste field. Secondly, there is no hope for that field unless Godshall turn to it in mercy. Thirdly, when Hie does turn to it, He will have to till it, for, lastly, not until after tillage can it be sown with any hope of success.
 
-I. MAN'S HEART, BY NATURE, IS LIKE A WASTE FIELD.
+## I. Man's Heart, by Nature, Is Like a Waste Field
 
 A waste field produces no harvest. Reaper, you shall never fill your arms with sheaves, the axle of the wagon shall never creak beneath the load of harvest and the young men shall never dance with the maidens at the harvest home. Let the field lie waste and the fruit it will yield in a whole century will not be sufficient to feed a single individual!
 
@@ -51,7 +48,7 @@ A barren field resembles the heart of man in that all the good influences that f
 
 Yet the waste field does produce something pleasant to the eyes, something worth looking at, for have you not seen the gorgeous poppy and the finest specimens of the ranunculus growing in the field that was never plowed and sown? And there is the dog-rose yonder and the foxglove, and the forget-me-not, all springing up and flourishing where there should have been furrows for wheat! And so a man may have a comely appearance and make a fair show in the flesh, although he does not live near to God. In his character and reputation, there may be many a gaudy flower—yes, as red and as conspicuous as the poppy. He may shine among men and men may talk much about him. But, as the Lord lives, if the Lord's plow has never gone over him, the bright blushing weeds are still just weeds! A poison and a pest, not a blessing or a balm—as the farmer right well knows. Let those of you who are in such a state see an apt emblem of yourselves every time you pass a piece of waste ground, and say, "That is just what we are, and what we shall be to the end of our lives, unless the Grace of God shall interfere to retrieve us from endless ruin."
 
-II. THERE IS NO HOPE FOR THIS FIELD UNLESS GOD SHALL TURN TO IT IN MERCY.
+## II. There Is No Hope for This Field Unless God Shall Turn to It in Mercy
 
 Even so, unless the Lord shall turn to men, no good will ever come of them. The text says, "I am for you, and I will turn to you." Man never does of himself turn to God, and that for obvious reasons. We are sure he never can, for he is "dead in trespasses and sins." We are certain he never will, for by nature he hates anything like a new birth. And if he could make himself a new creature, he would not, for Christ has expressly said, "You will not come unto Me that you might have life." Man is unwilling to give up sin—he loves it too much—he is unwilling to be made holy for he has no time for spiritual things. God, then, must come to man, for how can man, being naturally dead, and naturally unwilling, ever come to God? Experience tells us that he will not. When did you ever find a man who had come to God—who would say that he came of his own natural inclination? All the saints on earth will tell you that it was Almighty Grace that made them willing in the day of God's power. If there is any man who ever came to God of himself, I can only say that I know I am not that man—
 
@@ -61,7 +58,7 @@ If any unconverted person here will tell me that he can turn to God when he like
 
 Oh, that you could now see your wretched plight, that you could feel your imminent peril, that you could believe in the Sovereign operations of God's Grace! Then would I venture to prophesy that salvation had this day come to your house—yes, to your very heart!
 
-III. WHEN THE FIELD IS TO BE PUT UNDER CULTIVATION, IT MUST BE TILLED.
+## III. When the Field Is to Be Put Under Cultivation, It Must Be Tilled
 
 So, when God turns to any man in His mercy, there has to be an operation, a tillage, performed upon his heart! The farmer, unless he is a fool, would never think of sowing his corn upon a field that remains just as it was when it lay fallow. He plows it first. Although we are to scatter the seed everywhere, upon the wayside as well as upon the good ground, God never does. Common calling is addressed to every man, but effectual callingcomes only to prepared men, to those whom God makes "willing in the day of His power."
 
@@ -87,7 +84,7 @@ The laborers whom the Lord employs are dissimilar, likewise, by the diversity of
 
 And, you know, the farmer has his proper time for plowing. Some soils will do better at one season and some at another. There are some soils that break up best after a shower of rain and some that do best when they are dry. There are some hearts, and I think almost all hearts—that are best plowed after a shower of heavenly love has fallen upon them. They are in a grateful frame of mind for mercies received and then the story of a dying Savior comes to them as just that which will touch the strings of their hearts. Anyway, dear Friends, I would like to pass the question around, Have you been tilled? Has your heart been tilled? Has the soil of your heart been turned up? Have the secret things of your heart been discovered and brought to light, just as the plow turns up the ants' nest? Have you been brought to know your own corruptions? Are there straight furrows right through you so that you can cry out, "O God, You have broken me in pieces, be pleased to come to my help"? Then I am glad of it. You are ready to despair of yourself, but I am not ready to despair for you. You tremble, but I am encouraged. I rejoice, not that you are made sorry, but that you sorrow to repentance after a godly manner! God has broken your heart and I know that He will bind it up. If He has plowed you, He will sow you, as He said to the mountains of Israel, "I will turn to you, and you shall be tilled and sown."
 
-IV. UNLESS GOD HAS TILLED THE HEART, IT CANNOT BE SOWN WITH ANY HOPE OF SUCCESS.
+## IV. Unless God Has Tilled the Heart, It Cannot Be Sown with Any Hope of Success
 
 After plowing, there comes the sowing. When the heart is ready, God sows it—sows it with the best of wheat. The wise farmer does not sow tail corn but, as Isaiah says, he casts in "the principal wheat." The seed which God sows is living seed. If a farmer were to sow boiled seed that has lost its vitality, what would be the good of it? But he sows living seed. And so the Truth of God which Jesus Christ preaches and bids us to scatter, is living wheat—living seed—and when that drops into the soil, God watches over it. The grub may come and the crow may come, but none of these shall get the seed—
 
@@ -97,7 +94,7 @@ and up it shall spring—"first the blade, then the ear, after that the full cor
 
 Now, I want to scatter a handful of the good Seed of the Kingdom. "Believe on the Lord Jesus Christ, and you shall be saved." Trust Jesus, and you are saved. There—I saw a handful of that Seed go on the wayside and another handful went upon some of you who are choked with thorns. But if there is a broken heart here, the Seed has fallen upon good ground, for that broken heart says, "What? If I trust Christ, shall I be saved?" Yes, you will be saved in a moment! Every sin forgiven you in a moment, for Jesus Christ took your place and stood and suffered all the punishment of your sins! Therefore God having been just in punishing Christ instead of you, can let you go free, and yet be just as though He had sent you to Hell! If you trust Christ, the merit of His suffering and the virtue of His righteousness shall be yours. You shall go your way rejoicing because you have peace with God through Jesus Christ! Will you believe or not, Sinner? God give you the Grace to trust Christ! Trust Him now. And if you do, then I shall know that God has plowed you, that God has prepared you before He bade me drop in the Seed! Let those of us who know the power of prayer drag the harrow across the field, for when the Seed is once in, it needs harrowing. Thus let us preach the Word, and thus let us pray that the Seed may take root, spring up, grow and bring forth a hundredfold! So sinners shall be saved and so God shall be glorified!
 
-EXPOSITION BY C. H. SPURGEON: ECCLESIASTES 11:6-10; 12.
+## Exposition by C. H. Spurgeon: Ecclesiastes 11:6-10; 12
 
 Ecclesiastes 11:6. In the morning sow your seed, and in the evening withhold not your hand: for you know not whether shall prosper, either this or that, or whether they both shall be alike good. It is our business to sow the good Seed of the Kingdom, to sow it broadcast, to sow it at all times—"In the morning sow your seed, and in the evening withhold not your hand." The result of our sowing does not rest with us, but with the great Lord of the Harvest. Some of the Seed may fall by the wayside, some among thorns, some upon a rock, or upon rocky ground with only a thin layer of earth; but if God has called us to be sowers, and we really sow Gospel Seed, some of it will fall into good ground and bring forth fruit, thirtyfold, sixtyfold, or even a hundredfold!
 
@@ -138,7 +135,6 @@ priest to be offered on God's altar, there were to be "green ears of corn, dried
 13\. Let us hear the conclusion of the whole matter: Fear God, and keep His commandments: for this is the whole duty of man. Reverent walking before the Most High. Reconciliation to Him so that we can thus walk and thus live, and all this proved by a life of obedience to His commandments—"This is the whole duty of man."
 
 14\. For Godshall bring every work into judgment, with every secret thing, whether it is good, or whether it is evil Notice that expression, "every secret thing." It is not merely our public actions that God will judge, otherwise we might be more at our ease—but He takes account of our most private thoughts, words, deeds and intents. Who among us can endure that ordeal? Yet we must endure it if we are to stand before Him. O Lord, prepare us, by Your Infinite Grace, through faith in Your dear Son, and by the regenerating work of Your gracious Spirit, for this solemn testing time! Amen.
-
 
 ---
 [[Sermon 3000 COME AND WELCOME|← #3000]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3002 The Best Thing in the Best Place|#3002 →]]

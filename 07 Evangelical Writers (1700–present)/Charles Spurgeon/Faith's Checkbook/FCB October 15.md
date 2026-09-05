@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 15
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SUSTAINED BY FEEDING**
+## **Sustained by Feeding**
 
 > As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me" John 6:57
 
@@ -23,7 +22,6 @@ We live by virtue of our union with the Son of God. As God-man Mediator, the Lor
 This is set forth to us in the Lord's Supper, but it is actually enjoyed by us when we meditate upon our Lord, believe in Him with appropriating faith, take Him into ourselves by love, and assimilate Him by the power of the inner life. We know what it is to feed on Jesus, but we cannot speak it or write it. Our wisest course is to practice it, and to do so more and more. We are entreated to eat abundantly, and it will be to our infinite profit to do so when Jesus is our meat and our drink.
 
 Lord, I thank thee that this, which is a necessity of my new life, is also its greatest delight. So, I do at this hour feed on thee.
-
 
 ---
 [[FCB October 14|← October 14]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 16|October 16 →]]

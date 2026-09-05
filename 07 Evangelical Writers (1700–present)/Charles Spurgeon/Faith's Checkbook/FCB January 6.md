@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 6
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HELP FROM WITHOUT**
+## **Help from Without**
 
 > Yea, I will help thee." Isa. 41:10
 
@@ -23,7 +22,6 @@ Yesterday's promise secured us strength for what we have to do, but this guarant
 His help is timely: He is a very present help in time of trouble. His help is very wise: He knows how to give each man help meet and fit for him. His help is most effectual, though vain is the help of man. His help is more than help, for He bears all the burden, and supplies all the need. "The Lord is my helper, I will not fear what man can do unto me."
 
 Because He has already been our help, we feel confidence in Him for the present and the future. Our prayer is, "Lord, be thou my helper"; our experience is, "The Spirit also helpeth our infirmities ; our expectation is, "I will lift up mine eyes unto the hills, whence cometh my help"; and our song soon will be, "Thou, Lord, hast holpen me."
-
 
 ---
 [[FCB January 5|← January 5]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 7|January 7 →]]

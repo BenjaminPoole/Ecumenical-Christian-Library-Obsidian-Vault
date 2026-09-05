@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 30. Decade 3, Sermon 5, Part 2
 
 [4 septimanas, Lat.] [5 vel calendas, Lat.]
@@ -20,7 +19,7 @@ tags:
 
 [BULLINGER, n.J
 
-162 THE THIRD DECADE.
+## 162 the Third Decade
 
 to the glory of God and remembrance of his great benefits.
 
@@ -48,7 +47,7 @@ The third kind of holy days doth contain the feasts that The three return once e
 
 [7 festum mensis septimi, Lat.; the feast of the seventh month.] [8 So the marg. of Auth. Ver.] [9 to shoot into a long small stalk. Johnson's Diet.]
 
-164 THE THIRD DECADE.
+## 164 the Third Decade
 
 seldom times use such dispensations. The Lord in one place promiseth that he will defend and keep the bounds and substance of them that travel to seek his name. Howsoever those dispensations were admitted, yet this is most sure, as appeareth by all histories, that at those feasts were very great assemblies1.
 
@@ -80,9 +79,9 @@ Upon the tenth day of the same month was held the feast The feast of of cleansin
 
 [8 deinde vero, Lat.; and afterwards.] p Levit. xvi. 21. See Lightfoot's Temple Service, chap, xv.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 [Lev.) 42, 43.
 
@@ -106,13 +105,13 @@ In that jubilee was contained very evidently the mystery
 
 Thus much have I said of the holy time or holy days, as briefly as possibly I could. The rest is at the full to be seen in the twenty-third of Exodus, Levit. xxiii., Numb, xxviii. and xxix., Deut. xvi. That which is behind touching this argument (I mean, touching the Jewish ceremonies) I will by God's leave make an end of in the next sermon. Now let us make our humble prayers and supplications unto God, &c.
 
-OF THE SACRAMENTS OF THE JEWS ; OF THEIR SUNDRY
+## Of the Sacraments of the Jews ; Of Their Sundry
 
-SORTS OF SACRIFICES, AND CERTAIN OTHER
+## Sorts of Sacrifices, and Certain Other
 
-THINGS PERTAINING TO THEIR
+## Things Pertaining to Their
 
-CEREMONIAL LAW.
+## Ceremonial Law
 
 ---
 [[Bullinger Dec 29 Decade 3, Sermon 5, Part 1|← 29. Decade 3, Sermon 5, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 31 Decade 3, Sermon 6, Part 1|31. Decade 3, Sermon 6, Part 1 →]]

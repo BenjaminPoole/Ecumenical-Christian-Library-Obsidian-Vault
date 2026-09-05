@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # What Is the Wedding Garment?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2024
 
-DELIVERED ON LORD'S DAY MORNING, MAY 20, 1888,.
+*Delivered on Lord's Day Morning, May 20, 1888*
 
 > "And when the king came in to see the guests he saw there a man which had not on a wedding garment: and he said unto him, Friend, how came you in here not having a wedding garment? And he was speechless. Then said the king to the servants, Bind him hand and foot and take him away and cast him into outer darkness; there shall be weeping and gnashing of teeth." Matthew 22:11-13.
 
@@ -168,7 +167,6 @@ Do not risk your eternal future. Come to the Church of God and join it but do no
 I am thinking just now of all those other hundreds of people at the wedding, all of them clothed with the wedding garment. What joy they felt! Many had been bad and all had been poor—but they all had the wedding garment and not
 
 one of them was cast out. If you will but put your trust in Jesus and so honor the Son—and rest in the love of the Father and so honor the King, it is written, "Him that comes to Me I will in no wise cast out." God bless you for Jesus' sake! Amen. Amen. Amen.
-
 
 ---
 [[Sermon 2023 The Blessing of Full Assurance|← #2023]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2025 The Tender Enquiry of a Friend|#2025 →]]

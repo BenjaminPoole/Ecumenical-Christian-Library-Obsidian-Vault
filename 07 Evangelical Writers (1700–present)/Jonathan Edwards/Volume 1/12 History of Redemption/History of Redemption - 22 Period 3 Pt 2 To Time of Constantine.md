@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-THE SUCCESS OF REDEMPTION FROM THE DESTRUCTION OF JERUSALEM, TO THE TIME OF CONSTANTINE.
+*The Success of Redemption from the Destruction of Jerusalem, to the Time of Constantine*
 
 Jerusalem was destroyed about the year of our Lord sixty-eight, and so before that generation passed away which was contemporary with Christ. The destruction of the heathen empire under Constantine, was about two hundred and sixty years after this. In showing how the success of the gospel was carried on through this time, I would, 1. Take notice of the opposition made against it by the Roman empire. 2. How the work of the gospel went on notwithstanding all that opposition. 3. The peculiar circumstances of tribulation and distress that the church was in just before their deliverance by Constantine; and 4. The great revolution in Constantine’s time.
 

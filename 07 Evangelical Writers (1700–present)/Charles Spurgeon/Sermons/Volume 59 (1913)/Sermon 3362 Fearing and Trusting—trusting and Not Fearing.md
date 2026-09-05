@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Fearing and Trusting—trusting and Not Fearing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3362
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What time I am afraid, I will trust in You." Psalm 56:3.
 
@@ -55,7 +52,7 @@ A little child was at play in a lower room and as he played away by himself, amu
 
 A second great fear, through which some of you have never passed, but through which all must pass who enter into Heaven, is a—
 
-II. FEAR CONCERNING THE GUILT OF PAST SIN.
+## II. Fear Concerning the Guilt of Past Sin
 
 Do not tell me with regard to temporal troubles that they are sharp and bitter! Believe me, that trouble for sin is far more bitter and keen. Do you remember when God was pleased to awaken you from your long sleep—when you looked within and saw that you were all defiled, full of pollution and all manner of evil? Do you recollect how the thoughts
 
@@ -69,7 +66,7 @@ Now, it is a blessed thing when sin burdens us to fly away to Christ and stand i
 
 Now, I know it is very easy when we do not feel our sins to trust in Christ, but the business of faith is to trust in Christ when you do feel your sins! Brothers and Sisters, it would be cheap faith to take Christ as the saints' Savior, but it is the faith of God's elect to take Him as the sinner's Savior. When I can see marks of Grace in myself, to trust Christ is easy—but when I see no marks of anything good, but every mark of everything that is evil and then come and cast myself upon Him and believe that He can save me, even me, and rest myself upon Him—this is the faith which honors Christ and which will save us! May you have it and such time as you are afraid of sin, may you trust in Christ! A third fear, which is remarkably common, is a—
 
-III. FEAR LEST WE SHOULD BE DECEIVED.
+## III. Fear Lest We Should Be Deceived
 
 Among the best and most careful of Believers this fear intrudes itself, "Lest, after having preached to others, I myself should be a castaway." Lest, after having been united to the Church, I should prove to be a dead member and so be cut out of the living vine. All these fears have I met with. One has said, "I fear I was never chosen of God." Another has said, "I fear I never was effectually called." And yet a third has said, "I fear I never possessed the repentance that needs not to be repented of." Still others have confessed, "I am afraid my faith is not the faith of God's elect." Very frequently have I heard this, "I am afraid I am a hypocrite," which is one of the oddest fears in all the world, for nobody that isa hypocrite was ever afraid of it! It is the hypocrite who goes on peacefully, without fear, confident where there is no ground for confidence. But these fears abound and, in some respects, they are healthy. Better to go to Heaven doubting, than to Hell presuming! Better to enter into life crippled and maimed, than having two eyes and hands, and feet, to be cast into the
 
@@ -85,7 +82,7 @@ Beloved, whatever may be the doubt that comes to you tonight, I beseech you reme
 
 But we cannot tarry upon that. A fourth fear, which is frequent enough to cause Christians much distress, is—
 
-IV. A FEAR THAT WE SHALL NOT HOLD ON AND HOLD OUT TO THE END.
+## IV. A Fear that We Shall Not Hold on and Hold out to the End
 
 Many thousands of God's saints are quite unnecessarily troubled with this. Remember that where God begins to work, He does not ask usto finish. He always completes His own work. If you have begun the work of salvation, you will have to carry it on, but if God has begun the good work in you, He will carry it on and bring it to its perfection of completeness in "the day of Christ." Yet there are thousands who say, "Should I be tempted, I might fall! Working as I do with so many others, none of whom fear God, but who sneer and ridicule at Divine things, I might, perhaps, turn aside and prove like one of them." It is very proper that you should have that fear, very proper that you should be distressed at it—
 
@@ -93,7 +90,7 @@ Many thousands of God's saints are quite unnecessarily troubled with this. Remem
 
 But, dearly Beloved, what time you are afraid, do not say, "I shall be able to hold out"—do not trust in yourselves, or you will trust a broken reed—but what time you are afraid, renew your trust in Christ! Go with the temptation which you now experience and which you expect to return tomorrow, to the Lord and He will, with the temptation, show the way of escape out of it. I remember a miner who had been a sad, drunken man, and a great blasphemer, but he was converted among the Methodists—and a right earnest man he was! But he seemed to have been a man of strong passions and, on one occasion when he was praying, he prayed that sooner than that he might ever go back to his old sins, if God foresaw that he would not be able to bear up under the temptation, He would take him to Heaven at once! And while he was praying the prayer in the Prayer Meeting, he fell dead! God had answered him. Now, if you are to be tried in the order of Providence in a way that you cannot bear and there is no other way of escape for you, God will take you clean away to where no temptation shall ever come near you! What time you are afraid, put your trust in Him and all will be well! The last fear I have to mention, and then I shall have done with my first text, is this—
 
-V. THE FEAR OF DEATH.
+## V. The Fear of Death
 
 There are some "who, through fear of death, are all their lifetime subject to bondage." But Christ came to deliver such—and where Christ works, He delivers us from that fear! Beloved, do you ever get afraid of death? You do, perhaps, when you feel very sick or when you are very ill and low spirited. You begin to look ahead and you say, "I have run with the footmen and they have wearied me. What shall I do when I have to contend with the rider on the pale horse? My trials have been so great that I have scarcely found faith enough to bear them! What shall I do in the last great trial of the swellings of Jordan?" Now, what ought you to do at the time you are afraid of dying, but to say with David, "What time I am afraid, I will trust in You"? Oh, fear not to die! If you are in Christ, death is nothing! "But the pain, the dying strug-
 
@@ -141,7 +138,7 @@ Now, you who are full of doubts, fears and troubles, you know the way to be safe
 
 Let us take the fears which we have already mentioned over again. Faith saves from—
 
-I. THE FEAR OF TEMPORAL TROUBLE.
+## I. The Fear of Temporal Trouble
 
 The man who fully trusts in God is not afraid of temporal trouble. You have read, perhaps, the life of Bernard Palis-sy, the famous potter. He was confined for many years on account of his religion and he was only permitted to live at all because he was such a skillful workman that they did not want to put him to death. King Henry the Third of France said to him, one day, "Bernard, I shall be obliged to give you up to your enemies to be burned unless you change your religion." Bernard replied, "Your Majesty, I have often heard you say you pity me, but believe me I greatly pity you, though I am no king but only a poor humble potter. There is no man living that could compel me to do what I believe to be wrong—and yet you say you will be compelled—those are kingly words for you to utter!" And he could say this to the king, in whose hands his life was! Bernard was a very poor man. As I have told you, he used to earn his bread by making pottery. And he used to say, in his poverty, that he was a very rich man, for he had two things—he had Heaven and earth. And then he would take up a handful of the clay by which he earned his living. Happy man! Though often brought to the depths of poverty, he could say, "I will trust and not be afraid."
 
@@ -163,11 +160,11 @@ I shall in safety reach my home,
 
 My God, my Heaven, my All." Oh, if we can all get to this brave assurance of faith, happy shall we be in the midst of the worst trouble! Faith also saves from the—
 
-II. FEAR CONCERNING PAST SIN.
+## II. Fear Concerning Past Sin
 
 He is in a blessed state who is delivered from such fear because he who is not is not afraid. One of you knows a man, perhaps, who has got into debt and who owed a great deal. But some little time ago a friend paid all his debts for him— and he has the receipt! Now, when he walks the streets, is this man afraid of the sheriff's officer? Does he fear that he shall be arrested? Why, no! He knows he shall not, because he carries the receipt with him! Every man who trusts Christ perceives his own sin, but he also perceives that Christ paid for all his sin. He that believes has the witness of his pardon in himself which he carries with him as a receipt and which eases his conscience and prevents his fears. Oh, if you can but know that Christ died for you! If you can but rest alone in Him so as to know that He is yours, then all the sins that you have ever committed, though you lament them, shall never cause you a moment's uneasiness, for they are drowned beneath the Red Sea of the Savior's blood and, therefore, you may say, "I will trust and not be afraid." As to that third fear which I mentioned—the fear lest we should be hypocrites, or—
 
-III. LEST THE WORK OF GRACE SHOULD NOT BE RIPENED IN OUR HEARTS—
+## III. Lest the Work of Grace Should Not Be Ripened in Our Hearts—
 
 There is one way of getting rid of that fear entirely! If you take a sovereign across the counter, you may not know whether it is a good one—you may have some doubts about it. But if you get it straight from the Mint, I do not suppose you will have any suspicion of it at all! So when a man asks, "Is my faith right? Is my religion right?" If he can say, "I got it straight from the Throne of God by trusting in the blood of Jesus Christ"—then he will know that he received it from Headquarters—and there can be no mistake about it! A Christian has no right to be always saying—
 
@@ -184,7 +181,6 @@ But as for little Master William, he is no sooner told that he is to go out on C
 So, Brothers and Sisters, it will be with other fears—time fails us to mention them—whatever they may be. May you get into such a blessed state of confidence in the love of God, in the love of Christ's heart, in the power of Christ's arm, in the prevalence of Christ's plea, that at all times you may trust in Him and in nothing, whatever, be afraid!
 
 God bring us all up to this second platform and give us Divine Grace to stay there—and happy shall you be and have a foretaste of Heaven upon earth! Amen.
-
 
 ---
 [[Sermon 3361 God's Valiant Right Hand|← #3361]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3363 Witnessing at the Cross|#3363 →]]

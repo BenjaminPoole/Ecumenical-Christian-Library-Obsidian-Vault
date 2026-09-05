@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 40. Letter XXXIX. To the Faithful Bohemians (November 16, 1414)
-
-LETTER XXXIX. TO THE FAITHFUL BOHEMIANS (November 16, 1414)
 
 Beware of false prophets ! The Day of Judgment is at hand ; Pray for me ; My journey to Constance ; The Sacrament has not been interrupted 164-6
 
 DISASTROUS RUMOURS; THE ATTEMPTED ESCAPE; THE ARREST OF Hus ; MASTER DIDACO ; IMPRISONED AT THE BLACKFRIARS ; CHLUM AND THE SAFE-CONDUCT; THE POWERLESSNESS OF SIGISMUND ; THE ILLNESS OF Hus ; REMOVED TO BETTER QUARTERS ; A LETTER FROM CHLUM : THE EFFORTS OF CHLUM ; PLBASE SEND CHLUM YOUB VIEWS ON THE CUP . 166-70 xxii CONTENTS
 
-PART V
+## Part V
 
-LETTERS WRITTEN DURING THE IMPRISON MENT AT THE BLACKFRIARS
+## Letters Written During the Imprison Ment at the Blackfriars
 
 Hus IN PRISON; His TRACTS; ORIGINALS LOST; PAPER RUNS SHORT . 171-2
 

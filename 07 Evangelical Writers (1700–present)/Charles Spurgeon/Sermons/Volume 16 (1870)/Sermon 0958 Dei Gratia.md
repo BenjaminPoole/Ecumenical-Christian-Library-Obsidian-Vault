@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Dei Gratia
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 958
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 30, 1870,.
+*Delivered on Lord's-Day Morning, October 30, 1870*
 
 > "To the praise of the glory of His Grace." Ephesians 1:6.
 
@@ -178,7 +177,6 @@ That is it! You have been fighting against God, standing out against Him, trying
 "A guilty, weak, and helpless worm, On Christ's kind arms I fall Be You my strength and righteousness, My Jesus and my all.'"
 
 May God bless you. Amen.
-
 
 ---
 [[Sermon 0957 Jesus No Phantom|← #957]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0959 Right Replies To Right Requests|#959 →]]

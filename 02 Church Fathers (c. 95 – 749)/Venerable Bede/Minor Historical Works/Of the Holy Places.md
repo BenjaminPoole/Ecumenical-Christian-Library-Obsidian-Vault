@@ -9,13 +9,11 @@ tags:
   - venerable-bede
   - bede-minor
 ---
-
-
 # Of the Holy Places
 
 ## Chapter 1
 
-OF JERUSALEM.
+## Of Jerusalem
 
 The city of Jerusalem is almost circular in its form, cityof Jeru-
 
@@ -27,7 +25,7 @@ north-west, the brow of Mount Sion appears above the city; and this part of the 
 
 ## Chapter 2
 
-OF THE SEPULCHRE OF OUR LORD, OF THE CHURCHES OF CONSTANTINE AND GOLGOTHA, AND OF THE OTHER HOLY PLACES IN JERUSALEM.
+## Of the Sepulchre of Our Lord, of the Churches of Constantine and Golgotha, and of the Other Holy Places in Jerusalem
 
 The Holy When you have entered the city on the northern side,
 
@@ -47,7 +45,7 @@ Bethsaida.
 
 ## Chapter 3
 
-OF MOUNT SION AND THE CHURCH BUILT THEREON, OF BETHSAIDA AND SILOAM.
+## Of Mount Sion and the Church Built Thereon, of Bethsaida and Siloam
 
 Mount sion Now all these Holy Places, which we have mentioned, church6of are situated beyond Mount Sion, to which the elevated ground extends as it falls away towards the north. But in the lower part of the city, where there was a temple built in the neighbourhood of the wall, on the eastern side, and joined to the city itself by a bridge which formed a thoroughfare between, the Saracens have now erected there a square building, with upright planks and large beams placed, in the roughest manner, over some ruins of the walls, and they frequent the place for prayer. There is room for three thousand persons. There are a few cisterns there to supply water. In the neighbourhood of the temple is the pool of Bethsaida, marked by its two basins, one of which is generally filled by the rains of winter, the other is discoloured with red water. On that front of Mount Sion, which has a rugged precipice facing the east, the fountain of Siloa bursts forth between the walls at the bottom of the hill. According as it receives an increase of water from time to time, it flows towards the south; therefore, its waters are not sweet, but the day and hour of its springing up are
 
@@ -61,9 +59,9 @@ uncertain, and it rushes with much noise amid the hollows Fountain of in the gro
 
 ## Chapter 4
 
-OF ACHELDEMACH, ANO THE PLACE WHERE JUDAS HANGED
+## Of Acheldemach, Ano the Place Where Judas Hanged
 
-HIMSELF.
+## Himself
 
 After passing out through David's gate, we come to Acheidea fountain which runs through the valley towards the south. Half-way down the stream on the western side, Judas is said to have hanged himself. For there is
 
@@ -83,7 +81,7 @@ o it again most rapidly, and floated along, as if in sport, through the air; and
 
 ## Chapter 6
 
-OF THE PLACES NEAR JERUSALEM, AND THE CHURCH IN THE VALLEY OF JEHOSHAPHAT, WHERE SAINT MARY WAS BURIED.
+## Of the Places Near Jerusalem, and the Church in the Valley of Jehoshaphat, Where Saint Mary Was Buried
 
 The country round Jerusalem is rocky and moun- Places near tainous. The ground on the north, from that city to and vaiiey of Arimathsea, is, at intervals, rough and stony. There are phat. open valleys covered with thorns extending all the way to the region of Thanitis; but from ^Elia to Csesarea of Palestine, though some narrow and craggy places are found for a short distance, yet the principal part of the way is a level plain, interspersed with olive-yards: the distance is seventy-five miles. The length of the Land of Promise from Dan over to Beersheba is a hundred and sixty miles, and from Joppa to Bethlehem forty-six miles. Near Jerusalem and the wall of the Temple is Gehennon, which is the Valley of Jehoshaphat, extending from north to south, and through it flows the brook Cedron, when it is swelled by a fall of rain. This valley, forming a small level plain, is well watered and woody, and full of delightful things: formerly there was in it a place dedicated to Baal. Here was the tower of King Jehoshaphat, containing his tomb; on the right side of it was a separate chamber, cut out of the rock of Mount
 
@@ -91,7 +89,7 @@ Olivet, containing two hollow sepulchres, one of the old Simeon, the other of Jo
 
 ## Chapter 7
 
-OF MOUNT OLIVET, AND THE CHURCH FOUNDED UPON IT, WHERE OUR LORD ASCENDED TO HEAVEN.
+## Of Mount Olivet, and the Church Founded upon It, Where Our Lord Ascended to Heaven
 
 The Mount The Mount of Olives is five miles distant from Jerusalem, and is equal in height to Mount Sion, but exceeds it in breadth and length; it bears few trees except vines and olive-trees, and is fruitful in wheat and barley, for the nature of that soil is not calculated for bearing things of large or heavy growth, but grass and flowers. On the very top of it, where our Lord ascended into heaven, is a large round church, having about it three vaulted porches. For the inner house could not be vaulted and covered, because of the passage of our Lord's body; but it has an altar on the east side, covered with a narrow roof. In the midst of it are to be seen the last prints of our Lord's feet, and the sky appears open above where he ascended; and though the earth is daily carried away by believers, yet still it remains as before, and retains the same impression of the feet. Near this lies a brazen wheel, as high as a man's
 
@@ -99,7 +97,7 @@ neck, having an entrance towards the west, with a great lamp hanging above it on
 
 ## Chapter 8
 
-OF THE SITUATION OF BETHLEHEM, AND THE CHURCH WHERE OUR LORD WAS BORN; AND OF THE TOMBS OF DAVID AND HIERONYMUS, AND THE THREE SHEPHERDS.
+## Of the Situation of Bethlehem, and the Church Where Our Lord Was Born; And of the Tombs of David and Hieronymus, and the Three Shepherds
 
 Bethlehem is six miles distant from Jerusalem, to- Bethlehem,
 
@@ -111,7 +109,7 @@ sort of natural cave, the outer part of which is said to have been the place of 
 
 ## Chapter 9
 
-OF THE SITE OF HEBRON, AND OF THE MONUMENTS OF THE FATHERS AND OF ADAM.
+## Of the Site of Hebron, and of the Monuments of the Fathers and of Adam
 
 cityome- Hebron, once a city, and the capital of David's kingdom, shows only by its ruins what it was formerly. It lies in a broad plain, twenty-two miles distant from
 
@@ -119,7 +117,7 @@ cityome- Hebron, once a city, and the capital of David's kingdom, shows only by 
 
 ## Chapter 10
 
-OF JERICHO AND THE HOLY PLACES IN THOSE PARTS.
+## Of Jericho and the Holy Places in Those Parts
 
 Jericho lies to the east of./Elia, and is distant from Jericho and
 
@@ -133,7 +131,7 @@ divides it in the middle, and the banks are rendered most luxuriant by the depos
 
 ## Chapter 40
 
-OF THE RIVER JORDAN AND THE SEA OF GALILEE, OTHERWISE CALLED THE SEA OF TIBERIAS.
+## Of the River Jordan and the Sea of Galilee, Otherwise Called the Sea of Tiberias
 
 The sources of the Jordan itself are commonly thought The river
 
@@ -147,13 +145,13 @@ like milk; and for this reason it is distinguished by a sea of Gaii- long track 
 
 ## Chapter 12
 
-OP THE DEAD SEA, AND THE NATURE OF THE COUNTRY WHICH BORDERS ON IT.
+## Op the Dead Sea, and the Nature of the Country Which Borders on It
 
 The Dead The Dead Sea is five hundred and eighty furlongs in
 
 vicinity. length, and extends as far as the Zoari in Arabia. Its breadth is one hundred and fifty furlongs, as far as the neighbourhood of Sodom. For it is certain that it flowed also out of some salt-pits, after the burning of Sodom and Gomorrha and the adjacent cities. But it appears to those who look at it from the top of Mount Olivet, that the collision of the waves causes salt of a very strong kind to be thrown up, which, when dried in the sun, is collected, and is of considerable service to many of the neighbouring nations. Salt is said to be produced in a different manner from this in a certain mountain of Sicily, where large blocks of the strongest and most useful salt are hewn out of the earth: this is called rocksalt. The name of the Dead Sea is derived from this circumstance — that it does not sustain any kind of living thing; for there are neither fish in its depths, nor water-
 
-OF VENERARLE BEDE. 173
+## Of Venerarle Bede. 173
 
 fowl swimming upon its surface. Indeed, if by accident The Dead the river Jordan, when swollen by storms, carries down ea' any fish into it, they immediately die, and their dead bodies are seen floating on the languid waters. They say that a lighted candle will float without being upset, and that when the light is put out, it sinks; but that it is difficult for any thing else to be made stop at the bottom; and that every living thing, however different, and with whatever violence thrown in, instantly rises again. Indeed, it is recorded that Vespasian ordered some persons who could not swim to be thrown in with their hands tied behind their backs, and all of them rose and floated on the top. The water is bitter and unfertilizing, of a darker colour than other water, and tastes as if it had been burnt. It is certain that lumps of bitumen with a black liquor are seen swimming in the water, and the natives go out in boats and collect them. They say that the bitumen sticks together most firmly, and cannot be divided by any instrument of steel,* but dissolves in urine, or in the blood of a woman. It is of use to fasten ships, and is applied medicinally to the human body. The whole region still bears marks of the judgment inflicted upon it. Apples of a most beautiful appearance are produced there, which make the mouths of the beholders water, but when gathered, they rot and moulder to ashes, and send forth smoke, as if still acted on by fire. In summer an excessive vapour floats over the whole plain; by which cause, and the great drought co-operating together, the air becomes corrupted, and the inhabitants are afflicted with dreadful distempers.
 
@@ -163,13 +161,13 @@ more value to the owners of the land, than it would have realized them, had it b
 
 ## Chapter 13
 
-OF THE PLACE WHERE OUR LORD WAS BAPTIZED.
+## Of the Place Where Our Lord Was Baptized
 
 Monastery of In the place where our Lord was baptized, stands a wooden Baptist!1 ' e cross as high as a man's neck, and sometimes covered by the water. From it to the further, that is, the eastern bank, is a sling's cast; and on the nearer bank is a large monastery of St. John the Baptist standing on a rising ground, and famous for a very handsome church, from which they descend to the cross by a bridge supported on arches, to offer up their prayers. In the further part of the river is a quadrangular church, supported on four stone arches, covered with burnt tiles, where our Lord's clothes are said to have been kept whilst he was baptized. Men do not enter this church, but come together round it from all quarters; from the place where the Jordan leaves the Sea of Galilee, to where it enters the Dead Sea, a journey of eight days.
 
 ## Chapter 14
 
-OF THE LOCUSTS, THE WILD HONEY, AND THE FOUNTAIN OF ST. JOHN THE BAPTIST.
+## Of the Locusts, the Wild Honey, and the Fountain of St. John the Baptist
 
 The Foun- It was the smallest species of locusts which formed John the the food of John the Baptist, as is clear from the prac-
 
@@ -187,7 +185,7 @@ the Baptist's fountain of the clearest water, having a stone roof covered with m
 
 ## Chapter 15
 
-OF JACOB S FOUNTAIN, NEAR SICHEM.
+## Of Jacob S Fountain, Near Sichem
 
 Near the city of Sichem, now called Neapolis, is a Jacob's well
 
@@ -197,7 +195,7 @@ church divided in four; that is, made m the iorm ot a cross. In the midst of it 
 
 ## Chapter 16
 
-OF TIBERIAS, CAPARNAUM, NAZARETH, AND THE HOLY PLACES IN THOSE PARTS.
+## Of Tiberias, Caparnaum, Nazareth, and the Holy Places in Those Parts
 
 The place in which our Lord blessed the loaves and Tiberias, ca
 
@@ -215,7 +213,7 @@ tain on the north, and lake on the south. Nazareth has no walls, but large house
 
 Mount Tabor.
 
-OF MOUNT TABOR, AND THE THREE CHURCHES THEREON.
+## Of Mount Tabor, and the Three Churches Thereon
 
 Mount Tabor is situated in the midst of the plain of Galilee, and is three miles distant from Gennesareth, towards the north. It is round on all sides, covered with grass and flowers, and thirty furlongs high. Its top forms a pleasant meadow, twenty-three furlongs wide, whereon is a large monastery, surrounded by a thick wood, and containing three churches, according to the words of Peter, " Let us make here three tabernacles." The place is surrounded by a wall, and contains some stately edifices.
 
@@ -223,7 +221,7 @@ Mount Tabor is situated in the midst of the plain of Galilee, and is three miles
 
 Damascus.
 
-OF DAMASCUS.
+## Of Damascus
 
 Damascus is situated in a plain, and surrounded by a broad and ample circuit of walls, strengthened with numerous towers, and intersected by four great rivers.
 
@@ -231,7 +229,7 @@ The Christians frequent the church of Saint John the Baptist, but the king of th
 
 ## Chapter 19
 
-OF ALEXANDRIA, THE RIVER NILE, AND THE CHURCH IN WHICH MARK THE EVANGELIST IS BURIED.
+## Of Alexandria, the River Nile, and the Church in Which Mark the Evangelist Is Buried
 
 Alexandria extends to a great length from east to Alexandria
 
@@ -243,7 +241,7 @@ the water, which, if the mounds were to be broken down by the neglect of the gua
 
 ## Chapter 20
 
-OF CONSTANTINOPLE, AND THE CHURCH THEREIN WHICH CONTAINS OUR LORD^ CROSS.
+## Of Constantinople, and the Church Therein Which Contains Our Lord^ Cross
 
 constant!- Constantinople is bounded on all sides except the
 
@@ -267,7 +265,7 @@ Thus have I sought in these few words to trace The form and site of every holy p
 
 ## Chapter 21
 
-RECA PITULATION.
+## Reca Pitulation
 
 Thus much have I written concerning the Holy Places, following, to the best of my knowledge, the truth of history, and in particular the dictation of Arculph, ^JjJJJjto Bishop of Gaul, which Adamnan, that priest so learned in Holy Scripture, hath set down in his jagged style, and comprised in three books. For the above-named bishop,
 

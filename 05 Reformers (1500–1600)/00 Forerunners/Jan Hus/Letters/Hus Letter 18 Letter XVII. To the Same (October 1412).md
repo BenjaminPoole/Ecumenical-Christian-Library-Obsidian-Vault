@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 18. Letter XVII. To the Same (October 1412)
-
-LETTER XVII. TO THE SAME (October 1412)
 
 Thankfulness for their spirit ; Be not afraid ; Christ also suffered ; His elect must therefore also suffer ; The war of Christ and Antichrist ; False prophets ; The attack on the Bethlehem ; The Goose has broken their nets ; The conquest of the Truths ; What fear shall part us from Christ? "I fear no death"; But I long still to preach; Christ the sufferer preserve you . . . . . 90-97
 

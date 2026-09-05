@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Prosperous Man's Reminder
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1441
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 27, 1878,.
+*Delivered on Lord's-Day Morning, October 27, 1878*
 
 > "I knew you in the wilderness, in the land of great drought. According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten Me. Therefore I wiil be unto them as a lion: as a leopard by the way will I observe them: I will meet them as a bear that is bereaved of her whelps, and will rend the cage of their heart, and there will I devour them like a lion: the wild beast shall tear them." Hosea 13:5-8.
 
@@ -126,7 +125,6 @@ Now, Sinners, if, after God has been very gracious to you, you will not learn th
 If I had time I would have spoken upon a fourth head, but I can do no more than say that close upon the text there are —INTIMATIONS OF MERCY. See what intimations of mercy there are in the next verse. "O Israel, you have destroyed yourself, but in Me is your help." There is help for the wanderer and help for the man who has grieved His God! Read also these Words of God, with which the next chapter opens, and may the Holy Spirit help you to carry them out, "O Israel, return unto the Lord your God; for you have fallen by your iniquity. Take with you words and turn to the Lord: say unto Him, Take away all our iniquity and receive us graciously: so will we render the calves of our lips. I will heal their backsliding, I will love them freely: for My anger is turned away from him."
 
 The Lord fulfill those Words for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1440 The Great Emancipator|← #1440]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1442 Sorrow at the Cross Turned into Joy|#1442 →]]

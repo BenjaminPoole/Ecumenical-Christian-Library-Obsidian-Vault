@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Satanic Hindrances
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 657
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 29, 1865,.
+*Delivered on Sunday Morning, October 29, 1865*
 
 > "Satan hindered us." 1 Thessalonians 2:18.
 
@@ -146,7 +145,6 @@ You Christians pleading in prayer—let not go your hold upon the Covenant Angel
 Sin, death and Hell will be captive at your chariot wheels and you, with your Lord, will be crowned as victor, having overcome through the blood of the Lamb! May God bless dear Friends now present. I do not know to whom this sermon may be most suitable, but I believe it is sent especially to certain tried saints. The Lord enable them to find comfort in it! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Peter 412
-
 
 ---
 [[Sermon 0656 Preceding Grace|← #656]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0658 From The Dunghill To The Throne|#658 →]]

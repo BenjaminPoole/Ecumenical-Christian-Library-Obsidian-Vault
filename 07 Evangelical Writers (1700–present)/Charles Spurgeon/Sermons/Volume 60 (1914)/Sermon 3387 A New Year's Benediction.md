@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # A New Year's Benediction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3387
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let your conversation be without covetousness; and be content with such things as you have, for He has said, I willnever leave you, nor forsake you." Hebrews 13:5.
 
@@ -29,7 +26,7 @@ Another thing in the text to which I would call your notice is this—that an In
 
 But now to come to the promise, itself, "I will never leave you, nor forsake you." I shall call your attention, first of all, to—
 
-I. THE REMARKABLE CHARACTER OF THIS PROMISE.
+## I. The Remarkable Character of This Promise
 
 Is it not an amazing fact that while others leave us and forsake us, that God never does? It is to each one of His own redeemed people that He says, "I will never leave you, nor forsake you." How often do men play false and forsake those whom they call their friends when those friends fall into poverty Ah, the tragedies of some of these cruel forsakings! May you never know them! These so-called friends knew their friends when that suit of black was new, but how sadly their eyesight fails them, now it is turned to a rusty brown! They knew them extremely well when once a week they sat with their legs under their table and shared their generous hospitality—but they know them not, now that they knock at their door and crave help in a time of need!
 
@@ -67,7 +64,7 @@ When a Believer is in this state, it is sometimes suggested to him that doubtles
 
 We now pass on to ponder upon—
 
-II. THE REMARKABLE COMFORT CONTAINED IN THIS PROMISE.
+## II. The Remarkable Comfort Contained in This Promise
 
 See how it abounds! I note, first, its constancy. "I will never leave you, nor forsake you." That is, not for a day, not for an hour, not for a minute! There are no breaks in the Divine Love. God does not depart from His people to return to them, by-and-by, but He assures, "I will never, no never, leave you." Perhaps that dear child of yours that is sick is soon to die. Well, God will not leave you in the moment when she is taken from you. Possibly that dear one who is now your comfort and delight, your husband, may get sick and it will be a terrible stroke for you to be visited with, but, "I will never leave you, not even for an instant! Then in that trying time you shall prove the power and solace of My Presence."
 
@@ -91,7 +88,7 @@ I cannot enlarge further upon the promise and need not do so because it opens up
 
 Now the third thing to be noticed concerning this promise is—
 
-III. THE REMARKABLE EFFECTS THAT SUCH A PROMISE SHOULD PRODUCE.
+## III. The Remarkable Effects that Such a Promise Should Produce
 
 Surely the first blessed fruit of such a glorious promise should be perfect contentment. It is said to be hard to be content. I have the pleasure of knowing some Brothers and Sisters who I am sure are perfectly content. They even say so and I think without the slightest mental reservation that they have not an unfulfilled wish or desire so far as this world goes. They have all that heart could wish. And yet these are not the richest people in the world and they are not persons who are much to be envied for their mere external circumstances—yet they are perfectly content. The fact is that the Grace of God makes the people of God to sing sweetly where other people would murmur! They are satisfied where others would find easy ground for discontent. But how easy it is—how easy it must be for a man to be content when he knows that God has promised to be with him in all circumstances and at all times! Surely if anything could be a kind of conservatory—a hot-house in which to grow the delicate plant of contentment to perfection—it must be this full belief that high or low, rich or poor, well or sick, God has said, "I will never leave, nor forsake you." Surely it was this that made Bunyan's Pilgrim sing in the Valley of Humiliation—
 
@@ -114,7 +111,6 @@ I know what it is to fall back upon this promise, sometimes, to keep from depres
 How I wish that it belonged to you all! Oh, that everyone of you had a share in it! But some of you, alas, have never fled to Jesus. Oh that you would do so! Whoever trusts Him for pardon by His atoning Sacrifice is saved! To look to the Great Substitute and depend upon Him for salvation—this gives salvation—and then come the promises that belong to the saved!
 
 The Lord in His infinite mercy bless you for Jesus' sake. Amen.
-
 
 ---
 [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3388 Soul-threshing|#3388 →]]

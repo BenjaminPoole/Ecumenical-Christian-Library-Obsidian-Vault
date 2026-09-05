@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Dagon's Ups and Downs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1342
-
-DELIVERED BY.
 
 > "When the Philistines took the Ark of God, they brought it into the house of Dagon, and set it by Dagon. And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the earth before the Ark of the Lord. And they took Dagon, and set him in his place again. And when they arose early on the morrow morning, behold, Dagon was fallen upon his face to the ground before the Ark of the Lord; and the head of Dagon and both the palms of his hands were cut off upon the threshold; only the stump of Dagon was left to him." 1 Samuel 5:2-4.
 
@@ -140,7 +137,6 @@ Though death and Hell obstruct the way." The Lord has undertaken our perfect san
 We are so near to Heaven that if we were not very dull and our ears very heavy, we might, right now, hear the angels chanting their ceaseless hallelujahs! Some of God's saints—some here, perhaps—have almost got their foot upon the threshold of the Eternal City and do not know it! They are closer than they think to the harp and the palm branch. They would not fret about what they will do next year—they would not be worrying about next quarter—if they knew that they would be among the royalties of Heaven by then! They would not even think about tomorrow did they know how soon it will all be over and how soon the eternal joy will begin!
 
 God bless you, dear Friends. May the Lord's Grace reign over all, in the power of the Holy Spirit—and even to sinners in whom sin is triumphant may Jesus Christ come—and His Grace enter! And then their beloved sins must fall. To the only living and true God be Glory forever and ever! Amen.
-
 
 ---
 [[Sermon 1341 Retreat Impossible|← #1341]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1343 The Jewel of Peace|#1343 →]]

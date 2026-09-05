@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 29. Letter XXVIII. To the Same (April 1413)
-
-LETTER XXVIII. TO THE SAME (April 1413)
 
 Why Hus cannot agree that the Pope is the head of the Holy Roman Church ; Pope Liberius and Pope Joan ; The Catholic Church is wider than the Roman Church . . 122-8
 

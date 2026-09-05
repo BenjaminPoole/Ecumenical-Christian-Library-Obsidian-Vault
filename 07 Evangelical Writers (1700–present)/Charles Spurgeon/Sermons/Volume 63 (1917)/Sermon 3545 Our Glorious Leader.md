@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # Our Glorious Leader
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3545
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when He had thus spoken, He went on ahead, ascending up to Jerusalem." Luke 19:28.
 
@@ -65,7 +62,7 @@ The imprisoning stone is rolled away."
 
 It is now a nest of sweetness since Jesus laid in it. The grave is no longer unfurnished—there are His grave clothes left for you and, moreover, the stone being rolled away, you have the promise that you shall come out of it again! When the trumpet of the archangel sounds, those poor bones shall arise and the body that was sown in weakness shall be raised in power! What joy it is, then, to think that He went ahead of us and how obediently, no, triumphantly, may we follow Him, even to death itself! Here, then, is the blessed fact, in suffering, or service, or departure, Christ goes ahead of us! Now the point we close with is this—
 
-II. MAY WE, ALL OF US, HAVE A SWEET REALIZATION OF THIS TRUTH DURING THIS YEAR.
+## II. May We, All of Us, Have a Sweet Realization of This Truth During This Year
 
 We believe a good deal of Doctrine which we have never yet realized. We know much to be food which we have never fed upon. Many Christians are like those who have sacks of flour in the house, but no bread. They have nothing available for present food. Some are like rich men that may happen to be abroad with thousands in gold, but no small silver, no spending money. May you be able to coin the bullion of precious promise so as to use it in the journey of life. May you make practical application of precious Truths of God, tasting the honey, drinking the wine and being satisfied with them. Now, then, to realize that Christ goes ahead of us is to realize that we are never alone. If I am in my study, and a problem staggers me, I am not alone—my Lord will teach me. You are in your little chamber with the needle, working hard for very scanty pay. You have to suffer—you have not got to suffer that alone. "I am with you when you pass through the fire; you shall not be burned, neither shall the flame kindle upon you." But you have got to go into the workroom and there are those that point at you, and they have a jest for you, whom they know to be a follower of Christ. You have not to bear that alone! He has the heaviest end of that cross and He is persecuted in His persecuted members. But you are busy in business, and your cares afflict you. Blessed be God you have not got to bear those cares alone! No, nor yet at all, for concerning them He has said, "Cast all your care upon Him, for He cares for you." I have got to come here and preach. Who is sufficient for these things? But I am not to preach alone—"My Grace is sufficient for you." His strength shall be made perfect in your weakness. You have to go to that Sunday school class. Oh, how incorrigible those boys are and how careless those girls—but you have not got to win those souls alone—Jesus will go and His Spirit will be there, and you shall be helped in your work! Do try and realize all through this year that you are never alone. Not only is it, "You, God, see me," but it is this, "Fear not, I am with you; be not dismayed, I am your God." And Christ is not with you behind, or pushing you into the danger, but He is with you ahead of you—He goes ahead of you—He is the shield catching the fiery darts upon Himself! You shall come behind the screen and be sheltered by His precious promise.
 
@@ -75,7 +72,7 @@ The only other thought is, take care that you abide with Him. He is a quick walk
 
 And I shall close by saying this—that if any soul longs for Christ, Christ is already longing for Him—and if you have a half of a desire towards Him, He has a heart full of desire towards you! There never was a soul that had a head start on Christ in the matter of desire for salvation. God grant you Grace to touch Jesus and then to follow after Him, and to make His blessing abide with you, both now and forever. Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 35, HEBREWS 12:1-6.
+## Exposition by C. H. Spurgeon: Isaiah 35, Hebrews 12:1-6
 
 Verse 1. The wilderness and the solitary place shall be glad for them. They shall be so glad that they shall inspire gladness where all was desolation, brooding, melancholy and dragon's howls. "The wilderness and the solitary place shall be glad for them."
 
@@ -95,7 +92,7 @@ Verse 1. The wilderness and the solitary place shall be glad for them. They shal
 
 9, 10. No lion shall be there, nor any ravenous beast shall go on it, it shall not be found there; but the redeemed shall walk there. And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads; they shall obtain joy and gladness, and sorrow and sighing shall flee away. Like frightened things. They kept us company part of our road, but when the Lord appeared, they took to themselves wings and fled away. We could not tell where they were gone. We were surprised to find that they had quite vanished. Oh, for the appearing of the Lord tonight to His mourning people who may be here!
 
-HEBREWS 12:1-8.
+## Hebrews 12:1-8
 
 Verse 1. Therefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which does so easily beset us. Or. "entangle us."
 
@@ -110,7 +107,6 @@ Verse 1. Therefore seeing we also are compassed about with so great a cloud of w
 Him.
 
 6\. For whom the Lord loves, He chastens, and scourges every son whom He receives. Oh, what comfort there is here! Whenever we are under the scourging hand of God, how we ought to be cheered with the thought that this is a part of the heritage of the children! There are Elis who spoil their children. God is not one of them. He spares not the rod and the more He loves, often the more He corrects. A tree of common fruit may be left alone so long as there is some little fruit on it, but the very best fruit gets the sharpest pruning—and I have noticed that in those countries where the best wine is made, the vinedressers cut the shoots right close in, and in the winter you cannot tell that there is a vine there at all unless you watch very carefully! They must cut them back sharp to get sweet clusters. The Lord does thus with His beloved. It is not anger. Afflictions are not always anger. There are often tokens of great love!
-
 
 ---
 [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3546 Assurance Sought|#3546 →]]

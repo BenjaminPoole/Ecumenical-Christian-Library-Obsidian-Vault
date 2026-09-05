@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # The Master Key—Opening the Gate of Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1938
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And You said, I will surely do you good." Genesis 32:12.
 
@@ -130,7 +127,6 @@ Do you believe that God speaks the truth? If you do, you have living faith withi
 God bless you, dear Friends! I feel much pleasure in addressing you at this time. If I have exceeded the time, you may well excuse it, for I am not always well enough to address you. Oh, how I have wearied to be in my pulpit! I would ask nothing more of God than to give me bread and water and permit me to occupy this pulpit on every occasion when I ought to be here! But I cannot, as yet, get that privilege at His hands, for it is not a matter of promise. If He had said I should always be in good health, I am sure Satan, himself, could not make me ill! Having, therefore, no specific promise, I am satisfied to accept the general assurance that all things work together for good to them that love God. From this assurance I know that I shall have such good health or ill-health as shall be good for me! What more can I desire than that the Lord's will should be done in my mortal body, whether by weakness or by strength?
 
 This, however, I will do—by God's help I will preach as earnestly as I can when I do preach—and I will speak as plainly, as pointedly and as earnestly as possible when I am allowed to open my mouth in His name. Oh, that God might give me every soul in this place at this hour! And He will do it if we go to Him in humble prayer, pleading what He has said! The Lord is able to bless the word which we preach to an incalculable extent. There is no limit to the good which He can work by this one sermon! Oh, my dear Hearer, your hope does not lie in what you can say, but in what the Lord has said! Think little of the word of man, but think everything of the Word of God! Believe it for yourself and see if it is not fulfilled. Cling to the promise, come what may! The promise will hold you as surely as you hold the promise! God will be true to His promise and true to you, for Jesus Christ's sake—be you true to Him. Amen.
-
 
 ---
 [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1939 Shaved and Shorn, But Not Beyond Hope|#1939 →]]

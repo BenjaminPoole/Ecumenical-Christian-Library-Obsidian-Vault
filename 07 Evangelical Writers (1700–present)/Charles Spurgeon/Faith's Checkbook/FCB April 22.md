@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 22
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**POWER TO RAISE**
+## **Power to Raise**
 
 > The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down" Ps. 146:8
 
@@ -23,7 +22,6 @@ Am I bowed down? Then let me urge this word of grace before the Lord. It is His 
 Is it a sad bereavement, or a great fall in circumstances? Here again the Comforter has undertaken to console. What a mercy for us that one person of the Sacred Trinity should become the Comforter! This work will be well done, since such a glorious One has made it His peculiar care.
 
 Some are so bowed down that only Jesus can loose them from their infirmity, but He can, and He will, do it. He can raise us up to health, to hope, to happiness. He has often done so under former trials, and He is the same Saviour, and will repeat His deeds of lovingkindness. We who are today bowed down and sorrowful, shall yet be set on high, and those who now mock at us shall be greatly ashamed. What an honor to be raised up by the Lord! It is worth while to be bowed down that we may experience His upraising power.
-
 
 ---
 [[FCB April 21|← April 21]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 23|April 23 →]]

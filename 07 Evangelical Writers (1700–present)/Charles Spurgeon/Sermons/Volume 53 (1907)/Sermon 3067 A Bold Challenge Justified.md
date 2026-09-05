@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # A Bold Challenge Justified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3067
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who is he who condemns?It is Christ who died, yes rather, who is risen again, who is even at the right hand ofGod, who also makes intercession for us." Romans 8:34.
 
@@ -47,7 +44,7 @@ It looks like a bold question for any man to put so unreservedly, "Who is he tha
 
 "Who is he who condemns? Christ who died." So the fact stands that whatever there may be in store for others in connection with the coming Day of Final Judgment and the banishment of the condemned to Hell, all who believe on the Lord Jesus Christ will never be condemned! Under no possible or conceivable circumstances can they ever be condemned, for they who are once forgiven and justified always shall be forgiven and justified in time and throughout eternity! There is now no condemnation to them who are in Christ Jesus—and there never shall be! [See Sermon #1917, Volume 32—in christ no
 
-CONDEMNATION.]
+## Condemnation.]
 
 II. Our second point is THE GROUND OF THIS HOLY CONFIDENCE.
 
@@ -91,7 +88,7 @@ own child, and on your way to Heaven, and a crown of eternal life is yours"—I 
 
 God give to all of you the Grace to believe in Jesus and to go your way rejoicing, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN20:1-18.
+## Exposition by C. H. Spurgeon: John 20:1-18
 
 Verse 1. The first day of the week Mary Magdalene came early, when it was yet dark, unto the sepulcher, and saw the stone was taken away from the sepulchei. Her love for her Lord made her rise early and helped her to overcome the fear which would have prevented many from going out "when it was yet dark, unto the sepulcher." There are fears which some cannot shake off in the dark—and those fears would be apt to become intensified in going to a sepulcher in the dark. But love wakes early to try to find Christ and love can see in the dark when looking for Jesus! Mary little expected to find the tomb of Jesus rifled and the stone rolled away—she was so surprised at what she saw that she hurried away to tell the story to other friends of her Lord.
 
@@ -144,7 +141,6 @@ Verse 1. The first day of the week Mary Magdalene came early, when it was yet da
 "He lives!—The great Redeemer lives!"
 
 He lives to plead for sinners! So, sinners, come and trust Him, for He will manifest Himself to you as surely as He did to these disciples, though not in exactly the same form!
-
 
 ---
 [[Sermon 3066 The Everlasting Counselor|← #3066]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3068 Unknown Depths and Heights|#3068 →]]

@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 6. III. Acts of the Convention Held in the Praiseworthy City of Zurich on The, Part 3
 
-VICAR.
+*Vicar*
 
 Master Ulrich, you said in your Articles that the mass is no offering. Now I shall prove that for 1400 years "missal" has been considered a sacrifice and called an offering. For " missa " is a Hebrew word, known by us as sacrifice, and also the apostles were known as " missam sacrificium."
 
@@ -26,31 +25,29 @@ THE FIRST ZURICH DISPyTATION. lOi with you as with a John.* I say that you shoul
 
 ♦ [Hans Hab remarks: " Faber attacked the Articles severely, but could not prove that they are unchristian. It happened thus, when after dinner the decision was read: Just like the peasant boys, you first began in earnest after the matter was closed, and even then you did not wish to attack any Article, to make it unchristian by means of the Scriptures, as you attacked them, but you raised the Articles in your own hand and said ; Now I do not wish to speak as a vicar, but as a John, and 1 say, Master Ulrich, that your Articles are not like unto the truth, and are not based upon the Gospel and the writings of the apostles." Zwingli answered: " Sir Vicar, if you had taken off your hat long ago one could have treated about something. But in answer to your speech I spoke thus: You shall prove your wicked speech with the deed, and do well and attack only one Article, so that we may not let this day pass by uselessly, for so well are these Articles founded that heaven and earth must break sooner than one of these Articles. Upon this you answered, as always before, this was not the place to debate, but you wished to debate in writing and have judges. Thereupon Zwingli answered he was indifferent whether one noted down everything that was spoken, but he wanted no judge over the word of God, for the word of God should judge the people, and not the people the word of God. About that you teased Zwingli, whether he would not take those of Zurich as judges? Zwingli replied, no — so much at this time, although much was still added thereto." (" Gyrenrupfen.")]
 
-I02 ZWINGLI SELECIIONS.
-
 Holy Ghost speaks from the Scriptures, For not more than once (semel) by one offering he entered into the holy place ; otherwise he must die often ? Now matters have come to such a state that the papists have made out of the mass a sacrifice for the living and dead, contrary to the joyful Scriptures of God; they wish to protect this also, so that they may defend their name of scholar or their avarice. We also know well that " missa " does not come from Hebrew or Greek ; but you present nothing from the Scriptures.
 
-VICAR.
+## Vicar
 
 I will do that and prove it before the universities, where learned judges sit. And choose a place, be it Paris, Cologne or Freiburg, whichever you please ; then I shall overthrow the Articles presented by you and prove them to be wrong.
 
-ZWINGLI.
+## Zwingli
 
 I am ready, wherever you wish, as also to-day I offered to give answer at Constance, if a safe conduct (as to you here) is promised to me and respected. But no judge I want, except the Scriptures, as they have been said and spoken by the Spirit of God ; no human being, whichsoever it be ; and before you overthrow one Article the earth must be overthrown, for they are the Word of God.
 
-VICAR.
+## Vicar
 
 This is a queer affair. When, e. g., two are quarreling about an acre or about a meadow, they are sent before a judge. Him they also accept, and you refuse to allow these matters to come before a judge. How would this be if I should propose that you take my lords of Zurich as judges? Would you not accept these and allow them to judge?
 
-ZWINGIJ.
+## Zwingij
 
 In worldly affairs and in quarrels I know well that one should go before the judges with the disputes, and I also would choose and have as judges my lords of Zurich, since they possess justice.
 
-THE FIRST ZURICH DISPUTATION. IO3
+## The First Zurich Disputation. Io3
 
 But in these matters, which pertain to divine wisdom and truth, I will accept no one as judge and witness except the Scriptures, the Spirit of God speaking from the Scriptures.
 
-VICAR.
+## Vicar
 
 How would it be if you chose a judge and I also one, both impartial, be it here or somewhere else, would you not be satisfied what these two recognized and pronounced as true sentence?
 
@@ -62,27 +59,25 @@ Hereupon there was a laugh, so that the vicar became silent and answered nothing
 
 Christ in the Gospel * says. Matt, xxviii. 20, He will remain with us even unto the end of the world. In another place [Matt.], xxvi. II, he says : " For ye have the poor always with you ; but me ye have not always." Now if "there were no one who decided concerning these sayings, who could know how one should grasp these two sayings thus opposed to each other? One must then have a judge.
 
-ZWINGLI.
+## Zwingli
 
 The Spirit of God decided itself from the Scriptures that the Lord is speaking of two kinds of presences, of the corporal and the spiritual. The Scripture speaks evidently of the corporal presence or bodily attendance of Christ, and declares that Christ died, was buried, arose on the third day, and having ascended to the heavens sits on the right of his Father. Hence one notices readily from the Scriptures how one shall understand that when the Lord says : " Me ye have not always." In the same fashion, when He says He will remain with us even unto the end of the world, the Scriptures teach that Christ is the word of God, the wisdom, the will of his heavenly Father, the truth, the way, the
 
 * [" I shall not be with you always, and then." (Bullinger.)]
 
-I04 ZWINGLI SELECTIONS.
-
 light, the life of all believers. Therefore one evidently sees that spiritually he remains with us unto the end of the world. Hence one needs no other judge besides the divine Scriptures ; the only trouble is that we do not search and read them with entire earnestness.*
 
 Thereupon Dr. Martin of Tiibingen speaks, saying : You interpret the Scriptures thus according to your judgment, another interprets them another way ; hence there must always be people who decide these things and declare the correct meaning of the Scriptures, as this is symbolized by the wheels of Ezekiel.
 
-ZWINGLI.
+## Zwingli
 
 I do not understand the Scriptures differently than it is interpreted by means of the Spirit of God ; there is no need of human judgment. t We know that the ordinance of God is spiritual, Rom. vii. 14, and is not to be explained by the reasoning of man in the flesh. For the corporal man in the flesh does not understand the things which are of the Spirit of God. i Cor. ii. 14. Therefore I do not wish to have or accept a man as judge of the Scriptures.
 
-VICAR.
+## Vicar
 
 Arius and Sabelius would still walk on earth or rule if the matters had not been brought before judges.
 
-ZWINGLI.
+## Zwingli
 
 I shall do as the fathers, who also conquered by means of the
 
@@ -94,23 +89,19 @@ Scriptures, not by means of human understanding.* For when they were disputing w
 
 * [** Did you not also hear that thereupon Zwingli answered : A council never overcame a heretic except with the Scriptures, for it would have been useless if one had tried to overcome Arius in another fashion except by the Scripture. Hence he also stood there, demanding that one listen to the Scriptures in regard to all the Articles; these should be judges over him, and according to that he would allow all Christians to recognize not only several, but all, whether he had used the Scriptures rightly or not; and he asked who was judge between Hilary and Arians, between Jerome and Jovian, between Augustine and the Manicheans; with nothing besides the Scriptures they proved their cause, and thus allowed it to come before all people without a single judge. And what you attacked afterwards, just as if he had boasted of great abilities, that you invented. For Zwingli spoke of the rest who were there thus: There are in the hall probably men as learned in Hebrew, Greek and Latin as at Tubingen, Basel, Freiburg and elsewhere." (Hans Hab in *' Gyrenrupfen.") He adds thereto: "Zurich has probably as many people learned in the three languages as he and his papists in a heap, and who understand the Scriptures better than those at Lyon and Paris."]
 
-Io6 ZWINGLI SELECTIONS.
-
 same time with books referred to and Scriptures quoted, so that the Scriptures, and not they, were the judges. The Scriptures are so much the same everywhere, the Spirit of God flows so abundantly, walks in them so joyfully, that every diligent reader, in so far as he approaches with humble heart, A^ill decide by means of the Scriptures, taught by the Spirit of God, until he attains the truth. For Christ whenever he argued with the learned Jews and Pharisees referred to the Scriptures, saying : "Search the Scriptures." John v. 39. Also, " What is written in the law." Luke x. 26, etc. Therefore I say the matter needs no human judge. But that at various times such matters generally have been brought before human judges and universities is the reason that the priests no longer desired to study, and paid greater attention to wantonness, at times to chess, than reading the Bible. Hence it came about that one considered those scholars and chose them as judges who had attracted unto themselves only the appearance or diploma of wisdom, who knew naught concerning the right Spirit of God or the Scriptures. But now through the grace of God the divine Gospel and Scriptures have been born and brought to light by means of print (especially at Basel), so that they are in Latin and German, wherefrom every pious Christian who can read or knows Latin can easily inform himself and learn the will of God. This has been attained, God be praised, that now a priest who is diligent may learn and know as much in two or three years concerning the Scriptures as formerly many in ten or fifteen years. Therefore I wish all the priests who have benefices under my lords of Zurich or in their counties, and have them exhorted that each one is diligent and labors to read the Scriptures, and especially those who are preachers and caretakers of the soul, let each one buy a New Testament in Latin, or in German, if he does not understand the Latin or is unable to interpret it. For I also am not ashamed to read German at times, on account of easier presentation. Let one begin to read first the gospel of St. Matthew, especially the
 
 THE FIRST ZURICH DISPUTATION. IO7 v., vi. and vii. chapters. After that let him read the other gospels, so that he may know what they write and say. After that he should take the Acts. After this the epistles of Paul, but first the one to the Galatians. Then the epistle of St. Peter and other divine texts; thus he can readily form within himself a right Christian hfe, and become more skillful to teach this better to others also. After that let him work in the Old Testament, in the prophets and other books of the Bible, which, I understand, are soon to appear in print in Latin and German. Let one buy such books, and never mind the sophistical and other empty writings, also the decree and work of the papists, tell and preach to the pe )ple the holy Gospel, written by the four evangelists and apostles, then the people will become more willing ard skillful in leading a peaceful Christian life. For matters have reached such a state that also the laymen and women know more of the Scriptures than sor')e priests and clergymen.
 
 Thereupon spoke a priest, decan of Glattfelden : Shall one then not ^ead Gregory or Ambrose, or cite their writings in the pulpit, but only the Gospel?
 
-ZWINGLI.
+## Zwingli
 
 Yes, you may read them. And when you find something written therein which is like the Gospel or quoted from the Gospel, there is no need of using Gregory or Ambrose, but one first of all honors Christ and says, this the Gospel or Scriptures tell us. And this is not only my opinion, but Gregory or Ambrose is also of this opinion. For the dear fathers themselves confirm their writings with the Gospel and Scriptures, and where they depeud upon their own thoughts they en readily an generally.
 
 Another priest, by name Hans v. Schlieren, asks : But what shall he do who has a small benefice and not suflS cient wherewith he could buy such books, the Testament? I have a poor little benefice ; it is also necessary for me to speak.
 
-I08 ZWINGU SELECTIONS.
-
-ZWINGLI.
+## Zwingli
 
 There is, if God wills, no priest so poor but he cannot buy a 'Testament, if he likes to learn. Somewhere he will find a pious citizen and other people who will buy him a Bible, or otherwise advance the money so that he can pay for one.
 
@@ -120,7 +111,7 @@ ZWlNGLI.
 
 Do that, when and wherever you please, and the quicker and sooner the more agreeable and satisfactory it is to me. Write against my Articles or opinions whenever you wish, or argue against them wherever you please. Why don't you do it here, right now? Attack one of my opinions, since you say they are opposed to the Gospel and St. Paul ; try to prove them wrong and false. I say. Vicar, if you can do that, and prove one of my Articles false by means of the Gospel, I will give you a rabbit cheese. Now let's hear it. I shall await it.
 
-VICAR.
+## Vicar
 
 A rabbit cheese, what is that?* I need no cheese. All is also not written in the Gospel that is unrighteous and opposed to Christ ; f where do you find in the Gospel that one shall not have his daughter or his sister's daughter to wife?
 
@@ -128,9 +119,9 @@ A rabbit cheese, what is that?* I need no cheese. All is also not written in the
 
 Zwingli w?.' or ten years (1506-1 51 6), was then and is still noted for its cheeses, t['*VVhej I speak an unfit, immodest or worthless word, i-^ Zwingli
 
-THE FIRST ZURICH DISPUTATION. IO9
+## The First Zurich Disputation. Io9
 
-ZWINGLI.
+## Zwingli
 
 It is also not written that a cardinal shall have thirty benefices.
 
@@ -154,7 +145,7 @@ THE FIRST ZURICH DISPUTATION. Ill
 
 Master Ulrich Zwingli, canon and preacher at the great cathedral of Zurich, which (assembly) occurred at the time and on the 'day, as stated above, in the year 1523, on the 29th day of Janu- ' aiy.
 
-THE SIXIY-SEVEN ARTICLES OF ZWINGU.
+## The Sixiy-Seven Articles of Zwingu
 
 The articles and opinions below, I, Ulrich Zwingli, confess to have preached in the worthy city of Zurich as based upon the Scriptures which are called inspired by God, and I offer to protect and conquer with the said articles, and where I have not now correctly understood said Scriptures I shall allow myself to be taught better, but only from said Scriptures.
 
@@ -176,8 +167,6 @@ VIII. From this follows first that all who dwell in the head are members and chi
 
 IX. Furthermore, that as., the members of the body can do j nothing without the control of the head, so no one in the body j of Christ can do the least without his head, Christ. \
 
-112 ZW'INGLI SELECnONS.
-
 X. As that man is mad whose limbs (try to) do something without his head, tearing, wounding, injuring himself ; thus when the members of Christ undertake something without their head, Christ, they are mad, and injure and burden themselves with unwise ordinances.
 
 XI. Hence we see in the clerical (so-called) ordinances, concerning their splendor, riches, classes, titles, laws, a cause of all foolishness, for they do not also agree with the head.
@@ -192,61 +181,59 @@ XV. For in the faith rests our salvation, and in unbelief our damnation ; for al
 
 XVI. In the Gospel one learns that human doctrines and decrees do not aid in salvation.
 
-ABOUT THE POPE.
+## About the Pope
 
 XVII. That Christ is the only eternal high priest, wherefrom it follows that those who have called themselves high priests have opposed the honor and power of Christ, yea, cast it out.
 
-ABOUT THE MASS.
+## About the Mass
 
 XVIII. That Christ, having sacrificed himself once, is to eternity a certain and valid sacrifice for the sins of all faithful, wherefrom it follows that the mass is not a sacrifice, but is a remembrance of the sacrifice and assurance of the salvation which Christ has given us.
 
 XIX. That Christ is the only mediator between God and us.
 
-THE FIRST ZURICH DISPUTATION. II3
+## The First Zurich Disputation. Ii3
 
-ABOUT THE INTERCESSION OF THE SAINTS,
+## About the Intercession of the Saints
 
 XX. That God desires to give us all things in his name, whence it follows that outside of this life we need no mediator except himself.
 
 XXI. That when we pray for each other on earth, we do so in such fashion that we believe that all things are given to us through Christ alone.
 
-ABOUT GOOD WORKS.
+## About Good Works
 
 XXII. That Christ is our justice, from which follows that our works in so far as they are good, so far they are of Christ, but in so far as they are ours, they are neither right nor good.
 
-CONCERNING CLERICAL PROPERTY.
+## Concerning Clerical Property
 
 XXIII. Tnat Christ scorns the property and pomp of this world, whence from it follows that those who attract wealth to themselves in his name slander him terribly when they make him a pretext for their avarice and wilfuUness.
 
-CONCERNING THE FORBIDDING OF FOOD.
+## Concerning the Forbidding of Food
 
 XXIV. That no Christian is bound to do those things which God has not decreed, therefore one may eat at all times all food, wherefrom one learns that the decree about cheese and butter is a Roman swindle.
 
-ABOUT HOLIDAY AND PILGRIMAGE.
+## About Holiday and Pilgrimage
 
 XXV. That time and place is under the jurisdiction of Christian people, and man with them, wherefrom is learnt that those who fix time and place deprive the Christians of their liberty.
 
-ABOUT HOODS, DRESS, INSIGNU.
+## About Hoods, Dress, Insignu
 
 XXVI. That God is displeased with nothing so much as with hypocrisy ; whence is learnt that all is gross hypocrisy and profligacy which is mere show before men. Under this condemnation fall hoods, insignia, plates, etc.
 
-114 ZWINGU SELECTIONS.
-
-ABOUT ORDER AND SECTS.
+## About Order and Sects
 
 XXVII. That all Christian men are brethren of Christ and 'brethren of one another, and shall create no father (for themselves) on earth. Under this condemnation fall orders, sects, brotherhoods, etc.
 
-ABOUT THE MARRIAGE OF ECCLESIASTS.
+## About the Marriage of Ecclesiasts
 
 XXVIII. That all which God has allowed or not forbidden is righteous, hence marriage is pennitted to all human beings.
 
 XXIX. That all who are called clericals sin when they do not protect themselves by marriage after they have become conscious that God has not enabled them to remain chaste.
 
-ABOUT THE VOW OF CHASTITY.
+## About the Vow of Chastity
 
 XXX. That those who promise chastity [outside of matrimony] take foolishly or childishly too much upon themselves, whence is learnt that those who make such vows do wrong to the pious being.
 
-ABOUT THE BAN.
+## About the Ban
 
 XXXI. That no special person can impose the ban upon any one, but the Church, that is the congregation of those among whom the one to be banned dwells, together with their watchman, ;. (r., the pastor.
 
@@ -256,13 +243,13 @@ ABOirr ILLEGAL PROPERTY.
 
 XXXIII. That property unrighteously acquired shall not be given to temples, monasteries, cathedrals, clergy or nuns, but to the needy, if it cannot be returned to the legal owner.
 
-ABOUT MAGISTRY.
+## About Magistry
 
 XXXIV. The spiritual (so-called) power has no justification for its pomp in the teaching of Christ.
 
 XXXV. But the lay has power and confirmation from the deed and doctrine of Christ.
 
-THE FIRST ZURICH DISPUTATION. II5
+## The First Zurich Disputation. Ii5
 
 XXXVI. All that the spiritual so-called state claims to have of power and protection belongs to the lay, if they wish to be Christians.
 
@@ -280,7 +267,7 @@ XLII. But if they are unfaithful and transgress the laws of Christ they may be d
 
 XLIII. In short, the realm of him is best and most stable who rules in the name of God alone, and his is worst and most unstable who rules in accordance with his own will.
 
-ABOUT PRAYER.
+## About Prayer
 
 XLIV. Real petitioners call to God in spirit and truly, without great ado before men.
 
@@ -288,17 +275,15 @@ XLV. Hypocrites do their work so that they may be seen by men, also receive thei
 
 XLVI. Hence it must always follow that church-song and outcry without devoutness, and only for reward, is seeking either fame before the men or gain.
 
-ABOUT OFFENCE.
+## About Offence
 
 XLVII. Bodily death a man should suffer before he offend or scandalize a Christian.
 
 XLVIII. Who through stupidness or ignorance is offended with-
 
-Il6 ZWINGLI SELECTIONS.
-
 out cause, he should not be left sick or weak, but he should be made strong, that he may not consider as a sin which is not a sin. XLIX. Greater offence I know not than that one does not allow priests to have wives, but permits them to hire prostitutes. Out upon the shame !
 
-ABOUT REMITTANCE OF SIN.
+## About Remittance of Sin
 
 L. God alone remits sin through Jesus Christ, his Son, and alone our Lord.
 
@@ -314,7 +299,7 @@ LV. Whoever pretends to remit to a penitent being any sin would not be a vicar o
 
 LVI. Whoever remits any sin only for the sake of money is the companion of Simon and Balaam, and the real messenger of the devil personified.
 
-ABOUT PURGATORY.
+## About Purgatory
 
 LVH. The true divine Scriptures know naught about purgatory after this life.
 
@@ -322,7 +307,7 @@ LVin. The sentence of the dead is known to God only, LIX. And the less God has l
 
 THE FIRST ZURICH DISPUTATION. II7 for (seven years for a mortal sin), and to lie for the sake of gain, is not human, but devilish.
 
-ABOUT THE PRIESTHOOD.
+## About the Priesthood
 
 LXI. About the consecration which the priests have received in late times the Scriptures know nothing.
 
@@ -330,7 +315,7 @@ LXII. Furthermore, they know no priests except those who proclaim the word of Go
 
 LXIII. They command honor should be shown, /. (?., to furnish them with food for the body.
 
-ABOUT THE CESSATION OF MISUSAGES.
+## About the Cessation of Misusages
 
 LXIV. All those who recognize their errors shall not be allowed to suffer, but to die in peace, and thereafter arrange in a Christian manner their bequests to the Church.
 
@@ -345,8 +330,6 @@ Let no one undertake here to argue with sophistry or human foolishness, but come
 Thus may God rule.
 
 The basis and commentary of these articles will soon appear in print.
-
-Il8 ZWINGU SELECTIONS.
 
 ---
 [[Zwingli SW 5 III. Acts of the Convention Held in the Praiseworthy|← 5. III. Acts of the Convention Held in the]] · [[Library/protestant reformers/Huldrych Zwingli/Selected Works/selected-works-index|Contents]] · [[Zwingli SW 7 IV. Ordinance and Notice. How Ma|7. IV. Ordinance and Notice. How Ma →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 3. Whence knowest thou thy misery?
-
-**Question 3. Whence knowest thou thy misery?**
 
 Answer. Out of the law of God.
 
-**EXPOSITION**
+## **Exposition**
 
 In this division of the catechism which treats of the misery of man, we are to consider principally the subject of sin, together with the effects or punishment of sin. Other subjects of a subordinate nature are connected with this, such as the creation of man, the image of God in man, the fall and first sin of man, original sin, the liberty of the will, and afflictions In regard to our misery, we must consider in general, what it is, whence and how it may be known!
 

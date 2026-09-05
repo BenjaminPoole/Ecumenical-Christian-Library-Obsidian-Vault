@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Soul's Great Crisis
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3475
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For without the law sin was dead. For I was alive without the law once, but when the commandment came, sin revived, and I died." Romans 7:8,9.
 
@@ -25,7 +22,7 @@ I REMEMBER once reading a chapter of a book which commenced with this heading, "
 
 We shall first speak of the words of the Apostle in this way. Here is life without the Law of God. Here is, secondly, sin coming to the Light of God. And here is, thirdly, the man himself—death brought by the Law to him. And, first, let me speak of—
 
-I. LIFE WITHOUT THE LAW OF GOD.
+## I. Life without the Law of God
 
 The Apostle says that sin was at one time dead in him and he was alive without the Law of God. Now, when he says, "without the law," he does not mean that he never heard the Law of God read, for it was read in the synagogue every Sabbath. He does not mean that he did not know it, for he was probably acquainted with every letter of it. He sat at the feet of Gamaliel and he was a Pharisee of the Pharisees according to his own profession—and they were a sect much addicted to the study not only of the Law of God, but of the jots and tittles of it—they held, in fact, constant discussions and disputes with one another about the minute particulars of that Law.
 
@@ -47,7 +44,7 @@ In addition to these, I have no doubt that there are many professors of religion
 
 You see then, dear Friends, there is such a thing as being alive without the Law of God. A man may be in such a state as to think it is all right because he does not know the Law—and let me say there is no more foolish and dangerous condition in the world than this! A man who has never cared about the Law of God and does not know it and, therefore, concludes that he is righteous, is like a person who thinks he is rich, or tries to think he is—and keeps up a large house and his carriage with a large expenditure. Can he afford it? How about his books? Well, he has had some few difficulties but he met one debt by a loan, and when that loan comes due he will meet that with another. He says he is all right—he believes he is all right—he thinks he is all right! Does he ever look at his books? Oh, no! He says they are very dry reading. He does not need any stock taking—he does not want anybody to look into his affairs. Now without any kind of guesswork, every business man knows how that will end! He knows that it means bankruptcy—ruin. So it does! With a man who says, "All right, I do not care to enquire about my soul-affairs. I dare say it is as I hope it is—I think it is, and I am not going to concern myself about it." It will end in everlasting bankruptcy, my dear Hearer—sure to, sure to—it cannot be anything else! You are like a ship at sea that ought to have been long ago given up to the ship breaker. There she is out at sea. The captain does not care to enquire whether the timbers are sound, or whether they are well caulked, or whether the pumps will work well or not. She has seemed to go very well in fair weather and he does not care to know anything else. There is none of us who would like to go to sea in a vessel like that! We would want to know whether the vessel would stand the strain of a storm, whether she was seaworthy and, if she were not so, we would rather stay on shore! Many of you are in rotten vessels tonight—ships that are worm-eaten through and through, and you will find them go to pieces when once a storm comes up! God have mercy upon you and deliver you from these false hopes, and this living without His Law! And may the Law of God come on board your vessel even now, and begin to test the timbers, and if you should stand by and discover that the thing is only fit to be broken up, why, then I trust you will get on board a better vessel, a vessel that shall stand all storms, of whom Christ is the Captain—a vessel which, indeed, is Christ, Himself. Now we must pass on to the second point.
 
-II. THE REVIVAL OF SIN.
+## II. The Revival of Sin
 
 Paul says, "The commandment came, and sin revived." It seemed to him before as if it were quite dead. He did not believe he had any great sin in him. Other people might have, but Saul of Tarsus was so good there could not be much sin in him. "But when the commandment came, sin revived." What does it mean by the commandment coming? It means this, that he understood its meaning. He never saw it before—that it had respect to his thoughts, his wishes and desires. Now that he saw this, sin revived in him! It means, next, that he saw that the Law was not a thing to be trifled with, that the Law of God was not meant to be written and there to lie like a dead letter, but that God had sworn by Himself that He would carry out that Law and would not spare those who dared to break it! That He would execute judgment upon all those who defy Him to His face and break His Commandments. When Saul saw that, the commandment had come, and sin revived. But best of all, this Saul of Tarsus felt, as I know many of you have, the power of the Law working on the soul. There is no sharper instrument with which to lance the soul than the broken Law of God! There is no harrow that can tear the soul like that harrow of the Ten Commandments. There is no arrow that can go forth and slay the soul's self-satisfaction as God's Commandments do when we see that they are holy, just, good—and that we have broken every one of them—broken them a thousand times, and that every breach of the Law is calling out for vengeance against us! It is a dreadful thing, but a necessary thing, that we should all of us have the Commandments thus coming home to us. Paul thought they were buried. But as soon as the commandments came, sin revived. He means by that that he now saw that sins that had laid buried without monuments suddenly burst their cerements and rose up like the dead on the day of resurrection. "There they are," he seemed to say—"the Commandments have come, and my sins, like a great cloud, have revived—they live, and every one points at and accuses me as the Law of God condemns me."
 
@@ -55,7 +52,7 @@ Then sin revived in another sense, for Paul said to himself, "How could God have
 
 "A strange experience!" you will tell me, but I assure you it is only the usual experience of the children of God! It is the way in which we have been brought to Christ! The Law of God has come to us, and sin has revived in us, and we have died. Now the third point is to show what Paul means by saying he "died."
 
-III. THE MEANING OF DEATH THROUGH THE LAW.
+## III. The Meaning of Death Through the Law
 
 What died in Paul was that which ought never to have lived. It was that great, "I," in Paul—"sin revived, and I died"—that, "I," that used to say, "I thank You that I am not as other men"—that, "I," that folded its arms in satisfied security—that, "I" that bent its knee in prayer, but never bowed down the heart in penitence—that, "I," died! The Law of God killed it. It could not live in such light as that. It was a creature only fit for darkness—and when the Law came, this great, "I," died!
 
@@ -83,11 +80,11 @@ Let me say to any who have been killed by the Law, "It was necessary that you sh
 
 Oh, that the Lord may grant you Grace to do so! And I know He will! If you have been slain by the Law, He will make you alive by the Gospel—for have you never read the words, "I kill and I make alive. I wound and I heal"? Oh, the mercy of that, "I heal"! He heals the broken in heart, and binds up their wounds! He will have regard to the prayer of the destitute. He will not despise their prayers. "I am poor and needy, yet the Lord thinks about me"—is not that you again? "Though your sins are as scarlet, they shall be white as snow; though they are red like crimson, they shall be as wool." Ah, Soul, what good news for you, that if the Law has killed you, you did not need the Law—you have got Christ, who is better! You can still have salvation, though you forfeited it by your own works. You can have that from mercy which you cannot have from justice! You may have that from Jesus which you might never have from Moses. I want to preach but a short sermon. Sometimes they are all the better remembered. God bless you, and write His Truth on your hearts! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 The Soul's Great Crisis PSALM 110; ROMANS2:25-29; 3.
 
-PSALM 110.
+## Psalm 110
 
 Verses 1, 2. The LORD said to my Lord, Sit at My right hand, untilI make Your enemies Your footstool The Lord shall send the rod of Your strength out of Zion: rule You in the midst of Your enemies. You do not need a comment upon this Psalm when you remember how our Lord applied it to Himself. It is David speaking concerning the Son of David, who is also David's Lord and our King, who at this hour is sitting at the right hand of Jehovah, the Lord of All, waiting until His monarchy shall be extended visibly over all creation!
 
@@ -99,13 +96,13 @@ Verses 1, 2. The LORD said to my Lord, Sit at My right hand, untilI make Your en
 
 6\. 7. He shall judge among the heathen, He shall fill the places with the dead bodies; He shall wound the heads over many countries. He shall drink of the brook in the way: therefore shall He lift up the head. Like a stern warrior that seeks not luxury, like Gideon's men that lapped, He shall drink of the brook as He marches on to the conflict. And because He scorns self-indulgence and human luxury, therefore shall He be exalted King of Kings and Lord of Lords.
 
-ROMANS2:25-29.
+## Romans 2:25-29
 
 Verse 25. For circumcision verily profits, if you keep the Law: but if you are a breaker of the Law, your circumcision is made uncircumcision.Paul is dealing with the Jew, who was apt to think that he must have a preference beyond the Gentiles on account of his circumcision.
 
 26-29. Therefore if the uncircumcision keeps the righteousness of the Law, shall not his uncircumcision be counted for circumcision? And shall not uncircumcision which is by nature, if it fulfills the Law, judge you, who by the letter and circumcision transgress the Law? For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh. But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter: whose praise is not of men, but of God. If this principle were fully recognized everywhere, it would certainly put an end to all that notion of sacramentarianism which some men hold! It is not the outward, not the external, not the form and ceremony—it is the inward work of the Holy Spirit—it is holiness and change of heart. Let none of us ever fall into the gross error of those who imagine that there is attached to certain ceremonies a certain degree of Divine Grace. It is not so. He is not a Christian who is one outwardly—he is a Christian who is one inwardly.
 
-ROMANS3.
+## Romans 3
 
 Verses 1, 2. What advantage then has the Jew? Or what profit is there of circumcision? Much every way: chiefly, because that unto them were committed the oracles of God. The Jews of old had a great advantage, for they had the Truth of God when other men had not. The voice of God spoke to them clearly, when only here and there, to a few chosen ones beside, was the voice of God delivered at all.
 
@@ -128,7 +125,6 @@ Verses 1, 2. What advantage then has the Jew? Or what profit is there of circumc
 27\. Where is boasting then?"By works?" No, but by the law of faith.
 
 27\. It is excluded. By what law? Of works? No, but by the law of faith. If we were to say God justified man on the ground of the Law of God without their perfectly keeping it, we would make void the Law of God! But when we teach that God justifies men by His Free Grace and mercy on account of Christ's having kept the Law and having fulfilled all its demands, we do not make void the Law—we establish it!
-
 
 ---
 [[Sermon 3474 Blessings Manifold and Marvelous|← #3474]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3476 Holy Song From Happy Saints|#3476 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # A Bad Excuse Is Worse Than None
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 578
 
-DELIVERED ON SUNDAY MORNING, JULY 3, 1864, BY THE REV. C. H. SPURGEON, AT BAYSWATER..
+*Delivered on Sunday Morning, July 3, 1864, by the Rev. C. H. Spurgeon, at Bayswater*
 
 > "And they all with one consent began to make excuses." Luke 14:18.
 
@@ -146,7 +145,6 @@ O, the Lord have mercy upon you, excuse-makers, and bring you to look to Jesus n
 But mind you, I may never meet you all this side the grave but I will meet you all at God's Great Day and if you receive not Christ and trust in Him, I am clear of your blood. Upon my garments your doom cannot fall. You have heard the Gospel! You have been told to trust Jesus as you are! You have been assured that He is able to save to the uttermost them that come to Him! You have been bid to come and now on your own heads be your soul's ruin if you come not!
 
 May the Spirit of God take these things and apply them to your souls. May He be as a fire and as a hammer in your souls—as a fire to melt, or as a hammer to break. And may you, today, with brokenness of heart take Christ to be your Savior, both now and forever. Amen.
-
 
 ---
 [[Sermon 0577 Let Us Go Forth|← #577]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0579 God Pleading For Saints, And Saints Pleading For God|#579 →]]

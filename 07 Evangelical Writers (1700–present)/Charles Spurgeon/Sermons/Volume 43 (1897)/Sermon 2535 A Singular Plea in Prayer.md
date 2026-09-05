@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Singular Plea in Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2535
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Isaid, LORRD, be merciful unto me: heal my soul; for I have sinned against You." Psalm 41:4.
 
@@ -25,7 +22,7 @@ THIS was one of David's sayings—"I said." It was a saying that was worth sayin
 
 Observe that this is a saying to the Lord—"I said, LORD, be merciful unto me." You hear people say, when they are talking and gossiping, "I said to her and she said to me," or, "He said to me and I said to him"—so-and-so and so-and-so. Well, what does it matter what you said or what they said? Very likely it is not worth repeating, nor the answer that was made to it! Much of what is said may be summed up in the Dunottar Castle motto—
 
-"THEY SAY. WHAT DO THEY SAY? LET THEM SAY."
+## "They Say. What Do They Say? Let Them Say."
 
 It all comes to nothing! It is only breath vainly spent, which would be far more wisely expended if it were, as the poet Cowper said—
 
@@ -93,11 +90,11 @@ There can be no more mingling of the two together as the ground of hope than oil
 
 Just before I came in to this service, I saw a young Brother whom I mean to propose to the Church and who. last Sunday came to me, after the morning sermon, and said, "Sir, I am saved, and I know I am." And as I spoke to him, I thought that I knew it, too. Why should there not be many others in the same blessed condition? What is the use of preaching—what is the use of this vast crowd coming together and going away again—unless men and women believe in Christ? Look unto Jesus and be saved! If you look, you shall be saved now! The Lord lead you to look at this very moment, and unto Him be praise forever and ever! Amen.
 
-EXPOSITION C. H. SPURGEON: PSALMS 41, 42.
+## Exposition C. H. Spurgeon: Psalms 41, 42
 
 You will see, dear Friends, from these holy songs, that the saints of God in those olden days were not screened from trials and troubles, but were tempted in all points like as we are. If we happen to be in similar trying circumstances, let us take comfort from their experiences. The footsteps of the flock that has gone before should make the sheep feel that it is not lost.
 
-Psalm 41 To the chief Musician. A Psalm of David.
+## Psalm 41 To the chief Musician. A Psalm of David
 
 Verse 1. Blessed is he that considers the poor: the Lord will deliver him in time of trouble. David delivered others and God will deliver him. When he is poor and needy, God will think upon him, even as David considered the poor and the needy when they cried to him.
 
@@ -146,7 +143,6 @@ Who graciously to me,
 The health is of my countenance,
 
 Yes, my own God is he." Oh, sweet word, that! May each of us be able to reach it! Amen.
-
 
 ---
 [[Sermon 2534 The Greatest Gift in Time or Eternity|← #2534]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2536 The Ethiopian|#2536 →]]

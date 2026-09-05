@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 45. Matthew 5:23-26;Luke 12:58-59
-
-**MATTHEW 5:23-26; LUKE 12:58-59**
 
 **23**. Therefore, if thou shalt bring thy gift to the altar, and there shalt remember that thy brother hath anything against thee, **24**. Leave there thy gift before the altar, and go away: first be reconciled to thy brother, and then come and offer [^1] thy gift. **25**. Be agreed with thy adversary quickly, while thou art in the way with him: lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be thrown into prison. **26**. Verily I say to thee, Thou shalt not depart thence, till thou shalt have paid the last farthing.
 

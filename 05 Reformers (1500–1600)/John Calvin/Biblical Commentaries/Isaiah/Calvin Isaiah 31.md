@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 31
 
-**CHAPTER 31**
+***Chapter 31***
 
 ## Isaiah 31:1-9
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Open House For All Comers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 665
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 17, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 17, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "This Man receives sinners and eats with them." Luke 15:2.
 
@@ -136,7 +135,6 @@ Why, says Bunyan, "I felt myself such a sinner once that I could do nothing but 
 Try the Lord Jesus, Sinner! Taste and see that the Lord is good! Come to Jesus now! Come as you are! Come now to Him! You need not stop to get to your houses to bend your knees to pray. One cry, one tear, one LOOK with the believing eye will do it. "Look unto Me and be you saved, all you ends of the earth." While we thus preach, may the Master enter into your hearts by His Spirit and may you be led to Him, and we will praise Him together, world without end. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke 15
-
 
 ---
 [[Sermon 0664 Early And Late|← #664]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0666 Holy Work For Christmas|#666 →]]

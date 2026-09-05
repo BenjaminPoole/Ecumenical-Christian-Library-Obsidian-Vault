@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Where Is the Lord?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2258
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then he remembered the days of old, Moses, and his people, saying, Where is He that brought them up out of the sea with the shepherd of His flock? Where is He that put His holy Spirit within him? That led them by the right hand of Moses with His glorious arm, dividing the water before them, to make Himself an everlasting name? That led them through the deep, as an horse in the wilderness, that they should not stumble? As a beast goes down into the valley, the Spirit of the Lord caused him to rest: so did You lead Your people, to make Yourself a glorious name." Isaiah 63:11-14.
 
@@ -81,9 +78,9 @@ So when the Church, serving her God, begins to look far ahead through prophecy�
 
 If any here have never trusted in God, never made Him their Friend, or been reconciled to Him by the death of His Son, I pray them to think of their present condition. Opposed to God? You are standing in the way of an express train! You are urged to get out of the way. You will not? You are going to throw that train off the rails, you say? Poor fool, I could put my arms about your neck and forcibly drag you from the iron way, for assuredly, if you remain there, nothing can come of it but your everlasting destruction! Therefore, flee, flee, I pray you, from the wrath to come! The train of Divine Judgment comes thundering along the iron road even now! It shakes the earth. Awake! Rise! Flee! God help you to do so! Behold, the Savior stands with open arms to be your shelter. Fly to Him and trust in Him, and live forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON
+## Exposition by C. H. Spurgeon
 
-ISAIAH63-64
+## Isaiah 63-64
 
 Isaiah 63:1-6. Who is this that comes from Edom, with dyed garments from Bozrah? This that is glorious in His apparel, traveling in the greatness of His strength? I that speak in righteousness, mighty to save. Why are You red in Your apparel, and Your garments like him that treads in the wine vat? I have trodden the winepress alone; and of the people there was none with Me; for I will tread them in My anger, and trample them in My fury; and their blood shall be sprinkled upon My garments, and I will stain all My raiment. For the day of vengeance is in My heart, and the year of My redeemed is come. And I looked, and there was none to help; and I wondered that there was none to uphold: therefore My own arm brought salvation unto Me; and My fury, it upheld me. And I will tread down the people in My anger, and make them drunk in My fury, and I will bring down their strength to the earth. It is a dark and terrible time—no one at God's side, His people discouraged, Edom triumphant. Then comes the one great Hero of the Gospel, the Christ of God, and by His own unaided strength He wins for His people a glorious victory. He is as terrible to His foes as He is precious to His friends. He stands before us as the one hope of His ancient Church. There is a picture Isaiah was inspired to paint. Now the Prophet goes on to say—
 
@@ -148,7 +145,6 @@ Isaiah 64:1, 2. Oh that You would rend the heavens, that You would come down, th
 7, 8. For You have hid Your face from us, and have consumed us, because of our iniquities. But now, O Lord, You are our Father. Adoption does not come to an end because of sin. Regeneration or sonship does not die out—it cannot die out! I am my father's son, and so I always shall be. And if I am my heavenly Father's son, I shall never cease to be so. "Now, O Lord, You are our Father!" This Truth of God must not be perverted into an argument for sinning—it ought, rather, to keep us from sinning, lest we should offend such wondrous love.
 
 8 - 12. We are the clay, and You our potter; and we all are the work of Your hands. Be not furious, O Lord, neither remember iniquity forever: behold, see, we beseech You, we are all Your people. The holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation. Our holy and our beautiful house, where our fathers praised You, is burned up with fire: and all our pleasant things are laid waste. Will you refrain Yourself for these things, O Lord? Will You hold Your peace, and afflict us very severely? The Prophet touches the minor key and weeps and wails for the sorrows of his people, but he does not neglect to pray. In the next chapter God breaks out and says, "I am sought of them that asked not for Me; I am found of them that sought Me not." How much more quickly is He found of them who seek Him! Verily, God does hear prayer! And He will hear prayer—let us not cease to pray to Him as we look round on the sad state of the professing Church at this time—and with Isaiah let us cry, "Will You refrain Yourself for these things, O Lord? Will You hold Your peace, and afflict us very severely?"
-
 
 ---
 [[Sermon 2257 Inexcusable Irreverence and Ingratitude|← #2257]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2259 The Simplicity and Sublimity of Salvation|#2259 →]]

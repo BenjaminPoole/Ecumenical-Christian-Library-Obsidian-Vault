@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Heb 11:1
 

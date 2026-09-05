@@ -10,7 +10,6 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 12
 
 **Chapter 12**
@@ -57,7 +56,7 @@ Here the Prophet relates that he had executed what God had commanded: nor did it
 
 ## Prayer Lecture 31
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou so wishest us to live in this world, that we may travel onwards till thou gatherest us into thy heavenly rest, that we may truly contemplate that eternal inheritance, and apply to it all our endeavors: and next, that we may so travel in this world that we may not wander nor stray from the way; but being always intent on the mark which thou settest before us, grant us to proceed on our way, until we finish our course, and enjoy that glory which thine only-begotten Son has prepared for us through his own blood. — Amen.
 
@@ -117,7 +116,7 @@ Now, therefore, we understand the intention of God: although some remained alive
 
 ## Prayer Lecture 32
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou declarest to us by so many proofs the formidable nature of thine anger, especially against the obstinate and rebellious, who reject thy word familiarly spoken to them: Grant, I say, that we may embrace what is proposed to us in thy name with the humility and reverence becoming’ to thy children, so that we may repent of our sins, and obtain their pardon, until at length we are freed from all corruptions of the flesh, and become partakers of that eternal and celestial glory which thy only-begotten Son has purchased for us by his blood. — Amen.
 
@@ -181,7 +180,7 @@ Here indeed such detestable blasphemy as we lately heard is not condemned in the
 
 ## Prayer Lecture 33
 
-**PRAYER.**
+## **Prayer.**
 
 Grant us, Almighty God, since thou sparest us in some degree, and meanwhile dost admonish us by no obscure signs of thine anger, to be wise in time, lest sloth seize upon our minds and dispositions, and deprive us of sound judgment: Grant also that we may be attentive to thy words, and to all proofs of thy coming vengeance, and may we so strive to be reconciled to thee, that for the future being born again of thy Spirit, we may henceforth glorify thy name through Christ Jesus our Lord. — Amen
 

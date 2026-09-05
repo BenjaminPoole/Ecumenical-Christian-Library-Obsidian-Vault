@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Standing and Singing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3375
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My foot stands in an even place; in the congregations will I bless the Lord." Psalm 26:12.
 
@@ -31,7 +28,7 @@ It seemed to the common onlooker as though his foot would slip, as though he wer
 
 There are two things in the text to which I would call your attention. The first is a Believer in a happy position. And the second is, a Believer engaged in a happy occupation. His "foot standing in an even place," a happy position. "Praising and blessing God," a happy occupation. We have here, first, then—
 
-I. A BELIEVER IN A VERY HAPPY POSITION.
+## I. A Believer in a Very Happy Position
 
 Now, what does he mean by his "foot standing in an even place"? Well, is it not the very worst evil that a genuine Christian can suffer to fall into sin? To fall finally, would, of course, be our everlasting ruin. To fall at all, in any sense, is our greatest grief. Every true child of God would sooner sorrow a thousand times than sin once. His Father's rod he has learned to love, but sin, even when it is the choicest pleasure, he has learned to hate. "Lord," he says, "allow me to go anywhere except into sin. If the way is rough, so be it, if it is Your way, I will bless You for being in it. But if the road is ever so smooth, allow not my feet to tread it, if it is Bye-Path Meadow." The worst evil that can befall a Christian, I say, is to fall into sin and continue to do so. On the contrary, one of the richest blessings that a Christian can enjoy is to be kept aright in his walk and conversation—year after year to wear a spotless character—year after year to be such an one as Daniel, that even the man's enemies can find nothing against him except touching the Law of his God. Oh, this is a great honor! This is a rare jewel! There are some of God's servants who will get to Heaven who never wore this jewel. They have been the Lord's people, but yet their slips and falls have given them broken bones and troubled hearts—and they have been saved at the last "so as by fire." But it is a choice mercy if the child of God is able not only safely to get into the harbor, but to get into the harbor without having touched a rock, without having sunk in a quicksand, without
 
@@ -119,7 +116,7 @@ Him!
 
 I am afraid my sermon has no relation to some here present, but I ask them whether God has not been good to them in many respects. They have been kept alive—let them be grateful for the mercies they have and let their gratitude lead them to penitence, to think that they have sinned against so good a God! Ah, my Hearers, if you will but repent and come to Him, He will be found of you. Knock and His door will be opened. Speak to Him and He will hear and listen to you! Trust in the Lord Jesus Christ and He will wash you in His blood and bring you to His Father's right hand in the Kingdom! The Lord bless these words, spoken in much conscious weakness, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM37:17-40.
+## Exposition by C. H. Spurgeon: Psalm 37:17-40
 
 17\. For the arms of the wicked shall be broken: but the LORD upholds the righteous. They must stand, therefore, for how shall he fall whom God upholds?
 
@@ -142,7 +139,6 @@ But the day shall come when the vile person shall cease from off the earth and t
 31-40. The Law of his God is in his heart; none of his steps shall slide. The wicked watches the righteous, and seeks to slay him. The LORD will not leave him in his hand, nor condemn him when he is judged. Wait on the LORD, and keep
 
 His way, and He shall exalt you to inherit the land: when the wicked are cut of, you shall see it. I have seen the wicked in great power, and spreading himself like a green bay tree. Yet he passed away, and, lo, he was not: yes, I sought him, but he could not be found. Mark the perfect man and behold the upright. For the end of that man is peace. But the transgressors shall be destroyed together: the end of the wicked shall be cut off. But the salvation of the righteous is of the LORD: He is their strength in the time of trouble. And the Lord shall help them, and deliver them: He shall deliver them from the wicked, and save them, because they trust in Him.
-
 
 ---
 [[Sermon 3374 Sin's True Character|← #3374]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3376 God's Answer to Persistent Prayer|#3376 →]]

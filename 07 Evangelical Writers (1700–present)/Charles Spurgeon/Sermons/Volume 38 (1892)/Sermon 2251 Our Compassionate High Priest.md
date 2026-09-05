@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Our Compassionate High Priest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2251
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We can have compassion on the ignorant, and on them that are out of the way; for he, himself is also compassed with infirmity." Hebrews 5:2.
 
@@ -140,7 +137,6 @@ Herein I think that every one of us should try to make use of all his weaknesses
 Let us go, in all our weakness and infirmity, and try to help others who are as ignorant and as out of the way as we once were and, God blessing us, when we are weak, we shall be strong! When we are less than nothing, the all-sufficiency of God will be all the more manifested. Here I must stop, for our time has gone. May the Lord bless the word, both to the sinner and to the saint, for His name's sake! Amen.
 
 Portion of Scripture Read before Sermon—Hebrews 4:15,16:5.
-
 
 ---
 [[Sermon 2250 Words To Rest On|← #2250]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2252 The Unknown Giver and the Misused Gifts|#2252 →]]

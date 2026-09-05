@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 33
-
-**PSALM 33.**
 
 David, or whoever was the author of this psalm, in order to excite believers to praise God, founds his argument upon the general providence of God, by which he sustains, protects, and governs the whole world. Afterwards he celebrates God’s paternal kindness towards his chosen people, showing at the same time how necessary it is that the godly should be cherished by his special care.
 

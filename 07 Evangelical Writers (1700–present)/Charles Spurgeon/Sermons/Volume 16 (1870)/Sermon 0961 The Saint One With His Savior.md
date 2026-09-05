@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Saint One With His Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 961
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 20, 1870,.
+*Delivered on Lord's-Day Morning, November 20, 1870*
 
 > "He that is joined unto the Lord is one spirit." 1 Corinthians 6:17.
 
@@ -176,7 +175,6 @@ The last word will help you to persevere. Don't you see, my Brethren, the way to
 Men never grow in Grace by departing from the Savior by unbelief. The more you need Christ the closer cling to Him. The less you are like He is the tighter hold Him. Your hope lies there. "If my spirit is not yet subdued to Your spirit, my Savior, yet I cannot let You go, for that were to drive the physician away because I am still sick. That were to renounce my friend because I have great need of him. No, but closer to You will I cling by Your Holy Spirit from this day forth, that being joined to You, I may be of one spirit."
 
 I feel I have feebly addressed you, but at the same time I know precious Truth has been set forth. May the Holy Spirit open it up to your hearts, and bless it to your souls, and He shall be magnified. But if you have no part nor lot in this matter, may that dreadful fact lead you at this hour to seek the Savior.
-
 
 ---
 [[Sermon 0960 Iconoclast|← #960]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0962 A Personal Application|#962 →]]

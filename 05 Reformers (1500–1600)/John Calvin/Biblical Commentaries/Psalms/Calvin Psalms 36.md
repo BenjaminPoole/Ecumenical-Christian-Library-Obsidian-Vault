@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 36
-
-**Psalm 36**
 
 Almost all interpreters agree in supposing, that in this psalm David in general expresses his wonder and amazement at the goodness of God, because, in the exercise of his favor and mercy, he bears with the wicked, who, notwithstanding, basely contemn him. The opinion which I have formed is somewhat different. I think that the holy prophet, being grievously troubled and harassed by wicked and ungodly men, first complains of their depravity, and then seeks refuge in the infinite goodness of God, which extends not only to all men in general, but in a particular and special manner to his own children; and this he does in order to console, and, so to speak, take his breath, in the assurance that he shall at length be delivered since God is favorable to him. This is evident from the conclusion of the psalm, in which he arms and fortifies himself against all the assaults of the ungodly, by reflecting that he is safe under the protection of God.
 

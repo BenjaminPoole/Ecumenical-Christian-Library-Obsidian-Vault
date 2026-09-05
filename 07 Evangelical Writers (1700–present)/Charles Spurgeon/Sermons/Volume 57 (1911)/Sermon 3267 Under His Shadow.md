@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Under His Shadow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3267
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He that dwells in the secret place of the Most High shall abide under the shadow of the Almighty." Psalm 91:1.
 
@@ -101,7 +98,7 @@ Alas, there is a way of always showing self in what we do, and we are all too re
 
 These are mere surface thoughts. The subject deserves a series of discourses. Your best course, my beloved Friends, will be to enlarge upon these hints by a long personal experience of abiding under His shadow. May God the Holy Spirit lead you into it and keep you there, for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 91; 63.
+## Exposition by C. H. Spurgeon: Psalms 91; 63
 
 A Psalm written for comfort, but it is not addressed to all mankind, neither, I venture to say, to all Believers, but only those who are described in the first verse.
 
@@ -137,7 +134,7 @@ the most deadly pestilences! I collected, some time ago, a little list of names 
 
 15, 16. I will be with him in trouble, I will deliver him and honor him. With long life will I satisfy him and show him My salvation.Now, it is not a promise to every good man that he shall live for a long period, for some among the best of men die in very early youth. But still they have had a full life, for life must not be measured by years. Oh, how much do some men pack into a little time! How much of life there may be in the man whose course is finished before he is 30 years of age and how little may some live who expand their days into 80 or 90 years! Belzoni's toad—you remember the piece of poetry into which some imaginative person has cast his diary, how once in a thousand years it crept from under a stone and winked with one eye? Well it did not live much in the course of two or three thousand years—it existed. But a man who is full of holy duties and earnest purposes lives long even though the time is short!
 
-Psalm 63. A Psalm of David when he was in the wilderness of Judah—
+## Psalm 63. A Psalm of David when he was in the wilderness of Judah—
 
 Exiled, ill at ease, hunted, exposed to danger. Yet he could sing! And some of the sweetest Psalms came out of the bitterest afflictions. God's songsters are like nightingales that reserve their sweetest music for the night. Whenever you and I come to be in the wilderness, may we refresh ourselves with such a Psalm as this.
 
@@ -170,7 +167,6 @@ He that wrote that verse knew what was meant by this, "My soul shall be satisfie
 9, 10. But those that seek my soul, to destroy it, shall go into the lower parts of the earth. They shall fall by the sword: they shall be a portion for foxes. Or jackals, as its name became.
 
 11\. But the king shallrejoice in God; everyone that swears by Him shall glory: but the mouth of them that speak lies shall be stopped. Very hard work to stop it, though, for they are always breaking out in a fresh place. They have always some new lie! A shovelful of earth will do it, if nothing else will. Let everyone here who is accustomed to slander or to speak evil of his neighbor listen to this prophetic voice—"the month of them that speak lies shall be stopped." But the mouths that speak the praises of God shall go on singing forever and ever. May such mouths be ours!
-
 
 ---
 [[Sermon 3266 The Priesthood of Believers|← #3266]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3268 The Savior's Silence|#3268 →]]

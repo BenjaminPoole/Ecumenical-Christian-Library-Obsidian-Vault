@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 14. Decade 2, Sermon 2
 
-Tux law of God, openly published and proclaimed by the Whatthe | Lord our God himself, setteth down ordinary rules for us to 5 know what we have to do, and what to leave undone, requiring obedience, and threatening utter destruction to disobedient rebels. This law is divided into the moral, ceremonial, and judicial laws: all which parts, and every point whereof, Moses hath very exquisitely written, and diligently expounded. The the moral moral law is that which teacheth men manners, and layeth Ὁ down before us the shape of virtue®; declaring therewithal how great righteousness, godliness, obedience, and perfectness God looketh for at the hands of us mortal men. The cereThe ceremo- nial law.
+Tux law of God, openly published and proclaimed by the Whatthe | Lord our God himself, setteth down ordinary rules for us to 5 know what we have to do, and what to leave undone, requiring obedience, and threatening utter destruction to disobedient rebels. This law is divided into the moral, ceremonial, and judicial laws: all which parts, and every point whereof, Moses hath very exquisitely written, and diligently expounded. The the moral moral law is that which teacheth men manners, and layeth Ὁ down before us the shape of virtue®; declaring therewithal how great righteousness, godliness, obedience, and perfectness God looketh for at the hands of us mortal men. The cereThe ceremonial law.
 
 monial laws are they which are given concerning the order
 
@@ -29,8 +28,6 @@ monial laws are they which are given concerning the order
 The judicial law.
 
 The law was even before Moses’ time.
-
-210 THE SECOND DECADE. [SERM.
 
 of holy and ecclesiastical rites and ceremonies, and also touching the ministers and things assigned to the ministery and other holy uses. Last of all, the judicial laws give rules concerning matters to be judged of between man and man, for the preservation of public peace, equity, and civil honesty. Touching the two latter of these, I will speak of them in place convenient. At this time I mean to discourse upon the moral law.
 
@@ -66,8 +63,6 @@ Two tables of
 
 God’s law.
 
-212 THE SECOND DECADE. [SERM.
-
 Moreover, this is to be noted touching the dignity of the moral law contained in the ten commandments; that, whereas all the ceremonial and judicial laws were revealed of God to Moses by the angels, and by Moses to the people; and that again by Moses, at God’s commandment, they were inserted into written books; yet notwithstanding the moral law of the ten commandments was not revealed by man, or any means of man, but by God himself at the Mount Sina: who there, among other mighty and marvellous wonders, did openly, in a public and innumerable assembly of men and angels, rehearse them word for word, as they are now to be seen. Furthermore, they were written not by the hand of Moses, but with the finger of God, in tables, not made of matter easy to be dissolved!, but made of stone to endure for ever. Those tables also were kept, as the most precious treasure, in that ark, which of the tables of the covenant (containing in them the chief articles of the eternal league) was named the ark of the covenant: which ark again was laid up in the holy of holiest. All which circumstances tend to nothing else, but to commend unto us the excellency of the ten commandments, and to warn us to reverence that God which published this moral law, as him that is the Lord of heaven and earth, and which at his own will and pleasure doth order the disposition of all the elements against disobedient rebels. These circumstances also do admonish us, that even now, in our time also, we have to esteem of the ten commandments, as of the dearest jewels to be found in all the world. For the holy reliques, that are remaining in the church of Christ, are the ten commandments, the apostles’ creed, the Lord’s prayer, and lastly, the whole contents of the sacred bible. Touching the proclamation or first edition of the ten commandments, we have a wonderful large discourse of Moses, Exod. xix. and Deut. iv. and v. chap.
 
 Now the tables, whereinto the ten commandments of God’s law be disposed, are in number two; whereof the first containeth four commandments, and the latter six. For the last commandment, which some divide into twain, is in very deed
@@ -76,7 +71,7 @@ Now the tables, whereinto the ten commandments of God’s law be disposed, are i
 
 [23 Cf. Bullinger’s Comment. in 2 Epist. Petri, cap. i. 12—15. p. 59. (published 1534) and Argument. Epist. ad Galat. ad finem. p. 340. (published a
 
-ΠῚ 151 AND 2ND PRECEPTS OF THE TEN COMMANDMENTS. 213 but one alone and undivided’. For first the Lord doth generally command and say, “Thou shalt not covet:” and then he descendeth particularly, and doth by enumeration reckon up the things that we must not covet; to wit, our neighbour’s wife, his house, his lands, his cattle, and his substance. Beside that too, this doth argue that it is so, because, according to the Hebrew disposition, this commandment is altogether one whole verse, not divided into twain’. With this division of ours agree Joseph. Antig. Lib. m1. cap. 55; Origenes in Exod. Hom. 8°; Ambros. in vi. cap. Epist. ad Ephes.” But the Master of Sentences, having divided this last He putteth ree in the commandment into twain, doth therefore place in the first firsttable,and seven in the table three commandments and no more®. He did, perad- !#st, which added toge- ther do make up ten.
+ΠῚ 151 AND 2ND PRECEPTS OF THE TEN COMMANDMENTS. 213 but one alone and undivided’. For first the Lord doth generally command and say, “Thou shalt not covet:” and then he descendeth particularly, and doth by enumeration reckon up the things that we must not covet; to wit, our neighbour’s wife, his house, his lands, his cattle, and his substance. Beside that too, this doth argue that it is so, because, according to the Hebrew disposition, this commandment is altogether one whole verse, not divided into twain’. With this division of ours agree Joseph. Antig. Lib. m1. cap. 55; Origenes in Exod. Hom. 8°; Ambros. in vi. cap. Epist. ad Ephes.” But the Master of Sentences, having divided this last He putteth ree in the commandment into twain, doth therefore place in the first firsttable,and seven in the table three commandments and no more®. He did, perad- !#st, which added together do make up ten.
 
 (3 Cf. Calvin. Instit. Lib. m. cap. 8, §. 12. Becon’s Works, Parker Soc. ed. Vol. π. pp. 59, 60.]
 
@@ -91,8 +86,6 @@ Now the tables, whereinto the ten commandments of God’s law be disposed, are i
 [8 Habet decalogus decem precepta... que sic sunt distributa, ut tria que sunt in prima tabula pertineant ad Deum...... septem que sunt in secunda tabula ad dilectionem proximi. Primum in prima tabula est, Non habebis deos alienos. Non facies tibi sculptile, &c. Hee Origenes dicit esse duo mandata, sed Augustinus unum.—Pet. Lombard. Lib. m1. Distinct. 37. Par. 1575. fol. 293.—The title of
 
 What the two tables of the law do contain.
-
-214 THE SECOND DECADE. [SERM.
 
 venture, follow Augustine herein, who, Quest. in Exod. 71: and Epistola ad Januarium 1191, doth also reckon up but three commandments of the first table alone; which he did in respect of the mystical Trinity. And yet, this notwithstanding, he doth not overslip the commandment for abandoning and not worshipping of images; for, undoubtedly, he had always in his mind those words of the Lord in the gospel, where he saith: “Verily I say unto you, though heaven and earth do pass, one jot or tittle of the law shall not pass, till all be fulfilled. Whosoever, therefore, shall break one of the least of these commandments, and shall teach men so, he shall be called the least in the kingdom of heaven.” The same Augustine again, in Queestionibus Veteris et Novi Testamentt, Lib. 1. cap. 7, maketh four commandments of the first table, and six of the second? And again, he differeth not much from the same order in his third book ad Bonifacium, 8.3 Now touching these commandments, the Lord hath divided them into two several orders or tables because of the several difference of matters handled in either of them. For the first of the two appertaineth to God, the second unto man. The first teacheth us what we have to think concerning God, and the
 
@@ -114,8 +107,6 @@ Saturnus a saturando®, which is, “ to fill.’ For God is the τοῖν οὔ
 
 [6 Copiz cornu, Lat. On this Divine name “JW, Bullinger thus gives his opinion in his book, De Origine Erroris, cap. 1. p. 5: Magis mihi placet Rabbi Mosis Maimonis filii sententia, quam Petrus Galatinus hisce ferme verbis exponit: Nomen Schaddai compositum est ex verbis J Daii, quod est, suficit; et ex litera wy, que idem pollet quod WN, gui: ut Schaddai idem sit quod, qui suficit, vel qui suffi-
 
-216 THE SECOND DECADE. [SERM.
-
 is the everlasting well of all good things, which never is drawn dry. And that doth Jeremy declare at large in the second chapter of his prophecy. All which verily God in effect comprehendeth in these few words: “I am the Lord thy God.” ‘I, I say, which speak to thee from within the fire, I, and none other.’ Here is expressly meant the unity of God. We are here taught to acknowledge one God, and no more; to stick to one, and not to suffer our hearts fantas-_ tically to dream of many!. “I am thy Lord, I am thy God.” He is a Lord, because he alone hath the rule over all creatures; all things are subject to him as to their Lord; all things do bend and obey him, if once he do but beck. He, as Lord alone, doth govern and uphold all things that are*. So then in this one word is contained the wisdom of God, his virtue, his power, and infinite majesty. Deus, which word we use for “God,” is, peradventure, derived of the Hebrew word Daii, which signifieth sufficiency or full ability®, For God alone, of himself, is unto himself most perfect blessedness and absolute felicity: he is also sufficiently able to minister all things most abundantly to all them that seek after him in truth sincerely, being of himself most liberally wealthy to all that call upon his name. Therefore in this branch the sufficient and full ability, the liberality, the goodness and mercy of God, are to be noted: but most especially in this that he saith, “Iam thy God; thy God, I say.” For God is not good to himself alone, but even unto us also. He desireth to ciens aut sufficientia est. Heee Galat. Poterit itaque Deus appellari Saturnus. Ut enim a die fit diurnus, sic a saturando dicitur Saturnus. ce Itaque licebit nunc summam illam yim ipsum Deum appellare et Schaddai et Saturnum et Copiz cornu. See also Early Writings of Bp. Hooper, ed. Parker Soc. p. 293.]
 
 [᾿ non corda pluribus dividere, Lat.]
@@ -132,8 +123,6 @@ By this now, in the second place, we have to gather what What this the good and 
 
 [5 beatus, Lat. ] [ὁ Deut. vi. 13; Matt. iv. 10.]
 
-218 THE SECOND DECADE. [SERM.
-
 Lord your God, fear him, keep his commandments, hearken to his voice, serve him, and stick to him!” The Lord himself also in the Psalm crieth out and saith: “Offer to the Lord the sacrifice of praise, and pay thy vows unto the Highest. And call upon me in the day of trouble?,” &c.
 
 The true God And now, touching the demonstration, whereby he declareth that he hath been, is, and will be the God and Lord of us all, of our fathers, and of our children that come after us; the proof thereof is most evident by our? delivery out of Egypt. Therein are contained all the virtues of God; his wisdom, his goodness, his righteousness, his truth, his power, and what not? He declareth that he is the Lord in heaven and in earth, in all elements and all creatures. His people the Israelites doth he graciously deliver, defend, with sundry gifts adorn, and mightily preserve, even in despite and maugre all the heads of the whole Egyptian kingdom*. And on the other side, he doth by sundry means very terribly, yet notwithstanding justly, punish the Egyptians; and last of all, together with their king, he overwhelmeth them in the Red Sea. By this one miracle of the Lord’s the Israelites might have gathered, as God is almighty and the mightiest of all, so also that he would be their God, as heretofore he had been the God of their fathers. For by this wonder he did declare what he was then, and of how great power and goodness he is even at this day among us, and also what he will be in all ages, even unto the end. To us that live in these days the deliverance, which we have obtained by Jesus Christ our Lord, is far more fresh in memory; who hath not delivered us from the bondage of any Egyptian kingdom, nor from the tyrannous hands of any earthly Pharao, but hath set us free from the power of darkness, of sin, death, and the devil. Whereby we gather, that as the eternal, true, excellent, high, and holy God is most mighty, so also he is our God; that he wisheth well to us, and that he careth for and loveth us, according to that saying of the apostle: ‘“ Who spared not his own Son, but gave him for us all, how can it be but that ofourte with him he will give us all things?” Verily, the mystery
@@ -148,9 +137,7 @@ rst com-
 
 The latter branch of this first commandment flatly forbidstrange goas is, it taketh from us all extraordinary means to seek the safeguard of our lives, where the working finger of God is not, and whatsoever else may be either devilishly devised or unadvisedly chosen beside the very word of God. And therefore the Lord useth a most vehement or earnest kind of speaking : for saith he, “ Thou shalt not have any other gods before me’.” See, he saith, Thou shalt not have, and thou shalt not have before me, or before my face, or with me, or
 
-[61 Cor. ¥.. 7.) [1 John i. 29; Acts viii. 32; 1 Pet. i. 19; Rev. vy. 6.] [$ coram me, Lat.] are forbid- deth us, and every one of us, to have any strange gods; that den.
-
-920 THE SECOND DECADE. [SERM.
+[61 Cor. ¥.. 7.) [1 John i. 29; Acts viii. 32; 1 Pet. i. 19; Rev. vy. 6.] [$ coram me, Lat.] are forbid-deth us, and every one of us, to have any strange gods; that den.
 
 by me. We Germans say, Zu mir; oder nabend mir ; oder lass michs nit sahen vor meinen augen. For so do fathers speak in their anger, when they do earnestly forbid a wicked and heinous thing. See, say they, that thou do it not before mine eyes for me to see it. But now God is present every where; God seeth all things; yea, he beholdeth our hearts, and hidden secrets of our hearts. We must not therefore in any case, either openly or privily, have any strange gods: that is, none of us must make account of any creature, either in heaven or earth, as of our God; none of us must attribute God’s properties to his creatures, nor yet the things which we of duty do owe to God himself. The properties of God are these; to be all over! and every where, to see all, to know all, to be able to do all, to give life, to deliver, and cleanse from sins, to save, preserve, to justify, to sanctify, and whatsoever else is like to these. On the other side, our duty to him is, to reverence God, to call on God, to fear God, to worship God, to hope in God, to stick to God, to hear God, to believe God, and to obey God.
 
@@ -180,8 +167,6 @@ The second commandment of God.
 
 The end of the commandment is to draw us from strange and foreign worshippings.
 
-222 THE SECOND DECADE. [SERM.
-
 therefore may be abused, and made strange gods. But most of all are condemned here the leagues and covenants made with the devil by witchcraft, to have him at commandment. Those blessings also which of right ought rather to be called cursings, I mean, superstitious exorcisms or conjurations, are utterly to be rejected; wherein also this is blameworthy, that the name of the most high God is horribly abused and taken in vain. But what is he, that can exactly reckon up every particular thing wherein this first commandment is transgressed, considering that in it is taught the perfect rule of godliness, which is the inward worship done to God; to wit, to acknowledge God, to believe him, to think rightly of him, to call upon him, to cleave unto him, and in all things to obey him ?
 
 The second precept of the ten commandments is: “ Thou shalt not make to thyself any graven image, nor any likeness of those things which are in heaven above, or in the earth beneath, or in the water under the earth; thou shalt not bow down to them, nor worship them: I am the Lord thy God, strong, and jealous, visiting the fathers’ sins in the children unto the third and fourth generation of them that hate me, and shewing mercy unto thousands to them that love me, and keep my commandments.” In the first commandment the Lord did teach and draw out before our eyes the pattern of his inward worship and religion: now here, in the second, he amendeth that which might be amiss in the outward rites and ceremonies. If we could have rightly judged of God, and have kept (as devoutly as we should) the first commandment, then should there have been no need of the second: but, because God knew our disposition and nature, he doth therefore expressly forbid the thing that otherwise we would have done. For many there are which think, that God ought to be pourtrayed in some similitude or likeness, and to be worshipped with some bodily or visible reverence, in offering gold, silver, pearls, ivory, and precious things of price. Wherefore the general end of this commandment is, to draw them from those gross imaginations and carnal worshippings of God, who as he is an incomprehensible power and an eternal spirit, so can he not be resembled to any corruptible similitude: he will be worshipped in spirit and holiness. Under the name of the idol, or imagined likeness, is contained all the outward
@@ -199,8 +184,6 @@ God forbiddeth a graven image.
 That ic, the sun, moon, and stars.
 
 apheder aris to any thing.
-
-224 THE SECOND DECADE. [SERM.
 
 celestial bodies they do conjecture and verily think, that the gods are neither inclosed in walls, nor yet in favour resembling men’s visages ; and therefore do they hallow woods and groves, calling that hidden mystery by the name of the gods, which with outward eyes they see not, but with inward reverence alone!.” Lo, here, our ancestors worshipped God in the likeness of trees and woods: which, nevertheless, men are forbidden here to do, even as also we are prohibited to worship our God in the likeness of any thing that is in or under the water. The Philistines worshipped God in the image of a fish; for Dagon their God bare the shape of a fish? Egypt honoured God in the similitude of serpents*. All which, and many other, Paul knitteth up together in the first to the Romans, where he argueth against the Gentiles, and saith: “Their foolish heart was blinded: when they counted themselves wise, they became fools, and turned the glory of the incorruptible God unto the likeness, not only of a mortal man, but also of birds, and of four-footed beasts, and of creeping beasts.” Against this madness is the first part of the law directly given.
 
@@ -232,8 +215,6 @@ I1. | Ist AND 2ND PRECEPTS OF THE TEN COMMANDMENTS, 225 thing. But David, descri
 
 [12 The name, Solomon, is not in the original Latin. ] i
 
-226 THE SECOND DECADE. [SERM.
-
 out all glory, and subject to the scoffs and mocks of men!.” Images are tokens of absent friends: but God is present always and everywhere. And the signs or tokens, which God did of old ordain and give to his people, were not simply the signs and images of God, but tokens of God’s presence, signifying that God, who by nature is a spirit, and invisible, incomprehensible, and unmeasurable, is present still among them. Such a token was the cloud, the smoke, the fire, and finally, the very ark of the covenant, which also the cherubin did cover with their wings, signifying thereby that no mortal man could look God in the face; and that therefore the soul, and the mind, and the spirit, ought by contemplation to be lifted up into heaven, there to behold him. For to Moses, who notwithstanding is said to have seen God face to face, it was said, ‘No man shall see me and live?” When once we are deceased, then shall we see him as he is, according to the sayings of the blessed evangelist John*. So then these, I say, are the causes, why the Lord will not have himself represented or pourtrayed in any matter or likeness.
 
 Hereunto now do appertain the places of scripture, and testimonies of the men that are the chiefest pillars of true religion and godliness, of Moses, Esay, and Paul. Moses in Deuteronomy saith: “The Lord spake unto you from the midst of the fire: and a voice of words ye heard, but likeness saw ye none, but heard the voice only. Take good heed therefore unto yourselves, as pertaining unto your souls (for ye saw no manner of image in that day), lest ye mar yourselves by making you a graven image, the likeness of any manner of figure, whether it be the picture of man or woman; the likeness of any manner of beast that is on the earth; or the likeness of any manner of feathered fowl that flieth in the air ; or the likeness of any manner of worm that creepeth on the earth; or the likeness of any manner of fish that is in the waters beneath the earth: yea, and lest thou lift up thine eyes unto heaven, and when thou seest the sun, the moon, and the stars, with all the host of heaven, thou shouldest begin to worship them and reverence them, and shouldest worship and serve the things which the Lord thy God hath made to serve all nations under the whole heaven. Take
@@ -254,8 +235,6 @@ Moreover, Paul, the apostle of Christ, disputing at Athens of true religion, sai
 
 [8 Isai. xl. 15—23, 25, 26.] 15—2
 
-228 THE SECOND DECADE. [SERM.
-
 dwelleth not in temples made with hands, neither is worshipped with men’s hands, as though he needed any thing; since he himself giveth life and breath to all and everywhere, and hath made of one blood all nations of men, to dwell on all the face of the earth, and hath determined the times before appointed, and also the limits of their habitation, that they should seek the Lord, if perhaps they might have felt, and found him; though he be not far from every one of us: for by him we live, and move, and have our being; as certain of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, graven by art or man’s device!.”
 
 - These testimonies are so evident, and do so plainly declare that which I purposed, that I need not for the further exposition of them to say any more. They were great causes, therefore, that moved St Augustine precisely to pronounce it to be horrible sacrilege for any man to place in the church the image of God the Father, sitting in a throne with bended hams; because it is detestable for a man so much as to conceive such a likeness in his mind. His very words I have rehearsed in the eighth Sermon of my first Decade’, where I had occasion to speak of the right hand of the Father, and to teach you what it is to sit at the Father’s right hand.
@@ -269,8 +248,6 @@ II. | Ist AND 2ND PRECEPTS OF THE TEN COMMANDMENTS. 229 choose himself a foreign
 [3 Quando—venissem ad villam que dicitur Anablatha,—inveni velum pendens in foribus—ecclesiz, tinctum atque depictum, et habens imaginem, quasi Christi, vel sancti cujusdam.—Cum ergo hoc vidissem, in ecclesia Christi contra auctoritatem scripturarum hominis pendere imaginem, scidi illud.—Epiphan. Opp. Par. 1622. Tom, πὶ. fol. 317.]
 
 [4 Secte ipsius (i.e. Carpocratianorum) fuisse traditur socia queedam Marcellina, que colebat imagines Jesu et Pauli et Homeri et Pythagore, adorando incensumque ponendo.—August. Opp. Par. 1531. Tom. vi. fol. 3.]
-
-290 THE SECOND DECADE. [SERM.
 
 without a shew of superstition, for him that prayeth to fall down prostrate before a wooden idol, to have his eyes stedfastly bent upon that alone, to speak to that, to kiss that, and not to pray at all but before an idol. And this I add, that whosoever do imagine God to be any other than indeed he is, they, contrary to this precept, do worship graven images'.” And again, in the same catechism, he saith: “ Even until the time of Hierome there were men of sound religion, which suffered not in the church any image to stand, neither painted, nor graven, nor woven; no, not so much as of Christ, because (as I suppose) of the Anthropomorphites. But afterward the use of images by little and little crept up and came into the churches®.” This hath Erasmus.
 
@@ -292,8 +269,6 @@ Idols teach not.
 
 We have no cause to choose strange gods.
 
-O37 THE SECOND DECADE. [SERM.
-
 therefore, to run in pilgrimage to idols, yea, though they be the images of God himself. We are forbidden to do them any service, in offering gifts, or attributing unto them any one jot of God’s pre-eminence, thereby to bind ourselves to maintain and uphold their unlawful honour, in mingling such superstitions with better points of true religion. This therefore considered (since we may not attribute to images any serviceable honour!), I do not see how we can ascribe to them the office of teaching, admonishing, and exhorting, which are the offices and benefits of God’s Holy Spirit and word: for Abacuck the prophet, of whose writings Paul did make no small account, hath left in writing words worth remembering. “What profiteth” (says he) “the image? for the maker of it hath made it: an image and a teacher of lies, though he that made it trusteth therein, when he maketh dumb idols? Woe unto him that saith to the wood, Awake; and to the senseless stone, Arise! Should that teach thee? Behold, it is covered with gold and silver, and there is no breath in it. But the Lord is in his holy temple; let all the earth keep silence before him?.” What could be said more plainly and agreeable to the truth? Images (saith he) are mere and very lies. But how can that teach the truth, which of itself is nought else but a lie? There is no moving, there is no life, there is no breath in a picture or image. But the Lord sitteth in his holy temple, where he reigneth, and teacheth, by inspiration and the preaching of his word, the sum of godliness, and where he liveth for ever in the hearts of all his saints and servants. Let therefore all the tongues in the whole world be stopped of them that go about to maintain and uphold superstitious idolatry against the true and living God.
 
 Now again in the third part of this commandment the Lord doth briefly knit up the pithy handling of sundry things. For, first, he sheweth that men have no just or lawful cause in turning from God, either to make them strange gods, or else to worship God otherwise than they ought to do. “I am” (saith he) “the Lord thy God,” a strong God. If I be the Lord, then shouldest thou of duty serve me, honour me, obey me, and worship me, so as thou dost understand that I do desire to be worshipped and honoured. If I be God, then am I of
@@ -310,7 +285,7 @@ Then also he descendeth, and doth very severely, yet God sufteretn notwithstandi
 
 [5 religamur Deo (unde et religionis nomen est), Lat. omitted; from which binding the name, religion, is derived. So Augustine: Ad
 
-994\. THE SECOND DECADE. [SERM.
+## 994\. The Second Decade. [Serm
 
 wife and chosen spouse. A chaste and faithful wife giveth ear alone to her husband’s voice; him alone she loveth, him alone she doth obey, and, him excepted, she loveth no man at all. Again, on the other side, a shameless, faithless adulteress and whorish strumpet, not worthy to be called a wife, seemeth outwardly to stick and cleave to her husband; but privily she maketh her body common to many men, and loveth other more than her husband, and for the most part burneth on them, being cold enough to him-ward. But God is a jealous God, and will be loved and worshipped alone, without any partner to rob him thereof. That is spiritual adultery and whore-hunting, when men do partly love and worship God, and yet notwithstanding do therewithal give reverence to strange and other gods. Against this faithless and double dealing all the prophets cry out most vehemently with words that represent a tyrannous and cruel revengement!: for of all other sins that is most detestable. I would to God at this day so many were not persuaded, that this kind of honour is the worship that God maketh most account of !
 
@@ -326,8 +301,6 @@ How God doth visit the fathers’ sins in the children.
 
 A most large promise is made to the godly worappa of the ord,
 
-290 THE SECOND DECADE. [SERM.
-
 other. There is none, unless he never read the holy scriptures, but doth know what happened to his son Roboam, to Joram the son of Josaphat, to Achas, Manasses, Jehoiachim and Zedechias, because of idolatry and foreign worshipping of God.
 
 Let us therefore firmly hold and believe, that the threatenings of God are true in effect, and that God is both a severe and just revenger and punisher of idolaters and wicked superstitious men, and finally, of all and every wicked act done by every man. Although God do sundry times seem to wicked men to slumber, and not to see them, yet notwithstanding he doth awake when he thinks good’, and payeth home the wicked for all their offences done and past. Although he be long-suffering, yet the righteous Lord doth not always neglect the godly and oppressed, neither doth he always wink at ungodliness, and let the wicked be unpunished for ever: but he giveth them time to repent in, which whosoever do neglect, they do at length feel the greater pains and sharper punishment, according to the saying of the apostle: “ What, dost thou despise the riches of God's goodness, suffering’, and gentleness, not knowing that God’s goodness calleth thee to repentance? But, according to thy hardness and heart that cannot repent, thou heapest up to thyself wrath against the day of wrath, wherein shall be made manifest the just judgment of God, who shall repay to every one according to his deeds%,” &c.
@@ -338,7 +311,7 @@ Again, the bountiful Lord promiseth great and large rewards to them that worship
 
 Thus much had I to speak of these two commandments of the first table, which I cannot now again recapitulate, because an hour and a half is already spent, and for that I hope that I have so orderly proceeded in every point, and taught every thing so evidently and plainly, that there is nothing which ye do not very well perceive and understand. Let us now praise the Lord, and thank him for his goodness, for shewing us his ways; and let us pray that we, walking rightly in them, may at the last come to his eternal‘ joys. Amen.
 
-OF THE THIRD PRECEPT OF THE TEN COMMANDMENTS, AND OF SWEARING.
+## Of the Third Precept of the Ten Commandments, and of Swearing
 
 ---
 [[Bullinger Dec 13 Decade 2, Sermon 1|← 13. Decade 2, Sermon 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 15 Decade 2, Sermon 3|15. Decade 2, Sermon 3 →]]

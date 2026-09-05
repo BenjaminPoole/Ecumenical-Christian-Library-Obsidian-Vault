@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Keeping the Soul Alive
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3444
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "None can keep alive his own soul." Psalm 22:29.
 
@@ -25,7 +22,7 @@ SELF-SUFFICIENCY is the sin of nature—all-sufficiency is the supply of Divine 
 
 Now, it is upon our entire dependence upon God as Believers that I am to speak tonight. We have, if we are Believers, been made alive from the dead. Our souls have been quickened by the life of Christ—we live with the life that Christ has given to us, but we cannot keep ourselves alive any more than we could first make ourselves alive. That is the point to be thought over tonight—may its rich and humbling instructions be sanctified to us all. First, let me—
 
-I. BREAK UP THIS DOCTRINE A LITTLE.
+## I. Break up This Doctrine a Little
 
 It is like one of the loaves brought to Christ—it needs breaking and we will break it up thus. The Believer's life must be dependent upon God. He cannot maintain it by his own strength because of its very nature. It is a derived life. We know how plainly our Savior puts this in the parable of the vine. The life of the Christian is not the life of the separate plant put into the soil to suck for itself through its own throat, the nourishment out of the earth. It is the life of a plant which derives all its sap through the stem—through a root that is not in itself. It does not bear the root, nor a root, but the root bears it, so that once you cut away the branch from the vine, you have taken away the life from the branch, for though the life is in the branch as long as it is joined to the vine, yet it is not so in the branch, itself, that it is there at all apart from the vine. You are dead—then where is your life? Your life is hid with Christ in God, and if you live at all, this is the reason! "Because I live, you shall live also." Your life is not in yourselves as a separate life. Your life, the true life of your soul, is a derived one, and is in Christ Jesus! Another illustration from the same blessed Word of God gives us the like sense. We are members of His body, of His flesh and of His bones. There is life in my hand—undoubted life—but let that hand be laid down upon the block, and the headsman's axe separate it from the arm, and there remains no life whatever in the hand that is separated from the vital center, the heart. The limb moves and has life in itself, in a certain sense, but it is derived life, relative life—it only lives at all, in fact—because it is joined to something else in which its life more truly dwells. You see then, Brothers and Sisters, that none can keep his own soul alive, because the soul's truest life is not in itself, but lies in Another, even in Christ its Head!
 
@@ -67,7 +64,7 @@ and edified you, whose language about the things of God was full of savor, full 
 
 then you have learned a good lesson, and you have learned also the meaning of my text, "None can keep alive his own soul," for that is what God meant to teach you! May you learn it from others, and not have to painfully learn it by your own falls into sin. My time has failed me, yet must I keep you a little longer while I dwell with great brevity, in the next place, upon—
 
-III. THE PRACTICAL LESSONS OF THE TEXT.
+## III. The Practical Lessons of the Text
 
 I have shown you the Doctrine and the experience which backs it up. Now what are the practical lessons? They are these. First, never entertain a good opinion of ourselves. "What, never believe that I am saved?" Oh, yes, if you are saved, always believe that! But then, what is your ground for believing that you are saved? If that lies in your goodness, then away with it, for it is a bad foundation and the sooner you get off of it, the better! My dear Brother, you are no better than the poor publican when he smote upon his breast and said, "God be merciful to me a sinner," and if you think you are any better than he, you do not know yourself! You will go down from this Tabernacle without a blessing if you are able to get higher up than he, and can say with the Pharisee, "God, I thank You that I am not as other men." Nothing but a heap of dust and ashes—and a mass of misery and sin—are you but for Sovereign Grace! "In me," says the Apostle, "that is in my flesh, there dwells no good thing." That is to say, "In me, inexperienced me, uninstructed me, unenlightened me, whatever else of good or of virtue may be appended to the word, me, there dwells no good thing!" Grace, Grace, Grace alone can keep and must keep us! But as for any absolute personal acquirement, no confidence can be placed in any of these! Dear Brothers and Sisters, take care that you have never a good opinion, then, of yourself.
 
@@ -87,7 +84,7 @@ And so let us close by saying this—if God has kept you alive, and you bless Hi
 
 Ah, you have come up, have you, and taken a job in London. And you come out on Sunday evenings, and your mother told you to come here, and you are glad to listen to my voice tonight. Well, next Sunday afternoon, my Sister, there is Mrs. Bartlett's Bible Class downstairs where you will meet with many Sisters in Christ who will be glad to talk with you and cheer you. Perhaps if you do not go into that class, you will be quite lonely, and by degrees grow cold and get laid aside. You will not be able to stand alone, very well, so come and get a hold of some of your Sisters in Christ, and by God's Grace, though you cannot depend upon them, yet they may be the means in God's hand of helping you to stand! Soldiers, close your ranks! Each man to his fellow stand firm for Christ! The enemy is doing all he can to break our solid ranks. Let us be true to one another, and true to the great Captain who is at our head! Up to where the blood-red Cross is the banner to which we all shall rally, let each man turn their eyes, and then next, let each man look right and left upon his fellows and help to hold up such as begin to stagger in the dreadful battle—and who knows but that thus we may help to keep ourselves upon our feet, for he that helps others shall be helped himself! He that waters others shall be watered himself. God grant it may be so with you all, and may Jesus make and keep alive all our souls! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM27.
+## Exposition by C. H. Spurgeon: Psalm 27
 
 Very much of the language of David used here, I trust we can make our own. May the Spirit of God lead us to understand, by experience, what he has written.
 
@@ -110,7 +107,6 @@ nor even from lack of power, for there were many of them. But I had not to fight
 9, 10. Hide not Your face far from me; put not Your servant away in anger: You have been my help: leave me not, neither forsake me, O God of my salvation. When my father and my mother forsake me, then the LORD will take me up. He prayed, you see, and it looked a little unbelieving when he said, "Leave me not, neither forsake me." But it was not so, for at once he confessed that he did not think that God would leave him, even when our father and mother, who are the last to leave us, should do so. "Then the Lord will take me up."
 
 11-14. Teach me Your way, O LORD, andleadme in a plain path because ofmy enemies. Deliver me not over unto the will ofmy enemies, for false witnesses are risen up against me, and such as breathe out cruelty. I had fainted unless I had believed to see the goodness of the LORD in the land of the living. Wait on the LORD: be of good courage, and He shall strengthen your heart: wait, I say on the LORD. I suppose he meant that last sentence to be his own personal recommendation, derived from his own experience. "Wait, I say, on the Lord." He had tried it—proved its wonderful power as the restorative to his heart, and so he says—"Wait, I say, on the Lord."
-
 
 ---
 [[Sermon 3443 Seeing Jesus|← #3443]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3445 Strong Faith in a Faithful God|#3445 →]]

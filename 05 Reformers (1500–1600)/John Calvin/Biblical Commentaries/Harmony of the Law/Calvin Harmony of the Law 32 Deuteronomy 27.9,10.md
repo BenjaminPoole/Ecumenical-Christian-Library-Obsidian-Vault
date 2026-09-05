@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 32. Deuteronomy 27:9,10
-
-**DEUTERONOMY 27**
 
 **9.** And Moses, and the priests the Levites, spake unto all Israel, saying, Take heed, and hearken, O Israel; This day thou art become the people of the Lord thy God.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Seeing Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3443
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yet a little while, and the world sees Me no more; but you see Me." John 14:19.
 
@@ -27,7 +24,7 @@ Note, then, that as the text says that the world which saw Christ should soon se
 
 With that black foil, the gem of our text may shine the brighter. "But you see Me"—you, My people. You that have believed, you who, by Grace, have received the new nature. You who have passed from death unto life—when the world sees Christ no more, you shall see Him in His Glory! And even now, while a blind world beholds Him not, you are enjoying a sight of Him. Our first word tonight, after this preface, shall be—
 
-I. SPIRITUAL DIFFERENCES.
+## I. Spiritual Differences
 
 The world sees Him no more, but you see Him. The difference lies in the kind of sight. The world's sight of Christ, in the first place, was only a sight to the eyes and, consequently, the moment Christ was gone out of this world, the world saw Him no more. But when He was gone, there were others who had seen Him with a different sight, which was not affected by His corporeal absence—they continued to see because their seeing had been something other than the sight of the eyes. Now, when Jesus Christ was here upon earth, all that an ungodly man saw of Christ was His outward form—as some think incomparably beautiful, and so I suppose it was at the first. So perfect a spirit must surely have been enshrined within a matchless, outward form! I can conceive Him to have been full of Grace, even in the common sense of that term, as well as in its higher meaning. But in later years, such were the griefs of His heart that we know that He appeared to be older than He was, for the Jews said, "You are not yet fifty years old," when He was but a little more than thirty. Such was the decay, probably, such the emaciation that grief brought upon Him, that He had no form or comeliness, and when men looked upon Him they saw Him as the Man of Sorrows and the acquaintance of grief. Whatever the
 
@@ -83,7 +80,7 @@ To look on Him, again, is, as we have said before, to prepare our eyes for the g
 
 If any here have never seen Jesus, let me remind them of this one text, "Like as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in Him should not perish, but have everlasting life." To believe on Him is to trust Him. If you trust Him, you shall have everlasting life, but if you trust not in Jesus Christ, you shall not see life, but the wrath of God abides on you! May these words never be forgotten by you till you have, by His Grace, looked to Christ. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 110:1-7; HEBREWS 7:1-14.
+## Exposition by C. H. Spurgeon: Psalm 110:1-7; Hebrews 7:1-14
 
 Verse 1. The LORD said unto my Lore. Or Jehovah said unto my Adonai.
 
@@ -97,7 +94,7 @@ Verse 1. The LORD said unto my Lore. Or Jehovah said unto my Adonai.
 
 in the way: therefore shall He lift up the head. This conqueror shall be refreshed in His journey; therefore shall He lift up the head.
 
-HEBREWS 7:1-14.
+## Hebrews 7:1-14
 
 Verse 1, 2. For this Melchisedec, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him: To whom also Abraham gave a tenth part of all; first being by interpretation King of Righteousness, and after that also King of Salem, which is, King of Peace. His very names being instructive, Righteousness first, and Peace afterwards, as it is with our Divine Lord who has brought in everlasting righteousness, and speaks peace to guilty men!
 
@@ -114,7 +111,6 @@ Verse 1, 2. For this Melchisedec, king of Salem, priest of the Most High God, wh
 13\. For He of whom these things are spoken pertains to another tribe, of which no man gave attendance at the altar. According to the belief of the Jewish people, the Messiah was to come of the tribe of Judah, yet none of the house of David or of the tribe of Judah ever presumed to present themselves as priests of the order of God.
 
 14\. For it is evident that our Lord sprang out of Judah; of which tribe Moses spoke nothing concerning priesthood. So there was an entire change of the priesthood and of the law of priests.
-
 
 ---
 [[Sermon 3442 'The Desire Of All Nations'|← #3442]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3444 Keeping the Soul Alive|#3444 →]]

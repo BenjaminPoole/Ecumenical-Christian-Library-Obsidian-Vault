@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 15
 
-**CHAPTER 15**
+***Chapter 15***
 
 ## Ezekiel 15:1-5
 
@@ -53,7 +52,7 @@ He confirms what had been said in the last verse, and at the same time explains 
 
 ## Prayer Lecture 41
 
-**PRAYER.**
+## **Prayer.**
 
 Grant. Almighty God, since you have not only deigned to separate us from the common herd of men, but also to renew your image in us: and while thy favors towards us are conspicuous you exhort us at the same time to glorify thy name: Grant that being mindful of our calling we may study to devote ourselves wholly to thee and so to extol thee by peculiar and true and rightful praises, that we may be at length partakers of the glory to which you invite us, and which has been acquired for us by the blood of your only begotten Son. — Amen.
 

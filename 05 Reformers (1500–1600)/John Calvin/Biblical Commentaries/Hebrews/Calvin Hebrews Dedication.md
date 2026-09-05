@@ -9,16 +9,15 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Epistle Dedicatory
 
-**EPISTLE DEDICATORY**
+***Epistle Dedicatory***
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**TO THE MOST MIGHTY AND MOST SERENE PRINCE,**
+## **To the Most Mighty and Most Serene Prince,**
 
-**SIGISMUND AUGUSTUS,**
+## **Sigismund Augustus,**
 
 by the Grace of God, the King of Poland,  
 Great Duke of Lithuania, Russia, Prussia,  

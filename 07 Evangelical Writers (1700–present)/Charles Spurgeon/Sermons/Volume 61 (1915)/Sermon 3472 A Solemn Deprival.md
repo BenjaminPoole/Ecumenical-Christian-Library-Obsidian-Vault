@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # A Solemn Deprival
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3472
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Without Christ." Ephesians 2:12.
 
@@ -49,7 +46,7 @@ among us? He loves His people and came to earth to wipe out an iniquity which ha
 
 And without Christ, dear Friends, there comes the solemn reflection that before long you shall perish. Of that I do not like to talk, but I would like you to think of it. Without Christ you may live, young man—though, mark, you shall miss the richest joys of life. Without Christ you may live, hale, strong man, in middle age—though, mark, without Him you shall miss the greatest support amidst your troubles! Without Christ you may live, old man, and lean upon your staff, content with the earth into which you are so soon to drop, though, mark you, you shall lose the sweetest consolation which your weakness could have found! But remember, man, you are soon to die! It matters not how strong you are—Death is stronger than you and he will pull you down, even as the stag hound drags down his victim, and then "how will you do in the swellings of Jordan," without Christ? How will you do when the eyes begin to close, without Christ? How will you do, Sinner, when the death rattle is in your throat, without Christ? When they prop you up with pillows, when they stand weeping round your expiring form, when the pulse grows faint and few, when you have to lift the veil and stand disembodied before the dreadful eyes of an angry God, how will you do without Christ? And when the Judgment trumpet shall wake you from your slumber in the tomb, and body and soul shall stand together at that last and dread assize—in the midst of that tremendous crowd, Sinner, how will you do without Christ? When the reapers come forth to gather in the Harvest of God, and the sickles are red with blood, and the vintage is cast into the winepress of His wrath, and it is trodden until the blood runs forth up to the horse's bellies—how will you do, then, I ask you, without Christ? Oh, Sinner, I pray you let these words sound in your ears till they ring into your heart! I would like you to think of them tomorrow, and the next day, and the next. Without Christ! I would like to make you think of dying, of being judged, of being condemned without Christ! May God in His mercy enable you to see your state and fly to Him who is able to save, even unto the uttermost, all them that come unto God by Him! Christ is to be had for the asking! Christ is to be had for the receiving! Stretch out your withered hand and take Him! Trust Him and He will be yours forevermore! And you shall be with Him, where He is, in an eternity of joy! Having thus reviewed the misery of our past estate, let us endeavor, with the little time we have left, to—
 
-II. EXCITE THE THANKFULNESS OF GOD'S PEOPLE FOR WHAT THE LORD HAS DONE FOR THEM.
+## II. Excite the Thankfulness of God's People for What the Lord Has Done for Them
 
 We are not without Christ, now, but let me ask you, you who are Believers, where you would have been now without Christ? As for some of you, you might—indeed you wouldhave been, tonight, in the alehouse or gin palace. You would have been with the boisterous crew that make merriment on the Lord's Day. You know you would, for "such were some of you." You might have been even worse—you might have been in the harlot's house. You might have been violating the laws of man as well as the laws of God, "for even such" were some of you, but you are washed, but you are sanctified. Where might you not have been without Christ? You might have been in Hell! You might have been shut out forever from all mercy—condemned to eternal banishment from the Presence of God!
 
@@ -75,7 +72,7 @@ May God grant that some who feel that they are without Christ because they have 
 
 EXPOSITION BY C. H. SPURGEON: PSALM50:14-23; Ezekiel36:21-38.
 
-PSALM50:14-23.
+## Psalm 50:14-23
 
 In the first part of this Psalm, God has solemnly expostulated with His people as to the utter worthlessness of sacrifice and ceremony apart from living faith in Him, and holy life as its fruit. And He sums it all up in the searching question of the 13th verse, "Will I eat the flesh of bulls, or drink the blood of goats? Have you such a groveling opinion of Me, your God, as to conceive that I am satisfied with these things?" See what contempt the Lord pours upon sacrifices—even those that were of His own ordaining—when men rested in them and made them their confidence and their end!
 
@@ -107,7 +104,7 @@ Verse 14. Offer unto God thanksgiving. This is what He wants—heart-work.
 
 23\. Will I show the salvation of God. If he needs saving, let him order his conversation as he may, he will owe all to Sovereign Grace! He will have no merit of his own, "but where I by Grace," says the Lord, "lead a man to order his conversation aright, there will I show more and more fully, and at last perfectly in him, the salvation of God."
 
-EZEKEEL 36:21-38.
+## Ezekeel 36:21-38
 
 The Prophet had been bringing many heavy charges against God's people. He had been thundering out the most tremendous threats against them. God was angry with them on account of sin. The Chapter is full of dreadful utterances, enough to make one tremble as he reads them. But all of a sudden the note altogether changes and the Prophet of Thunder becomes the Prophet of Consolation! Free Grace follows like a clear shining after the rain.
 
@@ -128,7 +125,6 @@ Verses 21-28. But I had pity for My holy name, which the house of Israel had pro
 38\. As the holy flock, as the flock of Jerusalem in her solemn feasts. When a great number of lambs would be brought up to Jerusalem for them to keep the Passover with, a great and countless company. Oh, that such additions may be given to the Church!
 
 38\. So shall the waste cities be filled with flocks of men; and they shall know that I am the LORD.
-
 
 ---
 [[Sermon 3471 The Three Hours' Darkness|← #3471]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3473 Household Sin and Sorrow|#3473 →]]

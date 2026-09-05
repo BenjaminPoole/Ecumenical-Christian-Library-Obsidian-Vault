@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # The Suppliants
 *Euripides · trans. Edward P. Coleridge*
 
@@ -19,9 +18,9 @@ tags:
 
 ---
 
-THE SUPPLIANTS
+## The Suppliants
 
-DRAMATIS PERSONÆ.
+## Dramatis Personæ
 
 Æthra.
 
@@ -45,7 +44,7 @@ Athena.
 
 Scene.—The Temple of Demeter at Eleusis.
 
-THE SUPPLIANTS.
+## The Suppliants
 
 Æth. O Demeter, guardian of this Eleusinian land, and ye servants of the goddess who attend her fane, grant happiness to me and my son Theseus, to the city of Athens and the country of Pittheus, wherein my father reared me, Æthra, in a happy home, and gave me in marriage to Ægeus, Pandion's son, according to the oracle of Loxias. This prayer I make, when I behold these aged dames, who, leaving their homes in Argos, now throw themselves with suppliant branches at my knees in their awful trouble; for around the gates of Cadmus have they lost their seven noble sons, whom on a day Adrastus, king of Argos, led thither, eager to secure for exiled Polynices, his son-in-law, a share in the heritage of Œdipus; so now their mothers would bury in the grave the dead, whom the spear hath slain, but the victors prevent them and will not allow them to take up the corpses, spurning Heaven's laws. Here lies Adrastus on the ground with streaming eye, sharing with them the burden of their prayer to me, and bemoaning the havoc of the sword and the sorry fate of the warriors whom he led from their homes. And he doth urge me use entreaty, to persuade my son to take up the dead and help to bury them, either by winning words or force of arms, laying on my son and on Athens this task alone. Now it chanced, that I had left my house and come to offer sacrifice on behalf of the earth's crop at this shrine, where first the fruitful corn showed its bristling shocks above the soil. And here at the holy altars of the twain goddesses, Demeter and her daughter, I wait, holding these sprays of foliage, a bond that bindeth not, in compassion for these childless mothers, hoary with age, and from reverence for the sacred fillets. To call Theseus hither is my herald to the city gone, that he may rid the land of that which grieveth them, or loose these my suppliant bonds, with pious observance of the gods' will; for such as are discreet amongst women should in all cases invoke the aid of men.
 

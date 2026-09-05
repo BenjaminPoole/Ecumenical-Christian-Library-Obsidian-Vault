@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Faith Justifying Speech
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3200
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ibelieved, therefore have I spoken." Psalm 116:10.
 
@@ -101,7 +98,7 @@ Lord."
 
 If you believe the Bible, speak of it wherever you can. If you believe in Jesus, preach Him to all who are within sound of your voice. If you believe in the Spirit, walk in His might and tell others of that wondrous power. But if you have never believed, may the Lord grant you Grace to believe in Father, Son and Holy Spirit! May He grant you Grace to believe the Bible, Grace to believe the Gospel and then, when you have believed, may you not keep the blessing to yourself, but first make your own personal confession of faith—and then publish far and wide all that has been revealed to you by the Spirit! So shall you be able to say with the Psalmist, "I believed, therefore have I spoken." God grant it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM116
+## Exposition by C. H. Spurgeon: Psalm 116
 
 We have read this Psalm many times. Let us read it now, regarding it not so much as the language of the Psalmist uttered thousands of years ago, but as our own language at this moment.
 
@@ -152,7 +149,6 @@ a great blessing if we are able to say, as David did, that we are born into God'
 17-18. I will offer to You the sacrifice of thanksgiving, and will call upon the name of the LORD, I will pay my vows unto the LORD now in the presence of all His people. Do it, Beloved! Let your hearts pour themselves out in silence, now, and afterwards in grateful song before the Lord. Praise Him, magnify Him, bless His name, "in the presence of all His people." It is inspiriting to be with your Brothers and Sisters in Christ. Perhaps the devotion which burns low when there is only one brand on the hearth will burn all the better and brighter when we add many blazing brands to it!
 
 19\. In the courts of the LORD'S house, in the midst of you, O Jerusalem. Praise you the LORD.
-
 
 ---
 [[Sermon 3199 How the Lambs Feed|← #3199]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3201 Mercy for the Meanest of the Flock|#3201 →]]

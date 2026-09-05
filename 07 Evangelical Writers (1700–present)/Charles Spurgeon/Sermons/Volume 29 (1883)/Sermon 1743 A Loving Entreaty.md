@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Loving Entreaty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1743
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 7, 1883,.
+*Delivered on Lord's-Day Morning, October 7, 1883*
 
 > "Put Me in remembrance: let us plead together: declare you, that you may bejustified.'" Isaiah 43:26.
 
@@ -132,7 +131,6 @@ In vain Apollos sows the ground,
 And Paul may plant in vain."
 
 Blessed be God we shall not plant in vain, for He is with us! Some of you have received the message and I shall hear from you soon. Let it sink into the spirits of all of you. Do you feel any degree of softness creeping over you? Yield to it! It is the blessed Spirit now inclining you to repent, making you feel serious and thoughtful—anxious and desirous. Bow before His heavenly breath as the rush by the river yields to the wind! Yours shall be the benefit, but to the sweet Spirit of Love, together with the Father and the Son, shall be Glory forever and ever! Amen and Amen!
-
 
 ---
 [[Sermon 1742 Spiritual Knowledge and Its Practical Results|← #1742]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1744 Where The If Lies|#1744 →]]

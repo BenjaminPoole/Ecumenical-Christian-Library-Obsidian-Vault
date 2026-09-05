@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## 2 Corinthians 8:1-7
 
@@ -98,7 +97,7 @@ The foxes have holes, and the birds of the air have nests: the Son of man hath n
 
 Hence he has consecrated poverty in his own person, that believers may no longer regard it with horror. By his *poverty* he has *enriched* us all for this purpose — that we may not feel it hard to take from our abundance what we may lay out upon our brethren.
 
-**10.** *And in this I give my advice.* The *advice* he places in contrast with the *commandment* of which he had spoken a little before. (2 Corinthians 8:8.) “I merely point out what is expedient in the way of *advising* or *admonishing.”* Now this *advantage* is not perceived by the judgment of the flesh; for where is the man to be found, who is persuaded that it is of *advantage* to deprive himself of something with the view of helping others? It is, indeed, the saying of a heathen — “What you have given away is the only riches that you will always have; [^13] but the reason is, that whatever is given to friends is placed beyond all risk.” The Lord, on the other hand, would not have us influenced by the hope of a reward, or of any remuneration in return, but, on the contrary, though men should be ungrateful, so that we may seem to have lost what we have given away, he would have us, not- withstanding, persevere in doing good. The advantage, however, arises from this — that
+**10.** *And in this I give my advice.* The *advice* he places in contrast with the *commandment* of which he had spoken a little before. (2 Corinthians 8:8.) “I merely point out what is expedient in the way of *advising* or *admonishing.”* Now this *advantage* is not perceived by the judgment of the flesh; for where is the man to be found, who is persuaded that it is of *advantage* to deprive himself of something with the view of helping others? It is, indeed, the saying of a heathen — “What you have given away is the only riches that you will always have; [^13] but the reason is, that whatever is given to friends is placed beyond all risk.” The Lord, on the other hand, would not have us influenced by the hope of a reward, or of any remuneration in return, but, on the contrary, though men should be ungrateful, so that we may seem to have lost what we have given away, he would have us, not-withstanding, persevere in doing good. The advantage, however, arises from this — that
 
 “He that giveth to the poor (as Solomon says in Proverbs 19:17) lendeth to the Lord,”
 

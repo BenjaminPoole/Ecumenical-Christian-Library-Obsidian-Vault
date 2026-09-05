@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 12. Luke 1:67-75
-
-**LUKE 1:67-75**
 
 **67**. And Zacharias his father was filled with the Holy Ghost, and prophesied, saying: **68**. Blessed be the Lord God of israel, because he hath visited, and hath brought redemption to his people: **69**. And he hath raised up the horn [^1] of salvation to us in the house of his servant David, (**70**. As he spake by the mouth of his holy prophets, who have been from every age,) [^2] **71**. Salvation from our enemies, and from the hand of all who hated us: **72**. To perform the mercy to our fathers, and to have remembrance of his holy covenant, **73**. According to the oath, [^3] which he sware to Abraham our father, to give to us, **74**. That, being delivered out of the hand of our enemies, we may serve him without fear, **75**. In holiness and righteousness before him all the days of our life.
 

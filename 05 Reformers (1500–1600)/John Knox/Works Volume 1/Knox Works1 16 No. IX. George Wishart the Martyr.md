@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 16. No. IX. George Wishart the Martyr.
 
 ## No. IX.
 
-GEORGE WISHART THE MARTYR.
+## George Wishart the Martyr
 
 Calderwood states, that "Mr. George Wishart was a gentleman of the house of Pittarrow."—(Hist. vol. i. p. 185.) And in the Wodrow Miscellany, in an introductory notice, I have said, "He was born in the early part of the 16th century, and is believed to have been a younger son of James Wishart of Pittaro, who was admitted Justice Clerk, in December 1513, and continued till between 1520 and 1521."—(vol. i. p. 5.) Further inquiries have failed in ascertaining this point; and it must have been through some collateral branch if any such relationship existed. A note of various early charters relating to the Wisharts of Pittaro, was most obligingly communicated by Patrick Chalmers of Auldbar, Esq.; and several others are contained in the Register of the Great Seal; but the want of space, and their not serving to throw any light upon the Martyr's parentage, causes me to omit such notices. There is a fine old portrait, not unworthy of Holbein, said to be of George Wishart, in the possession of Archibald Wishart, Esq., W.S., Edinburgh, which bears the date, m.d.xliii. Ætat. 30. If this portrait can be identified, the date would fix his birth to the year 1513. But his early history and education are quite unknown. The facts discovered relating to his history may briefly be stated.
 

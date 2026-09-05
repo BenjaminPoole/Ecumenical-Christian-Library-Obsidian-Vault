@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'The Church of the First-born'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3206
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The general assembly and Church of the First-Born, which are written in Heaven." Hebrews 12:23.
 
@@ -79,7 +76,7 @@ Let each one of us ask himself or herself, "Shall I be there?" If anyone says, "
 
 I dare not alter my Master's commission—"Go you into all the world and preach the Gospel to every creature. He that believes and is baptized shall be saved: but he that believes not shall be damned." There is no other alternative! Turn or burn! Believe and be saved, or disbelieve and be lost! May God, in His mercy, make the choice for you, Sinner, this very hour, and lead you in the Way everlasting. And unto Father, Son and Holy Spirit shall be the glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 12.
+## Exposition by C. H. Spurgeon: Hebrews 12
 
 After giving a long list of the heroes of faith, the Apostle adds—
 
@@ -140,7 +137,6 @@ BLOOD OF CHRIST; #708, Volume12—THE BLOOD OF ABLE AND THE BLOOD OF JESUS; #188
 come to that blood, and it is that blood which has made such a change in us! We may rejoice together, now, and we ought to do so if we are all one in Christ Jesus.
 
 25-29. See that you refuse not Him that speaks. For if they escaped not who refused Him who spoke on earth, much more shall not we escape, if we turn away from Him that speaks from Heaven: whose Voice then shook the earth: but now He has promised, saying, Yet once more I shake not the earth, only, but also Heaven. And this word, yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain. Therefore we, receiving a Kingdom which cannot be moved, let us have Grace, whereby we may serve God acceptably with reverence and godly fear: for our God is a consuming fire. Not "God out of Christ," as some say, but God in Christ! God is a consuming fire anyway and we should each one pray, "Consuming Fire, Refining Fire, go through my heart and purge me of all that can be consumed! Holy Spirit, drive out of me all that can be shaken and removed, that only Your abiding Kingdom may remain in me, and Yours shall be the praise and the glory forever! Amen."
-
 
 ---
 [[Sermon 3205 Scales Taken From the Eyes|← #3205]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3207 Secret Disciples Encouraged|#3207 →]]

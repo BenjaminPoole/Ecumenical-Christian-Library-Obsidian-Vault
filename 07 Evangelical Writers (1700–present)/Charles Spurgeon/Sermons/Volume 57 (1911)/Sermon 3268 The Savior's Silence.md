@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Savior's Silence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3268
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But He answered her not a word." Matthew 15:23.
 
@@ -57,7 +54,7 @@ II. THOUGH THE SAVIOR WAS SILENT, HE WAS NOT UNKIND. He had good reasons for ref
 
 The Savior, too, may have had an eye to the onlookers. Towards us who this day are the onlookers upon the fine exhibition of this woman's faith, surely He had a gracious purpose. Surely He did it that there might be a well of comfort and instruction to troubled souls in ages past, in this age, and in ages yet to come! Who knows? This woman was kept for a time in suspense, for your comfort, poor woman, for you, young man, with your poor despairing soul. "There," He seems to say, "in this one case I will set an example to all who do not at once get comfort, that they may see that their faith shall yet prevail. If they still believe and continue to plead until I come, then shall the answer be peace." Jesus was not unkind, even in His silence. The last point for our reverent study is this—
 
-III. THOUGH THE ANSWER WAS DELAYED, THIS WOMAN WAS NOT DISCOURAGED NOR DENIED.
+## III. Though the Answer Was Delayed, This Woman Was Not Discouraged nor Denied
 
 When she could not get a word, she did not go away and sulk, as some professed penitents do, but gathered more boldness. She appears to have come nearer to the Lord, for we read in the 25th verse, "then she came and worshipped Him." As if standing in the outer circle, she now pushed through the crowd and came nearer—but not irreverently—she came to worship. Herein she reads us all a lesson. If we have had no answer to our pleading, do not give up, but go nearer to Christ! Make it more solemnly the resolve of your soul that you have real dealings with Him. Some persons rest satisfied with saying a number of phrases beginning one way, and ending with, "Amen." I do not like to rise from my knees until I have had assured dealings with the Master. There are fifty words to the air, but it is the one word with the Master which effects our soul's purpose! Lay hold upon the Cross. Put your fingers by faith into the print of the nails. Thrust your hand in His side and realize that He is really there! And this shall be your way of obtaining true comfort. Nor was this all. When she thus came nearer, she cried more earnestly. The disciples said, "Send her away, for she cries after us." But her cry came to Him with a plaintive pathos in her words. She wept. She cried such a cry as a mother wails out over her dying child! It seemed to hold in it these words, "I must have this blessing! Give it to me or I die, You Son of David! I am not one who speaks with the lips, only—my heart cries to You! Hear a woman's heart that breaks unless You speak the comfortable words to her."
 
@@ -69,7 +66,7 @@ It was not, however, the prayer, but her faith that captured the heart and comma
 
 If God enables you to do this, depend upon it, your eternal life is sure! God help you thus to pray and believe, and before long you shall go your way and, "according to your faith, so shall it be done unto you." The Lord dismiss you with His blessing for Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 15; PSALM 42.
+## Exposition by C. H. Spurgeon: Matthew 15; Psalm 42
 
 Verse 1. Then the scribes and Pharisees who were of Jerusalem came to Jesus, saying— Our Lord had been busily engaged in healing the sick, and now these pettifoggers came round about Him to try and worry Him. They were a kind of mosquito swarm to Christ—had He not been a perfect Man they might have worried Him.
 
@@ -142,7 +139,6 @@ Psalm 42. Verse 1. As the hart pants after the water brooks, so pants my soul af
 10\. As with a sword in my bones, my enemies reproach me; while they say daily unto me, Where is your God?Rather monotonous this. "Where is your God?" is all they can say. They are rather short of wit when they must always hang on to the same old taunt. If ever you hear of a new heresy, it is only an old heresy with a new soul put to it!
 
 11\. Why are you cast down, O my Soul? And why are you disquieted within me? Hope you in God: for I shall yet praise Him, who is the health of my countenance, and my God
-
 
 ---
 [[Sermon 3267 Under His Shadow|← #3267]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3269 A Frail Leaf|#3269 →]]

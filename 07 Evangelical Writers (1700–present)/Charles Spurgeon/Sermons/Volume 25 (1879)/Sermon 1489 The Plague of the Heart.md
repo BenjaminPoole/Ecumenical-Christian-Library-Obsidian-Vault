@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Plague of the Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1489
 
-DELIVERED ON LORD'S-DAY EVENING, AUGUST 10, 1879,.
+*Delivered on Lord's-Day Evening, August 10, 1879*
 
 > "Whatever prayer and supplication is made by anyone, or by all Your people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house: then hear in Heaven, Your dwelling place, and pardon, and do, and give to every man according to his ways, whose heart You know; (for You, even You only, know the hearts of all the children of men) that they may fear You all the days that they live in the land which You gave unto our fathers." 1Kings 8:38-40.
 
@@ -150,7 +149,6 @@ That wish of many shall be fulfilled to all who look to Jesus! "Except you be co
 After that the Lord will continue to do great things for you. He will keep you to the end—He will lead you from strength to strength and from joy to joy! He will make you useful and that is what you never dreamed you could be! The thorny waste shall bear fruit a hundred-fold! He will take you from among sinners and put you among saints. And putting you among the saints, He will make your very experience of sin to be instrumental for good. As none make better gamekeepers than old poachers when they are reclaimed, so none seem better able to bring others to Christ than those who know what sin and salvation mean by actual experience! Such persons talk of what they have felt in their own case and, when they are saved, they speak of a salvation which is manifest to everybody—for they are such changed men and changed women that no one can deny the power of Grace upon them!
 
 How eagerly do I hope that my Lord Jesus will quarter on the enemy tonight! O Lord, come in and capture some out of this crowd! Say to many who throng this building, "Tonight I must abide in your house." O my Brothers and Sisters, lives no longer an indifferent life! Begin to care for your soul's eternal interests! No longer oppose your Savior! Become one of His disciples! He has many such as you are and He does not despise them because they once rioted in sin! On the contrary, He binds them to Himself by the greatness of their former guilt! They love Him much because they have had much forgiven and they serve Him all the more earnestly because of what He has done for them. The Lord grant that the same may happen in your case, for Jesus Christ's sake—and He shall have all the glory. Amen and Amen!
-
 
 ---
 [[Sermon 1488 More and More, or Less and Less|← #1488]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1490 Contention Ended and Grace Reigning|#1490 →]]

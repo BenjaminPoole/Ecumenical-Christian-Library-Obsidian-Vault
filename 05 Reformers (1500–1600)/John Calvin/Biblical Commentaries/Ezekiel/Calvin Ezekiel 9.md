@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Ezekiel 9:1
 
@@ -41,7 +40,7 @@ He says, therefore, *that the glory of the God of Israel ascended from the cheru
 
 ## Prayer Lecture 23
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast deigned to approach us so familiarly, that in return we may also desire to approach thee, and remain in firm and holy union; so that whilst we persevere in that lawful course which thou prescribest for us in thy word, thy blessings may increase towards us, until thou leadest us to fullness, when thou shalt gather us into thy celestial kingdom, by Christ our Lord. — Amen.
 
@@ -85,7 +84,7 @@ Here God so answers his Prophet, that he restrains too much fervor, and at the s
 
 ## Prayer Lecture 24
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou didst formerly chastise thy people so harshly, that we may profit by their example; and may we be so restrained by fear of thy name and obedience to thy law, that thou mayest not pour forth thy wrath against us: then if thou chastisest us, grant that it may all turn out to our good: and may we so feel ourselves to have been sealed by thee, and to be acknowledged in the number of thy sons, until at length thou shalt gather us into that blessed inheritance which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

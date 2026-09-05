@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 121. Exodus 32:1-35
-
-**Exodus 32**
 
 **1.** And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for *as* *for* this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 

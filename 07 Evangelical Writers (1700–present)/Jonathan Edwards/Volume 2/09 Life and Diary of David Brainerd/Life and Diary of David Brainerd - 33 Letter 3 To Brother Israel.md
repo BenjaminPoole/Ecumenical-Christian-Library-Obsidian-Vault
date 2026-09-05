@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER III.
 
 *To his brother Israel*, *at Haddam.*
@@ -35,7 +34,7 @@ I long to see you, that I may say much more to you than I now can for your benef
 
 I am your affectionate loving brother,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # All Things Are Ready, Come
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1354
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 13, 1877,.
+*Delivered on Lord's-Day Morning, May 13, 1877*
 
 > "Come, for all things are now ready." Luke 14:17.
 
@@ -142,7 +141,6 @@ though he is a great sinner, is in a more favorable position and more likely to 
 As for those who were under the hedges, well, they had no house of their own and so they were all the more likely to come and fill God's House. Men do not take to hedges to sleep under them as long as they have, even, a hovel where they may rest their head. But oh, poor soul, when you are driven to such distress that you would gladly hide under any hedge-when you have nothing left but a fearful looking for of judgment! When you think yourself to be an outlaw and an outcast before God, left to wander like Cain, a waif and stray, lost to all good, you, I say, are the very man to come to Christ! Come out of your hedges, then!
 
 I am looking for you. Though you hide yourselves away, yet God's own Spirit will discover you and bring you, I trust, this very morning, to feed on Divine Love! Trust Jesus Christ, that is all, just as you are, with all your unfitness and unreadiness! Take what God has made ready for you, the precious blood to cleanse you, a robe of righteousness to cover you, eternal joy to be your portion! Receive the Grace of God in Christ Jesus! Oh receive it now! God grant you may for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1353 Ecce Rex|← #1353]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1355 Our Lord's Question to the Blind Men|#1355 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 36. Letter XXXV. To Master Martin, his Disciple (October 1414)
-
-LETTER XXXV. TO MASTER MARTIN, HIS DISCIPLE (October 1414)
 
 Converse sparingly with women ; Do nob run after benefices ; Leave off fine clothes ; Do not follow me in my frivolity or love of chess; Various legacies .... 149-61
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 107
-
-**PSALM 107**
 
 The Psalmist teaches us, in the first place, that human affairs are not regulated by the fickle and uncertain wheel of fortune, but that we must observe the judgments of God in the different vicissitudes which occur in the world, and which men imagine happen by chance. Consequently, adversity and all the ills which mankind endure, as shipwrecks, famines, banishments, diseases, and disasters in war, are to be regarded as so many tokens of God’s displeasure, by which he summons them, on account of their sins, before his judicial throne. But prosperity, and the happy issue of events, ought also to be attributed to his grace, in order that he may always receive the praise which he deserves, that of being a merciful Father, and an impartial Judge. About the close of the psalm, he inveighs against those ungodly men who will not acknowledge God’s hand, amid such palpable demonstrations of his providence. [^1]
 

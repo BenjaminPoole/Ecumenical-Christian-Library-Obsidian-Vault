@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Idols Abolished
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1339
-
-DELIVERED BY.
 
 > "Ephraim shallsay, Whathave I to do anymore with idols?" Hosea 14:8.
 
@@ -166,7 +163,6 @@ The ale house, the dancing saloon and the theater are not for you. I loathe to h
 If you can find your pleasure and delight where sin of the worst kind is always very near at hand, where religion would be out of place and where Christ, your Master, would not be expected to come, you have not learned to say with Ephraim, "What have I to do any more with idols?" Run away from anything which has the least taint of sin and may God help you to do so even to the end! Is this in order that you may be saved? God forbid! I am only speaking to you who are saved already!
 
 If you are not saved, the first thing is to have a renewed heart by faith in Jesus Christ! And after that we lay no bondage on you and exact no tax from you by way of duty—but it will be your joy, your delight, your privilege—to keep near to your Master and to say, "What have I to do any more with idols?" God bless you for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1338 Work For Jesus|← #1338]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1340 Manoah's Wife and Her Excellent Argument|#1340 →]]

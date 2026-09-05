@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Christ's Care of His Disciples
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2616
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If, therefore, you seek Me, let these go their way." John 18:8.
 
@@ -95,7 +92,7 @@ O child of God, take this with you for your safe conduct everywhere! When men tr
 
 Oh, cheering words! I could weep them all out, but I will say no more. I hope many of you will enjoy the sweetness of them while we gather around the Lord's Table, in obedience to His gracious command, "This do in remembrance of Me."
 
-EXPOSITION BY C. H. SPURGEON: JOHN 17; 18:1-9.
+## Exposition by C. H. Spurgeon: John 17; 18:1-9
 
 John 17:1. These words spoke Jesus, and lifted up His eyes to Heaven, and said, Father, the hour is come; glorify Your Son, that Your Son may also glorify You. Jesus is going forth to die and He knows it, yet He prays to His Father, "Glorify Your Son." There was no way of His coming to that Glory except by passing through tears, blood, agony and death. He only asks that He may be glorified in what He is about to do and suffer—and He is ready for it all—"Father, the hour is come; glorify Your Son, that Your Son may also glorify You."
 
@@ -160,7 +157,6 @@ John 18:1. When Jesus had spoken these words, He went forth with His disciples o
 6\. As soon, then, as He had said unto them, I am He, they drew back and fell to the ground. The simple utterance of His name drove them from Him and drove them to the earth! What would have happened if He had put forth His almighty power?
 
 7-9. Then He asked them again, Whom do you seek? And they said, Jesus of Nazareth. Jesus answered, I have told You that I am He. If, therefore, You seek Me, let these go their way: that the saying might be fulfilled, which He spoke, Of them which You gave Me, I have lost none.
-
 
 ---
 [[Sermon 2615 The Anxious Enquirer|← #2615]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2617 Shining Christians|#2617 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 29. Matthew 3:11-12;Mark 1:7-8;Luke 3:15-18
-
-**MATTHEW 3:11-12; MARK 1:7-8; LUKE 3:15-18**
 
 **11**. I indeed baptize you with water to repentance: but he who cometh after me is stronger than I, whose shoes I am not worthy to carry: he shall baptize you with the Holy Ghost and with fire. **12**. Whose winnowing-fan is in his hand, and he will thoroughly cleanse his thrashing-floor, and will collect the wheat into his barn: but he will burn up the chaff with unquenchable fire.
 

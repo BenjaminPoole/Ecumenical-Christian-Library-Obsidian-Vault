@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Baptist's Message
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2646
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The next day John saw Jesus cooing toward him and said, Behold the Lamb of God, who takes away the sin of the world!" John 1:29.
 
@@ -93,7 +90,7 @@ Then, lastly, the proof which these people, who had seen Christ and followed Him
 
 Many of you are coming to the Lord's Table. As you come to it, I would whisper in your ear, "Behold the Lamb of God, who takes away the sin of the world!" Never mind that bread and wine unless you can use them as poor old folks often use their spectacles. What do they use them for? To look at? No, to look through them. So, use the bread and wine as a pair of spectacles—look through them and do not be satisfied until you can say, "Yes, yes, I can see the Lamb of God, who takes away the sin of the world!" Then shall the Communion be really what it ought to be to you. God make it so, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 1:19-51; MATTHEW 4:12-24.
+## Exposition by C. H. Spurgeon: John 1:19-51; Matthew 4:12-24
 
 John 1:19, 20. And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who are you? And he confessed, and denied not, but confessed, I am not the Christ ' 'I am not the One anointed of God to save mankind."
 
@@ -140,7 +137,6 @@ Matthew 4:12. Now when Jesus had heard that John was cast into prison, He depart
 18-23. And Jesus, walking by the sea of Galilee, saw two brothers, Simon, called Peter, and Andrew his brother, casting a net into the sea: for they were fishers. And He said unto them, Follow Me and I will make you fishers of men. And they straightway left their nets and followed Him. And going on from there, He saw two more brothers, James the son of Zebedee, and John, his brother, in a ship with Zebedee their father, mending their nets. And He called them. And they immediately left the ship and their father, and followed Him. And Jesus went about all Galilee, teaching in their synagogues, and preaching the Gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people. I like those words, "all manner"—that is, Christ met every kind and every sort of sickness and disease. Perhaps you, dear Friend, are afflicted in your soul after a very peculiar fashion. Yes, but this great Physician heals all manner of diseases! None are excluded from the list of patients whom He can cure! Twice the words, "all manner," are used—"Healing all manner of sickness and all manner of disease among the people."
 
 24\. And His fame went throughout all Syria: and they brought unto Him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatics and those that had the palsy; and He healed them. Our Lord Jesus lived as in a hospital while He was on earth! Wherever He went, the sins and sorrows of men were all open before His sympathetic gaze. But oh, what joy it must have been to Him to be able to deal so well with them all! Am I addressing any who are sick in soul? Our Master is used to cases just like yours! Your malady is not new to Him. He has healed many like you—of all that were brought to Him, it is written, "He healed them." Lie before Him, now, in all your sin and misery, and breathe the prayer, "Son of David, have mercy on me," and He will surely hear you and heal you, for He delights to bless and save all who trust Him!
-
 
 ---
 [[Sermon 2645 'The Time of Jacob's Trouble'|← #2645]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2647 Preparation Necessary for the Communion|#2647 →]]

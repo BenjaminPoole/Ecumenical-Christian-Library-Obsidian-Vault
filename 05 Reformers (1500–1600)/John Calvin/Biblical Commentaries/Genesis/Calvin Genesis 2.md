@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 2
 
-**CHAPTER 2.**
+***Chapter 2.***
 
 ## Genesis 2:1-25
 

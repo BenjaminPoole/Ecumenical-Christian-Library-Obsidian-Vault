@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## John 13:1-7
 

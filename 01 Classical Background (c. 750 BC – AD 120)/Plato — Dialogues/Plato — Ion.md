@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Ion
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-ION
+## Ion
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Ion is the shortest, or nearly the shortest, of all the writings
 which bear the name of Plato, and is not authenticated by any early
@@ -152,14 +147,9 @@ the allegorical school of interpreters. The circumstance that nothing
 more is known of him may be adduced in confirmation of the argument that
 this truly Platonic little work is not a forgery of later times.
 
-
-
-
-ION
-
+## Ion
 
 PERSONS OF THE DIALOGUE: Socrates, Ion.
-
 
 SOCRATES: Welcome, Ion. Are you from your native city of Ephesus?
 

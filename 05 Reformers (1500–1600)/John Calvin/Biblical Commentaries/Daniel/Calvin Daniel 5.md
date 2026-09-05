@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Daniel 5:1
 
@@ -59,7 +58,7 @@ Hence *the hand appeared from the candlesticks* to render it the more conspicuou
 
 ## Prayer Lecture 23
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are so prone to forgetfulness and to our own indulgence in the desires and pleasures of the flesh, — Grant, I say, to each of us to be recalled to the contemplation of thy judgments; and may we be anxious to walk as in thy sight. May we be afraid of thy just vengeance, be careful not to provoke it by our petulance and other vices; but may we submit ourselves to thee, be held up, and propped up by thy hands, and proceed in the sacred course of thy calling, until at length thou shalt raise us to thy heavenly kingdom, which has been acquired for us by the blood of thine only-begotten Son. — Amen.
 
@@ -105,7 +104,7 @@ Here Daniel relates the occasion of his being brought before the king, as the re
 
 ## Prayer Lecture 24
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou dost constantly address us by thy Prophets, and permittest us not to wander in the darkness of error, — Grant us, I say, to be attentive to thy voice, and make us docile and tractable towards thee; especially when thou settest before us a Master in whom are included all treasures of wisdom and knowledge. Grant us further, I pray thee, to be subject to thine only-begotten Son, to hold on in the right course of our holy calling, and to be always pressing onwards to that goal to which thou callest us, until we are successful in all our contests with this world, and at length arrive at that blessed rest which thou hast obtained for us through the blood of the same thy Son. — Amen.
 
@@ -157,7 +156,7 @@ It now follows, *Whom he wished to slay he slew, and whom he wished to strike he
 
 ## Prayer Lecture 25
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since our own station in life has been assigned to us, that we may be content with our lot, and when thou dost humble us, may we willingly be subject to thee, and suffer ourselves to be ruled by thee, and not desire any exaltation, which may lead us down to destruction. Grant us also, to conduct ourselves so modestly in our various callings, that thou mayest always shine forth in. us. May nothing else be set before us than to assist our brethren to whom we are attached, as in thy sight; and thus glorify thy name among all men, through Jesus Christ our Lord. — Amen.
 
@@ -221,7 +220,7 @@ This order of the king may excite surprise, since he had been so sharply reprove
 
 ## Prayer Lecture 26
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thou didst once send forth a proof of thy wrath against all the proud, so it may be useful to us in these days. May we be admonished by the punishment inflicted on this man, and thus learn to conduct ourselves with moderation and humility. May we not desire any greatness which can be displeasing to thee; and may we so remain in our station of life as to serve thee, and to extol and glorify thy sacred name, without being even separated from thee. Grant us also so to bear thy yoke in this world, and to suffer ourselves to be ruled by thee, that we may at length arrive at that happy rest and portion in thy heavenly kingdom, which thou hast prepared and procured for us, through the blood of thine only-begotten Son. — Amen.
 

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Jeremiah 9:1
 
@@ -37,7 +36,7 @@ And the reason is added, *For all are adulterers* I take the word מנאפים *
 
 ## Prayer Lecture 34
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased that the prophetic writings should be preserved for our use, that they may continually excite us to repentance, and that since thou stiffest up daily those who urge us by their exhortations, and draw us, as it were by force, to repent, — O grant, that there may not be in us such perverseness as we see existed in thine ancient people; but that we may render ourselves teachable, and be so moved by thy threatenings, as to anticipate thy judgment, lest we, mistaking thy forbearance, should at length be visited with that dread, described to us by thy servant Jeremiah, but that we may, on the contrary, find thee to the end to be not only a reconcilable but also a most merciful Father, until we shall at last enjoy a fuller knowledge of thy goodness in thy celestial kingdom, through Jesus Christ our Lord. — Amen.
 
@@ -138,7 +137,7 @@ We have already met with this verse; it will therefore be enough briefly to refe
 
 ## Prayer Lecture 35
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not by our sins to provoke thee more and more, we may at least be warned by thy threatenings and the words of thy prophets, and may not continue obstinate in evil nor pertinaciously resist thy will, but that we may on the contrary learn to anticipate thy judgment and thus receive thy corrections, so that our sins may be hated by us, and that we may become judges of ourselves, in order that we may obtain pardon, and that having obtained it we may not doubt ever to call on thee as our Father, until thou at length gatherest us unto that blessed inheritance, which has been procured for us by the blood of thine only Son. — Amen.
 
@@ -219,7 +218,7 @@ He then more clearly explains how they had sinned, *and after Baalim* [^13] The 
 
 ## Prayer Lecture 36
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only testified what is right by the Law and the Prophets, in order that we may form our life in obedience to thy will, but hast also made more fully known to us by thy Gospel what is perfect righteousness, — O grant, that being ruled by thy Spirit, we may surrender ourselves altogether to thee, and so acquiesce in thy Word alone, that we may not deviate either to the right hand or to the left, but allow thee alone to be wise, and that acknowledging our folly and vanity, we may suffer ourselves to be taught by thy Word, so that we may really prove that we are truly obedient to thee, until having at length completed the course of this life, we shall reach that heavenly rest which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -324,7 +323,7 @@ We now then perceive why the Prophet forbids here any to glory except in God alo
 
 ## Prayer Lecture 37
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou settest before our eyes so many evils and vices by which we have provoked thine anger against us, and yet givest us the hope of pardon if we repent, — O grant us a teachable spirit, that we may with becoming meekness attend to thy threatenings, and be in such a way territlcd by them as not yet to despair of the mercy offered to us, but seek it through thy Son: and as he has once for all pacified thee by shedding his blood, so cleanse thou us also by thy Spirit from all our pollutions, until we at length stand immaculate before thee in that day when Christ shall appear for the salvation of all his people. — Amen.
 
@@ -386,7 +385,7 @@ It is a common thing with Moses and the Prophets to call an unrenewed heart, unc
 
 ## Prayer Lecture 38
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast revealed to us in thy Gospel how guilty and miserable we are, we may learn to loathe ourselves, ard so He down confounded and despairing on account of the sins and guilt we have contracted, as yet to know that true glory is offered to us, and that we can be made partakers of it, if by true faith we embrace thy only-begotten Son, in whom is offered to us perfect righteousness and salvation: And grant also that we may so cleave to Christ, and so receive by faith his blessings, that we may be able, not only before the world, but also against Satan and death itself, to glory in thee, that thou alone art just and wise and strong; and may thy strength and justice and wisdom shine forth upon us in our iniquity and ignorance and infirmity, until we shall at length reach that ruiness of glory, which has been prepared for us in heaven by Christ our Lord. — Amen.
 

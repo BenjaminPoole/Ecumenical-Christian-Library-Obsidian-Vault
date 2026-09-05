@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 19. No. XII. Adam Wallace
 
 ## No. XII.
 
-ADAM WALLACE.
+## Adam Wallace
 
 John Hamilton, Abbot of Paisley and Bishop-Elect of Dunkeld, was nominated by his brother the Governor to the See of St. Andrews, as Beaton's successor, in 1546; and after a considerable period, his appointment was confirmed at the Court of Rome. On the 19th March 1546-7, in the name of the Bishops and Kirkmen, he presented a Supplication to the Governor and Council, for "help and remeid against the Sacramentaris and those infected with the pestilential hersie of Luther;" while others, it is added, "abjurit and relapsit, baneist of auld, now comes pertlie [openly] without any dreidour, nocht allenarly in the far parts of the Realme, but als to the Court and presens of your Lordships, and sometimes preaches opinlie, and instructs utheris in the said dampnable heresies."—(Keith's History, vol. i. p. 147.) During his negociations with the Court of Rome, Hamilton transmitted an Information, urging his claims as Primate and *Legatus Natus* . He refers in it to the increasing number of heretics in the diocese of Glasgow, both in the time of the late Archbishop, (Gawin Dunbar, who died in 1547,) and during the vacancy in that See, and assumes credit to himself for having visited that diocese and purged it of many obnoxious heretics; and in particular, for having expelled that apostate Macbraire, from the house of Ochiltree, and inflicted heavy fines on his adherents, and for having caused (Vallasius) Wallace, a native of that diocese, after he had been convicted and condemned for heresy, before a convention of the nobility and clergy, to be delivered over to the secular power, to the flames. (Mackeson's MS. as quoted in MʻCrie's Life of Knox, vol. ii. p. 292.)
 

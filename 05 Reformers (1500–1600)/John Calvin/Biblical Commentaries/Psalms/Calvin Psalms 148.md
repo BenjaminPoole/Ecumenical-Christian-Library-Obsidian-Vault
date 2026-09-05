@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 148
-
-**PSALM 148**
 
 The more effectually to express how worthy God is to be praised in his works, he calls upon all creatures from above and below to sing his praises. He begins with angels, but immediately proceeds to address the brute creation and dumb elements, intimating, that there is no part of the world in which the praises of God are not to be heard, inasmuch as he everywhere gives proof of his power, goodness, and wisdom. He then comes to speak of men, whom God has constituted the proper heralds of his praises in this world. But as the unbelieving portion of them is both blind to the consideration of God’s works, and dumb to his praises, the Psalmist at the close appeals to the children of Israel, who were privileged with a special discovery of God, as principal witnesses. [^1]
 

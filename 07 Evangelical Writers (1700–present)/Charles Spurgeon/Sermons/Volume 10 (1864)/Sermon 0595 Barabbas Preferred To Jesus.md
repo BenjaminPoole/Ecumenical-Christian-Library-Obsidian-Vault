@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Barabbas Preferred To Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 595
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 16, 1864,.
+*Delivered on Sunday Morning, October 16, 1864*
 
 > John 18:40.
 
@@ -71,7 +70,7 @@ Besides, the priests were at their backs. It is a sad and lamentable thing, but 
 
 No matter that the throats of certain clergymen were exercised in hissing for a moment at the apparition of the bold Anglican monk—he is one of themselves, a brother of their own order—and their Church is responsible for all that he does. Let them come out and separate themselves and then we shall know that they abhor this modern popery. But so long as they sit in the same assembly and are members of the same Church, the sin is theirs, and we shall not cease to denounce both it and them!
 
-If Evangelical clergymen remain in communion with Papists, now that they come out in their full colors, I will cease to say that they violate their consciences, but I shall doubt whether they have any consciences at all! Brethren, it is still the case that the people are better than their teachers. This people would not have crucified Christ had not the clergy of the day, the priests, the endowed ministers, cried out, "Let Him be crucified!" He was the Dissenter, the heretic, schis- matic, the troubler in Israel. He it was who cried aloud against the faults of their establishment! He it was who could not be put down—the ignorant man from Galilee who would continue to clamor against them! The mischief-maker and therefore, "Let Him be crucified! Let Him be crucified!" Anything is good enough for the man who talks about reform and advocates changes in established rules.
+If Evangelical clergymen remain in communion with Papists, now that they come out in their full colors, I will cease to say that they violate their consciences, but I shall doubt whether they have any consciences at all! Brethren, it is still the case that the people are better than their teachers. This people would not have crucified Christ had not the clergy of the day, the priests, the endowed ministers, cried out, "Let Him be crucified!" He was the Dissenter, the heretic, schismatic, the troubler in Israel. He it was who cried aloud against the faults of their establishment! He it was who could not be put down—the ignorant man from Galilee who would continue to clamor against them! The mischief-maker and therefore, "Let Him be crucified! Let Him be crucified!" Anything is good enough for the man who talks about reform and advocates changes in established rules.
 
 No doubt bribery also was used in this case. Had not Rabbi Simon paid the multitude? Was there not a hope of some feast, after the Passover was over, to those who would use their throats against the Savior? Beside, there was the multitude going that way. And so if any had compassion they held their tongue. Often they say that, "Discretion is the better part of valor," and truly there must be many valorous men, for they have much of valor's better part, discretion. If they did not join in the shout, yet at least they would not disturb the others and so there was but one cry, "Away with Him! Away with Him! It is not fit that He should live."
 
@@ -162,7 +161,6 @@ When you have cast up that sum, may I ask you to calculate how much you will hav
 But this I know, you will never make the right choice unless that mighty Spirit who alone leads us to choose the right and reject the wrong, shall come upon you and lead you to fly to a Savior's wounds! I need not, I think, prolong the service now, but I hope you will prolong it at your own houses by thinking of the matter. And may I put the question personally to all of you separate—whose are you? On whose side are you? There are no neuters. There are no betweenites—you either serve Christ or Belial! You are either with the Lord or with His enemies! Who is on the Lord's side this day? Who? Who is for Christ and for His Cross? For His blood and for His Throne?
 
 Who, on the other hand, are His foes? As many as are not for Christ are numbered with His enemies. Be not so numbered any longer, for the Gospel comes to you with an inviting voice—"Believe in the Lord Jesus Christ and you shall be saved." God help you to believe and cast yourself upon Him now. And if you trust Him, you are saved now and you shall be saved forever! Amen.
-
 
 ---
 [[Sermon 0594 An Awful Premonition|← #594]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0596 Praying And Waiting|#596 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Comfort for the Fearful
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2852
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He said unto them, Why are you fearful, O you of little faith?" Matthew 8:26.
 
@@ -127,7 +124,7 @@ precious blood! You will need forgiveness for that tear if you dream that there 
 
 But, lastly, I hear someone else say, "My trouble is concerning the difficulties of a Christian life. How can I, if I begin to be a Christian, hold on to the end?" Dear Friend, I will not deny that there are difficulties and that they are very great, much greater than you imagine. But your holding on is not the great matter—it is Christ who will hold you on! Your perseverance in Grace is no more to be your own act, apart from Christ, than is your first hope in Him. You are to look to Christ to be Omega as well to be Alpha, to be the Z as well as to be the A of the Christian Alphabet—and if you come and cast yourself upon Him, it is not His custom to cast away any who come to Him, neither at first nor yet afterwards. "Having loved His own which were in the world, He loved them unto the end." And He will do the same with you. He will subdue your corruptions. He will drive out your iniquities and present you, at the last, "faultless" before His Father's Throne! Oh, I can talk about this, but after all, it is only the Lord and Giver of Grace who can drive away your unbelief! May He do so now—and to His dear name shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM125.
+## Exposition by C. H. Spurgeon: Psalm 125
 
 Verse 1. They that trust in the LORD shall be as Mount Zion, which cannot be removed, but abides forever I noticed, in one of the reports of the survey of Palestine, that it is said that albeit every building upon Mount Zion has been
 
@@ -148,7 +145,6 @@ demolished, and not one stone has been left upon another, yet the mountain, itse
 6\. The LORD shall lead them forth with the workers of iniquity. They chose the same way, so they shall share the same end! What a sad end for those who once stood side by side with the saints, to be led out to execution side by side with the workers of iniquity!
 
 7\. But peace shall be upon Israel. In the 1st and 2nd verses of the Psalm, they are said to be like Salem. In this last verse, they are said to have Salem, that is, peace—"Peace shall be upon Israel."
-
 
 ---
 [[Sermon 2851 Unseasonable Prayer|← #2851]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2853 Observing the King's Word|#2853 →]]

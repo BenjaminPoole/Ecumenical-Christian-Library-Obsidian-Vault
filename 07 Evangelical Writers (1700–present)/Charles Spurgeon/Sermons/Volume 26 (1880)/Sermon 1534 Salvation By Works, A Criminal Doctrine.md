@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Salvation By Works, A Criminal Doctrine
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1534
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 18, 1880,.
+*Delivered on Lord's-Day Morning, April 18, 1880*
 
 > "I do not frustrate the Grace of God: for if righteousness comes by the Law, then Christ is dead in vain." Galatians 2:21.
 
@@ -128,7 +127,6 @@ His death has bought us eternal life, has bought us sonship and all the blessing
 There shall be no failures as to God's plan in any point whatever! At the last, when all shall be summed up, it shall be seen that Grace reigned through righteousness unto eternal life and the top stone shall be brought out with shouts of "Grace, Grace unto it." And as Grace cannot be frustrated, so Christ did not die in vain! Some seem to think that there were purposes in Christ's heart which will never be accomplished. We have not so learned Christ. What He died to do shall be done—those He bought, He will have—those He redeemed shall be free. There shall be no failure of reward for Christ's wondrous work! He shall see of the travail of His soul and shall be satisfied.
 
 On these two principles I throw back my soul to rest. Believing in His Grace that Grace shall never fail me. "My Grace is sufficient for you," says the Lord and so shall it be. Believing in Jesus Christ, His death must save me. It cannot be, O Calvary, that you should fail! O Gethsemane, that your bloody sweat should be in vain. Through Divine Grace, resting in our Savior's precious blood, we must be saved! Joy and rejoice with me and go your way to tell it to others! God bless you in so doing, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1533 Fear Not|← #1533]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1535 Christ's Universal Kingdom and How It Comes|#1535 →]]

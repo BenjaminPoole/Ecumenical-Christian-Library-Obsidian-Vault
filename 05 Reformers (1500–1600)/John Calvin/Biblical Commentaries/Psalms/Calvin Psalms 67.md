@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 67
-
-**PSALM 67**
 
 The following psalm contains a prayer for a blessing upon the Church, that besides being preserved in a state of safety in Judea, it might be enlarged to a new and unprecedented extent. It touches shortly upon the kingdom of God, which was to be erected in the world upon the coming of Christ. [^1]
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Dying Thief in a New Light
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1881
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But the other, answering, rebuked him, saying, Do you not fear God, seeing you are in the same condemnation? And we, indeed, justly; for we receive the due reward of our deeds: but this Man has done nothing wrong. And he said unto Jesus, Lord, remember me when You come into Your Kingdom." Luke 23:40-42.
 
@@ -91,7 +88,7 @@ I think that I have shown you something special in the means of the thief's conv
 
 III. But now, thirdly, as God shall help me, I wish to show you another specialty, namely, in THE RESULT OF HIS
 
-FAITH.
+## Faith
 
 I have heard people say, "Well, you see, the dying thief was converted, but then he was not baptized! He never went to communion and never joined the church!" He could not do either and that which God Himself renders impossible to us, He does not demand of us. He was nailed to a cross—how could he be baptized? But he did a great deal more than that, for if he could not carry out the outward signs, he most manifestly exhibited the things which they signified, which, in his condition, was better still!
 
@@ -134,7 +131,6 @@ Why is it that our Lord does not thus imparadise all of us at once? It is becaus
 Oh, Christian people, do justify your Lord in keeping you waiting here! How can you justify Him but by serving Him to the utmost of your power? The Lord help you to do so! Why, you owe as much to Him as the dying thief! I know I owe a great deal more. What a mercy it is to have been converted while you were yet a boy, to be brought to the Savior while you were yet a girl! What a debt of obligation young Christians owe to the Lord! And if this poor thief crammed a life full of testimony into a few minutes, ought not you and I, who are spared for years after conversion, to perform good service for our Lord?
 
 Come, let us wake up if we have been asleep! Let us begin to live if we have been half dead. May the Spirit of God yet make something of us, so that we may go as industrious servants from the labors of the vineyard to the pleasures of Paradise! To our once crucified Lord be Glory forever and ever! Amen.
-
 
 ---
 [[Sermon 1880 A Lesson and a Fortune for Christian Men of Business|← #1880]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1882 Retrospect—The Lord Has Blessed|#1882 →]]

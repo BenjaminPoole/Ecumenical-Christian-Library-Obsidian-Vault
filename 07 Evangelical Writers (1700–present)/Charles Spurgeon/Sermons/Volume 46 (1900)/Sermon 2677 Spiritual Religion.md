@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Spiritual Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2677
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is the spirit that quickens; the flesh profits nothing." John 6:63.
 
@@ -118,7 +115,6 @@ On the other hand, we have seen some come whose "flesh" could not help them. The
 Now, I do not believe that there is any form of our flesh, nor any act of our flesh, nor anything that our flesh can do, or attempt to do, or think of, or suggest, that can in any way assist in the great spiritual work of our salvation. It is the Spirit alone that quickens, and you will find, till you die, that "the flesh profits nothing," and profits no one except the devil. It often profits him, but in God's ways. And in God's holy Gospel, you will always find the flesh lusting against the Spirit, and the Spirit against the flesh. You will have to feel this Truth, that the flesh at its best estate profits nothing. "It is the Spirit that quickens."
 
 Now, my Brothers and Sisters, in conclusion, I will ask you this question—Have you received the influences of the Holy Spirit? And have those influences led you to worship God, who is a Spirit, "in spirit and in truth?" For, if not, though some may put you in the cradle of ceremonies and rock you to sleep, I will not be one of them! Although men may tell you you are right enough because you are outwardly so religious, because you are no Sabbath-breaker, no swearer, no drunkard, I warn you that unless you are born again from above, you cannot see the Kingdom of God! And when drunks, harlots and all manner of ungodly persons shall be driven from the Presence of God, you, also, shall share their fate, for you are dead in trespasses and sins, even as they are! If you would ever enter Heaven, you must be quickened by the Holy Spirit. No more shall I say, but earnestly entreat the Spirit of the blessed God to impress upon your hearts this solemn thought and lead you to renounce the works of the flesh—and put your trust in Him "who is the Savior of all men, especially of those that believe." May the Lord's mercy rest upon you all, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2676 Comfort From the Future|← #2676]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2678 The Lesson of the Almond Tree|#2678 →]]

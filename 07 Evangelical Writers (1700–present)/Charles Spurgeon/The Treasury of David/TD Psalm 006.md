@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 6
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -152,14 +151,13 @@ O keep up life and peace within, If I must feel thy chastening rod! Yet kill not
 
 *Verse* 10. The shame reserved for the wicked.
 
-WORKS UPON THE SIXTH PSALM
+## Works upon the Sixth Psalm
 
 *Sermons on the Penetential Psalms,* in "The Works of John Donne, D.D., Dean of St. Paul's," 1621-1631. Edited by HENRY ALFORD, M.A. In six volumes. 1839.
 
 *On Verse 6. The Sick Man's Couch; a Sermon preached before the most noble Prince Henry, as Greenwich, Mar. 12., ann. 1604.* by THOMAS PLAYFERE. &c., in Playfere's Sermons.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 005|← Psalm 5]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 007|Psalm 7 →]]

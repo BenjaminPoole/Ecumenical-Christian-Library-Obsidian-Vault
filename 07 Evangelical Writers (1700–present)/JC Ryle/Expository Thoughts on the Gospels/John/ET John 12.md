@@ -11,12 +11,11 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 12
 
 *Expository Thoughts on John* — J. C. Ryle
 
-**JOHN 12**
+## **John 12**
 
 ## JOHN 12:1-11
 
@@ -187,7 +186,6 @@ These are dreadful truths! But they are truths, and ought to be told. No wonder 
 Let the thought of judgment to come have a practical effect on our religion. Let us daily judge ourselves with righteous judgment, that we may not be judged and condemned of the Lord. Let us so speak and so act as men who will be judged by the law of liberty. Let us make conscience of all our hourly conduct, and never forget that for every idle word we must give account at the last day. In a word, let us live like those who believe in the truth of judgment, heaven, and hell. So living, we shall be Christians indeed and in truth, and have boldness in the day of Christ's appearing.
 
 Let the judgment-day be the Christian's answer and apology when men ridicule him as too strict, too precise, and too particular in his religion. Irreligion may do tolerably well for a season, so long as a man is in health and prosperous, and looks at nothing but this world. But he who believes that he must give account to the Judge of quick and dead, at His appearing and kingdom, will never be content with an ungodly life. He will say, "There is a judgment. I can never serve God too much. Christ died for me. I can never do too much for Him."
-
 
 ---
 [[ET John 11|← John 11]] · [[Expository Thoughts on John|John Contents]] · [[ET John 13|John 13 →]]

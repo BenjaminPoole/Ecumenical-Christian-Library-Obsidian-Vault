@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 2. Advertisement
-
-### **ADVERTISEMENT** .
 
 This publication of the Works of John Knox, it is supposed, will extend to Five Volumes. It was thought advisable to commence the series with his History of the Reformation in Scotland, as the work of greatest importance. The next volume will thus contain the Third and Fourth Books, which continue the History to the year 1564; at which period his historical labours may be considered to terminate. But the Fifth Book, forming a sequel to the History, and published under his name in 1644, will also be included. His Letters and Miscellaneous Writings will be arranged in the subsequent volumes, as nearly as possible in chronological order; each portion being introduced by a separate notice, respecting the manuscript or printed copies from which they have been taken.
 

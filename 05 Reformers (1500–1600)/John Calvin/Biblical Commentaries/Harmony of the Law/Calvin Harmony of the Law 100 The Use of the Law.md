@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 100. The Use of the Law
-
-**The Use of the Law**
 
 Inasmuch as in the Law the difference between good and evil is set forth, it is given for the regulation of the life of men, so that it may be justly called the rule of living well and righteously. This object of the Law is known to almost all men, because all confess without controversy that God here prescribes what is right, lest we should wander all our lifetime in uncertainty; for since His will is the perfect law of righteousness, it can alone direct us to the mark. The knowledge of good and evil is indeed imprinted by nature on men, whereby they are rendered inexcusable; nor has any amount of barbarism ever so extinguished this light as that no form of law should exist. But, since the main principle of righteousness is to obey God, it was by special privilege that He deposited with His elect people the rule of living aright as a pledge of His adoption. Hence the declarations which so often occur in the writings of Moses: I command thee to keep and to do, etc. But, since we are “carnal, sold under sin,” (Romans 7:14,) we are so far from being able to fulfill the Law, which is spiritual, that all our imaginations are at enmity with its righteousness, as Paul teaches elsewhere. (Romans 7:7.) Those, therefore, who [^1] content themselves with using it for instruction, do wrong in confining themselves to this one point, since no advantage can hence be derived from it, as long as we shall remain in our corrupt nature. Nay, as soon as the Law presents itself before us, the curse of God falls upon our heads, as if He smote us with a thunder-bolt from heaven. I will not heap together all the testimonies to this effect; let one peculiarly striking passage suffice:
 

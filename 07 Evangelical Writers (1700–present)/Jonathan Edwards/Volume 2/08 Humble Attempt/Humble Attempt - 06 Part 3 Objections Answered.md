@@ -10,7 +10,6 @@ written: "1747"
 tags:
   - jonathan-edwards
 ---
-
 # PART III.
 
 ## OBJECTIONS ANSWERED.
@@ -171,7 +170,7 @@ And as to *this particular method,* proposed to promote union in extraordinary p
 
 God speedily and wonderfully heard and answered those who were united in that extraordinary prayer, in suddenly scattering those black clouds which threatened the nation and the protestant interest with ruin, at that time; in bringing about, in so remarkable a manner, that happy change in the state of affairs in the nation, which was after the queen’s death, by bringing in King *George* the First, just at the time when the enemies of the religion and liberties of the nation had ripened their designs to be put in speedy execution. And we see in the beginning of this extract, that what is proposed, is mentioned as being no new thing, but that God’s people in *Great Britain* had *formerly* been called upon to the like duty, and had complied, not without *success.* Such agreements have several times been proposed in *Scotland,* before this which is now proposed to us; there was a proposal published for this very practice, in the year 1732, and another in 1735. So that it appears this objection of *novelty* is built on a mistake.
 
-SECT. VI.
+## Sect. VI
 
 Concluding considerations.
 

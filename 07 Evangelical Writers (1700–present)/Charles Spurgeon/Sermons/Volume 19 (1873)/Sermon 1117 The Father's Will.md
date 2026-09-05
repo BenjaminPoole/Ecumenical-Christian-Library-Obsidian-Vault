@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # The Father's Will
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1117
-
-DELIVERED BY.
 
 > "And this is the Father's will which has sent Me, that of all which He has given Me I should lose nothing, but should raise it up again at the last day. And this is the will of Him thatsentMe, that everyone which sees the Son, and believes on Him, may have everlasting life; and I will raise him up at the last day." John 6:39,40.
 
@@ -136,7 +133,6 @@ We desire to abound in good works. We desire to destroy every vice and forsake a
 You are all safe enough if you are resting there. Do not let a doubt disturb you. Go your way full of peace and consolation, and the Lord be with you! But, oh, if you have never believed in Jesus, may your spirits never know any rest till you do! May you never be content till you flee to Him and rest on Him! The Lord grant it, for His dear name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 6:22.
-
 
 ---
 [[Sermon 1116 Medicine For The Distracted|← #1116]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1118 The Way To Honor|#1118 →]]

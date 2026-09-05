@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Use of the Bow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1694
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "And David lamented with this lamentation over Saul and over Jonathan his son: (Also he bade them teach the children of Judah the use of the bow: behold, it is written in the book of Jasher)." 2 Samuel 1:17,18
 
@@ -84,7 +83,6 @@ The strength of the Church lies not in the oratory of the pulpit, but in the ora
 Perhaps I speak to some here who do not know anything about praying. I dare say that the Brother is here who listened to a sermon on Peckham Rye, which was rather a wild one, I am afraid. In that discourse the preacher said to all his congregation that if they would go home and ask God for anything, the Lord would give it to them. I cannot endorse so wild a statement! However, this man thought that the preacher, having said it, it was true—and having never prayed before in all his life, he put the question to the test of a certain event—and that certain event fell out as he desired. Then he began to tremble, for he judged that, assuredly, there is a God!
 
 Now, I do not say to you, dear Hearers, that whatever all of you shall ask in prayer you shall receive. I would not say that to you ungodly ones. But I do say that if you will ask for mercy and salvation and eternal life—and anything that is promised to believing sinners—you shall have it. I wish you would try the experiment, for you would find that the Lord never breaks a promise. If you read a promise made to a sinner, it is made to you! Go ahead and plead it, and the Lord will grant it. I will be surety for Him that He will keep His word. Trust Him and try, and thus learn the use of the bow! God bless you for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1693 That Horrible East Wind!|← #1693]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1695 The Orphan's Father|#1695 →]]

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 155. Numbers 15:32-36
-
-**Numbers 15**
 
 **32.** And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the Sabbath-day.
 

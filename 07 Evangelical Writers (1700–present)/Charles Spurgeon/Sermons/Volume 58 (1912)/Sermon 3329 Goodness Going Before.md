@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Goodness Going Before
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3329
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You prevent Him with the blessings of goodness." Psalm 21:3.
 
@@ -153,7 +150,7 @@ Return, return!"
 
 If you come to Him, there shall be no rejection, but a warm reception, and you shall be blessed forever in Jesus Christ!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 138:1-6.
+## Exposition by C. H. Spurgeon: Psalm 138:1-6
 
 A Psalm of David.
 
@@ -170,7 +167,6 @@ Verse 1.1 will praise You with my whole heart before the gods will I sing praise
 6\. Though the LORD is high, yet has He respect unto the lowly. That is a sweet text! One who was a scoffer met a humble child of God one morning and he said to him, "Tell me, is Your God a great God or a little God," and the poor man said, "Sir, He is both, for, though He is so great that the Heaven of heavens cannot contain Him, yet He makes Himself so little that He condescends to dwell in my poor heart." Ah, it was sweetly said. He who fills the heavens, no, fills all things, will be our abiding Guest and Friend if we will but welcome Him.
 
 6\. But the proud He knows afar off. He has enough of them. He does not want them to come near Him. When they are miles away He knows all about them. They make a fair show, but He sees that it is all a fable and pretence. He knows them—afar off!
-
 
 ---
 [[Sermon 3328 Guests for the Royal Feast|← #3328]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3330 Two Choice Assurances|#3330 →]]

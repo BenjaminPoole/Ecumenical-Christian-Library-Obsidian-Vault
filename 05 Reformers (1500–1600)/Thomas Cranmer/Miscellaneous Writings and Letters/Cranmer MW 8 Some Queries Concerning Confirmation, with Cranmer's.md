@@ -10,14 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 8. Some Queries Concerning Confirmation, with Cranmer's Answers
 
-SOME QUERIES CONCERNING CONFIRMATION,
-
-WITH THE ANSWERS WHICH WERE GIVEN TO THEM BY
-
-THE JUDGMENT OF CRANMER, ARCHBISHOP OF CANTERBURY.
+## The Judgment of Cranmer, Archbishop of Canterbury
 
 Cotton Lib. Whether confirmation be instituted by Christ?
 

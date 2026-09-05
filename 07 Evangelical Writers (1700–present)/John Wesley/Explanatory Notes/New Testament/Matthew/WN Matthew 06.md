@@ -60,7 +60,7 @@ III. For thine is the kingdom - The sovereign right of all things that are or ev
 
 **14.** Mark xi, 25.
 
-**16.** When ye fast? - Our Lord does not enjoin either fasting, alms- deeds, or prayer: all these being duties which were before fully established in the Church of God. Disfigure - By the dust and ashes which they put upon their heads, as was usual at the times of solemn humiliation.
+**16.** When ye fast? - Our Lord does not enjoin either fasting, alms-deeds, or prayer: all these being duties which were before fully established in the Church of God. Disfigure - By the dust and ashes which they put upon their heads, as was usual at the times of solemn humiliation.
 
 **17.** Anoint thy head - So the Jews frequently did. Dress thyself as usual.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Lessons From the Manna
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2332
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said the LORD unto Moses, Behold, I will rain bread from Heaven for you; and the people shall go out and gather a certain quota every day, that I may prove them, whether they will walk in My Law, or no." Exodus 16:4.
 
@@ -97,7 +94,7 @@ to Thursday, and Thursday to Sunday, again, thanking God that the heavenly bread
 
 God bless you, dear Friends! May He make His Word sweeter to us every day we live! May we have good appetites to feed on it! As for you who have never known the flavor of the heavenly food, I say again, as I said a few minutes ago, may the Lord quicken you by His own life-giving Spirit, for Jesus' sake! Amen!
 
-EXPOSITIONS BY C. H. SPURGEON: EXODUS 16:1-5,11-36; NUMBERS11:1-10.
+## Expositions by C. H. Spurgeon: Exodus 16:1-5,11-36; Numbers 11:1-10
 
 Exodus 16:1, 2. And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness. They have been only about six weeks in the wilderness and already they are up in arms against their leaders. Remember that we have the same kind of people to deal with as Moses and Aaron had. The children of Israel were no better than any other nation and I do not think they were any worse. We may take them as a fair average of human nature, which is a discontented, rebellious thing in the best of circumstances.
 
@@ -162,7 +159,6 @@ God.
 10\. Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased. And no wonder! Meek man as he was, they vexed his gracious spirit by their perpetual murmuring. As we read this sad story, let us, as in a glass, see ourselves—and let us deeply repent of our murmuring and complaining, and henceforth sing—
 
 "I will praise You every day! Now Your anger's turned away." Perhaps our next hymn (Number 697) will help us that way.
-
 
 ---
 [[Sermon 2331 Christ's Pastoral Prayer for His People|← #2331]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2333 The Whole Band Against Christ|#2333 →]]

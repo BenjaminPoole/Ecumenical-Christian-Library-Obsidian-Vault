@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Family Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1336
-
-DELIVERED BY.
 
 > "And the Lord said unto Noah, Come you and all your house into the ark...And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood." Genesis 7:1, 7.
 
@@ -188,7 +185,6 @@ Last came the son's wives and what a happy circumstance for them! I was thinking
 1 hope, dear fathers and mothers, you will never agree to have one of your children lost. Make it your daily and nightly prayer, your incessant effort, your hourly desire that not only Shem and Ham and Japheth may be brought, but their wives, too—till not one shall be left behind—but the whole family shall be saved in Christ Jesus!
 
 Now, all this was done by the sweet, effectual calling of the Divine Spirit. And let us pray tonight, each one, that the same call may be given to all our friends, kinsfolk and all assembled here—that we may be all in Christ, both now and on the Last Great Day! Amen.
-
 
 ---
 [[Sermon 1335 A Cheery Word in Troublous Times|← #1335]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1337 Love's Medicines and Miracles|#1337 →]]

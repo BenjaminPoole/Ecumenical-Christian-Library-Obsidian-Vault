@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Warning and Encouragement
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3111
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Esau said unto his father, Haveyou but one blessing, my Father? Bless me, even me, also, O my Father. And Esau lifted up his voice and wept." Genesis 27:38.
 
@@ -89,7 +86,7 @@ Besides, it would be to His own Glory in Heaven above and down here among the so
 
 Again I quote Paul's words to the jailer at Philippi, "Believe on the Lord Jesus Christ, and you shall be saved." I do not know what more I can say. If I have been talking to sensible men who value their immortal souls—and God blesses my message—I have said enough. If I speak to those who are besotted with their sin and bent on committing spiritual suicide, I could not say enough though I spoke till your ears could no longer hear and my tongue could no longer speak. Eternal Spirit, arrest the elect of God this very hour and bring them to see themselves as they are—and then to see Christ as their Savior and force from each one of them this cry—"Bless me, even me also, O my Father." Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 12.
+## Exposition by C. H. Spurgeon: Hebrews 12
 
 The Apostle, having described the heroes of the faith, represents them as witnesses of the great race [See Sermon #2037,
 
@@ -150,7 +147,6 @@ the mouth of the unchanging God lives and abides forever!
 28, 29. Therefore we receiving a Kingdom which cannot be moved, let us have Grace, whereby we may serve God acceptably with reverence and godly fear; for our God is a consuming fire. The God who gave the Law on Sinai has never changed—the God of Abraham, of Isaac, and of Jacob, the God of Moses who overthrew Pharaoh and his hosts in the Red Sea, and slew Korah, Dathan, and Abiram and the multitude of murmurers, idolaters and fornicators in the wilderness—"this God is our God forever and ever: He will be our guide even unto death."
 
 I would again remind you of what I have often said concerning the wickedness of putting into this passage words that the Holy Spirit never inspired Paul to write. Many people say, "God out of Christ is a consuming fire." But Paul wrote nothing of the sort! It is "our God"—and He is not "our God" except as we view Him in Christ—who is "a consuming fire." How greatly we ought to reverence Him and how earnestly we ought to ask of Him that the Divine Fire may burn up everything in us that ought to be consumed—that only that may remain which will first endure the great shaking and which will afterwards endure the great burning. May the Lord graciously grant to each one of us that Grace which shall abide the fire!
-
 
 ---
 [[Sermon 3110 Faintness and Refreshing|← #3110]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3112 A Sermon and a Reminiscence|#3112 →]]

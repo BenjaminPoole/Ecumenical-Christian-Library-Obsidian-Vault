@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Holy Longings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1586
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 27, 1881,.
+*Delivered on Lord's-Day Morning, February 27, 1881*
 
 > "My soul breaks with longing for Your Judgments at all times." Psalm 119:20.
 
@@ -134,7 +133,6 @@ Meanwhile, the desire, itself, is doing you good. It is driving you out of yours
 Yes, I mean you weakest ones of the flock! You feeblest of the saints! You who dare not put your names down among God's people at all! If there is a sacred longing in your spirit, there is that in Christ which is adapted to you in spite of your feebleness and unworthiness. God is ready to give you whatever you are ready to receive. Only come and trust Him for it and look to His dear Son, for in Jesus you have all things. Oh, this is the blessedness of this longing after God's Judgments, that it makes Christ precious! And, with that remark, I have done.
 
 We see all God's Word in Christ. We see all God's decisions against sin and for righteousness embodied in our Savior. We see that if we can get Christ we have then found the Wisdom of God and the power of God and, in fact, the All-Sufficiency of God! If we can become like Christ we shall be like God Himself. This, I say, makes Christ so precious and makes us long to more fully know Him and call Him ours! Come, you longing ones, come to my Lord Jesus even now! Come, you that are bursting with wishes and desires, come and trust the Savior and rest in Him now! And may this be the hour in which you shall find how true it is, "Blessed are they that hunger and thirst after righteousness, for they shall be filled." May you yet sing the Virgin's song, "He has filled the hungry with good things. My soul does magnify the Lord."
-
 
 ---
 [[Sermon 1585 Truthfulness|← #1585]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1587 Jesus At A Standstill|#1587 →]]

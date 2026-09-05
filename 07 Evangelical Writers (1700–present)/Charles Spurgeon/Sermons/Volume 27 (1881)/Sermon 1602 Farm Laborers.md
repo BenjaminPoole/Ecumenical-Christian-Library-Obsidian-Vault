@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Farm Laborers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1602
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 5, 1881,.
+*Delivered on Lord's-Day Morning, June 5, 1881*
 
 > "I have planted, Apollos watered, but God gave the increase. So then neither he who plants is anything, neither he who waters, but God that gives the increase. Now he whoplants andhe who waters are one: and every man shallreceive his own reward according to his own labor. For we are laborers together with God: you are God's husbandry." 1 Corinthians 3:6-9.
 
@@ -148,7 +147,6 @@ But, lastly, how this should drive us to our knees! Since we are nothing without
 There is a thinner congregation when I am away and, therefore, I am afraid that you have some reliance upon me and do not expect a blessing if I am absent. Is it so? Having begun in the Spirit, are you now made perfect in the flesh? Have you begun to be of Spurgeon? This will never do! Brothers and Sisters, this will never do! We must get rid of the tendency before it grows upon us! God can bless one man as well as another. I do not know that He always does so, but He can and, perhaps if you expected Him to do so, He would do so. If you came up to this house with the same prayerfulness for others as you apportion me, you would get the same blessing! I am weakest of the weak apart from God, therefore pray for me, but others are weak, too, and, therefore, pray for them, also.
 
 Do let us pray mightily for a blessing! Pray always! Pray in your bedchambers, at your family altars, at your work, in your leisure and also in this place! Come in larger numbers to pray for a blessing! We have many appointed Prayer Meetings—keep them all flourishing! The windows of Heaven are easily opened if our mouths and hearts are opened in prayer. If the blessing is withheld, it is because we do not cry for it and expect it! O, Brother laborers, come to the Mercy Seat and you shall see God's farm watered from on high and tilled with Divine skill—and the reapers shall soon return from the folds bringing their sheaves with them, though, perhaps, they went forth weeping to the sowing. To our Father, who is the Husbandman, be all Glory, forever and ever! Amen.
-
 
 ---
 [[Sermon 1601 The Judgment Seat Of God|← #1601]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1603 What the Farm Laborers Can Do and What They Cannot Do|#1603 →]]

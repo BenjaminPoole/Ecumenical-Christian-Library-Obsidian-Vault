@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Romans 8:1-4
 

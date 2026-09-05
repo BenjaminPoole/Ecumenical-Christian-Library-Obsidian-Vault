@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 15. Matthew 1:18-25
-
-**MATTHEW 1:18-25**
 
 **18**. Now the birth of Jesus Christ was in this manner. For when his mother Mary was betrothed to Joseph, before they came together, she was found to be with child by the Holy Spirit. **19**. And Joseph her husband, as he was a just man, and was unwilling to injure her reputation, intended to send her away secretly. **20**. And while he was considering these things, lo, the angel of the Lord appeared to him in a dream, saying, Joseph, son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is by the Holy Spirit. **21**. And she shall bear a son, and thou shalt call his name JESUS. For he shall save his people from their sins. **22**. Now all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying, **23**. Behold, a virgin shall be with child, and shall bear a son, and they shall call his name Immanuel: which, if one interprets it, means, God is with us. **24**. Then Joseph, being raised from sleep, did as the angel of the Lord had commanded him, and took unto him his wife: **25**. And knew her not, till she brought forth her first-born son: and called his name JESUS.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Discipline in Christ's Army
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3188
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Pass through the host, and command the people." Joshua 1:11.
 
@@ -174,7 +171,6 @@ He that has been a mere professor and has turned back, must be branded, "Deserte
 8 Discipline in Christ's Army Sermon #3188
 
 you are a deserter, if you do but come to Christ, He will receive you graciously, love you freely and His anger shall be turned away from you. God bless you, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3187 The Great Pot and the Twenty Loaves|← #3187]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3189 The Tenderness of God's Comfort|#3189 →]]

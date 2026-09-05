@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Scarlet Line in the Window
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3168
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "She bound the scarlet line in the window." Joshua 2:21.
 
@@ -91,7 +88,7 @@ Believe in Jesus, O you who know Him not! And you who know Him, practice what yo
 
 Amen and Amen.—Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307.
 
-EXPOSITION BY C. H. SPURGEON: 1 CHRONICLES 21:9-20.
+## Exposition by C. H. Spurgeon: 1 Chronicles 21:9-20
 
 Verses 9-11. And the LORD spoke unto Gad, David's seer, saying, Go and tellDavid, saying, Thus says the LORD, I offer you three things: choose one of them, that I may do it unto you. So Gad came to David and said unto him, Thus says the LORD, Choose.David was to choose where there was no choice, for everything proposed to him seemed to be equally bitter.
 
@@ -114,7 +111,6 @@ Verses 9-11. And the LORD spoke unto Gad, David's seer, saying, Go and tellDavid
 26, 27. And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and He answered him from Heaven by fire upon the altar of burnt offering. And the LORD commanded the angel; and he put up his sword into the sheath thereo. That God had already done in His own intent and purpose, now He does it actually, just as before Jesus Christ, our great Sacrifice, was offered, God, in the eternal purpose, had stayed the sword of vengeance from His redeemed people and then actually did it when Christ, their Sacrifice was presented.
 
 28-30. At that time when David saw that the LORD had answered him in the threshing floor of Ornan the Jebusite, then he sacrificed there. For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon. But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.
-
 
 ---
 [[Sermon 3167 The Christian's Helmet|← #3167]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3169 The Believer's Present Rest|#3169 →]]

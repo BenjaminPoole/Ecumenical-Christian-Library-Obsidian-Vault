@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 75
-
-**PSALM 75**
 
 It affords matter of rejoicing and thanksgiving to the whole Church, to reflect that the world is governed exclusively according to the will of God, and that she herself is sustained by his grace and power alone. Encouraged by this consideration, she triumphs over the proud despisers of God, who, by their infatuated presumption, are driven headlong into all manner of excess.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Rough, But Friendly
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3379
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provisions for the way: and thus did he unto them." Genesis 42:25.
 
@@ -27,9 +24,9 @@ Very like this is the manner of God's Providence. There are thousands of people 
 
 Laying it down, then, as a rule, that God's servants will be dealt roughly with by their Master, that the Brothers and Sisters of Christ must accept it, I shall now proceed to offer a few thoughts, which, perhaps, may be comfortable to those of God's people who are in trouble. From the text and its surroundings, I gather this Truth of God—
 
-I. WHEN THE LORD IS ABOUT TO GIVE GREAT FAVORS, HE OFTEN DEALS ROUGHLY WITH THOSE
+## I. When the Lord Is About to Give Great Favors, He Often Deals Roughly with Those
 
-WHO ARE TO RECEIVE THEM.
+## Who Are to Receive Them
 
 Joseph intends to bless his brothers. He has the most liberal of the royal designs towards them, but he first deals roughly with them. Before the Lord Jesus Christ shall come to give His Church her last and most transcendent blessing in His millennial reign of splendor, there are vials that are to be poured out. There will be wars and rumors of wars. There will be the shaking of Heaven and earth—great distress, famine, pestilences and earthquakes. The greater the blessing, the greater the trial that shall precede it! So, too, with our own souls. When the Lord Jesus Christ intended to save us and to give us a sense of pardon of our sins, He began by convincing us of our iniquity. He dealt heavy blows at our self-righteousness. He laid us in the dust and seemed to roll us in the mire. It seemed as though He delighted to tread upon us and to crush our every hope and destroy every fond expectation! It was all to wean us from self-righteousness, to pull us up by the roots, to prevent our growing and taking fast hold on the earth, to compel us to rest in His blood and righteousness and to seek our soul's life entirely from Him! That great blessing of salvation was, with the most of us, at any rate, preceded by thick clouds and tempests! We were convinced of sin, of self-righteousness, of judgment to come, and our heart trembled! And afterwards, when He had dealt roughly with us, He said, "Your sins, which are many, are all forgiven you: go in peace." It seems, then, our experience is general and common, that the love letters of our Lord Christ
 
@@ -101,7 +98,7 @@ Thus I might continue to show what kind of provision it is that the Lord gives b
 
 may the Holy Spirit comfort you with it! You shall never be sent on a journey without provender and you shall never have to go to battle at your own charges. If the Lord tries you, it shall never be above what you are able to bear, for He will, with the temptation, make a way of escape, that you may be able to bear it. He may treat you roughly, but He will fill your sack. He may speak sharp words, but He will put your money into your sack's mouth. He may take your Simeon and bind him before your eyes, but He will give you provision by the way till you get to the goodly land where you shall need no more provision and the Lamb shall be forever with you—and you with Him! The third lesson which we draw from this is that though sometimes the Lord treats His people roughly, more roughly than He does any other people, yet—
 
-III. HE GIVES THEM THE BEST OF THE BARGAIN IN THE LONG RUN.
+## III. He Gives Them the Best of the Bargain in the Long Run
 
 These, his brothers, were the only ones Joseph spoke roughly to, but they were the only ones upon whose necks he afterwards fell and wept. They were the only ones that made the tears come into his eyes. They were the only ones of whom he said, "I will preserve you alive." They were the only ones for whom he sent the wagons to bring them down, saying, "Regard not your stuff, for the whole land of Egypt is yours." They were the only ones whom he brought in before Pharaoh and said, "Behold my father and my brothers." They were highly favored and they dwelt in the land of Goshen and they had rest. Child of God, you will have the best of it soon! Even now you are the only ones that Christ deigns to call His Brothers and Sisters. You are the only people of whom it is written that you are a people dear to Him. You are the only people for whom Christ prayed, for He said, "I pray not for the world, but for those whom You have given Me out of the world, that they may be one." You are the people for whom all things work together for good. As many of you as have believed in the Lord Jesus and are resting upon Him for salvation, though your path may be rough and thorny, you are the only people who have God, Himself, to be your Captain, who have His fiery cloudy pillar to be your direction and who shall have the everlasting rest, the eternal portion! Be of good courage. Your riches in reversion are such that you can smile at poverty. Your rest which is yet to come is such that you may well despise the labor which makes you eat your bread in the sweat of your face. Your glory which is to come so excels that you may forget your poverty and your reproach. Your being with Christ will be so superlatively, Divinely blessed, that you may well, for awhile, bear to have a rough word or two from Him—
 
@@ -111,7 +108,7 @@ When it shall be so, when you are forever with the Lord, if you could be ashamed
 
 As for such as have never trusted Christ, it often makes my heart bleed when I talk of these things, to think that I cannot speak to them, that I cannot tell them that these comfortable things are theirs. Oh, unbeliever, you are an alien and a stranger to the privileges of heavenly citizenship! For you there is no blessedness, either now or hereafter! Why will you remain an unbeliever? Why will you continue to be careless and godless, Christless? I trust the Lord has designs of love to you. Leave your sins, for you must either leave them or be lost! Trust the Savior. Rely wholly upon His blood and righteousness, for there is no other righteousness that can ever help you. But if you cast your soul upon Him, it shall be well with you forever! God grant that we may all be found in the day of the appearing of our Lord Jesus Christ, as Brothers and Sisters who are in allegiance to Him. So may it be with you all. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATHEW 7:13-29; 15:1-12.
+## Exposition by C. H. Spurgeon: Mathew 7:13-29; 15:1-12
 
 Verse 13. Enter you in at the strait gate. It is very unpopular. The great ones will recommend to you great liberality and breadth. But enter yet in at the strait gate.
 
@@ -159,7 +156,7 @@ blew."
 
 28, 29. And it came to pass, when Jesus had ended these sayings, the people were astonished at His Doctrine. For He taught them as one having authority, and not as the scribes. He did not quote this learned Rabbi and that—or propose this theory to their thoughtful consideration—He spoke the Truth of God and left the Truth to work its way upon the minds of men, knowing that many would reject it, for it would be a savor of death unto death to them—but knowing, also, that some would receive it, whom He had ordained unto eternal life, to whom it would be a savor of life unto life. Let us copy our Divine Master's example and speak boldly as we ought to speak.
 
-MATTHEW 15:1-12.
+## Matthew 15:1-12
 
 Verses 1, 2. Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying, Why do Your disciples transgress the tradition of the elders? For they wash not their hands when they eat bread. A very amazing omission, certainly! But it seems to have struck them as a very great crime. "They wash not their hands when they eat bread"—as if the commands of God were not enough—men must overload us with their own commands, and sometimes the very people who would see us break God's commands without being at all distressed are dreadfully shocked if we do not keep theirs, showing clearly that they have a higher estimate of themselves than they have of God!
 
@@ -170,7 +167,6 @@ Verses 1, 2. Then came to Jesus scribes and Pharisees, which were of Jerusalem, 
 10, 11. And He called the multitude and said unto them, Hear, and understand. Not that which goes into the mouth defiles a man; but that which comes out of the mouth, this defiles a man. "And He called the multitude and said unto them—"Not that which goes into the mouth defiles a man"—not that which he eats and drinks, "but that which comes out of the mouth, this defiles a man." That is—what he says—that is the point.
 
 12\. Then came His disciples, and said unto Him, Know You that the Pharisees were offended, after they heard this saying?Some very kind friends are very jealous of the preacher lest he should offend anybody—and they will come in all tenderness of spirit and say, "Know you that the Pharisees were offended after they heard this saying?"
-
 
 ---
 [[Sermon 3378 God's Prison, Warden and Prisoner|← #3378]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3380 Our Lord's Voluntary Poverty|#3380 →]]

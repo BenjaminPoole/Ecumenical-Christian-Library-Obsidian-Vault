@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 6. Book Fourth
 
 ## BOOK FOURTH.177
@@ -849,7 +848,7 @@ Divers said the offer was good; but no man was found that would be the secretary
 
 In all that time the Earl of Moray was so fremmed241 to John Knox, that neither by word nor writing was there any communication betwixt them.
 
-THE END.
+## The End
 
 ---
 [[Knox History 5 Book Third|← 5. Book Third]] · [[Library/protestant reformers/John Knox/History of the Reformation in Scotland/history-index|Contents]] · [[Knox History 7 The Preface|7. The Preface →]]

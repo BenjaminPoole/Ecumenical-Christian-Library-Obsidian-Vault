@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 6
-
-**PSALM 6.**
 
 David, being afflicted by the hand of God, acknowledges that he had provoked the Divine wrath by his sins, and, therefore, in order to obtain relief, he prays for forgiveness. At the same time, he regrets, that by being taken out of the world, he would be deprived of an opportunity of praising God. Then, having obtained confidence, he celebrates the grace of God, and directs his discourse to his enemies, who triumphed over his calamities.
 

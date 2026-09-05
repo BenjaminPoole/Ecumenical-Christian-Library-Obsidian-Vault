@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Christian's Service and Honor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2651
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If anyone serves Me, him My Father will honor." John 12:26.
 
@@ -45,7 +42,7 @@ But if you have not served God in this way, today, you can serve God tomorrow in
 
 I cannot enlarge upon these points. You must think over them when you get home. You may serve God in the belief of His Doctrines, in suffering the dispensations of His Providence and in obeying all His Commandments, not forgetting the Commandment concerning Believers' Baptism. Now I come to the subject of my discourse, in our Savior's declaration—"If anyone serve Me, him My Father will honor," from which I learn that God will honor him in this world, in the future and intermediate state, at the Day of Judgment and throughout eternity!
 
-I. GOD THE FATHER WILL, EVEN IN THIS WORLD, HONOR THE MAN WHO SERVES THE SAVIOR!
+## I. God the Father Will, Even in This World, Honor the Man Who Serves the Savior!
 
 Some of you look at me with astonishment and are ready to say, "That is not true! God does not, as a rule, honor His servants in this world. It is a notorious fact that those who serve God best receive the most dishonor in this world, that those who are the most valiant for the Truth of God are called upon to endure the largest share of ignominy! Instead of the greatest honor, they have the most of the world's hisses, derision and scorn." Yes, I know that "the friendship of the world is enmity with God" and that if any man will be a friend of God, he will generally be an enemy to this world. But yet, for all that, the servants of Christ do receive respect and reverence even in this time-state.
 
@@ -63,7 +60,7 @@ Again, the most wicked men will honor the Christian when they come to die. I hav
 
 Once more, the Christian man is honored after he is dead. If you want to be thought well of and spoken of with high honor, you must die. All of us who are alive must be slandered and criticized. But when we have been a while in our graves, it may be that we shall, in our turn, be the masters! Many men are stars to the world now who were but glowworms when they were alive! While playing their part among men, they were run down, scoffed at and spoken of as everything that was bad. But they descended to the grave, a few years passed away and now, looked at from a distance, they bear a very different aspect to the general eye! Looking upon them now is like gazing at the sun—you see their brightness far more than their spots! The world misses the Christian when he is gone. Perhaps one member of a family is godly and the rest are not, and they say, "Oh, we don't care for him, he is too religious for us!" But they will feel a sad gap when he is gone—and one which they will not be able to fill. The neighborhood, too, in which he lived, will miss him because his words of kindness and deeds of mercy will be seen no more. They will say, "Well, after all, he was a good fellow." How often have I heard that, "Ah, well, he was not so bad, after all. There are not many left so good as he was." You don't know why this change has been worked in people's minds, but so it often is. Death embalms the poorest Believer and lays him in the sepulcher of the kings! He who was but a common Christian becomes a brilliant light when God hangs him up, like a lamp with a silver chain, to glitter from the skies!
 
-II. GOD WILL HONOR HIM IN THE INTERMEDIATE STATE.
+## II. God Will Honor Him in the Intermediate State
 
 When a Christian dies, his soul at once ascends to Heaven. Not so his body—that continues in the grave until the Resurrection morning and, sometimes, we are anxious to know what will be our lot while our souls are separated from our bodies. Let me say then, for a certainty, according to God's Word, that before our bodies rise, we shall be in Paradise, for Jesus said to the penitent thief, "Today shall you be with Me in Paradise." There is no "purgatory" into which souls are dragged in order to be prepared and made fit for Heaven! But although they go at once to the Heaven of God, and rest in His Presence, it is not the full consummation of their bliss. They will not be satisfied till they wake up in the likeness of Christ—when body and soul will be reunited.
 
@@ -103,7 +100,7 @@ I do think, poor Sinner, He would forgive you anything sooner than this wicked u
 
 But know, you Pharisees, that He came not to call the righteous! Sinners, only, Jesus came to save! And now, saints of God, let me urge you to despise the scorn and the contempt of men. Think of the glories you shall soon inherit and the honors that your soul and body shall receive at the Judgment Day. By filling our minds with thoughts of the glories of Heaven, the Word of God, the blessings that are eternal and full of glory, the love of Jesus and the mercies of Jehovah, we shall be graciously strengthened and enabled to conquer in the fight and keep the road to Heaven. In the strength of the Lord we cry, "Nil desperandum!" We still believe that Christ is our Shield, and Christ our Sun, and doubt not that we shall hear it said at the last, "Well done, good and faithful servant, enter you into the joy of your Lord."
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:9-27.
+## Exposition by C. H. Spurgeon: John 15:9-27
 
 This chapter contains some of the choicest of the utterances of the Lord Jesus to His disciples. On His way from the upper room in Jerusalem, where He had instituted the Supper, to the Garden of Gethsemane, where He was about to be betrayed, He spoke these wondrous words of cheer and counsel. He had been speaking to His followers concerning fruit-bearing. Now He turns to another subject.
 
@@ -122,7 +119,6 @@ Verse 9. As the Father has loved Me, so have I loved you: continue in My love. O
 16\. You have not chosen Me, but Ihave chosen you, and ordainedyou, thatyou shouldgo and bring forth fruit, and that your fruit should remain: that whatever you shall ask of the Father in My name He may give it to you. God's servants are all ordained. I sometimes hear remarks which remind me that there still lingers among as the superstition about ordained ministers. There is no ordination of a minister except the descent of the Spirit of God upon him, and the choice of the Church which calls him to his special sphere of work. All the saints are partakers of the Divine Ordination—they are all ordained to minister before the Lord. "I have chosen you and ordained you." For what purpose? "That you should go and bring forth fruit." Oh, that we may prove the reality of our ordination to this blessed work by bringing forth fruit—fruit that shall remain!
 
 17-27. These things I command you, that you love one another If the world hates you, you know that it hated Me before it hatedyou. Ifyou were of the world, the world wouldlove its own: but because you are not of the world, but I have chosen you out of the world, therefore the world hates you. Remember the words that I said to you, The servant is not greater than his lord. If they have persecuted Me, they will also persecute you; if they have kept My sayings, they will keep yours also. But all these things will they do unto you for My name's sake, because they know not Him that sent Me. If Ihad'not come and spoken onto them, they had not had sin: but now they have no cloak for their sin. He that hates Me hates My Father also. If Ihad'not done among them the works which none other man did, they had not had sin: but now they have both seen and hated both Me and My Father But this came to pass that the Word might be fulfilled that is written in their Law, They hated Me without a cause. But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of Truth, which proceeds from the Father, He shall testify of Me, and you also shall bear witness, because you have been with Me from the beginning.
-
 
 ---
 [[Sermon 2650 Characteristics of Christ's Disciples|← #2650]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2652 Seeing Christ's Day|#2652 →]]

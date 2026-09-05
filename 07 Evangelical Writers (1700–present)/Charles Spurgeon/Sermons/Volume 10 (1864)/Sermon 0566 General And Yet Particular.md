@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # General And Yet Particular
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 566
 
-DELIVERED ON SUNDAY MORNING, APRIL 24, 1864, BY THE REV. C, H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 24, 1864, by the Rev. C, H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "You have given Him power o ver all flesh, that He should give eternal life to as many as You have given Him." John 17:2.
 
@@ -121,7 +120,7 @@ If any can find better conversions under Heaven let them find them! I am satisfi
 
 V. OUR PRINCIPLE EXPLAINS MANY SCRIPTURES and this goes very much in its favor. I like to read my Bible so as never to have to blink when I approach a text. I like to have a theology which enables me to read it right through from beginning to end and to say, "I am as pleased with that text as I am with the other." You know, Brothers and Sisters, you must be conscious of it, that there are many texts of Scripture which look wonderfully like universal redemption. Wonderfully like it and if they do not intend some sort of generality, they certainly speak in a very singular manner.
 
-Such a text as this, "He is the Propitiation for our sins: and not for ours only, but for the sins of the whole world." "Who gave Himself a ransom for all to be testified in due time." I might mention more of these—but if you get with an Arminian brother he will have them all at his fingertips, so you will spare me the trouble. These people are always dwell- ing upon these, and think they have quite upset the doctrine of particular redemption though that is as plain in Scripture as the nose upon a man's face! We know Scripture says, "He has laid down His life for the sheep." He has redeemed us from among men. "Christ loved the Church and gave Himself for it." And you know that passage—"Husbands love your wives even as Christ also loved the Church and gave Himself for it."
+Such a text as this, "He is the Propitiation for our sins: and not for ours only, but for the sins of the whole world." "Who gave Himself a ransom for all to be testified in due time." I might mention more of these—but if you get with an Arminian brother he will have them all at his fingertips, so you will spare me the trouble. These people are always dwell-ing upon these, and think they have quite upset the doctrine of particular redemption though that is as plain in Scripture as the nose upon a man's face! We know Scripture says, "He has laid down His life for the sheep." He has redeemed us from among men. "Christ loved the Church and gave Himself for it." And you know that passage—"Husbands love your wives even as Christ also loved the Church and gave Himself for it."
 
 How did He love the Church? He loved the Church with a special love, far above that which He gives to others, or else according to that metaphor a husband ought to love his wife, and love every other woman just as much! That is the natural inference of that text. But you clearly see there must have been a special love intended in the husband towards the wife and so there must be a special love in Christ. He loved the Church and gave Himself for it.
 
@@ -154,7 +153,6 @@ So then, I say to you individually, talk about Christ everywhere—preach Jesus 
 But take the general command and the universal power of Christ over all flesh as the sword with which you fight and the staff upon which you lean. It is for this end that I ask you, dear Friends, to contribute as you shall see fit, to the spreading of the Gospel in foreign lands by the Missionary Society. I do not believe it is a perfect organization—I believe it is full of faults. I believe, however, it is the only way in which we can send the Gospel to the heathen just now.
 
 We will have a better plan by-and-by, I hope, but meanwhile—as this is the only one—let us use it with vigor, for, after all, it is not the instrumentality, but God. And if I have to look upon this as an ox-goad—an unfit tool to strike the Philistines, yet as I have not a better I will use it till a better shall be found! Meanwhile let us pray the Lord to speed His own cause and gather out His chosen by His Grace. Amen.
-
 
 ---
 [[Sermon 0565 The Great Liberator|← #565]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0567 Labor In Vain|#567 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Job Among the Ashes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2009
 
-DELIVERED ON LORD'S DAY MORNING, FEBRUARY 19, 1888,.
+*Delivered on Lord's Day Morning, February 19, 1888*
 
 > "I have heard of You by the hearing of the ear: but now my eye sees You. Wherefore I abhor myself and repent in dust and ashes." Job 42:5, 6.
 
@@ -156,7 +155,6 @@ Then I will find myself rejoicing in Christ Jesus, crowned with a crown which I 
 "Jesus, Your blood and righteousness My beauty are, my glorious dress; Midst flaming worlds, in these arrayed,
 
 With joy shall Ilift up my head"!
-
 
 ---
 [[Sermon 2008 The Lord And The Leper|← #2008]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2010 The Word a Sword|#2010 →]]

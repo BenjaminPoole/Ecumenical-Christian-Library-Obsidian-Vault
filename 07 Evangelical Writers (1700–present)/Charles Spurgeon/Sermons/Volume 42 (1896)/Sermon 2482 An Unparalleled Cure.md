@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # An Unparalleled Cure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2482
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As they went out, behold, they brought to Him a dumb man possessed with a devil. And when the devil was cast out, the mute spoke: and the multitudes marveled, saying, It was never seen like this in Israel" Matthew 9:32,33.
 
@@ -125,7 +122,7 @@ Who, who shall stop His hand?" Almighty Grace can cast Satan out and keep him ou
 
 There is life at this moment for you."
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 9.
+## Exposition by C. H. Spurgeon: Matthew 9
 
 Verse 1. And He entered into a ship and passed over, and came into His own city. Our Lord had given these Gerge-senes an opportunity of becoming His disciples. The Kingdom of God had come very near to them, but as they accounted themselves unworthy of it and urged Him to depart out of their coasts, He did not force Himself upon them. Take heed, dear Friends, if you do but hear the Gospel, once, that you do not reject it, for you may never have the opportunity of hearing it again!
 
@@ -170,7 +167,6 @@ Verse 1. And He entered into a ship and passed over, and came into His own city.
 35\. And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the Gospel of the Kingdom, and healing every sickness and every disease among the people. That is the best answer to give to quibblers— do more good than ever! There is no stopping the barking of dogs, so go on your way, as the moon shines, let the hounds bay as they may. Oh, the glory of the Master! Like a cloud that dispenses showers of blessing wherever it moves, so did He continue to do His life-work.
 
 36-38. But when He saw the multitudes, He was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd. Then said He to His disciples, The harvest truly is plenteous, but the laborers are few; pray you, therefore, to the Lord of the harvest, that He will send forth laborers into His harvest. Or, "that He will thrust forth laborers into His harvest." He who does the most is always the one who needs to see more done. This blessed Christ, with His hands so full of holy work, is the One who bows His knee and cries to the great Lord of the harvest to thrust forth laborers into His harvest. Let us imitate Him both in the working and in the praying!
-
 
 ---
 [[Sermon 2481 Faith Victorious|← #2481]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2483 The Objective of Christ's Death|#2483 →]]

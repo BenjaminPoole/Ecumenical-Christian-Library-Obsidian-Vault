@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Jesus At A Standstill
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1587
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 6, 1881,.
+*Delivered on Lord's-Day Morning, March 6, 1881*
 
 > "And Jesus stood still." Mark 10:49.
 
@@ -196,7 +195,6 @@ Those of us on whom the Savior has worked a good work would speak well of Him fo
 I see, this morning, before my mind's eye, Jesus standing before Jericho like a second Joshua. As you all know, the names, Jesus, and Joshua, are the same. Joshua crossed the Jordan and he stood with his sword drawn to capture Jericho and commence his march through Canaan, conquering and to conquer. Look, here is Jesus and He must make captives in Jericho before He advances further into the land! The city of palm trees must yield Him followers before the palms of victory are cast at His feet! He enters into Jericho, not to lay its walls flat to the ground, nor to slay its inhabitants, but to open eyes that have long been closed and bless poor creatures who have pined in poverty! This is the first fruit of His warfare—the commencement of a career which shall end at Jerusalem where He shall smite the Prince of Darkness and win the victory for all mankind!
 
 Even now I may say of Jesus Christ which was said of the son of Nun—"So the Lord was with Joshua and his fame was told abroad throughout all the country." I wish the Lord Jesus Christ this morning would make this place as the gate of Jericho and begin, on this spot, a great revival of religion throughout the whole land by opening the eyes of some that are blind! Let the prayer go up from many a heart, "Lord, open my eyes," and He will do it! And let that request be followed by another, "Lord, save millions," and He will hear us! Let us pray boldly and believingly in the name of Jesus! Hear us, O Lord! Amen.
-
 
 ---
 [[Sermon 1586 Holy Longings|← #1586]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1588 The Believer's Death Day Better Than His Birthday|#1588 →]]

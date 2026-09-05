@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Fallen Angels a Lesson To Fallen Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1820
@@ -93,9 +92,9 @@ God bless you, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 17.
 
-HYMNS FROM OUR OWN HYMN BOOK—261, 668, 869.
+## Hymns from Our Own Hymn Book—261, 668, 869
 
-TO MY CONGREGATION OF HEARERS AND READERS.
+## To My Congregation of Hearers and Readers
 
 By the great mercy of God I was permitted to leave my house on Tuesday and commence my journey to the South of France. It seemed impossible for me to recover while in our trying climate, and so, in great weakness, I have ventured to make a move. I beg your prayers for my recovery, and especially for the sanctification of my grievous pains, so that they may turn out to be for God's glory. Week by week I shall carefully prepare these Sermons, and I hope they will be attended with the divine blessing. In them I hope to keep up my communion with thousands of dear friends, though we are divided by many a league.
 
@@ -104,7 +103,6 @@ Friends at the Tabernacle, I have heard of one enthusiastic friend who so misses
 With Christian love to my dear hearers and readers,
 
 I am yours, for I am Christ's, C. H. SPURGEON.
-
 
 ---
 [[Sermon 1819 A Sweet Silver Bell Ringing in Each Believer's Heart|← #1819]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1821 Cords and Cart-Ropes|#1821 →]]

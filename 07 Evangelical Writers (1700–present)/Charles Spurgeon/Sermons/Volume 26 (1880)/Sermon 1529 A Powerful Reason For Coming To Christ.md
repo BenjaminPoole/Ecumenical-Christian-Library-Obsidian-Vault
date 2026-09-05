@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # A Powerful Reason For Coming To Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1529
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 21, 1880,.
+*Delivered on Lord's-Day Morning, March 21, 1880*
 
 > "A great multitude, when they had heard what great things He did, came unto Him." Mark 3:8.
 
@@ -148,7 +147,6 @@ Alas, I seem as if I wrote on the sand with some of you! The week's tide obliter
 I read the other day of an old minister who had been some 20 years without a conversion, as far as he knew and yet he was a really earnest man. At last, having much prayed over it, he announced that he should preach no more in that place, but resign his charge and the reason he gave them with many tears was, "I am doing no good among you. There are no souls saved and perhaps if another minister filled my place you might listen to his appeals. At any rate, I will not stand in the way of one who might be more useful and so I bid you farewell." As he went out an old woman named Sarah said, "O, Sir, you cannot go, for you were the means of leading me to Christ some three or four years ago." "You," he said, "Sarah, I thought you were one who did not care for my ministry." "Oh, Sir," she said, "it has been my meat and my drink." "Woman," he said, "why did you not tell me as much before? My heart has been breaking for you." In the course of the week 20 or 30 came in to testify that they had sought and found the Savior through his ministry. All he could do was to say, "Bless the Lord, I'll not leave my post. But why did you not tell me of it before? O the sleepless nights I might have missed if you had but told me."
 
 Some of you may have been saved and yet you have never confessed the blessed fact! I ask you, whether you do well and kindly by His servant thus to rob him of his wages and keep back comforting news from his burdened heart! However, that may pass. You who have not sought and have not found my Lord—what message shall I take home, this morning, to my Master when I go upstairs to speak with Him alone? Shall I tell Him you will not believe on Him? I set Him before you once again as able to save you—will you again refuse Him? Or shall the message be that you will trust in Him for salvation? God grant that you may give a wise reply for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1528 They Were Tempted|← #1528]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1530 Following the Risen Christ|#1530 →]]

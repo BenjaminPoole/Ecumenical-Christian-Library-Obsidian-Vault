@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 3. A Confutation of Unwritten Verities, Part 2
 
 The same, in the Psal. 118. "The word of God is the lively meat of our souls, with the which it is nourished, fed, and governed : neither is there any thing else that maketh a reasonable soul to live but the word of God8."
@@ -35,7 +34,7 @@ tura. In cujus scriptura? In populorum. Non sufficit in populorum, sed etiam pri
 
 [9 This passage is omitted in ed. 1582.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 it appoarcth to be a transgression of the commandment : for there ought nothing to be added, although it seem good10."
 
@@ -113,7 +112,7 @@ I4 On Moses scat, Orig. ed.]
 
 [7 The reference in the text appears to be er roneous.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 how many the more every man findeth, so much the more is he apt in his understanding. fi°od m»nIn these, therefore, which are evidently contained in the scripture, are found all things, [»Jn«d in the which contain faith, manners of living, hope, and love8."
 
@@ -163,7 +162,7 @@ The same to Jerome. "I have learned to give this reverence and honour to those o
 
 [2 Ubi autem apertius ponuntur, ibi discendum est quomodo in locis intelligantur obscuris. Neque enim melius potest intelligi quod dictum est de Deo. Id. Lib. in. cap. xxvi. ibid. p. 25.]
 
-[3 The reference is erroneous ; the passage is as follows : — Quod genus literarum non cum credendi necessitate, sed cum judicandi libertate legendum est. Ibi si quid velut absurdum moverit, non licet dicere, author hujus libri non tenuit veritatem : sed, aut codex mendosus est, aut interpres erravit, aut tu non intelligis. In opusculis autem posteriorum, quae libris innumerabilibus continentur, sed nullo modo illi sacratissimae canonicorum scripturarum excellentia? coa:quantur, etiam in quibuscunque eorum invenitur eadem veritas, longe tamen est im- par authoritas : itaque in eis, si quae forte propterea dissonare putantur a vero, quia non ut dicta sunt intelliguntur, tamen libeium ibi habet lector auditorve judicium, quo vel approbet quod placuerit, vel improbet quod offenderit: et ideo cuncta ejusmodi nisi vel certa ratione, vel ex ilia canonica authoritate defendantur, ut demonstretur sive omnino ita esse, sive fieri potuisse, quod vel disputatum ibi est, vel narratum : si cui displicuerit, aut credere noluerit, non reprehenditur. Id. Contra Faustum, Lib. xi. cap. v. Tom. VI. pp. 104, 5.J
+[3 The reference is erroneous ; the passage is as follows : — Quod genus literarum non cum credendi necessitate, sed cum judicandi libertate legendum est. Ibi si quid velut absurdum moverit, non licet dicere, author hujus libri non tenuit veritatem : sed, aut codex mendosus est, aut interpres erravit, aut tu non intelligis. In opusculis autem posteriorum, quae libris innumerabilibus continentur, sed nullo modo illi sacratissimae canonicorum scripturarum excellentia? coa:quantur, etiam in quibuscunque eorum invenitur eadem veritas, longe tamen est im-par authoritas : itaque in eis, si quae forte propterea dissonare putantur a vero, quia non ut dicta sunt intelliguntur, tamen libeium ibi habet lector auditorve judicium, quo vel approbet quod placuerit, vel improbet quod offenderit: et ideo cuncta ejusmodi nisi vel certa ratione, vel ex ilia canonica authoritate defendantur, ut demonstretur sive omnino ita esse, sive fieri potuisse, quod vel disputatum ibi est, vel narratum : si cui displicuerit, aut credere noluerit, non reprehenditur. Id. Contra Faustum, Lib. xi. cap. v. Tom. VI. pp. 104, 5.J
 
 [4 Noli ergo frater contra divina tain multa, tain clara, tarn indubitata testimonia colligere velle calumnias ex episcoporum scriptis, sive nostrorum, sicut Hilarii, sive antequam pars Donati separaretur, ipsius unitatis, sicut Cypriani, et Agrippini : primo, quia hoc genus literarum ab authoritate canonis distinguendum est. Non enim sic leguntur, tanquam ita ex eis testimonium proferatur, ut contra sentire non liceat, sicubi forte aliter sapuerint quam veritas postulat. Id. Vincentio contra Donatistas, Tom. II. p. 70.]
 
@@ -171,7 +170,7 @@ The same to Jerome. "I have learned to give this reverence and honour to those o
 
 [6 Ego enim fateor caritati tua?, solis eis scrip turarum libris, qui jam canonici appellantur, didici hunc timorem honoremquc deferre, utnullum eorum
 
-OF UNAVRITTEN VERITIES.
+## Of Unavritten Verities
 
 Tho same against Cresconlum^ a grammarian, lib. ii. cap. 32. "I am not bound AH men's to his authority. For I do not account Cyprian's writings as canonical, but weigh them ouSulo be by the canonical scriptures ; and that in them which agreeth with the canonical scripthecanoni«i tures, I allow to his praise; but that that agreeth not, by his favour I refuse7."
 
@@ -179,7 +178,7 @@ The same to Vincent Victor. " I cannot, nor ought not to deny, that like as in m
 
 The same, in the Prologue of his book of the Trinity. "Be not bound to my Believe not writings, as to the canonical scriptures : but if thou find any thing in them, which thou exceptthou diddest not believe, straightway believe it ; in these that thou art not sure of, except thou themrby°the certainly understand it, believe it not certainly9."
 
-The same to Fortunate, Epist. 198. "Neither ought we to allow the reasonings of We ought any men, whatsoever they be, (although they be catholic and laudable men,) as the man's writ- ings further canonical scriptures; so that it shall not be lawful for us, saving the reverence that is due than they to those men, to reprove and refuse any thing in their writings, if it chance that they the scriphave judged otherwise than truth is; the same truth, by God's help, being understand may refuse either of other men, or of us. For I am even such an one in other men's writings as I pleasures, would men should be in mine10."
+The same to Fortunate, Epist. 198. "Neither ought we to allow the reasonings of We ought any men, whatsoever they be, (although they be catholic and laudable men,) as the man's writ-ings further canonical scriptures; so that it shall not be lawful for us, saving the reverence that is due than they to those men, to reprove and refuse any thing in their writings, if it chance that they the scriphave judged otherwise than truth is; the same truth, by God's help, being understand may refuse either of other men, or of us. For I am even such an one in other men's writings as I pleasures, would men should be in mine10."
 
 The same, in the same place. " Let us seek no further than is written of God our Saviour, lest a man would know more than the scriptures witness11." 33.
 
@@ -233,7 +232,7 @@ quam ad dogmata putarunt sufficere ; ut recta fide et operibus ac virtute rutila
 
 [6 Vere sacra? literac possunt te instruere ad sa lutem : quia omnis scriptura inspirata divinitus, i. spiritualiter secundum Deum intellecta, utilis est ad docendum eos qui nesciunt ; et ad arguendum, i. ad convincendum eos qui fidei contradicunt ; et ad corripiendum peccantes, et se peccasse non abne-
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 Beda, in the 1st Epistle of Peter, chap. v. " If any man speak, let him speak as the if any man words of God." " Fearing lest he say or command any thing besides the will of God, or S speak besides that which is manifestly commanded in the holy scriptures, and be found as STSwKrf a false witness of God, or a committer of sacrilege, or a bringer in of any strange thing he w from the Lord's doctrine, or else leave out or pass over any thing that pleaseth God ; th seeing that Christ most plainly commandeth the preachers of the truth concerning them ed*e £ whom they had taught, saying, ' Teach them to keep all things that I have com manded you;' yea, even the same which he had commanded, and none other; and he commanded his preachers to command their hearers to keep, not some of these, but all7."
 
@@ -265,7 +264,7 @@ Councils are not of such authority that whatso ever they de cree must be holden 
 
 The scripture must try all.
 
-THE THIRD CHAPTER.
+## The Third Chapter
 
 That the General Councils, without the Word of God, are not sufficient to make articles of our faith.
 
@@ -285,21 +284,21 @@ Gerson. "We ought rather believe the saying of any teacher, armed with the canon
 
 [3 "E^oj (lev OUTCOS, ct eel TaXrjOes ypdcfieiv, alcTTe TrdvTa av\Xoyov (peuyeiv eiriffKuTrcov, OTI ds GVVO&OV TeXos clcov )(/o?j(rToi', /ur;(5e \vcriv /xaXXoi/ eir^Jj/cuias )] TrpocrQi')Ki]v' del yap «/nXoj/ciKtat »cal (j)i\np^iai. Greg. Nazianz. Epist. cxxx. Procopio. Tom. II. p. 110. Ed. Paris. 1840.]
 
-[4 Et ipsa concilia, quae per singulas regiones vel provincias fiunt, plenariorum conciliorum auctoritati, quse fiunt ex universo orbe Christiano, sine ullis ambagibus cedere ; ipsaque plenaria sa?pe priora posterioribus emendari, cum aliquo experiir.ento rerum aperitur quod clausum erat. Angus- tin, de Bapt. cont. Donat. Lib. n. cap. iii. Tom. VI I. p. 42. Ed. Paris. 1G35.]
+[4 Et ipsa concilia, quae per singulas regiones vel provincias fiunt, plenariorum conciliorum auctoritati, quse fiunt ex universo orbe Christiano, sine ullis ambagibus cedere ; ipsaque plenaria sa?pe priora posterioribus emendari, cum aliquo experiir.ento rerum aperitur quod clausum erat. Angus-tin, de Bapt. cont. Donat. Lib. n. cap. iii. Tom. VI I. p. 42. Ed. Paris. 1G35.]
 
 [5 Sed nunc nee ego Nicacnum, nee tu debes Arimenense, tanquam pnEJudicaturus proferre con cilium. Nee ego hujus auctoritate, nee tu illius detineris : scripturarum auctoritatibus, non quorumque propriis, sed utrisque communibus testibus, res cum re, causa cum causa, ratio cum ratione concertet. Id. Contra Maxim. Arrian. Epis. Lib. in. cap. xiv. Tom. VI. p. 306.]
 
 [6 Jungatur huic consideration! cum sua declaratione duplex veritas. Prima, staret quod aliquis simplex non auctorisatus, esset tarn excellenter in sacris litteris eruditus, quod plus esset credendum in casu doctrinaii suae assertioni, quam papae decla ration!; constat enim plus esse credendum evangelio quam papa? : si doceat igitur talis eruditus veritatem aliquam in evangelio contineri, ubi et papa nesciret, vel ultro erraret; patet cujus praaferendum sit juclicium. Altera veritas, talis eruditus deberet in casu, si et dum celebraretur generale concilium, cui et ipse pracsens esset, illi se opponere, si sentiret majorem partem ad oppositum evangelii malitia vel ignorantia declinare. Gerson. De Exam. Doctr. Pars i. Consid. v. Tom. I. col. ii. Ed. Antverp. 1706.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 The same. " More credit is to be given to a man that is singularly learned in 37. the scripture, bringing forth catholic authority, than to the general council7."
 
-Panormitan, in cap. " Significasti." "A simple layman, bringing forth the scriptures, is to be believed rather than a whole council. For a council may err, as it hath aforecouncils may- times erred8:" as did the council of Melchidense and Aquisgranum, of contracting ofofuimcs- matrimony. The council of Constance, among other articles of John Hus and Hierome of Prague unjustly condemned, condemned also this article for heresy : That the two natures, that is, the divine9 and humanity, be one Christ; which is a necessary article of our faith, expressed in the Creed of Athanasius, called Quicunque vult; where it is read, ' The right faith is, that we believe and confess that our Lord Jesus Christ. J;';"1^ the Son of God, is God and man:' and a little after, 'Like as the reasonable soul and the flesh is one man, so God and man is one Christ.' The same is also decreed by the council of Nice and divers other catholic councils, and it is the doctrine of the church at this time. Finally, it may be proved by the express word of God : and yet these malicious clergy were not ashamed to condemn the same for an heresy.
+Panormitan, in cap. " Significasti." "A simple layman, bringing forth the scriptures, is to be believed rather than a whole council. For a council may err, as it hath aforecouncils may-times erred8:" as did the council of Melchidense and Aquisgranum, of contracting ofofuimcs- matrimony. The council of Constance, among other articles of John Hus and Hierome of Prague unjustly condemned, condemned also this article for heresy : That the two natures, that is, the divine9 and humanity, be one Christ; which is a necessary article of our faith, expressed in the Creed of Athanasius, called Quicunque vult; where it is read, ' The right faith is, that we believe and confess that our Lord Jesus Christ. J;';"1^ the Son of God, is God and man:' and a little after, 'Like as the reasonable soul and the flesh is one man, so God and man is one Christ.' The same is also decreed by the council of Nice and divers other catholic councils, and it is the doctrine of the church at this time. Finally, it may be proved by the express word of God : and yet these malicious clergy were not ashamed to condemn the same for an heresy.
 
 H Note here, gentle reader, unto what shameless and detestable heresies their popish, yea, antichristian general councils have Mien, of the which they boast so much that they cannot err, and whereupon chiefly they build all their errors and heresies. Moreover, the most part of the good laws and canons be in manner altogether abrogated, and nowhere kept : part whereof I shall express.
 
-CANONS OF THE APOSTLES AND COUNCILS NOT KEPT NOR USED. W.
+## Canons of the Apostles and Councils Not Kept nor Used. W
 
 " Let not a bishop, priest, or deacon, by any means put away his own wife under Camm :i. pretence of religion : but if he do, let him be excommunicated ; and if he so continue, let him be deposed10."
 
@@ -361,7 +360,7 @@ TOU TTUVTO. iv TTaV?? TTapoiKio. 6/xoiws rtuT Be
 
 Krj yovv K\iijfupatv, vjrep oe TT ya a-vvou) T«S eu^as Id. Can. xx. Ib. Tom. II. col.
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 Ibidem. Canon 7-
 
@@ -411,7 +410,7 @@ IT But the third council of Carthage added to these the books of Wisdom, Ecclesi
 
 iiatt. xxiii. pane lucrando, that is, for their dignities, immunities, or liberties and profits. Where fore the words of our Saviour Christ may be rightly verified of them : " They lay heavy and importable burthens on other men's shoulders, but will not once move them with their finger." For all their laws bo but nets to take and kill the poor fishes, and to fill their own paunches.
 
-THE FOURTH CHAPTER.
+## The Fourth Chapter
 
 1 Kings xxii,
 
@@ -491,15 +490,15 @@ Stapulensis, upon the 2nd Epistle to the Thessalonians, chap. ii. " Marvel not o
 
 Valent, leaving very Christ, worshipped Christ's enemy, and, instead of the truth, a counterfeit antichrist and Satan2."
 
-f1 Hi, ut dico, spiritus contaminati ac perditi per omnem terrain vagantur ; et solatium perditionis suae perdendis hominibus operantur. Itaque omnia insidiis, fraudibus, dolis, erroribus complent — qui quoniam sunt spiritus tenues, et incomprehensibiles, insinuant se corporibus hominum ; et occulte in visceribus operti valetudinem vitiant, morbos citant ; somniis animos terrent ; mentes furoribus quatiunt ; ut homines his malis cogant ad eorum auxilia decurrere. Quarum omnium fallaciarum ratio expertibus veritatis obscura est. Prodesse enim eos putant, cum nocere desinunt ; qui nihil aliud possunt quam nocere. — Illi autem, qui desciverunt a Dei ministerio, quia sunt veritatis inimici, et prsevaricatores Dei, nomen sibi et cultum deorum vendicare conantur: non quod ullum honorem desiderent, (quis enim honor perditis est?) nee ut Deo noceant, cui noceri non potest ; sed ut hominibus, quos nituntur a cultura et notitia vera? majestatis avertere, ne immortalitatem adipisci possint, quam ipsi sua nequitia perdiderunt. Offundunt itaque tenebras, et veritatem caligine obducunt ; ne Dominum, ne patrem suum norint. Et ut illiciant, facile in templis se occulunt, et sacrih'ciis omnibus praesto adsunt ; eduntque saepe prodigia, quibus obstupefacti homines, fidem commodent simulachris divinitatis ac numinis. Inde est, quod ab augure lapis novacula incisus est; et quod Juno Veiensis migrare se Romam velle respondit ; quod Claudiae manum navis secuta est ; quod in sacrileges et Juno nudata, et Locrensis Proserpina, et Ceres Milesia vindicavit; et Hercules de Appio, et Jupiter de Atinio, et Minerva de Caesare. Hinc, quod serpens urbem Romam pestilentia liberavit Epidauro accersitus. In oraculis autem vel maxime fallunt, quorum prjestigias profani a veritate intelligere non possunt: ideoque ab illis attribui putant et imperia, et victorias, et opes, et eventus prosperos rerum ; denique ipsorum nutu saspe rempublicam periculis imminentibus liberatam : qua? pericula et responsis denuntiaverunt, et sacrih'ciis placati averterunt. Sed omnia ista fallaciae sunt. Nam cum dispositiones Dei praesentiant, quippe qui ministri ejus fuerunt, interponunt se in his rebus ; ut quaecunque a Deo vel facta sunt, vel fiunt, ipsi potissimum facere aut fecisse vide- antur. Et quoties alicui populo vel urbi secundum Dei statum boni quid impendet ; illi se id facturos vel prodigiis, vel somniis, vel oraculis pollicentur ; si sibi templa, si honores, si sacriHcia tribuantur. Quibus datis, cum illud accident, quod necesse est, summam sibi pariunt venerationem. Hinc templa devoventur, et novae imagines consecrantur. — Quoties autem pericula impendent ; ob aliquam se ineptam et levem causam profitentur iratos ; sicut Juno Varroni. — Sed illorum sunt isti lusus ; qui sub nominibus mortuorum delitescentes, viventibus plagas tendunt. Itaque sive illud periculum, quod imminet, vitari potest, videri volunt id placati avertisse ; sive non potest, id agunt ut propter illorum contemptum accidisse videatur. Ita sibi apud homines, qui eos nesciunt, auctoritatem ac timorem pariunt
+f1 Hi, ut dico, spiritus contaminati ac perditi per omnem terrain vagantur ; et solatium perditionis suae perdendis hominibus operantur. Itaque omnia insidiis, fraudibus, dolis, erroribus complent — qui quoniam sunt spiritus tenues, et incomprehensibiles, insinuant se corporibus hominum ; et occulte in visceribus operti valetudinem vitiant, morbos citant ; somniis animos terrent ; mentes furoribus quatiunt ; ut homines his malis cogant ad eorum auxilia decurrere. Quarum omnium fallaciarum ratio expertibus veritatis obscura est. Prodesse enim eos putant, cum nocere desinunt ; qui nihil aliud possunt quam nocere. — Illi autem, qui desciverunt a Dei ministerio, quia sunt veritatis inimici, et prsevaricatores Dei, nomen sibi et cultum deorum vendicare conantur: non quod ullum honorem desiderent, (quis enim honor perditis est?) nee ut Deo noceant, cui noceri non potest ; sed ut hominibus, quos nituntur a cultura et notitia vera? majestatis avertere, ne immortalitatem adipisci possint, quam ipsi sua nequitia perdiderunt. Offundunt itaque tenebras, et veritatem caligine obducunt ; ne Dominum, ne patrem suum norint. Et ut illiciant, facile in templis se occulunt, et sacrih'ciis omnibus praesto adsunt ; eduntque saepe prodigia, quibus obstupefacti homines, fidem commodent simulachris divinitatis ac numinis. Inde est, quod ab augure lapis novacula incisus est; et quod Juno Veiensis migrare se Romam velle respondit ; quod Claudiae manum navis secuta est ; quod in sacrileges et Juno nudata, et Locrensis Proserpina, et Ceres Milesia vindicavit; et Hercules de Appio, et Jupiter de Atinio, et Minerva de Caesare. Hinc, quod serpens urbem Romam pestilentia liberavit Epidauro accersitus. In oraculis autem vel maxime fallunt, quorum prjestigias profani a veritate intelligere non possunt: ideoque ab illis attribui putant et imperia, et victorias, et opes, et eventus prosperos rerum ; denique ipsorum nutu saspe rempublicam periculis imminentibus liberatam : qua? pericula et responsis denuntiaverunt, et sacrih'ciis placati averterunt. Sed omnia ista fallaciae sunt. Nam cum dispositiones Dei praesentiant, quippe qui ministri ejus fuerunt, interponunt se in his rebus ; ut quaecunque a Deo vel facta sunt, vel fiunt, ipsi potissimum facere aut fecisse videantur. Et quoties alicui populo vel urbi secundum Dei statum boni quid impendet ; illi se id facturos vel prodigiis, vel somniis, vel oraculis pollicentur ; si sibi templa, si honores, si sacriHcia tribuantur. Quibus datis, cum illud accident, quod necesse est, summam sibi pariunt venerationem. Hinc templa devoventur, et novae imagines consecrantur. — Quoties autem pericula impendent ; ob aliquam se ineptam et levem causam profitentur iratos ; sicut Juno Varroni. — Sed illorum sunt isti lusus ; qui sub nominibus mortuorum delitescentes, viventibus plagas tendunt. Itaque sive illud periculum, quod imminet, vitari potest, videri volunt id placati avertisse ; sive non potest, id agunt ut propter illorum contemptum accidisse videatur. Ita sibi apud homines, qui eos nesciunt, auctoritatem ac timorem pariunt
 
 Dicet aliquis, Cur ergo Deus haec fieri patitur ? nee tarn malis succurrit erroribus ? Ut mala cum bonis pugnent ; ut vitia sint adversa virtutibus ; ut habeat alios quos puniat, alios quos honoret. Lactant. Lib. ii. capp. 14, 15, 16, 17. pp. 138—143. Ed. Lugd. Batav. 1652.]
 
 [2 Non etiam mireris de h'ctitiis angelis et de simulate astutia Satanae Christo, cum Valentini monacho ex historia Heraclidis simile accidisse agnoscatur. Daemon (inquit) in effigiem salvatoris transfiguratus, nocte ad eum venit cum choro quodam mille (ut rinxerat) angelorum, lampadas accensas tenentium, et cum flammea rota, in qua salvatorem sedere simulaverat, praecedente uno ex ipsis, eique ista dicente : Egredere igitur e cella tua nihilque aliud facias, nisi ut venientem eminus cernens, inclinans te, adorare festines, sic deinceps ad proprium habitaculum reversurus. Egressus igitur e cella sua, credensque se cernere divina mysterii ccelestis officia, cunctaque lampadum fulgore rutilantia, et ipsum Christum non ultra unius spacium stadii constitutum, protinus pronus in terra, et eum quern crederet dominum adoravit. Haec Heraclides. Ecce quomodo, relicto vero Christo, timidus et insipiens Valens Christi adoravit adversarium, et pro veritate simulatum phantasma et ementitum simulachrum. J. Fabri Stapulens. Com ment, in Epist. Pauli ; in 2 Epist. Thess. cap. ii. fol. civ. Ed. Paris. 1531.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
-THE FIFTH CHAPTER.
+## The Fifth Chapter
 
 That apparitions of the dead be unsufficient to prone truth.
 
@@ -527,17 +526,17 @@ It is not the soul of the dead that saith, 1 am such a man's boul, but the devil
 
 The same, in Matth. cap. viii. Homily ii. 9. " I will not deny but that men have been killed of cursed charmers and sorcerers : but that dead men's souls work with them, how shall they make me believe that ? Because thou hast heard dead men's souls many times cry, ' I am the soul of such a one.' Yea, but these words proceed out of the fraud and deceit of the devil. For it is not the dead man's soul that saith this, but the devil that feigneth this, that he may deceive the hearers. For these ought to be taken as old wives' fables, the words of liars, and fraybugs of children : neither can the soul, being departed from the body, walk in this earth. For the souls of the righteous are in the hand of God, and the souls of sinners are straight after their death carried away. Which is manifest by Lazarus and the rich man. The Lord saith also in another place : 4 This day shall they fetch away thy soul.' The soul therefore, after it be departed from the body, cannot wander here amongst us. It may be proved by many scriptures, that the souls of the righteous cannot wander here after their death. For Stephen said, " Lord, receive my spirit." And Paul desired to be 'loosed from the body, and to be with Christ.' Of the patriarchs also the scripture saith, ' He was laid up with his fathers, he died in a good age.' And that the souls of sinners cannot tarry here with us, hearken to the rich man, what he saith : consider what he asketh, and obtaineth not. But if men's souls might be conversant here, he would have come as he desired, and have certified his brethren of the tor ments in hell. Of the which place of scripture it is manifest, that after the depar ture from the body the souls are carried into a certain place, from whence they cannot return at their pleasure, but look for that terrible day of judgment1."
 
-Hierome in the 8. cap. of Jeremy [Isaiah]. " If you doubt of any thing (saith the prophet) know that it is written, that those nations, which the Lord shall scatter before thy face, shall hearken to dreams and soothsayers. But the Lord thy God hath com manded thee not so to do : but if you will know things that be doubtful, give your selves rather to the testimonies of the law and the scriptures. But if your congre gation will not search the word of the Lord, they shall not have the light of the truth, but shall wander in darkness of errors. You ought to know this, that every nation asketh counsel at their own gods, and inquireth of the dead for the health of the quick : but God hath given you the law for your help ; so that you may say, opvTTearQai, ceiKvuvai ird\iv cos e/c vexpwv dvao-TaWes, /cat Si eKciviav ova eflovXeTO TritrT Tals TWV aTraTtOjUeVeof (5iai/oi'ai9. el yap vvv, OJ/TOS TOIOVTOV, oveipoi TroXXa'/as (^avevre-s ev rvTTOIS TWV aTreXQuvTiav 7roXXoi/s •)\Tra.Ti]crav Kal (5ie(/)- QeipaV TToXXw fia\\ov, el TOCTO yeyevrjfJLevov r\v Kal Ke/c/oartj/cos tv Tats TWV dvOptairwv Siavo'iais, olov OTI TroXXol Tan/ aVeXOoi/Twv eTravrjXQov irdXiv, /jLvpiois dv b /xia/oos fiaifjioov t/ceTvos 5oXois eVXe^e, Kal TroXXiji/ ctTraTTji; eis TOV fiiov eltnjyaye. dia TOVTO aTre/cXeio'e TCCS 6upas o Oeos, /cat OVK a^ttjcri Tiva TIOV dire\Q6vTwv cTraveXOovTa eiireiv Ta CK'cT, Va /itj Xa/3oJi/ d(\)opp.r\v evrevdev chicii/os TCC Trap' Trdvra eicraya'y»;. Kal yap ore )jrpo(p7)Tai , \l/evSoirpo(pi]ra^ j/yetpe, Kal OTS aVocrroXoi, ^euoiTTOtrToXous, Kal ore X/OKTTOS e$a'i/fj, \l/evSoX/oiCTTOi;s* Kal OTC Soy/maTa eia^ve^Qt] vyifj, die- (pQapfJicva ei(rtj'yay6, Kal "^i^avia irav-rayov biaa-Trelptav. aXX' o 0eos aVai/Ta TaDra irpoeidaos, dire- vos jj^uli/, ov (rvveyju!)pr\a£v £X0OVTt Tivi TTOTC CKeWev e/ceT oiaXe^6^j/ai ToTs ^wa*ti/ ai/0po)7rots, tj/xas Trai/rcoj/ d^ioiriaTOTepa? ?|yelcr0ai T-as 0etas ypacpds. Chrysost. De Lazaro, Concio iv. cap. iii. Tom. I. pp. 755, 6. Ed. 1718-38.]
+Hierome in the 8. cap. of Jeremy [Isaiah]. " If you doubt of any thing (saith the prophet) know that it is written, that those nations, which the Lord shall scatter before thy face, shall hearken to dreams and soothsayers. But the Lord thy God hath com manded thee not so to do : but if you will know things that be doubtful, give your selves rather to the testimonies of the law and the scriptures. But if your congre gation will not search the word of the Lord, they shall not have the light of the truth, but shall wander in darkness of errors. You ought to know this, that every nation asketh counsel at their own gods, and inquireth of the dead for the health of the quick : but God hath given you the law for your help ; so that you may say, opvTTearQai, ceiKvuvai ird\iv cos e/c vexpwv dvao-TaWes, /cat Si eKciviav ova eflovXeTO TritrT Tals TWV aTraTtOjUeVeof (5iai/oi'ai9. el yap vvv, OJ/TOS TOIOVTOV, oveipoi TroXXa'/as (^avevre-s ev rvTTOIS TWV aTreXQuvTiav 7roXXoi/s •)\Tra.Ti]crav Kal (5ie(/)- QeipaV TToXXw fia\\ov, el TOCTO yeyevrjfJLevov r\v Kal Ke/c/oartj/cos tv Tats TWV dvOptairwv Siavo'iais, olov OTI TroXXol Tan/ aVeXOoi/Twv eTravrjXQov irdXiv, /jLvpiois dv b /xia/oos fiaifjioov t/ceTvos 5oXois eVXe^e, Kal TroXXiji/ ctTraTTji; eis TOV fiiov eltnjyaye. dia TOVTO aTre/cXeio'e TCCS 6upas o Oeos, /cat OVK a^ttjcri Tiva TIOV dire\Q6vTwv cTraveXOovTa eiireiv Ta CK'cT, Va /itj Xa/3oJi/ d(\)opp.r\v evrevdev chicii/os TCC Trap' Trdvra eicraya'y»;. Kal yap ore )jrpo(p7)Tai , \l/evSoirpo(pi]ra^ j/yetpe, Kal OTS aVocrroXoi, ^euoiTTOtrToXous, Kal ore X/OKTTOS e$a'i/fj, \l/evSoX/oiCTTOi;s* Kal OTC Soy/maTa eia^ve^Qt] vyifj, die- (pQapfJicva ei(rtj'yay6, Kal "^i^avia irav-rayov biaa-Trelptav. aXX' o 0eos aVai/Ta TaDra irpoeidaos, dire-vos jj^uli/, ov (rvveyju!)pr\a£v £X0OVTt Tivi TTOTC CKeWev e/ceT oiaXe^6^j/ai ToTs ^wa*ti/ ai/0po)7rots, tj/xas Trai/rcoj/ d^ioiriaTOTepa? ?|yelcr0ai T-as 0etas ypacpds. Chrysost. De Lazaro, Concio iv. cap. iii. Tom. I. pp. 755, 6. Ed. 1718-38.]
 
 [* Ego autem quod homines a scelestis aruspicibus atque magis occisi sint, non negabo. Quod vero immolatorum hominum animse ipsis cooperentur, unde mihi persuadebitur ? an quia ipsos dcemoniacos clamare nonnunquam audisti, Anima hujus ego sum ? Verum hsec quoque oratio a fraude atque deceptione diabolica est. Non enim anima defuncti est quag ista dicit, sed dcBinon qui haec audientes decipiat, fingit. Quare vetularum haec verba temulentarum ducenda sunt, et puerorum terriculamenta. Nee enim potest anima a corpore separata in his regionibus errare. Justorum anima1 enim in manu Dei sunt : peccatorum vero post hunc exitum continuo abducuntur, quod a L/azaro et divite planum efficitur. Sed alibi quoque Dominus ait, Hodie animam abs te repetent. Non igitur potest anima, cum a corpore abscesserit, apud nos hie errare. Multis e locis scripturaj comprobari potest, non errare hie post mortem justorum homi num animas. Nam et Stephanas ait : Suscipe spiritum meum. Et Paulus resolvi ac esse cum Christo desiderabat. De Patriarcha quoque scriptura dixit : Et appositus est ad patres suos, enutritus in senectute bona — Quod vero nee peccatorum animal hie commorari possint, divitem audias qui enixe earn rem petit, nihil tamen impetrat. Quod si possent anima; hominum hie conversari, venisset ipse ut cupiebat, et suos de tormentis inferni fecisset certiores : quo ex loco scripturae illud etiam aperte patet, quod post exitum a corpore in locum quendam certum animas deducuntur, unde redire sponte sua non possunt, sed terribilem ilium judicii diem ibi exspectant. Chrysost. In Matth. cap. viii. Horn, xxix. Tom. II. cols. 270,271. Ed. (Lat.) Basil. 1547.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 The soothsaying of the heathen, which deceive their worshippers, is not like ours, which is spoken out of the law without any cost2."
 
 St Augustine also saith, that the spirit of Samuel, which the woman sorcerer raised to Saul, was not the soul of Samuel, but the devil which appeared in Samuel's like ness, for to deceive Saul : this doth he prove both by evident scriptures, and strong reasons'
 
-THE SIXTH CHAPTER.
+## The Sixth Chapter
 
 Neither are miracles able to prove our faith.
 
@@ -593,7 +592,7 @@ O Se Xeyet, TOIOVTOV e&Tiv. edv TIS dvaa'Tri s) (7)tj(ri, KUI Troti'ivy o-tj/uel
 
 [5 Scripturas tanta auctoritate firmatas commendatasque respuitis ; miracula non facitis : quae si feceritis, etiam ipsa in vobis caveremus, przestruente nos Domino et dicente, Exsurgent multi pseudochristi. August, cont. Faust. Manich. Lib. xiii. cap. v. Tom. VI. p. 118. Ed. Paris. 163?.]
 
-OF UNWRITTEN VERITIES.
+## Of Unwritten Verities
 
 every one of these it is said, They shall be beguiled with signs and wonders that shall deserve to be beguiled, ' forasmuch as they have not received the love of the truth, that they might be saved/ Neither did the apostle fear to say and add, ' God shall send them strong delusions, that they should believe lies/ For God doth send these things, because he suffereth the devil to do them : he indeed by his just judg ment, although the devil doth8 it of a wicked and malicious purpose7/'
 
@@ -603,7 +602,7 @@ The same, Of the Unity of the Church, cap. 16. " Let them shew their church, if 
 
 [7 Praesentia quippe ejus (i.e. antichristi) erit, sicut dictum est, secundum operationem Satanae in omni virtute, et signis, et prodigiis mendacii, et in omni seductione iniquitatis, his qui pereunt. Tune enim solvetur Satanas, et per ilium antichristum in omni sua virtute mirabiliter quidem, sed mendaciter operabitur. Quod solet ambigi, utrum propterea dicta sint signa et prodigia mendacii, quoniam mortales sensus per phantasmata decepturus est, ut quod non facit, facere videatur. An quia ilia ipsa etiam si erunt vera prodigia, ad mendacium pertrahent credituros non ea potuisse nisi divinitus fieri, virtutem diaboli nescientes ; maxime quando tantam quantam nunquam habuit, accipiet potestatem. Non enim quando de coelo ignis cecidit, et tantam familiam cum tantis gregibus pecorum sancti Job uno impetu absumpsit, et turbo irruens, et domum dejiciens, filios ejus occidit, phantasmata fuerunt: quae tamen fuerunt opera Satanae, cui Deus dederat hanc potestatem. Propter quid horum ergo dicta sint prodigia et signa mendacii, tune potius apparebit. Sed propter quodlibet horum dictum sit, Seducentur ejus signis, atque prodigiis, qui seduci merebuntur, pro eo quod dilectionem veritatis, inquit, non receperunt, ut salvi fierent. Nee dubitavit apostolus addere et dicere, Ideo mittet illis Deus operationem erroris, ut credant mendacio. Deus enim mittet, quia Deus diabolum facere ista permittet, justo ipsius judicio, quamvis faciat ille iniquo malignoque consilio. — August. De Civitate Dei. Lib. xx. cap. xix. Tom. V. p. 1373.] [8 For the rite, Ed. 1582.]
 
-48 A CONFUTATION [CHAP.
+## 48 a Confutation [Chap
 
 52\. which high places nevertheless so displeased God, that kings which destroyed them The devil not were blamed, and kings that destroyed them were praised. But this ought to be miracles in understand, that the desire of him that prayeth is more worthy or of more strength, and idoVs of than the place of prayer. But of false visions let them read what is written, both that Satan doth change himself into an angel of light, and that their dreams have deceived ^ anT many men. Let them also hear what the heathen tell of their temples and gods, won derfully either done or seen; and yet nevertheless the gods of the heathen be devils, but the Lord made the heavens. Therefore many men be heard and after many divers sorts, not only catholic Christians, but also Painims and Jews and heretics, given to divers errors and superstitions : doubtless they are heard either of deceitful spirits, which nevertheless do nothing except they be permitted of God highly and unspeakably judg ing what is meet to be given to every man, or else of God himself either for the punish ment of malice, or the comfort of misery, or for the admonishment of eternal salvation.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Strong Consolation for the Lord's Refugees
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1352
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 29, 1877,.
+*Delivered on Lord's-Day Morning, April 29, 1877*
 
 > "That by two immutable things, in which it was impossible for God to lie, we might ha ve a strong consolation, who have fled for refuge to lay hold upon the hope set before us." Hebrews 6:18.
 
@@ -148,7 +147,6 @@ Now if any person should say, "I still do not believe it," can you conceive the 
 Now then, Souls, will you cast yourselves upon this Divine reality? May the devil be kept back from you that you may cease blaspheming God by doubting Him! May the eternal Spirit now convince you how natural, how proper, how necessary it is that you should at once believe the promise and the oath of God and trust yourselves with Jesus Christ, whom He sets forth to be a Prince and a Savior to give repentance unto Israel and remission of sins this day! I wish I knew how to plead with you, but the time has gone. There was a time with me when to have heard this message would have made my heart leap within me, for I needed Christ. And when I heard that I must lay hold upon Him and flee to Him and so be saved, I was delighted to do so!
 
 Those of you who are as sinful as I was and as conscious of it, will, I trust at this very moment, look unto Him and be saved—and if you do, by the promise and the oath of God, you are eternally secure! May God the Holy Spirit lead you to Jesus. Amen.
-
 
 ---
 [[Sermon 1351 The Divine Call for Missionaries|← #1351]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1353 Ecce Rex|#1353 →]]

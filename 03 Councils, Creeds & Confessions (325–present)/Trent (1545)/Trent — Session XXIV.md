@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Session XXIV
 
 Being the eighth under the Sovereign Pontiff, Pius IV., celebrated on the eleventh day of November, MDLXIII.
@@ -122,7 +121,7 @@ Provincial councils, wheresoever they have been omitted, shall be renewed, for t
 
 Diocesan Synods also shall be celebrated every year; to which all those even who are exempted, but who would otherwise, that exemption ceasing, have to attend, and who are not subject to general Chapters, shall be bound to come; understanding however that, on account of parochial, or other Secular churches, even though annexed, those who have charge thereof must needs, whosoever they may be, be present at the said Synod. But if any, whether metropolitans, or bishops, or the others above-named, shall be negligent in these matters, they shall incur the penalties enacted by the sacred canons.
 
-CHAPTER III. In what manner Prelates are to make their visitation.
+## CHAPTER III. In what manner Prelates are to make their visitation
 
 Patriarchs, primates, metropolitans, and bishops shall not fail to visit their respective dioceses, either personally, or, if they be lawfully hindered, by their Vicar-general, or visitor; if they shall not be able on account of its extent, to make the visitation of the whole annually, they shall visit at least the greater part thereof, so that the whole shall be completed in two years, either by themselves, or by their visitors. Metropolitans, however, even after having made a complete visitation of their own proper diocese, shall not visit the cathedral churches, or the dioceses of the bishops of their province, except for a cause taken cognizance and approved of in the provincial Council.
 

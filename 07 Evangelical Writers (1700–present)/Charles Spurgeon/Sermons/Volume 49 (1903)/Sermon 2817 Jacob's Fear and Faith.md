@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Jacob's Fear and Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2817
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Deliver me, Ipray, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children. And You said, I will surely do you good, and make your seedas the sand of the sea, which cannot be numbered for multitude." Genesis 32:11,12.
 
@@ -87,7 +84,7 @@ omnipotent, yet lays hold upon the Omnipotence of God and girds itself with Divi
 
 The Lord bless you, dear Friends, and especially bless any of you who have not yet believed in His Son, Jesus Christ! Oh, that they could see the sinfulness of doubting the great God and Jesus Christ, His Son! Oh, that they would but trust Him and confide in Him just as they are! They would never have to lament doing so, but, throughout eternity they would have to bless the Lord who taught them this sweet way of life and peace, namely, the way of simple dependence upon the blood and righteousness of Jesus Christ!
 
-EXPOSITION BY C. H. SPURGEON: GENESIS32.
+## Exposition by C. H. Spurgeon: Genesis 32
 
 Verse 1. And Jacob went on his way, and the angels of God met him. When he left the promised land, he had a vision of angels, ascending and descending upon the ladder, as if to bid him farewell. Now that he is going back, the angels are there again to speed him on his way home to the land of the Covenant, the land which the Lord had promised to give to Abraham and his seed.
 
@@ -138,7 +135,6 @@ When one trouble's gone, another does him seize," and though the rhyme is rather
 31\. And as he passed over Peniel the sun rose upon him, and he limped upon his thigh. The memorial of his weakness was to be with him as long as he lived. People would ask, "How came the halting gait of that princely man?" And the answer would be, "It was by his weakness that he won his princedom—he became Israel, A Prince of God, when his thigh was put out ofjoint." How pleased would you and I be to go limping all our days with such weakness as Jacob had, if we might also have the blessing that he thus won!
 
 32\. Therefore the children ofIsrael eat not ofthe sinew which shrank, which is upon the hollow ofthe thigh, unto this day: because He touched the hollo w of Jacob's thigh in the sinew that shrank.
-
 
 ---
 [[Sermon 2816 Invitation to a Conference|← #2816]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2818 Jesus and His Forerunner|#2818 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Ear Bored With An Awl
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1174
-
-DELIVERED BY.
 
 > "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the doorpost; and his master shall bore his ear through with an awl; and he shall serve him forever." Exodus 21:5, 6.
 
@@ -166,7 +163,6 @@ If you will give yourself to Christ and if your ear is bored, these precious Gra
 And now, you unconverted people, do you think I have spoken the truth? If my Master had behaved badly to me I would have run away from Him long ago! I would not stand here to tell you that He was a good Master if He were not. But, since He is so good, oh that you would say, "I would like to be in His service." Have you such a desire? Then, dear Heart, remember His own words, "Him that comes to Me, I will in no wise cast out." If you are willing to be His, He is willing to have you! He is so great a Prince that He can maintain an endless company of servants without embarrassing Himself. There was never a soul that needed Christ but what Christ needed that soul! Depend upon it, if you go to Him, He will enroll you among His household retainers and allot you an honorable portion day by day. Seeking Sinner, believe in Jesus and live! God grant you Grace for Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 637 HYMNS FROM "OUR OWN HYMN BOOK"—660, 658, 663.
-
 
 ---
 [[Sermon 1173 I Thought|← #1173]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1175 Stephen's Death|#1175 →]]

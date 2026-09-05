@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Sweet Stimulants for the Fainting Soul
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2798
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O my God, my soul is cast down within me: therefore will I remember You from the land of Jordan, and of the Hermonites, from the Hill Mizar." Psalm 42:6.
 
@@ -127,7 +124,7 @@ Floating in His languid eyes." Yet you, who have been at the foot of the Cross, 
 
 If there are any here who are strangers to all these things, I can only wish that they might even know our sorrows, in order that they might have an experience of our joys to treasure up in remembrance. Believers in Jesus are not a miserable crew—they have songs to sing and they have good reason to sing them! They have enough to make them blessed on earth and to make them blessed forever and ever!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:17-28.
+## Exposition by C. H. Spurgeon: Psalm 119:17-28
 
 Verse 17. Deal bountifully with Your servant, that I may live, and keep Your word. O Lord, I am Your servant, yet, I pray You, do not pay me wages according to my deserts, but according to the greatness of Your mercy! "Deal bountifully with Your servant." Little mercy will not be enough for such great sins and such great needs as mine. Deal very generously with Your poor servant who is so full of necessities, "that I may live," for, if You will only let me live, it will be of Your bounty since I deserve not even that gift. Only to have my life still spared shall be regarded by me as a great favor from You. I want not to live to please myself, for that would not be living at all, but "that I may live, and keep Your word." A holy life is the only true life, the only life that is really worth having—and he that has it has been dealt bountifully with by his God. I commend this verse to each servant of the Lord as a prayer that may be continually presented to Him.
 
@@ -144,7 +141,6 @@ Verse 17. Deal bountifully with Your servant, that I may live, and keep Your wor
 24\. Your testimonies also are my delight and my counselors. While these princes were taking counsel against the Psalmist, he also went and took Counsel's advice against them! But that Counsel's advice was the advice of the Word of God. He stuck to the Scriptures! Little as he had of them, yet that little he greatly prized. The Pentateuch furnished him with five Inspired Counselors to whom he resorted in his time of need. Let us imitate his example, especially as we have the complete Canon of revelation to advise and counsel us!
 
 25-28. My soul cleaves unto the dust: quicken You me according to Your word. I have declared my ways, and You heard me: teach me Your statutes. Make me to understand the way of Your precepts: so shall I talk of Your wondrous works. My soul melts for heaviness: strengthen You me according unto Your word. The Word of the Lord is available for quickening, teaching and strengthening. As Paul wrote to Timothy, "All Scripture is given by Inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness; that the man of God may be perfect, thoroughly furnished unto all good works." May that gracious Spirit, who Inspired it, always teach us its inner meaning!
-
 
 ---
 [[Sermon 2797 The Need and Nature of Conversion|← #2797]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2799 The Church Encouraged and Exhorted|#2799 →]]

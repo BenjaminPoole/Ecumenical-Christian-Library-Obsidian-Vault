@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 22
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE WITH US; WE WITH HIM**
+## **He with Us; We with Him**
 
 > The fear of the Lord prolongeth days: but the years of the wicked shall be shortened" Prov. 10:27
 
@@ -25,7 +24,6 @@ We have therefore all the arrangements for long life, and if it be really for ou
 And what if we should soon be called to the higher sphere? Certainly there would be nothing to deplore in such a summons, but everything to rejoice in. Living or dying we are the Lord's. If we live, Jesus will be with us; if we die, we shall be with Jesus.
 
 The truest lengthening of life is to live while we live, wasting no time, but using every hour for the highest ends. So be it this day.
-
 
 ---
 [[FCB June 21|← June 21]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 23|June 23 →]]

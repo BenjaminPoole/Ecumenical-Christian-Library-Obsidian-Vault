@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 9
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PRAYER FOR PEACE**
+## **Prayer for Peace**
 
 > And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the Lord for it: for in the peace thereof shall ye have peace" Jer. 29:7
 
@@ -23,7 +22,6 @@ The principle involved in this text would suggest to all of us who are the Lord'
 Eagerly let us pray for the great boon of peace, both at home and abroad. If strife should cause bloodshed in our streets, or if foreign battle should slay our brave soldiers, we should all bewail the calamity; let us therefore pray for peace, and diligently promote those principles by which the classes at home and the races abroad may be bound together in bonds of amity.
 
 We ourselves are promised quiet in connection with the peace of the nation, and this most desirable; for thus we can bring up our families in the fear of the Lord, and also preach the gospel without let or hindrance. Today let us be much in prayer for our country, confessing national sins, and asking for national pardon and blessing, for Jesus' sake.
-
 
 ---
 [[FCB March 8|← March 8]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 10|March 10 →]]

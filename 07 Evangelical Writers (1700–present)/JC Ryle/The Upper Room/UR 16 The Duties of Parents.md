@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # The Duties of Parents
 
-Chapter XVI · *The Upper Room* — J. C. Ryle
+## Chapter XVI · *The Upper Room* — J. C. Ryle
 
 > — Prov. 22:6
 
@@ -167,7 +166,7 @@ I mean by this, you should train them up to believe what you say. You should try
 
 Who indeed can describe the blessedness of a real spirit of faith? Or rather, who can tell the misery that unbelief has brought upon the world? Unbelief made Eve eat the forbidden fruit,--she doubted the truth of God's word: "Ye shall surely die." Unbelief made the old world reject Noah's warning, and so perish in sin. Unbelief kept Israel in the wilderness,--it was the bar that kept them from entering the promised land. Unbelief made the Jews crucify the Lord of glow,---they believed not the voice of Moses and the prophets, though read to them every day. And unbelief is the reigning sin of man's heart down to this very hour,--unbelief in God's promises, -- unbelief in God's threatenings,--unbelief in our own sinfulness,- unbelief in our own danger,--unbelief in everything that runs counter to the pride and worldliness of our evil hearts. Reader, you train your children to little purpose if you do not train them to a habit of implicit faith,--faith in their parents' word, confidence that what their parents say must be right.
 
-I have heard it said by some, that you should require nothing of children which they cannot understand: that you should explain and give a reason for everything you desire them to do. I warn you solemnly against such a notion. I tell you plainly, I think it an unsound and rotten principle. No doubt it is absurd to make a mystery of everything you do, and there are many things which it is well to explain to children, in order that they may see that they are reasonable and wise. But to bring them up with the idea that they must take nothing on trust, that they, with their weak and imperfect understandings, must have the "why" and the " wherefore" made clear to them at every- step they take,--this is indeed a fearful mistake, and likely to have the worst effect on their minds.
+I have heard it said by some, that you should require nothing of children which they cannot understand: that you should explain and give a reason for everything you desire them to do. I warn you solemnly against such a notion. I tell you plainly, I think it an unsound and rotten principle. No doubt it is absurd to make a mystery of everything you do, and there are many things which it is well to explain to children, in order that they may see that they are reasonable and wise. But to bring them up with the idea that they must take nothing on trust, that they, with their weak and imperfect understandings, must have the "why" and the " wherefore" made clear to them at every-step they take,--this is indeed a fearful mistake, and likely to have the worst effect on their minds.
 
 Reason with your child if you are so disposed, at certain times, but never forget to keep him in mind (if you really love him) that he is but a child after all,--that he thinks as a child, he understands as a child, and therefore must not expect to know the reason of everything at once.
 
@@ -322,7 +321,6 @@ The Lord teach you all how precious Christ is, and what a mighty and complete wo
 The Lord teach you all your need of the Holy Spirit, to renew, sanctify, and quicken your souls. Then, I feel sure you will urge your children to pray for Him without ceasing, and never rest till He has come down into their hearts with power, and made them new creatures.
 
 The Lord grant this, and then I have a good hope that you will indeed train up your children well,--train well for this life, and train well for the life to come; train well for earth, and train well for heaven; train them for God, for Christ, and for eternity.
-
 
 ---
 [[UR 15 The Lord's Garden|← The Lord's Garden]] · [[The Upper Room|Upper Room Contents]] · [[UR 17 The Rights and Duties of Lay Churchmen|The Rights and Duties of Lay Churchmen →]]

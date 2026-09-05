@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # "And We Are"—a Jewel from the Revised Version
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1934
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, what manner of love the Father has bestowed upon us, that we should be called the sons of God." 1 John 3:1
 
@@ -156,7 +153,6 @@ Trials bring me to His feet,
 Lay me low, and keep me there." The children of God under the rod can say, "And we are!" Thank God for anything which emphasizes that affirmation— "And we are." It is wondrous love that we should be called the children of God, "and we are." The bastard kicks against his father's stroke, but the wise child kisses the rod and blesses the hand that uses it—and cries, "Though He slay me, yet will I trust in Him." This is a sure seal of our true sonship.
 
 The text says, "And we are." I must turn it round, and ask, "Are we?" And when you have worked that out and you can say, "Yes," then I want you all to get to be very positive about this matter—"Now are we the sons of God." I pray that you may be able to say boldly, "And we are." When you are depressed and your spirit hangs fire, say, "We are." When the devil says, "If you are the children of God," give him a slap in the face with this, "And we are." And when the world says, "What? You call yourselves sons of God?" say, "Yes, and we are." Whenever doubts and fears come in, drive these evil birds away from eating your ripe fruit and let this be the shout you use, "And we are." "Behold what manner of love the Father has bestowed upon us, that we should be called children of God: and we are." Called by His name, may we enjoy the full assurance of faith through believing in Jesus! Amen.
-
 
 ---
 [[Sermon 1933 Your Rowers Have Brought You Into Great Waters|← #1933]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1935 Where Are The Nine—or, Praise Neglected|#1935 →]]

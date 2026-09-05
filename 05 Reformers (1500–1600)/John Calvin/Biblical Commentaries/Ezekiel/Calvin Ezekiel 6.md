@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Ezekiel 6:1-3
 
@@ -73,7 +72,7 @@ I see that I cannot finish, and I think the time is advancing.
 
 ## Prayer Lecture 16
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou desirest a continual memorial of thy former remarkable judgments on thy people, that we may this day restrict ourselves to thy pure worship — grant, I say, that we may be teachable by thee, and never attempt to adulterate thy worship by our devices; and since thou hast clearly manifested thy will to us, through thine only-begotten Son, that we may remain in obedience to him, and may so invoke Thee the Father, in his name, while we are pilgrims in the world, until at length we arrive at that blessed inheritance which is laid up for us in heaven by the same, our Lord. — Amen.
 
@@ -117,7 +116,7 @@ Now he again announces that they shall know what they have long neglected. But h
 
 ## Prayer Lecture 17
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou not only proposest to us this day the ancient examples of thine anger, by which we may be restrained within thy pure and perfect worship, but also hast so clearly manifested thyself to us, through thine only-begotten Son, that we cannot err unless we are insane, — grant, I say, that we may be not only docile and moral, but attentive to that doctrine which is contained in thy gospel, so that we may be directed by this perfect light, until we arrive at length at the full and solid alliance with the Sun of righteousness, Christ, thy Son. — Amen.
 

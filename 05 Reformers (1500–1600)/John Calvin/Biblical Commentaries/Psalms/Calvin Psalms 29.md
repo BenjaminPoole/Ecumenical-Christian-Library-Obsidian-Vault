@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 29
-
-**PSALM 29.**
 
 David, that he may humble all men before God, from the highest to the lowest, celebrates his terrible power in the various wonders of nature, which he affirms are not less fitted to arouse us to give glory to God, than if he were to assert his empire and majesty with his own voice. After he has struck fear into the proud, who are reluctant to yield, and addressed an exhortation to them accompanied by a gentle reproof, he sweetly invites the faithful voluntarily to fear the Lord.
 

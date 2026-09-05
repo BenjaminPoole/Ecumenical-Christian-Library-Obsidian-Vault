@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 97. Matthew 11:25-30; Luke 10:21-22
-
-**Matthew 11:25-30; Luke 10:21-22**
 
 **25**. At that time Jesus answering said, I acknowledge to thee, [^1] O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them to little children. **26**. Undoubtedly, O Father, such was thy good pleasure. [^2] **27**. All things have been delivered to me by my Father; and none knoweth the Son but the Father; and none knoweth the Father but the Son, and he to whom the Son has chosen to reveal him. [^3] **28**. Come to me, all that labor and are burdened, and I will relieve you. **29**. Take my yoke upon you, and learn of me, that I am meek and lowly in heart, and you shall find rest in your souls. **30**. For my yoke is easy, and my burden is light.
 

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon XII. Enoch’s walk with God. Genesis v. 24
-
-## Sermon XII. Enoch’s walk with God.
 
 [The date of this sermon appears to be October 8, 1675.]
 
@@ -112,11 +109,9 @@ And this is the first thing in them who design to live unto God, — namely, tha
 
 There are also five false rules whereby men may deceive themselves in their moral and civil conversation:— [1.] The example of the best of men, taking in their infirmities. The examples of good men, being considered as they exemplify Scripture rules, are forcible encouragements unto duty. The example of Christ is an original rule; the example of others is to be looked on as such a transcript as wherein there may be mistakes. They are all, therefore, to be reduced unto the rule; and when they appear conformable unto it, they adorn it, illustrate it, and render it beautiful. Hence may we take encouragement unto imitation. But, for the most part, we are ready to consider good men, so as to countenance ourselves by their infirmities, ‘So and so do they; so do they talk, discourse, converse; unto such places and companies do they resort: and why may not we do so too?’ But I do believe that he who will be content with the worst of a good man hath no part of his best. [2.] The fashions of the world in things not directly sinful. [3.] Custom in trading, received by tradition. Men may, if they are not aware, learn in their apprenticeship to be dishonest all their lives; they have yet the trade of it. [4.] Satisfaction as to reputation in the world and the church. [5.] Quiet and satisfaction in our own minds.[^2]
 
-
 ---
 [^1]: In the author’s treatise on the Holy Spirit, vol. iii. of his works. — Ed.
 [^2]: The third division of this discourse has not been preserved. See p. 575. — Ed.
-
 
 ---
 [[SJO 114 Sermon XI. The humiliation and condescension of Christ. Philippians ii. 5–8|← Sermon XI. The humiliation and condescension of Christ. Philippians ii. 5–8]] · [[Sermons of John Owen|Contents]] · [[SJO 116 Sermon XIII. A fast sermon— Christian duty under the hidings of God’s face.|Sermon XIII. A fast sermon:— Christian duty under the hidings of God’s face. Isaiah viii. 17 →]]

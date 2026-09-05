@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 162. Numbers 20:23-29
-
-**Numbers 20**
 
 **23.** And the Lord spoke unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
 

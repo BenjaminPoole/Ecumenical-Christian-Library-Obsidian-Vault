@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Christians, and Their Communion With God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2430
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yes, in the way of Your judgments, O LORD have we waited for You, the desire of our soul is for Your name, and for the remembrance of You. With my soul have I desired You in the night; yes, by my spirit within me will I seek You early." Isaiah 26:8,9.
 
@@ -57,7 +54,7 @@ This proves your heavenliness, too, for that same desire which draws you to God 
 
 II. Now, secondly—and I must be brief on many points here—THIS PRINCIPLE DISPLAYS ITSELF AND
 
-WORKS IN VARIOUS WAYS.
+## Works in Various Ways
 
 Begin the text—"Yes, in the way of Your judgments, O Lord, have we waited for You." We are longing for God and it is dark and cloudy—what shall we do? Why, wait for Him. Instead of impatiently complaining of His Providential dispensations which would be flying off at a tangent from Him, we stand still that we may see the salvation of God! We have come to our Red Sea and we can go no farther. And now our love to God, our fellowship with Him makes us just abide where we are until He says, "Go forward." And then we march through the sea, dry-shod. Waiting is often a very heavenly experience. You will find it a difficult thing to do if you doubt. He that doubts, hurries and worries, but he that believes does not make haste through cowardly fear! He waits and sings to himself, "My Soul, wait you only upon God; for my expectation is from Him."
 
@@ -103,7 +100,7 @@ I wish that I could invite all here present to such a life as that, but there is
 
 May the Lord bless these words to all of us, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH26
+## Exposition by C. H. Spurgeon: Isaiah 26
 
 Verse 1. In that day shall this song be sung in the land of Judah. God would have His people to be a singing people! They often sigh—they should more often sing. God makes their songs and appoints the song for the day, and so helps them to cheer the darkest day with some melodious music.
 
@@ -144,7 +141,6 @@ Verse 1. In that day shall this song be sung in the land of Judah. God would hav
 19\. Your dead men shall live, together with my dead body shall they arise. That note of resurrection comes in as a word of comfort to the most dispirited, the most despairing. As the dead shall live because of Christ, even so is there hope for you who are driven to a very death of despair! You cannot live by your own power. Your hopes are all gone, dead and buried, and you lie helpless and lost—but as the Lord will raise the dead from their graves—so will He give you hope and bless and save you, if you come and trust in Him.
 
 19-21. Awake and sing, you that dwell in dust: for your dew is as the dew of herbs, and the earth shall cast out the dead. Come, My people, enter into your chambers and shut your doors about you: hide yourself, as it were, for a little moment, until the indignation is past. For, behold, the LORD comes out of His place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain. The blood of the murdered shall cry to God from the ground, as did Abel's. The slain in battle shall not be forgotten. God will come and punish the earth for its iniquities. Blessed are they that hide themselves in Christ, till the indignations are past.
-
 
 ---
 [[Sermon 2429 Converts, and Their Confession of Faith|← #2429]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2431 The Double Cleansing|#2431 →]]

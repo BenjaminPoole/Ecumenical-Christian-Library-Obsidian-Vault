@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "Better Than Wine"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2459
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Isaiah 26:20. Come, my people, enter into your chamber, and shut your doors about you: hide yourself, as it were, for a little moment, until the indignation is past. There is never a flood for the wicked without an ark for the righteous! Never shall a storm sweep over the earth till God has prepared a great rock wherein His people may be hidden.
 
@@ -46,7 +43,6 @@ Isaiah 27:1. In that day the LORD, with His sore and great and strong sword, sha
 9, By this, therefore, shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin. When one of the old Puritans was afflicted with a very painful disease—perhaps the most painful to which flesh is heir—he kept crying out, "The use, Lord? The use, Lord? Show me the use of it." This should be the point at which the Christian should always aim.
 
 9\. When he makes all the stones of the altar as chalkstones that are beaten in sunder, the groves and images shall not stand up. You see, the Israelites had piled up stones and held them in veneration. But when God brought them back to Himself, they counted those stones to be but as common chalkstones of the valley. It is a good thing for us, when our sins bring us no pleasure, when they are only like common stones of the street. When we break our images and dash down our idol gods, we show that we prize them no longer. The Lord make this to be the issue of all our trials! Then will we bless Him for our troubles as for our chief mercies.
-
 
 ---
 [[Sermon 2458 Reasons for a Singular Question|← #2458]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2460 God's Fire and Hammer|#2460 →]]

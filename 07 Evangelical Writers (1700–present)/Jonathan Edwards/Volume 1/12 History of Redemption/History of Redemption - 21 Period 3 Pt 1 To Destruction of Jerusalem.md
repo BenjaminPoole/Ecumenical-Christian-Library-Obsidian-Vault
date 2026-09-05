@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-THE SUCCESS OF REDEMPTION FROM THE RESURRECTION OF CHRIST TO THE DESTRUCTION OF JERUSALEM.
+*The Success of Redemption from the Resurrection of Christ to the Destruction of Jerusalem*
 
 I would now show, how the success of Christ’s purchase of redemption was carried on from Christ’s resurrection to the destruction of Jerusalem. In speaking of this I would, 1. take notice of the success itself; and, 2. the opposition made against it by its enemies; and, 3. the terrible judgments of God on those enemies.
 

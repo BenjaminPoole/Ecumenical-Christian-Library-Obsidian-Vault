@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 21
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**FROM ANGER TO LOVE**
+## **From Anger to Love**
 
 > He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea" Micah 7:19
 
@@ -23,7 +22,6 @@ God never turns from His love, but He soon turns from His wrath. His love to His
 What a choice promise is this -- "He will subdue our iniquities"! He will conquer them. They cry to enslave us, but the Lord will give us victory over them by His own right hand. Like the Canaanites, they shall be beaten, put under the yoke, and ultimately slain.
 
 As for the guilt of our sins, how gloriously is that removed! "All their sins," -- yes, the whole host of them; "thou wilt cast" -- only an almighty arm could perform such a wonder; 'into the depths of the sea"--where Pharaoh and his chariots went down. Not into the shallows out of which they might be washed up by the tide, but into the "depths" shall our sins be hurled. They are all gone. They sank into the bottom like a stone. Hallelujah! Hallelujah!
-
 
 ---
 [[FCB December 20|← December 20]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 22|December 22 →]]

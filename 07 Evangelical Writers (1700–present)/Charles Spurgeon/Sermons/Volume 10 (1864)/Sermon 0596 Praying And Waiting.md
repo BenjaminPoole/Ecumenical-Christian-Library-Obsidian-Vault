@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Praying And Waiting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 596
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 23, 1864 BY C. H. SPURGEON,.
+*Delivered on Sunday Morning, October 23, 1864 by C. H. Spurgeon*
 
 > "These things have I written unto you that believe on the name of the Son of God; that you may know that you have eternal life and that you may believe on the name of the Son of God. And this is the confidence that we have in Him, that, if we ask anything according to His will, He hears us: and if we know that He hears us, whatever we ask, we know that we have the petitions that we desired of Him." 1 John 5:13-15.
 
@@ -154,7 +153,6 @@ Oh, believe me when I review my own personal experience during the fifteen years
 Let us as a Church pray more. O that the Spirit of prayer would come down upon us! Let us expect greater blessings! I was led forth in prayer this morning beyond the usual limits. I do not know how the time fled, but I do know that we have the petitions. Let us stand on our watchtower and look. Let us meet again and again at special meetings and let us cry mightily unto the Most High, pouring out our hearts like water before Him and He will open the windows of Heaven and give us greater blessings than we have ever had before—great as those already received have been!
 
 This very afternoon let the season of prayer begin and let it be well sustained. It is to Believers that these words are spoken. May God lead you who are not Believers to trust in Jesus. Amen.
-
 
 ---
 [[Sermon 0595 Barabbas Preferred To Jesus|← #595]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0597 Preparation for Revival|#597 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 13
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**IF, AND A TRIPLE PROMISE**
+## **If, and a Triple Promise**
 
 > If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land" II Chron. 7:14
 
@@ -29,7 +28,6 @@ In this prayer we are to seek the Lord's face. He has left us because of our fau
 With this must go our own turning from evil, God cannot turn to us unless we turn from sin.
 
 Then comes the triple promise of hearing, pardon, and healing. Our Father, grant us these at once for our Lord Jesus Christ's sake.
-
 
 ---
 [[FCB October 12|← October 12]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 14|October 14 →]]

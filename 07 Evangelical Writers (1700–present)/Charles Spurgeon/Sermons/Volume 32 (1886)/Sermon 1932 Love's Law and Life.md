@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Love's Law and Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1932
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If you love Me, keep My commandments." John 14:15.
 
@@ -140,7 +137,6 @@ would be specially applicable to each one of my hearers, but I pray the Holy Spi
 If there is a commandment which you do not relish, it ought to be a warning to you that there is something wrong in your heart that needs setting right. If you ever quarrel with one of Christ's commands, end that quarrel by especially attending to it beyond every other! Do as the miserly man did when he conquered his avarice, once and for all. He was a Christian and he promised he would give a pound to the Church, but the devil whispered, "You need your money, do not pay." The man stamped his foot and said, "I will give two!" Then the devil said, "Surely you are going mad! Save your money." The man replied that he would not be conquered, he would give four pounds. "Now," said Satan, "you must be insane." Then said the man, "I will give eight and if you don't stop your tempting, I will give 16 for I will not be the slave of covetousness." The point is to throw your whole soul into that very duty wherein you are most tempted to be slack. Jesus does not say, "If you love Me, keep this commandment or that." Out of love obey every command!
 
 Many of you do not love my Lord Jesus Christ. I have not preached to you, but that very fact should make you thoughtful. Go home and consider that the preacher said nothing to you because you do not love the Lord Jesus Christ and, therefore, cannot keep His commandments. Write down in black and white—"/ do not love the Lord Jesus Christ.''" If it is really so, be honest enough to make a note of it and think it over. If you love Jesus, you may joyfully write out, "I love the Lord Jesus. Oh for Grace to love Him more!" But if you do not love Him, it will be honest to put it upon record. Write it boldly—"/ do not love the Lord Jesus Christ." Look at it and look again—and oh, may God the Holy Spirit lead you to repent of not loving Jesus who is the Altogether Lovely One and the great lover of men's souls! Oh that you may begin to love Him at once! Amen and Amen.
-
 
 ---
 [[Sermon 1931 One More Cast of the Great Net|← #1931]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1933 Your Rowers Have Brought You Into Great Waters|#1933 →]]

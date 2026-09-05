@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # God the proper object of the soul’s waiting in its distresses and depths
-
-*God the proper object of the soul’s waiting in its distresses and depths.*
 
 We have seen what the duty is intended in the proposition. We are nextly to consider the reason also of it, why this is the great, first, and principal duty of souls who in their depths have it discovered unto them that there is forgiveness with God; and the reason hereof is that which is expressed in our second observation before mentioned, namely, —
 
@@ -31,7 +28,6 @@ And that, first, because all troubles, depths, entanglements arise from, — 1. 
 Secondly, This duty in the occasion mentioned is necessary upon the account of the greatness and sovereignty of him with whom we have to do: “My soul waiteth for Jehovah.” Indeed, waiting is a duty that depends on the distance that is between the persons concerned in it, — namely, he that waiteth, and he that is waited on; so the psalmist informs us, Ps. cxxiii. 2. It is an action like that of servants and handmaids towards their masters or rulers. And the greater this distance is, the more cogent are the reasons of this duty on all occasions. And because we are practically averse from the due performance of this duty, or at least quickly grow weary of it, notwithstanding our full conviction of its necessity, I shall a little insist on some such considerations of God and ourselves, as may not only evince the necessity of this duty, but also satisfy us of its reasonableness; that by the first we may be engaged into it, and by the latter preserved in it.
 
 Two things we may to this purpose consider in God, in Jehovah, whom we are to wait for — *First*, His being, and the absolute and essential properties of his nature; *secondly*, Those attributes of his nature which respect his dealing with us; — both which are suited to beget in us affections and a frame of spirit compliant with the duty proposed.
-
 
 ---
 [[PEPC 53 Verses fifth and sixth|← Verses fifth and sixth]] · [[Practical Exposition upon Psalm Cxxx|Contents]] · [[PEPC 55 Considerations of God, rendering our waiting on him reasonable and necessary|Considerations of God, rendering our waiting on him reasonable and necessary →]]

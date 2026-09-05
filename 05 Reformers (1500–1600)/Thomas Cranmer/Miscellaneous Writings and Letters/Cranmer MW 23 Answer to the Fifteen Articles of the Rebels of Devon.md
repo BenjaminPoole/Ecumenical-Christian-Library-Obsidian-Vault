@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 23. Answer to the Fifteen Articles of the Rebels of Devon, 1549
 
-FIFTEEN ARTICLES OF THE REBELS, DEVON, ANNO 1549 2.
+*Fifteen Articles of the Rebels, Devon, Anno 1549 2*
 
 WHEN I first read your request, O ignorant men of Devonshire and Cornwall, straightways came to my mind a request, which James and John made unto Christ; to whom Christ answered : " You ask you wot not what." Even so thought I of you, as soon as ever I heard your articles, that you were deceived by some crafty papist 3, which devised those articles for you, to make you ask you wist not what.
 
@@ -43,7 +42,7 @@ And all reason is contrary that you should have asked such things, if you had kn
 
 But now I will come to your articles particularly, opening every one of them by himself, that you may see the bowels thereof, and what is contained in the same ; that when you shall understand the whole, you may judge whether you knew before what you asked, or you were deceived by subtle and wily papistical traitors.
 
-YOUR FIRST ARTICLE IS THIS :
+## Your First Article Is This
 
 " We will have all the general councils, and lioty decrees of our forefathers, observed, kept, and performed: and ivhosoever shall againsaij them, ive hold them as heretics.''
 
@@ -59,7 +58,7 @@ P Laws of this realm, C. C. C. C. MS.]
 
 [5 Be contented, that your servants should come unto you, with harness upon their backs. Ibid.] [6 As chief heads, Ibid.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 obedient to their masters, whether their masters be good or evil. And can you think it meet and lawful7 for you to disobey your undoubted king, being a prince most innocent, most godly, and most careful for your surety 8 and wealth ? If any thing can declare disobedience, what can declare it more, than subjects to come with force of arms to their natural king and prince, and say, " This we will have ?"
 
@@ -123,7 +122,7 @@ C. C.] f5 But these be good, Ibid.]
 
 [12 Yet in our hearts, Ibid.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 If you did thus, then would you do13 the parts of true, faithful, and loyal subjects14, and should declare to the world, that all that you have hitherto done was done by error and ignorance. And I would nothing doubt of the king's majesty his clemency and mercy towards you.
 
@@ -153,7 +152,7 @@ If you had asked, that the word of God might be duly observed and kept every whe
 
 But now will I come to your other articles, wherein I will be brief, forasmuch as in the first I have been long and tedious.
 
-YOUR SECOND ARTICLE IS THIS:
+## Your Second Article Is This
 
 " We will have the law of our sovereign lord king Henri/ VIII. 2 concerning the Six Articles3 to be used again, as in his time they were."
 
@@ -189,7 +188,7 @@ Sixthly — That auricular confession was expe dient and necessary, and ought to
 
 [8 eai; (5e (=K/3a\\?7, a(£opi£eV0a). Canon. Apostol. can. vi. Labb. et Cossart. Tom. I. col. 26. Ed. Lutet. Paris. 1671.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 Six Articles say, that if a priest put not away his wife, he shall be taken for a felon. If he keep her not still, he must be excommunicate by the canon of the apostles : and if he keep her still, he must suffer death by the Six Articles. You be cunning men, if you can set these two together. Also the council of Nice, which was the chief of all the general councils, and was celebrated more than twelve hundred years past, decreed clean directly contrary to the Six Articles. For where the Six Articles command all priests to be separate from their wives, Nicene council determined clean contrary, that they should not be separated, confessing such copulation to be holy and godly9. And the council Gangrense, which was about the same time, so much allowed the marriage of priests, that they accursed them10 that would abstain from the ministration" of priests, because they were married18. These councils vary so far from the Six Articles, that either you must put the general councils out of your book, or else the Six Articles.
 
@@ -197,7 +196,7 @@ Likewise concerning private masses, the law of Six Articles far differeth from t
 
 Other things there be divers also in the Six Articles, which cannot stand with sundry old canons, decrees, and councils : so that if you will stand to the canons, decrees, and councils, you must of force be constrained utterly to put out of your book your second article, which rcquireth the usage of the Six Articles. But now for shortness of time I will come to your third article, which is this :
 
-THE THIRD ARTICLE.
+## The Third Article
 
 " We will have the mass in Latin, as was before, and celebrated by the priest, without any man or woman communicating with him."
 
@@ -229,7 +228,7 @@ That the soldiers understand, then it availeth much. Ibid.]
 
 [6 For he speaketh to the air, Ibid.] [7 This purpose S. Paul allegeth, Ibid. [R Will enforce things contrary, Ibid.] f9 As either be godly, Ibid.] [10 Man nor woman, Ibid.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 one to another ! You say in your first article, that you will have all general councils and decrees observed, and now you go from them yourselves. You say, you will have nobody to communicate with the priest. Hear then, what divers canons, decrees, and general councils say clean against you. There is one decree which saith thus : " When the conse cration is done, let all the people receive the communion, except they will be put out of the church11." And in the canons of the apostles, in the eighth chapter, is contained, "That whensoever there is any mass or communion, if any bishop, priest, deacon, or any other of the clergy, being there present, do not communicate, except he can shew some reasonable cause to the contrary, he shall be put out of the communion, as one that giveth occasion to the people to think evil of the ministers12." And in the ninth chapter of the same canons of the apostles, and in the general council held at Antioch, is thus written : " That all Christian people that come into the church, and hear the holy scriptures read, and after will not tarry to pray, and to receive the holy communion with the rest of the people, but for some misordering of themselves will abstain therefrom, let them be put out of the church, until by humble knowledging of their fault, and by the fruits of penance, and prayers, they obtain pardon and forgiveness13." And the council Nicene also sheweth the order, how men should sit in receiving the communion, and who should receive first14. All these decrees and general councils utterly condemn your third article, wherein you will, that the priest shall receive the communion alone, without any man or woman com municating with him. And the whole church of Christ also, both Greeks and Latins, many hundred years after Christ and the apostles15, do also condemn this your article; which ever received the communion in flocks and numbers together, and not the priest alone.
 
@@ -257,7 +256,7 @@ OTI jjo~r] Tti/e« TWV diaKovtov Kal irpo Ttav e-TTiaKOTrcov Trjs eu^a/t)i(TTias
 
 And although I would exhort every good Christian man often to receive the holy communion, yet I do not recite all these things to the intent, that I would in this corrupt world, when men live so ungodly as they do, that the old canons should be restored again, which command4 every man present to receive the communion with the priest : which canons, if they were now used, I fear that many would receive it un worthily. But I speak them to condemn your article, which would have nobody, neither man nor woman, to be communicated with the priest : which your article condemneth the old decrees, canons, and general councils, condemneth all the old primitive church, all the old ancient holy doctors and martyrs, and all the forms and manner of masses that ever were made, both new and old. Therefore eat again this article, if you will not be condemned of the whole world, and of yourselves also by your first article ; wherein you will all decrees and general councils to be observed. But foras much as I have been so tedious5 in this article, I will endeavour myself to be shorter in the next.
 
-YOUR FOURTH ARTICLE IS THIS:
+## Your Fourth Article Is This
 
 " We will have the sacrament hang over the high altar, and there to be worshipped, as it was wont to be ; and they which will not thereto consent, we ivill have them die like heretics against the holy catholic faith."
 
@@ -285,7 +284,7 @@ Corpus Juris Canon. Ed. Paris. 1687. Decretal. Gregor. IX. Lib. in. Tit. xliv. c
 
 [u Ne propter incuriam sacerdotum divina indignatio gravius exardescat, districte pra-cipiendo mandamus, quatenus a sacerdotibus eucharistia in loco singular! mundo et signato semper honoritice collocata, devote ac fideliter conservetur. Sacerdos vero frequenter doceat plebem suam, ut cum in celebratione missarum elevatur hostia salutaris, se reverenter inclinet, idem faciens cum earn defert presbyter ad infirmum. Corpus Juris Canon. Decretal. Gregor. IX. Lib. in. Tit. xli. cap. x. Tom. II. p. 193.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 although this llonorius12 added the worshipping of the sacrament, yet he made no men tion of the hanging thereof over the high altar, as your article proporteth13. Nor how long after, or by what means, that came first up into this realm, I think no man can tell. And in Italy it is not yet used until this day. And in the beginning of the church it was not only not used to be hanged up, but also it was utterly forbid to be kept.
 
@@ -293,7 +292,7 @@ And will you have all them that will not consent to your article, to die like he
 
 Now to knit up this article shortly. Here is the issue of this matter: that you must either condemn of heresy the apostles, martyrs, confessors, doctors, and all the holy church of Christ, until the time of Innocentius and Honorius, because they hanged not the sacrament over the altar to be worshipped; or else you must be condemned yourselves by your own article, to die like heretics against the holy catholic faith. Now to your fifth article.
 
-YOUR FIFTH ARTICLE IS THIS :
+## Your Fifth Article Is This
 
 " We ivill have the sacrament of the altar but at Easter delivered to the lay-people ; and then but in one kind."
 
@@ -335,9 +334,9 @@ Shere-Thursday : the Thursday before Easter, formerly so called. See Dr Wordswor
 
 [n Comperimus autem, quod quidam sumpta tantummodo corporis sacri portione a calice sacri cruoris abstineant. Qui proculdubio (quoniam nescio qua superstitione docentur adstringi) aut integra sacramenta percipiant, aut ab integris arceantur : quia divisio unius ejusdemque mysterii sine grandi sacrilegio non potest provenire. Corpus Juris Ca non. Decreti Pars iii. De Consecrat. Dist. ii. can. xii. Tom. I. pp. 454, 5.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
-YOUR SIXTH ARTICLE IS THIS :
+## Your Sixth Article Is This
 
 " We will that our curates shall minister the sacrament of baptism at all times, as well in the week-day as on the holy-day."
 
@@ -359,7 +358,7 @@ TW /xeyaXw /iUffTtjptw T?/« TeXeicoaews. Gregor. Nazianz. Orat. xl. in Sanctum 
 
 [18 He spake against, MS. C. C. C. C.] [19 Vid. Hieron. adv. Vigilant. Epist. Ix. Tom. II. pp. 83—87. Ed. Francof. 1684. Bayle's Dic tionary, Vol. IX. pp. 713—16. Ed. Lond. 1739.] more at one time than another, then must you needs renounce your first article ; which willeth the councils and decrees of the forefathers to l)c observed and kept. And this briefly sufficeth for the sixth article.
 
-YOUR SEVENTH ARTICLE IS THIS:
+## Your Seventh Article Is This
 
 " We will have holy bread and holy icater every Sunday1, palms and ashes at the times accustomed; imayes to be set up again in every church; and all other ancient old ceremonies used heretofore by our mother holy church."
 
@@ -391,7 +390,7 @@ But now to your images, which, you say, you will have set up again in every chur
 
 [u Putteth his, Ibid.J
 
-[1G Aquam sale aspersam populis benedicimus, ut ea cuncti aspersi sanctificentur et purificentur ; quod et omnibus sacerdotibus faciendum esse man- dam us : nam si cinis vitulae aspersus populum sanctificabat, atque mundabat,s. a venialibus; multo magis aqua sale aspersa divinisque precibus sacrata populum sanctificat, atque mundat a venialibus. Durandi Rational. Divin. Ofnc. Lib. iv. c. 4. p. 63. Ven. 1609.J
+[1G Aquam sale aspersam populis benedicimus, ut ea cuncti aspersi sanctificentur et purificentur ; quod et omnibus sacerdotibus faciendum esse man-dam us : nam si cinis vitulae aspersus populum sanctificabat, atque mundabat,s. a venialibus; multo magis aqua sale aspersa divinisque precibus sacrata populum sanctificat, atque mundat a venialibus. Durandi Rational. Divin. Ofnc. Lib. iv. c. 4. p. 63. Ven. 1609.J
 
 [17 To tread under his foot, MS.[C. C. C. C.] [18 Whereby we be sanctified, Ibid.J [l9 Blaspheming of the blood, Ibid.J
 
@@ -405,7 +404,7 @@ But peradventure you will marvel, and ask me the question, how it was brought to
 
 [7 A*was most meet, MS. C. C. C. C.J
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 emperor8 of the east parties from Gregory II. his time until Gregory III.*; who at length, after this condition10 had endured above five hundred years, in a council held at Lyons, by feigned promises persuaded the emperor of the east to condescend to his purpose, as well to receive images into the churches, as to other his requests. But nevertheless the bishop of Rome failed of his purpose. For yet to this day the Christian men in the east do not allow images to stand in their churches ; neither the Greeks, nor the Armenians, nor the Indians, nor none11 other Christian men. And, that more is, search all the world12 throughout, of what religion soever they be, whether they be Jews, Turks, Saracens, Tartaries, or Christian people, and you shall not find an image in none of their churches, but that was brought in by the bishop of Rome, and where the bishop of Rome is, or within these forty years was, taken for the head of the church and Christ's vicar in earth.
 
@@ -415,7 +414,7 @@ Now (thanks be to God !) in this realm we be clearly delivered from that kind of
 
 I have been very long in this article, and yet the matter is so large that it requireth much more to be spoken therein, which for shortness of time I am constrained to leave until a more occasion; and to come to your eighth article.
 
-YOUR EIGHTH ARTICLE IS THIS :
+## Your Eighth Article Is This
 
 " We will not receive the new service, because it is but like a Christmas game ; but we will have our old service of matins, mass, even-song, and procession in Latin, as it was before. And so we the Cornish men, whereof certain of us understand no English, utterly refuse this new English."
 
@@ -483,11 +482,11 @@ I13 By other, Ibid.]
 
 [2f) Three words are omitted.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 a grave and godly matter to be read in the church, or rather a foolish Christinas tale, or an old wives' fable, worthy to be laughed at and scorned of every man that hath either wit or godly judgment? Yet more foolish, erroneous, and superstitious things be read in the feasts of St Blase, St Valentine, St Margaret, St Peter, of the Visitation of Our Lady, and the Conception, of the Transfiguration of Christ, and in the feast of Corpus Christi, and a great number mo : whereof some be most vain fables, some very super stitious, some directly against God's word, and the laws of this realm ; and all together be full of error and superstition. But as Christ commonly excused the simple people because of their ignorance, and justly condemned the scribes and Pharisees, which by their crafty persuasions led the people out of the right way; so I think not you so much to be blamed as those Pharisees and papistical priests, which, abusing your sim plicity, caused you to ask you wist not what, desiring rather to drink of the dregs of corrupt error, which you knew not, than of the pure and sweet wine of God's word, which you may and ought to understand. But now have I sufficiently spoke21 of your eighth article : I will go forward unto the ninth.
 
-YOUR NINTH ARTICLE IS THIS :
+## Your Ninth Article Is This
 
 " We will have every preacher in his sermon, and every priest at the mass22, pray specially by name for the souls in purgatory, as our forefathers did."
 
@@ -523,9 +522,9 @@ And furthermore, seeing that the scriptures so often and so diligently teach us,
 
 [7 This commandment, Ibid.] [8 The prisoners, Ibid.] [9 To all other, Ibid.] I10 In no place maketh mention, Ibid.] [n So MS. C. C. C. C.— Strype, But as for such.]
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
-YOUR TENTH ARTICLE IS THIS:
+## Your Tenth Article Is This
 
 " We will have the bible, and all books of scripture in English, to be called in again. For we be informed that otherwise the clergy shall not of long time confound the heretics."
 
@@ -533,7 +532,7 @@ Alas ! it grievoth me to hear your articles ; and much I rue and lament your ign
 
 Although you savour so little of godliness that you list not to read his word your selves, you ought not to be so malicious and envious to let them that be more godly, and would gladly read it to their comfort and edification. And if there be an English heretic, how will you have him confuted but in English? and whereby else but by God's word ? Then it folio weth, that to confute English heretics we must needs have God's word in English, as all other nations have it in their own native language. St Paul to the Ephesians teacheth all men, as well laymen as priests, to arm themselves, and to fight against all adversaries with God's word ; without the which we cannot be able to prevail, neither against subtle heretics, puissant devils, this deceitful world, nor our own sinful flesh. And therefore, until God's word came to light, the bishop of Rome, under the prince of darkness, reigned quietly in the world, and his heresies were received and allowed for the true catholic faith. And it can none otherwise be but that heresies must reign where the light of God's word driveth not away our darkness.
 
-YOUR ELEVENTH ARTICLE IS THIS:
+## Your Eleventh Article Is This
 
 " We will have Dr Moreman and Dr Crispin17, which hold our opinions, to be safely sent unto us; and to them we require the king's majesty to give some certain livings, to preach among us our catholic faith."
 
@@ -551,7 +550,7 @@ YOUR ELEVENTH ARTICLE IS THIS:
 
 If you be of Moreman's and Crispin's faith, I like you much the worse. For " like lettuce, like lips." And to declare you plainly the qualities of Crispin and Moreman, and how unmeet men they be to be your teachers, they be persons very ignorant in God's word, and yet thereto very wilful, crafty, and full of dissimulation. For if they were profoundly learned, and of sincere judgments, as they be not, they might be godly teachers of you. Or if they were not toto wilful, and standing wholly in their own con ceits, they might learn and be taught of others1. But now they be so wilful that they will not learn, and so ignorant that they cannot teach, and so full of craft and hypocrisy that they be able to deceive you all, and to lead you into error after themselves. So that if you ask them, you ask your own poison. Now if a man were in such a sick ness that he longed for poison, (as many diseases desire things most noyful unto them,) yet it were not the part of a good physician to give it unto them. No more is it the office of a most godly prince to give you such teachers (although you long never so sore for them) as he knoweth would corrupt you, feeding you rather with sour and unwholesome leaven of Romish pharisaical doctrine, than with the sweet, pure, and whole some bread of God's heavenly word. And where you would have God's word in English destroyed, and Crispin and Moreman delivered unto you, you do even as the people of the Jews did ; which cried out that Christ might be crucified, and that Barabbas, the strong thief, might be delivered unto them.
 
-YOUR TWELFTH ARTICLE IS THIS:
+## Your Twelfth Article Is This
 
 " We think it very meet, because the lord cardinal Pole is of the king's blood2, that Tie should not3 only have his pardon, but also be sent for to Rome, and promoted to be of the Mny's council."
 
@@ -567,7 +566,7 @@ Lond. 1583. Burnet's Hist, of Reformat. Vol. II. pp. 529, 532, Ed. Oxon. 1829.]
 
 [4 The book is entitled by Strype and Collier, " De Unione Ecclesiastica," by Burnet, " De Unitate Ecclesiastica," and was written against Henry's divorce from Queen Katherine, and his assuming the supremacy. It was completed in March, 1535, but not published till twelve months afterwards. Vid. Collier and Burnet, ut supra ; and Strype's Memorials of Abp. Cranmer, Vol. I. pp. 63, 4. Todd's Life of Abp. Cranmer, Vol. II. p. 132. Ed. Lond. 1831.] extend all his wits and eloquence in that book to persuade the bishop of Rome, the emperor, the French king, and all other princes, to invade this realm by force. And sure I am, that if you have him, you must have the bishop of Rome also : for the cardinal cannot be a subject, but where the other is his head. This sufficeth briefly to this article.
 
-YOUR THIRTEENTH ARTICLE IS THIS:
+## Your Thirteenth Article Is This
 
 " We will that no gentleman sJiall have any mo servants than one to wait upon him, except he may dispend one hundred mark land. And for every hundred mark we think it reasonable he should have a man."
 
@@ -579,7 +578,7 @@ For was it ever seen in any country since the world began, that the commons did 
 
 P Of an hundred pounds land, MS. C.C.C.C.] I \7 To turn upso down, Ibid. J f 6 But here it seemeth, Ibid.] [8 Will you have now, Ibid.]
 
-YOUR FOURTEENTH ARTICLE IS THIS:
+## Your Fourteenth Article Is This
 
 " We will that the lialf part of the abbey-lands and chantry-lands in every man's possession, hoivever he came by them, be given again to two places, where two of the chief abbeys were1 within every county; where such half part shall be taken out, and tliere to be estdblislied a place for devout persons, which shall pray for the king and the commonwealth. And to the same we ivill have all the alms of the church-box given for these seven years"
 
@@ -587,7 +586,7 @@ At the beginning you pretended that you meant nothing against the king's majesty
 
 It were more fit for you2 to make humble supplication upon your knees to the king's majesty, desiring him not only to forgive you this fault, but also that the same may never be put in chronicle nor writing ; and that neither shew nor mention may remain to your posterity, that ever subjects were so unkind to their prince, and so ungracious towards God, that, contrary to God's word, they should so use3 themselves against their sovereign lord and king. And this I assure you of, that if all the whole world should pray for you until doomsday, their prayers should no more avail you than they should avail the devils in hell, if they prayed for them, unless you be so penitent and sorry for your disobedience, that you will ever after, so long as you live, study to redub4 and recompense the same with all true and faithful obedience, not only yourselves, but also procuring all other, so much as lieth in you ; and so much detesting such uproars and seditions, that if you see any man towards any such things, you will to your power resist him, and open him unto such governors and rulers as may straightway6 repress the same. As for your last article, thanks be to God, it needeth not to be answered, which is this.
 
-YOUR LAST ARTICLE IS THIS:
+## Your Last Article Is This
 
 For the particular griefs of our country, we will have them so ordered, as Humphry Arundel and Henry Bray, the Icing's mayor of Bodman, shall inform the king's majesty, if they may have safe conduct under the Icing's great seal to pass and repass with an lierald ofarmsQ."
 
@@ -601,7 +600,7 @@ For the particular griefs of our country, we will have them so ordered, as Humph
 
 [5 As may straightways, C. C. C. C. MS.] [6 "Humphry Arundel, the leader of the ten thousand Devonshire rebels, was of good family, and governor of St Michael's Mount. He was sent
 
-OF THE REBELS, DEVON.
+## Of the Rebels, Devon
 
 Who ever heard such arrogancy in subjects, to require and will of their princes, that their own particular causes may be ordered, neither according to reason, nor the laws of this realm, but according to the information of two most heinous traitors ? "Was it ever heard before this time, that an information should be a judgment, although the informer were of never so great credit ? and will you have suffice the information of two villainous papistical traitors? You will deprive the king of his lands7 pertaining to his crown, and other men of their just possessions and inheritance, and judge your own causes as you list yourselves. And what can you be called then but most wicked judges, and most errant traitors ? except only ignorance or force may excuse you ; that either you were constrained by your captains 8 against your wills, or deceived by blind priests and other crafty per suaders, to ask you wist not what. How much then ought you to detest and abhor such men hereafter, and to beware of all such like, so long as you live; and to give most humble and hearty thanks unto God, who hath made an end of this article, and brought Arundel and Bray to that they have deserved ; that is, perpetual shame, confusion, and death ! Yet I beseech God so to extend his grace unto them, that they may die well which have lived ill. Amen.
 

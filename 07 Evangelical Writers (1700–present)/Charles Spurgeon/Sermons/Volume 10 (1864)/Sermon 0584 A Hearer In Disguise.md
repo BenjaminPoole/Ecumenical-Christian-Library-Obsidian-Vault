@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # A Hearer In Disguise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 584
 
-DELIVERED ON SUNDAY EVENING, JULY 31, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Evening, July 31, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > 1 Kings 14:6.
 
@@ -67,7 +66,7 @@ There is a third point—this woman would not have come but that her husband sen
 
 Did you not even profess faith in Christ? Why, some of you were very busy at revival meetings trying to bring others to the Savior. But your religion was like smoke out of the chimney—it has all blown away. Like early mist it was soon scattered when the sun had risen. Yet the remembrance of these things sticks by you now. You cannot help it—you feel there must be something in religion. The old stings which were in your conscience have not been quite extracted. Therefore at the present moment you are quite willing to listen to the Word—perhaps even hoping that it may come with true power now and that you may, after all, be saved!
 
-I wish I could wake the echoes of the slumbering consciences of some of you! O that I could recall the days of your youth—the times of your boyhood and girlhood—when you went up to the assembly of the saints to keep holy day! Those things you cannot quite forget. I pray that such remembrances may often turn your feet towards the place of wor- ship. We have brought out three points of character—they were persons of no piety. In trouble they sought the Prophet. And they had confidence in him because they had heard him preach before.
+I wish I could wake the echoes of the slumbering consciences of some of you! O that I could recall the days of your youth—the times of your boyhood and girlhood—when you went up to the assembly of the saints to keep holy day! Those things you cannot quite forget. I pray that such remembrances may often turn your feet towards the place of wor-ship. We have brought out three points of character—they were persons of no piety. In trouble they sought the Prophet. And they had confidence in him because they had heard him preach before.
 
 But there is one more point—they had one godly member of their family and that brought them to see the Prophet. Their child was sick and ill and it was that which led them to enquire at the hands of the Lord. I hope there is no family here which has the misfortune to be without a Believer in it. You, Man, have no fear of God. But strange to say, the Lord has taken one out of your family to be a witness for Him. That daughter of yours, you sometimes jeer at her, but you know you value her! You used to send her to the Sunday school just to get rid of her, but the Lord met with her. And what a comfort she has been to you! How glad she has made your heart, though you do not tell her so!
 
@@ -140,7 +139,6 @@ I have heavy tidings for some of you. I give you warning to set your house in or
 By the wrath of God and by the love of God—by your own soul and by the value of it—by Heaven and its joys, which you will lose! By Hell and its torments, which you must endure! By the blood of Jesus! By the groans and sweat of that Redeemer who delights to receive sinners and who declares that any who come to Him He will in nowise cast out, I beseech you, as your Brother and your friend, fly, fly, fly to Jesus!
 
 May the Lord help you to trust Him now. There, just as you are, flat before the Cross, Sinner—no stopping, no waiting, no preparing—come to Jesus in all your sin—all black and filthy, just as you are! "Mercy's gate is never shut, Jesus' heart is never hard." His blood shall never lose its power. Do you trust Him? Trust Him! Trust Him and we will meet in Heaven to praise His name, world without end. Amen.
-
 
 ---
 [[Sermon 0583 The Lamb—The Light|← #583]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0585 A Mystery! Saints Sorrowing and Jesus Glad!|#585 →]]

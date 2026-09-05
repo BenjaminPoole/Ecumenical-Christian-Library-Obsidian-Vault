@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 104. Leviticus 26:3-13
-
-**Leviticus 26**
 
 **3.** If ye walk in my statutes, and keep my commandments, and do them;
 
@@ -38,7 +35,7 @@ tags:
 
 **13.** I *am* the Lord your God, which brought you forth out of the land of Egypt, that ye should not be their bond-men; and I have broken the bands of your yoke, and made you go upright.
 
-**ITS REPETITION**
+## **Its Repetition**
 
 **3.** *If ye walk in my statutes*. We have now to deal with two remarkable passages, in which he professedly treats of the rewards which the servants of God may expect, and of the punishments which await the transgressors. I have indeed already observed, that whatever God promises us on the condition of our walking in His commandments would be ineffectual if He should be extreme in examining our works. Hence it arises that we must renounce all the compacts of the Law, if we desire to obtain favor with God. But since, however defective the works of believers may be, they are nevertheless pleasing to God through the intervention of pardon, hence also the efficacy of the promises depends, viz., when the strict condition of the law is moderated. Whilst, therefore, they reach forward and strive, reward is given to their efforts although imperfect, exactly as if they had fully discharged their duty; for, since their deficiencies are put out of sight by faith, God honors with the title of reward what He gratuitously bestows upon them. Consequently, “to walk in the commandments of God,” is not precisely equivalent to performing whatever the Law demands; but in this expression is included the indulgence with which God regards His children and pardons their faults. The promise, therefore, is not without fruit as respects believers, whilst they endeavor to consecrate themselves to God, although they are still far from perfection; according to the teaching of the Prophet, “I will spare them as a man spareth his own son that serveth him,” (Malachi 3:17;) as much as to say, that their obedience would not be acceptable to Him because it was deserving, but because He visits it with His paternal favor. Whence it appears how foolish is the pride of those who imagine that they make God their debtor, as if according to His agreement.
 

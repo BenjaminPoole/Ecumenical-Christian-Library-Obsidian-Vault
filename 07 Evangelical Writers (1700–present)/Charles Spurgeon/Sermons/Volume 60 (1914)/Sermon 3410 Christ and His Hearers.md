@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Christ and His Hearers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3410
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Then drew near unto Him all the publicans and sinners to hear Him, and the Pharisees and Scribes murmured, saying, This Man receives sinners and eats with them." Luke 15:1,2.
 
@@ -29,7 +26,7 @@ Having thus introduced to you the Pharisees, the publicans and the sinners, let 
 
 First, then, it seems that when Christ preached, He was surrounded by a number of persons of very loose character, and others of the lowest calling who pressed to Him to hear Him.
 
-I. WHY DID CHRIST'S HEARERS COME?
+## I. Why DID Christ's Hearers Come?
 
 They were genuine hearers—it was a bona fide audience. I mean by that, that they were not like the crowds who followed Christ up the mountain—who followed not to hear Him, but to eat of the loaves and the fishes. These publicans and sinners were not thinking of the loaves and fishes. They were none of those who, like the old people in some parishes,go to Church in order to get the loaf of bread on the Sunday morning. They were real, bona fide hearers, who really went to hear. They were a genuine, earnest, and honest audience—and they pressed around Him to listen to Him. Why did they do this?
 
@@ -53,7 +50,7 @@ Now, my dear Hearers, I believe that if you would tell me your characters, I cou
 
 But we cannot linger, and must pass on, now, to the second point—
 
-II. WHAT IS THERE IN THE GOSPEL OF CHRIST THAT DOES NOT ATTRACT SOME OF US, BUT OUGHT TO ATTRACT US ALL?
+## II. What Is There in the Gospel of Christ that Does Not Attract Some of Us, but Ought to Attract Us All?
 
 Very briefly, there is this in the Gospel that attracts my soul and I will speak for others. Ever since we fell out with God through sin, the thought of God has been dreadful to us. We have been afraid of Him. But Jesus Christ is God and He has taken upon Himself our manhood. And now He tells us that we may come to God through Him—in fact, that if we come to Him, when we have seen Him, we have seen the Father! Now, as I want to be one with God, and yet shudder at the thought of coming to Him, my soul burns with fervent affection towards Christ! And when I see that I can come to God so safely and so sweetly by coming through Him, that attracts me.
 
@@ -67,7 +64,7 @@ And then oftentimes the fear comes up to every awakened man—"Shall I hold on? 
 
 My Hearer, if you have never had Christ, do you not desire Him? Man, if Christ is yours, Heaven is yours. Man, if you believes in Christ, this night, your transgressions shall be forgiven you! You shall become a child of God, an heir of immorality! Do you not need a Savior? Will you not ask for one? Oh, yield you, yield you now to Him who was given for you, who round you now, the cords of His love would cast, binding you fast to His altar! God grant in His Infinite Mercy that the attractions of the Gospel may be known to us all! And now, in the last place—
 
-III. WHAT CAME OF IT?
+## III. What Came of It?
 
 Those who were attracted first to hear were, according to the second verse, still further blessed. The Pharisees said, not—"This Man preaches to sinners," but, "This Man receives sinners and eats with them." It is a great blessing when the Gospel is preached to sinners, but oh, it is a far greater blessing when sinners are received, when sinners come to eat with Christ. The Pharisees left out what they ought to have mentioned, that when Christ received sinners, He did not leave them sinners. It is no disgrace to say of a certain doctor in London, "Why, it is said that that doctor has had some of the most horrible cases in London. I saw one man, there, with a dreadful cancer. Another was taken in that was subject to epilepsy. I saw one with a leprosy taken into that physician's house." Is that any disgrace to the physician? Why, Sir, the thing is how did they come out? What were they after his skill had been exerted upon them? What they were when they went into the hospital is no disgrace to the hospital—it may even reflect honor upon the wisdom of those who exercised their skill within it. So that Christ receives sinners is true, but He first makes them penitent sinners! He makes them believing sinners! He changes their nature! He turns the lion into a lamb, the raven into a dove—and then when He has done this, when He has washed away their sins and changed their natures—He receives them to be His friends! None are so near to Christ as blood-washed sinners! He receives them to be His disciples! None could sit at His feet but those who first have been washed in His blood. Then He receives them as His servants. None can serve Him who have not first been served by Him. Then He receives these sinners to be His advocates. He sends them out to preach His Gospel, but He never sends any out to preach the Gospel unless, first of all, they have received Him into their hearts as the Gospel of their salvation. "This Man receives sinners."
 
@@ -79,7 +76,7 @@ Many years ago the shaft of a mine was blocked up by some falling earth, and the
 
 Now, sometimes when I can look straight up to my Lord, I know that I am His child. I do tonight, and I can rejoice to go up and down the shaft straight ahead. But, Brothers and Sisters, if ever you cannot do that, there is an old working, there is an old way, the way that all the saints have gone. You will have to go on your hands and knees. You will have to go on all fours. You will find it flooded with tears of repentance, but never mind, the devil himself cannot block up that way. If you cannot come as a saint, come as a sinner! If you have got no Grace, you can get Grace. If you cannot come with a tender heart, come fora tender heart. If you cannot come with faith, come to get faith, for "this Man receives sinners and eats with them." May this Blessed Man come and eat with us tonight!
 
-EXPOSITION BY C. H. SPURGEON: LUKE 15:11-32.
+## Exposition by C. H. Spurgeon: Luke 15:11-32
 
 Verses 11-13. And He said, A certain man had two sons: And the younger of them said to his father, Father, give me theportion of goods that falls to me. And he divided unto them his living. And not many days after, the younger son gathered all together and took his journey into a far country, and there wasted his substance with riotous living. It was an act of ingratitude to leave his father at all—an act of extreme folly to turn his father's goods to ill-account.
 
@@ -104,7 +101,6 @@ Verses 11-13. And He said, A certain man had two sons: And the younger of them s
 29\. Andhe, answering, said to his father, Lo, these many years do Iserve you, neither transgressed I at any time your commandment: and yet you never gave me a kid, that I might make merry with my friends. I know the brother. He says, "I have been a consistent Christian. I have been diligent in the service of God. I have abounded in prayer and yet all the daylong have I been plagued and chastened every morning. I do not get much joy—I have such a sight and sense of temptation and sin that I am generally low spirited. I seldom get a drop of full assurance. I never get a kid given me, that I might make merry with my friends." Those who are under the Law never do make merry. You never knew a man yet that was trying to save himself by keeping the Commandments of God that could dare to make merry. No, they have to draw long faces, and well they may, for they have a long task before them! They put on a garb of sadness, being of a sad countenance, as the hypocrites are!
 
 31, 32 But as soon as this, your son, was come, who has devoured your living with harlots, you have killed for him the fatted calf And he said, to him, Son, you are always with me, and all that I have is yours. It was right that we should make merry and be glad, for this, your brother, was dead and is alive again! He was lost and is found. And so, dear Friends, there is more joy over the prodigal when he returns, than over the man who thinks he never has been astray!
-
 
 ---
 [[Sermon 3409 Seeking Richly Rewarded|← #3409]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3411 Joining the Church|#3411 →]]

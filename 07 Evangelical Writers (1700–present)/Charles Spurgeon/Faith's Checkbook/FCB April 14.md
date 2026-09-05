@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 14
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**MY CHOICE IS HIS CHOICE**
+## **My Choice Is His Choice**
 
 > He shall choose our inheritance for us" Ps. 47:4
 
@@ -23,7 +22,6 @@ Our enemies would allot us a very dreary portion, but we are not left in their h
 Being conscious of our own folly, we would not desire to rule our own destinies. We feel safer and more at ease when the Lord steers our vessel than we could possibly be if we could direct it according to our own judgment. Joyfully we leave the painful present and the unknown future with our Father, our Saviour, our Comforter.
 
 O my soul, this day lay down thy wishes at Jesus feet! If thou hast of late been somewhat wayward and willful, eager to be and to do after thine own mind, now dismiss thy foolish self, and place the reins in the Lord's hands. Say, "He shall choose." If others dispute the sovereignty of the Lord, and glory in the freewill of man, do thou answer them, "He shall choose for me." It is my freest choice to let Him choose. As a free agent, I elect that He should have absolute sway.
-
 
 ---
 [[FCB April 13|← April 13]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 15|April 15 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Gospel Sermon To Outsiders
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1389
 
-DELIVERED ON LORD'S-DAY EVENING, AUGUST 19, 1877,.
+*Delivered on Lord's-Day Evening, August 19, 1877*
 
 > "Be of good comfort, rise; He calls you." Mark 10:49.
 
@@ -132,7 +131,6 @@ sin is worth preserving on any account whatever—let all your old pleasures and
 You know what Cortez did when he went to Mexico and intended to conquer it? The soldiers that were with him were few and dispirited. The Mexicans were many and the enterprise very dangerous. The soldiers would have gone back to Spain, but Cortez took two or three chosen heroes with him and went down to the seaside and destroyed up all his ships. "Now," he said, we must conquer or die! We cannot go back." Burn your boats! Get rid of all thoughts of return! Leave sin and abhor it! God help you to do it, for this is His Gospel—"Repent and be converted, every one of you." Forsake sin and believe in Jesus Christ! And let the boats be burned, making this your resolution—that there shall be no going back to sin!
 
 Thus have I told you what should be done, but God alone can make you do it. We can lead a horse to the water, but we cannot make him drink—so we can set the plan of salvation before men, but we cannot induce them to accept it, except only as, in answer to prayer, the eternal Spirit moves in the souls of men. He is moving upon you now! We are conscious that He is brooding over some of you at this hour! Do not resist Him! Yield yourselves wholly to His monitions. As the bulrushes in the stream bow their heads to the passing breeze, so bow before the motions of the ever-blessed Spirit! May He help you to do so, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1388 Jesus Christ Himself|← #1388]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1390 Brief, Silent Prayer|#1390 →]]

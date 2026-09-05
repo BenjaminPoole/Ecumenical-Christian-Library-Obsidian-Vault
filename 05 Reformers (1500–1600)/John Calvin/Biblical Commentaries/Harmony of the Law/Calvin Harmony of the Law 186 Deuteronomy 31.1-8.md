@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 186. Deuteronomy 31:1-8
-
-**Deuteronomy 31**
 
 **1.** And Moses went and spake these words unto all Israel.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Righteous Father Known and Loved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1378
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 14, 1877,.
+*Delivered on Lord's-Day Morning, October 14, 1877*
 
 > "O righteous Father, the world has not known You. But Ihave known You, and these have known that You have sent Me. And Ihave declared unto them Your name, and will declare it; that the love with which You have loved Me may be in them, and I in them." John 17:25,26.
 
@@ -126,7 +125,6 @@ But when the text says that Christ is in His people, it means, besides the indwe
 You are in Him as a member is in the body and He is in you as the life is in all the members. We know that Jesus quickens us and because He lives, we live, also. From now on we are one with Christ! It must be so, because if God did not see us in Christ, He could not regard us with complacency or, in other words, love us as He loves His Son! If He did not, in looking upon a man, see the love and the Nature of His Only Begotten in Him, how could He love him? He views us as part and parcel of His own dear Son and so His delight is in us!
 
 Beloved, the Lord sees, in addition to all this, something of a likeness to Christ in us, worked by His Spirit, for if Jesus is, indeed, in us, we shall grow to be like He and shall manifest somewhat of His spirit and Nature. The more we have of likeness to Jesus, the more will it be evident that the love of God is in us and is working in us, "to will and to do of His own good pleasure." May God grant that what I have spoken so feebly may, nevertheless, be sweetly enjoyed by you, for I am persuaded that in the text there lies many a banquet for saints that hunger and thirst after righteousness— and a depth of mystical teaching which it shall be well for you to search into with all your powers. God bless you, my Beloved, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1377 Taking Hold of God|← #1377]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1379 The Magnanimity of God|#1379 →]]

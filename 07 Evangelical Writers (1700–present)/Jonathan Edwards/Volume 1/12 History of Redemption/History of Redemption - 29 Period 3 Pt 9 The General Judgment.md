@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART IX.
 
-THE GENERAL JUDGEMENT
+*The General Judgement*
 
 Thus I have shown how the success of Christ’s redemption has been accomplished during the continuance of the christian church under the means of grace. We have seen what great revolutions there have been, and are to be, during this space of time; how the great wheels of Providence have gone round for the accomplishment of that kind of success of Christ’s purchase, which consists in the bestowment of grace on the elect. In the prosecution of the subject, we are come to the time when all the wheels have gone round; the course of things in this state of it is finished, and all things are ripe for Christ’s coming to judgment.
 

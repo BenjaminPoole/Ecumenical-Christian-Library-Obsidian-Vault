@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Christ Loosens From Infirmities
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3195
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold, there was a woman which hada spirit ofinfirmity eighteen years, and was bent over, and could in no wise lift herselfup. And when Jesus saw her, He called her to Him and said unto her, Woman, you are loosened from your infirmity And He laid His hands on her: and immediately she was made straight, and glorified God." Luke 13:11-13.
 
@@ -121,7 +118,7 @@ Hangs my helpless soul on Thee." Look to the wounds of Christ, they will heal yo
 
 May God add His blessing and bring many of His bondaged ones out of prison! This shall be to His eternal praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 13:1-13.
+## Exposition by C. H. Spurgeon: Luke 13:1-13
 
 Verse 1. There were present at that season some that told Him of the Galileans, whose blood Pilate had mingled with their sacrifices. This was a matter of common town talk, so of course they brought the news to Jesus. Notice how wisely He used this shameful incident. You and I too often hear the news of what is happening, but we learn nothing from it—our Savior's gracious mind turned everything to good account—He was like the bee that gathers honey from every flower.
 
@@ -154,7 +151,6 @@ was speaking about the fruitless fig tree, I feel pretty certain that she said "
 12\. And when Jesus sawher, He calledher to Him, andsaid unto her, Woman, you are loosened from your infirmity. Oh, what glad news this must have been to her! How it must have thrilled her whole body! As she learned that she was to be restored to an upright position, what delight must have filled her heart!
 
 13\. And He laid His hands on her: and immediately she was made straight, and glorified God. What expressions of fervent gratitude! What notes of glad exultation came from that woman's joyful lips! Surely even cherubim and seraphim could not more heartily and earnestly praise God than she did when "she was made straight and glorified God."
-
 
 ---
 [[Sermon 3194 A Look and Its Lessons|← #3194]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3196 Noah's Eminence|#3196 →]]

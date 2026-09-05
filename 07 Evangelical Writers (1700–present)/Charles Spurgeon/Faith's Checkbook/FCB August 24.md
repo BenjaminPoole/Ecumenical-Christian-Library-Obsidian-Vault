@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD ABOVE HUMAN PHILOSOPHY**
+## **God Above Human Philosophy**
 
 > For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent" I Cor. 1:19
 
@@ -23,7 +22,6 @@ This verse is a threatening so far as the worldly-wise are concerned, but to the
 We cannot destroy the wisdom of the wise, nor need we attempt it, for the work is in far better hands. The Lord Himself says, "I will," and He never resolves in vain. Twice does He in this verse declare His purpose, and we may rest assured that He will not turn aside from it.
 
 What clean work the Lord makes of philosophy and "modern thought" when He puts His hand to it! He brings the fine appearance down to nothing; He utterly destroys the wood, hay, and stubble. It is written that so it shall be, and so shall it be. Lord, make short work of it. Amen, and Amen.
-
 
 ---
 [[FCB August 23|← August 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 25|August 25 →]]

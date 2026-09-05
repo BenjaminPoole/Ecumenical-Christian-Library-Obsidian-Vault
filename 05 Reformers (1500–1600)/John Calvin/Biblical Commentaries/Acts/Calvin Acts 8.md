@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 In this history we may first see the state of the godly in this world, to wit, that they are like sheep appointed to be slain, as it is in the Psalm, (Psalm 44:22;) and especially when the Lord letteth loose the bridle to his enemies, that they may put that cruelty in execution which they have in mind conceived. Secondly, here is set down the end of persecutions, to wit, that they are so far from breaking off the course of the gospel, that they are rather made helps to further the same through the wonderful counsel of God. Like as it was a manifest miracle, that the scattering abroad, mentioned by Luke, gathered many unto the unity of faith who were estranged from God before. Now, let us consider every thing in order.
 

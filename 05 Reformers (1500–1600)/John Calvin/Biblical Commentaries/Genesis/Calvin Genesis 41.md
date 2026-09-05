@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 41
 
-**CHAPTER 41.**
+***Chapter 41.***
 
 ## Genesis 41:1-57
 

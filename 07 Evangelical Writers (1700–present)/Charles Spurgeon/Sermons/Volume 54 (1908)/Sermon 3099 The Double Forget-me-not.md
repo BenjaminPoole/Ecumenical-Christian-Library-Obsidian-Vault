@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Double Forget-me-not
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3099
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This do in remembrance of Me." 1 Corinthians 11:24.
 
@@ -91,7 +88,7 @@ How sorry I am that there are many here who must not come to this Table, for the
 
 died without love to Him and trust in Him! God save you! Believe in Jesus now and you shall be saved now. Cast yourselves upon Him and He will not cast you away. So may He bless you, for His dear name's sake! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK 15:1-41; LUKE 8:1-3.
+## Exposition by C. H. Spurgeon: Mark 15:1-41; Luke 8:1-3
 
 Let us read again what we have often read before, that saddest of all stories which, nevertheless, is the fountain of the highest gladness—the story of our Savior's death, as recorded by Mark.
 
@@ -115,7 +112,7 @@ Mark 15:1. And straightway in the morning the chief priests held a consultation 
 
 21\. And they compelled one Simon, a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear His Cross.Christ could not bear it Himself. The soldiers saw that He was faint and weary, so they laid the Cross, or at least one end of it, on Simon's shoulders. [See Sermon #1853, Volume 31—up from the country and pressed into
 
-SERVICE]
+## Service]
 
 22\. And they brought Him. Here the word almost implies that they lifted Him and carried Him, for His faintness had increased. They "led Him out to crucify Him," but now they bear Him.
 
@@ -142,7 +139,6 @@ ghost, He said, Truly this Man was the Son of God! There were also women looking
 Luke 8:1-3. Andit came topass afterward, that He went throughout every city and village, preaching andstrewing the glad tidings of the Kingdom of God: and the twelve were with Him. And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils, and Joanna the wife of Chuza, Herod's steward, and Susanna, and many others, which ministered unto Him of their substance. The previous Chapter tells how the woman in Simon's house manifested her love to the Savior. She showed her love in one way, and in a very special way. But there were others who had similar affection for Him, who showed it in other ways. What is right for one person to do might not be a wise or right thing for everybody to do. Christ did not need His feet washed with tears every minute in the day, nor to have them anointed with even precious ointment very often. There are some Christians who ought to do and I trust will do, some extraordinary thing for Christ—something which shall need no apology from them because they are extraordinary persons, who used to be extraordinary sinners—and it would not be right for them to run in the ruts made by others—they ought to strike out a distinct pathway for themselves. Happy is the Church that has any such members! Happier still if it has many such. But there are others who love Christ just as truly, yet who must be content to show their love to Him in some other and apparently more common but, perhaps, in the long run, more useful way. These gracious women ministered to Christ of their substance. He was only a poor itinerant Preacher who needed daily sustenance. Some people say that every preacher ought to earn his own bread by trade or profession and preach freely, yet the Lord Jesus Christ, the Prince of Preachers, did not do this.
 
 "Oh, but Paul did!" Yes, Paul attained to a very high honor. But we may be perfectly satisfied, as the servants of the Lord Jesus Christ, to attain to as high a degree of honor as our Master did and, inasmuch as He never did any carpentering after He began to preach, but gave His whole soul and being up to the work of preaching, He was fed and cared for by the kindness of these godly women who were glad to minister unto Him of their substance. "The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he be as his master, and the servant as his lord." So, as ministers of Christ, we need not be ashamed to minister spiritual things to the people and to receive of their carnal things in return. These women, though they did not wash Christ's feet with their tears, nor anoint them with precious ointment, did well, for they "ministered unto Him of their substance." Let us all do for Him all that we can.
-
 
 ---
 [[Sermon 3098 Needless Fears|← #3098]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3100 Homage Offered to the Great King|#3100 →]]

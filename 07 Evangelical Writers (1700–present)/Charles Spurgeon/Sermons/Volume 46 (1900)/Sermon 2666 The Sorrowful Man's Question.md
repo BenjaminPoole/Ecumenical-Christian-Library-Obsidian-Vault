@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Sorrowful Man's Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2666
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Why is light given to a man whose way is hidden, and whom God has hedged in?" Job 3:23.
 
@@ -132,7 +129,6 @@ Finally, if I cannot tell you why all this trouble falls to your lot, I know it 
 "Thepath of sorrow, and that path alone, Leads to the land where sorrow is unknown." You can see the tracks of the martyrs along the road you are journeying! Better still, you can see the footprints of the Son of God, your Lord and Savior! Therefore, you may rest assured that you are on the right road, so press bravely forward on it and, in due time, you will come to that place of which Job said, "There the wicked cease from troubling; and there the weary are at rest." And you shall be forever without fault before the Throne of God!
 
 May He grant this happy portion to you all, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2665 A Day to Be Remembered|← #2665]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2667 A Pressed Man Yielding to Christ|#2667 →]]

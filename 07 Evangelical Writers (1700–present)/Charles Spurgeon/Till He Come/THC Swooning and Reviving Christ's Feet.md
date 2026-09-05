@@ -8,12 +8,9 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Swooning and Reviving Christ's Feet
 
 *Till He Come* — Charles H. Spurgeon
-
-## SWOONING AND REVIVING CHRIST’S FEET.
 
 ### AN ADDRESS DELIVERED AT THE CLOSE OF ONE OF THE PASTORS’ COLLEGE CONFERENCES. “And when I saw Him, I fell at His feet as dead. And He laid His right hand upon me saying unto me, Fear not; I am the first and the last: I am He that liveth, and was dead; and, behold. I am alive for evermore, Amen; and have the keys of hell and of death.”—Revelation i. 17, 18.
 
@@ -60,7 +57,6 @@ Read on,—“and was dead.” “Therefore, though die, you shall go no lower t
 Read once more,—“and have the keys of hell and of death.” As I thought over these words, I marvelled for the poverty and meanness of the cause of evil; for the prince of it, the devil, has not the keys of his own house; he cannot be trusted with them; they are swinging at the girdle of Christ. Surely I shall never go to hell, for my Lord Jesus turned the key against my entrance long ago. The doors of hell were locked for me When He died on my behalf. I saw Him lock the door, and, what is more, I saw Him hang the key at His girdle, and there it is to this day. Christ has the keys of hell; then, whenever He chooses, He can cage the devouring lion, and restrain his power for evil. Oh, that the day were come! It is coming, for the dragon hath great wrath, knowing that his time is short. Let us not go forth alone to battle with this dread adversary; let us tell his Conqueror of him, and entreat Him to shorten his chain. I admire the forcible words of a dying woman to one who asked her what she did when she was tempted by the devil on account of her sin. She replied, “The devil does not tempt me now; he came to me a little while ago, and he does not like me well enough to come again!” “Why not?” “Well, he went away because I said to him, Chosen, chosen!” “What did you mean by that?” “Do you not remember how it is said in the Scripture, ‘The Lord rebuke thee, O Satan; even the Lord that hath chosen Jerusalem rebuke thee’?” The aged woman’s text was well taken, and well does the enemy know the rebuke which it contains. When Joshua, the high priest, clothed in filthy garments, stood before the angel, Satan stood at his right hand to resist him, but he was silenced by being told of the election of God: “The Lord which hath chosen Jerusalem rebuke thee.” Ah, brethren, when Christ’s right hand is upon us, the evil one departs! He knows too well the weight of that right hand.
 
 Conclude the verse,—“and of death.” Our Lord has the keys of death, and this will be a joyful fact to us when our last hours arrive. If we say to Him, “Master, whither am I going?” He answers, “I have the key of death and the spirit world. Will we not reply, “We feel quite confident to go wherever Thou wilt lead us, O Lord”? We shall then pursue His track in His company. Our bodies shall descend into what men call a charnel-house, though it is really the unrobing-room of saints, the vestibule of heaven, the wardrobe of our dress where it shall be cleansed and perfected. We have a fit spiritual array for the interval, but we expect that our bodies shall rise again in the likeness of “the Lord from heaven.” What gainers we shall be when we shall take up the robes we laid aside, and find them so gloriously changed, and made fit for us to wear even in the presence of our Lord! So, if the worst fear that crosses you should be realized, and you should literally die at your Lord’s feet, there is no cause for dread, for no enemy can do you harm, since the divine right hand is pledged to deliver you to the end. Let us give the Well-beloved the most devout and fervent praise as we now partake of this regal festival. The King sitteth at His table, let our spikenard give forth its sweetest smell.
-
 
 ---
 [[THC The Sin-Bearer|← The Sin-Bearer]] · [[Till He Come|Till He Come Contents]] · [[THC C.H. Spurgeon's Communion Hymn|C.H. Spurgeon's Communion Hymn →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 20
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BY FAITH NOT FEELING**
+## **By Faith Not Feeling**
 
 > The just shall live by faith" Rom. 1:17
 
@@ -29,7 +28,6 @@ Intreat a pardon for His sake,
 And urge no other claim."
 
 To live by faith is a far surer and happier thing than to live by feelings or by works. The branch, by living in the vine, lives a better life than it would live by itself, even if it were possible for it to live at all apart from the stem. To live by clinging to Jesus, by deriving all from Him, is a sweet and sacred thing. If even the most just must live in this fashion, how much more must I who am a poor sinner! Lord, I believe. I must trust Thee wholly. What else can I do? Trusting Thee is my life. I feel it to be so. I will abide by this even to the end.
-
 
 ---
 [[FCB April 19|← April 19]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 21|April 21 →]]

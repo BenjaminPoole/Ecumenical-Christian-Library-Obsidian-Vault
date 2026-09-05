@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Three Precious Things
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 931
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 8, 1870,.
+*Delivered on Lord's-Day Morning, May 8, 1870*
 
 > "He is precious." 1 Peter 2:7.
 
@@ -164,7 +163,6 @@ Before his audience he was pouring forth his notes, and as he thought—holding 
 So when we preach up Jesus Christ, there will be some who will listen to us, and we perhaps think, "Now we shall surely win them," but ah, tomorrow's market bell—I will not say market bell—tomorrow's bell of sin, and bell of iniquity! The bell that rings to frivolities, and rings to transgressions—they will go after that. Anything that pleases the flesh will secure them. It may be there is one who has heard with unusual attention, and we begin to say, "This man has a nobler spirit." But then, perhaps, he has not yet felt the force of temptation, and when he feels it he will go, too.
 
 What urgent need there is for the Spirit of God to illuminate the dark judgments of the sons of men. May He do so. May He begin with you, dear Hearer, if up to now you have been blind. May He give you faith, and the promises, and Christ Jesus. It is my heart's deepest wish. The Lord grant it to you all, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0930 Away With Fear|← #930]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0932 How God Condemned Sin|#932 →]]

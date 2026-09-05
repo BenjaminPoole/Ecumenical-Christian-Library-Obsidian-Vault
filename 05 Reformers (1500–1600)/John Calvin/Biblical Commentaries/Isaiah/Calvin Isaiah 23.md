@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 23
 
-**CHAPTER 23**
+***Chapter 23***
 
 ## Isaiah 23:1-18
 

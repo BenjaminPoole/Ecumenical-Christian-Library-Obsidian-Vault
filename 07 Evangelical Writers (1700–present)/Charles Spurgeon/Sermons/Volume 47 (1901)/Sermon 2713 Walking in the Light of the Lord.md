@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Walking in the Light of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2713
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O house of Jacob, come and let us walk in the light of the LORD." Isaiah 2:5.
 
@@ -85,7 +82,7 @@ Once more, probably you are in the dark because you are afraid to die. Says one,
 
 Now come to this Communion Table in "the light of the Lord." Come that you may remember your Savior's death. Come saying, "He loved me and gave Himself for me. I am my Beloved's. His desire is toward me. I am coming to Him who has brought me into His banqueting house, and His banner over me is love." He says to each believing soul, "I have loved you with an everlasting love, therefore, with loving kindness have I drawn you." Come to the Table in the right spirit and this blessed ordinance will indeed prove to be a festival of love to your souls! God grant it, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH26
+## Exposition by C. H. Spurgeon: Isaiah 26
 
 Verse 1. In that day shall this song be sung in the land of Judah: We have a strong city; salvation will God appoint for walls and bulwarks. God is the great source of song. He "gives songs in the night." He can make the saddest heart to break forth into praise. One part of the prophecy concerning Christ's coming was, "Then shall the lame man leap as a hart, and the tongue of the dumb sing." The Lord might have caused us to utter nothing but groans if He had pleased. But, instead of doing so, He delights to fill our mouths with joyous songs! Let us from our heart sing this ancient song— "We have a strong city." The Church of God is a city which has a heavenly citizenship and other unique privileges—and it is wondrously protected, for the promise in this passage is now fulfilled—"salvation will God appoint for walls and bulwarks."
 
@@ -132,7 +129,6 @@ ished. When they sinned against God, they were exiled, but when the Lord returne
 20\. Come, my people, enter into your chambers, and shut your doors behind you. Enter into the secret Chambers of communion with your Lord where you shall be shut out from the world. Enter into the chambers of defense, where God will guard you. Enter into the chambers of devotion, where God shall meet with you.
 
 20, 21. Hide yourself, as it were, for a little moment until the indignation is over. For, behold, the LORD comes out of His place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
-
 
 ---
 [[Sermon 2712 Bonds Which Could Not Hold|← #2712]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2714 Those Who Desire|#2714 →]]

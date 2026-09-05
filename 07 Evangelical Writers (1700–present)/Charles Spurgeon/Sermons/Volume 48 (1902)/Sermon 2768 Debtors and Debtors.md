@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Debtors and Debtors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2768
-
-DELIVERED BY C. H. SPURGEON..
 
 > "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty." Luke 7:41.
 
@@ -101,7 +98,7 @@ Remember the solemn words of our Lord Jesus, Himself—"He that believes and is 
 
 O my dear Hearers, our text says that one of the debtors owed 500 pence and, surely, that is the man who has heard the Gospel and yet has refused it! It is you who have been coming to this place, or to other houses of prayer, and who have been warned, invited and entreated for months and years—I know not how long—to believe in Jesus. If such is the case with any of you, put yourself down, not as a 50-pence debtor, but as a 500-pence debtor! No, I think I must liken you to him who owed his master ten thousand talents. How can you ever repay it? There is no hope of your ever repaying it. You can have it all frankly and freely forgiven! If you go to Christ and plead perfect poverty, you shall then be set free at once through faith in His dear name! But if not, you must be delivered over to the keeper of the terrible prison of which I spoke to you, and you can never come out of it! God grant that it may not be so with any of you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 15:13-33.
+## Exposition by C. H. Spurgeon: Romans 15:13-33
 
 Verses 13-27. Now the God of hope fill you with all joy and peace in believing, that you may abound in hope, through the power of the Holy Spirit And I myself also am persuaded of you, my brethren, that you also are full of goodness, filled with all knowledge, able also to admonish one another Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the Grace that is given to me of God. That I should be the minister of Jesus Christ to the Gentiles, ministering the Gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit I have therefore reason to glory through Jesus Christ in those things which pertain to God. For I will not dare to speak of any of those things which Christ has not worked by me, to make the Gentiles obedient, by word and deed, through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the Gospel of Christ Yes, I have strived to preach the Gospel, not where Christ was named, lest I should build upon another man's foundation: but as it is written, To whom He was not spoken of, they shall see: and they that have not heard shall understand. For which cause also I have been much hindered from coming to you. But now having no more place in these parts, and having a great desire these many years to come unto you; whenever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way there by you, if first I be somewhat filled with your company. But no w I go unto Jerusalem to minister unto the saints. For it has pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem. It has pleased them verily; and their debtors they are. For these Achaeans and Macedonians had received the Gospel from the saints in Jerusalem. The Gentiles had been made partakers of their spiritual things, so it was their duty to minister to the poor Christian Jews in carnal things.
 
@@ -112,7 +109,6 @@ Verses 13-27. Now the God of hope fill you with all joy and peace in believing, 
 30, 31. Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, thatyou strive together with me in your prayers to God for me; that Imay be delivered from them in Judea that do not believe; and that my service which I have for Jerusalem may be accepted of the saints. For there were some saints in Jerusalem who were very narrow-minded and who hardly thought it right to accept anything from Gentiles. They had not got clear of their Jewish bonds and Paul was a little afraid lest what he was taking to them might not be acceptable, so he asked the Romans to pray about that matter. Is there anything about which Believers may not pray? If there are, then we have no right to have anything to do with it! Bring everything before God in prayer, for all right things may lawfully be prayed about. So Paul asked the Christians in Rome to pray about that matter of his journey to Jerusalem and also to pray for his return.
 
 32, 33. That I may come unto you with joy by the will of God, and may with you be refreshed. Now the God of peace be with you all Amen.
-
 
 ---
 [[Sermon 2767 Jesus in Gethsemane|← #2767]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2769 The Weakened Christ Strengthened|#2769 →]]

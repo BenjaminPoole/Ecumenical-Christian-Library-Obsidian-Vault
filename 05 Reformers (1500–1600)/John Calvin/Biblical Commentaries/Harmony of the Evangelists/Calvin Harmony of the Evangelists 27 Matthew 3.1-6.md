@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 27. Matthew 3:1-6;Mark 1:1-6;Luke 3:1-6
-
-**MATTHEW 3:1-6; MARK 1:1-6; LUKE 3:1-6**
 
 **1**. Now in those days John the Baptist comes, preaching in the wilderness of Judea, **2**. And saying, Repent: [^1] for the kingdom of heaven is at hand, **3**. For this is he, of whom it has been spoken by Isaiah the prophet, who says, The voice of one crying in the wilderness, Prepare the way of the Lord, make his paths straight. **4**. And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey. **5**. Then went out to him Jerusalem, and all Judea, and all the region round about Jordan. **6**. And were baptized in Jordan by him, confessing their sins.
 

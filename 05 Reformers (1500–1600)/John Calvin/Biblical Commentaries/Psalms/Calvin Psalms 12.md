@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 12
-
-**PSALM 12.**
 
 David, deploring the wretched and forlorn condition of his people, and the utter overthrow of good order, beseeches God to afford them speedy relief. Then, in order to comfort both himself and all the godly, after having mentioned God’s promise of assisting his people, he magnifies his faithfulness and constancy in performing his promises. From this he concludes, that at length God will deliver the godly, even when the world may be in a state of the greatest corruption. [^1]
 

@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 23
 
-**CHAPTER 23**
+***Chapter 23***
 
 ## Joshua 23:1-11
 

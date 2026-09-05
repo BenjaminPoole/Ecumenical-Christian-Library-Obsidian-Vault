@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Sabbath-work
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2568
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And on the same day was the SSabbath." John 5:9.
 
@@ -93,7 +90,7 @@ As for you who have never trusted the Savior, all you have to do is to cast your
 
 As I look at some of my hearers, I might well settle my countenance, as Elisha did when he looked on Hazael. He could not bear to think of all that the man would do—and when the man himself heard the prophecy, he said, "Is your servant a dog, that he should do this great thing?" Yes, he was dog enough to do even that! A Friend was speaking to me of an unhappy man whose life has been one of licentiousness and crime—and who has gone away from his country—he used to sit by his wife's side in this house and he said that he would one day turn over a new leaf. But then he did not yield himself to Christ. So, when he did turn over a new leaf, it was a blacker one than he had ever turned over, before, and, unless you repent, some of you will do the same as that man did. God bless and save you, dear Friends, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE4:33-36; 6:6-11; 13:10-17; 14:1-6; JOHN 5:1-9; 9:1-14.
+## Exposition by C. H. Spurgeon: Luke 4:33-36; 6:6-11; 13:10-17; 14:1-6; John 5:1-9; 9:1-14
 
 We are going to read the Inspired records of several of our Savior's Sabbath cures, for they are very instructive.
 
@@ -112,7 +109,6 @@ John 5:1-9. After this there was a feast of the Jews; and Jesus went up to Jerus
 John 9:1-3. And as Jesus passed by, He saw a man which was blind from his birth. And His disciples asked Him, saying, Master, who did sin, this man, or his parents, that he was born blind? Jesus answered, Neither has this man sinned, nor his parents. That is to say, their sin was not the cause of his blindness.
 
 3-14. But that the works of God should be made manifest in him. I must work the works of Him that sent Me, while it is day: the night comes, when no man can work. As long as I am in the world, I am the Light of the world. When He had thus spoken, He spat on the ground, and made clay of the spittle, and He anointed the eyes of the blind man with the clay, and said unto him, Go, wash in the Pool of Siloam, (which is, by interpretation, Sent). He went his way, therefore, and washed, and came seeing. The neighbors, therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged? Some said, This is he: others said, he is like he: but he said, I am he. Therefore said they unto him, How were your eyes opened? He answered and said, A man that is called Jesus made clay and anointed my eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight. Then said they unto him, Where is he? He said, I know not. They brought him to the Pharisees that before was blind. And it was the Sabbath when Jesus made the clay and opened his eyes. This gracious act of Christ was made another occasion of complaint on the part of the Pharisees—and it is the sixth instance in which we are very specially and definitely informed that our Lord Jesus Christ worked miracles of healing on the Sabbath. Oh, that He would do similar works in our midst even now in a spiritual sense, if not literally!
-
 
 ---
 [[Sermon 2567 The Single-handed Conquest|← #2567]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2569 The Backslider's Door of Hope|#2569 →]]

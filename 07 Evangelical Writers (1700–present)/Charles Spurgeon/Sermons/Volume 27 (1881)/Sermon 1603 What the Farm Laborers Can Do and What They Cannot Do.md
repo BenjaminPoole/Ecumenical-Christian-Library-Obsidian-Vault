@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # What the Farm Laborers Can Do and What They Cannot Do
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1603
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 12, 1881,.
+*Delivered on Lord's-Day Morning, June 12, 1881*
 
 > "And He said, The kingdom of God is as if a man should cast seed into the ground and should sleep and rise night and day and the seed should spring and grow up, he kno ws not how. For the earth brings forth fruit of herself; first the blade, then the ear, after that the full corn in the ear. But when the fruit is brought forth, immediately he puts in the sickle, because the harvest is come." Mark 4:26-29.
 
@@ -144,7 +143,6 @@ Consider that the parable teaches us that we have not to intrude into the domain
 Up, Brothers and Sisters, to the mountain, to the brow of Carmel, this afternoon! Get up there and pray that God will send a shower of heavenly rain by His Spirit. Up, Elijah! Put your head between your knees and cry till you are certain that the cloud, though it is little at first, as a man's hand, will cover all the earth and water the land with blessing! Up and pray that God would sweep away all the doubts which, like locusts, devour the Church today. Pray that He will keep away all love of sin and all rejection of Christ, that at this hour, even at this hour, God may glorify Himself by the feeble hands of His sower while he scatters the Seed of God!
 
 I beg your prayers, my dear and faithful Friends, this afternoon and this evening, that the Words of the Lord may be divinely victorious! I stand back that God may work and then come forward that God may work through me—and to Him be praise forever! Amen.
-
 
 ---
 [[Sermon 1602 Farm Laborers|← #1602]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1604 Heart Disease Curable|#1604 →]]

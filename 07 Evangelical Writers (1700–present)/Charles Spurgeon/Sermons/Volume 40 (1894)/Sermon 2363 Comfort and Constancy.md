@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Comfort and Constancy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2363
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now our Lord Jesus Christ, Himself, and God, even our Father, which has loved us, and has given us everlasting consolation and good hope through Grace, comfort your hearts and establish you in every good Word and work." 2 Thessalonians 2:16,17.
 
@@ -134,7 +131,6 @@ prayers of the weakest saint in Zion! If you can do nothing else, you can pray f
 3-5. Who shall establish you, and keep you from evil. And we have confidence in the Lord touching you, that you both do and will do the things which we command you. And the Lord direct your hearts. You see, Paul does not command the Thessalonians to do anything but what he can pray God to work in them. The command of a man, by itself, is nothing, but when he only asks that to be done which he can pray God to do, then there is power about his message! "We have confidence in the Lord touching you, that you both do and will do the things which we command you. And the Lord direct your hearts."
 
 5\. Into the love of God, and into the patient waiting for Christ. May the Lord hear that prayer for all of us, for Christ Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2362 The King and His Court|← #2362]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2364 Poverty and Riches|#2364 →]]

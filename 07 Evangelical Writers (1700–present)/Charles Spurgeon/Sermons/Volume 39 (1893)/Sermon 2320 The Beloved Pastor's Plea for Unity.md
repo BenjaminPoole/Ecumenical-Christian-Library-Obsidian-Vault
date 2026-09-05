@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Beloved Pastor's Plea for Unity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2320
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To all that are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ." Romans 1:7.
 
@@ -111,7 +108,7 @@ And so have I tried to prepare you to come to this feast. If any of you have any
 
 than at any other time, but there is always a reason for it. There is never a company of men and women, so large as ours, but what they have little jealousies between them. And you may be quite sure that these are displeasing to God and should be put away as speedily as possible. So let it be and thus may we keep the feast in union with Christ and with one another, for our Savior's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. ROMANS11-17
+## Exposition by C. H. Spurgeon. Romans 11-17
 
 Verse 1. Paul, a servant of Jesus Christ, called to be an Apostle, separated unto the Gospel of God, Paul has many titles and he delights to mention them in writing to these Christians at Rome. He puts, first, his highest title—"A servant of Jesus Christ." He glories in being a servant of the Crucified Christ, a servant of Him who was despised and rejected of men! So do we. Paul was called out from among men, effectually "called" of God, "to be an Apostle, separated"—set apart—"unto the Gospel of God." He believed that he was separated for that purpose at his birth, but he was specially "separated unto the Gospel of God" on the road to Damascus. It is a happy thing when a minister feels that he has nothing to do with anything else but the Gospel—that commands all his thoughts, all his talents, all his time.
 
@@ -138,7 +135,6 @@ gift to the end that you may be established, that you may get good root-hold, th
 14, 15. I am debtor both to the Greeks and to the Barbarians; both to the wise and to the unwise. So, as much as is in me, I am ready to preach the Gospel to you that are at Rome also. I do not suppose that Paul guessed that he would be sent there at the government's expense, but he was! The Roman Empire had to find a ship for him and a fit escort for him, too. And he entered the city as an ambassador in bonds. When our hearts are set on a thing and we pray for it, God may grant us the blessing, but it may be in a way that we never looked for! You shall go to Rome, Paul, but you shall go in chains. He had not thought of that plan—still, it was the best way in which he could go! I do not know how he could have preached to the Emperor except as a prisoner—but when he was brought before him to be tried—then he had an opportunity of speaking even to the brutal creature who was called the Emperor of Rome!
 
 16, 17. For I am not ashamed of the Gospel of Christ: for it is the power of God unto salvation to everyone that believes; to the Jew first, and also to the Greek. For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith. That is the sum and substance of the Gospel—"The just shall live by faith." The Law is, "He that does these things shall live by them." But the Gospel is, "The just shall live by faith." "Therefore, being justified by faith, we have peace with God." The Lord give to us all that saving faith, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2319 The Lord's Chosen Ministers|← #2319]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2321 The Heavenly Singers and Their Song|#2321 →]]

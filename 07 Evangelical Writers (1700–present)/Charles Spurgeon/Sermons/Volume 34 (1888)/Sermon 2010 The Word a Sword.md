@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Word a Sword
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2010
 
-DELIVERED ON THURSDAY EVENING, MAY 17, 1887,.
+*Delivered on Thursday Evening, May 17, 1887*
 
 > "For the Word of God is quick and powerful and sharper than any two-edged sword, piercing even to the dividing asunder of soul and spirit and of the joints and marrow and is a discerner of the thoughts and intents of the heart." Hebrews 4:12.
 
@@ -172,7 +171,6 @@ Book—for this is the umpire on all questions. Amidst the controversies of the 
 And lastly, since this Book is meant to be a discerner, or critic, of the thoughts and intents of the heart, let the Book criticize us. When you have issued a new volume from the press—which you do every day, for every day is a new treatise from the press of life—take it to this great critic and let the Word of God judge it. If the Word of God approves you, you are approved. If the Word of God disapproves you, you are disapproved. Have friends praised you? They may be your enemies in so doing. Have other observers abused you? They may be wrong or right, let the Book decide.
 
 A man of one Book—if that Book is the Bible—is a man, for he is a man of God. Cling to the living Word and let the Gospel of your fathers, let the Gospel of the martyrs, let the Gospel of the Reformers, let the Gospel of the blood-washed multitude before the Throne of God, the Gospel of our Lord Jesus Christ—be your Gospel and none but that— and it will save you and make you the means of saving others to the praise of God. Adapted from The c.h. Spurgeon Collection, Version 1.0,
-
 
 ---
 [[Sermon 2009 Job Among the Ashes|← #2009]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2011 Abram's Call—or, Half-Way—and All the Way|#2011 →]]

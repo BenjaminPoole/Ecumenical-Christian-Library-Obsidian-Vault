@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The House of Mourning and The House of Feasting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3108
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is better to go to the house of mourning, than to go to the house of feasting." Ecclesiastes 7:2.
 
@@ -136,7 +133,6 @@ Now to conclude, Solomon says, "The heart of the wise is in the house of mournin
 Finally, take this Truth of God home. You had better "go to the house of mourning" than to any place of feasting. Better to be clad in the drapery of woe and sit in the weeds of sorrow. Better to be girt with sackcloth and cover your head with ashes than to be feasting and dancing, or even enjoying the rightful and lawful pleasures of this world. "It is better to go to the house of mourning." God has said it, so let not unbelief deny what God positively declares. Unto all of you who know not how soon any one of you may be there, I speak in the name of the Lord and I say, "Go to the house of mourning." In a little while, Death may be again in our midst, as he has often been of late. Even now he is flapping his dark wings around this gallery and looking in each pew to see who is there. He is floating across the pews and saying, "Where is the man or woman I am to have?" If God points Death to the man, the man surely dies. In any event, you may be called "to go to the house of mourning" very soon in some way or other—but say, when you get there, "It is better to go to the house of mourning, than to go to the house of feasting." If you get an invitation to a wedding and an invitation to a funeral, lay the funeral note on the top! Do not disdain to go there, O child of God, for the Holy Spirit will so reveal Jesus by the bedside of the mourner that it will be to you a Bethel! O Sinner, ungodly and impenitent, neither "the house of mourning" nor "the house of feasting" can benefit you by itself! It is the power of the Holy Spirit, alone, that can give you life! It is Jesus alone who can make you a forgiven sinner! May this discourse be blessed to your souls and to the Triune God be Glory! Amen.
 
 8 The House of Mourning and the House of Feasting Sermon #3108
-
 
 ---
 [[Sermon 3107 Christ and His Table Companions|← #3107]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3109 Sowing and Reaping|#3109 →]]

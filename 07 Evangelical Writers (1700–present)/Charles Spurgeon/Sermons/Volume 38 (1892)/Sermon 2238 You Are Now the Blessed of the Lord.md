@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # "You Are Now the Blessed of the Lord"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2238
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You are now the blessed of the Lord." Genesis 26:29.
 
@@ -124,7 +121,6 @@ Who could hold me up but You?" May you, each of you, as you come to the Table, h
 Oh, that some who came in here without the blessing would get it before they go! He that believes in Jesus has all the blessing which Jesus can give to him—forgiveness for the past, Grace for the present—and Glory for the future! "Blessed are they that have not seen and yet have believed," is the word of the Lord to you, you doubter! He was made a curse for you, that He might redeem you from the curse of the broken Law of God, for it is written, "Cursed is everyone that hangs on a tree." He hung on a tree for guilty man! Believe in Him and, as you believe, eternal joys shall come streaming down into your dry and desolate heart, and it shall be said to you, "You are now the blessed of the Lord." You shall be blessed now and blessed forevermore! God grant it, for our Lord Jesus Christ's sake! Amen.
 
 Portion Of Scripture Read Before Sermon—Genesis 26.
-
 
 ---
 [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2239 Is God In the Camp|#2239 →]]

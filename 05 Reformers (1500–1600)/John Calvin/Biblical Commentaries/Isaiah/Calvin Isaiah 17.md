@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 17
 
-**CHAPTER 17.**
+***Chapter 17.***
 
 ## Isaiah 17:1-14
 

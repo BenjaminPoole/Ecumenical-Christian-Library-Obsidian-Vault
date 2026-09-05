@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The True Priesthood, Temple and Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1376
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 30, 1877,.
+*Delivered on Lord's-Day Morning, September 30, 1877*
 
 > "To whom coming, as unto a living stone, disallowed, indeed, of men, but chosen of God, and precious, you also, as living stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ." 1 Peter 2:4,5.
 
@@ -140,7 +139,6 @@ See, now, your responsibility and walk circumspectly, because whatever you do wi
 And now, see once more what Divine Grace has been bestowed upon you, that you should become priests, who in times past were enemies to God! You were not a people, but are now the people of God! You had not obtained mercy, but have now obtained mercy! You were sometimes in darkness, but now you are light in the Lord! You were once the servants of Satan, but now you are priests unto God! Go, and so live, that men shall say of you, "They are the priests of the Lord." May you show forth the virtues of your God and declare His praises!
 
 You have received the office—honor it, live up to it—pray for Grace to fulfill it. Think how it dignifies you, for the text which I quoted, just now, says, "Unto you that believe He is honor"—that is the Greek word. It is your honor to have Christ for your Savior! It is your honor to be Christ's servants! It is your honor to be like Christ! It is your honor to be priests through His Grace and, by-and-by, it will be your honor to be with Him, world without end! Amen.
-
 
 ---
 [[Sermon 1375 Now Then, Do It|← #1375]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1377 Taking Hold of God|#1377 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Christ Receiving Sinners
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2889
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass, as Jesus sat at the table in the house, behold, manypublicans and sinners came and sat down with Him and His disciples." Matthew 9:10.
 
@@ -77,7 +74,7 @@ This is my Master's way of dealing with sinners, even with him who called himsel
 
 II. I now turn to my second point and ask—HOW IS IT THAT CHRIST IS SO WILLING TO COME DOWN TO
 
-POOR SINNERS AND SAVE THEM?
+## Poor Sinners and Save Them?
 
 Do not imagine that it is because He is insensible to their guilt. Sinner, Jesus Christ knows far better than you do what an evil and bitter thing sin is. It is as hateful and loathsome to Him as anything can possibly be. It is not, therefore,
 
@@ -120,7 +117,6 @@ The monk who lived in the cave said to the young man, "Get out! You are not wort
 Oh, that my Master would draw some of you to Him at this moment! What do you say? Will you go with this Man who receives sinners? He bids you come to Him—will you come? You cannot plead that you are too vile, for He takes the very off-scouring of men—the devil's outcasts—He will not cast them out if they will but come to Him! However despairing of yourself you may be, you must not say of Him, "He will reject me." Trust Him to receive you and trust Him now!
 
 O Spirit of the living God, prove the Divinity of Christ's Gospel this very hour by turning lions into lambs and ravens into doves—and let the chief of sinners prove Your power to save! Amen.
-
 
 ---
 [[Sermon 2888 'Christ Is All'|← #2888]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2890 Unbelievers Upbraided|#2890 →]]

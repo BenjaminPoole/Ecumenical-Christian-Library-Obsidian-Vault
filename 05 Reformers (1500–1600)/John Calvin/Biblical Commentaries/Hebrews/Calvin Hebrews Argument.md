@@ -9,12 +9,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
 
 **THE EPISTLE TO THE HEBREWS**
-
-**THE ARGUMENT**
 
 **ON THE EPISTLE TO THE HEBREWS**
 

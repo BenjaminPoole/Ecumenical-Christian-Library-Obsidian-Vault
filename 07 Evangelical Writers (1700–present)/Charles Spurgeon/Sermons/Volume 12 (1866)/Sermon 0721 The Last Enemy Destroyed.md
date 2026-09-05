@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Last Enemy Destroyed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 721
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 18, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, November 18, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "The last enemy that shall be destroyed is death." 1 Corinthians 15:26.
 
@@ -148,7 +147,6 @@ They were ripe and He took them Home. But we could not see that. Now remember th
 And then remember that you, too, must die. Bring yourself frequently face to face with this Truth of God—that you must die. Do not forget it, Christian Friend! No man knows whether his faith is good for anything or not if he does not frequently try that faith by bringing himself right to the edge of the grave. Picture yourself dying. Conceive yourself breathing out your last breath and see whether, then, you can look at Death without quaking—whether you can feel, "Yes, I have rested upon Jesus. I am saved. I will go through Death's tremendous vale with His Presence as my stay, fearing no evil."
 
 If you have no good hope, may God give you Divine Grace at this moment to fly to Jesus and to trust in Him. And when you have trusted in Him, then, and only then, will Death be to you a destroyed enemy. May God grant His blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0720 The Gospel'S Healing Power|← #720]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0722 The Captive Savior Freeing His People|#722 →]]

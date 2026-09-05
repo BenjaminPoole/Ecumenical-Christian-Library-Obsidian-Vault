@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 21
 
-**CHAPTER 21.**
+***Chapter 21.***
 
 ## Genesis 21:1-34
 

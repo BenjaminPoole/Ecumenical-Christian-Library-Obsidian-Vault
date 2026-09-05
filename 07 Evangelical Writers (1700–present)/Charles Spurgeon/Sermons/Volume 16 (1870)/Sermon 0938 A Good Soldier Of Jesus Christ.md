@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Good Soldier Of Jesus Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 938
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 26, 1870,.
+*Delivered on Lord's-Day Morning, June 26, 1870*
 
 > "A good soldier of Jesus Christ." 2 Timothy 2:2,3.
 
@@ -158,7 +157,6 @@ And it is so. Let us die, yes—it were to be devoutly wished rather than we liv
 This blessed supping with Jesus will restore you! Though you are like Laodicea, "neither cold nor hot," fellowship with Jesus will renew the love of your espousals. Oh, then, my Brethren, in Jesus' name I bid you be strong in the Lord, and in the power of His might!
 
 I have not preached to sinners, but you will do that if you catch the spirit of this sermon. There will be many thousands of words to sinners spoken as the result of this exhortation, if God, the Holy Spirit, makes it answer my design. Only this word to those who are not soldiers of Jesus Christ—trust Him now! Come now and kiss His silver scepter of Divine Grace. He will forgive the rebel, and take him to be His servant. God bless you. Amen.
-
 
 ---
 [[Sermon 0937 The Profit Of Godliness In This Life|← #937]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0939 The Pilgrim's Grateful Recollections|#939 →]]

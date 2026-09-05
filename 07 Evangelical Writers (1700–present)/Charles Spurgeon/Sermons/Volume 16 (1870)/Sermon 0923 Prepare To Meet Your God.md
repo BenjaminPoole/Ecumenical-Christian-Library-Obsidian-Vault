@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Prepare To Meet Your God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 923
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 27, 1870,.
+*Delivered on Lord's-Day Morning, March 27, 1870*
 
 > "Prepare to meet your God, O Israel." Amos 4:12.
 
@@ -138,7 +137,6 @@ From this day forth they shall feel no more stirrings of conscience, or striving
 1 may be gazing straight into those eyes which shall never look upon me again till we meet at the Judgment Bar, and if I am not faithful to your soul, you may rise up amidst that throng and say, "I strayed into that Tabernacle, and I listened to you, but you played with your theme, you were not earnest, and so I was lost." So then I will be earnest! I evoke you by the living God, escape from the wrath to come! As the Lord lives, there is but a step between you and death! Flee for your life! Look not behind you! Turn your whole soul to Jesus! A crucified Savior waits for a lost sinner, willing to receive him, willing to receive him now!
 
 Now you can not look me in the face in the next world and say I did not speak to you earnestly. O that the glance which we exchange at this moment may be succeeded in that tremendous day by a glance of recognition in which there shall be the soft emotions of gratitude and affection, as you and I shall say to each other there, "Blessed be God that we met on that hallowed Sunday, for now we shall meet forever before the throne of Him that lives and was dead, and is alive forever more, and has the keys of Hell and of death." God bless you, every one of you, richly, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0922 Sincerity And Duplicity|← #922]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0924 Jesus Only|#924 →]]

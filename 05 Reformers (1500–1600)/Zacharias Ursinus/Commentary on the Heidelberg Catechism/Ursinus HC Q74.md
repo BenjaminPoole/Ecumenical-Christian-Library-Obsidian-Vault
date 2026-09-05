@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 74. Are infants also to be baptized?
-
-**Question 74. Are infants also to be baptized?**
 
 Answer. Yes, for since they as well as the adult are included in the covenant and church of God; and since redemption from sin by the blood of Christ, and the Holy Ghost, the author of faith, is promised to them no less than to the adult; they must, therefore, by baptism, as a sign of the covenant, be also admitted into the Christian Church, and be distinguished from the children of infidels, as was done in the old covenant or testament by circumcision, instead of which baptism was instituted in the new covenant.
 
-**EXPOSITION**
+## **Exposition**
 
 For a proper understanding of this question we shall consider, first, Who ought to receive, and Who ought to desire baptism? Those who are not yet disciples of Christ, not being of the number of those who are called, and not believing the doctrine of the gospel, nor obeying the ministry, are not to receive baptism. Nor ought those who feel that they are not the disciples of Christ to desire baptism. And the reason why they ought neither to receive, nor desire baptism, is, because Christ savs, first, teach or make all nations my disciples, and then baptize them. Hence all, and only those are to be baptized according to the command of Christ, who are, and ought to be regarded as members of the visible church, whether they be adults professing repentance and faith, or infants born in the church; for all the children of those that believe are included in the covenant, and church of God, unless they exclude themselves. They are, therefore, also disciples of Christ, because they are born in the church, or school of Christ; and hence the Holy Spirit teaches them in a manner adapted to their capacity and age.
 
@@ -100,7 +97,7 @@ V. In what circumcision and baptism agree and differ:
 
 VI. Why Christ was circumcised.
 
-**I. WHAT CIRCUMCISION IS**
+## **I. What Circumcision Is**
 
 Circumcision was a rite by which all the males among the children of Israel were circumcised according to the command of God, that it might be a seal of the covenant made with the posterity of Abraham. Or, it consisted in cutting off the fore-skin of all the males among the children of Israel by the command of God, that it might be a sign of the covenant made with Abraham and his posterity, signifying and sealing to them the cutting off the fore-skin of their hearts for the sake of the promised seed which should be born, distinguishing and separating them from all other nations, and binding them to faith and obedience to God. "This is my covenant which ye shall keep, between me and you, and thy seed after thee: every man-child among you shall be circumcised," &c. "He received the sign of circumcision, a seal of the righteousness of the faith," &c. "The Lord thy God will circumcise thine heart, and the heart of thy seed to love the Lord thy God with all thine heart," &c. (Gen. 17:10. Rom. 4:11. Deut. 30:6.) Circumcision was binding only upon the Jews. It was optional with other nations to be circumcised, or not, if they embraced the Jewish religion.
 
@@ -108,29 +105,29 @@ The membership of the Jewish Church was made up of three different classes of pe
 
 Obj. None but males were circumcised. Therefore females were excluded from the covenant of grace. Ans. They were included in the circumcision of the males; because God spared their weaker sex. It was sufficient for them that they were born of circumcised parents, and were in view of this included in the covenant and seed of Abraham.
 
-**II. WHY CIRCUMCISION WAS INSTITUTED**
+## **II. Why Circumcision Was Instituted**
 
 It was instituted, 1. That it might be a sign of the grace of God to the posterity of Abraham, and that for two reasons; because God would receive into the covenant those that believed on account of the Messiah, which was to come; and also, because he would grant them the land of Canaan, and there give his church a sure resting place until the Messiah would make his appearance. 2. That it might be the means of binding Abraham and his posterity to gratitude, or to repentance and faith, and thus to the observance of the whole law. 3. That it might be a badge of distinction between the Jews and other nations and religionists. 4. That it might be the sacrament of initiation and reception into the visible church. 5. That it might signify that all men are unholy by natural generation, and remind them of their natural uncleanness, and of the importance of guarding against all forms of sin, especially those which are in opposition to the law of chastity. "Circumcise the fore-skin of your heart, and be no more stiff-necked." "Circumcise yourselves to the Lord, and take away the foreskins of your heart." (Deut. 10:16. Jer. 4:4.) 6. That it might be a sign to declare unto them that the way of deliverance from sin, would be through Christ, who should be born of the seed of Abraham. "In thy seed shall all the nations of the earth be blessed." (Gen. 22:18.)
 
-**III. WHY CIRCUMCISION WAS ABOLISHED**
+## **III. Why Circumcision Was Abolished**
 
 It was abolished because the thing which it signified became real; and also because it had been instituted for the purpose of separating the Jews from all other nations, which state of things ceased after the coming of Christ. It became necessary, therefore, that the type of circumcision should be abolished, when the Messiah made his appearance, and the nations of the earth were no longer to be separated, as they had been; for it is the part of a wise law-giver when certain causes are changed, to modify and change those laws and institutions which are depending upon these causes.
 
-**IV. WHAT THERE IS IN THE PLACE OF CIRCUMCISION**
+## **IV. What There Is in the Place of Circumcision**
 
 Baptism occupies the place of circumcision in the New Testament. One sacrament succeeds another, when the one is abolished, and the other takes its place, in such a way as to signify the same thing by different rites, and to have the same design and use. That baptism has succeeded circumcision in this sense is plain from what the apostle Paul says: "In whom also ye are circumcised, with the circumcision made without hands, in putting off the body of the sins of the flesh, by the circumcision of Christ: buried with him in baptism wherein also ye are risen with him," &c. (Col. 2:11, 12.) The Apostle in these words proves by two arguments that there is now no advantage derived from the circumcision of the flesh, and that it is no longer to be observed in the Christian Church. The first is, because we have in Christ a spiritual circumcision—one not made with hands, whose sign is a circumcision of the flesh, or because Christ has now fulfilled what circumcision prefigured. The second is because baptism has now the same signification and use, which circumcision formerly had, unless that baptism is the sign of that which circumcision shadowed forth. This passage, therefore, teaches that baptism is the same to Christians, which circumcision was to the Jews. And that baptism has taken the place of circumcision, may also be proven from the fact that both sacraments have the same end. Both are signs of our adoption into the family of God. For as the infants of the Jews and proselytes were circumcised on the eighth day, as those who were members of the church by birth, whilst adults received circumcision when they made a profession of the Jewish religion; so the children of Christians are baptized in their infancy, whilst those who have arrived to years of understanding are not baptized, unless they have made a profession of the doctrine of Christ.
 
-**V. IN WHAT CIRCUMCISION AND BAPTISM AGREE AND DIFFER**
+## **V. In What Circumcision and Baptism Agree and Differ**
 
 They agree, 1. In their chief design, which is to seal unto us the promise of grace by and for the sake of Christ, which promise is always the same. 2. Both signify our regeneration, and bind us to faith and obedience. 3. Both are sacraments of initiation and reception into the church.
 
 They differ, 1. In outward rites and ceremonies. 2. In the circumstance of age and sex. None but males were circumcised, and these always on the eighth day after their birth, which is different in regard to baptism. 3. They differ as to their signification. Circumcision promised grace on account of the Messiah which was to come; baptism on account of the Messiah already come. 4. They differ as to the promise which is peculiar to each. Circumcision had connected with it the promise of a temporal blessing, that the church should find a sure resting place in the land of Canaan until the Messiah would come; baptism has no such special promise of any temporal blessing. 5. They differ in the obligation which they impose. Circumcision bound those who observed it to keep the whole ceremonial, judicial and moral law; baptism binds us to the moral law only, or which is the same thing, to repentance and faith. 6. They differ in their objects and duration. Circumcision was instituted for the posterity of Abraham alone, and was designed to continue only to the coming of the Messiah; baptism was instituted for all nations desiring to come into connection with the church, and will continue to the end of the world.
 
-**VI. WHY CHRIST WAS CIRCUMCISED**
+## **VI. Why Christ Was Circumcised**
 
 There was nothing to require the circumcision of Christ, inasmuch as it could not seal or confer anything upon him, for he had no sin. Yet he submitted to circumcision, 1. That he might establish his membership amongst those who were circumcised. It was for the same reason that he was baptized. Christ then submitted himself to the initiatory sacrament of both churches that he might declare that he was the head, the saviour, and corner-stone of both, and that he would constitute one church. 2. That he might declare that he took all our sins upon himself, that he would satisfy for them, and would deliver us from all our guilt. "He hath made him to be sin for us who knew no sin, that we might be made the righteousness of God in him." "The chastisement of our peace was upon him, and with his stripes we are healed. (2 Cor. 5:21. Is. 53:5.) 3. That he might declare that it was for our sakes that he became subject to the law, and that he perfectly fulfilled it by taking upon himself its curse in order that he might effect our redemption. 4. The circumcision of Christ was a part of his humiliation and ransom for our sins.
 
-**TWENTY-EIGHTH LORD'S DAY**
+## **Twenty-Eighth Lord's Day**
 
 ---
 [[Ursinus HC Q73|← Question 73. Why then doth the Holy Ghost ca]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q75|Question 75. How art thou admonished and ass →]]

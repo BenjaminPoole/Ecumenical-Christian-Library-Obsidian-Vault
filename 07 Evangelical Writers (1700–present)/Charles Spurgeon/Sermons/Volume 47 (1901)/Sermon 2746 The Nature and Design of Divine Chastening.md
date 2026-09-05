@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Nature and Design of Divine Chastening
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2746
-
-DELIVERED BY C H. SPURGEON,.
 
 > "When we are judged, we are chastened of the Lord, that we should not be condemned with the world." 1 Corinthians 11:32.
 
@@ -33,7 +30,7 @@ fact, it is thought impossible to make a child understand that a man may be rich
 
 Yes, Friends, we must never judge of men's inward condition by their outward position. A rich man may be gracious and a poor man may be wicked—and we may turn the truth in the other direction and declare that many are the poor who have Divine Grace within, and many are the rich who are but fattening for God's slaughtering-day at the last! It is a well-known fact, which has, doubtless, led to both the errors which I have mentioned—the error of thinking that God is unrighteous and also the error of judging men by their outward state. I say it is doubtless a fact that many of the true children of God are exceedingly troubled in this world, while, full often, the wicked escape. Why is this? Our text explains it. It declares that "we are chastened of the Lord, that we should not be condemned with the world."
 
-I. THE PEOPLE OF GOD ARE CHASTENED OF THE LORD—THEY ARE MORE CHASTENED THAN ANY
+## I. The People of God Are Chastened of the Lord—they Are More Chastened than Any
 
 OTHER MEN. They are chastened every morning and they are plagued all the day long. Why is this? God must be right in acting thus—what is His reason? I will give you a few reasons. First, the righteous are more chastened than other men because their sins are worse than those of others. Secondly, they are more chastened than other men, that God may make them an example of His hatred against sin. And then, they also receive extraordinary chastening because of God's extraordinary value of them and His determination to wean them from their sins and cure them of their iniquities.
 
@@ -93,7 +90,7 @@ It is pleasant to pass through a country after a storm has spent itself—to sme
 
 And yet, Sinner, this is just your position! There are no hot drops as yet fallen, but a shower of fire is coming. There are no terrible winds blowing on you, but God's tempest shall surely come. As yet, the floods are dammed up by Mercy, but the floodgates shall soon be opened. The bolts of God are yet in His storehouse, but, lo, judgment comes, and how awful shall be that moment when God, robed in vengeance, shall come forth in fury! Where, where, where, O Sinner, will you hide your head, or where will you flee? Oh, that the hand of Mercy may now lead you to Christ! He is freely preached to you, and you know your need of Him! Believe in Him! Cast yourself upon Him and then the fury shall be over and you need not dread to go into eternity, for no storm awaits you there, but quiet, and calm, and rest, and peace forever!
 
-EXPOSITIONS BY C. H. SPURGEON: RUTH 1.
+## Expositions by C. H. Spurgeon: Ruth 1
 
 Verse 1. Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehem Judah went to sojourn in the country of Moab, he, and his wife, and his two sons. That was a bad move on their part—better poverty with the people of God, than plenty outside of the covenanted land.
 
@@ -132,7 +129,6 @@ that condition. It may be easy to say, "I will step aside from the Christian pat
 21\. Why then callyou me Naomi, seeing the LORD has testified against me, and the Almighty has afflicted me?Yet it is a sweet thing to be able to trace the hand of God in our affliction, for nothing can come from that hand towards one of His children but that which is good and right! If you will think of those hands of which the Lord says, "I have engraved you upon the palms of My hands," you may rest assured that nothing can come from those hands but what Infinite Wisdom directs and Infinite Love has ordained!
 
 22\. So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest. That is, at the time of the Passover. Let us hope that they received a blessing in observing the ordinances of that time and that they were thus helped to get back to the only right and happy state of heart.
-
 
 ---
 [[Sermon 2745 Intercession and Supplication|← #2745]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2747 Saying Versus Doing|#2747 →]]

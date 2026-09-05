@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Joshua 9:1-15
 

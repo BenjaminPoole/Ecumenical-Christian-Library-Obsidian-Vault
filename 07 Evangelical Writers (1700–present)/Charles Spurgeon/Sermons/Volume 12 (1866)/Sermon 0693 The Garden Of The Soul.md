@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Garden Of The Soul
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 693
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "A place called Gethsemane." Matthew 26:36.
 
@@ -152,7 +151,6 @@ The sin which was on your shoulder, heavy as a burden when you came into this ho
 "Let no other trust intrude— None but Jesus Can do helpless sinners good."
 
 May the Lord bless you, everyone in this assembly, and at the Table may you have His Presence. Amen.
-
 
 ---
 [[Sermon 0692 Joy And Peace In Believing|← #692]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0694 Sin Laid on Jesus|#694 →]]

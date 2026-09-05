@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule I. Affectionate, sincere love in all things, without dissimulation towards one another, like that which Christ bare to his church
-
-Rule i. Affectionate, sincere love in all things, without dissimulation towards one another, like that which Christ bare to his church.
 
 John xv. 12, “This is my commandment, That ye love one other, as I have loved you.”
 
@@ -49,7 +46,6 @@ Explication i. Love is the fountain of all duties towards God and man, Matt. xxi
 8\. The great sin of want of love, with all its aggravations, Matt. xxiv. 12; 1 John iii. 14, 15, and the like; — are so many, and of such various consideration, as not now to be insisted on.
 
 Love, which is the bond of communion, maketh out itself and is peculiarly exercised in these things following:—
-
 
 ---
 [[ECFC 12 Rules to be observed by those who walk in fellowship, and considered, to stir|← Rules to be observed by those who walk in fellowship, and considered, to stir up their rememberance in things of mutual duty one towards another]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 14 Rule II. Continual prayer for the prosperous state of the church, in God’s|Rule II. Continual prayer for the prosperous state of the church, in God’s protection towards it →]]

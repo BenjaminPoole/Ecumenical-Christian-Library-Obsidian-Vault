@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 13. The Practice of Prelates, Part 1
-
-THE PRACTICE OF PRELATES.
 
 The practice of our prelates in these days.
 
@@ -41,7 +38,7 @@ And concerning that the hypocrites put you in fear of the rising of your commons
 
 [1 M. ed. has ape3,]
 
-244 THB PRACTICE OF PRELATES.
+## 244 Thb Practice of Prelates
 
 The common fear your commons, so testify ye against yourselves, that ye IllS'byhyaro tvrants. For if your consciences accused you not of evil pocrites. , . , , ,. o *r.-i domg, what need ye to tear your commons c )V hat commons were ever so evil, that they rose against their heads for welldoing ? Moreover, ye witness against yourselves also that ye have no trust in God : for he hath promised the temporal officers assistance, if they minister their offices truly ; and to care for the keeping of them, as much as they care for to keep his laws. d^rJ?Me* ^^ hypocrites haply bid you take an ensample of the
 
@@ -63,7 +60,7 @@ PRBFACB TO THE READER. 246 mandments of the Lord and follow idols." Even so the 
 
 And unto all subjects be it said, if they profess the law a mmru of God and faith of the Lord Jesus, and will be Christ's (7ilMM|.iei 'r disciples; then let them remember that there was never man leamifnim SO great a subject as Christ was; there was never creature that U}^"^ suffered so great unright so patiently and so meekly as he. ^^^ Therefore, whatsoever they have been in times past, let them now think that it is their parts to be subject in the lowest kind of subjection, and to suffer all things patiently. If the high powers be cruel unto you with natural cruelty ; then with softness and patience ye shall either win them, or mitigate their fierceness. If they join them unto the pope, and Yemiut persecute you for your faith and hope which ye have in the chmt, tiwt Lord Jesus ; then call to mind that ye be chosen to suffer Jheufeto'" here with Christ, that ye may joy with him in the life to "*'"* come with joy everlasting, that shall infinitely pass this your short pain here. If they command that God forbiddeth, or forbid that God commandeth, then answer as the apostles did, (Acts v.), "That God must be obeyed more than man." If acuv. they compel you to suffer unright; then Christ shall help you to bear, and his Spirit shall comfort you. But only see that neither they put you from God's word ; nor ye resist them with bodily violence. But abide patiently awhile, till the hypocrisy of hypocrites be slain with the sword of God's word, and until the word be openly pubUshed and witnessed unto the powers of the world, that their blindness may be without excuse: and then will God awake as a fierce lion, oodwuibe against those cruel wolves which devour his lambs ; and will ly;^^""* play with the hypocrites, and compass them in their own wiles ; and send them a dasing in the head, and a swimming in their brains; and destroy them with their own counsel. And then those malicious and wilful blind persecutors, which, refusing mercy when they were called thereto, chose rather to have their part with hypocrites in shedding of innocent causers of insurrection,
 
-246\. THE PRACTICE OF PRELATES.
+## 246\. The Practice of Prelates
 
 blood, shall be partakers with them also in having their own blood shed again, God giving an occasion that one wicked shall destroy another.
 
@@ -71,7 +68,7 @@ blood, shall be partakers with them also in having their own blood shed again, G
 
 [1 S. and S. edition omits q/ier; but it is found in M. and in Day's edition.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 Prelates appointed to preach Christ may not leave God's word, and minister temporal oflaces ; but ought to teach the lay-people the right way, and let them alone with all temporal business.
 
@@ -87,7 +84,7 @@ O t/ X ^ may have OO or jurisdiction, nor execute any temporal authority or law 
 
 And (Matt, xviii.), when the disciples asked who should be utt xrOL greatest in the kingdom of heaven, Christ "called a young child unto him, and set him in the midst among them, saying, Except ye turn back, and become as children, ye shall not enter in the
 
-248 THE PRACTICE OF PRELATES.
+## 248 the Practice of Prelates
 
 kingdom of heaven." Now young children bear no rule one over another, but all is fellowship among them. And he said moreover : " Whosoever humbleth himself after the ensample of this child, he is greatest in the kingdom of heaven ;" that is, to be (as concerning ambition and worldly desire) so childish that thou couldst not heave thyself above thy brother, is the very bearing of rule, and to be great in Christ's kingdom. And, to describe the very fashion of the greatness of his kingdom, he said, " He that receiveth one such child in my name, To receive rccciveth me." What is that, to receive a child in Christ's Christ's'" name ? Verily, to submit, to meek, and to humble thyself, it is. and to cast thyself under all men; and to consider all men's infirmities and weaknesses ; and to help to heal their diseases with the word of truth, and to live purely, that they see no contrary ensample in thee to whatsoever thou teachest them in Christ ; that thou put no stumbling-block before them, to make them fall while they be yet young and weak in the 1 Thess. V. faith : but that thou abstain, as Paul teacheth, (1 Thess. v.) ab omni specie mala\ from all that might seem evil, or whereof a man might surmise amiss; and that thou so love them, that whatsoever gift of God in thee is, thou think the same theirs, and their food, and for their sakes given unto thee, as the truth is ; and that all their infirmities be thine, and that thou feel them, and that thine heart mourn for them ; and that with all thy power thou help to amend them, and cease not to cry to God for them, neither day nor night; and that thou let nothing be found in thee, that any man may rebuke, but whatsoever thou teachest them, that be thou ; The pope is a and that thou be not a wolf in a lamb's skin, as our holy lambs skin, father the pope is, which cometh unto us in a name of hypocrisy, and in the title of cursed Cham, or Ham 2, calling himself Servus servorum^ the servant of all servants, and is yet found Tyr annus tyrannorum^ of all tyrants the most
 
@@ -105,7 +102,7 @@ Thou wilt say, ' thou canst not see how there should be any good order in that k
 
 [5 See Vol. I. p. 277, n. 3.]
 
-250 THE PRACTICE OF PRELATES.
+## 250 the Practice of Prelates
 
 onhTidn'^" ^^^ ^^ ^^^ kingdom of God it is contrary. For the Spirit mu'^tgo^era t^iat bringcth them thither maketh them wilUng, and giveth m *knisi?'^' them lust unto the law of God ; and love compelleth them to andpauence. ^^j.^^ ^^^ ^Qye makcth cvcry man's good, and all that he can do, common unto his neighbour's need. And as every man is strong in that kingdom, so love compelleth him to take the weak by the hand, and to help him, and to take him that cannot go upon his shoulders and bear him. And so to do service unto the weaker is to bear rule in that kingdom.
 
@@ -143,15 +140,15 @@ Though that they of Christ's congregation be all willing ; yet, because that the
 
 Mid rigour.
 
-252 THE PRACTICE OF PRELATES.
+## 252 the Practice of Prelates
 
-brother when he hath offended me, no more than natural love will let a mother hate her child when it trespasseth against her. My weak brother hath offended me ; he is fallen, his weakness hath overthrown him. It is not right by the law of love, that I should now fall upon him, and tread him down in the mire and destroy him utterly : but it is right by the law of love, that I run to him and help him up again. How we may Bv what Drocoss WO should go to law with our tres- go to the law / r o tT^p^re passers, Christ teacheth us, Matth. xviii. Tell him his fault
+brother when he hath offended me, no more than natural love will let a mother hate her child when it trespasseth against her. My weak brother hath offended me ; he is fallen, his weakness hath overthrown him. It is not right by the law of love, that I should now fall upon him, and tread him down in the mire and destroy him utterly : but it is right by the law of love, that I run to him and help him up again. How we may Bv what Drocoss WO should go to law with our tres-go to the law / r o tT^p^re passers, Christ teacheth us, Matth. xviii. Tell him his fault
 
 Matt.xviii. between him and thee with all meekness, remembering thou art a man, and mayest fall also : if he repent and thou love him, ye shall soon agree, and then forgive him. And when thou forgivest thy neighbour, then thou art sure that God forgiveth thee thy trespasses by his holy promise, (Matth. vi.)
 
 Matt.vi, If liG li^ar thee not, then take a neighbour or two. If he hear them not, then tell the congregation, where thou art : and let the preacher pronounce God's law against him, and let the sad and discreet men rebuke him, and exhort him
 
-Open and uuto repeutauce. If he repent, and thou also love him of- fenders are to according to thy profession, ye shall soon agree. If he hear be rebuked o v r ' i o openly. not the cougregatiou, then let him be taken as an heathen. If he that is offended be weak also, then let them that be strong go between, and help them. And in like manner, if any sin against the doctrine of Christ and the profession of a christian man, so that he be a drunkard and an whore-keeper, or whatsoever open sin he do, or if he teach false learning ; then let such be rebuked openly, before the congregation, and by the authority of the scripture. And if they repent not, let them be put out of the congregation as heathen people. If they then be not ashamed, we have no remedy but patiently to abide what God will do ; and to pray in the meantime, that God will open their hearts, and give them repentance. Other law than this Christ's gospel knoweth not, nor the oflficers thereof.
+Open and uuto repeutauce. If he repent, and thou also love him offenders are to according to thy profession, ye shall soon agree. If he hear be rebuked o v r ' i o openly. not the cougregatiou, then let him be taken as an heathen. If he that is offended be weak also, then let them that be strong go between, and help them. And in like manner, if any sin against the doctrine of Christ and the profession of a christian man, so that he be a drunkard and an whore-keeper, or whatsoever open sin he do, or if he teach false learning ; then let such be rebuked openly, before the congregation, and by the authority of the scripture. And if they repent not, let them be put out of the congregation as heathen people. If they then be not ashamed, we have no remedy but patiently to abide what God will do ; and to pray in the meantime, that God will open their hearts, and give them repentance. Other law than this Christ's gospel knoweth not, nor the oflficers thereof.
 
 Thekingdom It is manifest, therefore, that the kingdom of Christ is a ipirituaL spiritual kingdom, which no man can minister well, and a temporal kingdom too, as it is sufficiently proved ; because that no man which putteth his hand to the plough, and looketh back, is apt for the kingdom of heaven ; as Christ
 
@@ -169,11 +166,11 @@ master, ordamed m his kmgdom and congregation two officers; one called, after th
 
 Another officer they chose, and called him deacon after domo. the Greek, a minister in English, to minister the alms of the people unto the poor and needy. For in the congregation '^^,^ of Christ love maketh every man's gift and goods common ^{j^J^. unto the necessity of his neighbour. "Wherefore, the love of {^JSJ,"}^, God being yet hot in the hearts of men, the rich that had the substance of this world's goods brought of their abundance great plenty unto the sustentation of the poor, and delivered it unto the hands of the deacons. And unto the help of the widow., deacons were widows of sixty years old, holy, virtuous, and destitute of friends, chosen to tend and wait upon the sick,
 
-254 THE PRACTICE OF PRELATES.
+## 254 the Practice of Prelates
 
 and to wash the saints' feet, that came from one congregation unto another, whether for any business, or for fear of perse- goodf w. T. cution. And those common goods of the church, offered for
 
-The pat the succour of the poor, grew in all churches so exceedingly, and fervent _ r ' O r) J ^ primulve ^^^ ^^^* ^^ some congregation it was so much, that it was suffi- church. cient to maintain an host of men ; insomuch that tyrants did oft-times persecute the Christen^ for those common goods, as thou seest in the life of St Laurence, the deacon of Rome^.
+The pat the succour of the poor, grew in all churches so exceedingly, and fervent _ r ' O r) J ^ primulve ^^^ ^^^* ^^ some congregation it was so much, that it was suffi-church. cient to maintain an host of men ; insomuch that tyrants did oft-times persecute the Christen^ for those common goods, as thou seest in the life of St Laurence, the deacon of Rome^.
 
 The covetAnd, moreovcr, the covetousness of the prelates was the ousness of ' -T w^'Sfi^'^ decay of Christendom, and the increasing of the kingdom of christendom, Mahomct. For by the first springing of the empire of Mafncreilngof homct, the emperors, kings, and great lords of Christendom of Mahomet had givcu their treasure so mightily unto the church, what after great victories, and what at their deaths, that their successors were not able to maintain battle against the Saracens and Turks, (for the world was not yet in such captivity that they could make their subjects swear on books what they were worth, and raise up taxes at their pleasure ;) so that a The proud ccrtaiu wHtcr of stories saith : "The prelates gaped when thefix)ent the laymcu would take the war upon them against the Turks; of the poor, and the laymen looked when the prelates would lay out their money, to make the war withal, and not spend it in worse use, as the most part of them were wont to do ; spending the money that was gotten with alms and blood of martyrs upon goodly plate, and great vessels of gold and silver, without care of things to come, despising God, whom they worshipped
 
@@ -193,7 +190,7 @@ By what means the prelates fell from Christ. The office of a bishop was a room, 
 
 [5 This last sentence is nearly a translation of what Platina relates, in the beginning of his account of Severinus, pope for but a few months of A.D. 640 Plat. Vit. Honorii.]
 
-256 THE PRACTICE OF PRELATES.
+## 256 the Practice of Prelates
 
 well as other goods, were given unto the maintenance, as well At the first of the clergy, as of the poor : because they gave then no church there ^^^^^^ ^^ ^^^ prlcsts, Hor yet now do, save in certain countries. tiu^ls"paid to ^'^^ ^^ ^s ^^o much to give alms, offerings, lands, and tithes the ministers, ^jg^^ ^^^ ^^len tho bishops made them substitutes under them to help them, which they called priests, and kept the name of bishop unto themselves ^ All corBut out of the deacons sprang all the mischief: for ruptionof i i i i 11 i i the church through their hands went all thmgs ; they mmistered unto came first o O ' / deacons ^ the clcrgy, they ministered unto the poor, they were in favour with great and small. And when the bishop's office began to have rest, and to be honourable, then the deacons, through Money purfavour and gifts, clamb^ up thereunto; as lightly^ he that hath fennenu'^ the old abbot's treasure succeedeth with us. And by the means of their practice and acquaintance in the world they were more subtle and worldly wise than the old bishops, and less learned in God's word ; as our prelates are, when they come from stewardships in gentlemen's houses, and from surveying of great men's lands, lords' secrets, kings' councils, ambassadorship, from war and ministering all worldly matters, yea, worldly mischief. And yet now they come not thence, The prelates but Tcceive all, and bide there still ; yea, they have enacted still in the by plain* parUament that they must bide in the court still, or
 
@@ -221,7 +218,7 @@ came to pass tor a season. And m conclusion, where a great city was, and much ri
 
 [tyndale, II.J
 
-258 THE PRACTICE OF PRELATES.
+## 258 the Practice of Prelates
 
 Borne the Home is the head of the empire ; wherefore of right I must mother of au be the father of all whatsoever ^ And thus, whether they wickedness. , , , "
 
@@ -229,13 +226,13 @@ challenged their title by the authority of God or man, or by Peter or pouling^, 
 
 And great intercession was made unto the emperors of both parties ; but in vain a great season : for the emperors stopped their ears at such ambitious requests long time ; till
 
-Phocas. at f}iQ last there came an emperor called Phocas, which lay long in Italy, and was a very soft man, and a prey for pre- few^t^"' ^^^^ * ^^ whose time Boniface III. was bishop of Rome, a third. w.T. man ambitious and greedy upon honour, and of a very subtle wit, nothing inferior unto Thomas Wolfsee^, cardinal of York. This Boniface was great with the emperor Phocas, and with his wily persuasions and great intercession together obtained
+Phocas. at f}iQ last there came an emperor called Phocas, which lay long in Italy, and was a very soft man, and a prey for pre-few^t^"' ^^^^ * ^^ whose time Boniface III. was bishop of Rome, a third. w.T. man ambitious and greedy upon honour, and of a very subtle wit, nothing inferior unto Thomas Wolfsee^, cardinal of York. This Boniface was great with the emperor Phocas, and with his wily persuasions and great intercession together obtained
 
 Phocas the of Phocas to be called the chiefest of all bishops, and that his emperor first . . ^ .
 
 gaveprichurch should be the chief church*: which authority as vil^e to the ^ _ ^
 
-Romrto*be ^*^^^ ^ ^ ^^^ purchasod, he sent immediately his command- bi^opf^ ment, with the emperor's power, unto all the bishops of
+Romrto*be ^*^^^ ^ ^ ^^^ purchasod, he sent immediately his command-bi^opf^ ment, with the emperor's power, unto all the bishops of
 
 Almany, commanding that every bishop should call all the priests of his diocese, and charge them that every man should
 
@@ -251,7 +248,7 @@ The chastity put away his wife, under pain of excommunication ; which hol'^ifcam
 
 [5 There seems to be some confusion here of times and persons. Boniface III. died in 606, before he had been pope nine months; when the emperor had no authority in Germany, neither were there any
 
-THE CHIEF BISHOP IN THE GREATEST SEAT. 259
+## The Chief Bishop in the Greatest Seat. 259
 
 As soon as Nemroth, that mighty hunter, had caught Noe hw, this prey, that he had compelled all bishops to be under him, up'^rS. and to swear obedience unto him, then he began to be great in the earth; and called himself Papa', with this interpretation, Father of fathers. And when the pope had exalted his throne above his fellows, then the unity that ought to bo among brethren in Christ's church brake ; and division began between Diruion m us and the Greeks; which Greeks (I suppose) were at that w.t. time the one half of Christendom. And when any pope since exhorteth them to unity, they answer, 'That he which will reign over his brethren with violence, breaketh unity, and not they ; and that they will not be under his tyranny, TheOrrt whereunto he calleth them under a colour of unity.* And ""''erthe pope from henceforth, with the help of his bishops, which were 'yf^nysworn to be true liegemen unto him, when beforetime they were admitted to their bishopricks of the emperors and kings, he began to lay a bait to catch the whole empire into his hands also.
 
@@ -259,7 +256,7 @@ By what means the pope invaded the empu-e. At that same season Mahomet, the auth
 
 [6 The word papa was in like use among the Greeks as with us. The earliest known instance of its application to a christian minister occure in Tertullian, De pudicitia, a treatise composed early in the third century. By the middle of that century it was become common to address bishops by this endearing name ; but at what period the bishops of Rome began to assume it as exclusively their own, cannot bo stated with precision. Bp. Kaye on Tertullian, ch. iv. p. 241 : and Bing. Orig. Eccles. B. ii. ch. ii. $ 7.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 Gr^ory the pope came up by the Frenchmen, his estate stUl. W. T.
 
@@ -287,7 +284,7 @@ And thus the empire was divided into two parts ; the pope and the French king pa
 
 [5 The history of this transaction is incorporated into the papal law, where Decret. pars. 2^ can. xr. q. 6, cap. 3, is as follows. Pontificalis auctoritas a juramento fidelitatis noniiuUos absolvit. Alius item Romanus pontifex, Zacharias scilicet, rogera Francorum, non tarn pro suis iniquitatibus quam pro eo quod tantffi potestati erat in utilis, a regno deposuit, et Pipinum CaroU Magni impcratoris patrein in ejus locum substituit ; omnesque Francigenas a juramento fidelitatis absolvit. Corp. Jur. canonici. Th. Kerver, 1516.] [6 The date of this transaction was about 751.] [T Platina has not mentioned Corsica as part of Pepin's gift to Stephen in his life of that pope ; but he mentions it as included in that gift, when relating the life of Adrian I.]
 
-262 THE PRACTICE OF PRELATES.
+## 262 the Practice of Prelates
 
 By "hat pope grew, so the sect of Mahomet grew ; for the emperor met waxed (half his empire lost) was not able to defend himself against
 
@@ -329,7 +326,7 @@ The said Leo also called Charles " The most christian Moit chrbt. king*," becaus
 
 [* In the inscription on his tomb, "Magni Caroli Regis ChristiMiissimi Romanorumque Imperatoris." Platin. in Vit. Leon, m.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 Defender of the faith. AV. T. The eldest son ot the holv seat. W.T.
 
@@ -355,7 +352,7 @@ He kept also four concubines, and lay with two of his own daughters thereto. And
 
 [1 i. e. the pope at the time of Tyndale's writing.]
 
-CHARACTER OF CHARLEMAGNE. 265
+## Character of Charlemagne. 265
 
 And beyond all that, the saying is, that in hia old age a whore had so bewitched him with a ring and a pearl in it, and I wot not what imagery graven therein, that ho went a salt after her as a dog after a bitch, and the dotohcad was beside himself, and whole out of his mind : insomuch that when the whore was dead, he could not depart from the dead corpse, but caused it to be embalmed, and to be carried with CTiMihMii him whithersoever he went, so that all the world wondered at ^rix^ith him ; till at the last his lords accombered with carrying her from place to place, and ashamed that so old a man, so great Ti|iWMi an emperor, and such a most christian king, on whom and ***' whose deeds every man's eyes were set, should dote on a dead whore, took counsel what should be the cause : and it was concluded that it must needs be by enchantment. Then they went unto the coffin, and opened it, and sought and found this ring on her finger ; which one of the lords took off, and put it on his own finger. When the ring was off, he commanded to bury her, regarding her no longer. Nevertheless, he cast a fantasy unto this lord, and began to dote as fast^'J^j^ on him, so that he might never be out of sight; but where our Charles was, there must that lord also be ; and what Charles did, that must he be privy unto: until that this lord, perceiving that it came because of this enchanted ring, for very pain and tediousness took and cast it into a well at Acon^ in Dutchland. And after that the ring was in the well, the emperor could never depart from the town ; but in the said place where the ring was cast, though it were a foul morass, yet he built a goodly monastery in the worship of our lady, and thither brought relics from whence he could get them, and pardons to sanctify the place, and to make it more haunted 3. And there he lieth, and is a saint, as right is.'THepojw for he did for Christ's vicar as much as the great Turk for J;;^^^, Mahomet ; but to save his holiness, that he might be canon- ^' ized for a saint, they feign in his life, that his abiding there so continually was for the hot-baths' sakes which be there.
 
@@ -367,7 +364,7 @@ After Charlemagne Lewis the mild* was emperor, which Lewb th mUd.
 
 [* Louis le Debonnaire.]
 
-266 THE PRACTICE OF PRELATES.
+## 266 the Practice of Prelates
 
 was a very patient man, (another Phocas, and another prey for the pope,) and so meek and soft, that scarcely he could be angry at any thing at all. When our holy fathers had seen his water, and spied what complexion he was, they chose popestcphen Stephen, the fourth of that name, pope, without his knowledge, and bade him neither good morrow, nor good even, nor once God speed about the matter, against their own grant unto his The pope father for his good service. And his softness was yet someset up withwhat displeased therewith, inasmuch as the election of the out the assent -T _ of the empope pertained unto his right. But the pope sent ambassadors, and wrote all the excuses that he could, and came after himself to France to him, and peaced him, and crowned him there emperor, and passed the time a season with him, and they became very familiar together.
 
@@ -383,7 +380,7 @@ The pope After this man's days the popes never regarded the settethnotby t i , i
 
 [2 Approbante Ludovico imperatore instituit [Nicolaus], Ne prin-
 
-THE POPES AND CHARLEMAGNE. 267
+## The Popes and Charlemagne. 267
 
 And after that Adrian the second was chosen pope ; the Pop* am^ emperor's deputy being in Rome, and not once spoken to of *'"'*~"'^ the matter. And when the emperor's ambassadors disdained, they answered, 'Who can resist the rage of the people?' and prayed them to be content, and to salute him as pope'. And Adrian the third decreed that they should not abide or tarry ^-v ^Maa for the emperor's confirmation or authority in choosing the pope'*, and that the pope only should call a general council, and not the emperor ; or, if the emperor would presume that to do, the council should be of none effect, though all the prelates of Christendom were there, and though whatsoever they did were but God's word. So mighty was the beast now waxed, when he once began to reign alone. And from JJ^ ''"'^^ this time hitherto ^ perished the power of the emperors and ^j^^ the virtue of the popes, saith Platina, in the hfe of popes^ [JJlJlT""*^ For since that time, as there was none emperor of might, so ^' ^' was there no pope of any virtue.
 
@@ -399,7 +396,7 @@ After this Lewis, the empire of France and of all Dutchland was divided between 
 
 [8 Nescio quo fato accidisse dicam, ut una cum industria impcrar torum simul etiam pontificum virtus et integritas defecerit. Plat. D. V. Pont, in vita Formosi. a. d. 891 6.]
 
-268 THE PRACTICE OF PRELATES.
+## 268 the Practice of Prelates
 
 pope ; or striving of bishops, who should be greatest, as between the bishop of York and Canterbury in England, and between the bishops of England and Wales, whereof all the chronicles be full ; or in reforming friars or monks, or in slaying them that uttered their false hypocrisy with God's word.
 
@@ -433,7 +430,7 @@ P The events of this paragraph are told in Platina of the popedom of Agapete 11.
 
 [5 Thee is wanting in D., but given in the two older editions, and found in the Latin canon.]
 
-270 THE PRACTICE OF PRELATES.
+## 270 the Practice of Prelates
 
 Almany, three of the spiritualty, and three of the temporalty, The election with the king of Bohemia the seventh, to be the odd man and rorapperumpiro, should chooso him for ever, and send him to the pope taineth to ... i i xt t. i j.!, the lords of to recoive his oath, and to be crowned ^ JN evertheless the
 
@@ -457,7 +454,7 @@ And he made a constitution, that no layman should meddle by'SL' with their matte
 
 [3 This is related in Hoveden, a chronicler contemporary with Ccelestine HI., as follows : Deinde introduxit eos dominus papa in ecclesiam, et unxit eum in imperatorem et uxorem suam in imperatricem. Sedebat autem dominus papa in cathedra pontificali, tenens coronam auream imperialem inter pedes sues ; et imperator inclinato capita recepit coronam, et imperatrii similiter, de pedibus domini papse. Dominus autem papa statim porcussit ciftn pede suo coronam imperar toris, et dejecit eum [earn] in terra, significans quod ipso potestatem ejiciendi eum ab imperio habet, si ille demeruerit: sed cardinalea statim corripientes coronam imposuerunt eam capiti imperatori8. Roger. Hoveden. Annal. Angl. p. 689, in Rerum Anglic, script, post Bed. prsecip. Francofurti. mdci.]
 
-272 THE PRACTICE OF PRELATES.
+## 272 the Practice of Prelates
 
 did* ; and that the pope only should call the council ^^ and the emperor should but defend the pope^; provided al way that the council should be in one of the pope's towns, and where the pope's power was greater than the emperor's*. Then, The pope under a pretence of condemning some heresy, he called a Si^vri'm^** general council, where he made one a patriarch, another carintodigniues. j-^^^j^ auothor legate, another primate, another archbishop, another bishop, another dean, another archdeacon, and so forth, as we now see. Quaiis pater. And as the pope played with the emperor, so did his good natural branches and his members, the bishops, play in every king- ^- ^- dom, dukedom, and lordship ; insomuch that the very heirs of them by whom they came up, hold now their lands of them, and take them for their chief lords. And as the emperor is sworn to the pope, even so every king is sworn to
 
@@ -487,7 +484,7 @@ The pope blesseth them that can set all the world together by the ears, and figh
 
 [tyndale, II.J
 
-274 THE PRACTICE OF PRELATES.
+## 274 the Practice of Prelates
 
 was made bishop ia the field, in complete harness on his horseback, and his spear bloody in his hand^
 
@@ -525,13 +522,13 @@ The apostles chose deacons to minister the alms of the The pope-*
 
 [3 Tenements, which pay rent immediately to the proprietor of the soil. Certain tenements on the banks of the Thames, called the bishop of Winchester's rents, were then in very ill fame J
 
-276 THE PRACTICE OF PRELATES.
+## 276 the Practice of Prelates
 
 rich unto the poor ; and to help the deacons, they chose widows of sixty years old, holy, and destitute of friends, to tend the sick. And the pope instead of such widows maketh whosoever cometh, whether she be young or old, but none save them that be rich and able to pay twenty, thirty, or forty pound for their profession ; to whom, for as much more, he will give a dispensation on the morrow to marry again. The pope's And instead of such deacons, he maketh both deacons and w. T. sub-deacons, which do nothing at all, but are vain names without office ; except it be that on some holy day, instead of ministering the goods of the church unto the poor, they sing an epistle or gospel, to beg more from the poor.
 
 And as his deacons minister the goods of the church unto the poor, even so do his priests preach Christ's gospel unto the flock.
 
-And the alms that was given to the sustentation of the How the poor, which thou shalt read in stories that it was in some pope , , divideththe cities above twenty, thirty, and forty, yea, an hundred thou- aims. \v*.T. gand pound, and all the lands given for the same purpose, they have stolen from them, and have divided it among themselves. And therewith did they at the beginning corrupt the great men of the world, and clamb up to this height, where they now be. And for that have they striven among themselves this eight hundred years : and, to maintain that which they have falsely gotten, hath the pope stirred up a sword of war in all Christendom this eight hundred year, and hath taken peace clean out of the world.
+And the alms that was given to the sustentation of the How the poor, which thou shalt read in stories that it was in some pope , , divideththe cities above twenty, thirty, and forty, yea, an hundred thou-aims. \v*.T. gand pound, and all the lands given for the same purpose, they have stolen from them, and have divided it among themselves. And therewith did they at the beginning corrupt the great men of the world, and clamb up to this height, where they now be. And for that have they striven among themselves this eight hundred years : and, to maintain that which they have falsely gotten, hath the pope stirred up a sword of war in all Christendom this eight hundred year, and hath taken peace clean out of the world.
 
 When the bishops, priests, and deacons were fallen, and had received of the pope the kingdom that pertained unto the poor people, and had robbed them, and parted their patri-
 
@@ -549,7 +546,7 @@ And yet unto the laymen, whom they have thus falsely ThtchK robbed, and from whi
 
 [8 That is, guardians, defenders of their property.] [8 In the Corpus Juris canonici, Sexti Decret. Lib. ra. Tit. xxiil. prsecipit personas ecclesiasticas pro rebus suis vol ecclesiarum nil laicis solvere debere absque licentia apostolicse sedis, sub quocunque coloro mutui, subventionis, doni, vel alio quolibet; ut etiam ipsi laici talliaa non exigant, vel recipiant ; singulares contra facientes excomtnunicat; et ab his sententiis solus papa absolvit, prseterquam in mortis articulc]
 
-278 THE PRACTICE OF PRELATES.
+## 278 the Practice of Prelates
 
 finding of all the poor, the finding of scholars for the most part, the finding of these foresaid horse-leeches and caterpillars, the begging friars, the repairing of the high-ways and bridges, the building and reparations of their abbeys and cathedral churches, chapels, colleges ; for which they send out their pardons daily by heaps, and gather a thousand pounds for every hundred that they bestow truly.
 
@@ -567,7 +564,7 @@ And in his law he thrust in feigned gifts of old emperors n,* wye that were out 
 
 [3 His concession is incorporated in the papal law, as can. 30 of Dist. Lxiu. Decret. pars 1*.]
 
-280 THE PRACTICE OF PRELATES.
+## 280 the Practice of Prelates
 
 successors for ever the election or denomination of the pope and bishops, to flatter him -withal, and to make him a faithful defender, and that in a general council, which (as they say) cannot err. Nevertheless pope Paschal, though he believed the council could not err, yet he thought them somewhat overseen to make so long a grant, and therefore he purchased a release of gentle Lewis, as they pretend. But verily it is more likely that they feigned that grant to excuse their tyranny, after they had taken the election into their hands again with violence, when the emperors were weak, and not able to resist them ; as they feigned the gift of Constantine, after they had invaded the empire with subtilty and falsehood. And, last of all, they brought in the oath of Otho, with the order that now is used, to choose the emperor.
 

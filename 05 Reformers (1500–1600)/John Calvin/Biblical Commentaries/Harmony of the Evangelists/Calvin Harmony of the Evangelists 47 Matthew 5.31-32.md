@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 47. Matthew 5:31-32;Luke 16:18
-
-**MATTHEW 5:31-32; LUKE 16:18**
 
 **31**. Again, it hath been said, Whoever shall put away his wife, let him give her a writing of divorcement. [^1] **32**. But I say to you, That whosoever shall put away his wife, except on account of unchastity, causeth her to commit adultery: and whosoever shall marry a woman that is put away committeth adultery.
 

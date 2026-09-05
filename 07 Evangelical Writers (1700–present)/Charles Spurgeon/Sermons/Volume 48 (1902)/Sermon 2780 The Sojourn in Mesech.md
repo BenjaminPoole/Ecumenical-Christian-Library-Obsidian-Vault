@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Sojourn in Mesech
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2780
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!" Psalm 120:5.
 
@@ -105,7 +102,7 @@ Herod shall be eaten of worms, though his voice is as the voice of a god and not
 
 they shall be as white as snow; though they are red like crimson, they shall be as wool.'" Trust in Jesus and you are safe! Cast yourself, once and for all on Him, and you cannot be lost, for he that relies on Jesus is a saved man! May God add the blessing of His Spirit, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK 16.
+## Exposition by C. H. Spurgeon: Mark 16
 
 Verse 1. And when the Sabbath was past, Mary Magdalene, and Mary, the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. True love had made a mistake, but it was true love for all that, and the Lord accepted it, although He had no need of the sweet spices that the women brought.
 
@@ -130,7 +127,6 @@ Verse 1. And when the Sabbath was past, Mary Magdalene, and Mary, the mother of 
 12, 13. After that He appeared in another form unto two of them, as they walked, and went into the country. And they went and told it unto the rest, but they did not believe them either Unbelief is not easily driven out of even true disciples, but let none of us ever harbor it in our hearts. As we see how unbelieving these disciples were and know how wrong their unbelief was, let us not be like they were.
 
 14-20. Afterward He appeared unto the eleven as they sat at the table, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen. And He said unto them, Go you into all the world, and preach the Gospel to every creature. He that believes and is baptized shall be saved; but he that believes not shall be damned. And these signs shall follow them that believe. In My name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover So then after the Lord had spoken unto them, He was received up into Heaven, and sat at the right hand of God. And they went forth, and preached everywhere, the Lord working with them, and confirming the Word with accompanying signs. Amen. God bless to us the reading of His holy Word! Amen.
-
 
 ---
 [[Sermon 2779 Heart-communing|← #2779]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2781 Jesus Calling|#2781 →]]

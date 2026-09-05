@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART III.
 
-IMPROVEMENT OF THE SECOND PERIOD.
+*Improvement of the Second Period*
 
 In surveying the history of redemption, we have now shown how this work was carried on through the two former of the three main periods into which this whole space of time was divided, *viz*. from the fall to the incarnation of Christ, and from thence to the end of the time of Christ’s humiliation. In the first of these periods, we have particularly explained how God prepared the way for Christ’s appearing and purchasing redemption; and in the second period, how that purchase was made and finished. I would now make some improvement of what has been said on both these subjects considered conjunctly.
 

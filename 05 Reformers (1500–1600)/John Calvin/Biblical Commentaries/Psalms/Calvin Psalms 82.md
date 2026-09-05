@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 82
-
-**PSALM 82**
 
 As kings, and such as are invested with authority, through the blindness which is produced by pride, generally take to themselves a boundless liberty of action, the Psalmist warns them that they must render an account at the bar of the Supreme Judge, who is exalted above the highest of this world. After he has reminded them of their duty and condition, perceiving that he speaks to such as refuse to receive admonition, he calls upon God to vindicate his character as a righteous judge. [^1]
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Enquiring of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2996
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass after this, that David enquired of the LORRD, saying, Shall I go up to any of the cities of Judah?" 2 Samuel 2:1.
 
@@ -55,7 +52,7 @@ ought, that we are living for God. Is there a man living who could truly say, wi
 
 II. Now I come to a second remark which is this. IF CHRISTIANS ASK GOD TO GUIDE THEM IN EVERYTHING THEY DO, THEY OUGHT TO SEE TO IT THAT THEY NEVER DO ANYTHING ABOUT WHICH
 
-THEY CANNOT ASK GOD'S GUIDANCE.
+## They Cannot Ask God's Guidance
 
 This Truth of God comes close to home to some people. For instance, unlawful pleasures are manifestly forbidden to the Christian. Those which the worldling may indulge in without any very great injury to himself are forbidden to the true Christian because he cannot enquire of the Lord about them. I have heard of people who say that they can go to the theater and yet are Christians. Well now, I would like somebody to write a form of prayer to be used by Christians in theatres, something to this effect—"O Lord, lead me not into temptation, but be pleased to bless the play tonight to my soul's welfare. Grant that if it is Your will that I should die here, I may enter into eternal life having gone from the pleasures of this life to the pleasures that are to be hereafter!" If I were to write such a prayer as that, you would say, "Oh, that is shocking! It is shocking for anybody even to thinkof praying there!" Ah, it is shocking—not shocking to think of praying, but shocking to go where you dare not pray Should a Christian ever be anywhere where he would be ashamed to die? I heard a lady once say that religion ought to be confined to places of worship and that it ought not to be talked about anywhere else. So I suggested to her that we ought to have our places of worship made larger, for, of course, people would want religion when they came to die—so they had better die where religion would be in its proper place!
 
@@ -69,7 +66,7 @@ I think this rule may help guide you through life—Do nothing upon which you ca
 
 III. Now, thirdly, THIS DIVINE GUIDANCE IS AS NECESSARY, NOW, AS IT EVER WAS, AND IT IS
 
-NECESSARY IN ALL THINGS.
+## Necessary in All Things
 
 Some people say, "Yes, we believe that the Lord's guidance would be a great blessing to us, and that it is our duty to seek it. But how can we get it? There is no priest to whom we can go for direction and we cannot go to our minister and say, 'What shall we do?' He is not able to give us the Infallible answer we need." Your minister does not wish to do it, for he thinks he is better employed in preaching the Gospel to you and giving you Infallible directions concerning your immortal souls! I certainly do not approve of the practice by which some people say they can tell the Lord's will by just opening the Bible and noticing the first text which catches their eye. I know that Mr. Wesley frequently practiced this plan, but, like some other good men, he had his faults and I know that others have imitated him. But I should think myself no more justified in seeking guidance in that way than I should in shuffling a pack of cards! I could no more expect to be guided by a text of Scripture, picked out in that haphazard style, than by a Norwood Gypsy. No, no! We are above all that kind of thing!
 
@@ -93,7 +90,7 @@ man came down and asked why he was there at that time of night. "Perhaps, Friend
 
 IV. And now, to close, let me say that WHEN WE HAVE RECEIVED COUNSEL FROM GOD ABOUT
 
-ANYTHING, LET US ACT ACCORDING TO IT.
+## Anything, Let Us Act According to It
 
 If you go and ask God about anything, do not, as some people do when they consult their minister, make up your mind beforehand as to what you will do. But having consulted your God and learned what is His will, mind that you do it. If all the devils in Hell stand in your way, mind that you do it. If friends oppose and foes assail you, still do it. There may be a point on which I differ from you, but I shall do what I believe is right and shall not hesitate, whoever may oppose. When God moves us, we are not to be turned aside by any man's words, or by a thousand men's words. If once we have, "Thus says the Lord," we must and will go on over the mountains and through the seas if God so wills it.
 
@@ -109,7 +106,7 @@ After they had sung the hymn, he went on talking to them. And when some big fell
 
 Whenever any of you have anything to do which you know is right, do it! After you have enquired of God, do not stop to consult friends, but go and do it! Take your sling and your stone and, in God's name, sling the stone into the giant's forehead and, like David, come back victorious, for that shall be your last answer to those who would persuade you not to do it! Never ask God to guide you and then, when He says, "This is the way," stand still, and say, "That way is too hard, too stern, too difficult, I will not walk in it." Go forward, for, if Hell, itself, were before you, God would divide it even as he divided the Red Sea for His ancient people! Only have faith in God, for "all things are possible to him who believes." There is one short message that God gives for guidance to everyone of us and more especially to you who are not converted! It is this, "Seek you My face." This very moment, "Believe on the Lord Jesus Christ and you shall be saved," for, "now is the accepted time; behold, now is the day of salvation!" When you have taken God's advice concerning your poor soul's eternal welfare. When you have believed in Jesus to the salvation of your soul—then go to Him about your temporal concerns and about everything—and you will then be able to say, with the Psalmist, "You shall guide me with Your counsel, and afterward receive me to Glory."
 
-EXPOSITION BY C. H. SPURGEON: PSALM 63.
+## Exposition by C. H. Spurgeon: Psalm 63
 
 "A Psalm of David when he was in the wilderness of Judah."
 
@@ -144,7 +141,6 @@ Verse 1. O God. Two very solemn words. Never use them, I pray you, as hasty, tho
 9, 10. But those that seek my soul, to destroy it, shall go into the lower parts of the earth. They shall fall by the sword: they shall be a portion for foxes. The jackal is the creature meant here, for he haunts the battlefield and devours the slain. So it came to pass with many of David's foes. They fell in battle and the wild beasts devoured them.
 
 11\. But the king shall rejoice in God: everyone that swears by Him shall glory: but the mouth of them that speak lies shall be stopped. If they cannot be stopped by reason or by repentance, they shall be stopped with a shovelful of earth, for God will stop the mouths of all liars in one way or another.
-
 
 ---
 [[Sermon 2995 Very Singular|← #2995]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2997 'Tempted of the Devil'|#2997 →]]

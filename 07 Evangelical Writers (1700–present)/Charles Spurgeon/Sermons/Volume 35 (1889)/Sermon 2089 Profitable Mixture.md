@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Profitable Mixture
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2089
 
-DELIVERED ON LORD'S DAY MORNING, JUNE 9, 1889,.
+*Delivered on Lord's Day Morning, June 9, 1889*
 
 > "For unto us was the Gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it." Hebrews 4:2.
 
@@ -172,7 +171,6 @@ wash away my crimson stains and scarlet spots and make me whiter than snow. Lord
 Try what you can do with eternal life itself. Say, "Lord, I believe that there is a spiritual life which You do breathe into Believers. I believe that this grows from Divine Grace to Glory. You give to Believers eternal life even here—death cannot kill it and so they live on and on and on, throughout eternity, forever blessed in Christ. I believe in the new creation. I appropriate it. I trust in Jesus for it. This heritage is mine! By faith I take it to myself." God will never take away what you can grasp by faith. Accept it and the acceptance makes it yours—for the Lord Himself made it yours long ago in His eternal purpose and, therefore, He has given you faith as a token that He ordained Heaven and perfection to be yours.
 
 Mix faith with every promise. Henceforth continue to practice the holy art of mixing faith with the revelations of Scripture. Compound them as the dispensers do. Here is a choice drug but it wants mixing with its proper affinity. The promise must be mixed with faith if it is to be life-giving to the soul. Mix it, then, with faith and be profited immediately and eternally. Be united to the Truth of God and it will save you. Let it come into union with you and you will never perish. The Lord help you to be joined unto His Truth by faith, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2088 The Form of Godliness Without the Power|← #2088]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2090 A Delicious Experience|#2090 →]]

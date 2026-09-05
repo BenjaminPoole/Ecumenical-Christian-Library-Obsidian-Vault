@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 121. Why is here added, "WHICH ART IN HEAVEN?"
-
-**Question 121. Why is here added, "WHICH ART IN HEAVEN?"**
 
 Answer. Lest we should form any earthly conceptions of God's heavenly majesty, and that we may expect from his almighty power all things necessary for soul and body.
 
-**EXPOSITION**
+## **Exposition**
 
 The second part of the preface of the Lord's prayer is contained in the words, Who art in heaven; that is, heavenly. The term heaven, as here used, signifies the abode or habitation of God, of the holy angels, and blessed men, concerning which God says in the prophecy of Isaiah, Heaven is my throne; and of which Christ says, In my father's house are many mansions. (Is. 66:1. John 14:2.) God is indeed everywhere by his immensity; but he is said to exist and to dwell in heaven, because he is there more glorious than in the world, and there manifests himself immediately. Christ now commands us to address God as our Father who art in heaven:
 
@@ -38,7 +35,7 @@ The second part of the preface of the Lord's prayer is contained in the words, W
 
 8. That we might be admonished not to direct our prayers to any particular place, as under the Old Testament.
 
-FORTY-SEVENTH LORD'S DAY
+## Forty-Seventh Lord's Day
 
 ---
 [[Ursinus HC Q120|← Question 120. Why hath Christ commanded us t]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q122|Question 122. Which is the first petition? →]]

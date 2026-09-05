@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 100. Matthew 12:14-21; Mark 3:6-12; Luke 6:11
-
-**Matthew 12:14-21; Mark 3:6-12; Luke 6:11**
 
 **14**. Then the Pharisees went out, and took counsel against him, how they might destroy him. [^1] **15**. But when Jesus knew this, he withdrew from that place; and great multitudes followed him, and he cured them all. **16**. And he threatened them, [^2] that they should not make him known: **17**. That it might be fulfilled which was spoken by Isaiah the Prophet, who says, **18**. Lo, my servant, whom I have chosen, my beloved, in whom my soul is well pleased: I will put my Spirit upon him, and he shall proclaim judgment to the Gentiles. **19**. He shall not strive, nor cry, nor shall any man hear his voice in the streets. **20**. The bruised reed he will not break, and the smoking flax he will not quench, till he send forth judgment into victory. **21**. And in his name the Gentiles will trust.
 

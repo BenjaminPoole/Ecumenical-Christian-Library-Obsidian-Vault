@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "Two Immutable Things"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2438
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yes, I swore unto you, and entered into a Covenant with you, says the Lord God, and you became Mine." Ezekiel 16:8.
 
@@ -157,7 +154,7 @@ If that is our feeling, it will lead us to practically renew the bond of the Cov
 
 And you who have never done so, may you come to Jesus this very moment! Your only hope lies in Him. God says by the mouth of His servant Isaiah, "Behold, I have given Him for a witness to the people, a leader and commander to the people." There is no Covenant between God and man except in Jesus Christ! Come, then, and take Christ as your Savior, and God has sworn to you, and entered into a Covenant with you, that He will never cast you away, but you shall be His in that day when He makes up His jewels. God grant it, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EZEKIEL 16:1-3, 6-16; 60-63.
+## Exposition by C. H. Spurgeon: Ezekiel 16:1-3, 6-16; 60-63
 
 In this very remarkable chapter, God describes His ancient people, Israel, under the figure of an infant which had been cast away, but which He had cared for and tended and upon which He had lavished much love, making it the object of His choice, on which His very heart was set. Yet this specially favored one had gone astray and committed all manner of wickedness. But for all that, the love of God had not been withdrawn. The whole chapter is a graphic picture of the way in which Israel and Judah went after false gods and forsook the only living and true God.
 
@@ -188,7 +185,6 @@ The rest of the chapter is rather for private reading than for the public assemb
 60, 61. Nevertheless I will remember my Covenant with you in the days of your youth, and I will establish unto you an everlasting Covenant. Then you shall remember your ways and be ashamed. Infinite mercy makes men ashamed of their sin-fulness. Great pardon produces both humility and holiness. The ungodly think that for God to forgive great sin will be to give a license to it, but the Lord knows that it is not so. He understands that the greatness of His forgiving love will be the cause of the pardoned sinner's hatred of sin—"Then you shall remember your ways and be ashamed."
 
 61-63. When you shall receive your sisters, your elder and your younger: and I will give them unto you for daughters, but not by your covenant. And I will establish My Covenant with you; and you shall know that I am the LORD: that you may remember, and be confounded, and never open your mouth any more because of your shame, when I am pacified toward you for all that you have done, says the Lord GOD. Pardon from God for great sin is a silencer to all our pride. We never dare open our mouths, again, because of our shame. Yet the blessed silence of a grateful heart makes true music before the Throne of God—and when the Lord opens our lips—then our mouth shall show forth His praise.
-
 
 ---
 [[Sermon 2437 Prayer, the Proof of Godliness|← #2437]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2439 Five Links in a Golden Chain|#2439 →]]

@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 4. Chapter II
 
-THE ONE UNIVERSAL CHURCH DIVIDED INTO THREE PARTS
+*The One Universal Church Divided into Three Parts*
 
 It having been said what the holy universal church is — that she is only one just as the number of all the predestinate is one, and also that she is distributed in her members throughout all the word — it must be known that this holy universal church is tripartite, that is, divided into the church triumphant, militant and dormient.
 
@@ -32,7 +31,7 @@ he drinks. The priest holds the two larger parts so that the smaller of the two 
 
 1 Jerusalem was regarded in the Middle Ages as the navel of the earth. The cross, according to Jerome, was erected over Adam's skull, which Shem had carried to Jerusalem after the Flood, and buried on the future Mount Calvary. Noah, according to Jacob of Edessa, had taken Adam's bones with him into the ark. The region limbus patrum was, according to the Schoolmen, the future abode, where the patriarchs and faithful Jews were detained until Christ's "descent into Hades." The future world is divided into five abodes, hell, the " place of dolors " (Th. Aquinas) , and " the deep prison into whose smoky atmosphere the demons are cast " (Alb. Magnus); purgatory, a sort of reformatory school, where the baptized are purged of sins clinging to them at death; heaven; and the abodes of the fathers and infants, limbus infantum. The last is the final dwelling-place of all unbaptized children dying in infancy, where they abide forever without hope of beatitude, without change, and without vision of God or physical light.
 
-THE ONE UNIVERSAL CHURCH
+## The One Universal Church
 
 But this universal church is a virgin, the bride of Christ — who is a virgin — from whom as from a true mother we are spiritually born. A virgin, I say, all beautiful and in whom there is no spot [Cant. 4 : 7.], " having neither spot nor wrinkle" [Eph. 5 : 27], holy and immaculate, and so most chaste even as she is in the heavenly country. Nevertheless by fornicating with the adulterant devil and with many of his children she is partially cornipt by wrong-doing. However, she is never received as the bride to be embraced, beatifically at the right hand and in the bed of the bridegroom, until she has become a pure virgin, altogether without wrinkle. For Christ is the bridegroom of virginity, who, as he lives forever, can not allow the bride to desert him and fornicate spiritually. Thus it is said of the multitude of the heavenly denizens that they are virgins and follow the Lamb wheresoever he goeth [Rev. 14 : 4]. But in the very first moment of the world Christ was predestinated to be the bridegroom of the church, and by establishing the angels [in glory] he gave a dowry to one part of the bride. And so also by establishing righteous Abel and other saints, up to the time of the incarnation, the church remained continually in her espousals. At the incarnation he made his second marriage by creating to be a queen a part of the whole church, which by a certain fitness is called the Christian church. For then our leader and legislator familiarly addressed his bride, as the apostle says, Heb. 1. By assuming human nature he put on our armor and as a giant overcame the enemies of the church and taught how a part of the church, as a jealous bride, ought to follow him.
 
@@ -46,7 +45,7 @@ The unity of the catholic church consists in the unity of predestination, inasmu
 
 2 In his Reply to Palecz, Mon., 1 . 321, Huss says again: "The grace of predestination is the chain by which the body of the church and every member of it are joined to Christ." He also speaks of the unity through love, faith, and hope, Mon., 1 : 326.
 
-THE ONE UNIVERSAL CHURCH 15
+## The One Universal Church 15
 
 Augustinc draws forth in expounding John 17 : 21, "that they all may be one," and in his letter to Dardanus,1 where he expounds the text "it is expedient that one man die for the people" [John 18 : 14]. " Caiaphas," Augustine says: "prophesied that God would gather together in one his children" [John 11 : 52], that is, not in one material locality; " but he has gathered them together into one spirit and one body, whose only head is Christ." To this unity the apostle refers, Eph. 4:3: " endeavoring to keep the unity of the Spirit in the bond of peace. There is one body, one Spirit, one Lord, one faith, one baptism, one God and Father of all." Nor is it to be doubted that without this union, as indicated before, is there any salvation.
 

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 16. Why must he be very man, and also perfectly righteous?
-
-**Question 16. Why must he be very man, and also perfectly righteous?**
 
 Answer. Because the justice of God requires that the same human nature, which hath sinned, should likewise make satisfaction for sin; and one, who is himself a sinner, cannot satisfy for others.
 
-**EXPOSITION**
+## **Exposition**
 
 It behooved our Mediator to be man, and indeed very man, and perfectly righteous.
 

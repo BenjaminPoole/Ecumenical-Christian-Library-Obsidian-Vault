@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 4. Letter III. To Archbishop Zbinek
-
-LETTER III. TO ARCHBISHOP ZBINEK
 
 (December 1408)
 

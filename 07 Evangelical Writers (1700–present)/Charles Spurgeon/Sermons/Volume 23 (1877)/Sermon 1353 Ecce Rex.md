@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Ecce Rex
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1353
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 6, 1877,.
+*Delivered on Lord's-Day Morning, May 6, 1877*
 
 > "He said unto the Jews, Behold your King." John 19:14.
 
@@ -140,7 +139,6 @@ You angels, tell what glories surround Him now! If He were King when He stood at
 None can overturn a kingdom which is founded on the death of its King! None can abolish a dominion whose deep foundations are laid in the tears and blood of the Prince, Himself. Napoleon said that he founded his empire by force and, therefore, it had passed away. "But," he said, "Jesus founded His Kingdom upon love and it will last forever." So it must be, for whatever may or may not be, it is written—"He must reign." As for us, if we wish to extend the Redeemer's Kingdom we must be prepared to deny ourselves for Christ. We must be prepared for weariness, slander and self-denial.
 
 In this sign we conquer! The Cross will have to be borne by us as well as by Him if we are to reign with Jesus. We must both teach the Cross and bear the Cross. We must participate in the shame if we would participate in the Glory! No thorn, no Throne! When again shall be heard the voice, "Behold your King," and Jew and Gentile shall see Him enthroned and surrounded with all His Father's angels—with the whole earth subdued to His power happy shall he be who shall then, in the exalted Savior, behold his King! The Lord grant us this day to be loyal subjects of the Crucified that we may be favored to share His glory.
-
 
 ---
 [[Sermon 1352 Strong Consolation for the Lord's Refugees|← #1352]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1354 All Things Are Ready, Come|#1354 →]]

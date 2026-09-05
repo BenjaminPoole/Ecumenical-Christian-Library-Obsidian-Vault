@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon XIV. The sin and judgment of spiritual barrenness. Ezekiel xlvii. 11
-
-## Sermon XIV. The sin and judgment of spiritual barrenness.
 
 “But the miry places thereof, and the marshes thereof shall not be healed; they shall be given to salt.” — Ezek. xlvii. 11.
 
@@ -133,7 +130,6 @@ Now, hence it is that God may at the same time remove his gospel from a place, j
 3*dly*. God withdraws the efficacy of his Spirit in the dispensation of the word, that it shall not have that strength and power on them as upon others. God sends his word towards his own in a way of covenant; and then it is always accompanied with his Spirit, Isa. lix. 21. And where God dealeth with men in covenant mercy, these go together. But now when he casts men out of his care, though the word may be preached to their ear, because of some others whom he yet cares for, yet he hath said concerning them, that his Spirit shall strive with them no more. And thence it is that the word makes no impression on them, — its healing virtue is as to, them withheld.
 
 And this is the first thing the Lord doth to such poor creatures as he leaves to salt, to barrenness, and ruin, for despising the season and means of their healing, — he casts them out of his care, as to the dispensation of the word.
-
 
 ---
 [[SJO 070 Sermon XIII. Providential changes, an argument for universal holiness. 2 Peter|← Sermon XIII. Providential changes, an argument for universal holiness. 2 Peter iii. 11]] · [[Sermons of John Owen|Contents]] · [[SJO 072 Sermon XV. The sin and judgment of spiritual barrenness. Ezekiel xlvii. 11|Sermon XV. The sin and judgment of spiritual barrenness. Ezekiel xlvii. 11 →]]

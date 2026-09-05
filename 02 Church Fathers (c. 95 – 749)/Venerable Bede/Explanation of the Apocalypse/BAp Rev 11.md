@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 11
 
 V. 1. reed. He received the office of writing the Gospel in the reed, which is not useless with a vain lustre, but is like " the rod of equity^ the rod of the kingdom of God *,*' for it describes the eternal kingdom of Christ.
@@ -22,8 +20,6 @@ worship. For not all they who are seen therein worship, as he " who shall confes
 ■ Ezck. iii. 14. • Ps. xliv. 7 (xlv. A. V. 6).
 
 P St. Matt. X. 33; St Luke xii. 8.
-
-7a ExpUmatian of the Apocalypse. [bk. ii.
 
 2. without Hiey who in name alone are united to the Churchy and who neither draw near to the altar nor the most holy place, are cast forth by the rule of the Gospel, and are joined to the nations. For *' all the glory of her who is the daughter of kings is from within ^'*
 
@@ -49,8 +45,6 @@ self in sackcloth of hair, while they were vexatious unto me \^
 
 • Ps. ixxiv. (xxxv. AV.) 13; Vulg., Bed., "mihimolesti," "vexatious;" A. V. "sick." • Zech. iv. 2, 3. ^ St Matt xxvl 52. * Prov. xxY. 22; Rom. xti. 2a ' Isaiah v. 6.
 
-74 ExphmaHan of the Apocalypse. [bk. \i.
-
 waters. Not only do they make to cease the waters, but they also render those which had come down useless; and this is, to turn the waters into blood. The sweet savour of Christ, which comes with fragrance from the Church, is "to some a savour of death unto death, to others a savour of life unto life." 7. testimony. He shews clearly, that all these things take place before the last persecution, by saying, "when they shall have finished their testimony;" namely, that which they give, until the revelation of the beast, who is to come forth from the hearts of the ungodly. It is not that they do not then strive boldly to resist the enemy by the same testimony, but that the Church, as is supposed, will then be left destitute of the gift of miracles, while the adversary is resplendent with them in the sight of all through l3dng wonders. For, as the Lord ssySy "Want shall go before his face •."
 
 kill. He will overcome in those who shall succumb, he will kill in those who, with laudable patience, shall be slain. Or: if he shall overcome and kill spiritually, we may take it of a part of the wit. nesses, as the Lord says in the Gospel, "They will deliver you up to. affliction, and kill you*;" which Luke the Evangelist intimates to have been spoken of a part, saying, " Some of you they will kill*."
@@ -68,8 +62,6 @@ Sodom. That is, ''silent and dark," having forsooth neither the light of £siith
 9. see. He said not the peoples and tribes will see, but, many from among the peoples who openly deride the saints, when others believe.
 
 tombs. He has spoken of their wish and their opposition: not that they are able to effect that the Church should not be their memorial; as it is said, " Ye neither enter in, nor suffer others to enter in V seeing that some do enter in, although they oppose. But they will evidently effect, in respect of the bodies of the living and of the slain, that neither are the living suffered to meet together for their memory by the celebration of holy offices, nor the slain to have their names recited for their memory, nor to have their bodies buried for their memoiy as witnesses of Crod. ' St John xy. aa Rom. x. la 'St Matt, xziii. 13.
-
-j6 Explanaii&n of the Apocalypse [bk. ii.
 
 10. rejoice. As often as the righteous are afficted, the unri^teotts exult and feast', as, ''while the ungodly is lifted up, the poor is consumed \"
 
@@ -128,8 +120,6 @@ corrupted. This is the last woe. Therefore, concerning the seven angels sounding
 19. The temple of God, which was placed aforetime on the earth, had the ark of the covenant, ipcloscd within the mystical veil. But now, in the Church, which is "the temple of die living God"," whose "conversation is in heaven V' the ark of His Incarnation is laid open to the whole world, as the veil of the old temple, and the middle wall of partition, have been rent asunder by the blood of the Lord. For like the heavenly manna in clean gold is the Divinity in a holy body.
 
 lightnings. These all are the miracles of the splendour, and preaching, and wars of the Church. He had said also that these things took place in the description of the announcement of the seven angels, from the Advent of the Lord, when He stood uoon the altar', but generally from the bep'
-
-8o Explanatum of the Apocalypse* [bk. ii.
 
 end. Then he described particttlarly in what man ner they took place, as he also does now, that the temple of God is opened in heaven, and that conflicts follow.
 

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 177. Numbers 26:1-65
-
-**Numbers 26**
 
 **1.** And it came to pass after the plague, that the Lord spake unto Moses, and unto Eleazar the son of Aaron the priest, saying,
 

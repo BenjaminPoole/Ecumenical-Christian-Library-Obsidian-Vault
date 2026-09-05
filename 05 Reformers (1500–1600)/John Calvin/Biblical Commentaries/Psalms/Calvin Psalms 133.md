@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 133
-
-**PSALM 133**
 
 A Psalm of thanksgiving for that holy concord which prevailed in the nation, and which the Lord’s people are earnestly exhorted to maintain.
 

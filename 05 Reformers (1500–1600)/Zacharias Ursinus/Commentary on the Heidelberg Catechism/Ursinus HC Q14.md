@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 14. Can there be found anywhere one, who is a mere creature, able to satisfy for us?
-
-**Question 14. Can there be found anywhere one, who is a mere creature, able to satisfy for us?**
 
 Answer. None; for first, God will not punish any other creature for the sin which man hath committed; and further, no mere creature can sustain the burden of God's eternal wrath against sin, so as to deliver others from it.
 
-**EXPOSITION**
+## **Exposition**
 
 The exclusive particle mere is added in this question, that the negative answer may be true; for it was necessary that a creature should make satisfaction for the creature's sin, but not such an one as was merely or only a creature, because such an one could not make the satisfaction which was required, as will appear in the remarks which we shall now make.
 

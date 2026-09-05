@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Four Contrasts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2548
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But now thus says the Lord that created you, O Jacob, and He that formed you, O Israel, fear not: for I have redeemed you, I have called you by your name; you are Mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overflowyou: when you walk through the fire, you shall not be burned; neither shall the flame kindle upon you. For I am the Lord your God, the Holy One of Israel, your Savior: I gave Egypt for your ransom, Ethiopia and Seba for you. Since you were precious in My sight, you have been honorable, and I have loved you: therefore will I give men for you, and people for your life. Butyou have not called upon Me, O Jacob; butyou have been weary of Me, O Israel. You have not brought Me the small cattle of your burnt offerings; neither have you honored Me with your sacrifices. I have not caused you to serve with an offering, nor wearied you with incense. You have bought Me no sweet cane with money, neither have you filled Me with the fat of your sacrifices: but you have made Me to serve with your sins, you have wearied Me with your iniquities. I, even I, am He that blots out your transgressions for My own sake, and will not remember your sins." Isaiah 43:1-4;22-25.
 
@@ -99,9 +96,9 @@ Now, Beloved, have you honored God? He says in our text, "Neither have you honor
 
 "Chosen of Him before time began," and then redeemed with the heart's blood of the Son of the Highest. It is the least we can do, to make every faculty we possess subordinate to this end of honoring and glorifying God! It is for this He has created us, for this He has called us, for this He has redeemed us, for this He has sanctified us! Therefore let us set about it at once and think and plan within our hearts what we can do for the glory and honor of Him who has redeemed us unto Himself. The Lord bless this message to all here present, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-ISAIAH 43:1-7; 21-28; 44:1-5.
+## Isaiah 43:1-7; 21-28; 44:1-5
 
 Isaiah 43:1. But now thus says the Lord that createdyou, O Jacob, andHe that formedyou, OIsrael, fearnot: forI have redeemed you, I have called you by your name; you are Mine. "Fear not," is a command of God and is a command which brings its own power of performance with it. God, who created and formed us, says to us, "fear not," and a secret whisper is heard in the heart by which that heart is so comforted that fear is driven away. "Fear not: for I have redeemed you." That is a good reason why we should never fear again! Redemption is a well of consolation and the redeemed of the Lord have nothing whatever to fear.
 
@@ -138,7 +135,6 @@ Isaiah 43:1. But now thus says the Lord that createdyou, O Jacob, andHe that for
 26-28. Put Me in remembrance: let us plead together: declare you, that you may be justified. Your first father has sinned, and your teachers have transgressed against Me. Therefore Ihave profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
 
 Isaiah 44:1-5. Yet now hear, O Jacob My servant; and Israel, whom Ihave chosen: thus says the Lord that made you, and formed you from the womb, which will help you; fear not, O Jacob, My servant; and you, Jeshurun, whom I have chosen. For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour My spirit upon your seed, and My blessing upon your offspring: and they shall spring up as among the grass as willows by the water courses. One shall say, I am the Lord's and another shall call himself by the name of Jacob. And another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel. There are different ways of making the same profession of attachment to the Lord. All do not acknowledge in the same way their faith in God, but it is a great blessing when our offspring acknowledge it. Let us end our reading with that sweet blessing upon our children—"I will pour My spirit upon your seed, and My blessing upon your offspring. May it come to pass in all our families, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2547 Return! Return!|← #2547]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2549 Luminous Words|#2549 →]]

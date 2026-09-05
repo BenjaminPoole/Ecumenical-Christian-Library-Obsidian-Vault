@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # One More Cast of the Great Net
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1931
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it shall come to pass that whoever shall call on the name of the Lord shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the Lord has said, and in the remnant whom the Lord shall call." Joel 2:32.
 
@@ -128,7 +125,6 @@ Believing Jews are a remnant to this day and only here and there is one called b
 The feast is great! The guests are few! I see an ocean of mercy without a shore and on it there floats an ark wherein but few are saved. Shall it always be so? Oh, come, and receive the gift of Free Grace! Alas, I see men sunk in the darkness of unbelief and only a remnant rising to the light of faith! Altogether, in this London, out of four or five millions, we have not half a million at worship at any one time! Out of that half million, how many do you think are real Christians? Truly, it is still a remnant. Oh, that you and I may be of that remnant!
 
 Let us further pray the Lord to gather in the multitude and so to accomplish speedily the number of His elect. Oh, that He would not only magnify the Sovereignty of His Grace, but reveal the largeness of it! Oh, that He would give the well-beloved Jesus to see of the travail of His soul till He is satisfied! O Lord, the oxen and the fatlings are killed, and all things are ready—let it not be again reported that those who are bidden are not worthy! Or, if it is so, enable us to go out into the highways and hedges and compel the outcasts to come in, that the wedding may be furnished with guests! Go forth, you messengers of Christ, into all the world! Rise up, my Brothers, from this service, and go forth, everyone of you, to call in as many as you find—yes, to compel them to come in! May the Lord cause that in London and in Britain there may be deliverance—yes, may His salvation be made known unto the ends of the earth! Amen.
-
 
 ---
 [[Sermon 1930 Is It True|← #1930]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1932 Love's Law and Life|#1932 →]]

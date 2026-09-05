@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Romans 13:1-2
 

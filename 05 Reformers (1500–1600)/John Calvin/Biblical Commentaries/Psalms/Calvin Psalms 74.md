@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 74
-
-**PSALM 74**
 
 The people of God in this psalm bewail the desolate condition of the Church, which was such that the very name of Israel was almost annihilated. It appears from their humble supplications that they impute to their own sins all the calamities which they endured; but at the same time they lay before God his own covenant by which he adopted the race of Abraham as his peculiar people. Afterwards they call to remembrance how mightily and gloriously he had in the days of old displayed his power in delivering his Church. Encouraging themselves from this consideration, they beseech Him that he would at length come to their aid, and remedy a state of matters so deplorable and desperate.
 

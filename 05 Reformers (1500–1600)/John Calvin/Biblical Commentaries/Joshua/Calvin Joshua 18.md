@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 18
 
-**CHAPTER 18**
+***Chapter 18***
 
 ## Joshua 18:1-10
 

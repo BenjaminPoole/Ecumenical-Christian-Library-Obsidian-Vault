@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "Peace in Believing"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2626
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Peace in believing." Romans 15:13.
 
@@ -87,7 +84,7 @@ Lastly, I believe that "peace in believing" is one of the best instrumentalities
 
 In conclusion, to gather up all in a word, you who have no peace may have it even now. Believe! That is, trust! Trust Jesus with your souls and you shall have "peace in believing." And you who have it, though it is somewhat broken, may have it to the fullest! Where you obtained your first peace, you can get more! Where peace has only trickled in, it can come pouring in, it can rush in like a Heavenly deluge and flood your entire nature, to the praise and glory of your gracious God! May He make it to be so, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:14-39.
+## Exposition by C. H. Spurgeon: Romans 8:14-39
 
 Verse 14. For as many as are led by the Spirit of God, they are the sons of God. Leading implies following and those who are enabled to follow the guidance of the Divine Spirit are most assuredly children of God, for the Lord always leads His own children. If, then, you are following the lead of God's Spirit, you have one of the evidences of sonship!
 
@@ -128,7 +125,6 @@ Mark, Brothers and Sisters, how the Apostle speaks here. He does not say that al
 37-39. No, in all these things we are more than conquerors through Him that loved us. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord—
 
 "Not all that men on earth can do, Nor powers on high, nor powers below, Shall cause His mercy to remove, Or wean our hearts from Christ our love." Glory be unto His holy name! Amen.
-
 
 ---
 [[Sermon 2625 The Dumb Singing|← #2625]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2627 The Best Friend|#2627 →]]

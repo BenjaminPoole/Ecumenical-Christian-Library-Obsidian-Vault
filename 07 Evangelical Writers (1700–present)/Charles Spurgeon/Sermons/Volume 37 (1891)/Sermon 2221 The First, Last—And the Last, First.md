@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The First, Last—And the Last, First
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2221
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But many who are first will be last, and the last, first." Matthew 19:30.
 
@@ -140,7 +137,6 @@ Brother who was converted only a week or two ago, got his penny and I am glad of
 One thing more, and I am done. I have only been talking to God's people all this while because you that are not saved cannot serve Him. What a miserable position yours is! You are out of the pale of service. God will receive nothing of you till you come to Christ. The only way to bring sacrifice is to bring it through the great High Priest, the Lord Jesus Christ! "Except you be converted, and become as little children, you shall not enter into the Kingdom of Heaven." Much less shall you be accepted as servants there. I beseech you, by the thought of the Grace of which I have been speaking, to rest not until you can say that Christ has saved you, made you a partaker of His Grace and sent you forth into His royal service. The Lord bless you! Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Matthew 19:16-30; 20:1-16.
-
 
 ---
 [[Sermon 2220 Three Decisive Steps|← #2220]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2222 Lydia, the First European Convert|#2222 →]]

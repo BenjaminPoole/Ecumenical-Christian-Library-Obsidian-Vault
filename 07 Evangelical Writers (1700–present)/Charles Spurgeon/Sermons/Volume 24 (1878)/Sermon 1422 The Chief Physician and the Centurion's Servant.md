@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Chief Physician and the Centurion's Servant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1422
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 30, 1878,.
+*Delivered on Lord's-Day Morning, June 30, 1878*
 
 > "Jesus said unto him I will come and heal him." Matthew 8:7.
 
@@ -148,7 +147,6 @@ Now, if anyone here will try in his own case this Divine method of healing, it w
 Let me add once more—if you who are converted long to see others saved, you will be wise to keep to the established method. Pray, believe and then expect the Lord to work by His own Word in answer to your prayer! The centurion rose to this method. He began lower by desiring a personal visit, but he grew up to this plain, simple, yet glorious way! Can you not do the same? Seek no marvels, but test the power of the Gospel upon your friends. Do not ask the Lord to go out of His way, but beseech Him to apply His Word with power to those whose eternal welfare lies near your heart. Bring your loved ones under the sound of the Gospel and entreat the healing Lord to put forth His power thereby and your desire shall be accomplished!
 
 Alas, if the Son of Man comes, shall He find faith on the earth? If He were to come now and ask us all to put into the collection box what faith we have—when He opened it, would it come to the eighth part of a farthing? Yet every man among us that is a Believer ought to have an inexhaustible treasure of golden faith! Lord, we believe! Help You our unbelief! Lord, increase our faith! Amen.
-
 
 ---
 [[Sermon 1421 The Hiding of Moses by Faith|← #1421]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1423 A Sacred Solo|#1423 →]]

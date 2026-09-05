@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 11
 
 ## Lecture Forty Fourth
 
-**CHAPTER 11**
+## **Chapter 11**
 
 ## Jeremiah 11:1-5
 
@@ -93,7 +92,7 @@ There is then no doubt but that Jeremiah had been repulsed by this kind of insol
 
 ## Prayer Lecture 44
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased daily to invite us to thyself with so ranch benignity and kindness, we may not with deaf ears turn aside from the doctrine which is set forth for our salvation, but that we may attend to it and persevere also in that obedience which thou justly requirest from us, so that we may make increasing progress in true religion, and so form the whole course of our life according to thy righteous law, that we may fight as good soldiers to thee in this world, until we shall at length come to that blessed rest, which is prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -169,7 +168,7 @@ The meaning is, that the Jews, when oppressed by calamities, would make their pr
 
 ## Prayer Lecture 45
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased, in so kind a manner, according to thy paternal kindness, to invite us to thyself, we may not be refractory, but winingly and quietly submit ourselves to thee, and not wait until thou shakest us with terror, and shewest us signs of thy wrath; hut may we anticipate thy dreadful judgment, and thus always go on, so as to have no other object in view but to glorify thy name through the whole course of our life, until we shall at length be made partakers of that glory which thine only begotten Son has obtained for us. — Amen.
 
@@ -265,7 +264,7 @@ But after having thus spoken by way of concession, he then adds, *At the sound o
 
 ## Prayer Lecture 46
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast deigned to gather us into thy Church, we may never turn aside in the least from the purity of thy worship, but always regard what pleases thee, and learn to direct our doings and our thoughts in obedience to thy truth, and worship thee so purely both in spirit and in external forms, that thy name may be glorified by us, and that we may especially retain that purity which thou everywhere commendest to us, so that we may be indeed the members of thy only begotten Son; and that as he has sanctified himself on our account, we may also through his Spirit be made partakers of the same sanctification, until he at length will gather us into his celestial kingdom, which he has obtained for us by his own blood. — Amen.
 
@@ -360,7 +359,7 @@ As the citizens of Anathoth had grievously sinned, so he denounces on them an es
 
 ## Prayer Lecture 47
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou remindest us in thy word of our many vices and sins, we may learn to direct our eyes and thoughts to thee, and never think that we have to do with a mortal being, but that we may anticipate thy judgment: and may we learn so to examine all our thoughts and try our feelings, that no hypocrisy may deceive us, and that we may not sleep in our sins; but that being really and truly awakened, we may humble ourselves before thee, and so seek thy pardon, that when we he down in true repentance, thou mayest absolve us in thy mercy, through the virtue of that sacrifice by which thine only — begotten Son has once for all reconciled us to thee. — Amen.
 

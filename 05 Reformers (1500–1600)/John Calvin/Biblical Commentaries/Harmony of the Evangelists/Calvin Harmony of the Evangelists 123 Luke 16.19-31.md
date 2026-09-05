@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 123. Luke 16:19-31
-
-**Luke 16:19-31**
 
 **19**. There was a certain rich man, who was clothed in purple and fine linen, [^1] and feasted sumptuously every day: **20**. And there was a certain beggar, named Lazarus, who lay at his gate, full of sores, **21**. And desiring to be fed from the crumbs which fell from the rich man’s table: and even the dogs came and licked his sores. **22**. And it happened that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; **23**. And, lifting up his eyes in hell, when he was in torments, he seeth Abraham afar off, and Lazarus in his bosom. **24**. And he, crying out, said, Father Abraham, have compassion on me, and send Lazarus to dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. **25**. And Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and Lazarus likewise evil things: but now he enjoys comfort, and thou art tormented. **26**. And besides all these things, a vast gulf lieth between us and you; so that they who wish to pass hence to you cannot, nor can they pass to us thence. **27**. And he said, I beseech thee, therefore, father, to send him to my father’s house: **28**. For I have five brothers, that he may testify to them, lest they also come into this place of torment. **29**. Abraham saith to him, They have Moses and the prophets: let them hear them. **30**. But he said, Nay, father Abraham; but if one went to them from the dead, they will repent. **31**. And he said to him, If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead.
 

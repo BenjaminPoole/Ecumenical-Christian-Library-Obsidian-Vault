@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Heb 3:1-6
 

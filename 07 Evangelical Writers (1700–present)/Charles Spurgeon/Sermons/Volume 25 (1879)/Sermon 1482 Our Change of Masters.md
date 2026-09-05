@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Our Change of Masters
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1482
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 6, 1879,.
+*Delivered on Lord's-Day Morning, July 6, 1879*
 
 > "Being then made free from sin, you became the servants of righteousness." Romans 6:18.
 
@@ -134,7 +133,6 @@ This is your Master and these are the signs of His love for you! What service wi
 We need men and women on fire with love—consecrated all over, intensely devoted—who, by the slavery from which they have escaped and by the liberty into which they have entered, are under oath to spend and be spent for the name of Jesus till they have filled the earth with His Glory and made all Heaven ring with His praise! The Lord bless you, Beloved, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 6. HYMNS FROM "OUR OWN HYMN BOOK"—116 (SONG II), 658, 119 (SONG III).
-
 
 ---
 [[Sermon 1481 The Red Heifer|← #1481]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1483 The Present Crisis|#1483 →]]

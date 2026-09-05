@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 159. Matthew 19:16-22; Mark 10:17-22; Luke 18:18-23
-
-Matthew 19:16-22; Mark 10:17-22;  
-Luke 18:18-23
 
 **16**. And, lo, one came and said to him, Good Master, what good thing shall I do, that I may have eternal life? **17**. Who said to him, Why callest thou me good? There is none good but God alone? [^1] but if thou wilt enter into life, keep the commandments. **18**. He saith to him, Which? And Jesus said, Thou shalt not murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, **19** Honor thy father and mother: and, Thou shalt love thy neighbor as thyself. **20**. The young man saith to him, All these things have I kept from my youth: what do I still want? **21**. Jesus saith to him, If thou wilt be perfect, go sell what thou hast, and give to the poor, and thou shalt have a treasure in heaven; and come, follow me. **22**. And when the young man heard that saying, he went away sorrowful; for he had many possessions. [^2]
 

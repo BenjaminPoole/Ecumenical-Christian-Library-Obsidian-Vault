@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Blessings Manifold and Marvelous
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3474
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He delivered me, because He delighted in me." Psalm 18:19.
 
@@ -53,7 +50,7 @@ We shall soon reach the last struggle. Jordan is only a narrow stream which part
 
 I said this was a hope to cultivate, that you might sing for joy in the article of death when heart and flesh fail. I hope that you will. Let me encourage you, Christian people, to sing a great deal more than you do. Of old London, in the Puritan time, it was said that you might have heard songs and prayers in well-near every house as you walked at the breakfast hour from St. Paul's to Eastcheap. Family worship was then the prevailing custom! It would not be so now in any town in England—the more the pity. I hear the waggoner in the country, and the costermonger in the city, humming a tune or singing a song. Why should not you, my Friends, enliven your listless intervals with a hymn? The world has its popular music—why should not we stir up some soul-inspiring melodies? Soldiers go to battle with martial airs—let us go to our battle with the songs of Zion! When the sailors are tugging and pulling at the rope and weighing the anchor, they send up a cheery shout and they work better for it, too. Christian Friends, while you work, lighten the toil with sacred song! Serve God with gladness! I have often been charmed at eventide on the canals at Venice to hear the gondoliers sing in chorus some glorious old chant. So, Christians, as you steer your vessels to Heaven, and tug at the oar, sing as you row, sing as you work! Sing, for you have much to sing about! Be glad, and praise the Lord who has delivered you! And now we have—
 
-II. A PRECIOUS TRUTH TO THINK ABOUT.
+## II. A Precious Truth to Think About
 
 "He delighted in me." "He delivered me because He delighted in me." Deliverance from sin, deliverance from evil propensities, deliverance from spiritual enemies—all such deliverances bear evidence of God's love to us. Temporal mercies betoken the freeness of the Divine bounty, but they are never bestowed as the earnest of God's special love. Such inferior gifts He often lavishes in abundance upon those who are not His people. Spiritual blessings He reserves for His own redeemed, regenerate family! Their value is enhanced by their significance, because they are proofs of His eternal love towards us. While they grant us safe conduct through the wilderness, they guarantee to us eternal life when these pilgrimage days are over and done. If you have experienced the kinds of deliverance I have been describing, you have many tokens of His good will and the tenderness with which He delights in you.
 
@@ -89,7 +86,7 @@ them better! I would that we served God with more vigor. It is not more preachin
 
 As for those who know not God, they have no capacity to serve Him. My prayer to God for you is that He may bring you to see Christ Crucified. When you put your trust in Him, you shall be delivered. Then you shall sing, "He delivered me because He delighted in me." And after that it shall be your welcome mission to go and tell what great things He has done for you. May this be the joyous occupation of all of us! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS2.
+## Exposition by C. H. Spurgeon: Ephesians 2
 
 Verse 1. And you has He quickened, who were dead in trespasses and sins. These were your grave clothes. You were wrapped up in them. No, this was your tomb! You were shut up in it, as in a great stone coffin—"Dead in trespasses and sins."
 
@@ -134,7 +131,6 @@ Verse 1. And you has He quickened, who were dead in trespasses and sins. These w
 20, 21. And are built upon the foundation of the Apostles and Prophets, Jesus Christ, Himself, being the chief cornerstone: In whom all the building fitly framed together grows unto an holy temple in the Lord. The Church is a framed house. It has an Architect. Some seem to think that it is a load of bricks. They have no church officers. There are none set apart to this work, and none to the other. It seems to be just a heap of stones thrown down any way. But a true Church is, by the Spirit of God, a building fitly framed together. One is a door, another is a window. One lies low and hidden in the foundation. Another may have a more prominent position in the wall. And it should be so with us—that we should each have a place that God has appointed him, and keep to that place. Lord, build up Your Church upon earth at this time!
 
 22\. In whom you also are built together for an habitation of God through the Spirit We are not built to stand like a carcass. It is a ghastly sight to see houses in London nearly finished, but never occupied—but it is the glory of the Church of God that it is inhabited! It is a habitation of God through the Spirit. Holy Spirit, dwell more evidently in Your Church! Keep open house for all poor sinners who come to Christ and glorify God!
-
 
 ---
 [[Sermon 3473 Household Sin and Sorrow|← #3473]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3475 The Soul's Great Crisis|#3475 →]]

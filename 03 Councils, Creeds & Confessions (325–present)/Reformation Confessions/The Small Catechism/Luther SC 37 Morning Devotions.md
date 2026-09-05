@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 37. Morning Devotions
 
 ### Appendix I. How a Father Should Teach His Household to Conduct Morning and Evening Devotions.
-
-Morning Devotions
 
 As soon as you get out of bed in the morning, you should bless yourself with the sign of the Holy Cross and say:
 

@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Critias
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-CRITIAS
+## Critias
 
 by Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 The Critias is a fragment which breaks off in the middle of a sentence.
 It was designed to be the second part of a trilogy, which, like the
@@ -300,15 +295,9 @@ may have suggested the introduction of his name. Why the Critias was
 never completed, whether from accident, or from advancing age, or from a
 sense of the artistic difficulty of the design, cannot be determined.
 
-
-
-
-
-CRITIAS.
-
+## Critias
 
 PERSONS OF THE DIALOGUE: Critias, Hermocrates, Timaeus, Socrates.
-
 
 TIMAEUS: How thankful I am, Socrates, that I have arrived at last, and,
 like a weary traveller after a long journey, may be at rest! And I pray

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Greatest Wonder of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3377
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I was left" Ezekiel 9:8.
 
@@ -59,7 +56,7 @@ But it was not their mourning which saved those who escaped—it was the mark wh
 
 This brings me to this last point of which I desire to speak. What were—
 
-III. THE PROPHET'S EMOTIONS WHEN HE SAID, "AND I WAS LEFT"?
+## III. The Prophet's Emotions When He Said, "and I Was Left"?
 
 He saw men falling right and left and he, himself, stood like a lone rock amidst a sea of blood! And he cried in wonder, "And I was left."
 
@@ -93,7 +90,7 @@ Oh, beloved Friends, if you are left while others perish, I beseech you, by the 
 
 But are you in very deed reconciled to God yourselves? Reader, are you cured of the awful disease of sin? Are you marked with the blood-red sign of trust in the atoning blood? Do you believe in the Lord Jesus Christ? If not, the Lord have mercy upon you! May you have sense enough to have mercy upon yourself! May the Spirit of God instruct you to that end. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:14-30.
+## Exposition by C. H. Spurgeon: Romans 8:14-30
 
 Verse 14. For as many as are led by the Spirit of God, they are the sons of God. Not those who say they are "the sons of God," but those who undoubtedly prove that they are by being led, influenced, gently guided by the Spirit of
 
@@ -132,7 +129,6 @@ reproach of men. With Him in the honor at the right hand of the Father. But if w
 36\. As it is written, For Your sake we are killed all the daylong; we are accounted as sheep for the slaughter. But have they divided the saints from the love of Christ? Have they made the saints leave off loving Christ, or Christ cease from loving His people?
 
 37-39. No, in all these things we are more than conquerors through Him that loved us. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. For which blessed be the name of the adorable Trinity, world without end!
-
 
 ---
 [[Sermon 3376 God's Answer to Persistent Prayer|← #3376]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3378 God's Prison, Warden and Prisoner|#3378 →]]

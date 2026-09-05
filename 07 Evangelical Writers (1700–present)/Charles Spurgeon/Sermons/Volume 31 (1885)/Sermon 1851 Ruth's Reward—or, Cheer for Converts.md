@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Ruth's Reward—or, Cheer for Converts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1851
@@ -65,7 +64,7 @@ II. But now I must come closer to the text. Having shown you what these converts
 
 I need, in the second place, to answer the question, WHAT IS THE FULL REWARD OF THOSE WHO COME TO
 
-TRUST UNDER THE WINGS OF GOD?
+## Trust Under the Wings of God?
 
 I would answer that a full reward will come to us in that day when we lay down these bodies of flesh and blood, that they may sleep in Jesus, while our unclothed spirits are absent from the body but present with the Lord. In the disembodied state, we shall enjoy perfect happiness of spirit. But a fuller reward will be ours when the Lord shall come a second time and our bodies shall rise from the grave to share in the glorious reign of the descended King! Then, in our perfect manhood, we shall behold the face of Him we love and shall be like He! Then shall come the adoption, to wit, the redemption of our body and we, as body, soul and spirit—a trinity in unity—shall be forever with Father, Son and Holy Spirit—our triune God! This unspeakable bliss is the full reward of trusting beneath the wings of Jehovah!
 
@@ -130,7 +129,6 @@ Ruth obtained an inheritance among the chosen people of Jehovah. She could not h
 As I conclude, I bear this, my personal testimony, to the benefit of godliness for this life. Apart from the glories of Heaven, I would wish to live trusting in my God and resting in Him for this present life since I need His present aid for every day as truly as I shall need it at the last day. Men speak of secularism as attending to the things which concern our present life and I am bold to assert that the purest and best secularism is that which trusts itself with God for things immediately around us! We shall be wise to make secular things sacred by trusting them with God. Faith is not for eternity, alone, but for this fleeting hour, also—it is good for the shop and for the marketplace—for the field and for the domestic hearth. For the cares of the moment, as well as for everything else, we take refuge under the wings of God! There shall we be blessed, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ruth 2:1-14; Proverbs 3
-
 
 ---
 [[Sermon 1850 Immeasurable Love|← #1850]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1852 The Modern Dead Sea and the Living Waters|#1852 →]]

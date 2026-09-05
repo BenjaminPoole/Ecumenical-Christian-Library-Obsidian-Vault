@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # God's Pupil, God's Preacher—an Autobiography
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2318
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O God, You ha ve taught me from my youth: and until this time ha ve I declared Your wondrous works." Psalm 71:17.
 
@@ -97,7 +94,7 @@ I wish I could turn some Christian people out of their pews and get them, at thi
 
 Begin to pray for your disagreeable neighbors. Begin to pray for your unconverted friends and the Lord will turn your own captivity while you are doing that! By blessing others, you shall be blessed yourself. God grant that it may be so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. PSALM77.
+## Exposition by C. H. Spurgeon. Psalm 77
 
 This Psalm is headed, "To the chief Musician, to Jeduthun." He was one of the great singers. There is opportunity given in the Psalms for each of the singers to take his turn. It does not do for any of us to be idle in reference to the praise of God. It is called, "A Psalm of Asaph." His Psalms have usually a dark tinge about them. He was a meditative man, "a man of sorrows and acquainted with grief," but also a man of strong faith and of an exulting spirit. You need to do business in great waters to understand Asaph—he is one who does not wade, but he gets into "waters to swim in." Thus he begins—
 
@@ -158,7 +155,6 @@ Verse 1. I cried unto God with my voice, even unto God with my voice; and He gav
 19\. Your way is in the sea, and Your path in the great waters, and Your footsteps are not known. Not foreknown. Who could have foretold that God would lead His people through the sea? His footsteps are not now to be found. God's ways we cannot guess and even when we have seen them, we cannot understand them. Child of God, does the sea roll before you tonight? Are you in extreme distress? Are you crying as the Psalmist did? With your voice do you cry unto God? Then expect deliverance from Him!
 
 20\. You led Your people like a flock by the hand of Moses and Aaron. Moses and Aaron did not lead them—God led His people, "like a flock, by the hand of Moses and Aaron." Here the Psalm breaks off with great abruptness. Had it been a human composition, it would have been rounded off with great discretion, but God knows best where to stop. I sometimes wish Brothers and Sisters would do the same in their prayers—they need not keep on till they have worn us out— they may break off short if they like. So may we in our sermons! Perhaps they would be better remembered if the second half was never spoken.
-
 
 ---
 [[Sermon 2317 Obeying Christ's Orders|← #2317]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2319 The Lord's Chosen Ministers|#2319 →]]

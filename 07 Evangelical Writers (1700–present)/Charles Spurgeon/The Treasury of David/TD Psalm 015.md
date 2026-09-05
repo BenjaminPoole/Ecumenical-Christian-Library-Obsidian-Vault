@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 15
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -176,7 +175,7 @@ Verse 5. *"He that doeth these things shall never be moved."* No storm shall tea
 
 *Verse* 5 (*last clause*). The fixedness and safety of the godly.
 
-WORKS UPON THE FIFTEENTH PSALM
+## Works upon the Fifteenth Psalm
 
 *Lectures on the XV. Psalme* read in the Cathedral Church of St. Paul, in London. By GEORGE DOWNAME. Doctor of Divinitie, London. 1604. 4to.
 
@@ -187,7 +186,6 @@ WORKS UPON THE FIFTEENTH PSALM
 *A Practical and Polemical Commentary, or Exposition on the whole Fifteenth Psalm,* wherein the text is learnedly and fruitfully explained, some controversies discussed, sundry cases of conscience are cleared; more especially that of USURIE. By CHRISTOPHER CARTWRIGHT, late minister of Saint-Martin's, in the city of York. 1658. 4to.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 014|← Psalm 14]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 016|Psalm 16 →]]

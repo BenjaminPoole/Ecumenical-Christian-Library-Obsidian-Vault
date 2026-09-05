@@ -10,14 +10,13 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 29
 
 ## Lecture One Hundredth And Ninth
 
 **Lecture One Hundred and Ninth**
 
-**CHAPTER 29**
+## **Chapter 29**
 
 ## Jeremiah 29:1
 
@@ -85,7 +84,7 @@ He repeats again what he had said, (though I had passed it by,) that they had be
 
 ## Prayer Lecture 109
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may be more and more habituated to render obedience to thee, and that whenever thou chastisest us with thy scourges, we may examine our own consciences, and humbly and suppliantly deprecate thy wrath, and never doubt but thou wilt be propitious to us, after having chastised us with thy paternal hand; and may we thus recumb on thy fatherly kindness, that we may ever look forward with quiet minds, until the end appears, which thou hast promised to us, and that when the warfare of this present life shall be finished, we may reach that blessed rest, which has been prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -176,7 +175,7 @@ He adds *expectation,* which Jerome has rendered “patience,” but in a very f
 
 ## Prayer Lecture 110
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased kindly to shew to us thy paternal love, and givest us daily a testimony of it in thy Gospel, — O grant, that we may not go astray, following our vagrant and erring thoughts, but acquiesce in thy simple truth; and though we must be exercised in this world by many conflicts, as our life is to be as it were a continual warfare, may we yet never doubt but that there is prepared for us a sure rest in heaven through Christ our Lord. — Amen.
 
@@ -266,7 +265,7 @@ And lastly he adds, that they would be a *reproach* even to all nations, for all
 
 ## Prayer Lecture 111
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast given so remarkable a proof both of thy wrath and of thy paternal kindness in thy dealings with thine ancient people, — O grant, that we may not by our obstinacy provoke thine extreme wrath, but in time anticipate thy judgment, so that we may find thee reconcilable, and never doubt but that thou wilt be merciful to us when we sincerely turn to thee; and as we are so prone to all evil, yea, and rush headlong into it, and as our wickedness and hardness are so great, grant to us, we pray thee, the spirit of meekness, that we may in all things submit ourselves to thee, and thus render ourselves thy children, that we may also find thee to be our Father in thine only-begotten Son. — Amen.
 
@@ -344,7 +343,7 @@ As then the priests suffered the prophetic office to be transferred to the commo
 
 ## Prayer Lecture 112
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are prone to what is false, and wholly devoted to vanity, we may be governed by thy Spirit, and desire no other thing than to be obedient to thee; and as we offer ourselves to thee, as thy disciples, grant that having the light of thy word shining before us, we may follow the way which thou shewest to us, and thus persevere in a right course, until we shall at length come to that blessed rest which is prepared for us in heaven, through Christ our Lord. — Amen.
 

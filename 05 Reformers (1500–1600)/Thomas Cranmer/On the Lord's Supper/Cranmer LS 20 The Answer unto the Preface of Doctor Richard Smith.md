@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 20. The Answer unto the Preface of Doctor Richard Smith
 
 THOMAS, ARCHBISHOP OF CANTERBURY, &c.,
 
-AGAINST THE
+## Against The
 
 FALSE CALUMNIATIONS OF DOCTOR RICHARD SMITH, WHO HATH TAKEN UPON HIM TO CONFUTE THE DEFENCE OF THE TRUE AND CATHOLIC DOCTRINE OF THE BODY AND BLOOD OF OUR SAVIOUR CHRIST.
 
@@ -47,7 +46,7 @@ The other thing wherein Doctor Smith belieth me is this: he saith, that I “ de
 
 Smith saith, that Christ called not bread his y-
 
-370 THE ANSWER TO SMITH’S PREFACE.
+## 370 the Answer to Smith’s Preface
 
 marvel not a little what eyes Doctor Smith had, when he read over my book. It is like that he had some privy spectacles within his head, wherewith whensoever he looketh, he seeth but what he list. For in my book I have written in more than an hundred places, that we receive the self-same body of Christ that was born of the virgin Mary, that was crucified and buried, that rose again, ascended into heaven, and sitteth at the right hand of God the Father Almighty: and the contention is only in the manner and form how we receive it.
 
@@ -87,7 +86,7 @@ And yet D. Smith saith, that God’s word doth teach this as plainly as the othe
 
 [® Vide supra, pp. 104, 5.] [5 pp. 118, 119, 121—132.] [* p. 110.] [* pp. 135—137.] [* pp. 110, 111, 113, 114—116.]
 
-372 THE ANSWER TO SMITH’S PREFACE.
+## 372 the Answer to Smith’s Preface
 
 Adam of the earth, and Eve of Adam’s side, &c, This is it that I deny, and that he should prove. But he taketh it for a supposition, saying by interrogation, “ Doth not the word of God teach this as plainly as the other?”—which I affirm to be utterly false, as I have shewed in my third book, the eleventh' and twelfth? chapters, where I have most manifestly proved, as well by God’s word as by ancient authors, that these words of Christ, “This is my body,” and “This is my blood,” be no plain speeches, but figurative.
 
@@ -127,11 +126,11 @@ Arter this he falleth to railing, lying, and slandering of M. Peter Martyr, a ma
 
 “* Peter Martyr,” saith he, “at his first coming to Oxford, when he was but a Lutherian in this matter, taught as D. Smith now doth. But when he came once
 
-374 THE ANSWER TO SMITH’S PREFACE.
+## 374 the Answer to Smith’s Preface
 
 to the court, and saw that doctrine misliked them that might do him hurt in his living, he anon after turned his tippet, and sang another song.”
 
-Of M. Peter Martyr’s opinion and judgment in this matter, no man can better testify than I; forasmuch as he lodged within my house long before he came to Oxford, and I had with him many conferences in that matter, and know that he was then of the same mind that he is now, and as he defended after openly in Oxford, _ and hath written in his book. And if D. Smith understood him otherwise in his lectures at the beginning, it was for lack of knowledge, for that then D. Smith under- stood not the matter, nor yet doth not, as it appeareth by this foolish and unlearned book, which he hath now set out: no more than he understood my book of the catechism, and therefore reporteth untruly of me, that I in that book did set forth the real presence of Christ's body in the sacrament. Unto which false report I have answered in my fourth book, the eighth chapter’.
+Of M. Peter Martyr’s opinion and judgment in this matter, no man can better testify than I; forasmuch as he lodged within my house long before he came to Oxford, and I had with him many conferences in that matter, and know that he was then of the same mind that he is now, and as he defended after openly in Oxford, _ and hath written in his book. And if D. Smith understood him otherwise in his lectures at the beginning, it was for lack of knowledge, for that then D. Smith under-stood not the matter, nor yet doth not, as it appeareth by this foolish and unlearned book, which he hath now set out: no more than he understood my book of the catechism, and therefore reporteth untruly of me, that I in that book did set forth the real presence of Christ's body in the sacrament. Unto which false report I have answered in my fourth book, the eighth chapter’.
 
 But this I confess of myself, that not long before I wrote the said catechism, I was in that error of the real presence, as I was many years past in divers other errors: as of transubstantiation, of the sacrifice propitiatory of the priests in the mass, of pilgrimages, purgatory, pardons, and many other superstitions and errors that came from Rome; being brought up from youth in them, and nousled therein for lack of good instruction from my youth, the outrageous floods of papistical errors at that time overflowing the world. For the which, and other mine offences in youth, I do daily pray unto God for mercy and pardon, saying: Delicta juventutis mew et ignorantias meas ne memineris, Domine. ‘Good Lord, remember not mine ignorances and offences of my youth.”
 
@@ -144,8 +143,6 @@ Do you not remember, M. Smith, the fable, how the old crab rebuked her young, th
 I will not here answer for myself, but leave the judgment to God, who seeth the bottom of all men’s hearts, and at whose only judgment I shall stand or fall; saving that this I will say before God, who is every where present, and knoweth all things that be done, that as for seeking to please men in this matter, I think my conscience clear, that I never sought herein but only the pleasure and glory of God. And yet will I not judge myself herein, nor take D. Smith for my judge, but will refer the judgment to him that is the rightful judge of all men. But as for Doctor Peter Martyr, hath he sought to please men for advantage? who, having a great yearly revenue in his own country, forsook all for Christ's sake, and for the truth and glory of God came into strange countries, where he had neither land nor friends, but as
 
 [’ Vide supra, pp. 225, 6.] [? Vide Strype’s Cranmer, Vol. I. pp. 244, 289.]
-
-THE ANSWER TO SMITH’S PREFACE. 375
 
 God of his goodness, who never forsaketh them that put their trust in him, provided for him ?
 
@@ -169,7 +166,7 @@ But M. Smith is so blind in his own phantasies, that he seeth not how much his o
 
 Tuen from the door and sepulchre, D. Smith cometh to the revelations of Peter thea - and Paul, which saw Christ (as he saith) bodily upon earth after his ascension: which in of Ca declareth, that “although Christ departed hence at the time of his ascension into “ga heaven, sone there sitteth at the right hand of his Father, yet he may be also here in the blessed sacrament of the altar.” I am not so ignorant but I know that Christ appeared to St Paul, and said to him, “Saul, Saul, why dost thou persecute me?” sets ix. But St Augustine saith that “Christ at his ascension spake the last words that ever st Augustine. he spake upon earth. And yet we find that Christ speaketh,” saith he, “but in heaven and from heaven, and not upon earth. For he spake to Paul from above,
 
-376 THE ANSWER TO SMITH’S PREFACE.
+## 376 the Answer to Smith’s Preface
 
 saying: ‘Saul, Saul, why dost thou persecute me?’ The head was in heaven, and yet he said, ‘Why dost thou persecute me?’ because he persecuted his members upon earth'.” And if this please not Master Smith, let him blame St Augustine and not me, for I feign not this myself, but only allege St Augustine. Matt. iii. & And as the Father spake from heaven, saocla he said, “‘ This is my beloved hii Acts vii. in whom I am pleased ;” and also St Bicbien “saw Christ sitting in heaven at his Father's right hand :” even so meant St Augustine, that St Paul and all other that have seen and heard Christ speak since his ascension, have seen and heard him from heaven.
 
@@ -211,7 +208,7 @@ Ecclus. xlix.
 
 1 Kings xix.
 
-378 THE ANSWER TO SMITH’S PREFACE.
+## 378 the Answer to Smith’s Preface
 
 yet how many times did they fall from him! Did they not, from time to time, make them new Gods, and worship them? Was not the open face of the church so miserably deformed, not only in the wilderness, and in the time of the Judges, but also in time of the Kings, that after the division of the kingdom, amongst all the kings of Judah there was but only three in whose times the true religion was restored, and among all the kings of Israel not so much as one? Were not all that time the true priests of God a few in number? Did not all the rest maintain idolatry and all abominations in groves and mountains, worshipping Baal and other false Gods? And did they not murder and slay all the true prophets that taught them to worship the true God? Insomuch that Elias the prophet, knowing no more of all the whole people that followed the right trade, but himself alone, made his complaint unto Almighty God, saying: “O Lord, they have slain thy prophets, and overthrown thine altars, and there is no more left but I alone, and yet they lie in wait to slay me also.” So that although Almighty God suffered them in their captivity at Babylon no more but seventy years, yet he suffered them in their idolatry, following their own ways and inventions, many hundred years, the mercy of God being so great, that their punishment was short and small, in respect of their long and grievous offences. And at the time of Christ's coming, the high priests came to offices by such fraud, simony, murder, and poisoning, that the like hath not been often read nor heard of, except only at Rome.
 
@@ -223,11 +220,9 @@ What wonder is it then, that the open church is now of late years fallen into ma
 
 And although the papists have led innumerable people out of the right way, yet the church is to be followed: but the church of Christ, not of antichrist ; the church that concerning the faith containeth itself within God’s word, not that deviseth daily new articles contrary to God’s word; the church, that by the true interpretation of scripture and good example gathereth people unto Christ, not that by wrasting of the scripture and evil example of corrupt living draweth them away from Christ. And now, forasmuch as the wicked church of Rome, counterfeiting the church of our Saviour Christ, hath in this matter of the sacrament of the blessed body and blood of our Saviour Christ varied from the pure and holy church in the apostles’ time, and many hundred years after, (as in my book I have plainly declared and manifestly proved,) it is an easy matter to discern, which church is to be followed. And I cannot but marvel that Smith allegeth for him Vincentius Lirenensis, who, contrary to Doctor pett= _— FG Ne : = ss Te so pn ee e: DP Oe Ee a ee, 2 eee
 
-THE ANSWER TO SMITH’S PREFACE. 379
-
 Smith, teacheth plainly that “the canon of the bible is perfect and sufficient of itself for the truth of the catholic faith ;’ and that “the whole church cannot make one article of the faith, although it may be taken as a necessary witness for the receiving and establishing of the same, with these three conditions, that the thing which we would establish thereby hath been believed in all places, ever, and of all men’.” Which the papistical doctrine in this matter hath not been, but came from Rome since Berengarius’ time by Nicolas the second, Innocentius the third, and other of their sort: whereas the doctrine, which I have set forth, came from Christ and his apostles, and was of all men every where with one consent taught and believed, as my book sheweth plainly, until the papists did transform and transubstantiate the chief articles of our christian faith.
 
-Thus is an answer made unto the false calumniations of Smith in the preface of his book, or rather unto his whole book, which is so full of bragging, boasting, slandering, misreporting, wrangling, wrasting, false construing, and lying, that, those taken out of the book, there is nothing worthy in the whole book to be answered. Never- theless in answering to the late bishop of Winchester’s book, I shall fully answer also D. Smith in all points that require answer. And so with one answer shall I despatch them both. And in some places where one of them varieth from another, as they do in many great matters, and in the chief and principal points, [ shall set them together Bithum cum Bacchio, et Esernium cum Pacidiano*, to try which of them is more stout and valiant to overthrow the other.
+Thus is an answer made unto the false calumniations of Smith in the preface of his book, or rather unto his whole book, which is so full of bragging, boasting, slandering, misreporting, wrangling, wrasting, false construing, and lying, that, those taken out of the book, there is nothing worthy in the whole book to be answered. Never-theless in answering to the late bishop of Winchester’s book, I shall fully answer also D. Smith in all points that require answer. And so with one answer shall I despatch them both. And in some places where one of them varieth from another, as they do in many great matters, and in the chief and principal points, [ shall set them together Bithum cum Bacchio, et Esernium cum Pacidiano*, to try which of them is more stout and valiant to overthrow the other.
 
 @ Here endeth the answer unto the Preface of Master Smith’s book, which he wrote against the defence of the true and catholic doctrine of the Sacrament of the body and _ blood of our Saviour CHRIST.
 

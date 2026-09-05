@@ -9,16 +9,15 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface
 
-**PRELECTIONS OF JOHN CALVIN**
+***Prelections of John Calvin***
 
-**ON**
+## **On**
 
-**THE LAMENTATIONS OF JEREMIAH**
+## **The Lamentations of Jeremiah**
 
-**PREFACE**
+## **Preface**
 
 I undertake now to explain The Lamentations of Jeremiah. We must inquire when the Book was composed by the Prophet, and also what was the object of the author. Grossly mistaken was *Jerome*, who thought that it is the Elegy which Jeremiah composed on the death of Josiah; for we see nothing here that is suitable to that event. There is indeed mention made in one place of a king, but what is said there cannot be applied to Josiah; for he was never driven into exile, but was buried at Jerusalem with his fathers. From the whole contents of the Book we may justly conclude, that it was written after the city was destroyed, and the people led into exile.
 

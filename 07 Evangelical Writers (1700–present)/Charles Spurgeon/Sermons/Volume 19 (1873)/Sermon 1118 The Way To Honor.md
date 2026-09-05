@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # The Way To Honor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1118
-
-DELIVERED BY.
 
 > "Whoe ver keeps the fig tree shall eat the fruit thereof: so he who waits on his master shall be honored." Proverbs 27:18.
 
@@ -144,7 +141,6 @@ Redeemed men will cry, "Shame!" Unfallen angels will cry, "Shame!" Holy spirits 
 May the Spirit lead each one of you to repentance for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 25.
-
 
 ---
 [[Sermon 1117 The Father's Will|← #1117]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1119 The Spur|#1119 →]]

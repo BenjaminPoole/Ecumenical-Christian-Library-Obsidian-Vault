@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 31
 
-**CHAPTER 31.**
+***Chapter 31.***
 
 ## Genesis 31:1-55
 

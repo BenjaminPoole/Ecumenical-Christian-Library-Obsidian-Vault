@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Advance!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2957
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD our God spoke unto us in Horeb, saying, You have dwelt long enough in this mountain." Deuteronomy 1:6.
 
@@ -106,7 +103,6 @@ A painter said to his wife, one morning, "I shall never paint again." "Why, my h
 Unbinds my chains, breaks up my cell, And gives me with my God to dwell!"
 
 Till that "sweet hour" arrives when you will dwell with God forever, do not delude yourself with the notion that you have got where you may stop. "Forward, onward," must still be your motto! O eagle of God, if you are of the true royal breed, though you have looked the very sun in the face with undimmed eyes and soared till you have left the clouds far below you, yet still higher, higher, higher must you soar! If you could distance the sun, himself, and reach a yet more distant orb, still higher, higher must you soar! "Excelsior" is the motto of every Christian until, at last, he comes into the very Presence of his God and sees Him face to face! You never see an eagle roosting upon a thorn bush and saying, "I can get no higher." And if any of God's birds of paradise do that, I would bid them beware of the fowler! My self-satisfied Brother, he is after you and his big net will enclose you if you are not careful! Mount higher, Brother! Higher yet, for however high you have ascended, you have dwelt long enough in that mountain and must advance to something higher and still better! May God help you to do so for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2956 A Handkerchief|← #2956]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2958 The Saints' Love to God|#2958 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # A Greater Than Solomon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1600
@@ -93,10 +92,9 @@ As in nature He was infinitely superior to Solomon, and not to be compared with 
 
 Oh, that all loved Him! Alas that so many do not! What strange monsters! Why, if you do not love Christ, what are you at? You hearts of stone, will you not break? If His dying love does not break them, what will? If you cannot see the beauties of Jesus, what can you see? You blind bats! O you that know not the music of His name, you are deaf. O you that do not rejoice in Him, you are dead. What are you at, that you are spared through the pleadings of His love, and yet do not love Him? God have mercy upon you, and bring you to delight yourselves in Christ, and trust him! As for us who do trust Him, we mean to love Him and delight in Him more and more, world without end. Amen.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON’COLOSSIANS 1.
+## Portion of Scripture Read Before Sermon’colossians 1
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’390, 389, 416.
-
+## Hymns from ‘Our Own Hymn Book’’390, 389, 416
 
 ---
 [[Sermon 1599 Everyday Religion|← #1599]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1601 The Judgment Seat Of God|#1601 →]]

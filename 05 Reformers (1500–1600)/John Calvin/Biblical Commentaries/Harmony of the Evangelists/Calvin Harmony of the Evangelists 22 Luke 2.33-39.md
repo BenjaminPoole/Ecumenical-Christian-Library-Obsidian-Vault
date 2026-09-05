@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 22. Luke 2:33-39
-
-**LUKE 2:33-39**
 
 **33**. And his father and mother were wondering about those things which were spoken of him. **34**. And Simeon blessed them, and said to Mary his mother, Lo, this (child) has been set for the ruin, and for the resurrection of many in Israel, and for a sign, which is spoken against. **35**. But also a sword shall pierce thy own soul: that the thoughts of many hearts may be revealed. **36**. And there was Anna, a prophetess, daughter of Phanuel, of the tribe of Asher: she had advanced to a great age, and had lived with her husband seven years from her virginity. **37**. And she was a widow of about eighty-four years, who departed not from the temple worshipping (God) with fastings and prayer day and night. **38**. And she, coming in at that hour, made acknowledgments also to God, [^1] and spake of him to all who looked for redemption in Jerusalem. **39**. And when they had completed all things according to the Law of the Lord, they returned to Galilee, to their own city Nazareth.
 

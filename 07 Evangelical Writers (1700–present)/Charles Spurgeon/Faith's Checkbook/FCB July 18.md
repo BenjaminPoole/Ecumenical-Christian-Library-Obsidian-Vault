@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WILDERNESS COMMUNION**
+## **Wilderness Communion**
 
 > I will allure her, and bring her into the wilderness, and speak comfortably unto her." Hosea 2:14
 
@@ -23,7 +22,6 @@ The goodness of God sees us allured by sin, and it resolves to try upon us the m
 He promises to draw us apart, for there He can best deal with us, and this separated place is not to be a Paradise, but a wilderness, since in such a place there will be nothing to take off our attention from our God. In the deserts of affliction the presence of the Lord becomes everything to us, and we prize His company beyond any value which we set upon it when we sat under our own vine and fig-tree in the society of our fellows. Solitude and affliction bring more to themselves and to their heavenly Father than any other means.
 
 When thus allured and secluded the Lord has choice things to say to us for our comfort. He "speaks to our heart," as the original has it. Oh, that at this we may have this promise explained in our experience! Allured by love, separated by trial, and comforted by the Spirit of truth, may we know the Lord and sing for joy!
-
 
 ---
 [[FCB July 17|← July 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 19|July 19 →]]

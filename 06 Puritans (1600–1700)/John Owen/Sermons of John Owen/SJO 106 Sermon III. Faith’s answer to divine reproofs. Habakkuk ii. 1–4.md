@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon III. Faith’s answer to divine reproofs. Habakkuk ii. 1–4
-
-## Sermon III. Faith’s answer to divine reproofs.
 
 Preached January 5, 1672.
 
@@ -93,7 +90,6 @@ The reasons hereof are these: There is no other answer, 1. Because in every othe
 A second use of it is for instruction unto ourselves, that we should always have this answer in readiness. We know not how soon God may come with special reproofs unto us. Truly, besides those general ways, in the law and in the preaching of it, God hath particular applicatory ways, and works in the world in judgments and afflictions; and how soon he may enter into our consciences we know not. It is good to have an answer ready. And truly we see what the answer is, ‘Lord, we are poor, lost, undone creatures. If thou wilt deal with us, we cannot answer thee for one of a thousand; if thou markest what is done amiss, none can stand.’ ‘What, then, have you to plead, or are you speechless?’ ‘No, Lord; yet there is a plea left, this great plea, “The just shall live by faith.” Thou hast appointed a new way of interesting us in justification, by the way of believing in Christ; and that plea our souls advance.’ Have this plea in readiness when sin is charged upon your souls and consciences, in all your troubles and fears. Nothing else will answer God when he reproves.
 
 I thought to have showed you what is required of us that we may be able to manage this plea aright, that it be not presumption in us; as, a stable self-condemnation without reservation, a prospect and view of the atonement made by Christ, and casting ourselves upon him to undertake for us.
-
 
 ---
 [[SJO 105 Sermon II. The wisdom of making the Lord our refuge. Psalm xiv 6|← Sermon II. The wisdom of making the Lord our refuge. Psalm xiv 6]] · [[Sermons of John Owen|Contents]] · [[SJO 107 Sermon IV. Spiritual strength; — its reality, decay, and renovation. Isaiah xl.|Sermon IV. Spiritual strength; — its reality, decay, and renovation. Isaiah xl. 31 →]]

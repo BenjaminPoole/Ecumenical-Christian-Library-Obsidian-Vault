@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Jonah's Object-lessons
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2504
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the LORRD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceedingly glad for the gourd. But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered. And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live." Jonah 4:6-8.
 
@@ -95,7 +92,7 @@ That is the work of God and of God alone, yet God overrules both our joy and our
 
 IV. Now, lastly, I said that it was not verbally in the text, but it was there in spirit, that IN ALL THIS GOD WAS
 
-PREPARING HIS SERVANT.
+## Preparing His Servant
 
 Do you not see that God was teaching Jonah by the eye and by experience Unless the Lord had put Jonah through this process, He could not so well have argued with His servant. So the gourd must go and the wind must come, and the sun must beat upon the fainting Prophet—and Jonah, in his angry temper, must get to feel great grief over his poor gourd which had met with such an untimely death. And then God comes to him and says, "Are you troubled about your gourd? Have you pity upon a gourd and should not I have pity upon a great city with more than a hundred and twenty thousand helpless children within its walls, and all those thousands of unsinning cattle? Should not I spare these, when you would have spared this tender plant which sprang up in a night and withered in a night?"
 
@@ -105,7 +102,7 @@ I am probably speaking to some who are not yet converted to God. You have not ye
 
 How can you be reconciled to Him? Only by the death of Jesus, for God has given His Son to die for sinners. That ought to end your quarrel with God. Remember that blessed verse, "God so loved the world, that He gave His onlybegotten Son, that whoever believes in Him should not perish, but have everlasting life." Turn to Him, then. Let the God of Love end your discussions and end your questionings! May His blessed Spirit come and sanctify your troubles and bring you to Himself! God bless you all, dear Friends, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JONAH4.
+## Exposition by C. H. Spurgeon: Jonah 4
 
 You know all about Jonah's refusal to go upon the Lord's errand and how he was held to it, and carried to his work in a great fish as he would not go by himself. Somehow or other God will make His servants do His will. And the more speedily they do it, the better it is for them. You know also how the Ninevites repented at the preaching of Jonah and how the Lord had mercy upon them.
 
@@ -134,7 +131,6 @@ Verses 1-3. But it displeased Jonah exceedingly, and he was very angry. And he p
 Here ends the story of Jonah which he tells himself—and he did not add anything to it because nothing needs to be added. The Lord's question to him was altogether unanswerable and Jonah felt it to be so. Let us hope that during the rest of his life, he so lived as to rejoice in the sparing mercy of God. He had stood outside the door, like the elder brother who was angry, and would not go in, and who said to his father," Lo, these many years have I served you, neither transgressed I at any time your commandment: and yet you never gave me a kid, that I might make merry with my friends: but as soon as this, your son, was come, which has devoured your living with harlots, you have killed for him the fatted calf." But his father said to him, "Son, you are always with me, and all that I have is yours."
 
 I hope that he went in and I trust that Jonah also went in and lived with the penitent Ninevites, and that all were happy together in the love of the God who had been so gracious to them.
-
 
 ---
 [[Sermon 2503 The Question Between the Plagues|← #2503]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2505 Deliverance From the Pit|#2505 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Let Us Go Forth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 577
 
-DELIVERED ON SUNDAY MORNING, JUNE 26, 1864, BY THE REV. C. H. SPURGEON AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, June 26, 1864, by the Rev. C. H. Spurgeon at the Metropolitan Tabernacle, Newington*
 
 > Hebrews 13:13.
 
@@ -33,7 +32,7 @@ O you lovers of carnal ease, woe unto you! Inasmuch as you take not up the Cross
 
 Jesus Christ has no life of pleasure and of ease! He is despised and rejected of men—a Man of Sorrows and acquainted with grief! And let us rest assured that if we bear faithfully our testimony we shall discover that the servant is not above his Master, nor the disciple above his Lord—if they have called the Master of the house "Beelzebub," much more shall they call them of His household by titles as ignominious and shameful. We must expect, if the Christian soldier is really a soldier and not a mere pretender to the art of war, that he will have to fight until he joins the Host triumphant. If the Church is properly imaged by a ship, she must expect to have storms. And every man on board her must look to bear his share.
 
-From the first day, when Cain and Abel divided the first family into two camps, even until now, the flesh lusts against the Spirit. The evil contends with the good and the good wrestles with the evil. Wherever the true and the good have pitched their tents, there the enemy have gathered to attack them. Righteousness courts no peace or truce with sin—our peaceful Savior came not to form an alliance so unhallowed. Hear His own words—"Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father and the daughter against her mother and the daughter-in-law against her mother-in- law. And a man's foes shall be they of his own household."
+From the first day, when Cain and Abel divided the first family into two camps, even until now, the flesh lusts against the Spirit. The evil contends with the good and the good wrestles with the evil. Wherever the true and the good have pitched their tents, there the enemy have gathered to attack them. Righteousness courts no peace or truce with sin—our peaceful Savior came not to form an alliance so unhallowed. Hear His own words—"Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father and the daughter against her mother and the daughter-in-law against her mother-in-law. And a man's foes shall be they of his own household."
 
 Turning to Scripture, then, I find nothing about this pretty by-path meadow and its quiet, respectable walk to Heaven. I find nothing about riding in the gilded chariots of ease or walking in silver slippers. But I do find contention and strife, and rebuke and suffering, and cross-bearing and if need be, resistance unto blood striving against sin! Our text seems to convey that thought to us most powerfully. Let us take it up, and may the Holy Spirit lead us to its true meaning. We have before us, first of all, the Believer's path. Secondly his Leader. Thirdly, his burden. And fourthly, his reason for following that path.
 
@@ -130,7 +129,6 @@ The two women were actually tied to stakes by the seaside. The tide came up and 
 Nowadays, I say, we would not die for the whole Bible though in other ages saints would have died for the dot of an i, or the cross of a t. We turn tail and are frightened because somebody has said a hard thing to us for defending the Truth which concerns Jesus and has the salvation of man wrapped in it. I say we will not fight for the great and they would fight for the little. O may God restore to us, dear Friends, more Grace, more piety, more love for souls, more care for the kingdom of Christ—a sterner prizing of the Truth of God and a determination solemnly avowed before the Lord of hosts, that come what may, we will contend earnestly for the faith once delivered unto the saints!
 
 We stand upon the Rock of Ages confident that God will defend the right and that right in the end shall come off victorious! God give you Grace—especially you members of my charge—to, from this day, more than ever you have done, take your place outside the camp and cheerfully and joyfully to bear Christ's reproach! Some of you cannot do this. You cannot bear His reproach. You cannot go outside the camp for you have no vital faith—you have not believed in Jesus. O Sinner, you are not to carry Christ's Cross first—but look to that Cross for salvation! And when He has saved you, as He will if you trust in Him, then take up your cross and carry it and praise the name of God from this time forth, even forever!
-
 
 ---
 [[Sermon 0576 Quiet Musing!|← #576]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0578 A Bad Excuse Is Worse Than None|#578 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # No Compromise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2047
@@ -91,8 +90,7 @@ When we lie a-dying, if we have faithfully preached the gospel, our conscience w
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Genesis 24.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’166, 928, 884.
-
+## Hymns from "Our Own Hymn Book"’166, 928, 884
 
 ---
 [[Sermon 2046 Consolation From Resurrection|← #2046]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2048 A Life-Long Occupation|#2048 →]]

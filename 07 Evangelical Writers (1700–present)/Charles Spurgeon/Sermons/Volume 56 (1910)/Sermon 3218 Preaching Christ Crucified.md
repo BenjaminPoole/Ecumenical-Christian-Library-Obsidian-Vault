@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Preaching Christ Crucified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3218
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But we preach Christ crucified." 1 Corinthians 1:23.
 
@@ -87,7 +84,7 @@ Now as the time has gone, I must close by saying that we must try to preach Chri
 
 "There is life for a look at the Crucified One! There is life at this moment for thee. Then look, Sinner—look unto Him and be saved— Unto Him who was nailed to the tree." Look unto Him, look unto Him now! May the Holy Spirit enable you to look and live, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 1.
+## Exposition by C. H. Spurgeon: 1 Corinthians 1
 
 Verses 1, 2. Paul, called to be an Apostle of Jesus Christ through the will of God, andSosthenes our brother, unto the Church of God which is at Corinth. Note the humility of Paul in associating with himself an almost unknown Brother, Sosthenes. Although the letter is written by Paul, yet, as if he did not care to stand in isolation even for a moment, he associates Sosthenes with himself in the salutation—"Unto the Church of God which is at Corinth."
 
@@ -138,7 +135,6 @@ nians, "Faithful is He that calls you, who also will do it." To be called by the
 STRANGE CHOICE.] Those that do not even seem to have an existence—those that are so despicable that men do not deign to take any account of them—these are the very ones with which God shall break in pieces the many mighty errors of all the ages!
 
 29-31 That no flesh should glory in His Presence. But of Him are you in Christ Jesus, who ofGod is made unto us wisdom, and righteousness, and sanctifcation, and redemption: that, according as it is written, He that gloried, let him glory in the Lord.
-
 
 ---
 [[Sermon 3217 An Earnest Warning Against Unbelief|← #3217]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3219 'He Blessed Him There'|#3219 →]]

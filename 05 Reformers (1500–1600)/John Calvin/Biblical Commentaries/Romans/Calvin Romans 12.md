@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Romans 12:1-2
 

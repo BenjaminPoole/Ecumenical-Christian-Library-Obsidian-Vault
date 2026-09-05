@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Departed Saints Yet Living
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1863
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 4, 1885, BY C. H. SPURGEON,.
+*Delivered on Lord's-Day Morning, October 4, 1885, by C. H. Spurgeon*
 
 > "But even Moses showed in the burning bush passage that the dead are raised, when he called the Lord, 'the God of Abraham, the God of Isaac, and the God of Jacob.' For He is not the God of the dead but of the living, for all live to Him." Luke 20:37,38.
 
@@ -93,7 +92,7 @@ This is good reasoning to those who have gone beyond mere reason and have ascend
 
 III. Thirdly, and very briefly, beloved Friends, my text not only declares glorious relationship and implies eternal life, but it also unveils somewhat scantily, but still sufficiently, what the glorious life must be! Look, then, and see the
 
-GLORIOUS LIFE UNVEILED!
+## Glorious Life Unveiled!
 
 It is clear that they live personally. It is not said, "I am the God of the whole body of the saints in one mass." But, "I am the God of Abraham, Isaac, Jacob." God will make His people to live individually. My mother, my father, my child— each will personally exist. God is the God of saints, as living distinct lives—Abraham is Abraham, Isaac is Isaac, Jacob is Jacob! The three Patriarchs were not all melted into one common Abraham, nor Isaac into one imaginary Isaac. Neither was anyone so altered as to cease to be himself. Abraham, Isaac and Jacob are all literally living as actual men—and the same men as they used to be. Jacob is Jacob and not an echo of Abraham! Isaac is Isaac and not a rehearsal of Jacob. All the saints are existent in their personality, identity, distinction and idiosyncrasy.
 
@@ -122,7 +121,6 @@ you idling? Here is work for you! Are you hiding yourselves? Come forward, I pra
 Now, last of all, Brothers and Sisters, we may expect the same assistance as they received who have gone before. Jehovah says that He is the God of Abraham, the God of Isaac and the God of Jacob. But He also says, "I am the God of your father." The father of Moses had the Lord to be his God! That God is the God of my father, blessed be His name! As I took the old man by his hand, yesterday, at the age of 76, I could not but rejoice in all the faithfulness of the Lord to him and to his house. He was the God of my father's father, also—I cannot forget how the venerable man laid his hands upon his grandchild and blessed him—and the blessing is with him still. Yes, and He is the God of my children and He shall be the God of my children's children, for He keeps Covenant to thousands of them that love Him! Therefore take courage, Brothers and Sisters! This God is your God! He is a God to you and you are a people to Him!
 
 Act as His true servants. Live as those who are elect. If you are His choice, be choice characters! The chosen should be the best, should they not? The elect should be especially distinguished above all others by their conversation and their fervent zeal for Him that chose them. As you shall rise from among the dead because the Lord Jesus has redeemed you from among men, so stand up from among the dead and corrupt mass of this world—and be alive unto God—through Jesus Christ your Lord! What manner of people ought you to be who serve the living God? Since the living God has manifested Himself so wonderfully to you, ought you not to live unto Him to the utmost? God bless you for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1862 The True Tabernacle, and Its Glory of Grace and Peace|← #1862]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1864 First Things First|#1864 →]]

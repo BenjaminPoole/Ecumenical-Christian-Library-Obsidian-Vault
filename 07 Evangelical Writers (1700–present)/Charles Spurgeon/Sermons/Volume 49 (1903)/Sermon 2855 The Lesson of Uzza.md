@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Lesson of Uzza
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2855
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David and all Israel played before God with all their might, and with singing and with harps and with psalteries, and with timbrels, and with cymbals, and with trumpets." 1 Chronicles 13:8.
 
@@ -97,7 +94,7 @@ We must not forget that this carrying up of the Ark was a type of the Ascension 
 
 "Sing, Oheavens!Oearth, rejoice! Angel harp and human voice, Round Him, as He rises, raise Your ascending Savior's praise." Now may you who love Him dance with all your might! Now may you let your souls revel in intense delight and plunge themselves in the bottomless sea of ineffable bliss! God grant you to do so for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CHRONICLES13,15:1-4,11-16,25-29.
+## Exposition by C. H. Spurgeon: 1 Chronicles 13,15:1-4,11-16,25-29
 
 1 Chronicles 13:1-3. And David consulted with the captains of thousands and hundreds, and with every leader And David said unto all the congregation of Israel, If it seems good unto you, and that it is of the LORD our God, let us send abroad unto our brethren everywhere, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us: and let us bring again the Ark of our God to us: for we enquired not at it in the days of Saul I t had lain neglected at Kirjath-Jearim, "in the fields of the wood," as David writes in the 132nd Psalm.
 
@@ -128,7 +125,6 @@ EXPOSITION BY C. H. SPURGEON: 1 CHRONICLES13,15:1-4,11-16,25-29.
 cymbals, making a noise with psalteries and harps. David himself, while playing on his harp, leaping and dancing through the intensity of joy which filled his soul.
 
 29\. And it came to pass, as the Ark of the Covenant of the Lord came to the city of David, that Michal the daughter of Saul, looking out at a window saw King David dancing and playing: and she despised him in her heart So have I known it, when a rich person has been converted and has been found in the first flush of his Christian joy, mixing with the poorest of the brethren, full of delight—and somebody of his own rank has sneered at him. Yet Michal was less honorable than David, though she thought so much of herself. God forbid that we should ever blush to manifest enthusiasm even with the poorest of God's saints while we are glorifying the Lord! Let Michal sneer, if she will—it matters little what she does. We will only reply as David did, "I will yet be more vile than thus."
-
 
 ---
 [[Sermon 2854 Lame Sheep|← #2854]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2856 Our Hiding Place|#2856 →]]

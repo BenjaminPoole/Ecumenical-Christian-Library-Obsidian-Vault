@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Why They Leave Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1892
@@ -93,8 +92,7 @@ Beloved, I am lost in the subject now. I breathe that heavenly air. Love surroun
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Revelation 21:22-27; 22.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—855, 865, 873.
-
+## Hymns from "Our Own Hymn Book"—855, 865, 873
 
 ---
 [[Sermon 1891 The Sermon of the Seasons|← #1891]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1893 Jesus Angry with Hard Hearts|#1893 →]]

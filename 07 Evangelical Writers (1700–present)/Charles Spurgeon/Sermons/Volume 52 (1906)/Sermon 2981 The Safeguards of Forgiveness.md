@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Safeguards of Forgiveness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2981
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David said unto Nathan, Ihave sinned against the LORD. And Nathan said unto David, The Lord also has put away your sin; you shall not die. However..." 2 Samuel 12:13,14.
 
@@ -79,7 +76,7 @@ gained. We must still continue to cry with Paul, "Oh wretched man that I am! Who
 
 Brothers and Sisters, do not let me, for a moment, take away from you the joy of perfect pardon which is already yours if you have believed in Jesus Christ. Your sins, which were many, are all forgiven. Let no doubt upon that point come into your mind! Poor troubled Sinner, do not be distressed as though you could not find immediate pardon through Jesus Christ, for you can. If you believe in Him, your sins are forgiven you for His sake. But I am sure that if you are in a right state of heart, you do not need to have pardon and yet be allowed to live in sin. You could not be content, even if the Lord were to forgive you all your sins, if He did not also change your nature and deliver you from the power of sin. That these two things are to be had in Jesus Christ, let us firmly believe—and for the realization of these two things, let us earnestly pray and thrive! And may God graciously give them to us all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 14.
+## Exposition by C. H. Spurgeon: Hosea 14
 
 Verse 1. O Israel, return unto the LORD your God; for you have fallen by your iniquity. Come back, poor wanderer! My Brother or my Sister, if your heart has grown cold toward your Lord and Master, return to Him this very hour! This message comes from God, Himself, through His servant the Prophet, "O Israel, return unto the Lord your God; for you have fallen by your iniquity."
 
@@ -102,7 +99,6 @@ come to maturity at once! Lord, grant that we may bring forth lilies of Grace al
 6, 7. His branches shallspread, and his beauty shall be as the olive tree, and his smell as Lebanon. They that dwell under his shadow shall return. His children, who were led into mischief by bad example, shall be drawn back again.
 
 7-9. They shallrevive as the corn, andgrow as the vine: the scent thereof shall be as the wine ofLebanon. Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From Me is your fruit found. Who is wise, and he shall understand these things? Prudent, and he shall know them? For the ways of the LORD are right, and the just shall walk in them but the transgressors shall fall therein.
-
 
 ---
 [[Sermon 2980 A Lift for the Prostrate|← #2980]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2982 The Memorable Hymn|#2982 →]]

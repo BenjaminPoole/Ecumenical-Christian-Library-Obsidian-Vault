@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 58. What comfort takest thou from the article of "life everlasting?"
-
-**Question 58. What comfort takest thou from the article of "life everlasting?"**
 
 Answer. That since I now feel in my heart the beginning of eternal joy, after this life I shall inherit perfect salvation, which "eye hatn not seen, nor ear heard, neither hath it entered into the heart of man" to conceive; and that, to praise God therein forever.
 
-**EXPOSITION**
+## **Exposition**
 
 This Article stands at the end of the Creed; 1. Because its perfect fulfillment comes after the rest. 2. Because it is the effect of all the other articles; for it is on account of this that all the preceding articles are believed, and all the things which we believe in the others were done in order that we might believe this last, and so enjoy eternal life. This article is, therefore, the crowning point of our entire salvation and life. The questions which are chiefly to be discussed in connection with this subject are such as the following:
 
@@ -36,7 +33,7 @@ VI. When is it given?
 
 VII. Whether, and whence we may be assured of it in this life?
 
-**I. WHAT IS EVERLASTING LIFE?**
+## **I. What Is Everlasting Life?**
 
 This question seems at first inexplicable, especially in view of what the Apostle says concerning it: "Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him." (1 Cor. 2:9.) We may, however, form some faint idea of what eternal life is, from the analogy of life, of which philosophers are wont to dispute much, and of which the Scriptures also speak. The term life is variously defined by philosophers. It may in general be defined as the very being of that which lives, when used in reference to God, angels, and living beings and plants. Spirits also live; but have not their existence from any quickening soul, but from their essence or nature. In creatures, however, possessed of a soul, life is properly the being of that which lives, which is the same thing as to be endowed with a soul, or to have in oneself a living soul. For the soul is that by which such a being lives; or it is the essential form of life, by which those live who are endowed therewith. It is taken for the first and second actions; that is, for the very being, action or living. and for the acting of a living thing. We may now define life more fully thus: natural life is the existence or dwelling of the soul in a body which is animated, and the acting of a living being. Or, it is the perfection (εντελεχεια) of the soul accomplishing those works which are proper to that which has life. Or, finally, it is the adaptedness of a living being to effect such things as are proper to itself; and is also the things themselves by virtue of the union which exists between the body and the soul.
 
@@ -46,7 +43,7 @@ All the different parts of this definition are in accordance with the teachings 
 
 Obj. To enjoy everlasting life is to live for ever. But the wicked also live for ever; for they shall be raised immortal. Therefore they shall also have everlasting life. Ans. This conclusion is drawn from an imperfect definition of eternal life, and is thus of no force. For eternal life does not merely mean immortality, or a continued presence of the soul in the body; but also, and more particularly, that spiritual life, and heavenly glory and felicity, which the Holy Ghost works in the faithful by his own peculiar operation. Now although the wicked, after the resurrection, will be immortal, yet their natural life shall be no life, but eternal death; for with this life there will be joined, 1. An eternal rejection of God. 2. A want of the knowledge and grace of God. 3. Everlasting and unutterable torments. "Their worm dieth not." "There shall be weeping, and gnashing of teeth." (Mark 9:44. Matt. 24:51.) From these things we may understand what eternal death is: and that it is so called, not because the wicked by dying once, are freed therefrom, but because they shall die for ever, and experience torments that shall never have an end.
 
-**II. BY WHOM IS EVERLASTING LIFE GIVEN?**
+## **II. By Whom Is Everlasting Life Given?**
 
 God alone grants eternal life, as it is said, "the gift of God is eternal life." (Rom. 6:23.) God the Father, as the author and fountain of all life, grants eternal life through the Son and Holy Spirit; the Son grants it through the Holy Spirit; and the Spirit through himself, which order of working is natural to the persons of the Godhead. Of the Father it is said: "As the Father raiseth up the dead, and quickeneth them." "As the Father hath life in himself." (John 5:21, 26.) Of the Son it is said: "Even so the Son quickeneth whom he will." "So hath he given to the Son to have life in himself." "In him was life." "The everlasting Father," (or the Father of eternity.) "I give unto them eternal life." (John 5:21, 26; 1:4. Is. 9:6. John 10:28.) Of the Holy Ghost it is said: "Except a man be born of water, and of the Spirit, he cannot enter into the kingdom of God." "He that raised up Christ from the dead shall also quicken your mortal bodies, by his Spirit that dwelleth in you." (John 3:5. Rom. 8:11.) These testimonies are to be observed, inasmuch as they establish the Divinity of the Son, and Holy Ghost, and prove their equality with the Father.
 
@@ -54,25 +51,25 @@ Obj. 1. But the ministers of the gospel also give eternal life, for, says Paul, 
 
 Obj. 2. But Christ also grants life by a power communicated to him. Therefore it is not his own. Ans. Christ gives life by a communicated power; but it is communicated by natural and eternal generation. Hence we may reply, that he grants life by a power communicated to him by eternal generation from the Father. Therefore he grants it by his own power. "As the Father hath life in himself, so hath he given to the Son to have life in himself." (John 5:26.)
 
-**III. TO WHOM IS ETERNAL LIFE GIVEN?**
+## **III. To Whom Is Eternal Life Given?**
 
 Eternal life is given from everlasting to all, and only the elect, or such as are converted in this life. "I give unto them eternal life." "I pray not for the world, but for them which thou hast given me." "Those that thou gavest me I have kept, and none of them is lost, but the son of perdition." "Come ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world." "No man can come to me, except the Father draw him." "Whom he did predestinate, them he also called," &c. (John 10:28; 17:9, 12. Matt. 25:34. John 6:44. Rom. 8:30) Faith and repentance are peculiar to the elect. But these constitute the beginning of eternal life. Therefore eternal life pertains to the elect only. "The election hath obtained it and the rest were blinded." (Rom. 11:7.) We may here remark that when the question is, To whom is eternal life given? it is better to reply, to the elect, than to such as are converted; for conversion and faith are but the beginning of eternal life. To say, therefore, that eternal life is given to such as are converted, is the same, as if we were to say, that life is given to the living. When it is asked. To whom the beginning of eternal life is given? we answer correctly to the elect; for if we were to say, it is given to such as are converted, we beg the question; seeing that the question is, Whom does God convert?
 
-**IV. WHEREFORE IS ETERNAL LIFE GIVEN?**
+## **IV. Wherefore Is Eternal Life Given?**
 
 Eternal life is not given on account of our works, whether present, or foreseen; but only out of the free mercy, and love of God toward the human race, and from his desire to manifest his mercy in the salvation of the righteous, through the satisfaction and merits of Christ the mediator, imputed unto us through faith, for this end, that God may be eternally praised by us. "The gift of God is eternal life, through Jesus Christ our Lord." "By grace are ye saved through faith, and that not of yourselves; it is the gift of God: not of works lest any man should boast: for we are his workmanship created in Christ Jesus unto good works," &c. "God so loved the world that he gave his only begotten Son," &c. (Rom. 6:23. Eph. 2:8, 9, 10. John 3:16.) The moving cause on account of which eternal life is given us, is not any work of ours whether present, or foreseen; for before the beginning of eternal life, or which is the same thing, before our conversion to God, all our works deserve eternal death; and after our conversion they are the effects of it; and so cannot be the cause why eternal life is given, as nothing can be the cause of itself. We are indeed led to eternal life by many means; but the means through which we are led to God constitute one thing, and the cause for which we are led, is mother thing. The final cause for which eternal life is given, is that we may praise and magnify the mercy of God. "To the praise of the glory his grace, wherein he hath made us accepted in the Beloved." (Eph. 1:6.) God grants us eternal life for the same reason, for which he chose us.
 
-**V. HOW IS ETERNAL LIFE GIVEN?**
+## **V. How Is Eternal Life Given?**
 
 Everlasting life is given us through faith; and faith by the doctrine of the gospel, and the inward efficacy of the Holy Spirit; for the Holy Spirit works in us, through the word, the knowledge of God, and of his will; which knowledge is accompanied with a desire of becoming more and more intimately acquainted with God, and of living according to the requirements of his will, as it is said: "To whom shall we go? thou hast the words of eternal life." "In Christ Jesus, I have begotten you through the gospel." "The gospel is the power of God unto salvation to every one that believeth." "Faith cometh by hearing, and hearing by the word of God." (John 6:68. 1. Cor. 4:15. Rom. 1:16; 10:17.) The ordinary way in which we receive the beginning of eternal life is through the ministry of the word. It is different, however, with the infants of the church and those who are converted in a miraculous manner, as the Thief on the cross, Paul, Cornelius, &c. Our remarks at this time have respect to the ordinary way, in which everlasting life is given, and which is peculiar to adults.
 
-**VI. WHEN IS ETERNAL LIFE GIVEN?**
+## **VI. When Is Eternal Life Given?**
 
 The beginning of everlasting life is given already in this world; but the consummation of it, is reserved for the life to come, which none receive, but those in whom it is here begun. Hence it is said, "In this we groan, earnestly desiring to be clothed upon, with our house which is from heaven; if so be that being clothed, we shall not be found naked." "Whosoever hath, to him shall be given, and he shall have more abundance; but whosoever hath not from him shall be taken away, even that he hath." (2 Cor. 5:3. Matt. 13:12.)
 
 There are two degrees in the consummation of eternal life. The one is when the souls of the righteous, being freed from the body, are immediately carried into heaven; for in death they obtain a deliverance from all the evils of this life. The other is that greater, and more glorious degree to which we shall attain in the resurrection of our bodies, when we shall ascend into heaven perfectly redeemed and glorified, and see God as he is, face to face. "He that heareth my word, and believeth in him that sent me, hath everlasting life, and shall not come into condemnation, but is passed from death unto life." "Now are we the sons of God, and it doth not yet appear what we shall be; but we know that when he shall appear, we shall be like him, for we shall see him as he is." (John 5:24. 1. John 3:3.)
 
-**VII. WHETHER, AND WHENCE MAY WE BE ASSURED OF EVERLASTING LIFE?**
+## **VII. Whether, and Whence May We Be Assured of Everlasting Life?**
 
 It is not only possible, but also our duty to assure ourselves of everlasting life; for it is given to all and only to such as believe. And not only so, but to believe in everlasting life is to be fully persuaded that not only shall others be made partakers of it, but that I am also a partaker of it, which we must observe, and hold fast to in opposition to the distrust and uncertainty of the Papists. We should be certain of our final perseverance; for it is said: "Being justified by faith we have peace with God." "I give unto them eternal life," which could not be said if there were any doubt or uncertainty in regard to it, so that it might be lost. "The gifts and callings of God are without repentance." "Neither shall any man pluck them out of my hands." "He which hath begun a good work in you will perform it until the day of Jesus Christ." "I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day." (Rom. 5:1. John 10:28 Rom. 11:20. Phil. 1:6. 2. Tim. 1:12.) He that believes knows that he does believe, which assurance is based upon these solid arguments: 1. God, who is the author of everlasting life is unchangeable. 2. The foundation of God standeth sure, having this seal, "The Lord knoweth them that are his." (2. Tim. 2:19.) 3. Christ is heard in all those things, which he asks of the Father. Now one thing for which he prays, is that the Father would keep all those whom he has given him. 4. God will not have us to ask of him those things necessary for our salvation conditionally, but positively, because he has promised it. Hence to doubt in regard to our perseverance, and the consummation of eternal life is to overthrow the truth of God, and to make the intercession of Christ unavailing.
 
@@ -80,7 +77,7 @@ But whence may we be assured of the consummation of everlasting life? We reply f
 
 That which has now been spoken concerning this Article explains sufficiently, what it is to believe, the life everlasting; which may be said to include a firm persuasion, 1. That after this life, there will be another life in which the church shall be glorified, and God praised for ever. 2. That I am also a member of this church, and shall for this reason be made a partaker of everlasting life. 3. That I also in this life have the beginning of everlasting life.
 
-**TWENTY-THIRD LORD'S DAY**
+## **Twenty-Third Lord's Day**
 
 ---
 [[Ursinus HC Q57|← Question 57. What comfort doth the "resurrec]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q59|Question 59. But what doth it profit thee no →]]

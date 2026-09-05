@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Future Punishment A Fearful Thing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 682
 
-DELIVERED ON SUNDAY MORNING, MARCH 25, 1866,.
+*Delivered on Sunday Morning, March 25, 1866*
 
 > "It is a fearful thing to fall into the hands of the living God." Hebrews 10:31.
 
@@ -164,7 +163,6 @@ But it did startle me when I read these words. I will quote a few sentences: "If
 After first of all showing how we ought to live if that doctrine IS true, and very properly showing its influence in promoting zeal and fervor, this misguided man declares that Atheism would be better than a doctrine so practically useful! No answer is needed beyond his own words. Surely that doctrine is not so very demoralizing which would make ministers and hearers earnest to win souls, keep them from vain amusements, and make them give up mere money-making, and pleasure-seeking and self-comfort—and drive them into earnest, passionate weeping, longing and labor for men that they might be saved!
 
 I pray God that such teachers may have a better mind, and that all of us may be kept faithful by the power of the Holy Spirit, working to win men because "It is a fearful thing to fall into the hands of the living God."
-
 
 ---
 [[Sermon 0681 Eyes Opened|← #681]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 6823 Divine Gentleness Acknowledged|#6823 →]]

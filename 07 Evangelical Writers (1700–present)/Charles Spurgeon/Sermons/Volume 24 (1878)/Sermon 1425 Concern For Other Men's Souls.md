@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Concern For Other Men's Souls
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1425
-
-DELIVERED BY.
 
 > "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Spirit, that I have great hea viness and continual sorrow in my heart. For I could wish that I were accursed from Christ for my brethren, my kinsman according to the flesh, who are Israelites, to whom pertains the adoption, and the glory, and the covenants, and the giving of the Law, and the service of God, and the promises; whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed forever. Amen." Romans 9:1-5.
 
@@ -134,7 +131,6 @@ You cannot force yourself to this, but when the Spirit of God has brought you to
 Now, tonight, a good many of our friends are away, for the lawful claims of business detain them at this season. I hope that you who have come here on such a week evening are among those who aspire to the highest things in the kingdom of God. Do so, I pray you—they are all before you and within reach—and among them, aspire after great sensitiveness as to others. Let other men's sins grieve you! Let their eternal destiny be often on your mind! No better spur can be needed. You will labor for their good in proportion as you feel for them. I do not think that I can ask a better thing for the unconverted than that the converted may be in heaviness over them!
 
 We long to see many enquirers coming forward. Very well. Enquiring saints always bring enquiring sinners. "For this will I be enquired of by the house of Israel"—not by the sinners first of all—but "by the house of Israel, to do it for them." My Brethren, go and enquire at the Lord's hands and then you will soon prove a blessing to others!
-
 
 ---
 [[Sermon 1424 A Great Bargain|← #1424]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1426 The Lifting Up of the Bowed Down|#1426 →]]

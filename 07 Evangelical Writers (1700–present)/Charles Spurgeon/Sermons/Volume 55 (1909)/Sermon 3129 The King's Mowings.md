@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The King's Mowings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3129
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The king's mowings." Amos 7:1.
 
@@ -87,7 +84,7 @@ We have reason to pray that the Lord would send the dew and the rain to bring fo
 
 If any would be saved, here is the way of salvation—"Believe on the Lord Jesus Christ, and you shall be saved." To believe is to trust. What you have to trust in is this—that Jesus is God, that He became Man, that He suffered in the sinner' s place and that whoever believes in Him shall be forgiven because God has punished Christ instead of Believers. Christ bore God' s wrath instead of every sinner that ever did or ever shall believe in Him! And if you believe in Him, you were redeemed from among men. His substitution was for you and it will save you! But if you believe not, you have no part or lot in this matter. Oh, that you were brought to put your trust in Jesus! This would be the pledge of your sure salvation tonight and forevermore! God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 21
+## Exposition by C. H. Spurgeon: Revelation 21
 
 Verse 1. And I saw a new Heaven and a new earth: for the first Heaven and the first earth were passed away; and there was no more sea.Astronomers tell us that within living memory several starry worlds have burnt out and vanished out of sight. The Apostle Peter has told us that this world will be destroyed by fire, but it will afterwards be renewed, and a new sky and a new earth will appear after the first firmament and the first earth shall have become extinct. God means that this planet should continue to exist after it has had a new creation and renewed its youth. The regeneration of His people, their new birth, is a foretaste of what is yet to happen to this whole world of ours. We have the first fruits of the Spirit and we groan within ourselves while we wait for the fullness of that new creation!
 
@@ -149,8 +146,7 @@ the glorified Church, herself, because of this Light, sheds such a bright light 
 
 Book of Life.
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3128 Good Cheer From Christ's Real Presence|← #3128]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3130 'In Remembrance'|#3130 →]]

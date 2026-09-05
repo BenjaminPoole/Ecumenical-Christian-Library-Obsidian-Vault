@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 150
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Amphilochius in the name of Heraclidas.
 

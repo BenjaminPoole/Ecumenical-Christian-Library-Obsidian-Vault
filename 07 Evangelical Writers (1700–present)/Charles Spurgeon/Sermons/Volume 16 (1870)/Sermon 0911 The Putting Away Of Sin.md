@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Putting Away Of Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 911
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 16, 1870,.
+*Delivered on Lord's-Day Morning, January 16, 1870*
 
 > "Now once in the end of the world has He appeared to put a way sin by the sacrifice of Himself." Hebrews 9:26.
 
@@ -164,7 +163,6 @@ You are threatened if you do not believe, therefore take courage, Man, and trust
 One glance of your soul's eye at a crucified Savior and the simple reliance of your spirit upon Him, and you are saved beyond all risk. The Lord grant you, by His Holy Spirit's aid, to do this today, and I know you will go away to be among the dearest lovers of my Master, and among the most careful of His servants, for you will love Him too well to disobey Him. And it will be your joy from this time forth, even forever, to honor Him.
 
 Methinks I hear you say, "I who was the chief of sinners was met with when I least expected it by my gracious Savior, while listening to the Gospel. And I was forgiven in a moment through a simple act of faith. And now here I am, my Lord's servant, to live and to die for Him if He will but give me Grace to do so." The Lord grant it, for His name's sake! Amen.
-
 
 ---
 [[Sermon 0910 Overwhelming Obligations|← #910]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0912 The Glorious Hereafter and Ourselves|#912 →]]

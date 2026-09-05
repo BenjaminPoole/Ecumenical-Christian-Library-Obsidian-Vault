@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Jeremiah 5:1
 
@@ -78,7 +77,7 @@ He adds, *They have hardened their faces as a rock,* and lastly, *they have refu
 
 ## Prayer Lecture 18
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as the devil ceases not to soothe us by his allurements, so that we may become torpid and stupefied, — O grant, that thy word may so shine in our minds and hearts that we may not grow torpid in darkness; and do thou also so rouse us by thy Spirit, that we may attend to those warnings of thy prophets, by which thou wouldest bring us to the right way, that we may not perish; and may we so assiduously exercise repentance through the whole course of our life, that we may ever be displeased with ourselves on account of our sins; and may we judge ourselves daily, that we may turn away from us thy wrath, until having at length finished our warfare, which we have to carry on continually with our sins, we shall come to that blessed rest which has been procured for us in heaven, by Jesus Christ our Lord. — Amen.
 
@@ -134,7 +133,7 @@ We see how God, as it were, deliberates with the opposite party, and even appeal
 
 *Thy sons have forsaken me* This was the first sin: and when God complained that he was forsaken, he intimated that the people had willfully, and from deliberate wickedness, cast off the yoke; for the same thing could not have been said of heathens. It is indeed true, if we have regard to the beginning, that all may be charged with defection, for God had revealed himself to the sons of Adam and of Noah; and when they fell away into superstitions, they became apostates. But the defection of the Jewish people was much more recent, and less to be borne: nay, when they boasted that they were God’s people, who could have alleged the pretense of ignorance? We now then see what the Prophet means when he says, that God had been forsaken by the people.
 
-He then adds, *They have sworn by a no- god* He means, by stating a part for the whole, that the worship of God was become corrupt and vitiated: for swearing, as it was stated yesterday, is a part of God’s worship. Whenever we swear by God’s name, we profess that we are under his power, and that we cannot escape if we swear falsely: we also ascribe to him his glory as the God of truth; and we further testify that nothing escapes him, or is hid from his view. Hence, by saying here that the Israelites *swore by a no- god,* he means that God was deprived of his own right. They were indeed guilty of other sins; but, as it has been stated, the Prophet includes under one kind all the superstitions which then prevailed among the people. It was then the same as though he had said, that they worshipped idols and gods, whom they had devised for themselves.
+He then adds, *They have sworn by a no-god* He means, by stating a part for the whole, that the worship of God was become corrupt and vitiated: for swearing, as it was stated yesterday, is a part of God’s worship. Whenever we swear by God’s name, we profess that we are under his power, and that we cannot escape if we swear falsely: we also ascribe to him his glory as the God of truth; and we further testify that nothing escapes him, or is hid from his view. Hence, by saying here that the Israelites *swore by a no-god,* he means that God was deprived of his own right. They were indeed guilty of other sins; but, as it has been stated, the Prophet includes under one kind all the superstitions which then prevailed among the people. It was then the same as though he had said, that they worshipped idols and gods, whom they had devised for themselves.
 
 He adds a circumstance which enhanced their guilt, *I have filled them,* he says, *and they have committed adultery* There is here a striking alliteration, which must not be omitted, he had said, ישבען, *ishbon, “*they have sworn;” and now he says, אשבע, *ashbo, “*I have filled them.” The only difference is in a point; when placed on the left side of ש, *shin,* the word means to fill, and when on the right, to swear. [^9] The Prophet then says, that they had *sworn* to another God, and yet had been *filled* God shews here how base and disgraceful had been the ingratitude of the people; for they had been filled to the full with all blessings, and yet they did not acknowledge their own God, who had been to them a Father, so kind and bountiful: *I have filled them,* he says, *and they have committed adultery*
 
@@ -164,7 +163,7 @@ When therefore our conversion will be of this kind, then God will be merciful to
 
 ## Prayer Lecture 19
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are at this day inclined to those vices, to which we learn thine ancient people were too much given, — O grant, that we, being governed by thy Spirit, may not harden ourselves against those thy holy warnings, by which thou daily reprovest us and our sins, but that we may be teachable and obedient: and as we have hitherto too much resisted thee and carried on war with thy justice, may we learn to fight with ourselves and with our sins, and rely on thy word, until we gain the victory, and at length attain that triumph, which has been prepared for us in heaven by Jesus Christ our Lord. — Amen.
 
@@ -255,7 +254,7 @@ He afterwards speaks of its barbarity: *Thou wilt not,* he says, *understand its
 
 ## Prayer Lecture 20
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though thou mightest justly condemn us at this day for the gross and wicked impiety, which thou didst formerly condemn by the mouth of thy Prophet in thine ancient people, — O grant, that we may not proceed in our obstinacy, but learn with pliable minds, and in true docility of heart, to submit to thy word, so that it may not turn to our ruin, but that we may by experience find it to be appointed for our salvation, so that being inflamed with a desire for true religion, and also cleansed from the filth of depraved affections and of carnal lusts, we may devote ourselves wholly to thy service, until having put off the flesh and all its filth, we shall at length attain to that perfect purity, which is set before us in thy gospel, and be made partakers of thy eternal glory in Christ Jesus our Lord. — Amen.
 
@@ -357,7 +356,7 @@ To *say in the heart* means in Hebrew to weigh, to consider. We should say in La
 
 ## Prayer Lecture 21
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou daily invitest us to thyself with so much kindness and benevolence, and since thy word continually sounds in our ears, — O grant, that we may not become deaf through the depravity of our flesh, but be attentive to hear the doctrine of salvation, and become so teachable and obedient, that we may be willing to be turned wherever thou pleasest, and to be guided in the way thou pointest out to us, until we shall at length reach that blessed rest, which has been prepared for us in heaven by Jesus Christ our Lord. — Amen.
 

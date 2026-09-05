@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Lamb—The Light
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 583
 
-DELIVERED ON SUNDAY MORNING, JULY 31, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 31, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And the city had no need of the sun, neither of the moon, to shine in it: for the Gory of God did lighten it and the Lamb is its light." Revelation 21:23.
 
@@ -150,7 +149,6 @@ What would you do if He did not put His hand upon you and say, "Fear not, I am w
 To have such high hopes and to have them all blasted! High, loud boasting and to have our mouths stopped forever! But, Beloved, we need not suppose such a thing for we know that our Redeemer lives and we know that He never forsakes the work of own hand. Married as He is to our souls, He will never sue for divorce against any one of His dear people, but He will hold and bless us till we die. And we on our part will confess of our spiritual life that the Lamb is its light. Of every day and every night—of every joy and every sorrow—the Lamb has been until now our light and shall be till we die.
 
 If this is so, how dark is the case of those who do not know the Lamb? In what misery and ignorance do you grope who do not know the Savior? Would you know Christ, would you have the happiness of resting upon His bosom? Trust Him, then—for whoever trusts Him is saved. To trust Christ is that saving faith which brings the soul out of condemnation. "He that believes on Him is not condemned." Trust, guilty as you are—trust to His Atonement and it shall wash you! Trust to His power—it shall prevail for you! Trust to His wisdom—it shall protect you! Trust to His heart—it shall love you, world without end. Amen.
-
 
 ---
 [[Sermon 0582 The Restoration And Conversion Of The Jews|← #582]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0584 A Hearer In Disguise|#584 →]]

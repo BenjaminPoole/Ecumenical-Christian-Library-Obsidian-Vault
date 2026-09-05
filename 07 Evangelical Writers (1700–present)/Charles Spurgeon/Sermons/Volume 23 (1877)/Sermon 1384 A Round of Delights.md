@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Round of Delights
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1384
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 11, 1877,.
+*Delivered on Lord's-Day Morning, November 11, 1877*
 
 > "Now the God of Hope fill you with all joy and peace in believing, that you may abound in hope, through the power of the Holy Spirit." Romans 15:13.
 
@@ -164,7 +163,6 @@ Then afterwards it will be fair enough to draw arguments for the abounding hope,
 I feel joy and peace, already, because in some measure sin is conquered in me. How will my soul be yet further sanctified and sin cast out of me? Why, by the same Holy Spirit who has already renewed me! I have had an earnest of what He can do and, therefore, I have an abounding of hope of what He will do. My joyful experience of His indwelling, comforting, illuminating and sanctifying power leads me into a full and confident assurance that He will carry on the work of Grace and present me complete at the Last Great Day. Beloved, go forward, keeping close to the groundwork of faith, and you will feel joy and peace in your hearts!
 
 Expect what you will. "Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love Him." Expect great things, expect things beyond all expectation! Your largest hopes shall all be exceeded! Hope and hope, and yet hope again, and each time hope more and more, but the Lord will give you more than you have hoped for! When you enter His palace gates at the last, you will say, "My imagination never conceived it! My desires never compassed it! My hope never expected it! The glory surpasses all! The tenth has not been told me of the things which God had provided for me!" "Rejoice in the Lord always, and again I say, rejoice." Amen.
-
 
 ---
 [[Sermon 1383 The Cause And Cure Of Weariness In Sunday School Teachers|← #1383]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1385 Jesus Interceding For Transgressors|#1385 →]]

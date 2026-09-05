@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER VII.
 
 *To his brother Israel*, *then a student at Yale college*, *New Haven.*
@@ -23,7 +22,7 @@ I had determined to make you and my other friends in New England a visit this fa
 
 Your affectionate loving brother,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

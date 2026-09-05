@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 90. Mark 6:12-13; Luke 9:6
-
-**MARK 6:12-13; LUKE 9:6**
 
 **12.** And they departed, and preached [^1] that men should repent. **13**. And they cast out many devils, and anointed with oil many diseased persons, and healed them.
 

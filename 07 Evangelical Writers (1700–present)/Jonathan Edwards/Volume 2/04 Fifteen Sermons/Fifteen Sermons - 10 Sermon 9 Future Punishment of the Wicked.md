@@ -10,7 +10,6 @@ written: "c. 1730s–1750s (preached; published in Edwards' collected Works)"
 tags:
   - jonathan-edwards
 ---
-
 # SERMON IX.
 
 ## THE FUTURE PUNISHMENT OF THE WICKED UNAVOIDABLE AND INTOLERABLE.
@@ -25,7 +24,7 @@ IN the former part of this chapter, we have a dreadful catalogue of the sins of 
 
 2\. Their punishment is more particularly represented in three things, *viz*. The intolerableness, the remediless-ness, and the unavoidableness of it.—The *intolerableness* of it: *can thine heart endure*?—Its *remedilessness*, or the impossibility of their doing any thing for their own relief: can thine hands be strong?—Its *unavoidableness*: *I the Lord have spoken it, and wilt do it*.
 
-DOCTRINE.
+## Doctrine
 
 Since God hath undertaken to deal with impenitent sinners, they shall neither shun the threatened misery, nor deliver themselves out of it, nor can they bear it.
 

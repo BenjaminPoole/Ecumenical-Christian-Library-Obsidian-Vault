@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # "A Peculiar People"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2530
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But know that the LORD has set apart him that is godly for Himself: the Lord will hear when I call to Him." Psalm 4:3.
 
@@ -135,7 +132,7 @@ He will either stop those wicked men's mouths, or else He will open yours. He wi
 
 "The Lord will hear when I call to Him." Call unto Him now and He will hear and answer you! And so let us come to His Table, happy and joyful, through Jesus Christ our Lord. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:25-32.
+## Exposition by C. H. Spurgeon: Psalm 119:25-32
 
 Verse 25. My soul cleaves unto the dust quicken me according to Your Word. "I feel heavy, unhappy, dull. 'My soul cleaves unto the dust.' Or I feel worldly, lethargic, lifeless. 'My soul cleaves unto the dust.' There is nothing but the power of new life that can separate me from that dust! 'Quicken me according to Your Word.'" Divine life is the great cure for most spiritual evils. When a man has vigorous life in his constitution, he throws off many diseases. And when the soul is full of spiritual life, it masters a great number of evils. "My soul cleaves unto the dust: quicken me according to Your Word." That is good pleading—"according to Your promise, for You have promised to quicken me. It is the nature of Your Word to be quick and quickening; therefore, Lord, 'quicken me according to Your Word.'"
 
@@ -156,7 +153,6 @@ Verse 25. My soul cleaves unto the dust quicken me according to Your Word. "I fe
 31\. O LORD, put me not to shame. You may rest assured that He never will! If a man clings to God, God will cleave to him. If we are not ashamed of God, He will never put us to shame, but we shall go from strength to strength glorying in His Truth and Grace.
 
 32\. I will run the way of Your commandments, when You shall enlarge my heart There is an enlargement of the heart that is very dangerous, but this kind of enlargement of the heart is the most healthy thing that can happen to a man! A great heart, you see, is a running heart. A little heart goes slowly, but an enlarged heart runs in the way of God's Commandments. Oh, for a heart full of love to God! And then to have that heart made larger, so as to hold more of God's love! Lord. enlarge my heart in that sense! Let me feel at home and at liberty with You! Let the last link of my bondage be snapped. Amen.
-
 
 ---
 [[Sermon 2529 Compassion on the Ignorant|← #2529]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2531 A Boundless Benediction|#2531 →]]

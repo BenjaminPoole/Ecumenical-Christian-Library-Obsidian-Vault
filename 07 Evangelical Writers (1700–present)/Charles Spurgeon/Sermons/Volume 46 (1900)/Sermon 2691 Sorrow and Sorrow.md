@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Sorrow and Sorrow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2691
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For godly sorrow works repentaance to salivation not to be repented of: but the sorrow of the world works death." 2 Corinthians 7:10.
 
@@ -37,7 +34,7 @@ Now, concerning this sorrow for sin, I want, first, to remove certain erroneous 
 
 I. First, then, I want to try to REMOVE CERTAIN ERRONEOUS IDEAS WITH REGARD TO SORROW FOR
 
-SIN.
+## Sin
 
 Some persons seem to think that mere sorrow of mind in reference to sin is repentance, but it is not. Read the text, and you will at once see that it is not. "Godly sorrow works repentance." Therefore, it is not, itself, repentance. It is an agent employed in producingrepentance, but it is not, itself, repentance. There is, in the world, a great deal of sorrow on account of sin which is certainly not repentance and never leads to it. Some transgressors are sorry for sin for a time— they are convicted of guilt with a transitory conviction which soon passes away. Many are sorry for sin because of its temporal consequences—and many more because of its eternal consequences. They are afraid of Hell. If there were no Hell, they would like to continue to live in sin. They would be delighted if it could be proved that there is no God. Nothing would please them better than to have the Law of the Lord and all its penal consequences abolished. They are as fond of sin as ever they were, but they sorrow because they see that it is bringing them down to the gulf of Perdition. Now, that kind of sorrow is not repentance! A moth may burn its wings in the candle and then, full of pain, fly back to the flame. There is no repentance in the moth, though there is pain—and so, there is no repentance in some men, though there is in them a measure of sorrow on account of their sin. Do not, therefore, make a mistake in this matter, and think that sorrow for sin is, or even necessarily leadsto, repentance.
 
@@ -136,7 +133,6 @@ A constant weeper be."
 This is joy, rest, patience, bliss—just to lie there and weep, and wash with tears the feet that came upon that errand of love and mercy for us! And still look, and love, and long, and weep, and look, and love, and long, and weep again, and kiss again and again the blessed feet of Him who has redeemed us unto God by His blood!
 
 The Lord keep us there, dear Friends! Amen. Amen.
-
 
 ---
 [[Sermon 2690 Meditation on God|← #2690]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2692 Church Increase|#2692 →]]

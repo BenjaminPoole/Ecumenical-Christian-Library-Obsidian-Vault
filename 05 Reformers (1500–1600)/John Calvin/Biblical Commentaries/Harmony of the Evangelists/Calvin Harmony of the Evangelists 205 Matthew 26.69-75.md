@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 205. Matthew 26:69-75; Mark 14:66-72; Luke 22:55-62
-
-MATTHEW 26:69-75; MARK 14:66-72;  
-LUKE 22:55-62
 
 **69.** Now Peter was sitting without in the court. And a maid cam to him, saying, Thou also wast with Jesus the Galilean. **70.** But he denied before them all, saying, I know not what thou sayest. **71.** And as he was going out into the porch, another maid saw him, and said to those who were there, This man also was with Jesus the Nazarene. **72.** And again he denied with an oath, I do not know the man. **73.** After a little came those who were standing by, and said to Peter, Surely thou also art one of them; for thou are convicted by thy speech. **74.** Then he began to curse and to swear, that he did not know the man. And immediately the cock crew. **75.** And Peter remembered the saying of Jesus, who had told him, Before the cock crow, thou wilt thrice deny me. And he went out, and wept bitterly.
 

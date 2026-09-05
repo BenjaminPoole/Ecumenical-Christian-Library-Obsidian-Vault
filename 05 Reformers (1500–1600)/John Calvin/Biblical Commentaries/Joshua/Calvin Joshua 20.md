@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 20
 
-**CHAPTER 20**
+***Chapter 20***
 
 ## Joshua 20:1-9
 

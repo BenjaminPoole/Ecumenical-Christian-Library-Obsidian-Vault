@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Jesus Meeting His Warriors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 589
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 11, 1864, BY C. H. SPURGEON,.
+*Delivered on Lord's Day Morning, September 11, 1864, by C. H. Spurgeon*
 
 > "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the Most High God. And he blessed him and said, Blessed be Abram of the Most High God, possessor of Heaven and earth: and blessed be the Most High God, which has delivered your enemies into your hand. And he ga ve him tithes of all." Genesis 14:18-20.
 
@@ -130,7 +129,6 @@ Or, if you felt niggardly—supposing He should say to you, "If you will never a
 But there are some of you who are not like Abram. You need not hope, yet, to see Melchizedek. There are some of you strangers, far off. Ah, I may rather compare you to the men of Sodom! Christ has done something for you as Abram did for Sodom. You know it was only for the sake of Lot that He brought them back, but He did bring them all back and for the sake of Lot gave a respite to them all—although a few years after they had grown so wicked that they were all destroyed. My Master has given a respite to free you all. While His great work was the salvation of His own chosen, yet He has spared you all in the land of the living. Take heed lest you do as did the men of Sodom, for then a hail more fiery, a destruction more terrible must come upon you, seeing that you turn not aside from your evil ways, nor seek His face.
 
 Trust Christ and you are saved! Believe in Him and your sins are forgiven. But if you refuse, beware lest that come upon you which is written in the Prophets, "Behold, you despisers and wonder and perish!" The Master now send us away with His benediction. Amen.
-
 
 ---
 [[Sermon 0588 The Prodigal'S Reception|← #588]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0590 The Backslider'S Way Hedged Up|#590 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 64. Matthew 7:12-14; Luke 6:31
-
-**MATTHEW 7:12-14; LUKE 6:31**
 
 **12**. All things, therefore, whatsoever you would wish that man should do to you, do so also to them: for this is the Law and the Prophets. **13**. Enter in by the strait gate: because broad is the gate, and wide is the road, which leadeth to destruction, and there are many who enter by it. **14**. Because strait is the gate, and narrow is the road, which leadeth to life, and there are few who find it.
 

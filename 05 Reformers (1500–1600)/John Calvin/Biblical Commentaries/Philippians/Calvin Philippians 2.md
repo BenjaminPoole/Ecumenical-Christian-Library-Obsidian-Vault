@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Philippians 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Philippians 1-4
 

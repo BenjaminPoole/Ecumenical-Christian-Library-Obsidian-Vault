@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Loving the Law of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3090
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O how I love Your Law! It is my meditation all the day. You, through Your commandments, have made me wiser than my enemies: for they are ever with me. I have more understanding than all my teachers: for Your testimonies are my meditation. I understand more than the ancients because I keep Your precepts." Psalm 119:97-100.
 
@@ -81,7 +78,7 @@ There is another kind of ancients that we have to guard against—very old sinne
 
 To sum up all, the heart must be right with God and it can only be so as the result of simple faith in the Lord Jesus Christ. And when the heart is right and you are saved, I beseech you to let your Bibles be everything to you. Carry this matchless treasure with you continually. And read it, and read it, and read it again and again! Turn to its pages by day and by night. Let its narratives mingle with your dreams! Let its precepts color your lives! Let its promises cheer your darkness, let its Divine illumination make glad your life! As you love God, love this Book which is the Book of God and the God of books, as it has rightly been called. And may God make this Book to be your comfort when you pass through the valley of death-shade. And may you in Heaven have forever to praise Him who revealed Himself to you through the pages of this blessed Book! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:113-128.
+## Exposition by C. H. Spurgeon: Psalm 119:113-128
 
 Verse 113. I hate vain thoughts: but I love Your Law. Presumptuous thoughts, erroneous thoughts, wicked thoughts, foolish thoughts—all three David hated. A good man ought to be a good hater as well as a good lover. What should he hate? He should hate vain thoughts. What should he love? He should love the Law of the Lord. If we do not hate sin in the very egg, we shall not be likely to hate it in its fuller development. The very thought of sin must be detestable to us and if we do not think of evil, we shall not speak evil, nor do evil. We ought to begin with David at the beginning, and say, "I hate vain thoughts." Yet negative religion is not sufficient, so we should go on to the positive form—"'I love Your Law' and I love it so much that I wish I could always keep it, never transgress it and never forget it."
 
@@ -124,7 +121,6 @@ firmly and says, "I will keep the commandments of my God." It is a grand thing t
 128\. Therefore I esteem all Your precepts concerning all things to be right. "Ungodly men think they are wrong. That is an additional proof to me that they are right." When a certain old philosopher had been praised by a bad man, he asked, "What have I done amiss that he should speak well of me?" And there are some men's mouths out of which the praise of Christ or the praise of the Scriptures would be to God's dishonor. They tell me that So-and-So spoke blasphemously against Christ, but why should he not do so? It is natural for him to be a blasphemer. When serpents hiss, do they not act according to their nature? I do not read that Christ stopped men's mouths when they blasphemed Him, but I do know that when the demons bore witness to Him, He silenced them, for He liked not to be praised by diabolical mouths! Let ungodly men say what they may—we know the value of their speeches and we are not troubled by them.
 
 128\. And I hate every false way. Again David mentions his hatred of all falseness. Some men are such "chips in the porridge" that they neither love nor hate, but the Believer is a man or woman who has both loves and aversions. He loves the truth and, therefore, he hates every false way.
-
 
 ---
 [[Sermon 3089 A Sermon on a Grand Old Text|← #3089]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3091 Pedigree|#3091 →]]

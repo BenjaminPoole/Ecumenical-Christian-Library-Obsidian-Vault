@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # My Comfort In Affliction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1872
-
-DELIVERED BY.
 
 > "This is my comfort in my affliction, for Your Word has quickened me." Psalm 119:50.
 
@@ -90,7 +87,6 @@ Lastly, in the 55th verse, you see David was in darkness. He says, "I have remem
 All along, then, dear Friends, your comfort and mine is the Word of God, laid home by God, the Holy Spirit, to our hearts, quickening us to an increase of spiritual life! Do not try to flee from your troubles. Do not fret under your cares. Do not expect this world to bring forth roses without thorns. Do not hope to prevent the springing up of briers and thistles. Ask for quickening! Ask for that quickening to come, not by new revelations nor by fanatical excitement, but by
 
 God's own Word quietly applied by His own Spirit! So shall you conquer all your troubles, overcome your difficulties and enter into Heaven singing hallelujahs unto the Lord's right hand and holy arm which have gotten Him the victory!
-
 
 ---
 [[Sermon 1871 Love's Transformations—a Communion Meditation|← #1871]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1873 The Dream of the Barley Cake|#1873 →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 41. Why was he also "buried?"
-
-**Question 41. Why was he also "buried?"**
 
 Answer. Thereby to prove that he was really dead.
 
-**EXPOSITION**
+## **Exposition**
 
 There are many causes on account of which Christ was buried:
 

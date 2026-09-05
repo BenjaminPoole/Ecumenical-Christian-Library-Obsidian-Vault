@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Session XIII
 
 Being the third under the Sovereign Pontiff, Julius III., celebrated on the eleventh day of October, MDLI.
@@ -82,7 +81,7 @@ CANON X.-If any one saith, that it is not lawful for the celebrating priest to c
 
 CANON XI.-lf any one saith, that faith alone is a sufficient preparation for receiving the sacrament of the most holy Eucharist; let him be anathema. And for fear lest so great a sacrament may be received unworthily, and so unto death and condemnation, this holy Synod ordains and declares, that sacramental confession, when a confessor may be had, is of necessity to be made beforehand, by those whose conscience is burthened with mortal sin, how contrite even soever they may think themselves. But if any one shall presume to teach, preach, or obstinately to assert, or even in public disputation to defend the contrary, he shall be thereupon excommunicated.
 
-DECREE ON REFORMATION
+## Decree on Reformation
 
 ### CHAPTER I. Bishops shall apply themselves with prudence to reform the manners of their subjects: from the correction of those bishops there shall be appeal.
 

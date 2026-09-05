@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Without Christ
 
-Chapter XVI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XVI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Ye were without Christ*.”—Ephes. ii. 12.
 
@@ -92,7 +91,6 @@ Awake to a deeper sense of the sorrowful state of those who are “without Chris
 Have we relatives “without Christ”? Let us feel for them, pray for them, speak to the King about them, strive to recommend the Gospel to them. Let us leave no stone unturned in our efforts to bring them to Christ.
 
 Have we neighbours “without Christ”? Let us labour in every way for their souls’ salvation. The night cometh when none can work. Happy is he who lives under the abiding conviction that to be “in Christ” is peace, safety, and happiness; and that to be “without Christ” is to be on the brink of destruction.
-
 
 ---
 [[Holiness 15 “Lovest Thou Me”|← “Lovest Thou Me?”]] · [[Holiness|Holiness Contents]] · [[Holiness 17 Thirst Relieved|Thirst Relieved →]]

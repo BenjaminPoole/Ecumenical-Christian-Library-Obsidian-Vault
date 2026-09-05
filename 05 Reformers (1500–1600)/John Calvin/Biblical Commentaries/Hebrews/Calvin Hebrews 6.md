@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Heb 6:1-2
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # 'The Time Is Short'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2861
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The time is short." 1 Corinthians 7:29.
 
@@ -112,7 +109,6 @@ Frail, fleeting man!
 How saved should that one life ever be— That narrow span!
 
 Day after day filled up with blessed toil, Hour after hour still bringing in new spoil."
-
 
 ---
 [[Sermon 2860 Owl or Eagle|← #2860]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2862 The Way of Wisdom|#2862 →]]

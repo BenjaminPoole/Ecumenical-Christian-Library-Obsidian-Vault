@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Saints' Riches
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3204
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He that spared not His own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things?" Romans 8:32.
 
@@ -59,7 +56,7 @@ Well then, as God has thus given up His only-begotten and well-beloved Son, how 
 
 II. I shall try to knock a second time at the door of your hearts to comfort you by reminding you how PRECIOUS
 
-CHRIST WAS INTRINSICALLY IN HIMSELF.
+## Christ Was Intrinsically in Himself
 
 The wonder is not only that God gave His Son, but that His Son was what He was. Paul says He is "over all, God blessed forever." Jesus Himself said, "Before Abraham was, I Am"—claiming the very name of the eternal Jehovah. In due time, Christ became Man and, as Man, He was very dear to His Father. Even His earthly mother could not look upon her Child with half the affection that His Father had for Him. He was a perfect Man and, therefore, lovely in His Father's sight. He was, indeed, Himself God and, therefore, One with the Father even while He was Man. The loftiest angel could not adequately preach to you upon this point—unto what, then, shall I liken the preciousness of this gift? Similes fail me, metaphors I have none, "no mention shall be made of coral, or of pearls, for the price of Jesus is above rubies." He shall not be given for gold, no, not for much fine gold. As for topaz, and onyx, and sapphire, and all other precious stones, these must not be mentioned in comparison with Him. Paul's expression is the only appropriate one, "Thanks be unto God for His unspeakable gift." Eternity alone can reveal the value of Christ! By the miseries of the Hell from which He saves us, let us measure Him! By the bliss of the Heaven to which He lifts us, let us estimate His worth! By the depths of ignominy and shame into which He dived, let us conceive of Him! By the glories He relinquished and by the agonies He bore, let us attempt to form some faint idea of His value! But this Pearl of Great Price is so precious that I am bold to say that if Heaven, and earth, and all the starry orbs could be sold, their united price could not buy such another pearl as this one which God has given to us in Christ Jesus!
 
@@ -75,7 +72,7 @@ What can I need beside?"
 
 III. But now, as a third blow at your unbelief, I want you to remember, Beloved, THE MANNER IN WHICH THIS
 
-GIFT WAS GIVEN.
+## Gift Was Given
 
 The text says, "He that spared not His own Son." A mother may give up her tall strong son to fight in the army of her country and he may perish by an enemy's hand. But I cannot conceive of a mother slaughtering her own son for her country's good! We have wondered as we have read of Brutus, who, when his sons had entered into a conspiracy against the Republic, could say, "Lictors, do your duty." The father saw the corpses of his sons with the pangs of a father, but with the stern serenity of a judge they had offended—so they must die. Strong must be a man's sense of justice to be able to overcome his love so as to give up his own son to die. But our gracious God not only gave up His Son to die for us, but He was Himself, (if I may use such an expression), the executioner of Christ. Isaiah tells us in his wonderful 53rd Chapter, that "The Lord has laid on Him the iniquity of us all...It pleased the Lord to bruise Him. He has put Him to grief...you shall make His soul an offering for sin...We did esteem Him stricken, smitten of God, and afflicted." This, indeed, was the very sting of Christ's death, for He cried out in His worst agony, "My God, My God, why have You forsaken Me?" Oh, what love God must have had to you and to me, for it overcame His love to His only-begotten Son! So we read in Zechariah 13:7, "Awake, O sword, against My Shepherd, and against the Man that is My Fellow, says the Lord of Hosts: smite the Shepherd, and the sheep shall be scattered." My tongue cannot tell the story of this marvelous Grace of God to you and to me, but I again remind you that although God knew that His plan of salvation involved His smiting His own Son and deserting Him in His hour of deepest need so that you and I should not perish—the Father smites, and wounds, and slays His own Son! And there upon the accursed tree, in intense pangs, unutterable, unknown, the Son of God dies, "the Just for the unjust, that He might bring us to God."
 
@@ -141,7 +138,7 @@ The only question I have to ask before I have done is this—Is Christ yours Is 
 
 May the Lord give Christ to each one of us and unto Him shall be the glory world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS8:26-39.
+## Exposition by C. H. Spurgeon: Romans 8:26-39
 
 Verse 26. Likewise the Spirit also helps our infirmities. Oh, how many these are! Lack of memory, lack of faith, lack of earnestness, ignorance, pride, deadness, coldness of heart—these are some of our infirmities. But thank God we have the Omnipotent Spirit of God to help us!
 
@@ -202,7 +199,6 @@ SHIELD.] "Why," says one, "Christ, the great Judge, will condemn." No, that He w
 neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height nor
 
 depth, nor any other creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord [See Sermon #2492, Volume 45—PAUL'S PERSUASION.]
-
 
 ---
 [[Sermon 3203 Christ Made Sin|← #3203]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3205 Scales Taken From the Eyes|#3205 →]]

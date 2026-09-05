@@ -573,7 +573,7 @@ Let us now proceed with our history.
 
 1. There are extant five books of Papias, which bear the title Expositions of Oracles of the Lord. Irenæus makes mention of these as the only works written by him, in the following words: These things are attested by Papias, an ancient man who was a hearer of John and a companion of Polycarp, in his fourth book. For five books have been written by him. These are the words of Irenæus.
 
-2. But Papias himself in the preface to his discourses by no means declares that he was himself a hearer and eye- witness of the holy apostles, but he shows by the words which he uses that he received the doctrines of the faith from those who were their friends.
+2. But Papias himself in the preface to his discourses by no means declares that he was himself a hearer and eye-witness of the holy apostles, but he shows by the words which he uses that he received the doctrines of the faith from those who were their friends.
 
 3. He says: But I shall not hesitate also to put down for you along with my interpretations whatsoever things I have at any time learned carefully from the elders and carefully remembered, guaranteeing their truth. For I did not, like the multitude, take pleasure in those that speak much, but in those that teach the truth; not in those that relate strange commandments, but in those that deliver the commandments given by the Lord to faith, and springing from the truth itself.
 

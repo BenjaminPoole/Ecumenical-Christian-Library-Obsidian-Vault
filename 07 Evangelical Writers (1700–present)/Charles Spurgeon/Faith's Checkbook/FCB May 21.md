@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # May 21
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**RAIN WITHOUT CLOUDS? NEVER!**
+## **Rain without Clouds? Never!**
 
 > If the clouds be full of rain, they empty themselves upon the earth" Eccl. 11:3
 
@@ -23,7 +22,6 @@ Why, then, do we dread the clouds which now darken our sky? True, for a while th
 Our troubles have always brought us blessings, and they always will. They are the dark chariots of bright grace. These clouds will empty themselves before long, and every tender herb will be the gladder for the shower. Our God may drench us with grief, but He will not drown us with wrath; nay, He will refresh us with mercy. Our Lord's love-letters often come to us in black-edged envelopes. His wagons rumble, but they are loaded with benefit. His rod blossoms with sweet flowers and nourishing fruits. Let us not worry about the clouds, but sing because May flowers are brought to us through the April clouds and showers.
 
 O Lord, the clouds are the dust of thy feet! How near thou art in the cloudy and dark day! Love beholds thee, and is glad. Faith sees the clouds emptying themselves and making the little hills rejoice on every side.
-
 
 ---
 [[FCB May 20|← May 20]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB May 22|May 22 →]]

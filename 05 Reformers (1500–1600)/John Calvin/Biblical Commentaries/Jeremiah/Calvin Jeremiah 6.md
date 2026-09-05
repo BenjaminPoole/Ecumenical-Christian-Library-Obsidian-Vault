@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Lecture Twenty Third
 
@@ -110,7 +109,7 @@ We now then apprehend the Prophet’s object. And then he says, *Return thy hand
 
 ## Prayer Lecture 23
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou kindly invitest us to repentance, and urgest us also by setting before us examples of thy wrath, — O grant, that we may not continue perversely disobedient, but render ourselves tractable and submissive to thee, so that we may not meet with that dreadful severity which thou didst threaten to thine ancient people, but anticipate the wrath which thou didst formerly denounce on them; and may we thus with a pious heart return to thee, that we may find by experience that thou art ever a propitious Father to sinners, whenever with a sincere heart and without dissimulation they return to thee, through Christ Jesus our Lord. — Amen.
 
@@ -198,7 +197,7 @@ This, then, is what the Prophet means when he says, *Have they been ashamed?* Bu
 
 ## Prayer Lecture 24
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that inasmuch as thou seekest daily to restore us to thyself, and so arrangest thy word, as now kindly to allure us, and then to reprove us severely, and even to drive us by threatenings, — O grant, that we may not be altogether unteachable; but so rule us by the spirit of meekness, that we may submit ourselves to thee and to thy holy word, and be so terrified by the fear of thy judgment as yet ever to taste of the sweetness of thy mercy, so that we may cleave to thee in Christ thy Son, until we shall at length fully know that thou art our Father, and enjoy the fruit of our adoption in the same Christ Jesus our Lord. — Amen.
 
@@ -301,7 +300,7 @@ He adds, *Ascend shall they on horses,* [^23] *and be set in order as a man for 
 
 ## Prayer Lecture 25
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not daily to give thee occasion of offense, and as thou ceasest not, in order to promote our salvation, to call us to the right way, — O grant, that we may be attentive to thy voice, and suffer ourselves to be reproved by it, and so submit ourselves to thee, that we may continually go on towards the mark to which thou invitest us, and that having at length finished our course in this life, we may enjoy the fruit of our obedience and faith, and possess that eternal inheritance which has been obtained for us by Jesus Christ our Lord. — Amen.
 

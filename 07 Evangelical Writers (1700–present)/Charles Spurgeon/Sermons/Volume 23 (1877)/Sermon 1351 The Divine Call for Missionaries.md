@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Divine Call for Missionaries
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1351
 
-DELIVERED ON LORD'S-DAY MORNING APRIL 22, 1877,.
+*Delivered on Lord's-Day Morning April 22, 1877*
 
 > "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for Us? Then said I, Here am I; send me." Isaiah 6:8.
 
@@ -138,7 +137,6 @@ I feel certain that some of you are eager to go for my Lord and Master wherever 
 That is the right missionary spirit and may God be pleased to pour it out upon you all, and upon His people throughout the world. To me it seems that if a hundred were to leap up and each one exclaim, "Here am I; send me," it would be no wonder. By the love and wounds and death of Christ. By your own salvation. By your indebtedness to Jesus. By the terrible condition of the heathen and by that awful Hell whose yawning mouth is before them, ought you not to say, "Here am I; send me"? The vessel is wrecked, the sailors are perishing—they are clinging to the rigging as best they can—they are being washed off one by one! Good God, they die before our eyes and yet there is the lifeboat new and trim. We need men! Men to man the boat! Here are the oars, but never an arm to use them! What is to be done? Here is the gallant boat, able to leap from billow to billow, only men are needed! Are there none? Are we all cowards? A man is more precious than the gold of 0phir.
 
 Now, my brave Brothers, who will leap in and take an oar for the love of Jesus and yon dying men? And you brave women, you who have hearts like that of Grace Darling, will not you shame the laggards and dare the tempest for the love of souls in danger of death and Hell? Weigh my appeal in earnest and at once, for it is the appeal of God! Sit down and listen to that sorrowful yet majestic demand, "Whom shall I send, and who will go for Us?" and then respond, "Ready, yes, ready! Ready for anything to which our Redeemer calls us." Let those who love Him, as they perceive all around them the terrible token of the world's dire need, cry in an agony of Christian love," Here am I; send me!"
-
 
 ---
 [[Sermon 1350 Enlivening and Invigorating|← #1350]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1352 Strong Consolation for the Lord's Refugees|#1352 →]]

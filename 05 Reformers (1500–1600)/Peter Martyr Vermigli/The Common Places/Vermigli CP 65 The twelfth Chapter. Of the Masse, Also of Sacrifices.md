@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 65. The twelfth Chapter. Of the Masse, Also of Sacrifices
-
-## *The twelfth Chapter.* Of the Masse, Also of Sacrifices.
 
 Of the liturgies of Basill and Chrysostome, looke in the defence against Gardiner, Page 2.
 

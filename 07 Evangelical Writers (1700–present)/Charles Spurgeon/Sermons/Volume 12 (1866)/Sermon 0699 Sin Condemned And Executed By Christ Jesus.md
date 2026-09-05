@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Sin Condemned And Executed By Christ Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 699
 
-DELIVERED ON SUNDAY MORNING, JULY 8, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 8, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Romans 8:3.
 
@@ -140,7 +139,6 @@ I must now close with the lessons to be learned from this. It gave me great cons
 Have good heart as to its destruction. Do not think that sin is mightier than you are when Christ is with you. Up at your sins and slay them! Do not tamely yield to your besetting sin. Let this resolution this day be strong, that the victory shall be yours in every part of the battle, and that no sin shall remain in dominion over you. This day record your thanksgiving to Him who fought the battle for you and won it! He has condemned sin on your behalf, and slain it, too! Ascribe unto Him glory and honor and this day let your song go up to the place where He dwells!
 
 And to you, Sinner, this lesson—see how sin is punished. If it is punished in Christ, it will surely be avenged in you! If Jehovah spared not His own Son, He will never spare His enemy. Take heed, Sinner, of your sin! It will be your everlasting ruin if you are not rid of it. See how you can be delivered. Even you, flesh as you are, and the slave of flesh, Christ can save from your sin. Trust your soul with Him! Come as you are, all sinful and defiled, and cast yourself at the foot of His Cross by a simple act of trust! He will cast out your sin, for He has condemned it in the flesh. Oh may He condemn it in your flesh, condemn it in you now, and save you from it by destroying it and saving you! God grant it may be so with us, and His be the glory. Amen.
-
 
 ---
 [[Sermon 0698 Seeing Is Not Believing, But Believing Is Seeing|← #698]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0700 Order and Argument in Prayer|#700 →]]

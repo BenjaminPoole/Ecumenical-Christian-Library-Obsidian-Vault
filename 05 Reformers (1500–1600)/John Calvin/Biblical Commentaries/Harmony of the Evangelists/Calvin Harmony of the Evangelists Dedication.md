@@ -9,22 +9,21 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # John Calvin's Epistle Dedicatory to the 1555 Edition
 
-**THE**
+***The***
 
-**AUTHOR’S EPISTLE DEDICATORY**
+## **Author’s Epistle Dedicatory**
 
-**TO**
+## **To**
 
 The Very Noble And Illustrious Lords,
 
-**THE BURGOMASTERS AND COUNCIL**
+## **The Burgomasters and Council**
 
-**OF THE NOBLE CITY OF FRANKFORT,**
+## **Of the Noble City of Frankfort,**
 
-**JOHN CALVIN**
+## **John Calvin**
 
 If virtuous examples were ever necessary to be held out for imitation, in order to stimulate lazy, sluggish, or inactive persons, the sloth, and—what is more—the indifference of this very corrupt age makes it necessary that the greater part of men, who do not of their own accord advance, but rather fall back, should at least be compelled by shame to discharge their duty. All, indeed, are seen to be influenced, both in public and in private, by a disgraceful emulation. There is not a king who does not labor to show that he is equal to his neighbors in the address, or perseverance, or energy, or courage, necessary for extending, by every possible method, the bounds of his dominion. There is not a state or commonwealth that yields the preference to others for cunning and all the arts of deception, nor a single individual among the ranks of the ambitious who will acknowledge his inferiority to others in wicked contrivances. In short, we would almost say that they had entered into a silent but mutual conspiracy to challenge each other to a contest of vices, and every man who carries wickedness to an extreme easily ruins a vast multitude by his example; so that, amidst the general prevalence of crimes, very few persons are to be found who exhibit a pattern of uprightness.
 

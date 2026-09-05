@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # One Lost Sheep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2083
 
-DELIVERED ON LORD' S-DAY MORNING, APRIL 28, 1889,.
+*Delivered on Lord' S-Day Morning, April 28, 1889*
 
 > "How think you? If a man has an hundred sheep and one of them is gone astray, does he not lea ve the ninety and nine and go into the mountains and seek that which is gone astray? And if he should find it, verily I say unto you, he rejoices more of that sheep, than of the ninety and nine which went not astray." Matthew 18:12,13.
 
@@ -73,7 +72,7 @@ No, no! Value one soul more than a world's purchase. The full company of the red
 
 II. Secondly, may the Spirit of God help me while I remind you that OUR LORD PUT FORTH SPECIAL
 
-EXERTION TO SAVE ONE SOLITARY INDIVIDUAL.
+## Exertion to Save One Solitary Individual
 
 Observe in the parable—for it is a parable, though briefly told—that we see the Shepherd leaving happier cares. He felt himself at home with His attached and faithful flock. They had not gone astray and they gathered about Him and He fed them and took pleasure in them. There is always a great deal to do with sheep—they have many diseases, many weaknesses, many needs. But when you have an attached, affectionate flock about you, you feel at home with them. So the Great Shepherd describes Himself as leaving the ninety and nine, His choice flock—the sheep that had fellowship with Him and He with them.
 
@@ -113,7 +112,7 @@ Shepherds and their flocks cannot have holiday every day. But when a lost one ha
 
 IV. Now we come to the tug-of-war, that is, to look upon our Divine Shepherd as HE SETS US A STRIKING
 
-EXAMPLE.
+## Example
 
 We may view this text as our personal missionary warrant. Today we are called upon to think of missions. And as I think it idle to preach about missions in a big high-flying style. I have purposed to say something commonplace but practical. Brethren, we are all of us to be missionaries for Christ and the text presents a warrant for each one to work earnestly as a soul-winner.
 
@@ -158,7 +157,6 @@ Next, notice that we ought never to be moved by the supposed superiority of a ra
 Once more—the motive for missionary enterprise must never be the excellence of the character of the individuals. The shepherd did not go after the sheep because it never went astray nor because it was docile—but because it did go astray and was not docile. The sin of men is their claim upon the Church of God. The more sin, the more reason for Divine Grace. Oh that the Church would feel it to be her duty, if not to go to the most degraded first, yet not to leave them to the last! Where you seem least likely to succeed, there go at once—for there you will find room for faith. And where there is room for faith, and faith fills the room, God will send a blessing.
 
 Dear friends, as you cannot, all of you, go abroad to the heathen—though some of you ought to do so—I ask you to do what you can do. Contribute to the collection which is for the support of mission work. Here is a small opportunity. And if you do not avail yourselves of it, you are not likely to do the greater thing to which I have invited you. The Lord bless you! Amen.
-
 
 ---
 [[Sermon 2082 A Free Grace Promise|← #2082]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2084 The Bible Tried and Proved|#2084 →]]

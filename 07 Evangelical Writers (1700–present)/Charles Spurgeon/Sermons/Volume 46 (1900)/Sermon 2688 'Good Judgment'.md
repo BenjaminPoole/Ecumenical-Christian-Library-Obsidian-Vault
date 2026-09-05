@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # 'Good Judgment'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2688
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have dealt well with Your servant, O LORD, according unto Your Word. Teach me good judgment and knowledge: for I have believed Your Commandments." Psalm 119:65, 66.
 
@@ -107,7 +104,7 @@ When Jonah went down to flee unto Tarshish, he found a ship going there—was no
 
 Be you, dear Friends, wise enough to stand to the plain Commandments of the Word. God help you to do so, for uprightness and integrity shall preserve you and nothing else will. "Trust in the Lord, and do good; so shall you dwell in the land, and verily you shall be fed." Those who do not believe God's Commandments and run off to all sorts of shifts and schemes, and tricks of their own, will have to suffer for it! Pray to God to teach you good judgment. And if He has given you a measure of it, may He continually give you more and more, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:64-72.
+## Exposition by C. H. Spurgeon: Psalm 119:64-72
 
 Verses 64-67. The earth, O LORD, is full of Your mercy: teach me Your statutes. You have dealt well with Your servant, O LORD, according unto Your Word. Teach me good judgment and knowledge: for I have believed Your Commandments. Before I was afflicted I went astray.—Prosperity had been to the Psalmist like the gap in the hedge through which the sheep wander from the shepherd, but affliction had been to him like the prickly bushes that often stop the sheep from wandering still further, so he says, "Before I was afflicted I went astray."
 
@@ -132,7 +129,6 @@ to try to answer them. I will turn to a far more profitable occupation—'I will
 71\. It is good for me that I have been afflicted; that I might learn Your Statutes. The Psalmist was so impressed with the benefits which he had derived from his afflictions, that he returned to the subject—"It is good for me that I have been afflicted; that I might learn Your Statutes." There is much teaching power about God's rod. He always keeps one in His school and it is greatly needed for such dull scholars as we are. Many a child of God can repeat the Psalmist's testimony—"It is good for me that I have been afflicted; that I might learn Your statutes." "You have whipped a little knowledge into me and not much has come in any other way."
 
 72\. The Law of Your mouth is better unto me than thousands of gold and silver David had a great deal of gold and silver, far more than any of us have, but yet he thought very little of it in comparison with God's Law. Many people despise gold and silver because they have not any. The fox said the grapes were sour because they were beyond his reach. But here is a case in which a man had as much gold and silver as he could ever want—yet he says that the Law of God's mouth was better than all of it, and he was wise in saying so! For gold and silver can be stolen. Riches often take to themselves wings and fly away. Even great wealth may soon be spent and gone, but God's Law never leaves those who love it, nor lets them lose it. When all our spending money is gone, then is the Commandment of God still our treasure. Happy is everyone who can say, with David, "The Law of Your mouth is better unto me than thousands of gold and silver."
-
 
 ---
 [[Sermon 2687 Too Good to Be Saved!|← #2687]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2689 The Ever-Living Christ|#2689 →]]

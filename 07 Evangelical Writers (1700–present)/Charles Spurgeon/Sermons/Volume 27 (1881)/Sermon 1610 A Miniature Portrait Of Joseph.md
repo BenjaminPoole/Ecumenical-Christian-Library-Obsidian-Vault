@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # A Miniature Portrait Of Joseph
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1610
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 24, 1881,.
+*Delivered on Lord's-Day Morning, July 24, 1881*
 
 > "The Lord was with Joseph." Genesis 39:2.
 
@@ -130,7 +129,6 @@ And, to finish, God gave Joseph and his family a double portion in Israel, which
 Those who begin early with God, stand fast to the end and hold to God both in trouble and prosperity, shall see their children brought to the Lord—and in their children they shall possess the double—yes, the Lord shall render unto them double for all they may lose in honor for His name's sake. It may be they shall live to see the hand of the Lord upon their children and their children's children! And to them shall be fulfilled the Word of God, "In you shall Israel bless, saying, God make you as Ephraim and as Manasseh." Let us seek after a double part with God's people by keeping heartily with them. Who is willing to suffer with them that he may reign with them? Who is willing to cast the riches of Egypt behind his back that he may have a double portion in the promised land, the land flowing with milk and honey?
 
 I think I hear some of you say, "Here I am, Sir. I shall be glad enough to share with God's people, be it what it may." Carry Christ's Cross and you shall wear Christ's crown! Go with Him through the mire and through the slough and you shall be with Him in the palaces of Glory! You shall share a double portion with Him in the day of His appearing. This can only be because the Lord is with you—that must be the beginning and end of it! "The Lord was with Joseph"—O Lord, be with us! O You, whose name is Emmanuel, God With Us, be with us from now on and forever! Amen and Amen!
-
 
 ---
 [[Sermon 1609 Faith—What Is It How Can It Be Obtained|← #1609]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1611 The Word of the Cross|#1611 →]]

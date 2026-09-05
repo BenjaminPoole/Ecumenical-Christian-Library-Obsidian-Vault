@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # 'Jesus Our Lord'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2806
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus our Lord." Romans 4:24.
 
@@ -137,7 +134,7 @@ whose heart has leaped at the very sound of those three words, and say, "I have 
 
 But to you who love Him not and who have not accepted Him as your Lord, I can only say, in God's own words, "Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him." And this other verse which is, to my mind, the most awful in the whole Book of God, yet it was uttered by one who loved the souls of men beyond all conception, "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha," that is, "let him be accursed at Christ's coming." God save you from that terrible doom, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 2; 110.
+## Exposition by C. H. Spurgeon: Psalms 2; 110
 
 Psalm 2:1-3. Why do the heathen rage, and the people imagine a vain thing? The kings of the earth set themselves, and the rulers take counsel together against the LORD, and against His Anointed, saying, Let us break their bands asunder, and cast away their cords from us. This was what they did when they took the Lord of Life and Glory, dragged Him to the judgment seat and then nailed Him to the accursed tree. "This is the heir," they said, "let us kill Him and the inheritance shall be ours." They thought that they had destroyed the power of Christ, the appointed and Anointed King, and that He would never reign among the sons of men.
 
@@ -173,8 +170,7 @@ task.
 
 8\. Therefore shall He lift up the head.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—317, 382.
-
+## Hymns from "Our Own Hymn Book"—317, 382
 
 ---
 [[Sermon 2805 'Life for a Look'|← #2805]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2807 Spared!|#2807 →]]

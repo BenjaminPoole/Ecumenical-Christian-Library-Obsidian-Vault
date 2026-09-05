@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Warning to Waverers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2537
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But let him ask in faith, nothing wavering. For he that wavers is like a wave of the sea driven with the wind and tossed. For let not that man think that he shall receive anything of the Lord." James 1:6, 7.
 
@@ -83,7 +80,7 @@ The worst of these wavering, undecided people is that, like waves of the sea, th
 
 In closing, what shall I say to you who are undecided? I pray you think whether you have not been undecided long enough. Remember that the question you have to decide is by no means a difficult one. Whether you shall serve God or Satan, whether you shall live with Christ in Heaven or lie among the lost in Hell forever—these are not questions about which there ought to be any choice! Decide, then, foolish waverer! If you are a Believer in the Scriptures, a Believer in the Lord Jesus Christ as the Savior of men, decide to follow the teaching of those Scriptures and to accept that Savior—and decide at once! May God help you to decide very speedily! All this while you are robbing yourself of happiness, robbing God of glory, robbing His people of your help, you are even robbing this poor wicked world of what little you might do for its benefit, robbing your family of a holy example, robbing your entire life by letting its best days go for nothing. It is time, then, you were decided! O Lord, bring these waverers to decision, for Your dear Son's sake! Amen.
 
-EXPOSITION BY C.H. SPURGEON: JAMES 1.
+## Exposition by C.h. Spurgeon: James 1
 
 Verse 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. According to the teaching of some in the present day, the Apostle should have said, "To the two tribes and the ten that are lost," but he does not say so, nor does Scripture say so. "To the twelve tribes which are scattered abroad, greetings."
 
@@ -136,7 +133,6 @@ Verse 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tri
 27\. And undefled before God and the Father is this. What is pure ritualism according to the Inspired Apostle. To wear a white surplice and to change it for a black gown? I do not see that in the Scriptures. To have little boys in white to sing for you? I do not see that. What I do see is this—
 
 27\. To visit the fatherless and widows in their affliction and to keep himself unspotted from the world. I should like to have such a surpliced choir as this—a company of Christian men and women robed in unspotted holiness! We shall have such a choir as that around the eternal Throne of God, so they who wish to be there had better begin to practice the music here! The Lord help you to do so, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2536 The Ethiopian|← #2536]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2538 An Epistle Illustrated by a Psalm|#2538 →]]

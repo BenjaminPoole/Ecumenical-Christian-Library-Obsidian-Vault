@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Our Lord before Herod
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1645
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 19, 1882,.
+*Delivered on Lord's-Day Morning, February 19, 1882*
 
 > "And when Herod saw Jesus, he was exceedingly glad: for he was desirous to see Him for a long season, because he had heard many things of Him; and he hoped to ha ve seen some miracle done by Him. Then he questioned Him in many words; but He answered him nothing." Luke 23:8.9.
 
@@ -128,7 +127,6 @@ And is it not possible that when they put the gorgeous robe upon Him, He was bea
 Finally, we read that Herod and Pilate were made friends from that day on and I hope if there are any here that are true-hearted Christians, if they have had any ill-will towards one another, they will think it a great shame that Herod and Pilate should be friends and that any two followers of Jesus should not be friends at the sight of the suffering Master! As for those two foxes, Pilate and Herod, they were tied, tail to tail, that day by our great Samson! Our Lord has often been a point of union for wicked men—not by His intent and purpose—but because they have joined together to oppose Him. I have often smiled in my heart to see how superstition and skepticism will march together when they are anxious to oppose the Gospel. Then the Sadducee says, "Give me your hand, dear Pharisee. We have a common interest here, for this Man would overturn us all." The Gospel is the mortal enemy both of the skeptical Sadducee and the superstitious Phari-see—and so they lay aside their differences to assail it.
 
 Now, then, if the wicked unite before our Lord Jesus when He wears the white robe, should not His people much more be united, especially when they remember that He said, "A new commandment I give unto you, that you love one another." I charge you by your homage to Him you call Master and Lord, if you have any difference of any sort with any Christian Brother or Sister, let not yon sun go down till you have ended it by hearty love for Jesus' sake! Let it be seen that Christ is the great Uniter of all those who are in Him. He would have us love one another even as He has loved us! And His prayer is that we may be one. May the Lord hear that prayer and make us one in Christ Jesus. Amen.
-
 
 ---
 [[Sermon 1644 Our Lord's First Appearance before Pilate|← #1644]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1646 A Home Question and a Right Answer|#1646 →]]

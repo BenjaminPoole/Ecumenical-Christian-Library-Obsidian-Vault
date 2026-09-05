@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 104. What doth God require in the fifth command?
-
-**Question 104. What doth God require in the fifth command?**
 
 Answer. That I show all honor, love and fidelity, to my father and mother, and all in authority over me, and submit myself to their good instruction and correction with due obedience; and also patiently bear with their weakness and infirmities, since it pleases God to govern us with their hand.
 
-**EXPOSITION**
+## **Exposition**
 
 The Laws of the second table of the Decalogue now follow, the obedience of which has respect to God as well as the commandments of the first table. The works, however, which are here enjoined are performed immediately towards men. The immediate object of the second table is our neighbor, whilst God is the mediate object.
 
@@ -146,7 +143,7 @@ The following vices are opposed to this virtue: 1. Immodesty, which transcends t
 
 The opposite of this virtue embraces, 1. Immoderate rigor in censuring and reproving those faults which proceed for the most part from infirmity, without any serious injury, either to their own, or others' safety. 2. Too great lenity, which shows itself in not punishing or reproving great and aggravated sins. 3. Flattery, which, for the sake of gaining popularity or advancing personal interests, praises that which ought not to be praised, or attributes more to a certain one than is becoming.
 
-FORTIETH LORD'S DAY
+## Fortieth Lord's Day
 
 ---
 [[Ursinus HC Q103|← Question 103. What doth God require in the f]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q105|Question 105. What doth God require in the s →]]

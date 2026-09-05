@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 113
-
-**PSALM 113**
 
 In this psalm the providence of God furnishes matter for praising him, because, though his excellency is far above the heavens, nevertheless, he deigns to cast his eyes upon the earth to take notice of mankind. And as not a few are disconcerted by the vicissitudes which they behold occurring in the world, the prophet takes occasion, from these sudden and unlooked for changes, to warn us to attend expressly to God’s providence, that we may entertain no doubt that all things are governed according to his will and pleasure. [^1]
 

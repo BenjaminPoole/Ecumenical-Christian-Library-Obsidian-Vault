@@ -8,7 +8,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # "It Is God That Justifieth"
 
 *All of Grace* — Charles H. Spurgeon
@@ -17,7 +16,7 @@ Romans 8:33
 
 A WONDERFUL THING it is, this being justified, or made just. If we had never broken the laws of God we should not have needed it, for we should have been just in ourselves. He who has all his life done the things which he ought to have done, and has never done anything which he ought not to have done, is justified by the law. But you, dear reader, are not of that sort, I am quite sure. You have too much honesty to pretend to be without sin, and therefore you need to be justified.
 
-Now, if you justify yourself, you will simply be a self- deceiver. Therefore do not attempt it. It is never worth while.
+Now, if you justify yourself, you will simply be a self-deceiver. Therefore do not attempt it. It is never worth while.
 
 If you ask your fellow mortals to justify you, what can they do? You can make some of them speak well of you for small favors, and others will backbite you for less. Their judgment is not worth much.
 
@@ -39,8 +38,6 @@ The justification which comes from God himself must be beyond question. If the J
 
 Bold shall I stand in that great day, For who aught to my charge shall lay? While by my Lord absolved I am From sin's tremendous curse and blame.
 
-Bold shall I stand in that great day, For who aught to my charge shall lay? While by my Lord absolved I am From sin's tremendous curse and blame.
-
 Friend, the Lord can blot out all your sins. I make no shot in the dark when I say this. "All manner of sin and of blasphemy shall be forgiven unto men." Though you are steeped up to your throat in crime, He can with a word remove the defilement, and say, "I will, be thou clean." The Lord is a great forgiver.
 
 "I believe in the Forgiveness of Sins." Do You?
@@ -52,7 +49,6 @@ He can even at this hour pronounce the sentence, "Thy sins be forgiven thee; go 
 I was myself stricken down with a horrible sense of guilt, which made my life a misery to me; but when I heard the command, "Look unto me, and be ye saved, all the ends of the earth, for I am God and there is none else"--I looked, and in a moment the Lord justified me. Jesus Christ, made sin for me, was what I saw, and that sight gave me rest. When those who were bitten by the fiery serpents in the wilderness looked to the serpent of brass they were healed at once; and so was I when I looked to the crucified Saviour. The Holy Spirit, who enabled me to believe, gave me peace through believing. I felt as sure that I was forgiven, as before I felt sure of condemnation. I had been certain of my condemnation because the Word of God declared it, and my conscience bore witness to it; but when the Lord justified me I was made equally certain by the same witnesses. The word of the Lord in the Scripture saith, "He that believeth on him is not condemned," and my conscience bears witness that I believed, and that God in pardoning me is just. Thus I have the witness of the Holy Spirit and my own conscience, and these two agree in one. Oh, how I wish that my reader would receive the testimony of God upon this matter, and then full soon he would also have the witness in himself!
 
 I venture to say that a sinner justified by God stands on even a surer footing than a righteous man justified by his works, if such there be. We could never be surer that we had done enough works; conscience would always be uneasy lest, after all, we should come short, and we could only have the trembling verdict of a fallible judgment to rely upon; but when God himself justifies, and the Holy Spirit bears witness thereto by giving us peace with God, why then we feel that the matter is sure and settled, and we enter into rest. No tongue can tell the depth of that calm which comes over the soul which has received the peace of God which passeth all understanding.
-
 
 ---
 [[AoG God Justifieth the Ungodly|← God Justifieth the Ungodly]] · [[All of Grace|All of Grace Contents]] · [[AoG Just and the Justifier|Just and the Justifier →]]

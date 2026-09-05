@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 1. Life, State, and Story of Thomas Cranmer
 
 6S29 0L0b0 LozI ¢
@@ -25,15 +24,15 @@ LIBRARY Of the | a
 
 Presented to the
 
-PROFESSOR A. S. P. WOODHOUSE
+## Professor A. S. P. Woodhouse
 
 A en it lS ee a ea. a lace
 
-OP CRANMER
+## Op Cranmer
 
 - 1 bi j ic! 4 5 - ON r f
 
-E SACRAMENT OF THE LORD'S SUPPER.
+## E Sacrament of the Lord's Supper
 
 Che Parker Socicty. Iustituted ADB. M.BCCC.FL,
 
@@ -41,29 +40,27 @@ For the Publication of the Works of the Fathers and Garlp Writers of the Reforme
 
 (bois era its: 22h a a A ; Fl ee ie sr Pager
 
-Z_ WRITINGS AND DISPUTATIONS
+## Z_ Writings and Disputations
 
 THOMAS CRANMER,
 
 ARCHBISHOP OF CANTERBURY, MARTYR, 1556,
 
-RELATIVE TO THE SACRAMENT OF THE
+## Relative to the Sacrament of The
 
-LORD’S SUPPER.
+## Lord’s Supper
 
 EDITED FOR The Parker Society,
 
-REV. JOHN EDMUND COX, M.A.,
-
-OF ALL SOULS’ COLLEGE, OXFORD, CURATE AND LECTURER OF STEPNEY.
+## Of All Souls’ College, Oxford, Curate and Lecturer of Stepney
 
 Cambritge :
 
-PRINTED AT
+## Printed At
 
-THE UNIVERSITY PRESS.
+## The University Press
 
-M.DCCC.XLIV.
+## M.dccc.xliv
 
 Lire, State, and Story of Thomas Cranmer........ Kasei aeiie geo dadkahiatde anna vii An Answer to a Crafty and Sophistical Cavillation devised by Stephen
 
@@ -233,7 +230,7 @@ How little this prelate we speak of was infected with filthy desire of lucre, an
 
 _ how he was no niggard, all kind of people that knew him, as well learned beyond # this arch the seas and on this side, to whom yearly he gave in exhibition no small sums of money, as other, both gentlemen, mean men, and poor men, who had in their necesq sity that which he could conveniently spare, lend, or make, can well testify. And albeit such was his liberality to all sorts of men, that no man did lack whom he could do for, either in giving or lending; yet nevertheless such was again his circum__ spection, that when he was apprehended and committed by queen Mary to the tower, he ought no man living a penny that could or would demand any duty of him, but _ satisfied every man to the uttermost; where else no small sums of money were owing
 
-THE LIFE, STATE, AND STORY to him of divers persons, which by breaking their bills and obligations he freely for- ing ‘his gave and suppressed before his attainder. Insomuch that when he perceived the fatal his attainder. end of king Edward should work to him no good success touching his body and goods, he incontinently called his officers, his steward and other, commanding them in any wise to pay, where any penny was owing, which was out of hand dispatched.
+THE LIFE, STATE, AND STORY to him of divers persons, which by breaking their bills and obligations he freely for-ing ‘his gave and suppressed before his attainder. Insomuch that when he perceived the fatal his attainder. end of king Edward should work to him no good success touching his body and goods, he incontinently called his officers, his steward and other, commanding them in any wise to pay, where any penny was owing, which was out of hand dispatched.
 
 In which archbishop this, moreover, is to be noted, with a memorandum, touching the relief of the poor, impotent, sick, and such as then came from the wars at Bullein’, and other parts beyond the seas, lame, wounded, and destitute ; for whom he provided, besides his mansion-house at Beckisborne in Kent, the parsonage barn well furnished with certain lodgings for the sick and maimed soldiers: to whom were also appointed the almosiner, a physician, and surgeon, to attend upon them, and to dress and cure such as were not able to resort to their countries, having daily from the bishop’s kitchen hot broth and meat; for otherwise the common alms of the household was bestowed upon the poor neighbours of the shire. And when any of the impotent did recover, and were able to travel, they had convenient money delivered to bear their charges, according to the number of miles from that place distant. And this good example of mercy and liberal benignity I thought here good not in silence to be suppressed, whereby other may be moved, according to their vocation, to walk in the steps of no less liberality than in him in this behalf appeared.
 
@@ -317,7 +314,7 @@ England. 1 Against these five books of the archbishop, Stephen Gardiner, the arc
 
 An explicsAgainst this explication, or rather a cavilling sophistication of Stephen Gardiner!
 
-Gainer Doctor of Law, the said archbishop of Canterbury learnedly and copiously replying ae oe” again, maketh answer, as by the discourse thereof renewed in print is evident to be ramos seen to all such as with indifferent eye will read and peruse the same. Besides these books above recited of this archbishop, divers other things there were also of his doing, as the Book of Reformation, with the Book of Homilies, whereof part was by him contrived, part by his procurement approved and published. Where- unto also may be adjoined another writing or confutation of his against eighty- eight articles by the convocation devised and propounded, but yet not ratified no received, in the reign and time of king Henry’.
+Gainer Doctor of Law, the said archbishop of Canterbury learnedly and copiously replying ae oe” again, maketh answer, as by the discourse thereof renewed in print is evident to be ramos seen to all such as with indifferent eye will read and peruse the same. Besides these books above recited of this archbishop, divers other things there were also of his doing, as the Book of Reformation, with the Book of Homilies, whereof part was by him contrived, part by his procurement approved and published. Where- unto also may be adjoined another writing or confutation of his against eighty-eight articles by the convocation devised and propounded, but yet not ratified no received, in the reign and time of king Henry’.
 
 And thus much hitherto concerning the doings and travails of this archbishop of
 
@@ -361,7 +358,7 @@ ee eee Cole, the doctor, having his lesson given him before, and charged by her 
 
 [' So it is printed in ed. 1580, and in Foxe, ed. 1583, p. 1871. ] [? See Foxe, ed. 1583, p, 1884, ] 4 ad a near, even the day Bah he came into the prison to Cranmer, to try whether he - abode i in the catholic faith, wherein before he had left him. To whom when Cranmer q had answered, that by God’s grace he would daily be more confirmed in the catholic _ faith ; Cole, departing for that time, the next day following repaired to the archbishop again, giving no signification as yet of his death that was prepared ; and therefore in the morning, which was the 21st day of March, appointed for Cranmer’s execution, the said Cole coming to him asked, if he had any money. To whom when he answered uid that he had none, he delivered him fifteen crowns to give the poor to whom he would : and so exhorting him so much as he could to constancy in faith, departed thence about % his business, as to his sermon appertained. ig __ By this partly, and other like arguments, the archbishop began more and more to _ surmise what they went about. Then, because the day was not far past, and the lords and knights that were looked for were not yet come, there came to him the _ Spanish friar, witness of his recantation, bringing a paper with articles, which Cranmer should openly profess in his recantation before the people, earnestly desiring that it he would write the said instrument with the articles with his own hand, and sign Cranmer ps ‘it with his name: which when he had done, the said friar desired that he would subbseribeth
 
-“write another copy thereof, which should remain with him; and that he did also. with his own But yet the archbishop, being not ignorant whereunto their secret devices tended, and b _ thinking that the time was at hand, in which he could no longer dissemble the pro- fession of his faith with Christ’s people, he put secretly in his bosom his prayer with
+“write another copy thereof, which should remain with him; and that he did also. with his own But yet the archbishop, being not ignorant whereunto their secret devices tended, and b _ thinking that the time was at hand, in which he could no longer dissemble the pro-fession of his faith with Christ’s people, he put secretly in his bosom his prayer with
 
 “his exhortation, written in another paper, which he minded to recite to the people, before he should make the last profession of his faith, fearing lest, if they had heard the confession of his faith first, they would not afterward have suffered him to exhort a the people.
 
@@ -369,13 +366,13 @@ ee eee Cole, the doctor, having his lesson given him before, and charged by her 
 
 & 1 ohn Browne, and the other justices, with certain other noblemen that were sent of
 
-8 he queen’s council, came to Oxford with a great train of waiting men. Also of the other multitude on every side (as is wont in such a matter) was made a great con- course and greater expectation.
+8 he queen’s council, came to Oxford with a great train of waiting men. Also of the other multitude on every side (as is wont in such a matter) was made a great con-course and greater expectation.
 
-a ale this so great frequence and expectation, Cranmer at length cometh from the Doctor Cran- son Bocardo unto St Mary’s church (because it was a foul and a rainy day), the to doctor’ chi ief church in the university, in this order. The mayor went before, next him the mon. al dermen in their place and degree; after them was Cranmer brought between two friz s, which mumbling to and fro certain psalms in the streets, answered one ano1 er, until they came to the church door, and there they began the song of Simeon, Nunc dimittis ; and entering into the church, the psalm-saying friars brought him to iis standing, and there left him. There was a stage set up over against the pulpit, poctor cranf a mean height from the ground, where Cranmer had his standing, waiting until a stage?” ’ e made him ready to his sermon. | The lamentable case and sight of that man gave a sorrowful spectacle to all hristian eyes that beheld him. He that late was archbishop, metropolitan and prinate of England, and the king’s privy councillor, being now in a bare and ragged own, and ill-favouredly clothed, with an old square cap, exposed to the contempt f all men, did admonish men not only of his own calamity, but also of their state 1 fortune. For who would not pity his case, and bewail his fortune, and might a t fear his own chance, to see such a prelate, so grave a councillor, and of so long inued honour, after so many dignities, in his old years to be deprived of his ®, adjudged to die, and in so painful a death to end his life, and now presently
+a ale this so great frequence and expectation, Cranmer at length cometh from the Doctor Cran-son Bocardo unto St Mary’s church (because it was a foul and a rainy day), the to doctor’ chi ief church in the university, in this order. The mayor went before, next him the mon. al dermen in their place and degree; after them was Cranmer brought between two friz s, which mumbling to and fro certain psalms in the streets, answered one ano1 er, until they came to the church door, and there they began the song of Simeon, Nunc dimittis ; and entering into the church, the psalm-saying friars brought him to iis standing, and there left him. There was a stage set up over against the pulpit, poctor cranf a mean height from the ground, where Cranmer had his standing, waiting until a stage?” ’ e made him ready to his sermon. | The lamentable case and sight of that man gave a sorrowful spectacle to all hristian eyes that beheld him. He that late was archbishop, metropolitan and prinate of England, and the king’s privy councillor, being now in a bare and ragged own, and ill-favouredly clothed, with an old square cap, exposed to the contempt f all men, did admonish men not only of his own calamity, but also of their state 1 fortune. For who would not pity his case, and bewail his fortune, and might a t fear his own chance, to see such a prelate, so grave a councillor, and of so long inued honour, after so many dignities, in his old years to be deprived of his ®, adjudged to die, and in so painful a death to end his life, and now presently
 
 _ such fresh ornaments to descend to such vile and ragged apparel ?
 
-XXIV THE LIFE, STATE, AND STORY
+## XXIV the Life, State, and Story
 
 In this habit, when he had stood a good space upon the stage, turning to a pillar — near adjoining thereunto, he lifted up his hands to heaven, and prayed to God once { or twice: till at the length Dr Cole coming into the pulpit, and beginning his sermon, — entered first into mention of Tobias and Zachary. Whom after that he had praised — in the beginning of his sermon, for their perseverance in the true worshipping of God, ;
 
@@ -429,13 +426,13 @@ _ he) he flowed in riches and honour, he was unworthy of his life, and now that 
 
 Cranmer in all this mean time with what great grief of mind he stood hearing this “sermon, the outward shews of his body and countenance did better express than any “man can declare; one while lifting up his hands and eyes unto heaven, and then ain for shame letting them down to the earth. A man might have seen the very mage and shape of perfect sorrow lively in him expressed. More than twenty several The tears, t imes the tears gushed out abundantly, dropped down marvellously from his fatherly bishop. face. They which were present do testify, that they never saw in any child more than brast out from him at that time, all the sermon while; but specially ‘when he recited his prayer before the people. It is marvellous what commiseration ‘and pity moved ali men’s hearts, that beheld so heavy a countenance and such abund- ‘ance of tears in an old man of so reverend dignity. Cole, after he had ended his sermon, called back the people that were ready to depart, to prayers. ‘ Brethren,” said he, “lest any man should doubt of this man’s
 
-XXVi THE LIFE, STATE, AND STORY earnest conversion and repentance, you shall hear him speak before you; and there-— Cranmer fore I pray you, Master Cranmer, that you will now perform that you promised — required to declare his not long ago, namely, that you would openly express the true and undoubted pro- faith, fession of your faith, that you may take away all suspicion from men, and that all
+XXVi THE LIFE, STATE, AND STORY earnest conversion and repentance, you shall hear him speak before you; and there-— Cranmer fore I pray you, Master Cranmer, that you will now perform that you promised — required to declare his not long ago, namely, that you would openly express the true and undoubted pro-faith, fession of your faith, that you may take away all suspicion from men, and that all
 
 Canmer men ‘may understand that you are a catholic in deed.” ‘I will do it” (said the archdeclarehis bishop), “and with a good will;” who by and by rising up, and putting off his cap, began to speak thus unto the people: eT “T desire you, well-beloved brethren in the Lord, that you will pray to God for me, Rishop to the to forgive me my sins, which above all men, both in number and greatness, I have a committed ; but among all the rest, there is one offence, which of all at this time doth vex and trouble me, whereof in process of my talk you shall hear more in his proper place:” and then, putting his hand into his bosom, he drew forth his prayer, which he recited to the people in this sense.
 
-THE PRAYER OF DOCTOR CRANMER, ARCHBISHOP OF CANTERBURY, AT HIS DEATH.
+## The Prayer of Doctor Cranmer, Archbishop of Canterbury, at His Death
 
-The prayer Goop christian people, my dearly beloved brethren and sisters in Christ, I beseech bishop. you most heartily to pray for me to Almighty God, that he will forgive me all my sins and offences, which be many without number, and great above measure. But yet one thing grieveth my conscience more than all the rest, whereof, God willing, I intend to speak more hereafter. But how great and how many soever my sins be, I beseech you to pray God of his mercy to pardon and forgive them all.” And here, kneeling down, he said: “QO Father of Heaven: O Son of God, Redeemer of the world: O Holy Ghost, three persons and one God, have mercy upon me, most wretched caitiff and miserable sinner. I have offended, both against heaven and earth, more than my tongue can express. Whither then may I go, or whither should I fly? — To heaven I may be ashamed to lift up mine eyes, and in earth I find no place of — refuge or succour. ‘To thee therefore, O Lord, do I run: to thee do I humble my- self, saying: O Lord, my God, my sins be great, but yet have mercy upon me for BY thy great mercy. The great mystery, that God becaiie-man, was not wrought for little or few offences. Thou didst not give thy Son, O heavenly Father, unto death ~ for small sins only, but for all the greatest sins of the world, so that the sinner return _ to thee with his whole heart, as I do here at this present. Wherefore, have mercy — on me, O God, whose property is always to have mercy; have mercy upon me, O i Lord, for thy great mercy. I crave nothing, O Lord, for mine own merits, but for thy name’s sake, that it may be hallowed thereby, and for thy dear Son Jesus Christ’s sake: and now therefore, Our Father of heaven, hallowed be thy name,” &c.
+The prayer Goop christian people, my dearly beloved brethren and sisters in Christ, I beseech bishop. you most heartily to pray for me to Almighty God, that he will forgive me all my sins and offences, which be many without number, and great above measure. But yet one thing grieveth my conscience more than all the rest, whereof, God willing, I intend to speak more hereafter. But how great and how many soever my sins be, I beseech you to pray God of his mercy to pardon and forgive them all.” And here, kneeling down, he said: “QO Father of Heaven: O Son of God, Redeemer of the world: O Holy Ghost, three persons and one God, have mercy upon me, most wretched caitiff and miserable sinner. I have offended, both against heaven and earth, more than my tongue can express. Whither then may I go, or whither should I fly? — To heaven I may be ashamed to lift up mine eyes, and in earth I find no place of — refuge or succour. ‘To thee therefore, O Lord, do I run: to thee do I humble my-self, saying: O Lord, my God, my sins be great, but yet have mercy upon me for BY thy great mercy. The great mystery, that God becaiie-man, was not wrought for little or few offences. Thou didst not give thy Son, O heavenly Father, unto death ~ for small sins only, but for all the greatest sins of the world, so that the sinner return _ to thee with his whole heart, as I do here at this present. Wherefore, have mercy — on me, O God, whose property is always to have mercy; have mercy upon me, O i Lord, for thy great mercy. I crave nothing, O Lord, for mine own merits, but for thy name’s sake, that it may be hallowed thereby, and for thy dear Son Jesus Christ’s sake: and now therefore, Our Father of heaven, hallowed be thy name,” &c.
 
 And then he rising said: The last people.
 
@@ -469,7 +466,7 @@ And I believe every article of the catholic faith, every word and sentence taugh
 
 Thearch- “And as for the pope, I refuse him as Christ’s enemy and antichrist, with all his ie sph false doctrine. . :
 
-gay aba “And as for the sacrament, I believe as I have taught in my book against the bishop Sopa of Winchester; the which my book teacheth so true a doctrine of the sacrament, that eth to his % it shall stand at the last day before the judgment of God, where the papistical docagainst Wintrine contrary’ thereto shall be ashamed to shew her face.” aon ee Here the standers by were all astonied, marvelled, were amazed, did look one vayed, upon another, whose expectation he had so notably deceived. Some began to ad- monish him of his recantation, and to accuse him of falsehood.
+gay aba “And as for the sacrament, I believe as I have taught in my book against the bishop Sopa of Winchester; the which my book teacheth so true a doctrine of the sacrament, that eth to his % it shall stand at the last day before the judgment of God, where the papistical docagainst Wintrine contrary’ thereto shall be ashamed to shew her face.” aon ee Here the standers by were all astonied, marvelled, were amazed, did look one vayed, upon another, whose expectation he had so notably deceived. Some began to admonish him of his recantation, and to accuse him of falsehood.
 
 Briefly, it was a world to see the doctors beguiled of so great an hope. I think there was never cruelty more notably or better in time deluded and deceived. For it is not to be doubted but they looked for a glorious victory and a perpetual triumph —
 
@@ -543,7 +540,7 @@ SRS REHAB, We
 
 1 j ; om be . t . " ‘ ‘ RED hoe bE od
 
-AN AVNSVVER BY THE REVEREND FATHER
+## An Avnsvver by the Reverend Father
 
 | in God Thomas Archbyshop of Canterbury,
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Shame Leading to Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2491
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fill their faces with shame; that they may seek Your name, O LORRD!" Psalm 83:16.
 
@@ -124,7 +121,6 @@ Jeremiah 8:1, 2. At that time, says the LORD, they shall bring out the bones oft
 22\. Why then is not the health ofthe daughter of my people recovered?
 
 Jeremiah 9:1. Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain ofthe daughter of my people! This is how God's servants feel about the dying and perishing souls all around them. They cannot bear the thought of the sinner's awful doom—it brings continuous heartbreak and heaviness of spirit upon them. That men should eternally perish—that they should bring on their own heads the doom of their own sin is no small thing and, therefore, the Lord's servant mourns over those who mourn not for themselves! God save every one of us, for the Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2490 The Danger of Carnal Security|← #2490]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2492 Paul's Persuasion|#2492 →]]

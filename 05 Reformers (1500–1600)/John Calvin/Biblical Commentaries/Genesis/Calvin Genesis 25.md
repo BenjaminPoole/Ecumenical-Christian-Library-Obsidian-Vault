@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 25
 
-**CHAPTER 25.**
+***Chapter 25.***
 
 ## Genesis 25:1-34
 

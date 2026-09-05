@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # To Those Who Are Angry With Their Godly Friends
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1929
-
-DELIVERED BY.
 
 > "And the Lord said unto Cain, Why are you angry? And why is your countenance fallen? If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And unto you shall be his desire and you shall rule over him." Genesis 4:6, 7.
 
@@ -118,7 +115,6 @@ Do but take Christ by faith and bring Him before God. Say unto God "My Father, I
 I do not know that I can say any more. I wish that I could have said it better. I would speak right into your heart. May the Spirit of God so speak! Do not be angry because another is saved, but turn your anger on yourself because you have not accepted salvation. Remember, if you do what other sinners have done, namely, simply come to Christ, you shall be accepted as they have been! And if you are not accepted, it is your sin that is preventing it. A sin offering is waiting to take away that sin. Oh, reject not the priceless gift! Trifle not with your soul and with your Savior! Do not incur an eternity of misery! Do not lose an eternity of bliss! "Turn you, turn you; why will you die, O house of Israel?"
 
 If I never should occupy this pulpit again, what should I wish to have preached? Nothing but the Gospel which I have now preached for so many years. I wish I had spoken better, but I do not know that I could have said more. If these kind pleadings do not touch angry hearts, neither would they be affected though martyrs rose from the dead.
-
 
 ---
 [[Sermon 1928 Our Ascended Lord|← #1928]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1930 Is It True|#1930 →]]

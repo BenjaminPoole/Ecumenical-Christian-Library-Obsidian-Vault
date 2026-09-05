@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 10. To his most Serene and Mighty Imperial Majesty, and to the Christian Nobility of the German Nation.
-
-To his most Serene and Mighty Imperial Majesty, and to the Christian Nobility of the German Nation.
 
 Dr. MARTINUS LUTHER.
 

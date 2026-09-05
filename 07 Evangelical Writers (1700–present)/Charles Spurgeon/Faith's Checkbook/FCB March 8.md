@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 8
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**OUR SUBSTANCE BLESSED**
+## **Our Substance Blessed**
 
 > Blessed shall be thy basket and thy store" Deut. 28:5
 
@@ -23,7 +22,6 @@ Obedience brings a blessing on all the provisions which our industry earns for u
 But if we have a store, how much we need the Lord to bless it! For there is the care of getting, the care of keeping, the care of managing, the care of using; and, unless the Lord bless it, these cares will eat into our hearts, till our goods become our gods, and our cares prove cankers.
 
 O Lord, bless our substance. Enable us to use it for thy glory. Help us to keep worldly things in their proper places, and never may our savings endanger the saving of our souls.
-
 
 ---
 [[FCB March 7|← March 7]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 9|March 9 →]]

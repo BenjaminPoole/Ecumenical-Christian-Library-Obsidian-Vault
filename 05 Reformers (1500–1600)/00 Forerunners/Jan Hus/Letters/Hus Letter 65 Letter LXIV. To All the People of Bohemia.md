@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 65. Letter LXIV. To All the People of Bohemia
-
-LETTER LXIV. TO ALL THE PEOPLE OF BOHEMIA
 
 (June 10, 1415)
 

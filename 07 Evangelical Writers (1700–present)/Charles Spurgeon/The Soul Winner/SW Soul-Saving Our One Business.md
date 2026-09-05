@@ -7,7 +7,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Soul-Saving Our One Business
 
 *The Soul Winner* — Charles H. Spurgeon
@@ -42,7 +41,7 @@ You tell me, perhaps, that you have been kept from a great many sins, that you h
 
 But now we must leave that point for another.
 
-II. THE APOSTLE HAD GREAT REASONS FOR ELECTING SUCH AN OBJECT IN LIFE.
+## II. The Apostle Had Great Reasons for Electing Such an Object in Life
 
 Were he here, I think he would tell you that his reasons were something of this kind. To save souls! *If they be not saved, how is God dishonoured!* Did you ever think over the amount of dishonour that is done to the Lord our God in London in any one hour of the day? Take, if you will, this prayer-hour, when we are gathered here ostensibly to pray. If the thoughts of this great assembly could all be read, how many of them would be dishonouring to the Most High! But outside of every house of prayer, outside of every place of worship of every kind, think of the thousands, and tens of thousands, the hundreds of thousands, who have all this day neglected the very semblance of the worship of the God who has made them, and who keeps them in being! Think of how many times the door of the gin-palace has swung on its hinges during this holy hour, how many times God's name has been blasphemed at the drinking-bar! There are worse things than these, if worse can be, but I shall not lift the veil. Transfer your thoughts to an hour or so later, when the veil of darkness has descended. Shame will not permit us even to think of how God's name is dishonoured in the persons of those whose first father was made after the image of God, but who pollute themselves to be the slaves of Satan and the prey of bestial lusts! Alas! alas! for this city, it is full of abominations, of which the apostle said, "It is a shame even to speak of those things which are done of them in secret."
 
@@ -79,7 +78,6 @@ If Jesus Christ were here to-day, I am sure he would not put on any of those gau
 This book was transcribed for by David R. Heesen.
 
 . . . or go back to main page.
-
 
 ---
 [[SW Soul-Winning Explained|← Soul-Winning Explained]] · [[The Soul Winner|The Soul Winner Contents]] · [[SW Instruction in Soul-Winning|Instruction in Soul-Winning →]]

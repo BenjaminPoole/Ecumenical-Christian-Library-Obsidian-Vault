@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Sacred Solo
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1423
-
-DELIVERED BY.
 
 > "The Lord is my strength and my shield; my heart trusted in Him, and I am helped, therefore my heart greatly rejoices and with my song will I praise Him." Psalm 28:7.
 
@@ -138,7 +135,6 @@ Him."—
 "In blessing You with grateful songs, My happy life shall glide away. The praise that to Your name belongs, Hourly with lifted hands I'd pray. Abundant sweetness! While I sing Your love, my ravished heart overflows; Secure in You, my God and King, Of glory that no period knows." How I wish that some would begin at this moment a life of praise! Begin by taking God to be your strength—begin by trusting in Christ to be your shield! Begin by an experience of the power of prayer to bring you help! If you do, you shall rise from height to height in your flights of praise! You shall, first, join with us below to sing as best you can and, afterwards, you shall mount into the upper orchestra where all the chosen singers meet and sit and chant with them the endless anthem which ascends unto Jehovah, our strength and our song!
 
 God bless you, Beloved, and give you to know and prove the sweetness of this blessed text—and make you to sing David's Divine song to the stringed instruments of your renewed hearts all the days of your lives. Amen.
-
 
 ---
 [[Sermon 1422 The Chief Physician and the Centurion's Servant|← #1422]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1424 A Great Bargain|#1424 →]]

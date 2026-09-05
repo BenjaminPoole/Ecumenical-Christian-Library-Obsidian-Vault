@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Joy of Redemption
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2450
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Sing, O you Heavens, for the LORD has done it: shout, you lower parts of the earth: break forth into singing, you mountains, O forest, and every tree in it! For the LORD has redeemed Jacob, and glorified Himself in Israel." Isaiah 44:23.
 
@@ -75,7 +72,7 @@ This is the first redemption—redemption by blood.
 
 II. Let us strike another key and celebrate the second theme that redemption unfolds—REDEMPTION BY
 
-POWER.
+## Power
 
 Those for whom the Savior shed His blood and so redeemed them by price, are, by-and-by, redeemed by power. The Spirit of God finds them, like other men, fond of sin. Like other men, blind to the beauties of the Savior, deaf to the commands of Christ. But if Christ has bought them with His blood, He never paid for what He will not have. The price was too precious to be paid for those who are not saved. If Christ has paid His blood for a soul, He will have that soul! Neither will God's honor rob Him of His purchase, nor will Christ be content to lose what He so dearly bought.
 
@@ -121,7 +118,7 @@ Do you not wish you had wings to fly away? Well, it is but for a few minutes tha
 
 Alas, I fear there are some of you who will have no part or lot in this matter! If you would have this last redemption, begin with the first! Faith first! Look to the price—to the blood—and then the Holy Spirit will graciously give you the redemption which is by power! Your faith will be the first proof that you are so redeemed and will lead you on until you attain that perfection for which we groan, that adoption for which we wait, to wit, the redemption of the body! Bought with the blood of Jesus, quickened into newness of life by the power of His Resurrection and, at length gathered unto Jesus, to be with Him where He is, the joy of His salvation shall swell into a mighty chorus in which Heaven and earth shall ring out their loud-sounding music, while our tongues shall sing Immanuel's praise forever and ever! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"^88, 136 (SONG II), 116 (SONG III).
+## Hymns from "Our Own Hymn Book"^88, 136 (Song II), 116 (Song III)
 
 EXPOSITION BY C. H. SPURGEON: ISAIAH 44; 55; 2 SAMUEL 23:1-5. This evening, we will read two chapters from Isaiah's prophecy, the 44th and the 55th, and a few verses from the 23rd chapter of the second Book of Samuel. May the Lord bless all these passages to us as we meditate upon them!
 
@@ -178,7 +175,6 @@ Isaiah 55:1. Ho, everyone that thirsts, come you to the waters, and he that has 
 2 Samuel 23:1-5. Now these are the last words of David. David the son of Jesse said, and the man who was raised up on high, the Anointed of the God of Jacob, and the sweet Psalmist of Israel, said, The Spirit of the LORD spoke by me, and His Word was in my tongue. The God of Israel said, the Rock of Israel spoke to me, He that rules over men must be just, ruling in the fear of God. And he shall be as the light of the morning, when the sun rises, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain. Although my house is not so with God. He remembered his many sins and the many tribulations in his family which had come upon him in consequence of those sins. And the dying man felt a sad heartache, so he thought of the errors of his life—as well he might.
 
 5\. Yet He has made with me an Everlasting Covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although He make it not to grow. What blessed words his last words were! His sorrow is turned into joy! His own house grieves him, but God's promise comforts him. I think we must read this verse again. Perhaps there is some father here who is growing old, or some mother upon whom years are multiplying. May these last words of David be such as your last words may be! "Although my house is not so with God; yet He has made with me an Everlasting Covenant, ordered in all things, and sure: for this is all my salvation, and all my desire."
-
 
 ---
 [[Sermon 2449 The Rule and Reward of Serving Christ|← #2449]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2451 Blessed in Him|#2451 →]]

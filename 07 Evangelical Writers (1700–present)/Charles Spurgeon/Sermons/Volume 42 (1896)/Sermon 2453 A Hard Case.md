@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # A Hard Case
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2453
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For God speaks once, yes twice, yet man perceives it not. In a dream, in a vision of the night, when deep sleep falls upon men, while slumbering on their beds; then He opens the ears of men, and seals their instruction, that He may withdraw man from his purpose, and hide pride from man. He keeps back his soul from the Pit, and his life from perishing by the sword." Job 33:14-18.
 
@@ -97,7 +94,7 @@ Then, lastly, He thus secures man's salvation from destruction. "He keeps back h
 
 And I would say that to all of you who have been often in fevers, or who have been near the gates of death. If you have been preserved, for what purpose was it? Surely, that you might yield yourselves to God, for He has interposed on purpose that your life should not go down to the Pit! I hope, also, that He has the higher design that you, yourselves, with your truest life, should never go down into that Pit from which there is no escape. Oh, that He would deliver every man, woman and child, here, from the wrath to come! For, believe me, there is a wrath to come, a fire that burns and shall never be quenched! Oh, for that visitation of God that shall hide pride from us, and reveal a Savior to us, that shall withdraw us from our own purpose, to fulfill in us the Divine purpose! Then shall we be saved from going down into the Pit. The Lord enable us to believe in His dear Son, Jesus Christ our Lord! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB33:6-33.
+## Exposition by C. H. Spurgeon: Job 33:6-33
 
 This is part of the speech of young Elihu, who had listened with much patience, but also with great indignation, to the harsh speeches of Job's three friends and to Job's self-righteous answers.
 
@@ -116,7 +113,6 @@ Verses 6, 7. Behold, I am according to your wish in God's stead; I also am forme
 25-28. His flesh shall be fresher than a child's: he shall return to the days of his youth: he shall pray unto God, and He will be favorable unto him: and he shall see His face with joy: for He will render unto man His righteousness. He looks upon men, and if any say, I have sinned, and perverted that which was right, and it prompted me not; He will deliver his soul from going into the Pit, and his life shall see the light. Some Thursday nights ago, there strayed into this place one who had long hated God and who had openly expressed his hatred of Him. He was much prayed for by friends, but he was desperate in his wickedness. He little dreamed, when he left his home, that he would come into this place. But so he did and here in this house God met with him and renewed his heart and made him to rejoice in the God he once despised! Here was a fulfillment of this text and I pray that it may be fulfilled again, tonight!
 
 29-33. Lo, all these things works God oftentimes with man, to bring back his soul from the Pit, to be enlightened with the light of the living. Mark well, O Job, hearken unto me: hold your peace and I will speak. If you have anything to say, answer me: speak, for I desire to justify you. If not, hearken unto me: hold your peace, and I shall teach you wisdom.
-
 
 ---
 [[Sermon 2452 Hope for the Worst Backsliders|← #2452]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2454 The Secret of Failure|#2454 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Jesus Washing His Disciples' Feet
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 612
 
-DELIVERED ON SUNDAY MORNING, JANUARY 29, 1865,.
+*Delivered on Sunday Morning, January 29, 1865*
 
 > "Then He came to Simon Peter: and Peter said unto Him, Lord, do You wash my feet?" John 13:6.
 
@@ -136,7 +135,6 @@ Wash his feet! There is another riding the high horse—he is very, very proud. 
 Let us count that forevermore it is our highest honor and our greatest glory to lay aside all honor and all glory and to win honor and glory out of shame and humiliation for Christ Jesus' sake. I believe this is done in this Church. I hope we are as free as possible from the feeling of caste—God deliver us from the last relic and remnant of it! You are Brothers and Sisters in Christ! Love one another!
 
 "Let the brother of low degree rejoice in that he is exalted—but the rich in that he is made low." You are Brothers and Sisters and one is your Master, even Christ. Try to carry out, every one of you to your utmost, the teaching of your Lord—that you should wash one another's feet. You have an opportunity of doing it in the collection—for I believe that these servants of God—these aged ministers, these ministers who are in great poverty—need today that you should, by your contributions, wash their feet.
-
 
 ---
 [[Sermon 0611 Zechariah'S Vision Of Joshua The High Priest|← #611]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0613 The Strong One Driven Out By A Stronger One|#613 →]]

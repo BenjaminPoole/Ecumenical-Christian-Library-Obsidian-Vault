@@ -10,8 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
+# Preface
 
-PREFACE.
+## Preface
 
 It has long been desired by the friends of Mr. Edwards, that a number of his manuscripts should be published; but the disadvantage under which all posthumous publications must necessarily appear, and the difficulty of getting any considerable work printed in this infant country hitherto, have proved sufficient obstacles to the execution of such a proposal. The first of these obstacles made me doubt, for a considerable time after these manuscripts came into my hands, whether I could, consistently with that regard which I owe to the honour of so worthy a parent, suffer any of them to appear in the world. However, being diffident of my own sentiments, and doubtful whether I were not over-jealous in this matter, I determined to submit to the opinion of gentlemen, who are friends both to the character of Mr. Edwards and to the cause of truth. The consequence was, that they gave their advice for publishing them.
 

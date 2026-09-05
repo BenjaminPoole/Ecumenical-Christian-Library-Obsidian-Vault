@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 150
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -152,10 +151,9 @@ a) God should be worshipped royally. b) The efforts of the best genius are his r
 
 3. As an exhortation, it is plain, pertinent, pure in its piety, perfect in its charity.—*J.F.*
 
-*HALLELUJAH!*
+## *Hallelujah!*
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 149|← Psalm 149]] · [[The Treasury of David|Treasury of David Contents]]

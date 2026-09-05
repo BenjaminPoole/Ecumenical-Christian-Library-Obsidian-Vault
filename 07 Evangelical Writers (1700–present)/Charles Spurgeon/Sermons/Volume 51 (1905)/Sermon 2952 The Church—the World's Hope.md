@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Church—the World's Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2952
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lo, God has given you all them that sail with you." Acts 27:24.
 
@@ -110,7 +107,6 @@ I was walking down the Old Kent Road one day and I was met by an excellent clerg
 There may be some of you who are praying for yourselves, but have not got the answer yet. There was a mother who went to hear George Whitefield preach—that mighty man of God. After the sermon was over, the mother was convicted of sin. In deep anguish of spirit, she went home. Her husband was dead and she had only a little girl and, having no one else to talk to, she told the child about her convictions. The little girl—you will think it strange, perhaps—under the recital was made to feel the same. Mother and child wept together under the same sense of sin. Upstairs they went and prayed. They neither of them found peace for some months, but, it pleased God, at last, to give mother and child, who had prayed together, peace at the same time. While the mother was rejoicing, the child, just like a babe in Grace, said, "Mother, oh, what a joyful thing it is to be pardoned! What a blessed thing it is to be saved! I would like to run and tell our neighbors." "No," said the mother, "that would not be wise, child, they don't care about these things. They would not understand—they would laugh at you—and we must not cast pearls before swine. We will do it by-and-by." "But, Mother," said the child, "I can't leave it. I do feel so happy, Mother, I must tell somebody, so I will just run across the street to the shoemaker and tell him." The shoemaker was at work with his lap stone and the little one began by saying, "Do you know that you are a sinner? I am a sinner, but I am a pardoned sinner. I have been seeking Christ and I have found Him." She then set forth the tale, with tears in her eyes, till the shoemaker laid down his hammer to listen and stopped his work awhile. He became converted and the story was told abroad—and through the conversion of that man the work spread, a meeting was established and the means of Grace were soon set up—and there arose a flourishing church in that town, where not a believer in Christ had been known to live before!
 
 Ah, you young converts, you may tell the tale! And even you who are under conviction of sin may tell it to your children. Do not hesitate to let the Light of God shine! I pray you—any of you, but I do bid you, by the blood and by the wounds of Him who was crucified for our sins—by Him that lived and cried for us, never cease praying till God gives you all them that sail with you! O my dear Friends, pray for the congregations that come to the Tabernacle! Make this to be the burden of your never-ceasing cry, "Give us all them that sail with us!" The Lord hear our players and add His blessing on our labors, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2951 With or Without Shedding of Blood|← #2951]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2953 Spiritual Sight and Eternal Life|#2953 →]]

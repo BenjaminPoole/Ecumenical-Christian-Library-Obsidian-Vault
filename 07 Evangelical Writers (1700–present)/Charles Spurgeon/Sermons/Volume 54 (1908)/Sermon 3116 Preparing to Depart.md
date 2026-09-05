@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Preparing to Depart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3116
-
-DELIVERED BY C. H. SPURGEON.
 
 > "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into Heaven." 2 Kings 2:11.
 
@@ -61,7 +58,7 @@ And ceased at once to work and live." So was it with Elijah. So may it be with u
 
 II. THIS DEPARTURE OF ELIJAH appears to me in some measure SYMBOLIC OF THE DEATHS OF
 
-BELIEVERS.
+## Believers
 
 It was sudden, though expected. They were talking, and just in the middle of a sentence, perhaps, they were parted. There was no noises, for the wheels of that chariot moved not on earth, but its brightness shone around them. They looked back and they saw strange steeds, whose eyeballs flashed with flames and whose necks were clothed with thunder. And behind them was a chariot brighter than the golden car in which the Caesars rode, for it was a car of fire, and Elijah knew it was one of the chariots of God, which are twenty thousand, that He had sent to take His favorite servant up to the ivory palaces, where the King, Himself, dwells! It was sudden—the parting came in a moment—and I suppose that death is usually sudden. Even though persons may be, as we say, long dying, yet the actual moment of departure comes suddenly. The bowl is broken with a crash and the silver cord is loosed—the chain is snapped and the eagle mounts to dwell in the sun!
 
@@ -75,7 +72,7 @@ Yes, horses of fire and chariots of fire are no bad image of the departure of th
 
 III. But while we remain behind, let us ask, WHAT OUGHT WE TO DO WHO HAVE SEEN ANY DIE LIKE
 
-THIS?
+## This?
 
 If we have lost wife, or husband, or child, or friend in this sudden way, what ought we to do? You see what Elisha did. First of all, he tore his clothes, which was the Eastern mode of showing his grief Well, you may weep, for "Jesus wept." Do not think there is any sin in sorrowing over departed friends, for the Lord never denies to us those human feelings which are rather kindly than vicious. Had there been death before the Fall, I could imagine even perfect Adam weeping at the loss of Eve. No, he would have been no perfect man if he could have lost his spouse and not have wept.
 
@@ -111,7 +108,7 @@ And now, dear Friends, in parting for the night, it is meet for us to say, "Fare
 
 But what of some of you? You can make no such appointment to meet us there, for your way is not that way—not with horses of fire to Heaven, but with chariots of flame down to Hell—down, down, down forever into the depths of grief! We dare not say that we will meet you there. If you will go there, you must go alone! If you will perish, you must perish by yourself! If you will live and die without a Savior, you cannot expect your friends to accompany you to that dreary world of woe! But why go you, why go you, O solitary traveler, where you would not have your fellow go? You would not see your child damned—let me say the word with solemn awe—you would not see your child damned, would you? Then why should you so dam yourself? "But must I be?" you ask. No, Sinner, there is no "must" for that! There hangs my Master, the Crucified Redeemer, and if you look to Him, there will be another "must" for you, namely, that you must be saved! The road to Heaven is by the Cross of Calvary. Christ Jesus marks the way to Glory by the crimson drops of blood which flowed from His pierced hands and feet. Trust Jesus! Trust Him wholly! Trust Him now! Trust Him forever and then we will meet! We will meet again in the morning, and so—GOOD NIGHT!
 
-EXPOSITION BY C. H. SPURGEON: PSALM62.
+## Exposition by C. H. Spurgeon: Psalm 62
 
 In this Psalm the royal singer casts himself entirely on God. Here we see the foundation of his expectation laid bare. He has no confidence anywhere but in God. The Psalm begins in the original with the word, "Only." I always call it, "The 'only' Psalm" because it harps upon that word. David had no mixed reliance—he had not built upon a foundation partly of iron and partly of clay—it was all in harmony throughout. His trust was in the Lord alone!
 
@@ -152,7 +149,6 @@ yet," David says, "God, and God, alone, is my rock fortress. Though I have no ot
 12\. Also unto You, O Lord, belongs mercy. Almighty power would be terrible if it were separated from Infinite Mercy, but it is not so.
 
 12\. For You render to every man according to his work. You give him enough strength with which to do his work. You do not send him to do a work beyond his power and leave him to fail, but unto all Your children Your mercy brings Your power to help in every time of need. Your faithful promise is, "As your days, so shall your strength be." Come, my Brothers and Sisters in Christ, let us be of the same mind as David was when he wrote the first verse of this Psalm, and let each one of us say, "Truly my soul waits upon God: from Him comes my salvation."
-
 
 ---
 [[Sermon 3115 Sin and Grace|← #3115]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3117 Eyes Opened|#3117 →]]

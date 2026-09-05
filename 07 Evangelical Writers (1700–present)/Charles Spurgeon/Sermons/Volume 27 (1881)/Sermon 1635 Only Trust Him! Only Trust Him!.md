@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Only Trust Him! Only Trust Him!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1635
 
-DELIVERED ON LORD'S-DAY EVENING, JUNE 26, 1881,.
+*Delivered on Lord's-Day Evening, June 26, 1881*
 
 > "And as He entered into a certain village, there met Him ten men that were lepers, which stood afar off: and they lifted up their voices and said, Jesus, Master, have mercy on us. And when He sa w them, He said unto them, Go show yourselves unto the priests. And it came to pass, that, as they went, they were cleansed." Luke 17:12-14.
 
@@ -136,7 +135,6 @@ Oh, my dear Hearer, if you have learned to trust, at the very first because of w
 I want you to begin, then, as these poor lepers did—by just taking Christ at His word—and going your way in the strength of that word before you feel any hopeful change within. In this fashion, when you come to die, you may look out for Glory and expect it, though the brilliance has not yet transfigured you! You may look out for the eternal crown; look out for the harp; look out for the face of the Well-Beloved and the bliss unspeakable—and expect them even though the clouds gather around you! Before you pass the gates of pearl, or cross the chilly sea, you may enjoy the sight of the Beatific Vision by an unstaggering faith!
 
 Hope that is seen is not hope, but glorious is the faith which sees Him who is invisible and grasps the substance of the things not seen as yet! By this power I even now anticipate the joys of the upper skies. Try, Beloved, to do the same. O for more faith! It will be grand to know all Heaven, though you have not seen it and felt it, because you knew and trusted the Lord of Heaven! Up to now you have found the promise true—now trust the Lord for Glory as once you trusted Him for Grace—and you shall find, before long, that His richest promises are sure! God save you, every one of you, Beloved, and may He do so at this very, this very hour, for His dear Son's sake. Amen.
-
 
 ---
 [[Sermon 1633 Sarah and Her Daughters|← #1633]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1636 Chastened Happiness|#1636 →]]

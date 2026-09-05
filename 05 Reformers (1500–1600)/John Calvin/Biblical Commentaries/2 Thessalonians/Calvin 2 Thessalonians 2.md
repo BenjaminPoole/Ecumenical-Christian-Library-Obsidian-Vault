@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Thessalonians 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## 2 Thessalonians 2:1-2
 

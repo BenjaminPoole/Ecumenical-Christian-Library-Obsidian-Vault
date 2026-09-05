@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## John 2:1-11
 

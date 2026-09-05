@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Certain Singular Subjects
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1718
-
-DELIVERED BY.
 
 > "And I gave unto Isaac, Jacob and Esau: and I gave unto Esau Mount Seir, to possess it; but Jacob and his children went down into Egypt." Joshua 24:4.
 
@@ -132,7 +129,6 @@ And they went down to Egypt, again, that God might display His great power in th
 It matters little that Esau has Mount Seir for a possession—Israel has her God! No foot of land, perhaps, you call your own. You do not know where your next suit of clothes will come from and God has kept you on short commons and multiplied your straits and needs. Never mind—yours is the lot of the chosen—for "Jacob and his children went down into Egypt." That is where the story ends, according to my text, but you know the story does not end there at all, for out of Jacob and his children came the Son, the Scepter and the Throne! The Godhead took up the seed of Israel and now, today, He that sprang of Jacob's loins, according to the flesh, sits on the highest Throne of God and reigns supreme! The Shiloh has come and it matters nothing what Egypt brought of sorrow unto Jacob's seed, seeing that out of them, at the last, came the King and Savior of men!
 
 If Jesus is ours, the rest is a small affair. Give me Christ and I ask for nothing else! Having faith in Jesus, I can leave all things with the great Disposer of events. Christ and a crust—the promise and a parish coat! Grace and an almshouse! Cannot a saint be more than content with these? So have I set before you the varying lots of God's own people and of the wicked. I hope that you are ready to say that you would rather suffer affliction with the people of God than enjoy the pleasures of sin for a season. God help you to make that wise choice and to make it at once! May His Spirit lead you to take the Lord Jesus to be your All in All! Amen.
-
 
 ---
 [[Sermon 1717 The Marvelous Magnet|← #1717]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1719 The Tent Dissolved and the Mansion Entered|#1719 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 55. Letter LIV. To his Friends at Constance ( June 5, 1415)
-
-LETTER LIV. TO HIS FRIENDS AT CONSTANCE ( June 5, 1415)
 
 " Like Jews against Jesus " ; An account of the trial ; " Let it be burnt " ; No friend except the Father . . . 207-8
 

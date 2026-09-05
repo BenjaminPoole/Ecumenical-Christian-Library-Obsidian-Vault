@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 6. Exodus 6
-
-**EXODUS 6**
 
 ## Exodus 6:1-8
 

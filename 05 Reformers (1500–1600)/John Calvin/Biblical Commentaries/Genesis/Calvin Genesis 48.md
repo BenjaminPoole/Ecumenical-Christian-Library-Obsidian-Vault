@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 48
 
-**CHAPTER 48.**
+***Chapter 48.***
 
 ## Genesis 48:1-22
 

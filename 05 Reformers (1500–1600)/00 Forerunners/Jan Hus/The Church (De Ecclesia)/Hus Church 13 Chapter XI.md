@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 13. Chapter XI
 
-THE ABUSE OF SCRIPTURE IN THE INTEREST OF CLERICAL POWER
+*The Abuse of Scripture in the Interest of Clerical Power*
 
 Because many priests abandon the imitation of Christ, the high priest, and boast of the power committed to the church, without doing works that correspond, therefore up to this time we have been speaking of the power of this kind. For they extract out of Matt. 18 : 16, "Whatsoever thou shalt bind on earth shall be bound in heaven," that whatsoever they do, every man ought altogether to approve. And from the words of Matt. 23 : 2, "The scribes and Pharisees sit on Moses' seat, therefore all things whatsoever they bid you, these do," they extract that every inferior is to obey them in all things. And so these priests clamorously apply to themselves at their own pleasure whatsoever appeals to them out of Christ's Gospel, and without any ministry of love on their part to correspond. But what plainly calls for toil and worldly self-abnegation and the imitation of Christ, that they spurn away as something inapplicable to themselves, or make believe they hold it when they do not.
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 64
-
-**PSALM 64**
 
 This psalm expresses the language of complaint and prayer. David, in order that he may incline God to compassionate his case, dwells upon the injustice and cruelty, the intrigues and deceitfulness of his enemies. At the close, his eyes are directed to God, in the anticipation of a joyful deliverance from their hands.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Meat Indeed, and Drink Indeed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3424
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For My flesh is meat indeed, and My blood is drink indeed." John 6:55.
 
@@ -27,7 +24,7 @@ Why, you may ask, on the outset, does our Lord speak of His flesh and blood as s
 
 Taking the words as they stand, our first point will be that—
 
-I. THE FLESH OF CHRIST IS MEAT INDEED—SPIRITUAL MEAT.
+## I. The Flesh of Christ Is Meat Indeed—spiritual Meat
 
 The likeness is emphatic—it is "meat indeed." I t is like meat because meat, or food, sustains the body. The body could not be kept in vigor ordinarily or without a miracle, except by the use of food. We pine, we languish, we sicken, we die without bread! So the soul without Jesus, supposing it to be alive, must soon sicken, pine, be famished and decay. You, O Believer, with all your strength would be weak as water at this moment if Jesus were not now your present support! All your past experience would go for nothing if you had not now a present Christ to stay your hopes upon. It would be only a matter of time with you—you would before long sink into the corruption of an open apostasy. Like a man shut up in a dungeon and deprived of food who drags out for a few days, a most painful existence and, at the last, expires and becomes carrion, so must it be with you. Unless Jesus Christ is your daily meat, you would go back to the carnal elements of the world and become corrupt and depraved as others are! Christ is the only true sustenance of the quickened soul. But, mark you, let a man eat what meat he may, it does not always so sustain him but that he is not sometimes weak and stretched upon the bed of languishing. It cannot so sustain him but that before long he must be carried to his grave. But if your souls learn to feed on Jesus, they shall enjoy the blessed immunity promised to the inhabitants of Zion—they shall not say, "I am sick"—they shall never die! They shall feed on this immortal bread such as angels eat. You shall be carried up to the seats of the immortals to dwell forever with the Christ upon whom you have fed, coming to Him first to appease your hunger—and believing on Him continuously to sustain your life!
 
@@ -49,7 +46,7 @@ When our Lord says, "My flesh is meat indeed," He clearly distinguishes it from 
 
 I hope I have made this clear. It is thinking upon Jesus, trusting in Jesus that is the eating Jesus, Himself, being the food. Those who trust in Him and rest in Him have got the best of soul meat. They have got meat indeed!
 
-II. CHRIST'S BLOOD IS DRINK INDEED.
+## II. Christ's Blood Is Drink Indeed
 
 Like drink to the body, the blood of Jesus, that is to say, the merits of His atoning Sacrifice sustains. The body is not to be built up without some liquid—the system needs it. The soul is not to be sustained without considering and resting on the substitutionary suffering of Jesus. That Jesus died in my place and suffered for my sin is to stimulate my hope, my comfort, my joy—in a word, my whole soul—just as drink invigorates the physical system.
 
@@ -65,7 +62,7 @@ How superior to all typical drinks! There was the water which flowed from the Ro
 
 Christ says, "My blood is drink indeed," as though utterly ignoring all other soul drinks. Some men drink until they are drenched with earthly pleasure. Others drink until they are inflated with their own self-righteousness. The Devil has his cups and he knows how to fill them to the brim and make them sparkle and fascinate the eyes. But let men's souls drink of these draughts till they come to the dregs, they shall never be satisfied! And in the world to come their misery shall be greater if they have had any satisfaction here. But oh, if your soul can get to the precious blood of Christ and rest there, and you can rejoice that Jesus died for you, you may drink but you shall never be inebriated! You may drink, but you shall never know satiety! You may drink and you shall have a satisfaction which nothing can destroy, which time or habit cannot cause to pall on your palate and of which eternity shall be but a blessed prolongation! Drink, thirsty soul, drink at the Fountain of the Savior's blood and you shall thirst no more, but cry, "I have enough! I have found in Jesus' atoning blood all that my soul can want!" Put these two things together. It appears, according to the text, that—
 
-III. OUR LORD JESUS CHRIST IS BOTH MEAT AND DRINK TOGETHER,
+## III. Our Lord Jesus Christ Is Both Meat and Drink Together
 
 So I would have you notice the suitability of Jesus Christ to man's needs. Man needs meat and drink. Jesus is what man needs! You need pardon—you have it in Christ. You need life—eternal life—you have it in Christ! You need peace, comfort, happiness—you have it all in Christ. No key ever fitted a lock as well as Christ fits a sinner. You are empty— Christ is full! You cannot have a need that He cannot supply. There never was and there never will be, a soul that was past the power of Jesus. Oh, what a suitable Savior He is to me! That I can say, for if Jesus Christ had been sent into this world for me, only, He could not have suited me better than He does! And if He had been sent for you, only, poor trembling Sinner, He could not have fitted you better than He will! Why, when I think of Jesus, He seems to be all mine, and I am sure I cannot afford to do without a bit of Him. I need Him altogether and He just exactly fills my soul up to the brim—and you shall find it true, also! He will be your meat and your drink and if you get Him, you will say—
 
@@ -87,7 +84,7 @@ Moreover, Beloved, if Jesus Christ be both meat and drink—Beloved in the Lord,
 
 Yes, and if Jesus Christ is meat and drink, then here is a reason why you Christians should be very earnest to tell of Him to others—to hand Him out. Oh, if we had this house full of bread, tonight, and there were a famine all over Lon-don—in the East End, the West End, and the North, and the South—and men were dropping down dead in the streets, and they were crowding outside there, out at the Elephant and Castle and down Newington Causeway, I know what I would say if the bread belonged to me—"Brothers and Sisters, come and help me out of the windows with it! Let them come in at every door! Let them crowd at every window and let them have something to eat!" And if they were thirsty, and we had the mains laid on here, and there was no water to be had anywhere else, oh, I am sure there is not a little child here that would not be glad to take his little tin can and hand out a draught of water to the thirsty people! Well, you then, with little abilities, who love Christ—tell about Him to others! He is meat and drink to the famished, thirsty ones! If He were merely a dainty, I could not press it, but as He is a very necessity to the dying sons of men, tell them about Him! And if they despise Him, well, then, you have done your part. But if they perish without your telling them of Christ, their blood may lie at your door! Oh, think, while you are going home tonight, walking down the streets, whether there is any house you pass where there is a man living who can charge you with having neglected him! Do not let it be so any longer, but seek that, as Christ's flesh is meat indeed and His blood is drink indeed, you may hand out Jesus Christ to the famishing crowds that they may be satisfied! The Lord bless you richly, for His name's sake.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:41-66.
+## Exposition by C. H. Spurgeon: John 6:41-66
 
 Verses 41-44. The Jews then murmured at Him because He said, I am the bread which came down from Heaven. And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? How is it then that He says, I came down from Heaven? Jesus therefore answered and said unto them, Murmur not among yourselves. No man can come to Me except He who has sent Me, draw him. And I will raise him up at the last day. Christ never retracted a Truth of God or diminished its force because it was rejected, but He rather seemed to say, "You refused this Truth. I knew you would. You need not murmur: you are none of Mine. If you had been, the Father would have drawn you. You will not come. So you are set against the Truth of God that you cannot see it. So blind are your eyes that you do not behold it. No man can come to Me, except the Father, who has sent Me, draws him."
 
@@ -116,7 +113,6 @@ Verses 41-44. The Jews then murmured at Him because He said, I am the bread whic
 64\. But there are some of you that believe not. And if they do not believe, then they miss the whole soul of the thing! 64, 65. For Jesus knew from the beginning who they were that believed not, and who should betray Him. And Hesaid, Therefore said I unto you that no man can come unto Me, except it were given unto him of My Father. No, not even though he were an Apostle—though he came so near to Christ as to pray to Him and hear His secret and most private communications, and to see His singular and special miracles—yet he would not understand, except the Father gave it as a special act of Grace.
 
 66\. From that time many of His disciples went back and walked no more with Him. Did He need them? I think not. He desired not to have around Him a mass of chaff, but the pure winnowed corn. Consequently He used His own Word as the winnowing fan. And I believe, Brothers and Sisters, that wherever Christ is faithfully preached, preaching is the best form of Church discipline. Somehow or other, carnal minds get weary of it, and they go away—and those that have not a longing and a love for the Truth of God drop off of themselves—so they walk no more with Him.
-
 
 ---
 [[Sermon 3423 Beholding God's Church|← #3423]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3425 Days of Heaven Upon the Earth|#3425 →]]

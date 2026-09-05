@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Faith and Its Attendant Privileges
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1212
-
-DELIVERED BY.
 
 > "He came unto His own, and His own received Him not. But as many as received Him, to them gave He power to become the sons of God, even to them which believe on His name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God." John 1:11-13.
 
@@ -156,7 +153,6 @@ Christian, act like a king! When a quarrelsome person offends us, we should say 
 Walk as children of light. "What manner of persons ought you to be in all holy conversation and godliness?" You are "a peculiar people, a royal priesthood, a chosen generation, zealous for good works." Do not demean yourselves! Go your way and may the Spirit of your Father rest upon you. Amen and amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 John 3. HYMNS FROM "OUR OWN HYMN BOOK"—533, 448.
-
 
 ---
 [[Sermon 1211 The Hospital of Waiters Visited with the Gospel|← #1211]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1213 Faith, And The Witness Upon Which It Is Founded|#1213 →]]

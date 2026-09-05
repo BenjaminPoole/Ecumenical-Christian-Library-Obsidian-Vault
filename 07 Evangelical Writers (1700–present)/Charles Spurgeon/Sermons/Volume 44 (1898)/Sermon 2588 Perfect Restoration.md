@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Perfect Restoration
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2588
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall be as though I had not cast them aside." Zechariah 10:6.
 
@@ -87,7 +84,7 @@ And then, what is worse, it may happen to you that some future day, when you com
 
 And when you lift up your eyes, in the day of judgment, and find yourself about to be condemned by Christ, it will put a terrible sting into that just sentence as you think, "There was a time when mercy was within my reach. There was an hour when I stood on praying ground and pleading terms with God, and when the preacher, as best he could, pleaded with me, in God's name, and said that if I would repent, and return unto the Lord, it would be as though I had never been cast off because of my sin. Yet I would not have the mercy of God and I have perished by my own hands." Let it not be so, I implore you! There are those here whom I have looked for with eager heart. I have pleaded with them and I know that they are within an inch of decision—but that last inch is damning them! If they do not soon yield to Christ, they will perish. May God awaken them from their fatal slumber, even now, and unto His name shall be praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51
+## Exposition by C. H. Spurgeon: Psalm 51
 
 A Psalm of David, after Nathan had rebuked him and he had been convinced of his great guilt in having sinned with Bathsheba. The music to which this Psalm can be sung must be composed of sighs, groans, sobs and cries. I believe that many of us here present have prayed this prayer of David many times—and he who has never prayed it has need to begin to do so at once! That is an old proverb, but a true one—"There is no road to Heaven except by Weeping Cross." He that has never repented will have to repent if he is ever to enter into life eternal. Hear, then, the prayer of David.
 
@@ -140,7 +137,6 @@ Verse 1. Have mercy upon me, O God. ' 'Nothing but mercy will meet my case. Your
 16, 17. You delight not in burnt offering. The sacrifices of God are a broken spirit a broken and a contrite heart, O God, You wiil not despise. Come, poor souls, you that are heavy with guilt! You that lie at death's dark door, condemned by reason of a whole life of sin, offer to God this Sacrifice that He will not despise! The Jews brought their bullocks—you come and bring your broken hearts and contrite spirits! They presented to God the fat of fed beasts—you come and bring your broken-hearted groans, for God will not despise them!
 
 18, 19. Do good in Your good pleasure unto Zion: build You the walls of Jerusalem. Then shall You bepleased with the sacrifices of righteousness, with burnt offering, and whole burnt offering: then shall they offer bullocks upon Your altar. If sin is pardoned, we may offer to God anything that we can, and He will accept it. But first of all we must get pardon—pardon through Jesus Christ—or else our offerings are a vain oblation. God bless the reading of this Psalm to everyone beneath this dome, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2587 Much More|← #2587]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2589 The Christian's Glorious Inventory|#2589 →]]

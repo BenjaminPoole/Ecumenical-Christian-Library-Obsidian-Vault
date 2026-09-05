@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 28
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**ABSOLUTE ASSURANCE**
+## **Absolute Assurance**
 
 > He hath said, I will never leave thee, nor forsake thee" Heb. 13:5
 
@@ -23,7 +22,6 @@ Several times in the Scriptures the Lord hath said this. He has often repeated i
 We ought surely to be content with such things as we have, for he who has God has more than all the world besides. What can we have beyond the Infinite? What more can we desire than Almighty Goodness.
 
 Come, my heart; if God says He will never leave thee, nor forsake thee, be thou much in prayer for grace, that thou mayest never leave thy Lord, nor even for a moment forsake His ways.
-
 
 ---
 [[FCB December 27|← December 27]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 29|December 29 →]]

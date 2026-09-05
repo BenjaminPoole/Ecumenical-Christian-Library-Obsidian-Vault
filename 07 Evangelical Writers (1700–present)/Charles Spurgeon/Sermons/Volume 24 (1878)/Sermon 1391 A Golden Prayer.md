@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Golden Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1391
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 30, 1877,.
+*Delivered on Lord's-Day Morning, December 30, 1877*
 
 > "Father, glorify Your name." John 12:28.
 
@@ -150,7 +149,6 @@ Listen to this parable! It is spring time and yonder is a farmer walking the fur
 And he who kept the door of his granary bolted through his sluggishness and selfishness shall then be seen to be only fit for Bedlam, for he has no harvest except a mass of tangled weeds. Scatter, scatter your lives for others! Give yourselves up to Jesus! He who in this respect hates his life shall find it, but he that keeps it shall lose it! Still, O you ungodly, if you live to yourselves, God will yet have Glory and even Glory out of you! You shall not rob Him of His honor, nor tear a jewel from His throne! God will be glorified by you and in you in some form or other. Your everlasting lamentations, because of your great selfish mistakes, will vindicate the wisdom and the justice of God to all eternity!
 
 In a future state, though you gnaw the flesh of your right arms for very anguish and sorrow and passion, you will be obliged to acknowledge that the warnings of the Gospel were true and that God is just! Your well-deserved griefs shall help to make up the burden of that song which shall eternally celebrate the wisdom and goodness of God, for you will have to confess that Jesus was right and you were wrong! You will have to admit that to believe in Him and to be His disciple was the right thing—and that to despise Him and to live unto yourself was what He told you it would be— destruction and ruin. God grant His blessing for Jesus' sake. Amen.
-
 
 ---
 [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1392 A Catechism for the Proud|#1392 →]]

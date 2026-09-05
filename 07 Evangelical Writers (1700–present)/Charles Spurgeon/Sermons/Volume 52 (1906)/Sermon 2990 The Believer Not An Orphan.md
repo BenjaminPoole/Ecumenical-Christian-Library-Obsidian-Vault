@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Believer Not An Orphan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2990
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will not leave you comfortless: I will come to you." John 14:18.
 
@@ -93,7 +90,7 @@ And now, dear Friends, in conclusion, let me remind you that there are many who 
 
 God grant that we may all break bread in the Kingdom above, feast with Jesus and share His Glory! We are expecting His second coming. He is coming personally and gloriously. This is the brightest hope of His people. This will be the fullness of their redemption, the time of their resurrection. Anticipate it, Beloved, and may God make your souls to sing for joy!
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 www.spurgeongems.org
 
@@ -134,7 +131,6 @@ your fruit should remain." Let us accept all God's Words as He has given them to
 25\. But this came to pass that the Word might be fulfilled that is written in their Law, They hated Me without a cause.They fulfilled what had been written long before, even as they afterwards did when they put Christ to death.
 
 26, 27. But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of Truth, which proceeds from the Father, He shall testify of Me: and you also shall bear witness, because you have been with Me from the beginning. The witness of the Spirit of Truth still continues and Christ's disciples are still privileged to be co-witnesses, even with the Holy Spirit, Himself. Let us take care to avail ourselves of this privilege whenever we can.
-
 
 ---
 [[Sermon 2989 Near the Kingdom, or in It|← #2989]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2991 What We Have, and Are to Have|#2991 →]]

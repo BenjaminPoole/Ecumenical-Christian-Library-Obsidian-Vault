@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 17. Why must he in one person be also very God?
-
-**Question 17. Why must he in one person be also very God?**
 
 Answer. That he might, by the power of his Godhead, sustain, in his human nature, the burden of God's wrath; and might obtain for and restore to us, righteousness and life.
 
-**EXPOSITION**
+## **Exposition**
 
 It was necessary that our Mediator should not only be a man, and one that was truly such, and perfectly righteous; but that he should also be God—the true and mighty God—and not an imaginary Deity, or one that was adorned with excellent gifts, above angels and men, as heretics suppose. The reasons for this are the following:
 

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 32. Decade 3, Sermon 6, Part 2
 
 Now in this kind of sacrifice also Christ was preached, with the effect and power of his death and passion ; and in it was shewed the whole manner and order of giving thanks to God for his good benefits. There are sundry sorts of benefits. If a man received a good turn, if an ill turn had not befallen him, if he had recovered his health or had escaped some misfortune, he offered a sacrifice to the Lord. There are also other ancient benefits common to all men4; as, that God
@@ -31,8 +30,6 @@ With the sacrifices of thanksgiving those offerings do The freemuch agree which 
 [6 Tip, a vow, mip, a voluntary offering.]
 
 [7 jubcbautur, Lat.j they were commanded.]
-
-206 THE THIRD DECADE. [SERM.
 
 for his delivery doth offer up the sacrifice : the thing that is so offered is called a vowed sacrifice. The ceremonies of the twain1 did wholly agree with the sacrifice of thanksgiving. More of them is to be seen in the seventh chapter of Leviticus.
 
@@ -62,8 +59,6 @@ Moreover, such as did wholly give themselves to the
 
 [' sestimatione sequa, Lat. ; fair valuation.]
 
-208 THE THIRD DECADE. [SERM.
-
 i 11 ; study of the scriptures were, by the prophets Amos and Jeremy, because of their most temperate life (which is required of students), and because they were wholly dedicated to the ministry of God, called Nazarites. Sometimes also it did endure but for the space of certain days or months. These Nazarites did abstain, according to the commandment of the law, from certain things, from which they were not barred by any other law, and which were not unlawful for other men to use which were without the necessity of that vow. First of all they abstained from wine, from all things that the vine brought forth, and whatsoever else did make men drunken. But it is manifest, that as wine is the good creature of God, so no drink is forbidden by the law. Yet for because the Nazarites were consecrated to the Lord, and sanctified by a certain peculiar kind of living ; and for because wine is the means that leadeth to drunkenness, which is the gulf of all sin and filthiness ; therefore did the Nazarites not without a cause abstain from wine. They did also take heed of idleness, the mother of mischief, and utterly despised all worldly pleasures. Furthermore, so long as the time of their vow endured, they did not clip their hair, but let their locks grow out a length. And thereupon, as some do think, they took their names, and were called Nazarites : for insomuch as Nazer signifieth hair, they suppose that they were called Nazarites, as who should say, long-locked or shaggy-haired people1 . But the apostle Paul biddeth the woman to pray, or to come into the congregation to hear a sermon, with her head covered, for none other cause, but for that she is not in her own power, but subject to another, that is, to her husband. And therefore the Nazarites did let their hair grow, because by the vow which they had made to God they were no longer in their own power, but were wholly yielded into the power of God. And the head, which is the tower of the body and the most excellent part thereof, being covered2 with a bush of hair, was a token that the whole man was by vow given to the Lord, to whom alone he ought to have an eye, and upon whom alone he ought wholly to depend. Moreover it
 
 L1 "113, consecration. Hence meton. the consecrated head (of a Naza- rite) ; — and even (the primary idea being neglected), the long, unslwrn hair (of a woman). Gesenius, Heb. and Eng. Lex. in voc.] [2 veluti obvelata, Lat. ; covered as with a veil.] mson a ° was required at the hands of the Nazarite, that he should not defile himself with the contagious company of wicked and naughty persons. Whereunto also belongeth the commandment, which charged the Nazarite not to be present at the death or burial of his parents, or children, or wife, or brethren, or sisters. For he ought to settle the eyes of his mind upon God alone, and in comparison of him to set light by and loathe the things which were most dear and precious unto him. But if it so fell out, that3 at unawares he were defiled by seeing of a dead body4, he was not therefore acquitted of his vow, as one whose former life had been sufficient for the performance of the same : for he was commanded to sanctify himself the seventh day, and then to undertake the keeping of his vow again.
@@ -75,8 +70,6 @@ By all this we may plainly perceive what and how great sa the sin of Samson was,
 [4 super mortuo, Lat. ; by a dead body. Seeing of, not in Lat.] [5 Rather, and when on his account the name of God (male audiret, Lat.) was evil spoken of.]
 
 [BULLINGER, n.J
-
-210 THE THIRD DECADE. [SERM.
 
 called upon the name of the Lord : whereby it came to pass, that, when his hair grew forth again, his strength returned ; that is, the Spirit of the Lord came upon him again, being brought unto him, not by the growing of his hairs, but by his repentance and earnest calling upon the Lord. Neither did Samson desire to revenge his own private injury so much as to suppress the blasphemous mouths, and to deliver the people of God1 from fear and slavery. The strength of God, therefore, returned again, wherewith he bending the pillars of the theatre was himself slain with the fall of the palace, and at his death slew many mo than he had killed in all his life time before.
 
@@ -106,8 +99,6 @@ Moreover, the Lord in6 these laws of his touching the abstaining from the flesh 
 
 14 — 2
 
-212 THE THIRD DECADE. [sEKM.
-
 bodies. For some of those which he forbiddeth to be eaten are by physicians1 scarcely thought to be -wholesome for our bodies. And thereupon the saints do gather this syllogism : If God hath care for the health of our bodies, he is far more careful verily for the preservation of our souls. What may be thought of this, that many nations have tempered2 themselves from the eating and touching of some living creatures? Therefore, that the people of Israel, who of themselves were sufficiently superstitious and curious enough, should not be their own carvers, and invent such toys as they thought best, God gave them such laws for choice of their meat as did contain hidden mysteries in them, thereby to draw them from their own devices, and to sever them from all other nations ; as Moses testifieth in the fourteenth chapter of Deuteronomy, saying : " Thou art an holy people unto the Lord thy God, and the Lord thy God hath chosen thee from among all the nations upon the face of the whole earth, to be a peculiar people unto himself." To St Peter3, in the Acts of the Apostles, a vision is shewed, wherein by the unclean beasts are meant the Gentiles. Lastly, God would have the nature and disposition of the beasts, that he forbad to be eaten, to be throughly scanned. For in their diet at the table he did by figures lay before their eyes the heavenly philosophy, giving them occasion, even in their meat, to think and speak of the true holiness of the mind, to the end that men should not be filthy, impudent, foul, . and unclean. And therefore is this clause so many times (Lev. xix. 25 repeated, " I the Lord your God am holy ;" as if he should xx. 7,8;xxi. .* • , e, &c.] gay : All these ceremonies tend to this end, that ye may give yourselves to holiness. Wherefore in those figures he taught the godly what to follow, and what to fly from.
 
 Now in the law of the clean and unclean he doth first of all put certain generalities ; then he descendeth by specialities, and doth in a beadrow4 reckon up certain particular things in a very natural course and order. The place is at the full set out in the eleventh chapter of Leviticus and the fourteenth of Deuteronomy. Those beasts were allowed
@@ -130,8 +121,6 @@ There are then repeated many living things particularly, which were not lawful t
 
 [8 qui et proverbiis locum dedit, is the Lat. of this sentence.] [» Horn. Od. Lib. x.] [10 spe firma, Lat.]
 
-214 THB THIRD DECADE. [sERM.
-
 and we, unless we be constant and patient in the Lord's work, are worthy to be abhorred of the Lord our Maker. Of birds those are forbidden, which are the greatest raveners, devourers ; which love and live by unclean meats ; which fly abroad at owl-light, at midnight, and in the dark ; and such as are crafty, unstable, and nothing cheerful1. Herein therefore is commended unto us well-doing, abstinence, temperance, simplicity, light, constancy, cheerfulness, soundness and pureness of living. Lastly, of such as creep by the ground no small number are noted : for men altogether wrapped in worldly muck do utterly displease the Lord.
 
 I have of purpose not reckoned up all the names of the forbidden creatures, partly because it would have been too tedious unto you, and partly because the interpreters of the Bible do wonderfully stick2 in the interpretation of their names : so that I can never marvel enough at the extreme blind stubbornness of the Jewish people, in keeping so strictly the choice of their meats, when their own rabbins do stick, and cannot tell certainly what creatures they be that the Lord did forbid them.
@@ -147,8 +136,6 @@ The blood, therefore, was a sign of the blood of Christ, that was to be shed upo
 Lastly, God would have it deeply printed in the minds of men, that no man should shed another's blood, nor live of the blood and bowels of other men : as mercenary soldiers, covetous persons, usurers, and cozeners do, in sucking out and shedding the blood of silly people with subtle sleights and open injury. And God, talking with Noah, did with terrible threats6 beat into all murderers an horrible fear, saying: " If j;oen. men be slack, I will take vengeance upon the shedding of blood." For man was made to the image and likeness of God : how can God choose then but take the reproach as done to himself, which is done unto his image? For whosoever
 
 [3 in sancta, Lat. ; into the holy places.] [4 blood, not the blood.] [6 utpote, Lat. ; inasmuch as it was.] [6 et rationibus, Lat. ; and reasons.]
-
-216 THE THIRD DECADE. [sERM.
 
 casteth down the image of the king, he offendeth against the king, and is accused of treason.
 

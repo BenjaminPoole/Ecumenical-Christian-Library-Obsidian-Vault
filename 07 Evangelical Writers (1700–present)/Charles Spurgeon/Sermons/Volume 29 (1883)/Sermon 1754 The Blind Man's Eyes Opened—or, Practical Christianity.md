@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Blind Man's Eyes Opened—or, Practical Christianity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1754
 
-DELIVERED ON LORD'S-DAY EVENING, AUGUST 12, 1883,.
+*Delivered on Lord's-Day Evening, August 12, 1883*
 
 > "Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him. I must work the works of Him that sent Me, while it is day: the night comes, when no man can work." John 9:3,4.
 
@@ -144,7 +143,6 @@ Let me speak to some of you who are not the chief of sinners—you that have bee
 But they do not reef it. "Come," he says, "attend to the tiller and steer as I bid you." But they refuse. "Well," says the pilot, "you said you trusted me." "Yes," says the captain, "and you said that if we trusted you, you would get us into port, but we have not got into port at all." "No," says the pilot, "you do not trust me, for if you trusted me you would do as I tell you."
 
 A true trust is obedient to the Lord's commands and these forbid sin. If you trust Jesus, you must leave your sins and take up your cross and follow Him. Such trust shall surely have its reward—you shall be saved now and saved forever! God bless you, dear Friends, for Christ's sake.
-
 
 ---
 [[Sermon 1753 Blessed Promises For Dying Outcasts|← #1753]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1755 The Top of the Ladder|#1755 →]]

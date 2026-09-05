@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Dead, Yet Alive
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2933
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Likewise reckon you also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. Let not sin, therefore, reign in your mortal body, that you should obey it in the lusts thereof." Romans 6:11,12.
 
@@ -145,8 +142,7 @@ May we all learn that Christ is everything and that we are nothing! That He is h
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2932 False Justification and True|← #2932]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2934 Great Changes|#2934 →]]

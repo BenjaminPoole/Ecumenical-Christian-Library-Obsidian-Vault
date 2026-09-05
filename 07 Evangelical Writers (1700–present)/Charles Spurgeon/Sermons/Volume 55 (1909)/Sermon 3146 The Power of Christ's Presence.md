@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Power of Christ's Presence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3146
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore that disciple whom Jesus loved said unto Peter, It is the Lord." John 21:7.
 
@@ -91,7 +88,7 @@ Have you ever heard the story of the poor man, in deep distress of mind, who one
 
 And, Brothers and Sisters, that is the company to which you and I belong! And when we enter Heaven, they will welcome us just as heartily as they did the martyrs, the Prophets and the Apostles! Jesus Christ came into the world to save sinners—and when sinners repent, there is joy in the presence of the angels of God, and joy in the heart of God, Himself, because they have sought His pardoning mercy! If any of you are not saved, it is not because there is any lack of mercy in the heart of God! If you perish, it is not for want of an open door set before you! So come in while you may!
 
-EXPOSITION BY C. H. SPURGEON: JOHN21.
+## Exposition by C. H. Spurgeon: John 21
 
 Verse 1. After these things Jesus showed Himself again to the disciples at the sea of Tiberias; and on this wise showed He Himself.May every one of you, my fellow disciples, realize that Jesus is showing Himself to you! He is only to be seen in His own Light. He must show Himself to us, or else we shall never see Him.
 
@@ -152,7 +149,6 @@ and said, Lord, which is he that betrays you? Peter seeing him said to Jesus, Lo
 23\. Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to you? This is only one of many instances in which Christ's words have been twisted and made to mean something quite different from what He intended.
 
 24\. 25. This is the disciple who testifies of these things, and wrote these things: and we know that his testimony is true. And there are also many other things which Jesus did, the which, if they should be written, every one, I suppose that even the world itself could not contain the books that should be written. Amen.
-
 
 ---
 [[Sermon 3145 Paul in the Tempest|← #3145]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3147 God's Glory in the Building Up of Zion|#3147 →]]

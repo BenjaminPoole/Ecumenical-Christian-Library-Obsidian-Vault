@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Forgiveness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2972
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But there is forgiveness with You, that You may be feared." Psalm 130:4.
 
@@ -87,7 +84,7 @@ And when the Lord will bring out any that shall really fear Him and do anything 
 
 Oh, how great your sin has been, my Hearers! But Jesus Christ is still greater! You have gone deeply into sin, but the arm of Mercy can reach you! You have wandered far, but the eyes of Love can see you and the voice of Love calls to you now, "Come, come, come and welcome, come and welcome!" Come just as you are and you will not be cast away, but be accepted in the Beloved! "There is forgiveness with You, that You may be feared," and none fear, and love, and bless, and praise God as much as those who know that there is forgiveness with Him!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 145.
+## Exposition by C. H. Spurgeon: Psalm 145
 
 When you get to the 145th Psalm, you enter the Beulah Land of the Psalms. Henceforth the time of the singing of birds is come and you go from one Hallelujah to another! In the Hebrew, this is one of the alphabetical Psalms, but one letter (nun) is omitted, perhaps, as Dr. Bonar suggests, "we must be kept from putting stress on the mere form of the composition." Those ancient singers sang their way through the alphabet from A to Z, and it is also well for us to begin to praise the Lord while we are yet children, and to keep on praising Him till we get to the "Z" in the very hour of death, gasping His praises till we get into eternity—
 
@@ -144,7 +141,6 @@ down? Daughter of Abraham, have you been bowed down these many years? Oh, that y
 20\. The LORD preserves all them that love Him: but all the wicked will He destroy. As in a state of sanitary perfection, everything that breeds pollutants and disease is banished—so must it be in God's great universe when He has completed His works—"all the wicked will He destroy."
 
 21\. My mouth shall speak the praise of the LORD: and let all flesh bless His holy name forever and ever.
-
 
 ---
 [[Sermon 2971 The Right Kind of Fear|← #2971]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2973 Thought Condemned, Yet Commanded|#2973 →]]

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 33. Decade 3, Sermon 7. Of the Judicial Laws of God
 
 IN prosecuting the treatise of God's laws, I have now lastly to speak of that sort which are called the judicial laws : of which I will entreat, dearly beloved, as briefly as I can, so far forth as I shall be persuaded to be expedient for your edification. This treatise will not be unpleasant nor unproThe judicial fitable to every zealous hearer, although it doth specially 'profitable, belong to courts of law, where judgment is exercised : for the judicial laws were with wonderful faith and diligence set out of God9 by the ministry of his servant Moses ; and God is not wont to reveal any thing to mankind with so precise and exquisite diligence, unless it do directly tend to mankind's great commodity.
@@ -34,7 +33,7 @@ Grecians. [i Uni versa historia sacra, Lat. ; all the sacred history.]
 
 [6 Cecrops is placed by Abp. Usher, B.C. 1556, a little after the birth of Moses. In Euseb. Chron. under date A.M. 3616, it is said: Quidam scribunt Athlantem fratrem Promethei, et Argum cuncta cernentem his fuisse temporibus ; alii vero jctate Cecropis (i. o. A.M. 3640.)]
 
-VII.] THE JUDICIAL LAWS OF GOD. 219
+## VII.] the Judicial Laws of God. 219
 
 But the most famous lawgivers of the greatest and most HIS image ancient nations did follow long after the death of Moses; STor two0
 
@@ -58,8 +57,6 @@ judgment : for it sigmfieth to take up and determine of matters betwixt such as 
 
 [' Cic. de Legib. Lib. ir. cap. 4.]
 
-220 THE THIRD DECADE. [sEKM.
-
 disposed and wicked offenders. The judges are the overseers of judgment and justice ; I mean, such as do justly according to the laws give sentence betwixt them that are at discord, which do defend and deliver the good, and punish and bridle the wicked. And so the judicial laws are those which inform the judges how to determine of controversies and questions, how to judge justly, how to punish the wicked, and how to defend the good, that peace, honesty, justice, and public tranquillity may be among all men ; which is the end and mark alone whereto both the judge and all the judicial laws do tend and are directed. For God, our good Lord and lawgiver, would have it to go well with man, that we may live happily, civilly, and in tranquillity. And therefore we do not in this treatise exclude the care and defence of pure religion, but do make it one of the especial points which the judicial laws do look unto.
 
 The judicial And now even as the ceremonial laws, so also are the judicial laws added by God unto the ten commandments, to expound and confirm them therewithal. For the precepts of the ten commandments are the chief and principal precepts, whemmto we must refer all laws, as to the eternal mind or will of God. I think I need not to stand and shew you, dearly beloved, to what precepts of the ten commandments every several judicial law is to be referred : for that is very plain and evident to every one that will take but small pains to confer and lay them together. For the judicial laws that are set out against murder and injury are appertaining to this precept : " Thou shalt do no murder." And whatsoever is spoken against adultery, fornication, and filthy lusts, are added to the commandment : " Thou shalt not commit adultery." Likewise, whatsoever is said in the judicial laws against deceits, shifts, cozenings, and usury, do belong to the commandment : " Thou shalt not steal." Lastly, all the laws touching the bridling of heretics and suppressing of apostates by force are set down to make plain the first, second, third, and fourth commandments of the first table: for some laws may be applied to more precepts than one of the ten commandments. But this is easy and plain to be perceived of every man : therefore I will not stand any longer about it.
@@ -78,9 +75,9 @@ VII.] THE JUDICIAL LAWS OF GOD. 221 judges, such, I mean, as should maintain and
 
 [5 intus et in cute, Lat.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 fDeut. i. 16, 17.]
 
@@ -108,8 +105,6 @@ Now I suppose that in this institution of a king all things are contained, which
 
 [4 multis et validis rationibus, Lat. omitted ; with many and powerful reasons.] •
 
-224 THE THIRD DECADE. [sKRM.
-
 as subjects, to be judgedpf God by the_jEflicL as they that ought to rule and govarrTajJl things according to the rule of * "*""" " nd C0mman3ment.
 
 And here I have to rehearse unto you some of the judicial laws ; I mean, not all and every several one, but those alone which are the chief and choicest to be noted : by which ye may consider of the rest, and plainly perceive, that the people of Israel were not destitute of any law which was necessary and profitable for their good state and welfare. I will recite them unto you as briefly as may be, and in as natural and plain an order as possibly can be.
@@ -136,9 +131,7 @@ Moreover, that in effect is a kind of appeal, where Moses An appeal, doth so oft
 
 [3 pupillis, Lat. omitted ; fatherless.] r 15
 
-[UULLINGEK, II. J
-
-226 THE THIRD DECADE. [sERM.
+## [Uullingek, II. J
 
 Marriage. Of lawful wedlock, against incestuous and unprofitable marriages, and also of the degrees of consanguinity and affinity, there are exquisite precepts as well in the eighteenth chapter of Leviticus, as also in other places of the books of Moses. Verily, where lawful marriages are not, there is no matrimony : therefore the children that are so born are counted bastards ; neither is there for them any dowries or inheritance.
 
@@ -162,7 +155,7 @@ For suspicions and jealousy there are rules given in the fifth chapter of Number
 
 15—2
 
-THE THIRD DECADE.
+## The Third Decade
 
 [sERM.
 
@@ -194,9 +187,9 @@ Moreover, the Lord did in these laws limit out the time Manu of bondmen's manumi
 
 [l sexennio finite, Lat.] [2 See above, page 47.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 Bastards.
 
@@ -234,8 +227,6 @@ VII.] THE JUDICIAL LAWS OF GOD. 231 the law, " doth dig a well, and do not cause
 
 [7 Codex Justin. Lib. vm. tit. 10, de sedificiis privatis. Tom. n. Lugd. 1561.]
 
-232 THE THIRD DECADE. [SERM.
-
 at large set down in the thirteenth and fourteenth chapters of Leviticus.
 
 weiRmand Just weights and just measures the Lord commanded to he kept in the law, -where he saith : " Thou shalt not have in thy bag two manner of weights, a great and a small : neither shalt thou have in thine house divers measures, a great and a small. But thou shalt have a right and a just weight, and a perfect and a just measure shalt thou have : that thy days may be lengthened in the land which the Lord thy God giveth thee. For all that do such things, and all that deal unrightly, are abomination unto the Lord thy God." This law is given in the twenty-fifth of Deuteronomy, and is again repeated in the nineteenth chapter of Leviticus.
@@ -249,8 +240,6 @@ VII.] TUB JUDICIAL LAWS OF GOD. 233 chapters of Deuteronomy ; where it doth most
 Against seditious rebels and secret slanderers there is Rebels and much to be found in many places of the law. Chore, Dathan, and Abirom were rebels, of whose ends ye may read in the sixteenth of the book of Numbers. If any man did maliciously bring up a slander upon his wife's chastity, and was not able to prove it true, he was merced at a sum of money, or punished with stripes, as is to be seen in the twenty-second of Deuteronomy. In the nineteenth of Leviticus this precept is given : " Thou shalt not go up and down with tales among thy people: neither shalt thou hate thy brother in thine heart ; but shalt rebuke him and tell him thy mind plainly." Also in the twenty-second of Exodus it is said, " Thou shalt not rail upon the gods (or judges1), nor blaspheme the ruler of thy people."
 
 Moreover there are sundry kinds of murder, whereof Murder, some are greater or smaller than other. The most detestable murder of all is parricide, (when one killeth his father or his kinsman2), under which we do comprehend the evilentreating or currish handling of parents by their children. " Whosoever striketh father or mother, or curseth them," (E*OA. xxi. saith the law, "let him die the death.'1 Again, they are bidden to kill the rebel that dareth stand up to resist the upright decrees and holy ordinances of the elders, Deuteronomy xvii. And also in the twenty-first of Deuteronomy we find : " If any man have a stubborn, a froward, and rebellious son, that will not hearken to the voice of his father, and the voice of his mother, and they have chastened him, and he would not hearken unto them : then shall his father and his mother take him, and bring him out unto the elders of that city, and to the gate of that place ; and say unto the elders of the city, This our son is stubborn and disobedient, and will not hearken to our voice ; he is a rioter and a drunkard : and straightway all the men of that city shall stone him with stones until he die : and thou shalt put evil from thee : and all Israel shall hear and fear." [2 The translator's addition.]
-
-234 THE THIRD DECADE. [sERM.
 
 Furthermore, murder is either committed willingly or else unwillingly. Of murder unwillingly committed there is an example in the nineteenth chapter of Deuteronomy, where the case is put as followeth : Two friends go to the wood to hew wood together ; and as the one fetcheth his stroke, the head of the axe falleth from the helve, and striketh the other so that he dieth upon it. This deed the Lord doth neither impute, nor would have it to be imputed to the man, but to himself ; and therefore he giveth licence to the man to fly unto the sanctuary. For his mind was that the sanctuaries should be a safeguard to such kind of people as killed men unwillingly, and not to bladers1 and cutters, not to them that poison, or otherwise kill their neighbours of a set pretence or purpose2 : of which there is much to be seen in the thirty-fifth of Numbers, the fourth and the nineteenth chapters of Deuteronomy. To the law for murder unwillingly committed doth the case belong3 that is thus put forth : Two men fight together, and in their fight they strike a woman with child, so that either she falleth in travail before her time, or else doth presently die out of hand. In such a case what is to be done, the Lord did teach in the twentyfirst of Exodus, where the law of like for like is also set down: "An eye for an eye, a tooth for a tooth, a hand for a hand," &c. In the same place, also, is put another kind of murder, which is committed either by thy beast, as by thine ox that pusheth with his horns, or by thy wolf, or by thy dog that thou keepest in thine house; or else by some instrument, or building, that is in thy possession. Now thou didst either know, or not know, the fierceness of thy beast, the peril in thine instrument, or the rottenness of thy building. If thou knewest it not, thou wast then excused : but if thou knewest it, and didst not seek a way to prevent the mischief, the Lord gave charge that thou shouldest die for it. But if of clemency it were granted thee to redeem thy life, thou shouldest not refuse to pay any sum of money, how great soever it were.
 
@@ -270,23 +259,21 @@ I know, my brethren, that I have been somewhat tedious conclusion. unto you in m
 
 In the morals he frameth our manners, and teacheth us what to do, and what to leave undone. With the ceremonials he helpeth forward the morals; and doth under types and figures lay before the eyes of our body and mind the mysteries of God5 and his heavenly kingdom. And lastly, by [5 mysteria regni Dei, Lat.]
 
-236 THE THIRD DECADE. [sERM.
-
 the judicials he compelleth us to the keeping of the laws, and doth preserve the integrity of the same. Now all these together do tend to this end only, that man may be saved, that he worship God aright, and live according to the will of the Lord.
 
 Thus much have I spoken hitherto, by the help of God, concerning his holy laws. Now let us praise the goodness of the Lord, who doth not suffer his people to lack any thing that is necessary for their commodity ; and doth even at this day instruct us with these laws to the glory of his name and health of our souls.
 
-OF THE USE OR EFFECT OF THE LAW OF GOD, AND
+## Of the Use or Effect of the Law of God, And
 
-OF THE FULFILLING AND ABROGATING OF THE
+## Of the Fulfilling and Abrogating of The
 
-SAME : OF THE LIKENESS AND DIFFERENCE
+## Same : Of the Likeness and Difference
 
-OF BOTH THE TESTAMENTS AND
+## Of Both the Testaments And
 
-PEOPLE, THE OLD AND
+## People, the Old And
 
-THE NEW.
+## The New
 
 ---
 [[Bullinger Dec 32 Decade 3, Sermon 6, Part 2|← 32. Decade 3, Sermon 6, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 34 Decade 3, Sermon 8, Part 1|34. Decade 3, Sermon 8, Part 1 →]]

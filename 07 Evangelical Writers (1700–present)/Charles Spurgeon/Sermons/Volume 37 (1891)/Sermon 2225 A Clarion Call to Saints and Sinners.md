@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # A Clarion Call to Saints and Sinners
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2225
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Arise you, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction." Micah 2:10.
 
@@ -140,7 +137,6 @@ to life and safety. He comes for your deliverance and it is His voice that says,
 He that is filthy will become yet more filthy! As an old man, you will say, "It is no use talking to me. If I could have my curly hair back again and sit on my mother's knee once more, I might feel something, but now I am given up to hardness." The world will ruin you as the world has ruined its millions and is still ruining its thousands! Fly to Jesus, fly to Jesus! Sinner, fly this moment! God help you! I shall be well rewarded for having preached if but one soul should be awakened to flee away to Christ, my Lord! And why should not many more, in answer to our prayers? The Lord bless you, for Jesus Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Micah 2.
-
 
 ---
 [[Sermon 2224 If You Can—If You Can|← #2224]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2226 Lay Hold on Eternal Life!|#2226 →]]

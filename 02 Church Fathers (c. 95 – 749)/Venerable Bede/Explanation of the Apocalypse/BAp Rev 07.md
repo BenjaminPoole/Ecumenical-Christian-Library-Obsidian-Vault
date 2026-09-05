@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 7
 
 V. 1. four angels. That is, four principal kingdoms, namely, of the Assyrians, and Persians, and Greeks, and Romans. And as in the former seals, after the manifold conflicts of the Church, he saw the joys of triumphant souls, so now, also, he is to prove by examples the victory over the preceding kingdoms of the world, who have now submitted to the Church of Christ, which is to follow the reign of Antichrist For greater matters must of necessity be confirmed by greater proofs.
@@ -36,8 +34,6 @@ And not in vain was the sacred Name of the Lord, of four letters, written on the
 ■ Ps. viii. I (2 A. v.). • Bed., defensorem; Sept., iK^u^ttnpf;
 
 Vulg., uitorem; A. V., "the avenger," in accordance with the sense of the Hebrew root pp3*
-
-46 Explanation of the Apocalypse. [bk. i.
 
 4. number. By this definite number is signified the innumerable multitude of the whole Church, which is descended from the patriarchs either by the lineage of nature, or the imitation of faith. For, he says p, " if ye be Christ's, then are ye Abraham's seed." And it tends to additional completeness, that the twelve also should be multiplied by twelve, and brought to a sum of thousands, which is the cube of the number ten, by which is represented the enduring life of the Church. And for this reason, too, it is often denoted by the number twelve, because throughout the foursquare world it subsists by faith in the Holy Trinity, for three times four are ten and two. Finally, also, when the Apostles were to preach the same faith to the whole world, twelve were chosen, as signifying by their munber the mystery of their work.'
 
@@ -93,8 +89,6 @@ CH. vii.] Summary of DescriptiofU 57
 
 made progress, he must needs be ever strengthened by the iaith^ and instructed by the examples of the fathers of old. And it is most certain that frequently the body of doctors, frequently that of the whole Church, is designated by the number twelve, because of the sum of the Apostles, or patriarchs. For whether each one is counted worthy of praise from confession, as in Judah; or is illustrious from the progeny of works, in Reuben; or is strong from the discipline of temptations, in Gad; or is happy from victory in conflicts, in Asher; or is enlarged by abundant works of mercy, in Napthali; or is forgetful of the things which are behind, in Manasseh; or is still sorrowful, as in the valley of tears, but always rejoicing in the name of his habitation, while sighing for the heavenly Jerusalem, in Simeon; or is rejoicing together in the promises of the life that now is, and of that which is to come, resting upon temporal good things, added to the eternal good, in Levi; or is strengthened by the contemplation of the future reward, in Issachar; or is laying down his life for Christ, in Zabulon; or is labouring earnestly for an increase of spiritual substance, and offering something more beyond the commands of God, either in virginity, or from the abundance of his means, in Joseph; or is expecting the right hand of eternal bliss, with unwearied prayer, in Benjamin; it is fitting that each should be sealed in his own profession by the rule of the preceding fathers, as by the number twelve, and that from the merits of individuals, should the most perfect beauty of the Church, as the sum of a hundred and forty-four thousandi be made up.
 
-59 Ex^anatkn 4if the Apocalypse. [bici.
-
 9. multitude. On the conclusion of the recapitulation, which had been bitei^sed for the sake of example, he returns to the previous order, and announces the glory of those who are to overcome the wickedness of the last persecution. And that which follows, ''From all nations, and tribes, and peoples, and tongues," may also be thus understood, that, after enumerating the tribes of Israel, to whom the Gospel was first preached, he desires to make mention of the salvation of the Gentiles as well.
 
 robes. By "robes'* he signifies baptism, by "palms" the triumph of the Cross, and he intimates that in Christ they have overcome the world. But robes may also double the glory which is given by the Holy Spirit
@@ -128,8 +122,6 @@ throne. The saints are the throne of God, above whom and among whom the Lord for
 ^ Deut xxxii. 43, Sept., in wMch version the 5^ise begins: " Rejoice, ye heavens, together with Him, and let aU the aogeli (sons, MS. Vat.) of God worship Him;" Heb. L 6.
 
 " Acts xlv. 22.
-
-54 Explanation of the Apotalypse. [bk. i.
 
 16. hunger. This It is which the Lord Himself promised, saying, ''I am the bread of life: he who Cometh to Me shall never hunger; and he who believeth in Me shall never thirst." Yea, ** Blessed are they who hunger and thirst after righteousness, for they shall be filled '/'
 

@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. Luther's Little Instruction Book: The Small Catechism of Martin Luther About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## Luther's Little Instruction Book: The Small Catechism of Martin Luther
 
 ### By
 

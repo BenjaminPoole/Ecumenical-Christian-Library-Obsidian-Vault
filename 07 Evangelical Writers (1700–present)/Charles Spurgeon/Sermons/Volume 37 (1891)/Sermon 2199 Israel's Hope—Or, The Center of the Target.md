@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Israel's Hope—Or, The Center of the Target
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2199
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let Israel hope in the Lord: for with the Lord there is mercy, and with Him is plenteous redemption." Psalm 130:7.
 
@@ -104,7 +101,6 @@ But the moment you boast in yourself, and say, "I am rich, and increased in good
 meeting with each one of us hoping in the Lord—and let us continue in our faith in "the God of hope"—till we receive the Heaven we hope for through Jesus Christ our Lord. Amen.
 
 PORTIONS OFSCRIPTURE READ BEFORE SERMON—Psalm 130, John 3.
-
 
 ---
 [[Sermon 2198 The Census of Israel|← #2198]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2200 The Covenant Promise of the Spirit|#2200 →]]

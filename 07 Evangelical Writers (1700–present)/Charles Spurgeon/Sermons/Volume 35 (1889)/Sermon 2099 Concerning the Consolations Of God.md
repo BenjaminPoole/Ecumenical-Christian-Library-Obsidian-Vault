@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Concerning the Consolations Of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2099
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 11, 1889,.
+*Delivered on Lord's-Day Morning, August 11, 1889*
 
 > "Are the consolations of God too small for you? Is there any secret thing with you?" Job 15:11.
 
@@ -178,7 +177,6 @@ Do you doubt the Lord's wisdom? Do you think the Holy Spirit cannot meet your ne
 If you would have that prayer answered, listen to these Words of the Lord Jesus—"Look unto Me and be you saved, all the ends of the earth: for I am God, and there is none else." Though the tears are in your eyes, yet turn them to Christ Crucified. Put your trust simply, immediately, wholly, and alone in Him who died for you, and you shall go your way filled with consolation.
 
 God grant that it may be so, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 2098 Where Go You|← #2098]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2100 Faith Essential to Pleasing God|#2100 →]]

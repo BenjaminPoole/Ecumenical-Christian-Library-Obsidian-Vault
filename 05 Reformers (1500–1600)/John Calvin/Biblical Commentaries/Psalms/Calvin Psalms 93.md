@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 93
-
-**PSALM 93**
 
 The psalm commences with the celebration of the infinite glory of God. It is then declared that such is his faithfulness that he never deceives his own people, who, embracing his promises, wait with tranquil minds for their salvation amidst all the tempests and agitations of the world.
 

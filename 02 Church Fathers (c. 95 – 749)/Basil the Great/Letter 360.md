@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 360
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Of the Holy Trinity, the Incarnation, the invocation of Saints, and their Images.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # "Living, Loving, Lasting Union"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2245
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For we are members of His body, of His flesh, and of His bones." Ephesians 5:30.
 
@@ -136,7 +133,6 @@ Beloved Friends, eternity is ours, and a joyous eternity it will be to those who
 I pray that every blessing may rest upon every mourner this day. Indeed, dear Friends, while we mourn with you, we cannot but congratulate you that you have had such a husband, such a father, such a brother as our friend who is now taken home. I will not say that you have lost him, for that would not be true. God lent him to you for a long time and now He has taken him back!
 
 I think that it is about 15 years ago since, in the ordinary course of things, he might have been expected to have died. At least so it seemed at the time he was so sick—yet with many tears and intercessions we prayed him back and God gave him something like Hezekiah's extra portion of life. We ought to be very thankful for that. In those 15 years, how much has he done? Rather, how much has God done by him for us all? Therefore we will not sorrow so as to complain, but we will sorrow only so as to submit. The Lord be with you evermore! Amen.
-
 
 ---
 [[Sermon 2244 Members Of Christ|← #2244]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2246 Come From the Four Winds, O Breath!|#2246 →]]

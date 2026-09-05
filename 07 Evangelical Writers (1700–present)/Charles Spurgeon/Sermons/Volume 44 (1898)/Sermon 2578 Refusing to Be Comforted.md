@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Refusing to Be Comforted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2578
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My soul refused to be comforted." Psalm 77:2.
 
@@ -85,7 +82,7 @@ One little illustration, and I have done. I have noticed that when a dog is very
 
 "Artful doubts and reasoning be Nailed with Jesus to the tree." Come and trust Him and He is yours forever! The Lord help you to do it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 77.
+## Exposition by C. H. Spurgeon: Psalm 77
 
 This "Psalm of Asaph" has a mournful tone in it. At times the writer is in the deeps, but we may be quite sure that he will end the Psalm cheerfully because he begins it with prayer. No matter what sorrow falls to your lot, if you can pray, you will rise out of it. When Jonah went to the bottoms of the mountains, in the belly of the fish, and took to praying, it was well with him. If you, dear troubled Soul, can but pray, you need not despair.
 
@@ -124,7 +121,6 @@ It is a good thing to make a record of your experiences when they are sweet. You
 18, 19. The voice of Your thunder was in the Heaven: the lightning lighted the world: the earth trembled and shook. Your way is in the sea. Where you cannot see His footprints, "in the sea," where there seems to be no way at all, there God makes a highway! Are you in such trouble, dear Friend, that you cannot see the possibility of escape? Remember this verse—" Your way is in the sea."
 
 19, 20. And Your path in the great waters, and Your footsteps are not known. You led Your people like a flock by the hand of Moses and Aaron. There the Psalm stops, just when you thought there was more to be said. The Holy Spirit knows how to leave off—and He closes abruptly with a sublimity seldom equaled. God's people need to know no more than this, that God is leading them! Asaph does not say that Moses and Aaron led them— "You led Yourpeople." Moses and Aaron were only the Lord's servants and under-shepherds—"You led Your people like a flock by the hand of Moses and Aaron." May He always be our Leader! Amen.
-
 
 ---
 [[Sermon 2577 Living on the Word|← #2577]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2579 Waiting, Hoping, Watching|#2579 →]]

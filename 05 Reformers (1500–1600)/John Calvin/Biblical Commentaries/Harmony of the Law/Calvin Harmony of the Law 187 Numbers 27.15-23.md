@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 187. Numbers 27:15-23
-
-**Numbers 27**
 
 **15.** And Moses spake unto the Lord, saying,
 

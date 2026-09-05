@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # The True Tabernacle, and Its Glory of Grace and Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1862
@@ -95,8 +94,7 @@ One more lesson remains, And that is—*what manner of people ought we to be amo
 
 PORTIONS OF SCRIPTURE READ BEFORE THE SERMON—Exodus 34:1-8; 40:34-38; JOHN 1:1-18.
 
-HYMNS FROM "OUR OWN HYMN BOOK"-249, 256, 250.
-
+## Hymns from "Our Own Hymn Book"-249, 256, 250
 
 ---
 [[Sermon 1861 The Lowly King|← #1861]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1863 Departed Saints Yet Living|#1863 →]]

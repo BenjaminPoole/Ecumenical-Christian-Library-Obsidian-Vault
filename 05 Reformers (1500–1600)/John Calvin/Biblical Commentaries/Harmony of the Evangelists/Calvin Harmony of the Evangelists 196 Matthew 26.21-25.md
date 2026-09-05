@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 196. Matthew 26:21-25; Mark 14:18-21; Luke 22:15-16, 21-23
-
-MATTHEW 26:21-25; MARK 14:18-21;  
-LUKE 22:15-16, 21-23
 
 **21.** And while they were eating, he said, Verily I tell you, That one of you will betray me. **22.** And they became exceedingly sorrowful, and began every one of them to say to him, Lord, is it I? **23.** But he answering said, He who hath dipped his hand with me in the dish will betray me. **24.** The Son of man indeed goeth, as it is written of him; but woe to that man by whom the Son of man is betrayed! It would have been good for that man if he had not been born. **25.** And Judas, who betrayed him, answering, said, Rabbi is it I? [^1] He said to him, Thou hast said it.
 

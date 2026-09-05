@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/17
 ---
-
 # The Northern Iron and the Steel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 993
@@ -57,9 +56,9 @@ The Lord bless you for Jesus’ sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 40. 9-31.
 
-LETTER.
+## Letter
 
-CLAPHAM, JUNE 5TH.
+## Clapham, June 5th
 
 TO MY FRIENDS EVERYWHERE,
 
@@ -70,7 +69,6 @@ I have one great favor to ask of all readers of the sermons, and that is, that t
 I hope to be able to occupy the pulpit again by June 25th, if the Lord will; but all things are uncertain to us, especially when one is slowly recovering from severe affliction.
 
 Yours to serve till death,
-
 
 ---
 [[Sermon 0992 A New Order of Priests and Levites|← #992]] · [[Volume 17 (1871)|Volume 17 (1871) Contents]] · [[Sermon 0994 The Prayer of Jabez|#994 →]]

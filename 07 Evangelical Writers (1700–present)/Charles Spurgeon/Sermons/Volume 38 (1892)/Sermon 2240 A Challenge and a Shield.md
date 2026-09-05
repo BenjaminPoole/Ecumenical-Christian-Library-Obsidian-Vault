@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # A Challenge and a Shield
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2240
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who is he that condemns? It is Christ that died." Romans 8:34.
 
@@ -138,7 +135,6 @@ Come in with me! Let us sail together to Glory. I will not say, "Let us sink or 
 I have once more preached the Gospel to you as plainly and as simply as I can. Whether you will receive it, or not, must rest with yourselves. May God the Holy Spirit lead you to trust in "Christ that died!" God bless you! Amen.
 
 Portion of Scripture Read before Sermon—Romans8:26-39.
-
 
 ---
 [[Sermon 2239 Is God In the Camp|← #2239]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2241 A Stanza of Deliverance|#2241 →]]

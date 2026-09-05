@@ -11,16 +11,13 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 77. Where has Christ promised, that he will as certainly feed and nourish believers with his body and blood, as they eat of this broken bread, and drink of this cup?
-
-**Question 77. Where has Christ promised, that he will as certainly feed and nourish believers with his body and blood, as they eat of this broken bread, and drink of this cup?**
 
 Answer. In the institution of the supper, which is thus expressed: "The Lord Jesus, in the same night in which he was betrayed, took bread, and when he had given thanks, he brake it, and said, take, eat; this is my body which is broken for you; this do in remembrance of me: After the same manner also he took the cup, when he had supped, saying, this cup is the new testament in my blood: this do ye as often as ye drink it, in remembrance of me. For as often as ye eat this bread and drink this cup, ye do show the Lord's death until he come."
 
 This promise is repeated by the holy Apostle Paul, where he says, "the cup of blessing which we bless, is it not the communion of the blood of Christ? the bread which we break, is it not the communion of the body of Christ? for we, being many, are one bread and one body; because we are all partakers of that one bread.
 
-**EXPOSITION**
+## **Exposition**
 
 The institution of the Lord's supper establishes the true and saving communion of the body and blood of Christ. We must, therefore, diligently enquire after the true meaning of the words of the institution. Matthew, Mark and Luke, give a particular account of the institution of the Lord's supper, which we have repeated by the apostle Paul in his first epistle to the Corinthians. We shall here repeat the account which each one gives of the institution of the supper.
 
@@ -86,7 +83,7 @@ The cup of blessing: It is called the cup of blessing, or thanksgiving, because 
 
 The communion of the blood of Christ: Communion is a participation in the thing which is common. The communion of the body and blood of Christ is, therefore, to be made through faith partakers of Christ and all his benefits, by the same Spirit dwelling both in Christ, and in us, and effecting the same things in us which he does in Christ: or, it is the spiritual fellowship which the faithful have with Christ, as members with the head, and as branches with the vine. The bread and wine are the communion, that is, they are the sign and testimony of our communion with Christ. This communion, as the Apostle briefly expresses it, consists in this, that we being many are one body; from which it is easy to see that this our communion with Christ is no corporal eating; for it is effected only by faith and the Holy Ghost. Christ is the head, and we are the members; all who are members have communion in all the benefits of Christ. The head and benefits are both common: hence we are all members in common and so have mutual love one to another.
 
-**TWENTY-NINTH LORD'S DAY**
+## **Twenty-Ninth Lord's Day**
 
 ---
 [[Ursinus HC Q76|← Question 76. What is it then to eat the cruc]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q78|Question 78. Do then the bread and wine beco →]]

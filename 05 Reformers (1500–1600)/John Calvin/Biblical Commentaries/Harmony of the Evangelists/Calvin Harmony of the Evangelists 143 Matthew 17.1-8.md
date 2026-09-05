@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 143. Matthew 17:1-8; Mark 9:2-8; Luke 9:28-36
-
-**Matthew 17:1-8; Mark 9:2-8; Luke 9:28-36**
 
 **1**. And after six days Jesus taketh Peter, and James, and John his brother, and leadeth them to a high mountain apart; **2**. And was transfigured before them: and his face shone as the sun, and his garments became white as the light. **3**. And, lo, there appeared to them [^1] Moses and Elijah talking with him. **4**. And Peter answering said to Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elijah. **5**. While he was speaking, lo, a bright cloud overshadowed them; and, lo, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear him. **6**. And having heard this, the disciples fell on their face, [^2] and were exceedingly afraid. **7**. Then Jesus approaching touched them, and said, Arise, and be not afraid. **8**. And when they had lifted up their eyes, they saw no man but Jesus only.
 

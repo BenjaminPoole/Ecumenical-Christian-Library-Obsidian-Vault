@@ -10,7 +10,6 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 10
 
 **Chapter 10**
@@ -39,7 +38,7 @@ He says, *He was in affliction for three weeks of days* The Hebrews often use th
 
 ## Prayer Lecture 52
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou settest before us so remarkable an example in thy holy Prophet, whom thou didst adorn in so many ways that he wrestled to even extreme old age with various and almost innumerable trials, and yet was never mentally broken down: Grant us to be endowed with the same untiring fortitude. May we proceed in the course of our holy calling without the slightest despondency through whatever may happen. When we see thy Church upon the brink of ruin, and its enemies plotting desperately for its destruction, may we constantly look for that liberty which thou hast promised. May we strive with unbroken courage, until at length we shall be discharged from our warfare, and gathered into that blessed rest which we know to be laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -79,7 +78,7 @@ This language all tends to the same purpose — to assure us that Daniel did not
 
 ## Prayer Lecture 53
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou didst formerly appear to Daniel thy holy servant, and to the other prophets, and by their doctrine didst render thy glory conspicuous to us at this day, that we may reverently approach and behold it. When we have become entirely devoted to thee, may those mysteries which it has pleased thee to offer by means of their hand and labors, receive from us their due estimation. May we be cast down in ourselves and be raised by hope and faith towards heaven; when prostrate before thy face, may we so conduct ourselves in the world, as in the interval to become free from all the depraved desires and passions of our flesh, and dwell mentally in heaven. Then at length may we be withdrawn from this earthly warfare, and arrive at that celestial rest which thou hast prepared for us, through the same Jesus Christ our Lord. — Amen.
 
@@ -129,7 +128,7 @@ The angel follows up the same sentiment. He states his arrival for the purpose o
 
 ## Prayer Lecture 54
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as the weakness of our faith is such that it almost vanishes on the very least occasion: Grant, I say, that we may not hesitate to derive support from this remarkable and memorable example which thou wishest to propose to us in Daniel, although for a time thou hidest thy face from us, and we lie prostrate in darkness. Still do thou remain near us; and with undoubting hope may we be steadfast in our prayers and groaning, until at length the fruit of our prayers shall appear. Thus may we constantly make war with all kinds of trials, and persist unconquered until thou shalt stretch forth thine hand from heaven to us, and raise us to that blessed rest which is there laid up for us by Christ our Lord. — Amen.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Unknown Depths and Heights
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3068
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said Jesus, Father, forgive them; for they know not what they do." Luke 23:34.
 
@@ -29,7 +26,7 @@ Brothers and Sisters, the sayings of Christ upon the Cross have a deeper meaning
 
 The text seems to me to be of great depth. I shall not attempt to fathom it tonight, but reserve it for some future sermons, only tonight exploring two of its parts, rather flitting like a swallow across its surface, than like the leviathan stirring its depths. [Mr. Spurgeon carried out this intention with Sermons #897, Volume 15—THE FIRST CRY FROM THE CROSS and #2263, Volume 38—
 
-CHRIST'S PLEA FOR IGNORANT SINNERS.]
+## Christ's Plea for Ignorant Sinners.]
 
 There are two things in the text, the unknown depths of sin—"They know not what they do." And the unknown heights of mercy, as manifested in Christ's dying plea—"Father, forgive them." May God grant His blessing while I shall endeavor to set forth both, according as the Spirit of God shall enable me to do so!
 
@@ -121,7 +118,7 @@ I have been talking to you in a very simple, homely way, for I have been afraid 
 
 The Lord bless you and bring you to trust in Jesus Christ, His Son, and He shall have all the praise and glory forever and forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:13-26.
+## Exposition by C. H. Spurgeon: Matthew 5:13-26
 
 Verse 13. You are the salt of the earth. The earth would go putrid if there were no salt of Divine Grace to preserve it. So, dear Friends, if God's Grace is in you, there is a pungent savor about you which tends to preserve others from going as far into sin as otherwise they would have done. "You are the salt of the earth."
 
@@ -160,7 +157,6 @@ There are countries where there is found salt from which the pungency has comple
 25\. Agree with your adversary quickly.Always be ready to make peace—not peace at any price—but, still, peace at any price except the sacrifice of righteousness.
 
 25, 26. While you are on the way with him, lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison. Verily I say unto you, You shall by no means come out from there till you have paid the uttermost farthing. And there are some debts of which we cannot pay the uttermost farthing! And there is a prison out of which no man shall come, for the uttermost farthing demanded there shall never be paid. God grant that we may, none of us, ever know what it is to be shut up in that dreadful dungeon!
-
 
 ---
 [[Sermon 3067 A Bold Challenge Justified|← #3067]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3069 Cleansing—Wrong Or Right|#3069 →]]

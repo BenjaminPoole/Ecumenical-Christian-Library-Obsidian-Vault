@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Essence Of The Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 964
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 4, 1870,.
+*Delivered on Lord's-Day Morning, December 4, 1870*
 
 > "He that believes on Him is not condemned. But he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God." John 3:18.
 
@@ -160,7 +159,6 @@ But if Jesus is lifted up and you refuse to believe, on your heads is your guilt
 This Grace is brought home to you, and I am bid to press it upon you, even as the Word says, to "compel them to come in." If you reject the only begotten Son of God there must still abide against you this solemn sentence, "He that believes not is condemned already, because he has not believed." Did I hear you say, "I hope I shall believe." Sir, I have nothing to do with that, and I have no hope for you. "I hope I shall repent one day." I despair of you while you talk so. It is TODAY that God separates this congregation into the two parts, the Believer and the Unbeliever.
 
 Today He blesses the Believer and testifies that he is not condemned! Today He curses the Unbeliever and tells him he is condemned already. My business is not with tomorrows, nor can I promise that the white flag of mercy will be hung out tomorrow. Today the Cross is the banner of Grace. Look to it and live! It is the ladder which reaches to Heaven. The crucified Savior is the gate of salvation. O that you would receive Him! May God grant you may, and He shall be glorified by you in this life and in the world to come. God bless you. Amen.
-
 
 ---
 [[Sermon 0963 Our King, Our Joy|← #963]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0965 Purging Out the Leaven|#965 →]]

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 12. Decade 1, Sermon 10
 
 Ir remaineth, since I have in some sermons discoursed of true faith, that I do now also add one sermon touching love towards God and our neighbour. For in my fourth sermon I promised, so soon as I should have done with the exposition of faith, that then I would speak of love toward God and our neighbour ; because the exposition of the scriptures ought not to go awry out of faith and charity, which are, as it were, the right and holy marks for it to draw unto. Ye, as hitherto ye have done, so cease not yet to pray, that this wholesome doctrine may be by me taught as it should be, and by you received with much increase and profit.
@@ -36,8 +35,6 @@ Double’ charity.
 
 The love of God.
 
-182 THE FIRST DECADE. [SERM.
-
 seem to be good in the whole world; yea, verily, the love of By thelove God in us doth overcome all the evils which otherwise seem evilsare. invincible. Let us hear Paul with a vehement motion proclaiming this, and saying: “ Who shall separate us from the love of God? shall tribulation, or anguish, or persecution, or hunger, or nakedness, or peril, or sword? (As it is written, For thy sake are we killed all the day long, and are counted as sheep for the slaughter.) Nevertheless in all these things we overcome through him that loved us. For I am sure that neither death, nor life, nor angels, nor rule, nor power, nor things present, nor things to come, nor height, nor depth, nor any other creature shall be able to separate us from the love of God which is in Christ Jesu our Lord.” Hitherto have I recited the words of Paul. The love of The love of God worketh in us a will to frame ourselves ethustothe wholly to the will and ordinances of him whom we do heartily peasreof love. Yea, it is pleasant and sweet to him that loveth God to do the thing that he perceiveth is acceptable to God, if it be done. He that loveth doth in mind reverence him whom he loveth. His eye is never off him whom he loveth. He doth always, and in all things, wish for his dearling whom he loveth. His only joy is, as oft as may be, to talk with God, and again to hear the words of God speaking in the scripture. For the Lord in the gospel saith: “If any man love me, he will keep my word: he that loveth me not doth not keep my words.” Again: “ Abide ye in my love. If ye keep my commandments, ye shall abide in my love, even as I also have kept my Father’s commandments, and do abide in his love.” And again: “If any man love me, he will keep my word; and my Father will love him, and we will come to him, and make our dwelling in him?.” - whe manner But now let us hear Moses, the servant of God, declaring God. “and teaching us the way and manner how to love God; to wit, how great love ought to be in the elect. ‘Thou shalt,” saith he, “love the Lord thy God with all thy heart, with all thy soul, and with all thy strength*.” The very same words, in a manner, did our Lord in the gospel repeat, and said: “Thou shalt love the Lord thy God with all thy heart,
 
 [1 Rom. viii. 35—39.] [2 John xiv. 23, 24; xv. 9, 10.] [3 Deut. vi. 5.]
@@ -52,13 +49,11 @@ God alone to be loved.
 
 Who is our neighbour.
 
-184 THE FIRST DECADE. [SERM.
-
 things work for the best}. This love of God also containeth this; that it suffereth us not to honour, worship, reverence, fear, or call upon any, neither to trust in, obey, or stick to any other, but to the one and only God, to whom all glory is due. But now, before we speak of the love of our neighbour, it is requisite that we first shew who it is that is our neighbour ; touching which I see some men to doubt and stick uncertainly. For some there are, that take their kinsfolks to be their neighbours: other some there are, that think that their benefactors are their neighbours, and judge them strangers that do them any harm. But our Lord Jesus Christ telleth us, that every one, yea, though he be our enemy, is nevertheless our neighbour, if he stand in need of our aid or counsel. For he imagineth that a Jew, lighting among thieves, and lying on the high-way half dead, and covered with wounds and swelling dry blows’, was not regarded of his own countrymen, a Levite and a priest, that passed by him; but at last was taken up and healed by a Samaritan. Now there was a deadly enmity between the Jews and the Samaritans; yet notwithstanding, this Samaritan doth good to the Jew, because he saw that the case and necessity of the afflicted man did so require. Now therefore the Lord, applying this to his own purpose, demanded of him that desired to learn who was his neighbour, and saith, ‘“ Which of these three seemeth to thee to have been this man’s neighbour? He answered, He that shewed mercy. Then said the Lord, Go thou, and do the like’.” As if he should have said: Like as the Samaritan judged even his enemy to be his neighbour, and dealt friendly with him, when he stood in need of his friendship; so see that thou take every one that needeth thy help to be thy neighbour, and do him good. Aurelius Augustine therefore, according to the right sense of the scripture, said: “We take him to be our neighbour, to whom we shew mercy when need requireth; or to whom we should shew mercy, if at any time he should need‘.” We Switzers do most properly express it, when we call our neighbour Den nachsten
 
 [1 Rom. viii. 28.] [3 tuberibusque, Lat.] [8 Luke x. 29—37.]
 
-[4 Ut videlicet eum esse proximum intelligamus, cui vel exhibendum est officium misericordie si indiget, vel exhibendum esset si indigeret.—August. de Doct. Christ. Lib. 1. cap. 30, Par. 1531, Tom. 111. col. 4.] a OF THE LOVE OF GOD AND OUR NEIGHBOUR. 185 menschen; that is, any man, without difference, whosoever by The man hap shall light into our company. Moreover, in our country ee speech we wall call our neighbour, Der abenmensch, namlich Any ote ein yeder der so wol ein Weheeh ist als wir : meaning thereby "ells any man whatsoever, whether he be our friend or enemy. Hereunto belongeth that saying of Lactantius, in the eleventh chapter of his sixth book: ‘‘ Why makest thou choice of persons? why lookest thou so narrowly on the limbs? Thou must take him to be a man, whosoever beseecheth thee there- fore, that he may think thee to bea man. Give to the blind, to the impotent, to the lame, to the comfortless ; to whom unless thou be liberal, thou shalt die undoubtedly ®.” Again he saith :
+[4 Ut videlicet eum esse proximum intelligamus, cui vel exhibendum est officium misericordie si indiget, vel exhibendum esset si indigeret.—August. de Doct. Christ. Lib. 1. cap. 30, Par. 1531, Tom. 111. col. 4.] a OF THE LOVE OF GOD AND OUR NEIGHBOUR. 185 menschen; that is, any man, without difference, whosoever by The man hap shall light into our company. Moreover, in our country ee speech we wall call our neighbour, Der abenmensch, namlich Any ote ein yeder der so wol ein Weheeh ist als wir : meaning thereby "ells any man whatsoever, whether he be our friend or enemy. Hereunto belongeth that saying of Lactantius, in the eleventh chapter of his sixth book: ‘‘ Why makest thou choice of persons? why lookest thou so narrowly on the limbs? Thou must take him to be a man, whosoever beseecheth thee there-fore, that he may think thee to bea man. Give to the blind, to the impotent, to the lame, to the comfortless ; to whom unless thou be liberal, thou shalt die undoubtedly ®.” Again he saith :
 
 “If so be we will rightly be called by the name of men, then must we in any case keep the law of civil humanity. And what else I pray you is it to keep humanity, but therefore to love a man because he is a man, and the very same that we ourselves are®?” The Lord in the gospel verily, speaking of the love cf our neighbour, saith: “ Love your enemies, bless them that curse you, do good to them that hate you, pray for them that hurt you’.” And again: “Give to every one that asketh of thee. And if you love them that love you, what thank is that to you? For sinners also love them of whom they are loved®.” So then every man, whosoever standeth in need of our aid, both is and is to be counted our neighbour.
 
@@ -77,8 +72,6 @@ And yet, all this notwithstanding, there is no cause but an order that there oug
 How our neighbour must be loved.
 
 The love of our neighbour must be sincere.
-
-186 THE FIRST DECADE. [SERM.
 
 must especially do good to them, to whom thou art, as it were by lot, more nearly joined, by opportunity either of time, of place, or of any other thing whatsoever’.” And this did Paul, before Augustine, teach, where he saith: ‘ Whosoever worketh not, let him not eat?” And again: “ While we have time, let us work good to all men; but specially to them of the household of faith*.’ And in another place he commandeth us not to bestow unto others, and to lack ourselves at home; but rather he chargeth every one to have a godly care of his own house. The place is known in the fifth chapter of the first epistle to Timothy.
 
@@ -108,8 +101,6 @@ this love, where I said, that we ought to love our neighbour with that same love
 
 [9 ch. xv. 12.]
 
-188 THE FIRST DECADE. [SERM.
-
 what sort hath Christ loved us? Here again in the gospel he saith: “No man hath greater love than this, that a man bestow his life for his friends.” So then, such must the manner of our love toward our neighbour be, as that we shall not doubt to give our life for our neighbour. And if so it be then, that for our neighbour’s sake we owe the loss of our life, there is nothing verily that we owe him not, considering that to a man nothing is more dear than life: for sooner will he lose all that he hath than once to put his life in jeopardy. Whereupon the apostle John crieth out, and saith: “ Hereby perceive we love, because he laid down his life for us: and we ought to lay down our lives for the brethren?.” This is easy to be understood by reason of the most evident example. Let us pray earnestly and continually to the Lord, that we may indeed fulfil the thing that we do manifestly understand by the word of God, lest peradventure the same apostle condemn us, who saith: “ Whoso hath this world’s good, and seeth his brother have need, and shutteth up his compassion from him, how dwelleth the love of God in him??”
 
 How we And now let us also declare the fourth and last manner, - stand our how we ought to stand our neighbour in stead, and how to do instead. == him good in shewing our dutiful love and civil humanity. That hath the Lord already very finely? set out in the very same parable wherein he taught us who is our neighbour: for he hath briefly, and yet very evidently, touched all the points of the love that we owe to our neighbour. First, the Samaritan, at the sight of the wounded man, was moved with pity. There is therefore required of us a merciful motion of pity, so to regard other men’s calamities as though they were our own: it is looked for at our hands, that we should be as sorrowful-minded for another man’s trouble, as he that feeleth the misery, according to that saying of the apostle: “Be mindful of them that are in bonds, as bound with them; and of them which suffer adversity, as though ye yourselves also, being in the body, suffered adversity*.” Secondarily, the Samaritan passeth not by, but cometh unto him; he doth not
@@ -136,8 +127,6 @@ Love the fulfilling of the law.
 
 Works of mercy.
 
-190 THE FIRST DECADE. [SERM.
-
 of the sick man; and also bindeth himself for him, saying: Whatsoever more than this thou shalt lay out about things necessary for his recovery, thou shalt not lose one mite; for at my return I will pay thee all again to the uttermost farthing. So then he promiseth to return, and therewithal declareth that he shall not be quiet until he see him thoroughly healed of all his wounds. Ye have here, dearly beloved, in this the Lord’s parable, a most godly and absolute example of love: for the Samaritan doth liberally and willingly employ his whole service upon his needy neighbour’s necessity. We therefore owe ourselves wholly and all that we have to our neighbour’s behoof; which if we bestow on him, then do we fulfil the duties of love and civil humanity.
 
 To this we will yet add some testimonies of the scripture, that thereby we may more fully understand the very innermost pith of love; if yet peradventure any thing may seem to be wanting in that which hitherto I have alleged. Paul therefore, writing to the Corinthians, saith: “ Love suffereth wrong, and is courteous; love envieth not; love doth not frowardly ; love swelleth not, dealeth not dishonestly, seeketh not her own, is not provoked to anger, thinketh not evil, rejoiceth not in iniquity, but rejoiceth in the truth, suffereth all things, believeth all things, hopeth all things, endureth all things.” And again, the same apostle in his epistle to the Romans saith: ‘“ Love striveth to go before in giving honour to other; love distributeth to the saints’ necessity ; is given to hospitality, speaketh well of her persecutors, and curseth not them that persecute her; love rejoiceth with them that do rejoice, and weepeth with them that weep, and applieth itself to the weaker sort’s infirmity.” And again: “ Owe nothing to any man, but to love one another. For he that loveth another hath fulfilled the law. For this, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not kill, Thou shalt not bear false witness, Thou shalt not lust, and if there be any other commandment, it is comprehended briefly in this saying, namely, Thou shalt love thy neighbour as thyself. Love worketh no ill to his neighbour; therefore the fulfilling of the law is love or charity*.”
@@ -150,23 +139,21 @@ Hitherto also pertaineth the works of mercy, which as they
 
 [ὁ Preecipua virtus est hospitalitas, &c. Captivorum redemptio magnum atque preeclarum justitize munus est.... Non minus magnum justitise opus est, pupillos et viduas, destitutos et auxilio indigentes, tueri atque defendere: quod adeo universis divina lex illa preescribit. Aigros quoque, Fuibus defuerit qui assistat, curandos fovendosque suscipere, summz humanitatis et magne operationis est.... Ultimum illud et maximum pietatis officium est peregrinorum et pauperum sepultura.—Lactant. Div. Instit. Lib. vi. cap. 12, Opp. Lugd. Bat. 1660. pp. 585—588. |
 
-192 THE FIRST DECADE. [SERM. x
-
 Jesus; who, being in the form of God, thought it no robbery to be equal with God, but made himself of no reputation, taking on him the form of a servant; and made in the likeness of men, and found in figure as a man, he humbled himself, made obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name, that in the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth, and that every tongue should confess, that the Lord Jesus Christ is the glory of God the !1Father?.” To him alone be honour and power for ever and ever. Amen.
 
 [1 quod Dominus sit Jesus Christus ad gloriam Dei Patris, Lat. | [? Phil. ii. 1—11.]
 
-THE END OF THE FIRST DECADE OF SERMONS,
+## The End of the First Decade of Sermons
 
-THE
+## The
 
-SECOND DECADE OF SERMONS,
+## Second Decade of Sermons
 
-WRITTEN BY
+## Written By
 
-HENRY BULLINGER.
+## Henry Bullinger
 
-OF LAWS, AND OF THE LAW OF NATURE, THEN OF THE LAWS OF MEN.
+## Of Laws, and of the Law of Nature, Then of the Laws of Men
 
 ---
 [[Bullinger Dec 11 Decade 1, Sermon 9|← 11. Decade 1, Sermon 9]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 13 Decade 2, Sermon 1|13. Decade 2, Sermon 1 →]]

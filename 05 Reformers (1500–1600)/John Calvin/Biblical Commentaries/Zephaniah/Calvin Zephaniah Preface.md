@@ -9,10 +9,7 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Zephaniah
-
-**Calvin’s Preface to zephaniah.**
 
 Zephaniah is placed the last of the Minor Prophets who performed their office before the Babylonian Captivity; and the inscription shows that he exercised his office of teaching at the same time with Jeremiah, about thirty years before the city was destroyed, the Temple pulled down, and the people led into exile. Jeremiah, it is true, followed his vocation even after the death of Josiah, while Zephaniah prophesied only during his reign.
 

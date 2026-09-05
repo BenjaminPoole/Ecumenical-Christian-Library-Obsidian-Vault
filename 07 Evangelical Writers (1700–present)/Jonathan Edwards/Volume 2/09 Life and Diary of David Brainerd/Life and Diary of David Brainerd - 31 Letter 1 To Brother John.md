@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER I.
 
 *To his brother John*, *then a student at Yale college*, *New Haven.*
@@ -25,7 +24,7 @@ I remain
 
 Your affectionate brother,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

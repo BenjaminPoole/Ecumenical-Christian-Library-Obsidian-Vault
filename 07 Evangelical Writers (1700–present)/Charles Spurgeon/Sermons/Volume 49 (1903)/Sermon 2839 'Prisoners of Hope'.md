@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # 'Prisoners of Hope'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2839
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As for you also, by the blood ofyour covenant Have sent forth your prisoner out of the pit wherein is no water. Turn you to the stronghold, you prisoners of hope: even today do I declare that I will render double unto you." Zechariah 9:11,12
 
@@ -109,7 +106,7 @@ Oh, what double joy shall come to us when we reach the land Beulah and when we c
 
 What a contrast between where we began and where we are to leave off—the pit without water and the bliss without alloy! What is the bridge that spans the great gulf between them and carries us over into the Glory Lands? It is the finished work of the Lord Jesus Christ! It the blood of the Everlasting Covenant! So believe in it, trust your souls NOW on Jesus and then rest assured that we will meet on the other side of Jordan, in the land of the hereafter where the Lord shall manifest Himself unto us and fill us with ineffable delight forever and ever! God grant it, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM103.
+## Exposition by C. H. Spurgeon: Psalm 103
 
 Verses 1, 2. Bless the LORD, O my soul: andall that is within me, bless His holy name. Bless the LORD, Omysoul, and forget not all His benefits. Three times the Psalmist says, "Bless, bless, bless." Come, my Heart, wake up, awake every faculty, but especially my memory—"Forget not all His benefits." Here is a list of some of them—as we read each one, let our hearts say, "Bless the Lord for that."
 
@@ -158,7 +155,6 @@ this is what will happen to all of us. A breath of fever-bearing wind, or some o
 21\. Bless you the LORD, all you His hosts; you ministers of His, that do His pleasure. All who wait upon Him, whether angels or men, or the lower creatures, are called upon to glorify His great name—and they do!
 
 22\. Bless the LORD, all His works in all places ofHis dominion: bless the LORD, O my soul Do you notice that there is not a single petition in the whole of this Psalm? It is all praise! And herein it is like Heaven, where they cease to pray, but where they praise God without ceasing! We cannot rise to that height here, but let us both praise and pray when we can.
-
 
 ---
 [[Sermon 2838 God's Glory in Hiding Sin|← #2838]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2840 Laying the Hand on the Sacrifice|#2840 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Weakened Christ Strengthened
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2769
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And there appeared an angel unto Him from Heaven, strengthening Him." Luke 22:43.
 
@@ -85,7 +82,7 @@ The next lesson is while you should be thankful for the least comforter, yet, in
 
 But if you are not believing in Christ, I am indeed grieved for you, for you shall have the sorrow without the solace—the cup of bitterness without the angel—the agony, and that forever, without the messenger from Heaven to console you! Oh, that you would all believe in Jesus! God help you so to do for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE22:14-46.
+## Exposition by C. H. Spurgeon: Luke 22:14-46
 
 Verses 14-16. And when the hour was come, He sat down and the twelve Apostles with Him. And He said unto them, With desire I have desired to eat this Passover with you before I suffer: for I say unto you, I will not any more eat thereof, until it is fulfilled in the Kingdom of God. And it is fulfilled, for Christ Himself is the Lamb of our Passover. His blood has been shed and sprinkled. His people have been brought up out of their Egyptian bondage and, by faith, they feed upon Him and are glad. How sweetly the Passover melted away into the Lord's Supper and how graciously did our Savior thus teach us that, as a rule, He does not make violent changes in the development of His people's spiritual life, but He leads them on gradually from one stage to another! There may be, sometimes, very sudden elevations, but, as a general rule, we go from strength to strength, a step at a time, and the Truth of God is revealed to us little by little.
 
@@ -124,7 +121,6 @@ tion." We are not able to bear temptation if it goes beyond a certain point—an
 45\. And when He rose up from prayer, and was come to His disciples, He found them sleeping for sorrow. Great sorrow may have quite opposite effects upon different men. You have, perhaps, sometimes noticed that intoxication produces upon some men exactly the opposite effect to that which it produces upon others—some become irritable and noisy, while others become taciturn and quiet. It is also quite a matter of fact that great sorrow has various effects upon different minds. In the Savior's case, it aroused Him to an awful agony of earnestness in prayer. In the disciples case, it sent them to sleep.
 
 46\. And said unto them, Why do you sleep? Rise andpray, lest you enter into temptation. The great trial for them, as well as for their Lord, was close at hand. It was late at night and they were drowsy and sleepy, yet no time is amiss for supplication. Prayer is never out of season and never unnecessary. We never know when temptation is near, so let us pray without ceasing to Him who is able to preserve us from temptation, or to deliver us out of it.
-
 
 ---
 [[Sermon 2768 Debtors and Debtors|← #2768]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2770 'Go in Peace'|#2770 →]]

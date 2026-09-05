@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Work of Grace the Warrant for Obedience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1479
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 15, 1879,.
+*Delivered on Lord's-Day Morning, June 15, 1879*
 
 > "He that made me whole, the same said unto me, Take up your bed and walk." John 5:11.
 
@@ -150,7 +149,6 @@ Oh, that the Church of God would believe in Jesus' power to heal sick souls! Rem
 PORTION OFSCRIPTURE READ BEFORE SERMON—John 5:1-23. HYMNS FROM "OUR OWN HYMN BOOK"—909, 331, 787.
 
 SPURGEON'S TESTIMONIAL—The Sermons and Speeches delivered in commemoration of the 25th year of his Pastorate. Passmore and Alabaster. At our express desire the publishers have issued this handsome volume for a shilling. It is a choice memorial of a rare event and every one of our friends should preserve a copy. It will soon be out of print and unobtainable. [And so it is!—EOD]
-
 
 ---
 [[Sermon 1478 Greater Things Yet Who Shall See Them|← #1478]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1480 Constant, Instant, Expectant|#1480 →]]

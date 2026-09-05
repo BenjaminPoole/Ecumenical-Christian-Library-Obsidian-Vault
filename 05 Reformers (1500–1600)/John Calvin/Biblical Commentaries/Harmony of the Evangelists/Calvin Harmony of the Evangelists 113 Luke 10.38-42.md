@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 113. Luke 10:38-42
-
-**Luke 10:38-42**
 
 **38**. And it happened, while they were traveling, that he entered into a certain village; and a certain woman, called Martha, received him into her house. **39**. And she had a sister called Mary, who also, sitting at the feet of Jesus, heard his word. **40**. And Martha was cumbered about much serving; who stood, and said, Lord, hast thou no care that my sister hath left me to serve alone? bid her therefore assist me. **41**. And Jesus answering said to her, Martha, Martha, thou art anxious and distressed about many things. **42** But one thing is necessary: Mary hath chosen the good part, which shall not be taken from her.
 

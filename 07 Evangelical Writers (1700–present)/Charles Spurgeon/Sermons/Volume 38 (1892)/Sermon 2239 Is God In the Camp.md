@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # "Is God In the Camp?"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2239
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! For there has not been such a thing before" 1 Samuel 4:7.
 
@@ -136,7 +133,6 @@ right, the Church, as a whole, need fear nothing. Let us, each one, look after h
 Dear Friends, we are having sinners saved in our midst—pray for them! Some are struggling towards the Light of God—seek to help them! If you meet with any such, love them and cherish them as a father does his child. I cannot speak longer. Your hearts must tell you what to do. Go on serving the Lord. May He abide with us in power forevermore! Amen.
 
 Portion Of Scripture Read Before the Sermon—1 Samuel 4.
-
 
 ---
 [[Sermon 2238 You Are Now the Blessed of the Lord|← #2238]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2240 A Challenge and a Shield|#2240 →]]

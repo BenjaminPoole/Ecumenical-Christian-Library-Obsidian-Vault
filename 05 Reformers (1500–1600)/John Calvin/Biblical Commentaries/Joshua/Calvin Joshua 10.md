@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Joshua 10:1-14
 

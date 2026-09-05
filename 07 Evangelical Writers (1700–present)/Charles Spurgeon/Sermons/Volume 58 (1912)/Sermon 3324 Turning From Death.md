@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Turning From Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3324
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Turn you, turn you from your evil ways; for why will you die, O house of Israel?" Ezekiel 33:11.
 
@@ -61,7 +58,7 @@ How I recall the time when this Truth of God came home to my heart with power! A
 
 Thus I have strived to make plain to you the first point. The soul's fears are awakened when it sees that it must either turn or die, must look these two things in the face, "I must give up my sin, or I must be cast away eternally." The second truth of the text is this—that where this solemn question is pressed home by the Holy Spirit—
 
-II. YOUR HEART WILL BE MOVED.
+## II. Your Heart Will Be Moved
 
 "Turn you, turn you," says the text, twice over. It is earnest, emphatic, importunate. "Turn you, turn you." It looks as if it had been wetted with tears, or as if a sigh and a groan were in the very sound of it. "Turn you, turn you." It seems to have the plaintive love of a mother about it and yet the majesty and authority of a Divine command, "Turn you, turn you." Now, if this shall be brought home to you by God the Holy Spirit, you will begin to say, "Then I must turn from all my evil practices. I must be done forever with my drinking and my cursing if I have been guilty of these. I must now be done with Sabbath-breaking, with coarse and evil talk. I must be done with all these sins and lusts of the flesh!" "Turn you, turn you." But, more than this, you will say, "I must have done with my evil thoughts—'let the wicked forsake his way, and the unrighteous man his thoughts.' I must have done with proud thoughts. Lying thoughts. Vain thoughts. Murmuring thoughts. God calls me to turn from them all! I must have done with skeptical notions. I must have done with boastful utterances. I must have done with everything that is contrary to the pure mind of God. But that is not all. The text says, 'Turn you, turn you.' It means that I must turn altogether from my natural enmity to God. I must love Him whom I hated! The very things at which I have laughed, I must now reverence. It must by such a complete turning round that the things I despised I must love, and the things I loved I must hate. I hear God saying concerning all my darling pleasures, 'Turn you, turn you!' It will make me change my companions. It will change my way of talking. It will make a new man of me altogether if this text comes with force to me, 'Turn you, turn you.'"
 
@@ -77,7 +74,7 @@ Now this cry, "Turn you, turn you," will be of no use, then, it seems, unless it
 
 And so we shall close with the third point. Should the text be made by God the Holy Spirit to be as an arrow fixed in the heart—
 
-III. IT WILL MAKE AN APPEAL TO THE UNDERSTANDING.
+## III. It Will Make an Appeal to the Understanding
 
 The understanding, being thus appealed to, will begin to ask questions like this—"Why should I die? I know that this death is terrible, indeed. Why should I have to suffer it? What reason is there why I should be subject to it?" And, my dear Hearer, if God the Holy Spirit awakens you, you will not be able to give a good answer to that! On the contrary, you will begin, one by one, driving out as foolish all the answers you used to give. You will say, "Oh, I used to say, Let well enough alone. What is to be will be. I used to be quite indifferent to it, but I cannot be indifferent now. Indifferent when I am in danger of death? Indifferent when I may, within the next few minutes, know all that is to be known of eternal things? Careless where eternity is concerned? No, my God, my madness is now over! Behold, I turn to You! I cannot thus answer the question."
 
@@ -99,7 +96,7 @@ die?"
 
 Oh, may the force of this exhortation come home to you—"Turn you, turn you from your evil ways, for why will you die, house of Israel?" May the Lord put His arm to this work and then great good shall be done—and His shall be the Glory! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH3:12-25'
+## Exposition by C. H. Spurgeon: Jeremiah 3:12-25'
 
 Verse 12-14. Go and proclaim these words toward the north, and say, Return, backsliding Israel, says the LORD; and I will not cause My anger to fall upon you: for I am merciful, says the LORD, and I will not stay angry forever Only acknowledge your iniquity, that you have transgressed against the LORD your God, and have scattered your ways to the strangers under every green tree, and you have not obeyed My voice, says the LORD. Turn, O backsliding children, says the LORD; for I am married unto you. There is a mixed figure here, but there is no mixed sense—children and yet married unto Him. The bond was a double one—they were begotten and betrothed. God cares little about the rules of human oratory and formal eloquence. If His meaning can only be made perfectly plain, He freely breaks through all such rules and regulations as we properly make for our talk. "O backsliding children I am married unto you."
 
@@ -138,7 +135,6 @@ from Him, for they had forgotten the Lord their God. But that sorrow had somethi
 23\. Truly in vain is salvation hoped for from the hills, and from the multitude of mountains. See, they were trying to get it from their high places! They lifted up their voices to their gods, but they only learned to mourn and weep. "In vain is salvation hoped for from the hills and from the multitude of mountains."
 
 23-25. Truly in the LORD our God is the salvation of Israel For shame has devoured the labor of our fathers from our youth; their flocks and their herds, their sons and their daughters. We lie down in our shame, and our confusion covers us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God. May such repentance as that fall to the lot of any wanderers who listen now to my words!
-
 
 ---
 [[Sermon 3323 The Believer's Glad Prospects|← #3323]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3325 Solace for Sad Hearts|#3325 →]]

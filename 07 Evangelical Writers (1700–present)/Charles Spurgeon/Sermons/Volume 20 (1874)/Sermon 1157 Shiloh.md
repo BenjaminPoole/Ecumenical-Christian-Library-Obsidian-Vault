@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # Shiloh
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1157
-
-DELIVERED BY.
 
 > "Until Shiloh comes; and unto Him shall the gathering of the people be." Genesis 49:10.
 
@@ -148,7 +145,6 @@ And now He comes, whose pomp is beyond conception, and the books are opened. As 
 Shall it be so? Oh! shall it be so? God grant it may not be so! May there be another book opened, which is the Book of Life, and in that book may your name stand recorded as one who humbly trusted in the finished work of Jesus and therefore were accepted in the Beloved and found mercy on that day! The Lord grant it to every one of you. I may not ever again speak to some of you as long as I live. This, then, I say to you while your ears are open and attentive to my voice—Lay hold on eternal life! Put your trust in Jesus!
 
 And if, Beloved, any of you to whom I am so familiar, to whom I speak so often—if you should depart from the world while I am absent, or if I should never return but find a grave in some distant land—I charge you, meet me on the other side of Jordan! I charge you, meet me at my Master's right hand! I charge you, cling to the atoning Sacrifice by faith and we will meet together where He sits and reigns—our best Beloved—the Judah, the Jesus, whom all His Brethren shall praise—the Shiloh, the Prince of Peace—for whose glorious Second Advent all His saints look, and to whom they shall be gathered in fullness of joy forever and forever. Amen and Amen!
-
 
 ---
 [[Sermon 1156 Rubbish|← #1156]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1158 The Sieve|#1158 →]]

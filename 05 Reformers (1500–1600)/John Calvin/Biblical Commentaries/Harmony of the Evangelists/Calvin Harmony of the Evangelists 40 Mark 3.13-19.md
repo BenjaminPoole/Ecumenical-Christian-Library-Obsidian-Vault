@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 40. Mark 3:13-19;Luke 6:12-19
-
-**MARK 3:13-19; LUKE 6:12-19**
 
 **13**. And he went up into a mountain, and called to him whom he would: and they came to him. **14**. And he appointed twelve to be with him, and send them forth to preach, **15**. And to have powers of healing diseases, and of casting out devils. **16**. And to Simon he gave the name Peter. **17**. And James th son of Zebedee, and John, the brother of James: and he gave them the names of Boanerges, which is, The sons of thunder. **18**. And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James (son) of Alpheus, and Thaddeus, and Simon the Canaanite, **19**. And Judas Iscariot, who also betrayed him.
 

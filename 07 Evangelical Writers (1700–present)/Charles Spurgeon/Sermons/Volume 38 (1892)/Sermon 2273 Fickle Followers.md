@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Fickle Followers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2273
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass, that, as they went in the way, a certain man said unto Him, Lord, I will follow You wherever You go. And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of Man has not where to lay His head. And He said unto another, FollowMe. But he said, Lord, suffer me first to go and bury my father. Jesus said unto him, Let the dead bury their dead: but go you and preach the Kingdom of God. And another also said, Lord, I will follow You; but let me first go bid them farewell, which are at home at my house. And Jesus said unto him, No man, having put his hand to the plow, and looking back, is fit for the Kingdom of God." Luke 9:57-62.
 
@@ -57,7 +54,7 @@ Do not dare to be added to the Church of God, unless heart, soul, and spirit—y
 
 II. Now, secondly, THERE ARE SOME WOULD-BE FOLLOWERS OF CHRIST WHO DO NOT PUT CHRIST
 
-FIRST.
+## First
 
 The second case mentioned in this chapter is different from the first—"And He said unto another, Follow Me." This man was not a volunteer. The first man was—and he broke down in his preliminary examination. This man was, so to speak, a pressed man, impressed by the command of Christ, "Follow Me," and he broke down, too. Every true volunteer into the army of Christ is a pressed man. The Grace of God has pressed him in, but everyone who is impressed into the army of Christ is also a volunteer, for he is made willing in the day of God's power, so that, in the Kingdom of Christ, the pressed man and the volunteer are the same.
 
@@ -99,7 +96,7 @@ If there is anything in this discourse that belongs to any of you, will you kind
 
 May God bless these words of mine to the warning of many, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON LUKE937-62.
+## Exposition by C. H. Spurgeon Luke 937-62
 
 Our Lord had been on the mountain and had been transfigured. When He came down, the first person that He met was the devil, with whom He had to come in contact. Whenever you or I get up on the mountaintop and have a very happy and delightful experience, we may expect to be in a battle before long. Our joy is, however, a preparation for the conflict—it nerves our spirit and makes us strong to meet the great enemy of our souls.
 
@@ -149,8 +146,7 @@ somebody! Somebody? God will not use you as long as you are somebody! But when y
 
 57-62. And it came to pass, that, as they went in the way, a certain man said unto Him, Lord, I will follow You wherever You go. And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of Man has not where to lay His head. And He said unto another, Follow Me. But he said, Lord, suffer me first to go and bury my father. Jesus said unto him, Let the dead bury their dead: but go you and preach the Kingdom of God. And another also said, Lord, I will follow You; but let me first go bid them farewell, which are at home at my house. And Jesus said unto him, No man, having put his hand to the plow, and looking back, is fit for the Kingdom of God.
 
-HYMNS FROM "OUR OWN HYMN BOOK"^5, 636, 667.
-
+## Hymns from "Our Own Hymn Book"^5, 636, 667
 
 ---
 [[Sermon 2272 Longing To Find God|← #2272]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2274 God's People Melted and Tried|#2274 →]]

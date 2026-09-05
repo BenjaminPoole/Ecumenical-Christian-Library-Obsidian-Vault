@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Return! Return!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2931
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Return, you backsliding Israel. Turn, O backsliding children. Return, you backsliding children." Jeremiah 3:12,14,22.
 
@@ -145,7 +142,7 @@ Last of all, if you wish to be kept from wandering away from the Lord, come back
 
 Therefore, poor Backslider, come here and breathe the prayer to your Heavenly Father, not merely to receive you, but also to keep you, so that from now on you shall never again go astray from Him who keeps the feet of His saints. "And now unto Him that is able to keep you from falling, and to present you faultless before the Presence of His Glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and forever. Amen."
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH2:20-37.
+## Exposition by C. H. Spurgeon: Jeremiah 2:20-37
 
 Verses 20-26. For of old I have broken your yoke and burst your bands, and you said, I will not transgress, when upon every high hill and under every green tree you lay down, playing the harlot. Yet I had planted you a noble vine, a seed of highest nobility. How, then, have you turned before Me into the degenerate plant of an alien vine? For though you wash yourself with lye and use much soap, yet your iniquity is marked before Me, says the Lord GOD. How can you say, I am not polluted, I have not gone after the Baals? See your way in the valley, know what you have done: you are a swift dromedary breaking loose in her ways; a wild donkey used to the wilderness, that sniffs the wind in her desire; in her time of mating who can turn her away? All they that seek her will not weary themselves. In her month they will find her Withholdyour foot from being unshod, andyour throat from thirst But you said, There is no hope. No, for Ihave loved strangers and after them will I go. As the thief is ashamed when he is found out And there are many people whose repentance is of no more value than the shame of a thief when he is found out. Oh, for something better and deeper than this!
 
@@ -174,7 +171,6 @@ of God.
 37\. Indeed, you will go forth from him with your hands on your head—You shall go forth as a captive, with your hands bound above your head, or, like one in great pain or sorrow, you shall hold your hands to your head.
 
 37\. For the LORD has rejected your confidences, and you shall not prosper in them. May God, in His mercy, save all of us from false confidences, both now and throughout our whole lives!
-
 
 ---
 [[Sermon 2930 'Hiding in You!'|← #2930]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2932 False Justification and True|#2932 →]]

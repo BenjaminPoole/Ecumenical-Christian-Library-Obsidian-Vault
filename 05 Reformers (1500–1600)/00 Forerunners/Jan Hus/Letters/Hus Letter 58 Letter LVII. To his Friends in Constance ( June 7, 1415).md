@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 58. Letter LVII. To his Friends in Constance ( June 7, 1415)
-
-LETTER LVII. TO HIS FRIENDS IN CONSTANCE ( June 7, 1415)
 
 An account of the day's trial ; Doctors break down ; " Wyclif wanted to destroy all learning " ; " This fellow is deceiving the Council"; "Stick to your argument"; "I thought •• there would be greater order " ; Cardinal Bronhiaco and Hua ; " You must abjure " . . . . » . . 214-16
 

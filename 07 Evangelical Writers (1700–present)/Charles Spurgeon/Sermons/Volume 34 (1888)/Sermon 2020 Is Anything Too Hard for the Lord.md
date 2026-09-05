@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # "Is Anything Too Hard for the Lord?"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2020
 
-DELIVERED ON LORD'S DAY MORNING, APRIL 22, 1888,.
+*Delivered on Lord's Day Morning, April 22, 1888*
 
 > "Then came the word of the Lord unto Jeremiah, saying, Behold, I am the Lord, the God of all flesh: is there anything too hard for Me?" Jeremiah 32:26,27.
 
@@ -168,7 +167,6 @@ On Your kind arms I fall;
 Be You my strength and righteousness,
 
 My Jesus and my All."
-
 
 ---
 [[Sermon 2018 Cured At Last!|← #2018]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2021 Nathanael—Or, the Ready Believer and His Reward|#2021 →]]

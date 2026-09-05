@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Zephaniah 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Lecture One Hundred And Eighteenth
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The First Note of My Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1492
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 31, 1879,.
+*Delivered on Lord's-Day Morning, August 31, 1879*
 
 > "Who forgives all your iniquities." Psalm 103:3.
 
@@ -148,7 +147,6 @@ What is more, this forgiveness could not be purchased by an eternity of sufferin
 If you ask me how He procured forgiveness, I answer that He shows His hands—the scars are there. He shows His feet. He shows His side—the scars of His wounds are there. He shows His heart that was broken for our guilt. He shows His blessed Person which underwent the baptism of Divine wrath that He might deliver us from being plunged into those tremendous deeps! O Son of God, You have redeemed us, but what a price have You paid in the bloody sweat of Your face and the sorrowful breaking of Your heart! And now, today, we accept freely, gladly, what You have so dearly earned!
 
 What else do we say? Why, that if we are pardoned through such an Atonement, then are we Christ's forever! We ought to show deep gratitude and the least we can do is to confess, "We are not our own!" We ought to go out singing with all our heart, "He has put away my transgressions and covered my iniquities." The Lord grant it may be so, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1491 Remember Lot's Wife|← #1491]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1493 The Glory of God in the Face of Jesus Christ|#1493 →]]

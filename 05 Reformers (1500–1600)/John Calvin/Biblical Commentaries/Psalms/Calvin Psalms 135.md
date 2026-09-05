@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 135
-
-**Psalm 135**
 
 An exhortation to praise God, both for his goodness specially shown to his chosen people, and for his power and glory apparent in the world at large. A contrast is drawn between idols, which had but a vain show of divinity, and the God of Israel, who had established his claim to be considered the only true God by clear and indubitable proofs, and this with the view of leading his people the more cheerfully to praise him, and submit to his government.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Strengthening Medicine For God's Servants
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1214
-
-DELIVERED BY.
 
 > "I will not fail you, nor forsake you." Joshua 1:5.
 
@@ -144,7 +141,6 @@ me."
 Blessed be the Lord forever, who has taught my poor heart to believe in Himself and to live upon unseen realities, and rest in a faithful God! There is no peace or joy like it, or worthy to be mentioned in the same day. God grant it to each one of you, Beloved, for His name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 63. HYMNS FROM "OUR OWN HYMN BOOK"—34 (VERS. 1), 742, 745.
-
 
 ---
 [[Sermon 1213 Faith, And The Witness Upon Which It Is Founded|← #1213]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1215 Solemn Pleadings for Revival|#1215 →]]

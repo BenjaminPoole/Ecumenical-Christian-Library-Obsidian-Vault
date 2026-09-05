@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Believers Tested by Trials
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2732
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, Igo forward, but He is not there; and backward, but I cannot perceive Him: on the left hand, where He works, but I cannot behold Him: He hides Himself on the right hand, that I cannot see Him: but He knows the way that I take: when He has tried me, I shall come forth as gold." Job 23:8-10.
 
@@ -117,7 +114,7 @@ When we put on our new clothes, this body that shall have passed through God's t
 
 Beloved, note well this closing word. God is here. You need not go forward to find Him, or backward to hunt after Him, or on the left to search for Him, or on the right to see Him. He is still with His people, as He said, "Lo, I am with you always, even unto the end of the world." "Fear not: for I have redeemed you. I have called you by your name; you are Mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overflow you: when you walk through the fire, you shall not be burned; neither shall the flame kindle upon you." Oh, seek Him, then, every one of you, and God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB 23; 24.
+## Exposition by C. H. Spurgeon: Job 23; 24
 
 Always remember, dear Friends, that one of the great lessons of the Book of Job is this—that we may never judge a man's character by his condition. The best of men may have the most of suffering and of poverty, while the worst of men may prosper in everything. Do not imagine because a man suddenly becomes very poor or a great sufferer, that therefore he must be a great sinner—otherwise, you will often condemn the innocent, and you will, at the same time, be guilty of flattering the wicked. Job's friends had cruelly told him that he must be a hypocrite, or else he would not have lost his property and have been smitten with such a remarkable sickness. So he appeals to God against their unrighteous judgment.
 
@@ -166,7 +163,6 @@ lays not folly to them. He lets them alone, leaves them to do as they please. So
 21-24. He preys on the barren that bears not: and does not good to the widow. But God draws the mighty away with His power: He rises up, but no man is sure of life. Though it be given him to be in safety, whereon he rests; yet His eyes are upon their ways. They are exalted for a little while, but are gone and brought low; they are taken out of the way as all others, and cut off as the tops of the ears of corn. In the East, they generally reap their harvest by just taking off the tops of the ears of corn and leaving the straw. Thus will the wicked be cut off.
 
 25\. And if it is not so now, who will make me a liar, and make my speech worth nothing? Job challenges all men to contradict what he affirms—that the righteous may be greater sufferers, and the wicked may for a while prosper, but that God will, in the end, overthrow the ungodly and establish the righteous.
-
 
 ---
 [[Sermon 2731 Bringing Sinners to the Savior|← #2731]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2733 Christ's Manifestation to Mary Magdalene|#2733 →]]

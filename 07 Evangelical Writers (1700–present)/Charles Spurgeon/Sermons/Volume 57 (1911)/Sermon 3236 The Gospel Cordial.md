@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Gospel Cordial
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3236
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Give strong drink unto him that is ready to perish, and wine unto those that are of heavy heart. Let him drink and forget his poverty, and remember his misery no more." Proverbs 31:6, 7.
 
@@ -81,7 +78,7 @@ Are you still afraid to come to Jesus? Then let me remind you of that poor woman
 
 There is the Divine Cordial which we are commanded to place within your reach. Drink it and forget your poverty and remember your misery no more. God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN11:1-44.
+## Exposition by C. H. Spurgeon: John 11:1-44
 
 Verse 1. Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha. To many people it may have seemed an event of no particular importance that "a certain man was sick, named Lazarus, of Bethany," but great consequences often depend upon what appear to us to be very minor matters—and we must not despise the least of the Lord's people, nor think little of anything that concerns them. When a king or an emperor is ill, the news is published in all the papers, but when a friend of the Lord Jesus, a man "named Lazarus of Bethany" was sick, that event was recorded in the Bible because of something very remarkable which was to follow that sickness! Lazarus was a son of God—and Divine Grace makes greater distinctions than earthly rank and worldly honors ever can make!
 
@@ -146,7 +143,6 @@ Martha's title for Christ might be rendered, "The Teacher, The Authoritative Tea
 unto them, Loosen him, and let him go. [See Sermons #1052, Volume 18—THE SPHERE OF INSTRUMENTALITY; Sermon #1776, Volume 30— UNBINDING LAZARUS and #2554 Volume 44—THE SPIRITUAL RESURRECTION.]
 
 See what wonders our Lord can work and ask Him to work similar miracles in the spiritual realm—to raise to life those who are dead in trespasses and sins!
-
 
 ---
 [[Sermon 3235 The Hope That Purifies|← #3235]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3237 Our Lord's Preaching|#3237 →]]

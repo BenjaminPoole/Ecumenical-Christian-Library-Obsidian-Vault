@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Daniel 9:1-3
 
@@ -27,7 +26,7 @@ In this chapter Daniel will explain to us two things. First, how very ardently h
 
 ## Prayer Lecture 43
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as in these days thou hast called us to a similar lot to that which the fathers under the Law formerly experienced, and as thou didst confirm them in patience, and arm them for constancy in warfare, and render them superior in all conflicts with Satan and the world. Grant, I pray thee, that we at this day, whom thou wishest to be joined to them, may become proficient in thy word. May we look forward to bearing the cross throughout our whole life. May we be prepared for the contest, and prefer miserable affliction under the standard of the cross, to spending a secure and luxurious life in our own enjoyments, and thus becoming deprived of that hope of victory which thou hast promised us, and whose fruit thou hast laid up for us in heaven, through Jesus Christ our Lord. — Amen.
 
@@ -62,7 +61,7 @@ With reference to the epithets *great and terrible,* we must maintain what I hav
 
 ## Prayer Lecture 44
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as at the present time thou dost deservedly chastise us for our sins, according to the example of thine ancient people, that we may turn our face to thee with true penitence and humility: May we throw ourselves suppliantly and prostrately before thee; and, despairing of ourselves, place our only hope in thy pity which thou hast promised us. May we rely on that adoption which is founded on and sanctioned by thine only-begotten Son, and never hesitate to come to thee as a father whenever we fly to thee. Meanwhile, do thou so thoroughly affect our minds, that we may not only pray to thee as a matter of duty, but truly and seriously take refuge in thee, and be touched with a sense of our sins, and never doubt thy propitious disposition towards us, in the name of the same thy Son our Lord. — Amen.
 
@@ -92,7 +91,7 @@ He next subjoins, *To thee, O Lord, belongs righteousness, and to us confusion o
 
 ## Prayer Lecture 45
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as no other way of access to thee is open for us except through unfeigned humility, that we may often learn to abase ourselves with feelings of true repentance. May we be so displeased with ourselves as not to be satisfied with a single confession of our iniquities; but may we continue in the same state of meditation, and be more and more penetrated with real grief. Then may we fly to thy mercy, prostrate ourselves before thee in silence, and acknowledge no other hope but thy pity and the intercession of thine only-begotten Son. May we be so reconciled to thee, as not only to be absolved from our sins, but also governed throughout the whole course of our life by thy Holy Spirit, until at length we enjoy the victory in every kind of contest, and arrive at that blessed rest which thou hast prepared for us by the same our Lord Jesus Christ. — Amen.
 
@@ -146,7 +145,7 @@ He repeats what he had already said, without any superfluity, shewing how God’
 
 ## Prayer Lecture 46
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may learn seriously to consider in how many ways we become guilty before thee, especially while we daily continue to provoke thy wrath against us. May we be humbled by true and serious repentance, and fly eagerly to thee, as nothing is left to us but thy pity alone; when cast down and confounded, and reduced to nothing in ourselves, may we fly to this sacred anchor, as thou art easily entreated, and hast promised to act as a father of mercies to all sinners who seek thee. Thus may we approach thee with true penitence, and relying on thy goodness, never doubt the granting of our requests; and being freed by thy mercy from the tyranny of Satan and of sin, may we be governed by thy Holy Spirit, and so directed in the way of righteousness as to glorify thy name throughout our lives, till we arrive at that happy and immortal life which we know to be laid up in heaven for us, by Christ our Lord. — Amen.
 
@@ -188,7 +187,7 @@ His next prayer is, *Do thou who art our God hear the prayer of thy servant, and
 
 ## Prayer Lecture 47
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou hast deigned to gather us once among thy people, and hast wished us also to bear thy name, and that of thine only-begotten Son; although we so often provoke thine anger by our sins, and never cease to heap evil upon evil: Grant that we may never be exposed as a laughing-stock and spectacle, to the disgrace of thy sacred name. As, therefore, thou now seest the impious seizing all occasions of grossly slandering thyself, and thy sacred gospel, and the name of thine only-begotten Son, do not permit them, I pray thee, petulantly to insult thee. May thy Spirit so govern us, that we may desire to glorify thy name. May it be glorified in spite of Satan and all the impious, until we are gathered into that celestial kingdom which thou hast promised us in the same Christ our Lord.-Amen.
 
@@ -236,7 +235,7 @@ He next adds, *Gabriel came;* but I cannot complete my comments on this occurren
 
 ## Prayer Lecture 48
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may learn more and more fully to probe ourselves, and to discover the faults of which we are guilty: nay, may the serious weight of our wickedness truly humble us when we come into thy sight, and call upon thee even from the lowest depths. May we never cease to hope for thy grace; may we be elevated by that hope to the highest heavens, and be firmly assured that thou wilt always prove thyself a propitious Father to us. And as thou hast granted us a Mediator who may procure favor for us from thee, may we never hesitate to approach thee familiarly, through reliance on him. Whenever our miseries induce us to despair, may we never succumb to it; but with unconquered fortitude of mind, may we persevere in invoking thy name and imploring thy pity, until we perceive the fruit of our prayers, and after being freed from all warfare, may we at length arrive at that blessed rest which is laid up for us in heaven, by the same, Christ our Lord. — Amen.
 
@@ -276,7 +275,7 @@ He next adds, *To seal up the vision and the prophecy* Here the word “to seal�
 
 ## Prayer Lecture 49
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as through our extreme blindness, we cannot gaze upon open daylight, that we may be enlightened by thy Spirit. May we profit by all thy prophecies by which thou wishest to direct us to thine only-begotten Son; embrace him with true and certain faith, and remain obedient to him as our ruler and guide; and after we have passed through this world, may we at length arrive at that heavenly rest which has been obtained for us by the blood of the same thy Son. — Amen.
 
@@ -310,7 +309,7 @@ We must now turn to the sixty-two weeks; and if I cannot satisfy every one, I sh
 
 ## Prayer Lecture 50
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thy servants before the setting forth of thine only-begotten Son were sustained by those oracles which had not then been realized by the event, that we at; this day may learn to put our trust in our Lord, who has so clearly revealed himself to us by his Gospel. May we stand so firm and constant in the faith of that Gospel, that we may never be tossed about by the disturbances and tumults of this world. May we ever proceed in the course of thy holy calling, till at length we are released from all contests, and arrive at that blessed rest which is laid up for us in heaven, by the same our Lord Jesus Christ. — Amen.
 
@@ -344,7 +343,7 @@ The angel now returns to Christ. We have explained why he made mention of the co
 
 ## Prayer Lecture 51
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since all the treasures of thy goodness and indulgence were so liberally diffused, when thine only-begotten Son appeared, and are now daily offered to us through the Gospel: Grant, I say, that we may not deprive ourselves of such important blessings by our ingratitude. May we embrace thy Son with true faith; and enjoy the benefit of the redemption which he has procured for us. Being cleansed and purged by his blood, may we be acceptable in thy sight, and venture with full and certain confidence to call thee Father. May we fly to thy pity and assistance in all our miseries and troubles, until at length thou shalt gather us into that eternal rest, which has been obtained for us through the blood of thine only-begotten Son. — Amen.
 

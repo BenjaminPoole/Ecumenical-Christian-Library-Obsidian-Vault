@@ -12,16 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Free Grace a Motive for Free Giving
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1542
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 13, 1880,.
+*Delivered on Lord's-Day Morning, June 13, 1880*
 
 > "Now our Lord Jesus Christ Himself and God, even our Father, which has loved us and has given us everlasting consolation and good hope through Grace, comfort your hearts and establish you in every good word and work." 2 Thessalonians 2:16,17.
 
-ON BEHALF OF THE FREE HOSPITALS OF LONDON.
+## On Behalf of the Free Hospitals of London
 
 THE Thessalonian saints had been much persecuted and afflicted and they had exhibited great faith, so much so that Paul says, "We ourselves glory in you in the Church of God for your patience and faith." As if they had not enough trouble coming from the outside, there sprang up in their midst certain hot-headed teachers who declared that the Day of Christ was immediately at hand. The coming of the Lord is the most grand hope of the Church and it is an evidence of the extreme power of error to poison and pervert the Truth of God that a hope which is our brightest consolation can be so twisted as to cause the saints to be "shaken in mind" and troubled.
 
@@ -146,7 +145,6 @@ that one with a trumpet tongue could speak to our nobles, our merchants, our tra
 1 ask you, dear Friends, according as God has entrusted you with this world's wealth, to help the hospitals! I do this with all the greater confidence because you are Believers in the Doctrines of Free Grace. Give freely, for you have received freely! Remember that yesterday and today Jews, Catholics, Protestants, people of all sects have heartily joined in this common effort for suffering humanity and if those who believe in the Free Grace of God are behind-hand—no—if they are not among the foremost in the race, it will be to the dishonor of the glorious Gospel which they profess! The Lord accept your offerings as you now present them!
 
 I hear the sound of your gold and silver already, for you are eager in the work of mercy. The collectors are a little too rapid in their work, but I will not restrain them, for it is a fit ending to my discourse that you should hasten to pass from word to work. In so doing may God bless you. Amen.
-
 
 ---
 [[Sermon 1541 Unprofitable Servants|← #1541]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1543 The Sheep Before The Shearers|#1543 →]]

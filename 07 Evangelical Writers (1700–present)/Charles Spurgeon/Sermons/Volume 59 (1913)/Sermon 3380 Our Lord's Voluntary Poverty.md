@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Our Lord's Voluntary Poverty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3380
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For you know the Grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor; that you, through His poverty, might be rich." 2 Corinthians 8:9.
 
@@ -25,7 +22,7 @@ THE Apostle was anxious to stir up the Corinthian Church to generosity. They wer
 
 But even this argument is a poor one compared with that which the Apostle was more constantly using, namely, the example of Christ, the Church's great Head and Exemplar. He deals, indeed, an efficient blow at all selfishness when, leaving the Churches of Macedonia out of the question, he says, "You know the Grace of our Lord Jesus Christ." Oh, that blessed Master of ours! Surely He is useful to us in ten thousand ways! There is not a single part of Him—there is no position He takes, no action He performs, no word that drops from His lips, no thought of His heart, no aspect of His matchless Character that is not serviceable to us, His people! Even in His poverty He becomes our Instructor, just as in His death He becomes our Savior. Without staying longer in the text, we shall, first of all, ask you to consider the example presented to us, contemplating it in its various phases. And then, secondly, let me, in few but earnest words, urge you to follow His example in acts of gratitude.
 
-I. THE EXAMPLE PRESENTED TO US.
+## I. The Example Presented to Us
 
 It is that of our Lord, of whom Paul said, "You know the Grace of our Lord Jesus Christ." It seems, then, that Christ's coming from Heaven to earth to suffer for us is here called, "Grace." It was an act of Grace on His part—an act purely gratuitous! He was not bound to have done it. We did not deserve it at His hands. It was no foreseen merit of ours, or of any other kind which could have been potent to attract Him from the skies and drag Him to the manger and the tomb! But He came as an act of free mercy to undeserving sinners. It was Grace which was the source and fountain of His coming. That eternal Love of God, by which we were first chosen, was the same Love which sent the Savior to redeem the chosen. It was that Grace from which all Covenant mercies spring—the ancient wellhead of distinguishing Grace— which brought the Savior here! It was because He, being God, was Love. Because He, being God, was full of Grace and Truth, that He, therefore, left the realms above that He might lift us up to them by His coming down from them into the depths of our misery! "You know the Grace of our Lord Jesus Christ." We ought to perpetually gaze upon the Cross, I
 
@@ -81,7 +78,7 @@ Well, if it is so, that Christ has made us rich, I hope it is not fiction or fan
 
 And this brings me to the last matter, which is, in a few words—
 
-II. TO EXHORT YOU TO PRACTICALLY CARRY OUT THE EXAMPLE OF CHRIST.
+## II. To Exhort You to Practically Carry out the Example of Christ
 
 There have been some advanced Christians—I say not this of all—but there have been some advanced Christians who literally have been made able to carry out the example of the Savior. How should we honor the memory of such men as John Wesley, for instance? He might have been a fellow—as he was, indeed, of the University—and have had excellent compensation. "The Church," so called, was open to him and, no doubt, a bishopric would soon have rewarded his exertions and his eloquence. But he lived through life purely to serve his Master according to his knowledge and conviction. And when an inventory was to be made of his plate, he had but two spoons, one at Bristol and one in London. And when he died, what had he to leave? His treasure had all gone before him into Heaven and he died in poverty, having served his God with all he had, and making that the aim of his life—to live with all he had wholly to his Master's service! And such have been the lives of some of our missionaries. They have cut themselves away from all the claims of kindred and have given themselves, like the old Roman heroes in battle, who stood upon the sword and consecrated themselves to God. They have given themselves up to live and to die with never a thought of gain in this world, no, never dreaming of possessing anything as long as they lived! Such was Apostolic life and such, I believe, would be more common in the Christian Church if a high degree of Divine Grace were granted. I do not think it is the duty of most of you, nor that it will ever fall to the lot of 99 out of a hundred of you, but there are some of you—and there ought to be more—who, being
 
@@ -114,7 +111,6 @@ Now, there is a young man over yonder who thinks he is a Christian, but he has b
 Would to God some here were wholly devoted to the Master! I have been looking to see whether God would raise up among us some unusual spirits, some fiery souls, some consecrated men and women who have got the old heroic blood of ancient Christendom within their veins! May such yet arise and may each seek to follow where the Master leads the way to the praise and Glory of His Grace!
 
 Now, there are some of you who have heard all this, but I have not addressed myself to you—and yet I meant you all the while—I mean even you who are unconverted. Think of the love of Jesus in coming in the flesh and may that sweet love be a sort of latchkey to your hearts with which Christ shall open them and let Himself in! If He has knocked and you have not opened, I trust He will open the door, Himself, by His own love—and may you be His tonight! If you so become His, be really His! You have served the devil—now serve Him! If you must serve Christ, do not serve Him with half your hearts—serve Him and no mistake. Give Him your whole soul. If He is worth having, He is worth having altogether and worth giving your whole soul. So may you do—and the Master shall have the praise evermore! Amen.
-
 
 ---
 [[Sermon 3379 Rough, But Friendly|← #3379]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3381 The Broken Fence|#3381 →]]

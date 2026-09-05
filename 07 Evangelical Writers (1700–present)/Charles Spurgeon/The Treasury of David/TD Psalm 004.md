@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 4
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -150,12 +149,11 @@ How beautiful is *sleep*— The *sleep* that Christians know! Ye mourners! cease
 
 *Verses* 2 *to* 8. The means which a believer should use to win the ungodly to Christ. (1) Expostulation, verse 2. (2) Instruction, verse 3. (3) Exhortation, verses 4, 5. (4) Testimony to the blessedness of true religion as in verses 6, 7. (5) Exemplification of that testimony by the peace of faith, verse 8.
 
-WORKS UPON THE FOURTH PSALM
+## Works upon the Fourth Psalm
 
 *Meditations, Critical and Practical, on Psalm IV.,* in Archbishop Leighton's Works.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 003|← Psalm 3]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 005|Psalm 5 →]]

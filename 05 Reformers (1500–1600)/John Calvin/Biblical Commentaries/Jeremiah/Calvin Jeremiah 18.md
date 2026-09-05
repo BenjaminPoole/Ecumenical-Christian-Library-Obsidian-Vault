@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 18
 
-**CHAPTER 18**
+***Chapter 18***
 
 ## Lecture Seventieth
 
@@ -106,7 +105,7 @@ Then the Prophet adds what shews how hopeless was the impiety of the people, for
 
 ## Prayer Lecture 70
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we stand or fall at thy will, we may be conscious of our weakness and frailty, and constantly remember that not only our life is a shadow, but that we are wholly nothing, and thus learn to trust in thee alone, and to depend on thee alone and on thy good pleasure; and as it is thine to begin and to complete whatever belongs to our salvation, may we in real fear and trembling submit ourselves to thee, and proceed in the course of our calling, ever calling on thee, and casting all our cares into thy bosom, until being at length freed from all dangers, we shall be gathered into that eternal and blessed rest which has been obtained for us by’ the blood of thine only-begotten Son. — Amen.
 
@@ -186,7 +185,7 @@ Then follows a commination, that God would *turn to them the neck*, or the back,
 
 ## Prayer Lecture 71
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may in due time anticipate thy wrath, and never so kindle it by our perverseness as to preclude every remedy; and then also when thou for a time chastisest us, do not wholly cast us away, but let this resort ever remain to us, to seek thee in the day of calamity and to find thee accessible, so that being reunited to thee we may find that thou rememberest mercy even in wrath, until we shall enjoy a full and real participation of thy favor and paternal love in thy celestial kingdom, which has been procured for us by the blood of thine only-begotten Son. — Amen.
 
@@ -272,7 +271,7 @@ I shall not be able to explain this verse to-day.
 
 ## Prayer Lecture 72
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou exhortest us daily, and even constantly to repent, by the doctrine of thy Gospel, and shewest thyself to us reconcilable, — O grant, that we may not disregard so incomparable a benefit, but with resigned minds devote ourselves wholly to thee, and that we may not so far provoke thy wrath as to be altogether reiected by thee, and to find at last that there is no mercy for us; but may we anticipate extreme judgment, while the time of thy good-will continues, and thus embrace the benefit of reconciliation which thou offerest to us, so that being thankful to thee and accepted in thine only-begotten Son, we may proceed in the course of our vocation, until we shall at length enjoy that eternal inheritance which thine only-begotten Son has obtained for us by his own blood. — Amen.
 

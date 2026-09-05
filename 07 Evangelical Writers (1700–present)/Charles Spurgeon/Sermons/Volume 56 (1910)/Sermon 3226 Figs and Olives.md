@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Figs and Olives
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3226
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Can the fig tree, my brethren, bear olives?" James 3:12.
 
@@ -95,7 +92,7 @@ If you will do this, that faith-look of yours will be the evidence that this new
 
 May the Lord enable you to have done with yourself and to have begun with Him! The end of the creature is the beginning of the Creator. When you acknowledge that you cannot save yourself and trust Him to save you, He will do it! Cast yourself upon Him this very moment and then, by an act of Almighty Grace, the fig tree shall be changed into a fruitful olive tree and your fruit shall be unto holiness—and the end everlasting life!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 56; 57.
+## Exposition by C. H. Spurgeon: Psalm 56; 57
 
 Psalm 56:1. Be merciful unto me, O God, for man would swallow me up. Fighting all day he oppresses me. "Man has no mercy upon me, but, O God, be You merciful to me! If Your Justice does for a while let my enemies loose upon me, let Your mercy diminish their power over me, for they are very cruel. They would make a complete end of me if they could, utterly devouring me."
 
@@ -128,7 +125,6 @@ me," so it may be read. "That perfects all His mercies, all His promises—and w
 3-5. He shall send from Heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth His mercy andHis truth. My soulis among lions: andllie even among them that are set on fire, even the sons ofmen whose teeth are spears andarrows, and their tongue a sharp sword. Be You exalted, O God, above the heavens; let Your Glory be above all the earth. "Exalt Yourself by overcoming all Your enemies. If they are very great, be You greater still. If they are mighty, be You the more mighty in my defense and so glorify Your holy name."
 
 6-11. They have prepared a net for my steps, my soul is bowed down: they have dug a pit before me, into the midst whereof they are fallen themselves. Selah. My heart is fixed. God, my heart is fixed: I willsing and give praise. Awake, my glory; awake, psaltery andharp: I myself will awake early. I willpraise You, OLord, among thepeople: I willsing unto You among the nations. For Your mercy is great unto the heavens and Your truth unto the clouds. Be You exalted, O God, above the heavens; let Your Glory be above all the earth.
-
 
 ---
 [[Sermon 3225 Finding and Following Christ|← #3225]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3227 The Secret of Happiness|#3227 →]]

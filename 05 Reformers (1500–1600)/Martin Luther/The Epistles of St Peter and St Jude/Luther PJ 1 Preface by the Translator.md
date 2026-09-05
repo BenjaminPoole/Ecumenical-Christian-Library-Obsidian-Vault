@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. Preface by the Translator
-
-### PREFACE BY THE TRANSLATOR.
 
 Several years ago, among the dusty piles of old pamphlets stored away upon the upper shelves of the Union Theological Seminary library, I met with several works of Luther, in the original editions, as they were issued during his lifetime from his press at Wittemberg. Among them were his Commentaries, or rather Lectures, on the Epistles of Peter and Jude.* The forbidding aspect of the page, with the obsolete spelling of its words, and its somewhat coarse typography, was rather an incitement to master it; for here was Luther, presenting himself to the eye of the reader just as, more than three hundred years ago, he presented himself to the eyes of thousands of his countrymen. Upon a partial perusal of the Commentary, I became satisfied that it would repay a more attentive study; and finding, upon investigation, that it had never been translated into English, I set myself to the task which had been so long neglected. The pleasing labor was accomplished, and the manuscript laid aside for several years. The conviction, confirmed by a re-perusal of it, that others besides myself would be interested in the work, has led me to determine on its publication.
 

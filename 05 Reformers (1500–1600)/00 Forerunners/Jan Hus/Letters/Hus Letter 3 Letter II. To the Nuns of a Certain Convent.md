@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 3. Letter II. To the Nuns of a Certain Convent
-
-LETTER II. TO THE NUNS OF A CERTAIN CONVENT
 
 (September 1408)
 

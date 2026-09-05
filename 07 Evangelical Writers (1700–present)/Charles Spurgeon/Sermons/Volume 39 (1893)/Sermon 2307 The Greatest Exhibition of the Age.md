@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Greatest Exhibition of the Age
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2307
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as often as you eat this bread, and drink this cup, you do show the Lord's death till He comes.'" 1 Corinthians 11:26.
 
@@ -127,7 +124,7 @@ Severed only 'Till He come!'"
 
 Could you keep on feasting "till He comes," my unsaved Hearer? I think that you had better weep and mourn, repent and believe, and so get ready for His appearance! But those who are ready may just keep on feasting upon Him and rejoicing in Him, till He puts in His last and glorious appearance! God help us to continue so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. JOHN161-20.
+## Exposition by C. H. Spurgeon. John 161-20
 
 This chapter contains some of the most precious Words that the Lord Jesus uttered before He died upon the Cross.
 
@@ -176,7 +173,6 @@ Christ!
 20\. But the world shall rejoice. But not for long—the world's joy at Christ's death was soon over.
 
 20\. And you shall be sorrowful, but your sorrow shall be turned into joy. I think we may leave off our reading at this verse, with these words to flavor our mouth all this week—"Your sorrow shall be turned into joy." God grant that it may be so with many here present, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2306 Servitude Or Service—Which|← #2306]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2308 Ten Wrong Kinds of Hearers|#2308 →]]

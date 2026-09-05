@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 31
 
-**CHAPTER 31**
+***Chapter 31***
 
 ## Jeremiah 31:1-2
 
@@ -79,7 +78,7 @@ This, then, is what the word *yet* intimates: but when he promised that there wo
 
 ## Prayer Lecture 117
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast once testified that thou art to us a Father through thine only-begotten Son, we may not only taste of that promise, but be also wholly satisfied with it, and remain in it constantly, until having gone through all evils, we may at length attain to the full manifestation of it, when thou gatherest us into that blessed rest, which is the fruit of thy eternal adoption, through the same Christ Jesus our Lord. — Amen.
 
@@ -179,7 +178,7 @@ For nothing could have been said of the Jews when expelled from their inheritanc
 
 ## Prayer Lecture 118
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast so often been pleased to receive into favor thine ancient people, though extremely provoked by their perverse wickedness, — O grant, that mercy may also at this day be shewn to us, and that though we wholly deserve to perish eternally, thou mayest yet stretch forth thine hand to us and grant to us a testimony of thy favor, so that we may be able with a cheerful mind to call on thee as our Father, and ever to entertain hope of thy mercy, until we shall be gathered into that kingdom, where we shall perfectly render to thee the sacrifice of praise, and rejoice in the fruition of that eternal life, which has been procured for us by the blood of thine only-begotten Son. — Amen.
 
@@ -282,7 +281,7 @@ He then adds, I *will turn their mourning to joy, I will console them and exhila
 
 ## Prayer Lecture 119
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are still in our state of pilgrimage, and as thou makest us partakers of thy goodness, according as thou knowest to be necessary for us, — O grant, that we, being ever reminded by thy benefits, may aspire to higher things, and may, through all the temptations with which we must contend, advance towards the goal set before us, looking for that perfect felicity in heaven, of which a few sparks only now shine before our eyes, and thus carry on a warfare under the banner of thy Son, so as not to doubt but that a triumph is prepared for us in that blessed life which has been obtained by his blood. — Amen.
 
@@ -369,7 +368,7 @@ He compares himself to an untameable steer; for steers are wanton before they ar
 
 ## Prayer Lecture 120
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are always carried away by our own vanities, and as the licentiousness and insolence of our flesh are such that we never follow thee and submit to thy will, — O grant, that we may profit more and more under thy scourges, and never perversely harden ourselves, but learn to know that even when thou appearest rigid, thou hast a regard for our salvation, so that we, turning to thee, may strive during the rest of our life to glorify thy name through thine only-begotten Son. — Amen.
 
@@ -457,7 +456,7 @@ He then says, *Apply thy heart* — he now explains himself — *apply thy heart
 
 ## Prayer Lecture 121
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as pertinacity is inbred in us, so that we always struggle against thee, and are never tractable until we are renewed by thy Spirit, — O grant, that thy chastisements by which thou wouldest restore us to a sound mind, may not prove ruinous to us, but so influence us by thy Spirit within, that we, being really humbled, may acknowledge thee as our Judge and Father — our Judge, in order that we may be displeased with ourselves, and being touched by thy judgment, we may condemn ourselves, — and our Father, in order that we may, notwithstanding, flee to that mercy which is daily offered to us in the Gospel, through Christ Jesus our Lord. — Amen.
 
@@ -568,7 +567,7 @@ We now perceive the meaning of the Prophet. And he says, *In those days,* that i
 
 ## Prayer Lecture 122
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou warnest us daily by so many evidences of thy wrath, that we may in due time repent, — O grant, that we may not be slow to consider thy work, and also the doctrine which thou addest, but anticipate thy extreme vengeance, and thus be made capable of receiving thy mercy, that as thou freely offerest it to us, we may anxiously embrace it, and also so retain it in our hearts by true faith, that thou mayest continue its course towards us, until we shall at length reach that blessed rest, which has been prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -632,7 +631,7 @@ But I cannot now proceed farther, for the clock strikes.
 
 ## Prayer Lecture 123
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast favored us with so singular a benefit as to make through thy Son a covenant which has been ratified for our salvation, — O grant, that we may become partakers of it, and know that thou so speakest with us, that thou not only shewest by thy Word what is right, but speakest also to us inwardly by thy Spirit, and thus renderest us teachable and obedient, that there may be an evidence of our adoption, and a proof that thou wilt govern and rule us, until we shall at length be really and fully united to thee through Christ our Lord. — Amen.
 
@@ -711,7 +710,7 @@ And the Prophet there compares the heavens to garments, which wear out by use, a
 
 ## Prayer Lecture 124
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we enjoy the light of the sun by day, and of the moon by night, we may learn to raise higher our eyes, and not be like the unbelieving, who have this benefit in common with us, but look forward in hope of our eternal salvation, nor doubt but that as thou settest before our eyes a proof of thy immovable constancy in these created things, so also secure and certain shall be our salvation, which is founded on thy most certain truth, which renders sure all things, until at length we come into that blessed kingdom, which has been obtained for us by the blood of thy only-begotten Son. — Amen.
 

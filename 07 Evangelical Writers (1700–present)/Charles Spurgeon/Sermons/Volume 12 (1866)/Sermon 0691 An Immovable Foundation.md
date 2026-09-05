@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # An Immovable Foundation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 691
 
-DELIVERED ON SUNDAY EVENING, MAY 13, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Evening, May 13, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "If the foundations are destroyed, what can the righteous do?" Psalm 11:3.
 
@@ -170,7 +169,6 @@ I would that some here tonight would learn to leave the treacherous path of sin 
 Come, then, with all your load of guilt, and rest at once and forever on Him who says, Come unto Me, and him that comes I will in nowise cast out. Heaven and earth may pass, but He will save to the uttermost all who come by faith to Him. God bless these remarks to you according to His will, for Jesus' sake. Amen.—
 
 "Yes! He is mine! And nothing of earthly things, Not all the charms of pleasure, wealth, or power, The fame of heroes, or the pomp of kings Could tempt me to forego His love an hour. 'Go, worthless world,'I cry, 'with all that's yours. Go I to my Savior's am, and He is mine. Whatever may change, in Him no change is seen, A glorious sun that wanes not, nor declines. Above the clouds and storms He walks unseen, And sweetly on His people's darkness shines: All may depart—I fret not, nor repine, While Imy Savior's am, and He is mine."
-
 
 ---
 [[Sermon 0690 A Lesson From The Great Panic|← #690]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0692 Joy And Peace In Believing|#692 →]]

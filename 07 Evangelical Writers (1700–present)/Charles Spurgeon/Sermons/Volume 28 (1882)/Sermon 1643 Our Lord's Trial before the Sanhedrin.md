@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Our Lord's Trial before the Sanhedrin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1643
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 5, 1882,.
+*Delivered on Lord's-Day Morning, February 5, 1882*
 
 > "And they all condemned Him to be guilty of death." Mark 14:64.
 
@@ -132,7 +131,6 @@ How earnestly, next, ought we to honor our dear Lord. If men were so eager to pu
 Lastly, how surely and how sweetly may all who believe in Him come and rest their souls in His hands. Surely know that He who suffered this, since He was verily the Son of the Blessed, must have ability to save us! Such griefs must be a full atonement for our transgressions! Glory be to God, that spit on His face means a clear, bright face for me! Those false accusations on His Character mean no condemnation for me! That putting Him to death proves the certainty of our text last Sunday morning, "Verily, verily, I say unto you, he that believes on Me has everlasting life."
 
 Let us sweetly rest in Jesus and if ever our faith is agitated, let us get away to the hall of Caiaphas and see the Just standing for the unjust, the Faultless One bearing condemnation for sinners! Let us, in the High Priest's hall, judge and condemn every sin and every doubt—and come forth glorying that the Christ has conquered for us—and that we now wait with delight for His appearing! God bless you, Brothers and Sisters, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1642 Verily, Verily|← #1642]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1644 Our Lord's First Appearance before Pilate|#1644 →]]

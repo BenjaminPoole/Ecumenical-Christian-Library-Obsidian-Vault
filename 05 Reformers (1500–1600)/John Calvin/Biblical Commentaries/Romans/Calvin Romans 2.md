@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Romans 2:1-2
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # A Procession of Cross-bearers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2946
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Take up the cross, and follow Me." Mark 10:21.
 
@@ -97,7 +94,7 @@ I believe that the Lord takes delight in the prowess of His suffering saints. "T
 
 Lastly, in a very short time, the cross will be exchanged for the crown. It is said that when Princess Elizabeth carried the royal crown in some procession during the reign of her sister, she complained that it was very heavy and someone said that she would find it much lighter when she had it on her own head. So, some of us are carrying a great cross, here, and we find it very heavy—but we shall be well repaid when we receive our crown!
 
-EXPOSITION BY C. H. SPURGEON: MARK 10:17-45.
+## Exposition by C. H. Spurgeon: Mark 10:17-45
 
 Verses 17, 18. And when He was going out on the road, there came one running and kneeled before Him, and asked Him, Good Master, what shall I do that I may inherit eternal life? And Jesus said unto him, Why call you Me good? There is none good but One, that is God. This was a hint that Christ was more than Man. If He was really worthy of the title that the enquirer gave Him, He was God as well as Man, for "there is none good but One, that is God."
 
@@ -144,7 +141,6 @@ this same Jesus who was to be mocked, scourged, spit upon and killed, would yet 
 42-46. But Jesus called them to Him, and said unto them, You know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them. But so shall it not be among you: but whoever will be great among you, shall be your minister: and whoever of you will be the chief, shall be servant of all. For even the Son of Man came not to be ministered unto, but to minister, and to give His life a ransom for many. Christ instituted bishops, that is, overseers, but never prelates! He never had any idea of setting some men in His Church over the heads of others, but He put all His servants upon an equality. They are to exercise no lordship, the one over the other, nor to seek it, for the truest honor in the Church of God is found in service. He that serves most is the greatest! He that will occupy the lowest office, he that will bear patiently to be the most put upon, he that is readiest to be despised, and to be the servant of all, shall be the chief of all! The way to rise in the Kingdom of Heaven is to descend, for even so was it with our Lord, Himself! God give to all of us the humble and lowly spirit that will make us willing to be the least
 
 of all!
-
 
 ---
 [[Sermon 2945 Night-and Jesus Not There!|← #2945]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2947 Royal Emblems for Loyal Subjects|#2947 →]]

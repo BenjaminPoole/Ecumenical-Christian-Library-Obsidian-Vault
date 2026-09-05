@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 35
 
-**CHAPTER 35**
+***Chapter 35***
 
 ## Genesis 35:1-29
 

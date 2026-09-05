@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 132. Matthew 14:22-33; Mark 6:45-52
-
-**Matthew 14:22-33; Mark 6:45-52**
 
 **22**. And immediately Jesus constrained his disciples to embark, and to go before him to the opposite bank, till he had sent away the multitudes. **23**. And when he had sent away the multitudes, he went up into a mountain alone to pray; and when the evening came, he was there alone. **24**. But the ship was now in the midst of the sea, tossed with waves; for the wind was contrary. **25**. And about the fourth watch of the night Jesus came to them, walking on the sea. **26**. And when the disciples saw him walking on the sea, they were terrified, saying, It is an apparition, and cried out for fear. **27**. But immediately Jesus spoke to them, saying, Take courage; it is I, be not afraid. **28**. And Peter replying to him said, Lord, if it be thou, bid me come to thee on the water. **29**. And he said, Come. And when Peter had come down out of the ship, he walked on the water, to go to Jesus. **30**. But when he perceived the wind to be boisterous, he was afraid; and when he began to sink, he cried, saying, Lord, save me. **31**. And immediately Jesus stretched out his hand and caught him, and said to him, O man of little faith, why didst thou doubt? **32**. And when they had entered into the ship, the wind ceased. **33**. Then they that were in the ship approached and worshipped him, saying, Truly thou art the Son of God.
 

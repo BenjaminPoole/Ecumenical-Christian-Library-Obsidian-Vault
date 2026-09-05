@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Fainting Hero
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3131
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He was very thirsty, and called on the LORRD, and said, You have given this great deliverance into the hand of Your servant: and now shall I die of thirst, and fall into the hand of the uncircumncised?" Judges 15:18.
 
@@ -25,7 +22,7 @@ YOU will remember the occasion on which these words were spoken. Samson had been
 
 Now, my drift is the comforting of God's saints, especially in coming to the Table of their Lord. I have thought there may be many of you who are feeling in an unhappy and a distressed frame of mind and that by referring you to what God has already done for you, I might lead you to see a lighter estimate upon your present trouble and enable you to argue that He who has worked great deliverances for you in the past will not allow you to lack in the future!
 
-I. YOU HAVE ALREADY, MY BROTHERS AND SISTERS, EXPERIENCED GREAT DELIVERANCES.
+## I. You Have Already, My Brothers and Sisters, Experienced Great Deliverances
 
 Happy is it for you that you have not had the grim task of slaying a thousand men, but there are "heaps upon heaps" of another sort upon which you may look with quite as much satisfaction as Samson and, perhaps, with less mingled emotions than his when he gazed on the slaughtered Philistines.
 
@@ -77,7 +74,7 @@ And you will have to die soon. When the death-thirst is in your throat, what do 
 
 But there is hope yet! Whoever believes in the Lord Jesus Christ shall be saved! Turn your eyes to Christ, poor Sinner, as He hangs there suffering in man's place, taking human guilt on Himself and being punished for it as though it were His own! Trust Him, Sinner—and resting in Jesus you shall be saved!
 
-EXPOSITION BY C. H. SPURGEON: PSALM37.
+## Exposition by C. H. Spurgeon: Psalm 37
 
 Verse 1. Fret not yourself because of evildoers, neither be you envious against the workers of iniquity. They often seem to have the best of it in this life, but if it really is so, we must never forget that there is another life after this in which there will be no reason for the righteous to be envious of evildoers and workers of iniquity!
 
@@ -140,7 +137,6 @@ because He is your heart's delight, then you may give a loose rein to those desi
 38, 39. But the transgressors shall be destroyed together: the end of the wicked shall be cut off But the salvation of the righteous is of the LORD. That is why they are not cut off like the wicked, because God's salvation is in them. They would pass away, they would be but the mere dream and phantom that the prosperous wicked ones are, but God Himself is in them and, therefore, are they solid and substantial and their salvation is an everlasting salvation!
 
 39, 40 He is their strength in the time of trouble. And the LORD shall help them and deliver them: He shall deliver them from the wicked, and save them, because they trust in Him. That is the main point—"they trust in Him." One of the descriptions of Abraham is this, "Abraham believed God," and therefore he had God for his shield and his exceeding great reward. Are you trusting in God, dear Friends? Are you living a life of faith? Then the walk of faith will be followed, in due time, by the triumph of faith! Blessed are all they that put their trust in the Lord, and blessed forever shall they be.
-
 
 ---
 [[Sermon 3130 'In Remembrance'|← #3130]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3132 A Question for You|#3132 →]]

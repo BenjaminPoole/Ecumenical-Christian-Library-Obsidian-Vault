@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Threefold Slogan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3536
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "One thing is necessary." Luke 10:44.
 
@@ -31,7 +28,7 @@ When streams of water divide themselves into innumerable streams, they usually c
 
 The "one thing" concerning which I am now about to talk very seriously to you will require three texts to elucidate it. There are three pithy passages of Holy Scripture which I shall endeavor to press home on your heart and conscience.
 
-I. ONE THING NECESSARY.
+## I. One Thing Necessary
 
 Our first text is to be found in the Gospel according to Luke 10:44, "One thing is necessary." This one thing, according to this passage, is faith in Christ Jesus, the sitting down at the Master's feet, the drinking in of His Word. If I may expand for a minute the "one thing," without seeming to make 20 things of that which is but one, I will refer it to the possession of a new life. This life is given to us when, by the power of the Holy Spirit, we are created anew in Christ Jesus. And it develops itself in a simple confidence in Jesus, in a hearty obedience to Jesus, in a desire to be like Jesus and in a constant yearning to be near to Jesus. "One thing is necessary"—that one thing is salvation—worked in us by the Holy Spirit, through faith which is in Jesus Christ our Lord. The new heart, the right spirit, a filial fear of God, love to Jesus—this is the "one thing necessary." How I trust you all know how to distinguish things essential from things convenient, and that you are more concerned about necessary things than about things merely attractive, or, at most, but an accessory to your welfare! The little child may admire the field which is covered with red and blue flowers. The farmer cares nothing for these flowers—he delights in the wheat that is ripening for the sickle. So our childish minds are often fascinated with the flaunting flowers of fortune and fashion—craving after wealth, fame and worldly distinction—but our better reason, if it is allowed to speak, will prefer the necessary things, the things which we must have, or else must
 
@@ -51,7 +48,7 @@ Do you think that riches possessed in this world will procure any respect in the
 
 I wish I could move you, as I desire, to feel as I feel, myself—that this one thing is necessary to every unconverted person here present. Some of you have already got this one choice thing that is so necessary. Hold it fast! Never let it go! Grace gave it to you—Divine Grace will keep it for you—Grace will hold you true to it. Never be ashamed of it. Prize it beyond all cost! But as for you who have it not—I think I hear your funeral knell pealing in my ears, and as you speed away, your spirits made to fly for very fear, right into the arms of Justice, I think I hear your bitter cry, "The harvest is past, the summer is ended and we are not saved!" I would gladly pluck you by the skirts, if I could, and say to you, "Why not seek the one thing necessary without more ado? Get it now! It will not in any way hurt you. It will make you happy, here, and blessed hereafter." It is as necessary for this life as for the next, as necessary for the exchange as for the sick chamber, as necessary for the street and for the shop as for the dying bed and for the Day of Judgment. One thing—one thing is necessary! And now allow me to stop before taking you a stage further. Allow me, as it were, to change horses. I must take another text—
 
-II. ONE THING KNOWN.
+## II. One Thing Known
 
 It is in the Gospel according to John, the 9th Chapter, and the 25th verse, and these are the words, "One thing I know."
 
@@ -71,7 +68,7 @@ Paul was anxious to do more good, to get more good, to be more good. He sought t
 
 Beloved, I address you as the saints of this generation. My earnest desire is that you should not come behind in Grace or in gifts. When the Believers of all ages muster, and are marshaled, may you be found among the faithful and true. If not among the first or second class of worthies in the army of the Son of David, yet good soldiers of Jesus Christ! Our God is a loving Father. He likes to praise His people. To this end do be clear about the one thing you need, the one thing you know, and the one thing you do! So will you stand well in that day. Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN9.
+## Exposition by C. H. Spurgeon: John 9
 
 Verses l-3. Andas Jesuspassed by He saw a man who was blind from his birth. And His disciples askedHim, saying, Master, who did sin, this man, or his parents, that he was born blind? Jesus answered, Neither has this man sinned, nor his parents, but that the works of God should be made manifest in him. We are not to look upon such afflictions as any indication of special sin on the part either of the person or the parent. Of course, sin lies at the root of all our suffering as a great generic fact, but not so that we may attribute such an affliction to any one sin. The disciples, you see, dear Friends, are thinking about difficult problems. Their Master is thinking about how, practically, to meet the difficulty, and to this day there are a large number of Christians, professors and even ministers who occupy their time about questions which really are to no profit. If they could be answered, nobody would be the holier or the better! What does it matter to us what is the origin of evil? Far more important to turn the evil out than it is to find out how it came in! Very frequently, you know, after there is a terrible calamity or accident, we have an inquiry as to how it was done, and then we think the thing is all attended to. It would have been better, perhaps, to have an inquiry, before it was done, as to how it could be prevented. Our Lord has that wisdom—that practicalness. He begins to deal with the evil rather than to raise
 
@@ -122,7 +119,6 @@ questions about it. Yes, and He sees in that evil a good coming out of it! He sa
 41\. You would have no sin If you really did not know better, were totally and altogether without knowledge—then you would have no sin compared with what you now have.
 
 41\. But now you say, We see; therefore your sin remains. You acknowledge that you have sinned with your eyes open and, therefore, your sin is all the greater.
-
 
 ---
 [[Sermon 3535 Safe, Though Surrounded By Sin|← #3535]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3537 A Definite Challenge for Definite Prayer|#3537 →]]

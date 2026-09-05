@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Matthew
 
 [11] Matt. i. 3. “And Judas begat Pharez and Zara of Thamar.” So it is remarked, in the 5th verse, that Salmon begat Booz of Rachab, and that Booz begat Obed of Ruth, and in the 6th verse, that David begat Solomon of her that had been the wife of Uriah. All the mothers are not noted, but only those which were either harlots or Gentiles, except the wife of Uriah the Hittite, who was a wife of a Gentile. These are taken notice of, because Christ’s descending from several harlots and Gentiles intimates unto us that all that are saved by Christ were sinners. That the church of Christ is made up wholly of such as were once sinners, that is, spiritual harlots, or adulterers and idolaters, thereby also typifying the calling of the Gentiles.
 

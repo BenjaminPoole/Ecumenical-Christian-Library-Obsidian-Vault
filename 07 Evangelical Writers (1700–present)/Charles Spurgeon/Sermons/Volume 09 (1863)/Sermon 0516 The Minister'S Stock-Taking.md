@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # The Minister'S Stock-Taking
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 516
@@ -37,7 +36,7 @@ When the preacher can make these natural emotions a platform upon which to stand
 
 I. Turning to our text a little more closely, let us remark, in the first place, that UNDER THE BEST MINISTRY IN THE WORLD THE RESULTS WILL BE DIVERSE, AND THAT YOU WANT TWO COLUMNS TO WRITE THE
 
-ACCOUNT IN.
+## Account In
 
 There will always be the some that believe and the some that believe not. This is not altogether the minister's fault. It is the custom of the age to blame ministers very much, and I dare say we deserve it. But still the blame in this matter does not lay entirely with us, for even when Paul preached—a model preacher, he!—there were, "some believed the things which were spoken, and some believed not." Did I say that Paul was a model preacher? Let me prove it. Was he not a model preacher as to matter?
 
@@ -75,7 +74,7 @@ The Apostle, thus full of eloquence, of love, and of holy boldness, seeking afte
 
 II. I now proceed to notice, in the second place, THE TWO SORTS OF PEOPLE, AND THE REASON WHY
 
-SOME BELIEVED, AND WHY SOME BELIEVED NOT.
+## Some Believed, and Why Some Believed Not
 
 There were some that believed. Shall I describe them? So far as one young man is concerned, I will just give a little sketch of his history and that sketch will suffice for all. He dropped in one Sunday morning to hear the preacher. He stood in the aisle, for he did not intend to stay the whole time. But the place was full and he could not get out. He listened. He thought it very commonplace. It did not attract his attention much. But all of a sudden—yes, it was so—the Truth of God dropped right into his heart. He listened with greater interest than he had done before. He gathered himself up. Another sentence came.
 
@@ -146,7 +145,6 @@ Now will you do me this favor? I asked it once and it was blessed to the convers
 As he looked, the tears began to flow, and the heart began to break. And before long he fled to Christ, put the paper in the fire and wrote down, "Forgiven." This young man was about the sixth who had been brought to the Lord in the same way. So I pray you try it, and God may bless it to you. Remember you are either one or the other—you are either condemned or forgiven. Do not stand between the two. Let it be decided, and remember, if you are condemned today, you are not yet in Hell. There is hope still! Blessed be God, still is Christ lifted up and whoever believes on Him shall not perish but have everlasting life.
 
 The gate of Heaven is not closed. The proclamation of mercy is not hushed. The Spirit of God still goes forth to open blind eyes and to unstop deaf ears. It is still preached to you, to every creature under Heaven—"Whosoever believes on the Son of God has everlasting life. He that believes and is baptized shall be saved. He that be believes not shall be damned." Believe! God help you to believe. Trust Jesus! Trust Him now. And may the Lord grant that your name may be written among the some that believe, and not among the some that believe not.
-
 
 ---
 [[Sermon 0515 The Sinner'S Advocate|← #515]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0517 The Rainbow|#517 →]]

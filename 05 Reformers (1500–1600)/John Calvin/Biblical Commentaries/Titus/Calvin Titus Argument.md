@@ -9,7 +9,6 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
 
 **COMMENTARIES**
@@ -17,8 +16,6 @@ tags:
 **ON**
 
 **THE EPISTLE TO TITUS**
-
-**THE ARGUMENT**
 
 **ON THE EPISTLE TO TITUS**
 

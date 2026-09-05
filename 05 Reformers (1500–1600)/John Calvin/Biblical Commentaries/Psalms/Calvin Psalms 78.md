@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 78
-
-**PSALM 78**
 
 To comprehend many things within small compass, it is to be observed, that in this psalm there are two leading topics. On the one hand, it is declared how God adopted for himself a Church from the posterity of Abraham, how tenderly and graciously he cherished it, how wonderfully he brought it out of Egypt, and how varied were the blessings which he bestowed upon it. On the other hand, the Jews, who were so much indebted to him for the great blessings which he had conferred upon them, are upbraided for having from time to time perversely and treacherously revolted from so liberal a father; so that his inestimable goodness was clearly manifested, not only in his free adoption of them at first, but also in continuing by the uninterrupted course of his goodness to strive against the rebellion of so perfidious and stiff-necked a people. Moreover, mention is made of the renewal of God’s grace, and as it were of a second election which he made when he chose David out of the tribe of Judah to sway the scepter over the kingdom of Israel.
 

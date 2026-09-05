@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 117. What are the requisites of that prayer, which is acceptable to God, and which he will hear?
-
-**Question 117. What are the requisites of that prayer, which is acceptable to God, and which he will hear?**
 
 Answer. First, that we from the heart pray to the one true God only, who hath manifested himself in his word, for all things he hath commanded us to ask of him: secondly, that we rightly and thoroughly know our need and misery, that so we may deeply humble ourselves in the presence of his divine majesty: thirdly, that we be fully persuaded that he, notwithstanding that we are unworthy of it, will, for the sake of Christ our Lord, certainly hear our prayer, as he has promised us in his word.
 

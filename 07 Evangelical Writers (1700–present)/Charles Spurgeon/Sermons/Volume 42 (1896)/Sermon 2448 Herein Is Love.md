@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "Herein Is Love"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2448
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Herein is love, not that we loved God, but that He loved us, and sent His Son to be the propitiation for our sins." 1 John 4:10.
 
@@ -89,9 +86,9 @@ You have heard a sermon, tonight, and you may think, "Now I have done with it." 
 
 I think—no, I seem to know—that there are some who never will have done with this text, neither in this life nor in the life to come, for the text is saying to you, tonight, "Though you love not God, now, yet you shall love Him, for He has loved you, loved you with an everlasting love." And the thought of this text will entice you to go and seek Jesus to see if it is so. And when you find it so, you will say to your children, "There is no text in the Bible more beautiful to me than this one, 'Herein is love, not that we loved God, but that He loved us.'" And you may tell to your children's children that on such an evening that text seemed to get into your soul, and to be set a ringing there like the old bell on the Inchcape Rock—the higher the storm, the louder it rang! And you shall hear it ring, ring, ring till it rings you to Christ and rings you into Heaven! And then in Heaven it will make sweet music in your ears and you will say, even there, "Herein is love, not that I loved God, but that He loved me, and gave His Son to be a propitiation for my sins."
 
-HYMNS FROM "OUR OWN HYMN BOOK"^54, 23 (VERSION III), 782.
+## Hymns from "Our Own Hymn Book"^54, 23 (Version III), 782
 
-EXPOSITION BY C. H. SPURGEON: PSALM23.
+## Exposition by C. H. Spurgeon: Psalm 23
 
 I hope we all know this Psalm by heart. May we also know it by heart experience! It is a sweet pastoral song just suited to our Sabbath evening worship. There is here no din of arms, no noise of war, but there is a delicious hush, only broken by the gentle tinkling of the sheep-bell. God give us that sweet rest tonight!
 
@@ -126,7 +123,6 @@ Verse 1. The LORD is my shepherd. All true rest begins with Jesus, as all the co
 "No more a stranger or a guest But like a child at home,"
 
 dwelling with God! And, by-and-by, in the fullest sense, "I will dwell in the house of the Lord forever." I always compare this Psalm to a lark. It begins on the ground among the sheep, but up it goes till you may hear its blessed notes echoing among the stars! "I will dwell in the house of the Lord forever." It has its nest in the grass of the green pastures, but it flies up like the strains of sweetest music rising even to the skies—"I will dwell in the house of the Lord forever." God grant that this may be the portion of every one of us, for His great name's sake! Amen.
-
 
 ---
 [[Sermon 2447 God, and Not Man—What Does It Mean|← #2447]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2449 The Rule and Reward of Serving Christ|#2449 →]]

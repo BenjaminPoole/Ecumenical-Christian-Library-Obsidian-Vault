@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 170. Luke 19:41-44
-
-**Luke 19:41-44**
 
 **41**. And when he came near, he beheld the city, and wept over it, saying, **42**. O if even thou, and at least in this thy day, hadst known and considered the things which belong to thy peace! but now they are hid from thy eyes. **43**. For the days will come upon thee, and thy enemies will encompass thee with a rampart; [^1] and will enclose thee, and will shut thee in on all sides; **44**. And will level thee with the ground, and thy children who are within thee; and will not leave in thee one stone upon another; because thou didst not know the time of thy visitation.
 

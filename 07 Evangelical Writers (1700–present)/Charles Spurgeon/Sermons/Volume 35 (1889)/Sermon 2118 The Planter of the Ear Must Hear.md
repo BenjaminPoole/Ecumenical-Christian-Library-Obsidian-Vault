@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Planter of the Ear Must Hear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2118
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He that planted the ear, shall He not hear? He that formed the eye, shall He not see?" Psalm 94:9
 
@@ -176,7 +173,6 @@ Even when the boat seems most to reel.
 Storms are the triumph of His art,
 
 He cannot hide His eyes, much less His heart." Go, speak with the wise Planter of the ear. For He will surely hear!
-
 
 ---
 [[Sermon 2117 The Father's Love to His Dying Son|← #2117]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2119 Magdalene at the Sepulcher—an Instructive Scene|#2119 →]]

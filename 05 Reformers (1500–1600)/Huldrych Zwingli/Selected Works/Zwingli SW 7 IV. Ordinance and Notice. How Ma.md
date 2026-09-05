@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 7. IV. Ordinance and Notice. How Ma
 
 We, the Burgomaster, Council and the Great Council, which they call the Two Hundred, of the city of Zurich, offer to each and all people's priests, pastors, those who have the care of souls, and preachers, also to all over-governors, under-governors, officials and any others who have livings, homes or seats in our cities, counties, principalities, high and low courts and territories, our greeting, favorable and affectionate good wishes. I call yout attention to what each one of you has noticed and seen up to the present time, that many kinds of complaints and errors have arisen in matrimonial affairs. Since the. parties have been summoned before the court at Constance or other foreign courts again and again, and have been judged at considerable cost; since they, at that place, and in cases where the people were well off in temporal goods, have been detained without judgment, and, as far as we know, to their own danger, etc., and in order that such great cost, trouble and labor among you men and women having business with each other with regard to matrimony, and who live and are at home in our territories, high and low courts, may be put aside, done away with and avoided, and also in order that each may be properly judged with promptness, thus we have ordained the following common ordinances concerning marriage, and have given notice of them, and have undertaken to practice them for a time, with the understanding that they are to be decreased, or increased, or entirely done away wth. And if any parties come from our true and beloved confederates, from whatsoever place, who desire to seek and make use of law with regard to matrimony on account of the small cost among us, bringing each from his local authorities letters and seals testify-
@@ -28,11 +27,11 @@ The court days are, and shall be, on Monday and Thursday. The seat or place of t
 
 And here follow the articles and ordinances concerning marriage.
 
-I 20 ZWINGLI SELECTIONS.
+## I 20 Zwingli Selections
 
 First, a general ordinance : That no one shall enter into matrimony in our city and country without the testimony and presence of at leat two pious, honorable citizens in good standing.
 
-EXPL,\NA'IION OF THIS ORDINANCE.
+## Expl,\na'iion of This Ordinance
 
 No one shall marry, engage or give to another his son or daughter without the favor, knowledge and will of the father, mother, guardians or others, who are responsible for the young people. Whoever transgresses this shall be punished according to the manner of the case, and the marriage shall be invalid.
 
@@ -56,7 +55,7 @@ And if any one boasts to the danger and injury of another [matrimonially], and i
 
 Likewise, in order to avoid suspicion, calumny and deceit, we desire that each marriage that is properly performed shall be publicly witnessed in a church, and provided with a license of the parish. Each preacher shall enroll and keep record of all such persons, and no one shall give those under him to another without, his favor and will, publicly expressed.
 
-WHAT CAN NULLIFY AND BREAK UP A MARRIAGE,
+## What Can Nullify and Break up a Marriage
 
 It is proper for a pious married person, who has given no cause for such act, to put away from himself or herself the other who is caught in open adultery, indeed to leave him or her, and to provide himself or herself with another spouse.
 
@@ -64,7 +63,7 @@ This we call and consider open adultery, which is discovered and proved, with su
 
 But in order that adultery may not be condoned, and that no one may seek a cause to secure a new marriage by means of
 
-122 ZWINGLI SELECTIONS.
+## 122 Zwingli Selections
 
 adulter}', it will be necessary that a severe punishment be placed upon adultery, for it was forbidden in the Old Testament on pain of stoning to death.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Rule of the Race
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2037
 
-DELIVERED ON LORD'S DAY MORNING, AUGUST 5, 1888,.
+*Delivered on Lord's Day Morning, August 5, 1888*
 
 > "Let us run with patience the race that is set before us, looking unto Jesus the author and finisher of our faith; who for the joy that was set before Him endured the Cross, despising the shame and is set down at the right hand of the Throne of God." Hebrews 12:1,2.
 
@@ -172,7 +171,6 @@ Best of all, our Lord is there! Once crowned with thorns, His head is now radian
 "Far from this world of grief and sin, With God eternally shut in."
 
 Amen. Amen. Amen!
-
 
 ---
 [[Sermon 2036 The Whole-Heartedness of God in Blessing His People|← #2036]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2038 The Lord's Supper—a Remembrance Of Jesus|#2038 →]]

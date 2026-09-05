@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Theocracy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2848
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will be your King." Psalm 44:4.
 
@@ -131,7 +128,7 @@ Will you have Him? I mean, the Son of God, who was also the Son of Mary. I mean 
 
 of kings! I trust that even before this service closes, some of you will say. "By the Grace of God and through the power of the Holy Spirit, I yield myself to Jesus, my Lord and King, to be His loyal subject and faithful servant forever and ever." God grant it, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 44:1-8; PSALM 45.
+## Exposition by C. H. Spurgeon: Psalm 44:1-8; Psalm 45
 
 Psalm 44:1. We have heard with our ears, O God, our fathers have told us what work You did in their days, in the times of old. Now Israel was restored to Canaan and the Canaanite and Perizzite were driven out, that God's chosen people might occupy their appointed place.
 
@@ -166,7 +163,6 @@ Ophir. Hearken, O daughter, and consider. Listen, each one of you who are a part
 13-16. Her clothing is of worked gold. She shall be brought unto the King in raiment of needlework: the virgins, her companions that followher, shall be brought unto You. With gladness andrejoicing shall they be brought: they shall enter into the King's palace. Instead of Your fathers shall be Your children. We often see the hoary head laid low, and the ripe saint taken home to Heaven—but the ranks of Christ's retinue are not thereby thinned, for the sons shall stand in the place of their fathers. God be thanked for this cheering promise! "Instead of Your fathers shall be Your children,"
 
 16, 17. Whom You may make princes in all the earth. I willmake Your name to be rememberedin all generations: therefore shall the people praise You forever and ever.
-
 
 ---
 [[Sermon 2847 Barriers Obliterated|← #2847]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2849 Remembering God's Works|#2849 →]]

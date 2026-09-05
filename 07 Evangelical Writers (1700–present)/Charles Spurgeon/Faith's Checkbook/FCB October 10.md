@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 10
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**OPEN DOOR OF COMMUNION**
+## **Open Door of Communion**
 
 > I have set before thee an open door, and no man can shut it" Rev. 3:8
 
@@ -27,7 +26,6 @@ I have also before me an open door into the mysteries of the Word. I may enter i
 An open door of access is before me in private, and an open door of usefulness in public. God will hear me; God will use me. A door is opened for my onward march to the church above, and for my daily fellowship with saints below. Some may try to shut me up or shut me out, but all in vain.
 
 Soon shall I see an open door into Heaven: the pearl gate will be my way of entrance, and then I shall go in unto my Lord and King, and be with God eternally shut in.
-
 
 ---
 [[FCB October 9|← October 9]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 11|October 11 →]]

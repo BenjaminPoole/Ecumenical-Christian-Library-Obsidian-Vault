@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 15
 
-**CHAPTER 15**
+***Chapter 15***
 
 ## Jeremiah 15:1-2
 
@@ -70,7 +69,7 @@ He now confirms the previous sentence, *If they shall say, Whither shall we go f
 
 ## Prayer Lecture 58
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou art graciously pleased to exhort us to repent, and withholdest thine hand, yea, and allowest us the opportunity to repent, — O grant, that we may not obstinately provoke against ourselves thy extreme vengeance, but render ourselves obedient to thee, so that thou mayest not only hear others praying for us, but that our own prayers may also obtain pardon from thee, espedally through the intercession of Christ, thine only — begotten Son, who has once for all reconciled thee to us, and whose perpetual intercession is to continue to reconcile us to thee, until we shall appear at length before thee with all our spots and filth wholly washed away, and be made partakers of that glory which has been obtained for us by Christ our Lord. — Amen.
 
@@ -160,7 +159,7 @@ He afterwards adds, that the *soul,* the people, *had expired;* for he speaks no
 
 ## Prayer Lecture 59
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may not by our hardness so provoke thy judgment against us, as to constrain thee with an armed hand to assail us; but may we through a meek and submissive spirit be so influenced by thy threatenings as to anticipate that vengeance, by which we see that all the reprobate and the perverse have been visited; and may we so endeavor by true repentance to obtain thy favor, that we may receive thy daily blessings and benefits, until we shall at length come to the full and real enjoyment of all those blessings, which have been laid up for us in thy celestial kingdom, through Christ, our Lord. — Amen.
 
@@ -261,7 +260,7 @@ It must further be noticed that the Prophet, in this prayer, did not so much con
 
 ## Prayer Lecture 60
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not by our sins daily to provoke thy wrath against us, and are also ungrateful to thee and disobedient to thy heavenly doctrine, — O grant that we may at length know what we have hitherto deserved, and become so displeased with our vices, that being really and from the heart turned to thee, we may above all things seek to be reconciled to thee and received into favor, so that thou mayest rule us by thy Holy Spirit, and confirm us in true obedience and godliness, until we shall at length enjoy that eternal felicity which has been prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -354,7 +353,7 @@ as though he had said, “Have now nothing to do with so perverse a people.” S
 
 ## Prayer Lecture 61
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast at this day plainly made known to us thy will through the gospel of thy Son, so that we may by an unshaken faith embrace what is therein set forth to us, — O grant, that we may learn to be satisfied with thee alone, and to aequiesce in thy truth, and to renounce the whole world, so that we may never be moved by any threats and terrors, nor vacinate when the ungodly seem so proudly disposed to withdraw confidence in thee; but may we render to thee all due honor, so as not only to obey thee but also to perform the offices committed to us, and never to hesitate so to provoke the whole world against us, that howsoever hard our warfare may be we may firmly persevere in the course of thy holy calling, and may thus at length enjoy that triumph, which Christ thy only-begotten Son hath procured for us. — Amen.
 

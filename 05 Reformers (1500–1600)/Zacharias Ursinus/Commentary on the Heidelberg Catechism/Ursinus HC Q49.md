@@ -11,16 +11,13 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 49. Of what advantage to us is Christ's ascension into heaven?
-
-**Question 49. Of what advantage to us is Christ's ascension into heaven?**
 
 Answer. First, that he is our advocate in the presence of his Father in heaven: secondly, that we have our flesh in heaven, as a sure pledge that he, as the head, will also take up to himself, us his members: thirdly, that he sends us his Spirit, as an earnest, by whose power we "seek the things which are above, where Christ siteth at the right hand of God, and not things on earth."
 
-**EXPOSITION**
+## **Exposition**
 
-**V. WHAT ARE THE FRUITS OF THE ASCENSION OF CHRIST?**
+## **V. What Are the Fruits of the Ascension of Christ?**
 
 The fruits, or benefits of Christ's ascension into heaven are chiefly these three:
 
@@ -42,7 +39,7 @@ There are other fruits which result from the ascension of Christ, less important
 
 What then are we to understand by the Article, I believe in Jesus Christ, who ascended into heaven? It means, I believe, first, that he did truly, and not merely in show, ascend into heaven, and is now there, and will be called upon at the right hand of God, until he shall come from thence to judge the world. And, secondly, that he has ascended for my sake and thy sake, and now appears in the presence of God, makes intercession for us, sends us the Holy Spirit, and will at length take us to himself, that we may be with him where he is, and reign with him in glory.
 
-**NINETEENTH LORD'S DAY**
+## **Nineteenth Lord's Day**
 
 ---
 [[Ursinus HC Q48|← Question 48. But if his human nature is not ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q50|Question 50. Why is it added, "and sitteth a →]]

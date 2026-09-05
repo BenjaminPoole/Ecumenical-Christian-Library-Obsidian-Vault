@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 24
 
-**CHAPTER 24**
+***Chapter 24***
 
 ## Isaiah 24:1-23
 

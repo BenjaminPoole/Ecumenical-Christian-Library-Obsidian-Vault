@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Jesus Sitting on the Well
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2570
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus therefore, being wearied with His journey, sat thus on the well: and it was about the sixth hour." John 4:6.
 
@@ -91,7 +88,7 @@ Best of all, this woman believed in Jesus. When He said that He was the Christ, 
 
 God bless you, Beloved, and bring you to the Savior, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN4:1-29.
+## Exposition by C. H. Spurgeon: John 4:1-29
 
 I have often read this chapter in your hearing and you have often read it yourselves, but the Word of God is not like the grapes of an earthly vine which, when once trodden, are exhausted. You may come to Holy Scripture again and again—it is like an ever-flowing fountain—the more you draw from it, the more you may draw.
 
@@ -126,7 +123,6 @@ Verses 1-3. When therefore the Lord knew how the Pharisees had heard that Jesus 
 27, 28. And upon this came His disciples and marveled that He talked with the woman, yet no man said, What do You seek? Or, Why do You talk with her? The woman then left her water pot, and went her way into the city. So that blessed interview was broken up by Christ's own disciples! What a set of blunderers we are! We sometimes come in between Christ and poor sinners whom He is going to bless. There is many a lover of stern doctrine, with an unsympathetic heart and a harsh tone of speech, who has intruded just when he was not needed! If we cannot help poor souls, Brothers and Sisters, let us never hinder them! What Christian would not wish to help a poor sinner to her Savior? Yet these disciples, unconscious of what they were doing, had by their very looks driven this poor woman from their Master. She "went her way into the city."
 
 28, 29. And said to the men, Come, see a Man, which told me all things that ever I did: is not this the Christ? May we be made useful, even as this woman was, in bringing others to Christ' feet, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2569 The Backslider's Door of Hope|← #2569]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2571 The Climax of God's Love No. 2571|#2571 →]]

@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 ## PART I.
 
 FROM A. D. 1745 JUNE 19th TO NOV. 4th, AT CROSSWEEKSUNG AND FORKS OF DELAWARE.
@@ -333,7 +332,7 @@ The several companies of Indians I have preached to in the summer past, live at 
 
 As these poor ignorant pagans stood in need of having “line upon line, and precept upon precept,” in order to their being instructed and grounded in the principles of Christianity; so I preached “publicly, and taught from house to house,” almost every day for *whole weeks* together, when I was with them. And my *public* discourses did not then make up the one half of my work, while there was so many constantly coming to me with that important inquiry, “What must we do to be saved?” and opening to me the various exercises of their minds. And yet I can say, (to the praise of rich grace,) that the apparent success with which my labours were crowned, unspeakably more than compensated for the labour itself, and was likewise a great means of supporting and carrying me through the business and fatigues, which, it seems, my nature would have sunk under, without such an encouraging prospect. But although this success has afforded matter of support, comfort, and thankfulness; yet in this season I have found great need of assistance in my work, and have been much oppressed for want of *one* to bear a *part* of my *labours* and *hardships.* “May the Lord of the harvest send forth *other labourers* into this part of his harvest, that those who sit in darkness may see great light, and that the whole earth may be filled with the knowledge of himself! Amen.”
 
-DAVID BRAINERD.
+## David Brainerd
 
 *Nov.* 20, 1745.
 

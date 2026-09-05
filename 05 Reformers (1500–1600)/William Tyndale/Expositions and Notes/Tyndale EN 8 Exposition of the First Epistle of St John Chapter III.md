@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 8. Exposition of the First Epistle of St John: Chapter III
 
-THE THIRD CHAPTER.
+*The Third Chapter*
 
 Behold, what love the Father hath shewed us, that we should be called the sons of God. For this cause the world knoweth you not, because it knoweth not him. Dearly beloved, now we are the sons of God, though yet it appeareth not what we shall be: but we know that when he shall appear we shall be like him ; for we shall see him as he is.
 
@@ -42,8 +41,6 @@ faith, the same Spirit cannot but quicken the members also, and make them fruitf
 hope of the Roman bishop, which by their own confession "^^^^^^^ may stand with all wickedness, and consent unto all evil, and be without repentance toward God's law (as it appeareth by their three capital sins, touched of John a little above, pride, covetousness and lechery), are no true faith and hope, but vain words and visors only, according to his other disguising and names of hypocrisy.
 
 [3 So D., but P. C. L. has light.] a christian man. W. T.
-
-188 EXPOSITION OF THE [CHAP.
 
 All that commit sin commit mirighteousness ; for sin is imrighteousness.
 
@@ -103,8 +100,6 @@ The law of righteousness is, that we love one another as Christ loved us ; and h
 
 [4 So P. C. L., but D. has law.}
 
-192 EXPOSITION OF THE [cHAP.
-
 We know that we are translated from death to life, because we love the brethren. He that loveth not his brother abideth in death. All that hate their brethren are mui'derers ; and ye know that no murderer hath eternal life abiding in him.
 
 If thoQ love thy brother in Christ, and art ready to do and to suffer for him, as Christ did for thee, then thou art sure thereby, that thou art the son of God, and heir of Ufe, and delivered from death and damnation. So have Christian men signs, to know whether they be in the state of grace or no. And on the other side, he that hath no power to love his brethren, may be sure that he is in the state of death and damnation. Another is this, let every man look upon his heart, and be sure that he which hateth his brother hath slain him before God, and is a murderer. And murderers shall Gai.v; jiQt obtain the kingdom of God, but are Cain's brethren and the devil's children, and are heirs of death, and ever under damnation. Compare the regiment of the spiritualty, which have had the temporal sword in their hands now above eight hundred years, unto this doctrine of John; and judge whether they have led us truly after the steps of Christ's doctrine, or no^
@@ -137,8 +132,6 @@ Let a child have never so merciful a father, yet if he break his father's comman
 
 [tyndale, II.]
 
-194 EXPOSITION OF THE [cHAP.
-
 But if our hearts condemn us, God is greater than our heart, and knoweth all things.
 
 If our conscience accuse us of sin, God is so great and so mighty that it cannot be hid.
@@ -155,7 +148,7 @@ Faith is the first, and also the root, of all commandments: and out of faith spr
 
 Faith is the root of all command-
 
-III. 20 24.] FIRST EPISTLE OF ST JOHN. 195
+## III. 20 24.] First Epistle of St John. 195
 
 And ho that keepeth his commandments abideth in him, and he in him. And hereby we know that there dwelleth in U8 of his Spirit which he gave us.
 

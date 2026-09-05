@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Mission of Affliction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3164
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let him alone, and let him curse, for so the Lord has ordered him. It may be that the Lord will look on my affliction, and that the Lord willrepay me with good for his cursing this day." 2 Samuel 16:11,12.
 
@@ -89,7 +86,7 @@ To conclude—David was a glorious man. If instead of having expectation from Go
 
 Now if I am speaking to any here tonight who are rebellious and do not love the Lord, I would remind them that there is a cure for these maladies—faith in Jesus Christ!He that believes in Him shall find the water that flowed from His pierced side to be the double cure of sin. May you have that cure—everyone of you—for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH43:1-7.
+## Exposition by C. H. Spurgeon: Isaiah 43:1-7
 
 In this Chapter the Lord comforts His people. By His Divine foresight He perceives that there are great and varied trials a little way ahead and, therefore, He prepares them for the ordeal. They are to go through rushing waters and flaming fires and He kindly bids them not to be afraid. How often in God's Word do we read those tender, gracious words, "Fear not"!Should not the trembling ones listen to the voice of their God and obey it when He says to them "Fear not" It is not right for you who fear God to fear anything else. Once brought to know the Lord, who can harm you? Abiding under the shadow of the Almighty, what danger need you dread? No, rather, be of good comfort and press forward with peaceful confidence, though floods and flames await you!
 
@@ -106,7 +103,6 @@ Verse 1. But now thus says the LORD that created you, O Jacob, and He that forme
 4\. Since you were precious in My sight, you have been honorable, and I have loved you: therefore will I give men for you, and people for your lif. How sweetly this verse comes home to those whose characters have been disreputable! As soon as they are truly converted to Christ, they become "honorable." "Since you were precious in My sight, you have been honorable." God does not call His people by their old names of dishonor, but He gives them the title of, "Right Honorable," and makes them the nobility of His Court. "Unto you that believe He is an honor," and you have honor in Him and from Him.
 
 5-7. Fear not: for Iam with you: I will bring your seed from the east, andgather you from the west; I will say to the north, Give up; and to the south, Keep not back: bring My sons from far, and My daughters from the ends of the earth; even everyone that is called by My name: for I have created him for My glory, I have formed Him; yes, I have made Him. "Fear not: for I am with you." This is the second time that the blessed words, "Fear not," ring out like the notes of the silver trumpet proclaiming the Jubilee to poor trembling hearts! "Fear not, for Iam with you." The Lord seems to say to each troubled Believer, "My honor is pledged to secure your safety. All My attributes are engaged on your behalf right to the end. Yes, I am, Myself, with you, therefore, fear not." "I will say to the north, Give up; and to the south, Keep not back: bring My sons from far, My daughter from the ends of the earth; everyone that is called by My name." Whatever happens, God will be with His Church. His own chosen people shall all be gathered in. There shall be no frustration of the Divine Purpose. From east or west, north or south, all His sons and daughters shall come unto Him, everyone that is called by His name. "For I have created him for My glory, I have formed him; yes, I have made him." And God will be glorified in His people! The object of their creation is the glory of their God, and that end shall, somehow or other, be answered in the Lord's good time. The Lord seems to dwell upon that note of the creation of His children for His own glory. This accounts for many of our troubles and for all our deliverances—it is that God may be glorified by bringing His children through the fires and through the floods. A life that was never tested by trial and trouble would not be a life out of which God would get much glory, but they that do business in the great waters see the works of God and His wonders in the deep, and they give Him praise and, besides, when they come to their desired haven, then they praise the Lord for His goodness and God is thereby glorified!
-
 
 ---
 [[Sermon 3163 Cumbered With Much Serving|← #3163]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3165 Witnesses for God|#3165 →]]

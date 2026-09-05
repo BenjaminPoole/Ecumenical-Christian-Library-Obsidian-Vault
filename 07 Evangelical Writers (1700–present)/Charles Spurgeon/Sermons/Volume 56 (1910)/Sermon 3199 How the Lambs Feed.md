@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # How the Lambs Feed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3199
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then shall the lambs feed in their pasture." Isaiah 5:17.
 
@@ -65,7 +62,7 @@ Once more, when the lambs feed in their pasture, they feed in company. They like
 
 III. I must close with the remark that IN THE WORST OF TIMES, GOD WILL SEE THAT HIS LAMBS AND
 
-THE REST OF HIS FLOCK ARE FED.
+## The Rest of His Flock Are Fed
 
 It is said, in the text, "Then shall the lambs feed in their pasture." That is, when the vineyard was destroyed and the hedge broken down. When thorns and briars had come up and the clouds had refused to rain. And God had sent desolation upon Israel and the people were gone into captivity—even then shall the lambs feed in their pasture! This is a blessed Truth of God—come what may, God's people shall be saved and they shall have spiritual food! There may come persecuting times. Never mind! Never did Christ seem so glorious as when He walked with His Church in the dungeon and up to the stake! Never were there sweeter songs than those which rose from the Lollards' tower and Bonner's coal-hole. Never did the Church have such marriage feasts as when her members died at the gallows and the fire! Christ Jesus has made Himself preeminently near and dear to a persecuted Church! Therefore fear not if you should have your little trouble to bear in the family, or rebuke and shame from an evil world—for you shall feed in your pasture. Though your mother should be grieved, though your husband should be angry, though your brother should ridicule, though your employer should scoff—you shall be fed with spiritual food and your soul shall surmount all these evils, triumphant in
 
@@ -79,7 +76,7 @@ We shall now separate and scatter, as congregations have scattered, I might say,
 
 But I hear you say, O angel, in answer to that prayer—I hear you speak out of the Glory and say, "There can be no union at the Throne of God except there first be union at the Cross." Listen to that warning and come to Jesus! There stands the Cross, which is the center of the Church! Lo, I see upon it the Son of God, His wounds still fountains of cleansing blood! Will you come to the Cross? Will you trust the Redeemer? Will you bow before Him? Will you be washed in His blood? Will you be saved with His salvation? If so, we shall all meet in Heaven to see the face of the Lamb in His Glory. God grant we may, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM23,24.
+## Exposition by C. H. Spurgeon: Psalm 23,24
 
 Did you ever notice that the 22nd Psalm exhibits "that Great Shepherd of the sheep" as laying down His life for the sheep? And that the 23rd Psalm exhibits "the Good Shepherd" with all His sheep around Him happy and restful, while the 24th Psalm represents "the Chief Shepherd" who shall appear in due time—and when He does appear, then shall His sheep, also, appear with Him in Glory?
 
@@ -134,7 +131,6 @@ stain from them, and to touch holy things without defiling them. This expression
 6\. This is the generation Jacob, of them that seek Him, who seek Your face. Selah. It is a wonderful thing that Jesus Christ should take His people's name but He does. He gives His Church His own name in that remarkable passage in Jeremiah 33:16—"This is the name wherewith she shall be called, The Lord Our Righteousness." And now, to make the union complete, He takes her name as His own—Christ is here called "Jacob."
 
 7-10. Lift up your heads, O you gates; and be you lift up, you everlasting doors; and the King of Glory shall come in. Who is this King of Glory? The LORD strong and mighty, the LORD mighty in battle. Lift up your heads, O you gates, even lift them up, you everlasting doors; and the King of Glory shall come in. Who is this King of glory? The LORD of Hosts, He is the King of Glory. Selah. Now, if Christ is our Shepherd in the meadows down here where He makes us to lie down in the green pastures of His Grace, He will also be our Shepherd in the heavenly pastures up there on the hilltops of Glory where the Lamb which is in the midst of the Throne shall feed us and shall lead us unto living fountains of waters! And we shall delight forever to "follow the Lamb wherever He goes."
-
 
 ---
 [[Sermon 3198 What Christians Were and Are|← #3198]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3200 Faith Justifying Speech|#3200 →]]

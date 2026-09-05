@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Lamentations 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Lecture Seventeenth
 
@@ -179,7 +178,7 @@ I cannot proceed farther now.
 
 ## Prayer Lecture 17
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast once stretched forth thy hand to consecrate us a people to thyself, — O grant, that thy paternal favor may perpetually shine on us, and that we may, on the other hand, strive always to glorify thy name, so that having once embraced us thou mayest continue thy goodness, until we shall at length enjoy the fullness of all blessings in thy celestial kingdom, which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -300,7 +299,7 @@ As it has so seemed good to the brethren, I will begin tomorrow the explanation 
 
 ## Prayer Lecture 18
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou didst formerly execute judgments so severe on thy people, — O grant, that these chastisements may at this day teach us to fear thy name, and also keep us in watchfulness and humility, and that we may so strive to pursue the course of our calling, that we may find that thou art always our leader, that thy hand is stretched forth to us, that thy aid is ever ready for us, until, being at length gathered into thy celestial kingdom, we shall enjoy that eternal life, which thine only-begotten Son has obtained for us by his own blood. — Amen.
 

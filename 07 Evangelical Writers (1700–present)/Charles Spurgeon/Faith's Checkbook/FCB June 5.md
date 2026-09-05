@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 5
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**IS THERE A DIFFERENCE?**
+## **Is There a Difference?**
 
 > But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel." Exod. 11:7
 
@@ -23,7 +22,6 @@ What! Has God power over the tongues of dogs? Can he keep curs from barking? Yes
 If He lets dogs move their tongues, yet He can stop their teeth. They may make a dreadful noise, and still do us no real harm. Yet, how sweet is quiet! How delightful to move about among enemies, and perceive that God maketh them to be at peace with us! Like Daniel in the den of lions, we are unhurt amid destroyers.
 
 Oh, that today, this word of the Lord to Israel might be true to me! Does the dog worry me? I will tell my Lord about him. Lord, he does not care for my pleadings; do thou speak the word of power, and he must lie down. Give me peace, O my God, and let me see thy hand so distinctly in it that I may most clearly perceive the difference which thy grace has made between me and the ungodly!
-
 
 ---
 [[FCB June 4|← June 4]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 6|June 6 →]]

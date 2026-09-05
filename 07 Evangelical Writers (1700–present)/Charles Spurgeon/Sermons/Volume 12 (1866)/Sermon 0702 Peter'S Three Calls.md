@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Peter'S Three Calls
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 702
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "The two disciples heard him speak, and they followed Jesus." John 1:37.
 
@@ -186,7 +185,6 @@ Now, you see, I have put all this on the right footing. I have told none of you 
 That bleeding Man is also the immortal God! Trust Him and you are saved! That one act of trust is the means of eternal salvation to everyone that exercises it. Then, being saved, may Christ call you, fishermen or whatever you may be, to serve Him until He comes to take you unto Himself—
 
 "Teach me, my God and King, In all things You to see, And what I do in anything, To do it as for You! All may of You partake— Nothing so small can be, But draws when acted for Your sake, Greatness and worth from You. If done beneath Your laws, Even servile labors shine! Hallowed is toil, if this the cause, The meanest work Divine."
-
 
 ---
 [[Sermon 0701 Seeing And Not Seeing—Or, Men As Trees Walking|← #701]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0703 Salvation Altogether By Grace|#703 →]]

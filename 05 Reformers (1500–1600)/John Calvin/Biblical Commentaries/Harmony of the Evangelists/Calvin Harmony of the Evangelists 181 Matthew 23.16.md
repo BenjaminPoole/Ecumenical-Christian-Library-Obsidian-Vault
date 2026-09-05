@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 181. Matthew 23:16
-
-**MATTHEW 23:16**
 
 **16.** Woe to you, blind guides! who say, Whosoever shall swear by the temple, it is nothing; but he who shall swear by the gold of the temple is guilty. **17.** Fools, and blind! for which is greater, the gold, or the temple which sanctifieth the gold? **18.** And, Whosoever shall swear by the altar, it is nothing; but whosoever shall swear by the gift which is upon it is guilty. **19.** Fools, and blind! for which is greater, the gilt, or the altar which sanctifieth the gift? **20.** Whosoever therefore shall swear by the altar, sweareth by it, and by all things that are on it. **21.** And whosoever shall swear by the temple, sweareth by it, and by him that dwelleth in it. **22.** And whosoever shall swear by heaven, sweareth by the throne of God, and by him that sitteth upon it.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Best War Cry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1709
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 4, 1883,.
+*Delivered on Lord's-Day Morning, March 4, 1883*
 
 > "The Lord his God is with him, and the shout of a king is among them." Numbers 23:21.
 
@@ -140,7 +139,6 @@ He sadly succeeded. If it had not been for Phinehas, who, in holy wrath, drove h
 A holy God abhors the very garments spotted by the flesh. Be you holy as Christ is holy! Do not take up with this German silver electrotype holiness, which is so much boasted of nowadays. Do not be deluded into self-righteousness, but seek after real holiness—and if you find it, you will never boast about it—your life will speak, but your lips will never dare to say, "See how holy I am." Real holiness dwells with humility and makes men aspire after that which yet lies beyond them. Be holy, upright, just, straight, true, pure, chaste, devout. God send us this behavior and then we shall keep Him among us as long as we live!
 
 Lastly, when we have reached that, let us have practical consecration. God will not dwell in a house which does not belong to Him. No, the first thing with any one of us is to answer this question—Do you give yourself up to Christ— body, soul and spirit—to live for Him and to die for Him? Will you give Him all that you have of talent and ability, and substance, time and life, itself? Where there is a Church made up of consecrated people, there God will remain and there He will make a Heaven below! And there the shout of a King shall be heard! And there His strength shall be revealed! And there His glory shall be seen, even as it is beheld on high! The Lord send us this, for Jesus' sake. Amen and Amen!
-
 
 ---
 [[Sermon 1708 The Holy Spirit's Threefold Conviction of Men|← #1708]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1710 Incense and Light|#1710 →]]

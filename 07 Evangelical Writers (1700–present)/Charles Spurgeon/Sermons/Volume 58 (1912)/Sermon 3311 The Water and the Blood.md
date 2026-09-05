@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Water and the Blood
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3311
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But one of the soldiers with a spear pierced His side, and forthwith came there out blood and water." John 19:34.
 
@@ -99,7 +96,7 @@ Now, Christians, I have done when I have put to you one question. Answer it and 
 
 And, my dear Brothers and Sisters, let us get closer to Christ! Let us be bedewed more often than we have been before with the water and with the blood! Let us live in the spirit of this double purification and be it ours to find this blessed stream lead us right up to the heart of Christ, from which it flowed, that we may understand the everlasting love which dwells there deep in its eternal fountains—and may rejoice and be glad in it all our days!
 
-EXPOSITION BY C. H. SPURGEON: JOHN19:23-37.
+## Exposition by C. H. Spurgeon: John 19:23-37
 
 Verse 23. Then the soldiers, when they had crucified Jesus, took His garments. They had already stripped Him, no element of shame was lacking in His substitution for us. He stooped as low as our sins could have thrust us that He might bring us up from the very depths of degradation and shame!
 
@@ -135,8 +132,7 @@ Hear the dying Savior cry."
 
 35-37. And hie that saw it bares record, and his record is true: and he knows that he is telling the truth, that you might believe. For these things were done that the Scripture should be fulfilled, a bone of Him shall not be broken. And again another Scripture says, They shall look on Him whom they pierced. [See Sermon #1956, Volume 33—on the cross after
 
-DEATH.]
-
+## Death.]
 
 ---
 [[Sermon 3310 Prompt Obedience|← #3310]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3312 The Carpenter's Son and His Relations|#3312 →]]

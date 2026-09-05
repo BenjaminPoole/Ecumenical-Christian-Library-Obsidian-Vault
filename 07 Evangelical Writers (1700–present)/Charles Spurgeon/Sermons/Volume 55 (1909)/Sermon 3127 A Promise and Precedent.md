@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # A Promise and Precedent
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3127
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He shall glorify Me: for He shall receive ofMine, and shall show it unto you." John 16:14.
 
@@ -134,7 +131,6 @@ There are many of you who are doing this under great discouragements, but I pray
 If you are moved to act and speak like that, I cannot tell how often God the Holy Spirit would glorify Christ by enabling you, first, to receive the things of Christ, yourself, and then to so show them to others that they would be moved to say, "We will go with you to the Cross of Calvary. We will go with you to the sinner's Savior. Where you were saved, there we, also, will be saved." How I wish that all in this congregation would make this resolve now through the effectual working of the ever-blessed Spirit, "Jesus is a great Savior! We will have Him as our Savior." How I wish that this sacred impulse might come upon all of us who are now in this building, that we might all be unhappy and unsatisfied until we found Christ! That is the way for you to glorify Christ, Sinner—not for you to bring Him any of your own goodness— but to go to Him and take of His goodness! Not for you to try to make yourself better, but to come to Him just as you are, and accept Him as your Savior, to be your Lord and Master forever!
 
 May the Holy Spirit lead you to do so! Do it, blessed Spirit! You love to glorify Christ—here is Your opportunity in this vast congregation! Come and work this great work for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3126 Pictures of Life|← #3126]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3128 Good Cheer From Christ's Real Presence|#3128 →]]

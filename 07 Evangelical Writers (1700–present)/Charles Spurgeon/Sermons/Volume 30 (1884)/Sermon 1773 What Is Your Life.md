@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # What Is Your Life?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1773
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 30, 1884,.
+*Delivered on Lord's-Day Morning, March 30, 1884*
 
 > "For what is your life? It is even a vapor, that appears for a little time, and then vanishes away." James 4:14.
 
@@ -89,7 +88,7 @@ Another came, nor yet beside the rill,
 
 Nor up the lawn, nor at the wood was he." The air has felt the passing bell and now the stars look down upon a stone on which is written in large letters, "HERE
 
-HE LIES!"
+## He Lies!"
 
 Or the dews shall wet a grass-grown mound, girt about with brambles, on which a few wild flowers have sprung up spontaneously to show how life shall yet triumph over death. Children may bear our name and yet a fourth generation shall quite forget that we ever sojourned in this region! Such is our life—"a vapor, that appears for a little time, and then vanishes away." This is the Truth of God—you know it—but I cannot impress it upon your hearts as it ought to be impressed. Therefore I invite you to join me in the prayer, "So teach us to number our days, that we may apply our hearts unto wisdom."
 
@@ -162,7 +161,6 @@ But gladly take off these garments of clay—
 To die in the Lord is a covenant blessing
 
 Since Jesus to Glory through death led the way." God grant us so to live and die that we may live to die no more, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1772 Slaying the Sacrifice|← #1772]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1774 God's Work Upon Minister and Convert|#1774 →]]

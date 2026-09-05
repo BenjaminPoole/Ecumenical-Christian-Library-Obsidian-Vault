@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Third Beatitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3065
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed are the meek: for they shall inherit the earth." Matthew 5:5.
 
@@ -73,7 +70,7 @@ And then, dear Friends, the text means yet more than that—we shall inherit thi
 
 But this must be the work of Grace. We must be born-again, or else our proud spirits will never be meek. And if we have been born-again, let it be our joy, as long as we live, to show that we are the followers of the meek and lowly Jesus with whom gracious words I close my discourse—"Come unto Me, all you that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn of Me; for I am meek and lowly in heart, and you shall find rest unto your souls. For My yoke is easy, and My burden is light." So may it be, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:1-12.
+## Exposition by C. H. Spurgeon: Matthew 5:1-12
 
 Verse 1. And seeing the multitudes, He went up into a mountain. For convenience and quietude and to be out of the way of traffic He went up into a mountain. Elevated Doctrines would seem most at home on the high places of the earth.
 
@@ -106,7 +103,6 @@ Verse 1. And seeing the multitudes, He went up into a mountain. For convenience 
 10\. Blessed are theey which are persecuted for righteousness' sake: for theirs is the Kingdom of Heaven. They have it now, they are already participating in it for, as Christ was persecuted and He is again persecuted in them, as they are partakers of His sufferings, so are they sharers in His Kingdom.
 
 11, 12. Blessed are you when men shall revile you, andpersecute you, and shall say all manner of evil against you falsely, for My sake. Rejoice and be exceedingly glad: for great is your reward in Heaven: for so persecuted they the Prophets which were before you. You have an elevation by persecution—you are lifted into the peerage of martyrdom, though you occupy but an inferior place in it, yet you are in it. Therefore, "rejoice and be exceedingly glad."
-
 
 ---
 [[Sermon 3064 'And It Was So'|← #3064]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3066 The Everlasting Counselor|#3066 →]]

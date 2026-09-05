@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - theodore-beza
 ---
-
 # 3. CHAP. III
-
-## CHAP. III.
 
 *How God putteth in execution his eternall counsell, aswell towards the elect, as the reprobate.*
 

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 15. No. VIII. Sir John Borthwick.
 
 ## No. VIII.
 
-SIR JOHN BORTHWICK.
+## Sir John Borthwick
 
 Sir John Borthwick was a younger son of William third Lord Borthwick, who was slain at Floddon in 1513. Sir Ralph Sadler mentions "Captain Borthwick, Lieutenant of the French King's guard," as one of the persons who were appointed by James the Fifth, to accompany the English Ambassador when presented at Court in February 1539-40.—(State Papers, vol. i. p. 19.)
 

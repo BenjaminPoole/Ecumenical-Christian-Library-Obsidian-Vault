@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 102
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -250,7 +249,7 @@ But, *Ninthly*, If you would have his eternity yet more express, see Heb 7:3, wh
 
 ## Hints to the Village Preacher
 
-**TITLE.**
+## **Title.**
 
 1. Afflicted men may pray.
 
@@ -449,7 +448,6 @@ In *"Meditations on Twenty select Psalms*, by Sir SIR ANTHONY COPE, Chamberlain 
 In *"Sermons on the Seven Penitential Psalms, Preached during Lent*, 1838," by the Rev. CHARLES OXENDON, there is an Exposition of this Psalm.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 101|← Psalm 101]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 103|Psalm 103 →]]

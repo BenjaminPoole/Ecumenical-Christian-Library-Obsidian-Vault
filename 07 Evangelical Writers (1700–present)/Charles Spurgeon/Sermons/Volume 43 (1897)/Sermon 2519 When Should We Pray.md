@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # When Should We Pray?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2519
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Men ought always to pray, and not to faint." Luke 18:1.
 
@@ -81,9 +78,9 @@ And you will be sure to faint, at times, through weariness and depression of spi
 
 I have come to deal with God's people in the close of my subject, but I almost wish I had not—that I could have kept on in the first strain and talked with those who are beginning to pray. Dear Friends, do begin tonight, I pray you, with your eye on my Lord on yonder Cross, all stained with the streaks of crimson blood flowing down His precious body. Look at Him! There is life in a look at Him. Look at Him as He dies for you and you shall live! God help you to do so, for Christ's sake! And when you have believed in Him, come and be baptized in His name, as these dear friends are about to be. God bless you all! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK" —145 (PART 1), 978, 977.
+## Hymns from "Our Own Hymn Book" —145 (Part 1), 978, 977
 
-EXPOSITION BY C. H. SPURGEON: PSALM145.
+## Exposition by C. H. Spurgeon: Psalm 145
 
 I am going to preach about prayer, [the exposition was always at the beginning of the service] so we will read "David's Psalm of Praise." Thus we shall have two parts of true worship.
 
@@ -132,7 +129,6 @@ Verses 1, 2. I will extol You, my God, O king; and I will bless Your name foreve
 21\. My mouth shall speak the praise of the Lord. God move us, each one, to do this! Then with the Psalmist we may fitly say—
 
 21\. And let all flesh bless His holy name forever and ever.
-
 
 ---
 [[Sermon 2518 A Sad Interior and a Cheery Messenger|← #2518]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2520 A Program Never Carried Out|#2520 →]]

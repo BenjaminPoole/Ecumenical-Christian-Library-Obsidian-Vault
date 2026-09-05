@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Church's Probation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2967
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You, O God, have tested us." Psalm 66:10.
 
@@ -25,7 +22,7 @@ THE Psalmist, who spoke these words in his song, told forth the experience of th
 
 And God's dear Son, the Captain of our salvation, was, Himself, tested and tested in all things, too! He was thrust into the hottest part of the glowing coals and tested as you and I have never been tested—tested to such an extent as our heart has not conceived! And among the professed followers of Jesus, all the sons of God are witnesses to this Truth, "You, O God, have tested us"—whether they were tested in dungeons where they lay victims of damp and mildew, or on racks where every bone was dislocated and every muscle snapped—or at the stake where they mounted in chariots of fire to Heaven, or on the rocks where they wandered about in sheepskins and goatskins, destitute, afflicted, tormented—in all these temptations and trials God tested them! And even to this day, though by less severe methods, yet by other tests, as I shall have to show, the Church has still the same song to sing and each dying saint must still subscribe his name to the long list. Yes, and every bright spirit around the Throne of God, in looking back upon his experience on earth, will have to swell the great chorus, "You, O God, have tested us." There is not an ingot of silver in Heaven's treasury that has not been in the furnace on earth and been purified seven times! There is not a gem of purest serene ray which that Divine Jeweler has not exposed to every sort of test! There is not an atom of gold in the Redeemer's crown which has not been molten among the hottest coals so as to rid it of its alloy! It is universal to every child of God—if you are a servant of the Lord, you must be tested—you shall never enter Heaven unproved! You must be tested in the fire—the test, the assaying must take place upon every one of us. Nor do I think we ought to shun it. Perhaps it may happen that in the feeble words I speak tonight, some reason may be given which shall reconcile your hearts to the sternness of the test and even make you kiss the hand of the Refiner when He puts you into the fire!
 
-I. WHAT IS IT THAT YOU, O GOD, HAVE TESTED IN YOUR PEOPLE?
+## I. What Is It that You, O God, Have Tested in Your People?
 
 I think we may answer, He has tested everything. If we have anything that has not been tested, it either is to be tested or else it is so bad that it is not worth testing. Everything we have that God has given us will have to be tested. There is not a grain of Grace that will escape the probation—He is sure, in some way or other, to test and exercise it. We have no manna to lay in the cupboard to breed worms—the manna is given us to eat. The Rock that follows us with its refreshing streams flows that we may drink—when we shall cease to thirst, the river will cease to flow—we only have Grace given to us that it may be tested.
 
@@ -104,7 +101,6 @@ One has learned, by being tested, to lose that habit of treading quite so hard o
 Then, we also gain much by being tested. I cannot tell all that we gain. I never read a list of the earrings and the bracelets that the Israelite women gained from the Egyptians. And I cannot, therefore, give you a category of all the golden jewels, all silver bracelets and the rich ruby tiaras that Christians get from the depths of their tribulation. We get all sorts of choice things. Was it not Rutherford who said that he drank many sorts of God's wine, but the wine which was the sourest of all was the sweetest when it was down? And so it assuredly is. There are many sorts of bread that we eat that are very delightful—many breads of Heaven. But that which is baked on the coals, just as the bread which Elijah ate was baked—that is the meal that makes us go in the strength thereof for 40 days! All bread that comes from God is good, but that which the black ravens with their hoarse throats bring to us—that is the bread which is most fit for God's prophets. All our passages through the fiery furnace make us like swords when they are well annealed—they are ready to cut right through the bone—it makes us true Jerusalem blades thus to be put through the fire again and again. Well, Brothers and Sisters, you and I will not cease from being tested until we get to Heaven and then it will be all over. And we shall sing and this shall be the sweet note of it, "You have tested us, O God, and blessed be Your name for it! Before we were afflicted, we went astray, but now have we kept Your Word."
 
 There are many here who, I fear, if they were tested, would be found to be dross. Let such remember that God, by His Grace, can transmute the vile metal into the purest gold. One touch of the Cross of Christ, one drop of His precious blood can turn a sinner into a saint! "God is able of these stones to raise up children unto Abraham." And however great and vile your sins may be, "there is life in a look at the Crucified One." One glance at the bleeding Savior and your sins are forgiven. A simple act of trust in Jesus, and you are saved and then, from that time forth, though you will have trials, you shall bless God for them! And we shall meet in Heaven to praise the name of the Most High, world without end! Amen.
-
 
 ---
 [[Sermon 2966 Resistance to Salvation|← #2966]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]]

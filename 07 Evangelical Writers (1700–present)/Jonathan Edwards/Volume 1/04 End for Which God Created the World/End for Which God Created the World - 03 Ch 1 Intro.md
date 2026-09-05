@@ -10,10 +10,9 @@ written: "1765 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. I.
 
-WHEREIN IS CONSIDERED, WHAT REASON TEACHES CONCERNING THIS AFFAIR.
+*Wherein Is Considered, What Reason Teaches Concerning This Affair*
 
 ---
 

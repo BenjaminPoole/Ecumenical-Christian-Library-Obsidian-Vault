@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 95. Matthew 11:20-24; Luke 10:13-16
-
-**matthew 11:20-24; luke 10:13-16**
 
 **20**. Then he began to upbraid the cities, in which most of his mighty works were done, because they had not repented of crimes: **21**. Woe to thee, Chorazin! woe to thee, Bethsaida! for if the mighty works, which have been done in you, had been done in Tyre and Sidon, they would have repented of their crimes long ago in sackcloth and ashes. **22**. But I say to you, It will be more tolerable for Tyre and Sidon [^1] in the day of judgment than for you. **23**. And thou, Capernaum, which art exalted even to heaven shall be cast down even to hell; for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day. **24**. But I say to you, That it will be more tolerable for the land of Sodom [^2] in the day of judgment than for thee.
 

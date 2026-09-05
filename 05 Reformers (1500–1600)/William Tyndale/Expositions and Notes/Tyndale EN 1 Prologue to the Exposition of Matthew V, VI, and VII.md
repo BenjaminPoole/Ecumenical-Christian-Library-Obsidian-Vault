@@ -10,48 +10,43 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 1. Prologue to the Exposition of Matthew V, VI, and VII
 
 - Tg^rr ta I n - c T-g J'4(SE;jf'!
 
-EXPOSITIONS OF SCRIPTURE
+## Expositions of Scripture
 
-PRACTICE OF PRELATES.
+## Practice of Prelates
 
 4F0V tt)e ilutiUcatton of tf^t ^movk& of tlje jFatfiero anD (2^atlp SlS^ritere of tf)( liefotmeli
 
-EXPOSITIONS AND NOTES
+## Expositions and Notes
 
-SUNDRY PORTIONS
+## Sundry Portions
 
-THE HOLY SCRIPTURES,
+## The Holy Scriptures
 
-TOGETHER WITH
+## Together With
 
-THE PEACTICE OF PRELATES.
+## The Peactice of Prelates
 
 WILLIAM TYNDALE,
 
-MARTYR, 1586.
+## Martyr, 1586
 
-EDITED FOR
-
-REV. HENRY WALTER, B.D. F.R.S.
+## Edited For
 
 RECTOR OF HASILBURY BRYAN, DORSET ;
 
 FORMERLY FELLOW OF ST JOHn's COLLEGE, CAMBRIDGE, AND PROFESSOR OF NATURAL
 
-PHILOSOPHY IN THE EAST INDIA COMPANY'S COLLEGE AT HAILEYBURY.
+## Philosophy in the East India Company's College at Haileybury
 
-CAMBRIDGE :
+## Printed At
 
-PRINTED AT
+## The University Press
 
-THE UNIVERSITY PRESS.
-
-M.DCCC.XLIX.
+## M.dccc.xlix
 
 Prologue to Exposition of St Matthew's Gospel 3
 
@@ -71,13 +66,13 @@ Preface to the Practice of Prelates 240
 
 The Practice of Prelates 249
 
-EXPOSITION
+## Exposition
 
-FIFTH, SIXTH, AND SEVENTH CHAPTERS
+## Fifth, Sixth, and Seventh Chapters
 
 [tyndale, II.]
 
-[INTRODUCTORY NOTICE.
+## [Introductory Notice
 
 In the adyertisement prefixed to the first Tolume of this reprint of the writmgs of Tyndale, the editor announced the intention of arranging them in three classes, Iz. doctrinal and hortatory treatises; helps to a right understanding of the scriptures, consisting of introductory prefaces, expositions, and notes upon the sacred text; and lastly his replies, and exposures of the adversaries of the Reformation.
 
@@ -87,21 +82,21 @@ The first volume has accordingly comprehended the whole of the first class, and 
 
 HAN EXPOSITION UPPON THE V. VI. VII. CHAPTERS OF MATHEW,
 
-WHICH THREE CHAPTERS ARE THE KEYE AND THE DORE OF THE SCBIPTUBB.
+## Which Three Chapters Are the Keye and the Dore of the Scbiptubb
 
-AND THE RESTORING AGAYNE OF MOSES LAW CORRUPTE BY THE
+## And the Restoring Agayne of Moses Law Corrupte by The
 
-SCRIBES AND PHARISES. AND THE EXPOSITION IS
+## Scribes and Pharises. And the Exposition Is
 
-THE RESTORING AGAYNE OF CHRISTES LAWE
+## The Restoring Agayne of Christes Lawe
 
-CORRUPTE BY THE PAPISTES.
+## Corrupte by the Papistes
 
 U Item before the booke, thou hast a Prologe very necessario, contayning the whole summe of the couenaunt made betweue God and us, uppon which we be baptised to keepe it.
 
 Set forth by William Tyndall^.
 
-THE PROLOGUE.
+## The Prologue
 
 Here hast thou, dear reader, an exposition upon the fifth, to dig the sixth, and seventh chapters of Matthew, wherein Christ, our AbraJuun
 
@@ -112,8 +107,6 @@ The wells of Abraham are the scripture. And the scripture Abrahin
 may well be called the kingdom of heaven, which is eternal The kingdom Ufe, and nothing save the knowledge of God the Father, and what it i.' of his Son Jesus Christ. Moses' face is the law, in her right john xvh. understanding ; and the law in her right understanding is the Th^ey, key, or at the least way the first and principal key, to open w. t. the door of the scripture. And the law is the very way that Jhe^*"!*^ bringeth unto the door Christ, as it is written, Gal. iii. " The ^4^^ j.
 
 [2 Such is the title placed at the head of this Exposition in Day.]
-
-4 EXPOSITION OF MATTHEW V. VI. VII.
 
 Gal. ui. law was our schoolmaster to bi'ing us to Christ, that we might be justified by faith." And "the end of the law," that is to saj,
 
@@ -163,7 +156,7 @@ Pharisees, that the Jews could not see Christ when he came, p""- "." .
 
 ' imagination nor yet can. And though Christ with these three chapters ,*J,^g^^^;" did open it again ; yet by such glosses (for our unthankfulness' '^ord'thOT u sake, that we had no lust to live according) have we Christians ilJ^u^VKp"^ lost Christ again, and the understanding of the most clear '"""* text, wherewith Christ expoundeth and restoreth the law again. For the hypocrites, whatsoever seemeth impossible to their corrupt nature, unrenewed in Christ, that they cover over with the mist of their glosses, that the light thereof should not be seen. As they have interpreted here the words of Christ, wherewith he restoreth the law again, to be but good [* Fore, i. e. previous.]
 
-EXPOSITION OF MATTHEW V. VI. VII.
+## Exposition of Matthew V. VI. VII
 
 Christ used no temporal rpfiment.
 
@@ -185,7 +178,7 @@ Thou wilt haply say to me again, If I cannot have my sins forgiven except I love
 
 And like sophistry are these arguments: If thou wilt enter into life, keep the commandments; ergo, the deeds of the law justify us. Item, " The hearers of the law are not righteous in the sight of God, but the doers of the law shall be justified;" ergo, the deeds of the law justify from sin. And again : " We must all stand before the judgment-seat of [1 So D., but L. falshepe.]
 
-PROLOGUE UNTO THE READER. 7
+## Prologue unto the Reader. 7
 
 Christ, to receive every man according to the deeds which he did in the body ;" ergo, the law, or the deeds of the law, justify.
 
@@ -200,8 +193,6 @@ And as thy love to the law increaseth, so doth thy faith Faith, love, in Christ 
 come. And as thy love is cold, so is thy laith weak ; and w. t. thine hope, and longing for the life to come, little. And where no love to the law is, there is neither faith in Christ for the forgiveness of sin, nor longing for the life to come ; but instead of faith a wicked imagination, that God is so unrighteous that he is not offended with sin ; and instead of hope a desire to live for ever here, and a greediness of worldly voluptuousness.
 
 And unto all such is the scripture locked up, and made They that impossible to understand. They may read it, and rehearse '*'^'^^""''? the stories thereof, and dispute of it, as the Turks may ; and to^s|f"aJjo^ as we may of the Turks' law. And they may suck pride, ^- ^" hypocrisy, and all manner of poison there-out, to slay their own souls, and to put stumbling-blocks in other men's ways, to thrust them from the truth ; and^ get such learning therein as in Aristotle's Ethics and Moral philosophy, and in the precepts of old philosophers. But it is impossible for them [2 That is, worth nought.] [3 L. to get.]
-
-8 EXPOSITION OF MATTHEW V. VI. VII.
 
 to apply one sentence thereof to their sours health, or^ to fashion their Uves thereby for to please God ; or to make them love the law, or understand it; either to feel the power of Christ's death, and might of his resurrection, and the sweetness of the life to come: so that they ever remain carnal and fleshly ; as thou hast an ensample of the scribes, Pharisees, and Jews, in the new Testament.
 
@@ -239,8 +230,6 @@ Another conclusion is this : every man is two men, flesh Fiesh ana and spirit; w
 
 Wherefore every man must have his cross to nail his flesh cross. \v. t. to, for the mortifying of her. Now, if thou be not strong
 
-10 EXPOSITION OF MATTHEW V. VI. VII.
-
 Evil lusts and enough, and discreet thereto, to take up thy cross thyself, to be purged and to tamo thy flesh with prayer and fasting, watching, aVht^ deeds of mercy, holy meditations and reading the scripture, and with bodily labour, and in withdrawing all manner of pleasures from the flesh, and with exercises contrary to the vices which thou markest thy body most inchned to, and with abstaining from all that courage the flesh against the spirit ; as reading of wanton books, wanton communication, foohsh jesting and effeminate thoughts, and talking of covetousness Epn. V (which Paul forbiddeth), and magnifying of worldly promotions ; and takest, I say, up such a cross by thine ownself, or by the counsel of other that are better learned and exercised than thou ; then must God put his cross of adversity upon thee. For we must have every man his cross in this world ; or be damned with the world. To sin under Qf this ve SCO the difference between the sin of them that grace, cna to / liwl'^w.!.^ beheve in the blood of Christ for the remission of sin, and consent and submit themselves unto the law, and the sin of them that yield themselves unto sin, to serve it, &c. The first sin under grace ; and their sins are venial, that is to say, forgiveable. The other sin under the law, and under the damnation of the law, and fight (for a great part of them) against grace and against the Spirit of grace, and against the law of God and faith of Christ, and corrupt the text of the covenant with false glosses, and are disobedient to God, and therefore sin deadly. Lambs. Of this also ye see the difference between the lambs of
 
 Swine. true behevers; and between the unclean swine, that follow Dogs. w. T. carnal lusts and fleshly liberty ; and the churlish and hypocritish dogs, which, for the blind zeal of their own righteousness, persecute the righteousness of the faith in Christ's blood, nofatti^''* The effeminate and careless swine, which continue in their WT. fleshliness, and cease not to wallow themselves in their old puddle, think that they believe very well in Christ's blood ; but they are deceived ; as thou mayest clearly perceive, because they fear not the damnation of evil works, nor love the law of good works, and therefore have no part in the promise. D^^tovenot The cruel and doggish hypocrites, which take upon them w. T. to work, think they love the law ; which yet they never saw, save under a veil. But they be deceived ; as thou mayest perceive, by that they believe not in Christ for the forgive-
@@ -265,8 +254,6 @@ And thus ye see that faith is the thing that is affirmed to justify, of all part
 
 Another conclusion is this : to believe in Christ for the remission of sins, and, of a thankfulness for that mercy, to love the law truly : that is to say, to love God that is the Father of all and giveth all ; and Jesus Christ, that is Lord of us all, and bought us all, with all our hearts, souls, power, and might ; and our brethren for our Father's sake (because they be created after his image), and for our Lord and master Christ's sake, because they be the price of his blood ; and to
 
-12 EXPOSITION OF MATTHEW V. VI, YII.
-
 long for the life to come, because this life cannot be led withThe right out sin. Thcso three points (I say) are the profession and wl"!.'"" rehgion of a christian man, and the inward baptism of the heart, signified by the outward washing of the body. And they be that spiritual character, badge, or sign, wherewith God, through his Spirit, marketh all his immediately and as soon as they be joined to Christ, and made members of his church by true faith. The church The church of Christ, then, is the multitude of all them w. X. " that believe in Christ for the remission of sin ; and, of a thankfulness for that mercy, love the law of God purely and without glosses; and, of hate they have to the sin of this world, long for the life to come. This is the church that cannot err damnably ; nor any long time ; nor all of them : but as soon as any question ariseth, the truth of God's promise stirreth up one or other to teach them the truth of every thing needful to salvation out of God's word ; and lighteneth the hearts of the other true members, to see the same, and to consent thereto.
 
 And as all they that have their hearts washed with this inward baptism of the Spirit are of the church, and have the keys of the scripture, yea, and of binding and loosing, and Whosoever do uot err ; even so they that sin of purpose, and will not tmnlfrom"^ hcar when their faults be told them, but seek liberties and Christ are privilcgcs to slu unpunishcd, and gloss out the law of God, church. an(j maintain ceremonies, traditions and customs, to destroy the faith of Christ, the same be members of Satan, and all their doctrine is poison, error and darkness ; yea, though they be popes, bishops, abbots, curates, and doctors of divinity, and though they can rehearse all the scripture without book, and though they be seen in Greek, Hebrew, and Latin : yea, and though they so preach Christ and the passion of Christ, that they make the poor women weep and howl again. They that For whcu they come to the point, that they should minister uw written Christ's passiou unto the salvation of our souls, there they hearts cannot poison altogether and gloss out the law, that should make us un((er)tand ' ... .
@@ -275,7 +262,7 @@ chriuTo"" ^ ^*^^ ^^^ salvation in Christ, and drive us in that point from
 
 Mivat.on. Christ, and teach us to put our trust in our own works for the remission and satisfaction of our sins, and in the apish play of hypocrites, which sell their merits instead of Christ's blood and passion.
 
-PROLOGUE UNTO THE READER. 13
+## Prologue unto the Reader. 13
 
 Lo, now, dear reader, to believe in Christ's blood for the a short remission of sin, and purchasing of all the good promises that w. t. help to the life to come ; and to love the law ; and to long what the for the life to come, is the inward baptism of the soul, the ti'sm^Vthr baptism that only availeth in the sight of God ; the new generation and image of Christ ; the only key also to bind and loose sinners ; the touchstone to try all doctrines ; the lantern and light that scattereth and expelleth the mist and darkness of all hypocrisy, and a preservative against all error and heresy ; the mother of all good works ; the earnest of everlasting life, and title whereby we challenge our inheritance.
 
@@ -286,8 +273,6 @@ that the one is known by the other, it is impossible to know any of them truly, 
 For if thou wilt be sure that thy faith be perfect, then Faith, hope, examine thyself whether thou love the law. And in like are known^ manner, if thou wilt know whether thou love the law aright, oti^er. w. t.
 
 P Tyndale alludes to Ezekiel ix. 4 6, where the Latin, of the Vulgate translation, makes the Lord say, " Put the sign of Thau on the foreheads of the men." The Hebrew verb means setting a sign, or marking; and the substantive formed from it, M^, signifies a sign, or mark, and is also used as the name of the letter Jl, Thau, the last letter of the Hebrew alphabet. Hence Jerome, copying the Hebrew substantive in Roman letters, translates, Signa Thau, where the Septuagint renders, Aos a-rjiielov, and our authorised version, ' Set a mark.' Unhappily, too, though neither the Hebrew nor the Samaritan characters for Thau bear any resemblance to a cross, the Greek and Roman character for the corresponding letter, T, obviously has a resemblance to it ; so that the text, as read by the Romanists in thieir Vulgate, conveys the idea of the outward sign of the cross having a defensive power in it.]
-
-14 EXPOSITION OF MATTHEW V. VI, VII.
 
 then examine thyself whether thou believe in Christ only for the remission of sin, and obtaining the promises made in the scripture. And even so, compare thy hope of the life to come unto faith and love, and to hating the sin of this life ; which hate the love to the law engendereth in thee. And if they accompany not one another, all three together, then be sure that all is but hypocrisy.
 
@@ -307,9 +292,9 @@ Go to then, and desire God to print this profession in thine heart, and to incre
 
 [2 Thus L., but D. has Amen.]
 
-AN EXPOSITION
+## An Exposition
 
-FIFTH, SIXTH, AND SEVENTH CHAPTERS
+## Fifth, Sixth, and Seventh Chapters
 
 ---
 [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 2 Exposition of Matthew V, VI, and VII The Fifth Chapter|2. Exposition of Matthew V, VI, and VII →]]

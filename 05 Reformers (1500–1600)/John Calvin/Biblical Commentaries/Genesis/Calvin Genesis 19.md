@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 19
 
-**CHAPTER 19.**
+***Chapter 19.***
 
 ## Genesis 19:1-38
 

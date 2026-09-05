@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Job's Resignation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2457
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Job arose, tore his clothes, and shaved his head, and fell to the ground, and worshipped, and said, Naked I came from my mother's womb, and naked shall I return there: the LORD gave, and the LORD has taken away; blessed be the name of the LORD. In all this Job sinned not, nor charged God foolishly." Job 1:20-22.
 
@@ -89,7 +86,7 @@ This is all meant to be sweet, cheery talk to suffering saints. How I wish that 
 
 Sometimes in distributing temporal relief, we meet with persons who have been out of work and full of trouble. They may not have any bread to eat and we say to them, "Did you ever cry to God for help?" "No, Sir, we never prayed in all our life." What is the matter with you? Here is your child crawling about the house, shivering for lack of bread and clothes. "Did you never ask your Father for anything?" "No, never." Come, Friend, did God make you, or did you grow without Him? Did God create you? If He made you, He will have respect unto the work of His hands. Go and try Him, even on that low ground. Go and seek His face, even as His creature, and see whether He does not help you! O unbelief, to what madness do you go, that even when men are driven to starvation, they will not turn to God! O Spirit of God bless the sons of men! Even through their fears, sorrows and losses, bless them, and bring them in penitence to the Savior's feet, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB 1:6-22.
+## Exposition by C. H. Spurgeon: Job 1:6-22
 
 Verse 6. Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them. Angels and all kinds of intelligent spirits had, as it were, a special, solemn, general assembly—a great field-day, or levee. Perhaps, in stars far remote, in various parts of the universe, there was celebrated, that day, a high festival of honor unto Jehovah, but since sin has come into the world, since even among the 12 Apostles there was a Judas, so in every assembly, even though it is an assembly of the sons of God, there is sure to be a devil—"Satan came also among them." If he is not anywhere else, he is sure to be where the sons of God are gathered together. Yet what impudence this is on his part, that he dares to come even into the assemblies of the saints! And what hardness of heart he must have, for he comes in as a devil and he goes out as a devil! The sons of God offer their spiritual prayers inspired by the Holy Spirit, but the devil offers diabolical petitions suggested by his own malice.
 
@@ -120,7 +117,6 @@ Verse 6. Now there was a day when the sons of God came to present themselves bef
 18-19. While he was yet speaking, there came also another, and said, Your sons and your daughters were eating and drinking wine in their eldest brother's house: and, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell you. Did any other man ever have to endure such a complication of trouble, such agonies piled, one upon another, with no respite? Job must have felt well-near stunned and choked by these consecutive griefs!
 
 20-22. Then Job arose, tore his clothes, and shaved his head, and fell to the ground, and worshipped, and said, Naked I came from my mother's womb, and naked shall I return there: the LORD gave and the LORD has taken away; blessed be the name of the LORD. In all this Job sinned not, nor charged God foolishly. Oh, the triumphs of Almighty Grace! May God grant us such patience, if He sends us such trials, and unto Him shall be the glory evermore!
-
 
 ---
 [[Sermon 2456 The Lamb Our Leader|← #2456]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2458 Reasons for a Singular Question|#2458 →]]

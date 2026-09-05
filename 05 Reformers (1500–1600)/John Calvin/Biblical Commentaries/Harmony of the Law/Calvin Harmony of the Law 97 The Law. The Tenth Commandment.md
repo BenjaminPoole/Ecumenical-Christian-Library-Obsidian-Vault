@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 97. The Law: The Tenth Commandment
 
 **Tenth Commandment**
@@ -22,7 +21,7 @@ tags:
 
 **17.** Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that *is* thy neighbor’s.
 
-**ITS REPETITION**
+## **Its Repetition**
 
 **Deuteronomy 5**
 

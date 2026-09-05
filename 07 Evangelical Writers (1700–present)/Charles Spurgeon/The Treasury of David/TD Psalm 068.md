@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 68
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -22,11 +21,11 @@ tags:
 
 **Verse 1.** *Let God arise.* In some such words Moses spake when the cloud moved onward, and the ark was carried forward. The ark would have been a poor leader if the Lord had not been present with the symbol. Before we move, we should always desire to see the Lord lead the way. The words suppose the Lord to have been passive for awhile, suffering his enemies to rage, but restraining his power. Israel beseeches him to "arise, "as elsewhere to "awake, ""gird on his sword, "and other similar expressions. We, also, may thus importunately cry unto the Lord, that he would be pleased to make bare his arm, and plead his own cause. Let his enemies be scattered. Our glorious Captain of the vanguard clears the way readily, however many may seek to obstruct it; he has but to arise, and they flee, he has easily over thrown his foes in days of yore, and will do so all through the ages to come. Sin, death, and hell know the terror of his arm; their ranks are broken at his approach. Our enemies are *his* enemies, and in this is our confidence of victory. Let them also that hate him flee before him. To hate the infinitely good God is infamous, and the worst punishment is not too severe. Hatred of God is impotent. His proudest foes can do him no injury. Alarmed beyond measure, they shall flee before it comes to blows. Long before the army of Israel can come into the fray, the haters of God shall flee before HIM who is the champion of his chosen. He comes, he sees, he conquers. How fitting a prayer is this for the commencement of a revival! How it suggests the true mode of conducting one:—the Lord leads the way, his people follow, the enemies flee.
 
-**NEW TRANSLATION**
+## **New Translation**
 
 In order that our readers may see the Psalm at a glance in a good translation, we subjoin the version of FRANZ DELITZSCH; recommending our ministerial brethren to procure the volumes of his valuable Commentary on the Psalms, issued by the Messrs. CLARK, of Edinburgh.
 
-HYMN OF WAR AND VICTORY IN THE STYLE OF DEBORAH
+## Hymn of War and Victory in the Style of Deborah
 
 2 LET Elohim arise, let His enemies be scattered, And let those who hate Him flee before His face.
 
@@ -771,7 +770,6 @@ Sixthly. It is the duty of God's people to pray him up when he seems to be down,
 **Verse 35.** *Blessed be God.* A brief, but very suggestive text.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 067|← Psalm 67]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 069|Psalm 69 →]]

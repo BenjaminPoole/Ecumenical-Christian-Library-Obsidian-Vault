@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Reasons For Doubting Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2925
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Why did you doubt?" Matthew 14:31.
 
@@ -99,7 +96,7 @@ I know not to whom this Word will come with power, but, in the name of Jesus Chr
 
 but, first of all, believe in Jesus Christ! Trust Him on the spot. "Oh," says one, "it will be a venture." Venture, then, Friend—venture! "May I pass in by the gate of mercy?" asks another. Pass through it, whether you may or not, for there never was a soul sent back for coming to Christ by mistake! Never was heard of such a thing as a soul attempting to pass in by the portal of faith and Jesus Christ saying, "Ho, there! What are you doing? You have no right to trust Me. You are not one of My elect. You must go back and you must not dare to trust Me. You are not the kind of man I want." There was never such a case known and there never will be such a case, for Christ' s own words are, "Him that comes to Me I will in no wise cast out." That is any, "him," in all the world that comes to Christ, He never will, He never can cast him or her out! I would make a dash for it, Sinner, if I were you! Sink or swim, neck or nothing, here it is. "I do believe—I must believe—in Jesus Christ and if I perish, I shall still be clinging to His Cross." You will never perish there! May the Lord of Covenant Mercy draw you to this tonight, or drive you to it. I care not which—so long as you get to it and Christ becomes All-in-All to your souls! Let us pray for that.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 14:14-33.
+## Exposition by C. H. Spurgeon: Matthew 14:14-33
 
 Verse 14. And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and He healed their sick Different persons take different views of multitudes according to the state of their minds. Many an officer, when he sees a multitude, considers how long it would take to march them from a certain place. Another man begins calculating how much food they will all need. Another begins to estimate their wealth, another to calculate what per cent will die in the year. But the Lord Jesus Christ's heart was so full of pity and mercy that the thing for Him to do as He looked upon them was to have compassion upon them. He healed their sick and helped them in their sorrows.
 
@@ -122,7 +119,6 @@ Verse 14. And Jesus went forth, and saw a great multitude, and was moved with co
 29, 30. AndHe said, Come. And when Peter was come down out of the boat, he walked on the water, to go to Jesus. But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me! When he began to be afraid he began to sink. As long as his confidence in his Master lasted, he could walk the waves.
 
 31-33. And immediately Jesus stretched forth His hand, and caught him, and said unto him, O you of little faith, why did you doubt? And when they were come into the boat, the wind ceased. Then they that were in the boat came and worshipped Him, saying, of a truth You are the Son of God. Well might they worship, for they had seen abundant proof of His Deity. They worshipped Him, saying, "of a truth You are the Son of God." They could not have meant by this, "You are a superior person, an excellent character." They would not, if they were Jews, have worshipped a mere man, for of all things you ever saw in this life, you never saw a Jew that would worship any form that was visible to the eye! The captivity of Babylon delivered the Hebrew race from idolatry altogether. They may fall into superstition of another sort, but never into idolatry. Mark that. There has not been since that time a man of Jewish race who would have worshipped Christ if he had not believed Him to be God.
-
 
 ---
 [[Sermon 2924 Preventing Grace|← #2924]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2926 The Love of Our Espousals|#2926 →]]

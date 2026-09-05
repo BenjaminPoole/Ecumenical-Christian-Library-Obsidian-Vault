@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 17
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NEAREST AND DEAREST FELLOWSHIP**
+## **Nearest and Dearest Fellowship**
 
 > So shall we ever be with the Lord" I Thess. 4:17
 
@@ -23,7 +22,6 @@ While we are here the Lord is with us, and when we are called away we are with H
 What a joy is this! Our supreme honor, rest, comfort, delight, is to be with the Lord. We cannot conceive of anything which can surpass or even equal this divine society. By holy fellowship we must be with Him in His humiliation, rejection, and travail, and then we shall be with Him in His glory. Before long we shall be with Him in His rest and in His royalty, in His expectation and in His manifestation. We shall fare as He fares, and triumph as He triumphs.
 
 O my Lord, if I am to be for ever with thee, I have a destiny incomparable. I will not envy an archangel. To be for ever with the Lord is my idea of Heaven at its best. Not the harps of gold, nor the crowns unfading, nor the light unclouded, is glory to me; but Jesus, Jesus Himself, and myself for ever with Him in nearest and dearest fellowship.
-
 
 ---
 [[FCB December 16|← December 16]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 18|December 18 →]]

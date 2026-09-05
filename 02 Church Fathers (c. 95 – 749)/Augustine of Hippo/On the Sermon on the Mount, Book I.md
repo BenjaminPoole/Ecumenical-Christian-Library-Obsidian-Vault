@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # On the Sermon on the Mount, Book I
 
-MATTHEW 5
+*Matthew 5*
 
 ## Chapter 1
 

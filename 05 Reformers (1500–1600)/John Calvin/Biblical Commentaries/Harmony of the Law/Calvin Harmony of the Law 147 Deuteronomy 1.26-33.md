@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 147. Deuteronomy 1:26-33
 
 **The Repetition of the same Narrative**
-
-**Deuteronomy 1**
 
 **26.** Notwithstanding ye would not go up, but rebelled against the commandment of the Lord your God:
 

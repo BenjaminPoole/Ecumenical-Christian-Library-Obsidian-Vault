@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 25. Letter XXIV. To the Same (January 1413)
-
-LETTER XXIV. TO THE SAME (January 1413)
 
 The sufferings of Christ; "Our Master the Peacemaker";
 

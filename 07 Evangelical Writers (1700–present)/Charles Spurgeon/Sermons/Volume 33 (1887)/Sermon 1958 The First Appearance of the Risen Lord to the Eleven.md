@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # The First Appearance of the Risen Lord to the Eleven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1958
@@ -71,7 +70,7 @@ Note well that this is also our grand hope concerning those who are asleep. You 
 
 II. Secondly, will you follow me while I very briefly set forth OUR LORD'S CHARACTER WHEN RISEN FROM
 
-THE DEAD?
+## The Dead?
 
 What is He, now that He has conquered death and all that belongs to it? What is He, now that He shall hunger no more, neither thirst anymore? He is much the same as He used to be! Indeed, He is altogether what He was, for He is "the same yesterday, today and forever."
 
@@ -122,7 +121,6 @@ Observe that our Lord, after He had risen from the dead, was still full of the s
 There I leave the subject, wishing that I could have handled it much better. Think it over when you are quiet at home and add this thought to it, that you have a share in all that is contained in resurrection. May the Holy Spirit give you a personal grip of this vital Truth of God! You, yourself, shall rise from the dead—therefore, be not afraid to die!
 
 If any of my Hearers have no share in our Lord's Resurrection, I am truly sorry for them. O my Friend, what you are losing! If you have no share in the living Lord, may God have mercy upon you! If you have no share in Christ's rising from the dead, then you will not be raised up in the likeness of His glorified body! If you do not attain to that resurrection from among the dead, then you must abide in death, with no prospect but that of a certain fearful looking for of judgment and of fiery indignation. Oh, look to Jesus, the Savior! Only as you look to Him can there be a happy future for you. God help you to do so at once, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 1957 The Lord's Own View of His Church and People|← #1957]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1959 The Watchword For Today—Stand Fast|#1959 →]]

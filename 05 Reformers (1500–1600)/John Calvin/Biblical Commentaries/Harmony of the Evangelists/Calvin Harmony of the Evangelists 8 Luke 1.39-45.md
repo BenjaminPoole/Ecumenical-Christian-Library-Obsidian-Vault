@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 8. Luke 1:39-45
-
-**LUKE 1:39-45**
 
 **39**. And Mary arising in those days went into the mountainous parts [^1] with haste, into a city of Judah, **40**. And entered into the house of Zacharias, and saluted Elisabeth. **41**. And it happened, when Elisabeth heard the salutation of Mary, the babe started [^2] in her womb, and Elisabeth was filled with the Holy Ghost, **42**. And exclaimed with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb. **43**. And whence is this to me, that the mother of my Lord should come to me? **44**. For lo, when the voice of thy salutation was made [^3] in my ears, the babe started for joy in my womb. **45**. And blessed is she who believed: for there shall be a fulfillment [^4] to those things which have been told her by the Lord. [^5]
 

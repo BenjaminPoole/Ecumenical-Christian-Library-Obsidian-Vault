@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 72. Letter LXXI. To Gallus (hawlik), Preacher
 
-LETTER LXXI. TO GALLUS (HAWLIK), PREACHER
-
-IN THE BETHLEHEM
+## In the Bethlehem
 
 (June 21, 1415)
 

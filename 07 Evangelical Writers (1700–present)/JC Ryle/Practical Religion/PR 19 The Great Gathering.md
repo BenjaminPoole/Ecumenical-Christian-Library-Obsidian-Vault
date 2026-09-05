@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # The Great Gathering
 
-Chapter XIX · *Practical Religion* — J. C. Ryle
+## Chapter XIX · *Practical Religion* — J. C. Ryle
 
 >  *Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto Him.* "—2 Thess. ii. 1.
 
@@ -84,7 +83,6 @@ Even the day after a great victory is a sorrowful time. The triumphant feelings 
 Does Christmas, for instance, bring with it sorrowful feelings and painful associations? Do tears rise unbidden in your eyes when you mark the empty places round the fireside? Do grave thoughts come sweeping over your mind, even in the midst of your children's mirth, when you recollect the dear old faces and much loved voices of some that sleep in the churchyard? Well, look up and look forward! The time is short. The world is growing old. The coming of the Lord draweth nigh. There is yet to be a meeting without parting, and a gathering without separation. Those believers whom you laid in the grave with many tears are in good keeping: you will yet see them again with joy. Look up! I say once more. Lay hold by faith on the "coming of our Lord Jesus Christ, and our gathering together unto Him." Believe it, think of it, rest on it. It is all true.
 
 Do you feel lonely and desolate as every December comes round? Do you find few to pray with, few to praise with, few to open your heart to, few to exchange experience with? Do you learn increasingly, that heaven is becoming every year more full and earth more empty?[Pg 441] Well, it is an old story. You are only drinking a cup which myriads have drunk before. Look up and look forward. The lonely time will soon be past and over: you will have company enough by and by. "When you wake up after your Lord's likeness you shall be satisfied." (Ps. xvii. 15.) Yet a little while and you shall see a congregation that shall never break up, and a sabbath that shall never end. "The coming of our Lord Jesus Christ, and our gathering together unto Him," shall make amends for all.
-
 
 ---
 [[PR 18 Heirs of God|← Heirs of God]] · [[Practical Religion|Practical Religion Contents]] · [[PR 20 The Great Separation|The Great Separation →]]

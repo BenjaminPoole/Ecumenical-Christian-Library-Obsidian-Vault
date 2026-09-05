@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Freedom Through Christ's Blood
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3106
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As for you also, by the blood of your covenant Have set forth your prisoners out of the pit wherein is no water. Turn you to the stronghold, you prisoners of hope: even today do I declare that I will render double unto you." Zechariah 9:11,12.
 
@@ -125,7 +122,7 @@ And as I meditate upon that theme, despondency goes, pain is forgotten and I say
 
 Praise the blood, too, because when we really trust in it, it gives us liberty If you get away from the blood of the Covenant, you get into slavery. But keep close to that and you are at liberty. In prayer, mind that you plead the blood, for that is the way to get the "double" spoken of in the text. The double blessing comes by the blood of the Covenant. If you need more Grace, plead the blood for it. There is one talisman that will open every vault in the treasury of God—the blood of the Covenant! You cannot be denied if you plead the atoning Sacrifice of Jesus Christ! Knock at Heaven's gate with the crimson token in your hand and as surely as God loves Jesus Christ—and He loves Him more than all of us put together love Him—He will honor His Son's great Sacrifice and He will say to you, "According to your desire and your faith, so be it unto you." There are some preachers who cannot or do not preach about the blood of Jesus Christ—I have one thing to say to you concerning those—Never go to hear them! Never listen to them! A ministry that has not the blood in it, is lifeless, "for the blood is the life thereof—and a dead ministry is no good to anybody! Leave out the atoning Sacrifice and it would be better for the people that the places in which a Christless, bloodless Gospel is preached, should be all burnt to the ground, for the atoning Sacrifice is the soul and life and marrow of Christianity! Rest in that and you are saved! But get away from that and you have wandered where peace and life and safety can never come! God Almighty bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS2:14-43.
+## Exposition by C. H. Spurgeon: Acts 2:14-43
 
 Verse 14. But Peter, standing up with the eleven, lifted up his voice and said unto them, You men of Judaea, and all you that dweel at Jerusalem, be this known unto you and listen to my words. A great crowd had gathered in the street and the Apostles, under Divine Inspiration, addressed them in different tongues. Peter, as the leader, coming prominently to the front—"Peter, standing up with the eleven, lifted up his voice." They were 12 witnesses of the Resurrection of Christ from the dead, for they had seen Him after He had risen and had eaten with Him. They constituted a jury of 12 honest and true men. And Peter, as their foreman, "standing up with the eleven," gave their verdict!
 
@@ -176,7 +173,6 @@ hold of that promise! It is said that drowning men will catch at a straw. This i
 42\. And they continued steadfastly in the Apostles' doctrine and fellowship, and in breakkng of bread, and in prayers. They believed the doctrine that was taught by the Apostles and they had fellowship with them and with all other Christians with whom they were associated. They did not try to go to Heaven by some underground railway without confessing Christ, but having confessed their faith in Christ, they further manifested their devotion to Him "in breaking of bread, and in prayers." I do not know how many Prayer Meetings they had—they must have kept on praying, praising and preaching pretty well all day long.
 
 43\. And fear came upon every soul: and many wonders and signs were done by the Apostles.
-
 
 ---
 [[Sermon 3105 The Search after Happiness|← #3105]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3107 Christ and His Table Companions|#3107 →]]

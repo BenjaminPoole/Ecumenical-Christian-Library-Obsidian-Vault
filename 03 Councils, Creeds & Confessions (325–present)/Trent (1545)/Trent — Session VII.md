@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Session VII
 
 Celebrated on the third day of the month of March, MDXLVII.
@@ -102,7 +101,7 @@ No one shall be assumed unto the government of Cathedral churches, but one that 
 
 No one, by whatsoever dignity, grade, or pre-eminence distinguished, shall presume, in contravention of the institutes of the sacred canons, to accept and to hold at the same time several Metropolitan, or Cathedral, churches, whether by title, or in commendam, or under any other name whatsoever; seeing that he is to be accounted exceedingly fortunate whose lot it is to rule one church well and fruitfully, and unto the salvation of the souls committed to him. But as to those who now hold several churches contrary to the tenor of the present decree, they shall be bound, retaining the one which they may prefer, to resign the rest, within six months if they are at the free disposal of the Apostolic See, in other cases within the year; otherwise those churches, the one last obtained only excepted, shall be from that moment deemed vacant.
 
-CHAPTER III.
+## Chapter III
 
 Benefices shall be conferred solely on capable individuals.
 
@@ -112,7 +111,7 @@ Inferior Ecclesiastical Benefices, especially such as have the cure of souls, sh
 
 Whosoever shall for the future presume to accept, or to retain at the same time several cures, or otherwise incompatible Ecclesiastical Benefices, whether by way of union for life, or in perpetual commendam, or under any other name or title whatsoever, in contravention of the appointment of the sacred Canons, and especially of the Constitution of Innocent III., beginning, De multa, shall be ipso jure deprived of the said benefices, according to the disposition of the said constitution, and also by virtue of the present Canon.
 
-CHAPTER V.
+## Chapter V
 
 The holders of several Benefices with cure of souls shall exhibit their dispensations to the Ordinary, who shall provide the churches with a Vicar, assigning a suitable portion of the fruits.
 
@@ -170,7 +169,7 @@ We, by the providence of God, presiding over the government of the universal Chu
 
 Given at Rome, at St. Peter's, in the year of the Lord's Incarnation MDXLVII, on the eighth of the calends of March, in the eleventh year of our Pontificate.
 
-FAB. BISH. OF SPOL. B. MOTTA.
+## Fab. Bish. Of Spol. B. Motta
 
 ---
 [[Trent — Session VI|← Session VI]] · [[Trent (1545)|Contents]] · [[Trent — Session VIII|Session VIII →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Depths and Heights
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2635
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His Son, whom He has appointed Heir of all things, by whom also He made the worlds; who being the brightness of His Glory, and the express image of His Person and upholding all things by the word ofHispower, when He had, by Himself, purged our sins, sat down at the right hand of the Majesty on high." Hebrews 1:2.
 
@@ -81,7 +78,7 @@ And, last of all, Christ at the right hand of God signifies the eternal certaint
 
 It does seem to me that there is no proof of men's natural blindness that is so conclusive as this, that men will not go and trust in Jesus. O Sinners, if sin had left you sane in heart, you would come at once and fall down at His feet! There is all power laid up in Jesus and there is all the Father's love concentrated in Jesus, so come and trust Him! If you will but trust Him, you will prove that He has given Himself for you! That simple trust is the secret mark that distinguishes His people from all others. "My sheep hear My voice, and I know them, and they follow Me." To those who rejected Him when He was upon the earth, our Lord said, "You believe not because you are not of My sheep, as I said unto you." O poor Souls, do you mean to wear forever the damning mark of unbelief? If you die with that brand upon your soul, you will be lost forever! Oh, may you have, instead, that blessed mark of faith which is the token of the Lord's people! May you even now hang out the scarlet line as Rahab hung it out of her window—the scarlet line of confidence in the crimson blood of Jesus! And while Jericho falls—while all the earth shall crumble in one common ruin—your house, though built upon the wall, shall stand securely and not one who is within its shelter shall be touched by the devouring sword, for all who are in Christ are in everlasting safety! How can they be otherwise, since He has purged their sins? God give to every one of you a part and lot among this blessed company, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS1.
+## Exposition by C. H. Spurgeon: Ephesians 1
 
 We frequently read this chapter and the whole of this Epistle because it has been well remarked that the Epistle to the Ephesians is a body of divinity in miniature. Here all the great Doctrines of the Gospel are discussed. Here all the great precepts are laid down for the guidance of Believers. He who would understand the theology of Christ Jesus should read the Epistle to the Ephesians with great care.
 
@@ -134,7 +131,6 @@ His favorites from His breast!
 In the dear bosom of His love
 
 They must forever rest"
-
 
 ---
 [[Sermon 2634 Jesus Only —a Communion Meditation|← #2634]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2636 The Perpetuity of the Gospel|#2636 →]]

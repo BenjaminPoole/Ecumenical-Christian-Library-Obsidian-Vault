@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # The Ascension and the Second Advent Practically Considered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1817
@@ -85,8 +84,7 @@ For this is what the men in white apparel meant—*be ready to meet your coming 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke 24:49-53, Acts 1:1-12.
 
-HYMNS FROM OUR OWN HYMN BOOK—17, 319, 346.
-
+## Hymns from Our Own Hymn Book—17, 319, 346
 
 ---
 [[Sermon 1816 Sermon for New Year's-Day|← #1816]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1818 The Song of a City, and the Pearl of Peace|#1818 →]]

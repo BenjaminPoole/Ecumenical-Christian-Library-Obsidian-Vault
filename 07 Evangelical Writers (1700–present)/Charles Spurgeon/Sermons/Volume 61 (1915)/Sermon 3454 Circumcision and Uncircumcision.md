@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Circumcision and Uncircumcision
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3454
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For in Jesus Christ neither circumcision avails anything nor uncircumcision, but faith which works by love." Galatians 5:6.
 
@@ -31,7 +28,7 @@ Now this is all idle and foolish, for the outward form of religion, after all, i
 
 And now for our text. The Apostle first speaks about the outward part of religion, and then he tells us what the inward part of it is. In the first place we will have a few words on—
 
-I. THE OUTWARD PART OF RELIGION.
+## I. The Outward Part of Religion
 
 Paul here speaks of it after that fashion. He says, "In Jesus Christ, neither circumcision avails anything, nor uncircumcision." Before our Savior came into the world, circumcision was a thing of meaning. It was the seal of the Covenant.
 
@@ -63,7 +60,7 @@ sinner, "Fear not! If you believe in Jesus when you die, yet shall you be with H
 
 Thus have we said enough to show you that the outward form of religion avails nothing. Now we come to speak, in the next place, concerning—
 
-II. THE INWARD PART OF RELIGION.
+## II. The Inward Part of Religion
 
 The text tells us that the inward part of religion is "faith which works by love." Now what is faith? In one word, it is trust—the trusting of the soul in God's promise made in Christ Jesus. My faith is that which enables me to believe that God is true, to believe that He sent His Son in the flesh to suffer for my sins, to believe that through the merit of His blood and the virtue of His holy life, I am saved. To trust in Him to save me—this is faith. It is not the faith of God's elect to merely believe dogmas and truths, to believe them to be true, but to rest upon them, to trust in them, to repose one's soul thereon! The very essence of Christianity is trust in the Lord Jesus Christ. But mark, we are told that this is faith of a certain kind—it is "faith which works by love." It is not a faith that merely talks, much less a faith that goes to sleep, or a faith that bolsters men up in presumption and makes them live in sin, but a faith which works by love, a practical faith. It is a faith which has arms and hands—not a crippled faith—but a living thing which cannot help working! It is not a frozen river that is like stone in its bed, but rolling on, increasing and swelling until it comes to the sea. It is a living thing, a working thing! My faith is no faith at all if it does not operate upon my daily life. If I believe that Jesus Christ has saved me and I trust in Him, there are a great many things I cannot do which other people can do—and many things that I love to do which other people would not do and do not wish to do! If my religion never comes across me when I am in the shop, and stops me, and never comes to me when I am in the market place, then it is a religion which is not worth a button—and the sooner I am rid of it the better! It must be a working religion, practically operating upon the entire man. And this is the way in which it operates—it operates by love. It works by making us love Christ for what He has done for us. It works by making us love God, so that we say, "Lord, what is Your will, for we wish to submit to it"? And this makes us cheerful, happy and resigned. It works, in fact, by making us love the Lord Jesus Christ. If you do not love Jesus, then your faith is no faith, for the very sound of His name is precious to those who have true faith! It works by love to Him who Himself loved us and gave Himself for us! It works by love to God, who gave His Son—
 
@@ -96,7 +93,6 @@ Well, then, dear Soul, He is yours! He is your All-in-All. I spoke last Sunday o
 He who has no disease cannot honor the physician by saying he believes he can cure him, but he who has a disease through and through him, so that he is given up—when he says to the physician, "Sir, I believe that you can exterminate this disease and make me a healthy man"—does honor to his physician by his faith. You great sinners, you black sinners, you lost, ruined and undone sinners, the Lord help you now to trust Christ, and then you will honor Him, and give Him glory, and that is the best proof that He is in you and that you shall be with Him in the day of His appearing! It is faith that works by love that is the grand thing, and that is the same thing as being a new creature, and the same thing as having Christ to be our All-in-All.
 
 May God give this to those of you who are seeking it, so that, having begun in the spirit, you do not end in the flesh, but walk in the liberty wherewith Christ shall make you free. Amen.
-
 
 ---
 [[Sermon 3453 The Wandering Bird|← #3453]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3455 A Message From God|#3455 →]]

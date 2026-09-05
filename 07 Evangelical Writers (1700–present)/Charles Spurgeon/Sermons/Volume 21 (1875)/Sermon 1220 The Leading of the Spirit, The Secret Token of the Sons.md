@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Leading of the Spirit, The Secret Token of the Sons of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1220
-
-DELIVERED BY.
 
 > "As many as are led by the Spirit of God, they are the sons of God." Romans 8:14.
 
@@ -140,7 +137,6 @@ Remember that in most families there are babes as well as men and women—the li
 If you have been condemned by this sermon, then fly away to Jesus and penitently and trustfully rest in Him! May the Spirit of God lead you to do that and you are, then, a child of God. May He bless you now. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 8:1-17. HYMNS FROM "OUR OWN HYMN BOOK"—722, 448, 456.
-
 
 ---
 [[Sermon 1219 A Voice From Heaven|← #1219]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1221 Opening the Mouth|#1221 →]]

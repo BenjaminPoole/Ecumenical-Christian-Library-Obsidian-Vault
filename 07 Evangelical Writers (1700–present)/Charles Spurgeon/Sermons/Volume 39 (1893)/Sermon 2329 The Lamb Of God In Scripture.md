@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Lamb Of God In Scripture
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2329
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Again, the next day, John stood with two of his disciples. And looking at Jesus as He walked, he said, "Behold the Lamb of God!" John 1:35,36.
 
@@ -117,7 +114,7 @@ And find salvation there."
 
 Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 1:1-37.
+## Exposition by C. H. Spurgeon: John 1:1-37
 
 John is the majestic Evangelist. He is the high-soaring eagle with piercing eyes. His is the Gospel of the Son of God!
 
@@ -166,7 +163,6 @@ flesh."
 35, 36. Again, the next day, John stood with two of his disciples. And looking at Jesus as He walked. With holy reverence, with loving awe, gazing upon this extraordinary Person—"as He walked"—
 
 36, 37. He said," Behold the Lamb of God!" And the two disciples heard him speak, and they followed Jesus. This is our one business tonight, to cry, "Behold the Lamb of God!"
-
 
 ---
 [[Sermon 2328 Micah's Message for Today|← #2328]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2330 Witnessing Better Than Knowing the Future|#2330 →]]

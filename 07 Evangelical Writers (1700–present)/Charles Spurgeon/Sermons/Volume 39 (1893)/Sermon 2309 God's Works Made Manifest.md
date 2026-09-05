@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # God's Works Made Manifest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2309
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered, Neither has this man sinned, nor his parents" (that he was born blind): "but that the works of God should be made manifest in him." John 9:3.
 
@@ -111,7 +108,7 @@ By-and-by, we shall come to die and, in our deaths, God's work may be manifest. 
 
 May God bless these words of mine and may many, here, be eternal monuments of the boundless, Sovereign Grace of God! And unto Him be Glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON. JOHN 9:1-38.
+## Exposition by C. H. Spurgeon. John 9:1-38
 
 Verse 1. And as Jesus passed by, He saw a man who was blind from his birth. The man could not see Jesus, but sight came to the man from Jesus. If there are any here who cannot look to Christ as yet, our prayer is that He may look on them as He looked on this blind man.
 
@@ -158,7 +155,6 @@ Prophet."
 34-36. And they cast him out. Jesus heard that they had cast him out; and when He had found him, He said unto him, Do you believe on the Son of God? He answered and said, Who is He, Lord, that I might believe on Him. He needed instruction. Christ may have done much for a man, but he may not, as yet, fully know the Lord. There may be some here, tonight, upon whom Christ has worked a great deal, and yet you do not know Him as you will know Him—"Do you believe on the Son of God?"
 
 37, 38. And Jesus said unto him, You have both seen Him, and it is He that talks with you. And he said, Lord, I believe. And he worshipped Him. That is the way with a genuine Believer—he worships Christ! Why? Because he believes Him to be God! It would be idolatry to worship Christ if He were only man! And Christ would have been an impostor if He had allowed this man to worship Him if he had not been God! But he was God and we, believing Him to be God, worship Christ as very God of very God, to whom be praise forever and ever! Amen.
-
 
 ---
 [[Sermon 2308 Ten Wrong Kinds of Hearers|← #2308]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2310 Howling Changed To Singing|#2310 →]]

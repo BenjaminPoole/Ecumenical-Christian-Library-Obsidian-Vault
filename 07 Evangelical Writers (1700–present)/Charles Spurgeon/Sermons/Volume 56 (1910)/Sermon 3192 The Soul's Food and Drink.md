@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Soul's Food and Drink
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3192
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For My flesh is food, indeed, and My blood is drink, indeed." John 6:55.
 
@@ -91,7 +88,7 @@ Yes, I am quite sure that you have felt so glad that you have wanted all the ang
 
 V. Now I close my discourse by reminding you that WHOEVER EATS THIS SPIRITUAL FOOD SHALL LIVE
 
-FOREVER.
+## Forever
 
 Just before our Lord uttered the words of our text, He had said to the Jews, "Your fathers did eat manna in the wilderness, and are dead. This is the bread which comes down from Heaven, that a man may eat thereof, and not die. I am the living bread which came down from Heaven: if any man eats of this bread, he shall live forever: and the bread that I will give is My flesh which I will give for the life of the world." If you had lived with the children of Israel in the wilderness—and you had eaten manna as they did—you would have died as they did. If you come to the Communion Table, and merely eat bread, "not discerning the Lord's body," you will die. Or if you go to a so-called "priest" and he gives you a "consecrated" wafer, and you eat it, you will die. But whoever spiritually feeds upon Jesus—whoever feeds his soul upon the great central Truth that God in human flesh was made the Substitute for all who believe in Him—he shall never die! His body may pass through the change that we call, death, but his spirit shall live forever and, in due time, his body and soul shall be reunited and his complete manhood shall be "forever with the Lord."
 
@@ -101,7 +98,7 @@ Him is not condemned: but he that believes not is condemned already, because he 
 
 There is the Gospel as Paul preached it! May the Spirit of God enable you to receive it by faith in Jesus Christ, the Son of God, and the Son of Mary—and so you will find that His flesh will become to you food, indeed, and His blood drink, indeed. God grant it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:22-59.
+## Exposition by C. H. Spurgeon: John 6:22-59
 
 Verses 22-24. The day following, when the people who stood on the other side of the sea saw that there was no other boat there, except that one which His disciples had entered, and that Jesus went not with His disciples into the boat, but that the disciples were gone away alone—however other boats from Tiberias came near the place where they ate bread after the Lord had given thanks—when the people therefore saw that Jesus was not there, neither the disciples,
 
@@ -152,7 +149,6 @@ gold, but even then the letters would be far inferior to the message itself! If 
 dwells in Me, and I in him. [See Sermon #1288, Volume 12—TRULY EATING THE FLESH OF JESUS.] Do not any of you interpret this teaching of Christ as the Jews did, after a carnal fashion, and fancy that we literally eat the flesh and drink the blood of Christ when we come to the Communion Table. The Lord's Supper was not instituted at the time that our Savior spoke these words and He was speaking of quite another matter—the spiritual reception of Christ—the real and true feeding by faith with our spirit upon the Lord Jesus Christ.
 
 57-59. As the living Father has sent Me, andIlive by the Father: so he that eats Me, even he shalllive byMe. This is that bread which came down from Heaven: not as your fathers did eat manna, and are dead: he that eats of this bread shalllive forever. These things said He in the synagogue, as He taught it in Capernaum.
-
 
 ---
 [[Sermon 3191 The True Aim of Preaching|← #3191]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3193 The Man Whose Hand Stuck to His Sword|#3193 →]]

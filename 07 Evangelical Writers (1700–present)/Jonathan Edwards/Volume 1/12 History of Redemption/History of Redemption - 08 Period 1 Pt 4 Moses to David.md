@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART IV.
 
-FROM MOSES TO DAVID.
+*From Moses to David*
 
 I proceed to the time which reaches from Moses to David.
 

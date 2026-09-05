@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Gathering Without Planting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3248
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You eat of the vineyards and olive groves which you did not plant." Joshua 24:13.
 
@@ -89,7 +86,7 @@ There is also our obligation of service to coming generations. Who planted those
 
 So shall we now neglect to train our own children, or shall our Sunday schools lack teachers, as is so often the case? I pray that it may not be so with you, my Brothers and Sisters in Christ. In whatever part of London or anywhere else that you dwell, search out the schools where teachers are needed and offer your services. I speak especially to you who have ripe experience, for it is not right that this important service should be left to boys and girls. God bless the young people who are doing their part of the work so well—but why should not middle life with its vigor, and even old age with its sweetness and maturity, be found in the Sunday school? We have inherited from our ancestry what we are bound to pass on to our posterity! If I could, I would be a blessing to all succeeding ages as well as to the one in which I am living. So, Brothers and Sisters in Christ, do all the good you can while you live—and leave a gracious memory behind you when you are no longer here. Plant as many vines and olive trees as you can, for though you may not be spared to gather the fruit from them, somebody will reap the benefit when you have been called to higher service! I like that kind of benevolence which does not always ask to see those whom it blesses, but which finds satisfaction in doing good simply for the Glory of God. Try to be disinterested—do not say, "I must see something for my money." Oh, no, no! Your wondrous inheritance of innumerable blessings, for which you never toiled, came to you from the unseen source of Divine, Eternal Beneficence, so seek to catch something of that same spirit by building cities, digging wells, furnishing houses and planting vineyards and olive groves for those whom you will never see until, by Grace, you meet them in the general assembly and Church of the First-Born in your Father's House on high!
 
-EXPOSITION BY C. H. SPURGEON: 2 PETER 1:9-21.
+## Exposition by C. H. Spurgeon: 2 Peter 1:9-21
 
 [This is concluded from Sermon #3245, Volume 57—OUR POSITION AND OUR PURPOSE.]
 
@@ -126,7 +123,6 @@ shall get far into the Kingdom—you shall know the innermost joys of it! You sh
 19, 20. Whereunto you do well that you take heed, as unto a light that shines in a darkplace, until the day dawns, and the day star arises in your hearts: knowing this first, that no prophecy of the Scripture is of any private interpretation. It is not to be kept by any man to himself. God spoke to Jacob at Bethel and we read concerning it, in Hosea 12:4, "there He spoke with us." With regard to the children of Israel rejoicing at the Red Sea, we read, in the 66th Psalm, "There did we rejoice in Him." The promises God made to this believing man or that, He makes to all believing men! You remember that text, "He has said I will never leave you, nor forsake you"? That promise was first of all spoken to Joshua, yet Paul quoted it in writing the Epistle to the Hebrews, as if it was spoken to every Believer—and so, indeed, it is! No Apostle, no Prophet could hedge up a promise and say, "This was mine and nobody else's." It is a common heritage of all the saints! Every promise is within the boundary of the Covenant of Grace, and all who are in that Covenant are heirs of all the promises, to whomever they were made!
 
 21\. For prophecy never came by the will of man: but holy men of God spoke as they were moved by the Holy Spirit This is the foundation of our faith—that this Book is Divinely Inspired! Allow nobody to make you doubt concerning this matter, for you must give up Christianity, itself, if you give up the Inspiration of this Book! You have nothing else to fall back upon but this Book—and your own personal verification of it by the work of the Holy Spirit in your own soul! To tamper with Inspiration is to tamper with the heart of true religion! The least doubt upon that matter is fatal. I mean what I say and I know how desperately this mischief is working in these days in which we live. Men used to say, with the famous Chillingworth, "The Bible and the Bible, alone, is the religion of Protestants." And so it once was. Yet now it seems to me that anything butthe Bible is coming to be their religion but, as for us, we accept as authoritative nothing that contradicts these Truths of God which are written in this Book! We mean to stand fast by these Truths, God helping us. We can do no other, come what may in this evil age. "Holy men of God spoke as they were moved by the Holy Spirit."
-
 
 ---
 [[Sermon 3247 Unreasonable Reasons|← #3247]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3249 Under the Apple Tree|#3249 →]]

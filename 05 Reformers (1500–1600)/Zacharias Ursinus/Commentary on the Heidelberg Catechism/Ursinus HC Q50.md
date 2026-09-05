@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 50. Why is it added, "and sitteth at the right hand of God?"
-
-**Question 50. Why is it added, "and sitteth at the right hand of God?"**
 
 Answer. Because Christ is ascended into heaven for this end, that he might there appear as head of his church, by whom the Father governs all things
 
-**EXPOSITION**
+## **Exposition**
 
 To ascend into heaven, and to sit at the right hand of God, are not the same; because the one may be without the other. This Article, which refers to Christ's sitting at the right hand of God, differs from his ascension into heaven in the three following particulars: 1. The end of the former article is expressed in this; because it was for this reason that Christ ascended into heaven, that he might sit at the right hand of God. 2. Christ sits forever at the right hand of the Father; but he ascended only once into heaven. 3. The angels ascend, and we shall also ascend into heaven; but neither they nor we shall sit at the right hand of the Father. "To which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy foot-stool." (Heb. 1:13.) Much less has God said this of any man, Christ only excepted.
 
@@ -32,11 +29,11 @@ III. Whether Christ has alway sat at God's right hand:
 
 IV. What the fruits of his sitting at the right hand of the Father are.
 
-**I. WHAT THE RIGHT HAND OF GOD SIGNIFIES IN THE SCRIPTURES**
+## **I. What the Right Hand of God Signifies in the Scriptures**
 
 The right hand, and other members of our body, are attributed to God in an improper sense. As used in the Scriptures, the phrase, right hand of God signifies two things. First, the supreme power and virtue, or omnipotence of God. "Him hath God exalted with his right hand, to be a Prince and a Saviour." "The right hand of the Lord doeth valiantly." "Thy right hand, O Lord, hath dashed in pieces the enemy." (Acts 5:31. Ps. 118:16. Ex. 15:6.) And secondly, supreme dignity and glory, or majesty. It is in this second sense that we are to understand it as here used.
 
-**II. WHAT IT IS TO SIT AT THE RIGHT HAND OF GOD**
+## **II. What It Is to Sit at the Right Hand of God**
 
 To sit at the right hand of God is to be a person equal with God in power and glory, by whom the Father works immediately, and governs all things. According to the definition which is commonly given to this phrase, it means to reign in equal power and glory with the Father. This is true of Christ; for he does all things in the same manner as the Father does, and is endowed with equal power with the Father, which he also exercises. But the Son has always reigned in this manner. The same may also be said of the Holy Ghost, who is nevertheless not said in the Scriptures to sit at the right hand of God, and does not sit there; because the Father does not govern all things, and especially the church, by the Holy Ghost; but by the Son. Hence this commonly received definition is not sufficient and complete. Others confound his sitting with his ascension, and say that they express the same thing. But we have already specified certain particulars in which they differ; and it is absurd to suppose that there would be such a repetition of the same thing in a creed so brief and condensed.
 
@@ -64,7 +61,7 @@ Obj. 3. But Christ says, "To him that overcometh will I grant to sit with me in 
 
 We admit also that the throne of the Father and the Son is the same. Upon this throne many sit; some in higher, others in lower places; but not in the same dignity. Many counsellors may sit near the king; but the chancellor alone sits at his right hand. Christ will not give to another the supreme dignity and glory given him of the Father.
 
-**III. HAS CHRIST ALWAYS SAT AT THE RIGHT HAND OF GOD?**
+## **III. Has Christ Always Sat at the Right Hand of God?**
 
 The curiosity of man, which is disposed to pry into every thing, makes it necessary for us to say something in relation to this question. In speaking upon it, however, we must distinguish as to the natures of Christ, and then as to time.
 

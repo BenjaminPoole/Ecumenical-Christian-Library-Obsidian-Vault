@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Promise and a Providence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3528
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will feed My flock, and I will make them lie down, says the Lord." Ezekiel 34:15.
 
@@ -27,7 +24,7 @@ Cheer up! Be of good courage, preacher of the Word. You may not find the sheep, 
 
 Our text has in it a double blessing. By way of division, we will emphasize each word and endeavor to draw out the fullness of its meaning. To take the last word, first, "My flock" is—
 
-I. A NOTE OF DESCRIPTION.
+## I. A Note of Description
 
 It describes God's people distinctively, separating them from all other people. They are not ravenous like lions. They are not crafty like foxes. They are not swift like the hare. They are not foul like the swine. They love not carrion like the
 
@@ -51,13 +48,13 @@ Are you just going to New Zealand, or are you just about to take a voyage to Aus
 
 Him by faith with these words, "I will feed My flock"—and He willfeed you, and you shall have enough and to spare! In the time of famine you shall be filled, and in the day of scarcity you shall be satisfied. "I will feed My flock." Again, going backwards, let us take the next—
 
-IV. A WORD WHICH IS FULL OF ASSURANCE.
+## IV. A Word Which Is Full of Assurance
 
 "I wllfeed My flock." "I will. I will. I will." See how positively He speaks. Not, "I think I will." Not, "I may," but "I will." Beloved, these "shalls" and "wills" are the very marrow of the Gospel! They make the strength of it. Take the "shalls" and "wills" out of the Bible and put in conditional "ifs" and "buts" and "perhaps," in their place—what a desolate appearance it would present! These "shalls" and "wills" stand like Jachin and Boaz, the great pillars of the Temple, right at the entrance, and we must see to it that we never give up these potent "shalls" and "wills," but hold fast and firmly to them! "I will feed My flock." "But," says one, "are not some of the flock lost?" Read the verse! He says, "I will seek them and I will feed them." "They may be lost, but if they have backslidden I will bring them back. If, like Peter, they have denied Me to My face, I will forgive them. If they have played the harlot, like Israel of old, and gone astray from Me, yet I will bring them back, for I will feed My flock." He cannot feed them unless He brings them back! But, "I will feed My flock. I will bring back all the wanderers who have been bought with My blood. I will." The adversary says they shall not be brought! "I will. I will," says the Lord. "No, but," says proud flesh, "I will not be brought." "I will," says the Lord—and God's, "I will," is infinitely mightier than all the hosts of darkness and powers of corruption! But, Lord, there are some of them who have been driven away—legal preachers have driven them from Christ—their doubts and fears, their sins and trespasses have driven them away. "But I will feed My flock, every one of them, for I will bring them back—they shall have all their old comforts back, their joys and hopes shall be restored to them—I will feed My flock." But, Lord, some of them are broken! Some cruel blow has broken a leg, or some other limb of some of Your sheep. "But I will feed My flock. I will bring them back and heal them." You may be broken in heart and your faith may be weak, and your Graces spoiled, but this stands good, "I will, I will feed My flock." But, Lord, they are infected with disease—so runs the passage, "they are weak"—they have got some disease common to Your sheep. "I will heal them," says the Lord, "for I will feed My sheep."
 
 My dear Friends, it is not possible for an heir of Heaven ever to get into such a state that God cannot save him! And should he be allowed in Sovereign forbearance to wander to the utmost excess of sin—if he were even in the very jaws of the destroyer, yet our Savior, like another David, would pluck the lamb out of the jaw of the lion and tear it away from the paw of the bear! As long as you are out of Hell, Sinner, have hope! And, Believer, if you should sink in deep waters and be swallowed up of the Devourer, still, like Jonah, you shall be able to say, "Out of the belly of Hell I cried, and You heard me." "I will feed My flock." Oh, that you who are doubting and fearing would lay hold on this, "I will. I will. I will." Your flesh and carnal reason will doubtless say, "Well, I hope and trust." Away with your hoping and trusting! Do not halt and hesitate, but believe! If God says He will, who are you that you should entertain a suspicion? You shall be fed—God's Word cannot fail you! "I will feed My flock." Moreover, this is—
 
-V. A WORD OF DIVINITY.
+## V. A Word of Divinity
 
 "Twill feed My flock." Who is this that says, "I will"? When a man says, "I will," it is often braggart impudence, but when God says, "I will," and, "you shall," such words are expressive alike of Sovereign determination and Irresistible Power! Christian, see who it is that makes the promise and mark who it is that will fulfill it! "I will feed My flock." Do you complain that you cannot feed under such-and-such a minister? The Lord promises, "I will feed My flock." Here you have Divine Infinity to be your supply! Here you have Divine Immutability to be your guarantee! Here you have Divine Omnipotence to be your aid and Divine Wisdom to be the measure of the supply which shall be afforded to you! Trust in the Lord and do good. When Jehovah says, "I will," banish every doubt and fear and now, for time and for eternity, cast yourself upon your God. He says, "I will feed My flock"—let us reply, "The Lord is my Shepherd."
 
@@ -73,7 +70,7 @@ But there is another flock. Hear it and tremble! There is another flock. They ne
 
 I remember an old salt, after listening to a certain sermon, coming with tears in his eyes into the vestry and saying, "Sir, I have served under the black flag for 60 years—and I think it is time I ran it down and had a new one." I think it is time you did the same, Sinner. The wages of sin is death! Fly from this tyrant master! Immanuel, the bright Prince of Glory, is willing to enlist you into His army! Though there are no conditions, I will tell you the terms. The terms are these, "Believe in the Lord Jesus Christ and you shall be saved." To believe is simply to trust, to believe Him to be true. Trust your soul on Him! When you can do that, you are a saved man or woman! Whatever your sins may have been, or now are, the moment you believe in Jesus, you are a partaker of this precious promise, "I will feed My flock, I will make them lie down, says the Lord." God grant it to every one of you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY 33.
+## Exposition by C. H. Spurgeon: Deuteronomy 33
 
 Verse 1. And this is the blessing with which Moses, the man of God, blessed the children of Israel before his death A very beautiful thought, that he should conclude his life with a blessing. Though they had greatly grieved and provoked his spirit, he was always meek and tender. And he had very much to bear from them, but this is the end of it all, that he will dismiss them with his blessing.
 
@@ -110,7 +107,6 @@ Verse 1. And this is the blessing with which Moses, the man of God, blessed the 
 26-28. There is none like unto the God of Jeshurun, who rides upon the Heaven to your help, andin His excellence in the sky. The eternal God is your refuge, and underneath are the everlasting arms: and He shall thrust out the enemy from before you; and shall say, Destroy them. Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also His heavens shall drop down dew. "Israel then shall dwell in safety alone." There is no place for God's people like a separated place—they must get outside the camp—they must not be numbered among the people. Notice, there is none like unto the God of Israel, and there is none like to Israel.
 
 29\. Happy are you, O Israel: who is like unto you, Opeople saved by the LORD, the shield of your help, and who is the sword of your excellence And your enemies shall submit to you; and you shall tread upon their high places. As God is by Himself, so all His people are favored beyond all others
-
 
 ---
 [[Sermon 3527 The Divided Heart|← #3527]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3529 More Room for More People|#3529 →]]

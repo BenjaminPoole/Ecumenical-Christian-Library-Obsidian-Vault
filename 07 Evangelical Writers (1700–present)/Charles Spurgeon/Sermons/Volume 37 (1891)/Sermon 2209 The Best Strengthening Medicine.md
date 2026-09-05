@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Best Strengthening Medicine
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2209
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Out of weakness were made strong." Hebrews 11:34.
 
@@ -118,7 +115,6 @@ for service, I have said to Him, "Make me useful to the doubting and the feeble-
 My time is ended, although I had much more to say. I can only pray the Lord to give you Divine Grace to believe in Him. If I should never again have the pleasure of speaking for my Lord upon the face of this earth, I should like to deliver, as my last confession of faith, this testimony—that nothing but faith can save this 19th Century—nothing but faith can save old England. Nothing but faith can save the present unbelieving church. Nothing but firm faith in the grand old Doctrines of Grace and in the ever-living and unchanging God can bring back to the Church a full tide of prosperity and make her to be the deliverer of the nations for Christ. Nothing but faith in the Lord Jesus can save you or me. The Lord give you, my Brothers and Sisters, to believe to the utmost degree, for His name's sake! Amen.
 
 PORTION OFSCRIPTUREREAD BEFORE SERMON—Hebrews 11.
-
 
 ---
 [[Sermon 2208 The Statute of David for the Sharing of the Spoil|← #2208]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2210 The Agreement Of Salvation By Grace With Walking In Good|#2210 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 86. Letter V
-
-LETTER V
 
 WITH the expulsion of the Germans and the loss of the national struggle, events at Prague moved rapidly towards a religious crisis. ' Immediately after,' we read, ' Wiclify began to grow strong, and Hus and his adherents renounced their spiritual obedience under the favour of the laity.' All that Zbinek could do was to persuade the Bohemian nation in the University to severely restrict the right of lecturing on Wyclif, or defending his propositions. The Wyclifists retorted — Hus himself did not join them — by procuring the citation of the Archbishop before the Pisan Curia. Zbinek, realising his isolation by the expulsion of his German allies, deemed it well to abandon Gregory, and make his peace with Alexander V. This he did on September 2, amid universal rejoicing, blaring of trumpets 'to the fourth hour of night,' 'six hundred bonfires,' and the like. Thus
 
@@ -26,7 +23,7 @@ On the publication of this bull in Prague (March 9, 1410), Hus and his friends h
 
 Against this attack on its freedom the University at once protested (June 21). Hus, who especially resented the prohibi tion of further preaching in the Bethlehem, had already appealed on his own account ' to Alexander himself that he might be better informed.' On his decease, Hus and others (among whom we notice Zdislaw of Wartenberg and Peter of Zepekow, a student who owned the copy of the De Ecclesia of Wyclif now in the University Library at Prague) further appealed to John XXIII. (June 25), urging that with the death of Alexander the commission had become null and void. They had obtained, they pleaded, the books of Wyclif 'at great trouble and cost.' Only a fool ' would condemn to be burnt treatises, logical, philo sophical, mathematical, moral, which contain many noble truths, but no errors. By the same reasoning we must burn the books of Aristotle, the commentaries of Averrhoes, or the works of Origen.' They further protested against the charge that Bohemia was full of heretics, quoting against Zbinek his own declaration. Alexander's bull, they concluded, was obtained by fraud and forgery, in which last the friars had borne a hand.
 
-DEATH OF ARCHBISHOP ZBINEK 27
+## Death of Archbishop Zbinek 27
 
 Before the appeal could be considered, Zbinek, who had at first consented to postpone execution until the Margrave Jobst could arrive in Prague, brought matters to a head by burning two hundred manuscripts of Wyclifs works in the courtyard of his palace on the Hradschin, 'in the presence of a number of prelates and clergy, who chanted the Te Deum with a loud voice, while the bells were tolled as if for the dead.' 'The better copies,' some of them bound with gold knobs, 'were, however, it is believed, kept over' (July 16, 1410). Two days later, Zbinek, amid the angry cries of the people, excommuni cated Hus and others for not yet delivering up their copies and 'for opposing the Catholic faith' by their frivolous pro cesses. Wenzel retorted by ordering the Archbishop to refund the value of the burnt volumes to their owners, and on his refusal seized his revenues.
 
@@ -42,7 +39,7 @@ The mob, in fact, stirred up by an incautious sermon of Hus, took matters into t
 
 To this year of strife, probably before it had developed into the edict against the books of Wyclif, certainly before the burning and excommunication, we must ascribe the following undated letter, whose strong evangelical feeling will appeal to many. Laun, the Latin name for which is Luna, is a town about sixty kilometres N.W. of Prague. There is a picture of it, much as it was in the days of Hus, in Merian's Topographia Provinciarum Aiistriacarum (Frankfort, 1649).
 
-28 LETTEES WEITTEN BEFOEE THE
+## 28 Lettees Weitten Befoee The
 
 V. To THE PEOPLE OP LATIN* (Undated: about 1410)
 

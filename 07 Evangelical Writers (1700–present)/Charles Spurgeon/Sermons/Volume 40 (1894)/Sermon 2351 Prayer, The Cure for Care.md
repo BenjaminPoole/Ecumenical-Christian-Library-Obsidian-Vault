@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Prayer, The Cure for Care
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2351
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Be careful for nothing; but in everything, by prayer and supplication, with thanksgiving, let your requests be made kno wn unto God. And the peace of God, which passes all understanding, shall keep your hearts and minds through Christ Jesus." Philippians 4:6, 7.
 
@@ -138,7 +135,6 @@ What an eminent place women have always held in the service of the Lord Jesus Ch
 21, 22. The brethren which are with me greet you. All the saints salute you, chiefly they that are of Caesar's household. I suppose most of these were only slaves in the imperial household. There may have been one or two, perhaps, of a higher class, but, in all probability, the Gospel first reached the slaves in the Roman palace, that pandemonium of vice, where lust and cruelty abounded. There were saints even there—and God still has some of His jewels lying on dunghills!
 
 23\. The Grace of our Lord Jesus Christ be with you all. Amen.
-
 
 ---
 [[Sermon 2350 Take, Eat|← #2350]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2352 Great Joy In the City|#2352 →]]

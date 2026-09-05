@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 20. Matthew 2:7-12
-
-**MATTHEW 2:7-12**
 
 **7**. Then Herod, having secretly called the Magii inquired at them carefully at what time the star had appeared **8**. And having ordered them to go to Bethlehem, he said, Go, inquire concerning the young child; and, when ye have found him, bring me back information, that I also may come and worship him. **9**. But they, having heard the King, departed; and, lo, the star which they had seen in the East went before them, till, having advanced, it stood above the place in which the child was. **10**. And, when they had seen the star, they rejoiced exceedingly with great joy. **11**. And, entering the house, they found the young child with Mary his mother, and, falling down, they worshipped him: and, having opened their treasures, they presented to him gifts, gold, frankincense, and myrrh. **12**. And, warned by a heavenly intimation through a dream, that they should not return to Herod, they departed, by another way, into their own country.
 

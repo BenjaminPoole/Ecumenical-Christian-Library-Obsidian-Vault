@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Under the Apple Tree
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3249
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I sat down under His shadow with great delight, and His fruit was sweet to my taste." Solomon's Song 2:3.
 
@@ -87,7 +84,7 @@ Now, at this time, I want you to think of Jesus, not as a Prince, but as an appl
 
 The Lord Himself bring forth His own sweet fruit to you. Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS5.
+## Exposition by C. H. Spurgeon: Galatians 5
 
 Verse 1. Stand fast therefore in the liberty wherewith Christ has made us free, and be not entangled again with the yoke of bondage."You are not under the Law, but under Grace. Do not subject yourselves, therefore, to legal principles. Do not live as if you were working for wages and were earning your own salvation. Do not submit yourselves to the ritual and commandments of man which would rob you of your liberty in many ways. But having once become free men, never again wear the chain of a slave—'Stand fast therefore in the liberty wherewith Christ has made us free.' Because you are the seed of Isaac, who was born according to the promise, you are not the children of the bondwoman—you are not Ishmaelites—therefore, as you were born free, as Christ has made you free by virtue of your new birth, stand fast in that glorious liberty."
 
@@ -146,7 +143,6 @@ faith, meekness, temperance: against such there is no Law.Either human or Divine
 26\. Provoking one another. For whenever a man is proud, and blustering, and vainglorious, he is sure to provoke somebody or other—and then they who are so provoked fall into another sin—the sin of—
 
 26\. Envying one another. O Brothers and Sisters, let us try to get over all this and reach out to that blessed state of love which will bring us peace and joy in the Holy Spirit!
-
 
 ---
 [[Sermon 3248 Gathering Without Planting|← #3248]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3250 The Growth of Faith|#3250 →]]

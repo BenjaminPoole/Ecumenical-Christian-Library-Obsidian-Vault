@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Mighty Arm
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 674
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 4, 1866,.
+*Delivered on Sunday Morning, February 4, 1866*
 
 > Psalm 89:13.
 
@@ -160,7 +159,6 @@ Poor and feeble folk were we, and yet this house was built to His praise! And He
 We say this not—we trust we do not—with so much as a single grain of sacrificing unto self, for what were we and what were our father's house that He should have brought us up to now? But we beg you to regard the past as a type of the future! Oh, start not back, you men of prayer! Fail not now since God is still your arm! You carry bows, turn not back in the day of battle! You have the trophies of past victories before your eyes! Now for a mighty attack upon the Mercy Seat that you may win power to overcome the gates of Hell!
 
 Let us be vehement—violent I was about to say—for, "the kingdom of Heaven suffers violence, and the violent take it by force." Let us cannonade the gate of Heaven! Let us rise up, each man and each woman, every soul that has power, and let us cry unto the mighty God that He would be pleased to give us such a blessing that we shall not have room enough to receive it! It must come, only be ready for it! It will come—it comes even now! Thank God! Take courage! Be on your watchtower! And may the Lord bless us for His name's sake. Amen.
-
 
 ---
 [[Sermon 0673 Secret Sins Driven Out By Stinging Hornets|← #673]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0675 Spring In The Heart|#675 →]]

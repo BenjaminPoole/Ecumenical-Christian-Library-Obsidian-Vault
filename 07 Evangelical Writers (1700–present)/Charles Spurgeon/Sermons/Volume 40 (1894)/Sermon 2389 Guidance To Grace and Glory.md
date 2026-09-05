@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Guidance To Grace and Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2389
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You shall guide me with Your counsel, and afterward receive me to Glory." Psalm 73:24.
 
@@ -190,7 +187,6 @@ God's everlasting Son."
 13\. O spare me—"Deal gently with me! Do not break me in pieces! If You must smite me, yet do not altogether crush me. O spare me"—
 
 13\. That I may recover strength, before I go hence, and be no more. "Let me be able to take a little nourishment and to gather my faculties together, yet again, that I may sing to You some sweeter hymn before I cease to be in the land of the living, and go out of this world." So, you see, this is a sweet Psalm, after all! It is a bitter sweet—a sweet bitter—a Psalm that tends towards our spiritual health. Many of us understand what David meant by it. May others, who as yet do not, soon be taught its gracious lessons! Amen.
-
 
 ---
 [[Sermon 2388 Once Dead, Now Alive|← #2388]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2390 A Royal Funeral|#2390 →]]

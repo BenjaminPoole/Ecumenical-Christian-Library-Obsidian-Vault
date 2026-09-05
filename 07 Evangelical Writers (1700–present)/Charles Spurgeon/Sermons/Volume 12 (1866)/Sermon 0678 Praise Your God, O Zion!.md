@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Praise Your God, O Zion!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 678
 
-DELIVERED ON SUNDAY MORNING. FEBRUARY 25, 1866,.
+*Delivered on Sunday Morning. February 25, 1866*
 
 > Luke 19:37-40.
 
@@ -156,7 +155,6 @@ They could speak of ages long since gone—the old rocks could tell of chaos and
 If the stones were to speak they would tell of their builder who polished them and fashioned them after the similitude of a palace—and shall not we talk of our Architect and Builder who has put us in our place in the temple of the living God? Oh, if the stones could speak they might have a long, long story to tell by way of memorial, for many a time has a great stone been rolled as a memorial unto God—and we can tell of Ebenezers, stones of help, stones of remembrance! The broken stones of the Law cry out against us, but Christ Himself, who has rolled away the stone from the door of the sepulcher, speaks for us.
 
 Stones might well cry out, but we will not let them! We will hush their noise with ours! We will break forth into sacred song and bless the majesty of the Most High all our days! Let this day and tomorrow be especially consecrated to holy joys and may the Lord, in infinite mercy, fill your souls right full of it—both in practical deeds of kindness and benevolence and works of praise! Blessed be His name who lives forever and ever!
-
 
 ---
 [[Sermon 0677 Faith Versus Sight|← #677]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0679 The Amen|#679 →]]

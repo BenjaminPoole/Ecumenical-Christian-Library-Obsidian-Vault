@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Following the Risen Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1530
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 28, 1880,.
+*Delivered on Lord's-Day Morning, March 28, 1880*
 
 > "If you then are risen with Christ, seek those things which are above, where Christ sits at the right hand of God. Set your affection on things abo ve, not on things on the earth." Colossians 3:1,2.
 
@@ -160,7 +159,6 @@ When we come down among men we must speedily be up again. When you have to mix w
 gifts.
 
 Let us not carry our burden of things below on this holy day, but let us keep it as a Sabbath unto the Lord! On the Sabbath we are no more to work with our minds than with our hands. Cares and anxieties of an earthly kind defile the day of sacred rest. The essence of Sabbath-breaking lies in worry and murmuring and unbelief with which too many are filled. Put these away, Beloved, for we are risen with Christ and it is not right that we should wander among the tombs! No, rather let us sing unto the Lord a new song and praise Him with our whole soul.
-
 
 ---
 [[Sermon 1529 A Powerful Reason For Coming To Christ|← #1529]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1531 On Whose Side Are You|#1531 →]]

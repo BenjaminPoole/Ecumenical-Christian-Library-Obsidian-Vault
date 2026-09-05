@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Our Lord's First Appearance before Pilate
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1644
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 12, 1882,.
+*Delivered on Lord's-Day Morning, February 12, 1882*
 
 > "Pilate said unto them, I find in Him no fault at all." John 18:38.
 
@@ -132,7 +131,6 @@ He can't be wrong whose life is in the right.'" This is this great man's conclus
 Let him be a warning to you! Come not near to such arrogant trifling. Be always foolish enough to be willing to judge candidly. Be so little clever as to be still willing to learn. Be so little certain of your own infallibility that you will at least hear reason and will enquire whether these things are so. Alas, I fear that through worldly pride many will have it said of them, as it is said of the Roman governor every day in the creed—"Suffered under Pontius Pilate." Oh, how many times has Christ suffered under just such people as Pontius Pilate?
 
 Last of all, let us all submit ourselves to Jesus our King. Wayworn and weary, emaciated and broken down, with His face more marred than that of any man, yet let us bow before Him and say, "All hail You, King of the Jews! You are our King forever and ever!" If we are willing to acknowledge Him as our King in His shame and derision, He will, by-and-by, honor us when He comes in the Glory of the Father and all His holy angels with Him. Then shall He cause it to be seen that He has made us, who follow Him, to be kings and priests unto God and we shall reign with Him forever and ever! Amen.
-
 
 ---
 [[Sermon 1643 Our Lord's Trial before the Sanhedrin|← #1643]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1645 Our Lord before Herod|#1645 →]]

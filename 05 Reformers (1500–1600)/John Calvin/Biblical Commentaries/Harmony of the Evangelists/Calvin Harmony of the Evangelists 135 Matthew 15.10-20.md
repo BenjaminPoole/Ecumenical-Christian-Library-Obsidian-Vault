@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 135. Matthew 15:10-20; Mark 7:14-23; Luke 6:39
-
-**Matthew 15:10-20; Mark 7:14-23; Luke 6:39**
 
 **10**. And having called the multitudes to him, he said to them, Hear and understand. **11**. What entereth into the mouth polluteth not the man, but what goes out of the mouth polluteth the man. **12**. Then his disciples approaching said to him, Knowest thou that the Pharisees were offended when they heard that saying? **13**. But he answering, said, Every plant which my heavenly Father hath not planted shall be rooted up. **14**. Let them alone: they are blind leaders of the blind. And if a blind man shall lead a blind man, both will fall into the ditch. **15**. And Peter answering said to him, Explain to us that parable. **16**. And Jesus said, Are you also still void of understanding? **17**. Do you not yet understand that whatever entereth into the mouth passeth into the belly, and is thrown into the sink? **18**. But those things which proceed out of the mouth come from the heart itself, and they pollute the man. **19**. For our of the heart proceed wicked thoughts, murders, adulteries, fornications, thefts, false testimonies, calumnies. **20**. These are the things which pollute the man. But to take food with unwashed hands polluteth not the man.
 

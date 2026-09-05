@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A Man of God Alone With God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2796
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have declared my ways, and You heard me: teach me Your statutes." Psalm 119:26.
 
@@ -110,7 +107,6 @@ The last word of all is this—and it fits in well with this view of the text—
 Well, there is something in that view of the case—if you only know the elements of the Gospel, teach them to those who do not know them. At the same time, dear Brother, if you can learn more, you can then teach more—so do not give
 
 up the good habit, on Sabbath days, of going to hear at least one sermon. I would like to turn a lot of the people out half a day on Sundays—I mean you experienced Christian people—that you might go out and teach others, but I would like to bring in some of the young people who are always out at work and do not come in to feed as they ought. They must feed, as well as work! They must get taught, or else their teaching will soon become very vapid and powerless. In all honesty and sincerity, let each one pray, "Lord, teach me more, so that when You hear me next time, there may be more of that which You have taught me and that, when men hear it, they may be more impressed by it, because they learn more from it." May we all first go to Him and learn of Him—then talk to Him and learn more of Him—and then go to others and talk with them about Him!
-
 
 ---
 [[Sermon 2795 The Double Drawing Near|← #2795]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2797 The Need and Nature of Conversion|#2797 →]]

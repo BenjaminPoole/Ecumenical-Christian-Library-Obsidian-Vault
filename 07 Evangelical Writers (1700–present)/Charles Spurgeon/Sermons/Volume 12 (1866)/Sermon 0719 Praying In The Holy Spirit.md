@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Praying In The Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 719
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 4, 1866,.
+*Delivered on Sunday Morning, November 4, 1866*
 
 > "Praying in the Holy Spirit." Jude 1:20.
 
@@ -134,7 +133,6 @@ Brothers and Sisters, if you love Christ, if you ever felt His love shed abroad 
 The Lord send a blessing. He must send it—our hearts will break if He does not! We feel that it is coming. We have grasped the promise. We have pleaded with Jehovah! We have pleaded the blood of Jesus! We are pleading it now! We mean to continue in such pleading till the blessing comes, and we may rely upon it that the heavenly shower will soon descend! He has not said to the seed of Jacob, "Seek you My face in vain." Brothers and Sisters, be hopeful, and let us unanimously join in praying in the Holy Spirit!
 
 May the Lord bless you, dear Friends, in this respect for Jesus' sake.
-
 
 ---
 [[Sermon 0718 The Standard Uplifted In The Face Of The Foe|← #718]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0720 The Gospel'S Healing Power|#720 →]]

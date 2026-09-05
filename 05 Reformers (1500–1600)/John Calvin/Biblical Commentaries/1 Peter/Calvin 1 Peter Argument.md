@@ -9,10 +9,7 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 The design of Peter in this Epistle is to exhort the faithful to a denial of the world and a contempt of it, so that being freed from carnal affections and all earthly hindrances, they might with their whole soul aspire after the celestial kingdom of Christ, that being elevated by hope, supported by patience, and fortified by courage and perseverance, they might overcome all kinds of temptations, and pursue this course and practice throughout life.
 

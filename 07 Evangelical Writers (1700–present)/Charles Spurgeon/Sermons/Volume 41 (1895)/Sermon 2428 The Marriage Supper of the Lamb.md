@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Marriage Supper of the Lamb
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2428
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he said unto me, Write, 'Blessed are they which are called unto the marriage supper of the Lamb.'" Revelation 19:9.
 
@@ -87,7 +84,7 @@ You may help to judge yourself by answering one more question. Have you any desi
 
 IV. Now, lastly, let us think of THE BLESSEDNESS WHICH IS ASCRIBED TO THOSE WHO ARE CALLED TO
 
-THIS MARRIAGE SUPPER.
+## This Marriage Supper
 
 I know that I am speaking to many who are called to the marriage supper of the Lamb and I want you, my dear Hearers, to enjoy yourselves, for you have a prospect which blesses you even now. If you are called to the marriage supper of the Lamb, the text says that you are blessed and truly blessed you are! "Blessed are they which are called unto the marriage supper of the Lamb." If you had an invitation to see the Queen, tomorrow, some of you who are wonderfully loyal would think a great deal of it, and you would be saying to yourselves, "Well, we are going home tonight to a very narrow room in a very poor cottage, but we have something great in prospect tomorrow! And oh, think of this, you who are poor, you who are pained, you who are very weak, you who are cast down—within a short time your eyes "shall see the King in His beauty and the land that is very far off."
 
@@ -123,7 +120,7 @@ What if my name should be left out,
 
 When You, for them, shall call?" You cannot be left outside the wedding feast if you have trusted in Jesus! Then trust Him at once! Rest in that Lamb who will be your Bridegroom and at whose marriage supper you shall be present to praise the Glory of His Grace forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION18:20-24; 19:1-18.
+## Exposition by C. H. Spurgeon: Revelation 18:20-24; 19:1-18
 
 May the Spirit of God take away the veil from our eyes while we read what was revealed to the beloved Apostle John! Here we have the prophecy of the destruction of the great anti-Christian system of Babylon, which, being interpreted, is and can be none other than the apostate Church of Rome!
 
@@ -146,7 +143,6 @@ Revelation 19:1-4. And after these things I heard a great voice of much people i
 17, 18. And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of Heaven, Come and gather yourselves together unto the supper of the great God; that you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great. By this highly figurative language, we are to understand that when Christ goes forth to war in battling for the truth, and His true followers come after Him, their victory will be certain— and the slain of the Lord will be many! We look not for carnage and bloodshed to establish the Kingdom of Christ in the earth, but this Revelation gives us a picture of the utter overthrow and destruction of all forms of error through the power of the everlasting Gospel of Jesus Christ! Amen, so let it be!
 
 Would God that the King of Kings would mount His white horse at once and that all His people would follow Him! He will do so at the right time and then the victory shall be unto God, and to the Truth of God, and to love, and to peace and holiness forevermore.
-
 
 ---
 [[Sermon 2427 The Ark of His Covenant|← #2427]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2429 Converts, and Their Confession of Faith|#2429 →]]

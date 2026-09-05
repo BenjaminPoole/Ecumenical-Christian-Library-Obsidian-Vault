@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 4 on Ephesians
 
-Chapter II. Verses 1-3
+## Chapter II. Verses 1-3
 
 And you did He quicken, when you were dead through your trespasses and sins, wherein aforetime ye walked, according to the course of this world, according to the prince of the power of the air, of the spirit that now works in the sons of disobedience; among whom we also all once lived, in the lusts of our flesh, doing the desires of the flesh, and of the mind; and were by nature children of wrath even as the rest.
 
@@ -89,7 +88,7 @@ That he may excite in us proper feeling touching this gift of grace. What then? 
 
 Ver. 10. For we are His workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.
 
-Observe the words he uses. He here alludes to the regeneration, which is in reality a second creation. We have been brought from non- existence into being. As to what we were before, that is, the old man, we are dead. What we are now become, before, we were not. Truly then is this work a creation, yea, and more noble than the first; for from that one, we have our being; but from this last, we have, over and above, our well being.
+Observe the words he uses. He here alludes to the regeneration, which is in reality a second creation. We have been brought from non-existence into being. As to what we were before, that is, the old man, we are dead. What we are now become, before, we were not. Truly then is this work a creation, yea, and more noble than the first; for from that one, we have our being; but from this last, we have, over and above, our well being.
 
 For good works, which God afore prepared that we should walk in them.
 

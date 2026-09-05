@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Hunger and Thirst Which Are Blessed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2103
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 8, 1889,.
+*Delivered on Lord's-Day Morning, September 8, 1889*
 
 > "Blessed are they which do hunger and thirst after righteousness: for they shall be filled." Matthew 5:6.
 
@@ -180,7 +179,6 @@ Then will come a thousand years of perfect peace and rest, and joy and glory. An
 My Hearers, you will never be filled unless you hunger first. You must hunger and thirst here, that you may be filled hereafter. If you are hungering and thirsting, what should you do? Look to Jesus, for He alone can satisfy you. Believe on our Lord Jesus Christ. Believe on Him now, for He is made of God unto us righteousness. And if you want righteousness you will find it in the Lord Jesus Christ, the Only-Begotten Son of God.
 
 I am sure those dear Friends who called out so loudly just now, will join with me in crying out from the heart, "AMEN! AMEN!" May everybody here begin to hunger and thirst after righteousness at once. Let us all say, "AMEN."
-
 
 ---
 [[Sermon 2102 Pricked in Their Heart|← #2102]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2104 The Inner Side of Conversion|#2104 →]]

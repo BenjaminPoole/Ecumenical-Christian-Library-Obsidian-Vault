@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SOLACE, SECURITY, SATISFACTION**
+## **Solace, Security, Satisfaction**
 
 > Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow" II Sam. 23:5
 
@@ -29,7 +28,6 @@ This brings into prominence a security, since this covenant is everlasting, well
 David feels satisfaction: he wants no more for salvation or delectation. He is delivered, and he is delighted. The covenant is all a man can desire.
 
 O my soul, turn thou this day to thy Lord Jesus, whom the great Lord has given to be a covenant to the people. Take Him to be thine all in all.
-
 
 ---
 [[FCB August 29|← August 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 31|August 31 →]]

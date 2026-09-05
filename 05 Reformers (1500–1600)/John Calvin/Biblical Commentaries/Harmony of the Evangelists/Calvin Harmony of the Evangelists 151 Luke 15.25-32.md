@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 151. Luke 15:25-32
-
-**Luke 15:25-32**
 
 **25**. Now his elder son was in the field; and when he came and drew near to the house, he heard music and dancing. **26**. And he called one of his servants, and asked what those things were. [^1] **27**. And he said to him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. [^2] **28**. And he was angry, and would not go in: therefore his father went out, and entreated him. **29**. But he answering said to his father, Behold, during so many years I serve thee, and never have I transgressed thy commandment; and thou never gavest me a kid, that I might be merry with my friends: **30**. But after that this thy son, who hath devoured thy property with harlots, is come, thou hast killed for him the fatted calf. **31**. But he said to him, Son, [^3] thou art always with me, and all my property is thine. **32**. But it was proper that we should be merry and rejoice; because this thy brother was dead, and is alive again; he was lost, and is found.
 

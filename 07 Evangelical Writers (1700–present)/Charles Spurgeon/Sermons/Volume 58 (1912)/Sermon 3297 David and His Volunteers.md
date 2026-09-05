@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # David and His Volunteers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3297
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men ofwar fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains; Ezer the first, Obadiah the second, Eliab the third, Mishmannah the fourth, Jeremiah the fifth, Attai the sixth, Eliel the seventh, Johanan the eighth, Elzabad the ninth, Jeremiah the tenth, Machbanai the eleventh. These were of the sons of God, captains of the host: one of the least was over an hundred, and the greatest over a thousand. These are they that went over Jordan in the first month when it had overflowed all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west" 1 Chronicles 12:8-15.
 
@@ -111,7 +108,7 @@ The cords of His love, who was given for you,
 
 To His altar binding you fast." Examine yourselves. Prove your own hearts. Consider what manner of men you ought to be. Let the precepts of the Word admonish you. Let the esprit de corps stimulate you. Never let disciples of Christ fall behind followers of David in warmth of attachment, or in order of service. The nearer you get to the Person of your Lord, the more you will catch of His Spirit! I think, Beloved, you need direction more than exhortation. The more you live under His eyes and the more often you listen to His voice, the better, truer, nobler men and women you will prove to be and the happier recognition you will find in the day of His appearing!
 
-EXPOSITION BY C. H. SPURGEON: PSALM56.
+## Exposition by C. H. Spurgeon: Psalm 56
 
 To the chief Musician upon Jonath-elem-rechokim, Michtam (a golden Psalm) of David, when the Philistines took him in Gath.
 
@@ -134,7 +131,6 @@ Verse 1, 2. Be merciful unto me, O God: for man would swallow me up: he fighting
 12\. Your vows are upon me, O God I will render praises unto You. David had not forgotten the vows that he had made unto the Lord. Vows should not be lightly made, but once made, they should be sacredly remembered, and faithfully performed.
 
 13\. For You have delivered my soul from death: will not You deliver my feet from falling, that I may walk before God in the light of the living?So the Psalm ends, as it began, with prayer—a prayer that was most graciously answered, as we can see if we turn to Psalm 116:8, 9—"You have delivered my soul from death, my eyes from tears and my feet from falling. I will walk before the Lord in the land of the living."
-
 
 ---
 [[Sermon 3296 Praise for Jesus|← #3296]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3298 Lessons From Christ's Baptism|#3298 →]]

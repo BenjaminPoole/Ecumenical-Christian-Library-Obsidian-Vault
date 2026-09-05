@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 19. The Second Request
-
-The Second Request
 
 Your Kingdom come.(Matthew 6:10)
 

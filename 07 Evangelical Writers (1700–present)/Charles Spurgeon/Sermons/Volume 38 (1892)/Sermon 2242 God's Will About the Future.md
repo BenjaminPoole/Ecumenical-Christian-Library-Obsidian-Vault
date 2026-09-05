@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # God's Will About the Future
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2242
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come now, you that say, today or tomorrow we will go into such a city, and continue there a year, and buy and sell, and get gain: whereas you know not what shall be on the morrow. For what is your life? It is even a vapor, that appears for a little time, and then vanishes away. For that you ought to say, If the Lord wills, we shall live, and do this or that. But now you rejoice in your boasting: all such rejoicing is evil. Therefore to him that knows to do good, and does it not, to him it is sin." James 4:13-17
 
@@ -140,7 +137,6 @@ I have this last word—"To him that knows to do good, and does is not, to him i
 May we never hear the summons to go Home while there is anything left undone that we ought to have done for our Lord and Master! I am conscious of having spoken but very feebly and imperfectly, but, you know, my heart is heavy because of this sore trial which has come upon us through the stroke that has fallen on our beloved deacon, William Olney. And when the heart is so sad, the brain cannot be very lively. May God bless this word, for Jesus' sake! Amen.
 
 Portion of Scripture Read before Sermon—James 4.
-
 
 ---
 [[Sermon 2241 A Stanza of Deliverance|← #2241]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2243 His Own Funeral Sermon|#2243 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Baptism Essential To Obedience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2339
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He who believes and is baptized shall be saved." Mark 16:16.
 
@@ -97,7 +94,7 @@ Once more, "He who believes and is baptized shall be saved"—he shall have salv
 
 All this great work is worked by faith in Christ—that is the one way of salvation! "He who believes on the Son has everlasting life." Believe in Him, as men sometimes say, "up to the hilt." Believe in His Manhood sympathizing with you. Believe in His Godhead able to help you. Believe in His blood cleansing you. Believe in His eternal life bringing everlasting life to you. God bless you, everyone, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN3:1-18.
+## Exposition by C. H. Spurgeon: John 3:1-18
 
 If you were called in to see a person who was dying and wished to read a chapter from the Word of God, but you were afraid that the sick one did not know the way of salvation, you could not select a better portion than the one we are about to read. I have chosen it in the hope that some may now learn from it what they must do to be saved.
 
@@ -138,7 +135,6 @@ of God? You must be born again! There must be a radical change in you, a new bir
 17, 18. For God sent not His Son into the world to condemn the world; but that the world, through Him, might be saved. He who believes on Him is not condemned: but He that believes not is condemned already. Not, "shall be condemned at the last," though that, also, is true, but "He that believes not is condemned already"—
 
 18\. Because he has not believed in the name of the only begotten Son of God. May the Lord bless to us the reading of this very simple Gospel chapter, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2338 The Crisis Of This World|← #2338]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2340 The Best Christmas Fare|#2340 →]]

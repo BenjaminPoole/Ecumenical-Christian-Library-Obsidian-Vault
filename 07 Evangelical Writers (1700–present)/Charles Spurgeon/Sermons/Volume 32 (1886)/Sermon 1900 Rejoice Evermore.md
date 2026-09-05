@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Rejoice Evermore
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1900
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Rejoice evermore." 1 Thessalonians 5:16.
 
@@ -122,7 +119,6 @@ He that rejoices in the Lord always will be a great encouragement to his fellow 
 encouragement for the weak and afflicted. We have some Brothers and Sisters round about us whose faces always refresh me before preaching! Their words are cheering and strengthening. Those who rejoice in the Lord evermore cannot help perfuming the room where they are with the aroma of their joy. Others catch the blessed contagion of their contentment and become happy, too.
 
 This is the kind of thing that attracts sinners. They used, in the old times, to catch pigeons and send them out with sweet salves on their wings—other pigeons followed them into the dovecote for the sake of their perfume and so were captured. I would that everyone of us had the heavenly anointing on our wings, the Divine perfumes of peace, joy and rest! For then others would be fascinated to Jesus, allured to Heaven. God grant that it may be so, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1899 Zealous, But Wrong|← #1899]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1901 Mysterious Meat|#1901 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Jeremiah 2:1-2
 
@@ -47,7 +46,7 @@ He then adds, that they were the *first-fruits of his produce* For though whatev
 
 He also intimates that the time would come, when God would gather to himself other nations; for in the first-fruits the people dedicated and offered to God the whole produce of the year is included. So then Israel was like the first-fruits, because God afterwards took to himself other nations, which for many ages were deemed profane. But yet his special object was to shew that the guilt of the people was extreme, as they did not acknowledge the great favors which God had bestowed on them.
 
-He then adds, *Whosoever will devour him shall be punished* Of this meaning I approve, because the explanation immediately follows, *evil shall come on them* God then means not that they should be only guilty of a crime, who should devour the first-fruits, but refers rather to punishment; as though he had said, “The profane shall not be unpunished who shall devour the first-fruits which has been dedicated to me.” For if any had stolen the first- fruits, God would have executed a vengeance such as sacrilege deserved. If, however, any one prefers the other explanation, — that it would be a crime to injure Israel, or to do him any harm, because he was under God’s protection, I shall not oppose him: but the wording of the sentence leads me to the other view, that is, that those who would injure Israel would not only be guilty, but would not be able to escape God’s vengeance, — and why? because *evil will come upon them, saith Jehovah* [^2] He afterwards explains more clearly the import of his doctrine —
+He then adds, *Whosoever will devour him shall be punished* Of this meaning I approve, because the explanation immediately follows, *evil shall come on them* God then means not that they should be only guilty of a crime, who should devour the first-fruits, but refers rather to punishment; as though he had said, “The profane shall not be unpunished who shall devour the first-fruits which has been dedicated to me.” For if any had stolen the first-fruits, God would have executed a vengeance such as sacrilege deserved. If, however, any one prefers the other explanation, — that it would be a crime to injure Israel, or to do him any harm, because he was under God’s protection, I shall not oppose him: but the wording of the sentence leads me to the other view, that is, that those who would injure Israel would not only be guilty, but would not be able to escape God’s vengeance, — and why? because *evil will come upon them, saith Jehovah* [^2] He afterwards explains more clearly the import of his doctrine —
 
 ## Jeremiah 2:4-5
 
@@ -63,7 +62,7 @@ Then follows the charge: *What, iniquity have your fathers found in me*, that ha
 
 ## Prayer Lecture 4
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou continuest at this day, both morning and evening, to invite us to thyself, and assiduously exhortest us to repent, and testifiest that thou art ready to be reconciled to us, provided we flee to thy mercy, — O grant, that we may not close our ears and reject this thy great kindness, but that remembering thy gratuitous election, the chief of all the favors thou hast been pleased to shew us, we may strive so to devote ourselves to thee, that thy name may be glorified through our whole life: and should it be that we at any time turn aside from thee, may we quickly return to the right way, and become submissive to thy holy admonitions, that it may thus appear that we have been so chosen by thee and called as to desire to continue in the hope of that salvation, to which thou invitest us, and which is prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -154,7 +153,7 @@ Now, if one asks, whether religion has been changed by any of the nations? First
 
 ## Prayer Lecture 5
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast made thyself known to us in so plain a manner, not only by thy law and prophets, but also by thine only — begotten Son, that the knowledge of thy truth ought to have already struck deep roots in us, — O grant, that we may continue firm and constant in thy holy vocation, and make continual progress in it, and ever hasten forward to the goal: and do thou so humble us under thy mighty hand, that we may know that we are paternally chastised by thee, and profit under thy discipline, until being at length purified from all our vices we shall come to enjoy that immortal life, which has been made known to us by Christ, when we shall be able fully to rejoice in thee. — Amen.
 
@@ -257,7 +256,7 @@ And afterwards the person is changed, *And my fear was not in thee* Here at leng
 
 ## Prayer Lecture 6
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast hitherto shewn to us so many favors, since the time thou hast been pleased to adopt us as thy people, — O grant, that we may not forget so great a kindness, nor be led away by the allurements of Satan, nor seek for ourselves inventions, which may at length turn to our ruin; but that we may continue fixed in our obedience to thee, and daily call on thee, and drink of the fullness of thy bounty, and at the same time strive to serve thee from the heart, and to glorify thy name, and thus to prove that we are wholly devoted to thee, according to the great obligations under which thou hast laid us, when it had pleased thee to adopt us in thine only — begotten Son. — Amen.
 
@@ -331,7 +330,7 @@ Let us now see how this similitude applies to the people. The verse contains two
 
 ## Prayer Lecture 7
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that, as it pleased thee, when thou didst deliver us from the tyranny of Satan, to lay on our necks thy yoke: — O grant, that we may be influenced by the spirit of docility, and of obedience, and of meekness, and willingly submit ourselves to thee through the whole course of our life, so that thou mayest gather from us the fruit of thy redemption: and may we so renounce sin that we may devote ourselves to thy service, and become the servants of righteousness, until having finished the course of our warfare, we shall be gathered into that blessed rest. which has been obtained for us by the blood of thine only — begotten Son. — Amen.
 
@@ -418,7 +417,7 @@ We now perceive his object, — that, as God had sent his prophets, and as their
 
 ## Prayer Lecture 8
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou, in thy paternal kindness, daily invitest us to thyself, we may not harden ourselves against thy holy and salutary admonitions: and whenever thou chastisest us with scourges, may we not become obdurate against thee, but learn humbly to submit to thy word, and receive thy chastisement, and so profit by both, that we may not be exposed to the extreme judgment which thou denouncest on the obstinate; but may we, on the contrary, open a way for thy paternal goodness, so that thou mayest kindly deal with us, until thou receivest us into that blessed rest which has been prepared for us in heaven, through Jesus Christ our Lord. — Amen.
 
@@ -504,7 +503,7 @@ We may hence gather a profitable instruction. Let it in the first place be obser
 
 ## Prayer Lecture 9
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are loaded with so many vices, and provoke thee so often, yea, daily and in ways innumerable, — O grant, that we may not at last become hardened against thy godly admonitions, but be teachable and submissive and in time repent, lest our wantonness and hardness should constrain thee to put forth thy powerful hand against us; but as we have hitherto experienced thy patental kindness, so may we in future be made partakers of it, and thus become more and more accustomed to bear thy yoke, until having at length completed our warfare, we shall come to that blessed rest, which has been provided for us in heaven, through Christ our Lord. — Amen.
 

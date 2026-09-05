@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Lecture Thirty Fourth
 
@@ -73,7 +72,7 @@ Besides, he afterwards points out the punishment; *my hand*, says he, *shall be 
 
 ## Prayer Lecture 34
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are so torpid in our vices that excitements are daily necessary to rouse us up, first, that our destined pastors may faithfully call us to repentance; then, that we in our turn may be so attentive to their exhortations, and so suffer ourselves to be condemned, that we may be our own judges: Grant also, that when you chastise us severely, the taste of thy paternal goodness may never be so lost to us, so that a way may always be open to us to seek reconciliation in Jesus Christ our Lord. — Amen.
 
@@ -133,7 +132,7 @@ He now concludes this discourse, and shows what he had hitherto intended by a bu
 
 ## Prayer Lecture 35
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we do not cease to provoke thee by our sins, that we may at length consider our wretched condition, unless you govern us by thy Spirit, and subject us to thyself in true obedience: and may we so desire to be reconciled to thee, that we may not flatter ourselves, but being altogether humbled and emptied of self, may we fly to thy mercy with a true feeling of piety: and so find what is prepared for us in Christ Jesus our Lord. — Amen.
 
@@ -177,7 +176,7 @@ Here Ezekiel begins to threaten those women with what would shortly happen, name
 
 ## Prayer Lecture 36
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, since you show us that our salvation is so precious in thy sight, that through our ingratitude we may not cast away this testimony of thy favor, but be anxious to listen to thy instructions: Grant also, that being gifted by thee with the spirit of discretion, we may not be exposed to capture as a prey; but may we be so ruled by the light of thy word that we may hold on in the right way, till after our allotted time is finished we may arrive at that happy repose which is laid up for us in heaven through Christ our Lord. — Amen.
 

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**CHRIST AND HIS CHILDREN**
+## **Christ and His Children**
 
 > When thou shalt make his soul an offering for sin, he shall see his seed." Isa. 53:10
 
@@ -23,7 +22,6 @@ Our Lord Jesus has not died in vain. His death was sacrificial: He died as our s
 A man is honored in his sons, and Jesus hath His quiver full of these arrows of the mighty. A man is represented in his children, and so is the Christ in Christians. In his seed a man's life seems to be prolonged and extended; and so is the life of Jesus continued in believers.
 
 Jesus lives, for He sees His seed. He fixes His eye on us, He delights in us, He recognizes us as the fruit of His soul travail. Let us be glad that our Lord does not fail to enjoy the result of His dread sacrifice, and that He will never cease to feast His eyes upon the harvest of His death. Those eyes which once wept for us, are now viewing us with pleasure. Yes, He looks upon those who are looking unto Him. Our eyes meet! What a joy is this!
-
 
 ---
 [[FCB January 17|← January 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 19|January 19 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 3 — How, then, are these ways and means of the worship of God made known unto us?
-
-Question 3 — How, then, are these ways and means of the worship of God made known unto us?
 
 Answer — In and by the written word only, which contains a full and perfect revelation of the will of God as to his whole worship and all the concernments of it. John v. 39; Isa. viii. 20; Luke xvi. 29; 2 Tim. iii. 15–17; 2 Pet. i. 19; Deut. iv. 2, xii. 32; Josh. i. 7; Prov. xxx. 6; Rev. xxii. 18, 19; Isa. xxix. 13, 14.
 
@@ -27,7 +24,6 @@ Secondly, He frequently affirms that it is sufficient, able, and perfect to guid
 Thirdly, He hath commanded us to observe all whatsoever he hath appointed therein, and not to make any addition thereunto, Josh. i. 7; Deut. iv. 2, xii. 32; Prov. xxx. 6; Rev. xxii. 18, 19. And, —
 
 Fourthly, Peculiarly interdicted us the use of any such things as are of the institution or appointment of men, Isa. xxix. 13, 14. So that from the Scriptures alone are we to learn what is accepted with God in his worship.
-
 
 ---
 [[BIWG 03 Question 2 — By what means do we come to know that God will thus be worshipped|← Question 2 — By what means do we come to know that God will thus be worshipped?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 05 Question 4 — Have these ways and means been always the same from the beginning|Question 4 — Have these ways and means been always the same from the beginning? →]]

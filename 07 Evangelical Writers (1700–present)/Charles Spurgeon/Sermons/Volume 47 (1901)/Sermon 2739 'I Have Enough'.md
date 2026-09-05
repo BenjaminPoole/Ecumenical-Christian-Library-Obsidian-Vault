@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # 'I Have Enough'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2739
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Esau said, I have enough. Jacob said, I have enough." Genesis 33:9,11.
 
@@ -133,7 +130,7 @@ An infinite craving for some infinite stilling— But now Your perfect love is p
 
 So may it be with each of us, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 32; 33:1-12.
+## Exposition by C. H. Spurgeon: Genesis 32; 33:1-12
 
 Genesis 32:1, 2. And Jacob went on his way, and the angels of God met him. And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim. Jacob was about to enter upon a great trial and therefore he received a great comfort in preparation for it. God knows when to send angels to His servants—and when they come, it is often as the forerunners of a trial which is to follow them.
 
@@ -174,7 +171,6 @@ Genesis 33:1, 2. And Jacob lifted up his eyes, and looked, and, behold, Esau cam
 6-10. Then the handmaidens came near, they and their children, and they bowed themselves. And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves. And he said, What do you mean by all this drove which I met? And he said, These are to find grace in the sight of my lord. And Esau said, I have enough, my brother, keep what you have unto yourself And Jacob said, No, Ipray you, if now I have found grace in your sight, then receive my present at my hand. For, among Orientals, it is such a common custom to offer and receive presents that if they are not accepted, it is regarded as an affront.
 
 10-12. For therefore I have seen your face, as though I had seen the face of God, and you were pleased with me. Take, Ipray you, my blessing that is brought to you; because God has dealt graciously with me, and because I have enough. Andhe urgedhim, andhe took it. Andhe said, Let us take our journey, andlet us go, andI will go before you.
-
 
 ---
 [[Sermon 2738 The Redeemer's Face Set Like a Flint|← #2738]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2740 What Is Essential in Coming to God|#2740 →]]

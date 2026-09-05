@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 105. What doth God require in the sixth command?
-
-**Question 105. What doth God require in the sixth command?**
 
 Answer. That neither in thoughts, nor words, nor gestures, much less in deeds, I dishonour, hate, wound, or kill my neighbour, by myself or by another; but that I lay aside all desire of revenge: also, that I hurt not myself, or wilfully expose myself to any danger. Wherefore also the magistrate is armed with the sword, to prevent murder.
 

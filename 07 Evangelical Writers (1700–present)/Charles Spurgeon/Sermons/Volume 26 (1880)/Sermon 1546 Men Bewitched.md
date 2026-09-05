@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Men Bewitched
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1546
-
-DELIVERED BY.
 
 > "O foolish Galatians, who has bewitched you, that you should not obey the truth, before whose eyes Jesus Christ has been evidently set forth, crucified among you?" Galatians 3:1.
 
@@ -94,7 +91,6 @@ During the last few meetings that we have had here, my dear Brothers Fullerton a
 So it may happen with the new religious lights that men bring up which are like dim rush lights compared with the blazing sun of Gospel Truth—we are not going to try anything new to the risk of our souls. We are going to keep to the old, old Gospel until it is worn out. When it gets worn out and will not save any more and will not comfort any more and will not draw us near to God any more, then will be the time for us to think of something fresh. But as that has not come to pass, I beg to say that I will drive another nail into my old colors and fasten them anew to the old mast!
 
 What I have preached among you these 26 years I will preach again, for I am determined to know nothing among men but Christ and Him Crucified! And may neither the preacher become a fool, nor any of his hearers become fools, by being bewitched, so that they forsake the glorious Gospel of Jesus Christ! Oh that you all knew its power and were all saved by it! God grant that you may be, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1545 God Glorified By Children's Mouths|← #1545]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1547 Samuel and the Young Man Saul|#1547 →]]

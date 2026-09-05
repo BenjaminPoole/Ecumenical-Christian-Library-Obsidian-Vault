@@ -9,22 +9,21 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**TO THE**
+***To The***
 
-**MOST ILLUSTRIOUS PRINCE,**
+## **Most Illustrious Prince,**
 
-**D. FREDERICK,**
+## **D. Frederick,**
 
-**LORD PALATINE OF THE RHINE, AND ELECTOR OF THE ROMAN EMPIRE, ETC.,**
+## **Lord Palatine of the Rhine, and Elector of the Roman Empire, Etc.,**
 
-**AND HIS MOST BENEVOLENT LORD,**
+## **And His Most Benevolent Lord,**
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**WISHES ALL HAPPINESS.**
+## **Wishes All Happiness.**
 
 As your heroic valor, Most Illustrious Prince, has been acknowledged by superior men and competent judges, and especially your singular piety, your labor to cherish and to promote true Religion, and uniform moderation through life; and also your great courtesy, such as can hardly be found in a private individual, and which I have not only known by report, but have also myself experienced, I have long wished by some public act to testify to posterity the high regard I entertain for you, being not satisfied with having it only in secret. This is well known to the noble — minded Edward, the Count or Espach, whom I have consulted on the subject.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Fathers In Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1751
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 18, 1883,.
+*Delivered on Lord's-Day Morning, November 18, 1883*
 
 > "I write unto you, fathers, because you have known Him that is from the beginning. Ihave written unto you, fathers, because you ha ve kno wn Him that is from the beginning." 1 John 2:13,14.
 
@@ -144,7 +143,6 @@ Therefore weary not if you wait through a long night. Say not that He delays His
 "Hold the fort, for I am coming, Jesus signals still! Wave the answer back to Hea ven, By Your Grace we will."
 
 Amen.
-
 
 ---
 [[Sermon 1750 The Luther Sermon at Exeter Hall|← #1750]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1752 Mourners, Inquirers, Covenanters|#1752 →]]

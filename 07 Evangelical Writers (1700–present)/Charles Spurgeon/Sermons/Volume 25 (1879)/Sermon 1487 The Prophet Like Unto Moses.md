@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Prophet Like Unto Moses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1487
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 3, 1879,.
+*Delivered on Lord's-Day Morning, August 3, 1879*
 
 > "The Lord your God will raise up unto you a Prophet from the midst of you, of your brethren, like unto me; unto Him you shall hearken; according to all that you desired of the Lord your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the Lord my God, neither let me see this great fire any more, that I die not. And the Lord said unto me, They have well spoken that which they have spoken. I will raise them up a Prophet from among their brethren, like unto you, and will put My words in His mouth; and He shall speak unto them all that I shall command Him. And it shall come to pass, that whoever will not hearken unto My words which He shall speak in My name, I will require it of him." Deuteronomy 18:15-19.
 
@@ -160,7 +159,6 @@ of Him."
 My Master will require of me how I have preached to you and I sincerely wish it were in my power to put these things in better form and plead with you more earnestly. But, after all, what can I do? If you have no care for your own souls, how can I help it? If you will rush upon eternal woe. If you will despise the altogether Lovely One through whom God speaks to you. If you will live day after day carelessly and wantonly, throwing away your souls, oh, then, my eyes shall weep in secret places for you, but what more can I do but leave you to God? At the last I shall be compelled to say, "Amen," to the verdict which condemns you forever!
 
 God grant that such a reluctant task may not fall to my lot in reference to any of you, but may you now hear and obey the Lord Jesus and find eternal salvation at once, for His dear name's sake. Amen.
-
 
 ---
 [[Sermon 1486 The Shame and Spitting|← #1486]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1488 More and More, or Less and Less|#1488 →]]

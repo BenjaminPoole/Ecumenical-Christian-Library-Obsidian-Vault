@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Jesus in Gethsemane
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2767
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When Jesus had spoken these words, He went forth with His disciples over the Brook Kidron, where there was a garden, which He and His disciples entered. And Judas, who betrayed Him, also knew the place; for Jesus often met there with His disciples." John 18:1,2.
 
@@ -63,7 +60,7 @@ Sometimes, dear Friends, you may wish, in your hearts, that the Lord would make 
 
 III. Now, in the third place, and only briefly, LET US VIEW THE DISCIPLES IN GETHSEMANE, BY WAY OF
 
-INSTRUCTION TO OURSELVES.
+## Instruction to Ourselves
 
 Probably, the disciples had often been with their Master to Gethsemane—I suppose, sometimes by day, and oftentimes by night, in secret conclave they had been instructed in the olive garden. It had been their Academy! There they had been with the Master in prayer—no doubt, each one praying and learning how to pray better from His Divine example. Dear Brothers and Sisters, I recommend you oftentimes to get to the place where you can best commune with your God.
 
@@ -97,7 +94,7 @@ I cannot bear to think that anyone of you should be familiar with the ins and ou
 
 Therefore, hold me up, O Lord, and I shall be safe; keep me even to the end, for Your dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:1-8.
+## Exposition by C. H. Spurgeon: John 15:1-8
 
 On the way from the supper table to the Garden of Gethsemane, or while still lingering in the upper room, our Lord spoke this wondrous parable.
 
@@ -118,7 +115,6 @@ Verse 1. I am the true Vine. All other vines are but shadows of Christ. They rep
 7\. If you abide in Me and My words abide in you, you shall ask what you will, and it shall be done for you. Here is the secret of prevailing prayer! It is not every man who chooses to pray who shall have whatever he asks of God! But the successful pleader is the man who abides in Christ and in whom Christ's words abide. God will not hear our words if we disregard His words! We cannot expect our prayers to be prevalent if we are severed from our Lord.
 
 8\. Herein is my Father glorified, that you bear much fruit; so shall you be My disciples. "Much fruit" should be produced by the disciples of the much-doing Christ. The true Vine was full of fruit and it scarcely can be believed that we are branches of that Vine if we exhibit only a little fruit. It is "much fruit" that proves our union to this Vine.
-
 
 ---
 [[Sermon 2766 The Sluggard's Reproof|← #2766]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2768 Debtors and Debtors|#2768 →]]

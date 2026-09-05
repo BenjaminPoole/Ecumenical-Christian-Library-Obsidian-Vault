@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Peter's Shortest Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3186
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lord, save me." Matthew 14:30.
 
@@ -85,7 +82,7 @@ Do any of you feel that you need to pray, and yet cannot pray? You would believe
 
 Go home, therefore, you who are troubled with doubts and fears, you who are vexed by Satan, you who are saddened by the recollection of your own past sins—notwithstanding all this—go to God, and say, "Father, I have sinned against Heaven, and before You," and ask for His forgiveness, and His forgiveness you shall receive! Keep on praying in such a fashion as this, "Lord, save me for Jesus' sake! Jesus, You are the Savior of sinners. Save me, I beseech You. You are mighty to save. Lord, save me! You are in Heaven pleading for transgressors. Lord, plead for me!" Do not wait till you get home, but pray just where you are sitting, "Lord save me." May God give Grace to everyone here to pray that prayer from the heart, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 6:5-34.
+## Exposition by C. H. Spurgeon: Matthew 6:5-34
 
 Verse 5. And when you pray, you shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. We ought to pray in the synagogue and we may pray at the corners of the streets—but it is wrong to do it to "be seen of men," that is, to be looking for some present reward in the praises that fall from human lips.
 
@@ -136,7 +133,6 @@ longer than it was. They could not do so—they could shorten it, and very often
 30-33. Therefore, if God so clothes the grass of the field, which today is, and tomorrow is cast into the oven, shall He not much more clothe you, O you of little faith? Therefore, worry not, saying, What shall we eat? Or, What shall we drink? Or, How shall we be clothed? (For after all these things do the Gentiles seek) for our heavenly Father knows that you have need of all these things. But seek you first the Kingdom of God, and His righteousness; and all these things shall
 
 be added unto you.
-
 
 ---
 [[Sermon 3185 'A Song of My Beloved'|← #3185]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3187 The Great Pot and the Twenty Loaves|#3187 →]]

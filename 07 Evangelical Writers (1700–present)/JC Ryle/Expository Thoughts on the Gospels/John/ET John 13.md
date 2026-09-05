@@ -11,12 +11,11 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 13
 
 *Expository Thoughts on John* — J. C. Ryle
 
-**JOHN 13**
+## **John 13**
 
 ## JOHN 13:1-5 — Listen to AUDIO
 
@@ -157,7 +156,6 @@ These verses show us, lastly, ***how much self-ignorance there may be in the hea
 Let it be a settled principle in our religion, that *there is an amount of weakness in all our hearts, of which we have no adequate conception, and that we never know how far we might fall if we were tempted.* We fancy sometimes, like Peter, that there are some things we could not possibly do. We look pitifully upon others who fall, and please ourselves in the thought that at any rate we would not have done so. We know nothing at all. The seeds of every sin are latent in our hearts, even when renewed, and they only need occasion, or carelessness and the withdrawal of God's grace for a season, to put forth an abundant crop. Like Peter, we may think we can do wonders for Christ, and like Peter, we may learn by bitter experience that we have no power and might at all.
 
 The servant of Christ will do wisely to remember these things. "Let him that thinks he stands, take heed lest he fall." (1 Cor. 10:12.) A humble sense of our own innate weakness, a constant dependence on the Strong for strength, a daily prayer to be held up, because we cannot hold up ourselves—these are the true secrets of safety. The great Apostle of the Gentiles said, "When I am weak, then I am strong." (2 Cor. 12:10.)
-
 
 ---
 [[ET John 12|← John 12]] · [[Expository Thoughts on John|John Contents]] · [[ET John 14|John 14 →]]

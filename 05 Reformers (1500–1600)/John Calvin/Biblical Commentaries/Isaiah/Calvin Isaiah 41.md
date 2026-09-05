@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 41
 
-**CHAPTER 41.**
+***Chapter 41.***
 
 ## Isaiah 41:1-29
 

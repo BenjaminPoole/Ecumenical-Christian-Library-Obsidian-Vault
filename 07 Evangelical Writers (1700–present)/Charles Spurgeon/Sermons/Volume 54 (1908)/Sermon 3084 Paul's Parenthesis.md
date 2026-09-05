@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Paul's Parenthesis
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3084
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By the Grace of God I am what I am." 1 Corinthians 15:10.
 
@@ -85,7 +82,7 @@ I will put to you another straight question, Is Christ Jesus your only hope?Were
 
 If you cannot say that you are what you want to be. If you cannot say that you know anything experimentally about the Grace of God, the last question I will put to you is this, What must that principle be which does rule you? The Grace of God made Paul what he was—what has made you what you are? "Well, Sir, I think I am as good as my neighbors, and rather better than most of them." Who made you so? I suppose you are a self-made man and it is a matter of fact that everybody worships his creator, so that if you believe that you made yourself, I am not surprised that you worship yourself. But I do wonder where you expect to go when you die, you who have never done any wrong, and have been so good that you do not need a Savior. Do you expect to go to Heaven? Well, if you could go there, what would you do? I read of the multitude that no man could number, "These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb. Therefore are they before the Throne of God, and serve Him day and night in His temple." But if you could get there because your garments never needed any washing, surely you would throw up your cap and say, "Well done myself!" And what a discord that would cause in the music of Heaven! What a stranger you would feel among those multitudes who would all praise the blessed God! But you will never go there until you fling that righteousness of yours back to the pit from whence it came, for there is nothing in it that God can look upon with pleasure. It is a vile compound of pride and ignorance. May the light of the Holy Spirit shine upon it and make you loathe it, hate it and flee from it! And may He teach you that there is life in Jesus, there is pardon in Jesus, there is salvation in Jesus for every soul that comes to Him! If you say, "By my own merits and abilities I am what I am," may God save you from that dreadful delusion and bring you humbly to trust in the merits and Sacrifice of His dear Son! So you shall find salvation and He shall have the Glory, world without end. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS9:1-31.
+## Exposition by C. H. Spurgeon: Acts 9:1-31
 
 Verse 1. And Saul, yet breathing out threats and slaughter against the disciples of the Lord, went unto the high priest Notice that little word, "yet." "Saul yet breathing out threats and slaughter against the disciples of the Lord." But there was to be a point beyond which he could not go. I pray God that there may be such a "yet" as that put into the histories of any here who are opposing God and His Christ. "Saul, yet breathing out threats and slaughter"—as if they were his very breath, as if he only lived to blaspheme the name of Christ and to persecute His followers—"went unto the high priest."
 
@@ -134,7 +131,6 @@ purpose. He had already felt in his own heart some of the sorrows that follow fr
 26\. And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple. They did not admit anybody and everybody into the Church. They guarded it as Christ's Church should be guarded, that unworthy people might not enter it. If any of you should be kept back a little while, you can say to yourself, "Well, they kept back Paul." We are poor fallible creatures, but we try to judge rightly concerning those who wish to unite with us.
 
 27-31. But Barnabas took him, and brought him to the Apostles, and declared unto them how he had seen the Lord in the way, and that He had spoken to him, and how he had preached boldly at Damascus in the name of Jesus. And he was with them coming in and going out at Jerusalem, And he spoke boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him. Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus. Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied. Blessed be God for such a conversion as that of Saul of Tarsus!
-
 
 ---
 [[Sermon 3083 Comfort for Those Whose Prayers Are Feeble|← #3083]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3085 An Exciting Enquiry|#3085 →]]

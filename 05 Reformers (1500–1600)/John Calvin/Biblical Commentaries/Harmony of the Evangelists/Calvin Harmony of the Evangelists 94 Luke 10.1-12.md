@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 94. Luke 10:1-12
-
-**Luke 10:1-12**
 
 **1.** And after these things the Lord appointed other seventy also, and sent them two by two before his face into every city and place, to which he was to come **2**. He said, therefore to them, The harvest is indeed abundant, but the laborers are few; pray ye, therefore, the Lord of the harvest to send out the laborers into his harvest **3.** Go: behold, I send you as lambs among wolves. **4.** Carry neither purse, nor bag nor shoes, and salute no man by the way. **5.** Into whatsoever house you shall enter, first say, Peace be to this house. **6.** And if the son of peace will remain upon it: but if not, it will return to you. **7.** And remain in the same house eating and drinking those things which shall be given by them; [^1] for the laborer is worthy of his hire. Go not from house to house. **8.** And into whatsoever city you shall enter, and they shall receive you, eat those things which are set before you: **9.** And cure the diseased who are in it, and say to them, The kingdom of God is nigh to you. **10.** And in whatsoever city you shall enter, and they shall not receive you, go out into its streets and say, **11.** Even the dust, which has cleaved to us from your city, we wipe off against you: yet know this, that the kingdom of God is nigh to you. **12.** I say to you, That in that day it will be more tolerable for Sodom than for that day.
 

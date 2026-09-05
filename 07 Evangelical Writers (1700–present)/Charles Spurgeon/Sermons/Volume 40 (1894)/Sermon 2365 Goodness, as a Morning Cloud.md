@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "Goodness, as a Morning Cloud"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2365
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest." 2 Chronicles 24:2.
 
@@ -136,7 +133,6 @@ good towards God's house. The Church is to be served, but even it must be second
 22\. 23. Then Joash the king remembered not the kindness which Jehoiada, his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it. And it came to pass at the end of the year, that the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus. God delayed not long the punishment of the evildoers! When His servants are persecuted, He will speedily avenge His own elect. "They destroyed all the princes of the people from among the people." Was not that remarkable? These were the authors of the sin and they had chiefly to endure the penalty. It is not always that invaders lay hold upon the princes, alone, and slay them—but these Syrians did so.
 
 24, 25. For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hands because they had forsaken the LORD God of their fathers. So they executed judgment against Joash. And when they were departed from him, (for they left him in great diseases), his own servants conspired against him for the blood of the sons of Jehoiada, the priest, and slew him on his bed and he died: and they buried him in the city of David, but they buried him not in the sepulchers of the kings. When one set of executioners had gone, his own servants conspired against him and slew him! Here ends our reading. May it be profitable to us!
-
 
 ---
 [[Sermon 2364 Poverty and Riches|← #2364]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2366 The Sure Mercies of David|#2366 →]]

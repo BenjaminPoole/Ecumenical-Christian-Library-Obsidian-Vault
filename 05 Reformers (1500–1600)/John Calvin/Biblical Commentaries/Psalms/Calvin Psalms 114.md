@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 114
-
-**PSALM 114**
 
 This psalm contains a short account of that deliverance by which God, in bringing his people out of Egypt: and conducting them to the promised inheritance, gave a proof of his power and grace which ought to be held in everlasting remembrance. The design of that wonderful deliverance was, that the seed of Abraham might yield themselves wholly to God, who, receiving them by a gracious act of adoption, purposed that they should be to him a holy and peculiar people. [^1]
 

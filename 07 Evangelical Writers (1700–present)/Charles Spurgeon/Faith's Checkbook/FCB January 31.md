@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 31
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**GOD ALWAYS HEARS**
+## **God Always Hears**
 
 > My God will hear me." Micah 7:7
 
@@ -23,7 +22,6 @@ Friends may be unfaithful, but the Lord will not turn away from the gracious sou
 Our wisdom is to look unto the Lord, and not to quarrel with men or women. If our loving appeals are disregarded by our own relatives, let us wait upon the God of our salvation, for He will hear us. He will hear us all the more because of the unkindness and oppression of others, and we shall soon have reason to cry, "Rejoice not against me, O mine enemy!"
 
 Because God is the living God, He can hear; because He is a loving God, He will hear; because He is our covenant God, He has bound Himself to hear us. If we can each one speak of Him as "My God," we may with absolute certainty say, My God will hear me." Come, then, O bleeding heart, and let thy sorrows tell themselves out to the Lord thy God! I will bow the knee in secret, and inwardly whisper, "My God will hear me."
-
 
 ---
 [[FCB January 30|← January 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 1|February 1 →]]

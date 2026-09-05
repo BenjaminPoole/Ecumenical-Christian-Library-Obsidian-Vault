@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Jesus and His Brethren
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2516
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Joseph could not refrain himself before all them that stood by him, and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren. And he wept aloud: and the Egyptians and the house ofPharaoh heard. And Joseph said unto his brethren, I am Joseph; does my father yet live? And his brethren could not answer him; for they were troubled at his presence. And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom you sold into Egypt. Now therefore be not grieved, nor angry with yourselves, that you sold me here: for God did send me before you to preserve life." Genesis 45:1-5.
 
@@ -55,9 +52,9 @@ Dear Friends, if any of you are in this sad state, do not, therefore, be driven 
 
 II. Now, thirdly, though the first appearance of Jesus, like that of Joseph, may cause sadness, THE FURTHER
 
-REVELATION OF THE LORD JESUS CHRIST TO HIS BRETHREN BRINGS THEM THE GREATEST POSSIBLE
+## Revelation of the Lord Jesus Christ to His Brethren Brings Them the Greatest Possible
 
-JOY.
+## Joy
 
 If you look at this passage when you are at home, you will perhaps say to yourself, "The second time that Joseph spoke to his brethren, he had not much more to say than he said the first time. For then he said, 'I am Joseph; does my father yet live?' And the second time there was as much the same burden in his language, "I am Joseph, your brother, whom you sold into Egypt." So, when Christ reveals Himself in Grace to any poor heart, the revelation, for substance, is much the same as at the first, yet there is a great difference. When, for the first time, I heard the Gospel to my soul's salvation, I thought that I had never really heard the Gospel before and I began to think that the preachers to whom I had listened had not truly preached it. But, on looking back, I am inclined to believe that I had heard the Gospel fully preached many hundredsof times, before, but that thiswas the difference—I then heard it as though I heard it not—and when I didhear it, the message may not have been any more clear in itself than it had been at former times, but the power of the Holy Spirit was present to open my ears and to guide the message to my heart!
 
@@ -99,7 +96,7 @@ Come, Beloved, can you not get nearer to your Lord? Can you not speak familiarly
 
 "Come, Holy Spirit, heavenly Dove" and help us now to come near to Jesus! Amen and Amen!
 
-EXPOSITIONS BY C. H. SPURGEON: GENESIS 45:1-13; SONG OFSOLOMON 1:1-7; 3:1-5.
+## Expositions by C. H. Spurgeon: Genesis 45:1-13; Song Ofsolomon 1:1-7; 3:1-5
 
 Genesis 45:1, 2. Then Joseph could not refrain himself before all them that stood by him: and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren. And he wept aloud. Emotion long pent up grows intense and when, at last, it bursts forth, it cannot be restrained. "He wept aloud."
 
@@ -136,7 +133,6 @@ Song of Solomon 3:1. By night on my bed Isought Him whom my soul loves: I sought
 2-5. I willrise now and go about the city in the streets, and in the broad ways I will seek Him whom my soul loves: I sought Him, but I found Him not. The watchmen that go about the city found me: to whom I said, Saw you Him whom my soul loves? It was but a little while that Ipassed from them, but I found Him whom my soul loves: I held Him and would not let Him go until Ihad brought Him into my mother's house, and into the chamber of her that conceivedme. I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field—"By everything that is timid, and delicate, and pure, and full of love, I charge you, O you daughters of Jerusalem."—
 
 5\. That you stir not up, nor awake my love, till He pleases. "I have found my Beloved, and I would not lose Him again. He has come to me, so I will not grieve Him and drive Him away." That is the one strain of our reading— "Come near to me, I pray You; and when You come near me, stay by me still."
-
 
 ---
 [[Sermon 2515 Something Worth Seeking|← #2515]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2517 From Twenty-five to Thirty-five|#2517 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Backslider's Door of Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2569
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will give her her vineyards from there, and the Valley ofAchor for a door of hope; she shall sing there, as in the days of her youth, and as in the day when she came up from the land of Egypt." Hosea 2:15.
 
@@ -83,7 +80,7 @@ Now, Beloved, we will not spend all our time in talking about the door and forge
 
 III. I have but a minute or two to dwell upon the last point, whereon one might well speak for an hour—that is,
 
-RENEWED SONGS.
+## Renewed Songs
 
 You must have noticed, dear Friends, that whenever men turn aside from Christ, they go away from all the music of true religion. A little religion is a very miserable thing! If you have just enough religion to let you know that you are wrong, but not enough to make you right, you are spoiled for the joys of the world, yet you do not possess the joys of the world to come. I cannot help telling you again the old American story about the apples in the orchard. There is said to have been a gentleman who asked a friend to come and have some of his apples, which he said were among the finest apples in the State. Yet his friend did not come, though he was invited several times. The gentleman thought that there must be some reason for his refusal, so he asked him why he did not come, and his friend answered, "The fact is, while I have been driving by your orchard, I have picked up an apple or two that fell into the road and I can't say that I have, at all, pleasant memories of those apples—they were the sourest that I ever ate in my life! They set my teeth on edge even to think of them." "Oh," said the owner of the orchard, "now I understand! I sent a great many miles to buy those particular apples that grow just by the side of the hedge and fall into the road. I bought them for the special benefit of the boys who might be inclined to steal my fruit. Whenever they taste them, they say to themselves, ' It is no use to rob that orchard, the apples are horribly sour.' But," he added, "if you will come inside, where those boys do not come, you shall then see what a good apple is like."
 
@@ -114,7 +111,6 @@ Exodus 15:1-10. Then sang Moses and the children of Israel this song unto the LO
 16\. Fear and dread shall fall upon them; by the greatness of Your arm they shall be as still as a stone; till Your people pass over, O LORD, till the people pass over, which You have purchased. And how still they were! All the 40 years that the Israelites were in the wilderness, they were scarcely ever attacked. And even then it was not by the inhabitants of Canaan, but by the wandering Bedouin tribe of the Amalekites, who slew the hindmost of them. It was amazing that no troops ever came from Egypt to molest God's people after the destruction at the Red Sea. Neither from Canaan did any come to block their way. When God strikes, He makes His adversaries dread all future conflicts!
 
 17-21. You shall bring them in, andplant them in the mountain of Your inheritance, in theplace, O LORD, which You have made for You to dwell in, in the Sanctuary, O LORD, which Your hands have established. The LORD shall reign forever and ever. For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them, but the children of Israel went on dry land in the midst of the sea. And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances. And Miriam answered them, Sing you to the LORD, for He has triumphed gloriously! The horse and his rider has He thrown into the sea. They sang as in an oratorio, Miriam singing the solo, and all the women joining in the jubilant chorus! And well might they rejoice after the great deliverance which the Lord had worked for them.
-
 
 ---
 [[Sermon 2568 Sabbath-work|← #2568]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2570 Jesus Sitting on the Well|#2570 →]]

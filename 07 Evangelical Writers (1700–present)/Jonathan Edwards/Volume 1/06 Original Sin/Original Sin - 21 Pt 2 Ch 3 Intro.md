@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. III.
 
-OBSERVATIONS ON VARIOUS OTHER PLACES OF SCRIPTURE, PRINCIPALLY OF THE NEW TESTAMENT, PROVING THE DOCTRINE OF ORIGINAL SIN.
+*Observations on Various Other Places of Scripture, Principally of the New Testament, Proving the Doctrine of Original Sin*
 
 ---
 

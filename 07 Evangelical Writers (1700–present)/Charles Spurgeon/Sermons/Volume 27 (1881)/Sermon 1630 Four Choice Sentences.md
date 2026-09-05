@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Four Choice Sentences
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1630
 
-DELIVERED ON THURSDAY EVENING, FEBRUARY 3, 1881,.
+*Delivered on Thursday Evening, February 3, 1881*
 
 > "Behold I am with you." Genesis 28:15.
 
@@ -104,7 +103,6 @@ They used to say of our dear friend, George Muller, "What will become of the Orp
 Such a fact tends to answer man's idle questions. Blessed be the everlasting God—if Abraham dies, there is Isaac! And if Isaac dies, there is Jacob! And if Jacob dies, there is Joseph! And if Joseph dies, Ephraim and Manasseh survive! The Lord shall never lack a champion to bear His standard high among the sons of men! Only let us pray God to raise up more faithful ministers. That ought to be our prayer day and night. We have plenty of a sort, but, oh, for more that will weigh out 16 ounces to the pound of Gospel in such a way that people will receive it! We have too much of fine language; too much of florid eloquence and too little full and plain Gospel preaching! But God will keep up the Apostolic succession, never fear for that!
 
 When Stephen is dying, Paul is not far off. When Elijah is taken up, he leaves his mantle behind him. "I die: but God shall be with you." Take comfort, dear Friends, and may His Spirit be with you, through Jesus Christ, His dear Son, whose name is Christ, His dear Son, whose name is "Emmanuel"—God With Us. Amen.
-
 
 ---
 [[Sermon 1629 Two Good Things|← #1629]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1631 The Main Matter|#1631 →]]

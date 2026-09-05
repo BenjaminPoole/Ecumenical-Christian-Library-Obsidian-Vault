@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Charity and Purity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2313
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep ourselves unspotted from the world." James 1:27.
 
@@ -107,7 +104,7 @@ Thus I have spoken to God's people, but I have said very little to sinners. Alth
 
 Some of you are living within the boundaries of this mortal existence and that is your all. Poor Soul! Poor Soul! Poor soul! Poor Soul! The Lord in His mercy bring you to know the life eternal! And when you once get that, your great desire will be to be delivered from the power of sin and to keep yourself unspotted from the world! The Lord bless you, for Christ's sake! Amen!
 
-EXPOSITION BY C. H. SPURGEON. JAMES1.
+## Exposition by C. H. Spurgeon. James 1
 
 Verse 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. "Where are the lost ten tribes?" asks somebody. They never were lost. That is a mere piece of nonsense! There were, and there still are, 12 tribes of Israel, as much one as the other. Ask any Jew if it is not so. James writes to all his compatriots by nature and to all the fellow citizens of the saints by Grace, and greets them. What a strange greeting it is!
 
@@ -162,7 +159,6 @@ ableness, neither shadow of a turning, and we may come to Him, tonight, and say,
 26\. If any man among you seems to be religious, and bridles not his tongue, but deceives his own heart, this man's religion is vain. James settles that matter off very peremptorily. An unbridled tongue indicates a godless heart.
 
 27\. Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep ourselves unspotted from the world. This is not the secret part of religion. Of that we read elsewhere. But this is the very dress that true religion puts on—charitably caring for the most destitute of our fellow creatures, and holy walking, that we are not as the men of the world are—"Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep ourselves unspotted from the world."
-
 
 ---
 [[Sermon 2312 Achsah's Asking—a Pattern of Prayer|← #2312]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2314 Three Blessings of the Heavenly Charter|#2314 →]]

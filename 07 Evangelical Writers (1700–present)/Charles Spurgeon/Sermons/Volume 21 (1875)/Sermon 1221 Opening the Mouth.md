@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Opening the Mouth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1221
-
-DELIVERED BY.
 
 > "Open your mouth wide, and I will fill it." Psalm 81:10.
 
@@ -130,7 +127,6 @@ If you believe on the Lord Jesus Christ, you shall have this unspeakably great b
 And so will you, too, if the Spirit of God has made you hunger and thirst after righteousness. Open your mouth wide, believing that Jesus is the Christ! Trust your soul with Him and ask, now, for immediate pardon through His precious blood, and you will not be denied. May the Holy Spirit make you hungry and then your longing mouth shall be filled—and God shall have all the glory. May His blessing rest upon you for Christ's sake.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 81. HYMNS FROM "OUR OWN HYMN BOOK"—978, 986, 980.
-
 
 ---
 [[Sermon 1220 The Leading of the Spirit, The Secret Token of the Sons|← #1220]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1222 The Overflowing Cup|#1222 →]]

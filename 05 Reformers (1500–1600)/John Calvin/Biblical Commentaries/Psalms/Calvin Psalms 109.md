@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 109
-
-**PSALM 109**
 
 This psalm consists of three parts. It begins with a complaint; next follows an enumeration of various imprecations; and then comes a prayer with an expression of true gratitude. And although David here complains of the injuries which he sustained, yet, as he was a typical character, everything that is expressed in the psalm must properly be applied to Christ, the Head of the Church, and to all the faithful, inasmuch as they are his members; so that when unjustly treated and tormented by their enemies, they may apply to God for help, to whom vengeance belongs. [^1]
 

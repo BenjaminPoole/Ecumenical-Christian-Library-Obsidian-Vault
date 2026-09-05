@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 92. Matthew 11:7-15; Luke 7:24-28
-
-**MATTHEW 11:7-15; LUKE 7:24-28**
 
 **7**. And as they were departing, Jesus began to say to the multitudes concerning John, What went you out into the wilderness to see? A reed, which is shaken by the wind? **8**. But what went you out to see? A man clothed in soft raiment? [^1] Lo, they who wear soft clothing are in the houses of kings. **9**. But what went you out to see? A Prophet? Yea, I say to you, and higher than a Prophet. **10**. For this is he of whom it is written, Lo, I send my messenger before thy face, who will prepare the way before thee. **11**. Verily, I say to you, Among those who are born of women, there hath not arisen a greater than John the Baptist: yet he who is least in the kingdom of heaven is greater than he. **12**. And from the days of John the Baptist to this day, the kingdom of heaven suffereth violence, and the violent take it by force. **13**. For all the Prophets and the Law itself prophesied until John. **14**. And if you are willing to receive it, [^2] he is Elijah, who was to come. **15**. He that hath ears to hear, let him hear.
 

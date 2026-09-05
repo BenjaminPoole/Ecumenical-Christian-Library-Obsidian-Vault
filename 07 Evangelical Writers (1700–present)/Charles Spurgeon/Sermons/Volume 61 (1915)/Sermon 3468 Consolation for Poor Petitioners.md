@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Consolation for Poor Petitioners
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3468
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Like a crane or a swallow, so did I chatter: I did mourn as a dove: my eyes fail with looking upward. O Lord, I am oppressed; undertake for me." Isaiah 38:14.
 
@@ -47,7 +44,7 @@ If I do not weary you in looking at this prayer, I think I am holding up a mirro
 
 And then he closes the description of his prayer by saying that he was getting weary of it He looked up in prayer till his eyes had grown weak and failing, and he could hardly look up again. His voice was failing so that he chattered like a crane, instead of speaking like a man. His heart was failing and so, instead of hoping with the eagle's eye that looks up and sees into the heart of God's love, he had got the dove's heart that was failing—and now he was led almost to give it up! It seemed to be of little use to pray. The heavens were as brass—no answer came from God. He waited—he had waited long and was still waiting—but as yet no blessing seemed to come. Do not some of us know what this lesson means? We remember it, when we were seeking our own salvation, how we seemed to seek in vain and now, today, we are seeking some special gift from God. It may be He has delayed to answer us and we are beginning to think He will not answer us, forgetting that that sentence, God never is before His time, but He never is behindis most true. Thus I give you Hezekiah's estimate of his own prayer. Now, secondly, let us dwell for a minute upon—
 
-II. THE REAL VALUE OF OUR PRAYERS IN THE SIGHT OF GOD.
+## II. The Real Value of Our Prayers in the Sight of God
 
 I think we can spy a little of that out for ourselves. First of all, it is quite certain that Hezekiah's prayers were unaffected, for when the crane chatters, it is never hypocritical. It chatters thus because that is the way the cranes talk. And so with the swallow—it does not try to imitate the tones of the nightingale or catch the sound of the eagle—no, it is a swallow and it makes the sound of a swallow! And so with Hezekiah. It was a strange prayer, but it was his own prayer. It might be to anybody else very wild and mystical, but to himself it was the natural effusion of his own soul—it was the truthful exposition of the state of his own heart—and that is always a mark in prayer. Oh, one loathes to hear people get up and pray—pray on stilts. I have heard such prayer. If a man is a plowman, let him pray like a plowman, and he will pray well. If a man is a scholar, let him pray like a scholar. If a man is unlettered, let him pray what he knows and not copy somebody else's prayer. It must be the soul running out in its own language! God abhors, I believe, artificialities in prayer! They are sickly to us who hear them from our fellow mortals—but what must they be to God when men trick, and toy, and adorn themselves with tinsel, gewgaws and a sort of spiritual rhetoric in the Presence of the eternal God— what must that be? I can scarcely tell. Certainly there was nothing of that in Hezekiah's prayer. Whatever there was in it was real. It might be very strangely shaped, but it was of the right sort—it was Hezekiah's own, whatever it was—not a borrowed prayer, or anything fetched out from borrowed experience. There was something good about it.
 
@@ -69,7 +66,7 @@ Thus I have very briefly hinted at the value of the prayer which Hezekiah though
 
 And now let us turn to another line of teaching that is here, and ask—
 
-III. WHAT IS THERE TO COMFORT US?
+## III. What Is There to Comfort Us?
 
 Why, there are several considerations which I will give you briefly. And, first, you find it is nowhere said that prayer will not be heard unless it is perfect And it is nowhere said that prayer, when it is imperfect, will be rejected. Suppose my prayer is disconnected, did the Lord ever say that it must be connected, or else He would not hear it? Suppose my prayer is discordant, does He ever look for music in His people's cries? I dare say He finds it, for a father hears music in his ba-
 
@@ -87,9 +84,9 @@ The next sweet reflection is that our prayers have to deal with the heart of a F
 
 Now do you not perceive that while very much of this discourse must belong to the child of God, yet there is a sidelight in it for the poor sinner whose prayer is of this sort? You hardly dare come even into this Tabernacle—and when you have got a seat, and the hymn is being sung, you feel you dare not sing—you cannot sing it. And if there is a promise being read out of the Bible, you say, "I cannot take it, it is not mine. I am not worthy." Yes, but I know what you did when nobody looked on—you said, "God be merciful unto me a sinner." Your Father heard you! Your Father will answer you! He sets before you, tonight, the atoning Sacrifice of His dear Son. Jesus loves sinners! He died for sinners! He pleads for sinners! Trust Him and your sins, which are many, are forgiven you, and though you chatter like a crane or a swallow, yet shall you go your way in peace, justified far rather than the man whose long prayer is a pretence, and whose speech is but the coverlet for a hypocritical heart. God bless you, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 77; REVELATION 1:15-20.
+## Exposition by C. H. Spurgeon: Psalm 77; Revelation 1:15-20
 
-PSALM 77.
+## Psalm 77
 
 Verse 1.1 cried unto God with my voice, even unto God with my voice; and He gave ear unto me. The writer was in very deep trouble. The trouble forced from him a loud and bitter cry. His heart was wrung with anguish, but the cry which was the weakness of the flesh was, by Divine Grace, turned upward, and so became the strength of his Grace. He cried, but it was to God, not to men, as many of us do. "Unto God," he says twice over, "did I cry." But God hears when others hear not and, blessed be His name, He answers when others cannot! There are so many instances in which God has heard the prayer of persons in deep trouble, that the most troubled of all men ought to be encouraged to pray! Did not Jonah pray, even out of the belly of the whale, and God delivered him? Did not Manasseh pray out of the low dungeon? Great sinner as he was, God delivered him—oh, let us believe that there is power in prayer, for God listens to the request of those that seek His face!
 
@@ -117,7 +114,7 @@ Verse 1.1 cried unto God with my voice, even unto God with my voice; and He gave
 
 16-20. The waters saw You, O God, the waters saw You; they were afraid: the depths also were troubled. The clouds poured out water: the skies sent out a sound: Your arrows also went abroad. The voice of Your thunder was in the Heaven: the lightning lighted the world: the earth trembled and shook Your way is in the sea, and Your path in the great waters, and Your footsteps are not known. You lead Your people like a flock by the hand of Moses and Aaron.For one moment just look at this picture. You will be delivered and God will be glorified in your deliverance just as He was in the coming out of Egypt, but it will be by a mysterious way, perhaps a way little guessed at by you. God's path will be in the great waters. You will see the power, but before you see it, you will little guess how it will be displayed. Only follow where He leads, for as amidst the thunder and the lightning, He led His people as calmly on as a shepherd leads his flock. So shall you, whatever happens, with Jehovah for Your Shepherd, be led safely on till you come to the Celestial City! Let us sing the song of the Red Sea.
 
-REVELATION 1:15-20.
+## Revelation 1:15-20
 
 In the first 14 verses we have given to us part of the glowing description of the Glories of the ascended Christ, and here it is completed.
 
@@ -134,7 +131,6 @@ represented as John had never seen Him before! He was not so at the Last Supper.
 17, 18. And He laid His right hand upon me, saying unto me, Fear not; I am the First and the Last: I am He that lives, and was dead; and behold, I am alive forevermore, Amen. And I have the keys of Hell and of death. This is the great consolation of the people of God when they are brought very low—that Jesus lives, that Jesus reigns, that Jesus still comforts us and draws near to us in all the majesty of His power!
 
 19, 20. Write the things which you have seen, and the things which are, and the things which shall be hereafter. The mystery of the seven stars which you saw in My right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which you saw are the seven churches.
-
 
 ---
 [[Sermon 3467 A New Creation|← #3467]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3469 Martha and Mary|#3469 →]]

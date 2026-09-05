@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 3
-
-**PSALM 3.**
 
 David, although driven from his kingdom, and pressed down with utter despair of relief from every earthly quarter, ceases not to call upon God, and supports himself from his promise against the greatest terrors, against the mockery and cruel assaults of his enemies; and, finally, against death itself, which then forced itself upon his consideration. In the end of the psalm, he congratulates himself and the whole Church on the happy issue of all.
 

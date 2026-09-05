@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Jesus the Way
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2938
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto him, I am the way." John 14:6.
 
@@ -87,7 +84,7 @@ I charge you, by the Day of Judgment and by the flaming world, say not that the 
 
 But who are those who will look to Christ? Why, those whom God has chosen! In whom the Spirit, as the result of Divine Election, will effectually work and who shall be the real trophies of the Redeemer's passion! But, mark you, you have all heard the Gospel tonight—and when you and I meet face to face while the trumpet of judgment is ringing in every human ear—when this solid earth shall shake, when the Heavens shall bow and the stars shall pale their feeble light—I will bear this witness, that I told you plainly the way of salvation! And in that great day I shall be able to say to each one of you, "If you perish, your blood lies not at my door." Is there one who has not understood me? Is there one who still thinks that he is shut out and that he cannot be saved? To you, Sir, yes, to you, I add this extra word, "He is able to save them to the uttermost that come unto God by Him!" And though you are black with robbery, or red with blood, or stained with lust up to your elbows, He is able still to save! And trusting Him—with all your heart trusting Him—you shall find that He will surely bring you to the place where He shall see you with delight, having washed you in His blood!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 6.
+## Exposition by C. H. Spurgeon: Romans 6
 
 Verse 1. What shall we say then? Shall we continue in sin, that Grace may abound?This seems to be a very plausible temptation. It is one which frequently came in the Apostle's way and, therefore, he very often had to denounce it. It is one of the vilest suggestions of Satan that could possibly come to men.
 
@@ -124,7 +121,6 @@ sound with any whose former life was full of positive, plain uncleanness in the 
 22\. But now being made free from sin, and become servants to God, you have your fruit unto holiness, and in the end, everlasting life. Oh, what wondrous changes the Grace of God works! "But now. "Paul must have rejoiced to write those two words. He had dwelt upon what men were before the Lord began to deal with them in mercy, "but now" he could say, "being made free from sin, and become servants to God, you have your fruit unto holiness, and in the end everlasting life."
 
 23\. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord
-
 
 ---
 [[Sermon 2937 Too Little for the Lamb|← #2937]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2939 A Stir-and What Came of It|#2939 →]]

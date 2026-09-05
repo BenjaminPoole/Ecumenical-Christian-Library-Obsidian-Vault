@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Christ's Connection With Sinners the Source of His Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2070
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore wiil I divide Him a portion with the great. And He shall divide the spoil with the strong. Because He has poured out His soul unto death. And He was numbered with the transgressors. And He bore the sin of many and made intercession for the transgressors." Isaiah 53:12.
 
@@ -164,7 +161,6 @@ If a man sins, you do not speak to him lest you should be disgraced by his socie
 I believe that there is more likelihood of converting a downright out-and-out sinner than of reaching the consciences of your very nice, neat, hypocritical people. Do not, therefore, shrink from sinners, for Jesus did not. And as from them He won His brightest trophies, even so may you. Be not ashamed, even if, by talking with sinners, you should come to be taken for one of them, for your Lord Himself, "was numbered with the transgressors. And He bore the sin of many, and made intercession for the transgressors."
 
 Let it be your vocation, as a man redeemed by blood, to be "the sinners' friend," henceforth and forever. God help you to do it! O my Beloved, may God send a blessing upon us at this hour. Pray for it. Pray for it. Lord, send it, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2069 My Own Personal Holdfast|← #2069]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2071 Trembling at the Word of the Lord|#2071 →]]

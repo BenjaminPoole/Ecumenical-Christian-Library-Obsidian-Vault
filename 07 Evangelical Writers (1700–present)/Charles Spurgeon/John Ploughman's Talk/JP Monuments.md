@@ -7,7 +7,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Monuments
 
 *John Ploughman's Talk: Plain Advice for Plain People* — Charles H. Spurgeon
@@ -30,7 +29,7 @@ Where do they bury the bad people? Everywhere in our churchyard, they seem all t
 
 What heaps of marble are stuck over many people's tombs, half enough to build a house with! What a lift they will have at the resurrection! It makes me feel as if I could not get my breath to think of all those stones being: heaped on my bones—not that there's any fear of it. Let the earth which I have tuned over so often lie light upon my corpse when it is turned over me. Let John Ploughman be buried somewhere under the boughs of a spreading beech with a green grass mound above him, out of which primroses and daisies peep in their season—a quiet shady spot where the leaves fall, and the robins play, and the dewdrops gleam in the sunshine. Let fee wind blow fresh and free over my grave, and if there must be aid line about me, let it be:
 
-HERE LIES THE BODY OF JOHN PLOUGHMAN WAITING FOR THE APPEARING OF HIS LORD AND SAVIOR JESUS CHRIST.
+## Here Lies the Body of John Ploughman Waiting for the Appearing of His Lord and Savior Jesus Christ
 
 I've often heard tell of patience on a monument, but I have never seen it sitting there when I have gone through churchyards. I have a good many times seen stupidity on a monument, and I have wondered why the parson, or the churchwarden, or the deacon, or whoever else has the ruling of things let people cut such rubbish on the stones. Why, a lostershire man told me that at Dymock graveyard there's a writing like this:
 
@@ -59,7 +58,6 @@ There, that's enough, and quite as good as a feast. Here's proof positive that s
 One more Surrey rhyme, and John Ploughman leaves the churchyard to go about work and turn up other sods. It is ill Saviours, Southwark, and is, I think a rare good one.
 
 "Like to the damask rose you see, Or like the blossom on the tree, Or like the dainty flower of May, Or like the sun of the day, Or like the sun, or like the shade, Or like the gourd which Jonah had; Even so is man, Whose thread is spun, Draw out, and cut, and so is done: The rose withers, the blossom blasteth, The flower fades, the morning hasteth, The sun sets, the shadow flies, The gourd consumes, and man he dies."
-
 
 ---
 [[JP Try|← Try]] · [[John Ploughman's Talk|John Ploughman's Talk Contents]] · [[JP Very Ignorant People|Very Ignorant People →]]

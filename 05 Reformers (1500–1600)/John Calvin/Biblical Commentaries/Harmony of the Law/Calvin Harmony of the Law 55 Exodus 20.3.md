@@ -11,18 +11,15 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 55. Exodus 20:3
 
-**THE LAW**
+***The Law***
 
 **The First Commandment**
 
-**EXODUS 20**
-
 **3.** Thou shalt have no other gods before me.
 
-**A REPETITION OF THE SAME**
+## **A Repetition of the Same**
 
 **Deuteronomy 5**
 

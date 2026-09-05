@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Underneath
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1413
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 12, 1878,.
+*Delivered on Lord's-Day Morning, May 12, 1878*
 
 > "Underneath are the everlasting arms." Deuteronomy 33:27.
 
@@ -138,7 +137,6 @@ Once more, let us dare unhesitatingly and be very courageous for the Lord our Go
 for underneath are the everlasting arms! Are you called upon to lose everything for Christ? Go on and leap like Curtius into the gulf for your Lord Jesus, for underneath you are the everlasting arms! Does your Master call you to an enterprise which seems impossible? Nevertheless, if God has called you to it, attempt it, for He renders to every man according to his work. Remember what the Negro said—"If Massa Jesus say to me, 'Sam, you jump through that brick wall,' I jump. It is Sam's business to jump—it is Massa's work to make me go through the wall." So it is with you. It is yours to leap forward when the Captain gives the watchword—and in confidence to attempt what mere nature cannot achieve—for the supernatural is with us!
 
 The best of all is, God is with us! Underneath us are the everlasting arms! Less reliance upon self and more reliance upon God! Less counting of the barley loaves and fishes—and a greater readiness to bring them to His hands who can multiply them till they shall feed the thousands—this is what we need! God grant us Grace to trust in His almighty power and sing from now on and forever, "underneath are the everlasting arms!"
-
 
 ---
 [[Sermon 1412 Where True Prayer is Found|← #1412]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1414 No Difference|#1414 →]]

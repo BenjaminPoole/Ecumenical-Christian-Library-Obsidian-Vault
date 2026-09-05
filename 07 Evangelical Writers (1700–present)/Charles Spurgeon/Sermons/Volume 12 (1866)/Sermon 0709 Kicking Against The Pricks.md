@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Kicking Against The Pricks
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 709
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 9, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 9, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "It is hard for you to kick against the pricks." Acts 9:5.
 
@@ -140,7 +139,6 @@ There are some of us who think you foolish. Justify your conduct, then, and get 
 He has never cast any soul away, however filthy its previous life may have been, and He will not begin today to reject sinners. He that comes unto Him He will in no wise cast out. "Ho, everyone that thirsts, come to the waters, and he that has no money, come, buy, and eat! Yes, come, buy wine and milk without money and without price." Why do you kick against the pricks? "Why do you spend money for that which is not bread, and your labor for that which satisfies not? Hearken diligently unto Me, and eat that which is good, and let your soul delight itself in fatness." "Whoever believe that Jesus is the Christ is born of God."
 
 Trust Jesus with your whole heart! Trust in Jesus, and your sins, which are many, are forgiven you! This is the Gospel that we are bid to preach, "He that believes and is baptized shall be saved." May God the Holy Spirit give you Divine Grace to be obedient, and unto Him shall be glory. Amen.
-
 
 ---
 [[Sermon 0708 The Blood Of Abel And The Blood Of Jesus|← #708]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0710 The Great White Throne|#710 →]]

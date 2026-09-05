@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Tender Pity of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 941
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 17, 1870,.
+*Delivered on Lord's-Day Morning, July 17, 1870*
 
 > "Like as a father pities his children, so the Lord pities them that fear Him. For he knows our frame. He remembers that we are dust." Psalm 103:13,14.
 
@@ -148,7 +147,6 @@ My Brother, I know that prayer of yours was not what it should be—try again. H
 Let us try again. Let us trust in Him wholly, and devote ourselves unreservedly to His service. Let us be persuaded that as we accept from our children a poor fading nosegay on our birthday, and thank them as much as if it were pearls and diamonds, because it shows their love, even so if our heart loves Jesus, He will receive our poor imperfect service for our love's sake. "He knows our frame, He remembers that we are dust." He knows we cannot bring a clean thing out of an unclean. He, in His infinite compassion will cover our transgressions and accept our heart's love. Be of good courage, then. Be of good courage, my Brethren, He will accept you still.
 
 I should think this subject ought to attract many sinners to Him, and I pray it may, "for him that comes to Him He will in no wise cast out." O that the Holy Spirit would lead many of you to fix your hope on Jesus, the gentle Lamb of God. Come and trust Him, O Sinner. The Lord bless you. Amen.
-
 
 ---
 [[Sermon 0940 The Winnowing Fan|← #940]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0942 The Way|#942 →]]

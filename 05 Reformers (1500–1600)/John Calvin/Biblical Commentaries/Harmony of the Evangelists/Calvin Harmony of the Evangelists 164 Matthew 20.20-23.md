@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 164. Matthew 20:20-23; Mark 10:35-40
-
-**Matthew 20:20-23; Mark 10:35-40**
 
 **20**. Then came to him the mother of Zebedee’s children with her sons, worshipping, [^1] and asking something from him. **21**. And he said to her, What wilt thou? She saith to him, Grant that these my two sons may sit, one at thy right hand, and the other at the left, in thy kingdom. **22**. And Jesus answering said, You know not what you ask. Can you drink the cup which I shall drink, and be baptized with the baptism with which I am baptized? They say to him, We can. **23**. He saith to them, You shall indeed drink my cup, and you shall be baptized with the baptism with which I am baptized; but to sit at my right hand, and at my left, is not mine to give; but it shall fall to those for whom it is prepared by my Father. [^2]
 

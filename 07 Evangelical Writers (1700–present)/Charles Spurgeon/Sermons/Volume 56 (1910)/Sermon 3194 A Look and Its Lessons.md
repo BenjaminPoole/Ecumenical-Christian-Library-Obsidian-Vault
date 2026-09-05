@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # A Look and Its Lessons
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3194
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Hearken to Me, you that follow after righteousness, you that seek the LORD: look unto the rock where you were hewn, and to the hole of the pit where you were dug." Isaiah 51:1.
 
@@ -55,7 +52,7 @@ There is only one more look that I ask you to give, and that is the saddest and 
 
 II. Now, in the second place, LET US LEARN THE LESSONS WHICH THIS LOOK IS INTENDED TO TEACH
 
-US.
+## Us
 
 I have already hinted at one result of looking back in the way I have described, but may again remind you that it ought to humble us. How apt we are to be proud! If there is one man here who says, "I am not proud, I am very humble," I say to him, "My dear Brother, you must excuse me, but I would not be surprised if you are the proudest man here, for he who imagines he is humble proves by that every fact how very proud he is." We are all proud. Pride can hide under a beggar's rags as well as under an alderman's robes. Pride is a weed that will grow on a dunghill as well as in a palace garden, but it ought never to be allowed to grow in the heart of a Christian! Yet I think—yes, I knowthat I have seen it in some who profess to be followers of the Lord Jesus Christ! Some professors are proud because they have got on in the world, and have raked together a big heap of money. But, of all kinds of pride, that is one of the most contemptible, for a man is no more of a man because there is more gold and silver in his house than in other people's. The man must be judged apart from his money. There is many a millionaire who is miserably poor, and many a truly rich man who scarcely ever has a shilling to spare. It is paltry pride that is proud of riches and, on the other hand, I have known others who had no money to make them proud, who were not a whit more humble than the purse-proud people, for pride can come in at the back door as easily as at the front!
 
@@ -85,7 +82,7 @@ I close by reminding every sinner here that God is able to save him, into whatev
 
 bore our sins in His own body on the tree! Then all His merits shall be reckoned unto you—there shall be a clear exchange made—Christ taking your sin and you taking His righteousness! Oh, that you would believe on Him this very moment! May God give you Grace to do so! Then shall you be able, with us who also have believed in Jesus, to look back to the rock where you were hewn and to the hole of the pit where you were dug—and to adore and magnify the name of the Lord forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS3.
+## Exposition by C. H. Spurgeon: Galatians 3
 
 Verse 1. O foolish Galatians, who has bewitchedyou?Paul writes as if they had come under some kind of witchcraft and been deluded by it. This seemed to astonish the Apostle, so he cries out to them "Who has bewitched you?"
 
@@ -164,7 +161,6 @@ I was "shut up" in this fashion. I struggled and strove with might and main to g
 28\. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus. What a mercy it is to be in Christ, so that you are not seen any more, but only Christ, and you accepted in Him!
 
 29\. And if you are Christ's, then you are Abraham's seed, and heirs according to the promise. "According to the promise"—not according to your works, or your gifts, but "heirs according to the promise."
-
 
 ---
 [[Sermon 3193 The Man Whose Hand Stuck to His Sword|← #3193]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3195 Christ Loosens From Infirmities|#3195 →]]

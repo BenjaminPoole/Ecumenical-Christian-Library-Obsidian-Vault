@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Lamentations 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Lecture First
 
@@ -295,7 +294,7 @@ The greatness of her sorrow is again deplored; and what follows is addressed to 
 
 ## Prayer Lecture 3
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thou hast hitherto dealt so mercifully with us, we may anticipate thy dreadful judgment; and that if thou shouldest more severely chastise us, we may not yet fail, but that being humbled under thy mighty hand, we may flee to thy mercy and cherish this hope in our hearts, that thou wilt be a Father to us, and not hesitate to call continually on thee, until, being freed from all evils, we shall at length be gathered into thy celestial kingdom, which thine only-begotten Son has procured for us by his own blood. — Amen.
 

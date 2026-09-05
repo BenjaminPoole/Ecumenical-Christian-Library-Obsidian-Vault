@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # The Shulamite'S Choice Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 364
 
-DELIVERED ON SUNDAY EVENING, FEBRUARY 24, 1861, BY THE REV. C. H. SPURGEON, AT NEW PARK STREET, SOUTHWARK..
+*Delivered on Sunday Evening, February 24, 1861, by the Rev. C. H. Spurgeon, at New Park Street, Southwark*
 
 > "Set me as a seal upon Your heart, as a seal upon Your arm: for love is strong as death; jealousy is cruel as the grave: its flames are flames of fire, a most vehement flame. Many waters cannot quench Your love, nor can the floods drown it." Song of Solomon 8:6,7.
 
@@ -56,7 +55,6 @@ Well, but such is the love of Christ! If just now we had to speak of its strengt
 Poor Sinner! I know you have been saying while I have been preaching thus—"I wish I had a share in that love." Well, thisprayer you may pray tonight—"Set me, Lord—set me as a seal upon Your heart, as a seal upon Your arm. Love me, Lord. Help me, Lord. Let Your heart move towards me; let Your arm move for me, too. Think of me, Lord; set me on Your heart. Lord, set me on Your arm; Lord, I long to have Your love, for I hear it is strong as death, and You know I am chained by Satan, and I am his bond-slave. Come and deliver me—You are more than a match for my cruel tyrant; come with Your strong love and set me free. "I hear that Your love is firm, too, as Hell itself. Lord, that is such a love as I need; though I know I shall vex You, and wander from You, come and love me with a love that is firm and everlasting! O Lord, I feel there is nothing in me that can make You love me; come and love me, then, with that love which finds its own fuel! Love me with those coals of fire which have a vehement flame; and since many waters cannot quench Your love, prove that in me. Lord there are many waters of sin in me; but Lord, help me to believe that Your love is not quenched by them. There are many corruptions in me; but Lord, love me with that love which my corruptions cannot quench. Here, Lord, I give myself away—take me! Make me what You would have me to be, and keep and preserve me even to the end."
 
 May the Lord help you to pray that prayer, and then may He answer it for His mercy's sake.
-
 
 ---
 [[Sermon 0363 The Glorious Right Hand Of The Lord|← #363]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0365 Humility|#365 →]]

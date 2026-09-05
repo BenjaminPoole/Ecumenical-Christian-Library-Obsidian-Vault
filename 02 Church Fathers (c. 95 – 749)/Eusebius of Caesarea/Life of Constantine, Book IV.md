@@ -313,7 +313,7 @@ As soon as [Constantius] had withdrawn himself with the military train, the mini
 
 ## Chapter 72. Of the Phœnix.
 
-We cannot compare him with that bird of Egypt, the only one, as they say, of its kind, which dies, self- sacrificed, in the midst of aromatic perfumes, and, rising from its own ashes with new life, soars aloft in the same form which it had before. Rather did he resemble his Saviour, who, as the sown grain which is multiplied from a single grain, had yielded abundant increase through the blessing of God, and had overspread the whole world with his fruit. Even so did our thrice blessed prince become multiplied, as it were, through the succession of his sons. His statue was erected along with theirs in every province; and the name of Constantine was owned and honored even after the close of his mortal life.
+We cannot compare him with that bird of Egypt, the only one, as they say, of its kind, which dies, self-sacrificed, in the midst of aromatic perfumes, and, rising from its own ashes with new life, soars aloft in the same form which it had before. Rather did he resemble his Saviour, who, as the sown grain which is multiplied from a single grain, had yielded abundant increase through the blessing of God, and had overspread the whole world with his fruit. Even so did our thrice blessed prince become multiplied, as it were, through the succession of his sons. His statue was erected along with theirs in every province; and the name of Constantine was owned and honored even after the close of his mortal life.
 
 ## Chapter 73. How Constantine is represented on Coins in the Act of ascending to Heaven.
 

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 13. No. VI. Notices of the Protestant Exiles From Scotland During the Reign of King James the Fifth
 
 ## No. VI.
 
-NOTICES OF THE PROTESTANT EXILES FROM SCOTLAND DURING THE REIGN OF KING JAMES THE FIFTH.
+## Notices of the Protestant Exiles from Scotland During the Reign of King James the Fifth
 
 Dr. MʻCrie, in his Life of Knox, Appendix, vol. i., and the Rev. Christopher Anderson, in his Annals of the English Bible, vol. ii., have collected nearly all the information that can be gleaned respecting the chief persons who became Exiles on account of their religious sentiments at this early period. I shall, therefore, content myself with giving little more than a simple enumeration of their names.
 

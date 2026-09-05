@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Boundless Benediction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2531
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By the Almighty, who shall bless you with blessings of Heaven above, blessings of the deep that lies under." Genesis 49:25.
 
@@ -116,7 +113,6 @@ But what is at the bottom of all? I answer, God Himself ' 'The deep that lies un
 The best of all is that this great deep that lies under, though unsearchable, immutable and inexhaustible, is, nevertheless, available! Look, Moses does but smite the Rock and the waters flow out from the great deep that lies under. God does but speak and in the wilderness waters leap up and streams in the desert. When man could not get at the flood underneath, then God made the flood come welling up for man! And now He has taught man to get at it and man sets his boring machinery to work and, if he does but continue long enough, it is very seldom that he does not, at last, tap God's great wine cellar—the best wine that there ever was—which He brews up among the everlasting hills to make drink for His people. And up it comes, always fresh, clear and sweet, as stored away by God, long ago, and now given out at the touch of man's industry. Oh, dear Friends, I wish that some of you would come and drink of the water that is so freely flowing! And those of you who cannot find it, I want you to begin working with that blessed boring-machine of prayer, and to keep on working right down through all the rocks of doubt and fear—boring, and boring, and boring away till, at last, you come to the Living Water of which you may have enough to drink forever!
 
 I know some people who have a very deep experience and, for a long time they keep on boring away through all the mud and slush of their feelings. If this is the case with any of you, I hope that you will get through that experience very soon and that you will come to the Living Water. And when it comes rushing up, you will have to drop your tools and just drink to the full of that which God freely gives to all who ask for it! You have only to ask and receive! God grant that you may do so, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2530 A Peculiar People|← #2530]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2532 God's Love Shamefully Questioned|#2532 →]]

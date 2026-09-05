@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 1 on Ephesians
 
-Chapter I. Verses 1-2
+## Chapter I. Verses 1-2
 
 Paul, an apostle of Christ Jesus through the will of God, to the saints which are at Ephesus, and the faithful in Christ Jesus. Grace to you, and peace, from God our Father, and the Lord Jesus Christ.
 

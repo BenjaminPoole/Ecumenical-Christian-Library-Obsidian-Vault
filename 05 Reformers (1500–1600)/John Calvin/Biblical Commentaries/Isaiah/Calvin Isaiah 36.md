@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 36
 
-**CHAPTER 36**
+***Chapter 36***
 
 ## Isaiah 36:1-22
 

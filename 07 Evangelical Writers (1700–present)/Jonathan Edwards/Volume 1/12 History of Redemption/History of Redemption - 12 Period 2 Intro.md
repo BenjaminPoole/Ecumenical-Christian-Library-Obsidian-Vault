@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PERIOD II.
 
-FROM CHRIST’S INCARNATION TO HIS RESURRECTION.
+*From Christ’s Incarnation to His Resurrection*
 
 Having shown how the work of redemption was carried on through the first period, from the fall of man to the incarnation of Christ, I come now to the second period, *viz*. the time of Christ’s humiliation, or the space from his incarnation to his resurrection. And this is the most remarkable article of time that ever was or ever will be. Though it was but between thirty and forty years, yet more was done in it than had been done from the beginning of the world to that time. We have observed, that all which had been done from the fall to the incarnation of Christ, was only preparatory for what was now done. And it may also be observed, that all which was done before the beginning of time, in the eternal counsels between the persons of the blessed Trinity, chiefly respected this period. We therefore now proceed to consider the *second* *proposition*, *viz*.
 

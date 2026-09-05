@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # "Dare To Be a Daniel"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2291
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank." Daniel 1:8.
 
@@ -105,7 +102,7 @@ May God bless to many here the words which I have spoken so feebly—and may man
 
 "Dare to be a Daniel! Dare to stand alone! Dare to have a purpose firm! Dare to make it known!"
 
-EXPOSITION BY C. H. SPURGEON. DANIEL 1.
+## Exposition by C. H. Spurgeon. Daniel 1
 
 Verse 1. In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it. Sin always brings its punishment. King Jehoiakim did evil in the sight of the Lord, so God used Nebuchadnezzar, king of Babylon, to be the rod in His hand to scourge His sinful people and their wicked king.
 
@@ -156,7 +153,6 @@ danger my head to the king. What a reign of terror there is in a despotic countr
 20\. And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm. They communed with God and that was better than being magicians or stargazers! Men of God are ten times better than all that lot put together!
 
 21\. And Daniel continued even unto the first year of king Cyrus. Those two words summarize the whole of Daniel's history—"Daniel continued." May God give to each of us here Divine Grace to continue as Daniel did!
-
 
 ---
 [[Sermon 2290 God's Unspeakable Gift|← #2290]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2292 Abraham, A Pattern To Believers|#2292 →]]

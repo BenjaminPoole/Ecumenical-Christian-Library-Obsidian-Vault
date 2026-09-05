@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 134. Numbers 2:1-34
-
-**Numbers 2**
 
 **1.** And the Lord spake unto Moses and unto Aaron, saying,
 

@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER VIII.
 
 *To his brother Israel*, *at college*: *written in the time of his extreme illness in Boston*, *a few months before his death.*
@@ -29,7 +28,7 @@ Oh, my dear brother, flee fleshly *lusts*, and the enchanting *amusements*, as w
 
 Your affectionate dying brother,
 
-DAVID BRAINERD.
+## David Brainerd
 
 [^430]: Mr. Brainerd afterwards had greater satisfaction concerning the state of his brother’s soul, by much opportunity of conversation with him before his death.
 

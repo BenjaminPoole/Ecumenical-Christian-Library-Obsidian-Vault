@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 14. Specimens of Tyndale's Translation of the Bible
 
-SPECIMENS
+*Specimens*
 
-TYNDALE'S VERSIONS OF DIFFERENT PARTS OF THE HOLY SCRIPTURES.
+## Tyndale's Versions of Different Parts of the Holy Scriptures
 
 I. A specimen of his earliest production as a translator of Hebrew ; copied from the second edition of his version of Genesis, as printed at Marburg in Hesse, by Hans Luft, and carried through the press in 15341.
 
-GENESIS IV. 3.
+## Genesis IV. 3
 
 AND it fortuned in processe of tyme, that Cain brought of the frute of the erth, an offeringe vnto the lorde. And Abel, he brought also of the firstlynges of his shepe ad of the fat of them. And the lorde loked vnto Abel and to his offeringe : but vnto Cain and vnto his offeringe, loked he not. And Cain was wroth exceadingly, and loured. And the lorde sayde vnto Cain : why arte thou angry, and why loureste thou? wotest thou not yf thou do well thou shalt receave it? But and yf thou do euell, by and by thy sinne lyeth open in the dore : notwithstondinge let it be subdued unto the, and se thou rule it2. And Cain talked with Abel his brother.
 
@@ -33,7 +32,7 @@ And Cain sayd vnto the Lorde : my synne is greater, then that it maye be forgeue
 
 II. A specimen of Tyndale's latest labours as a translator of Hebrew ; copied from his version of the historical books of the old Tes tament, as incorporated by Rogers into the Bible called Mat thew's, and first published by Grafton the printer in 1537, about ten months after the translator's martyrdom3.
 
-2 SAMUEL I. 17.
+## 2 Samuel I. 17
 
 And Dauid sang thys song of mournyng ouer Saul and ouer Jonathas hys sonne, & bad to teache the children of Israel ye staues therof4. And Beholde it is wrytte in the 5 boke of
 
@@ -43,7 +42,7 @@ And Dauid sang thys song of mournyng ouer Saul and ouer Jonathas hys sonne, & ba
 
 [5 Marg. note. Some thynke that thys boke remayneth not other some understande by it the fyrst boke of Moses.]
 
-286 SPECIMENS OF TYNDALE*S TRANSLATION OF THE BIBLE.
+## 286 Specimens of Tyndale*s Translation of the Bible
 
 the ryghtwes. The glorye of Israeli is slayne upo ye hie hilles : Oh how were ye mightye ouerthrowe ? Tell it not in Geth : nor publyshe it in the streates of Askalon : lest the daughters of the Philistines rejoise, & that ye daughters of ye uncircucised triuphe therof. Ye mountaynes of Gelboe, upon you be nether dew nor raygne, ner feldes whence heaue offeringes come. For there the shildes of ye myghtie were cast from them : the shilde of Saul, as though he had not bene anoynted wyth oyle. The boowe of Jonathas and the swerde of Saul turned neuer backe agayne emptie, from the bloud of the wounded and from the fatte of the mightie warryowres.
 
@@ -51,7 +50,7 @@ Saul and Jonathas louely and pleasant in their lyues, were in their deethes not 
 
 III. A specimen of Tyndale's labours as a translator of Greek ; from the earliest edition of his version of the new Testament printed at Worms, in 1525, and now in the library of the Baptist College, Bristol3.
 
-1 CORINTHIANS XIII.
+## 1 Corinthians XIII
 
 Though I speake with the tong8 of men ad angels, and yet had no love, I were eve as soundynge brasse : and as a tynklynge Cynball. and though I coulde prophesy, and vnderstode all secretes, and all knowledge : yee, if I had all fayth so that I coulde move mountayns oute of there placs,
 
@@ -73,7 +72,7 @@ For oure knowledge is vnparfet, and oure prophesyige is vnperfet : but whe thatt
 
 IV. Specimen of that edition of his version of the new Testament in which Tyndale adjusted the spelling to the pronunciation of the peasantry of his native county ; for whose use it was printed in 1535, when his labours were coming to their close4.
 
-1 CORINTHIANS XIII.
+## 1 Corinthians XIII
 
 Though I spaeke with the tonges of men and aengels, and yet had no loue, I were euen as soundynge brasse, or as a tinklinge cimball. And though I coulde prophesy, and vnderstoede all secretes, and all knowledge : ye yf I had all faeyth, so that I coulde moue mountayns oute of thear places, and yet had no loue, I were nothinge. And though I bestowed all my gooddes to feade the povre, and though I gaue my body euen that I burned and yet had no loue, it
 

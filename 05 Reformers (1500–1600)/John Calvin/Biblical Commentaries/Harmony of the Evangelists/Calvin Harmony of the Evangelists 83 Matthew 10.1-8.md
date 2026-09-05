@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 83. Matthew 10:1-8; Mark 6:7; Luke 9:1-2
-
-**MATTHEW 10:1-8; MARK 6:7; LUKE 9:1-2**
 
 **1**. And having called the twelve disciples, [^1] he gave them power against the unclean spirits, to cast them out, and to cure any disease and any sickness. **2**. Now the names of the twelve apostles are these: The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother; **3**. Philip and Bartholomew; Thomas, and Matthew the publican; James the son of Alpheus, and Lebbeus, surnamed Thaddeus; **4**. Simon the Canaanite, and Judas Iscariot, who also betrayed him. **5**. These, twelve in number, Jesus sent out, and commanded them, saying, Go not into the way of the Gentiles, [^2] and enter not into a city of the Samaritans: **6**. But go rather to the lost sheep of the house of Israel. [^3] **7**. And when you have departed, preach, saying, The kingdom of heaven is at hand. **8**. Cure the diseased, cleanse the lepers, raise the dead, cast out devils: freely you have received, freely give. [^4]
 

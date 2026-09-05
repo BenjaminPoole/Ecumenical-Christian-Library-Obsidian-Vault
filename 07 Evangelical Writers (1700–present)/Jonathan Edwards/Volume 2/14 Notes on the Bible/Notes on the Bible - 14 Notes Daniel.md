@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Daniel
 
 [100] Dan. iii. 25. “And the form of the fourth is like the Son of God.” Christ redeems from the furnace, by coming into it himself; so he redeems from wrath by enduring it himself.
 

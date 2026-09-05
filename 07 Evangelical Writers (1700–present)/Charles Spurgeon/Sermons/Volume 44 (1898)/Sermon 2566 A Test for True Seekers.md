@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Test for True Seekers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2566
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall ask the way to Zion with their faces toward it." Jeremiah 50:5.
 
@@ -99,7 +96,7 @@ Is it that you are trying to store up some little knowledge to use, by-and-by? A
 
 IV. There is a fourth set of people WHO HAVE THEIR FACES TOWARD IT, BUT THEY DO NOT ASK THE
 
-WAY.
+## Way
 
 There are not so many, perhaps, in this class as in those I have been describing, but there are some of them. They are resolved to be saved. They are anxious to find Christ. They are willing to join the Church. They are, above all, longing to get to Heaven—but they do not ask the way. Do they fancy that there are many ways? How many roads are there to
 
@@ -113,7 +110,7 @@ And I may also add that you will do well to ask about the way from many of God's
 
 V. Now to close. Those are the best enquirers WHO TURN THEIR FACES TOWARD ZION AND YET ARE
 
-WILLING TO ASK THE WAY.
+## Willing to Ask the Way
 
 Is that your condition, dear Friend? Have you set your face towards Christ, towards holiness and towards Heaven, and are you asking the way? Well, then, let me say two or three things for your encouragement. the first is, Thank God that your face is toward it and that you are asking the way—
 
@@ -129,7 +126,7 @@ Of some of the grand Doctrines of the Gospel our Lord might say to you as He sai
 
 He knew what a heavy burden you would bear until you began to tread that narrow way, so He had an open sepul-cher set close by the Cross, that everyone who looks to Him on that Cross might feel his burden roll off his back, to be buried in that sepulcher never to be found again! O dear Friend, run in that road that Christ has made so plain! Trust, trust, TRUST, TRUST! That is the way—TRUST! Trust God as your Father! Trust Christ as your Redeemer! Trust the Holy Sprit as your Renewer. Have done with yourself! Have done with everything but your God, your Savior, your Comforter. Trust in Jesus and you have found the way! You are saved, your sins are forgiven you, you are, "accepted in the Beloved." You are not yet in Heaven, but you shall be, in God's good time. You have not yet joined Christ's visible Church, but you are welcome to do so—do not postpone it. You have not yet joined the Church triumphant, but you shall do so one of these days. Therefore, be of good cheer, and the Lord bless you! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 31:18-26.
+## Exposition by C. H. Spurgeon: Jeremiah 31:18-26
 
 Verse 18. I have surely heard Ephraim bemoaning himself thus. It is God who is speaking here. There is never a moan, or a sob, or a cry, or a sigh, but God hears it. The Lord is very quick of hearing for the sorrows of penitent sinners. There is no mistake about this matter, for He says, "I have surely heard Ephraim bemoaning himself thus."
 
@@ -146,7 +143,6 @@ Verse 18. I have surely heard Ephraim bemoaning himself thus. It is God who is s
 22, 23. For the Lord has created a new thing in the earth, a woman shall compass a man. Thus says the LORD of Hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless you, O habitation of justice, and mountain of holiness. Jerusalem was cursed because of sin, but God declared that in His great mercy He would make it to be a place of blessing, and men should speak of it as the, "habitation ofjustice, and mountain of holiness."
 
 24-26. And there shall dwell in Judah itself, and in all the cities thereof together, farmers and they that go forth with flocks. For Ihave satiated the weary soul, andIhave replenished every sorrowful soul Upon this Iawaked and beheld, and my sleep was sweet unto me. He that can sleep and dream as Jeremiah did, may well say that his sleep was sweet to him. May God grant to us, whether we sleep or wake, to be always with Him! Then our time shall be indeed sweet unto us!
-
 
 ---
 [[Sermon 2565 Ruins|← #2565]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2567 The Single-handed Conquest|#2567 →]]

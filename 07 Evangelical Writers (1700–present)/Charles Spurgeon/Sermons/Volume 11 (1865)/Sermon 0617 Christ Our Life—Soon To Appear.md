@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Christ Our Life—Soon To Appear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 617
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 26, 1865,.
+*Delivered on Sunday Morning, February 26, 1865*
 
 > Colossians 3:4.
 
@@ -160,7 +159,6 @@ All this has nothing to do with a great many of you. You will die but you will n
 Oh, I would that Christ were your life, but you are dead and God will say of you one of these days as Abraham said of Sarah, "Bury the dead out of My sight," and you must be put out of His sight as an obnoxious putrid thing. Oh that He would quicken you this day! "There is life," says the hymn, "in a look at the Crucified One." God help you to exercise one look at that Christ of whom I spoke and then you shall join with the rest of His people in saying, "Christ is our life."
 
 May God bless these feeble words of mine and own them because of their weakness—the more to illustrate His own Grace and power, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0616 The Special Call And The Unfailing Result|← #616]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0618 The Great Physician And His Patients|#618 →]]

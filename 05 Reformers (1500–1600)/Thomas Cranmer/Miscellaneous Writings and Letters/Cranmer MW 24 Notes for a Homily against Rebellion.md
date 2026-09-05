@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 24. Notes for a Homily against Rebellion
 
-[THE ARCHBISHOP'S NOTES
+*[The Archbishop's Notes*
 
 FOR A HOMILY AGAINST REBELLION1.] c.c.c.c.
 
@@ -65,7 +64,7 @@ f1 "The archbishop procured sermons to be made against the rebellion;" one was m
 
 * Vid. end of Sermon concerning time of Rebellion, p. 202.
 
-NOTES ON REBELLION.
+## Notes on Rebellion
 
 Subjects ought to make humble suit to their prince for reformation of all injuries, and not to come with force.
 

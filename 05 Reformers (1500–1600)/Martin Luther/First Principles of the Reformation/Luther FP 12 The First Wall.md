@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 12. The First Wall.
-
-#### *The First Wall* .
 
 Let us, in the first place, attack the first wall.
 

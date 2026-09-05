@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The One Foundation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1494
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 14, 1879,.
+*Delivered on Lord's-Day Morning, September 14, 1879*
 
 > "For no other Foundation can anyone lay than that which is laid, which is Jesus Christ." 1 Corinthians 3:11.
 
@@ -158,7 +157,6 @@ The true heart does not like to engage in any kind of enterprise without first c
 do!
 
 When you are laying the first stone of a new enterprise, lay it upon Christ with fair colors. Set it in the vermilion of His precious blood! Perfume it with the oil of gratitude and lay it upon Him alone! And so shall you, by His Grace, build for eternity and glorify His precious name! Amen.
-
 
 ---
 [[Sermon 1493 The Glory of God in the Face of Jesus Christ|← #1493]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1495 The King-Priest|#1495 →]]

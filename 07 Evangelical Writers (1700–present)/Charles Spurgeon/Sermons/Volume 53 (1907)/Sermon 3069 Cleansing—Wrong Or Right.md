@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Cleansing—Wrong Or Right?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3069
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If I wash myself with snow water, and make my hands ever so clean; yet shall You plunge me in the ditch, and my own clothes shall abhor me." Job 9:30,31.
 
@@ -85,7 +82,7 @@ I have been talking to you in a very simple, homely way, for I have been afraid 
 
 The Lord bless you and bring you to trust in Jesus Christ, His Son, and He shall have all the praise and glory forever and forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:13-26.
+## Exposition by C. H. Spurgeon: Matthew 5:13-26
 
 Verse 13. You are the salt of the earth. The earth would go putrid if there were no salt of Divine Grace to preserve it. So, dear Friends, if God's Grace is in you, there is a pungent savor about you which tends to preserve others from going as far into sin as otherwise they would have done. "You are the salt of the earth."
 
@@ -124,7 +121,6 @@ There are countries where there is found salt from which the pungency has comple
 25\. Agree with your adversary quickly.Always be ready to make peace—not peace at any price—but, still, peace at any price except the sacrifice of righteousness.
 
 25, 26. While you are on the way with him, lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison. Verily I say unto you, You shall by no means come out from there till you have paid the uttermost farthing. And there are some debts of which we cannot pay the uttermost farthing! And there is a prison out of which no man shall come, for the uttermost farthing demanded there shall never be paid. God grant that we may, none of us, ever know what it is to be shut up in that dreadful dungeon!
-
 
 ---
 [[Sermon 3068 Unknown Depths and Heights|← #3068]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3070 A Visit to Christ's Hospital|#3070 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # 'No Root in Themselves'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2846
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And have no root in themselves." Mark 4:17.
 
@@ -95,7 +92,7 @@ I gave him a little something to eat, but I could do no more for him. It is an a
 
 Him, He will change you and you shall be truly changed. If you commit your souls into His keeping, He will keep you forever and ever. Try to save yourselves and you will surely be lost—but come to Christ that He may save you, and you will be certainly and eternally saved! Oh, that His Grace might lead you thoroughly to quit yourselves and wholly to rest in Him, now and forevermore! And unto His name shall be all the praise and glory. Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 1:1-8; 3; 4:1-6
+## Exposition by C. H. Spurgeon: 2 Timothy 1:1-8; 3; 4:1-6
 
 2 Timothy 1:1, 2. Paul, an Apostle of Jesus Christ by the will of God, according to thepromise oflife which is in Christ Jesus, to Timothy, my dearly beloved son. There is the greatest possible affection between the preacher and his convert. This is a relationship which even death will not destroy. They neither marry nor are given in marriage in the Heavenly Kingdom, but this fatherhood and sonship shall endure forever.
 
@@ -122,7 +119,6 @@ EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 1:1-8; 3; 4:1-6
 14-17. But continue you in the things which you have learned and have been assured of, knowing of whom you have learned them; and that from a child you have known the Holy Scriptures, which are able to make you wise unto salvation through faith which is in Christ Jesus. All Scripture is given by Inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.
 
 2 Timothy 4:1-6. I charge you therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at His appearing and His Kingdom, preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long-suffering and doctrine. For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears; and they shall turn away their ears from the Truth, and shall be turned unto fables. But watch you in all things, endure afflictions, do the work of an evangelist, make full proof of your ministry. For I am now ready to be offered, and the time of my departure is at hand.
-
 
 ---
 [[Sermon 2845 Lacking Moisture|← #2845]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2847 Barriers Obliterated|#2847 →]]

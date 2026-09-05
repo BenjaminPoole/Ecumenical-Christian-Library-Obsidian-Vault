@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Sheep Before The Shearers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1543
 
-DELIVERED ON LORD'S-DAY EVENING, JUNE 20, 1880,.
+*Delivered on Lord's-Day Evening, June 20, 1880*
 
 > "As a sheep before her shearers is dumb, so He opens not His mouth." Isaiah 53:7.
 
@@ -134,7 +133,6 @@ The Eastern farmer, when he plows, has a goad and pricks the ox to make it move 
 Did you ever bring a penny into the till by fretting, or put a loaf on the table by complaint, or get a shilling in your pocket by murmuring? Murmuring is wasted breath and fretting is wasted time. I wish that I could be more quiet, calm and self-possessed, but an active mind is apt to turn upon itself to its own wounding when all the cares of a Church and a great work press heavily. I long to cry habitually, "Lord, do what You will, when You will, as You will with me, Your servant—appoint me honor or dishonor, wealth or poverty, sickness or health, exhilaration or depression and I will take all right gladly from Your hands." A man is not far from the gates of Heaven when he is fully submissive to the Lord's will.
 
 Though Heaven is uphill, the road to it is downhill—and when a man has gone down so much that he is dead to self, he is not far from entering into that Eternal Life where God shall be All in All, in bliss forever and ever. You that have been shorn have, I hope, received a word of comfort today through the ever blessed Spirit of God. May God bless it to you. Oh that the sinner, too, would submit himself to God, yield himself up and rebel no longer! Submit yourselves to God, let every thought be brought into captivity to Him and the Lord send His blessing, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1542 Free Grace a Motive for Free Giving|← #1542]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1544 Mahanaim—or, Hosts Of Angels|#1544 →]]

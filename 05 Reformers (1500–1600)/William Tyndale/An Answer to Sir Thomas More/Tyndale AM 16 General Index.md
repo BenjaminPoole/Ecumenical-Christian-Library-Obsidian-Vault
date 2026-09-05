@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 16. General Index
-
-GENERAL INDEX.
 
 A, used for interjection Ah, ii. 156.
 

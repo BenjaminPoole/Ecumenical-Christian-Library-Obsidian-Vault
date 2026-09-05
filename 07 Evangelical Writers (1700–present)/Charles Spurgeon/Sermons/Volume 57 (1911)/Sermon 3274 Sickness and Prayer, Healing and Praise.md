@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Sickness and Prayer, Healing and Praise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3274
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fools because of their transgression, and because of their iniquities are afflicted. Their soul abhors all manner of meat, and they draw near unto the gates of death. Then they cry unto the Lord in their trouble and He saves them out of their distresses. He sent His Word, and healed them, and delivered them from their destructions. Oh that men would praise the Lord for His goodness, and for His wonderful works to the children of men! And let them sacrifice the sacrifices of thanksgiving, and declare His works with rejoicing" Psalm 107:17-22.
 
@@ -87,7 +84,7 @@ Now, lastly, those who are cured by Christ "declare His works with rejoicing,"by
 
 God bless you, everyone, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM107:1-32.
+## Exposition by C. H. Spurgeon: Psalm 107:1-32
 
 The Psalmist exhorts the redeemed in praising God, to observe the different forms of His mercy. He views the chosen people as travelers, captives, sick men and seamen. And in each of these classes he exhorts them to praise the Lord.
 
@@ -150,7 +147,6 @@ mean not following the consecutiveness of an orderly petition—the prayer itsel
 29\. He makes the storm a calm—What a change! And what a blessing it is to get into one of God's calms, for they are far beyond the ordinary calm of nature! Then do we enjoy "the peace of God, which passes all understanding."
 
 29-32. So that the waves thereof are still Then are they glad because they are quiet; so He brings them unto their desired haven. Oh that men would praise the LORD for His goodness, and for His wonderful works to the children of men! Let them exalt Him also in the congregation of the people, and praise Him in the assembly of the elders
-
 
 ---
 [[Sermon 3273 A Sermon to Ministers and Other Tried Believers|← #3273]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3275 'A Kind of First Fruits'|#3275 →]]

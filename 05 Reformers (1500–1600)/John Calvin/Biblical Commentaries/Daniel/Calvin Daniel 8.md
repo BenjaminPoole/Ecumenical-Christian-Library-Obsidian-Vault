@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Daniel 8:1
 
@@ -23,7 +22,7 @@ Here Daniel relates another vision, differing from the former as a part from the
 
 ## Prayer Lecture 38
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou formerly didst permit thy servants to maintain their courage in the midst of so many and such heavy commotion, that we may reap the same edification from these prophecies: are since we have fallen upon the fullness of times, may we profit by the examples of the ancient Church, and by the pious and holy admonitions which thou hast set before us. Thus may we stand firm and unconquered against all the attacks of Satan, and the world, and the impious, and so may our faith remain impregnable, until at length we enjoy the fruit of its victory in thy heavenly kingdom, through Christ our Lord. — Amen.
 
@@ -71,7 +70,7 @@ Here God shews to his Prophet the victory of Alexander, by which he subdued almo
 
 ## Prayer Lecture 39
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou desirest us to be tossed about amidst many and various convulsions, that our minds may always look upwards towards heaven, where thou hast prepared for us certain rest and a tranquil inheritance beyond the reach of disturbance and commotion. When the land through which we are on pilgrimage is in confusion, may we be so occupied during its storms, as to stand composed and grounded upon the faith of thy promises, until having discharged our warfare, we are gathered together into that happy rest, where we shall enjoy the fruit of our victory, in Christ Jesus our Lord. — Amen.
 
@@ -119,7 +118,7 @@ He afterwards adds בפשע, *beph-sheng,* “in wickedness,” or “in sin.”
 
 ## Prayer Lecture 40
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou hast enlightened us by the teaching of thy Gospel, and set before our eyes thine only begotten Son as a Sun of righteousness to rule us, and hast deigned to separate us from the whole world, and to make us thy peculiar people, and to prepare for us a certain seat in heaven: Grant, I pray thee, that we may be heirs of eternal life. Grant us also, to be mindful of thy sacred calling, and to make our pilgrimage on earth with spirits looking upwards and tending towards thee. May we meditate upon the righteousness of thy kingdom, and be entirely devoted to thee. Do thou protect us by thy hand even to the end, and may we march boldly under thy standard, till at length we arrive at that blessed rest, where the fruit of our victory is laid up for us in Jesus Christ our Lord. — Amen.
 
@@ -161,7 +160,7 @@ He does not use the particle implying fitness, but says he heard the voice of a 
 
 ## Prayer Lecture 41
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since in these days the earth is full of defilement’s which pollute the sacred worship of thy name, as there is scarcely a corner of the world which Satan has not corrupted, and as thy truth is everywhere adulterated, that we may persevere and remain steadfast in our course of piety. May we always be attentive to that light which thou didst first set before us in the Law, and which shines upon us now more fully under the Gospel. May we never become plunged into that darkness in which we see the world wrapped up, and in which those who seem to be themselves most acute are still involved. Grant us always to follow that life which thou shewest us, until we arrive at that goal which thou hast set before us, and to which thou daily invitest us by thine only-begotten Son. — Amen.
 
@@ -225,7 +224,7 @@ First of all he says, *The ram which, thou sawest, having two horns, means the k
 
 ## Prayer Lecture 42
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we see thy Church throughout all ages to have been exercised by the Cross in various ways, and with constant suffering, that we also may prepare ourselves for undergoing whatever thou mayest lay upon us. May we learn also to consider our sins as the cause of whatever adversity happens to us; may we consider thee to be not only faithful in all thy promises, but also a Father — propitious to those wretched ones who suppliantly fly to thee for pardon. When we are humbled under thy powerful hand, may we be raised up by the hope of eternal salvation which is prepared for us. Thus may we look for a happy and joyful termination of all our contests, until we enjoy the fruit of our victory in thy’ heavenly kingdom, as it has been obtained for us by the blood of thine only-begotten Son. — Amen.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Grace Preferred to Gifts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2694
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But covet earnestly the best gifts: and yet I show you a more excellent way." 1 Corinthians 12:31.
 
@@ -118,7 +115,6 @@ Remember, yet again, that gifts cannot comfort a man when he is in deep depressi
 of the small dust of comfort in it all—for we remember that God may have simply used us as builders use their scaffolds as long as they need them. And when the house is built, they take the scaffold down and put the material away. God may use us in the same way if we have gifts without Grace! But if we have Grace, it will not be so with us. Grace unites us to Christ. It makes us living stones in the building of which He is the Foundation. When we come to be sick, Grace brings us the promises. Grace looks to Christ, Grace gives us hope, Grace gives us the foretaste and pledge of Glory, and especially is it so with that sweet and blessed Grace of love. The man who is full of Grace, though he has not a solitary talent, and is all unknown, yet is a happy and blessed man! In poverty and in obscurity, in sickness and in death, he is blessed because his soul is full of the majestic Grace of Divine Love.
 
 Thus have I set before you, dear Friends, the "more excellent way." God help you to run in it and may you have much Grace, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2693 Priest and Victim|← #2693]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2695 Christian Conversation|#2695 →]]

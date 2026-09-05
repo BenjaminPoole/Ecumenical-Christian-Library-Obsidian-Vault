@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Right Keynote for the New Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2289
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But we will bless the LORD from this time forth and forevermore. Praise the LORD." Psalm 115:18.
 
@@ -157,7 +154,7 @@ of Divine Grace within us ceases to recognize His blessedness? That, also, canno
 
 If any man cannot join in that praise, let him remember that he is not fit to live, nor fit to die—for to die without praising God and to rise again—would be to remain in a state in which he could not possibly enter Heaven, since the one occupation of Heaven is magnifying and blessing and praising the Lord forever and forever! Let such an one seek the Lord, now! Let him trust in the Lord Jesus Christ! Then he shall be saved and he will be able to join us in saying, "We will bless the Lord from this time forth and forevermore. Praise the Lord."
 
-EXPOSITION BY C. H. SPURGEON. PSALM115.
+## Exposition by C. H. Spurgeon. Psalm 115
 
 Verses 1-3. Not unto us, O LORD, not unto us, but unto Your name give Glory, for Your mercy, and for Your Truth's sake. Why should the heathen say, Where is now their God? But our God is in the heavens: He has done whatever He has pleased. It was very natural that the heathen should say, "Where is their God? because they had no outward emblem, no visible image, no tangible token—whereas the heathen had their many gods, such as they were, made of wood and stone, so that they asked, "Where is their God?" I think that when that question is suggested, it is a good sign, for it proves the purity of the faith which has cleansed itself from outward symbolism. May men often have to ask of us, "Where is their
 
@@ -182,7 +179,6 @@ But I fear that the people of Israel were brought into so low a state, at times,
 17\. The dead praise not the LORD, neither any that go down into silence. As far as this world is concerned, no note is heard from the grave.
 
 18\. But we will bless the LORD from this time forth and forevermore. Praise the LORD. So let us do tonight. Let us have an extra Psalm of praise to the Lord who has brought us safely through another year!
-
 
 ---
 [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2290 God's Unspeakable Gift|#2290 →]]

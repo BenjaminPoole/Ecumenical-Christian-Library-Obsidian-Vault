@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Christ's Prayer for Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3133
 
-DELIVERED BY C. H. SPURGEON, AT UNICORN YARD CHAPEL, SOUTHWARK, ON WEDNESDAY EVENING, AUGUST 29, 1855,.
+*Delivered by C. H. Spurgeon, at Unicorn Yard Chapel, Southwark, on Wednesday Evening, August 29, 1855*
 
 > "Neither pray I for these alone, but for them also who shall believe on Me through their word." John 17:20.
 
@@ -108,7 +107,6 @@ He is my strength and righteousness,
 My Jesus and my all."
 
 If any are awakened tonight by my words, I have not done it, nor has the sinner done it—but to God's praise be it spoken! And to His name be all the glory!
-
 
 ---
 [[Sermon 3132 A Question for You|← #3132]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3134 The Spirit's Work in the New Creation|#3134 →]]

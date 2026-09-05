@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Great Joy In the City
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2352
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And there was great joy in that city." Acts 8:8.
 
@@ -103,7 +100,7 @@ What a number of Christian people there are who are very poor and, what is worse
 
 Oh, dear People, if you do but get a good hope through Grace, that will make you rich, that will make you joyful, that will make you strong! I wish that you all had it—my very soul keeps longing within me that you might all be converted to God! I cannot work that great miracle—it is only the Spirit of God who can do it, but He works in answer to prayer. I wish that all God's people would silently breathe this prayer to Him, now, "Lord, save every sinner in this house! Bring every unconverted one to Your feet!" He can do it, you know. Only let us cry to Him, pleading His own promise, "I will yet for this be enquired of by the house of Israel, to do it for them: I will increase them with men like a flock." So let us cry to Him, "Lord, save this people! Lord, save this people, for Jesus Christ's sake! Amen."
 
-EXPOSITION BY C. H. SPURGEON: ACTS8.
+## Exposition by C. H. Spurgeon: Acts 8
 
 Stephen had been stoned to death, but with his latest breath he prayed for his murderers. Then this chapter begins— Verse 1. And Saul was consenting unto his death. And at that time there was a great persecution against the Church which was at Jerusalem and they were all scattered abroad throughout the regions of Judea and Samaria, except the Apostles. Saul, having tasted blood in the murder of Stephen, became more and more furious in his persecution of the Church of Christ at Jerusalem—and the Brothers and Sisters had to escape for their lives. They all did so, except the Apostles, who were specially cared for by Divine Providence.
 
@@ -136,7 +133,6 @@ Stephen had been stoned to death, but with his latest breath he prayed for his m
 land!
 
 40\. But Philip was found at Azotes: and passing through he preached in all the cities, till he came to Caesarea. We know quite well what "he preached in all the cities, till he came to Caesarea," although it is not mentioned here. Wherever he went, he had but one theme—"the things concerning the Kingdom of God, and the name of Jesus Christ." So may it be with us wherever we go!
-
 
 ---
 [[Sermon 2351 Prayer, The Cure for Care|← #2351]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2353 Out Of The Depths|#2353 →]]

@@ -9,10 +9,9 @@ epub_file: "works1.ii.vi.html"
 tags:
   - jonathan-edwards
 ---
-
 # APPENDIX, NO. VI.
 
-CATALOGUE OF PRESIDENT EDWARDS’S WORKS, HERETOFORE PUBLISHED.
+*Catalogue of President Edwards’s Works, Heretofore Published*
 
 1731. God glorified in Man’s Dependence; A Sermon on 1 Cor. i. 29-31. *Boston.*
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Family Reformation—or, Jacob's Second Visit to Bethel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1395
-
-DELIVERED BY.
 
 > "And God said unto Jacob, Arise, go up to Bethel and dwell there." Genesis 35:1.
 
@@ -150,7 +147,6 @@ The chapter closes with the death of Rachel and so, perhaps, when we get nearest
 When we come to dwell with Him who is fire, the fire must burn and we must feel it. That hallowed flame will consume much that our unhallowed flesh would like to keep and there will not be a burning without our enduring sharp smarts and pain. God's furnace is in Zion and His fire is in Jerusalem. He will purify the sons of Levi as silver is purified. "Who shall abide the day of His coming? For He will be as a refiner's fire and like fuller's soap." Yet if we are in a right state, that is exactly what we need! O that our sinfulness were wholly burned up! Trial is welcomed if sin may but be conquered! Even Rachel may die if Jesus lives in us but the more!
 
 Lord, give us Grace and Your Presence—even if we pass through the furnace a thousand times in consequence thereof. Hear us, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1394 The Day of Salvation|← #1394]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1396 Reasons for Turning to the Lord|#1396 →]]

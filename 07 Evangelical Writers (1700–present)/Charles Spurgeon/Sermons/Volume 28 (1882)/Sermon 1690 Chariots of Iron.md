@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Chariots of Iron
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1690
 
-DELIVERED ON THURSDAY EVENING, SEPTEMBER 28, 1882,.
+*Delivered on Thursday Evening, September 28, 1882*
 
 > "And the Lord was with Judah; and he drove out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron. And they gave Hebron unto Caleb, as Moses said: and he expelled from there the three sons of Anak." Judges 1:19,20.
 
@@ -146,7 +145,6 @@ When they came into the land 40 years later, Caleb did not ask for his city. But
 I wish that I could shame myself, and shame every worker here into enterprises that would astonish unbelievers! God help us to do that which seems impossible! Let men be provoked to charge us with fanaticism! God bless the fanaticism which, being translated, means nothing but a true faith in the living God! May we be helped to trust the Lord as He ought to be trusted and march on till we drive out all His enemies despite their chariots of iron, that unto God may be Glory forever and ever! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 78:10-59. HYMNS FROM "OUR OWN HYMN BOOK" -63 (SONG III), 106 (PART II), 87 (SONG II).
-
 
 ---
 [[Sermon 1689 The General Convocation Around Mount Zion|← #1689]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1691 Christ's Word with You|#1691 →]]

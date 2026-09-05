@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 41
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -111,8 +110,6 @@ An ardent spirit dwells with Christian love, The eagle's vigour in the pitying d
 **Verse 4.** God is the strength of a Christian's heart, by healing and restoring him when the infused habits of grace fail, and sin grows strong and vigorous. A Christian never fails in the exercise of grace, but sin gives him a wound; and therefore David prayed, *Lord, heal my soul, for I have sinned.* And what David prayed for, God promises to his people: "I will heal their backsliding." Ho 14:4. The weakness and decay of grace, brings a Christian presently to the falling sickness; and so it did in David and Ephraim; aye, but God will be a physician to the soul in this case, and will heal their diseases; and so he did David's falling sickness, for which he returned the tribute of praise. Ps 103:3. *Samuel Blackerby.*
 
 **Verse 4.** (*last clause*). Saul and Judas each said, "I have sinned; "but David says," I have sinned *against thee." William S. Plumer.*
-
-**Verses 1, 5.** He that considereth. Mine enemies. Strigelius has observed, there is a perpetual antithesis in this Psalm between the few who have a due regard to the poor in spirit, and the many who afflict or desert them. *W. Wilson, D.D.*
 
 **Verse 5.** *Mine enemies speak evil of me. To speak* is here used in the sense of *to imprecate. John Calvin.*
 
@@ -250,14 +247,13 @@ The ancient rabbins saw in the Five Books of the Psalter the image of the Five B
 
 God presented Israel with the Law, a Pentateuch, and grateful Israel responded with a Psalter, a Pentateuch of praise. *F.L.K.*
 
-WORKS UPON THE FORTY-FIRST PSALM
+## Works upon the Forty-First Psalm
 
 The ancient Rabbins saw in the Five Books of the Psalter the image of the Five Books of the Law. This way of looking at the Psalms as a second Pentateuch, the echo of the first, passed over into the Christian church, and found favour with some early fathers. It has commended itself to the acceptance of good recent expositors, like Dr. Delitzsch, who calls the Psalter "the congregation's five fold word to the Lord, even as the *Thora* (the Law) is the Lord's five fold word to the Congregation." This mat be mere fancy, but its existence from ancient times shows that the five fold division attracted early notice. *William Binnie, D.D.*
 
 God presented Israel with the Law, a Pentateuch, and grateful Israel responded with s Psalter, a Pentateuch of praise, in acknowledgment of the divine gift. *J. L. K.*
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 040|← Psalm 40]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 042|Psalm 42 →]]

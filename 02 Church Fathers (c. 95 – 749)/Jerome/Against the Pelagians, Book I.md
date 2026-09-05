@@ -361,7 +361,7 @@ xiv. 5. The prophet detecting the motive of Jeroboam's wife.
 
 2 Kings iv. 27. Elijah seeing the Shunamite's heart.
 
-1 Chron. ii. 32. Sept. Half- prophets.
+1 Chron. ii. 32. Sept. Half-prophets.
 
 Habakkuk iii. 1. Vulgate. A prayer for sins of ignorance (upon Shigionoth), supposed to be in recognition of over-boldness in i. 2-4.
 

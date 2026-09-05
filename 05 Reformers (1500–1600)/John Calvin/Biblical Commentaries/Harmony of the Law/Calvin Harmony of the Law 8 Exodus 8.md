@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 8. Exodus 8
-
-**EXODUS 8**
 
 ## Exodus 8:1-7
 

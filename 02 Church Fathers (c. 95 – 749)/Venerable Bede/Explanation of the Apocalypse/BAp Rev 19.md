@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 19
 
 *
@@ -24,8 +22,6 @@ V. 1. trumpets, (multitudes)*. These things the Church, now says in part, but wi
 • St Matt, xxiii. 35. * Bed. and Haymo read, Maruntf
 
 •'trumpets;" Gr., and Vulg., turharum^ "people." See on v. 6,
-
-128 Explanation of the Apocalypse, [bk. hi.
 
 persecuted the good; and in these two, I suppose, he comprehends all the crimes of the wicked.
 
@@ -61,8 +57,6 @@ St Matt XXV. 7. F Isa. Ux. 5. ■ Ch. L 8^ ii.
 
 K
 
-X30 E^lanaHon of ike Apocalypse, [bk. iii.
-
 angel was sent as a figure of the Lord and the Chnrdi. In the same manner he also says* at the end, **I, Jesus, have sent my angel to testify these things to you in the churches."
 
 testimony. After that tfie Lord Jesus Christ raised the person of man, which He assumed, above the heavens, the angel feared to be worshipped by man, namely, as worshipping the God-man above himself. Yet we read of this having been done before the Incarnation of the Lord by men, and not in any wise forbidden by the angels.
@@ -90,8 +84,6 @@ The Word. Because the same Who appeared for a time as a man of suffering, " in t
 * Ps. cxviii. (cxix. A V. ) 105* • St Luke xii. 49.
 
 ' St. John iiii 134 St* John L i. ^ PhiL iv. 7.
-
-132 ExphnaHon of the Apocalypse. [bk. in.
 
 Vinto Himself, exceeds the wisdom of any creature, whether human or angelic, for ^^ Of his wisdom there is no number V' For when it is said, ^*And he, to.whom the Son will reveal V' that is, the Father and the Son, " knows," this has respect to the capacity of the creature.
 
@@ -126,8 +118,6 @@ Come. Come, he says, ye who hunger and thirst after righteousness, to the banque
 ' t Cor. iv. 15. ■ So in the Collect for Peace there is,
 
 "Cuiservire r^nare est;" in ourPr.-B., "Whose service 15 [rfect freedom," This, as, " Deo servire regnire est," became a conimon proverb. Il oecurs in Si. Pet. Damiani, Serm. IviiL 0pp., lom. li. coL 307. Mass. 1783. ' Si. Matt. kxiv. 28. • So dt. Iren., bk. iv. ch. 14. I I, and St. Chrys., Horn. Jtxiv., on 1 Cor. x. 24, take iL ■ Ch. liv. 6.
-
-134 Explanation of the Apocalypse. [bk. hi.
 
 at the opening of the seals 3^, he had described as having come against the white horse of the Lord.
 

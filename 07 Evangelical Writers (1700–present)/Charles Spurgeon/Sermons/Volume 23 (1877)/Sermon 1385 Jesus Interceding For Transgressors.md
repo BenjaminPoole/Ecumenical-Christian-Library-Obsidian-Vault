@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Jesus Interceding For Transgressors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1385
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 18, 1877,.
+*Delivered on Lord's-Day Morning, November 18, 1877*
 
 > "And made intercession for the transgressors." Isaiah 53:12.
 
@@ -148,7 +147,6 @@ Alas, how soon do men weary of pleading for our Lord! If a whole day is set apar
 Look, Moses lets his hands hang down and Amalek is defeating Joshua in the plain! Can we endure to be losing victories and causing the enemy to triumph? If our ministers are unsuccessful. If our laborers for Christ in foreign lands make little headway. If the work of Christ drags, is it not because in the secret place of intercession we have but little strength? The lack of prayer is the weakness of the Church! If we awakened ourselves to lay hold upon the Covenant Angel and resolutely cried, "I will not let You go, except You bless me," we should enrich ourselves and our age! If we used more of the strong reasons which make up the weapon of all-prayer, our victories would not be so few and far between!
 
 Our interceding Lord is hindered for lack of an interceding Church! The kingdom comes not because so little use is made of the Throne of Grace. Get to your knees, my Brothers and Sisters, for on your knees you conquer! Go to the Mercy Seat and remain there! What better argument can I use with you than this—Jesus is there—and if you desire His company you must ofttimes resort there. If you want to taste His dearest, sweetest love, do what He is doing—union of work will create a new communion of heart. Let us never be absent when praying men meet together! Let us make a point of frequenting assemblies gathered for prayer, even if we give up other occupations. While we live, let us be, above all things, men of prayer! And when we die, if nothing else can be said of us, may men give us this epitaph, which is, also, our Lord's memorial—"He made intercession for the transgressors." Amen.
-
 
 ---
 [[Sermon 1384 A Round of Delights|← #1384]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1386 Sins Of Ignorance|#1386 →]]

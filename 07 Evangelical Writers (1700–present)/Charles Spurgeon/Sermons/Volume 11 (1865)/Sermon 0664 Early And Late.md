@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Early And Late
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 664
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 10, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 10, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Matthew 20:1,3, 5, 6.
 
@@ -138,7 +137,6 @@ I often receive the kind advice, "Do less." I cannot do less. Do less? Why, bett
 May the Lord bless you for Christ's sake. Amen.
 
 [This sermon was originally titled, Early and Late, Or Horae Gratiae]. PORTION OF SCRIPTURE READ BEFORE SERMON—Matthew 19:27-20:29.
-
 
 ---
 [[Sermon 0663 Walking In The Light And Washed In The Blood|← #663]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0665 Open House For All Comers|#665 →]]

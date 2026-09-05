@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Pierced One Pierces The Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 575
 
-DELIVERED ON SUNDAY MORNING, JUNE 19, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, June 19, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And I will pour upon the house of Da vid and upon the inhabitants of Jerusalem, the spirit of Grace and of supplications: and they shall look upon Me whom they have pierced and they shall mourn for Him, as one mourns for his only son and shall be in bitterness for Him, as one that is in bitterness for his first-born." Zechariah 12:10.
 
@@ -152,7 +151,6 @@ As to myself, I cross this day into another year of my own life and history and 
 But now I would to God that this day some of you would begin to trust in Him! It is the Spirit's work only, but still, He works through means. I think He is working in your heart now. Young Man, those tears look hopeful—I thank God that those eyes feel burning now. I pray you do not go chatting on the road home and miss any good impression. Go to your chamber, fall upon your knees, cry out to God, entreat His favor! This day let it be! None of the devil's tomorrows—away with them! Away with them!
 
 "Today if you will hear His voice, harden not your heart." May the Spirit of God constrain you to "Kiss the Son, lest He be angry and you perish from the Way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him." Amen.
-
 
 ---
 [[Sermon 0574 The Superlative Excellence Of The Holy Spirit|← #574]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0576 Quiet Musing!|#576 →]]

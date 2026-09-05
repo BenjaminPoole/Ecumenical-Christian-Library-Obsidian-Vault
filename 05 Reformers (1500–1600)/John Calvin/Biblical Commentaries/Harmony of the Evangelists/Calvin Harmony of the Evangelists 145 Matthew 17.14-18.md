@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 145. Matthew 17:14-18; Mark 9:14-27; Luke 9:37-43
-
-Matthew 17:14-18; Mark 9:14-27;  
-Luke 9:37-43
 
 **14**. And when they were come to the multitude, a man came to him, kneeling before him, **15**. And saying, Lord, have compassion on my son, for he is lunatic, and is grievously distressed; for frequently he falleth into the fire, and frequently into the water. **16**. And I brought him to thy disciples, and they could not cure him. **17**. And Jesus answering said, O unbelieving and perverse nation, how long shall I be with you? How long shall I suffer you? Bring him hither to me. **18**. And Jesus rebuked the devil, who went out of him; and from that instant the child was cured.
 

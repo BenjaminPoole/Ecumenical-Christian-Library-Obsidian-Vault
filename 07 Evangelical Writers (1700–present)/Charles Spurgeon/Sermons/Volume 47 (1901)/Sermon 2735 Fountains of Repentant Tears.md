@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Fountains of Repentant Tears
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2735
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when he thought about it, he wept." Mark 14:72.
 
@@ -103,7 +100,7 @@ What a mercy it was for Peter that, within a short time of his great fall, his M
 
 That same Master is here, at this moment, seeking you poor prodigals! And He would have you come to Him and receive this gracious message from His lips—"I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins: return unto Me, for I have redeemed you. Behold, I have cast all your transgressions behind My back, and will remember them against you no more forever. Go forth and serve Me, and rejoice in Me all your days. Love Me much, for you have had much forgiven." God grant that many of you may have Grace given to you to enable you to obey that blessed word, and to the name of Jesus shall be praise for evermore! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: MARK 14:27-31; 53,54; 66-72; JOHN 18:15-18;25-27.
+## Expositions by C. H. Spurgeon: Mark 14:27-31; 53,54; 66-72; John 18:15-18;25-27
 
 Mark 14:27-29. And Jesus said unto them, All you shall be offended because ofMe this night: for it is written, I will smite the Shepherd, and the sheep shall be scattered. But after that I am risen, I will go before you into Galilee. But Peter said unto Him, Although all shall be offended, yet I will not There was love in that utterance and so far it was commendable. But there was also much self-trust in it. And there was great presumption, for Peter dared even to contradict his Master to His face and, at the same time, he contradicted the Inspired Scripture, for Jesus had told the disciples that it was written that the sheep should be scattered! Yet Peter boldly denied both what God had written and what Christ had said. Alas, there is nothing of evil which proud self-confidence will not make us do! God save us from such a spirit as that!
 
@@ -128,7 +125,6 @@ John 18:15. And Simon Peter followed Jesus, and so did another disciple. That is
 25\. And Simon Peter stood and warmed himself Twice over, we are told that while his Master was being buffeted, Peter stood in the midst of the ribald throng and warmed himself.
 
 25-27. They said therefore unto him, Are not you also one of His disciples? He denied it, and said, I am not One of the servants of the high priest, being his kinsman whose ear Peter cut off, said, Did not I see you in the Garden with Him? Peter then denied again: and immediately the cock crew. Thus was Christ's prediction literally fulfilled and thus, by what seems the humble instrumentality of a cock crowing, was Peter brought to repentance. There is many an eloquent divine who has missed the mark when he has been preaching, but God has spoken by a very humble voice. You, dear Friend, though you have no gifts of speech, may go and tell the story of Jesus Christ to someone and God may bring him to repentance through you, as he brought Peter back to himself through the agency of this bird. May God make us all useful and keep us from falling into transgression as Peter did! Amen.
-
 
 ---
 [[Sermon 2734 Out of Nothing Comes Nothing|← #2734]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2736 The Great Miracle Worker|#2736 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 5
 
-**CHAPTER 5.**
+***Chapter 5.***
 
 ## Isaiah 5:1-30
 

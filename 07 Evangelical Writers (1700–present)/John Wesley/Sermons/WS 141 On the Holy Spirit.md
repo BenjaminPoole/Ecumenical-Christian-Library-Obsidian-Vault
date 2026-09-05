@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 141. On the Holy Spirit
 
-*PREACHED AT ST. MARY'S OXFORD, ON WHITSUNDAY, 1736*
+**Preached at St. Mary's Oxford, on Whitsunday, 1736**
 
 > "Now the Lord is that Spirit." 2 Cor. 3:17
 

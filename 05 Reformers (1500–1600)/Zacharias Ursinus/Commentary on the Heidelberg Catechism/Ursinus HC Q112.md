@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 112. What is required in the ninth command?
-
-**Question 112. What is required in the ninth command?**
 
 Answer. That I bear false witness against no man, nor falsify any man's words, that I be no backbiter, or slanderer; that I do not judge, or join in condemning any man rashly or unheard; but that I avoid all sorts of lies and deceit, as the proper works of the devil, unless I would bring down upon me the heavy wrath of God; likewise, that in judgment and other dealings I love the truth, speak it uprightly, and confess it: also, that I defend and promote as much as I am able the honor and good character of my neighbor.
 
-**EXPOSITION**
+## **Exposition**
 
 The design or end of this ninth commandment is the establishment and preservation of truth amongst men. It forbids, therefore the bearing of false witness, and all other things which are closely allied to it, the genus of which is lying. Thou shalt not bear false witness of, or against thy neighbor. There is in this negative precept, an affirmative which is, Thou shalt bear true witness of, or for thy neighbor; that is if thou wilt be true, love to learn and speak the truth. The head, the fountain and genus, as it were, of the virtues which are here enjoined, is truth, or rather veracity in our words, thoughts, judgments, contracts and in our doctrine. For by truth, as it is here used, we are to understand the agreement or correspondence which our knowledge or words have with the thing of which we affirm something. We call that speech or declaration true which harmonises and agrees with the thing itself. So on the other hand, falsehood, in the premises which we have laid down, is the fountain, the genus of all the vices which are here condemned.
 
@@ -54,7 +51,7 @@ The virtues which we have thus far enumerated under this commandment are natural
 
 **VIII. URBANITY** , being that which seasons and recommends truth and speech under every form, is the truth figuratively spoken, for the purpose of moving, exhorting, and delighting others, having a proper regard to the circumstances of the persons, time and place; or it is a facility and power of speaking the truth with a certain degree of grace, so as to teach, comfort, cheer, excite and move others without being accompanied with any unpleasantness or bitterness. The extremes of this virtue are, on the one side, scurrility, raillery, and backbiting. Scurrility consists in obscene and low jesting, especially in holy things. Scurra, which means a person who jests in the manner just described, is so called from the Greek σκωζ, which means filth; because he speaks what is obscene and filthy. Raillery is a vice which consists in bitter jesting or scoffing, and in deriding and vexing others, especially those who ought to be pitied. Backbiting is that which puts false reports into circulation in regard to others, and puts the worst construction upon what is spoken doubtfully, with a desire of revenge, and of injuring, and exciting prejudice and opposition against some one. Foolishness, and a want of taste, constitute the other extreme of urbanity. Foolishness is an affectation of urbanity which is altogether inappropriate and out of place; whilst a want of taste shows itself in a silly imitation of urbanity.
 
-FORTY-FOURTH LORD'S DAY
+## Forty-Fourth Lord's Day
 
 ---
 [[Ursinus HC Q111|← Question 111. But what doth God require in t]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q113|Question 113. What doth the tenth commandmen →]]

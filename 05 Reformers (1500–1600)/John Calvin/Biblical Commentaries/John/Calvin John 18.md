@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 18
 
-**CHAPTER 18.**
+***Chapter 18.***
 
 ## John 18:1-6
 

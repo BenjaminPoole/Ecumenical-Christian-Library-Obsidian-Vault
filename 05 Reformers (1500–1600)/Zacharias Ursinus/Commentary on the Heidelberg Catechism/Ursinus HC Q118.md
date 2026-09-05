@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 118. What hath God commanded us to ask of him?
-
-**Question 118. What hath God commanded us to ask of him?**
 
 Answer. All tilings necessary for soul and body; which Christ our Lord has comprised in that prayer he himself has taught us.
 
-**EXPOSITION**
+## **Exposition**
 
 The conditions of acceptable prayer are—
 

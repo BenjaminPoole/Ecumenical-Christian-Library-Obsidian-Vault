@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 38
-
-**PSALM 38**
 
 David, suffering under some severe and dangerous malady, as may be conjectured, acknowledges that he is chastened by the Lord, and entreats him to turn away his anger from him. In order the more effectually to induce God to have mercy upon him, he bewails before him the severity of his afflictions in a variety of particulars. These we shall consider separately, and in order.
 

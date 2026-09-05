@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # From Twenty-five to Thirty-five
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2517
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he went out about the third hour, and saw others standing idle in the marketplace, and said unto them; go you also into the vineyard, and whatever is right I will give you. And they went their way." Matthew 20:3,4.
 
@@ -73,7 +70,7 @@ There are some who are idling because of their constant indecision. They are not
 
 IV. I will not say more upon that point, but go on to the next question—WHAT WORK WOULD THE LORD
 
-HAVE THESE IDLERS DO—
+## Have These Idlers Do—
 
 "Go you also into the vineyard."
 
@@ -103,7 +100,7 @@ If I remember rightly, there was a man who was converted at the age of 103. He w
 
 He was a very old man. Did I think that he was too old? No, I did not. Bless him! I was glad to see him. He was baptized at 86 and that day he was so happy! Those who knew him never saw him so joyful. He was trusting in the precious blood and he had obeyed his Master's command. He had about three months of the days of Heaven upon earth in which, if you saw the old man, you must have noticed how bright he was. He walked with God and then he went Home. We had not our old member long, had we? No, but there sits in this place, if she has been able to get here, tonight, a Sister who joined this Church when she was about sixteen, and she has been a member 76 years and is still among us! Think of the difference between these two—one makes a confession of faith for 76 years, and another for only two or three months! Yet they shall both receive their penny! I am sure we do not grudge the penny to the Brother who came in at eighty-six. We are glad that he should have the full tale of blessing here and hereafter. Still, dear Friends, do not wait as long as he did. And if you have waited until now, make haste and get to Christ at once! May His Holy Spirit lead you and guide you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. MATTHEW 19:13-30; 20:1-16.
+## Exposition by C. H. Spurgeon. Matthew 19:13-30; 20:1-16
 
 All sorts of persons are invited to come to Christ, whatever their age may be. We begin here with the children.
 
@@ -136,7 +133,6 @@ Matthew 20:1, 2. For thee kingdom of Heaven is like unto a man that is an househ
 13-15. But he answered one of them, andsaid, Friend, I do you no wrong: didnotyou agree with me for a penny? Take that what is yours and go your way: I will give unto this last, even as unto you. Is it not lawful for me to do what I will with my own? Is your eye evil, because I am good? God will have us know that in dealing with us when we are His servants, He is under no obligation to us. If He chooses to give a reward, the reward is not of debt, but of His Sovereign Grace. We are bound to serve Him by the fact that He is our Creator, altogether apart from any reward, and we must not talk of dealing with Him on terms of reward! It is too high a style for us, poor worms, to assume in the Presence of Almighty God! It we talk so, He will soon put us down into our right place.
 
 16\. So the last shall be first, and the first last: for many are called, but few chosen.
-
 
 ---
 [[Sermon 2516 Jesus and His Brethren|← #2516]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2518 A Sad Interior and a Cheery Messenger|#2518 →]]

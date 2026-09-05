@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 29
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE ROUTS OUR ENEMY**
+## **He Routs Our Enemy**
 
 > He hath cast out thine enemy." Zeph. 3:15
 
@@ -23,7 +22,6 @@ What a casting out was that! Satan has lost his throne in our nature even as he 
 Still is the arch-enemy the accuser of the brethren; but even from this position our Lord has driven him. Our advocate silences our accuser. The Lord rebukes our enemies, and pleads the causes of our soul, so that no harm comes of all the devil's revilings.
 
 As a tempter, the evil spirit still assails us, and insinuates himself into our minds; but thence also is he cast out as to his former preeminence. He wriggles about like a serpent, but he cannot rule like a sovereign. He hurls in blasphemous thoughts when he has opportunity; but what a relief it is when he is told to be quiet, and is made to slink off like a whipped cur! Lord, do this for any who are at this time worried and wearied by his barkings. Cast out their enemy, and be thou glorious in their eyes. Thou hast cast him down, Lord cast him out. Oh, that thou wouldst banish him from the world!
-
 
 ---
 [[FCB July 28|← July 28]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 30|July 30 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Watching to See
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2622
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will stand my watch, and set myself on the tower, and will watch to see what He will say unto me, and what I shall answer when I am reproved. And the LORD answered me, and said, Write the vision, and make it plain on tablets, that he may run that reads it For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry. Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith." Habakkuk 2:1-4.
 
@@ -93,7 +90,7 @@ But how does this test discern the righteous? Why thus—"The just shall live by
 
 "The just man"—that is, the righteous man—"shall live." Ah, there is no true life without that righteousness! "Shall live by his faith"—and there is no true life without faith and no true righteousness without faith. These three go together—may we all have them and may it be your joy and mine to keep on telling others what God has revealed to us, that we may thus gather out His own believing people, His elect and redeemed ones, while the graceless will, perhaps, despise and hate what they may see and so will ripen for the flames of Hell! God grant, of His Grace, that they may yet be delivered, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HABAKKUK 2:1-11.
+## Exposition by C. H. Spurgeon: Habakkuk 2:1-11
 
 Verse 1. I will stand my watch, and set myself on the tower, and will watch to see what He will say unto me, and what I shall answer when I am reproved. ' 'I shall look to God and I shall also look to myself. There shall be an expectation as I gaze upward to my Lord and there shall also be an examination as I look within at my empty, guilty, good-for-nothing self."
 
@@ -112,7 +109,6 @@ Verse 1. I will stand my watch, and set myself on the tower, and will watch to s
 8\. 9. Because you have spoiled many nations, all the remnant of the people shall spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein. Woe to him that covets an evil covetousness to his house, that he may set his nest on high, that he may be delivered from thepower of evil! He fancies, when he gets rich by oppressing others, that he will, himself, rise out of harm's way. He says that he will make the main chance sure. He who has plenty of gold fancies that he will be able to preserve himself from sorrow, but this is what God has to say about that matter—
 
 10, 11. You have consulted shame to your house by cutting off many people and have sinned against your soul For the stone shall cry out of the wall, and the beam out of the timber shall answer it These Chaldeans were great builders, as we know by the vast ruins that still remain. And most of their buildings were erected by labor exacted from the people whom they oppressed. They received no wages for their work, so even today, from the ruins, the stone cries out of the walls and the beams out of the timber answers it. Let all men know that, sooner or later, God will execute justice even upon the greatest nations! If they will be destroyers, they shall be destroyed. Their evil policy shall, by-and-by, sweep them away. "There is a something in the world," says one, "that makes for righteousness." Indeed there is, only it is more than a something—it is God himself who is always working in all things towards the vindication of His own righteous and holy Law.
-
 
 ---
 [[Sermon 2621 The Sinner's Refuge|← #2621]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2623 How Faith Comes|#2623 →]]

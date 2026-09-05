@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Cure For Unsavory Meats—or, Salt for the White of an Egg
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1730
 
-DELIVERED ON THURSDAY EVENING, JULY 5, 1883,.
+*Delivered on Thursday Evening, July 5, 1883*
 
 > "Can that which is unsavory be eaten without salt? Or is there any taste in the white of an egg?" Job 6:6.
 
@@ -148,7 +147,6 @@ As for you that are not in Christ, you must eat this unsavory meat and there wil
 O Soul, if you pass out of this world as you are, you can never see the face of God with joy! You will be driven from His Presence and from the glory of His power to experience what it means—"Where their worm dies not and their fire is not quenched." They say that everlasting does not mean everlasting. What then? Are the righteous to perish after a while? In these two sentences the same word must mean the same thing—"These shall go away into everlasting punishment, but the righteous into life eternal." If eternal life lasts forever, so must eternal punishment!
 
 When the righteous cease to be, the wicked will cease to be. When the godly cease their joy, the ungodly will cease their misery—but not till then! That is unsavory meat for you. The Lord help you to salt it, even now, by believing in Jesus and so finding eternal salvation. Amen.
-
 
 ---
 [[Sermon 1729 Beginning at Jerusalem|← #1729]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1731 Accepted of the Great Father|#1731 →]]

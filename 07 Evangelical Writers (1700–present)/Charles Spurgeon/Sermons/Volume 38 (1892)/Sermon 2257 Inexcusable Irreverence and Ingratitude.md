@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Inexcusable Irreverence and Ingratitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2257
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They are without excuse: because that, when they knew God, they glorified Him not as God, neither were thankful." Romans 1:20,21.
 
@@ -99,7 +96,7 @@ Will you, dear Friends, pray for this? I shall feel that even my poor, weak inst
 
 There are no doors to the pews, otherwise I would say, "Shut those doors, and do not let the people out until God decides them." Lord, shut them in! Lord, arrest them! Hold them fast and let them not go till each one of them has said, "I believe; help You my unbelief!" May God bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON ROMANS1:1-25
+## Exposition by C. H. Spurgeon Romans 1:1-25
 
 Verse 1. Paul, a servant of Jesus Christ, called to be an Apostle, separated unto the Gospel of God. Paul had not seen the Romans when he wrote this Epistle. They were strangers to him and, therefore, he begins by asserting his Apostle-ship, "called to be an Apostle, separated unto the Gospel of God." That expression should be true of every Christian minister! We are not Apostles, but we are, "separated unto the Gospel of God." I do not think that we are called to have anything to do with party politics, or social problems, or any such questions—we are set apart for this purpose— "separated unto the Gospel of God." There are plenty of people who can attend to those things better than we can. If we mind our own business, or rather, if we mind our Master's business, we who are ministers will have quite enough to do. "Separated unto the Gospel of God." There are some Brothers who, in preaching, are as timid as mice—but on a political platform they can roar like lions! Had not they better take to what they like best and give up the work at which they are not at home? For my part, I believe that I am like Paul when he says that he was "separated unto the Gospel of God." I am set apart unto the Gospel, cut off from everything else so that I may preach the glorious Gospel of the blessed God to the perishing sons of men!
 
@@ -136,7 +133,6 @@ but to the disreputable—debtors not only to those who come to a place of worsh
 23, 24. And changed the glory of the incorruptible God into an image made like corruptible man, and to birds, and four-footed beasts, and creeping things. Therefore God also gave them up to uncleanness through the lust of their own hearts, to dishonor their own bodies between themselves. It is very easy to make a beast of yourself when you have made a beast to be your god, as the Egyptians did, when they worshipped the god that they had made in the form of an ox, or a crocodile, or a cat.
 
 25\. Who changed the Truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed forever. Amen. There are many preachers who have "changed the Truth of God into a lie"—and by their exaltation of man, they have "worshipped and served the creature more than the Creator, who is blessed forever." God save all of us from such idolatry as that! Amen.
-
 
 ---
 [[Sermon 2256 Daniel's Band|← #2256]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2258 Where Is the Lord|#2258 →]]

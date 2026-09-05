@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Lowly Service
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2829
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is the service of the families, the Gershonites, to serve, and for burdens: and they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, its covering, and the covering of the badgers' skin that is above upon it, and the hanging for the door of the tabernacle of the congregation, and the hangings of the door, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve." Numbers 4:24-26.
 
@@ -69,7 +66,7 @@ And notice further, under this head, that the burdens which are borne for the Lo
 
 II. There is much more that might be said upon this point, but I must pass on to the second head, which is that THE
 
-LORD HAS MADE APPOINTMENTS CONCERNING THESE BURDEN-BEARERS.
+## Lord Has Made Appointments Concerning These Burden-Bearers
 
 First, He thought upon them, though they were but burden-bearers. Here is a whole chapter about them and there are other chapters about these Gershonites, Kohathites and Merarites. The Lord directed Moses to write all this about then. Possibly you have been thinking that the Lord only remembers Apostles and great leaders in His Church, but it is not so. He remembers the burden-bearers—the rank and file are dear to Him. "The Lord knows them that are His," whatever position they may occupy. And though some of you may have to go from this service to a very poor home and though others of you have only crept out from your bed for a little while, and will soon have to be back there to endure new pains. And though you feel as if all that you had to do was to lie and suffer—well, the Lord knows all about it. He is thinking of you burden-bearers who are so much like His Son, the great Burden-Bearer! If He could forget all others, He would not forget you. You have to take up your cross daily, as your Lord took up His Cross, and God takes delight in you, for you are very dear to His heart. Do not think that it can be otherwise, but comfort yourself with these words. The Lord remembered them.
 
@@ -107,7 +104,7 @@ I greatly fear that some of you are not the servants of my Master. Then you are 
 
 "I will think about it," says one. You will never get away from him if you act like that. The only way to escape from the devil is to run away from him without giving him any notice. Just as you are, at this moment, escape for your lives! Look not behind you, for the only hope for you is to flee at once from the wrath to come. Do as the prodigal son did— say, "I will arise and go to my father." And then, like he, rise up at once and go! He who deliberates about such a matter as this is lost. It is now or never with you! "Behold, now is the accepted time; behold, now is the day of salvation." The Lord help us all to escape, this very hour, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: NUMBERS8:5-22.
+## Exposition by C. H. Spurgeon: Numbers 8:5-22
 
 Verses 5, 6. And the LORD spoke unto Moses, saying, Take the Levites from among the children of Israel and cleanse then. These men were to be the servants of God. They are the type of God's elect—a people set apart unto Divine service, to be zealous for good works. "Take the Levites from among the children of Israel and cleanse them." That is just the way that God the Holy Spirit takes Christians out of the mass of mankind and cleanses them.
 
@@ -126,7 +123,6 @@ atonement for the Levites. There is no true way of serving God without the Atone
 16-18. Instead of such as open every womb, even instead of the first-born of all the children of Israel, have I taken them unto Me. For all the first-born of the children of Israel are Mine, both man and beast: on the day that I struck every first-born in the land of Egypt I sanctified them for Myself. And I have taken the Levites for all the first-born of the children of Israel. God's people are the elect—they have escaped from death. In that day when the sword of the Lord was drawn, they were shielded by the blood of the lamb sprinkled on the lintel and on the two side posts and, henceforth, because they have been thus preserved, they belong to the Lord.
 
 19-22. And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come near unto the sanctuary. And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them. And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD, and Aaron made an atonement for them to cleanse them. And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them. How instructive all this is to us! We are not to begin blunderingly to serve God while we are yet in our sins—before we have been sprinkled with the blood—before we have been washed in the water which flowed with the blood—before we have felt that razor that takes away from us all our own pride and glory! No, but when all that is done, then there is to be no delay—"After that went the Levites in to do their service."
-
 
 ---
 [[Sermon 2828 Startling!|← #2828]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2830 A Good Man in An Evil Case|#2830 →]]

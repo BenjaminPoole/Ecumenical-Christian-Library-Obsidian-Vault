@@ -9,18 +9,17 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedicatory Epistle
 
-**THE AUTHOR’S DEDICATORY EPISTLE.**
+***The Author’s Dedicatory Epistle.***
 
-**TO THAT MOST ACCOMPLISHED MAN,**
+## **To that Most Accomplished Man,**
 
-**MELCHIOR WOLMAR RUFUS, LAWYER.**
+## **Melchior Wolmar Rufus, Lawyer.**
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**HEALTH.**
+## **Health.**
 
 Should you be disposed to charge me, not merely with neglect, but even with incivility, for not having written to you for so long a time, I confess I have scarcely any apology to offer. For if I were to allege that the distance between us is so great, and that, during fully five years, I have met with no one that was going in your direction, this indeed were true, but it would be, I readily acknowledge, but a lame excuse. It appeared to me, accordingly, that I could not do better than offer to you some compensation, that might make up for the errors of the past, and might at once set me clear from all blame. Here, then, you have a commentary on the Second Epistle of Paul to the Corinthians, prepared by me with as much care as was in my power. [^1] For I have no doubt that you will, in your kindness, accept of this as a sufficient compensation. At the same time there are other and weightier considerations, that have induced me to dedicate this to you.
 

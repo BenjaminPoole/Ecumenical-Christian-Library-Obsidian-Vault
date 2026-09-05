@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Kept From Iniquity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2432
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I kept myself from my iniquity." Psalm 18:23.
 
@@ -88,7 +85,6 @@ Next, if you act thus, it will be a triumph of Divine Grace. Brethren, we want t
 For again, this will be our best testimony to others. It is well to preach as I do, with my lips. But you can all preach with your feet and by your lives—and that is the most effective preaching! The preaching of holy lives is living preaching! The most effective ministry from a pulpit is that which is supported by godliness from the pew! God help you to do this!
 
 And, lastly, what a sweet peace this will give to your conscience! Though we know we are saved by Grace, hear this, you ungodly! There is no way of salvation for you, or for us, but by the Grace of God through Jesus Christ—yet when we are saved, the evidence to our own soul of that work of Grace upon our nature is very sweet when we can say, "I have kept myself from my iniquity." A well-spent life, a life that is pure, a life that has been consecrated to usefulness, a life in which there has not been a turning aside to the right hand or to the left, helps us to lie down with comfort upon our dying bed and bid farewell to all our dear ones and feel that we are leaving behind us the legacy of a gracious example in which we do not glory, but for which we give God the glory and thank and praise His holy name! Begin at the Cross— there is the source of your salvation! Then go and live like the living Savior. God help you to do so, for Christ's sake!
-
 
 ---
 [[Sermon 2431 The Double Cleansing|← #2431]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2433 Heman's Sorrowful Psalm|#2433 →]]

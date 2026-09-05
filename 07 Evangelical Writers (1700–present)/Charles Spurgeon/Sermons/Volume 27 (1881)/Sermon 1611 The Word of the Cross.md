@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Word of the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1611
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 31, 1881,.
+*Delivered on Lord's-Day Morning, July 31, 1881*
 
 > "For the preaching of the Cross is to them that perish foolishness; but unto us which are sa ved it is the power of God." 1 Corinthians 1:18.
 
@@ -130,7 +129,6 @@ I appeal to you who are despairing—are you ever revived by musical words and r
 Never mind how you do it, only proclaim that Jesus died for sinners. The Cross held up by a babe's hand is just as powerful as if a giant held it up! The power lies in the word, itself, or rather in the Holy Spirit who works by it and with it. Brothers, believe in the power of the Cross for the conversion of those around you! Do not say of any man that he cannot be saved. The blood of Jesus is Omnipotent! Do not say of any district that it is too sunken, or of any class of men that they are too far gone—the word of the Cross reclaims the lost! Believe it to be the power of God and you shall find it so. Believe in Christ Crucified and preach boldly in His name and you shall see great things and gladsome things. Do not doubt the ultimate triumph of Christianity! Do not let a mistrust flit across your soul. The Cross must conquer!
 
 It must blossom with a crown—a crown commensurate with the Person of the Crucified and the bitterness of His agony. His reward shall parallel His sorrows. Trust in God and lift your banner high—and with Psalms and songs advance to battle, for the Lord of Hosts is with us—the Son of the Highest leads our van! Onward with blast of silver trumpet and shout of those that seize the spoil! Let no man's heart fail him! Christ has died! Atonement is complete! God is satisfied! Peace is proclaimed! Heaven glitters with proofs of mercy already bestowed upon ten thousands times ten thousands! Hell is trembling! Heaven adoring, earth waiting! Advance, you saints, to certain victory! You shall overcome through the blood of the Lamb!
-
 
 ---
 [[Sermon 1610 A Miniature Portrait Of Joseph|← #1610]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1612 The Minstrel|#1612 →]]

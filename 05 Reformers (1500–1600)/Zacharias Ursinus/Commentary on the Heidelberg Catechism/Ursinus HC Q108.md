@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 108. What doth the seventh command teach us?
-
-**Question 108. What doth the seventh command teach us?**
 
 Answer. That all uncleanliness is accursed of God, and that therefore we must, with all our hearts, detest the same, and live chastely and temperately, whether in holy wedlock, or in single life.
 

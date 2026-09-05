@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 49. The Conclusion
-
-### The Conclusion.
 
 Thus have we, in these few heads, offered unto your honours our judgments, according as we were commanded, touching the reformation of things which heretofore have altogether been abused in this cursed Papistry. We doubt not but some of our petitions shall appear strange unto you at the first sight. But if your wisdoms deeply consider that we must answer not only unto men, but also before the throne of the Eternal God and of His Son, Christ Jesus, for the counsel which we give in this so grave matter, your honours shall easily consider that it is much safer for us to fall into the displeasure of all men on earth, than to offend the Majesty of God, whose justice cannot sutler flatterers and deceitful counsellors to go unpunished.
 

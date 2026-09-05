@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # 'To You'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2899
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To you is the word of this salvation sent." Acts 13:26.
 
@@ -89,7 +86,7 @@ So, have done with all other confidences and with the love of sin—and lay hold
 
 IV. My last question is this. HOW ARE YOU GOING TO TREAT THE WORD OF THIS SALVATION, NOW
 
-THAT IT IS SENT TO YOU?
+## That It Is Sent to You?
 
 First, are any ofyougoing to contradict it and blaspheme it? I trust not, although that sin is not an uncommon one nowadays. Yet I most sincerely hope that I am not addressing one who blasphemes the Christ who died for sinners—such love as His ought to be free from blasphemy!
 
@@ -115,7 +112,7 @@ Do you ask, "What shall I do to be saved?" "Believe on the Lord Jesus Christ, an
 
 So, accept the whole of the Gospel and keep to the command of Christ in every point—and then you may look to the faithful God to fulfill His promise that you shall be saved! The Lord bless you and save every one of you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS 13:13-49.
+## Exposition by C. H. Spurgeon: Acts 13:13-49
 
 Verse 13. Now when Paul and his company set sail from Paphos, they came to Perga in Pamphylia: and John, departing from them, returned to Jerusalem. ' 'John"—that is, John Mark, as we see by chapter 15:37.
 
@@ -146,7 +143,6 @@ God."
 46\. Andsaid, It was necessary that the Word ofGod should first have been spoken to you: but seeingyouput it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. And a blessed turning it has been for you, dear Friends, and for me!
 
 47-49. For so has the Lord commanded us, saying, I have set you to be a light to the Gentiles, that you should be for salvation unto the ends of the earth. And when the Gentiles heard this, they were glad, and glorified the Word of the Lord: andas many as were ordained to eternallife believed. And the Word ofthe Lord waspublished throughout all the region.
-
 
 ---
 [[Sermon 2898 The Search Warrant|← #2898]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2900 How God Comes to Man|#2900 →]]

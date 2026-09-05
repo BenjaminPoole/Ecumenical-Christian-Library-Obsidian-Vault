@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Three Sights Worth Seeing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1979
@@ -89,8 +88,7 @@ Dear friends, are you believers in the Lord Jesus Christ? If you are, joy and re
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— 1 Thessalonians 1.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—433, 483, 331.
-
+## Hymns from "Our Own Hymn Book"—433, 483, 331
 
 ---
 [[Sermon 1978 Untitled Sermon|← #1978]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1980 Folly of Unbelief|#1980 →]]

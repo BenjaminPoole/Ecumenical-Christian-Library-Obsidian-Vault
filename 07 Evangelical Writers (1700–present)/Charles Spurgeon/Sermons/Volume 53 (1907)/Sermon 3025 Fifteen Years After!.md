@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Fifteen Years After!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3025
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thee LORD gave, and the LORD has taken away; blessed be the name of the LORD." Job 1:21.
 
@@ -98,7 +95,6 @@ The sky soon begins to clear when the Christian begins to say, "The Lord's will 
 As I speak thus, I am reminded that these comforting Truths of God belong only to true Believers. And as I send you away, I dare not put the words of my text into all your mouths, for, alas, some of you cannot see our Father's hand in anything that happens to you! You are without a parent, except that wicked one of whom Christ said to the Jews, "You are of your father, the devil, and the lusts of your father you will do." Yet, remember, you who cannot claim God as your Father, that the door of His Grace is not yet shut. He is still willing to receive you! If you will come to Him, confessing your sins and seeking mercy through the precious blood of Jesus, He is both able and willing to give you a new heart and a right spirit—to save you here and now—and to adopt you at once into His family! Then will you also be able to see His hand both in giving and in taking away—and you will also learn to bless His name at all times!
 
 If God the Lord shall deal thus graciously with you, His shall be the praise forever and ever. Amen.
-
 
 ---
 [[Sermon 3024 Christ's Death And Ours|← #3024]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3026 Vanity Deprecated|#3026 →]]

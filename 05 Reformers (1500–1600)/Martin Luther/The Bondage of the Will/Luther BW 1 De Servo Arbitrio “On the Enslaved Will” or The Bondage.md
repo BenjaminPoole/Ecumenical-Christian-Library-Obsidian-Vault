@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. De Servo Arbitrio “On the Enslaved Will” or The Bondage of Will About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## De Servo Arbitrio “On the Enslaved Will” or The Bondage of Will
 
 ### By
 

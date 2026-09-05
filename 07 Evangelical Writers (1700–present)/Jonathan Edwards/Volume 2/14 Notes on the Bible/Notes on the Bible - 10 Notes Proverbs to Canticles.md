@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Proverbs to Canticles
 
 [65] Prov. iv. 23. “Keep thy heart with all diligence, for out of it are the issues of life.” It is probable here is an allusion to the blood’s issuing from the heart. The heart is the fountain of the blood, which is called the life. Gen. ix. 4. and other places. Solomon was so great a philosopher, that doubtless he understood that the heart was the fountain of the blood.
 

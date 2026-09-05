@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 256
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the very well beloved and reverend brethren the presbyters Acacius, Aetius, Paulus, and Silvanus; the deacons Silvinus and Lucius, and the rest of the brethren the monks, Basil, the bishop.
 

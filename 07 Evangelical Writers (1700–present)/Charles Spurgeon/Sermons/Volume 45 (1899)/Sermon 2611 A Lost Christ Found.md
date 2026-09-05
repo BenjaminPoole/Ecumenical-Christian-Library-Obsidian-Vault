@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # A Lost Christ Found
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2611
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But they, supposing Him to have been in the company, went a day's journey; and they sought Him among their kinsfolk and acquaintances. And when they found Him not, they turned back, again, to Jerusalem, seeking Him. And it came to pass that after three days they found Him in the Temple sitting in the midst of the doctors, both hearing them and asking them questions." Luke 2:44-46.
 
@@ -113,7 +110,7 @@ And as for those of you who know not the Savior, what I have been saying is as n
 
 O awakened Sinner, here is Christ's message to you! "He that believes and is baptized shall be saved." Oh, that you would believe in Christ and be baptized! Oh, that God would help all of you who have nothing of your own, to give yourselves up to Christ and take Him to be your All-in-All! But, hardened Sinner, I send you away with those dreadful words which I repeated, just now, and I hope they will ring in your ears all the week—when you walk the streets, when you are on your bed, when you are at your meals—without God, without Christ, without hope and strangers to the commonwealth of Israel And, therefore, without Heaven! Those who have the earnest of Heaven even now have a blessed "hope which makes not ashamed." May that hope be given to you, my Hearers, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 57:10-21; 58:1-11.
+## Exposition by C. H. Spurgeon: Isaiah 57:10-21; 58:1-11
 
 The Prophet has been giving a very terrible description of the sin of the nation. We need not read it all, but at last he says this—
 
@@ -162,7 +159,6 @@ Isaiah 58:1, 2. Cry aloud, spare not, lift up your voice like a trumpet and show
 8\. 9. Then shall your light break forth as the morning, and your health shall spring forth speedily: then your righteousness shall go before you; the glory of the LORD shall be your reward. Then shall you call and the LORD shall answer; you shall cry, and He shall say, Here I am. If you take away from the midst of you the yoke, the pointing of the finger and speaking vanity. That is, if you shall take away all oppression, all wrong-doing to men, all talking of lies and speaking vanity, "Then shall your light break forth as the morning."
 
 10, 11. And if you draw out your soul to the hungry, and satisfy the afflicted soul; then shall your light rise in obscurity and your darkness be as the new day: and the LORD shall guide you continually, and satisfy your soul in drought, and make fat your bones: and you shall be like a watered garden, and like a spring of water, whose waters fail not What promises God gives to those who consider the poor and needy round about them! But if you shut your ears to the cry of the distressed, God will shut His ears to your cry.
-
 
 ---
 [[Sermon 2610 A Witness and a Partaker|← #2610]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2612 Questions and Answers Concerning Zion|#2612 →]]

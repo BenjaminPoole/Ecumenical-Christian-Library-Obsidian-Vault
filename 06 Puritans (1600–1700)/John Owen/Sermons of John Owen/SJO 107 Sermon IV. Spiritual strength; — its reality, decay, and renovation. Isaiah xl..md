@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon IV. Spiritual strength; — its reality, decay, and renovation. Isaiah xl. 31
-
-## Sermon IV. Spiritual strength; — its reality, decay, and renovation.
 
 Preached January 9, 1672.
 
@@ -59,7 +56,6 @@ Secondly, It is the way that God hath appointed for us to draw supplies of spiri
 I might speak of those things that are subordinate hereunto, because by this way of waiting upon God we mix his promises with faith, which God hath appointed; but I should then transgress my purpose and take up your time.
 
 I have spoken these words to direct you and myself to the true use of this duty, that we have so frequent opportunities for, that none of us may rest in the work done, or satisfy ourselves that we have been at such a duty so often, so long, but improve it to its proper end, which is waiting on God in times of backsliding, that we may renew our strength; the consequence whereof is in the next words, ‘We shall then mount up with wings as eagles; we shall run, and not be weary; and we shall walk, and not faint.’
-
 
 ---
 [[SJO 106 Sermon III. Faith’s answer to divine reproofs. Habakkuk ii. 1–4|← Sermon III. Faith’s answer to divine reproofs. Habakkuk ii. 1–4]] · [[Sermons of John Owen|Contents]] · [[SJO 108 Sermon V. Holiness urged from the liability of all things to dissolution. 2|Sermon V. Holiness urged from the liability of all things to dissolution. 2 Peter iii. 11 →]]

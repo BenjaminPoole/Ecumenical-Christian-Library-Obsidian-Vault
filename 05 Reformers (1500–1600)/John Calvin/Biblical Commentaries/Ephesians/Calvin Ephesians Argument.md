@@ -9,10 +9,7 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 Ephesus, which is familiarly known in history under a great variety of names, [^1] was a very celebrated city of Lesser Asia. The remarkable events connected with the work of God in “forming there a people for himself,” (Isaiah 43:21,) through the labors of Paul, together with the commencement and progress of that church, are related by Luke in the Acts of the Apostles. At present, I shall do nothing more than glance at what bears directly on the argument of the Epistle. The Ephesians had been instructed by Paul in the pure doctrine of the gospel. At a later period, while he was a prisoner at Rome, and perceiving that they needed confirmation, he wrote to them, on that account, the present Epistle.
 

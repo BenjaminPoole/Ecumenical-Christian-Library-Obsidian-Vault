@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Plain Directions To Those Who Would Be Saved From Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2033
 
-DELIVERED ON LORD'S DAY MORNING, JULY 15, 1888,.
+*Delivered on Lord's Day Morning, July 15, 1888*
 
 > "Stand in awe and sin not: commune with your own heart upon your bed and be still. Selah. Offer the sacrifices of righteousness, and put your trust in the Lord." Psalm 4:4,5.
 
@@ -170,7 +169,6 @@ Even now I feel eager to quit this feeble body at the bare thought of being with
 "My eyes shall see Him in that day, The God that died for me; And all my rising bones shall say, Lord, who is like to You?"
 
 May you and I, by God's Grace, behold our Redeemer when He shall stand in the latter day upon the earth! Amen.
-
 
 ---
 [[Sermon 2032 The Charge of the Angel|← #2032]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2034 Peter's Restoration|#2034 →]]

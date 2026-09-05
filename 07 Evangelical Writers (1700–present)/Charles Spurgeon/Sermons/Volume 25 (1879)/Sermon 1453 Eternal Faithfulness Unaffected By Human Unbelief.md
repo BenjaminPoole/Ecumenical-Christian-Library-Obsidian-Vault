@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Eternal Faithfulness Unaffected By Human Unbelief
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1453
-
-DELIVERED BY.
 
 > "If we believe not, yet He abides faithful: He cannot deny Himself." 2 Timothy 2:13.
 
@@ -147,7 +144,7 @@ Then up comes the first wave of the wash and another and another and another and
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Timothy 2. HYMNS FROM "OUR OWM HYMN BOOK"—192, 664, 196.
 
-TO MY BELOVED CHURCH AND CONGREGATION:
+## To My Beloved Church and Congregation
 
 DEAR FRIENDS—After a long and severe illness I am now on my way to the South of France to seek rest and gather strength in a less trying climate. The Church has requested me to take three months' furlough and as this corresponds with the serious counsel of physicians and judicious friends, I shall probably accept the considerate advice. I have promised to correspond with you and with my sermon readers, week by week, by a note appended to the sermon, or by a short discourse such as I have written during the last two weeks.
 
@@ -156,7 +153,6 @@ This, then, to commence with—I have reached Paris [Jan. 18, 1879] by easy stag
 You have united to celebrate the 25th year of my pastorate by noble testimonies which I have dedicated to the Lord's work. Now unite with even greater ardor in seeking a great, a surpassing, a crowning spiritual blessing! The Lord's own Word is, "Bring you all the tithes into the storehouse and prove Me now, herewith, if I will not open the windows of Heaven and pour you out a blessing, that you shall not have room enough to receive it." You have fulfilled the precept, now enquire for the promise!
 
 The Lord has guaranteed heavenly blessing, a Divine blessing, an overwhelming blessing—do not be content without it, or it will look as if you despised the promise of the Lord. We stand on vantage ground, now. Let us plead with double importunity, saying, "I will not let You go unless You bless me." Then will the windows open and the Divine hand pour out the benediction of His Spirit—and salvation shall come to multitudes through Christ Jesus our Lord. My love be with you all. Yours for Jesus' sake, C H. SPURGEON
-
 
 ---
 [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1455 Every Man's Necessity|#1455 →]]

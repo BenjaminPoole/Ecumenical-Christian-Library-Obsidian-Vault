@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Election-its Defenses and Evidences
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2920
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Knowing, brethren beloved, your election of God. For our Gospel came not unto you in word only, but also inpower, and in the Holy Spirit, and in much assurance... And you became followers of us, and of the Lord having received the word in much affliction, withjoy of the Holy Spirit." 1 Thessalonians 1:4-6.
 
@@ -101,7 +98,7 @@ Woe unto you, Scribes and Pharisees, who make your faces miserable that you may 
 
 But now, I think I hear some say, "Oh, I want to know whether I am elect. I cannot say that the Word ever came to me with power. I cannot say I received it in much assurance. I cannot say I am a follower of Christ. I cannot say I have received the Word with joy." Well, dear Beloved, then leave that question alone! Instead of that, let me ask another, "Do you believe in the Lord Jesus Christ? Will you now trust Christ to save your souls?" He will do it, if, just as you are, whoever you may be, you will come to Christ and give yourself up to Him to save you, to have you, to hold you for better, for worse, in life and through death. The moment you believe, you are saved! That act of faith, through the precious blood of Christ, will put away your every sin! You will not begin to be saved—you are saved. You will not be put into a salvable condition, but you shall be saved the moment you believe—completely and perfectly saved! "Oh," says one, "I would I could trust Christ." Say you so? "Whoever will, let him take," let him trust Christ. God help you now to do it! Trust Jesus and you are saved! This is addressed to every one of you without exception, for, "He that believes on the Son has everlasting life." The Lord help you to trust Jesus and then you may go on your way with joy, "knowing, brethren beloved, your election of God."
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS9:22-27.
+## Exposition by C. H. Spurgeon: 1 Corinthians 9:22-27
 
 The Apostle Paul is here giving a description of the way in which he made everything help toward the fulfillment of his desire to be a faithful minister of Jesus Christ. He longed to be the means of winning souls. He desired that at the last his Master might be able to say to him, "Well done, you good and faithful servant." And, therefore, everything with which he had to do was made to bend in that direction.
 
@@ -120,7 +117,6 @@ bodily frame might be tough and strong when they came forward to wrestle, or to 
 27\. But I keep under my body and bring it into subjection. The Greek word, according to some, implies getting his body into the same position as a man does when, in a sport encounter, he gets his adversary's head under his arm and smites him with all his might. So Paul says concerning his body, "I bring it into subjection and take care that it feels the full force of my will." According to other interpreters, the verse may be read, "I drag my body off as a slave"—just as in some of those ancient fights, the victors dragged away their antagonists as slaves, Paul accounted his body to be as a slave to his soul and dragged it behind him in chains.
 
 27\. Lest that by any means, when I have preached to others, I myself should be a castaway. The Greek word which is translated, "a castaway," is, "adokimos" It might better have been rendered, "disapproved." It certainly has no such meaning as that which has been generally given to it. Paul was not afraid of being cast away by God at the last! What he aimed at was this—as he had entered the lists, as a Christian minister, to fight for Christ, to wrestle against principalities and powers, to seek to win souls for Christ, he must keep his bodily powers and passions so in subjection that, at the last, when the prizes were distributed, he would be found to have won his. This is quite another matter from being "a castaway" from salvation and eternal life! Paul was saved and he knew it—and some of us know, to a certainty, that we are saved—but we also know that there is another crown to be won which the Lord will give to His servants who win in the great fight with sin. To win this crown is our high ambition and we long to hear the Master say to each one of us, in that day, "Well done, you good and faithful servant, you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your Lord."
-
 
 ---
 [[Sermon 2919 'Whose Goodness Never Fails'|← #2919]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2921 An Old-fashioned Remedy|#2921 →]]

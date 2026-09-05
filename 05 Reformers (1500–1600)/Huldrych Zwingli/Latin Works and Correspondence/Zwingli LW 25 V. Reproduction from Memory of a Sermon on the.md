@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 25. V. Reproduction from Memory of a Sermon on the Providence of God, Part 1
 
 Reproductiox from Memory of a Sermon on the Providence of God, Dedicated to His Highness, Philip op Hesse.
@@ -38,7 +37,7 @@ Moreover you make yourself an example not only to the learned but to all, both p
 
 But now I come back to myself. If, I say, my memory could recall all that I said in word and order of arrangement, nothing would delight me more than this opportunity of complying with your wishes. Since, however, the faithful retentiveness of memory, through which perhaps a Cato or a Seneca might recover it all, has been denied me, I will do this : I will write a short, but I think substantial, summary regarding Providence, dividing it into not more than seven chapters. When you examine them I think you will admit that you have received, if not the sermon itself, at least the same material and line of argument — all in homely and plain workmanship. Do then, brave hero, meantime so cultivate goodness and the knowledge of holy things that we shall all rejoice that the Prince of Hesse f is, according to the precept of Christ, our Saviour, as wise as a serpent and as harmless as a dove. May He long preserve you to His cause! Amen.^ Ziirich, 1530.
 
-FIRST CHAPTER
+## First Chapter
 
 Providence must exist, because the supreme good necessarily cares for and regulates all things.
 
@@ -68,15 +67,13 @@ On the Providence of God 133 nature of supreme truth to see through all things c
 
 Suppose, in the second place, that being the supreme good, he inclines with favor towards the things he has made but is not able to regulate or help them. Then he is no longer the supreme, nor that might which has power over all things. Therefore, he is not God. And if he is not God, he is not the supreme good nor the very truth. Suppose, finally, that he is indeed the truth which sees thoroughly into all things, but that he either cannot or will not care for the things which are objects to his knowledge. Could any one imagine such a poverty-stricken and envious yet wise being, who foreseeingthe needs of his creatures yet from lack of power and means could not establish nor help them, or, if he could, would not because of jealousy? You make God powerless, weak, infirm, as well as jealous, gloomy and cruel.
 
-134 The Works of Huldreich Zwingli
-
 Such a being is so far from being God that under such a definition we include the evil spirit or even that blind reckless spirit the Greeks called "Attj *.
 
 I think it is now established that Providence exists and must exist, since it has been proved that the Supreme Divinity is light, sincerity, purity, simplicity, completeness, that is, truth. For since He sees all things, unless He also regulates all things, it is because of lack of power or of good intention. But since this same Divinity is both all power and in all respects good and kind, it is clear that He not only knows all things, but regulates, orders and disposes all things. Of this more at length by and by. Meantime I can easily show that the things we attribute to the Father, Son and Holy Ghost, who are yet one God and Divinity, derive their origin from this source. For in the sacred Scriptures omnipotence is attributed to the Father, grace and goodness to the Son, truth to the Holy Ghost. Yet all these we know belong to one and the same divine being, f just as here I have shown that power, goodness, and truth, though distinguished in conception and definition, are yet to be considered as one and the same supreme good.
 
 As the Father is almighty, the Son gracious and the earnest of mercy, the Holy Ghost the spirit of truth, and all three by nature are one God, so is the Divine Being omnipotent, good and true by nature.
 
-SECOND CHAPTER
+## Second Chapter
 
 What Providence is and how it differs from Wisdom.
 
@@ -106,11 +103,9 @@ Moreover, I called the direction and regulation unchangeable for this reason, th
 
 Finally, I defined Providence as the rule over and direction of all things in the universe. For if anything were guided by its own power or insight, just so far would the wisdom and power of our Deity be deficient. And if this happened, the wisdom of the Deity would not be supreme, because it would not include and comprehend all things. Nor would His might be all powerful, because there would be a might independent of its power and therefore different from it. Thus there would be a force which was not the force of the Deity, and light and intelligence which were not the wisdom of that Supreme Deity. And then, if that second light and power were said to have been created, it could not have been created except by the Deity, and if it is from the Deity, power and wisdom of its own cannot rightly be attributed to it. For it would have these by derivation from the Deity, like all created things, nay the light and power would belong to the Deity Himself. If, on the other hand, that light and power were said not to have been created, then they would be a God, and we have a multiplication of gods brought in again. For all power is either created or uncreated. If uncreated, it is Deity and God. If created, it must be the creation of that Deity. Yet this so-called created power, since all power is the power of the Deity, — for there is nothing which is not from that, in that and through that Deity, nay is not a part of
 
-138 The Works of Huldreich Zwingli
-
 Himself, — this power is said to have been created, I say, because it is a manifestation of the general, all-embracing power in a new individual form. Moses, Paul, Plato, Seneca are witnesses. There is then, nothing which is not ruled by the Deity, nothing so high or powerful that it can avoid the sway of our Deity, nothing so lowly or humble that it is abhorrent to His care. All this will be set forth more at length and clearly in the sequel. It is enough in the present chapter to have shown that wisdom, goodness, and might, that is, to use the original terms, truth, goodness, and power, are what necessarily constitute Providence, and that Providence is the eternal and unchangeable government and direction of all things in the universe.
 
-THIRD CHAPTER
+## Third Chapter
 
 Secondary causes are not properly called causes. This is of fundamental importance for the understanding of Providence.
 
@@ -152,8 +147,6 @@ On the Providence of God 143 ence, the second, that the Deity which is the origi
 
 If, on the contrary. He took from Himself this existence which he gave to His works and creatures, everything that is, ia in Him and through Him and a part of Him. For since there must be some one original existence, everything which has come into existence, came into it from this original. Not as though the existence of created beings were so utterly different from that of the Deity, but of the same kind, from the same source and parent. This I want understood in this way : If any one should reject our disjunction that the existence given to things must be either borrowed from something else than the Supreme Deity or derived from this Deity Himself, maintaining that this disjunction was not exhaustive because a new kind of existence ^ might have been given to things by the Deity which He did not take from His own nor borrow from another, which new existence of the creature was different from the existence of the Deity, he shall have this answer, that there is only one thing infinite by nature. For if two different essences were declared to be infinite, no less difficulty would follow than if one maintained that light was darkness. For in whatever direction one of the infinites was stretched out and extended, there the other would have to be curtailed or removed. Now since the infinite, as a fact, is so-called just because it is infinite in essence and existence, it is clear that outside of this infinite there can be no existence. For whatever such you grant, where this outside existence is, there the infinite will not be, and, therefore, it will not be infinite. Since, therefore, there is but one infinite, nothing can exist outside of it. And from this it follows that whatever is, is in it, nay, what is and exists comes from it, and since it does not come from it in the sense that its being and existence is different from its own, it is certain that as far as being and existence are concerned, there is nothing which is not of the Deity. For it is the being of all things.
 
-144 The Works of Huldreich Zwingli
-
 This opinion, treated rather philosophically,* as it has been (although why call that philosophical which is sacred and according to religion, except that some people do not hesitate to make the truth odious, attributing it to the philosophers and not noting that the truth, wherever found and by whomever brought out is from the Holy Spirit), this opinion, I say, I will support first by an example and then by Scripture.
 
 The example is this. Take the earth, a plant, an animal, anything you will, except man (for of him I will treat separately, as I said) , and consider the thing you have taken as regards its essence and existence, not as regards its particular substance or kind, but, as has been said, as regards its essence and existence alone; you will see that each of these exists forever. For though the animal breathe out its life, it returns into the air and as it were pays back what it had received ; when it lays aside its body, it presently ceases to be an animal, but it does not cease to be. For it suffers the body which it has returned to the earth to be with her, nay to be earth until some new form is brought forth from it, which, afterwards, also loses its form, returns to the earth, and again produces something new, and this continues as long as the earth keeps the character with which it is now endowed. The earth, having once begun its existence, never loses it, for though it shall put on sometime another form, yet it will never cease to be.
@@ -189,8 +182,6 @@ Now I will bring in the testimony in support of this view, as I promised, having
 When Moses asked the name of God, the answer came from heaven, ''I AM THAT I AM," and God added, 'Thus shalt thou say unto the children of Israel, *I AM hath sent me unto you.' " These words are to be understood in the sense that the second "am" of the expression I AM THAT I AM shall have its force heightened Kar' empaaiv, by special emphasis. If this is not done, you have the most lifeless and empty form of speech possible, as when you say, ''A man is a man," "an animal is an animal," and the like. For what light do they convey to the human understanding? What do they tell? The second "am" then, has this emphasis "that really am," or, "that am the very being of all things," as the fathers divinely inspired, have explained it before me. And this very thing is also shown by the fact that presently He calls Himself "The I exist" as it were, as the one who not only Himself exists, v but who bestows existence upon all things that exist. For if anything existed by its own powers, God would have said nothing more than if one declared himself to be the lieutenant of one who existed. He calls Himself "The I exist," then for this reason that He both exists of Himself, and furnishes unto others the foundation and basis of being and existence, so that nothing is or exists which does not have its being and existence of Him and in Him. I should certainly shrink from coining an unheard of word, unless I saw that he really says more who calls
 
 *Rudolf Eucken, in his Geschichte der philosophischen Terminologie, p. 25, defines entelecheia as a condition of completion, a real existence and activity, as over against a mere capability and potentiality. The term itself is derived from Aristotle, see the latter's Metaphysics, Bk. X, chap. 9.
-
-148 The Works of Huldreich Zwingli
 
 God, "Existonem," 'The I exist," than "existentem, ''the Existing," and unless this form approached more nearly the spirit of the Hebrew word nTIS , "I am." Since then "to be" and "to exist" are prior to "to live" or "to act," nay are the basis ^of these, it follows that all that lives and acts, has its life and activity from Him and in Him, from whom and in whom it has its being and existence. Of which more clearly later.
 
@@ -270,8 +261,6 @@ Whatever means and instruments, therefore, are called causes, are not properly s
 
 Compare Ex. 33: 11 with 33: 20.
 
-156 The Works of Huldreich Zwingli
-
 But as far as authority and real cause are concerned, he saw God. Hence Paul says [Gal. 3: 19] that the law was given into the hand of the mediator Moses by the angels, that is, the angels were the deputies and officers in charge, while in Exodus the law is said to have been given to Moses by God in person talking in a friendly way with Moses after human fashion. It is for the same reason that we assign to the sun and the stars things that belong to God alone. For He is in the stars themselves, nay, the stars, being of Him and in Him, have not their own essence, power, and activity, but God's.
 
 They are, therefore, instruments by which the power of the Godhead shows its active" presence. For it was for this that He created things, that He might use them for the mutual benefit of each other, so that that wonderful example of the divine wisdom, man, might everywhere contemplate the Deity, and in all things and in himself still more closely perceive God existing, living and working, as he gazed upon His power and activity and nature in all the things that are or take place.
@@ -310,7 +299,7 @@ On the other hand, if anything takes place by chance and at random, if anything 
 
 On the Providence of God 159 thing runs forth as if from the starting place of a race course. But now I come to man.
 
-FOURTH CHAPTER
+## Fourth Chapter
 
 Regarding man and why the law was given to him when all things are directed by Divine Providence.
 
@@ -345,8 +334,6 @@ The soul is never so kept under that it forgets itself forever, it is never so d
 Here arise for us two very great questions. First, why, then, did God create man so unhappy a being, who is never at peace with himself? Second, why is the spirit given over to everlasting torment when it is overcome and kept under by the flesh, though the flesh is just as much a part of man as the spirit, and he received both from God the Creator Himself?
 
 To the first question Paul would answer, may not the potter make different kinds of vessels from the same lump [Rom. 9: 21] ? Has God not the right to join spirit and clay? Man can mould clay into varied forms, but he cannot give them breath and make them live. Unless God could make a living being from the dull, senseless matter, He would be no way superior to any artisan. But as it is, when He makes earth not only living but also intelligent and attentive to the divine (let both body and soul ever keep their peculiar characteristics, provided the nature of each is treated separately), He shows how
-
-164 The Works of Huldreich Zwingli
 
 He is above the skill and wisdom of all. Oh, the depth of the wisdom and bounty of God! Oh, on the other hand, how ignorant and inexperienced in things we poor mortals are, who, asking why God created man in his present condition, have not yet learned that this question is suggested by the flesh, which does not only demand an account of the spirit, which is bound by a certain weight and check, but ventures to demand even of God the reason of His actions ! Why madest Thou me so? Yet no mortal knows the sources of any art or science so well as not to be ignorant of some things that belong to it, and nothing that we see is so gross and coarse and big that we can give a reason for its formation in detail.
 

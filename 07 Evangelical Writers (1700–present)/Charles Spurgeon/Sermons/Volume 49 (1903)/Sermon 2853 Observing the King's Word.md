@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Observing the King's Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2853
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now the men did diligently observe whether anything would come from him, and did hastily catch it." 1 Kings 20:33.
 
@@ -109,7 +106,7 @@ And then the suppliant lives."
 
 He does command your touch! So stretch out your hand! Trust Him and you are saved! Your sins, which are many, are all forgiven you because you have believed on the name of the only-begotten Son of God! Go in peace, for Jesus Christ has made you whole! The Lord be with you! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS20:1-34.
+## Exposition by C. H. Spurgeon: 1 Kings 20:1-34
 
 Verses 1-4. And Ben-Hadad the king of Syria gathered all his host together: and there were thirty-two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it And he sent messengers to Ahab, king of Israel, into the city, and said unto him, Thus said Ben-Hadad, Your silver and your gold is mine, your wives also and your children, even the goodliest, are mine. And the king of Israel answered and said, My lord, O king, according to your saying, I am yours, and all that I have. This was a king of Israel, meanly crouching before the idolatrous king of Syria! Not after this fashion would David have spoken, or any of those kings who followed the Lord of Hosts. But when men forsake God, they soon become cowards. What Kingdom or nation shall prosper that casts off the yoke of the Most High?
 
@@ -148,7 +145,6 @@ allow it once to have power over your soul, it will push its advantage further a
 32\. Says, Ipray you, let me live. And he said, Is he yet alive? He is my brother. When a man leaves his God, he cannot distinguish between his foes and his friends, so that, oftentimes, those who would do him the direst mischief he reckons to be his brothers.
 
 33, 34. Now the men did diligently observe whether anything would come from him, and did hastily catch it: and they said, Your brother Ben-Hadad. Then he said, Go you, bring him. Then Ben-Hadad came forth to him, andhe caused him to come up into the chariot. And Ben-Hadad said unto him, The cities which my father took from your father, I will restore; and you shall make streets for you in Damascus, as my father made in Samaria. Then said Ahab, I will send you away with this covenant. So he made a covenant with him, and sent him away. Ahab actually made a treaty of peace with him, and let him live to plot incalculable mischief against the nation.
-
 
 ---
 [[Sermon 2852 Comfort for the Fearful|← #2852]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2854 Lame Sheep|#2854 →]]

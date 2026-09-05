@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 152. Matthew 18:15-20; Luke 17:3
-
-**Matthew 18:15-20; Luke 17:3**
 
 **15**. But if thy brother hath sinned against thee, go and reprove him between thee and him alone: if he shall hear thee, thou hast gained thy brother. **16**. But if he shall not hear thee, take with thee one or two more, that in the mouth of two or three witnesses every word may be confirmed: and if he shall not hear them, tell the church. **17**. And if he shall not hear the church, let him be to thee as a heathen and a publican. **18**. Verily, I say to thee, What things soever you shall bind on earth [^1] shall be bound also in heaven; and what things soever you shall loose on earth shall be loosed also in heaven. **19**. Again, I say to you, That if two of you shall agree on earth as to every thing which they shall ask, [^2] it will be done to them by any Father who is in heaven. **20**. For where two or three are assembled [^3] in my name, there am I in the midst of them.
 

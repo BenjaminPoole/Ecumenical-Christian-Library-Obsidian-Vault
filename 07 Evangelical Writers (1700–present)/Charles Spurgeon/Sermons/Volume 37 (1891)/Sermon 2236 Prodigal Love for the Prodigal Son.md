@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Prodigal Love for the Prodigal Son
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2236
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And kissed him." Luke 15:20.
 
@@ -160,7 +157,6 @@ and sisters—get another kiss from your Father! Perhaps the reason it is writte
 Lord, give to many poor trembling souls the will to come to You! Bring many sinners to Your blessed feet and while they are yet a great way off, run and meet them! Fall on their neck, give them many kisses of love and fill them to the full with heavenly delight, for Jesus Christ's sake! Amen.
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—Luke 15.
-
 
 ---
 [[Sermon 2235 A Warrant for Your Apprehension|← #2235]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2237 Gratitude for Deliverance from the Grave|#2237 →]]

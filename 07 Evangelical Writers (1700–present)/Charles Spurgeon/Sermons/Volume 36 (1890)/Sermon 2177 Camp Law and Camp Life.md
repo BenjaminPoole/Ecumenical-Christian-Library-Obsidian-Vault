@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Camp Law and Camp Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2177
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the Lord your God walks in the midst of your camp, to deliver you, and to give up your enemies before you, therefore shall your camp be holy that He sees no unclean thing in you, and turn away from you." Deuteronomy 23:14.
 
@@ -152,7 +149,6 @@ Lose all their guilty stains."
 Ransomed sinners may dwell among us, in whatever place they shall choose! Neither will we oppress them with hard questions or irksome duties, but we will bind them to be free as we are ourselves bound to liberty in the name of the Lord our God! God bless you, dear Friends, and during my absence may you be fed with the finest of the wheat! May the blessing of the Lord rest upon you! If we do not meet again in this wilderness below, may we meet, when camp life is over, in the City above, to go no more out forever! The blessing of the Lord rest on you evermore!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— 1 Peter 2.
-
 
 ---
 [[Sermon 2176 The Lord No More Angry with His People|← #2176]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2178 Zedekiah—or, the Man Who Cannot Say, No|#2178 →]]

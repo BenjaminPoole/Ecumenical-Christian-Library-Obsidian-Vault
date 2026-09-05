@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Way
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 942
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 24, 1870,.
+*Delivered on Lord's-Day Morning, July 24, 1870*
 
 > "Jesus said unto him, I am the way." John 14:6.
 
@@ -180,7 +179,6 @@ Ah, cast not your soul away out of mere hate to God, but kiss Him whom God has m
 You are a great sinner, but He is a greater Savior. Do not say that you have matched Christ, or overmatched Him. Come, Goliath Sinner, the Son of David can conquer you or save you yet—"Though your sins are as scarlet, they shall be as white as snow. Though they are red like crimson, they shall be as wool." Think of David, how foully he had transgressed, yet with all the lust stains, and the murder spots upon him, he had faith enough to say, "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
 
 And so shall you be whiter than snow, when once the bloody sacrifice of Christ in all its merit has become yours, as it may this very morning if you simply trust in Him. May my God the Eternal Spirit, may my God the blessed Father, may my God, even Jesus the Son, draw many reluctant hearts now, and His shall be the praise. Amen.
-
 
 ---
 [[Sermon 0941 The Tender Pity of the Lord|← #941]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0943 The Spur|#943 →]]

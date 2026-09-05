@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Expected Proof of Professed Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1522
-
-DELIVERED BY.
 
 > "Show you the proof of your love." 2 Corinthians 8:24.
 
@@ -106,7 +103,6 @@ But possibly there are some here who have had in their minds the project of doin
 Perhaps I am addressing a young man who has been, for years, a member of the Church and it is crossing his mind, "What shall I do to show my love?" And, perhaps, it is his ambition to be a missionary in a distant land. Keep not yourself back, my dear young Brother! Should it rend a fond connection, or cost you your life, give Jesus such proof of your love as His Spirit suggests to you! Or is it that you ought to speak to people about their souls? The Lord will throw somebody in your way. Give a proof of your love by a holy bravery and speak right out for Jesus Christ and do not be ashamed. The Lord invites you to a closer fellowship with Himself, to come higher up the mount of God and to be more thoroughly consecrated. Then show Him the proof of your love!
 
 I leave this with you. If you love Him, show it! If you do not love Him, tremble! I will not repeat what the Scripture says, as though it came from myself, but I would have you remember it. Paul says, "If any man love not the Lord Jesus Christ, let him be anathema maranatha"—cursed with a curse at the coming of Christ. So it must be if you love not Christ. Oh, if you love Him, be inventive! Think of a new thing that nobody else ever did for Jesus! Strike out a fresh path. Deny yourselves comforts to have the comfort of proving your love, as His Spirit shall guide and help you. And to His name be praise evermore. Amen and Amen.
-
 
 ---
 [[Sermon 1521 A Plain Answer to an Important Enquiry|← #1521]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1523 The Royal Prerogative|#1523 →]]

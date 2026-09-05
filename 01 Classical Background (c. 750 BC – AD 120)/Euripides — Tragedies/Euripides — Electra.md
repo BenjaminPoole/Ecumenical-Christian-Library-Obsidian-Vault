@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # The Electra of Euripides
 *trans. Gilbert Murray*
 
@@ -19,29 +18,22 @@ tags:
 
 ---
 
-THE
+## The
 
-ELECTRA
+## Electra
 
 OF
 
-EURIPIDES
+## Euripides
 
+## Gilbert Murray, Ll.d., D.litt
 
-TRANSLATED INTO ENGLISH RHYMING VERSE
-WITH EXPLANATORY NOTES BY
+## Regius Professor of Greek in the University of Oxford
 
-GILBERT MURRAY, LL.D., D.LITT.
-
-REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD
-
-
-FORTY-SECOND THOUSAND
-
+## Forty-Second Thousand
 
 LONDON: GEORGE ALLEN & UNWIN LTD
 RUSKIN HOUSE, 40 MUSEUM STREET, W.C.1
-
 
 _First Edition, November_ 1905
 _Reprinted, November_ 1906
@@ -60,7 +52,6 @@ _Reprinted, November_ 1906
 
 _(All rights reserved)_
 
-
 PERFORMED AT
 THE COURT THEATRE, LONDON
 IN 1907
@@ -68,11 +59,7 @@ IN 1907
 _Printed in Great Britain by
 Unwin Brothers Ltd., Woking_
 
-
-
-
 Introduction[1]
-
 
 The _Electra_ of Euripides has the distinction of being, perhaps, the best
 abused, and, one might add, not the best understood, of ancient tragedies.
@@ -187,16 +174,9 @@ G.M.
 permission of the Editors, from an article in the _Independent Review_
 vol. i. No. 4.]
 
+## Electra
 
-
-
-ELECTRA
-
-
-
-
-  CHARACTERS IN THE PLAY
-
+## Characters in the Play
 
 CLYTEMNESTRA, _Queen of Argos and Mycenae; widow of Agamemnon_.
 
@@ -222,17 +202,13 @@ FOLLOWERS of ORESTES; HANDMAIDS of CLYTEMNESTRA.
 _The Scene is laid in the mountains of Argos. The play was first produced
 between the years_ 414 _and_ 412 B.C.
 
-
-
-
-  ELECTRA
-
+## Electra
 
 _The scene represents a hut on a desolate mountain side; the river Inachus
 is visible in the distance. The time is the dusk of early dawn, before
 sunrise. The_ PEASANT _is discovered in front of the hut_.
 
-PEASANT.
+## Peasant
 
 Old gleam on the face of the world, I give thee hail,
 River of Argos land, where sail on sail
@@ -307,7 +283,7 @@ Of love by his own heart's untenderness.
 and carries a large pitcher on her head. She speaks without observing the_
 PEASANT'S _presence_.
 
-ELECTRA.
+## Electra
 
 Dark shepherdess of many a golden star,
 Dost see me, Mother Night? And how this jar
@@ -325,7 +301,7 @@ She hath made me naught, she hath made Orestes naught....
 
 [_As the bitterness of her tone increases, the_ PEASANT _comes forward._
 
-PEASANT.
+## Peasant
 
 What wouldst thou now, my sad one, ever fraught
 With toil to lighten my toil? And so soft
@@ -347,7 +323,7 @@ Thou hast enough with fields and kine to keep;
 'Tis joy to him that toils, when toil is o'er,
 To find home waiting, full of happy things.
 
-PEASANT.
+## Peasant
 
 If so it please thee, go thy way. The springs
 Are not far off. And I before the morn
@@ -358,7 +334,7 @@ A man's bare bread, save an he work amain.
 [ELECTRA _and the_ PEASANT _depart on their several ways. After a few
 moments there enter stealthily two armed men,_ ORESTES _and_ PYLADES.
 
-ORESTES.
+## Orestes
 
 Thou art the first that I have known in deed
 True and my friend, and shelterer of my need.
@@ -398,7 +374,7 @@ Of import to this work of mine and thine.
 [_The two men retire into ambush._ ELECTRA _enters, returning from the
 well._
 
-ELECTRA.
+## Electra
 
   Onward, O labouring tread,
     As on move the years;
@@ -479,8 +455,7 @@ Through shame and through blood alone;
 [_As she ceases there enter from right and left the_ CHORUS, _consisting
 of women of Argos, young and old, in festal dress_.
 
-
-  CHORUS.
+## Chorus
 
   _Some Women._
 
@@ -498,7 +473,7 @@ For the morrow's morrow now
 And before her throne shall bow
   Our damsels all.
 
-ELECTRA.
+## Electra
 
 Not unto joy, nor sweet
   Music, nor shining of gold,
@@ -517,8 +492,7 @@ Is it meet for the King my sire,
 For Troy, that was burned with fire
     And forgetteth not?
 
-
-  CHORUS.
+## Chorus
 
   _Other Women._
 
@@ -536,7 +510,7 @@ Not tears for the dead nor sighs,
 Shall win thee peace in thy skies,
   O daughter mine!
 
-ELECTRA.
+## Electra
 
 No care cometh to God
   For the voice of the helpless; none
@@ -555,7 +529,7 @@ Starve in my soul for food;
 In another's arms, and blood
     Is about her bed.
 
-LEADER.
+## Leader
 
 On all of Greece she wrought great jeopardy,
 Thy mother's sister, Helen,--and on thee.
@@ -564,7 +538,7 @@ Thy mother's sister, Helen,--and on thee.
 forward_: PYLADES _beckons to two_ ARMED SERVANTS _and stays with them in
 the background_.
 
-ELECTRA.
+## Electra
 
 Woe's me! No more of wailing! Women, flee!
 Strange armèd men beside the dwelling there
@@ -582,110 +556,110 @@ ELECTRA (_in utter panic_).
 O bright Apollo! Mercy! See, I kneel;
 Slay me not.
 
-ORESTES.
+## Orestes
 
      Others I have yet to slay
 Less dear than thou.
 
-ELECTRA.
+## Electra
 
       Go from me! Wouldst thou lay
 Hand on a body that is not for thee?
 
-ORESTES.
+## Orestes
 
 None is there I would touch more righteously.
 
-ELECTRA.
+## Electra
 
 Why lurk'st thou by my house? And why a sword?
 
-ORESTES.
+## Orestes
 
 Stay. Listen! Thou wilt not gainsay my word.
 
-ELECTRA.
+## Electra
 
 There--I am still. Do what thou wilt with me.
 Thou art too strong.
 
-ORESTES.
+## Orestes
 
       A word I bear to thee...
 Word of thy brother.
 
-ELECTRA.
+## Electra
 
       Oh, friend! More than friend!
 Living or dead?
 
-ORESTES.
+## Orestes
 
        He lives; so let me send
 My comfort foremost, ere the rest be heard.
 
-ELECTRA.
+## Electra
 
 God love thee for the sweetness of thy word!
 
-ORESTES.
+## Orestes
 
 God love the twain of us, both thee and me.
 
-ELECTRA.
+## Electra
 
 He lives! Poor brother! In what land weareth he
 His exile?
 
-ORESTES.
+## Orestes
 
            Not one region nor one lot
 His wasted life hath trod.
 
-ELECTRA.
+## Electra
 
                            He lacketh not
 For bread?
 
-ORESTES.
+## Orestes
 
          Bread hath he; but a man is weak
 In exile.
 
-ELECTRA.
+## Electra
 
 What charge laid he on thee? Speak.
 
-ORESTES.
+## Orestes
 
 To learn if thou still live, and how the storm,
 Living, hath struck thee.
 
-ELECTRA.
+## Electra
 
       That thou seest; this form
 Wasted...
 
-ORESTES.
+## Orestes
 
           Yea, riven with the fire of woe.
 I sigh to look on thee.
 
-ELECTRA.
+## Electra
 
                         My face; and, lo,
 My temples of their ancient glory shorn.
 
-ORESTES.
+## Orestes
 
 Methinks thy brother haunts thee, being forlorn;
 Aye, and perchance thy father, whom they slew...
 
-ELECTRA.
+## Electra
 
 What should be nearer to me than those two?
 
-ORESTES.
+## Orestes
 
 And what to him, thy brother, half so dear
 As thou?
@@ -694,7 +668,7 @@ ELECTRA.
          His is a distant love, not near
 At need.
 
-ORESTES.
+## Orestes
 
          But why this dwelling place, this life
 Of loneliness?
@@ -704,27 +678,27 @@ ELECTRA (_with sudden bitterness_).
                Stranger, I am a wife....
 O better dead!
 
-ORESTES.
+## Orestes
 
                That seals thy brother's doom!
 What Prince of Argos...?
 
-ELECTRA.
+## Electra
 
                          Not the man to whom
 My father thought to give me.
 
-ORESTES.
+## Orestes
 
                               Speak; that I
 May tell thy brother all.
 
-ELECTRA.
+## Electra
 
                           'Tis there, hard by,
 His dwelling, where I live, far from men's eyes.
 
-ORESTES.
+## Orestes
 
 Some ditcher's cot, or cowherd's, by its guise!
 
@@ -733,97 +707,97 @@ ELECTRA (_struck with shame for her ingratitude_).
 A poor man; but true-hearted, and to me
 God-fearing.
 
-ORESTES.
+## Orestes
 
              How? What fear of God hath he?
 
-ELECTRA.
+## Electra
 
 He hath never held my body to his own.
 
-ORESTES.
+## Orestes
 
 Hath he some vow to keep? Or is it done
 To scorn thee?
 
-ELECTRA.
+## Electra
 
                              Nay; he only scorns to sin
 Against my father's greatness.
 
-ORESTES.
+## Orestes
 
                                 But to win
 A princess! Doth his heart not leap for pride?
 
-ELECTRA.
+## Electra
 
 He honoureth not the hand that gave the bride.
 
-ORESTES.
+## Orestes
 
 I see. He trembles for Orestes' wrath?
 
-ELECTRA.
+## Electra
 
 Aye, that would move him. But beside, he hath
 A gentle heart.
 
-ORESTES.
+## Orestes
 
                 Strange! A good man.... I swear
 He well shall be requited.
 
-ELECTRA.
+## Electra
 
                             Whensoe'er
 Our wanderer comes again!
 
-ORESTES.
+## Orestes
 
                           Thy mother stays
 Unmoved 'mid all thy wrong?
 
-ELECTRA.
+## Electra
 
                             A lover weighs
 More than a child in any woman's heart.
 
-ORESTES.
+## Orestes
 
 But what end seeks Aegisthus, by such art
 Of shame?
 
-ELECTRA.
+## Electra
 
           To make mine unborn children low
 And weak, even as my husband.
 
-ORESTES.
+## Orestes
 
                               Lest there grow
 From thee the avenger?
 
-ELECTRA.
+## Electra
 
                        Such his purpose is:
 For which may I requite him!
 
-ORESTES.
+## Orestes
 
                              And of this
 Thy virgin life--Aegisthus knows it?
 
-ELECTRA.
+## Electra
 
                                      Nay,
 We speak it not. It cometh not his way.
 
-ORESTES.
+## Orestes
 
 These women hear us. Are they friends to thee?
 
-ELECTRA.
+## Electra
 
 Aye, friends and true. They will keep faithfully
 All words of mine and thine.
@@ -834,7 +808,7 @@ ORESTES (_trying her_).
 With friends. And could Orestes give thee aid
 In aught, if e'er...
 
-ELECTRA.
+## Electra
 
                      Shame on thee! Seest thou not?
 Is it not time?
@@ -844,71 +818,71 @@ ORESTES (_catching her excitement_).
                 How time? And if he sought
 To slay, how should he come at his desire?
 
-ELECTRA.
+## Electra
 
 By daring, as they dared who slew his sire!
 
-ORESTES.
+## Orestes
 
 Wouldst thou dare with him, if he came, thou too,
 To slay her?
 
-ELECTRA.
+## Electra
 
              Yes; with the same axe that slew
 My father!
 
-ORESTES.
+## Orestes
 
            'Tis thy message? And thy mood
 Unchanging?
 
-ELECTRA.
+## Electra
 
             Let me shed my mother's blood,
 And I die happy.
 
-ORESTES.
+## Orestes
 
                  God!... I would that now
 Orestes heard thee here.
 
-ELECTRA.
+## Electra
 
                          Yet, wottest thou,
 Though here I saw him, I should know him not.
 
-ORESTES.
+## Orestes
 
 Surely. Ye both were children, when they wrought
 Your parting.
 
-ELECTRA.
+## Electra
 
               One alone in all this land
 Would know his face.
 
-ORESTES.
+## Orestes
 
                      The thrall, methinks, whose hand
 Stole him from death--or so the story ran?
 
-ELECTRA.
+## Electra
 
 He taught my father, too, an old old man
 Of other days than these.
 
-ORESTES.
+## Orestes
 
                           Thy father's grave...
 He had due rites and tendance?
 
-ELECTRA.
+## Electra
 
                                What chance gave,
 My father had, cast out to rot in the sun.
 
-ORESTES.
+## Orestes
 
 God, 'tis too much!... To hear of such things done
 Even to a stranger, stings a man.... But speak,
@@ -919,13 +893,13 @@ Remember, 'tis the fool that feels not. Aye,
 Wisdom is full of pity; and thereby
 Men pay for too much wisdom with much pain.
 
-LEADER.
+## Leader
 
 My heart is moved as this man's. I would fain
 Learn all thy tale. Here dwelling on the hills
 Little I know of Argos and its ills.
 
-ELECTRA.
+## Electra
 
 If I must speak--and at love's call, God knows,
 I fear not--I will tell thee all; my woes,
@@ -976,66 +950,66 @@ His father slew Troy's thousands in their pride;
 He hath but one to kill.... O God, but one!
 Is he a man, and Agamemnon's son?
 
-LEADER.
+## Leader
 
 But hold: is this thy husband from the plain,
 His labour ended, hasting home again?
 
 _Enter the_ PEASANT.
 
-PEASANT.
+## Peasant
 
 Ha, who be these? Strange men in arms before
 My house! What would they at this lonely door?
 Seek they for me?--Strange gallants should not stay
 A woman's goings.
 
-ELECTRA.
+## Electra
 
                   Friend and helper!--Nay,
 Think not of any evil. These men be
 Friends of Orestes, charged with words for me!...
 Strangers, forgive his speech.
 
-PEASANT.
+## Peasant
 
                                What word have they
 Of him? At least he lives and sees the day!
 
-ELECTRA.
+## Electra
 
 So fares their tale--and sure I doubt it not!
 
-PEASANT.
+## Peasant
 
 And ye two still are living in his thought,
 Thou and his father?
 
-ELECTRA.
+## Electra
 
                      In his dreams we live.
 An exile hath small power.
 
-PEASANT.
+## Peasant
 
                           And did he give
 Some privy message?
 
-ELECTRA.
+## Electra
 
                     None: they come as spies
 For news of me.
 
-PEASANT.
+## Peasant
 
                 Thine outward news their eyes
 Can see; the rest, methinks, thyself will tell.
 
-ELECTRA.
+## Electra
 
 They have seen all, heard all. I trust them well.
 
-PEASANT.
+## Peasant
 
 Why were our doors not open long ago?--
 Be welcome, strangers both, and pass below
@@ -1054,11 +1028,11 @@ ORESTES (_aside to_ ELECTRA).
 Is this the man that shields thy maidenhood
 Unknown, and will not wrong thy father's blood?
 
-ELECTRA.
+## Electra
 
 He is called my husband. 'Tis for him I toil.
 
-ORESTES.
+## Orestes
 
 How dark lies honour hid! And what turmoil
 In all things human: sons of mighty men
@@ -1085,25 +1059,25 @@ Of man's divining, God will fail us not.
 
 [ORESTES _and_ PYLADES _go in, following the_ SERVANTS.
 
-LEADER.
+## Leader
 
 O never was the heart of hope so hot
 Within me. How? So moveless in time past,
 Hath Fortune girded up her loins at last?
 
-ELECTRA.
+## Electra
 
 Now know'st thou not thine own ill furniture,
 To bid these strangers in, to whom for sure
 Our best were hardship, men of gentle breed?
 
-PEASANT.
+## Peasant
 
 Nay, if the men be gentle, as indeed
 I deem them, they will take good cheer or ill
 With even kindness.
 
-ELECTRA.
+## Electra
 
                     'Twas ill done; but still--
 Go, since so poor thou art, to that old friend
@@ -1120,7 +1094,7 @@ From home; how should my mother help me? Nay,
 I pity him that seeks that door, to say
 Orestes liveth!
 
-PEASANT.
+## Peasant
 
                 Wilt thou have it so?
 I will take word to the old man. But go
@@ -1139,7 +1113,7 @@ With hunger, rich and poor are all as one.
 
        *       *       *       *       *
 
-CHORUS.
+## Chorus
 
 O for the ships of Troy, the beat                [_Strophe_ 1.
   Of oars that shimmered
@@ -1209,7 +1183,7 @@ The white throat drawn, and blood's red spray,
 [_As they cease, there enters from the left a very old man, bearing a
 lamb, a wineskin, and a wallet_.
 
-OLD MAN.
+## Old Man
 
 Where is my little Princess? Ah, not now;
 But still my queen, who tended long ago
@@ -1228,7 +1202,7 @@ But passing sweet to mingle nectar-wise
 With feebler wine.--Go, bear them in; mine eyes...
 Where is my cloak?--They are all blurred with tears.
 
-ELECTRA.
+## Electra
 
 What ails thine eyes, old friend? After these years
 Doth my low plight still stir thy memories?
@@ -1237,7 +1211,7 @@ In exile, and my father? Aye, long love
 Thou gavest him, and seest the fruit thereof
 Wasted, for thee and all who love thee!
 
-OLD MAN.
+## Old Man
 
                                         All
 Wasted! And yet 'tis that lost hope withal
@@ -1274,19 +1248,19 @@ Locks that a woman combs.... And many a head
 Hath this same semblance, wing for wing, tho' bred
 Of blood not ours.... 'Tis hopeless. Peace, old man.
 
-OLD MAN.
+## Old Man
 
 The footprints! Set thy foot by his, and scan
 The track of frame and muscles, how they fit!
 
-ELECTRA.
+## Electra
 
 That ground will take no footprint! All of it
 Is bitter stone.... It hath?... And who hath said
 There should be likeness in a brother's tread
 And sister's? His is stronger every way.
 
-OLD MAN.
+## Old Man
 
 But hast thou nothing...? If he came this day
 And sought to show thee, is there no one sign
@@ -1294,7 +1268,7 @@ Whereby to know him?... Stay; the robe was thine,
 Work of thy loom, wherein I wrapt him o'er
 That night and stole him through the murderers' door.
 
-ELECTRA.
+## Electra
 
 Thou knowest, when Orestes was cast out
 I was a child.... If I did weave some clout
@@ -1306,18 +1280,18 @@ His locks for very ruth before that tomb:
 Or, if he found perchance, to seek his home,
 Some spy...
 
-OLD MAN.
+## Old Man
 
 The strangers! Where are they? I fain
 Would see them, aye, and bid them answer plain...
 
-ELECTRA.
+## Electra
 
 Here at the door! How swift upon the thought!
 
 _Enter_ ORESTES _and_ PYLADES.
 
-OLD MAN.
+## Old Man
 
 High-born: albeit for that I trust them not.
 The highest oft are false.... Howe'er it be,
@@ -1326,43 +1300,43 @@ The highest oft are false.... Howe'er it be,
 
 I bid the strangers hail!
 
-ORESTES.
+## Orestes
 
                           All hail to thee,
 Greybeard!--Prithee, what man of all the King
 Trusted of old, is now this broken thing?
 
-ELECTRA.
+## Electra
 
 'Tis he that trained my father's boyhood.
 
-ORESTES.
+## Orestes
 
                                           How?
 And stole from death thy brother? Sayest thou?
 
-ELECTRA.
+## Electra
 
 This man was his deliverer, if it be
 Deliverance.
 
-ORESTES.
+## Orestes
 
              How his old eye pierceth me,
 As one that testeth silver and alloy!
 Sees he some likeness here?
 
-ELECTRA.
+## Electra
 
                             Perchance 'tis joy,
 To see Orestes' comrade, that he feels.
 
-ORESTES.
+## Orestes
 
 None dearer.--But what ails the man? He reels
 Dizzily back.
 
-ELECTRA.
+## Electra
 
               I marvel. I can say
 No more.
@@ -1372,53 +1346,53 @@ OLD MAN (_in a broken voice_).
          Electra, mistress, daughter, pray!
 Pray unto God!
 
-ELECTRA.
+## Electra
 
                Of all the things I crave,
 The thousand things, or all that others have,
 What should I pray for?
 
-OLD MAN.
+## Old Man
 
                         Pray thine arms may hold
 At last this treasure-dream of more than gold
 God shows us!
 
-ELECTRA.
+## Electra
 
               God, I pray thee!... Wouldst thou more?
 
-OLD MAN.
+## Old Man
 
 Gaze now upon this man, and bow before
 Thy dearest upon earth!
 
-ELECTRA.
+## Electra
 
                         I gaze on thee!
 O, hath time made thee mad?
 
-OLD MAN.
+## Old Man
 
                             Mad, that I see
 Thy brother?
 
-ELECTRA.
+## Electra
 
              My ... I know not what thou say'st:
 I looked not for it...
 
-OLD MAN.
+## Old Man
 
                        I tell thee, here confessed
 Standeth Orestes, Agamemnon's son!
 
-ELECTRA.
+## Electra
 
 A sign before I trust thee! O, but one!
 How dost thou know...?
 
-OLD MAN.
+## Old Man
 
                        There, by his brow, I see
 The scar he made, that day he ran with thee
@@ -1429,12 +1403,12 @@ ELECTRA (_in a dull voice_).
                             A scar? 'Tis so.
 I see a scar.
 
-OLD MAN.
+## Old Man
 
               And fearest still to throw
 Thine arms round him thou lovest?
 
-ELECTRA.
+## Electra
 
                                   O, no more!
 Thy sign hath conquered me.... (_throwing herself into_ ORESTES' _arms_).
@@ -1442,24 +1416,24 @@ At last, at last!
 Thy face like light! And do I hold thee fast,
 Unhoped for?
 
-ORESTES.
+## Orestes
 
              Yea, at last! And I hold thee.
 
-ELECTRA.
+## Electra
 
 I never knew...
 
-ORESTES.
+## Orestes
 
                 I dreamed not.
 
-ELECTRA.
+## Electra
 
                                Is it he,
 Orestes?
 
-ORESTES.
+## Orestes
 
          Thy defender, yea, alone
 To fight the world! Lo, this day have I thrown
@@ -1468,7 +1442,7 @@ Drawn home, shall ... O, and it must surely be!
 Else men shall know there is no God, no light
 In Heaven, if wrong to the end shall conquer right.
 
-CHORUS.
+## Chorus
 
   Comest thou, comest thou now,
   Chained by the years and slow,
@@ -1489,7 +1463,7 @@ CHORUS.
   Threading the perilous land,
     That all be well!
 
-ORESTES.
+## Orestes
 
 Enough; this dear delight is mine at last
 Of thine embracing; and the hour comes fast
@@ -1503,7 +1477,7 @@ Even as my fortunes are? Whom shall I seek?
 By day or night? And whither turn, to wreak
 My will on them that hate us? Say.
 
-OLD MAN.
+## Old Man
 
                                    My son,
 In thine adversity, there is not one
@@ -1516,173 +1490,173 @@ With hope in one friend's heart! Hear all, and know:
 Thou hast God's fortune and thine own right hand,
 Naught else, to conquer back thy fatherland.
 
-ORESTES.
+## Orestes
 
 The deed, the deed! What must we do?
 
-OLD MAN.
+## Old Man
 
                                      Strike down
 Aegisthus ... and thy mother.
 
-ORESTES.
+## Orestes
 
                               'Tis the crown
 My race is run for. But how find him?
 
-OLD MAN.
+## Old Man
 
                                       Not
 Within the city walls, however hot
 Thy spirit.
 
-ORESTES.
+## Orestes
 
             Ha! With watchers doth he go
 Begirt, and mailèd pikemen?
 
-OLD MAN.
+## Old Man
 
                             Even so:
 He lives in fear of thee, and night nor day
 Hath slumber.
 
-ORESTES.
+## Orestes
 
               That way blocked!--'Tis thine to say
 What next remains.
 
-OLD MAN.
+## Old Man
 
                    I will; and thou give ear.
 A thought has found me!
 
-ORESTES.
+## Orestes
 
                         All good thoughts be near,
 For thee to speak and me to understand!
 
-OLD MAN.
+## Old Man
 
 But now I saw Aegisthus, close at hand
 As here I journeyed.
 
-ORESTES.
+## Orestes
 
                      That good word shall trace
 My path for me! Thou saw'st him? In what place?
 
-OLD MAN.
+## Old Man
 
 Out on the pastures where his horses stray.
 
-ORESTES.
+## Orestes
 
 What did he there so far?--A gleam of day
 Crosseth our darkness.
 
-OLD MAN.
+## Old Man
 
                        'Twas a feast, methought,
 Of worship to the wild-wood nymphs he wrought.
 
-ORESTES.
+## Orestes
 
 The watchers of men's birth? Is there a son
 New born to him, or doth he pray for one
 That cometh? [_Movement of_ ELECTRA.
 
-OLD MAN.
+## Old Man
 
              More I know not; he had there
 A wreathed ox, as for some weighty prayer.
 
-ORESTES.
+## Orestes
 
 What force was with him? Not his serfs alone?
 
-OLD MAN.
+## Old Man
 
 No Argive lord was there; none but his own
 Household.
 
-ORESTES.
+## Orestes
 
            Not any that aught know my face,
 Or guess?
 
-OLD MAN.
+## Old Man
 
           Thralls, thralls; who ne'er have seen thy face.
 
-ORESTES.
+## Orestes
 
 Once I prevail, the thralls will welcome me!
 
-OLD MAN.
+## Old Man
 
 The slaves' way, that; and no ill thing for thee!
 
-ORESTES.
+## Orestes
 
 How can I once come near him?
 
-OLD MAN.
+## Old Man
 
                               Walk thy ways
 Hard by, where he may see thee, ere he slays
 His sacrifice.
 
-ORESTES.
+## Orestes
 
                How? Is the road so nigh?
 
-OLD MAN.
+## Old Man
 
 He cannot choose but see thee, passing by,
 And bid thee stay to share the beast they kill.
 
-ORESTES.
+## Orestes
 
 A bitter fellow-feaster, if God will!
 
-OLD MAN.
+## Old Man
 
 And then ... then swift be heart and brain, to see
 God's chances!
 
-ORESTES.
+## Orestes
 
                Aye. Well hast thou counselled me.
 But ... where is she?
 
-OLD MAN.
+## Old Man
 
                       In Argos now, I guess;
 But goes to join her husband, ere the press
 Of the feast.
 
-ORESTES.
+## Orestes
 
               Why goeth not my mother straight
 Forth at her husband's side?
 
-OLD MAN.
+## Old Man
 
                              She fain will wait
 Until the gathered country-folk be gone.
 
-ORESTES.
+## Orestes
 
 Enough! She knows what eyes are turned upon
 Her passings in the land!
 
-OLD MAN.
+## Old Man
 
                           Aye, all men hate
 The unholy woman.
 
-ORESTES.
+## Orestes
 
                   How then can I set
 My snare for wife and husband in one breath?
@@ -1691,101 +1665,101 @@ ELECTRA (_coming forward_).
 
 Hold! It is I must work our mother's death.
 
-ORESTES.
+## Orestes
 
 If that be done, I think the other deed
 Fortune will guide.
 
-ELECTRA.
+## Electra
 
                     This man must help our need,
 One friend alone for both.
 
-OLD MAN.
+## Old Man
 
                            He will, he will!
 Speak on. What cunning hast thou found to fill
 Thy purpose?
 
-ELECTRA.
+## Electra
 
              Get thee forth, Old Man, and quick
 Tell Clytemnestra ... tell her I lie sick,
 New-mothered of a man-child.
 
-OLD MAN.
+## Old Man
 
                              Thou hast borne
 A son! But when?
 
-ELECTRA.
+## Electra
 
                  Let this be the tenth morn.
 Till then a mother stays in sanctity,
 Unseen.
 
-OLD MAN.
+## Old Man
 
         And if I tell her, where shall be
 The death in this?
 
-ELECTRA.
+## Electra
 
                    That word let her but hear,
 Straight she will seek me out!
 
-OLD MAN.
+## Old Man
 
                                The queen! What care
 Hath she for thee, or pain of thine?
 
-ELECTRA.
+## Electra
 
                                      She will;
 And weep my babe's low station!
 
-OLD MAN.
+## Old Man
 
                                 Thou hast skill
 To know her, child; say on.
 
-ELECTRA.
+## Electra
 
                             But bring her here,
 Here to my hand; the rest will come.
 
-OLD MAN.
+## Old Man
 
                                      I swear,
 Here at the gate she shall stand palpable!
 
-ELECTRA.
+## Electra
 
 The gate: the gate that leads to me and Hell.
 
-OLD MAN.
+## Old Man
 
 Let me but see it, and I die content.
 
-ELECTRA.
+## Electra
 
 First, then, my brother: see his steps be bent...
 
-OLD MAN.
+## Old Man
 
 Straight yonder, where Aegisthus makes his prayer!
 
-ELECTRA.
+## Electra
 
 Then seek my mother's presence, and declare
 My news.
 
-OLD MAN.
+## Old Man
 
          Thy very words, child, as tho' spoke
 From thine own lips!
 
-ELECTRA.
+## Electra
 
                      Brother, thine hour is struck.
 Thou standest in the van of war this day.
@@ -1795,7 +1769,7 @@ ORESTES (_rousing himself_).
 Aye, I am ready.... I will go my way,
 If but some man will guide me.
 
-OLD MAN.
+## Old Man
 
                                Here am I,
 To speed thee to the end, right thankfully.
@@ -1804,61 +1778,61 @@ ORESTES (_turning as he goes and raising his hands to heaven_).
 
 Zeus of my sires, Zeus of the lost battle,
 
-ELECTRA.
+## Electra
 
 Have pity; have pity; we have earned it well!
 
-OLD MAN.
+## Old Man
 
   Pity these twain, of thine own body sprung!
 
-ELECTRA.
+## Electra
 
 O Queen o'er Argive altars, Hera high,
 
-ORESTES.
+## Orestes
 
 Grant us thy strength, if for the right we cry.
 
-OLD MAN.
+## Old Man
 
   Strength to these twain, to right their father's wrong!
 
-ELECTRA.
+## Electra
 
 O Earth, deep Earth, to whom I yearn in vain,
 
-ORESTES.
+## Orestes
 
 And deeper thou, O father darkly slain,
 
-OLD MAN.
+## Old Man
 
   Thy children call, who love thee: hearken thou!
 
-ORESTES.
+## Orestes
 
 Girt with thine own dead armies, wake, O wake!
 
-ELECTRA.
+## Electra
 
 With all that died at Ilion for thy sake ...
 
-OLD MAN.
+## Old Man
 
   And hate earth's dark defilers; help us now!
 
-ELECTRA.
+## Electra
 
 Dost hear us yet, O thou in deadly wrong,
 Wronged by my mother?
 
-OLD MAN.
+## Old Man
 
                       Child, we stay too long.
 He hears; be sure he hears!
 
-ELECTRA.
+## Electra
 
                             And while he hears,
 I speak this word for omen in his ears:
@@ -1874,11 +1848,11 @@ Good tidings, all my house for ecstasy
 Shall cry; and if we hear that thou art dead,
 Then comes the other end!--Lo, I have said.
 
-ORESTES.
+## Orestes
 
 I know all, all.
 
-ELECTRA.
+## Electra
 
                  Then be a man to-day!
 
@@ -1894,7 +1868,7 @@ My living limbs!--I know my way thus much.
 
        *       *       *       *       *
 
-CHORUS.
+## Chorus
 
     When white-haired folk are met                 [_Strophe_.
       In Argos about the fold,
@@ -1976,7 +1950,7 @@ CHORUS.
     And thy brethren, even now,
   Walk among the stars, enchanted.
 
-LEADER.
+## Leader
 
 Ha, friends, was that a voice? Or some dream sound
 Of voices shaketh me, as underground
@@ -1986,86 +1960,86 @@ Mistress, Electra!
 
 ELECTRA, _a bare sword in her hand, comes from the house._
 
-ELECTRA.
+## Electra
 
                    Friends! Some news is brought?
 How hath the battle ended?
 
-LEADER.
+## Leader
 
                            I know naught.
 There seemed a cry as of men massacred!
 
-ELECTRA.
+## Electra
 
 I heard it too. Far off, but still I heard.
 
-LEADER.
+## Leader
 
 A distant floating voice ... Ah, plainer now!
 
-ELECTRA.
+## Electra
 
 Of Argive anguish!--Brother, is it thou?
 
-LEADER.
+## Leader
 
 I know not. Many confused voices cry...
 
-ELECTRA.
+## Electra
 
 Death, then for me! That answer bids me die.
 
-LEADER.
+## Leader
 
 Nay, wait! We know not yet thy fortune. Wait!
 
-ELECTRA.
+## Electra
 
 No messenger from him!--Too late, too late!
 
-LEADER.
+## Leader
 
 The message yet will come. 'Tis not a thing
 So light of compass, to strike down a king.
 
   _Enter a_ MESSENGER, _running_.
 
-MESSENGER.
+## Messenger
 
 Victory, Maids of Argos, Victory!
 Orestes ... all that love him, list to me!...
 Hath conquered! Agamemnon's murderer lies
 Dead! O give thanks to God with happy cries!
 
-ELECTRA.
+## Electra
 
 Who art thou? I mistrust thee.... 'Tis a plot!
 
-MESSENGER.
+## Messenger
 
 Thy brother's man. Look well. Dost know me not?
 
-ELECTRA.
+## Electra
 
 Friend, friend; my terror made me not to see
 Thy visage. Now I know and welcome thee.
 How sayst thou? He is dead, verily dead,
 My father's murderer...?
 
-MESSENGER.
+## Messenger
 
                          Shall it be said
 Once more? I know again and yet again
 Thy heart would hear. Aegisthus lieth slain!
 
-ELECTRA.
+## Electra
 
 Ye Gods! And thou, O Right, that seest all,
 Art come at last?... But speak; how did he fall?
 How swooped the wing of death?... I crave to hear.
 
-MESSENGER.
+## Messenger
 
 Forth of this hut we set our faces clear
 To the world, and struck the open chariot road;
@@ -2170,7 +2144,7 @@ Blood against blood, his debt is paid this day.
 
 [_He goes off to meet the others_--ELECTRA _stands as though stupefied_.
 
-CHORUS.
+## Chorus
 
   Now, now thou shalt dance in our dances,
     Beloved, as a fawn in the night!
@@ -2183,8 +2157,7 @@ CHORUS.
     Thine own father's son:
   Cry, cry, for the day that is won!
 
-
-ELECTRA.
+## Electra
 
 O Light of the Sun, O chariot wheels of flame,
 O Earth and Night, dead Night without a name
@@ -2197,7 +2170,7 @@ To bind my brother's and my conqueror's brow.
 
 [_Some garlands are brought out from the house to_ ELECTRA.
 
-CHORUS.
+## Chorus
 
 Go, gather thy garlands, and lay them
   As a crown on his brow, many-tressed,
@@ -2212,7 +2185,7 @@ Our belovèd in justice re-risen:
 [_There enter from the left_ ORESTES _and_ PYLADES, _followed by some
 thralls_.
 
-ELECTRA.
+## Electra
 
 O conqueror, come! The king that trampled Troy
 Knoweth his son Orestes. Come in joy,
@@ -2227,7 +2200,7 @@ Take, Pylades, this chaplet from my hand.
 'Twas half thy battle. And may ye two stand
 Thus alway, victory-crowned, before my face!    [_She crowns_ PYLADES.
 
-ORESTES.
+## Orestes
 
 Electra, first as workers of this grace
 Praise thou the Gods, and after, if thou will,
@@ -2243,39 +2216,39 @@ Or up, where all the vultures of the air
 May glut them, pierce and nail him for a sign
 Far off? Work all thy will. Now he is thine.
 
-ELECTRA.
+## Electra
 
 It shames me; yet, God knows, I hunger sore--
 
-ORESTES.
+## Orestes
 
 What wouldst thou? Speak; the old fear nevermore
 Need touch thee.
 
-ELECTRA.
+## Electra
 
     To let loose upon the dead
 My hate! Perchance to rouse on mine own head
 The sleeping hate of the world?
 
-ORESTES.
+## Orestes
 
     No man that lives
 Shall scathe thee by one word.
 
-ELECTRA.
+## Electra
 
     Our city gives
 Quick blame; and little love have men for me.
 
-ORESTES.
+## Orestes
 
 If aught thou hast unsaid, sister, be free
 And speak. Between this man and us no bar
 Cometh nor stint, but the utter rage of war.
     [_She goes and stands over the body. A moment's silence_.
 
-ELECTRA.
+## Electra
 
   Ah me, what have I? What first flood of hate
 To loose upon thee? What last curse to sate
@@ -2337,7 +2310,7 @@ Vaunt not, ye men of sin, ere at the last
 The thin-drawn marge before you glimmereth
 Close, and the goal that wheels 'twixt life and death.
 
-LEADER.
+## Leader
 
 Justice is mighty. Passing dark hath been
 His sin: and dark the payment of his sin.
@@ -2354,12 +2327,12 @@ ORESTES (_looking along the road_).
 Stay, 'tis a new thing! We have still a word
 To speak...
 
-ELECTRA.
+## Electra
 
             What? Not a rescue from the town
 Thou seëst?
 
-ORESTES.
+## Orestes
 
             'Tis my mother comes: my own
 Mother, that bare me. [_He takes off his crown_.
@@ -2371,7 +2344,7 @@ see the road_).
 Aye, there she cometh,--Welcome in thy rare
 Chariot! All welcome in thy brave array!
 
-ORESTES.
+## Orestes
 
 What would we with our mother? Didst thou say
 Kill her?
@@ -2381,13 +2354,13 @@ ELECTRA (_turning on him_).
           What? Is it pity? Dost thou fear
 To see thy mother's shape?
 
-ORESTES.
+## Orestes
 
                           'Twas she that bare
 My body into life. She gave me suck.
 How can I strike her?
 
-ELECTRA.
+## Electra
 
                   Strike her as she struck
 Our father!
@@ -2397,7 +2370,7 @@ ORESTES (_to himself, brooding_).
             Phoebus, God, was all thy mind
 Turned unto darkness?
 
-ELECTRA.
+## Electra
 
                       If thy God be blind,
 Shalt thou have light?
@@ -2407,26 +2380,26 @@ ORESTES (_as before_).
                        Thou, thou, didst bid me kill
 My mother: which is sin.
 
-ELECTRA.
+## Electra
 
                          How brings it ill
 To thee, to raise our father from the dust?
 
-ORESTES.
+## Orestes
 
 I was a clean man once. Shall I be thrust
 From men's sight, blotted with her blood?
 
-ELECTRA.
+## Electra
 
                                           Thy blot
 Is black as death if him thou succour not!
 
-ORESTES.
+## Orestes
 
 Who shall do judgment on me, when she dies?
 
-ELECTRA.
+## Electra
 
 Who shall do judgment, if thy father lies.
 Forgotten?
@@ -2436,11 +2409,11 @@ ORESTES (_turning suddenly to_ ELECTRA).
            Stay! How if some fiend of Hell,
 Hid in God's likeness, spake that oracle?
 
-ELECTRA.
+## Electra
 
 In God's own house? I trow not.
 
-ORESTES.
+## Orestes
 
                                 And I trow
 It was an evil charge! [_He moves away from her._
@@ -2450,23 +2423,23 @@ ELECTRA (_almost despairing_).
                           To fail me now!
 To fail me now! A coward!--O brother, no!
 
-ORESTES.
+## Orestes
 
 What shall it be, then? The same stealthy blow ...
 
-ELECTRA.
+## Electra
 
 That slew our father! Courage! thou hast slain
 Aegisthus.
 
-ORESTES.
+## Orestes
 
            Aye. So be it.--I have ta'en
 A path of many terrors: and shall do
 Deeds horrible. 'Tis God will have it so....
 Is this the joy of battle, or wild woe?  [_He goes into the house._
 
-LEADER.
+## Leader
 
 O Queen o'er Argos thronèd high,
   O Woman, sister of the twain,
@@ -2482,7 +2455,7 @@ Observe thy state: All hail, O Queen!
 _Enter from the right_ CLYTEMNESTRA _on a chariot, accompanied by richly
 dressed Handmaidens_.
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 Down from the wain, ye dames of Troy, and hold
 Mine arm as I dismount....    [_Answering_ ELECTRA'S _thought_.
@@ -2493,25 +2466,25 @@ I keep in mine own house.... Deemst thou the cost
 Too rich to pay me for the child I lost--
 Fair though they be?
 
-ELECTRA.
+## Electra
 
                       Nay, Mother, here am I
 Bond likewise, yea, and homeless, to hold high
 Thy royal arm!
 
-CLYTEMNESTRA.
+## Clytemnestra
 
                Child, the war slaves are here;
 Thou needst not toil.
 
-ELECTRA.
+## Electra
 
                       What was it but the spear
 Of war, drove me forth too? Mine enemies
 Have sacked my father's house, and, even as these,
 Captives and fatherless, made me their prey.
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 It was thy father cast his child away,
 A child he might have loved!... Shall I speak out?
@@ -2557,31 +2530,31 @@ Durst I have sought, to aid me to the doom
 I craved?--Speak if thou wouldst, and fear not me,
 If yet thou deemst him slain unrighteously.
 
-LEADER.
+## Leader
 
 Thy words be just, yet shame their justice brings;
 A woman true of heart should bear all things
 From him she loves. And she who feels it not,
 I cannot reason of her, nor speak aught.
 
-ELECTRA.
+## Electra
 
 Remember, mother, thy last word of grace,
 Bidding me speak, and fear not, to thy face.
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 So said I truly, child, and so say still.
 
-ELECTRA.
+## Electra
 
 Wilt softly hear, and after work me ill?
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 Not so, not so. I will but pleasure thee.
 
-ELECTRA.
+## Electra
 
 I answer then. And, mother, this shall be
 My prayer of opening, where hangs the whole:
@@ -2629,7 +2602,7 @@ My sister's? Nay, when all the tale is told
 Of blood for blood, what murder shall we make,
 I and Orestes, for our father's sake?
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 Aye, child; I know thy heart, from long ago.
 Thou hast alway loved him best. 'Tis oft-time so:
@@ -2645,30 +2618,30 @@ Of travail scarce yet ended!... Woe is me!
 I wrought against him, to the last blind deep
 Of bitterness.... Woe's me!
 
-ELECTRA.
+## Electra
 
                             Fair days to weep,
 When help is not! Or stay: though he lie cold
 Long since, there lives another of thy fold
 Far off; there might be pity for thy son?
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 I dare not!... Yes, I fear him. 'Tis mine own
 Life, and not his, comes first. And rumour saith
 His heart yet burneth for his father's death.
 
-ELECTRA.
+## Electra
 
 Why dost thou keep thine husband ever hot
 Against me?
 
-CLYTEMNESTRA.
+## Clytemnestra
 
             'Tis his mood. And thou art not
 So gentle, child!
 
-ELECTRA.
+## Electra
 
                   My spirit is too sore!
 Howbeit, from this day I will no more
@@ -2679,29 +2652,29 @@ CLYTEMNESTRA (_with a flash of hope_).
          O daughter!--Then, indeed, shall he,
 I promise, never more be harsh to thee!
 
-ELECTRA.
+## Electra
 
 He lieth in my house, as 'twere his own.
 'Tis that hath made him proud.
 
-CLYTEMNESTRA.
+## Clytemnestra
 
                                Nay, art thou flown
 To strife again so quick, child?
 
-ELECTRA.
+## Electra
 
                                  Well; I say
 No more; long have I feared him, and alway
 Shall fear him, even as now!
 
-CLYTEMNESTRA.
+## Clytemnestra
 
                              Nay, daughter, peace!
 It bringeth little profit, speech like this...
 Why didst thou call me hither?
 
-ELECTRA.
+## Electra
 
                                It reached thee,
 My word that a man-child is born to me?
@@ -2709,25 +2682,25 @@ Do thou make offering for me--for the rite
 I know not--as is meet on the tenth night.
 I cannot; I have borne no child till now.
 
-CLYTEMNESTRA.
+## Clytemnestra
 
 Who tended thee? 'Tis she should make the vow.
 
-ELECTRA.
+## Electra
 
 None tended me. Alone I bare my child.
 
-CLYTEMNESTRA
+## Clytemnestra
 
 What, is thy cot so friendless? And this wild
 So far from aid?
 
-ELECTRA.
+## Electra
 
                   Who seeks for friendship sake
 A beggar's house?
 
-CLYTEMNESTRA.
+## Clytemnestra
 
                    I will go in, and make
 Due worship for thy child, the Peace-bringer.
@@ -2743,7 +2716,7 @@ My lord this gladness, too.
 [_The Attendants depart;_ CLYTEMNESTRA, _left alone, proceeds to enter the
 house_.
 
-ELECTRA.
+## Electra
 
                             Welcome below
 My narrow roof! But have a care withal,
@@ -2759,7 +2732,7 @@ That grace I give to cheer thee on thy road;
 Give thou to me--peace from my father's blood!
     [_She follows her mother into the house_.
 
-CHORUS.
+## Chorus
 
   Lo, the returns of wrong.
     The wind as a changèd thing
@@ -2796,23 +2769,23 @@ CHORUS.
   Breaketh the woodland boughs
     Starving, she wrought her way.
 
-VOICE OF CLYTEMNESTRA.
+## Voice of Clytemnestra
 
 O Children, Children; in the name of God,
 Slay not your mother!
 
-A WOMAN.
+## A Woman
 
                       Did ye hear a cry
 Under the rafters?
 
-ANOTHER.
+## Another
 
                    I weep too, yea, I;
 Down on the mother's heart the child hath trod!
     [_A death-cry from within_.
 
-ANOTHER.
+## Another
 
 God bringeth Justice in his own slow tide.
   Aye, cruel is thy doom; but thy deeds done
@@ -2823,7 +2796,7 @@ God bringeth Justice in his own slow tide.
 disorder. Attendants bring out the bodies of_ CLYTEMNESTRA _and_
 AEGISTHUS.
 
-LEADER.
+## Leader
 
 Lo, yonder, in their mother's new-spilt gore
 Red-garmented and ghastly, from the door
@@ -2832,7 +2805,7 @@ Like this, she boded in her last wild cry?
 There lives no seed of man calamitous,
 Nor hath lived, like this seed of Tantalus.
 
-ORESTES.
+## Orestes
 
 O Dark of the Earth, O God,
   Thou to whom all is plain;
@@ -2842,7 +2815,7 @@ Gathered as one they lie
 Slain; and the slayer was I,
   I, to pay for my pain!
 
-ELECTRA.
+## Electra
 
 Let tear rain upon tear,
   Brother: but mine is the blame.
@@ -2852,7 +2825,7 @@ I, in my misery....
 And I was the child at her knee.
   'Mother' I named her name.
 
-CHORUS.
+## Chorus
 
 Alas for Fate, for the Fate of thee,
 O Mother, Mother of Misery:
@@ -2862,7 +2835,7 @@ Even in the fruit thy body bore.
 Yet hast thou Justice, Justice plain,
   For a sire's blood spilt of yore!
 
-ORESTES.
+## Orestes
 
 Apollo, alas for the hymn
   Thou sangest, as hope in mine ear!
@@ -2879,7 +2852,7 @@ Who, that is clean, shall see
 And hate not the blood-red hand,
   His mother's murderer?
 
-ELECTRA.
+## Electra
 
 And I? What clime shall hold
   My evil, or roof it above?
@@ -2889,7 +2862,7 @@ What dancing waiteth me now?
 What love that shall kiss my brow
   Nor blench at the brand thereof?
 
-CHORUS.
+## Chorus
 
 Back, back, in the wind and rain
 Thy driven spirit wheeleth again.
@@ -2899,8 +2872,7 @@ But, lo, thy brother; what hast thou wrought....
 Yea, though I love thee.... what woe, what sin,
   On him, who willed it not!
 
-
-ORESTES.
+## Orestes
 
 Saw'st thou her raiment there,
   Sister, there in the blood?
@@ -2911,13 +2883,13 @@ She opened her bosom bare,
 And I ... Oh, her hair, her hair....
                          [_He breaks into inarticulate weeping_
 
-CHORUS.
+## Chorus
 
 Oh, thou didst walk in agony,
 Hearing thy mother's cry, the cry
 Of wordless wailing, well know I.
 
-ELECTRA.
+## Electra
 
 She stretched her hand to my cheek,
   And there brake from her lips a moan;
@@ -2926,29 +2898,29 @@ Her hand clung to my cheek;
 Clung, and my arm was weak;
   And the sword fell and was gone.
 
-CHORUS.
+## Chorus
 
 Unhappy woman, could thine eye
 Look on the blood, and see her lie,
 Thy mother, where she turned to die?
 
-ORESTES.
+## Orestes
 
 I lifted over mine eyes
   My mantle: blinded I smote,
 As one smiteth a sacrifice;
   And the sword found her throat.
 
-ELECTRA.
+## Electra
 
 I gave thee the sign and the word;
 I touched with mine hand thy sword.
 
-LEADER.
+## Leader
 
 Dire is the grief ye have wrought.
 
-ORESTES.
+## Orestes
 
 Sister, touch her again:
   Oh, veil the body of her;
@@ -2961,20 +2933,20 @@ Bear in thy bitter pain,
 [_The two kneel over the body of_ CLYTEMNESTRA, _and cover her with
 raiment_.
 
-ELECTRA.
+## Electra
 
 On her that I loved of yore,
   Robe upon robe I cast:
 On her that I hated sore.
 
-CHORUS.
+## Chorus
 
 O House that hath hated sore,
   Behold thy peace at the last!
 
        *       *       *       *       *
 
-LEADER.
+## Leader
 
 Ha, see: above the roof-tree high
   There shineth ... Is some spirit there
@@ -2986,7 +2958,7 @@ To men revealèd visibly?
 [_There appears in the air a vision of_ CASTOR _and_ POLYDEUCES. _The
 mortals kneel or veil their faces._
 
-CASTOR.
+## Castor
 
 Thou Agamemnon's Son, give ear! 'Tis we.
 Castor and Polydeuces, call to thee,
@@ -3055,7 +3027,6 @@ Seeking Athena's blessèd rock; one day,
 Thy doom of blood fulfilled and this long stress
 Of penance past, thou shalt have happiness.
 
-
          LEADER (_looking up_).
 
          Is it for us, O Seed of Zeus,
@@ -3123,7 +3094,7 @@ ELECTRA.   Farewell, dear Argos. All ye friends,
          My tall Electra, and be true.
                             [ELECTRA _and_ PYLADES _depart to the left._
 
-CASTOR.
+## Castor
 
          Their troth shall fill their hearts.--But on:
            Dread feet are near thee, hounds of prey,
@@ -3149,21 +3120,16 @@ CASTOR.
          Of death! A God hath counselled ye.
                                [CASTOR _and_ POLYDEUCES _disappear_.
 
-                             CHORUS.
+## Chorus
 
          Farewell, farewell!--But he who can so fare,
          And stumbleth not on mischief anywhere,
               Blessed on earth is he!
 
-
-
-
-NOTES TO THE ELECTRA
-
+## Notes to the Electra
 
 The chief characters in the play belong to one family, as is shown by the
 two genealogies:--
-
 
 I.
 
@@ -3184,14 +3150,12 @@ Iphigenia       Electra        Orestes
 (Also, a sister of Agamemnon, name variously given, married Strophios, and
 was the mother of Pylades.)
 
-
-II.
+## II
 
                Tyndareus = Leda = Zeus
      ____________________|  ____|_________________________
      |                      |               |             |
 Clytemnestra              Castor       Polydeuces       Helen
-
 
 P. 1, l. 10, Son of his father's foe.]--Both foe and brother. Atreus and
 Thyestes became enemies after the theft of the Golden Lamb. See pp. 47 ff.

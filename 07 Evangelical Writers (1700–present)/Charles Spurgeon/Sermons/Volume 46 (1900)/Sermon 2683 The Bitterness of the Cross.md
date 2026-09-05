@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Bitterness of the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2683
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They...shall be in bitterness for Him." Zechaariah 12:10.
 
@@ -128,7 +125,6 @@ Last of all, in this bitterness with Christ, there is an unutterable sweetness. 
 I think that mourning for sin is as sweet a flower as blooms outside Heaven. I suppose that pearl of flowers blooms not on the other side of Jordan. It is the only flower on earth that I would like to carry there, just as Rowland Hill used to say that repentance and he had kept such sweet company that the only regret he had about Heaven was that he supposed he would not repent there. Well, all that is good we shall have there—"and there shall in no wise enter into it anything that defiles." But I assure you, from my own experience, that the still, calm, quiet joy which does not well up out of yourself, but comes into you direct from Christ, by the way of the Cross—that dew which falls not on Hermon, but on Calvary—is the rarest and brightest dew that ever charms us this side of Glory!
 
 God give you all to know, to the fullest extent, the sweet bitterness—the bitter sweetness—that comes of a sight of Christ Crucified, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2682 A Song and a Solace|← #2682]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2684 Two Arguments Against Sin|#2684 →]]

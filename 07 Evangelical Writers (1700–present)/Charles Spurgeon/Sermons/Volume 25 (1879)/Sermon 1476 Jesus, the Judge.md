@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Jesus, the Judge
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1476
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 25, 1879,.
+*Delivered on Lord's-Day Morning, May 25, 1879*
 
 > "And He commanded us to preach unto the people and to testify that it is He which was ordained of God to be the Judge of the quick and the dead." Acts 10:42.
 
@@ -136,7 +135,6 @@ And then shall you be found at His right hand." I shall be glad if any word that
 The lady retired to her chamber but she couldn't sleep. In the night she was troubled and fell a-weeping. Sleep forsook her. She tossed to and fro and at length she called her maid, who asked, "Madam, what ails you? I thought I left you very merry and well." "Oh," she said, "but I looked over your book and I only saw one word and that word stings me. I cannot sleep. I cannot bear it!" "What word was it, Madam?" "It was that word, 'ETERNITY.' Oh, Maid," she said, "it is very well for me to sport and play and waste my time as I have done, but oh, eternity, eternity, eternity! How can I face eternity?"
 
 And so that night was turned to weeping and to prayer. I could wish the same might happen, now, to many of you. The Judge is at the door! Jesus comes to judge you—will you have Him, now, to be your Savior? If not, His coming will cause you to weep and wail—and that throughout eternity! Remember that word, ETERNITY. God bless you all. Amen.
-
 
 ---
 [[Sermon 1475 Crowning Blessings Ascribed to God|← #1475]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1477 Jesus Admired In Them That Believe|#1477 →]]

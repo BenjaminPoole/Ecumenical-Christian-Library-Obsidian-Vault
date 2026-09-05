@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Filling of Empty Vessels
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2063
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Even empty vessels; borrow not a few." 2 Kings 4:3.
 
@@ -166,7 +163,6 @@ shall all be filled to the brim with the outpouring of God's eternal Spirit and 
 I would encourage my Brother and Sister workers here to look for great things and go to work vigorously because they have an omnipotent God behind them. Brethren, push forward, undeterred by discouragement. You do not know, my dear Sister, what you can do. But make a bold attempt. Your tiny spark may set a county on a blaze. My dear young Brother, you do not know what you can accomplish. Put it to the test in all earnestness and you will be surprised at yourself. The Lord can make use of poor nothings to achieve glorious purposes. It is not your strength, it is His strength that is to do the work. That strength can lay hold of but what shall turn out to be Divine strength.
 
 Have faith in God. Believe Him to be true and omnipotent and we shall see greater things than these. Alas, we fail because we do not believe! If the Son of Man comes shall He find faith on the earth? I fear He would discover, but here and there, a grain of mustard seed. May He grant to many of us that heroic faith which, believing in God, thinks nothing of difficulties and does not believe in impossibilities but does right and preaches the Truth of God and expects God to bless it above what we can ask or even think. May God bless you and may the first part of my subject be last in your recollection. If you are empty vessels, come to Christ and be filled. May He fill you with His Grace tonight for His mercy sake! Amen and Amen.
-
 
 ---
 [[Sermon 2062 Shoes of Iron, and Strength Sufficient A New Year's|← #2062]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2064 Essential Points In Prayer|#2064 →]]

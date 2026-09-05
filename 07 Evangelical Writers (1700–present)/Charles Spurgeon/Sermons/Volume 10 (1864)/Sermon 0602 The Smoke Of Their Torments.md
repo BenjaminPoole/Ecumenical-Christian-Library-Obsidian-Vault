@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Smoke Of Their Torments
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 602
 
-DELIVERED ON SUNDAY EVENING, NOVEMBER 20, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Evening, November 20, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Genesis 19:27,28.
 
@@ -59,7 +58,7 @@ Surely, too, another emotion, which a glance towards the dreary doom of the ungo
 
 Some of you who were accustomed to frequent the ale house, whose voices were loud in the lascivious song, who polluted eventide with sin and spoiled the day with your ungodliness—thank God that you have been washed in the precious blood of Jesus—for as you read the list of the lascivious and so on, you are compelled to say, "Such were some of us. But we are washed, but we are sanctified, but we are justified in the name of the Lord Jesus and by the Spirit of our God."
 
-Let the depths of Hell constrain you to heights of gratitude. And let the wailing and the gnashing of teeth which come up from there appeal to your lips, your heart, your very bowels and all that is within you—for the music of thank- fulness that you have escaped. Should there not also here be deep feelings of humility? Look to the hole of the pit where you were lifted and the rock where God has hewn you! What those sinners were, such were you!
+Let the depths of Hell constrain you to heights of gratitude. And let the wailing and the gnashing of teeth which come up from there appeal to your lips, your heart, your very bowels and all that is within you—for the music of thank-fulness that you have escaped. Should there not also here be deep feelings of humility? Look to the hole of the pit where you were lifted and the rock where God has hewn you! What those sinners were, such were you!
 
 There was nothing in you that would carry you to Heaven, but everything that would have carried you down to Hell. You are a brand plucked from the burning—you would have burned in that fire as well as others! And can you lift up your head, man, and boast of yourself and say, "O God, I thank You that I am not as other men"? No, not if you are in your senses. But humbled and yet thankful, you will go your way with a subdued heart, looking upon others with pity and with love and anxiously desiring to pluck them, also, from the flames and guide their feet into the way of peace.
 
@@ -150,7 +149,6 @@ I see the rough executioners, each man taking hold of a hand or of a foot, holdi
 It is the Son of God suffering there. He shrieks "I thirst!" and they give Him vinegar to drink. He cries, "My God, My God, why have You forsaken Me?" Heaven is black above His head. Fever comes on—His tongue cleaves to the roof of His mouth—that mouth becomes hot as an oven. Blood comes streaming down from all His pores. Why do I picture this? Why, here is your salvation! You must have an interest in the sufferings of that Man, or you must suffer for yourself forever. Would you not desire to have Him as your Substitute? Then remember, whoever believes in Him is not condemned!
 
 Can you believe in Him now? To believe on Him is to trust Him. Will you trust yourself with Jesus? Now, if you do trust, your sins are forgiven! Your soul is accepted! Your eternal state is blessed and you are delivered from the wrath to come! Go your way at peace with God and at rest in your conscience and rejoice forevermore! May the Master bless even my feebleness tonight to your profit and may we meet in Heaven to His praise. Amen.
-
 
 ---
 [[Sermon 0601 A Solemn Enquiry Concerning Our Families|← #601]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0603 Delivered On Sunday Morning, December 4, 1864,|#603 →]]

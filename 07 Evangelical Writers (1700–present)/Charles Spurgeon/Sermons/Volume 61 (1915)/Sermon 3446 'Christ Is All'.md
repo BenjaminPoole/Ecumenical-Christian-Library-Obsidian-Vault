@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # 'Christ Is All'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3446
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Christ is all." Colossians 3:11.
 
@@ -27,7 +24,7 @@ The religion of Jesus is the religion of God. Hence, notwithstanding all the dis
 
 I shall use it, first, as a test to try you and, afterwards, as a motive to encourage you. I want, first, to sift you, to see how many of you are the people of God, and how many are not. I shall make my text a great sieve and put you in it to see which is wheat and which is chaff. We must consider this passage in two or three senses in order, first, to use it as—
 
-I. A TEST TO TRY YOU.
+## I. A Test to Try You
 
 Christ must be all, as your Great Master and Teacher There are some who set up a certain man as their authority. They regard him as their master, they look up to him as their teacher—and whatever he says is right—it is the truth and is not to be disputed. Or, perhaps, they have taken a certain book, other than the Bible, and say, "We will judge all things by this book"—and if the preacher does not teach exactly the creed written in that book, he is set down as not sound in the faith—and this they do not hesitate to say at once, because he does not come up to the standard of their little book! We meet with many people in this world who make their creed, their one little narrow creed, everything—and they measure everything and everybody by that. But, my Friends, I must have you say that "Christis all," and not any man, however good or great, before I can allow that you are Christians. We have not to follow men. Our faith stands not in the wisdom of man, but in the power of God! We are to follow no man, except as far as he follows Christ, who alone is our Master! Be not deceived—submit not yourselves to creeds, to books, or to men—give yourselves to the study of God's Word, derive your creed and the doctrines of your faith from it, alone, and then you will be able to say—
 
@@ -75,7 +72,7 @@ Thus we see that true religion can cheer the sick man's couch, can make the poor
 
 Now, then, let me ask, could you agree with me while I have been speaking? Can you now say that Christ is your only Master, your chief good, your only joy? "Oh, yes, I do love Jesus because He first loved me." Then, welcome, Brother! Welcome, Sister! You are one with Jesus, and we are one with each other! But if you cannot say it, how terrible it shall be with some of you when you shall find your gourds wither, the crops whereon you now lean struck down at a blow, your false refuges swept away and, deprived of all your feathers and finery, your soul will appear before God in its true character! May it not be so with any of you, but may you be united to Christ by living faith which works by love and purifies the heart! Secondly, I shall now consider the text as—
 
-II. A MOTIVE TO ENCOURAGE YOU.
+## II. A Motive to Encourage You
 
 "Christ is all." My beloved Friends, in what is He all? Christ is all in the entire work of salvation. Let me take you back to the period before this world was made. There was a time when this great world—the sun, the moon, the stars and all which now exist throughout the whole of the vast universe—lay in the mind of God like unborn forests in an acorn cup. There was a time when the Great Creator lived alone and yet He could foresee that He would make a world, and that men would be born to people it. And in that vast eternity a great scheme was devised, whereby He might save a fallen race. Do you know who devised it? God planned it from first to last! Neither Gabriel nor any of the holy angels had anything to do with it. I question whether they were even told how God might be just and yet save the transgressors. God was all in the drawing up of the scheme, and Christ was all in carrying it out! There was a dark and doleful night!
 
@@ -105,9 +102,9 @@ May God give all of you Grace to repent and to embrace the salvation which is re
 
 I have heard that in the deserts where they can only get water at long intervals, they send a man on a camel in search of it. When he sees a pool, he springs off his beast, and before he drinks, he calls out, "Come," and there is another man at a little distance, and he shouts, "Come," and one further away still repeats the word, "Come," until the whole desert resounds with the cry, "Come," and they come rushing to the water to drink! Now I do not make the Gospel invitation wider than the declaration of the Word of God, "Whoever will, let him take the water of life freely." Whoever you are, and whatever you may have been, if you feel your need of Christ, "Come," and He will receive you, and give you to drink of the Water of Life freely!
 
-EXPOSITION BY C. H. SPURGEON: COLOSSIANS 3; 4:1-4; PSALM28:1-6.
+## Exposition by C. H. Spurgeon: Colossians 3; 4:1-4; Psalm 28:1-6
 
-COLOSSIANS 3.
+## Colossians 3
 
 Verse 1. If you, then, are risen with Christ, seek those things which are above, where Christ sits at the right hand of God.Oh, how often we need to be called to this, for the flesh is groveling and it holds down the spirit. Very often we are seeking the things below as if we had not yet attained the new life, and did not know anything about the resurrection power of Christ within the soul! Now, if it is that you, Believers, have risen with Christ, do not live as if you had never done so, but "seek those things which are above, where Christ sits at the right hand of God."
 
@@ -149,7 +146,7 @@ Colossians 4:1-2. But in singleness ofheart, fearing God: And whateveryou do, do
 
 3, 4. Meanwhile praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds: that I may make it manifest, as I ought to speak So the preacher of the Gospel asks your prayers—and it is a part of the duties arising out of the relationship between Christians that those who are taught should pray for those who teach God's Word.
 
-PSALM28.1-6.
+## Psalm 28.1-6
 
 Verse 1. Unto you will I cry, O LORD my Rock: be not silent to me: lest, if You are silent to me, I become like those who go down into the pi. Oh, if God did not hear prayer, we would become like dead men—yes, like lost men. Our fall or despair would be terrible, indeed. "Lest, if You are silent to me, I become like those who go down into the pit."
 
@@ -170,7 +167,6 @@ And prove like them at last.' Draw me not away with the wicked."
 4\. Give them according to their deeds, and according to the wickedness of their endeavors: give them after the work of their hands; render to them their desert. And a just mind feels that such ought to be the case. God is a Judge and He will punish sin—and gracious men do not wish that it should be otherwise. Even to that terrible side of God's Character which is seen in His vengeance upon the ungodly, the Christian turns the loving eye. He is not reconciled to half a god, or to a god with half the attributes of God, namely, love and tenderness, but he loves God as he finds Him. He loves that God who is a consuming fire! I would be afraid if I could not love God under any aspect in which He is presented to me, because just as I would feel that I did not love a man truly if I said, "In such a character I cannot endure him," I would feel that there was some difference between him and me. We must love God in ever/Character—upon the Throne of Justice, as well as upon the Seat of Love.
 
 5, 6. Because they regard not the works of the LORD, nor the operation of His hands, He shall destroy them, and not build them up. Blessed be the LORD, because He has heard the voice of my supplications. Can you say this? Excuse me putting the question again and again to all now present, for it is a very vital question. If you never knew what answered prayer means, God help you to begin to pray, "Blessed be the Lord, because He has heard the voice of my supplications."
-
 
 ---
 [[Sermon 3445 Strong Faith in a Faithful God|← #3445]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3447 A Present Helper|#3447 →]]

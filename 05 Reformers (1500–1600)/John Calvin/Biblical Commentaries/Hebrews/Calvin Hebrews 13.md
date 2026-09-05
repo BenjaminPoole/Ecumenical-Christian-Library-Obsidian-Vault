@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Heb 13:1-6
 

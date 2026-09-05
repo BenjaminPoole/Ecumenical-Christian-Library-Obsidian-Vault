@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Faith Versus Sight
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 677
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "For we walk by faith, not by sight." 2 Corinthians 5:7.
 
@@ -146,7 +145,6 @@ There was an architect who had a plan for building a lighthouse on the Eddystone
 Now sometimes, because there is a way of talking which looks very much like assurance, you may say, "I am not afraid. I never had a doubt or a fear. I know it is all right with my soul. I am not afraid of the test of the Day of Judgment." Well, whether you wish it or not, that test for the labor of your lighthouse will come. And if it should prove that you built it yourself, it will be swept away—and you with it. But if your soul takes God's Word, and reading that Word, believes it and is willing to be taught its inward meaning—if you take that Word as it stands, and rest upon it, and act upon it with all your heart and soul—the worst storm that ever blew shall never shake your rock and refuge, nor you, either! And you shall be safe when earth' s old columns bow and all her wheels shall go to wreck and confusion.
 
 Rest in the Lord Jehovah! Depend on the blood and righteousness of the Lord Jesus Christ for all that you need! Rest wholly in Him with the whole weight of your soul and spirit and then there shall be no fear that what you shall see is God's face with acceptance! May God teach us faith on the right principle, and may we walk by it, and not by sight— and then the Lord shall give us that reward which is given to those who walk by faith in the living God!
-
 
 ---
 [[Sermon 0676 Man'S Thoughts And God'S Thoughts|← #676]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0678 Praise Your God, O Zion!|#678 →]]

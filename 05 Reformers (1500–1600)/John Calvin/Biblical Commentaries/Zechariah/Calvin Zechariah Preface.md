@@ -9,10 +9,7 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Zechariah
-
-**calvin’s preface to zechariah**
 
 The Prophecies of Zechariah come next. He was a fellow-helper and colleague Of Haggai, and also of Malachi, as it will presently appear. These three, then, were sent by God nearly at the same time, that they might assist one another, and that they might thus by one consent and one mouth confirm what God had committed to them. It was indeed of great service that several bore their testimony: their prophecies gained thus greater authority; and this was needful, for the people had to contend with various and most grievous trials. Satan had already raised up great opposition to them; but there were still greater evils at hand. Hence, to prevent them from despairing, it was necessary to encourage them; by many testimonies.
 

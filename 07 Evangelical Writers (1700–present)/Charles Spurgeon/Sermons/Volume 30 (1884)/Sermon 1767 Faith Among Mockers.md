@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Faith Among Mockers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1767
-
-DELIVERED BY.
 
 > "He trusted on the Lord that He would deliver Him: let Him deliver Him, seeing He delighted in Him." Psalm 22:8.
 
@@ -138,7 +135,6 @@ Dives sees Lazarus in Abraham's bosom—what a sight for him! They that scoff at
 A man is generally much grieved with anyone who injures his children. I have known a man behave patiently to his neighbors and put up with a great deal from them. But when one of them has struck his child, I have seen him incensed to the last degree. He has said, "I cannot stand that! I will not look on and see my own children abused." The Lord says, "He that touches you, touches the apple of My eye." Jesus rises from His Throne in Glory and stands up indignantly while His servant Stephen is being stoned. If I had no other amusement whatever, I would not, for merriment sake, mock the people of God, for it will go hard with those who make unhallowed mirth out of the saints of the Host High! If any of you have ever done so—if you have done so ignorantly—may the Lord forgive you and bring you to be numbered among His people, as was Saul of Tarsus.
 
 And if any of you have done so knowingly, be humble and penitent, and the Lord will forgive you and receive you among His people. But whether you revile or flatter, it is all one to us. We are at a pass with you—we trust in God that He will deliver us—and we cannot be removed from this confidence. O you mockers, we will not be fooled out of our hope, nor jested out of our peace! We cannot find anyone like our God to trust to, and so we will not depart from Him in life or death, but will rest in Him, by His Grace, come what may, even till we see Him face to face!
-
 
 ---
 [[Sermon 1766 A Waiting God and a Waiting People|← #1766]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1768 First, King of Righteousness, and after That, King of|#1768 →]]

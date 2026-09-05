@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # A Plain Answer to an Important Enquiry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1521
-
-DELIVERED BY.
 
 > "Jesus answered and said unto them, This is the work of God, that you believe on Him whom He has sent." John 6:29.
 
@@ -98,7 +95,6 @@ How do I know that I shall have a blessed resurrection? How can I be certain tha
 Nothing shall be kept back from the man that believes his God and trusts his Redeemer! Oh that the Lord would give faith to you all! "Alas," you say, "I do not feel right." Never mind your feelings, trust in Christ! "Oh, but I am such a sinner." Jesus Christ came into the world to save sinners. "Alas, but I have tried before." Away with all your trying before! Have done with trying and accept the finished work! Trust Jesus now! "Do you mean that if I now trust myself with Christ, I shall be saved while sitting in the pew?" I mean even so! Be you whoever you may be, this night look to Jesus and be saved! If you will have done with yourself and will trust your soul in the hands of Jesus who has sworn to save those that rest themselves upon Him, you are saved!
 
 Oh, that those who have heard this Gospel many times would now, for the first time, really understand it and say, "Is this, after all, the greatest of all works—that I believe in Jesus Christ whom He has sent? Lord, I believe—help You my unbelief and save me now." O God, help many to breathe the prayer of faith at this moment, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1520 Pressing Questions of an Awakened Mind|← #1520]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1522 Expected Proof of Professed Love|#1522 →]]

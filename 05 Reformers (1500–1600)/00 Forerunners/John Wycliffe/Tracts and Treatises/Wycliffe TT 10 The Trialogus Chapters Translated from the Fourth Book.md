@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 10. The Trialogus: Chapters Translated from the Fourth Book, on the Sacraments, the Hierarchy, and the Religious Orders, Part 1
 
 CHAPTERS TRANSLATED FROM THE FOURTH BOOK OF THE TRIALOGUS RELATING TO THE DOCTRINE OF THE SACRAMENTS^ THE HIERARCHY^ AND THE RELIGIOUS ORDERS.
 
-ON THE EUCHARIST.
+## On the Eucharist
 
 Altthu. I wish, brother Phronesis, you would speak of the EuchariBt, the last sacrament but one, because it is regarded with greater reverence than the other sacraments, and appears to have most foimdation in Scripture, especially as in our own day this matter has been the Bobject of so much intricate discussion. And to prevent our being entangled in equivocal terms, it will be necessary to specify the quiddity of this venerable sacrament. "
 
@@ -31,7 +30,7 @@ S. That the sacrament of the eucharist is naturally true bread, speaking conform
 
 The method of Woodford in dealing with these articles is, in the first place, to adduce against them the authority of fathers, doctors, and ecclesiastical writers from the earliest time to his own, and then to reason, in the manner usual on such topics, in fisvour of the received doctrine. The mental oootrast between the Reformer and his antagonist is striking and instructive : on the one ■Ide a spirit of bold innovation meets us everywhere ; on the other all is abject submission. In Woodford we see the *^aind which had been ; in Wycliffe the mind which wm to be. Fasciculus Remm, 1. 190—104. - Condllum Londinense. AcU ConciUorum, Harduln. vii. 17S3.
 
-132 THE TRIAL0GU8.
+## 132 the Trial 0gu8
 
 Phkonesis. We must be aware by the ordinary testimony of our senses that the priest approaches the altar, and makes or consecrates out of the bread and wine a something that remains, and is cognisable by the senses, which the common people imderstand to be the body and blood of Jesus Christ. Accordingly, let us speak first of the round white wafer, to all appearance like a host which has not been hallowed by a consecrated presbyter, which the priest afterwards breaks and eats, and which imdergoes changes like those to which an unoonsecnted host is subject; as, for instance, it may be eaten by a mouse, may grow mouldy with time, and such like.
 
@@ -47,13 +46,13 @@ Again, in regard to the second part, what can be more opposed than the doctrine 
 
 • Sic— " ad iracundiam provocat veritatem."
 
-134 THE TRIALOGUS.
+## 134 the Trialogus
 
 who treated of the subject prior to that time .• After that time, however, the Scriptures were neglected, and many heresies were circulated on this subject, especially among the Mars, and the disciples of that school — as, in fact, the two errors mentioned above sufficiently show. The frian especially Tnain tain thcse errors, and defend them vriih obstinacy, not onlj blaspheming Christ, and the commandments of his holy word, but slandering the pope, and the court of Eome, in defence of their nest, as well as prelates, secular lords, simple priests, and the whole mass of the commao people. Thus saith the Scripture, Matt, xxri., " And as they were eatmg Jesus took hread^^ (&c. and the same in Mark xiv. ; Luke xxiL ; and ICor. xL Accordingly our church uses this form at the consecration of the host, Qui pridie pateretur, &c. Corpus mettm, &c. In all these places the meaning is the same, though there is a slight difference in the terms employed. From a faith so authoritatively promulgated, I would argue as follows with heretics : — Christ, who cannot lie, said — ^that the bread he took in his hands was really his body ; in this he did not err, he did not assert what was false, accordingly it was truly so. This reasoning gives every behever full warrant to abominate the aforesaid heresies, and whereby to convict the friars and their accomplices of heresy. Hence, prior to the loosing of Satan, Jerome, that distinguished student of Scripture, in treating of this subject in a letter to Helvidius, concludes in the following terms : '^ We may hear," saith he, " that the bread he brake and gave to his disciples to eat, is the body of our Lord and Saviour by his own words — * this is my body.' "
 
-WHAT IS DENOTED BY THE PRONOUN "THIS" IN THE WORDS OF
+## What Is Denoted by the Pronoun "This" in the Words Of
 
-CONSECRATION.
+## Consecration
 
 Alithia. 1 am delighted, brother, with your clear statement in regard to the faith of the church, which has been only too long hidden. I see not how the friars, or others, can escape your reasoning, without
 
@@ -67,7 +66,7 @@ This reasoning, founded on the object denoted by the pronoun, ought to give the 
 
 Again, if the reference of the pronoim to bread be out of place in
 
-136 THE TRIALOGUS.
+## 136 the Trialogus
 
 this connexion y how can it consistently be taught that the transubstantiation of the bread, by virtue of the words pronounced at the sacrament, is an accident without a subject, and an innovation of Christ's body in place of the sacramental bread ? This fictitious referaioe, which they ascribe to these pronouns, does away with the entire meaning of the sacrament.
 
@@ -81,11 +80,11 @@ An impossibility, according to our modern doctors, is incomprehensible ; and acc
 
 It is this doctrine of the saints, that whosoever imposes upon Scripture a sense foreign to it, such as the Holy Spirit requireth not, such a man must be a heretic. This sense given to the above terms, by the persons alluded to, neither Scripture, revelation, nor reason can establish. No one of the saints, prior to the loosing of Satan, was acquainted with it. Jerome, Augustine, and other saints, and a vigorous reason, all totally contradict it. The doctrine, then, must be wholly abandoned, as one of special falsehood. These men must amend Holy Writ, and make it say, not that the accident without a subject, which they cannot comprehend, is the body of Christ, but that it is the sign of the body of Christ. But how then, by virtue of this sentence, comes transubstantiation, or the accident without a subject ? Since this accident without a subject, may equally signify the body of Christ, these heretics cannot state at what instant transubstantiation, or the accident without a subject, really takes place.
 
-138 THE TRIALOOU8.
+## 138 the Trialoou 8
 
 Thus, then, is this three-fold doctrine annihilated, a doctrine contemptible and erroneous, after the manner of all other heresies which affect to be the doctrine of Christ We must abide, then, bj the opinion of the learned and acute Jerome, who says, that the bread, by virtue of Christ's word, is, sacramentally, the body of our Saviour. Of what sort that bread is, and of what it is in its own nature, the true theologian can see by observation of other hosts, not consecrated.
 
-SHOWING THAT THE BREAD REMAINS BREAD AFTER CONSECRATION.
+## Showing that the Bread Remains Bread After Consecration
 
 Alithia. I am delighted with your stringent and lucid replies to the heretics in this matter, and the more so, because so great a multitude of friars, and others, who call themselves Christians, exclaim against your doctrine, and plot in various ways against your life. According to your former statements, these men are, of necessity, manifest heretics, and, consequently, should be expelled the church, or, at least, excluded from every grade of ecclesiastical dignity, and so from all holding of temporalities and receiving of alms. I pray you, now, to explain how it is that the bread remains bread after consecration, for many declare that if they bad believed thus, they would never have observed the ceremony as they have done.
 
@@ -97,7 +96,7 @@ Concerning the assertion made by some hardened heretics, that they would never h
 
 With regard to the points touching the truth of the belief, that this sacrament is bread, let heretics be on the watch, and summon up all their powers ; for He who is called Truth, teaches us (Matt, vi.) to pray that he would give us our daily, or supersubstantial bread. And according to Augustine, on this passage in our Lord's sermon on the
 
-140 THE TRIAL0GU8.
+## 140 the Trial 0gu8
 
 mount, by daily bread, Christ intends, among other happy significations, this venerable sacrament. Are we not, then, to believe, what would follow, viz. that if the sacrament fbr which we pray is our daily bread, then in the sacrament there must 'be bread ? In the same manner the apostles recognised Christ with breaking of bread, as we are told in Luke xxiv. And Augustine, with the papal enactment, De Con. Dist. III. non omnes, tells us that this bread is this venerable sacrament Or are we to doubt its following, that the apostles having known Christ in the breaking of this bread, therefore that seeming bread must have been bread? Our apostle, likewise, who takes his meaning from our Lord, calls this sacrament the bread which we break, as is manifest in 1 Cor. x., and often again in the following chapter. Who then would venture to blaspheme God, by maintaining that so chosen a vessel could apply erroneous terms to the chief of the sacraments, — especially with the foreknowledge that heresies would take their rise from that very subject ? It is impossible to believe that Paul would have been so careless of the church, the spouse of Christ, as so frequently to have called this sacrament bread, and not by its real name, had he known that it was not bread, but an accident without a subject ; and when he was besides aware, by the gift of prophecy, of all the future heresies which men would entertain on the matter. Let ^ese idiot heretics say, and bring sufficient reason to prove their statements, what this sacrament, which their falsehoods desecrate, really is, if not the holy bread. As was said above, Christ, who is the first Truth, saith, according to the testimonies of the four evangelists, that this bread is his body. What heretic ought not to blush, then, to deny that it is bread?
 
@@ -105,13 +104,13 @@ We are thus shut up, either to destroy the verity of Scripture, or to go along w
 
 ON THE EUCHARIST. 141 say, that so it is. For I am certain, that even heathens, who make their own gods, are perfectly aware of what they are in their own proper nature, though they pretend that a portion of divinity is bestowed upon them superaaturally by the highest God of all. The believer, therefore, hesitates not to affirm, that these heretics are more ignorant^ not only than mice and other animals, but 'than pagans themselves ; while on the other hand, our aforementioned conclusion, that this venerable sacrament is, in its own nature, veritable bread, and sacramentally Christ's body, is shown to be the true one.
 
-THE PRECEDING STATEMENTS CONFIRMED BY ARGUMENT.
+## The Preceding Statements Confirmed by Argument
 
 AuTHiA. I am pleased to find that a man must be shut up, as it seems, to one of two courses,-^enying the evangelist, as an archheretic, or admitting what you require concerning this sacrament. WiU you now add a few arguments to the authorities you have brought forward, for we all admit that God can do nothing without good reason, that he cannot destroy a guiltless existence, or put confusion on that intelligence which he has implanted in our nature, unless some greater good, or better reason shall induce him ?
 
 PuBONESis. I am pleased with your manner of expressing confidence in God. We must, in order to the end now proposed, proceed in the way which the argiunents on this topic require, that the truth of our &ith may the more clearly appear. Let us lay it down, then, that of all the external senses which God has bestowed upon man, touch and taste are least liable to error in the judgments they give. But this heresy would overturn the evidence of those senses without cause ; and the sacrament which does that must he a sacrament of Antichrist. With regard to the evidence of touch in the sacrament, the certainty of experiment, which the heretic will not deny, shows us that this consecrated bread, when but newly baked, differs in its manner of breaking, in the degree of brittleness, and the sort of soimd produced in breaking it, from bread that is stale, and which is of greatest toughness
 
-142 THE TRIALOGUS.
+## 142 the Trialogus
 
 iu damp weather. Now accidents of this sort, hardness, softness, brittlencss, toughness, cannot exist per 8e; nor can they be the snbjecti of other accidents : it remains, therefore, that there must be some subject, as bread, or some thing by which they are made subjects. For since this sacrament, which is always the same, is found at one time hard, at another soft ; at one time brittle, at another t«ugh; the philosopher plainly sees, that there must be a subject of some sort besides, as the seat of qualities, which undergoes these respective changes, (for, otherwise, all distinction between such accidents must be denied,) or else, in such a transmutation, a new sacrament is continuallj created. But if the first be granted, then no accident is distinguished from a material substance ; and since those accidents remain, they would then become the material substance, as in the first instance.
 
@@ -121,13 +120,13 @@ But I have argued at length on this point elsewhere, and brought agjiinst this e
 
 ON THE EUCHARIST. 148 be coDBecrattid. It is plain, accordingly, that they must ever be in doubt as to whether they do truly consecrate. What, I ask, could move our Lord Jesus Christ, thus to take away the power of judgment from his worshippers? In no way doth it redound to their good, nor can it be established by reason or Scripture, that it is necessary for men to be 80 deceived ; for bread and wine, retaining their old form, would be a fitter representation of the body and blood of Christ, than an accident without a subject ; and the body and blood of Christ can be as wcU in any part whatever of such a body, as in any particle of such a most monstrous accident ; and then would Scripture faith be preserved, the advantage on all sides more, and the reverence for God greater. In like manner, such blasphemers convict the prelates, beyond escape, of a culpable negligence as regards the duties of the grammarian. For the schoolmaster teaches the translation of the aforesaid Latin words, according to the conmion understanding of them ; but to avoid the danger of heresy, it should be enjoined upon such persons to teach their boys to translate them in accordance with that blasphemous absurdity. The apostles knew the Lord in the breaking of bread, i.e., in the breaking of an accident without a subject ; for otherwise a boy of capacity might imagine that the bread had been substantially broken by God — ^a most perilous notion according to these heretics. The schoolmaster would bo culpable who did not explain such an equivocation as — the dog shines in the sky, but were to teach, according to the ordinary meaning of the word, that a barking animal and not a star shone there. Much more culpable would he be, then, if he should fail to explain an equivocal expression in a matter involving such an injury to the faith. But blessed be the Lord of goodness, that he hath so confoimded the wisdom of these heretics, that to this very day they know not how to construe the aforesaid words of the Gospel, so as to make them yield the sense they affix to them. For neither in construing nor in preaching do they themselves understand their own words, when they say that the apostles knew Christ in the breaking of bread, t.e., of an accident without a subject. And so Antichrist, in this heresy, overturns grammar, logic, and natural science ; and, what is more lamentable, destroys the lAeaning of the Gospel. But God, as he always preserveth a natural understanding among the laity, so he hath always kept the catholic sense among some of the clergy, as in Greece, or elsewhere, according to his pleasure. Oh who can excuse the inars, and other apostates, in that they know not how, or do not dare, or through jealousy do not wish, to instruct the people on these points, from whom, to say nothing of their obligation to love the brethren, they receive so great emolument? Verily the natiiral understanding of man would condemn false brethren of this sort, for ^like foes at home, they would do more than idolaters
 
-144 THE TRIALOGUS.
+## 144 the Trialogus
 
 abroad, to perplex the simple populace. What greater blasphemy than to assert that Christ, who is God, and the Lord of tmth, hath given special authority to errors of this sort among his people ? Without a doubt the chief cause is a departure from the commandments of the Gospel. Thus these false followers of Antichrist show themselyes more ignorant than brutes or pagans.
 
-HOW AND FROM WHAT CAUSE THE HERESY CONCERNING THE SACRAMENT
+## How and from What Cause the Heresy Concerning the Sacrament
 
-OF THE EUCHARIST HATH GROWN UP.
+## Of the Eucharist Hath Grown Up
 
 Alithia. I am pleased to hear you express yourself so boldly in behalf of evangelical truths, and that you have so far unfolded them by argument. But I would fain know how, and from what cause it was, that this heresy took its rise, even supposing it to have been introduced by Satan and his followers into the church.
 
@@ -139,15 +138,15 @@ ON THE EUCHARIST. 145 discuss this point, yet I am sure from the faith of Christ
 
 With regard to your second question, it appears to me that Christ, who is head over all devils, teaches us figuratively by this, how the kingdom of the evil one is divided against itself, and must finally be made desolate, showing that its principal supporters in their very blessing are divided against themselves — as in the matter of the sect of the friars, so that each one of them is opposed to all the rest, and no one can efficiently maintain its own sentiments. And inasmuch as their prelates presume to bless, for the payment of money, those whom the Lord hath cursed, so they often curse those whom the Lord hath blessed ; accordingly the Lord signifies to us, in that passage of Malachi, that their benediction after their own pleasiu^, should often be called the malediction of God. For they say that in the consecration of their host, they bless the bread and wine so that it becomes nothing, since according to their doctrine xk) part of it remains in the body of Christ, or in his sacrament, but taking annihilation in its proper sense, it is annihilated and tamed
 
-U6 THE TRIALOGU8.
+## U6 the Trialogu 8
 
 into nothing. But Christ, though he was called an austere man by the slothful servant, never cursed anything whatever with a severity like this, for when he cursed the fig-tree (Mark zi.) the substance of the tree remained, since Christ destrqyeth not utterly his creatures on account of sin, or the appearance of sin, and since no creature can do anything unless without the previous act of God. Hence it is plain, that thoa^ they may bless the bread (as they falsely say) so as to cause it to become nothing, yet Christ, since it is his own workmanship, preserrei it. Nor must we pass over what is said by John, in his treatise " On God,'^ that the bread remains bread, but that where it is unknown, since believers are well assured that the bread, by virtue of the blessing of Christ, is turned into a something better, because it is turned into the body of our Lord, and remains bread because the body itself remaiu sacramentally ; and if they say it is transubstantiated, by virtue of the sacramental words, it is enough for me, since that substance cannot pass into another which has no existence in the passage. Let us praise Jesos Christ, then, in that the author of this lie is not He who spake and it was done, but rather that liar who spake and it was not done, who commanded and it was brought to nought. But if you reply that it follo'ws from this, that the pope and his cardinals have many times erred from the faith, and often deceive both themselves and their churches, the conclusion is true, though lamentable. Whether, however, they died penitent for such heresy, or remained heretics after death, it is not for us rashly to decide. Yet God who knoweth things secret knoweth the truth in this matter, as do those to whom it is his pleasure himself to reveal it. For we are not bound to proclaim or believe that any pope, as such, is a father in the greatest blessedness after death, as his greedy flatterers during his lifetime clamorously assert, but the more he departed in life, even to the last, from the pattern of Christ, the more deep will be his condemnation in hell. But I believe many have been led into this heresy who finally repented, as was the case, in my opinion, with the Bishop of Lincoln and others, who have left behind them in their writings the opinion, that an accident cannot exist without its subject, and yet the aforesaid Bishop of Lincoln, in his " Glossa de Divinis Nominibus," thus writes — " An accident may perhaps {forte) exist without a subject." I believe this subtle doctor to have meant that such an accident in the sacrament must exist in the act of our mind, since we have sensation actually to admonish us. But the consideration of the quiddity of its substance must be put in abeyance, and our consideration of the created substance must be employed about that which is signified by it — as a man entering a church does not set himself to consider the quiddity of the wood of the image, or the cross, but worshippeth it in respect of that of which it is the sign. So it is in the matter of the con-
 
 ON THE EUCHARIST. 147 seorated host ; and because this is sometimes the case and sometimes not, I repeat what the Bishop of Lincobi says, '^ there may perhaps be an aoddent without a subject.** It is in this way that those philosophers speak, who hold that time has its existence in the mind, and that it is Tendered sensible by the act of attention. For the existence of time is known to us because it is the measure of sensible motion, by the actual oonsideration of the mind ; just as that which is perceptible to the senses, has this passive power reduced to act, during the time that it is actually being perceived. I think it very probable that great philosopliers have been secretly of this opinion on the matter. But it would be useless to inquire into the intention of the author of this error. So I leave the discussion and contention with regard to this gloss to be carried on by theologians, being certain always of the faith of the Gospel, whereupon I rest without the smallest fear.
 
-IN WHAT WAY THE BREAD IS THE BODY OF OUR LORD, AND NOT
+## In What Way the Bread Is the Body of Our Lord, and Not
 
-THE IDENTICAL BODY ITSELF.
+## The Identical Body Itself
 
 ALrmu. I am pleased again with the acute and lucid explanation of your sentiments, and in my opinion, the truth of Scripture is of infinitely greater authority than that of any person now living, or of any community that could be named ; so that if there had been a himdred popes, and all the friars had been turned into cardinals, no concession ought to have been made to their opinion in a matter of faith, save in so fer as they rest upon Scripture. I see farther, that you do not condemn the pope, or any one, on account of this error, because you are ignorant in what way they died ; but it is far more likely in your eyes that doctors have erred irom the faith, or been slothfully silent, than that a single word of the Gospel may possibly be false.
 
@@ -155,7 +154,7 @@ But there is one thing I would fain know, and that is, in what sense the bread i
 
 Phronesis. I see Uiat you discern the truth on many points ; and as to the mode in which that bread is the body of our Lord, such it surely
 
-148 THE TRIALOGUS.
+## 148 the Trialogus
 
 is, — ^believe this firmly, for Christ, who cannot lie, hath so said. Now you know there are three methods of predication — the formal, the esaoitial, and the figurative. Passing by the two former, let us here attend to the third. It is according to the third mode that Christ, as I haTe before observed to you, calls John the Baptist £lias, (Matt xi.) The apostle says of Christ, (2 Cor. x., when deducing a moral from the acts of the old law,) that he was a rock. And in Gen. xiL, the Scripture asserts, that seven ears of com, and seven fat kine, are the seven yon of fertility. And as Augustine observes, the Scripture does not sayare the signs of those years, but that they are the years themselves. And you will meet with sucK modes of expression constantly in Scripture. And in these expressions, without a doubt, the predication is made figuratively, and is not the predication essential, or the predication formal. Now all such expressions show that the thing (res) of tie subject, is ordained by God to be the figiuie of the thing of the predicate. So again it is said, that the sacramental bread is, after that mode, specially the body of the Lord, since Christ has so declared authoritatively. Yet I am ready to believe in a more subtle meaning, should I be taught it, either by Scripture or by reason. But of this meaning I am confident, nor have heretics, who would oppose me, any means of resistance on this point, since according to appearance, this accident without a subject, as they teach, which is the sacrament, is the body of Christ, that is, sacramentally the sign and figure of the body itself. Then there is a greater relation between bread and the body of Christ, (as Augustine shows,) than between it and an accident of this sort ; when-- fore it is no mere colouring to say that the bread is figuratively the body of Christ. For, as Augustine teaches, in what he says on Johncorn is collected of a multitude of grain, and ground ; secondly, ^vater is poured on it, and it is kneaded ; and thirdly, it is taken as the fooH of the body for nourishment. In a similar way believers receive the sacramental bread in fragments ; it is afterwards watered by evangeUcal faith, and kneaded in the heart ; and when baked by the fire of charity, is spiritually eaten. Accoi*dingly, Augiistine says, on John, "Believe with a faith moulded by charity, and thou hast eaten ; '' and this muit be understood of eating spiritually.
 
@@ -165,9 +164,9 @@ ON THE EL'CHARIST. 149 saith, "This is my blood," &c., where the words show the 
 
 Nevertheless, from motives of gain, such exemption must not be soffered to extend to the inferior clergy. And of the pope, it must be believed, as though it were a matter of faith, that he falls into no error, especially in regard to the faith of the church, but that he is a most blessed father, because he sins not. Thus it would appear, that the passage explained above, in Matt, xxiv., — "When ye shall see the abomination of desolation," refers to this heresy about the host.
 
-150 TUE TRIALOGUS.
+## 150 Tue Trialogus
 
-ON THE IDENTIFICATION OP THE BREAD WITH THE BODY OF CHRIST.
+## On the Identification Op the Bread with the Body of Christ
 
 Alithia. I most request you, brother, to show still farther, from reason or Scripture, that there is no identification of the bread with the body of Christ, and no impanation. For 1 am by no means pleased with the spurious writings which the moderns use, to prove an acddent without a subject, because the church so teaches. Such evidence should satisfy no one.
 
@@ -175,17 +174,17 @@ Pbbonesis. As to identification, we must, in the first place, agree on what you 
 
 AuxniA. This threefold reason satisfies me that the identification you mention cannot exist. But let me request you to destroy the doctrine of impanation held by some false brethren.
 
-ON THE EUCHARIST. 151
+## On the Eucharist. 151
 
 Phronesis. I am certain that this doctrine of impanation is impossible and heretical. In the first place, I oppose it by saying, that in that case the body of Christ, and so Christ made glorious in the body, — ^would undergo all the transmutations which bread could undergo, and so the body of Christ would not only be made by the presbyter who celebrates the service, but by the baker, and ere now be so multiplied, that Christ woiild have many bodies at once; and all that could be predicated of bread, would be applicable to the body of Christ. So a mouse would eat the body of Christ, and that very body would putrefy, and turn into worms, and a priest, in celebrating this ordinance, would commonly bremk the neck, and all the limbs of Christ 1 But what could be more hateful, more savouring of the infidel, more disastrous to the catholic pilgrim ? The consequence is plain, because when two natures are identified in the same person, as is plain in the case of the incarnation, all that is predicated of either nature is applicable to the one person. For in this sense we truly grant, not only that Christ, but that God, was crucified, dead, and buried, as before he had been temporally begotten and made of a woman. But if, in the same way, that bread is so made to be the identical body of Christ, and that body is really Christ himself, that bread is in reality made Christ as God. But what idolatry could be more odious ? For so every church would have its own God, to whom would be applicable all the d^rading predications we have mentioned ; and so the Deity would become the basest thing in the universe! On the same ground, adopting the doctrine of impanation, as above set forth, the festival of the impanation ought to be solemnly celebrated like that of the incarnation. And Christ ought, afi;er the same sense, to be made Peter, a lamb, a sheep, a kid, a ram, a serpent, &c. But what more absurd ? Wherefore it is certain, that the expression, " This is my body," with others like it, should be understood as predicated figuratively.
 
 We must notice one difference between the predication identical, and the predication figurative, for when two natures are identified in the same person, as in the case of the incarnation, each of them is numerically the same ; but in the case of the sacrament of the altar it is otherwise, because, though the bread be broken in three, or any number of parts, each one of them is not really, but figuratively the body of the Lord, as in looking into different mirrors, you see the same face as regards the likeness in every one of them. Wherefore, there is no necessity that a thing made by God thus symbolically, should stand in any need of the presence of the thing of which it is the figure, or that the thing itself, of which it is the figure, should be locally approximated to it, or on this account be really changed. So it is not to be understood that the body of Christ descends to the host, in any church where
 
-152 THE TRIALOGUS.
+## 152 the Trialogus
 
 it is being consecrated, but remains above in the skies, stable and unmoved, so that it has a spiritual existence in the host, but not of the dimensions, nor according to the other accidents appertaining thereunto in heaven. Hence it seems to me that the bodj of Christ, and so Chiut in his hmnanity, may extend spiritually to every part of the world. Bat according to Augustine, and the other doctors, he is king spirituallj, potentially, and virtually, even unto every part of his kingdom. The body of Christ, therefore, extends to every part of iMs world, since by virtue from that body every part of the world is pervaded, beyond any power an earthly king has of pervading the parts of his kingdom. Nevertheless we must believe, that the body of Christ is far otherwise present in the consecrated host, since it is the host itself figurativelj : and, according to the nature of spiritual and virtual existence, it is different in every part of it.
 
-SHOWING THAT THE BODY OF CHRIST DOTH NOT CORRUPT.
+## Showing that the Body of Christ Doth Not Corrupt
 
 PsEUDis. The follies to which you have been giving vent, have sent me into a long nap ; but now I must awake a little, and confute them. In the first place, you cannot escape from this expository syllogism: — First, This bread becomes corrupt, or is eaten by a mouse. Second, The same bread is the body of Christ, Third, Therefore the body of Christ does thus become corrupt, and is thus eaten ; — and thus you are involved in inconsistency.
 
@@ -199,9 +198,9 @@ PflRomcsis. The believer will yet escape many such arguments, because, unless yo
 
 « Tb«t if, the bread so eaten If, in a ttnss, or/p«raMee^, the body of Chriit
 
-154 THE TRIAL0GU8.
+## 154 the Trial 0gu8
 
-WHETHER TWO BODIES MAY BE AT ONCE IN THE SAME PLACE.
+## Whether Two Bodies May Be at Once in the Same Place
 
 PsEUDis. I see that you blush not to oppose both philosophers and theologians, by propositions which carry their own re^tation along with them ; for all men of sound mind suppose that it is impossible for two bodies to be in the same place, which you, nevertheless, intimate as possible, in what you say about the body of the bread, and the body of Christ.
 
@@ -215,11 +214,11 @@ PsEUDis. It seems to me, that you depart alike from the church and from Scriptur
 
 Phronesis. I see that you do not apprehend the ulterior arguments in this matter, and thus you introduce diffictdties foreign to the subject. For the church, owing to the great subtlety of the subject, and her zeal after temporal things, has given but too little attention to this point, the pope and all his cardinals having but a very imperfect notion concerning it. But, by the grace of Christ, I will maintain the sense of Scripture, and keep clear of the heresy which teaches, that "if the pope and cardinals assert them to be the sense of Scripture, therefore so it is," because then they would be set up above the apostles. But, further, in regard to your logic, it seems probable, from many reasons, that for a layman to have the power of celebrating, and for a layman to have the power of rightly celebrating, are much the same thing. In the first place, this admission, according to your logic, must be conceded. And, again, many men consecrated as presbyters are imbecile; and so, at the pleasure of some, even the laity themselves often celebrate it. And, again, in the equivocation about the consecrating, it must, it seems, be granted, that the laity can officiate, and even consecrate, as the blessed Cecilia consecrated a house for her church. Nay, I believe you cannot show, that when the Christians brake bread from house to house, as we read. Acts ii., that the bread broken was not the body of Christ, and that the apostles or elders were the only persons who so did. But leaving this uncertain, it appears to me that this office becomes consecrated priests, since Christ specially enjoined upon them so to do, when he said, " As often as ye eat this bread," &c. So, then, wherever Christ operateth with a man, then, and then only, doth he consummate the sacrament; and this should ever be admitted and remembered by our priests. Nevertheless, because this is not an article of faith, there is no necessity for its being believed by the church : but it may be left as a probable supposition, and there is no need of quarrelling, therefore, inasmuch as there are a number of things which may be proposed to the Christian, which he should neither admit, deny, nor doubt, — as, if I were asked whether I am destined to be saved; or about one who has sinned grievously, whether he will be damned, as finally obstinate, — about such things, I neither admit, deny, nor doubt. And so, on seeing the
 
-156 THE TRIAL0GU8.
+## 156 the Trial 0gu8
 
 host, I worship it conditionally, and the body of the Lord above, I adore fully. And, so, my answer to the six preceding arguments may be used as a means of doing away with similar ones.
 
-ON BAPTISM.
+## On Baptism
 
 AuTHiA. Let US indulge no more in these vexatious disputes with Pseudis, but pass at once to the other six sacraments. And as you do not discuss them according to the order before-mentioned, but according to their comparative authority in Scripture, next to the eucharist you must treat of baptism.
 
@@ -237,7 +236,7 @@ With regard to your first instance, in respect to signs, it appears to me that C
 
 • Tbit lang»a(;e points to a kind of baptismal regeneration, but tbe reader will find that this doctrine is considerably modified and guarded by tbe language of tbe Reformer vben taken largely.
 
-158 THE TRIALOOUS.
+## 158 the Trialoous
 
 definition of a sacrament applies to him in the highest d^^ree : for as Moses lifted up the brazen serpent in the wilderness, and all who had been stung by the serpents were healed on looking up to that serpent, as is said, Num. xxi., so Jesus our living serpent, having the likeness of sin upon him, though he could not possibly sin, was suspended on the cross, that those who are stung by the poison of the old serpent, sin, may become spiritually whole. Christ therefore approves of signs, both under the new law and in the old, but is opposed to their abuse. You must mark, then, that the mystical body of Christ, during the time of the old law, was like a child, to be instructed in many ways by such sensible signs ; but as the church grew in age under the law of grace, signs of this nature are not so much to be regarded. Accordingly I think there is in the present day a threefold abuse of these signs.
 
@@ -249,9 +248,9 @@ The third abuse is, the burthening of the church with such signs which Christ ha
 
 Of these two abuses, our religious generally are guilty. It is plain that signs, especially those instituted by Christ, may be lawfully used with moderation, these three abuses being guarded against. Since, then, Christ himself instituted the sign of baptism, why should we not in a prudent manner ol^serve it, esi)ecially as we are still only pilgrims, and have not yet attained to clear knowledge ; and seeing that it is necessary that we should be led in this way by some signs of this nature ?
 
-ON BAPTISM. 169
+## On Baptism. 169
 
-ON THE THREEFOLD BAPTISM.
+## On the Threefold Baptism
 
 AuTHU. I am pleased that you have touched on the subject of signs, for I think you have treated the matter with acuteness, though your statements imply that it would be better for our religious to abandon those superfluous signs which they have invented. But reply I pray you to my two other objections.
 
@@ -259,7 +258,7 @@ Phronesis. The task you impose is a pleasure. You must mark afresh the distincti
 
 • The reader will obBerve the mixture of light and obscurity In theie Btatementa and allusions, aod will form his own conclusion ftom them. The story of the Theban L^on belongs to the close of the third century. It is for the most part an uncertain tradition. The authorities relating to it may be seen in Oieseler's Eocletiastleal History, 1. 117.
 
-1 60 THE TRIALOGUS.
+## 1 60 the Trialogus
 
 With regard to the language of Scripture, (John iii.) " Unless a man be born again of water and of the Spirit," &c. it is probable that Christ there speaks of the water which flowed from his side, and of the third kind of baptism, because it appears indubitable that a man who suffers martjrdom for Christ will be saved even though he may not have been baptized with water. So it seems probable that the words of Christ have this negative meaning — viz. that no man can enter the kingdom of heaven except he be baptized with the baptism of the water that flowed from the side of Christ, (t. e. cleansing from guilt by his passion,) and with the baptism of fire, (i. e, from the influence of the Holy Spirit,) since the Trinity could not save the fallen by receiving them into happiness, imless the second and the third persons remove their sans. Accordingly, Christ taught that the first baptism shotdd be celebrated in the above words of the Gospel. Yet must it not be imagined bj believers that the baptism of the Spirit altogether supersedes the baptism of water, but that it is necessary wherever circumstances permit, to become recipients thereof. When an infidel baptizes a child, not supposing that baptism to be of any avail for his salvation, such a baptism we are not to regard as serviceable to the baptized.
 
@@ -271,9 +270,9 @@ Yet we believe that when any old woman or despised person duly baptizes with wat
 
 "That this article is justly condemned appears in the first place f^om the blessed Auiputine on Peter concerning faith, where he assigns to such the punishment of everlasting fire : and the words are found in the fourth division of the canon respecting consecration. But here our opponeut replies in the twelfth chapter of the fourth book of the Trialogus, that Augustiue gives this as an hjrpo-
 
-ON CONFIRMATION. 161
+## On Confirmation. 161
 
-ON CONFIRMATION.
+## On Confirmation
 
 Altthia. Pray inform me in the next place about the third sacrament, wbich is generally named Confirmation ; and first concerning the authority which may be adduced for it from Scripture. It has not, I concehre, a suflicient warrant from Acts viii. " Now, when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John : who, when they were come down, prayed for them, that they might receive the Holy Ghost : (for as yet he was fallen upon none of them : only they were baptized in the name of the Lord Jesus.) Then laid they their hands on them, and they received the Holy Ghost." This is the text from which it is generally concluded, that beside the baptism wherewith men are baptized, apostolic confirmation should be added, since such was the practice of the apostles. Yet this passage is not adequate to sustain the doctrine ; for it might be tbetis. Mid not aa an asiertion. But it is plain that this is false from Augustine's mode of expressing himself, who in this article, as well as in that on the Trinity, says— Maintain such firmly, and in BO respect doubt— which are not the words used by one advancing a mere hypothesis, but the words of one asserting what is verily believed. And at the conclusion of that work Augustine writes thus in the fimrth booli— Adhere firmly to the rule of the true faith — and if you see any one uttering dogmaa against it, flee him as a pest, and reject him as a heretic. For those things which we aarigned to the catholic faith, are in such harmony, that if any one shall contradict, not all of them, hot any one of them, in the very fisct of his contumaciously rejecting these separate doctrines, he ahowa himself a heretic and an enemy of the Christian faith at large, and consequently is to be anathtmatised by all Christians. Now in these words, Augustine asserts particular articles of the catholic fsith to be, and that the obstinate opponent of these particular articles becomes thereby a heretic, and an enemy of the whole Christian fi&ith. Since, therefore, this makes the fourth article in this bodkt it is manifest that Augustine positively asserts this article to be heretical.
 
@@ -291,7 +290,7 @@ Still further it appears, that this confirmation, thus unauthorised by the apost
 
 Phuonesis. Your replies are, in my judgment, acute and satisfactory, nor do I at present perceive any obvious method of replying to them, either from reason or Scriptiu^. But supposing the bishops to pray for the baptized that they may be confirmed in the gifl of that Holy Spirit which they have before received, and that for this reason they add to this service the sensible signs which it is their practice to observe, I do not see what there is to prevent their dtdy celebrating this third sacrament, supposing that the same result ensues which followed the action of the apostles ; but if they fail in attaining the end of the apostles, I see not how they can show from this text that they really confirm.
 
-ON ORDERS. 16(3
+## On Orders. 16(3
 
 60 long as they fail in regard to this end, it would seem useless further to discuss the subject.
 
@@ -299,11 +298,11 @@ This sacrament does not appear to me necessary to the believer's •ahration, no
 
 Hence some are of opinion, that this slight and brief confirmation perfi)rmed by the bishop, with the rites which are attached to it with so much solemnity, was introduced at the suggestion of the devil, with a view to delude the people concerning the faith of the church, and to give more credence to the solemnity, or as to the necessity of bishops. For according to the common opinion, while our bishops administer this sacrament of confirmation, retaining it in conmion with many other things exclusively in their own hands, and while there is no salvation ioT believers apart from the reception of these solemn sacraments, how could the church preserve her station uninjured without such bishops ? But one thing appears to hold, in the greater part, that for any bishop whatever, baptizing in such a way, to bestow the Holy Spirit, according to God*s covenant, implies a blasphemy. But I leave to others the more subtle discussion of this topic.
 
-ON THE SACRAMENT OF ORDERS.
+## On the Sacrament of Orders
 
 AurmA. I do not see that anything can be done by treating further of this matter, or that any great advantage attends it, though the custom of the court of Rome, or the ancient custom of the church, may hold it proper ; since this is no more a sufficient evidence in favour of this sacrament, than would be the antiquity of the abuses of the prelates, if adduced to justify their faxdts. But I pray you, discuss simply the
 
-104 THE TRIALOOUS.
+## 104 the Trialoous
 
 sacrament of orders, and the manner in which it should be defined; and, in the first place, what order is.
 
@@ -325,7 +324,7 @@ If then a prelate, and such as live on tithes, strengthen themselves
 
 • Wodeford opposes to the argument deduced from this passage, the language of the following : — " And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying, Command the children of Israel, that they give unto the Leviteiii, of the inheritance of their possession, cities to Swell in ; and ye shall give also unto the Levites suburbs for the cities round about them. And the dttefl shall they have to dwell in : and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts. And the suburbs of the cities which ye shall give unto the Levites, shall reach from the wall of the city and outward, a thousand cubits round about. And ye shall measure firom without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand mbtts; and the city shall be in the midst; thii shall be to them the suburbs of their cities." — Num. IXXT. 1 — 5. Fasciculus Reruro, i. 218. It is plain that the inference of Wycliffe, bam the fact that the Levites had not a share, after the manner of the other tribes, in the land of promise, is of greater »t«nt than the facts of the case would warrant. But within certain limits the fact appealed to iraa Jiutly ETaUable for Che purpoMs of his argument.
 
-166 THE TRIALOGUS.
+## 166 the Trialogus
 
 by means of the second part of this Diving authority, to e&xe tithei greedily for their own gain, why do they not as eagerly embrace die first, out of love to Christ, who was j)oor? To the same effect, in Deut. xviii. it reads thus : "The priests the Levitea, and all the tribe of Levi, shall have no part nor inheritance with Israel : tbej shall eat the offerings of the Lord made by fire, and his inheritaooe. Therefore shall they have no inheritance among their brethren : the Lord is their inheritance, as he hath said unto them." If these commandments of the Lord under the old law are so strict in forbidding the clergy to hold possessions ; and Christ and his apostles, in the time of the law of grace observed this same conmiand more strictly still, iHw can be a greater heretic or Antichrist than that clerk, who shall contradict these lessons more than the men who lived under the old law? To the same effect, Ezek. xliv. — " I am their inheritance : and ye shall give them no possession in Israel ; I am their possession, and they shall eat the meat-offering, and the sin-offering, and the trespaaa-ofiering ; and every dedicated thing in Israel shall be theirs, and the first of all the first-finiits of all things, and every oblation of all, of every sort of your oblations, shall be the priests : ye shall also give unto the priests the first of your dough, that he may cause the blessing to rest in thine house." If then in the time of the old law, when the people were more earthly in every respect, as being young, and not wise as yet in heavenly things, the clergy were so restricted in things temporal, by the conunand of the Lord, how much more ought it to be observed, since Christ has followed, both God and man, Living a life of the greatest poverty ; and since the lives of apostles have repeated the same lesson in work and example ? It is plain, then, that if any men have become, by violation of the law of the Lord, heretical apostates or blasphemers, those clergy are they, even th(! bishops who so notably offend herein. T\s-o other laws are proclaimed in Gen. ii. and Ezek. xvi. K therefore the bishop be honied with a mitre, to denote that he knows and observes both testaments, w^ho can be said to belie Christ more in blasphemy than the prelate who is endowed and enriched with worldly possessionsy even above kings ?
 

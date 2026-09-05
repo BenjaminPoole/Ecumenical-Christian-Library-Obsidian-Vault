@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Precious, Honorable, Beloved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 917
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 20, 1870,.
+*Delivered on Lord's-Day Morning, February 20, 1870*
 
 > "Since you were precious in My sight you have been honorable, and I have loved you." Isaiah 43:4.
 
@@ -166,7 +165,6 @@ If the woman in the Gospels who lost her piece of money had said, "It is only a 
 But if you feel that they are precious to you for Christ's sake, and honorable because they are men—capable, by God's Divine Grace, of Heaven and holiness, you will set to work in God's strength to reclaim them. And God will second and bless your efforts, and you will see them saved. Gladly would I have you give yourselves for them, and the Church give people for their life. May God grant to every one in this House of Prayer, first, to be precious in the sight of God Himself. And next, to seek after others whom God has loved and whom He means to save through them.
 
 May God lead you to give all you have—though it were Egypt, and Ethiopia, and Seba—that precious souls may be reclaimed. Send us such zeal, O Holy Spirit, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0916 A Generous Proposal|← #916]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0918 The Two Builders And Their Houses|#918 →]]

@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 47. XV. For Reparation of Churches
-
-### XV. For Reparation of Churches.
 
 Lest the Word of God, and ministration of the Sacraments, come into contempt by unseemliness of the place, churches and places where the people publicly convene should, with expedition, be repaired in doors, windows, thatch, and provided within with such preparations as appertain to the majesty of the Word of God as well as unto the ease and commodity of the people. We know the slothfulness of men in this behalf, and in all other which may not redound to their private commodity, and strait charge and commandment must be given that before a certain day the reparations must be begun, and that before another day, to be affixed by your honours, they be finished. Penalties and sums of money must be enjoined, and then without pardon taken from the contemners.
 

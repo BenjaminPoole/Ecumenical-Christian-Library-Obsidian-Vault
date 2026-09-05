@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Hoping in God's Mercy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3390
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Behold, the eye of the Lordis on those who fear Him, on those who hope in His mercy." Psalm 33:18.
 
@@ -31,7 +28,7 @@ I am always very anxious about those who have the beginnings of Grace in them. I
 
 In trying, therefore, to avoid two evils, I shall begin by speaking about a hope in God's mercy which is false—and then I shall say a little about a sound hope in God' s mercy. To begin, then, at the beginning—
 
-I. THERE IS A FALSE HOPE IN GOD'S MERCY AGAINST WHICH WE EARNESTLY WARN YOU.
+## I. There Is a False Hope in God's Mercy Against Which We Earnestly Warn You
 
 "I do not believe," says a man, "that God will ever cast me into Hell, for God Almighty is very merciful." "What will become of you when you die?" said one man to another. "I do not know," was the answer, "and I do not think much about it because I know that God is a very good God—and I do not think that He will cast the souls of men into Hell, as bigots say, and cause them to be forever banished from His Presence." Now, Friend, if this is your hope, I beseech you to be rid of it, for it is a deadly viper and though you nurse and cherish it in your bosom, it will sting you to your destruction, for do you not know that the God of the Bible is a God of Justice, as well as a God of Mercy? Though He is infinitely good, yet He Himself has said, "I will by no means spare the guilty."
 
@@ -57,7 +54,7 @@ The mercy of God makes a man love Christ and makes him seek to be like Christ. Y
 
 I wish I might have torn away, from some now present, their false dependences, but I am afraid they are too dear to them for my hands to do it! May God's Holy Spirit deliver men from all false confidences in God's mercy! But now a much more pleasant part of my work comes before me, namely—
 
-II. TO DESCRIBE A SOUND HOPE IN THE MERCY OF GOD.
+## II. To Describe a Sound Hope in the Mercy of God
 
 I shall say of it, first, that a soundly hopeful soul feels its need of mercy. It does not talk about sin, but it feels it. It does not talk about mercy, but it groans after it. Beware of superficial religion! I think if I might only say two things before I die, one out of the two would be—beware of surface godliness. Take care of the paint, the tinsel, the varnish, the oil! There must be in us a hungering and a thirsting after righteousness! There must be in us the broken heart and the contrite spirit. I like revivals—far be it from me to ever say a word against them—but I have seen scores of men jump into religion just as men jump into a bath—and then jump out, again, just as quickly because they have not felt their deep need of Christ.
 
@@ -73,7 +70,7 @@ I might thus continue to describe this hope, but I shall not detain you longer u
 
 Now, I want to take the text like a very sweet and dainty morsel and just drop it into the mouths of you who are ready to faint for it—"The eye of the Lord is upon those who fear Him, upon those who hope in His mercy." Though you have got no further than that, yet you have God's eye upon you and you may be greatly comforted! But we must go to another point with great brevity. We have in this house of worship, here and now—
 
-III. SOME WHO ARE AFRAID TO HOPE IN GOD.
+## III. Some Who Are Afraid to Hope in God
 
 They unconsciously desire to trust Him in His own appointed way. They understand it, but they are afraid to do it. Now, my beloved fellow sinner, I beseech you to cast yourself upon Christ and to trust in Him! And remember that God cannot lie. It is blasphemy to suppose that God can say a thing that is not true. Now, He has promised, over and overagain, to save everyone that trusts in Christ. And if He does not save you, well, then_. You know what I mean. Oh,but God cannot lie! Therefore, come and cast yourself upon His faithful promise! Well do I remember when that text, "Whoever calls upon the name of the Lord shall be saved," stayed my fainting soul for months together, before I actually had joy and peace. Do you call upon God in prayer? Do you trust in God, however little it may be? Then you shall be saved! Believe it. If any soul here feels himself to be as black as night—imagines himself to be out of the list of the hopeful—yet if he can but come and cast himself upon what Christ did when He died upon the Cross for sinners, God must cease to be God before that soul can perish! Hope then, hope then, Sinner, for God cannot lie!
 
@@ -85,7 +82,7 @@ Have hope, I say, once more, because of what Christ endured upon the Cross. See 
 
 Yet must we still pass on and, only for a moment, linger upon—
 
-IV. THE COMFORT WHICH THE TEXT AFFORDS TO THOSE WHO HAVE A HOPE IN GOD'S MERCY.
+## IV. The Comfort Which the Text Affords to Those Who Have a Hope in God's Mercy
 
 It says that the eye of the Lord is upon them. There is a blessing for you. Nobody else's eye is upon you. You have got up to London, away from parents and friends, and nobody looks after you now. You have come into this big Tabernacle and I am sorry to find that there are still some of our members who do not look after strangers—do not look after souls as they ought to do—and you have been coming here and nobody has spoken to you. Now, let me read the text, and I need not say any more, " The eye of the Lord is upon those who fear Him, upon those who hope in His mercy." God sees you and you do not need anybody else! Be content that God knows all about it. You are up in the top gallery there, somewhere behind where my eye cannot reach you—and hardly my voice—but "the eye of the Lord is upon those who fear Him, upon those who hope in His mercy." And mark that eye, as well as being an eye of observation, is also an eye of pity! God has compassion on you! He stands side by side with you—that bleeding Son of God—and in your groans He groans, and in your griefs He takes a share. He has compassion on you—yes, and He will help you—and even now He loves you. The eye with which He looks upon you is a Father's eye and when a father sees his child broken-hearted, he says to himself, "I can stand anything but this. My child's tears overcome me, overmaster me. I cannot see him sick and sad and sobbing, without pitying him."
 
@@ -99,7 +96,7 @@ I do trust that this is not the case with us, but that we do anxiously desire th
 
 Oh, my Hearers, we must have you saved! We cannot go on much longer with some of you as you are because you yourselves will not go on much longer as you are! We have been rather free for the last few weeks from deaths and departures, but do not think that we shall be free from them long! In the ordinary course of nature, as those who calculate the averages of human life will tell you, a certain proportion of a great multitude like this—some 6,000 and more—must soon die. There is no chance about whether we shall or not—we must. Now, who shall it be? Who shall stand before his God? To whose ears will the ringing trumpet of the archangel sound? For whom shall the funeral bell be tolled? Over whom shall it be said, "Ashes to ashes, dust to dust"? Since we know not to whom the summons may come, may this be the command to all, "Consider your ways and prepare to meet your God." Oh, that you might prepare this very night, and seek unto the Lord with full purpose of heart! And this is the promise, "He that seeks, finds; he that asks, receives and to him that knocks, it shall be opened."
 
-EXPOSITION BY C. H. SPURGEON: PSALM139.
+## Exposition by C. H. Spurgeon: Psalm 139
 
 This is a Psalm we can never read too often. It will be to us one of the greatest safeguards against sin if we have its teaching constantly before our mind's eyes. The teaching of this Psalm is simply this, "You, God, see me."
 
@@ -130,7 +127,6 @@ Verse 1. O Lord, You have searched me, and known me. You have looked into my mos
 20-22. For they speak against You wickedly, and Your enemies take Your name in vain. Do not I hate them, O LORD, that hate You? And am not I grieved with those that rise up against You? I hate them with perfect hatred: I count them my enemies. We are bound to love our own enemies, but not God's enemies, since they are haters of all that isgood and all that is true—and the essentially Good One, Himself. We love them as our fellow beings, but we hate them as haters of God.
 
 23, 24. Search me, O God, andknow my heart: try me, and knnowmy thoughts. Andsee if there are any wicked ways in me, and lead me in the way everlasting.
-
 
 ---
 [[Sermon 3389 The Soul's Awakening|← #3389]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3391 Preparation for the Lord's Supper|#3391 →]]

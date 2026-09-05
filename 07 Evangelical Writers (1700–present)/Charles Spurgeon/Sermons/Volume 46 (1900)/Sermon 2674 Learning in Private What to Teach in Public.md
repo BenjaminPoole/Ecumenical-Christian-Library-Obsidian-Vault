@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Learning in Private What to Teach in Public
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2674
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What I tell you in darkness, speak in light: and what you hear in the ear, preach on the housetops." Matthew 10:27.
 
@@ -93,7 +90,7 @@ Possibly, dear Friend, you are in trouble because you say that you feel afraid t
 
 Salvation by Grace, through faith in Jesus, is no dream, no fiction! Let skeptics say what they will. Our experience— and we are as honest as they are and no more fanatical than they are—our experience agrees with what our Lord has revealed to us in His Word and, therefore, when we preach the Gospel, or relate what Grace has done for us, we use Christ's very Words and say, "We speak what we do know and testify what we have seen." God grant that many of you may be able to bear similar testimony, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 10:1-27.
+## Exposition by C. H. Spurgeon: Matthew 10:1-27
 
 Verses 1-4. And when He had called unto Him His twelve disciples, He gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease. Now the names of the twelve Apostles are these. The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother; Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus; Simon the Canaanite, and Judas Iscariot, who also betrayed Him. The lesson to be learned from these names is, first, that these men are mentioned in couples and I think that, as a rule, God's servants work best in pairs. In other senses than the matrimonial one, it is not good that man should be alone. Moses needs Aaron; Peter needs Andrew; James needs John. It is well to be of such a temperament and disposition that you can work harmoniously with another of your Lord's servants. If you cannot, pray God to change you! Notice that expression, in the 3rd verse, "and Bartholomew." I think there is not a single instance in the New Testament where Bartholomew is mentioned without the word, "and," before or after his name—"and Bartholomew," or, "Bartholomew and" someone else. Perhaps he was not a man who ever began any work by himself, but he was a grand man to join in and help it on when somebody else had started it. So, dear Friend, if you are not qualified to be a leader in the Church of Christ, be willing to be Number Two—but do serve the Master, in some capacity or other, with all your might! Be a Brother who carries an, "and," with him wherever he goes. Be like a horse that has his harness on and is ready to be hooked into the team. That is the lesson of the two words, "and Bartholomew." The last lesson from the names is at the end of the 4th verse—"and Judas Iscariot, who also betrayed Him." He preached of Christ. He worked miracles in the name of Christ. He was ordained as one of the Apostles of Christ, yet he was, "the son of perdition." Oh, let none of us be content merely with our official position, or trust in the good which we hope we have done, or in any gifts with which the Master has entrusted us! Judas Iscariot had all these marks of distinction, yet he betrayed his Lord. God grant that no one among us may turn out to be a Judas Iscariot!
 
@@ -118,7 +115,6 @@ Verses 1-4. And when He had called unto Him His twelve disciples, He gave them p
 21\. And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death. Read the martyrologies and see whether it was not exactly as our Lord foretold that it would be! In martyr times men often burst all the bonds of natural affection and betrayed even their own fathers or children to death! Yet the saints quaffed not—they were content to let every earthly tie be snapped so that the tie of their heavenly and eternal relationship might be confirmed. So may it be with us, also!
 
 22-27. Andyou shall be hated of all men for My name's sake: but he that endures to the end shall be saved. But when they persecute you in this city, flee you into another, for verily I say unto you, You shall not have gone through the cities of Israel before the Son of Man comes. The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he is as his master, and the servant as his lord. If they have called the master of the house, Beelzebub, how much more shall they call them of his household? Fear them not, therefore, for there is nothing co vered that shall not be revealed; andhidden, that shallnot be known. What I tellyou in darkness, that speakyou in light: and whatyou hear in the ear, that preach you on the housetops. God help us to do so, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2673 Christ Crucified|← #2673]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2675 Jehovah's Challenge|#2675 →]]

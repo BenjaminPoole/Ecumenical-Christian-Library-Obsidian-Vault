@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Love at Its Utmost
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1982
@@ -99,8 +98,7 @@ And when thou art once immersed in this love, continue in it. Christ does not lo
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— John 15.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—916, 798, 792.
-
+## Hymns from "Our Own Hymn Book"—916, 798, 792
 
 ---
 [[Sermon 1981 God the Wonder-Worker|← #1981]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1983 How Hearts Are Softened|#1983 →]]

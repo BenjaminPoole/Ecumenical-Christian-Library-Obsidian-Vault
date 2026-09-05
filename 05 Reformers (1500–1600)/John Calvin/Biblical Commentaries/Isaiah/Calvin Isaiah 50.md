@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 50
 
-**CHAPTER 50.**
+***Chapter 50.***
 
 ## Isaiah 50:1-11
 

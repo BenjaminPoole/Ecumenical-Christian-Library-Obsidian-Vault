@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Stephen and Saul
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2948
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And cast him out of the city, and stoned him; and the witnesses laid down their clothes at a young man's feet, whose name was Saul." Acts 7:58.
 
@@ -55,7 +52,7 @@ There are many persons who are keepers of the clothes of open sinners. For insta
 
 II. Now, secondly, our text affords us A REMARKABLE INTRODUCTION OF A PERSON TO TRUE
 
-RELIGION.
+## Religion
 
 Perhaps there may be someone here whom you know who has never yet come into contact with real, vital godliness, and you are very anxious that he should do so. I am equally anxious that he should and I think it ought to be your earnest endeavor that not only he, but all who are like he should, somewhere or other, come into contact with real religion. Now, as far as we see in the Bible, this is Saul's first introduction to anything like real Christianity. We have not his name, before this verse, in the Acts of the Apostles, so here, for the first time, he steps forward into the arena of conflict—"a young man, whose name was Saul." Was he favorably impressed at once with Christ and His people? Certainly not, but quite the reverse! The impression made upon him was that of intense hatred and enmity towards Jesus of Nazareth and all His followers.
 
@@ -108,7 +105,6 @@ But there is also something more than this. If Saul had not been there, he would
 Whenever you think that an unconverted man has formed some plot to allure you into sin, have so much of the Holy Spirit about you that instead of his overcoming you, you will overcome him! Have you never heard of the soldier who reported that he had taken a prisoner? The officer said, "Bring him along, then." He said, "I cannot." "Why not?" "Because he is dragging me the other way," replied the soldier. He had not taken a prisoner—he had become a prisoner himself! And many a Christian, instead of doing good to the world, is being led away captive by the world. Let it not be so with you. Make them turn to you, but do not turn to them. It is well, in the firmness of faith, to draw them towards the Savior, but may it never happen that their evil example shall master your good and their revelry shall overcome your piety. God fill us with the Holy Spirit and with faith so that we may, like Stephen, be the means of transforming Saul, the persecutor, into Paul, the Apostle!
 
 I leave this subject with you, only asking you to pray for any whom you see to be distinguished for sin, or infidelity, or heresy. Pray God to save them! The more mischief they are doing, the more earnestly you ought to pray for them, for it is very likely that if they were converted, the more good would they do. I read a strange speech of John Bunyan's once, with which I did not wholly agree, though there was some truth in it. He said that he had great hope for the next generation because the young men that he met with were so intensely wicked and he thought that if God, by His Grace, changed them, they would make grand saints. So, when you meet with intensely wicked men, pray God to make grand saints of them! They are the raw material, ready to His hands for Him to work upon. The very obstinacy and rebellion of their nature shows that when Divine Grace comes into them, they will make the most outspoken Christians. Therefore, pray for such and may God hear your prayer, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2947 Royal Emblems for Loyal Subjects|← #2947]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2949 Our Lord's Posture in Ascension|#2949 →]]

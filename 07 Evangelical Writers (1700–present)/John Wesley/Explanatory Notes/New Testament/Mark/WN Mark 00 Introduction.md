@@ -11,10 +11,9 @@ tags:
   - wesley
   - wesley-notes
 ---
-
 # Mark — Introduction
 
-THIS CONTAINS,
+*This Contains*
 
 - I. The beginning of the Gospel,
     - a. John prepares the way Chap. i, 1-8

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 78. Rights of the Priests
-
-**Rights of the Priests**
 
 ## Numbers 5:9,10
 

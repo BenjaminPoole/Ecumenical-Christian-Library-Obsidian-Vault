@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Old Gospel for the New Century
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2708
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come unto Me, all you that labor and are heavy laden, and I will give you rest." Matthew 11:28.
 
@@ -97,7 +94,7 @@ When my dear Master calls any to come to Him, it is not for His own gain that He
 
 God bless you all, and may Christ be glorified in your salvation and your sanctification, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 11.
+## Exposition by C. H. Spurgeon: Matthew 11
 
 Verses 1-3. And it came to pass, when Jesus finished commanding His twelve disciples, He departed from there to teach and to preach in their cities. Now when John had heard in the prison the works of Christ, he sent two of his disciples, and said unto Him, Are you He that should come, or do we look for another?Had John's faith begun to waver? It is possible that it had. Elijah had his times of trembling and depression. Then, why might not the second Elijah have the same sort of experience? Possibly John wished to strengthen the faith of his followers and, therefore, he sent two of his leading disciples to Jesus, that they might make the enquiry for themselves as to whether He was the Christ or not.
 
@@ -120,7 +117,6 @@ Verses 1-3. And it came to pass, when Jesus finished commanding His twelve disci
 25\. At that time Jesus answered and said. So he had been talking with His Father—"Jesus answered." Very often, no doubt, the Savior spoke with God when it is not recorded in the Gospels that He did. But here a plain hint is given that Christ was in intimate communion and fellowship with God. At such times great doctrines which, to the shallow minds of those who live at a distance from God, seem dreadful, become delightful, and are lit up with unusual splendor! At that time the Doctrine of Election was specially upon the heart of Christ because He was dwelling near to God, Himself. "Jesus answered and said."—
 
 25-30. I thank You, O Father, Lord ofHeaven and earth, because You have hid these things from the wise andpru-dent, andhave revealed them unto babes. Even so, Father: for so it seemed good in Your sight. All things are delivered unto Me by My Father: and no man knows the Son but the Father; neither knows any man the Father, save the Son, and He to whom the Son will reveal Him. Come unto Me, all you that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn of Me; for I am meek and lo wly in heart: and you shall find rest unto your souls. For My yoke is easy, and My burden is light.
-
 
 ---
 [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2709 Christ's Past and Present Witnesses|#2709 →]]

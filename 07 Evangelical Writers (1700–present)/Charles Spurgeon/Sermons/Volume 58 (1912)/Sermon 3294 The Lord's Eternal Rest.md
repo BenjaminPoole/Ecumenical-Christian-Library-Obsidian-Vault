@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Lord's Eternal Rest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3294
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is My rest forever: here will I dwell; for I have desired it" Psalm 132:14.
 
@@ -129,7 +126,7 @@ I wonder if there are any here who will never find rest in the Church of the Fir
 
 [See Sermon #3287, Volume 58—THE ONLY DOOR.]
 
-EXPOSITION BY C. H. SPURGEON: PSALM132.
+## Exposition by C. H. Spurgeon: Psalm 132
 
 A Song of Degrees.
 
@@ -174,7 +171,6 @@ ver prayer, but here, in this 16t verse, we have a golden answer. The prayer of 
 18\. His enemies will I clothe with shame: but upon Himself shall His crown flourish. We have no King but Jesus and His crown is always flourishing. It sits well upon a blessed head. Let us crown Him once again this day with our gladsome praise and thanksgiving!
 
 .th
-
 
 ---
 [[Sermon 3293 'The Blood of the Testament'|← #3293]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3295 Communion With Christ and His People|#3295 →]]

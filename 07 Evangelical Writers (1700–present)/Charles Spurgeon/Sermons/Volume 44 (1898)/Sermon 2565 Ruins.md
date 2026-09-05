@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Ruins
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2565
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But they were the ruin of him, and of all Israel." 2 Chronicles 28:23.
 
@@ -120,7 +117,6 @@ Isaiah 2:6. Therefore You have forsaken Your people, the house of Jacob, because
 17, 18. And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day. And the idols He shall utterly abolish. They set them up at every street corner, they even put them before the House of God, itself. On every green hill and in every grove, they worshipped with filthy rites that can scarcely be thought of without a blush! But God declared that He would sweep them all away and so He did when He visited the land in His fierce anger.
 
 19-22. And they shall go into the holes ofthe rocks, and into the caves ofthe earth, for fear ofthe LORD, and for the glory of His majesty, when He arises to shake terribly the earth. In that day a man shall cast his idols of silver, and his idols of gold, which they made, each one for himself to worship, to the moles and to the bats; to go into the clefts ofthe rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of His majesty, when He arises to shake terribly the earth. Cease you from man, whose breath is in his nostrils: for of what account is he? Can you imagine Isaiah delivering this stern, but noble message—gorgeous in language, poetic and sublime to the very last degree? What courage it must have taken for him to stand forth and deliver this before an idolatrous king and a people who went greedily after him! Verily, the Lord has raised up His faithful servants in all times, and He gives them the courage of lions and voices that are very terrible! Yet the hearts of men are seldom moved. "Cease you," says Isaiah, "cease you from man"—from the king of Assyria—from all powers in which you trust! "Cease you from man, whose breath is in his nostrils: for of what account is he?"
-
 
 ---
 [[Sermon 2564 Strange Ways of Love|← #2564]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2566 A Test for True Seekers|#2566 →]]

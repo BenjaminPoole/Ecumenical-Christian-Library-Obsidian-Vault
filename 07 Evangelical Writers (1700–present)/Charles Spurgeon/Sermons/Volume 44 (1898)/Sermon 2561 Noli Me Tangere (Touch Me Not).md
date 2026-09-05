@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # "Noli Me Tangere" ("Touch Me Not")
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2561
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto her, Touch Me not, for I am not yet ascended to My Father: but go to My brethren, and say unto them, I ascend unto My Father, and your Father; and to My God, and your God." John 20:17.
 
@@ -81,7 +78,7 @@ I think I hear somebody say, "Well, I am so glad I can get as far as that, I can
 
 As for you who have no part nor lot in this matter, I am very sorry for you. I would God that you had. Whoever believes in the Lord Jesus Christ shall have all this and much more than tongue can tell. Oh, that you would believe in Him, now, and live forever! God grant it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS20AND21.
+## Exposition by C. H. Spurgeon: Psalms 20and21
 
 The 20th Psalm is a prayer for the king going forth to the conflict—a prayer for David. Better still, a prayer for great David's greater Son. The 21st Psalm is a song of victory for the returning conqueror, it is a Te Deum, as the King has triumphed and has returned from the conflict to enjoy the congratulations of His loyal subjects.
 
@@ -124,7 +121,6 @@ Psalm 21:1. The King shall joy in Your strength, O LORD; and in Your salvation h
 12\. Therefore shall You make them turn their back, when You shall make ready Your arrows upon Your strings against the face of them. As if God would single out the enemies of Christ to be targets for His arrows and fill them with the darts of His displeasure. Who would wish to be in such a plight as this?
 
 13\. Be You exalted, LORD, in Your own strength: so wiil we sing andpraise Your power.
-
 
 ---
 [[Sermon 2560 Universal Fatherhood—a Lie!|← #2560]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2562 Cries From the Cross|#2562 →]]

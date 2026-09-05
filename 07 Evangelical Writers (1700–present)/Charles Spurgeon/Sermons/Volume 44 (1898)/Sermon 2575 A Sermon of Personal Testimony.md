@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Sermon of Personal Testimony
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2575
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For it is not a vain thing for you; because it is your life." Deuteronomy 32:47.
 
@@ -124,7 +121,6 @@ But the Grace of God can put life into your dead morality!
 Perhaps I am speaking to some who are immoral. If that is your case, this salvation is just the thing for you! The religion of Jesus suits publicans and harlots—it is just the thing for the felon and the depraved. Someone here, perhaps, is half-ashamed to be in this congregation. You are the very one I am sent after tonight—the lost sheep! It is you the Shepherd is seeking! He can afford to leave the 99 that went not astray. But you lost sheep—you lost woman, lost man—you are the very one that Jesus loves, for, "the Son of Man is come to seek and to save that which was lost." Come and cast yourself into His arms by simple trust, for that is faith! Trust Jesus! Just as I lean my whole weight upon this rail, lean on Him your whole weight! Fall flat down on His promise of pardon! Lie right down on the Rock—trust in nothing of your own—but trust Christ for everything—and you are saved!
 
 God grant that this may be the happy lot of us all, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2574 Persecuted, But Not Forsaken|← #2574]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2576 Zion's Prosperity|#2576 →]]

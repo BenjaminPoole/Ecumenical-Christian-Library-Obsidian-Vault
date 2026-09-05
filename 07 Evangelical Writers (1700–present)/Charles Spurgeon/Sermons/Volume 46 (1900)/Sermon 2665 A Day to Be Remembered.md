@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Day to Be Remembered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2665
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus said unto him, This day has salvation come to this house." Luke 19:9.
 
@@ -103,7 +100,7 @@ You are not only on praying ground, for tonight seems to me to be a very auspici
 
 through the throng and bow at the feet of Jesus Christ, our Lord! If you do so, He will accept you, and again it shall be said, "This day is salvation come to this house." God grant it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE18:35-43; 19:1-10.
+## Exposition by C. H. Spurgeon: Luke 18:35-43; 19:1-10
 
 Luke 18:35-39. And it came to pass, that as He was come near unto Jericho, a certain blind man sat by the wayside begging: and hearing the multitude pass by, he asked what it meant And they told him that Jesus of Nazareth passed by. And he cried, saying, Jesus, Son of David, have mercy on me! And they who went before rebuked him, that he should hold his peace. "Hush," they cried, "how can you disturb the blessed Master's discourse? Be quiet."
 
@@ -138,7 +135,6 @@ others, for he had sold himself to the hated Roman power and was authorized to c
 8\. And if I have taken anything from any man by false accusation, I restore him fourfold. Which restitution was an act ofjustice—and when charity and justice go hand in hand, what more can we expect of men?
 
 9, 10. And Jesus said unto him, Today is salvation come to this house, because he also is a son of Abraham. For the Son of Man is come to seek and to save that which was lost And that day He had both sought and saved one of the lost ones, for He had found Zacchaeus up in a sycamore tree, and He had brought salvation to the tax-gatherer's house. May He do the same for many who are here!
-
 
 ---
 [[Sermon 2664 Things Unknown|← #2664]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2666 The Sorrowful Man's Question|#2666 →]]

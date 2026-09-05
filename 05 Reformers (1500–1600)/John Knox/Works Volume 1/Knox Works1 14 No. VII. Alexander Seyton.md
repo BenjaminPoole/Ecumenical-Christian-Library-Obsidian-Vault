@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 14. No. VII. Alexander Seyton
 
 ## No. VII.
 
-ALEXANDER SEYTON.
+## Alexander Seyton
 
 In mentioning Alexander Seyton, Calderwood says, "He was of a quicke ingyne, and tall stature;" and adds, "I find in Mr. John Davidson's scrolles, that he was brother to Ninian Seton Laird of Tough."—(Hist. vol. i. p. 93.) In this case he must have been the youngest son of Sir Alexander Seyton of Touch and Tillybody in Stirlingshire; and the pedigree of that family may in part be thus exhibited:—
 

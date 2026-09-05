@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # An Earnest Warning Against Unbelief
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3217
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And to whom swore He that they should not enter into His rest, but to them that believed not? So we see that they could not enter in because of unbelief." Hebrews 8:18,19.
 
@@ -160,7 +157,6 @@ fast, to hold on and to hold out to the end—and the Grace you need in order to
 17\. But with whom was He grieved forty years? Was it not with them that had sinned, whose carcasses fell in the wilderness?See how the Apostle speaks of them! He does not say that their bodies were buried, but that their carcasses fell in the wilderness! Unbelief degrades us into beasts whose carcasses fall beneath the battle-axe of Judgment. Oh, that we might all be rid of unbelief—that degrading, desecrating, defiling, destroying thing!
 
 18, 19. And to whom swore He that they should not enter into His rest but to them that believed not? So we see that they could not enter in because ofunbelief.lt was not the sons Anak that kept them out! It was not the waste howling wilderness! It was nothing but their own unbelief!
-
 
 ---
 [[Sermon 3216 The Two Gatherings|← #3216]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3218 Preaching Christ Crucified|#3218 →]]

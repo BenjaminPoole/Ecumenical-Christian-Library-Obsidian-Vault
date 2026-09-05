@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 213. Matthew 27:57-61; Mark 15:42-47; Luke 23:50-56
-
-MATTHEW 27:57-61; MARK 15:42-47;  
-LUKE 23:50-56
 
 **57.** And when the evening was come, there came a rich man from Arimathea, named Joseph, who himself was a disciple of Jesus. **58.** He went to Pilate, and requested the body of Jesus; then Pilate commanded the body to be delivered. **59.** And Joseph, having received the body, wrapped it in a clean linen cloth. **60.** And laid it in his own new tomb, which he had hewn out in the rock, and having rolled a great stone to the door of the tomb, he departed. **61.** And Mary Magdalene and the other Mary were there, sitting opposite to the sepulcher.
 

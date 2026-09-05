@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 38. The second Chapter. Of the calling of God, and of his grace
-
-## *The second Chapter.* Of the calling of God, and of his grace.
 
 THE calling of God is directed vnto that end that we should beléeue the same; and further, [^1] [^2] that we should be saued by the benefit thereof. Séeing therefore that our saluation and faith be those good things, which the calling of God hath respect vnto, this nature they haue, that faith serueth for another end; namelie, for our saluation: two maner of ends indéed, but yet it may séeme to be one, séeing without doubt the one tendeth vnto the other. [^3] But the forme of the calling is not alwaies one and the same; for sometimes it is doone onelie by inspiration of the spirit, and sometimes by the words of God outwardlie propounded vnto vs, either by writing, or by word of mouth. And those words of God, whereby we be called, doo consist partlie in promises, and partlie in doctrine; vnto the which also threatenings are otherwhile added. Likewise we knowe, that some haue béeme called by compulsion, [^4] as the holie historie in the Acts of the apostles declareth of *Paule.* We also reade, that this hath sundrie times béene brought to passe by benefits, yea, [^5] and the gifts of healing bestowed vpon the apostles séeme to haue an eie vnto that. Sometimes God calleth his children by aduersities; [^6] of which waie the children of Israel had verie manie times experience. And it must be remembred, that this calling sometimes is vnderstood as concerning saluation, [^7] séeing God dooth therefore call vs vnto him, that we may be saued. There is also a certeine other priuate calling for the taking of some certeine charge in hand, be it of préesthood, kingdome, gouernment of houshold, and other such like. Which two callings be not all one, bicause they may be seuered; for so was *Saule* called vnto the kingdome, [^8] but not vnto saluation; [^9] & *Iudas,* albeit he were ioined to the apostleship, yet was he not partaker of the saluation by Christ.
 

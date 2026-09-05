@@ -10,14 +10,13 @@ written: "1765 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 ### A
 
 # DISSERTATION, &C.
 
 ## INTRODUCTION
 
-CONTAINING EXPLANATIONS OF TERMS AND GENERAL POSITION
+## Containing Explanations of Terms and General Position
 
 To avoid all confusion in our inquiries concerning the end for which God created the world, a distinction should be observed between the *chief* end for which an agent performs any work, and the *ultimate* end. These two phrases are not always precisely of the same signification: and though the *chief* end be always an *ultimate* end, yet every ultimate end is not always a chief end. A *chief* end is opposite to an *inferior* end: an *ultimate* end is opposite to a *subordinate* end.
 

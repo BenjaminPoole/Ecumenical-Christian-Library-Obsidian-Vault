@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Sealed and Open Evidences
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2297
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thus says the LORD of Hosts, the God of Israel; Take these deeds, this deed of the purchase, which is sealed, and this deed which is open; and put them in an earthen vessel, that they may last many days." Jeremiah 32:14.
 
@@ -109,7 +106,7 @@ Brothers and Sisters, do you possess these evidences? If you have none, do not t
 
 The Lord bring you all to Jesus, tonight, just as you are, whether saints or sinners—and then shall you rejoice in Him! The Lord bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. JEREMIAH 32:6-41.
+## Exposition by C. H. Spurgeon. Jeremiah 32:6-41
 
 Verses 6, 7. And Jeremiah, said, The word of the LORD came unto me, saying, Behold, Hanameel, the son of Shallum, your uncle, shall come unto you, saying, Buy you my field that is in Anathoth: for the right of redemption is yours to buy it. God gave His servant an intimation of what was about to happen so that he might know how to act. It did seem a very strange thing to come to a poor Prophet in prison and to ask him to buy a piece of land when the Chaldeans were in possession of it—and when there seemed to be no hope that he would ever see it! One said, "I have bought a piece of ground, and I must needs go and see it," but Jeremiah could not do this, for he was shut up in prison, and the enemy had possession of the field he was to buy! Still, the thing was of the Lord, and therefore it was right. And there is many an action which, in itself, might seem absurd, but which, nevertheless, is to be performed because it is according to the will of God.
 
@@ -154,7 +151,6 @@ this day."
 39, 40. And I will give them one heart, and one way, that they may fear Me forever, for the good of them, and of their children after them: And I will make an everlasting Covenant with them, that I will not turn away from them, to do them good; but I will put My fear in their hearts, that they shall not depart from Me. There is, here, a promise of double bliss! The Lord will not turn from His people and they shall not turn from Him. What more could God do than He, here, promises? It looks like a trial of strength between sin and Grace! Sin was like a mountain, but the Lord's love was like the flood which prevailed till even the mountains were covered!
 
 41\. Yes, I will rejoice over them to do them good, and I will plant them in this land assuredly with My whole heart and with My whole soul. See how God puts His whole heart to the work when He is blessing His people? When He forgives sin, it is with His whole heart and soul. May we, with our whole heart and soul, repent of our sins and then, with all our heart and soul, serve the Lord! Amen.
-
 
 ---
 [[Sermon 2296 Saints Guarded From Stumbling|← #2296]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2298 The Christ-Given Rest|#2298 →]]

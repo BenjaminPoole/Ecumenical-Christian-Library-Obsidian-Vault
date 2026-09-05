@@ -11,7 +11,6 @@ tags:
   - classical
   - julius-caesar
 ---
-
 # The Commentaries of Caesar
 *Gallic War and Other Commentaries*
 
@@ -19,47 +18,11 @@ tags:
 
 ---
 
-[Transcriber's Note:
-
-Typographical errors in the original have been corrected and noted
-using the notation ** .
-
-Macrons, breves, umlauts etc have been removed from the body of the text
-since they were very obtrusive and made reading difficult. However, they
-are retained in the Index for reference.
-
-The convention used for these marks is:
-Macron (straight line over letter)  [=x]
-Umlaut (2 dots over letter)         [:x]
-Grave accent                        [`x]
-Acute accent                        ['x]
-Circumflex                          [^x]
-Breve (u-shaped symbol over letter) [)x]
-Cedilla                             [,x]
-]
-
        *       *       *       *       *
 
+## Caesar's Commentaries
 
-
-
-EVERYMAN'S LIBRARY
-
-EDITED BY ERNEST RHYS
-
-
-CLASSICAL
-
-
-
-CAESAR'S COMMENTARIES
-
-TRANSLATED BY W. A. MACDEVITT
-
-WITH AN INTRODUCTION BY
-
-THOMAS DE QUINCEY
-
+## Thomas De Quincey
 
 THIS IS NO. 702 OF _EVERYMAN'S LIBRARY_. THE PUBLISHERS WILL BE PLEASED
 TO SEND FREELY TO ALL APPLICANTS A LIST OF THE PUBLISHED AND PROJECTED
@@ -67,52 +30,33 @@ VOLUMES ARRANGED UNDER THE FOLLOWING SECTIONS:
 
        *       *       *       *       *
 
-TRAVEL--SCIENCE--FICTION
+## Theology & Philosophy
 
-THEOLOGY & PHILOSOPHY
+## History--Classical
 
-HISTORY--CLASSICAL
+## For Young People
 
-FOR YOUNG PEOPLE
+## Essays--Oratory
 
-ESSAYS--ORATORY
+## Poetry & Drama
 
-POETRY & DRAMA
-
-BIOGRAPHY
-
-REFERENCE
-
-ROMANCE
+## Reference
 
        *       *       *       *       *
 
 THE ORDINARY EDITION IS BOUND IN CLOTH WITH GILT DESIGN AND COLOURED
 TOP. THERE IS ALSO A LIBRARY EDITION IN REINFORCED CLOTH
 
+## The Sages of Old Live Again in Us
 
-
-
-THE SAGES OF OLD LIVE AGAIN IN US
-
-GLANVILL
-
-
-
-
+## Glanvill
 
 "DE BELLO GALLICO" & OTHER COMMENTARIES:
 OF CAIUS JULIUS CAESAR
 
+## Introduction
 
-FIRST PUBLISHED IN THIS EDITION, 1915
-REPRINTED 1923, 1929
-
-
-
-INTRODUCTION
-
-BY THOMAS DE QUINCEY
+## By Thomas De Quincey
 
 The character of the First Caesar has perhaps never been worse
 appreciated than by him who in one sense described it best; that is,
@@ -637,7 +581,7 @@ have been returned, had it been collected upon the famous principle of
 Themistocles, that he should be reputed the first whom the greatest
 number of rival voices had pronounced to be the second.
 
-BIBLIOGRAPHY
+## Bibliography
 
 _Works_: Latin folio, Rome, 1469; Venice, 1471; Florence, 1514; London,
 1585. De Bello Gallico, Esslingen (?), 1473. Translations by John
@@ -658,28 +602,18 @@ Latin text of De Bello Gallico see Bell's Illustrated Classical Series;
 Dent's Temple Series of Classical Texts, 1902; Macmillan and Co., 1905;
 and Blackie's Latin Texts, 1905-7.
 
-
        *       *       *       *       *
 
+## The War in Gaul
 
-CONTENTS
-
-
-THE WAR IN GAUL
-
-THE CIVIL WAR
-
-
-
-
+## The Civil War
 
 THE COMMENTARIES OF
 CAIUS JULIUS CAESAR
 
+## The War in Gaul
 
-THE WAR IN GAUL
-
-BOOK I
+## Book I
 
 I.--All Gaul is divided into three parts, one of which the Belgae
 inhabit, the Aquitani another, those who in their own language are
@@ -1861,9 +1795,7 @@ Sequani, a little earlier than the season of the year required. He
 appointed Labienus over the winter quarters, and set out in person for
 Hither Gaul to hold the assizes.
 
-
-
-BOOK II
+## Book II
 
 I.--While Caesar was in winter quarters in Hither Gaul, as we have shown
 above, frequent reports were brought to him, and he was also informed by
@@ -2485,9 +2417,7 @@ Italy; and a thanksgiving of fifteen days was decreed for those
 achievements, upon receiving Caesar's letter; [an honour] which before
 that time had been conferred on none.
 
-
-
-BOOK III
+## Book III
 
 I.--When Caesar was setting out for Italy, he sent Servius Galba with
 the twelfth legion and part of the cavalry against the Nantuates, the
@@ -3026,9 +2956,7 @@ country, [and] having burnt their villages and houses, Caesar led back
 his army and stationed them in winter-quarters among the Aulerci and
 Lexovii, and the other states which had made war upon him last.
 
-
-
-BOOK IV
+## Book IV
 
 I.-The following winter (this was the year in which Cn. Pompey and M.
 Crassus were consuls), those Germans [called] the Usipetes, and likewise
@@ -3709,9 +3637,7 @@ only two British states sent hostages; the rest omitted to do so. For
 these successes, a thanksgiving of twenty days was decreed by the senate
 upon receiving Caesar's letter.
 
-
-
-BOOK V
+## Book V
 
 I.--Lucius Domitius and Appius Claudius being consuls, Caesar when
 departing from his winter quarters into Italy, as he had been accustomed
@@ -4801,9 +4727,7 @@ the forces of the Eburones and the Nervii which had assembled, depart;
 and for a short time after this action, Caesar was less harassed in the
 government of Gaul.
 
-
-
-BOOK VI
+## Book VI
 
 I.--Caesar, expecting for many reasons a greater commotion in Gaul,
 resolves to hold a levy by the means of M. Silanus, C. Antistius
@@ -5627,9 +5551,7 @@ Agendicum, in the territories of the Senones; and, having provided corn
 for the army, he set out for Italy, as he had determined, to hold the
 assizes.
 
-
-
-BOOK VII
+## Book VII
 
 I.--Gaul being tranquil, Caesar, as he had determined, sets out for
 Italy to hold the provincial assizes. There he receives intelligence of
@@ -7381,13 +7303,11 @@ the Saone, to procure supplies of corn. He himself determines to winter
 at Bibracte. A supplication of twenty days is decreed by the senate at
 Rome, on learning these successes from Caesar's despatches.
 
+## Book VIII
 
+## Continuation of Caesar's Gallic War Ascribed to Aulus Hirtius
 
-BOOK VIII
-
-CONTINUATION OF CAESAR'S GALLIC WAR ASCRIBED TO AULUS HIRTIUS
-
-PREFACE
+## Preface
 
 Prevailed on by your continued solicitations, Balbus, I have engaged in
 a most difficult task, as my daily refusals appear to plead not my
@@ -8361,13 +8281,11 @@ designed against Caesar, yet he resolved to submit to any thing, as long
 as there were hopes left of deciding the dispute in an equitable manner,
 rather than have recourse to arms.
 
-
        *       *       *       *       *
 
+## The Civil War
 
-THE CIVIL WAR
-
-BOOK I
+## Book I
 
 I.--When Caesar's letter was delivered to the consuls, they were with
 great difficulty, and a hard struggle of the tribunes, prevailed on to
@@ -9971,9 +9889,7 @@ Fufius Kalenus, one of his lieutenants. According to his directions,
 they marched from Spain to the river Var, and there the rest of the army
 was disbanded.
 
-
-
-BOOK II
+## Book II
 
 I.--Whilst these things were going forward in Spain, Caius Trebonius,
 Caesar's lieutenant, who had been left to conduct the assault of
@@ -10880,9 +10796,7 @@ were Servius Sulpicius and Licinius Damasippus, and in a few days
 arranged and ordered what he would have done in Utica, and in a few days
 more returned to his own kingdom, with all his forces.
 
-
-
-BOOK III
+## Book III
 
 I.--Julius Caesar, holding the election as dictator, was himself
 appointed consul with Publius Servilius; for this was the year in which
@@ -13036,12 +12950,9 @@ desist from his enterprise, nor to despair of success; but his
 messengers being discovered and apprehended, he was put to death by
 Caesar. Such was the commencement of the Alexandrian war.
 
-
-
        *       *       *       *       *
 
-
-INDEX
+## Index
 
 N.B. The numerals refer to the book, the figures to the chapter. G.
 stands for the Gallic War, C. for the Civil.

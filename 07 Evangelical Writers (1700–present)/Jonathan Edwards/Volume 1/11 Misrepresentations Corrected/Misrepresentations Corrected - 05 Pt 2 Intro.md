@@ -10,10 +10,9 @@ written: "1752"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-AN EXAMINATION OF MR. WILLIAMS’S SCHEME, IN THE VARIOUS PARTS OF IT.
+*An Examination of Mr. Williams’s Scheme, in the Various Parts of It*
 
 ---
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # God Comforting His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3012
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD has comforted His people." Isaiah 49:13.
 
@@ -130,7 +127,6 @@ Go mourning all their days?
 Great Comforter, descend and bring
 
 Some tokens of Your Grace." God bless you, dear Friends, with the Spirit of consolation! The Holy Spirit is the Comforter! May He comfort you, for Jesus' sake! Amen!
-
 
 ---
 [[Sermon 3011 Faith First, Confession Following|← #3011]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3013 Warning and Encouragement|#3013 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Generous Proposal
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 916
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come you with us, and we will do you good." Numbers 10:29.
 
@@ -103,7 +100,7 @@ So, then, the exhortation of our text which, strictly speaking, seems most appli
 
 III. But now, our third observation is that THE MAIN ARGUMENT—THE MOST POWERFUL INCENTIVE WE CAN EVER USE IS THAT ASSOCIATION WITH THE CHURCH OF CHRIST WILL DO THOSE WHO ENTER
 
-INTO IT GOOD.
+## Into It Good
 
 I am sure it will, for I speak from experience. And if I were to call upon many scores, and even hundreds, in this House of Prayer, they would all bear the same testimony—that union with the people of God has done them good. The Church of God may say this, first, because she can offer to those who join with her good company. In the Church of God are those who are called "the excellent of the earth," in Whom David said was all his delight. In the Church of God are the humble, meek, and lowly.
 
@@ -139,7 +136,7 @@ As one new born and nourished there." Woe unto those who shall have no part with
 
 IV. And now, lastly. All this being seriously pondered and clearly understood, the last point is a matter of very serious importance. Lest we should be found mere pretenders, LET ALL OF US WHO BELONG TO CHRIST'S CHURCH
 
-TAKE CARE TO MAKE THIS ARGUMENT TRUE.
+## Take Care to Make This Argument True
 
 I speak to many Brothers and Sisters here who have long been joined to the visible Church of God, and I put these questions to them—How have you carried out this silent compact which has been made with the friends of Christ? You have promised to do them good—have you fulfilled your pledges? I am afraid few of us have done good to our fellow Christians up to the measure that we might have done, or that we ought to have done. Some professors, I fear, have forgotten the compact altogether. They joined the Church, but the idea of doing good to the rest of the community has scarcely entered into their mind.
 
@@ -166,7 +163,6 @@ These things ought you to have done, and not to have left the other undone, but 
 God grant us to be one with Christ, and to be one with His people in time and in eternity. There now—there now— there is Christ's Church. And if I saw that she were in the stocks, and all were hooting her—if she stood in the pillory, and all were pelting her—yet it would be my desire to throw in my lot with her! Whatever she endured I would endure, because the day comes when those who were not on the side of Christ and His Church would give their eyes if they had been!
 
 Yes, would wish themselves that they had never been born to think that they did not take up with the reproached people, and did not side with the reproached Savior. O be with Christ in His sorrows, that you may be with Him in His joy! Be with Him in His reproach, that you may be with Him in His glory! Amen.
-
 
 ---
 [[Sermon 0915 Sinners Bound with the Cords of Sin|← #915]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0917 Precious, Honorable, Beloved|#917 →]]

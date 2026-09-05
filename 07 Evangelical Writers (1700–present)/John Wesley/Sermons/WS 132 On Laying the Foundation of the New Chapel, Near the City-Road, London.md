@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 132. On Laying the Foundation of the New Chapel, Near the City-Road, London.
 
-*PREACHED ON MONDAY, APRIL 21, 1777*
+**Preached on Monday, April 21, 1777**
 
 > "According to this time it shall be said, -- What hath God wrought!" Num. 23:23.
 

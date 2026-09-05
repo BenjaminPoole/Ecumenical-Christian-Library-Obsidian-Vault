@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Consolation In The Furnace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 662
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 26, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, November 26, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "He answered and said, Lo, I see four men loose, walking in the midst of the fire and they have no hurt. And the form of the fourth is like the Son of God." Daniel 3:25.
 
@@ -142,7 +141,6 @@ Dreadful, indeed, is such a doom! There is a second death which will pass on all
 But there stands the Savior and as He was with His people in the furnace, so He is near youthis day in mercy, to deliver you from your sins! He calls to you to leave your sins and look to Him and then you shall never die and neither upon you shall the flame of wrath kindle because its power was spent on Him! He felt the furnace of Divine wrath and trod the glowing coals for every soul that believes in Him. God give His blessing for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Daniel 3
-
 
 ---
 [[Sermon 0661 The Great Arbitration Case|← #661]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0663 Walking In The Light And Washed In The Blood|#663 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Proclamation of Acceptance and Vengeance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1369
 
-DELIVERED ON LORD'S DAY MORNING, AUGUST 12, 1877,.
+*Delivered on Lord's Day Morning, August 12, 1877*
 
 > "To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn." Isaiah 61:2.
 
@@ -148,7 +147,6 @@ Either the Atonement which Jesus offered was enough, or it was not. If it was no
 Are we mourning, today, because our dear ones are not converted? It is a good thing to mourn on that account, but let us take comfort, for this is an acceptable year! Let us pray for them and the Lord will save them. Are we mourning because sin is rampant in the world? Let us rejoice, for our Lord has broken the dragon's head and the day of vengeance must come when the Lord will overthrow the powers of darkness. Have we been looking with mournful spirit upon old Rome, the Muslim imposters and the power of Buddhism and Brahmanism and other ancient idolatries? Let us be glad! Behold the Avenger comes! He comes a second time and comes conquering and to conquer! Then shall the day of His vengeance be in His heart and the year of His redeemed shall come.
 
 From the seven hills, the deceiver shall be torn, no more to curse the sons of men with his pretensions to be the vicar of God! In blackest night shall set forever the crescent of Mohammed which already wanes—its baleful light shall no more afflict unhappy nations. Then shall fall the gods of the Hindus and the Chinese, broken like potters' vessels by the rod of iron which Jesus wields! At His appearing the whole earth shall acknowledge that He, who was "despised and rejected of men," is "King of kings and Lord of lords." Behold, the day comes quickly, let all that mourn be comforted! The day of vengeance, the full year of the millennial glory, the day of the overthrow of error, the year of the acceptance of creation in all her former beauty—the age when God shall be All in All—is near at hand! Come quickly, O Lord! Amen.
-
 
 ---
 [[Sermon 1368 The God of Peace and Our Sanctification|← #1368]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1370 Sheep Among Wolves|#1370 →]]

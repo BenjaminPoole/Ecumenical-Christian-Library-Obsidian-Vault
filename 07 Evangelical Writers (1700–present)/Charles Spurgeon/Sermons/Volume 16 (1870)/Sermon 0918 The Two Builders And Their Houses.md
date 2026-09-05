@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Two Builders And Their Houses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 918
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 27, 1870,.
+*Delivered on Lord's-Day Morning, February 27, 1870*
 
 > "Therefore whosoever hears these sayings of Mine, and does them, I will liken him unto a wise man, which built his house upon a rock: and the rain descended, and the floods came, and the winds blew, and beat upon that house. And it fell not: for it was founded upon a rock. And everyone that hears these sayings of Mine, and does them not, shall be likened unto a foolish man, which built his house upon the sand: and the rain descended, and the floods came, and the winds blew, and beat upon that house. And it fell: and great was the fall of it." Matthew 7:24-27.
 
@@ -196,7 +195,6 @@ No stone is laid in vain,
 My hope defies the assaults of Hell,
 
 The flood, the wind, the rain."
-
 
 ---
 [[Sermon 0917 Precious, Honorable, Beloved|← #917]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0919 The King Feasting in his Garden|#919 →]]

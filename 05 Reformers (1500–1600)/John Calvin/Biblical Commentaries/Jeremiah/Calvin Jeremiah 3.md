@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Jeremiah 3:1
 
@@ -71,7 +70,7 @@ As to the latter rain, we have said elsewhere that by this word is meant the rai
 
 ## Prayer Lecture 10
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been once pleased not only to adopt us as thy children, but also to unite us to thyself by the bond of marriage, and to give us a pledge of this sacred union in thine only — begotten Son, — O grant, that we may continue in the faith of thy Gospel, and so honestly keep the pledge given to thee, that thou mayest also shew thyself to us as a Husband and as a Father, and that we may to the end find in thee that merciful kindness which is needful to retain us in the holy fear of thy name, until we shall at length enjoy fellowship with thee in thy celestial kingdom, through Christ our Lord. — Amen.
 
@@ -149,7 +148,7 @@ The language indeed is not to be strictly taken when it is said, that she *justi
 
 ## Prayer Lecture 11
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast deigned to adopt us as thy people, and to unite us to thyself in thine only — begotten Son, — O grant, that we may continue pure and chaste in our obedience to thy Gospel, and never turn aside to those corruptions which disunite that sacred bond of union, which has been confirmed between us by the blood of thy Son, but that we may so persevere in serving thee, that our whole life and all our actions may be evidences of that holy calling, by which is laid up for us the hope of eternal salvation, until we shall at length come into the possession of that kingdom which has been obtained for us by so great a price, and there enjoy the fruit of our faith, sincerity, and perseverance, through Christ our Lord. — Amen.
 
@@ -234,7 +233,7 @@ We now understand more clearly what I have already said, — that the Prophet pr
 
 ## Prayer Lecture 12
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou at this day mercifully sparest us, when yet in various ways we provoke thy displeasure, — O grant, that we may not harden ourselves against thy chastisements, but that thy forbearance may lead us to repentance, and that also thy scourges may do us good, and that we may so truly turn to thee, that our whole life may testify that we are in our hearts changed; and may we also stimulate one another, that we may unite together in rendering obedience to thy word, and each of us strive to glorify thy name, through Christ Jesus our Lord. — Amen.
 
@@ -319,7 +318,7 @@ They afterwards say, *even to this day;* by which they confirm what I have alrea
 
 ## Prayer Lecture 13
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not, though favored with many blessings, to provoke thee by our misdeeds, as though we avowedly carried on war against thee, — O grant, that we being at length warned by those examples, by which thou invitest us to repentance, may restrain our depraved nature, and in due time repent, and so devote ourselves to thy service, that thy name through us may be glorified, and that we may strive to bring into the way of salvation those who seem to be now lost, so that thy mercy may extend far and wide, and that thus thy salvation, obtained through Christ thine only — begotten Son, may be known and embraced by all nations. — Amen.
 

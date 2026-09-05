@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 176. Deuteronomy 4:3,4
 
 **The Repitition of the same History**
-
-**Deuteronomy 4**
 
 **3.** Your eyes have scen what the Lord did because of Baal-peor: for all the men that followed Baal-peor, the Lord thy God hath destroyed them from among you.
 

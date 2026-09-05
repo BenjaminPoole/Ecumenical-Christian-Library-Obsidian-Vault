@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Spirit's Work in the New Creation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3134
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." Genesis 1:2.
 
@@ -95,7 +92,7 @@ I earnestly pray that those to whom I have spoken may receive whatever of the Tr
 
 Nature's spinning will have to be unraveled and the soul must be clothed in the spotless robe of the righteousness of Christ. You may build on the sandy foundation of creature merit, but all you build will surely come down! Oh, that you may cease from such foolish building and that you may build upon what Jesus Christ has done! There you will build upon the Rock, the real foundation! If the Spirit of God will enable you to build there, you will have built for eternity! May Grace, mercy, and peace be with you in so doing, through Jesus Christ our Lord! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM50.
+## Exposition by C. H. Spurgeon: Psalm 50
 
 Verses 1-4. The mighty God, even the LORD, has spoken, and called the earth from the rising of the sun until the going down thereof Out of Zion the perfection of beauty, God has shined. Our God shall come, and shall not keep silence: a fire shall devour before Him and it shall be very tempestuous round about Him. He shall call to the heavens from above, and to the earth, that He may judge His people. To profess to be the people of God is a very solemn thing, for the Apostle Peter tells us that "judgment must begin at the house of God." Those who profess to be His people shall be like the wheat on the threshing floor. John the Baptist, preparing the way for the first coming of Christ, said of Him, "whose fan is in His hand, and He will thoroughly purge His floor." When He comes again, He will separate the precious from the vile, the true saint from the mere pretender!
 
@@ -120,7 +117,6 @@ PRAYER TO GOD IN TROUBLE AN ACCEPTABLE SACRIFICE and #1876, Volume 31—ROBINSON
 22\. You that forget God, lest I tear you in pieces, and there be none to deliver. What a terrible God is this Jehovah whom we serve! If our hearts are not right towards Him, if we dare to mock Him with solemn sounds uttered by false tongues, this verse warns us as to how He will deal with us!
 
 23\. Whoever offers praise glorifies Me and to him that orders his conversation aright will I show the salvation of Got. So that what God really desires is living, loving hearts and holy gracious lives and, therefore, if we do not give Him our hearts and our lives, our sacrifices and oblations are all in vain—they are an abomination in His sight!
-
 
 ---
 [[Sermon 3133 Christ's Prayer for Believers|← #3133]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3135 A Golden Sentence|#3135 →]]

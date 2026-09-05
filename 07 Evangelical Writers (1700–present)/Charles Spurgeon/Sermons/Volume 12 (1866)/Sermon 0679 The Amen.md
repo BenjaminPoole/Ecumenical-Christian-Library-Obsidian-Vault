@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Amen
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 679
 
-DELIVERED ON SUNDAY MORNING, MARCH 4, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, March 4, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "The Amen." Revelation 3:14.
 
@@ -152,7 +151,6 @@ If you have Christ, you are saved. Christ is God's Amen. Get Christ and you have
 Well, dear Friends, we have Heaven! We have God Himself because we have Christ—and Christ is the title deeds of all things. May you—
 
 "Read your title clear, To mansions in the skies," and the Lord make Jesus to be to your hearts, today, joyfully and blessedly His own Amen.
-
 
 ---
 [[Sermon 0678 Praise Your God, O Zion!|← #678]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0680 Have You Forgotten Him|#680 →]]

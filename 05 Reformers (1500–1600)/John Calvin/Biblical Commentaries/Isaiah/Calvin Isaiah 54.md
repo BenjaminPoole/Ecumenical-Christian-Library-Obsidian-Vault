@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 54
 
-**CHAPTER 54.**
+***Chapter 54.***
 
 ## Isaiah 54:1-17
 

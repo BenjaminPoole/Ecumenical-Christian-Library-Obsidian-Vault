@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 103
-
-**PSALM 103**
 
 By this psalm every godly man is taught to give thanks to God for the mercies bestowed upon himself in particular, and then for the grace which God has vouchsafed to all his chosen ones in common, by making a covenant of salvation with them in his law, that he might make them partakers of his adoption. But the Psalmist chiefly magnifies the mercy by which God sustains and bears with his people; and that not on account of any merit or worth of theirs, for they only deserve to be visited with severe punishment, but because he compassionates their frailty. The psalm is at length concluded with a general ascription of praise to God.
 

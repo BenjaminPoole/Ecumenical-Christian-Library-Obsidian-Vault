@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 6
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT THEODORE. ON THE DEATH OF THE SAINTS.
+## Conference of Abbot Theodore. On the Death of the Saints
 
 ## Chapter 1
 

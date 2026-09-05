@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Work For Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1338
-
-DELIVERED BY.
 
 > "Son, go work today in My vineyard." Matthew 21:28.
 
@@ -148,7 +145,6 @@ Now remember that the kingdom of God was taken from them and given to a nation b
 Thus far I have not been speaking to unconverted people. I have not said a word to them. To them, however, I have this word to say, and I have done. I shall not ask you to work for Christ. I cannot exhort you to do anything for Him. You are not in a state of mind to do it! You must, first, believe in Him. Oh, let it be a sorrow to you, tonight, that you are incapable of serving Christ! Till you get a new heart and a right spirit you have no capacity to serve Him! You have first, to trust Christ and to prove in your own souls that this Gospel is the power of God to your salvation. Your eyes must be opened! Before you can do anything for Him, you must be turned from darkness to light and from the power of Satan to God that you may receive forgiveness of sins and inheritance among them which are sanctified by faith in Jesus.
 
 Then, not till then, will you be meet to be made witnesses both of those things which you shall have seen and of those things in which He will hereafter reveal to you. You must be born again, yourselves, before you can travail in birth for others, till Christ is formed in them. You cannot testify, those of you by whom the testimony of Christ has not been received and in whom it is not confirmed. Your unskilled labor would be mischievous. Hands off such holy work till those hands have been washed clean by Jesus Christ! Come to Him and trust Him! Come to Him and believe in Him, and when He has saved you, then He will say to you, "Son, go work today in My vineyard."
-
 
 ---
 [[Sermon 1337 Love's Medicines and Miracles|← #1337]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1339 Idols Abolished|#1339 →]]

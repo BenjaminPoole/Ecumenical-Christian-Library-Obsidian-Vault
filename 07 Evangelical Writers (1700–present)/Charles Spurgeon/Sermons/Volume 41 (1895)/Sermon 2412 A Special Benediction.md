@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # A Special Benediction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2412
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called: mercy unto you, and peace, and love, be multiplied." Jude 1,2.
 
@@ -85,7 +82,7 @@ Now I come back to where I began. It was a dark time when Jude wrote this Epistl
 
 I have not spoken hardly a word to the unconverted, you see, because I want you professors so to live that your lives shall preach sermons. It is all very well to preach with the mouth, but the best sermons in the world are preached with the legs, with the life, by the walk and conversation of God's people! If there is piety at home, if there is uprightness in business, if there is a burning zeal for God in your common conversation, then the ungodly will say, "What does this mean?" And they will want to know more about it. How earnestly I wish that every person here who cannot be described as, "Kept for Jesus Christ," might long that it were so with him, and before he goes to bed, tonight, might pray that he may belong to Christ! Then, giving himself up to Christ by faith, he may, this very night, know that sweet peace of which I spoke just now. So may it be with you all, for the Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: THE EPISTLE OF JUDE.
+## Exposition by C. H. Spurgeon: The Epistle of Jude
 
 Verses 1, 2. Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called: mercy unto you, and peace, and love, be multiplied. Our holy faith breeds in us the best wishes for others. As we desire to find mercy, ourselves, so do we long that others, also, should find mercy and, as we rejoice in the peace and love which the Holy Spirit works in us, we desire that others may partake of the same spiritual benefits. Hence the Apostles usually begin their Epistles with these good wishes which are not mere wishes, but earnest prayers and Inspired benedictions. May we breathe such petitions wherever we go! Let us wish no man any ill, even in the most exciting and trying times, and under the greatest provocation, but let us still breathe out this prayer, "Mercy unto you, and peace, and love, be multiplied."
 
@@ -130,7 +127,6 @@ Verses 1, 2. Jude, the servant of Jesus Christ, and brother of James, to them th
 24\. 25. Now unto Him that is able to keep you from falling, and to present you faultless before the Presence of His Glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and forever. Amen.
 
 The Lord bless the reading of His Word to our profit! Amen.
-
 
 ---
 [[Sermon 2411 Why Some Seekers Are Not Saved|← #2411]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2413 Despised Light Withdrawn|#2413 →]]

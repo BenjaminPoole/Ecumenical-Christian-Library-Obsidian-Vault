@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 2 on Ephesians
 
-Chapter I. Verses 11-14
+## Chapter I. Verses 11-14
 
 In whom also we were made a heritage, having been foreordained according to the purpose of Him who works all things after the counsel of his will.
 

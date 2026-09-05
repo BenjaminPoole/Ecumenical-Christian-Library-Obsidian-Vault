@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # An Earnest Warning about Lukewarmness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1185
@@ -71,8 +70,7 @@ This is my closing word, there is something for us to do in this matter. We must
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Revelation 3.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’184, 787, 992.
-
+## Hymns from ‘Our Own Hymn Book’’184, 787, 992
 
 ---
 [[Sermon 1184 The Sad Plight and Sure Relief|← #1184]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1186 The Blood of the Covenant|#1186 →]]

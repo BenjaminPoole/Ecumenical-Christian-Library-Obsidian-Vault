@@ -10,16 +10,15 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 1
 
-**COMMENTARIES**
+***Commentaries***
 
-**ON THE**
+## **On The**
 
-**EPISTLE OF ST. PAUL TO THE HEBREWS**
+## **Epistle of St. Paul to the Hebrews**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Heb 1:1-2
 

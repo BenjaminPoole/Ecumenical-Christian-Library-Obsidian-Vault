@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Labor In Vain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 567
 
-DELIVERED ON SUNDAY MORNING, MAY 1, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 1, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Jonah said unto them, Take me up and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you. Nevertheless the men rowed hard to bring it to the land. But they could not: for the sea worked and was tempestuous against them." Jonah 1:12,13.
 
@@ -158,7 +157,6 @@ The man who has not attained to rest in Jesus is incapable of virtue. A man who 
 "Loved of my God, for Him again, With love intense I'd burn. Chosen of Him before time began, I'd choose Him in return."
 
 Let us show that this is the true root of virtue. Let us teach men who say this doctrine is licentious that it is the most heavenly soil in which the fruits of the Spirit can grow! Like a genial sunshine is this doctrine to our fruits to ripen them! Like a heavenly shower to bring them forth! God give you, Sinner, to rest in my Savior! God give you, Saint, to live to your Savior and He shall have the praise in both cases. Amen.
-
 
 ---
 [[Sermon 0566 General And Yet Particular|← #566]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0568 What God Cannot Do!|#568 →]]

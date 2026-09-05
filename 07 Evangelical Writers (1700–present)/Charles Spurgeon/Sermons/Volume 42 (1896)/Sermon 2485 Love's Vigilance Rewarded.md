@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Love's Vigilance Rewarded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2485
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Scarcely had I passed by them, when I found Him whom my soul loves. I held Him and would not let Him go, until I had brought Him to my mother's house and into the chamber of her that conceived me." Song of Solomon 3:4.
 
@@ -117,7 +114,7 @@ But if, alas, you feel that you cannot speak for Christ, then, Beloved, bring Hi
 
 Now may we find all this to be especially true as we gather around the Table! The Lord be with you all, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: SOLOMON'S SONG 2; 3:1-5.
+## Exposition by C. H. Spurgeon: Solomon's Song 2; 3:1-5
 
 Here we have a dialogue of love between the Lord Jesus and His people.
 
@@ -158,7 +155,6 @@ Red with the blood He shed for me."
 16\. 17. My Beloved is mine, and I am His: He feeds among the lilies. Until the day breaks and the shadows flee away, turn, my Beloved, and be like a roe or a young hart upon the mountains of Bether.
 
 Song of Solomon 3:1-5. By night on my bed I sought Him whom my soul loves: I sought Him, but I found Him not. I will rise, now, and go about the city in the streets, and in the broadways I will seek Him whom my soul loves: I sought Him, but I found Him not. The watchmen that go about the city found me: to whom I said, Saw you Him whom my soul loves? It was but a little that Ipassed from them, but I found Him whom my soul loves: I held Him and would not let Him go, until I had brought Him into my mother's house, and into the chamber of her that conceived me. I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my Love, till He please.
-
 
 ---
 [[Sermon 2484 The Very Friend You Need|← #2484]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2486 Overcoming Christ|#2486 →]]

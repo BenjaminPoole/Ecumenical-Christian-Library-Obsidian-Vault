@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'Repentance and Remission'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3224
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And that repentance and remission of sins should bepreached in His name among all nations, beginning at Jerusalem." Luke 24:47.
 
@@ -107,7 +104,7 @@ Further, where great sinners are forgiven, it is a clear proof that the Gospel h
 
 Thus have I tried to preach repentance and remission of sins in Christ's name to the Jerusalem sinners, the very worst men and women here! But I must not close without also preaching in the same fashion to you who think you are notthe worst sinners here. O you respectable sinners, you moral and amiable sinners! You also need a Savior! Though you would stand by yourselves and say, "God, we thank You that we are not as other men and as other women are," yet Christ's message to you is, "You must be born-again." You, too, need to be washed in the precious blood of Jesus! Therefore, in His name, I preach to you "repentance and remission of sins," just as I have done to the greatest sinners here. May the ever-blessed Spirit come to you and take away your pride and your self-righteousness, and bring you down where you must come—just as publicans and harlots must come—to the pierced feet of Him who loves sinners, receives sinners and saves sinners—and who will receive you and save you if you will but trust Him! God grant it for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS2:36-47.
+## Exposition by C. H. Spurgeon: Acts 2:36-47
 
 You know that Peter had been preaching a plain, simple, straightforward sermon upon the death, Crucifixion and Resurrection of our Lord Jesus Christ. He who was once such a coward that he trembled before a little maid, now that he is filled with the Spirit, boldly charges this crowd with being murderers and Deicides because their kind put to death the Lord of Life and Glory! If you turn to the 36th verse, you will see the effect of Peter's plain preaching through the power of the Holy Spirit—
 
@@ -134,7 +131,6 @@ a most blessed verse. The promise is to us and to our descendants—not merely t
 47\. Praising God, and having favor with all His people. And the lord added to the Church daily such as should be
 
 saved. [See Sermon #1167, Volume 20—ADDITIONS TO THE CHURCH.
-
 
 ---
 [[Sermon 3223 Salvation As It Is Now Received|← #3223]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3225 Finding and Following Christ|#3225 →]]

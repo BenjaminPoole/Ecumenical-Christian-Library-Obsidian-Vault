@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Joshua 16:1-10
 

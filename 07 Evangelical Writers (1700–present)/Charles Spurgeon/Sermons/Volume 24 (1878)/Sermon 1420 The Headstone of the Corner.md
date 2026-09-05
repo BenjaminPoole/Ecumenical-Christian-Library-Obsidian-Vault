@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Headstone of the Corner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1420
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 23, 1878,.
+*Delivered on Lord's-Day Morning, June 23, 1878*
 
 > "The stone which the builders refused is become the headstone of the corner. This is the Lord's doing; itis marvelous in our eyes. This is the day which the Lordhas made; we willrejoice and be glad in it, Save now, I beseech You, O Lord: O Lord, I beseech You, send now prosperity." Psalm 118:22-25.
 
@@ -162,7 +161,6 @@ Do you not feel near to Him? Be sure of this, He is very near to you! Call upon 
 The other half of the prayer is for prosperity. "O Lord, send now prosperity." This is what we continually need in this Church. The prayer is in harmony with the whole passage. Since, Lord, You have lifted the chief Stone into its place, be pleased to raise up other stones of Your Temple into their places! O fit them, one upon another, and send a prosperous building up! Lord, You have conquered all the foes of Christ—come and conquer the foes of your Church today. Lord, You did gather out a people to His praise and build up a Church in the first centuries of Christianity and then Your Son Jesus was gloriously the Corner and Headstone! Come again and build up Your own Church throughout all the lands, a Church in which the Lord Jesus shall be exalted even to the highest!
 
 "Send now prosperity." I pray you, Beloved, join in this prayer! Pray that Jerusalem may have peace and prosperity, for they that love her and her peace still have great happiness. Join in the supplication to the once rejected but now exalted covenant Head of the Church and the Lord will bless you for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1419 Encouragement to Trust and Pray|← #1419]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1421 The Hiding of Moses by Faith|#1421 →]]

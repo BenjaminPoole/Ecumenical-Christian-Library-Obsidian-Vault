@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'A Time to Love'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3220
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A time to love." Ecclesiastes 3:8.
 
@@ -121,7 +118,7 @@ Come shed abroad a Savior's love—
 
 And that shall kindle ours." Then shall it indeed be with us "a time to love." God grant that it may be so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: SONG OF SOLOMON 4.
+## Exposition by C. H. Spurgeon: Song of Solomon 4
 
 This is a chapter which is, perhaps, more adapted for private meditation than for rending in public. Nevertheless, as this is a communion season, and I trust that the most of us are partakers of the life of God, I could not resist reading it this evening. It is a love song, the song of the loves of Jesus. As He sets forth the beauties and charms of His Church, may the same beauties and charms be found in everyone of us through the Grace which He imparts to us by His Spirit! May we, as parts of His mystical body, be fair and lovely in His esteem because He has bestowed upon us so much of His own loveliness! Let us walk so carefully with God that there may be nothing to put even a spot upon our garments, or to defile our Grace-given comeliness.
 
@@ -184,7 +181,6 @@ sealed. [See Sermons #431, Volume 8—A SECRET AND YET NO SECRET and #1957, Volu
 "MY GARDEN"—"HIS GARDEN."] The Church here, you see, desires to
 
 feel two opposite winds. Though it should be the rough north wind of affliction that blows upon her, if it will but make her spices flow, she will be glad. But if it is the soft south wind of blessed and hallowed fellowship with her Lord, she is equally pleased, for what she longs after is that her Lord may take delight in her.
-
 
 ---
 [[Sermon 3219 'He Blessed Him There'|← #3219]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3221 'Yet There Is Room'|#3221 →]]

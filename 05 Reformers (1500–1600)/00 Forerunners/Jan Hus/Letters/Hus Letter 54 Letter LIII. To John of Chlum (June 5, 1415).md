@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 54. Letter LIII. To John of Chlum (June 5, 1415)
-
-LETTER LIII. TO JOHN OF CHLUM (June 5, 1415)
 
 Get Sigismund to stick to his promise ; Do not leave him ; Greetings to friends; The expenses again ; " Out of sight out of mind " 205-6
 

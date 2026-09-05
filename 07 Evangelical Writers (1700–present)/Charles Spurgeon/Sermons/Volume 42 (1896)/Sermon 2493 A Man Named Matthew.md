@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "A Man Named Matthew"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2493
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As Jesus passed forth from there, he saw a man named Matthew, sitting at the receipt of custom: and He said to him, Follow Me. And he arose and followed Him." Matthew 9:9.
 
@@ -69,7 +66,7 @@ So, in the first place, this call of Matthew seemed accidental and unlikely, yet
 
 II. In the second place, THIS CALL OF THE MAN NAMED MATTHEW WAS ALTOGETHER UNTHOUGHT-
 
-OF AND UNSOUGHT.
+## Of and Unsought
 
 Matthew was not engaged in prayer when Christ called him. He was in a degrading business—"sitting at the receipt of custom." He was not listening to the Savior's preaching—he was taking from the people, against their will, the taxes for their Roman conqueror. As far as I can see, he had not even thought about Christ. I do not believe that he had been called, before, to be a disciple of Christ—and that he was, on this occasion, called to be an Apostle—for I cannot imagine one who had been saved by Christ returning to the publican business. It was an extortioner's occupation all through, and he who is called to be Christ's follower does not practice extortion from his fellow men! If that is his employment before his conversion, he quits it when he comes to Christ.
 
@@ -81,7 +78,7 @@ O my dear Hearer, if you have been converted, it may be that something like this
 
 III. Thirdly, THIS CALL OF MATTHEW WAS GIVEN BY THE LORD JESUS WITH FULL KNOWLEDGE OF
 
-HIM.
+## Him
 
 It is not said that Matthew first saw the Lord, but, "as Jesus passed forth from there, He saw a man named Matthew." I like to dwell upon those words, "He saw a man named Matthew," because they seem to me to have a great deal of instruction in them. Christ probably stopped opposite where Matthew was sitting and, looking at him, He saw all the sin that had been in him and all the evil that still remained in him. "He saw a man named Matthew." Christ has a searching look, a discerning look, a detecting look. He looked Matthew up and down and He saw all that was in him. All that was secret to others was manifest before His piercing eyes. "He saw a man named Matthew," and I believe that Jesus saw more in Matthew than was really in Matthew. I mean, that His love looked goodnessinto Matthew, and then saw it! His love looked Grace into Matthew and then saw it.
 
@@ -131,7 +128,7 @@ I feel as if I must close my discourse by saying that as the Lord saw "a man nam
 
 God bless you and save the whole of this great company, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 9:1-13.
+## Exposition by C. H. Spurgeon: Matthew 9:1-13
 
 Verses 1, 2. And He (that is, Jesus) entered into a boat and passed over, and came into His own city. And, behold, they brought to Him a man sick of the palsy, lying on a bed. ' 'Behold," for it is something worth looking at! Wherever this word, "Behold," is put in Scripture, it calls for deep and earnest attention. There is nothing amazing in the sight of a man sick of the palsy, for there have been many such. But there issomething amazing in his friends having faith enough in Christ to bring the palsied man to the Savior! "Behold" this, that you may imitate it and bring your friends, palsied with sin, and lay them down at the feet of Jesus! "Behold" it till you feel that you must copy it. "Behold, they brought to Him a man sick of the palsy, lying on a bed."
 
@@ -162,7 +159,6 @@ Verses 1, 2. And He (that is, Jesus) entered into a boat and passed over, and ca
 13\. But go you and learn what this means, I will have mercy, and not sacrifice: for Iam not chosen to call the righteous, but sinners to repentance. I t must have galled these Pharisees to be sent to learn anything, for they thought they knew everything that could be known!
 
 May the Lord Jesus come into this assembly and find those people who most need a blessing, for to them He will freely give it!
-
 
 ---
 [[Sermon 2492 Paul's Persuasion|← #2492]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2494 The Cause and Cure of a Wounded Spirit|#2494 →]]

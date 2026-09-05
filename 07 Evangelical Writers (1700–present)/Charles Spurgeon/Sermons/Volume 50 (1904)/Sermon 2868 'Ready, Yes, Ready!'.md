@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # 'Ready, Yes, Ready!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2868
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ready to perish." Isaiah 27:13.
 
@@ -117,7 +114,7 @@ Were we wise, we would—
 
 "The graves are ready for us." Are we ready for the graves? Are we prepared to die—prepared to rise again— prepared to be judged—prepared to plead the blood and righteousness of Christ as our ground of acceptance before the eternal Throne of God? What is your answer, my Hearer? Do you reply, in the words I quoted at the beginning of my discourse, "Ready, yes, ready!"? Did you say Death, that I was wanted? Here I am, for you did call me! Did you say, O Heaven, that you need to receive another blood-bought one? "Ready, yes, ready!" O Christian, always keep your houses in such good order that you will always be "Ready, yes, ready!" Always keep your heart in such a state, your soul so near to Christ and your faith so fully fixed on Him, that, if you should drop dead in the street, or some Providence should take away your life, you would be able to cheerfully say, "Ready, yes, ready! Ready for you, O Death! Ready to triumph over you and to pluck away your sting! Ready for you, O Grave, for where is now your victory? Ready for you, O Heaven, for, with your wedding garment on, we are ready, yes, ready!" The Lord make us ready, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 8:1-27.
+## Exposition by C. H. Spurgeon: Matthew 8:1-27
 
 Verse 1, 2. When He was come down from the mountain, great multitudes followed Him. And, behold, there came a leper. You see that particular mention is made of this one special case and, in any congregation, while it may be recorded that so many people came together, the special case that will be noted by the recording angel will be that of anyone who comes to Christ with his own personal distresses and who thereby obtains relief from them—"Behold, there came a leper."
 
@@ -150,7 +147,6 @@ commandment to depart unto the other side. For He neither loved nor courted popu
 23-26. And when He was entered into a boat, His disciples followed Him. And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but He was asleep. And His disciples came to Him, and awoke Him, saying, Lord, save us: we perish. And He said unto them, Why are you fearful, O you of little faith? Then He arose, and rebuked the winds; and the sea; and there was a great calm. Probably no calm is so profound as that which follows the tempest of the soul which Jesus stills by His peace-speaking word. The calm of Nature, the calm of long-continued prosperity, the calm of an easy temper—these are all deceitful and are apt to be broken by sudden and furious tempests. But, after the soul has been rent to its foundations—after the awful groundswell and the Atlantic billows of deep temptation—when Jesus gives peace, there is "a great calm."
 
 27\. And the men marvelled, saying, What manner of Man is this, that even the winds and the sea obey Him?We have often marvelled in the same way, but we know that it is not any "manner of Man" alone, but it was He who was truly Man, who was also "very God of very God," the God-Man, the Man Christ Jesus, the Mediator between God and men!
-
 
 ---
 [[Sermon 2867 The Life-look|← #2867]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2869 Prayer Found in the Heart|#2869 →]]

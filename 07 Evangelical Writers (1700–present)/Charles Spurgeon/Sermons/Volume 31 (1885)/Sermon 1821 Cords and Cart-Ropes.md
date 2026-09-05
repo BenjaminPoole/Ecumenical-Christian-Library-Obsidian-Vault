@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Cords and Cart-Ropes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1821
@@ -83,7 +82,7 @@ Portion of Scripture read before Sermon—Isaiah 5.
 
 Hymns from "Our Own Hymn Book"—235, 587, 553.
 
-TO MY HEARERS AND READERS.
+## To My Hearers and Readers
 
 DEAR FRIENDS,—Owing to delays upon the road, I only reached this place on Saturday night, wearied and weak; but this morning I am refreshed! and hope to rest in real earnest. I should not sit down to write these lines were it not for the importunate requests of many friends who are so kindly interested in me. It is a joy to live in the hearts of others and to be thought of by them. But what is to be said of the great privilege of being thought upon of the Lord? "This honor have all the saints." Each one of them may say, "I am poor and needy, yet the Lord thinketh upon me." Hence he delights to hear from us because his delight is in us. What joy lies in the assurance that his thoughts towards us are thoughts of peace, and not of evil! "How precious also are thy thoughts unto me, O God!" We are often wandering in thought, or we are cast down, and doubtful, and anxious, but he saith, "My thoughts are not your thoughts." "The mountains shall depart, and the hills be removed, but my kindness shall not depart from thee."
 
@@ -92,7 +91,6 @@ In this confidence let us possess our souls. Our lives, our cares, our trials, o
 Yours in the ever-remembering Father,
 
 *C. H. SPURGEON.*Mentone, February 1st.
-
 
 ---
 [[Sermon 1820 Fallen Angels a Lesson To Fallen Men|← #1820]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1822 Certain Curious Calculations About Loaves and Fishes|#1822 →]]

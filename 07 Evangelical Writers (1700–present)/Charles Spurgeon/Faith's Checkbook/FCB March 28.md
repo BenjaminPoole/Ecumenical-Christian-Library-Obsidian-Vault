@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 28
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**LEAD THE WAY**
+## **Lead the Way**
 
 > The Lord shall make thee the head, and not the tail" Deut. 28:13
 
@@ -23,7 +22,6 @@ If we obey the Lord, He will compel our adversaries to see that His blessing res
 It is for saints to lead the way among men by holy influence: they are not to be the tail, to be dragged hither and thither by others. We must not yield to the spirit of the age, but compel the age to do homage to Christ. If the Lord be with us, we shall not crave toleration for religion, but we shall seek to seat it on the throne of society. Has not the Lord Jesus made His people priests? Surely they are to teach, and must not be learners from the philosophies of unbelievers. Are we not in Christ made kings to reign upon the earth? How, then, can we be the servants of custom, the slaves of human opinion?
 
 Have you, dear friend, taken up your true position for Jesus? Too many are silent because diffident, if not cowardly. Should we allow the name of the Lord Jesus to be kept in the background? Should our religion drag along as a tail? Should it not rather lead the way and be the ruling force with ourselves and others?
-
 
 ---
 [[FCB March 27|← March 27]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 29|March 29 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 61. Matthew 7:1-5; Mark 4:24;Luke 6:37-42
-
-**MATTHEW 7:1-5; MARK 4:24; LUKE 6:37-42**
 
 **1**. Judge not, that you may not be judged. **2**. For with what judgment you judge you shall be judged, and with what measure you measure, it shall be measured to you again. **3**. And why seest thou the straw, which is in thy brother’s eye, and perceivest not the beam which is in thine eye? **4**. Or how shall thou say to thy brother, Allow me to pull the straw out of thine eye, and, behold, a beam is in thine eye? **5**. Hypocrites, cast out first the beam out of thine eye, and then thou shall see clearly, that thou mayest pull out the straw from they brother’s eye.
 

@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Colossians 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Colossians 2:1-5
 

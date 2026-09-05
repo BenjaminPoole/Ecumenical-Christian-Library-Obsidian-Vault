@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 110. Matthew 13:31-35; Mark 4:26-34; Luke 13:18-22
-
-Matthew 13:31-35; Mark 4:26-34;  
-Luke 13:18-22
 
 **31**. He delivered another parable to them, saying, The kingdom of heaven is like a grain of mustard, which a man took and sowed in his field: **32**. Which indeed is the least of all seeds: but when it is grown up, it is the largest among herbs, [^1] and becometh a tree, so that the fowls of heaven come and make their nests among its branches. **33**. He spake another parable to them: The kingdom of heaven is like leaven, which a woman took and hid among three measures of meal, till the whole was leavenened. **34**. All these things Jesus spoke in parables to the multitudes, and without a parable he spoke nothing to them. **35**. That it might be fulfilled which was spoken by the prophet, who saith, I will open my mouth in parables; I will utter things which have been hidden from the foundation of the world.
 

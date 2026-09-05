@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Sleepers Awakened
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2903
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But Jonah was gone down into the lowest part of the ship; and he lay there and was fast asleep." Jonah 1:5.
 
@@ -103,7 +100,7 @@ But, having begun this list, I might continue it almost indefinitely, but I will
 
 May God's Holy Spirit bestir you to make your calling and election sure! Lay hold on Jesus Christ with the grip of an earnest, humble faith and henceforth surrender yourself to the service of Him who has bought you with His precious blood! God grant to all of us the Grace to awake and arise that Christ may give us life and light for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51.
+## Exposition by C. H. Spurgeon: Psalm 51
 
 Verses 1-5. Have mercy upon me, O God, according to Your loving-kindness: according unto the multitude of Your tender mercies blot out my transgressions. Wash me thoroughly from my iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin is ever before me. Against You, You only, have I sinned, and done this evil in Your sight: that You might be justified when You speak, and be clear when You judge. Behold I was shapen in iniquity; and in sin did my mother conceive me. ' 'It is not merely that I have sinned in practice, but I am a sinner by nature. Sin would not have come out of me if it had not first been in me. I am a mass of sin and must, therefore, be loathsome in Your sight."
 
@@ -122,7 +119,6 @@ You.
 15\. O Lord, open You my lips; and my mouth shall show forth Your praise. For You desire not sacrifice; otherwise I would give it: You delight not in burnt offering. God cares little for the mere outward forms of worship. Ritualistic observances are nothing to Him—"You desire not sacrifice, otherwise I would give it: You delight not in burnt offering." Though these were the fixed ordinances of the Lord under which David lived, yet he was enabled to look beyond them to something higher and better!
 
 17-19. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, You wiil not despise. Do good in Your good pleasure unto Zion: build You the walls of Jerusalem. Then shall You be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon Your altar. When we come to God and are saved by Him, then ordinances take their proper place. You cannot teach a man how to live until he is born and you cannot teach him what his spiritual life is to be until he is born-again. All religious rites and ceremonies which precede the new birth go for nothing. First there must be the inward life—the broken heart, the contrite spirit— and then everything else drops into proper order. Mind this—God help us all to mind it well!
-
 
 ---
 [[Sermon 2902 Holiness Demanded|← #2902]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2904 The Plumb Line|#2904 →]]

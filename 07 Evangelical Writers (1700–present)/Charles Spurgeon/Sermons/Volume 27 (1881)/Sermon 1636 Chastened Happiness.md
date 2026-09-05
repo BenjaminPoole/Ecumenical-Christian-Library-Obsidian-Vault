@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Chastened Happiness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1636
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER. 25, 1881,.
+*Delivered on Lord's-Day Morning, December. 25, 1881*
 
 > "They shall fear and tremble for all the goodness and for all the prosperity that I procure unto it." Jeremiah 33:9.
 
@@ -134,7 +133,6 @@ You have heard of the ancient giant, Antaeus, who could not be overcome because 
 I read the other day of a grain of musk which had been kept for 10 years in a room where the air was perpetually changed—it scented that chamber from year to year—and yet when it was weighed by the most delicate scales—no diminution of its bulk was apparent! So the Gospel continues to be as ointment poured forth, savoring the thousands that come here year by year—and yet it is as full of fragrance and freshness as ever—and so shall it be even if, for a thousand ages, it should be our theme!
 
 Come we, then, with comfort back to the unalterable Gospel, to the undying Spirit, to the unchanging God—here is room for joy unspeakable and full of Glory! Up with your banners, then! Forward to new victories! In the name of the God of Jacob let us be steadfast, unmovable, always abounding in the work of the Lord. Amen.
-
 
 ---
 [[Sermon 1635 Only Trust Him! Only Trust Him!|← #1635]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]]

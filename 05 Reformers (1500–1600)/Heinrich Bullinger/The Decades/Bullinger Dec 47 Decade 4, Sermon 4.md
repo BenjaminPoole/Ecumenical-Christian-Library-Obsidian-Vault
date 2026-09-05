@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 47. Decade 4, Sermon 4
 
 Dezar.y beloved, it remaineth now for me in this day’s sermon, for a conclusion to that which I have hitherto spoken concerning God, briefly to add somewhat of that creation or work of God, whereby he, being the maker of all things, hath to mankind’s commodity wholesomely created all things, beth visible and invisible, and doth now as always most
 
 [3 See Vol. 1. p. 34.] [4 he himself, ed. 1577. ] [5 mea infantia, Lat. ]
-
-174 THE FOURTH DECADE. [SERM.
 
 wisely govern and order the same. For by so doing we shall obtain no small knowledge of God; and many things shall be more openly laid forth unto us, which we in our last treatise did but touch and away}. In the searching out, considering, and setting forth of the creation of the whole and the parts thereof, all the diligence of all wise men? hath been set on work, doth labour, and shall be troubled so long as this world endureth. For what is he, though he were the wisest, the cunningest, and diligentest writer of the natural history, that leaveth not many things untouched for the posterity to labour in, and beat their brains about? Or what is he at this day, which, although he use the aid and industry of most learned writers, is not compelled to wonder at more and greater things than either they ever did, or he ever shall, attain unto you? The most wise Lord will always have witty men, that are enriched with heavenly gifts, to be always occupied and evermore exercised in the searching out and setting forth the secrets of nature and of the creation. But we do simply by faith conceive, that the worlds were made of nothing, and of no heap of matter’, of God through the Word of God; and that it doth consist by the power of the Holy Ghost, or
 
@@ -26,7 +23,7 @@ Ue eae Spirit of God. For so did king David, and Paul the teacher of the Gentile
 
 And here I choose rather to use another man’s words than mine own; especially because I suppose this matter cannot be more lively expressed than Tertullian, in his book De Trinitate,
 
-The history Setteth it forth as followeth: ‘God hath hung up heaven in of the cre- ation con. 8, lofty height; he hath made the earth massive with a low words. and pressed down weight; he hath poured out the seas with a loose and thin liquor ; and hath planted all these, being decked The sky ana and full with their proper and fit instruments. For in the tars. . . ee a firmament of heaven he hath stirred up the dawning risings
+The history Setteth it forth as followeth: ‘God hath hung up heaven in of the cre-ation con. 8, lofty height; he hath made the earth massive with a low words. and pressed down weight; he hath poured out the seas with a loose and thin liquor ; and hath planted all these, being decked The sky ana and full with their proper and fit instruments. For in the tars. . . ee a firmament of heaven he hath stirred up the dawning risings
 
 (1 parcius delibavimus, Lat.]
 
@@ -47,8 +44,6 @@ even the very elements did observe and keep them. Last of Man.
 all he setteth man to be lord over the world; whom he made to the likeness and image of God: to whom he gave reason, wit, and wisdom, that he might imitate God; whose body, although it were made of earth, was yet notwithstanding inspired with the substance of the heavenly breath and Spirit of God: to whom when he had put all things in subjection, he would have him alone to be free without subjection. And lest that liberty, being let loose at random, might come into
 
 [5 So ed. 1584 also: but ed. 1577 has, fruit to feed him. | [6 them, ed. 1577. |
-
-176 THE FOURTH DECADE, [sERM.
 
 peril again, he gave a commandment; by the means of which commandment it could not be said that evil was out of hand or by and by present in the fruit, but should then be in it, when once he perceived in the will of man the contempt of that commandment, For both he ought to be free, lest the image of God should seem to be bound undecently ; and also a law was to be given, lest at any time the unbridled liberty should break out to the contempt of him that gave the liberty: that he might consequently receive either due rewards of obedience, or merits of punishment for disobedience, having that given him to whether part he was willing by the motion of the mind for to incline; whereby the envy of mortality doth return to him who, when by obedience he might have escaped it, did yet run headlong into it, while he made too much haste to become a God,” &c. The same addeth: “In the parts above the firmament which are not now to be beheld of our mortal eyes, that first there were ordained angels; then there were ordained spiritual virtues; then there were placed thrones and powers, and many other unmeasurable spaces of the heavens; and that many works of holy things were there created!,” &c. Thus far Tertullian.
 
@@ -75,8 +70,6 @@ Acts xvii.
 Acts xiv.
 
 Of God's providence.
-
-178 THE FOURTH DECADE. [SERM.
 
 fishes of the sea, which walk through the paths of the sea. O Lord, our governor, how excellent is thy name in all the world!” Psalm viii. The same again in another place doth say: ‘“ The heavens are thine, Ὁ God, and the earth is thine; thou hast laid the foundation of the round world, and all that therein is.” “The day is thine, and the night is thine ; thou hast ordained the light! and the sun: thou layedst all the borders of the earth; thou hast made both summer and winter.” Now who is so very a sot as that he doth not by these proofs easily gather, how great our God is; how great the power of God is; how good, rich, and liberal to man, who never deserved any such thing at his hand, our God is, which hath created so great riches, so exquisite delights, and such furniture as cannot be sufficiently praised, for man alone, and hath made them all subject, and will have them all to obey man as their lord and master ?
 
@@ -107,8 +100,6 @@ Psal. Ixxxix.
 Psal. civ.
 
 Psal. exlv.
-
-180 THE FOURTH DECADE. [SERM.
 
 said: “ Are not two little sparrows sold for a farthing? And one of them shall not light on the ground without your Father. Yea, even all the hairs of your head are numbered.”
 
@@ -170,8 +161,6 @@ the land: but if ye be obstinate and rebellious, ye shall be devoured with the s
 
 God’s goodwill islearned by his providence.
 
-184 THE FOURTH DECADE. [SERM.
-
 even as they are here foretold; and that too, not without the providence of the Lord their God. All good successes and prosperity are the good blessings of God; and on the other side, all calamities and adversities are the curses of God. Therefore hereupon the saints do gather, that men’s affairs and state are wholly governed by God's providence, so yet that they must not therefore sit (as we say) with their hands in their bosoms idly, and neglect good means; but rather watchfully and diligently walk by the grace of God in the ways and means, or precepts and ordinances, of the Lord. For the providence of God doth not disturb the order of things; it doth not abrogate the offices of life, nor labour and industry; it doth not take [away] a just dispensation! and obedience: but by these things it worketh the health of those men which do through the help of God religiously apply themselves to the decrees, purpose, or working of the Lord; to whom they do rightly ascribe what good soever doth chance or betide them; imputing to man’s corruption, to our own unskilfulness, and to our sins, what evil soever doth happen unto us. Therefore the saints acknowledge, that although wars, plagues, and divers other calamities do by God’s providence afilict mortal men, yet notwithstanding that the causes thereof do arise of nothing else than the sins of man. For God is good, which wisheth us rather well than evil: yea, oftentimes he of his goodness turneth our evil purposes unto good ends; as is to be seen by the history of Joseph in the book of Genesis.
 
 Truly, upon the earnest consideration of God’s providence all the godly sort do gather, that their good God wisheth all well? unto man. For he hath a great care over us, not in great things only, but also in the smallest. He knoweth the number of the days of our life. In his sight are all our members, as well within as without. For the Lord in the gospel saith, that “all the hairs of our head are numbered.” He by his providence defendeth us from all manner diseases and imminent perils. He feedeth, refresheth, and preserveth us: for as he made all creatures for man’s health and behoof, so doth he preserve and apply them to man’s good and commodity.
@@ -195,8 +184,6 @@ Ephes. i.
 1 John y.
 
 John vi.
-
-186 THE FOURTH DECADE. [SERM.
 
 chapters following; whereby also the Lord doth declare that he is the true God. Furthermore, God by his eternal and unchangeable counsel hath fore-appointed who are! to be saved, and who are to be condemned. Now the end or the decree of life and death is short and manifest to all the godly. The end of predestination, or fore-appointment, is Christ, the Son of God the Father. For God hath ordained and decreed to save all, how many soever have communion and fellowship with Christ, his only-begotten Son; and to destroy or condemn all, how many soever have no part in the communion or fellowship of Christ, his only Son. Now the faithful verily have fellowship with Christ, and the unfaithful are strangers from Christ. For Paul in his Epistle to the Ephesians saith: “God hath chosen us in Christ, before the foundations of the world were laid, that we should be holy and without blame before him through love: who hath predestinate us into his sons? through Jesus Christ into himself, according to the good pleasure of his will; that the glory of his grace may be praised, wherewith he is pleased with us? in his beloved.” Lo, God hath chosen us; and he hath chosen us before the foundations of the world were laid; yea, he hath chosen us, that we should be without blame, that is, to be heirs of eternal life: howbeit, in Christ, by and through* Christ hath he chosen us. And yet again more plainer: he hath “ predestinate us,” saith he, “to adopt us into his sons,” but by Christ; and that too hath he done freely, to the intent that to his divine grace glory might be given. Therefore whosoever are in Christ are chosen and elected : for John the apostle saith: ‘‘ Whoso hath the Son hath life; whoso hath not the Son of God, hath not life.” With the doctrine of the apostles agreeth that also of the gospel. For in the gospel the Lord saith: “This is the will of him that sent me, the Father; that every one which seeth the Son, and believeth in him, should have everlasting life: and I will raise him up in the last day.” Lo, this is the
 
@@ -232,8 +219,6 @@ Matth. xi.
 
 Mark xvi.
 
-188 THE FOURTH DECADE. [SERM.
-
 worthiness or unworthiness of ours; but of the mere grace and mercy of God the Father, it respecteth Christ alone. And because our salvation doth stay only upon him, it cannot but be most certain. For they are wrong, that think those that are to be saved to life are predestinate of God for the merit’s sake, or good works, which God did foresee in them. For notably saith the apostle Paul: “He hath chosen us in Christ into himself, according to the good pleasure of his will, that the glory of his grace might be praised.” And again: “It is not in him that willeth, nor in him that runneth, but in God that sheweth mercy.” Again: “God hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given unto us through Christ Jesus before the world was, but is now made manifest by the appearing of our Lord Jesus Christ.” Freely therefore, of his mere mercy, not for our deserts, but for Christ’s sake, and not but in Christ, hath he chosen us, and for Christ’s sake doth embrace us, because he is our Father and a lover of men. Of whom also speaketh the prophet David: “ The Lord is full of compassion and mercy, slow to anger, and of great kindness. And as a father hath compassion on his children, so hath the Lord compassion on them that fear him: for he knoweth whereof we be made, and remembereth that we are but dust.” Moreover, in the prophet Esay we read: “Can a woman forget her child, and not have compassion on the son of her womb? Though she should forget, yet will I not forget thee.” Truly, in Christ, the only-begotten Son of God exhibited unto us, God the Father hath declared what great store he setteth by us. Thereupon doth the apostle gather: “Who spared not his Son, but gave him for us all, how can it be that he should not also with him give us all things?” What thing therefore should we not reckon upon and promise ourselves from so beneficial a Father? For thou canst not complain that he will not give unto thee his Son, or that he is not thine, who, as the apostle saith, was given for us all. Moreover, the Lord himself, crying out in the gospel, saith: ‘ Come unto me, all ye that labour and are heavy laden, and I will refresh you.” And again to his disciples: “Go ye into all the world, and preach the gospel to every creature. He that shall believe, and be baptized, shall be saved.” Where-
 
 IV. | OF GOD’S PREDESTINATION. 189 upon also Paul saith: “God our Saviour will that all meni tm. ii shall be saved, and come unto the knowledge of the truth.”
@@ -262,8 +247,6 @@ Matth. xxv.
 
 Matth. xiii.
 
-190 THE FOURTH DECADE. [SERM.
-
 condemned.” Whereupon also Paul saith: “God is the Saviour of all men, specially of the faithful.” Furthermore, unless we be drawn of the heavenly Father, we cannot believe. And we must be very careful, lest we, conceiving vain opinions of that divine drawing, neglect the drawing itself. God verily drew Paul violently, but he doth not draw all unto him by the hair. ‘There are also other ways of drawing, by which God draweth man unto him; but he doth not draw him like a stock or a block. The apostle Paul saith: “Faith cometh by hearing, and hearing by the word of God.” God therefore doth then draw thee, when he preacheth unto thee the gospel by his servants; when he toucheth thy heart; when he stirreth thee to prayer, whereby thou mayest call and ery for his grace and assistance, his enlightening and drawing. When thou feelest these things in thy mind, I would not wish thee to look for another drawing: despise not thou grace offered, but use it whiles time present serveth, and pray for the increase of grace. For to greater and perfecter things thou aspirest godlily afterwards; in the mean space, there is no cause why thou shouldest despise the lesser. In the gospel after St Matthew they receive large! riches, who, having received but a few talents, occupied the same faithfully: but he that despised the talent wherewith he was put in credit, and cloaked his slothfulness with I wot not what care, is greatly accused; yea, he is spoiled of the money which was once given him, and is thrown into everlasting torments, being bound with bonds of condemnation. For the Lord pronounceth generally: “ Whosoever hath, to him shall be given, and he shall have abundance; but whosoever hath not, from him shall be taken away even that which he hath.” He hath, who acknowledgeth, magnifieth, and reverenceth? the grace of God: to this* heap of graces more is added, so that it is made more abundant. He hath not, which doth not acknowledge the gifts of God, and imagineth other, I cannot tell of what kind; in the mean time he doth not put in ure the grace received, and which is present. And these are wont to use excuses, that that drawing came not to them as yet; and that it is a matter very dangerous to use occupying, or to make merchandise, of the
 
 [1 ampliores, Lat.; larger. ] [2 excolit, Lat. ]} ; [3 So also ed. 1584: but ed. 1577, to his heap.]
@@ -284,8 +267,6 @@ Matth. vii. Luke xi.
 
 Gen, iii.
 
-192 THE FOURTH DECADE, [SERM.
-
 own merits! ; let him pray incessantly for the increase of faith. In which purpose verily the? words of our Saviour, very full of comfort, out of the gospel, may confirm and strengthen any man most wholesomely : “ Ask, and it shall be given you: seek, and ye shall find: knock, and it shall be opened unto you. For whosoever asketh, receiveth : and whosoever seeketh, findeth: and to him that knocketh, it shall be opened. Is there any man among you, who, if his son ask him bread, will give him a stone? or, if he ask fish, will give him a serpent ? If you therefcre, which are evil, can give good gifts unto your children; how much more shall your heavenly Father give good things, even the Holy Ghost itself, if you shall ask of him?” These and such like sayings, set forth unto us in the holy gospel for our consolation, ought more to move and establish our minds of the good, yea, the right good-will of God towards us than the eggings of the devil, wherewith he goeth about not only to overwhelm the hope of our election, but to make us suspect and doubt of God, as though he had his creature in hatred, whom he had rather have destroyed than saved. But he is well enough known to the saints by his subtilties and trains; for so he deceived our first parents. Let us keep it deeply printed in our breasts, that God hath chosen us in Christ, and for Christ his sake predestinate us to life; and that therefore he giveth and increaseth faith to Christ-ward in them that ask it; and that it is he that puts it in our hearts*. For all things that tend to our salvation come from the grace of God; nothing is ours but reproach and shame.
 
 These things, brethren, thus far have I laid before you concerning the marvellous and wonderful work of the creation wrought by the eternal, true, and living God, without any trouble (doubtless) or pains-taking. ‘‘ For he spake the word, and they were made. He commanded, and they were created.” (A little we have added touching the most wise and excellent governing of all things by God’s divine providence, which is always just and most righteous: likewise of God’s good-will towards us; of predestination’; and certain other
@@ -302,13 +283,11 @@ Iv. | OF GOD’S PREDESTINATION. 193 points unto these belonging. All these thin
 
 [) suspiciunt, Lat.; look up to.] [6 So also ed. 1584: but 1577, do not. ] [7 labuntur, Lat. | [8 institutorem, Lat. |
 
-194 THE FOURTH DECADE. [SERM.
-
 fatigable providence of God extended not to everything, though never so small, the Lord saith: “ Of two sparrows, the one of them falleth not to the ground without the will of the Father ; and, ‘the hairs of your head are all numbered:” whose care also and providence suffered not the garments of the Israelites to wax old, nor their simple! shoes on their feet to be worn and torn. And not without good reason: for if this God comprehendeth that which containeth all things, and all things and the whole doth consist of parts and particulars; then shall his care reach consequently even to every part and particular, whose providence hath reached already to the very whole, whatsoever it is, To this God be all glory.
 
-OF ADORING OR WORSHIPPING, OF INVOCATING OR CALLING UPON, AND OF SERVING THE ONLY, LIVING, TRUE, AND EVERLASTING GOD:
+## Of Adoring or Worshipping, of Invocating or Calling upon, and of Serving the Only, Living, True, and Everlasting God
 
-ALSO OF TRUE AND FALSE . RELIGION.
+## Also of True and False . Religion
 
 ---
 [[Bullinger Dec 46 Decade 4, Sermon 3, Part 2|← 46. Decade 4, Sermon 3, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 48 Decade 4, Sermon 5, Part 1|48. Decade 4, Sermon 5, Part 1 →]]

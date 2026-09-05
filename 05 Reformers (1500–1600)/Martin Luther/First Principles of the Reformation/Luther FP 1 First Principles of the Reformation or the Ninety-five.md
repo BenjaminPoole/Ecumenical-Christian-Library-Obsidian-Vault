@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. First Principles of the Reformation or the Ninety-five Theses and the Three Primary Works About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## First Principles of the Reformation or the Ninety-five Theses and the Three Primary Works
 
 ### By
 

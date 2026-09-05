@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Profit Of Godliness In The Life To Come
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 946
 
-DELIVERED ON LORD'S-DAY EVENING, JUNE 19, 1870,.
+*Delivered on Lord's-Day Evening, June 19, 1870*
 
 > "Godliness is profitable unto all things, having the promise of the life that now is, and of that which is to come." 1 Timothy 4:8.
 
@@ -216,7 +215,6 @@ And now, you who really desire to find godliness, remember, it is to be had in C
 But oh, my Lord and Master, Jesus Christ, is a river of mercy, deep and broad. You have but to stoop and drink, and you may drink as much as you will, and none shall tell you stop. Have you not His Word for it, "Let him that is athirst come. And whosoever will, let him take the water of life freely"? God grant you may with your heart believe the Gospel of Jesus, for our heart believes the Gospel of Jesus, for Christ's sake.
 
 [Sermon #937, The Profit of Godliness in This Life, is the sermon Brother Spurgeon alluded to at the beginning of this sermon.]
-
 
 ---
 [[Sermon 0945 Ripe Fruit|← #945]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0947 Seeking For Jesus|#947 →]]

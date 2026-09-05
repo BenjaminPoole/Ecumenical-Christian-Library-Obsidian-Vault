@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Our Last Journey
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1373
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 9, 1877,.
+*Delivered on Lord's-Day Morning, September 9, 1877*
 
 > "When a few years are come, then I shall go the way from where I shall not return." Job 16:22.
 
@@ -146,7 +145,6 @@ If you can think of anything, then, besides your Judge, you will cast your eyes 
 Oh, the terror of that voice which shall pronounce a separate sentence upon each of the two great classes into which the population of earth shall then be divided! On which side would you be if, now, instead of this poor voice saluting your ears, there should suddenly be a transformation scene and Christ should sit upon His Throne—and you and I are there to be judged before Him? And then, after the judgment comes the end, but what then? Do not flatter yourselves with the idea, you ungodly, that you shall be annihilated! You have chosen sin. You have deliberately rejected Christ and if you continue to do so you have settled your own destiny—and settled it forever! Look the danger in the face like honest men—and then escape from the wrath to come!
 
 But if you believe in Jesus now, look your future in the face and rejoice, for your redemption draws near! See body and soul together—and both perfect—and Christ the Judge acquitting you, saying, "Come, you blessed of My Father, inherit the kingdom prepared for you from before the foundation of the world." Can you conceive your overflowing joy, your ecstatic delight? The presence of angels! The fellowship of perfect saints! The sight of your Savior! Communion with your God! And all this forever and forever! Why, I think it makes me willing to use my solemn text no longer as a dirge, but as a sonnet and say right joyously, "When a few years are come, I shall go from where I shall not return, nor ever wish to return, but shall be forever with the Lord." Amen, so let it be!
-
 
 ---
 [[Sermon 1372 God Our Portion and His Word Our Treasure|← #1372]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1374 Forever With The Lord|#1374 →]]

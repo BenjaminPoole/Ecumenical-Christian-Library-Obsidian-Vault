@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 2. Luke 1:5-13
-
-**LUKE 1:5-13**
 
 **5**. In the days of Herod, king of Judea, there was a certain priest named Zacharias, of the course of Abia; and his wife was of the daughters of Aaron, and her name was Elisabeth. **6**. And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless. **7**. And they had no child, because Elisabeth was barren, and they were now both at an advanced age. **8**. And it happened, while he was discharging the priest's office in the order of his course before God, **9**. According to the custom of the priest's office, it fell to him by lot to burn incense when he went into the temple of the Lord. **10**. And the whole multitude of the people were praying without at the time of incense. **11**. And an angel of the Lord appeared to him, standing at the right hand of the altar on which the incense was burning. **12**. And Zacharias was troubled when he saw him, and fear fell upon him. **13**. But the angel said to him, Fear not, Zacharias, for thy prayer is heard: and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.
 

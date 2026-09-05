@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 127. Which is the sixth petition?
-
-**Question 127. Which is the sixth petition?**
 
 Answer. "AND LEAD US NOT INTO TEMPTATION, BUT DELIVER US FROM EVIL;" that is, since we are so weak in ourselves that we cannot stand a moment: and besides this, since our mortal enemies, the devil, the world, and our own flesh, cease not to assault us, do thou, therefore, preserve and strengthen us by the power of thy Holy Spirit, that we may not be overcome in this spiritual warfare, but constantly and strenuously may resist our foes, until at last we obtain a complete victory.
 
-**EXPOSITION**
+## **Exposition**
 
 There are some who here make one petition; while others make two. We should not, however, strive or contend, in reference to the matter as long as the doctrine which is here taught is fully retained. To us the words seem rather to constitute two parts of one and the same petition. Lead us not into temptation, is a petition for deliverance from future evil; but deliver us from evil, is a petition for deliverance from present evil.
 
@@ -32,7 +29,7 @@ III. What is it to deliver from evil?
 
 IV. Why is this petition necessary?
 
-**I. WHAT IS TEMPTATION?**
+## **I. What Is Temptation?**
 
 There are two kinds of temptation. The one is from God, the other is from the devil. The former is a trial of our faith, piety, repentance and obedience, which is from God, through the various oppositions and hinderances of our salvation; as by all evils, by the devil, the flesh, lusts, the world, afflictions, calamities, the cross, &c., that our faith, patience, hope and constancy may be made manifest both to ourselves and others. It is in this sense that God is said to have tempted Abraham, Joseph, Job and David. "The Lord your God proveth you, to know whether ye love the Lord your God with all your heart and with all your soul." (Deut. 13:4. See also Gen. 22:1. Ps. 139:1.) So God is also said to tempt his people by false prophets and by the cross. The temptation of the devil, or that by which the devil, the flesh and the wicked tempt us, is every solicitation to do wrong, which solicitation itself is sin. It was in this way that the devil tempted Job, that he might draw him from God, whom he loved and worshipped, although the final issue of the temptation was different from what the devil designed, and anticipated. So he also provoked David to number the children of Israel. (1 Chron. 21:1.)
 
@@ -42,17 +39,17 @@ From what has now been said we may easily perceive, since temptation is attribut
 
 Hence it is also apparent, how God punishes the wicked, and chastises and tempts the godly by evil spirits, whilst he is, nevertheless, not the cause of the sins which are committed by the devil, nor is a partaker with him in his wickedness. For that the wicked are punished by the wicked, and the good chastised and exercised, is the just and holy work of the divine will; but that the wicked execute the judgment of God by sinning, is not the fault of God, but comes to pass by the corruption of the wicked, which they have brought upon themselves, God neither willing, nor approving, nor accomplishing, nor furthering their sins, but only permitting them in his just judgment, when accomplishing his work and purpose through them, he either does not reveal his will to them, or does not influence their wills to regard his revealed will as the end and rule of their actions. This distinction between the works of God, and those of the devil, and of God's accomplishing his just work through the devil, and of his permitting the sin of the devil, is evidently confirmed by the history of Job, whom God designed to try, whilst the devil attempted to destroy him. The same thing is also proven by the history of Ahab, and by the prophecy respecting antichrist, where the devil deceives men that he may destroy them, whilst God permits them to be deceived that he may in this way punish them, and suffers the devil to execute his will and purpose. (1 Kings 23. 2 Thes. 2.)
 
-**II. WHAT IS IT TO LEAD INTO TEMPTATION?**
+## **II. What Is It to Lead into Temptation?**
 
 When God is said to lead us into temptation, we are to understand by it, that he tries and proves us according to his most just will and judgment. When the devil is said to lead us into temptation, it means that God permits him to entice and solicit us to sin. We are here in this petition taught to pray for deliverance from both of these forms of temptation. We therefore pray, 1. That God will not tempt us for the sake of trying us, if such be his will and pleasure, or if he does tempt us, that he will give us strength to endure the temptation. 2. That he will not permit the devil, or the world or the flesh to entice us to sin, or if he does permit us to be tempted, that he himself will be present with us, that we may not fall into sin. This, therefore, is the true sense and meaning of this petition, Lead us not into temptation—suffer us not to be tempted above that which we are able to bear; neither permit the devil to tempt us in such a way that we may either sin, or wholly fall from thee.
 
 Obj. Temptations which are good in respect to God, are evil in respect to the devil, and yet God, notwithstanding, leads us into them. Therefore God is the cause of sin. Ans. There is here a fallacy of the accident. They are sins in respect to the devil, because he designs to entice us to sin by these temptations. In respect to God, however, they are not sins, because they try us and withdraw us from sin, and also confirm our faith. Temptations, therefore, in as far as they are trials, chastisements, martyrdoms, &c., are sent of God; but in as far as they are evil and sinful, God does not will them, so as to approve and effect them, but only permits them.
 
-**III. WHAT IS IT, TO DELIVER US FROM EVIL?**
+## **III. What Is It, to Deliver Us from Evil?**
 
 There are some who understand by the term evil as here used, the devil; others understand by it, sin, and others, death. It is best, however, to understand it as comprehending all the evils of guilt and punishment, whether they be present or future; yea, and the devil himself, the author and grand contriver of all wicked deeds, who is called by the Apostle John, according to a significant form of speech, the wicked one. "I write unto you young men, because ye have overcome the wicked one." "Whatsoever is more than these, cometh of Evil." (1 John 2:13. Matt. 5:37.) Cyprian understood the term evil as here used, to include all the adverse circumstances which the enemy brings against us, from which we can have no sure protection, except God deliver us. Hence when we pray that God will deliver us from evil, we desire, 1. That he will send no evil upon us, but keep and defend us from present and future evils, both of guilt and punishment. 2. That if he does here send evils upon us, he will be pleased to mitigate them, and make them contribute to our salvation that they may be profitable to us. 3. That he will at length fully and perfectly deliver us in the life to come, and wipe away all tears from our eyes.
 
-**IV. WHY IS THIS PETITION NECESSARY?**
+## **IV. Why Is This Petition Necessary?**
 
 This petition is necessary, 1. On account of the number and power of our enemies, together with the magnitude of the evils to which we are exposed, and our own weakness. 2. On account of the preceding petition, that we may obtain the forgiveness of our sins, inasmuch as our sins are not forgiven except we continue in faith and repentance. But we will not continue in these, if we are tempted above our strength, if we rush into sin, and fall from God himself.
 

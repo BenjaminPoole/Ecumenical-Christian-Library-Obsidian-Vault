@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Receiving the Kingdom of God as a Little Child
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1439
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 20, 1878,.
+*Delivered on Lord's-Day Morning, October 20, 1878*
 
 > "Verily I say unto you, Whoever shall not receive the kingdom of God as a little child shall by no means enter it." Luke 18:17.
 
@@ -132,7 +131,6 @@ III. My time has gone before I noticed it and I must only say two or three words
 Next, what an encouragement this is to children! I am always glad to see the little ones so desirous to come to the Tabernacle service. I hope they can understand a good deal of what is said. Yes, I am sure they do, for I see their beaming faces! Dear little children, come to Jesus! Do not wait till you grow up, but seek the Lord early, for His promise is, "They that seek Me early shall find Me." And then what encouragement this is to all who are childlike! You feel that you do not know much; you mourn your lack of capacity for grasping the lofty Truths of the Word. You feel willing to be anything or nothing so that you may but be saved—surely the reception of the children will encourage you in the belief that Jesus will accept you!
 
 And last of all, to my mind it is a sweet comfort concerning our race over which we have such cause to mourn. After all, when we think of infants being saved and of the Lord saying, "Of such is the kingdom of Heaven," we shall hope that out of all kindreds, nations and tongues there will be a number that no man can number in whom Christ shall see of the travail of His soul! Millions of infant souls compose the family above! If you have lost infants, you will rejoice when you remember that you will go to them though they will not return to you!
-
 
 ---
 [[Sermon 1438 The Hope Laid Up In Heaven|← #1438]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1440 The Great Emancipator|#1440 →]]

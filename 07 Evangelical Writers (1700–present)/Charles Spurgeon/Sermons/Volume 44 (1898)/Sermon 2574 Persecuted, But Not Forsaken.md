@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # "Persecuted, But Not Forsaken"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2574
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Many a time have they afflicted me from my youth. Let Israel now say: many a time have they afflicted me from my youth: yet they have not prevailed against me. The plowers plowed upon my back: they made long their furrows. The Lord is righteous: He has cut asunder the cords of the wicked. Let them all be confounded and turned back that hate Zion. Let them be as the grass upon the housetops, which withers before it grows up: which the mower fills not his hand; nor he that binds sheaves his arms. Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD." Psalm 129.
 
@@ -87,7 +84,7 @@ Dearly Beloved, "avenge not yourselves, but rather give place unto wrath; for it
 
 The latter half of the sermon must come, if the Lord wills, on another Thursday night. May God's blessing be with you! Oh, happy are they that are God's people! Blessed are they that are in the furnace! Blessed are they that are tried and troubled! Has not He, whose lips can never lie, pronounced them blessed? "Blessed are they which are persecuted for righteousness' sake: for theirs is the Kingdom of Heaven. Blessed are you, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for My sake. Rejoice and be exceedingly glad: for great is your reward in Heaven: for so persecuted they the Prophets which were before you." Therefore, reckon yourselves gladdened and honored when you are counted worthy to suffer for Christ's sake!
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS4, 5:1.
+## Exposition by C. H. Spurgeon: Galatians 4, 5:1
 
 Galatians 4:1-5. Now I say, that the heir, as long as he is a child, differs nothing from a servant, though he is lord of all; but is under tutors and governors until the time appointed of the father. Even so we, when we were children, were in bondage under the elements of the world: but when the fullness of the time was come, God sent forth His Son, made of a woman, made under the Law, to redeem them that were under the Law, that we might receive the adoption of sons. Like little children, the Jewish Believers were under the Law. They observed this ceremony and that, just as children, though they may be heirs to vast estates, yet, while they are in their minority, are under tutors and governors. But now in Christ we have come of age and we have done with those schoolbooks and that tutorship, and we have received the adoption of sons! Now we have joy and peace in believing. We have begun to enter into our possession. We already have the earnest of it and, by-and-by, we shall receive the fullness of the inheritance of the saints in the Light of God.
 
@@ -120,7 +117,6 @@ Galatians 4:1-5. Now I say, that the heir, as long as he is a child, differs not
 30, 31. Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman. So then, Brothers and Sisters, we are not children of the bondwoman, but of the free.
 
 Galatians 5:1. Standfast therefore in the liberty which Christ has made us free, and be not entangled again with the yoke of bondage. God grant us Grace to keep to Grace! God grant us faith enough to live by faith, even to the end, as the freeborn children of God, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2573 Unparalleled Suffering|← #2573]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2575 A Sermon of Personal Testimony|#2575 →]]

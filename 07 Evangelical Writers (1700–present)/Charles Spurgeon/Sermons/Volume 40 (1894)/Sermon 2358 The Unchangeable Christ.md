@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Unchangeable Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2358
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus Christ, the same yesterday, and today and forever." Hebrews 13:8.
 
@@ -113,7 +110,7 @@ Let us go forward, then, to the unchanging Savior, through the changing things o
 
 Oh, do you know Him? Do you know Him? Do you know Him? If not, may He, this night, reveal Himself to you, for His sweet mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS13.
+## Exposition by C. H. Spurgeon: Hebrews 13
 
 Verse 1. Let brotherly love continue. It is supposed to already be there—let it continue, not only love of a common kind, such as we are to have to all men, but that special "brotherly love" which Christians bear to one another as members of one family. "Let brotherly love continue."
 
@@ -144,7 +141,6 @@ spoken unto you the Word of God." They were leaders among the saints and Paul wo
 17-19. Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you. Pray for us: for we trust we have a good conscience, in all things willing to live honestly. But I beseech you the rather to do this, that I may be restored to you the sooner. The movements of God's servants may be controlled by prayer. You cannot tell how much of blessing will come to your own souls through the ministry if you are in the habit of praying about it! The man who comes up to God's House, having prayed for God to bless the preacher, is not likely to go away unprofited.
 
 20-25. Now the God of peace, that brought, again, from the dead, our Lord Jesus, that Great Shepherd of the sheep, through the blood of the Everlasting Covenant make you perfect in every good work to do His will, working in you that which is well pleasing in His sight, through Jesus Christ; to whom be glory forever and ever. Amen. And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words. Know you that our brother, Timothy, is set at liberty; with whom, if he comes shortly, I will see you. Salute all them that have the rule over you, and all the saints. They of Italy salute you. Grace be with you all. Amen. Does not that blessing seem to come across the centuries as fresh as if we heard the Apostle speak it with his living lips? Oh, to feel it true tonight! "Grace be with you all. Amen."
-
 
 ---
 [[Sermon 2357 The Two Pillars Of Salvation|← #2357]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2359 Personal and Effectual Calling|#2359 →]]

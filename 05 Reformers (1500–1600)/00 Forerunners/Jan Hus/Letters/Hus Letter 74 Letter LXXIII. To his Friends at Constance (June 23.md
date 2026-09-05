@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 74. Letter LXXIII. To his Friends at Constance (June 23, 1415)
-
-LETTER LXXIII. TO HIS FRIENDS AT CONSTANCE (June 23, 1415)
 
 A beautiful letter of resignation and fortitude; Palecz and Michael; "I am praying for them"; The sorrows of Jesus ; " O Jesus, draw me after Thyself " . . 250-53
 

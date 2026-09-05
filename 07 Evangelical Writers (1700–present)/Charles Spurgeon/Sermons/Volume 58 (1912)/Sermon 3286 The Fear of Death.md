@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Fear of Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3286
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Forasmuch then as the children are partakers of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and deliver those who through fear of death were all their lifetime subject to bondage." Hebrews 2:14,15.
 
@@ -115,7 +112,7 @@ Since Jesus is mine, I'll not fear undressing, But gladly put off this garment o
 
 May we all have like precious faith, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 15:1-32.
+## Exposition by C. H. Spurgeon: 1 Corinthians 15:1-32
 
 Verses 1, 2. Moreover, brethren, Ideclare unto you the Gospel which Ipreached unto you, which also you have received and wherein you stand. By which also you are saved, if you keep in memory what Ipreached unto you, unless you have believed in vain. By which the Apostle means, unless they had a false faith, a merely notional faith or, he may also mean, "Unless what I have preached unto you should have been a fable and, therefore, you will have exercised your faith upon nothing real, and so it would have been in vain."
 
@@ -158,7 +155,6 @@ passage, but I suppose the meaning is this—Jesus Christ, in order to remedy th
 31\. I protest by your rejoicing which I have in Christ Jesus our Lord, I did daily. [See Metropolitan Tabernacle Pulpit, No. 828, Volume 14—" Dying Daily."] He was so hunted about everywhere that there was not a day in which he felt secure of his life, so he asks, "Why should I endure this if there is no world to come ?"
 
 32\. If after the manner of men I have fought with beasts at Ephesus, what advantage is it to me, if the dead rise not?It is quite possible that Paul was thrown to the lions in the theater at Ephesus and that he fought with them and came off a conqueror. "But why," he asks, "did I try to save my life for future labor and for future suffering if the dead rise not?" 32. Let us eat and drink; for tomorrow we die. This is the best philosophy in the world if there is no life to come. So Paul has proved his point right well by every argument that he has used.
-
 
 ---
 [[Sermon 3285 Good Cheer From Christ's Victory Over the World|← #3285]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3287 The Only Door|#3287 →]]

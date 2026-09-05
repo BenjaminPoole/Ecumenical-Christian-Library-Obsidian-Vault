@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Paul As a Pattern Convert
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3367
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "However for this cause I obtained mercy, that in me, first, Jesus Christ might show forth all long-suffering, for a pattern to them which should hereafter believe on Him to life everlasting." 1 Timothy 1:16.
 
@@ -63,9 +60,9 @@ Did you never read this passage—"You have given Him power over all flesh, that
 
 So far, then, Paul's salvation, because it had so clear a reference to others, was a pattern of all conversions. Now, secondly—
 
-II. PAUL'S FOREMOST POSITION AS A SINNER DID NOT PREVENT HIS BECOMING FOREMOST IN
+## II. Paul's Foremost Position as a Sinner DID Not Prevent His Becoming Foremost In
 
-GRACE AND, HEREIN, AGAIN, HE IS A PATTERN TO US.
+## Grace and, Herein, Again, He Is a Pattern to Us
 
 Foremost in sin, he became also foremost in service! Saul of Tarsus was a blasphemer and he is to be commended because he has not recorded any of those blasphemies. We can never object to converted burglars and chimney-sweepers of whom we hear so much, telling the story of their conversion. But when they go into dirty details, they had better hold their tongues! Paul tells us that he was a blasphemer, but he never repeats one of the blasphemies. We invent enough evil in our own hearts without being told of other men's stale profanities. If, however, any of you are so curious as to want to know what kind of blasphemies Paul could utter, you have only to converse with a converted Jew and he will tell you what horrible words some of his nation will speak against our Lord! I have no doubt that Paul, in his evil state, thought as wickedly of Christ as he could—considered Him to be an imposter, called Him so, and added many an opprobrious epithet. He does not say of himself that he was an unbeliever and an objector, but he says that he was a blasphemer, which is a very strong word, but not too strong, for the Apostle never went beyond the truth. He was a downright, thoroughgoing blasphemer who also caused others to blaspheme. Will these lines meet the eye of a profane person who feels the greatness of his sin? May God grant that he may be encouraged to seek mercy as Saul of Tarsus did, for "all manner of sin and blasphemy" does He forgive unto men!
 
@@ -81,7 +78,7 @@ What man more earnest in the defense of the Truth of God? What man more self-sac
 
 Thus we gather from our text that the Lord showed mercy to Paul. That in him, first, it might be seen that prominence in sin is no barrier to eminence in Grace, but the very reverse! Now I come to where the stress of the text lies.
 
-III. PAUL'S CASE WAS A PATTERN OF OTHER CONVERSIONS AS AN INSTANCE OF LONG-SUFFERING.
+## III. Paul's Case Was a Pattern of Other Conversions as an Instance of Long-Suffering
 
 "That in me, first, Jesus Christ might show forth all long-suffering for a pattern to them which should hereafter believe." Thoughtfully observe the great long-suffering of God to Paul. He says, "He showed forth all long-suffering." Not only all the long-suffering of God that ever was shown to anybody else, but all that could be supposed to exist—all long-suffering—
 
@@ -130,7 +127,6 @@ Now I have set the case before you and I cannot do more. It remains with each in
 "How they deserve the deepest Hell, That slight the joys above! What chains of vengeance must they feel Who break the bonds of love!"
 
 God grant that you may yield to Almighty Love and find peace in Christ Jesus!
-
 
 ---
 [[Sermon 3366 Deliverance From the Power of Darkness|← #3366]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3368 Fathomless|#3368 →]]

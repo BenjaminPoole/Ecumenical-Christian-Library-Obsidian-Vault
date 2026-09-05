@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 66. Letter LXV. To Henry Skopek De Duba (June 13, 1413)
-
-LETTER LXV. TO HENRY SKOPEK DE DUBA (June 13, 1413)
 
 Thanks for his letters; "Keep God's counsels"; "Greet your wife from me " ; " You will never see me again " . . 234
 

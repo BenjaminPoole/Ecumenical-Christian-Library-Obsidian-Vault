@@ -35,7 +35,7 @@ tags:
 
 **M.** Can you give me a reason why he so acts ?
 
-**S.** In this way he consults our weakness. If we were wholly spiritual, we might, like the angels, spiritually behold both him and his grace ; but as we are surrounded with this body of clay, we need figures or mirrors to exhibit a view of spiritual and heavenly things in a kind of earthly manner ; for we could not otherwise attain to them. At the same- time, it is our interest to have all our senses exercised in the promises of God, that they may be the better confirmed to us.
+**S.** In this way he consults our weakness. If we were wholly spiritual, we might, like the angels, spiritually behold both him and his grace ; but as we are surrounded with this body of clay, we need figures or mirrors to exhibit a view of spiritual and heavenly things in a kind of earthly manner ; for we could not otherwise attain to them. At the same-time, it is our interest to have all our senses exercised in the promises of God, that they may be the better confirmed to us.
 
 **M.** If it is true that the sacraments were instituted by God to be helps to our necessity, is it not arrogance for any one to hold that he can dispense with them as unne cessary ?
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # God's Unspeakable Gift
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2290
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thanks be unto God for His unspeakable Gift." 2 Corinthians 9:15.
 
@@ -143,7 +140,7 @@ Praise Him above, you heavenly host,
 
 Praise Father, Son, and Holy Ghost."
 
-EXPOSITION BY C. H. SPURGEON. ISAIAH53.
+## Exposition by C. H. Spurgeon. Isaiah 53
 
 Mr. Moody was once asked whether his creed was in print. In his own prompt way, he replied, "Yes, Sir. You will find it in the 53rd Chapter of Isaiah." A condensed Bible is in this chapter. You have the whole Gospel here.
 
@@ -194,7 +191,6 @@ for others, but He lives, again, and through Him a godly seed shall live forever
 11\. For He shall bear their iniquities. They kick against this doctrine nowadays. They cannot bear it, yet it is the very marrow of the Gospel—Christ bearing sin that was not His own, that we might be covered with a righteousness which is not our own, but comes from Him! Paul, by the Spirit, put this great Truth of God thus, "For He has made Him to be sin for us, who knew no sin; that we might be made the righteousness of God in Him."
 
 12\. Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong; because He has poured out His soul unto death: and He was numbered with the transgressors; and He bore the sin of many, and made intercession for the transgressors. Thanks be unto God for this great Sacrifice!
-
 
 ---
 [[Sermon 2289 The Right Keynote for the New Year|← #2289]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2291 Dare To Be a Daniel|#2291 →]]

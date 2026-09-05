@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 91. Matthew 11:1-6; Luke 7:18-23
-
-**MATTHEW 11:1-6; LUKE 7:18-23**
 
 **1**. And it happened that when Jesus had made an end of commanding his twelve disciples, [^1] he departed thence to teach and to preach in their cities. **2**. Now when John had heard in the prison the works of Christ, he sent two of his disciples, **3**. And said to him, Art thou he who was to come, or do we look for another? **4**. And Jesus answering said to them, Go and relate to John those things which you hear and see. **5**. The blind receive their sight, and the lame walk; the lepers are cleansed, and the deaf hear; the dead are raised up, and the poor receive the message of the Gospel. [^2] **6**. And blessed is he who shall not be offended at me.
 

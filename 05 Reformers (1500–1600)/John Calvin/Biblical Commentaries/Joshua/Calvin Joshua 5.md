@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Joshua 5:1-9
 

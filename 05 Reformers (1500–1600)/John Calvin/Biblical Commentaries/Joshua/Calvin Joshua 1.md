@@ -10,20 +10,19 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 1
 
-**A BRIEF COMMENTARY**
+***A Brief Commentary***
 
-**ON**
+## **On**
 
-**THE BOOK OF JOSHUA**
+## **The Book of Joshua**
 
-**BY JOHN CALVIN,**
+## **By John Calvin,**
 
-**A SHORT TIME BEFORE HIS DEATH**
+## **A Short Time Before His Death**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Joshua 1:1-4
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The New Fashion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1269
-
-DELIVERED BY.
 
 > "And immediately he arose, took up the bed, and went forth before them all; so that they were all amazed, and glorified God, saying, We never saw it on this fashion." Mark 2:12.
 
@@ -150,7 +147,6 @@ And if ever He gives us, as He will give us, a crown of life that fades not away
 O, you cannot praise Him, you who do not know this salvation—and I do not exhort you to attempt to do so! But, first of all, may you know this salvation for yourselves. You can know it. Blessed be God, I trust that some of you will know it this very night by ceasing from yourselves, giving up all dependence upon anything you can do or be or feel, and by dropping into the arms of Jesus, resting in His finished work and confiding in Him. He will—he MUST save you if you trust Him—and then you shall give Him praise. God bless you, dear Friends, for Christ's sake.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Mark 2. HYMNS FROM "OUR OWN HYMN BOOK"—202, 232.
-
 
 ---
 [[Sermon 1268 The Story of a Runaway Slave|← #1268]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1270 God With Us|#1270 →]]

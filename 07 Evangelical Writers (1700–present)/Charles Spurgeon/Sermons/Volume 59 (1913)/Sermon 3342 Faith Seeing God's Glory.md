@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Faith Seeing God's Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3342
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto her, Said I not unto you that if you would believe, you would see the Glory of God?" John 11:40.
 
@@ -27,7 +24,7 @@ I shall hope to use the text tonight—may God, too, use it—first, with regard
 
 Dear Friends, I know that I touch a sympathetic chord in your hearts when I speak—
 
-I. WITH REGARD TO OUR CARE FOR OTHERS' SOULS.
+## I. With Regard to Our Care for Others' Souls
 
 I bless God that so many of you love your fellow creatures and fellow sinners and earnestly desire to promote their highest interests by bringing them to Christ!
 
@@ -61,7 +58,7 @@ Oh, what a mercy to rise from your knees and say, "I have got it! I asked for so
 
 You Christian people, as you sit in the pews should be looking out for God to bless your friends, believing that your dear children will manifest the first signs of His gracious saving power. Then should you encourage these seedlings of promise and put the young plants in the hothouse of deep love during the winter of their conviction, so that they may not be withered or blighted, but come to be plants of God's right hand planting! Expect the blessing! It is coming! It is coming! God is blessing His Church and He intends to bless it yet more. He has opened the windows of Heaven and He is pouring out the blessing so that we have not room enough to receive it! We have not even now room enough to receive the hearers—the day is coming when we shall not have room enough to hold the Church! Only let us pray and work— and God, even our own God, will bless us and bless His other Churches, too—and the ends of the earth shall fear Him! So you see, then, the whole matter is if you can believe. Now, Mother, can you believe about your child? Now, good Woman, can you believe about your husband? Now, my Brother, can you believe about your wife? May God help you to believe Him! Depend upon it, the struggle is there. It is much harder for you to believe in God than it is for God to convert your wife, much harder for you to trust God about your child than it is for Him to save your child! It is much easier for God to save the harlot, the drunk, the thief, than it is for us to think He will do it! But when we can believe in Him and, believing, boldly pray for it and expect it, we shall get it, and he that was repulsive but yesterday shall be fragrant with Divine Grace tomorrow! He that rotted in his tomb but the other day, so far gone that men turned away from him, shall come into the midst of God's Church, be found among the living in Zion and make the Church on earth and the Church in Heaven glad in his society! But now we must have a few minutes in which to use the text for—
 
-II. THE COMFORT AND BLESSING OF THOSE WHO ARE NOT THEMSELVES SAVED.
+## II. The Comfort and Blessing of Those Who Are Not Themselves Saved
 
 I do not suppose, dear Friends—speaking to those of you who are awakened and quickened in your consciences—I do not suppose I could give a descriptive character of you which you would think to be too bad. You once thought yourselves very good and excellent, but it is quite a different tale with you now. God the Holy Spirit has met with you and
 
@@ -81,7 +78,7 @@ Now, can you believe this? Can you trust Jesus Christ, alone, to utterly save yo
 
 Oh, come, Sinner! God help you to come! Come! All black and ruined, come! All lost and defiled, come! Though you are as one dead, no, like Lazarus rotting in the tomb of your sins, "Awake, you that sleep, and rise from the dead, and Christ shall give you light." In the name of Jesus, thus I speak to you and He speaks to you through me. Come forth! Come forth! You corrupting Lazarus, come forth! 'Tis Jesus bids you come! Trust Him! He bids you trust Him and whoever trusts Him shall see the Glory of God forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN111-26.
+## Exposition by C. H. Spurgeon: John 111-26
 
 Verse 1. Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister, Martha. In God's Book, towns are most remarkable for saints that dwell in them. "The town of Mary and her sister, Martha." A day will come when a city shall be more illustrious for a saint than for a Caesar—be more renowned for deeds of faith than for deeds of battle! It was "the town of Mary and her sister, Martha."
 
@@ -116,7 +113,6 @@ Verse 1. Now a certain man was sick, named Lazarus, of Bethany, the town of Mary
 22\. But I know that even now, whatever You will ask of God, God will give it to You. There is faith there, and there is unbelief, too. She believes that Christ can have what He wills of God, but she does not recognize His own personal Godhead—His own power to work resurrection.
 
 23-26. Jesus said unto her, Your brother shall rise again. Martha said unto Him, Iknnow that he shall rise again in the resurrection at the Last Day. Jesus said unto her, I am the Resurrection, and the Life: he that believes in Me, though he were dead, yet shall he live. And whoever lives and believes in Me shall never die. Do you Believe this?She looked upon the Resurrection and the Life as things that were to be in some dim and misty future. "No," says Christ, "I am the Resurrection and the Life. Not only do I get these things by prayer from God, but I am these things." And then He goes on to explain it. He says, "I am the Resurrection. He that believes in Me, though he were dead, yet shall he live. I am the Life. Whoever lives and believes in Me shall never die. Do you believe this?" He has taken her out of the thought of this poor common animal-life into the thought of the spiritual and higher life, which is, indeed, to the soul what the resurrection is to the body! It was well for the Savior thus to teach her higher truth than as yet she knew.
-
 
 ---
 [[Sermon 3341 'The Oil of Joy for Mourning'|← #3341]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3343 'The Star Out of Jacob'|#3343 →]]

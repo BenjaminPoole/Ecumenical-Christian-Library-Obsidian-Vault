@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Spiritual Knowledge and Its Practical Results
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1742
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 30 1883,.
+*Delivered on Lord's-Day Morning, September 30 1883*
 
 > "For this cause we, also, since the day we heard it, do not cease to pray for you, and to desire that you might be filled with the knowledge of His will in all wisdom and spiritual understanding; that you might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God." Colossians 1:9,10.
 
@@ -118,7 +117,6 @@ Notice his language here—in the 9th verse he says, "that you might be filled w
 He would have our manhood enlarged and our powers of reception increased so that we might grow from being children to be young men—and from young men to be fathers, and so may be filled—filled always! Filled with all the fullness of God! The Lord grant unto us to perceive with humility that if we are already full of knowledge, we can still advance, for we "have not yet attained." Let no man think that he can go no further! "There is," says Augustine, "a certain perfection according to the measure of this life. And it belongs to that perfection that such a perfect man should know that he is not yet perfect." To that I heartily subscribe! There is a certain fullness to be found in this life according to the measure of a man. And it belongs to that fullness that the man should know that he can yet increase in knowledge!
 
 Holy Bernard says, "He is not good at all who does not desire to be better." I also subscribe to that saying! Some might become good if they were not puffed up with the fancy of their own perfection. Others are somewhat commendable, but will never grow because they judge themselves to be already full-grown. I would have you filled and yet have room for more—filled with all knowledge, filled with all holiness, filled with the indwelling Spirit, filled with God— and yet increasing in knowledge, in holiness, in likeness to God and in all good things forevermore to His Glory! The Lord add His blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1741 Let Not Your Heart Be Troubled|← #1741]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1743 A Loving Entreaty|#1743 →]]

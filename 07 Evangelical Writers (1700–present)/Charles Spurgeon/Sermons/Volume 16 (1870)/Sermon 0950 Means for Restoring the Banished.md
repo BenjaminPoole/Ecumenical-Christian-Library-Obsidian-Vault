@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Means for Restoring the Banished
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 950
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 11, 1870,.
+*Delivered on Lord's-Day Morning, September 11, 1870*
 
 > "Neither does God respect any person: yet does He devise means, that His banished are not expelled from Him." 2Samuel 14:14.
 
@@ -150,7 +149,6 @@ Or perhaps you have a larger room, and might get up a weekly Prayer Meeting, or 
 God devised means to save you. In His hands begin to devise means for saving others. Science and art have their fertile inventors, and shall we fail for lack of a little sanctified common sense? O for planners and plotters who will lay out all their ingenuity in plans for soul-winning. I thank God that there are so many of you doing good, but I would that all of you were. I would that everyone here felt, "I must, while the day lasts, work for my Lord. The night is coming on." I will say thus much—if there is one person here who cannot be excused from working, and does not wish to be, it is the preacher, for oh, I owe my Lord so much! I had so much sin to be forgiven, and it has been forgiven. And I have received so much mercy at His hands, that I would ask, as long as I live, to be devising means for bringing others to my precious Redeemer.
 
 Now, if He has not shown such love to you, you shall be excused. But I know many of you will cry out, "The preacher says he owes much, but we owe quite as much. We are equally in debt to the infinite mercy of God." Then I charge you in the name of Him who was crucified for you! By His precious blood and wounds! By His everlasting love, and by His coming to receive you to Himself, I charge you—"Be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord." Amen.
-
 
 ---
 [[Sermon 0949 The Unconquerable King|← #949]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0951 The Unrivalled Eloquence Of Jesus|#951 →]]

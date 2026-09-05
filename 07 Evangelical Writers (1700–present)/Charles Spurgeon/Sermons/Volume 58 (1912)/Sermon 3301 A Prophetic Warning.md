@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Prophetic Warning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3301
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And because iniquity shall abound, the love of many shall grow cold." Matthew 24:12.
 
@@ -77,7 +74,7 @@ Let us notice, next, that if the love of the many grows cold, it is not much use
 
 Suppose you expected a famine in London as there was in Paris during the siege? Everybody who could do so, would get in a hundred-fold supply of provisions. Every good housewife would lay out every penny that she could get and fill her cellars full of food. There is going to be a spiritual famine—therefore buy the Truth of God and sell it not. Go to your Lord and get larger supplies from Him. Do not go to one another for it. That will be like saying, "Give us of your oil"—and your companions will wisely reply, "Not so, lest there be not enough for us and you." Go to your Master and ask Him to fan the fire within you to a great heat, that if there should be cold everywhere else, there may be warmth in your bosoms! The Lord help you to do this, dear Friends, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW24:1-28.
+## Exposition by C. H. Spurgeon: Matthew 24:1-28
 
 Verse 1, 2. And Jesus went out, and departed from the Temple: and His disciple came to Him to show Him the buildings of the Temple. And Jesus said unto them, See you not all these things? Verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down. The King, having finished His first discourse in the Temple, left it, never to return—"Jesus went out and departed from the Temple." His ministry there was ended. As His disciples moved away with Him towards the Mount of Olives, they called His attention to the great stones of which the Temple was constructed and the costly adornments of the beautiful building. To them the appearance was glorious, but to their Lord it was a sad sight. His Father's House, which ought to have been a House of Prayer for all nations, had become a den of thieves and soon would be utterly destroyed! Jesus said unto them, "See you not all these things? Verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down." Josephus tells us that Titus at first tried to save the Temple, even after it was set on fire, but his efforts were of no avail—at last he gave orders that the whole city and Temple should be leveled, except a small portion reserved for the garrison. This was so thoroughly done that the historian says that there was but nothing to make those that came there believe it had ever been inhabited!
 
@@ -116,7 +113,6 @@ The reason for this injunction was thus stated by the Savior. "For then shall be
 27\. For as the lightning comes out of the east, and shines even unto the west; so shall also the coming of the Son of Man be. When HE comes, we shall know who He is and why He has come. There will be no longer any mystery or secret about "the coming of the Son of Man." There will be no need to ask any questions then! No one will make a mistake about His appearing when it actually takes place. "Every eye shall see Him." Christ's coming will be sudden, startling, universally visible— and terrifying to the ungodly! "As the lightning comes out of the east, and shines even unto the west." His first coming to judgment at the destruction of Jerusalem had terrors about it that till then had never been realized on the earth—His last coming will be still more dreadful.
 
 28\. For wherever the carcass is, there will the eagles be gathered together. Judaism had become a "carcass," dead and corrupt—fit prey for the vultures or carrion-kites of Rome. By-and-by there will arrive another day when there will be a dead church in a dead world—and "the eagles" of Divine Judgment "will be gathered together" to tear in pieces those whom there shall be none to deliver! The birds of prey gather wherever dead bodies are to be found—and the judgments of Christ will be poured out when the body, politic or religious, becomes unbearably corrupt!
-
 
 ---
 [[Sermon 3300 Titles of Honor|← #3300]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3302 Faith in Christ's Ability|#3302 →]]

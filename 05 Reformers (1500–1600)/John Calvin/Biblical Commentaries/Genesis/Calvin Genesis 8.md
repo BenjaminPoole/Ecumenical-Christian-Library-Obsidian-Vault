@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 8
 
-**CHAPTER 8.**
+***Chapter 8.***
 
 ## Genesis 8:1-22
 

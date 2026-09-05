@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Hope That Purifies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3235
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And every man that has this hope in Him purifies himself, even as He is pure." 1 John 3:3.
 
@@ -120,7 +117,6 @@ The truth is in that famous picture of John Bunyan's. While I tell it to you aga
 "Come in, come in! Eternal Glory you shall win." Now, Sir, if you would go to Heaven, it is all of Grace and through the precious blood of Christ! It is all by simple faith in Christ, yet every man who gets there must fight for it. There is no crown except for warriors! There are no rewards except for those who contend for the mastery against flesh and blood, against Satan and against sin! Whose name shall we set down tonight? Is there a man of stout countenance whom God has made resolute against sin? Let us set his name down! Only, when you put down your name, remember that he that puts on his harness must not boast as though he were taking it off! There is much that you will never perform unless the Eternal God is at your back. Nevertheless, if you have this hope in you. If you have received this hope from God. If it is a hope based upon Divine Sonship, upon Divine Love—a "hope in Him," even in Christ, you shall win the day—you shall purify yourselves, even as He is pure! And when He shall appear, you shall be like He, for you shall see Him as He is!
 
 I pray the Lord to bless this sermon to the preacher, and bless it to every one of his hearers, and He shall have the Glory! Amen and Amen.
-
 
 ---
 [[Sermon 3234 Strangers and Sojourners|← #3234]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3236 The Gospel Cordial|#3236 →]]

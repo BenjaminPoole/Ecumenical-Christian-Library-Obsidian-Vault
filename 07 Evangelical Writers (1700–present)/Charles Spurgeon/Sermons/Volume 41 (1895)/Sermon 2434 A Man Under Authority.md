@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "A Man Under Authority"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2434
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The centurion answered and said, Lord, I am not worthy that You should come under my roof: but speak the word, only, and my servant shall be healed. For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goes; and to another, Come, and he comes; and to my servant, Do this, and he does it." Matthew 8:8,9.
 
@@ -89,7 +86,7 @@ Our chief business just now is not so much to think of what Christ can do in the
 
 The Lord bless you, dear Friends, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 8:1-27.
+## Exposition by C. H. Spurgeon: Matthew 8:1-27
 
 Verses 1, 2. When He was come down from the mountain, great multitudes followed Him. And, behold, there came a leper and worshipped Him. Great multitudes often count for nothing—it is, here or there, one who is the notable individual. There may be a great company come up outwardly to worship, but it is the soul that comes into contact with Christ that is the most worthy of observation. There is no, "Behold!" when the great multitudes are mentioned by Matthew. But there is a, "Behold!" before the record of the leper coming to Christ—"Behold, there came a leper and worshipped Him." Let us all be of the leper's mind! Let us worship Christ! Surely we may do so, if only out of gratitude for having escaped from so dire a disease, but, inasmuch as, spiritually, by nature that disease is upon us, we have good reason to come to Jesus as the "leper came and worshipped Him"—
 
@@ -122,7 +119,6 @@ Verses 1, 2. When He was come down from the mountain, great multitudes followed 
 24\. Insomuch that the ship was covered with the waves: but He was asleep. Weary with His toil, He lay down to rest. There was His Humanity serenely confident and, therefore, sleeping through the storm! There was the Glory of His innocence—"He was asleep." And there was also the majesty of His Deity, only waiting for the moment when He should arise and still the tumult of the winds and waves.
 
 25-27. And His disciples came to Him, and awoke Him, saying, Lord, save us: we perish! And He said to them, Why are you fearful, O you of little faith? Then He arose and rebuked the winds and the sea; and there was a great calm. But the men marveled, saying, What manner of Man is this, that even the winds and the sea obey Him? Glory be to His blessed name! Amen.
-
 
 ---
 [[Sermon 2433 Heman's Sorrowful Psalm|← #2433]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2435 The Everlasting Arms|#2435 →]]

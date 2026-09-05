@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Cumbered With Much Serving
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3163
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Martha was cumbered about much serving." Luke 10:40.
 
@@ -86,7 +83,6 @@ Now I hope we are beginning to feel better. I hope we are not going to leave off
 Come, you Marys—if you have been upbraided, mind not the unbraiding! Your living near to Christ is "that good part"— always stay there. Serve the Master, but do not break your fellowship. Do all that in you lies for Christ, but also sit down under His shadow and let His fruit be sweet to your taste. If we sometimes did less, we should do more. If we had fewer outward engagement and more private dealings with God, we should be richer. The best commerce is commerce with Heaven. The richest merchants are those who negotiate with a Covenant God. Those who get the largest estates are those who have learned to traffic in Heaven's markets. If you would be strong, live upon the promises! If you would be happy, live with the Promise-Keeper. If you would be mighty to win souls, be mighty on your knees! And if you would be like your Master with a shining face among the multitude, be much with your Master where He is transfigured upon the Mount.
 
 I preach but poorly to you, but I must not begin to be cumbered about that. Here I would leave the matter, only I would to God that you all had an interest in the things I have been speaking of! Some of you do not care to serve God at all. You serve yourselves—you serve your own passions. May the Lord bring you to serve Him—and the door of service is at the Cross. The way to begin to be a servant is to go to the place where He took upon Himself the form of a Servant and was obedient unto death, even the death of the Cross. Trust Jesus. This is the work of God, if you would do it, that you believe on Him whom He has sent. May God enable you now to trust His dear Son with all your hearts! And then after that may you go and serve Him, and serve Him effectively—but God grant that you be not "Cumbered with much serving."
-
 
 ---
 [[Sermon 3162 The Unfailing Help|← #3162]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3164 The Mission of Affliction|#3164 →]]

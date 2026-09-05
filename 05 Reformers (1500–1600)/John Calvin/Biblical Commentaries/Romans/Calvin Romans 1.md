@@ -10,14 +10,13 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 1
 
-**COMMENTARIES ON THE**
+***Commentaries on The***
 
-**EPISTLE OF ST. PAUL TO THE ROMANS.**
+## **Epistle of St. Paul to the Romans.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Romans 1:1-7
 

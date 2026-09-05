@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 96. What does God require in the second command?
-
-**Question 96. What does God require in the second command?**
 
 Answer. That we in nowise represent God by images, nor worship him in any other way than he has commanded in his word.
 
-**EXPOSITION**
+## **Exposition**
 
 Two things are comprehended in this commandment: the commandment itself, and an exhortation to obedience. The end, or design of this commandment is, that the true God, who in the first precept commanded that he alone should be worshipped, be worshipped under a proper form, or with such worship as it is right and proper that intelligent creatures should pay unto him—such as is pleasing to him, and not with such worship as that which is according to the imagination and device of man: Or, we may say that the design of this commandment is, that the worship of God as prescribed be preserved pure and uncorrupted, and not be violated by any form of superstitious worship. The true worship of God is, therefore, here enjoyed, and a rule at the same time given, that we sacredly and conscientiously keep ourselves within the bounds which God has prescribed, and that we do not add anything to that worship which has been divinely instituted, or corrupt it in any part, even the most unimportant; which the Scriptures also expressly enjoin in many other places. The true worship of God now consists in every internal or external work commanded by God, done in faith, which rests fully assured that both the person and work please God, for the mediator's sake, and with the design that we may glorify God thereby. To worship God truly, is to worship him in the manner which he himself has prescribed in his word.
 

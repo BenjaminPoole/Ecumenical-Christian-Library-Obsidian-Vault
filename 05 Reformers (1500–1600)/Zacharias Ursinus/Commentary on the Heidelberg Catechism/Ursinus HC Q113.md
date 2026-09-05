@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 113. What doth the tenth commandment require of us?
-
-**Question 113. What doth the tenth commandment require of us?**
 
 Answer. That even the smallest inclination, or thought, contrary to any of God's commands, never rise in our hearts; but that at all times we hate sin with our whole hearts, and delight in all righteousness.
 
-**EXPOSITION**
+## **Exposition**
 
 That this commandment, which has respect to lust, or concupiscence, is one, and not two, is evident—
 

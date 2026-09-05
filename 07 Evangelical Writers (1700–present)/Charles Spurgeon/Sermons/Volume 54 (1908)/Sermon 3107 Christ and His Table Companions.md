@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Christ and His Table Companions
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3107
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when the hour was come, He sat down, and the twelve Apostles with Him." Luke 22:14.
 
@@ -67,7 +64,7 @@ and death wherewith He redeemed you from the wrath to come! All this, and vastly
 
 III. We will draw to a close by asking WHAT FURTHER MAY BE INFERRED FROM THIS SITTING OF
 
-CHRIST WITH HIS DISCIPLES AT THE TABLE?
+## Christ with His Disciples at the Table?
 
 I answer, first, there may be inferred from it, the equality of all the saints. There were here 12 Apostles. Their Apostleship, however, is not concerned in the matter. When the Lord's Supper was celebrated after all the Apostles had gone to Heaven, was there to be any alteration because the Apostles had gone? Not at all. Believers are to do this in remembrance of their Lord until He shall come. There was no command for a change when the first Apostles were all gone from the Church. No, it was still to be the same—bread and wine and the surrounding of the table until the Lord came. I gather, then, the equality of all saints. There is a difference in office, there was a difference in miraculous gift and there are great differences of growth in Grace, but still, in the household of God, all saints, whether Apostles, pastors, teachers, deacons, elders, or private members—being all equal—eat at one table. There is but one bread, there is but one juice of the vine here!
 
@@ -81,7 +78,7 @@ We finish with this word of deep regret—regret that many here cannot understan
 
 May the Holy Spirit so lead you, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE22:7-54.
+## Exposition by C. H. Spurgeon: Luke 22:7-54
 
 Verses 7-13. Then came the day of unleavened bread, when the Passover must be killed. And He sent Peter and John, saying, Go and prepare us the Passover, that we may eat And they said unto Him, Where will You that we prepare? And He said unto them, Behold, when you are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he enters in. And you shall say unto the good man of the house, the Master says unto you, Where is the guest chamber, where I shall eat the Passover with My disciples? And he shall show you a large upper room furnished: there make ready. And they went and found as He had said unto them: and they made ready the Passover The hour of Christ's humiliation was drawing near, but He was still "The Master." He had but to send His servants and His request was at once obeyed—just as He might have asked for more than 12 legions of angels and they would have been immediately placed at His disposal.
 
@@ -112,7 +109,6 @@ Verses 7-13. Then came the day of unleavened bread, when the Passover must be ki
 51\. And Jesus answered and said, Suffer you thus far. And He touched his ear and healed him. There was no lasting mischief done, but, on the contrary, another instance given of the Divine Power of Christ. No other miracle of this kind is mentioned in Scripture—I mean the healing of a wound received by violence, the restoration of a member which had been cut off—and Luke is the only Evangelist who mentions it! It has been thought that because he was a physician and had a quick eye for acts of healing, that he mentions that Christ touched the ear of Malchus and healed him.
 
 52-54. Then Jesus said unto the chief priests, and captains of the Temple, and the elders, which were come to Him, Have you come out as against a thief, with swords and staves? When I was daily with you in the Temple, you stretched forth no hands against Me: but this is your hour, and the power of darkness. Then they took Him and led Him, and brought Him into the high priest's house. And Peter followed afar off
-
 
 ---
 [[Sermon 3106 Freedom Through Christ's Blood|← #3106]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3108 The House of Mourning and The House of Feasting|#3108 →]]

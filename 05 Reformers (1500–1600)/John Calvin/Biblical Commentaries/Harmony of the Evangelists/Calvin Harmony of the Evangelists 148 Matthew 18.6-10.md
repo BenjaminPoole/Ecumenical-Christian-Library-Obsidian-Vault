@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 148. Matthew 18:6-10; Mark 9:42-48; Luke 17:1-2
-
-**Matthew 18:6-10; Mark 9:42-48; Luke 17:1-2**
 
 **6**. But whosoever shall offend one of those little ones who believe in me, it were better for him that a millstone were hanged about his neck, and that he were sunk to the bottom of the sea. **7**. Woe to the world on account of offenses! for offenses must come; but woe to the man by whom the offense cometh! **8**. But if thy hand or thy foot offend thee, cut it off, and cast it from thee; [^1] for it is better for thee to enter lame or maimed into life, than that, having two hands or two feet, thou shouldst be cast into the everlasting fire. **9**. And if thine eye offend thee, pluck it out, and cast it from thee; [^2] for it is better that thou shouldst enter into life having one eye, than that, having two eyes, thou shouldst be cast into hell-fire. **10**. Beware of despising one of these little ones; for I say to you, That their angels always behold the face of my Father who is in heaven.
 

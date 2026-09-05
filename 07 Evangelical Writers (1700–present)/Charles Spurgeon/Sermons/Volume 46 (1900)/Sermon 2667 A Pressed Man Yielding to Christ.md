@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Pressed Man Yielding to Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2667
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus heard that they had cast him out; and when He had found him, He said unto him, Do you believe on the Son of God? He answered and said, Who is He, Lord, that I might believe on Him? And Jesus said unto him, You have both seen Him, and it is He that talks with you. And he said, Lord, I believe. And he worshipped Hun." John 9:35-38.
 
@@ -124,7 +121,6 @@ Next, when you are seeking Christ, ask Christ to reveal Himself to you, for ther
 And, next, when you are confessing your faith, confess it to Christ Himself Say, as this man did, "Lord, I believe." Say to your minister, or to your mother, or to your friends, "I believe," but take care, above all the rest, that you say, "Lord, I believe."
 
 And, lastly, when you are worshipping, worship Christ Himself ' 'He worshipped HIM" and no one else. Take care that your reverence and adoration are not given, in any degree, to the church, or to any person in it, or to any priest, or minister, or anything created or made. Worship God, and God in Christ Jesus. And the Lord bless you, Beloved, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2666 The Sorrowful Man's Question|← #2666]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2668 Communion With Christ—a Baptizing Sermon|#2668 →]]

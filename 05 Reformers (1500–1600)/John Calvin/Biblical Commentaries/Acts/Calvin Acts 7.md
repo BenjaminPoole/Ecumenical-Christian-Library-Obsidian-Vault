@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Acts 7:1-4
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Rejecters Of The Gospel Admonished
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1593
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 17, 1881,.
+*Delivered on Lord's-Day Morning, April 17, 1881*
 
 > "To whom He said, This is the rest with which you may cause the weary to rest; and this is the refreshing: yet they would not hear." Isaiah 28:12.
 
@@ -140,7 +139,6 @@ Down come the great hailstones, dashing everything to shivers—the threats of G
 I have earnestly tried, at this time, in simple language, to set before you the wickedness of refusing the Gospel of rest. May the Spirit of God grant that any here who have, up to now, neglected it may, at once, accept it! Try it, weary heart! Try it, despondent spirit! Try what faith in Jesus can do! Come and trust in Jesus and see if it does not bring peace to your soul. If Jesus fails you, let me know, for I will never preach again if He breaks His promises! He can never cast off or cast away a believing heart! Oh, if there is sweet peace, calm, joyful hope, gladness, strength and life to be had by childlike faith in God's testimony concerning His dear Son, I pray God that you may obtain it at once!
 
 If you feel an objection to the preacher who now addresses you, pray God that he may preach better. And if you have done so and he is still distasteful to you, go and hear somebody who will not be personally objectionable, for it would be a grief of heart to me to stand in the way of even one anxious heart! I fear that you stand in your own light. O Man, act like a man and hear the Gospel candidly. O Self! Will you destroy yourself? O Pride! Lower your crest. O Drunkenness! Quit your cups. O hardened Sinner! God help you to leave your sin! Come and trust Jesus this day. May God enable you to do so by His Holy Spirit, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1592 The Common Salvation|← #1592]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1594 The Candle|#1594 →]]

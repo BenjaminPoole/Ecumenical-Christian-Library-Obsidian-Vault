@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Unfailing Help
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3162
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the King said, If the Lord does not help you, where can I find help for you? From the threshing floor, or from the winepress?" 2 Kings 6:27.
 
@@ -39,7 +36,7 @@ Oh, believe me, if you rely on Baptism and the Lord's Supper, you might as well 
 
 But there are some who will say, "But may we not join the Church of God?" I hope none of you, my brethren, are under the idea that if you are unconverted and join a church, that will help you. Oh, how I have wasted my labor here if I have led any of you to believe that! I charge you, if you are not a friend of Christ, not to come among his friends or declare yourself to be one by a lying profession! It is "a superfluity of naughtiness," for there can be NO EXCUSE FOR A
 
-MAN TO BE SERVING THE DEVIL AND THEN TO MAKE PRETENCE OF BEING A SERVANT OF CHRIST. A
+## Man to Be Serving the Devil and Then to Make Pretence of Being a Servant of Christ. A
 
 man may be damned fast enough without being a hypocrite! What need of that? Join yourselves to God's people when you have joined yourselves to Christ—but not till then.
 
@@ -95,7 +92,7 @@ there any part of the Gospel I leave out? Is there any flaw in my ministry that 
 
 Oh, all of you, what shall it profit you if you gain the world and lose your soul The sun has gone down—let it not rise again until you have sought the Savior! This is all you have to do—to confess your fault into the great Father's bosom and say, "I have sinned against Heaven and before You." And then to stand and look to Jesus bleeding and dying AND TRUST HIM WITH YOUR SOULS. God help you to do this for Jesus' sake. Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON: 2 KINGS 6:1-23.
+## Exposition by C. H. Spurgeon: 2 Kings 6:1-23
 
 Verse 1. And the sons of the Prophets said unto Elisha, Behold now, the place where we dwell with you is too small for us. It seems to have been a habit of the Prophets to gather about them companies of young men whom they instructed in the Holy Scripture and in the truths of Revelation. Many of these young men became Prophets and were the instructors of the people. Elisha, then, was the President of a College for young men who were being trained for the sacred ministry of God. They had grown so numerous that they were cramped in their lodging and they said, "The place is too small for us. Let us go, we pray you, unto Jordan, and take thence every man a beam, and let us make us a fit place there, where we may dwell." They were ready to work to build their own lodging. They do not appear to have gone into debt for it, and to have saddled themselves and the institution for many years afterwards, but they put their own shoulders to the wheel as good men should do when there is any work to be done for the cause of God!
 
@@ -132,7 +129,6 @@ saved himself there, not once nor twice. Therefore the heart of the king of Syri
 23\. And He prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master.Now mark the consequences.
 
 23\. So the bands of Syria came no more into the land of Israel.No, they could not come any more to vex a people who had treated them so generously! And thus the man of God was master of the situation. His noble spirit was put to the front, and God was glorified!
-
 
 ---
 [[Sermon 3161 Positivism|← #3161]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3163 Cumbered With Much Serving|#3163 →]]

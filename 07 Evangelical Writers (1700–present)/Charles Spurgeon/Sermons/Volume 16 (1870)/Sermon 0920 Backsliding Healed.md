@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Backsliding Healed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 920
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 13, 1870,.
+*Delivered on Lord's-Day Morning, March 13, 1870*
 
 > "I will heal their backsliding." Hosea 14:4.
 
@@ -180,7 +179,6 @@ If you would have your backsliding healed, be much in prayer. "Take with you wor
 Lastly, return again by simple faith to God in Christ, remembering that in Him the fatherless find mercy. If you are like an orphan, having none to help or to provide for you, and feel your spiritual destitution, then, in confidence in the abounding Grace of God, return to Him and live. O Brethren, let us all seek to get nearer to Christ! Let us all take the eagle's motto, "Higher, higher, higher." Soar yet beyond. Let us seek to attain what we have not as yet known. And as for the things which remain, let us hold them fast that no man take our crown. "What we have already attained, let us walk by the same rule, let us mind the same thing."
 
 Let us not decline from our first love, but rather, "not as though we had already attained, either were already perfect," let us forget the things which are behind, and press forward to that which is before, looking unto Jesus, the Author and Finisher of our faith. The Lord bless His Church richly, and send His dew upon Israel. And make us all to grow in Divine Grace and the knowledge of our Lord and Savior Jesus Christ. For His name's sake we ask and expect it. Amen.
-
 
 ---
 [[Sermon 0919 The King Feasting in his Garden|← #919]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0921 Nathanael And The Fig Tree|#921 →]]

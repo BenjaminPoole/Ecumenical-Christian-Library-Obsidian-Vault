@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 27
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**MORE THAN MERE WORDS**
+## **More than Mere Words**
 
 > I will give you the sure mercies of David." Acts 13:34
 
@@ -25,7 +24,6 @@ We are sure that the Lord meant His mercy. He did not speak mere words: there is
 We are sure that the Lord will bestow promised mercies on all His covenanted ones. They shall come in due course to all the chosen of the Lord. They are sure to all the seed, from the least of them unto the greatest of them.
 
 We are sure that the Lord will continue His mercies to His own people. He does not give and take. What He has granted us is the token of much more. That which we have not yet received is as sure as that which has already come; therefore, let us wait before the Lord and be still. There is no justifiable reason for the least doubt. God's love, and word, and faithfulness are sure. Many things are questionable, but of the Lord we sing--"For his mercies shall endure ever faithful, ever sure.
-
 
 ---
 [[FCB July 26|← July 26]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 28|July 28 →]]

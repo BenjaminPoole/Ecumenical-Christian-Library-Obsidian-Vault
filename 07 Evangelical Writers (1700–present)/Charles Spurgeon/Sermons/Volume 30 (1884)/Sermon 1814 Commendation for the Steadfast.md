@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Commendation for the Steadfast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1814
@@ -111,8 +110,7 @@ So may God bless you. Amen.
 
 PORTION OF SCRIPURE READ BEFORE SERMON’John 17.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’669, 667, 486.
-
+## Hymns from ‘Our Own Hymn Book’669, 667, 486
 
 ---
 [[Sermon 1813 Jonah's Resolve—or, 'Look Again!'|← #1813]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1815 The Great Birthday and Our Coming of Age|#1815 →]]

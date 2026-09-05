@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # The Strait Gate
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3560
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Strive to enter in at the strait gate; for many, I say unto you, will seek to enter in, and shall not be able." Luke 13:24.
 
 THE precepts of our Lord Jesus Christ are dictated by the soundest wisdom. He has given us Divine Prescriptions for the health of our souls and His Commandments, though clothed with Sovereign Authority, are spoken in such infinite kindness that we may regard them as the advice of a true and faithful Friend. This is not a legal, but a Gospel exhortation, "Strive to enter in at the strait gate." He, Himself, is the only gate, or the door, by which we can find admission, and the way to enter in through Jesus Christ is not by working, but by believing! Then, as to the strife we are urged to carry on, it is an earnest endeavor to steer clear of all the rocks, shoals and quicksands of popular fallacies and deceitful traditions, and to sail in the deep waters with His Covenant for our chart, and His Word for our compass, in simple obedience to His statutes, trusting to Him as our Pilot, whose voice we always hear, though His face we cannot see. The storm signal may well awaken your fears, but the cry of peril had need excite your caution. The mere mention sounds like a menace. "Many shall seek to enter in, and shall not be able." Listen to that warning, lest you be among the, "many" that founder—perhaps you shall be among the few that escape. Listen to what Jesus tells you shall come to pass with the multitude, that it may never come to pass with you as individuals. Mark now—
 
-I. A GATE WHICH IT IS MOST DESIRABLE TO ENTER.
+## I. A Gate Which It Is Most Desirable to Enter
 
 Surely "many" would not seek to enter if they were not convinced of the desirableness of passing through it! The very fact that so many, although they fail, will at least seek to enter, proves that there is a desire, a reason and a motive why men and women should aim to enter.
 
@@ -68,7 +65,6 @@ Reign in eternal silence there!"
 They would gladly pass the gulf—were it fire, they could be glad to pass it! Were it full of torments, many and manifold as a Spanish Inquisition could invent—they would be glad to bear them—could they but hope to cross the gulf. But no, the voice is heard—an angel's voice—"He that is filthy, let him be filthy still; he that is unjust, let him be unjust still." The wax has cooled—you cannot alter the impression. The die is cast—you cannot remold it. The tree has fallen—there it lies.
 
 I wish I could speak now in words that would burn their way right into your inmost hearts. Alas, I cannot. I must, however, just repeat the text again, and leave it with you. "Many shall seek in that dread day to enter, but shall not be able. Oh, enter then, enter! Enter now, while yet the gate stands wide open and mercy bids you come! Make haste to enter while yet the avenging angel lingers, and the angel of mercy stands with outstretched arms and cries, "Whoever will, let him come and take of the water of life freely." May God, the ever-blessed Spirit, without whom no warning can be effectual, and no invitation can be attractive, sweetly compel you to trust Christ tonight! Here is the Gospel in a few words— Jesus suffered the wrath and torment we justly merited. He doubtless bore the penalty of your transgressions if you penitently believe in His Sacrifice. When you trust in Him for pardon, 'tis proof your sins were laid on Him for judgment! You are, therefore, a forgiven man! A pardoned woman! You are saved—saved forever! If you have a simple, child-like trust, you may go home singing for joy of heart, knowing that you have already entered the strait gate! And Grace on earth and glory in Heaven lie before you! May God bless you richly, and may you adore Him gratefully, for His dear name's sake. Amen.
-
 
 ---
 [[Sermon 3559 The Pierced Heart of Jesus|← #3559]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3561 The Drawings of Love|#3561 →]]

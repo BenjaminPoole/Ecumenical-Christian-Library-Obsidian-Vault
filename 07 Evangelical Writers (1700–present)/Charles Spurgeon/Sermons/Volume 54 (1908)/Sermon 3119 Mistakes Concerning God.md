@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Mistakes Concerning God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3119
-
-DELIVERED BY C. H. SPURGEON.
 
 > "You thought that I was altogether like you." Psalm 1:21.
 
@@ -90,7 +87,6 @@ And I believe, Brothers and Sisters, by thinking that God is like ourselves, we 
 When we judge the Lord by what we ourselves are, our belief is like that which prevented the Master from doing many mighty works in His own city of Nazareth! May the Lord be pleased to give us a far higher conception of what He really is, for that will enable us to do much more for Him! It is because of this mistaken notion of ours concerning God that we limit our desires, slacken our endeavors, are satisfied to have everything on the pigmy scale when it might be gigantic. We are content with pence when we might have pounds of Grace. We are satisfied with the very imperfect cultivation of a tiny plot of land when the broad acres of God's bounty lie before us. We win an inch or two of the enemy's territory and we throw up our caps, and cry, "What mighty conquerors we are!" while whole provinces lie unconquered and whole nations remain ignorant of the Gospel! Then we keep on straitening ourselves more and more, contracting our conceptions and our ideas, the older we grow, till the zealous youth gets to be a "prudent" old man, whose "prudence" consists in chilling everybody he meets, carrying wet blankets to cover up everyone who has a little life in him, snuffing everybody's candle and generally managing to snuff all the candles out.
 
 We are, most of us, conscious of this chilling process. I seem to myself to be continually feeling it. I think I am not altogether destitute of earnestness even now, but I wish I could keep at blood heat always, for blood heat is the heat of health, the heat of true life! May God keep us up to that mark and it will help to keep us so if we have true notions of what God can do, and will do—and forever give up thinking that He is like ourselves! May God's blessing rest upon you, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3118 What Had Become of Peter|← #3118]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3120 A View of God's Glory|#3120 →]]

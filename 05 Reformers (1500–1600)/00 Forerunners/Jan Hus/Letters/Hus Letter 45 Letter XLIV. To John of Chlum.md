@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 45. Letter XLIV. To John of Chlum
-
-LETTER XLIV. TO JOHN OF CHLUM
 
 (February 1415)
 

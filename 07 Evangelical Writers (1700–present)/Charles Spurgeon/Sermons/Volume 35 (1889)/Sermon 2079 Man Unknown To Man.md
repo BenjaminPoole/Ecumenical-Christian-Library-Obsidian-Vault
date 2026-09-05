@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Man Unknown To Man
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2079
 
-DELIVERED ON LORD'S DAY MORNING, APRIL 14, 1889,.
+*Delivered on Lord's Day Morning, April 14, 1889*
 
 > "The heart knows his own bitterness. And a stranger does not understand with his joy." Proverbs 14:10.
 
@@ -152,7 +151,6 @@ There is a room in my heart from which I can see Heaven at choice Sabbatical tim
 Go mourning all their days?" May the Comforter come and cheer us this morning with that joy which a stranger cannot know!
 
 If you have never known these joys, I pray you seek them for yourself—each man, each woman. Remember, you must come to God alone, by the exercise of personal faith and personal repentance. For neither in your sorrow, nor in your joy can another man exactly fit with you. Therefore, come alone to the Lord Jesus and come at once. Amen.
-
 
 ---
 [[Sermon 2078 The Believing Thief|← #2078]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2080 The Power of His Resurrection|#2080 →]]

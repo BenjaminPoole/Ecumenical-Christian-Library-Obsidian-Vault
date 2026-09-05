@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule XIV. Vigilant watchfulness over each other’s conversation, attended with mutual admonition in case of disorderly walking, with rendering an account to the church if the party offending be not prevailed with
-
-Rule xiv. Vigilant watchfulness over each other’s conversation, attended with mutual admonition in case of disorderly walking, with rendering an account to the church if the party offending be not prevailed with.
 
 Matt. xviii. 15–17, “If thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church.”
 
@@ -47,7 +44,6 @@ These and the like things being duly weighed, let every brother, with Christian 
 3\. The dreadful judgments which are everywhere threatened to despisers of reproofs, Prov. xxix. 1; and so thankfully accept just admonition from the meanest in the congregation.
 
 For the last, or repairing unto the church in case of not prevailing by private admonition, our Saviour hath so plainly laid down both the manner and end of proceeding in Matt. xviii. 15–17, that it needeth no explanation. Only I shall observe, that by “church” there, verse 17, cannot be understood the elders of the church alone, but rather the whole congregation; for if the offended brother should take with him two or three of the elders unto the offender, as he may, then were they the church, and the church should be told of the offence before the reproof hath been managed by two or three; which is contrary to the rule.
-
 
 ---
 [[ECFC 25 Rule XIII. If any be in distress, persecution, or affliction, the whole church|← Rule XIII. If any be in distress, persecution, or affliction, the whole church is to be humbled, and to be earnest in prayer in their behalf]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 27 Rule XV. Exemplary walking in all holiness and godliness of conversation, to|Rule XV. Exemplary walking in all holiness and godliness of conversation, to the glory of the gospel, edification of the church, and conviction of them which are without →]]

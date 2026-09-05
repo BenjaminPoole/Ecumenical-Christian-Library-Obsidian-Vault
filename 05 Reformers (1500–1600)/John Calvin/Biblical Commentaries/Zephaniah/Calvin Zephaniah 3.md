@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Zephaniah 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Lecture One Hundred And Twenty-fourth
 

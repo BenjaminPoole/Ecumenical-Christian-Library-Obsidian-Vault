@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Jesus Admired In Them That Believe
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1477
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 1, 1879,.
+*Delivered on Lord's-Day Morning, June 1, 1879*
 
 > "When He shall come to be glorified in His saints, and to be admired in all them that believe (because our testimony among you was believed) in that day." 2 Thessalonians 1:10.
 
@@ -146,7 +145,6 @@ Beloved, will it not be a delightful thing throughout eternity to contemplate th
 I think you will admire His crown all the more because, as you see certain stones sparkling in it, you will say, "Blessed be His name forever! He helped me to dive into the sea and find that pearl for Him and now it adorns His sacred brow!" Now, get at it, all of you! You that are doing nothing for Jesus, be ashamed of yourselves and ask Him to work in you that you may begin to work for Him! And unto God shall be the Glory, forever and ever. Amen and amen!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Thessalonians 1:11. HYMNS FROM "OUR OWN HYMN BOOK"—92, 873, 861.
-
 
 ---
 [[Sermon 1476 Jesus, the Judge|← #1476]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1478 Greater Things Yet Who Shall See Them|#1478 →]]

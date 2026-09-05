@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Sad Wonder
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 935
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 12, 1870,.
+*Delivered on Lord's-Day Morning, June 12, 1870*
 
 > "And He marvelled because of their unbelief." Mark 6:6.
 
@@ -164,7 +163,6 @@ My dear Friends, some of you who have been sitting here for years and yet do not
 You are a marvel to the angels who would have rejoiced over you if you had returned to your Father, and who wonder that you stand at the Cross's foot from Sunday to Sunday and yet doubt the power of Him who bled on it! You are marvels to the Lord Himself. One of these days, unless you repent, you will be a wonder to yourselves, for this text will come true to you if God prevents it not. "Behold, you despisers, and wonder, and perish." But I hope better things of you, even things which accompany salvation, though I thus speak.
 
 Believe in the Lord Jesus Christ, and you shall be saved. Before the Redeemer was taken up and ascended to His Throne, He left this message to us, His disciples, "Go you into all the world and preach the Gospel to every creature. He that believes and is baptized shall be saved. But he that believes not shall be damned." Believe and be baptized, and God grant you His salvation for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0934 Bands Of Love|← #934]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0936 A Blessed Wonder|#936 →]]

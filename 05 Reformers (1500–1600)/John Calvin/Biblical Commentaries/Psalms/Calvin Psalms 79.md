@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 79
-
-**PSALM 79**
 
 This is a complaint and lamentation of the Church when severely afflicted; in which, while the faithful bewail their miserable and, in one sense, undeserved calamities, and accuse their enemies of cruelty, they acknowledge that, in another sense, they have been justly chastised, and humbly betake themselves to the divine mercy. Their confidence of obtaining this, they rest chiefly upon the fact, that they saw God’s dishonor conjoined with their calamities, inasmuch as the ungodly, in oppressing the Church, blasphemed his sacred name.
 

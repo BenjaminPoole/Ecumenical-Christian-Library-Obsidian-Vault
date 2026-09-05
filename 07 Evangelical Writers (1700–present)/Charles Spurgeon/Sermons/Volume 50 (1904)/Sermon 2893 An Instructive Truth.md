@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # An Instructive Truth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2893
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Lord, I know that the way ofman is not in himself: it is not in main who walks to direct his steps." Jeremiah 10:23.
 
@@ -87,7 +84,7 @@ I heard one who I thought was a Christian, say, "I cannot think that God was rig
 
 My last observation is—Pray about everything. Remember what Paul wrote to the Philippians, "Be careful for nothing; but in everything by prayer and supplication with thanksgiving, let your requests be made known unto God." Pray about everything! I make no exception to this. Pray about waking in the morning and pray about falling asleep at night. Pray about any great event in your life, but pray equally about what you call the minor events. Pray as Jacob did when he crossed the brook Jabbok, but do not forget to pray when there is no angry Esau near and no special danger to fear. The simplest thing that is not prayed over may have more evil in it than what appears to be the direst evil when once it has been brought to God in prayer. I pray that all of you who love the Lord may commit yourselves afresh to Christ this very hour. I wish to do so myself, saying, "My Master, here I am. Take me and do as You will with me. Use me for Your Glory in any way that You please. Deprive me of every comfort if so I shall the more be able to honor You. Let my choicest treasures be surrendered if Your Sovereign Will shall so ordain." Let every child of God make a complete surrender, here and now, and ask for Grace to stand to it. Your greatest sorrow will come when you begin to be untrue to your full surrender to the Lord—so may you never prove untrue to it!
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 10.
+## Exposition by C. H. Spurgeon: Jeremiah 10
 
 Verses 1, 2. Hear you the word which the Lord speaks unto you, O house of Israel: Thus says the LORD, Learn not the way of the heathen, and be not dismayed at the signs of Heaven; for the heathen are dismayed at them. Among the heathen, if certain stars were in conjunction, it was considered unlucky. And certain days of the week were also regarded as unlucky, just as to this day there are people who think that it is very unfortunate to commence anything on a Friday. There are a great many foolish superstitions floating about this silly world, but you Christian people should never allow
 
@@ -122,7 +119,6 @@ miah's lamentation over the people whom he looks upon as already in captivity. H
 22-24. And a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons. O LORD, I know that the way of man is not in himself: it is not in man who walks to direct his steps. O LORD, correct me, but with judgment; not in Your anger, lest You bring me to nothing. What a suitable prayer this is for a sick man, for a tried Believer, for the child of God in deep despondency of soul! I scarcely know any better words that any of us could use. The suppliant does not ask to go unchastised, but he says, "O Lord, correct me, but with judgment: not in Your anger; lest You bring me to nothing."
 
 25\. Pour out Your fury upon the heathen that know You not, and upon the families that call not on Your name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate. So he asks God to, instead of smiting His own children, to smite His enemies. And knowing what we do about the Babylonians, we do not wonder that Jeremiah put up such a prayer as that.
-
 
 ---
 [[Sermon 2892 The Free-agency of Christ|← #2892]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2894 The Sinner's Only Alternative|#2894 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # A Warning to Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3466
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let no man beguile you of your reward." Colossians 2:18.
 
@@ -69,7 +66,7 @@ that you will never believe a Doctrine simply because I utter it! Unless I can c
 
 But now a third meaning belongs to the text. A happy circumstance it is, this dark night, that the preacher does not need to use his manuscript, for if he did, his sermon would certainly come to an end right now. But here is this point, "Let no man beguile you of your reward." It may mean this—
 
-III. LET NO MAN ROB YOU OF THE PRESENT REWARD WHICH YOU HAVE IN BEING A CHRISTIAN.
+## III. Let No Man Rob You of the Present Reward Which You Have in Being a Christian
 
 Let no man deprive you of the present comfort which your faith should bring to you. Let me, just for a few minutes, have your attention while I speak upon this. Dear Brothers and Sisters, you and I, if we are believers in Christ, are this day completely pardoned. There is no sin in God's book against us. We are wholly and completely justified! The righteousness of Jesus Christ covers us from head to foot and we stand before God as if we had never sinned! Now let no man rob you of this reward. Do not be tempted by anything that is said to doubt the completeness of a believer in Christ. Hold this, and as you hold it, enjoy it! Do not let the man whom you have most to fear, beguile you. Even though conscience should upbraid you and you should have many grave reasons for doubt, as you imagine, yet if you believe in Jesus, stand to it—"There is, therefore, now no condemnation to me, for I am in Christ Jesus! He that believes in Him is not condemned! I have believed and I am not condemned. Neither will He permit condemnation to be thundered against me, for Christ has borne my sin for me and I am clear in Him." Let no man beguile you of the reward of feeling that you are complete in Christ!
 
@@ -79,9 +76,9 @@ There is a third blessed Truth, that not only are you pardoned and safe in Chris
 
 The Lord grant that you may feel this within and let no man beguile you of your reward as long as you live! May you live and die in the enjoyment of it, Beloved, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS 4; 6:1-15.
+## Exposition by C. H. Spurgeon: Ephesians 4; 6:1-15
 
-EPHESIANS 4.
+## Ephesians 4
 
 Verses 1, 2. I therefore, the prisoner of the Lord, beseech you that you walk worthy of the vocation wherewith you are called. With all lowliness and meekness, with long-suffering, forbearing one another in love. It is a loving call. Walk lovingly. It is the condescension of God that called you. Be, therefore, lowly. It is God in tenderness who has loved you. Be, therefore, meek, "forbearing one another in love."
 
@@ -117,7 +114,7 @@ Verses 1, 2. I therefore, the prisoner of the Lord, beseech you that you walk wo
 
 32\. And be you kind, one to another, tenderhearted, forgiving one another, even as God for Christ's sake has forgiven you.
 
-EPHESIANS 6.
+## Ephesians 6
 
 Verse 1. Children, obey your parents in the Lord: for this is right. Fitting by nature and pleasing in the sight of God.
 
@@ -138,7 +135,6 @@ Verse 1. Children, obey your parents in the Lord: for this is right. Fitting by 
 14\. And having on the breastplate of righteousness.A grand protection when God has given you to be holy, and when the principle which covers your heart and shields your members is righteousness!
 
 15\. And your feet shod with the preparation of the Gospel of peace. Peace in your own heart, peace with God, peace with man. Peacefulness and peace. No shoes like these! A man that has a merry heart makes many a mile fly beneath him, but a heavy heart is a slow traveler. "Your feet shod with the preparation of the Gospel of peace."
-
 
 ---
 [[Sermon 3465 The Suffering Christ Satisfied|← #3465]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3467 A New Creation|#3467 →]]

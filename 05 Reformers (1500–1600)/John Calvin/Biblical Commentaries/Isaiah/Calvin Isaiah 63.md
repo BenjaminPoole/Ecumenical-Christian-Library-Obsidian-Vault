@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 63
 
-**CHAPTER 63.**
+***Chapter 63.***
 
 ## Isaiah 63:1-19
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Sweet Savor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 688
 
-DELIVERED ON SUNDAY MORNING, APRIL 29, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 29, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "I will accept you with your sweet savor." Ezekiel 20:41.
 
@@ -154,7 +153,6 @@ If your life should be as pure as the crystal river that springs from beneath th
 And oh, dear Friends, bless the Lord Jesus day by day that your works are made accepted with yourself through Him! When you have done anything that is right, and good, and pure, bring it and lay it at His feet! Come here, you that toil with holy industry, and bring your sheaves to store in the garner of your Boaz whose fields you have reaped. Come here, you that have found jewels diving into the depths of human sin to bring them up, and lay these pearls at the feet of Solomon, who is master of the seas into which you have dived. "The earth is the Lord's and the fullness thereof. The world and they that dwell therein." And especially are we, the blood-besprinkled ones, the sacramental host of God's elect ordained as priests to offer sacrifices acceptable unto God.
 
 Oh, let us praise the love that bought us, the blood that redeemed us, the power that sustains us, the Grace that smiles upon us, the righteousness that covers us, the arm which supports us and the whole Redeemer who is able and willing, and before long will receive us to Himself and to our great reward! May we all look to Jesus and to His merit, and then go forth, for the love we bear His name, to show Him afresh in our own persons to the sons of men! The Lord accept this morning's offering for His name's sake. Amen.
-
 
 ---
 [[Sermon 0687 Messengers Wanted|← #687]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0689 Temptations On The Pinnacle|#689 →]]

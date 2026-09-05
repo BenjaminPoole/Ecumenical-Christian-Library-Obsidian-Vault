@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 60
-
-**PSALM 60**
 
 David, who was now settled upon the throne, and had gained several signal victories, tending to confirm him in the kingdom, in this Psalm exalts the goodness of God, that he might at once express his gratitude, and by conciliating the favor of such as still stood out against his interests, unite the community, which had been rent into factions. Having first adverted to the clear indications of the Divine favor, which proved that God had chosen him to be king, he more particularly calls the attention of the faithful to the oracle itself, in order to convince them that they could only comply with the mind of God, by yielding their consent and approbation to the anointing which he had received from Samuel. Prayers also are offered up throughout the psalm, urging God to perfect what he had begun.
 

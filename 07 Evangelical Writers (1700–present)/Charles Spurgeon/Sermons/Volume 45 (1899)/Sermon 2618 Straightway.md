@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "Straightway"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2618
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They straightway left their nets, and followed Him." Matthew 4:20.
 
@@ -29,7 +26,7 @@ I am going to use, in two ways, one word in my text—"straightway." First, I su
 
 I. First, then, let this word, "straightway," be THE MOTTO OF EVERY DISCIPLE OF THE LORD JESUS
 
-CHRIST.
+## Christ
 
 When I preached, many years ago, in the cathedral at Geneva, after the service was ended, the Brothers presented me with a large bronze commemorative medal of John Calvin, on which is this passage, "He endured, as seeing Him who is invisible," which was a most suitable motto text for him. Upon the covers of his works are these words, which are also truly descriptive of the man, "Prompte et sincere in opere Domini"—"Prompt and sincere in the work of the Lord." I was pleased with both those mottos and my prayer, then, was, and still is, that they may both be mine as well as Calvin's. I pray that I may endure, as seeing Him who is invisible, and that I may also live to earn that other commendation, "prompt and sincere in the work of the Lord." Sincere, I trust we all are, who love the Savior, but we are not all as prompt as we are sincere! You know, in business, people like a man of prompt payments upon whom they can always depend. We also like persons to be prompt in carrying out their promises, but, oh, to be prompt in the work of the Lord, so as to not only do the right thing, but to do it at the right time—and that right time almost always is the time suggested by my text, "straightway." "Whatever your hand finds to do, do it with all your might," and do it at once. Leave it not to lie by among the lumber of good intentions, but if you are prompted to do it, set to work and do it immediately!
 
@@ -85,7 +82,7 @@ Further, did God lose any time before He saved you when you cried to Him? Does H
 
 II. Now I ask the prayers of all Believers while, during the rest of my discourse, I try to speak to those who are "out of the way." In this large congregation there must be many who are not saved. It is idle to suppose that we are, all of us, the children of God and the servants of Christ, for we are not. There are some here who are not saved—but among them there are, I hope, some who wish to be saved. Well, if you really desire to be Christians. If the Holy Spirit has made you start seeking the Savior, I ask you to put this word into your bosom and bear it home with you, "straightway," for IT IS
 
-A MOST SUITABLE MOTTO FOR ALL SEEKERS.
+## A Most Suitable Motto for All Seekers
 
 Are you seeking the Lord? Again, I pray you, hear the Gospel "straightway." The Gospel is not preached everywhere. Some go to certain places of worship because the music is admirable. Others because the preacher is clever. Some because it is considered "respectable" to go to such a place. I charge you, if you have not found Christ, care for nothing but finding Him! And where will you find Him except where He is fully and faithfully preached? If He is the head and front of the minister's discourses, then go there—not where they preach the "modern gospel," which would not save a mouse—but where Christ on the Cross is lifted high as the one hope for the salvation of sinners! Go there, go at once, and make a habit of going where Christ Crucified is constantly proclaimed! Remember how the Lord gave the invitation to the heavenly feast even by the mouth of the Prophet Isaiah. "Ho, everyone that thirsts, come you to the waters, and he that has no money; come you, buy, and eat; yes, come, buy wine and milk without money and without price. Why do you spend money for that which is not bread? And you labor for that which satisfies not? Hearken diligently unto Me, and eat you that which is good, and let your soul delight itself in fatness. Incline your ear and come unto Me: hear, and your soul shall live; and I will make an Everlasting Covenant with you, even the sure mercies of David."
 
@@ -113,7 +110,7 @@ Have you never noticed, when you have been collecting subscriptions, if you go t
 
 God bless you, dear Friends! May we all meet in Heaven, through Jesus Christ our Lord! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW25:1-13.
+## Exposition by C. H. Spurgeon: Matthew 25:1-13
 
 Verses 1, 2. Then shall the Kingdom of Heaven be likened unto ten virgins which took their lamps, and went forth to meet the bridegroom. And five of them were wise, and five were foolish. What a division this makes in the visible Church of God! Let us hope that we are not to gather from this that as many as half the professors of Christianity at any time are like these foolish virgins! Yet our Lord would not have mentioned so high a proportion if there were not a very large mixture of foolish with the wise—"Five of them were wise, and five were foolish."
 
@@ -142,7 +139,6 @@ Verses 1, 2. Then shall the Kingdom of Heaven be likened unto ten virgins which 
 12\. But he answered and said, Verily I say unto you, I know you not' 'I never knew you," says Christ in another place, and this knowledge of His is always bound up with affection. He loves no heart that He knows not in this sense. Those whom He knows, He loves. Will He ever say to me or to you, dear Friend, "I know you not"? God grant that He never may have cause to do so!
 
 13\. Watch therefore, for you know neither the day nor the hour wherein the Son ofMan comes
-
 
 ---
 [[Sermon 2617 Shining Christians|← #2617]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2619 The Captain of Our Salvation|#2619 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 43
 
-**CHAPTER 43**
+***Chapter 43***
 
 ## Isaiah 43:1-28
 

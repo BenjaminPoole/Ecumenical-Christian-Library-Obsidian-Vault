@@ -9,12 +9,11 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface
 
-**THE PREFACE TO THE PROPHET ISAIAH**
+***The Preface to the Prophet Isaiah***
 
-**BY JOHN CALVIN**
+## **By John Calvin**
 
 It is customary to make a great number of statements and dissertations about the office of the Prophets. But, in my opinion, the shortest way of treating this subject is to trace the Prophets to the Law, from which they derived their doctrine, like streams from a fountain; for they placed it before them as their rule, so that they may be justly held and declared to be its interpreters, who utter nothing but what is connected with the Law. Now, the Law consists chiefly of three parts: first, the doctrine of life; secondly, threatenings and promises; thirdly, the covenant of grace, which, being founded on Christ, contains within itself all the special promises. As to ceremonies, they were religious exercises which strengthened the attachment of the people to the worship of God and to godliness, and consequently were added to the First Table. The Prophets, therefore, enter more largely into the illustration of doctrine, and explain more fully what is briefly stated in the Two Tables, and lay down what the Lord chiefly requires from us. Next, the threatenings and promises, which Moses had proclaimed in general terms, are applied by them to their own time and minutely described. Lastly, they express more clearly what Moses says more obscurely about Christ and his grace, and bring forward more copious and more abundant proofs of the free covenant.
 

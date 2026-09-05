@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Binding Up Broken Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3104
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has sent Me to bind up the brokenhearted." Isaiah 61:1.
 
@@ -53,7 +50,7 @@ The Lord has also sent One who will not be discouraged or get irritated in His w
 
 III. This fact brings me to the third reflection from the text which is that THIS SUITABLE HELPER IS
 
-COMMISSIONED BY GOD, HIMSELF, TO "BIND UP THE BROKENHEARTED."
+## Commissioned by God, Himself, to "Bind up the Brokenhearted."
 
 He is not sent to tell you how your heart got broken and to scold you about it, l ike the schoolmaster who saw the boy drowning and lectured him upon his imprudence in getting out of his depth. There are many who act like that. If a man is very poor, they say, "Ah, you always were extravagant." Or, "You should not have gone into that speculation. You should not have put your hand to that bill to oblige your friend—you must now pay for your folly." There are many who are quite able to tell you that you ought not to have fallen into the ditch, but I think that their homilies had better be saved up till we have helped you to get out of the ditch! The Apostle James tells us that God "gives to all men liberally, and upbraids not," and it is a blessing for the brokenhearted that Jesus heals them freely and does not upbraid them for their sin and folly!
 
@@ -83,7 +80,7 @@ And you, poor fallen woman, wherever you may be, though nobody gives you a good 
 
 Only believe in Him, the Son of Man, your Brother and yet the Son of the Highest. Fall at His feet, for they were pierced for you! Look up to His almighty hands, for they were once nailed to the Cross for you! Bring your poor broken heart to the heart that was once pierced by the soldier's spear and find sweetest rest in Jesus! I know what despair means. I knew something of its bitterness in my early days, when I was under conviction of sin, but since the day when I saw the star of Bethlehem amidst the black darkness and tempest of my soul, and especially since I looked to the Christ of Calvary, all has been well with me! So I say to you poor waifs and strays upon the dark and stormy sea of life, look up, for there shines "the bright and morning Star." "This is a faithful saying and worthy of all acceptation, that Christ Jesus came into the world to save sinners," even the very chief of them! Look to Him, poor storm-tossed mariner, and He will guide you safely to the Port of Peace. God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EZEKIEL 37.
+## Exposition by C. H. Spurgeon: Ezekiel 37
 
 Verse 1. The hand of the LORD was upon me, and carried me out in the Spirit of the LORD. God's servants learn nothing until they have an experience similar to that of Ezekiel. They must be led by the Spirit of the Lord and they must have their eyes and mouths opened by Him—and then they can both see the vision and tell the vision to others.
 
@@ -146,7 +143,6 @@ promise was, "They shall be My people, and I will be their God." And here Divine
 28\. And the heathen shall know that I the LORD do sanctify Israel, when My sanctuary shall be in the midst of them forevermore.
 
 : yes, I will be their God, and they shall be My people. In the 23r verse, the Lord's
-
 
 ---
 [[Sermon 3103 A Pastoral Visit|← #3103]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3105 The Search after Happiness|#3105 →]]

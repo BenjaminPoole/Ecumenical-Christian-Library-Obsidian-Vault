@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 1. Introduction (Workman and Pope)
 
 The Leonard Library
@@ -20,7 +19,7 @@ Wptlillt College
 
 Shelf No. Register No
 
-LETTERS OF
+## Letters Of
 
 JOHN HUS. WITH INTRODUCTIONS AND EXPLANATORY NOTES by Herbert B. Workman, M.A.
 
@@ -28,7 +27,7 @@ Principal of Westminster Training College, Author of "The Age of Wyclif " and "T
 
 and R. Martin Pope, M.A.
 
-LONDON: HODDER AND STOUGHTON, 27 PATERNOSTER ROW 1904
+## London: Hodder and Stoughton, 27 Paternoster Row 1904
 
 ' Veritas semper vincit, cum hcec sit ipsius proprietor et natura, ut, QUO magis obscuratur, eo magis illuccscit, etquo magis deprimitur, eo magis elevatur"
 
@@ -84,13 +83,13 @@ PREFACE xi exile (Part III.). The reader approaching the study of Hus for the fi
 
 WESTMINSTER, November 1903.
 
-CONTEJNTS
+## Contejnts
 
-INTRODUCTION
+## Introduction
 
 LUTHER'S DISCOVERY or Hus ; EDITIONS OP THE Letters ; THE VALUE OF THE Lettert ; THE JUDGMENT OF CBEIGHTON . . 1-4
 
-LETTERS WRITTEN BEFORE THE DEATH OF ARCHBISHOP ZBINEK
+## Letters Written Before the Death of Archbishop Zbinek
 
 EARLY LIFE OF Hus; CAREER AT THE UNIVERSITY; PREACHER AT THE BETHLEHEM ; THE NEW NATIONALISM ; INFLUENCE OF WYOLIF ; THE FORTY-FIVE ARTICLES ; REALISTS AND NOMINALISTS; Hus is DRIFTING; Hus AND ZBINEK; EARLY FRIENDSHIP . . 5-12
 

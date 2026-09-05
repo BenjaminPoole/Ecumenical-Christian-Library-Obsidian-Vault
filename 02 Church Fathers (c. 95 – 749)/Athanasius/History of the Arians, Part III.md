@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part III
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 15. Restoration of the Catholics on the Council of Sardica
 

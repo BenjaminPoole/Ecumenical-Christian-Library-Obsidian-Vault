@@ -11,16 +11,13 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 33. Letter XXXII. To the People of Prague (1414)
-
-LETTER XXXII. TO THE PEOPLE OF PRAGUE (1414)
 
 Stand in the ways of God ; Attend the preaching ; The value of penitence 137-8
 
-PART IV
+## Part IV
 
-LETTERS WRITTEN ON THE JOURNEY TO CONSTANCE
+## Letters Written on the Journey to Constance
 
 SIGISMUND SUMMONS A COUNCIL; SENDS FOB Hus; His ESCORT; Hus PREPARES TO OBEY ; Hus SENDS A NOTICE TO THE SYNOD OF HIS INTENTIONS ; ALSO TO THE SUPREME COURT ; PROCURES A CERTIFICATE OF ORTHODOXY FROM THE BISHOP OF NAZARETH 139-43
 

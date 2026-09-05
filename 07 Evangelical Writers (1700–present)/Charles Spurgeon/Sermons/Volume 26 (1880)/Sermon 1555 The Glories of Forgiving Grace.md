@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Glories of Forgiving Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1555
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 29, 1880,.
+*Delivered on Lord's-Day Morning, August 29, 1880*
 
 > "In whom we have redemption through His blood, the forgiveness of sins, according to the riches of His Grace." Ephesians 1:7.
 
@@ -140,7 +139,6 @@ Now, be with God like a child at home. Do not act towards Him as if He still fro
 "Forgiveness according to the riches of His Grace" is yours by faith, yours at this moment and you may know it. You that have believed in Christ ought to know that you are accepted in Christ, for you are so accepted and it is a pity not to have the joy of it. I want you to feel the love which rises out of pardoned sin! You must love Him who has removed all your iniquities. I want you to feel the zeal which finds fuel in the forgiveness of sin. Bring your alabaster box and pour the ointment upon His head who has forgiven you so freely. There are no workers like pardoned men and women! There are no givers like pardoned men and women! There are no lovers like pardoned men and women! There are no singers like pardoned men and women! There are no saints before the Throne of God, no courtiers at the right hand of the eternal Sovereign like those who have washed their robes and made them white in the blood of the Lamb!
 
 Come, then, you guilty, and receive forgiveness in Christ! Come, you vilest of the vile, the door is set open for you and a loving heart invites you through these lips! I am full of hope that you will come. You must come. Love will constrain you to believe in my Lord. Oh, may the Holy Spirit compel you, now, to come to the Savior and to be cleansed from all sin! When you have obtained mercy hasten to tell others of the boundless mercy of the God of Love and of the riches of His Grace displayed in forgiving you all your trespasses! God bless you for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1554 Redemption By Price|← #1554]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1556 The Waterpots at Cana|#1556 →]]

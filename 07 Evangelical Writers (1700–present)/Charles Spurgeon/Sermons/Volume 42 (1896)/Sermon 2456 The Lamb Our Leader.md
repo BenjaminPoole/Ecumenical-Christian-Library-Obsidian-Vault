@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Lamb Our Leader
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2456
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These are they which follow the Lamb wherever He goes." Revelation 14:4.
 
@@ -93,7 +90,7 @@ And if you do this, you must be like He is. Christ and His followers must be of 
 
 Lastly, remember that Jesus came to the Communion Table and His followers should be like He in this respect, also. If there is any child of God who has forgotten this Truth up to now, let him no longer forsake the assembling of himself with God's people in the keeping of this sacred feast. God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 14.
+## Exposition by C. H. Spurgeon: Revelation 14
 
 The Church of God had undergone a very great trial. There had arisen a cruel and wicked persecuting system, described by John in his vision as a beast—a terrible dragon, of which we read that "it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations." This was bad enough, but afterwards there arose another system of evil which was even more dangerous, because it was an imitation of the Truth of God. Another beast came up out of the earth, having two horns like a lamb, yet he spoke as a dragon; and of him, John writes, "He causes all, both small and great, rich and poor, free and bond, to receive a mark on their right hand, or on their foreheads." I will not go into the symbolic meaning of these two beasts—it is sufficient to observe that they had very terrible power and one might have thought that under their successive attacks the Church of God would have been destroyed. Yet note how this chapter begins.
 
@@ -132,7 +129,6 @@ Lamb"!
 19\. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God. Shall any of us ever be cast into the great winepress of the wrath of god? We shall, if we continue growing upon the evil vine and are not grafted into Christ, the true and living Vine.
 
 20\. And the winepress was trodden outside the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. By which striking symbol the Apostle describes the greatness and the terror of the overthrow which must happen to the ungodly when once God begins to deal with them in judgement! Oh, that the abounding mercy of God would give us a place in His great harvest and not leave us to be gathered in the vintage of His wrath, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2455 A Cure for a Weak Heart|← #2455]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2457 Job's Resignation|#2457 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # How to Become Full of Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3272
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And these things write we unto you that your joy may be full." 1 John 1:4.
 
@@ -129,7 +126,7 @@ May He accept me! May He accept you! And then in Him our joy shall be full!
 
 The Lord bless you evermore! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14:15-31.
+## Exposition by C. H. Spurgeon: John 14:15-31
 
 Verse 15. If you love Me, keep My commandments. We cannot expect the Holy Spirit to dwell with us unless we are obedient to the commands of Christ. Our Savior here tells us much about the Spirit of Truth, but He begins with this test of our love to Him, "If you love Me, keep My commandments."
 
@@ -162,7 +159,6 @@ Verse 15. If you love Me, keep My commandments. We cannot expect the Holy Spirit
 30\. Hereafter I will not talk much with you, for the Prince of this world comes, and has nothing in Me. He would have very few words for He was going to the bloody sweat and scourging and death—His words might well be few, for His actions would speak more loudly than words!
 
 31\. But that the world may know that I love the Father and as the Father gave Me commandment, even so I do. Arise, Let us go from here. And they left the supper table to go to the garden, the garden of His agony! Let us be willing to go wherever God calls us.
-
 
 ---
 [[Sermon 3271 God, the Children's Teacher|← #3271]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3273 A Sermon to Ministers and Other Tried Believers|#3273 →]]

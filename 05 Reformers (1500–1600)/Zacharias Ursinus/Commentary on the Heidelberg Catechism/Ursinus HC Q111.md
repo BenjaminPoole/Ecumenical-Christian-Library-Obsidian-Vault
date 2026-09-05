@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 111. But what doth God require in this command?
-
-**Question 111. But what doth God require in this command?**
 
 Answer. That I promote the advantage of my neighbor in every instance I can or may, and deal with him as I desire to be dealt with by others; further ALSO, that I faithfully labor, so that I may be able to relieve the needy.
 
-**EXPOSITION**
+## **Exposition**
 
 This commandment sanctions and authorises a distinction in property or possessions. The end or design of this commandment is, the preservation of the property or possessions which God has given to every one for the support of life: for if it is not lawful or becoming for us to steal, it is necessary that every man should possess that which lawfully belongs to him. God, therefore, in this commandment, forbids all frauds, together with all the cunning devices and arts by which the goods and possessions of our neighbor are injured, diminished or confounded so as to lose his right in them, or to make it doubtful. In forbidding these things, God at the same time enjoins all those virtues which contribute to the preservation of our neigbor's goods and possessions. Thou shalt not steal, that is, thou shalt not desire, or attempt to take to thyself thy neighbor's goods by fraud. Therefore, thou shalt defend, preserve and increase them, and give unto thy neighbor what belongs to him. God calls the things that are forbiddeit theft, in order that he might comprehend and condemn under this, as being the grossest kind of fraud, all other sins of a kindred nature, with their antecedents and consequents.
 
@@ -56,7 +53,7 @@ Obj. 4. All things belong to Christ. Therefore all things belong to Christians. 
 
 Obj. 5. Friends have things in common. Ans. Friends have things in common, not as it respects the ownership and possession of property, but only in their use and enjoyment, according to just laws; or they have them in common as touching the use and duties of propriety, advantage and necessity, according to sound reason: for we ought to desire those things from our friends, which we desire them to ask from us. All things, however, are not common among friends as touching their possession and right, because every one has a distinct possession and right to his own goods. This possession of goods or distinction of rights is recognized and sanctioned by this commandment, as we have already remarked; for if we may not steal, it is necessary that we should possess what properly belongs to us, and that for these reasons: 1. That we may honestly maintain and support ourselves and those who are depending upon us. 2. That we may have something to contribute towards the preservation of the church. 3. That we may assist in upholding the interests of the state according to our ability. 4. That we may be able to confer benefits upon our friends, and contribute to the relief of the poor and needy.
 
-FORTY-THIRD LORD'S DAY
+## Forty-Third Lord's Day
 
 ---
 [[Ursinus HC Q110|← Question 110. What doth God forbid in the ei]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q112|Question 112. What is required in the ninth  →]]

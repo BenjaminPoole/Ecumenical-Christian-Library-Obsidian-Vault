@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 14. Chapter XII
 
-CHRIST THE TRUE ROMAN PONTIFF UPON WHOM SALVATION DEPENDS
+*Christ the True Roman Pontiff upon Whom Salvation Depends*
 
 To the honor of our Lord Jesus Christ, which honor and also Christ the aforesaid doctors nowhere mention in their writing, this conclusion is proved, namely, "to be subject to the Roman pontiff is necessary for salvation for every human being." 1 From this it is clear, that no one can be saved unless he is meritoriously subject to Jesus Christ. But Christ is the Roman pontiff, just as he is the head of the universal church and every particular church. Therefore the conclusion is a true one. The consequence is clear from the major premise. And the minor premise is clear from the things said above and from what is said in I Peter 2 : 25, "For ye were sometime going astray like sheep but are now returned unto the shepherd and bishop of your souls," and also from Heb. 7 : 22: "By so much also hath Jesus become the surety of a better covenant and they indeed have been made free, many in number, according to the law because that by death they are hindered from continuing. But this man, because he continueth forever, hath his priesthood unchangeable, wherefore also he is able to save to the uttermost, drawing near through himself 2 to the Lord and always living to intercede for us. For such a high priest became us holy, guileless, undefiled, separated from sinners and made higher than the heavens, who needeth not daily like those
 

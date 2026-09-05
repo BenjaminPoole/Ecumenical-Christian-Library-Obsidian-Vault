@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Five Divine Declarations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2793
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Surely, shall one say, in the LORD I have righteousness and strength: even to Him shall men come; and all that are incensed against Him shall be ashamed. In the LORD all the seed of Israel shall be justified, and shall glory." Isaiah 45:24,26.
 
@@ -150,7 +147,6 @@ And will we not glory in Him alone when we enter those pearly gates above? What 
 "Then loudest of the crowd I'll sing, While Heaven's resounding mansions ring With shouts of Sovereign Grace."
 
 May every soul now here, be thereto do it, for Jesus sake! Amen.
-
 
 ---
 [[Sermon 2792 A Psalmist's Question and Answer|← #2792]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2794 A Refreshing Canticle|#2794 →]]

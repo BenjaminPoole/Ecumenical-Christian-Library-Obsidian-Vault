@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # A Discourse to the Despairing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2379
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now when Jacob saw that there was corn in Egypt, Jacob said to his sons, Why do you look, one upon another? And he said, Behold, I have heard that there is corn in Egypt: get down there, and buy for us there; that we may live, and not die." Genesis 42:1,2.
 
@@ -119,7 +116,7 @@ The Holy Spirit's message is, "Today, if you will hear His voice, harden not you
 
 longer, one upon another, but up and away to the Christ who has a superabundance of everything you need! Freely He invites you—gladly go to Him! Spirit of God, compel them to do so, by Your sweet love, for Jesus' sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"— 531, 375, 435.
+## Hymns from "Our Own Hymn Book"— 531, 375, 435
 
 EXPOSITION BY C. H. SPURGEON: Isaiah 48.
 
@@ -156,7 +153,6 @@ Verse 1. Hear you this, O house of Jacob, which are called by the name of Israel
 21\. He split the rock, also, and the waters gushed out. And yet, to finish up the chapter, stands this remarkable sentence—
 
 22\. There is no peace, says the LORD, unto the wicked. O God, have mercy upon us, and let us not be numbered with them!
-
 
 ---
 [[Sermon 2378 Pardon for the Greatest Guilt|← #2378]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2380 Encouragements To Prayer|#2380 →]]

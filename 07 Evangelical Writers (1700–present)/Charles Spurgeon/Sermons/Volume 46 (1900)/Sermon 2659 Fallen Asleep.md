@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Fallen Asleep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2659
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Some are fallen asleep." 1 Corinthians 15:6.
 
@@ -87,7 +84,7 @@ This is our last thought—we shall again meet those who have fallen asleep. We 
 
 Now I have finished my discourse, but, how far is there any comfort to some of you in all that I have said? Some of you work very hard—have you any hope of rest in Heaven? If not, I pity you from the very depths of my heart! Some of you fare very hard—have you any hope of better fare with Christ forever? If not, I do indeed pity you, more than I can say! To go from poverty and misery, here, to a place where there shall be no hope for you forever, will be dreadful, indeed! If there were no Hell, I could not endure the thought of being shut out of Heaven, for, to be with Christ, to be with the Father, to be with the Holy Spirit, to miss the company of gracious and just men forever, would be a Hell that might well make men gnash their teeth in torment! Oh, may God save us all through faith which is in Christ Jesus! May we be saved tonight and then it will not matter how soon anyone may say of us, also, "They have fallen asleep," for all will be well with us forever! God bless you, dear Friends, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 7:9-17; 1 CORINTHIANS 15:1-28; 50-58.
+## Exposition by C. H. Spurgeon: Revelation 7:9-17; 1 Corinthians 15:1-28; 50-58
 
 We will read two passages from the New Testament tonight. The first will show us where the glorified saints are and the second will tell us what is to become of their bodies.
 
@@ -124,7 +121,6 @@ be most clearly understood that what Christ is, that His people are! There is an
 52\. In a moment, in the twinkling of an eye, at the last trump for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. Somehow or other, such a change as this must take place before we can enter Heaven, for "flesh and blood cannot inherit the kingdom of God."
 
 53-58. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is your sting? O grave, where is your victory? The sting of death is sin and the strength of sin is the law. But thanks be to God, which gives us the victory through our Lord Jesus Christ Therefore, my beloved brethren, be you steadfast, unmovable, always abounding in the work of the Lord, forasmuch as you know that your labor is not in vain in the Lord. That should be the practical outcome of receiving the great Truths of which we have been reading. God grant that it may be! Amen.
-
 
 ---
 [[Sermon 2658 Waking to See Christ's Glory|← #2658]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2660 Suffering Outside the Camp|#2660 →]]

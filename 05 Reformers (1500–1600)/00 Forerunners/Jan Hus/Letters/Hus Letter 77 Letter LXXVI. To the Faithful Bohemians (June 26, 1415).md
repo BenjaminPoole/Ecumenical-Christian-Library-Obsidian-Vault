@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 77. Letter LXXVI. To the Faithful Bohemians (June 26, 1415)
-
-LETTER LXXVI. TO THE FAITHFUL BOHEMIANS (June 26, 1415)
 
 The Council has condemned his Czech books; This holy Council ! Its immorality and disorder ; Be not afraid of its verdict; "They could not overcome God's power in me"; St. Catherine; God is with him . . . .262-5
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Might Have Been, or May Be
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1944
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And some of them said, Couldnot thisMan, which opened the eyes ofthe blind, have caused that even this man should not have died?" John 11:37.
 
@@ -92,7 +89,6 @@ I have not gone too far. I am sure that I have not. No, I could not go too far. 
 live?"
 
 I will tell you something else. If you yourself, tonight, are that dead sinner, I say to you, in the name of Jesus Christ of Nazareth, "Thus says the Lord, believe in the Lord Jesus Christ and you shall be saved." "I cannot," says one, "I am dead." I know that you are, but if the Lord speaks to you, you will live—and He does speak to you by this voice of mine. I speak to you in His name! You careless sinner, in the name of Jesus Christ of Nazareth, consider your ways! You dead sinner, in the name of Jesus, live! His Spirit has gone with the word which I have spoken! The thing is done in some who have heard me and will be done in others who will read these words. Glory be to the Father, and to the Son, and to the Holy Spirit, forever and ever! Amen.
-
 
 ---
 [[Sermon 1943 Love Joying In Love|← #1943]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1945 Christ's Work No Failure|#1945 →]]

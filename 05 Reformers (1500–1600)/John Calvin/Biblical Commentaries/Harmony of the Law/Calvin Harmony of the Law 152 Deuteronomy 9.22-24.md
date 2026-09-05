@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 152. Deuteronomy 9:22-24
-
-**Deuteronomy 9**
 
 **22.** And at Taberah, and at Massah, and at Kibroth-hattaavah, ye provoked the Lord to wrath.
 

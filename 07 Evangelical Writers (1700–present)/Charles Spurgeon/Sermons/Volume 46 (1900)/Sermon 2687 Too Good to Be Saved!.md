@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Too Good to Be Saved!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2687
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I tell you, this man went down to his house justified rather than the other." Luke 18:14.
 
@@ -79,7 +76,7 @@ If it were, we would also have to alter many of our best hymns. We could not sin
 
 III. Now I shall conclude by observing, concerning these people who are, in their own esteem, too good to be justified by Grace and who do not, therefore, seek God's Grace, that IT IS MOST FITTING THAT THEY SHOULD NOT
 
-BE JUSTIFIED.
+## Be Justified
 
 I will tell you why it is most fitting and, first, because it is taking them on their own standing. A man ought never to object to be taken at his own valuation. I once had an experience which may illustrate the way in which God will deal with men who are like this Pharisee. There came to me a gentleman—a very great gentleman—who wished to become a student of the College. He told me that in all probability, I had never had such a remarkable genius as he was offering himself as a student. Of course I was amazed and deeply gratified. I asked him in what way he could display his genius and he replied that he had been studying for the ministry for many years, that he was most fluent and eloquent and that, if I liked, he would preach me a sermon on the spot upon any subject that I chose to give him. I said, "No, I do not think that I could listen to a sermon from you just now, for I have a good many other people waiting to see me." He went on to tell me about his wonderful attainments, but I stopped him and said, "I must decline your application." "But why?" he asked. "Well," I answered, "we have no such men as you are in the College. We have none of your sort." "Well, then," he said, "it is time you had." So I told him that the tutors were very ordinary sort of persons and, according to his own account, he knew very much more than they did, to begin with, and I also said that the President of the College was a still more ordinary person and that, considering the way in which I was confounded by his dazzling genius in that short con-
 
@@ -95,7 +92,7 @@ O Sirs, I pray you, if pride is keeping you out of Heaven, give it up and cast y
 
 "There is life for a look at the Crucified One, There is life at this moment for you"— if you will but look there for it! But if you will look only to yourself for it, you will perish in your iniquity and your blood will be upon your own head. God bless this word to all whom it concerns, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 18:1-14.
+## Exposition by C. H. Spurgeon: Luke 18:1-14
 
 Verse 1. And He spoke a parable unto them to this end, that men ought always to pray and not to faint. ' 'Not to faint" in their expectation of answers to their supplications and, therefore, give up prayer, but to persevere in presenting their petitions at the Throne of Grace because prayer is never lost labor. There may be a time during which God does not appear to answer prayer, but He will ultimately answer it. Therefore "men ought always to pray, and not to faint" in prayer. If they do not pray, they will faint in many ways. Their courage will faint. All their hope as to the future will faint and fall into a dead swoon, as it were. So, dear Friends, you have your choice between praying and fainting! The doctrine our Savior laid down was "that men ought always to pray, and not to faint." And this is the parable which He related in illustration of that Truth of God.
 
@@ -130,7 +127,6 @@ and greatly increased them by demanding of the people much more than was due. Th
 13\. But smote upon his breast His heart smote him and he smote upon his heart.
 
 13, 14. Saying, God be merciful to me, a sinner I tell you, this man went down to his house justified rather than the other: for everyone that exalts himself shall be abased; and he that humbles himself shall be exalted. The great Lord and Master acts as He would have His true servants do. It was said of some of them that they turned the world upside down and that is exactly what He does! He abases those who exalt themselves and He exalts those who abase themselves. He lifts up the lowly and casts down them of high degree in their own estimation—and so shall it be to the end of the world.
-
 
 ---
 [[Sermon 2686 The Deceived Heart|← #2686]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2688 'Good Judgment'|#2688 →]]

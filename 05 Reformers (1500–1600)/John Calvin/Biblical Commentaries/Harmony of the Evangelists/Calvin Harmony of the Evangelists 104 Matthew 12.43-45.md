@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 104. Matthew 12:43-45; Luke 11:24-26
-
-**Matthew 12:43-45; Luke 11:24-26**
 
 **43**. But when the unclean spirit hath gone out of a man, he walketh through dry places, seeking rest, and findeth it not. **44**. Then he saith, I will return to my house, whence I came out; and coming, he findeth it empty, and swept, and embellished. **45**. Then he goeth away, and taketh with him seven other spirits more wicked than himself; and entering, he dwelleth there: and the last state of that man is worse than the first. [^1] So shall it be also to this wicked generation.
 

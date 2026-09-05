@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Self-Exertion
 
-Chapter II · *Practical Religion* — J. C. Ryle
+## Chapter II · *Practical Religion* — J. C. Ryle
 
 >  *Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.* "—Luke xiii. 24.
 
@@ -194,7 +193,6 @@ Let us all awaken to a deeper sense of our responsibility[Pg 47] in this matter.
 Who can tell what "a word spoken in due season" may do? Who can tell what it may do when spoken in faith and prayer? It may be the turning-point in some man's history. It may be the beginning of thought, prayer, and eternal life. Oh, for more love and boldness among believers! Think what a blessing to be allowed to speak one converting word!
 
 I know not what the feelings of my readers may be on this subject. My heart's desire and prayer is that you may daily remember Christ's solemn words,—"Many will seek to enter in, and shall not be able." Keep these words in mind, and then be careless about the souls of others, if you can.
-
 
 ---
 [[PR 01 Self-Inquiry|← Self-Inquiry]] · [[Practical Religion|Practical Religion Contents]] · [[PR 03 Reality|Reality →]]

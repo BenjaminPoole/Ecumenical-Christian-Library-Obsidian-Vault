@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Fencing the Table
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2865
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But let a main examine himself, and so let him eat of the bread, and drink of the cup." 1 Corinthians 11:28.
 
@@ -85,7 +82,7 @@ There is one other matter which is vital, and that concerns obedience. Examine y
 
 IV. Now, in closing, I want to speak a few words concerning THE SPIRIT IN WHICH, AFTER THIS SELF-
 
-EXAMINATION, WE OUGHT TO COME TO THE COMMUNION TABLE.
+## Examination, We Ought to Come to the Communion Table
 
 Ought we not to come, dear Friends, each one of us, in the spirit of holy wondefl This is the Lord's Table and I am coming, with the Lord's redeemed people, to eat and drink at it—what a wonder that I am here! I never come to the Communion without being astonished at the amazing Grace of God to me and especially as I think of this great church which God has been graciously pleased to gather in this place. How much I owe to Him! How constantly am I struck with the marvels of His mercy to me! And each one of you, my fellow Believers in the Lord Jesus Christ, has some peculiar reason for feeling the same kind of wonder in your own case.
 
@@ -99,7 +96,7 @@ I have only one thing more to say. Come to the Communion Table resolved that if 
 
 As for you who, perhaps, have never thought upon this subject, I have to say just this to you, and then I have done. Remember that religion does not begin with ordinances. While I have been speaking to professing Christians concerning the Communion, I hope that none of you have been thinking of it as a saving ordinance. You, as sinners, have to exercise faith in Christ before you have anything to do with Believers' Baptism—you have to come to Christ, Himself, before you are qualified to come to the Lords Table. As soon as you have, by faith, received Jesus Christ, Himself, as your Lord and Savior, the tokens and emblems of His death will become instructive to you. But until Jesus Christ is wholly yours, hands off all these holy things! For, as uncircumcised Philistines would have had no right to be at the Paschal Supper, so have those who are not renewed in heart with that circumcision that is made without hands, no right to come to the feast of Christian love which is reserved for the followers of the Crucified! Come to Jesus, to Jesus only, and put your trust in Him! God grant that you may do so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:17-30; 1 CORINTHIANS 11:18-34.
+## Exposition by C. H. Spurgeon: Matthew 26:17-30; 1 Corinthians 11:18-34
 
 Matthew 26:17-26. Now on the first day ofthe feast of unleavened bread the disciples came to Jesus, saying unto Him, Where will You that we prepare for You to eat the Passover? And He said, Go into the city to such a man, and say unto him, The Master says, My time is at hand; I will keep the Passover at your house with My disciples. And the disciples did as Jesus had appointed them; and they made ready the Passover Now when the evening was come, He sat down with the twelve. And as they did eat, He said, Verily I say unto you, that one of you shall betray Me. And they were exceedingly sorrowful, and began, every one of them, to say unto Him, Lord, is it I? And He answered and said, he that dips his hand with Me in the dish, the same shall betray Me. The Son of Man goes as it is written of Him: but woe unto that man by whom the Son of Man is betrayed! It had been good for that man if he had not been born. Then Judas, which betrayed
 
@@ -124,7 +121,6 @@ supped, saying, This cup is thee new testament in My blood: this do you, as ofte
 30-32. For this cause many are weak and sickly among you, and many sleep. For if we would judge ourselves, we would not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. Believers who are rendered sick, or who even die because of their offense against the Lord's ordinance, are not therefore condemned to Hell! Far from it—it is that they may not be so condemned that God visits them. "When we," the people of God—"are judged, we are chastened of the Lord, that we should not be condemned with the world'"
 
 33, 34. Therefore, my brethren, when you come together to eat, tarry one for another. Andif any man is hungry, let him eat at home; that you come not together unto condemnation. And the rest will I set in order when I come. By due attention to the Apostle's injunctions, they would be able to rightly observe the ordinance. And we, also, may learn, from what Paul wrote, how we may worthily come to the Table of our Lord.
-
 
 ---
 [[Sermon 2864 God Has Spoken!— Rejoice!|← #2864]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2866 Good News|#2866 →]]

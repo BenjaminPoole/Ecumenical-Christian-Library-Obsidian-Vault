@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 180. Numbers 31:1-54
-
-**Numbers 31**
 
 **1.** And the Lord spake unto Moses, saying,
 

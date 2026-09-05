@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 75. Decade 5, Sermon 10, Part 2
 
 [3 a nativitate autem Domini hodie computantur anni ferme quadringenti viginti. — August. Ep. lxxx. Hesych. Opp. Tom. n. fol. 69. col. 4. Par. 1531.]
@@ -25,8 +24,6 @@ tags:
 [7 Benedictus dux et princeps monachorum, ac regularis vita? insti-
 
 33—2
-
-516 THE FIFTH DECADE. [sERM.
 
 orders of monks that were under Benet's rule1. Of St Benet's order there have been eighteen popes in the see of Rome, cardinals above two hundred, archbishops in divers churches to the number of one thousand six hundred, bishops almost four thousand2, famous abbots, who excelled in life, doctrine, and writings, fifteen thousand seven hundred, of such as are canonized fifteen thousand six hundred3. And, that I may not recite many other orders of monks, it is known, that the mendicant monks and friars, being the faithful, diligent, and valiant Roman champions of the pope and the spiritual monarchy4, were confirmed by Ilonorius about the year of our Lord 1222.5
 
@@ -43,8 +40,6 @@ Hereby I would declare nothing else but only that all men should understand, tha
 [5 The Carmelites, a subdivision of the Mendicant Friars, were placed by Ilonorius III. a.d. 122(5, among the approved orders in the western church. — Mosheim, E. II. Book in. cent. xin. par. 2. chap. 2. §22.] feign, that it is meritorious before God, and the state of perfection. But who seeth not how repugnant it is to Christ's merit, and to the sincere doctrine of the gospel ? "What godliness or necessity is it that movcth us, after that we have wholly betaken ourselves to one God in baptism, to betake ourselves also and to make our vows to saints, and to bind ourselves by religion of an oath to the observing of their rules ? True religion forbiddeth us to vow ourselves to saints, or by any means to depend in way of religion upon them. True religion forbiddeth us to choose us any other fathers or masters. True religion forbiddeth us to devise new manners of worshippings or new religions, or to receive them that are devised by others. The example of Jeroboam and his fellows maketh us afeard. True religion forbiddeth us to swear by the names of other gods. Religion referreth6 us to one God by faith and obedience. Superstition breaketh this band, and admitteth creatures. St Paul to the Corinthians saith : " Every one of you 1 cor. u\ saith, I am Paul's, I am Apollo's, I am Cephas', and I am Christ's. Is Christ divided ? was Paul crucified for you ? or were you baptized in the name of Paul ?" Behold, Christ is our Redeemer and our Master. The faith of Christ hath made us one body. By baptism we are baptized into one body, that we might be called Christians, not Petrines or Paulines. St Paul would not suffer that Christians should take their name of the apostles: how much less would he abide that at this day some should be called Benedictines, some Franciscans, some Dominicans7'? We are the Lord's inheritance and possession ; it is not lawful for us to bind ourselves to the service of men. But who so bind themselves, they tear in sunder the unity of Christ's body, they profane the cross and baptism of Christ. The apostle saith plainly : " Is Christ divided? was Paul crucified for you? or were you baptized in the name of Paul ?" And therefore although they be commonly called spiritual persons, yet are they nothing less than spiritual. For the apostle saith : " When one of you saith, I am Paul's, and I Apollo's, are ye not carnal ?" To what end is it, after the receiving of the gospel of Christ Jesus and the doctrine of the apostles, which contain and deliver unto us all godliness, to invent new rules ? For truly, when they had
 
 [6 religet, Lat. See Vol. I. p. 233. n. 5 : and Vol. m. p. 231.] [" Cf. Vol. in. p. 295.]
-
-518 THE FIFTH DECADB. [sERM.
 
 once found out certain peculiar laws and means of living, they separated themselves from the common sort of Christians in all outward manner of living, in their behaviour, and in all their apparel, to the intent that by that means they might make evident to all men, that they would live apart as it were from that common, lay, and imperfect church, to live more holily, perfectly, and spiritually. But how well the same hath framed or doth frame with them1, the whole world speaketh it at this day. cai"?^1'" The vows which they vow are most foolish. They vow chastity, which they have not. Chastity is the gift of God, and it is not incident to all men. And St Paul saith : " Whoso cannot live continently, let him marry : for it is better to marry than to burn." Generally he said, " to burn," whether it were in a vow, or out of a vow. Keither is it lawful, that a human vow and which was foolishly taken in hand and vowed should prejudice the law of God. What manner of poverty it is which is in abbeys, experience itself teacheth. They put off poverty, when they put off their common garments : and with their cowl they put on great riches ; for monks, a thing which in the old time would have seemed a strange and monstrous matter, are made princes. The common sort of them live idly, and eat their bread freely and for nought, against the apostle's rule in the 2 epistle to the Thcssalonians, chap, iii., where such be also accursed. They forsake their parents and kinsfolk, whom by the law of God they are bound to serve and obev, and betake themselves unto strange men, by whom they are enforced to infinite superstitions. And they which are thus freely set at liberty to2 their parents, either they are set at liberty through superstition, or to the intent they may have all the days of their life wherewithal to lie and riot in idleness. So that it is evident, that such put on the cowl for their belly's sake, not for any religion. What obedience is that, which is quite contrary to the obedience which is revealed by the word of God? When the magistrate commanded3 them to sustain and bear public burdens with the residue of the faithful, they be evermore free and exempted.
 
@@ -63,8 +58,6 @@ Moreover, where some object, that it were good and convenient that all monasteri
 [5 religari, Lat. : are bound.] [6 Vol. I. page 250.]
 
 [7 Rather, either unadvisedly, or knowingly made : vel imprudenter vel scienter, Lat.] [8 inertia, Lat.]
-
-520 THE FIFTH DECADE. [sERM.
 
 depart not only with much of their profits, honours, and pleasures, but with all together1. Ilowbeit, they had rather that the whole world were together by the ears, than they would deliver up to God his kingdom, which they have hitherto enjoyed. But admit this thing were easy enough to accomplish ; who shall persuade us, that if abbeys were reformed according to the ancient institution, that in this our age they should be as well or better governed than they were in the old time ? We see what beginning they had, how they have gone forward, and how increased. "We see what hypocrisy, ambition and covetousness, pleasure and idleness, could do, and to what point all things are come. Do we think that men's desires at this day will be more moderate ? Do we think that discipline shall now be less corrupted by us and our posterity, than it was by our forefathers? Yea, we are constrained not to hope for the better but to fear the worse, who every day do experiment that which is worse than other ; for we live in the dregs of the world and in the very latter end of all ages, wherein the dragon of the bottomless pit, through the malice and ungodliness of men, hath gotten to himself great power and force, to disturb and corrupt all things that are in the whole world. Howbeit, in so great perils this comforteth us not a little, which is written in the word of truth, that for the elect's sake those days shall be shortened ; and that he shall be loosed for a short time, and then anon be cast into the lake that burnetii with fire and brimstone. Moreover, if we will make a just reformation, we must needs go to the fountains themselves. But in the primitive church we read of nothing set down in the doctrine of Christ and his apostles concerning2 monkery; and thereby we understand, that it is not necessary for the church ; yea, we have learned by experience that it is noisome and hurtful to the church. Wherefore true reformation persuadeth us altogether to abrogate monkery : not rejecting or neglecting in the mean season such as do repent, whom the wickedness of the time hath made unprofitable both for themselves and others; but gently to receive them into the care and alms of the church.
 
@@ -86,8 +79,6 @@ This discipline have we learned of the apostles of our Lord Christ. For the apos
 
 Last annoiling.
 
-522 THE FIFTH DECADE. [sERM.
-
 in the church the miraculous gift of healing the sick. Of this we read in St Mark's gospel : " And the disciples, going forth, preached the gospel, that they might repent ; and they cast out many devils, and they anointed many with oil that were sick, and healed them." And again in the same place saith : " Moreover, these signs shall follow them that believe. In my name they shall cast out devils," &c. And anon he saith : " They shall lay their hands upon the sick, and they shall be healed." And because this benefit remained yet in the church, St James biddeth us use oil1 ; and to use it in the name of the Lord, as the Lord had commanded. But seeing that gift is now ceased in the church, and we find by experience that oil doth no good to the sick ; according to the time, and as our duty bindeth us, we do the best we can to assuage and cure the diseases of the sick by medicines most convenient for the sickness, being applied in the name of Christ.
 
 I know how by this testimony of the apostle the papists go about to set out and commend their extreme unction, or last annoiling : but they labour in vain. 2But, to let pass that St James speaketh nothing of the hallowed oil ; and that they do not admit this medicine but in very extremity, where St James commandeth to anoint every one that is sick ; how, I pray you, can they defend out of St James' words that which the priest demandeth of the sick person : " Dost thou believe, that the Lord will hear our prayers for the merits1 sake and prayers of the saints?" The sick man answering, "I do believe ;" he then saith, " Let us therefore pray to God and his saints." Or where, I beseech you, hath St James, or any other apostle of Christ, taught that which they bring in their anointing : " In the name of the Father, and of the Son, and of the Holy Ghost, I anoint thee with holy oil, that by this anointing thou may est receive full remission of thy sins3 ?" What scripture,
@@ -107,8 +98,6 @@ Moreover, the church of Christ doth not reject4 the bodies ^ibSJSfc of the dead,
 [5 months' and, not in Lat.]
 
 [6 et oblationibus, Lat. omitted: and of offerings.]
-
-524 THE FIFTH DECADE. [sERM.
 
 sparing, and without all manner of superstition1. In that Joseph's bones were carried forth, they were carried in a mystery, that the Israelites might gather thereof that they should be brought into the land of promise. Whereunto also that belongeth, that the patriarchs chose a burial2 in Hebron. Otherwise, the place availeth nothing, to purchase the better or worse speed3 to the body that is buried in it. We must think that the place, by reason of the bodies of the saints and holy men which are there buried, is after a manner sanctified, or at the least wise called holy : not that the bodies do get any holiness or safety by the ground. Therefore, unless it seem good otherwise to the divine providence of God, the saints would gladly lie with their ancestors in the self-same place of burial. But if it please God otherwise, they acknowledge that they are notwithstanding received into the same earth without any exception ; and that they are not separated from their ancestors by distance of place. Wherefore there is no superstition in the church of God about burials and graves ; but how much there was in the time of popery, no man can declare in few words. The church These be the necessary institutions of the church of God, hath no need ii».i»i*i..i i • 1 of the legal and are by the faithful religiously observed without supersti- instruction. * o J ) * tion, to edification : as for other matters, which are only devised by the invention of man, the godly nothing weigh them. I know what things may here be objected ; That, forsooth, the ancient people of the old Testament had sundry and manifold rites and ceremonies instituted of God by his prophets, because being rude they had need of such instruction4; but since the common sort of Christians are also more rude than is to be wished, so many sundry and diverse ceremonies were devised by the ancient fathers not without the motion of the Spirit, which they must also obey. I answer, That this is no true nor sound reason, whereby the weak in faith may receive commodity ; for surely then would not the apostles of Christ have said nothing thereof. Moreover, experience teacheth that the state and condition of the weak and simple is such, that the more ceremonies are left unto them, the more their minds arc diversely 5 disposed, and are less united to Christ, to whom alone all things are to be ascribed : for it pleased
 
@@ -134,31 +123,31 @@ Amen.
 
 [2 Rather, that being taught better things out of the scriptures, I will with good- -will and thanksgivings embrace the better.] [3 inexhausto, Lat.]
 
-APPENDIX.
+## Appendix
 
 I. Dedication to the Marquis of Dorset. II. Dedication to Masters Gualter, Seuler, etc.
 
-APPENDIX I.
+## Appendix I
 
-1 TO THE MOST ILLUSTRIOUS PRINCE AND LORD, HENRY
+## 1 to the Most Illustrious Prince and Lord, Henry
 
-GREY, .MARQUIS OF DORSET, BARON FERRERS, OF
+## Grey, .Marquis of Dorset, Baron Ferrers, Of
 
-GROBY, HARRINGTON, BONVILLE AND ASTLY ; ONE
+## Groby, Harrington, Bonville and Astly ; One
 
-OF THE PRIVY COUNCIL OF HIS MOST SERENE
+## Of the Privy Council of His Most Serene
 
-MAJESTY, THE KING, AND OF THE FAMOUS
+## Majesty, the King, and of the Famous
 
-KINGDOM OF ENGLAND; HENRY BULLIN-
+## Kingdom of England; Henry Bullin-
 
-GER WISHETH GRACE AND PEACE
+## Ger Wisheth Grace and Peace
 
-FROM GOD THE FATHER
+## From God the Father
 
-THROUGH OUR LORD
+## Through Our Lord
 
-JESUS CHRIST 2.
+## Jesus Christ 2
 
 Upon no other topic, I suppose, can I more fitly discourse with you, most illustrious prince, than of the safety of the English church, and so of the maintenance of the weal of the whole nohle kingdom: seeing that, in the providence of Almighty God, you have been made of the most sacred council of the king's serene majesty and of the famous kingdom of England3; and on this account it is your most especial duty to understand and tend the public safety of the kingdom.
 
@@ -178,9 +167,9 @@ This council the pope has appointed for no other object than to prop up ancient 
 
 |" — quas (literas praedecessoris nostri) cum omnibus et singulis in eis contends clausulis et decretis in suo robore permanere volumus atque decernimus, et, quatenus opus sit, innovamus. — Bull. Resump. Concil. Trid. sub Jul. III.] [8 — ad exstirpationem ha?resum Can. Concil. Trid. p. 15. Lips. 183J.] r i 34
 
-[BLLLIXGER, IV.J
+## [Blllixger, Iv.j
 
-530 APPENDIX I.
+## 530 Appendix I
 
 demand and undertake a reformation agreeable with the word of God ; who sees not, that the council is not summoned to reform the churches, but for the extinction of the reformations that have been begun ?
 
@@ -204,7 +193,7 @@ Furthermore, if all the decrees of pope Paul, and whatever he has defined alread
 
 34—2
 
-532 APPENDIX I.
+## 532 Appendix I
 
 the church, as an authentic book, the received Latin version of the Bible. *And as touching the meaning of holy scripture, they do openly condemn every exposition that agrccth not with the sense Which the holy mother church hath holden and doth hold, and with the universal consent of the fathers ; for they say that it belongcth unto the church to judge of the true sense and interpretation of [the] scriptures1. But in these matters I give you warning to mark and diligently to examine four things. The first is, that they receive not only the canonical scriptures, whereby they may determine of the truth and falsehood of religion ; but, beside the scripture, they join also unwritten things, or traditions not written, but kept in the church by continual succession. The second is, that they mix with canonical books other that are not canonical ; and yet, for all that, they do curse them that receive them not as canonical books. The third is, that they thrust upon the church for that authentical book the common translation of the Bible in Latin. The fourth is, that they allow no other sense of the scripture but it that the motherchurch alloweth. It appeareth evidently of these things what they do seek in the foresaid2 council.
 
@@ -232,7 +221,7 @@ The maintainers of unwritten traditions object, The apostles themselves have mad
 
 [u Rather, of you hypocrites, saying.] [12 Luke i. 2.]
 
-534 APPENDIX 1.
+## 534 Appendix 1
 
 delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures'." Lo! the apostle comhines lively tradition with writing, so that now the writing contains what was before his tradition. The same [[apostle] again, in the epistle to the Corinthians making mention of tradition in the matter of the Lord's supper, immediately collects in writing and explains what that tradition was. And although he adds just after, " And the rest will I set in order when I come2;" yet he then spake of discipline, and of appointing and keeping up that which was decent in church-assemblies. For indeed it was not possible that he could deliver anything else about the supper of the Lord but what he had delivered already, unless he would contradict himself. The same apostle to the Thessalonians says : " Therefore, brethren, stand fast, and hold the traditions which ye have been taught." But he adds immediately, by way of explanation, " Whether by word or our epistle3." Consequently the tradition of the apostles is contained in the word and epistles of Paul. The word of Paul is the lively preaching of the gospel, which he repeated and renewed in his epistles. Furthermore, Paul's word of the gospel is read also very fully described by the other apostles: for Paul preached none other gospel than did the rest of Christ's apostles.
 
@@ -260,7 +249,7 @@ DEDICATION TO THE MARQUIS OF DORSET. 535 an object which those feigned tradition
 
 [13 to all men, omitted : omnibus, Lat.J
 
-536 APPENDIX I.
+## 536 Appendix I
 
 perilous a thing it is to receive and allow even those traditions which the most ancient writers do greatly regard, and commend highly unto the church.
 
@@ -280,7 +269,7 @@ Beside these that I have rehearsed before, this is also to be added : that the n
 
 [7 Lactantium, Lat. Lactantius : and certain others, not in Lat.] [8 JLal a\\a ce 6 auTos [o Ua-iriai] a!s eK Trapacocreoos dypdepov eis clvtov ijKovra TrapaTeQenal, £eVas re Ttva(s 7ra/oa/3o\as tov 2cot)7/OOS kui cicao7az\/as aiiTov, Kai Tiva aWa u.v6tKWTepa . . . "2.(p6cpa yap toi ajxiKpo1! wv tov vovv, &C. — Euseb. H. E. Lib. m. cap. 39. ed. Burton.] [9 who dared : ausus est, Lat.]
 
-APPENDIX I.
+## Appendix I
 
 and remembrance of the passion which bringeth salvation, just as pleased them. Neither has our Saviour or his apostles ordained this feast by any commandment to be observed by us ; neither do the gospel or the apostles threaten us with any penalty or punishment, as the law of Moses did the Jews." And a little after: " It seems to me, that as many other things in various places passed into custom, so did likewise the festival of Easter, because, as I have said, no apostle appointed anything concerning it1," &c. These words are found in his histories, lib. v. cap. 22. This writer therefore contradicted traditions openly, and was charged neither with sacrilege nor heresy for it.* What then should hinder us, but that we [at this day] may speak against such traditions that [as] are contrary unto the scripture ? These [things] being so, [and so] plain that they cannot be denied even of our enemies, we will not suffer us [ourselves] to be drawn away [by any means] from the undoubted and sure scripture unto those uncertain [I know not what] traditions. Surely, if those fathers of the council of Trent were sincere, and had a hot zeal to set out the truth clearly and to help the church, doubtless they would suffer themselves and all their doings to be judged of that best and greatest God, and of his most true word. But because they refuse to do that, and set out certain fabulous traditions, they have openly declared unto all the world what help and strength they trust to have for the maintenance of their cause of [out of] the holy scripture.*
 
@@ -308,11 +297,11 @@ cap. 36. Opp. Tom. v. fol. 244. col. 3.]
 
 Juda?i sicut legem et prophetas et psalmos sed recepta est ab ecclesia non inutiliter, si sobrie legatur vel audiatur, maxime propter illos Macchabasos, qui pro Dei lege, sicut veri martyres, a persecutoribus tam indigna atque horrenda perpessi sunt. — Id. contra Gaudent. Ep. Lib. n. cap. 23. Opp. Tom. vn. fol. 73. col. 4.]
 
-540 APPENDIX I.
+## 540 Appendix I
 
 which are received by all are to be preferred to those which are not received by some churches'. But we are able to prove, that the books of the Maccabees were never received as canonical by the most ancient and distinguished churches of the east. Melito, bishop of Sardis, who flourished not many years after the death of the apostles, about the year of our Lord 173, under the emperor Antony Verus2j unto whom also he presented a defence of our faith, recites no other books of the old Testament as canonical but those which Jerome in his prologue, Galeatus3, gives a list of, leaving out all that arc called ecclesiastical. He says also, that he had travelled as far as the East, where the beginning of our preaching had its rise, and where all things occurred which we read in scripture, that there he might search out with diligence all that related to the truth and certainty of the canonical books ; and that he there found that precise number4. After Melito, Origen also recounts no more books of the old Testament than twenty-two5. So likewise St Jerome, not so much in his prologue, Galeatus, as in his epistle to Paulinus concerning all the books of scripture, acknowledges those twenty-two books as canonical ; and says that the rest are to be excluded from the canon6. The same author, in his prologue to the Proverbs of Solomon, having spoken of the book called the Wisdom of Solomon and Ecclesiasticus, adds : " As therefore the church reads indeed the books of Judith and Tobias and the Maccabees, but does not receive them among the canonical scriptures ; so likewise she reads these two books for the edification of the people, but not to establish the authority of ecclesiastical doctrines7."
 
-[i Tenebit igitur (solertissimus indagator) hunc modura in scripturis ca- nonicis, ut eas, qua; ab omnibus accipiuntur ecclesiis catholicis, praeponat eis quas quaedam non accipiunt Id. de Doct. Christ. Lib. II. cap. 8.]
+[i Tenebit igitur (solertissimus indagator) hunc modura in scripturis canonicis, ut eas, qua; ab omnibus accipiuntur ecclesiis catholicis, praeponat eis quas quaedam non accipiunt Id. de Doct. Christ. Lib. II. cap. 8.]
 
 [2 Marcus Aurelius Antoninus Verus was emperor of Rome from a. d. 161 to 180.]
 
@@ -324,7 +313,7 @@ which are received by all are to be preferred to those which are not received by
 
 [6 Hieron. Epist. L. Opp. Tom. iv. Par. 1706.] f 7 Sicut ergo Judith et Tobise et Machabscorum libros legit quidem ecclesia,sed inter canonicas scripturas non recipit ; sic et hsec duo volumina (Ecclesiasticus et Sapientia Salomonis) legatad ajdiiicationem plebis non ad auctoritatem ecclesias-
 
-DEDICATION TO THE MARQUIS OF DORSET. 541
+## Dedication to the Marquis of Dorset. 541
 
 In the same way we think St Augustine reckoned the second book of the Maccahees among those which are canonical; meaning that it was an ecclesiastical hook, hut had not like authority with those that arc truly and from of old in the canon. Nor could St Jerome be ignorant of the decree of the council of Carthage, seeing that he is said by many writers to have died about the year of our Lord 422. 8 Of the same tendency is the reckoning of Ruffinus of Aquileia, in his Exposition of the Apostles' Creed : for he recounts neither more, nor any other, books of the old Testament than those we have mentioned above. And among other words he says : " These are the books of the old Testament, which, according to the tradition of our elders, are believed to have been inspired by the Holy Spirit himself, and have been handed down to the churches of Christ." And a little after the same author says : " But it is to be known, that there are other books beside, which have been called by our ancestors not canonical, but ecclesiastical ; such as the Wisdom of Solomon, Ecclesiasticus, and the books of Tobias, and Judith, and the Maccabees : all which they were content should be read in the churches, but not brought forward to confirm out of them the authority of the faith9." Thus he. So then it appears, that we have upon our side the primitive church and all antiquity, which the fathers of the council of Trent strike with their curse because they anathematize us also. For as we do not reject the ecclesiastical books; so agreeably with the old church we contend, that either the truth or falsity of our religion is to be proved or disproved out of the canonical books alone, and appeal to none but the canonical scriptures. Unto which since our adversaries refuse to submit all their doctrines, turning their eyes away to other shadowy defences, it is manifest of what sort their cause is, and what it is they seek by a council called together on such conditions as we have described.
 
@@ -356,7 +345,7 @@ Lib. ii. cap. 11. Opp. Tom. in. fol. 6. col. 3. Par. 1531. J
 
 [4 Quaj quidern res plus adjuvit intelligentiam quam impedivit, si modo legentes non sint negligentes. Nam nonnullas obscuriores sententias plurium codicum saepe manifestavit inspectio. — Aug. ibid.]
 
-544 APPENDIX I.
+## 544 Appendix I
 
 that the truth might be drawn forth and illustrated from the scriptures, but that scripture itself might be degraded, and serve those men's dignity, honours, and wealth, and the maintenance and establishment of superstition ; not that churches might be reformed, but that those churches, which have begun to emerge, might be reduced to their former condition of deformity.
 
@@ -386,7 +375,7 @@ p. 399, note 2.]
 
 [bullinger, iv.J
 
-APPENDIX II.
+## Appendix II
 
 'TO THE MOST ILLUSTRIOUS MEN, MASTERS RODOLPH GUALTER, PETER SIMLER, JOHN STUMPHIUS, JOHN BLUMEN2, JOHN SEILER, HADRIAN HOSPIN1AN3, NICHOLAS SCHNEIDER4, AND JOHN HUGO, DEANS OR ARCHPRESBYTERS5; AND TO ALL THE MINISTERS OF CHRIST AND OF THE CHURCHES OF THE CLASSES6 OF THE ZURICHSEE, FREYAMT, STEIN, WINTERTHUR, ELGG, WER1KON, AND REGENSPERG, IN THE TERRITORY OF ZURICH; HIS REVEREND AND VERY BELOVED FELLOW-MINISTERS AND BRETHREN; GREETING.
 
@@ -412,7 +401,7 @@ Wherefore this passage of Ezekiel shews, and other places of holy scripture decl
 
 35—2
 
-APPENDIX II.
+## Appendix II
 
 accusing sins.
 
@@ -436,7 +425,7 @@ For whoso acknowledges his sins and confesses them to God from Need of huthe hea
 
 [4 Jer. ii. 33-35.] I5 John ix. 41.]
 
-550 APPENDIX II.
+## 550 Appendix II
 
 he had denied his Lord, went out from the palace of the highpriest; and prostrated themselves hefore the Lord, and shed tears in great abundance. David cries : " Thine arrows stick fast in me, and thy hand prcsseth me sore. There is no soundness in my flesh, because of thine anger ; neither is there any rest in my hones, because of my sin. For mine iniquities have gone over mine head : as an heavy burden they are too heavy for me. I declare mine iniquity, and am sorry for my sin. My soul also is sore vexed. I am weary with my groaning : all the night make I my bed to swim, I water it with my tears1." In these terms he expresses the intense grief which was wrought in him, and which proceeded from the acknowledgment of his sins : and he has left unto us in them a true pattern of true repentance, wc must beHowever, to acknowdedge and confess our sins, and to humble smsVreafor-ur ourselves in the sight of the Lord, and to be sorry, will not suffice, cimst^sake. unless we believe also that all our sins are forgiven us for Christ's sake. For Judas greatly grieved, because he had betrayed Christ ; he heartily confessed his sin, saying, "I have sinned in that I have betrayed the innocent blood:" nay, he brought again into the temple the price of blood2, which he had received from those robbers. But because he had no true faith in the Lord Jesus, his sorrow and confession availed nothing. "We must before all things therefore teach and enforce faith : that faith, I mean, by which penitents believe that their sins are forgiven them freely for Christ's sake. But this is a truth, which we must establish and prove by manifest promises of God and undoubted examples : for the apostle witnesseth, " Faith cometh by hearing, and hearing by the word of God3." Nay, by so much the more is it needful to do this, and to prove this point with all diligence, by how much the more violently the minds of believers are assaulted on this head.
 

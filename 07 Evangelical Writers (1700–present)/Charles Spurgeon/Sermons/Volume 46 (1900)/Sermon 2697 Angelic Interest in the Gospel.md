@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Angelic Interest in the Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2697
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Which things the angels desire to look into." 1 Peter 1:12.
 
@@ -130,7 +127,6 @@ There is nothing like having good seed in the basket when you go out to sow. And
 Now, dear Friends, those of you who have nothing to do with this matter, I would like you to go away thinking that if an angel cares about these things, and if an angel studies them, it is time that you did the same. I know that you are going to take your degree at the University, good Sir, and I am very glad that you are likely to secure a good position in life. But I hope that you are not so foolish as to think that you know more than the angels! And if they desire to look into these things, permit me to ask you to study your Bible as well as all the other classics, for, after all, this is the best classic! I know, dear Sir, that you are a masterly thinker. You can make a great many hypotheses and pull them to pieces again, but I wish, for once, that you would consider this hypothesis—that, perhaps, you are not as wise as the angels. I should not wonder if that hypothesis should prove to be true!
 
 I have often noticed that people who rail at the Gospel do not know what it is. Many speak against the Bible, but if they were asked, "Did you ever read it?" they would have to answer, "No." He who studies God's Word is usually conquered by it—he falls in love with it and feels the power of it. So, as the holy angels desire to look into it, look into it, yourself, good Sir, and, on your looking there, may God give you to see Jesus, for all who look unto Him shall be saved forever! May you be one of that blessed company, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2696 Wordless Prayers Heard in Heaven|← #2696]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2698 The First and the Second|#2698 →]]

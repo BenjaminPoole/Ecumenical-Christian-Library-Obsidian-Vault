@@ -10,12 +10,11 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 138. On Grieving the Holy Spirit
 
-WILLIAM TILLY ABRIDGED AND REVISED BY JOHN WESLEY
+*William Tilly Abridged and Revised by John Wesley*
 
-WRITTEN IN THE YEAR 1733
+## Written in the Year 1733
 
 > "Grieve not the Holy Spirit of God, whereby ye are sealed unto the day of redemption." Eph. 4:30.
 

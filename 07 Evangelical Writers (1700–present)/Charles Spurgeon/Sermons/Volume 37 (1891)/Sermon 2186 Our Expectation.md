@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Our Expectation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2186
-
-DELIVERED BY.
 
 > "He shall see His seed." Isaiah 53:10.
 
@@ -104,7 +101,6 @@ Thus have I talked with you in a very poor and feeble way, as far as my speech i
 And you that are not among His seed, look where you are! What can you do? All that you can do will bring you no further—you must be born again—and this is the work of the Spirit of God. The Spirit of God works the new birth in His own way, but He works according to the Gospel. What is the Gospel? "He that believes and is baptized shall be saved." I give you the Gospel without mutilating it, just as I get it in the Gospel by Mark, "He that believes and is baptized shall be saved." Obey the precept and the promise is yours! God help you to believe in the Lord Jesus and so to have eternal life! The moment you believe in Jesus Christ you are born again. May He, by His Holy Spirit, seal the message with His blessing to everyone in this house, for His own name's sake! Amen.
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—John12:20-45.
-
 
 ---
 [[Sermon 2185 Our Manifesto|← #2185]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2187 Jesus—All Blessing and All Blessed|#2187 →]]

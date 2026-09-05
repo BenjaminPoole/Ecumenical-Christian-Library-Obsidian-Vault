@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Lesson of the Almond Tree
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2678
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Moreover the word of the LORRD came unto me, saying, Jeremiah, what do you see? And I said, I see a branch of an almond tree. Then said the LORD unto me, You have seen well: for I am ready to perform My word." Jeremiah 1:11,12.
 
@@ -109,7 +106,7 @@ them. Up, Brother, up! "I see a branch of an almond tree." Do what you can tonig
 
 And, lastly, be ready for your immediate departure. Be prepared to go Home to Heaven tonight. Come, now, are all things ready for your journey? If not, pack up all the luggage, label it, and have everything ready for the start at any moment. Blessed is that man who is ready to blossom in Heaven any instant. "Oh," says one, "I should not like to die tonight. I believe that I am a Christian and that I am saved, but I do not feel ready to go." Set your house in order, then, for your house cannot be right if it is not in order! If your house is in order, why, then you are ready to die! There is no right living except living as you would wish to live if you knew that this was to be your last day. The right way to spend the next hour is so to spend it as if it were your last hour. The Lord bring us into that happy condition that it shall not matter to us one single farthing whether we live or whether we die—and may He keep us in that blessed state, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 18:1-19.
+## Exposition by C. H. Spurgeon: Psalm 18:1-19
 
 Verse 1. I will love You, O Lord, my strength.' 'I do love You, and I will love You yet more and more. I bind myself to You for the future as well as the present."
 
@@ -136,7 +133,6 @@ Verse 1. I will love You, O Lord, my strength.' 'I do love You, and I will love 
 15-18. Then the channels ofwaters were seen, and the foundations ofthe world were discovered at Your rebuke, O LORD, at the blast ofthe breath of Your nostrils. He sent from above, He took me, He drew me out of many waters. He deliveredme from my strong enemy, and from them which hatedme: for they were too strong for me. They prevented me in the day of my calamity. They went before him, they blocked his way.
 
 18, 19. But the LORD was my stay. He brought me forth also into a large place; He delivered me because He delighted in me. Oh, how sweetly this record continues! Never was there a poem more lofty in its diction. Even Milton cannot equal the language of this Psalm! This Inspired writing rises superior to all human compositions, even if regarded only from the poetic point of view. Oh, what must have been the Psalmist's experience when he was delivered after this wonderful fashion! And if God has delivered you and me in a quieter and gentler way, yet He has quite as surely delivered us! And blessed be His name from this time forth, and even forevermore!
-
 
 ---
 [[Sermon 2677 Spiritual Religion|← #2677]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2679 Christ's Indwelling Word|#2679 →]]

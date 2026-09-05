@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Christ a Sanctuary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3522
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He will be as a sanctuary." Isaiah 8:14.
 
@@ -25,7 +22,7 @@ MANY of the Rabbis, and I think with good reason, refer this to the Messiah. We 
 
 So then, as a subject for our present meditation, we take the fact that Jesus Christ will be as a sanctuary. He will be as a sanctuary in three respects, upon each of which we shall speak with all possible simplicity. First, Jesus will be as a sanctuary—
 
-I. IN WHICH WE, AS POOR GUILTY SINNERS, SHALL FIND A SHELTER.
+## I. In Which We, as Poor Guilty Sinners, Shall Find a Shelter
 
 A sanctuary was a place where a criminal who dared not appear before the tribunals of his country found a shelter. Such sanctuaries once abounded in England. Certain shrines which were considered sacred had this privilege or this curse—I do not know which it was—accorded to them—that whenever a criminal had fled to them, he was beyond the arm of justice. There was such a sanctuary in Westminster and another not far from this Tabernacle, but they were ultimately abolished. Among the Jews the privilege of the sanctuary was kept in proper check, yet it was not forbidden. Certain cities were set apart to which man-slayers, who had accidentally slain anyone, might flee for security. We find also that among the Jews, some hoped to find shelter in the precincts of the Temple. Joab went to the altar and laid hold upon the horns, and thought himself secure, though when Solomon sent and bade him come outside, he said, "No, but I will die here," so that the altar in those days was nota sanctuary. It was not until later times that it was unjustifiable to kill men when they had entered into holy places, and hence holy places and sanctuaries became places of refuge.
 
@@ -71,7 +68,7 @@ This He gives you,
 
 'Tis His Spirit's rising beam." Right joyful should I be if, by the Holy Spirit's power, I might persuade some of you to flee to Jesus and depend alone upon Him. This would be the happiest day of your lives, the beginning of a new life! Well do I recollect when I looked to my Lord and Master and found salvation in Him. Never can I forget the happy day when Jesus took my sins away. Most affectionately and earnestly do I entreat you to look to Him—and so shall your eyes be enlightened. Depend on a Crucified Savior and you shall find peace and comfort to your souls. Secondly, Jesus Christ is a Sanctuary in the sense of—
 
-II. A PLACE OF WORSHIP.
+## II. A Place of Worship
 
 We often hear people talk, nowadays, of exclusively holy places. They will sometimes call some edifice, be it a parish church or a private chapel, a sanctuary. I take it that this is a mistaken use of the word if used exclusively. No one place is a bit more sacred than another! Those who would draw near to the Lord should remember that—
 
@@ -95,7 +92,7 @@ I am very, very anxious that every Believer here should draw a ring, as it were,
 
 heart, and soul, and strength, near to the Throne of God, worshipping the Most High! Our third point is that Jesus is a Sanctuary in the sense of—
 
-II. A DWELLING PLACE.
+## II. A Dwelling Place
 
 This is an unusual sense, perhaps, but it is a Scriptural one. "He that dwells in the secret place of the Most High shall abide under the shadow of the Almighty. In the secret of His tabernacle shall He hide me. He shall set me up upon the rock." The priest under the old Law only went into the Holy of Holies once a year, but every priest unto God—and you are all such who have believed—every priest unto God goes in and never goes out again—at least, he never needs to go out! He may abide always in the Holy Place—a place where in the morning he sings his waking song—and a place wherein at night he sups with Christ.
 
@@ -105,7 +102,7 @@ The Sanctuary was a place in which only one Person ever dwelt, and that was God,
 
 Oh, that I might go into the door of His House and never find my way out! If we leave the Table, it is not because the feast is over or the Master has dismissed the guests. Oh, never! You are not straitened in Him, but in yourselves. The deep bottomless sea of His precious love is all before you! If you thirst, it is because you will not drink! If you live in the cold Arctic regions, distant from Christ, it is not because the sunlight of His love could not warm and cheer you. If you would come into the equatorial regions of a simpler faith and a more abundant trustfulness, you might yet have all the luxuriance of a tropical heat sent into your souls! Come up higher, Brothers and Sisters! From the lowest chambers come to the highest ones! From the Master's feet come to His bosom, and from His bosom come to His lips. From the outside court or tabernacle come to the court of the priests, and from the court of the priests come to the Holiest of All. Advance! Come boldly! The Lord help you by His Spirit to come and dwell in the Sanctuary! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10:1-20.
+## Exposition by C. H. Spurgeon: Romans 10:1-20
 
 Verse 1. Brethren, my heart's desire and prayer to God for Israel is that they might be saved. Now these people had persecuted the Apostle. Wherever he went they had followed him—they had hindered his work—they had sought his life and yet this was the only return that he made to them—to desire and pray that they might be saved! Let us never be turned aside from this loving desire for those among whom we dwell. We wish them nothing worse—we cannot wish
 
@@ -158,7 +155,6 @@ God.
 19\. First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. Moses told them that it would be so if they rejected Christ. Christ would be preached to the Gentiles, and those whom they thought to be foolish would come in and accept what they had rejected!
 
 20\. But Isaiah is very bold, and says, I was found of them that sought Me not: I was made manifest unto them that asked not after Me. He told them, therefore, that God would save a people who up to now had never sought after God— that He would send the Gospel to a people that were dead in sin, and had never asked to receive the light and life of God!
-
 
 ---
 [[Sermon 3521 A Searching Test|← #3521]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3523 A Type and Its Teaching|#3523 →]]

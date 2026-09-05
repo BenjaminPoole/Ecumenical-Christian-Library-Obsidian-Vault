@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 1. What is thy only comfort in life and death?
-
-**Question 1. What is thy only comfort in life and death?**
 
 Answer. That I with body and soul, both in life and death, am not my own, but belong unto my faithful Saviour Jesus Christ, who, with his precious blood, hath fully satisfied for all my sins, and delivered me from all the power of the devil; and so preserves me that, without the will of my heavenly Father, not a hair can fall from my head; yea, that all things must be subservient to my salvation: and therefore, by his Holy Spirit, he also assures me of eternal life, and makes me sincerely willing and ready henceforth to live unto him.
 
-**EXPOSITION**
+## **Exposition**
 
 The question of comfort is placed, and treated first, because it embodies the design and substance of the catechism. The design is, that we may be led to the attainment of sure and solid comfort, both in life and death. On this account, all divine truth has been revealed by God, and is especially to be studied by us. The substance of this comfort consists in this that we are ingrafted into Christ by faith, that through him we are reconciled to, and beloved of God, that thus he may care for and save us eternally.
 
@@ -34,13 +31,13 @@ IV. Why is it necessary?
 
 V. How many things are necessary for its attainment?
 
-**I. WHAT IS COMFORT?**
+## **I. What Is Comfort?**
 
 Comfort is that which results from a certain process of reasoning, in which we oppose something good to something evil, that by a proper consideration of this good, we may mitigate our grief, and patiently endure the evil. The good therefore, which we oppose to the evil, must necessarily be great, and certain, in proportion to the magnitude of the evil with which it is contrasted. And as consolation is here to be sought against the greatest evil, which is sin, and eternal death, it is not possible that any thing short of the highest good, can be a sufficient remedy for it. Without the word of God, however, to direct and reveal the truth, there are almost as many opinions entertained as to what this highest good is, as there are men. The Epicureans place it in sensual pleasure; the Stoics in a proper regulation and moderation of the affections, or in the habit of virtue; the Platonists in ideas; the Peripatetics in the exercise of virtue; whilst the ordinary class of men place it in honors, riches, and pleasure. But all these things are transitory, and are either lost already in life, or they are at best interrupted and left behind in the hour of death. But the highest good after which we seek never fades away—no, not in death. It is true, indeed, that the honor of virtue is immortal, and, as the Poet says, survives men's funerals; but it is rather with others than with ourselves. And it has well been said by a certain one, that virtues cannot be considered the highest good, since we have them witnesses of our calamities. Hypocrites, both within and without the church, as Jews, Pharisees and Mahommetans, seek a remedy against death in their own merits, in outward forms and ceremonies. The Papists do the same thing. But mere external rites can neither cleanse nor quiet the consciences of men; nor will God be mocked with such offerings.
 
 Therefore, although philosophy, and all the various sects, enquire after and promise such a good as that which affords solid comfort to man, both in life and death, yet they neither have, nor can bestow, that which is necessary to meet the demands of our moral nature. It is only the doctrine of the church that presents such a good, and that imparts a comfort that quiets, and satisfies the conscience; for it alone uncovers the fountain of all the miseries to which the human race is subject, and reveals the only way of escape through Christ. This, therefore, is that christian comfort, spoken of in this question of the catechism, which is an only and solid comfort, both in life and death—a comfort consisting in the assurance of the free remission of sin, and of reconciliation with God, by and on account of Christ, and a certain expectation of eternal life, impressed upon the heart by the holy Spirit through the gospel, so that we have no doubt but that we are the property of Christ, and are beloved of God for his sake, and saved forever, according to the declaration of the Apostle Paul: "Who shall separate us from the love of Christ? Shall tribulation, or distress," &c. (Rom. 8:35.)
 
-**II. OF HOW MANY PARTS DOES THIS COMFORT CONSIST?**
+## **II. Of How Many Parts Does This Comfort Consist?**
 
 This comfort consists of six parts:
 
@@ -56,7 +53,7 @@ This comfort consists of six parts:
 
 6. Our full persuasion and assurance of all these great benefits, and of eternal life. This assurance is obtained, in the first place, from the testimony of the Holy Spirit working in us true faith, and conversion, bearing witness with our spirits that we are the sons of God, and that these blessings truly pertain to us; because "he is the earnest of our inheritance;" and secondly, from the effects of true faith, which we perceive to be in us; such as true penitence, and a firm purpose to believe God and obey all his commandments; for we are assured of having true faith when we have an earnest desire of obeying God; and by faith we are persuaded of the love of God and eternal salvation. This is the foundation of all the other parts of this consolation which we have specified, and without which every other comfort is transient and unsatisfying amid the temptations of life. The substance of our comfort therefore is briefly this:—That we are Christ's, and through him reconciled to the Father, that we may be beloved of him and saved, the Holy Ghost and eternal life being given unto us.
 
-**III. WHY IS THIS COMFORT ALONE SOLID?**
+## **III. Why Is This Comfort Alone Solid?**
 
 That this comfort alone is solid, is evident, first, because it alone never fails—no, not in death; for "whether we live, or die, we are the Lord's;" and "who shall separate us from the love of Christ?" (Rom. 14:8; 8:35.) And, secondly, because it alone remains unshaken, and sustains us under all the temptations of satan, who often thus assails the christian:
 
@@ -78,11 +75,11 @@ That this comfort alone is solid, is evident, first, because it alone never fail
 
 In this most severe and dangerous conflict, which all the children of God experience, christian consolation remains immoveable, and at length concludes: therefore Christ, with all his benefits, pertains even to me.
 
-**IV. WHY IS THIS COMFORT NECESSARY?**
+## **IV. Why Is This Comfort Necessary?**
 
 From what has been said, it is clearly manifest that this comfort is necessary for us; First, on account of our salvation, that we may neither faint nor despair under our temptations, and the conflict in which we are all called to engage, as christians. And secondly, it is necessary on account of praising and worshipping God; for if we would glorify God in this, and in a future life, (for which we were created,) we must be delivered from sin and death; and not rush into desperation, but be sustained, even to the end, with sure consolation.
 
-**V. HOW MANY THINGS ARE NECESSARY FOR THE ATTAINMENT OF THIS COMFORT?**
+## **V. How Many Things Are Necessary for the Attainment of This Comfort?**
 
 This proposition is considered in the following question of the catechism, to which we refer the reader.
 

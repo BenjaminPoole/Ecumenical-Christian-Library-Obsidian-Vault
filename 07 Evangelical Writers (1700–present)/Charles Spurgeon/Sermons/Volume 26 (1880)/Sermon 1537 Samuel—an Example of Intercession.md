@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Samuel—an Example of Intercession
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1537
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 9, 1880,.
+*Delivered on Lord's-Day Morning, May 9, 1880*
 
 > "Moreover as for me, God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way." 1 Samuel 12:23.
 
@@ -114,7 +113,6 @@ need—would it not be hypocrisy worthy to be ridiculed and held up to reprobati
 The truly benevolent man puts his hand in his pocket and says, "What can I do that my prayer may be answered?" I have heard of one who prayed in New York for a certain number of very poor families that he had visited and he asked the Lord that they might be fed and clothed. His little sons said, "Father, if I were God I should tell you to answer your own prayer, for you have plenty of money." Thus the Lord might well say to us when we have been interceding, "Go and answer your own prayer by telling your friends of My Son." Do you sing, "Fly abroad, you mighty Gospel"? Then give it wings covered with silver!
 
 Do you sing, "Waft, waft, you winds, His story"? Then spend your breath for it! There is a power in your gifts! There is a power in your speech! Use these powers. If you cannot personally do much, you can do a great deal by helping another to preach Christ. But chief and first you ought to do something by your own hand, heart and tongue. Go and teach the good and right way and then shall your prayers be heard!
-
 
 ---
 [[Sermon 1536 Sentence Of Death, The Death Of Self-trust|← #1536]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1538 Divine Surprises|#1538 →]]

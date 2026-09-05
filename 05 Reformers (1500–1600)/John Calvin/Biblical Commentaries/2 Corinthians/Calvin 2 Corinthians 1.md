@@ -10,13 +10,11 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 1
 
-COMMENTARY ON THE  
-SECOND EPISTLE TO THE CORINTHIANS.
+*Commentary on the Second Epistle to the Corinthians*
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## 2 Corinthians 1:1-5
 

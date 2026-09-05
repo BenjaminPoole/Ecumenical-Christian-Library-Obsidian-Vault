@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Rule of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3061
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Man/ lepers were in Israel in tie time of Elisha the Prophet; and none of them was cleansed except Naaman the Syrian." Luke 4:27.
 
@@ -53,7 +50,7 @@ I have heard of a great man who was once taken to see the French galley slaves. 
 
 II. Now I think I have spoken sufficiently upon the Sovereignty of Grace, so I want to enlist your earnest attention to another part of the subject as I try to show you that in the case of Naaman, Sovereign Grace followed THE
 
-UNVARYING RULES OF GRACE.
+## Unvarying Rules of Grace
 
 God is a Sovereign and may therefore save whom He wills. And He may also save them howHe wills. Yet when He is about to save a man, He does not depart from His usual method of working, but saves him according to the way in which He is accustomed to save.
 
@@ -87,7 +84,7 @@ I will not say to you—Go and risk it, for there is no risk. I will not say to 
 
 I know He did and I hope many of you can say the same thing. We are in the same boat and if we go down, God will have to go down, too, for it would stain His honor for anyone to be lost trusting in Jesus. But we shall never go down if we are trusting in Him! We shall stand when the great floods are out and the heavens are pouring forth their deluge of devouring rain! We shall stand, for we are built upon a rock if we are trusting in the blood and righteousness of Jesus Christ! God grant that we may all be found there and His shall be the praise forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM107:23-82.
+## Exposition by C. H. Spurgeon: Psalm 107:23-82
 
 Verses 23, 24. They that go down to the sea in ships, that do business in great waters; these see the works of the LORD, and His wonders in the deep. The Jews were never given to navigation. To "go down to the sea in ships," seemed a very extraordinary thing to them. They looked upon it as a going down, as it were, into a dreadful abyss. We who are more accustomed to going to sea than they were, talk of "the high seas," but they spoke of going "down to the sea." They never went to sea except on business. King Solomon had no pleasure yacht. There was never one of that ancient race who cared to trust himself upon the sea except as a matter of sheer necessity—and those who did so were looked upon with wonder by their land-loving friends. "They that go down to the sea in ships, that do business in great waters; these see the works of the Lord"—that is, His greatest works, both in the sea and on it. They know what storms are and they see what Omnipotence can do—and they come back to tell of the wonders of God upon the mighty deep. This verse may be read spiritually as well as literally. God calls some of His servants, as it were, to go down to the sea in ships. They are tried with poverty, with personal sickness, with temptation, with inward conflicts, with fierce persecutions. And God
 
@@ -104,7 +101,6 @@ never calls them to these trials out of mere caprice, there is always a reason f
 31\. Oh that men would praise the LORD for His goodness, and for His wonderful works to the children of men! Should they not do so? Those who have survived the storms at sea, or the still greater storms within their own souls should surely take care to praise the Lord. If we know how to pray, we also ought to know how to praise. Prayer and praise ought to form the two covers of the book of our life—and our life is not well bound unless these are the two covers to it—with a good stiff back of faith to bind the two covers firmly together and to hold every leaf in its proper place.
 
 32\. Let them exalt Him also in the congregation of the people, and praise Him in the assembly of the elders. Let them not only praise the Lord in private, but let them also sound out their song of gratitude to God where the graybeards are gathered together! And let the men of experience, the officers of the Church, the leaders of the Lord's people, help them in the expression of their gratitude.
-
 
 ---
 [[Sermon 3060 The Good Shepherd|← #3060]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3062 The Spirit's Office Towards Disciples|#3062 →]]

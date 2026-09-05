@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 41 — What is the discipline of the church?
-
-Question 41 — What is the discipline of the church?
 
 Answer — It consists in the due exercise of that authority and power which the Lord Christ, in and by his word, hath granted unto the church, for its continuance, increase, and preservation in purity, order, and holiness, according to his appointment. Matt. xvi. 19; Rom. xii. 8; 2 Cor. x. 4–6; Rev. ii. 2, 20.
 
@@ -25,7 +22,6 @@ Secondly, The *means* whereby the Lord Christ doth communicate this power and au
 Thirdly, This power or authority, thus granted and conveyed by Jesus Christ, is to be exercised, as to the *manner* of the administration of discipline, with skill and diligence, Rom. xii. 8; 1 Cor. xii. And the skill required hereunto is a gift, or an ability of mind, bestowed by the Holy Ghost upon men, to put in execution the laws of Christ for the government of the church in the way and order by him appointed, or a spiritual wisdom, whereby men know how to behave themselves in the house of God in their several places, for its due edification in faith and love, 1 Tim. iii. 15. And this ability of mind to make a due application of the laws of the gospel unto persons, times, and actions, with their circumstances, is such a gift of the Holy Ghost as whereof there are several degrees, answering to the distinct duties that are incumbent on the rulers of the church on the one hand, and the members on the other. And where this skill and wisdom is wanting, there it is impossible that the discipline of the church should be preserved or carried on. Hereunto also diligence and watchfulness are to be added, without which ability and power will never obtain their proper end in a due manner, Rom. xii. 6–8.
 
 Fourthly, The *end* of this discipline is the continuance, increase, and preservation of the church, according to the rule of its first institution, 1 Cor. v. 7. This power hath Christ given his church for its conservation, without which it must necessarily decay and come to nothing. Nor is it to be imagined that where any church is called and gathered according to the mind of Christ, he hath left it destitute of power and authority to preserve itself in that state and order which he hath appointed unto it. And that which was one principal cause of the decays of the Asian churches was the neglect of this discipline, the power and privilege whereof the Lord had left unto them and intrusted them withal, for their own preservation in order, purity, and holiness. And, therefore, for the neglect thereof they were greatly blamed by him, Rev. ii. 14, 15, 20, iii. 1, 2; as is also the church of Corinth by the apostle, 1 Cor. v. 2; as they are commended who attended unto the diligent exercise of it, Rev. ii. 2, iii. 9. The disuse, also, of it hath been the occasion of all the defilements, abominations, and confusions that have spread themselves over many churches in the world.
-
 
 ---
 [[BIWG 41 Question 40 — How often is that ordinance to be administered|← Question 40 — How often is that ordinance to be administered?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 43 Question 42 — Unto whom is the power and administration of this discipline|Question 42 — Unto whom is the power and administration of this discipline committed by Jesus Christ? →]]

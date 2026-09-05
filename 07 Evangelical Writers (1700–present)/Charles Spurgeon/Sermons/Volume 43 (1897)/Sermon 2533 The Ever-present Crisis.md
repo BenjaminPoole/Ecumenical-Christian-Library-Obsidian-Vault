@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # The Ever-present Crisis
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2533
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You therefore, Beloved, seeing you know these things before, beware lest you, also, being led away with the error of the wicked, fall from your own steadfastness." 2 Peter 3:17.
 
@@ -89,7 +86,7 @@ This is the typical of the talk that we hear from many in this evil age, "Of cou
 
 "Oh," says one, "what do you mean by thatexpression?" I mean that I wish I could realize the truth of Paul's words, "I am crucified with Christ: nevertheless I live; yet not I, but Christ lives in me." I would gladly have no liberty to do anythingthat is even questionable! I would find my liberty in being perfectly holy. Oh, that God would help each one of us to reach that point! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 PETER 3.
+## Exposition by C. H. Spurgeon: 2 Peter 3
 
 Verse 1. This second epistle, Beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance. The purest minds need stirring up at times. It would be a great pity to stir up impure minds. That would only be to do mischief. But pure minds may be stirred as much as you please and the more the better! There are hallowed memories in the minds of all Christians, but those memories are apt to lie asleep—it is well to ring the alarm bell and wake up all the memories within the Believer's heart, even as Peter did when he wrote—"I stir up your pure minds by way of remembrance."
 
@@ -124,7 +121,6 @@ We contend for every Word of the Bible and believe in the verbal and plenary Ins
 17, 18. You therefore, Beloved, seeing you know these things before, beware lest you, also, being led away with the error of the wicked, fall from your own steadfastness. But grow in Grace. The only way to prevent falling is to grow— the tree that grows will not fall over!
 
 18\. And in the knowledge of our Lord and Savior Jesus Christ To Him be glory both now and forever. Amen. An ascription of praise to Christ is never out of place at the beginning or at the end of an Epistle, or in the middle of it! You may praise the Lord Jesus Christ anywhere, at any time—it shall never be a waste of time to sing unto His name! "To Him be glory both now and forever. Amen."
-
 
 ---
 [[Sermon 2532 God's Love Shamefully Questioned|← #2532]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2534 The Greatest Gift in Time or Eternity|#2534 →]]

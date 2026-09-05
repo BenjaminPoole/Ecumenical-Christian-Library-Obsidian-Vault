@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # A Lesson From The Great Panic
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 690
 
-DELIVERED ON SUNDAY MORNING, MAY 13, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 13, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "The removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain." Hebrews 12:27.
 
@@ -158,7 +157,6 @@ The ship rocks! What a wave was that! What a sea the vessel shipped! She rocks a
 Oh, to rest in assured hope, the hope that makes not ashamed! The hope that shall never be confounded! The hope that when days and years are passed, we shall see the face of Jesus and dwell with Him forever! Courage, Brothers and Sisters—our best portion and richest heritage remains—and cannot be moved. Rejoice in this, and be of good cheer this day!
 
 Ah, but there are some of you who have only what may be moved, and you are, therefore, sure to lose your all! Go away and mourn and lament. Better still, go to the Cross, stand under the foot of it, and you cannot be shaken there. Look up to the flowing of the Savior's blood and trust Him, for nothing can ever shake you then! As for those of us who possess the things which cannot be shaken, let us stand fast and be of good courage. Whatever may happen during this week, let us play the man. Let us show that we are not such little children as to be cast down by what may happen in this poor fleeting state of time. Our country is Immanuel's land! Our hope is above the sky and therefore calm as the summer's ocean! We will see the wreck of everything and yet rejoice in the God of our salvation. The Lord fill us with His peace for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0689 Temptations On The Pinnacle|← #689]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0691 An Immovable Foundation|#691 →]]

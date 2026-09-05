@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Christ in Bonds
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2822
-
-DELIVERED BY C. H. SPURGEON,.
 
 > John 18:24.
 
@@ -79,7 +76,7 @@ God," let every Christian say, "I am Your servant and the son of Your handmaid. 
 
 V. The last lesson is one which I pray that we may all learn whether we are saints or sinners. It is A LESSON OF
 
-WARNING.
+## Warning
 
 Dear Friends, I have tried to picture, though I have done it in a very feeble way, Christ being bound with cords. And now I want to very solemnly say to all of you—Do not bind Christ with cords. Beware, you who are unconverted, that you never bind Christ. You may do so by not reading His Word. You have a Bible at home, but you never read it—it is clasped, laid away in a drawer with your best pocket handkerchiefs. Is it not so? That is another picture of Christ in bonds—a poor shut-up Bible that is never allowed to speak with you—no, not even to have half a word with you, for you are in such a hurry about other things that you cannot listen to it! Untie the cords—let it have its liberty! Commune with it sometimes. Let the heart of God in the Bible speak to your own heart. If you do not, that clasped Bible, that shut-up Bible—that precious Book hidden away in the drawer—is Christ in prison and, one day, when you little expect it, you will hear Christ say, "Inasmuch as you did this to the greatest of all My witnesses, you did it unto Me." You kept Moses, Isaiah, Jeremiah and all the Prophets in prison! And all the Apostles and the Master, Himself, you bound with cords and you would not hear a word that they had to say! Let not that be true of any one of you, dear Friends.
 
@@ -115,7 +112,7 @@ And do you not think, dear Friends, that we who love Christ bind His hands when 
 
 And do you not think that whenever we are inconsistent in over conduct—especially in the family—we tie the hands of Christ? There is a father praying for his children that they may live before God. Five minutes later, listen to Him! Why, his boys hate the sight of him! He is such a tyrant to them that they cannot endure him. There is a mother, too, who is praying God to save her daughters. She goes upstairs and pleads very earnestly for them. Yet she comes down and lets them have whatever they ask for and never says a word by way of checking them in their evil courses! She acts like a female Eli to everyone of them—is not she tying the hands of Christ? What can she expect but that God, who works according to rules, will be more likely to let her unkind kindness influence her girls for evil, than to answer her prayers for their conversion? Let us be holy, dear Friends, for then we shall, by faith, see the holy God freely moving and working among us—and doing great deeds to His own Glory! So may He do, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: BY JOHN 18:12-14,19-26; MARK14:53-65; LUKE22:63-71; 23:1.
+## Exposition by C. H. Spurgeon: By John 18:12-14,19-26; Mark 14:53-65; Luke 22:63-71; 23:1
 
 The passages which we are about to read from three of the Evangelists, make up a continuous narrative of our Lord's trial before the high priest.
 
@@ -144,7 +141,6 @@ Mark 14:53, 54. And they led Jesus away to the high priest: and with him were as
 Luke 22:63-71. And the men that held Jesus mocked Him, and struck Him. And when they had blindfolded Him, they struck Him on the face, and asked Him, saying, Prophesy, who is it that struck You? And many other things blasphemously spoke they against Him. And as soon as it was day, the elders of the people and the chiefpriests and the scribes came together and led Him into their council, saying, Are You the Christ? Tell us. And He said unto them, If I tell you, you will not believe: and if I also ask you, you will not answer Me, nor let me go. Thereafter shall the Son of Man sit at the right hand of the power of God. Then they all said, Are You, then, the Son of God? And He said unto them, You say that I am. And they said, of what need we any further witness? For we ourselves have heard from His own mouth.
 
 Luke 23:1. And the whole multitude of them arose, and led Him unto Pilate.
-
 
 ---
 [[Sermon 2821 'Until He Finds It'|← #2821]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2823 One Trophy for Two Exploits|#2823 →]]

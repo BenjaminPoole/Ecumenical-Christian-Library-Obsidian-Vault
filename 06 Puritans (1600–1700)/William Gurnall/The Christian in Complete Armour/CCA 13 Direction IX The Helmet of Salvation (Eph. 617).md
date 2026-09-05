@@ -9,7 +9,6 @@ tags:
   - puritans
   - william-gurnall
 ---
-
 # Direction IX: The Helmet of Salvation (Eph. 6:17)
 
 ## Direction Ninth. The Several Pieces of the Whole Armour of God.
@@ -420,15 +419,13 @@ Third Consideration. Consider the *horrid cruelty of this act*, for thee, by thy
 
 In a word, those that discover abundance of wisdom and discretion in ordering their worldly affairs, you would wonder how rational they are, what an account they will give why they do this, and why that; when it comes to the business of heaven and the salvation of their souls, they are not like the same men. So that, were you to judge them only by their actings herein, you could not believe them to be men. And is it not sad, that the soul, which furnisheth you with reason for the despatch of your worldly business, should have no benefit itself from the very reason it lends you to do all your business with. This, as one well saith, is as if the master of the house, who provides food for all his servants, should be himself kept by them from eating, and so remain the only starved creature in the house. And is not this the sad judgment and plague of God, that is visibly seen upon many, and those that go for wise men too, *stilo mundi* —after the manner of the world? Are not their souls, which give them understanding, to provide for back and belly, house and family, themselves starving in the meantime? being kept by the power of some lust from making use of their understanding and reason so far as to put them upon any serious and vigorous endeavour for the salvation of them. How then can souls that are so treated prosper?
 
-— SDB
-
+## — Sdb
 
 ---
 [^1]: *Outhees, i.e.* outcry.—Chaucer.
 [^2]: The text has the “Blessed Paul,” and cites, I Peter 1:3, 4. However, correcting it to read Peter creates problems in the rest of the paragraph. For he then continues to cite the beginnings of Paul’s epistles for his examples. All that I can do, for continuity’s sake, is to change Paul to Peter here, and in the next sentence change the word ‘his’ to Paul. This should make it more uniform and clear up the misunderstanding that is bound to arise because of it. Also, this has the advantage of making the fewest changes to Gurnall’s text.
 [^3]: *Crank,* in this case, bold, self‑confident.—Ed.
 [^4]: *Asseverate:* to state seriously or positively. — SDB
-
 
 ---
 [[CCA 12 Direction VIII The Power of Faith (Second General Part)|← Direction VIII: The Power of Faith (Second General Part)]] · [[The Christian in Complete Armour|Contents]] · [[CCA 14 Direction X The Sword of the Spirit (Eph. 617)|Direction X: The Sword of the Spirit (Eph. 6:17) →]]

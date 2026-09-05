@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 ## SOME REFLECTIONS AND OBSERVATIONS
 
 #### ON THE PRECEDING
@@ -141,7 +140,7 @@ bethel, *in New Jersey, Jan.* 14, 1748.
 
 “ I am your obedient and dutiful son,
 
-“JOB STRONG.”
+## “Job Strong.”
 
 “P. S. Since the date of this, I have had opportunity to attend upon another of Mr. Brainerd’s catechetical lectures: and truly I was convinced, that Mr. Brainerd did not complain before of his people’s defects in answering to questions proposed, without reason: for although their answers at that time exceeded my expectations very much; yet their performances at this lecture very much exceeded them.”
 

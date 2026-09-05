@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Christ's Sympathy With His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2885
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For in that He Himself has suffered, being tempted, He is able to aid those who are tempted." Hebrews 2:18.
 
@@ -127,7 +124,7 @@ To die in the Lord is a Covenant blessing,
 
 Since Jesus to Glory through death led the way."
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 6:1-18.
+## Exposition by C. H. Spurgeon: 2 Corinthians 6:1-18
 
 2 Corinthians 6:1. We then, as workers together with Him, beseech you also that you receive not the Grace of God in vain. God's servants are called to take many different positions. They are ambassadors under one aspect. They are workers under another. As ambassadors, they are ambassadors for Christ. As workers, they are workers together with God. Oh, how much it costs to win a soul! I mean, not only how much it cost the Savior, so that He broke His very heart over it and poured out His life's blood—but also how much it must cost the messenger of peace! He must know how to beseech and implore—and when even this fails, he must still go on toiling, laboring as a worker together with God.
 
@@ -148,7 +145,6 @@ EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 6:1-18.
 14\. For what fellowship has righteousness with unrighteousness? And what communion has light with darkness? You must be in the same world with them, but keep yourself distinct from them. Go not into their society by your own choice, nor seek your pleasure with them.
 
 15-18. And what concord has Christ with Belial? Or what part has he that believes with an infidel? And what agreement has the Temple of God with idols? For you are the temple of the living God as God has said, I will dwell in them, and walk in them; andl will be their Godand theyshall be Mypeople. Therefore come out from among them, and be you separate, says the Lord, and touch not the unclean thing; and I will receive you, and will be a Father unto you, and you shall be My sons and daughters, says the Lord Almighty.
-
 
 ---
 [[Sermon 2884 'Who Is on the Lord's Side'|← #2884]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2886 Restless! Peaceless!|#2886 →]]

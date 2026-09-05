@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 112
-
-**PSALM 112**
 
 As the majority of mankind expect to prosper by evil deeds, and as they generally endeavor to enrich themselves by plunder, fraud, and every species of injustice, the prophet enumerates the blessings of God which attend those who worship him in purity, in order that we may know that, in aiming at a life of piety and morality, we shall not lose our reward. [^1]
 

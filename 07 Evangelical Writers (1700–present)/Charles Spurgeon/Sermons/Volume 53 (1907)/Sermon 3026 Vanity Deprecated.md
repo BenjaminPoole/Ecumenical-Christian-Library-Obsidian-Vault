@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Vanity Deprecated
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3026
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Turn away my eyes from beholding vanity; and quicken me in Your way." Psalm 119:37.
 
@@ -117,7 +114,7 @@ And now, tonight, in the recollection of that strange vision of the shadow of de
 
 Oh, will not you be persuaded to think on those things that make for your eternal peace? The gates of Heaven are up there! The gates of Hell are down yonder! The Cross of Christ points you to Heaven—follow its guidance! Look to the wounds of Jesus! These are the gates of pearl through which you must enter Heaven. But if you will turn to your vanities and to your sins and follow them—and delight yourself in worldly pleasures—then Hell is your portion as surely as you sin! May the Lord give faith to those who have none and help us who have believed through Grace, to walk in His ways—and unto His name shall be the Glory, world without, end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:81-88.
+## Exposition by C. H. Spurgeon: Psalm 119:81-88
 
 Verse 81. My soul faints for Your salvation: but I hope in Your word. The Psalmist was so full of longing, hungering, thirsting, for God's salvation that he had come even to faintness through the strength of his desire. Yet, in his faintness, he was not too far gone to hope—and we, also, have good ground for hoping and believing that God, who gave us His Word, will stand to it, for He is both able and willing to fulfill all that He has promised!
 
@@ -136,7 +133,6 @@ What a short yet comprehensive prayer the Psalmist prayed when he uttered those 
 88\. Quicken me after Your loving kindness; so shall I keep the testimony of Your mouth "Give me more true spiritual life, inspirit me, revive me, 'quicken me.' At this very moment, good Lord, if I am cold, and half frozen, and almost dead, yet since I am like the trees whose life is in them even when they have lost their leaves, give me a new springtime—'Quicken me after Your loving kindness .'" We all need this quickening if we are to hold on and hold out to the end and, blessed be the name of the Lord—
 
 "New supplies each hour we meet While pressing on to God."
-
 
 ---
 [[Sermon 3025 Fifteen Years After!|← #3025]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3027 God's Time for Comforting|#3027 →]]

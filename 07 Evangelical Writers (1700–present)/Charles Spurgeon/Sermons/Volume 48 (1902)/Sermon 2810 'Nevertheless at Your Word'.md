@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # 'Nevertheless at Your Word'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2810
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Nevertheless at Your word." Luke 5:5.
 
@@ -85,7 +82,7 @@ But, more than this, no man fully does his Master's will without getting a disti
 
 May God add His blessing, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 10:19-39.
+## Exposition by C. H. Spurgeon: Hebrews 10:19-39
 
 Verses 19-22. Having therefore, brethren, boldness to enter the Holiest by the blood of Jesus, by a new andliving way, which He has consecrated for us, through the veil, that is to say, His flesh; andhaving an High Priest over the house of God; let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water The place of the Christian is that of the nearest conceivable access to God, for "the Holiest" is "the Holy of Holies"—that innermost part of the tabernacle to reach which the high priest had to pass through the outer court, through the court of the priests and then through the beautiful veil which concealed the Mercy Seat. At the death of Christ that veil was torn from top to bottom, so now there is nothing to keep us back from the Mercy Seat! We, therefore, have boldness and liberty in that way, "to enter the Holiest by the blood of Jesus"—where the high priest, himself, could only go once in the year—we may go at all times! The veil has not been merely lifted up, for a while, and then dropped again. It is not rolled up ready for future use—it is torn in two—destroyed! Since Jesus has died, there is now no separation between the Believer and his God except by means of such a veil as our base unbelief may please to hang up. The crimson way of Christ's shed blood lies open to all Believers! Therefore, "let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water,"
 
@@ -128,7 +125,6 @@ Then, in your early Christian life, you feared nothing and nobody so long as you
 39\. But we. What a consoling end this is to the chapter! It ought to comfort every Believer in Christ who has been distressed by the earlier verses! "But we"—
 
 39\. Are not of them who draw back unto perdition; but of them that believe to the saving of the soul May that be true of all of us, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2809 Faith—life|← #2809]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2811 Moving|#2811 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Why Men Cannot Believe in Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1245
-
-DELIVERED BY.
 
 > "How can you believe, which receive honor one of another, and seek not the honor that comes from God only?" John 5:44.
 
@@ -136,7 +133,6 @@ God grant it may not be so, but instead thereof, may many of you come to believe
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 5. HYMNS FROM "OUR OWN HYMN BOOK"—387, 572, 541.
 
 Adapted from The C.H. Spurgeon Collection, Ages Software, 1.800.297.4307.
-
 
 ---
 [[Sermon 1244 Faith's Ultimatum|← #1244]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1246 The Blessings Of Following On|#1246 →]]

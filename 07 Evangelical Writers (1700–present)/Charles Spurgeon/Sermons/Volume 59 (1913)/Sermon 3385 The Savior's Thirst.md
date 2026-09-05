@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Savior's Thirst
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3385
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, I thirst." John 19:28.
 
@@ -61,7 +58,7 @@ all we who love Christ knew more of this hungering and thirsting after the redem
 
 Thus much upon this point, so far as it concerns our Lord, Himself. Turn not away your eyes, but look and listen as He cries, "I thirst." Very briefly, now let us notice—
 
-II. OUR RELATIONSHIP AND OUR BEARING TOWARDS THIS CRY.
+## II. Our Relationship and Our Bearing Towards This Cry
 
 I shall address myself on this head to the people of God. And the first remark is this—Brothers and Sisters, because Jesus Christ said, "I thirst," you and I are delivered from that terrible thirst which once devoured us. We were awakened by the Holy Spirit, some of us, years ago, to perceive our danger. We had not known before what sin was—what a destroying fever it was. We had cherished it in our bosom, but when we began to discover our desperate position, we were compelled to thirst and cry for mercy. With some of us, our thirst was very great—we could scarcely sleep—and as for our meals, we left them untouched often in the agony of our despair. I do remember how my soul chose strangling rather than life! It seemed so hard to live under the frown of God, awakened to a sense of sin, but unable to get rid of the sin! Now at this moment that thirst has gone, for we have received the adoption, the salvation, the forgiveness! You came to Jesus as you were with all your thirst and you stooped down and drank of the crystal stream. And now you rejoice with unspeakable joy because your thirst is gone! Oh, clap your hands for very joy at the remembrance of it! Be humble that you should need His thirst to save you from thirst, but oh, be glad to think that the work is done and that you shall never thirst again as you did then, for, "he that drinks," says Christ, "of the water that I shall give him shall never thirst, for it shall be in him a well of water springing up unto everlasting life." Your insatiable desires are stayed! The horseleech within you that cried, "Give, give," at last is satisfied! The cravings of conscience that had been awakened by the love of God are satisfied! Now, oh, joy, your sorrow is over! Your peace, like a river has come, and your righteousness is like the waves of the sea! Live happily, live joyously! Tell others what Christ has done for you. Eat not your morsel alone, but publish to the world that through the thirst of a dying Savior you have ceased to thirst!
 
@@ -77,13 +74,13 @@ Let me also invite you to cultivate another thirst—a thirst like that which we
 
 My last point is a very heavy one. I could wish it has not to be delivered. It is addressed—
 
-III. TO UNGODLY MEN AND WOMEN.
+## III. To Ungodly Men and Women
 
 If the Lord Jesus Christ thirsted when He only carried the sins of others, what thirst will be upon you when God shall punish you for your own sins?Either 'Christ must thirst for you, or you mush thirst forever, and ever, and ever! There is but one alternative—Justice must be vindicated through a Substitute, or it must be glorified in your everlasting destruction! Think what it will be to have your sweet cup and your flowing bowl all put away from you, and not a drop of water to cool your tongue—to have your dainty meat and your gay festivals forever abolished—no light for your eyes, no joy for any one of the senses of your body and your souls made to suffer unutterable woe!
 
 I shall not stay to picture, even in Christ's own words, the agony of lost spirits. But I bid you keep this on your minds. If Christ, who was God's Son, suffered so bitterly for sins that were not His own, how bitterly must you, who are not God's sons, but God's enemies, suffer for sins that are your own? And you must so suffer unless Christ, the Substitute, stands for you! He was no Substitute for all, but only for His own people. You say to me, "Did He stand for me?" I can tell you if you can answer this question, "Do you trust Jesus Christ? Will you now trust Him?" If so, a simple childlike faith in Jesus will bring you salvation! Now, remember, if you believe, all your sins are laid upon Christ and, therefore, they can never be laid upon you! If you believe, Christ was punished in your place and you can never be punished, because he was punished for you! Substitution—this is the groundwork of our confidence! Because He was accursed, we cannot be accursed, for, if we believe in Him, all that He suffered was for us—and we stand absolved before the Judgment Seat of Christ. The Lord give you this simple faith in the Redeemer this very night! And then He will see in you of the travail of His soul and the thirst of His great heart will be satisfied! The Lord bless you. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 51; 32; MATTHEW26:59-68; LUKE 23.
+## Exposition by C. H. Spurgeon: Psalms 51; 32; Matthew 26:59-68; Luke 23
 
 Let us read two Psalms of penitence. Repentance and faith go hand in hand all the way to Heaven. Repenting and believing make up a large measure of the Christian life. First, let us read the 51st Psalm, penned by David after his great sin with Bathsheba, when, by the instrumentality of Nathan, he had been led to repentance. What if we have not fallen into any gross open sin? Yet, perhaps if we could see our hearts as God sees them, we should be as much ashamed as the Psalmist was when to the music of his sighs and groans, he poured out this Psalm.
 
@@ -144,7 +141,6 @@ Verse 1, 2, And the whole multitude of them arose and led Him unto Pilate. And t
 17-20. (For of necessity hie must release one unto them at the feast). And they cried out all at once, saying, Away with this Man, and release unto us, Barabbas! (Who for a certain sedition made in the city, and for murder, was cast into prison). Pilate, therefore, willing to release Jesus, spoke again to them. He seems to have gone backward and forward many times, desiring to save the life of Christ, but not having the moral courage to do it.
 
 21-26. But they cried, saying, Crucify Him, crucify Him! And he said unto them the third time, Why? What evil has He done? I have found no cause of death in Him: I will therefore chastise Him, and let Him go. And they were instant with loud voices, requiring that He might be crucified. And the voices of them and of the chief priests prevailed. And Pilate gave sentence that it should be as they required. Andhe released unto them him that for sedition andmurder was cast into prison, whom they had desired. But he delivered Jesus to their will. Andas they ledHim away, they laidhold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the Cross, that he might bear it after Jesus
-
 
 ---
 [[Sermon 3384 Growth in Faith|← #3384]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3386 Christ Our Peace|#3386 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Right Replies To Right Requests
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 959
 
-DELIVERED ON LORDS-DAY MORNING, NOVEMBER 6, 1870,.
+*Delivered on Lords-Day Morning, November 6, 1870*
 
 > "If a son shall ask for bread of any of you that is a father, will he give him a stone? Or if he asks for a fish, will he for a fish give him a serpent? Or if he shall ask for an egg, will he offer him a scorpion? If you then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask Him?" Luke 11:11-13.
 
@@ -164,7 +163,6 @@ The Spirit of God is the power of the Church and speaks with might in her. My lo
 I desire to see, and I think you all do, more unity among the Churches. It is a pity when Churches fall out, and chide, and fight. Ecclesiastical quarrels are generally more bitter than any other. Do not so much pray for unity as put it all into this, "Lord, give the Holy Spirit. For if the Holy Spirit is in us and abounds, we shall not be divided—the Church of God will feel the unity of life." Life it is that creates true unity among the people of God. If there is anything else that we long to see in the Churches, and I confess there are a thousand things—for I would desire to see them increased with men as with a flock—I would desire to see them built up in an intelligent understanding of the Doctrines of Grace.
 
 I desire to see them looking for the coming of Christ and ready for His advent. If we desire all these, let us ask that the Holy Spirit may be more plenteously given—and when this prayer is answered, as answered it must be—then shall we see all that our soul desires. I do, therefore, very earnestly, over and over again, ask you to make tomorrow a day of real prayer. And if you cannot be here in body, yet all day long cry mightily unto the God of Sabaoth, our Father, who has spared not His own Son, but freely delivered Him up for us all—who will also with Him freely give us all things, if we know how to ask aright.
-
 
 ---
 [[Sermon 0958 Dei Gratia|← #958]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0960 Iconoclast|#960 →]]

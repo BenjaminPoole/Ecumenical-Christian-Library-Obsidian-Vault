@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # A New Creation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3467
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He who sat upon the throne said, Behold I make all things new." Revelation 21:5.
 
@@ -29,7 +26,7 @@ I do not know but it is sometimes as well, when one has been plunged in sorrow, 
 
 Looking at the text in this light, I think it speaks to everyone here present. Would you begin anew, lo, there is One who can help you to do so! From the Throne of God where sits the once Crucified but now Glorified Savior, there comes a whisper of hope to each and every soul who would be made new and would begin life anew. "Behold I make all things new." In trying to bring out the thoughts contained in this exclamation from the Throne—from the Emperor of the Universe, from the court of the King of Kings—we shall first speak, very briefly, of the new creation. Secondly, we should bid you adore the great Regenerator And, in the third place, we shall ask you to behold with attention, the fact before you, with a view of receiving benefit from it Observe the text speaks of—
 
-I. A NEW CREATION.
+## I. A New Creation
 
 "I make." That is a Divine Word. "I make all things." That, also, is Divine. "I make all things new." That seems to reach the third stage, wherein the thrice holy God appears glorious in the highest degree! "I make all things new." This our Lord Jesus Christ has done upon the greatest scale! We must view His purpose. It is the purpose and intention of the Lord Jesus to make this world entirely new. You recollect how it was made at first—pure and perfect. It sang with its
 
@@ -67,7 +64,7 @@ Now I believe the way for us to regard that happy day in which He will make all 
 
 I wish we had more time to enter fully into this part of the subject. We have not and, therefore, we must leave it, but may you and I have a part in this new creation! Turning to our second point, I want you to—
 
-II. ADORE THIS GREAT REGENERATOR.
+## II. Adore This Great Regenerator
 
 He says, "Behold I make all things new." Behold Him! He is a Man dressed in the common garments of the poor! He has no form nor comeliness and when you shall see Him there is no beauty in Him that you should desire Him. He has come to make the world new. He has no soldiery, no book of laws, no new philosophy. He has come to make the world new and to do this He has brought with Him—what? Why, Himself He spends a life of weariness and sorrow among those who despise Him—and if you want to know first and foremost how He makes all things new, you must see Him sweating great drops of blood in the Garden—that is the blood of the new world which He is pouring forth! You must see Him bound, scourged, spat upon, led to the accursed tree! While God's wrath for sin is yet unspent, the world cannot be new, but when that wrath on account of sin is all poured upon the head of the great Substitute, then the world stands in a new relation to God and it can be a new world! See the Savior, then, in groans and pangs which cannot be described, bearing the curse of God, for He made Him to be sin for us, though He knew no sin. The curse fell on Him, as it is written, "Cursed is every one that hangs on a tree." It pleased the Father to bruise Him. He has put Him to grief. He has made His soul to be an offering for sin." That dolorous pain, then, of the Master, was the world's new-making! It was then and there that the world was born-again. No mother's pangs, when she brought forth a man-child, were such as those of Christ when He brought forth the new creation! It was there in the travail of His soul—did you ever catch that idea, "the travail of His soul"?—it was there that the new world was born! "Behold I make all things new" is a mysterious voice from the broken heart of a dying Savior! From the empty tomb, as He rises, I hear it come in silvery notes, "Behold I make all things new." You must trace the birth of the New Creation up to the grave of our Lord Jesus Christ, to the place where the Cross stood and where His body lay.
 
@@ -93,7 +90,7 @@ Let me just say a few words to those of you who love the Lord. You may have some
 
 Courage, my Brothers and Sisters. We will not entertain any more doubt about Christ's power to save! Rather, by God's Grace, may we henceforth believe more in Him and, according, to our faith, so shall it be done unto us. If we can only trust Him for those of our friends whose faults seem to us few and light, our little trust will reap little reward. But if we can go with strong faith in a great God, and bring great sinners in our arms and put them down before this mighty Regenerator of men and say, "Lord, if You will, You can make them new"—and if we will never cease the pleading till we get the blessing, then we shall see ever-accumulating illustrations of the fact that Jesus makes all things new—and calling up the witnesses of His redeeming power, we shall cry in the ears of a drowsy Church and an incredulous world, "Behold, behold, behold! He makes all things new." The Lord give us to see it! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 1:1-14.
+## Exposition by C. H. Spurgeon: Revelation 1:1-14
 
 Verse 1. The Revelation of Jesus Christ, which God gave unto Him, to show unto His servants things which must shortly come to pass; and He sent and signified it by His angel unto His servant John. Twice is that title used— "servant." This is a revelation to Christ's servants, made first unto His servant, John. There is no higher honor under Heaven than to be the servant of such a Master. His servants we are this day, and we find in that service perfect freedom and the highest imaginable delight. This, then is to us.
 
@@ -138,7 +135,6 @@ stead of being used practically to humble us before God, and to teach us to lean
 14\. And His eyes were as a flame of fire. Discerning, burning into everything.
 
 Upon a throne of light, One of a human mother born, In perfect Godhead bright."
-
 
 ---
 [[Sermon 3466 A Warning to Believers|← #3466]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3468 Consolation for Poor Petitioners|#3468 →]]

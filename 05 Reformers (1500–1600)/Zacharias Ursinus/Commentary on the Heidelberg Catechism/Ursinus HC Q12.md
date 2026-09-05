@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 12. Since, then, by the righteous judgment of God, we deserve temporal and eternal punishment, is there no way by which we may escape that punishment, and be again received into favor?
-
-**Question 12. Since, then, by the righteous judgment of God, we deserve temporal and eternal punishment, is there no way by which we may escape that punishment, and be again received into favor?**
 
 Answer. God will have his justice satisfied; and therefore we must make this satisfaction, either by ourselves, or by another.
 
-**EXPOSITION**
+## **Exposition**
 
 Having shown, in the first part of the Catechism, that all men are in a state of eternal condemnation, on account of not having rendered the obedience which the law of God requires, we are next led to inquire whether there is, or may be, any way of escape or deliverance from this state of misery and death? To this question the catechism answers, that deliverance may be granted, if satisfaction be made to the law and justice of God, by a punishment sufficient for the sin that has been committed. The law binds all, either to obedience, or if this is not rendered, to punishment; and the performance or payment of either is perfect righteousness, which God approves of in whomsoever it is found.
 
@@ -38,13 +35,13 @@ IV. Whether a perfect deliverance may be expected:
 
 V. How it is accomplished.
 
-**I. WHAT THE DELIVERANCE OF MAN IS**
+## **I. What the Deliverance of Man Is**
 
 The word deliverance is relative; for every deliverance is from something to something, as from captivity to liberty. As now all men, by nature, are the slaves of sin, satan, and death, we cannot better and more correctly understand what the deliverance of man is, than by a consideration of what his misery consists in. The misery of man consists, first, in the loss of righteousness, and in inbred corruption, or sin; and secondly, in the punishment of sin. His deliverance, therefore, from this misery, requires, first, the pardon and abolishing of sin, and a restoration of the righteousness lost: and secondly, a release from all punishment and misery. As therefore, the misery of man consists of two parts—sin and death—so his deliverance consists of two parts—a deliverance from sin and death. Deliverance from sin includes the pardon of sin, that it may not be imputed unto us, and an abolishing of sin by the renewing of our nature, that it may not reign in us. Deliverance from death, is a deliverance from despair, and a sense of the wrath of God—from the calamities and miseries of this life; and also from death, both temporal and spiritual.
 
 From these things it is easy to perceive what we are to understand by the deliverance of man. It consists in a perfect deliverance from all the miseries of sin and death, which the fall has entailed upon man, and a full restoration of righteousness, holiness, life, and eternal felicity, through Christ; which is begun in all the faithful in this life, and will be fully perfected in the life to come.
 
-**II. WHETHER SUCH A DELIVERANCE BE POSSIBLE**
+## **II. Whether Such a Deliverance Be Possible**
 
 That this deliverance of man from the ruins of the fall was possible, may be inferred from a consideration:
 
@@ -72,7 +69,7 @@ Obj. 4. That is impossible which we have not the power of escaping. We have not 
 
 These and similar objections Adam was enabled, through the promise of the seed of the woman bruising the serpent's head, to repel and overcome. We, however, who live at the present day, can see, and understand much more clearly, the solution of these difficulties, than Adam could, inasmuch as we know certainly, from the gospel and the event itself, as well as from our own consciousness, that the deliverance of man was not only possible, and would take place at some future time, as Adam himself saw, but that it is also already accomplished by Christ. Hence the deliverance of man is, and always was, possible with God.
 
-**III. WHETHER DELIVERANCE BE NECESSARY AND CERTAIN**
+## **III. Whether Deliverance Be Necessary and Certain**
 
 Although God was not under the least obligation to deliver man from the misery of sin, but was free to leave all men in death, and save none; for "Who hath first given to him, and it shall be recompensed unto him again," (Rom. 11:35); yet it may correctly be said, that man's deliverance was and is necessary,—understanding by this term not an absolute, but a conditional necessity, as it is called. This is proven:
 
@@ -84,7 +81,7 @@ Although God was not under the least obligation to deliver man from the misery o
 
 4. Because God is more inclined to mercy than to wrath. But in the punishment of the wicked his wrath is manifested; much more, therefore, will he manifest his mercy in the salvation of the righteous.
 
-**IV. WHETHER A PERFECT DELIVERANCE MAY BE EXPECTED**
+## **IV. Whether a Perfect Deliverance May Be Expected**
 
 This deliverance of man is perfect in this life, as it respects the commencement of it; but in the life to come, it will be perfect also as it respects the consummation of it. Now, it is perfect in all its parts, being a deliverance from the evil both of guilt and of punishment; then, it will be perfect also in the degrees of it, when all tears shall be wiped away from our eyes, when the perfect image of God will be restored in us, and God shall be all, and in all. This is proven:
 
@@ -92,7 +89,7 @@ This deliverance of man is perfect in this life, as it respects the commencement
 
 2. Because God will punish the wicked most severely, that they may by these punishments fully satisfy his justice. He will, therefore, also perfectly deliver the godly, since he is more inclined to mercy than wrath. Neither is the benefit of Christ more imperfect, or of less force than th sin of Adam. This would be the case, if he did not deliver us perfectly because we have lost all righteousness and salvation in Adam. A perfect deliverance is, therefore, to be expected, but by degrees, as it has been shown. In this life it is perfect; in the resurrection it will be more perfect; and in glorification it will be most perfect.
 
-**V. HOW THIS DELIVERANCE IS ACCOMPLISHED**
+## **V. How This Deliverance Is Accomplished**
 
 The deliverance of which we have now spoken is accomplished: 1. By a full and sufficient satisfaction for sin. There is such a satisfaction, when the punishment which is inflicted on account of sin is equivalent to that which is eternal. 2. By abolishing sin, and renewing our nature, which is done by restoring in us the righteousness and image of God which we have lost, or by the perfect regeneration of our nature. Both of these are necessary to our deliverance.
 

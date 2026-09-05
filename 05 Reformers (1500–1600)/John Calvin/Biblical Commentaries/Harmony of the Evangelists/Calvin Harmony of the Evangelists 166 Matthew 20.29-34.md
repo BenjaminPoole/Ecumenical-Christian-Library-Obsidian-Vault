@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 166. Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43
-
-Matthew 20:29-34; Mark 10:46-52;  
-Luke 18:35-43
 
 **29**. And while they were departing from Jericho, a great multitude followed him. **30**. And, lo, two blind men sitting near the road, when they heard that Jesus was passing by, cried aloud, saying, Have mercy on us, O Lord, thou Son of David. **31**. And the multitude rebuked them, that they might be silent; but they cried out the more, saying, Have mercy on us, O Lord, thou Son of David. **32**. And Jesus stood, and called them, and said, What do you wish that I should do to you? **33**. They say to him, Lord, that our eyes may be opened. **34**. And Jesus, moved with compassion, touched their eyes; and immediately their eyes received sight, and they followed him.
 

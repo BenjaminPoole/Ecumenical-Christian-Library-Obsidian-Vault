@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Heart'S Ease
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 647
 
-DELIVERED ON SUNDAY MORNING, AUGUST 27, 1865,.
+*Delivered on Sunday Morning, August 27, 1865*
 
 > Psalm 112:7.
 
@@ -164,7 +163,6 @@ Since you have your God left, Christian, let the text be true of you, "He is not
 The stars in Heaven fought against Sisera, remember, and they fight against you. The sweet influence of the Pleiades you cannot know, and heavenly blessings you can claim no share. Oh, that you could hide yourself beneath the wings of God! Do you desire it? Then remember who it was that said, "How often would I have gathered you as a hen gathers her chickens under her wings."
 
 Fly to the Savior! There are His wounds. They will afford you shelter. He died to save the lost! For the rebellious He has obtained mercies. Give Him your soul to save! Trust Him to work a good work in you and for you and you shall never die, but, with holy joy and confidence shall live in the light of His Countenance forevermore! The Lord bless this sermon to the staying of His people's hearts upon Himself and His shall be the praise. Amen.
-
 
 ---
 [[Sermon 0646 In Whom Are You Trusting|← #646]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0648 Degrees Of Power Attending The Gospel|#648 →]]

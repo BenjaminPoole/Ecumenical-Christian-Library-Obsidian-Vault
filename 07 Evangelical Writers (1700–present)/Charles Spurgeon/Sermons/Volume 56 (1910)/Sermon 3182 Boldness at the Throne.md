@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Boldness at the Throne
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3182
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let us therefore come boldly unto the Throne of Grace." Hebrews 4:16.
 
@@ -126,7 +123,6 @@ God has not left off being a prayer-hearing and prayer-answering God, so come to
 What I have been saying to you, I have said far more to myself than to anyone else here, for if there is one who needs more prayer than all the rest, I am that one, burdened as I am with incessant service and overwhelming responsibilities. Yet, after taking to myself more of the sermon than I pass on to any of you, I venture to say that there is not one person in this building whose condition does not make prayer necessary for him. I do not know what the special need of each one of you may be, but I think everyone here who seriously thinks about the matter, must say, "Well, if there is anybody in this place who can do without prayer, I am not the one! I must pray! There is something about my case that drives me to the Mercy Seat." Thank God that it is so, but be sure that you go to the Throne of Grace that you may obtain the help you need.
 
 It is a blessed trouble that drives us to the Mercy Seat, yet one would scarcely wish to have the kind of trouble that Mr. Fraser, a good old Scotch minister, had. He had a wife who tormented him dreadfully, yet, when someone jestingly said to him that he would not drink to her health, he replied, "I hope she will live long, for she has driven me to my knees ten times a day when, otherwise, I might not have prayed." One would not wish to be driven to prayer in such a fashion as that, yet I venture to say that Mr. Fraser was a gainer by it! Real prayer must make us more like our Master. "Let us therefore come boldly unto the Throne of Grace, that we may obtain mercy, and find Grace to help in time of need."
-
 
 ---
 [[Sermon 3181 A Sermon for a Winter's Evening|← #3181]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3183 Cheer for Despondency|#3183 →]]

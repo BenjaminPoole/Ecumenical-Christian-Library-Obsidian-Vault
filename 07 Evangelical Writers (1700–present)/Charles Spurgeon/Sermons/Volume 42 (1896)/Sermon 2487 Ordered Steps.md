@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Ordered Steps
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2487
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Order my steps in Your Word: and let not any iniquity have dominion over me." Psalm 119:133.
 
@@ -134,7 +131,6 @@ Matthew 15:1. Then came to Jesus scribes and Pharisees, which were of Jerusalem,
 12\. Then came His disciples, and said to him, Do You know that the Pharisees were offended, after they heard this saying? The wonder was that they were not offended before! It certainly was not a matter of concern to Christ whether they were offended or not—He would not tone down the Truth of God in order to please them.
 
 13\. But He answered and said, Every plant which My heavenly Father has not planted shall be rooted up. Every teacher whom God has not sent will find his teaching contradicted by Christ. The Truth of God is like a spade—it turns up the soil for that life to grow in it which should grow—and it is also the means of killing the weeds. "Every plant which My heavenly Father has not planted shall be rooted up." May we all be plants of His right-hand planting! Amen.
-
 
 ---
 [[Sermon 2486 Overcoming Christ|← #2486]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2488 Christ's Love to His Spouse|#2488 →]]

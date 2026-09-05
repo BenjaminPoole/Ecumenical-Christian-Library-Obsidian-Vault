@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 76. Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39
-
-**MATTHEW 9:14-17; MARK 2:18-22; LUKE 5:33-39**
 
 **14**. Then come to him the disciples of John, saying, For what reason do we and the Pharisees fast often, while thy disciples do not fast? **15**. And Jesus said to them, Can the children of the bridegroom [^1] mourn, so long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken from them, and then shall they fast. **16**. And no man putteth a piece of fresh cloth on an old garment: for that which fills up takes from the garment, and the rent is made worse. **17**. Nor do they put new wine into old bottles; otherwise the bottles burst, and the wine is spilt, and the bottles are lost: but they put new wine into new bottles, and both are at the same time preserved.
 

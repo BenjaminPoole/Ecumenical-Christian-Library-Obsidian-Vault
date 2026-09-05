@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Come From the Four Winds, O Breath!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2246
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He said to me, Prophesy unto the wind, son of man, and say to the wind, Thus says the Lord God; Come from the four winds, O Breath, and breathe upon these slain, that they may live." Ezekiel 37:9.
 
@@ -120,7 +117,6 @@ Be willing to have the Holy Spirit as He wills to come. Let Him come as a north 
 We yearn to see all of you thus made to live. I am praying in my very soul that He would come to every one of you. I do not read that Ezekiel saw part of the valley of dry bones live and the rest remain dry bones, but that they all lived and stood upon their feet—an exceedingly great army! I long to see you all blessed at this service. Why should it not be so? Oh, that the Spirit of God would come and touch every one of us! Many of you are alive, already, blessed be His name! Well, you can have more life, for Christ has come not only that you might have life, but that you "might have it more abundantly." I beseech you, let the blessed Spirit enter into greater fullness. But pray mightily that every soul here that is dead may now feel the sacred Breath and begin to live! Then I shall not only hear of one, as last Thursday, but news shall be brought of many upon whom the Divine Spirit has sweetly come and led them to Jesus, to be saved now, and to be saved forever! God grant it! Amen.
 
 Portion of Scripture Read before Sermon—Ezekiel 37.
-
 
 ---
 [[Sermon 2245 Living, Loving, Lasting Union|← #2245]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2247 Praise for the Gift of Gifts|#2247 →]]

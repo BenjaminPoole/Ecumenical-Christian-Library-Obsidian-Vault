@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## 1 Corinthians 16:1-7
 
@@ -125,7 +124,7 @@ Now, that they may be the more inclined to put honor upon *that house,* (for as 
 
 What he immediately *adds* — *Maranatha,* is somewhat more difficult. Almost all of the ancients are agreed, that they are Syriac terms. [^28] *Jerome,* however, explains it: *The Lord cometh;* while others render it, *At the coming of the Lord,* or, *Until the Lord comes.* Every one, however, I think, must see how silly and puerile is the idea, that the Apostle spoke to Greeks in the Syriac tongue, when meaning to say — *The Lord has come.* Those who translate it, *at the coming of the Lord,* do so on mere conjecture; and besides, there is not much plausibility in that interpretation. How much more likely it is, that this was a customary form of expression among the Hebrews, when they wished to excommunicate any one. For the Apostles never speak in foreign tongues, except when they repeat anything in the person of another, as for example, *Eli, Eli, lammah sabathani,* (Matthew 27:46,) *Talitha cumi,* (Mark 5:41,) and *Ephphata,* (Mark 7:34,) or when they make use of a word that has come into common use, as *Amen* — *Hosanna.* Let us see, then, whether *Maranatha* suits with excommunication. Now Bullinger, [^29] on the authority of Theodore Bibliander, has affirmed, that, in the Chaldee dialect, *Maharamata* has the same meaning as the Hebrew term חרם, *cherem, (accursed,)* [^30] and I was myself at one time assured of the same thing by Wolfgang Capito, [^31] a man of blessed memory It is nothing unusual, however, for the Apostles to write such terms differently from the way in which they are pronounced in the language from which they are derived; as may be seen even from the instances brought forward above. Paul, then, after pronouncing an anathema on those who *do not love Christ,* [^32] deeply affected with the seriousness of the matter, as if he reckoned that he had not said enough, added a term that was in common use among the Jews, and which they made use of in pronouncing a sentence of anathema — just as if, speaking in Latin, I should say, “I excommunicate thee,” but if I add — “and pronounce thee an anathema,” this would be an expression of more intense feeling. [^33]
 
-**END OF THE COMMENTARIES ON THE FIRST EPISTLE.**
+## **End of the Commentaries on the First Epistle.**
 
 ---
 [[Calvin 1 Corinthians 15|← 1 Corinthians 15]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/1 Corinthians/1-corinthians-index|Contents]]

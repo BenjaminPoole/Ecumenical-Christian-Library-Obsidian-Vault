@@ -11,26 +11,21 @@ tags:
   - classical
   - flavius-josephus
 ---
-
 # Against Apion
 
 [[Josephus — The Wars of the Jews|← previous]] · [[Josephus — Works|Flavius Josephus]] · [[Josephus — The Life of Flavius Josephus|next →]] · [[Historical Works index|Historical Works]]
 
 ---
 
-AGAINST APION.
+## Against Apion
 
 [1]
 
 By Flavius Josephus
 
-
 Translated by William Whiston
 
-
-
-
-BOOK 1.
+## Book 1
 
 1. I Suppose that by my books of the Antiquity of the Jews, most
 excellent Epaphroditus, [2] have made it evident to those who peruse
@@ -1553,10 +1548,7 @@ book is arisen to a competent length, I will make another beginning, and
 endeavor to add what still remains to perfect my design in the following
 book.
 
-
-
-
-APION BOOK 1 FOOTNOTES
+## Apion Book 1 Footnotes
 
 [1] This first book has a wrong title. It is not written against Apion,
 as is the first part of the second book, but against those Greeks in
@@ -1823,11 +1815,7 @@ life in those ages. See Antheat. Rec. Part II. pages 966, 1019, 1020.
 
 [26] That is the meaning of Hierosyla in Greek, not in Hebrew.
 
-
-
-
-BOOK II.
-
+## Book II
 
 1. In the former book, most honored Epaphroditus, I have demonstrated
 our antiquity, and confirmed the truth of what I have said, from the
@@ -3329,10 +3317,7 @@ thee, Epaphroditus, who art so great a lover of truth, and by thy means
 to those that have been in like manner desirous to be acquainted with
 the affairs of our nation.
 
-
-
-
-APION BOOK 2 FOOTNOTES
+## Apion Book 2 Footnotes
 
 [1] The former part of this second book is written against the calumnies
 of Apion, and then, more briefly, against the like calumnies of

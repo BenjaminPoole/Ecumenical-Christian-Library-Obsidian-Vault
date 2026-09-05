@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Arrows Of The Lord'S Deliverance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 569
 
-DELIVERED ON TUESDAY EVENING, MARCH 22, 1864, BY THE REV. C. H. SPURGEON, AT THE OPENING OF UPTON CHAPEL, LAMBETH..
+*Delivered on Tuesday Evening, March 22, 1864, by the Rev. C. H. Spurgeon, at the Opening of Upton Chapel, Lambeth*
 
 > 2 Kings 13:19.
 
@@ -115,7 +114,7 @@ It is these people, who may be Christians, but who are only half Christians. The
 
 My Brothers and Sisters, what do we think of ourselves if we have ever in any measure crucified the Lord afresh and put Him to open shame? It is not only inconsistent Christians who do this but those Christians who do not seek to come up to the standard—who are contented to be poor in Grace when they might be rich. I believe that such persons bring much dishonor to Christ by their doubting, by their hard thoughts of Christ, by their miserable countenances and often, too, by their want of zeal, their want of prayer and their shallowness in the ways of God.
 
-Look abroad and see how busy men are in the world! When a man wants to make money, see how he rises early and sits up late and eats the bread of carefulness! It is wonderful what ingenuity men put forth to get a fortune, what desper- ate attempts they make! How they will go to India and sweat under the burning sky and brave the fever there. Why, there are thousands of England's sons who do this year by year. See how at the North Pole bold and brave men have sacrificed their lives to force a passage. Men have been willing, in scientific experiments, to sacrifice social comforts, risk their health and forfeit their lives!
+Look abroad and see how busy men are in the world! When a man wants to make money, see how he rises early and sits up late and eats the bread of carefulness! It is wonderful what ingenuity men put forth to get a fortune, what desperate attempts they make! How they will go to India and sweat under the burning sky and brave the fever there. Why, there are thousands of England's sons who do this year by year. See how at the North Pole bold and brave men have sacrificed their lives to force a passage. Men have been willing, in scientific experiments, to sacrifice social comforts, risk their health and forfeit their lives!
 
 It seems to me that everybody is enthusiastic except Christians, and that men can get their blood hot on any subject except religion! In these days the ice has been given to the Church of God and the fire has been cast upon the world. Look at the devil's advocates, how they compass sea and land to make one proselyte. If you are dead and dull, they will not be so here at your next-door neighbors—St. George's Cathedral! You may be careless about the poor, but they will not be! You may, perhaps, cease to be much in prayer and much in action, but you will find that they will not cease their incantations!
 
@@ -144,7 +143,6 @@ Now that will not be the case here for years to come. I hope it may never be the
 I am sure there is room for great improvement in the best of us. O Lord, what a spark is my love to You! Oh that You would blow it into a flame, till it were as coals ofjuniper! To use the words of an old minister—"David said, 'The zeal of Your house has eaten me up,' but it will be a long time before some people are eaten up. It has not begun to nibble at them yet and there is no fear of their being eaten up."
 
 Now I would like to see a man "eaten up" with his religion! I would that the Christian would give himself up so completely to the mighty whirlwind of Divine Grace that it might carry him away and make him but as a particle of straw in its tremendous course! The Lord grant you power and Grace thus to be given up to Him and thus to serve Him! May God now add His own blessing, for Christ Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0568 What God Cannot Do!|← #568]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0570 The First Five Disciples|#570 →]]

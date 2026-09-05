@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 32. Letter XXXI. To Master John Sybart in the University of Vienna
-
-LETTER XXXI. TO MASTER JOHN SYBART IN THE UNIVERSITY OF VIENNA
 
 (July 1, 1413)
 

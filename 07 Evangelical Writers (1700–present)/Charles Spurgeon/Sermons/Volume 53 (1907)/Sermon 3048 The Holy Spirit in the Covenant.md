@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Holy Spirit in the Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3048
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will put My Spirit within you." Ezekiel 36:27.
 
@@ -80,7 +77,6 @@ heart shall be effectually changed, that he may become a trophy of the Redeemer'
 Once more, how useless is it for any persons to suppose that they can be saved without the Holy Spirit! Ah, dear Friends, men sometimes go very near to salvation without being saved—like the poor man who lay by the side of the pool of Bethesda, always close to the water, but never getting in. How many changes in outward character there are which very much resemble conversion but, not having the Spirit in them, they fail after all! Deathbed repentances are often looked upon as very sincere, although too frequently, we fear, they are but the first gnawing of the worm that never dies. I have read, this week, an extraordinary anecdote, told by Dr. Campbell, of a woman who, many years ago, was condemned to death for murdering her child and was hung in the Grass Market at Edinburgh. She very diligently improved the six weeks allowed her by the Scottish law, previous to her execution, and the ministers who were with her continually gave it as their opinion that she died in the sure and certain hope of salvation. The appointed day came. She was hung, but it being very rainy, and no awning having been prepared, those who had the charge of her execution were in a great hurry to complete it and get under shelter—so she was cut down before the legal time and, as the custom is, the body was given up to her friends to be buried. A coffin was provided and she was moved in it to East Lothian where her husband was going to bury her. They stopped at a public-house on the road, to refresh themselves, when, to their great surprise and alarm, in rushed a boy and said he heard a noise in the coffin! They went out and found that the woman was alive! The vital powers had been suspended, but the life was not extinct and the jolting of the cart had restored her circulation. After a few hours she became quite well. They moved their residence and went to another part of the country. But the sad part of the tale is that the woman was as bad a character afterwards as she ever was before and, if anything, worse. She lived as openly in sin and despised and hated religion even more than she had previously done.
 
 This is a most remarkable case. I believe that you would see that the great majority of those who profess to repent on their deathbeds, if they could rise again from their graves, would live a life as profane and godless as ever. Rely on this— it is nothing but the Grace of the Spirit of God that makes sure work of your souls. Unless He shall change you, you may be changed, but it will not be a change that will endure! Unless He shall put His hand to the work, the work will be marred, the pitcher spoiled on the wheel. Cry unto Him, therefore, that He may give you the Holy Spirit, that you may have the evidence of a real conversion and not a base counterfeit! Take heed, Sirs, take heed! Natural fear, natural love, natural feelings are not conversion! Conversion, in the first instance, and by all subsequent edification, must be the work of the Holy Spirit and of Him alone! Never rest comfortable, then, until you have the Holy Spirit's operations most surely effected in your hearts!
-
 
 ---
 [[Sermon 3047 If So—what Then|← #3047]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3049 'Going and Weeping'|#3049 →]]

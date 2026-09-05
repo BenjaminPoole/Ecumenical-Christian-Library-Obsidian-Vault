@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Glory!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1721
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 20, 1883,.
+*Delivered on Lord's-Day Morning, May 20, 1883*
 
 > "Who has called us unto His eternal glory." 1 Peter 5:10.
 
@@ -132,7 +131,6 @@ Last of all, it should move us to a dauntless courage. If this glory is to be ha
 Will you not draw your swords this morning and fight against sin till you have overcome it? Do you not desire to win Christ and to be found in Him? Oh, let us now begin to feel a passion for eternal glory and then, in the strength of the Spirit, and in the name of Jesus, let us press forward till we reach it! Even on earth we may taste enough of this glory to fill us with delight!
 
 The glory which I have described to you dawns on earth though it only comes to its noontide in Heaven—the glory of sanctified character, the glory of victory over sin, the glory of relationship to God, the glory of union with Christ— these are all to be tasted in a measure here below. These glories send their beams down even to these valleys and lowlands. Oh, to enjoy them, today, and thus to have earnests and foretastes of Glory! If we have them, let us go singing on until we reach the place where God's eternal glory shall surround us. Amen.
-
 
 ---
 [[Sermon 1720 Christ in You|← #1720]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1722 The First Setting Up of the Bronze Serpent|#1722 →]]

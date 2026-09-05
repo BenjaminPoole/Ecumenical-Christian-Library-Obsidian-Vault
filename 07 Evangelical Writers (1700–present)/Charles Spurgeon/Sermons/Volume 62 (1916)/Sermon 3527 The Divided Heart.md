@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # The Divided Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3527
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Their heart is divided; now they are held guilty." Hosea 10:2.
 
@@ -27,7 +24,7 @@ While they were persecuted—compelled to worship Baal—God, as it were, had co
 
 And now I shall take the language of the text and apply it in other ways. "Their heart is divided; now they are held guilty."
 
-I. THIS MAY BE TRUE OF ANY CHRISTIAN CHURCH.
+## I. This May Be True of Any Christian Church
 
 It has long been my joy, Beloved in the Lord, that our heart has not been divided. We have walked together these many years in holy fellowship and, imperfect as we are, yet there have not been divisions among us. There has been no division about Doctrine. We have agreed upon the great Truths of God. There has been, I believe, no division about who shall be the greatest. We have been content, each one, to occupy his place in the Church and to work on. It is not our goodness that has made it so—it is only the power of God's Spirit which has kept us, who otherwise might readily have been divided—kept us as the heart of one man in sacred unity. Oh, let it always be so—let it always be so! May these eyes be closed in the darkness of death long before I shall see you contending, the one against the other! If it should ever happen that I should be unfit to go in and out among you to your edification, may I be laid aside and some other found round whom you may rally as one man, that by any means and every means the Church may be kept in its integrity—one in heart—a threefold cord which cannot be broken! Let each man endeavor to avoid giving offense to his brother. Let us
 
@@ -43,7 +40,7 @@ distinguished as a speaker. I saw that even when he sought to win souls, it was 
 
 But the stress of my text I intend to lay tonight upon one particular case, and that is—
 
-III. THE SEEKING SINNER.
+## III. The Seeking Sinner
 
 There are some persons who are awakened and are seeking salvation, but they are not likely to find it because their heart is divided and they will be found guilty. Very briefly, and very briefly, indeed, I mean to speak upon this disease, upon the evil of it, and suggest a few thoughts by way of a cure for it.
 
@@ -89,7 +86,7 @@ Who scorn the joys above!"
 
 May God in His infinite mercy prevent anybody here from daring the wrath of God by following after Christ with a divided heart—trifling with his Maker, trifling with his soul, trifling with Heaven, trifling with Hell! May we be in earnest, each one of us, and may we all meet at the right hand of God through Sovereign Grace. The Lord bless you all, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 10:1-6.
+## Exposition by C. H. Spurgeon: Hosea 10:1-6
 
 Verse 1. Israelis an empty vine, he brings forth fruit unto himself Not to his God. It matters not how much fruit we bear—if it is for self, we are fruitless. A thing which is good in itself may lose all its goodness because stained with a selfish motive. We are to live unto God—and we must always be watchful about this—otherwise we may be doing much, and doing nothing. "Israel is an empty vine, he brings forth fruit unto himself."
 
@@ -112,7 +109,6 @@ break down their altars. He shall spoil their images." Sometimes this is done in
 5, 6. For the people thereof shall mourn over it And the priests thereof that rejoiced in it, for the glory thereof, because it is departed from it It shall be also carried unto Assyria for a present to King Jareb. The spiteful king.
 
 6\. Ephraim shall receive shame, and Israel shall be ashamed of his own counsel. These golden calves excited the desires of the king of Assyria, and he took them away. These gods were baits to their enemies, instead of basis for their confidence. They were carried away captive of the people with them—their god, captive—their god melted down to make images, or to make money for the king of Assyria! Ah, what shame does God pour upon idolaters! And what shame He will pour upon us if we have any confidence except the unseen God and if we rely anywhere but upon the eternal Covenant of His Immutable Grace! Oh, Brothers and Sisters, let us try to flee away from that which is so tempting to sense— confidence in an arm of flesh—and let our sole and only trust be in Him who made the heavens and the earth, and in His Son, Jesus Christ!
-
 
 ---
 [[Sermon 3526 The New Wine of the Kingdom|← #3526]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3528 A Promise and a Providence|#3528 →]]

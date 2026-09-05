@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # To the Rescue
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3462
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Shall the prey be taken from the mighty, or the lawful captive be delivered?" Isaiah 49:24
 
@@ -25,7 +22,7 @@ IN the days when this prophecy was written, there were certain great nations of 
 
 God declared that they should be delivered, and so they were. In due time they came up without price or reward into their own land. God had promised it by His Word, and by His Providence He performed it. Leaving, however, this primary literal interpretation, we intend to draw your attention to the spiritual sense, and to ask the question concerning some of you whom it most intimately concerns. If it should appear that you are "prisoners," and that, according to the conditions of your captivity, you are "lawful captives," you will see and feel the urgency of the matter! "Is it possible for you to be set free?" Is there any arm that has strength enough to tear off your fetters? We will begin by describing—
 
-I. THE NATURAL CAPTIVITY IN WHICH EVERY UNREGENERATED MAN IS HELD.
+## I. The Natural Captivity in Which Every Unregenerated Man Is Held
 
 Every creature of Adam born, who has not been saved by Grace, is a prisoner to sin. He is a lawful captive to God's Law. His nature is in thralldom under the power and dominion of sin, for that nature is evil. The man does not sin by accident—he sins because he wills to sin! He wishes to do it—he takes delight in it—he casts his heart into it. As the fish naturally swims in the stream, so the unconverted man finds sin congenial to his depraved instincts. He chooses to do that which is evil, and revels therein! He omits to do that which is good, and recoils from it. Who shall set free the man whose nature is thus enslaved? Moreover, the chains of habit become more and more highly riveted on those who indulge their lusts, but never restrain their passions. Time was when you hesitated whether to follow the pleasure that allured you, or to heed the conscience that would restrain you. Then you chose the wrong—and now the Ethiopian might sooner change his skin, or the leopard his spots, than you can change your guilty propensities—so hard is it for the man accustomed to do evil to learn to do well! As well try to reverse the course of the sun, or make the waters of Niagara return to their source, or check the north wind in its fury, or stop the rising tide, as hope to make men cease from ways which by constant repetition and steady accumulation over a long course of years have acquired the force of a natural disposition and produced an unmistakable type of character! Unhappily, too, custom, of which it has been well said that it is the law of fools, gives sanction to vices which would otherwise be abhorrent. A man will willingly consent to be the slave of sin because his fellow man sins after the same fashion. He must do this and that because his neighbors or his comrades do the
 
@@ -53,7 +50,7 @@ So far the story is all black, and, like Ezekiel's roll, it is written within an
 
 Can you be delivered? Can you be redeemed? We now turn to the brighter side of our picture—to the more cheerful aspect of our text—
 
-II. CAN THE PREY BE RESCUED? CAN THE CAPTIVE BE DELIVERED? WE ANSWER, HE CAN.
+## II. Can the Prey Be Rescued? Can the Captive Be Delivered? We Answer, He Can
 
 Yes, Sinner, you can! Your nature can be radically changed. Your habits can be snapped. Custom can lose its spell. Your besetting sins can be put under your feet and those vices which you now cling to with tenacity, you can be made to hate with deepest abhorrence! And this can be done for you, done now, done without preparation. But where is He that can achieve it? Ah, He is present with us here, though not to be seen by the eye—the Holy Spirit of God! Be You worshipped, O most Holy Spirit! There is one whom God has been pleased to give to His Church, who has the power to enlighten the understanding, to renew the will, to change the affections—in a word, to make us "new creature in Christ Jesus." That Holy Spirit is God! Know that unless the same God who first made Adam and Eve in the Garden comes and makes us new, we can never be saved! There must be as great a miracle performed upon you, dear Friend, as if you should be killed, put into the grave, and then be raised up again to live anew. God must create you a second time! He must quicken you in Christ Jesus unto good works! "Is that ever done?" asks one. It is often done! There are hundreds here on whom that strange transformation has passed, so that they are no longer what they were. "Old things have passed away, and all things have become new." You cannot work this of yourself. No priest can effect it, but the Holy Spirit can produce it. He can complete it NOW, so great is His power—so Divine!
 
@@ -73,7 +70,7 @@ I do hope, as I beat the recruiting drum, there will be some that will come to t
 
 God bless the Word to everyone of you for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 4:1-20.
+## Exposition by C. H. Spurgeon: Romans 4:1-20
 
 Verses 1-3. What shall we say, then, that Abraham our father, aspertaining to the flesh, has found? For if Abraham were justified by works, he has whereof to glory, but not before God. For what says the Scripture? Abraham believed
 
@@ -104,7 +101,6 @@ God, and it was counted unto him for righteousness. He stands as the great Fathe
 16, 17. To the end the promise might be sure to all the seed; not to that only which is of the Law, but to that also which is of the faith of Abraham; who is the father of us all What a God we trust in—a God who quickens the dead! We have no faith unless we believe in such a God as this. We shall need such a God in order to bring us safely to His right hand at last.
 
 18-20. Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall your seed be. And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb. He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God. Men seem to think that only workers can give glory to God, but there is more glory given to God by one drachma of faith than by a ton of works! After all, works usually generate conceit and pride in us. But faith lays itself low before its God and gives to Him all the glory. God is never more glorified than He is by the believing confidence of His people when difficulties seem to come in the way. He was "strong in faith, giving glory to God."
-
 
 ---
 [[Sermon 3461 The Welcome Visitor|← #3461]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3463 Why Men Do Not Believe|#3463 →]]

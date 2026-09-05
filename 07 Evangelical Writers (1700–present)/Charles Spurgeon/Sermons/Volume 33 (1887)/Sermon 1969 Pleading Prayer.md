@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Pleading Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1969
-
-DELIVERED BY.
 
 > "Remember the Word unto Your servant upon which You have caused me to hope." Psalm 119:49.
 
@@ -126,7 +123,6 @@ soul hope for that which He will never receive? Can Your Holy Spirit tantalize m
 Have you come into a position from which there seems to be no escape? Do not ask to escape, but cry, "Remember the Word unto Your servant, upon which You have caused me to hope."
 
 You, poor sinner over yonder, that has never found Christ, think of this gracious Word, "Him that comes to Me I will in no wise cast out." Lay hold on that loving declaration and hope in it! And then say, "Lord, remember the Word unto Your servant, upon which You have caused me to hope." The Lord bless you all and give you a joyful hope in His sure promise, for His name's sake! Amen and amen.
-
 
 ---
 [[Sermon 1968 Jubilee Joy—or, Believers Joyful In Their King|← #1968]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1970 Loving Persuasion|#1970 →]]

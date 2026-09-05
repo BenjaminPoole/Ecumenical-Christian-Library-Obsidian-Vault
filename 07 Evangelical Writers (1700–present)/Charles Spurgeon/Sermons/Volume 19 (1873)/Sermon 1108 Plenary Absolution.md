@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Plenary Absolution
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1108
-
-DELIVERED BY.
 
 > "As far as the east is from the west, so far has He removed our transgressions from us." Psalm 103:12.
 
@@ -158,7 +155,6 @@ As for you who have never received that pardon, does not the mention of it make 
 "Here's pardon for transgressions past, It matters not how black their cast, And O my Soul, with wonder view, For sins to come here's pardon too." God be praised! Let His Word be believed! Let His name be trusted and then He shall be praised! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 103.
-
 
 ---
 [[Sermon 1107 A Call To Worship|← #1107]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1109 The Light of the World|#1109 →]]

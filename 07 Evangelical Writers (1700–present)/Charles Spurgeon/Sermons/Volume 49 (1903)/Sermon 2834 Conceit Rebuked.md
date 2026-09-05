@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Conceit Rebuked
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2834
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Should it be according to your mind?" Job 34:33.
 
@@ -91,9 +88,9 @@ Will to manage it." Should it be according to your mind? "No, Lord never let it 
 
 IV. So now, in the last place, dear Friends, I am going to say to you, let us try, by the help of God's Holy Spirit, to
 
-CHECK THAT SPIRIT WHICH LEADS MEN TO THINK THAT ALL THINGS SHOULD BE ACCORDING TO
+## Check that Spirit Which Leads Men to Think that All Things Should Be According To
 
-THEIR MIND.
+## Their Mind
 
 First, because it is impracticable. As I have already shown you, it is quite impossible that all things should be according to the mind of men so long as their mind is in its natural carnal state.
 
@@ -115,7 +112,7 @@ I know that I have been speaking to some who do not love the Lord. I wonder what
 
 He says that whoever believes on the Lord Jesus Christ shall not perish, but shall have everlasting life. May the Eternal Spirit bring you to believe in the Lord Jesus now—and if you do so believe you shall be saved at once! But do not think that the plan of salvation will be altered to please you. It will not be made according to your mind. There is the Gospel—take it or leave it, but change it you cannot! May the Lord grant that you may accept it and rejoice in it for His dear Son' s sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS 6:6-18.
+## Exposition by C. H. Spurgeon: Galatians 6:6-18
 
 Verses 6, 7. Let him that is taught in the word communicate unto him that teaches in all good things. Be not deceived; God is not mocked: for whatever a man sows, that shall he also reap. Paul puts that in connection with the support of those who are teachers of the Truth. And I have sometimes thought that in certain Churches where God's ministers have starved, it was not very surprising that the people should starve, too. They thought so little about the pastor that they left him in need, so it was not strange that, as they sowed little, they reaped little. One of these misers said that his religion did not cost him more than a shilling a year—and somebody replied that he thought it was a shilling wasted on a bad thing, for his poor religion was not worth even that small amount!
 
@@ -138,7 +135,6 @@ emphatic and carry it out with great diligence. As I have written this with my o
 15-17. For in Christ Jesus neither circumcision avails anything, nor uncircumcision, but a new creature. And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God. From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus. I have the marks of the whips upon my body. I am the branded slave of Jesus Christ. There is no getting the marks out of me. I cannot run away. I cannot deny that He is my Master and my Owner! "I bear in my body the marks of the Lord Jesus."
 
 18\. Brethren, the Grace of our Lord Jesus Christ be with your spirit Amen. And that is our benediction to you. The Lord fulfill it to each one of you!
-
 
 ---
 [[Sermon 2833 Lessons on Divine Grace|← #2833]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2835 Patients for the Great Physician|#2835 →]]

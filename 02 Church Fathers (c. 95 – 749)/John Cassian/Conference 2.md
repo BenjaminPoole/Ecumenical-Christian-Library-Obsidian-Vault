@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 2
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-SECOND CONFERENCE OF ABBOT MOSES.
+## Second Conference of Abbot Moses
 
 ## Chapter 1
 

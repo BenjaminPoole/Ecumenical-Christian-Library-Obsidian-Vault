@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 14
 
 ## Lecture Fifty Fifth
 
-**CHAPTER 14**
+## **Chapter 14**
 
 ## Jeremiah 14:1
 
@@ -103,7 +102,7 @@ After having said these things, he subjoins the contrast to which I have referre
 
 ## Prayer Lecture 55
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are taught by the Teacher whom thou hast set over us, to seek our daily bread from thee, we may know that whenever thou chastisest us with scarcity, we are justly visited by thy hand; and shouldest thou at any time deal severely with us, may we never cease to implore thy mercy, and feel assured that thou wilt ever be merciful and propitious to us, provided we decline not from the way which thou hast pointed out to us, even that thy Son will reconcile us to thee, and that his blood is our only satisfaction; and may we not look to anything else, even in seeing our salvation, but that thy name may be more and more glorified through Jesus Christ our Lord. — Amen.
 
@@ -189,7 +188,7 @@ Hence he concludes, that they spoke *falsehood and impostures, and divination an
 
 ## Prayer Lecture 56
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou dealest so kindly with us as daily to shew to us our sins and to exhort us to repent, and teachest us that thou art ready to give us forgiveness, — O grant, that we may not be of a refractory mind, nor flee away from thee, while thou so kindly invitest us to thyself, but learn seasonably to repent, and be touched with the fear of thy judgment, so that we may truly and from the heart seek that reconciliation, which has been procured for us by the blood of thine only — begotten Son; and as we can bring nothing of our own, may we submissively humble ourselves before thee, and also by faith embrace the gift of thine only — begotten Son. — Amen.
 
@@ -268,7 +267,7 @@ We now then understand what the Prophet means; and hence we learn how foolishly 
 
 ## Prayer Lecture 57
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though we have been once reconciled to thee, and reconciliation has been testified to us in thy gospel, we yet cease not daily to provoke thy wrath, — O grant, that we may at least groan, and undissemblingly so condemn our vices, that we may be touched with real and deep sorrow, and thus learn to flee, not only once in our life, but every moment, to thy mercy, that thou mayest be reconciled to us, and not deal with us according to our merits; but since thou hast been once pleased to embrace us with paternal love, for the sake of thy only — begotten Son, continue this favor to us, until having at length been cleansed from all filth and pollution, we shall become partakers of thy celestial glory, through Christ our Lord. — Amen.
 

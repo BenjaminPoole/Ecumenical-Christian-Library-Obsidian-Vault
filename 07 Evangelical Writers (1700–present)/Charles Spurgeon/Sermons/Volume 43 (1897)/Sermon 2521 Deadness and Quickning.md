@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Deadness and Quickning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2521
@@ -119,7 +118,7 @@ And heal it, if it be.'
 
 'Quicken me, O Lord, quicken me!'" And He will do it, for He has declared, "Him that comes to Me, I will in no wise cast out." May we all come to Him, now, and then shall we all meet in the Glory Land, by-and-by, through His Grace! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:33-40.
+## Exposition by C. H. Spurgeon: Psalm 119:33-40
 
 We have here some of the jottings from David's pocketbook, the notes of his experience as recorded in his diary. The whole Psalm is a great case full of golden rings. They all fit, one into the other, but each ring is also perfect in itself!
 
@@ -140,7 +139,6 @@ Verse 33. Teach me, O Lord, the way of Your statutes; and I shall keep it unto t
 40\. Behold, I have longed after Your precepts. That is a sure sign of a true child of God. Hypocrites may long after the promises, but only the true-born child of God longs after the precepts. If your chief desire is to be holy, that is a desire which comes from the Spirit of God. A bad man may desire to go to Heaven. A desperately wicked man may wish to die the death of the righteous. But he who intensely longs to live a godly, righteous life is, indeed, the subject of Divine Grace. I am sure that there are some of us here who can say that we have made no bargains with God, nor put in any conditions whatever—if He will but help us to live holy lives, He may do what He wills with us! Our one desire is this— "Behold, I have longed after Your precepts."
 
 40\. Quicken me in Your righteousness. Let that be the prayer of everyone of us. Amen.
-
 
 ---
 [[Sermon 2520 A Program Never Carried Out|← #2520]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2522 After Two Days Is the Passover|#2522 →]]

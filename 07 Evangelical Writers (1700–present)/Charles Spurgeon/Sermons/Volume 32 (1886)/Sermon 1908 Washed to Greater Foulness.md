@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Washed to Greater Foulness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1908
@@ -115,8 +114,7 @@ I want you to notice a simple fact which seems to me to have escaped your observ
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Job 9.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—556, 476, 602.
-
+## Hymns from "Our Own Hymn Book"—556, 476, 602
 
 ---
 [[Sermon 1907 'The Tender Mercy of Our God'|← #1907]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1909 A Seasonable Exhortation|#1909 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/04
 ---
-
 # A Call to the Unconverted
 
 *New Park Street Pulpit* · Sermon No. 174
@@ -55,7 +54,7 @@ When Christ with clouds shall come.”
 
 I think I see that terrible day. The bell of time has tolled the last day. Now comes the funeral of damned souls. Your body has just started up from the grave, and you unwind your cerements, and you look up. What is that I see? O! what is that I hear? I hear one dread, tremendous blast, that shakes the pillars of heaven, and makes the firmament reel with affright; the trump, the trump, the trump of the arch-angel shakes creation’s utmost bound. You look and wonder. Suddenly a voice is heard, and shrieks from some, and songs from others—he comes—he comes—he comes; and every eye must see him. There he is; the throne is set upon a cloud, which is white as alabaster. There he sits. ‘Tis He, the Man that died on Calvary—I see his pierced hands—but ah, how changed! No thorn-crown now. He stood at Pilate’s bar, but now the whole earth must stand at his bar. But hark! the trumpet sounds again: the Judge opens the book, there is silence in heaven, a solemn silence: the universe is still. “Gather mine elect together, and my redeemed from the four winds of heaven.” Swiftly they are gathered. As with a lightning flash, the angel’s wing divides the crowd. Here are the righteous all in-gathered; and sinner, there art thou on the left hand, left out, left to abide the burning sentence of eternal wrath. Hark! the harps of heaven play sweet melodies; but to you they bring no joy, though the angels are repeating the Saviour’s welcome to his saints. “Come ye blessed, inherit the kingdom prepared for you from the foundations of the world.” You have had that moments respite, and now his face is gathering clouds of wrath, the thunder is on his brow; he looks on you that have despised him, you that scoffed his grace, that scorned his mercy, you that broke his Sabbath, you that mocked his cross, you that would not have him to reign over you; and with a voice louder than ten thousand thunders, he cries, “Depart, ye cursed. And then—No, I will not follow you. I will not tell of quenchless flames: I will not talk of miseries of the body, and tortures for the spirit. But hell is terrible; damnation is doleful. Oh, escape! escape! Escape, lest haply, being where you are, you should have to learn what the horrors of eternity must mean, in the gulf of everlasting perdition. “Cursed is the man that hath not continued in *all things* that are written in the book of the law to do them.”
 
-III. DELIVERANCE PROCLAIMED.
+## III. Deliverance Proclaimed
 
 “You have condemned us all,” cries one. Yes, but not I—God has done it. Are you condemned? Do you feel you are to night? Come, again, let me take thee by the hand, my brother: yes, I can look round upon the whole of this assembly, and I can say, there is not one now in this place whom I do not love as a brother. If I speak severely unto any of you, it is that you may know the right. My heart, and my whole spirit are stirred for you. My harshest words are far more full of love than the smooth words of soft-speaking ministers, who say, “Peace, peace,” where there is no peace. Do you think it is any pleasure to me to preach like this? Oh? I had far rather be preaching of Jesus; his sweet, his glorious person, and his all-sufficient righteousness. Now, come, we will have a sweet word before we have done. Do you feel you are condemned? Do you say, “O God, I confess thou wouldest be just, if thou shouldest do all this to me?” Dost thou feel thou canst never be saved by thine own works, but that thou art utterly condemned through sin? Dost thou hate sin? Dost thou sincerely repent? Then, let me tell thee how thou mayest escape.
 
@@ -72,7 +71,6 @@ Some sure support against despair.”
 If you can not pray such a long prayer as that, I tell you what to go home and say. Say this, “Lord Jesus, I know I am nothing at all; be thou my precious all in all.”
 
 Oh, I trust in God there will be some to-night that will be able to pray like that, and if it be so, ring, the bells of heaven; sing, ye seraphim; shout, ye redeemed; for the Lord hath done it, and glory be unto his name, for ever and ever.
-
 
 ---
 [[Sermon 0173 The Death of Christ|← #173]] · [[Volume 04 (1858)|Volume 04 (1858) Contents]] · [[Sermon 0175 The Two Talents|#175 →]]

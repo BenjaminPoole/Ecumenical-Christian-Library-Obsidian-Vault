@@ -10,20 +10,19 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 2. Facts and Observations Concerning the Life of Wycliffe, Part 1
 
-FACTS AND OBSERVATIONS
+*Facts and Observations*
 
-CONCBRNING
+## Concbrning
 
-THE LIFE OF WYCLIFFE.
+## The Life of Wycliffe
 
-FACTS AND OBSERVATIONS
+## Facts and Observations
 
-CONCBRNINO
+## Concbrnino
 
-THE LIFE OF WYCLIFFE.
+## The Life of Wycliffe
 
 The biographers of Wycliffe all mention the year 1324 as that of his birth." The place of his nativity still bears liis name — a village about six miles from the town of Richmond in Yorkshire. The name of Wycliffe, like that of William of Wykeham, is evidently a local one, being written John of Wycliffe ; and in England there is no locality bearing the name of Wycliffe beside the place above mentioned. From the time of the Norman Conquest the parish of Wycliffe had been the residence of a family bearing that name, who were lords of the manor of Wycliffe, and patrons of its rectory. During the lifetime of our Reformer there were two rectors ofthe parish who bore this name : Robert Wycliffe, presented to the living by Catherine, relict of Roger Wycliffe; and William Wycliffe, presented by John de Wycliffe. In 1606 the possessor of this ancient property lost his only son, and by the marriage of his daughter, his patrimony • passed to a family of another name.*
 
@@ -31,7 +30,7 @@ Dr. Zouch, rector of Wycliffe in the last century, in the inscription attached t
 
 ' Tanner, Bibliotheca Brit 767. Lewis, chap. i. Baber ii. * Life and Opinions of Wycliffe, i. 229 — 324. Appendix i.
 
-11 FACTS AND OBSERVATIONS
+## 11 Facts and Observations
 
 Keformer without liesitancy — as ** a native of this parish." Birkheck, a clerg)^man, who officiated in an adjoining parish during the reign of Cluirles I. speaks no less decidedly on this point in a work intitled the ** Protestant Evidence."** But our best authority is that of Leland, who wrote his " Collectanea" about a hundred and fifty years after the decease of Wycliflfe, and mentioning the parish of WyclifTe, describes it as the place where " Wycliffe the heretic was born."
 
@@ -45,7 +44,7 @@ It must be admitted that the name of the Reformer does not occur in the existing
 
 ^ Itinerary, v 99. ^ MS. On Wedded Men and Wives, C.C.C. Cambridge.
 
-CONCERNING THE LIFE OF WYCLIFFE. HI
+## Concerning the Life of Wycliffe. Hi
 
 It will appear the more probable that the Reformer spoke thus, from remembrances connected with his own history, if we bear in mind, that no examination of his writings has served to bring to light anything concerning his intercourse with his kindred. What Leland has said concerning Spresswell, accordingly, is not of sufficient weight to be allowed to disturb the uniform testimony both of tradition, and of the most trustworthy authorities on this subject.
 
@@ -131,7 +130,7 @@ His language uniformly was, that if God might be said to have given the friars t
 
 " Life and Opinions of WyoliflTe, L 266, 267.
 
-CONCERNING THE LIFE OF WYCLIFFE. XV
+## Concerning the Life of Wycliffe. XV
 
 That which distinguished the eflforts of Wycliffe in this connexion from those of Armachanus and others, was his setting forth the evils which he describes, as being the natural and necessary consequence of the rules which the friars had pledged themselves to observe. While other disputants were content to seek a reform of particular errors and abuses, Wycliffe sought nothing less than an extinction of the institute itself, as being repugnant to Scripture, and inconsistent with the order and prosperity of the church. Instead of supposing, as some good men had done, that the introduction of such ageuts would tend better than any other means that might be employed for that purpose to stimulate and improve the character of the parochial priesthood, he insisted strongly that the removal of these intruders was absolutely necessary, if harmony and vigour were to be restored to the ecclesiastical system. He is at the same time careful to distinguish between the institute and the men, being equally concerned to " destroy their errors," and to " save their persons."
 
@@ -179,7 +178,7 @@ XX FACTS AND OBSERVATIONS religious orders generally, by placing the kingdom in 
 
 . Having thus stated the grounds on which it would be practicable to work out a full vindication of the above doctrines, he abstains from pursuing that course, and chooses rather to set forth his views, as contained in the substance of a series of speeches, said to have been delivered by certain secular lords, in reference to the demand lately made on the treasury of the king of England by the pope. By this method of reply, the humble Reformer may have hoped to shield himself, .under the authority of the said lords, against the resentment to which his opinions might otherwise expose him. The speeches which have been thus preserved may interest the curious reader as presenting a specimen of the manner in which our senators of the fourteenth century were deemed capable of treating questions demanding a good degree of information and discernment. What is reported from them in this document is not of course a complete account of the debate adverted to, but a selection of passages designed to place the series of difficulties inseparable from the claim of the pope in the most lucid form, and in the smallest compass.
 
-CONCERNING THE LIFE OF WYCLIFFE. XXI
+## Concerning the Life of Wycliffe. XXI
 
 To US the paper is chiefly valuable, as containing opinions which^ by adoption at least, are those of Wycliffe himself, and which in the report made of them have lost nothing of their force, probably from coming into contact with the vigour and intrepidity of his own genius. -
 
@@ -221,7 +220,7 @@ The reign of Edward the Third, who had now reached the fiftieth year of his age,
 
 * From 1804 to 1378 the following popes succeeded each other, and all were Frenchmen. Clement Y.; John XXII.; Benedict XII.; Clement VI. ; Innocent VI. ; Urban V. ; and Gregory XI. By a variety of mean and selfish contrivances, having "no other end than the acquisition of riches, these inconsiderate pontifis excited a general hatred against the Roman see, and thereby greatly weakened the papal empire, which had been visibly upon the decline dnee the time of Boniface." Hist iil 816—^18.
 
-XXVI FACTS AND OBSERVATIONS
+## XXVI Facts and Observations
 
 John of Gaunt, Duke of Lancaster, was the patron of Chaucer and of Wycliffe, and is the only male member of the royal family whose name is conspicuously associated vdih the religion of those times. This prince was born at Ghent in the year 1340, sixteen years subsequent to the birth of our Reformer. At the age of twentytwo, he succeeded, as Earl of Riclmiond, to the title of his deceased father-in-law, Henry, Duke of Lancaster, and to estates which rendered him the most opulent subject of the realm. He unsheathed his sword in Scotland, France, and Spain, but is less known from his military exploits, than as possessing some taste for literature, and as having evinced a strong sympathy, up to a certain point, with the reforms contemplated by Wycliffe. It has been stated that Wycliffe dedicated a collection of his works to the Duke of Lancaster so early as the year 1368. But this is an error. There is a manuscript volume in the library of Trinity College, Dublin, containing several pieces from the pen of Wycliffe, and along the upper line of the first treatise in that collection, is an insertion describing the volume as consisting of the works of Wycliffe which were so dedicated. But this entry is made by a modern hand, and it is certain that the piece on which it was written was not composed earlier than 1380 — that is, subsequent to the papal schism. This description, however, has been copied in a well-known printed catalogue of existing manuscripts, and from that source has been widely adopted.*
 

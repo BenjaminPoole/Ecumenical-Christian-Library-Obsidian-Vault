@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 3
 
-**CHAPTER 3.**
+***Chapter 3.***
 
 ## Genesis 3:1-24
 

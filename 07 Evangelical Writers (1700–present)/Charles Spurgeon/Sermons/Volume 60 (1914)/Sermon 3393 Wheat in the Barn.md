@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Wheat in the Barn
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3393
-
-DELIVERED BY C. H. SPURGEON.
 
 > "But gather the wheat into My bairn." Matthew 13:30.
 
@@ -31,7 +28,7 @@ By giving the angels work to do, all intelligent creatures, of whose existence w
 
 We too much forget the angels. Let us not overlook their tender sympathy with us—they behold the Lord rejoicing over our repentance—and they rejoice with Him1 They are our watchers and the Lord's messengers of mercy. They bear us up in their hands lest we dash our foot against a stone. And when we come to die, they carry us to the bosom of our Lord. It is one of our joys that we have come to an innumerable company of angels—let us think of them with affection.
 
-I. A WORD OF SEPARATION.
+## I. A Word of Separation
 
 Here note that the tares and the wheat will grow together until the time of harvest shall come. It is a great sorrow of heart to some of the wheat to be growing side by side with tares. The ungodly are as thorns and briars to those who fear the Lord. How frequently is the sigh forced forth from the godly heart, "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!" A man's foes are often found within his own household. Those who should have been his best helpers are often his worst hinderers. Their conversation vexes and torments him. It is of little use to try to escape from them, for the tares are permitted, in God's Providence, to grow with the wheat—and they will do so until the end. Good men have emigrated to distant lands to found communities in which there should be none but saints, but, alas, sinners have sprung up in their own families! The attempt to weed the ungodly and heretical out of the settlement has led to persecution and other evils—and the whole plan has proven a failure. Others have shut themselves away in hermitages to avoid the temptations of the world, and so have hoped to win the victory by running away—this is not the way of wisdom! The word for this present is, "Let both grow together." But there will come a time when a final separation will be made. Then, dear Christian woman, your husband will never persecute you again! Godly sister, your brother will heap no more ridicule upon you! Pious workman, there will be no more jesting and taunting from the ungodly! That, "but,"will be an iron gate between the God-fearing and the godless! Then will the tares be cast into the fire, but the Lord of the harvest will say, "Gather the wheat into My barn."
 
@@ -41,7 +38,7 @@ That separation involves an awful difference of destiny. "Gather the tares in bu
 
 The separation is eternal. There is no hope or possibility of change in the world to come. "But," says one, "that dreadful ' but'! Why must there be such a difference? The answer is because there always was a difference! The wheat was sown by the Son of Man—the false wheat was sown by the enemy. There was always a difference in character—the wheat was good, the tares were evil. This difference did not appear at first, but it became more and more apparent as the wheat ripened and as the tares ripened, too. They were totally different plants—and so a regenerate person and an unregene-rate person are altogether different beings. I have heard an unregenerate man say that he is quite as good as the godly man, but in so boasting he betrayed his pride. Surely there is as great a difference in God' s sight between the unsaved and the Believer as between darkness and light, or between the dead and the living! There is in the one a life which there is not in the other—and the difference is vital and radical. Oh, that you may never trifle with this essential matter, but really be the wheat of the Lord! It is vain to have the name of wheat—we must have the nature of wheat! God will not be mocked—He will not be pleased by our calling ourselves Christians while we are not! Be not satisfied with Church membership, but seek after membership with Christ! Do not talk about faith, but exercise it! Do not boast of experience, but possess it. Be not like the wheat, but be the wheat! No shams and imitations will stand in the Last Great Day! That terrible, "but," will roll as a sea of fire between the true and the false! Oh, Holy Spirit, let each of us be found transformed by Your power! The next word of our text is, "gather,"—that is—
 
-II. A WORD OF CONGREGATION.
+## II. A Word of Congregation
 
 What a blessed thing this gathering is! I feel it a great pleasure to gather multitudes together to hear the Gospel! And is it not a joy to see a house full of people on weekdays and Sundays who are willing to leave their homes and to come considerable distances to listen to the Gospel? It is a great thing to gather people together for that, but the gathering of the wheat into the barn is a far more wonderful business. Gathering is, in itself, better than scattering, and I pray that the Lord Jesus may always exercise His attracting power in this place, for He is no Divider, but, "unto Him shall the gathering of the people be." Has He not said, "I, if I am lifted up from the earth, will draw all men unto Me"?
 
@@ -61,7 +58,7 @@ I do not know how that will be, but I have not much doubt that we shall have fel
 
 No matter when or where the wheat grew, it shall be gathered into the one barn—gathered never to be scattered— gathered out of all divisions of the visible Church, never to be divided again! They grew in different fields. Some flourished on the hillside where Episcopalians grow in all their glory! And others in the lowlier soil, where Baptists multiply, and Methodists flourish! But once the wheat is in the barn, none can tell in which field the ears grew. Then, indeed, shall the Master' s prayer have a glorious answer—"That they all may be one." All our errors removed and our mistakes corrected and forgiven, the one Lord, the one faith and the one Baptism will be known of us all—and there will be no more displeasure and envying! What a blessed gathering it will be! What a meeting! The elect of God, the elite of all the centuries, of whom the world was not worthy! I should not like to be away. If there were no Hell, it would be Hell enough to me to be shut out of such heavenly society! If there were no weeping, and wailing, and gnashing of teeth, it would be dreadful enough to miss the Presence of the Lord, and the joy of praising Him forever, and the bliss of meeting with all the noblest beings that ever lived! Amid the necessary controversies of the age, I, who have been doomed to seem a man of strife, sigh for the blessed rest wherein all spiritual minds shall blend in eternal accord before the Throne of God and of the Lamb. Oh, that we were all right, that we might be all happily united in one spirit! In the text there is next—
 
-III. A WORD OF DESIGNATION.
+## III. A Word of Designation
 
 I have already trespassed upon that domain. "Gather the wheat" Nothing but "the wheat" will be placed in the Lord's homestead. Lend me your hearts while I urge you to a searching examination for a minute or two. The wheat was sown of the Lord. Are you sown of the Lord? Friend, if you have any religion, how did you get it? Was it self-sown? If so, it is good for nothing! The true wheat was sown by the Son of Man. Are you sown of the Lord? Did the Spirit of God drop eternal life into your bosom? Did it come from that dear hand which was nailed to the Cross? Is Jesus your life? Does your life begin and end with Him? If so, it is well!
 
@@ -73,7 +70,7 @@ Next, wheat is a useful thing, a gift from God for the life of men. The false wh
 
 Yet, dependent as it is, wheat stands in the front rank of honor and esteem—and so do the godly in the judgment of all who are of an understanding heart. We are nothing without Christ—but with Him we are full of honor. Oh, to be among those by whom the world is preserved, the excellent of the earth in whom the saints delight! God forbid we should be among the base and worthless tares! Our last head, upon which also I will speak briefly, is—
 
-IV. A WORD OF DESTINATION.
+## IV. A Word of Destination
 
 "Gather the wheat into My barn.''" The process of gathering in the wheat will be completed at the Day of Judgment, but it is going on every day. From hour to hour saints are gathered—they are going heavenward even now. I am so glad to hear as a regular thing that the departed ones from my own dear Church have such joy in being harvested. Glory be to God, our people die well! The best thing is to live well, but we are greatly gladdened to hear that the brethren die well, for, full often, that is the most telling witness for vital godliness. Men of the world feel the power of triumphant deaths!
 
@@ -85,7 +82,7 @@ Farmer and it is housed. Oh, long-expected day, begin! Oh, Brothers and Sisters,
 
 I delight to think of Heaven as His barn! His barn, what must that be? It is but the poverty of language that such an expression has to be used at all concerning the home of our Father, the dwelling of Jesus! Heaven is the palace of the King, but so far to us a barn because it is the place of security, the place of rest forever! It is the homestead of Christ to which we shall be carried and for this we are ripening. It is to be thought of with ecstatic joy, for the gathering into the barn involves a harvest home and I have never heard of men sitting down to cry over an earthly harvest home, nor of their following the sheaves with tears! No, they clap their hands, they dance for joy and shout right lustily! Let us do something like that, concerning those who are already housed. With grave, sweet melodies let us sing around their tombs. Let us feel that, surely, the bitterness of death is passed. When we remember their glory, we may rejoice like the travailing woman when her child is born, who "remembers no more the anguish, for joy that a man is born into the world." Another soul begins to sing in Heaven—why do you weep, O heirs of immortality? Is the eternal happiness of the righteous, the birth which comes of their death-pangs? Then happy are they who die! Is Glory the end and outcome of that which fills our home with mourning? If so, thank God for bereavements! Thank God for sad severing! He has promoted our dear ones to the skies! He has blessed them beyond all that we could ask or even think! He has taken them out of this weary world to lie in His bosom forever! Blessed be His name if it were for nothing else but this! Would you keep your old father here, full of pain and broken down with feebleness? Would you shut him out of Glory? Would you detain your dear wife here with all her suffering? Would you hold back your husband from the immortal crown? Could you wish your child to descend to earth again from the bliss which now surrounds her? No, no! We wish to be going Home ourselves, to the heavenly Father's house and its many mansions! But concerning the departed, we rejoice before the Lord as with the joy of harvest! "Therefore comfort one another with these words."
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 13:1-23; 15:13-28; 1 CORINTHIANS 3:17-23.
+## Exposition by C. H. Spurgeon: Matthew 13:1-23; 15:13-28; 1 Corinthians 3:17-23
 
 Verses 1, 2. The same day went Jesus out of the house and sat by the sea. And great multitudes were gathered together unto Him, so that He went into a boat, and sat, and the whole multitude stood on the shore. He had thus a little breathing space between Him and the people—a better opportunity for His being both heard and seen. A noble instance of open-air preaching. And if our climate would permit, what a blessing it would be if we could turn out of these houses and sit in a boat or stand on the seashore!
 
@@ -101,7 +98,7 @@ Verses 1, 2. The same day went Jesus out of the house and sat by the sea. And gr
 
 23\. But he that received seed into good ground is he that hears the word, and understands which also bears fruit, and brings forth, some an hundredfold, some sixty, some thirty. For all Christians are not alike fruitful. Would God they all reached to the hundredfold and went beyond it! Such seed, and such a sower, and such fruitful seasons as He has given to some of us, and such plowing and such tilling, and such feeding, and such watering, and such sunshine, and such dew—oh, we ought to bring forth a hundredfold! Let us chide ourselves and whenever we have to complain that we do not get a harvest from our sowing, or as much as we could desire, let us look within and say, "My heart, you are like the field I have to sow. My Master, I fear, gets as little out of you as I get when I go unsuccessfully to my work."
 
-MATTHEW 15:13-15; 21-28.
+## Matthew 15:13-15; 21-28
 
 13\. But He answered and said, Every plant which My heavenly Father has not planted shall be rooted up. He had not any peculiar tenderness towards them, they were not plants of his Father's planting—they deserved to be rooted up and their teaching was so utterly false that if He had offended against it, He was glad to have done so.
 
@@ -119,7 +116,7 @@ MATTHEW 15:13-15; 21-28.
 
 26-28. But He answered and said, It is not rightt to take thee children's bread and to cast it to dogs. And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table. Then Jesus answered and said to her, O woman, great is your faith: be it unto you even as you will. And her daughter was made whole from that very hour. Oh, can you exercise a like faith in Christ? If so, you shall get a like blessing! Only believe in Him! Only make up your mind and however great the mercy, it cannot be too great for Him to give! And believe that He will give it, rest on Him to bestow it and you shall have it! God grant that many may receive it at this very hour!
 
-1 CORINTHIANS 3:17-23.
+## 1 Corinthians 3:17-23
 
 17-18. If any man defiles the Temple of God, him shall God destroy, for the Temple of God is holy, which Temple you are. Let no man deceive himself If any man amongyou seems to be wise in this world, let him become a fool, that he may be wise. Do not let him seek to be reckoned wise by the philosophers of the period who are always against the Truth of God. Let him consent to be thought to be a fool—yes, let him know in his own heart that he is not wise—and then let him yield himself up to the wisdom of God. Consciousness of ignorance is the vestibule of knowledge! And he that knows right well that he is a fool is on the way to becoming a wise man! He that would pass into the Temple of Wisdom must first of all confess his ignorance.
 
@@ -130,7 +127,6 @@ MATTHEW 15:13-15; 21-28.
 21 For all things are yours. Children of God, all men are yours, to serve your highest benefit! All ministers and leaders in Christ are yours to seek your souls' good! Treat them as bees do flowers, and gather honey from them all. "All things are yours."
 
 22-23, Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come— all are yours. And you are Christ's; and Christ is God's.
-
 
 ---
 [[Sermon 3392 Justification by Faith|← #3392]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3394 'Who Is This'|#3394 →]]

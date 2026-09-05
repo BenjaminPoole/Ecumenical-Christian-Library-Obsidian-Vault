@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # “Lovest Thou Me?”
 
-Chapter XV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XV · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Lovest thou Me?* ”—John xxi. 16.
 
@@ -132,7 +131,6 @@ For another thing, if you love Christ, never be ashamed to let others see it and
 The converted Indian did not answer him in words. He gathered together some dry leaves and moss and made a ring with them on the ground. He picked up a live worm and put it in the middle of the ring. He struck a light and set the moss and leaves on fire. The flame soon rose and the heat scorched the worm. It writhed in agony, and after trying in vain to escape on every side, curled itself up in the middle, as if about to die in despair. At that moment the Indian reached forth his hand, took up the worm gently and placed it on his bosom. “Stranger,” he said to the Englishman, “Do you see that worm? I was that perishing creature. I was dying in my sins, hopeless, helpless, and on the brink of eternal fire. It was Jesus Christ who put forth the arm of His power. It was Jesus Christ who delivered me with the hand of His grace, and plucked me from everlasting burnings. It was Jesus Christ who placed me, a poor sinful worm, near the heart of His love. Stranger, that is the reason why I talk of Jesus Christ and make much of Him. I am not ashamed of it, because I love Him.”
 
 If we know anything of love to Christ, may we have the mind of this North American Indian! May we never think that we can love Christ too well, live to Him too thoroughly, confess Him too boldly, lay ourselves out for Him too heartily! Of all the things that will surprise us in the resurrection morning, this, I believe, will surprise us most: that we did not love Christ more before we died.
-
 
 ---
 [[Holiness 14 Visible Churches Warned|← Visible Churches Warned]] · [[Holiness|Holiness Contents]] · [[Holiness 16 Without Christ|Without Christ →]]

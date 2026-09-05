@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Sin Subdued
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1577
-
-DELIVERED BY.
 
 > "He will subdue our iniquities." Micah 7:19.
 
@@ -138,7 +135,6 @@ However, forgetting all about regrets, what a song we will raise when we find ou
 I find all my fellow Christians, both men and women, are resolved that they will sing the loudest to the praise of Divine Grace! This shall be Heaven's only contest! There shall be a grand contention among the birds of Paradise which shall sing most sweetly of Free Grace and dying love. What a Heaven there will be and what music there will be in Heaven when our iniquities are subdued! How will the Lord look down with joy upon us all when He shall see us all made like His Son—perfect, faultless, glorious! Then we will sing, "He has subdued our iniquities. Oh, come let us sing unto the Lord, for He has triumphed gloriously and all our iniquities has He cast into the sea."
 
 Anticipate that joy and begin to sing tonight—and let this be the matter of your song—"Thanks be unto God which gives us the victory through Jesus Christ our Lord." May that victory be yours and mine. Amen.
-
 
 ---
 [[Sermon 1576 The Throne of God and of the Lamb|← #1576]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1578 Taught That We May Teach|#1578 →]]

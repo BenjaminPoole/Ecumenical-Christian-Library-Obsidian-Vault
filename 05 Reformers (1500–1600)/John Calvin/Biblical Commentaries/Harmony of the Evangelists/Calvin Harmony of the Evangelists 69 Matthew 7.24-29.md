@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 69. Matthew 7:24-29; Luke 6:47-49
-
-**MATTHEW 7:24-29; LUKE 6:47-49**
 
 **24**. Every one, therefore, who heareth those saying of mine, and doeth them, I will compare him to a wise man, who built his house upon a rock. **25**. And the rain fell, and the floods came, and the winds blew, and struck against that house, and it did not fall: for it had been founded on a rock. **26**. And every one who heareth those saying of mine, and doeth them not, shall be compared to a foolish man, who built his house upon the sand. **27**. And the rain fell, and the floods came, and the winds blew, and struck against that house: and it fell, and the downfall of it was great. **28**. And it happened, when Jesus had finished these sayings, that the multitudes were astonished at his doctrine. **29**. For he taught them as having authority, and not as the scribes.
 

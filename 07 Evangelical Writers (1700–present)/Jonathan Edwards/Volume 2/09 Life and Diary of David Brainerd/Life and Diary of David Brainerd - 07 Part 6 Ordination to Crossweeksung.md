@@ -10,10 +10,9 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # PART VI.
 
-FROM HIS ORDINATION, TILL HE FIRST BEGAN TO PREACH TO THE INDIANS AT CROSWEEKSUNG, AMONG WHOM HE HAD HIS MOST REMARKABLE SUCCESS.
+*From His Ordination, till He First Began to Preach to the Indians at Crosweeksung, Among Whom He Had His Most Remarkable Success*
 
 “*Wednesday*, *June* 13. [1744.] Spent some considerable time in writing an account of the Indian affairs to go to Scotland; some, in conversation with friends; but enjoyed not much sweetness and satisfaction.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Purging Out the Leaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 965
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 11, 1870,.
+*Delivered on Lord's-Day Morning, December 11, 1870*
 
 > "Know you not that a little leaven leavens the whole lump?Purge out, therefore, the old leaven, that you may be a newlump, as you are unleavened. For even Christ our Passover is sacrificed for us. Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness. But with the unleavened bread of sincerity and truth." 1 Corinthians 5:6-8.
 
@@ -154,7 +153,6 @@ Jesus will not commune with neglecters of His will. Jesus will have no leaven wh
 O keep your conscience tender! Beware of getting it seared. It is like the pond in the winter—a very thin scale of ice is formed at first—but afterwards the whole surface becomes hard enough to bear half a town. Beware of the thin scale over your conscience! Keep your heart tender before God, ready to be moved by the faintest breath of His Spirit. Ask to be like sensitive plants, that you may shrivel up at the touch of sin—and only open out in the Presence of your Lord and Master. God grant it to you. God grant it, for Jesus' sake!
 
 This last sentence, and I have done. There are some here who are not saved. Notice how salvation comes—not through purging out the leaven! No, that operation is to be seen to afterwards. Salvation comes because the Paschal Lamb is slain. The soul feeds on Jesus—His blood is sprinkled—and the soul is saved. Afterwards comes the purging out of sin. Dear Soul, if you would be saved, do not begin at the wrong end. Begin with the Savior's blood! Begin with Calvary's Cross! Go there as a poor sinner and look to Him! And then after that we will say, "Let us keep the feast," and we will diligently see to it, in His strength, that the leaven is put away. God bless you for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0964 The Essence Of The Gospel|← #964]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0966 Joseph's Bones|#966 →]]

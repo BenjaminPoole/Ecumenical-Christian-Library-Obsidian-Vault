@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 27. Letter XXVI. To Master Christian Prachaticz
-
-LETTER XXVI. TO MASTER CHRISTIAN PRACHATICZ
 
 (Early in 1413)
 

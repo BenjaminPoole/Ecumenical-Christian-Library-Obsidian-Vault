@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # "Forever With The Lord"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1374
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 16, 1877,.
+*Delivered on Lord's-Day Morning, September 16, 1877*
 
 > "So shall we be forever with the Lord." 1 Thessalonians 4:17.
 
@@ -180,7 +179,6 @@ Two or three practical sentences. One word is this—this, "with the Lord" must 
 The next word is, how plainly, then, the way of life is to be with the Lord. If you want to be saved, Sinner, you must be "with the Lord." There is no other way! Come near to Him and lay hold upon Him by faith. Life lies there. Come to Him by a humble, tearful faith. Come at once! And, lastly, what must it be to be without the Lord? What must it be to be against the Lord? For it comes to that, "He that is not with Me," He says, "is against Me"—to be forever without the Lord, banished from His love, light, life, peace, rest and joy! What a loss this will be!
 
 What must it be to be forever against the Lord! Think of it—forever hating Jesus, forever plotting against Him, forever gnashing your teeth against Him—this is Hell, this is time infinite of misery, to be against the Lord of Love and Life and Light. Turn from this fatal course! Believe on Him—"Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him." Amen.
-
 
 ---
 [[Sermon 1373 Our Last Journey|← #1373]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1375 Now Then, Do It|#1375 →]]

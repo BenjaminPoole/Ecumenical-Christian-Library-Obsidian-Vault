@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 32. Matthew 4:5-11;Mark 1:13;Luke 4:5-13
-
-**MATTHEW 4:5-11; MARK 1:13; LUKE 4:5-13**
 
 **5**. Then the devil taketh [^1] him into the holy city, and placeth him on the pinnacle [^2] of the temple, **6**. And saith to him, If thou art the Son of God, throw thyself down: for it is written, He will command his angels concerning thee, and they will carry thee in their hands, lest at any time thou dash thy foot against a stone. **7**. Jesus said to him, Again it is written, Thou shalt not tempt the Lord thy God. **8**. Again, the devil taketh him to a very high mountain, and pointeth out to him all the kingdoms of the world, and the glory of them; **9**. And saith to him, All these things I will give thee, if, falling down, thou shalt adore me. **10**. Then Jesus saith to him, Depart, Satan, for it is written, Thou shalt adore the Lord thy God, and him alone thou shalt worship. **11**. Then the devil leaveth him, and lo, angels approached, and waited on him.
 

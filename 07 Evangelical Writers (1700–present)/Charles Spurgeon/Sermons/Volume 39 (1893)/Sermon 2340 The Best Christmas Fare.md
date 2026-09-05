@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Best Christmas Fare
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2340
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How sweet are Your Words unto my taste! Yes, sweeter than honey to my mouth!" Psalm 119:103.
 
@@ -105,7 +102,7 @@ you refused; I have stretched out My hand, and no man regarded; but you have set
 
 God grant that you may not be told so to depart! And, that you may not, I pray you to now listen to the voice of God which bids you trust Jesus and live! I can only speak with these poor feeble lips and there is no power in anything that I can say—but God the Holy Spirit can speak with irresistible might to your hearts and constrain you to taste of Christ, tonight, by hearing the Word of God, in your very soul! I pray that He may do it, for His dear name's sake! Amen and Amen
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:89-112.
+## Exposition by C. H. Spurgeon: Psalm 119:89-112
 
 Verse 89. Forever, O LORD, Your Word is settled in Heaven. Other things come and go, and change. Moons wax and wane, tides ebb and flow, everything earthly is changeable. But, "Your Word is settled—settled in Heaven," with the eternal settlements. No truth of it can fail, no promise of it can be broken. What a joy this is to our hearts tonight! There is something sure, after all—"Forever, O Lord, Your Word is settled in Heaven."
 
@@ -140,7 +137,6 @@ loves that which is right is, by no means, indifferent to the wrong and to the f
 106, 107. I have sworn and I will perform it, that I will keep Your righteous judgments. I am afflicted very much: quicken me, O LORD, according unto Your Word. Are any of you afflicted tonight? I commend this prayer to your use. One would have expected that David would have prayed, "I am afflicted very much: comfort me, O Lord." Or, "Relieve me, O Lord." Instead of praying so, he cries, "Quicken me, O Lord," and he did well. Let us imitate him, for if we get more spiritual light and life, we shall, by that means, get more comfort, and the trouble from which we are suffering will soon cease to vex our spirit.
 
 108-112. Accept, I beseech You, the freewill offerings of my mouth, O LORD, and teach me Your judgments. My soul is continually in my hand: yet do I not forget Your Law. The wicked have laid a snare for me: yet I erred not from Your precepts. Your testimonies have I taken as an heritage forever: for they are the rejoicing of my heart. I have inclined my heart to perform Your statutes always, even unto the end. Oh, that everyone of us might be able to make this declaration of the Psalmist our own! God grant it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2339 Baptism Essential To Obedience|← #2339]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2341 The Underlying Gospel for the Dying Year|#2341 →]]

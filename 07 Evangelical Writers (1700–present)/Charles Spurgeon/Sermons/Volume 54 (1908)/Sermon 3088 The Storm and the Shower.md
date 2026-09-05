@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Storm and the Shower
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3088
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Awake, O sword, against My Shepherd, and against the Man that is My Fellow, says the LORD of Hosts: smite the Shepherd, and the sheep shall be scattered: and I will turn My hand upon the little ones." Zechariah 13:7.
 
@@ -95,9 +92,9 @@ See, Sinners, the only way of peace for you—it is through Jesus suffering in y
 
 As for you who are saved by Christ, see what you owe Him. By every groan He suffered, love Him! By every pang He endured, love Him! By the piercing of that sharp sword even to the death, love Him! And as you love Him, live for Him! And as you love Him, speak well of Him! And as you love Him, pray for the coming of His Kingdom! And as you love Him, keep His commandments! And as you love Him, grow more and more into His likeness every day you live, until you go to be with Him forever! God bless you, dear Friends, for Jesus' sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—291, 406.
+## Hymns from "Our Own Hymn Book"—291, 406
 
-EXPOSITION BY C. H. SPURGEON: PSALM22.
+## Exposition by C. H. Spurgeon: Psalm 22
 
 This Psalm so sweetly and so accurately pictures the inward griefs of our Divine Savior that it might have been
 
@@ -172,7 +169,6 @@ His death and Resurrection—how gracious men would praise the Lord and how He, 
 "'It is finished!'—Oh what pleasure Do these charming words afford! Heavenly blessings without measure Flow to us from Christ the Lord— 'Itis finished!'
 
 Saints the dying words record."
-
 
 ---
 [[Sermon 3087 A Time of Finding for Lost Sheep|← #3087]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3089 A Sermon on a Grand Old Text|#3089 →]]

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 158. Numbers 20:1-13
-
-**Numbers 20**
 
 **1.** Then came the children of Israel, even the whole congregation, into the desert of Zin, in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 

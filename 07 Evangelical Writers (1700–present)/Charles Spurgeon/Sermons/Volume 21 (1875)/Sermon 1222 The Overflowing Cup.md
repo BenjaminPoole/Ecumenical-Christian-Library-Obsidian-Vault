@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Overflowing Cup
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1222
-
-DELIVERED BY.
 
 > "My cup runs o ver." Psalm 23:5.
 
@@ -150,7 +147,6 @@ Eyes never to weep again, hands never to be soiled again, bones never to ache ag
 What would you do with an empty cup if you were thirsty? Would you not hold it under a fountain until it were full? This is what you must do with your poor, dry, empty soul! Come and receive of Jesus, Grace for Grace. "For as many as received Him, to them gave He power to become the sons of God, even to as many as believed on His name." Hold your empty cup under the stream of Divine Fullness which flows to the guilty through Jesus Christ and you shall also joyfully say, "My cup runs over." The Lord pour His mercy into you, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 23. HYMNS FROM "OUR OWN HYMN BOOK"—725, 708, 711.
-
 
 ---
 [[Sermon 1221 Opening the Mouth|← #1221]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1223 Jesus, The Substitute For His People|#1223 →]]

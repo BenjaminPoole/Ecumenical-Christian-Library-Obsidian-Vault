@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 20
 
-**CHAPTER 20**
+***Chapter 20***
 
 ## Ezekiel 20:1
 
@@ -59,7 +58,7 @@ Another clause now follows, that God instructed the Jews in piety, and withdrew 
 
 ## Prayer Lecture 60
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have once stretched forth your hand to us by your only-begotten Son, and have not only bound thyself to us by an oath, but have sealed your eternal covenant by the blood of the same, thy Son: Grant, I pray thee, that we in return may be faithful to thee, and persevere in the pure worship of thy name, until at length we enjoy the fruit of our faith in thy heavenly kingdom by the same Christ our Lord. — Amen.
 
@@ -103,7 +102,7 @@ Now, therefor, we understand why the Prophet speaks of the Sabbath, since he had
 
 ## Prayer Lecture 61
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have not only deigned to bestow upon us a rule for living rightly, but has so shown thyself our Father in Christ as to be prepared to engrave thy law in our inward parts: Grant, I pray thee, that we may not cast away that inestimable boon through either ingratitude or sloth; but may we offer up ourselves to thee as a sacrifice: and then do you so pardon us that our infirmities may not hinder us from finding thee always propitious whenever we fly to thy mercy in Christ, your only-begotten Son. — Amen.
 
@@ -159,7 +158,7 @@ What he had said generally concerning the commandments he now applies again to t
 
 ## Prayer Lecture 62
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since the doctrine of thy Gospel sounds daily in our ears, when you invite us so kindly by thy amazing clemency, and stretch out your hand by your only-begotten Son, — Grant, I pray thee, that we may be of a teachable and flexible disposition, and that we may sincerely submit to thee: and since thy law contains so many dreadful examples of thy wrath, may we be moved by them, and may we walk with fear and trembling in obedience to thy word, that at length we may enjoy that inheritance which you have promised for us in thy heavenly kingdom, by the same Christ our Lord. — Amen.
 
@@ -225,7 +224,7 @@ He follows up the same sentiment, that it was a monstrous sin that they so perni
 
 ## Prayer Lecture 63
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, since you do not cease thy daily exhortations to repentance, but indulge us, and bear with us, while you correct us by thy word and thy chastisements, that we may not remain obstinate, but may learn to submit ourselves to thee: Grant, I pray thee, that we may not offer ourselves as thy disciples with feigned repentance, but be so sincerely and cordially devoted to thee, that we may desire nothing else than to progress more and more in the knowledge of thy heavenly doctrine, till at length we enjoy that full light which we hope for through our Lord Jesus Christ. — Amen.
 
@@ -281,7 +280,7 @@ This passage is peculiarly remarkable, since at this time many are deceived, whi
 
 ## Prayer Lecture 64
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have once redeemed us by the death of your only-begotten Son, that we may not interrupt the course of thy favor by our ingratitude; but may we so proceed in obedience to thy Gospel, that we may be brought at length to the perfection of that grace which is commenced within us, and may proceed more and more every day in true piety, till at length we are gathered into thy heavenly kingdom, and enjoy the inheritance promised and obtained for us by the same Christ our Lord. — Amen.
 
@@ -330,11 +329,11 @@ For ourselves, then, let. us learn that we cannot otherwise worship God with acc
 
 ## Prayer Lecture 65
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we have already entered in hope upon the threshold of our eternal inheritance, and know that there is a certain mansion for us in heaven after Christ has been received there, who is our head, and the first-fruits of our salvation: Grant, I say, that we may proceed more and more in the course of thy holy calling until at length we reach the goal, and so enjoy that eternal glory of which you afford us a taste in this world, by the same Christ our Lord. — Amen.
 
-**PRAISE TO GOD.**
+## **Praise to God.**
 
 After finishing this last Lecture, that most illustrious man, John Calvin, the Divine, who had previously been sick, then began to be so much weaker that he was compelled to recline on a couch, and could no longer proceed with the explanation of Ezekiel. This accounts for his stopping at the close of the Twentieth Chapter, and not finishing the work so auspiciously begun. Nothing remains, kind Reader, but that you receive most favorably and graciously what is now sent forth to the world.
 

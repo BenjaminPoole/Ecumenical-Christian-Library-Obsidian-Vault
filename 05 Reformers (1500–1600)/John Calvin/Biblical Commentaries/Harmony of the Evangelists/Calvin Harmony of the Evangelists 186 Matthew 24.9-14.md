@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 186. Matthew 24:9-14; Mark 13:9-13; Luke 21:12-19
-
-**MATTHEW 24:9-14; MARK 13:9-13; LUKE 21:12-19**
 
 **9.** Then will they deliver you up to be afflicted, and will kill you; and you will be hated by all nations on account of my name. **10.** And then will many be offended, and will deliver up one another, and will hate one another. **11.** And many false prophets will arise, and will deceive many. **12.** And because iniquity will abound, the love of many will be cooled. **13.** But he who shall persevere to the end will be saved. **14.** And this gospel of the kingdom will be preached throughout the whole world for a testimony to all nations; and then the end will come.
 

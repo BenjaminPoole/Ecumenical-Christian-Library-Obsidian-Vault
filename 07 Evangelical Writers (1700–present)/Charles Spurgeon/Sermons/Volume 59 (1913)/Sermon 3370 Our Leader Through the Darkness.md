@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Our Leader Through the Darkness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3370
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who among you fears the Lord? Who obeys the voice of His Servant? Who walks in darkness and has no light? Let him trust in the name of the Lord and rely upon his God." Isaiah 50:10.
 
@@ -47,7 +44,7 @@ the dews fall at eventide? Could we bear the perpetual shining of the burning su
 
 As I thought over my theme, "Jesus, our Leader in the Dark," I began to fall in love with the dark. There are two parts to my subject—if one seems gloomy, the other is bright enough! Following Christ is a lightsome theme! The darkness may be very dark, but I say I have almost fallen in love with it when Jesus comes to me therein and makes it His pavilion! Rutherford declared that the cross which he carried for his Lord at last came to be so dear to him that he was half jealous of it, lest he should begin to love the cross with a love rivaling his love to his Lord! Darkness of soul in itself is horrible, but the rich fruit it has brought to us has made us cease to dread it. We now can thank God that the evening and the morning make up the day—and the evening is as much a part of the day as the morning. The nights of our lives are as rich as the days. The agony is as useful as the rapture. The depression as instructive as the exaltation. Let us think, then, of—
 
-I. THE DARKNESS THAT CHRISTIANS MAY KNOW.
+## I. The Darkness that Christians May Know
 
 Well, surely we may say, first, that in some respects we are always in the dark while here below. We must wait with patience "until the day breaks and the shadows flee away." Our Lord here on earth may be said to have been always in the dark in comparison with the Glories which He left, in contrast with the bliss that He has reassumed. To be here at all, was to Him to be in the dark. The ever-blessed Son of the Father was away from the home country and its splendor—he was among sinners and His heart was pained with human sin, His ears were vexed with ungodly speeches, His eyes were filled with tears because of obstinate rebellions! He was all tenderness and yet His soul was among lions. It must have been a constant trial to His holy, sensitive spirit to have dwelt in the midst of sinners. So in a certain sense we, also, are always in the shade compared with what is coming. "It does not yet appear what we shall be." He is coming! He is coming! The axles of His chariot are hot with speed. He cries, "Behold, I come quickly." When He comes, the Glory of His Presence will make the greatest joys that we have ever known to seem but twilight, as compared with the full day of His appearing! If His life was so truly in darkness, we must not wonder if our lives are the same.
 
@@ -85,7 +82,7 @@ Light and then wrote his experience in his memorable book, Trouble of Mind, whic
 
 I come now to the more specially practical part of my sermon.
 
-II. THE PURPOSE FOR WHICH THIS DARKNESS IS PERMITTED.
+## II. The Purpose for Which This Darkness Is Permitted
 
 There were three aspects of the darkness which our Lord endured in which we should resemble Him. First, He was in darkness for education. ' 'Though He were a Son, yet learned He obedience by the things which He suffered." Our Mediator went to school and His schoolbooks were "the things that He suffered." Do we learn much out of any other books? Is not our best schoolmaster the one named Adversity? Are not our best schoolbooks printed in the old black letter? We make but small account of any other. Our Lord Jesus learned obedience. Some people, when they get into the dark, think that they can make no progress, but must lie still. Say not so! Our greatest progress should be made in the dark. We should grind most when the wind blows hardest. A friend of mine went to Australia and on board of his ship there were a number of gentlemen of different degrees of ignorance, one of whom was a complete greenhorn. He had never been to sea before. I do not think he had been anywhere else. When it came to be night, he said, "Where do they put up tonight?" My friend said, "What do you mean?" He replied, "You do not mean to say that they will go on sailing in the dark?" "Certainly," replied my friend. But the other said, "Why, they may run into something, for they cannot see their way." "No," my friend answered, "and they will not see their way till we get to our destination, unless they touch at the Cape! And they will travel as fast in the night as in the day." So they did. Who but a fool would have thought otherwise?
 
@@ -124,7 +121,6 @@ Oh, that the Lord our God may be with you all in the hour of darkness! If it is 
 Let it, then, be settled in your minds that you will trust only in the Lord and keep your expectation only upon Him. Come fair, come foul, come wind, come rain, come hail, come tempest, or come all the brightness of a fruitful summer, it shall make no difference to us, for ours is not the confidence which changes with the weather, but that which has its foundation among things eternal and immutable—
 
 "And when your eye of faith is dim, Still hold on Jesus, sink or swim! Still at His footstool bow the knee And Israel's God, your strength shall be!"
-
 
 ---
 [[Sermon 3369 Man Humbled, God Exalted|← #3369]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3371 Two Choice Benedictions|#3371 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Faith in Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3095
 
-DELIVERED BY C. H. SPURGEON, AT THE FRIENDS' MEETING-HOUSE,.
+*Delivered by C. H. Spurgeon, at the Friends' Meeting-House*
 
 > Acts 16:31.
 
@@ -119,7 +118,7 @@ He will save you, He will save you,
 
 He will save you now!"
 
-EXPOSITION BY C. H. SPURGEON: JOHN31-21
+## Exposition by C. H. Spurgeon: John 31-21
 
 Verses 1, 2. There was a man of the Pharisees named Nicodemus, a ruler of the Jews: the same came to Jesus by night and said unto Him, Rabbi, we know that You are a Teacher come from God: for no man can do these miracles that You do, except God be with him. When enquirers come to see any of you who are Christians, do not begin talking to them, but let them begin by telling you what they have to say, for it will probably guide you as to what you shall say to them in return. Our Lord Jesus could read all hearts and He needed no one to tell Him what was there, yet, for our sakes He sets the example of letting Nicodemus speak first. This man was a Pharisee and, consequently, was apt to attach too much importance to the outward part of religion—so observe how the Savior deals with him by dwelling on the inner part of it—upon the necessity of the new birth. He has less to say to him about believing and more about experimental godliness and the work of the Holy Spirit in his heart. Our main business, in dealing with men's souls, is not to teach them what they want to know but what they really need to know, bringing forward ever that Truth of God which, if it is not the most palatable, shall be the most profitable to them.
 
@@ -148,7 +147,6 @@ Verses 1, 2. There was a man of the Pharisees named Nicodemus, a ruler of the Je
 14-18. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whoever believes in Him should not perish, but have eternallife. For Godso loved the world, that He gave His only begotten Son, that whoever believes in Him should not perish, but have everlasting life. For God sent not His Son into the world to condemn the world; but that the world through Him might be saved. He that believes on Him is not condemned: but he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God. That is the proof of his condemnation—he must be an enemy to God who will not believe on His Son! He who refuses to believe the witness of God is, by that very fact, convicted and condemned! And if he had no other sin, it is sin enough to sink him to the lowest Hell to deny the veracity of God—to make God a liar by refusing to believe in Jesus Christ His Son! See, then, how these two Truths are blended. "You must be born-again," and, "he that believes on Him is not condemned." Why is that? Because he is born-again! That new birth has taken place in him and eternal life is his because he has believed on the only begotten Son of God!
 
 19-21. And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For everyone that does evil hates the light, neither comes to the light, lest his deeds should be reproved. But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God. Now, my Friend, are you willing to come to the light—to the light of Scripture—to the light of Revelation? If so, so far well. God grant us Grace to feel that light is our friend—that we do not need to shun it, but desire to walk in it!
-
 
 ---
 [[Sermon 3094 Heart Piercing|← #3094]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3096 The Second Time|#3096 →]]

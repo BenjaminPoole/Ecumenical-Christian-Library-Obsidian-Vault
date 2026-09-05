@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PARDON AND FORGIVENESS**
+## **Pardon and Forgiveness**
 
 > He will not always chide: neither will he keep his anger for ever" Ps. 103:9
 
@@ -23,7 +22,6 @@ He will chide sometimes, or He would not be a wise Father for such poor erring c
 But what a comfort we find in these lines! "Not always" will He chide. If we repent and turn to Him with hearts broken for sin and broken from sin, He will smile upon us at once. It is no pleasure to Him to turn a frowning face toward those whom He loves with all His heart: it is His joy that our joy should be full.
 
 Come, let us seek His face. There is no reason for despair, nor even for despondency. Let us love a chiding God, and before long we shall sing: "Thine anger is turned away, and thou comfortest me." Begone, ye dark forebodings, ye ravens of the soul! Come in, ye humble hopes and grateful memories, ye doves of the heart! He who pardoned us long ago as a judge, will again forgive us as a father, and we shall rejoice in His sweet, unchanging love.
-
 
 ---
 [[FCB November 23|← November 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 25|November 25 →]]

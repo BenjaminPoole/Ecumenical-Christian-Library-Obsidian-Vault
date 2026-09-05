@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Must He?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2755
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when Jesus came to the place, He looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for today I must stay at your house." Luke 19:5.
 
@@ -71,7 +68,7 @@ Yes, dear Friends, if the Lord Jesus Christ should come to your house, you must 
 
 III. Now I must close by reminding you of WHAT WILL HAPPEN IF CHRIST COMES TO STAY IN YOUR
 
-HOUSE.
+## House
 
 First, you must be ready to meet objections at home. You who say that you are willing to receive my Master, are you quite sure that you know what that reception involves? Christ says that He wishes to stay at your house and that He must do so, and you say, "Yes, my Lord, I gladly welcome You to my heart and my home." But wait a moment, my Friend! Have you asked your wife about that matter? You know that you must not bring strangers home—she will be down upon you if you do. Have you counted the cost of your decision? And, my good woman, you say, "I want to bring Christ home with me." Have you asked your husband about it? Sometimes a dear child says, "Jesus Christ shall abide with me." But what will Father say? For, alas, often, the father is at enmity against God. If that is the case in your home, are you prepared to endure persecution for Christ's sake? Our Lord Himself said, "A man's foes shall be they of his own household." And it is often so. David said to Jonathan, "What if your father answers you roughly?" Suppose that is your experience—can you keep true to Christ under such circumstances? Can you say, "I love my wife. I love my child, I love my father, but I love Jesus more than all of them and I must have Christ in my heart, and in my house, even if it brings war there"? Ah, then, He will come to your house if that is your resolve. But if not, He will not come to take the second place. He will not come there if you turn coward at the first jest that is made against you, or the first hard thing that is spoken against your Lord. But He will come to your house if, despite all rebuffs and rebukes, you are determined that He shall make His abode with you.
 
@@ -107,7 +104,7 @@ Other refuge have I none,
 
 Hangs myhelpless soul on You!" So, Christ of God, we cast ourselves into Your arms! Save us, save us, save us for Your sweet mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE18:36-43; 19:1-10.
+## Exposition by C. H. Spurgeon: Luke 18:36-43; 19:1-10
 
 Luke 18:35-38. And it came to pass, that as He was come near unto Jericho, a certain blind man sat by the wayside begging. And hearing the multitude pass by, he asked what it meant And they told him, that Jesus of Nazareth passes by. And he cried, saying, Jesus, You son of David, have mercy on me! He did not need to be told twice who was passing by, nor did he need any exhortation to seek Christ's help. It was enough for him that Jesus of Nazareth was near him, so he would cry to Him for the help He alone could give. Oh, that we were half as sensible! Oh, that the blindness did not get into men's hearts! If it were not so, every blind soul would at once begin to cry to God for mercy! There is not one poor sinner here who knows that Jesus often passes this way, who would not begin at once to cry, "You Son of David, have mercy on me."
 
@@ -136,7 +133,6 @@ Luke 19:1. And Jesus entered. That is, He entered at one end of the town—
 8\. And if I have taken anything from any man by false accusation, I restore him fourfold.' 'I will not give to the poor or to God that which is not lawfully mine. I will not steal a sheep and give the feet to the poor, but I will give back, four times over, anything that I may have taken wrongfully and still the half of my future income shall go to the poor."
 
 9, 10. And Jesus said unto him, This day is salvation come to this house, because he also is a son of Abraham. For the Son of Man is come to seek and to save that which was lost
-
 
 ---
 [[Sermon 2754 Strange Dispensations and Matchless Consolations|← #2754]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2756 Saving the Lost|#2756 →]]

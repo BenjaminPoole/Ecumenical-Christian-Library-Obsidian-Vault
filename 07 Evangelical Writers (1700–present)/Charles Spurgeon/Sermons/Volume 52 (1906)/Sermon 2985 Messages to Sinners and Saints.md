@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Messages to Sinners and Saints
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2985
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For thus says the Lord GOOD, the Holy One ofIsrael, In returning and rest shall you be saved; in quietness and in confidence shall be your strength. But you would not." Isaiah 30:15.
 
@@ -124,7 +121,6 @@ And He can well secure
 What I've committed to His hands, Till the decisive hour."
 
 "That is it, James," he said, "there you have Divine Sovereignty and Sovereign Grace! That kind of doctrine will do to rest your soul upon, my son, both in life and in death." Calmly uttering such words as those, full of restful confidence in the faithful, Immutable God he had so long served, he closed his eyes and went Home, like a laboring man does when his day's work is done—just as you and I, Beloved, will soon go home. I do not know how long we may remain here—some of you may go very soon, and so may I—it does not much matter when we do go so long as we are ready. When I said, the other day, "So-and-So has gone Home," a dear old friend said to me, "Where could he go better?" Ah, just so! Where could he go better than go Home to his father and his God? Well, I trust that in those last days we shall neither fret, nor worry, nor trouble, nor question, nor doubt, nor fear—but in quietness and confidence shall be our strength! The Lord grant that it may be so, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2984 A Silly Dove|← #2984]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2986 One Aspect of Christ's Death|#2986 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 72. Luke 7:11-17
-
-**LUKE 7:11-17**
 
 **11**. And it happened, when he departed, that he went into a city, which was called Nain, and many of his disciples, and a great multitude, went along with him. **12**. And as he was approaching to the gate of the city, there was carried out a dead man, the only son of his mother, and she was a widow: and a great multitude from the city was with her. **13**. And when the Lord saw her, he was moved with compassion towards her, and said to her, Weep not. **14**. And approaching he touched the coffin, (and they who were carrying it stood still,) and said, Young man, I say to thee, Arise. **15**. And he who was dead sat up, and began to speak, and he gave him to his mother. **16**. And fear seized all, and they glorified God, saying, A great Prophet hath risen up among us, and God hath visited his people. **17**. And this report concerning him was spread throughout all Judea, and all the neighboring country.
 

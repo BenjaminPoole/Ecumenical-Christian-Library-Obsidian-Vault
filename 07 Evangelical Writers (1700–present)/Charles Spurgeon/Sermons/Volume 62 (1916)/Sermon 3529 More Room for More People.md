@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # More Room for More People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3529
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is done as you have commanded, and still there is room." Luke 14:22.
 
@@ -29,7 +26,7 @@ Our text tells us that the servant said, "It is done as you have commanded, and 
 
 I think I see here a satisfactory announcement—"It is done as You have commanded." A remarkable statement— "still there is room." And an implied consummation—that the room will eventually be filled. First, then—
 
-I. A DESIRABLE ANNOUNCEMENT.
+## I. A Desirable Announcement
 
 He said, "It is done as you have commanded." Those who serve God best, have generally the least to say about it. When I hear people boast of their religious attainments, I am apt to seriously suspect their deficiencies. A boastful Christian I knew something of, when talking to an earnest man, met with very curt replies. "And pray" said the one, "have not you any Grace ?" "Yes," said the other, "but I never had any to boast of." Disciples who are fullest of Divine Grace will
 
@@ -41,7 +38,7 @@ Know this, likewise, that the matter is urgent, for the Master said, "go out qui
 
 And have we not failed in another point? "Go out quickly into the streets and lanes of the city, and bring in the blind, and the crippled, and the maimed, and compel them to come in." There are certain missions now established for which we have reason to bless God greatly. There are works going on in London which are to the glory of Christendom. God speed them all! Such beloved friends as Miss MacPherson, Dr. Bernardo, our brother Orsman and many others deserve our love and esteem, for they have given themselves up to work among the poorest of the poor and the lowest of the low, bearing a great deal which some of us might shrink from, rejoicing to show their diligence among a people much neglected—and reaping a good harvest of comfort to themselves in the salvation of souls! But, dear Friends, where there is one of such works, there ought to be 50—and with this population of London, verging now upon four millions, when we have added all these works of faith and labors of love together, we might well say of them, "What are they among so many?" May God touch many of your hearts, my Brothers and Sisters, and make you feel the soft touch of sympathy for the perishing, while you hear the Master's words spoken to you, "Go out yourselves quickly, and lay hold on the blind, and the crippled, and the maimed and bring them in to the supper" Yes, bring them to Jesus! You cannot do it of yourself, but His Spirit dwells in you. Do not forget that! You are not an ordinary man. You are not an ordinary woman. "Know you not that your bodies are the Temples of the Holy Spirit?" God dwells in you! And with God in you, what can you not do? Have but faith in the indwelling Deity and attempt difficulties—no, attempt what some think impossibili-ties—and you shall find that with God all things are possible! Weak as you are, yet, through His strength, you shall perform all things! I pray God for this Church, that she may not be found guilty at the coming of Christ of not having gone out after the poor. Encourage them to come to this house at all times, whenever you can. I do not know where we are to put any more, but there is Thursday evening, and there is Monday evening, and there is room then. Oh, bring in whomever you can, for perhaps when the Gospel is preached, God may bless it to them. Let us not be deficient in this. In the next place we proposed to draw your attention to—
 
-II. A REMARKABLE STATEMENT.
+## II. A Remarkable Statement
 
 They had fished up all the poor people in the city and they had brought in the four characters—the poor, the maimed, the lame, and the blind—and after that it was alleged "still there is room."
 
@@ -81,7 +78,7 @@ pared mansion that has lost its prepared tenant! The reserved inheritance shall 
 
 But who will help to fill that room? Who out of this dense throng of people will help to fill the vacant places at the Gospel Supper? I cannot call you one by one, as I would like to, but I do call to you with all my heart, Come to Jesus! Should you say, "How shall I come?" Well, it is not a motion of the body—it is a motion of the mind. "What sort of motion of the mind?" do you ask. It is trust—trust—simple conviction and unquestioning faith! If you commit your case to Him, He will be concerned for you. Follow Christ—you shall have fellowship with Him. Your resolution will be evidence of your Redemption! Your plea will procure a sense of His pardon! By your acquiescence you will learn that you are "accepted in the Beloved." May God incline you, by the mighty operation of His Spirit, to come to Jesus! So shall my prayers be answered! So shall your souls be blessed forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 8:41-56.
+## Exposition by C. H. Spurgeon: Luke 8:41-56
 
 Verses 41, 42. And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus 'feet, and besought Him that He would come into his house: For he had one only daughter, about twelve years of age, and she lay dying. But as He went the people thronged Him. Notice the word, "behold," for this was a wonder that a man so high in position to come to Christ at all, especially one who was in an ecclesiastical position, for he "was a ruler of the synagogue." Usually those who had to do with the synagogue were great despisers of our Lord Jesus! God works great wonders, however, and sometimes the camel does go through the eye of the needle! This man's name was Jairus, a common Jewish name, and you will find it was the name of one of the judges recorded in the Book of Judges. Note this man's humility, "He fell down at Jesus' feet." The greatest of men must humble themselves before they can obtain mercy. Jesus Christ is always ready to receive, to accept and bless all those who fall down at His feet, but those who lift up themselves shall find Him to be their sure and swift enemy—and the day shall come when He shall abase them to the dust. "He besought Him that He would come into his house, for he had one only daughter, about twelve years of age, and she lay dying." She seems to have been not only the darling of the house, but of all the neighbors, too, for we find that all the neighbors came together to weep and to lament her. You find Matthew says that this daughter was already dead. It seems that some delay arose, so that the child died, but the father, with triumphant faith, still besought Him to come and raise her, even from the very jaws of death.
 
@@ -104,7 +101,6 @@ people for what cause she had touched Him, and how she was healed immediately. A
 55\. And her spirit came again, and she arose straightway: and He commanded to give her food.Do note here the word, "straightway." Just now we had the word, immediately, and now we have, straightway. It is one of the distinguishing features of the Gospel, both of Mark and of Luke, that both Evangelists use the word "eutheos," "straightway." Christ's miracles do not take a long time to do—they are done straightway! If there is a distressed soul here, now, your salvation need not take months and years—it may be done today, and in a moment you may be able to rejoice that your sins are forgiven, and that you are a child of God! "She arose straightway, and He commanded to give her food." There are no unnecessary miracles. It needed a miracle to give her life, but food could sustain it and, therefore, there is no further miracle performed.
 
 56\. And her parents were astonished: but He charged them that they should tell no man what was done.But we know from another Evangelist that the same thereof went abroad everywhere and, indeed, the healing of a soul is not a thing to be kept secret—but when any are raised from the dead the world must know it!
-
 
 ---
 [[Sermon 3528 A Promise and a Providence|← #3528]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3530 A Sad Confession|#3530 →]]

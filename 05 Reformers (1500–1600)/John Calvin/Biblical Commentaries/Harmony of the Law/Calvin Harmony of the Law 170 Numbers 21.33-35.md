@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 170. Numbers 21:33-35
-
-**Numbers 21**
 
 **33.** And they turned, and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Christian's Helmet
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3167
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And for a helmet the hope of salvation." 1 Thessalonians 5:8.
 
@@ -65,7 +62,7 @@ They tell us that the Church of God is in great danger and that Popery will spre
 
 III. God has provided a covering for your heads, let us therefore now CONSIDER THE HELMET WITH WHICH
 
-HE WOULD HAVE YOUR HEADS PROTECTED.
+## He Would Have Your Heads Protected
 
 "The hope of salvation!" This is not the hope I spoke about this morning, for that was the hope that salvation was possible. This helmet is made up of an actual hope that, being already saved in Christ Jesus, you should abide unto eternal life. It is a personal hope, founded upon personal conviction—and is worked in us by the Holy Spirit.
 
@@ -101,9 +98,9 @@ Ah, it is not very likely that any sword of mine will get at your head! Argument
 
 Oh, I wish you would take off that helmet! May God grant you Grace to unbuckle it tonight, never to put it on again! Do care. You are not a fool, my Friend, are you? It is only a fool who says, "What do I care?" Surely you care about your soul! Surely Heel is worth escaping from! Surely Heaven is worth winning! Surely that Cross on which our Savior died is worth thinking of Surely that poor soul of yours is worth caring about! Do, I pray you, think, and not go hastily on. Oh, may Jesus Christ, who died for such as you are, bring you to trust Him! And then, unbuckling all that evil armor of, "What do I care?" you will bow before His Cross and kiss His hands—and He will put upon you the golden helmet of a hope of salvation and you will rise, one of the Kings own soldiers, to fight His battles and win an immortal wreath of everlasting victory! May it is so with every one of us!
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-1THESSALONIANS 5:1-28.
+## 1thessalonians 5:1-28
 
 Verses 1, 2. But of the times and the seasons, brethren, you have no need that I write you. For you yourselves know perfectly that the day of the Lord comes as a thief in the night It will be a great surprise to the wicked. It will take them by surprise. Just at that moment when they least expect it, Christ will come, and as the thief comes to destroy and to kill, so will the coming of Christ be the death of their carnal ease—the destruction of their earthly hopes!
 
@@ -138,7 +135,6 @@ Verses 1, 2. But of the times and the seasons, brethren, you have no need that I
 23-26. And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ Faithful is He that calls you, who also will do it Brethren, pray for us. Greet all the brethren with a holy kiss. Give one another a hearty shake of the hands. That is the western interpretation of the eastern form. Outward forms differ. The inward sense abides the same. Let brotherly love continue in a hearty friendliness among yourselves.
 
 27, 28. I charge you by the Lord that this Epistle be read unto all the holy brethren. The Grace of our lord Jesus Christ be with you. Amei.
-
 
 ---
 [[Sermon 3166 'A Greater Than Solomon'|← #3166]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3168 The Scarlet Line in the Window|#3168 →]]

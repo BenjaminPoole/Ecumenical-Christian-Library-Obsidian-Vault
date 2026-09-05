@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Our Lord's Last Cry from the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2311
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when Jesus had cried with a loud voice, He said, Father, into Your hands I commend My spirit: and having said this, He gave up the ghost." Luke 23:46.
 
@@ -115,7 +112,7 @@ This privilege is not only that of having rest in danger, and confidence in the 
 
 O Beloved, begin tomorrow morning and end tonight with, "Father, into Your hands I commend my spirit." The Lord be with you all! Oh, if you have never prayed, God help you to begin to pray now, for Jesus' sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. LUKE23:27-49, MATTHEW27:50-54.
+## Expositions by C. H. Spurgeon. Luke 23:27-49, Matthew 27:50-54
 
 Luke 23:27. And there followed Him a great company ofpeople, and of women, which also bewailed and lamented Him. Their best Friend, the Healer of their sick, the Lover of their children, was about to be put to death, so they might well bewail and lament.
 
@@ -156,7 +153,6 @@ Matthew 27:50. Jesus, when He had cried again with a load voice, yielded up the 
 See what marvels accompanied and followed the death of Christ! The earth did quake, and the rocks rent; and the graves were opened. Thus did the material world pay homage to Him whom man had rejected, while Nature's convulsions foretold what will happen when Christ's voice once more shakes not the earth, only, but also Heaven! These first miracles worked in connection with the death of Christ were typical of spiritual wonders that will be continued till He comes again—rocky hearts are rent, graves of sin are opened, those who have been dead in trespasses and sins, and buried in sepulchers of lust and evil, are quickened and come out from among the dead, and go unto the holy city, the New Jerusalem!
 
 54\. Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God. These Roman soldiers had never witnessed such scenes in connection with an execution, before, and they could only come to one conclusion about the illustrious Prisoner whom they had put to death—"Truly this was the Son of God." It was strange that those men should confess what the chief priests and scribes and elders denied, yet since their day it has often happened that the most abandoned and profane have acknowledged Jesus as the Son of God while their religious rulers have denied His Divinity.
-
 
 ---
 [[Sermon 2310 Howling Changed To Singing|← #2310]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2312 Achsah's Asking—a Pattern of Prayer|#2312 →]]

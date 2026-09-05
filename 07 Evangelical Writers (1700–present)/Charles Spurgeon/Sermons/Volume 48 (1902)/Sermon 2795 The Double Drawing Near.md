@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Double Drawing Near
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2795
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Draw near to God, and He will draw near to you." James 4:8.
 
@@ -107,7 +104,7 @@ If you live down in the marshes, you will get the chills and fever. But if you l
 
 May the Lord bless you, Beloved, with all that this drawing near to Him is capable of giving to you, for His dear name and mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JAMES4.
+## Exposition by C. H. Spurgeon: James 4
 
 Verse 1. Where do wars and fights come from among you? Whether between nations, or parties or individuals—if there are wars and fights, where do they come from?
 
@@ -146,7 +143,6 @@ Grace."
 12-15. There is one Lawgiver, who is able to save and to destroy: who are you that judges another? Come now, you who say, Today or tomorrow we willgo into such a city, and continue there a year, and buy andsell, andgetgain: whereas you do not know not what will happen tomorrow. For what is your life? It is even a vapor, that appears for a little time, and then vanishes away. For that you ought to say, If the Lord wills, we shall live, and do this, or that We are all too apt to say what we will do and where we will go, forgetting to add, "If the Lord wills, we shall live, and do this, or that."
 
 16, 17. But now you rejoice in your boastings: all such rejoicing is evil Therefore to him that knows to do good, and does it not, to him it is sin. There are sins of omission as well as sins of commission! May the Lord graciously keep us from both forms of the evil, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2794 A Refreshing Canticle|← #2794]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2796 A Man of God Alone With God|#2796 →]]

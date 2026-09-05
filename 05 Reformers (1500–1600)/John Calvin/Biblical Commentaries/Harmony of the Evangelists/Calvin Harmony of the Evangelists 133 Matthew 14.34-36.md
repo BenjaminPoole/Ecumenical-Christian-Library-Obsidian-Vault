@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 133. Matthew 14:34-36; Mark 6:53-56
-
-**Matthew 14:34-36; Mark 6:53-56**
 
 **34**. And when they had passed over, they came into the country of Gennesareth. **35**. And when the men of that place had recognized him, they sent messengers into all the surrounding country, and brought to him all that were diseased. **36**. And besought him that they might ouch only the fringe of his robe; and as many as touched were made whole.
 

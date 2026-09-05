@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 60. Matthew 6:31-34;Luke 12:29-32
-
-**MATTHEW 6:31-34; LUKE 12:29-32**
 
 **31**. Be not therefore anxious, saying, What shall we eat? or what shall we drink? or with what shall we be clothed? **32**. For all those things the Gentiles seek: for your heavenly Father knoweth that you have need of these things. **33**. But rather seek first the kingdom of God, and his righteousness, and all these things shall be added unto you. **34**. Be not therefore anxious about tomorrow: for tomorrow will take care of itself. Its own affliction is sufficient for the day.
 

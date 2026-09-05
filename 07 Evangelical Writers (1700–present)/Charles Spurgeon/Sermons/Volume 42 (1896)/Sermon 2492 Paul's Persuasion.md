@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Paul's Persuasion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2492
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come nor height, nor depth nor any other creature, shall be able to separate us from the love ofGod which is in Christ Jesus our Lord." Romans 8:38,39.
 
@@ -91,7 +88,7 @@ Yes, and the Apostle seems to hint that this persuasion that Christ would not le
 
 I wish that all here present had a share in my blessed text. It is an intense regret to me that I cannot present it to some of you. You do not know the love of Christ. Oh, that you would come and learn it! May the sweet Spirit lead you to Jesus, cause you to look to Him upon the Cross and trust in Him! Then you will have something worth hearing, for you will have a love that never changes—a love that shall never be separated from you nor you from it! God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 6.
+## Exposition by C. H. Spurgeon: Hebrews 6
 
 In the previous chapter Paul was writing to some who ought to have been teachers, but who still needed to be taught the first principles of the Gospel. They were such babes in Grace that they needed the milk of the Word—the very simplest elements of Gospel Truth—and not the strong meat of solid doctrine. The Apostle, however, desires that the Hebrew Believers should understand the more sublime doctrines of the Gospel and so be like men of full age who can eat strong meat. In this chapter he exhorts them to seek to attain to this standard.
 
@@ -124,7 +121,6 @@ Covenant shall stand. Therefore, be of good courage, and press forward in the Di
 19\. Which hope we have as an anchor of the soul, both sure and steadfast, and which enters into that within the veil Sailors throw their anchors downwards—we throw ours upwards! Their anchor goes within the veil of the waters into the deeps of the sea—ours goes within the veil of Glory, into the heights of Heaven where Jesus sits at the right hand of God— "within the veil."—
 
 20\. Where the Forerunner is for us entered, even Jesus, made an High Priest forever after the order ofMelchisedec.
-
 
 ---
 [[Sermon 2491 Shame Leading to Salvation|← #2491]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2493 A Man Named Matthew|#2493 →]]

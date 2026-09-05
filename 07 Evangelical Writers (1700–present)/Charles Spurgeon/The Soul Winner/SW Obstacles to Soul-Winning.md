@@ -7,14 +7,13 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Obstacles to Soul-Winning
 
 *The Soul Winner* — Charles H. Spurgeon
 
 I HAVE spoken to you, brethren, at different times, about soul-winning—that most royal employment. May you all become, in this sense, mighty hunters before the Lord, and bring many sinners to the Saviour! I want, at this time, to say a few words upon—
 
-THE OBSTACLES THAT LIE IN OUR PATH AS WE SEEK TO WIN SOULS FOR CHRIST.
+## The Obstacles that Lie in Our Path as We Seek to Win Souls for Christ
 
 They are very many, and I cannot attempt to make a complete catalogue of them; but the first, and one of the most difficult is, doubtless, *the indifference and lethargy of sinners.* All men are not alike indifferent; in fact, there are some persons who seem to have a sort of religious instinct, which influences them for good, long before they have any real love to spiritual things. But there are districts, especially rural districts, where indifference prevails; and the same state of things exists in various parts of London. It is not infidelity; the people do not care enough about religion even to oppose it. They are not concerned as to what you preach, or where you preach, for they have no interest whatever in the matter. They have no thought of God; they care nothing about Him, or His service, they only use His name in profanity. I have often noticed that any place where there is little business doing is bad for religious effort. Among the negroes of Jamaica, whenever they had not much work, there was little prosperity in the churches. I could indicate districts, not far from here, where business is slack; and there you will find that there is very little good being done. All along the valley of the Thames, there are places where a man might preach his heart out, and kill himself; but there is little or nothing of good being accomplished in those regions, just as there is no active business life there.
 
@@ -43,7 +42,6 @@ I may mention one more obstacle to soul-winning, that is, the obstacle there is 
 This book was transcribed for by David R. Heesen.
 
 . . . or go back to main page.
-
 
 ---
 [[SW Sermons Likely to Win Souls|← Sermons Likely to Win Souls]] · [[The Soul Winner|The Soul Winner Contents]] · [[SW How to Induce Our People to Win Souls|How to Induce Our People to Win Souls →]]

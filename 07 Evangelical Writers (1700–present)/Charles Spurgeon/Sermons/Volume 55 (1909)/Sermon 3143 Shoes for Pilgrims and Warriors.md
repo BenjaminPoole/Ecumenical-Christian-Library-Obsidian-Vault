@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Shoes for Pilgrims and Warriors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3143
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And your feet shod with the preparation of the Gospel of Peace." Ephesians 6:15.
 
@@ -81,7 +78,7 @@ Lastly, this shoe is good for fighting, and that I gather from Paul having put i
 
 Let this suffice concerning these shoes, but a serious question suggests itself to me. Are there not some of you who have to travel to eternity and yet have no shoes for the journey? How can the unconverted man hope to reach Heaven when he has no shoes on his feet? How will he bear the troubles of life, the temptations of the flesh and the trials of death? I pray you, unconverted ones, look at yourselves and at the way—and see how impossible it is for you to accomplish the journey unless you go to Jesus and obtain from Him the Grace which will make you pilgrims to Glory! Go, I pray you, and find peace in Him—and then your life-journey shall be happy and safe, and the end eternal joy—for your feet will be shod with "the preparation of the Gospel of Peace."
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS 6:10-24.
+## Exposition by C. H. Spurgeon: Ephesians 6:10-24
 
 Verse 10. Finally, my brethren, be strong in the Lord, and in the power of His might Everything depends upon that. Whether you are called upon to work, or to wait, or to watch, or to suffer, you have need to be strong. If you are not strong, the very armor that you wear will be a burden to you! It is of the utmost importance that Christians should be as strong in Grace as they can possibly be. And the power that is to be in them is to be the power of God—"the power of His might." What a wonderful power that is! The power of flesh is weakness and the power of man is fading, but the power of God is almighty and unchangeable! And if we can be girt about with this power, there is scarcely any limit to what we may successfully attempt.
 
@@ -128,7 +125,6 @@ asunder of soul and spirit, of joints and marrow and is a discerner of the thoug
 20-22. That therein I may speak boldly, as I ought to speak But that you also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things: whom I have sent unto you for the same purpose, that you might know our affairs, and that he might comfort your hearts. It is well for Christian people to know how it fares with their spiritual guides. Paul wished the Ephesian saints to know in what state of heart he found himself—that they might the more intelligently pray for him.
 
 23, 24. Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. Grace be with all them that love our Lord Jesus Christ in sincerity. Amen. I am sure that we can heartily repeat that benediction. May the Lord send much of His Grace to all His people in every part of the earth who love Him in sincerity! Amen.
-
 
 ---
 [[Sermon 3142 Established Work|← #3142]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3144 'The True Sayings of God'|#3144 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 16
-
-**PSALM 16.**
 
 In the beginning David commends himself to the protection of God. He then meditates upon the benefits which he received from God, and thereby stirs himself up to thanksgiving. By his service, it is true, he could in no respect be profitable to God, but he, notwithstanding, surrenders and devotes himself entirely to him, protesting that he will have nothing to do with superstitions. He also states the reason of this to be, that full and substantial happiness consists in resting in God alone, who never suffers his own people to want any good thing.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Sympathy and Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3517
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Rejoice with them who rejoice." Romans 12:15.
 
@@ -79,7 +76,7 @@ Come, Brothers and Sisters, let us, too, rejoice! Forget your own troubles a whi
 
 Now suppose the preacher should receive a message tonight that every soul here would be saved except one, and suppose it were revealed to him who that one would be and he was expected, now, to point out that one! Oh, dreadful message! With what trembling would you all sit, each one afraid lest it should be yourself to be left unsaved. I have no such message, thank God! And yet, yet if I could hope that all here would be saved but one, I must confess my heart would be lighter than it is, for unless some of you repent, forsake your sins, and fly to Christ, the lost will not be one, but many! Dear Hearer, let it not be you! While Mercy, still with silken accents speaks and cries, "Return, return!" While Love with bleeding hands beckons and cries with the wounded side of Christ, "Oh, believe and come! Whoever believes on Him shall be saved, for he that believes and is baptized shall be saved. He that believes not shall be damned!" May God help you to trust in Christ and live! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 12:1-16.
+## Exposition by C. H. Spurgeon: Romans 12:1-16
 
 Verse 1. I beseech you, therefore, brethren—Paul is a calm reasoner. He is a bold stater of Truth of God, but here he comes to pleading with us. I think that I see him lift the pen from the paper and look round upon us as with the accent of entreaty, and say, "I beseech you, therefore, brethren, by the mercies of God, by God's great mercy to you, His many mercies, His continued mercies." What stronger plea could the Apostle have? "I beseech you, brethren, by the mercies of
 
@@ -124,7 +121,6 @@ God."
 15\. And weep with them who weep. Sympathize with mourners. Take a share of their burden. I really believe that it is easier to weep with them who weep than it is to rejoice with them who rejoice—for this old flesh of ours begins to envy those who rejoice—whereas it does not so much object to sympathize with those that sorrow. Carry out both commands. "Rejoice with them who rejoice. Weep with them who weep."
 
 16\. Be of the same mind, one toward another Agree together, you Christian people. Do not be always arguing and discussing. Be of the same mind, one towards another. In Church life, very much must depend upon our unity in mind as well as in heart. "One Lord, one faith, one Baptism"—these help to make a good foundation for Christian fellowship!
-
 
 ---
 [[Sermon 3516 Love and Jealousy|← #3516]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3518 The Powerful Truth of God|#3518 →]]

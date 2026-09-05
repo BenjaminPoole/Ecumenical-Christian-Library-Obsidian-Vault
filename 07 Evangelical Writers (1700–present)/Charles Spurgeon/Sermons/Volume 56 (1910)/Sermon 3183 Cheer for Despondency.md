@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Cheer for Despondency
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3183
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You know not what a day may bring forth." Proverbs 27:1.
 
@@ -73,7 +70,7 @@ I wish that the Lord would bless these words of mine to disconsolate ones. I thi
 
 III. Now thirdly, turning this time not to those who are fearing the future, nor yet to those who are disconsolate about present affliction, I thought of addressing a few words to THOSE WHO ARE WEARIED IN THE MASTER'S
 
-SERVICE.
+## Service
 
 I can scarcely sympathize, as I could wish to do, with those who have worked for Christ unsuccessfully. To say, "Master, I have toiled all the night and have taken nothing," has never been my lot and, therefore, I can only speak from what I suppose to be the feeling of unsuccessful men. For these many years I have been preaching the Gospel in this great London and I know not that at any time God has blessed us more than He is blessing us now! Neither can I say that at any time He has blessed us less, for it seems as if He has always been giving us more than we can receive and blessing the Word exceedingly above what we asked or ever thought! There is room for nothing in my case but gratitude and encouragement, for humble dependence upon God for the future and adoring joy for the past and the present.
 
@@ -126,7 +123,6 @@ My God, with You,
 And see Your face?"
 
 I have not time to say much to others here who are not concerned in these sweet themes, but I will at least say this. Let thee careless and thoughtless here remember that they do not know what a day may bring forth. Tomorrow it may not be that grand party to which you are intending to go. Tomorrow it may not be that sweet sin of which your evil nature is thinking. Tomorrow may see you on a sickbed. Tomorrow may see you on your deathbed. Tomorrow, worst of all, may see you in Hell! O Sinner, what a state to live in—to be in daily jeopardy of eternal ruin, to have the wrath of God, who is always angry with the wicked, abiding on you—and not to know but that tomorrow you may be where you can find no escape, no hope, no comfort! Tomorrow in eternity! Tomorrow banished from His Presence forever! Tomorrow to have that awful sentence thrilling in your soul, "Depart from Me, you cursed, into everlasting fire, prepared for the devil and his angels."
-
 
 ---
 [[Sermon 3182 Boldness at the Throne|← #3182]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3184 Maroth—or, the Disappointed|#3184 →]]

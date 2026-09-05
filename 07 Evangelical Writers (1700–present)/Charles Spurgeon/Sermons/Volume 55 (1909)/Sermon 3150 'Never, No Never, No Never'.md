@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'Never, No Never, No Never'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3150
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let your conversation be without covetousness: and be content with such things as you have. For He has said, I will never leave you, nor forsake you. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me." Hebrews 13:5, 6.
 
@@ -51,7 +48,7 @@ One other passage contains part of our text in another form. It is that well-kno
 
 II. Now we will change the run of our thought and VIEW THESE WORDS AS AN ADAGE OR HOUSEHOLD
 
-WORD FROM GOD.
+## Word from God
 
 I think this must have been a sort of proverb or common saying among the early Christians, "The Lord has said, I will never leave you, nor forsake you," and that it was one of the things that they constantly said, the one to the other. I wish that we had more such holy proverbs current among us nowadays—that our common sayings were more worth saying than they often are, and that our proverbial philosophy were more truly Christian philosophy!
 
@@ -101,7 +98,7 @@ Though there are a thousand influences that might make a true man fall and cause
 
 Grace of God we grasp "the Sword of the Spirit, which is the Word of God"—and with brave hearts and strong we stand steadfastly for the faith! And so will we stand until the Truth shall win the day and the victory shall be unto the Captain of our salvation! Stand fast, Brothers and Sisters, in the name of God, and may the Lord bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 13:1-21.
+## Exposition by C. H. Spurgeon: Hebrews 13:1-21
 
 This is a practical Chapter at the close of this most instructive Epistle.
 
@@ -136,7 +133,6 @@ to His name. [See Sermon #2048, Volume 34—A LIFE-LONG OCCUPATION.] If you are 
 20, 21. Now the God of Peace, that brought again from the dead our Lord Jesus, that Great Shepherd of the sheep, through the blood of the Everlasting Covenant make you perfect in every good work to do His will, working in you that which is ever pleasing in His sight, through Jesus Christ; to whom be glory forever and ever. Amen. [See Sermons #277, Volume
 
 5—THE BLOOD OF THE EVERLASTING COVENANT; #1186, Volume 20—THE BLOOD OF THE COVENANT and #1368, Volume 23—THE GOD OF PEACE AND OUR SANCTIFICATION.]
-
 
 ---
 [[Sermon 3149 The Commissariat of the Universe|← #3149]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3151 The Lord's Supper—simple But Sublime!|#3151 →]]

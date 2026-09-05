@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule VIII. Tender and affectionate participation with one another in their several states and conditions, — bearing each other’s burdens
-
-Rule viii. Tender and affectionate participation with one another in their several states and conditions, — bearing each other’s burdens.
 
 Gal. vi. 2, “Bear ye one another’s burdens, and so fulfil the law of Christ.”
 
@@ -41,7 +38,6 @@ Explication viii. The former rule concerned the carriage and frame of spirit tow
 4\. Personal visitations in sicknesses, troubles, and restraints, to advise, comfort, and refresh them, Matt. xxv. 36.
 
 5\. Suitable supportment, by administration of spiritual or temporal assistances, to the condition wherein they are. The motives are the same as to the former rule.
-
 
 ---
 [[ECFC 19 Rule VII. Mutually to bear with each other’s infirmities, weakness, tenderness|← Rule VII. Mutually to bear with each other’s infirmities, weakness, tenderness, failings, in meekness, patience, pity, and with assistance]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 21 Rule IX. Free contribution and communication of temporal things to them that|Rule IX. Free contribution and communication of temporal things to them that are poor indeed, suitable to their necessities, wants, and afflictions →]]

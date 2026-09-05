@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 102
-
-**PSALM 102**
 
 This prayer seems to have been dictated to the faithful when they were languishing in captivity in Babylon. Sorrowful and humbled, they first bewail their afflictions. In the next place, they plead with God for the restoration of the holy city and temple. To encourage themselves to come before him in prayer with the greater confidence, they call to remembrance the Divine promises in reference to the happy renovation both of the kingdom and of the priesthood; and they not only assure themselves of deliverance from captivity, but also beseech God to bring kings and nations in subjection to himself. In the close of the psalm, after having interposed a brief complaint concerning their distressing and afflicted condition, they draw consolation from the eternity of God; for, in adopting his servants to a better hope, he has separated them from the common lot of men.
 

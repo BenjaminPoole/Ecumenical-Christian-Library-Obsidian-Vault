@@ -38,7 +38,7 @@ tags:
 
 **15.** The first fruits of Achaia - The first converts in that province.
 
-**16.** That ye also - In your turn. Submit to such - So repaying their free service. And to every one that worketh with us and laboureth - That labours in the gospel either with or without a fellow- labourer.
+**16.** That ye also - In your turn. Submit to such - So repaying their free service. And to every one that worketh with us and laboureth - That labours in the gospel either with or without a fellow-labourer.
 
 **17.** I rejoice at the coming of Stephanas, and Fortunatus, and Achaiacus - Who were now returned to Corinth but the joy which their arrival had occasioned remained still in his heart. They have supplied what was wanting on your part - They have performed the offices of love, which you could not, by reason of your absence.
 

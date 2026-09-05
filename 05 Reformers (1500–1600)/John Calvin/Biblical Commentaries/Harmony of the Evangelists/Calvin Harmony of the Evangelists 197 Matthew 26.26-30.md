@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 197. Matthew 26:26-30; Mark 14:22-26; Luke 22:17-20
-
-MATTHEW 26:26-30; MARK 14:22-26;  
-LUKE 22:17-20
 
 **26.** And while they were eating, Jesus took bread; and when he had given thanks, broke it, and gave it to the disciples, and said, Take, eat; this is my body. **27.** And having taken the cup and given thanks, he gave it to them, saying, Drink you all of it. **28.** For this is my blood of the new testament, which is shed for many for the remission of sins. **29.** And I tell you, I will not henceforth drink [^1] of the fruit of the vine, till that day when I shall drink it new with you in the kingdom of my father. **30.** And when they had sung a hymn, they went out into the mountain of Olives.
 

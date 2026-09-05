@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Good Advice For Troublous Times
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2387
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come, My people, enter your chambers, and shut your doors behind you: hide yourself, as it were, for a little moment, until the indignation is past." Isaiah 26:20.
 
@@ -166,7 +163,6 @@ Verse 1. Truly God is good to Israel, even to such as are of a clean heart. The 
 26, 27. My flesh and my heart fails: but God is the strength of my heart, and my portion forever. For, lo, they that are far from You shall perish: You have destroyed all them that go a whoring from You. To love the world, to love riches, to love sin, to love self—this is to be unfaithful to our Marriage Covenant with God—let such conduct never be ours.
 
 28\. But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all Your works. Thus, you see, the Psalmist went down to the depths, but he came up, again, all right, and his heart was made glad in the Lord, his God! So may it be with any of us who, like he, has been envious of the foolish, when we have seen the prosperity of the wicked.
-
 
 ---
 [[Sermon 2386 The Drawings Of Divine Love|← #2386]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2388 Once Dead, Now Alive|#2388 →]]

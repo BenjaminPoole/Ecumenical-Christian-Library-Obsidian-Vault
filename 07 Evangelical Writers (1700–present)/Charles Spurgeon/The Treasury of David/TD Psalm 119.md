@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 119
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -28,7 +27,7 @@ Our best improvement of this sacred composition will come through getting our mi
 
 This sacred ode is a little Bible, the Scriptures condensed, a mass of Bibline, Holy Writ rewritten in holy emotions and actions. Blessed are they who can read and understand these saintly aphorisms; they shall find golden apples in this true Hesperides, and come to reckon that this Psalm, like the whole Scripture which it praises, is a pearl island, or, better still, a garden of sweet flowers.
 
-**NOTES RELATING TO THE PSALM AS A WHOLE**
+## **Notes Relating to the Psalm as a Whole**
 
 Eulogium upon the whole Psalm. This Psalm shines and shows itself among the rest,
 
@@ -2314,7 +2313,7 @@ Upon this Octonary the Notes furnished by Mr. Marchant, one of the Tutors of the
 
 SECTION h **HE**.
 
-**SUBJECT: THE LAW OF JEHOVAH TO BE SET BEFORE THE EYES, THE** **WIND, THE FEET, AND THE HEART.**
+## **Subject: The Law of Jehovah to Be Set Before the Eyes, the** **Wind, the Feet, and the Heart.**
 
 Key phrase: dtrma drkel Mqh. **Set up before thy servant thy** **word** (Psalms 119:38).
 
@@ -2543,8 +2542,6 @@ Thus the sense of these four methodical petitions in this section is as follows:
 **Ver. 36. Covetousness.** S. Bonaventura, on our Psalm, says *Covetousness* must be hated, shunned, put away: must be hated, because it attacks the life of nature: must be shunned, because it hinders the life of grace: must be put away, because it obstructs the life of glory. Clemens Alexandrinus says that covetousness is the citadel of the vices, and Ambrose says that it is the loss of the soul. *Thomas Le Blanc.*
 
 **Ver. 36. Covetousness.** I would observe to the reader, and desire him duly and seriously to consider, that although this commandment, "Thou shalt not covet, "is placed the last in number, yet it is too often the first that is broken, man's covetous heart leading the van in transgression. *William Crouch, in "The Enormous Sin of Covetousness detected,*"
-
-1709.
 
 **Ver. 36. Covetousness** is an immoderate desire of riches, in which these vices concur. *First*, An excessive love of riches, and the fixing of our hearts upon them. *Secondly*, A resolution to become rich, either by lawful or unlawful means, 1 Timothy 6:9. *Thirdly*, Too much haste in gathering riches, joined with impatience of any delay, Proverbs 28:20, Proverbs 28:22, Proverbs 28:20:21.
 
@@ -5972,8 +5969,6 @@ How is David ever and anon talking of his delight in the law of God, and in his 
 
 **Ver. 92. Thy law...my delights...in mine affliction.** I happened to be standing in a grocer's shop one day in a large manufacturing town in the west of Scotland, when a poor, old, frail widow came in to make a few purchases. There never was, perhaps, in that town a more severe time of distress. Nearly every loom was stopped. Decent and respectable tradesmen, who had seen better days, were obliged to subsist on public charity. So much money per day (but a trifle at most) was allowed to the really poor and deserving. The poor widow had received her daily pittance, and she had now come into the shop of the grocer to lay it out to the best advantage. She had but a few coppers in her withered hands. Carefully did she expend her little stock a pennyworth of this and the other necessary of life nearly exhausted all she had. She came to the last penny, and with a singular expression of heroic contentment and cheerful resignation on her wrinkled face, she said, "Now I must buy oil with this, that I may see to read my Bible during these long dark nights, for it is my only comfort now when every other comfort has gone away." *Alexander Wallace,*in "The Bible and the Working Classes, "
 
-1853.
-
 **Ver. 92.** This verse I may call a Perfume against the Plague; The Sick Man's Salve; The Afflicted Man's Consolation; and a blessed Triumph, in and over all troubles. *Richard Greenham.*
 
 ### Hints to Preachers
@@ -6918,7 +6913,7 @@ Let me remind you that this surrender must be perpetual. You must give yourself 
 
 I would further advise and urge, that this dedication may bc made with all possible solemnity. Do it in express words. And perhaps it may be in many cases most expedient, as many pious divines have recommended, to do it in writing. Set your hand and seal to it, "that on such a day of such a month and year, and at such a place, on full consideration and serious reflection, you came to this happy resolution, that whatever others might do, you would serve the Lord." *Philip Doddridge* (1702-1751) in *"The Rise and Progress of* *Religion in the Soul."*
 
-**Ver. 106.** Frequently renew settled and holy resolutions. A soldier un- resolved to fight may easily be defeated. True and sharpened courage treads down those difficulties which would triumph over a cold and wavering spirit. Resolution in a weak man will perform more than strength in a coward. The weakness of our graces, the strength of our temptations, and the diligence of our spiritual enemies, require strong resolutions. We must be "steadfast and unmoveable, "and this will make us "abound in the work of the Lord": 1 Corinthians 15:58. Abundant exercise in God's work will strengthen the habit of grace, increase our skill in the contest, and make the victory more easy and pleasant to us. Let us frame believing, humble resolutions in the strength of God's grace, with a fear of ourselves, but a confidence in God. David bound himself to God with a hearty vow, depending upon his strength: "I have sworn, and i will perform it, that I will keep thy righteous judgments." This was not in his own strength, for, Psalms 119:107, he desires God to quicken him, and to "accept the freewill offerings of his mouth, "Psalms 119:108, namely, the oath which proceeded from a free and resolved will. God will not slight, but strengthen the affectionate resolutions of his creature. We cannot keep ourselves from falling unless we first keep our resolutions from flagging. *Stephen Charnock.*
+**Ver. 106.** Frequently renew settled and holy resolutions. A soldier un-resolved to fight may easily be defeated. True and sharpened courage treads down those difficulties which would triumph over a cold and wavering spirit. Resolution in a weak man will perform more than strength in a coward. The weakness of our graces, the strength of our temptations, and the diligence of our spiritual enemies, require strong resolutions. We must be "steadfast and unmoveable, "and this will make us "abound in the work of the Lord": 1 Corinthians 15:58. Abundant exercise in God's work will strengthen the habit of grace, increase our skill in the contest, and make the victory more easy and pleasant to us. Let us frame believing, humble resolutions in the strength of God's grace, with a fear of ourselves, but a confidence in God. David bound himself to God with a hearty vow, depending upon his strength: "I have sworn, and i will perform it, that I will keep thy righteous judgments." This was not in his own strength, for, Psalms 119:107, he desires God to quicken him, and to "accept the freewill offerings of his mouth, "Psalms 119:108, namely, the oath which proceeded from a free and resolved will. God will not slight, but strengthen the affectionate resolutions of his creature. We cannot keep ourselves from falling unless we first keep our resolutions from flagging. *Stephen Charnock.*
 
 **Ver. 106. I have sworn, and I will perform it.** Theodoricus, Archbishop of Cologne, when the: Emperor Sigismund demanded of him the most direct and most compendious way how to attain true happiness, made answer in brief, thus: "Perform when thou art well what thou promisedst when thou wast sick." David did so; he made vows in war, and paid them in peace; and thus should all good men do; not like the cunning devil, of whom the epigrammatist writeth:
 
@@ -7145,8 +7140,6 @@ therefore it is to be hoped he will not. *M. Henry.*
 **Ver. 110. The wicked.** He calls them wicked men; which imports three things. First, they work wickedness. Secondly, they love it. Thirdly, they persevere in it. *William Cowper.*
 
 **Ver. 110. A snare.** One manner of catching wild animals, such as lions, bears, jackals, foxes, hart, roebuck, and fallow deer, was by a trap (paeh), which is the word used in this place; this was set under ground (Job 18:10), in the run of the animal (Proverbs 22:5), and caught it by the leg (Job 18:9). *William Latham Bevan*, in *Smith's Dictionary of the Bible*,
-
-1863.
 
 **Ver. 110. The wicked have laid a snare for me.** In eating, he sets before us gluttony; in love he impels to lust; in labour, sluggishness; in conversing, envy; in governing, covetousness; in correcting, anger; in honour, pride; in the heart, he sets evil thoughts; in the mouth evil words; in actions, evil works; when awake, he moves us to evil actions; when asleep, to filthy dreams. *Girolamo Savonarola*, 1452-1498.
 
@@ -9872,7 +9865,7 @@ We know that in afflictions it is some comfort to us to have our crosses known t
 
 **Verses 153-160**. Divine consideration besought. "Consider my affliction" (Psalms 119:153); my cause (Psalms 119:154); "for thy mercies' sake" (Psalms 119:156). Consider my persecutors (Psalms 119:157-158), and my love to thy precepts (Psalms 119:160) and act accordingly.
 
-**HINTS TO THE PREACHERS.**
+## **Hints to the Preachers.**
 
 **Ver. 153-159.** The two considers. The subjects, the prayers, the arguments.
 
@@ -10650,8 +10643,6 @@ honour.
 
 **Ver. 165. Great peace have they which love thy law.** There have been Elis trembling for the ark of God, and Uzzahs putting out their hand in fear that it was going to fall; but in the mids't of the deepest troubles through which the church has passed, and the fiercest storms that have raged about it, there have been true, faithful men of God who have never despaired. In every age there have been Luthers and Latimers, who have not only held fast their confidence, but whose peace has deepened with the roaring of the waves. The more they have been forsaken of men, the closer has been their communion with God. And with strong hold of him and of his promises, and hearts that could enter into the secret place of the Most High, although there has been everything without to agitate, threaten, and alarm, they have been guided into perfect peace. *James Martin*, in, *"The Christian Mirror, and other Sermons"*,
 
-1878.
-
 **Ver. 165. Great peace have they which love thy law.** Clearness of conscience is a help to comfortable thoughts. Yet observe, that peace is not so much effected as preserved by a good conscience and conversation; for though joy in the Holy Ghost will make its nest nowhere but in a holy soul, yet the blood of Christ only can speak peace; "being justified by faith, we have peace:" Romans 5:1. An exact life will not make, but keep conscience quiet; an easy shoe does not heal a sore foot, but it keeps a sound one from hurt. Walking with God according to gospel rules hath peace entailed upon it, and that peace is such a treasure, as thereby, a Christian may have his rejoicing from himself. Galatians 6:4, Galatians 6:16. His own heart sings him a merry tune, which the threats and reproaches of the world cannot silence. The treasure of comfort is not expended in affliction; death itself doth not exhaust but increase and advance it to an eternal triumph. O the excellency and necessity of it! Paul laid it up for a death-bed cordial: "Our rejoicing is this, the testimony of our conscience:" 2 Corinthians 1:12. And Hezekiah dares hold it up to God, as well as cheer up himself with it on approaching death. A conscience good in point of integrity will be good also in point of tranquillity: "The righteous are bold as a lion": they have great peace that love and keep God's commandments: Proverbs 28:1**Psalms 119:165**. And saith the apostle, "If our heart condemn us not, then have we confidence towards God" (1 John 3:2), and I may add also, towards men. Oh! what comfort and solace hath a clear conscience! A conscientious man hath something within to answer accusations without; he hath such a rich treasure as will not fail in greatest straits and hazards. I shall conclude this with a notable saying of Bernard: "The pleasures of a good conscience are the Paradise of souls, the joy of angels, a garden of delights, a field of blessing, the temple of Solomon, the court of God, the habitation of the Holy Spirit." *Oliver Heywood.*
 
 **Ver. 165. Great peace.** Note that for "peace" the Hebrew word is mylw, *shalom*:it signifies not only "peace, "but also perfection, wholeness, prosperity, tranquillity, healthfulness, safety, the completion and consummation, of every good thing; and so it is frequently taken by the Hebrews; hence in salutations, wishing one the other well, they say, Pl mylw, *shalom lekha*, i.e, "peace be with thee"; as if one should say, "may all things be prosperous with thee." *Thomas Le Blanc.*
@@ -11382,7 +11373,7 @@ As far as I have been able, as far as I have been aided by the Lord, I have trea
 
 *C.A.D.*
 
-**WORKS UPON THE 119 PSALM.**
+## **Works upon the 119 Psalm.**
 
 *Two and Twentie Sermons of Maister Iohn Caluin.* In which Sermons is most religiously handled, the hundredth and nineteenth Psalme of Dauid, by eight verses apart according to the Hebrew Alphabet. Translated out of French into Englishe by Thomas Stocker. Imprinted at London for John Harison and Thomas Man. 1580. *4to*
 
@@ -11405,7 +11396,6 @@ The preceding forms the latter part of a very small 8 vo. entitled "MOSES REVIVE
 *Lord's Day Literature: or, Illustrations of the Book of Psalms, from* *the Hundred and Nineteenth Psalm consecutively.* By R. B. SANDERSON, Esq., B.A. *12mo* 1842.
 
 *The Utterance of the 119. Psalm; expounded in a Series of Lectures.* By the Rev. JOHN STEPHEN, A.M. Free John Knox's, Aberdeen... 1861. *2mo*
-
 
 ---
 [[TD Psalm 118|← Psalm 118]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 120|Psalm 120 →]]

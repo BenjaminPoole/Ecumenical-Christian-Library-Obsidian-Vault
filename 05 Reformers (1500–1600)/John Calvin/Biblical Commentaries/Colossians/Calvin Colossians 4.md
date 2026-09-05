@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Colossians 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Colossians 4:1-4
 

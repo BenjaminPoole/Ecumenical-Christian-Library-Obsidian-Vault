@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 21. The third Chapter. Of the Lawe
-
-## *The third Chapter.* Of the Lawe.
 
 HEre I thought it good to speake somewhat concerning the nature of the lawe, [^1] and therewithall to shew, how the *Manicheis* and *Pelagians* vnderstood it not: and what the same worketh in vs, either before regeneration, or after we be iustified. First, as touching the forme thereof, the same must be affirmed, which *Paule* saith in his epistle to the Romans, when he writeth, that it is spirituall. But the vniuersall end therof, and which apperteineth vnto all men, is to bring men vnto the knowledge of sinne. Which thing *Paule* signified, saieng; [^2] that *By the lawe commeth the knowledge of sinne.* Here if thou demand wherefore the apostle said not rather; *By the lawe commeth the knowledge of righteousnesse?* I answer, bicause a man not yet regenerate, so long as he is without Christ, can not haue in himselfe the féele of good works, or of true righteousnesse, which may satisfie the lawe of God. Wherefore, when he compareth his dooings with the lawe, he perceiueth them to be onelie falles and transgressions. But if we doo speake of the end of the lawe, as touching the elect; that is Christ. And this dooth also *Paule* teach, saieng; [^3] *The end of the lawe is Christ vnto saluation:* which yet he speaketh not vniuersallie, but *Vnto euerie one that beleeueth.* [^4] For the lawe it selfe, by it selfe dooth not bring a man to this end. The Ethniks said, that The end of the lawe is a knowledge, which it bréedeth as touching things to be doone. Wherevpon *Chrysippus* (as he is cited in the Digests) saith; that The lawe is the knowledge of things diuine and humane. Howbeit, this end, and this definition be to largelie extended: for all wisdome, and all good arts, doo teach some knowledge of diuine and heauenlie things.
 

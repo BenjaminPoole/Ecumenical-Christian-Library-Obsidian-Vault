@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Life-look
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2867
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Look unto Me, and be you saved, all the ends of the earth: for I am God, and there is no other." Isaiah 45:22.
 
@@ -121,7 +118,7 @@ holiness and peace—believing that the blood of Jesus can take away your sin an
 
 The salvation has commenced which will never end, for, in the simple act of faith, there lies a living seed which the devil himself cannot crush—which, though it is small as the mustard seed, will begin to swell, and germinate, and send forth its shoots till it shall be such a tree that many a happy bird of the air shall come and sit and sing among its branches! And your life, made happy and shaded by this blessed faith in Jesus, shall then bring forth fruit unto God and the end shall be everlasting life! God grant that it may be so, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH45.
+## Exposition by C. H. Spurgeon: Isaiah 45
 
 The first paragraph concerns Cyrus and the great work for which God raised him up.
 
@@ -144,7 +141,6 @@ plication unto you, saying, surely God is in you; and there is no otheer, there 
 21-23. And there is no other God besides Me, a just God and a Savior there is none besides Me, look unto Me, and be you saved, all the ends of the earth: for I am God, and there is no other. I have sworn by Myself, the word is gone out ofMy mouth in righteousness, andshallnot return, That unto Me every knee shall bow, every tongue shallswear. Glory be to God, it will be so in the latter days! It shall come to pass that the Truth of God shall be universally triumphant and the one God who made the heavens and the earth shall be worshipped both by Heaven and by earth, without any discordant note.
 
 24, 25. Surely, shall one say, in the LORD have I righteousness and strength even to Him shall men come; and all that are incensed against Him shall be ashamed. In the LORD shall all the seed of Israel be justified, and shall glory.
-
 
 ---
 [[Sermon 2866 Good News|← #2866]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2868 'Ready, Yes, Ready!'|#2868 →]]

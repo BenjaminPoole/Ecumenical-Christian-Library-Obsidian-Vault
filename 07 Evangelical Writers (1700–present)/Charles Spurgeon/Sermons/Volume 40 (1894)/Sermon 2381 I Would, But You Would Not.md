@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "I Would, But You Would Not"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2381
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Jerusalem, Jerusalem, you that kill the Prophets, and stone them which are sent to you, how often would I have gathered your children together, even as a hen gathers her chicks under her wings, and you were not willing!" Matthew 23:37.
 
@@ -115,7 +112,7 @@ And this doom will be still worse in the next world! You know that Jerusalem was
 
 I pray you do so, for the Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW23229-39; 24:1-21.
+## Exposition by C. H. Spurgeon: Matthew 23229-39; 24:1-21
 
 Matthew 23:29-31. Woe unto you, scribes and Pharisees, hypocrites! Because you build the tombs of the Prophets and garnish the sepulchers of the righteous, and say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the Prophets. Therefore you are witnesses unto yourselves, that you are the children of them which killed the Prophets. They talk in the same conceited manner and they claim self-righteousness, as their fathers did! And if their ancestors killed the Prophets, these men garnish their sepulchers, and so are sharers in their forefathers' deeds. How often it happens that men say they would not have done such crimes as others have committed—but they do not know the vileness of their own hearts! If they were under the same conditions as others, they would act in the same way. It would have been a better sign if the scribes and Pharisees had lamented before God that they, themselves, were not treating His Prophets as they ought to be treated. How very faithful was our Master! He was very tender in spirit, but still, He
 
@@ -154,7 +151,6 @@ Matthew 24:1. And Jesus went out and departed from the Temple: and His disciples
 17, 18. Let him which is on the housetop not come down to take anything out of his house: neither let him which is in the field return back to take his clothes. They were to flee in all haste, the moment they saw the Roman standards,
 
 19-21. And woe unto them that are with child, and to them that give suck in those days! But pray you that your plight be not in the winter, neither on the Sabbath Day: for then shall be great tribulation, such at was not since the beginning of the world to this time, no, nor ever shall be. You and I would have believed that all this came true without any confirmation from outside history, but it was very remarkable that God should raise up the Jew, Josephus, and put it into his mind to write a record of the siege of Jerusalem—which curdles the blood of everyone who reads it—and bears out exactly the statement of the Master that there was to be "great tribulation, such as was not since the beginning of the world, no, nor ever shall be."
-
 
 ---
 [[Sermon 2380 Encouragements To Prayer|← #2380]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2382 The Holy Spirit's Chief Office|#2382 →]]

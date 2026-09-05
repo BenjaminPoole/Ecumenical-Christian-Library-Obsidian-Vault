@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Heavenly Wind
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1356
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 27, 1877,.
+*Delivered on Lord's-Day Morning, May 27, 1877*
 
 > "The wind blows where it wishes, and you hear the sound of it, but cannot tell from where it comes, and where it goes: so is everyone that is born of the Spirit." John 3:8.
 
@@ -156,7 +155,6 @@ And now notice the mystery there is about a Christian. You know nothing, if you 
 No, the unregenerate man knows not where the Believer goes. There is a secret place of the Most High and they shall abide under the shadow of the Almighty who have once learned to enter there, but carnal men come not into this secret chamber. The Christian life is a mystery all through, from its beginning to its end. To the worldling it is all a mystery and, to the Christian, himself, a puzzle. He cannot read his own riddle, nor understand himself. This one thing he knows, "Whereas I was once blind, now I see." This, also, he knows, "O Lord, I am Your servant! I am Your servant and the son of Your handmaid: You have loosed my bonds." This, also, he knows, that when his Lord shall be revealed, then will he, also, shine forth as the sun!
 
 The Life within him, in its coming and going, is all a mystery to him, but he blesses God that he has fellowship in it. He goes on his way feeling that though men know not from where he is, nor where he is going, yet the Lord knows him, and he, himself is sure that he is going to his Father and his God! O that every one of you had so delightful a hope! The Lord grant it to you, for Jesus' sake.
-
 
 ---
 [[Sermon 1355 Our Lord's Question to the Blind Men|← #1355]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1357 A Business-Like Account|#1357 →]]

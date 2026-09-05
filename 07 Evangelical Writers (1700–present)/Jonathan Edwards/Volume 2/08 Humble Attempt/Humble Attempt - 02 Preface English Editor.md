@@ -10,7 +10,6 @@ written: "1747"
 tags:
   - jonathan-edwards
 ---
-
 # PREFACE BY A FORMER ENGLISH EDITOR.
 
 If any inquire why the ensuing work is re-published, I would beg leave to lay before them the following intelligence.
@@ -27,7 +26,7 @@ In the present imperfect state, we may reasonably expect a diversity of sentimen
 
 *Olney, May 4th,* 1789.
 
-JOHN SUTCLIFF.
+## John Sutcliff
 
 ---
 

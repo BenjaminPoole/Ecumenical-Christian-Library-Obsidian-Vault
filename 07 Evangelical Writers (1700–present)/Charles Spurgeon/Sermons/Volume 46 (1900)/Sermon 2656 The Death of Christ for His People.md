@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Death of Christ for His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2656
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He laid down His life for us." 1 John 3:16.
 
@@ -109,9 +106,9 @@ While through Christ's blood absolved I am
 
 From sin's tremendous curse and shame?" Ah, Brothers and Sisters, if this is your experience, you may come to the Table of Communion now right happily—it will not be coming to a funeral, but to a feast of gladness! "He laid down His life for us."
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-JOHN 9; 1 CORINTHIANS 10:15-33; 11:1.
+## John 9; 1 Corinthians 10:15-33; 11:1
 
 We will first read about one of our Lord's miracles and then, as many of us will be coming to the Communion Table, we will read about the Lord's Supper.
 
@@ -180,7 +177,6 @@ Are we blind, also? Jesus said unto them, if you were blind, you would have no s
 30, 31. For if I by Grace am a partaker, why am I evilly spoken of for that for which I give thanks? Whether therefore you eat, or drink, or whatever you do, do all to the glory of God. And if anything you might do would not glorify God, do not do it!
 
 32, 33. Give none offense, neither to the Jews, nor to the Gentiles, nor to the church of God: even as I please all men in all things, not seeking my own profit, but the profit of many, that they may be saved. 1 Corinthians 11:1. Be you followers of me, even as I, also, am of Christ.
-
 
 ---
 [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2657 All the Promises|#2657 →]]

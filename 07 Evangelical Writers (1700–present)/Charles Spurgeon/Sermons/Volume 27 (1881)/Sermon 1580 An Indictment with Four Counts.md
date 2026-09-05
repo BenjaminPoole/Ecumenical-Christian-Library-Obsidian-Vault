@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # An Indictment with Four Counts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1580
-
-DELIVERED BY.
 
 > "She obeyed not His voice; she received not correction; she trusted not in the Lord; she drew not near to her God." Zephaniah 3:2.
 
@@ -92,7 +89,6 @@ Then there was the last crime. "She drew not near to God." What, then, does God 
 I thought I might not come, but now I see I am condemned for not coming, then I will come! I will delay no longer, I will come to Jesus, determined that if I perish I will perish at His feet!"
 
 Have hope, my Friend, for none did ever perish there! May God set His seal to this word of expostulation for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1579 Roads Cleared|← #1579]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1581 Silver Sockets—Redemption the Foundation!|#1581 →]]

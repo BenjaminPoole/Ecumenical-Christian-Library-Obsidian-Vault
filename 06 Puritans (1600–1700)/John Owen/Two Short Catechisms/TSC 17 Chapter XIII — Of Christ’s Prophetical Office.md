@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XIII — Of Christ’s Prophetical Office
 
 ## Chap. XIII. — Of Christ’s Prophetical Office.
@@ -24,13 +23,15 @@ A. By making known[^2] the whole doctrine of truth unto us in a saving and spiri
 
 Q. 3. By what means doth he perform all this?
 
-A. Divers; as, first, ^ainternally and effectually, by his Spirit writing his law in our hearts; secondly, ^boutwardly and instrumentally, by the Word preached. ^aJer. xxxi. 31–34; 2 Cor. iii. 3; 1 Thess. iv. 9; Heb. viii. 10. ^bJohn xx. 31; 1 Cor. xii. 28; Eph. iv. 8–13; 2 Pet. i. 21.
-
+A. Divers; as, first, [^a1]internally and effectually, by his Spirit writing his law in our hearts; secondly, [^b1]outwardly and instrumentally, by the Word preached.
 
 ---
 [^1]: Christ differed from all other prophets; first, in his sending, which was immediately from the bosom of his Father; secondly, his assistance, which was the fulness of the Spirit; thirdly, his manner of teaching, — with authority.
 [^2]: To accuse his Word of imperfection, in doctrine or discipline, is to deny him a perfect prophet, or to have borne witness unto all truth.
 
+[^a1]: Jer. xxxi. 31–34; 2 Cor. iii. 3; 1 Thess. iv. 9; Heb. viii. 10.
+
+[^b1]: John xx. 31; 1 Cor. xii. 28; Eph. iv. 8–13; 2 Pet. i. 21.
 
 ---
 [[TSC 16 Chapter XII — Of Christ’s Priestly Office|← Chapter XII — Of Christ’s Priestly Office]] · [[Two Short Catechisms|Contents]] · [[TSC 18 Chapter XIV — Of the Two-fold Estate of Christ|Chapter XIV — Of the Two-fold Estate of Christ →]]

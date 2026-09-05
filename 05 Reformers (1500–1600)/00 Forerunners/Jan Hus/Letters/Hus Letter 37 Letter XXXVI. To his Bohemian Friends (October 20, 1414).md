@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 37. Letter XXXVI. To his Bohemian Friends (October 20, 1414)
-
-LETTER XXXVI. TO HIS BOHEMIAN FRIENDS (October 20, 1414)
 
 Account of his journey ; His reception at Nuremberg ; He is much encouraged ; Distributes tracts ; Future plans ; Gossip 152-5
 

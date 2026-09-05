@@ -11,14 +11,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 191. Deuteronomy 32:1-52
 
 It was the perverse nature of the people which extorted from Moses that unmixed bitterness with which he again addresses them. Doubtless he would have desired to leave a pleasing and joyful recollection of himself, and therefore would willingly have exhorted them to the performance of their duties, either with blandness, or at any rate with placidity, but their stubbornness compelled him to testify his indignation in the severity of his address. Besides, he does not judge from conjecture what they would do, but expressly declares that he knew it for certain, unquestionably because the Spirit, in dictating the Song, had also informed him of it. He indicates their revolt by two words, *corrupting,* and *turning aside from the way;* but, inasmuch as in the first there is an ellipsis, for the active verb is used without any word for it to govern, some supply “the way of the Lord.” I have, however, followed a different reading, [^1] which seems more correct, for the signification of the word is rather passive than transitive. He points out the manner of their corruption, declaring that they will depart from the way which they had learned; for this was their perfect soundness, to obey God, and to follow the way which he showed them. By forsaking the Law, then, they were corrupted. Moreover, Moses indirectly reproves their ingratitude, inasmuch as he had thrown away his labor upon such despisers of pious instruction. Thus he desires that this song should be recited by them, in order that, when afflicted and half-consumed by miseries, they might at last learn that God is a just avenger. And the advantage of this assurance was, that those, whose state was not altogether desperate, should at length return to their senses; whilst the reprobate should be more and more condemned.
 
 We have elsewhere seen what it is to call heaven and earth to witness. [^2]
-
-**Deuteronomy 32**
 
 **1.** Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 

@@ -8,7 +8,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Repentance Must Go With Forgiveness
 
 *All of Grace* — Charles H. Spurgeon
@@ -24,8 +23,6 @@ I will ask you who are seeking the Lord, whether you would be satisfied with one
 Repentance and forgiveness are joined together in the experience of all believers. There never was a person yet who did unfeignedly repent of sin with believing repentance who was not forgiven; and on the other hand, there never was a person forgiven who had not repented of his sin. I do not hesitate to say that beneath the copes of Heaven there never was, there is not, and there never will be, any case of sin being washed away, unless at the same time the heart was led to repentance and faith in Christ. Hatred of sin and a sense of pardon come together into the soul, and abide together while we live.
 
 These two things act and react upon each other: the man who is forgiven, therefore repents; and the man who repents is also most assuredly forgiven. Remember first, that forgiveness leads to repentance. As we sing in Hart's words:
-
-Law and terrors do but harden, All the while they work alone; But a sense of blood-bought pardon Soon dissolves a heart of stone.
 
 Law and terrors do but harden, All the while they work alone; But a sense of blood-bought pardon Soon dissolves a heart of stone.
 
@@ -47,8 +44,7 @@ Do not regard your repentance as the cause of your remission, but as the compani
 
 To come back to the Scripture upon which we are meditating: both forgiveness and repentance flow from the same source, and are given by the same Saviour. The Lord Jesus in His glory bestows both upon the same persons. You are neither to find the remission nor the repentance elsewhere. Jesus has both ready, and He is prepared to bestow them now, and to bestow them most freely on all who will accept them at His hands. Let it never be forgotten that Jesus gives all that is needful for our salvation. It is highly important that all seekers after mercy should remember this. Faith is as much the gift of God as is the Saviour upon whom that faith relies. Repentance of sin is as truly the work of grace as the making of an atonement by which sin is blotted out. Salvation, from first to last, is of grace alone. You will not misunderstand me. It is not the Holy Spirit who repents. He has never done anything for which He should repent. If He could repent, it would not meet the case; we must ourselves repent of our own sin, or we are not saved from its power. It is not the Lord Jesus Christ who repents. What should He repent of? We ourselves repent with the full consent of every faculty of our mind. The will, the affections, the emotions, all work together most heartily in the blessed act of repentance for sin; and yet at the back of all that is our personal act, there is a secret holy influence which melts the heart, gives contrition, and produces a complete change. The Spirit of God enlightens us to see what sin is, and thus makes it loathsome in our eyes. The Spirit of God also turns us toward holiness, makes us heartily to appreciate, love, and desire it, and thus gives us the impetus by which we are led onward from stage to stage of sanctification. The Spirit of God works in us to will and to do according to God's good pleasure. To that good Spirit let us submit ourselves at once, that He may lead us to Jesus, who will freely give us the double benediction of repentance and remission, according to the riches of His grace.
 
-"BY GRACE ARE YE SAVED."
-
+## "By Grace Are Ye Saved."
 
 ---
 [[AoG My Redeemer Liveth|← "My Redeemer Liveth"]] · [[All of Grace|All of Grace Contents]] · [[AoG How Repentance Is Given|How Repentance Is Given →]]

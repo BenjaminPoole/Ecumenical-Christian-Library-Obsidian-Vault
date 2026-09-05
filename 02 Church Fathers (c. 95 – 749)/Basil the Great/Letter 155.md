@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 155
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Without address. In the case of a trainer.
 

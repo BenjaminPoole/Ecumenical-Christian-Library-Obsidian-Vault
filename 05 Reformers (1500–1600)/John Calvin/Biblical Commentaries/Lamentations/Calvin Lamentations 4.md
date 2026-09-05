@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Lamentations 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Lecture Fourteenth
 
@@ -103,7 +102,7 @@ And he expresses himself more clearly by saying that *they pined away, having be
 
 ## Prayer Lecture 14
 
-**PRAYER.**
+## **Prayer.**
 
 Grant. Almighty God, that as thou shewest by thy Prophet that, after having long borne with thine ancient people, thy wrath at length did so far burn as to render final judgment above all others remarkable, — O grant that we may not at this day, by our obstinacy or by our sloth, provoke thy wrath, but be attentive to thy threatenings, yea, and obey thy paternal invitations, and so willingly devote ourselves to thy service, that as thou hast hitherto favored us with thy blessings, so thou mayest perpetuate them, until we shall at length enjoy the fullness of all good things in thy celestial kingdom, through Christ our Lord. — Amen.
 
@@ -199,7 +198,7 @@ He says that they were a *nation which could not save;* and there is no doubt bu
 
 ## Prayer Lecture 15
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are beset on every side with so many allurements, and as Satan ceases not to draw us here and there by vain flatteries, — O grant that we may recumb on thee alone, even on thy power, and, in short, on thy word, nor doubt but thou wilt be our deliverer, whatever may happen, and that we may always so seek thee in our straits, and so acquiesce in the faithfulness of thy promises, that we may calmly sustain all the assaults of afflictions, until thou at length gatherest us into that blessed rest which is prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -293,7 +292,7 @@ But the Prophet means not here, that God would not afterwards banish and scatter
 
 ## Prayer Lecture 16
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou seest that at this day the mouths not only of our enemies, but of thine also, are open to speak evil, — O grant, that no occasion may be given them, especially as their slanders are cast on thy holy name; but restrain thou their insolence, and so spare us, that though we deserve to be chastised, thou mayest yet have regard for thine own glory, and thus gather us under Christ our head, and restore thy scattered Church, until we shall at length be all gathered into that celestial kingdom, which thine only-begotten Son our Lord has procured for us by his own blood. — Amen.
 

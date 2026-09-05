@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Holy Spirit's Threefold Conviction of Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1708
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 25, 1883,.
+*Delivered on Lord's-Day Morning, February 25, 1883*
 
 > "And when He is come, He wiil reprove the world of sin, and of righteousness, and of judgment: of sin, because they believe not on Me; of righteousness, because I go to My Father, and you see Me no more; of judgment, because the prince of this world is judged." John 16:8-11.
 
@@ -122,7 +121,6 @@ And then the Spirit of God shall make men see the judgment. Before the day actua
 I think I hear you say, "The Gospel is true." Why, then, do you not believe it? If you confess "sin," why are you not washed from it? If there is "righteousness," why do you not seek it? If there is "judgment," why do you not ask to be so cleansed that you need not be afraid of it? Oh, Sirs, the most of men act as if they were born fools! If they were sick and we had a sure medicine for them, they would rush to us for it! If they were poor and we brought them gold, they would trample us down in their vehemence to snatch at wealth!
 
 But when there is Christ to be had, the Divine remedy for sin—Christ to be had as a perfect Righteousness, Christ to make them stand securely at the last dread day—they turn their backs upon the heavenly Gift! Oh, Spirit of God, win these madmen! Bring back these fools and make them sane and wise, for Christ Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1707 Herein Is Love|← #1707]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1709 The Best War Cry|#1709 →]]

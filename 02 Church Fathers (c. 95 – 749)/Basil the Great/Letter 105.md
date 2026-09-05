@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 105
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the deaconesses, the daughters of Count Terentius.
 

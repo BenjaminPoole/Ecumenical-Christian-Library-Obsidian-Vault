@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # 'Christ Is All'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2888
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Where there is neither Greek nor Jew, circumcised nor uncircumcised, Barbarian, Scythian, slave nor free, but Christ is All and in all." Colossians 3:11.
 
@@ -97,7 +94,7 @@ Now, if Christ is all, then, beloved Brothers and Sisters, let us live for Him! 
 
 Lastly, and chiefly, let us send our hearts right on to where He is. Where our treasure is, there should our hearts be, also. Come, my Heart, up and away! What have you here that can fill you? What have you here that can satisfy you? Plume your wings and be up and away, for there is your roosting-place! There is the Tree of Life which can never be felled. Up and away and build there forever! The Lord help each one of you to do so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH43:1-25.
+## Exposition by C. H. Spurgeon: Isaiah 43:1-25
 
 Verse 1. But now thus says the LORD that created you, O Jacob, and He that formed you, O Israel, Fear not: for I have redeemed you, I have called you by your name; you are Mine. I cannot pause to comment upon each of the precious sentences here, but every word is full of marrow and fatness. Ask the Lord to enable you to feed upon each sentence as it passes before your mind.
 
@@ -138,7 +135,6 @@ of the night! It blazed like a wick and then was quenched forever. What cannot G
 24\. You have wearied Me with your iniquities. O Sirs, how sad it is when God's people are weary of Him and He is weary of them! What shall we read after this? Surely the next sentence will be a thunder-clap and a lightning flash will blaze out of the sacred page! Listen—and be amazed at the mercy of the Lord!
 
 25\. I, even I, am He that blots out your transgressions for My own sake, and will not remember your sins. What a blessed God to deal so graciously with His ungrateful erring people!
-
 
 ---
 [[Sermon 2887 A Dire Disease Strangely Cured|← #2887]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2889 Christ Receiving Sinners|#2889 →]]

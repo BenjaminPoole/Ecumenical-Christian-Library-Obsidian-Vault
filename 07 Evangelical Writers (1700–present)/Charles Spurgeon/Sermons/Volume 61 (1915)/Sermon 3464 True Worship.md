@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # True Worship
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3464
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Offer unto God thanksgiving; and pay your vows unto the Most High: and call upon Me in the day of trouble. I will deliver you, and you shall glorify Me." Psalm 50:14,15.
 
 EVEN in the Christian Church we have great diversities of opinion as to what is the true form of worship. One stoutly cries, "Lo here," and another as earnestly says, "Lo there!" There are some who think that the more simple and plain the outward worship can be, the better. Others think the more gorgeous and resplendent it can be, the better. Some are for the quietude of the Friends' meeting house—some are for the stormy music of the cathedral. Some will have it that God is best praised in silence—others that He is best honored with flute, harp, sackbut, psaltery and I know not what kinds of music! Is it so difficult, then, to know what kind of worship God will accept? It is very difficult if it is left to the guesses of men, but it is not at all difficult if we turn to the Word of God. There we shall find, I think, great room for diversities of mode, but we shall find ourselves shut up by a consecrated intolerance to a few matters of spirit. We shall there be told what is not essential, but we shall certainly be assured of what is essential to the true worship of God. And I suppose it will be enough for any of us who are sincerely anxious to worship God, ourselves, if we find out for ourselves, by the teaching of God's Spirit, the way to do it. And we shall be content to let others, also, find out the way for themselves, satisfied if we, ourselves, are approved of God—for we have very little to do with sitting on the throne of judgment and either condemning or approving others. Now, on turning to this Psalm we shall find out what worship is not acceptable with God. And we shall find out what is. And these will make the main points of our sermon this evening. In reading this Psalm to you, you must all have noticed—
 
-I. WHAT SORT OF OFFERINGS ARE NOT ACCEPTABLE TO GOD.
+## I. What Sort of Offerings Are Not Acceptable to God
 
 You noticed with me, I dare say, that first, those are not accepted in which men place the reliance upon the form, itself, and are contented when they have gone through the form, though their hearts have had no communion with God. And they have brought to the Most High no spiritual sacrifice whatever. Lay it down, then, beyond all question, that formal worship which is not attended with the heart—which is not the worship of the spirit—can never be acceptable with the Most High!
 
@@ -96,7 +93,6 @@ will be so in very deed. "The Lord Jesus shall be revealed from Heaven in flamin
 9\. I will take no bullock out of your house, nor he goats out of your folds. "Do you think that these things in themselves are of any value to Me, O you formalists? I will not even take them."
 
 10\. For every beast of the forest is Mine, and the cattle upon a thousand hills. Though men call them theirs, yet they are your God's.
-
 
 ---
 [[Sermon 3463 Why Men Do Not Believe|← #3463]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3465 The Suffering Christ Satisfied|#3465 →]]

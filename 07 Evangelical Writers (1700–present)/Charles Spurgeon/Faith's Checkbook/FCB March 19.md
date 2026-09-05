@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 19
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BECOMING FIT FOR GLORY**
+## **Becoming Fit for Glory**
 
 > The Lord will give grace and glory" Ps. 84:11
 
@@ -23,7 +22,6 @@ Grace is what we need just now, and it is to be had freely. What can be freer th
 The Lord may not give gold, but He will give grace: He may not give gain, but He will give grace. He will certainly send us trial, but He will give grace in proportion thereto. We may be called to labor, and to suffer, but with the call there will come all the grace required.
 
 What an AND is that in the text -- "and glory!" We do not need glory yet, and we are not yet fit for it; but we shall have it in due order. After we have eaten the bread of grace, we shall drink the wine of glory. We must go through the holy --which is grace, to the holiest of all -- which is glory. These words "and glory" are enough to make a man dance for joy. A little while -- a little while, and then glory forever!
-
 
 ---
 [[FCB March 18|← March 18]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 20|March 20 →]]

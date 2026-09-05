@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A View of God's Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3120
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he said, I beseech You, show me Your Glory." Exodus 33:18.
 
@@ -107,7 +104,7 @@ Simply to Your Cross I cling." Yes, more than this, you will need Divine aid eve
 
 My strength is at Your feet to lie." And, poor helpless one, if you are but hidden in Christ, you are forever secure! Storms may arise, but you cannot be overwhelmed! Old Boreas may blow until his cheeks burst, but not a breath of wind can injure you, for in the cleft of the Rock you shall be hidden until the vengeance is gone!
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 11:1-21.
+## Exposition by C. H. Spurgeon: Hebrews 11:1-21
 
 This is the Arc de Triomphe erected to the memory of the heroes of faith, whose names are here recorded by the Apostle's Inspired pen with a brief mention of some of their most memorable actions. If it had not been for their faith, which moved them to accomplish such valiant deeds, we might not have known anything about them.
 
@@ -150,7 +147,6 @@ He was only a sojourner in the land of promise, he knew that even the promised l
 20\. By faith Isaac blessed Jacob and Esau concerning things to come. He was old and blind, so that he did not know which of his sons came for the first blessing, yet he could see into the future sufficiently to bless both his sons "concerning things to come." What wondrous power there is in faith even when it is exercised by very imperfect individuals!
 
 21\. By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.That staff had been Jacob's companion on many memorable occasions, so it was most fitting that he should lean upon it while blessing his grandsons!
-
 
 ---
 [[Sermon 3119 Mistakes Concerning God|← #3119]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3121 The Necessity of Regeneration|#3121 →]]

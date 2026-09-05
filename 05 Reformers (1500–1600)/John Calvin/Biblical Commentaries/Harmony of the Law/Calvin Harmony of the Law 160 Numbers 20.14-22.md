@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 160. Numbers 20:14-22
-
-**Numbers 20**
 
 **14.** And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travel that hath befallen us;
 

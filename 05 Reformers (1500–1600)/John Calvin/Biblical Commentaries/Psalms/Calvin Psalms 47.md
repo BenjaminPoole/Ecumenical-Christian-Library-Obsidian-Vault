@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 47
-
-**PSALM 47**
 
 Some think that this psalm was composed at the time when the temple was dedicated, and the ark of the covenant placed in the sanctuary. But as this is a conjecture which has little to support it, it is better, if I am not mistaken, instead of detaining ourselves with this, to consider the subject-matter of the psalm, and the use to which it ought especially to be applied. It was no doubt appointed for the stated holy assemblies, as may be easily gathered from the whole tenor of the poem; and perhaps it was composed by David, and delivered by him to the Levites, to be sung by them before the temple was built, and when the ark as yet abode in the tabernacle. But whoever was its author, he exhorts not only the Israelites, but also all nations, to worship the only true God. It chiefly magnifies the favor which, according to the state of things at that time, God had graciously vouchsafed to the offspring of Abraham; and salvation to the whole world was to proceed from this source. It however contains, at the same time, a prophecy of the future kingdom of Christ. It teaches that the glory which then shone under the figure of the material sanctuary will diffuse its splendor far and wide; when God himself will cause the beams of his grace to shine into distant lands, that kings and nations may be united into fellowship with the children of Abraham.
 

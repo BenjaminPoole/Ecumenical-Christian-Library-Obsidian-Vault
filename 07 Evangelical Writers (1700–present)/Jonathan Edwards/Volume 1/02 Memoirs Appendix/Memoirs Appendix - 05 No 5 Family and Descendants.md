@@ -9,10 +9,9 @@ epub_file: "works1.ii.v.html"
 tags:
   - jonathan-edwards
 ---
-
 # APPENDIX, NO. V.
 
-FAMILY AND DESCENDANTS OF PRESIDENT EDWARDS.
+*Family and Descendants of President Edwards*
 
 *First.*—family.
 

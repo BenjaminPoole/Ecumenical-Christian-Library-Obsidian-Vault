@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Practical Discourse
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3313
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A month they were in Lebanon, and two months at home." 1 Kings 5:14.
 
@@ -71,7 +68,7 @@ And faith, also, the constant trusting the Savior, should we not exercise it mor
 
 As for communion with God, oh, that we lived in it always! But we do not get time enough. We do not taketime enough to get near our God. We are like men who eat their meals in a hurry, for business calls them away. If a man has no regular meals, but gets a snack here and a snack there, he soon gets out of sorts. He needs time for regular food and its mastication and digestion. We need the same for our holy feasts upon the heavenly food! And to this end I would urge Solomon's rule—one month in Lebanon, but two months at home. A word to the wise is enough and, therefore, I say no more.
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS 5; PSALMS 48; 95.
+## Exposition by C. H. Spurgeon: 1 Kings 5; Psalms 48; 95
 
 1 Kings 5:1-5. And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the place of his father: for Hiram had always loved David. And Solomon sent to Hiram saying, You know how that Davidmy father couldnot buildan house unto the name ofthe LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet But now the LORD my God has given me rest on every side, so that there is neither adversary nor evil occurrence. And, behold, I purpose to buildan house unto the name ofthe LORD my God, as the LORD spoke unto David my father, saying, Your son, whom I willset upon your throne in your place, he shall build an house unto My name. When God intends a man to do any special work for Him, He will find him all the helpers he needs. Sometimes those helpers may seem to be very unlikely persons, but—
 
@@ -156,7 +153,6 @@ Psalm 95:1. O come, let us sing unto the LORD: let us make a joyful noise to the
 7, 8. Today if you will hear His voice, harden not your heart. It is a tender heart that hears God's voice—and the heart that hears His voice is sure to be made tender. These two things act and re-act the one upon the other.
 
 8-11. As in the provocation, and as in the day of temptation in the wilderness: when your father tempted Me, proved Me, and saw My work. Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known My ways: unto whom I swore in My wrath that they should not enter into My rest. They had seen God's work, but they did not know His eyes. They had not the sense to perceive the hand of God even in His miracles, or when they did perceive it, they oft rebelled against Him. Oh, that we may not be like that unbelieving generation that grieved the Lord for forty years in the wilderness!
-
 
 ---
 [[Sermon 3312 The Carpenter's Son and His Relations|← #3312]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3314 God in Nature and in Revelation|#3314 →]]

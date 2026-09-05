@@ -115,7 +115,7 @@ From these Scriptures and the preceding one (Mark 1:23, 24) we learn the unclean
 
 The case is cited of a minister who took up automatic writing. At first the communications were pure, and expressed in beautiful language. After a time they became mixed with obscene language. Then he heard voices, and things so preyed upon his mind that he became insane, and died in three months, raving mad.
 
-The following well-known passage from Spiritualistic literature is very significant: "They come, THE DOOR ONCE OPEN, in crowds, in riotous invasion. They run, they leap, they fly, they gesticulate, they sing, they whoop, and they curse. ... Mind, body, soul, memory and imagination- nay the very heart - are polluted by the ghostly canaille."
+The following well-known passage from Spiritualistic literature is very significant: "They come, THE DOOR ONCE OPEN, in crowds, in riotous invasion. They run, they leap, they fly, they gesticulate, they sing, they whoop, and they curse. ... Mind, body, soul, memory and imagination-nay the very heart - are polluted by the ghostly canaille."
 
 May God preserve the writer and reader from ever opening the door to such diabolical wickedness; or if already opened, may he or she seek the power of Him, who is stronger than the strong man armed, even of the Lord Jesus Christ.
 

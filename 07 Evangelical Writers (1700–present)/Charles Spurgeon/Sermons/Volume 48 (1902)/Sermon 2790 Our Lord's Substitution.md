@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Our Lord's Substitution
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2790
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who Himself bore our sins in His own body on the tree." 1 Peter 2:24.
 
@@ -105,7 +102,7 @@ members of our churches to personally serve the Lord Jesus Christ, what a powerf
 
 In the spirit of this text, go forth and, even before you go to bed, do something to prove your love to Jesus—and unto His name be glory forever and ever! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 2.
+## Exposition by C. H. Spurgeon: 1 Peter 2
 
 Verses 1-3. Therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speaking, as newborn babes, desire the sincere milk of the word, that you may grow thereby: if, indeed, you have tasted that the Lord is gracious. If you have once had that sweet taste in your mouths, you will wish to have it always and you may do so if you continue to drink the unadulterated milk of the Word of God and do not sour that good milk through tempests of malice, envy and evil speaking.
 
@@ -128,7 +125,6 @@ possession of your spiritual faculties and are rejoicing in the Lord, do not for
 17-20. Love the brotherhood. Fear God. Honor the king. Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the harsh. For this is thankworthy, if a man for conscience toward God endures grief suffering wrongfully. For what glory is it, if when you are buffeted for your faults, you shall take it patiently but if, when you do well, and suffer for it, you take it patiently, this is acceptable with God. This is a correction of what we often hear a slandered person say. "So-and-So has been spreading an evil report against me and I am depicted in a bad way. I would not have minded it if it had been true, but I cannot bear the slander, as it is false." My dear Friend, you ought not to mind it if it is not true! But, "when you do well, and suffer for it," there is then an acceptableness with God if you take it patiently.
 
 21-23. For even hereunto were you called: because Christ also suffered for us, leaving us an example, that you should follow His steps: who did no sin, neither was guile found in His mouth: who, when He was reviled, reviled not again: when He suffered, He threatened not; but committed Himself to Him that judges righteously, who Himself bore our sins in His own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes you were healed. For you were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. The Lord make this true of all of us, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2789 Perfect Justification and Perfect Pardon|← #2789]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2791 A High Day in Heaven|#2791 →]]

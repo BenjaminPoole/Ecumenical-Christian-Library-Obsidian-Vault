@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Ten Wrong Kinds of Hearers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2308
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Cry aloud, spare not, lift up your voice like a trumpet, and show My people their transgression, and the house of Jacob their sins. Yet they seek Me daily and delight to know My ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of Me the ordinances of justice; they take delight in approaching to God." Isaiah 58:1,2.
 
@@ -109,7 +106,7 @@ I will not say that anybody here is a fool, but I do not know what else he is if
 
 Now hear God's message to every one of you, tonight, you who have not yet believed—"He that believes and is baptized shall be saved; but he that believes not shall be damned." "Believe on the Lord Jesus Christ, and you shall be saved, and your house." God help you to do it, for His dear love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. LUKE 13:6-30.
+## Exposition by C. H. Spurgeon. Luke 13:6-30
 
 Verse 6. He spoke also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none. It was a fig tree, a fruit-bearing tree by profession, so it ought to have borne fruit. It was planted. It was not a wild tree, it was planted in a vineyard, in the proper place for fig trees to grow, in good soil and, therefore, the owner of it had a right to come and look for fruit on it. But he found none. Have we not here, tonight, some who are planted in the Church of God who ought, by their profession, to be bearing fruit, but they are not? Christ has come and He has looked for fruit. But He has found none.
 
@@ -154,7 +151,6 @@ of leaven has been hidden in the meal of the Church—and it is leavening the wh
 28\. There shall be weeping and gnashing of teeth, when you shall see Abraham, and Isaac, and Jacob, and all the Prophets, in the Kingdom of God, and you yourselves thrust out. You who thought that you had a share in the Kingdom of God, and were, by birth, the natural heirs of it—"You yourselves thrust out."
 
 29\. 30. And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the Kingdom of God. And, behold, there are last which shall be first, and there are first which shall be last. The least likely to be saved shall be saved! The blackest sinners, the vilest outcasts, the grossest unbelievers shall be brought to repentance and faith and shall be saved! While those who were first in privileges, children of godly parents, professors of religion. Those who appeared in every way likely to be first saved, will be left to the last, and be shut out of the Kingdom of God, never to enter. God grant, in His infinite mercy, that nobody in the Tabernacle, tonight, may be of that unhappy number! Amen.
-
 
 ---
 [[Sermon 2307 The Greatest Exhibition of the Age|← #2307]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2309 God's Works Made Manifest|#2309 →]]

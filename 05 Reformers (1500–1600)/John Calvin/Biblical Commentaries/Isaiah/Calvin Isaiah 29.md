@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 29
 
-**CHAPTER 29**
+***Chapter 29***
 
 ## Isaiah 29:1-24
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Bridegroom's Parting Words
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1716
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 15, 1883,.
+*Delivered on Lord's-Day Morning, April 15, 1883*
 
 > "You that dwells in the gardens, the companions hearken to your voice: cause Me to hear it." Song of Solomon 8:13.
 
@@ -126,7 +125,6 @@ Whatever is left out of your testimony, be sure that Christ Crucified is first a
 heard! Hammer on that anvil always! If you make no music but that of the harmonious blacksmith, it will suffice. Ring it out with sturdy blows—"Jesus, Jesus, Jesus Crucified!" Hammer away at that!
 
 "Now you are on the right string, man," said the Duke of Argyle, when the preacher came to speak upon the Lord Jesus. It needed no duke to certify that! Harp on that string! Make Jesus to be as commonly known as now He is commonly unknown! So may God bless you as long as you dwell in these gardens, till the day breaks and the shadows flee away. Amen.
-
 
 ---
 [[Sermon 1715 A Description of Young Men in Christ|← #1715]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1717 The Marvelous Magnet|#1717 →]]

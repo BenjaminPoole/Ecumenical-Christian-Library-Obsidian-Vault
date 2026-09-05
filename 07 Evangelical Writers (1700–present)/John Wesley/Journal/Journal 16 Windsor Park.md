@@ -10,7 +10,6 @@ tags:
   - wesley
   - wesley-journal
 ---
-
 # 16. Windsor Park; Wesley as Art Critic; Glasgow and Perth; At 70, Wesley Preaches to 30,000 People
 
 1771\. Wednesday, January 2.--I preached in the evening, at Deptford, a kind of funeral sermon for Mr. Whitefield. In every place I wish to show all possible respect to the memory of that great and good man.
@@ -181,7 +180,7 @@ OF
 
 SAMUEL SAVAGE, ESQ.,
 
-WHO DEPARTED THIS LIFE ON SEPTEMBER -- 1772 **,** AGED --.
+## Who Departed This Life on September -- 1772 **,** Aged --
 
 He told his friends in the morning and was much affected; but the impression soon wore off. But on that day he did depart, and a stone was erected with that very inscription.
 
@@ -207,7 +206,7 @@ We observed Friday, 8, as a day of fasting and prayer, on account of the general
 
 Wednesday, February 24.--A very remarkable paragraph was published in one of the Edinburgh papers:
 
-"We learn from the Rosses, in the county of Donegal, in Ireland, that a Danish man-of-war, called the *North Crown* , commanded by the Baron D'Ulfeld, arrived off those islands, from a voyage of discovery toward the Pole. They sailed from Bornholme, in Norway the first of June, 1769, with stores for eighteen months, and some able astronomers, landscape painters, and every apparatus suitable to the design; and steering N by E half E, for thirty- seven days, with a fair wind and open sea, discovered a large rocky island, which having doubled, they proceeded WNW, till the seventeenth of September, when they found themselves in a strong current, between two high lands, seemingly about ten leagues distant, which carried them at a prodigious rate for three days when, to their great joy, they saw the mainland of America that lies between the most westerly part of the settlements on Hudson's River and California. Here they anchored in a fine cove and found abundance of wild deer and buffaloes, with which they victualed; and sailing southward, in three months got into the Pacific Ocean, and returned by the Straits of Le Maine and the West India Islands. They have brought many curiosities, particularly a prodigious bird, called a contor [condor], or contose, about six feet in height, of the eagle kind, whose wings, expanded, measure twenty-two feet four inches. After bartering some skins with the country people, for meal, rum, and other necessaries, they sailed for Bremen, to wait the thaw, previous to their return to Copenhagen.
+"We learn from the Rosses, in the county of Donegal, in Ireland, that a Danish man-of-war, called the *North Crown* , commanded by the Baron D'Ulfeld, arrived off those islands, from a voyage of discovery toward the Pole. They sailed from Bornholme, in Norway the first of June, 1769, with stores for eighteen months, and some able astronomers, landscape painters, and every apparatus suitable to the design; and steering N by E half E, for thirty-seven days, with a fair wind and open sea, discovered a large rocky island, which having doubled, they proceeded WNW, till the seventeenth of September, when they found themselves in a strong current, between two high lands, seemingly about ten leagues distant, which carried them at a prodigious rate for three days when, to their great joy, they saw the mainland of America that lies between the most westerly part of the settlements on Hudson's River and California. Here they anchored in a fine cove and found abundance of wild deer and buffaloes, with which they victualed; and sailing southward, in three months got into the Pacific Ocean, and returned by the Straits of Le Maine and the West India Islands. They have brought many curiosities, particularly a prodigious bird, called a contor [condor], or contose, about six feet in height, of the eagle kind, whose wings, expanded, measure twenty-two feet four inches. After bartering some skins with the country people, for meal, rum, and other necessaries, they sailed for Bremen, to wait the thaw, previous to their return to Copenhagen.
 
 "February 24, 1773."
 
@@ -239,7 +238,7 @@ Sunday, 25.--Word being brought me that the Mayor was willing I should preach in
 
 ## A Neglected School
 
-Thursday, May 13.--We went on, through a most dreary country, to Galway; where, at the late survey, there were twenty thousand Papists and five hundred Protestants. But which of them are Christians, have the mind that was in Christ, and walk as He walked? And without this, how little does it avail, whether they are called Protestants or Papists! At six I preached in the court- house, to a large congregation, who all behaved well.
+Thursday, May 13.--We went on, through a most dreary country, to Galway; where, at the late survey, there were twenty thousand Papists and five hundred Protestants. But which of them are Christians, have the mind that was in Christ, and walk as He walked? And without this, how little does it avail, whether they are called Protestants or Papists! At six I preached in the court-house, to a large congregation, who all behaved well.
 
 Friday, 14--In the evening I preached at Ballinrobe; and on Saturday went on to Castlebar. Entering the town, I was struck with the sight of the Charter school;--no gate to the courtyard, a large chasm in the wall, heaps of rubbish before the house door, broken windows in abundance, the whole a picture of slothfulness, nastiness, and desolation!
 

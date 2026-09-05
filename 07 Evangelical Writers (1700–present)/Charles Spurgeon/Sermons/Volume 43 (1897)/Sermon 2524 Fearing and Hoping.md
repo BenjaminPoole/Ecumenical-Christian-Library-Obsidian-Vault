@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Fearing and Hoping
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2524
 
-DELIVERED BY C. H, SPURGEON,.
+*Delivered by C. H, Spurgeon*
 
 > "The Lord takes pleasure in them that fear Him, in those that hope in His mercy." Psalm 147:11.
 
@@ -83,7 +82,7 @@ Can you believe it? You do not view yourself so—I hope that you do not, but Go
 
 I trust that there is some poor sinner who can squeeze into the Kingdom of God through that description. "I fear Him," says one, "I have a feeble hope in His mercy." God bless you, dear Friend! He takes pleasure in you. If you are but consciously guilty of sin and, therefore, fear—and if you are but believingly looking to Christ, alone, and, therefore hope, then you are His, and His forever! The Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM147.
+## Exposition by C. H. Spurgeon: Psalm 147
 
 This Book of Psalms ends its golden stream in a cataract of praise. The last Psalms are Hallelujah Psalms. This one begins and ends, as several others do, with "Hallelujah."
 
@@ -132,7 +131,6 @@ Verse 1. Praise you the LORD: for it is good to sing praises unto our God. He is
 19\. His statutes and Hisjudgments to Israel The Lord does it according to His own Sovereign will.
 
 20\. He has not dealt so with any nation: and as for His judgments, they have not known them. Praise you the LORD. Here, you see again, is a peculiar reason for thanksgiving! "Praise you Jehovah." "It is good to sing praises unto our God, for He has dealt with us in a special manner, with peculiar and discriminating Grace. 'He has not dealt so with any nation; and as for His judgments, they have not known them.'" Therefore are they silent, but let us not be dumb. With such a Revelation as we have, with such teachings of His Spirit to make the Lord known to us, let us not be ungrateful, but always praise His name!
-
 
 ---
 [[Sermon 2523 Abraham's Double Blessing|← #2523]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2525 Joy in Place of Sorrow|#2525 →]]

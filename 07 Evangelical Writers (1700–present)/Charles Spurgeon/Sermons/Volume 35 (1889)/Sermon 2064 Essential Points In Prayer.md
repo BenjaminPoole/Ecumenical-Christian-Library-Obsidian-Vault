@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Essential Points In Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2064
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord appeared to Solomon the second time, as He had appeared unto him at Gibeon. And the Lord said unto him, I have heard your prayer and your supplication, that you have made before Me: I have hallowed this house, which you have built, to put My name there forever. And My eyes and My heart shall be there perpetually." 1 Kings 9:2,3.
 
@@ -158,7 +155,6 @@ Now, Brothers and Sisters who happen to be worshipping with us on this occasion 
 "I dwell among my own people," said the Shunammite. And there is no joy like it for a Christian minister and a Christian Church member—to feel that he dwells among his own people and is happy with them. To be driven from Church to Church, as some are, is a wretched business. To be like others, changing their views as often as the moon— happy nowhere, miserable everywhere, agreeing with nobody, not even with themselves—is a poor business. Persons of that kind, I hope, will not join this Church just yet, or, if they do, may the Lord convert them as they come in.
 
 As for us, we love each other and our united prayer is that the eyes and the heart of God may be with us and all His people perpetually. The Lord bless you, dear Friends, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2063 The Filling of Empty Vessels|← #2063]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2065 Our Great Shepherd Finding the Sheep|#2065 →]]

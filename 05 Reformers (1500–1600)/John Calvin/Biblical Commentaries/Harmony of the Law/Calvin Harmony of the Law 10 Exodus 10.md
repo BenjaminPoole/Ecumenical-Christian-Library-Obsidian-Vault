@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 10. Exodus 10
-
-**EXODUS 10**
 
 ## Exodus 10:1-6
 

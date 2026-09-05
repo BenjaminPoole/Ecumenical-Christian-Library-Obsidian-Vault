@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # The Ruler of the Waves
 
-Chapter XII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 “ *And there arose a great storm of wind, and the waves beat into the ship, so that it was now full*.
 
@@ -224,7 +223,6 @@ Follow Him all through Pits journeys to and fro in Palestine. Mark how He receiv
 Surely this thought will give life and reality to your daily religion. Surely this thought will give substance and shape to your expectation of good things to come. Surely it is matter for joyful reflection, that He who was thirty-three years upon earth, and whose life we read in the Gospels, is the very Saviour in whose presence we shall spend eternity.
 
 The last word of this paper shall be the same as the first. I want men to read the four Gospels more than they do. I want men to become better acquainted with Christ. I want unconverted men to know Jesus, that they may have eternal life through Him. I want believers to know Jesus better, that they may become more happy, more holy, and more meet for the inheritance of the saints in light. He will be the holiest man who learns to say with St. Paul, “To me to live is Christ.” (Phil. i. 21.)
-
 
 ---
 [[Holiness 11 Christ’s Greatest Trophy|← Christ’s Greatest Trophy]] · [[Holiness|Holiness Contents]] · [[Holiness 13 The Church Which Christ Builds|The Church Which Christ Builds →]]

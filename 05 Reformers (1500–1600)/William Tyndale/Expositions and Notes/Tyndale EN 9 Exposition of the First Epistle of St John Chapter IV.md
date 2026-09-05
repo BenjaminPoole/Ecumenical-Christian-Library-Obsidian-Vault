@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 9. Exposition of the First Epistle of St John: Chapter IV
 
-THE FOURTH CHAPTER.
+*The Fourth Chapter*
 
 Dearly beloved, believe not every spirit, but prove the spirits whether they be of God. For many false prophets are gone out into the world.
 
@@ -69,7 +68,7 @@ Herein appeared the love of God unto us-ward, because God sent his only Son into
 
 [1 In P. C. L. doctrine of the is wanting.]
 
-IV. 7 ^10.] FIRST EPISTLE OF ST JOHN. 199
+## IV. 7 ^10.] First Epistle of St John. 199
 
 If a man had once felt within in his conscience the fierce wrath of God toward sinners, and the terrible and most cruel damnation that the law threateneth ; and then beheld with the God first eyes of a strong faith the mercy, favour and grace, the taking befo?e"we away of the damnation of the law, and restoring again of life, hSJu An^ed. freely offered us in Christ's blood, he should perceive love, and so much the more, that it was shewed us when we were sinners and enemies to God ; and that without all deservings, Rom.T. without our endeavouring, enforcing and preparing ourselves, and without all good motions, qualities and properties of our freewill ; but when our hearts were as dead unto all good working as the members of him whose soul is departed. Which thing to prove, and to stop the blasphemous mouths of all our adversaries, I will, of innumerable texts, rehearse one, in the beginning of the second chapter to the Ephesians, Eph. u. where Paul saith thus : "Ye were dead in trespass and sin, in which ye walked according to the course of the world, and after the governor that ruleth in the air, the spirit that worketh in the children of unbehef; among which we also had our conversation in time past, in the lusts of our flesh, and fulfilled the lusts of the flesh and of the mind," (so that the flesh and mind were agreed both to sin, and the mind consented as well as the flesh,) "and were by nature the children of wrath as well as other. But God, being rich in mercy, through the Herein apgreat love wherewith he loved us, even when we were dead gr^t and * in sin, hath quickened us with Christ; for by grace are ye mercy of saved ; and with him hath raised us up, and with him has made ^i*^^
 
@@ -163,7 +162,7 @@ If a man say, I love God, and hateth his brother, he is a liar. For how can he, 
 
 Faith is the mother of love, W. T.
 
-IV. 18 21.] FIRST EPISTLE OF ST JOHN. 205
+## IV. 18 21.] First Epistle of St John. 205
 
 To love a man's neighbour in God is a sure rule to know ^ suremie.
 
@@ -171,7 +170,7 @@ that we love God : and not to love him is a sure token that we love not God ; an
 
 " Ye are my lovers, if ye do those things which I have comood.wemust
 
-J ' J o , do his com- manded you." And the commandment is, to love our neighmandments, t/ ' O and his com- bours: then he that loveth not his neighbour loveth not God. to^ov^our'* And likewise to hate the commandment is to hate God that InrX"' commanded it : and the commandment is to love our neighbours : he then that hateth his brother, whom God biddeth him love, hateth God.
+J ' J o , do his com-manded you." And the commandment is, to love our neighmandments, t/ ' O and his com- bours: then he that loveth not his neighbour loveth not God. to^ov^our'* And likewise to hate the commandment is to hate God that InrX"' commanded it : and the commandment is to love our neighbours : he then that hateth his brother, whom God biddeth him love, hateth God.
 
 ---
 [[Tyndale EN 8 Exposition of the First Epistle of St John Chapter III|← 8. Exposition of the First Epistle of St]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 10 Exposition of the First Epistle of St John Chapter V|10. Exposition of the First Epistle of St →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Soul Murder—Who Is Guilty?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 713
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 30, 1866, BY C. H. SPURGEON.
+*Delivered on Sunday Morning, September 30, 1866, by C. H. Spurgeon*
 
 > "Deliver me from the guilt of bloodshed, O God, The God of my salvation, And my tongue shall sing aloud of Your righteousness." Psalm 51:14.
 
@@ -134,7 +133,6 @@ We cannot sing of ourselves. We must sing of the finished work of a precious Sav
 Yes, we shall sing and sing aloud, too, but we shall not sing of goodness, but of the righteousness of our dear Redeemer!
 
 Now, poor Sinner, what do you say of Christ's righteousness? Do you not see that you are guilty of many sins? Oh that you may have Divine Grace to confess them! Remember the righteousness of Christ can wash away all sin, and however black and foul we may have been, we have but to come to the fountain filled with blood, and if we wash there, we shall be white as snow! The Lord give us such a washing, and we will sing aloud of His righteousness!
-
 
 ---
 [[Sermon 0712 War With Amalek|← #712]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0714 A Savior Such As You Need|#714 →]]

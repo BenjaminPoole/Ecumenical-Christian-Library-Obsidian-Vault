@@ -11,7 +11,6 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 4
 
 *Expository Thoughts on John* — J. C. Ryle
@@ -45,8 +44,6 @@ The servant of Christ should grasp firmly this great truth, that there are two p
 ## JOHN 4:7-26
 
 > Conversation With a Samaritan Woman
-
-But he had to pass through Samaria. Now he came to a Samaritan town called Sychar, near the plot of land that Jacob had given to his son Joseph. Jacob’s well was there, so Jesus, since he was tired from the journey, sat right down beside the well. It was about noon.
 
 A Samaritan woman came to draw water. Jesus said to her, "Give me some water to drink." (For his disciples had gone off into the town to buy supplies.) So the Samaritan woman said to him, "How can you—a Jew—ask me, a Samaritan woman, for water to drink?" (For Jews use nothing in common with Samaritans.)
 
@@ -175,7 +172,6 @@ We learn, lastly, from this passage, ***that Christ's word is as good as Christ'
 The fact before us is singularly full of comfort. It gives enormous value to every promise of mercy, grace, and peace, which ever fell from Christ's lips. He that by faith has laid bold on some word of Christ, has placed his feet upon a ROCK. What Christ has said, He is able to do; and what He has undertaken, He will never fail to make good. The sinner who has really reposed his soul on the word of the Lord Jesus, is safe to all eternity. He could not be safer, if he saw the book of life, and his own name written in it. If Christ has said, "Him that comes to me, I will in no wise cast out," and our hearts can testify, "I have come," we need not doubt that we are saved. In the things of this *world*, we say that seeing is believing. But in the things of the *Gospel*, believing is as good as seeing. Christ's word is as good as man's deed. He of whom Jesus says in the Gospel, "He lives," is alive for evermore, and shall never die.
 
 And now let us remember that afflictions, like that of the nobleman, are very common. They will probably come to our door one day. Have we known anything of bearing affliction? Would we know where to turn for help and comfort when our time comes? Let us fill our minds and memories betimes with Christ's words. They are not the words of man only, but of God. The words that he speaks are spirit and life. (John 6:63.)
-
 
 ---
 [[ET John 03|← John 3]] · [[Expository Thoughts on John|John Contents]] · [[ET John 05|John 5 →]]

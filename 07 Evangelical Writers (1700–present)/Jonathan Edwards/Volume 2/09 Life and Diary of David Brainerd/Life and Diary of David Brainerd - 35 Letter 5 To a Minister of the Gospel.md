@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER V.
 
 *To a special friend*, *a minister of the gospel in New Jersey.*
@@ -25,7 +24,7 @@ I am your very unworthy brother,
 
 And humble servant,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Comfort From Christ's Omniscience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2669
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lord, You know all things; You know that I love You." John 21:17.
 
@@ -109,9 +106,9 @@ Before we go, let us sing this one verse—
 
 Comfort from Christ's Omniscience
 
-HYMNS FROM "OUR OWN HYMN BOOK"—711, 788, 639, 804.
+## Hymns from "Our Own Hymn Book"—711, 788, 639, 804
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 26:1-14.
+## Exposition by C. H. Spurgeon: Isaiah 26:1-14
 
 Verse 1. In that day. Or, rather, as we may read it now, "In this day"—
 
@@ -134,7 +131,6 @@ The Prophet next describes the peaceableness of this city. The gates are open, b
 13, 14. O LORD our God, other lords beside You have had dominion over us: but by You only will we make mention of Your name. They are dead, they shall not live; they are deceased, they shall not rise. Many of us can look back to the time when we made idols of business and of worldly things. But now these lords are dead and they shall not live again—they are buried out of our sight—and they shall not rise from their graves.
 
 14\. Therefore have You visited and destroyed them, and made all their memory to perish. And a blessed thing it is when the memory of our sins perish and we have no desire to be enslaved by them again!
-
 
 ---
 [[Sermon 2668 Communion With Christ—a Baptizing Sermon|← #2668]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2670 Pride Catechized|#2670 →]]

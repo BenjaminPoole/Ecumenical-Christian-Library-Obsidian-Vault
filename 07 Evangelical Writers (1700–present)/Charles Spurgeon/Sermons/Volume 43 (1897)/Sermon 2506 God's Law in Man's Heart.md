@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # God's Law in Man's Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2506
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For this is the covenant that I will make with the house of Israel after those days, says the Lord; I will put My laws into their mind, and write them in their hearts." Hebrews 8:10.
 
@@ -117,14 +114,13 @@ And this is very beautiful, too, that when God writes His Law in His people's he
 
 This is the only way of salvation that I know of for any of you. First, you must be washed in the fountain filled with blood, and next, you must have the Law of God written in your inward parts. Then shall you be safe beyond fear of ruin. "They shall be Mine," says the Lord of Hosts, "in that day when I make up My jewels." Oh, blessed plan of salvation! May it be accepted by every man and woman here! And it can only be so by the work of the Spirit of God leading you to a simple trust in the Lord Jesus Christ. Trust Christ to save you and He will do it, as surely as He is the Christ of God. God help you to trust Him now! Amen.
 
-EXPOSITION BY. C. H. SPURGEON. JEREMIAH31:27-37.
+## Exposition By. C. H. Spurgeon. Jeremiah 31:27-37
 
 Verses 27-33. Behold, the days come, says the Lord, that I willsow the house ofIsrael and the house of Judah with the seed of man, and with the seed of beast And it shall come to pass, that like as Ihave watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build and replant, says the Lord. In those days they shall say no more, The fathers have eaten a sour grape, and the children's teeth are set on edge. But everyone shall die for his own iniquity: every man that eats the sour grapes, his teeth shall be set on edge. Behold, the days come, says the Lord, that I will make a new Covenant with the house of Israel, and with the house of Judah: not according to the Covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which My Covenant they broke, although I was an husband unto them, says the Lord: but this shall be the Covenant that I willmake with the house ofIsrael. After those days, says the Lord, I willput MyLawin their inward parts, and write it in their hearts; and will be their God, and they shall be My people. This is the central Truth of all Scripture. It is the basis of all Scripture. When Paul desires to set forth the Covenant of Grace, he appeals to this passage. Twice, in the Epistle to the Hebrews, he bases an argument upon it, and after quoting it, adds, "Whereof the Holy Spirit also is a witness to us." Brothers and Sisters in Christ, under the first Covenant we are ruined! There is no salvation for us but under this new Covenant—therefore let us read to our joy and comfort what the promises and provisions of that new Covenant are.
 
 34\. And they shall teach no more every man his neighbor, and every man his brother, saying, Know the LORD: for they shall all know Me, from the least of them unto the greatest of them, says the LORD: for I will forgive their iniquity, and I will remember their sin no more. Pardoned sin, as well as the change of nature, is implied in the writing of the Law upon the heart. Oh, what a privilege it is to be among these covenanted people! How shall we know whether we belong to them? The seal of the Covenant is faith in Christ—I mean the personal seal upon the heart and conscience. You believe in Jesus Christ as your Savior, you are trusting alone to His atoning Sacrifice, then God is in Covenant with you, for Jesus is the Mediator of the new Covenant—and he who has Christ has the Surety of the Covenant—and he shall have, in due time, every blessing which that Covenant guarantees!
 
 35-37. Thus says the LORD, which gives the sun for a light by day, and the ordinances ofthe moon and ofthe stars for a light by night, which divides the sea when the waves thereof roar; The LORD of Hosts is His name: if those ordinances depart from before Me, says the LORD, then the seed ofIsrael also shall cease from being a nation before Me forever. Thus says the LORD; If Heaven above can be measured, and the foundations ofthe earth searched out beneath, I will also cast off all the seed ofIsrael for all that they have done, says the LORD. Now Israel still stands as a people separate from all others and there is still before the literal seed of Israel a great and glorious future. But as for the spiritual Israel, who worship God in the Spirit and have no confidence in the flesh, God will sooner blot out the sun and moon than cast away His people, or any one of them. They shall all be His people and He shall be their God. He will preserve them and He will keep His Covenant with them forever and forever, blessed be His holy name, the name of Jehovah, the God of the Covenant which cannot be broken!
-
 
 ---
 [[Sermon 2505 Deliverance From the Pit|← #2505]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2507 He Ran, and He Ran|#2507 →]]

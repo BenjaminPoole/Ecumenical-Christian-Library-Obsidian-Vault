@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 33
 
-**CHAPTER 33**
+***Chapter 33***
 
 ## Isaiah 33:1-24
 

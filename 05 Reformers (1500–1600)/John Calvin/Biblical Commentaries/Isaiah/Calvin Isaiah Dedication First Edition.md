@@ -9,16 +9,15 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication to the First Edition
 
-**TO HIS SERENE HIGHNESS,**
+***To His Serene Highness,***
 
 **EDWARD SIXTH, KING OF ENGLAND, etc.**
 
-**A TRULY CHRISTIAN PRINCE.**
+## **A Truly Christian Prince.**
 
-**JOHN CALVIN.**
+## **John Calvin.**
 
 Though I acknowledge that this Commentary has been faithfully and skilfully compiled from my Lectures, yet, as it was drawn up by another person, I was at first afraid, most illustrious King, that if it should appear in public bearing your name on the Dedication, I might be thought not to have acted properly towards your Majesty. But this doubt was removed chiefly by one consideration, that as a Prophet who was of royal descent, and a most noble ambassador of Christ, the supreme King, is highly appropriate to your rank, so the labor which I had bestowed on the explanation of his Prophecies would be accepted and valued by your Majesty. His experience made him acquainted with five kings exceedingly unlike each other in their dispositions, to whom in uninterrupted succession he officiated as a teacher; and it is unnecessary to inform you which of these you should chiefly select for imitation, or to exhort you to that which you show that you are already sufficiently willing to do.
 

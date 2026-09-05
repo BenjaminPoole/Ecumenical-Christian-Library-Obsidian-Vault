@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Why Some Sinners Are Not Pardoned
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2705
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And why do You not pardon my transgression, and take away my iniquity?" Job 7:21.
 
@@ -83,7 +80,7 @@ By a simple faith,
 
 This is the Gospel—"Believe on the Lord Jesus Christ, and you shall be saved." You will never see up in Heaven a sign bearing the names ,"Christ, and Co." No, it is Christ, and Christ alone, who is the sinner's Savior! He claims this for Himself—"I am Alpha and Omega." That is, "I am A, and I am Z. I am the first letter of the alphabet, and I am the last letter, and I am every other letter from the first down to the last." Will you make Him to be so to you, dear Friend? Will you take Him to be your Savior now? "He that believes on the Son has everlasting life." A friend told us, at one of our Prayer Meetings, that "H-A-Sspells, "got it." "He that believes on the Son is a saved sinner, he has got that everlasting life that can never die and can never be taken away from him. Therefore, Beloved Friends, believe in Jesus and you, too, shall have this eternal life! You shall have pardon, you shall have peace, you shall have God, and you shall have Heaven, itself, to enjoy before long! God do so unto you, for His great mercy's sake in Christ Jesus! Amen and Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: JOB 7; JOHN 3:14-17.
+## Expositions by C. H. Spurgeon: Job 7; John 3:14-17
 
 Job was sorely troubled by the cruel speeches of his friends and he answered them out of the bitterness of his soul. What we are first about to read is a part of his language under those circumstances.
 
@@ -122,7 +119,6 @@ John 3:14, 15. And as Moses lifted up the serpent in the wilderness, even so mus
 "Jesus, to Your arms I fly; Save me, Lord, or else I die." 16, 17. For God so loved the world, that He gave His only-begotten Son, that whoever believes in Him should not perish, but have everlasting life. For God sent not His Son into the world to condemn the world; but that the world through Him might be saved. Now this, which is good teaching for those who have but lately come to Christ, or for those who are seeking to come to Him, is the very same teaching which will bring comfort to the most advanced and best instructed of the saints. How I love to continually begin with Christ over again as I began at the first! They say when a man is sick, it is a good thing to take him to his native place. And when a true Believer's soul gets faint and unbelieving, let
 
 him breathe the air of Calvary again! The learned Grotius, who had spent the most of his life in theological disputations—not always or even often on the right side—when he was dying said, "Read me something." And they read him the story of the publican and the Pharisee. He said, "And that poor publican I am. Thank God, that I am publican.' God be merciful to me, a sinner.'" That was the word with which the great scholar entered into Heaven—and that is the way in which you and I must come to God! May the Holy Spirit help us to come to Him thus! Amen.
-
 
 ---
 [[Sermon 2704 'Flee From the Wrath to Come'|← #2704]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2706 Feeding on the Bread of Life|#2706 →]]

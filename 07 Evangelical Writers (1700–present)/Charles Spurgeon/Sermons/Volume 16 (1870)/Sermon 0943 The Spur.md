@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Spur
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 943
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 31, 1870,.
+*Delivered on Lord's-Day Morning, July 31, 1870*
 
 > "I must work the works of Him that sent Me, while it is day: the night comes, when no man can work." John 9:4.
 
@@ -184,7 +183,6 @@ Now while we have peace, and God spares this land the horrors of war, ought not 
 Take heed that your light be not darkness. Take heed you conceal it not. If it is light, take heed that you despise it not, for if it is ever so little a light, it is what God has given you, and as much as you will be able to give God a joyful account of. If you have any light, though it is but a spark, it is for the world you have it. For the sons of men it is lent you. Use it, use it now, and God help you.
 
 O that our light as a Church would shine upon this congregation! How I desire to see all my congregation saved! Let Believers be more in prayer, more in service, more in holiness, and God will send us His abundant blessing, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0942 The Way|← #942]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0944 An Encouraging Lesson From Paul's Conversion|#944 →]]

@@ -9,18 +9,17 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**DEDICATION**
+***Dedication***
 
-**TO HIS MOST SERENE HIGHNESS,**
+## **To His Most Serene Highness,**
 
-**EDWARD THE SIXTH**
+## **Edward the Sixth**
 
-**THE KING OF ENGLAND, THE LORD OF IRELAND, AND A MOST CHRISTIAN PRINCE,**
+## **The King of England, the Lord of Ireland, and a Most Christian Prince,**
 
-**JOHN CALVIN.**
+## **John Calvin.**
 
 Behold, I return to you again, most excellent King. For though I did not expect that the Commentaries on Isaiah, which I lately dedicated to your Majesty, were a worthy gift, yet it was offered with my hearty good wishes. I have, therefore, thought of adding the Catholic Epistles, as they are commonly called, as a supplement to make up a full measure, so that both might come to your hands at the same time. And doubtless, since they were written either to Gentiles far distant, or to such as inhabited various countries far asunder, it is nothing new to them to pass over the sea, and to make a long circuit in coming to your Majesty. At the same time I thus as a private individual offer to you, most illustrious King, my labors, that being published under your name, they may profit all.
 

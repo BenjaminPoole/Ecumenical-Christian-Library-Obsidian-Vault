@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Human Depravity And Divine Mercy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 615
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 19, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, February 19, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Genesis 8:21.
 
@@ -47,7 +46,7 @@ I would have you studiously notice the words used in both these passages—the a
 
 No, more! The substratum which underlies actual thought—unformed, unfashioned thought—the eggs, the embryos of thought, called here the imagination of the thought, the first conception, the infant motions of the soul—all these God found to be evil. But observe, He says they were, "only evil." Not one trace of good! No gold amidst the dross, no light amidst the darkness—they were "only evil." And then He adds that word "continually." What? Never any repentance? Never any yearning towards the right? No pure drops of holiness now and then? No, never!
 
-"Every imagination"—notice that word. The whole verse is most clear, a broom that sweeps man clean of all boasted good. "Every imagination"—when he was at his best, when he stood at God's altar, when he tried to be right— even then his thoughts had evil in them! Dr. Dick says, "All man's thoughts, all his desires, all his purposes are evil, expressly or by implication because the subject of them is avowedly sinful, or because they do not proceed from a holy principle and are not directed to a proper end. It is not occasionally that the human soul is thus under the influence of de- pravity. This is its habit and state. It seems impossible to construct a sentence which should more distinctly express its total corruption than this."
+"Every imagination"—notice that word. The whole verse is most clear, a broom that sweeps man clean of all boasted good. "Every imagination"—when he was at his best, when he stood at God's altar, when he tried to be right— even then his thoughts had evil in them! Dr. Dick says, "All man's thoughts, all his desires, all his purposes are evil, expressly or by implication because the subject of them is avowedly sinful, or because they do not proceed from a holy principle and are not directed to a proper end. It is not occasionally that the human soul is thus under the influence of de-pravity. This is its habit and state. It seems impossible to construct a sentence which should more distinctly express its total corruption than this."
 
 Look at this other passage which is our text. You will see it gives a different phase of the same evil, but it does not abate one jot or tittle of it. It is still, "the imagination of man's heart." It is still the inward character, the core, the pith, the marrow of mankind which God is dealing with. It is not the stream which comes from man that is foul but the fountain of man—the innermost source of the fountain! The imagination of his heart is evil—and we are told here what we are not told in the other text—that his thoughts are evil from his youth, that is to say, from his earliest childhood.
 
@@ -79,7 +78,7 @@ Very well, I am willing to look at children and I am unwilling that anybody shou
 
 One of the earliest vices of children which needs to be corrected with most constant and wise rigor is the tendency towards falsehood. It is all very pretty for people to talk about the innocence of children. But I would like them to have to keep one of the nursery schools like those at Manchester, where the children are left while the mothers are at work in the mills! They would soon discover in their pulling one another's hair, and scratching at one another's eyes, and such like pretty little diversions and innocent freaks, that they are not altogether the sweet babes of innocence they are supposed to be!
 
-"Well," says one, "still, human nature may have some spiritual good in it. Look at the men who make illustrious the page of history—look at Socrates, for instance—religion did nothing for Socrates, but yet what a fine character he was." Who told you that? I will venture to say that the philosopher's character would not bear description in a decent assembly. We know from undoubted authority that the purest philosophers at times indulged in bestiality and filth. So- lon and Socrates were no exceptions. When Infidels hold up these sages as being such patterns of what human nature might become, they have history dead against them. "The whole head is sick and the whole heart faint. There is no soundness in it."
+"Well," says one, "still, human nature may have some spiritual good in it. Look at the men who make illustrious the page of history—look at Socrates, for instance—religion did nothing for Socrates, but yet what a fine character he was." Who told you that? I will venture to say that the philosopher's character would not bear description in a decent assembly. We know from undoubted authority that the purest philosophers at times indulged in bestiality and filth. So-lon and Socrates were no exceptions. When Infidels hold up these sages as being such patterns of what human nature might become, they have history dead against them. "The whole head is sick and the whole heart faint. There is no soundness in it."
 
 And this, be it remembered, is without an exception in the long history of humanity, say six thousand years. There is not one that has escaped contamination, not one who has come into the world clean, not one who dares go before his Maker's bar and say, "Great God, I have never sinned, but have kept Your Law from my youth up."
 
@@ -126,7 +125,6 @@ Then, my Brothers and Sisters, you have a new heart and a right spirit! You are 
 If so, if Jesus is the Christ to you—you are born of God. The Spirit which is in you now will drive out the old nature, slay it utterly, cut it up root and branch and you shall one day bear the image of the heavenly, even as you have till now borne the image of the earthly. May God bless these words of mine to your souls' good.
 
 "Eternal Spirit, we confess And sing the wonders of Your Grace! Your power conveys our blessings down From God the Father and the Son. Enlightened by Your heavenly ray, Our shades and darkness turn to day. Your inward teachings make us know Our danger and our refuge, too. Your power and glory works within, And breaks the chains of reigning sin, Does our imperious lusts subdue, And forms our wretched hearts anew. The troubled conscience knows Your voice, Your cheering Words awake our joys; Your Words allay the stormy wind, And calm the surges of the mind."
-
 
 ---
 [[Sermon 0614 For Christ'S Sake|← #614]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0616 The Special Call And The Unfailing Result|#616 →]]

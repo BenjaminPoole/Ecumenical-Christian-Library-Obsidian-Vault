@@ -10,18 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 28. Appeal at His Degradation
-
-[APPEAL AT HIS DEGRADATION
 
 Foxe's Acts and Monu ments, pp. 1881 — 1884. Ed. Lond. 158&
 
-BEFORE DOCTOR THURLBY AND DOCTOR BONER COMING WITH
+## Before Doctor Thurlby and Doctor Boner Coming With
 
-A NEW COMMISSION TO SIT UPON THE ARCHBISHOP
+## A New Commission to Sit upon the Archbishop
 
-THE 14TH DAY OF FEBRUARY2.]
+## The 14th Day of February 2.]
 
 The tenor of the Appeal of the archbishop of Canterbury from the Pope to the next
 
@@ -59,7 +56,7 @@ I had, wherewith I should bear my proctor's costs and charges, is quite taken fr
 
 [CRANMER, u.J
 
-APPEAL AT HIS DEGRADATION.
+## Appeal at His Degradation
 
 e fourth that is refused ought not to proceed in the cause, but to leave off." And when he had required of me answers to certain articles, I refused to make him any answer : I said I would yet gladly make answer to the most renowned king's and queen's deputies or attornies then present, with this condition notwithstanding, that mine answer should be extrajudicial ; and that was permitted me. Arid with this my pro testation made and admitted, I made answer, but mine answer was sudden and unprovided for ; and therefore I desired to have a copy of mine answers, that I might The papists put to, take away, change, and amend them : and this was also permitted me. Never theless, contrary to his promise made unto me, no respect had to my protestation, nor licence given to amend mine answer, the said reverend father, bishop of Gloucester, (as I hear,) commanded mine answers to be enacted contrary to the equity of the law. In which thing again I feel me much grieved.
 
@@ -93,7 +90,7 @@ Deformities of the church of Romo in- other churches.
 
 [3 Which all things, Ed. 1583.] [4 Other editions read, " afterward when the un graciousness."]
 
-APPEAL AT HIS DEGRADATION. 227
+## Appeal at His Degradation. 227
 
 For the foresaid and many other griefs and abuses, (which I intend to prove, and do proffer myself in time convenient to prove hereafter,) since reformation of the above-men tioned abuses is not to be looked for of the bishop of Rome ; neither can I hope, by reason of his wicked abuses and usurped authority, to have him an equal judge in his own cause; therefore I do challenge and appeal in these writings from the pope, having The bishop no good counsel, and from the above-named pretences, commissions, and judges, from equal JSge their citations, processes, and from all other things that have or shall follow therecwue.°W upon, and from every one of them, and from all their sentences, censures, pains, and punishments of cursing, suspension, and interdicting, and from all others whatsoever their denouncings and declarations (as they pretend) of schism, of heresy, adultery, de privation, degrading5, by them or by any of them in any manner wise attempted, done, and set forward, to be attempted, to be done, and to be set forward hereafter, (saving alway4s their honours and reverences,) as unequal and unrighteous, more tyrannical" and violent, and from every grief to come, which shall happen to me, as well for myself as for all and every one that cleaveth to me, or will hereafter be on my side, unto a free general council, that shall hereafter lawfully be, and in a sure Appellation place, to the which place I, or a proctor deputed by me, may freely and with safety wpc_to a come, and to him or them to whom a man may by the law, privilege, custom, or council. otherwise challenge and appeal.
 
@@ -115,7 +112,7 @@ This appeal being put up to the bishop of Ely, he said, " My lord, our commis si
 
 [s Degrading, Ed. lf)83.] [B Other editions read, " most tyrannical."]
 
-APPEAL AT IILS DEGRADATION.
+## Appeal at Iils Degradation
 
 Talk between Dr Thurlby and the arch bishop about the appeal.
 

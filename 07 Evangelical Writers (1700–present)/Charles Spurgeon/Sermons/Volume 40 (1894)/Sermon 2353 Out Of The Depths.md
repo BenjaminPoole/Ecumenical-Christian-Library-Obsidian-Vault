@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "Out Of The Depths"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2353
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For innumerable evils have compassed me about: my iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of my head: therefore my heart fails me. Be pleased, O LORD, to deliver me: O LORD make haste to help me." Psalm 40:12,13.
 
@@ -121,7 +118,7 @@ And then you may, if you like, use that last sentence—"Make haste, O Jehovah, 
 
 Dear Friends, may God save every one of you! Oh, how I would pour out my very soul in pleading with you if I thought that longer talk would lead you to Christ! But words are only air and wind. Eternal Spirit, Master of all hearts, come and deal with men and lead them to Jesus, now! And unto the Triune Jehovah shall be the glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM40.
+## Exposition by C. H. Spurgeon: Psalm 40
 
 To the chief Musician, A Psalm of David.
 
@@ -158,7 +155,6 @@ unto me," bowed down out of Heaven, inclined unto me, stooped to me, thought wel
 14-16. Let them be ashamed and confounded together that seek after my soul to destroy it. Let them be driven backward and put to shame that wish me evil. Let them be desolate for a reward of their shame that say unto me, Aha, aha. Let all those that seek You rejoice and be glad in You. Here is comfort for all poor trembling seekers—they are only seekers, but let us thank God that they are seekers, and let us say with the Psalmist, "Let all those that seek You rejoice and be glad in You." All true Christians, those who have found Christ, are still seekers, for, after finding Christ, they inflame their souls to seek Him more and more! So that our prayer, also, is, "Let all those that seek You rejoice and be glad in You"
 
 16, 17. Let such as love Your salvation say continually, The LORD be magnified. But I am poor and needy; yet the Lord thinks upon me: You are my Help and my Deliverer; make no tarrying, O my God. The Lord bless to us the reading of this precious portion of His Word, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2352 Great Joy In the City|← #2352]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2354 Scarlet Sinners Pardoned and Purified|#2354 →]]

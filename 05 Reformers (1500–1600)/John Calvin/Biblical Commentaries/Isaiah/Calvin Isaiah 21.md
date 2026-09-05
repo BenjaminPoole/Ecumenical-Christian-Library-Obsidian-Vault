@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 21
 
-**CHAPTER 21**
+***Chapter 21***
 
 ## Isaiah 21:1-17
 

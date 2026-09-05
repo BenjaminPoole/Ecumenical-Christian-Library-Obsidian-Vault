@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Seeing And Not Seeing—Or, Men As Trees Walking
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 701
 
-DELIVERED ON SUNDAY MORNING, JULY 22, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 22, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And He came to Bethsaida and they brought a blind man unto Him, and besought Him to touch him. And He took the blind man by the hand, and led him out of the town. And when He had spit on his eyes, andputHis hands upon him, He asked him if he saw anything. And he looked up, and said, I see men as trees, walking. After that He put His hands again upon his eyes, and made him look up. And he was restored, and saw every man clearly." Mark 8:22-25.
 
@@ -142,7 +141,6 @@ Do not see men as trees walking. Do not confuse sanctification and justification
 On the other hand, while you believe human responsibility, never run into the error of supposing that man ever turns to God of his own free will. There is a narrow line between the two errors, and ask for Divine Grace to see it. Ask for Grace neither to fall into the whirlpool nor to be dashed against the rock—to be neither a slave of this system nor that. Never say of one text of Scripture, "Be still, I cannot endure you," nor yet of another, "I believe you, and you alone." Seek to love the whole Word of God, to get an insight into every Truth revealed. Pray to have God's Word given to you not as so many discordant books, but as a whole, and seek to grasp the Truth as it is in Jesus in all its compactness and unity.
 
 I would urge you, if you have got sight which enables you to see at all, to fall on your knees and cry unto the great Sight-Giver, "O Master, still go on! Take every film away! Remove every cataract! And if it should be painful to have my prejudices cut away or burnt out of my eyes, yet do it, Lord, until I can see in the clear light of the Holy Spirit, and shall be worthy to enter into the gates of the holy city, where they see You face to face."
-
 
 ---
 [[Sermon 0700 Order and Argument in Prayer|← #700]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0702 Peter'S Three Calls|#702 →]]

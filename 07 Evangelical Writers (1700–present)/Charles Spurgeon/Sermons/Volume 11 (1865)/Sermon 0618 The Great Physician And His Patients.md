@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Great Physician And His Patients
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 618
 
-DELIVERED ON SUNDAY MORNING, MARCH 5, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, March 5, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "They that are whole need not a physician, but they that are sick." Matthew 9:12.
 
@@ -150,7 +149,6 @@ Some lean, wretched-looking fellows have faces which are worth a fortune to them
 You are destitute! You are starving! Spread your case before God. The best case you can make out in order to prevail with God is a bad one. Let it be as bad as it can be and I venture to say the worst is the best. Do not be apologizing, attempting to make your sins less than they are. Tell Him you are a wretch undone without His Sovereign Grace. And there, guilty and vile, and self-abhorred, fall flat before Him and say, "Lord Jesus, if You want someone to heal, I am just the man. If You want a case that can be blazoned abroad and that will make the public ears ring and ring again with the praise of Your all-healing medicine, I am Your man, Lord. "If You want one full of sores and wounds and putrefying disease like Job upon a dunghill. If You want one that is very far gone—that is rotten through and through—Lord, I am Your man."
 
 O believe, Sinner, He is your Savior, for while He loves to meet with such cases as yours, you should rejoice to meet with such a Savior as He is! And all you are asked to do is to believe that He can save you and to trust Him to do it! If you knew Him, you would believe Him. He loves to save. He can save the vilest! Trust Him then and may the Spirit of God so lead you to understand Him that you can rely upon Him! And, if you do, He will say, "Sinner, your sins are forgiven you, be of good cheer, go on your way rejoicing." May God bless these words, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0617 Christ Our Life—Soon To Appear|← #617]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0619 The Golden Key Of Prayer|#619 →]]

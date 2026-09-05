@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # 'Return Unto Your Rest'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2758
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Return to your rest, O my soul; for the Lord hats dealt bountifully with you." Psalm 116:7.
 
@@ -109,7 +106,7 @@ Now, lastly, God has also delivered our feet from falling as He did in the case 
 
 No, you have nothing at all to fret about! Your soul is delivered from death, your eyes from tears and your feet from failing—so rest, rest, rest, rest! You will glorify God by resting. One of the highest acts of devotion is to rest in the Lord. God grant it to you now, especially at His Table, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM85
+## Exposition by C. H. Spurgeon: Psalm 85
 
 In my brief comments upon this Psalm, I shall not feel bound to keep to the immediate occasion for which it was written, but shall seek to find a use for it in the present circumstances of God's saints.
 
@@ -140,7 +137,6 @@ do in the future. As the wise man said, "The thing that has been, it is that whi
 11\. And righteousness shall look down from Heaven. As if so pleased with the state of things brought about by the atoning Sacrifice of Christ that it flung up the windows of Heaven to look down and see this great sight! "Righteousness shall look down from Heaven."
 
 12, 13. Yes, the LORD shall give that which is good; and our land shall yield her increase. Righteousness shall go before Him; andshall set us in the way ofHis steps. May God thus revive us, by His Holy Spirit, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2757 Victorious Faith|← #2757]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2759 The Pleasures of Piety|#2759 →]]

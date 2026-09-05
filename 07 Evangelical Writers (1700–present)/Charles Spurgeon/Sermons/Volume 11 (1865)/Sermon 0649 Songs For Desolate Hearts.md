@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Songs For Desolate Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 649
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 10, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 10, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Isaiah 54:1.
 
@@ -160,7 +159,6 @@ O Beloved, there is nothing like a sight of the Savior! I have heard of a minist
 O servants of God, will you depart from your work when the pierced hand is at your side? Courage, my Brethren, courage! We cannot fail, for Christ is with us! And we must not cease, for Jesus ceases not. Together let us praise our Lord that He has sent us this morning such a promise to gird about our loins to make us strong even to the end. "Sing, O barren, you that did not bear. Break forth into singing and cry aloud you that did not travail with child: for more are the children of the desolate than the children of the married wife, says the Lord."
 
 The Lord grant it may be so to us for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 0648 Degrees Of Power Attending The Gospel|← #648]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0650 Judgment Threatening But Mercy Sparing|#650 →]]

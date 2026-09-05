@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 5 — Is there any farther alteration to be expected in or of those institutions and ordinances of worship which are revealed and appointed in the gospel?
-
-Question 5 — Is there any farther alteration to be expected in or of those institutions and ordinances of worship which are revealed and appointed in the gospel?
 
 Answer — No; the last complete revelation of the will of God being made by the Son, who is Lord of all, his commands and institutions are to be observed inviolably unto the end of the world, without alteration, diminution, or addition. Heb. i. 1, 2, x. 25–27; Matt. xxviii. 20; 1 Cor. xi. 26; 1 Tim. vi. 14.
 
@@ -25,7 +22,6 @@ Explication — It was showed before that all the institutions of the Old Testam
 Secondly, Can any one be expected to come from God with a greater and more full authority for the revelation of his mind than that wherewith his only Son was accompanied; which yet must be, if any alterations were to be made in the appointments of worship that he hath instituted in the gospel.
 
 For no inferior nor an equal authority can abolish or alter that which is already appointed, so as to give satisfaction unto the consciences of men in obedience unto such alterations. And, therefore, because there arose not a prophet like unto Moses under the Old Testament, there could be no alteration made in his institutions, but the church was bound severely to observe them all until the coming of Christ: Mal. iv. 4, “Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments;” and that because “there arose not a prophet afterwards in Israel like unto Moses, whom the Lord knew face to face,” Deut. xxxiv. 10. And our apostle, to prove the right of Christ to alter the ordinances of the law, lays his foundation in manifesting that he was above the angels: Heb. i. 4, “Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they;” and that because the law was given by the ministry of angels, chap. ii. 2; — and so also that he was greater than Moses, chap. 3:3, 5, “For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house. Moses verily was faithful in all his house, as a servant, but Christ as a son over his own house;” because Moses was the lawgiver, and the mediator between God and man in the giving of the law. Now, if this be the sole foundation and warrant of the alteration made of Mosaical ordinances by Christ, — namely, that he was greater and exalted above all those whose ministry was used in the dispensation of the law, — unless some can be thought to be greater, and exalted in authority above the Son of God, there can be no alteration expected in the institutions of the gospel.
-
 
 ---
 [[BIWG 05 Question 4 — Have these ways and means been always the same from the beginning|← Question 4 — Have these ways and means been always the same from the beginning?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 07 Question 6 — May not such an estate of faith and perfection in obedience be|Question 6 — May not such an estate of faith and perfection in obedience be attained in this life, as wherein believers may be freed from all obligation unto the observation of gospel institutions? →]]

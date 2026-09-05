@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The King and His Court
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2362
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My eyes shall be upon the faithful of the land, that they may dwell with me: he that walks in a perfect way, he shall serve me." Psalm 101:6.
 
@@ -85,7 +82,7 @@ Lastly, dear Friend, if you would be among the faithful of the land, depend cont
 
 Are you not glad to hear this, you great sinners? Jesus is as able to pardon you, now, as He was to save the dying thief! And you who have hard hearts, He is able to give you new ones, today, as He gave them to those of old. And oh, you children of God, I pray you, do not act as if David had a great God, and you have a little God! Do not act as if, in the trials of the olden times, God made bare His arm, but that now He will hardly put out His little finger! Do not treat Him as if it could be so. God still hears prayer! If He does not work miracles, He does the same thing in some other way which is even better! He still delivers us! He still feeds us! He still leads us! He still guards us! He is the same as He always was! Oh if you would but trust Him! Abraham's God is your God and He can help you in the day of battle. Joshua's God is your God and He says to you as He did to Joshua, "I will not fail you, nor forsake you." Oh, believe it! Jesus Christ—my grandfather's Jesus Christ, my father's Jesus Christ—is my Jesus Christ! Look back on all the godly people you have ever known and think of what the Lord did for them—and then remember that His arm is not shortened, His ear is not heavy, His love is not diminished, His wisdom is not turned to foolishness! He is still able and willing to bless you, as in all the ages that have gone by. Trust Him, you saints! Trust Him, you sinners—and the Lord bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 100; 101.
+## Exposition by C. H. Spurgeon: Psalm 100; 101
 
 May the Spirit of God, by whose Inspiration David penned these Psalms, bless them to us as we read them!
 
@@ -144,7 +141,6 @@ me?"
 6, 7. He that walks in a perfect way, he shall serve me. He that works deceit shall not dwell within my house: he that tells lies shall not tarry in my sight. He was a king and he could choose his company—and he meant to select the truthful and upright. Now mark this! If David would not let a man who lies tarry in his sight, you must not expect that God will let such tarry in His sight. "All liars shall have their part in the lake which burns with fire and brimstone," says the Scripture. God grant us to have clean, truthful tongues!
 
 8\. I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD. What a practical Psalm this is! I have heard of a prince of Saxe-Gotha, years ago, who, whenever he thought that one of his ministers or judges was not what he ought to be, used always to send him the 101st Psalm to read. It was commonly said of such a man, "He will get the 101st Psalm before long." And, after reading it, if he did not mend his manners, the prince sent him his dismission and he had to go about his business. Oh, that all who profess and call themselves Christians would act according to the tenor of this straight Psalm which is like a line drawn by the hand of God, without a crook or a turn in it!
-
 
 ---
 [[Sermon 2361 Hopeful, Yet Doubtful|← #2361]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2363 Comfort and Constancy|#2363 →]]

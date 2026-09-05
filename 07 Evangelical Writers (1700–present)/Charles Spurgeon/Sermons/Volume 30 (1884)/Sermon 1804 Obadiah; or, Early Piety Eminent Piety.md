@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Obadiah; or, Early Piety Eminent Piety
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1804
@@ -105,8 +104,7 @@ As to you that have grown old in sin, I cannot talk to you about early piety; bu
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON’1 Kings, 18:1-16; Psalm 71.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’145, 1015, 693.
-
+## Hymns from ‘Our Own Hymn Book’145, 1015, 693
 
 ---
 [[Sermon 1803 Jehovah-Jireh|← #1803]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1805 Strength And Recovery|#1805 →]]

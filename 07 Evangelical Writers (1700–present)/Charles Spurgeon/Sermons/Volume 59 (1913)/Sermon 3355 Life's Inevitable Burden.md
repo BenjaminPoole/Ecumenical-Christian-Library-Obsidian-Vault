@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Life's Inevitable Burden
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3355
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For every man shall bear his own burden." Galatians 6:6.
 
@@ -27,7 +24,7 @@ I mention this because I am quite sure that very much of it does prevail in the 
 
 Of these burdens we shall speak tonight, and they shall be our first point. Then, lest we should become burdensome to you, we shall offer a few considerations which may tend to take out the weight of the burdens which we must unavoidably carry, each one for himself. And then we shall close by endeavoring to find something practical to be done tonight as the result of the text. First, then, we have to speak of—
 
-I. CERTAIN BURDENS WHICH EACH MAN WILL BE QUITE CERTAIN TO HAVE TO BEAR FOR HIMSELF.
+## I. Certain Burdens Which Each Man Will Be Quite Certain to Have to Bear for Himself
 
 In speaking of the first three burdens which I shall have to mention, I shall address myself to you all, whether saints or sinners, for there are some Truths of God which are common to all men as men. And such is the first burden—the burden of original sin. The burden of our natural depravity, the burden of our fallen nature, the burden of our constitution which is perverted by evil—these we shall, each one of us, have to carry for himself. It may be said that this is not our burden, but Adam's—but the burden of the father, if he brings the whole household into poverty—becomes the burden of the family and each individual member of it. If the head should ache, it is no use for the hand to say, "It is no business of mine." There is, too, so vital and intimate a connection between the whole body of humanity, between Adam
 
@@ -98,7 +95,6 @@ Now I ask you, you who are now washed in His cleansing blood, you who now bear i
 "For He is mine, and I am His— The God whom I adore! My Father, Savior, Comforter, Now and forevermore,"
 
 serve Him now! Serve Him forevermore and may the Lord bless you and make you blessed, and a great blessing to others, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 3354 'The Old Testament 'Prodigal'|← #3354]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3356 David's Sublime Consolation|#3356 →]]

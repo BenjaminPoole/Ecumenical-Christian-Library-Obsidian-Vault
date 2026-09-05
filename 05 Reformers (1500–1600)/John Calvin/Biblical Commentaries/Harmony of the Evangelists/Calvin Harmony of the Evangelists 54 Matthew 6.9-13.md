@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 54. Matthew 6:9-13;Luke 11:1-4
-
-**MATTHEW 6:9-13; LUKE 11:1-4**
 
 **9**. Pray ye therefore thus: Our Father who art in heaven, may thy name be sanctified. **10**. May thy kingdom come. May thy will be done, as in heaven, so also in the earth. **11**. Give us to-day our daily bread. **12**. And forgive us our debts, as we also forgive our debtors. **13**. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory for ever. Amen.
 

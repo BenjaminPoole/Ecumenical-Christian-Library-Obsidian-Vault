@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Faith Victorious
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2481
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Jesus went out from there and departed to the coasts of Tyre and Sidon. And, behold, a woman of Canaan came from that same region, and cried out to Him, saying, Have mercy on me, O Lord, Son of David, my daughter is grievously vexed with a devil. But He answered her not a word. And His disciples came and urged Him, saying, Sendher away; for she cries after us. But He answered and said, I am not sent but to the lost sheep of the house of Israel. Then she came and worshipped Him, saying, Lord, help me. But He answered and said, It is not good to take the children's bread, and to cast it to dogs. And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table. Then Jesus answered and said to her, O woman great is your faith: be it to you even asyou will. And her daughter was made whole from that very hour." Matthew 15:21-28.
 
@@ -113,7 +110,7 @@ Next, did the Lord Jesus Christ ever call you a dog? Tell me anywhere in Scriptu
 
 O blessed and gracious Spirit, sweetly compel some to believe in Jesus! You deserve, O Lord Jesus, that we believe You up to the hilt! That we believe You to the uttermost, for You are more than our faith can ever make You to be. Help us to believe You. "He that believes on the Son has everlasting life." "He that believes and is baptized shall be saved." This is the Gospel! Accept it and you shall find it true. God grant it! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 15:18-31.
+## Exposition by C. H. Spurgeon: Matthew 15:18-31
 
 Verses 18-21. But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: these are the things which defile a man: but to eat with unwashed hands defiles not a man. Then Jesus went out from there and departed to the coasts of Tyre and Sidon. He went right away, not because He was afraid to speak the Truth, but because, having done so, He did not care to remain in the company of those who were round about Him. He would rather go even to the verge of heathendom than live in the midst of Pharisaic hypocrisy—"Jesus went out from there and departed to the coasts of Tyre and Sidon."
 
@@ -136,7 +133,6 @@ Verses 18-21. But those things which proceed out of the mouth come forth from th
 29\. And Jesus departed from there. He is always on the move, for He has always something else to do. As soon as His deed of Grace is done in one part, He hastens to another. "And Jesus departed from there."—
 
 29-31. And came near to the sea of Galilee; and went up into a mountain, and sat down there. And great multitudes came to Him, having with them those that were lame, blind, dumb, maimed and many others, and cast them down at Jesus ' feet; and He healed them: insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel. This was Israel's table, indeed, and when you see these many mighty cures that Christ worked, you can easily justify the speech of the Syrophenician woman, and agree with her that what she sought was only a crumb compared with the bountiful feast of fat things that was prepared for the favored nation!
-
 
 ---
 [[Sermon 2480 The Tender Grapes|← #2480]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2482 An Unparalleled Cure|#2482 →]]

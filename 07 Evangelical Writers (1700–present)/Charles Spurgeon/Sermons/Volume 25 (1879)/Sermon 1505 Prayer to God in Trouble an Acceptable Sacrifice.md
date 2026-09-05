@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Prayer to God in Trouble an Acceptable Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1505
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 9, 1879.
+*Delivered on Lord's-Day Morning, November 9, 1879*
 
 > "And call upon Me in the day of trouble; I will deliver you, and you shall glorify Me." Psalm 50:15.
 
@@ -142,7 +141,6 @@ Listen! You will be cast into trouble one of these days and when you are in trou
 Some Christians would scarcely have brought any glory to God if they had not been led by paths of sorrow and made to wade through seas of grief. God gets very little glory out of many professors and He would have still less if they had been allowed to rust their souls away in comfort. The brightest of the saints owe much of their clearness to the fire and the file. It is by the sharp needle of sorrow that we are embroidered with the praises of the Lord. We must be tried that the Lord may be glorified! We cannot call upon Him in the day of trouble if we have no such day—and He cannot deliver us if we have no trouble to be delivered from! And we cannot glorify Him if we are not made to see the danger and the need in which He displays His love.
 
 I leave the blessed subject of the text with you, as a souvenir, till we meet again. The Lord be with you till the day breaks and the shadows flee away. Pray, also, that He may abide with me and with all my Brothers in the ministry. And may we all, in yonder world of rest, glorify Him who will then have delivered us completely from all evil, to whom be glory forever! Amen.
-
 
 ---
 [[Sermon 1504 The Swift Camels|← #1504]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1506 Choice Comfort for a Young Believer|#1506 →]]

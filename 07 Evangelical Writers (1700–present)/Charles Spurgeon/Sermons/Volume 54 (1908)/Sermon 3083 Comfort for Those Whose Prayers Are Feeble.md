@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Comfort for Those Whose Prayers Are Feeble
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3083
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Hide not Your ear at my breathing." Lamentations 3:56.
 
@@ -29,7 +26,7 @@ Upon the matter of prayer, many are dispirited because they cannot yet pray as a
 
 We shall teach three or four lessons from the present use of the expression, "breathing."
 
-I. WHEN WE CANNOT PRAY AS WE WOULD, IT IS GOOD TO PRAY AS WE CAN.
+## I. When We Cannot Pray as We Would, It Is Good to Pray as We Can
 
 Bodily weakness should never be urged by us as a reason for ceasing to pray. In fact, no living child of God will ever think of such a thing. If I cannot bend the knees of my body because I am so weak, my prayers from my bed shall be on their knees—my heart shall be on its knees and pray as acceptably as before. Instead of relaxing prayer because the body suffers, true hearts, at such times, usually double their petitions. Like Hezekiah, they turn their face to the wall that they may see no earthly object and then they look at the invisible things and talk with the Most High. Yes, and often in a sweeter and more familiar manner than they did in the days of their health and strength. If we are so faint that we can only lie still and breathe, let every breath be a prayer!
 
@@ -97,7 +94,7 @@ I have been aiming thus to comfort those distressed ones who say they cannot pra
 
 Breathe the prayer, "Lord, give me the faith of Your elect and save me with a great salvation!" Though it is only breathing, yet, as the old Puritan says, when God feels the breath of His child upon His face, He smiles. And He will feel your breath and smile on you, and bless you. May He do so, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LAMENTATIONS3:1-36.
+## Exposition by C. H. Spurgeon: Lamentations 3:1-36
 
 The first part of this chapter is one of the saddest in the whole Book of God, yet I expect it has ministered as much consolation as some of the brightest pages of Holy Writ because there are children of God who are the subjects of great suffering and sorrow—and when they turn to such a passage as this, they see that one of the Lord's own Prophets had gone that way before them. And when they see the footprints of another of God's people in the dark and gloomy valley that they are traversing, they are encouraged. Besides, the chapter does not end as it begins. There is daylight for the poor sufferer after all, so we shall read the sad utterances of the Prophet in the hope that if we have ever known experiences similar to his, we may learn where to find comfort even as he did.
 
@@ -113,7 +110,7 @@ Verses 1, 2. I am the man who has seen affliction by the rod of His wrath He has
 
 9-13. He has made mypaths crooked. He was unto me as a bear lying in wait, and as a lion in secret places. He has turned aside my ways, and pulled me in pieces: He has made me desolate. He has bent His bow, and set me as a mark for the arrow. He has caused the arrows of His quiver to enter into my reins. The King's arrows had wounded him to the very quick. Perhaps some of you may know what it is to go to the Bible and yet to find no comfort in it, for the precious promises have seemed to be too good to be true to you, and you seem to have hunted out every dark and threatening passage at once—and you have said, "Ah, that belongs to me!" You have written bitter things against yourself and have thought that surely you were the target at which God was shooting His sharpest arrows. [See Sermon #3039, Volume 53—THE
 
-KING'S SHARP ARROWS]
+## King's Sharp Arrows]
 
 14-17. I was a derision to all my people; and their song all the day. He has filled me with bitterness, He has made me drunk with wormwood. He has also broken my teeth with gravel, He has coveredme with ashes. And You have removed my soul far off from peace: I have forgotten prosperity. "It seems so long since I have had any prosperity that I have forgotten it. I have become so accustomed to trouble and sorrow that it seems as if I had never known what joy was." The original is even more sad, "I forget good."
 
@@ -154,7 +151,6 @@ the Lord, or to murmur at Him, nor yet opening your mouth in boastfulness, but p
 free of charge, at http://www.spurgeongems.org.]
 
 SHOULDERS] He sits alone and keeps silence
-
 
 ---
 [[Sermon 3082 'Here I Am!'|← #3082]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3084 Paul's Parenthesis|#3084 →]]

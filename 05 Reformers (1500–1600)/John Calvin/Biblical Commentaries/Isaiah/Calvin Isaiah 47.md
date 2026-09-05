@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 47
 
-**CHAPTER 47.**
+***Chapter 47.***
 
 ## Isaiah 47:1-15
 

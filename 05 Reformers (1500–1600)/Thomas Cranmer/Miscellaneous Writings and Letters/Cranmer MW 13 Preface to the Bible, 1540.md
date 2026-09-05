@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 13. Preface to the Bible, 1540
 
-PROLOGUE OR PREFACE
+*Prologue or Preface*
 
-THE MOST REVEREND FATHER IN GOD,
+## The Most Reverend Father in God
 
 THOMAS, ARCHBISHOP OF CANTERBURY,
 
-METROPOLITAN AND PRIMATE OF ENGLAND1.
+## Metropolitan and Primate of England 1
 
 Cranmer's Bible, 1540.
 
@@ -43,7 +42,7 @@ To this answering, " What sayest thou, man?" saith he: " Is it not for thee to s
 
 [:! Other copies read, into.] [4 Of the holy, other copies. J [5 Linn, i. e. cease. 1 f6 Other copies read, and have heen.J [7 Nosy lied, i. e. nussled, nurtured.]
 
-120 PREFACE TO THE BIBLE.
+## 120 Preface to the Bible
 
 thou hast more need to have thy remedies and medicines at hand. Thy wife provoketh thee to anger, thy child giveth thee occasion to take sorrow and pensiveness, thine enemies lieth in wait for thee, thy friend (as thou takest him) sometime cnvieth thee, thy neigh bour misreporteth thee, or pricketh quarrels against thee, thy mate or partner undennineth thee, thy lord judge or justice threateneth thee, poverty is painful unto thee, the loss of thy dear and well-beloved causeth thee to mourn ; prosperity exalteth thee, adversity bringeth thee low. Briefly, so divers and so manifold occasions of cares, tribulations, and temptations besetteth thee and besiegeth thee round about. Where canst thou have armour or fortress against thine assaults? Where canst thou have salve1 for thy sores, but of holy scripture? Thy flesh must needs be prone and subject to fleshly lusts, which daily walkest and art conversant amongst2 women, seest their beauties set forth to the eye, hearest their nice and wanton words, smellest their balm, civit, and musk, with other like provocations and stirrings, except thou hast in a readiness wherewith to suppress and avoid them, which cannot elsewhere be had, but only out of the holy scriptures. Let us read and seek all remedies that we can, and all shall be little enough. How shall we then do, if we suffer and take daily wounds, and when we have done, will sit still and search for no medicines ? Dost thou not mark and consider how the smith, mason, or carpenter, or any other handy-craftsman, what need soever he be in, what other shift soever he make, he will not sell nor lay to pledge the tools of his occupation ; for then how should he work his feat, or get a living thereby ? Of like mind and affection ought we to be towards holy scripture; for as mallets, hammers, saws, chisels, axes, and hatchets, be the tools of their occupation, so been8 the books of the prophets and apostles, and all holy writ inspired by the Holy Ghost, the instruments of our salvation. Wherefore, let us not stick to buy and provide us the bible, that is to say, the books of holy scripture. And let us think that to be a better jewel in our house than either gold or silver. For like as thieves been loth to assault an house where they know to be good armour and artillery; so wheresoever these holy and ghostly books been occupied, there neither the devil nor none of his angels dare come near. And they that occupy them been in much safeguard, and having great4 consolation, and been the readier unto all goodness, the slower to all evil5; and if they have done any thing amiss, anon, even by the sight of the books, their con sciences been admonished, and they waxen sorry and ashamed of the fact.
 
@@ -55,7 +54,7 @@ thou hast more need to have thy remedies and medicines at hand. Thy wife provoke
 
 [* Slower of all evil.] [u Obscure manner and writing.] [7 Understand.] b Who is it, that hearing.]
 
-PREFACE TO THE BIBLE.
+## Preface to the Bible
 
 thou undcrstandest keep it well in memory ; that tlion nnderstandcst not, read it again and again : if thou can neither so come by it, counsel with some other that is better learned. Go to thy curate and preacher; shew thyself to be desirous to know and learn: and I doubt not but God, seeing thy diligence and readiness (if no man else teach thee,) will himself vouchsafe with his holy Spirit to illuminate thee, and to open unto thee that which was locked from thee.
 
@@ -73,7 +72,7 @@ Hitherto, all that I have said, I have taken and gathered out of the foresaid se
 
 [u) Other copies read, any thin^.]
 
-122 PREFACE TO THE BIBLE.
+## 122 Preface to the Bible
 
 Therefore, as touching this former part, I will here conclude and take it as a con clusion sufficiently determined and approved1, that it is convenient and good the scripture to be read of all sorts and kinds of people, and in the vulgar tongue, without further allegations and probations for the same; which shall not need, since that this one place of John Chrysostom is enough and sufficient to persuade all them that be not frowardly The king's and perversely set in their own wilful opinion; specially now that the king's highness, a being supreme head next under Christ of this church of England, hath approved with his royal assent the setting forth hereof, which only to all true and obedient subjects ought to be a sufficient reason for the allowance of the same, without farther delay, reclamation, or resistance, although there were no preface nor other reason herein ex-
 
@@ -101,7 +100,7 @@ PREFACE TO THE BIBLE. 123 themselves to bo made clean. For it is dangerous," sai
 
 [7 Too much honey.] [8 At a burial.] [9 We then rather.] [10 Wild horses.]
 
-PREFACE TO THE BIBLE.
+## Preface to the Bible
 
 set their own houses on fire, and that slay their own children, or beat their own parents. I marvel much," saith he, " to recount whereof cometh all this desire of vain glory, whereof cometh all this tongue-itch, that wre have so much delight to talk and clatter ? And wherein is our communication ? Not in the commendations of vir tuous and good deeds of hospitality, of love between Christian brother and brother, of love between man and wife, of virginity and chastity, and of alms towards the poor ; not in psalms and godly songs, not in lamenting for our sins, not in repressing the affections of the body, not in prayers to God. We talk of scripture, but in the meantime we subdue not our flesh by fasting, waking, and weeping; we make not this life a meditation of death; we do not strive to be lords of our appetites1 and affections ; we go not about to pull down our proud and high minds, to abate our furnish and rancorous stomachs, to restrain our lusts and bodily delectations, our undiscrete sorrows, our lascivious mirth, our inordinate looking, our insatiable hearing of vanities, our speaking without measure, our inconvenient thoughts, and briefly, to re form our life and manners. But all our holiness consisteth in talking. And we pardon each other from all good living, so that we may stick fast together in argu mentation; as though there were no mo ways to heaven, but this alone, the way of speculation and knowledge (as they take it) ; but in very deed it is rather the way of superfluous contention and sophistication2."
 
@@ -121,7 +120,7 @@ Eunomian. Tom. 1. p. 487, et sqq. Ed. Paris. 1778-
 
 [5 Other copies read, and eflectuous.]
 
-PREFACE TO THE BIBLE.
+## Preface to the Bible
 
 sattest and spakest against thy brother; and hast slandered thine own mother's son.
 

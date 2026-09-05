@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Business-Like Account
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1357
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 3, 1877,.
+*Delivered on Lord's-Day Morning, June 3, 1877*
 
 > "But what things were gain to me, those I counted loss for Christ. Yet indeed, I also count all things loss for the excellency of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them but dung, that Imay win Christ, and be found in Him, not having my own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith." Philippians 3:7-9.
 
@@ -150,7 +149,6 @@ Can you lose the respectability which attaches to popular creeds and can you cas
 Well, then, you, also, may make your estimate as the Apostle did. Though you have not had, practically, to endure the loss of all things, yet you do count them but dung for Christ's sake. But one thing more. Beloved, if Christ is so to you that all things else in comparison to Him are dross and dung, do you not want Him for your children? Do you not desire Him for your friends? Do you not wish all your kinsfolk to have Him? Whatever a man values for himself, he values for others. You want your boy to follow your trade if you believe it to be a very good one. You desire to see your children well placed in life—but what position in life can be equal to being found in Christ—and what under Heaven can be compared with winning Christ?
 
 You may judge your own sincerity by the measure of your desire for the salvation of others and I earnestly entreat you be not afraid to tell others the excellency of the knowledge of Christ Jesus your Lord! And be not slow to impress upon them the absolute necessity of being found in Him. Loathe the idea of having a righteousness of your own, but grasp with all your faith the righteousness of Jesus Christ! I commend to you Christians that you give your whole selves to Christ, that from this day forward you serve Him with spirit, soul and body, for after all, there is nothing worth living for, nothing worth even giving a single tear for if you lose it, nor worth a smile if you gain it, save only that which comes from Christ, and can be used for Christ, and is found in Christ. Christ is ALL! May He be so to you. Amen.
-
 
 ---
 [[Sermon 1356 The Heavenly Wind|← #1356]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1358 All the People at Work for Jesus|#1358 →]]

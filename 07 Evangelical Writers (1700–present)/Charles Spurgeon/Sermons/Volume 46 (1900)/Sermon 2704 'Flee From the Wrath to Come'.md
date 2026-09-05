@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # 'Flee From the Wrath to Come'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2704
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who hats warned you to flee from the wrath to come?" Matthew 3:7.
 
@@ -107,7 +104,7 @@ I used to think that if I once told this wondrous story of "Free Grace and dying
 
 No, my Master, by Your Grace, You will never be able to say that to me! With all my faults, infirmities and imperfections, I have sought to declare Your Truth, as far as I knew it, to the sons of men. Therefore, my Hearers, I shake my skirts free of your blood! If any of you shall reject Christ, I will have nothing to do with your damnation! Be spiritual suicides if you will, but I will not be your soul-murderer, nor act like Saul wished his armor-bearer to do when he bade him thrust him through with the sword. I implore you to "flee from the wrath to come!" Escape by quitting your sins and laying hold on Jesus! Do it this very moment, for you may never have another opportunity to do it! May the Lord, in His infinite mercy, grant you Grace to trust in Jesus! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 3; 11:20-30; REVELATION 7:9-17.
+## Exposition by C. H. Spurgeon: Matthew 3; 11:20-30; Revelation 7:9-17
 
 Matthew 3:1, 2. In those days came John the Baptist, preaching in the wilderness of Judea, and saying, Repent, for the Kingdom of Heaven is at hand. His was a preparatory ministry. His work was to prepare men's minds for Christ and never is the heart of man so ready to receive Christ as when it is in a state of repentance. When it is weary of sin, then is it that Christ comes in and is welcomed by the soul conscious of its guilt, tired of it, and longing to be rid of it.
 
@@ -148,7 +145,6 @@ Revelation 7:9. After this I beheld, and, lo, a great multitude, which no man co
 9-11. And palms in their hands; and cried with a loud voice, saying, Salvation to our God which sits upon the Throne, and unto the Lamb. And all the angels stood round about the Throne, and about the elders and the four beasts, and fell before the Throne on their faces, and worshipped God, The angels form the outerring. The elders, who represent the Church of the redeemed, are nearer to the Throne of God than even the holy angels are! Nearest to God in Heaven are those who have been redeemedfrom among men. How high a dignity—how noble an estate—awaits us, by-and-by! But, all alike, both saved men and unfallen angels, "fell before the Throne on their faces, and worshipped God."
 
 12-17. Saying Amen: Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, be unto our God forever and ever. Amen. And one of the elders answered, saying unto me, Who are these who are arrayedin white robes? And from where have they come? And I said unto him, Sir, you know. And he said to me, these are they who came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb. Therefore are they before the Throne of God, andserve Him day andnightin His temple: andHe who sits on the Throne shall dwell among them. They shall hunger no more, neither thirst, anymore; neither shall the sun light on them, nor any heat. For the Lamb who is in the midst of the Throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
-
 
 ---
 [[Sermon 2703 The Preservation of Christians in the World|← #2703]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2705 Why Some Sinners Are Not Pardoned|#2705 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Universal Fatherhood—a Lie!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2560
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I speak that which I have seen with My Father: and you do that which you have seen with your father." John 8:38.
 
@@ -75,7 +72,7 @@ Then there is another trait which is common enough in many persons and that is, 
 
 What shall be the conclusion of my discourse? Why, my drear Friends, that it is of very little use for you to try and change your outward character, your language and so forth, first. What you need is for your natureto be changed. When the fountain is made sweet, the streams will be sweet, but, until the source is sweetened, that which comes out of it will still be impure. "You must be born again." Do you ask, "How can that be?" Well, there is a very amazing connection between being born again and believing in the Lord Jesus Christ. Read the third chapter of John's Gospel and note how our Lord not only said to Nicodemus, "You must be born again," but He also said, "As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whoever believes in Him should not perish, but have eternal life." Believe in Christ and you are born again! That act of faith is an indication that the new birth has taken place. The moment that God gives you the Grace to trust yourself with Christ, He has also renewed your nature! That act of trusting in Christ is like the first snowdrop that tells us that spring is near. Believe in the Lord Jesus Christ and you are a new person in Christ. Then live with your Father and go out and tell all what you have seen with your Father, and God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C.H. SPURGEON: JOHN 8:12-39
+## Exposition by C.h. Spurgeon: John 8:12-39
 
 Verses 12, 13. Then spoke Jesus again unto them, saying, I am the light of the world: He that follows Me shall not walk in darkness, but shall have the light of life. The Pharisees—These wasps were always stinging Him! When He drove them away once, they quickly returned to attack Him again, "The Pharisees—
 
@@ -108,7 +105,6 @@ Verses 12, 13. Then spoke Jesus again unto them, saying, I am the light of the w
 35-37. And the servant abides not in the house forever: but the Son abides always. If the Son, therefore, shall make you free, you shall be free, indeed. Iknow that you are Abraham's seed. "I know what a boast you make of that."
 
 37-39. But you seek to kill Me because My Word has no place in you. I speak that which I have seen with My Father: and you do that which you have seen with your father. They answered and said unto Him, Abraham is our father. Jesus had admitted that, as a matter of temporal descent, but He denied it as a matter of real fact.
-
 
 ---
 [[Sermon 2559 Co-workers With God|← #2559]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2561 Noli Me Tangere (Touch Me Not)|#2561 →]]

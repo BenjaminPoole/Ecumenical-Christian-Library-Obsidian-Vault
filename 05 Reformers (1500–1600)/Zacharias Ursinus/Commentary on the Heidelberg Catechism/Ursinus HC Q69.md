@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 69. How art thou admonished and assured, by holy baptism, that the one sacrifice of Christ upon the cross is of real advantage to thee?
-
-**Question 69. How art thou admonished and assured, by holy baptism, that the one sacrifice of Christ upon the cross is of real advantage to thee?**
 
 Answer. Thus, that Christ appointed this external washing with water, adding thereunto this promise, that I am as certainly washed by his blood and Spirit from all the pollution of my soul, that is, from all my sins, as I am washed externally with water, by which the filthiness of the body is commonly washed away.
 
-**EXPOSITION**
+## **Exposition**
 
 Concerning baptism we must enquire particularly:
 
@@ -40,7 +37,7 @@ VIII. In what baptism and circumcision agree and differ.
 
 The first two propositions belong properly to the 69th and 70th Questions of the Catechism and will be considered in the exposition of these questions; the third and fourth belong to the 71st; the fifth to 71st and 72nd; the sixth to the 73rd; the seventh and eighth will be explained when we come to treat the subject of circumcision which immediately follows.
 
-**I. WHAT BAPTISM IS**
+## **I. What Baptism Is**
 
 The word baptism comes from the Greek βαπτίζῶ, which is derived from βαπτῶ, which means to plunge, to dip, to wash, or to sprinkle. In the eastern church they were ordinarily immersed. Those, however, who lived in the colder regions of the north were commonly sprinkled with water. But this is a matter of no importance, as washing may be performed either by dipping or sprinkling. Baptism now is a washing.
 
@@ -52,7 +49,7 @@ Obj. 1. Baptism is called an external washing with water. Therefore it is nothin
 
 Obj. 2. There were baptisms, or washings under the Old Testament. Therefore baptism is not a sacrament peculiar to the New Testament. Ans. There is a great difference between the various washings prescribed by the law, and baptism as we have it. 1. Those washings were not signs of initiation into the church as baptism is. 2. Those washings were instituted for the purpose of removing ceremonial uncleanness, as if any one had polluted himself by touching a dead body, or any unclean thing, his ceremonial uncleanness had to be removed by a ceremonial washing: baptism, on the other hand, has been instituted for the purpose of washing away moral uncleanness, or sin. It is for this reason that the Scriptures declare baptism to be the washing away of sin. 3. Those washings signified a cleansing by and for the sake of Christ who was to come: baptism seals the same by and for the sake of Christ already come in the flesh. 4. Those washings were binding upon the Jews alone; baptism is binding upon all nations, or the whole church. Lastly, those washings were abolished by Christ, because ceremonial impurities, together with the ceremonial law itself, ceased when Christ came into the world: baptism, on the other hand, will continue to the end of time; for it is said, "Baptize all nations; and lo, I am with you alway, even unto the end of the world." Those, therefore, who urge this objection are deceived by the ambiguity of the word washings, which has nothing in common with baptism, properly so called, except the name.
 
-**II. WHAT ARE THE ENDS OF BAPTISM?**
+## **II. What Are the Ends of Baptism?**
 
 The chief end of baptism is, the confirmation of our faith, or a solemn declaration by which Christ testifies that he washes us with his blood and Spirit, and confers upon us remission of sins, and the Holy Ghost, who regenerates and sanctifies us unto eternal life. Or it is a sealing of the promise of grace, that is, of our justification and regeneration, and a declaration of the will of God, to this effect, that he here grants these gifts to those who are baptized, and that he will for ever grant them. For he himself baptizes us by the hand of the minister, and declares to us this his will.
 

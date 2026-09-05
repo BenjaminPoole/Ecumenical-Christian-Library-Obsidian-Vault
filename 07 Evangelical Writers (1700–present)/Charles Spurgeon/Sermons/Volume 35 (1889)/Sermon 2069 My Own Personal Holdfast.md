@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # My Own Personal Holdfast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2069
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My God will hear me." Micah 7:7.
 
@@ -156,7 +153,6 @@ God can only be yours in the saving sense by Christ's being yours. Jesus says, "
 Then, being saved, you will be able to pray with assurance of prevailing. Come to God by the blood of Jesus and so shall a sinner's prayer be heard. Prayer is the vital breath of every saved man even as faith is the life-blood of his soul. At this moment come to God by Jesus Christ. You are a sinner condemned by sin—Christ came into the world to save sinners—accept the Savior—trust your soul with Him and ask that, for His sake, you may have the free gift of eternal life. You are an empty, poor, naked and miserable sinner—take the Lord Jesus, in all His fullness and blessedness, to be yours forever and then the great God will bow His ear to you, even to you and you, too, shall be numbered with those who have power with God.
 
 Here on this spot I charge you cry, "God be merciful to me a sinner." Let that request be silently offered, even though you dare not lift your eye to Heaven. Come, Brethren, let us all offer it and then there shall come to each of us a justification far sweeter and larger than if we should stand aloof from sinners and say, "God, I thank You, that I am not as other men." O my Lord, hear this, my prayer, that those who hear or read this sermon may be able to say, even as Your unworthy servant most boldly says, "My God will hear me." Grant it, I pray You, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 2068 Nathanael—the Man Needed for the Day|← #2068]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2070 Christ's Connection With Sinners the Source of His Glory|#2070 →]]

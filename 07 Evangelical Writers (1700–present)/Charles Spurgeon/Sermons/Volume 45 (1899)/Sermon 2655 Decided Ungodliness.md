@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Decided Ungodliness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2655
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Jeremiah 5:3.
 
@@ -93,7 +90,7 @@ Others cry, "Let us eat and drink, for tomorrow we die." What? Are you no better
 
 God bless you, dear Friend! Believe in Jesus and you live at once! Believe in Him this moment and this moment you are saved! Trust Christ now, as soon as this word reaches your ears, and your sin is forgiven, you are justified and accepted and you may go your way, a sinner saved—saved to all eternity! God give you that blessed privilege, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS2.
+## Exposition by C. H. Spurgeon: Hebrews 2
 
 Verse 1. Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. I t is well to give heed to what you are now hearing, but it is also important to give heed to what you have heard. Oh, how much have we heard, but have forgotten! How much have we heard which we still remember, but do not practice! Let us, therefore, listen to the words of the Apostle here—"We ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip"—as it were, slipping through our fingers and flowing down the stream of time to be carried away into the ocean of oblivion!
 
@@ -133,8 +130,7 @@ Leads to the land where sorrow is unknown." We shall never be fit for the Heaven
 
 15-18. And deliver them who through fear of death were all their lifetime subject to bondage. For verily He took not on Him the nature of angels; but He took on Him the seed of Abraham. Therefore in all things it behooved Him to be made like unto His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself has suffered, being tempted, He is able to succor them that are tempted. Glory be to His holy name forever and ever! Amen.
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2654 Wakeful and Watchful Eyes|← #2654]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]]

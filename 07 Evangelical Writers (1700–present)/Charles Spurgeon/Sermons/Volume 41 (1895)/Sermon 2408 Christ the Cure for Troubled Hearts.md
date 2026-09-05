@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Christ the Cure for Troubled Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2408
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He said unto them, Why are you troubled and why do doubts arise in your hearts." Luke 24:38.
 
@@ -113,7 +110,7 @@ Will you not trust Him tonight? Dear Friend, you might go down those stairs, you
 
 You good soldiers who are here, tonight, I hope you are already good soldiers of Jesus Christ. But if you are not, I would like to be the recruiting sergeant and enlist you beneath the standard of the Cross. Only trust my Lord and you shall be saved in the day of battle, and saved in the hour of death—yes, and saved amidst the temptations of this wicked city. He shall cover you! He, Himself, shall cover you and you shall be perfectly safe beneath that Divine Shelter! Who will trust Christ and be saved? Lord, give us many souls, tonight, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK16:1-14; LUKE24:32-44.
+## Exposition by C. H. Spurgeon: Mark 16:1-14; Luke 24:32-44
 
 Mark 16:1, 2. And when the Sabbath was past, Mary Magdalene, and Mary, the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. And very early in the morning, the first day of the week, they came unto the sepulcher at the rising of the sun. Their love made them prompt. Their affection was about to attempt a needless and, indeed, impossible thing. Yet I do not doubt that it was acceptable before God. Oh, that we had such love that even the dead body of the Christ should be so dear to us that we would be ready, at great expense, to anoint it! I fear that, nowadays, even His living Word is not valued as it should be. How few, therefore, should we be likely to find who would have cared for His dead body? These holy women had had cause enough to love their Lord and they showed that their hearts were full of affection for Him even after He had been taken from them.
 
@@ -136,7 +133,6 @@ Luke 24:32-35. And they said, one to another, Did not our heart burn within us, 
 36\. And as they thus spoke, Jesus Himself stood in the midst of them, and said unto them, Peace be unto you. This was the common Jewish salutation, but, from then on it would be sanctified most Divinely and it would be a Christian greeting to say, "Peace be unto you."
 
 37-44. But they were terrified and frightened and supposed that they had seen a spirit. And He said unto them, Why are you troubled? And why do doubts arise in your hearts? Behold My hands and My feet, that it is I, Myself; handle Me and see; far a spirit has not flesh and bones, as you see I have. And when He had thus spoken, He showed them His hands and His feet. And while they yet believed not for joy, and wondered, He said unto them, Have you here any meat? And they gave Him a piece of a broiled fish, and of an honeycomb. And He took it, and did eat before them. And He said unto them, These are the words which I spoke unto you while I was yet with you, that all things must be fulfilled which were written in the Law of Moses, and in the Prophets, and in the Psalms concerning Me. Notice the seals which our Lord continually set upon the Old Testament, the manner in which He always treated the Scripture, the reverent way in which He confessed its Infallibility—and His determination that in every item, every jot and tittle—it should be fulfilled by Himself. This was often manifested before His death and, on His return from the grave, He had not changed His mind! He here speaks of the three great parts into which the Old Testament was divided by the Jews and He expressly sets the seal of His royal assent upon "the Law of Moses, the Prophets, and the Psalms." May we, in like manner, prize the whole Inspired Word!
-
 
 ---
 [[Sermon 2407 Feeding on a Whole Christ|← #2407]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2409 A Great Sermon by the Greatest Preacher|#2409 →]]

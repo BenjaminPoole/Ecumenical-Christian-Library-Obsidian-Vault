@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Cured At Last!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2018
 
-DELIVERED ON LORD'S DAY MORNING, APRIL 8, 1888,.
+*Delivered on Lord's Day Morning, April 8, 1888*
 
 > "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any, came behind Him and touched the border of His garment: and immediately her issue of blood stanched." Luke 8:43, 44.
 
@@ -150,7 +149,6 @@ O Lord, save this people! Why do you come, Sunday after Sunday, in such crowds? 
 to Christ, my preaching will prove a curse to you! It appalls me to think that the preaching of the Gospel will be a savor of death unto you unless it brings you life. Put not the day of Divine Grace from you.
 
 By the living God, I do implore you, trust the living Redeemer. As I shall meet you all, face to face, before the Judgment Seat of Christ, I do implore and beseech you—put out the finger of faith and trust the Lord Jesus, who is so fully worthy to be trusted. The simple trust of your heart will stay the death which now works in you. Lord, give that trust, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2017 'David's Spoil'|← #2017]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2020 Is Anything Too Hard for the Lord|#2020 →]]

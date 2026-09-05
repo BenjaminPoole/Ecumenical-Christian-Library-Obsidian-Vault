@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## John 4:1-9
 

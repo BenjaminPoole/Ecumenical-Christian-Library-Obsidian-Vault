@@ -10,12 +10,9 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 1. The First Blast of the Trumpet Against the Monstrous Regiment of Women. About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## The First Blast of the Trumpet Against the Monstrous Regiment of Women.
 
 ### By
 

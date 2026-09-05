@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Our Lord's Question to the Blind Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1355
 
-DELIVERED ON LORD'S-DAY EVENING, MAY 13, 1877,.
+*Delivered on Lord's-Day Evening, May 13, 1877*
 
 > "And when Jesus departed from there, two blind men followed Him, crying and saying, Son of David, ha ve mercy on us. And when He was come into the house, the blind men came to Him: and Jesus said unto them, Do you believe that I am able to do this? They said unto Him, Yes, Lord. Then touched He their eyes, saying, According to your faith be it unto you. And their eyes were opened." Matthew 9:27-30.
 
@@ -160,7 +159,6 @@ And yet with regard to eternal life, which is infinitely more precious than all 
 Sinners are not half as sensible as sparrows. David said in one of the Psalms, "I watch and am as a sparrow alone upon the housetop." Well, have you noticed the sparrow? He keeps his eyes open and the moment he sees a grain of wheat or anything to eat down in the road, he flies to get it. I never knew him wait for someone to invite him, much less to beg and beseech him to come and feed! He sees the food and he says to himself, "Here is a hungry sparrow and there is a piece of bread. Those two things go well together—they shall not be long apart." Down he flies and eats up all he can find as fast as he finds it!
 
 Oh, if you had half the sense of the sparrow, you would say, "Here is a guilty sinner and there is a precious Savior. These two things go well together—they shall not be long apart. I believe in Jesus and Jesus is mine." The Lord grant that you may find Jesus, tonight, before you leave this house! I pray you may. In these very pews and aisles may you look to Jesus Christ and believe! Faith is only a look, a look of simple trust! It is reliance, a believing that He is able to do this and a trusting in Him to do it and to do it now! God bless every one of you and may we meet in Heaven, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1354 All Things Are Ready, Come|← #1354]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1356 The Heavenly Wind|#1356 →]]

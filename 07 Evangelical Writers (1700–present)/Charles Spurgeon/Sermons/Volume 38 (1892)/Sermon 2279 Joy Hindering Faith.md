@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Joy Hindering Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2279
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And while they yet believed not for joy, and wondered, He said unto them, Have you here any meat? And they ga ve Him a piece of a broiled fish, and of an honeycomb. And He took it, and did eat before them. And He said unto them, These are the words which I spoke unto you, while I was yet with you, that all things must be fulfilled, which were written in the Law of Moses, and in the Prophets, and in the Psalms, concerning Me. And He opened their understanding, that they might understand the Scriptures." Luke 24:41-45.
 
@@ -81,7 +78,7 @@ Thus I have tried to set before you the difficulty that the disciples were in wh
 
 II. Now, in the second place, I shall only be able to speak briefly upon THE MANNER IN WHICH OUR LORD
 
-HELPED THEM TO GET OVER THE DIFFICULTY.
+## Helped Them to Get over the Difficulty
 
 Of course, their main point was that they could not believe that Jesus was risen from the dead—it seemed too good to be true.
 
@@ -127,7 +124,7 @@ You need place no reliance upon them. Hold on to this—"Christ died for the ung
 
 The Lord bring us all to that blessed condition, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON LUKE24:13-48.
+## Exposition by C. H. Spurgeon Luke 24:13-48
 
 Verses 13-15. And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that, while they communed together and reasoned, Jesus, Himself, drew near, and went with them. When two saints are talking together, Jesus is very likely to come and make the third one in the company! Talk of Him and you will soon talk with Him. I would that Believers more often spoke, the one to the other, about the things of God! It has been said that in the olden time, God's people spoke often, one to another, but now we have altered that, and God's people speak often one against another. It is an alteration, but it certainly is not an improvement. May we get together, again, and, like these two disciples, talk of all the things that happened in Jerusalem 18 centuries ago! If we have less of reasoning than they had, let us have more of communion.
 
@@ -176,7 +173,6 @@ He.
 46, 47. And said unto them, Thus it is written, and thus it behooved Christ to suffer, and to rise from the dead the third day: and that repentance and remission of sins should be preached in His name among all nations, beginning at Jerusalem. This Gospel message was to be proclaimed among all nations, "beginning at Jerusalem," but not ending there! It has been preached to us—let us see to it that we pass it on to those who have never heard it.
 
 48\. And you are witnesses of these things. We also are called to be "witnesses of these things." May the Lord make us to be faithful and true witnesses, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2278 Feeding on the Word|← #2278]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2280 God's Handwriting Upon David|#2280 →]]

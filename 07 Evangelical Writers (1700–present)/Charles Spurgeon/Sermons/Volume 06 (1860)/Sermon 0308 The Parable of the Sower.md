@@ -13,12 +13,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # The Parable of the Sower
 
 *New Park Street Pulpit* · Sermon No. 308
 
-DELIVERED ON SABBATH MORNING, APRIL 15TH, 1860,.
+*Delivered on Sabbath Morning, April 15th, 1860*
 
 > The Parable Of The Sower — "And when much people were gathered together, and were come to him out of every city, he spake by a parable: a sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear." — Luke 8:4-8
 
@@ -41,7 +40,6 @@ III. I shall briefly treat of the third class, and may the Spirit of God assist 
 —————
 
 IV. I now close with the last character, namely, the Good Ground. Of the good soil, as you will mark, we have but one in four. Will one in four of our hearers, with well-prepared heart, receive the Word? The ground is described as "good": not that it was good by nature, but it had been made good by grace. God had ploughed it; he had stirred it up with the plough of conviction, and there it lay in ridge and furrow as it should lie. When the gospel was preached, the heart received it, for the man said, "That is just the blessing I want. Mercy is what a needy sinner requires." So that the preaching of the gospel was THE thing to give comfort to this disturbed and ploughed soil. Down fell the seed to take good root. In some cases it produced fervency of love, largeness of heart, devotedness of purpose of a noble kind, like seed which produces a hundredfold. The man became a mighty servant for God, he spent himself and was spent. He took his place in the vanguard of Christ's army, stood in the hottest of the battle, and did deeds of daring which few could accomplish — the seed produced a hundredfold. It fell into another heart of like character; — the man could not do the most, but still he did much. He gave himself to God, and in his business he had a word to say for his Lord; in his daily walk he quietly adorned the doctrine of God his Savior, — he brought forth sixty-fold. Then it fell on another, whose abilities and talents were but small; he could not be a star, but he would be a glow-worm; he could not do as the greatest, but he was content to do something, however humble. The seed had brought forth in him tenfold, perhaps twentyfold. How many are there of this sort here? Is there one who prays within himself, "God be merciful to me a sinner"? The seed has fallen in the right spot. Soul, thy prayer shall be heard. God never sets a man longing for mercy without intending to give it. Does another whisper, "Oh that I might be saved"? Believe on the Lord Jesus Christ, and thou, even thou, shalt be saved. Hast thou been the chief of sinners? Trust Christ, and thy enormous sins shall vanish as the millstone sinks beneath the flood. Is there no one here that will trust the Savior? Can it be possible that the Spirit is entirely absent? That he is not moving in one soul? Not begetting life in one spirit? We will pray that he may now descend, that the word may not be in vain.
-
 
 ---
 [[Sermon 0307 Importance of Small Things in Religion|← #307]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0309 Full Redemption|#309 →]]

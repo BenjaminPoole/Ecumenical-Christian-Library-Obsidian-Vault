@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 188. Matthew 24:29-31; Mark 13:24-27; Luke 21:25-28
-
-MATTHEW 24:29-31; MARK 13:24-27;  
-LUKE 21:25-28
 
 **29.** And immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaven shall be shaken. **30.** And then shall appear the sign of the Son of man in heaven; and then shall all the tribes of the earth mourn; and they shall see the Son of man coming in the clouds of heaven with great power and glory. **31.** And he shall send his angels with a loud sound of a trumpet; and they shall gather together his elect from the four winds, from one extremity of heaven to the other.
 

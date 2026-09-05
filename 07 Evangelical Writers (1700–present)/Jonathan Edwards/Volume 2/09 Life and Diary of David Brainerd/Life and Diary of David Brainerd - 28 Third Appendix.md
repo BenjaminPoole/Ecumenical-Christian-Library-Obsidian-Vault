@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # THIRD APPENDIX
 
 #### TO
@@ -113,7 +112,7 @@ I am, Sir,
 
 Your obedient, humble servant,
 
-DAVID BRAINERD
+## David Brainerd
 
 *From the Forks of Delaware*, *inPennsylvania*, *Nov.* 5, 1744.
 

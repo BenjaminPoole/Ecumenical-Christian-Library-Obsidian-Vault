@@ -10,14 +10,13 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Philippians 1
 
-**COMMENTARY ON**
+***Commentary On***
 
-**THE EPISTLE OF PAUL TO THE PHILIPPIANS.**
+## **The Epistle of Paul to the Philippians.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Philippians 1:1-6
 

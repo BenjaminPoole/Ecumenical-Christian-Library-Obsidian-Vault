@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Sessions 1 to 9
 
 ## Introduction
@@ -28,13 +27,13 @@ The decisions on the reform of the curia produced almost no effect because of th
 
 The decrees and other acts of the council were first published in Rome shortly after the council ended, namely on 31 July 1521 by cardinal Antonio del Monte, acting on the orders of pope Leo X. The title of this edition is: SA. Lateranense concilium novissimum sub Iulio II et Leone X celebratum (= Lc). It was subsequently used in various conciliar collections from Cr2 3 (1551) 3-192 to Msi 32 (1802) 649-1002. We have followed this edition of 1521 and have taken the headings of the constitutions from the summary which precedes it.
 
-SESSION 1
+## Session 1
 
 10 May 1512
 
 [The bull convoking the council, Sacrosancta Romanae Ecclesiae, and the bulls postponing it, Inscrutabilis and Romanus pontifex, are read out1{Msi 32, 681-690}. Masses are ordered to be celebrated, and prayers to be offered, to beg God’s assistance; various arrangements are to be observed in the council and decrees are set out; advocates, procurators, notaries, guards and vote-scrutineers are chosen; assigners of places, and the location of places in their due order, are established.]
 
-SESSION 2
+## Session 2
 
 17 May 1512
 
@@ -50,7 +49,7 @@ We decree and declare, with the approval of this same sacred council, that this 
 
 Moreover, in the arrangement of the seasons, as the summer heats approach, in order to take account of the convenience and health of the prelates, and so that those may be awaited who live beyond the mountains and across the sea and who have hitherto been unable to come to this sacred council, and for other just and reasonable causes known to and approved by the said sacred council, we are summoning the third session of this same council to take place on 3 November next, with the said council likewise giving approval. And to each and every prelate and to others present at the same council, we grant and concede the freedom and permission to withdraw from the Roman curia and to stay wherever they wish, so long as they are present at the aforesaid Lateran council on the said 3 November, any clearly legitimate hindrance having been removed, subject to the infliction of the penalties indicated in the letter summoning the council and in canonical punishments against those failing to attend to councils, the said sacred council also approving. Let nobody therefore... If anyone however...2{2 At this session, on account of the arrival of the bishop of Gurk, representative of the most serene emperor, a postponement of the third session was made until 3 November.}
 
-SESSION 3
+## Session 3
 
 3 December 1512
 
@@ -64,7 +63,7 @@ We renew our letter dated 13 August 1512, at St Peter’s, Rome, in the ninth ye
 
 In order that this sacred Lateran council may be brought to a fruitful and beneficial conclusion, and that the many other serious matters due for treatment and discussion in the council may proceed to the praise of almighty God and the exaltation of the universal church, we declare, with the full approval of the said sacred council, that the fourth session of the continuing celebration of the council shall be held on the tenth day of the present month of December. Let nobody therefore … If anyone however…
 
-SESSION 4
+## Session 4
 
 10 December 1512
 
@@ -76,7 +75,7 @@ Moreover, for considerable periods of time there has been great disparagement of
 
 In order that the declaration of reform, and of the nullity of the said sanction, as well as other business may be carried out in due season, and so that the prelates who are still to come to this sacred council (we have received news that some have already set out on their journey to attend) may be able to arrive without inconvenience, we declare, with the approval of the council, that the fifth session shall be held on 16 February, which will be Wednesday after the first Sunday of the coming Lent. Let nobody therefore … If anyone however …
 
-SESSION 5
+## Session 5
 
 16 February 1513
 
@@ -102,7 +101,7 @@ Finally, each and every one of the cardinals of the holy Roman church in office 
 
 [...] As we ponder how heavy is the burden and how damaging the loss to the vicars of Christ on earth that counterfeit elections would be, and how great the hurt they could bring to the christian religion, especially in these very difficult times when the whole christian religion is being disturbed in a variety of ways, we wish to set obstacles to the tricks and traps of Satan and to human presumption and ambition, so far as it is permitted to us, so that the aforesaid letter shall be better observed the more clearly it is established that it has been approved and renewed by the mature and healthy discussion of the said sacred council, by which it has been decreed and ordained, though it does not need any other approval for its permanence and validity. For a more ample safeguard, and to remove all excuse for guile and malice on the part of evil thinkers and those striving to overthrow so sound a constitution, with a view to the letter being observed with greater determination and being more difficult to remove, to the extent that it is defended by the approval of so many of the fathers, we therefore, with the approval of this Lateran council and with the authority and fullness of power stated above, confirm and renew the said letter together with every statute, regulation, decree, definition, penalty, restraint, and all the other and individual clauses contained in it; we order it to be maintained and observed without change or breach and to preserve the authority of an unchanging firmness; and we decree and declare that cardinals, mediators, spokesmen, envoys and others listed in the said letter are and shall be bound to the observance of the said letter and of each and every point expressed in it, under pain of the censures and penalties and other things contained in it, in accordance with its meaning and form; notwithstanding apostolic constitutions and ordinances, as well as all those things which we wished not to prevent in the said letter, and other things of any kind to the contrary. Let nobody therefore … If anyone however...{1 At this session other measures against the Pragmatic Sanction were also recorded, especially Julius II’s constitution Inter alia (Msi 32, 772-773).}
 
-SESSION 6
+## Session 6
 
 27 April 1513
 
@@ -116,13 +115,13 @@ In order, however, that those who ought to attend so very useful a council may n
 
 In addition, for the carrying out of the celebration of this council, we declare that the seventh session shall be held on 23 May next. Let nobody therefore... If anyone however…
 
-SESSION 7
+## Session 7
 
 17 June 1513
 
 The constitution Meditatio cordis nostri1 {Msi 32, 815-818}, postponing the eighth session to 16 November, is read out and approved.]
 
-SESSION 8
+## Session 8
 
 19 December 1513
 
@@ -158,7 +157,7 @@ If the Almighty in his mercy allows us to settle peace among the christian leade
 
 Let nobody therefore … If anyone however…
 
-SESSION 9
+## Session 9
 
 5 May 1514
 

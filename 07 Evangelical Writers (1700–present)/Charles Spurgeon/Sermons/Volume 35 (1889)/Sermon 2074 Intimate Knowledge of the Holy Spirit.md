@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Intimate Knowledge of the Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2074
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 10, 1889,.
+*Delivered on Lord's Day Morning, March 10, 1889*
 
 > "The Spirit of Truth, whom the world cannot receive, because it sees Him not, neither knows Him; but you know Him, for He dwells with you and shall be in you." John 14:17.
 
@@ -152,7 +151,6 @@ This is our great reliance for the future upholding of the Church as a whole and
 I have done. And yet I have done nothing unless the Spirit of God shall bless the word spoken. Oh, that some of you who have never known the Spirit of God may feel His power coming upon you at this moment! You may be sitting in the pew very careless, even now, and yet before you leave He may descend and soften your hard heart. The other day the ground was hard as iron and the water was turned to ice. But there came a breath from the south and soon a thaw set in, the snow vanished and the ice was gone—even so the Holy Spirit breathes on us and our inward frost disappears at once.
 
 Come, Holy Spirit. Come even now. Let us implore His Presence and power. Pray for a closer, clearer knowledge of Him, O Children of God! Pray that sinners may be met with by His Grace. The first token of the Spirit's work will be that they will begin to feel their sin and cry for mercy—and when that is done, the glad tidings of pardon are for them. To them we say, "Believe on the Lord Jesus Christ and you shall be saved and your house." The Lord make the word effectual, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 2073 Two Essential Things|← #2073]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2075 Our Lord's Entrance Within the Veil|#2075 →]]

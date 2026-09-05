@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Love's Transformations—a Communion Meditation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1871
-
-DELIVERED BY.
 
 > "If you loved Me, you would rejoice because I said, I go unto the Father." John 14:28.
 
@@ -96,7 +93,6 @@ Suppose that it should also happen that some of you are going to be deprived of 
 Brethren, if you should be sinking lower and lower in your own esteem, be not sorry for it. If Christ is rising higher and higher in your esteem, count it all gain! Sink, O self, down to death and the abyss! Sink, sink, till there is nothing left of you! Go down, pride, self-conceit, self-trust, self-seeking! Go even though your going should cause despondency, so long as Christ is crowned! Sink, sink, Soul, if Jesus rises! If you can trust Him better, love Him better and admire Him more, so let it be!
 
 As you come to His Table, say in your hearts, "Lord, make me glad, or make me sad, so long as You are exalted! Lord, let me have Your presence, but let me be without it, so long us You are exalted and extolled!"
-
 
 ---
 [[Sermon 1870 But a Step|← #1870]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1872 My Comfort In Affliction|#1872 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Jeremiah 8:1-2
 
@@ -43,7 +42,7 @@ That those then who would escape death might not think that they gained any adva
 
 ## Prayer Lecture 31
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou terrifiest us daily with thy judgments, and as it is needful for our sloth to be stimulated, and for our corruption to be thus corrected, — O grant, that we may be moved by thy threatenings, and at the same time suffer ourselves to be kindly invited by thee, and make such progress in thy word, that, being terrified by threatenings, we may also readily and willingly obey whenever thou in a paternal manner callest us to thyself, and labor in every way to devote ourselves wholly to thee, by subduing the corrupt affections of our flesh, so that nothing may hinder us to be submissive to thy will, until we shall at length enjoy the rest of that eternal inheritance, which thou hast promised to us in Christ Jesus our Lord. — Amen.
 
@@ -123,7 +122,7 @@ He afterwards assigns the reason, *Because they had repudiated,* or despised or 
 
 ## Prayer Lecture 32
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou ceasest not daily to rouse us, as also our sloth requires continual warnings, — O grant, that we may not be unteachable, and that our perverseness may not hinder us to return immediately and willingly to thee, from whom we have, through our own fault, alienated ourselves: and may we not only feel some desire to repent, but persevere so constantly in the exercise of penitence, that through the whole course of our life we may contend with our lusts, until having at length subdued them all, we shall reach the goal which has been set before us, and enjoy in heaven that eternal inheritance, which has been procured for us by the blood of thine only — begotten Son. — Amen.
 
@@ -221,7 +220,7 @@ He means the same when he says, his *heart* was within him *weak*: “I have, �
 
 ## Prayer Lecture 33
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we have been abundantly taught by ancient examples how insane they are who bend not under thy threatenings, and repent not in due time while thou invitest them to repentance, — O grant, that we may wholly give up ourselves to be disciplined by thee, and that we may not only bear with submissive minds to be chastised, but also learn by thy warnings to return without delay to thee, and that we may so remain in obedience to thee, that with unceasing perseverance we may fight under thy banner, until having at length finished our warfare, we shall enjoy that blessed rest which has been prepared for us by Christ our Lord. — Amen.
 

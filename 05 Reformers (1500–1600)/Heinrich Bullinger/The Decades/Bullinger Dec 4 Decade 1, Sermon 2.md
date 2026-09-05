@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 4. Decade 1, Sermon 2
 
 Dear y beloved, in the last sermon you learned what the word of God is; from whence it came; by whom it was chiefly revealed ; what proceedings‘ it had; and of what dignity and certainty it is.
@@ -41,8 +40,6 @@ The writings of the old Testament are also given to Christians.
 To what end the word of God is revealed.
 
 God’s goodness to be praised for teaching us.
-
-60 THE FIRST DECADE. [SERM.
 
 out of them we must, no less than out of the writings of the new Testament, preach Christ, forgiveness of sins, and repentance. So then, to all Christians are the writings of the old Testament given by God; in like manner as the apostle! writ to all churches those things which bore the name or title of some particular congregations.
 
@@ -74,8 +71,6 @@ Ye have, brethren, an evident testimony of the fulness of the word of God. Ye ha
 
 All points of true godliness are taught us in the holy scriptures.
 
-62 THE FIRST DECADE. [SERM.
-
 godly and devout worshipper of God, is perfect, being instructed, not to a certain few good works, but unto all and every good work. Wherein therefore canst thou find any want? I do not think that any one is such a sot, as to interpret these words of Paul to be spoken only touching the old Testament; seeing it is more manifest than the day-light, that Paul applied them to his scholar Timothy, who preached the gospel, and was a minister of the new Testament. If so be then, that the doctrine of the old Testament be of itself full; by how much more shall it be the fuller, if the volume of the new Testament be added thereunto! I am not so ignoThe Lora rant, but that I know that the Lord Jesus both did and spake and did many many things which were not written by the apostles. But are not it followeth not therefore, that the doctrine of the word of God, taught by the apostles, is not absolutely perfect. For John, the apostle and evangelist, doth freely confess that the Lord did many other things also, “which were not written in his book ;” but immediately he addeth this, and saith: “But these are written, that ye might believe that Jesus is Christ the Son of God and that in believing ye might have life through his name.” He affirmeth by this doctrine, which he contained in writing, that faith is fully taught, and that through faith there is granted by God everlasting life. But the end of absolute doctrine is to be happy and perfectly blessed. Since then that cometh to man by the written doctrine of the gospel; undoubtedly that doctrine of the gospel is most absolutely perfect.
 
 I know, that the Lord in the gospel said, “1 have many things to tell you; but at this time you cannot bear them :” but therewithal I know too, that he immediately added this saying: “ But when the Spirit of truth shall come, he shall lead you into all truth” 1 know furthermore, that the Spirit of truth did come upon his disciples; and therefore I believe, that they, according to the true promise of Christ, were led into all truth, so that it is most assuredly certain, that nothing was wanting in them.
@@ -97,8 +92,6 @@ Hon nN a EE NNN ic ὁ κάσος τ eon = only, not setting down in writing all
 Against the lively and unfeigned! traditions of the apostles.
 
 How the word of God is to be heard.
-
-64 THE FIRST DECADE. [SERM.
 
 As for those which do earnestly affirm, that all points of godliness were taught by the apostles to the posterity by word of mouth, and not by writing, their purpose is to set to sale their own, that is, men’s ordinances instead of the word of God.
 
@@ -122,8 +115,6 @@ The diseases and plagues of the hearers of God’s word.
 
 What the power and εἴποι of God’s word is,
 
-66 THE FIRST DECADE. [SERM.
-
 thou always on: and be not over curious to know his infinite works; for it is not expedient for thee to see his hidden secrets with thine eyes’.” Whereupon the apostle Paul saith: “ Let no man think arrogantly of himself, but so think that he may be modest and sober, according as God to every one hath given the measure of faith®.” And hereto belongeth that which the same apostle saith: “ Knowledge puffeth up, and charity doth edify*.”
 
 But chiefly we must beware of those plagues, which choke the seed of the word of God, and quench it without any fruit at all in the hearts of the hearers. Those plagues and diseases hath the Lord rehearsed, or reckoned up, in the parable of the sower’. For first of all, wanton and vain cogitations, which always lie wide open to the inspirations of Satan and talk of naughty men, are plagues to the word of God. Also voluptuous and dainty lovers of this world, who cannot abide to suffer any affliction for Christ and his gospel, do without any fruit at all hear God’s word, although they seem to give ear unto it very joyfully. Furthermore, “ the eare of this world, and the deceit of riches,” are most pestilent diseases in the hearers of the word of God. For they do not only hinder the seed, that it cannot bring forth fruit in their hearts; but also they do stir up and egg men forward to gainsay the word of God, and to aftlict the earnest desirers of God’s word. Here therefore we must take heed diligently, lest, being infected with these diseases, we become vain and unthankful hearers of the word of God.
@@ -138,8 +129,6 @@ And thus much do we attribute to the word of God, not without the testimony of G
 
 [6 Heb. iii. 17, and iv. 2,11.] Wht Paalexix7;/8:] [8 Amos viii. 11.] [9 Deut. viii. 3; Matt. iv. 4.] [19 Rom. xv. 4.] 5—2
 
-68 THE FIRST DECADE. [SERM.
-
 for ever. And this is the word which by the gospel was preached unto you'.” The Lord also in the gospel beareth witness to the same, and saith: “Now are ye clean by the word which I have spoken unto you.” Again in the gospel he crieth, saying: “If any man loveth me, he will keep my saying, and my Father will love him, and we will come into him, and make our dwelling-place in δια" Jeremy saith also: “ Thy word became my comfort*.” And the prophet David saith: “The statutes of the Lord are right, and rejoice the heart®.” Whereunto add that saying of the Lord’s in the gospel: “If ye remain in me, and my words remain in you, ask what ye will, and it shall be done for you®’.” In another place also the prophet crieth, saying: “Tf ye be willing and will hearken, ye shall eat the good of the land; but if ye will not hear my word, the sword shall devour you’.” Moreover Moses doth very often and largely reckon up the good things that shall happen to them which obey the word of God; Leviticus xxvi., Deut. xxviii. Wherefore David durst boldly prefer the word of God before all the pleasures and treasures of this world. ‘The fear of the Lord is clean, and endureth for ever; the judgments of the Lord are true, and righteous altogether: more to be desired are they than gold, yea, than much fine gold; sweeter also than honey, and the dropping honeycombs, For by them thy servant is plainly taught, and in keeping of them there is a great advantage. Therefore is the law of thy mouth more precious unto me than thousands of silver and gold. Unless my delight had been in thy law, I had perished in my misery®.” ΤῸ this now doth appertain that parable in the gospel, of him which bought the precious pearl; and of him also which sold all that he had, and bought the ground wherein he knew that treasure was hid. For that precious pearl, and that treasure, are the gospel or word of God: which, for the excellency of it, is in the scriptures called a light, a fire, a sword, a maul which breaketh
 
 (1 1 Pet. i. 23, 25.] [2 John xv. 3.] [83 John xiv. 23.] (4 Jer. xv. 16.] (5 Psal. xix. 8.] [6 John xv. 7.]}
@@ -152,11 +141,9 @@ Finally, let our care be wholly bent, with faith and profit to hear whatsoever t
 
 [10 Psal. cxix. 105; Jer. xxiii. 29; Ephes. vi. 17; Psal. xci. 4.] [11 sexus, Lat. ]
 
-70 THE FIRST DECADE. [SERM.
-
 his holy Spirit, by whose virtue the seed of God’s word may be quickened in our hearts, to the bringing forth of much fruit to the salvation of our souls, and the glory of God our Father. To whom be glory for ever.
 
-OF THE SENSE AND RIGHT EXPOSITION OF THE WORD OF GOD, AND BY WHAT MANNER OF MEANS IT MAY BE EXPOUNDED.
+## Of the Sense and Right Exposition of the Word of God, and by What Manner of Means It May Be Expounded
 
 ---
 [[Bullinger Dec 3 Decade 1, Sermon 1|← 3. Decade 1, Sermon 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 5 Decade 1, Sermon 3|5. Decade 1, Sermon 3 →]]

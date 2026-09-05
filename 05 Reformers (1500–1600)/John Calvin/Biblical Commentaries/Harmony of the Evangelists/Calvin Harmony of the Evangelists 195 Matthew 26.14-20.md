@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 195. Matthew 26:14-20; Mark 14:10-17; Luke 22:3-14
-
-MATTHEW 26:14-20; MARK 14:10-17;  
-LUKE 22:3-14
 
 **14.** Then one of the twelve, who was called Judas Iscariot, went to the chief priests, **15.** And said to them, What will you give me, and I will deliver him to you? And they appointed to him thirty pieces of silver. **16.** And from that time he sought an opportunity to betray him. **17.** Now on the first day of unleavened bread, the disciples came to Jesus, saying to him, Where dost thou wish us to prepare for you to eat the passover? **18.** And he said, Go into the city to such a man, and say to him, The Master saith, My time is near; I keep the passover at thy house with my disciples. **19.** And the disciples did as Jesus commanded them, and prepared the passover. [^1] **20.** And when the evening was come, he sat down at table with the twelve.
 

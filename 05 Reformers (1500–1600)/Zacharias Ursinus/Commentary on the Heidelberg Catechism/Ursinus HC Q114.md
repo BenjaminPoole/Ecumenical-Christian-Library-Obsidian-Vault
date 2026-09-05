@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 114. But can those who are converted to God, perfectly keep these commands?
-
-**Question 114. But can those who are converted to God, perfectly keep these commands?**
 
 Answer. No; but even the holiest men, while in this life, have only small beginnings of this obedience, yet so, that with a sincere resolution, they begin to live, not only according to some, but all the commands of God.
 
-**EXPOSITION**
+## **Exposition**
 
 The question which here claims our attention is, How is obedience to the law possible, and can those who are regenerated keep the law perfectly? which is the seventh division proposed under the general subject of the law of God. That this question may be the better understood, we shall distinguish the nature of man as it was when it first came from the hands of God, pure and holy—as fallen, and as regenerated.
 

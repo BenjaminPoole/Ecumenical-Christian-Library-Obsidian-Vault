@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Examination Before Communion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2699
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But let a man examine himself, and so let him eat of that bread, and drink of that cup." 1 Corinthians 11:28.
 
@@ -97,7 +94,7 @@ Then I take the cup and I say, "This cup represents to me the blood of Christ, a
 
 Now that is the way to discern the Lord's body and that is the way, "so," to eat of that bread, and to drink of that cup, as to be spiritually profited! May God, the Holy Spirit, help you to enter into the spirit of the ordinance, and to observe it as Christ ordained it, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:17-39; 1 CORINTHIANS11:20-34.
+## Exposition by C. H. Spurgeon: Matthew 26:17-39; 1 Corinthians 11:20-34
 
 Matthew 26:17, 18. Now on the first day of the Feast of the Unleavened Bread the disciples came to Jesus, saying unto Him, Where do You want us to prepare for You to eat the Passover? And He said, Go into the city to such a man, and say unto him, The Master says, My time is at hand; I will keep the Passover at your house with My discip1es. See here the blending of Christ's humiliation and His Godhead. The Master had no room of His own in which He could keep the Passover. He had not even where to lay His head, yet such was His power that He had only to send messengers to one whom He knew, though perhaps the man did not know Him—and as soon as ever the message was delivered, the large upper room, furnished and prepared, was at once freely tendered for the celebration of the supper! Jesus Christ, even in His lowest estate, had the hearts of all men beneath His control.
 
@@ -134,7 +131,6 @@ man if he had not been born. Remember, this "woe" applies not only to Judas Isca
 is always carrying out a system of discipline in His Church. To a large extent, He lets the world, for the present, sin as it pleases, but in His own family He uses the rod. And when the Lord's Supper is dishonored, there is no doubt that the sickness and sleep here mentioned will follow. "For this cause many are weak and sickly among you, and many sleep." Many even die—not that they are lost—not that this sickness is sent as a curse, but as fatherly chastisement. And the death of many of its members is often a chastisement to the church which is thus weakened by losing its best helpers.
 
 31-34. For if we would judge ourselves, we would not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. Therefore, my brethren, when you come together to eat: tarry one for another And if any man is hungry, let him eat at home; thatyou come not together unto condemnation. And the rest will I set in order when I come.
-
 
 ---
 [[Sermon 2698 The First and the Second|← #2698]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2700 Growth in Grace|#2700 →]]

@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. I.
 
-THE EVIDENCE OF ORIGINAL SIN FROM WHAT APPEARS IN FACT OF THE SINFULNESS OF MANKIND.
+*The Evidence of Original Sin from What Appears in Fact of the Sinfulness of Mankind*
 
 ---
 

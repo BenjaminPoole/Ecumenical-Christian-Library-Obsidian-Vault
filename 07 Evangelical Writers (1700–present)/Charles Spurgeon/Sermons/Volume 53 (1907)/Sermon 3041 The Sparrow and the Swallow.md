@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Sparrow and the Swallow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3041
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Yes, the sparrow has found a house, and the swallow a nest for herself, where she may lay her young, even Your altars, O LORD of Hosts, my King, and my God." Psalm 84:3.
 
@@ -140,7 +137,6 @@ I wonder what other birds are represented here. Alas! Alas! I fear that I am add
 If you do not care for your own souls, it must seem to you an idle task for me to talk to you about your children, yet I will venture to say to any unconverted person here that it will increase his misery intolerably to see his children lost through his own example! If you must perish—if you are resolved to perish—why need you drag your child down with you? If you must drink, why need that boy of yours be taught the base habit into which you have fallen? If you will swear, do not let your child hear you. I would not have you swear at all, but if you will do so, why should your child learn from you to curse and blaspheme God? O Sirs, you will find it dreadful enough to perish, yourselves, but to bring down one, two, three—I know not how many children you have—to bring them down, one after the other to that same place of awful and eternal misery—what a terrible increase to your own wretchedness! You could not look at your dear child's face and then do him harm. I know that you would not touch him so as to break a bone, or do his body any injury. No, you pat his curly head, and say, "God bless you!" Yes, but why do you then do injury to his soul by your evil example? Why do you take your boy where you know he will learn no good and much harm? How dare you take him to places where the amusement is defiled and defiling, lascivious, unclean? No, if you really mean it when you say, "God bless my boy!" then live so that you will bless him by your example! May you be saved yourself, and then may you be a true parent.
 
 to your children for immortality as well as for time! May these words abide with you and God bless them, so that we and our children may meet in Heaven, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 3040 The Happy Beggar|← #3040]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3042 The Parable of the Ark|#3042 →]]

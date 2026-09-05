@@ -10,10 +10,9 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 111
 
-**PSALM 111 [^1]**
+***Psalm 111 [^1]***
 
 The title to this psalm supplies the place of an argument; and, that others may be induced to engage in the praises of God, the Psalmist points out the manner of doing so by his own example. Then he gives a short account of the manifold benefits which, in olden times, he conferred upon the faithful, and is daily conferring upon them. The psalm is composed in alphabetical order, each verse containing two letters. The first verse begins with a, א *aleph,* while the letter b, ב *beth,* is placed at the commencement of the next half of the verse. The last two verses only are not divided into hemistiches; but each of these has three letters. If, however, any one will closely examine the contents, he will find that this has occurred through mistake or inadvertence; for if we make these two verses into three, [^2] the construction of the sentences corresponds very well one with another; and consequently, the transcribers have erred in not attending to the prophet’s distinction.
 

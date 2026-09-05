@@ -11,12 +11,11 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 10
 
 *Expository Thoughts on John* — J. C. Ryle
 
-**JOHN 10**
+## **John 10**
 
 ## JOHN 10:1-9
 
@@ -145,7 +144,6 @@ The mighty miracles which our Lord performed during the three years of His earth
 Hundreds of unbelieving men, no doubt, in every age, have tried to pour contempt on Christ's miracles, and to deny that they were ever worked at all. But they labor in vain. Proofs upon proofs exist that our Lord's ministry was accompanied by miracles; and that this was acknowledged by those who lived in our Lord's time. Objectors of this sort would do well to take up the one single miracle of our Lord's resurrection from the dead, and disprove it if they can. If they cannot disprove that, they ought, as honest men, to confess that miracles are possible. And then, if their hearts are truly humble, they ought to admit that He whose mission was confirmed by such evidence must have been the Son of God.
 
 Let us thank God, as we turn from this passage, that Christianity has such abundant evidence that it is a religion from God. Whether we appeal to the internal evidence of the Bible, or to the lives of the first Christians, or to prophecy, or to miracles; or to history, we get one and the same answer. All say with one voice, "Jesus is the Son of God, and believers have life through His name."
-
 
 ---
 [[ET John 09|← John 9]] · [[Expository Thoughts on John|John Contents]] · [[ET John 11|John 11 →]]

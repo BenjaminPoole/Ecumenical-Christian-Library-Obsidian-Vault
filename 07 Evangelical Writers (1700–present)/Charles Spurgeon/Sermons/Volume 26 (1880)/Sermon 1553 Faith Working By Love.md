@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Faith Working By Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1553
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 15, 1880,.
+*Delivered on Lord's-Day Morning, August 15, 1880*
 
 > "Faith which works by love." Galatians 5:6.
 
@@ -156,7 +155,6 @@ Now that so many Sunday schools need teachers, I charge our friends not to let t
 But if you are to be a working Church and a loving Church you must be a believing Church, for that is the bottom of it all. Faith works by love. Get home, then, to prayer and renew your faith in Jesus. May the Holy Spirit lead you anew to the dying love of Jesus. I often go straight away back to the Cross from which I started when I set out for Heaven. The devil says to me, "You are no Christian." I do not think he knows much about it, but I have, before now, tried to show him some evidences that I am a Christian and he has only puffed at them. I find the better way is to go right away to the Cross and say, "I rest on Jesus only."
 
 Satan cannot deny but what you are a Christian when you stand there! Go and do your first works and believe in Jesus just as you did at the first and abide in Him forevermore. As sinners, cling to Jesus and let Him be everything to you. Constant faith will create fervent love and fervent love will do persevering work—so shall we be a people zealous for good works! The Lord bless every one of you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1552 The Friends Of Jesus|← #1552]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1554 Redemption By Price|#1554 →]]

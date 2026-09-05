@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Our Service For Christ Never Finished
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2334
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But which of you, having a servant plowing or feeding cattle, will say unto him, by-and-by, when he is come from the field, Go and sit down to meat? And will not rather say unto him, Make ready wherewith I may sup, and gird yourself, and serve me, till I have eaten and drunk; and afterward you shall eat and drink? Does he thank that servant because he did the things that were commanded him? I think not. So likewise you, when you shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do." Luke 17:7-10.
 
@@ -121,7 +118,7 @@ Do any of you here say, "I am no servant of Christ and I do not want to be one"?
 
 God give me but to have a place where, washed in His blood, I may wear the white garments of an everlasting servitude to Him and He shall have the praise for it, world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE171-10.
+## Exposition by C. H. Spurgeon: Luke 171-10
 
 Verse 1. Then said He unto the disciples, It is impossible but that offenses will come. We are so strangely made that even good men do not always agree and there are so many bad men about that they will cast a stumbling block in our way if they can.
 
@@ -144,7 +141,6 @@ of dynamite can work great wonders. And within the tiniest morsel of faith—if 
 9\. Does he thank that servant because he did the things that were commanded him? I think not. Do you take off your hat to your servants and say, "I am very grateful to you for doing your duty"? Not so. And even he who serves God best, may he expect honor as his due? Ah, no—he shall have honor because of the Grace of his Master—but it is not his place to look for it, much less is it right for him to expect it as his due.
 
 10\. So likewise you, when you shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do. And who shall praise us for that? The most self-denying servant of the Savior, the most ardent laborer for the Lord will expect nothing of God except to be blessed by His abounding Grace! What can we deserve of the dear hands of Him who bought us with His blood? Are we not the bondservants of Christ? "You are not your own; you are bought with a price." Therefore, whatever service you can render is due to Him! And unto Him let it be freely given without one thought of self-praise or pride because it is done so well.
-
 
 ---
 [[Sermon 2333 The Whole Band Against Christ|← #2333]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2335 Three Texts, But One Subject— Faith|#2335 →]]

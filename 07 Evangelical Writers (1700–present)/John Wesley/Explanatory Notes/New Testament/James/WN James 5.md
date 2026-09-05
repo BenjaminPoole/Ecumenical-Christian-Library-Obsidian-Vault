@@ -22,7 +22,7 @@ tags:
 
 **4.** The hire of your labourers crieth - Those sins chiefly cry to God concerning which human laws are silent. Such are luxury, unchastity, and various kinds of injustice. The labourers themselves also cry to God, who is just coming to avenge their cause. Of sabaoth - Of hosts, or armies.
 
-**5.** Ye have cherished your hearts - Have indulged yourselves to the uttermost. As in a day of sacrifice - Which were solemn feast- days among the Jews.
+**5.** Ye have cherished your hearts - Have indulged yourselves to the uttermost. As in a day of sacrifice - Which were solemn feast-days among the Jews.
 
 **6.** Ye have killed the just - Many just men; in particular, "that Just One," Acts iii, 14. They afterwards killed James, surnamed the Just, the writer of this epistle. He doth not resist you - And therefore you are secure. But the Lord cometh quickly, ver. 8.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Barriers Broken Down
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2214
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For they, being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God." Romans 10:3.
 
@@ -128,7 +125,6 @@ Beloved Friend, may the Holy Spirit lead you to submit! You have been kicking an
 May God bless this simple testimony to each and all, and to His name be praise! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 9.
-
 
 ---
 [[Sermon 2213 Honey In The Mouth!|← #2213]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2215 Young Man! A Prayer For You|#2215 →]]

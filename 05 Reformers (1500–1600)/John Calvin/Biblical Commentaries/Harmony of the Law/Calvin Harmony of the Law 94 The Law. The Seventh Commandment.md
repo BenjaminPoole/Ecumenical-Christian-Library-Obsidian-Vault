@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 94. The Law: The Seventh Commandment
 
 **The Seventh Commandment**
@@ -22,7 +21,7 @@ tags:
 
 **14.** Thou shalt not commit adultery.
 
-**THE REPETITION OF THE COMMANDMENT**
+## **The Repetition of the Commandment**
 
 **Deuteronomy 5**
 

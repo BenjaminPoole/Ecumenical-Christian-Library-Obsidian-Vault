@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # David's Sublime Consolation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3356
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Although my house is not so with God; yet He has made with me an everlasting Covenant, orderedin all things and sure: for this is all my salvation, and all my desire, although He makes it not to grow." 2 Samuel 23:5.
 
 NO GOLD but pure gold can stand the fire. And if a man's religion has been a pretentious sham, it is very likely to tumble to pieces under the rough hand of death. There have been a few hypocrites who have been able to brazen it out, even in the last solemn article, but these must always be the few. David, at any rate, was never the man who would play the hypocrite in the last extremity of death. You can see how true, how deep, how thorough his faith in God must have been, for his dying bed was by no means an enviable one. His dying pillow was stuffed with sharp thorns. His was a life which, although it had much of Divine Grace about it, yet had much of sinful nature, too. He was dying as we might not wish to die in some respects, but his faith triumphed as we may well desire that our faith may triumph, whatever the outward circumstances of our life or death may be! We shall go at once, and without further preface, to consider our text and notice in turn the Psalmist-King's grave lament. And then, blessed compensation, his glorious comfort. First, then, we shill ponder, and may the Holy Spirit make it greatly to profit everyone of us—
 
-I. DAVID'S GRAVE LAMENT.
+## I. David's Grave Lament
 
 His house, he declares, was "not so" with God. And the numbers and the power of that house did not grow as he could have wished. Brothers and Sisters, there are some troubles that a man outgrows. There are some childish trials connected with our early Christian life which we, without effort, outlive and which in due course pass away. We shall not have to feel—thank God!—ever again the special perils of our youth and of our early manhood. When we have passed into riper years, we leave these things behind us. But there are some troubles which accumulate as we grow. For instance, there is the peculiar trouble alluded to in the text. There are, no doubt, multitudes of cares and trials connected with a family of little children, but every parent knows that the trials connected with little children are as nothing compared with the sorrows of those who have grown-up children that cause them heartache and heartbreak.
 
@@ -59,7 +56,7 @@ I shall not stay to say anything about the latter part of the verse, namely, abo
 
 Having thus spoken of David's great lament, we now turn with joyful relief to speak of—
 
-II. DAVID'S GLORIOUS COMFORT.
+## II. David's Glorious Comfort
 
 As I said before, we will only give you a few plain, practical thoughts, praying the Holy Spirit to make them of Divine Power. The glorious comfort which David found lay in the Covenant which God had made with him. With David it was a Covenant of royalty for himself and for his seed, but we believed he also had a further vision of the Covenant of Grace. At any rate, we of the Gospel dispensation must do so, for though we shall not have earthly thrones, yet under Christ's Covenant we are made kings and priests unto God!
 
@@ -121,7 +118,7 @@ And give my spirit rest."
 
 So may it be with you, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS3:9.
+## Exposition by C. H. Spurgeon: Romans 3:9
 
 Verses 9, 10. What then? Are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin. As it is written, There is none righteous, no, not one. There is none that understands, there is none that seeks after God. They are all gone out of the way, they are together become unprofitable; there is none that does good, no, not one. Their throat is an open sepulcher: with their tongues they have used deceit; the poison of asps is under their lips. Whose mouth is full of cursing and bitterness: their feet are swift to shed blood. Destruction and misery are in their ways. And the way of peace have they not known.' There is no fear of God before their eyes. This is a description of man given by Prophets in the olden times. "Now," says Paul, "we know that what things soever the Law says, it says to them who are under the Law." So that this is a description of the Jews, a description of the people who had the Light of God, the best people that were then upon the face of the earth—and if these are the good people— where are the Gentiles, the bad ones without the Light?
 
@@ -130,7 +127,6 @@ Verses 9, 10. What then? Are we better than they? No, in no wise: for we have be
 body is mentioned and described as being foul with sin! But, says Paul, there is another righteousness on the face of the earth—and that is the righteousness of God's Grace, which comes through believing in Christ!
 
 23, 31. For all have sinned and come short of the glory of God. Being justified freely by His Grace through the redemption that is in Christ Jesus, whom God has set forth to be a propitiation through faith in His blood, to declare His righteousness for the remission of sins that are past, through the forbearance of God. To declare, I say, at this time His righteousness: that He might be just, and the justifer of him which believes in Jesus. Where is boasting then? It is excluded. By what Law? Of works? No, but by the Law of faith. Therefore we conclude that a man is justified by faith without the deeds of the Law. Is He the God of the Jews only? Is He not also of the Gentiles? Yes, of the Gentiles also— seeing it is one God, which shall justify the circumcision by faith and uncircumcision through faith. Do we then make void the Law through faith? God forbid! Yes, we establish the Law.
-
 
 ---
 [[Sermon 3355 Life's Inevitable Burden|← #3355]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3357 Heedful Hearing|#3357 →]]

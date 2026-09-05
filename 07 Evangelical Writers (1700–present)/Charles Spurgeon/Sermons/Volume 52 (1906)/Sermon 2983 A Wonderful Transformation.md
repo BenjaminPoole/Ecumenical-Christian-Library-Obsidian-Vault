@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Wonderful Transformation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2983
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your sorrow shall be turned into joy." John 16:20.
 
@@ -57,7 +54,7 @@ And whatever else there may be of sorrow that came out of Christ's Cross, we may
 
 II. But, now, secondly, and very briefly, I want to remind you that THE SORROW OF THE WHOLE CHURCH
 
-HAS ALSO BEEN TURNED INTO JOY.
+## Has Also Been Turned into Joy
 
 In speaking of the sorrows of the persecuted Church of Christ, I will not compare them to the sorrows of her Lord. But if anything could have been comparable to the suffering of the Bridegroom, it would have been the suffering of the bride. Think of the early ages of the Church of God under the Roman persecutions. Think of the Church of Christ among the Vaudois of the Alps, or in England during the Marian persecution. Our blood runs cold as we read of what the saints of God have suffered! I have often put up Foxe's Book of Martyrs upon the shelf and thought that I could not read it any more—it is such a terribly true account of what human nature can bear when faith in Christ sustains it. Yet, Brothers and Sisters, we are not sorry that the martyrs suffered as they did. Or if we are, that very sorrow is turned into joy at the remembrance of how Christ has been glorified through the sufferings of His saints! Even our poor humanity looks more
 
@@ -81,7 +78,7 @@ And once again, dear Friends, not only is it so with the persecutions and opposi
 
 III. Now, lastly, to come down from those high themes to minor matters, OUR OWN PERSONAL SORROW
 
-SHALL BE TURNED INTO JOY.
+## Shall Be Turned into Joy
 
 When I think of the sorrows of Christ and the sorrows of His Church as a whole, I say to myself, "What pin pricks are our griefs compared with the great gash in the Savior's side, and the many scars that adorn His Church today!" But, dear Friends, whatever our sorrows may be, they will be turned into joy. Sometimes we witness this wonderful transformation. Poor old Jacob sorrowed greatly when he thought that he had lost his favorite son, Joseph. "An evil beast has devoured him," he said. "Joseph is without doubt torn in pieces." And he wrung his hands and wept bitterly for many a day over his lost Joseph. Then came the famine and the poor old man was dreadfully alarmed concerning his large family. He must send some of his sons into Egypt to buy corn, and when he sends them there, they do not all come back, for Simeon is detained as a hostage—and the lord of the land says that they shall not see his face again unless they bring Benjamin with them—Benjamin, the dear and only remaining child of the beloved Rachel! Jacob cannot bear the thought of parting with him, so he says to his sons, "You have bereaved me of my children; Joseph is not, and Simeon is not, and you will take Benjamin away: all these things are against me." Poor old soul, what a mistake he made! Why, everything was as much for him as it could possibly be! There was his dear Joseph, down in Egypt, next to Pharaoh on the throne and ready to provide for his poor old father and all the family during the time of famine! Then there was the famine to make him send down to Egypt and find out where Joseph was, so that he might go and see his face again, and confess that the Lord had dealt graciously with him. You dear children of God who get to fretting and are troubled should carry out Cowper's good advice—
 
@@ -124,7 +121,6 @@ That is to say, the very sorrows that we pass through in our earthly pilgrimage 
 In Heaven we shall be as glad of our troubles as of our mercies! Perhaps it will appear to us, then, that God never loved us so much as when He chastened and tried us. When we get home to Glory, we shall be like children who have grown up, who, sometimes say to a wise parent, "Father, I have forgotten about the holidays you gave me. I have forgotten about the pocket money you gave me. I have forgotten about a great many sweet things that I very much liked when I was a child, but I have never forgotten that whipping which you gave me when I did wrong, for it saved me from turning altogether aside. Dear Father, I know you did not like to do it, but I am very grateful to you for it now—more grateful for that whipping than for all the sponge cakes and sweetmeats that you gave me." And, in like manner, when we get home to Heaven, I have no doubt that we shall feel and perhaps say, "Lord, we are grateful to You for everything, but most of all for our sorrows. We see that had You left us unchastised, we would never have been what we now are and, thus, our sorrows are turned into joy."
 
 As for you who are not Believers in the Lord Jesus Christ, I want you to ponder most solemnly these few words and carry them home with you. If you remain ass you are, your joys will be turned into sorrows. God grant that they may not be, for Jesus Christ's sake Amen.
-
 
 ---
 [[Sermon 2982 The Memorable Hymn|← #2982]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2984 A Silly Dove|#2984 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Honored Guest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3487
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he made haste and came down, and received Him joyfully." Luke 19:6.
 
@@ -35,7 +32,7 @@ was proof positive that Christ had not only crossed the threshold of Zaccheus' h
 
 A prominent feature, however, so distinctly stated that it should not be carelessly overlooked was this, that he received Him joyfully. This was crowning evidence of the purity of his motives and the artlessness of his actions. In such mirth there could be no guile. Ask now, Why do not all men thus receive Jesus Christ joyfully? How is it that some men receive Him with such exuberant joy? In what ways do those show their joy who have thus received the Master?
 
-I. WHY IS IT THAT ALL MEN DO NOT RECEIVE CHRIST JOYFULLY?
+## I. Why Is It that All Men Do Not Receive Christ Joyfully?
 
 This is our first question. They need Him, all of them. There is no difference in this respect. Whether Jews or Gentiles, they are all sold under sin. God has concluded the whole race of man in unbelief. He has shut them all up in condemnation! There is no escape from the universal doom except by the way of the Cross. Jesus Christ comes to save— comes with pardon in His hands, with messages of love, with tokens of favor—yet most men bar the doors of their hearts against Him! There is no cry heard in their souls, "Lift up your head, O you gates! And be you lifted up, you everlasting doors, that the King of Glory may come in!" Instead thereof, there is a sullen cry, "Come prejudice! Come unbelief! Come hardness of heart! Come love of sin—bar the doors and barricade the gates lest, perhaps, the King of Glory should force an entrance!" Men treat the Savior as they would treat an invader who attacked their country! They seek to drive Him away! They would gladly be rid of Him. They cannot endure His Presence. No, they can scarcely endure, some of them, to hear about Him in the street! Why is this? The chief reason lies in the depravity of man's nature. You never know how bad man is till he comes in contact with the Cross!
 
@@ -53,7 +50,7 @@ Still more inexcusable, I think, are those who reject Christ because they are ta
 
 Ah, Brothers and Sisters, this is a miserable spectacle! It is a dreary sight to see a sinner despising mercy, a drowning man rejecting the lifebelt, a sick man declining the physician, a man entering the gates of death refusing life and immortality! Oh, Sin, how you have fooled men! How you have made them hate themselves and act cruelly to their own souls! What suicides they commit! What a sacrifice of their noblest nature! They go down to Hell with a verdict of felo de se. O Israel, you have destroyed yourself! You have destroyed yourself! They reject Him shamefully whom they should have received joyfully! They carry out their own will and they perish in their willfulness! And now we ask in the next place—
 
-II. WHY DO SOME MEN RECEIVE HIM JOYFULLY?
+## II. Why Do Some Men Receive Him Joyfully?
 
 The answer is simply because Divine Grace has made them to differ. Grace has subdued their stubborn will, illuminated their darkened understanding, changed their depraved affections and made their whole mind to judge of things after a different fashion. Do not suppose that we who have received Christ were naturally any better disposed to Him than others. Oh, no! If, when the seed was sown, we were like the honest and good ground in which it took root, there had been a previous tillage upon our hearts to make them ready! We would not have been found willing had it not been the day of God's power! I think we all unite in saying—
 
@@ -93,7 +90,7 @@ Moreover, you will prove the grateful welcome you give Him by wishing that other
 
 May the Lord, in His mercy, call you as He called Zaccheus! May many of you receive Him joyfully as Zaccheus did! Seek Him and He shall be found of you. Trust Him—He will not deceive you. Cast your soul upon Him—He will be as good as His Word. Mark His promise, "Him who comes unto Me I will in nowise cast out." Faithful is He that gives you this grateful encouragement! Believe in the Lord Jesus Christ, now, and through countless ages you will look back upon this fleeting hour with unspeakable, perennial joy —with gratitude that eternity cannot be exhausted! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK2:1-14.
+## Exposition by C. H. Spurgeon: Mark 2:1-14
 
 Verses 1, 2. And again He entered into Capernaum after some days; and it was heard that He was in the house. And immediately many were gathered together, insomuch that there was no room to receive them, no, not even near the door: and He preached the Word unto them.We expect to see the crowd round the door, but there was not room, even for the doorway hearers, when Jesus Christ was preaching! There is an attracting power about the Voice of Jesus. We may expect that if we will let Jesus speak in the ministry, and not speak too much our own thoughts and our own words, there will still be the same attraction about the Gospel. "He preached the Word unto them."
 
@@ -122,7 +119,6 @@ Verses 1, 2. And again He entered into Capernaum after some days; and it was hea
 13\. And He went forth again by the seaside, and all the multitude came unto Him, and He taught them. Better air than there was in the house, and more room, but He kept to the same Gospel. He taught them.
 
 14\. And as Hepassed by, He sawLevi, the son ofAlphaeus, sitting at the receipt of custom, andsaid unto him, Follow Me. And he arose and followed Him.Swept up his shekels—gathered up his account books—stayed no longer. He rose from taking tolls to follow the Master! Oh, for just such a word tonight to some here present. "Follow Me." And would to God there would be such a heart in them as there was in this man named Levi, alias Matthew, that they, too, might come and follow Jesus!
-
 
 ---
 [[Sermon 3486 God's Desire for Us, and His Work in Us|← #3486]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3488 Justification, Propitiation, Declaration|#3488 →]]

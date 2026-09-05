@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Bankrupt Debtors Discharged
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1739
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 16, 1883,.
+*Delivered on Lord's-Day Morning, September 16, 1883*
 
 > "And when they had nothing to pay, he frankly forgave them both." Luke 7:42.
 
@@ -160,7 +159,6 @@ As soon as we have naught to pay
 Our Lord forgives us all."
 
 Blessed are you poor, for you shall be rich! Blessed are you hungry, for you shall be fed! Blessed are you that are empty, for you shall be filled! But woe unto you that are rich and are increased in goods, and have need of nothing, and boast of your own goodness! Christ has nothing to do with you and we have nothing to preach to you except this—"They that are whole need not a physician." The heavenly Surgeon did not come to save those who have no need of saving. Let those who are sick prick up their ears and hear with delight, for the Physician is come with a special eye to them. Are you a sinner? Then Christ is the Savior of sinners! Join hands with Him by faith and the work is done—you are saved forever! God bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1738 Glory Be Unto the Father|← #1738]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1740 The Exeter-Hall Sermon to Young Men|#1740 →]]

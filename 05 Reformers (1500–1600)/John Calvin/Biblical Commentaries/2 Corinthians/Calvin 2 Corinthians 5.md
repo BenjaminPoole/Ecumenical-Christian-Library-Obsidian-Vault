@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 2 Corinthians 5:1-8
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # A Jealous God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 502
@@ -77,7 +76,7 @@ Ever sound his lofty praise!”
 
 Let us crown him every day! Let our holy obedience, let our devout lives, let our hearty acquiescence in all his will, let our reverent adoration before the greatness of his majesty, all prove that we acknowledge him to be King of kings, and Lord of lords, lest we provoke a jealous God to anger.
 
-III. THE LORD IS JEALOUS OF HIS GLORY.
+## III. The Lord Is Jealous of His Glory
 
 God’s glory is the result of his nature and acts. He is glorious in his character, for there is such a store of everything that is holy, and good, and lovely in God, that he must be glorious. The actions which flow from his character, the deeds which are the outgoings of his inner nature, these are glorious too; and the Lord is very careful that all flesh should see that he is a good, and gracious, and just God; and he is mindfill, too, that his great and mighty acts should not give glory to others, but only to himself.
 
@@ -102,7 +101,6 @@ He is very jealous *of your trust.* He will not permit you to trust in an arm of
 He is also very jealous *of our company.* It were well if a Christian could see nothing but Christ. When the wife of a Persian noble had been invited to the coronation of Darius, the question was asked of her by her husband—“Did you not think the king a most beautiful man?” and her answer was—“I cared not to look at the king; my eyes are for my husband only, for my heart is his.” The Christian should say the same. There is nothing beneath the spacious arch of heaven comparable to Christ: there should be no one with whom we converse so much as with Jesus. To abide in him only, this is true love; but to commune with the world, to find solace in our comforts, to be loving this evil world, this is vexing to our jealous Lord. Do you not believe that nine out of ten of the troubles and pains of believers are the result of their love to some other person than Christ? Nail me to thy cross, thou bleeding Savior! Put thy thorn-crown upon my head to be a hedge to keep my thoughts within its bound! O for a fire to burn up all my wandering loves. O for a seal to stamp the name of my Beloved indelibly upon my heart! O love divine expel from me all carnal worldly loves, and fill me with thyself!
 
 Dear friends, let this jealousy which should keep us near to Christ *be also a comfort to us,* for if we be married to Christ, and he be jealous of us, depend upon it this jealous husband will let none touch his spouse. Joel tells us that the Lord is jealous for his land, and Zechariah utters the word of the Lord, “I am jealous for Jerusalem, and for Zion with a great jealousy;” and then he declares that he will punish the heathen. And will he not avenge his own elect who cry unto him day and night? There is not a hard word spoken but the Lord shall avenge it! There is not a single deed done against us, but the strong hand of him who once died but now lives for us, shall take terrible vengeance upon all his adversaries. I am not afraid for the Church of God! I tremble not for the cause of God! Our jealous Husband will never let his Church be in danger, and if any smite her he will give them double for every blow. The gates of hell shall not prevail against his Church, but she shall prevail against the gates of hell. Her jealous Husband shall roll away her shame; her reproach shall be forgotten; her glory shall be fair as the moon, clear as the sun, and terrible as an army with banners, for he that is jealous of himself is jealous for her fair fame. The subject is large and deep; let us prove that we understand it, by henceforth walking very carefully; and if any say “Why are you so precise?” let this be our answer—“I serve a jealous God.”
-
 
 ---
 [[Sermon 0501 Grace Abounding|← #501]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0503 Death and Life in Christ|#503 →]]

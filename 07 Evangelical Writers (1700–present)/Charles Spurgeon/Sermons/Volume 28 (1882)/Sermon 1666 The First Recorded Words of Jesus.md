@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The First Recorded Words of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1666
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 25, 1882,.
+*Delivered on Lord's-Day Morning, June 25, 1882*
 
 > "And when they saw Him, they were amazed; and His mother said unto Him, Son, why have You thus dealt with us? Look, Your father and I have sought You sorrowing. And He said unto them, How is it that you sought Me? Know you not that I must be about My Father's business?" Luke 2:48, 49.
 
@@ -138,7 +137,6 @@ It will all come right if you will just think of this—first, that Jesus Christ
 Remember another thing, that Christ must be about His Father's business. And what is His Father's business? Why, to save sinners! This is His great Father's delight. He is glad to bring His prodigals home. Are you seeking Jesus as if He could not be found, as if it were hard to make Him hear and difficult to win His help? Why, He is busy in saving sinners! Jesus sits on Zion's hill—He still receives poor sinners! Be encouraged and do not go about among your kinsfolk seeking Him, nor with bitter tears and cries of despair look for Him as if He were hiding from you! He is not far from any one of us. He stands before you and He bids you trust Him! Look to Him and be saved! Do you look? You are saved! Go on your way rejoicing! God bless you. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke25-52. HYMNS FROM "OUR OWN HYMN BOOK"—251, 260, 764.
-
 
 ---
 [[Sermon 1665 The Exceeding Riches of Grace|← #1665]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1667 'Love and I' A Mystery|#1667 →]]

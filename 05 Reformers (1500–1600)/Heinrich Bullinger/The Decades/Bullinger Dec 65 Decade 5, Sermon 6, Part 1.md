@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 65. Decade 5, Sermon 6, Part 1
 
 The treatise upon the sacraments remaineth, which we heard is joined to the word of God and prayer2. But in speaking of sacraments, delivered by Christ our king and high-priest, and received and lawfully used of his holy and
@@ -40,9 +39,9 @@ O o o signs out St natural and signs given. " Natural he calleth those which, Au
 
 15—2
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-LSEUM.
+## Lseum
 
 John xii.
 
@@ -78,8 +77,6 @@ manner is every description or picture demonstrative called a sign ; for in Ezec
 
 [12 Germani, Lat. : Swiss.]
 
-230 THE FIFTH DECADE. [SERM.
-
 The diversity Now these kinds of signs are of divers sorts. For some ofman.glvcn are mute or dumb, and pertain to the sense of the eyes ; of which sort are the standards used in war, crosses1, banners, flaming fires, whereof mention is made, Numbers ii., Psalm
 
 [Ps. lxxiv. 4 j Ixxiii. &c. Neither is any man able to reckon up all of this sort : for ever and anon new come in, as pleaseth men.
@@ -104,9 +101,9 @@ signs given Now signs are given of God to this end, to teach and of God. • i i
 
 [15 So also ed. 1584 ; but 1577, gifts, I mean, of healing, and &e. : beneficia, inquam, sanitatis et linguarum, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Signs paradigmatical, or for example.
 
@@ -136,8 +133,6 @@ The sacramental signs of Christ and of Christ his church, sacrament. namely, whi
 
 p. 493.]
 
-234: THE FIFTH DECADE. [sERM.
-
 St Augustine, in his fifth epistle to Marcellinus, saith : " It were £po long to dispute of the diversity of signs, 'which, when they pertain to holy things, are termed sacraments1." From whence doubtless sprang the common definition or description, "a sacrament is a sign of an holy thing2:11 which as it cannot be rejected, so there is none but seeth, that in it the nature of the thing is not fully comprehended or expressed ; neither is it separated from those things which also are holy signs. There is another definition therefore brought forth and used, which cramentk! *s indeed more perfect than the other: " a sacrament is a visible sign of an invisible grace3." But because this also doth not in all points express the nature of the thing, this definition following seemeth unto many more allowable, which is after this manner : " Sacraments are ceremonies, wherewith God exerciseth his people, first to stir up, increase, and maintain their faith ; then, to the end to testify before men his religion4." This is a true and right definition. But what if you define a sacrament somewhat more fully and largely in this manner ? " Sacraments are holy actions, consisting of words or promises of the gospel, or5 of prescript rites or ceremonies, given6 for this end to the church of God from heaven, to be witnesses and seals of the preaching of the gospel, to exercise and try faith, and by earthly and visible things to represent and set before our eyes the deep mysteries of God ; to be short7, to gather together a visible3 church or congregation, and to admonish them of their duty." This definition truly is
 
 I1 Ximis autem longum est convenienter disputare de varietate signorum, quae cum ad res divinas pertinent sacramenta appellantur. — August. Ep. v. ad Marcellin. Opp. Tom. II. fol. 3, col. 4. Par. 1531.]
@@ -164,8 +159,6 @@ Now that I may fully10 entreat of the names that are given sacramem to this thin
 
 [13 Jurant autem milites, omnia se strenue facturos qua? prseceperit imperator, nunquam deserturos (militiam) nee mortem recusaturos pro Romana republica. — Veget. de Re Milit. Lib. n. cap. 5.]
 
-23G THE FIFTH DECADE. [SERM.
-
 earnest ; they gave up their name to be enrolled ; and were marked, that they might be known from other soldiers1. Now because we by our sacraments, specially by baptism, are received and enrolled to be Christ's soldiers ; and by receiving the sacraments do profess and witness ourselves to be under Christ our captain's banner2 ; therefore not amiss, nor without reason, are the signs of Christ and his church called sacraments. In the mean while I will not stoutly stand in contention, that the word sacrament was for that cause chiefly attributed of them in ancient time to these our signs3. For Erasmus Rot., a man very well seen in the tongues, and thoroughly tried in old and ancient writers4, none better, in Cathe. sua Symb. v., saith : " They which speak most exquisitely call sacramentum an oath or bond, confirmed by the authority of God and reverence of religion. But our elders used this word to express that which the Greeks call a mystery ; which a man may call a religious secret, because the common people were excluded from meddling with them5." Thus far he. Therefore the old writers6 did call those signs sacraments, instead of mysteries7. urbaLa mys* ^or *^e selfsame signs are called of the Greeks8 fxvarrjpia, mysteries, which the Latin writers for the most part interpret, holy and religious secrets ; holy secrets, I say, from the celebration of which secrets9 the profane common people were excluded and debarred. For Cselius in Lectio. Antiqui. supposeth, that they are called mysteries, on cei /uvaavTas Tripelv evSov, because it behoved them which hid them, or which ministered them, to keep them close, and to shew them
 
 [! signabantur notis, is all that Bullinger says.] [2 esse Christi milites, Lat.] [3 sacris signis, Lat.]
@@ -190,8 +183,6 @@ Furthermore, many of the Greek doctors of the church what a symhave called our s
 
 [!? in sacris, Lat. : in their sacred rites.]
 
-238 THE FIFTH DECADE. [SERM.
-
 all egorically meaning something; as in the sacrifices of Bacchus a sieve was their symbol or sign, and the same they carried about when they were well tippled1; thereby signifying, that such as be drunken are blabs, and can keep nothing in secret. What if I can prove, that opinions of men2, containing somewhat of deep understanding by an allegory or dark speech, are called3 symbols? For Pythagoras his symbols are well enough known. So mystical divinity began to be called symbolical, because it was inwrapped in more hid and secret mysteries. So that is mystical4, which is darkly uttered and in manner of a riddle, having in it a far more contrary 5 meaning than by words it seemeth to offer. Again, the gift and token of faith and truth, which by mutual consent passeth between the bride and the bridegroom, whereby it is not lawful for them to shrink or go back from their word, promise, or covenant, is called a symbol. Furthermore, to soldiers also, serving under one and the same banner, symbols or badges were given. Unto certain confederate cities, in like manner, and joined together in league of friendship, to the end that they might go safely to the bordering cities and to those which took parts with them, symbols or mutual signs6 were given, that is to say, tokens ; which being shewed and seen, they gave each other gentle and courteous entertainment7, as to their league-fellows, companions, and singular friends. The ancient writers therefore hereupon have applied this word symbol to our sacraments, because they represent and shew unto us the exceeding great and deep mysteries of God : they are allegorical and enigmatical, hard and dark to understand; because8 the Lord himself by the institution of his sacraments hath bound himself unto us, and we again by the partaking of them do bind ourselves to him and to all the saints, testifying and openly professing to fight stoutly and valiantly under the Lord's banner. Moreover, these holy
 
 [l quod circumferebant bacchantes, Lat.]
@@ -214,9 +205,9 @@ Setting aside all other things, it seemeth necessary first only God is of all to
 
 P So also ed. 1584; but 1577, or signs.] [10 posse, Lat. : can be.] [u Est enim qui, Lat. : For there is one.] [I2 So also ed. 1584 ; but 1577, sacraments.] [13 The editor has not been able to verify this reference.] [u Hie instituit aliquid, qui dat ei robur et virtutem ; . . . sed virtus sacramenti est a solo Deo . . . ergo solus Deus potest instituere sacramentum. — Aquinas Summa Theol. par. in. quaest. 64. p. 133. Col. Agrip. 1622.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Sacraments are to be received as it were at the hands of Christ.
 
@@ -254,8 +245,6 @@ Peter Lombard, in his Sentences, reckoneth up three causes why sacrawhy sacramen
 
 [bullinger, IV.]
 
-242 THE FIFTH DECADE. [sERM.
-
 He placeth merit in that, that by God's government and direction (as he affirmeth) man seeketh salvation in things baser and inferior to himself. Unto the which he addeth this afterward; although not in them, yet in God through them he seeketh salvation : which also unadvisedly enough he hath uttered, and not sufficiently considered. The other two causes, to wit, that sacraments were invented and ordained under visible signs for our instruction and exercise, seem not altogether absurd or disagreeing from reason1.
 
 The truest and most proper cause, why sacraments be instituted under visible signs, seemeth partly to be God's goodness, and partly also man's weakness. For very hardly do we reach unto the knowledge of heavenly things, if, without visible form2, as they be in their own nature pure and excellent, they be laid before our eyes : but they are better and more easily understood, if they be represented unto us under the figure of earthly things, that is to say, under signs familiarly known unto us. As therefore our bountiful and gracious Lord did covertly and darkly, nay rather, evidently and notably, set before us to view3 the kingdom of God in parables or dark speeches ; even so by signs it pleased him to lay before our eyes, after a sort, the very same thing, and to point out the same unto us, as it were painted in a table ; to renew it afresh, and by lively representation to maintain the remembrance of the same among us. This cause doth John Chrysostom allow, as a chief and proper cause; who in his chrvsostom eighty and three homily upon Matthew saith : " The Lord touching the o «/ «/ 1 cause of hath delivered unto us nothing that is unsensible4. The things indeed are sensible, howbeit they have altogether a spiritual understanding or meaning. So baptism is ministered under a sensible element, namely water ; but that which is wrought thereby, that is to say, regeneration and the new birth,
@@ -282,7 +271,7 @@ in Matth. lxxxu. (al. lxxxiii.) Opp. Tom. vn. p. 787. Par." 1727.]
 
 16—2
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 [sERM.
 
@@ -320,8 +309,6 @@ doing after the manner of men6, hath added signs of his faithfulness and truth i
 
 [10 et mysteriorum, Lat. : and of the mysteries.] ments.
 
-246 THE FIFTH DECADE. [SERM.
-
 entreated of the chief causes of sacraments, for the which they were instituted. ofhseacrambcr Touching the kind and number of sacraments, which hath the next place to that which went before ; there are divers opinions among the writers, specially of later time. For among the old and ancient this question, as an undoubted and well-known perfect principle, drew quickly to an end. But he which shall diligently search the scriptures shall find, that they of the old Testament had sacraments after one kind, and they of the new Testament1 sacraments after another kind. The sacraments of the people under the old Testament were circumcision and the paschal lamb, to which were added sacrifices; whereof I have abundantly spoken in the third decade and the sixth sermon2. In like manner the sacraments of the people under the new Testament, that is to say, of Christians, by the writings of the apostles, are two in number; "baptism," and "the supper of the Lord.'" But Peter Lombard reckoneth seven, baptism, penance, the supper of the Lord, confirmation, extreme unction, orders, and matrimony3. Him followeth the whole rabblement of interpreters and rout of schoolmen. But all the ancient doctors of the church for the most part do reckon up two principal sacraments ; among whom Tertullian, in his first and fourth book Contra Marcionem, and in his book De Corona Militis, very plainly maketh mention but of two only, that is to say, baptism, and the Eucharist or supper of the Lord4. And Augustine also, Lib. in. De Doctr. Christiana, cap. ix. saith : " The Lord hath not overburdened us with signs ; but the Lord himself and the doctrine of the apostles have left unto us certain few things instead of many, and those most easy to be done, most reverend to be understood, most pure to be observed ; as is baptism, and the celebration of the body and blood of the Lord5." And again to Januarius, Epist. cxviii.
 
 t1 ac populi, Lat. omitted : and people.]
@@ -343,8 +330,6 @@ t1 ac populi, Lat. omitted : and people.]
 [9 Sacramentum ordinationis. — Id. do Bono Conjug. cap. 24. Opp. Tom. vi.]
 
 [10 August, de Bono Conjug. cap. 18. Contra litt. Petil. Lib. n. cap. 104. Horn. 83. de Diversis. De Peccat. Merit. Lib. n. cap. 26. Sentent. Excerp. 335. St. Hilary speaks of the sacrament of prayer, in Matth. cap. v. 1.]
-
-248 THE FIFTH DECADE. [sEKM.
 
 now and then among them he reckoneth up the sacraments of the scripture 1 : so that we may easily see, that in his works the word "sacrament" is now used one way, and sometimes another. For he calleth these sacraments, because, being holy, they came from the Holy Ghost ; and because they be holy institutions of God, observed of all that be holy : but yet so, that these differ from those sacraments which are holy actions consisting of words and ceremonies, and which gather together into one fellowship the partakers thereof. But Rabanus Maurus also, bishop of Mentz2, a diligent reader of Augustine's works, Lib. De Instit. Cleric, cap. xxiv. saith : " Baptism and unction, and the body and blood, are sacraments ; which for this reason are called sacraments, because, under a covert of corporal things, the power of God worketh more secretly our salvation signified by these3 sacraments : whereupon also, for their secret and holy virtues, they are called sacraments4." This Rabanus Maurus was famous about the year of the Lord eight hundred and thirty ; so that even by this we may gather, that the ancient apostolic church had no more than two sacraments. I make no mention here of Ambrose; although he, in his books of sacraments, numbereth not so many as the company of schoolmen do : because some of those works, set forth in his name, are not received of all learned men as of his own doing5. So I little force the authority of the works of Dionysius, which of what price and estimation they be among learned and good men, it is not needful to declare6. But howsoever the case standeth, the holy scripture, the only and infallible rule of life and of all things which are to be done in the church, commendeth baptism and the Lord's supper unto us, as solemn institutions and sacraments
 
@@ -422,8 +407,6 @@ Now the word in the sacraments is called, and is indeed, The word a witnessing o
 
 [8 ipsum, Lat. : the very.] [9 Sec Vol. I. pp. 143 and 173.]
 
-252 THE FIFTH DECADE. [sBRM.
-
 the Lord tins is the word of God : " Jesus took bread," &c. And the rite, custom, and manner, how to celebrate the supper l, is to be sought out of tho example of the Lord going before in the holy action, wherein we comprehend both prayers and those things which are recited out of the word of Christ. For as he brake bread and divided it, and in like manner the cup ; so likewise, with holy imitation and sacramental rite, we follow the same in this2 holy action. As he gave thanks, so also we do give thanks. We by certain prayers in baptism3 do request the assistance and grace of the Lord ; we recite certain places out of the gospel, which we know to be requisite in the administration of baptism4; and we are wont to do the same also in the celebration of the Lord's supper. But it is not my intention at this present to speak largely and exactly of the rites of the sacrament5; which notwithstanding we hold to be best, that are taken out of the holy scripture, and do not exceed6 : of which shall be spoken in their place. Promiseand Some instead of "the word11 do put "promise;" and instead ceremony. r ) *■ of " rite," " ceremony.11 And truly in the word " ceremony11 1 see no danger at all, if by ceremony be understood the outward comeliness7 and rite, which the Lord himself hath commended to us by his example, and left to be used in the celebration. And in very deed, sacramental signs are not simple or bare signs, but ceremonies or religious actions. So also there seerueth to be no danger in the word " promise;" so that by promise we understand the preaching of the gospel, and the commemoration or remembrance of God's promises, which we often use in the preaching of the gospel and celebration of the sacraments8; that is to say, that God doth receive us into his fellowship for Christ his sake through faith, doth wash away our sins, endueth us with divers graces ; that Christ was given for our sins, shed his blood to take away the sins of all faithful. For in celebrating of baptism we use these words of the Lord: " Suffer little children to come unto me ; for unto such belongeth the kingdom of heaven," &c. In the cele-
 
 [l how — supper, not in Lat.] [2 this, not in Lat.]
@@ -447,8 +430,6 @@ But if any man by "promise" do understand "covenant," whereby the Lord doth sing
 [10 constituto, Lat. omitted: placed.] [n rigide, Lat.]
 
 [12 Celebris, Lat.]
-
-254 THE FIFTH DECADE. [SERM.
 
 blood shed for us. But of this thing in place convenient we ■will entreat more at large.
 
@@ -482,8 +463,6 @@ The apostles indeed said to the sick, feeble, and lame, in the name "In the name
 
 [9 Rather, being healed, they rose up.] [10 If, not in Lat.]
 
-256 THE FIFTH DECADE. [sERM.
-
 unto you all, in1 the name of Jesus Christ of Nazareth this man standeth here whole." And to the same people he saith2 : " And his name, through faith in his name, hath made this man sound, whom ye see and know ; and the faith which is by him hath given to this man health." Beside these, we Acts xix. read in the Acts of the Apostles, that the sons of one Scseva a priest, being exorcists or conjurers, did call on the name of the Lord Jesus over them that had evil spirits ; but these were so far off from giving place to their exorcisms and conjurings, that they ran on them and overcame them, so that they had much ado to escape alive3. Where it is most apparent, that those exorcists used the same form almost in their enchantments, which the apostle4 used ; for in the name of the Lord Jesus they proved5 to cast out the foul spirit. But sith they6 were not able so to do, who cannot see and perceive, that the words pronounced do prevail nothing at all ? Neither is that any let or hinderance at all, that those exorcists were without faith ; for this is a thing very well known and received of all men, that sacraments are no less effectual when they are ministered by wicked ministers, than when they are ministered by the best ministers. The place of But here is objected against us this saying of the apostle :
 
 thTfifth " Christ gave himself for the church to sanctify it, cleansing sianslseL6" it1 in the fountain of water by the word," or, in the word. Behold, say they, men are cleansed by the water of baptism, which by the word hath the force of sanctifying put into it : therefore it must needs be, that words have force to sanctify. But I will confute them by an evident demonstration, that the apostle did not so mean as they suppose.
@@ -510,8 +489,6 @@ make it to himself a pure 8 and glorious spouse. "Where, by the way, he sctteth 
 
 [bullixger, IV.]
 
-258 THE FIFTH DECADE. [sERM.
-
 power1 unto the words? Therefore all boasting in the force of words shall bo clean taken away2. Doth not faith and godliness tell us, " by the word of the Lord" we should rather understand this which is declared by the preaching of the Lord ; that is, the death and redemption of Christ, whereby because they believed it they are cleansed? For in another place he saith, " purifying their hearts by faith." Wherefore they err in that, because they do not rightly judge of the word or speech. For the Lord speaketh of the word preached and believed ; and they understand him of the word pronounced, as though being pronounced it had force from the Lord to sanctify. St Augustine also maketh for us ; who in his 80 th treatise upon John saith : " From whence cometh so great virtue and power unto the water, that it should touch the body and wash the heart, but through the working of the word ; not because it is spoken or pronounced, but because it is believed ? For in the word itself, the sound passing away is one thing, and the virtue which remaineth is another thing. ' This is the word of faith which we preach,"' saith the apostle; 'because if thou shalt confess with thy mouth that Jesus is the Lord, and believe with thy heart that God hath raised him from the dead, thou shalt be saved. For with the heart man believeth unto righteousness, and with the mouth confession is made unto salvation.1 Whereupon we read in the Acts of the Apostles, 'purifying (or cleansing) their hearts by faith.' And St Peter in his epistle saith : ' So also baptism saveth us ; not the putting away of the filth of the flesh, but in that a good conscience maketh request to God3.' This is the word of faith which we preach, wherewith undoubtedly baptism is also consecrated, that it may have power to cleanse. For Christ with us the vine, with his Father the husbandman, hath loved his church, and gave himself for it. Read the apostle, and mark what he addeth, saying : • that he might sanctify it, cleansing it by the fountain of water in the word.' In vain therefore should cleansing be attributed to a frail and vading element, unless this were added, 'in the word4.'"
 
 [- illam potostatem, Lat. : that power.]
@@ -525,8 +502,6 @@ Xow if a man do consider the mvsteries of the saints or The word*
 " spoken do holy men in old time, he shall not find in the celebration of n^^™, circumcision, the feast of the passover, and sacrifices, any 1%™™%!* words to have been spoken or pronounced, whereby they were formed, and as it were created, sacraments, and were made effectual. To which belongeth this, that John Baptist did not only baptize the common people without respect of person, but the Lord Jesus himself also in the water of Jordan ; no faciente verbo ? Non quia dicitur, sed quia creditur. Nam et in ipso Terbo aliud est sonus transiens, aliud virtus manens. Hoc est verbum fidei quod prsedicamus, ait apostolus; quia si confessus fueris in ore tuo quia Dominus est Jesus, et credideris in corde tuo quia ilium suscitavit a mortuis, salvus eris : corde enim creditur ad justitiam, ore autem confessio fit ad salutem. Unde in Actibus apostolorum legimus, Fide mundans corda eorum. Et in epistola sua beatus Petrus, Sic et nos, inquit, baptisma salvos facit, non carnis depositio sordium, sed conscientise bonse interrogatio. Hoc est verbum fidei quod prsedicamus, quo sine dubio, ut mundare possit, consecratur et baptismus. Christus quippe nobiscum vitis, cum Patre agricola, dilexit ecclesiam, et semetipsum tradidit pro ea. Lege apostolum, et vide quid adjungat ; ut earn sanctificaret, ait, mundans earn lavacro aquse in verbo. Mundatio igitur nequaquam fluxo et labili tribueretur elemento, nisi adderetur, In verbo. — August. Expos, in Evan. Joan. Tract, lxxx. Opp. Tom. ix. fob 91, col. 2. Par. 1531.]
 
 17—2
-
-260 THE FIFTH DECADE. [sKKM.
 
 words in the mean while being pronounced, -whereby he called and drew down the heavenly grace over or upon the water of baptism. Again, whiles Christ our high bishop did institute his supper in the gospel, he commanded nothing to be spoken or pronounced, by virtue of which speech or pronunciation the elements might either be changed, or the things signified, being drawn down from heaven, should be present with or joined to the signs : but what the Lord hath simply done, and what his will was we should do, after what manner and to what end he instituted his supper, the evangelists have declared. We read in no place that the Lord said, As often as ye speak or pronounce these my words, " This is my body, This is my blood," it shall come to pass by the virtue of my words, that the substance of the sign shall be made void ; and that in the same prick of time, wherein the words are spoken, it shall begin to be the true body and the true blood of the Lord, under the forms or likenesses of bread and wine; or that the forms or likenesses and the truth of the sign remaining, it shall begin at once, with the bread and wine, to be the very body and blood of Christ. Wherefore, in the pronouncing or speaking of the words of the Lord in the supper, there is no power or virtue either to call down the things signified, or to change the things present1. These imaginations do rather seem more to maintain superstition than religion ; as though the words, pronounced according to the form conceived, had power to call down out of heaven, to bring from one place to another, to restore health, to draw to, to put from, or to transform or change. St Augustine reckoneth up among superstitious vanities those things which for remedies of diseases are tied or fastened about the body ; which also physic maketh no account of; whether it be in charming2, or in certain signs called characters, or in hanging certain things about some part of the body. The place is to be seen Cap. 20, Li. De Doct. Christ. 2.3 Chrysostom4, being very angry with them that
 
@@ -556,8 +531,6 @@ ing is turned into flesh. Their examples are these and of ExCd." wl this sort : 
 
 [7 So also ed. 1584; but 1577, foolishly.]
 
-262 THE FIFTH DECADE. [sERM.
-
 smitten with Aaron's rod1 ; the river Nilus turned into blood; the water at the marriage in Cana of Galilee turned into wine ; the bitter waters of Marath changed into sweet water ; and Moses his rod turned into a serpent. But, I beseech you, what make these to the Lord's supper, wherewith they have no manner of similitude or likeness ? So that this must needs be an unapt2 comparison3 and a doltish which they make : The river Nilus was turned into blood, therefore the bread is turned into flesh : the water at the marriage in Cana was changed into wine, therefore the wine in the Lord's supper is changed into the blood of Christ. For while that the water gushed out of the rock when it was smitten, while the river Nilus was turned into blood, while the water of the marriage was changed into wine, while the bitter waters of Marath became sweet, while Moses' rod was turned into a serpent ; the water truly, the blood, the wine, the sweet water, and the serpent, so turned and changed, were not under the form or likeness of those things which they were before; neither were they at once that which they were before, and that which they were then made : but the water of Nilus was very blood, not water and blood together ; neither was there invisible blood under the visible form of water. And so stands the case also in the other examples. Therefore they do nothing agree with the sacramental signs ; but are so far from being like them, that they are altogether unlike them. Moreover, who can well tell by what pronunciation of words Moses made water burst out of the hard rock, turned the river Nilus into blood, changed the bitter waters into sweet ? Who knoweth what form also of words the Lord used, when he changed water into wine ? Therefore very fitly4 do they apply these examples to their blessing or consecration, changing the natures of things ; since it cannot be shewed what manner blessings the saints or holy men used. Likewise we read not that Moses and Joshua pronounced any words of blessing, whereby they divided the channel of the Erithian5 sea and the river
 
 [J with Aaron's rod, not in Lat.]
@@ -583,8 +556,6 @@ That which I have said I will confirm by the authority of the evangelists and ap
 [6 So also ed. 1584 ; but 1577, give him thanks.]
 
 Thanksgiving and blessing.
-
-2G1 THE FIFTH DECADE. [sERM.
 
 gelists use the word of blessing or thanksgiving indifferently. For -where Mark hath ev\oyt)aa($, that is to say, " blessing," Matthew, Luke, and Paul have ev-^apt(jTi)(ja(i, that is to say, " giving: thanks :" -which word Mark also using a little after writeth : " And when he had took the cup," evyapiart'jaa^, that is, "when he had given thanks, he gave to them1." To bless therefore is, as the apostles themselves do interpret it, to give thanks, since that they put the one for the other. The diligent reader may see them2 also in that place of Paul, which is 1 Cor. x. cap. ; which place we will fully and wholly entreat of in that which followeth. Our adversaries therefore have not as yet proved out of the scriptures, that to bless is as much as to change the things ; or that by words, pronunciation or reciting of words, the things themselves signified are brought to, or made present3. The ancient writers, truly, made mention of a mystical blessing, but in a far other sense than these consecrators. Of true consecration we will speak anon; and will confute also in another place whatsoever things they have brought concerning blessing or consecrating of baptism. Now we will make an end of that which we began. Words of themselves were instituted of God to this end, to signify; and by signifying to bear witness, and to admonish: neither have they beside any hidden force to change the natures of things, or to cause the things themselves to be corporally present ; neither do we read that holy men ever used them after this manner : therefore they sin and deceive men, which otherwise use them than they were instituted. For what Aurel. Augustine acknowledged4 the very same thing, who in wordsareinhis Enchiridion ad Laurent. Capit. 22, saith : "And verily st i tuted, and . . . ... , , , of what force words to this purpose are instituted, not that men should the} are. , * * '
 

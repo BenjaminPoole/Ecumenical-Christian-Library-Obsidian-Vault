@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Come, My Beloved!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2360
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Make haste, my Beloved, and be like a roe or a young hart upon the mountains of spices." Song of Solomon 8:14.
 
@@ -117,7 +114,7 @@ But you who have trusted Christ, you whom He has saved—you will draw near to H
 
 Oh, that you who have never trusted Him, would trust Him, now! And if you trust Him, you shall live with Him forever and ever. God grant it! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 22.
+## Exposition by C. H. Spurgeon: Revelation 22
 
 Verse 1. And he showed me a pure river of water of life, clear as crystal, proceeding out of the Throne of God and of the Lamb. There is no other "water of life" except that which springs from a Sovereign God and a substitutionary Sacrifice—"a pure river of water of life, clear as crystal, proceeding out of the Throne of God and of the Lamb." This sets forth the blessings of salvation that come to us through the Sovereign Grace of God by the precious blood of Jesus.
 
@@ -166,7 +163,6 @@ fruits." They shall find a constant succession of blessings—"and yielded her f
 "Come, You, the soul of all our joys You, the desire of nations, come!"
 
 21\. The Grace of our lord Jesus Christ be with you all. Amen. The whole Inspired Volume thus closes with a benediction—"The Grace of our Lord Jesus Christ be with you all. Amen."
-
 
 ---
 [[Sermon 2359 Personal and Effectual Calling|← #2359]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2361 Hopeful, Yet Doubtful|#2361 →]]

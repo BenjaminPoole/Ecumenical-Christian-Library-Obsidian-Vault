@@ -9,7 +9,6 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # An Earnest Appeal to Men of Reason and Religion
 
 John vii. 51.
@@ -536,7 +535,7 @@ Now, Lord, the glorious fulness give,
 
 And all in all for ever live.
 
-PART II.
+## Part II
 
 1 JESUS, from whom all blessings flow,
 

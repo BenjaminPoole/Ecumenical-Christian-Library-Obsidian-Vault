@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # A Glorious Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 628
 
-DELIVERED ON SUNDAY MORNING, MAY 7, 1835 BY C. H. SPURGEON AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 7, 1835 by C. H. Spurgeon at the Metropolitan Tabernacle, Newington*
 
 > "Husbands, love your wives, even as Christ also loved the Church, and gave Himself for her, that He might sanctify and cleanse her with the washing of water by the Word, that He might present her to Himself a glorious Church, not having spot, or wrinkle, or any such thing, but that she should be holy and without blemish." Ephesians 5:25-27.
 
@@ -49,7 +48,7 @@ We have to search for these chosen ones in what is called the Church visible. We
 
 Now observe what this Church was by nature, for that is the subject of our discourse just now upon this first head. The Church which Christ loved was in her origin as sinful as the rest of the human race. Have the damned in Hell fallen through Adam's transgression? So, once, had the saved in Glory. The sin which was imputed to lost spirits was equally and with as fatal consequences imputed to them—and had it not been for the incoming of the Covenant Head, the second Adam—they had forever suffered with the rest. They, too, were alike depraved in nature.
 
-Is the heart deceitful above all things in the unregenerate? So it is in the elect before regeneration. Was the will perverse? Was the understanding darkened? Was the whole head sick and the whole heart faint in the case of those who con- tinued in sin? It was just the same, at first, with those who have been, by Sovereign Grace, taken into the heart of Christ. "We were," says the Apostle, "by nature the children of wrath even as others." Remember that between the brightest saint in Heaven and the blackest sinner in Hell there is no difference except that which Christ has made! Had those glorified ones been left to continue in their natural state they would have sinned as foully and as constantly as the worst of sinners have done.
+Is the heart deceitful above all things in the unregenerate? So it is in the elect before regeneration. Was the will perverse? Was the understanding darkened? Was the whole head sick and the whole heart faint in the case of those who continued in sin? It was just the same, at first, with those who have been, by Sovereign Grace, taken into the heart of Christ. "We were," says the Apostle, "by nature the children of wrath even as others." Remember that between the brightest saint in Heaven and the blackest sinner in Hell there is no difference except that which Christ has made! Had those glorified ones been left to continue in their natural state they would have sinned as foully and as constantly as the worst of sinners have done.
 
 To begin with, there is no difference between the election and the non-election. They are all alike fallen. "They are all gone out of the way—they are altogether become unprofitable. There is none that does good, no, not one." No, more! This Church of Christ is made up of persons who are actually defiled by their own transgressions. Are you and I members of that Church? Ah, then we are compelled to confess that in us by nature dwelt all manner of concupiscence, vileness, and an evil heart of unbelief ever prone to depart from the living God and to rebel against the Most High. And what have we done since? Or rather, what have we not done?—
 
@@ -139,7 +138,7 @@ But Jesus Christ has a sacred art, having in Himself, by the washing of water, e
 
 Very good, Dr. Lightfoot, but the Jew cannot wash wrinkles out. He can wash away the dirt, but he cannot get rid of the wrinkle. But Christ can banish away both. Another good writer says that perhaps there is an allusion here to the fuller's trade. The fuller gets out the spots first and then as the cloth may have been so folded up that there are creases and wrinkles in it, he uses different stretching and milling till at last he manages to get out the creases and wrinkles from the cloth as well as the spot. I do not know whether there is an allusion to that, but this I know—there shall not be a spot of sin on any of God's people, nor yet a wrinkle of infirmity!
 
-They shall lose the effect of old age and weakness in their bodies and they shall lose the defects and infirmities in their souls. The outward spot shall be removed and the inward deformity, which was like a wrinkle ingrained into their very nature, shall also be taken away. But do observe the next word. The Holy Spirit seems to exhaust language to describe this purity. He says, "Without spot, or wrinkle, or any such thing!" She shall have nothing like a spot, nothing that can be construed as a wrinkle—she shall be fair and the world shall be compelled to acknowledge that she is. The eyes of God shall look upon her. And though He sees in darkness and discovers the hidden things of night, even He shall discern nei- ther spot, nor wrinkle, nor any such thing in any one single part of the body or the soul of any one of the members of the mystical body of Christ!
+They shall lose the effect of old age and weakness in their bodies and they shall lose the defects and infirmities in their souls. The outward spot shall be removed and the inward deformity, which was like a wrinkle ingrained into their very nature, shall also be taken away. But do observe the next word. The Holy Spirit seems to exhaust language to describe this purity. He says, "Without spot, or wrinkle, or any such thing!" She shall have nothing like a spot, nothing that can be construed as a wrinkle—she shall be fair and the world shall be compelled to acknowledge that she is. The eyes of God shall look upon her. And though He sees in darkness and discovers the hidden things of night, even He shall discern neither spot, nor wrinkle, nor any such thing in any one single part of the body or the soul of any one of the members of the mystical body of Christ!
 
 Oh what perfection, Beloved, is this! I cannot speak of it, but I can delight in thinking of it! I was trying to think last night what I should be like when I was freed from my spots and wrinkles. Ah, you can all see them now—I wonder you put up with them sometimes! But what shall I be when I have parted with them forever? And I shall get rid of them. Death is stamped on every infirmity—the Lord has put the poison into the heart of my inbred sins and bless His name for it. But what will you and I be like when we are perfect?
 
@@ -154,7 +153,6 @@ Then the virgins with their lamps trimmed shall go forth to meet Him and His Chu
 Let us long for His appearing. Let this bright hope sustain you in the dreary months of waiting and the weary hours of fighting, "He comes! He comes!" And when He comes He will be glorified in all His saints and admired in those that have believed on Him. I would to God we were all members of His Church! There is only one token of membership which is infallible and that is saving faith in Christ. If you believe in Jesus you shall be without spot or wrinkle. But if you believe not, you are not of His Church, and neither shall you be a partaker of His cleansing power nor of His glorious advent.
 
 God give you a new heart and a right spirit and wash you with water this day by the Word, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0627 Justification And Glory|← #627]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0629 Jericho Captured|#629 →]]

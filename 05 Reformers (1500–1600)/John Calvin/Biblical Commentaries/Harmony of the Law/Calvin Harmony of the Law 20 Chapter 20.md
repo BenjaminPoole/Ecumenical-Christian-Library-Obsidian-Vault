@@ -11,12 +11,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 20. Chapter 20
 
 ## Exodus 20:18-21
 
-**EXODUS 20**
+## **Exodus 20**
 
 **18.** And all the people saw the thunderings, and the lightning’s, and the noise of the trumpet, and the mountain smoking: and, when the people saw it, they removed, and stood afar off.
 

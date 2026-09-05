@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Help for Your Sickness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2124
-
-DELIVERED BY.
 
 > "When evening was come, they brought unto Him many that were possessed with devils: and He cast out the spirits with His word, and healed all that were sick: that it might be fulfilled which was spoken by Isaiah the Prophet, saying, He took our infirmities, and bore our sicknesses." Matthew 8:16,17.
 
@@ -110,7 +107,6 @@ Dear Heart, you have come here tonight full of the disease of sin and you are sa
 "There is life for a look at the Crucified One; There is life at this moment for you." God give you the look and give you the life, even now, for Jesus Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Isaiah 53.
-
 
 ---
 [[Sermon 2122 A Straight Talk|← #2122]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2126 Something Done for Jesus|#2126 →]]

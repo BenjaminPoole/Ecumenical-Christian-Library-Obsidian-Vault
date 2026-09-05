@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # David's First Victory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2913
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine and slew him, but there was no sword in the hand of David." 1 Samuel 17:50.
 
@@ -104,7 +101,6 @@ to God!
 I would we were all on the Lord's side—that we were all the soldiers of Christ. Do any here confess that they are not? Are there any of you who feel sin lying heavily upon you and yet you gladly would be at peace with God, in fellowship with Jesus? Beloved, Jesus has never yet rejected one that came to Him! It has never yet been said that His blood was not able to cleanse the vilest soul! Go to Him! You cannot give Him greater joy than by going to Him and confessing your sin and seeking His mercy. He wants to be gracious. He slays sin, but He takes pity on sinners. He is ready to pardon them. He is the enemy of Goliath, but He sits on Zion's hill, glad to welcome the very poorest of the poor that come to Him. If you are the worst sinner that ever lived, He is still able to save to the uttermost! If you have no hope and no con-fidence—if you feel as though sentence had gone forth that you should die forever, your fears are not due to God's counsels. He has not spoken the bitter things you have imagined against yourself! Give ear to what He has said—"Let the wicked forsake his way, and the unrighteous man his thoughts; and let him return unto the Lord, and He will have mercy upon him; and to our God, for He will abundantly pardon."
 
 Oh, to be on Christ's side maintains the heart in calm and inflames the soul with joy, notwithstanding the pain that now tortures your nerves, or the shame that mantles your cheeks! But ah, to be on the other side—to be an enemy of Jesus—is a woe that blights all present joy and promises all future curses! The future, the future, the future! This is the worst of all to be dreaded. "Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him." The Lord give you, every one of you, to be thus timely wise, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2912 Comfort for Tried Believers|← #2912]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2914 A Mournful Defection|#2914 →]]

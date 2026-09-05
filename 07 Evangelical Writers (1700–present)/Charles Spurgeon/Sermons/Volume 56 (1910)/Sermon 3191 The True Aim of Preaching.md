@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The True Aim of Preaching
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3191
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Be it known unto you, therefore, brethren, that through this Man is preached unto you the forgiveness of sins." Acts 13:38.
 
@@ -87,7 +84,7 @@ Now, you need not ask tonight whether you are God's elect. I ask another questio
 
 But if you believe not, you are in the gall of bitterness and in the bonds of iniquity. May eternal mercy bring you out of that state, yes, bring you out of it tonight! Oh, that I had the time and power to plead with some here who know that Christ died, who know that He can save, who know the Gospel—but who still do not trust in that Gospel for their salvation! Oh, may you be led to do it and to do it now, before this day is over! We want and pray for the conversion of many more beside you. If we had these souls given to us, what a token for good would it be, and what a comfort! May the Lord bring you in, and bring you in tonight! Oh, trust Him, Soul, trust Him! May God help you to trust Him, and His shall be the praise, world without end!
 
-EXPOSITION BY C. H. SPURGEON: LUKE24.
+## Exposition by C. H. Spurgeon: Luke 24
 
 Verses 1-11. Now upon the first day of the week, very early in the morning, they came to the sepulcher, bringing the spices which they had prepared, and certain others with them. And they found the stone rolled away from the sepulcher And they entered in and found not the body of the Lord Jesus. And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments: and as they were afraid, and bowed down their faces to the earth, theysaid to them, Why do you seek the living among the dead?He is not here, but is risen. [See Sermon #1106, Volume 19—
 
@@ -127,8 +124,7 @@ Did not our heart burn within us while He talked with us on the way, and while H
 
 —Adapted from The C. H. Spurgeon Collection, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3190 Christ in Gethsemane|← #3190]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3192 The Soul's Food and Drink|#3192 →]]

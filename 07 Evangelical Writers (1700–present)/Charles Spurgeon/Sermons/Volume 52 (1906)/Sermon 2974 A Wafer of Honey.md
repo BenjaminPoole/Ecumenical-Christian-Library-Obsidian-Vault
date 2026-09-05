@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Wafer of Honey
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2974
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My Grace is sufficient for you." 2 Corinthians 12:9.
 
@@ -75,7 +72,7 @@ I will say no more except to commend this assurance to you and ask you to take i
 
 There are some of you to whom the text does not apply, except in this light—you have many sins—but if you trust Christ, His Grace is sufficient for you. You have been head over heels in the kennel of sin, but the power of His blood is sufficient to make you white. And even if you have become a very prince and peer in the dominions of evil, the Grace of Christ is sufficient to wash you whiter than the driven snow! May the Lord add His blessing on these feeble rambling remarks, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 3:9-27; 5:6-11; 8:1-32.
+## Exposition by C. H. Spurgeon: Romans 3:9-27; 5:6-11; 8:1-32
 
 Romans 3:9. What then? Are we better than they?The first chapter of the Epistle to the Romans contains so horrible an account of the manners of the Gentiles, the heathen of Paul's day, that it is one of the most painful chapters in Scripture to read. Not long ago, one of our missionaries out in China was attacked concerning the Bible on this very ground. One of the learned men said to him, "This Bible of yours cannot be as ancient as you say that it is, for it is quite clear that the next chapter of the Epistle to the Nomads must have been written by somebody who had been in China and who had seen the habits and ways of the people here." So accurate is the Holy Spirit, who knew right well what the ways and manners and secret vices of the heathen were, and still are! But the Jews said, "Ah, but this is a description of the Gentiles." So Paul replies, "What then? Are we better than they?"
 
@@ -134,7 +131,6 @@ Jesus." Our forefathers used to read this verse, "There is therefore now no damn
 22, 23. For we know that the whole creation groans and travails in pain together until now. And not only they, but ourselves, also, which have the first fruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit the redemption of our body. We groan in unison with a groaning creation and we shall not, at present, get altogether rid of our aches, pains and sicknesses.
 
 24-32. For we are saved by hope: but hope that is seen is not hope: for what a man sees, why does he yet hope for? But if we hope for what we see not, then do we with patience wait for it. Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit Himself makes intercession for us with groans which cannot be uttered. And He that searches the heart knows what is the mind of the Spirit, because He makes intercession for the saints according to the will of God. And we know that all things work together for good to them that love God, to them who are the called according to His purpose. For whom He did foreknow, He also did predestinate to be conformed to the image of His Son, that He might be the firstborn among many brethren. Moreover whom He did predestinate, them He also called: and whom He called, them He also justified: and whom He justified, them He also glorified. What shall we say, then, to these things? If God is for us, who can be against us? He that spared not His own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things?
-
 
 ---
 [[Sermon 2973 Thought Condemned, Yet Commanded|← #2973]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2975 Forgetting God|#2975 →]]

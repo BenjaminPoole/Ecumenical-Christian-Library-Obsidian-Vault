@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Broken Fence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3381
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I went by the field of the lazy mam, and by the vineyard of the man void of understanding; and lo, it was all grown over with thorns, and nettles had covered its surface, and the stone wall was broken down. Then Isaw, and considered it well: I looked on it and received instruction." Proverbs 24:30-32.
 
@@ -27,7 +24,7 @@ This picture of the slothful man and his garden and field overgrown with nettles
 
 Come, then, let us take a walk with Solomon and stand with him and consider and learn instruction while we look at this broken-down fence. When we have examined it, let us consider the consequences of broken-down walls. And then, in the last place, let us try to wake up this sluggard that his wall may yet be repaired. If this slothful person should be one of ourselves, may God's Infinite Mercy awaken us before this ruined wall has let in a herd of prowling vices! First, let us take—
 
-I. A LOOK AT THIS BROKEN FENCE.
+## I. A Look at This Broken Fence
 
 You will see that in the beginning it was a very good fence, for it was a stone wall. Fields are often surrounded with wooden fences which soon decay, or with hedges which may very easily have gaps made in them. But this was a stone wall. Such walls are very usual in the East and are also common in some of our own counties where stone is plentiful. It was a substantial protection to begin with and well shut in the pretty little estate which had fallen into such bad hands. The man had a field for agricultural purposes and another strip of land for a vineyard or a garden. It was fertile soil, for it produced thorns and nettles in abundance—and where these flourish, better things can be produced—yet the idler took no care of his property, but allowed the wall to get into bad repair and in many places to be quite broken down.
 
@@ -67,7 +64,7 @@ Remember, lastly, the coming of the Lord Jesus Christ. Shall He come and find yo
 
 As for you, my unconverted Friend, if you go dreaming through this world without any sort of trouble, and never look to the state of your heart at all, you will be a lost man beyond all question! The slothful can have no hope, for "if the righteous scarcely are saved," who strive to serve their Lord—where will those appear who sleep on in defiance of the calls of God? Salvation is wholly and alone of Grace, as you well know—but Grace never works in men's minds towards slumbering and indifference—it tends towards energy, activity, fervor, importunity, self-sacrifice! God grant us the indwelling of His Holy Spirit, that all things may be set in order, sins cut up by the roots within the heart and the whole man protected by sanctifying Grace from the wasters which lurk around, hoping to enter where the wall is low. O Lord, remember us in mercy, fence us about by Your power, and keep us from the sloth which would expose us to evil, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:1-20.
+## Exposition by C. H. Spurgeon: Psalm 119:1-20
 
 It is not easy to see the special subjects that are spoken of by David in each of the short portions of eight verses, yet I do not doubt that if each portion were carefully examined, we would see that there is some thread running through. We have not here simply a number of pious sentences about the excellency of God's Word, but we have choice gems, each of them set in a golden ring of spiritual intent and purpose. I think the first eight verses, all of which begin with that letter Aleph, or A, set forth the excellence of abiding in holiness and walking continually in the way of the Lord. Not so much the restoring and comforting power of the Word, as the blessedness of that Word in leading us to conduct ourselves in consistency of character at all times.
 
@@ -116,7 +113,6 @@ Now, in the next eight verses it seems to me that the subject is somewhat differ
 20\. My soul breaks for the longing that it has unto Your judgments at all times. We cannot always say that, for we sometimes wish that our hearts would break. Sometimes we sing—
 
 "My heart rejoice or ache— Resolve this doubt for me. And if it is not broken, break And heal it if it be."
-
 
 ---
 [[Sermon 3380 Our Lord's Voluntary Poverty|← #3380]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3382 Our Lord's Transcendent Greatness|#3382 →]]

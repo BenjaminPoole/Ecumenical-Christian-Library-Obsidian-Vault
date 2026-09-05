@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 12
 
-**CHAPTER 12.**
+***Chapter 12.***
 
 ## Genesis 12:1-20
 

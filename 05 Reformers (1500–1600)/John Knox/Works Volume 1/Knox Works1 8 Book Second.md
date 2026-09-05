@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 8. Book Second
 
 THE SECOUND BOOK OF THE HISTORYE OF THINGIS DONE IN SCOTLAND, IN THE REFORMATIOUN OF RELIGIOUN, BEGYNNYNG IN THE YEAR OF GOD JM. VC. FYFTY AUCHT.
@@ -131,7 +130,7 @@ The day efter, whiche was the 25 day of Maij, befoir that the saidis Lordis depa
 
 "1st. I most humbillie require of yow, my Lordis, in my name, to say to the Quenis Grace Regent, that we, who sche in hir blynd raige doeth persecute, ar Goddis servandis, faithfull and obedient subjectis to the authoritie of this realme; that that religioun, whiche sche pretendeth to maynteyne by fyre and sweard, is nott the trew religioun of Christ Jesus, bot is expres contrarie to the same; a superstitioun devised be the brane of man; whiche I offer my selff to prove aganis all that within Scotland will maynteane the contrarie, libertie of towng being granted unto me, and Godis writtin word being admitted for judge.
 
-LETT THE PAPISTES, RATHER AMBITIOUS ROMANISTIS, JUDGE.
+## Lett the Papistes, Rather Ambitious Romanistis, Judge
 
 "2d. I farder require your Honouris, in my name, to say unto hir Grace, that as of befoir I have writtin, sa now I say, that this hir interpryise shall nocht prosperouslie succeid in the end; and albeit for a tyme sche truble the sanctis of God, for sche feghteth nocht aganis man onelie, bot against the eternall God and his invincible veritie; and thairfoir, the end shalbe hir confusioun, oneles betymes sche repent and desist.
 
@@ -163,7 +162,7 @@ The townis of Dundie and Sanctandrois war arrayed in ane uther battell, who come
 
 This ansuer receaved, the Duke and Monsieur Dosell, haveing commissioun of the Quene Regent, required that Assurance mycht be taikin for eight dayis, to the end that indifferent men in the meantyme micht commone upoun sum finall aggrement of those thingis whiche than war in controversie. Heirto did we fullie consent, albeit that in nomber and force we war far superiour; and for testificatioun heirof, we send unto thame our hand-writtis, and we lykewyis receaved thairis, with promess that within two or three dayis some discreat men should be send unto us, to Sanctandrois, with farther knawlege of the Quenis mynd. The tennour of the Assurance was this:—
 
-THE ASSURANCE.
+## The Assurance
 
 "We, James Duke of Chattellerault, Erle of Arrane, Lord Hammiltoun, &c., and MY LORD DOSELL, Lievtenant for the King in thir partis, for our selffis, our assistaris and partakeris, being presentlie with us in cumpany, be the tennour heirof promittis faithfullie of honour to My Lordis Archibald Erle of Ergyle, and James Commendatar of the Priorie of Sanctandrois, to thair assistaris and partakeris, being presentlie with thame in cumpany; That we, and our cumpany foirsaidis, shall reteir incontinent to Falkland, and shall, with diligence, transport the Frenchemen and our uther folkis now presentlie with us; and that na Frencheman, or other souldiouris of ouris, shall remane within the boundis of Fyffe, bot sa mony as befoir the raising of the last armye lay in Disart, Kirkcaldy, and Kinghorne, and the same to ly in the same places onelie, yf we shall think goode: And this to have effect for the space of eight dayis following the dait heirof *exclusive* , that in the meantyme certane Noble men, be the advise of the Quenis Grace, and rest of the Counsale, may conveane to talk of sick thingis as may maik goode ordour and quyetnes amongis the Quenis liegis. And further, we, nor nane of our assistaris, being present with us, shall invade, truble, or inquyet the saidis Lordis, nor thair assistaris, dureing the said space: And this we bind and obleise us, upoun our lautie, fidelitie, and honour, to observe and keape in everie point above writtin, but fraude or gyle. In witnes whairof we have subscrivit thir presentis with our handis.
 
@@ -543,7 +542,7 @@ Endis the Secound Booke of the Historye of the progresse of Religioun within Sco
 
 ## APPENDIX.
 
-APPENDIX
+## Appendix
 
 No. I.
 

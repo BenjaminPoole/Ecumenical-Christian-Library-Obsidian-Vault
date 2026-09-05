@@ -9,10 +9,7 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Joel
-
-**Calvin’s Preface to Joel**
 
 I proceed now to explain The Prophet Joel. The time in which he prophesied is uncertain. Some of the Jews imagine that he exercised his office in the time of Joram, king of Israel, because a dreadful famine then prevailed through the whole land, as it appears evident from sacred history; and as the Prophet record a famine, they suppose that his ministry must be referred to that time. Some think, that he taught under Manasseh, but they bring no reason for this opinion; it is, therefore, a mere conjecture. Others think that he performed his office as a teacher not only under one king, but that he taught, at the same time with Isaiah, under several kings.
 

@@ -10,10 +10,9 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 146
 
-**PSALM 146 [^1]**
+***Psalm 146 [^1]***
 
 After stirring up himself, and others by his example, to praise God, David animadverts upon the diseased disposition, almost universally prevalent, to deceive ourselves by expectations entertained from various quarters. He, at the same time, points out the remedy — that our whole hope should be centered in God. To persuade us to resort to him more readily, he touches shortly upon some proofs of his power and mercy.
 

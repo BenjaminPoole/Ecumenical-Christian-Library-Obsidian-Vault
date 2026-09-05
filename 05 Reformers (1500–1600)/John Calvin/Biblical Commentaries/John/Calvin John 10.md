@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## John 10:1-6
 

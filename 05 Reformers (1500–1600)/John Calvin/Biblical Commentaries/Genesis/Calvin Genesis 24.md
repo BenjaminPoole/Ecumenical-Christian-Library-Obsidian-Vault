@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 24
 
-**CHAPTER 24.**
+***Chapter 24.***
 
 ## Genesis 24:1-67
 

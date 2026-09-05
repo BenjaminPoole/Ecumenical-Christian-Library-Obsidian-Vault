@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Consulting With Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2778
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when the queen of Sheba heard of the fame of Solomon concerning the name of the Lord, she came to test him with hard questions...So Solomon answered all her questions: there was nothing so difficult for the king, that he could not explain it to her" 1 Kings 10:1-3.
 
@@ -102,7 +99,6 @@ Answer, first, this question—How can we come to Christ? He is in Heaven, so we
 "Yes," says one, "I would gladly come to Christ with my doubts and difficulties—and here is one question that I want Him to answer now. How is it that I read, in the Word of God, that He has limited a day, and yet you bid me come to Him now?" Yes, I do bid you come to Him now and, what is more, I tell you that His own Word is, "Him that comes to me I will in no wise cast out." "But is it not also true that He limits a day?" Yes, He does, but shall I tell you how He limits it? Again, He limits a certain day, saying by David, "Today, after so long a time, as it is said, Today if you will hear His voice, harden not your hearts." Blessed be His holy name, if He has limited you, He has limited you to today! And if I live to see your face tomorrow, I will still say the same to you. The limit is a very gracious one—it is "today." If ever a soul comes to Christ, when he comes, it is today—and if you come this day, you will be within the limit, for he has said, "Today if you will hear His voice, harden not your hearts." Today then, dear Soul, is within the boundary! This night, before you go to your home, you are just within the limit. "Today if you will hear His voice, harden not your hearts." Accept Him now! Trust Him now! Come to Him with your hard questions now! Come to Him with your hard doubts, come with your hard infidelity, come with your hard obstinacy! Come just as you are and cast yourself at those dear pierced feet of His, for there is not a question that He will not answer, not a difficulty that He will not overcome, nor a sin that He will not pardon—and send you away rejoicing!
 
 I think I hear someone say, "What is this all about? Are there really any people in the world who want God in this fashion?" Yes, there are, and we are grieved if you are not one of them, for, believe me, Friend, all who are living as if there were no God are missing everything that truly makes up life! I heard a young man say, "I would like to see a little life." Yes, I hope you will, and a great deal of life, too, but there is no life in the outskirts of vice—that is death, rottenness, stench, corruption—like the valley of Hinnom and the burning of Tophet. Flee from it! Life is to be found by coming to God—and by trusting Jesus you get to God and become the possessor of eternallife! Then, getting to know God, you help to make the world all alive. The very times and season will seem to have changed to you, for things are not what they once were. The wilderness and the solitary places rejoice and the desert blooms as the rose. If I could live ten thousand years on earth without my God, and perpetually swim in a sea of sensual delights, I would beg to be annihilated sooner than have to undergo such a doom! But let God send or withhold whatever He pleases of temporal favors, if He will but give me to know that He is mine and that I am His, it shall be all I will ask of Him! I mean what I say, and I believe that every child of God who has once enjoyed the full Light of His Countenance will say the same.
-
 
 ---
 [[Sermon 2777 The Queen of Sheba, a Sign|← #2777]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2779 Heart-communing|#2779 →]]

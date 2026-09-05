@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Tent Dissolved and the Mansion Entered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1719
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 6, 1883,.
+*Delivered on Lord's-Day Morning, May 6, 1883*
 
 > "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, eternal in the heavens." 2 Corinthians 5:1.
 
@@ -134,7 +133,6 @@ Faith had such an effect upon Paul that it made him always calm and brave. Why s
 How sad to know that you may die at any moment and to be unprepared for the change! I do not wonder that you are unhappy! You have good reason for being so. Oh that you were wise and would make the future sure by faith in the risen Lord! In Martin Luther's time and before his era, men who had lived evil lives were often in great fear when they came to die—and in their terror they would send to a monastery and procure a monk's robe in which to be buried. What a foolish fancy! Yet so it was that they hoped to fare better in the day ofjudgment for being wrapped in brown cloth and covered with a hood! Be ours a better garment! Here is a wish of holy Rutherford—"His believed love shall be my winding sheet and all my grave-clothes. I shall roll up my soul and sew it up in the web of His sweet and free love."
 
 Is not that your idea? It is surely mine! If we are laid to sleep in such a cloth, there will be no fear of our waking! It will happen to us as to the man who was laid in Elisha's grave and at once arose as soon as he touched the Prophet's bones. No man can lie dead if wrapped up in the love of Christ, for His love is life! He that has touched the love of Christ has touched the heart of the life of God and he must live! So let us give ourselves up to that Divine love and, trusting in our Lord, let us go onward to eternal bliss till the day breaks and the shadows flee away! Let us triumph and rejoice that there is prepared for us a "building of God, a house not made with hands, eternal in the heavens."
-
 
 ---
 [[Sermon 1718 Certain Singular Subjects|← #1718]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1720 Christ in You|#1720 →]]

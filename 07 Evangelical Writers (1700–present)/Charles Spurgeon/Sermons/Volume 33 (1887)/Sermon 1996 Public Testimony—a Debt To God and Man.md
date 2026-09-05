@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Public Testimony—a Debt To God and Man
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1996
-
-DELIVERED BY.
 
 > "Then they said to one another, We are not doing right. This day is a day of good news, and we remain silent. If we wait until morning light, some punishment will come upon us. Now therefore, come, let us go and tell the king's household." 2 Kings 7:9.
 
@@ -106,7 +103,6 @@ Only this I say to you—if you do not love my Master, then turn from your evil 
 "Tell it out among the heathen, That He reigns from the tree!"
 
 Sound it forth everywhere beneath yon arch of Heaven that Jesus Christ came into the world to save sinners. And add, "He has saved me." God bless you!
-
 
 ---
 [[Sermon 1995 The Heart—a Gift for God|← #1995]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1997 God's Longsuffering An Appeal to the Conscience|#1997 →]]

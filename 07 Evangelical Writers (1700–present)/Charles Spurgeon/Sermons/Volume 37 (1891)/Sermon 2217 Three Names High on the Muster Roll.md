@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Three Names High on the Muster Roll
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2217
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Shadrach, Meshach, and Abed-Nego answered and said to the king, O Nebuchadnezzar, we are not careful to answer you in this matter. If it is so, our God whom we serve is able to deliver us from the burning fiery furnace, and He will deliver us out of your hands, O king. But if not, be it known unto you, O king, that we will not serve your gods, nor worship the golden image which you ha ve set up." Daniel 3:16-18.
 
@@ -156,7 +153,6 @@ And all I have, and am, Lord,
 Shall henceforth be Your own." But I fear that I speak in vain to many who will turn away and say, "This world is for me." Well, if you make a choice of this world and of ease and pleasure for yourself, then you have chosen Egypt's treasures and you have disdained the reproach of Christ—and you shall find, one day, how dreadful a folly you have committed! God grant that you may find it out soon and not in the world to come! God bless you and save you, for Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Daniel 3.
-
 
 ---
 [[Sermon 2216 The Lad's Loaves in the Lord's Hands|← #2216]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2218 Is the Spirit of the Lord Straitened|#2218 →]]

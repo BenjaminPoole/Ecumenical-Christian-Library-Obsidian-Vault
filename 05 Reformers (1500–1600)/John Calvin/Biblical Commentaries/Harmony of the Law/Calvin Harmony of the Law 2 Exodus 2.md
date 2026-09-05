@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 2. Exodus 2
-
-**EXODUS 2**
 
 ## Exodus 2:1-10
 

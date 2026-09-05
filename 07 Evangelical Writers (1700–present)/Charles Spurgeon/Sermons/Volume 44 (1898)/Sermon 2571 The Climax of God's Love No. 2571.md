@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Climax of God's Love No. 2571
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2571
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it shall be at that day, says the Lord, that you shall call Me, Ishi; and shall call Me no more, Baali. For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name." Hosea 2:16,17.
 
@@ -110,7 +107,6 @@ I daresay the devil finds himself at home in Hell, or wherever his dwelling plac
 Paul said, and it was a grand utterance, "I bear in my body the marks of the Lord Jesus." When a Roman had a slave whom he did not mean to ever sell, or to part with—in his cruelty he branded him with his own name. Suppose that it was Caesar? He took his slave and burned the name of Caesar right into his flesh! So the Apostle says, "I bear in my body the marks"—the brand—"of the Lord Jesus. I am His forever! I never wish to run away from Him, nor can I." There are some friends about to be baptized. I only trust that they will receive the spiritual brand right into their soul. What a brand this Baptism is to a man! You see, it is not on his arm—so he cannot cut it off—it is all over him. It is a watermark that cannot be removed! You may go into sin, but you have been baptized, and that fact shall rise against you in judgment! Whatever you do, you have been professedly buried with Christ and if you are not dead, you have no business to be buried! But if you have lied to God and, during the rest of your life, if you turn away from Him, yet that mark is still upon you. Woe unto you, for you have been a deceiver!
 
 But the true and genuine Christian does not mind what mark he has, to tell to whom he belongs. "Set it on my forehead," he says, "for there I hope to wear it, by-and-by." "His servants shall serve Him and they shall see His face; and His name shall be on their foreheads." God grant that we may all come to that glorious condition, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2570 Jesus Sitting on the Well|← #2570]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2572 Fellowship With Christ|#2572 →]]

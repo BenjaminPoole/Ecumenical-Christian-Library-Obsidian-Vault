@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 217. Matthew 28:11-15
-
-**MATTHEW 28:11-15**
 
 **11.** And while they were departing, lo, some of the guards came into the city, and told the chief priests all things which had happened. **12.** And having assembled with the eiders, and entered into consultation, they gave a large sum of money to the soldiers, **13.** Saying, Say that his disciples came by night, and stole him, while you were asleep. **14.** And if this come to the ears of the governor, we will persuade him, and ensure your safety. **15.** And they took the money, and did as they had been instructed: and this statement is currently reported among the Jews till the present day.
 

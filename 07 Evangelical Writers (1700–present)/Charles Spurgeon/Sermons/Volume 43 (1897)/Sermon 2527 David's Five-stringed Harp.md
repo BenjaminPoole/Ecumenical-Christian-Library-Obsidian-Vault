@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # David's Five-stringed Harp
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2527
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I said unto the LORRD, You are my God: hear the voice of my supplications, O Lord. O God, the Lord, the strength of my salvation, You have covered my head in the day of battle. I know that the Lord will maintain the cause of the afflicted and the right of the poor. Surely the righteous shall give thanks unto Your name: the upright shall dwell in Your Presence." Psalm 140: 6,7,12,13.
 
@@ -152,7 +149,6 @@ Psalm 141:1. LORD, I cry unto You: make haste unto me; give ear unto my voice, w
 8\. Leave not my soul destitute. "If I have You, I am still rich. Even if I lie at the grave's mouth, I may still live. But if You are gone from me, then am I destitute, indeed."
 
 9, 10. Keep me from the snares which they have laid for me, and the traps of the workers of iniquity. Let the wicked fall into their own nets, while I escape. Amen! So let it be!
-
 
 ---
 [[Sermon 2526 Speak, Lord!|← #2526]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2528 Eating the Sacrifice|#2528 →]]

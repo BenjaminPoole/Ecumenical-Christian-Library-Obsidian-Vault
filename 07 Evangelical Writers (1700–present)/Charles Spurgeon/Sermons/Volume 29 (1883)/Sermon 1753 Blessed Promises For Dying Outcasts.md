@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Blessed Promises For Dying Outcasts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1753
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 2, 1883,.
+*Delivered on Lord's-Day Morning, December 2, 1883*
 
 > "For I will restore health unto you, and I will healyou of your wounds, says the Lord; because they called you an outcast, saying, This is Zion, whom no man seeks after." Jeremiah 30:17.
 
@@ -128,7 +127,6 @@ When you are healed, as I trust you are, already, speak well of your Benefactor.
 "Oh, but I could not embellish the tale!" Do not attempt to embellish it, for that would only spoil it! Tell the story as simply as possible. I think it is of Mr. Cecil that I have read the following incident. A friend came from some distance to inform him of a medicine which was to relieve him of his disorder. This friend told him all about it and, having done so, entered into conversation upon the current matters of the day. The result was that Mr. Cecil was greatly interested in the talk and when his friend was gone, he quite forgot every ingredient of the wonderful medicine. Beware of allowing the many things to drive the one thing necessary out of your friend's mind! When we preach fine sermons our hearers say, "That was prettily put." They do not so much notice what we taught as how we taught it—and this is a great evil! Even so, if you go and talk about your salvation to your neighbor and narrate it eloquently, she will say, "Mrs. So-and-So has been here and told me about her conversion in such beautiful language! I do not know that I ever heard such elegant sentences. It was most delightful to hear her." What did she say? "I do not know what she said, but it was very beautiful."
 
 Thus many a sermon or Sunday school address is overlaid and buried under its own robes! Pity that those we seek to bless should be more taken up with our pretty words than with our adorable Master! I hope I have not, this morning, fallen into the evil which I lament. Lest I should have done so in any measure I would make my text, my banner, and display it again. The Lord has said, "I will restore health unto you, and heal you of your wounds." I believed that Word of God when I was sick and wounded and, "the Lord was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the Lord."
-
 
 ---
 [[Sermon 1752 Mourners, Inquirers, Covenanters|← #1752]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1754 The Blind Man's Eyes Opened—or, Practical Christianity|#1754 →]]

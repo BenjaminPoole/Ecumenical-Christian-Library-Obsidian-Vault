@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Christ's Perfection and Precedence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2478
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My Beloved is white and ruddy, the chiefest among ten thousand." Song of Solomon 5:10.
 
@@ -149,7 +146,7 @@ Lift up your eyes to Heaven and see Him, there, bearing the Standard at the righ
 
 The Lord be with you, Beloved, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH61.
+## Exposition by C. H. Spurgeon: Isaiah 61
 
 Verse 1. The Spirit of the Lord GOD is upon Me. You know who it is that speaks these words, our Lord Jesus, Himself.
 
@@ -192,7 +189,6 @@ But there is another side to that picture, for when the "man" is a true child of
 Well did the Psalmist sing, "You have made him a little lower than the angels, and have crowned him with glory and honor." Angels do homage to the renewed man, for the promise is, "They shall bear you up in their hands, lest you dash your foot against a stone." You who are children of God need not wish to change places, even, with an archangel, for you are brother to Him who sits upon the Throne of God! You wear a nature that is akin to that of the Only-Begotten! Indeed, it is the same nature as His! Glory, then, in this great Truth of God—that you are covered with the robe of righteousness, decked with ornaments like a bridegroom, and adorned with jewels like a bride!
 
 11\. For as the earth brings forth her bud, and as the garden causes the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations. They are sown in the earth at present, but, as the seeds come up in the springtime beneath the genial showers and the shining of the sun, so righteousness and praise shall, in due time, come up in a golden harvest on every hill and valley of this poor sinful world! Hasten it, O Lord, hasten it in Your own good time! Amen.
-
 
 ---
 [[Sermon 2477 Darkness Before the Dawn|← #2477]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2479 Spices, Flowers, Lilies and Myrrh|#2479 →]]

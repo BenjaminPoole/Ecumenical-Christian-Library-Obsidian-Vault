@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Fear of Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3125
@@ -99,7 +98,7 @@ Thus I have shown you that to overcome the fear of death, we must look to Jesus 
 
 II. Now, secondly, WHAT SHALL WE THINK OF THAT MAY FURTHER HELP US TO OVERCOME THIS
 
-FEAR OF DEATH?
+## Fear of Death?
 
 First, let us remember that if we are called to die, we are called to do no more than Jesus Christ has done before us. When my body goes down to the grave, it will not be the first tenant of the sepulcher! Myriads of the saints have been there before and, best of all, the saints' Master and Lord has slept in the tomb! You remember that Jesus left the napkin folded by itself that mourners might use it in drying their tears—but the linen clothes, in which He had been wrapped— remained together so that our last bed might be well-sheeted, that our last sleeping room might not be unfurnished. More than that—
 
@@ -220,7 +219,6 @@ But I am afraid there are some here who have not any such prospect before them. 
 "I suppose Your Majesty has a palace ready over there." "No." "But I suppose you have provided everything that you will need there if you are going such a long way and never coming back? I suppose you have sent a good deal on and got everything provided for on ahead?" "No, Tom," said the king, "I have done nothing of the kind." "Here, then, Your Majesty, take my stick, for you are a bigger fool than I am."
 
 And if there is a man here who has made no provision for eternity and who has no mansion, no abiding place, no treasure, no Friend, no Advocate, no Helper there, he is a gigantic fool, be he who he may! The Lord give that fool a little sense and lead him to confess his folly and look to Jesus, who is Savior, Friend and Heaven all in one! God bless you, for Christ' s sake! Amen.
-
 
 ---
 [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3126 Pictures of Life|#3126 →]]

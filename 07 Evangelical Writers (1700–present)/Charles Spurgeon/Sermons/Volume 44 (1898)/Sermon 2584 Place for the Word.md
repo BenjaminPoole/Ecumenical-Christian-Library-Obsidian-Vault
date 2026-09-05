@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Place for the Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2584
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My Word has no place in you." John 8:37.
 
@@ -79,7 +76,7 @@ Or, if that shall not be the case with you, I will tell you what may happen. Chr
 
 And, remember, once more, that if the Word of God has no place in us, it will exist somewhere. Down came the Word of God to a man, the other night, and it knocked very hard at his heart, but the door was shut. The Word knocked again, and again, and again. Still the door was shut and the Word went back to Him who sent it and it stayed there. How many times have you heard the Gospel, my Friend? Could you count up the number of faithful sermons that have been preached in your hearing? Do you know how many earnest entreaties from friends have been addressed to you in vain? You shut them out, but they all went back and there they are—at the Throne of God! And when you come there, at last, and your trial takes place, you will be surprised to find all those messages and messengers present at the last grand assize to bear witness against you! Oh, let it not be so, I pray you! Will you not believe in Jesus Christ even now? Will you not turn to Him and live this very hour? Will you not leave your sins and trust the Savior? Will you not go to Him and, with a broken heart, confess that you need Him? He may be found of those who seek Him! Then, will you not seek Him now? If not, remember this scene—these crowded galleries, this area, these thousands of eyes—I call upon all to witness against you, in that day, that this night I preached Christ to you and bade you live—and if you will not, if you prefer moral and eternal suicide—I call this building, every beam and every stone in it, and every person here to witness that I have told you of the way of salvation, and implored you to run in it! They shall be swift witnesses against you to condemn you if you will not repent! Turn you, turn you, why will you die? Trust the Savior! Trust Him, now, and live forever! God grant that it may be so, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN8:28-59.
+## Exposition by C. H. Spurgeon: John 8:28-59
 
 Verse 28. Then said Jesus unto them.—That is, to the Jews who were questioning and opposing Him.
 
@@ -116,7 +113,6 @@ Now He speaks, not so much of the undying life of Believers, as of His own etern
 57, 58. Then said thee Jews unto Him, You are not yet fifty years old, andhave You seen Abraham? Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I Am. Before there was any Abraham, there was this glorious Christ of ours existing as the Eternal I AM, in all the infinity of His Glory! Now comes a thoroughly characteristic Jewish answer.
 
 59\. Then took they up stones to cast at Him: but Jesus hid Himself, and went out of the temple, going through the midst of them and so passed by. They believed that He claimed to be God, as He certainly did, and, therefore, they tried to stone Him. And there is no foothold for those who say that Christ was a very good Man, but only a Man. If He was not the Son of God, He was not a good Man, for no good man would have left upon his followers, and upon his foes, too, the impression that he claimed to be God if he were not! And no good man could have claimed to be God if he were not really so. Rank Jesus Christ either among the grossest of impostors, or else as the Son of God—one or the other! There is no halting-piece between the two. Blessed be Your name, O Son of Mary, You are also the Son of the Highest and, as such, we worship and adore You!
-
 
 ---
 [[Sermon 2583 Rain and Grace—a Parallel|← #2583]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2585 Spiritual Glean1ng|#2585 →]]

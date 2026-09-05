@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Good Cheer From Christ's Real Presence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3128
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Immediately He constrained His disciples to get into the boat, and to go before Him to the other side to Bethsaida, while He sent away the people. And when He hadsent them away, He departed into a mountain topray. And when evening was come, the boat was in the midst of the sea, and He alone on the land. And He saw them toiling in rowing, for the wind was contrary unto them: and about the fourth watch of the night He came to them, walking upon the sea, and would have passed by them. But when they saw Him walking upon the sea, they supposedit had been a spirit, and cried out: for they all saw Him, and were troubled. And immediately He talked with them, and said unto them, Be of good cheer: it is I, be not afraid. And He went up unto them into the boat, and the wind ceased: and they were sorely amazed among themselves beyond measure, and wondered. For they considered not the miracle of the loaves: for their hearts were hardened." Mark 6:45-52.
 
@@ -95,7 +92,7 @@ We shall need this same word of comfort whenever the Lord graciously reveals Him
 
 Once more, there is a day coming when the Son of Man will be revealed in the clouds of Heaven. We know not when it will be, but we are solemnly warned that when men look not for Him, He will suddenly appear. He will come as a thief in the night to the mass of men. But as for Believers, they are not in darkness that that day should come upon them as a thief—to them He comes as a long-expected Friend. When He comes there will be seen tokens—signs in the heavens above and in the earth beneath—which we shall recognize. We may then, perhaps, be distressed by these supernatural portents and begin to tremble. What, then, will be our delight when we hear Him say, "It is I; be not afraid!" Lift up your heads, you saints, for the coming of the Lord draws near and to you it is not darkness, but day! To you it is not judgment and condemnation, but honor and reward! What bliss it will be to catch the first glimpse of our Lord on the Throne! Sinners will wring their hands and weep and wail because of Him, but we shall know His voice and welcome His appearing! When the last trumpet rings out clear and loud, happy shall we be to hear that gladsome sound, "It is I; be not afraid." Rolling earth and crumbling mountains, darkened sun and blackened moon, flames of fire and shocks of earthquake, gathering angels and chariots of God—none of these things shall amaze us while Jesus whispers to our soul, "I Am," and yet again, "IT IS I; BE NOT AFRAID."
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW14:22-33.
+## Exposition by C. H. Spurgeon: Matthew 14:22-33
 
 Verse 22. And immediately Jesus constrained His disciples to get into a boat and to go before Him to the other side, while He sent the multitudes away. Immediately is a business word—Jesus loses no time. No sooner is the banquet over than He sends off the guests to their homes. While they are well fed, He bids them make the best of their way home. He who made the multitude sit down was also able to send the multitude away, but they needed sending, for they were loath to go.
 
@@ -140,7 +137,6 @@ After his Lord had taken him by the hand, Peter sank no further, but resumed the
 32\. And when they were come into the boat, the wind ceased. So that Peter's walk and his rescue had happened in the face of the tempest. He could walk the water well enough when his Lord held his hand—and so can we. What a sight! Jesus and Peter, hand in hand, walking upon the sea! The two made for the boat at once—miracles are never spun out to undue length. Was not Peter glad to leave the tumultuous element and, at the same time, to perceive that the gale was over? " When they were come into the boat, the wind ceased." It is well to be safe in a storm, but more pleasant to find the calm return and the hurricane end. How gladly did the disciples welcome their Lord and their Brother, Peter, who though wet to the skin, was a wiser man for his adventure!
 
 33\. Then they that were in the boat came and worshipped Him, saying, Of a truth You are the Son of God. No wonder that Peter " worshipped Him," nor that His comrades did the same! The whole of the disciples who had been thus rescued by their Lord's coming to them on the stormy sea were overwhelmingly convinced of His Godhead. Now they were doubly sure of it by unquestionable evidence—and in lowly reverence they expressed to Him their adoring faith, saying, " Of a truth You are the Son of God"
-
 
 ---
 [[Sermon 3127 A Promise and Precedent|← #3127]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3129 The King's Mowings|#3129 →]]

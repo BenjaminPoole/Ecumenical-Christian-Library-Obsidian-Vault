@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # A Witness and a Partaker
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2610
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed." 1 Peter 5:1.
 
@@ -103,7 +100,7 @@ Now, my Brother or my Sister, if you get that Presence of Christ—and I pray th
 
 I wish I could speak right to the very soul of some of you who do not know my Master—how I wish you did know Him! I cannot imagine what some of you have to comfort you which you can, for even a moment, compare with the bliss of knowing my Lord! I have seen your joys. I know something of what mirth can do and what relief laughter may be able to bring, but I also know that these things are of little use in the time of sickness, or when one is near death. It is just at such times that true joy in Christ becomes more deep, more sweet than ever! The less there is of the creature, the more room is there for the Creator. The more of suffering and sorrow we have to endure, the more of content and bliss can we enjoy. And oftentimes, when the body is weak and the head is aching, and the soul is faint, there is, as it were, a sweet swoon of Divine delight which comes over the spirit, which has more strength in it than strength, more joy in it than joy, and almost as much of Heaven in it as there is in Heaven! May you know this, for the sake of Him who has loved us and given Himself for us! God bless you all! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 1.
+## Exposition by C. H. Spurgeon: 1 Corinthians 1
 
 I am going to speak about the testimony of the Apostle Peter concerning his Lord, but we will first read together part of the writings of his "Beloved brother Paul," that we may see how these eminent servants of Christ agreed in their witness-bearing.
 
@@ -122,7 +119,6 @@ Verses 1-3. Paul, called to be an Apostle of Jesus Christ through the will of Go
 22-29. For the Jews require a sign, and the Greeks seek after wisdom: but we preach Christ crucified, unto the Jews a stumbling-block, and unto the Greeks foolishness; but unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. Because the foolishness of God is wiser than men; and the weakness of God is stronger than men for you see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble are called: but God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty; and base things of the world, and things which are despised, has God chosen, yes, and things which are not, to bring to nothing things that are: that no flesh should glory in His Presence. And, at this day, it is a great snare to the Church when she glories in her education, when she puts any confidence in the learning, or the wit, or the eloquence of her ministers, when she relies in any degree, whatever, upon an arm of flesh. The sword of the Spirit, if it is put into a velvet and embroidered scabbard, is all the worse for that. Pull it out! The Word of God cannot cut while it is hampered with human wisdom and human learning half as well as when its keen edge, alone, is used! It is the Lord, by the power of His Spirit, who must make the Word effectual. Oh, for more faith and truer faith in Him!
 
 30, 31. But of Him are you in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctifca-tion, and redemption: that, according as it is written, he that glories, let him glory in the Lord. There is no one else in whom we may glory! Away with every form of boasting except that of making our boast in the Lord, and especially of glorying in the great atoning Sacrifice of His dear Son, our Lord and Savior Jesus Christ!
-
 
 ---
 [[Sermon 2609 Our Thoughts About God's Thoughts|← #2609]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2611 A Lost Christ Found|#2611 →]]

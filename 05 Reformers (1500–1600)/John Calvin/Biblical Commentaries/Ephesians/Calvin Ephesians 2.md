@@ -10,10 +10,9 @@ written: "1548"
 tags:
  - calvin-commentaries
 ---
-
 # Ephesians 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Ephesians 2:1-3
 

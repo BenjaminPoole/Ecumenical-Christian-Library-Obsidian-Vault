@@ -10,12 +10,9 @@ tags:
   - protestant-reformers
   - richard-hooker
 ---
-
 # 1. A Learned Discourse on Justification About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## A Learned Discourse on Justification
 
 ### By
 

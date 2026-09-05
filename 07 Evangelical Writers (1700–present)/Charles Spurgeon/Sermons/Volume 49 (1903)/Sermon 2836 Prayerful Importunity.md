@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Prayerful Importunity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2836
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And shall not God avenge His own elect, who cry day and night unto Him, though He bears long with them?" Luke 18:7.
 
@@ -120,7 +117,6 @@ The Holy Spirit has made him so.'" And straightway he comes to Christ, and cries
 Simply to Your Cross I cling!" Poor Sinners, that is believing on Christ, believing that He died for you when there is no evidence that He did except your own sense of sin. Then, casting your black soul into the fountain, bringing your naked soul to the heavenly wardrobe—then do you prove the power of faith and then are you thus manifested to be the children of God in verity and truth.
 
 May the Lord add His blessing! If there are any careless souls here, may He awaken them, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2835 Patients for the Great Physician|← #2835]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2837 'The Ministry of Reconciliation'|#2837 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Jehovah's Challenge
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2675
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is there anything too hard for Me?" Jeremiah 32:27.
 
@@ -85,7 +82,7 @@ Finally, let us live a life of love, a life of forgiveness and kindness, trustin
 
 Beloved in the Lord, who are one with us in Christ Jesus, do be out-and-out Believers and let your faith be as evident as the color on a healthy cheek, that all men may see that the very life-blood of your spiritual being is your faith in God and in His Christ! What made brave Oliver Cromwell, in the days gone by, so terrible an enemy to all who loved not liberty and right? It was his faith! And he had gathered about him a band of men who also believed and so, when the Ironsides marched to the fight, you might as well have hoped to stop the stars in their courses as to keep those men back from victory! And today, what England needs is men of faith whose watchword is, "The Lord of Hosts!" and whose confidence it is that "with God all things are possible," and also that "all things are possible to him that believes." May all of us be such Believers, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH32:1-27.
+## Exposition by C. H. Spurgeon: Jeremiah 32:1-27
 
 Verses 1-5. The word that came to Jeremiah from the Lord in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar For then the king of Babylon's army besieged Jerusalem: and Jeremiah the Prophet was shut up in the court of theprison, which was in the king of Judah's house. For Zedekiah, king of Judah, had shut him up, saying. Therefore do you prophesy, and say, Thus says the Lord, Behold, I will give this city into the hands of the king of Babylon, and he shall take it; and Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hands of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes; and he shall lead Zedekiah to Babylon, and there shall he be until I visit him, says the Lord: though you fight with the Chaldeans, you shall not prosper So you see that Jeremiah was shut up in prison at the time here mentioned. Zedekiah, the king of Judah, had treated him very harshly because of his faithful utterance of the Word of the Lord. He was a true servant of Jehovah, yet he suffered much at the king's hands. One very remarkable event, which happened at that time, is here recorded.
 
@@ -112,7 +109,6 @@ was always present to the Hebrew mind and the people, in every season of tribula
 24, 25. They are come unto the city to take it; and the city is given into the hands of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the pestilence; and what You have spoken is come to pass and, behold, You see it. And You have said unto me, O LORD GOD, Buy you the field for money, and take witnesses; for the city is given into the hands of the Chaldeans. I suppose that, although Jeremiah, with unquestioning faith, had done as God had commanded him, yet afterwards, when he was alone in his prison cell, he began to think the whole matter over. And though he may not have had any actual doubts, yet he probably had some anxieties as to the issue of the whole affair. He could not quite understand it, so he wisely put it before the Lord. Some of you who have truly trusted God, may yet be just now perplexed with anxiety of one kind or another. Well, then, tell it to the Lord—go at once into His Presence and spread the case before Him, as Jeremiah did.
 
 26, 27. Then came the word of the Lord unto Jeremiah, saying, Behold, I am the LORD, the God of all flesh: is there anything too hard forMe?That question we will try to answer presently. [Remember, the exposition was before the sermon.]
-
 
 ---
 [[Sermon 2674 Learning in Private What to Teach in Public|← #2674]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2676 Comfort From the Future|#2676 →]]

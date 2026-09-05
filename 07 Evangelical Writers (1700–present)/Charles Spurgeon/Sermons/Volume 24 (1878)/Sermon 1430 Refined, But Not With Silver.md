@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Refined, But Not With Silver
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1430
-
-DELIVERED BY.
 
 > "Behold, I have refined you, but not with silver; I have chosen you in the furnace of affliction." Isaiah 48:10.
 
@@ -148,7 +145,6 @@ Merchant, your firm is going to pieces—you will be poor—but have faith in Go
 Some of you are like ferns. You never flourish except in the damp and in the shade. Too much sunlight would not be good for you. Some plants need a marsh and a fog to develop them and, perhaps, you are such. Perhaps your Master knows that if He puts you where you would like to be, it would be deadly to you and therefore He writes, "I have chosen you in the furnace of affliction." Now, I take my leave of you all by a morsel of personal experience. My Lord met me tonight and said, "I have chosen you in the furnace of affliction," and I endeavored to reply to Him, "My Lord, inasmuch as You do graciously condescend to say, 'I have chosen you,' I leave the rest of the sentence entirely to Your will and ask not whether it is in the furnace or out of it. Choose me and then choose everything for me. If you choose the furnace, I would choose the furnace, too."
 
 Remember the good woman who, when they said to her, because she was very ill, "Would you rather live or die?" replied, " I would rather God's will were done"? "Oh," they said, "but if God would let it be just as you wish, which should it be?" She replied, "If the Lord were to leave it to my will, I would beg Him to be so good as to let it be His will and not mine." O, Beloved, pray, "Not as I will." Grief is almost ended when self is slain! Sorrow well near ceases to be sorrow when you take the sting of self out of it! The Lord be with you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1429 Faith's Sure Foundation|← #1429]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1431 The Message from the Lord's Mouth|#1431 →]]

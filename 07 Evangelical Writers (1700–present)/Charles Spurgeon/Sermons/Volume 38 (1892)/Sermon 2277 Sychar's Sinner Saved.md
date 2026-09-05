@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Sychar's Sinner Saved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2277
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Jesus answered and said unto her, If you knew the gift of God, and who itis thatsays to you, Give Me to drink; you would have asked of Him, and He would have given you living water." John 4:10.
 
@@ -105,7 +102,7 @@ And then Jesus left her with this word ringing in her ears, the last word that H
 
 Now, you see, I have brought the horses to the water. But I cannot make them drink! I have set Christ before you, but I cannot make you have Him! May the Holy Spirit help you to take Him, tonight, once and for all! Do not go away till He has done so. Give not sleep to your eyes, nor slumber to your eyelids till you have closed in with Christ and accepted Him as your Savior! For when you fall asleep, tonight, you may never wake up again on this earth. It will be a dreadful thing to wake up in the land where hope can never come—where you shall see afar off God's chosen ones, but, as for yourself, you shall be told that there is a great gulf fixed between you and them so that they cannot come to you, and you cannot go to them "Repent and believe the Gospel!" May the Holy Spirit cause you to do so even now, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON JOHN4:1-42.
+## Exposition by C. H. Spurgeon John 4:1-42
 
 Verses. 1-3. When, therefore, the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John, (though Jesus Himself baptized not, but His disciples), He left Judea, and departed again into Galilee. Our Lord knew that the Pharisees would assail Him now that He was prospering, and gathering disciples. He, therefore, went away from them as He did on other occasions. Whenever the cause of God grows, Satan is sure to be violent against it. Notice that our Savior did not, Himself, baptize His followers. Now, if Baptism depended upon the character or the office of the baptizer, Jesus would certainly have done it! But to show us that the person baptizing does not impart any Grace to the person baptized, our Lord baptized not, but left that work to His disciples.
 
@@ -158,7 +155,6 @@ Jacob?"
 39, 40. And many of the Samaritans of that city believed on Him for the saying of the woman, which testified, He told me all that ever / did. So when the Samaritans were come unto Him they besought Him that He would tarry with them: and He abode there two days. Two days of Christ's personal ministry—what might not come of that?
 
 41, 42. And many more believed because of His own word; and said unto the woman, Now we believe, not because of your saying: for we have heard Him ourselves, and know that this is, indeed, the Christ, the Savior of the world. Would God that many might be brought to know that Christ, the Savior, tonight! Amen.
-
 
 ---
 [[Sermon 2276 Forgiveness, Freedom, Favor|← #2276]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2278 Feeding on the Word|#2278 →]]

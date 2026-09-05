@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # War With Amalek
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 712
 
-DELIVERED SUNDAY MORNING, SEPTEMBER 23, 1866, BY C. H. SPURGEON.
+*Delivered Sunday Morning, September 23, 1866, by C. H. Spurgeon*
 
 > "Then came Amalek, and fought with Israel in Rephidim." Exodus 17:8.
 
@@ -144,7 +143,6 @@ Meanwhile, what a sweet satisfaction it is to see our Lord Jesus, like a greater
 Let us fight as if it all depended upon us, but let us look up and know that all depends upon Him. Now by the lilies of Christian purity and by the roses of the Savior's Atonement—by the roes and by the hinds of the field—we charge you who are lovers of Jesus to do valiantly in the Holy War! For truth and righteousness, for the kingdom and crown jewels of your Master—against the harlot of Rome and the many-headed beast on which she rides—charge with dauntless courage! Those who gave your fathers to the flames and cast your grandfathers to rot in prisons—let them know that the spirit of your grandfathers still lives in you!
 
 Let them see that there is a seed still upon earth in whose breast the Truth of God still finds a tabernacle—men who can suffer for the Truth of God—and can boldly declare it in the midst of foes! Never become cowardly and mean! Never despair! How can you? Christ at your head like Joshua, and Christ in Heaven like Moses—Christ here with the holy Gospel in His hand like a two-edged sword—and Christ there with His atoning merits like a wonder-working rod! Be strong and very courageous, and by His help, Who does valiantly, you shall yet send up the shout Hallelujah! Hallelujah! Hallelujah! For the Lord God Omnipotent reigns. The Lord bless you all for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0711 A Feast For Faith|← #711]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0713 Soul Murder—Who Is Guilty|#713 →]]

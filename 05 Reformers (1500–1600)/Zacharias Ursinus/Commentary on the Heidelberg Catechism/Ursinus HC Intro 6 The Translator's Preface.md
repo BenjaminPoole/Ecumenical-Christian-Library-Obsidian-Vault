@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # The Translator's Preface
 
 IN presenting the English Reader with a translation of the Theological Lectures of Dr. Ursinus, upon the Heidelberg Catechism, it is presumed no apology is necessary, at least as far as the German Reformed Church is concerned. Considering the character of Ursinus, his acknowledged ability, and relations to the whole Reformed interest it is a matter of great surprise, that some one has not long since been found to undertake the arduous and difficult task which we have very imperfectly accomplished. Many other works greatly inferior to this, have been favored with translations, whilst no pains have been spared to give them an extensive circulation, and yet no attempt has been made of late years to place these lectures in the hands of the English reader. And what is stranger still, is the fact that the name of Ursinus himself, than whom no one is more worthy of grateful and honorable recollection, is in a great measure unknown. We have, therefore, been led to undertake the difficult task of translating these lectures, being fully convinced that we shall in so doing contribute no little to the dissemination of sound theological views, and at the same time bring to favorable notice one whose memory deserves to be held in grateful recollection. The writings of Ursinus are well deserving of a place in every minister's library, by the side of the works of Luther, Melancthon, Zuingle, Calvin, and others of blessed memory, and will not suffer in the least by a comparison with them.
@@ -34,9 +33,9 @@ We do not of course intend to be understood as giving an unqualified approval of
 
 Conscious of having labored hard and diligently to give a good and faithful translation of these lectures, we now commit them to the public, not without much diffidence, with all the imperfections attending the present translation, with the hope and prayer that they may accomplish the objects we have had in view, and that the reputation of the lectures themselves may be made to suffer no injury from the form in which they now appear.
 
-GEO. W. WILLIARD.
+## Geo. W. Williard
 
-COLUMBUS, OHIO, SEPT. 1851.
+## Columbus, Ohio, Sept. 1851
 
 ---
 [[Ursinus HC Intro 5 Table of Contents|← Table of Contents]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Intro 7 Introduction|Introduction →]]

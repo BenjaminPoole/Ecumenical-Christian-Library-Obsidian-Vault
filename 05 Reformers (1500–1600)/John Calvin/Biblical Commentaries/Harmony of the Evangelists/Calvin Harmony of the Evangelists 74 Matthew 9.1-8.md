@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 74. Matthew 9:1-8;Mark 2:1-12;Luke 5:17-26
-
-**MATTHEW 9:1-8; MARK 2:1-12; LUKE 5:17-26**
 
 **1**. And entering into a ship, he passed over, and came into his own city. **2**. And, lo, they brought to him a paralytic lying on a bed. And when Jesus saw their faith, he said to the paralytic, Take courage, my son, thy sins are forgiven thee. **3**. And, lo, some of the scribes said among themselves, This man blasphemeth. **4**. And when Jesus saw their thoughts, he said, Why do you think evil in your hearts? **5**. For whether is it easier to say, Thy sins are forgiven thee; or to say, Arise, and walk? **6**. But that you may know that the Son of man hath authority on earth to forgive sins, (then he saith to the paralytic,) Arise, take up thy bed, and go away to thy house. **7**. And he arose, and went away to his house. **8**. And the multitudes who saw it wondered, and glorified God, who had given such authority to men.
 

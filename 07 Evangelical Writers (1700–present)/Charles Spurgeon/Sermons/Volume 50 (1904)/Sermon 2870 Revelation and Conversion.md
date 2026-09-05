@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Revelation and Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2870
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Law of the LORD is perfect, converting the soul." Psalm 19:7.
 
@@ -111,9 +108,9 @@ Christ comes into Mansoul through Ear-Gate. "Incline your ear, and came unto Me;
 
 preached to him. As I have already told you, the promise is, "Hear, and your soul shall live." And if you come with a willing mind—willing to judge, weigh and then to believe the Word—the moment you do believe it, you are saved! That Word of God which leads you to believe has already converted you, so, come out and confess what God has done for you, and then go on your way rejoicing! May God bless everyone of you without a single exception, for His name's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—551, 658, 561.
+## Hymns from "Our Own Hymn Book"—551, 658, 561
 
-EXPOSITION BY C. H. SPURGEON: PSALM19.
+## Exposition by C. H. Spurgeon: Psalm 19
 
 This Psalm teaches us the excellence of the two Revelations which God has made to man. The first is the Revelation which He has made in Nature, and the second is that which He has made in His Inspired Word. The Psalmist first sings of God as He displays Himself in His works in Creation.
 
@@ -142,7 +139,6 @@ Verse 1. The heavens declare the glory of God; and the firmament shows His handi
 13\. Let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression. You will never go into apostasy if you are watchful against presumption. Those men who, like Judas, commit the great transgression and utterly perish, are men who knew nothing about watching their own hearts, but who presumed, and were sinfully bold and self-confident—and so came to an ill end. You know where John Bunyan says Heedless and Too-Bold went—and there are many like them.
 
 14\. Let the word of my mouth, and the meditation of my heart, be acceptable in Your sight; O LORD, my strength, and my Redeemer.
-
 
 ---
 [[Sermon 2869 Prayer Found in the Heart|← #2869]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2871 Anxiety, Ambition, Indecision|#2871 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # 'Our Light Affliction'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3244
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Our light affliction." 2 Corinthians 4:17.
 
@@ -121,7 +118,7 @@ If we have not this good hope through Divine Grace, we may well say that our aff
 
 sickly, consumptive people—how can you live without a Savior? I wonder how those who are rich and who have an abundance of earthly comforts can live on, year after year, without any hope (except a false one) of comfort and blessing in the life that is to come? But as for you who have so few earthly comforts, you whose life is one long struggle for bare existence, you who scarcely know what it is to have a day without pain, how can you live without a Savior Remember that "godliness is profitable unto all things, having promise of the life that now is, and of that which is to some." So, "seek you the Lord while He may be found, call you upon Him while He is near: let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the Lord, and He will have mercy upon him; and to our God, for He will abundantly pardon." May the Lord give you the Grace to come to Him this very moment! And to Him shall be all the Glory forever, for Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 4.
+## Exposition by C. H. Spurgeon: 2 Corinthians 4
 
 Verse 1. Therefore seeing we have this ministry, as we have received mercy, we faint not—We are sometimes ready to faint, but we cast our fainting spirits into the arms of God and our strength is again renewed. At times the very importance of an errand first weighs down the spirit of the messenger, yet afterwards it seems to impel him to more than ordinary exertion. So is it here—having been Divinely entrusted with this ministry and being ready to faint under the tremendous responsibility that it involves, we are yet awakened to action by the very pressure which seems to deprive us of the power to act! And, therefore, "we faint not"—
 
@@ -164,7 +161,6 @@ Image of God, should shine unto them. For we preach not ourselves—What a miser
 momentary, he rightly says that the glory is eternal. And then, as though he would make the contract still more vivid, he says that this momentary, light affliction, "works for us a far more exceeding and eternal weight of glory." He can scarcely find words big enough to express the contrast between what Believers now have to endure and what they shall forever enjoy!
 
 18\. While we look not at the things which are seen but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal
-
 
 ---
 [[Sermon 3243 The Vine of Israel|← #3243]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3245 Our Position and Our Purpose|#3245 →]]

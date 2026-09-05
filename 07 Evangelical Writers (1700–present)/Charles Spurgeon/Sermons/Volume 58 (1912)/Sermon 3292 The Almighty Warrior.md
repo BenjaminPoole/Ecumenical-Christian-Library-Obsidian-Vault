@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Almighty Warrior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3292
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Gird Your sword upon Your thigh, O Most Mighty One, with Your Glory and Your Majesty. And in Your Majesty ride prosperously because of truth and meekness and righteousness: and Your right hand shall teach You terrible things. Your arrows are sharp in the heart of the king's enemies; whereby the people fall under You." Psalm 45:3-5.
 
@@ -91,7 +88,7 @@ If you yield to Christ, you will find that He will no longer be angry with you. 
 
 Finally, Sinner, trust the Savior. He died for sinners, bearing their sins in His own body on the tree. He died for all who trust Him—and they who trust Him shall find Him faithful and true! And He shall bring them Home to His Father's House to dwell with Him forever! Oh, that all of us might be in that blessed company! God grant it for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM103.
+## Exposition by C. H. Spurgeon: Psalm 103
 
 Verse 1. Bless the LORD, O my soul—Come, my Soul, wake up, bestir yourself, for you have a great work to do! Such work as angels do forever before the Throne of God on high!
 
@@ -152,7 +149,6 @@ Lord"—
 21\. Bless you the LORD, all you His hosts; you ministers of His, that do His pleasure. All living things and all the forces and powers of Nature are calling upon men to praise the Lord! And we cry to all the hosts of God, the ministers of His, that do His pleasure, "Bless you the Lord."
 
 22\. Bless the LORD, all His works in all place of dominion: bless the LORD, O my soul While all these glorious anthems are ascending to Heaven, I must not be silent! But I, too, must praise the Lord with my whole heart—"Bless the Lord, O my Soul."
-
 
 ---
 [[Sermon 3291 The Sea! the Sea! the Wide and Open Sea!|← #3291]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3293 'The Blood of the Testament'|#3293 →]]

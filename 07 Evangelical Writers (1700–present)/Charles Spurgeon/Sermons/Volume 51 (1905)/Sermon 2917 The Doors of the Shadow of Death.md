@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Doors of the Shadow of Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2917
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Have you seen the doors of the shadow of death?" Job 38:17.
 
@@ -97,7 +94,7 @@ Worse still, the gates of death-shade are the places of farewell An ungodly man 
 
 Thus I have, as best I could, talked of the end of the earthly life. O Souls, prepare to meet your God, for you may have to meet Him before another sun has risen! I beseech you, by the living God, whose servant I am, postpone not repentance and faith, but now, while mercy' s white flag is to the front and God waits to be gracious to you, bow before the Cross of Christ! Trust in Jesus and be saved! The Lord bless you, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM49.
+## Exposition by C. H. Spurgeon: Psalm 49
 
 The chief musician here bids us not to fear the ungodly. However high they may be placed, they are but dying men and when they die their hope shall perish with them. He gives a very graphic description of the deathbed and of the perdition of ungodly men.
 
@@ -140,7 +137,6 @@ him."
 8 The Doors of the Shadow of Death Sermon #2917
 
 20\. Man that is in honor and understands not, is like the beasts that perish. Understanding and the fear of the Lord, which is the beginning of wisdom—not earthly honor—is our only succor in the day of death.
-
 
 ---
 [[Sermon 2916 A Memorable Milestone|← #2916]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2918 Facing the Wind|#2918 →]]

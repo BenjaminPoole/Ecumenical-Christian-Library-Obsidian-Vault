@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "Christ First, Me Last—Nothing Between But Love"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2370
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The faith of the Son of God, who loved me, and gave Himself for me," Galatians 2:20.
 
@@ -55,9 +52,9 @@ Our Lord Jesus Christ cannot possibly or conceivably be limited in His love. I w
 
 [As the sermon is shorter than usual, we insert the verses referred to by Mr. Spurgeon, from which the title of the discourse has been selected. The lines can be obtained from Messrs. Penman and Co., 33 Furnival Street, London, 6d. per dozen, or 3s. per 100, post free.
 
-"WHO LOVED ME"
+## "Who Loved Me"
 
-GALATIANS 2:20
+## Galatians 2:20
 
 Three blessed sunbeams, guiding all I see. Three tender chords, each full of melody. Three healing leaves, balm for my agony. HE loved me—the Father's only Son, He ga ve Himself—the precious, Spotless One— He shed His blood and thus the work was done! HE LOVED, not merely pitied. Here I rest. Sorrow may come, I to His heart am pressed— What should I fear while sheltered on His breast? Wonder of wonders! Jesus loved me! A wretch! Lost, ruined, sunk in misery! He sought me, bound me, raised me, set me free!
 
@@ -107,7 +104,7 @@ Thinking of this sublime passage, one seems to feel his wings growing and is rea
 
 O my dear Hearers, I stand here and try to talk to you in my feeble way about these great Truths of God, but do you know them yourselves? If you do, you know more than Solomon ever knew! If you know this love of Christ, you know more than all the Greek philosophers put together! You need not be ashamed in any company—the knowledge of the love of Christ is the most excellent of all the sciences—there is none that can be compared with it. But if you do not know it, I pray my Lord, in His infinite mercy, to disturb and disquiet you until you do know it! What right have you to rest without faith in Jesus? You have no safety—indeed, you have no hope! Without God, without Christ, you will die without forgiveness or hope of Heaven! God bring you to seek His face tonight, before another sun has risen! Seek Him. Seek Him! Trust in the Savior's finished work and I hope we shall yet see you, again, as you come forward and say, "Yes, He loved me, and gave Himself for me, and here am I to confess it to the glory of His Grace." God grant it, for Jesus' sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"-116 (SONG II), 248, 731.
+## Hymns from "Our Own Hymn Book"-116 (Song II), 248, 731
 
 EXPOSITION BY C. H. SPURGEON: Galatians 2:16-21; 3.
 
@@ -156,7 +153,6 @@ Galatians 3:1. O foolish Galatians, who has bewitched you, that you should not o
 26\. For you are all the children of God by faith in Christ Jesus. The Fatherhood of God is common to all Believers— but there is no universal fatherhood, as many teach it in these days.
 
 27-29. For as many of you as have been baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's seed and heirs according to the promise. May this be true of all of us, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2369 Blood Even on the Golden Altar|← #2369]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2371 Freedom At Once and Forever|#2371 →]]

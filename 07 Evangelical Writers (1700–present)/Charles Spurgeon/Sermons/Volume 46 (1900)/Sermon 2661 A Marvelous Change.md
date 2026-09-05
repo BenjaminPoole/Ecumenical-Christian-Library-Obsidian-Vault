@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Marvelous Change
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2661
-
-DELIVERED BY C. HSPURGEON,.
 
 > "Know you not that the unrighteous shall not inherit the Kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners shall inherit the Kingdom of God. And such were some of you. But you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus, and by the Spirit of our God." 1 Corinthians 6:9-11.
 
@@ -143,7 +140,7 @@ And then follows the justification. Pardon washes away our sin. Justification ma
 
 Now, to close, let me say that if you would be saved, this is the one thing for you to do—believe in the Lord Jesus Christ. Do not trust in anything else whatever, but rely alone upon Him. Trust in Christ to make you hate sin. Trust in Christ to enable you to overcome every bad habit. Trust in Christ to help you to do everything that is right. Trust in Christ to cause you to stand fast even till you get to Heaven. "He that believes on the Son has everlasting life"—not, "he shall be saved tomorrow, or ten years hence"—he is saved now, on the spot! If you have only trusted in Christ since last that clock ticked, you are forgiven, you are a child of God, you are accepted in the Beloved, you are saved! It is an instantaneous, an immediate, but a perfect work—this washing away of sin—and this giving to us the righteousness of Jesus Christ. The Lord grant it to each one of you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 6:1-14.
+## Exposition by C. H. Spurgeon: 1 Corinthians 6:1-14
 
 Verse 1. Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?\n those days, the courts of law were utterly unjust. It was all a matter of who could bribe the most, for he would gain the suit. I think that we cannot say that it is quite like this at the present time in our law courts, neither can this verse be strictly a rule for the guidance of men in these days, except that, in the spirit of Paul's words, all lawsuits among Christians should be avoided if possible.
 
@@ -160,7 +157,6 @@ rather suffer yourselves to be defrauded? No, you do wrong, and defraud, and tha
 12, 13. All things are lawful for me, but I willnot be brought under the power of any. Meats for the belly, and the belly for meats: but God shall destroy both it and them. So, on the one hand, do not make too much of abstaining from this or that, for these things, after all, are but small matters to glory in. But, on the other hand, let no man ever call himself a Christian while he is a slave to any evil habit. What does Paul say? "God shall destroy both it and them." In the previous verse, he says, "I will not be brought under the power of any." The immortal spirit under the power of materialism? No, that must never be!
 
 13, 14. Now the body is not for fornication, but for the Lord; and the Lord for the body. And God has both raised up the Lord, and will also raise up us by His own power. Our bodies belong to Him! Therefore, let us think highly of them and never do anything to injure them and, especially, let us take care never to let them become instruments of iniquity to the grieving of the blessed Spirit of God.
-
 
 ---
 [[Sermon 2660 Suffering Outside the Camp|← #2660]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2662 Some Marks of God's People|#2662 →]]

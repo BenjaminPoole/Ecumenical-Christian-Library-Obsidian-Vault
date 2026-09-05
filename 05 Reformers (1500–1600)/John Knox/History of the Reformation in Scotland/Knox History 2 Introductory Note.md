@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 2. Introductory Note
 
 "It is really a loss to English and even to universal literature that Knox's hasty and strangely interesting, impressive, and peculiar Book, called The History of the Reformation in Scotland, has not been rendered far more extensively legible to serious mankind at large than is hitherto the case. There is in it, ... a really singular degree of clearness, sharp just insight and perspicacity, now and then of picturesqueness and visuality, as if the thing was set before your eyes; and everywhere a feeling of the most perfect credibility and veracity: that is to say altogether, of Knox's high qualities as an observer and narrator.... This man, you can discern, has seized the essential elements of the phenomenon, and done a right portrait of it; a man with an actually seeing eye....
@@ -20,8 +19,6 @@ tags:
 "The story of this great epoch is nowhere to be found so impressively narrated as in this Book of Knox's; a hasty loose production, but grounded on the completest knowledge, and with visible intention of setting down faithfully both the imperfections of poor fallible men, and the unspeakable mercies of God to this poor realm of Scotland."
 
 Carlyle.
-
-## INTRODUCTORY NOTE.
 
 Knox's "History" has all the essential qualities of a classic. It makes appeal with perennial freshness to the heart of man. It depicts a struggle for religious freedom which never had an equal, either before or since, and yet has a counterpart in the experience of every age. It is the honest and truthful record of one of the most highly energised men that ever crossed the stage of life—a record, withal, so masterly that the reader's mind and heart attain the writer's meaning and point of view, at a bound. Its humanity is as broad as human nature; its grasp of the eternal verities is childlike yet strong; its imagination is sane yet soaring.
 
@@ -45,7 +42,7 @@ The present edition is a serious attempt to remove the obstacles to which we hav
 
 Every effort has been made to preserve Knox's vigorous phraseology intact. Obsolete and Scots words are glossed at the foot of the page on which they first occur; and a full Glossary is appended to the work. For the rest, the editor has sought to bring the mind and heart of Knox into touch with those of the reader, without unessential distractions. Footnotes are a manner of impertinence when a wonderful story is forward, and such an one is Knox's. He himself tells us to go to "universal histories of the time," if we want exact information. Here is no dry-as-dust chronicle of days and dates. Here we have an inspired record of the dealings of God with men. Here we read of their sinning, their shortcoming, and their struggling, of their faith and its victory, in a narrative that can be likened to nothing else in literature than the books of the Old Testament. This is a book for the heart, a human book, written by "one who neither flattered nor feared any flesh."
 
-CUTHBERT LENNOX.
+## Cuthbert Lennox
 
 *February 1905.*
 

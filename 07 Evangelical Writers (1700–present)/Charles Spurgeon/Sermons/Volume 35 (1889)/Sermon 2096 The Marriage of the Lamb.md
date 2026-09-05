@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # "The Marriage of the Lamb"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2096
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 21, 1889,.
+*Delivered on Lord's-Day Morning, July 21, 1889*
 
 > "Let us be glad and rejoice and give honor to Him: for the marriage of the Lamb is come and His wife has made herself ready. And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints." Revelation 19:7,8.
 
@@ -188,7 +187,6 @@ Best of all, we shall be arrayed in that day with that which pleases the Bridegr
 I have done when I have again put this question—Do you trust the Lamb? I warn you, if you have a religion which has no blood of Christ in it, it is not worth a thought—you had better be rid of it, it will be of no use to you. I warn you, also, that unless you love the Lamb you cannot be married to the Lamb. For He will never be married to those who have no love to Him. You must take Jesus as a Sacrifice, or not at all. It is useless to say, "I will follow Christ's example." You will not do anything of the sort. It is idle to say, "He shall be my Teacher." He will not own you for a disciple unless you will own Him as a Sacrifice.
 
 You must take Him as the Lamb, or have done with Him. If you despise the blood of Christ, you despise the whole Person of Christ. Christ is nothing to you if He is not your atonement. As many of you as hope to be saved by the works of the Law, or by anything else apart from His blood and righteousness, you have un-Christianized yourselves. You have no part in Jesus here and you shall have no part in Him hereafter, when He shall take to Himself His own redeemed Church, to be His spouse forever and ever. God bless you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 2095 The Lamb In Glory|← #2095]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2097 The Mediator’The Interpreter|#2097 →]]

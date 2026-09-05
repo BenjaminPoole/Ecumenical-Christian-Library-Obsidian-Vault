@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Joy, a Duty
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2405
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Rejoice in the Lord always: and again I say, Rejoice." Philippians 4:4
 
@@ -111,7 +108,7 @@ Come, then, let us make a solemn league and covenant together in the name of God
 
 No, they must speak their joys abroad! Let us endeavor to do so, always, by the help of the Holy Spirit. Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON: PHILIPPIANS4.
+## Exposition by C. H. Spurgeon: Philippians 4
 
 This Epistle was written by Paul when he was in prison with iron fetters about his wrists, yet there is no iron in the Epistle. It is full of light, life, love and joy—blended with traces of sorrow—yet with a holy delight that rises above his grief.
 
@@ -154,7 +151,6 @@ Verse 1. Therefore, my Brothers and Sisters dearly beloved and longed for, my jo
 2\. All the saints salute you, chiefly they that are of Caesar's household. Only think of saints in the household of Nero, saints in the service of such a demon as he was, and saints who were first in every good thing! "Chiefly they that are of Caesar's household."
 
 23\. The Grace of our Lord Jesus Christ be with you all. Amen.
-
 
 ---
 [[Sermon 2404 A People Prepared for the Lord|← #2404]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2406 An Appeal to Children of Godly Parents|#2406 →]]

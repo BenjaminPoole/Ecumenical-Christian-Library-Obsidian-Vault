@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 22
-
-**PSALM 22.**
 
 David complains in this psalm, that he is reduced to such circumstances of distress that he is like a man in despair. But after having recounted the calamities with which he was so severely afflicted, he emerges from the abyss of temptations, and gathering courage, comforts himself with the assurance of deliverance. At the same time, he sets before us, in his own person, a type of Christ, who he knew by the Spirit of prophecy behoved to be abased in marvellous and unusual ways [^1] previous to his exaltation by the Father. Thus the psalm, in the two parts of which it consists, explains that prophecy of Isaiah, (Isaiah 53:8,) “He was taken from prison and from judgment: and who shall declare his generation?”
 

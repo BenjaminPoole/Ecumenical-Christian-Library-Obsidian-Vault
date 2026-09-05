@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 49. Letter XLVIII. To the Same (March 4, 1415)
-
-LETTER XLVIII. TO THE SAME (March 4, 1415)
 
 Please expound his dream 191
 

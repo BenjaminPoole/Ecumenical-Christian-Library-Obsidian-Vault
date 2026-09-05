@@ -11,7 +11,6 @@ tags:
   - classical
   - demosthenes
 ---
-
 # The Public Orations of Demosthenes
 *Volume 1*
 
@@ -23,13 +22,7 @@ tags:
   IN TWO VOLUMES
   VOL I
 
-  TRANSLATED BY
-  ARTHUR WALLACE PICKARD
-
-
-
-
-PREFACE
+## Preface
 
 The translations included in this volume were written at various times
 during the last ten years for use in connexion with College Lectures,
@@ -87,15 +80,9 @@ The text employed has been throughout that of the late Mr. S.H. Butcher
 in the _Bibliotheca Classica Oxoniensis_. Any deviations from this are
 noted in their place.
 
-
-
-
-CONTENTS
-
-
 INTRODUCTION                                 i. 7
 
-LIST OF SPEECHES TRANSLATED
+## List of Speeches Translated
 
   Traditional Order                   In this Edition
   ORATION I. OLYNTHIAC I                       i. 87
@@ -114,11 +101,7 @@ LIST OF SPEECHES TRANSLATED
 
   NOTES                                       ii. 149
 
-
-
-
-INTRODUCTION
-
+## Introduction
 
 Demosthenes, the son of Demosthenes of Paeania in Attica, a rich and
 highly respected factory-owner, was born in or about the year 384 B.C.
@@ -732,8 +715,7 @@ centuries, borrow from him not only words and phrases, but inspiration
 and confidence in their cause, and look upon him as a model whom they
 may emulate, but cannot excel.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] See Introduction to First Philippic.
 
@@ -776,17 +758,7 @@ xvi-xviii, xxxii, xxxiv, xxxix.
 
 [14] 'On the Sublime', chap. xxxiv.
 
-
-
-
-[TRANSCRIBER'S NOTE: The text for all notes marked [n] will be found at
-the end of the second volume.]
-
-
-
-
-ON THE NAVAL BOARDS (OR. XIV)
-
+## On the Naval Boards (Or. XIV)
 
 [_Introduction_. The speech was delivered in 354 B.C. News had been
 brought to Athens that the Persian King Artaxerxes Ochus was making
@@ -846,7 +818,6 @@ and seldom rises to eloquence--the style, indeed, is often rather
 cramped and stiff, and the sentiments, especially at the beginning,
 artificially phrased--it is moderate and practical in tone, and shows a
 characteristic mastery of minute detail.]
-
 
 {1} Those who praise your forefathers,[n] men of Athens, desire, no
 doubt, to gratify you by their speeches; and yet I do not think that
@@ -1174,17 +1145,13 @@ interests and those of the speakers who are opposing me; since you will
 have no cause to be angry with them afterwards, because you have
 decided wrongly to-day.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] See Speech on Crown, §§ 102 ff. and notes.
 
 [2] See Speech on Crown, §§ 102 ff. and notes.
 
-
-
-
-FOR THE MEGALOPOLITANS (OR. XVI)
+## For the Megalopolitans (Or. XVI)
 
 [_Introduction_. In 371 B.C. the Thebans under Epaminondas defeated the
 Spartans at Leuctra, and, assisted by Thebes, the Arcadians and
@@ -1494,11 +1461,7 @@ either side. I have told you only what I believe to be expedient for
 you; and I exhort you not to sacrifice the people of Megalopolis, and
 to make it your rule, never to sacrifice a smaller power to a greater.
 
-
-
-
-FOR THE FREEDOM OF THE RHODIANS (OR. XV)
-
+## For the Freedom of the Rhodians (Or. XV)
 
 [_Introduction_. Dionysius of Halicarnassus places the speech in 351
 B.C. He is not always accurate, and the internal evidence has been
@@ -1538,7 +1501,6 @@ and illustrated by striking examples from history. But there also
 appears for the first time that sense of the difficulty of rousing the
 Athenians to action of any kind, which is so strongly expressed in
 later speeches.]
-
 
 {1} It is, I think, your duty, men of Athens, when you are deliberating
 upon affairs of such importance, to grant freedom of speech to every
@@ -1822,16 +1784,11 @@ trophies. Consider then that your forefathers dedicated these trophies,
 not that you might gaze at them in idle wonder, but that you might
 imitate the actions of those who placed them there.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] [Greek: humin sygchair_o].
 
-
-
-
-THE FIRST PHILIPPIC (OR. IV)
-
+## The First Philippic (Or. IV)
 
 [_Introduction_. Philip became King of Macedonia in 359 B.C. Being in
 great difficulties both from external enemies and from internal
@@ -1932,7 +1889,6 @@ The statement of Dionysius of Halicarnassus, that the Speech as we have
 it, is really a conflation of two speeches, of which the second
 (beginning at § 30) was delivered in 347, is generally (and rightly)
 discredited.]
-
 
 {1} If some new subject were being brought before us, men of Athens, I
 would have waited until most of your ordinary advisers had declared
@@ -2344,11 +2300,7 @@ speak in the sure conviction that if you carry out my proposals, it
 will be for your good; and may the victory rest with that policy which
 will be for the good of all!
 
-
-
-
-THE OLYNTHIAC ORATIONS (OR. I-III)
-
+## The Olynthiac Orations (Or. I-III)
 
 [_Introduction_. It has already been noticed that when Philip took
 Amphipolis in 357 B.C., the Olynthians made overtures to the Athenians,
@@ -2451,8 +2403,7 @@ his political reflections, the clearness of his diagnosis of the evils
 of his time, and the fearlessness of his appeal for loyal and united
 self-sacrifice, are nowhere more conspicuous.]
 
-
-THE FIRST OLYNTHIAC
+## The First Olynthiac
 
 {1} I believe, men of Athens, that you would give a great sum to know
 what policy, in reference to the matter which you are now considering,
@@ -2690,8 +2641,7 @@ find it easy to render an account of their public life; for your
 judgement upon their conduct will itself depend upon the position in
 which you find yourselves. And may that be a happy one, on every ground!
 
-
-THE SECOND OLYNTHIAC
+## The Second Olynthiac
 
 {1} Many as are the occasions, men of Athens, on which we may discern
 the manifestation of the goodwill of Heaven towards this city, one of
@@ -2945,8 +2895,7 @@ the proposer of that course at the time, but you will commend
 yourselves hereafter, for the whole position of your affairs will be a
 better one.
 
-
-THE THIRD OLYNTHIAC
+## The Third Olynthiac
 
 {1} Very different reflections suggest themselves to my mind, I men of
 Athens, when I turn my eyes to our real situation, and when I think of
@@ -3248,8 +3197,7 @@ I think I have told you all that, in my belief, your interest demands.
 May you choose the course which will be for the good of the city and of
 you all!
 
-
-FOOTNOTES
+## Footnotes
 
 [1] See notes to Speech on the Peace, § 5. Some date the Euboean
 expedition and the sending of the cavalry one or two years earlier, and
@@ -3260,11 +3208,7 @@ for the date (348) given in the text.
 
 [3] [Greek: touto parechae].
 
-
-
-
-ON THE PEACE (OR. V)
-
+## On the Peace (Or. V)
 
 [_Introduction_. After the fall of Olynthus in 348, the Athenians, on
 the proposal of Eubulus, sent embassies to the Greek States in the
@@ -3420,7 +3364,6 @@ have refused would have brought the united forces of the Amphictyonic
 States against Athens: and these she could not have resisted. It was
 therefore prudent to keep the Peace, though Demosthenes evidently
 regarded it only as an armistice.]
-
 
 {1} I see, men of Athens, that our present situation is one of great
 perplexity and confusion, for not only have many of our interests been
@@ -3616,8 +3559,7 @@ manner towards each of our adversaries individually, where our own most
 essential interests were concerned, to go now to war with all of them
 together, on account of this shadow at Delphi.[n]
 
-
-FOOTNOTES
+## Footnotes
 
 [1] The term 'the allies of Athens' was ambiguous. It might be taken
 (as it was taken by Philip and his envoys) to include only the
@@ -3632,11 +3574,7 @@ ambiguity.
 
 [2] [Greek: oud hotioun].
 
-
-
-
-THE SECOND PHILIPPIC (OR. VI)
-
+## The Second Philippic (Or. VI)
 
 [_Introduction_. After settling affairs at Delphi in 346, Philip
 returned to Macedonia. During a considerable part of 345 and in the
@@ -3667,7 +3605,6 @@ Peloponnesian envoys appear also to have been in Athens at the time;
 and Philip's supporters had put forward various explanations of his
 conduct at the time when the Peace was made. To these also Demosthenes
 replies.]
-
 
 {1} In all our discussions, men of Athens, with regard to the acts of
 violence by which Philip contravenes the terms of the Peace, I observe
@@ -3942,11 +3879,7 @@ be tested with all severity: for I at least have no desire to see any
 one meet with punishment, however much he may deserve his doom, if it
 is accompanied by danger and calamity to us all.
 
-
-
-
-ON THE EMBASSY (OR. XIX)
-
+## On the Embassy (Or. XIX)
 
 [_Introduction_. The principal events with which a reader of this
 Speech ought to be acquainted have already been narrated (see
@@ -4075,8 +4008,7 @@ impressed upon the mind.
 The following analysis of the speech may enable the reader to find his
 way through it without serious difficulty:--
 
-
-INTRODUCTION (§§ 1-28)
+## Introduction (§§ 1-28)
 
 (i) _Exordium_ (§§ 1, 2). Impartiality requested of the jury, in view
 of Aeschines' attempt to escape by indirect means.
@@ -4099,7 +4031,7 @@ time; (5) be incorruptible.
 
     (4) Such a change of policy is only explicable by corruption.
 
-PART 1 (§§ 29-178)
+## Part 1 (§§ 29-178)
 
 The five points of Introduction (ii) are treated as three, or in three
 groups.
@@ -4141,7 +4073,7 @@ disobedience to his instructions (§§ 150-77).
         ambassadors (§§ 167-77). Recapitulation of the points established
         (§§ 177, 178).
 
-PART II (§§ 179-343)
+## Part II (§§ 179-343)
 
 (i) The injury done to Athens--
 
@@ -4177,7 +4109,6 @@ repeated (§§ 300-31).
 
 (ix) Warnings to the jury against Aeschines' attempts to mislead them;
 and conclusion (§§ 331-43).]
-
 
 {1} How much interest this case has excited, men of Athens, and how
 much canvassing has taken place, must, I feel sure, have become fairly
@@ -7366,8 +7297,7 @@ but rather that you should avenge yourselves upon him, and make him an
 example in the eyes of all your fellow citizens and of the whole
 Hellenic world.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] This body was composed of life-members, the archons passing into it
 annually at the conclusion of their term of office. A certain religious

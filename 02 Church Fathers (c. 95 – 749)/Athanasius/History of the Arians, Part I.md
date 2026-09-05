@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part I
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 1. ArianPersecution Under Constantine
 

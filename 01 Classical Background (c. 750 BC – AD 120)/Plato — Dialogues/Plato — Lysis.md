@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Lysis
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-LYSIS
+## Lysis
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 No answer is given in the Lysis to the question, 'What is Friendship?'
 any more than in the Charmides to the question, 'What is Temperance?'
@@ -173,8 +168,7 @@ takes in a difficult argument. But Plato has not forgotten dramatic
 propriety, and Socrates proposes at last to refer the question to some
 older person.
 
-
-SOME QUESTIONS RELATING TO FRIENDSHIP.
+## Some Questions Relating to Friendship
 
 The subject of friendship has a lower place in the modern than in the
 ancient world, partly because a higher place is assigned by us to love
@@ -323,20 +317,13 @@ suggested by the Lysis, others by modern life, which he who wishes to
 make or keep a friend may profitably study. (Compare Bacon, Essay on
 Friendship; Cic. de Amicitia.)
 
+## Lysis, or Friendship
 
-
-
-LYSIS, OR FRIENDSHIP
-
-
-
-
-PERSONS OF THE DIALOGUE:
+## Persons of the Dialogue
 
 Socrates, who is the narrator, Menexenus, Hippothales, Lysis, Ctesippus.
 
 SCENE: A newly-erected Palaestra outside the walls of Athens.
-
 
 I was going from the Academy straight to the Lyceum, intending to
 take the outer road, which is close under the wall. When I came to the

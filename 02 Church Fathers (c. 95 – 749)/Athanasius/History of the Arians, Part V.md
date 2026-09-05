@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part V
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 35. Persecution and Lapse of Liberius
 

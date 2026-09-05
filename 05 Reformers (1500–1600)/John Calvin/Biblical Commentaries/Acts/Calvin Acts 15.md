@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 15
 
-**CHAPTER 15**
+***Chapter 15***
 
 ## Acts 15:1-5
 

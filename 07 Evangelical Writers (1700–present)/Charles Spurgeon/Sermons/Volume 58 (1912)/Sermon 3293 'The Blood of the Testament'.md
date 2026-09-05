@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # 'The Blood of the Testament'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3293
-
-DELIVERED BY C. H. SPURGEON.
 
 > "For when Moses had spoken every precept to all the people according to the Law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all his people, saying, This is the blood of the testament which God has enjoined unto you." Hebrews 9:19,20.
 
@@ -83,7 +80,7 @@ Sinner, would you be saved tonight? Trust Jesus and you shall be! Sinner, would 
 
 The Lord grant you His blessing, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 9; EXODUS 24:1-10.
+## Exposition by C. H. Spurgeon: Hebrews 9; Exodus 24:1-10
 
 Hebrews 9:1. Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary. That is, a sanctuary belonging to this world, a visible sanctuary. That first covenant was to a large degree a thing of outward rites and ceremonies, which the new covenant is not—it is a covenant of spiritual and unseen realities.
 
@@ -120,7 +117,6 @@ with Him who is the one Mediator between God and men, the Man Christ Jesus, for 
 3-8. And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD has said will we do. And Moses wrote all the words of the LORD, and rose up early in the morning, and built an altar under the hill, and twelve pillars, according to the twelve tribes of Israel. And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD. And Moses took half of the blood, andput it in basins; and half of the blood he sprinkled on the altar. And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD has said will we do, and be obedient AndMoses took the blood, and sprinkled it on thepeople, andsaid, Behold the blood of the covenant, which the LORD has made with you concerning all these words. There is a double power about the blood—towards God an Atonement—that is the blood sprinkled on the altar. And towards ourselves a sense of reconciliation—thus must the blood be sprinkled upon us that we may prove its cleansing power.
 
 9-10. Then went up Moses, and Aaron, Nadab, and Abihu, andseventy of the elders oflsrael: and they saw the God of Israel: and there was under His feet as it were a paved work of a sapphire stone, and as it were the body of Heaven in His clearness.
-
 
 ---
 [[Sermon 3292 The Almighty Warrior|← #3292]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3294 The Lord's Eternal Rest|#3294 →]]

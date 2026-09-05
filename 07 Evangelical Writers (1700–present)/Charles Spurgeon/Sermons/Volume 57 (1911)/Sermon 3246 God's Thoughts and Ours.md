@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # God's Thoughts and Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3246
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How precious also are Your thoughts unto me, O God! How great is the sum of them!" Psalm 139:17.
 
@@ -101,7 +98,7 @@ Now, in closing, let me just say that as God's thoughts are so precious to us, w
 
 I fear that I am addressing a great many who do not often think of God and that there are some of you to who it would be a comfort if there were no God at all. Or, if you do think of Him at all, He is only an all-powerful Being of whom you stand in dread because you fear that He will punish you for your sins. Then take warning, by your own thoughts of God and seek to be reconciled to Him so that you may no longer have cause to fear His righteous anger! That reconciliation may be obtained by simple faith in the Lord Jesus Christ. He is the one Mediator between God and men! So if you put your case into His hands and ask Him to act as your Advocate, He will, by His Spirit, reveal to you the glorious Truth of God that the reconciliation was effected long ago, when He laid down His life for you upon the Cross of Calvary! Then, when you have received this blessed assurance, it shall be your continual delight to think of God, and your constant bliss to know that He is thinking of you. And you will say, in the words of our text, "How precious also are Your thoughts unto me, O God! How great is the sum of them!"
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:105-120.
+## Exposition by C. H. Spurgeon: Psalm 119:105-120
 
 We will read tonight two of the stanzas which make up the 119th Psalm, beginning at the 105th verse. Verse 105. Your Word is a lamp unto my feet, and a light unto my path. God's Word is full of brilliance. It is always giving out its blessed light. It casts a light upon all our daily life. It is a light for the house and a light for the way, and happy is the man who never walks abroad without this lantern to light up his pathway! There are many pitfalls on the road and many places where the traveler's garments may soon be smeared, so he has great need of this light to guide him.
 
@@ -148,7 +145,6 @@ We will read tonight two of the stanzas which make up the 119th Psalm, beginning
 119\. Therefore I love Your testimonies.What? Does love to the Truth of God and to the God of Truth spring out of this putting away of the wicked? Yes, even the stern justice of God makes His people love Him and love His Truth! I am of the same mind as the children of Israel were when Pharaoh and his army were swallowed up in the Red Sea, and the emancipated slaves sang unto the Lord who had triumphed so gloriously. Some cannot do that because their sympathy is so entirely with the wicked, but the destruction of all that is evil creates a flow of joy in the heart of the true Believer! Still, it is a fearsome joy, full of holy awe and trembling!
 
 120\. My flesh trembles for fear of You; and I am afraid of Your judgments. Well may we also tremble when we see how terrible God is out of His holy places! There is a fear which is akin to love. As there is a fear which perfect love casts out, so is there another fear which love dandles on her knee—and such is the fear which David felt. May we, too, always have that holy awe of God in our hearts! Amen.
-
 
 ---
 [[Sermon 3245 Our Position and Our Purpose|← #3245]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3247 Unreasonable Reasons|#3247 →]]

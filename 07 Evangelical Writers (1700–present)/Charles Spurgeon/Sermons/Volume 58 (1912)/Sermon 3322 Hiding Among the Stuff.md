@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Hiding Among the Stuff
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3322
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore they enquired of the LORRD further, if the man should yet come there. And the LORRD answered, Behold, he has hid himself among the stuff. And they ran and fetched him from there." 1 Samuel 10:22-23.
 
@@ -73,7 +70,7 @@ Now before I leave this point I should like to say to Brothers and Sisters in Ch
 
 I shall now leave that point and for a short time only—
 
-II. SPEAK TO THE CHILDREN OF GOD WHO HIDE AMONG THE STUFF.
+## II. Speak to the Children of God Who Hide Among the Stuff
 
 Dear Brothers and Sisters, we can make a great many excuses for the unconverted arising from their ignorance and their lack of taste for Divine things. We can understand all that. According to their nature, their carnal minds will act. But we can make no excuses for ourselves. I think an apology is the last thing which a Christian should wish to make for
 
@@ -117,14 +114,13 @@ and strong! Let him be caring for Christ's sheep, many of whom are very weak and
 
 Now, Christians, let me say to you in closing, do seek, as God shall help you, to get away from that baggage and that stuff of yours. Get up! Get up from those valleys where the reeking fog of earth is always lingering—get up to those healthful mountains where the breezes of Heaven fan the cheeks! Get above the mists and clouds into a clearer and serener atmosphere!. Ask the Holy Spirit to assist you in your spiritual mounting. Do not let it be said any longer that when a crown is ready for you, you are hiding away from it. May you be ready to be crowned and, being crowned, live as a king and a priest to the Glory of your Lord! May God add His blessing to these words for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: PSALM120:1-3.
+## Exposition by C. H. Spurgeon: Psalm 120:1-3
 
 Verse 1. In my distress I cried unto the LORD, and He heard me. Slander occasions distress of the most grievous kind. Those who have felt the edge of a cruel tongue know assuredly that it is sharper than the sword. Calumny awakens our indignation by a sense of injustice and yet we find ourselves helpless to fight with the evil, or to act in our own defense. We could ward off the strokes of a cutlass, but we have no shield against a liar's tongue! Silence to man and prayer to God are the best cures for the evil of slander. It is of little use to appeal to our fellows on the matter of slander, for the more we stir it, the more it spreads. It is of no use to appeal to the honor of the slanderer, for they have none, and the most piteous demands for justice will only increase their malignity and encourage them to fresh insult! However, when cries to man would be our weakness, cries to God will be our strength! The ear of our God is not deaf, nor even heavy. He listens attentively, He catches the first accent of supplication. He makes each of His children confess—"He heard me."
 
 2\. Deliver my soul, O LORD, from lying lips, and from a deceitful tongue. Lips are soft, but when they are "lying lips" they suck away the life of character and are as murderous as razors. Lips should never be red with the blood of honest men's reputations, nor salved with malicious lies. The faculty of speech becomes a curse when it is degraded into a mean weapon for smiting men behind their backs. Those who fawn and flatter, too, and all the while have enmity in their hearts, are horrible beings! They are the seed of the devil and he works in them after his own deceptive nature. Better to meet wild beasts and serpents than deceivers! These are a kind of monster whose birth is from beneath and whose end lies far below.
 
 3\. What shall be given unto you? Or what shall be done unto you, you false tongue?The Psalmist seems lost to suggest a fitting punishment! It is the worst of offenses—this detraction, calumny and slander. Judgment sharp and crushing would be measured out to it if men were visited for their transgressions. But what punishment could be heavy enough? What will God do with lying tongues? He has uttered His most terrible threats against them—and He will terribly execute them in due time.
-
 
 ---
 [[Sermon 3321 God in Heaven, and Men on the Sea|← #3321]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3323 The Believer's Glad Prospects|#3323 →]]

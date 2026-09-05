@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Statesman
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-STATESMAN
+## Statesman
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 In the Phaedrus, the Republic, the Philebus, the Parmenides, and the
 Sophist, we may observe the tendency of Plato to combine two or more
@@ -1480,15 +1475,10 @@ writings of Plato from the Laws. And the Theaetetus, Parmenides, and
 Philebus, supply links, by which, however different from them, they may
 be reunited with the great body of the Platonic writings.
 
-
-
-
-STATESMAN
-
+## Statesman
 
 PERSONS OF THE DIALOGUE: Theodorus, Socrates, The Eleatic Stranger, The
 Younger Socrates.
-
 
 SOCRATES: I owe you many thanks, indeed, Theodorus, for the acquaintance
 both of Theaetetus and of the Stranger.

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # The Shank-bone Sermon—Or, True Believers and Their Helpers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2138
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who, when he was come, helped them much which had believed through Grace." Acts 18:27.
 
@@ -152,7 +149,6 @@ As for those who have not yet believed in Jesus, may they now come and trust Him
 "There is life in a look at the Crucified One." The Lord, by His Grace, constrain and enable you to give that look and to Him be glory forever and ever! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Acts 18.
-
 
 ---
 [[Sermon 2136 Possessing Possessions|← #2136]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2139 The Prince of Life|#2139 →]]

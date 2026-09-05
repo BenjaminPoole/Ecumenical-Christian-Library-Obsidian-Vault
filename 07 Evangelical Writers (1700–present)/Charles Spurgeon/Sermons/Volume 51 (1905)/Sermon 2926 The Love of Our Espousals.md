@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Love of Our Espousals
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2926
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Go and cry in the ears of Jerusalem, saying, Thus says the Lord: I remember you, the kindness of your youth, the love of your espousals, when you went after Me in the wilderness, in a land that was not sown." Jeremiah 2:2.
 
@@ -97,7 +94,7 @@ Rejoice not, O young man, in your spiritual youth. Exult not, O new convert, in 
 
 I only hope that some of the words I have spoken, if not directly uttered to the unconverted, may glance in their hearts and lead them to seek a Savior through Jesus Christ our Lord. Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH2:1-19.
+## Exposition by C. H. Spurgeon: Jeremiah 2:1-19
 
 Verses 1-3. Moreover the word of the LORD came to me, saying, Go and cry in the ears of Jerusalem, saying, Thus says the LORD, I remember you, the kindness of your youth, the love of your espousals when you went after Me in the wilderness, in a land that was not sown. Israel was holiness unto the LORD, and the first fruits of His increase: all that devour him shall offend; all shall come upon them, says the LORD. God remembered what Israel used to be in those good days when the Lord alone did lead them and there was no strange god among them. Now He bids them remember from whence they had fallen and repent and do their first works lest He come unto them in wrath. Oh, Beloved, if you ever lived near to God—if you ever rested your head on Christ's bosom and have now wandered away from Him and are spiritually cold and dead, begin to chide yourself, for the Lord Himself, in the word before us, does chide you. He calls
 
@@ -118,7 +115,6 @@ you to a sorrowful remembrance of the position from which you have descended—t
 18\. And now what have you to do in the way of Egypt, to drink the waters of Sihor? Or what ha ve you to do in the way of Assyria, to drink the waters of the river?For instead of going to the fountain of living waters, they were hoping to be helped by the Egyptians or helped by the Assyrians. Just as there are some Christians who try to drink the muddy waters of sinful pleasure and of carnal lust, they are beginning to think the muddy river very sweet and to like the taste of it. It is a deadly evil when professing Christians begin to do as others do and to mix with the world and feel pleasure in it. There will be a blight upon you if you turn from God! Misery will dog your steps before long if you are, indeed, a child of God.
 
 19\. Your own wickedness shall correct you, and your backsliding shall reprove you: know therefore and see that it is an evil thing and bitter, that you have forsaken the LORD your God, and that My fear is not in you, says the Lord GOD of Hosts. A very solemn passage. May we lay it to heart. Not only is there guilt in our sin for which we shall have to answer at God's Judgment Seat, but there is evil in it which will come swiftly upon our own heads even here, "Be sure your sin will find you out." The thing you think will be your strength will be your scourge. What you dream of as pleasure will prove to be your plague. If you have ever known the joy of God's service, all this shall be doubly true of you—you shall never again be able to find satisfaction in the world and God, the God whom you did once delight in— will let your own wickedness correct you and your backslidings reprove you because He wishes you to come back to His side, and to drink again of the living waters which you have so foolishly forsaken.
-
 
 ---
 [[Sermon 2925 Reasons For Doubting Christ|← #2925]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2927 Love at Leisure|#2927 →]]

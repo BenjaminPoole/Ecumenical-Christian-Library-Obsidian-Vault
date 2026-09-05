@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Royal Emblems for Loyal Subjects
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2947
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He shall be like the light of the morning when the sun rises, even a morning without clouds; like the tender grass springing out of the earth, by clear shining after rain." 2 Samuel 23:4.
 
@@ -93,7 +90,7 @@ How sad the thought that there is no "clear shining after rain" for some of you!
 
 Sinner, will you avoid the tempest? Will you flee and find shelter in Christ? God help you to trust Christ, now, and unto Him shall be the glory, forever and ever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM27.
+## Exposition by C. H. Spurgeon: Psalm 27
 
 Verse 1. The LORD is my light and my salvation; whom shall I fear? The LORD is the strength of my life; of whom shall I be afraid? A sort of trembling seems to have been creeping over David, so he argues thus with his own heart, "Why should I be dismayed? Am I afraid of coming darkness? 'The Lord is my light.' Do dangers surround me? 'The Lord is my salvation.' Do I expect stern labor or severe suffering? 'The Lord is the strength of my life.' Are there many enemies watching for my halting? Yet, 'of whom shall I be afraid' since He is on my side?'" Then he falls back upon his past experience.
 
@@ -136,7 +133,6 @@ faint. O you who are of feeble faith, it is little marvel that you faint! Would 
 13\. To see. Some say, "Seeing is believing," but it is not—it is the very opposite of believing. Some people must see in order to believe, but the true followers of our Lord believe to see. If you will believe it, you shall see it. But if you will not believe it till you have seen it, then you shall never believe at all. "I had fainted, unless I had believed to see"—
 
 13, 14. The goodness ofthe LORD in the land ofthe living. Wait on the LORD: be ofgood courage, and He shall strengthen your heart: wait, I say, on the LORD. Why did David put that little sentence in and say, "Wait, I say"? It is a repetition, but not a vain one, for it is his own personal testimony, as much as if he had said, "I have waited on the Lord, and I have found that He helps me, so, wait, I say, on the Lord." Oh, my Brothers and Sisters, we wait so much upon men, we wait so much upon ourselves! If we could get into that holy quietness in which God's voice could be heard within our souls—if the voice of man could be hushed and we were content that the Lord should speak to us—how much more blessed would our lives become! Now have you any burden at this moment? Have you any fears? Have you a knot which you cannot untie? Have you come into a labyrinth of which you cannot find the clue? "Wait on the Lord: be of good courage, and He shall strengthen your heart; wait, I say, on the Lord."
-
 
 ---
 [[Sermon 2946 A Procession of Cross-bearers|← #2946]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2948 Stephen and Saul|#2948 →]]

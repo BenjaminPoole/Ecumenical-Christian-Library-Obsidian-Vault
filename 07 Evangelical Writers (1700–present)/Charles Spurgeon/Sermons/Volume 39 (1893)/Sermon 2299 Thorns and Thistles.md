@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Thorns and Thistles
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2299
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thorns, also, and thistles shall it bring forth to you." Genesis 3:18.
 
@@ -129,7 +126,7 @@ It matters not to the Believer what form his life may take when once Christ has 
 
 Oh, God, grant that we may never settle down upon this thistle plot and try to make it to be our heritage, but may we find our portion in the Lord Jesus Christ! I wish all of you that blessing, for His name's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON. GENESIS3.
+## Exposition by C. H. Spurgeon. Genesis 3
 
 Verse 1. Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman, Yes, has God said, You shall not eat of every tree of the garden? He began with a question. How much of evil begins with questioning! The serpent does not dare to state a lie, but he suggests one—"Has God refused you all the fruit of these many trees that grow in the garden?"
 
@@ -188,7 +185,6 @@ And Jesus stooped beneath the grave
 To reach a sinking world."
 
 He took not on Him the nature of angels, but He took our nature and died in our place! May we trust to His death to bring us life and, thereby, be saved from the consequences of the Fall!
-
 
 ---
 [[Sermon 2298 The Christ-Given Rest|← #2298]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2300 The Whole Gospel In A Single Verse|#2300 →]]

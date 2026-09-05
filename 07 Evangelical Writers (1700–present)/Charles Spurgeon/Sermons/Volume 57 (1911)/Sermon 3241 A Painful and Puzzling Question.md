@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # A Painful and Puzzling Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3241
 
-DELIVERED BY C. H. SPURRGEON,.
+*Delivered by C. H. Spurrgeon*
 
 > "How is it that you have no faith?" Mark 4:40.
 
@@ -99,7 +98,7 @@ But mark you, if this question does not haunt you, now, the day will come when s
 
 Oh, may you never need to be asked that question again, but may you now believe on the Lord Jesus Christ and be saved! Amen.
 
-MARK4:35-41.
+## Mark 4:35-41
 
 Verses 30, 36 And the same day, when the evening was come, He said unto them, Let us pass over unto the other side. And when they had sent away the multitude Telling them that Christ would give them no more instruction that day, and that they had better go back to their homes. There are some preachers who have great gifts of dispersion, it does not take them long to scatter a congregation—but I expect that Christ's disciples found it to be no easy task to send away the crowds that had been listening to their Master's wondrous words. But, "when they had sent away the multitude"—
 
@@ -128,7 +127,6 @@ for winds and waves were but His Father's servants, obeying His commands. "He wa
 41\. And said one to another, What manner of Man is this, that even the wind and the sea obey HiM. Blessed God-Man,
 
 we worship and adore You!
-
 
 ---
 [[Sermon 3240 The Blood of Christ's Covenant|← #3240]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3242 Unparalleled Loving Kindnesses|#3242 →]]

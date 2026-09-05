@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Redemption By Price
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1554
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 22, 1880,.
+*Delivered on Lord's-Day Morning, August 22, 1880*
 
 > "You are not your own: for you are bought with a price." 1 Corinthians 6:19,20.
 
@@ -146,7 +145,6 @@ If He will save you, shall He have you to be His possession? If He will buy you,
 He will accept you! He does accept you, now, if that is the utterance of your heart! And you, too, may go away and sing—
 
 "I am Yours and Yours alone, This I gladly, fully own." God grant it, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1553 Faith Working By Love|← #1553]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1555 The Glories of Forgiving Grace|#1555 →]]

@@ -8,12 +8,9 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # C.H. Spurgeon's Communion Hymn
 
 *Till He Come* — Charles H. Spurgeon
-
-## C. H. SPURGEON’S COMMUNION HYMN.
 
 ### (No. 939 in “Our Own Hymn Book.”)
 
@@ -56,7 +53,6 @@ Thy present smile a heaven imparts:
 Oh, lift the veil, if veil there be,
 
 Let every saint Thy beauties see!
-
 
 ---
 [[THC Swooning and Reviving Christ's Feet|← Swooning and Reviving Christ's Feet]] · [[Till He Come|Till He Come Contents]]

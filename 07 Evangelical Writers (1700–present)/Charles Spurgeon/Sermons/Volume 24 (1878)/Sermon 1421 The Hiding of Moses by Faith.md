@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Hiding of Moses by Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1421
-
-DELIVERED BY.
 
 > "By faith Moses, when he was born, was hid three months by his parents, because they sa w he was a proper child; and they were not afraid of the king's commandment." Hebrews 11:23.
 
@@ -146,7 +143,6 @@ He gives me many mercies and favors, but I know what it is to have been without 
 I cannot understand some of you poor people—how can you live without God when you have so little comfort of a temporal sort? I cannot understand you rich people—how can you live without God when He is so good and kind to you? How can you forget Him who daily loads you with benefits? You seem to me to get the husks and not to look for the kernels! You are living on the outside skins and never suck the juice of joy! The soul of life is to live to God! The peace, the deep, the heavenly rest which the soul gets must always come by a living faith in Jesus Christ!
 
 I say this because there is not one among you who, if you have this faith, may not exercise it whatever your calling may be! You may drive horses, you may measure calico and weigh up sugar—and do all by faith to God's Glory! You may be on the Exchange, or you may be a book-folder, or a porter, or a nursery governess, or a plain cook—but everywhere, faith has something to do and you can show the power of faith in common life! God grant you may have faith worked in you by the Holy Spirit. God is true, why do you not trust Him? God is true, why do you not believe Him? The Christ of God is gracious, why do you not accept Him? He loves to save sinners! He receives all them that come to Him! Why do you not come to Him? God grant you may, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1420 The Headstone of the Corner|← #1420]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1422 The Chief Physician and the Centurion's Servant|#1422 →]]

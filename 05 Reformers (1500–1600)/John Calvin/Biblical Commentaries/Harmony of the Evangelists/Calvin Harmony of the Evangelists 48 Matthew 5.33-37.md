@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 48. Matthew 5:33-37
-
-**MATTHEW 5:33-37**
 
 **33**. Again, ye have heard that it was said to the ancients, Thou shalt not perjure thyself: but thou shalt perform to the Lord what thou hast sworn. **34**. But I charge you, swear not at all: neither by heaven, for it is the throne of God: **35**. Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great King: **36**. Nor shalt thou swear by thy head: for thou canst not make one hair white or black. **37**. But your speech shall be, Yes, yes; No, no for what is beyond these comes from evil. [^1]
 

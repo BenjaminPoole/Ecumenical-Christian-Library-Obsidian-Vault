@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # God's Answer to Persistent Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3376
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There is a sound of abundance of rain." 1 Kings 18:41.
 
@@ -33,7 +30,7 @@ keeps up its acquaintanceship with the Eternal Father by whom it was begotten. L
 
 I thought of using this fact tonight as an illustration of the Truth of God that there are certain signs which faith can see of a coming revival in a Church. We will take that first. Then, there are certain tokens which faith can perceive of coming joy and peace in an individual heart—of that secondly. In the first place—
 
-I. THERE ARE CERTAIN SIGNS AND TOKENS FOR GOOD WHICH PRAYERFUL FAITH CLEARLY PERCEIVES WHEN AN AWAKENING—A GENUINE REVIVAL—IS ABOUT TO COME.
+## I. There Are Certain Signs and Tokens for Good Which Prayerful Faith Clearly Perceives When an Awakening—a Genuine Revival—is About to Come
 
 What are these signs? I do not know that they are perceptible at this time throughout the Churches of London. I do not know that they are perceptible anywhere, but I do know that wherever they are, they are the shadows which coming events cast before them! And one of the first of them is this—a growing dissatisfaction with the present state of things and an increasing anxiety among the members of the Church for the salvation of souls. To have no conversions is a very dreadful thing, but to be at ease without seeing conversions is at all times more dreadful! I could bear a suspension in the increase of the Church, I think, with some degree of peace of mind if I found all the members distressed and disturbed about it!
 
@@ -55,7 +52,7 @@ Verily, verily, I say unto you, you need not think of the conversion of Japan, I
 
 God stir up His Church, then, in the manner which I have tried to depict, and there will be "a sound of abundance of rain." And now to change the line of thought, I want to—
 
-II. HAVE A FEW MINUTES' QUIET TALK WITH PERSONS WHO ARE DISPIRITED.
+## II. Have a Few Minutes' Quiet Talk with Persons Who Are Dispirited
 
 Some of you have got into Giant Despair's castle. You have had a taste of his cruel crab tree cudgel lately. You have been taken to see the dead men's bones outside the castle and you have been told that there is nothing for you but destruction. Now, there is, I believe, to such as you are, with all your sad distress of mind, an indication that the famine and drought of your soul shall soon end. Such a condition as yours cannot always be. There are always signs of abundance of rain. Perhaps there are some such signs now in you!
 
@@ -105,7 +102,7 @@ Christian Brothers and Sisters, I dare say some of you sometimes get very dry an
 
 The Lord make us uneasy and wretched out of Him—make us hungry and thirsty apart from Him! The Lord make us covetous beyond all covetousness after Him, dissatisfied beyond all peace of mind apart from Him! And when we get to that, He will feed us with bread to the fullest and give us the wines on the lees well-refined, that we may drink and rejoice! May God give a blessing to these words for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 7.
+## Exposition by C. H. Spurgeon: Matthew 7
 
 While we are reading, let us also be adoring at the same time, for the words of Christ have a gracious Divinity about them. They are Infinite. They are Omnipotent. There is a kind of life in them—a life which communicates itself to those who hear them. Our Savior did not preach sermons—He preached texts. All His sermons are full of golden sentences, not hammered gold leaf, like those of men, but ingots of solid gold and the gold of that land is good, the most fine gold. There is none like it. Thus He preaches in the seventh Chapter of Matthew.
 
@@ -136,7 +133,6 @@ untruthful dealing and it amounts to hypocrisy. If you were really so zealous to
 15-25. Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves. You shallknow them by their fruits. Do men gather grapes from thorns, or figs from thistles? Even so, every good tree brings forth good fruit: but a corrupt tree brings forth evil fruit A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit Every tree that brings not forth good fruit is hewn down and cast into the fire. Therefore by their fruits you shallknow them. Not everyone that says unto Me, Lord, Lord, shall enter into the Kingdom ofHeaven; but he that does the will of My Father which is in Heaven. Many will say to Me in that day, Lord, Lord, have we not prophesied in Your name? And in Your name have cast out devils; and in Your name done many wonderful works? And then will I say unto them, I never knew you; depart from Me, you that work iniquity. Therefore whoever hears these sayings of Mine, and does them, I will liken him unto a wise man, which built his house upon a rock And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.For the best man will be tried, and perhaps all the more because he is such!
 
 26-29. And everyone that hears these sayings of Mine and does them not, shall be likened unto a foolish man, which built his house upon the sand. And the rain descended, and the floods came, and the winds blew, and beat upon that house: and it fell: and great was the fall of it. And it came to pass, when Jesus had ended these sayings, the people were astonishedat His Doctrine. For He taught them as one having authority, andnot as the scribes.
-
 
 ---
 [[Sermon 3375 Standing and Singing|← #3375]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3377 The Greatest Wonder of Grace|#3377 →]]

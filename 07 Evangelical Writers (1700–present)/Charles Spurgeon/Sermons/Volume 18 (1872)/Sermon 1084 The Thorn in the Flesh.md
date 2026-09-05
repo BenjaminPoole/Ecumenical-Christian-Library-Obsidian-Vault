@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # The Thorn in the Flesh
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1084
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 8, 1872.
+*Delivered on Lord's-Day Morning, December 8, 1872*
 
 > "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure. For this thing I besought the Lord thrice, that it might depart from me. And He said unto me, My Grace is sufficient for you: for My strength is made perfect in weakness. Most gladly, therefore, will I rather glory in my infirmities, that the power of Christ may rest upon me." 2 Corinthians 12:7,8,9.
 
@@ -154,7 +153,6 @@ The last thought of all is, what a sad thing it must be not to be a Believer in 
 You are like a ship in a storm and there is no harbor for you. You are as birds driven before the wind and you have no nests in which to shelter but must be driven forever before the blast of Jehovah's wrath. Consider this, I pray you— meditate upon your condition and prospects and when you have done so, may your heart cry out—"I would gladly have God to be my Friend!" Remember that He who sent Paul thorns for his good once wore a crown of thorns Himself for the salvation of sinners!
 
 And if you will come and bow before Him as He wears that diadem and trust Him as the Son of God made flesh for sinners and bleeding and dying for them, you shall be saved this morning! Your sins, which are many, shall be forgiven you! And though I cannot promise you that you shall be without thorns as you live, I can promise you that your thorns shall be removed—they shall become to you a rich blessing which will be better, still. There is one thorn you shall never have if you believe in Jesus—the thorn of unforgiven sin—the fear of the wrath to come! You shall have the peace of God which passes understanding which shall keep your heart and mind by Christ Jesus. O, that some would trust in Jesus this morning! Go, Brothers and Sisters, and pray it may be so. The Lord grant it, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1083 Living Temples for the Living God|← #1083]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1085 Dwell Deep, O Dedan!|#1085 →]]

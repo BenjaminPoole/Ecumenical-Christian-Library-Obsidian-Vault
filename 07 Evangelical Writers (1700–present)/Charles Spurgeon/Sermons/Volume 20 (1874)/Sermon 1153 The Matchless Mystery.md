@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Matchless Mystery
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1153
-
-DELIVERED BY.
 
 > "For we are members of His body, of His flesh, and of His bones" Ephesians 5:30.
 
@@ -203,12 +200,11 @@ In this spirit come to the Communion Table and find your Master there! But oh, i
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Genesis 2:18; Ephesians5:22-33. HYMNS FROM "OUR OWN HYMN BOOK"—761, 762.
 
-A MESSAGE:
+## A Message
 
 I have revised this sermon at Cannes, to which place I have come for health. I am happy to inform all friends that I am already much better. The influences of a warm, sunny climate and rest from great labor are being blessed by Infinite Mercy to my restoration. I commend the work I am obliged to leave to the prayers of God's people and I desire, also, to thank numerous friends for their substantial help to the College and Orphanage, so that I am not tempted to be anxious about funds for these at a time when ease of mind is especially desirable. With this I send most loving salutations to all my readers. May the Lord send to our beloved land a great revival of true religion.
 
-C. H. SPURGEON.
-
+## C. H. Spurgeon
 
 ---
 [[Sermon 1152 A Lesson from the Life of King Asa|← #1152]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1154 Daniel Facing the Lions' Den|#1154 →]]

@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 21
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE FIRST CONFERENCE OF ABBOT THEONAS. ON THE RELAXATION DURING THE FIFTY DAYS.
+## The First Conference of Abbot Theonas. On the Relaxation During the Fifty Days
 
 ## Chapter 1
 

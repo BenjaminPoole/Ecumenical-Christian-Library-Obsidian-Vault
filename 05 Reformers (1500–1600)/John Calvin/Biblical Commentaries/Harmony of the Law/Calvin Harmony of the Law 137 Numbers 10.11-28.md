@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 137. Numbers 10:11-28
-
-**Numbers 10**
 
 **11.** And it came to pass on the twentieth *day* of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
 

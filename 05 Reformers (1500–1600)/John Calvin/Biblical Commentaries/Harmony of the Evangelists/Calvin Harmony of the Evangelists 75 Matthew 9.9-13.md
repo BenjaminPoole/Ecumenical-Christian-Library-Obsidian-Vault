@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 75. Matthew 9:9-13; Mark 2:13-17; Luke 5:27-32
-
-**MATTHEW 9:9-13; MARK 2:13-17; LUKE 5:27-32**
 
 **9**. And Jesus, passing on, saw a man sitting at the custom-house, named Matthew, and saith to him, Follow me. And he arose and followed [^1] him. **10**. And it happened that he was reclining in that man’s house, and, lo, many publicans and sinners who had come, reclined together with Jesus and his disciples. **11**. And the Pharisees, when they saw it, said to his disciples, Why does your Master eat with publicans and sinners? **12**. But Jesus, when he had heard it, said to them, Not they who are in health have need of a physician, but they who are diseased. **13**. But rather go, and learn what that means, I wish mercyh, and not sacrifice: for I came not to call righteous persons, but sinners, to repentance.
 

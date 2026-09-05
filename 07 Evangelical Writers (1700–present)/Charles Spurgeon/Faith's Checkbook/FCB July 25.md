@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 25
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NOTHING TO ALARM US**
+## **Nothing to Alarm Us**
 
 > But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days." Dan. 12:13
 
@@ -23,7 +22,6 @@ We cannot understand all the prophecies, but yet we regard them with pleasure, a
 Calmly resolute in duty, brave in conflict, patient in suffering, let us go our way, keeping to our road, and neither swerving from it nor loitering in it. The end will come; let us go our way till it does.
 
 Rest will be ours. All other things swing to and fro, but our foundation standeth sure. God rests in His love, and, therefore, we rest in it. Our peace is, and ever shall be, like a river. A lot in the heavenly Canaan is ours, and we shall stand in it, come what may. The God of Daniel will give a worthy portion to all who dare to be decided for truth and holiness as Daniel was. No den of lions shall deprive us of our sure inheritance.
-
 
 ---
 [[FCB July 24|← July 24]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 26|July 26 →]]

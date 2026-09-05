@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 7
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE REACH OF ALMIGHTY GRACE**
+## **The Reach of Almighty Grace**
 
 > It shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God" Hosea 1:10
 
@@ -23,7 +22,6 @@ Sovereign grace can make strangers into sons, and the Lord here declares His pur
 Some of us were so decidedly ungodly that the Lord's Word most truly said to our conscience and heart, "Ye are not my people." In the house of God, and in our own homes, when we read the Bible, this was the voice of God's Spirit in our soul, "Ye are not my people." Truly a sad condemning voice it was. But now, in the same places, from the same ministry and Scripture, we hear a voice, which saith, "Ye are the sons of the living God." Can we be grateful enough for this? Is it not wonderful? Does it not give us hope for others? Who is beyond the reach of almighty grace? How can we despair of any, since the Lord has wrought so marvelous a change in us?
 
 He who has kept this one great promise will keep every other; wherefore, let us go forward with songs of adoration and confidence.
-
 
 ---
 [[FCB September 6|← September 6]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 8|September 8 →]]

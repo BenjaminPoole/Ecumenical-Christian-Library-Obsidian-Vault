@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Love To Jesus
 
 *New Park Street Pulpit* · Sermon No. 338
 
-DELIVERED ON SABBATH MORNING, SEPTEMBER 30, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, September 30, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > "O You whom my soul loves." Song of Solomon 1:7. IF the life of a Christian may be compared to a sacrifice, then humility digs the foundation for the altar; prayer brings the unhewn stones and piles them, one upon the other; penitence fills the trench round about the altar with water; obedience lays the wood in order—faithpleads the Jehovah-Jireh, and places the victim upon the altar. But the sacrifice, even then, is incomplete, for where is the fire? Love, love alone, can consummate the sacrifice by supplying the necessary fire from Heaven. Whatever we lack in our piety, as it is indispensable that we should have faith in Christ, so is it absolutely necessary that we should have love to Him. That heart which is devoid of an earnest love to Jesus is surely still dead in trespasses and sins. And if any man should venture to affirm that he had faith in Christ, but had no love to Him, we would at once also venture to affirm as positively that his religion was vain! Perhaps the great need of the religion of the times is love. Sometimes, as I look upon the world at large, and the Church which lies too much in its bosom, I am apt to think that the Church has light, but lacks fire. She has some degree of true faith, clear knowledge, and much besides which is precious, but she lacks to a great extent that flaming love with which she once, as a chaste virgin, walked with Christ through the fires of martyrdom; when she showed to Him her undefiled, unquenchable love in the catacombs of the city and the caves of the rocks—when the snows of the Alps might testify to the virgin purity of the love of the saints by the purple stain which marked the shedding of blood in defense of our bleeding Lord—blood which had been shed in defense of Him whom, though they had not seen His face, "unceasingly they adored."
 
@@ -78,7 +77,6 @@ WOMAN'S MEMORIAL—read/download, by God's Grace, all 63 volumes ofCHSpurgeon se
 But we have not come to the end, yet! Is there no man or woman who can invent some new deed for Christ? Is there no Brother or Sister who can do something more for Him than has been done today, or yesterday, or during the last month? Is there no man who will dare to be strange and singular and wild and in the world's eye to be fanatical? Remember, that is not love which is not fanatical in the eyes of man! Depend upon it, that is not love that only confines itself to propriety. I would the Lord would put into your heart some thought of giving an unaccustomed thank-offering to Him, or of doing an unusual service, so that Christ might be honored with the best of your lambs, and that the fat of your bullocks might be exceedingly glorified by your proof of love to Him.
 
 God bless you as a congregation. I can only invoke His blessing, for O, these lips refuse to speak of love which I trust my heart knows, and which I desire to feel more and more! Sinner, trust Christ beforeyou seek to love Him—and trusting Christ you willlove Him, by His Grace. Amen.
-
 
 ---
 [[Sermon 0337 Sin Slain|← #337]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0339 The Sons of God|#339 →]]

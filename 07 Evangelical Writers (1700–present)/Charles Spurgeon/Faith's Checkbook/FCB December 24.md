@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**OVER JORDAN WITH SINGING**
+## **Over Jordan with Singing**
 
 > Thine enemies shall be found liars unto thee" Deut. 33:29
 
@@ -25,7 +24,6 @@ He says that we shall fall from grace, dishonor our profession, and perish with 
 He whispers that the Lord will not deliver us out of the trial which is looming in the distance, and he threatens that the last ounce will break the camel's back. What a liar he is! For the Lord will never leave us, nor forsake us. "Let him deliver him now!" cries the false fiend: but the Lord will silence him by coming to our rescue.
 
 He takes great delight in telling us that death will prove too much for us. "How wilt thou do in the swelling of Jordan?" But there also he shall prove a liar unto us, and we shall pass through the river singing psalms of glory.
-
 
 ---
 [[FCB December 23|← December 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 25|December 25 →]]

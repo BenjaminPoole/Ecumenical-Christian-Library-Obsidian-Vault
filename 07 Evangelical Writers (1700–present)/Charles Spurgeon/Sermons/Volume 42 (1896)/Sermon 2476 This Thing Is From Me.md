@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "This Thing Is From Me"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2476
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thus says the LORD, You shall not go up, nor fight against your brethren, the children of Israel: return every man to his house; for this thing is from Me." 1 Kings 12:24.
 
@@ -51,7 +48,7 @@ So there are some events which are especially from the Lord, although it seems n
 
 II. The second thing evidently taught by our text is that WHEN EVENTS ARE SEEN TO BE FROM THE LORD,
 
-THEY ARE NOT TO BE FOUGHT AGAINST.
+## They Are Not to Be Fought Against
 
 Rehoboam had summoned his soldiers to go to war against the house of Israel, but, inasmuch as it was from God that the 10 tribes had revolted from him, he must not march into the territories of Israel, nor even shoot an arrow against them.
 
@@ -83,7 +80,7 @@ Well, if ever you feel that, yield to it! O dear Hearts, if ever you find an unu
 
 Our time has gone, but may what has been spoken be remembered throughout eternity because it can truly be said, "This thing is from Me, says the Lord."
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS11:40-43; 12.
+## Exposition by C. H. Spurgeon: 1 Kings 11:40-43; 12
 
 God threatened Solomon, on account of his setting up other gods, that He would tear away a great part of the kingdom from him and that He would set up another king in his place.
 
@@ -124,7 +121,6 @@ This was a wicked policy, but the young men said to the king, "No, no, no! Do no
 32, 33. And he offered upon the altar. So did he in Bethel, sacrificing to the calves that he had made: and he placed in Bethel the priests of the high places which he had made. So he offered upon the altar which he had made in Bethel the fifteenth day of the eighth month, even in the month which he had devised of his own heart. It is a strong condemnation of anything in religion if it is devised by a man's own heart. We are to do what God bids us, as God bids us, when God bids us and because God bids us. But that which is merely of our own free will, ordained and manufactured by ourselves, is practically the worship of ourselves and not the worship of God.
 
 33\. And ordained a feast to the children of Israel: and he offered upon the altar, and burnt incense. Thus Israel was led astray at the very beginning. She came to the crossroads and took the wrong turn. And she went from bad to worse. God save all of us from following her evil example, but may we all serve the one living and true God, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2475 My Garden—His Garden|← #2475]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2477 Darkness Before the Dawn|#2477 →]]

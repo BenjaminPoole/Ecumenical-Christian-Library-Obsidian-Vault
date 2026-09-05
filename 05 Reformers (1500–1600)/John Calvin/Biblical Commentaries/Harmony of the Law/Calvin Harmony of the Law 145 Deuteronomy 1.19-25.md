@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 145. Deuteronomy 1:19-25
 
 **The Repetition of the same Narrative**
-
-**Deuteronomy 1**
 
 **19.** And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the Lord our God commanded us; and we came to Kadesh-barnea.
 

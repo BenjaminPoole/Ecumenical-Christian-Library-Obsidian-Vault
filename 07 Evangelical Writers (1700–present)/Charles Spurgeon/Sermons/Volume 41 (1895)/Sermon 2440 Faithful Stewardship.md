@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Faithful Stewardship
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2440
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Moreover it is required in stewards, that a man be found faithful." 1 Corinthians 4:2.
 
@@ -127,7 +124,7 @@ Whose wrath you cannot bear! Fly to the shelter of His Cross And find salvation 
 
 Oh, fly to Jesus at once, for He has said, "Him that comes to Me I will in no wise cast out." God help you to trust to Christ, tonight, and to go out of this Tabernacle saved men and saved women, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE12:35-48.
+## Exposition by C. H. Spurgeon: Luke 12:35-48
 
 Verses 35-37. Let your loins be girded about and your lights burning; and you yourselves like unto men that wait for their master, when he will return from the wedding; that when he comes and knocks, they may open unto him immediately. Blessed are those servants whom the master, when he comes, shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them. This is a wonderful passage. Christ has already had one turn as a Servitor. He was Master and Lord, yet He washed His disciples' feet. But He says that if we are watchful and faithful, if we truly serve Him, the day shall come when, in all His robes of Glory, He shall gird Himself and serve us.
 
@@ -138,7 +135,6 @@ Verses 35-37. Let your loins be girded about and your lights burning; and you yo
 45, 46. But and if that servant says in his heart, My master delays his coming; and shall begin to beat the male and female servants and to eat and drink, and to be drunk; the master of that servant will come on a day when he looks not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers. Again let me say that I cannot attempt to explain all that these words mean, but, oh, what will be the horror, the terror, of the punishment which will fall upon the unfaithful steward, the minister who is untrue to his holy calling, the professor who says that he is a child of God and a steward of Christ, and yet is unfaithful to his trust? I will read our Lord's words again. You know how we are sometimes accused of saying things too dreadful about the wrath of God in the world to come, but, Beloved, we never say anything dreadful enough! If you will carefully examine the Word of God, you will find there expressions such as even Dante or the mediaeval preachers, with all the horrors they depicted, never surpassed! We cannot exaggerate the awful depth of meaning which we find in the words of the loving Christ, Himself! Let me read this verse again—"The master of that servant will come on a day when he looks not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
 
 47, 48. And that servant, which knew his lord's will, and did not prepare himself, neither did according to his will, shall be beaten with many stripes. But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomever much is given, of him shall be much required and to whom men have committed much, of him they will ask the more. Judge you, then, Brothers and Sisters, how much of ability and talent your Lord has entrusted to you— and be not content to have rendered Him some service—but look for proportionate service and humble yourselves in His Presence if your service is not in proportion to the opportunities entrusted to you! Who among us can refrain from humbling himself before God when he thinks of this?
-
 
 ---
 [[Sermon 2439 Five Links in a Golden Chain|← #2439]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2441 The Lord's Knowledge, Our Safeguard|#2441 →]]

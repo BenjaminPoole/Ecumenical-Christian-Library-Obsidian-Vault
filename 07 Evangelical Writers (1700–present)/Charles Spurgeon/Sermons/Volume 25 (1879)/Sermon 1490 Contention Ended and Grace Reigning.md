@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Contention Ended and Grace Reigning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1490
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 17, 1879,.
+*Delivered on Lord's-Day Morning, August 17, 1879*
 
 > "For I will not contend forever, neither will I always be angry; for the spirits would fail before Me, and the souls which I have made. For the iniquity of his covetousness was I angry, and smote him: I hid and was angry, and he went on backsliding in the way of his heart. I have seen his ways, and will heal him: I will also lead him, and restore comforts to him and to his mourners." Isaiah 57:16-18.
 
@@ -160,7 +159,6 @@ To Your command I gladly bow,
 And would contend no more."
 
 Oh, come, you wanderers, and rest in Jesus! Come, you most lost, most ruined, most hopeless and find Heaven begun in Christ! Oh, you that sit on the edge of Hell, who have made a Covenant with Death and a league with Satan, whose death warrant seems to be signed and put into your hands so that you read it by the flames of Hell, whose fury you anticipate—come to Jesus and that handwriting of death shall be blotted out! The impending judgment seems even now to scorch your souls—come and find deliverance from it, for God Himself invites you! Tarry no longer! May Jesus sweetly lead you to Himself. Amen.
-
 
 ---
 [[Sermon 1489 The Plague of the Heart|← #1489]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1491 Remember Lot's Wife|#1491 →]]

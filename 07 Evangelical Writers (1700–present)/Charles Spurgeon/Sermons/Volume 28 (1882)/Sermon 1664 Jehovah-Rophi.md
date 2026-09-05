@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # "Jehovah-Rophi"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1664
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 11, 1882,.
+*Delivered on Lord's-Day Morning, June 11, 1882*
 
 > "I am the Lord who heals you." Exodus 15:26.
 
@@ -178,7 +177,6 @@ Moreover, a God so fond of purity, a God who hates sin so intensely and who love
 Now, as you have believed in God for your justification and found it in Christ, so believe in God for your sanctifica-tion, that He will work in you to will and to do according to His good pleasure! Believe that He will exterminate in you the very roots of sin—that He will make you like Himself, without taint or speck, and that, as surely as you are trusting in Christ, you shall be whiter than snow, pure as the infinite Jehovah—and you shall stand with His First-Born, accepted in the Beloved! My soul seems to grasp this and to hold it all the more firmly because the Lord has turned my bitter circumstances into sweetness and has healed the sickness of my body.
 
 Because of these former mercies, I know that He will heal the sickness of my spirit, and I shall be whole, that is to say, holy, without spot or trace of sin and so shall I be forever with the Lord. "Therefore comfort one another with these words." Brothers and Sisters, if the Lord has taken you into His hospital and healed you, do not forget other sick folk! Freely you have received, freely give! Give today to the hospitals in which so many of the poor are cared for and relieved. Do it for Jesus' sake and may the Lord accept your offerings!
-
 
 ---
 [[Sermon 1663 The True Gospel Is No Hidden Gospel|← #1663]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1665 The Exceeding Riches of Grace|#1665 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Certainty And Freeness Of Divine Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 599
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 13, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, November 13, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > John 6:37.
 
@@ -154,7 +153,6 @@ Now, do you see it, Soul? If you do, I am content—if you trust Christ to save 
 What? Are there none who will accept this? Are there none here who say, "I will trust my soul in Jesus' hands"? What? Will you build on your own righteousness? Ah, Fools! To pile up the sand which the next tide must sweep away! What? Do you despise the mercy of my God? Will you turn away from the bleeding wounds of His own dear Son? What? Is forgiveness not worth your having? Is God's free mercy a thing to be scoffed at? O Heavens, hear and be astonished! O Earth, hear and be amazed! God sends the Gospel unto men, but they refuse it! That Gospel says unto them, "Come now and let us reason together, says the Lord: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool."
 
 But though God calls, they refuse and will have none of His Words! May His mighty Spirit come and make a difference in some of you and bring you now to the foot of the Savior's Cross to look up! Do nothing else but look up! And looking there you shall never perish, but have eternal life! May the Master bless these words, feeble of themselves and only mighty because of the Truth they convey, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0598 Two Visions|← #598]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0600 The Centurion—Or An Exhortation To The Virtuous|#600 →]]

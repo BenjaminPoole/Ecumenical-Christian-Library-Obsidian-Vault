@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Certain Curious Calculations About Loaves and Fishes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1822
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When I broke the five loaves among five thousand, how many baskets full of fragments did you take up? They said unto Him, Twelve. And when the seven among four thousand, how many baskets full of fragments did you take up? And they said, Seven. And He said unto them, How is it that you do not understand?" Mark 8:19-21.
 
@@ -134,7 +131,6 @@ If you will work for Christ, give for Christ and labor for Christ, you shall hav
 Satan said, "Does Job serve God for nothing?" Suppose he had done so—the devil would have gone his way and said that God was a hard master, whose service brought no sort of reward with it! Either way, Satan would have made mischief and, as we have no wish to please him, we admit that we do not serve God for nothing, but that in keeping His Commandments there is great reward! When the multitude have done feasting, your Master will let you sit down to meat and you shall have abundant joy with Him!
 
 The chief point for all of us is to get at the blessed work! In the name of the ever-living God, let us feed, each one, the man that is nearest to him till the whole company shall be fed, for the Christ is behind us, the Son of God is working with us—and the bread is not our bread but His bread! And the feeding of the multitude is not our work, but His! And the power is not ours, but all His own and to His name shall be all the glory! Amen.
-
 
 ---
 [[Sermon 1821 Cords and Cart-Ropes|← #1821]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1823 Peter's Blunder—a Lesson for Ourselves|#1823 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # An Observation of the Preacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3072
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Better is the end of a thing than the beginning thereof." Ecclesiastes 7:8.
 
@@ -99,7 +96,7 @@ And find salvation there!"
 
 Before this last Sabbath of the year closes, I pray that the Lord may come down in mercy and visit those who have not yet received Christ, that of them it may be truly said, "Better i s the end of this year than the beginning thereof." God grant it for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM116.
+## Exposition by C. H. Spurgeon: Psalm 116
 
 We have read this Psalm many times and have often felt it to be a photograph of our own spiritual experience, but we will, on this occasion, read it from one special point of view. Please notice that this Psalm is exceedingly full of the letter, "I." Cast your eye down the page and you will be struck with the number of times in which the first person singular appears. Well, then, let us read the Psalm with this view, and each of us for himself or herself say, "I," as the Psalmist did if the Holy Spirit shall enable us to do so.
 
@@ -148,7 +145,6 @@ of the very choicest of the Lord's saints going Home to their Father. And when t
 16\. O LORD, truly I am Your servant; I am Your servant, and the son of Your handmaid: You have loosed my bonds.Still read this Psalm very personally—you especially who have had godly mothers. Say, "I am a born slave— born of one who was your slave, for I delight to use even such a hard name as that. I am God's servant, born of one of God's servants—'the son of Your handmaid.'" I like to remember that it was so in my own case and I can truthfully say to the Lord, "I am Your servant, and the son of Your handmaid." "You have loosed my bonds," by making me to feel the bonds of your Grace. There is no liberty like complete subjection to God. The greatest freedom of thought is to think only God's thoughts—and the highest freedom of living is to live according to the rule of holiness in the ways of the Most High.
 
 17-19. I will offer to You the sacrifice of thanksgiving, and will call upon the name ofthe Lord. I willpaymy vows unto the LORD now in the presence of all His people. In the courts of the LORD'S house, in the midst of you, O Jerusalem. Praise you the LORD. And we do and will praise Him at this time and forever and ever.
-
 
 ---
 [[Sermon 3071 Idolatry Condemned|← #3071]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Our Own Dear Shepherd
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1877
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the good Shepherd, and know My sheep, and am known of Mine. As the Father knows Me, even so know I the Father: and I lay down My life for the sheep." John 10:14,15.
 
@@ -142,7 +139,6 @@ No, Beloved, He is not ashamed of His dying love! He has told it to His Brethren
 He glories in substitution for His people! He makes it His boast when He speaks of His chosen, that He suffered in their place—that He bore, that they might never bear the wrath of God on account of sin! What He glories in, we also glory in! "God forbid that I should glory save in the Cross of our Lord Jesus Christ, by whom the world is crucified unto me and I unto the world!"
 
 O Beloved, what a blessed Christ we have who loves us so, who knows us so—whom we also know and love! May others be taught to know Him and to love Him! Yes, at this hour may they come and put their trust in Him, as the sheep trust to the shepherd! We ask it for Jesus' sake. Amen.
-
 
 ---
 [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1878 A TRAITOR SUSPECTED AND CONVICTED|#1878 →]]

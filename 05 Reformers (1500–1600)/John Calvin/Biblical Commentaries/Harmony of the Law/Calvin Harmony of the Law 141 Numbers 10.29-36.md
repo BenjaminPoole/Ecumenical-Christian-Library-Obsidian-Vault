@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 141. Numbers 10:29-36
-
-**Numbers 10**
 
 **29.** And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father-in-law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good; for the Lord hath spoken good concerning Israel.
 

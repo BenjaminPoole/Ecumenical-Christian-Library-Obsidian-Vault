@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Best Thing in the Best Place
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3002
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Law of his God is in his heart; none of his steps shall slide." Psalm 37:31.
 
@@ -83,9 +80,9 @@ What do you know about the Holy Spirit? Is He your Quickener and Comforter? If H
 
 "You sinners seek His Grace, Whose wrath you cannot bear! Fly to the shelter of His Cross, And find salvation there! So shall that curse remove By which the Savior bled And the last awful day shall pour His blessings on your head." God bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM 37.
+## Psalm 37
 
 This is one of the Psalms of David which have often cheered the saints of God when they have been perplexed because of the prosperity of the wicked and their own troubles.
 
@@ -114,7 +111,6 @@ man are ordered by the LORD: and He delights in his way. Though he fall, he shal
 You who fear the Lord may depend upon this—if the Lord helps you to train up your children rightly, He will take care of them. If they are truly the seed of the righteous by being themselves righteous, your children shall not beg bread, for the Lord will provide for them and you will find that God always takes care of the children of those who faithfully serve Him. He seems to say to them, "You mind My business, and I will mind your business. If you look after My children, I will look after yours." If we serve the Lord with all our hearts, we may fairly reckon that the God of the fathers will be the God of the children.
 
 26-40. He is ever merciful, andlends andhis seedis blessed. Depart from evil, and do good; and dwell forevermore. For the Lord loves judgment, and forsakes not His saints; they are preserved forever: but the seed of the wicked shall be cut off The righteous shall inherit the land, and dwell therein forever. The mouth of the righteous speaks wisdom, and his tongue talks of judgment The Law of his God is in his heart; none of his steps shall slide. The wicked watches the righteous, andseeks to slay him. The LORD will not leave him in his hand, nor condemn him when he is judged. Wait on the Lord, and keep His way, and He shall exalt you to inherit the land: when the wicked are cut off you shall see it I have seen the wickedin greatpower, andspreading himself like a green bay tree. Yet he passed away, and, lo, he was not: yes, I sought him, but he could not be found. Mark the perfect man, and behold the upright: for the end of that man is peace. But the transgressors shall be destroyed together: the end of the wicked shall be cut off. But the salvation of the righteous is of the LORD: He is their strength in the time of trouble. And the Lord shall help them, and deliver them: He shall deliver them from the wicked, and save them, because they trust in Him.
-
 
 ---
 [[Sermon 3001 The Vision of the Field|← #3001]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3003 A Vivid Contrast|#3003 →]]

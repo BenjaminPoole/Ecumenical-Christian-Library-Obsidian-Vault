@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # God's Desire for Us, and His Work in Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3486
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold You desire truth in the inward parts: and in the hidden part You shall make me to know wisdom." Psalm 51:6.
 
@@ -27,7 +24,7 @@ WHAT a contrast is here and I think intended to be here! In the verse before thi
 
 But now we will go to the text as it stands in our own most admirable and never equaled, and I think never to be excelled, version of Holy Scripture. We have here two things. First, we have God's desire. And secondly, we have God's work "You desire truth in the inward parts." Then next, "In the hidden part You shall make me to know wisdom." Let us consider first—
 
-I. THE LORD'S DESIRE FOR US.
+## I. The Lord's Desire for Us
 
 That which is desirable to God must be exceedingly and essentially desirable. All wise men will desire that which the Infinitely wise God may desire! We are quite certain that there must be something exceedingly precious in that which God thinks fit to be an object for His Infinite desires.
 
@@ -51,7 +48,7 @@ So the Lord would have truth in our emotions. The emotion of fear, for instance,
 
 Now mark, before I turn from this first head of the subject, that when we say that the great desire of God is that we should have truth in our inward parts, we are not to suppose that, therefore, He is indifferent to our outward actions— our words and so on! On the contrary, it is because He is a lover of holiness and purity that He thinks most of our hearts, because a true-hearted man must be a truth-speaking man and a truth-loving man! You have made the fountain clean— well then, there cannot be foul water come out of it! If once you have been made all clean within by Sovereign Grace, then the outcome must be from what there is within. You may have the devil within and hang out the angel outside, but you cannot have the angel within and the devil outside—it cannot be so. Where Jesus Christ reigns in the interior, the Glory of His Presence will glow in the exterior, too! You may be to your neighbors and friends an upright man, towards your enemies, a forgiving and gentle man, towards your God a manifestly devout man if in all things you are upright within, and devout within! May God grant, then, that we may be what He would have us be—that we may have truth in the inward parts. Now for the second part of the text.
 
-II. GOD'S WORK IN US.
+## II. God's Work in Us
 
 I am very thankful that the second sentence comes after the first, for surely we might all tremble if it were not so. "Behold You desire truth in the inward parts." "Yes," we might say, "but, Lord, how shall we ever get it there? How shall we who are unclean be purged? You may say, 'You shall be clean,' but, Lord, we cannot bring it to You! How shall we who are polluted cleanse ourselves?" Can the Ethiopian change his skin, or the leopard his spots? But now comes this, joined on with an, "and"—a blessed rivet that can never be driven out—"and in the hidden part You shall make me to know wisdom." Now let us go over this blessed word of encouragement—"and in the hidden part"—the secret part— "You shall make me to know wisdom." Observe that where there is all fallen within us, there will God work! He does not disdain to begin even with us, though all is out of order, though all is stained and all polluted! When He made the world, truly there was nothing to help Him, but there was nothing to oppose Him. Darkness was on the face of the deep, and disorder ruled—but those were rather negative than positive and they disappeared at once at His bidding. But in the fallen heart there is much to oppose, and to oppose vigorously! With a fierce determination to ruin himself, man resists the Grace of God, and were it not that He who created the world puts His hand a second time to the work, to create in us a new heart, we would continue in our destruction, in our guilt and enmity to the Most High! Now what a comfort it is that God will deal with our secret part—our hidden part! He does not disdain to come and touch the wheel and the machinery within, though it is all polluted. If we were to think of touching a running sore, or to put our hand upon a leper, we would shudder at it—but what must it be for a holy God to come and deal with an unholy heart, with corrupt affec-tions—with a depraved will? We think of some poor men that are, for their livelihood, compelled to work in loathsomeness in our common sewers, but oh, what is all that compared with the heart! Yet the Infinite Mercy, condescension and Omnipotent Grace of God stooped down to deal with our inward parts! Admire the condescension of God and have hope for yourself, poor lost one, because God will deal with your inward parts!
 
@@ -71,7 +68,7 @@ So take but one other subject. If you have learned the truth about service, and 
 
 "In the hidden part You shall make me to know wisdom." Now turn my text into a prayer. "O God! I confess my inward part is not what it should be, nor can I make it so. You might well sweep me away because my heart is depraved, but oh, take me—wash me in the Savior's blood! Send Your Spirit to create me new and make me in my inward part to know wisdom," for Your mercy's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:1-34.
+## Exposition by C. H. Spurgeon: Romans 8:1-34
 
 The words we are about to read follow a passage in which the Apostle describes the conflict of his soul. It is rather singular that it should be so. To catch the contrast, let us begin at the end of the 7th Chapter, 22nd verse.
 
@@ -116,7 +113,6 @@ fullest!
 31, 32. What shall we then say to these things? If God is for us, who can be against us? He that spared not His own Son, but delivered Him up for us all, how shall He not, with Him, also freely give us all things?What, indeed, what can we say? We are lost in wonder, love and praise! Thus much, however, we can say, for it concerns our struggles while we are here below. Paul has got that shadow still over him—of struggling against the flesh. What shall we say in the view of these blessed things concerning that struggle? Why, this: "If God is for us, who can be against us?"
 
 33, 34. Who shall lay anything to the charge of God's elect? It is God that justifies. Who is he that condemns? It is Christ that died, yes, rather, that is risen again, who is even at the right hand of God, who also makes intercession for us. Equally impossible—and if neither God nor Christ will condemn, what judge have we to fear? The Judge of all the earth, and the Judge of the quick and the dead—if neither of these condemn, condemn away who likes!
-
 
 ---
 [[Sermon 3485 The Dejected Lover|← #3485]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3487 The Honored Guest|#3487 →]]

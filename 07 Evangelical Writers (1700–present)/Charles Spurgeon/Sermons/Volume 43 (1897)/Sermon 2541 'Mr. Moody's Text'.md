@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # 'Mr. Moody's Text'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2541
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will trust and not be afraid." Isaiah 12:2.
 
@@ -95,7 +92,7 @@ Then later on, Paul said, "This day is the fourteenth day that you have tarried 
 
 O dear child of God, if you can be like that brave man, you will be a great blessing wherever you are! And then, lastly, how happy you will be! If you can say, "I will trust and not be afraid," you will be as happy as the days are long at mid-summer and your heart shall sing as do the birds in the early morning! And your soul shall be like a watered garden in the flowery month of June and you, yourself, shall have two heavens—a Heaven on earth and then the eternal Heaven above! You shall go from glory unto glory, God Himself being with you. I pray the Holy Spirit, Himself, to write this message on your hearts, "I will trust and not be afraid."
 
-EXPOSITION BY C. H. SPURGEON: PSALM27.
+## Exposition by C. H. Spurgeon: Psalm 27
 
 Verse 1. The LORD is my light and my salvation; whom shall I fear?\f a man has a light that can never go out, a sun which will never set and a salvation which must always save—and God is all that and more to everyone who trusts him—then what ground has he for fear?
 
@@ -136,7 +133,6 @@ Verse 1. The LORD is my light and my salvation; whom shall I fear?\f a man has a
 13\. I had fainted unless I had believed to see the goodness of the LORD in the land of the living.' 'I had fainted, unless I had believed." You have the choice between these two things—you must either faint or have faith. Faith is the blessed smelling salts that will often prevent a fainting fit. Get but a sniff of the promises, do but know how strong they are, and your poor flagging spirit will revive! "I had fainted, unless I had believed to see." What? "Believed to see? "That is David's way of putting it. Many want to see to believe—that is our carnal way, but the faith way, the gracious way is, "I had fainted, unless I had believed to see the goodness of Jehovah in the land of the living."
 
 14\. Wait on the Lord: be of good courage, and He shall strengthen your heart: wait, I say, on the LORD. He is worth waiting upon! God help us all to wait on Him, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2540 Declaring the Works of the Lord|← #2540]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2542 Christ's Rest and Ours|#2542 →]]

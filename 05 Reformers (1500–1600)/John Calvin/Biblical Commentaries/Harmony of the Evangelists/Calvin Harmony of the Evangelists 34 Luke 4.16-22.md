@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 34. Luke 4:16-22
-
-**LUKE 4:16-22**
 
 **16**. And he came to Nazareth, where he had been brought up, and entered, according to his custom, on the Sabbath-day, into the synagogue, and rose up to read. **17**. And the book of Isaiah the Prophet was delivered to him, and, having opened the book, he found the passage where it was written, **18**. The Spirit of the Lord is upon me, because he hath anointed me: he hath sent me to preach the Gospel to the poor, to heal the broken in heart, [^1] to preach forgiveness to the captives and sight to the blind, to loose by forgiveness those who are bruised, **19**. To preach the acceptable year of the Lord. **20**. Then, when he had closed the book, he returned it to the minister, and sat down: and the eyes of all who were in the synagogue were fixed on him. **21**. And he began to say to them, To-day this Scripture hath been fulfilled in your ears. **22**. And all gave him testimony, and wondered at the discourses of grace which proceeded out of his mouth, and said, Is not this the son of Joseph?
 

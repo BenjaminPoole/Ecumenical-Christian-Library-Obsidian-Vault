@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Romans 11:1-6
 

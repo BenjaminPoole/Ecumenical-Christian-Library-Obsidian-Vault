@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # An Exciting Enquiry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3085
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when He was come into Jerusalem, all the city was moved, saying, Who is this?" Matthew 21:10.
 
@@ -55,7 +52,7 @@ Also Endeavor to know Christ, Beloved, by being taught of His Spirit. That learn
 
 "But gladly tell to sinners round What a dear Savior you have found!!
 
-III. THIS ENQUIRY ABOUT CHRIST SHOULD ALWAYS BE MET WITH A CLEAR AND DISTINCT ANSWER.
+## III. This Enquiry About Christ Should Always Be Met with a Clear and Distinct Answer
 
 If I had only one more sermon to preach before I died, I know what it would be about—it would be about my Lord Jesus Christ—and I think that when we get to the end of our ministry, one of our regrets will be that we did not preach more of Him. I am sure no minister will ever repent of having preached Him too much. You who are with Jesus, talk
 
@@ -107,7 +104,7 @@ Despise Him not, lastly, for He is coming again in pomp and Glory. Speak not lig
 
 But it cannot be—the Lamb's eyes of love have become the Lion's eyes of fire! And He who was meek and gentle has now become fiery and terrible! The voice that once was sweet as music is now loud and terrible as the crash of thunder! And He that once dealt out mercy, now deals out bolts of vengeance! Oh, despise not Him who shall so soon come in His Glory! Bow, now, and "kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little." Ask, "Who is He"? And when you put the question, answer it yourself, "This is my Beloved, and this is my Friend, O daughters of Jerusalem." Trust Jesus Christ, Sinner, and you shall know who He is! And He, knowing who you are, will save you with a great salvation! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LAMENTATIONS3:52-58'
+## Exposition by C. H. Spurgeon: Lamentations 3:52-58'
 
 52-55. My enemies chasedme sorely, like a bird, without cause. Theyhave cut offmylife in the dungeon, and cast a stone upon me. Waters flowed overmyhead; then Isaid, Iam cut off. Icalled upon Yourname, OLORD, out ofthe low dungeon. He said, "I am cut off," yet he called upon the name of the Lord out of the low dungeon into which his enemies had cast him. What a mercy it is that God's servants are often as graciously inconsistent as Jeremiah was just then! They are afraid that the Lord will not hear them, yet they continue to pray to Him! They are afraid that they are cast off forever, yet they will still use the privilege of a child of God and cry to Him, though they doubt whether they have a child's right to do so! Go on, Beloved, with that blessed inconsistency, and the Lord will bless you in it!
 
@@ -126,7 +123,6 @@ these words suit you as much as they did Jeremiah? I am inclined to say to Him, 
 were yours, but I am sure that they are equally mine!"
 
 57, 58. You said, Fear not O Lord, You have pleaded the causes of my soul; You have redeemed my life. [See Sermon #579, Volume 10—GOD PLEADING FOR SAINTS AND SAINTS PLEADING FOR GOD] Blessed be His holy name forever and ever!
-
 
 ---
 [[Sermon 3084 Paul's Parenthesis|← #3084]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3086 'Marvelous Things'|#3086 →]]

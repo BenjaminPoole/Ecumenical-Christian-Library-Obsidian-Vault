@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # A Memorable Milestone
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2916
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Lord, You know. I have not hid Your righteousness within my heart; I have declared Your faithfulness and Your salvation: I have not concealed Your loving-kindness and Your truth from the great congregation. Withhold not Your tender mercies from me, O Lord: let Your loving-kindness and Your truth continually preserve me." Psalm 40:9-11.
 
@@ -111,7 +108,7 @@ Oftentimes that will be your best course, just do the next thing you can do when
 
 Secularism teaches us that we ought to look to this world. Christianity teaches us that the best way to prepare for this world is to be fully prepared for the next. It elevates and glorifies the secular duties which otherwise would trail in the mire if our conversation, our citizenship is in Heaven, even while we are on the earth! God bless you, Beloved! Let us praise His name for all the mercies of the past quarter of a century and trust His Grace for all the future.
 
-EXPOSITION BY C. H. SPURGEON: PSALM40.
+## Exposition by C. H. Spurgeon: Psalm 40
 
 These are the words of David—they are the words of all God's tried and believing people, but above all they are the words of the Lord Jesus Christ, Himself. So complete is the union between Christ and the Believer that it is possible to describe them both at the same time. The experience of a child of God, sin alone excepted, is very much like the experience of the great First-Born. But Christ is always above us, so you will find words in this Psalm which belong to nobody but Jesus in all their fullness. Yet the title of it is, "A Psalm of David."
 
@@ -136,7 +133,6 @@ Verse 1. I waited patiently for the LORD; and He inclined unto me, and heard my 
 13\. Be pleased O LORD, to deliver me: O LORD, make haste to help me. You may pray like that and yet be a true Believer. The man that is not in haste to be saved does not need to be saved at all. He that can put it off till tomorrow knows nothing about it! A true Believer, when he is crying for mercy, cries, "My case is urgent! Help me now, make haste to help me."
 
 14-17. Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil Let them be desolate for a reward of their shame that say unto me, "Aha, aha. Let all those that seek You rejoice and be glad in You: let such as love Your salvation say continually, The LORD be magnified. But I am poor and needy, yet the LORD thinks upon me: You are my Help and my Deliverer; make no tarrying, Omy God.''But I am poor and needy, yet"—oh blessed, "yet"—"Yet the Lord thinks upon me." He does not throw me a penny and pass on as we often do to the poor and needy! But He stops and thinks. Yet He makes no tarrying. He answers the cry of His people and comes in haste to deliver them!
-
 
 ---
 [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2917 The Doors of the Shadow of Death|#2917 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Only Door
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3287
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the door: if anyone enters by Me, he shall be saved, and shall go in and out, and find pasture." John 10:9.
 
@@ -87,7 +84,7 @@ I think the text may mean that he who rests in Christ shall have all his needs s
 
 I would to God that some who have never yet entered into the fold might now be drawn to Jesus. Oh, that you would come through the Door into these four choice privileges! You may never have such another opportunity. You may never feel any of the motions of the Spirit of God again. Oh that, without delay, you would just cast your helpless souls into the Savior's gracious arms, who is able and willing to save, that you might be saved now!
 
-EXPOSITION BY C. H. SPURGEON: JOHN10:1-18.
+## Exposition by C. H. Spurgeon: John 10:1-18
 
 Verses 1, 2. Verily, verily, I say unto you, He that enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber But he that enters in by the door is the shepherd of the sheep. The true Shepherd cares for the flock. The false ones are thieves and robbers who only care for the flesh or the fleece.
 
@@ -124,7 +121,6 @@ know I the Father: and I lay down My life for the sheep. [See Sermon #1877, Volu
 shall be one fold, and one shepherd [See Sermon #1713, Volume 29—OTHER SHEEP AND ONE FLOCK.] Or, more correctly, "one flock, one Shepherd." The flock would never be complete without those "other sheep" which the Shepherd says He must bring into the fold, and which He says shall hear His voice. Not one of them will be missing in the day when they pass again under the hand of Him that counts them.
 
 17, 18. Therefore does My Father love Me, because I lay down My life, that I might take it again. No man takes it from Me, but Ilay it down ofMyself Ihave power to lay it down, and I have power to take it again. This commandment have I received of My Father The voluntariness of Christ's Sacrifice is its Glory, and well may His Father love Him because of it—and well may we, who are eternally to benefit by His death—also love Him!
-
 
 ---
 [[Sermon 3286 The Fear of Death|← #3286]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3288 Why the Gospel Is Hidden|#3288 →]]

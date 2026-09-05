@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christ's Transfigured Face
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2729
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His face did shine as the sun." Matthew 17:2.
 
@@ -91,7 +88,7 @@ much in honor of your Lord." No, if all human tongues were eloquent and all did 
 
 III. I gather from our text, in the third place, that THE GLORY OF CHRIST IS ALL MEANT TO CHEER AND
 
-TO ENLIGHTEN.
+## To Enlighten
 
 The light of the sun reveals and Christ also reveals much to us. In His light we see light. He who knows Christ knows God, who is Light. The light of the Spirit of God is given to such as know Christ. They have an unction from the Holy One and they know all things. Christ has brought immortality to light by His appearing. He is indeed a wondrous Re-vealer.
 
@@ -131,7 +128,7 @@ Are you ready for His appearing? Say not, "It will be a long while before it hap
 
 That is another paradox. If it were really difficult, men would do it, but because it is so easy, they say they cannot. "If the Prophet had bid you do some great thing, would you not have done it?" said the servants to Naaman, their master. "How much rather, then, when he says to you, Wash and be clean?" And so, when the message is, "Look and live," you proud gentlemen want to have a much more elaborate system of salvation! You do not like to simply look to Christ, that you may be saved. But if there is a poor soul, anywhere, who is willing to have a whole Christ for nothing, he may have Him, and have Him now! Accept Him and God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW16:24-28; 17:1-13.
+## Exposition by C. H. Spurgeon: Matthew 16:24-28; 17:1-13
 
 Matthew 16:24, 25. Then said Jesus unto His disciples, If any man will come after Me, let him deny himself, and take up his cross, and follow Me. For whoever will save his life shall lose it: and whoever will lose his life for My sake shall find it This is the law of self-sacrifice, based on the Sacrifice of Christ and leading up to the complete sacrifice of the redeemed. We are not our own—we are bought with a price. To try to keep ourselves to ourselves would be acting con-
 
@@ -174,7 +171,6 @@ How did Peter, and James, and John know that these two men were Moses and Elijah
 11, 12. And Jesus answered and said unto them, Elijah truly shall first come, and restore all things. But I say unto you, That Elijah is come already, and they knew him not, but have done unto him whatever they liked. Likewise shall also the Son of Man suffer of them. How He comes back to that point! Evidently the chief thought in our Savior's mind was concerning His suffering. On another occasion He said, "I have a baptism to be baptized with; and how am I straitened till it is accomplished!" As the magnetic needle always points to the pole, so did the heart of Jesus always point to the Cross.
 
 13\. Then the disciples understood that He spoke unto them of John the Baptist John had indeed come "in the spirit and power of Elijah," yet Herod had put him to death, as other wicked men would deal with his Lord and Master whose way he so gloriously prepared.
-
 
 ---
 [[Sermon 2728 The High Rock|← #2728]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2730 The Secret of Love to God|#2730 →]]

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 178. Matthew 22:41-46; Mark 12:35-37; Luke 20:41-44
-
-MATTHEW 22:41-46; MARK 12:35-37;  
-LUKE 20:41-44
 
 **41.** And when the Pharisees were assembled, Jesus asked them, **42.** Saying, What think you of Christ? whose son is he? They say to him, David’s. **43.** He saith to them, How then doth David by the Spirit call him Lord, saying, **44.** The Lord said to my Lord, Sit at my right hand, till I have made thy enemies thy footstool? [^1] **45.** If David then calleth him Lord, how is he his son? **46.** And no man could make any reply to him; [^2] nor did any man from that day venture to put any more questions to him.
 

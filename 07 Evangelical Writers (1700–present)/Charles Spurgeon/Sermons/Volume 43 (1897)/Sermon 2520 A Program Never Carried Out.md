@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Program Never Carried Out
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2520
@@ -45,7 +44,7 @@ So much for the first observation, that the coming sinner's forecasts differ ver
 
 II. My second remark is that THAT WHICH PREVAILS WITH GOD IS NOT THE COMING SINNER'S
 
-PRAYER TO GOD, BUT GOD'S SIGHT OF HIM.
+## Prayer to God, but God's Sight of Him
 
 Notice, when the prodigal resolved to return, he promised to himself what he would say to his father. But his father fell on his neck and kissed him before he could utter his petition—"When he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned." The utterance of the prayer of the son followed the display of love on the part of the father! The reason why the father acted with such wondrous favor to his son was not because the prodigal had prayed, for he had not done so. He had resolved to pray, but he had not actually prayed. His prayer followed the deed of mercy done by his father—and the cause of that mercy was that his father saw him! Do notice that his father saw him and, therefore, had compassion on him. His father saw him and, therefore, ran to him. His father saw him and, therefore, fell on his neck. His father saw him and, therefore, kissed him!
 
@@ -91,7 +90,7 @@ Now, after all this, I think that I may add that there is nobody here who dares 
 
 May He turn you, and bless you, and save you, for His great mercy's sake! Amen.
 
-EXPOSITION BY CHARLES H. SPURGEON: LUKE 15.
+## Exposition by Charles H. Spurgeon: Luke 15
 
 Verse 1. Then drew near unto Him all the publicans and sinners for to hear Him. It was a motley group—"all the publicans and sinners"—the riff-raff, the scum, as people sometimes call them. "All the publicans and sinners" drew near unto Jesus "for to hear Him."
 
@@ -138,7 +137,6 @@ Verse 1. Then drew near unto Him all the publicans and sinners for to hear Him. 
 32\. It was meet that we should make merry, and be glad. See, the younger son did not speak for himself—there was no need for him to do so. His father spoke for him. What a blessed Intercessor, what a wondrous Advocate we have with our elder Brother! We may well leave them alone, ourselves, for He will bring them right—"It was meet that we should make merry and be glad."
 
 32\. For thisyour brother, was dead, andis alive again; and was lost, andis found.
-
 
 ---
 [[Sermon 2519 When Should We Pray|← #2519]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2521 Deadness and Quickning|#2521 →]]

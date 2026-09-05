@@ -10,24 +10,23 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 39. Letters CCLXXX–CCXCVII
 
-CCLXXX. TO THE CHAPTER OF CANTERBURY.
+## CCLXXX. To the Chapter of Canterbury
 
 AFTER my hearty commendations : whereas I am informed that you be in doubt, s whether any prebendary of that my church may exchange his house or garden with t'ranmer, another prebend of the same church living, and that you be moved by this statute so to Ed/okon. think, which here followeth ; " Statuimus ut canonicus de novo electus et demissus in the Register demortui aut resignantis aut quovis modo cedentis cedes succedat :" these be to signify unto church, canyou, that neither this statute, nor any other reason that I know, maketh any thing against the exchange between two prebends living, but that they may change house, orchard, or garden during their life, this statute or any other reason contrary notwithstanding. And whereas you have appointed your preachers at your last chapter their chambers and commodities, I require you that they may be indelayedly admitted thereunto, according to that your order. Thus fare you well. From my manor of Croydon, the 12th of December, 1546.
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 To my loving friends, the vice-dean and prebendaries of my clmreh in Canter bury.
 
-CCLXXXI. TO BONER.
+## CCLXXXI. To Boner
 
 THIS is to advertise your lordship, that my lord protector's grace, with advice of wiikimothers the king's majesty's council, for certain considerations them thereunto moving, hath voSv! p. fully resolved, that no candles should be boren upon Candlemas-day, nor also from henceBo/erT forth ashes or palms used any longer. Wherefore I beseech your lordship to cause iuflst' admonition thereof to be given in all parish churches throughout your diocese with all celerity ; and likewise unto all other bishops that be hereabouts, that they may do the scmblable in their dioceses before Candlemas-day. And as for other bishops that cannot have knowledge so soon, you may give them knowledge hereof at more leisure, so that it be done before AshWednesday. Thus fare your lordship well. Lambeth, Jan. 27, 1547. [1548.]
 
 Your loving friend,
 
-CCLXXXII. TO THE DEAN AND CHAPTER OF ST PAUL'S.
+## CCLXXXII. To the Dean and Chapter of St Paul's
 
 AFTER our right hearty commendations : whereas it hath pleased Almighty God to cranm. send the king's majesty such victory against the Scots ', as was almost above the expectasSS'vf' 5' tion of man, and such as hath not been heard of in any part of Christendom this many Snerf bp' years : in which victory above the number of fifteen thousand Scots be slain, two thousand *$».*$&. taken prisoners ; and among them many noblemen and others of good reputation ; all °xon' 184° their ordnance and baggage of their camp also won from them : the king's majesty, with
 
@@ -43,17 +42,17 @@ T. CANTUARIEN. The council's pleasure is, you shall see this executed on Tuesday
 
 To the dean and chapter of St Paul's, in London, this be given in haste3.
 
-CCLXXXIII. TO MATTHEW PARKER.
+## CCLXXXIII. To Matthew Parker
 
 I COMMEND me unto you ; signifying, that the lord protector, conceiving good opinion of your wisdom, learning, and earnest zeal which you bear to the setting forth of God's word among the people, hath, by the advice of the council, appointed you to preach one sermon at Paul's cross in London on Sunday, being the 22. day of July next; not doubting but that you will purely and sincerely set out the holy scriptures, so as God's glory may be advanced, and the people with wholesome doctrine edified. These therefore shall be to require you to prepare yourself ready in the mean season to supply the day, time, and place to you appointed accordingly ; foreseeing that you present yourself unto the dean of Paul's, resiant at his house in Paul's church-yard, or unto his deputy there, the Saturday before noon that you shall preach, or at the least to signify then unto him by your letters, or some sure messenger, that you will not fail to preach the Sunday ; because the cross must in no wise be disappointed or destitute of a preacher. Thus heartily fare you well. From my manor at Lambith, the 5. day of May. [1548.]
 
 Your loving friend,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 Catechism of Justus forth by Abp. Cranmer, Ed. 154tt.
 
-CCLXXXIV. TO KING EDWARD VI.
+## CCLXXXIV. To King Edward VI
 
 To the most excellent prince Edward VI., by the grace of God king of England, France, and Ireland, defender of the faith, and in earth of the church of England avid Ireland immediately under God supreme head, your graces humble subject and chaplain Thomas, archbishop of Canterbury, wisheth abundance of all grace and godliness with a long and prosperous reign.
 
@@ -81,7 +80,7 @@ Your grace's humble subject and chaplain,
 
 THOMAS, archbishop of Canterbury.
 
-CCLXXXV. TO JOHN A LASCO'.
+## CCLXXXV. To John a Lasco'
 
 Gabbema, AovENTUM tuuni ad nos alterius cujusdam negotii subito interventu impeditum esse vlironm!?r°r' doleo : non enim dubito, quin de tua vocatione 3 facile tibi satisfecissem, si coram tecum mihi potestas colloquendi fuisset. Sed quia hoc tempore venire non potuisti, scribis tamen te vcnturum esse posthac, si prius ex literis nostris intellexeris, qualis vocationis tuce ratio apud nos futura sit: literis tecum agam, et quod coram copiosius fortassis dicturus eram, id per literas explicabo brevi. 4Cupimus nostris ecclesiis veram de Deo doctrinam proponere, ncc volumus cothurnos facere aut ambiguitatibus ludere; sed semota omni prudentia carnis, veram, perspicuam, sacrarum literarum norma? convenientem doctrinae formam ad posteros transmitter; ut et apud omncs gentes exstet
 
@@ -115,7 +114,7 @@ explain in writing, what I should perhaps have stated somewhat more copiously to
 
 Exceedingly desirous of your presence.
 
-CCLXXXVI. TO ALBERT HARDENBERG1.
+## CCLXXXVI. To Albert Hardenberg 1
 
 copiama- .... Cupiinus nostris ecclesiis veram de Deo doctrinam proponere, ncc volumus inUMss.yoi. cothurnos facere aut ambiguitatibus ludere : sed semota omni prudentia carnis, veram, SCTin.'Eo:!. perspicuam, ac S. litterarum normas convenicntem doctrinas formam ad posteros transmittere ; ut et apud omnes gentes exstet testimonium doctrinaa nostras gravi doctorum et piorum auctoritate traditum, et universa posteritas normam habeat quam sequatur. Ad perficiendam rein totam eruditorum hominum prassentia nobis opus esse judicavimus, qui, collatis nobiscum judiciis, doctrina? controversias tollant, et integrum corpus veraa doctrine extruant. Accersivimus igitur plerosque pios et doctos viros, quorum alios habemus jam, alios vero brevi exspectamus. Sed de Philippo Melancthone nihil adhuc certi habemus. Quarc te summopere rogamus, ut ilium, si id ullo modo facere possis, ad iter ad nos suspiciendum inducas. Tertiam nunc ad ipsum epistolam misi, qua ilium hortor ut ad nos veniat ; quibus epistolis si tuaa adhortationes accesserint, non diffido ilium persuaderi posse, ut toties iteratam vocationem sequatur. Nullas, ut arbitror, insidias hostium, nullaque itinerum pericula pertimescit, quaa si quaa sunt, minora tamen sunt iis, in quibus nunc est. Adde, quod exigui temporis molestiis multorum annorum quietem sibi, reipublicse vero utilitatem adferet aeternam. Quod si ei hoc ad nos iter aut inutile aut injucundum fore prospicerem, Iiemo me certe hoc illi vehementius dissuaderet : sed cum videam nihil ab eo aut ipsi aut reipublicaa posse fieri utilius, quam ut hoc tempore ad nos veniat, opto vehementius, teque oro, ut omnem curam cogitationemque tuam in hoc convertas, ut Philippum nostrum plane nostrum facias. Qualis ipsius hie futura sit conditio, jam ostendi. Ita tamen ostendi, ut experientia ipsa potius quam mea prasdicatione Angliam nostram ei placere cupiam. Quod si noster Philippus videat, ad quid vocetur, a quibus autem hominibus, certe et ipsius et veras religionis amantissimis, ct quanto studio vocetur simul et exspectetur ; profecto non video et nescio an vocationem
 
@@ -125,15 +124,13 @@ hanc negligere possit, praescrtim cum nullam pene certain se vocationem illic ha
 
 We are desirous of setting forth in our churches the true doctrine of God, neither have we any wish to be shifting and unstable, or to deal in ambiguities : but, laying aside all carnal considerations, to transmit to posterity a true and explicit form of doctrine agreeable to the rule of the scriptures ; so that there may be set forth among all nations a testimony respecting our doctrine, delivered by the grave authority of learned and pious men ; and that all posterity may have a pattern which they may imitate. For the purpose of carrying this important design into effect we have thought it necessary to have the assistance of learned men, who, having compared their opinions together with us, may do aAvay with doctrinal controversies, and establish an entire system of true doctrine. We have therefore sent for many pious and learned men, some of whom we have already with us, and others we are expecting will arrive shortly. But respecting Philip Melancthon we have as yet no certain intelligence. For which cause we most earnestly entreat you, if by any means you can accomplish it, that you will endeavour to induce him to undertake the journey hither. I have already sent a third letter to him, in which I entreat him to come to us ; to which letters if you will add your entreaties, I have no doubt but that he may be persuaded to accept an invitation which has so frequently been repeated. I do not think that he need be under any apprehension of the treachery of enemies, nor of the dangers of the journey ; which if there were any, are much less than those are where he now is. You may also add, that by his undergoing a little present inconvenience he will secure quiet to himself for many years to come, and unending benefit to the state. If I could foresee that this journey hither would be either useless or disagreeable to himself, truly none would more earnestly dissuade him from undertaking it than I would ; but since I perceive that nothing can be more useful both to himself and the state than that he should come over to us at this juncture, I desire it the more earnestly, and beg of you, that you will exert all your diligence and consideration to this end, that you may make our friend Philip ours in reality. I have already explained what his future situation will be here ; but I so explained it, as desiring that you should learn to be pleased with our England from your own experience, rather than by my report of it. But if our friend Philip will consider for what purpose he is invited, and also by what persons, those, assuredly, who are most friendly both to himself and to true religion ; and also with how great anxiety he is both invited and expected ; truly I do not see, and I know not whether he can neglect this summons, especially as he must perceive that he has no certain vocation yonder which he can properly place in opposition to it. If he felt unwilling to refuse the venerable elector of Cologne upon a like invitation, he cannot certainly decline the present one, upon an occasion of much greater importance and necessity. His friends perhaps will be unwilling to let him go, and he too will be unwilling to part with them at this particular juncture : but I fear in the mean time that all parties yonder do not attend to him from such motives as we could wish ; and even if they do, I know not whether he can now remain there with as much advantage as can be derived from his presence in our England, and which nevertheless ought not to be disregarded by us, inasmuch as we think it our duty to seek truly and heartily the glory of Christ our Lord. I wish he would at once make up his mind, and acquaint us with his intention, or that he would come over to us immediately, and anticipate every messenger. We will provide for the expense, either through you, or elsewhere, as soon as we know to what extent, and in what place, he wishes provision to be made. Cambridge, July 28, 1548.
 
-CCLXXXVII. TO MARTIN BUCER3.
+## CCLXXXVII. To Martin Bucer 3
 
 GRATIAM et paccm Dei in Christo. Legi tuas literas ad Johannem Halesium, in Buceri Scrip, quibus tristissimos Germanise casus commemorans, te in tua urbe \erbi ministerio vix wo8/.0' $i"
 
 Basil. 1577.
 
 [2 Herman, archbishop of Cologne, whose invi tation Melancthon accepted, April, 1543, and re mained with him at Bonn till the month of Au gust in the same year. Vid. some account of the " Simple and religious consultation," &c. which he and Bucer then compiled, in Strype, Eccl. Mem. Vol. II. pp. 41, 42, and of the use made of it in drawing up the English Book of Common Prayer. Laurence's Bampton Lectures, p. 439. Herman's attempts at effecting reformation being unsuccessful, he resigned his see, A.D. 1547. He died, August, A.D. 1552. Strype's Mem. of Cranmer, Vol. I. pp. 410, 11 ; Sleidan, De Statu Religionis et Reipub. (A.D. 1552.) Lib. xxi v. p. 5/2. Ed. Francof. 1568.] [3 For an account of " the first occasion of Bucer's call into England," vid. Strype's Mem. of Abp. Cranmer, Vol. I. pp. 280, 81. Ed. Oxon. 1840.]
-
-424 LETTERS. [1549.
 
 nSTof AbP. diutius Pr*esse posse scribis. Gemens igitur propheta? illud exclamavi, " Mirifica miseV™MICTAPP "corc^^as tuas) (lm salvos facis sperantes in te a resistentibus dextera tua?." Nee dubito Fd'cfxon844' (*lim ^eus lloc et 8™^es piorum gemitus exauditunis sit; et veram doctrinam, qua? i«40. hactenus in vestris ecclesiis sincere propagata est, et conservaturus et defensurus sit adversus omnes diaboli et mundi furores. Interim sajvientibus fluctuum procellis, in portus confugiendum est iis, qui vela in altum tendere non possunt. Tibi igitur, mi Bucere, portus longe tutissimus erit nostrum regnum, in quo, Dei beneficio, semina verse doctrime feliciter spargi coeperunt. Veni igitur ad nos ; et te nobis operarium prasta in messe Domini. Non minus proderis catholics Dei ecclesia? cum apud nos fueris, quam si pristinas sedes retineres. Adde, quod adflictre patriee vulnera absens melius sanare poteris, quam nunc possis prassens. Omni igitur semota cunctatione, quamprimum ad nos venias. Ostendemus nobis prtescntia Buceri nihil gratius aut jucundius esse posse. Sed cave ne quid ex itinere incommodi accipias. Nosti quos habeas \itse insectatores : eorum manibus ne te commiseris. Est istic mercator quidam Anglus Richardus Hils1, vir pius et summa fidelitate praeditus, cum quo de tota itineris ratione te conferre vclim. Praterea, Deum asternum Patrem Domini nostri Jesu Christi toto pectore oro, ut in ira misericordia? recordetur, et afflictae ecclesia? calamitates rcspiciat, et lucem vera3 doctrinse apud nos magis magisque accendat ; apud vos vero jam multos annos pra3clare lucentem non extingui patiatur. Is te quoque, mi Bucere, regat et servet, et incolumem ad nos traducat. Bene et feliciter vale. Londini, 2 Octob. Anno 1548.
 
@@ -153,13 +150,13 @@ THOMAS CRANMER, archbishop of Canterbury.
 
 English Reformation (Parker Society), First Por- \ 404, 5. Ed. Oxon. 1822.] tion, Letter CV.J p Vid Letter CCLXXXVI. p. 422.]
 
-LETTERS. CCLXXXVIII. TO MATTHEW PAKKER4.
+## Letters. CCLXXXVIII. To Matthew Pakker 4
 
 I COMMEND me heartily unto you ; signifying, that my lord protector's grace, having MSS. good opinion of your learned knowledge and godly zeal in the advancement of God's SSrTp' 395. word, hath, by the advice of the council, specially appointed you to preach one sermon Orlsinal) before the king's majesty's person the third Sunday of Lent, now coming. Wherefore I pray you in the mean season to prepare yourself in a readiness for the purpose, and to repair unto the court against the day appointed, to satisfy the office whereunto you are called accordingly. Thus heartily fare ye well. From my manor at Lambhith, the 17th of Februarii, anno 1548. [1549.]
 
 Your loving friend, T. CANT.
 
-CCLXXXIX. TO MELANCTHON.
+## CCLXXXIX. To Melancthon
 
 VERISSIMA ease experimur, Melancthon doctissime, qua? Dominus noster Jesus ChrisExcopta tus de cruce ecclesia? siue prasdixit ; " sed fidelis est Dens, qui non patietur suos tentari ')erti in MSS. supra id quod possunt, sed faciet una cum tentatione proventum ut possimus sustinere." P. .'57. Etsi cnim odio Filii Dei diabolus horribilem tyrannidem exercet in membra Christi, Argent.' tamen promisit Deus ccclesiam suam non interituram esse. Imo de ultimis temporibus diserte in quit : "Ego senescentem gestabo : ego feram : ego salvabo5." Et semper Deus aliquas politias voluit essc hospitia ecclesiarum, et aliquot gubernatores fovere studiosos doctrinae ccelestis, ut Abdias pavit auditores Heliae, quos reges Israel undique pellebant. Quamobrem tibi, aaterne Pater Domini nostri Jesu Christi, ingentes ago gratias, quod insulam nostram non aliter quam arcam Noae c fluctibus eripuisti, nobisque tales dederis gubernatores, qui tui gloriam quasrunt, et suas aedes ditionesque ecclesi* et studiis patere cupiunt, ut olim vidua? Sareptanaa casa prasbebat hospitium Heliaa. Oroque Deum, ut nos regat, et colligat sibi inter nos perpetuam ecclesiam, non solum ex nostratibus, sed etiam ex percgrinis ; id quod facere pro sua immensa misericordia jam incepit.
 
@@ -167,7 +164,7 @@ Multi enim pii doctique viri°, partim ex Italia, partim ex Germania, ad nos con
 
 Tui ad nos acccssus avidissimus,
 
-THOMAS CANTUARIENSIS.
+## Thomas Cantuariensis
 
 Viro turn cruditione turn pietate clarissimo D. Philippo Melancthoni dcntur lice litter 02.
 
@@ -179,11 +176,9 @@ Nostri Germani, qiii nobiscum sunt, rogant, ut adducas tccum Doctorem Albert tin
 
 [« Vid. Letters CCLXXXV., CCLXXXVI., pp. 420, 422.]
 
-[7 ''Opto autcm, ut antea serpe scripsi, consen- sum pis doctrinas constitui in iis ecclesiis omnibus, qua Romani episcopi tyrannidem et impietatem damnant." Letter of Melancthon to Henry VIII., dated March 26, A. D. 1539. (Cott.MSS. Vid. E. v, f. 239. British Museum. Original holograph. Vide also Strype's Eccl. Mem. Vol. I. Part n. App. No. 101, pp. 393,4.] f3 Letter CCLXXXVI. p. 422.J
+[7 ''Opto autcm, ut antea serpe scripsi, consensum pis doctrinas constitui in iis ecclesiis omnibus, qua Romani episcopi tyrannidem et impietatem damnant." Letter of Melancthon to Henry VIII., dated March 26, A. D. 1539. (Cott.MSS. Vid. E. v, f. 239. British Museum. Original holograph. Vide also Strype's Eccl. Mem. Vol. I. Part n. App. No. 101, pp. 393,4.] f3 Letter CCLXXXVI. p. 422.J
 
 [!) u The son of the great German divine of the same name," ... who "came over with letters com-
-
-426 LETTERS. [1549.
 
 WE are experiencing, most learned Melancthon, the truth of all that our Lord Jesus Christ has foretold respecting the trials of his church. '•' But God is faithful, who will not suffer his people to be tempted above that they are able, but will also with the temptation make a way to escape, that M'e may be able to bear it." For though from his hatred to the Son of God the devil exercises a horrible tyranny over the members of Christ, vet God has promised that his church shall never perish ; nay, of these last times he expressly declares, " To hoar hairs will I carry her : 1 will bear, I will deliver her." And God has always willed some civil societies to be the refuge of his churches, and that their rulers should support the friends of heavenly doctrine; just as Obadiah befriended the hearers of Elias, whom the kings of Israel were persecuting on every side. Wherefore, eternal Father of our Lord Jesus Christ, I give thee thanks for having rescued our island from the waves, like the ark of Noah, and for having granted us such rulers as seek thy glory, and who devote their houses and possessions to the church and its service, as in old time the cottage of the widow of Sarepta afforded a home to Elias. And pray God to direct us, and to gather unto himself a perpetual church amongst us, not only out of our own countrymen, but also from among those of foreign nations, as according to his infinite mercy he has already begun to do. For many pious and learned men have come over to us, some from Italy, some from Germany, and we are daily expecting more; which society of the church if you will vouchsafe to increase and adorn with your presence, I know not by what means you will be able more effectually to set forth the glory of God.
 
@@ -191,13 +186,13 @@ I am aware that you have often desired that wise and godly men should take couns
 
 Most anxious for your arrival,
 
-THOMAS CANTUAU.
+## Thomas Cantuau
 
 Our German friends who are with us, request you to bring with you doctor Albert Hardenberg, as Jonas will tell you in my name.
 
 To that most illustrious man, as well for his learning as his piety, D. Philip Melancthon, these letters are to be given.
 
-CCXC. TO MARTIN BUCER.
+## CCXC. To Martin Bucer
 
 c.c.c.c. QUANTO dolorc animum meuin vulneravit Fagii nostri mors1, Buccrc doctissime, non
 
@@ -227,19 +222,17 @@ and therefore that in this respect I may in some way recover her, by this messen
 
 ['-' The parliament assembled November 4, A.D. 154'J.J
 
-428 LETTERS []550.
-
 have no leisure to treat of private matters. Meanwhile, if you are in want of anything, 1 beg you to declare it, and with all diligence I will take care that it be sent to you. Farewell. Lambeth, the last day of November. [1549.J
 
 Your reverence's most affectionate,
 
-CCXCI. TO VOYSEY, BISHOP OF EXETER.
+## CCXCI. To Voysey, Bishop of Exeter
 
-AFTER my hearty commendations ; the king's majesty's pleasure and high command- fi2°from p' ment to me *s' ^iat * slia^ w^ an(* cliar£e y°u to ascertain me the names of all such ? benefices within your diocese, as at any time have been or yet be impropricd, in whose n nan^s an(^ possession the same been, either in his majesty or any his grace's subjects, ii. with your true certificate also of all vicarages endowed within your said diocese, and of all other churches impropried, having no vicarages endowed, being either served by a manual priest, or destitute of a curate, with the several values of such vicarages and benefices, as nigh as you may : fail you not this to do with all celerity, as you tender the accomplishment of his grace's pleasure. Fare you well. From my manor of Lambehith, this xx. of April, anno 1550.
+AFTER my hearty commendations ; the king's majesty's pleasure and high command-fi2°from p' ment to me *s' ^iat * slia^ w^ an(* cliar£e y°u to ascertain me the names of all such ? benefices within your diocese, as at any time have been or yet be impropricd, in whose n nan^s an(^ possession the same been, either in his majesty or any his grace's subjects, ii. with your true certificate also of all vicarages endowed within your said diocese, and of all other churches impropried, having no vicarages endowed, being either served by a manual priest, or destitute of a curate, with the several values of such vicarages and benefices, as nigh as you may : fail you not this to do with all celerity, as you tender the accomplishment of his grace's pleasure. Fare you well. From my manor of Lambehith, this xx. of April, anno 1550.
 
 Your loving brother,
 
-CCXCII. TO MARTIN BUCER1.
+## CCXCII. To Martin Bucer 1
 
 Todd'sLifc AFTER my hearty salutations, right well beloved master Bucer; I have read that mer, Vol. n. book which you have sent to doctor Peter Alexander concerning the controversy betwixt Fronw?' brief master Hooper and the bishop of London2; in which book many things are learnedly forat™entime" declared, and largely handled: wherefore now I pray you that you would send unto me your judgment of these questions, expressed with as short brevity of words as you can. Whether, without the offence of God, it may be lawful to the ministers of the church of England to use those vestures which at these days they wear, and are so prescribed of the magistrate ?
 
@@ -259,7 +252,7 @@ Romish habits of the prelates, quoted by Arch- ; sioni aliis ad superstitionem, 
 
 was long supposed to be lost : but it has lately been j Scripta Anglicana, p. f)81, and Bucer's Letter to discovered among the large and valuable collection Hooper, ibid. p. 705. Ed. Basil. 1577-] of MSS. belonging to Sir Thomas Phillipps.]
 
-CCXCIII. TO MATTHEW PARKER.
+## CCXCIII. To Matthew Parker
 
 I COMMEND me heartily unto you ; and whereas the king's majesty, by the advice c. c. c. c. of his most honourable council, hath appointed you to preach one sermon before his p. sn.CXI highness' person at the court, upon Sunday the 22nd of March next coming, being w the sixth Sunday in Lent, and hath commanded me to signify unto you his grace's pfafkbe?; Voi. pleasure in this behalf ; these therefore shall be to require you to put yourself in a oxPon55iH2L readiness in the meantime to satisfy the day and place to you appointed, according to the king's majesty's expectation, and not to fail in any wise. Thus heartily fare ye well. From my manor at Lambeth, the xiith of February, 1550. Q1551.]
 
@@ -267,7 +260,7 @@ Your loving friend,
 
 T. CANT. To my loving friend, Mr. doctor Parker.
 
-CCXCIV. TO CECIL.
+## CCXCIV. To Cecil
 
 AFTER my very hearty commendations. Whereas the bearer hereof, Mr Coverdale, MSS. strype, bishop elect of Exeter, is now through in all matters to the consecration, save only Ban. coiu in doing his homage and in the dispatch of his first-fruits4 : these shall be heartily oxford.' to desire, that, in consideration of his long attendance and of the great lack that the West parts have of him, you will shew him your accustomable favour and help at this present : that by your procurement he may the sooner take his oath, and have your gentle assistance for the obtaining of his suit concerning the first-fruits. For I mind, by God's grace, the 30th day of this month to accomplish the king's majesty's mandate concerning the consecration of him and of the bishop of Rochester5. And thus I bid you most heartily well to fare. From my manor at Croydon, the 23rd of August, 15526. [1551.]
 
@@ -275,7 +268,7 @@ Your loving friend,
 
 To the right worshipful and my very good friend, Mr William Cecil, one of the king's majesty's two principal secretaries.
 
-CCXCY. TO CECIL, OR CHEKE.
+## Ccxcy. To Cecil, or Cheke
 
 AFTER my very hearty commendations ; these be to signify unto you, that Rayner strype's Wolf, at my desire, hath fully finished the printing of my book7, for answer to the late8 crannSfrfbl' bishop of Winchester's, written against mine of the doctrine of the sacrament. And forasmuch as both printing and selling of any matters in the English tongue is prohibited by oxon.'
 
@@ -299,7 +292,7 @@ Your loving friend,
 
 To my very loving friends, Mr Cecil, one of the king's majesty's two principal secre taries. Or to Mr Clieeke.
 
-CCXCVI. TO BULLINGER.
+## CCXCVI. To Bullinger
 
 i"cte?iT ®* ^' QUOD ad litteras tuas Tiguri datas 24 Februarii post annum respondeo,
 
@@ -329,11 +322,11 @@ The private affair upon which you wrote to me, was, that I should put an end to 
 
 Your reverence's most attached,
 
-THOMAS CANTUAK.
+## Thomas Cantuak
 
 To that excellent man, Mr Henry Bullinger, a most faithful minister of the church at Zurich, these letters be given.
 
-CCXCVII. TO CALVIN.
+## CCXCVII. To Calvin
 
 S. P. Ut nulla res ecclesias magis dissipat, quam haereses et dissidia circa dogmata Arch. Ec religionis, ita nihil efficacius ecclesias Dei congregat et potentius ovile Christi munit, Opera, Tom quam incorrupta evangelii doctrina et dogmatum consensus. Quare saspius optavi atque Anwt mi. etiamnum opto, ut docti et pii viri, qui alios antecellunt eruditione et judicio, in tutum aliquem locum convenirent, ubi communicato consilio et collatis sententiis capita omnia ecclesiastics doctrine tractarent, et non solum de rebus ipsis, sed etiam de formis loquendi, gravi auctoritate opus aliquod posteritati traderent. Adversarii nostri habent mine Tridenti sua concilia, ut errores stabiliant; et nos piam synodum congregare negligemus, ut errores refutare, dogmata repurgare et propagare possimus? UK iref)\ Trjs dpTo\a.Tpeia(; (ut audio) decreta condunt;5 quare nos omnem lapidem movere debemus, non solum ut alios adversus hanc idololatriam muniamus, sed etiam ut ipsi in doctrina hujus sacramenti consentiamus. Quantum ecclesiam Dei labefactarint circa hoc unitatis sacramentum dissensiones et opinionum varietates, prudentiam tuam latere non potest : quse etsi mine alicubi sublatae sint, tamen in hac doctrina consensionem optarem, non solum de rebus ipsis, sed etiam de verbis et loquendi formulis. Habes meum
 
@@ -353,7 +346,7 @@ Calvinus Cranmero Archiep. Cantuariensi S. D.
 
 You very dear brother in Christ,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 ---
 [[Cranmer MW 38 Letters CCLXVII–CCLXXIX|← 38. Letters CCLXVII–CCLXXIX]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 40 Letters CCXCVIII–CCCXIII|40. Letters CCXCVIII–CCCXIII →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Hunger-Bite
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1510
-
-DELIVERED BY.
 
 > "His strength shall be starved." Job 18:12.
 
@@ -86,7 +83,6 @@ HUNGER-BITTEN. In this age we are all busy and through being busy we are apt to 
 Nor is this all, for during the day when, if you were as you should be, you would be praying without ceasing, there is this to think of and that and the other—and such a pressure of business that prayers are few. How can you pray? You did at one time! You used to get a text of Scripture in the morning and chew it all day—and you used to get much sweetness out of it and your soul grew. But now, instead of a text of Scripture, you have pressing engagements as soon as you are out of bed! You would, now and then, steal into a mid-day Prayer Meeting, perhaps, or get two or three minutes alone. But you have gradually dropped that habit and you have felt justified in doing so for, "really, time is so precious and there is so much to do in this age of competition."
 
 Dear Friend, I am not your judge, but let me suggest that you are becoming starved through not feeding upon the Word of God. Souls cannot be strong without spiritual meat any more than bodies can be well when meals are neglected. There is a good rule I have heard mothers say about children and chickens—"little and often"—and I think it is true with Christians. They need little and often during the day—not a long passage of Scripture, perhaps memory would fail—but a short passage now and a short passage then and a little prayer here and a little prayer there. It is wonderful how souls grow in that way. Alas, I fear all this is neglected and spiritual strength is starved! Let us begin, from this time forward, to give attention to the sustenance of our souls! Let us daily feed upon the Word of God that we may grow— and so shall our strength no more be starved.
-
 
 ---
 [[Sermon 1509 The Best of All Sights|← #1509]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]]

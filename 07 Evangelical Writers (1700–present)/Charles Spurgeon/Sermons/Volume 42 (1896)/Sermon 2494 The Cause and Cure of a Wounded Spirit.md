@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Cause and Cure of a Wounded Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2494
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The spirit of a man will sustain his infirmity; but a wounded spirit, who can bear?" Proverbs 18:14.
 
@@ -113,7 +110,7 @@ If this should not cure the evil, remember the great brevity of all your afflict
 
 Do not, therefore, think that you are quite alone in your sorrow. Bow your head and bear it, if it cannot be removed, for but in a little while every cloud shall be swept away, and you, in the cloudless sunlight, shall behold your God! Meanwhile, His strength is sufficient for you. He will not suffer you to be tempted above what you are able to bear! And if you cannot bear your infirmity because of your wounded spirit, He will bear for you, both yourself and your infirmity! "O rest in the Lord and wait patiently for Him." "Let not your heart be troubled. you believe in God, believe, also, in your Christ." Go away, you Hannah of a sorrowful spirit, and be no more sad! The Lord grant His comforts to you, for His Son, Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK9:30-40.
+## Exposition by C. H. Spurgeon: Mark 9:30-40
 
 Verses 30-32. And they departed from there and passed through Galilee; and He would not that any man should know it. For He taught His disciples, and said to them, The Son of Man is delivered into the hands of men, and they shall kill Him; and after He is killed, He shall rise the third day. But they understood not that saying and were afraid to ask Him. Here is the ruling passion of Christ which was always prominent throughout His life. Though He has just won a glorious victory over Satan, He does not stay to congratulate Himself upon it, but His heart is still away to the Cross where He is to suffer. He is thinking of His dying for His people, and longing until He shall have paid the ransom price for their redemption and set them free. Oh, the heights and depths of the love of Christ! See how steadfastly He sets His face to go to Jerusalem where He must die. Let us imitate Him—let us think as much of His passion, now that it is over, as He thought of it before it was come.
 
@@ -126,7 +123,6 @@ Master to the petty jealousies and self-seeking of His chosen servants! Oh, some
 38\. And John answeredHim, saying, Master, we saw one casting out devils in Your name, andhe follows not us: and we forbade him, because he follows not us. He did it, I daresay, in love to his Master, but not in the love ofhis Master. He did it, no doubt, with the desire to honor his Master, but he did not honor his Master by what he did.
 
 39, 40. But Jesus said, Forbid him not: for there is no man which shall do a miracle in My name, that can lightly speak evil of Me. For he that is not against us is on our side. Thus the Master had to talk to His poor disciples after having conversed with Moses and Elijah. Again I say, what a come-down it was from fellowship with the great Law-Giver of Israel and with the mighty Prophet of fire, to talk with these childish men who had fallen out among themselves and fallen out with other people! O blessed Master, we may gladly hope that You will commune with us as You did with them! We may also trust that some poor sinner, even though the devil may be in him, may catch Your eyes of pity and love—and that You may heal him.
-
 
 ---
 [[Sermon 2493 A Man Named Matthew|← #2493]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2495 Defiled and Defiling|#2495 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 138. Matthew 16:1-4; Mark 8:11-13; Luke 12:54-57
-
-**Matthew 16:1-4; Mark 8:11-13; Luke 12:54-57**
 
 **1**. And the Pharisees, together with the Sadducees, came, and tempting desired that he would show them a sign from heaven. **2**. But he answering said to them, About the commencement of the evening you say, It will be fine weather; for the sky is red. **3**. And in the morning, There will be a storm today; for the sky is red and lowering. Hypocrites, you can judge aright of the face of the sky; but can you not judge of the signs of the times? **4**. A wicked and adulterous nation demandeth a sign, and no sign shall be given to it but the sign of the prophet Jonah. And he left them, and departed.
 

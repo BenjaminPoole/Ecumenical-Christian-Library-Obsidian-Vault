@@ -10,10 +10,9 @@ written: "1551"
 tags:
  - calvin-commentaries
 ---
-
 # Isaiah 37
 
-**CHAPTER 37**
+***Chapter 37***
 
 ## Isaiah 37:1-38
 

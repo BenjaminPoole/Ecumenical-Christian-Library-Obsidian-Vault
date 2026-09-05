@@ -10,24 +10,23 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 12. The Testament of William Tracy, Esquire
 
-THE TESTAMENT
+*The Testament*
 
-MASTER WILLIAM TRACY, ESQUIRE, EXPOUNDED BY
+## Master William Tracy, Esquire, Expounded By
 
 WILLIAM TYNDALE;
 
 WHEREIN THOU SHALT PERCEIVE WITH WHAT CHARITY THE CHANCELLOR OF WORCESTER BURNED, WHEN HE TOOK UP THE DEAD CARCASS, AND MADE ASHES OF IT AFTER IT WAS BURIED. 1535.
 
-TO THE READER.
+## To the Reader
 
 THOU shalt understand, most dear reader, that after William Tyndale was so Judasly betrayed by an Englishman, a scholar of Louvain, whose name is Philips, there were certain things of his doing found, which he had intended to have put forth to the furtherance of God's word ; among which was this testament of M. Tracy, expounded by himself, whereunto was annexed the exposition of the same, of John Frith's doing and own handwriting, which I have caused to be put in print, to the intent that all the world should see how earnestly the canonists and spiritual lawyers (which be the chief rulers under bishops in every diocese, insomuch that in every cathedral church the dean, chancellor, and archdeacon, are commonly doctors or bachelors of law) do endeavour them selves justly to judge, and spiritually to give sentence accord ing to charity, upon all the acts and deeds done of their diocesans, after the example of the chancellor of Worcester, which, after M. Tracy was buried, (of pure zeal and love hardly) took up the dead carcass and burnt it. Wherefore he did it, it shall evidently appear to the reader in this little treatise : read it therefore, I beseech thee, and judge the spirits of our spiritualty, and pray that the Spirit of him that raised up Christ may once inhabit them, and mollify their hearts, and so illumine them, that they may both see and shew true light, and no longer to resist God nor his truth. Amen.
 
-272 TRACY'S TESTAMENT.
+## 272 Tracy's Testament
 
-THE TESTAMENT ITSELF.
+## The Testament Itself
 
 In the name of God, Amen. I William Tracy, of Todington, in the county of Glocester, esquire, make my testament and last will, as hereafter followeth.
 
@@ -41,7 +40,7 @@ L1 " Of care to be taken for the dead." Such is the title of a trea tise written
 
 [2 Ista omnia, id est curatio funeris, conditio sepulturse, pompa exsequiarum, magis sunt vivorum solatia quam subsidia mortuorum. — Id. col. 517. G.]
 
-TYNPALE'S EXPOSITION. 273
+## Tynpale's Exposition. 273
 
 And touching the distribution of my temporal goods, my purpose is, by the grace of God, to bestow them to be ac cepted as fruits of faith : so that I do not suppose that my merit be by good bestowing of them ; but my merit is the faith of Jesus Christ only, by which faith such works are good, according to the words of our Lord, (Matt, xxv.) "I was hungry, and thou gavest me to eat;" and it followeth, " that ye have done to the least of my brethren ye have done to me," &c. And ever we should consider the true sentence, that ' a good work maketh not a good man, but a good man maketh a good work : ' for faith maketh the man both good •and righteous; for " a righteous man liveth by faith" (Rom. i.), and, "whatsoever springeth not out of faith is sin" (Rom. xiv.).
 

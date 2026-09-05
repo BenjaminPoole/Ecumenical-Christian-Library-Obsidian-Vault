@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Main Matter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1631
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 6, 1881,.
+*Delivered on Lord's-Day Morning, November 6, 1881*
 
 > "Many other signs truly did Jesus in the presence of His disciples, which are not written in this book: but these are written that you might believe that Jesus is the Christ, the Son of God, and that, believing, you might have life through His name." John 20:30,31.
 
@@ -146,7 +145,6 @@ Why were demoniacs cured? Was it not because unclean spirits knew the name of Je
 I come back to my beginning and there I close—the one thing, the main thing, the only thing is that we hold on to Jesus Christ through thick and thin, through foul and fair, up hill and down dale, in the night and in the day, in life and in death, in time and in eternity—that we steadfastly believe that Jesus of Nazareth, who died upon the Cross, is the Messiah of God, yes, the Son of God, sent to cleanse away iniquity and bring in perfect righteousness! Whether we see Him on His Cross or on His Throne, all our hope, all our trust must be fixed in Him and so we shall live when time shall be no more!
 
 Verily, I say unto you, those who thus trust Him shall never perish, neither shall any pluck them out of His hands, for He has said it, "I give unto My sheep eternal life." Stay there, O true Believers, and let none entice you from your steadfastness! If any of you have never exerted this faith, may the Lord bring you to Jesus at once! This sacred Book was written on purpose to make you believe! The Spirit is given to lead you to believe! The objective of every preaching of the Gospel is that you may believe! Therefore come and welcome! And at this hour believe on the one saving name and live thereby. God grant it for His name's sake. Amen.
-
 
 ---
 [[Sermon 1630 Four Choice Sentences|← #1630]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1632 The Nazarene and the Sect of the Nazarenes|#1632 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Israel's Cry and God's Answer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2631
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it came to pass in process of time that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage. And God heard their groaning, and God remembered His Covenant with Abraham, with Isaac, and with Jacob. And God looked upon the children of Israel, and God had respect unto them...Now therefore, behold, the cry of the children of Israel has come to Me: and I have also seen the oppression with which the Egyptians oppress them. Come now, therefore, and I will send you to Pharaoh, that you may bring forth My people, the children of Israel, out of Egypt." Exodus2:23-25; 3:9,10.
 
@@ -87,7 +84,7 @@ Lastly, Moses did bring the people out, every one of them. He left not a little 
 
 Yet remember, O you Sinners, that I do not urge you to trust Christ as though He cringed at your feet and could not have honor and glory if you did not welcome Him as your Savior! If you will not come to Him. If you will turn your backs on Him, I shall only say of you, "You believe not because you are not of His sheep, as He said unto you." It is not for Christ's sake, but for your own sake that I plead with you! Oh, that you would come to Him and trust Him! Weary of self, and weary of sin, and hopeless of self-salvation, come and lay yourselves at Jesus' feet, even at the feet of Him whom God has "exalted with His right hand to be a Prince and a Savior, to give repentance to Israel, and forgiveness of sins" He has laid help upon One who is mighty! He has exalted One chosen out of the people! Therefore, come and trust Him even now, and you shall be saved! May God grant repentance and faith to this whole congregation for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS 7:14-43.
+## Exposition by C. H. Spurgeon: Acts 7:14-43
 
 Verses 14-17. Then sent Joseph, and called his father, Jacob, to him, and all his kindred, seventy-five souls. So Jacob went down into Egypt, and died, he, and our fathers, and were carried over into Sychem, and laid in the sepulcher that Abraham bought for a sum of money of the sons of Emmor the father of Sychem. But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt Note those words, "the time of the promise," and remember that every promise has its due time of fulfillment and that there is a time of promise to all the Lord's chosen people, when He will surely bring them out of bondage into the glorious liberty of the children of God.
 
@@ -114,7 +111,6 @@ Egypt, her star of hope arose—"Moses was born and was exceedingly fair," or, a
 40, 41. Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we not what is become of him. And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands. This again is another of the ways by which men attempt to make an idol god out of something which they can see and to rejoice in what they, themselves, do, instead of trusting in what the Lord Jesus has done.
 
 42, 43. Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the Prophets, O you house of Israel, have you offered to Me slain beasts and sacrifices by the space of forty years in the wilderness? Yes, you took up the tabernacle of Moloch, and the star of your God, Remphan, figures which you made to worship them: and I will carry you away beyond Babylon. There was still idolatry in their hearts and Moses was rejected by them. God grant that we may not be idolaters and so reject the Prophet like unto Moses, whom the Lord has sent unto us! Amen!
-
 
 ---
 [[Sermon 2630 What Jesus Would Do|← #2630]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2632 What Shall the Harvest Be|#2632 →]]

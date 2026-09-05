@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Faith, And The Witness Upon Which It Is Founded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1213
-
-DELIVERED BY.
 
 > "If we receive the witness of men, the witness of God is greater: for this is the witness of God which He has witnessed of His Son. He that believes in the Son of God has the witness in himself: he that believes not God, has made Him a liar; because he believes not the witness that God witnessed of His Son." 1 John 5:9,10.
 
@@ -136,7 +133,6 @@ Moved by this reproof, you take the medicine. He comes the next day and you feel
 foolish enough to insist and not take the medicine till you had proved it—and yet you could not prove it till you took it—you would have behaved like an idiot! And the man who will not take God at His Word, but needs something else besides the Lord's witness, not only insults God, but plays the part of an insane suicide and deserves to perish! God give you Grace to accept the Gospel! Then you shall have the witness in yourself and He shall have the praise, and you shall have the comfort.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 John 5. HYMNS FROM "OUR OWN HYMN BOOK"—531, 486.
-
 
 ---
 [[Sermon 1212 Faith and Its Attendant Privileges|← #1212]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1214 Strengthening Medicine For God's Servants|#1214 →]]

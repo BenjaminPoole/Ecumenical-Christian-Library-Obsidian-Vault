@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # A New Leaf for the New Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2497
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they said one to another, We are truly guilty concerning our brother." Genesis 42:21.
 
@@ -95,7 +92,7 @@ Further, to those who have been guilty concerning Christ, but who have not repen
 
 May the Lord sanctify to you these solemn meditations and give you Grace to believe in His Son, Jesus Christ, that you may be saved! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 2.
+## Exposition by C. H. Spurgeon: Matthew 2
 
 Verse 1. Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the East to Jerusalem.—Probably from that Assyria which is joined with Israel and Egypt in the remarkable prophecy in Isaiah 19:24, 25—"In that day shall Israel be the third with Egypt and with Assyria even a blessing in the midst of the land: whom the Lord of Hosts shall bless, saying, Blessed be Egypt, My people, and Assyria, the work of My hands, and Israel, My inheritance. "Behold, there came wise men from the East to Jerusalem."—
 
@@ -124,7 +121,6 @@ Verse 1. Now when Jesus was born in Bethlehem of Judaea in the days of Herod the
 23\. And he came and dwelt in a city called Nazareth. Galilee was despised, but Nazareth was thought to be the worst part of Galilee! Netzar is a word in the Hebrew signifying a sprout or branch and Nazareth apparently comes from the same root.
 
 23\. That it might be fulfilled which was spoken by the Prophets, He shall be called a Nazarene. This is the name commonly given to our Lord in the Old Testament. "And there shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots." Jesus was the sprout, or the shoot out of the withered stem of Jesse. When the dynasty of David was like the tree cut down and only the stem of it left, there sprang up out of it the Netzar, the Nazarene. So He is found dwelling in a city that is called by that name and He is also called a Nazarene. And the name clings to Him to this day! There are those who will call Him by no name but, "the Nazarene." There was one who threatened to crush the Nazarene, but when he was dying, he had to cry, "O Nazarene, You have triumphed!" And the Nazarene will always do so. He shall be crowned King of Kings and Lord of Lords and He shall reign forever and ever. Hallelujah!
-
 
 ---
 [[Sermon 2496 Joyful Anticipation of the Second Advent|← #2496]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]]

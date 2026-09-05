@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 46. Decade 4, Sermon 3, Part 2
 
 [5 seripsit et, Lat.; also wrote. ]
@@ -27,8 +26,6 @@ All things that are to be believed of Godare fully contained in the canonical sc
 Testimonies out of the Gospel to prove the Trinity.
 
 Matt. xxviii. 9, 20.)
-
-160 THE FOURTH DECADE. [SERM.
 
 selves, but that which from the beginning even till then the ecclesiastical tradition taught, and prudent Christians did evidently set forth!’ And so forth. Ξ
 
@@ -66,8 +63,6 @@ Matth. iii.
 
 John x.
 
-162 THE FOURTH DECADE. [SERM.
-
 things the Son hath, those are the Father’s: and the divinity, glory, and majesty of them all is co-equal.
 
 With these most evident speeches do these two manifest testimonies of John! Baptist agree. First he saith: ‘“ He whom God hath sent doth speak the words of God; for God giveth not the Spirit by measure unto him. The Father loveth the Son, and hath given all things into his hand. He that believeth on the Son hath everlasting life, &c.” Lo, here again, in the one Godhead thou hearest the three persons distinguished by their properties: for the Father loveth and sendeth the Son, and giveth all things into his hand; the Son is sent, and receiveth all things; but the Holy Ghost is given of the Father, and received of the Son according to fulness. Then again the same Baptist crieth the second time, and saith: “I saw the Spirit descending from heaven like unto a dove, and it abode upon him. And 1 knew him not: but he that sent me to baptize with water, the same said unto me, Upon whomsoeyer thou shalt see the Spirit descending, and tarrying still upon him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God.” Here again are shewed unto us, as clearly as the day-light, the three persons distinguished and not confounded. For he that sendeth John is iin Father : the Holy Ghost is neither the Father, nor the Son, but appeareth upon the head of Christ in the likeness of a dove: and the Son is the Son, not the Father, and that too the Son of the Father, upon whose head the Holy Ghost did abide. And now to this place doth belong the testimony of the Father, uttered from heaven upon his Son Christ. For he saith: “This is my beloved Son, in whom I am well pleased.” But one and the same cannot be both father and son unto himself. The Father is one, and the Son is one: and yet not divers things, but one and the same God, of one and the same nature. For the Son in one place doth most plainly say: “1 and the Father are one, &c.”
@@ -76,7 +71,7 @@ Moreover, what could be more clearly spoken for the proof of the express distinc
 
 [1 beatissimi Joannis. | [2 sacrament : mystery. |
 
-IIL | OF GOD, AND THE KNOWLEDGE OF GOD. 163
+## IIL | of God, and the Knowledge of God. 163
 
 Lord’s incarnation, doth evidently say unto the virgin, the mother of God*: “ The Holy Ghost shall come upon thee, Luke. and the power of the Highest shall overshadow thee; therefore also that holy thing that shall be born shall be called the Son of God?” What, I pray you, could have possibly been invented of purpose to be more manifestly spoken for the proof of this matter, than these words of the angel? Thou hast here the person of the Highest, that is, of the Father. For in the words of the angel, a little afore, it is said: “ΗΘ shall be great, and shall be called the Son of the Highest.” Now the Son is the Son of the Father. We have also the persons of the Son and of the Holy Ghost expressed, with their properties, neither mingled nor confounded. The Father is not incarnate, nor yet the Holy Ghost, but the Son. To the Father is born of the virgin a Son, even he that was the Son by the eternal and unspeakable manner of begetting. But the Holy Ghost, which is the power of the Most Highest, did overshadow the virgin, and made her with child. And so by this means thou mayest see here the persons distinguished, not divided; and how they differ in properties, not in essence of deity, or in nature. Here now (although these places might seem to suffice The apostles’ testimonies any reasonable man‘) I will yet add other testimonies of the ences holy apostles, and that too of three the most excellent among all the apostles. St Peter, preaching the word of the Gospel before the church of Israel, as Luke testifieth in the Acts of the Apostles, doth among other things say: “This Jesus Actsii. hath God raised up, and exalted him to his right hand; and he, having received of the Father the promise of the Holy Ghost, hath shed forth this which ye now see and hear.” Lo, God the Father raiseth up and doth exalt the Son: the ‘Son is raised up, exalted, and sitteth at the right hand of the Father: and the Son, receiving of the Father the Holy Ghost, doth bestow it upon the apostles. Therefore the Spirit proceedeth from the Father and the Son, subsisting in his own person, but being one and the same Spirit of them both. Moreover, in the sermon made at Czesarea in the conActs x. gregation of the Gentiles, that is, in the house and family of Cornelius the centurion, the same apostle doth as plainly
 
@@ -93,8 +88,6 @@ Tit. iii.
 Identitas,
 
 1 John ii. '
-
-164 THE FOURTH DECADE. [SERM.
 
 express the person of the I'ather, of the Son, and of the Holy Ghost; and knitteth the Trinity together into one essence of the divine nature.
 
@@ -122,8 +115,6 @@ Opp. Epist. 38. Tom. m1. p. 169. Paris. 1839.]
 
 The mystery of the Trinity is shadowed by similitudes.
 
-166 THE FOURTH DECADE. [SERM.
-
 infirmity, I will put a similitude, although in very deed much unlike, which is usually taken and commonly used. Behold the sun and the beams that come from it, and then the heat that proceedeth from them both. As the sun is the headspring of the light and the heat, so is the Father the headspring of the Son, who is light of light: and as of the sun and the beams together the heat doth come, so of the Father and the Son together the Holy Ghost proceedeth. But now put case or imagine that the sun were such as never had beginning, nor ever shall have ending ; and should not then, I pray you, the beams of this everlasting sun be everlasting too? And should not the heat, which proceedeth of them both, be everlasting, as well as they ? Finally, should not the sun be one still in essence or substance, and three by reason of the three subsistences or persons? This parable of the sun did Tertullian use, whose words, which do also contain other
 
 I woul τὸν wish similitudes, I will not be grieved to recite unto you. “I will not doubt (saith he) to call both the stalk of a root, the brook of a in Spring-head, and a beam of the sun, by the name of a son; for every original is a parent, and everything that issueth of that original is a son: much more then the Word of God t (may be called a Son), which even properly hath the name of , son: and yet neither is the stalk separated from the root, nor ” the brook from the spring-head, nor the beam from the sun; no more is the Word separated from God. Therefore according to the fashion of these examples I profess that I say there are two, God and his Word, the Father and his Son. For the root and the stalk are two things, but joined in one; and the spring-head and the brook are two kinds, but undivided ; and the sun and the beams are two forms, but both cleaving the one to the other. Everything that cometh of anything must needs be second to that out of which it cometh, and yet it is not separated from that from which it proceedeth. But where a second is, there are two; and where a third is, there are three. For the third is the Spirit of God and the Son; even as the third from the root is the fruit of the stalk, the third from the spring-head is the river of the brook, and the third from the sun is the heat of the beam: yet none of these is alienated from the matrix, of which they take the properties that they have. So the Trinity, descending by annexed and linked degrees from the Father, doth not make
@@ -139,8 +130,6 @@ But letting pass the parables, similitudes, or comparisons The certainty oc- of 
 (2 for our sakes, not in Lat. ]
 
 The sum of things to be believed concerning the Trinity.
-
-168 THE FOURTH DECADE. [SERM.
 
 believe the oracles of God for none other cause but for that our understanding cannot attain to the knowledge of all things, when as nevertheless we know that our understanding is naturally blind and hateth God. Among philosophers he is counted an impudent fellow which rejecteth the authority of any notable and approved writer. It was enough to persuade the scholars of Pythagoras for a man to say to them, αὐτὸς ἔφη, “he said 1. And then dareth a Christian seek starting-holes, and jangle about asking of curious questions, when it is said unto him, ‘God said it, and taught thee to believe it?’ No man doubteth of the king’s letters patents, if so be the seal be acknowledged: therefore what a folly is it to doubt of the divine testimonies, which are so evident, and firmly sealed with the Spirit of God!
 
@@ -187,8 +176,6 @@ Isai. xlii. Matth. xii.
 Tsai. Ixi. Luke iv.
 
 The mystery of the Trinity must not be joined with curious disputations.
-
-172 THE FOURTH DECADE. [SERM.
 
 apostle citeth in these words: “ Behold, my Son whom I have chosen; my beloved, in whom my soul is pleased: I will put my Spirit upon him, &c.” With this agreeth that which Luke citeth, saying: “The Spirit of the Lord upon me, because he hath anointed me, to preach the gospel to the poor hath he sent me, &c.” In these testimonies here thou hast the Father, the Son, and the Holy Ghost. A few out of many; for I do not covet! to turn over the whole scriptures of the old Testament.
 

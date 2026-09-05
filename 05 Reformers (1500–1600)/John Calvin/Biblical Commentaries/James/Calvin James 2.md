@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # James 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## James 2:1-4
 

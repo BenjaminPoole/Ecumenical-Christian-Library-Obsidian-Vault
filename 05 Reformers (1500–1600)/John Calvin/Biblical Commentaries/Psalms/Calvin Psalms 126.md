@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 126
-
-**PSALM 126**
 
 This Psalm consists of three parts. First, the Prophet exhorts the faithful, who had returned from the captivity, to gratitude, and highly extols the grace displayed in their deliverance, to show them, beyond all doubt, that they were brought back to their own country by the hand of God, and not by a fortuitous conjuncture of circumstances, or by the favor of men. In the second part a prayer is added, that God would perfect his own work which he had begun. Finally, although there was no immediate prospect of a full restoration, yet he mitigates the feeling of weariness which delay might occasion, and assures them, that though at present the seed was watered with tears, the harvest would be joyous.
 

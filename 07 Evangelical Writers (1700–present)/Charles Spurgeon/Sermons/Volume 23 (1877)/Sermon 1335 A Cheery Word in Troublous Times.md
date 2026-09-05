@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # A Cheery Word in Troublous Times
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1335
-
-DELIVERED BY.
 
 > "Therefore, Sirs, be of good cheer: for I believe God, that it shall be even as it was told me." Acts 27:25.
 
@@ -156,7 +153,6 @@ Now, how has it turned out with me? I wish to bear this witness, not about mysel
 Be steadfast in following your convictions. I cannot help saying it, because some of you, perhaps, are beginning to temporize a little. I would say to you, "Stand up straight and proclaim the Truth of God and then be of good cheer, for I believe God, that it shall be even as He has told me!" May God grant that this little personal testimony may tend to put backbone into certain Christians, for we have a molluscous company of professors about who do not believe anything! They shape their creed according to the mind of the last person they meet!
 
 Go, dear Brethren, and pray God to cleanse your hearts of that evil if you have ever indulged in it! Believe God! Take every letter of His Book and hang to it as for dear life! And in little, as well as in great things, keep to the statutes and precepts and ordinances and doctrines of the Lord as they are committed to you! As surely as you do this, the Lord of Hosts will bless you! First rest in Jesus by a simple faith in Him and then treasure up His every Word and keep His every command. So shall the blessing of God be with you from now on and forever. May His Holy Spirit work this in you! Amen.
-
 
 ---
 [[Sermon 1334 Coming—Always Coming|← #1334]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1336 A Family Sermon|#1336 →]]

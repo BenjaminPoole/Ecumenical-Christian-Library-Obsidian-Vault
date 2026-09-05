@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Praise Comely to the Upright
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3460
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Praise is comely for the upright." Psalm 33:1.
 
@@ -25,7 +22,7 @@ THE Psalmist was full of praise and, therefore, felt that he could not fully exp
 
 I have taken for a text that one sentence—and I will speak of it under four short words which may serve as headings—four words of question. The first is—
 
-I. WHAT?
+## I. What?
 
 What is it which is so comely, so comely to the upright? It is praise, the praise Of God! And this praise of God, though it is always the same thing, the same spiritual thing produced by the Spirit of God, yet takes different forms, and in each form it is still comely to the upright. It is so in that delightful form of music in which we express with accord, hearts and voices keeping tune together, in the great congregation our sense of united adoration. I think there is nothing more comely than the sweet songs of the sanctuary, and what our friends of the Society of Friends do without singing I scarcely know! I think they will have to recant that one thing at least when they enter Heaven, for surely they cannot be silent there, where all shall join in songs like unto great thunder, and like the mighty rolling of the sea in praise of the Infinite Majesty of Him who was slain, but who always lives! I think we could not, anyhow, give up our song. We would feel as if the Sabbath were shorn of its bloom, as if you had plucked the flowers out of the garden of the soul! Our soul must sing, yes, she will sing praises unto the Lord! So natural does it seem to the renewed heart to join in praise with others, that even when lying in the dungeon, after having been beaten sore with stripes, and with their feet fast in the stocks, Paul and Silas did not only pray, but they sang praises unto God, and praise was comely there! It has been comely in many a prison where no one has heard the sound but God. It has been comely among the glens of Scotland when the Covenanters lifted up the Psalm. It has been comely in nooks and corners of England when Puritans, in fear of their lives, nevertheless magnified the name of the Lord. It has been comely at the stakes at Smithfield! Comely from Anne Askew's lips, when she was on the rack, stretched to the utmost! It has been comely anywhere when the voice has poured out itself with musical rhythm in the praise of the Most High!
 
@@ -57,7 +54,7 @@ For all the world calls good and great." Now, believe me, I think this is most c
 
 best. The soldiers, knowing of this expression of his, jeered him all along the journey with blasphemies, and when his horse fell and he broke his leg, they laughed, but he said it was all for the best. He was laid upon the road for a surgeon to set his bones, but he said it was all for the best, and so it proved to be, for this delayed them—and when they got just within sight of London they could hear the bells ringing and, on enquiry, they learned that Queen Mary was dead and Queen Elizabeth had succeeded—so that Mr. Bernard Gilpin had arrived in London just three days too late to be burned—and he was quite correct in saying that it was all for the best! But I have no doubt that if he had gone to the stake he would have said it was all for the beat, and certainly his emancipated spirit, as it left its charred ashes behind, would have sung, "Yes, it is all for the best." Now that state of heart, not the act of praise, but the spirit of praise, in which the soul seems to swim in praise as the fish swims in the river, and to bathe and perfume itself with thanksgiving, as Esther perfumed herself in Ahasuerus's palace. Such a state of heart as this is extremely comely to the upright! That is the answer to the question—What? The next question is—
 
-II. WHY?
+## II. Why?
 
 Why is praise so befitting and becoming to the upright? We answer that it is so, and you will soon see it, from thenature of things. Wings are most becoming to an angel. You would not think of drawing one of those spirits that are like flames of fire without giving it wings. What for? Why, to mount with, to make him ethereal, to quicken his motions. Well, and the Christian without praise would be without his wings! What is he to mount with? He does not wish to grovel here below, fond of these earthly toys, but how is he to mount? Prayer gives him one wing, but praise must give him the other—and when he gets prayer and praise, oh, how he seems to leave sublunary things behind and away he flies, borne by the strong help of the eternal Spirit up to—
 
@@ -73,7 +70,7 @@ Now, Christian, just treasure up this thought, that praise is comely to the upri
 
 And now, in the third place, another little word to help your memories, and that shall be—
 
-III. WHEN?
+## III. When?
 
 "Praise is comely to the upright." But when? Now-a-days that which is comely one day is not comely the next, for the fashions change so continually. But let me tell you that the spiritual fashions never change, and that which God declares to be comely, today, will be comely next year, and comely forever! Praise is never out of fashion, never out of season, never out of date. You may praise God and utter even the same sentiments as came from the lips of Enoch and there shall be nothing stale therein—it shall still be comely. When is it comely for Christians to praise God? My answer is always. I must comprehend all seasons and all places. It is never uncomely to praise God. When the congregation has met and the service has commenced, it is the time to lift up the voice unanimously! Oh, it is then comely to the Believer to praise the Most High God! If there are but two or three who are met together in some lowly schoolroom, or a shed, or a barn, or under the forest trees—or half a dozen on the deck of a vessel, or down in the cabin or the forecastle—it matters not where, let us pitch our tent and sing one of the songs of Zion! Praise is comely to the upright from half a dozen in some back-wood settlement, or out in the bush at a settler's log hut. Sweet everywhere, it is unacceptable nowhere! Praise is comely in all such places when the saints come together. And, Brothers and Sisters, praise is comely from the Christian at any season. If he wakes in the morning, he sings—
 
@@ -131,9 +128,9 @@ And say when the death-dew lies cold on my brow,
 
 Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 130; 1 JOHN 1:4-7.
+## Exposition by C. H. Spurgeon: Psalm 130; 1 John 1:4-7
 
-PSALM 130.
+## Psalm 130
 
 Verse 1. Out of the depths have I cried unto You, O LORD. The most eminent of God's saints have been in the depths. Therefore, then, should I murmur if I have to endure trials? What am I that I should be exempt from warfare? How can I expect to win the crown without first carrying the Cross? David saw the depths—and so must you and I. But David learned to cry to God out of the depths. Learn, therefore, that there is no place so deep but prayer can reach from the bottom of it up to God and then God's long arm can reach to the bottom and bring us up out of the depth! "Out of
 
@@ -155,7 +152,7 @@ the depths have I cried unto You, O Lord." Do not say, "Out of the depths have I
 
 7\. 8. Let Israel hope in the LORD: for with the LORD there is mercy, and with Him is plenteous redemption. And He shall redeem Israel from all his iniquities. He shall do this in a double and perfect way—He shall redeem us from the effect of all our iniquities through the atoning Sacrifice—and from the presence of all iniquity by His sanctifying Spirit. They are without fault before the Throne of God. I will purge their blood that I have not cleansed, says the Lord that dwells in Zion. May my soul have a part and lot in this precious promise!
 
-1 JOHN 1:4-7.
+## 1 John 1:4-7
 
 4\. And these things write we unto you, that your joy may be full Some Christians have joy, but there are only a few drops in the bottom of their cup. But the Scriptures were written, and more especially the Doctrine of an Incarnate God is revealed to us that our joy may be full! Why, if you have nothing else to make you glad, the fact that Jesus has become a Brother to you, arrayed in your flesh, should make your joy full.
 
@@ -166,7 +163,6 @@ the depths have I cried unto You, O Lord." Do not say, "Out of the depths have I
 7\. But if we walk in the light as He is in the light—Not to the same degree, but in the same manner.
 
 7\. We have fellowship one with another, and the blood of Jesus Christ, His Son, cleanses us from all sin. So you see that when we walk the best—when we walk in the light as He is in the light, when our fellowship is of the highest order—we still need daily cleansing. It does not say—mark this, O my Soul—it does not say, The blood of Jesus Christ "cleansed," but, "cleanses." If guilt returns, His power may be proved again and again! There is no fear—all my daily slips and shortcomings shall be graciously removed by this precious blood. But there are some who think they are perfectly sanctified and have no sin.
-
 
 ---
 [[Sermon 3459 More and More|← #3459]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3461 The Welcome Visitor|#3461 →]]

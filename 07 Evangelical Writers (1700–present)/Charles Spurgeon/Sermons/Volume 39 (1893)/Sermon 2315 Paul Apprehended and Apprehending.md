@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Paul Apprehended and Apprehending
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2315
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Not as though I had already attained, either were already perfected; but I press on, that I may apprehend that for which also I am apprehended of Christ Jesus." Philippians 3:12.
 
@@ -105,7 +102,7 @@ Finally, let this lead you to hope for the salvation of others. Go forward hopef
 
 May the Lord arrest some sinners, tonight! Pray, as you go down the aisles, "Lord, arrest them! Bring them to Your dear feet and save them this night, for Jesus' sake!" Amen.
 
-EXPOSITION BY C. H. SPURGEON. PHILIPPIANS 3.
+## Exposition by C. H. Spurgeon. Philippians 3
 
 The Holy Spirit indited this Epistle by the pen of His servant, Paul. May He also write it on our hearts!
 
@@ -154,7 +151,6 @@ Verse 1. Finally, my brethren, rejoice in the Lord. When you get to, "finally." 
 21\. Who shall change our vile body. "The body of our humiliation." We have only part of the redemption while we are here. The soul is regenerated, newly-born, but the bodyis not. "The body is dead because of sin, but the spirit is life because of righteousness." The redemption of the purchased possession will be perfect at the resurrection. The resurrection will be, to the body, what regeneration is to the soul! We sometimes wonder why we are sick when Christ could make us well in a moment—but the reason is that, as yet, He has not fully brought His Divine Power to bear upon the body.
 
 21\. That it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself May He show some part of that blessed power in us tonight! Amen.
-
 
 ---
 [[Sermon 2314 Three Blessings of the Heavenly Charter|← #2314]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2316 Twelve Covenant Mercies|#2316 →]]

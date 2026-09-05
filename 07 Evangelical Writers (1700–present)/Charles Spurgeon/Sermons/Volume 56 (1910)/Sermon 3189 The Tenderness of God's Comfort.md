@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Tenderness of God's Comfort
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3189
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As one whom his mother comforts, so will I comfort you; and you shall be comforted in Jerusalem." Isaiah 66:13.
 
@@ -127,7 +124,7 @@ To that end, I pray the Master to help all His servants. Pray for your ministers
 
 May God add His blessing and bring troubled sinners to look to Christ, and Christ shall have the glory! Amen.
 
-EXPOSITION BY C. H. SPURGEON: COLOSSIANS2.
+## Exposition by C. H. Spurgeon: Colossians 2
 
 Verse 1. For I would that you knew what great conflict Ihave for you and for them at Laodicea, and for as many as have not seen my face in the flesh. Paul had not met these Colossian Christians, but he had heard of their faith, hope, and love—and he so desired their good that he had a continual care for them in his heart. He carried that care to God in prayer, yet he still bore them in loving remembrance. They were always on his heart as a sick child is always on the heart of its mother.
 
@@ -184,7 +181,6 @@ prisoners in a triumphal procession, as the victorious Roman generals did when t
 23\. And humility, and neglecting of the body; not in any honor. There is no honor about such things, they are con-temptible—"not in any honor"—
 
 23\. To the satisfying of the flesh. That is all such things would do—make you seem better than other people—so do not be led into these ways, but stand fast in the liberty in which Christ has made His people free!
-
 
 ---
 [[Sermon 3188 Discipline in Christ's Army|← #3188]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3190 Christ in Gethsemane|#3190 →]]

@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 4. Exposition of Matthew V, VI, and VII: The Seventh Chapter
 
-AN EXPOSITION OF THE SEVENTH CHAPTER.
+*An Exposition of the Seventh Chapter*
 
 Judge not, that ye be not judged. For as ye judge, so shall ye be judged ; and with what measure ye mete, with the same shall it be measured to you again. Why lookest thou on the mote that is in thy brother's eye, and markest not the beam that is in thine own eye ? Or how canst thou say to thy brother. Let me pluck out the mote out of thine eye, and, behold, there is a beam in thine own eye ? Thou hypocrite, pluck first the beam out of thine own eye ; and then thou shalt see clearly to pluck the mote out of thy brother's eye.
 
@@ -34,8 +33,6 @@ he that though he observe a thousand ceremonies for his own ex- ^^^^f^*? zeai er
 {} Alluding to the custom of measuring the number of aves or paternosters uttered, by dropping at the close of each one stone of the string of beads.]
 
 [tyndale, ii.j
-
-114 EXPOSITION OF [chap.
 
 of all mercy, and therefore gave not hypocrites such absolute power to compel their brethren to obey what they list, or to slay them without pity, shewing either no cause of their commandments at all, but ' So will we have it !' or else assigning an intent damnable and contrary to all scripture. Paul
 
@@ -79,8 +76,6 @@ Thou must confess, also, that God only hath kept it and ^^,'JI^ thee that same n
 
 Now, then, if God must ever keep it for thee, and thou [1 That ig, did not keep him and cast fear, &c.]
 
-118 EXPOSITION OF [chap.
-
 must daily receive it of his hand (as a poor man doth receive his alms of another man), thou art in no more surety of thy daily bread, no, though thou were a cardinal, than the poorest is. Wherefore, howsoever rich thou be, yet must thou ever cry to God for thy daily bread. So now it is a commandment to pray, and that continually ; short, thick, and oft, as the psalms be, and all the prayers of the bible. bfMndto Finally, the third is, that we be commanded to pray our grayer, -yyrith faith and trust ; and that we believe in the Lord our God, and doubt not in his promises, unto which Christ induceth us with an apt simiUtude, saying, " If ye being evil can give good things unto your children, how much more shall God fulfil his promises of mercy unto his children, if they cry unto him ! " He is better and more merciful than all men. Wherefore, seeing God commandeth thee to pray, and forasmuch as thou hast so great necessity so to do, and because he is merciful, and hath promised and is true, and cannot deny his own words ; therefore pray ; and when thou prayest, look not on thine unworthiness, but on his commandment, mercy, and goodness, and on his truth and faithfulness, and believe stedfastly in him. Moreover, whatsoever thou hast done, yet if thou repent and will amend, he promiseth Though God that he will not think on thy sins. And though he defer defer thy ' O m2st^hou^ thee, thmk it not long, nor faint not in thy faith, or be slack not faint, jjj i\^j praycr : for he will surely come and give thee more than thou desirest, though he defer for thy profit, or change thy request into a better thing.
 
 All things, therefore, whatsoever ye would men should do to you, so do ye to them. This is, verily, the law and the prophets.
@@ -113,8 +108,6 @@ Beware of false prophets, which come to you in sheep's clothing ; but are within
 
 Here Christ warneth thee, and describeth unto thee those nttbto captains that should so blind the great multitude that they who^ should not find the strait gate, and lead them the broad way to perdition. Note first, that though they be false, yet he calleth them prophets ; which word in the new testament is taken for an expounder and an interpreter of scripture. And he saith, "They shall come to you," my disciples. Then they must be our preachers and our doctors. Yea, verily, they must be those our false preachers, which Peter prophesied should be among us, and bring in damnable sects, for to fulfil and satisfy their covetousness, and follow the way and steps of their father Balaam. And they shall come thereto in sheep's clothings : ergo, they be neither the Turks nor yet Saracens. For they come clothed in iron and steel ; and will thereto suffer us to keep our faith, if we will submit ourselves to them, as the Greeks do. And as for the Jews,
 
-122 EXPOSITION OF [chap.
-
 they be an hundred times fewer than we, and are everywhere in bondage, yea, and for the great part captives unto us. They also be not clothed in sheep's skins ; but maintain openly their faith, clean contrary to ours, sheep-sciothBut what are these sheep's clothings ? Truly the very ing, what 't - . r o d ^ meaneth. name of Christ. For saith Christ, "There shall come many
 
 Mattxxiv. jjj jjjy name, and deceive many." And besides that, they shall do miracles in Christ's name ; as it followeth in the text, that they shall call Christ, Master, Master, and begin their sermon, saying : * Our master Christ saith in such a chapter. Whatsoever ye bind upon earth shall be bound in heaven; see, friends, these be not our words, but our master Christ's.* And they shall do miracles in Christ's name thereto, to confirm the false doctrine which they preach in his name. fearful and terrible judgment of Almighty God, and sentence of extreme rigorousness upon all that love not the truth, when it is preached them, that God, to avenge himself of their unkindness, shall send them so strong delusions, that doctrine should be preached unto them in the name of Christ, and made seem to follow out of his words, and be confirmed with miracles done in calling upon the name of Christ, to harden their hearts in the faith Thess. u. of lies, accordiug to the prophecy of Paul to the Thessalonians, . in the second epistle !
@@ -136,8 +129,6 @@ If thou profess poverty, what doest thou witli the lands of Pomty. gentlemen, sq
 If ye profess chastity, why desire ye above all other men ch*uit,. the company of women ? What do ye with whores openly in many countries, and with secret dispensations to keep con-
 
 [1 It appears from a sentence which presently follows, where be uset the expression shales vnthout kernels, that this word is equlTalent to shells.]
-
-124 EXPOSITION OF [chap.
 
 cubines ? Why corrupt ye so much other men's wives ? And why be there so many sodomites among you ?
 
@@ -171,9 +162,7 @@ The will that Abraham had to slay Isaac, and all that he did till he came at the
 
 [2 The next illustration has been omitted ; as turning upon a subject too indelicate for profitable contemplation.]
 
-126 EXPOSITION OF [chap.
-
-Handycrafts bv God.' Ygs ', and hath the promise of God annexed ar6 the com- mandment thereto. For God hath commanded me, for the avoidmg of of God. . ' _ o
+Handycrafts bv God.' Ygs ', and hath the promise of God annexed ar6 the com-mandment thereto. For God hath commanded me, for the avoidmg of of God. . ' _ o
 
 '^'^'^- sin, to do my brethren service, and to Hve thereby, and to choose one estate or other. For if thou wouldest receive only of thy brethren, and do nought again, thou were a thief, and an extortioner, and a tyrant. And I choose shoe-making; or receive it at the obedience of mine elders. Now have I God's commandment to work therein truly ; and his promise annexed thereto, that he wiU bless mine occupation, and make it lucky and fruitful, to bring me an honest living. Work I not now at God's commandment, and have his promise that it pleaseth him ?
 
@@ -229,8 +218,6 @@ Christ hath two sorts of hearers, of which neither nother * ^f'jfo;f" do thereaf
 
 [tyndale, II.J
 
-130 Exposition of [chap.
-
 for we cannot but sin without resistance.' The second are the hypocrites ; which will deserve all with their own imagined works only. And of faith they have no other experience, save that it is a little meritorious where it is painful to be believed : as that Christ was born of a virgin, and that he came not out the way that other children do ; fie, no, that were a great inconvenience : but above, under her arm, and yet made no hole, though he had a very natural body, and as other men have ; and that there is no bread in the sacrament, nor wine, though the five wits say all yea. And the meritorious pain of this belief is so heavy to them, that except they had feigned them a thousand wise similitudes and lousy likenesses, and as many mad reasons to stay them withal, and to help to captivate their understanding, they were like to cast all off their backs. And the only refuge of a great many, to keep in that faith, is to cast it out of their minds, and not to think upon it : as though they forgive not, yet if they put the displeasure out of their minds, and think not of it till a good occasion be given to avenge it, they think they love their neighbour well enough all the while, and be in good charity. Therapists And the faith of the best of them is but like their faith nave that ow'n iorks^'*^ in othcr worldly stories. But the faith, which is trust and ^ouiVhave coufideuce to be saved, and to have their sins forgiven by chri?t"^ Christ, which was so born, have they not at all : that faith have they in their own works only. But the true hearers understand the law as Christ interpreteth it here, and feel thereby their righteous damnation ; and run to Christ for succour, and for remission of all their sins that are past, and for all the sin which chance, through infirmities, shall compel them to doj and for remission of that the law is too strong for their weak nature.
 
 And upon that they consent to the law, love it, and profess it, to fulfil it to the uttermost of their power, and
@@ -249,7 +236,7 @@ Christ's words were spirit and life : that is to say, they john l ministered spi
 
 [1 Old English for pierce.}
 
-132 EXPOSITION OF MATTHEW V. VI. VII.
+## 132 Exposition of Matthew V. VI. VII
 
 he consenteth to the flesh, and before he be born again in Christ, is called soul^ or carnal: but when he is renewed in Christ through the word of life, and hath the love of God and of his neighbour, and the faith of Christ written in his heart, he is called spirit or spiritual 2, The Lord of all mercy send us preachers with power ; that is to say, true expounders of the word of God, and speakers to the heart of man ; and deliver us from scribes, Pharisees, hypocrites, and all false prophets ! Amen.
 

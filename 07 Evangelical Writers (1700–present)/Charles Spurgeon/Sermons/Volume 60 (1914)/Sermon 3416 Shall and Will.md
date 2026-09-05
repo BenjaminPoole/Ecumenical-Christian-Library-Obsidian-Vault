@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Shall and Will
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3416
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He shall call upon Me, and I will answer him." Psalm 91:15.
 
@@ -73,7 +70,7 @@ To sum up all I have been saying tonight, I want, dear Friends, these two promis
 
 Again and again, and again would I say it! If I should never say another word to you, I think I would conclude by saying. Brothers and Sisters, pray for us! Pray for yourselves and your families and your neighbors! "Continue in prayer." "Watch and pray." Watch continually, but pray, also, and the Lord hear you, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:41-48; 6:1-8.
+## Exposition by C. H. Spurgeon: Matthew 5:41-48; 6:1-8
 
 Verse 41. And whoever shall compel you to go a mile, go with him two. If you can do him any service, do it cheerfully, do it readily. Do what he wants of you.
 
@@ -83,7 +80,7 @@ Verse 41. And whoever shall compel you to go a mile, go with him two. If you can
 
 46-48. Do not even the publicans do the same? And if you salute your brethren, only, what do you more than others? Do not even the publicans do so? Be you, therefore, perfect, even as your Father who is in Heaven is perfect Rise out of ordinary manhood. Get beyond what others might expect of you. Have a high standard. "Be you, therefore, perfect, even as your Father who is in Heaven is perfect."
 
-MATTHEW 6:1-8.
+## Matthew 6:1-8
 
 Verse 1. Take heed that you do not your alms before men, to be seen of them: otherwise you have no reward from your Father who is in Heaven. Our blessed Lord does not tell His disciples to give alms, but He takes it for granted that they do. How could they be His disciples if they did not do so? But He tells them to take care that they do not do this in order to get honor and credit from it. Oh, how much is done in this world that would be very good, but it is spoiled in the doing through the motive done to be seen of men! "You have no reward from your Father who is in Heaven."
 
@@ -96,7 +93,6 @@ Verse 1. Take heed that you do not your alms before men, to be seen of them: oth
 6\. But you, when you pray, enter into your closet Get into some quiet nook—some secret place—no matter where. 6. And when you have shut your door So that nobody can hear you—not wishing anybody to know even that youare at prayer. "When you have shut your door."—
 
 6-8. Pray to your Father who is in secret; and your Father who sees in secret, shall reward you openly. And when you pray, use not vain repetitions, as the heathens do, for they think that they shall be heard for their much speaking. Be not you therefore like unto they, for your Father knows what things you have need of before you ask Him. Prayers are never measured by the yard in Heaven. They are estimated by their weight. If there is earnestness in them—truth, sincerity—God accepts them however brief they are. Indeed, brevity is often an excellence in prayer. Let us never, therefore, use vain repetitions.
-
 
 ---
 [[Sermon 3415 Right-hand Sins|← #3415]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3417 Our Youth Renewed|#3417 →]]

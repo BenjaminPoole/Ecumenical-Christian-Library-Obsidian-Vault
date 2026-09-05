@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART III.
 
-FROM THE CALLING OF ABRAHAM TO MOSES.
+*From the Calling of Abraham to Moses*
 
 I proceed now to show how the work of redemption was carried on from *the calling of Abraham to Moses.* And,
 

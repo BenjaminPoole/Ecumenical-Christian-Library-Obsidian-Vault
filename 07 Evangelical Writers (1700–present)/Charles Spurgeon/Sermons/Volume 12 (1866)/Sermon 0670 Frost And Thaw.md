@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Frost And Thaw
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 670
 
-DELIVERED ON SUNDAY EVENING, DECEMBER 24, 1865,.
+*Delivered on Sunday Evening, December 24, 1865*
 
 > "He gives snow like wool; He scatters the frost like ashes; He casts out His hail like morsels. Who can stand before His cold? He sends out His word and melts them; He causes His wind to blow, and the waters flow." Psalm 147:16-18.
 
@@ -134,7 +133,6 @@ As the primrose peeps up from the sod to gaze upon the sun, so did our hope look
 "Where everlasting spring abides, And never withering flowers. A thread-like stream alone divides That heavenly land from ours."
 
 Believe in the Lord, you who shiver in the frost of the Law, and the law of love shall soon bring you warm days ofjoy and peace. So be it. Amen.
-
 
 ---
 [[Sermon 0669 Open Heart For The Great Savior|← #669]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0671 The Reward Of The Righteous|#671 →]]

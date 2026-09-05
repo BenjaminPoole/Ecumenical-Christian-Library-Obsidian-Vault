@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 22. Exodus 20:1-2
-
-**EXODUS 20**
 
 **1.** And God spoke all these words, saying,
 

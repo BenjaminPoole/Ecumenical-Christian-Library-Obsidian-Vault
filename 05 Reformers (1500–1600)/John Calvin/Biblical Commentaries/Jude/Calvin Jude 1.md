@@ -10,7 +10,6 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Jude 1
 
 **The Epistle of jude**
@@ -210,7 +209,7 @@ Moreover, he employs a striking metaphor. When there is a danger of fire, we hes
 
 Some copies have “them” instead of “you.” If we receive this reading, the sense will be, “It is, indeed, your duty to endeavor to save them; but it is God alone who can do this” However, the other reading is what I prefer; in which there is an allusion to the preceding verse; for after having exhorted the faithful to save what was perishing, that they might understand that all their efforts would be vain except God worked with them, he testifies that they could not be otherwise saved than through the power of God. In the latter clause there is indeed a different verb, φυλάξαι, which means *to guard*; so the allusion is to a remoter clause, when he said, *Keep yourselves*
 
-**END OF THE EPISTLE OF JUDE**
+## **End of the Epistle of Jude**
 
 ---
 [[Calvin Jude Argument|← Argument]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Jude/jude-index|Contents]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Sight of Iniquity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2711
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Why do You show me iniquity, and cause me to behold grievance?" Habakkuk 1:3.
 
@@ -101,7 +98,7 @@ The question is, Why does the Lord show you iniquity? I will give you the right 
 
 When the Lord pulls a man down, He does it in order that He may build him up again! When He breaks a man's heart, it is not for the mere breaking's sake—it is that He may make it anew! If you have misery in your conscience on account of sin, God has had dealings of love with you and He has purposes of love concerning you. "Believe on the Lord Jesus Christ, and you shall be saved." If you are a convinced sinner, Jesus died for you, for He died for sinners. If you can truly say that you are a sinner, I can tell you that Christ Jesus hung upon the Cross for you. Look at Him there, bleeding—every drop of blood says to you, "I drop, poor Sinner, for you." Look at that gash in His side, from where flows the double stream of water and blood—it say, "Sinner, this stream runs for you." Are you a sinner? If so, Christ died for you and He has not died in vain—you shall be saved. If you do but know yourself to be a bona fide sinner, a real one, no mere complimentary sham sinner, but a real actual one who means what he says, when he declares himself to be guilty and vile—then, as the Lord lives, Jesus Christ died for you on Calvary! You shall behold His face with joy! You shall be numbered with the Church of the first-born, whose names are written in Heaven, and you shall sing eternal hallelujahs around the Throne of God and the Lamb!
 
-EXPOSITION BY C. H. SPURGEON: JOB 1:1-5.
+## Exposition by C. H. Spurgeon: Job 1:1-5
 
 Verse 1. There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil. That was Job's character before the trial which made him famous. Perhaps if it had not been for that trial we would never have heard of him. Now, as the Apostle James wrote, "You have heard of the patience of Job." God, by great afflictions, gave to His servant that usefulness for which he had possibly prayed, without knowing how it would come to him. A long-continued life of prosperity may not so truly glorify God as a life that is checkered by adversity. And God, who intended to put honor upon His servant, did as kings do when they confer the honor of knighthood—they strike with the back or flat of the sword—so God smote the Patriarch Job that He might raise him above his fellow men. The Lord intended to make him Job, the Patient One, but to that end He must make him Job the Sufferer.
 
@@ -120,7 +117,6 @@ Yet it should not be so, for God can give a man Grace enough to use all his subs
 4\. And his sons went and feasted in their houses, everyone his day; and sent and called for their three sisters to eat and to drink with them. This showed that it was not drunken riotousness, or they would not have wanted their sisters— the sweet, gentle, delicate influence of their sisters would tend to keep their feasting what it should be. Besides, they were the sons of a man of God and so they would know how to keep their feasting within due bounds. Yet we are all mortal and fallible—and feasting times are dangerous times. The Puritans used to call fasting, "soul-fattening fasting"—but feasting they might call "soul-weakening feasting." Solomon truly said, "It is better to go to the house of mourning than to go to the house of feasting." There is always a risk about feasting and Job was, therefore, a little afraid about how his sons might have behaved.
 
 5\. And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all, for Job said, It may be that my sons have sinned, and cursed God in their hearts, Thus did Job continually. They might have spoken unadvisedly with their lips. They might have even taken God's name in vain. There might have been something about their conduct which was not altogether proper—so their father desired to put the sin of it away. Observe Job's resort to burnt offerings. He lived before the Jewish law was given, yet he felt the instinct concerning the need of a sacrifice which every believing heart feels when it approaches the holy God. I pray you never give up that idea of coming to God by means of a sacrifice, for there is no other way of access. We may think as we will, but there is nothing else that will ever quiet the conscience and bring us near to God, but the Divinely-appointed Sacrifice. And Job knew this. He did not think that his sons could be cleansed by his prayers, alone, but he must offer burnt sacrifices according to the number of them all, that they might, each one, have a share in the blessings which those sacrifices typified.
-
 
 ---
 [[Sermon 2710 Christ the Cause of Division|← #2710]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2712 Bonds Which Could Not Hold|#2712 →]]

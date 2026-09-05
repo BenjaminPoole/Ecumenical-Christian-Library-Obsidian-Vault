@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # The Preacher's Last Sermon for the Season
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1875
@@ -117,10 +116,9 @@ O my Brothers and Sisters, if this is your hearty consent to Infinite Love, then
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 7. HYMNS FROM "OUR OWN HYMN BOOK"—906, 492, 500.
 
-NOTE FROM MR. SPURGEON:
+## Note from Mr. Spurgeon
 
 LEAVING home in great weakness, I beg the loving sympathy of my friends towards my orphan family of 500 children. Generous donations at this season would be greatly valued by me. Direct them to C. H. SPURGEON, Westwood, Beulah Hill, Upper Norwood.
-
 
 ---
 [[Sermon 1874 A Discourse Upon True Blessedness Here and Hereafter|← #1874]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]]

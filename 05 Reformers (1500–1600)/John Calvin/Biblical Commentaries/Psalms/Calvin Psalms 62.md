@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 62
-
-**PSALM 62**
 
 The greater part of this psalm is occupied with meditations, in which David encourages himself and others to hope in God, and fortifies his mind against the assaults of temptation. And as we are ever prone to be drawn away from God by the influence which worldly objects exert over our senses, perishing and evanescent as these are, occasion is taken to show the folly of this, and bring us to a single and entire dependence upon God.
 

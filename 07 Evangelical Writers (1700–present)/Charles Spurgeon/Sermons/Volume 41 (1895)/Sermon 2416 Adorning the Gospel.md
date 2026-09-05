@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Adorning the Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2416
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "That they may adorn the doctrine of God our Savior in all things." Titus 2:10.
 
@@ -101,7 +98,7 @@ Next, have patience under trouble. Be not afraid of sudden fear. Be not carried 
 
 A placid and steady calm is also a great adornment for the Gospel. One has seen such gentleness of spirit in some Christian matrons that we have felt that they have been an ornament to the Doctrine of Jesus Christ. May we learn that holy calm and may the Spirit of God so dwell in us that in all we say, and all we do, and all we are, we may adorn the Doctrine of God our Savior in all things! May the Lord add His blessing upon this discourse, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: TITUS 2:6-15; 3.
+## Exposition by C. H. Spurgeon: Titus 2:6-15; 3
 
 Titus 2:6. Young men, likewise, exhort to be sober minded. They are full of spirits, they are very sanguine, they are apt to be carried away with novelties—exhort them to have that which is thought to be a virtue of age, namely, sobriety. Let them be old when they are young that they may be young when they are old.
 
@@ -136,7 +133,6 @@ Titus 3:1, 2. Put them in mind to be subject to principalities and powers, to ob
 12, 13. When I shall send Artemas unto you, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter. Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. Paul had already told Titus to bid the saints in Crete to abound in good works. Now he is commanded to take care of certain traveling Christians and to speed them on their way. It was the custom in olden times, when traveling was very different from what it is now, when the Christians passed from one town to another, to find the Church and to be entertained and speeded on their journey by their fellow Believers. Thus they kept up a practical fellowship of love to all the saints.
 
 14, 15. And let our people, also, learn to maintain good works for necessary uses, that they be not unfruitful. All that are with me salute you. Greet them that love us in the faith. Grace be with you all. Amen. May that final benediction drop like the dew upon this whole company! "Grace be with you all. Amen."
-
 
 ---
 [[Sermon 2415 The Believer's Heritage of Joy|← #2415]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2417 First Forgiveness, Then Healing|#2417 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Divine Surprises
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1538
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 16, 1880,.
+*Delivered on Lord's-Day Morning, May 16, 1880*
 
 > "When You did terrible things which we looked not for, You came down, the mountains flowed down at Your Presence." Isaiah 64:3.
 
@@ -132,7 +131,6 @@ Read the chapter which follows our text and see what God is going to do. "I am s
 There will come a time in which the shortening of life after the deluge shall be remedied. "There shall be no more thence an infant of days, nor an old man that has not filled his days: for the child shall die an hundred years old. As the days of a tree are the days of My people and My elect shall long enjoy the work of their hands." Yes and there comes a time of universal peace. "The wolf and the lamb shall feed together and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all My holy mountain, says the Lord."
 
 Verily, verily, I say unto you, this text is true! When God shall do terrible things which we looked not for, He shall come down among us and the mountains shall flow at His Presence. Amen and amen!
-
 
 ---
 [[Sermon 1537 Samuel—an Example of Intercession|← #1537]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1539 The Disciple Whom Jesus Loved|#1539 →]]

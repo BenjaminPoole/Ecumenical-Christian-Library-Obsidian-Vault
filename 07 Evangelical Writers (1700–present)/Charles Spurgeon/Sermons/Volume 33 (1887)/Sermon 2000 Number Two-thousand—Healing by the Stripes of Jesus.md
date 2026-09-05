@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Number Two-thousand—Healing by the Stripes of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2000
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By His stripes we are healed." Isaiah 53:5.
 
@@ -144,7 +141,6 @@ General Taylor handed those lines to an officer in the army who was going out to
 "In peace let me resign my breath, And Your salvation see. My sins deserve eternal death, But Jesus died for me."
 
 Only think of the good which four simple lines may do! Be encouraged, all of you who know the healing power of the wounds of Jesus! Spread this Truth of God by all means. Never mind how simple the language. Proclaim it! Proclaim it everywhere and in every way—even if you cannot do it in any other way than by copying a verse out of a hymnbook! Proclaim that by the stripes of Jesus we are healed! May God bless you, dear Friends! Pray for me that this sermon of mine, which is numbered, TWO-THOUSAND, may be a very fruitful one.
-
 
 ---
 [[Sermon 1999 Small Rain for Tender Herbs|← #1999]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]]

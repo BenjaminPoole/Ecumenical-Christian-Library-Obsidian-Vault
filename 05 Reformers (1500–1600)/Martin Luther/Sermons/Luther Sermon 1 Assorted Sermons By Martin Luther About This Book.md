@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 1. Assorted Sermons By Martin Luther About This Book
 
 #### From the Christian Classics Ethereal Library
-
-## Assorted Sermons By Martin Luther
 
 ### By
 

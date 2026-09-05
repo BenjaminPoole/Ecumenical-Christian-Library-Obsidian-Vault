@@ -8,18 +8,13 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Well-Beloved's Vineyard
 
 *Till He Come* — Charles H. Spurgeon
 
-## THE WELL-BELOVED’S VINEYARD.
-
 ### AN ADDRESS TO A LITTLE COMPANY OF BELIEVERS,
 
 ### IN MR. SPURGEON’S OWN ROOM AT MENTONE.“My Well-beloved hath a vineyard in a very fruitful hill.”—Isaiah v. 1.
-
-## THE WELL-BELOVED’S VINEYARD.
 
 WE recognize at once that Jesus is here. Who but He can be meant by “My Well-beloved”? Here is a word of possession and a word of affection,—He is mine, and my Well-beloved. He is loveliness itself, the most loving and lovable of beings; and we personally love Him with all our heart, and mind, and soul, and strength: He is ours, our Beloved, our Well-beloved, we can say no less.
 
@@ -86,7 +81,6 @@ And pluck new life from heavenly trees.
 Yet now and then, dear Lord, bestow
 
 A drop of heaven on worms below.”
-
 
 ---
 [[THC The Spiced Wine of My Pomegranate|← The Spiced Wine of My Pomegranate]] · [[Till He Come|Till He Come Contents]] · [[THC Redeemed Souls Freed From Fear|Redeemed Souls Freed From Fear →]]

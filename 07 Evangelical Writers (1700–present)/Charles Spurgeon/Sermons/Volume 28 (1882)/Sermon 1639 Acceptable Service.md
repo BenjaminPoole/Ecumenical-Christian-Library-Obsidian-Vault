@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Acceptable Service
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1639
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 15, 1882,.
+*Delivered on Lord's-Day Morning, January 15, 1882*
 
 > "Therefore, since we are receiving a kingdom which cannot be moved, let us have Grace, by which we may serve God acceptably with reverence and godly fear. For our God is a consuming fire." Hebrews 12:28,29.
 
@@ -134,7 +133,6 @@ When God enables us to serve Him and takes away from us all self-congratulation,
 Remember that blessed text, "Who among us shall dwell with the devouring fire? Who among us shall dwell with everlasting burning? He that walks righteously and speaks uprightly. He that despises the gain of oppressions, that shakes his hands from the holding of bribes, that stops his ears from the hearing of blood and shuts his eyes from seeing evil; he shall dwell on high." It shall be the glory of the gracious and the true that God is their element! It shall be their bliss to live in the full splendor of His perfect holiness! They shall be like their Lord, for they shall see Him as He is. Everything that is holy will endure Your fire and as for all within us that is impure, let it be consumed speedily!
 
 So let us serve the Lord with fear, but not with terror. And let this service be continued all our days. Let us bring the sacrifices of the last week to Him, with repentance for every fault, humbly pleading that by His Grace He will accept it, and earnestly desiring that all we have done may redound to His Glory through Jesus Christ, His Son, to whom be honor, world without end! Amen.
-
 
 ---
 [[Sermon 1638 Men Without Heart, Sight, or Hearing|← #1638]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1640 The Touch|#1640 →]]

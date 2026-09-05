@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 80. The Sacred Oblations (Lev. 24:5-9)
-
-**The Sacred Oblations**
 
 **Leviticus 24**
 

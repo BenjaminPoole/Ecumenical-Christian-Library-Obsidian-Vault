@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Tender Enquiry of a Friend
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2025
-
-DELIVERED BY.
 
 > "How long will you cut yourself?" Jeremiah 47:5.
 
@@ -156,7 +153,6 @@ Therefore I pray God that you may end this mischief, this death, this ruin to yo
 Would to God that you, my dear Hearers, would leave all else and just come and cast yourselves on Jesus! If you will not, I must again persecute each one of you with this enquiry, "How long will you cut yourself?" How long must you go on with your piteous prayers and get no answer? Must you have more tears, more groans, more cries, more despairs, more regrets, more broken vows? How long will you cut yourselves with these vain attempts to be your own Savior? How long must you shut Heaven's door against yourself by a horrible resolve to disbelieve? How long will you be so diligent to pull down an avalanche of wrath upon your own head?
 
 How long will you refuse the bread of Heaven, and determine to perish with famine, while all the plenty of God's Grace is round about you? How long? How long? God end it ere you cross the portal of this House of Prayer and go down those stone steps, which will again conduct you to the level of a careless world! Stop here till you have yielded yourself to Jesus. I beseech you not to go home a stranger to eternal life. The Lord grant that you may now throw yourself into the arms of Jesus, for His dear name's sake!
-
 
 ---
 [[Sermon 2024 What Is the Wedding Garment|← #2024]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2026 To the Saddest of the Sad|#2026 →]]

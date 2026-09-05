@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # For the Sick and Afflicted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1274
@@ -71,8 +70,7 @@ One only thought, for I must not send you away with that terrible warning and no
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Job 34.
 
-HYMNS FROM "OUR OWN HYMN BOOK"— 91, 701.
-
+## Hymns from "Our Own Hymn Book"— 91, 701
 
 ---
 [[Sermon 1273 The Oil of Gladness|← #1273]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1275 One Greater Than the Temple|#1275 →]]

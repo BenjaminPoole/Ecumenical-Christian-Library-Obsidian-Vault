@@ -10,14 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 6. Substance of a Speech on the Authority of the Pope and of General Councils
 
-[SUBSTANCE OF A SPEECH
+*[Substance of a Speech*
 
-DELIVERED BY
-
-ABOUT THE YEAR 1534, ON THE AUTHORITY OF THE POPE, AND OF GENERAL COUNCILS1.]
+## About the Year 1534, on the Authority of the Pope, and of General Councils 1.]
 
 Burnet, Hist.
 
@@ -43,7 +40,7 @@ The power of councils did not extend to princes, dominions, or secular matters, 
 
 He said, some general councils had been rejected by others; and it was a tender point, how much ought to be deferred to a council : some decrees of councils were not at all obeyed. The divines of Paris held, that . a council could not make a new article of faith, that was not in the scriptures. And as all God's promises to the people of Israel had this condition implied within them, If they kept his commandments ; so he thought the promises to the Christian church had this condition in them, If they kept the faith. Therefore he had much doubting in himself as to general councils ; and he thought that only the word of God was the rule of faith, which ought to take place in all controversies of religion. The scriptures were called canonical, as being the only rule of the faith of Christians; and these, by appointment of the ancient council, were only to be read in the churches. The fathers SS. Ambrose, Jerome, and Austin, did in many things differ from one another; but always appealed to the scriptures, as the common and certain standard. And he cited some remarkable pas sage out of St Austin, to shew what difference he put between the scriptures and all the other writings even of the best and holiest fathers. But when all the fathers agreed in the exposition of any place of scripture, lie acknowledged he looked on that
 
-78 SPEECH ON GENERAL COUNCILS.
+## 78 Speech on General Councils
 
 as flowing from the Spirit of God; and it was a most dangerous thing to be wise in our own conceit : therefore he thought councils ought to found their decisions on the word of God, and those expositions of it that had been agreed on by the doctors of the church.
 

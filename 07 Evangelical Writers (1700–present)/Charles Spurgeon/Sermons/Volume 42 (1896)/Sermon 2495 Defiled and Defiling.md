@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Defiled and Defiling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2495
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said Haggai, If one that is unclean by a dead body touches any of these, shall it be unclean? And the priests answered and said, It shall be unclean. Then answered Haggai, and said, So is this people, and so is this nation before Me, says the LORRD; and so is every work of their hands; and that which they offer there is unclean." Haggai 2:13,14.
 
@@ -91,7 +88,7 @@ Finally, this remedy must be applied to our whole nature. Remember that 19th ver
 
 O you defiled ones, come to Him who alone can cleanse you! And when He has once cleansed you, remember that you will have need to daily wash your feet and you shall find Him waiting to wash them! But you shall never need such a complete cleansing as He gave you at the first. There shall never be a repetition of that, for, "he that is bathed, needs not but to wash his feet, but is clean every whit." May the Lord give you that cleansing if you have not had it and, if you have had it, rejoice in it with all your hearts! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: NUMBERS 19; PSALM 51.
+## Exposition by C. H. Spurgeon: Numbers 19; Psalm 51
 
 Numbers 19:1. And the LORD spoke to Moses and to Aaron, saying.—This ordinance was not given to Moses on Mount Sinai, but in the wilderness of Paran, after the people had broken their Covenant with God and were condemned to die. You know that the 90th Psalm—that dolorous dirge which we read at funerals—called "a prayer of Moses the man of God." Well might he write that Psalm, for he lived among a generation of people who were all doomed to die within a short time, and to die in the wilderness. This ordinance was especially appointed to meet the cases of those who were rendered unclean by the frequent deaths which occurred. There was to be a simple and easy way of purification for them—and the teaching of this chapter to us is that inasmuch as we dwell in a sinful world, there needs to be some simple and ready method of cleansing us, that we may be able to draw near to God.
 
@@ -120,7 +117,6 @@ Numbers 19:1. And the LORD spoke to Moses and to Aaron, saying.—This ordinance
 Psalm 51:1. Have mercy upon me, O God, according to Your loving kindness according to the multitude of Your tender mercies blot out my transgressions. There may be some people who think themselves so holy that they cannot join in this Psalm. I can, for one, and I believe that there are many of you who can join with me. Just let us, for the time being, forget all others and let us come, each one for himself or herself, with David's language on our lips or in our hearts so far as it applies to our individual case.
 
 2-19. Wash me thoroughly from my iniquity, and cleanse me from my sin. For lacknowledge my transgressions and my sin is always before me. Against You, You only, have I sinned and done this evil in Your sight that You might be justified when You speak and be clear when You judge. Behold, I was shaped in iniquity; and in sin did my mother conceive me. Behold, You desire truth in the inwardparts: and in the hidden part You shall make me to know wisdom. Purge me with hyssop and I shall be clean: wash me, and I shall be whiter than snow. Make me to hear joy and gladness that the bones which you have broken may rejoice. Hide Your face from my sins, and blot out all my iniquities. Create in me a clean heart, O God; and renew a right spirit within me. Cast me not away from Your Presence; and take not Your Holy Spirit from me. Restore to me the joy of Your salvation; and uphold me with Your gracious Spirit Then will I teach transgressors Your ways; and sinners shall be converted to You. Deliver me from blood-guiltiness, O God, God of my salvation: and my tongue shall sing aloud of Your righteousness. O Lord, open my lips and my mouth shall show forth Your praise. For You desire not sacrifice; otherwise would I give it: You delight not in burnt offerings. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, You will not despise. Do good in Your good pleasure to Zion: build the walls of Jerusalem. Then shall You be pleased with the sacrifices of righteousness, with burnt offerings and whole burnt offerings, then shall they offer bullocks upon Your altar
-
 
 ---
 [[Sermon 2494 The Cause and Cure of a Wounded Spirit|← #2494]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2496 Joyful Anticipation of the Second Advent|#2496 →]]

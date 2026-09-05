@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Solace for Sad Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3325
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To console them that mourn in Zion." Isaiah 61:3.
 
@@ -118,7 +115,6 @@ IV. WHAT DOES THE LORD DO FOR THEM?—" To console them that mourn in Zion."
 Let us take first the ordinary rendering of the text—" To appoint them." God makes appointments to bless mourners. It is His decree, His ordinance, His purpose to bless those who mourn in Zion. Some mourners are greatly frightened at predestination—they are afraid of the Divine decrees. Be of good comfort, there is no decree in God's great Book against a mourner! "I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek you Me in vain." God's terrible decrees are against the proud, whom His soul hates, and He will break them in pieces. But as for the humble and the meek, His purposes concerning them are full of Grace. Read the following verses and see—"To give unto them beauty for ashes, the oil of joy for mourning, and the garment of praise for the spirit of heaviness." It is registered in the record office above and stands in His Eternal Book and so must it be, "Blessed are they that mourn, for they shall be comforted." When you think of the decrees, remember this decree and be of good comfort.
 
 But an equally accurate rendering of the text is, " To provide for those that mourn in Zion." "To provide." God not only purposes to bless, but He does bless His mourners. Our heavenly Father prepares good gifts for His mourning family. For whom did Jesus die but for mourners? For whom does He live but for mourners? For whom are the blessings of His coming but for mourners? O you that are troubled because of sin, and hate it—all God's heart goes out towards you and all the riches of the Everlasting Covenant are yours! Make bold to take them, since for mourners they are provided. For whom are clothes but for the naked? For whom are alms provided but for the needy? For whom the bath but for the filthy? For whom the medicine but for the sick? For whom God's Grace but for you that need it and mourn because of your need? Come and welcome! The Lord bring you to Himself at this very hour! Amen.
-
 
 ---
 [[Sermon 3324 Turning From Death|← #3324]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3326 The Wondrous Covenant|#3326 →]]

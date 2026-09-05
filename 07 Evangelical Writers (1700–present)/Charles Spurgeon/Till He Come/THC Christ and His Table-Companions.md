@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Christ and His Table-Companions
 
 *Till He Come* — Charles H. Spurgeon
 
 ## CHRIST AND HIS TABLE-COMPANIONS “And when the hour was come, He sat down, and the twelve apostles with Him.”—Luke xxii. 14.
-
-## CHRIST AND HIS TABLE-COMPANIONS.
 
 THE outward ordinances of the Christian religion are but two, and those two are exceedingly simple, yet neither of them has escaped human alteration; and, alas! much mischief has been wrought, and much of precious teaching has been sacrificed, by these miserable perversions. For instance, the ordinance of baptism as it was administered by the apostles betokened the burial of the believer with Christ, and his rising with his Lord into newness of life. Men must needs exchange immersion for sprinkling, and the intelligent believer for an unconscious child, and so the ordinance is slain. The other sacred institution, the Lord’s supper, like believers’ baptism, is simplicity itself. It consists of bread broken, and wine poured out, these viands being eaten and drunk at a festival—a delightful picture of the sufferings of Christ for us, and of the fellowship which the saints have with one another and with Him. But this ordinance, also, has been tampered with by men. By some, the wine has been taken away altogether, or reserved only for a priestly caste; and the simple bread has been changed into a consecrated host. As for the table, the very emblem of fellowship in all nations—for what expresses fellowship better than surrounding a table, and eating and drinking together?—this, forsooth, must be put away, and an altar must be erected, and the bread and wine which were to help us to remember the Lord Jesus are changed into an “unbloody sacrifice,” and so the whole thing becomes an unscriptural celebration instead of a holy institution for fellowship. Let us be warned by these mistakes of others never either to add to or take from the Word of God so much as a single jot or tittle. Keep upon the foundation of the Scriptures, and you stand safely, and have an answer for those who question you; yea, and an answer which you may render at the bar of God; but once allow your own whim, or fancy, or taste, or your notion of what is proper and right, to rule you, instead of the Word of God, and you have entered upon a dangerous course, and unless the grace of God prevent, boundless mischief may ensue. The Bible is our standard authority; none may turn from it. The wise man says, in Ecclesiastes, “I counsel thee to keep the King’s commandment;” we would repeat his advice, and add to it the sage precept of the mother of our Lord, at Cana, when she said, “Whatsoever He saith unto you, do it.”
 
@@ -78,7 +75,6 @@ In the anticipation of the joy that shall be yours, forget your present troubles
 We finish with this word of deep regret,—regret that many here cannot understand what we have been talking about, and have no part in it. There are some of you who must not come to the table of communion because you do not love Christ. You have not trusted Him; you have no part in Him. There is no salvation in sacraments. Believe me, they are but delusions to those who do not come to Christ with their heart. You must not come to the outward sign if you have not the thing signified. Here is the way of Salvation: believe in the Lord Jesus Christ, and thou shalt be saved. To believe in Him is to trust Him; to use an old word, it is recumbency; it is leaning on Him, resting on Him. Here I lean, I rest my whole weight on this support before me; do so with Christ in a spiritual sense: lean on Him. You have a load of sin, lean on Him, sin and all. You are all unworthy, and weak, and perhaps miserable; then cast on Him the weakness, the unworthiness, the misery and all. Take Him to be all in all to you, and when you have thus trusted Him, you will have become His follower; go on by humility to be His disciple, by obedience to be His servant, by love to be His friend, and by communion to be His table-companion.
 
 The Lord so lead you, for Jesus’ sake! Amen.
-
 
 ---
 [[THC Real Contact With Jesus|← Real Contact With Jesus]] · [[Till He Come|Till He Come Contents]] · [[THC A Word From the Beloved's Own Mouth|A Word From the Beloved's Own Mouth →]]

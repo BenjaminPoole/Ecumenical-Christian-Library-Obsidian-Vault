@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 37. What dost thou understand by the words, "he suffered?"
-
-**Question 37. What dost thou understand by the words, "he suffered?"**
 
 Answer. That he, all the time he lived on earth, but especially at the end of his life, sustained in body and soul, the wrath of God against the sins of all mankind that so by his passion, as the only propitiatory sacrifice, he might redeem our body and soul from everlasting damnation; and obtain for us the favor of God, righteousness, and eternal life.
 
-**EXPOSITION**
+## **Exposition**
 
 We have, thus far, in our remarks upon the second part of the Creed, spoken only of the person of the mediator. We shall now proceed to speak of his office, which is included in the remaining part of the second division of the Creed, which treats of God, the Son and our redemption. And we shall, in the first place, speak of the humiliation of Christ, (the first part of his office) which we have comprehended in the fourth Article: Suffered under Pontius Pilate; was crucified, dead, and buried: He descended into hell. The passion or suffering of Christ is placed immediately after his conception and nativity; 1. Because our entire salvation consists in his passion and death. 2. Because his whole life was one continued scene of suffering and privation. There are also many things which may, and ought to be profitably observed, in the history of the life which Christ spent on earth, written by those who were eye-witnesses of the facts which they record. For this does not only prove him to be the promised Messiah, in as much as all the predictions of the prophets meet, and are fulfilled in him; but it is also a consideration of the humiliation and obedience which he rendered unto his Father.
 
@@ -34,7 +31,7 @@ III. What the impelling cause of his suffering was:
 
 IV. What the final causes and fruits of his sufferings were.
 
-**I. WHAT ARE WE TO UNDERSTAND BY THE PASSION OF CHRIST, OR WHAT DID CHRIST SUFFER?**
+## **I. What Are We to Understand by the Passion of Christ, or What DID Christ Suffer?**
 
 By the term passion we are to understand the whole humiliation of Christ, or the obedience of his whole humiliation, all the miseries, infirmities, griefs, torments and ignominy to which he was subject, for our sakes, from the moment of his birth even to the hour of his death, as well in soul as in body. The principal part of his sorrows and anguish were the torments of soul, in which he felt and endured the wrath of God against the sins of all mankind. By the term passion, however, we are to understand chiefly the closing scene, or last act of his life, in which he suffered extreme torments, both of body and soul, on account of our sins. "My soul is exceeding sorrowful, even unto death." "My God, my God, why hast thou forsaken me." "Surely he hath borne our griefs. He was wounded for our transgressions." "Yet it pleased the Lord to bruise him." (Matt. 26:38; 27:46. Is. 53:4, 5, 10.)
 
@@ -58,17 +55,17 @@ Obj. 4. If Christ made satisfaction for all, then all ought to be saved. But all
 
 Obj. 5. But there were also propitiatory sacrifices under the law of Moses. Ans. These were not properly expiatory, but were typical of the sacrifice of Christ, which alone is truly expiatory: "For it is not possible that the blood of bulls, and of goats should take away sins." "The blood of Jesus Christ, his Son, cleanseth us from all sin." "He is the propitiation for the sins of the whole world." (Heb. 10:4. 1 John 1:7; 2:2.)
 
-**II. DID CHRIST SUFFER ACCORDING TO BOTH NATURES?**
+## **II. DID Christ Suffer According to Both Natures?**
 
 Christ suffered, not according to both natures, nor according to the Divinity, but according to the human nature only, both in body and soul; for the divine nature is immutable, impassible, immortal, and life itself, and so cannot die. But he suffered in such a manner, according to his humanity, that by his passion and death, he satisfied for the sins of men. The divine nature sustained the humanity, in the sorrows and pains which were endured, and raised it when dead unto life. "Being put to death in the flesh, but quickened by the Spirit." "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God." "Christ hath suffered for us in the flesh." "Destroy this temple, and in three days I will raise it up." "I am he that liveth, and was dead, and behold I am alive for evermore." "I have power to lay down my life, and I have power to take it up again." (1 Pet. 2:18; 4:1. John 2:19. Rev. 1:18. John 10:18.) These declarations testify that there was in Christ another nature, besides his flesh, which did not suffer and die. Irenæus says, "As Christ was man, that he might be tempted, so he was the Word, that he might be glorified; the Word resting in him truly, that it might be possible for him to be tempted, crucified, and to die, and yet united to his humanity, that he might thus overcome temptation," &c.
 
 Obj. But it is said that God purchased the church with his own blood; and hence the Deity must have suffered. Ans. This does not follow, because the form of speech is changed. When it is said God died, this is spoken figuratively by a syneedoche, or by the communication of properties, as we have already explained. But when it is said, the Deity suffered, this is spoken without a figure, because the subject is taken in the abstract. Again, no consequence from the concrete to the abstract is of any force. The concrete (which is God) signifies the subject having a form; the abstract (which is Deity) signifies the naked form, or the nature only. In this doctrine, therefore, the concrete is the name of the person, and the abstract the name of the nature. Hence, as this consequence does not follow: Man is composed of the elements, and is coporeal; therefore, the soul is composed of the elements, and is corporeal; so also it does not follow, Christ who is God died; therefore, the Deity of Christ died.
 
-**III. WHAT WAS THE IMPELLING CAUSE OF THE PASSION OF CHRIST?**
+## **III. What Was the Impelling Cause of the Passion of Christ?**
 
 The cause which moved God to give his Son for us was: 1. His love towards the human race. "God so loved the world that he gave his only begotten Son." (John 3:16.) 2. The compassion of God towards those who were fallen in sin and death. "According to his mercy he saved us." (Titus 3:5.) 3. The desire and purpose of God to revenge and repair the injury of the devil, who, in contempt and reproach of God, turned us from the Most High, and spoiled his image in us.
 
-**IV. WHAT ARE THE FINAL CAUSES, OR THE FRUIT OF HIS PASSION?**
+## **IV. What Are the Final Causes, or the Fruit of His Passion?**
 
 The final causes, and fruits of the passion of Christ are the same, but in a different respect. In respect to Christ who suffered, they are the final causes; but in respect to us, they are the fruits. The principal final causes of the passion of Christ, are the revelation and manifestation of the love, mercy and justice of God, in that he did not spare his Son for us; and that his passion might be a sufficient ransom for our sins, or for our redemption. There are, therefore, two chief final causes, the glory of God and our salvation. The knowledge of the greatness of sin, pertains to the former, that we may perceive how great an evil sin is, and what it deserves. Our justification belongs to the latter, in which we have comprehended all the benefits. which Christ merited by his death, and which he confers upon us by his coming forth from death. Hence we know that death is not hurtful to the godly, and is, therefore, not to be feared.
 

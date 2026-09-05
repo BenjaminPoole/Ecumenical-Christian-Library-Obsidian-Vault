@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # One Worker Preparing For Another
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2261
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now behold, in my trouble I have prepared for the House of the LORD an hundred thousand talents of gold, and a thousand talents of silver; and of brass andiron without weight: for it is in abundance: timber also and stone ha ve I prepared; and you may add thereto." 1 Chronicles 22:14.
 
@@ -103,7 +100,7 @@ Here are certain preachers of the Gospel. Cannot I put my hand on some young man
 
 I wonder whether there is an unconverted man here this evening, or an unconverted woman whom God has ordained to bless, and to whom He will speak tonight—some stranger whom He will bring in by His almighty Grace, some servant of the devil who shall, tonight, be made a servant of Christ? My Master has a large number of servants—"you may add thereto." If you will yield yourself to Christ, you may come and help God's people. We need recruits! We are always needing them. May God lead some who have been on the side of sin and self to come out and say, "Set my name down among God's people! By the Grace of God I am going to be on Christ's side and help to build His Temple." Come along, my Brother. Come along, my Sister. We are glad for your help! The work is not yet all done—you are not too late to fight the Lord's battles, nor to win the crown of the victors! The Lord has a large army of the Soldiers of the Cross, but, "you may add thereto." God save you! Christ bless you! The Spirit inspire you! May it be so with very many, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON 1 CHRONICLES21:25-30; 22.
+## Exposition by C. H. Spurgeon 1 Chronicles 21:25-30; 22
 
 David was commanded to go to Ornan, or Araunah, the Jebusite, to raise an altar unto the Lord on his threshing floor. There had been a terrible plague in Jerusalem in consequence of David's great sin in numbering the people. They were falling by the thousands by the sword of the Angel of Vengeance. David went up to the threshing floor of Ornan on Mount Moriah. Ornan was willing to give it to him, but he determined to buy it. We read in the 25th verse—
 
@@ -152,7 +149,6 @@ LORD your God, as He has said of you. May such a blessing come upon every young 
 19\. Now set your heart and your soul to seek the LORD your God. Do not go to build a House for God and think that is all that is required. You need spiritual communion with God and you will not do even the common work of sawing and planing and building aright unless you seek God and are in fellowship with Him!
 
 19\. Arise therefore, and build you the sanctuary of the LORD God, to bring the Ark of the Covenant of the LORD, and the holy vessels of God, into the House that is to be built to the name of the LORD. May God teach us some lessons by this reading! Amen.
-
 
 ---
 [[Sermon 2260 Christ's Hospital|← #2260]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2262 Christ's Curate In Decapolis|#2262 →]]

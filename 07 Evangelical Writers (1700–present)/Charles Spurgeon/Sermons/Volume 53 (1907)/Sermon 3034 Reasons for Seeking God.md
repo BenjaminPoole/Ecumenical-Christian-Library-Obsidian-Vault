@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Reasons for Seeking God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3034
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Seek Him that makes the seven stars and Orion, and turns the shadow of death into the morning, and makes the day dark with night: that calls for the waters of the sea, and pours them out upon the face of the earth: The Lord is His name." Amos 5:8.
 
@@ -178,7 +175,6 @@ word that is not on my tongue—those seeds of speech that have as yet not grown
 24\. And see if there is any wicked way in me. "Lord, l ook for the dross, to consume it! Look for the spots, to wash them away."
 
 24\. And lead me in the way everlasting. "Amen." Our hearts say, "Amen—so let it be."
-
 
 ---
 [[Sermon 3033 Why Christ Is Not Esteemed|← #3033]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3035 Enquiring the Way to Zion|#3035 →]]

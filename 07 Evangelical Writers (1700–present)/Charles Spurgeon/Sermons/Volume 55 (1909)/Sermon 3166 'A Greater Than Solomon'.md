@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'A Greater Than Solomon'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3166
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Queen of the South shall rise up in thejudgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon: and, behold, a greater than Solomon is here." Matthew 12:42.
 
@@ -83,7 +80,7 @@ Oh, dear Brothers and Sisters, I invite you all—and I ask that I may be able m
 
 wants us to live from morning's light to evening's shade for Him—to eat and drink and sleep to His Glory—to do all to His honor. This is the obligation of the Christian and this his truest privilege. May the Spirit of God help us rise to this, so that when we came to see King Solomon and learn His wisdom, and behold the splendor of His palace, we may feel that He has got our hearts to be entirely His own, His portion and His treasure, forever and forever! God bless you, dear Friends, this night, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW12:38-42.
+## Exposition by C. H. Spurgeon: Matthew 12:38-42
 
 Verses 38, 39. Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from You. But He answered and said unto them, An evil and adulterous generation seeks after a sign; and there shall no sign be given to it but the sign of the Prophet Jonas. The Pharisees change their manner, but they are in pursuit of the same object. How hopeless had the religionists of that age become! Nothing would convince them. They manifested their hate of the Lord Jesus by ignoring all the wonders He had worked. What further signs could they seek than those He had already given? Pretty enquirers these! They treat all the miracles of our Lord as if they had never occurred! Well might the Lord call them, "evil and adulterous," since they were so given to personal lasciviousness and were spiritually so untrue to God. We have those among us now who are so brazen as to treat all the achievements of Evangelical Doctrines as if they were nothing, and talk to us as if no result had followed the preaching of the Gospel. There is need of great patience to deal wisely with such.
 
@@ -98,7 +95,6 @@ The standing witness to our Lord is His Resurrection from the dead. God grant th
 RESURRECTION is one proof. In fact, it is THE SIGN, although, as we shall see, it is supplemented by another. The two will convince us or condemn us.
 
 42\. The Queen of the South shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here. The second sign of our Lord's mission is HIS KINGLY WISDOM. As the fame of Solomon brought the Queen of the South from the uttermost parts of the earth, so does the Doctrine of our Lord command attention from the utmost isles of the sea. If Israel perceives not His glorious wisdom, Ethiopia and Seba shall hear of it and come bowing before Him. The Queen of Sheba will rise again, and will "rise up"as a witness against unbelieving Jews, for she journeyed far to hear Solomon, while they would not hear the Son of God, Himself, who came into their midst. The superlative excellence of His wisdom stands for our Lord as a sign which can never be effectually disputed. What other teaching meets all the needs of men? Who else has revealed such Grace and Truth? He is infinitely greater than Solomon, who from a moral point of view exhibited a sorrowful littleness. Who but the Son of God could have made known the Father as He has done?
-
 
 ---
 [[Sermon 3165 Witnesses for God|← #3165]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3167 The Christian's Helmet|#3167 →]]

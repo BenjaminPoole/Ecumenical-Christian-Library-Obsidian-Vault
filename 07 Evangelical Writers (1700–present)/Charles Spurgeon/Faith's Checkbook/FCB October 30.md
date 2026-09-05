@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THOROUGH CLEANSING**
+## **Thorough Cleansing**
 
 > Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you" Ezek. 36:25
 
@@ -25,7 +24,6 @@ He will deliver us from our worst sins. The uprisings of unbelief, and the decei
 He will also cleanse us from all our idols, whether of gold or of clay: our impure loves, and our excessive love of that which in itself is pure. That which we have idolized shall either be broken from us, or we shall be broken off from it.
 
 It is God who speaks of what He Himself will do. Therefore is this word established and sure, and we may boldly look for that which it guarantees to us. Cleansing is a covenant blessing, and the covenant is ordered in all things and sure.
-
 
 ---
 [[FCB October 29|← October 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 31|October 31 →]]

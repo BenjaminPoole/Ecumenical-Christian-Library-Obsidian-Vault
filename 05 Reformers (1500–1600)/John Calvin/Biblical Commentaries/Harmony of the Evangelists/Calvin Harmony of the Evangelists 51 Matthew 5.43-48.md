@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 51. Matthew 5:43-48;Luke 6:27-36
-
-**MATTHEW 5:43-48; LUKE 6:27-36**
 
 **43**. Ye have heard that it hath been said, Thou shalt love they neighbor, and thou shalt hate thy enemy. **44**. But I say to you, Love your enemies: bless those who curse you: do good to those that hate you: and pray for those who injure and persecute you: **45**. That you may be the children of your Father who is in heaven: for he maketh his sun to rise on the evil and the good, and sendeth rain upon the just and unjust. **46**. For if you shall love those who love you, what reward shall you have? **47**. And if you shall embrace your brethren only, what do you more? Do not the publicans thus? **48**. You shall, therefore, be perfect, as your Father who is in heaven is perfect.
 

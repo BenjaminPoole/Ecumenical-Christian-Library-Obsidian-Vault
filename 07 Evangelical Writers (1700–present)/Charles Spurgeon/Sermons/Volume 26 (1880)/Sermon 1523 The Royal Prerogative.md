@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Royal Prerogative
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1523
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 15, 1880,.
+*Delivered on Lord's-Day Morning, February 15, 1880*
 
 > "He that is our God is the God of salvation; and unto God the Lord belong the issues from death. But God shall wound the head of His enemies and the hairy scalp of such an one as goes on still in his trespasses." Psalm 68:20,21.
 
@@ -136,7 +135,6 @@ If He does not smite His enemies until the hour of death, what a blow will they 
 Turn you, yes, you that know not God! Turn you at His rebuke this morning, for the rebuke is meant in love! And if I have used hard words, it is because my heart is honestly anxious that you would repent and escape to Him who has in His power the escapes from death! I am not like yon flatterers who tell you that there is a little hell and a little god, from which they naturally infer that you may live as you like. Both you and they will perish everlastingly if you believe them! There is a dreadful Hell, for there is a righteous God!
 
 Turn you to Him, I entreat you, while yet, in Christ Jesus, He sets mercy before you! He is the God of salvation and entreats you to come and accept of His great Grace in Christ Jesus. The Lord bless this word according to His own mind and unto Him be praise forever and ever. Amen.
-
 
 ---
 [[Sermon 1522 Expected Proof of Professed Love|← #1522]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1524 Your Personal Salvation|#1524 →]]

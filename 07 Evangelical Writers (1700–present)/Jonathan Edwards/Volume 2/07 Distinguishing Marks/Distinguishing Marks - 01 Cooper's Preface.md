@@ -10,7 +10,6 @@ written: "1741"
 tags:
   - jonathan-edwards
 ---
-
 # MR. COOPER’S PREFACE TO THE READER.
 
 There are several *dispensations*, or days of grace, which the church of God has been under from the beginning of time. There is that under the patriarchs; that under the law of Moses; and there is that of the gospel of Jesus Christ, under which we now are. This is the brightest day that ever shone, and exceeds the other, for peculiar advantages. To us who are so happy as to live under the evangelical dispensation, may those words of our Saviour be directed, which he spake to his disciples, when he was first setting up the Messiah’s kingdom in the world, and gospel-light and power began to spread abroad: “Blessed are the eyes which see the things that ye see. For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.” [^296]
@@ -61,7 +60,7 @@ I will only add my prayer, That the worthy Author of this discourse may long be 
 
 Boston, Nov. 20, 1741.
 
-W. COOPER.
+## W. Cooper
 
 [^296]: Luke x. 23, 24.
 

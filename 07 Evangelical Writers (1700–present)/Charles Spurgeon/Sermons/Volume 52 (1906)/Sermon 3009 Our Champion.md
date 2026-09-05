@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Our Champion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3009
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put them upon his shoulders, and carried them up to the top of the hill that faces Hebron." Judges 16:3.
 
@@ -105,9 +102,9 @@ Once more and I am through. Is not this an incentive for us, who profess to be s
 
 And now, as we come to the Lord's Table, let us have before us this vision of our glorious Samson achieving His mighty victory! And while we weep for sin, let us praise His superlative power and love that have worked such marvels for us. The Lord give us to enjoy His Presence at His table, and He shall have the praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM 51.
+## Psalm 51
 
 A Psalm of David, when Nathan the Prophet came to him and rebuked him, in the name of God, for his great sin with Bathsheba.
 
@@ -154,7 +151,6 @@ Note how he makes his appeal to the loving kindness and tender mercies of God. A
 17, 18. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, You will not despise. Do good in Your good pleasure unto Zion: build You the walls of Jerusalem. This is a blessed end to David's mournful Psalm. He felt that his sin had a tendency to do injury to the Church of God—that he had, in fact, pulled down the towers of Zion by his iniquity, so he prays "Build You the walls of Jerusalem."
 
 19\. Then shall You be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon Your altar.
-
 
 ---
 [[Sermon 3008 An All-important Question|← #3008]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3010 Jacob's Model Prayer|#3010 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # A Sermon to Ministers and Other Tried Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3273
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Casting all your care upon Him, for He cares for you." 1 Peter 5:7
 
@@ -69,7 +66,7 @@ But the reason of reasons is that contained in our text, "He cares for you. " Af
 
 There, dear Brothers, there is my word from the Master for you. I should like to have hammered out that little grain of gold so that you might have gilded your lives with it, but please do it for yourselves. Now will you carry your cares away, or will you bow your heads in silent prayer and throw them all off? Holy Spirit, the Comforter, lighten our darkness, we beseech You!
 
-EXPOSITION BY C. H. SPURGEON: 2 TIMOTHY 1; 2:1-13.
+## Exposition by C. H. Spurgeon: 2 Timothy 1; 2:1-13
 
 Verses 1, 2. Paul, an Apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus, to Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord. I would again remind you, as I have often done before, that the Apostle Paul, when he is writing to a minister, invariably begins his Epistle with the triple greeting, "Grace, mercy, and peace," but when he is writing to a Church, he commences with the double benediction, "Grace and peace." You will find that this is his wish for the Romans, Corinthians, Gala-tians, Ephesians, Philippians, Colossians and Thessalonians, "Grace be unto you and peace, from God our Father, and the Lord Jesus Christ." This is also his form of greeting to Philemon, who was a private Christian, not a minister. But when the Apostle is writing to Timothy and Titus, his own sons in the faith, and his fellow ministers of the Gospel, he says, "Grace, mercy, and peace, from God our Father and Jesus Christ our Lord." It seems as though, guided by the Holy Spirit, he thought that the office of the Christian ministry is of so weighty and responsible a character that the man who rightly fills that honorable position not only needs the Grace and peace that are necessary for all Believers, but that he must in addition have a special supply of mercy. And truly, no one needs mercy more than the preacher of mercy! Note, too, that the "Grace, mercy, and peace" are to come "from God the Father and Christ Jesus our Lord." Father and Son are united in the gracious act of bestowing "Grace, mercy, and peace." The Father is the great eternal Fountain of all these blessings, but the Son is the Divinely appointed Channel through whom they flow down to us!
 
@@ -122,7 +119,6 @@ the cornerstone of the glorious Temple of Truth, the keystone of the arch of Rev
 10-13. Therefore I endure all things for the elect's sake, that they may also obtain the salvation which is in Christ Jesus with eternal Glory. It is a faithful saying: For if we are dead with Him, we shall also live with Him: if we suffer, we shall also reign with Him: if we deny Him, He will deny us: if we believe not, yet He abides faithful: He cannot deny Himself. Blessed truth, God grant us the Grace to mediate upon it until we also shall become faithful to Him and to His
 
 Truth!
-
 
 ---
 [[Sermon 3272 How to Become Full of Joy|← #3272]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3274 Sickness and Prayer, Healing and Praise|#3274 →]]

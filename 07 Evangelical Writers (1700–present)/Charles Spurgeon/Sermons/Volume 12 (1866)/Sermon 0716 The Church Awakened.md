@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Church Awakened
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 716
 
-DELIVERED ON SUNDAY EVENING, OCTOBER 7, 1866,.
+*Delivered on Sunday Evening, October 7, 1866*
 
 > Ephesians 5:14.
 
@@ -128,7 +127,6 @@ More Divine Grace and more peace, more light and more joy—I pray God that you 
 We have enough Churches in London where they sleep. Oh, may God deliver us from having this place to be a huge cemetery, and make us to be a great House, a great City from which shall go forth the hosts and armies of the Lord to do battle for Him! May God send His Holy Spirit to abide among us in all His plenitude, and He shall have the glory!
 
 Now you all see this sermon is to the Christian. I tried to preach to seekers this morning [#714—a Savior Such As You Need] and gave them their turn, then. But if there is one here who has not found the Savior, I must add this word to him. The way of salvation is this—Trust Christ and you are saved! Christ suffered in the place of His people. God laid their sin on Him and punished Him as if He were they. And whoever trusts Christ is forgiven. He is saved! And when he is saved then I invite him to exert his strength for his Master. But till then look at home and then look at Jesus, and God grant that this look at yourselves and at your Savior may be the means of your salvation—to the praise of the glory of His Divine Grace.
-
 
 ---
 [[Sermon 0715 Children'S Bread Given To Dogs|← #715]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0717 Pray For Jesus|#717 →]]

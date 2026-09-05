@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Stronghold
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2555
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD is good, a stronghold in the day of trouble, and He knows them that trust in Him." Nahum 1:7.
 
@@ -81,7 +78,7 @@ And they who trust in the Lord shall have one more thing. That is, God will ackn
 
 Oh, give yourselves to Jesus, dear Hearts! Give yourselves to Jesus! Now that so many are being taken away from us to Heaven, I want to have a great number coming into the Church to fill up the vacuum. During the last few weeks that I have been ill and have been away, I have not been able to see any of you, but I intend, as soon as I can, to see such as wish to make a confession of their faith in Christ. I hope that there are many of you ready to come and that among the rest will be one or another able to say, "Yes, Sir, the Lord is good, a stronghold in the day of trouble. And I now know that He knows them that trust in Him—and I have the witness of the Spirit that I am one of that happy company." God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 77.
+## Exposition by C. H. Spurgeon: Psalm 77
 
 The Book of Psalms, though it is Divinely Inspired, is also marvelously human—it is everywhere instinct with life— and life in its most sympathetic forms. However glad you are, there is always a Psalm suitable for you to sing. And you are never so sad but a Psalm could be found to help you, in the very depths, to pour out your complaint before God. This 77th Psalm is the song of a man in deep depression.
 
@@ -118,7 +115,6 @@ Verse 1. Icried unto God with my voice, even unto God with my voice; andHegave e
 16-18. Thee waters saw You, O God, thee waters saw You; theey were afraid: thee depths also were troubled. Thee clouds poured out water: the skies sent out a sound: Your arrows also went abroad. The voice of Your thunder was in the Heaven: the lightning lightened the world: the earth trembled and shook. This is what Egypt saw when God turned the dark side of the cloud towards the Egyptians and greatly troubled them through that wild tempestuous night!
 
 19, 20. Your way is in the sea, and Your path in the great waters, and Your footsteps are not known. You led Your people like a flock by the hand of Moses and Aaron. And so will He continue to lead His people by one and another, till all their wanderings are over and they rest in peace at His right hand forever. "Therefore, comfort one another with these words."
-
 
 ---
 [[Sermon 2554 The Spiritual Resurrection|← #2554]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2556 Life Proved by Love|#2556 →]]

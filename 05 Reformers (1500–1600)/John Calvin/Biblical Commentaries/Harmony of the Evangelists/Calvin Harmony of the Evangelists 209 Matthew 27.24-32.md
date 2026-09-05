@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 209. Matthew 27:24-32; Mark 15:15-21; Luke 23:24-32
-
-MATTHEW 27:24-32; MARK 15:15-21;  
-LUKE 23:24-32
 
 **24.** But Pilate, perceiving that he gained nothing by it, but that the tumult became the greater, took water, and washed his hands before the people, saying, I am innocent of the blood of this righteous man: see you to it. **25.** And the whole people, answering, said, His blood be on us and on our children. **26.** Then he released to them Barabbas, and after having scourged Jesus, he delivered him up to be crucified. **27.** Then the soldiers of the governor conducted Jesus into the Pretorium, and gathered around him the whole band. **28.** And having stripped him, they put on him a scarlet robe. **29.** And having wreathed a crown of thorns, they put it on his head, and a reed in his right hand; and kneeling before him, they mocked him, saying, Hail, King of the Jews! **30.** And having spat on him, they took the reed and struck him on the head. **31.** And after having mocked him, they stripped him of the robe, and put his own raiment on him, and led him away to crucify him. **32.** And as they were going out, they found a Cyrenian named Simon: him they constrained to bear his cross.
 

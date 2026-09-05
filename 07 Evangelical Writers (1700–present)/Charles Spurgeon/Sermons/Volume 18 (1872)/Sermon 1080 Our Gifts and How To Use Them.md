@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # Our Gifts and How To Use Them
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1080
 
-DELIVERED.
+*Delivered*
 
 > "Therefore I remind you to you stir up the gift of God which is in you by the laying on of my hands." 2 Timothy 1:6.
 
@@ -136,7 +135,6 @@ What a stir about ourselves! What a stir about others! Where will they be? Will 
 What a stir there will be throughout all the nations in that day! And, surely, if we look at it in the light of eternity—in the light of that tremendous day when Christ, with clouds, shall come—we shall feel that there is nothing worth living for but serving God! We shall surely feel that the very core and center of all life is to bring glory to God by bringing sinners to Jesus Christ! God grant you may live as if you expected to die! We ought always to preach as though we should go out of the pulpit into Heaven and we should always to pray in that way. And we should always spend every day as if we had not another day to spend. For this we need much of the Holy Spirit's power.
 
 And He rests upon His people! May He come and rest upon us, now, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1079 The Secret Food And The Public Name|← #1079]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1081 A Visit to the Tomb|#1081 →]]

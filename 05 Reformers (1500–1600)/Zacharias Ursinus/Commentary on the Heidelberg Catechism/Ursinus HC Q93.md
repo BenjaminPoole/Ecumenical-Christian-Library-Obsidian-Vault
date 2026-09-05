@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 93. How are these ten commandments divided?
-
-**Question 93. How are these ten commandments divided?**
 
 Answer. Into two tables; the first of which teaches us how we must behave towards God; the second, what duties we owe to our neighbor.
 
-**EXPOSITION**
+## **Exposition**
 
 This Question concerning the division of the Decalogue is necessary and. profitable; 1. Because God himself expressed a certain number of tables and commandments in the Decalogue. 2. Because Christ divided the sum of the whole law into two commandments, or into two kinds of commandments. 3. Because a correct division of the Decalogue contributes much to a proper understanding of the commandments. It teaches and admonishes us in reference to the degrees of obedience required by each table, and shows that the worship of the first table is the most important.
 
@@ -48,7 +45,7 @@ III. The Decalogue is divided according to its matter, or according to the thing
 
 We may now easily return an answer to the following objection: The duties which we owe towards our neighbor are not the worship of God. The second table prescribes the duties which we owe towards our neighbor. Therefore, the obedience of the second table does not constitute the worship of God. Ans. The major proposition is true only of the immediate worship of God, in reference to which we admit the conclusion: for the obedience of the second table is not the immediate worship of God, as is the obedience of the first table; but it is that which is mediate, or which we perform towards God in our neighbor, or by our neighbor coming between God and us. For the duties of love to our neighbor ought to proceed from the love of God; and when they are performed in this way they please God, and have respect to him, no less than the obedience which is required by the first table of the Decalogue. These duties are, therefore, in respect to God, on account of whom they are performed, called and are in fact the worship of God; but in respect to our neighbor, towards whom they are directly performed, they are called duties. Hence, the worship which each table enjoins, differs as to the object towards whom it is performed. The first table has only an immediate object, which is God: the second has an immediate object, which is our neighbor, and at the same time a mediate object, which is God.
 
-**GENERAL RULES**
+## **General Rules**
 
 Before we proceed to the exposition of each commandment singly, it is proper that we should lay down certain general rules necessary to the understanding of the Decalogue as a whole, and of each commandment in particular.
 

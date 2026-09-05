@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Stumbling at the Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3258
-
-DELIVERED BY C. H. SPURGEON..
 
 > "And a stone of stumbling, and a rock of offense, even to them which stumble at the Word, being disobedient." 1 Peter 2:8.
 
@@ -77,7 +74,7 @@ Nor must you be content with praying for them, for others very earnestly sought 
 
 Do you need arguments for soul-winning? Look up to Heaven and ask yourself how sinners can ever reach those harps of gold and learn that everlasting song unless they have someone to tell them of Jesus who is "mighty to save." But the best argument of all is to be found in the wounds of Jesus! You want to honor Him. You desire to put "many crowns" upon His head and this you can best do by winning souls for Him! These are the spoils that He covets. These are the trophies for which He fights. These are the Jewels that shall be His best adornment. O Christian men and women, if any of you have been negligent of late in your Master's service, may the Holy Spirit make you more diligent! I would like to make a personal appeal to each one of you to consecrate yourselves and your substance more and more to the advancement of the cause and Kingdom of Jesus Christ, your Lord, so that you shall live wholly for Him! To be a true Christian is something higher and nobler than simply sitting in our pews twice on Sunday, or even teaching in a Sunday school or giving away tracts. It is the laying of one's whole self upon the altar—offering your body, soul and spirit as a living sacrifice unto God, which is our reasonable service, so that whether we live or whether we die, we shall be the Lord's, and live or die for Him! I plead with you, Christians—and I wish I had more power to do it effectually—for the sake of sinners, to stir yourselves up to pray for them and to labor for them that through the mighty working of the Spirit of God, they may no longer stumble at the Word, but may yield themselves to Christ and be saved!
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 1:17-25; 2:1-12.
+## Exposition by C. H. Spurgeon: 1 Peter 1:17-25; 2:1-12
 
 1 Peter 1:17. Andifyou call on the Father, who without respect of persons judges according to every man's work, pass the time of your sojourning here in fear Not in unbelieving fear, but in that holy carefulness which watches against sin of every kind lest in any way you should spoil your holy work for God.
 
@@ -140,7 +137,6 @@ of the praises or virtues of Christ, not only to know them and to be glad to kno
 11, 12. Abstain from fleshly lusts, which war against the soul: having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers—Which they are sure to do. The better you are, the more will they censure you. This is the only homage that evil can pay to good, to fall foul of it and misrepresent it—"that whereas they speak against you as evildoers"—
 
 12\. They may by your good works, which they shall behold, glorify God in the day of visitation. God bless to us the reading of His Word.
-
 
 ---
 [[Sermon 3257 Thoughts and Their Fruit|← #3257]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3259 Faith's Way of Approach|#3259 →]]

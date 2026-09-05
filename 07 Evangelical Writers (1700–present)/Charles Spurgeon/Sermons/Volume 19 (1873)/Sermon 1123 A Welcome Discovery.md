@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # A Welcome Discovery
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1123
-
-DELIVERED BY.
 
 > "God opened her eyes, and she saw a well of water; and she went and filled the bottle with water, and gave the lad drink." Genesis 21:19.
 
@@ -150,7 +147,6 @@ So likewise there is many a sinner crying, "What must I do to be saved? Oh, what
 Go in peace, and God grant you Grace to give to Him the glory through all your remaining days. May God bless these wandering words of mine to the consolation of some of His mourners, and my heart shall give Him praise, and your hearts shall overflow with gratitude! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 21.
-
 
 ---
 [[Sermon 1122 Fresh Grace Confidently Expected|← #1122]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1124 God Beseeching Sinners by His Ministers|#1124 →]]

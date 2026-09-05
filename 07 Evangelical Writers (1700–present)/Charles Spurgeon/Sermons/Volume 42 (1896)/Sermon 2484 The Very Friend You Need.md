@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Very Friend You Need
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2484
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A friend of publicans and sinners." Luke 7:34.
 
@@ -77,7 +74,7 @@ When you have trusted Christ and proved Him to be your Friend, proclaim to other
 
 Oh, there are some of you, dear robin redbreasts, that have been here ever so long and have been eating my Master's crumbs! You have brought some sparrows to the feast—now try to entice a blackbird and if there is one blackbird bigger and bleaker than another, go and fetch him and bring him, for Jesus says that He will cast out none that come to Him by faith—and you may be sure that it is true, for He is "a friend of publicans and sinners." God bless you all, dear Friends, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 7:24-50.
+## Exposition by C. H. Spurgeon: Luke 7:24-50
 
 Verse 24. And when the messengers of John were departed, He began to speak to the people concerning John. What did you go out into the wilderness to see? A reed shaken by the wind?Certainly not! John could never be compared to a reed shaken by the wind, for he was strong, sturdy, firm and steadfast. He was not like so many preachers, nowadays, who are swayed by the ever-changing opinion of the age—the thought of these modern times—and so prove themselves to be mere reeds shaken by the wind.
 
@@ -136,7 +133,6 @@ They would agree to nothing that was proposed and that is the point of the Savio
 49\. And they that sat at meat with Him began to say within themselves, Who is this that also forgives sins?Now, you see, they begin to mutter and to quibble. What is this poor woman to do? Probably she felt ready to speak up for her Master, but, sometimes, it happens that the Lord Jesus Christ will not permit certain, even of His forgiven ones, to be very prominent.
 
 50\. AndHe said to the woman, Your faith has savedyou; go in peace. She was best out of the way of all controversy. She would honor Him most by going home and there sweetly singing to His praise and drinking deep draughts of His love. If any of you converts are meeting with those who laugh at you, do not stop where they are, but go about your business with these sweet words of your Master ringing in your ears—"Your faith has saved you; go in peace."
-
 
 ---
 [[Sermon 2483 The Objective of Christ's Death|← #2483]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2485 Love's Vigilance Rewarded|#2485 →]]

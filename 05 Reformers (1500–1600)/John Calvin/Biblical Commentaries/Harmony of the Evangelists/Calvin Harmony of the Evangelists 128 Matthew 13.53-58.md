@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 128. Matthew 13:53-58; Mark 6:1-6
-
-**Matthew 13:53-58; Mark 6:1-6**
 
 **53**. And it happened, when Jesus had concluded these discourses, [^1] that he departed thence. **54**. And when he was come into his own country, he taught them in their synagogue, so that they were amazed, and said, Whence hath this man this wisdom and these miracles? **55**. Is not this the carpenter’s son? Is not his mother called Mary, and his brothers James, and Joses, and Simon, and Judas? **56**. And his sisters, do not they all live amongst us? Whence then hath this man all these things? **57**. And they were offended at him. But Jesus said to them, A prophet is not destitute of honor, except in his own country and in his own house. **58**. And he did not perform many miracles there on account of their unbelief.
 

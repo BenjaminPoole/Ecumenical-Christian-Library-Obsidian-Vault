@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Driving Out the Canaanites and Their Iron Chariots
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2049
 
-DELIVERED ON THURSDAY EVENING, JULY 12, 1888,.
+*Delivered on Thursday Evening, July 12, 1888*
 
 > "For you shall drive out the Canaanites, though they have iron chariots and though they are strong." Joshua 17:18.
 
@@ -150,7 +149,6 @@ This is the very object of the Gospel which we preach to you. And we have preach
 If you are living children of the living God, lay hold upon that promise, "By little and by little, I will surely drive them out." If you cannot conquer all the Hivites and Jebusites today—at least down with one and then with another. May the mighty Grace of God—without which you can do nothing—help you to keep your sword out of its sheath, driving at the very heart of sin with your utmost strength until the last sin shall lie dead at the feet of Christ and you shall be perfectly happy because He has made you perfectly holy.
 
 There is no fear of your stopping here upon this sin-deified earth if you have once reached the point of perfection. This is a poor world for the completely sanctified. God does not leave His ripe wheat out in the fields too long—He takes the sheaves home to His barn when they are quite ready. We shall soon be with Him where He is when we are made like He. The Lord grant it, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2048 A Life-Long Occupation|← #2048]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2050 A Paradox|#2050 →]]

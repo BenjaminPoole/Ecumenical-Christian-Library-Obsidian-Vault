@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Lifting Up of the Bowed Down
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1426
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 14, 1878,.
+*Delivered on Lord's-Day Morning, July 14, 1878*
 
 > "And He was teaching in one of the synagogues on the Sabbath. And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift herself up. And when Jesus saw her, He called her to Him, and said unto her, Woman, you are loosed from your infirmity. And He laid His hands on her: and immediately she was made straight, and glorified God." Luke 13:10-13.
 
@@ -150,7 +149,6 @@ Last of all, there was this reason to move the heart of Christ, that she had bee
 Oh, that my Divine Master would now come and do what I gladly would do but cannot, namely, make every child of God here leap for joy! I know what this being bound by Satan means. The devil has not tied me up for 18 years at a stretch and I do not think he ever will, but he has brought me into sad bondage many a time. Still, my Master comes and sets me free and leads me out to water—and what a drink I get at such times! I seem as if I could drink up the Jordan at a draught when I get to His promises and quaff my fill of His sweet love!
 
 I know by this that He will lead other poor souls out to the water and when He does so to any of you, I pray you drink like an ox! You may be tied up again—therefore drink as much as you can of His Grace and rejoice while you may! Eat that which is good and let your soul delight in fatness. Be glad in the Lord, you righteous, and shout for joy all you that are upright in heart, for the Lord looses the prisoners. May He loose many now! Amen.
-
 
 ---
 [[Sermon 1425 Concern For Other Men's Souls|← #1425]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1427 A Wilderness Cry|#1427 →]]

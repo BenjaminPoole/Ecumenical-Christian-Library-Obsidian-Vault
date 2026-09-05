@@ -11,10 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 44. Deuteronomy 8:1-6; 11:8,9
 
-**DEUTERONOMY 8**
+***Deuteronomy 8***
 
 **1.** All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the Lord sware unto your fathers.
 

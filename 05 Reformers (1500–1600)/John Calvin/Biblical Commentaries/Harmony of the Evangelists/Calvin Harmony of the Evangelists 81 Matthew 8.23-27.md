@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 81. Matthew 8:23-27; Mark 4:35-41; Luke 8:22-25
-
-**MATTHEW 8:23-27; MARK 4:35-41; LUKE 8:22-25**
 
 **23**. And when he had entered into the ship, [^1] his disciples followed him. **24**. And, lo, there was a great swell in the sea, so that the ship was covered with the billows: and he was asleep. **25**. And his disiples approached and awoke him, saying, Lord, save us, we perish. **26**. And he saith to them, Why are you timid, O men of little faith? Then he arose, and rebuked the winds and the sea: and there was a great calm. **27**. But the men wondered, saying, What sort of man is this: for the winds and the sea obey him?
 

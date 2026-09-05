@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # "Is the Spirit of the Lord Straitened?"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2218
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O you that are named the house of Jacob, is the Spirit of the Lord straitened?" Micah 2:7.
 
@@ -132,7 +129,6 @@ You that are not converted, but are longing to be, what are you waiting for, see
 Has He not said, "Him that comes to Me I will in no wise cast out"? When may they come? Whenever they come He will not cast them out! What sort of people will He receive? "Him that comes"—any, "him," that comes, no matter who he or she is! How do they come? They must just trust—trust Jesus! May the Holy Spirit enable you to trust Him now! The Lord bless you, for His name's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Micah 4.
-
 
 ---
 [[Sermon 2217 Three Names High on the Muster Roll|← #2217]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2219 A Harp of Ten Strings|#2219 →]]

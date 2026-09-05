@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Burden of the Word of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2114
 
-DELIVERED.
+*Delivered*
 
 > "The burden of the Word of the Lord." Malachi 1:1.
 
@@ -189,7 +188,7 @@ Well do I remember a great sinner coming into Exeter Hall and I read the hymn be
 
 IV. But I pass on to notice one thing more now. It is often the burden of the Lord, because of THE WAY IN WHICH
 
-MEN TREAT THE WORD OF GOD.
+## Men Treat the Word of God
 
 Upon this I will be very brief. Some trifle with it. I was reading last night an account of how people are said to behave who go to Church. It was written by a canon. I dare say he knows. Certainly, some people who go to Nonconformist places are as bad. A servant was asked by her mistress about the sermon. She said it was a very good sermon. ''Where was the text, Martha?'' ''Somewhere in the Bible, ma'am.'' ''What was it about?''
 
@@ -270,7 +269,6 @@ But the greatest increase of the burden comes from those who do not receive the 
 you may have it in your hearts! The final closing word is this-----''There is life in a look at the Crucified One. There is life
 
 Amen.
-
 
 ---
 [[Sermon 2113 By The Fountain|← #2113]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2115 The Drought of Nature, the Rain of Grace and the Lesson|#2115 →]]

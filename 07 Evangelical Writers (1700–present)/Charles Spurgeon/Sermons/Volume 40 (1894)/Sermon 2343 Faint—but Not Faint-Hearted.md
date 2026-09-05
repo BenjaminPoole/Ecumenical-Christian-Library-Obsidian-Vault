@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Faint—but Not Faint-Hearted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2343
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Faint, yet pursuing." Judges 8:4.
 
@@ -140,7 +137,6 @@ been taught a great many things, "with the thorns of the wilderness and with bri
 20-22. And he said unto Jether, his firstborn, Up, and slay them. But the youth drew not his sword: for he feared, because he was yet a youth. Then Zebah and Zalmunna said, Rise you, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks. Then the men of Israel said unto Gideon, Rule you over us, both you, and your son, and your son's son also: for you have delivered us from the hand of Midian. There was always an itching among the Israelites to have a king, an earthly monarch to rule over them, but God did not so design it. It was lack of loyalty and love to God that led them to make this request.
 
 23-27. And Gideon said unto them, I will not rule over you, neither shall my son rule over you: the LORD shall rule over you. And Gideon said unto them, I would desire a request of you, that you would give me, every man, the earrings of his prey. (For they had golden earrings, because they were Ishmaelites). And they answered, We will willingly give them. And they spread a garment, and did cast therein, every man, the earrings of his prey. And the weight of the golden earrings that he requested was a thousand and seven hundred shekels of gold; beside ornaments, and collars, and purple raiment that was on the kings of Midian, and beside the chains that were about their camels' necks. And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel went there whoring after it: which thing became a snare unto Gideon, and to his house. He did not set up an idol, but he made an ephod—an imitation of that wonderful vestment worn by the High Priest. Perhaps he made it of solid gold, not to be worn, but to be looked at, simply to remind the people of the worship of God and not to be, itself, worshipped. But ah, dear Friends, you see here that if we go half an inch beyond what God's Word warrants, we always get into mischief! You hear people say, "We have such and such symbols, not to worship, but to help us in worship." Ah, yes, but the tendency of the symbol is to act as a dam to the stream of devotion and to make it end there! God forbid that we should ever violate the rules that Christ has laid down for us! The slightest deviation from the simplicity of the Gospel may lead us away into sheer apostasy! Where have all the errors of Rome come from but from little accretions and alterations? A little ornament here, a little symbol there, and a little variation of the Truth of God yonder and the gigantic system of Romanism has thus been created! Gideon probably meant well and we may do wrong even though we mean well. May the Lord preserve us from the smallest departure from the Way that He has marked out for us in his Holy Word! Amen.
-
 
 ---
 [[Sermon 2342 A New Year's Retrospect And Prospect|← #2342]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2344 Christ's Dying Word for His Church|#2344 →]]

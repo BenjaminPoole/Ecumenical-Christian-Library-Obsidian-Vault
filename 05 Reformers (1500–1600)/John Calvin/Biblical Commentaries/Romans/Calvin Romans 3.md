@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Romans 3:1-2
 

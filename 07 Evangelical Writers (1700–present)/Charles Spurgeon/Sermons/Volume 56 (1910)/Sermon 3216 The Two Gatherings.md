@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Two Gatherings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3216
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Gather My saints together unto Me, those that have made a covenant with Me by sacrifice." Psalm 50:5.
 
@@ -91,7 +88,7 @@ could assure them, on the word of a gentleman, that he had died very happily. Wh
 
 When I read that tract, I thought that the working man's reasoning was perfectly sound. And I wish that all of you, dear Friends, had just as good cause as he had to live happily and to die happily! You will have that if you will only trust in the same Savior in whom he trusted! May God the Holy Spirit enable you to do so now! This is the way of salvation. "All have sinned and come short of the glory of God." "Christ Jesus came into the world to save sinners." He saves all who put their trust in Him! "Believe on the Lord Jesus Christ and you shall be saved." All who believe on Him are His chosen ones—His saints, as our text calls them—and those who truly trust Him are known by the holiness and gracious-ness of their lives! They are gathered unto Him, here, as they are, by His Grace, called out from the mass of mankind and, in God's good time, they shall all be gathered unto Him in that great general assembly and Church of the First-Born which are written in Heaven! May God grant that everyone of us may be there, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM50.
+## Exposition by C. H. Spurgeon: Psalm 50
 
 A Psalm of Asaph.
 
@@ -136,7 +133,6 @@ enough to burn slanderous tongues! There are no punishments severe enough for th
 21\. You thought that I was altogether such an One as yourself: but I will reprove you, and set them in order before your eyes. "I will do what I have not yet done. If you think Me in arrears, I will clear myself with you soon. I will ease Me of My adversaries." When God arises in judgment, He may make it to be a slow work, but He will make it to be a sure work.
 
 22, 23. Now consider this, you that forget God, lest I tear you in pieces, and there be none to deliver. Whoever offers praise, glorifies Me: and to him that orders his conversation aright will I show the salvation of God. How blessed, then, is it to praise the Lord both with your lips and with your life!
-
 
 ---
 [[Sermon 3215 Black Clouds and Bright Blessings|← #3215]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3217 An Earnest Warning Against Unbelief|#3217 →]]

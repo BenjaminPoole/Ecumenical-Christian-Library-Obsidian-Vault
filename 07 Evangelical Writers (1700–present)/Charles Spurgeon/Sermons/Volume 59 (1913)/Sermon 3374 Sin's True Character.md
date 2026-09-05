@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Sin's True Character
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3374
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Exceedingly sinful." Romans 7:13.
 
@@ -27,7 +24,7 @@ Now, what I want to call your attention to is that Paul here calls sin, "exceedi
 
 The text may suggest a broad argument and a special application. Our endeavor shall be to show you, then, that sin is in itself, "exceedingly sinful" and yet there are some signs of which it may be said with peculiar emphasis that they are "exceedingly sinful."
 
-I. SIN IS IN ITSELF "EXCEEDINGLY SINFUL."
+## I. Sin Is in Itself "Exceedingly Sinful."
 
 It is rebellion against God and "exceedingly sinful" because it interferes with the just rights and prerogatives of God. That great invisible Spirit whom we cannot see, whom even our own thoughts cannot encompass, made the heavens and the earth and all things that are—and it was His right that what He made should serve His purpose and give Him Glory. The stars do this. They jar not in their everlasting orbits. The world of matter does this. He speaks and it is done. The sun, the moon, the constellations of Heaven, yes, and the terrestrial forces, even the billows of the sea and the ravings of the wind—all these obey His behests. It is right they should. Shall not the potter make of the clay what he wills? Shall not he who uses the axe, fashion what he chooses for his own pleasure? You and I, favored in our creation—not inanimate clods, not worms having only sensations, without intellect—we who have been favored with thought, emotion, affection, with a high spiritual existence. Yes, with an immortal existence—we were especially bound to be obedient to Him that made us. Ask your conscience, do you not feel that God has rights towards you? Ask yourselves, if you make or preserve anything, call it your own and it is your own—do you not expect it to answer your end, or do your bidding? Why have you forgotten Him that made you? Why have you spent your powers and faculties for anything but His Glory?
 
@@ -49,7 +46,7 @@ Should your venturous wings of imagination dare the flight to a land that is ful
 
 that He endured, we read the sinfulness of sin, written as in capital letters, that even the half-blind might see! Oh, Sin, murderer of Christ, you are "exceedingly sinful!" My time has failed me, or I had meant to have enlarged upon—
 
-II. SOME PARTICULAR SINS THAT ARE EXCEEDINGLY SINFUL ABOVE ANY ORDINARY TRANSGRESSION.
+## II. Some Particular Sins that Are Exceedingly Sinful Above Any Ordinary Transgression
 
 I mean sins against the Gospel. I will just give the catalog, that everyone here who is honest with himself may search and see whether he is guilty. To reject loving messengers sent from God, godly parents, earnest pastors, affectionate teachers—to reject the kind message that they bring and the yearning anxiety that they feel for us is "exceedingly sinful!" To resist the loving Gospel which talks to us only of mercy, pardon, adoption and redemption from Hell and exaltation to Heaven—to reject that is "exceedingly sinful!" To resist the dying Savior whose only motive in coming to earth must have been love, whose wounds are mouths that preach His love, whose death is the solemn proof of love—to despise, to neglect, to ignore Him—this is "exceedingly sinful!" To sin against Him after having made a profession of loving Him. To come to His Table and then go and sin with the ungodly. To be baptized in His name and yet to be unjust, dishonest, unrighteous—this is "exceedingly sinful!" To be numbered with His Church and yet to be of the world. To profess to be His followers and yet to be His enemies—this is "exceedingly sinful!" To sin against light and knowledge. To sin knowing better. To sin against conscience. To push conscience to one side. To do violence to one's better self. To sin against the Holy Spirit, against His admonitions, warnings, promptings, invitations—this is "exceedingly sinful!" To go on sinning after you have smarted. To continue to sin when sin costs you many pains and difficulties. To push onward to Hell, as if riding a steeple-chase, over post, and bar, and gate, and hedge, and ditch—this is "exceedingly sinful!"
 
@@ -59,9 +56,9 @@ But why must it come? Why will you die? Why are you set on sin? Why do you love 
 
 [The original title of this sermon is "SIN'S TRUE QUALITY."]
 
-EXPOSITION BY C. H. SPURGEON: PSALM 51; ROMANS 7:7-25.
+## Exposition by C. H. Spurgeon: Psalm 51; Romans 7:7-25
 
-PSALM51.
+## Psalm 51
 
 There are many sweet notes in Christian music, but to my own heart there is none so soft, tender, sweet as the note of repentance. Full assurance rings out her clarion trumpet strain and we ought to be able to send it forth, but sometimes we are unable. Conquest over sin gives us Miriam's timbrel to dance to and it is well, but everyday use commends me to
 
@@ -115,7 +112,7 @@ I shall not be clean any other way. This is the only cleansing and purgation by 
 
 blessing, or his own desire for mercy. He wants the Church to prosper! He wants God's work to go on and so he cannot close the prayer, even of a penitent and broken heart, without crying, "Build You the walls of Jerusalem." In proportion as we think less of ourselves we shall think more of the Church of God, and more of the work of God in the land. To despise yourself is the way to honor God and His people. But when you honor yourself, you will first despise others, and it will go on by degrees to a dishonoring of God, Himself, from which may the Lord save us!
 
-ROMANS 7.
+## Romans 7
 
 This is Paul's own account of his inward conflicts. He longed to conquer sin. He wanted to become a free man and live always a godly and holy life, but he found that there was a battle within his nature.
 
@@ -158,7 +155,6 @@ Verse 7. What shall we say then?Is the Lawsin? God forbid! No, Ihadnot known sin
 25\. So then with the mind I myself serve the Law of God. With the new nature.
 
 25\. But with the flesh, the law of sin. With the flesh—this old rubbishing stuff that must die and be buried, and the sooner the better! With my old corrupt nature I serve the law of sin. But what a mercy it is that the next verse is that, notwithstanding that, "There is, therefore, now no condemnation to them which are in Christ Jesus, who walk not after the flesh but after the Spirit."
-
 
 ---
 [[Sermon 3373 Man's Scorn and God's Succor|← #3373]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3375 Standing and Singing|#3375 →]]

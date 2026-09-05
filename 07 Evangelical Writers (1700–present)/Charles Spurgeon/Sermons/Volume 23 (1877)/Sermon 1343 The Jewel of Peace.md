@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Jewel of Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1343
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 18, 1877,.
+*Delivered on Lord's-Day Morning, March 18, 1877*
 
 > "Now the Lord of Peace Himself give you peace always by all means. The Lord be with you all." 2 Thessalonians 3:16.
 
@@ -140,7 +139,6 @@ Then the Lord has ways of giving us peace by making discoveries of Himself. Some
 Many a soul has not the peace it might have because it does not fully understand the atoning blood. The great doctrine of Substitution is not seen in all its length and breadth by some minds. But when they come to see Christ standing in the place of His chosen, made sin for them and the chosen standing in Christ's place, "the righteousness of God in Him," then will their peace be like a river! The grand Truth of the union of the saints with Christ, if it is once understood, what a means of peace it is! He that believes in Christ is one with Him, a member of His body, of His flesh and of His bones! He is one with Christ by eternal and indissoluble union, even as the Father is One with the Son! If this is known, together with the doctrine of the Covenant, the attribute of immutability, the eternal purpose and the marriage union between Christ and His elect, deep peace must be enjoyed, like the calm of Heaven, like the bliss of immortality!
 
 But there are some to whom this peace cannot come, some concerning whom the Lord says "What have you to do with peace?" "There is no peace, says my God, unto the wicked." Your works, your prayers, your repentances—none of these can bring you peace! As for the world and the pleasures thereof, they are destructive to all hope of peace. Come this day and believe in the great Sacrifice which God, Himself, has prepared in the Person of His crucified Son! Come look into Emanuel's face and read where peace is to be found! Come to the great gash in Jesus' side and see the cleft of the rock where God's elect abide in peace! Trust in Jesus and you shall begin a peace which shall widen and deepen into the peace of God which passes all understanding, which shall keep your hearts and minds by Christ Jesus. Amen.
-
 
 ---
 [[Sermon 1342 Dagon's Ups and Downs|← #1342]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1344 The Student's Prayer|#1344 →]]

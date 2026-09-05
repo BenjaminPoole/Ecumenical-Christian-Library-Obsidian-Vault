@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 20
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**DELIVERANCE NOT LIMITED**
+## **Deliverance Not Limited**
 
 > He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee" Job 5:19
 
@@ -23,7 +22,6 @@ Eliphaz in this spoke the truth of God. We may have as many troubles as the work
 It may be that we have no rest day, for seven troubles come upon us. What then? "In seven there shall be no evil touch thee." Evil may roar at us, but it shall be kept at more than arm's length, and shall not even touch us. Its hot breath may distress us, but its little finger cannot be laid upon us.
 
 With our loins girt about us we will meet the six or the seven troubles, and leave fear to those who have no Father, no Saviour, and no Sanctifier.
-
 
 ---
 [[FCB August 19|← August 19]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 21|August 21 →]]

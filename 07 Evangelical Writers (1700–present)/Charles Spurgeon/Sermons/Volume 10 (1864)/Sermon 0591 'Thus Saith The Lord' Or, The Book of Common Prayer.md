@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # 'Thus Saith The Lord:' Or, The Book of Common Prayer Weighed in the Balances of the Sanctuary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 591
@@ -29,7 +28,7 @@ It is in the word that we must find wisdom and power, “because the foolishness
 
 This morning, I shall first endeavor to show, briefly, *the value of a “Thus saith the Lord;”* and then, secondly, I shall, with as much calmness of spirit as I can command, *request a “Thus faith the Lord” for certain things which are received and practiced in the State Establishment of our land,* and close with *a word of personal application,* beseeching you to seek a “Thus saith the Lord” for any hopes which you may entertain of being partakers of the inheritance of the saints in light.
 
-I. LET US CONSIDER THE VALUE OF A “THUS SAITH THE LORD.”
+## I. Let Us Consider the Value of a “Thus Saith the Lord.”
 
 1\. Our *first* observation is that it is *the minister’s message.* If he be God’s minister, he does not found his teaching upon his own authority, for then his message would be only that of himself, and not to be esteemed; but he shows the authority of his Master, and none can gainsay him. He claims men’s attention on the ground that he utters a “Thus saith the Lord.” No matter how aged he may be, he does not proclaim the truth as merely the result of his long investigations or his extraordinary experience, but he grounds it upon “Thus saith the Lord.” So spake the hoary-headed Joshua when for many a year he had known the faithfulness of God, and was about to die. He was singing his swan-song, preaching his last sermon; but he did not commence it, “Thus saith my age,” “Thus say I upon mine own authority,” but “Thus saith the Lord God of Israel.” A God-sent minister is the ambassador of the Most High, but he has no right to go beyond his commission; and when he does so, his office cannot yield him support. The prophets of God did not say, “Thus I speak as a prophet,” but, “Thus saith the Lord.” When the prophet came in Gideon’s days and spoke to erring Israel, he opened his mouth with, “Thus saith the Lord God of Israel.” Turn to the pages of Isaiah, and mark how frequent he quotes the divine authority; study the plaintive words of Jeremiah, and observe how solemnly his prophetic woes are prefaced with, “Thus saith the Lord;” and the soaring Ezekiel, to whom was given, as it were, six wings, that he might take more lofty flights than the eagle knoweth—even he relied not upon the sublimity of his language or the glory of his imagery, but found the sinews of his strength in “Thus saith the Lord God.” This is the trowel and this the hammer of God’s builders,—this the trumpet of his watchmen and the sword of his warriors. Woe to the man who comes in any other name! If we, or an angel from heaven, shall preach unto you anything but a “Thus saith the Lord,” no matter what our character or standing, give no heed to us, but cleave unto the truth as it is in Jesus. To the law and to the testimony, if we speak not according to this word, it is because there is no light in us. That test which we demand to be exercised upon others we cheerfully consent to be exercised upon ourselves, praying that we may have grace to forsake our errors as we would have other men forsake theirs.
 
@@ -75,7 +74,7 @@ Now some will say, why do I thus take this matter up and look into it? I have al
 
 III. Now, to close, let me say to you, my hearers, have any of you a hope of heaven which will not stand the test of “Thus saith the Lord?” What are you resting upon? Are you resting upon something which you felt when excited at a prayer-meeting or under a sermon? Remember you will not have that excitement to bear you up in death, and the religion of excitement will not suffice in the day of judgment. Are you building upon your own works? Are you depending upon your own feelings? Do you rely upon sacraments? Are you placing your trust upon the word of man? If so, remember that when God shakes all things he will shake these false foundations; but oh! build upon the Word of my Lord and Master; trust your soul with Jesus. Hating sin, and clinging to the great sinbearer, you shall find in him a rock of refuge which can never, never fail you; but I do conjure you, as the Lord liveth, search and try yourselves by the Word of God. No doubt there are many among us who are not built upon the Rock of Ages, and we may any of us be deceived by a mere name to live. Do, then, since the test-day must come,—since you must be weighed in the balances,—weigh yourselves now, my hearers; and let none of us go down to the chambers of destruction believing ourselves to be heirs of heaven, being all the while enemies to the Most High God. May the Lord exalt his own Word, and give us a sure inheritance in the blessings which it brings. Amen.
 
-BAPTISMAL REGENERATION
+## Baptismal Regeneration
 
 The following sermons contain Mr. Spurgeon’s views upon the Question now under controversy:—
 
@@ -90,7 +89,6 @@ No. 591.—“Thus Saith The Lord:” Or, The Book of Common Prayer Weighed in t
 TWO LETTERS from C. H. SPURGEON—one to the *Evangelical Alliance,* signifying his withdrawal from that Association; and another to *The Christian Public,* proving that his accusations against the Evangelical Clergy are neither novel nor singular.—25th Thousand.
 
 One Penny each. The five post free for six stamps.
-
 
 ---
 [[Sermon 0590 The Backslider'S Way Hedged Up|← #590]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0592 The True Position Of Assurance|#592 →]]

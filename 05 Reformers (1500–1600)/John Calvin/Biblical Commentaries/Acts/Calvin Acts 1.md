@@ -10,16 +10,15 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 1
 
-**COMMENTARY**
+***Commentary***
 
-**UPON**
+## **Upon**
 
-**THE ACTS OF THE APOSTLES.**
+## **The Acts of the Apostles.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Acts 1:1-2
 

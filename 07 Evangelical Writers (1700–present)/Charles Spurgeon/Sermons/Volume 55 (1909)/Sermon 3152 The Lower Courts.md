@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Lower Courts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3152
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For if our heart condemns, God is greater than our heart, and knows all things. Beloved, if our heart condemn us not, then have we confidence toward God." 1 John 3:20,21.
 
@@ -126,7 +123,6 @@ Begin tonight, dear Friend! If you fancied you did begin once before, begin agai
 merely put the paper away and sit down and say, "I will try to believe it"—that is absurd! The fact is, you do not believe in Jesus or you would not say, "I am trying to believe in Him." "Well," says one, "I do not yetbelieve in Jesus, but I wish I did." I like to hear you say those last words, for when a man wishes to believe what is certainly true, I think he will soon believe it! There is many a man who has wished to believe a lie till he has believed it—and I think that a man who wishes to believe the Truth of God has the easier task of the two! May the ever-blessed Spirit lead you into a solemn conviction of the Truth as it is in Jesus!
 
 If there is one here who says, "I do not believe in Jesus and I do not want to believe in Him," may God have mercy upon that poor sinner and save him tonight—and God shall have the Glory both now and forever! Amen.
-
 
 ---
 [[Sermon 3151 The Lord's Supper—simple But Sublime!|← #3151]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3153 Paul Cheered in Prison by His Lord|#3153 →]]

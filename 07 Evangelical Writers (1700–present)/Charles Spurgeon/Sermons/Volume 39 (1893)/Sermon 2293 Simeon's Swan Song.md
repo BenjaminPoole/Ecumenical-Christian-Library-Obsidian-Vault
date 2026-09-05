@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Simeon's Swan Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2293
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lord, now Jet You Your servant depart in peace, according to Your word: for my eyes have seen Your salvation." Luke 2:29,30.
 
@@ -155,7 +152,7 @@ I seem as if I did not need to see anything else, after having seen Christ as Go
 
 Now, that is not what we do, but still, we would act in the spirit of it. "My eyes have seen Your salvation." People say, "See Naples and die." They mean that it is so lovely that when you have seen it, there is nothing more to see. See Christ, and what else is there to see? Now, whether you sail over the blue sea beneath a bluer sky, or dive into the deeps of this murky atmosphere—whether you are in a palace or in a dungeon, sick or full of bounding health—all these are items of small consequence, if your eyes have seen God's salvation, for God has blessed you as only God can bless you! Go and live in peace and go and die in peace—and praise the name of Him who gave you such a Savior to see, and the power to see Him! The Lord bless you, Beloved! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON. LUKE2:21-38.
+## Exposition by C. H. Spurgeon. Luke 2:21-38
 
 Verse 21. And when eight days were accomplished for the circumcising of the Child, His name was called Jesus, which was so named of the angel before He was conceived in the womb. Although the old Law ends with Christ, it is very instructive to notice that He came under the Law and conformed to all its appointments. Jesus, therefore, had to be circumcised. In Him the Law was fulfilled in every point, even to the jots and tittles—nothing was omitted. Behold how perfect is the righteousness which He worked out for His people!
 
@@ -198,7 +195,6 @@ Yet, I say again, you may be well content to bear it all for His sake, for you r
 38\. And she coming in that instant.—God knows how to time what we call our accidental walks—"She coming in that instant."—
 
 38\. Gave thanks likewise unto the Lord, and spoke of Him to all them that looked for redemption in Jerusalem. So that the song of Simeon was sweetened by the voice of Anna—and they both rejoiced in God their Savior! And their joy was shared by "all them that looked for redemption in Jerusalem." May many of us have a share in that same joy as, by faith, we lovingly gaze upon "the Lord's Christ."
-
 
 ---
 [[Sermon 2292 Abraham, A Pattern To Believers|← #2292]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2294 The Memory Of Christ's Love|#2294 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 45
 
-**CHAPTER 45.**
+***Chapter 45.***
 
 ## Isaiah 45:1-25
 

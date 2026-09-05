@@ -10,12 +10,7 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 3. Chronological Notes
-
-## **CHRONOLOGICAL NOTES** .
-
-### **CHRONOLOGICAL NOTES**
 
 #### **THE CHIEF EVENTS IN THE LIFE OF JOHN KNOX** .
 

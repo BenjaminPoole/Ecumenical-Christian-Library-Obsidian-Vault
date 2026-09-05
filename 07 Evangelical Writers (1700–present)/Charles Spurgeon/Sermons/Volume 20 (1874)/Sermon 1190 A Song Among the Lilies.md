@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # A Song Among the Lilies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1190
@@ -127,10 +126,9 @@ One thing I wish to whisper in your ears’she was in the clefts of the rock. O 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Song of Solomon 2.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’660, 663, 614.
+## Hymns from ‘Our Own Hymn Book’’660, 663, 614
 
 ‘The Turning Point.’
-
 
 ---
 [[Sermon 1189 The Turning Point|← #1189]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1191 For Whom Did Christ Die|#1191 →]]

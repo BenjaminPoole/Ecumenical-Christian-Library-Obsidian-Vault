@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Blood Of Abel And The Blood Of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 708
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 2, 1866..
+*Delivered on Lord's Day Morning, September 2, 1866*
 
 > Genesis 4:10.
 
@@ -138,7 +137,6 @@ Dwell in His sight, sit at the foot of Calvary, abide in the presence of His Cro
 No, do not run away from the wounds which you have made, but find shelter in them! Don't forget the sufferings of Christ, but rest in them! Your only hope lies in trusting in Jesus, resting wholly upon Him. Think much of the griefs of your Lord! And if I might suggest to some of you who will not be going out this afternoon, perhaps if you could spend an hour or two between services in considering the sufferings of the Savior, those considerations might be the means of bringing faith to you.
 
 Faith comes by hearing, but it is a thoughtful hearing. And hearing comes by the Word of God, but the Word must be thought over. Open the Word, read the story of the Cross. Ask the Master to bless it to you, and who knows but through the Divine Spirit some of you may yet hear the voice of that blood which speaks better things than that of Abel! The Lord bless every one of you for His name's sake. Amen.
-
 
 ---
 [[Sermon 0707 Heavenly Geometry|← #707]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0709 Kicking Against The Pricks|#709 →]]

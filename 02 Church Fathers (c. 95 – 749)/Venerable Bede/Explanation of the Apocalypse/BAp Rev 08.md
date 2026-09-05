@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 8
 
 V. 1. seal. It is believed that after the death of Antichrist, there will be some little rest in the Church, which Daniel thus foretold': '^ Blessed is he who waiteth and cometh to the one thousand three hundred and thirty-five days.'' And it is thus interpreted by the blessed Jerome*: "Blessed," he says, "is he, who when Antichrist is slain, beyond the one thousand two hundred and ninety days, that is, three years and a half, waits for the forty-five days, in which the Lord and Saviour is to come in His own Majesty. Now for what reason, after the destruction of Antichrist, there is silence for forty-five days, is a subject of divine knowledge, unless perhaps we say, the deferring of the kingdom of the saints is the trial of patience." Observe that at the sixth seal, he sees the greatest afflictions of the Church, at the seventh, rest For the Lord was crucified on the sixth day of the week, and rested on the Sabbath, awaiting the time of resurrection. Thus far concerning the opening of the closed book, and the six seals. But now he recapitulates from the beginning, as he is about to say the same things in another manner.
@@ -70,8 +68,6 @@ three. Not that die trumpets of the angels bring the plagues upon the world, but
 "Angel," A. V.; " eagle," Beda, Vulg., with Tregelles and Tischendoif. Seech, zi. 14, noteq. ^ z Tim. iii u
 
 * 2 Thess. ii. 4. ' i Thess. v. 2.
-
-6i Exfianaiian of the Apocalypu. [bk. ii.
 
 ---
 [[BAp Rev 07|← Revelation 7]] · [[Library/Venerable Bede/Explanation of the Apocalypse/Explanation of the Apocalypse|Contents]] · [[BAp Rev 09|Revelation 9 →]]

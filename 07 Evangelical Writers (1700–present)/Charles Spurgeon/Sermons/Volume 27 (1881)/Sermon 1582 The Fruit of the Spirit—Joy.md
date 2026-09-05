@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Fruit of the Spirit—Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1582
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 6, 1881,.
+*Delivered on Lord's-Day Morning, February 6, 1881*
 
 > "But the fruit of the Spirit is joy." Galatians 5:22.
 
@@ -144,7 +143,6 @@ Thus in a figure we see that our heavenly Father delights in the delight of His 
 We're marching thro' Immanuel's ground
 
 To fairer worlds on high.
-
 
 ---
 [[Sermon 1581 Silver Sockets—Redemption the Foundation!|← #1581]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1583 Choice Food for Pilgrims to Canaan|#1583 →]]

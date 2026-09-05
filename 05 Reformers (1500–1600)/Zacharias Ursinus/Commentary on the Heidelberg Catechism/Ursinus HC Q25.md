@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 25. Since there is but one divine essence, why speakest thou of Father, Son, and Holy Ghost?
-
-**Question 25. Since there is but one divine essence, why speakest thou of Father, Son, and Holy Ghost?**
 
 Answer. Because God hath so revealed himself in his word, that these three distinct persons are the only true and eternal God.
 
-**EXPOSITION**
+## **Exposition**
 
 In this question we have contained the doctrine of the church in reference to the one true God, and the three persons of the Godhead. The principal questions which claim our attention, in connection with this subject, are the following:
 
@@ -38,7 +35,7 @@ VII. How are these persons distinguished from each other?
 
 VIII. Why is it necessary for the church to hold fast to the doctrine of the Trinity.
 
-**I. FROM WHAT DOES IT APPEAR THAT THERE IS A GOD?**
+## **I. From What Does It Appear that There Is a God?**
 
 That there is a God, is proven by many arguments common both to philosophy and theology. These arguments we shall present in the following order:
 
@@ -68,7 +65,7 @@ Addenda. And although the wicked often flourish for a time, whilst the godly are
 
 11. The order of cause and effect is finite, nor can it come to pass that the chain or course of efficient causes can be of infinite extent. There must, therefore, be some first cause which either mediately or immediately produces and moves the rest, and on which all other causes depend; for in every order that is finite there is something that is first and before every thing else.
 
-**II. WHO, AND WHAT IS GOD?**
+## **II. Who, and What Is God?**
 
 God cannot be defined, for the reason that he is immense, and because we are ignorant of his essence. We may, however, describe him to a certain extent from the revelation which he has been pleased to make of himself; yet in giving a description of God we must be careful to include in it those attributes, representations and peculiar works, which distinguish him from all false deities.
 
@@ -124,7 +121,7 @@ Most free. God is most free; 1. From all guilt, misery, obligation, servitude an
 
 Hating sin: that is, God is terribly displeased with sin, and will punish it temporally and eternally.
 
-**III. FROM WHAT DOES THE UNITY OF GOD APPEAR?**
+## **III. From What Does the Unity of God Appear?**
 
 The unity of God is proven, in the first place, by the express testimony of Scripture. "Hear, O Israel, the Lord our God, is one God." "See now that I, even I, am he, and there is no God with me." "I am the First and the Last, and beside me there is no God." "We know that an idol is nothing in the world, and that there is none other God but one." "There is one God, and one Mediator between God and man, the man Christ Jesus." (Deut. 6:4; 32:39. Is. 44:6. 1 Cor. 8:4. 1 Tim. 2:5.) See also Deut. 4:35. Ps. 18:31. Is. 37:16; 45:21. Hosea 13:4. Mal. 2:10. Mark 12:32. Rom. 3:20. Gal. 3:20., &c.
 
@@ -150,7 +147,7 @@ The use, or benefit, of this question is, that seeing there is but one God, we m
 
 Obj. But the Scriptures declare that there are many gods: "I have said, ye are gods." "There are gods many, and lords many." (Ps. 82:6. 1 Cor. 8:5.) Moses is also said to have been made a god to Pharaoh. (Ex. 7:1.) Yea, the devil is called the god of this world. (2 Cor. 4:4.) Ans. The word God is used in a double sense. Sometimes it signifies him who is God by nature, and has his being from none, but of and from himself. Such a Being is the living and true God. Then again it designates one who bears some resemblance to the true God in dignity, office, &c. Such persons are, 1. Magistrates and judges, who are called gods on account of their dignity, and the office which they bear in the name of God, as it is said, "By me kings reign." (Prov. 8:15.) As God, therefore, administers his government through magistrates and judges, as his vicegerents and servants upon the earth, he in like manner bestows upon them the honor of his own name by calling them gods, that those under them may know that they have to deal with God himself, whether they obey or resist the magistrate, according as it is said, "Whosoever resisteth the power, resisteth the ordinance of God." (Rom. 13:2.) 2. Angels are also called gods, in view of the dignity and excellency of their nature, power and wisdom, in which they greatly excel other creatures; and on account of the office which they exercise by divine appointment in defending the godly and punishing the wicked. "Thou hast made him a little lower than the gods," that is, the angels. "Are they not all ministering spirits." (Ps. 8:5. Heb. 1:14.) 3. The devil is called the god of this world, on account of the great power which he has over men, and other creatures, according to the just judgment of God. 4. There are many things which are called gods, in the opinion of men, who regard and worship certain things and creatures for gods. So idols are called gods, by imitation. "The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens." "Whose god is their belly." (Jer. 10:11. Phil. 3:19.) But here the question is in reference to the true God—to him who is God by nature, having his power from no one else, but from and by himself Such a being is one only.
 
-**IV. WHAT DO THE TERMS ESSENCE, PERSON, AND TRINITY SIGNIFY, AND IN WHAT DO THEY DIFFER FROM EACH OTHER?**
+## **IV. What Do the Terms Essence, Person, and Trinity Signify, and in What Do They Differ from Each Other?**
 
 Essence, from the Greek ουσια, signifies, as it is here used, a thing subsisting by itself—not sustained by another, although it may be communicated to more. That is said to be communicable, or communicated, which is common, or which may be communicated to many. That is incommunicable in which nothing else can participate. The essence of man is communicable, and common to many men, generically, but not individually. But the essence of God is communicable individually, because the Deity or nature of God is the same and entire in all the three persons of the Godhead.
 
@@ -172,7 +169,7 @@ This distinction of essence and person is, therefore, to be observed, that the u
 
 Trinity, from the Greek τζιας, signifies these three persons, distinct in three modes of being, or existing in one essence of the Deity. But Trinity and triplicity, trinal and triple differ. That is called triple which is composed of three essences—trinal is that which is but one in essence, having three modes of being or subsisting. God is, therefore, trinal, but not triple, because he is only one in essence, but three in persons, existing most simply.
 
-**V. IS IT PROPER THAT THE CHURCH SHOULD RETAIN THE TERMS, ESSENCE, PERSON, AND TRINITY?**
+## **V. Is It Proper that the Church Should Retain the Terms, Essence, Person, and Trinity?**
 
 Heretics, formerly, already opposed the use of these terms, because they are not found in the Scriptures. We, however, correctly retain the form of speech used by the church in her early and purer days, by holding fast to these terms:
 
@@ -204,7 +201,7 @@ From this agreement of the old and new testaments we know and prove that one God
 
 We must now prove, in reference to the three persons of the Godhead, that they are truly subsistents, against Samosatenus and Servetus; that they are distinct subsistents or persons, against Sabellius; that they are equal against, Arius, Eunomius, and Macedonius; and lastly that they are consubstantial or of the same essence against the same heretics. Concerning the person of the Father there is no controversy. And as to the objections which have been raised against the personality of the Son and Holy Spirit, we shall hereafter notice them in their proper place.
 
-**VII. HOW ARE THE THREE PERSONS OF THE GODHEAD DISTINGUISHED?**
+## **VII. How Are the Three Persons of the Godhead Distinguished?**
 
 We must here consider, first, what the Scriptures attribute as common to the three persons of the Godhead, the Father, the Son, and the Holy Ghost, which three are one God, and yet distinct in persons; secondly, what is ascribed to each one singly, as peculiar to him, and how the persons are distinguished from each other.
 
@@ -228,7 +225,7 @@ There is another distinction between the persons of the Godhead, arising out of 
 
 But when the Son and Holy Ghost are said to be sent, we must not understand it in the sense of a local motion, or as though it indicated a change in God himself; but it must be understood of his eternal will, and decree to accomplish something by the Son and Holy Ghost; and of the execution and manifestation of his will through the working of the Son and Holy Ghost. So the Son says that he was sent into the world by the Father—that he came down from heaven, and yet that he was in heaven, when he was upon the earth. So the Holy Spirit, although he existed before, and dwelt in the Apostles, yet it is said that he was sent upon them on the day of Pentecost. Each of these persons was, therefore, sent into the world, not because they began to exist where they did not exist before; but because they accomplished in the world what was the will of the Father, and showed themselves present and efficacious according to the will of the Father. Thus it is said, "God sent forth his Son made of a woman." "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father." (Gal. 4:4, 6.)
 
-**VIII. WHY IS IT NECESSARY THAT THE CHURCH SHOULD HOLD FAST TO THE DOCTRINE OF THE TRINITY**
+## **VIII. Why Is It Necessary that the Church Should Hold Fast to the Doctrine of the Trinity**
 
 This doctrine of the Trinity should be taught and maintained in the church: 1. On account of the glory of God, that he may thus be distinguished from idols, with whom he will not be confounded; and that he may be known and worshipped as such an one as he has revealed himself to be. 2. On account of our comfort and salvation; for no one is saved without a knowledge of God the Father. But the Father is not known without the Son. "No man hath seen God at any time; the only begotten Son which is in the bosom of the Father, he hath declared him." "Whosoever denieth the Son, the same hath not the Father." (John 1:18. 1 John 2:23.) Again, no man is saved without faith in the Son of God, our Mediator. "This is the true God, and eternal life." "How then shall they call on him in whom they have not believed, and how shall they believe in him of whom they have not heard?" (1 John 5:20. Rom. 10:14.) Likewise, no man is sanctified and saved without a knowledge of the Holy Spirit; for he who does not receive the Holy Spirit is not saved, according to the declaration of Scripture, "If any man have not the Spirit of Christ, he is none of his." (Rom. 8:9.) But no one receives the Holy Ghost who is ignorant of him, according as it is said, "Whom the world cannot receive, because it seeth him not, neither knoweth him." (John 14:17.) Wherefore, he who does not know the Holy Spirit cannot be saved. It is necessary, then, that all who will be saved, should have a knowledge of the one God, the eternal Father, the co-eternal Son, and the co-eternal Holy Ghost; for unless he is known as such an one as he has revealed himself, he does not communicate himself unto us, neither can we expect eternal life from him.
 
@@ -250,7 +247,7 @@ This doctrine of the Trinity should be taught and maintained in the church: 1. O
 
 8. No abstract term signifies substance. Trinity is such an abstract term. Therefore it signifies no substance. Ans. The major is false; for Deity, and humanity, are also abstract terms, and yet they signify substance.
 
-**NINTH LORD'S DAY**
+## **Ninth Lord's Day**
 
 ---
 [[Ursinus HC Q24|← Question 24. How are these articles divided?]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q26|Question 26. What believest thou when thou s →]]

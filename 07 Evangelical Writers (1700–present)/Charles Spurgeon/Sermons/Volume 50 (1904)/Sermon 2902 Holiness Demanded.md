@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Holiness Demanded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2902
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Holiness, without which no one shall see the Lord." Hebrews 12:14.
 
@@ -95,7 +92,7 @@ not follow it. I have been stirred in my heart to do what is right, but I go on 
 
 "He that believes and is baptized shall be saved"—that is, he shall be saved from his sins and delivered from his evil practices. He shall be made a new man in Christ Jesus by the power of the Spirit, received through the medium of his faith. Believe, poor Soul, that Christ is able to save you and He will do it! He will be as good as your faith and as good as His own word. May He now add His own blessing to the word I have spoken and to the people who have heard it for His own sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM32.
+## Exposition by C. H. Spurgeon: Psalm 32
 
 Verse 1. Blessed is he whose transgression is forgiven, whose sin is covered. The Lord can bless the man who is full of sin only when his sin is covered by the Atonement—the Propitiation—which hides his sin even from the sight of God! And he is a truly blessed who, although he knows himself to be a sinner, also knows that his sin is forgiven and covered.
 
@@ -118,7 +115,6 @@ compass me about with songs of deliverance. Selah. Surely if God has given us th
 10\. But he that trusts in the LORD, mercy shall compass him about He shall have mercy all round him. He who trusts his God shall find that the golden compasses of Divine Mercy shall strike a circle of gracious protection all round him—"mercy shall compass him about."
 
 11\. Be gladin the LORD, andrejoice, you righteous: and shout for joy, allyou that are upright in heart. Godly men ought to be glad men. They have a right to be happy. They recommend the Gospel when they are so and they are the true sons of the King of kings when they do not go mourning all their days.
-
 
 ---
 [[Sermon 2901 Mourning at the Cross|← #2901]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2903 Sleepers Awakened|#2903 →]]

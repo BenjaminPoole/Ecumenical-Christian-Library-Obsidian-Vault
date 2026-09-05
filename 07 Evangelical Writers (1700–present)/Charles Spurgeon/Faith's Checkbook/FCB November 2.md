@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 2
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HEAVENLY WEALTH**
+## **Heavenly Wealth**
 
 > No good thing will he withhold from them that walk uprightly" Ps. 84:11
 
@@ -27,7 +26,6 @@ Full assurance He will bestow, and near communion with Himself, and access into 
 But note well that we must "walk uprightly." There must be no cross purposes and crooked dealings; no hypocrisy nor deceit. If we walk foully God cannot give us favors, for that would be a premium upon sin. The way of uprightness is the way of heavenly wealth -- wealth so large as to include every good thing.
 
 What a promise to plead in prayer! Let us get to our knees.
-
 
 ---
 [[FCB November 1|← November 1]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 3|November 3 →]]

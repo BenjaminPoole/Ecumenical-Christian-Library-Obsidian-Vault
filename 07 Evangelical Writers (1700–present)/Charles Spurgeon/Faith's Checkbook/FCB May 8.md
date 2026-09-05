@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # May 8
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HELP WANTED**
+## **Help Wanted**
 
 > Go ye also into the vineyard; and whatsoever is right, that shall ye receive" Matt. 20:7
 
@@ -23,7 +22,6 @@ Yes, there is work in Christ's vineyard for old bodies. It is the eleventh hour,
 But will the Lord pay wages to worn-out old men? Do not doubt it. He says He will give you what is right if you will work in His field. He will surely give you grace here and glory hereafter. He will grant present comfort and future rest; strength equal to your day, and a vision of glory when the night of death comes on. All these the Lord Jesus will as freely give to the aged convert as to one who enters His service in his youth.
 
 Let me tell this to some unsaved old man or old woman, and pray the Lord to bless it, for Jesus sake. Where can I find such persons? I will be on the look-out for them, and kindly tell them the news.
-
 
 ---
 [[FCB May 7|← May 7]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB May 9|May 9 →]]

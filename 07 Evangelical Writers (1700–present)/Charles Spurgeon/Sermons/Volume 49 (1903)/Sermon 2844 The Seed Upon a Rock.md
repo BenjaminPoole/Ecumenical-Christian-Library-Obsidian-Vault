@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Seed Upon a Rock
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2844
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth: and when the sun was up, they were scorched; and because they had no root, they withered away." Matthew 13:5, 6.
 
@@ -105,7 +102,7 @@ I suggest to you this prayer, "Lord, show me the worst of my case. Put me in the
 
 The Lord hear that prayer, and bless every soul here now, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK9:14-32, 43-48.
+## Exposition by C. H. Spurgeon: Mark 9:14-32, 43-48
 
 Our Lord had been absent from the people and transfigured on the top of the mountain. When He came down from this manifestation of His Glory, He was brought face to face with Satan's work at almost the first step He took. Let us read about what He did.
 
@@ -148,7 +145,6 @@ There must be prayer and fasting. Even Christ, Himself, must exert the greatness
 47\. And if your eye offends you, pluck it out Notice how severe our Savior is, how deep He goes. He does not say, "Shut it, cover it up with a green shade," but, "Pluck it out."
 
 47, 48. It is better for you to enter into the Kingdom of God with one eye than having two eyes to be cast into Hell fire: where their worm dies not, and the fire is not quenched. That is the third time He has uttered those terrible words! Then they must mean something. What do they mean? Can they mean anything less than everlasting destruction from the Presence of the Lord? Oh, that we might be prepared to sacrifice everything rather than be lost forever! Dear Hearts, are you saved or not? If you are not saved, see first to this all-important business! Let everything else go sooner than that, in eternity, you should find yourself forever shut in where hope can never come!
-
 
 ---
 [[Sermon 2843 The Seed by the Wayside|← #2843]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2845 Lacking Moisture|#2845 →]]

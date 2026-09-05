@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 23
 
-**CHAPTER 23.**
+***Chapter 23.***
 
 ## Genesis 23:1-20
 

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 162. Matthew 20:1-16
-
-**Matthew 20:1-16**
 
 **1**. For the kingdom of heaven is like a householder, who went out at break of day to hire laborers into his vineyard. **2**. And having made an agreement with the laborers for a penny a day, he sent them into his vineyard. **3**. And having gone out about the third hour, he saw others standing idle in the market-place. **4**. And he said to them, Go you also into the vineyard, and whatever shall be right I will give you. **5**. And they went away. And again he went out about the sixth and ninth hour, and acted in the same manner. **6**. And about the eleventh hour he went out, and found others standing idle, and said to them, Why stand you here all the day idle? **7**. They say to him, Because nobody hath hired us. He saith to them, Go you also into the vineyard, and you will receive what shall be right. **8**. And when the evening was come, the master of the vineyard saith to his steward, Call the laborers, and pay them their hire, beginning with the last even to the first. **9**. And when they came who had come about the eleventh hour, they received every man a penny. **10**. And they who had come first thought that they would receive more, and they also received every man a penny. **11**. And when they had received it, they murmured against the householder, **12**. Saying, These last have been but one hour at work, and thou hast made them equal to us, who have endured the burden of the day and the heat. **13**. But he answering one of them, said, Friend, I do thee no wrong: didst not thou agree with me for a penny? **14**. Take what is thine, and go away: and I intend to give to this last as much as to thee. **15**. Is it not lawful for me to do what I will with my own property? Is thy eye evil, because I am good? **16**. So the last shall be first, and the first shall be last: for many are called, but few are chosen.
 

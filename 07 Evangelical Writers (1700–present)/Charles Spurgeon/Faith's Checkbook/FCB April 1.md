@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 1
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE KING'S HIGHWAY**
+## **The King's Highway**
 
 > The wayfaring men, though fools, shall not err therein" Isa. 35:8
 
@@ -23,7 +22,6 @@ The way of holiness is so straight and plain that the simplest minds cannot go a
 Let the reader never for a moment attempt to help himself out of a difficulty by a falsehood, or by a questionable act; but let him keep in the middle of the high road of truth and integrity, and he will be following the best possible course. In our lives we must never practice circular sailing, nor dream of shuffling. Be just and fear not. Follow Jesus and heed no evil consequences. If the worst of ills could be avoided by wrong-doing, we should, in the very attempt, have fallen into an evil worse than any other ill could be. God's way must be the best way. Follow it though men think you a fool, and you will be truly wise.
 
 Lord, lead thy servants in a plain path because of their enemies.
-
 
 ---
 [[FCB March 31|← March 31]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 2|April 2 →]]

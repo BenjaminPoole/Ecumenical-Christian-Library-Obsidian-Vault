@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/02
 ---
-
 # Turn or Burn
 
 *New Park Street Pulpit* · Sermon No. 106
@@ -75,8 +74,7 @@ And there confess my sin.
 
 Oh! what would I give if one of my hearers should be blessed by God to go home and repent! If I had worlds to buy one of your souls, I would readily give them, if I might but bring one of you to Christ. I shall never forget the hour when I hope God’s mercy first looked on me. It was in a place very different from this, amongst a despised people, in an insignificant little chapel, of a peculiar sect. I went there bowed down with guilt; laden with transgression. The minister walked up the pulpit stairs, opened his Bible, and read that precious text, “Look unto me, and be ye saved, all the ends of the earth; for I am God, and beside me there is none else;” and, as I thought, fixing his eyes on me, before he began to preach to others, he said, “Young man! look! look! look! You are one of the ends of the earth; you feel you are; you know your need of a Saviour; you are trembling because you think he will never save you. He says this morning, ‘Look!’” Oh, how my soul was shaken within me then! what! thought I, does that man know me, and all about me? He seemed as if he did. And it made me “look!” Well, I thought, lost or saved, I will try; sink or swim, I will run the risk of it; and in that moment I hope by his grace I looked upon Jesus, and though desponding, downcast, and ready to despair, and feeling that I could rather die than live as I had lived, at that very moment it seemed as if a young heaven had had its birth within my conscience. I went home, no more cast down; those about me, noticing the change, asked me why I was so glad, and I told them that I had believed in Jesus, and that it was written, “There is therefore now no condemnation to them that are in Christ Jesus, who walk not after the flesh, but after the Spirit.” Oh! if one such should be here this morning! Where art thou, thou chief of sinners, thou vilest of the vile? My dear hearer, thou hast never been in the house of God perhaps these last twenty years; but here thou art, covered with thy sins, the blackest and vilest of all! Hear God’s Word. “Come, now let us reason together, though your sins be as scarlet, they shall be as wool, and though they be red like crimson, they shall be white than snow.” And all this for Jesus’ sake; all this for his blood’s sake! “Believe in the Lord Jesus, and thou shalt be saved;” for his word and mandate is, “He that believeth and is baptized shall be saved; he that believeth not shall be damned.”
 
-SINNER! TURN OR BURN!
-
+## Sinner! Turn or Burn!
 
 ---
 [[Sermon 0105 Manasseh|← #105]] · [[Volume 02 (1856)|Volume 02 (1856) Contents]]

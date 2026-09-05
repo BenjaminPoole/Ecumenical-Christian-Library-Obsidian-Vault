@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # God's Own Gospel Call
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2092
 
-DELIVERED ON LORD'S DAY MORNING, JUNE 30, 1889,.
+*Delivered on Lord's Day Morning, June 30, 1889*
 
 > "Incline your ear and come unto Me: hear and your soul shall live. And I will make an Everlasting Covenant with you, even the sure mercies of David." Isaiah 55:3.
 
@@ -178,7 +177,6 @@ Mercy, in Bunyan's "Pilgrim's Progress," laughed when she saw what the Lord was 
 Yes, I shall do it, by His Grace. And so shall all of you who now believe the promise of our faithful God. May His sweet Spirit gently lead you to Himself! And if it is so, "it shall be to the Lord for a name." He will get a great reputation out of His great Grace. Even as a doctor wins a name by curing grievous diseases, they will tell it in Heaven that you are saved and throughout eternity angels and principalities in the heavenly places shall see in you a monument of Divine Grace, a trophy of all-conquering love.
 
 So may it be. And to the name of Jehovah, whose mercy endures forever, shall be glory and honor, world without end. Amen.
-
 
 ---
 [[Sermon 2091 Jesus Wept|← #2091]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2093 The Curse and the Curse for Us|#2093 →]]

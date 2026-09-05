@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## John 6:1-13
 

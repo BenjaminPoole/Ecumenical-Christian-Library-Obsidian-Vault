@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 147
-
-**PSALM 147**
 
 This Psalm also incites the people of God to praise him upon two accounts; first, for the display of his power, goodness, wisdom, and other perfections in the common government of the world, and the several parts of it, the heavens and the earth, but more particularly for his special goodness in cherishing and defending the Church which he has chosen of his free grace, in restoring it when fallen down, and gathering it when dispersed. [^1]
 

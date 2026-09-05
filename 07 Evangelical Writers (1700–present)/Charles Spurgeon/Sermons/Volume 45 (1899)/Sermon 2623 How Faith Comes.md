@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # How Faith Comes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2623
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And many ofthe Samaritans of that city believed on Him for the saying of the woman who testified, He told me all that I ever did. So when the Samaritans were come unto Him, they sought Him that He would tarry with them: and He abode there two days. And many more believed because of His own word; and said unto the woman, Now we believe not because of your saying: for we have heard Him ourselves, and know that this is, indeed, the Christ, the Savior of the world." John 4:39-42.
 
@@ -77,7 +74,7 @@ This kind of faith has grown beyond that which was at first exercised and it has
 
 The Lord give His blessing, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN4:1-42.
+## Exposition by C. H. Spurgeon: John 4:1-42
 
 Verses 1-6. When, therefore, the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John, (though Jesus Himself baptized not, but His disciples), He left Judea and departed again into Galilee. And He must needs go through Samaria. Then came He to a city of Samaria which is called Sychar, near to the parcel of ground that Jacob gave to his son, Joseph. Now Jacob's well was there. Jesus, therefore, being wearied with His journey, sat thus on the well: and it was about the sixth hour Do not be surprised, dear Brothers and Sisters, if you sometimes grow weary in the Lord's work. I trust that, even then, you will not be weary of it, but that you will believe that your blessed Master can still use even His tired servants and bless their labors. The Lord Jesus Christ worked great marvels even when He sat wearily on the brink of Jacob's well—and you, perhaps, are at this moment as fatigued and worn as you well can be—yet, will you not awaken all the energies of your soul if you should see an opportunity of doing good, even if it should be to some poor fallen woman, as in the case here mentioned? It is a blessed thing never to be too tired to pray and to never be too tired to speak to an anxious enquirer!
 
@@ -116,7 +113,6 @@ Verses 1-6. When, therefore, the Lord knew how the Pharisees had heard that Jesu
 33-35. Therefore said the disciples, one to another, Has any man brought Him anything to eat? Jesus said unto them, My meat is to do the will of Him that sent Me, and to finish His work Say not you, There are yet four months, and then comes harvest? Behold, I say unto you, Lift up your eyes and look on the fields for they are white, already, to harvest. That was probably an old Oriental proverb, used by lazy men who never thought it time to get to work, but Jesus said, "Do not use the idler's language any longer. Now, at once, there is work for you to do."
 
 36-42. And he that reaps receives wages, andgathers fruit unto life eternal: that both he that sows andhe that reaps may rejoice together And herein is that saying true, One sows, and another reaps. I sent you to reap that whereon you bestowed no labor: other men labored and you are entered into their labors. And many of the Samaritans of that city believed on Him for the saying of the woman, which testified, He told me all that I ever did. So when the Samaritans were come unto Him, they besought Him that He would tarry with them: and He abode there two days. And many more believed because of His own word and said unto the woman, Now we believe, not because of your saying: for we have heard Him, ourselves, and know that this is, indeed, the Christ, the Savior of the world. The Lord bring us all to trust in Him for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2622 Watching to See|← #2622]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2624 Secondhand|#2624 →]]

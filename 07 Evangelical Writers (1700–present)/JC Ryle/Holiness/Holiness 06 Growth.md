@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Growth
 
-Chapter VI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter VI · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ.* ”—2 Peter iii. 18.
 
@@ -132,7 +131,6 @@ Last, but not least, if we know anything of growth in grace, and desire to know 
 I leave the subject of growth in grace here. I trust I have said enough to set some readers thinking about it. All things are growing older: the world is growing old; we ourselves are grow-older. A few more summers, a few more winters, a few more sicknesses, a few more sorrows, a few more weddings, a few more funerals, a few more meetings, and a few more partings, and then— what? Why the grass will be growing over our graves!
 
 Now would it not be well to look within, and put to our souls a simple question? In religion, in the things that concern our peace, in the great matter of personal holiness, are we getting on? DO WE GROW?
-
 
 ---
 [[Holiness 05 The Cost|← The Cost]] · [[Holiness|Holiness Contents]] · [[Holiness 07 Assurance|Assurance →]]

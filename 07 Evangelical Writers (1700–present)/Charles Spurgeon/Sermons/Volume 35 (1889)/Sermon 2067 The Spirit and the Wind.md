@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Spirit and the Wind
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2067
-
-DELIVERED BY C. H. SPURGEON,.
 
 > John 3:8.
 
@@ -119,12 +116,11 @@ Do not expect the world to understand you. If you were of the world, the world w
 
 May the Spirit of God make you feel, experience, and enjoy this mystery by causing you to know the power of that gracious word, "And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whosoever believes in Him should not perish, but have eternal life"—if you believe in Jesus, if you look to Him, if you trust Him—if the Holy Spirit has given you faith, He has begun His work in you and He will carry it on and perfect it to the praise of His glory forever. May it be so, for Jesus' sake. Amen.
 
-LETTER FROM MR. SPURGEON
+## Letter from Mr. Spurgeon
 
 Dear Friends—"Sufficient unto the day is the evil thereof," and therefore I will not repeat any of the fears which naturally thrive around such a shock as I have received. The doctor says, "You may be well soon of that knee but do not deceive yourself by trying the brain till it has had a fair chance of recovery." I know what he means and I feel I must submit to be away from my delightful work till I can begin again without absolute folly.
 
 The good points of the whole matter are very many. The name of the Lord is prayed for the splendid way in which, in the sorrowful absence of both pastors, all the Church has stuck to its work and the blessing has not ceased. I am cheered and comforted by this. And I am sure that the Lord has some great design of love to answer by the heaped up coals of fire which have burned upon our hearth. He is good. As surely good in the dark as in the sunlight. All is well. Though He slay me, yet will I trust in Him. Perhaps by the way of bodily weakness may come increased spiritual strength. Love unbroken, from your suffering pastor, C. H. Spurgeon. Mentone, January 17, 1889.
-
 
 ---
 [[Sermon 2066 Our Place—at Jesus' Feet|← #2066]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2068 Nathanael—the Man Needed for the Day|#2068 →]]

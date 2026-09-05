@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Wordless Book
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3278
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Wash me, and I shall be whiter than snow." Psalm 51:7.
 
@@ -89,7 +86,7 @@ Perhaps some of you think you would be content with crumbs or bones from God's t
 
 So, Sinner, go to the great God with your great sin, and ask for great Grace that you may be washed in the great fountain filled with the blood of the great Sacrifice—and you shall have the great salvation which Christ has procured! And for it you shall ascribe great praise forever and ever to Father, Son and Holy Spirit. God grant that it may be so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM51.
+## Exposition by C. H. Spurgeon: Psalm 51
 
 It is a Psalm and, therefore, it is to be sung. It is dedicated to the Chief Musician and there is music in it, but it needs a trained ear to catch the harmony. The sinner with a broken heart will understand the language and also perceive the sweetness of it—but as for the proud and the self-righteous, they will say, "It is a melancholy dirge," and turn away from it in disgust. There are times, to one under a sense of sin, when there is no music in the world like that of the 51st Psalm! But it is music for the chief Musician, for "there is joy in the presence of the angels of God over one sinner that repents." And this is the Psalm of penitence—there is joy in it—and it makes joy even to the Chief Musician, himself!
 
@@ -113,7 +110,7 @@ voice of His loving kindness, that we "hear joy and gladness again." It is only 
 
 9\. Hide Your face from my sins. David could not bear that God should look upon them. [See Sermon #86, Volume 2—
 
-UNIMPEACHABLE JUSTICE.]
+## Unimpeachable Justice.]
 
 9\. And blot out all my iniquities. "Put them right out of sight. Turn Your gaze away from them and then put them out of everybody's sight."
 
@@ -136,7 +133,6 @@ UNIMPEACHABLE JUSTICE.]
 16-18. You delight not in burnt offering. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, You will not despise. Do good in Your good pleasure unto Zion. You see that the Psalmist loves the chosen people of God. With all his faults, his heart is right towards the kingdom under his charge. He feels that he has helped to break down Zion, and to do mischief to Jerusalem, so he prays, "Do good in Your good pleasure unto Zion."
 
 18, 19. Build You the walls of Jerusalem. Then shall You be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon Your altar. Once get your sin forgiven and then God will accept your sacrifices. Then bring what you will with all your heart, for an accepted sinner makes an accepted sacrifice through Jesus Christ!
-
 
 ---
 [[Sermon 3277 Good Cheer From Christ's Call and From Himself|← #3277]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3279 'Ever This Our War Cry—victory, Victory!'|#3279 →]]

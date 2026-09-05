@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Taking Possession Of Our Inheritance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2086
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 12, 1889,.
+*Delivered on Lord's-Day Morning, May 12, 1889*
 
 > "Moses My servant is dead. Now therefore arise, go over this Jordan, you and all this people, unto the land which I do give to them, even to the children of Israel. Everyplace that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses." Joshua 1:2,3.
 
@@ -162,7 +161,6 @@ And on the Cross He shed His blood
 From sin to set me free."
 
 This will be a blessed morning for you if you can not only sing it, but carry it out at once by a simple faith in our living, risen, reigning Savior. God bless you, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2085 A Dirge for the Down-grade and a Song For Faith|← #2085]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2087 Grace For Grace|#2087 →]]

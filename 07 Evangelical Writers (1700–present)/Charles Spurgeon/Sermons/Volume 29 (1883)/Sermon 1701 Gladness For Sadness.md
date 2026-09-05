@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Gladness For Sadness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1701
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 14, 1883,.
+*Delivered on Lord's-Day Morning, January 14, 1883*
 
 > "Make us glad according to the days in which You have afflicted us, and the years in which we have seen evil. Let Your work appear to Your servants, and Your glory to their children. And let the beauty of the Lord our God be upon us, and establish the work of our hands for us; yes, establish the work of our hands." Psalm 90:15-17.
 
@@ -148,7 +147,6 @@ Meanwhile, I beg you to take a deep interest in it and do all you can for its pr
 Who knows? Only let us carefully watch the present and see that nothing declines. Let each one be eager to keep the sacred cause in a healthy condition. God will establish His work upon us from day to day—and this shall be our comfort. Keep everything in the best possible working order! Plead with the Holy Spirit to clothe us with His power. Maintain all forms of holy labor vigorously and sustain every fund by your spontaneous liberality. Never need pressing, but let each one enquire, "What can I do to keep the Church well supplied to God's glory?" I believe this is the way to Church comfort. God will comfort Zion; He will comfort all her waste places! But we must, each one, take pleasure in her stones and favor the dust thereof.
 
 Close up your ranks! Leave no empty spaces. Let every man stand closer to his fellow—and then—"Forward!" Forward to a fuller consecration and a braver faith in God! Forward to more Grace and higher holiness! And so shall we wipe away our tears and praise the name of the Lord! And He will remember us and, by a plenitude of blessing, make up to us all that we have lost. A blessing is coming! Be ready for it! Amen.
-
 
 ---
 [[Sermon 1700 A Monument for the Dead, and a Voice to the Living|← #1700]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1702 On Laying Foundations|#1702 →]]

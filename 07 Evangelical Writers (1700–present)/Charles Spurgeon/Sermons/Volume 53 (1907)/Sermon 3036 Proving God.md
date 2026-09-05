@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Proving God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3036
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Prove Me now." Malachi 3:10.
 
@@ -102,7 +99,6 @@ Do this, my Beloved, and you will not be gone long before you will be able to si
 "I'm forgiven, I'm forgiven! I'm a miracle of Grace."
 
 Now, do not stand still and say, "God will not hear such an one as I am. My disease is too bad for Him to cure." Go and see, put your hand on the hem of His garment and then if the blood is not staunched, go and tell the world that you have proved God wrong. Go and tell it, if you dare. But oh, you cannot. If you touch the hem of His garment, I know what you will say—"I have tasted that the Lord is gracious. He said, 'Trust in Me, and I will deliver you.' I have trusted in Him and He has delivered me!" For the promise will always have its fulfillment. "Prove Me now," says God.
-
 
 ---
 [[Sermon 3035 Enquiring the Way to Zion|← #3035]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3037 Christians Kept From Sin|#3037 →]]

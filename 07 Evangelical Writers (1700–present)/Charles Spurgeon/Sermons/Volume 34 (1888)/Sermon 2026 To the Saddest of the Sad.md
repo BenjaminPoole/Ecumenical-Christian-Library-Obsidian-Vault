@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # To the Saddest of the Sad
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2026
@@ -69,10 +68,9 @@ Once more. As I told you in the reading, I greatly admire this chapter. I cannot
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Exodus 4:31 to 6:14.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’397, 540, 502.
+## Hymns from "Our Own Hymn Book"’397, 540, 502
 
 * Since this sermon was preached, brother Bilborough has gone to his reward.
-
 
 ---
 [[Sermon 2025 The Tender Enquiry of a Friend|← #2025]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2027 The Sluggard's Farm|#2027 →]]

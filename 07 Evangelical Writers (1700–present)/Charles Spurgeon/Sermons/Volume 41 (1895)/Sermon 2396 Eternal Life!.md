@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Eternal Life!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2396
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is life eternal, that they might know You, the only true God, and Jesus Christ, whom You have sent." John 17:3.
 
@@ -95,7 +92,7 @@ But keep yourselves from all other idols—from the idols of your own brain, fro
 
 Verily, I say unto you, there are many who worship their children and set them up as little gods! And when they are taken away from them, as they will be when they worship them, then they cry out against God most bitterly. How could they think that God would allow the little Dagons to be set up in His place? It must be God first, God last, God midst, and God, without end! May He make it so with us that, from now on, we shall have this eternal life which consists in knowing the only true God, and Jesus Christ whom He has sent! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM27.
+## Exposition by C. H. Spurgeon: Psalm 27
 
 Verse 1. The LORD is my light and my salvation; whom shall I fear? If all your light comes from the Father of Lights, with whom is no variableness, neither shadow of turning, you need not be afraid of losing your light! "The Lord is my light and my salvation." If your salvation comes from the God of Salvation, if it is worked out by the Savior, our Lord Jesus Christ, you need not be afraid that you will ever be robbed of that salvation—and you may confidently sing, "Jehovah is my light and my salvation; whom shall I fear?"
 
@@ -119,7 +116,7 @@ David desired not only that he might dwell in God's House, but that he might spe
 
 6\. And now shall my head be lifted up above my enemies round about me: therefore will I offer in His tabernacle sacrifices ofjoy; I will sing, yes, I will sing praises unto the LORD. If an ungodly man's head were lifted up above His enemies, he would begin to denounce them and to curse them. But when a Believer's head is thus lifted up, he begins to praise his God. Then are his songs louder and sweeter than they ever were before! "I will sing, yes, I will sing praises unto the
 
-LORD."
+## Lord."
 
 7\. Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me. I thought you were going to sing, David, but you are at prayer, I see. This is how we live spiritually—we breathe in the air by prayer, and we breathe it out by praise! This is the holy respiration of a Christian's life! Prayer and praise must be mingled in a divinely wise proportion and then they make a sweet incense, acceptable to God. I hope we can say that we have never finished praying but that we feel we must begin singing, and that we have never finished singing but that we must begin praying! What a blessed interchange this makes for the whole of life! "I will sing, yes, I will sing praises unto the Lord. Hear, O Lord, when I cry with my voice: have mercy, also, upon me, and answer me."
 
@@ -144,7 +141,6 @@ LORD."
 14\. Be of good courage and He shall strengthen your heart: wait, I say. David says it from his own experience and thus, as it were, puts his name and seal at the end of the Psalm—"Wait, I say"—
 
 14\. On the LORD. Everyone who has ever proven the power of prayer may use the same words as David did! The preacher certainly does and with the Psalmist, he exclaims, "Wait, I say, on the Lord."
-
 
 ---
 [[Sermon 2395 The Blessings of Public Worship|← #2395]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2397 Out of Darkness into Light|#2397 →]]

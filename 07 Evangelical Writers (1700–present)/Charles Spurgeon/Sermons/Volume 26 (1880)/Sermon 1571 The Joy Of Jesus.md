@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Joy Of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1571
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 5, 1880,.
+*Delivered on Sunday Morning, December 5, 1880*
 
 > "In that hour Jesus rejoiced in spirit and said, I thank You, O Father, Lord of Heaven and earth, that You have hid these things from the wise and prudent and have revealed them unto babes. Even so, Father, for so it seemed good in Your sight. All things are delivered to Me of My Father: and no man knows who the Son is, but the Father; and who the Father is, but the Son and He to whom the Son will reveal Him." Luke 10:21,22.
 
@@ -158,7 +157,6 @@ Next, learn that the Sovereignty of God is always exercised in such a way that t
 When the wind-up of all things shall come, there shall be no honor to any of us, nor would we desire it. But out of it all, out of the choice of each one and out of the Revelation made to each one, will come up, multiplied into a thousand thunders, the voice as of Christ in His whole mystical body, "I thank You, O Father." This shall be the song of Heaven concerning the whole matter—as well concerning the lost as the saved. "I thank You, O Father, Lord of Heaven and earth." There shall be no quibbling among the pure in heart, nor questions among the perfected spirits, but the whole family reviewing the whole of the Father's government—the hiding as well as the revealing, shall at the last say, Christ leading the utterance—"I thank You, O Father, Lord of Heaven and earth, that You have hid these things from the wise and prudent and have revealed them unto babes."
 
 Brothers and Sisters, let us learn our need of a personal revelation! Let us seek it if we have not yet received it! With a childlike spirit let us seek it in Christ, for only He can reveal the Father to us! And when we have it, let it be our joy that we see Him revealing it to others and let this be our prayer, that the God of Jacob would yet bring others unto Christ who shall rejoice in the Light of God that has made glad our eyes! The Lord be with you. Amen.
-
 
 ---
 [[Sermon 1570 The Lamentations of Jesus|← #1570]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1572 Untitled Sermon|#1572 →]]

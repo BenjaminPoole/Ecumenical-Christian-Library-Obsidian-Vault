@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Faithful Olive Tree
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3208
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The trees once went forth on a time to anoint a king over them; and they said unto the olive tree, Reign over us. But the olive tree said to them, Should I cease giving my oil, wherewith by me they honor God and man, and go to be promoted over the trees?" Judges 9:8,9.
 
@@ -138,7 +135,6 @@ Then let us yield more oil and bear more fruit. He who gains largely is all the 
 Lastly, let us feel the more content and speak the more lovingly of our gracious state, that none may dare to entice us. When Satan sees us happily established, he will have the less hope of overthrowing us.
 
 I have been preaching some practical Truths of God which may not be quite as sweet to you as if I were preaching the precious Doctrines of the Gospel, but these Truths are needed for the strengthening of the soul in times of trial. I pray the Lord to help you to be strong in Him and to stand fast in the faith. Do not go away from the Truths of God that make you spiritually fat and flourishing. Do not turn aside from the Christ who makes you strong. Do not depart from the fellowship with Him that makes you holy and useful. Abound in prayer, abide in communion with Christ and let not the prospect of the most glittering life tempt you to turn away even an inch from your Lord and Master, but may His Divine Spirit keep you true to Him throughout the whole of your life—and to Him shall be the praise and glory forever and ever! Amen.
-
 
 ---
 [[Sermon 3207 Secret Disciples Encouraged|← #3207]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3209 The Priceless Prize|#3209 →]]

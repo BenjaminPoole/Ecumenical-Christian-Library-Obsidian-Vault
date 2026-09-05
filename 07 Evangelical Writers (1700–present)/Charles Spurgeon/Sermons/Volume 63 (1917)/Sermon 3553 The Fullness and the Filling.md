@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # The Fullness and the Filling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3553
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And ofHis fullness have we all received, and Grace for Grace" John 1:16.
 
@@ -47,7 +44,7 @@ And never forget that a fullness of the Holy Spirit abides in Christ. The Lord g
 
 His fullness! I linger on the word, for I revel in the meditation. Such a fullness as admits of no diminution, for it is an abiding fullness! What though all the saints of every age have come to Christ, and drawn their supplies from Him, He is just as full as ever! Think not that those who first came drank of a copious fountain that has been partly drained by the myriads who have since slaked their thirst. The Apostles received of His fullness and so do we! They without prejudice to us—we without prejudice to those who shall follow after us. When I came to Christ 1800 years after the Apostles came, yet I received of the fullness at just the same rate as when Peter, John, or Paul received it. Should this dispensation last another thousand years, and some poor, trembling wretch should come to the foot of the Cross to receive mercy, he will not receive Christ half-full, but He shall receive of Christ's fullness, for it is an abiding fullness! It is never less than full— never can be more than full. In Him there is an Infinity of Grace and Truth. Such fullness is there in Him at all times, under all your circumstances of trial, yes, and under all conditions of sin, too! The fullness of Christ to supply will always exceed the faith of the Believer to seek. And when you feel your emptiness more than you ever did before, then you will set the most store upon His abounding towards us in all wisdom and prudence. Considering, then, His abiding fullness, His inexhaustible fullness, His available fullness, I entreat you to avail yourself of this fullness now without demur, without delay! As there is a fullness, so there is—
 
-II. A FILLING.
+## II. A Filling
 
 This is to be our second part. I must speak of it with brevity. "Of His fullness have we all received." Surely, then, all the saints were empty before! You are empty, my Brother, and so was Abraham, so was Paul. Grace, the free Grace of God, has made all the difference between Peter and Judas, though the one repented and the other despaired—the one traveled the heavenly road—the other went down quickly to Hell. They stood on equal footing in transgression, till Grace made them to differ! What radical difference is there between one man and another from a legal point of view?
 
@@ -76,7 +73,6 @@ Now that is just how God has done with me, and I believe He is doing the same wi
 "Grace for Grace!" Does it not mean Grace from Him to produce Grace in us We receive from the fullness of Christ, of His Grace, in order that it may be a living seed that shall produce Grace in us as its natural fruit! The Grace of gratitude should be produced in us by the Grace of generosity from God. We ought to be gracious with a holy joyfulness for all His goodness. I hope we shall have the Grace of patience under all sufferings and the Grace of zeal in all our labors. At a time like this, my Brothers and Sisters, when we are seeking the conversion of sinners with special efforts, may we have Grace from Jesus that shall make all the Graces fruitful and fragrant in us! So shall we be to the Savior as a garden of olives and pomegranates, of lilies and sweet flowers—and may He take a delight in us! When Cyrus took the Greek Ambassador through his garden, he challenged him to admire its charms. The Spartan approved all he saw, but still his admiration was cool and critical. "This garden," said its master, "yields me more pleasure and satisfaction than you can imagine, or I can express." "And why?" asked the visitor. "Because," replied Cyrus, "I planted every tree in it myself. I planned all the paths and all the flowers have I reared. No hand but mine has dug the soil, tended the plants, pruned the trees, or done anything but my own." As toil and his trouble thus endeared the place to the king, so, truly, Christ can say when He looks upon His people, "There is a fruitful branch there—I pruned that. He was sick, long laid aside from business. He feared his family would be starved—I was pruning him, then, but I love the fruit that is on him because I know how it came there. That plant yonder which is blooming now and shedding such a sweet perfume of love, well do I recollect when it was drooping and ready to die. I came and watered it. She, timid disciple, would say, 'Blessed be the gentle hand that shed the dew and poured nourishment on my poor, parched and withered root!'" Yes, the Savior gives us "Grace for Grace" that we may produce Grace! I leave the thought with you for meditation, and the issues for your edification, only praying that His Holy Spirit may work in you "Grace for Grace."
 
 Oh, that all of you might receive Grace from Him. You will never get Grace anywhere else! Go to Him at once by faith, with humble prayer. Plenteous Grace with Him is found—all the Grace you shall ever require between now and Glory, you shall find stored up in Him! His Grace is our benediction. Of it may you one and all partake! Amen.
-
 
 ---
 [[Sermon 3552 The Soul's Desertion|← #3552]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3554 Our Magnificent Savior|#3554 →]]

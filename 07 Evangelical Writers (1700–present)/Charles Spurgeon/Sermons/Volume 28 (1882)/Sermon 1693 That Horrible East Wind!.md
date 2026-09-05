@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # That Horrible East Wind!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1693
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "And let the peace of God rule in your hearts, to which you are also called in one body; and be you thankful." Colossians 3:15.
 
@@ -148,7 +147,6 @@ How grateful, I think, the wife should be to her husband, for all his labors and
 Surely the wind is changing a point or two—we shall find it blowing from another quarter when we leave this Tabernacle! I feel intense gratitude in my soul towards the dear Brothers who surround me and the Sisters that work with me for Christ. You have often made me happy and cheered my spirit by the kind and generous way in which you have worked with me for the Lord, bearing with all my infirmities. And I believe that it is because I feel thankful that I feel peaceful and so remain the center of your unity. I am not inclined to quarrel with anybody—I would sooner run a mile than I would fight for half a minute! There is nobody in the world that I would like to contend with—my heart is full of good wishes to all men! It has been a sort of rule with me to measure a man before I fight him—if he is bigger than I am, I know he will beat me, so I decline battle! And if he is smaller and I can easily beat him, it would be cruel and cowardly to do so.
 
 Nobody in the world is worth contending against as to our temporal interests. Even the necessary law is troublesome and vexatious. Be you thankful, then, and if, with thankfulness to God and thankfulness to those around you, you can fill up the day, oh, how happy will the days be! In the family and in the business, God will be glorified, the Church will be sweetened and welded together—we shall see better times and shall no longer grumble at the east wind! May God bless you!
-
 
 ---
 [[Sermon 1692 Without Carefulness|← #1692]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1694 The Use of the Bow|#1694 →]]

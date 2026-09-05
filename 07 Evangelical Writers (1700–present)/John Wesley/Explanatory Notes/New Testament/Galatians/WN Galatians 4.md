@@ -26,7 +26,7 @@ tags:
 
 **6.** And because ye - Gentiles who believe, are also thus made his adult sons, God hath sent forth the Spirit of his Son into your hearts likewise, crying, Abba, Father - Enabling you to call upon God both with the confidence, and the tempers, of dutiful children. The Hebrew and Greek word are joined together, to express the joint cry of the Jews and gentiles.
 
-**7.** Wherefore thou - Who believest in Christ. Art no more a servant - Like those who are under the law. But a son - Of mature age. And if a son, then an heir of all the promises, and of the all- sufficient God himself.
+**7.** Wherefore thou - Who believest in Christ. Art no more a servant - Like those who are under the law. But a son - Of mature age. And if a son, then an heir of all the promises, and of the all-sufficient God himself.
 
 **8.** Indeed then when ye knew not God, ye served them that by nature - That is, in reality. Are no gods - And so were under a far worse bondage than even that of the Jews. For they did serve the true God, though in a low, slavish manner.
 

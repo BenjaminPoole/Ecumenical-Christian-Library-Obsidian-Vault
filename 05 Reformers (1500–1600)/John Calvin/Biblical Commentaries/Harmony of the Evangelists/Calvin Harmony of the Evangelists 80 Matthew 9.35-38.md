@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 80. Matthew 9:35-38
-
-**MATTHEW 9:35-38**
 
 **35**. And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and curing every disease and every sickness among the people. **36**. And when he saw the multitudes, he was moved with compassion towards them, because they were destitute and scattered, as sheep not having a shepherd. **37**. Then he saith to his disciples, The harvest is indeed abundant, but the laborers are few. **38**. Pray therefore to the Lord of the harvest, to send forth laborers into his harvest.
 

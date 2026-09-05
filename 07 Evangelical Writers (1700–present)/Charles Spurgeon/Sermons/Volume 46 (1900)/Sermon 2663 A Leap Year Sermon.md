@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # A Leap Year Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2663
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "One born out of due time." 1 Corinthians 15:8.
 
@@ -111,7 +108,7 @@ And, lastly, Paul proved that he was a true citizen of the New Jerusalem because
 
 Pray for this, dear Christian people. Pray for it tonight when you reach your homes as well as now! And then we shall have special reason to remember this 29th of February. Possibly, someone who will, in days to come, stand on this very spot preaching the Gospel of Jesus Christ, will say to you, "Do you remember the 29th of February, 1880? Do you remember the text, 'One born out of due time'?" I trust that some of you will be here to hear him say, "I remember it better than any of you do, for that was the night when I was born to God, glory be to His holy name!" Now pray for it with all your hearts, for our Lord Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN3:1-18.
+## Exposition by C. H. Spurgeon: John 3:1-18
 
 If you were sent for to visit a dying man and you wished to select a chapter which would set the Truth of God before him very briefly and very clearly, you could not make a better choice than this 3rd Chapter of the Gospel according to John. So, as we are all dying men and women, let us read it with that same desire—and may the Holy Spirit apply it to our hearts as we read it.
 
@@ -136,7 +133,6 @@ Verses 1, 2. There was a man of the Pharisees named Nicodemus, a ruler of the Je
 13\. And no man has ascended up to Heaven, but He that came down from Heaven, even the Son of Man which is in Heaven. He alone knows the secrets of God who has been with God, who has come from God, and who is still with God.
 
 14-18. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whoever believes in Him should not perish, but have eternal life. For God so loved the world, that He gave His only-begotten Son, that whoever believes in Him should not perish, but have everlasting life. For Godsent not His Son into the world to condemn the world; but that the world through Him might be saved. He that believes on Him is not condemned: but he that believes not is condemned already, because he has not believedin the name ofthe only-begotten Son of God. God give us, even now, deliverance from condemnation through faith in His dear Son—and prevent our being condemned through our unbelief—for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2662 Some Marks of God's People|← #2662]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2664 Things Unknown|#2664 →]]

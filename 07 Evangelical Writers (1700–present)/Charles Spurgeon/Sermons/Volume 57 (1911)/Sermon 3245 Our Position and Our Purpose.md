@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Our Position and Our Purpose
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3245
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God." 2 Corinthians 7:1.
 
@@ -99,7 +96,7 @@ of God calls His saints to come out and be separate from such, but when once the
 
 The Lord bless you, dear Friends, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 PETER 1:1-8.
+## Exposition by C. H. Spurgeon: 2 Peter 1:1-8
 
 Verse 1. Simon Peter, a servant and an Apostle of Jesus Christ Peter was pleased to be able to write those words. There was a time when he had thrice denied his Master, but now he is glad to call himself, "a servant of Jesus Christ." Once he had said, "I know not the Man," but now he claims that he has been sent out by that glorious Lord to be His Apostle—a sent one—"a servant and an Apostle of Jesus Christ." Probably he had ringing in his ears at that moment, those blessed words, "Feed My sheep. Feed My lambs." And he was going to do that work again in this, his second general Epistle.
 
@@ -120,7 +117,6 @@ great and precious promises." It is that we may become morally and spiritually l
 5, 6. Add to your faith virtue; and to virtue knowledge; and to knowledge temperance. It is ignorance that is intemperate and rash.
 
 6-8. And to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity. For if these things are in you, and abound, they make you that you shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ What Christian ever wishes to be barren or unfruitful? Is it not the aspiration of every branch in the true vine to bring forth much fruit?
-
 
 ---
 [[Sermon 3244 'Our Light Affliction'|← #3244]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3246 God's Thoughts and Ours|#3246 →]]

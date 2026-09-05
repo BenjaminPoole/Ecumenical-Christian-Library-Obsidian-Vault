@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Prepared to Meet God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2965
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore thus will I do unto you, O Israel: and because I will do this unto you, prepare to meet your God, O Israel." Amos 4:12.
 
@@ -111,7 +108,7 @@ From sin's tremendous curse and shame." But if you have not been absolved by the
 
 Crouch at His feet! Bow down before those dear feet that were nailed to the Cross! Look up to the hands that still bear the nail prints! Gaze upon the face that once was stained with spittle, but now shines beyond the light of the sun! Look upward to that brow which once was crowned with thorns! Hide yourself in that cleft in His side where the spear made an open way to the heart of Jesus! In a sentence, rest in His atoning Sacrifice, for there is nothing else in which you can rest! May the Lord enable you to do so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: AMOS5:4-27.
+## Exposition by C. H. Spurgeon: Amos 5:4-27
 
 Verse 4. For thus says the LORD unto the house of Israel, Seek you Me, and you shall live. And that is just the message of God to professing Christians now—"Seek you Me." Get away from your mere ceremonies, from trusting in your outward performances—and get to God Himself. Get beyond your fellow worshippers and your ministers, beyond your sanctuaries and your supposed holy places—and get in spirit and in truth to God Himself! "Seek you Me, and you shall live."
 
@@ -140,7 +137,6 @@ Verse 4. For thus says the LORD unto the house of Israel, Seek you Me, and you s
 25\. Have you offered unto Me sacrifices and offerings in the wilderness forty years, O house of Israel? "Did you worship Me? Did you offer sacrifices to Me?" "No," said God, "you did not."
 
 26, 27. But you have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which you made to yourselves. Therefore will I cause you to go into captivity beyond Damascus, says the LORD, whose name is The God of Hosts. Oh, for pure worship! Oh, for pure living! Oh, for hearts that spiritually worship the Lord, for Jesus said, "God is a Spirit: and they that worship Him must worship Him in spirit and in truth: for the Father seeks such to worship Him." "But unto the wicked, God says, What have you to do to declare My statutes, or that you should take My Covenant in your mouth?"
-
 
 ---
 [[Sermon 2964 'Trust in the Living God'|← #2964]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2966 Resistance to Salvation|#2966 →]]

@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 3 on Ephesians
 
-Chapter I. Verses 15-20
+## Chapter I. Verses 15-20
 
 For this cause I also, having heard of the faith in the Lord Jesus, which is among you, and which you show toward all the saints, cease not to give thanks for you, making mention of you in my prayers; that the God of our Lord Jesus Christ, the Father of glory, may give unto you a spirit of wisdom and revelation in the knowledge of Him: having the eyes of your heart enlightened; that you may know what is the hope of His calling, what the riches of the glory of His inheritance in the saints, and what the exceeding greatness of His power to us-ward who believe, according to that working of the strength of His might, which He wrought in Christ, when He raised Him from the dead.
 

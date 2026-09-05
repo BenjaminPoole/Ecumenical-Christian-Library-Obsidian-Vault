@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Isaiah 3:1-26
 

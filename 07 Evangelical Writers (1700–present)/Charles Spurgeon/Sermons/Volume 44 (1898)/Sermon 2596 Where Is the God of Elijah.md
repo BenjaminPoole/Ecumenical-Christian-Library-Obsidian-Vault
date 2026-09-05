@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Where Is the God of Elijah?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2596
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he took the mantle of Elijah that fell from him, and struck the water and said, Where is the LORD God of Elijah? And when he also had struck the water, it was divided this way and that, and Elisha crossed over." 2 Kings 2:14.
 
@@ -77,7 +74,7 @@ Now I want you, dear Friends, to feel that your great need in dying is to have "
 
 You see, dear Friends, that the time has gone, though I have only been able to speak upon the first part of my subject. So you must come another time for the second part, if the Lord wills.
 
-EXPOSITION BY C. H. SPURGEON: 1 KINGS 17.
+## Exposition by C. H. Spurgeon: 1 Kings 17
 
 Verse 1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Load God of Israel lives, before whom I stand, there shall not be dew nor rain these years, but according to my word. How abruptly this man breaks in upon the scene! He leaps like a lion from the thicket. There is no previous announcement of his coming, but here he stands, God's own man ordained to bear witness in evil times—to stand like a bronze pillar when everything around him seems to be moving from its place! Ahab had not been accustomed to be spoken to in this fashion. Mark how personal is Elijah's message. He does not begin even by saying, as the Prophets usually did, "Thus says the Lord." There is something that at first seems almost audacious about his expression—"There shall not be dew nor rain these years, but according to my word." A man may sometimes seem sell-assertive when, really, he has so completely lost himself in God that he does not care what people think about him, whether they regard him as an egotist or not. Some men appear to be modest because they are proud, while others seem to be proud because they have sunk themselves and only speak so boldly because they have their Master's authority at the back of their words. Bravely did Elijah say, "There shall not be dew nor rain these years, but according to my word."
 
@@ -116,7 +113,6 @@ Verse 1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unt
 22, 23. And the LORD heard the voice ofElijah; and the soul ofthe child came into him, again, andhe revived. And Elijah took the child and brought him down out ofthe chamber into the house, and delivered him unto his mother: and Elijah said, See, your son lives. Elijah was never a man of many words. He was a Prophet mighty in deeds. He said little, but what he did, spoke loudly.
 
 24\. And the woman said to Elijah, Now by this Iknow that you are a man of God, and that the Word ofthe LORD in your mouth is truth. Did she not know this before? Yes, or else she would not have given him the first portion of her meal. She must have known it, for she had been living for a long time upon the meal and the oil which he had multiplied. But now she said that she knew it, as if she had never known it before. God has a way of bringing His Truth home to the heart with such vividness that, though we have been perfectly acquainted with it for years, yet we are compelled to cry, "Now I know it! Now I have it as I never had it before! Now I grasp it and embrace it with my very soul!" May we all know the Truth of God in this grand fashion! Amen.
-
 
 ---
 [[Sermon 2595 What the Lord's Supper Sees and Says|← #2595]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2597 A Prayer for Everybody|#2597 →]]

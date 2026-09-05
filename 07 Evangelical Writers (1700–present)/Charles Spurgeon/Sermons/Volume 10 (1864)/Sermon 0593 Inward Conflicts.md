@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Inward Conflicts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 593
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 9, 1864,.
+*Delivered on Sunday Morning, October 9, 1864*
 
 > "Return, return, O Shulamite; return, return, that we may look upon you. What will you see in the Shulamite? As it were the company of two armies. Song of Solomon 6:13.
 
@@ -164,7 +163,6 @@ Just anticipate for a moment the glory of the victory! You shall be free from si
 "To wrestle hard as we do now, With sins and doubts and fears." Come, anticipate that triumph and pluck up courage! Go forth, all you servants of God, as Barak went against Sisera, and the day shall come when your foes shall be swept away! That river of death shall do for your enemies what the Kishon did for Jabin—it shall sweep them away forever! Standing by the Red Sea of the atoning sacrifice, you shall sing unto the Lord who has triumphed gloriously and cast the horse and the rider into the depths of the sea.
 
 I have preached, this morning, especially for the comfort of those who are thus exercised and who are saying, "If it is so, why am I thus?" You will now see that instead of having cause for distress in all these conflicts, you have only a reason to come to Christ again. Come to Jesus again! Look up to Him once more and take Him today to be your Savior and your All. Put your case into His hands! Trust Him and you shall be more than conquerors through Him who loved you. Trust Him! Trust Him now and we will meet in Heaven at last to sing His praises forever! Amen.
-
 
 ---
 [[Sermon 0592 The True Position Of Assurance|← #592]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0594 An Awful Premonition|#594 →]]

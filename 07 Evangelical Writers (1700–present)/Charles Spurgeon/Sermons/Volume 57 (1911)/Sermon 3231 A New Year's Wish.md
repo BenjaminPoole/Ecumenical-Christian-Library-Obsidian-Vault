@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # A New Year's Wish
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3231
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But my God shall supply allyour need according to His riches in Glory by Christ Jesus." Philippians 4:19.
 
@@ -77,7 +74,7 @@ V. Now let us close our meditation by considering THE GLORIOUS CHANNEL by which 
 
 All this year I pray that you may abide by the well of this text. Draw from it. Are you very thirsty? Draw from it, for it is full! And when you plead this promise, the Lord will supply all your need! Do not cease receiving from God for a minute. Let not your unbelief hinder the Lord's bounty, but cling to this promise, "My God shall supply all your need according to His riches in Glory by Christ Jesus." I know not how to wish you a greater blessing. If you are enabled by the Holy Spirit to realize it, you will enjoy what I earnestly wish for you, namely— A HAPPY NEW YEAR!
 
-EXPOSITION BY C. H. SPURGEON: 2 KINGS 4:1-7; PHILIPPIANS 4.
+## Exposition by C. H. Spurgeon: 2 Kings 4:1-7; Philippians 4
 
 2 Kings 4:1. Now there cried a certain woman of the wives of the sons of the Prophets unto Elisha, saying, Your servant, my husband, is dead and you know that your servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen. It is sad for anyone to be in debt and yet there may be circumstances under which even a man who fears the Lord may die in debt and leave no provision for his wife and children except a large portion of sorrow. In the case of this poor widow, it was not long before she cried to Elisha, "The creditor is come." He generally does come pretty quickly and he had come to her to take away her two sons whom she needed to support her—to make them bondmen—slaves, to serve him for a certain number of years till their father's debt was worked out. And this hurt the poor woman's heart, so she came to see what the Lord's servant could do for her. She could not bear to see her sons taken away to serve as bondmen to a stranger through no fault of their own and, possibly, through no fault on their father's part.
 
@@ -162,7 +159,6 @@ haps, the jailer. They were evidently thoughtful and grateful people. They remem
 21, 22. The brethren which are with me greet you. All the saints salute you, chiefly they that are of Caesars house-hold.Exposed to the greatest perils and yet brave to confess Christ! They may have been nothing but poor kitchen maids, or they may have been among the Praetorian guards who watched and guarded the palace and the prisoners, but they must have their title set down in the letter, "chiefly they that are of Caesar's household."
 
 23\. The Grace of our Lord Jesus Christ be with you all. Amen.
-
 
 ---
 [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3232 Facts and Inferences|#3232 →]]

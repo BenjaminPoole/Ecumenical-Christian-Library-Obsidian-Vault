@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 13. Exodus 13
-
-**EXODUS 13**
 
 ## Exodus 13:17-22
 

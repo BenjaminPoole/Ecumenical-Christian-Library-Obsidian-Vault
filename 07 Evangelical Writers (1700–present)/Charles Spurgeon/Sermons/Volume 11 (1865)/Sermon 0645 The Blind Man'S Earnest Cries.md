@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Blind Man'S Earnest Cries
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 645
 
-DELIVERED ON SUNDAY MORNING, AUGUST 20, 1865,.
+*Delivered on Sunday Morning, August 20, 1865*
 
 > "And when he heard that it was Jesus of Nazareth, he began to cry out and say, Jesus, Son of David, have mercy upon me! And many charged him that he should hold his peace: but he cried the more a great deal, Son of David, have mercy on me." Mark 10:47,48.
 
@@ -117,7 +116,7 @@ Yes, but the worst is that even the disciples of Christ will act us these did in
 
 I do not doubt that Christian people, by their unprofitable criticisms upon ministrations which God has blessed, may mar the good work and be the instruments in the hands of Satan of urging poor sinners to cease their cry. But oh, poor Soul, let neither saint nor sinner make you stop! If you have begun to pray, though you have cried for months and no sweet answer of mercy has come, cry more loudly! Oh, be yet more earnest! Take the gates of Heaven and shake them with your zeal as though you would pull them up—post, and bar, and all! Stand at Mercy's door and take no denial. Knock and knock, and knock again, as though you would shake the very spheres, until you obtain an answer to your cries!
 
-"The kingdom of Heaven suffers violence and the violent take it by force." Cold prayers never win God's ear. Draw your bow with your full strength if you would send your arrow up as high as Heaven. He whom God has taught to be resolved to be saved will be saved. He that will not take damnation as his fate, but who feels he must have Christ, is al- ready under the Divine operation of the Holy Spirit! Such a man bears the marks of Divine election upon his very brow! Such a man must and shall obtain everlasting salvation!
+"The kingdom of Heaven suffers violence and the violent take it by force." Cold prayers never win God's ear. Draw your bow with your full strength if you would send your arrow up as high as Heaven. He whom God has taught to be resolved to be saved will be saved. He that will not take damnation as his fate, but who feels he must have Christ, is al-ready under the Divine operation of the Holy Spirit! Such a man bears the marks of Divine election upon his very brow! Such a man must and shall obtain everlasting salvation!
 
 V. I come to the closing point. This MAN'S IMPORTUNITY AT LAST BECAME SO MIGHTY THAT REBUFFS BECAME ARGUMENTS WITH HIM. "He cried the more a great deal." He took the weapons out of their hands and used them on his own account! What do you suppose were the arguments that they used to induce him to leave off praying? Would not one of them say, "Hold your tongue, you ragged, filthy beggar! Hold your tongue!" "That is why I will not hold my tongue," says he. "I am such a poor loathsome object that I have need to cry. You gentlemen that are better off have no need to cry as I have. But the worse you prove me to be, the more need I have of the Master's help! And therefore I shall cry the more."
 
@@ -140,7 +139,6 @@ Now I did solemnly ask God that He would, this morning, excite in some sinner a 
 There is peace to the soul that looks alone to Jesus! While I have been exhorting you to pray—and I meant to do it earnestly, more earnestly than I have been able to do it—I did not wish you to put praying in the place of believing. If you cannot as yet understand Christ so as to rest on Him. If you cannot as yet cast yourself on Him—then pray for more enlightenment! Pray to be led to faith. Pray that faith may be given you.
 
 But O may God give you the power and the will now, even now, to exert a living faith upon the crucified Savior— for there is "life in a look at the Crucified One." Praying will ultimately bring you to that point, but I pray God to bring you to it now through His mighty Spirit and so like Bartimaeus, may we receive our sight and follow Jesus in the way and to Jesus be the glory forever and ever. Amen.
-
 
 ---
 [[Sermon 0644 God'S Witnesses|← #644]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0646 In Whom Are You Trusting|#646 →]]

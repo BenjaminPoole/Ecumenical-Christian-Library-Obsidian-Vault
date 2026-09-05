@@ -24,7 +24,7 @@ tags:
 
 **6.** That the gentiles are joint-heirs - Of God. And of the same body - Under Christ the head. And joint-partakers of his promise - The communion of the Holy Ghost.
 
-**7.** According to the gift of the grace of God - That is, the apostle- ship which he hath graciously given me, and which he hath qualified me for. By the effectual working of his power - In me and by me.
+**7.** According to the gift of the grace of God - That is, the apostle-ship which he hath graciously given me, and which he hath qualified me for. By the effectual working of his power - In me and by me.
 
 **8.** Unto me, who am less than the least of all saints, is this grace given - Here are the noblest strains of eloquence to paint the exceeding low opinion the apostle had of himself, and the fulness of unfathomable blessings which are treasured up in Christ.
 

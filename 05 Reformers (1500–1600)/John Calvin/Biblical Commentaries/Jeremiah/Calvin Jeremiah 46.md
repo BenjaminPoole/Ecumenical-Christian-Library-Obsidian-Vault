@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 46
 
-**CHAPTER 46**
+***Chapter 46***
 
 ## Jeremiah 46:1-2
 
@@ -31,7 +30,7 @@ Let us now come to the Prophecy of Jeremiah. He says that he *prophesied against
 
 ## Prayer Lecture 164
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast been pleased to call us to the spiritual warfare, we may never be wearied; and that, as our weakness is so great that we are unequal to our conflicts, grant, that being supported by the power of thy Spirit, we may persevere in the course of thy holy calling, and never be broken down by anything that may happen to us, but learn so to break through all dangers as to commit our life into thy hands, and be in the meantime prepared to live or to die, until thou gatherest us into that blessed rest which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -123,7 +122,7 @@ He says that *the land was filled with their cry*: by voice or cry he means lame
 
 ## Prayer Lecture 165
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we see that the most opulent kingdoms have not escaped thy hand, we may learn to recumb only on thine aid, and to submit ourselves to thee, with due hu-milky, so that we may be protected by thy hand, and that this only true confidence may sustain us in all perils, that thou hast undertaken the care of our salvation; and that we may, in the meantime, fight under thy banner with sincerity and uprightness of life, until we shall at length enjoy the fruit of our victory, in the celestial kingdom, through Christ our Lord. — Amen.
 
@@ -227,7 +226,7 @@ But the Prophet says, *also,* גם*, gam, also mercenaries;* that is, not only t
 
 ## Prayer Lecture 166
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that when thou indulgest us, we may not abuse thy patience, nor become wanton in prosperity, but learn so to subdue ourselves of our own accord, that we may obey thee through the whole course of our life, and mortify our flesh, lest we be elated by pride and false confidence, but so live in thy fear as to reverence thee when we regard thee as the righteous Judge of the world, and recumb at the same time on thee, when we acknowledge thee as our Father, as thou hast been pleased to adopt us in thine only-begotten Son our Lord. — Amen.
 
@@ -320,7 +319,7 @@ In short, when God says, that he makes a consummation as to heathen nations, it 
 
 ## Prayer Lecture 167
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast testified that thou wilt be a Father to us, and hast given us a pledge of thy adoption, thine only-begotten Son, — O grant, that we, trusting in thy promise, may never doubt, even when thou severely chastisest us, but that thou wilt at length be merciful to us, and that we may thus never cease to flee to thy mercy, and thus submit to thee, and suffer ourselves to be corrected; and may, in the meantime, this hope sustain us, and alleviate all our sorrows, that in all our miseries we shall yet ever glorify thy name, through the same, thy Son our Lord. — Amen.
 

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 185. Numbers 34:1-29
-
-**Numbers 34**
 
 **1.** And the Lord spake unto Moses, saying,
 

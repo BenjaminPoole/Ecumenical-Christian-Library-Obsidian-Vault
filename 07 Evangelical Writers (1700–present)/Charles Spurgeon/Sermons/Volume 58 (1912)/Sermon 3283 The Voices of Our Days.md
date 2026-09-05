@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Voices of Our Days
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3283
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I said, Days should speak and multitude of years should teach wisdom." Job 32:7.
 
@@ -81,7 +78,7 @@ When His salvation reigns within,
 
 And Grace subdues the power of sin!" III. My last word shall be a short one. And it is this—according to my text, THOSE WHO HAVE WISDOM
 
-SHOULD COMMUNICATE IT TO OTHERS.
+## Should Communicate It to Others
 
 "I said, Days should speak"—not be silent—"and multitude of years should teach wisdom." That is to say, those who have days and multitude of years should try to teach the younger folks what they know! Now, it is a fault with some of our Brothers and Sisters that they do not teach our young people enough. They are too quiet. I should not like them to die and go to Heaven without having told us all they knew. And yet, when a venerable saint is buried who has been very reticent in speech and has never used his pen, what a mint of teaching is buried with him! It always seems to me to be a pity that anything should be lost through the hand of death—it should rather be a gain! There are some of us who have told people all we know and we are always repeating it, so that if we die, no secrets will sink into oblivion. But there are others of the opposite sort—a great deal goes into them—there must be a deal of wisdom in them for none ever comes out! Doubtless many Believers have been walking with God and enjoying the means of Grace for so long a time that they are quite able to teach others—but they are of small service to us because they are so retiring. I never like to see a Christian like an old-fashioned moneybox into which you put the money, but from which you cannot get it out again unless you break it! It ought not to be so. Does not our Savior tell us that the well of water in us is to become rivers of water streaming out from us? As we receive, we should give! The more we learn, the more we should teach—and if God teaches us, it is because He expects us to instruct others.
 
@@ -93,7 +90,7 @@ tory for the creation of another tree like itself when the fullness of time shal
 
 Again, remember that the devil is always teaching and his servants are always busy! When the sons of Belial invent some new blasphemy, their lips ache to tell it! Let but a loose song be sung in any music hall in London and before many hours it will have a thousand voices occupied with it. The devil has his missionaries ready to teach iniquity wherever they go—and they neither lack for zeal nor courage! And shall Satan have such busy servants and Christ's cause languish for want of agents? God forbid! If you have learned a great Truth, go and tell it! If you have found out something that is fresh to you concerning the Lord and His love, do not wait till the morning light, but tell it at once! If you have found the Savior, tell about Him! Tell about Him! Tell about Him with all your might whenever you have opportunity! And spread abroad the gladsome news of His salvation! Remember that to tell others what you have known is often the very best way of deepening and increasing your own knowledge. Holy occupation is one of the most important things for our spiritual health. If you see a church sinking low, the last persons to leave that church are the Sunday school teachers and others who are practically occupied with serving God—and the first to go are those fluffy professors who are neither useful nor ornaments, but cling to a church like dust to your coat! Very largely will you find that in proportion as you serve Christ, Christ will serve you—therefore seek you to feed His lambs—and He will feed you!
 
-EXPOSITION BY C. H. SPURGEON: EXODUS 13:21,22; 14.
+## Exposition by C. H. Spurgeon: Exodus 13:21,22; 14
 
 We are going to read once more the familiar story of how the Lord relieved His people from the power of Egypt after He had brought them out of the house of bondage.
 
@@ -124,7 +121,6 @@ the children of Israel, that they go forward [See Sermon #548, Volume 10—FORWA
 21-25. And Moses stretched out his hand over the sea: and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided. And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left. And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh's horses, his chariots, and his horsemen. And it came to pass, that in the morning watch the LORD looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians. And took of their chariot wheels, that they drove them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the LORD fights for them against the Egyptians.They were now in the midst of the sea between the two high walls of water, and before they could flee see what happened to them—
 
 26-31. And the LORD said unto Moses, Stretch out your hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen. And Moses stretched forth his hand over the sea, and the sea returned to its full depth when the morning appeared, and the Egyptians fled against it; and the LORD overthrew the Egyptians in the midst of the sea. And the water returned, and covered the chariots, and the horsemen, and all the hosts of Pharaoh that came into the sea after them; there remained not much as one of them. But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left. Thus the Lord saved Israel that day out the hand of the Egyptians; and Israel saw the Egyptian dead upon the sea shore. And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the Lord, and His servant Moses. And well they might! Yet how soon they murmured both against the Lord and against Moses!
-
 
 ---
 [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3284 The Sequel to Divine Sovereignty|#3284 →]]

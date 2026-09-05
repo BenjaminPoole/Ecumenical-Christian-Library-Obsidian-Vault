@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 45
-
-**PSALM 45**
 
 In this psalm, the grace and beauty of Solomon, his virtues in ruling the kingdom, and also his power and riches, are illustrated and described in terms of high commendation. More especially, as he had taken to wife a stranger out of Egypt, the blessing of God is promised to him in this relationship, provided the newly espoused bride, bidding adieu to her own nation, and renouncing all attachment to it, devote herself wholly to her husband. At the same time, there can be no doubt, that under this figure the majesty, wealth, and extent of Christ’s kingdom are described and illustrated by appropriate terms, to teach the faithful that there is no felicity greater or more desirable than to live under the reign of this king, and to be subject to his government.
 

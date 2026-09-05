@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 189. Deuteronomy 4:21,22
-
-**Deuteronomy 4**
 
 **21.** Furthermore, the Lord was angry with me for your sakes, and sware that I should not go over Jordan, and that I should go in unto that good land which the Lord thy God giveth thee for an inheritance;
 

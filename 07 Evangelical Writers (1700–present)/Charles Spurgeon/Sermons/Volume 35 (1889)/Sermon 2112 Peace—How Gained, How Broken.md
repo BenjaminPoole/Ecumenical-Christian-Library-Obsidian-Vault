@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Peace—How Gained, How Broken
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2112
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 27, 1889,.
+*Delivered on Lord's-Day Morning, October 27, 1889*
 
 > "I will hear what God the Lord will speak: for He will speak peace unto His people and to His saints: but let them not turn again to folly." Psalm 85:8.
 
@@ -170,7 +169,6 @@ Remember what it cost your Lord to make you free from the consequences of former
 Beloved, we cannot turn again to folly! O God, do not permit us to do so! Grant us Your peace, that by it we may be kept, both in heart and mind, loyal to You! Peace spoken to the soul by the Holy Spirit is the sure preventive of turning again to folly. Be sure that, if it passes all understanding, it also conquers all folly.
 
 With minds at perfect peace with God, we set our face like a flint, and press on towards the haven where peace will never end. Glory be to God, who will bring us safely there! Amen.
-
 
 ---
 [[Sermon 2111 Filling With the Spirit and Drunkenness With Wine|← #2111]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2113 By The Fountain|#2113 →]]

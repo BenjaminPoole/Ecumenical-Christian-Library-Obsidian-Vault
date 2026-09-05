@@ -148,8 +148,6 @@ On the original parchment. There is no question of other, anterior parchments. E
 
 But what? Let us have done with extra-Scriptural, presumptous suppositions. The burning Isaiah, the perfervid, wheel-gazing Ezekiel; the ardent, seraphic St. Paul, caught up, up, up, up into that Paradise which he himself calls the "third heaven" - were these men only "copyists," mere self-moved "redactors"? I trow not. Their pens urged, swayed, moved hither and thither by the sweep of a heavenly current, stretched their feathered tops, like that of Luke upon St. Peter's dome, into the far-off Empyrean, winged from the throne of God.
 
-We take the ground that on the original parchment - the membrane - every sentence, word, line, mark, point, pen-stroke jot, tittle was put there by God.
-
 On the original parchment. Men may destroy that parchment. Time may destroy it. To say that the membranes have suffered in the hands of men, is but to say that everything Divine must suffer, as the pattern Tabernacle suffered, when committed to our hands. To say, however, that the writing has suffered - the words and letters - is to say that Jehovah has failed.
 
 The writing remains. Like that of a palimpsest, it will survive and reappear, no matter what circumstances, what changes, come in to scatter, obscure, disfigure, or blot it away. Not even one lonely theos (God was manifest in the flesh, 1 Tim. 3:16) writ large by the Spirit of God on the Great Uncial "C" as, with my own eyes I have seen it - plain, vivid, glittering, outstarting from behind the pale and overlying ink of Ephraim the Syrian - can be buried. Like Banquo's ghost, it will rise; and God Himself replace it, and, with a hammer-stroke, beat down deleting hands. The parchments, the membranes, decay; the writings, the words, are eternal as God. Strip off the plaister from Belshazzar's palace, yet Mene! Mene! Tekel! Upharsin! remain. They remain.
@@ -184,10 +182,7 @@ Brethren, the danger of our present day - the "down grade" as it has been called
 
 Does not a fresh conviction here lie at the root of every remedy which we desire, as its sad lack lies at the root of every ruin we deplore?
 
-
 ## THE FUNDAMENTALS: A TESTIMONY TO THE TRUTH
-
-
 
 ---
 [[TF 2.03 The Moral Glory of Jesus Christ, a Proof of Inspiration|← 3. The Moral Glory of Jesus Christ, a Proof of Inspiration]] · [[The Fundamentals index|Contents]] · [[TF 2.05 Testimony of the Organic Unity of the Bible to Its Inspiration|5. Testimony of the Organic Unity of the Bible to Its Inspiration →]]

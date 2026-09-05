@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Pastor's Life Wrapped Up with His People's Steadfastness a Pleading Reminder for the New Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1758
-
-DELIVERED BY.
 
 > "Now we live, if you standfast in the Lord." 1 Thessalonians 3:8.
 
@@ -92,7 +89,6 @@ Happily it has not been so among you and you will not permit it to be so in the 
 As for you that are members of other Churches, may the Lord make you to be to your own pastors, their joy and crown! It will be ill for you if, in the Day of Judgment, they have to give an ill account of you. We do not think enough about that trial which each man will have to undergo, or of that account which all under shepherds will have to render in the Last Great Day. It is written, "If the watchman warns them not, they shall perish, but their blood will I require at the watchman's hands." Oh, my Master, when You search my garments for the blood of souls, grant that I may be found clear of the blood of all men! What a Heaven this will be! Remember that other Word of God, "If the watchman warns them, and they take no heed of the warning, they shall perish; but he has delivered his soul."
 
 May every one of us take care to deliver his soul! It is my highest prayer to be able to make full proof of my ministry, that in all of you I may have an unquestioned testimony to my lifelong fidelity to my Lord and to your souls. Pray for me daily and for yourselves, also, that by our steadfastness this favored Church may be made to live and flourish till our Lord Himself shall come!
-
 
 ---
 [[Sermon 1757 The New Year's Guest|← #1757]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1759 The Spirit of Bondage and Adoption|#1759 →]]

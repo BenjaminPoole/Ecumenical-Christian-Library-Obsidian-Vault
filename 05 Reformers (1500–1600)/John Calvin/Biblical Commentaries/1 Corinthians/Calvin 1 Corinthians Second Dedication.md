@@ -9,13 +9,11 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Second Epistle Dedicatory
 
-THE AUTHOR’S  
-SECOND EPISTLE DEDICATORY
+*The Author’s Second Epistle Dedicatory*
 
-**TO LORD GALLIAZUS CARACCIOLUS:**
+## **To Lord Galliazus Caracciolus:**
 
 *A Nobleman, Distinguished Still More By Eminent Virtues Than By Illustrious Descent, Only Son And Rightful Heir Of The Marquis Of Vico, Health:* —
 

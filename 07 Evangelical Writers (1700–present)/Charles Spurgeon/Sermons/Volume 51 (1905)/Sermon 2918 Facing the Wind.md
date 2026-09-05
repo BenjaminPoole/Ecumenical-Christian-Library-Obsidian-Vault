@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Facing the Wind
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2918
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But you, brethren, be not weary in doing good," 2 Thessalonians 3:13
 
@@ -114,7 +111,6 @@ Come, Brothers and Sisters, the Lord Jesus Christ has blotted out our sins. He h
 You may have to face a gale of wind, but you may face it gaily in the strength of your Lord! Keep on and keep on keeping on! You shall be more than conquerors through Him that loved you, over all the oppositions of men. Why, be comforted, beloved fellow laborers, and let no Brother's heart fail him because of anything that has happened to him.
 
 Let no Sister's hands hang down, but, "be you steadfast, immovable, always abounding in the work of the Lord, forasmuch as you know that your labor is not in vain in the Lord." I pray God to lead many others to enlist in this service, but they must first believe in Jesus Christ. When they have done so, then they may also come and share in the blessed warfare—and they shall have their reward! The Lord bless you, for Christ's sake.
-
 
 ---
 [[Sermon 2917 The Doors of the Shadow of Death|← #2917]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2919 'Whose Goodness Never Fails'|#2919 →]]

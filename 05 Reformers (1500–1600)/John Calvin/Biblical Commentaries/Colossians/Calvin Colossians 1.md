@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Colossians 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Colossians 1:1-8
 

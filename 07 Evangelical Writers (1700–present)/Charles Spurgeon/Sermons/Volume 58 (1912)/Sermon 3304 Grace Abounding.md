@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Grace Abounding
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3304
-
-DELIVERED BY C H. SPURGEON,.
 
 > "But where sin abounded, Grace did much more abound." Romans 5:20.
 
@@ -81,7 +78,7 @@ Then, at the last, so many of us as have believed in Jesus shall be gathered wit
 
 Ah, well, in due time we shall get there and then, when looking down from our serene abode, we shall be able to read the whole drama of human history, from the Creation to the Fall of Adam, from the Fall to the Cross of Christ, and then to the final consummation of all things—this will be the summary of it all, at least as far as we are concerned—"Where sin abounded, Grace did much more abound!" If it should be my happy privilege up there, upon some sunny mount, to descant upon this theme in more flaming words than I can use tonight, and of you who are of a kindred spirit with me will help to tell the story to the principalities and power in heavenly places, and the harpers standing on the sea of glass will strike their harps afresh and sing again the Song of Moses the servant of God, and the Song of the Lamb—their songs will be in harmony with our theme tonight—"Where sin abounded, Grace did much more abound." So let us go forth to our various occupations on the morrow believing that, though sin abounds, Grace shall yet more abound! Let us live so that all may see how Grace abounds in us and let us help to spread the wondrous story of what this Grace has done for us, that others may seek that Grace for themselves—that Grace which abounds to the chief of sinners, that Grace which is the portion of all who believe in Jesus, that Grace which shall in God's good time be crowned with Glory, that "Grace wherein He has made us accepted in the Beloved!" Oh, that all here might share in that Grace! God grant it for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 5:1-11.
+## Exposition by C. H. Spurgeon: Romans 5:1-11
 
 Verse 1. Therefore being justified by faith—But why, "therefore"? Because of the verse preceding it—"Who was delivered for our offenses, and was raised again for our justification." Christ died to atone for our sins, Christ rose again to secure our justification, "Therefore being justified by faith"— We have peace with God through our lord Jesus Christ
 
@@ -144,7 +141,6 @@ JOY IN GOD—Read/download both sermons, free of charge, at http://www.spurgeong
 God! We are reconciled to Him by the death of His Son. All our sin is forever put away. We have received the Atonement and we rejoice in the God of our salvation. Glory be to His holy name forever and ever!
 
 we shall be saved by His life. [See Sermon #2587, Volume —"MUCH MORE".]
-
 
 ---
 [[Sermon 3303 A Very Early Bible Society|← #3303]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3305 A Clear Understanding|#3305 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Fellowship With Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2572
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?" 1 Corinthians 10:16.
 
@@ -59,7 +56,7 @@ Stir yourselves up, Beloved! You have a ticket to admit you to the King's Palace
 
 II. Now we have done with the lowest grade of fellowship and we pass on to another—THE FELLOWSHIP OF
 
-SYMPATHY.
+## Sympathy
 
 Let me tell you what I mean by this expression. I said before that if we meet two or three friends and converse together, that is communion. But there was one friend there who had a lofty project in hand and, though I talked to him, I did not share his views and I did not wish to see his project accomplished. Therefore I did not enjoy such deep communion with him as I might otherwise have done. Another of my friends was exceedingly sick, but I was not suffering, just then, so that when he spoke of his illness, I could not commune with him as fully as I could have wished to do. There was Another who was upbraided, scorned and spit upon—but I was not assailed in the same way and, therefore, I had only partial communion with Him and that not of the deepest kind. I could not say that I had complete fellowship with Him in His sufferings. But, Christians, some of you have climbed another step on the heavenly ladder of communion—you have come to hold communion with Christ in sympathy!
 
@@ -139,9 +136,9 @@ Oh, "what must it be to be there?" To be there is to be with Christ! Wait but a 
 
 Do you believe that concerning yourselves, my dear Christian Brothers and Sisters? Then, why are you afraid to die? Why are you so often fearing? What? Men and women, Brothers and Sisters, do you believe that in a few more days you will be in Heaven—and see all you love and all you live for here below? Do you believe that in a few more months or years, you will clasp your Savior and be blessed forever? Why, Beloved, it is enough to make you leap for joy and clap your hands in ecstasy! What? You are troubled? You are desponding? No, go your way, eat your bread with joy, be happy all your life, for you know that your Redeemer lives and though after your flesh, worms shall destroy this body, yet in your flesh you shall see God!
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-1 CORINTHIANS 12:12-31.
+## 1 Corinthians 12:12-31
 
 Verses 12, 13. For as the body is one, and has many members, and all the members of that one body, being many, are one body: so also is Christ For by one Spirit are we all baptized into one body, whether we are Jews or Gentiles, whether we are bond or free; and have been all made to drink into one Spirit Oh, what a sacred oneness that is which subsists between all the Lord's people! We are not simply Brothers and Sisters, but we are one! We are not allied by affinity, but by actual identity! We are parts of the same body. We are brought into spiritual membership with each other as real and as effectual as that membership which subsists between the various parts of the body. Yet we are not all alike, although we are all of one body. Some are Jews, some are Gentiles, some are bond, some are free. And yet, in some things, we are all alike, for we have all been baptized by one Spirit. And, moreover, we have all been made to drink into one Spirit—we have had one spiritual baptism, and we have had one spiritual drinking. Would to God that we felt more one, that our hearts beat more in tune with each other, that we had a sympathy with each other in woes and sufferings, that we had a fellow feeling with all who love the Lord and could at all times weep with those that weep, as well as rejoice with those that rejoice
 
@@ -164,7 +161,6 @@ Verses 12, 13. For as the body is one, and has many members, and all the members
 3l. But covet earnestly the best gifts. I would not wish you, Brothers, to repress your aspirations after these blessings. I am most anxious that you should earnestly desire and seek to possess a large share of all these spiritual endowments.
 
 31\. And yet show I unto you a more excellent way. Which is, holding the Truth of God in love and walking in charity, one toward another.
-
 
 ---
 [[Sermon 2571 The Climax of God's Love No. 2571|← #2571]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2573 Unparalleled Suffering|#2573 →]]

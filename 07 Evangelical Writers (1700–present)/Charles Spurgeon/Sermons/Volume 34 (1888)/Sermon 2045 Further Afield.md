@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Further Afield
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2045
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 23, 1888,.
+*Delivered on Lord's Day Morning, September 23, 1888*
 
 > "Then Paul and Barnabas waxed bold and said, It was necessary that the Word of God should first have been spoken to you: but seeing you put it from you and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation unto the ends of the earth. And when the Gentiles heard this, they were glad and glorified the Word of the Lord: and as many as were ordained to eternal life believed." Acts 13:46-48.
 
@@ -168,7 +167,6 @@ You are aimed at in the mission of Jesus. Trust Him and you are saved. "But I ha
 Oh, for a batch of great saints made out of great sinners! Oh, that your energy, now used to fight against God, may be subdued by Sovereign Grace and employed in defending and spreading the Gospel of Jesus! Shall it be so, my Friend? Oh, that some woman that is a sinner would come and wash our Lord's feet with tears and wipe them with the hairs of her head! Come, you with long hair, unbind your tresses and honor them by this service. If they have been a net in which to entangle precious lives, make them a towel for your Savior's feet.
 
 Come, Sinners, come to Him who loves you! Bring them, O Lord! Hear us, O Jehovah, as we entreat You to save them by the blood of Your Beloved Son! Hear us now, we beseech You and save myriads! Amen and Amen and Amen!
-
 
 ---
 [[Sermon 2044 All At It|← #2044]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2046 Consolation From Resurrection|#2046 →]]

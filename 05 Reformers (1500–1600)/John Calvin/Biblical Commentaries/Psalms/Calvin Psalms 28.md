@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 28
-
-**PSALM 28.**
 
 After being delivered by God’s help from great dangers, David, in this psalm, according to his custom, first records the vows that he had made in the midst of his difficulties, and then his thanksgivings and praises to God, to induce others to follow his example. It is probable that he speaks of his persecutions by Saul.
 

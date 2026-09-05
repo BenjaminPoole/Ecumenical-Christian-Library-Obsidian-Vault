@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Rain and Grace—a Parallel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2583
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who has divided a channel for the overflowing water, or a path for the thunderbolt, to cause it to rain on the earth, where there is no one; on the wilderness, wherein there is no man; to satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?" Job 38:25-27.
 
@@ -122,7 +119,6 @@ It was very touching, the other day, to notice how the Queen spoke of one who wa
 18\. And fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water. There shall be enough and to spare! There shall be an abundance of the water of which before they could not find a single drop! When God is gracious to a soul, He is gracious. When His mercy is made to enter a man's heart, then He pours floods upon him. No little Grace will God bestow, but endless Grace, and boundless Grace, "and crown that Grace with glory, too."
 
 19, 20. I will plant in the wilderness the cedar, the cypress tree, and the myrtle, and the oil tree. I will set in the desert the fir tree, and the pine, and the box tree together: that they may see, and know, and consider, and understand together, that the hand of the LORD has done this, and the Holy One ofIsraelhas createdit. May these gracious promises be fulfilled in you and me, that we may praise our faithful Covenant-keeping God forever and ever! Amen.
-
 
 ---
 [[Sermon 2582 Alto and Bass|← #2582]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2584 Place for the Word|#2584 →]]

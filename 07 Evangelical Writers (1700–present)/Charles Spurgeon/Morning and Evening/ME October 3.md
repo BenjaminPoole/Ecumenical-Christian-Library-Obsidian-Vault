@@ -28,7 +28,7 @@ The flitting skies, like flying pursuivant
 
 Against foul fiends to aid us militant!”
 
-To what dignity are the chosen elevated when the brilliant courtiers of heaven become their willing servitors! Into what communion are we raised since we have intercourse with spotless celestials! How well are we defended since all the twenty- thousand chariots of God are armed for our deliverance! To whom do we owe all this? Let the Lord Jesus Christ be forever endeared to us, for through him we are made to sit in heavenly places far above principalities and powers. He it is whose camp is round about them that fear him; he is the true Michael whose foot is upon the dragon. All hail, Jesus! thou Angel of Jehovah’s presence, to thee this family offers its morning vows.
+To what dignity are the chosen elevated when the brilliant courtiers of heaven become their willing servitors! Into what communion are we raised since we have intercourse with spotless celestials! How well are we defended since all the twenty-thousand chariots of God are armed for our deliverance! To whom do we owe all this? Let the Lord Jesus Christ be forever endeared to us, for through him we are made to sit in heavenly places far above principalities and powers. He it is whose camp is round about them that fear him; he is the true Michael whose foot is upon the dragon. All hail, Jesus! thou Angel of Jehovah’s presence, to thee this family offers its morning vows.
 
 ## Evening
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Today! Today! Today!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1551
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 1, 1880,.
+*Delivered on Lord's-Day Morning, August 1, 1880*
 
 > "Today if you will hear His voice, harden not your heart." Psalm 95:7,8.
 
@@ -176,7 +175,6 @@ Where sinners must with devils dwell
 In darkness, fire and chains."
 
 Escape for your life! Today if you will hear His voice, harden not your heart!
-
 
 ---
 [[Sermon 1550 The Unspeakable Gift|← #1550]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1552 The Friends Of Jesus|#1552 →]]

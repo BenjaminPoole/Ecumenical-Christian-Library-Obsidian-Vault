@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 93. Matthew 11:16-19; Luke 7:29-35
-
-**MATTHEW 11:16-19; Luke 7:29-35**
 
 **16**. But to what shall I compare this generation? It is like children, who sit in the market-place, and call out to their companions, **17**. And say, We have played on the flute to you, and you have not danced; we have sung mournful airs to you, and you have not lamented. **18**. For John came neither eating nor drinking, and they say, He hath a devil. **19**. The Son of man came eating and drinking, and they say, Lo, a man who is a glutton and a wine-bibber, [^1] a friend to publicans and sinners; and Wisdom is justified by her children.
 

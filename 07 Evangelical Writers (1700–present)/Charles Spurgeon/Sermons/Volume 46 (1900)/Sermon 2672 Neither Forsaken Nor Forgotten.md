@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Neither Forsaken Nor Forgotten
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2672
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, I have engraved you upon the palms of My hands." Isaiah 49:16.
 
@@ -91,7 +88,7 @@ And, so Brothers and Sisters, let the name of Christ and your memory of it becom
 
 If any of you have not yet believed in Jesus, oh, how I wish you would! As I am going away for a while, I shall not be able to speak personally to you for some time to come, but I hope that those whom my voice has failed to influence, may be reached by some other servant of the Lord Jesus Christ who shall occupy this pulpit to speak to you in my absence. Oh, that you all knew my Lord! There is none like Him! His bonds are freedom! His service is rest! To die for Him is life! To live for Him is Heaven! God bring you to Him and fasten you to Him forever! Amen, and Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN14:1-21.
+## Exposition by C. H. Spurgeon: John 14:1-21
 
 We have often read this chapter, both in our private meditations and at our public worship, but we cannot read it too often. It is sweet as honey and the honeycomb. It contains the very quintessence of consolation. Every word in the chapter is rich and full of meaning. Perhaps they understand it best who cannot read it quickly, but are obliged to spell over every word of it and so are like those who feast upon marrow and fatness.
 
@@ -132,7 +129,6 @@ below."
 20\. At that day you shall know that I am in My Father, and you in Me, and I in you. Three wondrous mysteries of union—Christ in the Father, the Church in Christ, and Christ in His Church.
 
 21\. He that has My commandments, and keeps them, he it is that loves Me: and he that loves Me shall be loved of My Father, and I will love him, and will manifest Myself to him. May we be such lovers of Christ that He may love us and manifest Himself to us, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2671 A Sincere Summary—and a Searching Scrutiny|← #2671]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2673 Christ Crucified|#2673 →]]

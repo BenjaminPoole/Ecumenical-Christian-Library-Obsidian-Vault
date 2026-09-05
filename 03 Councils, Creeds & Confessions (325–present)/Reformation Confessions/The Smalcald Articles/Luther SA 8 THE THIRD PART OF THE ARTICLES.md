@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 8. THE THIRD PART OF THE ARTICLES
-
-## THE THIRD PART OF THE ARTICLES.
 
 Concerning the following articles we may [will be able to] treat with learned and reasonable men, or among ourselves. The Pope and his [the Papal] government do not care much about these. For with them conscience is nothing, but money, [glory] honors, power are [to them] everything.
 

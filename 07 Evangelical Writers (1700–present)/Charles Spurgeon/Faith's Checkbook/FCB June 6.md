@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 6
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE ALWAYS LISTENS**
+## **He Always Listens**
 
 > The Lord hath heard my supplication; the Lord will receive my prayer." Ps. 6:9
 
@@ -23,7 +22,6 @@ The experience here recorded is mine. I can set to my seal that God is true. In 
 What then? Why, for certain the promise which lies sleeping in the Psalmist's believing confidence is also mine. Let me grasp it by the hand of faith: "The Lord will receive my prayer." He will accept it, think of it, and grant it in the way and time which His loving wisdom judges to be best. I bring my poor prayer in my hand to the great King, and He gives me audience, and graciously receives my petition. My enemies will not listen to me, but my Lord will. They ridicule my tearful prayers, but my Lord does not; He receives my prayer into His ear and His heart.
 
 What a reception this is for a poor sinner! We receive Jesus, and then the Lord receives us and our prayers for His Son's sake. Blessed be that dear name which franks our prayers so that they freely pass even within the golden gates. Lord, teach me to pray, since thou hearest my prayers.
-
 
 ---
 [[FCB June 5|← June 5]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 7|June 7 →]]

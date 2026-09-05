@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Big Gates Wide Open
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2954
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "All that the Father gives Me shall come to Me; and him that comes to Me I will in no wise cast out." John 6:37.
 
@@ -121,7 +118,7 @@ Now, who will begin with Jesus, or begin again with Jesus? By His Grace, I will!
 
 Now, Sinners, come along, and may the Holy Spirit graciously lead you to do as we are now doing. And then, as you go your way, each one of you can say, "He will never cast me out, for I have come to Him." Trust Jesus, I implore you. He is worthy of your trust, for He is the Son of God and He has died to put away the guilt of all who trust Him! I wish someone would say, "I have tried to save myself, but I cannot do it. I will trust Him to do it and I believe that He can, and that He will." Ah, my Friend, you will never be disappointed if you make such a blessed resolve as that! May God, by His Grace, enable you to do it—and to Him shall be praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH55.
+## Exposition by C. H. Spurgeon: Isaiah 55
 
 Verse 1. Ho, everyone that thirsts, come you to the waters, and he that has no money; come you, buy, and eat; yes, come, buy wine and milk without money and without price. The description of Gospel blessings grows sweeter as it advances. "Waters" first. "Wine and milk" next—and still all "without money and without price."
 
@@ -168,7 +165,6 @@ blood and signed by Him who gives an oath with it that He will never turn from i
 13\. For an everlasting sign that shall not be cut off That sign is exhibited today in the eyes of men. An evil and adulterous generation called for a sign and this is the sign that God has given—His converting Grace in His Church. Instead of miracles, we have the work of the Holy Spirit in the hearts of sinners and if any will not believe when this sign is sent to them, neither would they believe though one rose from the dead! It stands as "an everlasting sign that shall not
 
 be cut off."
-
 
 ---
 [[Sermon 2953 Spiritual Sight and Eternal Life|← #2953]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2955 Simple But Sound|#2955 →]]

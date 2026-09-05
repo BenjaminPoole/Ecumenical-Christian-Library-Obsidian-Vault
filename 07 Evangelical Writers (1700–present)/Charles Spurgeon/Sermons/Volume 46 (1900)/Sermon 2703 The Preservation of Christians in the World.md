@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Preservation of Christians in the World
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2703
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I pray not that You should take them out of the world, but that You should keep them from the evil." John 17:15.
 
@@ -87,7 +84,7 @@ Finally, remember that the only Keeper of the saints is God, and put your souls 
 
 O Beloved, you who do not love the Lord, I cannot pray that God would keep you from the evil because you are already in it! But I do pray God to take you out of it. There are some of you who do not feel sin to be an evil and shall I tell you why? Did you ever try to pull a bucket up a well? You know that when it is full of water, you can pull it easily so long as the bucket remains in the water—but when it gets above the water, you know how heavy it is. It is just so with you. While you are in sin, you do not feel it to be a burden—it does not seem to be evil! But if the Lord once draws you out of sin, you will find it to be an intolerable, a heinous evil! May the Lord, this night, wind some of you up! Though you are very deep down, may He draw you up out of sin and give you acceptance in the Beloved! May you have new hearts and right spirits which are alone the gift of God! Remember the words of the Lord Jesus—"Ask, and it shall be given you; seek, and you shall find; knock, and it shall be opened unto you: for everyone that asks receives; and he that seeks, finds; and to him that knocks it shall be opened." God give you Grace to ask, and seek, and knock, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH49:1-23.
+## Exposition by C. H. Spurgeon: Isaiah 49:1-23
 
 Verses 1, 2. Listen, O isles, unto Me; and hearken, you people from far; the Lord has called Me from the womb; from the bowels of My mother has He made mention of My name. And He has made My mouth like a sharp sword; in the shadow ofHis hand has He hid Me, and made Me a polished shaft; in His quiver has He hid Me. Our Lord Jesus, that great Prophet of the Church, was in a special manner the Lord's in the matter of His birth. A wondrous holy mystery hangs about His birth at Bethlehem—He was, in that respect, the Lord's in a very remarkable sense. "He has made My mouth like a sharp sword." You know how our Lord's mouth, or the Word of His Gospel that issues from His mouth, is like a sharp sword—how it conquers—how it cuts its way—how, wherever it goes, it pierces "even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart." "In the
 
@@ -148,7 +145,6 @@ How that gracious assurance should comfort the little handful, the "remnant, wea
 23\. And you shall know that I am the LORD. "Jehovah." "You shall understand the greatness of your God, His in-finiteness, His majesty, His all-sufficiency. 'You shall know that I am the I AM.'"
 
 23\. For they shall not be ashamed that wait for Me. Glory be to His holy name, none that wait for Him shall ever have cause to be ashamed! May we all be of that blessed number, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2702 'Marvelous Loving Kindness'|← #2702]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2704 'Flee From the Wrath to Come'|#2704 →]]

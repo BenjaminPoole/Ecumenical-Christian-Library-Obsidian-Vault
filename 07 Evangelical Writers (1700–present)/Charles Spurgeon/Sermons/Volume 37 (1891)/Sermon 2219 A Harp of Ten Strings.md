@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # A Harp of Ten Strings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2219
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Mary said, My soul does magnify the Lord, and my spirit has rejoiced in God my Savior." Luke 1:46, 47.
 
@@ -136,7 +133,6 @@ Sometimes the idea may come into your mind that you will do something towards sa
 The Lord bless you, Beloved, and send you away happy in Him!
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—Luke 1:39-80.
-
 
 ---
 [[Sermon 2218 Is the Spirit of the Lord Straitened|← #2218]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2220 Three Decisive Steps|#2220 →]]

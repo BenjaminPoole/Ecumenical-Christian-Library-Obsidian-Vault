@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 25. Decade 3, Sermon 2
 
 I DID in my last Sermon, dearly beloved, declare unto you, by what means goods are rightly gotten, and how many kinds of theft there be, and sundry sorts of getting wealth unlawfully. There is yet behind another treatise for me to add, and therein to teach you what is the true use of goods rightly gotten, and how we may lawfully possess them, and justly spend and dispose them in this transitory life.
@@ -20,7 +19,7 @@ f1 Imp. Constantinus A. ad Celerem vicarium Africse xvi. Plagiarii, qui viventiu
 
 [2 Abigei dicuntur, qui gregem ovium aut pecorum — vel equum de grege, vel bovem de armento abducunt. — Jul. Pacii Isagog. in Instit. Lib. XLVII. tit. 14. p. 406, Traject. ad Rhen. 1680.]
 
-II.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. 49
+## II.] the Eighth Precept of the Ten Commandments. 49
 
 For justice doth not only not defraud any man, but doth, so much as it may, endeavour itself to do good to all men; neither is it enough for a godly man not to hurt any body, unless also he do good to all that he can. And in this point do many men sin, while they are persuaded that they have done all the duty that they owe, if they hurt no man, and if they possess that which they have without trouble to any man ; although in the meanwhile they have no regard, whether they help or do good to any man, or no. And he sinneth as greatly in the sight of the Lord, which doth not use rightly goods justly gotten, as he that hath heaped up wealth in wickedness and naughty means. I will tell you therefore, so far as God shall give me grace, how, and in what sort, godly men may holily possess and dispose these earthly goods.
 
@@ -32,9 +31,7 @@ nothing of another man's remain in their possession : that is, they do carefully
 
 Now this restitution is flatly commanded, and also very Restitution is necessary to be put in practice : for the Lord in the law ne doth by sundry means, and that very carefully, give charge of it too, as is to be seen in the twenty-second of Exodus. Exod, xxu. Moreover, so often as the just and holy commandment of God was, through the covetousness and wickedness of mankind, cast off and neglected, the Lord raised up grievous and almost unspeakable evils against the contemners thereof, and scattered abroad the unjust-gotten goods by wars, mishaps, and divers calamities. For the prophet Esay crieth, saying : " The Lord shall enter into judgment with the elders and isau m. princes of his people, and shall say unto them, It is ye that have burnt up my vineyard, the spoil of the poor is in your houses." And Amos in the third chapter of his prophecy crieth : " They store up treasures in their palaces by violence
 
-[BULLINGEK, 11.]
-
-50 THE THIRD DECADE. [sERM.
+## [Bullingek, 11.]
 
 and robbery. Therefore thus saith the Lord God : Miseries shall invade thee on every side of the land, and thy enemies shall bring down thy strength, or riches, from thee, and thy
 
@@ -54,15 +51,13 @@ Now, let every one make restitution of so much as he HOW much every one hath tak
 
 [* ruffling : to ruffle, to put out of form or discompose ; but used by old writers to signify the acting in a rough, turbulent, or disorderly manner. — Toone's Glossary.]
 
-52 THE THIRD DECADE. [sERM.
-
 riot. Consider with thyself, who thou art, and whereupon thou livest : and still do thy endeavour to make restitution, so far as thou canst; and let it grieve thee to see thyself not able to restore the whole again. If it be not a grief to thee for a time to suffer poverty, to labour and faithfully to exercise some honest occupation, and to train up thy children, leading them as it were by the hand, to work ; then thou shalt not want whereon to live, although thou restorest all, whatsoever thou hast, of other men's goods. But there is very small and almost no faith at all in many men ; whereby it cometh to pass, that very few, or none, can be persuaded to make true restitution. To this I add (before I go any further) that they ought especially to think of a restitution, which have with evil words corrupted the minds of simple souls ; with privy backbiting raised slanders on other men ; or with perverse counsel stirred up the mightier Ample or men against the weaker sort : for these things do pass and large dis- ° f t^^iieve are ^ar a^ove a^ earthly riches.
 
 re^ltutwn. Thus much have I said hitherto touching restitution, of which other men have left very ample discourses. I for my part do see, that to a godly mind this work of restitution is short and plain enough ; and therefore have I spoken of it so shortly as I have. For a godly and well disposed man doth with all his heart desire and seek to obey the law of God ; and therefore, by calling to God for aid, he shall easily find a way to work justice and equity. As for those whose desire is rather to seem just men than to be just indeed, and do love this world more than it becometh them to do ; they, with their over many questions and innumerable perchances and putcases1, do make the treatise of restitution so tedious and intricate, that no man shall ever be able to make it so plain that they will understand it. I will not therefore answer them any more, but only warn them to examine their own conscience, and see what that doth bid them do. Now I would have that conscience of theirs to be settled in, and be mindful of, the general law, which saith : "Whatsoever thou wouldest have done to thyself, that do thou to another; and whatsoever thou wouldest not have done to thyself, that do not thou to another."
 
 [l put case, an elliptical expression for suppose that it may be so. Johnson.]
 
-II.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. 53
+## II.] the Eighth Precept of the Ten Commandments. 53
 
 After this now I will somewhat freely discourse upon we must not i . . •••'*« set our minds the just possessing, using, or disposing of well-gotten earthly on ™he*- substance. First of all, no man must put any confidence in riches, which are indeed things transitory and do quickly decay: we must not settle our minds upon nor be in love with them; but by all means take heed that they drive us not to idolatry, nor hinder the course that we have to pass. Heaven is the goal whereat we run2. Here again we must all give ear to the divine and heavenly words uttered by the prophet David, who said : " Put your trust in God pgai. uii. always, pour out your hearts before him ; for God is our refuge. As for the children of men, they be but vain : the children of men are deceitful upon the weights, they are altogether lighter than vanity itself. Trust not in wrong and robbery, give not yourselves to vanity : if riches increase, set not your hearts upon them3." The apostle Paul, being endued with the same spirit, biddeth us to use the world and worldly things, as though we used them not4. Again, he calleth covetousness the worshipping of idols ; and chargeth [Coiosg. m. rich men not to put their trust in uncertain riches, but in ri]Tim. vi. the living God, who ministereth to all creatures living sufficiently enough. And therefore the Lord in the gospel forbiddeth to heap up treasures upon earth.
 
@@ -76,8 +71,6 @@ Everyman must acknowledge these terrestrial goods to be Riches are the mere and 
 
 [4 1 Cor. vii. 31. See page 31.] [* venuate, Lat.]
 
-54 THE THIRD DECADE. [sERM.
-
 hich -h« and not to be given for our deserts, or gotten by our might, for we have of God's liberality all things necessary to maintain our lives. It is the Lord which blesseth and doth prosper our labour. Finally, they are not evil, but the good gifts of God, which he giveth to the maintenance of our lives, and not to our destruction: the fault is in ourselves, that riches are a snare to bring many men to evil ends. Moreover, the Lord himself requireth, and in his word commandeth us, to be thankful unto him for his good benefits bestowed on us ; to use them with thanksgiving ; to praise his name for all things ; and to rejoice hi his fatherly goodness shewed unto us. For thus doth Moses, the servant of God, in Deuteronomy, charge the Israelites1: "When thou hast eaten therefore, and filled thyself, then thank the Lord thy God in that good land which he hath given thee. Beware that thou forget not the Lord thy God, that thou wouldest not keep his commandments, his laws and ordinances, which I command thee this day : yea, and when thou hast eaten, and filled thyself, and hast built goodly houses, and dwellest therein ; and when thy beasts and thy sheep are waxen many, and thy silver and thy gold is multiplied, and all that thou hast is increased ; then beware, lest thine heart rise, and thou forget the Lord thy God, which brought thee out of the land of Egypt, and from the house of bondage. Say not then in thine heart, My power and the might of mine own hand hath prepared me this abundance. Remember the Lord thy God : for it is he that giveth thee power to get substance, &c."
 
 [i nm. ir.4.] Moreover Paul the apostle saith, that all the creatures of God are good, created to the good and preservation of us men; and biddeth us use them with the fear of God and
@@ -88,15 +81,13 @@ hich -h« and not to be given for our deserts, or gotten by our might, for we ha
 
 [l Dominus Deus tuus dabit tibi terrain praestantissimam, in qua nulla re indigebis, Lat. omitted by the translator ; The Lord thy God shall give thee a most excellent land, wherein thou shalt not lack any thing.]
 
-II.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. 55
+## II.] the Eighth Precept of the Ten Commandments. 55
 
 Let earthly goods also serve our necessity. Now necessity Goods serve requireth a commodious dwelling-place, so much victuals asn«***Fty.ou are sufficient, comely apparel, and honest company-keeping with our neighbours and equals. Let every man measure and esteem these circumstances, first by his own person, then by his family or household. For an householder must warily provide and foresee, that no necessary thing be wanting in his family. Of this care of the householder there are sundry testimonies of scripture extant ; but specially that of St Paul, in the fifth chapter of his first epistle to Timothy. And here note, that by necessity all things are meant, which the body or life of man doth necessarily require and stand in need of ; and finally, whatsoever the honesty and beseeming of every man doth crave or demand. And thus far verily, and to this end or purpose, it is lawful for any man to lay somewhat up in store against years to come. The man, whose charge is much in keeping a great house, hath need of the more to maintain it withal : and he, whose family is not so big, needeth so much the less as his house is the smaller. And one state of life, and a greater port, becometh a magistrate ; when another countenance, and a lower sail, beseemeth a private person. But in these cases let every man consider what necessity requireth, not what lust and rioting will egg him unto. Let him think with himself, what is seemly and unseemly for one of his degree.
 
 And yet we do not in this treatise make so strict a Neoewity
 
 » excludeth definition of necessity, as that thereby we do utterly condemn n°J^"£wed all pleasure and moderate liberty for sensuality and luxury. For I know that God hath granted and given to man, not only the use of necessity, — I mean, the use of those things which we as men cannot be without, — but also doth allow him all moderate pleasures wherewithal to delight him. Let no man therefore make scruple of conscience in the sweet and pleasant use of earthly goods, as though with that sweet pleasure which he enjoyeth he sinned against God ; but let him which maketh conscience, make it rather in the just and lawful use of those terrestrial riches. For the Lord hath in no place forbidden mirth, joy, and the sweet use of wealth, so far forth that nothing be done undecently, unthankfully, or unrighteously. For the prophet Jeremy, alluding to the promises of God's law contained in the twenty-sixth of Levi-
-
-56 THK THIRD DECADE. [SERM.
 
 ticus and the twenty-eighth of Deuteronomy, saith : " They shall come and rejoice in Sion, and shall have plenteousness of goods which the Lord shall give them, namely, in wheat, wine, oil, young sheep dnd calves ; and their soul shall be as a well watered garden ; for they shall no more be sorrowful. Then shall the maid rejoice in the dance, yea, both young and old folks : for I will turn their sorrow into gladness, and will comfort them, and make them merry. I will make drunken the hearts of the priests with fat, and my people shall be filled with my goodness, saith the Lord." Jeremy thirty-first. Moreover1 in the fourth chapter of the third book of Kings we read : "And under Solomon they increased, and were many in number, as the sand of the sea, eating and drinking, and making merry8." Again, in the eighth chapter of the same book we find : " And Solomon made a solemn feast, and all Israel with him, a very great congregation, which came together out from among all the people, even from the entering in of Hemath unto the river of Egypt, before the Lord seven days and seven days, that is, fourteen days in all. Afterward he sent away the people, and they thanked the king, and went unto their tents very joyfully, and with glad hearts, because of all the goodness that the Lord had done for David his servant, and for Israel his people3." Like unto this is that which we read in the eighth chapter of Nehemias, in these words : " And Esdras, with the Levites, said to all the people which was sad and sorrowful, This day is holy unto the Lord your God : be not ye sorry, and weep ye not ; but go your way to eat the fat, and drink the sweet, and send part unto them that have not, &c." And the Lord, verily, doth not require us men to be without all sense and feeling of those pleasures which he of his grace hath given us to enjoy ; neither would he have us to be altogether benumbed, like blocks and stocks and senseless stones: for he himself hath graffed in us all the sense and feeling of good and evil, of sweet and sour. And the same our God and Maker hath, of his eternal goodness and wisdom, ordained a certain natural excellency in his creatures, and
 
@@ -106,8 +97,6 @@ II.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. 57 hath adorned them, and made 
 
 [* There seems to be some oversight in the mention of Jacob. Concerning Gen. xliii. 34, Ainsworth, in loc. remarks : " largely drank, or drunk themselves merry : were drunken, which word is used for large drinking unto mirth, but with sobriety, Hag. i. 6 ; John ii. 10".] [5 Bullinger, adv. Anabap. Lib. I. cap. 10, Tigur. 1560.] [6 The Carthusian order of Monks, so called from their first settlement at Chartreuse, near Grenoble in France, arose in the year 1084 or 1086. They were a branch of the Benedictines, and were the most austere of all the religious sects. — Mosheim, Cent. xi. Part 2. Book 3. chap. 2. §27.]
 
-58 THE THIRD DECADE. [sERM.
-
 lawful delights. They, to colour and commend their odd opinion to the ears of men, abuse many places of the sacred [Luke VLS&] scriptures: "Woe (say they) to you which now are full, and do laugh now; for the time will come, when ye shall hunger and weep :" when as indeed this and such like sayings were uttered of God against the wicked, and such as do unthankfully abuse the benefits and creatures of their good God. And therefore, for a conclusion of that which I have hitherto said, I add this ; that godly men must still take careful heed, that they let not loose the reins to lust, and so exceed the golden mean1. For mean and measure in these allowed pleasures also is liked and looked for, as well as in other things. Richw must Furthermore, let goods and earthly substance serve to do ifonour.and honour, and shew curteise8 humanity in one man to another.
 
 shew cour- *
@@ -116,7 +105,7 @@ shew cour- *
 
 [3 niilla Dei vel sequa lex, Lat. ; no law of God or equity.] [* quod non habet, Lat ; that which he hath not.] [6 mediocres, Lat.]
 
-II.] THE EIGHTH PRECEPT OF THE TEN COMMANDMENTS. 5D
+## II.] the Eighth Precept of the Ten Commandments. 5d
 
 •wealth and possessions, are yet notwithstanding so wholly given over to the gathering of more, that neither for their own honesty's sake, nor for any shew of courtesy, they will once bestow a dodkin6 upon any man whatsoever, be he their own countryman, or a stranger unknown. These kind of fellows are always chambered, and keep themselves close in secret counting-houses ; their bags are their pillows whereon they sleep and dream of their ruddocks7; they are not seen to stir abroad, lest peradventure occasion should be offered them to give entertainment, or to shew some civility to aliens and strangers. The scripture doth give a far better report of the most holy and famous patriarchs, our grand predecessors.
 
@@ -125,8 +114,6 @@ Lot sat in the gates of Sodom to wait for strangers and The patn- f • i i i �
 [° teruncium, Lat. Dodkin, a small coin, the eighth part of a stiver, a little doit : used as a contemptuous term for things of the smallest value. — Toone's Glossary.]
 
 [7 This is a free translation of the original Latin, — saccis indormiunt. Ruddock, the bird called the robin red-breast : it is also metaphorically used to signify gold coin. — Toone's Glossary.]
-
-60 THE THIRD DECADE. [sERM.
 
 Gott wol kommen, lieben herren und guten freunde.) And although he were in the land, where he dwelt, a man of high authority and very great name, yet notwithstanding he did, as it were, forget himself and say : " Pass not, I pray thee, away from thy servant." He calleth himself a servant of strangers. He goeth on moreover, and saith : " Let a little water be fet1, and wash your feet, and refresh yourselves under the tree. And I will fet a morsel of bread to comfort your hearts ; and then shall ye go on your way." In these few words he containeth, in a manner, all the points of civil courtesy. Neither did Abraham use these words to make a shew only of bounteous liberality : but when he had by entreaty requested them to stay, and by their grant obtained his desire, he bestirreth his stumps to accomplish in deeds the thing that he had promised ; he maketh haste to Sara, which was in the tent, and saith : " Make ready at once or pecks, three measures of fine meal, knead it, and make cakes." The scripture yet addeth further this clause : " And Abraham, running unto his beasts, caught a calf tender and good, and gave it to a young man, which hasted, and made it ready at once. And he took butter and milk, and the calf which he had prepared, and set it before them, and stood himself with them;" that is, did himself serve them, as they ate under the tree. This is wonderful verily, and to be thought on deeply. Those goods were well and worthily bestowed upon so bountiful, liberal, and courteous a man as Abraham was, which knew how to use his wealth so honestly and with so commendable courtesy. Neither was he alone in all his house so frank and liberal ; as his wife and family were readily given and very willing to put that holy exercise in ure and practice. All things therefore were ready with a trice. In making preparation, also, no diligence was wanting ; choice was made of all things; for riffraffe and refuse-gear was not served to these strangers, but the best and h'keh'est of all that was found. The good man himself taketh pains like a servant. He himself bringeth in his country fare, which far doth excel all costly cates and princelike dishes ; and setteth his guests to meat with butter and milk, and serveth the last course with veal, well fed, and housewife-like dressed. Neither was he content with this courtesy and entertainment, [i fet: fetched.]
 
@@ -145,8 +132,6 @@ Paul must be beaten into their heads ; " Charge them that n^™- vi- "
 are rich that they do good, that they be rich in good works, that they be ready to give, glad to distribute, laying up in store for themselves a good foundation against the time to come, that they may lay hold upon eternal life." With this doctrine of the apostle2 doth the prophet Esay very well
 
 [2 congruit prophetica per omnia. Isaias cnim &c.,Lat. ; the doctrine of the prophets agrees in all points. For Isaiah &c.]
-
-62 THE THIRD DECADE. [sERM.
 
 risai. xxiu. agree, where he saith touching Tyre : " Their occupying also and their wares shall be holy unto the Lord : their gains shall not be laid up nor kept in store ; but it shall be theirs that dwell before the Lord, that they may eat enough, and have clothing sufficient." Lo, here Esaias teacheth us the means to lay up treasure that ever shall endure. Moreover, in the sixth chapter of Matthew the very same is repeated that was spoken of before. Let every one also call to his memory the other wholesome sentences of the Lord his God, to stir him up to the giving of alms. In
 
@@ -168,19 +153,17 @@ Moreover let him that is wealthy do good to all men, so TO whom we near as he ca
 
 [3 Tobit iv. 7. This lesson is given by Tobit to his son, Tobias, according to the authorised Version ; but in the Vulgate the names of the father and son are alike Tobias ; as also in the earlier English translation of the Bible.]
 
-04 THE THIRD DECADE. [sERM.
-
 HOW we Now our duty is to aid, and stand them in stead, with j£oitto ' counsel, comfort, help, money, meat, drink, lodging, raiment, commendations, and with all things else wherein we perceive that they lack our helping hand : touching which I spake somewhat in the tenth sermon of the first Decade1. We must also succour them readily, with a willing heart and a cheerful [2Cor.ix. r.jmind : "for God requireth a cheerful giver." And in helpHow far we jng them let us do liberally : for Tobias saith, " Be merciful good. after thy power2: If thou have much, give plenteously; if thou have little, do thy diligence gladly to give of that little. For in so doing the Lord shall bless both thee and thine."
 
 Thus much, my brethren, have I hitherto said touching the lawful use of earthly goods. God grant that every one of you may print these sayings in his heart, and put in practice this holy work. Let us pray to the Lord that he will vouchsafe so to direct us in his ways, that for the getting of those transitory goods we lose not the everlasting treasure of his heavenly kingdom.
 
-OF THE PATIENT BEARING AND ABIDING OF SUNDRY
+## Of the Patient Bearing and Abiding of Sundry
 
-CALAMITIES AND MISERIES: AND ALSO OF THE
+## Calamities and Miseries: And Also of The
 
-HOPE AND MANIFOLD CONSOLATION OF
+## Hope and Manifold Consolation Of
 
-THE FAITHFUL.
+## The Faithful
 
 ---
 [[Bullinger Dec 24 Decade 3, Sermon 1|← 24. Decade 3, Sermon 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 26 Decade 3, Sermon 3, Part 1|26. Decade 3, Sermon 3, Part 1 →]]

@@ -10,10 +10,9 @@ written: "1742"
 tags:
   - jonathan-edwards
 ---
-
 # PART III.
 
-SHOWING, IN MANY INSTANCES, WHEREIN THE SUBJECTS, OR ZEALOUS PROMOTERS, OF THIS WORK HAVE BEEN INJURIOUSLY BLAMED.
+*Showing, in Many Instances, Wherein the Subjects, or Zealous Promoters, of This Work Have Been Injuriously Blamed*
 
 This work, which has lately been carried on in the land, is the work of God, and not the work of man. Its beginning has not been of man’s power or device, and its being carried on depends no on our strength or wisdom; but yet God expects of all, that they should use their utmost endeavours to promote it, and that the hearts of all should be greatly engaged in this affair. We should improve our utmost strength in it, however vain human strength is without the power of god; and so he no less requires that we should improve our utmost care, wisdom, and prudence, though human wisdom, of itself, be as vain as human strength. Though God is wont to carry on such a work, in such a manner as many ways to show the weakness and vanity of means and human endeavours in themselves; yet, at the same time, he carries it on in such a manner as to encourage diligence and vigilance in the use of proper means and endeavours, and to punish the neglect of them. Therefore, in our endeavours to promote this great work, we ought to use the utmost caution, vigilance, and skill, in the measures we take in order to it. A great affair should be managed with great prudence. This is the most important affair that ever New England was called to be concerned in. When a people are engaged in war with a powerful and crafty nation, it concerns them to manage an affair of such consequence with the utmost discretion. Of what vast importance then must it be, that we should be vigilant and prudent in the management of this great war with so great a host of subtle and cruel enemies. We must either conquer or be conquered; and the consequence of the victory, on one side, will be our eternal destruction in both soul and body in hell, and on the other side, our obtaining the kingdom of heaven, and reigning in it in eternal glory! We had need always to stand on our watch, and to be well versed in the art of war, and not be ignorant of the devices of our enemies, and to take heed lest by any means we be beguiled through their subtlety.
 

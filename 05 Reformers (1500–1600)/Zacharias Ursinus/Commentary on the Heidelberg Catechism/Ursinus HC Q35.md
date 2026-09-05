@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 35. What is the meaning of these words, "He was conceived by the Holy Ghost, born of the Virgin Mary?"
-
-**Question 35. What is the meaning of these words, "He was conceived by the Holy Ghost, born of the Virgin Mary?"**
 
 Answer. That God's eternal Son, who is, and continueth true and eternal God, took upon him the very nature of man, of the flesh and blood of the Virgin Mary, by the operation of the Holy Ghost, that he might also be the true seed of David, like unto his brethren in all things, sin excepted.
 
-**EXPOSITION**
+## **Exposition**
 
 The exposition of this question is necessary on account of ancient and modern heretics, who have denied, and who now deny, that the flesh of Christ was taken from the substance of the Virgin. The Eutychians argue: Christ was conceived by the Holy Ghost; therefore the flesh of Christ was produced from the substance of the Divinity, or from the essence of the Holy Ghost, and by this means the divine nature was changed into the human. The fallacy of this argument arises from an incorrect use of a figurative mode of speaking; for the terms by, from, or of the Holy Ghost do not signify a material, but an efficient cause, the power, efficacy, virtue, or operation of the Holy Ghost; for it was by the virtue, or operation of the Holy Ghost that the Son of God was conceived in the womb of the Virgin, according to the words of the angel: "The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee." (Luke 1:35.) Christ is also called the seed of Abraham, the Son of David. Therefore he took his flesh from these fathers, and not from the Holy Ghost. As we are born of God because he made us, so Christ was conceived by the Holy Ghost; because it was by his virtue and operation that he was conceived; and not because he was formed from the substance of the Holy Ghost.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Manoah's Wife and Her Excellent Argument
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1340
-
-DELIVERED BY.
 
 > "And Manoah said unto his wife, We shall surely die, because we have seen God. But his wife said unto him, If the Lord were pleased to kill us, He would not have received a burnt offering and a meat offering at our hands, neither would He have showed us all these things, nor would He at this time ha ve told us such things as these." Judges 13:22,23.
 
@@ -110,7 +107,6 @@ Ah, if He had meant to destroy you, He would not have spoken a text of such a wi
 Now you are sitting to hear that Jesus has died to save such as you are! You are sitting where you are, earnestly bid to trust Him and be saved! If the Lord had meant to slay you, I do not think He would have sent me on such a fruitless errand as to tell you of a Christ who could not save you! Some of you have had your lives spared very remarkably. You have been in accidents on land or on sea—perhaps in battle and shipwreck. You have been raised from a sickbed. If the Lord had meant to destroy you, surely He would have let you die—but He has spared you, and you are getting on in years—surely it is time that you yielded to His mercy and gave yourself up into the hands of Grace. If the Lord had meant to destroy you, surely He would not have brought you here, for, possibly, I am addressing one who has come here, wondering why.
 
 All the time that he has been sitting here, he has been saying to himself, "I do not know how I got into this place, but here I am." God means to bless you, tonight, I trust, and He will, if you breathe this prayer to Heaven, "Father, forgive me! I have sinned against Heaven and before you, but for Christ's sake, forgive Me! I put my trust in Your Son." You shall find eternal life, rejoicing in the sacrifice which God has accepted! You shall, one of these days, rejoice in the revelations of His love and in the promises which He gives you, and say, as we say tonight, "If the Lord were pleased to kill us He would not have showed us all these things!"
-
 
 ---
 [[Sermon 1339 Idols Abolished|← #1339]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1341 Retreat Impossible|#1341 →]]

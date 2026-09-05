@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 6
 
 V. 1. opened. Seeing that the seals are first loosed, and the book is then opened, he has purposely changed the accustomed order. For in that He suffered and rose again, the Lord taught the Church that He was the end of the law; and in that He ascended into heaven, by the mission of the Holy Spirit, He strengthened the Church with the gift of a more hidden mystery. So
@@ -41,8 +39,6 @@ y St John xiv. 27. Job xl. 14 (19 A. V.),
 
 • 2 Cor. vii. 5.
 
-40 Explanation of the Apocalypse. [bk. i.
-
 8 pale. Heretics who assume the garb of Catholics, are worthy to have death abide in their midst, and they draw after them the army of the lost For the devil and his servants are, by a metonymy, called death and helL It may also be taken simply, that there eternal punishment follows those who here are spiritually dead.
 
 four (the fourth part). Behold the madness of Arius, which arose from Alexandria, and reached as far as the Gallic ocean, and pursued the godly, not only with a famine of the word of God, but also as wild beasts, with a material sword. Another version has translated it, "the fourth part**," because the three evil horses, confident in their rider, the devil, attack the fourth, the horsemen of the Church.
@@ -64,8 +60,6 @@ How long? They ask not this in hatred of their enemies, for whom they made suppl
 rest The desire of resurrection is not denied, but deferred, that the brethren may be gathered in and multiplied. For the joy of souls itself may also be represented by white robes, when they learn by
 
 * 2 Mace vii. 36, Sept, K*¥vdov fw^f ^h HiaSijicfiP OfoS ircTi6Kourt; Vulg., *'sub testamento setemse vitae effect! sunt;" Bed., " sub testamento Dei cecidenmt;" A. V., "are dead under God's covenant of everlasting Ufe." * Isa. Ixi, 7.
-
-42 Explanation of the Apocalypse. [bk. i.
 
 the revelation of the Lord, that the ungodly are to be condemned at the last, and that even unto the end of the age many are to be joined to their number by martyrdom. Therefore, imbued with internal charity, and content with this consolation, they have been willing rather that their own joys should be deferred for the completion of the number of the faithful
 
@@ -96,8 +90,6 @@ hid. While all the weak at that time seek to be strengthened by the examples of 
 Ps. ciii. (civ. A. V.) 18. Bed,, erinaceiSf "hedgehogs;** Vulg., herinacas; Sept, MS. Vat, xo^o7PvAA/bis, MS. Al., \9ymns: A. V. "coneys." It is one of the Pachydermatous class, living in holes in the rocks, of which the scientific name is Hyrax Syriactis; see Smith*5 Bible Diet, Gesenius translates the Hebrew
 
 name for it, ]D^, " the jerboa." Lex, s. v.
-
-44 ExplanatUm of the Apocalypse. [bk. l
 
 who has now taken care to be watchful, to stand in the £uth, to act manfiilly. But if thou refer this earthquake literally to the day of judgment itself, it is no marvel if the kings and princes of the earth are then afraid, and seek the refuge of the holy hills. For so, in the rich man clothed in purple, and the poor Lazarus, we read ^ that it has already taken place.
 

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 46
 
-**CHAPTER 46**
+***Chapter 46***
 
 ## Isaiah 46:1-13
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Mourning at the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2901
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "AndI will pour upon the house ofDavid, and upon the inhabitants of Jerusalem this Spirit of Grace and of supplications: and they shall look upon Me whom they have pierced, and they shall mourn for Him, as one mourns for his only son, and shall be in bitterness for Him, as one that is in bitterness for his first-born." Zechariah 12:10.
 
@@ -103,7 +100,7 @@ But while evangelical repentance does not take away sin, wherever it is present 
 
 Before I close I would that some poor sinner, instead of trying to mourn for sin, would first look to Jesus Christ upon the Cross, for that is the way to be made to mourn for sin! Instead of thinking that repentance can cleanse you, look to the finished work of Jesus and believe in Him, for that is the only way by which pardon can come to you. May God bless us all and keep us always repenting and always believing, and He shall have the praise and the glory forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ZECHARIAH12; 13:1.
+## Exposition by C. H. Spurgeon: Zechariah 12; 13:1
 
 Zechariah 12:1. The burden of the word of the LORD for Israel Thus says the LORD, which stretches forth the Heavens and lays the foundation of the earth, and forms the spirit of man within him. Note how this chapter begins— "The burden of the word of the LORD for Israel"—not againstIsrael. The Gospel is always, to the true preacher of it, the burden of the Lord, but, to those who receive it, it is a burden of blessing, a load of mercy. To those who reject it, it will become a burdensome stone, crushing them to their eternal ruin. God grant, in His Infinite Mercy, that none of us may belong to the last class!
 
@@ -138,7 +135,6 @@ He comes to their aid, they shall be a cup of trembling to their enemies. Those 
 14\. All the families that remain, every family apart, and their wives apart. Why these chapters were divided here, I cannot imagine, for it is clear that the passage should run right on.
 
 Zechariah 13:1. In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanliness.
-
 
 ---
 [[Sermon 2900 How God Comes to Man|← #2900]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2902 Holiness Demanded|#2902 →]]

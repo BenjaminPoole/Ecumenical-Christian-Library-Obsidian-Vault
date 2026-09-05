@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Sonship Questioned
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2613
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when the tempter came to Him, he said, If You are the Son of God." Matthew 4:3.
 
@@ -45,7 +42,7 @@ The text I have taken shows that Satan is apt at writing prefaces. He is cunning
 
 I. Let us look closely into this double temptation with which he attacked the Savior. "If You are the Son of God, command that these stones be made bread." And notice, first, that THE TEMPTER BEGINS BY ASSAILING THE
 
-SAVIOR WITH AN, "IF."
+## Savior with an, "If."
 
 Note that he does not begin with a point-blank denial, saying, "You are not the Son of God," but he suggests a doubt upon the point—"IYou are the Son of God." At the present time there is a spirit of infidelity creeping over the Christian Church and it puzzles and perplexes me to lay hold of it because of its very vagueness. Ministers and others of the modern-thought school do not positively assert that the Scriptures are not Inspired, but they have a theory of inspiration which practically comes to that conclusion. They do not actually say that Jesus Christ is not the Son of God, but they try to explain away His Divinity in such a fashion that they might just as well deny it at once. As for the Fall—oh, of course, there was a fall, but it was a matter of very small importance and the idea that the serpent tempted Eve is held up to positive ridicule as a myth, an ancient fable! The depravity of the human heart is admitted in words, but it is really denied when you come to see what those words actually mean. There is a new theology, lately sprung up, which has taken every pea out of the pod and every kernel out of the shell—and its advocates present us with the empty shucks and shells and say, "Do not quarrel with us. We are all brothers and there is very little difference between what we hold and what you teach, only we are not so dogmatic and positive as you are." Yet, all the while, they are throwing doubts upon that which is our very life! And we cannot help feeling that they have learned the devil's way of dealing with the Truth of God—"If, if, if."
 
@@ -105,7 +102,7 @@ Thus, dear Fiends, if you once thoroughly overcome that "if," it is very likely 
 
 I have been all this while talking to God's children about the "if." Yet I fear that I am addressing some to whom the devil will not say, "if," for he knows, and perhaps your own conscience knows, that you are not a child of God. O dear Friends, do not deceive yourselves about this matter! If you are not His children, do not pretend that you are, but remember that if you are not the children of God, you are children of the Evil One and heirs of wrath, even as others. Oh, may Infinite Mercy adopt you into the family of God! And the way that mercy works is by leading you to trust in Christ Crucified. Then you shall be put among the children—adopted into the Lord's family—yes, born into it by a new birth through faith in Jesus Christ! The Lord grant it to every unconverted one here and grant it now, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 3:13-17; 4:1-11.
+## Exposition by C. H. Spurgeon: Matthew 3:13-17; 4:1-11
 
 Matthew 3:13, 14. Then came Jesus from Galilee to Jordan unto John, to be baptized of him. But John forbade Him, saying, I have need to be baptized of You, and do You come to me.?Who among us would not have felt as John did? Shall the servant baptize the Master and such a Master even his Lord and Savior? But mark the condescension of our blessed Lord! He would do everything that He wished His people to do afterwards and, therefore, He would be baptized and set the example that He would have them all follow.
 
@@ -135,8 +132,7 @@ Matthew 4:1. Then was Jesus led up by the Spirit into the wilderness to be tempt
 
 —Adapted from The C. H. Spurgeon Collection, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2612 Questions and Answers Concerning Zion|← #2612]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2614 Strange Things|#2614 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Sweet Bow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3317
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He delights in mercy." Micah 7:18.
 
@@ -25,7 +22,7 @@ Sons of men, rejoice that such a God has revealed Himself to you! This should ca
 
 Now, surely it would suffice were I to sound this trumpet again and again with its celestial monotone. If you heard nothing but the same unvarying notes and did but remember them, believe them and come to God in consequence of them—there would be enough of a sermon in the text without further exposition or comment. "He delights in mercy." Nevertheless, as you are willing to listen, it will not be grievous to me to speak on such a lovely theme. Let me, therefore, mention some facts which prove it, answer some objections that are raised against it and warn you against some perversions of it and then endeavor to push home the great lessons which spring from it.
 
-I. FACTS WHICH PROVE THAT GOD DELIGHTS IN MERCY.
+## I. Facts Which Prove that God Delights in Mercy
 
 This is clear from the first dawn of promise. When our first parents sinned, He might, if He had pleased, without straining the words which He had spoken, have destroyed them both and so at once have put an end to the race of rebels. He had said, "In the day that you eat thereof you shall surely die." If He had chosen to give to that a literal as well as a spiritual meaning, He might surely have put on the black cap and condemned our parents to perish on the spot! But why did He permit them to live and to become the parents of an innumerable race? Why, from that single pair, has He allowed the millions of the race to spring? Because every man that is born becomes a sinner and in everyone of these millions there is space for God's mercy—these all furnish so many platforms, I might say, on which God might display His mercy—so many millions of black foils against which God shall put the sparkling sapphire of His mercy that its brightness may be more clearly seen! Surely, it is only because He delights in mercy that He spares this earth to swarm with sinners and to be covered over with multitudes of transgressors!
 
@@ -97,7 +94,7 @@ But mercy has my heart subdued,
 
 A bleeding Savior I have viewed, And now I hate my sin."
 
-EXPOSITION BY C. H. SPURGEON: PSALM 136; EPHESIANS1
+## Exposition by C. H. Spurgeon: Psalm 136; Ephesians 1
 
 Let us make this occasion a time of praise and thanksgiving! Let our hearts dance at the name of our God! Let our lips give expression thereto in joyful music!
 
@@ -146,7 +143,6 @@ Christ!
 17, 18. That the God of our Lord Jesus Christ, the Father of Glory, may give unto you the spirit of wisdom and Revelation in the knowledge of Him: the eyes of your understanding being enlightened; that you may know what is the hope of His calling, and what the riches of the Glory of His inheritance in the saints. That is a wonderful passage! We are not only to know our inheritance in God, but God's inheritance in us! Wonderful thing, and yet it is so! The Lord's portion is His people, Jacob is the lot of His inheritance. Joshua gave each one of the people his own portion, but all the people were God's portion! And today God delights in His people. He finds a solace in those whom He chose, in those whom He redeemed by blood, in those whom He brought near into daily fellowship with Himself!
 
 19-23. And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He worked in Christ when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, andpower, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and has put all things under His feet, and gave Him to be the Head over all things to the Church, which is His body, the fullness of Him that fills all in all
-
 
 ---
 [[Sermon 3316 Their Desired Haven|← #3316]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3318 How to Read the Bible|#3318 →]]

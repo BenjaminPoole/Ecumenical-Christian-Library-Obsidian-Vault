@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 24
 
-**CHAPTER 24**
+***Chapter 24***
 
 ## Joshua 24:1-14
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Redeeming the Unclean
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3458
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And every first-born of a donkey you shall redeem with a lamb; and if you will not redeem it, then you shall break its neck." Exodus 13:13.
 
@@ -43,7 +40,7 @@ Once more. By very nature, man is so obnoxious to the wrath of God that it is im
 
 Now what a very solemn Truth of God this is! Do not think that it is mystatement. It is really the teaching of God's Word, that the unregenerate man is an unclean man and cannot be acceptable to God. "He that believes not is condemned already, because he has not believed on the Son of God." The unrenewed man is corrupt! He is dead in trespasses and sins! Now this is meant for some of you. It is meant for some of you who are very excellent and amiable people, and very moral. It is meant not for the vilest of the vile, alone, but for all classes and conditions of men—for the professedly religious people, too. Unless your hearts are right before the Lord and you have believed in Jesus, you cannot, you never can, strive as you will, be received before the Most High any more than the donkey could be acceptable upon the altar of God! But now we advance to the second Truth of God which is in the text, namely, that—
 
-II. THE SERVICE OF MAN, WHICH GOD CANNOT ACCEPT, IS, NEVERTHELESS, GOD'S DUE.
+## II. The Service of Man, Which God Cannot Accept, Is, Nevertheless, God's Due
 
 God could not receive the donkey because it was unclean, but still it belonged to God for all that. God's claim extended over all the first-born, clean or unclean, and that claim must be maintained. Sinner, you cannot serve God—you are too sinful! Your heart too evil—your service too impure! But still, God's claim upon you for a perfectly holy life has not ceased. It has not lost its power, nor bated one jot or tittle of its just and righteous force. It has been laid down by some theologians as being almost a self-evident Truth that God will require no more of a man than he can do—but this, by every thoughtful mind—will be soon discovered to be a self-evident lie instead of being true—for God's Law is not
 
@@ -53,7 +50,7 @@ Take another instance. There are some men who have become such thieves that we s
 
 But I must pass on. The third thing in the text is this, that the difficulty in hand was met in this way—the donkey must be God's, yet it cannot be, for it is too impure for Him to receive! What then?
 
-III. IT MUST BE REDEEMED BY A SUBSTITUTE.
+## III. It Must Be Redeemed by a Substitute
 
 "Every first-born of a donkey you shall redeem with a lamb." Oh, the glorious Gospel comes out here in much of its effulgence in connection with the redemption of men! The Jew would, perhaps, deliberate awhile. "Well," he might say, "I fancy I should like to have this donkey grown up, for I need it as a beast of burden. But here is a lamb that must be killed in its place, and he is the more valuable of the two." I fancy I can hear a consultation held in the family as to what should be done. It may be that in some cases the lamb would be the less precious of the two. However what may be, it is agreed at the last that the lamb shall die and that the donkey shall live.
 
@@ -67,7 +64,7 @@ Now most men know that they are to be saved by Christ, but I am afraid—but I a
 
 "How then," says one, "may I know that Christ died for my soul?" Sir, do you trust Him? Will you trust Him now? If so, that is the mark of His redeemed! This is the King's mark upon His treasure! This is the mark of the great Sheep-Master upon all of those whom He has bought with His blood. If you will take Him to be the only pillar of your salvation. If you will build upon Him as the sole foundation of your everlasting hope, then you are His! And as for your sins, they are laid on Him. As for your righteousness, you have none of your own, but Christ's righteousness is yours! As in the case before us, the lamb was offered—the donkey was spared. The unclean animal lived—the clean creature died! There was a change of places. So does Christ change places with the sinner! Christ puts Himself in the sinner's place and what do we read? "He was numbered with the transgressors," and, being numbered with the transgressors, what then? Why, He was put to death as a transgressor! They crucified Him between two malefactors. He had to suffer the death of a felon! And though in Him was no sin, yet, "the Lord has made to meet upon Him the iniquities of us all." He was, before God, the Representative of all His people, and all the sins of His people covered Him until He had drunk the cup of wrath. And then He threw off the horrible incubus of His people's sins and cast the stupendous load of the guilt of all His elect down into the sepulcher and there left it buried forever! And in His rising from the dead, He gave to them the pledge and earnest of their acquittal and of their everlasting life! Ah, my Hearers, I wish I had a thousand tongues with which to proclaim this one Truth of God! As I have not, I ask the tongues of all those who know its preciousness to tell it forth. Tell the sick, tell the dying, tell the young, tell the old, tell sinners of every degree and every class, that salvation is not by what they do, nor by what they feel, but that it all lies in that Man who was once crucified, but who now lives in the power of an endless life before the eternal Throne of God! And if they say, "What do you mean by this?" tell them that this Man is none other than God Over All, blessed forever, and that He condescended to become Man and take upon Himself the sins of His people, and to be punished for their guilt, so that whoever believes on Him might not perish, but have everlasting life! The Just for the unjust, He died to bring us to God! This is the Gospel—the core, the kernel, the marrow of the entire Bible! You may say of all the Book besides, that it is but folds and wrappings—but this is what it wraps up—Substitution by Christ! This is but the box, the case—it is Christ that is the Jewel, the Treasure for which the case was made! Believe this Truth of God! Believe it as a Doctrine, but, better still, cast your souls on it, and say, "If it is so, then I will trust in the power of Him who loved, and lived, and died for sinners that I might go free." The last Truth of God in the text is a very solemn one, namely, that—
 
-IV. THE UNREDEEMED MAN MUST DIE.
+## IV. The Unredeemed Man Must Die
 
 The unredeemed donkey was put to a speedy and very ignominious death. "You shall break its neck." There was no bringing of it to the altar, but it must be as an obnoxious thing, killed with the axe and left. There is no choice for any man, woman, or child here, except this. If you trust in Christ, you are redeemed, and you shall live. If you do not, there is something worse for you than the breaking of the neck of the poor donkey. When they break its neck, it is done—just a pang and a struggle, and it is over. But it is not over with us when the time comes to execute the righteous sentence of the Law if Christ has not suffered that sentence for us and we are found unbelievers in Him! Then, first of all, the soul is torn from the body—the body left here, the soul to appear before God—and then it immediately receives the foretokens of its
 
@@ -97,9 +94,9 @@ What chains of vengeance must they feel,
 
 Who scorn these hands of love!" Oh, that, instead thereof, you would simply trust! And, trusting, you shall live! Amen
 
-EXPOSITION BY C. H. SPURGEON: EXODUS29:38-46; ISAIAH 53.
+## Exposition by C. H. Spurgeon: Exodus 29:38-46; Isaiah 53
 
-EXODUS29:38-46.
+## Exodus 29:38-46
 
 Verse 38. Now this is that which you shall offer upon the altar: two lambs of the first year, day by day, continually. Remember, as long as there was a Jewish state, the morning and the evening were to open and to close with the sacrifice of a lamb.
 
@@ -111,7 +108,7 @@ Verse 38. Now this is that which you shall offer upon the altar: two lambs of th
 
 46\. And they shallknow that Iam the LORD their God, that brought them forth out of the land ofEgypt, that I may dwell among them: Iam the LORD their God. Now concerning this same Lamb, we will read in—
 
-ISAIAH53.
+## Isaiah 53
 
 Blessed passage! I hope you all know it by heart—it should be like the alphabet to every child. See how it begins.
 
@@ -128,7 +125,6 @@ Verse 1. Who has believed our report? And to whom is the arm of the LORD reveale
 10\. Yet it pleased the LORD to bruise Him; He has put Him to grief: when You shall make His soul an offering for sin, He shall see His seed, He shall prolong His days, and the pleasure of the LORD shall prosper in His hand. "Yet it pleased the Lord to bruise Him." If ever there was a man whom God should have protected from every sorrow, and guarded from every stroke of injustice, it was Jesus! And unless it was for sins not His own, He suffered, unless it was as a Substitute for man, it was the most unjust of all heard of injustices that Christ should die at all!
 
 11, 12. He shall see of the travail of His soul, and shall be satisfied: by His knowledge shall My righteous Servant justify many; for He shall bear their iniquities. Therefore will I divide Him a portion with the great. And He shall divide the spoil with the strong: because He has poured out His soul unto death: and He was numbered with the transgressors; and He bore the sin of many, and made intercession for the transgressors. "He shall see of the travail of His soul." Oh, what a joy is this to us! He did not travail in vain. His pangs were as of a travailing woman, but the birth, the glorious birth that comes of it is the salvation of multitudes—this is His recompense!
-
 
 ---
 [[Sermon 3457 All Are Guilty|← #3457]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3459 More and More|#3459 →]]

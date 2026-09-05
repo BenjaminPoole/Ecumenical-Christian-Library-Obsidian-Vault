@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # A Plain Talk Upon An Encouraging Topic
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3101
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When my soul fainted within me I remembered the LORD: and my prayer came in unto You, into Your holy Temple." Jonah 2:7.
 
@@ -121,7 +118,7 @@ Yet let me not forget another Person of the sacred Majesty of Heaven—remember 
 
 And so I close by bidding you, if such is the case, to imitate Jonah's example and send up a prayer to Heaven, for it will come up even to God's holy Temple. Jonah had no prayer book and you need none. God the Holy Spirit can put more living prayer into half-a-dozen words of your own than you could get out of a ton weight of paper prayers! Jonah's prayer was not notable for its words. The fish's belly was not the place for picked phrases, nor for long-winded orations. We do not believe that he offered a long prayer, either, but it came right up from his heart and flew straight up to Heaven. It was shot by the strong bow of intense desire and agony of soul and, therefore, it speeded its way to the Throne of the Most High. If you would now pray, never mind your words—it is the soul of prayer that God accepts. If you would be saved, go to your chamber and rise not from your knees till the Lord has heard you. Yes, where you now are let your souls pour out themselves before God and faith in Jesus will give you immediate salvation!
 
-EXPOSITION BY C. H. SPURGEON: JONAH2.
+## Exposition by C. H. Spurgeon: Jonah 2
 
 Verse 1. Then Jonah prayed unto the LORD his God out of the fish's belly. What a strange place for prayer! Surely this is the only prayer that ever went up to God out of a fish's belly! Jonah found himself alive—that was the surprising thing, that he was alive in the belly of a fish—and because he was alive, he began to pray. It is such a wonder that some people here should continue to live that they ought to begin to pray. If you live with death so near and in so great peril, and yet you do not pray, what is to become of you? This prayer of Jonah is very remarkable because it is not a prayer at all in the sense in which we usually apply the word to petition and supplication. If you read the prayer through, you will see that it is almost all thanksgiving—and the best prayer in all the world is a prayer that is full of thankfulness. We
 
@@ -160,7 +157,6 @@ praise the Lord for what He has done for us, and thus we do, in effect, ask Him 
 9\. With the voice of thanksgiving, I willpay that that Ihave vowed. Salvation is of the LORD. That is one of the grandest utterances that any man ever made! "SALVATION!" Write it in capital letters. It is a very emphatic word in the Hebrew and I might read it, "Mighty salvation is of Jehovah." This is real, old-fashioned Calvinistic Doctrine spoken centuries before John Calvin was born! The whale could not endure it and he turned Jonah out and directly Jonah said, "Salvation is of the Lord." The world does not like that Doctrine and there are many professing Christians who do not like it. They say, "Salvation is of man's free will! Salvation is of the works of the Law! Salvation is of rites and ceremonies" and so on. But we say, with Jonah, "Salvation is of the Lord." He works it from beginning to end and, therefore, He must have all the praise for it forever and ever!
 
 10\. And the LORD spoke unto the fish, and it vomited out Jonah upon the dry land. God has only to speak and even sea monsters obey Him! I know not how He spoke to the fish. I do not know how to talk to a fish, but God does. And as the Lord could speak to that fish, He can speak to any sinner here! However far you may have gone from all that is good, He who spoke to that great fish and made it disgorge the Prophet Jonah, can speak to you, and then you will give up your sins as the whale gave up Jonah! God grant that it may be so this very hour! That is the prayer of an ancient mariner—may it be ours, as far as it is suited to our circumstances—and may we be brought by God's Grace to cry with Jonah, "Salvation is of the Lord"!
-
 
 ---
 [[Sermon 3100 Homage Offered to the Great King|← #3100]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3102 The Forerunner|#3102 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Savior Resting in His Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2720
-
-DELIVERED BY C. H. SPURGEON..
 
 > "He will rest in His love." Zephaniah 3:17.
 
@@ -69,7 +66,7 @@ Do you not see that the very thing that drove Him to labor now makes a pillow fo
 
 III. I find that Dr. Gill gives this as one of the meanings of the text, for he is always noted for giving a great variety of meanings to a text. And, sometimes, nobody knows which is the true one. When he is going to explain a passage of Scripture, he says, "It does not mean this, it does not mean that, and it does not mean the other." Probably nobody ever thought it did mean anything of the kind! After he has mentioned several things which it does not mean, he mentions some that it maymean, and then, last of all, he tells us what it actually does mean! He says our text means, "HE SHALL
 
-SOLACE HIMSELF IN HIS LOVE."
+## Solace Himself in His Love."
 
 There is something very sweet in love. Whether it is sweeter to be loved or to love, I know not, but, certainly, when the two experiences meet together, they are like two noble rivers which have flowed through a rich and fertile country and then combined to make some great lake, or inland sea—then are they broad waters indeed. Now Christ sees our love—the love which He has put into us meets the love which He has poured out towards us—and in both of these He finds a sweet solace. He solaces Himself in love—this cheers and comforts Him. Some men, when they would be cheered on earth, drink the wine which stirs their blood. Some men find comfort in company and the noisy, thoughtless talker makes them glad. Others, when they would be solaced, turn to books—these are their joys. Others, when they would be satisfied, rattle their gold, look over their mortgages, their estates, their bonds and things of that kind. And there are
 
@@ -95,7 +92,7 @@ Sometimes love makes a man silent. If you hear anything said against one whom yo
 
 O glorious silence! "He will be silent in His love." So I am inclined to believe it will be at the Last Great Day, when the books shall be opened. Christ will read out the sins of the wicked recorded against them, but, as for the sins of His people, "He will be silent in His love." I sometimes think that it will be so, though I cannot speak with authority. "No," He will say, "upon you be the curse—you who lived and died without washing in My blood in the fountain opened for sin and for uncleanness. But as for these, My people, they have had their sins blotted out and I will not read what is obliterated. I will be silent in My love."
 
-EXPOSITION BY C. H. SPURGEON: LUKE24.
+## Exposition by C. H. Spurgeon: Luke 24
 
 Verses 1-4. Now on the first day of the week, very early in the morning, they came unto the sepulcher, bringing the spices which they had prepared, and certain others with them. And they found the stone rolled away from the sepulcher And they entered in, and found not the body of the Lord Jesus. And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments. Brothers and Sisters, they might have been much more perplexed if they had found the body of Jesus there, for then His promises would not have been fulfilled and all their hopes would have been blighted forever! Unbelief is often the mother of needless perplexity. The Resurrection of Christ is plain enough to us now, but to those who had seen Him die and whose faith was so very weak, it was a cause for perplexity that they could not find His dead body. They meant to embalm it. They had brought sweet spices with them for that purpose. It was well that it was in their heart, although it was an unwise and needless project. Yet I doubt not that the Lord thought those spices were very sweet and that He accepted them because of the love they represented and, sometimes, you and I, in our ignorance, have tried to do for Christ what He would not wish to have us do, but He has understood our motive and accepted our intention, albeit that there was a mistake lurking behind it.
 
@@ -140,7 +137,6 @@ with them, He took bread, and blessed it, and broke it, and gave it to them. Tha
 44-51. And He said unto them, These are the words which I spoke unto you while I was yet with you, that all things must be fulfilled, which were written in the Law of Moses, and in the Prophets, and in the Psalms concerning Me. Then opened He their understanding, that they might understand the Scriptures, and said unto them, Thus it is written, and thus it behooved Christ to suffer, and to rise from the dead the third day: and that repentance and remission of sins should be preached in His name among all nations, beginning at Jerusalem. And you are witnesses of these things. And, behold, I send the promise of My Father upon you: but tarry you in the city of Jerusalem until you are endued with power from on high. And He led them out as far as to Bethany, and He lifted up His hands, and blessed them. And it came to pass, while He blessed them, He was parted from them, and carried up into Heaven. He went away in the act of blessing, and He has never left off blessing His people from that day to this.
 
 52, 53. And they worshipped Him, and returned to Jerusalem with great joy: and were continually in the temple, praising and blessing God. Amen.
-
 
 ---
 [[Sermon 2719 True Learning|← #2719]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2721 Faith Without Sight|#2721 →]]

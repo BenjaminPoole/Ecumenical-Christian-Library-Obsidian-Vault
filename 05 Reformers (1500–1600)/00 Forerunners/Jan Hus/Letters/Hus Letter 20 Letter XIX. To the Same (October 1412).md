@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 20. Letter XIX. To the Same (October 1412)
-
-LETTER XIX. TO THE SAME (October 1412)
 
 Do not draw back ; To me to live is Christ ; But I would gladly die; The attack on the Bethlehem; Christ grant us perseverance 101-2 xviii CONTENTS
 

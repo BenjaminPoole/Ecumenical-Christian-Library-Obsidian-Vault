@@ -87,7 +87,7 @@ He says rightly, you that desire, for the matter was not one of a proper and ord
 
 Ver. 22. For it is written, that Abraham had two sons, one by the hand-maid and the other by the freewoman.
 
-He returns again to Abraham, not in the way of repetition, but, inasmuch as the Patriarch's fame was great among the Jews, to show that the types had their origin from thence, and that present events were pictured aforetime in him. Having previously shown that the Galatians were sons of Abraham, now, in that the Patriarch's sons were not of equal dignity, one being by a bondwoman, the other by a free- woman, he shows that they were not only his sons, but sons in the same sense as he that was freeborn and noble. Such is the power of Faith.
+He returns again to Abraham, not in the way of repetition, but, inasmuch as the Patriarch's fame was great among the Jews, to show that the types had their origin from thence, and that present events were pictured aforetime in him. Having previously shown that the Galatians were sons of Abraham, now, in that the Patriarch's sons were not of equal dignity, one being by a bondwoman, the other by a free-woman, he shows that they were not only his sons, but sons in the same sense as he that was freeborn and noble. Such is the power of Faith.
 
 Ver. 23. Howbeit the son by the handmaid is born after the flesh; but the son by the freewoman is born through promise.
 
@@ -103,7 +103,7 @@ These: who? The mothers of those children, Sarah and Hagar; and what are they? T
 
 Ver. 25. Now this Hagar is Mount Sinai in Arabia:
 
-The bond- woman was called Hagar, and Hagar is the word for Mount Sinai in the language of that country. So that it is necessary that all who are born of the Old Covenant should be bondmen, for that mountain where the Old Covenant was delivered has a name in common with the bondwoman. And it includes Jerusalem, for this is the meaning of,
+The bond-woman was called Hagar, and Hagar is the word for Mount Sinai in the language of that country. So that it is necessary that all who are born of the Old Covenant should be bondmen, for that mountain where the Old Covenant was delivered has a name in common with the bondwoman. And it includes Jerusalem, for this is the meaning of,
 
 Ver. 25. And answers to Jerusalem that now is.
 

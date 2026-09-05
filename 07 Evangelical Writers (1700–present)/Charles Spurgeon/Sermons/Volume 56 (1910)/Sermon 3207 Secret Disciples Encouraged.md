@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Secret Disciples Encouraged
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3207
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Are not you also one of His disciples?" John 18:25.
 
@@ -101,7 +98,7 @@ I trust the questions I have put to you, my Hearers, will not be lost upon you. 
 
 then—and then, it willmatter if you are Christ's disciple, or not! It will notmatter, then, whether you have been rich or not, educated or not—but it will matter for all eternity whether you are His or not, for remember the division—"These shall go away into everlasting punishment; but the righteous into life eternal." God grant that you then may be with the company of the disciples of Jesus for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN18:12-27.
+## Exposition by C. H. Spurgeon: John 18:12-27
 
 Verses 12, 13. Then the bandand the captain and officers of the Jews took Jesus and boundHim, andledHim away to Annas first; for he was father-in-law to Caiaphas, who was the high priest that same year. [See Sermons #2820, Volume 49—
 
@@ -128,7 +125,6 @@ been high priest before, and he seems to have been still regarded as high priest
 #2106, Volume 35—"IN THE GARDEN WITH HIM".] Peter then denied
 
 again: and immediately the cock cre . We know that the Lord turned and looked upon Peter. He did not speak a word, perhaps lest Peter should fall into the hands of those who were round about him—but His look was sufficient to kindle in Peter the fires of repentance—and he went out to weep bitterly over his shameful denial of his Lord.
-
 
 ---
 [[Sermon 3206 'The Church of the First-born'|← #3206]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3208 The Faithful Olive Tree|#3208 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Shut In Or Shut Out
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1613
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 14, 1881,.
+*Delivered on Lord's-Day Morning, August 14, 1881*
 
 > "The Lord shut him in." Genesis 7:16.
 
@@ -148,7 +147,6 @@ They despised the long-suffering of God! They said, "Here has Noah been telling 
 Once let God shut the door and there will be an eternal separation between the ungodly and all hope and happiness. What came of it, then? The door of hope was shut and the multitude perished without hope! When I was thinking this over I fancied that I could preach about it, but I cannot. When I realize the fact that any one of my dear hearers could be shut out of Heaven I cannot bear it! I need to find a secret place to weep. If an angel should say to me, this morning, "All your hearers shall be saved but one and you must pick out the one who shall be shut out of Heaven," I should run my eyes anxiously up and down these lines of pews—and I should take up many an hour and at last cry—"No, I cannot take the responsibility of marking out the doomed man!"
 
 I would keep you here, I think, till I died, before I could make the horrible death-choice. I would say, "Lord, save everyone." And as for the marked man, I would cry, "Spare him! Do spare him!" Oh, my Hearers, will you do for yourselves what I could not dare to do for you? Will any man choose for himself to be lost? Will he count himself unworthy of eternal life and take it from himself? Then I must shake off the dust of my feet against him! I will have none of the responsibility! If you will be damned, you must do it yourselves! I will not be a partaker in the crime. Your blood be on your own heads! Go down to the Pit if you will deliberately choose to do so, but know this, that Christ was preached to you and you would not have Him! You were invited to come to Him, but turned your backs upon Him! You chose for yourselves your own eternal destruction! God grant you may repent of such a choice, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1612 The Minstrel|← #1612]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1614 Dressing In The Morning|#1614 →]]

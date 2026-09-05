@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Zealots
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 639
 
-DELIVERED ON SUNDAY MORNING, JULY 16, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 16, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Simon called the Zealot." Luke 6:15.
 
@@ -152,7 +151,6 @@ As for some of you who never were zealous—who are the fathers of no spiritual 
 But if there is anything in religion, it is worth everything! It cannot sit second at the table—it must have the first place. The Christian man is to be, first of all, a Christian man! Next to that a tradesman or what you will—but first of all a Christian man. The first thing with the Believer is his Lord. Christ will be nowhere if He is not first and chief and that religion is vain and void which does not fill the soul and take up the throne of the heart.
 
 May God allow us, then, to wear the character, if not the name of Simon the Zealot, and then we will wait at His footstool and serve Him after such sort as He shall help us to do and His shall be all the praise. But, ah, we must be converted first! So let the sinner remember that his first business is with this text—"Believe on the Lord Jesus Christ and you shall be saved"—that is, trust Jesus, for it is written, "He that believes and is baptized shall be saved. He that believes not shall be damned." God grant you Divine Grace to trust Christ and then to be zealous for Him. Amen.
-
 
 ---
 [[Sermon 0638 Who Are The Elect|← #638]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0640 The Gospel'S Power In A Christian'S Life|#640 →]]

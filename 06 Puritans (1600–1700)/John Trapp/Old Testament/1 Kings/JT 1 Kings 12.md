@@ -11,7 +11,6 @@ tags:
   - john-trapp
   - trapp-commentary
 ---
-
 # 1 Kings 12
 
 **Ver. 1.** And Rehoboam went to Shechem.] It was an oversight in Solomon, that he had not before his death made his son king—as David had done him, for preventing of troubles; as also in Rehoboam, that he being the undoubted heir of the kingdom—settled by God upon Solomon and his heirs (2 Samuel 7:12,13) -expected the consent of the people, whom he knew to be seditiously inclined, and yielded to meet them at Shechem, a city of Ephraim, that turbulent tribe, where Jeroboam was so powerful. But God, who infatuateth those he meaneth to punish, had a holy hand in all.
@@ -51,8 +50,6 @@ tags:
 **Ver. 18.** Sent Adoram, who was over the tribute.] But the sight of such an officer, he might well think, would enrage them rather. Herein therefore Rehoboam was also ill-advised: he should have considered that the rebellious multitude more regard commotioners than commissioners, and are more guided by rage than by right: flocking together, as clouds cluster against a storm, whilst violence and obstinacy, like two untamed horses, draw their desires in a blindfold career. To flee to Jerusalem.] Whither he returned lighter now by a crown than when he went forth: yet in better condition than was once our Henry VI, when deposed by Edward IV; he was not only bereft of all, but also sent again prisoner to the Tower the same day that he had a year before been carried through the city of London, as it were, in triumph, and had heard the shouts of the commons in every street crying, God save King Henry. Speed.
 
 **Ver. 19.** So Israel rebelled.] Rebellion it was in them, and no better: though nothing was therein done, but by the determinate counsel of God, and as he had foretold. Against the house of David.] Ill accidents ever attend such princes, as being absolute in power, -so they will needs have it, -will be too resolute in will and dissolute in life.
-
-**Ver. 20.** And made him king.] See Hosea 8:4. *[See Trapp on "Ho 8:4"]* But the tribe of Judah only.] See on 1 Kings 12:17. This tribe only followed the house of David ex animo, heartily and of free choice; the other ex occasione, occasionally, for religion’s sake, or otherwise.
 
 **Ver. 20.** And made him king.] See Hosea 8:4. *[See Trapp on "Ho 8:4"]* But the tribe of Judah only.] See on 1 Kings 12:17. This tribe only followed the house of David ex animo, heartily and of free choice; the other ex occasione, occasionally, for religion’s sake, or otherwise.
 

@@ -10,10 +10,9 @@ written: "1746"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER I.
 
-TO MR. GILLESPIE. IN ANSWER TO OBJECTIONS.
+*To Mr. Gillespie. In Answer to Objections*
 
 Northampton, Sept. 4, 1747.
 

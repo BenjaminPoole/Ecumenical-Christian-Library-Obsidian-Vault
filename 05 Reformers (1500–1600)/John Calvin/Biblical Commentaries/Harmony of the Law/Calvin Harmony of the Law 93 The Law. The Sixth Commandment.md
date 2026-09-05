@@ -11,7 +11,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 93. The Law: The Sixth Commandment
 
 **The Sixth Commandment**
@@ -24,7 +23,7 @@ tags:
 
 ## Deuteronomy 5:17
 
-**THE REPETITION OF THE SAME COMMANDMENT**
+## **The Repetition of the Same Commandment**
 
 **Deuteronomy 5**
 

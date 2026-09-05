@@ -11,10 +11,9 @@ tags:
   - wesley
   - wesley-notes
 ---
-
 # Luke — Introduction
 
-HEREIN WE MAY OBSERVE,
+*Herein We May Observe*
 
 - I. The beginning: and therein.
     - 1. The conception of John Chap. i, 5-25

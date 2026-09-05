@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Mustard Seed: A Sermon for the Sabbath-School Teacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2110
@@ -87,8 +86,7 @@ And, lastly, *we are bound to do it.* If so much will come out of so little, we 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Matthew 13:1-23.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’916, 643, 30.
-
+## Hymns from "Our Own Hymn Book"’916, 643, 30
 
 ---
 [[Sermon 2109 The Eye and the Light|← #2109]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2111 Filling With the Spirit and Drunkenness With Wine|#2111 →]]

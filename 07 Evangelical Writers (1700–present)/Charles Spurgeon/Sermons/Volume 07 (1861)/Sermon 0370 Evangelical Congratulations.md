@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # Evangelical Congratulations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 370
@@ -43,7 +42,7 @@ Think of this place, look around it. Conceive of it devoted to a purpose like th
 
 II. Secondly, we rejoice in the preaching of Christ because thereby the renovation in question is GRACIOUSLY
 
-GUARANTEED.
+## Guaranteed
 
 There can be conceived of by us a wise and sound plan that may, nevertheless, be frustrated when all comes to all by unknown and unperceived opposition. There are men all round about us who say, "Yes, and you ought to remember that and hold your peace, for just as beyond any question civilization will fail, so Christianity will fail likewise." And they apparently have a case; let us look at it. They say, "What can you do there" And then they point us to the masses rising up early, sitting up late, eating the bread of carefulness, if in hundreds of cases they can get the bread to eat. "What can you do there" And they point us to our merchants, our physicians, our statesmen, our artisans, our bankers who are all with one accord apparently looking for what they preposterously call the main chance. "What can you do there?''" And then they point us to religious assemblies where superstition and formalism have everything their own way, and where because of sacramental rites performed upon unconscious infants, people are told that they are members of Christ, children of God, and inheritors of the Kingdom of Heaven. "What can you do there" And then they point us—alas, how they can point us—to multitudes whose licentiousness and profligacy are gradationally gross, and perhaps to quite as many multitudes whose licentiousness is gradationally refined, and then they say, "Now look at them, look round and tell us whether such ones will ever be prevailed upon to deny ungodliness and worldly lusts, and to live soberly, righteously, and godly in this present world?" And they take our own utterance, our own Scripture, and they say, "You may well enough call them 'dead in trespasses and sins.'"
 
@@ -76,7 +75,6 @@ The maxim, the watchword, the war cry here will be Revelation, not intuition; fa
 "Let the vain world pronounce its shame, And fling their scandals on Your cause; We come to boast our Savior's name And make our triumphs in His Cross! With joy we tell a scoffing age, He wwho was dead has left the tomb! He lives above their utmost rage, And we are waiting till He come."
 
 Christ is preached! Therein do I rejoice, and therein I will rejoice! And now, Brothers and Sisters, let us have the rejoicing in a joyous collection. I catch that response of yours, and I catch it as an honest man with his eyes upon honest men; and if you go—in the main, at all events—with what I have now been saying, I ask you that you will give the evidence of your sympathy with me, and then and thereby the evidence of your sympathy with our Brothers and Sisters, in making your collection tonight the outward and the visible sign of a gladness of your inmost soul, which amounts, approximately at least, to the joy that is unspeakable and full of glory!
-
 
 ---
 [[Sermon 0369 The First Sermon in the Tabernacle|← #369]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0371 Opening Services|#371 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Cast-Off Sash
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1706
 
-DELIVERED AT THE THURSDAY EVENING LECTURE,.
+*Delivered at the Thursday Evening Lecture*
 
 > "Thus said the Lord unto me, Go and get a linen sash, and put it around your waist, and put it not in water. So I got a sash, according to the word of the Lord, and put it around my waist. And the word of the Lord came unto me the second time, saying, Take the sash that you acquired, which is around your waist, and arise, go to the Euphrates, and hide it there in a hole of the rock. So I went, and hid it by the Euphrates, as the Lord commanded me. And it came to pass after many days, that the Lord said unto me, Arise, go to the Euphrates, and take the sash from there, which I commanded you to hide there. Then I went to the Euphrates, and dug, and took the sash from the place where I had hid it: and, behold, the sash was marred, it was profitable for nothing. Then the word of the Lord came unto me, saying, Thus says the Lord, After this manner willImar thepride of Judah, and the great pride of Jerusalem. This evil people, who refuse to hear My words, who follow the dictates of their hearts and walk after other gods, to serve them, and to worship them, shall even be as this sash, which is good for nothing. For as the sash clings to the waist of a man, so ha ve I caused to cling unto Me the whole house of Israel and the whole house of Judah, says the Lord; that they might be unto Me for a people, and for a name, and for a praise, and for a glory: but they would not hear." Jeremiah 13:1-11.
 
@@ -144,7 +143,6 @@ And what is His reason for doing so? He tells us this in the text—He says that
 Next to that, we are told that they walked in the dictates of their hearts. That is a sure sign of the hypocrite or the false professor. He makes his religion out of himself, as a spider spins a web out of his own bowels! What sort of theology it is, you can imagine, now that you know its origin! This base professor grows his theology on his own back as the snail produces her shell! He is everything to himself—his own savior, his own teacher, his own guide! He knows so much, that if the world would only sit at his feet, it would become a wonderfully learned world in a very short time, so great a Rabbi is he! When a man is so puffed up that his own imagination is his inspiration, and his obstinacy holds him fast in his own opinion, then he has become as the sash which was taken from the Prophet's waist and put into a hole to rot away.
 
 Upon all this there followed actual transgression—"They walked after other gods to serve them and to worship them." This happens, also, to the base professor. He keeps up the name of a Christian for a little while and seems to be as God's sash. But by-and-by he falls to worshipping gold, or drink, or lust. Bacchus, or Venus becomes his deity. He turns aside from the infinitely glorious God and so he falls from one degradation to another till he hardly knows himself! He becomes as a rotten sash "which profits nothing." Neither God nor man are benefited by him. The Lord save you, dear Friends, from being found insincere in the day when He searches the heart. May He also save us from failing to be washed in the most precious blood. Is not this a fit subject for immediate and continuous prayer? See to it! The Lord bless you for His name's sake. Amen.
-
 
 ---
 [[Sermon 1705 The Hearing of Faith|← #1705]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1707 Herein Is Love|#1707 →]]

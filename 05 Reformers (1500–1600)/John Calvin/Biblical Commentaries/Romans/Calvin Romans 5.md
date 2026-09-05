@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Romans 5:1-2
 

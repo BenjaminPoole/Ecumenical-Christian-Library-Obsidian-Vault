@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 31
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**DIVINE, EVER-LIVING, UNCHANGING**
+## **Divine, Ever-Living, Unchanging**
 
 > But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you" I Peter 1:25
 
@@ -27,7 +26,6 @@ We have here an ever-living gospel, as full of vitality as when it first came fr
 We have an unchanging gospel, which is not today green grass, and tomorrow dry hay; but always the abiding truth of the immutable Jehovah. Opinions alter, but truth certified by God can no more change than the God who uttered it.
 
 Here, then, we have a gospel to rejoice in, a word of the Lord upon which we may lean all our weight. "For ever" includes life, death, judgment, and eternity. Glory be to God in Christ Jesus for everlasting consolation. Feed on the word today, and all the days of thy life.
-
 
 ---
 [[FCB August 30|← August 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 1|September 1 →]]

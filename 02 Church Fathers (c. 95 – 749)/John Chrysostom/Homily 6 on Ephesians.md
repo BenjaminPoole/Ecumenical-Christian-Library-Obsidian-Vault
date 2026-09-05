@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 6 on Ephesians
 
-Chapter II. Verses 17-22
+## Chapter II. Verses 17-22
 
 And He came and preached peace to you that were far off, and peace to them that were near, for through Him we both have our access in one Spirit unto the Father. So then you are no more strangers and sojourners, but you are fellow citizens with the saints, and of the household of God, being built upon the foundation of the Apostles and Prophets, Christ Jesus Himself being the chief corner-stone. In whom each several building, fitly framed together, grows into a holy temple in the Lord. In whom you also are built together for a habitation of God in the Spirit.
 

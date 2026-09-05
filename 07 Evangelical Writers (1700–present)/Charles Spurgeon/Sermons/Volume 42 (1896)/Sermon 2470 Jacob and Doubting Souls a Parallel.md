@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Jacob and Doubting Souls a Parallel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2470
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Israel said, It is enough; Joseph my son is still alive: I will go and see him before I die." Genesis 45:28.
 
@@ -109,9 +106,9 @@ Once more, old Jacob was not kept back from going to see his son because it was 
 
 Decide for Christ now, I beseech you! May the Holy Spirit constrain you to decide at once, for Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—241, 508, 607.
+## Hymns from "Our Own Hymn Book"—241, 508, 607
 
-EXPOSITION BY C. H. SPURGEON: GENESIS45:9-28; JOHN5:24-44.
+## Exposition by C. H. Spurgeon: Genesis 45:9-28; John 5:24-44
 
 Genesis 45:9. Hurry up and go up to my father, and say to him, Thus says your son Joseph, God has made me lord of all Egypt; come down to me, tarry not. Joseph, having made himself known to his brothers, bids them return to their father and bring him down to Egypt to see his long-lost son.
 
@@ -138,7 +135,6 @@ John 5:24. Verily, verily, I say to you, He that hears My word, and believes in 
 32-40. There is another that bears witness of Me, and I know that the witness which He witnesses of Me is true. You sent to John, and he bore witness to the truth. But I receive not testimony from man: but these things I say, that you might be saved. He was a burning and a shining light: and you were willing for a season to rejoice in his light. But I have greater witness than that of John: for the works which the Father has given Me to finish, the same works that I do, bear witness of Me, that the Father has sent Me. And the Father Himself, which has sent Me, has borne witness of Me. You have neither heard His voice at any time, nor seen His shape. And you have not His Word abiding in you: for whom He has sent, Him you believe not. Search the Scriptures; for in them you think you have eternal life: and they are they which testify of Me. And you will not come to Me, that you might have life. They were great Bible-readers, great students of the letter, but they would not come to Christ and, therefore, the Scriptures, themselves, became a sepulcher in which they were entombed.
 
 41-44. I receive not honor from men. But I know you, that you have not the love of God in you. I am come in My Father's name, and you receive Me not: if another shall come in his own name, him you will receive. How can you believe, which receive honor, one of another, and seek not the honor that comes from God only? Some men find it difficult to believe in Christ because they are always seeking honor for themselves. Desire for the praise of men often blinds the mind and prejudices the spirit. How boldly our great Master speaks! There is no flattery on His lips. He is the faithful and true Witness, the very Word of God! Oh, that all men would give heed to His message!
-
 
 ---
 [[Sermon 2469 The Incomparable Bridegroom and His Bride|← #2469]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2471 The Best of All—god Is With Us|#2471 →]]

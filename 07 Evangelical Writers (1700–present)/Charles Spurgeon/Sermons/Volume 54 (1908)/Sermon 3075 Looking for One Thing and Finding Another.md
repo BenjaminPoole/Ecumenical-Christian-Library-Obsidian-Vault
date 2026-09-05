@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Looking for One Thing and Finding Another
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3075
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the donkeys of KKish, Saul's father, were lost. And Kish said to Saul, his son, Take now one of the servants with you, and arise, go seek the donkeys...And as for your donkeys that were lost three days ago, set not your mind on them; for they are found. And on whom is all the desire ofIsrael?Is it not on you, and on all your fathers house?" 1 Samuel 9:3,20.
 
@@ -31,7 +28,7 @@ Hence, it is most important for us to learn that the smallest trifles are as muc
 
 II. But that is not the consideration to which we now invite you. Our drift is this—as Saul went out to find donkeys, but found a crown, so, IN THE MATTER OF GRACE, MANY A MAN HAS RECEIVED WHAT HE LOOKED NOT
 
-FOR.
+## For
 
 That is a remarkable text in Isaiah—"I am found of them that sought Me not." Sometimes the Sovereign Grace of God is pleased to light on persons who had no thought about it—who were, to all appearance, quite unprepared for it—no, even opposed to its Divine operations. These persons have stumbled on the treasures hid in the field when they were only thinking of their plow. They have met Jesus at the well when they only purposed to fill their water pots. They have heard glad tidings of the Savior when they were only caring for their flocks.
 
@@ -73,7 +70,7 @@ There is one living in your parish, a swearer, and everything that is bad. You d
 
 IV. We will close when we have noticed, with great brevity, WHAT WE OUGHT NOT TO SAY ABOUT THESE
 
-THINGS.
+## Things
 
 We have told you what we should say about these remarkable conversions—we should behold the freeness and sovereignty of the Grace of God. We should be encouraged to seek it for ourselves and we should hope for the conversion
 
@@ -87,7 +84,7 @@ So it may be with many an one who has been suddenly converted. There was a mothe
 
 So that you see when we think there is no instrumentality, there really is an instrumentality if we could but see it. These remarkable cases must never be used as a reason why we are not to do all that we can to bring sinners to Christ! God's work, in such instances, instead of discouraging us, should stimulate action on our part. Because God works, are we to be still? No, but because God works, let us be workers together with Him that, through us, directly or indirectly, His purposes may be fulfilled. Suppose, now, it were known that the events of a certain battle would depend entirely on the skill of the general? The two armies are equally balanced and everything must depend upon the tact of the commander. Would the soldiers, therefore, conclude that they needed not to load, or fire, or draw a sword because everything depended on the commander? No, but the commander works and his soldiers work together with him. So is it with us. Everything depends on God but we are His instruments. We are His servants and because He is at our back, let us go forward with courage and zeal. The results are certain, God being our Helper. I charge you, my Brothers and Sisters, to take heart from the fact that God works great wonders! Go to your classes, or wherever else you may be laboring, singing cheerfully the song of hope and offering the prayer of full assurance. When we feel that we must have souls saved, souls will be saved! For my part, I cannot be happy unless sinners are led to Jesus. We must have it! The Holy Spirit will not let us rest without it! We shall have it—and God shall have the praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 9:1-25; 10:1-8.
+## Exposition by C. H. Spurgeon: 1 Samuel 9:1-25; 10:1-8
 
 1 Samuel 9:1, 2. Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power. And he had a son whose name was Saul, a choice young man, and handsome: and there was not among the children of Israel a more handsome person than he: from his shoulders and upward he was higher than any of the people. Here we have the pedigree of the great king of Israel, Saul, the son of Kish. He was descended from a noble tribe, though not a very large one, and he appears to have been endowed with a very notable personal appearance. "There was not among the children of Israel a more handsome person than he: from his shoulders and upward he was higher than any of the people." And to the Israelites of that day, who had got away from looking up to God and to the more valuable accomplishments of the mind and the heart, the striking personal appearance of Saul would be a great attraction and recommendation.
 
@@ -132,7 +129,6 @@ poured it upon his head, and kissed him, and said, is it not because the LORD ha
 6\. And shall be turned into another man. Note that Samuel did not say to Saul, "You shall be turned into a new man," for that is what he never was. He become, for awhile, anotherman—a different man from what he had been before—but he never became a gracious man.
 
 7, 8. Andlet it be, when these signs are come unto you, thatyou do as occasion servesyou; for Godis with you. And you shall go down before me to Gilgal; and, behold, I will come down unto you, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shall you tarry, till I come to you, and show you what you shall do.
-
 
 ---
 [[Sermon 3074 Danger. Safety. Gratitude|← #3074]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3076 The Cause and Effect of Heart Trouble|#3076 →]]

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 105. Matthew 12:46-50; Mark 3:31-35; Luke 11:27-28; 8:19-21
-
-MATTHEW 12:46-50; Mark 3:31-35;  
-Luke 11:27-28; 8:19-21
 
 **46**. And while he was still talking to the multitudes, lo, his mother and his brethren stood without, desiring to speak to him. **47**. And one said to him, Lo, thy mother and thy brethren stand without, desiring to speak to thee. **48**. But he answering said to him who had told him, Who is my mother, or who are my brethren? **49**. And stretching out his hand toward his disciples, he said, Lo, my mother and my brethren. **50**. For whosoever shall do the will of my Father who is in heaven, he is my brother, and sister, and mother.
 

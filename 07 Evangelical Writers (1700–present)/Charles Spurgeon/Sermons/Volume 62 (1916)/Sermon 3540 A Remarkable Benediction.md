@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Remarkable Benediction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3540
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And for the good will of Him that dwelt in the bush." Deuteronomy 33:16.
 
@@ -25,7 +22,7 @@ MOSES died blessing the people. This showed his meekness, for they had been his 
 
 The particular blessing which he gave to Joseph shall now have our attention and, first, we shall notice the blessing, itself, which he wished to Joseph. And, secondly, the peculiar form in which he worded it And, when we have thought that over, it shall be in our heart to wish the same to all who are present here. First, then, let us look at—
 
-I. THE GREAT BLESSING WHICH MOSES WISHED CONFERRED UPON JOSEPH.
+## I. The Great Blessing Which Moses Wished Conferred upon Joseph
 
 The good will of God—"the good will of Him that dwelt in the bush." I would like any man's good will. The better the man is, the more I would desire to have his good will. If it did not come to the benefacitor the good doing, I would like him to think benevolently towards me, to have his good will, if I never derived any particular good directly from him. One does not like to go to bed and feel you have an ill will from any man. Certainly, it is always well to feel that we have no ill will, ourselves, towards any, but that our good will reaches out to all! One would like to have the good will of wise men who could counsel us, and of great men who could help us. One would like to have the good will of angels, to know that they cheerfully obey the Divine Command to watch over us. But how much superior to all this is the good will of God—the good will of Him whose will is power, whose wish is fact, who has but to will it and the good that is willed becomes our good in very deed! Oh, 'tis a high blessing to have the good will of God! Beloved, our heart wishes this to
 
@@ -73,13 +70,13 @@ Perhaps you will be subject to many provocations, as Moses was from the people w
 
 "the good will of Him that dwelt in the bush" still be with you! Beloved, this is wished to you all! And I speak not my wish, but the benediction of the Lord upon all His servants, "The good will of Him that dwelt in the bush be with you." But, alas, all here are not servants of God. Yet even to them will I—
 
-III. ANXIOUSLY DESIRE THAT THIS WISH MAY BE FULFILLED TO YOU ALL.
+## III. Anxiously Desire that This Wish May Be Fulfilled to You All
 
 Oh, Sinner, tonight may He that dwelt in the bush call you! Moses little thought of it. He was keeping sheep, but a burning bush was enough to attract him. These few simple, feeble, but affectionate words, may, perhaps, be like the bush to you. Or if not, perhaps, a trouble at home will come and be like a thorn bush to you. I pray it may, and may God be in the bush! I do desire that God would in some way speak to you careless ones and arrest you, for you must come to know Him, or you will everlastingly perish! And may you be humbled in the Presence of God, each one of you, as Moses was, for he took off his shoes, feeling that the place whereon he stood was holy ground, and he was unholy. May you feel the solemnity of your position—a dying man soon to meet his Maker—a guilty man soon to meet his Judge—a despiser of Christ soon to see Christ on His Throne! O Soul, may you put off your carelessness and have done with your neglect, and begin to pray! And as the Lord of the burning bush said to Moses that He knew the sorrows of his people, I do pray, oh Sinner, that when you stand humbly before the Presence of God, you may see that God has pity upon you! May you look to Jesus on the Cross and see where He was like a bush that was burned with the anger of God, though not consumed— and may you, as you look, hear Him say, "I know your sorrows, for I have borne your sins and carried your transgressions for you." And oh, may you find peace tonight!
 
 Oh, it does not matter whether it is the back side of the desert, or the back gallery of the Tabernacle, or down below, beneath the galleries, or where it is—it will be a blessed spot to you if you find God tonight! Moses could never forget that spot near to Horeb, neither will you if the Lord should appear to you! It matters not who the preacher is, though he should be no more than a bush, yet shall he be an angel of God to you! The Lord grant that such an appearance may come to you by faith. May you look to Christ tonight, for, if not, you will have to see God, by-and-by, as a consuming fire! And remember this word, "Beware, you that forget God, lest I tear you in pieces, and there be none to deliver you!" May you never know the meaning of that, but on the contrary, may "the good will of Him that dwelt in the bush" be with you! Amen and amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS3.
+## Exposition by C. H. Spurgeon: Exodus 3
 
 Verse 1. Now Moses was tending the flock of Jethro, his father-in-law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb. It must have been a great change for Moses, after 40 years in the court of Pharaoh, to be spending another 40 years in the wilderness. But it was not wasted time—it required the first two periods to make Moses fit for the grand life of the last forty. He must be a prince and he must be a shepherd, that he might be both a ruler and a shepherd to God's people, Israel. He must be much alone. He must have many solitary conversations with his own heart. He must be led to feel his own weakness. And this will be no loss of time to him—he will do more in the last 40 years because of the 80 years thus spent in preparation! And it is not lost time that a man takes in putting on his harness before he goes to the battle, or that the reaper spends in sharpening his scythe before he cuts down the corn.
 
@@ -94,7 +91,6 @@ Verse 1. Now Moses was tending the flock of Jethro, his father-in-law, the pries
 8\. And I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good and a large land, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites. "Now, therefore, behold, the cry of the children of Israel is come unto Me," and when the cry of God's children goes unto Him, depend upon it, there will be something moving before long! When a father hears the cries of his children, when a mother hears the cry of her baby, it is not long before there will be a movement of the heart and of the hands! I am sure, Brothers and Sisters, there have been crises in English history which have been entirely due to the prayers of God's people. There have been singular occurrences which the mere reader of history cannot understand, but there is a number still alive who wait upon God in prayer, and they make history. There is more history made in the closet than in the cabinet of the ministry. There is a greater power at the back of the throne than the carnal eye can see, and that power is the cry of God's children!
 
 9-10. Now therefore, behold, the cry of the children of Israel has come unto Me: and I have also seen the oppression with which the Egyptians oppress them. Come now, therefore, and I will send you unto Pharaoh, that you may bring forth My people, the children of Israel, out of Egypt. I do not wonder that Moses opened his eyes when he knew what a poor creature he was for God to say, "Come now, therefore, and I will send you unto Pharaoh"—the very man whose life was sought by Pharaoh—"I will send you unto Pharaoh"—the man who had been rejected by his own people when he took their part—"You may bring forth My people, the children of Israel, out of Egypt." Oh, let us be ready for any commission! If God were to say that He would build up Heaven by the poorest and meanest among us, it would not be for us to draw back! Let Him do what He wills with us! Oh, for a faith to believe that in the midst of our weakness, God's strength would appear.
-
 
 ---
 [[Sermon 3539 Fine Pleading|← #3539]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3541 A Memorable Interview|#3541 →]]

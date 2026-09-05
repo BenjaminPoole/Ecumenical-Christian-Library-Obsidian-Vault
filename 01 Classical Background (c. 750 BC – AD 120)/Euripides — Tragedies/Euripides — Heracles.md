@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # Heracles (The Madness of Heracles)
 *Euripides · trans. Arthur S. Way*
 
@@ -19,13 +18,13 @@ tags:
 
 ---
 
-THE MADNESS OF HERAKLES.
+## The Madness of Herakles
 
-ARGUMENT.
+## Argument
 
 Herakles was hated from his birth by Hera, and by her devices was made subject to Eurystheus, king of Argos. At his command he performed the great Twelve Labours, whereof the last was that he should bring up Cerberus, the Hound of Hades, from the Underworld. Ere he departed, he committed Amphitryon his father, with Megara his wife, and his sons, to the keeping of Kreon, king of Thebes, and so went down into the Land of Darkness. Now when he was long time absent, so that men doubted whether he would ever return, a man of Eubœa, named Lykus, was brought into Thebes by evil-hearted and discontented men, and with these conspired against Kreon, and slew him, and reigned in his stead. Then he sought further to slay all that remained of the house of Herakles, lest any should in days to come avenge Kreon's murder. So these, in their sore strait, took refuge at the altar of Zeus. And herein is told how, even as they stood under the shadow of death, Herakles returned for their deliverance, and how in the midst of that joy and triumph a yet worse calamity was brought upon them by the malice of Hera.
 
-DRAMATIS PERSONÆ.
+## Dramatis Personæ
 
 Amphitryon, husband of Alkmena, and reputed father of Herakles.
 
@@ -49,7 +48,7 @@ Three young sons of Herakles; Attendants of Lykus and of Theseus.
 
 Scene:—At Thebes, before the royal palace. The altar of Zeus stands in front.
 
-THE MADNESS OF HERAKLES.
+## The Madness of Herakles
 
 Amphitryon, Megara, and her three sons by Herakles, seated on the steps of the altar of Zeus the Deliverer.
 

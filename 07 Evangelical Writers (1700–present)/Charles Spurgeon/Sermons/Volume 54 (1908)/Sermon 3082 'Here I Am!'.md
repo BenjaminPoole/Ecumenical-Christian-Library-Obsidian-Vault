@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # 'Here I Am!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3082
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD called Samuel, and he answered, Here I am!" 1 Samuel 3:4.
 
@@ -35,7 +32,7 @@ I am going to apply Samuel's little speech, "Here I am," specially to grown-up p
 
 I. I must devote the greater part of the time to the question, WHAT DID SAMUEL'S ANSWER, "HERE I AM,"
 
-SHOW?
+## Show?
 
 It showed, first, a hearing ear. God spoke and Samuel heard. Have you a hearing ear, dear Brother? Be grateful if you have, for all men have not that blessing. There are some who have an itching ear—and they come to a place of worship not to hear profit, but merely to judge, to criticize, to find fault, to draw comparisons between one speaker and another. If that is the case with you, dear Friend, may the Lord cure your ears of itching and open them to the Truth of God, for they are stopped up! John Bunyan speaks of Ear-Gate being stopped up with filth, and it is often so. Men cannot hear the voice of God because there is sin in the way—some darling sin—and they are not wise enough to realize that what they hear will be the means either of saving them or of damning them. Hearing true Gospel sermons is one of the most solemn occupations in which intelligent beings can be employed. Hearing ears are by no means common things—happy are you who have them.
 
@@ -91,7 +88,7 @@ Perhaps some of you think that only a great and eminent saint will be able, in t
 
 If, on Christmas night, when you were gathered around the blazing fire and the big log was burning on the hearth, and you were ready to sing for joy, if, I say, somebody were to ask, "Where is the baby?" There would be but one answer, "What? Is she not here?" Mother does not know where she is, does not father know? No, he thought the little one was all right. Do not her brothers and sisters know where the little one is? Suppose someone should say, "Don't worry yourselves about her, you be merry among yourselves." But mother cannot be merry without her baby, and father cannot rest, and brothers and sisters cannot rejoice as long as the little one is not there to share their joy. And I can tell you that God, Himself, and Christ, Himself, and the Holy Spirit, Himself, and the holy angels and all the host of the redeemed could not be happy in Heaven if one dear child of God who had trusted in Jesus should be missing at the Last Great Day! They would stop the angelic harps to find that lost one, and empty out Heaven, and send every angel and every saint out as a scout to find this poor little lost one that cannot be lost! If you are trusting in Jesus, answer to your name now, and say to Christ, "Lord, here I am!" And then you will be able to say to Him, before the Throne, "Here I am, Lord, and here will I adore You forever and forever!" God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 2:12-36; 3:1-18.
+## Exposition by C. H. Spurgeon: 1 Samuel 2:12-36; 3:1-18
 
 1 Samuel 2:12. Now the sons of Eli were sons of Belial; they knew not the LORD. What a very dreadful thing it was that these sons of a man of God, the sons of God's high priest, were not, themselves, sons of God, but sons of Belial, foul-
 
@@ -114,7 +111,6 @@ hearted, foul-mouthed, foul-living men, who knew not the very God at whose altar
 1 Samuel 3:1-13. [Mr. Spurgeon preached two sermons on verses 9 and 10—See Sermons #586, Volume 10—THE CHILD SAMUEL'S PRAYER and #2526, Volume 43—"SPEAK, LORD"] And the child Samuel ministered unto
 
 the LORD before Eli. And the Word of the LORD was precious in those days; there was no open vision. And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see; and before the lamp of God went out in the Temple of the LORD, where the Ark of God was, and Samuel was laid down to sleep; that the LORD called Samuel: and he answered, Here I am! And he ran unto Eli, and said, Here I am; for you called me. And he said, I called not; lie down again. And he went and lay down. And the LORD called yet again, Samuel. And Samuel arose and went to Eli, andsaid, Here Iam; for you did callme. Andhe answered, I callednot, my son, lie down again. Now Samuel did not yet know the LORD, neither was the Word of the LORD yet revealed unto him. And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here I am; for you did call me. And Eli perceived that the LORD had called the child. Therefore Eli said unto Samuel, Go, lie down: and it shall be, if He calls you, that you shall say, Speak, LORD; for Your servant hears. So Samuel went and lay down in his place. And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for Your servant hears. And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of everyone that hears it shall tingle. In that day I will perform against Eli all things which I have spoken concerning his house: when I begin I willalso make an end. For Ihave toldhim that I willjudge his house forever for the iniquity which he knows; because his sons made themselves vile, andhe restrained them not. Take warning, fathers and mothers, by this experience of old Eli!
-
 
 ---
 [[Sermon 3081 The Gracious Lips of Jesus|← #3081]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3083 Comfort for Those Whose Prayers Are Feeble|#3083 →]]

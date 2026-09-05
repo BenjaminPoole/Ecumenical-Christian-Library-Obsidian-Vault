@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 190. Matthew 24:37-42; Mark 13:33; Luke 17:26-37; 21:34-36
-
-MATTHEW 24:37-42; MARK 13:33;  
-LUKE 17:26-37; 21:34-36
 
 **37.** But as the days of Noah were, so shall also the coming of the Son of man be. **38.** For as in the days that came before the deluge, they were eating and drinking, marrying and giving in marriage, till the day when Noah entered into the ark, **39.** And knew not until the deluge came, [^1] and took them all away: so shall also the coming of the Son of man be. **40.** Two men shall then be in the field; one is taken, and the other is left. **41.** Two women shall be grinding at the mill; one is taken, and the other is left. **42.** Watch therefore, for you know not at what hour your Lord will come.
 

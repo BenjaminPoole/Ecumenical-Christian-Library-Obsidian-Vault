@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The 'Beau Ideal' of Life
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2987
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O satisfy us earl/ with Your mercy, that we may rejoice and be glad all our days." Psalm 90:14.
 
@@ -109,8 +106,7 @@ Dear young Friends, the way of the highest happiness is the way of absolute trus
 
 —Adapted from The C. HI. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2986 One Aspect of Christ's Death|← #2986]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2988 Great Pardon for Great Sin|#2988 →]]

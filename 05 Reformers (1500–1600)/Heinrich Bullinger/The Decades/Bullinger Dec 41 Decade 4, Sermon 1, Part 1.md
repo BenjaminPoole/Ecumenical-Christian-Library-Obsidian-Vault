@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 41. Decade 4, Sermon 1, Part 1
 
 Arter the exposition of the law, and those points of doctrine that depend upon the law?, I think it best now to come to the handling of the gospel, which in the exposition of the law and other places else hath been mentioned oftentimes. Now therefore, dearly beloved, as I have been hitherto helped with your prayers to God, so here again I request your earnest supplications? with me to the Father, that I by his holy Spirit may speak the truth to your edification‘ in this present argument.
@@ -56,8 +55,6 @@ That the gospel is tidings from heaven,
 
 [John i. 18; 111. 31, 32.
 
-4 THE FOURTH DECADE. [SERM.
-
 to us-ward, wherein it is declared to all the world, being set in the wrath and indignation of God, that God the Father of heaven is pleased in his only-begotten Son, our Lord Christ Jesus, whom, as he promised of old to the holy fathers, he hath now in these latter times! exhibited to us, and in him hath? given us all things belonging to a blessed life and eternal salvation, as he that for us men was incarnate, dead, and raised from the dead again, was taken up into heaven, and is made our only Lord and Saviour, upon condition that we, acknowledging our sins, do soundly and surely * believe in him.
 
 This definition, I confess, is somewhat with the longest: but yet withal I would have you think, that the matter, which is in this definition described, is itself very large and ample; which I have therefore in this long definition or description, with as great light as I could, endeavoured myself to make manifest to all men. Wherefore I neither could nor should have expressed it more briefly. This definition consisteth of just parts, which being once severally expounded and throughly opened, every man, I hope, shall evidently perceive the nature, causes, effects, and whatsoever else is good to be known, concerning the gospel.
@@ -76,8 +73,6 @@ First of all; that the gospel is tidings come from heaven, and not begun on eart
 
 ary
 
-6 THE FOURTH DECADE. [SERM.
-
 but all them also that are lawfully called and do bring the word of Christ. Therefore we understand it to be spoken concerning all the lawful ministers of the church, where the Lord doth say, “Whose sins soever ye forgive, they are forgiven them; and whose sins soever ye retain, they are retained :” and again, ‘‘ Whatsoever thou loosest on earth, shall be loosed in heaven; and whatsoever thou bindest on earth, shall be bound in heaven.” For in another place
 
 (Matt. x.15.] the Lord saith: “ Verily I say unto you, It shall be easier
@@ -95,8 +90,6 @@ The word “grace” is diversly used in the holy scriptures, even as itisin pro
 [John iii. 16.]
 
 [Rom. ii. 23, 24.]
-
-8 THE FOURTH DECADE. [SERM.
 
 anthropon, a lover of us men, who hath sent his own! Son, of his own nature, into the world for our redemption: whereupon it doth consequently follow, that God doth freely, of himself and for his Son’s sake, love man, and not for any other cause. Whereby immediately all the preparaments, incitaments, and merits of men, being dissolved by the fire of God’s great love, do vade and pass away like smoke. For the grace of God is altogether free; and unless it be so, I cannot see how it can be called grace. But it behoveth us in a thing so weighty to cite some evident testimonies of the holy scripture, to confirm our minds withal against all sophistical trifles and temptations of the devil. Our Lord in the gospel said: “So God loved the world, that he gave his only-begotten Son for the world, that every one which believe in him should not perish, but have life everlasting.” Lo here, this good-will of God, which is the favour and love wherewith God embraceth us, is the cause of our salvation. For Christ, having suffered for us, is our salvation. Now God? of very love hath given Christ both to us, and for us*. Neither may we think, that God was first moved by our love to him-ward to shew like mutual love to us again, and to give his Son for us; for he had determined, before the beginning of the world, to work our redemption through Christ his Son. And John the Evangelist in his canonical epistle saith: “Herein is love, not that we loved God, but that he loved us, and sent his Son to be an atonement for our sins.”
 
@@ -124,8 +117,6 @@ But now, although the grace of God doth not depend the working upon us or our wo
 
 [Rom. viii. 29—32.]
 
-10 THE FOURTH DECADE. [SERM.
-
 and confess!. And that is again proved both by divine and human testimonies. Paul to the Romans saith: “Those which he knew before, he also did predestinate: and those which he did predestinate, he also called: and those whom he called, he also justified: and those whom he justified, he also glorified. What shall we then say to these things ? If God be on our side, who can be against us? Which spared not his own Son, but gave him for us’, how shall he not with him also give us all things?” Again, in the first chapter of his Epistle to the Ephesians, he hath referred the whole work of election and salvation, with all the parts thereof, unto the grace of God. Moreover, the holy fathers in the council Mileventanum, among whom also St Augustine was present, made this decree touching the grace of God: “If any man say, that mercy is without the grace of God bestowed from above upon us, believing, willing, desiring, , endeavouring, studying, asking, seeking, and striving, (as of ourselves ;) doth not confess, that even to believe, to will, and to be able to do all these things as we should do, is wrought by the pouring in and inspiration of the Holy Ghost; if he join the humility or obedience of man as an help unto grace*; and if he doth not consent that it is the very gift of grace, even that we are humble and obedient ; he is directly contrary to the apostle, who saith, ‘ For what hast thou that thou hast not received?’ and, ‘By the grace of God I am that I am4’” Thus much say they. Now these divine and human testimonies being throughly
 
 [1 ubique, Lat.; throughout. ] [2 pro nobis omnibus, Lat. ]
@@ -136,15 +127,13 @@ and confess!. And that is again proved both by divine and human testimonies. Pau
 
 1668\. Par. 1671. This second council of Orange was held a.D. 529. Augustine was dead long before. |
 
-—— δ i ie a τ OF THE GOSPEL. ph considered, there is none, I hope, which may not understand that the grace of God is the same that I told you; to wit, the favour and good-will of the eternal Godhead, wherewith he according to his incomprehensible goodness doth embrace, eall, justify, and save men freely for Christ his sake, our Lord and Saviour. The blessed man Aurelius Augustine had a sharp conflict The contro- versy betwixt with Pelagius the Briton concerning the grace of God. For Avgistine and Pelagius x the the heretic did by grace understand nothing but the benefit pirat God. of the creation; which as Augustine denied not to be grace, so did he vehemently urge that the apostle® did especially speak of that free grace, whereby, without any merit of ours, we are freely saved for Christ his sake. This did he urge therefore the more earnestly, because he saw that® the heretic affirmed that his own human nature was sufficient unto him’, not to do only, but also to do perfectly, the commandments of God by free-will. But of these matters St Augustine doth very largely and religiously dispute in his ninety-fifth Epistle, Ad Innocentium®.
+—— δ i ie a τ OF THE GOSPEL. ph considered, there is none, I hope, which may not understand that the grace of God is the same that I told you; to wit, the favour and good-will of the eternal Godhead, wherewith he according to his incomprehensible goodness doth embrace, eall, justify, and save men freely for Christ his sake, our Lord and Saviour. The blessed man Aurelius Augustine had a sharp conflict The controversy betwixt with Pelagius the Briton concerning the grace of God. For Avgistine and Pelagius x the the heretic did by grace understand nothing but the benefit pirat God. of the creation; which as Augustine denied not to be grace, so did he vehemently urge that the apostle® did especially speak of that free grace, whereby, without any merit of ours, we are freely saved for Christ his sake. This did he urge therefore the more earnestly, because he saw that® the heretic affirmed that his own human nature was sufficient unto him’, not to do only, but also to do perfectly, the commandments of God by free-will. But of these matters St Augustine doth very largely and religiously dispute in his ninety-fifth Epistle, Ad Innocentium®.
 
 Many of the late writers, for teaching’s sake, have divided grace into grace that doth things acceptable, and grace 1. Gratia gratum that is gratis or freely given: again, they have divided it into }¢(gns
 
 2\. Gratia working grace, and joint-working grace: finally, they part #Grta” . . Ὲ t it into grace that goeth before, and grace that followeth after, gratia co-
 
 Ω . operans. And the very same writers also reckon up the operations 4. Cratia é preveniens, or effects of grace after this manner almost: grace healeth et gratia quens. [5 Apostolos, Lat.; the apostles. | [6 Pelagium, Lat. omitted. | [7 Rather, that human nature was sufficient unto itself. ] [3 Aurelius aliique episcopi, inter quos Augustinus, Innocentio Pape, de Pelagio quem audierant jam ad presbyterii gradum eyectum.—Aug. Ep. 95. (in the Benedictine Edition, 177.) Op. Par. 1531. Vol. 1. fol. 83. col. 2. In the course of this epistle it is charged ᾿ against Pelagius,—illum dicere gratiam, quam etiam cum impiis habemus, cum quibus homines sumus; negare vero eam qua Christiani et filii Dei sumus:—and it is replied—Etsi enim quadam non improbanda ratione dicitur gratia Dei, qua creati sumus....quia non precedentium aliquorum operum meritis, sed gratuita Dei bonitate donata est; alia est tamen qua preedestinati vocamur, justificamur, glorificamur. It is also stated that Pelagius affirmed,—non solum ad facienda, verum etiam ad perficienda mandata diyvina per liberum arbitrium humanam sibi sufficere naturam,—as here alleged by Bullinger. |
-
-12 THE FOURTH DECADE. [SERM.
 
 the soul, and maketh it first to will well, and then to work effectually the thing that it willeth: so it causeth it to persevere in goodness, and at length to come to eternal glory.
 
@@ -170,8 +159,6 @@ The first and most evident promise of all was made by the he first evangelie, ve
 
 [Gen. xxii. 18. ]
 
-14 THE FOURTH DECADE. [SERM.
-
 mise is, as it were, the pillar and base of all christian religion, whereupon the preaching of the gospel is altogether founded, and out of which all the other promises in a manner are derived. That promise is contained in these words of the Lord: “I will put enmity betwixt thee” (meaning the serpent, the devil, I say, in the serpent)! “and the woman?, and betwixt thy seed and her seed; and it shall tread down thy head, and thou shalt tread upon his heel.” God in these words promiseth seed; the seed, I say, not of man, but of woman; and that too, of the most excellent woman, to wit, that most holy virgin Mary, the woman that was blessed among all other women. For she conceived, not by any man, but by the Holy Ghost; and, being a virgin still, was delivered of Christ our Lord: who by dying and rising again did not only vex or wound, but also crush and tread down, the head, that is, the kingdom of Satan, to wit, sin, death, and damnation; taking away and making utterly void all the power and tyranny of that our enemy and deceiver. In the meanwhile Satan trod on Christ his heel; that is to say, he, by his members Caiphas, Pontius Pilate, the Jews and Gentiles, did with exquisite torments and death vex and kill the flesh, which was in Christ the lowest part, even as the heel is to the body*%. For the Lord in the Psalms saith: “I am a worm, and no man. They have brought my life into the dust.” But he rose again from the dead. For had he not risen again, he had not trodden down the serpent’s head. But now, by his rising, he is become the Saviour of all that do believe in him. Out of this promise is derived that singular and notorious one, which the angel of the Lord reciteth unto our father Abraham in these words following: “In thy seed shall all the nations of the world be blessed.” But Paul, in
 
 (Gal. iii. 16.] his epistle to the Galatians, doth in express words declare, that that blessed seed is ours*, which was promised to Abraham, Now our Lord is called by the name of seed because of the first promise made to Adam and Evah, and because he was for us incarnate and made very man. Neither is this promise re-
@@ -195,8 +182,6 @@ a et res futuras, Lat. omitted; and things to come. |
 [7 vel scriba, Lat. omitted; or a scribe. ] [8 Christi, Lat.]
 
 1 Pet. i.
-
-16 THE FOURTH DECADE. [SERM.
 
 preserved in the ark; for in Christ are the faithful saved ; as St Peter testifieth, 1 Pet. iii. Abraham offereth up Isaac, his only-begotten son, upon the top of the same mountain where many years after the only-begotten Son of God was offered upon the cross}. Joseph is by his brethren sold to the: heathen, he is cast in prison; but being delivered he doth become their Saviour, and is of all the people called the preserver of the Egyptian kingdom. In all these things was Christ our Lord prefigured.
 
@@ -238,7 +223,7 @@ The unfigured and uncovered promises are almost without number in the Psalms and
 
 [16 refert ad eternitatem, Lat. ] bo
 
-[BULLINGER, II. |
+## [Bullinger, II. |
 
 (Jer. xxiii. δ.
 
@@ -251,8 +236,6 @@ Joel [1]. 28— 32.]
 John [x.]
 
 Dan. ix.
-
-18 THE FOURTH DECADE. [SERM.
 
 through all the compass of the world. Jeremy saith, that God would raise up to David a true seed or branch, that 1s, the looked-for Messiah; and in that prophecy he alluded to the law concerning the raising up of seed to the deceased brother. For the virgin, conceiving by the Holy Ghost, brought forth a Son, whose name is Jehovah, being very God in very deed, whom Esay calleth Immanuel, and is the true righteousness of all that do believe in him ; for by Christ are the faithful justified. For the same prophet’ in the thirty-first chapter doth promise in Christ full or absolute remission of sins and abundant grace of the Holy Ghost: which thing Joel also did not conceal. Thus out of many testimonies I have picked out only these few in number; for the whole books of the prophets are occupied in the description of Christ and his offices.
 
@@ -286,8 +269,6 @@ They shew that Christ doth come of the stock of David, descending lineally of th
 
 { Luke 11, 30— 32.)
 
-20 THE FOURTH DECADE. [sERM.
-
 his mother was the virgin, which did conceive by the Holy Ghost, and, being a virgin still, brought him into the world. They note the time wherein Christ was revealed, in all points correspondent to the prophets’ prophecies. They add, that the place of his nativity was answerable to that which Micheas foretold. In the East there appeareth a star, which moveth the princes!, or wise men, to go and salute the newborn King. They come therefore, and even in Hierusalem? do openly profess that the Messiah is born, and that they are come out of the East to worship and honour him. According to their words so were their deeds: for when by the leading of the star they had once found him, they fall down before him, and do, by offering to Christ the gifts that they brought, not obscurely declare how joyful they were, and how much they set by their Lord and Saviour?. In the very city of Hierusalem* the most just man Simeon with great joy of heart and godly gratulation doth in the temple openly testify, that God according to his eternal goodness® and constancy had given to the world his onlybegotten Son, whom he had promised unto the fathers; therewithal protesting that he was willing to die®& He addeth the cause; ““ For that,” saith he, “mine eyes have seen thy salvation,” to wit, that Schilo, the Saviour’, whom thou, O God, hast determined to “set before all people, a light to lighten the Gentiles, and to be the glory of thy people Israel.” that is, that he, shaking off all darkness, should bring the light of truth and life unto the Gentiles, to lighten them withal; and that he should be the glory and life of the people of Israel. Hereunto also belongeth the testimony of that notable man Zachary, the holy priest of God, saying: * Blessed be the Lord God of Israel; for he hath visited and redeemed his people, and hath raised up a horn of salvation for us in the house of his servant David; as he spake by the mouth of his holy prophets, which have been since
 
 [1 magos viros primarios et sapientissimos, Lat. ]
@@ -302,7 +283,7 @@ his mother was the virgin, which did conceive by the Holy Ghost, and, being a vi
 
 Christ, that and that God, by giving him unto the world, hath done that is that ue he promised, and wholly poured himself with all his benefits Mesias. into and upon all faithful believers. “And as the people waited” (saith Luke), “and thought in their hearts of John, (tute iit. 1, whether he were very Christ; John answered, saying to them ᾿ all, Indeed I baptize you with water; but one stronger than
 
-I cometh after me, whose shoe-latchet I am not worthy to unloose ; he shall baptize you with the Holy Ghost and with fire.’ And in the Gospel after St John we read: “The Pee next day John seeth Jesus coming unto him, and saith, Be- hold the Lamb of God, which taketh away the sin of the world. This is he of whom I said, After me cometh a man which is preferred before me®, because he was before me;
+I cometh after me, whose shoe-latchet I am not worthy to unloose ; he shall baptize you with the Holy Ghost and with fire.’ And in the Gospel after St John we read: “The Pee next day John seeth Jesus coming unto him, and saith, Be-hold the Lamb of God, which taketh away the sin of the world. This is he of whom I said, After me cometh a man which is preferred before me®, because he was before me;
 
 and I knew him not: but that he should be declared unto
 
@@ -319,8 +300,6 @@ The Father loveth the Son, and hath given all things into
 [9 qui me antecessit, Lat. and Erasmus; qui ante me factus est, Vulg.)
 
 [10 gaudio gaudet propter yocem sponsi, Lat. |
-
-22 THE FOURTH DECADE. [SERM.
 
 his hand. He that believeth in the Son hath life everlasting: he that believeth not in the Son shall not see life, but the wrath of God abideth upon him.”
 
@@ -344,8 +323,6 @@ The Jews deny that Christ is come, or that Jesus is Christ.
 
 [ Luke xix, 43, 44.)
 
-24 THE FOURTH DECADE. [SERM.
-
 plainly? “I,” saith he, “am the Messiah; even I, I say, that do even now speak to thee, and did at the first say, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink, thou wouldst have asked of him, and he would have given thee water of life. For whosoever shall drink of the water that I shall give him, he shall never be more athirst: but the water that I shall give him shall be in him a well of water springing up into eternal life.’ They therefore are the most thirsty and unfortunate! of all men, which long for and look after another Messiah beside our Lord and Saviour Christ Jesus. The apostle St Peter in a meetly long oration, well grounded and confirmed with scripture and strong reasons, in the second of the Acts, doth shew that our Lord Jesus is that true Messiah: for with this sentence he shutteth up his sermon: ‘ Therefore let all the house of Israel surely know, that God hath made both Lord and Christ this Jesus, whom ye have crucified.” To the same mark tendeth that large and learned oration of the first martyr St Stephen, which is extant to be seen in the seventh chapter of the Acts*. Philip doth out of Esay’s prophecy declare to the eunuch of (dxthiope that Jesus is Christ. St Paul in all the Jewish synagogues putteth forth none other proposition to preach on but this; Jesus is Christ, that is, Jesus is the king, the bishop, and the Saviour of the faithful. And in the thirteenth chapter he doth at large declare and prove that proposition true.
 
 So now these most evident and clear testimonies of holy scripture cannot choose but suffice such heads as are not of purpose set to cavil and wrangle. I will not at this present too busily and curiously dispute against the overthwart Jews, who look for another Messiah, and do deny that our Lord Jesus, the Son of God and the virgin Mary, is the true Messiah. The wretches feel that to be true, which the Lord in his gospel did foretell them, saying: ‘* When ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place, let him that readeth understand. Then let them that are in Jurie flee to the mountains. But woe to them that are with child and give suck in those days; for great shall the affliction be.” And again, speaking of the city of Hierusalem, he saith: “The days shall come
@@ -361,8 +338,6 @@ So now these most evident and clear testimonies of holy scripture cannot choose 
 God the Father bein angry with the world, is pleased with it in the Son.
 
 [Rom, i. 18.]
-
-26 THE FOURTH DECADE. [SERM.
 
 of St Peter: “We are the royal priesthood, an holy nation, a peculiar people; being called hereunto, that we should preach the power of him’ which hath called us out of darkness into his marvellous light.” Therefore let the unhappy Jews (unless perhaps they had rather to be entangled in greater errors, to be vexed daily with endless calamities, and so at last perish eternally”) turn unto Christ by faith, and together with us begin to worship him in whom their fathers hoped, and in whom alone is life and salvation. For, that I may with the apostle’s words conclude this place: ‘God is made manifest in the flesh, justified in the spirit, seen to the angels, preached to the Gentiles, believed in the world, and received in glory®. And every one that believeth in him shall live eternally, and never be confounded.”
 
@@ -382,7 +357,7 @@ But the heavenly Father is appeased, or reconciled to this wicked world, through
 
 For now I must prove that God the Father hath in his au things
 
-Son given us all things that are necessary to a happy life and lite and sal- mare eternal salvation. I name here two things; a happy life, fully given us in Christ Jesus,
+Son given us all things that are necessary to a happy life and lite and sal-mare eternal salvation. I name here two things; a happy life, fully given us in Christ Jesus,
 
 [* See Tyndale’s Doct. Treat. ed. Parker Soc. p. 502, n. 1.] [5 placata, reconciliata vel propitiata est anima mea, ilar ]
 
@@ -393,8 +368,6 @@ Son given us all things that are necessary to a happy life and lite and sal- mar
 [Psal. xvi. 11. J
 
 {1 John iii.
-
-28 THE FOURTH DECADE. [SERM.
 
 and everlasting salvation. By a happy life I understand a holy and godly life, which we live and lead quietly and honestly in this present world. Eternal salvation is that felicity of the life to come, which we with assured hope do verily look for.
 
@@ -414,11 +387,9 @@ Now concerning the eternal salvation fully purchased® for us by Christ, thus ye
 
 Now that Christ alone is our most absolute life and salchrist atone vation, it may be gathered by that which is already spoken; andsalvaand yet notwithstanding I will here allege some testimonies more, to the end that the verity and sincerity of the evangelical truth may be the more firm and evident to all men.
 
-That in Christ alone our life and salvation doth consist, so that without Christ there is no life and salvation in any other creature, the Lord himself doth testify®, saying: “Verily, eee = 1, verily, I say unto you, He that entereth not by the door into ’~ the sheepfold, but goeth in some other way, he is a thief and arobber. Verily, verily, I say unto you, I am the door of the sheep: as many as came before me are thieves and rob- bers.” Lo here, there is but one door only, through which
+That in Christ alone our life and salvation doth consist, so that without Christ there is no life and salvation in any other creature, the Lord himself doth testify®, saying: “Verily, eee = 1, verily, I say unto you, He that entereth not by the door into ’~ the sheepfold, but goeth in some other way, he is a thief and arobber. Verily, verily, I say unto you, I am the door of the sheep: as many as came before me are thieves and rob-bers.” Lo here, there is but one door only, through which
 
 [6 The translator’s addition. ] [7 Dei filius, Lat.; the Son of God.] [3 habitare cum, Lat. ] [9 in evangelio, Lat.; in the gospel. ]
-
-30 THE FOURTH DECADE. [SERM.
 
 the way doth lie unto eternal life: and Christ is that door. They therefore, which do by other means than through Christ strive to come to life and salvation, are thieves and robbers; for they steal from Christ his honour and glory, considering that he both is and abideth the only Saviour: and in so doing they kill their own souls. The same Saviour in the gospel (John xiv.6.] saith: “I am the way, the truth, and the life. No man cometh to the Father but by me.” Hath he not in these few words rejected and utterly excluded all other means of salvation, making himself alone our life and salvation ? !This phrase of speech, “No man cometh to the Father but by me,” is the same that this is, ‘Through Christ alone we come unto the Father.” Moreover the Lord’s apostles have so laid Christ alone before our eyes, that no man can choose but understand, that without Christ Jesus there is no life to be found in any other creature. The holy apostle St Peter in the Acts saith: [ Actsiv. 12.] There is in none other any salvation: for there is none other name under heaven given among men wherein we must be saved,” And St Paul, in the fifth chapter to the Romans, doth oftentimes repeat, that “by the righteousness of one man, Jesus Christ, all the faithful are justified.” Again, the same [Acts xiii. 86, Paul saith: “Through him is preached to you the remission ie of sins; and through him is every one that believeth justified from all the things, from which ye could not be justified by Moses’ law.” Like to this also he hath other testimonies in the second chapter of his epistle written to the Galatians. It is manifest therefore, that through Christ alone the forgiveness of sins and life everlasting are freely bestowed upon all the faithful ; which gifts, as they are not without Christ at all, so are they not bestowed by any other means than through Christ alone. Concerning the remission of sins, which is the chief tidings of the gospel, I have at large already discoursed in the ninth sermon of the first Decade and other places more. Christ doth Now for the proof that our Lord doth fully absolve from oursalvation. sins, fully remit sins, and fully save repentant sinners, so that nothing more can be desired or wished for, and consequently, that the Lord himself is the most absolute fulness of all the faithful, without whom they that believe neither (1 Certe, Lat.; Without doubt.] [3 repentant sinners, not in Lat.] a ee ee do nor can wish for anything else to life, salvation, and absolute felicity, he doth himself in the gospel say?: “ Every (τομὴν. 13, one that drinketh of this water shall thirst again; but whoae soever shall drink of the water which I shall give him, he shall live eternally.” And again: “I am the bread of life ; he that cometh to me shall not hunger, and he that believeth in me shall never thirst.” The apostles therefore, after they had eaten this celestial bread, that is, after they had once believed in Christ*, when many departed and did forsake Christ, being demanded whether they also would leave him, did answer, “ Lord, to whom shall we go? Thou hast [John vi. 68, the words of eternal life. And we believe and know that” thou art Christ, the Son of the living God.” Lo here, they neither will nor can forsake Christ; because there is none other to whom they may join themselves: for he alone is the life and salvation of them that believe; and that too, so absolute and perfect, that in him alone they may content and stay themselves, With the writings of the evangelists doth the doctrine of the apostles fully agree. For Paul to the Colossians saith: “It pleased the Father that in the Son cotoss. ti. 19; should dwell all fulness.” And again: “In the Son doth ees dwell all the fulness of the Godhead bodily; and ye are fulfilled in him.” And in the Epistle to the Hebrews he pie. χ. 9: affirmeth, that the faithful have full remission of sins, because lee sacrifices for sin do cease to be offered; and that God doth by the prophet Jeremy promise so absolute remission of sins, that he will not so much as once remember or think on them hereafter®. To this place belongeth the whole epistle written to the Hebrews; and the conclusion of the eighth sermon in the first Decade, wherein I reckoned unto you the treasures that God the Father doth give to us in Christ his Son our Lord and Saviour.
 
@@ -430,15 +401,13 @@ Upon this now doth follow consequently, that they have Tipu not yet rightly unde
 
 [5 Proinde quicunque Christum fide possident, plenissime omnia vite et salutis possident, Lat. omitted; And therefore, whosoever has Christ by faith, has most abundantly all things belonging to life and salvation. |
 
-92 THE FOURTH DECADE, [SERM.
-
 the true Messiah, either not only, or else not fully, all things requisite to life and salvation. It is a wicked and blasphemous thing to ascribe either to men, or to things inferior and worse than men, the glory and honour due unto Christ. The principal exercises of christian religion cannot, by derogating from the glory of Christ!, challenge anything? unto themselves. For sincere doctrine doth directly lead us unto Christ. Prayer doth invocate, praise, and give thanks in the name of Christ. The sacraments do serve to seal and represent to us the mysteries of Christ. And the works of faith are done of duty, although also of free accord; because we are created unto good works. Yea, through Christ alone they do please and are acceptable to God the Father; for he is the vine, we are the branches. So all glory is reserved untouched to Christ alone: which is the surest note to know the true gospel by. aan τ Thus hitherto we have heard that God, the Father of mercies, according to his frée mercy taking pity upon mankind when it stuck fast and was drowned in the mire of hell, did, as he promised by the prophets, send his only-begotten Son into the world, that he might draw us out of the mud, and fully give us all things requisite to life and salvation. For God the Father was in Christ reconciled unto us, who for us and our salvation was incarnate, dead, raised from death to life, and taken up into heaven again. And although it may by all this be indifferently well gathered, to whom that salvation doth belong, and to whom Salvation that grace is rightly preached; yet the matter itself doth preached in ihegospel seem to require in flat words expressly to shew, that Christ ἡ τον and the preaching of Christ his grace declared® in the gospel doth belong unto all. For we must not imagine that in heaven there are laid two books, in the one whereof the names of them are written that are to be saved, and so to be saved, as it were of necessity, that, do what they will against the word of Christ and commit they never so heinous offences, they cannot possibly choose but be saved; and that in the other are contained the names of them which, do what they can and live they never so holily, yet cannot avoid [1 by derogating—Christ, not in Lat.] [2 hujus, Lat. omitted; of this (glory).] [3 allatam vel annunciatam, Lat. | everlasting damnation. Let us rather hold, that the holy gospel of Christ doth generally preach to the whole world the grace of God, the remission of sins, and life everlasting. And in this belief we must confirm our minds with the word of God, by gathering together some evident places of the holy scriptures, which do manifestly prove that it is even so. Of which sort are these sayings following: “In thy Seed shall all the nations of the earth be blessed,’ Genesis xxii. “Every one that calleth upon the name of the Lord shall be saved,” Joel ii. ‘We have all gone astray like sheep; and God hath laid upon him the iniquity of us all,” Esay lin, ‘Come to the waters,-all ye that thirst,” Esay lv. There are of this sort innumerable places in the old Testament. Now in the gospel the Lord saith: “Every one that asketh receiveth; and he that seeketh findeth,” &c. Matt. vil. ‘Come to me, all ye that labour and are heavy: loaden, and I will ease you of your burden,” Matt. xi. “Teach all nations, baptizing them in the name of the Father,” &c. Matt. xxvii. ‘Go ye into the whole world, and preach the gospel unto all creatures: whosoever believeth and is baptized, he shall be saved,” Mark xvi. “So God loved the world, that he gave his only-begotten Son, that every one which believeth in him should not perish, but have eternal life,” John iii. In the Acts of the Apostles St Peter saith: “Οὐ a truth I perceive that there is no respect of persons with God; but in every nation he that feareth him, and worketh righteousness, is acceptable unto him,” Acts x. Paul in the third to the Romans saith: “ The righteousness of God by faith in Jesus Christ cometh unto all and upon all them that believe.” And in the tenth chapter he saith: “The same Lord over all is rich to all them that call upon him.” In his Epistle to Titus he saith: ‘“ There hath appeared the grace of God that is healthful to all men4.” And in the first to Timothy, the second chapter, he saith: “God will have all men to be saved, and to come to the knowledge of the truth.” These and such like are the manifest testimonies, whereupon all the faithful do firmly stay themselves.
 
 But now if thou demandest, how it happeneth that ail men are not saved, since the Lord would that all should be saved and come to the knowledge of the truth; the Lord
 
 [4 chap. ii. 11, marg. ]
 
-[BULLINGER, 11. |
+## [Bullinger, 11. |
 
 Wherefore all men are not saved.
 
@@ -452,8 +421,6 @@ Mark Xvi.
 
 (Rom. i, 5, 16.]
 
-94 THE FOURTH DECADE. [SERM.
-
 in the gospel doth himself answer thee, saying: “ Many indeed are called, but few are chosen.” Which sentence he doth in the fourteenth of St Luke’s gospel more plainly expound, where he doth in a parable shew the causes why a great part of mortal men doth not obtain eternal salvation, while they prefer earthly things and transitory before celestial or heavenly matters. For every one had a several excuse to cloke his disobedience withal: one had bought a farm; another had five yokes of oxen to try; the third had newly married a wife. And in the gospel after St John the Lord saith: “This is condemnation, because the light came into the world, and men loved darkness more than the light.” With this doctrine of the evangelists doth that saying of the apostle agree, 2 Cor. iv. And in the first to Timothy, the fourth chapter, he saith: “ God is the Saviour of all men, especially of those that believe.” Whereupon we gather, that God, in the preaching of the gospel, requireth faith in every one of us: and by faith it is manifest that we are made partakers of all the goodness and gifts of Christ. And verily there is a relation! betwixt faith and the gospel; for in the gospel after St Mark the Lord annexed faith to the preaching of the gospel. And Paul saith, that “to him was committed the preaching of the gospel, unto the obedience of faith.” Again he saith: “The gospel is the power of God unto salvation to all them that do believe.” And in the tenth chapter to the Romans he doth by gradation shew that the gospel is received by faith. But that faith may be rightly planted in the hearts of men, it is needful that the preaching of repentance do first go before: for which cause I, in the latter end of the definition of the gospel, added, “So that we, acknowledging our sins, may believe in Christ ;” that is to say, the Lord will be our Saviour and give us life everlasting, if we acknowledge our sins, and do believe in him. And therefore here now may be annexed the treatises of faith and repentance. Touching faith, I have already largely spoken in the fourth, fifth, and sixth sermons of the first Decade. Concerning repentance I will hereafter speak in a several sermon by itself. In this place I will only touch summarily such points of repentance* as seem to make for the demonstration of the gospel.
 
 [1 correlatio, Lat.] [? of repentance, not in Lat.]
@@ -463,8 +430,6 @@ Our Lord Christ Jesus doth in the preaching of the one gospet gospel require fai
 [3 Certe, Lat.; Without doubt. | [4 methodice, Lat. ] [5 sua natura, Lat.; by his own nature. | [6 suo modo, Lat. | [7 and make—effect ; an addition of the translator’s. | 3—2
 
 How Christ is received.
-
-96 THE FOURTH DECADE. [SERM.
 
 of their hearts confess that they are sinners and unrighteous, not putting any trust in their own strength and merits, do even pant for the haste that they make to Christ; which when they do, then Christ doth offer himself in the gospel, promising unto them remission of sins and life everlasting, as he that came to heal the sick and to save repentant sinners. But the promise is received by faith, and not by works: therefore the gospel, and Christ in the gospel, are received by faith. For we must diligently distinguish betwixt the precepts and the promises. The promises are received by faith: the precepts are accomplished by works.
 
@@ -478,7 +443,7 @@ And although I have oftener than once handled this
 
 {1 per fidem, Lat. omitted; through faith. ] [3 operum nostrorum, sive precedentium, sive sequentium, Lat.]
 
-| | argument in these sermons of mine; yet because it is the cnristis hook whereupon the hinge of the evangelical doctrine (which faith snd” is the door to Christ*) “doth hang ; ἘΞ that this doctrine”? “°*"* (to wit, that Christ is received by faith, and not by works) is of many men very greatly resisted; I will, for the decla- ration and confirmation sake thereof, produce here two places only, but such as be apparent enough and evident to prove and confirm it by: the one out of the gospel of Christ our
+| | argument in these sermons of mine; yet because it is the cnristis hook whereupon the hinge of the evangelical doctrine (which faith snd” is the door to Christ*) “doth hang ; ἘΞ that this doctrine”? “°*"* (to wit, that Christ is received by faith, and not by works) is of many men very greatly resisted; I will, for the declaration and confirmation sake thereof, produce here two places only, but such as be apparent enough and evident to prove and confirm it by: the one out of the gospel of Christ our
 
 Lord, the other out of Paul’s Epistles.
 

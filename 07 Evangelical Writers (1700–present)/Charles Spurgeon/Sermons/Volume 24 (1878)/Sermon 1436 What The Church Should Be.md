@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # What The Church Should Be
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1436
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 29, 1878,.
+*Delivered on Lord's-Day Morning, September 29, 1878*
 
 > "That you may know how you ought to beha ve yourself in the house of God, which is the Church of the living God, the pillar and basement of the Truth." 1 Timothy 3:15.
 
@@ -150,7 +149,6 @@ I cannot finish my sermon better than by commending to you the verse which was s
 "Should all the forms that men devise Assault my faith with treacherous art,
 
 I'll call them vanity and lies, And bind the Gospel to my heart."
-
 
 ---
 [[Sermon 1435 Adoption—The Spirit and the Cry|← #1435]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1437 Others To Be Gathered In|#1437 →]]

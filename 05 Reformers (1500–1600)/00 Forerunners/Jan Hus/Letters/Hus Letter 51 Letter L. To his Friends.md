@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 51. Letter L. To his Friends
-
-LETTER L. TO HIS FRIENDS
 
 (Middle March 1415)
 

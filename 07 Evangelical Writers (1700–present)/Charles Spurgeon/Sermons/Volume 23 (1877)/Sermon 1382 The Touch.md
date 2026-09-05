@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Touch
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1382
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 4, 1877,.
+*Delivered on Lord's-Day Morning, November 4, 1877*
 
 > "She said, If I may touch but His clothes, I shall be whole." Mark 5:28.
 
@@ -138,7 +137,6 @@ This wonderful medicine has boundless power to restore from relapses as well as 
 As for you who fear that you are not His children, behold, I set before you an open door, this morning, and I pray God that you may be enabled to enter into it! If you touch but the Redeemer's clothes you shall be made whole! Whatever the transgression, the iniquity, the sin of which you have been guilty—come into contact with the bleeding Lamb and you shall be forgiven! You need not even so much as touch, for there is life in a look. A look will set up sufficient contact to bring salvation! "Look unto Me and be you saved, all you ends of the earth." "They looked unto Him and were lightened, and their faces were not ashamed."
 
 Do but look! Do but get out of yourself to Him, somehow or other, and it is done! Though a glance will not carry a thread as thin as a spider's cobweb, yet it will establish a connection! The ray of light which comes from Jesus' wounds to your eyes will be link enough—and along it eternal salvation will come to you! Get to Christ, Sinner! Get to Christ at once! Have you come to Him? Then you are saved! Confess your faith and give Jesus honor. Love Him with all your heart and while angels are rejoicing over you, be glad, also! Christ has saved you! Praise Him forever and ever! May the Lord add His blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1381 A Sunday School Sermon|← #1381]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1383 The Cause And Cure Of Weariness In Sunday School Teachers|#1383 →]]

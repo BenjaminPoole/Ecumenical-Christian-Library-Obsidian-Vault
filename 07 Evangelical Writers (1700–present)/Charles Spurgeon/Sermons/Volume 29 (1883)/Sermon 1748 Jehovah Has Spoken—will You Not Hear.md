@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Jehovah Has Spoken—will You Not Hear?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1748
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 4, 1883,.
+*Delivered on Lord's-Day Morning, November 4, 1883*
 
 > "Hear you, and give ear; be not proud: for the Lord has spoken. Give glory to the Lord your God, before He causes darkness and before your feet stumble upon the dark mountains and, while you look for light, He turns it into the shadow of death and makes it gross darkness. But if you will not hear it, my soul shall weep in secret places for your pride; and my eyes shall weep bitterly and run down with tears, because the Lord's flock is carried away captive." Jeremiah 13:15-17.
 
@@ -162,7 +161,6 @@ This also puts a pungent salt into the tears of the godly, that the weeping can 
 What a burden it is that so many should cause us this unnecessary sorrow, for if men turned to God, our joy would exceed all bounds! O my Hearers, why will you distress me? Turn, turn—why will you die? What excuse can you urge for your folly in choosing to perish? What motive can be strong enough to make you leap into the fire when Christ is waiting to be gracious to you? We have labor enough in preparing and delivering our weighty messages without the added grief of seeing you reject them to your own destruction! Our throes of heart are sometimes grievous enough before we preach a sermon lest we should not preach aright—why must we be driven to this further misery?
 
 We exhaust ourselves while pleading with you! Why should we have to sit down in sorrow because you will not believe our report? O blessed Spirit of God, touch all hearts this day, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1747 Marvelous! Marvelous!|← #1747]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1749 A Luther Sermon at the Tabernacle|#1749 →]]

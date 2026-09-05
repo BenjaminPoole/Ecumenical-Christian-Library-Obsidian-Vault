@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Cries From the Cross
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2562
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My God, My God, why have You forsaken Me? Why are You so far from helping me, and from the words of My roaring?" Psalm 22:1.
 
@@ -59,7 +56,7 @@ The answer to the third question is essentially the same as the answer to the fi
 
 III. In conclusion I shall offer you A WORD OF EARNEST EXPOSTULATION AND OF AFFECTIONATE
 
-WARNING.
+## Warning
 
 Is it nothing to some of you that Jesus should die? You hear the tale of Calvary but, alas, you have dry eyes! You never weep concerning it. Is the death of Jesus nothing to you? Alas! It seems to be so with many. Your hearts have never throbbed in sympathy with Him. O Friends, how many of you can look on Christ, thus agonizing and groaning, and say, "He is my Ransom, my Redeemer"? Could you say, with Christ, "My God" Or is God another's and not yours? Oh, if you are out of Christ, hear me speak one word—it is a word of warning! Remember, to be out of Christ is to be without hope! If you die unsprinkled with His blood, you are lost!
 
@@ -72,7 +69,6 @@ Come, then, to Jesus at once. Do you say you do not know how to come? Come just 
 Still at His footstool humbly bow, OSinner! Sinner/Prostrate now!"
 
 He is able to pardon you at this moment. There are some of you who know you are guilty and groan concerning it. Sinner, why do you wait? "Come, and welcome!" is My Master's message to you! If you feel you are lost and ruined, there is not a barrier between you and Heaven—Christ has broken it down. If you know your own lost estate, Christ has died for you! Believe, and come! Come, and welcome, Sinner, come! O Sinner, come! Come! Come! Jesus bids you come and as His ambassador to you, I bid you come as one who would die to save your souls if it were necessary—as one who knows how to groan over you and to weep over you—one who loves you even as you love yourself! I, as His minister, say to you, in God's name and in Christ's place, "Be you reconciled to God." What do you say? Has God made you willing? Then rejoice! Rejoice, for He has not made you willing without giving you the power to do what He has made you willing to do! Come! Come! This moment you may be as sure of Heaven as if you were there, if you cast yourself upon Christ and have nothing but Jesus for your soul's reliance!
-
 
 ---
 [[Sermon 2561 Noli Me Tangere (Touch Me Not)|← #2561]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2563 Grace for the Guilty|#2563 →]]

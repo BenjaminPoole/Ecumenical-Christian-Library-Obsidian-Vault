@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## John 16:1-7
 

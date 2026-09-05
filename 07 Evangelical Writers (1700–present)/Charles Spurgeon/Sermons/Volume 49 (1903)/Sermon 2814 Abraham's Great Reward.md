@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Abraham's Great Reward
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2814
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fear not, Abram: I am your shield, and your exceeding great reward." Genesis 15:1.
 
@@ -101,7 +98,7 @@ I want to call your attention, next, to the fact that according to our text, we 
 
 Another practical thought may come in here. If God is our reward, let us take care that we really enjoy Him. Let us exult in Him and let us not be pining after any other joy. You have to go and live in a lonely place where you will have few encouragements—but you will still have your God—so how can you feel lonely? You are coming down in earthly circumstances. Your income is decreasing. But your God is not any less than He was, so you are not really a loser. One dear Friend after another is being taken away from you—there is a great probability that the dearest one you have will soon go to the grave. Yet the Lord lives, so blessed be your Rock! Rejoice in Him! Possibly you are soon going to the grave yourself. The years are taking their toll upon you and increasing weakness proves that, before long, you must put off this tabernacle. Well, even if it is so, He who is your All-in-All will not die! This world is not your rest or your portion! You are not, therefore, losing your portion, you are going Home to it, for the Lord, Himself, is your shield, and your exceeding great reward."
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 14:17-24; 15.
+## Exposition by C. H. Spurgeon: Genesis 14:17-24; 15
 
 Genesis 14:17, 18. And the King of Sodom went out to meet him after his return from the slaughter of Chedorlao-mer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale. And Melchizedek, King of Salem, brought forth bread and wine: and he was the priest of the Most High God. One who exercised both the kingship and the priesthood—the only person that we know of who did this, and who, therefore, is a wonderful type of that marvelous King-Priest of whom we read in the 110th Psalm and in the Epistle to the Hebrews.
 
@@ -132,7 +129,6 @@ kinds of kites in the form of carking cares, sad memories, fears and doubts, com
 14-17. Andalso that nation, whom they shall serve, willljudge: and afterward shall they come out with great substance. Andyou shall go to your fathers inpeace; you shall be buried in a good oldage. But in the fourth generation they shall come here again: for the iniquity of the Amorites is not yet full. And it came to pass, that when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces. True emblems of the Church of God with her smoke and her light, her trying affliction, yet the Grace by which she still keeps burning and shining in the world.
 
 18-21. In the same day the LORD made a covenant with Abram, saying, Unto your seed have I given this land, from the river of Egypt unto the great river, the river Euphrates: the Kenites, and the Kenizzites, and the Kadmonites and the Hittites, and the Perizzites, and the Rephaims, and the Amorites, and the Canaanites, and the Girgashites, and the Jebu-sites. He mentions the adversaries to show how great would be the victories of the race that should come and dispossess them. Let us always look upon the list of our difficulties as only a catalog of our triumphs. The greater our troubles, the louder our song at the last.
-
 
 ---
 [[Sermon 2813 Life, and the Path to It|← #2813]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2815 Good Cheer for Many That Fear|#2815 →]]

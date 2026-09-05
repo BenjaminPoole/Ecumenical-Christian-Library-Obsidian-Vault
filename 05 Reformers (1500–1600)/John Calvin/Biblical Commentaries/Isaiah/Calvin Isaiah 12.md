@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Isaiah 12:1-6
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Belief, Baptism, Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2275
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. And when he bad brought them into his house, he set meat before them, and rejoiced, believing in God with all his house." Acts 16:33,34.
 
@@ -101,7 +98,7 @@ I think I heard a friend over there fetch a deep sigh as I quoted those last wor
 
 Oh, that all in this great assembly may meet in Heaven! You who have heard the Word these many years, may you, tonight, believe in Christ and live! You who have never listened to it before, may you also come to Christ and believe in Him, as the jailor did. And like he, you shall be saved! The Lord shall have all the praise and the glory, but oh, that He would work this miracle of mercy tonight! Let us pray for it. Amen.
 
-EXPOSITION BY C. H. SPURGEON ACTS16:9-34.
+## Exposition by C. H. Spurgeon Acts 16:9-34
 
 Verse 9. And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us. Our dreams often follow the leading thoughts of the day or, if not of the day, yet the chief thoughts that are upon the mind. Paul dreams about mission work, for his heart is in it. I should not wonder if some before me, who are deeply engaged in earnest Christian work, have often dreamt about their Sunday school, or their mission station. Where the mind goes when we are awake, it often goes when we are asleep. This vision that appeared to Paul was supernatural and was an indication of what God wanted him to do.
 
@@ -148,7 +145,6 @@ here!"
 house. And they spoke unto him the Word of the Lord, and to all that were in his house. And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 
 May God give to many of us to know the happy experience of that believing, baptized and blessed household!
-
 
 ---
 [[Sermon 2274 God's People Melted and Tried|← #2274]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2276 Forgiveness, Freedom, Favor|#2276 →]]

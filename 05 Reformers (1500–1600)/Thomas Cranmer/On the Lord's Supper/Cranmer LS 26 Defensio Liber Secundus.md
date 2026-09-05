@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 26. Defensio: Liber Secundus
 
-LIBER SECUNDUS.
+*Liber Secundus*
 
-CONTRA TRANSUBSTANTIATIONEM.
+## Contra Transubstantiationem
 
 Hacrenvs accepistis quatuor eximia capita, in quibus potissimum papistica doctrina a veritate verbi divini et a christiana veterum catholicorum fide, in hac coene dominice tractatione, discedat. Nunc, favente Deo, tum errorum papisticorum refutationem, tum catholice fidei defensionem non modo ex certissimo Dei verbo, sed etiam antiquissimorum auctorum et martyrum, qui in ecclesia Dei floruerunt, auctoritate susceptam, audietis: ne quis arbitretur, hanc meam contra transubstantiationem sententiam esse nuper e cerebro meo excogitatam.
 
-PAPISTICA DOCTRINA DE TRANSUBSTANTIATIONE VERBO DEI ADVERSATUR.
+## Papistica Doctrina De Transubstantiatione Verbo Dei Adversatur
 
 Principio, panem et vinum post verba consecrationis remanere, et in coena dominica etiam percipi, ex Christi ipsius verbis apertissime et certissime colligitur. Nam cum ccenam discipulis suis daret, Christus acceptum panem fregit, et dedit discipulis suis, et dixit: “‘ Accipite, edite: hoc est corpus meum.”
 
@@ -35,7 +34,7 @@ Tum a papistis iterum quero, Vinum necne biberint apostoli? Si fateantur, errore
 
 Hic iterum a papistis quero, quidnam id fuerit quod Christus apostolis inter se dividere praeceperat ? Poculum ipsum credo illos nolle dicere, nisi velint semet omnibus deridendos proponere. Nec respondebunt (ut opinor) fuisse sanguinem, tum quia verba illa ante consecrationem pronunciabantur; tum quia sanguis Christi non dividitur, sed integer in sacramento spiritualiter sumitur. Ita efficitur, ut nulla alia de re, nisi de vino, quod illis divideretur, quod ab illis biberetur, intelligi ista possint.
 
-Jam communione finita, Christus apostolis dixerat: “Amen dico vobis, non bibam post- *op. 97. hac de fructu vitis, donee bibero novum in regno Patris mei.” Ex quibus perspicuum Mase i est, verum fuisse vinum, quod apostoli in coena Domini biberant. Neque enim san- guis Christi, neque accidentia vini, fructus vitis sunt: imo preter vinum fructus vitis alius nullus est.
+Jam communione finita, Christus apostolis dixerat: “Amen dico vobis, non bibam post- *op. 97. hac de fructu vitis, donee bibero novum in regno Patris mei.” Ex quibus perspicuum Mase i est, verum fuisse vinum, quod apostoli in coena Domini biberant. Neque enim sanguis Christi, neque accidentia vini, fructus vitis sunt: imo preter vinum fructus vitis alius nullus est.
 
 Et quomodo potuisset Christus clarius mentem suam de permansione panis et vini exponere, quam panem accipiendo, panem frangendo, panem discipulis tribuendo, panem *ob. 18. ut ederent imperando? et poculum similiter accipiendo, poculum discipulis porrigendo, ut poculum inter se dividerent et biberent precipiendo, et poculum fructum vitis vocando? Hee ita illustria testimonia sunt, ut si angelus e colo contra ista diceret, fides illi minime adhibenda esset. Multo igitur minus deliris papistis, inania commenta hee fingentibus, credendum est.
 
@@ -53,7 +52,7 @@ Hic iterum a papistis quero, utrum de pane consecrato vel non consecrato verba f
 
 qui nisi verus et materialis panis, nullus esse potest. Et statim addidit, nos unius panis participes esse. Et in proximo capite fusius de eadem re loquens, quater panem et poculum nominavit, neque ullius unquam transubstantiationis, aut accidentium sine substantia permansionis, mentionem fecit: quod in primis frequenti oratione usurpasset, si discessio substantie panis et vini necessarium aliquod caput religionis fuisset. Ita perspicuum est ex ipsis scripture verbis, panem et vinum post consecrationem manere, et papisticam hanc de transubstantiatione doctrinam verbo Dei aperte repugnare.
 
-PAPISTICA DOCTRINA RATIONI EST CONTRARIA.
+## Papistica Doctrina Rationi Est Contraria
 
 ConsIDERANDUM etiam nobis diligenti animi attentione est, quomodo huic tam confirmate illorum sententie adversetur naturalis tum ratio tum operatio: que quanquam contra verbum Dei minime valent, ubi tamen annexe verbo Dei sunt, magnum adferunt ad veritatis confirmationem momentum.
 
@@ -71,7 +70,7 @@ Quid, quod maxime contra naturam accidentium est, in nulla re subjecta consister
 
 Sexcenta alia sunt, que papiste hac transubstantiationis defensione contra nature ordinem et rationis defendere coguntur. Hujus generis sunt: Duo corpora uno in loco esse: Unum corpus multis in locis simul esse: Substantias ex accidentibus gigni: Accidentia in substantias converti: Accidentia sine substantia locum explere: Corpus in loco esse, et locum non explere: Rei alicujus generationem esse sine cujusquam corruptione, et corruptionem sine ullius generatione: aut ex nihilo aliquid fieri, et in nihilum aliquid mutari; et multa his similia, que tum nature, tum rationi adversantur.
 
-CAPUT IV. SENSUUM JUDICIO DOCTRINA PAPISTICA ADVERSATUR.
+## Caput IV. Sensuum Judicio Doctrina Papistica Adversatur
 
 Sensipus etiam nostris hee papistarum doctrina contraria esse videtur. Oculi enim, si testes citarentur, panem et vinum se videre dicerent, nares odorari, ora gustare, manus tractare panem se et vinum asseverarent. Et quamquam fidei nostre capita longe sensuum nostrorum captum antecant, (ita ut multa variaque eredamus, que
 
@@ -87,7 +86,7 @@ Denique si sensus nostri hac in re quotidie decipiantur, tum hoc sacramentum *0b
 
 Sed ut in pauca conferam: ostendant (si possint) papiste ullum fidei caput ita plane cum sensuum judicio pugnans, ut quod sensus universi quotidiana experientia nobis demonstrant, illud fides contendat non esse.
 
-PAPISTICAM DOCTRINAM ANTIQUORUM PATRUM SENTENTIIS REPUGNARE.
+## Papisticam Doctrinam Antiquorum Patrum Sententiis Repugnare
 
 Cum igitur satis ostensum sit, quemadmodum hee papistica de transubstantiatione opinio plane verbo Dei, nature rerum, rationis judicio, sensuum comprehensioni adversetur, nunc pari ratione demonstrabimus, quemadmodum fidei et doctrine antiquissimorum scriptorum repugnet, qui ut Christi et apostolorum extate viciniores erant, ita facile, quid verissimum esset, tenere poterant.
 
@@ -149,7 +148,7 @@ Hilarius paucis eadem complexus est. “Corpus Christi (inquit), quod sumitur de
 
 ‘Epiphanius hunc paulo post consequens : “Cibum quidem (ait) esse panem, virtutem Epiphanius contra Herein ipso ad vivificationem esse.” Quod si nullus panis esset, quomodo cibus esset ? ses, Lib. ii
 
-Eadem etate Chrysostomus, qui ad annos gjundtingetos post Christum fuit, scribit Erin Ana- ad hunc modum: “Christus quando hoc mysterium tradidit, vinum tradidit: etiam monasiet
+Eadem etate Chrysostomus, qui ad annos gjundtingetos post Christum fuit, scribit Erin Ana-ad hunc modum: “Christus quando hoc mysterium tradidit, vinum tradidit: etiam monasiet
 
 : : +s : SSR: *,\ mus im Matt. post resurrectionem in nuda mysterii mensa vino usus est, ex genimine autem (ait) cap. xxvi. vitis, que vinum, non aquam producit.”
 
@@ -227,13 +226,13 @@ Advertant hic nostri temporis papiste, Gelasium (qui ante mille annos episcopus 
 
 Thepdoretus. Theodoretus etiam in eadem sententia est, ut ex primo et secundo ejus dialogo
 
-1080\. liquet. In primo enim ad hunc modum scribit: “Qui naturale corpus suum fru- mentum et panem vocavit, atque item seipsum vitem nominavit, idem ipse etiam panem et vinum corporis et sanguinis sui appellatione honoravit; non equidem naturam ipsam transmutans, sed adjiciens gratiam nature.”
+1080\. liquet. In primo enim ad hunc modum scribit: “Qui naturale corpus suum frumentum et panem vocavit, atque item seipsum vitem nominavit, idem ipse etiam panem et vinum corporis et sanguinis sui appellatione honoravit; non equidem naturam ipsam transmutans, sed adjiciens gratiam nature.”
 
 In2. dialog. In secundo autem eadem expressius loquitur. ‘“Sicut,” inquit, “panis et vinum post sanctificationem propria natura sua non egrediuntur, sed manent in priore sua substantia, forma et figura; sic et corpus dominicum post assumptionem in divinam est substantiam transmutatum.”
 
 Eligant nunc papiste, utrum ex his duobus largiri velint (alterutram enim necesse est), vel naturam et substantiam panis et vini in sacramento post consecrationém remanere, (et tum revocanda est sua de transubstantiatione opinio;) vel se in eodem errore cum Nestorio et ceteris fateantur, qui naturam divinitatis in Christo nullam post incarnationem esse contendebant. Hoc est enim communi antiquorum assensione’ firmatum, ut quemadmodum in uno est, ita etiam in altero sit.
 
-CAPUT VI. TRANSUBSTANTIATIO E ROMA PRIMUM PROFECTA EST.
+## Caput VI. Transubstantiatio E Roma Primum Profecta Est
 
 None quoniam satis expositum est, tum ex scriptura, tum ex naturali operatione, *ov. 127. ratione, sensibus, antiquissimis et doctissimis auctoribus, et sanctis martyribus ecclesiz Christi, substantiam panis et vini remanere, et a fidelibus in ccena percipi, opere pretium est videre, quid scholasticos recentiores commoverit ad contrariam opinionem defendendam, non modo a sensuum comprobatione et rationis judicio disjunctam, sed etiam cum antiqua Christi ecclesia et sanctissimo Dei verbo pugnantem. Certe nihil zque illos commovit, ac vana illa et inutilis fiducia quam in ecclesia et sede Romana collocarant. | Jo. Scotus Scotus enim, scholasticorum omnium subtilissimus, in transubstantiationis causa Sent. di. 11. tractanda, hujus rei rationem affert. Ait enim: “Ad hanc sententiam principaliter videtur movere, quod de sacramentis tenendum est, sicut tenet sancta Romana ecclesia. Ipsa autem tenet panem transubstantiari in corpus, et vinum in sanguinem: ut patet De summa trinitate et fide catholica, Firmiter credimus.”
 
@@ -241,11 +240,11 @@ Gatrie, tn Gabriel etiam, qui pre ceteris omnibus de canone misse fusissime scri
 
 If.) CONTRA TRANSUBSTANTIATIONEM. 39
 
-CAPUT VII. PAPISTARUM ANGLICORUM ARGUMENTA CONFUTANTUR.
+## Caput VII. Papistarum Anglicorum Argumenta Confutantur
 
 Ex his intelligitur, hance de transubstantiatione opinionem a compluribus defensam et propugnatam esse, quia ecclesia Romana ita constituit ; quamvis contrariam sententiam etiam papiste ipsi fateantur faciliorem videri, veriorem, et scripturis convenientiorem. “Quoniam autem ecclesia Romana transubstantiationem esse declaravit, ideo *Scotus. eligitur hic intellectus” (ut inquit Scotus) “ita difficilis, cum verba scripture possent salvari secundum intellectum facilem, et veriorem secundum apparentiam.” - Sed quia nostrates papiste (qui crassius de hac re, quam papa ipse, et sentiunt et loquuntur, affirmantes naturale corpus et sanguinem Christi naturaliter in pane et vino contineri) neque possunt neque audent fidem de transubstantiatione suam in ecclesia Romana fundare, (que quamvis sanctissima appellari postulet, revera tamen impurissima omnis impietatis sentina est, Satane synagoga, quam quicunque sequitur, non potest non labi, et in errorum barathrum ruere,) confugiunt ad ficulnea folia, id est, ad inania et levia argumenta, suo ipsorum cerebro fabricata, et ad veterum testimonia a mente et sententia auctorum longe detorta, quibus probrosos et ignominiosos suos errores velare et tegere moliuntur. Itaque placuit in eo paululum laboris sumere, ut iis ficulneis foliis (quibus tecti sunt) sublatis, ilorum impudentes errores ante oculos omnium constituantur.
 
-CAPUT VII. PRIMA RATIO, QUA PAPISTE TRANSUBSTANTIATIONEM CONFIRMANT.
+## Caput VII. Prima Ratio, Qua Papiste Transubstantiationem Confirmant
 
 Gravissma illorum ratio, quam maximi momenti esse putant, et in qua tantum auctoritatis pondus inesse judicant, ut (quemadmodum pre se ferunt) ne universum quidem orbem dissolvere posse illam existiment, hac est: ‘“Servator noster Christus acceptum panem fregit, et dedit discipulis suis dicens: Hoe est corpus meum. Hee pate. xxvi. verba, inquiunt, ubi Christus semel pronuntiasset, panis statim mutatus, et substantia Ma.) ejus in substantiam corporis Christi conversa est.”
 
@@ -277,9 +276,9 @@ At qui vere pietatis studiosi sunt, unum Deum colant, et unum Christum, semel co
 
 Hoc modo facillime dissolvitur papistarum (quod tantopere venditant) argumentum. Quantumcunque enim insolenter ostentent et maxime crepent suam panis et vini conversionem in corpus et sanguinem Christi, conversio tamen hee spiritualis est, neque corporalem materiati panis et vini presentiam tollit. Et quoniam sanctissimum est spiritualis pastus sacramentum, quem ex corpore et sanguine Servatoris nostri percipimus, necessario consistit elementum, quod sub sensus cadit, sine quo nullum consistit sacramentum. Quemadmodum enim in regeneratione nostra baptismi sacramentum nullum esse potest, si aqua absit; sic neque corporis et sanguinis Domini sacramentum
 
-‘ullum esse potest, si panis et vinum dimoveantur. Baptismus enim perfectum sacramen- tum spiritualis regenerationis non est, nisi elementum aque adsit, quod foris abluat, quemadmodum Spiritus sanctus interne spiritualiter regenerat baptizatum, quod aqua significatur : et coena Domini perfectum spiritualis pastus sacramentum esse non potest, nisi tam panis et vinum adsint, que corpora nutriant, quam corpus et sanguis Christi, que spiritum pascant, quod pane et vino significatur. Quomodo autem cunque corpus et sanguis Christi adsint, aque cum substantia panis et vini ac cum accidentibus adesse possunt, sicut scholastici ipsi fatentur, et facillime (si adversarii id negare auderent) comprobari possit. Itaque facillime intelligitur, quemadmodum firmissima illorum ratio et precipuum fundamentum (quo nituntur, et unde sibi hanc transubstantiationem architectati sunt) funditus everti ac deleri possit.
+‘ullum esse potest, si panis et vinum dimoveantur. Baptismus enim perfectum sacramen-tum spiritualis regenerationis non est, nisi elementum aque adsit, quod foris abluat, quemadmodum Spiritus sanctus interne spiritualiter regenerat baptizatum, quod aqua significatur : et coena Domini perfectum spiritualis pastus sacramentum esse non potest, nisi tam panis et vinum adsint, que corpora nutriant, quam corpus et sanguis Christi, que spiritum pascant, quod pane et vino significatur. Quomodo autem cunque corpus et sanguis Christi adsint, aque cum substantia panis et vini ac cum accidentibus adesse possunt, sicut scholastici ipsi fatentur, et facillime (si adversarii id negare auderent) comprobari possit. Itaque facillime intelligitur, quemadmodum firmissima illorum ratio et precipuum fundamentum (quo nituntur, et unde sibi hanc transubstantiationem architectati sunt) funditus everti ac deleri possit.
 
-ALTERA PAPISTARUM RATIO, QUA TRANSUBSTANTIATIONEM CONFIRMANT.
+## Altera Papistarum Ratio, Qua Transubstantiationem Confirmant
 
 Arter illorum ratio est, parem undique dignitatem et auctoritatem habens. “Si panis,” inquiunt, “remaneret, multa et magna absurda sequerentur: illudque in primis, quod quemadmodum Christus naturam hominis assumpsit, et sibi adjunxit, ita etiam naturam panis assumeret, et sibi adjungeret. Ex quo fieret, ut quemadmodum Deum pro redemptione nostra incarnatum habemus, ita etiam impanatum haberemus.”
 
@@ -287,7 +286,7 @@ Hic facillime cernitur, quam leves relique rationes sint, cum he gravissime et f
 
 II.] CONTRA TRANSUBSTANTIATIONEM. . 37 annes baptizabat, verum Christum fuisse. Imo vero (quemadmodum error errorem elicere solet) hee ipsa que illi absurda objiciunt, ex illorum ipsorum sententia sequerentur; nempe Christum impanatum et invinatum (ut ita loquar) fuisse. Si enim *0120. Christus ita pane utitur, ut illum non ad nihilum redigat (sicuti illi predicant), sed ex eo corpus suum efficiat; tum panis corpori Christi majore adunatione conjungitur, quam humanitas divinitati. Divinitas enim humanitati unitate persone, non nature, adjungitur. Sed Servator Christus verbo suo efficit (sicuti ferunt) ut panis corpori, non modo unitate person#, sed etiam nature jungeretur. Ex quo fit, ut panis et corpus Christi unum sint, tum natura tum persona, et quod major intercedat unitas corpori Christi cum pane, quam humanitati cum divinitate, aut corpori cum animo. Hoc modo papistarum argumenta in ipsos rectissime reflectuntur.
 
-TERTIA PAPISTARUM RATIO, QUA TRANSUBSTANTIATIONEM CONFIRMANT.
+## Tertia Papistarum Ratio, Qua Transubstantiationem Confirmant
 
 Tertiam adhuc habent, quam ex sexto Joannis colligunt, ubi Christus ait: “Ego sum panis vivus, qui de coelo descendi: si quis edat ex hoc pane, vivet in «#ternum. Et panis quem ego dabo, caro mea est, quam ego dabo pro mundi vita.”
 
@@ -295,7 +294,7 @@ Sic illi ex hoc loco. disputant: “Si panis quem Christus dat, caro ejus sit, n
 
 Hic facilis est responsio: Christum hoc in loco Joannis minime de materiato et yujus sacramentali pane loquutum, neque de sacramentali perceptione (biennium enim ante Wuoris | aut triennium hic sermo habitus est, quam sacramentum institutum fuit),.sed de spirituali pane, (unde sepius repetit se panem vivum esse, qui de ccelo descendit,) et de spirituali per fidem perceptione, qua eodem illo tempore ab omnibus qui in illum credebant, manducabatur, quando coena nondum facta aut sacramentum adhuc institutum fuerat. Itaque dixit, “ Patres vestri ederunt manna in deserto, et mortui sunt: qui autem hunce Joan. vi. panem edit, vivet perpetuo.” Hic igitur Joannis locus de sacramentato pane intelligi non potest, qui neque de ccelo descendit, neque vitam hominibus tribuit. Neque tum temporis poterat Christus de sacramentali pane verba facere, et carnem suam appellare ; nisi forte dicant, Christum tam longo ante spatio ceenam suam sacravisse.
 
-AUCTORES QUOS PAPISTZ AD STABILIENDUM TRANSUBSTANTIATIONIS ERROREM DETORQUENT.
+## Auctores Quos Papistz Ad Stabiliendum Transubstantiationis Errorem Detorquent
 
 -Nune cum plene et perfecte levibus illorum et anilibus rationibus atque argutiis responderim, restat ut eodem modo sophisticis et nugatoriis auctorum allegationibus respondeam, quos ad sua commenta confirmanda depravarunt. Tria sunt loca precipua, que speciem magnam pre se ferunt hujus erroris confirmandi: sed ea si quis studiose excutiat, et attentius aliquanto consideret, videbit nihil ea ad hujusmodi propositum facere.
 
@@ -321,7 +320,7 @@ Augustinus in Joan. tract. Ixxx. “‘Jam vos mundi estis, propter verbum quod 
 
 Itaque precipuum doctorum testimonium (quod illi firmissimum erroris sui presidium existimant) facile intelligitur, quam parum pro illis faciat. Sed ad meliorem sententiz Cypriani explicationem, haud inutile fuerit locum illius, supra capite quinto citatum, animadvertere.
 
-CHRYSOSTOMI SENTENTIA A PAPISTIS AD TRANSUBSTANTIATIONEM DEPRAVATA.
+## Chrysostomi Sententia a Papistis Ad Transubstantiationem Depravata
 
 Curysostomr sententiam adferunt, quam indissolubilem esse putant. Ille enim in quadam de eucharistia homilia sic scribit: “Num panem, num vinum vides? num in secessum ut reliqui cibi abeunt? absit. Non sic cogitandum est: quemadmodum enim si cera igni adhibita assimilatur illi, nihil substantie remanet, nihil redundat ; ita et hic puta mysteria consumi corporis substantia.”
 
@@ -355,7 +354,7 @@ Responsio ad Chrysost. in Homilia de Cena Domini.
 
 40 CONTRA TRANSUBSTANTIATIONEM. (Lis.
 
-efficientia proficiscebatur. Pari modo, quamvis sator et irrigator aliquid sunt, et multum in munere suo obeundo faciunt, Deus tamen precipue amplificationem affert. Vixerat quoque Paulus in hoc mundo, sed precipua illius vita in Christo fuit, quem apud se viventem gerebat. Multis in rebus gloriabatur, etiam in infirmitatibus; maxi- ma tamen ejus gloriatio in Christi cruce fuerat. Quotidiana est nobis cum carne lucta, sed gravissima et acerrima dimicatio est adversus hostes spirituales et subtiles spiritus malos et diabolos.
+efficientia proficiscebatur. Pari modo, quamvis sator et irrigator aliquid sunt, et multum in munere suo obeundo faciunt, Deus tamen precipue amplificationem affert. Vixerat quoque Paulus in hoc mundo, sed precipua illius vita in Christo fuit, quem apud se viventem gerebat. Multis in rebus gloriabatur, etiam in infirmitatibus; maxima tamen ejus gloriatio in Christi cruce fuerat. Quotidiana est nobis cum carne lucta, sed gravissima et acerrima dimicatio est adversus hostes spirituales et subtiles spiritus malos et diabolos.
 
 Hac loquendi forma etiam Petrus in prima epistola usus est, precipiens foemina-~ rum ornatum ut ne externus sit, vel crinium calamistro, vel auri adjectione, vel vestium amictu ; sed internus cordis homo sit, cum integritate mitis ac tranquilli spiritus, que res coram Deo magni pretii est.
 
@@ -385,7 +384,7 @@ Itaque in eadem homilia, paulo ante hunc locum citatum, Chrysostomus his verbis 
 
 Hucusque Chrysostomi verba recitavi, que declarant, quibus rebus mentes nostre in hac coena Domini attentz esse debent, nempe ab ea rerum, que sub sensus cadunt, cogitatione traductz ad divinarum rerum et ccelestium perspicientiam. Sic igitur concludo, satis plane et aperte responsum esse huic loco Chrysostomi, quem papiste inexplicabilem et indissolubilem esse putant. Atque ut hec Chrysostomi sententia melius intelligatur, non abs re fuerit locum illius superius citatum capite quinto legere.
 
-CAPUT XIII. AMBROSII LOCUS EXPLICATUS, QUEM PAPISTH PRO SE ADDUCUNT.
+## Caput XIII. Ambrosii Locus Explicatus, Quem Papisth Pro Se Adducunt
 
 Apuvuc Ambrosii locus restat, quem papiste multum pro se facere judicant ; quem Ambrosius si diligentius et attentius paulo intueamur, animadvertemus, quantum in eo decipianparr tur. Locus est in libro de iis qui initiantur mysteriis: “Quantis igitur utimur Best exemplis, ut probemus non hoc esse quod natura formavit, sed quod benedictio consecravit; majoremque vim esse benedictionis, quam nature, quia benedictione etiam natura ipsa mutatur! Virgam tenebat Moses, projecit eam, et facta est serpens: rursus Exod. vii. apprehendit caudam serpentis, et in virge naturam revertitur. Vides igitur prophetica gratia bis mutatam esse naturam, et serpentis et virge. Currebant Agypti flumina Exod. vii. puro aquarum meatu: subito de fontium venis sanguis ccepit erumpere. Non erat potus in fluviis; rursus ad prophet preces cruor cessavit fluminum, aquarum natura remwavit, Circumclusus undique erat populus Hebreorum, hinc Agyptiis vallatus, Exod. xiv. “inde mari clausus: virgam levavit Moses, separavit se aqua, et in murorum speciem congelavit, atque inter undas via pedestris apparuit. Jordanis retrorsum conversus Jos. iii, contra naturam in sui fontis revertitur exordium. Nonne claret naturam vel maritimorum fluctuum vel fluvialis cursus esse mutatum? Sitiebat populus, tetigit Moses Exo. xvit. petram, et aqua de petra fluxit. Numquid non preter naturam operata est gratia, ut aquam vomeret petra, quam non habebat natura? Marath fluvius amarissimus erat, ut sitiens populus bibere non posset: misit Moses lignum in aquam, et amaritudinem suam aquarum natura deposuit, quam infusa subito gratia temperavit. Sub Eliseo
 
@@ -415,7 +414,7 @@ Hujus rei quatuor ponit exempla: primum de hominis regeneratione, alterum de aqu
 
 Ad hune modum satis responsum est tribus precipuis patrum auctoritatibus, Cypriani, Chrysostomi et Ambrosii, quibus papiste precipue abutuntur ad transubstantiationis errorem confirmandum. Alias rationes et auctoritates habent, quas eandem ad rem afferunt: sed quia perexiguum et leve pondus habent, et refutatu faciles sunt, pretermitto; neque lectorem hoc tempore perturbare volo, sed judicio ejus estimandas relinquere.
 
-CAPUT XIV. ABSURDA QU TRANSUBSTANTIATIONEM SEQUANTUR.
+## Caput XIV. Absurda Qu Transubstantiationem Sequantur
 
 None doctrinarum monstra et portenta recensebo, que hunc transubstantiationis errorem necessario consequuntur, quum nihil omnino hujusmodi veram et orthodoxam fidem, verboque Dei innixam, consequatur.
 

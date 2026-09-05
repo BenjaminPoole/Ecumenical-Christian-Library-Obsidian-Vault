@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Sermon for New Year's-Day
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1816
@@ -113,8 +112,7 @@ The Lord answer our prayer now, for Jesus' sake, for we seek the salvation of ev
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 103.
 
-HYMNS FROM OUR OWN HYMN BOOK—183, 1,035, 208.
-
+## Hymns from Our Own Hymn Book—183, 1,035, 208
 
 ---
 [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1817 The Ascension and the Second Advent Practically Considered|#1817 →]]

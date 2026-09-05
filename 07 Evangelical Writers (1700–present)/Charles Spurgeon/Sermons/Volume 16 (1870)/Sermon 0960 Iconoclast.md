@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Iconoclast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 960
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 13, 1870,.
+*Delivered on Lord's-Day Morning, November 13, 1870*
 
 > "He removed the high places, and broke the images, and cut down the groves, and broke in pieces the bronze serpent that Moses had made; for until those days the children of Israel did burn incense to it. And he called it Nehushtan. He trusted in the Lord God of Israel, so that after him was none like him among all the kings of Judah, nor any that were before him." 2 Kings 18:4,5.
 
@@ -162,7 +161,6 @@ There is no comforting them! Their soul refuses to be comforted. If one tenth pa
 You fool! Will you perish through your reasonings? Sinner, let me say to you—let your artful doubts and reasonings be nailed to yonder tree where Jesus died. Crucify them. You suspect too much, you consider too much, you question too much. Here it is—receive it as a little child receives his father's word—"God was in Christ, reconciling the world unto Himself, not imputing their trespasses unto them." "The Son of Man is come to seek and to save that which was lost." "Whosoever believes in Him is not condemned."
 
 "He that has the Son of God has life." "Believe on the Lord Jesus Christ, and you shall be saved." For, "He that believes and is baptized shall be saved. But he that believes not shall be damned." Here is all simplicity! Do not mystify it. Here all is clear as noonday! Do not shut out the light. God grant you Grace to break up these idols of yours, and take your Savior now, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0959 Right Replies To Right Requests|← #959]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0961 The Saint One With His Savior|#961 →]]

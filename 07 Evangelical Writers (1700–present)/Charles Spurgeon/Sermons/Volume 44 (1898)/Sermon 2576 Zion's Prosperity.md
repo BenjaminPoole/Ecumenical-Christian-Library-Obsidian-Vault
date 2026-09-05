@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Zion's Prosperity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2576
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You shall arise, and have mercy upon Zion: for the time to favor her, yes, the set time, is come. For Your servants take pleasure in her stones, and favor the dust thereof." Psalm 102:13,14.
 
@@ -87,7 +84,7 @@ I may also mention that it is a good sign of the church's prosperity when the mi
 
 And now, dear Friends, you may not agree with me as to my ideas of a church's prosperity, but there must be one thing you have observed as the great need of the churches in the present day. That is the need of more prayer, more firm attachment to the walls of Zion and greater love to the Doctrines of the Bible. And I beseech you, be henceforth doubly in earnest in seeking for God's Spirit to enable you to cling, heart and soul, to every "stone" and every grain of "dust" in God's Temple of Truth, and let nothing be given up to please men—cleave fast to all that God has ordained and He will prosper and bless you!
 
-EXPOSITION BY C. H. SPURGEON: EZEKIEL 34:11-31.
+## Exposition by C. H. Spurgeon: Ezekiel 34:11-31
 
 The former part of the chapter contains a prophetic denunciation against the evil shepherds—the men who fed not the flocks, but fed themselves—who fouled, with their filthy feet, the waters where the flocks drank, and trod upon the soft grass that otherwise might have afforded pasture for the sheep. After pronouncing judgment upon them, the Lord turns His thoughts to His sheep and gives this precious promise—
 
@@ -122,7 +119,6 @@ Verse 11. For thus says the Lord God, Behold, I, even I, will both search My she
 29, 30. And they shall no more be consumed with hunger in the land, neither bear the shame of the heathen any more. Thus shall they know that I, the LORD their God, am with them, and that they, even the house ofIsrael, are My people, says the Lord God. Thus shall they know it. Do you know it? Has God told it to you? Have you the witness of the Spirit within your spirit that you are born of God? My Hearers, never be satisfied till you get this, for you will never be truly at rest until you know that you are God's people and until you can, each one, say, "My God, my God, you are my God"
 
 31\. And you My flock, the flock of My pasture, are men, and I am your God, says the Lord GOD. ' 'However much I may have lifted you up, you are only men, after all. But I am not a man, I am your God," says the Lord. And we rest more upon what God is, than upon what man is, for He, "is able to do exceeding abundantly above all that we ask, or think."
-
 
 ---
 [[Sermon 2575 A Sermon of Personal Testimony|← #2575]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2577 Living on the Word|#2577 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Victorious Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2757
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For whatever is born of God overcomes the world. And this is the victory that overcomes the world— our faith. Who is he that overcomes the world, but he that believes that Jesus is the Son of God?" 1 John 5:4,5.
 
@@ -120,7 +117,6 @@ So, I hope you see that if faith is the conquering weapon and we intend to be co
 Whether you know it or not, my Friend, that is salvation—to be saved from sin and from self—and there is no getting salvation from the groveling meanness of selfishness except by being born-again! For self clings to every man until he is born-again—and it is not always gone even then. Satan spoke the truth when he said to the Lord, "Skin for skin, yes, all that a man has will he give for his life." But he will not be ready to part with life itself until he gets a higher life and a better one imparted to him by the Spirit of God!
 
 Again I say that this Truth of God throws us on our beam-ends. If we are to be saved, we must look to God! We must seek salvation at His hands. We must ask Him for faith and what a mercy it is that He waits to give it! You are nothing and God will be everything to you. Get to the end of yourself and that will be a proof that God has already begun with you! Cease to believe in your own merits, or your own virtues. Put away all trust in yourself and come and trust in God as He is revealed in His Son Jesus Christ and you have received that salvation which will keep on progressing until all sin shall be driven out of you and you shall dwell forever where Jesus is—as unselfish as Jesus is—as pure, as blessed, as glorious as He is! God grant this to us all, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2756 Saving the Lost|← #2756]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2758 'Return Unto Your Rest'|#2758 →]]

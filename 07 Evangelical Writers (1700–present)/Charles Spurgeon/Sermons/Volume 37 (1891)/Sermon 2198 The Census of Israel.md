@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Census of Israel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2198
@@ -121,10 +120,9 @@ Now, what do you say, Beloved Friends? Do you believe God? Do you believe His Wo
 
 This day, as you are preparing for the census of the nation, think of the time when God shall make up His last account of natives in His holy city. Will you be numbered with His people, or will your names be left out at the reading of the muster roll? God give us a place among His redeemed—and to His name shall be Glory forever and ever! Amen.
 
-PORTIONS OF SCRIPTURE READ BEFORE SERMON—
+## Portions of Scripture Read Before Sermon—
 
 Numbers1:1-5:44-46; 14:1-10,20-35; 26:1-4; 6-65.
-
 
 ---
 [[Sermon 2197 Christ's Resurrection and Our Newness Of Life|← #2197]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2199 Israel's Hope—Or, The Center of the Target|#2199 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 106. But this command seems only to speak of murder
-
-**Question 106. But this command seems only to speak of murder**
 
 Answer. In forbidding murder, God teaches us, that he abhors the causes thereof; such as envy, hatred, anger, and desire of revenge; and that he accounts all these as murder.
 

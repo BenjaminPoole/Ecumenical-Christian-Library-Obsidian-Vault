@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Love's Medicines and Miracles
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1337
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 21, 1877,.
+*Delivered on Lord's-Day Morning, January 21, 1877*
 
 > "Behold, for peace I had great bitterness: but You have, in love to my soul, delivered it from the pit of corruption: for You have cast all my sins behind Your back" Isaiah 38:17.
 
@@ -206,7 +205,6 @@ You are right in bringing your sins before your own face and mourning over them.
 The utmost industry of the devil can never travel into that land which does not exist, even the land which lies behind Jehovah's back into which He has cast Your sins! Who would not be a Believer in Jesus? Even if he were sorely sick and had to lie like Hezekiah, on the bed of death, who would not be a Believer? Even though he had to cry out, "Marah, Marah, bitterness twice over," who would not be a Believer and be embraced out of his misery by that mighty Love which abolishes the sin of the penitent?
 
 Believe in the Lord Jesus Christ, O Sinner, and this shall be your portion, also, by God's abundant mercy. Amen.
-
 
 ---
 [[Sermon 1336 A Family Sermon|← #1336]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1338 Work For Jesus|#1338 →]]

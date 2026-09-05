@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "All Hail!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2628
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And as they went to tell His disciples, behold, Jesus met them, saying, All hail! So they came and held Him by the feet and worshipped Him. Then said Jesus to them, Be not afraid. Go and tell My brethren to go into Galilee, and there will they see Me." Matthew 28:9,10.
 
@@ -115,7 +112,7 @@ They have no spiritual nature, even as the horse has no immortal soul, and they 
 
 Oh, that you did all know it! May God, of His Grace, give you His Spirit, create you anew and breathe faith in Jesus into your soul! Then will you know the bliss of meeting with Him and of serving Him! God bless the Word, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS 3:11-26; ACTS 4:1-4; 2 PETER 3.
+## Exposition by C. H. Spurgeon: Acts 3:11-26; Acts 4:1-4; 2 Peter 3
 
 You remember, dear Friends, how Peter denied his Lord in the time of His trial. Now notice what a change was worked in him after the Holy Spirit had fallen upon him on the day of Pentecost. We have often read the story of the man healed at the beautiful gate of the Temple. Now let us see what followed:
 
@@ -152,7 +149,6 @@ Acts 4:1-4. And as they spoke unto the people, the priests, and the captain of t
 15\. 16. Andaccount that the long-suffering ofourLordis salvation; even as our beloved brother Paul, also, according to the wisdom given unto him, has written unto you; as also in all his epistles, speaking in them of these things; in which are some things hard to be understood to them that are unlearned and unstable, wrest, as they do also the other Scriptures, unto their own destruction. The Scriptures are given for our learning and, rightly used, guide us to the Savior. But, alas, some "wrest" them "unto their own destruction." Let none of us ever be found committing such fatal folly as that.
 
 17, 18. You therefore, Beloved, seeing you know these things before, beware lest you, also, being led away with the error of the wicked, fall from your own steadfastness. But grow in Grace, and in the knowledge of our Lord and Savior Jesus Christ. To Him be glory both now and forever. Amen. I should like to point out to young Christians and to all Christian people how Peter finishes this Epistle, first with a warning and then with a counsel. He says, "Beware lest you be led away." And then he puts in a, "but"—"but grow in Grace." If you go into a plantation at a certain time of the year, you may see a great number of trees that have no leaves on them. How are you to know which are alive and which are not? Well, you would soon know if you could look at their roots. If a tree has been growing, if its roots have taken hold upon the soil, you may pull it, but you will not stir it. There it stands and, in like manner, growth in Grace brings steadfastness in Grace. You who have faith, pray God that you may have growingfaith. A living faith is a growing faith, and a growing faith is a living faith! Pray, therefore, that you may "grow in Grace."
-
 
 ---
 [[Sermon 2627 The Best Friend|← #2627]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2629 God's Work in Man|#2629 →]]

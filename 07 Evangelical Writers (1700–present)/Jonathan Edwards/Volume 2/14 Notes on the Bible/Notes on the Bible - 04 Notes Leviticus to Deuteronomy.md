@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Leviticus to Deuteronomy
 
 [88] Levit. xii. 6. “She shall bring a young pigeon or a turtle dove;” which typifies repentance as well as love. Ezek. vii. 16. “They shall be as doves in the valleys, each one mourning for his iniquity.” This is a proper sacrifice for original sin that the child brought into the world with it by the parents’ means, a sacrifice both for the parents’ and children’s sin.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Good Cheer From Christ's Victory Over the World
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3285
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These things Ihave spoken unto you, that in Me you night have peace. In the world you shall have tribulation: but be of good cheer, I have overcome the world." John 16:33
 
@@ -33,7 +30,7 @@ The Savior warns His people, "In the world you shall have tribulation." That is 
 
 Now, because of this tribulation and the sorrow which is likely to come of it, our Savior gives us the words of good cheer to which our attention is directed in the text. We have first to show what sorrow the comfort is aimed at and, secondly, what is the actual comfort here bestowed.
 
-I. WHAT IS THIS TRIBULATION IN THE WORLD AT WHICH THE SAVIOR'S WORDS OF COMFORT ARE AIMED?
+## I. What Is This Tribulation in the World at Which the Savior's Words of Comfort Are Aimed?
 
 It includes the afflictions which come upon us because we are men living among men and not yet at Home among angels and glorified saints. We dwell among beings who are born to trouble as the sparks fly upward. Between other men and us there are many points of difference, but we share with them in the common infirmities, labors, sicknesses, bereavements and necessities of our fallen race. We are outside of Eden's gate with the rest of Adam's family. We may be
 
@@ -119,9 +116,9 @@ Let us now observe that the main point of the comfort lies in the fact that not 
 
 In closing, let us remember that here we have not merely representation, but also union. "I have overcome the world," means more than, "I overcame in your name." All Believers have virtually overcome the world, for they are one with Christ! Did my hands win the victory? Then my feet triumph! Did my head achieve the conquest? Then my heart shares the honor! The soles of my feet are victorious when my head is crowned. When Jesus Christ, the Head of the Church, was victorious over the foe, every member of His Mystical Body, even the most uncomely, was, virtually, a conqueror in the conquering Head! So let us shout the victory and wave the palm branch, for we are more than conquerors through Him that has loved us! Said He not well when He bade us be of good cheer, for He had overcome the world? Therefore, struggling Brothers and Sisters, obey His word, and—
 
-BE OF GOOD CHEER!
+## Be of Good Cheer!
 
-EXPOSITION BY C. H. SPURGEON: JOHN12:20-50.
+## Exposition by C. H. Spurgeon: John 12:20-50
 
 Our Lord had gained a sudden popularity through raising Lazarus from the dead. And the people had attended Him with great enthusiasm as He rode through the streets of Jerusalem. For the time, things looked very bright with Him, but He knew that He was soon to suffer and to die. And the overshadowing of that great eclipse was already upon His heart. Note how He looked forward to it and how He spoke concerning it.
 
@@ -160,7 +157,6 @@ BRITAIN—A NOTE OF WARNING.] Isaiah was sent upon a painful errand to tell the 
 42, 43. Nevertheless among the chief rulers also many believed on Him; but because of the Pharisees they did not confess Him, lest they should be put out of the synagogue: for they loved the praise of men more than the praise of God. Are there any here who believe in Christ, but who have never confessed Him, lest they should be put out of the synagogue and lose the praise of men? Are you afraid of your family, your father, or your husband? Or is there some friend who would be angry with you if you confessed Christ? If so, be no longer such a coward, I pray you, but come out boldly and confess Him who will not be ashamed to confess you before His Father and the holy angels!
 
 44-50. Jesus cried and said, He that believes on Me, believes not on Me, but on Him that sent Me. And he that sees Me sees Him that sent Me. Iam come as a light into the world, that whoever believes on Me shouldnot abide in darkness. And if any man hears My word and believes not, I judge him not: for I came not to judge the world, but to save the world. He that rejects Me, and receives not My words, has one that judges him: the word that I have spoken, the same shall judge him in the last day. For Ihave not spoken of Myself but the Father which sent Me, He gave me a commandment, what I should say, and what I should speak. And I know that His commandment is life everlasting: whatever I speak therefore, even as the Father said unto Me, so I speak.
-
 
 ---
 [[Sermon 3284 The Sequel to Divine Sovereignty|← #3284]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3286 The Fear of Death|#3286 →]]

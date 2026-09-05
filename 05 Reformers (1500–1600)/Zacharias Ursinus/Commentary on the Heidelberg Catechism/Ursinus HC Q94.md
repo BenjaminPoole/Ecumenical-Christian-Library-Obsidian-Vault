@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 94. What doth God enjoin in the first command?
-
-**Question 94. What doth God enjoin in the first command?**
 
 Answer. That I, as sincerely as I desire the salvation of my own soul, avoid and flee from all idolatry, sorcery, soothsaying, superstition, invocation of saints, or any other creature, and learn rightly to know the only true God, trust in him alone, with humility and patience submit to him, expect all good things from him only; love, fear, and glorify him with my whole heart: so that I renounce and forsake all creatures, rather than commit even the least thing contrary to his will.
 
-**EXPOSITION**
+## **Exposition**
 
 THE FIRST COMMANDMENT consists of two parts: a preface and a precept. The words of the preface are: I am the Lord thy God, which hath brought thee out of the land of Egypt, out of the house of bondage. This preface belongs to the whole Decalogue. It describes and distinguishes God, the law-giver from all creatures, human legislators and false deities, and contains three reasons why the obedience of the first and following commandments should be performed to God. The first is, because God declares himself to be Jehovah, by which he distinguishes himself, the tru God, from all creatures, that he may show that he has the supreme right and authority to rule. I, said he, whom thou hearest speaking, and announcing the law unto thee, I am Jehovah, the true God, who exists of and by himself, giving life and being to all things, and having, therefore, supreme authority to govern and rule all things—the Creator of all things, being eternal and almighty—the author and preserver of all good things: Therefore thou shalt obey me. 2. He says that he is the God of his people, that he might thus, by the promise of his bountifulness, constrain us the more effectually to render obedience to him. God is, indeed, the God of all creatures by creation, preservation and government; but he is the God of his church by the special manifestation and communication which he has made of himself: for he is properly the God of those whom he loves, and delights in above all others. It is for this reason that David calls that nation happy whose God is the Lord, saying, "Blessed is the nation whose God is the Lord, and the people whom he hath chosen for his own inheritance." (Ps. 33:12.) God is now our God, when we acknowledge him to be such an one as he has revealed himself in his word, viz: as one who directs and devotes his power, justice, wisdom and mercy to our salvation, and who offers, with singular love, to be gracious to us in his Son. 3. He adds, which hath brought thee out of the land of Egypt, that he might, by bringing them to recollect the recent and wonderful deliverance wrought in their behalf, show and admonish them that they were bound to render gratitude and obedience to him. It is as if he would say, I am he who is thy God; I have manifested myself to thee, and drawn thee to myself by such singular benefits. This has respect to us, as well as to the Jews; because by the mention of this one deliverance, so wonderful in its nature, there is figuratively comprehended all the deliverances of the church, and amongst them that which has been accomplished by Christ, of which the deliverance from Egyptian bondage was a type. Hence, when God in this preface declares that he is Jehovah, the deliverer of the church, he opposes himself to all creatures and idols, and challenges for himself universal obedience, honor and worship.
 
@@ -96,7 +93,7 @@ Thoughtlessness or rashness is the opposite of patience on the side of excess, a
 
 We may here remark, that often in this and other commandments the same vices arc opposed to many and different virtues. So in this commandment carnal security stands opposed to faith, hope and the fear of God; tempting God is opposed to hope, the love of God, humility and patience; whilst idolatry is utterly at variance with a true knowledge of God and faith. The same thing may be seen, and should be observed in the virtues and vices of other commandments.
 
-**THIRTY-FIFTH LORD'S DAY**
+## **Thirty-Fifth Lord's Day**
 
 ---
 [[Ursinus HC Q93|← Question 93. How are these ten commandments ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q96|Question 96. What does God require in the se →]]

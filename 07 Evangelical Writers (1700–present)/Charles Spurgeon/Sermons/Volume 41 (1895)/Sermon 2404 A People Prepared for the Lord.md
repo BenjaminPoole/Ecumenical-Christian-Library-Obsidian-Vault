@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "A People Prepared for the Lord"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2404
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To make ready a people prepared for the Lord." Luke 1:17.
 
@@ -125,7 +122,7 @@ Here is a text for you—"Whoever shall call on the name of the Lord shall be sa
 
 "You do not know me," says a sorrowing one over there in the corner, "you do not know me, Sir. Otherwise you would not talk so." I do not need to know you, but if you were the devil's own, if you would but come to Christ, you would be, at once and forever, Christ's own! Though you were sunk almost into Hell by a life of horrible crime, yet if you will now come and repent of your sin and lay hold on Christ, you shall be saved! I do not know how to use language that shall be stronger than that, but do not think that I will withdraw it, or qualify it. If I did know how to speak in broader terms, even, than those I have used, I would so speak! You guiltiest of the guilty, you most condemned of all the condemned, for whom the hottest Hell would be your due place, yet come and look to Christ, and you shall live, for none are too vile for Him to cleanse, none are too guilty for Him to pardon! Oh, that you would believe in Jesus while yet the Gospel bell rings out, "mercy, mercy, mercy!" God help you to do so, for the Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 155-17,3:1-18.
+## Exposition by C. H. Spurgeon: Luke 155-17,3:1-18
 
 Luke 1:5, 6. There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the division of Abia; and his wife was of the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking in all the commandments and ordinances of the Lord, blameless. You have, here, a very interesting couple, Zacha-rias and Elizabeth—a priest with a wife. I have often marveled why the Church of Rome thinks it wrong that priests should be married when it is evident that the priests under the Law were so. The priests had grown so numerous that there was not room for them all to work at the Temple at one time. They were divided into 24 divisions and Zacharias would, therefore, come up to Jerusalem for a fortnight to take his share of the service. Zacharias and Elizabeth were notable for excellence of character—"They were both righteous before God." Not only did they stand high in the esteem of men, but the great God who reads the hearts of all and sees how they live in secret, reckoned them to be righteous—
 
@@ -160,7 +157,6 @@ Luke 3:1-7. Now in the fifteenth year of the reign of Tiberius Caesar, Pontius P
 14\. Neither accuse any falsely; and be content with your wages. "With your rations, your allowances," so it runs. They were very apt to be contending for an increase in their pay and to drag civilians before the courts with false accusations unless they chose to give them bribes to let them go. John does not mince matters with any of his hearers—he speaks with wonderful plainness and courage—and therein proves himself to be a true herald of his Master.
 
 15-18. And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not, John answered, saying unto them all, I, indeed, baptize you with water; but One mightier than I comes, the laces of whose shoes I am not worthy to unloosen. He shall baptize you with the Holy Spirit and with fire: whose fan is in His hand, and He will thoroughly purge His floor and will gather the wheat into His garner; but the chaff He will burn with fire unquenchable. And many other things in his exhortation preached he unto the people.
-
 
 ---
 [[Sermon 2403 The Sweet and the Sweetener|← #2403]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2405 Joy, a Duty|#2405 →]]

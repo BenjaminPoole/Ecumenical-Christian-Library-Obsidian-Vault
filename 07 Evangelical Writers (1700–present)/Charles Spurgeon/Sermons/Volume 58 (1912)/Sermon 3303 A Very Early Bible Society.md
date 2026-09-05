@@ -12,16 +12,13 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # A Very Early Bible Society
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3303
 
-DELIVERED BY C. H. SPURGEON,.
-
 > "And Hilkiah answered and said to Shaphan the scribe, I have found the Book of the Law in the house of the LORRD. And Hilkiah delivered the book to Shaphan... Then Shaphan the scribe told the king, saying, Hilkiah the priest has given me a book. And Shaphan read it before the king. And it came to pass, when the king had heard the words of the Law, that he tore his clothes." 2 Chronicles 34:15,18,19.
 
-~ON BEHALF OF THE BRITISH AND FOREIGN BIBLE SOCIETY-
+## ~On Behalf of the British and Foreign Bible Society-
 
 HILKIAH had found THE BOOK and it was a more important find than if he had discovered a mine of diamonds, or perpetual motion, or a new world! Oh, that Book, that wonderful Book! Was there ever anything like it under Heaven? Well may it be a power when we come to think of what it is—the Book of the Law of the living God! How reverently did he lift it from its hiding place, remove its dust and commence to read its title and contents! This particular Book of the Law was probably the first five Books of Moses, commonly called the Pentateuch. Some have thought that it was only the Book of Deuteronomy, but it is too late in the day for us to decide with confidence its exact form. We know that it was "a Book of the Law of the Lord given by Moses" (2 Chron 34:14), probably an autographed copy by Moses. Of that we cannot be sure, but whatever hand may have written the letters, what a Book the Law of the Lord is! The Old Testament is a Divine light which has led multitudes of saints to the Lord's right hand—and its luster is not dimmed by the New Testament, but increased thereby. Not one tittle of it has failed, or shall fail—it lives and abides forever! Taking an enlarged view of the Law of the Lord today and holding in our hands two Testaments, both the Old and the New, what a marvelous Book the Bible is! Earth does not contain an equal wonder!
 
@@ -77,7 +74,7 @@ After the king had tore his garments, he then began to enquire after the God who
 
 After this happened and Josiah began to understand the Book, he entered upon a reformation. I will not say how many things in England need reformation, but certainly we need it in a great many forms—ecclesiastical, doctrinal, social, moral and political. The Bible is the greatest of reformers. You thought, perhaps, I should have applied that term to Luther, or Calvin, or Zwingli—but this is the reformer that reformed Luther! This is the teacher that instructed Calvin! This is the Prophet that fired the heart of Zwingli! While this Book is extant, error will always be in danger of overthrow. An open Bible, and men may quibble and criticize, and invent new doctrines if they please—but this is the Rock on which they will split. As God lives, His Truth must live! And all that is of man's imagining and scheming, and that comes not out of this Book shall be broken to pieces! The grass withers, but the Word abides. "Whoever shall fall upon that stone shall be broken; but on whomever it shall fall, it will grind him to powder." If you seek to have the social fabric purged of the leprosy which now eats into its very walls, scatter this Book! If you want to uplift the fallen and to purify the defiled, scatter this Book that men may be cleansed by it! If you want to see the Church of God made one and her various dividing errors put away, scatter this Book! If you desire to see a blessed unity in the Truth, scatter this Book! If you would dispense a perfect blessing, scatter the Bible, for all good lies here! We need no novel teachings to restore the Glory of the Church—we only need to come back to the purity of Scripture! That great Reformation which broke down all the idols in Judah and Israel came of the discovery of this Book! And there remains for us at this day no better means of reform and revival! God send to England this choice mercy, that it may become a Bible-reading nation, a Bible-loving nation, a Bible-obeying nation—and that shall be the best thing that can happen to our native land. God grant it!
 
-EXPOSITION BY C. H. SPURGEON: 2 CHRONICLES34:14-33.
+## Exposition by C. H. Spurgeon: 2 Chronicles 34:14-33
 
 Verse 14, 15. And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a Book of the Law of the LORD given by Moses. And Hilkiah answered and said to Shaphan the scribe, I have found the Book of the Law in the house of the LORD. And Hilkiah delivered the book to Shaphan. This was a very remarkable find. Of all the discoveries that they might have made, they could have discovered nothing that would work so much good to all the people as this "Book of the Law of the Lord given by Moses."
 
@@ -92,7 +89,6 @@ had all sinned and how many terrible judgments were to be inflicted upon them be
 29, 30. Then the king sent and gathered together all the elders of Judah and Jerusalem. And the king went up into the house ofthe LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words ofthe Book ofthe Covenant that was found in the house of the LORD. That was a grand Bible-reading, with a king for reader and all his princes and all his people gathered to listen to the Word of God! What could he have said better, had he been the greatest of orators? To read out of this blessed Book must surely be to the edification of the hearers.
 
 31-33. And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep His commandments, and His testimonies, and His statutes, with all his heart, and with all his soul, to perform the words of the Covenant which are written in this Book. And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the Covenant of God, the God of their fathers. And Josiah took away all the abominations out of all the countries that pertained to the children of Israel and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their father
-
 
 ---
 [[Sermon 3302 Faith in Christ's Ability|← #3302]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3304 Grace Abounding|#3304 →]]

@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # God's Word Not to Be Refused
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3492
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "See that you refuse not Him who speaks. For if they escaped not who refused Him who spoke on earth, much more shall not we escape, if we turn away from Him who speaks from Heaven." Hebrews 12:25.
 
 WE are not a cowering multitude gathered in trembling fear around the smoking mount of Horeb—we have come where the great central figure is the mercy of God in Christ Jesus. We have gathered virtually in the outer circle of which the saints above and holy angels make the inner ring. And now, tonight, Jesus speaks to us in the Gospel. So far as His Gospel shall be preached by us, here, it shall not be the word of man, but the Word of God. And although it comes to you through a feeble tongue, yet the Truth of God, itself, is not feeble, nor is it any less Divine than if Christ, Himself, should speak it with His own lips! "See that you refuse not Him who speaks." The text contains—
 
-I. AN EXHORTATION OF A VERY SOLEMN, EARNEST KIND.
+## I. An Exhortation of a Very Solemn, Earnest Kind
 
 It does not say, "Refuse not Him who speaks," but, "See that you refuse not Him who speaks"—that is, "be very circumspect that by no means, accidental or otherwise, you refuse the Christ of God, who now, in the Gospel, speaks to you! Be watchful, be earnest, lest even through inadvertence you should refuse the Prophet of the Gospel dispensation—Jesus Christ, the Son of God, who speaks in the Gospel from Heaven to the sons of men." It means, "Give earnest heed and careful attention, that by no means, and in no way you refuse Him who speaks." My objective tonight will be to help you, beloved Friends, especially you that have not laid hold on Christ—who are not the children of Zion, who are joyful in their king—to help you, tonight, that you may see to it.
 
@@ -93,7 +90,7 @@ If you don't have Christ, tonight, some of you never will have Him. If you are n
 
 I do not know. I sometimes am afraid that there are not so many conversions as there used to be. If I thought there were no more souls to be saved by me in this place, under God, I would break away from every comfort and go and find out a place where I could find some that God would bless. Are they all saved that will be? You seat-holders, have I fished in this pond till there is no more to come? Is it to be so, that in all the ground where wheat will ever grow, wheat has grown, and there can be no more? My Brothers and Sisters in Christ, pray God to send His Spirit that there may be more brought to Jesus! If not, it is hard, hard work to preach in vain. Perhaps I grow stale and dull to you—I would not if I could help it. If I could learn how to preach, I would go to school. If I could find the best way to reach you, I am sure I would spare no pains. I do not know what more to say, but if Christ, Himself, shall be refused, how shall I speak for Him? Of His dear wounds, if His precious blood, if His dying groans, if His love to the souls of men all go for nothing, then my words cannot be anything—they may well go to the wind! But do, do turn to Him! Cast not away your souls. Come to Him! He will receive you! He waits to be gracious! Whoever is heavy laden, let him come tonight. One tear, one sigh, one cry—send it up to Him—He will hear you! Come and trust Him! He will save you! God bless you, for Christ's love's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 12.
+## Exposition by C. H. Spurgeon: Hebrews 12
 
 Verses l, 2. Therefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily beset us, and let us run with patience the race that is set before us. Looking unto Jesus— The Apostle seems to say, since so many look on from Heaven, and earth, and Hell, and we are runners in the great life race, let us strip to it—let us throw aside everything that would make our running difficult, every weight, however golden, every garment, however richly embroidered, lest it should entangle us in our course. And then when we have set out, let us not conclude that we have won the victory, but "run with patience," on, on, on, till at last we reach the goal!
 
@@ -116,7 +113,6 @@ Verses l, 2. Therefore seeing we also are compassed about with so great a cloud 
 25-28. See that you refuse not Him who speaks. For if they escaped not who refused Him who spoke on earth, much more shall not we escape if we turn away from Him who speaks from Heaven, Whose voice then shook the earth: but now He has promised, saying, Yet once more I shake not the earth only, but also Heaven. And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain. Therefore we, receiving a Kingdom which cannot be moved, let us have Grace, whereby we may serve God acceptably with reverence and godly fear For let us not think that we are not to be reverent because we gather at the
 
 Gospel's call. Let us not dream that God who is a consuming fire on the top of Sinai, is less terrible under the Gospel than under the Law, for it is not so. 29. For our God is a consuming fire.
-
 
 ---
 [[Sermon 3491 The Savior's Charity|← #3491]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]]

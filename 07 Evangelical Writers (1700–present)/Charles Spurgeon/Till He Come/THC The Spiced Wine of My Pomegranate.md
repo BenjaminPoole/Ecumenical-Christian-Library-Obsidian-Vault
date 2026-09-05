@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Spiced Wine of My Pomegranate
 
 *Till He Come* — Charles H. Spurgeon
 
-## THE SPICED WINE OF MY POMEGRANATE;
-
 ### OR, THE COMMUNION OF COMMUNICATION. I would cause Thee to drink of spiced wine of the juice of my pomegranate.”—Song of Solomon viii. 2.And of His fulness have all we received, and grace for grace.”—John i. 16.
-
-## THE SPICED WINE OF MY POMEGRANATE.
 
 THE immovable basis of communion having been laid of old in the eternal union which subsisted between Christ and His elect, it only needed a fitting occasion to manifest itself in active development. The Lord Jesus had for ever delighted Himself with the sons of men, and he ever stood prepared to reveal and communicate that delight to His people; but they were incapable of returning His affection or enjoying His fellowship, having fallen into a state so base and degraded, that they were dead to Him, and careless concerning Him. It was therefore needful that something should be done for them, and in them, before they could hold converse with Jesus, or feel concord with Him. This preparation being a work of grace and a result of previous union, Jesus determined that, even in the preparation for communion, there should be communion. If they must be washed before they could fully converse with Him, He would commune with them in the washing; and if they must be enriched by gifts before they could have full access to Him, He would commune with them in the giving. He has therefore established a fellowship in imparting His grace, and in partaking of it.
 
@@ -132,7 +127,6 @@ Look upon the frozen ground of Gethsemane, and behold the bloody sweat which sta
 Above all, and chief of all, never forget that Christ is thine. Amid the profusion of His gifts, never forget that the chief gift is Himself, and do not forget that, after all, His gifts are but Himself. He clothes thee, but it is with Himself, with His own spotless righteousness and character. He washes thee, but His innermost self, His own heart’s blood, is the stream with which the fountain overflows. He feeds thee with the bread of heaven, but be not unmindful that the bread is Himself, His own body which He gives to be the food of souls. Never be satisfied with a less communication than a whole Christ. A wife will not be put off with maintenance, jewels, and attire, all these will be nothing to her unless she can call her husband’s heart and person her own. It was the Paschal lamb upon which the ancient Israelite did feast on that night that was never to be forgotten. So do thou feast on Jesus, and on nothing less than Jesus, for less than this will be food too light for thy soul’s satisfaction. Oh, be careful to eat His flesh and drink His blood, and so receive Him into thyself in a real and spiritual manner, for nothing short of this will be an evidence of eternal life in thy soul!
 
 What more shall we add to the rules which we have here delivered? There remains but one great exhortation, which must not be omitted. Seek the abundant assistance of the Holy Spirit to enable you to put into practice the things which we have said, for without His aid, all that we have spoken will but be tantalizing the lame with rules to walk, or the dying with regulations for the preservation of health. O thou Divine Spirit, while we enjoy the grace of Jesus, lead us into the secret abode of our Lord, that we may sup with Him, and He with us, and grant unto us hourly grace that we may continue in the company of our Lord from the rising to the setting of the sun! Amen.
-
 
 ---
 [[THC The Well-Beloved|← The Well-Beloved]] · [[Till He Come|Till He Come Contents]] · [[THC The Well-Beloved's Vineyard|The Well-Beloved's Vineyard →]]

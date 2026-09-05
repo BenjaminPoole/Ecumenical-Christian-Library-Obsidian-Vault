@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 41. Matthew 5:1-12;Luke 6:20-26
-
-**MATTHEW 5:1-12; LUKE 6:20-26**
 
 **1**. And when Jesus had seen the multitudes, [^1] he went up into a mountain, and when he had sat down, his disciples approached to him. **2**. And opening his mouth, [^2] he taught them, saying, **3**. Happy are the poor in spirit: for their is the kingdom of heaven. **4**. Happy are they who mourn: for they shall receive consolation. **5**. Happy are the meek: for they shall receive the earth by inheritance. [^3] **6**. Happy are they who hunger and thirst after righteousness: for they shall be satisfied. **7**. Happy are the merciful: for they shall obtain mercy. [^4] **8**. Happy are those who are of a pure heart: for they shall see God. **9**. Happy are the peace-makers: for they shall be called the children of God. **10**. Happy are those who suffer persecution on account of righteousness: for theirs is the kingdom of heaven. **11**. Happy are you, when they shall throw reproaches on you, and shall persecute you, and lying, shall speak every evil word against you on my account. **12**. Rejoice ye, and leap for joy: for your reward is great in heaven: for so did they persecute the prophets who were before you.
 

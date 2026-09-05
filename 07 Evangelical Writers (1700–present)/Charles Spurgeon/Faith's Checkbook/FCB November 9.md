@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 9
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**NECESSARY KNOWLEDGE**
+## **Necessary Knowledge**
 
 > Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people, saith the Lord God" Ezek. 34:30
 
@@ -23,7 +22,6 @@ To be the Lord's own people is a choice blessing, but to know that we are such i
 It is when we enjoy covenant blessings, and see our Lord Jesus raised up for us as a plant of renown, that we come to a clear knowledge of the favor of God toward us. Not by law, but by grace, do we learn that we are the Lord's people. Let us always turn our eyes in the direction of free grace. Assurance of faith can never come by the works of the law. It is an evangelical virtue, and can only reach us in a gospel way. Let us not look within. Let us look to the Lord alone. As we see Jesus we shall see our salvation.
 
 Lord, send us such a flood-tide of thy love that we shall be washed beyond the mire of doubt and fear.
-
 
 ---
 [[FCB November 8|← November 8]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 10|November 10 →]]

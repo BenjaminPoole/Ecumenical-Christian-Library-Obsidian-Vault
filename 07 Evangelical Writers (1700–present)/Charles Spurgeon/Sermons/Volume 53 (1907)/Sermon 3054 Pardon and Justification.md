@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Pardon and Justification
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3054
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed is he whose transgression is forgiven, whose sin is covered." Psalm 32:1.
 
@@ -118,7 +115,6 @@ But another says, "I never was a member of a church and I am afraid I never shal
 casts himself on Christ. Our hymn bids us "venture" on Christ, but that is not right—there is no venturing, it is all safe—he who trusts himself on Christ—throws himself flat on Sovereign Mercy—"He that believes"—notice what follows, "and is baptized." Baptism is to come afterwards, not for salvation, but as a profession of his faith—he that with his heart believes and with his mouth confesses—"He that believes and is baptized—shall be saved! And he that believes notshall be damned." I dare not leave any word out, whatever any of my Brothers may do. Whether a man is baptized or not, if he does not believe, he shall be damned. But the word, "baptized," is not put into the last sentence because the Holy Spirit saw there was no necessity for it, for He knew if the ordinance were correctly administered, no person who did not believe would be baptized! So it was the same thing as saying, "He that believes not shall be damned."
 
 Oh, may God grant that you may never know the meaning of that last dreadful word, but may you know what it is to be saved by Divine Grace!
-
 
 ---
 [[Sermon 3053 Jesus Christ's Idiom|← #3053]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3055 Accomplices in Sin|#3055 →]]

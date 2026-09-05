@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Withered Hand
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1485
 
-DELIVERED ON THURSDAY EVENING, MAY 22, 1879,.
+*Delivered on Thursday Evening, May 22, 1879*
 
 > "And, behold, there was a man which hadhis hand withered... Then says He to the man, Stretch forth your hand. And he stretched it forth; and it was restored whole, like as the other." Matthew 12:10,13.
 
@@ -146,7 +145,6 @@ If God's mercy in Christ cannot save you, be lost! Make it your sole hope and co
 Him!
 
 The Lord grant His blessing, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1484 Our Motto|← #1484]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1486 The Shame and Spitting|#1486 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon I. The strength of faith. Romans iv. 20
-
-## Sermon I. The strength of faith.
 
 “He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God. — Rom. iv. 20.
 
@@ -196,12 +193,10 @@ Now, what is it that on our part is required, that this great design of God for 
 
 But I shall desist from the pursuit of this demonstration, wherein so many things offer themselves to consideration, as that the naming of them must needs detain me longer from my principal aim than I am willing.
 
-
 ---
 [^1]: See the sermon on this text, vol. viii. p. 207.
 [^2]: A name derived from two Latin words, signifying *faith alone*. — Ed.
 [^3]: *Importance* sometimes occurs in the writings of Owen, under a signification attached to it by some old English writers, and according to which it is equivalent to *import, meaning, signification*. — Ed.
-
 
 ---
 [[SJO 057 Prefatory note|← Prefatory note]] · [[Sermons of John Owen|Contents]] · [[SJO 059 Sermon II. The strength of faith. Romans iv. 20|Sermon II. The strength of faith. Romans iv. 20 →]]

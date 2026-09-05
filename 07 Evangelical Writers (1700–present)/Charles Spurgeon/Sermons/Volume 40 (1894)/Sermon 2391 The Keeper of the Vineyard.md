@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Keeper of the Vineyard
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2391
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I the LORD keep it. I will water it every moment: lest any hurt it, I will keep it night and day." Isaiah 27:3.
 
@@ -160,7 +157,6 @@ mountains shall be molten under Him and the valleys shall be cleft, as wax befor
 12\. Will you refrain Yourself for these things, O LORD? "Can You stand still and see all this?" This is the kind of pleading for the people of God to use when sin abounds. When the Truth of God is trampled like mire in the street, we may come before the Lord and say, "Will You refrain Yourself for these things, O Jehovah?"
 
 12\. Will You hold Your peace and afflict us very severely? May God teach us how to plead for His people and make us great intercessors on behalf of His Church and His cause in these evil days! Amen.
-
 
 ---
 [[Sermon 2390 A Royal Funeral|← #2390]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2392 The Birth Of Christ|#2392 →]]

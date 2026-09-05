@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Birth Of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2392
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, a virgin shall conceive and bear a Son, and shall call His name Immanuel. Butter and honey shall He eat, that He may know to refuse the evil, and choose the Good." Isaiah 7:14,15.
 
@@ -131,7 +128,7 @@ That eyes have seen or angels known." Now, a happy Christmas to you all and it w
 
 Remember that your Master ate butter and honey. Go your way, rejoice tomorrow, but, in your feasting, think of the Man in Bethlehem—let Him have a place in your hearts, give Him the glory, think of the virgin who conceived Him—but think, most of all, of the Man born, the Child given! I finish by again saying—
 
-"A HAPPY CHRISTMAS TO YOU ALL!"
+## "A Happy Christmas to You All!"
 
 EXPOSITION BY C. H. SPURGEON: Matthew 2:1-12.
 
@@ -154,7 +151,6 @@ Verse 1. Now when Jesus was born is Bethlehem of Judea in the days of Herod the 
 11\. They saw the young Child with Mary, His mother, and fell down and worshipped Him: and when they had opened their treasures, they presented unto Him gifts; gold, and frankincense, and myrrh. These were the products of their country, such as they would give to princes. Such treasures must have been of great use to Mary and Joseph to help them take care of the wondrous child who had been entrusted to their charge.
 
 12\. And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. I remember a long sermon by a learned man, to show that we may sometimes break our promise, if, upon further consideration, we find we did wrong in making it, saying that these wise men, though they had promised to go and tell Herod all about the young Child, did not do so when warned of God by a dream. After reading his very ingenious dissertation, I turned to the text and there discovered that the wise men never made any promise of the kind—so that it was a sermon on a nonexistent text! They never agreed to return! Herod told them to do so, which is one thing, but they did not promise to do so—that would have been quite another thing. They broke no promise and, therefore, needed no excuse. They were in supernatural communication with God—He had guided them by a star and now He speaks to them in a dream and bids them go back to their own country another way. May we all be under like unerring guidance! Amen.
-
 
 ---
 [[Sermon 2391 The Keeper of the Vineyard|← #2391]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2393 A Comforting Message for the Closing Year|#2393 →]]

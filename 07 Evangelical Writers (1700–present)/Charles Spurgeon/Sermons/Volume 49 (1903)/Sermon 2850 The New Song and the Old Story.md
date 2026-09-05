@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The New Song and the Old Story
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2850
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O sing unto the Lord a new song: sing unto the LORRD, all the earth. Sing unto the LORD, bless His name; show forth His salvation from day to day. Declare His glory among the heathen, His wonders among all people." Psalm 96:1-3.
 
@@ -123,14 +120,13 @@ So, you see, I have put before you these two outlets for your love. First, sacre
 
 As for those of you who have never found the Savior, you cannot tell of His excellence or publish His worth. But I do trust that you will not forget that Jesus is to be found by those who seek Him, for whoever believes on Him shall be saved. Take Him at His word. Rely on His promise. Trust Him. Commit your soul into His keeping. Cast yourself unreservedly on His mercy. He will not spurn you, but He will receive you graciously. And you shall yet praise Him and He will be the health of your countenance and your God.
 
-EXPOSITION BY C. H. SPURGEON: DANIEL 9:14-23.
+## Exposition by C. H. Spurgeon: Daniel 9:14-23
 
 Verses 14-21. Therefore has the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all His works which He does, for we obeyed not His voice. And now, O Lord our God, that has brought Your people forth out of the land of Egypt with a mighty hand, and has gotten You renown, as at this day, we have sinned, we have done wickedly. O Lord, according to all Your righteousness, I beseech You, let Your anger and Your fury be turned away from Your city Jerusalem, Your holy mountain: because for our sins and for the iniquities of our fathers, Jerusalem and Your people are become a reproach to all that are about us. Now therefore, O our God, hear the prayer of Your servant, and his supplications, and cause Your face to shine upon Your sanctuary, that is desolate, for the Lord's sake. O my God, incline Your ears and hear, open Your eyes, and behold our desolations, and the city which is called by Your name: for we do not present our supplications before You for our righteousness, but for Your great mercies. O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not for Your own sake, O my God: for Your city and Your people are called by Your name. And while I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God; yes, while I
 
 was speaking in prayer, even thee man Gabriel, whom Ihadseen in thee vision at thee beginning, being caused to fly swiftly, touched me about the time of the evening oblation. That is the time when prayer is always heard, when the lamb is offered, and his blood is sprinkled, and blessed be God, the Sacrifice in which we trust has been offered once and for all. The Christ, who has gone into Heaven as a Lamb that had been slain, has, by His one offering, made perpetual oblation unto the Most High on our behalf. So pray when we will, we may expect an answer. See how quick it was in Daniel's case: "While I was speaking in prayer," the angel Gabriel, in the form of a man, appeared unto him, and brought him the answer to his petition.
 
 22, 23. And he informed me, and talked with me, and said, O Daniel, I am now come forth to give you skill and understanding. At the beginning of your supplications the commandant came forth, and I am come to show you, for you are greatly beloved: therefore understand the matter, and consider the vision. And then he told him of the Messiah who was coming, of all that would happen to Him, of the week of respite, and then of the final consummation when God would permit the foreign prince to come and destroy the city, and the sanctuary, and to pour upon them the desolations which He had determined to inflict upon them.
-
 
 ---
 [[Sermon 2849 Remembering God's Works|← #2849]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2851 Unseasonable Prayer|#2851 →]]

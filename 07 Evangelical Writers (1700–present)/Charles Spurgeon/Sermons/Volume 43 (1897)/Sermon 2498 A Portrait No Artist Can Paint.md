@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Portrait No Artist Can Paint
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2498
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He had in His right hand seven stars: and out of His mouth went a sharp two-edged sword: and His countenance was as the sun shines in its strength." Revelation 1:16.
 
@@ -89,7 +86,7 @@ Yet this figure of the sun has in it something justly terrible. Who could fight 
 
 Dear Friends, are you on the Lord's side? Are you on Jesus Christ's side? If so, be happy that you have such a Savior! Are you an opponent of His? Then tremble and bow before Him! "Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him." May He send this choice blessing to you all, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: REVELATION 1
+## Exposition by C. H. Spurgeon: Revelation 1
 
 Verses 1, 2. The Revelation of Jesus Christ which Godgave unto Him, to show unto His servants things which must shortly come to pass. And He sent and signified it by His angel unto His servant John who bore record of the Word of
 
@@ -118,7 +115,6 @@ If Grace is given, Glory will follow. Therefore, Beloved, "Grace be unto you, an
 19, 20. Write the things which you have seen, and the things which are, and the things which shall be hereafter; the mystery of the seven stars which you saw in My right hand, and the seven golden candlesticks. Then He proceeds to explain what He meant, just after the manner of the Son of Man who, when He pronounced a parable in public, opened it up to His own disciples in secret, even as He still does. Oh, how blessedly is "Jesus Christ the same yesterday, and today, and forever"! His characteristics never change! What He was, He is and that He will ever be, blessed be His holy name."
 
 20\. The seven stars are the angels of the seven churches: and the seven candlesticks which you saw are the seven churches. The Lord bless to us all the reading of this precious passage from His Word! Amen.
-
 
 ---
 [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2499 Christopathy|#2499 →]]

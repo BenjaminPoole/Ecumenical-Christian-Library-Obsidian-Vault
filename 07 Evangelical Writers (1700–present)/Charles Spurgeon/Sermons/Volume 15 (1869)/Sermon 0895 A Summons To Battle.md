@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/15
 ---
-
 # A Summons To Battle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 895
@@ -111,7 +110,7 @@ Remember, again and this word ought to stimulate us to fight well, the enemy, th
 
 I will put these five things, then, together. By the King who leads you, by the banner that waves above you, by your captive Brethren who wait to be delivered, by the horrible enemy against whom we may well take revenge and by the glorious reward, let every soldier gird his sword upon his thigh in this, the time when kings go forth to battle.
 
-IV. THE HIGHEST ENCOURAGEMENTS READILY PRESENT THEMSELVES TO INDUCE YOU TO JOIN
+## IV. The Highest Encouragements Readily Present Themselves to Induce You to Join
 
 THE WARRING ARMIES. I shall mention these encouragements. It is quite certain that God has an elect people still upon the earth—then don't you see that it is hopeful work to find out these elect ones by the preaching of the Word of God? "I have much people in this city" must have been a great encouragement to the Apostle when he went there. God has much people in London, yet, and I am persuaded He has many people in this congregation that gathers here— and as the farmer is encouraged to sow his seed in good soil, from which he may reasonably expect a large harvest, so ought you to be encouraged to work for Jesus Christ just now.
 
@@ -134,7 +133,6 @@ If you will not bring forth fruit to His Glory, neither can you expect the comfo
 And now, by the blood that bought you. By the Spirit that quickens you. By the Heaven that awaits you, Brothers and Sisters, I ask you to go with me to the battle! Deacons, Elders of the Church, Sunday school teachers, all of you come with me to the battle and let us see whether during the next few months the Lord does not give us a greater blessing than we have ever had before! I believe He will even open the windows of Heaven and pour us out a blessing. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 145.
-
 
 ---
 [[Sermon 0894 Christ with the Keys of Death and Hell|← #894]] · [[Volume 15 (1869)|Volume 15 (1869) Contents]] · [[Sermon 0896 The Coming Resurrection|#896 →]]

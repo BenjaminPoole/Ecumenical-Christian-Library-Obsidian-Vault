@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Acts 11:1-18
 

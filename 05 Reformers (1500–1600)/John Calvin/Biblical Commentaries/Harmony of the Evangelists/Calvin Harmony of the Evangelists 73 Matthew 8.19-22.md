@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 73. Matthew 8:19-22;Luke 9:57-62
-
-**MATTHEW 8:19-22; LUKE 9:57-62**
 
 **19**. And a scribe approaching said to him, Master, I will follow thee whithersoever thou shalt go. **20**. And Jesus saith to him, Foxes have holes, and birds of the air have nests: but the Son of man hath not where to lay his head. **21**. And another of his disciples said to him, Lord, permit me first to go and bury my father. **22**. And Jesus said to him, Follow me, and allow the dead to bury their dead.
 

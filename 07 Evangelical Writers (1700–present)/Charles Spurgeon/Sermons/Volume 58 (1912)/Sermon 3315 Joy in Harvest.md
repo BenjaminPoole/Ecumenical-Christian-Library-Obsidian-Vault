@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Joy in Harvest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3315
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They joy before You according to the joy in harvest." Isaiah 9:3.
 
@@ -97,7 +94,7 @@ Do you remember my saying one Sabbath, "The Lord deal so with you as you deal wi
 
 God bring in the unconverted and lead them to a simple trust in Jesus—then shall they,also, know the joy in harvest! We ask it for His name's sake. Amen!
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH9:1-7.
+## Exposition by C. H. Spurgeon: Isaiah 9:1-7
 
 The last verses of the 8th Chapter picture a horrible state of wretchedness and despair—"And they shall pass through it, hard-pressed and hungry: and it shall come to pass that when they shall be hungry, they shall fret themselves and curse their king and their God, and look upward. And they shall look unto the earth and behold trouble and darkness, gloom of anguish, and they shall be driven to darkness." But see what a change awaits them!
 
@@ -138,7 +135,6 @@ See in His face what wonders meet!
 Earth is too narrow to express
 
 His worth, His Grace, His righteousness!"
-
 
 ---
 [[Sermon 3314 God in Nature and in Revelation|← #3314]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3316 Their Desired Haven|#3316 →]]

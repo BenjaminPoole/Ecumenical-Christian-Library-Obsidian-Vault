@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # God's Care of Elijah
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3264
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it shall be that you shall drink from the brook, and I have commanded the ravens to feed you there." 1 Kings 17:4.
 
@@ -95,7 +92,7 @@ Lord!
 
 O Beloved, let these Truths of God rest upon your minds and hearts! While there is comfort in the subject for the Christian as to Providential circumstances, yet there is also a word of self-examination both to him and to the unsaved sinner with regard to spiritual matters. May the Lord bring us all to His right hand in Glory everlasting, and His shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM118.
+## Exposition by C. H. Spurgeon: Psalm 118
 
 May the Good Spirit, who taught the Psalmist to indite these words, help us to feel their inward meaning!
 
@@ -144,7 +141,6 @@ Verse 1. O give thanks unto the LORD; for He is good: because His mercy endures 
 Present it to your God. "Bind the sacrifice with cords, even with cords unto the horns of the altar."
 
 28, 29. You are my God, andl willpraise You: You are my God, I will exalt you. Ogive thanks unto the LORD; for He is good: for His mercy endures forever'
-
 
 ---
 [[Sermon 3263 Intelligent Obedience|← #3263]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3265 Faith Tried and Triumphing|#3265 →]]

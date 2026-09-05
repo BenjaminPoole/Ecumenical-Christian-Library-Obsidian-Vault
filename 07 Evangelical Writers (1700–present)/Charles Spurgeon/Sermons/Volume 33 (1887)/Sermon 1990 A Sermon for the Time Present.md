@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # A Sermon for the Time Present
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1990
@@ -83,16 +82,13 @@ Would God that all were on Christ's side out of this great assembly! Oh, that yo
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Zephaniah 3.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—46, 731, 18.
+## Hymns from "Our Own Hymn Book"—46, 731, 18
 
 *Now Ready. Price Twopence.*
 
 MR. SPURGEON'S *Three Articles on "THE DOWN GRADE"*
 
-REPRINTED FROM "THE SWORD AND THE TROWEL."
-
 Passmore & Alabaster, Paternoster Buildings; and all Booksellers.
-
 
 ---
 [[Sermon 1989 He Comes With Clouds|← #1989]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1991 Sitting By|#1991 →]]

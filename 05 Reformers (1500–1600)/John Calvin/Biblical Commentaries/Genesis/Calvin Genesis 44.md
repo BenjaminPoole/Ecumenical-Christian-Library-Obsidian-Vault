@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 44
 
-**CHAPTER 44.**
+***Chapter 44.***
 
 ## Genesis 44:1-34
 

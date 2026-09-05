@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Ezekiel 3:1-2
 
@@ -69,7 +68,7 @@ Now it is added, *that he may go and proceed to the captivity, to the children o
 
 ## Prayer Lecture 8
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou art desirous that the teaching of thy Prophet should be set before us, so many ages after his death, that we be not either obdurate or rebellious; but may we submit ourselves to thee in all becoming reverence and obedience, that the labor which ended in the condemnation of thine ancient people, through their contumacy, may this day be salutary to us, and may we so follow what thou teachest through him, that we may tend to the goal to which thou callest us, until after finishing our course with perseverance, we may be at length gathered together within thy celestial kingdom, through Christ our Lord. — Amen.
 
@@ -123,7 +122,7 @@ Now it follows, *thou shalt admonish them from me* The word which the Prophet us
 
 ## Prayer Lecture 9
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou condescendest to interest thyself in our salvation, and stirrest up thy servants to be to us instead of eyes, that we may know thy watchfulness over us lest we perish, — grant, I pray thee, that we may be so roused by the holy admonitions which flow from thee through their ministry and service, that if we have turned aside from the right way we may speedily return to it, and so go forward in our course, and be endued with such perseverance, that we may at length arrive at the fruition of that blessed rest, which has been obtained for us by the blood of thy Son. Amen.
 
@@ -172,7 +171,7 @@ Now we must carefully remark what follows, *his righteousness shall not be remem
 
 ## Prayer Lecture 10
 
-**PRAYER,**
+## **Prayer,**
 
 O Almighty God, grant, that as thou dost appoint the ministers of thy doctrine, whom thou dost raise up, watchmen over us on this condition, that they be vigilant for our safety, — grant that we also may be attentive to their instructions, and avoid a double destruction through our own fault, by error and obstinacy; but if we should happen to wander, may we be wise again immediately we are blamed, and so return into the right way, as never to desert it again, but persevere unto the end, that we may at length enjoy that eternal blessedness which is laid up for us in heaven, through Christ our Lord. Amen.
 

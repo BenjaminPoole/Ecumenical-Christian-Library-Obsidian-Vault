@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 11. Luke 1:56-66
-
-**LUKE 1:56-66**
 
 **56**. And Mary abode with her about three months, and returned to her own house. **57**. And Elisabeth's time of bringing forth was fulfilled, and she brought forth a son. **58**. And her neighbors and relatives heard, that the Lord had wonderfully exercised his mercy toward her, and they congratulated her. **59**. And it happened on the eighth day, when they came to circumcise the child, and they called him Zacharias, by the name of his father. **60**. And his mother answering said, [^1] By no means, but he shall be called John. **61**. And they said to her, There is none among thy kindred who is called by that name. **62**. And they made signs to his father how he wished him to be called. **63**. And having asked for writing tables, he wrote, saying, John is his name: and all wondered. **64**. And his mouth was instantly opened, and he spake, blessing God. **65**. And fear fell upon all their neighbors, and in all the mountainous district of Judea all these words were made known. **66**. And all who had heard put them in their heart, saying, What (or Who) shall this child be? And the hand of the Lord was with him.
 
@@ -37,4 +34,4 @@ Luke does not speak of stupid men, or actual despisers of God: for he says that 
 [^1]: “Mais sa mere print la parole;” — “but his mother took speech.”
 [^2]: “Mais selon la promesse expresse de Dieu, qui avoit este apportee et revelee par l'ange.” — “But according to the express promise of God, which had been brought and revealed by the angel.”
 [^3]: “Que nous en soyons touchez et esmeus a bon escient.” — “That we may be touched and moved by them in good earnest.”
-[^4]: “Dieu en faisant miracles ne se joue point pour nous servir de passe- temps, mais reveille nos sens, lesquels il voit estre abrutis et en dormis.” — “God, in working miracles, does not amuse himself to supply us with pastime, but arouses our senses, which he sees to be stupified and asleep.”
+[^4]: “Dieu en faisant miracles ne se joue point pour nous servir de passe-temps, mais reveille nos sens, lesquels il voit estre abrutis et en dormis.” — “God, in working miracles, does not amuse himself to supply us with pastime, but arouses our senses, which he sees to be stupified and asleep.”

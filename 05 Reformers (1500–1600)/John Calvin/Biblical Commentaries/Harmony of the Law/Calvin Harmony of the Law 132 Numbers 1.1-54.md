@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 132. Numbers 1:1-54
-
-**Numbers 1**
 
 **1.** And the Lord spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first *day* of the second month, in the second year after they were come out of the land of Egypt, saying,
 

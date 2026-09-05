@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 50
-
-**PSALM 50**
 
 There have always been hypocrites in the Church, men who have placed religion in a mere observance of outward ceremonies, and among the Jews there were many who turned their attention entirely to the figures of the Law, without regarding the truth which was represented under them. They conceived that nothing more was demanded of them but their sacrifices and other rites. The following psalm is occupied with the reprehension of this gross error, and the prophet exposes in severe terms the dishonor which is cast upon the name of God by confounding ceremony with religion, showing that the worship of God is spiritual, and consists of two parts, prayer and thanksgiving.
 

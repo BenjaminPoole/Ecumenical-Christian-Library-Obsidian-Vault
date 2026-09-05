@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # How to Please God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2513
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But without faith it is impossible to please Him: for he that comes to God must believe that He is, and that He is a rewarder of them that diligently seek Him." Hebrews 11:6.
 
@@ -114,7 +111,6 @@ I have heard of a doctor who was somewhat severe in his method of treating his p
 Someone asked him, "Why did you let the man sink?" He answered, "He was too strong for me to rescue him at the first. While he was strong, he would have pulled me down with himself, so I let him begin to sink and lose all strength— and then I knew that I could get him ashore." In like manner, some of you will have to go down again a second time before you get weak enough to be saved. It is not your strength, it is your weakness! It is not your righteousness, it is your sin that qualifies you for Christ! I mean this—that just as poverty is the best qualification for alms, as misery is the best qualification for mercy—so, the lower you are lying before Christ's Cross, the more sure may you be that the Grace of God will come to you as soon as you trust in Christ's atoning work!
 
 May God bless you all with this faith which pleases Him, for the Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2512 Hearing With Heed|← #2512]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2514 Servus Servorum|#2514 →]]

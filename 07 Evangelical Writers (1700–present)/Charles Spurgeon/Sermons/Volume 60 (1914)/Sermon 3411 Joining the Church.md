@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Joining the Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3411
-
-DELIVERED BY C. H. SPURGEON.
 
 > "And this they did, not as we hoped, but first gave their own selves unto the Lord, and unto us by the will of God." 2 Corinthians 8:5.
 
@@ -25,7 +22,7 @@ SOME persons are always trying to prove what is customary in the Christian Churc
 
 Now, our text tells us of one old custom in the Apostles' days. Those who became Christians first gave themselves to the Lord and then they gave themselves to the Church, according to God's will. Let us ponder these things in their order. Of course we shall think of the main and most important point first—that action which gives value and beauty to all that follows and is its fruit—
 
-I. THE SOUL'S SUPREME GIFT
+## I. The Soul's Supreme Gift
 
 The first thing that the original Christians, the Christians of the old and Holy Spirit times did was, "they gave themselves unto the Lord." This is vital, the one all-important bestowal. Have all of us who are professors that we are Christ's disciples really given ourselves to the Lord? Are there not in this House of Prayer some who have never thought of doing so, and even some who would reject with contempt the idea of doing so? Oh, my Hearers, the day will come when you will look at these matters in a very different light! And in the next world it will be seen that it would have been your highest wisdom to have given yourselves to the Lord—and your supreme folly to have lived unto self!
 
@@ -49,7 +46,7 @@ Him!
 
 I cannot press this matter by way of questioning everyone present, but still I would like to ask of every conscience, especially of every professing Christian, to answer this question, "My Soul, have you given yourself up, through the Grace of God, to belong to the Lord?" Do you mean that, or is it a farce? Have you made it real, or is it all a sham? Do you feel within your soul tonight a desire to make it more complete a gift? Do you pray for Grace to make it perfect in the future? Do you rest alone upon the precious blood of Jesus? Then do you desire to glorify God so long as you are in this body? Oh, then 'tis well with you and you may go the next step with me. If not, hands off all ordinances, hands off all promises! There is nothing in the Bible and there is nothing in the Church for you until you first are reconciled to God by the death of Jesus Christ1 And now let us turn to consider briefly the second giving of the soul—
 
-II. THE GIFT THAT FOLLOWS THE SUPREME ONE.
+## II. The Gift that Follows the Supreme One
 
 I want to know this passage aright. I think I do. "They first gave their own selves to the Lord, and unto us"—that is, they gave "their own selves" unto us—by the will of God. After a true Christian has given himself or herself to the Lord, the very next act should be to give themselves to the Christian Church. They should at once assay, as Paul did, to be united to the Brethren of Christ. Somewhere in the district where he lives, if there is a Christian Church, the newborn Believer should at once seek fellowship with others who love his Lord, because saved by His Grace. The right way to do this is to give himself. Not his name, his money, not his mere presence, his sympathy, his active labors—all these are part of the gift—but the soul of it all is to give himself. In the whole force and weight of his influence, personality and ability, as far as God shall help him, he is to give up to the Church.
 
@@ -85,7 +82,7 @@ Your courage rise with danger,
 
 And strength to strength oppose." Today stand up for Jesus! Today be willing to be the off-scouring of all things for His name's sake. And then, when He comes in His Glory, yours shall be the reward, a reward that shall far outweigh any losses that you can sustain today! "He that believes and is baptized shall be saved." "He that with his heart believes and with his mouth makes confession shall be saved." Believe in the Lord Jesus Christ and may His blessing rest upon you! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 8.
+## Exposition by C. H. Spurgeon: 2 Corinthians 8
 
 The Apostle is writing concerning a certain collection which was being made for the poor saints of Jerusalem. It was from Jerusalem that the Gospel had spread into Greece and, therefore, those who had received spiritual things from the poor Jews at Jerusalem were bound by every tie of holy brotherhood to remember their benefactors in the time of famine. The Apostle stirs up the Corinthian Church about this contribution.
 
@@ -126,7 +123,6 @@ Verse 1. Moreover, brethren, we make known to you. Or, "we make you to know."
 21\. Providing for honest things, not only in the sight of the Lord, but also in the sight of men. That the thing might be so clear and transparent that while God knew that Paul was honest, everybody else might know it, too, for others had been associated with him.
 
 22, 23. And we have sent with them our Brother whom we have oftentimes proved diligent in many things, but now much more diligent upon the great confidence which I have in you. Whether any do enquire of Titus, he is my partner and fellow helper concerning you: or our brethren be enquired of, they are the messengers of the Churches, and the Glory of Christ. How beautiful to see Paul so praising his brethren—very humble, commonplace persons as compared with himself, but he admires the Grace of God in them. How very different from the general spirit of depreciation that you find even among Christians—afraid to praise anybody lest they should be exalted above measure. You might leave that to the devil! He will take care that they are not exalted above measure but you need not be as particular about that. Often the best thing that can be done for God's servant is to encourage him, for, though you may not know it, he may have a multitude of depressions, heavy toil and earnest care and much watching which may bring him down. Paul speaks well of the Brotherhood—let us try to do the same. But what does he call these simple-minded men who are going with him to distribute this money? Does he call them the Glory of Christ Yes! Christ is the Glory of God and His people are the Glory of Christ! He glories whenever He is glorified by them! They are the result of the travail of His soul and in that sense they are His Glory.
-
 
 ---
 [[Sermon 3410 Christ and His Hearers|← #3410]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3412 The Heavenly Rainbow|#3412 →]]

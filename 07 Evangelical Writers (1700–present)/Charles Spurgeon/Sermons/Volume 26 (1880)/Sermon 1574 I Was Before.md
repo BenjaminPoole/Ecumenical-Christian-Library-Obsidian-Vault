@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # I Was Before
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1574
-
-DELIVERED BY.
 
 > "Who was before a blasphemer and a persecutor and injurious." 1 Timothy 1:13.
 
@@ -184,7 +181,6 @@ That gracious conversion I ha ve in review,
 Confirms His good pleasure to help me quite through." So let us go on our way rejoicing that it shall be even so with each one of us. Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Acts 26:1 Timothy 1:11-17. HYMNS FROM "OUR OWN HYMN BOOK"—30, 233, 235.
-
 
 ---
 [[Sermon 1573 Bad Lodgers and How To Treat Them|← #1573]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]]

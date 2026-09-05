@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 46 — What is the duty of private members in reference unto the discipline appointed by Christ in his church?
-
-Question 46 — What is the duty of private members in reference unto the discipline appointed by Christ in his church?
 
 Answer — It is their duty, in their mutual watch over one another, to exhort each other unto holiness and perseverance; and if they observe any thing in the ways and walkings of any of their fellow-members not according unto the rule and duty of their profession, which, therefore, gives them offence, to admonish them thereof in private, with love, meekness, and wisdom; and in case they prevail not unto their amendment, to take the assistance of some other brethren in the same work; and if they fail in success therein also, to report the matter, by the elders’ direction, unto the whole church. Matt. xviii. 16–18; 1 Thess. v. 14.
 
@@ -127,7 +124,6 @@ Eleventhly, In case the offender despise this admonition of the church, and come
 (2.) To be *comforted* under his sorrow, 2 Cor. ii. 7, and that by, — [1.] The *application of the promises* of the gospel unto his conscience; [2.] A *declaration of the readiness* of the church to receive him again into their love and communion.
 
 (3.) *Restored*, — [1.] By a *confirmation* or testification of the love of the church unto him, 2 Cor. ii. 8; [2.] A *re-admission* unto the exercise and enjoyment of his former privileges in the fellowship of the church; all with a spirit of meekness, Gal. vi. 1.
-
 
 ---
 [[BIWG 46 Question 45 — Wherein doth the liberty and duty of the whole brotherhood in the|← Question 45 — Wherein doth the liberty and duty of the whole brotherhood in the exercise of discipline in the church in particular consist?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 48 Question 47 — The preservation of the church in purity, order, and holiness|Question 47 — The preservation of the church in purity, order, and holiness, being provided for, by what way is it to be continued and increased? →]]

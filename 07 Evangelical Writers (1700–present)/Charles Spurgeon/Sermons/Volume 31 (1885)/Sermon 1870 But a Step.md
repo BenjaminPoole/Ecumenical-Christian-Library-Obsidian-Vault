@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # But a Step
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1870
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There is but a step between me and death." 1 Samuel 20:3.
 
@@ -110,7 +107,6 @@ Now, do not part with anybody that you love with any kind of tiffs or quarrellin
 Some people's eyes greatly help the preacher. A telegraph goes on between us. She seemed to say to me, "Bless God for that. How I am enjoying it!" She kept drinking in the Truth of God and I poured out more and more precious things about the Eternal Kingdom and the sight of the Well-Beloved, till I saw what I thought was a strange light pass over her face. I went on and those eyes were still fixed on me. She sat still as a marble figure and I stopped and said, "Friends, I think that yon Sister over there is dead." They said that it was even so and they bore her away. She had gone. While I was telling of Heaven, she had gone there! And I remember saying that I wished that it had been my case as well as hers. It was better not, perhaps, for many reasons, but oh, I did envy her!
 
 I am always looking for the day when I shall see her again! I shall know those eyes, I am sure I shall! I shall remember that face, if in Heaven she is anything like what she was here, or bears any marks of identification. I shall not forget that inward fellowship which existed between a soul that stood with wings outspread for Glory and the poor preacher who was trying to talk of that which he knew but little of compared with her. Well, well, it will soon be my turn. Good night, poor world! It will soon be your turn and then you shall say, "Good night." Let us meet in Glory! Let us meet in Glory, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1869 Hagar at the Fountain|← #1869]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1871 Love's Transformations—a Communion Meditation|#1871 →]]

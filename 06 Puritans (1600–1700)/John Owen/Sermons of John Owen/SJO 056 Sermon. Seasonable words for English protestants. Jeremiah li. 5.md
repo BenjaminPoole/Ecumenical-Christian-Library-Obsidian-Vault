@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon. Seasonable words for English protestants. Jeremiah li. 5
-
-## Sermon. Seasonable words for English protestants.
 
 “For Israel hath not been forsaken, nor Judah of his God, of the Lord of hosts; though their land was filled with sin against the Holy One of Israel.” — Jer. li. 5.
 
@@ -144,7 +141,6 @@ Signs, and wonders, and judgments, terrify; — it is the word that must reform,
 
 I have scarce been able to speak the heads of these things unto you. I wish I had strength to speak all that is in my thoughts and heart upon this matter unto this whole nation; for hereon, and not on any thing else, depends the deliverance and safety of it.
 
-
 ---
 [^1]: [See Jer. vii. 16, xi. 14, xv. 1.]
 [^2]: The plague in 1665, which cut off 68,596 of the population, according to the London bills of mortality.
@@ -152,7 +148,6 @@ I have scarce been able to speak the heads of these things unto you. I wish I ha
 [^4]: Most probably the war with the Dutch, which had begun in 1665, and in the course of which the Dutch fleet sailed up the Thames, and destroyed the ships of war at Chatham.
 [^5]: Probably the celebrated comet of 1680–81, known by the name of Halley’s comet. The observations made by Halley and Flamsteed on this body are partly the basis, on which Newton, from the theory of gravitation, proved the orbit of comets. It was visible for a considerable time, and shone with great brilliance.
 [^6]: The allusion is to the Popish Plot which Titus Oates was thought to have discovered. He was a clergyman of infamous character. Expelled from his benefice in the Church of England, he had entered the Jesuit college of St Omer. Thence he returned to England, and in 1678 lodged information before Sir Edmondsbury Godfrey that the Roman Catholics were busy with a scheme for burning London, landing a French army in Ireland, and assassinating the king. Sir E. Godfrey, who, as justice of the peace, had received the depositions of Oates, was shortly afterwards found dead in a field near London; and it was evident that he had been murdered. Papers were found on Edward Coleman, a Roman Catholic emissary, which afforded some corroboration to the story of Oates. These facts secured universal credit at the time for the allegations of Oates. The importance which Dr Owen attaches to this plot must evidently be understood in the light of the prevailing and universal impression among British Protestants at the time when the sermon was delivered. — Ed.
-
 
 ---
 [[SJO 055 Prefatory note|← Prefatory note]] · [[Sermons of John Owen|Contents]] · [[SJO 057 Prefatory note|Prefatory note →]]

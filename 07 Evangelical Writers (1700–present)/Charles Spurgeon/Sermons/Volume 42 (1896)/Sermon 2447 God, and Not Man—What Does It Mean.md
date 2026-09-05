@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "God, and Not Man"—What Does It Mean?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2447
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will not return to destroy Ephraim: for I am God, and not man." Hosea 11:9.
 
@@ -85,9 +82,9 @@ You remember that blessed expression in the 55th of Isaiah, "He will abundantly 
 
 VI. Now let me go a step further. I feel morally certain that men who are offended with their fellows—MEN WHO
 
-HAVE BEEN VERY GREATLY WRONGED, WOULD NOT PROPOSE TO GO AND LIVE WITH THOSE WHO
+## Have Been Very Greatly Wronged, Would Not Propose to Go and Live with Those Who
 
-HAVE WRONGED THEM, AND TAKE UP A POSITION OF EQUALITY WITH THEM.
+## Have Wronged Them, and Take up a Position of Equality with Them
 
 I could not expect a king, whose subjects had revolted against him, who had refused to render to him due honor and submission, who had even insulted his crown and done despite to his character, to say, "I will leave my palace and my crown, and my splendor and all that I have, and I will go and live among these rebels. I will wear their rags. I will fare as they fare and dwell in their hovels. I know that they will kill me—they will spurn me, and spit upon me and, at last they will fasten me to a cross and hang me up to die. But with the strong desire that they should be reconciled to me, I am willing to go and to be one with them."
 
@@ -137,9 +134,9 @@ O dear Heart, you who have been a drunk, or a swearer, or whatever else you have
 
 Now trust the Lord Jesus Christ. That is the way of salvation! "Look unto Me and be you saved, all you ends of the earth." Or, if you want the plan of salvation stated in full, here it is, "He that believes and is baptized shall be saved; but he that believes not shall be damned." God grant to all of us Grace to believe in Christ and to confess our faith in Him for his dear name's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—605, 202, 568.
+## Hymns from "Our Own Hymn Book"—605, 202, 568
 
-EXPOSITION BY C. H. SPURGEON: HOSEA11.
+## Exposition by C. H. Spurgeon: Hosea 11
 
 Verse 1. When Israel was a child. When the nation was yet young and had scarcely started on its march among the peoples of the earth—"When Israel was a child"—
 
@@ -176,7 +173,6 @@ Verse 1. When Israel was a child. When the nation was yet young and had scarcely
 10\. He shall roar like a lion: when He shall roar, then the children shall tremble from the west. God's terrible voice often makes men tremble and that is one proof of the working of His Grace in their hearts, for they tremble before Him and flee unto Him.
 
 11, 12. They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the LORD. Ephraim compasses me about with lies, and the house of Israel with deceit: but Judah yet rules with God and is faithful with the saints. There are still some left to serve Jehovah! There is a remnant according to the Election of Grace even in the very worst of times. "Judah yet rules with God and is faithful with the saints." May we be found among the faithful few! Amen.
-
 
 ---
 [[Sermon 2446 Carte Blanche|← #2446]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2448 Herein Is Love|#2448 →]]

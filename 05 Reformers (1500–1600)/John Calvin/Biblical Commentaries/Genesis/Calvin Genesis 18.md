@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 18
 
-**CHAPTER 18.**
+***Chapter 18.***
 
 ## Genesis 18:1-33
 

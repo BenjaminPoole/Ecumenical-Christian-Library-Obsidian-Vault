@@ -9,10 +9,9 @@ epub_file: "works1.i.ii.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER II.
 
-INTELLECTUAL PROGRESS—EARLIEST PRODUCTIONS—ENTRANCE AT COLLEGE—MENTAL HABITS.
+*Intellectual Progress—earliest Productions—entrance at College—mental Habits*
 
 A Statement has been given principally from the pen of Mr. Edwards himself of his religious views in youth, and it will be proper before that subject be resumed, to advert to his intellectual progress at the same period. It is delightful to contemplate the simultaneous advancement of knowledge in the mind and of piety in the heart None can reasonably imagine that there is an opposition between these things; and all whose minds are open to conviction will be persuaded, that the growth of piety is most conducive to the increase of the best treasures of earthly wisdom. Religion strengthens the powers of man; it never enfeebles them. It at once cuts off those guilty pleasures, and those unworthy pursuits, which not merely impede the progress of the understanding, but in many cases are absolutely fatal to its energies; and it forms those mental habits, as well as produces that outward propriety of conduct, which are most favourable to the cultivation of man’s noblest faculties. It would be easy to record a lengthened list of names enrolled with never-fading honour, both in the schools of science, and in the church of God. The gospel of Christ has uniformly been the friend of solid learning, nor are those persons the judicious friends of the gospel, who are disposed to disparage the exertions and acquirements of intellect. The christian church dreads the veil of darkness, but it rejoices in the light.
 

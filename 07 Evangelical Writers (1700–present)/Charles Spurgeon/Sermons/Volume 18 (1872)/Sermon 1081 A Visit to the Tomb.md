@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # A Visit to the Tomb
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1081
 
-DELIVERED.
+*Delivered*
 
 > "He is not here: for He is risen, as He said. Come, see the place where the Lord lay." Matthew 28:6.
 
@@ -160,7 +159,6 @@ I was thinking to say to you, Beloved, let us come and see the place where Jesus
 But I will forbear. I have done. I would to God that all here present had some share in this! You all have a share in dying. There is a tree growing out of which your coffin will be made, or perhaps it is already cut down and seasoning against the time when it shall make you a timber suit—the last suit that you shall ever need. There is a spot of earth that must be shoveled out for you to be laid into to fill up the vacuum. But your soul shall live—your soul shall never die! Let not those who tell you of annihilation be believed for a moment! It must exist. Put it to yourself whether it shall be with the worm that never dies and the fire that never shall be quenched or with Christ who lives in His Glory and who shall come a second time to give Glory to His people and raise their bodies like His own!
 
 Oh, it will all hinge on this—"Do you believe in Jesus?" If you do, you may welcome life and welcome death and welcome resurrection and welcome immortality! But if you believe not, then a blast has come upon you and to you it is terrible to die! It is terrible, even, to live—but more terrible to die! It will be terrible to rise again! It will be terrible to be damned and that forever! God save you from it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1080 Our Gifts and How To Use Them|← #1080]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1082 The Life, Walk and Triumph of Faith|#1082 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Three Crosses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1447
-
-DELIVERED BY.
 
 > "But God forbid that I should glory, save in the Cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world." Galatians 6:14.
 
@@ -124,7 +121,6 @@ Now, dear Christian Friends, if you keep to the Cross of Christ, you must expect
 The moral and the lesson of it all is this—whatever comes of it, still glory in Christ! Go in for this, dear Friends, that whether you are in honor or in dishonor, in good report or in evil report—whether God multiplies your substance and makes you rich, or diminishes it and makes you poor—you will still glory in the Cross of Christ! If you have health and strength and vigor to work for Him, or if you have to lie upon a bed of languishing and bear in patience all your heavenly Father's will, resolve that you will still glory in the Cross! Let this be the point of your glorying throughout your lives! Go down the steeps of Jordan and go through Jordan, itself, still glorying in the Cross, for in the Heaven of Glory you will find that the blood-bought hosts celebrate the Cross as the trophy of their redemption!
 
 Are you trusting in the Cross? Are you resting in Jesus? If not, may the Lord teach you this blessed privilege! There is no joy like it! There is no strength like it! There is no life like it! There is no peace like it! At the Cross we find our Heaven! While upon the Cross we gaze all heavenly and holy things abound within our hearts! If you have never been there, may the Lord lead you there at this very hour—and so shall you be pardoned, accepted and blest forever! The Lord grant that you all may be partakers of this Grace for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1446 The Best Beloved|← #1446]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1448 Forgiveness Made Easy|#1448 →]]

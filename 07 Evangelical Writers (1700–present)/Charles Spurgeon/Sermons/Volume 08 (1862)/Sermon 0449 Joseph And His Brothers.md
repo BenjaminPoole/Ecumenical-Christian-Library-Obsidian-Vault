@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # Joseph And His Brothers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 449
@@ -107,9 +106,9 @@ Let us remember, then, if we are today guilty and moaning our guiltiness—we ou
 
 III. I now come to the last point, and here may God be pleased to let light break in upon darkened souls. JOSEPH
 
-AFTERWARDS REVEALED HIMSELF TO HIS BROTHERS, AND SO THE LORD JESUS DOES IN DUE TIME
+## Afterwards Revealed Himself to His Brothers, and so the Lord Jesus Does in Due Time
 
-SWEETLY REVEAL HIMSELF TO POOR CONSCIENCE-STRICKEN PENITENT SINNERS.
+## Sweetly Reveal Himself to Poor Conscience-Stricken Penitent Sinners
 
 The reading of the chapter which we heard this morning is enough to bring tears to all eyes that are connected with tender hearts. I must acknowledge that when reading the chapter in my own study, I could not resist weeping copiously at the picture which the Holy Spirit has so admirably drawn. Those ten, poor trembling brothers. Judah's speech just finished and all of them on their knees supplicating the clearing of the court house and then Joseph, whose soul was swelling with such grief and love, bursting out with that, "I am Joseph."
 
@@ -148,7 +147,6 @@ It may be there is a heart here that has been in darkness, and though it is but 
 Lord revealed?" Surely, there is one. Perhaps it is a stranger here, of whom I shall never hear again in this world. Well, but the Lord shall hear of it, and He shall have the praise.
 
 Perhaps it is one that has long sat in this House of Prayer, invulnerable up till now. Perhaps the arrow has found a joint in the harness. O Soul! By Him that stretches out His arms of love to you and by the Divine Grace that moves you now to run into those arms, come to Him! "Be not grieved nor angry with yourselves." It was God that put Christ to death, that He might save you with a great deliverance. Trust Jesus and you are saved, and you shall give Him praise, world without end. Amen.
-
 
 ---
 [[Sermon 0448 Another And A Nobler Exhibition|← #448]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0450 An Exhortation By Rev. C.H. Spurgeon|#450 →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 62
 
-**CHAPTER 62.**
+***Chapter 62.***
 
 ## Isaiah 62:1-12
 

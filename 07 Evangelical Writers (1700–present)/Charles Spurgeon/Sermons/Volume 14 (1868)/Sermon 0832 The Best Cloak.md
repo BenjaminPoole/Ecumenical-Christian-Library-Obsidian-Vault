@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/14
 ---
-
 # The Best Cloak
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 832
@@ -147,8 +146,7 @@ Here is God's Word, "He that believes and is baptized shall be saved." To believ
 
 May the Spirit of God bury you with Christ! May the Spirit of God give you a familiar acquaintance with what it is to be dead, and for your life to be hid with Christ in God! But to trust is the first great thing. "He that believes on Him has everlasting life." Baptism follows as an act of obedience and you must not neglect it, but trust Christ and you are saved! God grant you Divine Grace to trust Him, for Jesus' sake.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON—ISAIAH 59.
-
+## Portion of Scripture Read Before Sermon—isaiah 59
 
 ---
 [[Sermon 0831 The Alter|← #831]] · [[Volume 14 (1868)|Volume 14 (1868) Contents]] · [[Sermon 0833 The Lord's Name and Memorial|#833 →]]

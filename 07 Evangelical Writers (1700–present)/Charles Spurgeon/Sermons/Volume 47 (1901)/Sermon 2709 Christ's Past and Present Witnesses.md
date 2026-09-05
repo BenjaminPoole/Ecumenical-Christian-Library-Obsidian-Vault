@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christ's Past and Present Witnesses
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2709
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you also shall bear witness, because you have been with Me from the beginning." John 15:27.
 
@@ -105,7 +102,7 @@ If you were to tell me, when I eat my dinner, that I am not nourished by it, and
 
 for I know that it is true! I have been with Jesus and, therefore, I bear witness to Him! Go and do likewise, only do it much better than I have done it, all you who have been with Him, and God bless you, for Christ's sake! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 15:12-27.
+## Exposition by C. H. Spurgeon: John 15:12-27
 
 Verse 12. This is My commandment, that you love one another, as I have loved you. O Beloved, do keep this commandment! Overlook each other's infirmities. Bear with each other's faults. Love one another as Christ has loved us!
 
@@ -122,7 +119,6 @@ things I command you, that you love one another. If the world hates you, you kno
 "You dear Redeemer, dying Lamb, We love to hear of Thee! No music's like Your charming name, Nor half so sweet can be."
 
 27\. And you also shall bear witness, because you have been with Me from the beginning.
-
 
 ---
 [[Sermon 2708 The Old Gospel for the New Century|← #2708]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2710 Christ the Cause of Division|#2710 →]]

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 210. Matthew 27:33-38; Mark 15:22-28; Luke 23:33-34, 38
-
-MATTHEW 27:33-38; MARK 15:22-28;  
-LUKE 23:33-34, 38
 
 **33.** And they came to a place which is called Golgotha, which is the place of Calvary. [^1] **34.** And they gave him to drink vinegar mingled with gall; and when he had tasted it, he would not drink. **35.** And after they had crucified him, they parted his garments by casting lots; that it might be fulfilled which was spoken by the prophet, They parted my garments, and cast lots on my raiment. **36.** And sitting down they watched him there. **37.** And they placed over his head his accusation written, this is jesus the king of the jews. **38.** Then were crucified with him two robbers, one at his right hand, and the other at his left.
 

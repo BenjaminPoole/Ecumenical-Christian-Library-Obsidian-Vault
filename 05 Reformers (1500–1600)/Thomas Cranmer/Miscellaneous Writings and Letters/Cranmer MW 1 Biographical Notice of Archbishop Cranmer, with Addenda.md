@@ -10,58 +10,53 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 1. Biographical Notice of Archbishop Cranmer, with Addenda et Corrigenda
 
-PLEASE DO NOT REMOVE CARDS OR SLIPS FROM THIS POCKET
+*Please Do Not Remove Cards or Slips from This Pocket*
 
-UNIVERSITY OF TORONTO LIBRARY
+## University of Toronto Library
 
-MISCELLANEOUS WRITINGS
+## Miscellaneous Writings
 
-ARCHBISHOP OF CANTERBURY, MARTYR, 1556.
-
-EDITED FOR
+## Edited For
 
 REV. JOHN EDMUND COX, M.A., F.S.A.,
 
-OF ALL SOULS' COLLEGE, OXFORD, CURATE AND LECTURER OF STEPNEY
+## Of All Souls' College, Oxford, Curate and Lecturer of Stepney
 
 Camftrftrge:
 
-PRINTED AT
+## Printed At
 
-THE UNIVERSITY PRESS.
+## The University Press
 
-M.DCCC.XLVI.
+## M.dccc.xlvi
 
-JAN 12 1966
+## Jan 12 1966
 
-ARCHBISHOP OF CANTERBURY, MARTYR, 1556.
-
-EDITED FOR
+## Edited For
 
 RKV. JOHN EDMUND COX, M.A., F.9.A.,
 
 ()!• ALL SOULS' COI.I.KOF,, OXKOUD, Cl'KATK AND LlCTl'RMl O) STKPNKY,
 
-VOLUME THE SECOND.
+## Volume the Second
 
 CambriUge:
 
-PRINTED AT
+## Printed At
 
-THE UNIVERSITY PEESS.
+## The University Peess
 
-M.DCCC.XLYI.
+## M.dccc.xlyi
 
-ARCHBISHOP OF CANTERBURY.
+## Archbishop of Canterbury
 
 jfor tbe f ublttation of tfte fflfflorfes; of tfte anft (Sarlj) JKBrtter* of tfte Btformrti
 
-MISCELLANEOUS WRITINGS
+## Miscellaneous Writings
 
-ARCHBISHOP OF CANTERBURY.
+## Archbishop of Canterbury
 
 Snstftutfli a, IB.
 
@@ -221,9 +216,9 @@ XLVI. All the Submissions and Recantations of Thomas Cranmer, &c.
 
 Anno MDLVI 563
 
-BIOGRAPHICAL NOTICE
+## Biographical Notice
 
-ARCHBISHOP CRANMER.
+## Archbishop Cranmer
 
 THE notice which the editor purposes to give of the Life of Archbishop Cranmer will necessarily, be very brief: a full exhibition of the character and conduct of such a man would require a careful and orderly investigation of documents connected with the three reigns of Henry, Edward, and Mary, and a close examination of the leading facts of ecclesiastical history, extending from the days of Wicliffe to his own ; while the plan pursued by the Parker Society is only to present a succinct view of such general and prominent features of individual biography as may contribute to the in telligent appreciation of the writings collected in its volumes.
 
@@ -269,7 +264,7 @@ Proceedings were also taken out against Gardiner, who was deprived of his bishop
 
 a In this year (1550) occurred the burning of Joan Bocher. In the biographical notice prefixed the Parker Society, there is a statement (pp. iv — v.) relieving the archbishop from the allegation respect ing her case so commonly reported to his prejudice.
 
-BIOGRAPHICAL NOTICE.
+## Biographical Notice
 
 short by his approaching martyrdom : but not a fragment of his labours is known now to be extant, though unceasing search has been made, if possible, to discover it ; and but little doubt now exists that it is irrecoverably lost.
 
@@ -439,7 +434,7 @@ The editor would be wanting in courtesy, were he not to acknowledge his obligati
 
 Dee. 10, 1846.
 
-ADDENDA ET CORRIGENDA.
+## Addenda Et Corrigenda
 
 Page 17. n. 6. for Gardner read Gardiner.
 

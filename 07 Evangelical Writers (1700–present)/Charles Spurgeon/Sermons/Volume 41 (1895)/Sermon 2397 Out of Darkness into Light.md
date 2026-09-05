@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "Out of Darkness into Light"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2397
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "That You may say to the prisoners, Go forth; to them that are in darkness, Show yourselves." Isaiah 49:9.
 
@@ -107,7 +104,7 @@ Lastly, these words also relate to dead ones called to resurrection. It may be t
 
 He who has prepared a crown of life for every faithful one, expects that you and I will be faithful even unto death, in the hope of obtaining that crown of life which fades not! Up, up, you who are hiding yourselves! Come out of the bushes in which you are skulking away! If Jehovah is God, serve Him! If Jesus of Nazareth is the Christ of God, acknowledge Him! If the Gospel is worth preaching, proclaim it with trumpet tongue! If the Church of God is for Him, be numbered with it and take your part in its service and in its suffering! God help you, and God bless you by this message which seems to me to come direct from Himself to you! You that are in sorrow, show yourselves! And all you that are cowardly, show yourselves! And God bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 49:1-17.
+## Exposition by C. H. Spurgeon: Isaiah 49:1-17
 
 In this chapter, we have not merely Isaiah speaking concerning the Christ of God, but it is the Lord Jesus Christ, the Messiah, who here speaks concerning Himself.
 
@@ -150,7 +147,6 @@ Verse 1. Listen, O isles, unto Me; and hearken, you people from far. It is very 
 16\. Behold, I have engraved you upon the palms of My hands. "I cannot work, I cannot even open the palm of My hands without seeing the names of my chosen people—'I have engraved you upon the palms of My hands.'"
 
 16, 17. Your walls are continually before Me. Your children shall make haste; your destroyers and they that made you waste shall go away from you. For God is full of kindness to His people, and cannot forget them. Oh, that they would never forget Him!
-
 
 ---
 [[Sermon 2396 Eternal Life!|← #2396]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2398 Mediation of Moses|#2398 →]]

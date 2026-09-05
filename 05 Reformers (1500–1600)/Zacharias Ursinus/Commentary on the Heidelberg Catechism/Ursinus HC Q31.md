@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 31. Why is he called Christ, that is, anointed?
-
-**Question 31. Why is he called Christ, that is, anointed?**
 
 Answer. Because he is ordained of God the Father, and anointed with the Holy Ghost, to be our chief Prophet and teacher; who has fully revealed to us the secret counsel and will of God concerning our redemption, and to be our only High Priest, who, by the one sacrifice of his body, has redeemed us, and makes continual intercession with the Father for us; and also to be our Eternal King, who governs us by his word and Spirit, and who defends and preserves us in the enjoyment of that salvation he has purchased for us.
 
-**EXPOSITION**
+## **Exposition**
 
 Jesus is the proper name of the mediator; Christ is, as it were, an additional appellation; for he is Jesus in such a manner that he is also the Christ, the promised Saviour and Messiah. Both titles designate his office, yet not with the same clearness; for whilst the name Jesus denotes the office of the mediator in a general way, that of Christ expresses it more fully and distinctly; for the name Christ expresses the three parts of his office, viz: prophetical, sacerdotal, and regal. The name Christ signifies the anointed. Therefore, he is Jesus the Saviour, in such a manner that he is Christ, or the anointed, having the office of one that is anointed, which consists of three parts, as has just been remarked. The reason why these three things are comprehended in the name of Christ, is, because prophets, priests and kings were anciently anointed, by which was signified both an ordination to the office, and also a conferring of those gifts which were necessary for the proper discharge of the duties thereby imposed. Therefore, we thus conclude: He who is to be a prophet, priest, and king, and is called the anointed, he is so called on account of these three offices. Christ was to be a prophet, priest and king, and is called the anointed. Therefore, he is called the anointed, or Christ, on account of these three, so that these parts of the office of the mediator are expressed in the one title of the Messiah, the Christ, the Anointed. In discussing this question of the Catechism, we must enquire:
 
@@ -30,7 +27,7 @@ III. What is the priestly office of Christ?
 
 IV. What is the regal office of Christ?
 
-**I. WHAT IS THE UNCTION, OR ANOINTING OF CHRIST?**
+## **I. What Is the Unction, or Anointing of Christ?**
 
 Anointing was a ceremony by which prophets, priests and kings were confirmed in their office by being anointed either with common, or with a particular kind of oil. This anointing signified, 1. An ordination, or calling to the office for which they were thus set apart. 2. It signified the promise and bestowment of the gifts necessary for the purpose of sustaining those upon whom the burden of either of these offices was imposed. There was also an analogy between the sign, or the external anointing, and the thing signified thereby: because as oil strengthens, invigorates, renovates, and makes firm the dry and feeble members of the body, and renders them active and fit for the discharge of their office; so the Holy Spirit enlivens and renews our nature, unfit of itself for the accomplishment of any thing that is good, and furnishes it with strength and power to do that which is agreeable to God, and to discharge properly the duties imposed upon us in the relations in which we are called to serve him.
 
@@ -50,7 +47,7 @@ Obj. But if Christ could not be anointed as to his Divinity, he is then prophet,
 
 Irenaeus says, in relation to this subject, that this anointing is to be understood as comprehending the three persons of the Godhead: the Father, as the anointer, the Son, as the anointed, and the Holy Spirit, as the unction, or the anointing.
 
-**II. WHAT IS THE PROPHETICAL OFFICE OF CHRIST?**
+## **II. What Is the Prophetical Office of Christ?**
 
 Having considered what we are to understand by the anointing of Christ, we must now speak briefly of the three-fold office, or of the three parts of the office of the mediator unto which Christ was anointed. And in order that we may have a proper understanding of this subject, we must define what the terms prophet, priest, and king signify, which may be gathered from the parts of the office which these persons severally discharged.
 
@@ -66,7 +63,7 @@ The prophetical office of Christ is, therefore, 1. To reveal God and his whole w
 
 Hence it is apparent from what has now been said, what is the difference between Christ and other prophets, and why he is called the greatest teacher, and prophet, and so the chief of all prophets. 1. Christ is the Son of God, and Lord of all; the other prophets were only men, and servants of Christ. 2. Christ brought forth and uttered the word immediately from the Father to men; other prophets and apostles are called and sent by Christ. 3. The prophetical wisdom of Christ is infinite; for even according to his humanity, he excelled all others in every gift. 4. Christ is the fountain of all truth, and the author of the ministry: other prophets merely proclaim and reveal what they receive from Christ. Hence Christ is said to have spoken through the prophets. Neither does he reveal his doctrine to the prophets alone, but to all the godly. Hence it is said, "of his fullness have we all received," &c. (John 1:16.) 5. Christ preaches effectually through his own external ministry, and that of those whom he calls into his service, by virtue of the Holy Spirit operating upon the hearts of men: other prophets are the instruments which Christ employs, and are co-workers together with him. 6. The doctrine of Christ is clearer and more complete than that of Moses and all the other prophets. 7. Christ had authority of himself; others have their authority from Christ. We believe Christ when he speaks on account of himself, but we believe others because Christ speaks in them.
 
-**III. WHAT IS THE PRIESTLY OR SACERDOTAL OFFICE OF CHRIST?**
+## **III. What Is the Priestly or Sacerdotal Office of Christ?**
 
 A priest in general is a person appointed of God, for the purpose of offering oblations and sacrifices, for interceding and teaching others. We may distinguish between those who serve in the capacity of priests, by speaking of them as typical and real. A typical priest is a person ordained of God to offer typical sacrifices, to make intercessions for himself and others, and to teach the people concerning the will of God, and the Messiah to come. Such were all the priests of the old Testament, among whom there was one that was the greatest, usually called the High Priest; the others were inferior. It was peculiar to the High Priest, 1. That he alone entered once every year into the sanctuary, or most holy place, and that with blood which he offered for himself, and the people, burning incense and making incercession. 2. He had a more splendid and gorgeous apparel than the others. 3. He was placed over the rest. 4. He offered sacrifice, and made intercession for himself and the people. 5. He was to be consulted in matters or questions that were doubtful, weighty and obscure, and returned to the people the answer which God directed him to give. All the rest were inferior, whose office it was to offer sacrifices, to teach the doctrine of the law, and the promises pertaining to the Messiah, and to intercede for themselves and others. Wherefore, although all the priests of the old Testament were types of Christ, yet the typical character of the High Priest was the most notable of them all, because in him there were many things that represented Christ, the true and great High Priest of the Church.
 
@@ -78,7 +75,7 @@ There are, therefore, four principal parts of the priestly office of Christ: 1. 
 
 From what has now been said we may easily perceive the difference between Christ and other priests. 1. The latter teach only with the external voice; Christ teaches also by the inward and efficacious working of the Holy Spirit. 2. Other priests do not make continual intercession, nor do they always obtain those things for which they pray. 3. They do not apply their own benefits to others. 4. They do not offer themselves a sacrifice for others; all of which things belong to Christ alone.
 
-**IV. WHAT IS THE KINGDOM OR REGAL OFFICE OF CHRIST?**
+## **IV. What Is the Kingdom or Regal Office of Christ?**
 
 A king is a person ordained of God, that he may rule over a certain people, according to just laws, that he may have power to reward the good and punish the evil, and that he may defend his subjects, not having any one superior or above him. The King of Kings is Christ, who was immediately ordained of God, that he might govern, by his word and Spirit, the church which he purchased with his own blood, and defend her against all her enemies, whom he will cast into everlasting punishment, whilst he will reward his people with eternal life.
 

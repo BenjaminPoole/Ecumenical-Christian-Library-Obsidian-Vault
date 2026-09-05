@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Concentration and Diffusion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3174
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped His feet with her hair: and the house was filled with the odor of the ointment." John 12:3.
 
@@ -71,7 +68,7 @@ I fear, however, that I may be addressing some whose lives are not a sweet perfu
 
 It will be so with you, Sirs! It must be so with many of you unless you lay hold, now, upon the great salvation! Jesus Christ can drive away those wolves, can stop the ill savor of your sins! If you will trust Him, if you will yield your hearts to Him, He will deliver you! But if you will not, on your own heads be your blood!
 
-EXPOSITION BY C. H. SPURGEON: JOHN12:1-43.
+## Exposition by C. H. Spurgeon: John 12:1-43
 
 Verse 1. Then Jesus, six days before the Passover, came to Bethany, where Lazarus was which had been dead, whom He raised from the dead. The days Christ was to spend upon the earth were getting to be very few so He paid another visit to that Bethany home where He was always so welcome—and more so than ever since He had raised Lazarus from the dead!
 
@@ -138,7 +135,6 @@ Jesus says, "No, not while I am riding in state through the streets of Jerusalem
 Sermons #2413, Volume 41—DESPISED LIGHT WITHDRAWN and #1844, Volume 31—ISRAEL AND BRITAIN—A NOTE OF WARNING.] You know that wonderful Sixth Chapter of Isaiah's prophecy, and you know how wonderfully he has spoken there of the Glory of Christ. But what a terrible thing it is that even Christ should be driven to blind men's eyes, to take the light away from them because they proved themselves unworthy of it! May that never be the case with any of us, but while we may see, let us see—and may God give us more light!
 
 42, 43. Nevertheless among the chief rulers also many believed on Him; but because ofthe Pharisees, they did not confess Him, lest they should be put out ofthe synagogue: for they loved the praise of men more than the praise of God. What a shameful thing that was! Yet you will still find that there are many persons who, even though they believe the Truth, dare not proclaim it, but must hide in obscurity until the times grow easier. However, Christ's death fetched out many who had been His disciples in secret. Joseph of Arimathaea and Nicodemus could not stay in the background any longer and, doubtless, the thoughts of many other hearts were then revealed.
-
 
 ---
 [[Sermon 3173 'As' and 'So'|← #3173]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3175 'Peace! Perfect Peace!'|#3175 →]]

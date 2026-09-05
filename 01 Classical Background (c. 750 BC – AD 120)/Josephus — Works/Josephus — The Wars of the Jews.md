@@ -11,274 +11,21 @@ tags:
   - classical
   - flavius-josephus
 ---
-
 # The Wars of the Jews
 
 [[Josephus — Antiquities of the Jews|← previous]] · [[Josephus — Works|Flavius Josephus]] · [[Josephus — Against Apion|next →]] · [[Historical Works index|Historical Works]]
 
 ---
 
-THE WARS OF THE JEWS
-
-OR HISTORY OF THE DESTRUCTION OF JERUSALEM
+## Or History of the Destruction of Jerusalem
 
 By Flavius Josephus
 
-
 Translated by William Whiston
 
+## Preface
 
-
-
-
-Contents
-
- PREFACE
-
-
-
- BOOK I.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER 5.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- CHAPTER 11.
-
- CHAPTER 12.
-
- CHAPTER 13.
-
- CHAPTER 14.
-
- CHAPTER 15.
-
- CHAPTER 16.
-
- CHAPTER 17.
-
- CHAPTER 18.
-
- CHAPTER 19.
-
- CHAPTER 20.
-
- CHAPTER 21.
-
- CHAPTER 22.
-
- CHAPTER 23.
-
- CHAPTER 24.
-
- CHAPTER 25.
-
- CHAPTER 26.
-
- CHAPTER 27.
-
- CHAPTER 28.
-
- CHAPTER 29.
-
- CHAPTER 30.
-
- CHAPTER 31.
-
- CHAPTER 32.
-
- CHAPTER 33.
-
- BOOK 2.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER 5.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- CHAPTER 11.
-
- CHAPTER 12.
-
- CHAPTER 13.
-
- CHAPTER 14.
-
- CHAPTER 15.
-
- CHAPTER 16.
-
- CHAPTER 17.
-
- CHAPTER 18.
-
- CHAPTER 19.
-
- CHAPTER 9.
-
- CHAPTER 21.
-
- CHAPTER 22.
-
- BOOK III.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER 5.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- BOOK IV.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER V.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- CHAPTER 11.
-
- BOOK V.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER 5.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- CHAPTER 11.
-
- CHAPTER 12.
-
- CHAPTER 13.
-
- BOOK VI.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER 5.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- BOOK VII.
-
- CHAPTER 1.
-
- CHAPTER 2.
-
- CHAPTER 3.
-
- CHAPTER 4.
-
- CHAPTER V.
-
- CHAPTER 6.
-
- CHAPTER 7.
-
- CHAPTER 8.
-
- CHAPTER 9.
-
- CHAPTER 10.
-
- CHAPTER 11.
-
-
-
-
-
-
-
-
-PREFACE
+## Preface
 
 1. 1 Whereas the war which the Jews made with the Romans hath been the
 greatest of all those, not only that have been in our times, but, in a
@@ -482,7 +229,7 @@ love truth, but not for those that please themselves [with fictitious
 relations]. And I will begin my account of these things with what I call
 my First Chapter.
 
-WAR PREFACE FOOTNOTES
+## War Preface Footnotes
 
 1 (return) [ I have already observed more than once, that this History
 of the Jewish War was Josephus's first work, and published about A.D.
@@ -500,7 +247,6 @@ those parts of this work, and gave the public a more faithful, complete,
 and accurate account of the facts therein related; and honestly
 corrected the errors he had before run into.]
 
-
 2 (return) [ Who these Upper Barbarians, remote from the sea, were,
 Josephus himself will inform us, sect. 2, viz. the Parthians and
 Babylonians, and remotest Arabians [of the Jews among them]; besides the
@@ -511,29 +257,19 @@ the Adiabeni, or Assyrians, understood Josephus's Hebrew, or rather
 Chaldaic, books of The Jewish War, before they were put into the Greek
 language.]
 
-
 3 (return) [ That these calamities of the Jews, who were our Savior's
 murderers, were to be the greatest that had ever been since the beginning
 of the world, our Savior had directly foretold, Matthew 24:21; Mark
 13:19; Luke 21:23, 24; and that they proved to be such accordingly,
 Josephus is here a most authentic witness.]
 
-
 4 (return) [ Titus.]
-
 
 5 (return) [ These seven, or rather five, degrees of purity, or
 purification, are enumerated hereafter, B. V. ch. 5. sect. 6. The
 Rabbins make ten degrees of them, as Reland there informs us.]
 
-
-
-
-
-
-
-BOOK I.
-
+## Book I
 
      Containing The Interval Of One Hundred And Sixty-Seven
      Years.
@@ -541,12 +277,7 @@ BOOK I.
      From The Taking Of Jerusalem By Antiochus Epiphanes,
      To The Death Of Herod The Great.
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      How The City Jerusalem Was Taken, And The Temple Pillaged
      [By Antiochus Epiphanes]. As Also Concerning The Actions Of
@@ -649,13 +380,7 @@ battle, and killing a great number of them, he was at last himself slain
 also. Nor was it many days afterward that his brother John had a plot
 laid against him by Antiochus's party, and was slain by them.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      Concerning The Successors Of Judas, Who Were Jonathan And
      Simon, And John Hyrcanus.
@@ -778,13 +503,7 @@ of the government; and it will highly deserve our narration to describe
 their catastrophe, and how far inferior these men were to their father
 in felicity.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      How Aristobulus Was The First That Put A Diadem About His
      Head; And After He Had Put His Mother And Brother To Death,
@@ -891,13 +610,7 @@ disappointed by a few parcels of my bowels offered to them." As soon
 as he had said these words, he presently died, when he had reigned no
 longer than a year.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      What Actions Were Done By Alexander Janneus, Who Reigned
      Twenty-Seven Years.
@@ -1039,13 +752,7 @@ than it was able to bear, he brought himself to his end. He died,
 therefore, in the midst of his troubles, after he had reigned seven and
 twenty years.
 
-
-
-
-
-
-CHAPTER 5.
-
+## Chapter 5
 
      Alexandra Reigns Nine Years, During Which Time The Pharisees
      Were The Real Rulers Of The Nation.
@@ -1116,13 +823,7 @@ from Sebastus and Agrippa. But Alexandra died before she could punish
 Aristobulus for his disinheriting his brother, after she had reigned
 nine years.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      When Hyrcanus Who Was Alexander's Heir, Receded From His
      Claim To The Crown Aristobulus Is Made King; And Afterward
@@ -1249,13 +950,7 @@ conditions he had agreed to; for Aristobulus's party would not so much
 as admit Gabinius into the city, who was sent to receive the money that
 he had promised.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      How Pompey Had The City Of Jerusalem Delivered Up To Him But
      Took The Temple By Force. How He Went Into The Holy Of
@@ -1384,13 +1079,7 @@ captives. They were two daughters and two sons; the one of which sons,
 Alexander, ran away as he was going; but the younger, Antigonus, with
 his sisters, were carried to Rome.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      Alexander, The Son Of Aristobulus, Who Ran Away From Pompey,
      Makes An Expedition Against Hyrcanus; But Being Overcome By
@@ -1545,13 +1234,7 @@ Alexander to come to terms and to be quiet, he returned to Euphrates,
 in order to prevent the Parthians from repassing it; concerning which
 matter we shall speak elsewhere. 11
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      Aristobulus Is Taken Off By Pompey's Friends, As Is His Son
      Alexander By Scipio. Antipater Cultivates A Friendship With
@@ -1626,13 +1309,7 @@ taxes, and rendered him an object of admiration by the honors and marks
 of friendship he bestowed upon him. On this account it was that he also
 confirmed Hyrcanus in the high priesthood.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      Caesar Makes Antipater Procurator Of Judea; As Does
      Antipater Appoint Phasaelus To Be Governor Of Jerusalem, And
@@ -1799,13 +1476,7 @@ and on account of that Caesar who was still alive, both of which were
 their friends; and as this war grew to be of a considerable length,
 Marcus came out of Italy as successor to Sextus.
 
-
-
-
-
-
-CHAPTER 11.
-
+## Chapter 11
 
      Herod Is Made Procurator Of All Syria; Malichus Is Afraid Of
      Him, And Takes Antipater Off By Poison; Whereupon The
@@ -1925,13 +1596,7 @@ fear was such that he was obliged to commend the action by saying so,
 is uncertain; however, by this method Herod inflicted punishment upon
 Malichus.
 
-
-
-
-
-
-CHAPTER 12.
-
+## Chapter 12
 
      Phasaelus Is Too Hard For Felix; Herod Also Overcomes
      Antigonus In Rattle; And The Jews Accuse Both Herod And
@@ -2019,13 +1684,7 @@ had escaped be quiet still, but put the affairs of the city into such
 disorder, and so provoked Antony, that he slew those whom he had in
 bonds also.
 
-
-
-
-
-
-CHAPTER 13.
-
+## Chapter 13
 
      The Parthians Bring Antigonus Back Into Judea, And Cast
      Hyrcanus And Phasaelus Into Prison. The Flight Of Herod, And
@@ -2200,13 +1859,7 @@ had failed of the women they chiefly desired, yet did they put the
 government of Jerusalem into the hands of Antigonus, and took away
 Hyrcanus, and bound him, and carried him to Parthia.
 
-
-
-
-
-
-CHAPTER 14.
-
+## Chapter 14
 
      When Herod Is Rejected In Arabia, He Makes Haste To Rome
      Where Antony And Caesar Join Their Interest To Make Him King
@@ -2297,13 +1950,7 @@ while the consul and the rest of the magistrates went before them, in
 order to offer sacrifices, and to lay the decree in the Capitol. Antony
 also made a feast for Herod on the first day of his reign.
 
-
-
-
-
-
-CHAPTER 15.
-
+## Chapter 15
 
      Antigonus Besieges Those That Were In Masada, Whom Herod
      Frees From Confinement When He Came Back From Rome, And
@@ -2419,13 +2066,7 @@ take their winter quarters there, viz. into Judea, [or Idumea,] and
 Galilee, and Samaria. Antigonus also by bribes obtained of Silo to let a
 part of his army be received at Lydda, as a compliment to Antonius.
 
-
-
-
-
-
-CHAPTER 16.
-
+## Chapter 16
 
      Herod Takes Sepphoris And Subdues The Robbers That Were In
      The Caves; He After That Avenges Himself Upon Machaerus, As
@@ -2556,13 +2197,7 @@ he heaped many more honors upon him, and gave him more assured hopes
 that he should gain his kingdom; and now king Antiochus was forced to
 deliver up Samosata.
 
-
-
-
-
-
-CHAPTER 17.
-
+## Chapter 17
 
      The Death Of Joseph [Herod's Brother] Which Had Been
      Signified To Herod In Dreams. How Herod Was Preserved Twice
@@ -2716,13 +2351,7 @@ dependence was upon the decree of the senate, by which he was made king;
 and Sosius relied upon Antony, who sent the army that was under him to
 Herod's assistance.
 
-
-
-
-
-
-CHAPTER 18.
-
+## Chapter 18
 
      How Herod And Sosius Took Jerusalem By Force; And What Death
      Antigonus Came To. Also Concerning Cleopatra's Avaricious
@@ -2832,13 +2461,7 @@ with him Artabazes, Tigranes's son, captive, as a present for Cleopatra;
 for this Parthian was presently given her, with his money, and all the
 prey that was taken with him.
 
-
-
-
-
-
-CHAPTER 19.
-
+## Chapter 19
 
      How Antony At The Persuasion Of Cleopatra Sent Herod To
      Fight Against The Arabians; And Now After Several Battles,
@@ -2992,13 +2615,7 @@ fought, and slew again about seven thousand, insomuch that he punished
 Arabia so severely, and so far extinguished the spirits of the men, that
 he was chosen by the nation for their ruler.
 
-
-
-
-
-
-CHAPTER 20.
-
+## Chapter 20
 
      Herod Is Confirmed In His Kingdom By Caesar, And Cultivates
      A Friendship With The Emperor By Magnificent Presents; While
@@ -3100,13 +2717,7 @@ arrived at a very great degree of felicity. Yet did the greatness of his
 soul exceed it, and the main part of his magnanimity was extended to the
 promotion of piety.
 
-
-
-
-
-
-CHAPTER 21.
-
+## Chapter 21
 
      Of The [Temple And] Cities That Were Built By Herod And
      Erected From The Very Foundations; As Also Of Those Other
@@ -3317,13 +2928,7 @@ of success in his wars; and when he failed, he was not himself the
 occasion of such failings, but he either was betrayed by some, or the
 rashness of his own soldiers procured his defeat.
 
-
-
-
-
-
-CHAPTER 22.
-
+## Chapter 22
 
      The Murder Of Aristobulus And Hyrcanus, The High Priests, As
      Also Of Mariamne The Queen.
@@ -3420,13 +3025,7 @@ still alive, till he were better instructed by time, when his grief and
 trouble, now she was dead, appeared as great as his affection had been
 for her while she was living.
 
-
-
-
-
-
-CHAPTER 23.
-
+## Chapter 23
 
      Calumnies Against The Sons Of Mariamne. Antipateris
      Preferred Before Them. They Are Accused Before Caesar, And
@@ -3560,13 +3159,7 @@ wished it might take effect accordingly; but for those who wished for a
 change of affairs, they pretended they did not so much as hear what he
 said.
 
-
-
-
-
-
-CHAPTER 24.
-
+## Chapter 24
 
      The Malice Of Antipater And Doris. Alexander Is Very Uneasy
      On Glaphyras Account. Herod Pardons Pheroras, Whom He
@@ -3777,13 +3370,7 @@ distress they were in, were readily believed by the king, who thought it
 some comfort to him, after he had bound his son, that it might appear he
 had not done it unjustly.
 
-
-
-
-
-
-CHAPTER 25.
-
+## Chapter 25
 
      Archelaus Procures A Reconciliation Between Alexander
      Pheroras, And Herod.
@@ -3902,13 +3489,7 @@ dignity. In like manner did all the king's kindred, by his command, make
 glorious presents to Archelaus; and so he was conducted on his way by
 Herod and his nobility as far as Antioch.
 
-
-
-
-
-
-CHAPTER 26.
-
+## Chapter 26
 
      How Eurycles <a href="#linknote-40" name="linknoteref-40"
       id="linknoteref-40">40</a> Calumniated The Sons Of Mariamne; And How
@@ -4049,13 +3630,7 @@ only disposed and most ready to hearken to what made against them, and
 every one was most agreeable to him that would believe they were guilty,
 and showed their indignation at them.
 
-
-
-
-
-
-CHAPTER 27.
-
+## Chapter 27
 
      Herod By Caesars Direction Accuses His Sons At Eurytus. They
      Are Not Produced Before The Courts But Yet Are Condemned;
@@ -4171,13 +3746,7 @@ bodies should be brought to the fortress Alexandrium, to be buried with
 Alexander, their grandfather by the mother's side. And this was the end
 of Alexander and Aristobulus.
 
-
-
-
-
-
-CHAPTER 28.
-
+## Chapter 28
 
      How Antipater Is Hated Of All Men; And How The King Espouses
      The Sons Of Those That Had Been Slain To His Kindred; But
@@ -4286,13 +3855,7 @@ Antipater's uncle by the mother's side. And for the daughters the king
 had by Mariamne, the one was married to Antipater, his sister's son, and
 the other to his brother's son, Phasaelus.
 
-
-
-
-
-
-CHAPTER 29.
-
+## Chapter 29
 
      Antipater Becomes Intolerable. He Is Sent To Rome, And
      Carries Herod's Testament With Him; Pheroras Leaves His
@@ -4395,13 +3958,7 @@ Jerusalem, and appointed a very great mourning to the whole nation for
 him, and bestowed a most pompous funeral upon him. And this was the end
 that one of Alexander's and Aristobulus's murderers came to.
 
-
-
-
-
-
-CHAPTER 30.
-
+## Chapter 30
 
      When Herod Made Inquiry About Pheroras's Death A Discovery
      Was Made That Antipater Had Prepared A Poisonous Draught For
@@ -4529,13 +4086,7 @@ the king avenged this insolent attempt of the mother upon her son, and
 blotted Herod, whom he had by her, out of his tretament, who had been
 before named therein as successor to Antipater.
 
-
-
-
-
-
-CHAPTER 31.
-
+## Chapter 31
 
      Antipater Is Convicted By Bathyllus; But He Still Returns
      From Rome Without Knowing It. Herod Brings Him To His Trial.
@@ -4659,13 +4210,7 @@ to him, and told him of all the evidence they had gotten against him.
 Hereupon he recollected himself, and considered what defense he should
 make against the accusations.
 
-
-
-
-
-
-CHAPTER 32.
-
+## Chapter 32
 
      Antipater Is Accused Before Varus, And Is Convicted Of
      Laying A Plot [Against His Father] By The Strongest
@@ -4851,13 +4396,7 @@ quantity of land, and of money, and showed his respects to Salome
 his sister, by giving her most splendid gifts. And this was what was
 contained in his testament, as it was now altered.
 
-
-
-
-
-
-CHAPTER 33.
-
+## Chapter 33
 
      The Golden Eagle Is Cut To Pieces. Herod's Barbarity When He
      Was Ready To Die. He Attempts To Kill Himself. He Commands
@@ -5032,7 +4571,7 @@ was carried two hundred furlongs, to Herodium, where he had given order
 to be buried. And this shall suffice for the conclusion of the life of
 Herod.
 
-WAR BOOK 1 FOOTNOTES
+## War Book 1 Footnotes
 
 1 (return) [ I see little difference in the several accounts in Josephus
 about the Egyptian temple Onion, of which large complaints are made by
@@ -5041,7 +4580,6 @@ at Jerusalem, and of the same dimensions; and so he appears to have
 really done, as far as he was able and thought proper. Of this temple,
 see Antiq. B. XIII. ch. 3. sect. 1--3, and Of the War, B. VII. ch. 10.
 sect. 8.]
-
 
 2 (return) [ Why this John, the son of Simon, the high priest and
 governor of the Jews, was called Hyrcanus, Josephus no where informs
@@ -5053,19 +4591,16 @@ called Hyrcanus from his conquest of one of that name. See Authent. Rec.
 Part I. p. 207. But of this younger Antiochus, see Dean Aldrich's note
 here.]
 
-
 3 (return) [ Josephus here calls this Antiochus the last of the
 Seleucidae, although there remained still a shadow of another king of
 that family, Antiochus Asiaticus, or Commagenus, who reigned, or rather
 lay hid, till Pompey quite turned him out, as Dean Aldrich here notes
 from Appian and Justin.]
 
-
 4 (return) [ Matthew 16:19; 18:18. Here we have the oldest and most
 authentic Jewish exposition of binding and loosing, for punishing or
 absolving men, not for declaring actions lawful or unlawful, as some
 more modern Jews and Christians vainly pretend.]
-
 
 5 (return) [ Strabo, B. XVI. p. 740, relates, that this Selene Cleopatra
 was besieged by Tigranes, not in Ptolemais, as here, but after she had
@@ -5078,7 +4613,6 @@ and that he took the city, as the Antiquities inform us, yet does he
 no where intimate that he now took the queen herself; so that both the
 narrations of Strabo and Josephus may still be true notwithstanding.]
 
-
 6 (return) [ That this Antipater, the father of Herod the Great was an
 Idumean, as Josephus affirms here, see the note on Antiq. B. XIV. ch.
 15. sect. 2. It is somewhat probable, as Hapercamp supposes, and partly
@@ -5089,11 +4623,9 @@ the Jewish temple, when he took it a little afterward, ch. 7. sect. 6,
 and Antiq. B. XIV. ch. 4. sect. 4, will to Greek all which agree he did
 not take them.]
 
-
 7 (return) [ Of the famous palm trees and balsam about Jericho and
 Engaddl, see the notes in Havercamp's edition, both here and B. II. ch.
 9. sect. 1. They are somewhat too long to be transcribed in this place.]
-
 
 8 (return) [ Thus says Tacitus: Cn. Pompelna first of all subdued the
 Jews, and went into their temple, by right of conquest, Hist. B. V.
@@ -5101,11 +4633,9 @@ ch. 9. Nor did he touch any of its riches, as has been observed on the
 parallel place of the Antiquities, B. XIV. ch. 4. sect. 4, out of Cicero
 himself.]
 
-
 9 (return) [ The coin of this Gadara, still extant, with its date from
 this era, is a certain evidence of this its rebuilding by Pompey, as
 Spanheim here assures us.]
-
 
 10 (return) [ Take the like attestation to the truth of this submission
 of Aretas, king of Arabia, to Scaurus the Roman general, in the words of
@@ -5116,9 +4646,7 @@ a camel's bridle with his left hand, and with his right hand presenting
 a branch of the frankincense tree, with this inscription, M. SCAURUS EX
 S.C.; and beneath, REX ARETAS."]
 
-
 11 (return) [ This citation is now wanting.]
-
 
 12 (return) [ What is here noted by Hudson and Spanheim, that this grant
 of leave to rebuild the walls of the cities of Judea was made by Julius
@@ -5128,20 +4656,17 @@ now perhaps considered only as Hyrcanus's deputy and minister; although
 he afterwards made a cipher of Hyrcanus, and, under great decency of
 behavior to him, took the real authority to himself.]
 
-
 13 (return) [ Or twenty-five years of age. See note on Antiq. B. I. ch.
 12. sect. 3; and on B. XIV. ch. 9. sect. 2; and Of the War, B. II.
 ch. 11. sect. 6; and Polyb. B. XVII. p. 725. Many writers of the Roman
 history give an account of this murder of Sextus Caesar, and of the war
 of Apamia upon that occasion. They are cited in Dean Aldrich's note.]
 
-
 14 (return) [ In the Antiquities, B. XIV. ch. 11. sect. 1, the duration
 of the reign of Julius Caesar is three years six months; but here three
 years seven months, beginning nightly, says Dean Aldrich, from his
 second dictatorship. It is probable the real duration might be three
 years and between six and seven months.]
-
 
 15 (return) [ It appears evidently by Josephus's accounts, both here and
 in his Antiquities, B. XIV. ch. 11. sect. 2, that this Cassius, one of
@@ -5152,21 +4677,17 @@ Herod afterwards. See the note on Antiq. B. XVII. ch. 11. sect. 4. It
 also appears that Galilee then paid no more than one hundred talents, or
 the seventh part of the entire sum to be levied in all the country.]
 
-
 16 (return) [ Here we see that Cassius set tyrants over all Syria; so
 that his assisting to destroy Caesar does not seem to have proceeded
 from his true zeal for public liberty, but from a desire to be a tyrant
 himself.]
 
-
 17 (return) [ Phasaelus and Herod.]
-
 
 18 (return) [ This large and noted wood, or woodland, belonging
 to Carmel, called Apago by the Septuagint, is mentioned in the Old
 Testament, 2 Kings 19:23; Isaiah 37:24, and by I Strabo, B. XVI. p. 758,
 as both Aldrich and Spanheim here remark very pertinently.]
-
 
 19 (return) [ These accounts, both here and Antiq. B. XIV. ch. 13. sect.
 5, that the Parthians fought chiefly on horseback, and that only
@@ -5174,23 +4695,18 @@ some few of their soldiers were free-men, perfectly agree with Trogus
 Pompeius, in Justin, B. XLI. 2, 3, as Dean Aldrich well observes on this
 place.]
 
-
 20 (return) [ Mariamac here, in the copies.]
-
 
 21 (return) [ This Brentesium or Brundusium has coin still preserved, on
 which is written, as Spanheim informs us.]
-
 
 22 (return) [ This Dellius is famous, or rather infamous, in the history
 of Mark Antony, as Spanheim and Aldrich here note, from the coins, from
 Plutarch and Dio.]
 
-
 23 (return) [ This Sepphoris, the metropolis of Galilee, so often
 mentioned by Josephus, has coins still remaining, as Spanheim here
 informs us.]
-
 
 24 (return) [ This way of speaking, "after forty days," is interpreted
 by Josephus himself, "on the fortieth day," Antiq. B. XIV. ch. 15. sect.
@@ -5202,27 +4718,22 @@ the fifth day afterward." So also what is in this book, ch. 13. sect.
 year." And Dean Aldrich here notes that this way of speaking is familiar
 to Josephus.]
 
-
 25 (return) [ This Samosata, the metropolis of Commagena, is well known
 from its coins, as Spanheim here assures us. Dean Aldrich also confirms
 what Josephus here notes, that Herod was a great means of taking the
 city by Antony, and that from Plutarch and Dio.]
 
-
 26 (return) [ That is, a woman, not, a man.]
-
 
 27 (return) [ This death of Antigonus is confirmed by Plutarch and.
 Straho; the latter of whom is cited for it by Josephus himself, Antiq.
 B. XV. ch. 1. sect. 2, as Dean Aldrich here observes.]
-
 
 28 (return) [ This ancient liberty of Tyre and Sidon under the Romans,
 taken notice of by Josephus, both here and Antiq. B. XV. ch. 4. sect. 1,
 is confirmed by the testimony of Sirabe, B. XVI. p. 757, as Dean Aldrich
 remarks; although, as he justly adds, this liberty lasted but a little
 while longer, when Augtus took it away from them.]
-
 
 29 (return) [ This seventh year of the reign of Herod [from the conquest
 or death of Antigonus], with the great earthquake in the beginning of
@@ -5237,12 +4748,10 @@ the Christian era, contained the latter part of a Sabbatic year, on
 which Sabbatic year, therefore, it is plain this great earthquake
 happened in Judea.]
 
-
 30 (return) [ This speech of Herod is set down twice by Josephus, here
 and Antiq. B. XV. ch. 5. sect. 3, to the very same purpose, but by no
 means in the same words; whence it appears that the sense was Herod's,
 but the composition Josephus's.]
-
 
 31 (return) [ Since Josephus, both here and in his Antiq. B. XV. ch.
 7. sect. 3, reckons Gaza, which had been a free city, among the cities
@@ -5253,7 +4762,6 @@ Herod thought he had sufficient authority to put a governor into Gaza,
 after he was made tetrarch or king, in times of war, before the city was
 entirely delivered into his hands by Augustus.]
 
-
 32 (return) [ This fort was first built, as it is supposed, by John
 Hyrcanus; see Prid. at the year 107; and called "Baris," the Tower or
 Citadel. It was afterwards rebuilt, with great improvements, by Herod,
@@ -5263,7 +4771,6 @@ have put his last hand to it. See Antiq. B. XVIII. ch. 5. sect. 4; Of
 the War, B. I. ch. 3. sect. 3; ch. 5. sect. 4. It lay on the northwest
 side of the temple, and was a quarter as large.]
 
-
 33 (return) [ That Josephus speaks truth, when he assures us that the
 haven of this Cesarea was made by Herod not less, nay rather larger,
 than that famous haven at Athens, called the Pyrecum, will appear, says
@@ -5271,13 +4778,11 @@ Dean Aldrich, to him who compares the descriptions of that at Athens in
 Thucydides and Pausanias, with this of Cesarea in Josephus here, and in
 the Antiq. B. XV. ch. 9. sect. 6, and B. XVII. ch. 9. sect. 1.]
 
-
 34 (return) [ These buildings of cities by the name of Caesar, and
 institution of solemn games in honor of Augustus Caesar, as here, and
 in the Antiquities, related of Herod by Josephus, the Roman historians
 attest to, as things then frequent in the provinces of that empire, as
 Dean Aldrich observes on this chapter.]
-
 
 35 (return) [ There were two cities, or citadels, called Herodium, in
 Judea, and both mentioned by Josephus, not only here, but Antiq. B. XIV.
@@ -5286,11 +4791,9 @@ ch. 13. sect. 9; B. XV. ch. 9. sect. 6; Of the War, B. I. ch. 13. sect.
 sixty furlongs distant from Jerusalem. One of them is mentioned by
 Pliny, Hist. Nat. B. V. ch. 14., as Dean Aldrich observes here.]
 
-
 36 (return) [ Here seems to be a small defect in the copies, which
 describe the wild beasts which were hunted in a certain country by
 Herod, without naming any such country at all.]
-
 
 37 (return) [ Here is either a defect or a great mistake in Josephus's
 present copies or memory; for Mariamne did not now reproach Herod with
@@ -5299,14 +4802,12 @@ slain by Antony, but that he had given the like command a second time
 to Soemus also, when he was afraid of being slain by Augustus. Antiq. B.
 XV. ch. 3. sect. 5, etc.]
 
-
 38 (return) [ That this island Eleusa, afterward called Sebaste,
 near Cilicia, had in it the royal palace of this Archelaus, king of
 Cappadocia, Strabo testifies, B. XV. p. 671. Stephanus of Byzantiam
 also calls it "an island of Cilicia, which is now Sebaste;" both whose
 testimonies are pertinently cited here by Dr. Hudson. See the same
 history, Antiq. B. XVI. ch. 10. sect. 7.]
-
 
 39 (return) [ That it was an immemorial custom among the Jews, and their
 forefathers, the patriarchs, to have sometimes more wives or wives and
@@ -5321,7 +4822,6 @@ that Moses, "for the hardness of their hearts," suffered them to have
 several wives at the same time, but that "from the beginning it was not
 so," Matthew 19:8; Mark 10:5.]
 
-
 40 (return) [ This vile fellow, Eurycles the Lacedemonian, seems to
 have been the same who is mentioned by Plutarch, as [twenty-live years
 before] a companion to Mark Antony, and as living with Herod; whence he
@@ -5334,15 +4834,12 @@ derived from their common ancestor Abraham, the first patriarch of the
 Jewish nation, Antiq. B. XII. ch. 4. sect. 10; B. XIII. ch. 5. sect. 8;
 and 1 Macc. 12:7.]
 
-
 41 (return) [ See the preceding note.]
-
 
 42 (return) [ Dean Aldrich takes notice here, that these nine wives of
 Herod were alive at the same time; and that if the celebrated Mariamne,
 who was now dead, be reckoned, those wives were in all ten. Yet it is
 remarkable that he had no more than fifteen children by them all.]
-
 
 43 (return) [ To prevent confusion, it may not be amiss, with Dean
 Aldrich, to distinguish between four Josephs in the history of Herod.
@@ -5352,12 +4849,10 @@ treasurer, slain on the same account. 3. Joseph, Herod's brother, slain
 in battle against Antigonus. 4. Joseph, Herod's nephew, the husband of
 Olympias, mentioned in this place.]
 
-
 44 (return) [ These daughters of Herod, whom Pheroras's wife affronted,
 were Salome and Roxana, two virgins, who were born to him of his two
 wives, Elpide and Phedra. See Herod's genealogy, Antiq. B. XVII. ch. 1.
 sect. 3.]
-
 
 45 (return) [ This strange obstinacy of Pheroras in retaining his wife,
 who was one of a low family, and refusing to marry one nearly related to
@@ -5371,13 +4866,10 @@ Judea should be translated from Herod to Pheroras's posterity and that
 most probably to Pheroras's posterity by this his wife, also would prove
 true. See Antiq. B. XVII. ch. 2. sect. 4; and ch. 3. sect. 1.]
 
-
 46 (return) [ This Tarentum has coins still extant, as Reland informs us
 here in his note.]
 
-
 47 (return) [ A lover of his father.]
-
 
 48 (return) [ Since in these two sections we have an evident account of
 the Jewish opinions in the days of Josephus, about a future happy state,
@@ -5404,25 +4896,14 @@ B. XIII. ch. 5. sect. 9, and ch. 10. sect. 4, 5; B. XVIII. ch. 1. sect.
 2-14. Nor does St. Paul himself reason to Gentiles at Athens, Acts
 17:16-34, as he does to Jews in his Epistles.]
 
-
-
-
-
-
-
-BOOK II.
-
+## Book II
 
      Containing The Interval Of Sixty-Nine Years.
 
      From The Death Of Herod Till Vespasian Was Sent To Subdue
      The Jews By Nero.
 
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      Archelaus Makes A Funeral Feast For The People, On The
      Account Of Herod. After Which A Great Tumult Is Raised By
@@ -5506,13 +4987,7 @@ were dispersed upon the adjoining mountains: these were followed by
 Archelaus's heralds, who commanded every one to retire to their own
 homes, whither they all went, and left the festival.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      Archelaus Goes To Rome With A Great Number Of His Kindred.
      He Is There Accused Before Caesar By Antipater; But Is
@@ -5647,13 +5122,7 @@ of those named in the testaments for Herod's successor, or whether the
 government should be parted among all his posterity, and this because of
 the number of those that seemed to stand in need of support therefrom.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      The Jews Fight A Great Battle With Sabinus's Soldiers, And A
      Great Destruction Is Made At Jerusalem.
@@ -5741,13 +5210,7 @@ Jews gave him, and suspected such gentle treatment was but a bait laid
 as a snare for them: this consideration, together with the hopes he had
 of succor from Varus, made him bear the siege still longer.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      Herod's Veteran Soldiers Become Tumultuous. The Robberies Of
      Judas. Simon And Athronoeus Take The Name Of King Upon Them.
@@ -5806,13 +5269,7 @@ upon his giving him his right hand for his security. However, this their
 end was not till afterward, while at present they filled all Judea with
 a piratic war.
 
-
-
-
-
-
-CHAPTER 5.
-
+## Chapter 5
 
      Varus Composes The Tumults In Judea And Crucifies About Two
      Thousand Of The Seditious.
@@ -5878,13 +5335,7 @@ When therefore Varus had settled matters at Jerusalem after this manner,
 and had left the former legion there as a garrison, he returned to
 Antioch.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      The Jews Greatly Complain Of Archelaus And Desire That They
      May Be Made Subject To Roman Governors. But When Caesar Had
@@ -5983,13 +5434,7 @@ distribution, he gave between them what had been bequeathed to him by
 Herod, which was a thousand talents, reserving to himself only some
 inconsiderable presents, in honor of the deceased.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      The History Of The Spurious Alexander. Archelaus Is Banished
      And Glaphyra Dies, After What Was To Happen To Both Of Them
@@ -6081,13 +5526,7 @@ shall not overlook the injury thou hast offered me; I shall [soon] have
 thee again, whether thou wilt or no." Now Glaphyra hardly survived the
 narration of this dream of hers two days.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      Archelaus's Ethnarchy Is Reduced Into A [Roman] Province.
      The Sedition Of Judas Of Galilee. The Three Sects.
@@ -6347,13 +5786,7 @@ degree wild, and their conversation with those that are of their own
 party is as barbarous as if they were strangers to them. And this is
 what I had to say concerning the philosophic sects among the Jews.
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      The Death Of Salome. The Cities Which Herod And Philip
      Built. Pilate Occasions Disturbances. Tiberius Puts Agrippa
@@ -6446,13 +5879,7 @@ being banished into Spain; for Agrippa followed him, in order to accuse
 him; to whom also Caius gave his tetrarchy, by way of addition. So Herod
 died in Spain, whither his wife had followed him.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      Caius Commands That His Statue Should Be Set Up In The
      Temple Itself; And What Petronius Did Thereupon.
@@ -6550,13 +5977,7 @@ while others that brought the news of Caius's death had a good voyage.
 Accordingly, Petronins received the epistle concerning Caius seven and
 twenty days before he received that which was against himself.
 
-
-
-
-
-
-CHAPTER 11.
-
+## Chapter 11
 
      Concerning The Government Of Claudius, And The Reign Of
      Agrippa. Concerning The Deaths Of Agrippa And Of Herod And
@@ -6662,13 +6083,7 @@ the children of Aristobulus the son of Herod, which Aristobulus and
 Alexander were born to Herod by Mariamne, and were slain by him. But as
 for Alexander's posterity, they reigned in Armenia.
 
-
-
-
-
-
-CHAPTER 12.
-
+## Chapter 12
 
      Many Tumults Under Cumanus, Which Were Composed By
      Quadratus. Felix Is Procurator Of Judea. Agrippa Is Advanced
@@ -6804,13 +6219,7 @@ Messalina his former wife, and a daughter whose name was Octavia, whom
 he had married to Nero; he had also another daughter by Petina, whose
 name was Antonia.
 
-
-
-
-
-
-CHAPTER 13.
-
+## Chapter 13
 
      Nero Adds Four Cities To Agrippas Kingdom; But The Other
      Parts Of Judea Were Under Felix. The Disturbances Which Were
@@ -6925,13 +6334,7 @@ plundered. And as the sedition still continued, he chose out the most
 eminent men on both sides as ambassadors to Nero, to argue about their
 several privileges.
 
-
-
-
-
-
-CHAPTER 14.
-
+## Chapter 14
 
      Festus Succeeds Felix Who Is Succeeded By Albinus As He Is
      By Florus; Who By The Barbarity Of His Government Forces The
@@ -7122,13 +6525,7 @@ before, that is, to have men of the equestrian order whipped 21 and
 nailed to the cross before his tribunal; who, although they were by
 birth Jews, yet were they of Roman dignity notwithstanding.
 
-
-
-
-
-
-CHAPTER 15.
-
+## Chapter 15
 
      Concerning Bernice's Petition To Florus, To Spare The Jews,
      But In Vain; As Also How, After The Seditious Flame Was
@@ -7253,13 +6650,7 @@ that band on account of what they had suffered from it; so he changed
 the band as they desired, and, with the rest of his forces, returned to
 Cesarea.
 
-
-
-
-
-
-CHAPTER 16.
-
+## Chapter 16
 
      Cestius Sends Neopolitanus The Tribune To See In What
      Condition The Affairs Of The Jews Were. Agrippa Makes A
@@ -7620,13 +7011,7 @@ of revolt if you will but join these together again, and if you will but
 pay your tribute; for the citadel does not now belong to Florus, nor are
 you to pay the tribute money to Florus."
 
-
-
-
-
-
-CHAPTER 17.
-
+## Chapter 17
 
      How The War Of The Jews With The Romans Began, And
      Concerning Manahem.
@@ -7878,13 +7263,7 @@ seditious; for indeed it so happened that this murder was perpetrated on
 the sabbath day, on which day the Jews have a respite from their works
 on account of Divine worship.
 
-
-
-
-
-
-CHAPTER 18.
-
+## Chapter 18
 
      The Calamities And Slaughters That Came Upon The Jews.
 
@@ -8159,13 +7538,7 @@ that only some few concealed themselves in certain places hard to be
 come at, among the mountains, while the rest, above two thousand in
 number, were slain.
 
-
-
-
-
-
-CHAPTER 19.
-
+## Chapter 19
 
      What Cestius Did Against The Jews; And How, Upon His
      Besieging Jerusalem, He Retreated From The City Without Any
@@ -8379,13 +7752,7 @@ slain of the Romans five thousand and three hundred footmen, and three
 hundred and eighty horsemen. This defeat happened on the eighth day of
 the month Dius, [Marchesvan,] in the twelfth year of the reign of Nero.
 
-
-
-
-
-
-CHAPTER 20.
-
+## Chapter 20
 
      Cestius Sends Ambassadors To Nero. The People Of Damascus
      Slay Those Jews That Lived With Them. The People Of
@@ -8531,13 +7898,7 @@ them; insomuch that the one part went to the war, and the other part to
 their work, and so those that sent out their corn were paid for it by
 those that were in arms, by that security which they enjoyed from them.
 
-
-
-
-
-
-CHAPTER 21.
-
+## Chapter 21
 
      Concerning John Of Gichala. Josephus Uses Stratagems Against
      The Plots John Laid Against Him And Recovers Certain Cities
@@ -8839,13 +8200,7 @@ letting them be plundered, to give them some good instruction, while at
 the same time he regained their good-will by restoring them their money
 again.
 
-
-
-
-
-
-CHAPTER 22.
-
+## Chapter 22
 
      The Jews Make All Ready For The War; And Simon, The Son Of
      Gioras, Falls To Plundering.
@@ -8885,7 +8240,7 @@ what they had, that they raised an army, and put garrisons into the
 villages, to secure them from those insults. And in this state were the
 affairs of Judea at that time.
 
-WAR BOOK 2 FOOTNOTES
+## War Book 2 Footnotes
 
 1 (return) [ Hear Dean Aldrich's note on this place: "The law or Custom
 of the Jews [says he] requires seven days' mourning for the dead,"
@@ -8900,19 +8255,16 @@ Genesis 1:10. Funeral feasts are also mentioned as of considerable
 antiquity, Ezekiel 24:17; Jeremiah 16:7; Prey. 31:6; Deuteronomy 26:14;
 Josephus, Of the War B. III. ch. 9. sect. 5.]
 
-
 2 (return) [ This holding a council in the temple of Apollo, in the
 emperor's palace at Rome, by Augustus, and even the building of this
 temple magnificently by himself in that palace, are exactly agreeable
 to Augustus, in his elder years, as Aldrich and from Suttonius and
 Propertius.]
 
-
 3 (return) [ Here we have a strong confirmation that it was Xerxes, and
 not Artaxerxes, under whom the main part of the Jews returned out of the
 Babylonian captivity, i.e. in the days of Ezra and Nehemiah. The same
 thing is in the Antiquities, B. XI. ch.6]
-
 
 4 (return) [ This practice of the Essens, in refusing to swear,
 and esteeming swearing in ordinary occasions worse than perjury, is
@@ -8932,7 +8284,6 @@ adding, that "if that cannot be avoided, to swear truly," ch. 7:3; which
 abundantly explain to us the nature of the measures of this general
 injunction.]
 
-
 5 (return) [ This mention of the "names of angels," so particularly
 preserved by the Essens, [if it means more than those "messengers" which
 were employed to bring, them the peculiar books of their Sect,] looks
@@ -8948,12 +8299,10 @@ seems to me the earliest mention of any regard to the phases in fixing
 the Jewish calendar, of which the Talmud and later Rabbins talk so much,
 and upon so very little ancient foundation.]
 
-
 6 (return) [ Of these Jewish or Essene [and indeed Christian] doctrines
 concerning souls, both good and bad, in Hades, see that excellent
 discourse, or homily, of our Josephus concerning Hades, at the end of
 the volume.]
-
 
 7 (return) [ Dean Aldrich reckons up three examples of this gift of
 prophecy in several of these Essens out of Josephus himself, viz. in the
@@ -8963,7 +8312,6 @@ Archelaus should reign but nine or ten years; and Antiq. B. XV. ch. 10.
 sect. 4, 5, Menuhem foretold that Herod should be king, and should reign
 tyrannically, and that for more than twenty or even thirty years. All
 which came to pass accordingly.]
-
 
 8 (return) [ There is so much more here about the Essens than is cited
 from Josephus in Porphyry and Eusebius, and yet so much less about
@@ -8992,7 +8340,6 @@ because Josephus's account is that of the Pharisees, and St. Patti's
 that of the Jews in general, and of himself the contradiction is not
 very certain.]
 
-
 9 (return) [ We have here, in that Greek MS. which was once Alexander
 Petavius's, but is now in the library at Leyden, two most remarkable
 additions to the common copies, though declared worth little remark by
@@ -9006,38 +8353,31 @@ as "God the Word, and the Judge of the world, appointed by the Father,"
 etc., adds, that "he had himself elsewhere spoken about him more nicely
 or particularly."]
 
-
 10 (return) [ This use of corban, or oblation, as here applied to the
 sacred money dedicated to God in the treasury of the temple, illustrates
 our Savior's words, Mark 7:11, 12.]
 
-
 11 (return) [ Tacitus owns that Caius commanded the Jews to place his
 effigies in their temple, though he be mistaken when he adds that the
 Jews thereupon took arms.]
-
 
 12 (return) [ This account of a place near the mouth of the river Belus
 in Phoenicia, whence came that sand out of which the ancients made their
 glass, is a known thing in history, particularly in Tacitus and Strabo,
 and more largely in Pliny.]
 
-
 13 (return) [ This Memnon had several monuments, and one of them
 appears, both by Strabo and Diodorus, to have been in Syria, and not
 improbably in this very place.]
-
 
 14 (return) [ Reland notes here, that the Talmud in recounting ten sad
 accidents for which the Jews ought to rend their garments, reckons this
 for one, "When they hear that the law of God is burnt."]
 
-
 15 (return) [ This Ummidius, or Numidius, or, as Tacitus calls him,
 Vinidius Quadratus, is mentioned in an ancient inscription, still
 preserved, as Spanhelm here informs us, which calls him Urnmidius
 Quadratus.]
-
 
 16 (return) [ Take the character of this Felix [who is well known from
 the Acts of the Apostles, particularly from his trembling when St. Paul
@@ -9069,9 +8409,7 @@ do not believe. Bishop Pearson, as well as Bishop Lloyd, quote this
 account, but with a doubtful clause: confides Tacito, "If we may believe
 Tacitus." Pears. Anhal. Paulin. p. 8; Marshall's Tables, at A.D. 49.]
 
-
 17 (return) [ i.e. Herod king of Chalcis.]
-
 
 18 (return) [ Not long after this beginning of Florus, the wickedest of
 all the Roman procurators of Judea, and the immediate occasion of the
@@ -9083,14 +8421,12 @@ finish their Appendix, containing an account of his own life, till
 Agrippa was dead, which happened in the third year of Trajan, or A. D.
 100, as I have several times observed before.]
 
-
 19 (return) [ Here we may note, that three millions of the Jews were
 present at the passover, A.D. 65; which confirms what Josephus elsewhere
 informs us of, that at a passover a little later they counted two
 hundred and fifty-six thousand five hundred paschal lambs, which, at
 twelve to each lamb, which is no immoderate calculation, come to three
 millions and seventy-eight thousand. See B. VI. ch. 9. sect. 3.]
-
 
 20 (return) [ Take here Dr. Hudson's very pertinent note. "By this
 action," says he, "the killing of a bird over an earthen vessel, the
@@ -9100,12 +8436,10 @@ the Gentiles reproached the Jews as subject to the leprosy, and believed
 that they were driven out of Egypt on that account. This that eminent
 person Mr. Reland suggested to me."]
 
-
 21 (return) [ Here we have examples of native Jews who were of the
 equestrian order among the Romans, and so ought never to have been
 whipped or crucified, according to the Roman laws. See almost the like
 case in St. Paul himself, Acts 22:25-29.]
-
 
 22 (return) [ This vow which Bernice [here and elsewhere called queen,
 not only as daughter and sister to two kings, Agrippa the Great, and
@@ -9134,7 +8468,6 @@ Bernice to Jewish discipline, and jests upon her for it; as do Tacitus,
 Dio, Suetonius, and Sextus Aurelius mention her as one well known at
 Rome.--Ibid.]
 
-
 23 (return) [ I take this Bezetha to be that small hill adjoining to the
 north side of the temple, whereon was the hospital with five porticoes
 or cloisters, and beneath which was the sheep pool of Bethesda; into
@@ -9146,7 +8479,6 @@ of the same pool at this day; only the remaining cloisters are but
 three. See Maundrel, p. 106. The entire buildings seem to have been
 called the New City, and this part, where was the hospital, peculiarly
 Bezetha or Bethesda. See ch. 19. sect. 4.]
-
 
 24 (return) [ In this speech of king Agrippa we have an authentic
 account of the extent and strength of the Roman empire when the Jewish
@@ -9175,24 +8507,20 @@ used; the like appeals to which we have in St. Paul, 1 Timothy 5:22, and
 by the apostles in general, in the form of the ordination of bishops,
 Constitut. Apost. VIII. 4.]
 
-
 25 (return) [ Julius Caesar had decreed that the Jews of Jerusalem
 should pay an annual tribute to the Romans, excepting the city Joppa,
 and for the sabbatical year; as Spanheim observes from the Antiq. B.
 XIV. ch. 10. sect. 6.]
-
 
 26 (return) [ Of this Sohemus we have mention made by Tacitus. We also
 learn from Dio that his father was king of the Arabians of Iturea,
 [which Iturea is mentioned by St. Luke, ch. 3:1.] both whose testimonies
 are quoted here by Dr. Hudson. See Noldius, No. 371.]
 
-
 27 (return) [ Spanheim notes on the place, that this later Antiochus,
 who was called Epiphaues, is mentioned by Dio, LIX. p. 645, and that he
 is mentioned by Josephus elsewhere twice also, B.V. ch. 11. sect. 3; and
 Antiq. B. XIX. ch. 8. sect. I.]
-
 
 28 (return) [ Here we have an eminent example of that Jewish language,
 which Dr. Wail truly observes, we several times find used in the sacred
@@ -9206,7 +8534,6 @@ like this I have observed elsewhere in Josephus, but, as I think, none
 so remarkable as this. See Wall's Critical Observations on the Old
 Testament, p. 49, 50.]
 
-
 29 (return) [ We have also, in this and the next section, two eminent
 facts to be observed, viz. the first example, that I remember, in
 Josephus, of the onset of the Jews' enemies upon their country when
@@ -9217,7 +8544,6 @@ sabbath by the seditions Jews in an offensive fight, contrary to the
 universal doctrine and practice of their nation in these ages, and even
 contrary to what they themselves afterward practiced in the rest of this
 war. See the note on Antiq. B. XVI. ch. 2. sect. 4.]
-
 
 30 (return) [ There may another very important, and very providential,
 reason be here assigned for this strange and foolish retreat of Cestius;
@@ -9238,7 +8564,6 @@ tribulation, as had not been from the beginning of the world to that
 time; no, Lit. Accompl. of Proph. p. 69, 70. Nor was there, perhaps, nor
 ever should be."--Ibid. p. 70, 71.]
 
-
 31 (return) [ From this name of Joseph the son of Gorion, or Gorion
 the son of Joseph, as B. IV. ch. 3. sect. 9, one of the governors of
 Jerusalem, who was slain at the beginning of the tumults by the zealots,
@@ -9246,13 +8571,11 @@ B. IV. ch. 6. sect. 1, the much later Jewish author of a history of that
 nation takes his title, and yet personates our true Josephus, the son of
 Matthias; but the cheat is too gross to be put upon the learned world.]
 
-
 32 (return) [ We may observe here, that the Idumeans, as having been
 proselytes of justice since the days of John Hyrcanus, during about one
 hundred and ninety-five years, were now esteemed as part of the Jewish
 nation, and these provided of a Jewish commander accordingly. See the
 note upon Antiq. B. XIII.. ch. 9. sect. 1.]
-
 
 33 (return) [ We see here, and in Josephus's account of his own life,
 sect. 14, how exactly he imitated his legislator Moses, or perhaps only
@@ -9280,38 +8603,24 @@ of Jerusalem, without one word of either the condemnation of James,
 or crucifixion of Christ, as he did when he was become a Christian
 afterward.]
 
-
 34 (return) [ I should think that an army of sixty thousand footmen
 should require many more than two hundred and fifty horsemen; and we
 find Josephus had more horsemen under his command than two hundred and
 fifty in his future history. I suppose the number of the thousands is
 dropped in our present copies.]
 
-
 35 (return) [ I cannot but think this stratagem of Josephus, which is
 related both here and in his Life, sect. 32, 33, to be one of the finest
 that ever was invented and executed by any warrior whatsoever.]
 
-
-
-
-
-
-
-BOOK III.
-
+## Book III
 
      Containing The Interval Of About One Year.
 
      From Vespasian's Coming To Subdue The Jews To The Taking Of
      Gamala.
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      Vespasian Is Sent Into Syria By Nero In Order To Make War
      With The Jews.
@@ -9356,13 +8665,7 @@ himself, when he had passed over the Hellespont, came by land into
 Syria, where he gathered together the Roman forces, with a considerable
 number of auxiliaries from the kings in that neighborhood.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      A Great Slaughter About Ascalon. Vespasian Comes To
      Ptolemais.
@@ -9471,13 +8774,7 @@ small one, in this war that was now beginning, seeing it was the largest
 city of Galilee, and built in a place by nature very strong, and might
 be a security of the whole nation's [fidelity to the Romans].
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      A Description Of Galilee, Samaria, And Judea.
 
@@ -9569,13 +8866,7 @@ inhabitants are a mixture of Jews and Syrians. And thus have I, with
 all possible brevity, described the country of Judea, and those that lie
 round about it.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      Josephus Makes An Attempt Upon Sepphoris But Is Repelled.
      Titus Comes With A Great Army To Ptolemais.
@@ -9630,13 +8921,7 @@ masters' service in times of peace, so did they undergo the like dangers
 with them in times of war, insomuch that they were inferior to none,
 either in skill or in strength, only they were subject to their masters.
 
-
-
-
-
-
-CHAPTER 5.
-
+## Chapter 5
 
      A Description Of The Roman Armies And Roman Camps And Of
      Other Particulars For Which The Romans Are Commended.
@@ -9796,13 +9081,7 @@ conduct may also perhaps be of use to such of the curious as are
 ignorant of it, and yet have a mind to know it. I return now from this
 digression.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      Placidus Attempts To Take Jotapata And Is Beaten Off.
      Vespasian Marches Into Galilee.
@@ -9890,13 +9169,7 @@ the whole war, and determined to get as far as he possibly could out
 of danger; so he took those that staid along with him, and fled to
 Tiberias.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      Vespasian, When He Had Taken The City Gadaea Marches To
      Jotapata. After A Long Siege The City Is Betrayed By A
@@ -10670,13 +9943,7 @@ all the fortifications burnt down. And thus was Jotapata taken, in the
 thirteenth year of the reign of Nero, on the first day of the month
 Panemus [Tamuz].
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      How Josephus Was Discovered By A Woman, And Was Willing To
      Deliver Himself Up To The Romans; And What Discourse He Had
@@ -10944,13 +10211,7 @@ gifts; he treated him also in a very obliging manner, and continued so
 to do, Titus still joining his interest in the honors that were done
 him.
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      How Joppa Was Taken, And Tiberias Delivered Up.
 
@@ -11136,13 +10397,7 @@ them that they should continue [faithful to the Romans] for the time to
 come. And thus did he restore this city to a quiet state, after it had
 been grievously afflicted by the sedition.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      How Taricheae Was Taken. A Description Of The River Jordan,
      And Of The Country Of Gennesareth.
@@ -11455,7 +10710,7 @@ greatest part of them were seditious persons and fugitives, who were of
 such shameful characters, that they preferred war before peace. These
 prisoners were taken on the eighth day of the month Gorpieus [Elul].
 
-WAR BOOK 3 FOOTNOTES
+## War Book 3 Footnotes
 
 1 (return) [ Take the confirmation of this in the words of Suetonius,
 here produced by Dr. Hudson: "In the reign of Claudius," says he,
@@ -11466,11 +10721,9 @@ Claudius the emperor, who triumphed for the conquest of Britain, was
 enabled so to do by Vespasian's conduct and bravery, and that he is here
 styled "the father of Vespasian."]
 
-
 2 (return) [ Spanheim and Reland both agree, that the two cities here
 esteemed greater than Antioch, the metropolis of Syria, were Rome and
 Alexandria; nor is there any occasion for doubt in so plain a case.]
-
 
 3 (return) [ This description of the exact symmetry and regularity of
 the Roman army, and of the Roman encampments, with the sounding their
@@ -11484,7 +10737,6 @@ these matters, that these accounts of Josephus, as to the Roman camp and
 armor, and conduct in war, are preferable to those in the Roman authors
 themselves.]
 
-
 4 (return) [ I cannot but here observe an Eastern way of speaking,
 frequent among them, but not usual among us, where the word "only"
 or "alone" is not set down, but perhaps some way supplied in the
@@ -11497,17 +10749,14 @@ with many the like examples in the Scriptures, in Josephus, etc.; but
 did not note down the particular places. This observation ought to be
 borne in mind upon many occasions.]
 
-
 5 (return) [ These public mourners, hired upon the supposed death of
 Josephus, and the real death of many more, illustrate some passages in
 the Bible, which suppose the same custom, as Matthew 11:17, where the
 reader may consult the notes of Grotius.]
 
-
 6 (return) [ Of this Cesarea Philippi [twice mentioned in our New
 Testament, Matthew 16:13; Mark 8;27: there are coins still extant,
 Spanheim here informs us.]
-
 
 7 (return) [ I do not know where to find the law of Moses here mentioned
 by Josephus, and afterwards by Eleazar, 13. VII. ch. 8. sect. 7, and
@@ -11531,7 +10780,6 @@ very true; nor were they therefore other than old leaves which our
 Savior saw, and old figs which he expected, and which even with us
 commonly hang on the trees all winter long.)]
 
-
 8 (return) [ This is the most cruel and barbarous action that Vespasian
 ever did in this whole war, as he did it with great reluctance also.
 It was done both after public assurance given of sparing the prisoners'
@@ -11547,27 +10795,14 @@ nothing could be unjust that was done against Jews; and that when both
 cannot be consistent, advantage must prevail over justice. Admirable
 court doctrines these!]
 
-
-
-
-
-
-
-BOOK IV.
-
+## Book IV
 
      Containing The Interval Of About One Year.
-
 
      From The Siege Of Gamala To The Coming Of Titus To Besiege
      Jerusalem.
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      The Siege And Taking Of Gamala.
 
@@ -11878,13 +11113,7 @@ three and twentieth day of the month Hyperbereteus, [Tisri,] whereas
 the city had first revolted on the four and twentieth day of the month
 Gorpieus [Elul].
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      The Surrender Of Gischala; While John Flies Away From It To
      Jerusalem.
@@ -12038,13 +11267,7 @@ in greater security. And thus was all Galilee taken, but this not till
 after it had cost the Romans much pains before it could be taken by
 them.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      Concerning John Of Gischala. Concerning The Zealots And The
      High Priest Ananus; As Also How The Jews Raise Seditions One
@@ -12463,13 +11686,7 @@ on account of their gross breaches of their laws, and [illegal]
 judicatures, insomuch that although some part might commiserate them,
 those would be quite overborne by the majority.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      The Idumeans Being Sent For By The Zealots, Came Immediately
      To Jerusalem; And When They Were Excluded Out Of The City,
@@ -12795,13 +12012,7 @@ as soon as they should perceive they were there, they would put
 themselves in order to fight them, and would hinder their coming into
 the temple.
 
-
-
-
-
-
-CHAPTER V.
-
+## Chapter V
 
      The Cruelty Of The Idumeans When They Were Gotten Into The
      Temple During The Storm; And Of The Zealots. Concerning The
@@ -12998,13 +12209,7 @@ cannot easily be thrown down; and, by avoiding any further fellowship
 with these bad men, to make some excuse for themselves, as to what they
 had been so far deluded, as to have been partners with them hitherto.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      How The Zealots When They Were Freed From The Idumeans, Slew
      A Great Many More Of The Citizens; And How Vespasian
@@ -13148,13 +12353,7 @@ Jews, and their own hand should pollute the temple of God. Now while
 these zealots did not [quite] disbelieve these predictions, they made
 themselves the instruments of their accomplishment.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      How John Tyrannized Over The Rest; And What Mischiefs The
      Zealots Did At Masada. How Also Vespasian Took Gadara; And
@@ -13353,13 +12552,7 @@ slew such as had fled to the lake, insomuch that all Perea had
 either surrendered themselves, or were taken by the Romans, as far as
 Machaerus.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      How Vespasian Upon Hearing Of Some Commotions In Gall, <a
       href="#link4note-12" name="link4noteref-12" id="link4noteref-12">12</a>
@@ -13526,13 +12719,7 @@ if you pluck them with your hands, they dissolve into smoke and ashes.
 And thus what is related of this land of Sodom hath these marks of
 credibility which our very sight affords us.
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      That Vespasian, After He Had Taken Gadara Made Preparation
      For The Siege Of Jerusalem; But That, Upon His Hearing Of
@@ -13870,13 +13057,7 @@ was superior to the others, although the darts which were thrown by the
 engines were carried a great way, and slew many of those that fought for
 him.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      How The Soldiers, Both In Judea And Egypt, Proclaimed
      Vespasian Emperor; And How Vespasian Released Josephus From
@@ -14064,13 +13245,7 @@ to pieces; while Josephus received this testimony of his integrity for
 a reward, and was moreover esteemed a person of credit as to futurities
 also.
 
-
-
-
-
-
-CHAPTER 11.
-
+## Chapter 11
 
      That Upon The Conquest And Slaughter Of Vitellius Vespasian
      Hastened His Journey To Rome; But Titus His Son Returned To
@@ -14196,14 +13371,13 @@ thence to Jamnia, and after that to Joppa, and from Joppa to Cesarea,
 having taken a resolution to gather all his other forces together at
 that place.
 
-WAR BOOK 4 FOOTNOTES
+## War Book 4 Footnotes
 
 1 (return) [ Here we have the exact situation of Jeroboam's "at the exit
 of Little Jordan into Great Jordan, near the place called Daphne," but
 of old Dan. See the note in Antiq. B. VIII. ch. 8. sect. 4. But Reland
 suspects flint here we should read Dan instead of there being no where
 else mention of a place called Daphne.]
-
 
 2 (return) [ These numbers in Josephus of thirty furlongs' ascent to the
 top of Mount Tabor, whether we estimate it by winding and gradual, or
@@ -14225,13 +13399,11 @@ wall, including a trench and other fortifications, [perhaps those still
 remaining, ibid.] in the small interval of forty days, as Josephus here
 says they were by himself.]
 
-
 3 (return) [ This name Dorcas in Greek, was Tabitha in Hebrew or Syriac,
 as Acts 9:36. Accordingly, some of the manuscripts set it down here
 Tabetha or Tabeta. Nor can the context in Josephus be made out by
 supposing the reading to have been this: "The son of Tabitha; which, in
 the language of our country, denotes Dorcas" [or a doe].]
-
 
 4 (return) [ Here we may discover the utter disgrace and ruin of the
 high priesthood among the Jews, when undeserving, ignoble, and vile
@@ -14246,13 +13418,11 @@ future history of this war; nor do we meet with any other so much as
 pretended high priest after Phannias, till Jerusalem was taken and
 destroyed.]
 
-
 5 (return) [ This tribe or course of the high priests, or priests, here
 called Eniachim, seems to the learned Mr. Lowth, one well versed in
 Josephus, to be that 1 Chronicles 24:12, "the course of Jakim," where
 some copies have "the course of Eliakim;" and I think this to be by no
 means an improbable conjecture.]
-
 
 6 (return) [ This Symeon, the son of Gamaliel, is mentioned as the
 president of the Jewish sanhedrim, and one that perished in the
@@ -14262,7 +13432,6 @@ the son of Gamala, as once a high priest, but this long before the
 destruction of Jerusalem; so that if he were the same person with this
 Jesus the son of Gamala, Josephus, he must have lived to be very old, or
 they have been very bad chronologers.]
-
 
 7 (return) [ It is worth noting here, that this Ananus, the best of the
 Jews at this time, and the high priest, who was so very uneasy at the
@@ -14275,7 +13444,6 @@ two inner courts, calls them both hagia or holy places; but, so far as
 I remember, never gives that character of the court of the Gentiles. See
 B. V. ch. 9. sect. 2.]
 
-
 8 (return) [ This appellation of Jerusalem given it here by Simon, the
 general of the Idumeans, "the common city" of the Idumeans, who were
 proselytes of justice, as well as of the original native Jews, greatly
@@ -14285,7 +13453,6 @@ or Judah, but every tribe had equal right to it [at their coming to
 worship there at the several festivals]." See a little before, ch. 3.
 sect. 3, or "worldly worship," as the author to the Hebrews calls the
 sanctuary, "a worldly sanctuary."]
-
 
 9 (return) [ Some commentators are ready to suppose that this
 "Zacharias, the son of Baruch," here most unjustly slain by the Jews
@@ -14311,7 +13478,6 @@ as perpetrated in. a place so very holy, had that been the true place of
 it. See Antiq. B. XI. ch. 7. sect. 1, and the note here on B. V. ch. 1.
 sect. 2.]
 
-
 10 (return) [ This prediction, that the city [Jerusalem] should then "be
 taken, and the sanctuary burnt, by right of war, when a sedition should
 invade Jews, and their own hands should pollute that temple;" or, as
@@ -14327,7 +13493,6 @@ many predictions of the Jewish prophets were preserved, not in writing,
 but by memory." Whereas, it seems to me so far from certain, that I
 think it has no evidence nor probability at all.]
 
-
 11 (return) [ By these hiera, or "holy places," as distinct from cities,
 must be meant "proseuchae," or "houses of prayer," out of cities; of
 which we find mention made in the New Testament and other authors. See
@@ -14338,9 +13503,7 @@ the sea-side, Antiq. B. XIV. ch. 10. sect. 23. So did the seventy-two
 interpreters go to pray every morning by the sea-side before they went
 to their work, B. XII. ch. 2. sect. 12.]
 
-
 12 (return) [ Gr. Galatia, and so everywhere.]
-
 
 13 (return) [ Whether this Somorrhon, or Somorrha, ought not to be here
 written Gomorrha, as some MSS. in a manner have it, [for the place meant
@@ -14348,12 +13511,10 @@ by Josephus seems to be near Segor, or Zoar, at the very south of
 the Dead Sea, hard by which stood Sodom and Gomorrha,] cannot now be
 certainly determined, but seems by no means improbable.]
 
-
 14 (return) [ This excellent prayer of Elisha is wanting in our copies,
 2 Kings 2:21, 22, though it be referred to also in the Apostolical
 Constitutions, B. VII. ch. 37., and the success of it is mentioned in
 them all.]
-
 
 16 (return) [ Of these Roman affairs and tumults under Galba, Otho, and
 Vitellius, here only touched upon by Josephus, see Tacitus, Suelonius,
@@ -14361,18 +13522,15 @@ and Dio, more largely. However, we may observe with Ottius, that
 Josephus writes the name of the second of them not Otto, with many
 others, but Otho, with the coins. See also the note on ch. 11. sect. 4.]
 
-
 17 (return) [ Some of the ancients call this famous tree, or grove, an
 oak others, a turpentine tree, or grove. It has been very famous in all
 the past ages, and is so, I suppose, at this day; and that particularly
 for an eminent mart or meeting of merchants there every year, as the
 travelers inform us.]
 
-
 18 (return) [ Puetonius differs hardly three days from Josephus, and
 says Otho perished on the ninety-fifth day of his reign. In Anthon. See
 the note on ch. 11. sect. 4.]
-
 
 19 (return) [ This beginning and ending the observation of the Jewish
 seventh day, or sabbath, with a priest's blowing of a trumpet, is
@@ -14383,7 +13541,6 @@ of the Sabbath," if that be the true reading, 2 Kings 16:18, because
 here the proper priest stood dry, under a "covering," to proclaim the
 beginning and ending of every Jewish sabbath.]
 
-
 20 (return) [ The Roman authors that now remain say Vitellius had
 children, whereas Josephus introduces here the Roman soldiers in Judea
 saying he had none. Which of these assertions was the truth I know not.
@@ -14391,11 +13548,9 @@ Spanheim thinks he hath given a peculiar reason for calling Vitellius
 "childless," though he really had children, Diss. de Num. p. 649, 650;
 to which it appears very difficult to give our assent.]
 
-
 21 (return) [ This brother of Vespasian was Flavius Sabinus, as
 Suetonius informs us, in Vitell. sect. 15, and in Vespas. sect. 2. He is
 also named by Josephus presently ch. 11. sect; 4.]
-
 
 22 (return) [ It is plain by the nature of the thing, as well as by
 Josephus and Eutropius, that Vespasian was first of all saluted emperor
@@ -14407,10 +13562,8 @@ July before he was proclaimed in Judea. I suppose the month they there
 intended was June, and not July, as the copies now have it; nor does
 Tacitus's coherence imply less. See Essay on the Revelation, p. 136.]
 
-
 23 (return) [ Here we have an authentic description of the bounds and
 circumstances of Egypt, in the days of Vespasian and Titus.]
-
 
 24 (return) [ As Daniel was preferred by Darius and Cyrus, on account of
 his having foretold the destruction of the Babylonian monarchy by their
@@ -14427,7 +13580,6 @@ monarchies. Several such-like examples there are, both in the sacred and
 other histories, as in the case of Joseph in Egypt. and of Jaddua the
 high priest, in the days of Alexander the Great, etc.]
 
-
 25 (return) [ This is well observed by Josephus, that Vespasian, in
 order to secure his success, and establish his government at first,
 distributed his offices and places upon the foot of justice, and
@@ -14436,7 +13588,6 @@ them. Which wise conduct in a mere heathen ought to put those rulers
 and ministers of state to shame, who, professing Christianity, act
 otherwise, and thereby expose themselves and their kingdoms to vice and
 destruction.]
-
 
 26 (return) [ The numbers in Josephus, ch. 9. sect. 2, 9, for Galba
 seven months seven days, for Otho three months two days, and here
@@ -14452,30 +13603,16 @@ reigns. Dio also, who says that Vitellius reigned a year within ten
 days, does yet estimate all their reigns together at no more than one
 year, one month, and two days.]
 
-
 27 (return) [ There are coins of this Casian Jupiter still extant.]
 
-
-
-
-
-
-
-BOOK V.
-
+## Book V
 
      Containing The Interval Of Near Six Months.
-
 
      From The Coming Of Titus To Besiege Jerusalem, To The Great
      Extremity To Which The Jews Were Reduced.
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      Concerning The Seditions At Jerusalem And What Terrible
      Miseries Afflicted The City By Their Means.
@@ -14674,13 +13811,7 @@ things were uncertain, and fortune had not yet declared for him. He also
 followed Titus as a counselor, very useful to him in this war, both by
 his age and skill in such affairs.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      How Titus Marched To Jerusalem, And How He Was In Danger As
      He Was Taking A View Of The City Of The Place Also Where He
@@ -14887,13 +14018,7 @@ speak the plain truth, Caesar did twice deliver that entire legion when
 it was in jeopardy, and gave them a quiet opportunity of fortifying
 their camp.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      How The Sedition Was Again Revived Within Jerusalem And Yet
      The Jews Contrived Snares For The Romans. How Titus Also
@@ -15042,13 +14167,7 @@ the army fortified itself at the tower called Hippicus, and was distant,
 in like manner, by two furlongs from the city. However, the tenth legion
 continued in its own place, upon the Mount of Olives.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      The Description Of Jerusalem.
 
@@ -15227,13 +14346,7 @@ plotters, as we have already related, in the beginning of their
 rebellion. That fire began at the tower of Antonia, and went on to the
 palaces, and consumed the upper parts of the three towers themselves.
 
-
-
-
-
-
-CHAPTER 5.
-
+## Chapter 5
 
      A Description Of The Temple.
 
@@ -15497,13 +14610,7 @@ the sight of the temple on the north. And this shall suffice at present
 to have spoken about the city and the walls about it, because I have
 proposed to myself to make a more accurate description of it elsewhere.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      Concerning The Tyrants Simon And John. How Also As Titus Was
      Going Round The Wall Of This City Nicanor Was Wounded By A
@@ -15701,13 +14808,7 @@ Arabian, and died immediately, leaving the greatest lamentation to the
 Jews, and sorrow to the seditious. For he was a man of great eminence,
 both for his actions and his conduct also.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      How One Of The Towers Erected By The Romans Fell Down Of Its
      Own Accord; And How The Romans After Great Slaughter Had
@@ -15878,13 +14979,7 @@ leaped through the flame into a hidden vault that was under it, which
 made the Romans further suppose that they were men of great courage, as
 having cast themselves into the fire.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      How The Romans Took The Second Wall Twice, And Got All Ready
      For Taking The Third Wall.
@@ -15968,13 +15063,7 @@ entirely. And when he had put a garrison into the towers that were on
 the south parts of the city, he contrived how he might assault the third
 wall.
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      Titus When The Jews Were Not At All Mollified By His Leaving
      Off The Siege For A While, Set Himself Again To Prosecute
@@ -16287,13 +15376,7 @@ them; nay, take my own blood as a reward, if it may but procure your
 preservation; for I am ready to die, in case you will but return to a
 sound mind after my death."
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      How A Great Many Of The People Earnestly Endeavored To
      Desert To The Romans; As Also What Intolerable Things Those
@@ -16425,13 +15508,7 @@ that account, while yet these passions were discovered among the Romans
 themselves; which circumstances we shall speak of hereafter in their
 proper place, when we come to treat of such matters.
 
-
-
-
-
-
-CHAPTER 11.
-
+## Chapter 11
 
      How The Jews Were Crucified Before The Walls Of The City
      Concerning Antiochus Epiphanes; And How The Jews Overthrew
@@ -16633,13 +15710,7 @@ loss of what had cost them so long pains, and this in one hour's time.
 And many indeed despaired of taking the city with their usual engines of
 war only.
 
-
-
-
-
-
-CHAPTER 12.
-
+## Chapter 12
 
      Titus Thought Fit To Encompass The City Round With A Wall;
      After Which The Famine Consumed The People By Whole Houses
@@ -16787,13 +15858,7 @@ no gentle affection could touch their souls, nor could any pain affect
 their bodies, since they could still tear the dead bodies of the people
 as dogs do, and fill the prisons with those that were sick.
 
-
-
-
-
-
-CHAPTER 13.
-
+## Chapter 13
 
      The Great Slaughters And Sacrilege That Were In Jerusalem.
 
@@ -17002,7 +16067,7 @@ but suffered the same distress to come upon themselves; for they were
 blinded by that fate which was already coming upon the city, and upon
 themselves also.
 
-WAR BOOK 5 FOOTNOTES
+## War Book 5 Footnotes
 
 1 (return) [ This appears to be the first time that the zealots ventured
 to pollute this most sacred court of the temple, which was the court of
@@ -17012,9 +16077,7 @@ conjecture of those that would interpret that Zacharias, who was slain
 sect. 4, as if he were slain there by these zealots, is groundless, as I
 have noted on that place already.]
 
-
 2 (return) [ The Levites.]
-
 
 3 (return) [ This is an excellent reflection of Josephus, including his
 hopes of the restoration of the Jews upon their repentance, See
@@ -17024,7 +16087,6 @@ but remarkable treatise on that subject, of which the Jewish prophets
 are every where full. See the principal of those prophecies collected
 together at the end of the Essay on the Revelation, p. 822, etc.]
 
-
 4 (return) [ This destruction of such a vast quantity of corn and other
 provisions, as was sufficient for many years was the direct occasion
 of that terrible famine, which consumed incredible numbers of Jews in
@@ -17033,12 +16095,10 @@ this city, after all, had not these seditious Jews been so infatuated as
 thus madly to destroy, what Josephus here justly styles, "The nerves of
 their power."]
 
-
 5 (return) [ This timber, we see, was designed for the rebuilding those
 twenty additional cubits of the holy house above the hundred, which had
 fallen down some years before. See the note on Antiq. B. XV. ch. 11.
 sect. 3.]
-
 
 6 (return) [ There being no gate on the west, and only on the west, side
 of the court of the priests, and so no steps there, this was the only
@@ -17046,7 +16106,6 @@ side that the seditious, under this John of Gischala, could bring their
 engines close to the cloisters of that court end-ways, though upon the
 floor of the court of Israel. See the scheme of that temple, in the
 description of the temples hereto belonging.]
-
 
 7 (return) [ We may here note, that Titus is here called "a king," and
 "Caesar," by Josephus, even while he was no more than the emperor's son,
@@ -17064,13 +16123,11 @@ though I suspect Josephus particularly esteemed Titus as joint king with
 his father ever since his divine dreams that declared them both such, B.
 III. ch. 8. sect. 9.]
 
-
 8 (return) [ This situation of the Mount of Olives, on the east of
 Jerusalem, at about the distance of five or six furlongs, with the
 valley of Cedron interposed between that mountain and the city, are
 things well known both in the Old and New Testament, in Josephus
 elsewhere, and in all the descriptions of Palestine.]
-
 
 9 (return) [ Here we see the true occasion of those vast numbers of Jews
 that were in Jerusalem during this siege by Titus, and perished therein;
@@ -17092,17 +16149,14 @@ shall see hereafter, they were 1,100,000, besides 97,000 captives. But
 Tacitus's history of the last part of this siege is not now extant; so
 we cannot compare his parallel numbers with those of Josephus.]
 
-
 10 (return) [ Perhaps, says Dr. Hudson, here was that gate, called the
 "Gate of the Corner," in 2 Chronicles 26:9. See ch. 4. sect. 2]
-
 
 11 (return) [ These dove-courts in Josephus, built by Herod the Great,
 are, in the opinion of Reland, the very same that are mentioned by the
 Talmudists, and named by them "Herod's dove courts." Nor is there any
 reason to suppose otherwise, since in both accounts they were expressly
 tame pigeons which were kept in them.]
-
 
 12 (return) [ See the description of the temples hereto belonging, ch.
 15. But note, that what Josephus here says of the original scantiness of
@@ -17120,7 +16174,6 @@ ground, which Josephus speaks of elsewhere, Antiq. B. XV. ch. 11. sect.
 3, and which Mr. Maundrel saw, and describes, p. 100, as extant under
 ground at this day.]
 
-
 13 (return) [ What Josephus seems here to mean is this: that these
 pillars, supporting the cloisters in the second court, had their
 foundations or lowest parts as deep as the floor of the first or lowest
@@ -17136,10 +16189,8 @@ fifteen steps at the partition wall, and fourteen or fifteen more thence
 into the court itself, which would bring the whole near to the just
 proportion. See sect. 3, infra. But I determine nothing.]
 
-
 14 (return) [ These three guards that lay in the tower of Antonia must
 be those that guarded the city, the temple, and the tower of Antonia.]
-
 
 15 (return) [ What should be the meaning of this signal or watchword,
 when the watchmen saw a stone coming from the engine, "The Stone
@@ -17173,7 +16224,6 @@ and never used by Josephus elsewhere, and is indeed no way suitable
 to the occasion, this engine not throwing arrows or darts, but great
 stones, at this time.]
 
-
 16 (return) [ Josephus supposes, in this his admirable speech to the
 Jews, that not Abraham only, but Pharaoh king of Egypt, prayed towards
 a temple at Jerusalem, or towards Jerusalem itself, in which were Mount
@@ -17182,7 +16232,6 @@ stand; and this long before either the Jewish tabernacle or temple were
 built. Nor is the famous command given by God to Abraham, to go two
 or three days' journey, on purpose to offer up his son Isaac there,
 unfavorable to such a notion.]
-
 
 17 (return) [ Note here, that Josephus, in this his same admirable
 speech, calls the Syrians, nay, even the Philistines, on the most south
@@ -17196,7 +16245,6 @@ eighty years before, and which retained the very name of the Camp of the
 Assyrians to that very day. See chap. 7. sect. 3, and chap. 12. sect.
 2.]
 
-
 18 (return) [ This drying up of the Jerusalem fountain of Siloam when
 the Jews wanted it, and its flowing abundantly when the enemies of the
 Jews wanted it, and these both in the days of Zedekiah and of Titus,
@@ -17206,13 +16254,11 @@ instances of a Divine Providence for the punishment of the Jewish
 nation, when they were grown very wicked, at both those times of the
 destruction of Jerusalem.]
 
-
 19 (return) [ Reland very properly takes notice here, how justly this
 judgment came upon the Jews, when they were crucified in such multitudes
 together, that the Romans wanted room for the crosses, and crosses
 for the bodies of these Jews, since they had brought this judgment on
 themselves by the crucifixion of their Messiah.]
-
 
 20 (return) [ Josephus, both here and before, B. IV. ch. 8. sect. 4,
 esteems the land of Sodom, not as part of the lake Asphaltites, or under
@@ -17223,30 +16269,14 @@ truth, both in his note on this place, and in his Palestina, tom. I. p.
 now under the waters of the south part of that sea, but perhaps not the
 whole country.]
 
-
-
-
-
-
-
-
-
-
-
-BOOK VI.
-
+## Book VI
 
      Containing The Interval Of About One Month.
 
      From The Great Extremity To Which The Jews Were Reduced To
      The Taking Of Jerusalem By Titus.
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      That The Miseries Still Grew Worse; And How The Romans Made
      An Assault Upon The Tower Of Antonia.
@@ -17618,13 +16648,7 @@ were Malachias, and Judas the son of Merto, and James the son of Sosas,
 the commander of the Idumeans; and of the zealots, two brethren, Simon
 and Judas, the sons of Jairus.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      How Titus Gave Orders To Demolish The Tower Of Antonia And
      Then Persuaded Josephus To Exhort The Jews Again [To A
@@ -17972,13 +16996,7 @@ and fell down upon the body of his adversary, as a plain instance how
 suddenly vengeance may come upon men that have success in war, without
 any just deserving the same.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      Concerning A Stratagem That Was Devised By The Jews, By
      Which They Burnt Many Of The Romans; With Another
@@ -18154,13 +17172,7 @@ must be in; nor could he expect that such men could be recovered to
 sobriety of mind, after they had endured those very sufferings, for the
 avoiding whereof it only was probable they might have repented.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      When The Banks Were Completed And The Battering Rams
      Brought, And Could Do Nothing, Titus Gave Orders To Set Fire
@@ -18379,13 +17391,7 @@ was done by Haggai, in the second year of Cyrus the king, till its
 destruction under Vespasian, there were six hundred and thirty-nine
 years and forty-five days.
 
-
-
-
-
-
-CHAPTER 5.
-
+## Chapter 5
 
      The Great Distress The Jews Were In Upon The Conflagration
      Of The Holy House. Concerning A False Prophet, And The Signs
@@ -18569,13 +17575,7 @@ signals according to their own pleasure, and some of them they utterly
 despised, until their madness was demonstrated, both by the taking of
 their city and their own destruction.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      How The Romans Carried Their Ensigns To The Temple, And Made
      Joyful Acclamations To Titus. The Speech That Titus Made To
@@ -18750,13 +17750,7 @@ these men. At that time, indeed, he kept them all in custody, but still
 bound the king's sons and kinsmen, and led them with him to Rome, in
 order to make them hostages for their country's fidelity to the Romans.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      What Afterward Befell The Seditious When They Had Done A
      Great Deal Of Mischief, And Suffered Many Misfortunes; As
@@ -18833,13 +17827,7 @@ now come to fight one with another about their plunder; and I cannot
 but think that, had not their destruction prevented it, their barbarity
 would have made them taste of even the dead bodies themselves.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      How Caesar Raised Banks Round About The Upper City [Mount
      Zion] And When They Were Completed, Gave Orders That The
@@ -18987,13 +17975,7 @@ have been the envy of the world. Nor did it on any other account so much
 deserve these sore misfortunes, as by producing such a generation of men
 as were the occasions of this its overthrow.
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      What Injunctions Caesar Gave When He Was Come Within The
      City. The Number Of The Captives And Of Those That Perished
@@ -19099,13 +18081,7 @@ then slain; as was John condemned to perpetual imprisonment. And now the
 Romans set fire to the extreme parts of the city, and burnt them down,
 and entirely demolished its walls.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      That Whereas The City Of Jerusalem Had Been Five Times Taken
      Formerly, This Was The Second Time Of Its Desolation. A
@@ -19135,13 +18111,12 @@ of its nation over all the habitable earth, nor the greatness of
 the veneration paid to it on a religious account, been sufficient to
 preserve it from being destroyed. And thus ended the siege of Jerusalem.
 
-WAR BOOK 6 FOOTNOTES
+## War Book 6 Footnotes
 
 1 (return) [ Reland notes here, very pertinently, that the tower of
 Antonia stood higher than the floor of the temple or court adjoining
 to it; and that accordingly they descended thence into the temple, as
 Josephus elsewhere speaks also. See Book VI. ch. 2. sect. 5.]
-
 
 2 (return) [ In this speech of Titus we may clearly see the notions
 which the Romans then had of death, and of the happy state of those who
@@ -19153,14 +18128,11 @@ battle;" the other of Valerius Maximus, lib. 11. ch. 6, who says, "that
 the Cimbri and Celtiberi exulted for joy in the army, as being to go out
 of the world gloriously and happily."]
 
-
 3 (return) [ See the note on p. 809.]
-
 
 4 (return) [ No wonder that this Julian, who had so many nails in his
 shoes, slipped upon the pavement of the temple, which was smooth, and
 laid with marble of different colors.]
-
 
 5 (return) [ This was a remarkable day indeed, the seventeenth of
 Panemuns. [Footnote Tamuz,] A.D. 70, when, according to Daniel's
@@ -19173,16 +18145,13 @@ Nor is it to be omitted, what year nearly confirms this duration of the
 war, that four years before the war begun was somewhat above seven years
 five months before the destruction of Jerusalem, ch. 5. sect. 3.]
 
-
 6 (return) [ The same that in the New Testament is always so called, and
 was then the common language of the Jews in Judea, which was the Syriac
 dialect.]
 
-
 7 (return) [ Our present copies of the Old Testament want this encomium
 upon king Jechoniah or Jehoiachim, which it seems was in Josephus's
 copy.]
-
 
 8 (return) [ Of this oracle, see the note on B. IV. ch. 6. sect. 3.
 Josephus, both here and in many places elsewhere, speaks so, that it is
@@ -19191,7 +18160,6 @@ and made use of them now for the destruction of that wicked nation of
 the Jews; which was for certain the true state of this matter, as the
 prophet Daniel first, and our Savior himself afterwards, had clearly
 foretold. See Lit. Accompl. of Proph. p. 64, etc.]
-
 
 9 (return) [ Josephus had before told us, B. V. ch. 13. sect. 1, that
 this fourth son of Matthias ran away to the Romans "before" his father's
@@ -19202,26 +18170,20 @@ caught and put to death with them. This last account, therefore, looks
 like an instance of a small inadvertence of Josephus in the place before
 us.]
 
-
 10 (return) [ Of this partition-wall separating Jews and Gentiles, with
 its pillars and inscription, see the description of the temples, ch.
 15.]
-
 
 11 (return) [ That these seditious Jews were the direct occasions
 of their own destruction, and of the conflagration of their city and
 temple, and that Titus earnestly and constantly labored to save both, is
 here and every where most evident in Josephus.]
 
-
 12 (return) [ Court of the Gentiles.]
-
 
 13 (return) [ Court of Israel.]
 
-
 14 (return) [ Of the court of the Gentiles.]
-
 
 15 (return) [ What Josephus observes here, that no parallel examples
 had been recorded before this time of such sieges, wherein mothers were
@@ -19242,7 +18204,6 @@ that extremity, as to force mothers to this unnatural barbarity, which,
 in all its circumstances, has not, I still suppose, been hitherto
 paralleled among the rest of mankind.]
 
-
 16 (return) [ These steps to the altar of burnt-offering seem here
 either an improper and inaccurate expression of Josephus, since it was
 unlawful to make ladder steps; [see description of the temples, ch. 13.,
@@ -19250,7 +18211,6 @@ and note on Antiq. B. IV. ch. 8. sect. 5;] or else those steps or stairs
 we now use were invented before the days of Herod the Great, and had
 been here built by him; though the later Jews always deny it, and say
 that even Herod's altar was ascended to by an acclivity only.]
-
 
 17 (return) [ This Perea, if the word be not mistaken in the copies,
 cannot well be that Perea which was beyond Jordan, whose mountains
@@ -19261,7 +18221,6 @@ Mount of Olives, or some others about such a distance from Jerusalem;
 which observation is so obvious, that it is a wonder our commentators
 here take no notice of it.]
 
-
 18 (return) [ Reland I think here judges well, when he interprets these
 spikes [Footnote of those that stood on the top of the holy house]
 with sharp points; they were fixed into lead, to prevent the birds from
@@ -19269,16 +18228,13 @@ sitting there, and defiling the holy house; for such spikes there were
 now upon it, as Josephus himself hath already assured us, B. V. ch. 5.
 sect. 6.]
 
-
 19 (return) [ Reland here takes notice, that these Jews, who had
 despised the true Prophet, were deservedly abused and deluded by these
 false ones.]
 
-
 20 (return) [ Whether Josephus means that this star was different from
 that comet which lasted a whole year, I cannot certainly determine. His
 words most favor their being different one from another.]
-
 
 21 (return) [ Since Josephus still uses the Syro-Macedonian month
 Xanthicus for the Jewish month Nisan, this eighth, or, as Nicephorus
@@ -19289,9 +18245,7 @@ themselves," John 11:55, with 12:1; in agreement with Josephus also, B.
 V. ch. 3. sect. 1. And it might well be, that in the sight of these this
 extraordinary light might appear.]
 
-
 22 (return) [ This here seems to be the court of the priests.]
-
 
 23 (return) [ Both Reland and Havercamp in this place alter the natural
 punctuation and sense of Josephus, and this contrary to the opinion of
@@ -19304,7 +18258,6 @@ at that festival, Josephus may well be permitted to say the same.
 And indeed the modern Rabbins are of very small authority in all such
 matters of remote antiquity.]
 
-
 24 (return) [ Take Havercamp's note here: "This [says he] is a
 remarkable place; and Tertullian truly says in his Apologetic, ch. 16.
 p. 162, that the entire religion of the Roman camp almost consisted in
@@ -19312,23 +18265,19 @@ worshipping the ensigns, in swearing by the ensigns, and in preferring
 the ensigns before all the [other] gods." See what Havercamp says upon
 that place of Tertullian.]
 
-
 25 (return) [ This declaring Titus imperator by the soldiers, upon such
 signal success, and the slaughter of such a vast number of enemies, was
 according to the usual practice of the Romans in like cases, as Reland
 assures us on this place.]
-
 
 26 (return) [ The Jews of later times agree with Josephus, that there
 were hiding-places or secret chambers about the holy house, as Reland
 here informs us, where he thinks he has found these very walls described
 by them.]
 
-
 27 (return) [ Spanheim notes here, that the Romans used to permit the
 Jews to collect their sacred tribute, and send it to Jerusalem; of which
 we have had abundant evidence in Josephus already on other occasions.]
-
 
 28 (return) [ This innumerable multitude of Jews that were "sold" by the
 Romans was an eminent completion of God's ancient threatening by Moses,
@@ -19342,11 +18291,9 @@ the slaves to be sold should be more than were the purchasers for them,
 and so they should be sold for little or nothing; which is what Josephus
 here affirms to have been the case at this time.]
 
-
 29 (return) [ What became of these spoils of the temple that escaped the
 fire, see Josephus himself hereafter, B. VII. ch. 5. sect. 5, and Reland
 de Spoliis Templi, p. 129-138.]
-
 
 30 (return) [ These various sorts of spices, even more than those four
 which Moses prescribed, Exodus 31:34, we see were used in their public
@@ -19354,13 +18301,11 @@ worship under Herod's temple, particularly cinnamon and cassia; which
 Reland takes particular notice of, as agreeing with the latter testimony
 of the Talmudists.]
 
-
 31 (return) [ See the several predictions that the Jews, if they became
 obstinate in their idolatry and wickedness, should be sent again or sold
 into Egypt for their punishment, Deuteronomy 28:68; Jeremiah 44:7; Hosea
 8:13; 9:3; 9:4, 5; 2 Samuel 15:10-13; with Authentic Records, Part I. p.
 49, 121; and Reland Painest And, tom. II. p. 715.]
-
 
 32 (return) [ The whole multitude of the Jews that were destroyed during
 the entire seven years before this time, in all the countries of and
@@ -19374,7 +18319,6 @@ regions, to the passover, in vast numbers, and therein cooped up, as in
 a prison, by the Roman army, as Josephus himself well observes in this
 and the next section, and as is exactly related elsewhere, B. V. ch. 3.
 sect. 1 and ch. 13. sect. 7.]
-
 
 33 (return) [ This number of a company for one paschal lamb, between
 ten and twenty, agrees exactly with the number thirteen, at our Savior's
@@ -19391,7 +18335,6 @@ their apostasy from God, and from obedience to him. Nor is it possible,
 in the nature of things, that in any other nation such vast numbers
 should be gotten together, and perish in the siege of any one city
 whatsoever, as now happened in Jerusalem.]
-
 
 34 (return) [ This is the proper place for such as have closely
 attended to these latter books of the War to peruse, and that with equal
@@ -19412,7 +18355,6 @@ recollection, reckons a sixth, Antiq. B. XII. ch. 1. sect. 1, who should
 have been here inserted in the second place; I mean Ptolemy, the son of
 Lagus.]
 
-
 35 (return) [ Why the great Bochart should say, [De Phoenic. Colon.
 B. II. ch. iv.,] that "there are in this clause of Josephus as many
 mistakes as words," I do by no means understand. Josephus thought
@@ -19428,26 +18370,14 @@ sect. 4; see also Antiq. B. lit. ch. 6. sect. 1; as he here presently
 uses, for a large and splendid synagogue of the Jews at Antioch, B. VII.
 ch. 3. sect. 3.]
 
-
-
-
-
-
-
-BOOK VII.
-
+## Book VII
 
      Containing The Interval Of About Three Years.
 
      From The Taking Of Jerusalem By Titus To The Sedition At
      Cyrene
 
-
-
-
-
-CHAPTER 1.
-
+## Chapter 1
 
      How The Entire City Of Jerusalem Was Demolished, Excepting
      Three Towers; And How Titus Commended His Soldiers In A
@@ -19541,13 +18471,7 @@ spoils in great quantities, and gave order that the captives should be
 kept there; for the winter season hindered him then from sailing into
 Italy.
 
-
-
-
-
-
-CHAPTER 2.
-
+## Chapter 2
 
      How Titus Exhibited All Sorts Of Shows At Cesarea Philippi.
      Concerning Simon The Tyrant How He Was Taken, And Reserved
@@ -19609,13 +18533,7 @@ to that Cesarea which was on the seaside, who gave orders that he should
 be kept against that triumph which he was to celebrate at Rome upon this
 occasion.
 
-
-
-
-
-
-CHAPTER 3.
-
+## Chapter 3
 
      How Titus Upon The Celebration Of His Brothers And Fathers
      Birthdays Had Many Of The Jews Slain. Concerning The Danger
@@ -19720,13 +18638,7 @@ demands made upon them. So the Jews were under great disorder and
 terror, in the uncertain expectations of what would be the upshot of
 these accusations against them.
 
-
-
-
-
-
-CHAPTER 4.
-
+## Chapter 4
 
      How Vespasian Was Received At Rome; As Also How The Germans
      Revolted From The Romans, But Were Subdued. That The
@@ -19856,13 +18768,7 @@ place, till he made it altogether impossible for the barbarians to
 pass over the river any more. And thus had this war in Mysia a sudden
 conclusion.
 
-
-
-
-
-
-CHAPTER V.
-
+## Chapter V
 
      Concerning The Sabbatic River Which Titus Saw As He Was
      Journeying Through Syria; And How The People Of Antioch Came
@@ -20095,13 +19001,7 @@ still he gave order that they should lay up their Law, and the purple
 veils of the holy place, in the royal palace itself, and keep them
 there.
 
-
-
-
-
-
-CHAPTER 6.
-
+## Chapter 6
 
      Concerning Machaerus, And How Lucilius Bassus Took That
      Citadel, And Other Places.
@@ -20312,13 +19212,7 @@ two drachmae every year into the Capitol, as they used to pay the same
 to the temple at Jerusalem. And this was the state of the Jewish affairs
 at this time.
 
-
-
-
-
-
-CHAPTER 7.
-
+## Chapter 7
 
      Concerning The Calamity That Befell Antiochus, King Of
      Commagene. As Also Concerning The Alans And What Great
@@ -20425,13 +19319,7 @@ drove a great multitude of the men, and a great quantity of the other
 prey they had gotten out of both kingdoms, along with them, and then
 retreated back to their own country.
 
-
-
-
-
-
-CHAPTER 8.
-
+## Chapter 8
 
      Concerning Masada And Those Sicarii Who Kept It; And How
      Silva Betook Himself To Form The Siege Of That Citadel.
@@ -20941,13 +19829,7 @@ for in getting us under their power, let us leave them an example
 which shall at once cause their astonishment at our death, and their
 admiration of our hardiness therein."
 
-
-
-
-
-
-CHAPTER 9.
-
+## Chapter 9
 
      How The People That Were In The Fortress Were Prevailed On
      By The Words Of Eleazar, Two Women And Five Children Only
@@ -21029,13 +19911,7 @@ wonder at the courage of their resolution, and the immovable contempt of
 death which so great a number of them had shown, when they went through
 with such an action as that was.
 
-
-
-
-
-
-CHAPTER 10.
-
+## Chapter 10
 
      That Many Of The Sicarii Fled To Alexandria Also And What
      Dangers They Were In There; On Which Account That Temple
@@ -21141,13 +20017,7 @@ worship that had been in that place. Now the duration of the time from
 the building of this temple till it was shut up again was three hundred
 and forty-three years.
 
-
-
-
-
-
-CHAPTER 11.
-
+## Chapter 11
 
      Concerning Jonathan, One Of The Sicarii, That Stirred Up A
      Sedition In Cyrene, And Was A False Accuser [Of The
@@ -21232,14 +20102,11 @@ high Idaces of a forest;" which was long before foretold by the prophet
 Micah, ch. 3:12, and quoted from him in the prophecies of Jeremiah, ch.
 26:18.]
 
-
 3 (return) [ See Ecclesiastes 8:11.]
-
 
 4 (return) [ This Berytus was certainly a Roman colony, and has coins
 extant that witness the same, as Hudson and Spanheim inform us. See the
 note on Antiq. B. XVI: ch. 11. sect. 1.]
-
 
 5 (return) [ The Jews at Antioch and Alexandria, the two principal
 cities in all the East, had allowed them, both by the Macedonians, and
@@ -21249,7 +20116,6 @@ barely "governor," sometimes "ethnarch," and [at Alexandria] "alabarch,"
 as Dr. Hudson takes notice on this place out of Fuller's Miscellanies.
 They had the like governor or governors allowed them at Babylon under
 their captivity there, as the history of Susanna implies.]
-
 
 6 (return) [ This Classicus, and Civilis, and Cerealis are names well
 known in Tacitus; the two former as moving sedition against the Romans,
@@ -21267,7 +20133,6 @@ in life, to receive any remarkable favors from him; as Domitian was
 certainly very lewd and cruel, and generally hated, when Suetonius wrote
 about him.]
 
-
 7 (return) [ Since in these latter ages this Sabbatic River, once so
 famous, which, by Josephus's account here, ran every seventh day,
 and rested on six, but according to Pliny, Nat. Hist. 31. II, ran
@@ -21279,9 +20144,7 @@ i, 17, the reader will find several instances of such periodical
 fountains and rivers, though none of their periods were that of a just
 week as of old this appears to have been.]
 
-
 8 (return) [ Vespasian and his two sons, Titus and Domitian.]
-
 
 9 (return) [ See the representations of these Jewish vessels as they
 still stand on Titus's triumphal arch at Rome, in Reland's very curious
@@ -21296,11 +20159,9 @@ does not appear on that arch at all, though Josephus, an eye-witness,
 assures us that it was carried in this procession. All which things
 deserve the consideration of the inquisitive reader.]
 
-
 10 (return) [ Spanheim observes here, that in Graceia Major and
 Sicily they had rue prodigiously great and durable, like this rue at
 Machaerus.]
-
 
 11 (return) [ This strange account of the place and root Baaras seems to
 have been taken from the magicians, and the root to have been made use
@@ -21312,13 +20173,11 @@ and demoniacs, exactly like that of the Jews and Christians in the New
 Testament, and the first four centuries. See Antiq. B. I. ch. 8. sect.
 2; B. XI, ch. 2. sect. 3.]
 
-
 12 (return) [ It is very remarkable that Titus did not people this now
 desolate country of Judea, but ordered it to be all sold; nor indeed is
 it properly peopled at this day, but lies ready for its old inhabitants
 the Jews, at their future restoration. See Literal Accomplishment of
 Prophecies, p. 77.]
-
 
 13 (return) [ That the city Emmaus, or Areindus, in Josephus and others
 which was the place of the government of Julius Africanus were slain,
@@ -21337,11 +20196,9 @@ The place also allotted for these eight hundred soldiers, as for a Roman
 garrison, in this place, would most naturally be not so remote from
 Jerusalem as was the other Emmaus, or Nicopolis.]
 
-
 14 (return) [ Pliny and others confirm this strange paradox, that
 provisions laid up against sieges will continue good for a hundred
 years, as Spanheim notes upon this place.]
-
 
 15 (return) [ The speeches in this and the next section, as introduced
 under the person of this Eleazar, are exceeding remarkable, and of the
@@ -21354,15 +20211,12 @@ so Josephus clothed them in his own words: at the lowest they contain
 the Jewish notions on these heads, as understood then by our Josephus,
 and cannot but deserve a suitable regard from us.]
 
-
 16 (return) [ See B. II. ch. 20. sect. 2, where the number of the slain
 is but 10,000.]
-
 
 17 (return) [ Reland here sets down a parallel aphorism of one of
 the Jewish Rabbins, "We are born that we may die, and die that we may
 live."]
-
 
 18 (return) [ Since Josephus here informs us that some of these Sicarii,
 or ruffians, went from Alexandria [which was itself in Egypt, in a large
@@ -21373,7 +20227,6 @@ adds, those that say it never rains in Egypt must mean the Proper or
 Upper Egypt, because it does sometimes rain in the other parts. See the
 note on Antiq. B. II. ch. 7. sect. 7, and B. III. ch. 1. sect. 6.]
 
-
 19 (return) [ Of this temple of Onias's building in Egypt, see the notes
 on Antiq. B. XIII. ch. 3. sect. 1. But whereas it is elsewhere, both
 of the War, B. I. ch. 1. sect. 1, and in the Antiquities as now quoted,
@@ -21381,7 +20234,6 @@ said that this temple was like to that at Jerusalem, and here that it
 was not like it, but like a tower, sect. 3, there is some reason to
 suspect the reading here, and that either the negative particle is here
 to be blotted out, or the word entirely added.]
-
 
 20 (return) [ We must observe, that Josephus here speaks of Antiochus
 who profaned the temple as now alive, when Onias had leave given them

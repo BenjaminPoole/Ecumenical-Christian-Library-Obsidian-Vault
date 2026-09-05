@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon IX. National sins and national judgments. Isaiah iii. 8, 9
-
-## Sermon IX. National sins and national judgments.
 
 Preached April 11, 1679.
 
@@ -136,11 +133,9 @@ There are three or four things I would mention, that I have upon my thoughts:—
 
 4\. In this glorious act of God there is a spirit poured out upon the commonalty of this nation above their light and above their principles; which is the immediate hand of God: for every man’s spirit follows his light and principles, but here it is beyond their light and principles. Therefore glorify God in this, and let it encourage us to be instant in prayer day and night for this poor nation, the laud of our nativity.
 
-
 ---
 [^1]: This sermon was began before the writer came in. What he wrote is as follows. [This note is by Sir John Hartopp. On the top of the first page the word “fast” is written; seemingly to intimate that the sermon had been preached on the occasion of a fast. — Ed.]
 [^2]: The author alludes to the affair of Titus Oates and the death of Sir E. Godfrey. See note, vol. ix., p. 13 — Ed.
-
 
 ---
 [[SJO 111 Sermon VIII. The mutual care of believers over one another. Ephesians iv. 15, 16|← Sermon VIII. The mutual care of believers over one another. Ephesians iv. 15, 16]] · [[Sermons of John Owen|Contents]] · [[SJO 113 Sermon X. The death of the righteous. Isaiah lvii. 1, 2|Sermon X. The death of the righteous. Isaiah lvii. 1, 2 →]]

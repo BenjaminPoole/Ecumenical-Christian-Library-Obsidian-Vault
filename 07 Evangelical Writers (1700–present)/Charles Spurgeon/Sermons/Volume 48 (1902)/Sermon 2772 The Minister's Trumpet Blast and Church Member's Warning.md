@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Minister's Trumpet Blast and Church Member's Warning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2772
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Set the trumpet to your mouth. He shall come as an eagle against the house of the LORD, because they have transgressed My Covenant, and trespassed against My Law. Israel shall cry unto Me, My God, we know You!" Hosea 8:1,2.
 
@@ -118,7 +115,6 @@ Now, God is not jealous of sinners—He is jealous of saints, of His own people,
 You remember the story of the poor king of England? When there had been a rebellion against him and he had put it down, He promised that he would give pardon to all who were concerned in it. He had brought to him the list which contained the names of those whom he was to pardon. He read the name of his son, Richard, and he wept—"Is Richard a rebel?" He read the name of his son, Henry, and he wept again—"Is he a rebel?" But he had one favorite son, his son, John, and he saw in the midst of the paper the name of his son John as one whom he had to forgive. He forgave him, but it broke his heart and he died. The more favor there is, the more jealousy there will be. Now, as a Church, we may truly say, not in pride, but in thankfulness, that God has been very gracious to us. He has distinguished us by His Grace. He has caused our candle to shine brightly. He has heard our prayers, but He will be very jealous of us if we begin to ascribe the good work to ourselves. If we take any honor to ourselves and leave off praying to Him. If our zeal diminishes, if we become lax in our lives, if immoral characters are tolerated among us, God will be very angry with us and we must expect that though He will not cast away His own people, yet, as a Church, He will take away our beauty and cause it to fade away like the moth! And the fine gold shall become dim, and the Glory shall depart from this portion of His Israel.
 
 Now what is the lesson of all this? It is just this, Brothers and Sisters, that I would stir you up to continue in prayer! To some of you, perhaps, the exhortation is not needed, but to others I am sure it is. Thank God we have many in the church who know how to wrestle with God, but, oh, we need more of these! We want not merely to have the few like Gideon's men that lapped, but we want to have you all among the lappers—to have you all wrestlers with God, all diligent in His service and seeking to extend His Kingdom! Let us be, from this day forward, more prayerful than we have ever been before.
-
 
 ---
 [[Sermon 2771 Peter's Fall and Restoration|← #2771]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2773 For or Against|#2773 →]]

@@ -9,12 +9,11 @@ written: "1559"
 tags:
   - institutes
 ---
-
 # One Hundred Aphorisms[^1]
 
-*CONTAINING, WITHIN A NARROW COMPASS, THE SUBSTANCE AND ORDER OF THE FOUR BOOKS OF THE*
+**Containing, within a Narrow Compass, the Substance and Order of the Four Books of The**
 
-*INSTITUTES OF THE CHRISTIAN RELIGION.*
+## *Institutes of the Christian Religion.*
 
 ## Book I
 

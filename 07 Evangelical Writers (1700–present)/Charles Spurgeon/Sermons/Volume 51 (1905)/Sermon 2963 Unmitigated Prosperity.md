@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Unmitigated Prosperity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2963
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The pleasure of the LORD shall prosper in His hands." Isaiah 53:10.
 
@@ -105,7 +102,7 @@ I am often afraid lest, with such a Church as this, we should not do what the Ch
 
 May we all believe in Jesus and so be His friends! "He that believes and is baptized shall be saved," He says. May we all be led to believe in Jesus and, believing, may we be enlisted on His side—and, being enlisted, may we fight even to the end and so be partakers of His great reward! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 17:1-10.
+## Exposition by C. H. Spurgeon: Luke 17:1-10
 
 Verse 1. Then said He unto the disciples, It is impossible but that offenses will come: but woe unto him through whom they come! Since the Fall, we are so constituted that there are sure to be differences and disputes. It is a great mercy when men dwell together in unity. "Behold, how good and how pleasant it is." It is a work of Divine Grace! But nature has its lusting and lusting leads to striving. And so, as long as the world is as it now is, "it is impossible but that offenses will come: but woe unto him through whom they come." Let us not, therefore, be either offense givers or offense takers. When anyone offends us, let us say, "It is impossible but that offenses will come," and let us make light of it. And let us be very careful that we do not cause others to offend. As for him through whom the offense comes.
 
@@ -122,7 +119,6 @@ Verse 1. Then said He unto the disciples, It is impossible but that offenses wil
 9\. Does he thank that servant because he did the things that were commanded him? I think not When the servant has done his day's work, his master does not say, "I am very grateful to you, John, for what you have done for me." He will have his wages—they will be his master's thanks.
 
 10\. So likewise you, when you shallhave done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do. ' 'When you shall have done all those things which are commanded you." Ah, but we have not come anywhere near that yet! Even if we had, we would still be "unprofitable servants." In our mind we should expect no thanks from our Master, but we should sorrow that we had not served Him better.
-
 
 ---
 [[Sermon 2962 Diamond Hinges - 'as' and 'so'|← #2962]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2964 'Trust in the Living God'|#2964 →]]

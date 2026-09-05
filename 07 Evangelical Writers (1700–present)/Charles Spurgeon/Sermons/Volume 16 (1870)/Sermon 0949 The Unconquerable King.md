@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Unconquerable King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 949
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 4, 1870,.
+*Delivered on Lord's-Day Morning, September 4, 1870*
 
 > "At the end of the days I, Nebuchadnezzar, lifted up my eyes unto Heaven, and my understanding returned unto me, and I blessed the Most High, and I praised and honored Him that lives forever, whose dominion is an everlasting dominion, and His kingdom is from generation to generation: and all the inhabitants of the earth are reputed as nothing: and He does according to His will in the army of Heaven, and among the inhabitants of the earth: and none can stay His hand, or say unto Him, What do You?" Daniel 4:34,35.
 
@@ -160,7 +159,6 @@ Next to that, exercise the spirit of reverent love. Do I tremble before this God
 Lastly, let our spirit be that of profound delight. I believe there is no doctrine to the advanced Christian which contains such a deep sea of delight as this. The Lord reigns! The Lord is King forever and ever! Why, then all is well! When you get away from God, you get away from peace. When the soul dives into Him, and feels that all is in Him, then she feels a calm delight, a peace like a river, a joy unspeakable. Strive after that delight this morning, my Beloved, and then go and express it in your songs of praise.
 
 If you are alone this afternoon, any of you, and not engaged in service, be sure to bless and magnify your God. Lift up your hearts in His praise, for "whoso offers praise glorifies God." May the Lord bring us all, through faith in Jesus Christ, into harmony with this ever-blessed and ever-living God, and unto Him be praise and glory forever and forever. Amen.
-
 
 ---
 [[Sermon 0948 A String Of Pearls|← #948]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0950 Means for Restoring the Banished|#950 →]]

@@ -11,7 +11,6 @@ tags:
   - classical
   - demosthenes
 ---
-
 # The Public Orations of Demosthenes
 *Volume 2*
 
@@ -23,14 +22,7 @@ tags:
   IN TWO VOLUMES
   VOL II
 
-  TRANSLATED BY
-  ARTHUR WALLACE PICKARD
-
-
-
-
-ON THE CHERSONESE (OR. VIII)
-
+## On the Chersonese (Or. VIII)
 
 [_Introduction_. Late in the year 343 (some time after the acquittal of
 Aeschines) Philip invaded Epirus, made Alexander, brother of his wife
@@ -107,7 +99,6 @@ defence of the orator's own career, and an urgent demand for the
 punishment of disloyalty. At the same time Demosthenes does not embody
 the policy which he advises in any formal motion. For this we have to
 wait for the Third Philippic.]
-
 
 {1} It was the duty, men of Athens, of every speaker not to allow
 either malice or favour to influence any speech which he might make,
@@ -650,17 +641,13 @@ and acclamation, and retires into the background when any action is
 required, I can imagine no oratory, which, without action on your part,
 will be able to save your country.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] See Third Philippic §§ 59 sqq.
 
 [2] See Introduction to First Philippic.
 
 [3] [Greek: est_o d_e.]
-
-
-
 
 THE THIRD PHILIPPIC (Or. IX)
 
@@ -694,7 +681,6 @@ places. It seems probable that both versions are due to Demosthenes,
 and the speech may have been more than once revised by him before
 publication or republication. In which form it was delivered there is
 not sufficient evidence to show.]
-
 
 {1} Many speeches are made, men of Athens, at almost every meeting of
 the Assembly, with reference to the aggressions which Philip has been
@@ -1242,13 +1228,9 @@ remedied. But if any one has a better proposal to make, let him make
 it, and give us his advice. And I pray to all the gods that whatever be
 the decision that you are about to make, it may be for your good.
 
-
-FOOTNOTES
+## Footnotes
 
 [1] These are printed in square brackets in the translation.
-
-
-
 
 ON THE CROWN (Or. XVIII)
 
@@ -1435,7 +1417,6 @@ remainder of his life at Rhodes.
 
 The following is an analysis of the speech in outline:--
 
-
   I. Introduction (§§ 1-8).
   II. Defence against charges irrelevant to the indictment (§§ 9-52).
     (1) Introduction (§ 9).
@@ -1508,7 +1489,6 @@ The following is an analysis of the speech in outline:--
     (4) Reply to the comparison of Demosthenes with the men of old,
          by a final comparison of the two orators (§§ 314-23).
     (5) Peroration (§ 324).]
-
 
 {1} I pray first, men of Athens, to every god and goddess, that the
 goodwill, which I ever feel towards this city and towards all of you,
@@ -3829,7 +3809,6 @@ inscribe above them at the public cost; (_to Aeschines_) that even by
 these very lines, Aeschines, you may know that you are a man destitute
 of feeling, a dishonest accuser, an abominable wretch!
 
-
   _The Inscription_.[n]
 
   These for their country, fighting side by side,
@@ -4131,20 +4110,15 @@ to utter and early destruction, by land and sea. And to us who remain,
 grant the speediest release from the fears that hang over us, and
 safety that naught can shake!
 
-
-FOOTNOTES
+## Footnotes
 
 [1] Some writers suppose that it was at the meeting in the spring of
 339. The evidence is not conclusive, but appears to point to the date
 given here.
 
+## Notes
 
-
-
-NOTES
-
-
-ON THE NAVAL BOARDS
+## On the Naval Boards
 
 § 1. _who praise your forefathers_. The advocates of war with Persia
 had doubtless appealed to the memory of Marathon and Salamis, and the
@@ -4272,8 +4246,7 @@ _palai_] is the exact opposite).
 § 34. _sins against Hellas_. This refers to the support given to the
 Persian invaders by Thebes in the Persian Wars (Herod. viii. 34).
 
-
-FOR THE MEGALOPOLITANS
+## For the Megalopolitans
 
 § 4. _Plataeae_ (which had been overthrown by the enemies of Athens in
 the course of the Peloponnesian War, but rebuilt, with the aid of
@@ -4330,8 +4303,7 @@ pillars erected by each State on some site fixed by agreement or custom.
 
 § 28. _in the war_: i.e. the 'Sacred War', against the Phocians.
 
-
-FOR THE FREEDOM OF THE RHODIANS
+## For the Freedom of the Rhodians
 
 § 3. _now it will be seen_: i.e. if you come to a right decision, and
 help the Rhodians.
@@ -4434,8 +4406,7 @@ illegitimate means (cf. Speech on Embassy, § 314, &c.).
 
 § 35. Cf. Speech on Naval Boards, § 41.
 
-
-THE FIRST PHILIPPIC
+## The First Philippic
 
 § 3. _the war with Sparta_. Probably the Boeotian War (378-371 B.C.),
 when Athens supported Thebes against Sparta.
@@ -4552,8 +4523,7 @@ Darius to Alexander, recalling how Philip had been in friendship and
 alliance with Artaxerxes Ochus. It is possible, therefore, that the
 rumour to which Demosthenes alludes had some foundation.
 
-
-THE FIRST OLYNTHIAC
+## The First Olynthiac
 
 (_Note_.--Most of the allusions in the Olynthiacs are explained by the
 Introduction to the First Philippic.)
@@ -4599,8 +4569,7 @@ bo_eth_es_eth umeis _e allos tis_], 'unless you or some other power go
 to their aid.' After the death of Onomarchus in 352, the Phocians were
 incapable of withstanding invasion without help.
 
-
-THE SECOND OLYNTHIAC
+## The Second Olynthiac
 
 § 14. _Timotheus, &c_. In 364 an Athenian force under Timotheus invaded
 the territory of the Olynthian League, and took Torone, Poteidaea, and
@@ -4629,8 +4598,7 @@ Three Hundred were divided equally among the 100 Boards, a leader, a
 'second', and a 'third' (Speech on Crown, § 103) being assigned to
 each. The 'general' here perhaps corresponds to the 'second'.
 
-
-THE THIRD OLYNTHIAC
+## The Third Olynthiac
 
 § 4. _two or three years ago_ (lit. 'this is the third or fourth year
 since). It was in November 352 B.C. If the present Speech was delivered
@@ -4737,8 +4705,7 @@ to the citizens.
 _somebody's mercenaries_. The reference is probably to the successes of
 Charidemus when first sent (see Introd. to Olynthiacs).
 
-
-ON THE PEACE
+## On the Peace
 
 § 5. _disturbances in Euboea_. Plutarchus of Eretria applied for
 Athenian aid against Callias of Chalcis, who was attacking him with the
@@ -4827,8 +4794,7 @@ _shadow at Delphi_: i.e. the empty privilege (as Demosthenes here
 chooses to represent it) of membership of the Amphictyonic League and
 Council, now claimed by Philip.
 
-
-THE SECOND PHILIPPIC
+## The Second Philippic
 
 § 1. _sympathetic_: i.e. towards other Greek states, desirous of
 securing independence.
@@ -4913,8 +4879,7 @@ _further claim_: since an attack on the part of Demosthenes would
 incite them to make out a plausible case for Philip once more, and so
 earn his gratitude.
 
-
-ON THE EMBASSY
+## On the Embassy
 
 [The literal translation of the title is 'On the misconduct as
 ambassador'.]
@@ -5383,8 +5348,7 @@ Introd. to Speech on the Peace).
 
 § 342. _Euthycrates_. See Introd. to Olynthiacs.
 
-
-ON THE CHERSONESE
+## On the Chersonese
 
 § 9. The argument is, 'if Philip is not committing hostilities so long
 as he keeps away from Attica, Diopeithes is not doing so, so long as he
@@ -5494,8 +5458,7 @@ days. (Speech against Androtion, § 14.)
 § 75. _best counsel that he can_. The text is probably corrupt; but
 this was probably the sense of the original.
 
-
-THE THIRD PHILIPPIC
+## The Third Philippic
 
 § 2. _actively at work_: the reference is to Diopeithes (see Speech on
 Chersonese, § 57).
@@ -5592,8 +5555,7 @@ afterwards so strongly opposed.
 
 § 72. _embassies_. See Introd. to Speech on Chersonese.
 
-
-ON THE CROWN
+## On the Crown
 
 § 1. _to take counsel_, &c. Aeschines had asked the jury to refuse
 Demosthenes a hearing, or at least to require him to follow the same
@@ -6177,10 +6139,7 @@ Glaucus, a celebrated boxer early in the fifth century.
 § 320. _owner of a stud_. To keep horses was a sign of great wealth in
 Athens.
 
-
-
-
-  INDEX
+## Index
 
   Abdera, i.
   Abydos, ii.

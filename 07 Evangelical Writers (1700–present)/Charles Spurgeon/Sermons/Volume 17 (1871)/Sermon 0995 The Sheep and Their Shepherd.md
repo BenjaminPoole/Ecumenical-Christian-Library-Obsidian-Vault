@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/17
 ---
-
 # The Sheep and Their Shepherd
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 995
@@ -107,7 +106,7 @@ So, now, in closing, let us say that in the text there is mutual knowledge. “I
 
 ### *Letter from Mr. Spurgeon, read at the Tabernacle on Lord’s-day, June 18th:—*
 
-MY BELOVED FRIENDS,—
+## My Beloved Friends,—
 
 As soon as the church had resolved to meet for special prayer for me, I began rapidly to recover. It pleased God to turn the wind at the beginning of this week, and the change in the temperature has worked wonders. We may truthfully say of the Wednesday meeting for prayer, that the Lord fulfilled his word: “Before they call, I will answer; and while they are yet speaking, I will hear.” For all this great goodness I pray you to unite with me in sincere and intense gratitude to the Lord our God.
 
@@ -122,7 +121,6 @@ The collection to-day is to enable the London Baptist Association to build a new
 Peace be with you and the Lord’s own anointing. May those who speak to you to-day be filled with the Spirit. May the soft south wind of the Spirit’s love be among you, and may you pour forth praise as flowers breathe perfume.
 
 Yours very truly,
-
 
 ---
 [[Sermon 0994 The Prayer of Jabez|← #994]] · [[Volume 17 (1871)|Volume 17 (1871) Contents]] · [[Sermon 0996 The Alarum|#996 →]]

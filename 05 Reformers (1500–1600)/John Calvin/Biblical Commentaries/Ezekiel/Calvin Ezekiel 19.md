@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 19
 
-**CHAPTER 19**
+***Chapter 19***
 
 ## Ezekiel 19:1-4
 
@@ -39,7 +38,7 @@ I cannot proceed futher.
 
 ## Prayer Lecture 58
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are all so depraved by nature that we are not only most deserving of being cast into the midst of lions, but are unworthy of being reckoned among thy creatures, that you may extend thy hand to us, and manifest thy wonderful power in reforming us; and may your image be so renewed in us, that we may daily make more and more progress in true piety and righteousness, until at length all the corruption’s of the flesh may be abolished, and we may be partakers of that eternal glory which your only-begotten Son has acquired for us. — Amen.
 
@@ -105,7 +104,7 @@ Here the Prophet comes down to the close of their woes, when Zedekiah was dragge
 
 ## Prayer Lecture 59
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have once deigned to insert us into the body of thy Son, that we may be such vine-branches as you have undertaken to cultivate: that by the power of thy Spirit we may be so watered as never to be deficient in spiritual rigor: and may we so bear fruit to the glory of thy name, that we may at length arrive at the fountain of our faith when we enjoy the celestial glory to which you have adopted us in the same, your only-begotten
 

@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XVI — Of the Church
 
 ## Chap. XVI. — Of the Church.
@@ -20,7 +19,7 @@ A. His church. Acts xx. 28; Eph. v. 32.
 
 Q. 2. What is the church of Christ?
 
-A. The whole company of God’s[^1] [^2] [^3] [^4] [^5] elect, ^acalled ^bof God, ^cby the Word and Spirit, ^dout of their natural condition, to the dignity of his children, and ^eunited unto Christ their head, by faith, in the bond of the Spirit. ^aActs ii. 47; 1 Tim. v. 21; Heb. xii. 22–24. ^bRom. i. 5, 6, ix. 11, 24; 1 Cor. iv. 15; 2 Tim. i. 9. ^cActs xvi. 14; John iii. 8; 1 Cor. iv. 15; 1 Pet. i. 23; Heb. viii. 10. ^dEph. ii. 11–13; Col. i. 13; Heb. ii. 14, 15; 1 Pet. ii. 9. ^eJohn xvii. 21; Eph. ii. 18–22.
+A. The whole company of God’s[^1] [^2] [^3] [^4] [^5] elect, [^a1]called [^b1]of God, [^c1]by the Word and Spirit, [^d1]out of their natural condition, to the dignity of his children, and [^e1]united unto Christ their head, by faith, in the bond of the Spirit.
 
 Q. 3. Is this whole church always in the same state?
 
@@ -42,7 +41,6 @@ Q. 7. Can this church be wholly overthrown on the earth?
 
 A. No; unless the decree of God may be changed, and the promise of Christ fail. Matt. xvi. 18, xxviii. 20; John xiv. 16; John xvii.; 1 Tim. iii. 15; 2 Tim. ii. 19.
 
-
 ---
 [^1]: The elect angels belong to this church.
 [^2]: No distance of time or place breaks the unity of this church: heaven and earth, from the beginning of the world unto the end, are comprised in it.
@@ -51,6 +49,15 @@ A. No; unless the decree of God may be changed, and the promise of Christ fail. 
 [^5]: The pope, challenging unto himself the title of the head of the catholic church, is blasphemously rebellious against Jesus Christ.
 [^6]: This is that ark out of which whosoever is shall surely perish.
 
+[^a1]: Acts ii. 47; 1 Tim. v. 21; Heb. xii. 22–24.
+
+[^b1]: Rom. i. 5, 6, ix. 11, 24; 1 Cor. iv. 15; 2 Tim. i. 9.
+
+[^c1]: Acts xvi. 14; John iii. 8; 1 Cor. iv. 15; 1 Pet. i. 23; Heb. viii. 10.
+
+[^d1]: Eph. ii. 11–13; Col. i. 13; Heb. ii. 14, 15; 1 Pet. ii. 9.
+
+[^e1]: John xvii. 21; Eph. ii. 18–22.
 
 ---
 [[TSC 19 Chapter XV — Of the Persons to whom the Benefits of Christ’s Offices do belong|← Chapter XV — Of the Persons to whom the Benefits of Christ’s Offices do belong]] · [[Two Short Catechisms|Contents]] · [[TSC 21 Chapter XVII — Of Faith|Chapter XVII — Of Faith →]]

@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 85
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 That the oath ought not to be taken.
 

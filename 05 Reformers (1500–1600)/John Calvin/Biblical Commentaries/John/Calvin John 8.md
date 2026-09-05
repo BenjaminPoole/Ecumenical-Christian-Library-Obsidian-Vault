@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## John 8:1-11
 

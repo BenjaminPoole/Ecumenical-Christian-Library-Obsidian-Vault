@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 1. Introductory Notice to the Answer to Sir Thomas More
 
-TYNDALE'S ANSWER
+*Tyndale's Answer*
 
 SIR THOMAS MORE'S DIALOGUE,
 
@@ -55,11 +54,11 @@ p. 335, 1. 19, for tasle, r. stale. Vol. in. p. 270, 1. 8, for Lib. i. r. Lib. i
 
 p. 272, 1. 9, for xiv. r. xix.
 
-SIR THOMAS MORE'S DIALOGUE.
+## Sir Thomas More's Dialogue
 
-[TYNDALE, HI.]
+## [Tyndale, Hi.]
 
-[INTRODUCTORY NOTICE.
+## [Introductory Notice
 
 IT was in 1528, that Sir Thomas More, being already regarded as the most accomplished scholar in England, and having before his eyes a near prospect of being invited to fill the chief place in his sovereign's council, was induced to accept bishop Tonstal's permission to read the works of the reformers, that he might be qualified to refute them1; nor did he suffer the year to elapse before he had com posed, as the first fruits of his consequent researches and zeal, an imaginary dialogue between himself and the confidential messenger of a friend desirous to know his opinions respecting the religious ques tions which were then forcing themselves into general notice. In the edition of Sir Thomas More's works, printed at London in 1557, and then dedicated to queen Mary, as " To that person to whom specially of all worldly creatures the editor [William Rastell, Serjeant at law] trusted the book should be most acceptable," the title of this effort to write down Tyndale and his labours is as follows: "A dialogue of Sir Thomas More, knt. one of the council of our sovereign lord the king, and chancellor of his duchy of Lancaster. Wherein he treated divers matters, as of the veneration and worship of images and reliques, praying to saints, and going on pilgrimages, with many other things touching the pestilent sect of Luther and Tyndale, by the one begun in Saxony, and by the other labored to be brought into England. Made in the year of our Lord, 1528." The dialogue was divided by its author into four books; and occupies in that quarto edition a hundred and eighty-four closely printed pages.
 

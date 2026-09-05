@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 26. What believest thou when thou sayest, "I believe in God the Father Almighty, maker of Heaven and Earth?"
-
-**Question 26. What believest thou when thou sayest, "I believe in God the Father Almighty, maker of Heaven and Earth?"**
 
 Answer. That the eternal Father of our Lord Jesus Christ, (who of nothing made heaven and earth, with all that is in them, who likewise upholds and governs the same by his eternal counsel and providence,) is for the sake of Christ his Son, my God and my Father; on whom I rely so entirely, that I have no doubt but he will provide me with all things necessary for soul and body; and further, that he will make whatever evils he sends upon me, in this valley of tears, turn out to my advantage; for he is able to do it, being Almighty God, and willing, being a faithful Father.
 
-**EXPOSITION**
+## **Exposition**
 
 I believe in God. To believe God and to believe in God, are two very different things. The first expresses historical faith; the latter, true faith or confidence; for when I say, I believe that God is, if I speak properly, I believe there is a God, and that he is such an one as he hath revealed himself in his word, viz: a spiritual essence, omnipotent, &c., the eternal Father, Son, and Holy Ghost. When I say, I believe in God, I mean, I believe that he is my God, that is, whatever he is and has is all for my salvation. Or, to believe God, speaking properly, is to believe a certain person to be God, according to all his attributes. To believe in God, is to be persuaded that he will make all things attributed to him subservient to my salvation, for the sake of his Son.
 
@@ -44,7 +41,7 @@ II. How did he create it?
 
 III. Wherefore, or for what end, did he create it?
 
-**I. DID GOD CREATE THE WORLD?**
+## **I. DID God Create the World?**
 
 We must first define and understand what is meant by the terms here used. To create is to produce something out of nothing. The term world is used in the Scriptures in four different significations. It means: 1. The structure, or frame, of the whole universe, comprising heaven, earth, and all things which are in them. "The world was made by him." (John 1:10.) 2. Worldly concupiscence. 3. The ungodly, or unregenerate, who are in the world. (John 17:9.) 4. Those who are chosen out of the world. "That the world may believe that thou hast sent me." "God so loved the world." (John 17:21; 3:16.)
 
@@ -62,7 +59,7 @@ Obj. 1. It is absurd (philosophers tell us) to suppose that God is idle. Ans. It
 
 Obj. 2. Every thing which has a beginning, has an end. The world has no end. Therefore it had no beginning. Ans. The major is to be distinguished. Every thing that has a beginning through natural generation has an end; for corruption does not follow creation, but the generation of one thing out of another, by the order of nature. And the power of God is certainly sufficient, that he can either preserve in the same state, or change, or reduce to nothing, as well those things which he formed out of others, as those which he produced out of nothing.
 
-**II. HOW DID GOD CREATE THE WORLD?**
+## **II. How DID God Create the World?**
 
 1. God, the Father, created the world through the Son and Holy Ghost. Of the Son, it is said, "All things were made by him." (John 1:3.) Of the Holy Ghost, it is said, "The Spirit of the Lord moved upon the face of the waters." "The Spirit of God hath made me." (Gen. 1:2. Job 33:4.)
 
@@ -84,7 +81,7 @@ The world has, therefore, existed,
 
 These calculations harmonize sufficiently with each other in the larger numbers, although some years are either added or wanting in the smaller numbers. According to these four calculations, made by the most learned men of our times, it will appear, by comparing them together, that the world was created by God at least not much over 5,559 or 5,579 years. The world, therefore, was not created from everlasting, but had a beginning.
 
-**III. FOR WHAT END DID GOD CREATE THE WORLD?**
+## **III. For What End DID God Create the World?**
 
 The ends for which God created the world are, some general, and others special and subordinate.
 
@@ -100,7 +97,7 @@ The ends for which God created the world are, some general, and others special a
 
 The use of the doctrine of the creation of the world is: 1. That all the glory thereof may be attributed to God, and that his wisdom, power, and goodness, may be known and acknowledged from the works of creation. 2. That we may withdraw our confidence from all created things, and place our trust in God alone, the author and giver of salvation.
 
-**TENTH LORD'S DAY**
+## **Tenth Lord's Day**
 
 ---
 [[Ursinus HC Q25|← Question 25. Since there is but one divine e]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q27|Question 27. What dost thou mean by the prov →]]

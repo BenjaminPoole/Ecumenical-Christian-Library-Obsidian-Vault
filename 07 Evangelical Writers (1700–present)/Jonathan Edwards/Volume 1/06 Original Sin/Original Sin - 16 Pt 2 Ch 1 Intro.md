@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. I.
 
-OBSERVATIONS RELATING TO THINGS CONTAINED IN THE THREE FIRST CHAPTERS OF GENESIS, WITH REFERENCE TO THE DOCTRINE OF ORIGINAL SIN.
+*Observations Relating to Things Contained in the Three First Chapters of Genesis, with Reference to the Doctrine of Original Sin*
 
 ---
 

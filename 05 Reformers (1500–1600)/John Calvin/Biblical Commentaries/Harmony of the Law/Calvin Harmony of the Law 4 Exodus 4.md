@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 4. Exodus 4
-
-**EXODUS 4**
 
 ## Exodus 4:1-9
 

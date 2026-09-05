@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 2. The Original Life of Zwingli, by Oswald Myconius
 
 The Original Life of Zwingli
@@ -122,8 +121,6 @@ For the rest they not only called him thief and heretic and adulterer, so blacke
 
 To sum up it came about there were formed new alliances for the defence of the doctrine of Christ, the old ones being left unmolested not without great exertions and planning by Zwingli, not surely that anything was attempted against his country (this was impossible in such a fosterer of his country), but because in accordance with the course once begun he had resolved to eradicate vices and establish the evangelical doctrines thus to the praise of God and the advantage of all
 
-20 Original Life of Zwingli
-
 Switzerland, nor because he aimed at protecting the things of God in this way, but because he desired nothing more than that all nations might confess the Lord, and that the extent of the alliance might terrify the minds of the ungodly, and so more easily win them to Christ,
 
 XI. — Two civil wars, called the Cappel Wars, in which Zwingli participated; in the first {152Q) he was in the midst of the deliberations, in the second {1531) he was chosen chaplain.
@@ -133,8 +130,6 @@ And so it came even to war, but what kind of war as far as our hero and the men 
 Cappel Wars 21 apologetic for us." Thus far he. I have transcribed his words the more wilHngly because they testify to you, Agathius, in the most convincing manner how entirely unjust it is to represent Zwingli as sanguinary. He was indeed a brave man in danger, intrepid and wise, but it was as far from him to thirst for the blood of even the most inveterate enemy as it should be from every wise man and every minister of Christ. The liberty of the country, the virtues of the fathers, and most of all the glory of God and of Christ were both foundation and aim of all his plans, whatever all the enemies of Zwingli in all nations say, whatever they shout, whatever they maintain. Behold, I speak the truth before you and God.
 
 He therefore took part in the two civil wars, each of which is named the Cappel War from the monastery called the Chapel. To the first he went of his own motion, so that he might be present at the deliberations lest anything might occur contrary to what was true and right. Most happily things fell out and it was concluded without bloodshed. About it he often related to me that in it he had encountered more malice and perverse counsel than in his whole life he had learned from experience or from books. In the second war he was elected chaplain, and although he told himself as well as others that he would not go, nevertheless he went. His divining mind saw what the future had in store. The cause of war never met his approval, i.e., the cutting off of provisions [from the Forest Cantons], for he knew what kind of counsel famine gives. Albeit, to speak frankly, after this plan [to cut off provisions] had been once accepted by the reluctant Zurichers (for others whom we know well had taken it up in no bad spirit since they thought by consultation and discussion a way would be found meanwhile for pacificatory measures even though the Zurichers had preferred a war), Zwingli was not pleased, since he feared that a change would only bring them into greater contempt with their adversaries, although he did not so very strenuously oppose it.
-
-22 Original Life of Zwingli
 
 XII. — Zwingli perishes in the Second Cappel War. He left Zurich Jor the front early on Oct. Ji, 1531 ; a7id was killed that afternoon.
 
@@ -147,8 +142,6 @@ Zwingli's Death 23
 "What evil is there in this? They are able, it is true, to kill the body but not the soul." And having so spoken he fell asleep presently in the Lord. After the defeat, during the leisure given to the enemy (for our soldiers had retired into a well guarded place) the body of Zwingli was sought for (and who told them so quickly that he had been present in the battle or had fallen?), was found, tried and condemned, cut into four parts, thrown into the fire, reduced to ashes. The enemy having retired after the third day, friends of Zwingli went to see if they could perchance find any remains of him, and lo ! (strange to say) his heart presented itself from the midst of the ashes whole and uninjured. The good men were astounded, recognising the miracle indeed, but not understanding it. Wherefore, attributing everything to God, they rejoiced because this supernatural fact had made more sure the sincerity of his heart. A man whom I knew very well, in fact very intimately, came to me shortly afterwards asking whether I desired to see a portion of Zwingli's heart which he carried with him in a casket. Because a sort of horror on account of this sudden remark pervaded my whole body I declined. Otherwise, I could have been an eyewitness of this thing also.
 
 This, then, is the course of Zwingli's life, this the way of his death which the loyalty of his soul to his country and the devotion of his heart to the Republic of Christ brought upon him, horrible, indeed, in the eyes of men, precious in the sight of God, such a death as awaits all teachers of the divine righteousness unless the Lord in His singular grace prevent and save them. I think I have fulfilled your request, Agathius. What I promised I have given, truth and brevity; bound to no elegance of diction, I have indulged in none. I hope there may appear in the future some one who for the use of the studious pious shall put the finishing hand upon all these things, making his narrative as attractive as possible while in accordance with truth, and giving it the elegance which is worthy so excellent a man.
-
-24 Original Life of Zwingli
 
 Farewell to you and interpret this my compliance [with your request] without prejudice.
 

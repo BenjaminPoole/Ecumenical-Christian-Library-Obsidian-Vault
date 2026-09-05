@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 33. Deuteronomy 26:16-19
-
-**DEUTERONOMY 26**
 
 **16.** This day the Lord thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.
 

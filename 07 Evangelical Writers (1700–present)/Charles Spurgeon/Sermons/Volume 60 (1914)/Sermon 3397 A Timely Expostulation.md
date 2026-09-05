@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # A Timely Expostulation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3397
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Why seek you the living among the dead" Luke 24:5.
 
@@ -59,7 +56,7 @@ A moment's reflection might convince a man that this final scene inevitably awai
 
 Let me change my tone again, for now I come to address a part of this company of people—
 
-III. THOSE WHO ARE ANXIOUSLY CONCERNED TO BE FOUND RIGHT WITH GOD.
+## III. Those Who Are Anxiously Concerned to Be Found Right with God
 
 Some of you, dear Friends, have known the evil of sin and have turned from its evil ways. But though you are desirous of being saved from the wrath to come, you are very likely seeking salvation where it is not to be obtained. A few counsels and cautions may, therefore, be welcome to you.
 
@@ -75,13 +72,13 @@ When I came—and it seems fresh in my memory tonight as I mention it to you—I
 
 Ah, some of you poor people drop in here, sometimes, on an evening, and I am glad to see you. Never be ashamed to come in your working clothes. I know you think I am not talking to you, but you are the very people I am speaking to! Jesus Christ always had a kind word for the laboring man—"Come unto Me, all you that labor and are heavy laden, and I will give you rest." Now, it is likely enough some of you are no better than you should be, though you have stepped in here in the crowd to hear a word. Well, it is such as you are, Christ came to save. "Not the righteous. Sinners, Jesus came to save." Oh, you chief of sinners! Come to Jesus Christ! This night He will receive every soul that comes to Him. Eternal Spirit draw them! Eternal Father, now call them by Your power and let us meet at Your right hand, everyone of us, to see Your face and rejoice in Your mighty love!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 9:1-5; ROMANS 10.
+## Exposition by C. H. Spurgeon: Romans 9:1-5; Romans 10
 
 Verses 1-3. I tell the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Spirit That I have great heaviness and continual sorrow in my heart For I could wish that I, myself, were accursed from Christ for my brethren, my kinsmen according to the flesh. The Apostle is evidently about to make an extraordinary statement—a statement which would probably not be believed and, therefore, he gives as a preface the most solemn assertions that are permitted to Christian men declaring that he is speaking the truth, and also that the Holy Spirit is bearing witness with his conscience that it is so—that he so loves the souls of his fellow countrymen that, though the thing could never be, yet in a sort of ecstasy of love, he could devote himself to anything so long as his countrymen might but be saved. "My kinsmen according to the flesh."
 
 4, 5. Who are Israelites; to whom pertains the adoption, and the glory and the covenants, and the giving of the Law, and the service of God, and the promises: Whose are the fathers and of whom as concerning the flesh, Christ came, who is over all, the eternally blessed God forever Amen. The Apostle never omits an opportunity of magnifying his Master! Though it did not seem to be called for by the immediate subject in hand, yet he must put in a doxology to the name of Jesus. "Who is over all the eternally blessed God forever. Amen." How any Believers in Scripture ever get to be disbelievers in the Deity of Christ is altogether astounding! If there is anything taught in the Word of God, it is assuredly that Paul comforts himself, in a measure, by the Doctrine of Election which is fully spoken to in this Chapter. My subject leads me to read again at the 10th Chapter.
 
-ROMANS 10.
+## Romans 10
 
 Verse 1. Brethren my heart's desire and prayer to God for Israel is that they might be saved. The same thing over again—his deep concern for his countrymen.
 
@@ -110,7 +107,6 @@ Verse 1. Brethren my heart's desire and prayer to God for Israel is that they mi
 19, First Moses says, I will provoke you to jealousy by them that are no people and by a foolish nation I will anger you.And the heathen thus, like ourselves, were accounted dogs by the Jews, but the Lord has brought us in and made us to believe in Christ because they rejected Him! What a wonderful passage that is about the great supper which the King made, when we read, because the invited guests did not come, the King, being angry, said unto His servants, "Go you out into the highways and hedges, and compel them to come in." Even the anger of God, you see, works good to some! He was angry with the guests that did not come, but then He called us in! His anger against the Jewish people has turned to the salvation of the Gentiles, for which may God be praised! But, may Israel be gathered, too!
 
 20, 21 But Isaiah is very bold, and says, I was found of them that sought Me not I was made manifest unto them that asked not after Me. But to Israel He says, All day long I have stretched forth My hands unto a disobedient and gainsaying people.
-
 
 ---
 [[Sermon 3396 Experiencing Confirming Testimony|← #3396]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3398 Love's Great Reason|#3398 →]]

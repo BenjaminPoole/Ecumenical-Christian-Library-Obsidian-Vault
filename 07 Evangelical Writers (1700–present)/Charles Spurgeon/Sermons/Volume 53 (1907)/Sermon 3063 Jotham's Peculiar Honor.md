@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Jotham's Peculiar Honor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3063
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So Jotham became mighty, because he prepared his ways before the Lord his God." 2 Chronicles 27:6.
 
@@ -98,7 +95,6 @@ If a man's ways are prepared before the Lord his God, he will be mighty, not onl
 I have been preaching to you about a very wonderful example of a gracious man. I wonder whether all here wish to be like he? I am afraid there are some of you who never try to prepare your ways at all. And as for preparing your ways before the Lord, that idea has never struck you. And yet, my dear Hearer, what can be so safe a way of living as to live in the love of God? And what can be more unhappy than for a man to be out of gear with the Omnipotent Creator—to feel every day you live that you are forgetting God and are ungrateful to Him—and that He is angry with you? I hope that this thought will strike some of you to the heart and make you miserable until all that is altered! And the way for it to be altered is for you to submit yourself to God by repentance and by looking to Jesus Christ by faith. May His Holy Spirit lead you to do so now, and then you will begin to live the happiest of lives, for you will be preparing your ways before the Lord your God.
 
 May God bless you all for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3062 The Spirit's Office Towards Disciples|← #3062]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3064 'And It Was So'|#3064 →]]

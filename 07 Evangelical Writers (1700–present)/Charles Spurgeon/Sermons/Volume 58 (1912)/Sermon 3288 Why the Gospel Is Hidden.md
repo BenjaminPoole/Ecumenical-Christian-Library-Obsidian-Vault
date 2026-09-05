@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Why the Gospel Is Hidden
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3288
-
-DELIVERED BY C. H. SPURGEON.
 
 > "But if our Gospel is hidden, it is hidden to those who aire lost." 2 Corinthians 4:3.
 
@@ -95,7 +92,7 @@ There are some who cannot understand the Gospel because it interferes with their
 
 II. Now I must try very briefly to answer the second question, WHAT IS THE STATE OF THOSE FROM WHOM
 
-THE GOSPEL IS HIDDEN?
+## The Gospel Is Hidden?
 
 Paul says that they are lost—"If our Gospel is hidden, it is hidden to those who are lost." But, Paul, are you not very uncharitable in saying that men are lost? Preachers nowadays tell them that they will all get to Heaven at last. Ah, Beloved, the Apostles knew nothing of this modern, maudlin "charity!" They said, as their Master said before them, "He that believes not shall be damned." Our Lord Jesus Christ knew that there was no alternative between believing and being lost. But in what sense are they from whom the Gospel is hidden, lost?
 
@@ -115,7 +112,7 @@ Some of you young men are perhaps going to Oxford or Cambridge. Well, study hard
 
 My time has gone and your time for repentance and faith is almost gone. May the realities of eternity be deeply impressed upon us all—and may we be prepared—when death shall summon us to stand before God, to prove that the Gospel was not hidden from us, so that we may not be among "those who are lost." May God save us, by His Grace, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 4; 5:1-9.
+## Exposition by C. H. Spurgeon: 2 Corinthians 4; 5:1-9
 
 2 Corinthians 4:1-2. Therefore, seeing we have this ministry, as we have received mercy, we faint not; but have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the Word of God deceitfully; but by manifestation of the Truth commending ourselves to every man's conscience in the sight of God. Paul's description of his own ministry and also that of Timothy should be true of every servant of Jesus Christ! There must be no dishonesty, or craftiness, or deceit about the minister of the Word of God—and it is by the manifestation of the Truth of God that he must commend himself to every man's conscience in the sight of God! He may not win every man's approval, yet even those who differ from him must perceive his loyalty to his Lord.
 
@@ -148,7 +145,6 @@ of cherubim and seraphim—and He might have sent angels who would never suffer,
 OUT OF THE BODY.] That is our main business—whether we live or
 
 whether we die is of no consequence at all! But to be accepted of Christ—so to live is to be well-pleasing to God. Be this our heavenly ambition and may the Holy Spirit graciously enable us to attain to it!
-
 
 ---
 [[Sermon 3287 The Only Door|← #3287]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3289 The Sealed Hand—a Winter Sermon|#3289 →]]

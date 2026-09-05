@@ -11,18 +11,17 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 42. Letter XL. T. to John of Chlum
 
-LETTER XLT. TO JOHN OF CHLUM
+*Letter Xlt. To John of Chlum*
 
 (January 1415)
 
 Get me a Bible, please ; Asks Sigismund to release him ; He has been ill 173-4
 
-INQUISITION AT WORK ; COMMISSION APPOINTED ; "A DOZEN
+## Inquisition at Work ; Commission Appointed ; "A Dozen
 
-MASTERS" 175
+## Masters" 175
 
 ---
 [[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|← 41. Letter XL. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 43 Letter XLIL. To the Same (February 1415)|43. Letter XLIL. To the Same (February 1415) →]]

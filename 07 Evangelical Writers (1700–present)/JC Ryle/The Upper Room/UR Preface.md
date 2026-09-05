@@ -9,7 +9,6 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Preface
 
 *The Upper Room* — J. C. Ryle
@@ -22,8 +21,7 @@ Palace, Liverpool
 
 1 December 1887
 
-J. C. LIVERPOOL
-
+## J. C. Liverpool
 
 ---
 [[The Upper Room|Upper Room Contents]] · [[UR 01 They Went Up into an Upper Room|They Went Up into an Upper Room. →]]

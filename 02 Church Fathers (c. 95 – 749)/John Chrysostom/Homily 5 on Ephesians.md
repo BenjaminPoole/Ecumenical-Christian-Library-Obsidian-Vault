@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 5 on Ephesians
 
-Chapter II. Verses 11, 12
+## Chapter II. Verses 11, 12
 
 Wherefore remember, that aforetime ye the Gentiles in the flesh, who are called Uncircumcision by that which is called Circumcision in the flesh made by hands; that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope, and without God in the world.
 

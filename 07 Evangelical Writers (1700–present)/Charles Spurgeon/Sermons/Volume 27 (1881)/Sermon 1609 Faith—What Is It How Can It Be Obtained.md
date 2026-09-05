@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Faith—What Is It? How Can It Be Obtained?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1609
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 17, 1881,.
+*Delivered on Lord's-Day Morning, July 17, 1881*
 
 > "By Grace are you saved through faith." Ephesians 2:8.
 
@@ -144,7 +143,6 @@ The foreman of a certain works in the north had often heard the Gospel, but he w
 I advise you to think much upon it and search out the Grace and love which it contains. Study the four Evangelists. Study Paul's Epistles and then see if the message is not such a credible one that you are forced to believe it! If that does not do, then think upon the Person of Jesus Christ—think of who He is and what He did—and where He is now and what He is now. Think often and deeply. When He, even such an one as He, bids you trust Him, surely your heart will be persuaded! How can you doubt Him? If none of these things avail, then there is something altogether wrong about you, and my last word is, submit yourself to God! May the Spirit of God take away your enmity and make you yield! You are a rebel, a proud rebel, and that is why you do not believe your God. Give up your rebellion! Throw down your weapons! Yield at discretion and surrender to your King!
 
 I believe that never did a soul throw up its hands in self-despair and cry, "Lord, I yield," but what faith became easy to it before long. It is because you still have a quarrel with God and intend to have your own will and your own way that you cannot believe. "How can you believe," said Christ, "that have honor one of another?" Proud self creates unbelief. Submit, O man! Yield to your God and then shall you sweetly believe in your Savior. God bless you, for Christ's sake, and bring you, at this very moment, to believe in the Lord Jesus. Amen.
-
 
 ---
 [[Sermon 1608 The Double Come|← #1608]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1610 A Miniature Portrait Of Joseph|#1610 →]]

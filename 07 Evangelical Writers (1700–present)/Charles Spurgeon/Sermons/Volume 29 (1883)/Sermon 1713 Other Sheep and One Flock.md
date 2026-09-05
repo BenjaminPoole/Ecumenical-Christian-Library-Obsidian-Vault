@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Other Sheep and One Flock
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1713
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 25, 1883,.
+*Delivered on Lord's-Day Morning, March 25, 1883*
 
 > "And other sheep I ha ve which are not of this fold; them also I must bring, and they shall hear My voice and they shall be one fold and one shepherd (or more correctly one flock; one shepherd)." John 10:16.
 
@@ -152,7 +151,6 @@ The external Church is necessary, but it is not the one and indivisible Church o
 Follow Jesus and you are right. Follow Him everywhere and you are happy. The best way to promote the unity of the Church is for all the sheep to follow the Shepherd. If they all follow the Shepherd, they will all keep together. Let us go forth and try and do that—and let us long for that happy day when all disputed points shall be settled by all obeying the Lord. Compromises would only mean an agreement to disobey the Lord! Let no man yield a principle under pretense of charity—it is not charity to call any Truth of God a lie! We must follow Jesus fully and we shall come together. First pure, then peaceable, is the rule.
 
 Oh, when shall the triple banner again float over all—"One Lord, one Faith, one Baptism!"? Oh God, the Holy Spirit, forgive us our errors and bring us to Your Truth! Oh God, the Son, forgive us our need of holiness and renew us in Your own image! Oh God the Father, forgive us our lack of love and melt us into one family! To the one God be glory in the one Church forever and ever! Amen.
-
 
 ---
 [[Sermon 1712 Filling the Empty Vessels|← #1712]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1714 Earnest Expostulation|#1714 →]]

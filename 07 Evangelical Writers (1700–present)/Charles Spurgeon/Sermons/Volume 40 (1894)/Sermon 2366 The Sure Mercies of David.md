@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "The Sure Mercies of David"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2366
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And as concerning that He raised Him up from the dead, no w no more to return to corruption, He said on this wise, I will give you the sure mercies of David." Acts 13:34.
 
@@ -148,7 +145,6 @@ were a favored people, it was by the election of Divine Grace that they were suc
 43, 44. Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the Grace of God. And the next Sabbath came almost the whole city together to hear the Word of God. There is something attractive about the Gospel. I do not think they sent out a trumpeter—the preaching of the Gospel is all the trumpet that is needed to gather the people together! If we will but preach it in the power and plenitude of the Spirit of God, it will soon attract a congregation, as it did in this instance.
 
 45-49. But when the Jews saw the multitude, they were filled with envy and spoke against those things which were spoken by Paul, contradicting and blaspheming. Then Paul and Barnabas waxed bold and said, It was necessary that the Word of God should first have been spoken to you, but seeing you put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation unto the ends of the earth. And when the Gentiles heard this, they were glad, and glorified the Word of the Lord: and as many as were ordained to eternal life believed. And the Word of the Lord was published throughout all the region. God send us days like that, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2365 Goodness, as a Morning Cloud|← #2365]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2367 God's Hidden Ones|#2367 →]]

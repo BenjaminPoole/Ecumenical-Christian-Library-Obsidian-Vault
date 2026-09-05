@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Acts 16:1-5
 

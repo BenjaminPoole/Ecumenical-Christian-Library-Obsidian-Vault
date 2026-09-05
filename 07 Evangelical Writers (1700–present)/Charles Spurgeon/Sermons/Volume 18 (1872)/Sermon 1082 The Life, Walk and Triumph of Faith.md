@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # The Life, Walk and Triumph of Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1082
 
-DELIVERED.
+*Delivered*
 
 > "And when Abram was ninety-nine years old, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before Me, and be you perfect. And I will make My covenant between Me and you, and will multiply you exceedingly." Genesis 17:1,2.
 
@@ -158,7 +157,6 @@ Have hope, my Brothers and Sisters! Have hope for a higher platform of character
 But many a child of God walks obstinately and the Lord will not fully reveal the covenant to such. Some of His Peters follow afar off and they get into trouble—they do not enjoy the sweets of Divine fellowship and peculiar manifestation. But this careful walking, this close walking, this keeping near to an All-Sufficient God, this resting solely in Him—O, this it is that brings the sweetness and the joy which are the foretaste of Heaven—which are, indeed, a young Heaven begun this side the tomb!
 
 I pray the Lord will bring my dear friends all into holy fellowship with Himself! And if any of you have not come to the border of the happy land, I pray you may be led there at once. The way of salvation is, "Believe in the Lord Jesus Christ." Faith is both the road to the highest happiness and the way to the first safety—faith is both the highest round of the ladder and its first step—"Believe in the Lord Jesus Christ, and you shall be saved." Have done with self-righteous works and come to the trusting. Have done with seeking to save self and accept Jesus alone as your Redeemer! The Lord grant you Grace to do so and His shall be the praise forever and ever! Amen.
-
 
 ---
 [[Sermon 1081 A Visit to the Tomb|← #1081]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1083 Living Temples for the Living God|#1083 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 6. Luke 1:26-33
-
-**LUKE 1:26-33**
 
 **26**. Now in the sixth month the angel Gabriel was sent by God to a city of Galilee, named Nazareth, **27**. To a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin's name was Mary. **28**. And the angel, coming in to her, said, Hail, thou who hast found favor, the Lord is with thee: blessed art thou among women. **29**. But when she had seen him, she was agitated by his address, and was considering what that salutation would be. **30**. And the angel saith to her, Fear not, Mary: for thou hast found favor with God. **31**. Behold, thou shalt conceive in thy womb, and shalt bring forth a son, and thou shalt call his name JESUS. **32**. He shall be great, and shall be called the Son of the Highest; and the Lord God will give to him the throne of David his father: **33**. And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
 

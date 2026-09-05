@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Heb 2:1-4
 

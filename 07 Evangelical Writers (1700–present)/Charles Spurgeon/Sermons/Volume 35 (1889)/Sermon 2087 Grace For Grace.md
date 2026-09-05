@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Grace For Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2087
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 19, 1889,.
+*Delivered on Lord's-Day Morning, May 19, 1889*
 
 > "Now we have received, not the spirit of the world but the spirit which is of God, that we might know the things that are freely given to us of God." 1 Corinthians 2:12.
 
@@ -160,7 +159,6 @@ Lastly, if the Lord has given us all these things freely, let us praise Him. I d
 "I will praise Him in life, I willpraise Him in death, And praise Him as long as he lends me breath; And say, when the death-claw lies cold on my brow, 'If ever I loved you, my Jesus, 'tis now.'" The Lord Himself bless you all, according to the riches of His Grace. Amen.
 
 Portions Of Scripture Read Before Sermon—1 Corinthians 1:18-31; 2
-
 
 ---
 [[Sermon 2086 Taking Possession Of Our Inheritance|← #2086]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2088 The Form of Godliness Without the Power|#2088 →]]

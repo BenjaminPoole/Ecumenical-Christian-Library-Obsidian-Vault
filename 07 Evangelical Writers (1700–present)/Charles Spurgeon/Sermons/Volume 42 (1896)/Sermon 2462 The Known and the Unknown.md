@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Known and the Unknown
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2462
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For who knows what is good for man in this life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?" Ecclesiastes 6:12.
 
@@ -95,9 +92,9 @@ To bear me to the King."
 
 God bless you, for Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—757, 39, 626.
+## Hymns from "Our Own Hymn Book"—757, 39, 626
 
-EXPOSITION BY C. H. SPURGEON. PSALM147.
+## Exposition by C. H. Spurgeon. Psalm 147
 
 Verse 1. Praise you the LORD: for it is good to sing praises to our God; for it is pleasant; and praise is comely. "It is good," that is to say, it is a thing that ought to be done, it is a right thing "to sing praises to our God." "It is good," that is to say, it is profitable, it is beneficial to our own hearts. Prayer is refreshing, but praise is even more so, for there may be and there often is, in prayer, the element of selfishness—but praise rises to a yet higher level. Prayer and praise, together, make up spiritual respiration—we breathe in the air of Heaven when we pray—and we breathe it out again when we praise. "It is good to sing praises to our God." What a mercy it is that it is pleasant, too! There are many things that are good that are not pleasant, and many more things that are pleasant that are not good. But here is a holy duty which is also a heavenly pleasure! It is the bliss of Heaven to praise God. Let us anticipate that bliss by praising Him now, "for it is pleasant." And then there is a third commendation—"and praise is comely." That is to say, it is beautiful, it is a good thing in its right place, it is according to the natural and spiritual fitness of things that God should be praised. In God's sight, one of the most beautiful things in the world is a grateful heart—"it is pleasant; and praise is comely."
 
@@ -154,7 +151,6 @@ Verse 1. Praise you the LORD: for it is good to sing praises to our God; for it 
 20\. And as for His judgments, they have not known them. If they have been left in the dark, let us do all we can to carry or send the light of the Gospel to them! And as we think of the great things God has done for us, let us join in a joyful Hallelujah, as the Psalm ends—
 
 20\. Praise you the LORD.
-
 
 ---
 [[Sermon 2461 Rejoicing and Remembering|← #2461]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2463 Why Men Reject Christ|#2463 →]]

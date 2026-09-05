@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Our Lord's Preaching
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3237
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord has anointed Me to preach good tidings unto the meek; He has sent Me to bind up the brokenhearted." Isaiah 61:1.
 
@@ -57,9 +54,9 @@ Carefully give heed to the text, so that you may see whether this message applie
 
 It is a beautiful figure, this binding up—as though the Crucified One took the liniment and the strapping and put it around the broken heart—and with His own dear gentle hands proceeded to close up the wound, and make it cease to bleed. Luke does not tell us that Jesus came to bind up the brokenhearted. If you examine hisversion of the text, you will read that he came to heal them. That is going still further because you may bind a wound up and yet fail to cure it. But Jesus never fails in His surgery. He whose own heart was broken knows how to cure broken hearts! I have heard of people dying of a broken heart, but I always bless God when I meet with those who live with a broken heart because it is written, "A broken and a contrite heart, O God, You will not despise." If you have that broken heart within you, Beloved, Christ came to cure you! And He will do it, for He never came in vain—"He shall not fail nor be discouraged." With Sovereign Power, anointed from on high, He watches for the worst of cases. Heart disease, incurable by man, is His speciality! His Gospel touches the root of the soul's ill, the mischief which dwells in that place from whence are the issues of life. With pity, wisdom, power and condescension He bends over our broken bones and before He has done with them, He makes them all to rejoice and sing praises to His holy name! Come then, you troubled ones, and rely upon your Savior's healing power! Give yourselves up to His care, confide in His skill, rest in His love! What joy you shall have if you will do this at once! What joy shall I have in knowing that you do so! Above all, what joy will fill the heart of Jesus, the Beloved Physician, as He sees you healed by His stripes!
 
-"DO NOT SIN AGAINST THE CHILD"
+## "Do Not Sin Against the Child"
 
-AN ADDRESS DELIVERED BY C. H. SPURGEON,
+## An Address Delivered by C. H. Spurgeon
 
 "And Reuben answered them, saying, Spoke I not unto you, saying, Do not sin against the child, and you would not hear? Therefore, behold, his blood is now required of us."
 
@@ -94,7 +91,6 @@ Now, dear Sunday school teachers, I will mention one or two matters which concer
 And then, you parents, "do not sin against the child" by being so very soon angry. I have frequently heard grown-up people repeat that verse, "Children, obey your parents in all things." It is a very proper text—very proper text—and boys and girls should carefully attend to it. I like to hear fathers and mothers preach from it, but there is that other one, you know. There is that other and—"Likewise, you fathers, provoke not your children to anger, lest they be discouraged." Do not pick up every little thing against a good child and throw it in his or her teeth, and say, "Ah, if you were a Christian child, you would not do this and you would not do that!" I am not so sure about that—you who are heads of families do a great many wrong things, yourselves—and yet I hope you are Christians! And if your Father in Heaven were sometimes to be as severe with you as you are with the sincere little ones when you are out of temper, I am afraid it would go very hard with you. Be gentle, kind, tender and loving.
 
 In a word, "do not sin against the child," but train it in the way it should go, and bring it to Jesus that He may bless it. Cease not to pray for the child till his young heart is given to the Lord! May the Holy Spirit make you wise to deal with these young immortals! Like plastic clay, they are on the wheel. Oh that He would teach us how to mold and fashion their characters! Above all, may He put His own hands to the work—and then it will be done, indeed!
-
 
 ---
 [[Sermon 3236 The Gospel Cordial|← #3236]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3238 A Vision of the King|#3238 →]]

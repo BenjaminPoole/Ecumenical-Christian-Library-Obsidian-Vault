@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 40
 
-**CHAPTER 40**
+***Chapter 40***
 
 ## Jeremiah 40:1-4
 
@@ -41,7 +40,7 @@ There is here a remarkable example set before us, so that we may learn, that whe
 
 ## Prayer Lecture 152
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast promised that we shall be to thee as the apple of the eye, — O grant, that we may ever flee under the shadow of thy mercy, and that this alone may be our tranquillity in times of confusion and misery: and may we, at the same time, recumb in confidence on thy help, that we may, in sincerity, perform what thou commandest us, and that which is our duty to do, so that we may, by experience, find, that all they who obey thy voice are really sustained by thine hand, and that those are never disappointed who look for the certain reward of their obedience from thee; and may we carry on the warfare so perseveringly in this life, that we may know that there is a reward laid up for us in heaven, when Christ thine only-begotten Son shall appear. — Amen.
 
@@ -117,7 +116,7 @@ But we hence know more fully how great must have been the impiety and wickedness
 
 ## Prayer Lecture 153
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are not sufficiently attentive in considering thy judgments, we may learn to become wise by the examples of others, and so to reflect on what thou teachest us by thy servants the Prophets, that we may apply it to our own use, and thus render ourselves teachable and obedient to thee, and that especially when thou chastisest us with thy scourges, we may not resist thy power, but so submit to thee, that we may at length be raised up and comforted by thy mercy and be restored to a complete salvation, through Christ Jesus our Lord. — Amen.
 

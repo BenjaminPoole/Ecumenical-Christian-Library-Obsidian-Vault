@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Three Texts, But One Subject— Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2335
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In the shadow of Your wings will I make my refuge." Psalm 57:1.
 
@@ -117,7 +114,7 @@ There was a famous cardinal, in Luther's day, who fought tremendously against th
 
 O bankrupt Sinner! O Sinner without a hope, come and just stay yourself upon the immovable foundation of the atoning Sacrifice of Christ and you shall find eternal life tonight! Yes, even tonight! God grant it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH50.
+## Exposition by C. H. Spurgeon: Isaiah 50
 
 Verse 1. Thus says the LORD. There is always something weighty coming when you have this preface. If God speaks, we ought to hear with reverence, with attention.
 
@@ -154,7 +151,6 @@ mained. He bore the terrible wrath of God, which otherwise would have rested on 
 11\. Behold, all you that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire and in the sparks that you have kindled. If you think to make yourselves happy in sin, go and do it! If you fancy that your own righteousness will save you, go and try it!
 
 11\. This shall you have of My hand; you shall lie down in sorrow. Your fire shall not warm you! Your sparks shall not enlighten you! You will have to lie down to die and you shall lie down in sorrow. O my dear Hearers, the time will come when each one of us must put off this body and lie down to die! God grant that we may, none of us, have to lie down in sorrow, but instead thereof, having trusted in God, may He light our candle for us in the last moment, that we may fall asleep in Jesus and wake up in His likeness in the everlasting Glory! May God bless to us the reading of His Word! Amen.
-
 
 ---
 [[Sermon 2334 Our Service For Christ Never Finished|← #2334]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2336 The Love Of Jonathan and the Love Of Jesus|#2336 →]]

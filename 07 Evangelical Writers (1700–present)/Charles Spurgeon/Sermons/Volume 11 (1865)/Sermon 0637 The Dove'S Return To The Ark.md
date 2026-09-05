@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Dove'S Return To The Ark
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 637
 
-DELIVERED ON SUNDAY MORNING, JULY 2, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 2, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "But the dove found no rest for the soles of her feet and she returned unto him into the ark, for the waters were on the face of the whole earth. Then he put forth his hand and took her and pulled her in unto him into the ark." Genesis 8:9.
 
@@ -53,7 +52,7 @@ And has not that base heart within—which will not die until flesh becomes worm
 
 I marvel not that the dove flew away from the ark when she remembered her dovecote. And I do not wonder that at seasons the old remembrances get the upper hand with our spirit and we forget the Lord we love and have a hankering after sin. Yet it would not be fair to forget that this dove was sent out by Noah—so that whatever may have been the particular motives which ruled the creature, there was a higher motive which ruled Noah who sent her out.
 
-Even so there are times when the Lord permits His people to endure temptation. What does this passage mean concerning the Savior—"After He was baptized, He was led of the Spirit into the wilderness to be tempted of the devil"? What? Led of the Spirit? Where will the Spirit lead Him? Will not the Spirit lead Him to His Father's temple that He may join in its hallowed exercises? Will He not lead Him to the mountain where He may proclaim glad tidings to the peo- ple? No. The Spirit led Him into the wilderness "to be tempted of the devil." We are taught to pray, "Lead us not into temptation." And very stupid people have tried to alter the petition into, "Leave us not in temptation."
+Even so there are times when the Lord permits His people to endure temptation. What does this passage mean concerning the Savior—"After He was baptized, He was led of the Spirit into the wilderness to be tempted of the devil"? What? Led of the Spirit? Where will the Spirit lead Him? Will not the Spirit lead Him to His Father's temple that He may join in its hallowed exercises? Will He not lead Him to the mountain where He may proclaim glad tidings to the peo-ple? No. The Spirit led Him into the wilderness "to be tempted of the devil." We are taught to pray, "Lead us not into temptation." And very stupid people have tried to alter the petition into, "Leave us not in temptation."
 
 The Savior never said that. It would be a very proper prayer, but it is not what He said. His words are, "Lead us not into temptation." It appears, then, that sometimes God may allow His people to be led into temptation, or otherwise we need not say, "Lead us not into temptation." Such temptation produces excellent results in being overruled by Divine Grace for the lasting benefit of the Lord's people. The dove would love the ark far better than before, after taking its dreary flight above the watery waste. She would nestle more peacefully than ever in Noah's hands after having seen and known how impossible it was to find rest for the soles of her feet anywhere else!
 
@@ -164,7 +163,6 @@ And then, lastly, we use our text, I think, as a loud cry for gratitude. Does Ch
 Oh how precious is Christ! How can it be that I have thought so little of Him? How is it I can go abroad for anything else when He is so full, so rich, so satisfying? Christian, make a covenant with your heart and ask the Lord to ratify it— that you will never depart from Him! Bid Him set you as a signet upon His finger and as a bracelet upon His arm. Ask Him to bind you about Him as the bride decks herself with ornaments and as the bridegroom puts on his jewelry. I would live in Christ's heart—in the clefts of that Rock my soul would abide!
 
 The sparrow has made a house and the swallow a nest for herself where she may lay her young, even Your altars, O Lord of Hosts, my King and my God! And so, too, would I make my nest, my home in You and never from You may the soul of Your turtle dove go forth again! May I nestle close to Jesus who has pulled me back into the ark after my backsliding. May the Holy Spirit so preserve us for His name's sake. Amen.
-
 
 ---
 [[Sermon 0636 The Church'S Love To Her Loving Lord|← #636]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0638 Who Are The Elect|#638 →]]

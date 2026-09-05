@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Enemies of the Cross of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2553
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For many walk, of whom Have toldyou often, and now tell you even weeping, that they are the enemies of the Cross of Christ: whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things. Philippians 3:18,19.
 
@@ -87,7 +84,7 @@ O Lamb of God, I come"
 
 Let those who can truly sing it, do so, even if they never sang it before. God bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PHILIPPIANS3.
+## Exposition by C. H. Spurgeon: Philippians 3
 
 Verse 1. Finally, my brethren, rejoice in the Lord. As much as to say, "If this were the last sentence that I should write to you, I would say, 'Finally, my brethren, rejoice in the Lord.' It is your privilege, it is your duty to rejoice in God—not in your health, your wealth, your children, your prosperity, but in the Lord." There is the unchanging and unbounded source of joy. It will do you no harm to rejoice in the Lord! The more you rejoice in Him, the more spiritually-minded will you become. "Finally, my brethren." That is, even to the end, not with you, the bitter end, but even to the end of life, rejoice in the Lord. Make this the finis of everything, the end of every day, the end of every year, the end of life. "Finally, my brethren, rejoice in the Lord." Blessed is that religion in which it is a duty to be happy!
 
@@ -144,7 +141,6 @@ Verse 1. Finally, my brethren, rejoice in the Lord. As much as to say, "If this 
 20, 21. Is in Heaven; from whence also we look for the Savior, the Lord Jesus Christ: who shall change our vile body. Vile so far that it has been defiled by sin. Vile in comparison with that body which shall be—"Who shall change our vile body," the body of our humiliation.
 
 21\. That it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself
-
 
 ---
 [[Sermon 2552 Take Heed, Brethren|← #2552]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2554 The Spiritual Resurrection|#2554 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Christ's Joy and Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2935
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These things have I spoken unto you, that My joy might remain in you, and that your joy might be full." John 15:11.
 
@@ -83,7 +80,7 @@ Will you not also rejoice in His finished work? You have not to put a single sti
 
 IV. My last observation is that WHEN CHRIST COMMUNICATES HIS JOY TO HIS PEOPLE, IT IS A JOY
 
-WHICH REMAINS AND A JOY WHICH IS FULL.
+## Which Remains and a Joy Which Is Full
 
 No other joy remains. There is a great deal of very proper joy in many families when children are born, yet how many little coffins are followed by weeping mothers? There is joy when God fills the barn, and very properly so, for a bountiful harvest should make men glad. But the winter soon comes, with its cold and dark and dreary weather. But,
 
@@ -107,7 +104,7 @@ How I wish that everybody here knew my dear Lord and Master! I tell you who do n
 
 God bless you and save you! And He will do so if you trust in Jesus, His dear Son. As soon as you trust in Jesus, you are saved! God grant that you may do so this very hour for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:1-11.
+## Exposition by C. H. Spurgeon: John 15:1-11
 
 John 15:1. I am the true vine, and My Father is the vinedresser. All other vines were but types and shadows. Christ is the substance—God's ideal vine—"the true vine." Israel was a vine—the figure is a common one throughout the Old Testament—but it was a false vine and it bore bitter grapes!
 
@@ -130,7 +127,6 @@ John 15:1. I am the true vine, and My Father is the vinedresser. All other vines
 6-11. And men gather them, and cast them into the fire, and they are burned. If you abide in Me, and My words abide in you, you shall ask what you will, and it shall be done unto you. Herein is My Father glorified, that you bear
 
 much fruit; so shall you be My disciple. As the Father has loved Me, so have I loved you: continue you in My love. If you keep My commandments, you shall abide in My love; even as I have kept My Father's commandments, and abide in His love. These things have I spoken unto you, that My joy might remain in you, and that your joy might be full If you are Christ's disciples now, you are to keep on being His disciples and to grow more and more so as the years advance.
-
 
 ---
 [[Sermon 2934 Great Changes|← #2934]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2936 Christ's 'New Commandment'|#2936 →]]

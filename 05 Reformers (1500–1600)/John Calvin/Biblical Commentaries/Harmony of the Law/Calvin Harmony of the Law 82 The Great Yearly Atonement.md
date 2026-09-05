@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 82. The Great Yearly Atonement
-
-**The GREAT yearly Atonement**
 
 ## Leviticus 16:1-34
 

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 158. Matthew 19:13-15; Mark 10:13-16; Luke 18:15-17
-
-Matthew 19:13-15; Mark 10:13-16;  
-Luke 18:15-17
 
 **13**. Then were presented to him children, that he might lay hands on them and pray; but the disciples rebuked them. **14**. And Jesus said to them, Suffer children, and forbid them not, to come to me; for of such is the kingdom of heaven. **15**. And when he had laid hands on them, he departed thence.
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Life and Pardon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2101
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 25, 1889,.
+*Delivered on Lord's-Day Morning, August 25, 1889*
 
 > "And you, being dead in your sins and the uncircumcision of your flesh, has He quickened together with Him, having forgiven you all trespasses." Colossians 2:13.
 
@@ -164,7 +163,6 @@ Now, today, Child of God, you begin anew—you are clean—for He has washed you
 Some have dropped in here this morning from all parts of the country and from America. And we may never meet again on earth. Let us meet around the Throne in Heaven and sing, "unto Him that loved us and washed us from our sins in His own blood." God grant that we may. Who wants to be left out? Is there one person here who would like to be shut out in that day? I pray you, enter in at once—
 
 "Come guilty souls and flee a way Like doves to Jesus' wounds; This is the welcome Gospel-day, Wherein Free Grace abounds."
-
 
 ---
 [[Sermon 2100 Faith Essential to Pleasing God|← #2100]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2102 Pricked in Their Heart|#2102 →]]

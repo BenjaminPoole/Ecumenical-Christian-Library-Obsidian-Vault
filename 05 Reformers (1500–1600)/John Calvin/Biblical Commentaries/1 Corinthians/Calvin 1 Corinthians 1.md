@@ -10,14 +10,13 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 1
 
-**COMMENTARY ON THE**
+***Commentary on The***
 
-**FIRST EPISTLE TO THE CORINTHIANS**
+## **First Epistle to the Corinthians**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## 1 Corinthians 1:1-3
 

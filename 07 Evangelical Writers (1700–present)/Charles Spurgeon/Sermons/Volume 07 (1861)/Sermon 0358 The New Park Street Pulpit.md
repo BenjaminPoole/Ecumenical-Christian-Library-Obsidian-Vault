@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # The New Park Street Pulpit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 358
@@ -27,7 +26,7 @@ Understand, then, for this is what I am about to speak of this morning; by the H
 
 I. First, then, THERE ARE SOME WORKS OF THE SPIRIT WHICH ARE PECULIARLY AN EARNEST TO
 
-THE CHILD OF GOD, OF THE BLESSINGS OF HEAVEN.
+## The Child of God, of the Blessings of Heaven
 
 1\. And first, Heaven is a state of rest. It may be because I am constitutionally idle, that I look upon Heaven in the aspect of rest with greater delight than under any other view of it, with but one exception. To let the head which is so continually exercised, for once lie still—to have no care, no trouble, no need to labor, to strain the intellect, or vex the limbs! I know that many of you, the sons of poverty and of toil, look forward to the Sabbath, because of the enjoyments of the sanctuary, and because of the rest which it affords you. You look for Heaven as Watts did in his song—
 
@@ -80,7 +79,6 @@ No, no, they cannot! You may tell them that there is hope—that Jesus Christ ca
 Now such men give the gravest picture of what Hell must be in these forebodings of the wrath to come. I saw one man, now in eternity, and where he is, God knows. I could not describe to you what I saw that day of him. He said he would not die—and walked up and down as long as there was life in him, under the notion, as he said, that if he could walk about, he knew he should not die. He would not die, he said. He would live, he must l ive. "I cannot die," he said, "for I must be damned if I die. I feel I must." And that poor wretch, sometimes giving ear to your admonitions, then cursing you to your face, bidding you pray and then blaspheming—dying with Hell commenced, with all the horrors of perdition just beginning—a sort of infant perdition strangling to be born within him! Oh, may God deliver you from ever knowing this vilest premonition of destruction! And how shall you be delivered, but by this? "Believe in the Lord Jesus Christ, and you shall be saved, for he who believes and is baptized shall be saved"—so says the Scripture—"He who believes not shall be damned." Trust Christ and you are saved, be you whom you may! Come to the foot of the Cross and cast yourself where His blood is dropping, and you are saved! Give your heart to Him; believe in Him; repose your confidence in Him!
 
 May the Spirit of God enable you to do this! May He help you to repent of sin, and having repented, may He bring you to Christ, as the sin Propitiator! And may you go away this day, saying, "I do believe in Christ. My soul rests in Him!" And if you can say that, the joy and peace in believing, which must follow a simple faith in Christ, shall be to you the work of "the Holy Spirit of promise, and the earnest of our inheritance, until the redemption of the purchased possession."
-
 
 ---
 [[Sermon 0357 The New Park Street Pulpit|← #357]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0359 The Tabernacle—Outside The Camp|#359 →]]

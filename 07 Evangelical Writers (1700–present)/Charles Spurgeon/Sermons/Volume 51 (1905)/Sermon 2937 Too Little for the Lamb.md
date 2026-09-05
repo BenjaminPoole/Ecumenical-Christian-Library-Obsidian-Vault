@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Too Little for the Lamb
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2937
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall take to them every man a lamb, according to the house of their father, a lamb for an house: and if the household is too little for the lamb, let him and his neighbor next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb." Exodus 12:3, 4.
 
@@ -103,7 +100,7 @@ sheep are found—only the true sheep of Christ will recognize His voice in the 
 
 IV. The last thing upon which I have to speak is not in my text, yet THE WHOLE SUBJECT SUGGESTS
 
-THOUGHTS UPON NEIGHBORLY FELLOWSHIP IN THE GOSPEL.
+## Thoughts upon Neighborly Fellowship in the Gospel
 
 Here is a man whose household is too little for the lamb and he has called in his next door neighbor to share the feast with him. "Come in, Friend," he says, "I have a wife and two children, and our household is too little for the lamb. You have a wife and one child—come in and we will keep the Passover together."
 
@@ -118,7 +115,6 @@ So those memories, you see, would beget new communion and they would be ready to
 written in Heaven," and Christ shall then "see of the travail of His soul, and shall be satisfied." Until that glorious gathering shall take place, Brothers and Sisters, keep on inviting others to the Lamb of God!
 
 And as for you who have never yet trusted in the blood of Jesus, or tasted of His Grace, may the Lord, in His Infinite Mercy, bring you to Him this very hour! And then this shall be the beginning of months for you—you will reckon your true life as dating from this hour! The Lord grant it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2936 Christ's 'New Commandment'|← #2936]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2938 Jesus the Way|#2938 →]]

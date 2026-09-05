@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## 2 Corinthians 6:1-10
 

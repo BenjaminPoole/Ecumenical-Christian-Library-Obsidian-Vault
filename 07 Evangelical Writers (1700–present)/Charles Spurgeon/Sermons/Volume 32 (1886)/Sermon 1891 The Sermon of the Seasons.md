@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Sermon of the Seasons
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1891
@@ -93,8 +92,7 @@ Oh, you that know not our God, I feel heartily sorry for you! To you all seasons
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 147; Genesis 8:20-22; Jeremiah 33:17-26.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—181, 211, 212.
-
+## Hymns from "Our Own Hymn Book"—181, 211, 212
 
 ---
 [[Sermon 1890 Our Lord's Prayer for His People's Sanctification|← #1890]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1892 Why They Leave Us|#1892 →]]

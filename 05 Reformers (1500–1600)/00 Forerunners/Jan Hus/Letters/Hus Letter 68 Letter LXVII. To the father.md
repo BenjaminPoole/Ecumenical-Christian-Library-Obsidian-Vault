@@ -11,16 +11,11 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 68. Letter LXVII. To the "father"
-
-LETTER LXVII. TO THE "FATHER"
 
 (Middle of June)
 
 Thanks for advice ; Reasons why he cannot sign the paper sent him 238-9
-
-FCRTHEB EFFORTS OF THE " FATHER " ; THE DELEGATE FROM ERFURT; THE "FATHER'S" SECOND LETTER . . . 239-40
 
 ---
 [[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|← 67. Letter LXVI. To Master Martin, his]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|69. Letter LXVIII. To the Same (Middle of →]]

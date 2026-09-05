@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # A Private Enquiry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2184
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What is the thing that the Lord has said unto you?" 1 Samuel 3:17.
 
@@ -116,7 +113,6 @@ you by the living God, before whose bar you must surely stand, look at your litt
 You were making a rabbit hutch last Sunday, were you not? And your child said, "Father, do come to the House of God," but you would not come, and you pained your child. Will you bear in mind a solemn Truth of God? If your daughter goes to the right and you go to the left, you are probably parting forever. It is not possible that the way of sin should end where the way of righteousness will end! Do not choose eternal separation from your dear ones who love the Lord. Think these things over because, on a Sabbath, when we celebrate the Lord's Supper, some of you have to go away and leave a wife or a dear child behind to commune at the sacred feast. Many thoughts are stirred at that dividing time. I wish that such searching of heart might arise tonight in downright earnest. There will be weeping—there will be weeping, at the Judgement Seat of Christ! And if children now rebuke their Christless friends, what will be the thunder of that rebuke when they shall be caught up to the Throne of the highest and their ungodly relatives are cast out forever into the pit prepared for the wicked? God bless you all richly, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Samuel2:27-36.
-
 
 ---
 [[Sermon 2183 A Gracious Dismissal|← #2183]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2185 Our Manifesto|#2185 →]]

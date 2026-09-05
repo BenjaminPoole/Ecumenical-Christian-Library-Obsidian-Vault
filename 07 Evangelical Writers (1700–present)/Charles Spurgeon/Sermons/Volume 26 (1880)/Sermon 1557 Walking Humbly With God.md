@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Walking Humbly With God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1557
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 12, 1880,.
+*Delivered on Lord's-Day Morning, September 12, 1880*
 
 > "He has shown you, O man, what is good; and what does the Lord require of you, but to do justly and to love mercy and to walk humbly with your God?" Micah 6:8.
 
@@ -126,7 +125,6 @@ V. With this I close, when I have said, in the fifth place, in praise of walking
 Into this quietness and rest there comes enjoyment, for the man that leaves everything to God finds joy in everything. Mercies which to others are commonplace are sweet to him. He marvels at the love which God displays in them all! As mercies come to him, he receives them with songs of thankfulness. He is grateful to think that he has bread to eat and clothes to wear, for he knows how unworthy he is. And when great mercies are showered on him, he sits down before God and cries, "Why this to me? What am I and what is my father's house?" He is the man who joins Mary in her Magnificat, singing, "My soul does magnify the Lord."
 
 He sings with the Psalmist, "Bless the Lord, O my Soul and all that is within me bless His holy name." He sits at Heaven's gate waiting to enter and he shall not long be detained outside, for as joy and peace and a heavenly mind have come to him, so shall they soon bring him to their Home. He who has learned to walk humbly with God shall soon see the face of God in His Glory! God teach us all this sacred art for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1556 The Waterpots at Cana|← #1556]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1558 Rare Fruit|#1558 →]]

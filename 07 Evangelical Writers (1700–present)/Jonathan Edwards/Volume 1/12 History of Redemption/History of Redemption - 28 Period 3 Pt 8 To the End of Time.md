@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART VIII.
 
-THE SUCCESS OF REDEMPTION THROUGH THAT SPACE WHEREIN THE CHRISTIAN CHURCH SHALL, FOR THE MOST PART, BE IN A STATE OF PEACE AND PROSPERITY.
+*The Success of Redemption Through that Space Wherein the Christian Church Shall, for the Most Part, Be in a State of Peace and Prosperity*
 
 In order to describe this part, I would speak, *first*, of the prosperous state of the church through the greatest part of this period; and, *secondly*, of the great apostacy there shall be towards the close of it.
 

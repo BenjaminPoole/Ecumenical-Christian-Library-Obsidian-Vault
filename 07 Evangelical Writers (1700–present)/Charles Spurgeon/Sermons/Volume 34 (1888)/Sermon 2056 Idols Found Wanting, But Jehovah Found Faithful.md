@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Idols Found Wanting, But Jehovah Found Faithful
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2056
@@ -159,7 +158,7 @@ And you, my aged Brothers and Sisters, to whom I speak with much reverence, show
 
 Therefore, "rest in the Lord and wait patiently for Him," and may He bless you evermore, for Jesus' sake! Amen.
 
-LETTER FROM MR. SPURGEON
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS, Although we have had two days of rainy and tempestuous weather, I have improved so greatly that I feel like the man who is described in Scripture as "walking and leaping and praising God." As I cannot quite manage the two former exercises, I desire to be doubly abundant in the third. Watts says—
 
@@ -168,7 +167,6 @@ DEAR FRIENDS, Although we have had two days of rainy and tempestuous weather, I 
 That man of God, on his recovery, said, "The living, the living, he shall praise you as I do this day." In that spirit I have prepared the sermon to which this note is appended. And I have borne therein my willing testimony to the faithfulness of God and to the certainty that He honors the faith of His people.
 
 From the Tabernacle I have joyful news of a meeting at which four or five hundred persons came together to confess that they had found mercy during the late services. What a cordial to one's heart! "Therefore we will sing my songs to the stringed instruments all the days of our life in the House of the Lord." Blessed be His name! With my heart's best wishes for all my hearers and readers, Their servant for Christ's sake, C. H. Spurgeon. Mentone, Dec. 1, 1888
-
 
 ---
 [[Sermon 2055 The Trial of Your Faith|← #2055]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2057 The Lord's Own Salvation|#2057 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Near the Kingdom, or in It?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2989
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You are not fair from the Kingdom of God." Mark 12:34.
 
@@ -113,7 +110,7 @@ I remember how it seemed to me, when I was under conviction of sin—as though C
 
 Faith is very much like learning to swim. I have often thought that I could easily swim, but I never could induce myself to take the last toe off the ground—and there is no swimming till one does that. You must trust yourself wholly to the water. So must you trust yourself to Jesus. But you are afraid to take that last toe off the ground—you cannot give up just a little confidence in yourself. Oh, for the glorious plunge of faith! You fear that you will drown, but you will not, for you will swim. The everlasting love of Jesus will buoy up the biggest sinner out of Hell if he will but rest himself upon the finished work of Jesus Christ, whom God has set forth to be the Propitiation for the sins of man! Only trust Him and He will save you! May God give you the Grace to trust Him, and He shall have all the glory. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK 12:12-44.
+## Exposition by C. H. Spurgeon: Mark 12:12-44
 
 Verse 12. And they sought to lay hold on Him, but feared thepeople: for they knew that He had spoken the parable against them: and they left Him, and went their way. Christ's enemies could not injure Him, then, partly because the people heard Him gladly, and were ready to protect Him, but still more because the appointed time for His suffering and death had not fully come.
 
@@ -142,7 +139,6 @@ In Psalm 110:1—
 42-44. And she threw in two mites, which make a farthing. And He called unto Him His disciples, and said unto them, Verily I say unto you, that this poor widow has cast more in than all they which have cast into the treasury: for all they did cast in of their abundance. Christ measures what we really give by what we have left—by the proportion which what we give bears to what we possess—"For all they did cast in of their abundance."
 
 44\. But she of her need did cast in all that she had, even all her living. So she gave more than any or all the others did!
-
 
 ---
 [[Sermon 2988 Great Pardon for Great Sin|← #2988]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2990 The Believer Not An Orphan|#2990 →]]

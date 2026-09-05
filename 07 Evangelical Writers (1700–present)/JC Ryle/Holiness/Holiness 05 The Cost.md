@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # The Cost
 
-Chapter V · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter V · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Which of you, intending to build a house, sitteth not down first and counteth the cost?* ”—Luke xiv. 28.
 
@@ -128,7 +127,6 @@ Ah, lazy man or woman, is it really come to this, that you will miss heaven for 
 The time is very short. A few more years of watching and praying, a few more tossings on the sea of this world, a few more deaths and changes, a few more winters and summers, and all will be over. We shall have fought our last battle, and shall need to fight no more.
 
 The presence and company of Christ will make amends for all we suffer here below. When we see as we have been seen, and look back on the journey of life, we shall wonder at our own faintness of heart. We shall marvel that we made so much of our cross, and thought so little of our crown. We shall marvel that in “counting the cost” we could ever doubt on which side the balance of profit lay. Let us take courage. We are not far from home. IT MAY COST MUCH TO BE A TRUE CHRISTIAN AND A CONSISTENT BELIEVER; BUT IT PAYS.
-
 
 ---
 [[Holiness 04 The Fight|← The Fight]] · [[Holiness|Holiness Contents]] · [[Holiness 06 Growth|Growth →]]

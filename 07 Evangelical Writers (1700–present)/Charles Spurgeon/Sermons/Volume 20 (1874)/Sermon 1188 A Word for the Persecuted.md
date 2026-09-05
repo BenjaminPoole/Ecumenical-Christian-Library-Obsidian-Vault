@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # A Word for the Persecuted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1188
@@ -93,8 +92,7 @@ If I am addressing any one who has persecuted God’s saints in any way, let me 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Mark 4.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’76, 670, 667.
-
+## Hymns from ‘Our Own Hymn Book’’76, 670, 667
 
 ---
 [[Sermon 1187 The Three Witnesses|← #1187]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1189 The Turning Point|#1189 →]]

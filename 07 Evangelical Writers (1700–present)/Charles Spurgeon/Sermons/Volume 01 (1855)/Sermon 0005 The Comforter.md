@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/01
 ---
-
 # The Comforter
 
 *New Park Street Pulpit* · Sermon No. 5
@@ -87,10 +86,9 @@ But we want a GREATER TEACHER,
 
 From the everlasting throne;
 
-APPLICATION
+## Application
 
 Is the work of God alone.”
-
 
 ---
 [[Sermon 0004 The Personality of the Holy Ghost|← #4]] · [[Volume 01 (1855)|Volume 01 (1855) Contents]] · [[Sermon 0006 Sweet Comfort for Feeble Saints|#6 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 141
-
-**PSALM 141**
 
 Whatever may have been the immediate cause pressing David to pray in the manner he does in this Psalm, [^1] it is plain that his desire is through divine grace to check and bridle his spirit, under injuries of a causeless and unprovoked description, so as not to break out into retaliation and revenge, and return evil for evil. Having attained to the exercise of forbearance, he seeks that God would judge between him and his enemies.
 

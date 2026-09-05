@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 3. Dedication
 
-DEDICATION
-
-JESUS
+## Jesus
 
 To the Illustrious, High-born Prince and Lord, John Duke of Saxony, Landgrave of Thuringia, Margrave of Meissen, my gracious Lord and Patron.
 
@@ -40,7 +37,7 @@ Therefore, in dutiful humility I pray that your princely Grace may accept this o
 
 I humbly commend myself herewith to your princely Grace, Your Princely Grace's Humble Chaplain,
 
-DR. MARTIN LUTHER.
+## Dr. Martin Luther
 
 From Wittenberg, March 29th, A. D. 1520.
 

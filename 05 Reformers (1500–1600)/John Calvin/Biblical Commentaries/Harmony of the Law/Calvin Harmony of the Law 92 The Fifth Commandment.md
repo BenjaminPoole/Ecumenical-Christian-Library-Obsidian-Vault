@@ -11,26 +11,23 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 92. The Fifth Commandment
 
-**THE SECOND TABLE OF THE LAW**
+***The Second Table of the Law***
 
-**THE FIRST COMMANDMENT OF WHICH IS THE FIFTH OF THE LAW**
-
-**The Fifth Commandment**
+## **The First Commandment of Which Is the Fifth of the Law**
 
 ## Exodus 20:12
 
-**EXODUS 20**
+## **Exodus 20**
 
 **12.** Honor thy father and thy mother; that thy days may be long upon the land which the Lord thy God giveth thee.
 
 ## Deuteronomy 5:16
 
-**ITS REPETITION**
+## **Its Repetition**
 
-**DEUTERONOMY 5**
+## **Deuteronomy 5**
 
 **16.** Honor thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee.
 

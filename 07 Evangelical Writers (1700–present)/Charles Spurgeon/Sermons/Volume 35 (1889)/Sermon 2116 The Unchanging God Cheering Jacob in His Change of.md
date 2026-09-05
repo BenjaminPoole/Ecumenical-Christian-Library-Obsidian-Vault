@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Unchanging God Cheering Jacob in His Change of Dwelling Place
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2116
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Israel took his journey with all that he had and came to Beersheba, and offered sacrifices unto the God of his father Isaac. And God spoke unto Israel in the visions of the night and said, Jacob, Jacob. And he said, Here am I. And He said, I am God, the God of your father: fear not to go down into Egypt. For I will there make of you a great nation: I will go down with you into Egypt. And I will also surely bring you up again: and Joseph shall put his hand upon your eyes." Genesis 46:1-4.
 
@@ -192,7 +189,6 @@ The way in which they meet the approach of the great enemy, calmly and triumphan
 My dear Brother and co-pastor said to me one day, "O Brother, our people die well, do they not?" That they do. They give us proof of the Truth of God which we preach by the way in which it sustains them in their last hours. Without the slightest fear, or perturbation of mind, they march onward to the Jordan singing with the stream in view. I know no happier people in my acquaintance than a certain suffering few, who are within measurable distance of the Celestial City. And so it ought to be.
 
 But what is to become of you who have no faith? What is to become of you who have no God to go to? O Soul, if you have no God, you are, indeed, miserable. God bring you at once to Himself, through Jesus Christ His Son! Amen.
-
 
 ---
 [[Sermon 2115 The Drought of Nature, the Rain of Grace and the Lesson|← #2115]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2117 The Father's Love to His Dying Son|#2117 →]]

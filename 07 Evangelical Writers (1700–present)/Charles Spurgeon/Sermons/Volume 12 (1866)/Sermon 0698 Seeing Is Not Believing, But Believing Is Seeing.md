@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Seeing Is Not Believing, But Believing Is Seeing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 698
 
-DELIVERED ON SUNDAY MORNING, JULY 1, 1866, BY C. H. SPURGEON, AT CORNWALL ROAD CHAPEL, BAYSWATER..
+*Delivered on Sunday Morning, July 1, 1866, by C. H. Spurgeon, at Cornwall Road Chapel, Bayswater*
 
 > 1 Peter 1:8,9.
 
@@ -156,7 +155,6 @@ You will never do it, but He will! Do you not remember that when they pierced Hi
 When God dwells in the temple He can purge out a great deal which we cannot purge out. He can make us clean though otherwise we must have remained impure. "Still," says another, "I have such a need of tenderness this morning. I have not thought about these things. I have lived a careless giddy life—must I not give some week or month or two to the consideration of these things—and then come to Christ? Must I not go home and humble myself before God and then believe and love?"
 
 My dear Hearer, do what you will after trusting, but trusting is the immediate remedy this morning! Now is the accepted time! Now is the day of salvation! May you and I come to trust and love—and we shall soon prove to ourselves, if we cannot prove it to others—that there is a power and vitality in faith and love not to be found in all the performances of the priests who are laboring to bring our nation back to the midnight of Romanism!
-
 
 ---
 [[Sermon 0697 God'S Cure For Man'S Weakness|← #697]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0699 Sin Condemned And Executed By Christ Jesus|#699 →]]

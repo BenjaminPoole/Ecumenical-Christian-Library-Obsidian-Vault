@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # Nominal Christians—Real Infidels
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 492
@@ -71,9 +70,9 @@ Brethren, let me add, Christ has brought to light the hope of immortality, etern
 
 If you believed it you would seek after it, you would strive to enter in at the strait gate. You would labor for the meat which perishes not. The Spirit of God would lead you to prize the world to come. You would tread this present fleeting world beneath your feet, and be looking for, and hasting unto the glories which are yet to be revealed in those who love the Lord. The sum of all this is the weighty enquiry of our Lord Jesus. "If I say the truth why do you not believe Me?" If Christ is no liar, if His Word is no fiction, how can you remain as you now are—ungodly, unthinking, unconverted men and women? May the Holy Spirit constrain you to give heed to this searching question.
 
-II. YOU OFFER SOME DEFENSE OF YOUR INCONSISTENCY, BUT I ANSWER THAT YOUR APOLOGIES
+## II. You Offer Some Defense of Your Inconsistency, but I Answer that Your Apologies
 
-DO NOT MEET THE CASE.
+## Do Not Meet the Case
 
 I hear one say, "Sir, I do not feel myself entitled to come to Christ. The Revelation of God is true, but I do not believe in Christ because I do not feel any need that I should." I answer that this is no excuse—this is rather a proof of guilt. You do not believe that which Christ has told you concerning yourself. The Word of God informs you in many places that your case is an awful and a lamentable one. If you believed this, you would never have to complain that you did not feel it. In matters relating to the body, we feel first, and then believe.
 
@@ -142,7 +141,6 @@ But, oh, if you are not prepared to take that side, if Baal is not God, and you 
 But mark you, I had sooner you would say, "For the devil. For sin. For Hell," than say nothing. For if you say nothing, you will go on and be as careless and as indifferent as ever. But if you make this last choice deliberately, it may be that then God will alarm your conscience and stir your soul, so that you may see your danger and may fly to Jesus.
 
 May He bless you, now, and guide your heart into the way of Truth. And to His name be glory forever. Amen.
-
 
 ---
 [[Sermon 0491 Our Stronghold|← #491]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0493 Gethsemane|#493 →]]

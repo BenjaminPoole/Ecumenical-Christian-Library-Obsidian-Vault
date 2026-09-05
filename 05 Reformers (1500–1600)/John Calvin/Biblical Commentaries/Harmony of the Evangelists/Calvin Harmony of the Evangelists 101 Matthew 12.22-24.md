@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 101. Matthew 12:22-24; Mark 3:20-22; Luke 11:14-15
-
-Matthew 12:22-24; Mark 3:20-22;  
-Luke 11:14-15
 
 **22**. Then was brought to him one who was tormented by a devil, blind and dumb; and he cured him, so that the blind and dumb person both spoke and saw. **23**. And all the multitudes were astonished, and said, Is not this the son of David? **24**. But when the Pharisees heard it, they said, This man doth not cast out devils but by Beelzebub prince of the devils.
 

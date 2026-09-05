@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Blessing of Full Assurance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2023
@@ -109,10 +108,9 @@ Dear brethren, this is the kind of thing that will enable you to bear a telling 
 
 Brethren, if you know that you have eternal life, you are prepared to live, and equally prepared to die. How frequently do I stand at the bedside of our dying members! I am every now and then saying to myself, "I shall certainly meet with some faint-hearted one. Surely I shall come across some child of God who is dying in the dark." But I have not met with any such. Brethren, a child of God may die in the dark. One said to old Mr. Dodd, the quaint old Puritan’"How sad that our brother should have passed away in the darkness! Do you doubt his safety?" "No," said old Mr. Dodd, "no more than I doubt the safety of him who said, when he was dying, "My God, my God, why hast thou forsaken me?"" Full assurance, as we have said before, is not of the essence of salvation. Still, I beg of you to note this, that all along through these many years, in each case, when I have gone to visit any of our brethren and our sisters at death, I have always found them departing in sure and certain hope of seeing the face of their Lord in glory. I have often marvelled that this should be without exception, and I glory in it. Often have they said to me, "We have fed on such good food that we may well be strong in the Lord." God grant that you may have this assurance, all of you! May sinners begin to believe in Jesus, and saints believe more firmly, for Christ's sake! Amen.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON’1 JOHN 5.
+## Portion of Scripture Read Before Sermon’1 John 5
 
-HYMNS FROM "OUR OWN HYMN-BOOK"’175, 738, 711.
-
+## Hymns from "Our Own Hymn-Book"’175, 738, 711
 
 ---
 [[Sermon 2022 The Wedding Was Furnished with Guests|← #2022]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2024 What Is the Wedding Garment|#2024 →]]

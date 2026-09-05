@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part VIII
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 64. Persecution in Egypt
 

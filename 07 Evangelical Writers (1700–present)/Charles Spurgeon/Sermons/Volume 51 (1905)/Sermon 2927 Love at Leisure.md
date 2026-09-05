@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Love at Leisure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2927
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Mary, who also sat at Jesus'feet, and heard His Word." Luke 10:39.
 
@@ -97,7 +94,7 @@ I cannot preach to you, for the time has gone, but do you know, I think one of t
 
 Here our sermon closes. And may God's blessing rest on it.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 63; LUKE10:38-42; JOHN 12:1-8.
+## Exposition by C. H. Spurgeon: Psalm 63; Luke 10:38-42; John 12:1-8
 
 I will read the 63rd Psalm first, as somewhat representing the state of heart into which I would we could all come tonight.
 
@@ -122,7 +119,6 @@ John 12:1, 2. Then Jesus, six days before the Passover came to Bethany, where La
 3-7. Then took Mary apound of ointment of spikenard, very costly, and anointed the feet of Jesus and wiped His feet with her hair: and the house was filled with the odor of the ointment. Then said one of His disciples, Judas Iscariot, Simon's son, which would betray Him, Why was not this ointment sold for three hundred pence, and given to the poor? This he said, not that he cared for the poor; but because he was a thief and had the money box; and he used to take what wasput in it. Then said Jesus, Let her alone: against the day ofMy burying has she kept this. Somebody or other always seemed to object to Mary! If Martha does not do it, Judas will. To be found guilty of excess of love to Christ is such a blessed criminality that I wish we might be executed for it! It were sweet to be put to death for such a crime! It was that that Christ died of—He was found guilty of excess of love.
 
 8\. For the poor you always have with you; but Me you have not always. It is not every day that you can do something personally and distinctly for Christ, Himself, and therefore, whenever the occasion serves you, be sure to be there to avail yourself of it! True, you can serve Him indirectly by aiding His poor saints. Still, something for Him—for Him, Himself—should often be devised as Mary devised this service that day.
-
 
 ---
 [[Sermon 2926 The Love of Our Espousals|← #2926]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2928 Sham Conversion|#2928 →]]

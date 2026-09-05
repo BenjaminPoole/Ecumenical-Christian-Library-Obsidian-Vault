@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The New Song On Earth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2424
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD." Psalm 40:3.
 
@@ -95,7 +92,7 @@ Now, after trying and testing this salvation for a good many years—well near o
 
 Trust! Trust! Trust as the drowning man trusts to the life buoy, as the shipwrecked mariners trust to the lifeboat. Trust! Trust in God Almighty, Incarnate in the bleeding Man of Sorrows, for it is God that hangs on the Cross in the body of the Nazarene. Trust in Jesus Christ, the Son of God, and the Son of Mary—and as surely as He lives, as surely as God lives, you shall live and live forever! Heaven and earth may pass away, but that Word shall never pass away, "He that believes on the Son has everlasting life." May you have it tonight! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 33; 1 JOHN 1 .
+## Exposition by C. H. Spurgeon: Psalm 33; 1 John 1
 
 Verse 1. Rejoice in the LORD, O you righteous, for praise is comely for the upright. False gods were worshipped with dolorous sounds, accompanied by cutting with knives and with lances, but our God is the happy God and He would have His people happy. "Rejoice in Jehovah, O you righteous." The praises of God are very beautiful when they are sung by holy people, "for praise is comely for the upright." But the praises of God on the lips of godless men are altogether out of place. I wonder how Christians can allow those to lead their praises in the sanctuary who never can, from their hearts, praise God? They who sing to the worldling all the week should not be employed to sing to the God of the holy on the Sabbath! Surely, "Praise is comely for the upright." Hymns and Psalms sung by the ungodly are but as sweet spices laid upon a dunghill—but—"praise is comely for the upright."
 
@@ -150,7 +147,6 @@ Verse 1. Rejoice in the LORD, O you righteous, for praise is comely for the upri
 8\. If we say that we have no sin., we deceive ourselves, and the truth is not in us. We are walking in darkness when we thus talk of light. It is easy for a blind man to talk of light though he cannot see it and there are some who boast of very superior light who, nevertheless, are so much in the dark that they cannot even see their own sin.
 
 9, 10. If we confess our sins He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make Him a liar, and His Word is not in us. The Lord bless to us the reading of his Word! Amen.
-
 
 ---
 [[Sermon 2423 The Model Soul-winner|← #2423]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2425 Self-destroyed, Yet Saved|#2425 →]]

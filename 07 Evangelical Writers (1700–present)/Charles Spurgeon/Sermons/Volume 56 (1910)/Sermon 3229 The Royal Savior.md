@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Royal Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3229
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Him has God exalted with His right hand to be a Prince and a Savior, to give repentance to Israel, and forgiveness of sins." Acts 5:31.
 
@@ -107,7 +104,7 @@ This He gives you!
 
 'Tis the Spirit's rising beam."
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10.
+## Exposition by C. H. Spurgeon: Romans 10
 
 Verse 1 Brethren, my heart's desire and prayer to God for Israel is that they might be saved. They had hunted Paul from city to city, but the only feeling for them that he had was a wish that they might be saved! Such a wish as that should be in the heart of every Christian. His desire for his bitterest enemy should be that he may be saved.
 
@@ -170,7 +167,6 @@ pel year after year, and who have refused it— and perished. And there are, on 
 21\. But to Israel—To God's ancient people to whom the Gospel had been preached when Paul wrote this Epistle— "to Israel"—
 
 21\. He says, All day long I have stretched forth My hands unto a disobedient and gainsaying people. It is strange that many who first hear the Word and often hear it, turn away from it. While others, to whom it comes as a complete novelty, are blessed the first time they hear it! I sometimes say that there are some hearers who regularly occupy these seats who are just like pieces of India rubber. They are easily impressed, they yield ascent to every Truth of God that is uttered, but they soon get back into their old shape again—and they are exactly the same after 20 years of hearing the Gospel as they were before—only that they are still more hardened. On the other hand, there will sometimes drop into this House of Prayer a thoroughly irreligious man with a heart as hard as a flint—and the very first tap of the hammer of the Gospel breaks the flint so effectually that it is never a flint again and God's Grace renews his heart then and there! It is our earnest desire, on all occasions whatever hearers are gathered here, that God's saving power may be manifested to all present. So may it be now, for Christ's sake, and to God's glory! Amen.
-
 
 ---
 [[Sermon 3228 'Oh, How He Loves!'|← #3228]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3230 The Last Message for the Year|#3230 →]]

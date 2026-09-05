@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Sowing and Reaping
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3109
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Be not deceived; God is not mocked: for whatever a man sows, that shall he also reap." Galatians 6:7.
 
@@ -83,7 +80,7 @@ Now, if you thus sow to the Spirit, you will "reap life everlasting." The Apostl
 
 May the Lord graciously give to all of us His Holy Spirit and may we all meet in Heaven to part no more forever, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 80; MATTHEW 9:36-38; 10.
+## Exposition by C. H. Spurgeon: Psalm 80; Matthew 9:36-38; 10
 
 Psalm 80:1-3. Give ear, O Shepherd of Israel, You that lead Joseph like a flock; You that dwell between the cherubims, shine forth. Before Ephraim and Benjamin and Manasseh stir up Your strength and come and save us. Turn us again, O God, and cause Your face to shine; and we shall be saved. To whom could Israel go, in times of distress, but unto her God? It was well that her Psalmists should teach her thus to pray. Notice the form of this prayer—"Come and save us. Turn us again, O God." We cannot be saved except by being turned from the ways of sin into the path of holiness. But who shall turn us? What power can reverse the current of the human soul? As well might Niagara begin to ascend of its own accord as for man to turn to God except as God turns him!
 
@@ -143,8 +140,7 @@ Shepherd of the sheep," shall be preserved from all the wolves that would devour
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3108 The House of Mourning and The House of Feasting|← #3108]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3110 Faintness and Refreshing|#3110 →]]

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 10. No. III. Patrick Hamilton, Abbot of Ferne
 
 ## No. III.
 
-PATRICK HAMILTON, ABBOT OF FERNE.
+## Patrick Hamilton, Abbot of Ferne
 
 In collecting some notices of this memorable person, it may be remarked, that Knox has passed over his history much more briefly than likely he would have done, had he himself been at St. Andrews at the time of his execution. It has been customary to give a rather exaggerated account of Hamilton's birth and family connexions. Bishop Burnet says, "The first who suffered in this age (in Scotland) was Patrick Hamilton, a person of very noble blood: his father was brother to the Earl of Arran, and his mother sister to the Duke of Albany: so nearly was he on both sides related to the King. He was provided of the Abbey of Fern in his youth; and being designed for greater preferments, he was sent to travel," &c.—(Hist. of the Reform., vol. i. p. 291.) Similar terms are employed by later writers.
 
@@ -51,7 +50,7 @@ The next extracts are from Foxe's Martyrology; and it may be proper to be more p
 
 Five years later, at Basil, he published a large folio, also under the title of "Rerum in Ecclesia Gestarum, &c., Commentarii," dedicated to Thomas Duke of Norfolk, from Basil, 1st Sept. 1559. In this work, at pages 121-123, is a short account of Patrick Hamilton, with a reference to Francis Lambert's work on the Apocalypse. But it is to Foxe's great English work, in 1564, that Knox refers, and as the First Book of his History was not written until 1566, no anachronism can be discovered in such a reference. The succession of Queen Elizabeth to the English Throne, evidently suggested the propriety of putting upon record a detailed history of the fearful sufferings and persecutions which had been endured. The first edition bears the following title:—
 
-"ACTES AND MONUMENTS
+## "Actes and Monuments
 
 of these latter and perillous dayes, touching matters of the Church, wherein ar comprehended and described the great persecutions & horrible troubles, that have bene wrought and practised by the Romishe Prelates, speciallye in this Realme of England and Scotlande, from the yeare of our Lorde a thousande, unto the tyme nowe present. Gathered and collected according to the *true copies & wrytinges certificatorie, as wel of the parties themselves that suffered, as also out of the Bishops Registers, which wer the doers thereof, by* Iohn Foxe.
 

@@ -11,46 +11,43 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 92. What is the law of God?
-
-**Question 92. What is the law of God?**
 
 Answer. God spake all these words, Exod. 20, Deut. 5, saying: I am the Lord thy God, which hath brought thee out of the land of Egypt, out of the house of bondage.
 
-**FIRST COMMANDMENT**
+## **First Commandment**
 
 Thou shalt have no other gods before me.
 
-**SECOND COMMANDMENT**
+## **Second Commandment**
 
 Thou shalt not make unto thyself any graven image, nor the likeness of any thing that is in heaven above, or in the earth beneath, or in the water under the earth. Thou shalt not bow down thyself to them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate me, and showing mercy unto thousands of them that love me and keep my commandments.
 
-**THIRD COMMANDMENT**
+## **Third Commandment**
 
 Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain.
 
-**FOURTH COMMANDMENT**
+## **Fourth Commandment**
 
 Remember the Sabbath day, to keep it holy: six days shalt thou labour and do all thy work, but the seventh day is the Sabbath of the Lord thy God: in it thou shalt do no manner of work, thou nor thy son, nor thy daughter, thy man servant nor thy maid servant, nor thy cattle, nor the stranger that is within thy gates. For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the Lord blessed the Sabbath day, and hallowed it.
 
-**FIFTH COMMANDMENT**
+## **Fifth Commandment**
 
 Honour thy father and thy mother, that thy days may be long in the land which the Lord thy God giveth thee.
 
-**SIXTH COMMANDMENT**
+## **Sixth Commandment**
 
 Thou shalt not kill.
 
-**SEVENTH COMMANDMENT**
+## **Seventh Commandment**
 
 Thou shalt not commit adultery.
 
-**EIGHTH COMMANDMENT**
+## **Eighth Commandment**
 
 Thou shalt not steal.
 
-**NINTH COMMANDMENT**
+## **Ninth Commandment**
 
 Thou shalt not bear false witness against thy neighbor.
 
@@ -58,7 +55,7 @@ Thou shalt not bear false witness against thy neighbor.
 
 Thou shalt not covet thy neighbor's house, thou shalt not covet thy neighbour's wife, nor his man servant, nor his maid servant, nor his ox, nor his ass, nor any thing that is thy neighbour's.
 
-**EXPOSITION**
+## **Exposition**
 
 The doctrine concerning the Law, which is the rule of good works, next claims our attention, in relation to which we shall enquire:
 
@@ -80,7 +77,7 @@ VIII. What is the use of the law?
 
 We shall now proceed to the consideration of the first four questions here proposed. The fifth belongs to the 93d Question of the Catechism; the sixth, to the 94th, and those which follow, down to the 114th; the seventh, to the 114th, and the eighth to the 115th Question.
 
-**I. WHAT IS THE LAW IN GENERAL?**
+## **I. What Is the Law in General?**
 
 The term law (lex) is derived from lego, which means to read, to publish; or, from lego, which means to choose. The Hebrew Thorah, which means doctrine, agrees with the former derivation of the term; because laws are published in order that every one may read and learn them. It is for this reason that ignorance of the law does not excuse any one. Yea, those who are ignorant of the laws which have respect to them, sin in that they are ignorant. The Greek νομας, which comes from a word that means to distribute, to divide, agrees with the latter derivation of the term law; because the law imposes particular duties upon every one.
 
@@ -88,7 +85,7 @@ Law now, in general, is a rule, or precept, commanding things honest and just, r
 
 Obj But the gospel also promises blessings freely. Therefore the law does not differ from the gospel. Ans. The law promises freely in one respect, and the gospel in another. The law promises freely upon the condition of obedience on our part; the gospel, on the other hand, promises freely without the works of the law. The gospel does not, indeed, promise blessings freely, independent of any condition whatever; but only without such a condition as that which the law lays down. And with a threatening of punishment in case of disobedience; otherwise the law would be an empty sound, and of no effect. Plato says: "The law is a right form of government, which is directed to the best end, by means that are adapted thereto, threatening punishment upon transgressors, and promising rewards to the obedient. The term law is also frequently improperly used to designate the course, and order which God has established in nature. In this sense the law, meaning the order of nature, requires that fruit be produced by a tree. And Paul still more improperly calls original sin, the law of sin, because as a law it leads us to the commission of sin.
 
-**II. WHAT ARE THE PARTS OF THE LAW, AND WHAT THEIR DIFFERENCES?**
+## **II. What Are the Parts of the Law, and What Their Differences?**
 
 Laws are divine and human. Human laws are such as are instituted by men, and which bind certain persons to certain external duties concerning which there is no express divine precept or prohibition with a promise of reward and threatening of punishment, corporal and temporal. Human laws are either civil or ecclesiastical. Civil are such positive laws as are instituted by magistrates, or by some corporation, or state, in reference to a certain order or class of actions to be observed in the state in contracts, trials, punishments, &c. Ecclesiastical, or ceremonial laws, are those which the church institutes in reference to the order which is to be observed in the ministry of the church, and which lay down certain prescriptions in reference to those things which contribute to the divine law.
 
@@ -112,7 +109,7 @@ But the chief difference between these laws lies in their obligation, manifestat
 
 We must also observe, in passing along, the difference which exists between the moral law, the natural law, and the Decalogue. The Decalogue contains the sum of the moral laws which are scattered throughout the Scriptures of the Old and New Testaments. The natural, and moral law were the same in man before the fall, when his nature was pure and holy. Since the fall, however, which resulted in the corruption and depravity of our nature, a considerable part of the natural law has become obscured and lost by reason of sin, so that there is only a small portion concerning the obedience which we owe to God still left in the human mind. It is for this reason that God repeated, and declared to the church the entire doctrine and true sense of his law, as contained in the Decalogue. The Decalogue is, therefore, the renewal and re-enforcing of the natural law, which is only a part of the Decalogue. This distinction, therefore, which we have made between the several parts of the divine law must be retained, both on account of the difference itself, that so the force and true sense of these laws may be understood, and that we may also have a correct knowledge and understanding of the abrogation and use of the law.
 
-**III. TO WHAT EXTENT HAS CHRIST ABROGATED THE LAW, AND TO WHAT EXTENT IS IT STILL IN FORCE?**
+## **III. To What Extent Has Christ Abrogated the Law, and to What Extent Is It Still in Force?**
 
 The ordinary and correct answer to this question is, that the ceremonial and judicial law, as given by Moses, has been abrogated in as far as it relates to obedience; and that the moral law has also been abrogated as it respects the curse, but not as it respects obedience. That the ceremonial and judicial laws have been so abrogated by the coming of Christ, that they no longer bind any to obedience, and that they have not the appearance and force of laws in respect to the present time, is proven, 1. From the fact that the prophets even declared and foretold this abrogation in the Old Testament. "Christ shall confirm the covenant with many for one week, and in the midst of the week he shall cause the sacrifice and the oblation to cease." "Thou art a priest forever after the order of Melchisedek. (Dan. 9:27. Ps. 110:4.) 2. Christ and his Apostles, in different places in the New Testament, expressly assert this abrogation. (See Acts 7:8. Heb. 7:11–18; 8:8–13.) Instead of adducing a number of testimonies in confirmation of this point, we shall merely cite the decree passed by the Apostles when assembled in Jerusalem: "For it seemed good to the Holy Ghost and to us to lay upon you no greater burden, than these necessary things," &c. (Acts 15:28, 29.) 3. When certain causes are once changed, the laws which are based upon these causes are also changed. One cause now of the ceremonial and judicial law was that the form of worship and civil polity which existed among the Jews, from whom the Messiah was to be born, might distinguish them from all other nations until the Messiah would come. Another cause was that they might be types of the Messiah and of his benefits. These causes now since the coming of the Messiah, have been done away with: for the Apostle declares that the middle wall of partition between the Jews and other nations has been broken down: "He is our Peace, who hath made both one, and hath broken down the middle wall of partition between us," "For in Christ Jesus, neither circumcision availeth any thing, nor uncircumcision, but a new creature. (Eph. 2:14. Gal. 6:15.) It is also every where taught in the New Testament Scriptures that the rites and ceremonies of the old dispensation have been fulfilled in Christ. "The Holy Ghost, this signifying that the way into the holiest of all was not yet made manifest, while the first tabernacle was yet standing." "The law and the prophets were until John." "Let no man judge you in meat or in drink," &c. (Heb. 9:8. Luke 10:16. Col. 2:16.)
 
@@ -146,7 +143,7 @@ The sum of what we have now said, touching the abrogation of the law is this: Th
 
 The objections of the Antinomians, Libertines, and others of a similar cast, who contend that the moral law has no respect to Christians, and that it ought not to be taught in the church of Christ, will be noticed when we come to the exposition of the 115th Question of the Catechism where we shall speak of the use of the law.
 
-**IV. IN WHAT DOES THE LAW DIFFER FROM THE GOSPE** L **?**
+## **IV. In What Does the Law Differ from the Gospe** L **?**
 
 The exposition of this question is necessary for a variety of considerations, and especially that we may have a proper understanding of the law and the gospel, to which a knowledge of that in which they differ greatly contributes. According to the definition of the law, which says, that it promises rewards to those who render perfect obedience; and that it promises them freely, inasmuch as no obedience can be meritorious in the sight of God, it would seem that it does not differ from the gospel, which also promises eternal life freely. Yet notwithstanding this seeming agreement, there is a great difference between the law and the gospel. They differ,
 

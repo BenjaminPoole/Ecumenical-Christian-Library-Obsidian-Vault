@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. II.
 
-THE EVIDENCE OF THE DOCTRINE OF ORIGINAL SIN FROM WHAT THE SCRIPTURE TEACHES OF THE APPLICATION OF REDEMPTION.
+*The Evidence of the Doctrine of Original Sin from What the Scripture Teaches of the Application of Redemption*
 
 The truth of the doctrine of original sin is very clearly manifest from what the Scripture says of that *change of state,* which it represents as necessary to an actual interest in the spiritual and eternal blessings of the Redeemer’s kingdom.
 

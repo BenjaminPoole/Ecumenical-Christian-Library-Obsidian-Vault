@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'Grace and Glory'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3358
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord will give Grace and Glory." Psalm 84:11.
 
@@ -31,7 +28,7 @@ Now, in the spirit of these two thoughts, let us come to this text, which is ver
 
 There are just two great and splendid gifts that God here declares He will bestow. First, the gift of Grace, and then next, the gift of Glory. We will take the first gift first in our meditations—
 
-I. GOD WILL GIVE GRACE.
+## I. God Will Give Grace
 
 To whom will He give Grace? Broadly understood, we may say that He will give Grace to His own chosen ones. So is it in the Covenant of Grace. "I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. So, then, it is not of him that wills, nor of him that runs, but of God that shows mercy." Grace is a most Sovereign thing. God has the right to give it where He pleases and He takes care that the Sovereignty shall be seen. Some of His chosen ones have gone afar into sin, but He gives them Grace, for all that. Some of them may be on the very verge of destruction and come to the last hour of life—but still, He will give them Grace—and there is not one upon whom His electing love has set the broad arrow of the Kingdom, marking that man to be a vessel of mercy, who shall pass away without receiving Divine Grace! This is a broad statement and though there are some that cavil at it, yet rest assured that it is the Truth of God!
 
@@ -144,7 +141,6 @@ Now, Brothers and Sisters, one more remark. If the Lord does give Grace and Glor
 It is hard to part, but let them go! If He has given your dear children, or your friends, or your partners in life, Grace now, when He proceeds to give them Glory you may weep, for, "Jesus wept," but you must not murmur, for that would be to deny Christ's claim to what He has purchased with His own precious blood!
 
 Oh, that all of you had Grace that you might all have Glory! Do not hope for Glory without Grace, but Jesus is willing to give it. Whoever trusts Him shall receive it. May it be the portion of us all, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 3357 Heedful Hearing|← #3357]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3359 Penitence, Pardon and Peace|#3359 →]]

@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Ezekiel 2:1-2
 
@@ -59,7 +58,7 @@ God proceeds in the same discourse, but expresses in other words the great rebel
 
 ## Prayer Lecture 6
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, O Almighty God, since thou hast counted us worthy of enjoying the privilege of daily listening to thy word, that it may not find our hearts of stone and our minds of iron, but may we so submit ourselves to thee with all due docility, that we may truly perceive thee to be our Father, and may be confirmed in the confidence of our adoption, as long as thou perseverest to address us, until at length we enjoy not merely thy voice, but also the aspect of thy glory in thy heavenly kingdom, which thine only-begotten Son has acquired for us by his blood. — Amen.
 
@@ -107,7 +106,7 @@ He adds, *after the volume was unrolled, that he saw it written on each side:* b
 
 ## Prayer Lecture 7
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast this day deigned to invite us to thyself with the testimony of thy paternal favor, that we may not *be* as the beasts of the forest, but submit ourselves calmly to thee, and so follow where thou callest us, that we may in reality feel thee to be our Father; and thus may we live under the protection of thy hand as long as we are pilgrims in this world, so that at length being gathered unto thy heavenly kingdom, we may cleave entirely to thee and thine only-begotten Son, who is our felicity and glory. — Amen.
 

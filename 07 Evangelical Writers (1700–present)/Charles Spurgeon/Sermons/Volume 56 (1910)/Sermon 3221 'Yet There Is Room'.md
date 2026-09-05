@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'Yet There Is Room'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3221
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And yet there is room." Luke 14:22.
 
@@ -71,7 +68,7 @@ Probably I am addressing some who will never see another year roll over their he
 
 III. I think I have dwelt long enough on that word, "yet." I want in closing to ask another question, WHY IS
 
-THERE ROOM?
+## There Room?
 
 How do we know that there is still room? Well, our text is enough to make us sure, even if we had nothing else, but we have other reasons for knowing, "yet there is room." And the first reason is because the decree of election is vast and wide. Those individuals who try to caricature our doctrinal sentiments are in the habit of saying that we teach that God has chosen a few to be saved and left the great majority of mankind to perish. They know that we have never said any such thing! And they also know that no man of any standing in our denomination has ever said any such a thing! On the contrary, we believe that God has ordained a countless host, so numerous that no man can number it, who shall be everlastingly saved! And we think we have some warrant for believing that the number of the saved will vastly exceed the number of the lost, that in all things Christ may have the preeminence. Certainly, whatever may be our opinion upon that matter, we rejoice that the lines of Divine Election are not narrow, that the chosen people of God are not a mere hand-
 
@@ -91,7 +88,7 @@ Perhaps the black doubt comes to you, "Is there room for me?" My answer to that 
 
 May God grant that many shall come to Jesus this very moment, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 14:7-24.
+## Exposition by C. H. Spurgeon: Luke 14:7-24
 
 Verse 7. And He put forth a parable to those which were bidden, when He marked how they chose out the chief rooms. This parable was by far the best part of the entertainment of the day!
 
@@ -136,7 +133,6 @@ that settled the matter! Of course he could not go to the feast.
 house may be filled. [See Sermon #227, Volume 5—COMPEL THEM TO COME IN.] "Bring in highwaymen and hedge-birds, those that have no place where to lay their heads—fetch them in by force if necessary, 'that my house may be filled.'"
 
 24\. For I say unto you, That none of those men which were bidden shall taste of my supper. They were invited, yet they would not come. But others shall come and fill the tables and the great feast shall be furnished with guests! No provisions of mercy will ever be wasted. If you who are the sons and daughters of godly parents, or you who are the regular hearers of the Word will not have Christ, then others shall! If you hear, but hear in vain, then the rank outsiders shall be brought in and they shall feed upon the blessed provisions of the Infinite Mercy of God and God shall be glorified! But terrible will be your doom when the great Giver of the Gospel Feast says concerning you and those like you, "None of those men which were bidden shall taste of My supper."
-
 
 ---
 [[Sermon 3220 'A Time to Love'|← #3220]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3222 'The Lamb of God'|#3222 →]]

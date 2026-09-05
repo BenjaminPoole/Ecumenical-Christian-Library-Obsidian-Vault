@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Happiness—the Privilege and Duty of Christians
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1359
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 10, 1877,.
+*Delivered on Lord's-Day Morning, June 10, 1877*
 
 > "Happy are you, O Israel; who is like unto you? Opeople saved by the Lord, the shield of your help, and who is the sword of your excellency! And your enemies shall be found liars unto you; and you shall tread upon their high places." Deuteronomy 33:29.
 
@@ -190,7 +189,6 @@ Despite our shortcomings, blessed be God, we have been supremely happy. If we co
 O come and rest where God has provided rest for sinners' souls! Beloved, trust in Jesus Christ this morning! Make no more delay! May His Divine Spirit enable you to do so—then shall your peace be like a river and you shall confess that we did not deceive you. You will cry, "The half has not been told me," when you perceive the deep peace, the holy calm, the blessed restfulness and sometimes the ecstatic, overflowing delight which is the portion of the child of God! If I had to die like a dog and there were no hereafter, I would still choose to be a Christian, for of all lives that can be lived there is none that can compare with this! We drink the wine on the lees well-refined and are satisfied with marrow and with fatness!
 
 But as for worldlings, they desire the husks that swine eat, with which their bellies cannot be filled. The Lord grant His people Grace to be happy in Him and may He also bring in the wanderers, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1358 All the People at Work for Jesus|← #1358]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1360 The Good Samaritan|#1360 →]]

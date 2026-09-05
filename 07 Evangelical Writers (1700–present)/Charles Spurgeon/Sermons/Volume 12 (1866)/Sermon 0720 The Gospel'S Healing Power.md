@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Gospel'S Healing Power
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 720
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 11, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, November 11, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And it came to pass on a certain day, as He was teaching, that there were Pharisees and doctors of the la w sitting by, which were come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them." Luke 5:17.
 
@@ -156,7 +155,6 @@ The power of the Spirit of God has led many of you to come to Him, and you are s
 If they perish who despised Moses' law, how shall you escape if you neglect so great a salvation? May the Holy Spirit now, with mighty energy, apply the precious blood of Jesus to every hearer, and unto God shall be glory world without end. Amen.
 
 "Blessed Savior, at Your feet I lie, Here to receive a cure or die. But Grace forbids that painful fear, Almighty Grace, which triumphs here. You will withdraw the poisoned dart, Bind up and heal the wounded heart. With blooming health my face adorn, And change the gloomy night to morn."
-
 
 ---
 [[Sermon 0719 Praying In The Holy Spirit|← #719]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0721 The Last Enemy Destroyed|#721 →]]

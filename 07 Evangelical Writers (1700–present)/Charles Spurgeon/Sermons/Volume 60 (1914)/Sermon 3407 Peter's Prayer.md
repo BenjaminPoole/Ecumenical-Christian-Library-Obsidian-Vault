@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Peter's Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3407
-
-DELIVERED BY C. H. SPURGEON.
 
 > "When Simon Peter saw it, he fell down at Jesus'knees, saying, Depart from me, for I am a sinful man, O Lord." Luke 5:8.
 
 THE disciples had been fishing all night. They had now given up fishing—they had left their boats and were mending their nets. A Stranger appears. They had seen Him, probably, once before, and they remembered enough of Him to command respect. Besides, the tone of voice in which He spoke to them and His manner at once ruled their hearts. He borrowed Simon Peter's boat and preached a sermon to the listening crowds. After He had finished the discourse, as though He would not borrow their vessel without giving them their hire, He bade them launch out into the deep and let down their nets again. They did so and, instead of disappointment, they at once took so vast a haul of fish that the boats could not contain all and the net was not strong enough and began to break. Surprised at this strange miracle— overawed, probably by the majestic appearance of that matchless One, who had worked it, Simon Peter thought himself quite unworthy to be in such company—and fell on his knees and cried this strange prayer—"Depart from me, for I am a sinful man, O Lord." So I desire that, first of all, we shall hear—
 
-I. THE PRAYER IN THE WORST SENSE WE CAN GIVE TO IT.
+## I. The Prayer in the Worst Sense We Can Give to It
 
 It is always wrong to put the worst construction on anyone's words and, therefore, we do not intend to do so except by way of license and, for a few moments only, to see what might have been made out of these words. Christ did not understand Peter so. He put the best construction upon what he said, but if a caviler had been there, a wrong interpretation would have been to this sentence—"Depart from me, for I am a sinful man, O Lord."
 
@@ -63,7 +60,7 @@ Another time, when this has passed over the mind, not altogether rightly, not al
 
 Now, that, I say, is not altogether wrong and not altogether right. There is a mixture there, and we may excuse and somewhat commend, but not altogether. There are other times in which the same feeling may come across the mind, but I cannot stay now to specify them. It may be so with some here, and I pray them not to concern themselves utterly, nor yet to excuse themselves completely, but to go on to the next teaching of this prayer—
 
-III. A PRAYER THAT NEEDS AMENDING AND REVISING.
+## III. A Prayer that Needs Amending and Revising
 
 As it stood, it was not a good one. Now let us put it in a different way. "Depart from me, for I am a sinful man, O Lord." Would it not be better to say, "Come nearer to me, for I am a sinful man, O Lord"? It would be a more brave prayer and a more tender prayer—more wise and not less humble, for humility takes many shapes. "I am a sinful man," here is humility. "Come nearer to me." Here is faith which prevents humility from degenerating into unbelief and despair! Brothers and Sisters, that would be a good argument, for see—"Since, Lord, I am a sinner, I need purifying. Only Your Presence can truly purify, for You are the Refiner and You purify the sons of Levi. Only Your Presence can cleanse, for the fan is in Your hand and You alone can purge Your floor. You are like a refiner's fire, or like fuller's soap—come nearer to me, then, Lord, for I am a sinful man and would not be always sinful. Come, wash me from my iniquity that I may be clean. And let Your sanctifying fire go through and through my nature till You burn out of me everything that is contrary to Your mind and will." Dare you pray that prayer? It is not natural to pray it. If you can, I would say to you, "Simon Bar-Jona, blessed are you, for flesh and blood have not taught you this." Flesh and blood may make you say, "Depart from me"—it is the Holy Spirit, alone, that under a sense of sin, can yet put a Divine attraction to you in the purifying fire and make you long, therefore, that Christ would come near to you!
 
@@ -77,7 +74,7 @@ See, then, what I am aiming at with you, dear Brothers and Sisters. It is this�
 
 I shall say no more, but I would that the Holy Spirit would say this to some who are in this house, who have long been invited to come and put their trust in Jesus, but always plead as a reason for not coming that they are too guilty, or that they are too hardened, or too something or other! Strange that what one man makes a reason for coming, another makes a reason for staying away! David prayed in the Psalms, "Lord have mercy and pardon my iniquity, for it is great." "Strange argument," you will say. It is a grand one! "Lord, here is great sin and there is now something that is worthy of a great God to deal with! Here is a mountain sin, Lord, have Omnipotent Grace to remove it! Lord, here is a towering Alp of sin—let the floods of Your Grace, like Noah's flood, come 20 cubits over the top of it! I am the chief of sinners— here is room for the chief of Saviors." How strange it is that some men should make this a reason for staying away! This cruel sin of unbelief is cruel to yourselves—you have put away the comfort you might enjoy. It is cruel to Christ, for there is no pang that ever wounded Him more than that unkind, ungenerous thought that He is unwilling. Believe, believe that He never is so glad as when He is clasping His Ephraim to His breast! As when He is saying, "Your sins, which are many, are all forgiven you." Trust Him! If you could see Him, you could not help it. If you could look into that dear face and into those dear eyes, once red with weeping over sinners that rejected Him, you would say, "Behold, we come to You! You have the words of eternal life! Accept us, for we rest in You alone. All our trust on You is stayed." And that done, you would find that His coming to you would be like rain on the mown grass, as the showers that water the earth and, through Him, your souls would flourish, your sackcloth would be taken away and you would be girt about with gladness and rejoice in Him, world without end! The Lord Himself bring you to this. Amen.
 
-LUKE 15:1-27.
+## Luke 15:1-27
 
 We shall, tonight, read a chapter which, I suppose, the most of us know by heart. But as often as I have read it, I do not remember ever reading it without seeing some fresh light in it. May it be so tonight!
 
@@ -120,7 +117,6 @@ There is no wishing to fill his belly with husks, now! But the word is passed ro
 25\. Now his elder son was in the field. There is a great deal of questioning about who this man was—this eldest son. Why, dear me, I have known him! I have the misfortune to meet him every now and then. He is a very capital man—one of the best of men, but he does not care about revivals, or about having a great many converted. He is very suspicious about such things—he does not care about making so much fuss over men that have newly repented. He holds rather hard views about them. "He was in the field at work."
 
 25-27. And as he came and drew near to the house, he heardmusic and dancing. Andhe called one ofthe servants, and asked what these things meant. And he said unto him, Your brother is come; and your father has killed the fatted calf, because he has received him safe and sound. Did you ever notice that point—the father's gladness because he had received him safe and sound? No bones broken. His face was not disfigured. He was safe and sound. It is a wonderful thing that the sinner should come back to Christ safe and sound, considering where he has been! He has been in much worse danger than if he had been in battle or in shipwreck. He has been with drunks and with harlots—and yet he is received safe and sound. Oh, the wonders that Divine Grace can do, to put safeness and soundness into us who went so far astray!
-
 
 ---
 [[Sermon 3406 Fullness of Joy Our Privilege|← #3406]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3408 Not Boasting, But Trusting|#3408 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Singing in the Ways of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1615
 
-DELIVERED ON THURSDAY EVENING, AUGUST 11, 1881,.
+*Delivered on Thursday Evening, August 11, 1881*
 
 > "Yes, they shall sing in the ways of the Lord: for great is the glory of the Lord." Psalm 138:5.
 
@@ -182,7 +181,6 @@ And mark this, dear Brothers and Sisters, if you and I sing with the Spirit and 
 But another time a number stand listening by the side of the hedge and they ask, "Are these pilgrims going along? Why, they are singing! Are they Methodists? Are they Presbyterians? Are they that strait-laced kind of people?" "Yes." Well, but they are singing and they sing very heartily, too! They seem to be uncommonly merry. Is that their general way? "Oh, yes," says one, "and they have good reason to be happy. I was with one of them and he was telling me what the Lord had done for him—and I thought that if the Lord had done as much for me I should be happy, too." "And do you know any of these people? Are they troubled as we are?" "Oh, yes, they have their troubles, but they take their cares to their heavenly Father and find rest." "Then," says one, "I would like to go to their meetings and learn their secret"— and so they come and find the Savior!
 
 Legions of flies are caught by this honey! Many are brought to God by the sweet lives of His people. If we can always rejoice in the Lord, we shall bring many to God who otherwise would have turned on their heels and said, "We will have nothing to do with these dull dreamers. We are too young to lose all our joy in life." Tell the young people that the most joyous life is the life that is nearest to God—that the most merry life is the life of the man who has found all for this world, and all for the world to come, in God and in His Christ! God help you, dear Brothers and Sisters, to sing all day long and may you even have "songs in the night," to the glory of Him whose name is—"the happy God." Amen.
-
 
 ---
 [[Sermon 1614 Dressing In The Morning|← #1614]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1616 Saved In Hope|#1616 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Love's Great Reason
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3398
-
-DELIVERED BY C. H. SPURGEON.
 
 > "We love Him because He first loved us." 1 John 4:19.
 
@@ -33,7 +30,7 @@ I make this remark because I have sometimes noticed that in addressing Sunday sc
 
 But now to come to the text. I shall treat the first part of the sentence as the great general confession of the whole Church—"We love Him." And the second first part of the sentence as the most glorious reason for that love—"because He first loved us." I am not going to preach this evening, but only to stir you up about these points.
 
-I. THE GREAT GENERAL CONFESSION, "WE LOVE HIM."
+## I. The Great General Confession, "We Love Him."
 
 Now, if you are a child of God, you will say, or if you do not say it, it will be true, "We love Him." As sure as ever you have passed from darkness to light, whether you are an Episcopalian, or a Presbyterian, or a Baptist, or whatever you may be, you will agree with this utterance of the one mouth of the one Church! We all, without exception, who have believed in Him, love Him.
 
@@ -75,7 +72,7 @@ Brothers and Sisters, we bless God that the day is coming when we shall love Him
 
 I might pause here to say—if it is true that you love Him, dear Brothers and Sisters—love His people better, love His poor better, love His cause better, love His Truth better, love poor blood-bought sinners better, love the assemblies of His saints better, love His Word better, keep His commandments better, draw nearer to Him, aim to be more like He! May these practical Truths, though unspoken by me, yet be lived out in your conversation. But now for the second head. We can only afford a few minutes upon it, but it is a subject which might well occupy eternity in our meditation—
 
-II. THE GLORIOUS REASON FOR OUR LOVE.
+## II. The Glorious Reason for Our Love
 
 "We love Him—because He first loved us." It is personal, again, you see, personal again. "We"—"Him"—two persons—and here is the reason for it—"because He first loved us"—persons again! We do not love Christ because the minister preached, or we received his doctrines, or because we can understand that such-and-such things are in our Lord's teachings. The reason for the love springs from Himself, as it goes out after Himself. It is because of something that He did and something that He said, prior to anything that He did. "We love Him because He first l oved us." Love is the cause of love! He loves—we love. We love second and after Him because He loves first and before us. He first. Now, that is an experimental Truth of God. We know that He loved us before we loved Him. Just look back on your life before conversion. He loved you then. What made you love Him at all? It was because you were told that He loved you and you believed it. Law and terrors never made you love Him—they hardened you. It was a sense of blood-bought pardon that dissolved you and you saw the love of Christ in that pardon! And so, you could not help loving Him in return. This is no novelty—this is no mere theory—it is a great Truth of God! I pray you turn it over. Jesus loved you when you lived carelessly, when you neglected His Word, when the knee was unbent in prayer. Ah, He loved some of you when you were in the dancing saloon, when you were in the playhouse—yes, even when you were in the brothel! He loved you when you stood at Hell's gate and drank damnation at every draught! He loved you when you could not have been worse or further from Him than you were! Marvelous, O Christ, is Your strange love! What love is this that shone on us when we were the serfs and slaves of Satan, the dishwashers in the kitchen of iniquity? When nothing was too hard for some of us to do if we might but sin—and yet He loved us! And others there were of us who were as bad as this—proud, hypocritical, rotten-hearted professors who were boasting of our own self-righteousness, as proud as Lucifer, when there was not even a good thing in us—and yet we were loved with His great love, wherewith He loved us even when we were dead in trespass and in sins! Blessed be His name!
 
@@ -89,7 +86,7 @@ Words fail me to speak about that love of His. It was a love so condescending th
 
 I would I had a seraph's tongue but for one moment—a tongue of flame with which to speak of my Master! As I cannot have this, I must be content to say that this ocean of Christ's love is one that is not to be measured. Plunge into it! Ask that you may be swallowed up in it! Pray that it may baptize you, that you may be lost in its overwhelming floods and that henceforth for you to live may be Christ and to die may be gain! Brothers and Sisters, the Lord's love is over you, and in you, and in the power of His quickening Spirit may you live through another week! And when we come together again, may our hearts retain some of the glow of the affection which I trust we have felt burning within our hearts tonight. To His name be praise! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS8:26-39.
+## Exposition by C. H. Spurgeon: Romans 8:26-39
 
 Verse 26. Likewise the Spirit also helps our infirmities. Our weaknesses, our insufficiencies, our inabilities—the Spirit of God comes to be a Helper to the children of God!
 
@@ -122,7 +119,6 @@ Verse 26. Likewise the Spirit also helps our infirmities. Our weaknesses, our in
 35\. Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?Well, these things have been tried. As it is written, "For Your sake we are killed all the day long. We are accounted as sheep for the slaughter." In Paul's day they were being hunted to the death by the thousands and tens of thousands. Were they separated from Christ's love? The enemy grew tired of persecution before the saints were wearied by it! You remember how, in the days of the Roman Empire, the Christians came to the judgment seat and confessed Christ even when they were not sought after—as if tempting their enemies to throw them to the lions, or put them to death! They were destitute of all fear and though Emperors were worse than brutes, these Christians defied them, outbraved them, vanquished them! They could not put down the Christians.
 
 36-39. As it is written, For Your sake we are killed all the day long, we are accounted as sheep for the slaughter No, in all these things we are more than conquerors through Him that loved us. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come. Nor height nor depth, nor any other creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
-
 
 ---
 [[Sermon 3397 A Timely Expostulation|← #3397]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3399 Good Talk|#3399 →]]

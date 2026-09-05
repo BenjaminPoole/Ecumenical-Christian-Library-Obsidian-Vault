@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # God'S Estimate Of Time
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 447
 
-DELIVERED ON SUNDAY MORNING, APRIL 27, 1862, BY REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 27, 1862, by Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "But, Beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years and a thousand years as one day." 2 Peter 3:8.
 
@@ -145,7 +144,7 @@ God gave the foeman the advantage and yet won the victory. So, in the greater ba
 
 The Gospel comes out like a David with nothing but a sling and a stone against one, the staff of whose spear, is like a weaver's beam. See the hosts of Philistia come up armed to the eyes, every one of them, and there are thousands of them—there is God's hero—he is but one man. He has no weapon but the decayed bone of an ass's jaw. But he dashes at them right and left, hip and thigh, with a great slaughter, and smites them till heaps upon heaps with the jaw bone of an ass has he slain a thousand men.
 
-Brethren, whenever you see anything in the world which would lead you to believe that the enemy is getting the upper hand, say, "Ah, it is only God throwing in the advantage on the side of His enemies." The battle was fair enough be- fore, but He is giving them all on their side, letting them have every weapon, bidding them take all the power and all the wit and all the eloquence and learning. We will beat them yet! Now in the name of Him that lives and was dead once more we, who are God's servants, full of weakness, throw down the gauntlet against the world that seems to be omnipotent! Against your learning and your eloquence and your multitudes and your authorities and your dignities, your powers and your State alliances, we still throw down the gauntlet.
+Brethren, whenever you see anything in the world which would lead you to believe that the enemy is getting the upper hand, say, "Ah, it is only God throwing in the advantage on the side of His enemies." The battle was fair enough be-fore, but He is giving them all on their side, letting them have every weapon, bidding them take all the power and all the wit and all the eloquence and learning. We will beat them yet! Now in the name of Him that lives and was dead once more we, who are God's servants, full of weakness, throw down the gauntlet against the world that seems to be omnipotent! Against your learning and your eloquence and your multitudes and your authorities and your dignities, your powers and your State alliances, we still throw down the gauntlet.
 
 Take it up, O earth, if you dare! But remember when we make the challenge, we expect stern fighting. We know from God's authority, which cannot lie, that a glorious victory awaits us. Now see, Brethren, this is why God is a thousand years about it! He can shake the old harlot of the seven hills tomorrow if He wills. He can knock down the idol gods today if so it pleases Him. Tonight, before you and I go to sleep, every idol might be cast to the moles and to the bats if Jehovah willed it—but He does not.
 
@@ -156,7 +155,6 @@ After all the four hundred years of Israel's bondage, Egypt's power was broken a
 I shall now leave my subject to the consideration of the faithful to cheer their hearts. If you think the work has been long and tedious, you will not think so any more, Brothers and Sisters, if you obey Peter's exhortation, "Be not ignorant of this one thing, that one day is with the Lord as a thousand years and a thousand years as one day." As to those present who know not Christ, may the one day of their conversion take place today. And that one day of God's Grace and favor in their hearts they shall find to be as good as a thousand years spent in the pleasures of sin.
 
 "He that believes and is baptized shall be saved, he that believes not shall be damned." God help us to believe, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 0446 The Old, Old Story|← #446]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0448 Another And A Nobler Exhibition|#448 →]]

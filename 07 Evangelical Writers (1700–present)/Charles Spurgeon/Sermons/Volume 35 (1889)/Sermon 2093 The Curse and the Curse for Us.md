@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Curse and the Curse for Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2093
 
-DELIVERED ON LORD'S DAY MORNING, MAY 26, 1889,.
+*Delivered on Lord's Day Morning, May 26, 1889*
 
 > "For as many as are of the works of the Law are under the curse; for itis written, Cursed is everyone who does not continue in all things which are written in the book of the law, to do them. But that no one is justified by the Law in the sight of God is evident, for the just shall live by faith. Yet the law is not of faith, but, the man who does them shall live by them. Christ has redeemed us from the curse of the law, having become a curse for us for itis written, Cursed is everyone who hangs on a tree, that the blessing of Abraham might come upon the Gentiles in Christ Jesus, that we might receive the promise of the Spirit through faith." Galatians 3:10-14.
 
@@ -33,7 +32,7 @@ When a minister is studying a sermon, his best preparation comes through his fee
 
 I. Let us learn, at the outset, that BLESSEDNESS COMES NOT TO THOSE WHO ARE OF THE WORKS OF
 
-THE LAW.
+## The Law
 
 First, observe the fact, as the Apostle states it very positively—"As many as are of the works of the Law are under the curse." You cannot be under the curse and yet be partakers of the blessing. A man cannot be in darkness and in light at the same moment—he cannot be under the curse of the Law and under the blessing of the Gospel, too. All who are of the works of the Law are under the curse and consequently none of them are blessed with faithful Abraham.
 
@@ -176,7 +175,6 @@ Further, let us now gratefully extol our Redeemer. Join all of you to magnify th
 Then go and tell other people about your Lord's redemption. The theme will win attention if properly set forth. Let no one within fifty miles of you be without a knowledge of this great redemption by Christ's being made a curse for us. Men try to hide this Truth of God—therefore let us cause it to shine out everywhere. Vindicate the name of your great Lord by telling everybody that He has redeemed us from the curse of the Law, being made a curse for us.
 
 If I could set you all preaching this blessed doctrine, I should rejoice, indeed. Rest in it and rejoice in it, and then repeat it till others also know and believe it. Even now the day begins to brighten up, the murky darkness is abating—I hope our hearts will rejoice in harmony with the day. The Lord send us out into a world delivered from darkness. May we make it brighter by setting before it this great Truth of God! To our glorious Substitute be glory forever and ever! Amen.
-
 
 ---
 [[Sermon 2092 God's Own Gospel Call|← #2092]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2094 Foundation Work|#2094 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 15. PAUL'S CONVERTS LIVING EPISTLES
-
-## PAUL’S CONVERTS LIVING EPISTLES
 
 5\. Inasmuch as his activity among them is his testimonial, and they themselves are aware that through his ministerial office he has constituted them a church, he calls them an epistle written by himself; not with ink and in paragraphs, not on paper or wood, nor engraved upon hard rock as the Ten Commandments written upon tables of stone, which Moses placed before the people, but written by the Holy Spirit upon fleshly tables—hearts of tender flesh. The Spirit is the ink or the inscription, yes, even the writer himself; but the pencil or pen and the hand of the writer is the ministry of Paul.
 

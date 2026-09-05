@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Enquiring the Way to Zion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3035
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall ask the way to Zion with their faces toward it." Jeremiah 50:5.
 
@@ -93,7 +90,7 @@ There are some who go to Heaven rejoicing all the way. I hope you may be of that
 
 "The feeblest saint shall win the day,
 
-EXPOSITION BY C. H. SPURGEON: PSALM32.
+## Exposition by C. H. Spurgeon: Psalm 32
 
 In this Psalm we have the Gospel of the peace of God as David knew it for himself and wrote it for the benefit of others.
 
@@ -126,7 +123,6 @@ watchful servant, "I will guide you with My eyes." But, like the attentive serva
 10\. But he that trusts in the LORD, mercy shall compass him about. What a number of blessed fences there are around a Believer! Just now David wrote, "You shall compass me about with songs of deliverance." And now he says of himself or his fellow Believer, "He that trusts in the Lord, mercy shall compass him about." What more can he need?
 
 11\. Be glad in the LORD, and rejoice, you righteous: and shout for joy, all you that are upright in heart The Psalm began with blessedness and it ends with holy gladness! It was necessary to go down into the Valley of Humiliation for a while, but the Lord brought the Psalmist up to the mountaintop again, so that he felt that he must have others join him in his gladsome song—"Be glad in the Lord, and rejoice, you righteous; and shout for joy, all you that are upright in heart." May all of us be fitted, by God's Grace, to join that singing and shouting company, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 3034 Reasons for Seeking God|← #3034]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3036 Proving God|#3036 →]]

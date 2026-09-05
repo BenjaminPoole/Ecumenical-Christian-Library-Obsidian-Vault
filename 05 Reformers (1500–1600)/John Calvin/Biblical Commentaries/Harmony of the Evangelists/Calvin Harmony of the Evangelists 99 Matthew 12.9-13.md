@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 99. Matthew 12:9-13; Mark 3:1-5; Luke 6:6-10
-
-**Matthew 12:9-13; Mark 3:1-5; Luke 6:6-10**
 
 **9**. And having departed thence, he came into their synagogue: **10**. And, lo, there was a man having a withered hand, and they asked him, saying, Is it lawful to heal on the Sabbaths? that they might accuse him. **11**. But he said to them, What man shall there be among you who shall have one sheep, and if it fall on the Sabbath into a ditch, will not lay hold on it, and lift it out? **12**. How much more then is a man better than a sheep? Therefore it is lawful to do well on the Sabbaths. **13**. Then he saith to the man, Stretch out thy hand. And he stretched it out, and it was restored to soundness like the other.
 

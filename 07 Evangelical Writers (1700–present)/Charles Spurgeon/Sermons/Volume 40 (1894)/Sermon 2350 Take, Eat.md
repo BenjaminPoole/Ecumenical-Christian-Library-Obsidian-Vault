@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # "Take, Eat"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2350
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And as they were eating, Jesus took bread, and blessed it, and broke it, and gave it to the disciples, and said, Take, eat; this is My body." Matthew 26:26.
 
@@ -160,7 +157,6 @@ Was he not, himself, a disciple? I cannot say, but this I do know, that the Lord
 26-29. And as they were eating, Jesus took bread, and blessed it, and broke it, and gave it to the disciples, and said, Take, eat, this is My body. And He took the cup, and gave thanks, and gave it to them, saying, Drink you all of it; for this is My blood of the new testament, which is shed for many for the remission of sins. But I say unto you, I will not drink henceforth of this fruit of the vine until that day when I drink it new with you in My Father's Kingdom. Thus Jesus took the great Nazarite vow never to drink of the fruit of the vine till He should drink it new with His disciples in His Father's Kingdom. O Lord, You have pledged us in this cup, and You will return before long, and then what festivals we will hold with You! What joy we shall have in You forever and ever!
 
 30\. And when they had sung an hymn, they went out unto the Mount of Olives. Was it not truly brave of our dear Lord to sing under such circumstances? He was going forth to His last dread conflict, to Gethsemane, Gabbatha and Golgotha—yet He went with a song on His lips! The door opens, they go downstairs, they are in the open air—that night of the full moon—and they wend their way to the Mount of Olives. Then came that desperate struggle in which the great Captain of our salvation wrestled even to a bloody sweat and prevailed!
-
 
 ---
 [[Sermon 2349 All Comers To Christ Welcomed|← #2349]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2351 Prayer, The Cure for Care|#2351 →]]

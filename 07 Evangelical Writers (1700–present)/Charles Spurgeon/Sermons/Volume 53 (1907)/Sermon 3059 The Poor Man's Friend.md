@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Poor Man's Friend
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3059
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The poor commits himself unto You." Psalm 10:14.
 
@@ -83,7 +80,7 @@ Jesus! Commit yourself to Him. As that young bride commits all her life's joys a
 
 Thus the poor soul commits itself unto Christ, is married unto Christ, gets the portion which Christ possesses, becomes Christ's own and then lives with Christ forever! Oh that this might be the time in which many a man and many a woman would commit themselves to Christ! I do not merely mean you who are poor in pocket, but you who are poor in spirit—I am asking you to commit yourselves to Christ. Do not put it off, but may this be the very hour in which you shall be committed to Christ and He shall take possession of you to be His forever and forever! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM31.
+## Exposition by C. H. Spurgeon: Psalm 31
 
 Verse 1. In You, O LORD, do I put my trust This is a good beginning. This is the fulcrum which will give us the necessary leverage for lifting any weight of sorrow or trouble that may be burdening us—"In You, O Jehovah, do I put my trust." Can each of us truthfully say that to begin with? If so, we may go on with David to the petitions that follow.
 
@@ -149,8 +146,7 @@ Him so dearly? Oh, no! None shall pluck them from His hands. This is a sound arg
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3058 The Joy of Harvest|← #3058]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3060 The Good Shepherd|#3060 →]]

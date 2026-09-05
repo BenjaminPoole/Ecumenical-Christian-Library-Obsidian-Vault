@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Zechariah 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Lecture One Hundred And Thirty Fourth
 
@@ -61,7 +60,7 @@ In order to correct and to subdue the obstinacy of the people, he here upbraids 
 
 Let us learn from this passage, that the examples which are wont to be set up as a shield are so far from being of any weight before God, that they enhance our guilt: and yet we see that this folly infatuates many; for at this day the religion of the Papists seems to them holy and irreprehensible, because it has been handed down to them by their fathers. Hence, whenever they bring forward the fathers, they think it a sufficient defense against the charge of any errors. But nothing occurs more frequently in the Prophets than the truth, that examples tend more to kindle the wrath of God, when some men become the occasion of sin to others, and when posterity think that whatever has proceeded from their fathers is lawful.
 
-But we must at the same time bear in mind the design of the Prophet, for he did not intend simply to show, that the Jews in vain alleged the examples of the ancient; but, as I have said, he intended to shake off their self-flatteries by which they lulled themselves asleep; and he intended especially to put down those evil practices, which by long use had prevailed among them. This then is the reason why he says, *Be not like your fathers*. The Spirit employs the same sentiment in many other places, especially in the ninety- fifth Psalm (Psalm 95:1), and also in other Psalms.
+But we must at the same time bear in mind the design of the Prophet, for he did not intend simply to show, that the Jews in vain alleged the examples of the ancient; but, as I have said, he intended to shake off their self-flatteries by which they lulled themselves asleep; and he intended especially to put down those evil practices, which by long use had prevailed among them. This then is the reason why he says, *Be not like your fathers*. The Spirit employs the same sentiment in many other places, especially in the ninety-fifth Psalm (Psalm 95:1), and also in other Psalms.
 
 Then he says, that the *Prophets*, who had been sent by God, had cried to their fathers, but that they did not attend. As then contempt of the truth had for so many ages prevailed among the Jews, and as this impiety was not duly abhorred by them, since they thought themselves to be as it were in perpetual possession — these are the reasons why the Prophet expressly upbraids them with this, that God’s word had been formerly despised by their nation — *cry* then *did the former Prophets*. He also exaggerates again their crime and their sin, because God had often recalled them to himself but without success. Had the Prophets been silent, and had God applied no remedy for their defection, their ingratitude would not indeed have been excusable; but since Prophets had often been sent to them, in succession, one after the other, and each had endeavored to restore the wretched men to a state of safety, not to attend to their holy and serious admonitions, by which God manifested his care for their well-being, was a much more atrocious crime.
 

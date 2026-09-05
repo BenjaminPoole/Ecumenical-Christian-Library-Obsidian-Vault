@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Moving
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2811
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If Your Presence does not go with us, do not bring us up from here." Exodus 33:15.
 
@@ -69,7 +66,7 @@ be an active people. If God has done so much for you and you begin to sleep upon
 
 III. Thirdly, we are to consider THE SINS BY WHICH GOD'S PRESENCE MAY BE DRIVEN AWAY—AND
 
-THE MEANS BY WHICH THAT PRESENCE MAY BE RETAINED.
+## The Means by Which that Presence May Be Retained
 
 We can easily get rid of God's Presence if we grow proud. Stand inside your new house and say, "This great Babylon that I have built!" "And it will be a Babylon to you at once! Begin to say, "We are a great people, we can do anything that we wish! We have but to attempt and we can accomplish." Offer incense to your own acts. Bow down and worship your own sword as though it had gotten you the victory and the Lord shall say, and the ears of Christians shall hear it as distinctly as the Jews at the siege of Jerusalem heard the rustling of wings and a voice saying, "Arise, let us go from here." A proud heart is never God's palace—and a proud church will never be honored by the Lord.
 
@@ -95,7 +92,7 @@ My dear Friends, after all, the main objective of our ministry is the winning of
 
 the time of your conversion? Soul, are you willing to die without a hope in Christ? Surely not! You know yourself to be lost, ruined and undone. I pray you, just as you are, to make a confession of your guilt and come to Christ's Cross! He is just as willing to receive you, now, as He was when I first addressed you seven years ago! Though you have refused His invitation all these years, His heart still yearns with compassion over you. He has spared your life until now! He has not cut down the old cumber-ground yet. Sinner, believe on the Lord Jesus Christ and you shall be saved! O Spirit of God, change the sinner's heart! Give him faith that he may now cast himself on Christ! "Come now"—NOW, this moment— "and let us reason together, says the Lord: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool." May each one of us now pray the prayer of the penitent thief upon the cross, "Lord, remember me when You come into Your Kingdom!" Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 SAMUEL 7:18-29.
+## Exposition by C. H. Spurgeon: 2 Samuel 7:18-29
 
 Verse 18. Then went King David in, and sat before the LORD. This was not the usual Oriental posture of prayer, but David was mingling meditation with his supplication, so that his attitude was not according to ordinary rules.
 
@@ -119,8 +116,7 @@ Verse 18. Then went King David in, and sat before the LORD. This was not the usu
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2810 'Nevertheless at Your Word'|← #2810]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]]

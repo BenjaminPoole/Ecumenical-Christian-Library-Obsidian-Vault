@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 173. Matthew 21:28-32
-
-**MATTHEW 21:28-32**
 
 **28.** But what think you? [^1] A man had two sons, and, coming to the first, he said, Son, go work today in my vineyard. **29.** And he answering said, I will not; [^2] but afterwards he repented, and went. **30.** And coming to the other, he spoke in the same manner. But he answering said, I [go,] Sir, and went not. **31.** Which of the two did what his father wished? [^3] And they say to him, The first. Jesus saith to them, Verily I say to you, That the publicans and the harlots will go before you into the kingdom of God. **32.** For John came to you by the way of righteousness, and you did not believe him; but the publicans and the harlots believed him. And you, when you had seen it, were not moved by repentance [^4] to believe in him.
 

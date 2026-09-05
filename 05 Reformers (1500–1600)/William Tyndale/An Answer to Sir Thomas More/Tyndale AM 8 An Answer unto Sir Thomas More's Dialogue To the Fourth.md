@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 8. An Answer unto Sir Thomas More's Dialogue: To the Fourth Book
 
-AN ANSWER TO M. MORE'S FOURTH BOOK.
+*An Answer to M. More's Fourth Book*
 
 : _ « Christ's church hath the true doctrine already, and the selfsame that St Paul would not give an angel audi ence unto the contrary."
 
@@ -63,8 +62,6 @@ More : — " Tyndale saith that confession is the worst in vention that ever was
 
 [6 Compound the matter by some equivalent to a pecuniary pay ment.]
 
-172 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
-
 Ear-confes-
 
 Tyndale : — As ye fashion it, mean I, and of that filthy, Priapish confession, which ye spew in the ear; wherewith ye exclude the forgiveness that is in Christ's blood, for all that repent and believe therein, and make the people be lieve that their sins be never forgiven until they be shriven unto the priest; and then for no other cause save that they have there told them, and for the holy deeds to come, which the confessor hath enjoined them, more profitable oft-times for himself than any man else.
@@ -109,8 +106,6 @@ Tyndale : — Whatsoever a man hath done, if he repent and believe in Christ, it
 
 [3 More's words are, " Item that no sin can damn a Christian man but only lack of belief. For he" [meaning Tyndale] " saith that our faith suppethup all our sins, how great soever they be." — Works, Dial, p. 250.]
 
-174 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 loweth, that no sin damneth, save there where there is no belief.
 
 More : — " Item, that we have no free-will to do aught therewith, though the grace of God be joined thereto ; and that God doth all in us both good and bad, and we do but suffer, as wax doth of the workman."
@@ -131,19 +126,17 @@ II.] THE FOURTH BOOK. 175 we work actually : as the axe doth nothing in respect 
 
 More : — " Item, that God is author of good and evil, as well of the evil will of Judas in betraying Christ, as of the good will of Christ in suffering his passion."
 
-Tyndale : — The power wherewith we do good and evil, AH power is of God; and the will is of God : as the power which the to Rood or murderer abuseth, and wherewith he killeth a man unrightbut ^he, crooked and eously, is of God ; and the will wherewith he willeth it. But ™"|ehSthe the wickedness of his will, and crookedness or frowardness sameisof our own can- wherewith he slayeth unrighteously, to avenge himself, and to satisfy his own lusts, and the cause why he knoweth nottu the law of God and consenteth not to it, (which law should have informed his will, and corrected the crookedness thereof, and have taught him to use his will and his power right,) is his blindness1 fault only, and not God's : which blindness the devil hath poisoned him with.
+Tyndale : — The power wherewith we do good and evil, AH power is of God; and the will is of God : as the power which the to Rood or murderer abuseth, and wherewith he killeth a man unrightbut ^he, crooked and eously, is of God ; and the will wherewith he willeth it. But ™"|ehSthe the wickedness of his will, and crookedness or frowardness sameisof our own can-wherewith he slayeth unrighteously, to avenge himself, and to satisfy his own lusts, and the cause why he knoweth nottu the law of God and consenteth not to it, (which law should have informed his will, and corrected the crookedness thereof, and have taught him to use his will and his power right,) is his blindness1 fault only, and not God's : which blindness the devil hath poisoned him with.
 
 More : — " Item, matrimony is no sacrament."
 
 Tyndale : — Matrimony is a similitude of the kingdom of Matrimony. heaven, as are many things more : like as it appeareth by Christ in the gospel. But who instituted it to be a sacraMatrimony ment ? Or who, at his marriage, was taught the signification sacrament,
 
-, . . except a doc- of it? Who was ever bound to receive it in the name of a trine be added there- sacrament ? I would to Christ's blood that ye would make ^"' a sacrament of it unto all men and women that be married, and unto all other ; and would at every marriage teach the ieh people to know the benefit of Christ through the similitude mi of matrimony. And I affirm, that in the pope's church, there is no sacrament : for where no signification is, there is no sacrament. A sign is no sign unto him that understandeth nought thereby ; as a speech is no speech unto him that understandeth it not. I would to Christ's passion that ye would let them be sacraments, which Christ institute and ordained for sacraments. And then, if ye make of your own brains five hundred thereto, I would not be so greatly grieved ; though I would not give my consent unto so great a multi tude, partly for the bondage, and specially lest we should in time to come, the significations of them lost, fall into ido latry again, and make holy works of them, after the example
-
-176 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
+, . . except a doc- of it? Who was ever bound to receive it in the name of a trine be added there-sacrament ? I would to Christ's blood that ye would make ^"' a sacrament of it unto all men and women that be married, and unto all other ; and would at every marriage teach the ieh people to know the benefit of Christ through the similitude mi of matrimony. And I affirm, that in the pope's church, there is no sacrament : for where no signification is, there is no sacrament. A sign is no sign unto him that understandeth nought thereby ; as a speech is no speech unto him that understandeth it not. I would to Christ's passion that ye would let them be sacraments, which Christ institute and ordained for sacraments. And then, if ye make of your own brains five hundred thereto, I would not be so greatly grieved ; though I would not give my consent unto so great a multi tude, partly for the bondage, and specially lest we should in time to come, the significations of them lost, fall into ido latry again, and make holy works of them, after the example
 
 of the blindness wherein we be now ; but I would have the word ever lively preached out of the plain text.
 
-orders. More : — " Item, that all holy orders be but men's in- ion."
+orders. More : — " Item, that all holy orders be but men's in-ion."
 
 Tyndale : — The office of an apostle, bishop, priest, dea con, and widow, are of God. But as concerning the shaving, the oiling, and diversity of raiment, and many degrees since NO sacrament added thereto, prove that they be not1 men's traditions. But is without " „ A, .,. , , signification. an(j JQ wln make sacraments of the oiling, shaving, shearing, and garments, put their significations unto them, and let the king's grace compel them to keep them, and I admit them for sacraments ; and until that time I hold them for the false signs of hypocrites.
 
@@ -163,13 +156,11 @@ Tyndale : — Christ is no more killed. It is therefore the sacrament, sign, and
 
 T - death once it so still; or if ye can shew me a reason ot some other offered for meaning. And therefore I would that it had been called
 
-(as it indeed is, and as it was commanded to be) Christ's Christ's me- memorial, though that I doubt not but that it was called mass of this Hebrew word Misach, which signifieth a pension-giving, because that at every mass men gave every man a portion according unto his power, unto the sustentation of the poor2:
+(as it indeed is, and as it was commanded to be) Christ's Christ's me-memorial, though that I doubt not but that it was called mass of this Hebrew word Misach, which signifieth a pension-giving, because that at every mass men gave every man a portion according unto his power, unto the sustentation of the poor2:
 
 [2 So Bishop Pilkington observes : ' They glory much that the name of their mass is missah in Hebrew, and should be written, Deut. xvi. (10.); and thereof should niissa come in Latin, or else the Hebrew name to remain still/ Confutation, &c., Bishop Pilkington's Works, Park. Soc. p. 505. The word in the text cited is T^DD, the construct r 12
 
 [TYNDALE, m.j
-
-178 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 which offering yet reraaineth ; but to a false use and profit of them that have too much, as all other things are per verted.
 
@@ -203,8 +194,6 @@ More: — "Item, that the sacrament should not be worworship, shipped."
 
 Tyndale : — It is the sacrament of Christ's body and blood. And Christ calleth it the new and everlasting testa ment in his blood ; and commanded that we should so do in the remembrance of him, that his body was broken and his
 
-180 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 The true worblood shed for our sins. And Paul commandeth thereby to shew, or preach, the Lord's death. They say not, Pray to it, neither put any faith therein. For I may not believe in r. the sacrament, but I must believe the sacrament, that it is a ed death for iriiG sigrij and ifc true that ig signined thereby ; which is the only worshipping of the sacrament : if ye give it other wor ship, ye plainly dishonour it. As I may not believe in Christ's church ; but believe Christ's church, that the doctrine which they preach of Christ is true. If ye have any other doctrine, teach us a reason, and lead us in light, and we will follow.
 
 More : — "Item, that a Christian is not bound to keep any law made by man, or any at all."
@@ -235,8 +224,6 @@ Tyndale : — God saved the old idolaters with worldly salvation, and gave them 
 
 P Called in the Roman prayer-book or breviary, Apollonia. The ninth of February is dedicated to her, and the legend in the service of that day says that she bore the plucking out of all her teeth, rather than renounce Christ.] t
 
-182 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 same, though they be Turks, if they break the worldly laws, he rebuketh them, as the Ninevites, and punisheth them diversly. And if they knowledge their sins, and mend, he healeth them again: but and if they harden and sin as beasts, and will not amend, he destroyeth them utterly, as the Sodomites. And yet all such have no part in the life to come.
 
 The children But with his children, in whose hearts he writeth the faith of his Son Jesus and the love of his laws, he goeth otherwise to work. His law is1 their will: and their petitions are his honour and their neighbour's wealth; and that he will provide them of all things necessary unto this life, and govern them that their hearts be not overcome of evil. And he heareth them, unto his honour and their everlasting salvation ; and purgeth them, and teacheth them things whereof the popish, and all they whose hearts the god of this world hath blinded, to serve God with works, have no feeling.
@@ -249,7 +236,7 @@ P So C. U. L. ed., D. has, work his laws in."] [2 He was bishop of Salamis, in C
 
 P Epiphan. Op. Par. 1662. Epist. ad Johan. Episc. Hieros. Hieron. Interp. Tom. n. p. 317.]
 
-II.] THE FOURTH BOOK. 183
+## II.] the Fourth Book. 183
 
 Cirenus the bishop of Massilia, offended with the superstitiousGregory. ness of the people, burnt them, St Gregory wrote that he should not destroy the images, but teach only that the people should not worship them 5. But when it was so far come that the people worshipped them with a false faith (as we now know no other use), and [they] were no longer memorials only ; then the bishops of Greece and the emperor gathered them together, A council to provide a remedy against that mischief, and concluded that they should be put down for the abuse, thinking it so most imagesexpedient6 ; having for them, first, the example of God, whom a man may boldly follow, which commanded in the beginning of all his precepts, that there should be no image used to worship or pray before, not for the image itself, but for the weakness of his people; and having again before their eyes, that the people were fallen unto idolatry and image-serving by the reason of them.
 
@@ -258,8 +245,6 @@ Now answer me, by what reason canst thou make an heretic of him that concludeth 
 [5 Prseterea indico dudum ad nos pervenisse, quod fraternitas vestra, quosdam imaginum adoratores aspiciens, easdem in ecclesiis imagines confregit atque prqjecit. Et quidem zelum vos, ne quid manu factum adorari posset, habuisse laudavimus ; sed frangere easdem imagines non debuisse judicamus. Idcirco enim pictura in ecclesiis adhibetur, ut hi qui literas nesciunt, saltern in parietibus videndo legant quse legere in codicibus non valent. — Greg. Mag. Papse I. Op. Par. 1705. Lib. ix. Indict, ii. Epist. cv. Ad Serenum Massiliens. Episc. Tom. n. col. 1006.]
 
 [6 In the year 754, the emperor Constantino Copronymus sum moned an ecclesiastical council to meet at Constantinople ; where 338 bishops, his subjects, assembled accordingly, and condemned imageworship. In the second Nicene council the rulers of the church first gave their formal sanction to image-worship ; and affirmed that the pro hibition of graven images was only binding on the Jews. — See Mosheim. Cent. vm. ch. m. § 8-14. Labbe, Tom. vn. pp. 317, 584. Also Spelmanni Concilia ; under date of 792, pp. 305-8. London, 1609.]
-
-184 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 images are our lady.
 
@@ -299,8 +284,6 @@ Then bringeth he in the inconstancy of Martin, because Martin. he saith in his l
 
 More : — " Martin offered at Worms, before the emperor and all the lords of Germany, to abide by his book and to
 
-186 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 dispute : which he might well do, sith he had his safe conduct, that he should have no bodily harm."
 
 Tyndale : — 0 merciful God, how foam ye out your own shame ! Ye cannot dispute except ye have a man in your own danger1, to do him bodily harm, to diet him after your fashion, to torment him and to murder him. If ye might have had him at your pleasure, ye would have disputed with him : first, with sophistry and corrupting the scripture ; then with offering him promotions ; then with the sword : so that ye would have been sure to have overcome him, with one argu ment or other.
@@ -336,8 +319,6 @@ Tyndale : — And ye will come at no scripture only. And as for the old doctors,
 [5 "All the old holy fathers of so many years past he [i.e. Luther] nothing would esteem; but with blasphemous words letted not to write, I care not for Austin, &c/' — Id. p. 257.]
 
 [6 We shall find Tyndale again mentioning ' The Union of Doc tors;' and that Foxe has there put in the margin, * The union of doctors a good book/ There are no discoverable traces of any work with pre cisely this title ; but Tyndale might thus designate a book whose title is, Unio dissidentium ; Libellus ex prsecipuis ecclesise Christianse doctoribus selectus, per venerabilem patrem Herman. Bodium. In England it was briefly called Unio dissidentium, in the public documents of Tyndale's day. The first list of prohibited books in which it appears is a very short one, appended by Foxe to the order issued by Tonstal, demanding the surrender of Tyndale's New testaments. See Biograph. notice, Vol. i. p. xxxii. At an inquisitorial visitation of the diocese of London, held in the following March, 152^, by Tonstal's vicar-general, Sir Sebastian Harris, curate of the parish-church of Kensington, was induced to confess ' that he had two books, viz. The New testament in the vulgar tongue, translated by William Hotchyn, priest, and friar Roye, and Unio dissidentium, containing in it the Lutheran heresy ;' which books he was accordingly enjoined to surrender. And in the reply of the martyr, John Lambert, to the forty-five articles of inquiry, he mentions the Unio dissidentium, and adds, 'which I would to Christ, as it is in French and other languages, we had it truly trans lated into English/ Foxe, Acts and Mon. Vol. v. pp. 183, and 216 ; and Strype's Mem. Eccles. Vol. i. ch. vn. The book appears to have also penetrated Scotland; being mentioned in the eleventh article charged against Sir Jno. Borthwike, Knt., in 1540, when he was cited to appear before David Beaton, Abp. of St Andrew's, where it is said to contain 'most manifest and great errors, and heretical assumptions/ Foxe, Acts and Mon. Vol. v. p. 620. An edition had been printed at Antwerp, in 1527.]
-
-188 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 : — " They say, that a Christian man is discharged of all laws spiritual and temporal, save the gospel."
 
@@ -389,8 +370,6 @@ Then he bringeth forth the ensample of the heathen, to confirm the pope's chasti
 
 All vows are
 
-190 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 precisely, but alway except, if thine own or thy neighbour's necessity required the contrary: as if thou hadst vowed ' never to eat flesh, or drink wine or strong drink, to tame thy flesh, and thou afterward fellest in disease, so that thy body in that behalf were too tame, or that there could no other sustenance be gotten ; then thou must interpret such cases except, though thou madest no mention of them at the making of thy vow. Some man would say, other shift might we must use be made: what then? If other drink as hot as wine and Sres'for'our of the same operation, and other meat of the same power 5Slty' and virtue as flesh is, must be had, why shouldest thou for swear wine or flesh, seeing it is now no longer for the taming of thy body ? And so forth of all other, as I have above declared.
 
 And when he bringeth in the apostles, martyrs, confessors, and fifteen hundred years, it is clean contrary. For they had no such false imagination of chastity, or of any other
@@ -409,15 +388,13 @@ X.] THE FOURTH BOOK. 191 good use, but it is called evil for lack of sight. And 
 
 And on the other side, that another man loveth the laws of God, and useth the power that he hath of God well, and referreth his will and his deeds unto the honour of God, cometh of the mercy of God, which hath opened his wits, and shewed him light, to see the goodness and righteousness of the law of God, and the way that is in Christ to fulfil it ; whereby he loveth it naturally, and trusteth to do it. Why doth God open one man's eyes and not another's? Paul Rom. ix. (Rom. ix.) forbiddeth to ask why ; for it is too deep for man's be curious to
 
-' «/ A search God s capacity. God we see is honoured thereby, and his mercy secrets- set out and the more seen in the vessels of mercy. But the popish can suffer God to have no secret, hid to himself. They have searched to come to the bottom of his bottomless wisdom :
+' «/ A search God s capacity. God we see is honoured thereby, and his mercy secrets-set out and the more seen in the vessels of mercy. But the popish can suffer God to have no secret, hid to himself. They have searched to come to the bottom of his bottomless wisdom :
 
 and because they cannot attain to that secret, and be too proud to let it alone, and to grant themselves ignorant, with the apostle, that knew no other than God's glory in the elect ; A papistical
 
 & 1-1 opinion.
 
 they go and set up free-will with the heathen philosophers, and say that a man's free-will is the cause why God chooseth one and not another, contrary unto all the scripture. Paul saith it cometh not of the will, nor of the deed, but of
-
-192 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
 
 wit, reason, meKoeth
 
@@ -433,11 +410,11 @@ I ask the popish one question, whether the will can preyent a man's wit, and mak
 
 And when I am willing, he must assist me, and help to tame my flesh, and to overcome the occasions of the world and the power of the fiends. God therefore hath a special care for hjs eiect) insomuch that he will shorten the wicked days for their sakes, in which no man, if they should con tinue, might endure. And Paul suffereth all for the elect,
 
-X. XI.] THE FOURTH BOOK. 193
+## X. XI.] the Fourth Book. 193
 
 (2 Tim. ii.). And " God's sure foundation standeth," saith 2 Tim. u. Paul ; " God knoweth his." So that refuse the truth who shall, God will keep a number of his mercy, and call them out of blindness, to testify the truth unto the rest, that their damnation may be without excuse.
 
-The Turk, the Jew, and the popish build upon free-will, and ascribe their justifying unto their works. The Turk, when he hath sinned, runneth to the purify ings, or ceremonies of Mahomet ; and the Jew to the ceremonies of Moses ; and the pope unto his own ceremonies, to fetch forgiveness of their sins. And the Christian goeth through repentance to- ward the law unto the faith that is in Christ's blood. £eip of
+The Turk, the Jew, and the popish build upon free-will, and ascribe their justifying unto their works. The Turk, when he hath sinned, runneth to the purify ings, or ceremonies of Mahomet ; and the Jew to the ceremonies of Moses ; and the pope unto his own ceremonies, to fetch forgiveness of their sins. And the Christian goeth through repentance to-ward the law unto the faith that is in Christ's blood. £eip of
 
 And the pope saith that the ceremonies of Moses justified not, compelled with the words of Paul : and how then should his justify ? Moses' sacraments were but signs of promises of faith, by which faith the believers are justified; and even so be Christ's also. And now, because the Jews have put out the significations of their sacraments, and put their trust in the works of them, therefore they be idolaters ; and so is the pope for like purpose. The pope saith that Christ died o abomir r L 1/1 • ble blas~ not for us, but for the sacraments; to give them power to phemyi justify. 0 antichrist!
 
@@ -454,8 +431,6 @@ Master Dr Ferman was a virtuous, godly, and learned man.
 A true note to know hypocrites.
 
 M. More is a juggler with terms.
-
-194 ANSWER TO SIR THOMAS MORfi'S DIALOGUE. [CHAP.
 
 secret manner, and disputed with secretly, and had made him swear that he should not utter how he was dealt with, as they have made many other ; then they contrived a manner of disputations had with him, with such oppositions, answerings, and arguments, as should serve only to set forth their purpose: as M. More throughout all his book maketh, ' Quod he,' to dispute and move questions, after such a man ner as he can soil them, or make them appear soiled ; and maketh him grant where he listeth, and at the last to be concluded and led whither Master More will have him. Where fore I will not rehearse all the arguments, for it were too long ; and is also not to be believed, that he so made them, or so disputed with them, but that they added and pulled away, and feigned as they list, as their guise is. But I will declare in light that which Master More ruffleth up in darkness, that ye may see their falsehood.
 
@@ -481,8 +456,6 @@ them and to walk in them.
 
 Note now the order : first God giveth me light to see the The right goodness and righteousness of the law, and mine own sin and ?ust!L°atk)nr. unrighteousness ; out of which knowledge springeth repent ance. Now repentance teacheth me not that the law is good, [! Corosy and a worth. See Vol. i. p. 21, and 463.]
 
-196 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 and I evil; but a light that the Spirit of God hath given me, out of which light repentance springeth.
 
 Then the same Spirit worketh in mine heart trust and confidence, to believe the mercy of God and his truth, that he will do as he hath promised; which belief saveth me. And immediately out of that trust springeth love toward the law of God again. And whatsoever a man worketh of any other love than this, it pleaseth not God, nor is that love godly.
@@ -503,7 +476,7 @@ And when he saith, 'If faith certify our hearts that we works. be in the favour 
 
 And when he disputeth, 'If they that have faith, have love unto the law, and purpose to fulfil it, then faith alone Fauh aione justifieth not;' how will he prove that argument? He juggleth just with this word 'alone'; and would make the people believe that we said, how a bare faith that is without all other company, of repentance, love, and other virtues, yea, and without God's Spirit too, did justify us, so that we should not care to do good. But the scripture so taketh not alone, nor we so mean, as M. More knoweth well enough. When an horse bear eth A similitude. a saddle and a man therein, we may well say, that the horse only, and alone, beareth the saddle; and is not holp of the man in bearing thereof. But he would make men understand that
 
-ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
+## Answer to Sir Thomas Morels Dialogue. [Chap
 
 More is maliciously blind.
 
@@ -535,8 +508,6 @@ St Cyprian, that there were martyrs that suffered martyr- " dom for the name of 
 
 [! Amongst Cyprian's correspondence are several letters on this topic. It was not till some of the apostates had proceeded so far as to say, * Since the martyrs' requests are not allowed to suffice for our immediate re-admission to communion, we will have a church and bishop of our own/ and had acted upon this threat, that Cyprian spoke
 
-200 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 they believed that all mercy is given for Christ's blood-shed ding, they would have sent other men thither ; and would have suffered their own martyrdom for love of their neigh bours only, to serve them, and to testify the truth of God in our Saviour Jesus unto the world, to save at the least way some, that is to wete, the elect ; for whose sake Paul we must do suffereth all things, and not to win heaven. If I work for a 2° five,0™* worldly purpose, I get no reward in heaven : even so if I "e°war°dr. work for heaven, or an higher place in heaven, I get there no reward. But I must do my work for the love of my neighbour, because he is my brother, and the price of Christ's blood, and because Christ hath deserved it, and desireth it of me ; and then my reward is great in heaven.
 
 And all they which believe that their sins be forgiven them, and they received, as the scripture testifieth, unto the inheritance of heaven for Christ's merits, the same love Christ, and their brethren for his sake ; and do all things for their sakes only ; not once thinking of heaven when they work, but on their brethren's need. When they suffer themselves above might, then they comfort their soul with the remembrance of heaven, that this wretchedness shall have an end, and we shall have a thousand-fold pleasures and rewards in heaven; not our doings for the merits of our deservings, but given us freely for , but Christ's. And he that hath that love hath the right faith ;
@@ -549,7 +520,7 @@ James ii. And when he allegeth St James, it is answered him in the Mammon1 ; and
 
 [2 More, having previously named Luther and Tyndale, says : " They would we should ween that St James did speak of faith like one that wist not what faith meant, but were deceived by equivo cation of the word, calling faith the thing that is not faith indeed. These Lutherans abuse the word of a malicious mind, to deceive un learned people with equivocation. For whereas faith signifieth the belief and firm credence given not only to such things as God pro-
 
-XI.] THE FOURTH BOOK. 201
+## XI.] the Fourth Book. 201
 
 James expoundeth himself. For he saith in the first chapter, " God, which begat us with his own will, with the word of truth :" which word of truth is his promise of mercy and for giveness in our Saviour Jesus ; by which he begat us, gave us life, and made us a new creature through a fast faith. And James goeth and rebuketh the opinion and false faith of them that think it enough to be saved by, if they believe that there is but one God, and that Christ was born of a virgin, and a thousand things which a man may believe, and yet not believe in Christ, to be saved from sin through him. And James rethat James speaketh of another faith than at the beginning, faith, and appeareth by his ensample. The devils have faith, saith he : lively faithyea, but the devils have no faith that can repent of evil, or to believe in Christ to be saved through him, or that can love God, and work his will of love. Now Paul speaketh of a faith that is in Christ's blood, to be saved thereby ; which worketh immediately, through love of the benefit received. And James, at the beginning, speaketh of a faith that bideth trying, saying, " The trying of your faith worketh," or causeth, " patience ;" but the faith of the devils will bide no trying, for they will not work God's will, because they love him not. And in like manner is it of the faith of them that repent not, or that think themselves without sin : for except a man feel out of what danger Christ hath delivered him, he cannot love the work. And therefore James saith right, 'that no such wm not a
 
@@ -558,8 +529,6 @@ James expoundeth himself. For he saith in the first chapter, " God, which begat 
 J * serveth, can not justify.
 
 miseth, but also to every truth that he telleth his church, by writing or without, which thing he will have us bound to believe ; and whereas of truth the devils, as James saith, do believe such things, and have them in a reverent dread ; now would these heretics blind us with their equivocation, by which they not only restrain the faith unto the pro mises alone, from all other articles of the faith, of which many be no promises, but also abuse the word faith altogether, turning it slyly from belief into trust, confidence, and hope ; and would have it seem as though our faith were nothing else but a hope we have in God's promises." — Works, Dial. p. 266. Conf. August. Op. Paris. 1679 — 1700. Serm. clxx. xiii. Tom. v. col. 878. Jacobus apostolus cum defide et operibus loqueretur ad versus eos qui sibi putabant fidem sufficere, et opera bona habere nolebant, ait, Tu credis quia unus est Deus ; bene facis; et dsemones credunt, et contremiscunt. Numquid ideo clsemones ab seterno igne liberabuntur, quia credunt et contremiscunt ? Ecce modo quod audistis in evangelio, quod ait Petrus, &c.]
-
-202 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 And when Paul saith, ' faith only justifieth ;' and James, that ' a man is justified by works and not by faith only ;' there is a great difference between Paul's only, and James's only. For Paul's only is to be understood, that faith justifieth in the heart and before God, without help of works, yea, and ere I can work ; for I must receive life through faith to work with, ere I can work. But James's only is this wise to be under stood; that faith doth not so justify, that nothing justifieth
 
@@ -605,7 +574,7 @@ And finally, that good works, as to give alms and such like, justify not of them
 
 And therefore, saith Paul, " We be justified by faith, and by grace, without deeds :" that is, ere the deeds come. For faith only bringeth the spirit of life ; and delivereth our souls from fear of damnation, which is in the law; and ever maketh peace between God and us, as oft as there is any variance between us. And finally, when the peace is made between God Faith in and us, and all forgiven through faith in Christ's blood, and we maketh our small works begin to love the law, we were never the nearer except faith acceptaue. went with us, to supply out the lack of full love ; in that we have promises, that that little we have is taken a worth, and
 
-ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
+## Answer to Sir Thomas More's Dialogue. [Chap
 
 The righteous liveth by faith.
 
@@ -623,7 +592,7 @@ Tyndale: — John Baptist said to Christ, "I had need to be baptized of thee, an
 
 [2 So C. U. L. ed. ; D. has be dark.]
 
-XI.] THE FOURTH BOOK. 207
+## XI.] the Fourth Book. 207
 
 Christ? of his holiness and good deeds? When John said, "Behold the Lamb of God that taketh away the sin of the ^;;serfnd world," he was not of that sort, nor had any sins to be taken g^SSpaway at any time, nor any part in Christ's blood, which died tioninChristfor sinners only! "John came to restore all thing," saith Christ : that is, he came to interpret the law of God truly, and to prove all flesh sinners, to send them to Christ ; as Paul doth in the beginning of the Romans. Which law, if M. More could understand how spiritual it is, and what it requireth of us, he would not so dispute. And if there were no imperfectness in our lady's deeds, why did Christ rebuke John u. her (John ii.), when he ought rather to have honoured his mother? and why did he make her seek him three days? Chrysostomus dared say that our lady was now and then taken with a little vain-glory 3. She looked for the promises of him that should come and bless her; from what? She be lieved to be saved by Christ; from what ? This I grant, that There was our lady, John Baptist, Isaac, Jacob, Joseph, Moses, and £|pcS many like, did never consent to sin, to follow it; but had the without sin. Holy Ghost from the beginning. Neverthelater, while they followed the Spirit and wrought their best, yet chances met them by the way, and temptations, that made their works come sometimes unperfectly to pass ; as a potter that hath his craft never so well, meeteth a chance now and then, that maketh him fashion a pot amiss. So that I think the perfectest of them all, as we have ensamples of some, were compelled to say with Paul, "That good that I would, I do not ; and that evil that I would not, that I do." I would not swear on a book, that if our lady had been let slip as we other* were, and as hard apposed, with as present death before her eyes, that she would not have denied some things that she knew true. ' Yea ; but she was preserved by grace, that she was not/ No ; but though she were kept by grace from the outward deed, yet if there were such weakness5 in her flesh, she had sin. And the grace was, that she knew it ; and was meek to believe in Christ, to have it forgiven her, and to be
 
@@ -632,8 +601,6 @@ Christ? of his holiness and good deeds? When John said, "Behold the Lamb of God 
 [4 C. U. L. ed. woother.]
 
 [5 So C. U. L., but D. has wickedness,}
-
-208 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 preserved that it should not bud forth. John the evangelist, when he was as holy as ever was John the Baptist, said, "If we say we have no sin, we deceive ourselves."
 
@@ -663,8 +630,6 @@ Judas was by nature and birth (as we all be) heir of the wrath of God; in whom t
 
 And how will M. More prove that God choose th not of his goodness, but of our towardness? What good towardness can he have and endeavour, that is altogether blind, and carried away at the will of the devil, till the devil be cast out? Are we not robbed of all towardness in Adam ; and be by By Adam nature made the children of sin, so that we sin naturally ; and to sin is our nature? So that as now, though we would do well, the flesh yet sinneth naturally, neither ceaseth to sin, but so far forth as it is kept under with violence; even so once our repent and Judas would despair, and that the one would take hold of his grace, the other would reject it, accepted and chose the one and not the other ; as he would have made the contrary choice, if he had foreseen in them the contrary chance." — Id. p. 272.] r i 14
 
-210 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 hearts sinned as naturally, with full lust and consent unto the flesh, the devil possessing our hearts, and keeping out the lio-ht of grace. What good towardness and endeavour can we have to hate sin, as long as we love it? What good towardness can we have unto the will of God, while we hate it and be ignorant thereof? Can the will desire that the wit seeth not? Can the will long for, and sigh for, that the wit knoweth not of? Can a man take thought for that loss that he wotteth not of? What good endeavour can the Turks' children, the Jews' children, and the pope's infants have, when they be taught all falsehood only, with like persuasions of worldly reason, to be all justified with
 
 Rom. ix. works ? It is not therefore, as Paul saith, of the running or willing, but of the mercy of God, that a man is called and chosen to grace.
@@ -693,8 +658,6 @@ The Thirteenth Chapter. In the thirteenth he saith that the clergy burneth no ma
 
 [2 The heading of More's thirteenth chapter is, "The author sheweth his opinion concerning the burning of heretics, and that it is lawful, necessary, and well done; and sheweth also that the clergy doth not procure it, but only the good and politic provision of the temporalty."— Works, Dial., p. 274.]
 
-212 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
-
 As though the pope had not first found1 the law; and as though all his preachers babbled not that in every sermon, ' Burn these heretics, burn them, for we have no other argu ment to convince them ;' and as though they compelled not both king and emperor to swear that they shall so do, ere they crown them !
 
 King Then he bringeth in provisions of king Henry the fifth.
@@ -721,7 +684,7 @@ He allegeth Augustine, Hierome, and Cyprian. Let him put their works in English,
 
 [4 See Vol. i. p. 487, n. 2.]
 
-XIII. XIV. XVI. XVII.] THE FOURTH BOOK. 213
+## XIII. XIV. XVI. XVII.] the Fourth Book. 213
 
 Why damned they 'The union of doctors/ but because the The union of
 
@@ -746,8 +709,6 @@ Tyndale : — That is false, if ye mean ear-confession. Why allege ye not the pl
 [? "Himself well knoweth that they (St Austin and St Hierome and such other) do all with one voice prove that shrift and confession is of necessity requisite to our salvation." — Id. ibid.]
 
 [8 In an epistle of Jerome to Oceanus, entitled Epitaphium Fa-
-
-214 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
 
 purgatory. More : — " I marvel that Tyndale denieth purgatory, except he intend to go to hell1."
 

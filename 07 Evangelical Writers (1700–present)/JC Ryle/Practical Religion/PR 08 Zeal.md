@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Zeal
 
-Chapter VIII · *Practical Religion* — J. C. Ryle
+## Chapter VIII · *Practical Religion* — J. C. Ryle
 
 >  *It is good to be zealously affected always in a good thing.* "—Gal. iv. 18.
 
@@ -164,7 +163,6 @@ I have but one request to make, and that is *that you will persevere*. I do bese
 It may be very true that wise young believers are very rare. But it is no less true that zealous old believers are very rare also. Never allow yourself to think that you can do too much,—that you can spend and be spent too much for Christ's cause. For one man that does too much I will show you a thousand who do not do enough. Rather think that "the night cometh, when no man can work" (John ix. 4),—and give, collect, teach, visit, work, pray, as if you were doing it for the last time. Lay to heart the words of that noble-minded Jansenist, who said, when told that he ought to rest a little, "What should we rest for? have we not all eternity to rest in?"
 
 Fear not the reproach of men. Faint not because you are sometimes abused. Heed it not if you are sometimes called bigot, enthusiast, fanatic, madman, and fool. There is nothing disgraceful in these titles. They have often been given to the best and wisest of men. If you are only to be zealous when you are praised for it,—if the wheels of your zeal must be oiled by the world's commendation, your zeal will be but short-lived. Care not for the praise or frown of man. There is but one thing worth caring for, and that is the praise of God. There is but one question worth asking about our actions: "How will they look in the day of judgment?"
-
 
 ---
 [[PR 07 Charity|← Charity]] · [[Practical Religion|Practical Religion Contents]] · [[PR 09 Freedom|Freedom →]]

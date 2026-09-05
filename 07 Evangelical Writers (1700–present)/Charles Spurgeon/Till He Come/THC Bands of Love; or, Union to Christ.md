@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Bands of Love; or, Union to Christ
 
 *Till He Come* — Charles H. Spurgeon
 
 ## BANDS OF LOVE; OR, UNION TO CHRIST. “I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.”—Hosea xi. 4.
-
-## BANDS OF LOVE; OR, UNION TO CHRIST.
 
 SYSTEMATIC theologians have usually regarded union to Christ under three aspects, natural, mystical and federal, and it may be that these three terms are comprehensive enough to embrace the whole subject, but as our aim is simplicity, let us be pardoned if we appear diffuse when we follow a less concise method.
 
@@ -96,7 +93,6 @@ Identifying her in will and work
 With Him ascended?”
 
 Faith lays hold upon the Lord Jesus with a firm and determined grasp. She knows His excellence and worth, and no temptation can induce her to repose her trust elsewhere; and Christ Jesus is so delighted with this heavenly grace, that He never ceases to strengthen and sustain her by the loving embrace and all-sufficient support of His eternal arms. Here, then, is established a living, sensible, and delightful union, which casts forth streams of love, confidence, sympathy, complacency, and joy, whereof both the bride and Bridegroom love to drink. When the eye is clear, and the soul can evidently perceive this oneness between itself and Christ, the pulse may be felt as beating for both, and the one blood may be known as flowing through the veins of each. Then is the heart made exceedingly glad, it is as near heaven as it ever can be on earth, and is prepared for the enjoyment of the most sublime and spiritual kind of fellowship. This union may be quite as true when we are troubled with doubts concerning it, but it cannot afford consolation to the soul unless it be indisputably proven and assuredly felt; then is it indeed a honeycomb dropping with sweetness, a precious jewel sparkling with light. Look well to this matter, ye saints of the Most High!
-
 
 ---
 [[THC Jesus, The Gread Object of Astonishment|← Jesus, The Gread Object of Astonishment]] · [[Till He Come|Till He Come Contents]] · [[THC I Will Give You Rest|I Will Give You Rest →]]

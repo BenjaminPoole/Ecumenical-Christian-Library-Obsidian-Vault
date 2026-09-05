@@ -11,7 +11,6 @@ tags:
   - classical
   - livy
 ---
-
 # The History of Rome
 *Books 9–26*
 
@@ -19,20 +18,14 @@ tags:
 
 ---
 
-THE HISTORY OF ROME; BOOKS NINE TO TWENTY-SIX
+## The History of Rome; Books Nine to Twenty-Six
 
 Literally Translated, with Notes and Illustrations,
 by D. Spillan and Cyrus Edmonds.
 
-TITUS LIVIUS.
+## Titus Livius
 
-
-
-
-
-
-BOOK IX.
-
+## Book IX
 
 _Titus Veturius and Spurius Postumius, with their army, surrounded
 by the Samnites at the Caudine forks; enter into a treaty, give six
@@ -2475,11 +2468,7 @@ Maximus, which he had not obtained by his many victories. The annual
 review of the knights, on the ides of July, is also said to have been
 instituted by him.
 
-
-
-
-BOOK X.
-
+## Book X
 
 _Submission of the Marcians accepted. The college of Augurs
 augmented from four to nine. The law of appeal to the people carried
@@ -4886,9 +4875,6 @@ as complete a detail of them as can now be given, in Hooke's or
 Rollin's Roman History. The contents of the lost books have been
 preserved, and are as follows--]
 
-
-
-
 BOOK XI.--[Y.R. 460. B.C. 292.] Fabius Gurges, consul, having fought
 an unsuccessful battle with the Samnites, the senate deliberate about
 dismissing him from the command of the army; are prevailed upon not to
@@ -4918,9 +4904,6 @@ operations against the Volsinians and Lucanians, [Y.R. 468. B.C. 284.]
 against whom it was thought expedient to send succour to the
 Thuringians.
 
-
-
-
 BOOK XII.--[Y.R. 469. B.C. 283.] The Senonian Gauls having slain the
 Roman ambassadors, war is declared against them: they cut off L.
 Caecilius, praetor, with the legions under his command, [Y.R. 470.
@@ -4933,9 +4916,6 @@ generals. [Y.R. 471. B.C. 281.] Pyrrhus, king of Epirus, comes into
 Italy, to succour the Tarentines. A Campanian legion, sent, under the
 command of Decius Jubellius, to garrison Rhegium, murder the
 inhabitants, and seize the city.
-
-
-
 
 BOOK XIII.--[Y.R. 472. B.C. 280.] Valerius Laevinus, consul, engages
 with Pyrrhus, and is beaten, his soldiers being terrified at the
@@ -4961,9 +4941,6 @@ he sends him to the king, and discovers to him the treasonable offer.
 Successful operations against the Etruscans, Lucanians, Bruttians, and
 Samnites.
 
-
-
-
 BOOK XIV.--Pyrrhus crosses over into Sicily. [Y. R. 475. B. C. 277.]
 Many prodigies, among which, the statue of Jupiter in the Capitol is
 struck by lightning, and thrown down. [Y. R. 476. B. C. 276.] The head
@@ -4980,9 +4957,6 @@ Two colonies sent forth, to Posidonium and Cossa. [Y. R. 480. B. C.
 act the treaty is violated. Successful operations against the
 Lucanians, Samnites, and Bruttians. Death of king Pyrrhus.
 
-
-
-
 BOOK XV.--The Tarentines overcome: peace and freedom granted to them.
 [Y. R. 481. B. C. 271.] The Campanian legion, which had forcibly taken
 possession of Rhegium, besieged there; lay down their arms, and are
@@ -4993,9 +4967,6 @@ Two colonies established; one at Ariminum in Picenum, another at
 Beneventum in Samnium. Silver coin now, for the first time, used by
 the Roman people. [Y. R. 485. B. C. 267.] The Umbrians and Sallentines
 subdued. The number of quaestors increased to eight.
-
-
-
 
 BOOK XVI.--[Y. R. 488. B. C. 264.] Origin and progress of the
 Carthaginian state. After much debate, the senate resolves to succour
@@ -5008,9 +4979,6 @@ twenty-four. D. Junius Brutus exhibits the first show of gladiators,
 in honour of his deceased father. [Y.R. 490. B.C. 262.] The Aesernian
 colony established. Successful operations against the Carthaginians
 and Vulsinians. [Y.R. 491. B.C. 261.]
-
-
-
 
 BOOK XVII.--[Y.R. 492. B.C. 260.] Cneius Cornelius, consul, surrounded
 by the Carthaginian fleet; and, being drawn into a conference by a
@@ -5027,9 +4995,6 @@ who making a sudden attack upon the enemy, with a body of only three
 hundred men, turns their whole force against himself. [Y.R. 495. B.C.
 257.] Hannibal, the commander of the Carthaginian fleet which was
 beaten, is put to death by his soldiers.
-
-
-
 
 BOOK XVIII.--[Y.R. 496. B.C. 256.] Attilius Regulus, consul, having
 overcome the Carthaginians in a sea-fight, passes over into Africa:
@@ -5055,9 +5020,6 @@ prisoners, binds himself by oath to return if these objects be not
 attained; dissuades the senate from agreeing to the propositions: and
 then, in observance of his oath, returning to Carthage, is put to
 death by torture.
-
-
-
 
 BOOK XIX.--[Y. R. 502. B. C. 250.] C. Caecilius Metellus, having been
 successful in several engagements with the Carthaginians, triumphs
@@ -5093,9 +5055,6 @@ priest, Caecilius Metellus, saves the sacred utensils from the flames.
 [Y.R. 511. B.C. 241.] Two new tribes added, the Veline and Quirine.
 The Falisci rebel; are subdued in six days.
 
-
-
-
 BOOK XX.--A colony settled at Spoletum. [Y.R. 512. B.C. 240.] An army
 sent against the Ligurians; being the first war with that state. The
 Sardinians and Corsicans rebel, and are subdued. [Y.R. 514. B.C. 238.]
@@ -5118,11 +5077,7 @@ Palatine, Suburran, and Colline. [Y.R. 533. B.C. 219.] Caius
 Flaminius, censor, constructs the Flaminian road, and builds the
 Flaminian circus.
 
-
-
-
-BOOK XXI.
-
+## Book XXI
 
 _Origin of the second Punic war. Hannibal's character. In violation
 of a treaty, he passes the Iberus. Besieges Saguntum, and at length
@@ -7492,11 +7447,7 @@ Having then received two legions from Sempronius, the consul of the
 former year, and two from Caius Atilius, the praetor, the army began
 to be led into Etruria, through the passes of the Apennines.
 
-
-
-
-BOOK XXII.
-
+## Book XXII
 
 _Hannibal, after an uninterrupted march of four days and three
 nights, arrives in Etruria, through the marshes, in which he lost an
@@ -10062,11 +10013,7 @@ and thanks bestowed because he had not despaired of the republic, in
 whose case, had he been a Carthaginian commander, no species of
 punishment would have been spared.
 
-
-
-
-BOOK XXIII.
-
+## Book XXIII
 
 _The Campanians revolt to Hannibal. Mago is sent to Carthage to
 announce the victory of Cannae. Hanno advises the Carthaginian senate
@@ -12293,11 +12240,7 @@ elephants. Then, indeed, almost all the people of Spain came over to
 the Romans, and the achievements in Spain during that summer were much
 more important than those in Italy.
 
-
-
-
-BOOK XXIV.
-
+## Book XXIV
 
 _Hieronymus, king of Syracuse, whose grandfather Hiero had been a
 faithful ally of Rome, revolts to the Carthaginians, and for his
@@ -14505,11 +14448,7 @@ auxiliary troops of Hannibal. The only memorable circumstance of this
 year in Spain was, that the Romans then, for the first time, employed
 mercenary troops in their camp, namely, the Celtiberians.
 
-
-
-
-BOOK XXV.
-
+## Book XXV
 
 _Publius Cornelius Scipio, afterwards called Africanus, elected
 aedile before he had attained the age required by the law. The citadel
@@ -16759,11 +16698,7 @@ and Caius Calpurnius Piso, were created praetors. Piso had the city
 jurisdiction; Sulpicius, Sicily; Cethegus, Apulia; Lentulus, Sardinia.
 The consuls were continued in command for a year longer.
 
-
-
-
-BOOK XXVI.
-
+## Book XXVI
 
 _Hannibal encamps on the banks of the Amo, within three miles of
 Rome. Attended by two thousand horsemen, he advances close to the
@@ -19351,7 +19286,7 @@ they spoke of this affair to the people, though they were, at the same
 time, far from ignorant how much their strength had been diminished,
 in every respect, by the loss of Carthage.
 
-END OF VOL. II
+## End of Vol. II
 
 ---
 

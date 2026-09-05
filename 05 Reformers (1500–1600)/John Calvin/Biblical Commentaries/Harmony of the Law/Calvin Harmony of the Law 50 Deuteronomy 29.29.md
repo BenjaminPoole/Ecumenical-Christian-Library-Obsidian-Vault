@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 50. Deuteronomy 29:29
-
-**Deuteronomy 29**
 
 **29.** The secret *things belong* unto the Lord our God; but those *things which are* revealed *belong* unto us and to our children for ever, that we may do all the words of this law.
 

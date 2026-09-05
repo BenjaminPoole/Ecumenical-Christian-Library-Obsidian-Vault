@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Why Men Reject Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2463
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And sent messengers before His face. And as they went, they entered a village of the Samaritans, to prepare for Him. But they did not receive Him, because His face was set for the journey to Jerusalem." Luke 9:52, 53.
 
@@ -81,7 +78,7 @@ When Dr. Hawker was preaching, once, a learned man from London, who had listened
 
 Shall He turn away from you like that, my Hearer? Shall He depart from you thus? What is your answer? "Yes," or "No"? Before you go out of this House, I beseech you to answer me, and I pray God to help you say, "Come in, my Lord, come in." May He grant it, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN3:1-24.
+## Exposition by C. H. Spurgeon: John 3:1-24
 
 This is a very wonderful chapter because, while it teaches the doctrine of regeneration and the necessity of a great moral and spiritual change, it also reveals the doctrine of salvation by faith alone—a very wonderful combination which puzzles many who read what is recorded here. Many have been staggered by one or other of these great Truths of God, yet they evidently agree, for they are taught by the same unerring Teacher and they are preserved to us by the Spirit of God in the same chapter!
 
@@ -118,7 +115,6 @@ And you may have descended from a long line of saints—your parents may be in t
 20, 21. For everyone that does evil hates the light, neither comes to the light, lest his deeds should be reproved. But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God. If you do not like self-examination, you can be sure that you are wrong. If you do not like reading heart-searching books, or listening to a faithful Gospel ministry, you can be sure that you are wrong. If you do not like that part of the Word of God which judges you and makes you tremble, you can be sure that you are wrong! The man in business who cannot bear to look at his books, most probably has good reason to be afraid of his books. He shuts them up because they would shut him up if he were to pay attention to them! O Sirs, there is no more damning sign of human's condition than his endeavor to avoid the light! Search and see, look and examine! Make sure work for eternity—whatever you trifle with, trifle not with your souls! Take other things on hearsay, if you please, but not your condition towards God. Let that be searched into with all earnestness and sincerity—and be not satisfied till the Truth of God has satisfied you.
 
 22-24. After these things came Jesus and His disciples into the land of Judea; and there He tarried with them, and baptized. And John also was baptizing in Aenon near Salim, because there was much water there: and they came, and were baptized. For John was not yet cast into prison. We ought to be thankful that God's ministers are not silenced in this age. May the Lord raise up, in these evil days, many a John the Baptist who shall faithfully declare his testimony concerning the Lamb of God!
-
 
 ---
 [[Sermon 2462 The Known and the Unknown|← #2462]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2464 The Power of a Sigh|#2464 →]]

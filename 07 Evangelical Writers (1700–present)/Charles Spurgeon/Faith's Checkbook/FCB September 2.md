@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 2
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**FOLLOW TO KNOW**
+## **Follow to Know**
 
 > Then shall we know, if we follow on to know the Lord" Hosea 6:3
 
@@ -23,7 +22,6 @@ Not all at once, but by degrees shall we attain to holy knowledge, and our busin
 Our duty is to keep to our main topic, and follow on to know, not this peculiar doctrine nor that, but Jehovah Himself. To know Father, Son, and Spirit, the Triune God, this is life eternal: let us keep to this, for in this way we shall gain complete instruction. By following on to know the Lord, we learn healing after being torn, binding up after smiting, and life after death. Experience has its perfect work when the heart follows the trackway of the Almighty Lord.
 
 My soul, keep thou close to Jesus, follow on to know God in Jesus, and so shalt thou come to the knowledge of Christ, which is the most excellent of all the sciences. The Holy Ghost will lead thee into all truth. Is not this His gracious office? Rely upon Him to fulfill it.
-
 
 ---
 [[FCB September 1|← September 1]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 3|September 3 →]]

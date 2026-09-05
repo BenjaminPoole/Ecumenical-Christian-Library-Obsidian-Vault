@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Carpenter's Son and His Relations
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3312
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is not this the carpenter's son? Is not His mother called Mary? And His brothers, James, and Joses, and Simon, and Judas? And His sisters, are they not all with us? Where, then, has this Man all these things?" Matthew 13:55,56.
 
@@ -87,7 +84,7 @@ Now I close with just two questions. First, dear Friends, what is your view of C
 
 The other question is, what is your view of Christ's people?Is it the view of Prejudice or the view of Piety? Are you willing to cast in your lot with them? Will you join the sect that is everywhere spoken against? Are you ready to be hooted and jeered at for Christ's sake? If you are, I trust that you are among His brothers and sisters who suffer with Him here and who shall reign with Him, by-and-by. "Who is on the Lord's side?" Let that question ring in your ears as you go your way, "Who is on the Lord's side?" If God is your God, serve Him. If Christ is your King, follow Him. Unite yourself with His people and let all men see that you are not ashamed to acknowledge your Lord or those who are His brothers and sisters today. Let not your view of Christ and His relations be the view of Prejudice, but let it be the view of Piety! And may God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW13:24-58.
+## Exposition by C. H. Spurgeon: Matthew 13:24-58
 
 Verse 24. Another parable put He forth unto them, saying, The Kingdom of Heaven is likened unto a man which sowed good seed in his field. Jesus never sowed any other kind of seed. The truth which He taught is pure and unadulterated. It is good seed—good and only good, the very best of seed!
 
@@ -126,7 +123,6 @@ Ever mighty to prevail."
 53\. 54. And it came to pass, that when Jesus had finished these parables, He departed from there. And when He was come into His own country, He taught them in their synagogue insomuch that they were astonished, and said, How has this Man this wisdom and these mighty works? They were highly privileged in having Jesus back in their midst, yet they failed to appreciate His teaching! They were astonished at His wisdom, but were unable to perceive the Divine source from which it sprang.
 
 55-58. Is not this the carpenter's son? Is not His mother called Mary? And His brothers , James, and Joses, and Simon, and Judas? And His sisters, are they not all with us? How, then, has this Man all these things? And they were offended in Him. But Jesus said unto them, A Prophet is not without honor, save in his own country, and in his own house. And He did not many mighty works there because of their unbelief This was a notable illustration of John's words concerning Christ, "He came unto His own, but His own received Him not." Let us beware of unbelief lest it should tie the hands of Christ as it did there in His own country!
-
 
 ---
 [[Sermon 3311 The Water and the Blood|← #3311]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3313 A Practical Discourse|#3313 →]]

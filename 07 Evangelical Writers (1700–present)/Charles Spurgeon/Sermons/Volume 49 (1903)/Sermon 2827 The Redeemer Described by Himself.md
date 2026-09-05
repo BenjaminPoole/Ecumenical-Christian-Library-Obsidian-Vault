@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Redeemer Described by Himself
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2827
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Why, when I came, was there no man? Why, when I called, was there none to answer? Is My hand shortened at all, that it cannot redeem? Or have I no power to deliver? Behold, at My rebuke I dry up the sea, I make the rivers a wilderness: their fish stink because there is no water, and die for thirst. I clothe the heavens with blackness, and I make sackcloth their covering. The Lord GOD has given Me the tongue of the learned, that I should know how to speak a word in season to him that is weary: He wakens Me morning by morning, he wakens My ears to hear as the learned. The Lord GOD has opened My ears, and I was not rebellious, nor did I turn away. I gave My back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting." Isaiah 50:2-6.
 
@@ -85,7 +82,7 @@ Now put the two middle verses together—"The Lord God has given Me the tongue o
 
 Now put the whole text together and think of Jesus Christ in all those various views which I have so feebly set before you and I think the result will be—at least, to God's people—that they will say, "This God shall be our God forever and ever! And it shall be our delight to do His bidding at all times." It is a high honor to serve God—and Christ is God. It is a great thing to be the servant of a wise teacher—and Christ has the tongue of the learned. It is a very sweet thing to walk in the steps of a perfect Exemplar—and Christ is just that. And, last and best of all, it is delightful to live for Him who suffered and died on our behalf. Those wounds of His have marked us as His own. That scourge, those bleeding shoulders, and that face so marred have won us altogether to Him and, henceforth, for us to live shall be Christ, that to die may be eternal gain! The Lord grant that it may be so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH53.
+## Exposition by C. H. Spurgeon: Isaiah 53
 
 This is one of the chapters that lie at the very heart of the Scriptures. It is the very Holy of Holies of Divine Writ. Let us, therefore, take off our shoes, for the place whereon we stand is especially holy ground.
 
@@ -126,7 +123,6 @@ Isaiah 53:1. Who has believed our report, and to whom is the arm of the LORD rev
 11\. By His knowledge shall My righteous Servant justify many; for He shall bear their iniquities. That is the top and bottom of it all—"He shall bear their iniquities." The red line of Substitution runs through the whole chapter.
 
 12\. Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong; because He has poured out His soul unto death: and He was numbered with the transgressors; and He bore the sin of many, and made intercession for the transgressors.
-
 
 ---
 [[Sermon 2826 The King in Pilate's Hall|← #2826]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2828 Startling!|#2828 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Deceived Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2686
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He feeds on ashes: a deceived heart has turned him aside, that he cannot deliver his soul, nor say, Is there not a lie in my right hand?" Isaiah 44:20.
 
@@ -103,7 +100,7 @@ Brothers and Sisters, let every one of us retire to our closets and examine ours
 
 you knew a man whose limb was rotting with mortification, would you not urge him to have it cut off? Well, then, have your own cut off! If you saw a man who was rushing swiftly to Hell, would you not start off boldly and warn him? Then, be as bold with yourself as you would be with others! Talk to yourself as you would talk to other people. If you would observe this rule, I would not be afraid of what will happen to you—and some of you will thank God that you were ever led to examine yourselves, for now, as guilty sinners, you can flee to the Cross of Christ and, by faith, lay hold of Him who is able to save to the uttermost all them that come unto God by Him!
 
-EXPOSITION BY C. H. SPURGEON: LUKE14:25-35.
+## Exposition by C. H. Spurgeon: Luke 14:25-35
 
 Verse 25. And there went great multitudes with Him. During at least a part of His earthly ministry, Christ was very popular. The people crowded at His feet and they were willing to make Him a king. But you must have observed that He was always faithful in speaking to the populace—He did not flatter them. He also dealt in the same fashion with those who professed to be His followers. He winnowed the heap that was laid upon the floor and drove away the chaff from the midst of the wheat.
 
@@ -126,7 +123,6 @@ God grant that you may! Better never begin to build than to commence without hav
 35\. It is neither fit for the land, nor yet for the dunghill; but men cast it out A dead profession of religion is utterly useless and if it could be possible that a man should be really quickened by the Spirit of God, and yet that the new life should depart from him, he would be in a hopeless case, indeed.
 
 35\. He that has ears to hear, let him hear. Let all of us give good heed to this injunction, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2685 The Oft-Repeated Invitation|← #2685]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2687 Too Good to Be Saved!|#2687 →]]

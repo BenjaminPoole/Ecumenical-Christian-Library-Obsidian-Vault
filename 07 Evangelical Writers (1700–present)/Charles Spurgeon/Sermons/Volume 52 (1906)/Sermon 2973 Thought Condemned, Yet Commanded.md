@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Thought Condemned, Yet Commanded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2973
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore take no thought, saying, What shall we eat? Or, What shall we drink? Or, What shall we wear? (For after all these things do the Gentiles seek) for your heavenly Father knows that you have need of all these things. But seekyou first the Kingdom ofGod, and His righteousness; and all these things shall be added unto you." Matthew 6:31-33.
 
@@ -98,7 +95,6 @@ Before I close my discourse, I have a few words to say to those of you who have 
 world and, very likely some of them will say to me, "You might let us care about the things of the world, for we have nothing else to care for." Some persons say, "It is a dreadful thing that these unconverted people should have such-and-such amusements." So it is, but there is another aspect of the case. Whenever I see a pig in a sty and the farmer is going to give him some slop from the house, I say, "Let the creature have it. He likes it and it is the proper food for him." I do not envy him and if I were to see a man of my acquaintance go and drink the hog's food, I would be shocked, indeed! So, when I see a man who professes to be a Christian, taking delight in the pleasures of the world, I am shocked—but such things are suited to the poor creatures that like them. Only remember, my Friend, if you are going to be content with this world, you are thereby giving up Heaven and giving up the joys of eternity! And in taking the good things, as you call them, of sin, and the pleasures of the flesh, you take the devil and all his works—and all that involves your being cast away from the Presence of God forever!
 
 Oh, if you only knew your true condition, you who are without God, and without Christ, you would want to get away to your houses and to fall on your knees and cry unto the Lord to have mercy upon you! And if you were wise, you would not even wait till you reached your homes, but in this very place you would cry, "What must we do to be saved?" If your heart really utters that cry, let me give you the Scriptural answer, "Believe on the Lord Jesus Christ, and you shall be saved." Trust that Savior whose teaching I have tried to explain. Trust Him who did more than teach, for He lived! Trust Him who did more than live, for He died! Trust Him who did more than die, for He rose again and ever lives at His Father's right hand on high! Trust Him and you shall be saved forever! The Lord bless you, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2972 Forgiveness|← #2972]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2974 A Wafer of Honey|#2974 →]]

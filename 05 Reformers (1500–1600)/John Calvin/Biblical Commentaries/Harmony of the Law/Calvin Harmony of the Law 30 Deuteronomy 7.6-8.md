@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 30. Deuteronomy 7:6-8
-
-**DEUTERONOMY 7**
 
 **6.** For thou *art* an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself— above all people that *are* upon the face of the earth.
 

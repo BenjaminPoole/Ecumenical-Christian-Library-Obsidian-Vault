@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Impotence and Omnipotence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2269
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And a certain man was there, which had an infirmity thirty-eight years. When Jesus sawhim lying there, and knew that he had been in that case a long time, He said to him, Willyou be made whole? The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool; but while I am coming, another steps down before me. Jesus said to him, Rise, take up your bed, and walk. And immediately the man was made whole, and took up his bed and walked." John 5:5-9.
 
@@ -113,7 +110,7 @@ I cannot explain salvation to you, tonight, or how it takes place. But I remembe
 
 I am convinced that I am going to have ever so many, tonight, who will obey the Gospel command, "Believe and live. Believe in the Lord Jesus Christ and you shall be saved." Oh, do it! Do it now! And unto God be glory, and to yourself be peace and happiness forever! Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON JOHN 5:1-23.
+## Exposition by C. H. Spurgeon John 5:1-23
 
 Verse 1. After this there was a feast of the Jews; and Jesus went up to Jerusalem. For He had respect to the Law. As long as the Law lasted, Christ observed it. Oh, that we were as careful to obey the rules of the Gospel as our Lord was to observe the ritual of the Law! Moreover, He went to Jerusalem because He had an opportunity of addressing great numbers of people there. While I have been resting at Mentone, I have been very glad to be of service to a few friends who were either seeking the Savior, or needing some guidance in their spiritual life. But I cannot tell you how happy I am to be once more in the Tabernacle, preaching to the great congregation! Fisherman like to cast their nets where there are plenty of fish—and fishers of men delight to be where there are many men who may be enclosed in the Gospel net! "After this there was a feast of the Jews; and Jesus went up to Jerusalem."
 
@@ -166,7 +163,6 @@ faith, but he did not know His name, or who He was. How small may be your knowle
 20-22. For the Father loves the Son, and shows Him all things that He, Himself does; and He will show Him greater works than these, that you may marvel. For as the Father raises up the dead, and quickens them; even so the Son quickens whom He will. For the Father judges no man, but has committed all judgment unto the Son. The Son, as well as the Father, is the Quickener of the dead! The Son is also the Judge of all men!
 
 23\. That all men should honor the Son, even as they honor the Father. He that honors not the Son, honors not the Father which has sent Him. As the universal Judge, the Lord Jesus is to be honored by all men, "even as they honor the Father." Whatever others may do, or not do, we will honor the Father, we will honor the Son and we will honor the Holy Spirit—Three in One and One in Three—the one God of Israel, forever and ever.
-
 
 ---
 [[Sermon 2268 A Question for Communicants|← #2268]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2270 Two I Wills In Isaiah 41|#2270 →]]

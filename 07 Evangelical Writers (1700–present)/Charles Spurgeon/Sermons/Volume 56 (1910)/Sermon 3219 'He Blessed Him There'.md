@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'He Blessed Him There'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3219
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He blessed him there." Genesis 32:29.
 
@@ -115,7 +112,7 @@ One more word about that, and it is this. Has not He often blessed you in the Ho
 
 IV. We have seen what Jacob's blessing was and where God blessed Jacob. We remember where He has blessed us and now, in the last place, let me ask, IS NOT THIS ONE OF THE PLACES WHERE WE MAY EXPECT HIM TO BLESS
 
-US?
+## Us?
 
 Is there a man here who, never, to his own knowledge, had a blessing from God and who is saying, "I wish God would bless me, even me"? Are you willing, if God helps you, to give up all your sins? Would you wish to be clear of them? Well, Soul, if you desire that, God will bless you right now! For, if you would be rid of sin, God also wishes you to be rid of it—and so you and He are agreed. He will be sure to blot your sins out and tread them under His feet through His dear Son, Jesus Christ. Do you say that you need a blessing? I will put another question to you. Are you willing to have Jesus Christ be your Savior, not in part, but altogether? Will you let Christ be the first and the last? Will you take Him not to be a makeweight, but a Savior who can save you from head to foot, who can give His blood to cleanse you, His righteousness to cover you, Himself to be All-in-All to you? Soul, if you will take a whole Christ, He waits to be received by you! Only trust Him and He is yours! "To as many as received Him, to them gave He power to become the sons
 
@@ -129,7 +126,7 @@ There may perhaps, be some Christians here in trouble. Brother, Sister, I do not
 
 cares for you." Will you not trust to Him after that? If so, He will bless you there! Is your trouble concerning temporal need? Let me put this passage into your mouth as a sweet morsel, "Your Father knows what things you have need of before you ask Him." Suck that down and He will bless you there! Oh, what a blessing will come out of the marrow and fatness of that thought! Is there a poor Christian here who says, "I feel half ashamed to go to the Communion Table. I am so unworthy"? You never were worthy and never will be! Turn your eyes again to the Cross! Look to the Savior for worthiness. He will bless you there! "I feel so cold and chill," says another. Think of the Savior's love to poor, dead, cold sinners such as you are and He will bless you there! If you are very cold, it is no use thinking of the cold in order to get hot—the best thing is to go to the fire. And if you feel dull and dead, do not try to get better by looking within and examining yourself—fly away to Jesus Christ and He will bless you there! Let all of us now say, "Dear Lord, meet with us, show us Your hands and Your side." And if we come to His Throne in that spirit of desire, He will bless us there! The Lord be with us all, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW10:24-42.
+## Exposition by C. H. Spurgeon: Matthew 10:24-42
 
 Our Lord had been sending forth His 12 Apostles to preach the Gospel of the Kingdom and to work miracles in His name. Having given them their commission, He warned them of the treatment they could expect to receive and then fortified their minds against the persecutions they would have to endure.
 
@@ -166,7 +163,6 @@ Christian! For him to die is indeed gain! But oh, fear that God who can destroy 
 those who receive them in the name of a Prophet or of a righteous man. A Prophet's reward must be something great and such shall be the reward of those who generously receive the servants of God!
 
 42\. And whoever shall give a drink unto one of these little ones—only a cup of cold water in the name of a disciple—verily I say unto you, he shall in no wise lose his rewarc. There have been times, even in our own country when to give "a cup of cold water" has been to run the risk of suffering death. In the dark days of persecution, some who were called heretics were driven out into the fields in the depth of winter to perish in the cold—the king's subjects were for-bidden—upon pain of death, to give them anything either to eat or to drink. Now, in such a case as that, giving "a cup of cold water" would mean far more than if you or I simply gave a cup of water to someone who happened to be thirsty. But our Lord Jesus Christ here promises to reward any who, for His servants' sake, will dare to risk any consequences that may fall upon themselves.
-
 
 ---
 [[Sermon 3218 Preaching Christ Crucified|← #3218]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3220 'A Time to Love'|#3220 →]]

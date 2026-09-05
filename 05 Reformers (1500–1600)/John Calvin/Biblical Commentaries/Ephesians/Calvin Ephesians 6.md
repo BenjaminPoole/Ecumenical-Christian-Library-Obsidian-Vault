@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Ephesians 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Ephesians 6:1-4
 
@@ -179,7 +178,7 @@ Tychicus is commended, that his statements may be more fully believed. *A faithf
 
 **24.** *Grace be with all.* The meaning is, “May God continue to bestow his favor on all who love Jesus Christ with a pure conscience!” The Greek word, which I follow Erasmus in translating *sincerity,* (ἐν ἀφθαρσίᾳ,) signifies literally *uncorruptedness,* which deserves attention on account of the beauty of the metaphor. Paul intended to state indirectly, that, when the heart of man is free from all hypocrisy, it will be free from all corruption. This prayer conveys to us the instruction, that the only way of enjoying the light of the Divine countenance is to love *sincerely* God’s own Son, in whom his love toward us has been declared and confirmed. But let there be no hypocrisy; for most men, while they are not unwilling to make some professions of religion, entertain exceedingly low notions of Christ, and worship him with pretended homage. I wish there were not so many instances in the present day to prove that Paul’s admonition, to *love our Lord Jesus Christ in sincerity* is as necessary as ever.
 
-**END OF THE COMMENTARIES ON THE EPISTLE TO THE EPHESIANS.**
+## **End of the Commentaries on the Epistle to the Ephesians.**
 
 ---
 [[Calvin Ephesians 5|← Ephesians 5]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Ephesians/ephesians-index|Contents]]

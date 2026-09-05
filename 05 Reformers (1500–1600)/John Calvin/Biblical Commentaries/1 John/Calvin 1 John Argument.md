@@ -9,10 +9,7 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 This Epistle is altogether worthy of the spirit of that disciple who, above others, was loved by Christ, that he might exhibit him as a friend to us. But it contains doctrines mixed with exhortations; for he speaks of the eternal Deity of Christ, and at the same time of the incomparable grace which he brought with him when he appeared in the world, and generally of all his blessings; and he especially commends and extols the inestimable grace of divine adoption.
 

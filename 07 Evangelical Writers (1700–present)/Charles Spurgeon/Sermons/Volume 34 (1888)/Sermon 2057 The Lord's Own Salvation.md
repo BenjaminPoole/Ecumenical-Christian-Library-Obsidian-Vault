@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Lord's Own Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2057
@@ -159,14 +158,13 @@ Next, salvation is to be sought of God alone. Do not go wandering about to the s
 
 You came in here with no idea of worshipping God but only just to see the place and what the preacher is like. Never mind, look to the Lord Jesus Christ straight away! With those eyes that are so blinded, look! If you cannot see, it may be that in your obedient attempt to look, the Lord will give you sight. He does not command you to see but He does command you to look to Him and be saved—so that, if you turn your eyes towards Jesus, though they be sightless eyeballs— He will make them see. If you will trust in Christ you may cast your guilty soul on Him at this moment. Why should you not do so? Then for you the rain will be over and gone and you will see the bright light in the clouds. Instead of the dark and dismal winter of doubt, you shall have a summertime of hope and comfort. These dreary weeks of cold despair shall give place to a season in which Heaven and earth shall blend in your experience in a joy unspeakable. The Lord grant it, for Jesus Christ's sake! Amen.
 
-LETTER FROM MR. SPURGEON
+## Letter from Mr. Spurgeon
 
 DEAR FRIENDS—I am still somewhat like Mephibosheth, who "did eat continually at the king's table and was lame on both his feet." But the fine summer weather of this place and the complete rest are rapidly restoring me. I ask prayer that strength may return in such a way as to remain with me, that I may, for a long period afterwards, abide in my work. As also that the Divine blessing may rest on the preaching of the Word.
 
 I have great cause for gratitude because of the continual items of news which I receive concerning the influence of the sermons. This is a rare restorative. May my readers still find in these simple discourses food for their souls and comfort for their hearts. When they distribute them among the unsaved, may the Spirit of God make them to minister life to the spiritually dead.
 
 I am most happy in being remembered in the prayers of many saints—and I would beg for more intercession—not for myself only, but for all who truly preach the Gospel of our Lord Jesus. Yours ever heartily, C H. Spurgeon Mentone, Dec. 8th, 1888
-
 
 ---
 [[Sermon 2056 Idols Found Wanting, But Jehovah Found Faithful|← #2056]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2058 Eyes Right|#2058 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # God's Innumerable Mercies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3022
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I know not the numbers thereof." Psalm 71:15.
 
@@ -145,7 +142,7 @@ I wish that all of us here, constantly receiving, as we do, so many mercies, had
 
 May God bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 71.
+## Exposition by C. H. Spurgeon: Psalm 71
 
 This Psalm, written by an old man, is especially suitable for an old man. It is numbered seventy-one and it may suit those who have reached that age—but it is also appropriate to us all in prospect of the days of feebleness that will come to us, sooner or later, if we are spared to grow old.
 
@@ -202,7 +199,6 @@ works and my evil works from one another, but I have found the task too great fo
 22, 23. Unto You will I sing with the harp, O You Holy One of Israel My lips shall greatly rejoice when I sing unto You.That is the best kind of praise to God when our very lips are happy in singing—when we do not merely speak the sound, but when the meaning wells up from our heart and our lips are glad to sing it out.
 
 23, 24. And my soul, which You have redeemed. My tongue also shall talk of Your righteousness all daylong: for they are confounded, for they are brought unto shame that seek my hurt
-
 
 ---
 [[Sermon 3021 Landlord and Tenant|← #3021]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3023 John Mark—or, Haste in Religion|#3023 →]]

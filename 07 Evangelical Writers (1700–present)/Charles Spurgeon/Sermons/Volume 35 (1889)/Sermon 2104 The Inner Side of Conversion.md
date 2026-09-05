@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Inner Side of Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2104
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 15, 1889,.
+*Delivered on Lord's-Day Morning, September 15, 1889*
 
 > "I have surely heard Ephraim bemoaning himself thus: You have chastised me and I was chastised, as a bullock unaccustomed to the yoke: turn You me and I shall be turned. For You are the Lord my God. Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yes, even confounded, because I did bear the reproach of my youth. Is Ephraim My dear son? Is he a pleasant child? For since I spoke against him, I do earnestly remember him still: therefore My heart is troubled for him. I will surely have mercy upon him, says the Lord." Jeremiah 31:18-20.
 
@@ -172,7 +171,6 @@ Then comes love in action—"I will surely have mercy upon him, says the Lord." 
 "I will surely have mercy upon him, says the Lord." What great mercy, what full mercy, what eternal mercy, is this! Yield, then, your stubborn hearts to this immeasurable love. Be captives in the embrace of compassion. Can you resist the charms of goodness? When God comes forth with nothing in His heart but love and kindness, mercy and pardon, flee no longer from Him! Turn at His reproof.
 
 And may this day, even this very moment, be the day of salvation, the beginning of days to you! Then will we bid them ring the bells of Heaven, for there is joy today. May the Lord Himself have joy of you! May He, concerning you, rest in His love and rejoice over you with singing! O Lord, grant me the joy of leading many to Yourself by this sermon, through your Son, Jesus Christ and the power of the Holy Spirit! Amen. Amen. Amen.
-
 
 ---
 [[Sermon 2103 The Hunger and Thirst Which Are Blessed|← #2103]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2105 Preparation for the Coming of the Lord|#2105 →]]

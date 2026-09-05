@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Hopeful, Yet Doubtful
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2361
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And a certain scribe came and said unto Him, Master I wiil follow You wherever You go. And Jesus said to him, The foxes have holes, and the birds of the air have nests; but the Son of Man has not where to lay His head." Matthew 8:19,20.
 
@@ -101,9 +98,9 @@ The last question is, Does Grace enable us to take Christ with all the consequen
 
 Will you also believe in Him, dear Friend? Will you trust Him? Will you take Him to be your Leader and your Lord forever? God make it to be so this very night! God make this your birth-night, for His dear Son's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—639, 646, 659.
+## Hymns from "Our Own Hymn Book"—639, 646, 659
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 8:16-34; 9:1.
+## Exposition by C. H. Spurgeon: Matthew 8:16-34; 9:1
 
 Verse 16. When the even was come, they brought unto Him many that were possessed with devils: and He cast out the spirits with His Word, and healed all that were sick. It was the evening after the Sabbath. They did not venture even to bring out their sick till the day of rest was ended. And the Savior, saying nothing about their lingering superstition, began to work mightily among them. "He cast out the spirits with His Word." What a power there is in the Word of Jesus! There is nothing like it for the casting out of devils. All our philosophies will not do what it does! The enemy will say, "Jesus I know, and Paul I know, but who are you?" He cast out the evil spirits with His Word, and healed all that were
 
@@ -150,7 +147,6 @@ Christ is on board the boat, will He allow it to sink? Can He be drowned? We car
 34\. And when they saw Him, they besought Him that He would depart out of their coasts. And there are many, still, who try all they can to get Christ to go away from them. Woe be to them if He grants their desire!
 
 Matthew 9:1. And He entered into a boat, and passed over, and came into His own city. I think I see the departing sail—love, hope and peace melting away upon the distant horizon—and the Gergesenes left to perish! O God, do not so with any of us! Say not, "Ephraim is joined to idols. Let him alone."
-
 
 ---
 [[Sermon 2360 Come, My Beloved!|← #2360]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2362 The King and His Court|#2362 →]]

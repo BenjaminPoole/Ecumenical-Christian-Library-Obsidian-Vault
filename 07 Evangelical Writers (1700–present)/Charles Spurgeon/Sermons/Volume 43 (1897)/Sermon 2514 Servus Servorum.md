@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Servus Servorum
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2514
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am among you as He that serves." Luke 22:27.
 
@@ -87,7 +84,7 @@ Someone, perhaps, says that I am teaching you hard lessons. Yes, but if you are 
 
 God help you to do so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE22:1-39.
+## Exposition by C. H. Spurgeon: Luke 22:1-39
 
 Verses 1, 2. Now the feast of unleavened bread drew near, which is called the Passover. And the chief priests and scroll sought how they might kill Him; for they feared the people. Dastardly fear often drives men to the greatest crimes. He who is not brave enough to be master of his own spirit and to follow the dictates of his own conscience may do, before long, he little knows what. Because of the fear of the people, the chief priests and scribes were driven to compass the death of Christ by craft and to bring Him to His death by the cruel betrayal of Judas, one of His own Apostles.
 
@@ -128,7 +125,6 @@ God grant us more Grace, that we may be held fast by the records of love!
 32\. And when you are converted—"When you are restored"—
 
 32-39. Strengthen your brethren. And he said unto Him, Lord, I am ready to go with You, both into prison, and to death. And He said, I tell you, Peter, the cock shall not crow this day, before that you shall thrice deny that you know Me. And He said unto them, When I sent you without purse, and scrip, and shoes, lacked you anything? And they said, Nothing. Then said He unto them, But now, he that has a purse, let him take it, and likewise his scrip, and he that has no sword, let him sell his garment and buy one. For Isay unto you, that this that is written mustyet be accomplished in Me, And He was reckoned among the transgressors: for the things concerning Me have an end. And they said, Lord, behold, here are two swords. And He said unto them, It is enough. And He came out, and went, as He was accustomed, to the Mount of Olives; and His disciples also followed Him.
-
 
 ---
 [[Sermon 2513 How to Please God|← #2513]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2515 Something Worth Seeking|#2515 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Fourfold Satisfaction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2726
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will satiate the soul of the priests with fatness. And My people shall be satisfied with My goodness, says the Lord... ForIhave satiated the weary soul, and I have replenished every sorrowful soul." Jeremiah 31:14,25.
 
@@ -117,7 +114,7 @@ so let us—
 
 —and God be with us evermore, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH31:1-26.
+## Exposition by C. H. Spurgeon: Jeremiah 31:1-26
 
 Verses 1-3. At the same time, says the LORD, willIbe the God ofall the families ofIsrael, and theyshall be Mypeo-ple. Thus says the LORD, Thepeople which were left ofthe sword found Grace in the wilderness; even Israel, when I went to cause him to rest The LORD has appeared of old unto me, saying, Yes, I have loved you with an everlasting love: therefore with loving kindness have I drawn you. Was there ever a sweeter word from Heaven than this—everlasting love proved by the drawings of Divine Grace? I know that your hearts will be full of music if ever the Spirit of God has spoken home to your soul such a message as this! Let us read it again. "The Lord has appeared of old unto me, saying, Yes, I have loved you with an everlasting love: therefore with loving kindness have I drawn you."
 
@@ -154,7 +151,6 @@ upon me—
 20\. I will surely have mercy upon him, says the LORD. Oh, what blessedness there is in this gracious promise!
 
 21-26. Set you up landmarks, make you high heaps: set your heart toward the highway, even the way which you went: turn again, O virgin of Israel, turn again to these your cities. How long wiilyou go about, O you backsliding daughter? For the LORD has created a new thing in the earth, A woman shall compass a man. Thus says the LORD of Hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless you, O habitation of justice, and mountain of holiness. And there shall dwell in Judah itself, andin all the cities thereof together, husbandmen, and they that go forth with flocks. For Ihave satiated the weary soul, and I have replenished every sorrowful soul. Upon this I awaked and beheld; and my sleep was sweet unto me. I should think it was. If a man could dream like that, he might well wish to go to sleep again! To dream of everlasting love, of gracious drawings, of heavenly restorations, of sin forgiven, sorrow removed and desire satisfied, well may the Prophet, say, "My sleep was sweet unto me." May we, when we are awake, learn what the Prophet heard in his sleep!
-
 
 ---
 [[Sermon 2725 Elijah Fainting|← #2725]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2727 Bitter Herbs|#2727 →]]

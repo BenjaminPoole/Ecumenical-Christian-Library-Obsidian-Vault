@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Well-Beloved
 
 *Till He Come* — Charles H. Spurgeon
 
-## THE WELL-BELOVED.
-
 ### A COMMUNION ADDRESS AT MENTONE.“Yea, He is altogether lovely.”—Song of Solomon v. 16.
-
-## THE WELL-BELOVED.
 
 THE soul that is familiar with the Lord worships Him in the outer court of nature, wherein it admires His works, and is charmed by every thought of what He must be who made them all. When that soul enters the nearer circle of inspiration, and reads the wonderful words of God, it is still more enraptured, and its admiration is heightened. In revelation, we see the same all-glorious Lord as in creation, but the vision is more clear, and the consequent love is more intense.
 
@@ -128,7 +123,6 @@ Shall not draw me any more;
 In my Saviour
 
 I have found a glorious whole.”
-
 
 ---
 [[THC Fragrant Spices From the Mountains of Myrrh|← Fragrant Spices From the Mountains of Myrrh]] · [[Till He Come|Till He Come Contents]] · [[THC The Spiced Wine of My Pomegranate|The Spiced Wine of My Pomegranate →]]

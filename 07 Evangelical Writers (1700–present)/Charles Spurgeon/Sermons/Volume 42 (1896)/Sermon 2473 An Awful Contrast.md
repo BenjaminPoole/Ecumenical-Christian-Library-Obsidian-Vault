@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # An Awful Contrast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2473
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then they spat in His face." Matthew 26:67.
 
@@ -107,7 +104,7 @@ and before Heaven and earth begin to flee away from the face of Him who sits upo
 
 If what I have been saying is all a dream, dismiss it and go your ways to your sins. But if these things are the very Truth of God—and verily they are—act as sane men should and think them over, and prepare to meet your Judge! God help you to do so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW26:57-68;. REVELATION 6:12-17; 19:11-16; 20:11-15; 21:1.
+## Exposition by C. H. Spurgeon: Matthew 26:57-68;. Revelation 6:12-17; 19:11-16; 20:11-15; 21:1
 
 We shall read two or three short portions of God's Word in order to bring before you the wonderful contrast to which I am about to direct your thoughts.
 
@@ -148,7 +145,6 @@ Revelation 20:11 And I saw a great white throne, and Him that sat on it, from wh
 12-15. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the Book of Life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and Hell delivered up the dead which were in them: and they were judged, every man according to their works. And death and Hell were cast into the Lake of Fire. This is the second death. And whoever was not found written in the Book of Life was cast into the Lake of Fire.
 
 Revelation 21:1. And I saw a new Heaven and a new earth: for the first Heaven and the first earth were passed away; and there was no more sea.
-
 
 ---
 [[Sermon 2472 The Best of the Best|← #2472]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2474 The Great Change|#2474 →]]

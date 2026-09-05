@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # "After Two Days Is the Passover"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2522
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You know that after two days is tie Passover, and the Son of Man will be delivered up to be crucified." Matthew 26:2.
 
@@ -105,7 +102,7 @@ I should not wonder if those around us should hear us say, "Well, it is only two
 
 So may it be with you all, for Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: LUKE 4:16-30; JOHN8:37-59. (R. V.)
+## Expositions by C. H. Spurgeon: Luke 4:16-30; John 8:37-59. (R. V.)
 
 We will read, from the Revised Version, two passages which record attempts made to kill our Lord before His time had come. You will see, from the sermon, why we read them. [Sermon came after the exposition.—eod.]
 
@@ -118,7 +115,6 @@ Luke 4:16-21. And He came to Nazareth, where He had been brought up: and He ente
 28-30. As they heard these things; and they rose up, and cast Him forth out of the city, and led Him unto the brow of the hill whereon their city was built, that they might throw Him down headlong. But He, passing through the midst of them, went His way.
 
 John 8:37-59. I know that you are Abraham's seed; yet you seek to kill Me, because My Word has not free course in you. Ispeak the things which 1 have seen with My Father: andyou also do the things which you heard from your father They answered and said unto Him, Our father is Abraham. Jesus said unto them, If you were Abraham's children, you would do the works of Abraham. But now you seek to kill Me, a Man that has told you the truth, which I heard from God: this did not Abraham. You do the works of your father They said unto Him, We were not born of fornication; we have one Father, even God. Jesus said unto them, If God were your Father, you would love Me: for I came forth and am come from God; for neither have I come of Myself, but He sent Me. Why do you not understand My speech? Even because you cannot hear My Word. You are of your father the devil, and the lusts of your father it is your will to do. He was a murderer from the beginning, and stood not in the truth, because there is no truth in him. Whenever he speaks a lie, he speaks of his own: for he is a liar, and the father thereof But because I say the truth, you believe Me not Which of you convicts Me of sin? If I say truth, why do you not believe Me? He that is of God hears the Words of God: for this cause you hear them not, because you are not of God. The Jews answered and said unto Him, Say we not well that You are a Samaritan, and have a devil? Jesus answered, I have not a devil; but I honor My Father, andyou dishonor Me. But I seek not My own glory: there is One that seeks and judges. Verily, verily, I say unto you, If a man keeps My Word, he shall never see death. The Jews said unto Him, Now we know that You have a devil Abraham is dead, and the Prophets; and You say, If a man keeps My Word, he shall never taste of death. Are You greater than our father Abraham, which is dead? And the Prophets are dead: whom make You Yourself? Jesus answered, If I glorify Myself, My glory is nothing: it is My Father that glorifies Me of whom you say, that He is your God; and you have not known Him: but I know Him; and if I should say, I know Him not, I shall be like unto you, a liar: but I know Him, and keep His Word. Your father Abraham rejoiced to see My day; and He sa w it, and was glad. The Jews therefore said unto Him, You are not yet fifty years old, and have You seen Abraham? Jesus said unto them, Verily, verily, Isay unto you, Before Abraham was, I Am. They took up stones therefore to cast at Him: but Jesus hid Himself, and went out of the Temple.
-
 
 ---
 [[Sermon 2521 Deadness and Quickning|← #2521]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2523 Abraham's Double Blessing|#2523 →]]

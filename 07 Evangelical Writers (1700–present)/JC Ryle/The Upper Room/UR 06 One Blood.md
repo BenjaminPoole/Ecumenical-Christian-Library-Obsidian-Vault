@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # One Blood.
 
-Chapter VI · *The Upper Room* — J. C. Ryle
+## Chapter VI · *The Upper Room* — J. C. Ryle
 
 > — Acts 17:26[^1]
 
@@ -92,7 +91,6 @@ And now I shall close this paper with three words of friendly advice, which I co
 (c) Last but not least, I charge you never to neglect the duty of brotherly love, and practical, active, sympathetic kindness towards every one around you, whether high or low, or rich or poor. Try daily to do some good upon earth, and to leave the world a better world than it was when you were born. If you are really a child of God, strive to be like your Father and your great elder Brother in heaven. For Christ's sake, do not be content to have religion for yourself alone. Love, charity, kindness, and sympathy are the truest proofs that we are real members of Christ, genuine children of God, and rightful heirs of the kingdom of heaven.
 
 Of "one blood" we were all born. In "one blood" we all need to be washed. To all partakers of Adam's "one blood" we are bound, if we love life, to be charitable, sympathizing, loving, and kind. The time is short. We are going, going, and shall soon be gone to a world where there is no evil to remedy, and no scope for works of mercy. Then for Christ's sake let us all try to do some good before we die, and to lessen the sorrows of this sin-burdened world.
-
 
 ---
 [[UR 05 The Good Way|← The Good Way]] · [[The Upper Room|Upper Room Contents]] · [[UR 07 Let Any Man Come|Let Any Man Come. →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Alto and Bass
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2582
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has filled the hungry with good things; and the rich He hats sent away empty." Luke 1:53.
 
@@ -95,7 +92,7 @@ If I had the time and the power, I would like to take that word, He—HE—HE, a
 
 Go to Him, thirsty ones! Go to Him by a simple, childlike faith, and you shall then come and join with us in the song, "He has filled the hungry with good things; and the rich He has sent away empty." The Lord bless you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 148; LUKE 1:5-35; 46-56.
+## Exposition by C. H. Spurgeon: Psalm 148; Luke 1:5-35; 46-56
 
 We will first read a short Psalm inciting all to praise the Lord and then we will read part of the first Chapter of Luke's Gospel, especially noticing Mary's song of praise. It is a blessed thing to indulge our holy gratitude and to let it have speech in sacred Psalm and song. Praise is the end of prayer and preaching. It is the ear of the wheat: it is God's harvest from all the seed of Grace that He has sown.
 
@@ -144,7 +141,6 @@ Luke 1:5, 6. There was in the days of Herod, the king of Judaea, a certain pries
 48-55. For He has regarded the low estate of His handmaiden: for, behold, from henceforth all generations shall call me blessed. For He that is mighty has done to me great things and holy is His name. And His mercy is on them that fear Him from generation to generation. He has showed strength with His arm; He has scattered the proud in the imagination of their hearts. He has put down the mighty from their seats, and exalted them of low degree. He has filled the hungry with good things; and the rich He has sent away empty. He has helped His servant, Israel, in remembrance of His mercy; as He spoke to our fathers, to Abraham, and to His seed forever This is one of the sweetest songs that was ever sung and is equal to any of those which came from the Inspired lips of the Hebrew Prophets. Well might she sing who had been thus favored! Oh, if Christ Jesus should come to any of us by faith, what reason would we have for singing! And will not each one of us, who has been thus honored, cry with Mary, "My soul does magnify the Lord"?
 
 56\. And Mary lived with her about three months, and returned to her own house. What wonderful interviews those two holy women had! The one well advanced in years, and the other youthful, yet both highly favored of God. I wonder what they said? Doubtless angels remember their charming conversation. May the day come when all that fear the Lord, both men and women, shall speak often, one to another, concerning their Redeemer and all that relates to His glorious cause! And then the Lord shall write another Book of Remembrance concerning their hallowed fellowship and communion!
-
 
 ---
 [[Sermon 2581 Perfection in Christ|← #2581]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2583 Rain and Grace—a Parallel|#2583 →]]

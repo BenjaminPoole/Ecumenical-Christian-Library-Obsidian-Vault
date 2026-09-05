@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Indwelling and Outflowing of the Holy Spirit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1662
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 28, 1882,.
+*Delivered on Lord's-Day Morning, May 28, 1882*
 
 > "He that believes on Me, as the Scripture has said, out of his belly shall flow rivers of living water. (But this spoke He of the Spirit, which they that believe on Him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified)." John 7:38,39.
 
@@ -136,7 +135,6 @@ these vessels and bearing them down to the river's mouth? No, it cannot be done!
 Oh, for a flood of Divine Grace! May the Lord send to all our Churches a great springtide! Then the indolent will be active enough and those who were half dead will be full of energy. I know that in this particular dock several vessels are lying that I should like to float, but I cannot stir them. They neither work for God nor come out to the Prayer Meetings! They do not give of their substance to spread the Gospel. If the flood would come, you would see what they are capable of—they would be active, fervent, generous, abounding in every good word and work! So may it be! So may it be! May springs begin to flow in all our Churches and may all of you who hear me this day get your share of the streams!
 
 Oh that the Lord may now fill you and then send you home bearing a flood of Grace with you! It sounds odd to speak of a man's carrying home a flood within him and yet I hope it will be so—and that out of you shall flow rivers of living water! So may God grant it for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1661 Praying and Pleading|← #1661]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1663 The True Gospel Is No Hidden Gospel|#1663 →]]

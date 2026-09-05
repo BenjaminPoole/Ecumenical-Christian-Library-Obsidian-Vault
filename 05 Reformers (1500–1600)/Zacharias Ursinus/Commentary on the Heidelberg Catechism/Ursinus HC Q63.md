@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 63. What! do not our good works merit, which yet God will reward in this and a future life?
-
-**Question 63. What! do not our good works merit, which yet God will reward in this and a future life?**
 
 Answer. This reward is not of merit, but of grace.
 
-**EXPOSITION**
+## **Exposition**
 
 This question anticipates an objection on the part of the Papists in favor of justification before God, on account of our works and merits. Reward, say they, presupposes merit, so that where the one is, there the other must be also, for they are correlatives. Everlasting life is proposed as a reward for good works. Therefore the merit of good works is everlasting life. Ans. The first proposition is sometimes true of creatures, because men may deserve something from each other; but it does not always follow even among men, that where there is merit, there is reward. Rewards are often given by men when there is nothing to deserve them. But it is improperly said of God that he bestows eternal life as the reward of our good works: for we cannot deserve any thing at the hands of God by our works. Or the objection may be thus stated: That to which there is a reward attached is meritorious. There is a reward attached to good works. Therefore, according to the order of justice they are meritorious. Ans. That is meritorious to which a reward is attached by obligation; but the reward of good works is according to grace. There are two things to be considered in a reward: obligation and recompense. But here there is no obligation, and hence the reward which follows our good works is a reward which follows of grace. God bestows rewards upon our good works, that he may thereby testify that they are pleasing to him—that he may teach us, that eternal life is promised only to those who strive and agonize, and that he will just as certainly grant us this reward as if we had merited it. All the other arguments by which the Papists endeavor to prove that our good works are meritorious, may properly be referred to this place.
 

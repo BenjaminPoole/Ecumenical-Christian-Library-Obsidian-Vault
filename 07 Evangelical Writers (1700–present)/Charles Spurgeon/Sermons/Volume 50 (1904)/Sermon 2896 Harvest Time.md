@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Harvest Time
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2896
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is today not the wheat harvest?" 1 Samuel 12:17.
 
@@ -113,7 +110,7 @@ You shall have a harvest in due season if you faint not. Sow on, Brother! Sow on
 
 Go your way and when you weep most, then it is that you sow best. When most cast down, you are doing best. If you come to the Prayer Meeting and have not a word to say, keep on praying! Do not give it up, for you often pray best when you think you pray worst. Go on, and in due season, by God's mighty Grace, you shall reap if you faint not.
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 12.
+## Exposition by C. H. Spurgeon: 1 Samuel 12
 
 In Samuel's old age the people desired to have a king. And though it went much against the grain, yet, by the Lord's advice, Samuel consented to it. Here he makes his last protest.
 
@@ -140,7 +137,6 @@ chosen, and whom you have desired! And, behold, the LORD has set a king over you
 20-22. And Samuel said unto the people, Fear not: you have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart, and turn you not aside: for then should you go after vain things, which cannot profit nor deliver; for they are vain. For the LORD will not forsake His people for His great name's sake: because it has pleased the LORD to make you His people. How gently the old Prophet speaks! What a change from the pealing thunder to this gracious voice! It seems like the clear shining after rain.
 
 23-25. Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way: Only fear the LORD, andserve Him in truth with all your heart: for consider how great things He has done for you. But if you shall still do wickedly, you shall be consumed—both you and your king.
-
 
 ---
 [[Sermon 2895 A Blessed Gospel Chain|← #2895]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2897 The Source|#2897 →]]

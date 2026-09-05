@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Precious Blood Of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 621
 
-DELIVERED ON SUNDAY MORNING, MARCH 26, 1865,.
+*Delivered on Sunday Morning, March 26, 1865*
 
 > "The precious blood of Christ." 1 Peter 1:19.
 
@@ -152,7 +151,6 @@ And now, is this blood to be had? Can it be got at? Yes, it is FREE, as well as 
 "Now, freed from sin, I walk at large; The Savior's blood's my full discharge. At His dear feet my soul I'll lay, A sinner saved and homage pay."
 
 God grant it may be so, for His name's sake. Amen.
-
 
 ---
 [[Sermon 0620 A Warning Against Hardness Of Heart|← #620]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0622 Traveling Expenses On The Two Great Roads|#622 →]]

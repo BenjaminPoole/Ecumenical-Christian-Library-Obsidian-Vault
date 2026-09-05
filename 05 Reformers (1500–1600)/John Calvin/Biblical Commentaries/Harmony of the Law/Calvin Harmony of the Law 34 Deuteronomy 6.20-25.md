@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 34. Deuteronomy 6:20-25
-
-**DEUTERONOMY 6**
 
 **20.** *And* when thy son asketh thee in time to come, saying, What *mean* the testimonies, and the statutes, and the judgments, which the Lord our God hath commanded you?
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Preventing Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2924
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And David said to Abigail, Blessed is the Lord God of Israel, who sent you this day to meet me, and blessed is your advice, and blessed are you, because you have kept me this day from coning to bloodshed, and from avenging myself with my own hand." 1 Samuel 25:32,33.
 
@@ -37,7 +34,7 @@ That is all we shall have occasion to say about the narrative. It suggests our s
 
 Of this preventing Grace we shall speak in two ways. We will deal first of all with the people of God and with them but briefly, though they are the only persons who will ever be able to recognize the value and feel thankfulness for this precious benefit. Then we shall see how Grace often prevents even men who are notfollowers of Jesus.
 
-I. PREVENTING GRACE IS ENJOYED BY ALL THE PEOPLE OF GOD.
+## I. Preventing Grace Is Enjoyed by All the People of God
 
 Dear Friends, some of us can bless God at this hour that preventing Grace came to us in the shape of a godly education. We heard no blasphemies when we lay in the cradle, no curses startled us from our dreams. Many of us saw no drunkenness beneath the roof of our father's house, no vulgar books were put in our way. Many of you were trained from your youth up to know the Scriptures like Timothy—and some of you have even heard something of the voice of God speaking to you as He did to Samuel. Blessed be God for a holy mother! Blessed be God for an affectionate, prayerful father! Blessed be you of the Lord, you that brought us forth for God and blessed is your advice, for you have kept us from many a sin!
 
@@ -87,7 +84,7 @@ What if, instead of going into sin tonight, you should take my advice and seek t
 
 What if this should be the time when the Lord shall meet with you? Write it down, you angels, in your golden tablets! Record the birthday of a soul! Take down your harps, you bright ones! Strike the chords with a new and Heaven-born ardor. Cherubim and seraphim, lift up your voices to notes untried as yet while God Himself breaks forth into a song, rejoicing in singing over them that come unto Him through Jesus Christ, His Son. "Believe on the Lord Jesus Christ, and you shall be saved." Believe now, you in this area and you in these galleries. Oh, that you would believe in Jesus now! Thank God if you have not gone to the great lengths some have gone, but remember you cannot be saved except through faith in Jesus! If you have gone to the greatest lengths, thank God you have not yet gone too far, for He can still reach you. He has a long arm and He can find you in the very depths of your iniquity. Trust Him, Sinner, trust Him, now, and there shall be joy in Heaven over sinners that repent more than over 99 just persons that need no repentance! May God add His own blessing for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: JONAH1.
+## Exposition by C. H. Spurgeon: Jonah 1
 
 Verses 1-3. Now, the word of the LORD came unto Jonah the son of Amittai, saying, Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before Me. But Jonah rose up to flee unto Tarshish from the Presence of the LORD, and went down to Joppa; andhe founda ship going to Tarshish: so hepaid the fare thereof, and went down into it, to go with them unto Tarshish from the Presence of the LORD. Observe the misconduct of the Prophet Jonah. He had a plain command from the Lord and he knew it to be a command, but he felt that the commission given to him would not be pleasant and honoring to himself and, therefore, he declined to comply with it. We see, from his action, how some who really know God may act as if they knew Him not. Jonah knew that God was everywhere, yet he "rose up to flee unto Tarshish from the Presence of the Lord." What strange inconsistencies there often are even in good men! Here is one who is favored with a Divine commission—one who knows God and fears Him—yet, for all that, he ventures on the fool's errand of endeavoring to escape from the Omnipresent! He "went down to Joppa," which was the port of his country, "and he found a ship going to Tarshish."
 
@@ -132,7 +129,6 @@ Lord."
 17\. Now the LORD had prepared a great fish to swallow up Jonah. He prepared a storm, He prepared a fish and we afterwards read that He prepared a gourd and He prepared a worm. In the great things of life and in the little things, God is always present! The swimming of a great fish in the sea is, surely, not a thing that is subject to law. If ever there is free agency in this world, it must certainly be in the wanderings of such a huge creature that follows its own instincts and plows its way through the great wastes of the wide and open sea! Yes, that is true. Yet there is a Divine predestination concerning all its movements. Over every motion of the fin of every minnow, predestination presides! There is no distinction of little or great in God's sight—He that wings an angel guides a sparrow! "The Lord had prepared a great fish to swallow up Jonah."
 
 17\. And Jonah was in the belly of the fish three days and three nights. So round about the truant Prophet was the preventing Grace of Jehovah.
-
 
 ---
 [[Sermon 2923 The Singing Army|← #2923]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2925 Reasons For Doubting Christ|#2925 →]]

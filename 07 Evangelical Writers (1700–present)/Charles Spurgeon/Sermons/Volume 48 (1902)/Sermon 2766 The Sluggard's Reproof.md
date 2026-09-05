@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Sluggard's Reproof
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2766
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The sluggard will not plow because of the cold; therefore shall he beg in harvest and have nothing." Proverbs 20:4.
 
@@ -101,7 +98,7 @@ Ah, Brothers and Sisters, I beseech you, cease not from your labor! Be more dili
 
 Ah, it is a blessed harvest that God gives us here, but what a harvest will that be when we shall see all the saved souls gathered above—when we shall see the face of Christ and lay our crowns at His feet! Then look, labor, hope! An hour with your God will make up for all you may endure here. Oh, may God the Holy Spirit fill you with energy, give you fresh strength and may you, all of you, begin to plow straighter, deeper, longer furrows than you ever made before! Never look back, never take your hand from the plow, for in due season you shall reap if you faint not. Keep at it and be not like the sluggard who would not plow because of the cold—who shall beg in harvest, and have nothing.
 
-EXPOSITION BY C. H. SPURGEON: TJTUS3.
+## Exposition by C. H. Spurgeon: Tjtus 3
 
 Verse 1. Put them in mind to be subject to principalities andpowers, to obey magistrates, to be ready to every good work. You see, they were a rough, wild, rebellious people in Crete, and Christianity came to civilize, to sober, to sanctify, to save.
 
@@ -126,7 +123,6 @@ tions. There are always plenty of thorns about, and there are certain professors
 11-14. Knowing that he that is such is subverted, andsins, being condemned ofhimself When I shall send Artemas unto you, or Tychicus, be diligent to come unto me to Nicopolis for I have determined to winter there. Bring Zenas the lawyer and Apollos on their journey diligently, that they need nothing. Andlet ourpeople also learn to maintain good works for necessary uses, that they be not unfruitful. How the Apostle comes back to that point! Let all our people, our friends, our brethren, our kinsfolk, "let our people also learn to maintain good works for necessary uses, that they be not unfruitful."
 
 15\. All that are with me saluteyou. Greet them that love us in the faith. Grace be with you all. Amen.
-
 
 ---
 [[Sermon 2765 Marvelous Light|← #2765]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2767 Jesus in Gethsemane|#2767 →]]

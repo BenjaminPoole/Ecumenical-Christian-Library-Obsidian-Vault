@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 50
 
-**CHAPTER 50.**
+***Chapter 50.***
 
 ## Genesis 50:1-26
 

@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 88. Its Repetition
-
-**its repetition**
 
 ## Deuteronomy 5:12-15
 

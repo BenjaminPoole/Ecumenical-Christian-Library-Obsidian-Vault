@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 95
-
-**PSALM 95**
 
 The inspired penman of this psalm, whoever he was, [^1] in exhorting the Jews to praise God in solemn assembly, states two grounds why God should be praised; the one, that he sustains by his power the world which he created, the other, that he had of his free grace adopted the Church into a gracious relationship with himself. As many take God’s praises into their lips in a hypocritical manner, he exhorts the people at the same time to be sincere, serious, and devoted in the service, and to show by the tenor of their life that they had not been chosen in vain. The more effectually to guard them against hypocrisy, he mentions that their fathers from the beginning had been of a stubborn spirit, and chargeable with ingratitude to God; and he takes notice of the dreadful punishment which fell upon them, and which might well deter their children from following in the footsteps of their rebelliousness.
 

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 130. Matthew 14:3-12; Mark 6:17-29
-
-**Matthew 14:3-12; Mark 6:17-29**
 
 **3**. For Herod had seized John, and bound him, and put him in prison, on account of Herodias, the wife of his brother Philip. **4**. For John said to him, It is not lawful for thee to have her. **5**. And though he wished to put him to death, he feared the multitude, because they accounted him a prophet. **6**. But when Herod’s birthday was kept, the daughter of Herodias danced before the company, and pleased Herod. **7**. And therefore he promised with an oath, that he would give her whatever she would ask. **8**. But she, after having been instructed by her mother, said Give me here in a dish the head of John the Baptist. **9**. And the king was sorry, yet on account of the oath, and of those who sat with him at table, he commanded that it should be given. **10**. And he sent and beheaded John in the prison. **11**. And his head was brought in a dish and given to the girl, and she carried it to her mother. **12**. And his disciples came and carried away the body, and buried it, and went and told Jesus.
 

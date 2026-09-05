@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Messages of Our Lord's Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2060
-
-DELIVERED BY.
 
 > "Go your way, tell His disciples and Peter that He goes beforeyou into Galilee: there shall you see Him, as He said unto you." Mark 16:7.
 
@@ -114,7 +111,6 @@ I have done when I have said just this—I am very anxious that at this time we 
 "But," says one, "how can I come to Him? Poor unknown, unworthy one that I am?" Such were the disciples at the lake. They were fishermen—and when He came to them they had been toiling all night. Are you working for Him? Then He will come to you. Expect Him now. "Ah," says one, "I have been working without success"—you are a poor minister whose congregation is falling off, whose Church is not increased by conversions—you have toiled all the night and taken nothing. Or you are a Sunday school teacher who cannot see her girls converted. Or a Brother who mourns that his boys are not coming to Christ.
 
 Well I see who you are. You are just the sort of people that Jesus came to—for they had toiled all night in vain. Are you hungry? Jesus cries, "Children, have you any meat?" He comes to you and enquires about your hunger—while on the shore He has a fire of coals and fish and bread laid thereon. "Come and dine," says He. The table is spread. Come to Himself! He is your food, your hope, your joy, your Heaven. Come to Him—give Him no rest till He reveals Himself to you and you know for sure that it is your Lord who embraces you. So may He do, to each of us just now, for His sweet love's sake! Amen.
-
 
 ---
 [[Sermon 2059 The Miracles of Our Lord's Death|← #2059]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2061 The Evidence of Our Lord's Wounds|#2061 →]]

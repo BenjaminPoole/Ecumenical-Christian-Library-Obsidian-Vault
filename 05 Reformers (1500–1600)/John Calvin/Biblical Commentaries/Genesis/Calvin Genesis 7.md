@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 7
 
-**CHAPTER 7.**
+***Chapter 7.***
 
 ## Genesis 7:1-24
 

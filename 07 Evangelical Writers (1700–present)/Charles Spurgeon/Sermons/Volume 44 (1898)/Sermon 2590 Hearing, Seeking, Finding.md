@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Hearing, Seeking, Finding
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2590
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lo, we heard of it at Ephratah: we found it in the fields of the woods. We will go into His tabernacles: we will worship at His footstool." Psalm 132:6, 7.
 
@@ -47,7 +44,7 @@ Jesus said, "Take My yoke upon you and learn of Me, for I am meek and lowly in h
 
 II. This leads me to my second remark, which is that knowing what we do about Christ, the Ark, WE DESIRE TO
 
-FIND HIM.
+## Find Him
 
 I hope that I am addressing some who could even use the language of David and say that they intensely desire to find Him. They cry to the mighty God of Jacob in their affliction and with their whole heart and soul they long to find Christ! David made a vow about it, for his heart was set upon finding the Ark. Dear Friend, is your heart set upon finding Christ, or are you merely trifling with Him? Have you been so thoroughly awakened by the Holy Spirit that within you there burns a strong desire, insatiable as death, itself, so that you feel that you must find Christ? If so, I am happy to be addressing you—and you are already a happy person to have this hungering and thirsting after Christ, for that holy craving shall be fully satisfied with Him.
 
@@ -91,7 +88,7 @@ In lowly reverence we will bow ourselves down in the very dust, for we are but d
 
 But let us worship there with great joy. His "saints shall shout aloud for joy" and, as they bow at His footstool, it shall not be as slaves, but as His chosen and accepted ones. Let us also bow there very gratefully, blessing God that He has brought us to His feet. Part of the preparation for Heaven is to worship at God's footstool on earth, but, by-and-by, we shall worship in His palace above! "We will go and worship" because we have found Christ and He is ours! May this be true of all of you, dear Friends, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM132.
+## Exposition by C. H. Spurgeon: Psalm 132
 
 This Psalm is a prayer and pleading of the Covenant, such a prayer as might have been offered by Solomon at the opening of the Temple, or by any of the descendants of David, either in their times ofjoy or in their seasons of affliction. It divides itself into three parts. In the first seven verses, mention is made of David's zeal for the Ark and for the House of the Lord. Then, in three more verses, there follows the prayer at the moving of the Ark. And then the last verses mention the Covenant which God made with His servant, David, which is pleaded by David's descendants in later years. The Psalm begins thus—
 
@@ -130,7 +127,6 @@ Then in the 9t verse was the petition, "Let Your priests be clothed with righteo
 18\. His enemies will I clothe with shame. In this Psalm two sets of clothing are mentioned and you can have which you like. Here is one, "I will clothe her priests with salvation." And here is the other, "His enemies will I clothe with shame." Shame is a terrible thing! Many a man has thrown away his life to try to escape from the shame of a guilty conscience. But the ungodly will be forever clothed with shame and they will be eternally condemned. "His enemies," that is the description of the ungodly. It is of small account what your outward character appears to be—if you are an enemy of Christ, these are the garments in which you will die—and these are the garments in which you will continue to suffer forever. "His enemies will I clothe with shame."
 
 18\. But upon Himself shall His crown flourish. Upon Christ the laurel wreath, or rather, the Crown of Glory, shall never wither. "He shall not fail nor be discouraged, till He has set judgment in the earth: and the isles shall wait for His law."
-
 
 ---
 [[Sermon 2589 The Christian's Glorious Inventory|← #2589]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2591 Pride the Destroyer|#2591 →]]

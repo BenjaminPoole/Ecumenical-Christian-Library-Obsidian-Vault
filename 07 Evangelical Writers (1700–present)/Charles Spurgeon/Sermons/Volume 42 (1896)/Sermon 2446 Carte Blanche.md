@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Carte Blanche
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2446
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Jesus answered and said unto her, O woman, great is your faith: be it unto you even as you will." Matthew 15:28.
 
@@ -127,9 +124,9 @@ A dear Sister who was buried today said, when they told her that she could not l
 
 Ah, thank God, we, too, shall come to that last day of our earthly life! Unless the Lord descends quickly, we, too, shall come to our dying bed and then we shall hear our Savior say, "Be it unto you even as you will," and oh, we shall will to see His face and to be forever with the Lord, and to praise Him with infinite rapture forever and ever! Blessed be His name! We have faith to believe that it will be even so. Then we will tell Him what we cannot tell Him now—how much we love Him, how deeply we feel our indebtedness to Him—and we will give all the glory of our salvation to His holy name forever and ever! God grant that this may be the happy lot of everyone of us, for our Lord Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—327, 978, 980.
+## Hymns from "Our Own Hymn Book"—327, 978, 980
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 15:21-28.
+## Exposition by C. H. Spurgeon: Matthew 15:21-28
 
 Verse 21. Then Jesus went from there. He was glad to get away from the scribes and Pharisees who had been disputing about such trifles as the washing of His disciples' hands. He was tired of the murmuring of these cantankerous, frivolous triflers.
 
@@ -156,7 +153,6 @@ Lord. You remember the sermon that we had upon this text not long ago. [Sermon #
 28\. Then Jesus answered and said unto her, O woman, great is your faith. He seems quite amazed at the woman's faith, but He admires it and exclaimed, "O woman, great is your faith."
 
 28\. Be it unto you even as you will. And her daughter was made whole from that very hour. It was as she wished and she went home to glorify the Christ and to tell everybody how her prayer to Him had sped.
-
 
 ---
 [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2447 God, and Not Man—What Does It Mean|#2447 →]]

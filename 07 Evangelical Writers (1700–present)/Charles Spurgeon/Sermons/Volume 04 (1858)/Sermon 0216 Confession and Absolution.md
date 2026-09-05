@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/04
 ---
-
 # Confession and Absolution
 
 *New Park Street Pulpit* · Sermon No. 216
@@ -89,12 +88,11 @@ I must detain you a few moments. Let us use this prayer as our own *now.* Oh tha
 
 *Let us pray,*
 
-“GOD-BE-MERCIFUL-TO-ME-A-SINNER.”
+## “God-Be-Merciful-to-Me-a-Sinner.”
 
 *[And the people did with deep solemnity say]* “AMEN.”
 
 P.S.—The preacher hopes that he who reads will feel constrained most solemnly to do likewise.
-
 
 ---
 [[Sermon 0215 His Name—The Counsellor|← #215]] · [[Volume 04 (1858)|Volume 04 (1858) Contents]] · [[Sermon 0217 Declension from First Love|#217 →]]

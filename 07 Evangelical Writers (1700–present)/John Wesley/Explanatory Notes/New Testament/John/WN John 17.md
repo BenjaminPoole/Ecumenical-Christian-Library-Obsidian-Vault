@@ -24,7 +24,7 @@ In this chapter our Lord prays,
 
 **4.** For the world, ver. 21-23. John xvii, 21-23 In his prayer he comprises all he had said from 31, and seals, as it were, all he had hitherto done, beholding things past, present, and to come. This chapter contains the easiest words, and the deepest sense of any in all the Scripture: yet is here no incoherent rhapsody, but the whole is closely and exactly connected.
 
-**1.** Father - This simplicity of appellation highly became the only- begotten Son of God; to which a believer then makes the nearest approach, when he is fullest of love and humble confidence. The hour is come - The appointed time for it; glorify thy Son - The Son glorified the Father, both before and after his own glorification. When he speaks to the Father he does not style himself the Son of man.
+**1.** Father - This simplicity of appellation highly became the only-begotten Son of God; to which a believer then makes the nearest approach, when he is fullest of love and humble confidence. The hour is come - The appointed time for it; glorify thy Son - The Son glorified the Father, both before and after his own glorification. When he speaks to the Father he does not style himself the Son of man.
 
 **2.** As thou hast given him power over all flesh - This answers to glorify thy Son. That he may give eternal life, &c.-This answers to that thy Son may glorify thee. To all whom thou hast given him - To all believers. This is a clear proof that Christ designed his sacrifice should avail for all: yea, that all flesh, every man, should partake of everlasting life. For as the Father had given him power over all flesh, so he gave himself a ransom for all.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # Another And A Nobler Exhibition
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 448
@@ -75,7 +74,7 @@ Go round about her, O angels of the Lord! Mark well her bulwarks and tell the to
 
 II. Secondly, without a doubt the wisdom of God is made known to angels and principalities in THE VARIOUS
 
-DISPENSATIONS THROUGH WHICH THE CHURCH HAS PASSED.
+## Dispensations Through Which the Church Has Passed
 
 Doubtless, as they saw the sacrifice, whether it was the burnt offering, the peace offering, or the sin offering—as they saw the gorgeous ceremonies of the tabernacle, or the yet more splendid rites of the temple, they admired the wisdom of God, as it was set forth in the dim symbol and shadow. How much more must they have admired it, when the Sun of Righteousness arose with healing beneath His wings, when they saw the sacrifice superseded by the one great offering. The high priest set aside by the Man, who having once offered one sacrifice forever, sat down at the right hand of the Majesty on high. How they have marveled since that time as truth after truth has been expounded in the experience of Believers, as doctrine after doctrine has been revealed to the Church of Christ by the illuminations of the Holy Spirit!
 
@@ -146,7 +145,6 @@ You have been almost persuaded to be Christians. You have known the struggles of
 Angel, you will be disappointed yet, but if the soul shall say, "Now, even now, in this House of Prayer, I cast myself upon the finished Atonement of Christ. I trust in Him to save me," wing your flight aloft, you glorious angel! Tell the cherubs around the Throne of God that the prodigal has returned and an heir of Heaven has been born! Let Heaven keep holiday and let us go into our homes rejoicing, for he that was dead is alive again and he that was lost is found!
 
 May the Spirit of God do this, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 0447 God'S Estimate Of Time|← #447]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0449 Joseph And His Brothers|#449 →]]

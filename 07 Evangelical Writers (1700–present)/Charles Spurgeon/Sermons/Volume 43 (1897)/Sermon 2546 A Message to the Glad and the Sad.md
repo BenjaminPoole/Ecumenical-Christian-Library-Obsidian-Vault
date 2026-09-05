@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # A Message to the Glad and the Sad
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2546
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When men are cast down, then you shall say, there is lifting up; and He shall save the humble person." Job 22:29.
 
@@ -77,7 +74,7 @@ Then, do you not think it would be a good thing if those who are very happy and 
 
 Our poor feelings may depend on which way the wind is blowing! When a man goes to France on business three times a week, he is not very particular to ask what sort of passage he will be likely to have. It is those who play at traveling that need to have the water as smooth as glass! So, children of God who do real business with their Heavenly Father come to be almost indifferent whether they are very glad or very sad, for, after all, the safety of the man who crosses the sea does not depend upon his feelings, but on the boat in which he is sailing! So, our safety lies in the stability of the Christ to whom we have committed ourselves—not in our feelings which are as variable as the vapors that fill the sky. "Trust you in the Lord forever, for in the Lord Jehovah is everlasting strength." Put down your own feelings and lift up the Cross of Christ! Cling to Him and say, with Job, "Though He slay me, yet will I trust in Him." So shall it be well with you, both now and forever. The Lord bless you all, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOB23.
+## Exposition by C. H. Spurgeon: Job 23
 
 We shall read, this evening, in the Book of Job. May the good Spirit instruct us during our reading! Here we shall see Job in a very melancholy plight, grievously distressed in mind and yet, for all that, holding fast to his God. We do not want any of you to get into this gloomy condition, but if you are in such a state as that, or if you ever should be, may you behave as well as Job did! It needs a deal of Divine Grace to travel all right in the dark, to keep in the good way when you cannot see it, to cling to God when you cannot even feel that He is near you. But the Lord can give Grace even for such an emergency as that.
 
@@ -108,7 +105,6 @@ Verses 1, 2. Then Job answered and said, Even today is my complaint bitter: my s
 13-15. And what His soul desires, even that He does, for He performs the thing that is appointed for me: and many such things are with Him. Therefore am I troubled at His Presence, when I consider if am afraid of Him. Yet he longed for Him. So, sometimes, we long for the Presence of God, yet that Presence strikes us with a solemn awe whenever we are favored with it. We ask to see our Lord, yet when we do see Him, we have to say, with John, "When I saw Him, I fell at His feet as dead." Or perhaps we are like Peter who, when the Lord Jesus was in his boat, fell down before Him and cried, "Depart from me, for I am a sinful man, O Lord." The majesty of Christ's pure Presence was too much for poor imperfect Peter—and so it is for us.
 
 16, 17. For God makes my head soft, and the Almighty troubles me because I was not cut off before the darkness, neither has He covered the darkness from my face. Now you see where you might be if you had Job's experience. If you are not there, be very grateful. And if you are there, say, "There is a better man than I am who has been this way before me. I can see his footprints on the sands of time and I am encouraged by his example to trust my Lord in the darkest hour." You are not the only man or woman who has been in the coal cellar—there have been better than you in the dark places of the earth before now! Therefore, still have hope and be confident in God that in His own good time He will deliver you.
-
 
 ---
 [[Sermon 2545 The Greatest Folly in the World|← #2545]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2547 Return! Return!|#2547 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Abraham, A Pattern To Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2292
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By faith he (Abraham) sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise: for he looked for a city which has foundations, whose Builder and Maker is God." Hebrews 11:9,10.
 
@@ -115,7 +112,7 @@ Saints look for their Home at the end of their pilgrimage. When a man goes on a 
 
 Oh, but I wish you were all going with us! I wish you were all going the way that leads to the city that has foundations. Trust Christ! Trust Christ! He is the Way! Come out from the world. Lead the separated life. Live upon an unseen God and as surely as there is a God in Heaven, you shall be in Heaven in His good time, for He will never leave one Believer outside in the cold! God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. HEBREWS 11:1-21.
+## Exposition by C. H. Spurgeon. Hebrews 11:1-21
 
 This is the triumphal arch of faith. Here we find the names of many of the heroes of faith and a brief record of some of the battles in which they fought and conquered. May you and I possess "like precious faith" as that of which we have here the story! We cannot enter Heaven without it! We cannot fight our way through the world without it.
 
@@ -176,7 +173,6 @@ On the eternal shore."
 17-19. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only-begotten son, of whom it was said, That in Isaac shall your seed be called: accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure. This was one of the grandest achievements of faith! It was also a figure or type of God's offering up His well-beloved Son almost on the same spot!
 
 20, 21. By faith Isaac blessed Jacob and Esau concerning things to come. By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff. The staff which had helped him so often in his early pilgrimage, the staff on which be leaned when he came back from the place of his wrestling, halting on his thigh. He leaned on it as he sat upright on his death couch and pronounced the parting blessing. So, you see, Abraham, Isaac, Jacob, all lived by faith and did their works by faith, and distributed blessings to their children by faith. Friend, have you this faith, or have you not? If you have it, you are blessed among men, blessed among women! If you have it not, what hope is there for you either in this life or in eternity?
-
 
 ---
 [[Sermon 2291 Dare To Be a Daniel|← #2291]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2293 Simeon's Swan Song|#2293 →]]

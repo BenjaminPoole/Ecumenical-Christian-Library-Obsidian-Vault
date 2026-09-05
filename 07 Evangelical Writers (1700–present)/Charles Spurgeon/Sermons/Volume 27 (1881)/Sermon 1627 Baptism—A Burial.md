@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Baptism—A Burial
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1627
@@ -109,8 +108,7 @@ Poor sinner, you do not know anything about this death and burial, and you never
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Romans 6.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’775, 762, 646.
-
+## Hymns from ‘Our Own Hymn Book’’775, 762, 646
 
 ---
 [[Sermon 1626 The Principal Wheat|← #1626]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1628 Till We Meet Again|#1628 →]]

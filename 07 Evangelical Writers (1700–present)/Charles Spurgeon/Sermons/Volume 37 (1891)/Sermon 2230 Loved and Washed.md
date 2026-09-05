@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Loved and Washed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2230
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Unto Him that loved us, and washed us from our sins in His own blood, and has made us kings and priests unto God and His Father; to Him be glory and dominion forever and ever. Amen." Revelation 1:5, 6.
 
@@ -172,7 +169,6 @@ Surely, if "we have known and believed the love that God has to us," we shall fi
 Some religion seems to be altogether a matter of the drum—that will not do. But there are occasions when the drum may rightly be used. There are seasons when the cornet, harp, dulcimer and all kinds of music ought to be heard. There are times for the holy dance and the joyous song. There are periods when enthusiasm must rule the hour, when the spirit must feel that she is all wings, that she mounts and soars—and whether in the body or out of the body, she cannot tell. May such a moment as that be yours just now! Blessed be the name of the Lord forever! To Him be glory and dominion! Hallelujah! Let us all say it. Let us all feel it. Let us all live it. Amen, and Amen!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 53.
-
 
 ---
 [[Sermon 2229 God's Glorious and Everlasting Name|← #2229]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2231 An Urgent Request for an Immediate Answer|#2231 →]]

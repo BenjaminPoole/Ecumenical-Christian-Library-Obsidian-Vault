@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 42
 
-**CHAPTER 42**
+***Chapter 42***
 
 ## Jeremiah 42:1-3
 
@@ -75,7 +74,7 @@ They then added, *That it may be well with us when we obey the voice of Jehovah*
 
 ## Prayer Lecture 156
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are here tossed to and fro, being uncertain and doubtful, except we are ruled by thy word, and are blind in thick darkness, — O grant, that while thou shinest on us by thy Law and by thy Gospel, we may be illuminated as to our minds by thy Holy Spirit, so that we may wholly surrender ourselves to thee, and never deviate from the right way which thou hast made known to us, but so pursue our course through life, that at length we may come to that blessed life, which has been prepared for us in heaven by Jesus Christ our Lord. — Amen.
 
@@ -175,7 +174,7 @@ He adds, *Hear the word of Jehovah, ye remnant of Judah* Jeremiah, by thus addre
 
 ## Prayer Lecture 157
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not once only shown to us the way and the end to which we ought to proceed, but art pleased daily to stretch forth thy hand to us, and dost by thy constant exhortations invite and stimulate us to go onward, — O grant, that we may attend to thy voice, and so renounce all the corrupt desires and lusts of our flesh, that nothing may hinder us wholly to submit to thee, and so to follow whithersoever thou mayest call us, that we may at length come to that blessed rest, which thou hast prepared for us in heaven through Christ our Lord — Amen.
 

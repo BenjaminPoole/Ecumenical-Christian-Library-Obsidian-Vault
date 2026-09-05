@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Right-hand Sins
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3415
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And if your hand offends you, cut it off." Mark 9:43.
 
 SALVATION is by faith in the Lord Jesus Christ. It is not of works, neither can it be procured by human merit. It is the free gift of God through the atoning Sacrifice of Christ to every soul that believes. But what is salvation? Salvation is, in short, deliverance from sin, deliverance from the guilt of it, from the punishment of it, from the power of it. If, then, any man is saved, he is delivered from the reigning power of sin. It is not possible, therefore, that any man should have salvation and yet continue in the indulgence of sin. Jesus Christ came to open a hospital for sin-sick souls, not that they might remain sick in a hospital but might go out of it healed. He came not to take men to Heaven with their sins about them, but to purge them from their sins and so make them fit to enter Heaven! Hence, Jesus Christ is the severest of all moralists and while He and His followers denounce all trust for salvation in merit, they equally declare that no man is a saved soul who tolerates any known sin. All the Gospel declares this. In all its parts it implies this and that man cannot and ought not to consider himself to be saved and cannot truly be said to be saved while he lives in the indulgence of evil propensities as he did before. We shall not at all, therefore, come into conflict with the Doctrines of Grace while we preach to you the strongest claims of Christ upon our hearts and lives through His Word. We shall have to urge upon you the most strenuous giving up of sin and that which leads to sin—but this, not as a means of salvation—but as a result of faith and as an evidence that salvation is truly possessed—as the sign and token, the proof and the earnest of the good work of the Holy Spirit within the soul. We shall begin, therefore, with this short assertion which will serve as our first point of thought—
 
-I. EVERYTHING WHICH OFFENDS GOD OUGHT TO OFFEND US.
+## I. Everything Which Offends God Ought to Offend Us
 
 You notice the text says, "If your hand offends you." We might read it, "Makes you to offend God." The two expressions ought, in our experience, mean the same thing, for everything which offends God does offend every truly gracious heart. That short statement will serve as a touchstone for us all to know whether we are reconciled to God or not. Remember, if you truly love God, it must be so—that that which is hateful to Him will be hateful to you. Where two hearts are bound together in the bonds of love, they are quite sure to endeavor to remove everything out of the way that would cause pain to either. You cannot love me if you favor my enemies. You can have no affection for me if you delight to thrust before me that which vexes my spirit and grieves my heart. True love feels a sympathy with the person loved and learns to put away that which is obnoxious. Now say, Heart, do you put away from yourself that which God hates? Do you hate it because He hates it—not so much because your fellow Christians dislike it, or because the public judgment would go against it—but do you hate evil because it is detestable in the sight of God? If so, then you have a clear mark that you love God and you should be thankful for the Divine Grace which has put your heart into such a state.
 
@@ -31,9 +28,9 @@ Again, if that which offends God offends us, then we may congratulate ourselves 
 
 Then there is one other thought that ought to cheer you. If you can honestly answer this question—If that which offends God offends you, then there is some communion between God and your soul—and though it may be a questionwith you and you say, "Will God in very deed speak with such a one as I am? Will He reveal Himself to His servant and show Himself gracious to such a worm as I?"—He has done it and He is doingit and this practical proof of His communion is far better than half the raptures and the joys which may be but the fruit of men's carnal excitement! This solid gold of holiness is full and true proof that the hand of the Lord has been laid upon you. Settle this, then, my beloved Brother or Sister, in your heart from this day forth! If there is a good man in this world, if God loves him, I must love him. If there is a good Doctrine preached anywhere, though I may scarcely understand it, yet if God loves it, I must believe it and rejoice in it! If there is any Providential dispensation that is really of God's mind, then let it be of my mind. Oh, Spirit of God, bring me to love what God loves, not only to acquiesce in His will, but to rejoice in His will! And Lord, teach me to hate what You hate. If there are those in this world whose company You would not have, for they blaspheme and rail and speak lightly of holy things, help me to shun their company! If there is a song that Christ's ear would not hear, let my ears refuse to hear it. If there is any sight that a holy God would not gaze upon, let not me gaze upon it. May I seek only to love that which would approve itself to the pure mind of Christ and to be offended, heartily and naturally—without any twisting of myself towards it—at everything that is at enmity with God. That stands as the first thought. Now, let us pass on.
 
-II. EVERY SAVED MAN WILL FIND THAT THERE ARE MANY SINS WHICH OFFEND GOD WHICH
+## II. Every Saved Man Will Find that There Are Many Sins Which Offend God Which
 
-MUST BE VERY SUMMARILY DEALT WITH.
+## Must Be Very Summarily Dealt With
 
 That which offends God, offends the soul. That is the first step. Then the next step is—deal with it as an offense, deal with it with vigor, deal with it in a summary manner—as the text puts it, "If your hand offends you, cut it off." There are sins which are very dear to men. I shall not attempt to give a catalog of them. We are so differently constituted that the sin which might bewitch you, might not fascinate me, and the sin into which I should be likely to fall might not be that to which you would be so liable. We all have some besetting sins. We may fall into all sins, but some men are more disposed to certain offenses than others.
 
@@ -63,7 +60,7 @@ May I urge upon my dear Brothers and Sisters, the members of this Church, to avo
 
 One thing there is which I have often to preach a little sermon about to myself. There is a tendency in some of us, especially those of us to who have heavy constitutions, to have a love of ease—and we have to drive ourselves on with a whip to constant industry. But it must be done, we must do it! Whitfield used to call out against the gouty doctor. That minister who takes things easily will be cursed of God at the last. I believe there is no man whose condemnation will be more dreadful than that of an easy-living minister. We are bound to be the best of men, to spend and be spent in the Master's cause. The love of ease is the temptation of many, many Christians. Their love of retirement is really indolence. They get into the back ranks of the Christian army and enjoy all the good things of the Church out of a love of self. I am sure many do. We, ourselves, like spiritual ease. We do not like being stirred up too much. We do not like a little self-examination. Are there not hundreds of Christians who do not dare to look at their own souls? They are obliged to live at secondhand, hoping it is all right, but as to a thorough ransacking of their spirits, they have not gone through that by the year together! It won't do, my Brothers and Sisters! We must cut off this easy kind of Christianity. The Kingdom of Heaven suffers violence, and only the violent will win it! A heart-searching contention against sin—and revenge against iniquity in our own souls must be carried out—for men will not go to Heaven sleeping! These are not times in which you will be carried to the skies on flowery beds of ease. He that would win the heavenly race must run for it. He that would get to Heaven must fight for it. The Lord stir us up and deliver us from this right-hand sin of self-confidence and love of carnal ease! The Lord help us to work for His cause while we have any strength left, and to rest in the rest which He has prepared for us on the other side of Jordan! Now I come to a close.
 
-IV. WHAT ARE THE REASONS WHY THERE SHOULD BE A CUTTING OFF OF RIGHT HANDS?
+## IV. What Are the Reasons Why There Should Be a Cutting off of Right Hands?
 
 I shall speak first to you unconverted people about the giving up of sin.
 
@@ -75,7 +72,7 @@ And now, Christians, this word to you. I have hinted that there are some things 
 
 Besides, reflect—Christians are losers to be gainers. The farmer loses his wheat as he scatters it abroad upon the soil, but then he expects the harvest. The money that is invested and put out, the merchant has it not, but then it is making gain for him and he expects to receive it with its interest! So whatever we give up for Christ will come back to us with blessed interest in that land where to have been maimed for Christ will be nobility, where to have suffered for Christ will enroll us among the peerage of the skies, where to have died for Christ will make us brightest of the bright, amidst the fair ones, fairest of the fair! Oh, never stand questioning and parleying about anything in which Christ is concerned, but pray the Holy Spirit to keep you, from this day forward, close at the heels of the Master, casting aside every weight and every sin that besets you, and every earthly thing that attracts you—only desiring His name to be sweet upon your tongue, and His praise to be reflected in your whole character! God grant it may be so with you, my dear Brothers and Sisters, until Christ comes. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 18:1-22.
+## Exposition by C. H. Spurgeon: Matthew 18:1-22
 
 Verse 1. At the same time came the disciples unto Jesus, saying, Who is the greatest in the Kingdom ofHeaven?The question we have sometimes heard asked in other forms, "Which is the highest office—which form of service shall have the greatest honor?" As if we were courtiers and were to take our positions according to precedent.
 
@@ -120,7 +117,6 @@ Verse 1. At the same time came the disciples unto Jesus, saying, Who is the grea
 21\. Then came Peter to Him andsaid, Lord, how often shallmy brother sin against me andI forgive him? Tillseven times?He thought he had opened his mouth very wide when he said that.
 
 22\. Jesus said unto him, I say not unto you, Until seven times, but, Unto seventy times seven. I do not wonder that we read in another place that the disciples said, "Lord, increase our faith." For it needs much faith to have so much patience and to still continue to forgive.
-
 
 ---
 [[Sermon 3414 'Brief Life Is Here Our Portion'|← #3414]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3416 Shall and Will|#3416 →]]

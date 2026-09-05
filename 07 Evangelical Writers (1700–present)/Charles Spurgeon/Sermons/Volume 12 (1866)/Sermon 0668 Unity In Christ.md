@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Unity In Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 668
 
-DELIVERED ON SUNDAY MORNING, JANUARY 7, 1866,.
+*Delivered on Sunday Morning, January 7, 1866*
 
 > "I do not pray for these alone, but also for those who will believe in Me through their word; that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me." John 17:20,21.
 
@@ -144,7 +143,6 @@ But are you alive by the life of Christ? Does God dwell in you, and do you dwell
 And let us chase out of our hearts everything which would break the unity which God has established. Let us cast from us every false doctrine, every false thought of pride, enmity, envy, bitterness that we, whom God has made one, may be one before men as well as before the eyes of the heart-searching God.
 
 May the Lord bless us, dear Friends, as a Church. May He make us one, and keep us so. It will be the dead stuff among us that will make the divisions. It is the living children of God that make the unity! It is the living ones that are bound together. There will be no fear about that—Christ's prayer takes care of us—that we shall be one. As for those of you who are joined with us in visible fellowship and are not one with Christ, may the Lord save you with His great salvation, and His shall be the praise. Amen and Amen.
-
 
 ---
 [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0669 Open Heart For The Great Savior|#669 →]]

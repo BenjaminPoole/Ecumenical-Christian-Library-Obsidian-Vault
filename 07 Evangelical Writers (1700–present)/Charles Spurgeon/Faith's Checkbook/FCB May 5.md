@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # May 5
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WHY REMAIN CAPTIVE?**
+## **Why Remain Captive?**
 
 > The Lord thy God will turn thy captivity" Deut. 30:3
 
@@ -23,7 +22,6 @@ God's own people may sell themselves into captivity by sin. A very bitter fruit 
 But we cannot be held in slavery for ever. The Lord Jesus has paid too high a price for our redemption to leave us in the enemy's hand. The way to freedom is, "Return unto the Lord thy God." Where we first found salvation we shall find it again. At the foot of Christ's cross confessing sin we shall find pardon and deliverance. Moreover, the Lord will have us obey His voice according to all that He has commanded us, and we must do this with all our heart, and all our soul, and then our captivity shall end.
 
 Often depression of spirit and great misery of soul are removed as soon as we quit our idols and bow ourselves in obedience before the living God. We need not be captives. We may return to Zion's citizenship, and that speedily. Lord, turn our captivity!
-
 
 ---
 [[FCB May 4|← May 4]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB May 6|May 6 →]]

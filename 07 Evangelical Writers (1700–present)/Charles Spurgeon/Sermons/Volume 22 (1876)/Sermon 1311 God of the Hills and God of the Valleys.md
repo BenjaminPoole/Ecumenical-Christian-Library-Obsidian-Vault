@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # God of the Hills and God of the Valleys
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1311
@@ -67,7 +66,7 @@ which we do not see now. I grant you there was—but if it were real power, from
 
 The day must and shall come when the Truth of God shall prevail and the God of Truth shall be exalted and to the moles and bats the demon gods and their images shall be cast forever. Dishonor not your God by unbelief, faint-hearted soldiers! Bring not defeat upon yourselves by your cowardly fears! Believe in God and so shall you be established! God waits till you believe in Him—and when His whole Church shall, with brave confidence, be sure of victory—victory shall certainly come to her! The Lord increase our faith and, from now on in this respect, let us never dream that Jehovah, the God of the hills, is not the God of the valleys!
 
-II. WE MAY COMMIT THE SIN OF SYRIA BY DOUBTING THE HELP WHICH THE LORD WILL RENDER
+## II. We May Commit the Sin of Syria by Doubting the Help Which the Lord Will Render
 
 TO US. Sometimes we are brought into sore trouble and then we imagine that the Lord will not help us as He helped the old saints of whom we read in the Bible. We can believe all about Abraham and Moses and David—but we question whether the Lord will help us. We look at those men as the great hills and we regard ourselves as the valleys—and we dare not hope that the Lord will deal with us as He did with His servants in the days of yore. Now, don't you think this is making God to be a local God? Ought we not have the same faith in God as Abraham, Isaac and Jacob had?
 
@@ -146,7 +145,6 @@ It is possible for unconverted men to fall into the sin of which we are speaking
 God will smite the valley sinners as well as the hill sinners, and though you say, "I have always attended the House of God and used the outward means," yet assuredly, unless you believe in Jesus, God, who smites the thoughtless heathen, will smite the yet more guilty hearer of the Word who rejects the blood of Christ! God will deal out equal justice to all mankind. He is the God both of the hills and of the valleys, and no impenitent sinner shall escape the rod of His Justice! If you believe not on Christ you shall be lost, whoever you may be! If you will now trust Jesus you shall be saved, whether you dwell in the hills or the valley! God grant you Grace to believe at once, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON-1 Kings20:1-30. HYMNS FROM "OUR OWN HYMN BOOK"—92, 212, 499.
-
 
 ---
 [[Sermon 1310 The Blind Befriended|← #1310]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1312 Good News for Seekers|#1312 →]]

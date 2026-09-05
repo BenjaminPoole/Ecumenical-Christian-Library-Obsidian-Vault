@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 135. Numbers 3:1-51
-
-**Numbers 3**
 
 **1.** These also *are* the generations of Aaron and Moses, in the day *that* the Lord spake with Moses in mount Sinai.
 

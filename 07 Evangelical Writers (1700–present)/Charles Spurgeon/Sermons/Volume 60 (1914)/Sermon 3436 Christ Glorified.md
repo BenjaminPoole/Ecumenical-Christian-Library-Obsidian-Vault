@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Christ Glorified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3436
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has glorified You." Isaiah 55:5.
 
@@ -27,7 +24,7 @@ Now it must be a great comfort to lovers of Christ, who mourn that He is not hon
 
 Now glancing across the subject, as some skiff flies over the sea, we will talk about what God has done by way of glorifying His Son, Jesus—
 
-I. GOD HAS GLORIFIED HIM IN THE ENTIRE ECONOMY OF SALVATION.
+## I. God Has Glorified Him in the Entire Economy of Salvation
 
 From first to last, Christ glorifies His Father, and the Father glorifies Him. Begin with that which has no beginning, namely, everlasting love, and we find that we are chosen in Christ Jesus from before the foundation of the world. The love of God which comes to us through Jesus Christ always is the channel—and it is connected with Jesus Christ before the heavens were stretched abroad! He was glorified in our election! Now with Christ Jesus in the mind of the Eternal Father, there is no election to eternal love except through Jesus Christ! And if you and I are chosen, it is—
 
@@ -37,7 +34,7 @@ God has glorified His Son in the matter of redemption. There is no redemption ou
 
 So onward, if you come to the matter of our justification or our acceptance which sprang out of redemption, God glorified His Son. We are, if pardoned, only forgiven through His blood! If justified, entirely by virtue of His righteousness! If accepted, it is always in the Beloved! If perfected, we are completed in Him, perfect in Christ Jesus! There is not a single Covenant blessing—as I begin at the beginning so may I continue to the close—there is not a single blessing in the economy of Christ which comes to us apart from Christ! And as we receive these gifts, one by one, the Holy Spirit takes care to make us know this—He empties us of self that we may see the fullness of Christ. He kills our pride that we may see the excellence of Christ. He takes away our strength that we may behold the power of Christ. In the operations of the Holy Spirit within our soul, while they aim at destroying sin and at many other blessed results, yet they have for their first and chief purpose, the making Christ glorified in the heart of all His people, in every gift that comes from the hand of the Most High! Brothers and Sisters, our preservation, our final perseverance and every other blessing which is secured to us, and about which we have no doubt—all this comes to us in Him! We are preserved in Christ Jesus. Because He lives, we live, also, and only because He lives and by virtue of our union with Him—we who are the branches continue to bring forth fruit—but if we were separated from Him, we should be only fit to be cast into the fire to be burned! Right away from the gates of Hell, up to the pearly gates of Heaven, it is Christ Jesus who is glorified! In every step the Believer takes, right out of the slough of despondency, up to the Beulah hilltop of full assurance and still onward beyond the clouds, and beyond the stars in the palace of eternal glory, it will be Christ, and Christ Jesus, alone, who shall have all the praise! God has taken care in the planning of the whole economy of Christ, that Jesus Christ should have the pre-eminence. There is much to talk of here, but think of it—that will be better than my speaking. Turn it over as Abraham Booth wrote a book showing the Grace of God in all the ways of salvation, so somebody else might write a book showing the glory of Christ in every single part of the way. And if we cannot write such a book, yet at least we must feel precious emotions as we contemplate the whole. In the next place, God has glorified His Son—
 
-II. IN THE MIDST OF THE CHURCH.
+## II. In the Midst of the Church
 
 The Church is to Christ what Eve was to Adam. She was taken out of Christ—she is bone of His bone and flesh of His flesh. As the Apostle says, "For this cause shall a man leave his father and mother, and shall cleave unto his wife, and they two shall be one flesh." This is a great mystery, but I speak concerning what? Concerning matrimony? Yes, in one sense, but not in another sense. Concerning Christ and His Church, for your cause did Christ leave His Father and He came into your world that He might be one flesh with His Church—she owes all to Him—her very existence is owing to Christ. As Eve springs from Adam, the Church springs out of the loins of Jesus Chris!.
 
@@ -63,7 +60,7 @@ I wish to ask a minute's attention to the next, namely, that the Father has glor
 
 And, Brothers and Sisters, think how the Father has exalted Christ in that at this time He is receiving every hour some of the purchase of His blood. I have sometimes tried to picture in my eyes the delight of Christ, the gleaming of His eyes of love, as His blood-bought ones come Home one by one. You know it is His prayer, "Father, I will that they, also, whom You have given Me, be with Me where I am." Here they come, one after another! Some from this Church—one yesterday—usually two or three a week they go up into the bosom of Christ! You know how the farmer rejoices as he sees the loaded wagons coming, one by one, to the barn—but he has sowed, not with blood, though he may have sowed with tears. You know how you and I rejoice as we think we have been the means of the conversion of someone—but what is the joy of Christ as He sees the perfection of His goodness? Christ is exalted, fresh crowns are laid at His feet—the Eternal Spirit, as He brings and conducts the chosen spirit up to Christ, glorifies Him! And here, below, Brothers and Sisters, let us add, as we leave this point, Jesus Christ is glorified in the power which He possesses in the conversion of souls. Wherever His name is preached, it becomes like ointment poured forth. I have no belief in the preaching of Christ unsuccessfully. I think a dear Brother may preach the Gospel for years and see no conversions and, perhaps, there may be none just then, but they will come! I won't say this to myself to comfort myself. I would be afraid I was on the wrong tack if I did not see them, and I would say to those who preach the Master's Word faithfully, "It shall not return unto Him void." Christ is greatly glorified when His Gospel becomes a heart-breaker, like a hammer when it dashes the rock in pieces and becomes like a fire. Christ is glorified when a harlot gives up her evil trade, when the thief casts down the tools of his infamy, when the drunk lifts his last dram to his lips, when the blasphemer washes out his mouth and resolves to drink no more of the wine of cursing! God grant us that we may always pray that God will glorify Christ in marvelous and manifest conversions of extraordinary sinners being snatched from between the teeth of the old lion and made to dedicate the rest of their days to King Jesus! Now to close—
 
-IV. GOD HAS GLORIFIED CHRIST IN HIS KINGDOM.
+## IV. God Has Glorified Christ in His Kingdom
 
 We have already said that Christ is glorified in His spiritual Kingdom in the midst of Zion. One is tempted to enlarge on that. The King is always glorious when he rules his people by good laws, when he has a happy and prosperous people. And our Lord Jesus Christ rules us with the best of laws, and happy are the citizens of the new Jerusalem—
 
@@ -85,7 +82,7 @@ And ask Him still for more."
 
 One other remark, and that is, if you don't glorify Jesus Christ willingly and cheerfully by such a trust, He will be glorified even in your condemnation! In the day of His appearing, you that have heard the Gospel—for I speak to you, only, if you reject Him, you will have yet to minister to His honor. "Kiss the Son, lest He be angry and you perish from the way if His wrath is kindled but a little. Blessed are all they that put their trust in Him." But if you trust Him not, here is the alternative—"He shall break the nations with a rod of iron, He shall dash them in pieces like a potter's vessel." How stands it with you? Will you be able to endure that iron rod? Will you be able to endure the breaking, when first the body shall be broken, and then the soul to shivers, like a potter's vessel? Be wise, therefore, oh you kings and you men, sons of the earth! Be wise, bow before Him, accept Him as your King! God will thus be glorified by the work of Christ, and if it is not so, He will be glorified by the aid of justice, which may the Lord forbid in the case of any one of us! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH53.
+## Exposition by C. H. Spurgeon: Isaiah 53
 
 Verse 1. Who has believed our report? And to whom is the arm of the LORD revealed?The Prophet seems to speak in the name of all the Prophets, lamenting the general unbelief concerning Jesus Christ, the Son of God. The report concerning Him is very clear. It comes from God—it is for our salvation—and yet how many disbelieve it! In fact, all do until the arm of the Lord is revealed—until He works upon the hearts of men and they are led to believe in Jesus. And here is the difficulty of belief.
 
@@ -112,7 +109,6 @@ Was love or was sorrow like this ever known?" Scarcely for a righteous man will 
 12\. Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong. The dying Christ has risen again, and He is now a great conqueror and divides the spoil. Those spoils are human hearts, and the true love and deep devotion of those He has redeemed. He shall have this—
 
 12\. Because He has poured out His soul unto death: and He was numbered with the transgressors: and He bore the sin of many, and made intercession for the transgressors. And He is doing it now—pleading this very night that old prayer of His, "Father, forgive them, for they know not what they do." Oh, let you and I be pardoned with that plea!
-
 
 ---
 [[Sermon 3435 Sanctified Sorrow|← #3435]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3437 Friendship's Guide|#3437 →]]

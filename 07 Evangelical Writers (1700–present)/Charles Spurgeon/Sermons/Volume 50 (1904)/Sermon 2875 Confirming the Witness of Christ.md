@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Confirming the Witness of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2875
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Even as the testimony of Christ was confirmed in you." 1 Corinthians 1:6.
 
@@ -97,7 +94,7 @@ er you are, whatever you are doing, say within yourself, "I must so live and die
 
 So, dear Friend, go home, and say, "I solemnly vow, yet not in my own strength, but I solemnly vow, by Your Grace, that from this moment, forward, it shall be my aim to live more as a confirmer of the Truth of God! I did not know my high calling before, but I now know that I am a confirmer of Your Truth. Lord, help me so to live that there may never be any flaw in my conduct, never any vile word proceed out of my lips—make me so to live that I may confirm Your Truth! Lord, help me to confirm the witness of Christ!" Go and register that vow, and that resolution, and seek God's Grace that you may not let it be a vow not carried out, but may you be able to live to the Glory of God, and to the honor of His blessed name! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM84.
+## Exposition by C. H. Spurgeon: Psalm 84
 
 A Psalm for the sons of Korah. You remember how Korah, Dathan and Abiram were destroyed because of their rebellion against the Lord and their revolt against His chosen servants, Moses and Aaron. And you, no doubt, recollect how it is recorded that "the children of Korah died not." Why they were spared, we cannot tell, except that it was an act of Sovereign Grace and if so, I can understand why they were afterwards selected to be among the chief singers in the house of the Lord, for who can sing so sweetly to the God of Grace as the men who have been saved by His Sovereign, distinguishing Grace? This Psalm is "for (or, of) the sons of Korah."—
 
@@ -136,7 +133,6 @@ the holy exercises in which he takes part. Half-hearted worshippers are an insul
 10\. For a day in Your courts is better than a thousand. Of course the Psalmist means that a day in God's courts is better than a thousand spent anywhere else. See how he contrasts nearly three years with a single day, and he might have gone even further and said, "Better is one day with God than a thousand years without Him." He gives us another contrast as he goes on to say—
 
 10-12. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness. For the LORD God is a sun and shield: the LORD will give Grace and glory: no good thing will He withhold from them that walk uprightly. O LORD of Hosts, blessed is the man that trusts in You. May all of us know that blessedness, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2874 Precepts and Promises|← #2874]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2876 Christ's Crowning Glory|#2876 →]]

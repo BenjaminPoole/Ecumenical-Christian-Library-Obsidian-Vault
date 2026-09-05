@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # 'Tempted of the Devil'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2997
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Jesus was led up by the Spirit into the wilderness to be tempted of the devil." Matthew 4:1.
 
@@ -79,7 +76,7 @@ Nor will the highest form of Grace or the greatest development of a spiritual mi
 
 Alas, there are some here who are not thus tempted and who are, perhaps, congratulating themselves and saying, "We were never tempted like that!" Ah, you are never emptied from vessel to vessel! You are settled on the lees and why are you left so quiet? Is it not because there is no spiritual life in you? You are dead in trespasses and sins! You are the devil's own—why should he hunt you? A man does not go forth with a lasso to catch a horse that stands in his stable already bridled and saddled for him to ride whenever he likes! He goes forth to hunt the wild horse that is free. So the devil knows that he has you bridled and saddled—and that he can ride you whenever he pleases—so he does not need to hunt you. But he will hunt the free Christian, upon whose back he cannot place a saddle and into whose mouth he cannot fix a bit. I wish you were tempted. I wish there was something in you worth the devil's efforts, but there is not. May God renew your hearts and give you a right spirit! Remember that the way of salvation is to trust Jesus. Do that and you are saved. He that believes and is baptized shall be saved. If you are believing in Jesus—trusting only in Jesus, entirely, with your whole head—then you are saved. Then you may defy the power of Hell and come off more than conqueror! May the Master bless these words to the warning of many and the comfort of some, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 4:1-11.
+## Exposition by C. H. Spurgeon: Matthew 4:1-11
 
 Verse 1. Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil He had just been baptized, the Spirit of God had descended upon Him and the Father had borne witness to Him, saying, "This is My beloved Son, in whom I am well pleased," yet immediately after all that, He was led into the wilderness to be tempted by the devil! So, after your times of sweetest fellowship with God. After the happiest enjoyment of Gospel ordinances. After the sealing of the Spirit within your hearts, you must expect to be tempted by the devil. You must not suppose that in your Christian life, all will be sweetness—that all will be spiritual witness-bearing. You have to fight the good fight of faith and your great adversary will not be slow to begin the encounter! You are a pilgrim in a strange land, so you must expect to find rough places on the road to Heaven. Yet, since you are so much weaker than your Master was, you will do well to pray the prayer that He taught His disciples, "Lead us not into temptation, but deliver us from the Evil One."
 
@@ -102,7 +99,6 @@ it to do so. And He can, if it pleases Him, use that power without the outward m
 8-10. Again, the devil took Him up into an exceedingly high mountain and showed Him all the kingdoms of the world, and the glory of them; and said unto Him, All these things will I give you, if you will fall down and worship me. Then said Jesus unto him, Get you hence, Satan: for it is written, you shall worship the Lord your God, and Him only shall you serve. Christ will not endure any more of this talk! When it comes to a bribe—the promise that the devil will give Him earth's glory if He will but fall down and worship him—Christ ends the whole matter once and for all. Thrice assaulted, thrice victorious, blessed Master, enable us, also, to be more than conquerors through Your Grace!
 
 11\. Then the devil left Him, and, behold, angels came and ministered unto Him. Regarding it as their highest honor to be the servants of their Lord!
-
 
 ---
 [[Sermon 2996 Enquiring of God|← #2996]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2998 The Rule of Christ|#2998 →]]

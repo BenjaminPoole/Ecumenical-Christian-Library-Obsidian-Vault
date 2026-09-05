@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 120. Luke 14:7-14
-
-**Luke 14:7-14**
 
 **7**. And he spoke a parable to those who were invited, observing how they chose the first seats, saying to them: **8**. When thou shalt be invited by any one to a marriage, do not sit at table in the first seat, lest perhaps a more honorable person than thyself be invited by him, **9**. And he who invited thee and him come and say to thee, Give place to this man, and thou begin then with shame to occupy the lowest place. **10**. But on the contrary, when thou shalt be invited, go, and sit at table in the lowest place, that when he who hath invited thee shall come, he may say to thee, Friend, go up higher: then shalt thou have honor in presence of those who sit at table with thee. **11**. For every one that exalteth himself shall be humbled, and he that humbleth himself shall be exalted. **12**. And he said to him by whom he had been invited, When thou makest a dinner or supper, invite not thy friends, nor thy brethren, nor thy relatives, nor rich neighbors, lest they also in their turn invite thee, and a recompense be made thee. **13**. But when thou makest a banquet, invite the poor, the maimed, the lame, the blind. **14**. And thou shalt be blessed, because they cannot recompense thee; for thou shalt be recompensed at the resurrection of the righteous.
 

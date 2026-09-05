@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Faith Purifying the Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1349
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 15, 1877,.
+*Delivered on Lord's-Day Morning, April 15, 1877*
 
 > "Purifying their hearts by faith." Acts 15:9.
 
@@ -146,7 +145,6 @@ Jesus Christ is made of God unto us sanctification as well as redemption. Pharis
 What more can you have than what faith has brought you and will bring you? Jesus has given you Himself! Did you believe in half a Christ at the beginning? Did you receive from Him a lower and inferior life? Oh, shame on you to think so! You trusted your soul wholly with Him, did you not? And did He not give His whole self to you? Do you mean to say that you trusted Him to save you from Hell and not from sin? Did you trust Him to blot out the past and were you fool enough to trust to yourself for keeping in the future? If so, you did not believe in Him at all—your faith was faulty at the very core—for Christ must be everything or nothing!
 
 And, if up to now you have been so foolish as to have half a Savior—and if even now you are looking for something which is not contained in Him—be foolish no longer! Go back to the very beginning and say, "Blessed Savior, just as I am I come to You. Behold, I take You to be All in All to me, for wisdom, righteousness, sanctification and redemption." Doing this you shall find all in Jesus and, by faith, your heart shall be purified. I had intended to appeal to sinners, but my voice refuses to be longer tried and so I leave it with the prayerful desire that the whole subject may appeal to seekers and encourage them. God save you. Amen.
-
 
 ---
 [[Sermon 1348 The Great House and the Vessels In It|← #1348]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1350 Enlivening and Invigorating|#1350 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Type and Its Teaching
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3523
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Abraham said, My son, God willprovide Himself a lamb for a burnt offering." Genesis 22:8.
 
@@ -35,7 +32,7 @@ Such reflections, though prolific of instruction, I must not tarry to pursue. I 
 
 The scene itself suggests to us three pictures. The first picture will naturally rise up in your imagination without my attempting any graphic description of it. The old man, a kind and doting father, bears in his hands a sharp knife, and hot blazing coals of fire. The younger man, perhaps twenty-five—so Josephus thinks—possibly 33 years of age and, if so, very manifestly the type of Christ, who was about that age when He came to die. The young man comes toiling up the side of the hill, bearing a load of wood upon his back. He knows that that wood is destined to burn some victim, for his father carries the fire and the knife. He understands that they are about to worship God yonder in the most solemn manner by a sacrifice of blood. On the way he puts but one question, marveling where the victim can be. He sees the fire and the wood, but where is the lamb? he asks. Abraham tells him with a bursting heart, that—
 
-I. GOD WILL PROVIDE HIMSELF A LAMB.
+## I. God Will Provide Himself a Lamb
 
 Little did Isaac think that he was to be that lamb! They came to the spot. No doubt Abraham there tells Isaac what God had bid him do. The young man is strong—the old man has lost some of his youthful vigor. If that young man chose to struggle, the intent would be frustrated. But he, like his father, is ready to say to that Sovereign command of God, "Here I am." He allows himself to be bound by his aged sire, no, helps to put himself upon the altar! And there he lies, a willing victim, cheerfully consenting to be bound, willing then and there to die at God's command!
 
@@ -93,7 +90,7 @@ Since God has provided so great a Sacrifice, has He provided it for me? Am I a p
 
 What if you struggle with all your natural feelings as Abraham did? The more simple your faith, the more sure will be your triumph! Believe in the dark and you shall soon come into the light. As soon as you believe, there are signs following. Venture today to lay your hands upon that dear head of the victim Lamb, and tomorrow I will summon you as witnesses who can testify to others that there is joy and peace in believing! "He will deliver your soul from going down into the Pit, and your life shall see the light. Lo, all these things God often works with man, to bring his soul back from the edge of the Pit to be enlightened with the light of the living!" May this be yours! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 11.
+## Exposition by C. H. Spurgeon: Hosea 11
 
 1\. When Israel was a child, I loved him, and called My son out of Egypt God remembers what He did for us when we were young. And sin against Him is much aggravated by His long kindness to us. He brings this up against His rebellious people, "When Israel was a child, I loved him." Some of you may remember your childhood with deep regret—when you used to sing your hymn and bow your knees on your mother's lap. Times have greatly changed since then, but God remembers them.
 
@@ -122,7 +119,6 @@ py thing that can be! They make a rod for their own backs. They pile the firewoo
 11, 12. And I will place them in their houses, says the LORD. Ephraim compasses about with lies, and the house of Israel with deceit It is a dreadful thing when men go to God and, as it were, make a ring round about Him and compass Him about with falsehood and with lies. Many profess to worship God when they are not worshipping at all. Their bodies are in the assembly of the saints, but their minds are far away.
 
 12\. But Judah yet rules with God, and is faithful with the saints. And it was to the honor of Judah that it was so. When others are false, then is the time for God's servants to be true. If you held your tongue before, speak out for God and His Truth in the day when God is compassed about with deceit!
-
 
 ---
 [[Sermon 3522 Christ a Sanctuary|← #3522]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3524 'Do I Love the Lord or Not'|#3524 →]]

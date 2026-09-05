@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Concerning The Forbearance Of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3154
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Or do you despise the riches of His goodness and forbearance and long-suffering, not knowing that the goodness of God leads you to repentance?" Romans 2:4.
 
@@ -83,7 +80,7 @@ It may seem to some of you, child's play to face this congregation and to speak 
 
 The Lord bring you all to simple faith in Jesus Christ, His Son, then to obedience to Christ in the matter of Bapt-ism—and then may He preserve you by His Grace until life's last hour, never again to despise, but forever to adore the goodness, and forbearance, and long-suffering of God, for His dear name's sake!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 4; 5:1, 2.
+## Exposition by C. H. Spurgeon: Romans 4; 5:1, 2
 
 Romans 4:1. What shall we say, then, that Abraham our father as pertaining to the flesh, has found?What blessings did really come to Abraham, the father of the faithful? What is the nature of that Covenant of Grace which God made with him?
 
@@ -128,7 +125,6 @@ words true concerning you? Can you put your finger on this verse and say, "this 
 2\. By whom also we have access by faith into this Grace wherein we stand, and rejoice in hope of the Glory of God. This is a golden staircase—justification brings peace and peace brings access into this Grace wherein we are established! And then comes the joy of hope—and that hope fixes its eyes on nothing less than the Glory of God. Grace is the stepping-stone to Glory—and they who are justified by faith shall in due time be glorified by love!
 
 or our justification. [See Sermon #2357, Volume 40—THE TWO PILLARS OF SALVATION].
-
 
 ---
 [[Sermon 3153 Paul Cheered in Prison by His Lord|← #3153]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3155 The Beatitudes|#3155 →]]

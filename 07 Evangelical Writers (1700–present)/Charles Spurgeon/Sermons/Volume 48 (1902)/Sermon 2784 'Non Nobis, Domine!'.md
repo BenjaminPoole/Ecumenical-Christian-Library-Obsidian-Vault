@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # 'Non Nobis, Domine!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2784
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Not unto us, O LORRD, not unto us, but unto Your name give glory, for Your mercy, and for Your truth's sake." Psalm 115:1.
 
@@ -97,7 +94,7 @@ As a Church we can look back upon many years of spiritual prosperity, but we mus
 
 "To Him all the glory belongs." Now I finish by saying that perhaps there is someone here who is longing to be saved and the only thing that stands in his way is that he will not come to this point and say, "Not unto us, not unto us." Ah, my Friend! You want to be a little somebody! You want to do something, or be something. Brother, be nothing, for then shall Christ be your All-in-All! Remember that the end of the creature is the beginning of the Creator. When you have done with every other confidence, then you can have confidence in God. The Lord bless you to this end, for Jesus Christ's sake! Amen,
 
-EXPOSITION BY C. H. SPURGEON: PSALM115.
+## Exposition by C. H. Spurgeon: Psalm 115
 
 This is one of the Hallel Psalms which were sung by the Jews at the feast of the Passover. It is highly probable that they were sung by our Lord on that memorable night when He instituted the sacred feast which is to be the perpetual memorial of His death, "until He comes." They have, however, a message for us who are now gathered together here.
 
@@ -138,7 +135,6 @@ Psalmist, having exhorted others to trust, says, "Well they may trust, for God i
 17\. The dead praise not the LORD. No song comes up from that dark morgue, no praise ascends to God from those that are asleep in the grave. The living among them praise Him in Heaven, but "the dead praise not the Lord."
 
 17, 18. Neither any that go down into silence. But we will bless the LORD from this time forth and forevermore. Praise the LORD. "Praise the Lord," that is, "Hallelujah!" The Psalm could not end with a better note than that. So may all our lives end, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2783 A Worthy Theme for Thought|← #2783]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2785 Christ's Love for His Vineyard|#2785 →]]

@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-OF CHRIST’S INCARNATION.
+*Of Christ’s Incarnation*
 
 christ became incarnate, or, which is the same thing, became man, to put himself in a capacity for working out our redemption. For though Christ, as God, was infinitely sufficient for the work, yet to his being in an immediate capacity for it, it was needful that he should not only be God, but man. If Christ had remained only in the divine nature, he would not have been in a capacity to have purchased our salvation; not from any imperfection of the divine nature, but by reason of its absolute and infinite perfection: for Christ, merely as God, was not capable either of that obedience or suffering that was needful. The divine nature is not capable of *suffering*; for it is infinitely above all suffering. Neither is it capable of *obedience* to that law which was given to man. It is as impossible that one who is only God, should obey the law that was given to man, as it is that he should suffer man’s punishment.
 

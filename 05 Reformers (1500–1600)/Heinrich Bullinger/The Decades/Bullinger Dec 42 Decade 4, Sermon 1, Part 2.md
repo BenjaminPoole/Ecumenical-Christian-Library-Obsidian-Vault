@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 42. Decade 4, Sermon 1, Part 2
 
 Hear, moreover, what the Lord doth add, instructing Nicodemus yet more fully in the true faith, and making the only cause of our salvation to be the mere and only grace of God, which is received by faith in Christ. ‘ For so” (saith he) “ God loved the world, that he gave his onlybegotten Son, that every one which believeth in him should not perish, but have eternal life. For God sent not his Son®
@@ -40,8 +39,6 @@ Who they be that Christ hath redeemed.
 
 Errors refuted.
 
-42 THE FOURTH DECADE. [SERM.
-
 justified, and sanctified, before his heavenly Father. Wherein we see again that our salvation doth freely consist in faith in Jesus Christ.
 
 These points being thus unfelded, the apostle, proceeding to shew how far the benefit of redemption and justification doth stretch, doth immediately add: “To declare his rightousness by’ the forgiveness of the sins that are past, which God did suffer, to shew at this time his righteousness.” God, saith he, hath set forth Christ to be the only propitiation, that he might shew that there is but one and the same righteousness of all ages; Christ, I say, himself, who is the righteousness of all that believe. Now here he maketh mention of two several times; that ancient age of the fathers, and this present time wherein we now live. The ancient age is that which went before the coming of Christ: this latter age of ours is that which beginneth at Christ, is now at this present, and shall be extended to the end of the world. And God verily did of his long sufferance bear with and suffer the sins of that old age for Christ his sake, by whom, and for whom, he hath forgiven them: neither doth he set before us at this day any other righteousness, save Christ alone, to be received and embraced by faith.
@@ -50,7 +47,7 @@ For the apostle doth not obscurely afterward add: “That he might be just, and 
 
 By these words of the apostle there are two very wicked and blasphemous errors of certain fellows notably refuted. The one of the twain is the error of them which say, that our fathers were justified, not by faith in Christ, but by the law and their own merits; affirming that Christ suffered not for the fathers, but for them alone that lived when he was upon the earth, and for them that followed after his death. The other error is theirs which say, that Christ offered up his
 
-[1 propter, Lat.; for.] body for the fathers, for original sin only, not for us and all our sins; and therefore that we must make satisfaction for our own sins. But the apostle Paul doth in this place con- demn both these opinions. And the holy evangelist John, agreeing with Paul, doth say: “The blood of the Son of God ῃ John 1. 7 doth cleanse us from all sin. For he is the propitiation for our sins; not for our sins only, but for the sins of all the world.” Therefore the merit of Christ his redemption doth extend itself to all the faithful of both the testaments.
+[1 propter, Lat.; for.] body for the fathers, for original sin only, not for us and all our sins; and therefore that we must make satisfaction for our own sins. But the apostle Paul doth in this place con-demn both these opinions. And the holy evangelist John, agreeing with Paul, doth say: “The blood of the Son of God ῃ John 1. 7 doth cleanse us from all sin. For he is the propitiation for our sins; not for our sins only, but for the sins of all the world.” Therefore the merit of Christ his redemption doth extend itself to all the faithful of both the testaments.
 
 The apostle Paul proceedeth, and upon that which he had said he inferreth: “ Where is the boasting? It is excluded. By what law? Of works? Nay, but by the law of faith.” He gathereth by the evangelical doctrine” hitherto taught, that all the boasting of every man’s own righteousness, and all the bragging of every one’s merits, is utterly taken away, altogether exempted, and vanished : not by the law of works; that is, not by the doctrine concerning works, which is wont for the most part to puff men up and make them swell; but by the law of faith; that is, by the doctrine concerning faith, which doth empty and leave in us nothing but an humble confession and acknowledging of our own lack of merits, attributing all our help to grace in Christ Jesus. And at the last, gathering the chief proposition, he saith: “ We do therefore hold that a man is justified? without the works of the law.”
 
@@ -62,7 +59,7 @@ This proposition being once put forth he doth presently after confirm with argum
 
 How Abraham the father of the faithful is , justified.
 
-A 44 THE FOURTH DECADE. [SERM.
+## A 44 the Fourth Decade. [Serm
 
 the God of the Jews only? Is he not also of the Gentiles ? Yes, even also of the Gentiles: for it is one God that shall justify the circumcision by faith, and the uncircumcision through faith.” He fetcheth the confirmation of that which he said from the nature of God. There is but one God, who is of his own nature both life and righteousness ; and he is the God both of the Jews and the Gentiles: therefore he is the life and righteousness of both the people: which righteousness he bestoweth on them by faith: therefore faith doth justify, or make them both righteous.
 
@@ -80,8 +77,6 @@ The apostle goeth on in his confirmation, and saith: “What shall we say then t
 
 The righteousness of Christians is imputative.
 
-46 THE FOURTH DECADE. [SERM.
-
 righteousness.” Lo here, the scripture doth most plainly say, that Abraham was justified by faith; or rather, that faith was imputed to him for righteousness; and therefore that Abraham was for his faith counted righteous before the most just and righteous God.
 
 But let us hear Paul, how he applieth this place of scripture unto his purpose. It followeth then: “To him that worketh is the reward not reckoned of grace, but of duty. But to him that worketh not, but believeth in him that justifieth the ungodly, his faith is counted for righteousness.” Which words, verily, may be briefly reduced into this kind of argument. Whosoever doth with his works deserve anything, to him the reward is given as a thing of duty due unto him, and not imputed freely as though it were no debt. But faith is imputed to Abraham unto righteousness; therefore he received righteousness, not as a reward of duty ought! unto him, but as a gift not due but freely given him. And again: “To him that worketh not, but believeth in him that justifieth the ungodly, his faith is reckoned for righteousness.” But to Abraham faith was imputed unto righteousness: therefore he obtained righteousness by faith, and not by works.
@@ -92,7 +87,7 @@ Here, by the way, ye must note, that Christians’ righteousness both is, and is
 
 [1 i.e. owed.] [2 perfectis, Lat. ] us. Whereupon David cried: “Enter not into judgment {Psa exliii. with thy servant: for in thy sight shall no man living be justified.” Therefore God doth freely impute to us the righteousness of faith; that is, he reputeth us for righteous because we believe him through his Son. So we read that in the evangelical parable the Lord did say: ‘ But when (Luke vii the debtors were not able to pay, he forgave them both the debt.” For God also forgiveth us our debts or sins, not reputing them unto us, but counting us for righteous for
 
-Christ his sake. For the same apostle, most evidently testi- fying the same thing, in the second Epistle to the Corinthians, saith: “God was in Christ reconciling the world unto him- self, by not imputing sins to men.” And after that again:
+Christ his sake. For the same apostle, most evidently testifying the same thing, in the second Epistle to the Corinthians, saith: “God was in Christ reconciling the world unto him-self, by not imputing sins to men.” And after that again:
 
 «Him, which knew no sin, he made sin for us, that we might [2 Cor. v. 19, be the righteousness of God in him.” What canst jaan εν require more evident, than that we are counted righteous before God, because by Christ his sacrifice our sins are so purged, that we should hereafter be no longer held with the guilt of the same ?
 
@@ -103,8 +98,6 @@ In the same chapter therefore it followeth: ‘ Even as What Davia David describ
 “ Blessed are they whose sins are covered;” and lastly, “Blessed is that man to whom fhe Lord will impute no sin.”
 
 Now the force of the argument or demonstration doth consist in the words, Forgive, Cover, and Not impute. The creditor forgiveth the debtor that which he hath not paid
-
-48 THE FOURTH DECADE. [SERM.
 
 him, whether he be able or not able to pay it him. We in respect of our sins, which are our debts, are able to pay nothing to God. Forgiveness therefore of those debts or sins of ours is the gift of God’s mere grace and liberality. For the creditor cannot forgive the thing that is already paid unto him; for when he giveth back the thing that he hath received, in so doing he doth not forgive, but give; and that deed in the scriptures is called Donum, a gift, not Remissio, a forgiving. Whereupon St Paul saith, “God gave to Abraham the inheritance:” therefore Abraham with his works did not merit the same. Secondarily, some filthy thing that offendeth the eyes of men is usually wont to be covered; and yet notwithstanding the filthy thing abideth filthy still), although it doth not appear outwardly unto the eyes of men. And our merciful God hath covered our sins, not that they should not be, but that they should not appear or come to judgment; which thing is the gift of grace, and not of merits. For the covering is nothing else than the blood of the Son of God; for for his blood’s sake we sinners are not damned. Lastly, God might by right and justice impute sin unto us; but of his grace he imputeth it not. And all these laid together do confirm and prove, that righteousness is freely, by faith, without works, imputed unto us.
 
@@ -118,7 +111,7 @@ This very same place of St Paul taken out of David doth discuss and make plain u
 
 [1 latet adhuc sub tectorio, Lat. ; lurketh still under the covering. ] {2 beatificatio, Lat. See Vol. 1. page 106, note 6. ]
 
-I. | OF THE GOSPEL. 49
+## I. | of the Gospel. 49
 
 I have hitherto alleged two most evident places; the one out of the gospel of Christ, the other out of St Paul his epistle written to the Romans: by which I meant to prove, that Christ, being preached to us by the gospel, is received not by works but by faith; and I hope I have by divine testimonies so declared this matter of importance, that no man shall need hereafter either to doubt or waver in the same. To all this now I add this note, still most necessary to be observed ; that all good and holy men in the church of Christ must with all their power do their endeavour that this doctrine of the gospel may abide sincere and utterly uncorrupted. For they must in no case admit that justification is partly attributed to faith and the mercy of God, and partly to the works of faith and our own merits: for if that be admitted, then doth the gospel lose all foree and virtue. I think therefore, that all men must only and incessantly urge this, That the faithful are justified, saved, or sanctified? by faith, without works, by the grace and mercy, I say, of God through Christ alone. And I suppose, verily, that this doctrine of the gospel must be kept sincere and uncorrupt in the church for very many causes, but among all other for these especially which follow hereafter.
 
@@ -127,8 +120,6 @@ First of all, it is manifest, that the often-repeated doctrine Why the ctrine of
 [3 beati, Lat. ; blessed. ]
 
 [+ paucis, Lat.; in few words. ] [5 and prophet, not in Lat. ]
-
-50 THE FOURTH DECADE, [SERM.
 
 men of chief account in the church of God. With which twain the whole company of the prophets do wholly agree; for [acts x. 43] the apostle Peter saith: “All the prophets bare witness to Christ, that by his name every one which doth believe in him should receive remission of his sins.” And even now by the mouth of Paul we heard say, that by the testimonies of the law and the prophets it is proved, That the righteousness of God is freely bestowed by faith, without the law.
 
@@ -156,8 +147,6 @@ See the order of the Acts 2 of the Apostles, and the eighth sermon of the third 
 
 [Gal. i. 8.1
 
-52 THE FOURTH DECADE. [SERM.
-
 his nearest disciples, whether they also would forsake him ? Then Peter in the name of all the rest did answer: Since in thee, O Christ, there is life and salvation, if we depart from thee we cannot be partakers of life; and therefore by faith we will firmly stick and cleave close to thee for ever.
 
 Moreover here are to be reckoned two councils also that were held by the apostles; the one of which no man can deny to be very general or universal’; for in it there were devout men of every nation under heaven. In that council did Peter the apostle in express words teach, That Christ is the Saviour of the world; whom whosoever believeth, he shall have life everlasting. The place is known in the Acts of the Apostles, the second chapter. Before the chief of the Jews the same apostle declareth, that there is salvation in none other than in Christ alone. The place is extant in the Acts of the Apostles, the third chapter. The like he doth to the first-fruits of the Gentiles, Cornelius and his household, in the tenth chapter. The second council, which was famous also and passingly adorned with all good gifts, is described in the fifteenth chapter of the Acts: in which council this proposition was allowed, That faith without works doth justify freely. Touching which matter I have spoken at large in another place.
@@ -175,8 +164,6 @@ The second cause, why it is expedient that this doctrine be kept sincere in the 
 [5 descendisse, Lat.; to have gone down. Heavy is doubtless in all the editions a misprint for home, which Tyndale’s and Cranmer’s versions have. |
 
 The conclusion and sum ofall.
-
-54 THE FOURTH DECADE. [SERM.
 
 The fifth cause is, the value or estimation of the sin. For that seemeth to be no great fault, which may by men’s works be blotted out before God. But the holy scripture teacheth, that sins could be by none other means cleansed, but by the death and innocent blood of the! Son of God. Now by that every man that hath any understanding may easily gather, that sin in the sight of God is a most abominable and detestable thing: whereupon there doth arise in the faithful saints a careful and diligent watching against sin, and a continual bewailing of our miserable condition, with a passing humility and exquisite modesty.
 

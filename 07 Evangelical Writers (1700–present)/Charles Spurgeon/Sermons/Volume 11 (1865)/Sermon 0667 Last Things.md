@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Last Things
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 667
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 31, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 31, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "At the last." Proverbs 5:11
 
@@ -144,7 +143,6 @@ God bless you, for His name's sake.
 "Soon the whole, like a parched scroll, Shall before my amazed sight unroll, And without a screen at one burst be seen, The presence wherein I have ever been."
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 148, and 2 Corinthians 6.
-
 
 ---
 [[Sermon 0666 Holy Work For Christmas|← #666]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]]

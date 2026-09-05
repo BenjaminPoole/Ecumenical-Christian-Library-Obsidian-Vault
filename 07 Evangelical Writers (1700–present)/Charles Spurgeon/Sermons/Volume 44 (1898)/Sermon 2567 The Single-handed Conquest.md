@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # The Single-handed Conquest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2567
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have trodden the winepress alone; and ofthe people there was none with Me." Isaiah 63:3.
 
@@ -154,7 +151,6 @@ I shall never forget that day while memory holds its place. Nor can I help repea
 Did you hear that? Then hear it yet again. And have you looked? If not, oh, look now! Have you looked to Him? If you have not seen Him, still look, and you shall see Him, by-and-by. But look now! It is all He asks you to do and even that, He bestows upon you! Look now, poor Sinner! Look now, for Christ's sake, for your soul's sake, for Heaven's sake if you would escape the damnation of Hell! Look and that look shall save you! Catch but one glimpse of that dear head crowned with thorns—get but one glance from His sweet eyes full of pity—catch but one glimpse of that smiling countenance, or, if you cannot look so high, see but the sole of His pierced feet and you are saved!
 
 For it is still written, "They looked unto Him and were lightened." "Look unto Me, and be you saved, all the ends of the earth."
-
 
 ---
 [[Sermon 2566 A Test for True Seekers|← #2566]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2568 Sabbath-work|#2568 →]]

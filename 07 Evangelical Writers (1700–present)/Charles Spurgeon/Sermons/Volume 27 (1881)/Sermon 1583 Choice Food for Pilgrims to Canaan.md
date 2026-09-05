@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Choice Food for Pilgrims to Canaan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1583
-
-DELIVERED BY.
 
 > "And He said, My Presence will go with you, and I will give you rest." Exodus 33:14.
 
@@ -154,7 +151,6 @@ Is but to love and sing,
 And wait until the angels come
 
 To bear me to the King.'" "My Presence will go with you, and I will give you rest."
-
 
 ---
 [[Sermon 1582 The Fruit of the Spirit—Joy|← #1582]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1584 The Heroic In Christianity|#1584 →]]

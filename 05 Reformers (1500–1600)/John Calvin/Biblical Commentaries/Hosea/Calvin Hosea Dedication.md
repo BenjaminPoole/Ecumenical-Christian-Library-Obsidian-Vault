@@ -9,16 +9,15 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Epistle Dedicatory
 
-**THE EPISTLE DEDICATORY**
+***The Epistle Dedicatory***
 
-**JOHN CALVIN**
+## **John Calvin**
 
 To The Most Serene And Most Mighty
 
-**KING GUSTAVUS, [^1]**
+## **King Gustavus, [^1]**
 
 The King Of The Goths And Vandals.
 

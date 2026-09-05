@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Paul in the Tempest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3145
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And we being exceedingly tossed with a tempest, the next day they lightened the ship; and the third day we cast out with our own hands the tackling of the ship. And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away. But after long abstinence Paul stood forth in the midst of them, and said, Sirs, you should have listened to me, and not have sailed from Crete, and incurred this disaster and loss. And now I exhort you to be of good cheer: for there shall be no loss of life among you, but only of the ship. For there stood by me this night the angel of God, whose I am, and whom I serve, saying, Fear not, Paul, you must be brought before Caesar: and, lo, God has given you all them that sail with you. Therefore, Sirs, be of good cheer: for I believe God, that it shall be even as it was told me." Acts 27:18-25.
 
@@ -59,7 +56,7 @@ Nowadays, people are so dreadfully modest that they are afraid to glorify God. G
 
 II. We have thus gone over Paul's words as an avowed Believer. And now we may turn to look at him AS A BOLD
 
-PROPHET.
+## Prophet
 
 Far be it from any one of us to set ourselves up as prophets, for thereunto we are not called. Yet every truly-instructed Christian is in some sense a prophet and may prophesy according to the proportion of faith, if he will follow the true method. Paul was not rash in his prophecies. He confined himself to revelation. He said, "It shall be." But what shall be? "It shall be as it was told me." You may always go that length—and you will be to many men a wonderful personage. If you go only as far as that, they will marvel that you dare say, "It shall be even as it was told me." We speak positively where they can only guess and dream. We cannot see behind that veil which hides the future, but we know what is to come as to some matters, for God has told us and we can, therefore, prophesy that it shall be according to His declaration. Learn from Paul not to be a presumptuous dreamer, but a prudent speaker.
 
@@ -85,7 +82,7 @@ They were all in trouble, for they were all in danger of drowning. The ship was 
 
 Where money is not needed, you may give sympathy and consolation, and these will be much valued. Do not reply that you are unable to act as a comforter. Learn the art. If you cannot speak well, there is a better way than speech. A little child once said to her mother, "Mother, I stopped with Widow Brown, for she said that I comforted her so." "Well, I daresay you did, my Dear," the mother replied. "But, Mother, I do not see that I am of any use to her, for I cannot tell her anything—but I put my cheek against hers and when she cries, I cry too—and she says that it comforts her." Exactly so. This little child shall lead us. Herein is wisdom. "Weep with them that weep." You cannot more effectually console them. Comfort others with the comfort with which you yourself are comforted of God, for Paul said, "Be of good cheer. I believe God, that it shall be even as it was told me." He had been comforted of the Lord and with this consolation he could cheer others. The Lord grant us Grace to be looking out for those who are in any sort of affliction, that we may cheer their hearts. But let us be doubly watchful over those in spiritual distress. Let no one in our neighborhood ever complain, "No man cares for my soul." Comfort God's people and labor at the same time to win sinners to Jesus—and the love of your heart shall bring untold blessings into your own bosom! Happiness is contagious and the cheerfulness of your piety will be so attractive that the careless and indifferent will be allured to the ways of piety. Do not run about with ill news, but make your communications joyous by mixing up the glad tidings of salvation with your cheerful daily talk! So shall you imitate your Lord and His Apostle by saying "Be of good cheer."
 
-EXPOSITION BY C. H. SPURGEON: PSALM 90; ACTS27:1-26.
+## Exposition by C. H. Spurgeon: Psalm 90; Acts 27:1-26
 
 Psalm 90 is entitled "A Prayer of Moses, the man of God," and it furnishes a suitable prayer for every man of God. Any men of God who have had experience as deep, trying and varied as that of Moses will be the better able to enter into the spirit of the Psalm.
 
@@ -148,7 +145,6 @@ about seafaring matters than Paul did, but the sequel proved that the Apostle kn
 20-22. And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away. But after long abstinence Paul stood forth in the midst of them, and said, Sirs, you should have listened to me, and not have sailed from Crete, and incurred this disaster and loss. And now I exhort you to be of good cheer: for there shall be no loss of life among you, but only of the ship. Paul might well remind the officers of the wise advice he gave them in Crete, but he did not rest content with that, but went on to cheer them as far as he dared, though he again warned them that they would lose their ship. To prove that he was not speaking without due authority, he added—
 
 23-20. For there stood by me this night the angel of God, whose I am, and whom I serve, saying, Fear not, Paul; you must be brought before Caesar: and, lo, God has given you all them that sail with you. Therefore, Sirs, be of good cheer: for I believe God, that it shall be even as it was toldme. Howbeit we must be cast upon a certain island. The next Chapter tells us that the "certain island was Melita, or Malta, as it is now called. In that respect, as in all others, Paul's prophecy was literally fulfilled, for the ship was lost, but all on board were saved.
-
 
 ---
 [[Sermon 3144 'The True Sayings of God'|← #3144]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3146 The Power of Christ's Presence|#3146 →]]

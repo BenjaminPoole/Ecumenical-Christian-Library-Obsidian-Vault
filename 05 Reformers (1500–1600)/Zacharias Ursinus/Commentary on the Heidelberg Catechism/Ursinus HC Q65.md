@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 65. Since then we are made partakers of Christ, and all his benefits, by faith only, whence doth this faith proceed?
-
-**Question 65. Since then we are made partakers of Christ, and all his benefits, by faith only, whence doth this faith proceed?**
 
 Answer. From the Holy Ghost, who works faith in our hearts by the preaching of the gospel, and confirms it by the use of the sacraments.
 
-**EXPOSITION**
+## **Exposition**
 
 This Question points out the connection which holds between the doctrine of faith and the sacraments. The Holy Ghost ordinarily produces faith (concerning which we have spoken) in us by the ecclesiastical ministry, which consists of two parts, the word and the sacraments. The Holy Ghost works faith in our hearts by the preaching of the gospel; and cherishes, confirms, and seals it by the use of the sacraments. The word is a charter to which the sacraments are attached as signs. The charter is the gospel itself, to which the sacraments are affixed as the seals of the divine will. Whatever the word promises concerning our salvation through Christ, that the sacraments, as signs, and seals annexed thereto, confirm unto us more and more for the purpose of helping our infirmity. It is proper, therefore, that we should now speak of the sacraments, the seals of faith, appended to the gospel.
 

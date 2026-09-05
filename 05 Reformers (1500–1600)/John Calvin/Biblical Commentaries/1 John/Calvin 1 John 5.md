@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 1 John 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 1 John 5:1-5
 

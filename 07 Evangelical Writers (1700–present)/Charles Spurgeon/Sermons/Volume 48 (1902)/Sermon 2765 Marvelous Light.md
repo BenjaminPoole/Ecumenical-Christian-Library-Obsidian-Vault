@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Marvelous Light
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2765
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His marvelous Light." 1 Peter 2:9.
 
@@ -105,7 +102,7 @@ I wish that some here who have not this Light, could be set a-longing for it. Mr
 
 But it will not fail, for never did a soul, in honest, guileless heartiness, seek the Light and love of God, and seek in vain! And nor will you! Go, then, to God through Jesus Christ, and this marvelous Light shall break in upon you. God grant it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 2.
+## Exposition by C. H. Spurgeon: 1 Peter 2
 
 Verses 1-3. Therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil-speaking, as newborn babes, desire the sincere milk of the Word, that you may grow thereby: if indeed you have tasted that the Lord is gracious. When the Apostle describes us under the character of "newborn babes," he would have us lay aside all that is inconsistent with that character. Newborn children have no malice. They have no guile or craftiness; they have no hypocrisies, nor envies, nor evil-speaking. They are clear from all these evils. Would God we were as clear as they are! It would be better to be infants, not speaking at all, than to be among those who speak evil. It would be better to begin life over again than to live long enough to have gained a treasure of malice and a hoard of cunning—and to have learned the tricks of hypocrisy. Let us be as simple as little children, as guileless, as harmless, as free from anything like unkindness as newborn babes are. And inasmuch as we are to follow them in what they have not, let us also imitate them in what they have. Let us desire ardently, as for our very life, the unadulterated milk of the Word. Let us cultivate that combination of hunger and thirst which is found in a little child, that we may hunger and thirst thus after God's Word. We have done
 
@@ -148,7 +145,6 @@ We ministers are no more priests than all of you who believe in the Lord Jesus C
 Whatever his condition may be, honor the manhood that is in him. Do not despise him because he is poor, or because his coat is not so fashionably cut as yours is, for, perhaps, he may be a better man than you are. "Honor all men. Love the brotherhood. Fear God. Honor the king."
 
 18-26. Servants, be subject to your masters with all fear; not only to the good andgentle but also to the harsh. For this is commendable, if a man for conscience toward God, endures grief, suffering wrongfully. For what glory is it, if when you are buffeted for your faults, you shall take it patiently? But if when you do well, and suffer for it, you take it patiently, this is acceptable with God. For to this you were called: because Christ also suffered for us, leaving us an example, that you should follow His steps: who did no sin, neither was guile found in His mouth: who, when He was reviled, reviled not again; when He suffered, He threatened not; but committed Himself to Him that judges righteously: who His own Self bore our sins in His own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes you were healed. For you were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.
-
 
 ---
 [[Sermon 2764 The Cloud of Doves|← #2764]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2766 The Sluggard's Reproof|#2766 →]]

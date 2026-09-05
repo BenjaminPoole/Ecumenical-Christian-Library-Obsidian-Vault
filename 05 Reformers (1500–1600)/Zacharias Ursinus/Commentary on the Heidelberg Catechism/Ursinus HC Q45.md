@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 45. What doth the resurrection of Christ profit us?
-
-**Question 45. What doth the resurrection of Christ profit us?**
 
 Answer. First: by his resurrection he hath overcome death, that he might make us partakers of that righteousness which he had purchased for us by his death. Secondly, we are also by his power raised up to a new life. And lastly, the resurrection of Christ is a sure pledge of our blessed resurrection.
 
-**EXPOSITION**
+## **Exposition**
 
 We have thus far spoken of the humiliation of Christ which reached its last point in the article of his descent into hell. We must now speak of his glorification, which began with his resurrection from the dead on the third day. The humiliation of the mediator was not to continue for ever. It was sufficient that he should once suffer, and die. But the efficacy and power of Christ, in preserving the blessings which flow from his humiliation, will endure for ever.
 
@@ -32,11 +29,11 @@ III. For what purpose did he rise?
 
 IV. What are the benefits, or fruits of his resurrection?
 
-**I. DID CHRIST RISE FROM THE DEAD?**
+## **I. DID Christ Rise from the Dead?**
 
 Infidels believe that Christ died, but do not believe that he rose from the dead. That Christ, however, did rise from the dead is proven by the testimony of angels, women, evangelists, apostles, and other saints, who saw him, felt him, and conversed with him after his resurrection. And even if the Apostles had not seen Christ after his resurrection, we ought still to believe them on account of their divine authority.
 
-**II. HOW DID CHRIST RISE?**
+## **II. How DID Christ Rise?**
 
 The following circumstances explain the manner of the resurrection of Christ:
 
@@ -50,7 +47,7 @@ Obj. But Christ was raised by the Father; for it is said, "If the Spirit of Him 
 
 4. He rose on the third day in the manner just described: 1. Because the Scriptures which contain all the predictions and types relating to the Messiah, declare that he would rise on the third day: as the type of Jonah, &c. 2. Because it was proper that his body should rise free from corruption; and yet not so soon after his death as to leave any doubt that he was truly dead. It is for this reason that he rose on the third day, and not on the first. The circumstance of his rising on the third day is, therefore, added in the Creed that the truth might correspond with the type, and that we might know that Jesus is the Messiah promised to the fathers, because he rose from the dead on the third day.
 
-**III. FOR WHAT PURPOSE DID CHRIST RISE?**
+## **III. For What Purpose DID Christ Rise?**
 
 Christ rose: 1. For his own glory and for that of his Father. "Declared to be the Son of God, by the resurrection from the dead." "Father, glorify thy Son, that thy Son also may glorify thee." (Rom. 1:4. John 17:1.) The glory of the Son is the glory of the Father.
 
@@ -62,7 +59,7 @@ Christ rose: 1. For his own glory and for that of his Father. "Declared to be th
 
 5. Christ rose for our salvation, and that in three respects: 1. For our justification. "Who was delivered for our offences, and was raised again for our justification." (Rom. 4:25.) The resurrection of the mediator was necessary for our justification, first, because his satisfaction would not have been perfect without it, nor would the punishment which he endured in that case have been finite. And without such a satisfaction and punishment it was not possible that we could have been freed from everlasting death, from which it became the mediator to deliver us in such a manner as to overcome it entirely in us. But in order that he might vanquish death in us it was necessary that he should first overcome it in himself, and so fulfill that which had been predicted: "Death is swallowed up in victory." "O death where is thy sting? O grave where is thy victory." (Hos. 13:14. 1 Cor. 15:55.) By so doing he confounded his enemies who had reviled him when hanging upon the cross, saying, "He saved others, himself he cannot save." (Matt. 27:42.) And still further: if he had not conquered death, he could not have bestowed upon us the benefits which he had merited for us by his death. It belonged to the office of mediator as we have already shown, both to merit and bestow benefits. Yea, had he not risen from the dead, we could not have known that he had satisfied for us; for this would have been a certain argument that he had not made this satisfaction, but was overcome by death and the burden of sin; because where death is there is sin; or, if he had made satisfaction for us, and yet remained under the power of death, it would have been inconsistent with the justice of God. Hence it was necessary that Christ should rise again, as well that he might make satisfaction for us, as that we might also know that he has fully accomplished this, and merited benefits for us; and finally, that he himself might be able to apply these benefits unto us, or what is the same thing, that we might be perfectly justified and saved by his merits and efficacy. 2. Christ rose for our regeneration. Justification or the remission of sin is not sufficient without regeneration, and a new life. 3. Christ rose for the preservation of the benefits which he had purchased for us by his death, and that he might secure our resurrection and glorification. It is in this way that God has purposed eternally to quicken and glorify us, that being inserted into the body or humanity of his Son we may be perpetually borne by it, and draw our life from it. "By man came death, by man came also the resurrection of the dead." (1 Cor. 15:21.) It was for these reasons necessary that Christ should rise again, that is, that his soul, which was separated from his body by death, should again be united therewith; for the resurrection is nothing else than a re-union of the same body with the same soul.
 
-**IV. WHAT ARE THE FRUITS OR BENEFITS OF THE RESURRECTION OF CHRIST?**
+## **IV. What Are the Fruits or Benefits of the Resurrection of Christ?**
 
 The questions, for what purpose did Christ rise, and what are the fruits of his resurrection, are different. For not all the causes of his resurrection are fruits thereof. The causes of his resurrection too, are considered in one way and the fruits thereof in another. And besides, the benefits which Christ has secured for us by his resurrection are the causes of it in as far as it was necessary, in order that he might confer these gifts by the power of his resurrection.
 
@@ -98,7 +95,7 @@ Obj. 3. The cause is before the effect. But the cause of these benefits which is
 
 What then is the meaning of this article of the Creed: I believe in Christ, who rose from the dead on the third day? It means that I believe: 1. That Christ did truly recall his soul to his body which was dead, and quickened it. 2. That he retained a true soul and body; and that both are now glorified, and free from all infirmity. 3. That he rose by his own divine virtue and power. 4. That he rose for the purpose of making us partakers of the righteousness, holiness, and glorification, which he had purchased for us.
 
-**EIGHTEENTH LORD'S DAY**
+## **Eighteenth Lord's Day**
 
 ---
 [[Ursinus HC Q44|← Question 44. Why is there added, "he descend]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q46|Question 46. How dost thou understand these  →]]

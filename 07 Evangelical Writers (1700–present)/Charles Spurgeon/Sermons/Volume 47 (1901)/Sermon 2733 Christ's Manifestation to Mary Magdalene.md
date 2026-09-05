@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christ's Manifestation to Mary Magdalene
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2733
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto her, Touch Me not; for I aim not yet ascended to My Father: but go to My brethren, and say unto them, I ascend unto My Father, and your Father; and to My God, and your God." John 20:17.
 
@@ -83,7 +80,7 @@ Oh, that we may now put our unfeigned and constant trust in Him who died, puttin
 
 Oh, that those who are dead in sin were quickened by God's Spirit that they might know something of the precious-ness of having a Father in Heaven, the same Father that Jesus Christ had! Sinner, I pray the Lord to teach you to believe in Jesus Christ. And if you have sinned with Mary Magdalene, may He help you to believe, with her, that you may share in her sweet manifestations and have a gracious message like hers to tell some day to the rest of your brethren!
 
-EXPOSITIONS BY C. H. SPURGEON: ISAIAH 40; MATTHEW 16:21-23.
+## Expositions by C. H. Spurgeon: Isaiah 40; Matthew 16:21-23
 
 Isaiah 40:1, 2. Comfort you, comfort you My people, says your God. Speak you comfortably to Jerusalem. The loss of comfort is no small loss. God would have His people happy. They are in the best condition for serving Him and less likely to be overcome by the temptations of the world when the joy of the Lord is their strength. Therefore, three times over He bids His ministers comfort His people. O Triune Jehovah, help Your servant to now fulfill this commission!
 
@@ -166,7 +163,6 @@ It must have been very saddening, but, at the same time, very profitable to the 
 22\. Then Peter took Him, and began to rebuke Him, saying, Be it far from You, Lord: this shall not be unto You. The margin reads, "Pity Yourself, Lord," as though Peter meant to say, "God grant, of His infinite mercy, that this may not be true! How can it be that such an One as You are should die?" He probably thought that Christ's death would be the end of His Kingdom, the ruin of all His people's hopes, the quenching of the Light of Israel. So, in his zeal for his Master's cause, he cried, "This shall not be unto You."
 
 23\. But He turned, and said unto Peter, Get you behind Me, Satan: you are an offense unto Me: for you savor not the things that are of God, but those that are of men. Notice the contrast between the 18th verse and the 23rd . In the 18th verse, Christ had said, "You are Peter, and upon this rock will I build My Church." And here He is saying, "Get you behind Me, Satan." I do not understand our Lord to have called Peter, Satan, but to have looked right through Peter and to have seen Satan standing behind him, and making use of the Apostle to be His spokesman. The best of men may sometimes serve the devil's turn better than a bad man would. He may speak through those who love the Lord, words which are contrary to the mind of Christ. So Christ sees Satan lurking, as in an entrenchment, behind Peter, and He says, "Get you behind Me: you are an offense unto Me."
-
 
 ---
 [[Sermon 2732 Believers Tested by Trials|← #2732]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2734 Out of Nothing Comes Nothing|#2734 →]]

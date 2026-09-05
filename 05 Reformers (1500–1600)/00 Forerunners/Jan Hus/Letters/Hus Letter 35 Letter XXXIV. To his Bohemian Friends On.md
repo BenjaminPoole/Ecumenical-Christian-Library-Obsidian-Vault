@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 35. Letter XXXIV. To his Bohemian Friends On
 
-LETTER XXXIV. TO HIS BOHEMIAN FRIENDS ON
-
-STARTING FOR CONSTANCE
+## Starting for Constance
 
 (October 12, 1414)
 

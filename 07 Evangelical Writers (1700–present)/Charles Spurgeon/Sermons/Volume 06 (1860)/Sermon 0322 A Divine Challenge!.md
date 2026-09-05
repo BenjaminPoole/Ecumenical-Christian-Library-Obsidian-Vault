@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # A Divine Challenge!
 
 *New Park Street Pulpit* · Sermon No. 322
 
-DELIVERED ON SABBATH EVENING, APRIL 22, 1860, BY THE REV. C. H. SPURGEON, AT NEW PARK STREET CHAPEL, SOUTHWARK..
+*Delivered on Sabbath Evening, April 22, 1860, by the Rev. C. H. Spurgeon, at New Park Street Chapel, Southwark*
 
 > "Thus says the Lord, let My people go, that they may serve Me." Exodus 8:1.
 
@@ -72,7 +71,6 @@ And now, my dear Hearers, have you ever heard the Voice of God speaking in your 
 There is yet hope! Let that hope awaken you to action. Say to your soul tonight, "I am not in Hell, though I might have been. I am still on praying ground and pleading terms and now, God helping me, I will begin to think." And when you begin to think, you will begin to be blessed! There are more souls lost by thoughtlessness than anything else. If you want to go to Heaven, there are a great many things to think of. If you want to go to Hell, it is the easiest thing in the world. You can go and swear and drink as you like; it is only a little trifling matter of neglect to destroy your soul. "How shall we escape if we neglect so great a salvation?" Well, then, if you begin to think, let me propose to you just this. The way of salvation is mapped out before your eyes tonight. He who believes on the Lord Jesus Christ shall be saved. To believe is to trust. Trust Him who hangs upon the tree, and you are saved! Just as you are—guilty, helpless, weak and ruined—give up your soul to Christ! Ah, while I am thus advising you, I think I hear the Voice behind me saying, "My servant, you are speaking according to My will and pleasure, for I, too, am saying in the heart of your hearers, 'Go free.' I, too, am saying to their enemies, 'Thus says the Lore, let My people go.'"
 
 Be it so, good Lord, and may my voice be but as Your voice! Rise, you slaves of Satan, and be free! Break your bonds asunder and be delivered! Jesus comes to rescue you; His arm is strong, and His heart is tender. Trust Him and be free! Oh, may God grant you Grace that you may be free, now, and find Him, whom to find is to find everlasting life! Amen.
-
 
 ---
 [[Sermon 0321 The Jeer Of Sarcasm, And The Retort Of Piety|← #321]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0323 Vile Ingratitude!|#323 →]]

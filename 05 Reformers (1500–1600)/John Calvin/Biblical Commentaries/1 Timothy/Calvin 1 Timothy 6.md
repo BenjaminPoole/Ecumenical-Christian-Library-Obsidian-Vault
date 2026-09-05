@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Timothy 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## 1 Timothy 6:1-2
 
@@ -245,7 +244,7 @@ Paul does not mean that Timothy should be moved by emulation to attempt somethin
 
 **21** *Which some professing, have erred concerning the faith.* From the result, also, he demonstrates how dangerous a thing it is, and how much it ought to be avoided. The way in which God punishes the haughtiness of those who, through the desire of obtaining reputation, corrupt and disfigure the doctrine of godliness, is, that he allows them to fall away from soundness of understanding, so that they involve themselves in many absurd errors. We see that this has taken place in Popery; for, after they began to speculate in profane manner, about the mysteries of our religion, there followed innumerable monsters of false opinions. *Faith* is here taken, as in some former passages, for the summary of religion and sound doctrine. Warned by such examples, if we abhor revolt from “the faith,” let us adhere to the pure word of God, and let us detest sophistry and all useless subtleties, because they are abominable corruptions of religion.
 
-**END OF THE FIRST EPISTLE TO TIMOTHY.**
+## **End of the First Epistle to Timothy.**
 
 ---
 [[Calvin 1 Timothy 5|← 1 Timothy 5]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/1 Timothy/1-timothy-index|Contents]]

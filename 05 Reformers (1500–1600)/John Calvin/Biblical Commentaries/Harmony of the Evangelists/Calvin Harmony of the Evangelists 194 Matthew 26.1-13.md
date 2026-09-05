@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 194. Matthew 26:1-13; Mark 14:1-9; Luke 22:1-2
-
-**MATTHEW 26:1-13; MARK 14:1-9; LUKE 22:1-2**
 
 **1.** And it happened when Jesus had finished all these discourses, he said to his disciples, **2.** You know that after two days is the passover; and the Son of man is betrayed to be crucified. **3.** Then were assembled the chief priests, and scribes, and elders of the people, in the palace of the high priest, who was called Caiaphas, **4.** And entered into consultation how they would take Jesus by stratagem, and kill him. **5.** But they said, Not during the festival, lest there be a commotion among the people. **6.** And when Jesus was in Bethany, in the house of Simon the leper, **7.** A woman came to him, having ointment, and poured it on his head, while he sat at table. **8.** And his disciples, when they saw it, were angry, saying, Why is this waste? **9.** For this ointment might have been sold for a great price, and given to the poor. **10.** But Jesus, knowing this, said to them, Why do you trouble the woman? for she hath performed a good action towards me. **11.** For you have the poor always with you, but me you have not always. [^1] **12.** For as to this ointment which this woman hath poured on my body, she did it to bury me. **13.** Verily I tell you, Wheresoever this gospel shall be preached throughout the whole world, this also which she hath done will be told in remembrance of her.
 

@@ -14,12 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 7 on Second Corinthians
 
 ## 2 Corinthians 3:7-8
-
-2 Corinthians 3:7, 8
 
 But if the ministration of death, written and engraven in stones, came with glory, so that the children of Israel could not look steadfastly upon the face of Moses, for the glory of his face; which glory was passing away: how shall not rather the ministration of the Spirit be with glory?
 

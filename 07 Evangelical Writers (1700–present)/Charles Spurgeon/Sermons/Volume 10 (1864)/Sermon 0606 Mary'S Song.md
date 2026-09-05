@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Mary'S Song
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 606
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 25, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 25, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Luke 1:46, 47.
 
@@ -55,7 +54,7 @@ This is a happy style of living and anything short of this poor slavish work, oh
 
 We should miss much instruction if we overlooked the fact that the choice poem before us is a hymn of faith. As yet there was no Savior born, nor, as far as we can judge had the virgin any evidence such as carnal sense required to make her believe that a Savior would be born of her. How can this thing be, was a question which might very naturally have suspended her song until it received an answer convincing to flesh and blood. But no such answer had been given. She knew that with God all things are possible. She had His promise delivered by an angel and this was enough for her—on the strength of the Word which came forth from God her heart leaped with pleasure and her tongue glorified His name! When I consider what it is which she believed and how unhesitatingly she received the Word, I am ready to give her, as a woman, a place almost as high as that which Abraham occupied as a man!
 
-And if I dare not call her the mother of the faithful, at least let her have due honor as one of the most excellent of the mothers in Israel. The benediction of Elizabeth, Mary right well deserved, "Blessed is she that believes." To her the "sub- stance of things hoped for" was her faith and that was also her "evidence of things not seen." She knew, by the Revelation of God, that she was to bear the promised Seed who should bruise the serpent's head. But other proof she had none.
+And if I dare not call her the mother of the faithful, at least let her have due honor as one of the most excellent of the mothers in Israel. The benediction of Elizabeth, Mary right well deserved, "Blessed is she that believes." To her the "sub-stance of things hoped for" was her faith and that was also her "evidence of things not seen." She knew, by the Revelation of God, that she was to bear the promised Seed who should bruise the serpent's head. But other proof she had none.
 
 This day there are those among us who have little or no conscious enjoyment of the Savior's Presence. They walk in darkness and see no light. They are groaning over inbred sin and mourning because corruptions prevail. Let them now trust in the Lord and remember that if they believe on the Son of God, Christ Jesus is within them. And by faith they may right gloriously chant the hallelujah of adoring love. Though the sun gleam not forth today, the clouds and mists have not quenched his light.
 
@@ -178,7 +177,6 @@ The joy of the table is too low for Mary. The joy of the feast and the family gr
 Do you accept Him as such? Does your faith put all her dependence upon what He did, upon what He is, upon what He does? Then Christ is conceived in you and you may go your way with all the joy that Mary knew! And I was half ready to say, with something more—for the natural conception of the Savior's holy body was not one-tenth so meet a theme for congratulation as the spiritual conception of the holy Jesus within your heart when He shall be in you the Hope of Glory.
 
 My dear Friend, if Christ is yours, there is no song on earth too high or too holy for you to sing! No, there is no song which thrills from angelic lips, no note which thrills Archangel's tongues in which you may not join! Even this day the holiest, the happiest, the most glorious of words and thoughts and emotions belong to you. Use them! God help you to enjoy them. And His be the praise, while yours is the comfort evermore. Amen.
-
 
 ---
 [[Sermon 0605 Good Works In Good Company|← #605]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]]

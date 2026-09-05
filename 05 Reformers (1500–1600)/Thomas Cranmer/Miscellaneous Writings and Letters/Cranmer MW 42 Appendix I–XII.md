@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 42. Appendix I–XII
 
 I. Cranmers Oath to the King for his Temporalties.
@@ -53,7 +52,7 @@ Thirdly, where it is a natural defence that the subject ought and may defend his
 
 [4 Nor ought to be. Burnet.]
 
-462 APPENDIX. [1534.
+## 462 Appendix. [1534
 
 natural sovereign or master, both in word and deed, and ought thereto to be admitted ; this foresaid bishop of Rome, contrary to this equity in nature, hath rejected our sovereign's excusator, contrary both to his own laws, (which he most setteth by,) and also God's law, which he ought to prefer. Upon which cause, and other great injuries, our sovereign did appeal to the general council ; notwithstanding the which, he hath, contrary to all justice, proceeded ad ulterior a, wherein by a general council he is damned as an heretic; yet thus injuriously, from the beginning hitherto, he hath handled our prince's cause and matter there.
 
@@ -63,7 +62,7 @@ Fifthly, the said bishop of Rome sought all the ways possible with fair words an
 
 [} Would not prejudicate for his jurisdiction. Burnet.j
 
-1535.] APPENDIX. 4G3
+## 1535.] Appendix. 4g3
 
 III. Inhiliiio pro Visitatione Regla.
 
@@ -77,7 +76,7 @@ As concerning general councils, like as we (taught by long experience) do perfec
 
 whereby the truth of God's word hath in times past, or hereafter may be sooner defaced and subverted !, or whereof hath and may ensue more contention, more discord, and other devilish effects, than when such general councils have or shall be assembled, not christianly nor charitably, but for and upon private malice and ambition, or other worldly and carnal respects and considerations, according to the saying of Gregory Nazianzenus, in his epistle to one Procopius, wherein he writeth this sentence following ; Sic sentio, si verum scribendum est, omnes conventus cpiscoporum fugiendos essc, quia nullius synodi Jinem nidi bonum, neque habentem magis solutionem malorum, quam incrementum: nam cupiditates contentionum et gloria? (sed ne putes me odiosum ista scribentem} vincunt rationem3. That is to say: " I think this, if I should write truly, that all general councils be to be eschewed; for I never saw that they produced any good end or effect, nor that any provision or remedy, but rather increase of mischiefs, proceeded of them. For the desire of maintenance of men's opinions, and ambition of glory (but reckon not that I write this of malice) hath always in them overcorned reason." Wherefore we think, that Christian princes, especially and above all things, ought and must, with all their wills, power, and diligence, foresee and provide, Ne sanctissima hac in parte majorum instituta ad improbissimos ambitionis aut maliticc ejfectus explendos diversissimo suo fine et sceleratissimo pervertantur; neve ad alium pra3textum possint valere, et longe diversum effectum orbi producere, quam sanctissima rei fades prce se ferat. That is to say : " Lest the most noble wholesome institutions of our elders in this behalf be perverted to a most contrary and most wicked end and effect ; that is to say, to fulfil and satisfy the wicked affections of men's ambi tion and malice ; or lest they might prevail for any other colour, or bring forth any other effect, than their most virtuous and laudable countenance doth outwardly to the world shew or pretend." And first of all, we think they ought principally to con sider, who hath the authority to call together a general council. Secondly, whether the causes alleged be so weighty and so urgent, that necessarily they require a general council, nor can otherwise be remedied. Thirdly, who ought to be judges in the general council. Fourthly, what order of proceeding is to be observed in the same; and how the opinions or judgments of the fathers are to be consulted or asked. Fifthly, what doctrines are to be allowed or defended: — with divers other things which in general councils ought of reason and equity to be observed. And as unto the first point, we think that neither the bishop of Rome, nor any one prince, of what estate, degree, or pre-eminence soever he be, may, by his own authority, call, indict, or summon any general council, without the express consent, assent, and agreement of the residue of Christian princes, and especially such as have within their own realms and seignories imperium merum, that is to say, of such as have the whole, entire, and supreme government and authority over all their subjects, without knowledging or recognising of any other supreme power or authority. And this to be true, we be induced to think by many and sundry, as well examples, as great reasons and authority. The which forasmuch as it should be over long and tedious to express here particularly, we have thought good to omit the same for this present. And in witness that this is our plain and determinate sentence, opinion, and judgment, touching the premises, we the prelates and clergy underwritten, being congregate together in the convocation of the province of Canterbury, and representing the whole clergy of the same, have to these presents subscribed our names the 20th of July, in the year of our Lord 1536, 28 Hen. VIII.
 
-THOMAS CROMWELL, THOMAS CANTUARIENSIS, JOHANNES LONDON.
+## Thomas Cromwell, Thomas Cantuariensis, Johannes London
 
 With 13 bishops; and of abbots, priors, archdeacons, deans, proctors, clerks, and other ministers, 49.
 
@@ -187,23 +186,23 @@ reference to that council, to which Henry VIII. ap- of Reformat. Vol. I. App. B.
 
 T. CANTUARIEN2. THOMAS ElJEN6.
 
-JOANNES LONDON 3. JOHANNES BANGOR7.
+## Joannes London 3. Johannes Bangor 7
 
 CUTHBERTUS DuNELMS4. NlCOLAUS SARISBURIEX 8.
 
 Jo. BAT. "WELLES*5.
 
-JOANNES ROFFENS'IG.
+## Joannes Roffens'ig
 
 WILIIELMUS ABBAS Mo'-
 
 STERII S'd' B'N'DICTl'11.
 
-ROBERT-US ALDRYDGE12.
+## Robert-Us Aldrydge 12
 
 RlCARDUS COREN13.
 
-EDVARDUS LEYGIITONU.
+## Edvardus Leygiitonu
 
 VIII. Mandalum Archiepiscopi Cantuar de Festo D. Marci Evangelists celelrando.
 
@@ -259,7 +258,7 @@ THOMAS, permissione divina Cant' archiep' tot' Angl' primas et metropolitanus, v
 
 [3 i.e. The Institution of a Christian Man. Vid. Letter CXC. p. 337, n. 3, and the preceding docu ment, No. ix. p. 469.]
 
-472 APPENDIX. [1537.
+## 472 Appendix. [1537
 
 minores quibuscunque civitatis, diocesios, et jurisdictionum nostrarum praedictarum ipsos ordines a te recipere volentib' et ad hoc liabilibus ad jurcjurandum de renuntiando Horn' episcopo et ejus auctoritati ac de acceptando regiam majestatem pro supremo capite ecclesue Anglic' juxta statuta hujus regni in hac parte edita ab eisdem ordinand' et eorum quolibet per te primitus recepto conferend' : ac etiain oleum sanctum chrismatis et sacrae unctionis consecrand' : ceteraque omnia et singula, qua ad omcium pontificale in pra?- missis vel aliquo pra?missorum quovis modo pertinent, vel pcrtinere poterunt, faciend' exercend' et expediend', tibi tenore pra-sentium committimus vices nostras, et plenam in Domino potestatem : toque quoad praemissa suffragancum nostrum ordinamus et praficimus per prsesentes; donee eas ad nos duxerimus revocand'. Et ut officium tuum hujusmodi possis in praemissis liberius exercere, universis et singulis decanis, rectoribus, vicariis, capellanis, curatis, et non curatis, clericis et apparitoribus quibuscunque in virtute sacra fsua?] obcdientia? firmiter tenore prasentium injungendo mandannis, quatenus tibi in pramissis et quolibet pramissorum sint obedientes, assistentes, et intendentes in omnibus, prout decet. In cujus rei testimonium sigillum nostrum prasentibus est appensum. Dat' in manerio nostro de Lamehith, decimo die Decembr' anno Domini mill' quin' xxxvii. et nostra consecrationis anno quinto.
 
@@ -317,7 +316,7 @@ ECCLESTA prater alias acceptiones in scripturis duas habet praecipuas : unam, qu
 
 Paper Office, which the text follows, it has been printed in smaller type at the end of this article. The words inclosed in brackets were erased by Henry VIII. ; those which he proposed to sub stitute are placed in the margin.]
 
-474 APPENDIX. [1538.
+## 474 Appendix. [1538
 
 Altera acceptio est, qua ecclesia accipitur pro congregatione omnium liominum qui baptizati sunt in Christo, et non palam abnegarunt Christum, nee juste et per ejus verbiuu sunt excommunicati. Ista ecclesiaa acceptio congruit ejus statui in hac vita duntaxat, in qua boni malis sunt admixti, et debet esse cognita ut possit audiri, juxta illud : " Qui ecclesiam non audierit," &c. Cognoscitur autem per professionem evangelii et communionem sacramentorum. Hasc est ecclesia catholica et apostolica, quae non episcopatus Romani aut cujusvis alterius ecclesia? finibus circumscribitur, scd univcrsas totius Christianismi complectitur ecclesias, qua? simul unam etficiunt catholicam. In hac autem catholica ecclesia nulla particularis ecclesia, sive Romana ilia fuerit sive quaevis alia, ex institutione Christi supra alias ecclesias eminentiam vel auctoritatem ullam vindicare potest. Est vero ha?c ecclesia una, non quod in terris imum aliquod caput seu unum quondam vicarium sub Christo habeat aut habuerit unquam, (quod sibi jam din pontifex Romanus divini juris pra^textu vindicavit, cum tamen revera divino jure nihil amplius illi sit concessum quam alii cuivis episcopo;) sed ideo una dicitur, quia universi Christiani in vinculo pacis colligati unum caput Christum agnoscunt, cujus se profitentur esse corpus, unum agnoscunt Dominum, imam fidem, unum baptisma, unum Deum ac Patrem omnium.
 
@@ -339,7 +338,7 @@ pro congregatione omnium hominum qui baptizati sunt in Christo, et non palam * ^
 
 ejus statui in hac vita duntaxat, ubi habet malos bonis simul admixtos**, [et f Aut obstinati.
 
-debet esse cognita per verbum et legitimum usum sacramentorum] ut possit ** Et cognitio hujus ccdesia audiri; sicut docet Christus, « Qui ecclesiam non audierit.' Porro ad veram unitaP«rvenit per (uum v^et sa- tem ecclesiae requiritur, ut sit consensus in recta doctrina fidei et administratione fec^unttate aTunaniini con''
+debet esse cognita per verbum et legitimum usum sacramentorum] ut possit ** Et cognitio hujus ccdesia audiri; sicut docet Christus, « Qui ecclesiam non audierit.' Porro ad veram unitaP«rvenit per (uum v^et sa-tem ecclesiae requiritur, ut sit consensus in recta doctrina fidei et administratione fec^unttate aTunaniini con''
 
 sacramentorum. sensu acceptata. Istaettecde-
 
@@ -381,7 +380,7 @@ Principio, facit ut peccator per verbum peccata sua agnoscat, et veros conscient
 
 Cotton MSS., two in Strype, and one other besides the above in the State Paper Office, which was cor rected by Abp. Cranmer himself in his own hand. Those inserted in the copy, from which the above is printed, are marked by brackets. The suggestions which were not adopted are placed in the margin.]
 
-476 APPENDIX. [1538.
+## 476 Appendix. [1538
 
 impietatem peccati mei." Atque haec coram Deo confessio conjunctam habet certam fiduciam misericordia? divina? et remissionis peccatorum propter Christum, qua fiducia conscientia jam erigitur et pavore liberatur, ac certo statuit Deum sibi esse propitium, non merito aut dignitate pcenitentiae, aut suorum operum, sed ex gratuita misericordia propter Christum, qui solus est hostia, satisfactio, ac unica propitiatio pro peccatis nostris. Ad liaec adest et certum animi propositum vitam totam in melius commutandi, ac studium faciendi voluntatem Dei et perpetuo abstinendi a peccatis. Nam vita? novitatem sive fructus dignos pcenitentia? ad totius pcenitentia? perfectionem necessario requirit Deus, juxta illud, Rom. 6° : " Sicut exhibuistis membra vestra servire immunditia? et iniquitati ad iniquitatcm, ita nunc exhibete membra vestra servire justitia? in sanctificationem."
 
@@ -419,7 +418,7 @@ DE ministris ecclesia? docemus, quod nemo debeat publice docere, aut sacramenta 
 
 RITUS, ceremoniaa, et ordinationes ecclesiastics humanitus instituta?, qii£ectmque prosunt ad eruditionem, disciplinary tranquillitatem, bonum ordinem, aut decorem in ecclesia, servanda? sunt et amplectendae, ut stata festa, jejunia, preces, et his similia.
 
-478 APPENDIX. [1538.
+## 478 Appendix. [1538
 
 De quibus admonendi simt homines quod non sint illi cultus, quos Deus in scriptura procipit aut requirit, aut ipsa sanctimonia, sed quod ad illos cultus et ipsam sanctimoniam admodum utilcs sunt, ac turn placcnt Deo, cum ex fide, caritate, et obedientia servantur. Sunt autem veri et genuini cultus timor Dei, fides, dilectio, et cetera opera a Deo mandata. Ad quae consequenda ct praastanda quoties ritus et traditiones adjumentum adferunt, diligenter servandaa sunt, non tanquam res in scripturis a Deo exactaa, aut illis veris et genuinis cultibus sequanda, sed tanquam res ecclesiaa utiles, Deo grataa, et adminicula veraa pietatis. Et quamvis ritus ac traditiones ejusmodi a Christianis observari debeant, propter causas quas ante diximus; tamen in illarum observatione ea libertatis Christianas ratio habenda est, ut nemo se illis ita teneri putet, quin eas possit omittere, modo adsit justa violandi ratio et causa, et absit contemptus, nee per ejusmodi violationem proximi conscientia ttirbetur aut laadatur. Quod si ejusmodi ritus aut ordinationes alio animo ac consilio instituuntur aut observantur, quam ut sint exercitia quaadam, admonitiones, et paadagogiaa, quaa excitent et conducant ad eas res in quibus sita est vera pietas et justitia ; nos talcm institutionem et observationem omnino improbandam et rejiciendam esse dicimus. Non enim remissio peccatorum, justificatio, et vera pietas tribuenda est ejusmodi ritibus et traditionibus, (nam remissionem peccatoris et justificationem propter Christum gratis per fidem consequimur;) sed hoc illis tribuendum est, quod quemadmodum nee sine legibus politicis civitas, ita nee sine ritibus ac traditionibus ecclesiaa ordo servari, confusio vitari, juventus ac vulgus imperitum erudiri potest; quodque ejusmodi ritus et traditiones ad pietatem et spirituales animi motus non parum adminiculantur et prosunt. Quod si ullaa traditiones aliquid praacipiunt contra verbum Dei, vel quod sine peccato praestari non potest, nos ejusmodi traditiones, tanquam noxias et pestiferas, ab ecclesia tollendas esse censemus : impias etiam opiniones et superstitiones, qua? Christi gloriam ac beneficium laadunt atque obscurant, quoties vel populi ignorantia ac simplicitate, vel prava doctrina aut negligentia pastorum, traditionibus ullis annectuntur et haarent, resecandas penitus et abolendas esse judicamus. Praaterea etiam hoc docendi sunt homines, quod ejusmodi rituum ac traditionum externa observatio Deo minime grata sit, nisi his, qui illis utuntur, animus adsit qui eas referat ad pietatem, propter quam institutae sunt: ad haac, quod inter praacepta Dei, et ritus sive traditiones quaa ab hominibus insti tuuntur, hoc discrimen habendum sit, nempe quod ritus sive traditiones humanitus institutaa mandatis ac praaceptis Dei (quaa in scripturis traduntur) cedere semper et postponi ubique debeant. Et nihilominus, quoniam ordo et tranquillitas ecclesiaa absque ritibus et ceremoniis conservari non potest, docemus adeo utile esse et necessarium, ecclesiam habere ritus et ceremonias, ut si ab ecclesia tollerentur, ipsa illico ecclesia et dissiparetur et labefactaretur.
 

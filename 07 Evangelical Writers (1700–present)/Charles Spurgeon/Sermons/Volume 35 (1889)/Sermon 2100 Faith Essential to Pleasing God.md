@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Faith Essential to Pleasing God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2100
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 18, 1889,.
+*Delivered on Lord's-Day Morning, August 18, 1889*
 
 > "But without faith it is impossible to please Him: for he that comes to God must believe that He is and that He is a Rewarder of them that diligently seek Him." Hebrews 11:6.
 
@@ -160,7 +159,6 @@ You are like a smith, wearing out his arm in making chains with which to bind hi
 I entreat you to look up and see the pierced hands and feet and side of the dear Redeemer and read eternal mercy there! Read full forgiveness there, and then go your way in peace, for you are well-pleasing to God. The sinner who believes God's testimony concerning His Son has begun to please Him and is himself well-pleasing to the Lord. Oh that you would now trust Him who justifies the ungodly and passes by the iniquities of sinful men! He will receive you graciously and love you freely.
 
 Oh, come to Him, for He is a Rewarder of them that diligently seek Him. God help you to do so at once. But without faith you cannot please Him. Do what you may, feel what you like—you will labor as in the very fire and nothing will come of it but eternal despair. The Lord help you to believe and live. Amen.
-
 
 ---
 [[Sermon 2099 Concerning the Consolations Of God|← #2099]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2101 Life and Pardon|#2101 →]]

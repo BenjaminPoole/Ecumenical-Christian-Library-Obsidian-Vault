@@ -9,12 +9,9 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # The necessity of diligently seeking the Saints' Rest
 
 ## CHAPTER VII.
-
-**THE NECESSITY OF DILIGENTLY SEEKING THE SAINTS’ REST.**
 
 *The saints’ rest surprisingly neglected. The author mourns the neglect, and excites the reader to diligence, by considering, 1. The ends we aim at, the work we have to do, the shortness and uncertainty of our time, and the diligence of our enemies; 2. Our talents, mercies, relations to God, and our afflictions; 3. What assistance we have, what principles we profess, and our certainty never to do enough; 4. That every grace tends to diligence, and to trifle is lost labor; that much time is misspent and that our recompense and labor will be proportionable; 5. That striving is the divine appointment; all men do or will approve it; the best Christians, at death, lament their want of it; heaven is often lost for want of it, but never obtained without it; 6. God, Christ, and the Holy Spirit are in earnest; God is so in hearing and answering prayer; ministers in their instructions and exhortations; all the creatures in serving us; sinners in serving the devil, as we were once, and now are, in worldly things, and in heaven and hell all are in earnest.*
 
@@ -103,7 +100,6 @@ Thus I have said enough, if not to stir up the sinner to a serious working out h
 “O thou that didst weep and groan in spirit over a dead Lazarus, pity these dead and senseless souls, till they are able to weep and groan in pity to themselves! As thou hast bid thy servants speak, so speak now thyself. They will hear thy voice speaking to their hearts, who will not hear mine speaking to their ears. Lord, thou hast long knocked at these hearts in vain; now break the doors and enter in.”
 
 To show the godly why they, above all men, should be laborious for heaven, I desire to ask them, What manner of persons should those be whom God hath chosen to be vessels of mercy? who have felt the smart of their negligence in their new birth, in their troubles of conscience, in their doubts and fears, and in other sharp afflictions? who have often confessed their sins of negligence to God in prayer? who have bound themselves to God by so many covenants? What manner of persons should they be who are near to God, as the children of his family; who have tasted such sweetness in diligent obedience; who are many of them so uncertain what shall everlastingly become of their souls? What manner of persons should they be in holiness, whose sanctification is so imperfect; whose lives and duties are so important to the saving or destroying a multitude of souls; and on whom the glory of the great God so much depends? Since these things are so, I charge thee, Christian, in thy Master’s name, to consider and resolve the question, “What manner of persons ought we to be in all holy conversation and godliness?” And let thy life answer the question as well as thy tongue.
-
 
 ---
 [[SER 08 The misery of those who, besides losing the Saints' Rest, lose the enjoyments|← The misery of those who, besides losing the Saints' Rest, lose the enjoyments of time, and suffer the torments of hell]] · [[The Saints' Everlasting Rest|Contents]] · [[SER 10 How to discern our title to the Saints' Rest|How to discern our title to the Saints' Rest →]]

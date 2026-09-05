@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 45
 
 ## Lecture One Hundred And Sixty Fourth
 
-**CHAPTER 45**
+## **Chapter 45**
 
 ## Jeremiah 45:1-5
 

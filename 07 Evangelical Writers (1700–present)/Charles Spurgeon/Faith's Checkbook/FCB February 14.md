@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # February 14
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**MERCY TO THE UNDESERVING**
+## **Mercy to the Undeserving**
 
 > He that trusteth in the Lord, mercy shall compass him about" Ps. 32:10
 
@@ -23,7 +22,6 @@ O fair reward of trust! My Lord, grant it me to the full! The truster above all 
 Observe, my soul, what a bodyguard thou hast! As a prince is compassed about with soldiery, so art thou compassed about with mercy. Before and behind, and on all sides, ride these mounted guards of grace. We dwell in the center of the system of mercy, for we dwell in Christ Jesus.
 
 O my soul, what an atmosphere dost thou breathe! As the air surrounds thee, even so does the mercy of thy Lord. To the wicked there are many sorrows, but to thee there are so many mercies that thy sorrows are not worth mentioning. David says, "Be glad in the Lord, and rejoice, ye righteous; and shout for joy, all ye that are upright in heart." In obedience to this precept my heart shall triumph in God, and I will tell out my gladness. As thou hast compassed me with mercy, I will also compass thine altars, O my God, with songs of thanksgiving!
-
 
 ---
 [[FCB February 13|← February 13]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 15|February 15 →]]

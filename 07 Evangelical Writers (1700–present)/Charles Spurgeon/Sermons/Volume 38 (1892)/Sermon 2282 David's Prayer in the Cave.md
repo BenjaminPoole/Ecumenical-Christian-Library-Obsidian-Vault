@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # David's Prayer in the Cave
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2282
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Maschil of David; A Prayer when he was in the cave." Title of Psalm 142.
 
@@ -99,7 +96,7 @@ Lastly, if God means to use you, you must get to be full of praise. Listen to wh
 
 I have talked to three kinds of people tonight. May God grant each of you Grace to take what belongs to you! But if you see any of the first sort before you go out of the building—any who are in the cave of gloom under a sense of sin—if you want to go to the communion, but feel that you ought to stop and comfort them, mind that you do the latter! Put yourself second! There is a wonderful work to be done in those lobbies and in those pews after a service. There are some dear Brothers and Sisters who are always doing it—they call themselves my, "dogs"—for they go and pick up the birds that I have wounded! I wish that they might be able to pick up many tonight. Oh, that some of you might always be on the alert to watch a face and see whether there is any emotion there! Just paddle your own canoe alongside that little ship and see whether you cannot get into communication with the poor troubled one on board and say a word to cheer a sad heart. Always be doing this, for if you are in prison, yourself, the way out of it is to help another out! God turned the captivity of Job when he prayed for his friends. When we begin to look after others and seek to help others, God will bless us. So may it be, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON PSALM57.
+## Exposition by C. H. Spurgeon Psalm 57
 
 To the chief Musician, Al-Taschith, Michtaim of David, when he fled from Saul in the cave. This is one of the "Destroy not" Psalms, for that is the meaning of the title, Al-Taschith, which is used here, and in Psalms 58, 59 and 75. Michtaim of David. David's golden Psalm, "when he fled from Saul in the cave." In this Psalm we see the calmness of David's heart when he was in great peril. He was a man of peace and to be hunted cruelly, as he was by Saul, greatly pained him. Yet with all the sensitiveness of his nature, he did not fall into unbelief, for his sensitiveness was balanced by his confidence in his God. You will see how, greatly as he was afflicted, he was greatly strengthened.
 
@@ -142,7 +139,6 @@ To bear me to the King."
 9\. I will praise You, O Lord, among the people: I will sing unto You among the nations. I will make the Gentiles hear it. They who know not the Lord shall be astonished when they hear me praising Him and they shall ask, "Who is this God of whom this man makes so much?"
 
 10\. 11. For Your mercy is great unto the heavens, and Your truth unto the clouds. Be You exulted, O God, above the heavens: let Your glory be above all the earth. God give us that same calm praiseful frame of mind that David possessed if we are called to endure such trials as fell to his lot!
-
 
 ---
 [[Sermon 2281 Our Lord in the Valley of Humiliation|← #2281]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2283 Christ's One Sacrifice for Sin|#2283 →]]

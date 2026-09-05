@@ -9,14 +9,13 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter I — Of the Scripture
 
 ## Chap. I. — Of the Scripture.
 
 Ques. 1. What is Christian religion?
 
-Ans. The ^aonly way of[^1] [^2] knowing God aright, and ^bliving unto him. ^aJohn xiv. 5, 6, xvii. 3; Acts iv. 12. ^bCol. i. 10; 2 Cor. v. 15; Gal. ii. 19, 20.
+Ans. The [^a1]only way of[^1] [^2] knowing God aright, and [^b1]living unto him.
 
 Q. 2. Whence is it to be learned?
 
@@ -28,8 +27,7 @@ A. The books of the ^aOld and ^bNew[^4] [^5] [^6] Testament, ^cgiven by inspirat
 
 Q. 4. How know you them to be the word of God?
 
-A. By the ^atestimony[^7] of God’s Spirit, working faith in my heart to close with that ^bheavenly majesty, and clear divine truth, that shineth in them. ^aMatt. xvi. 17; John xvi. 13; 1 Thess. ii. 13; 1 John ii. 20, v. 6. ^bLuke xxiv. 32; 1 Cor. ii. 14; Heb. iv. 12; 2 Pet. i. 19.
-
+A. By the [^a2]testimony[^7] of God’s Spirit, working faith in my heart to close with that [^b2]heavenly majesty, and clear divine truth, that shineth in them.
 
 ---
 [^1]: Every one out of this way everlastingly damned.
@@ -40,6 +38,13 @@ A. By the ^atestimony[^7] of God’s Spirit, working faith in my heart to close 
 [^6]: The word thereof is the sole directory for faith, worship, and life.
 [^7]: This alone persuadeth and inwardly convinceth the heart of the divine verity of the Scripture; other motives, also, there are from without, and unanswerable arguments to prove the truth of them, as, — 1. Their antiquity; 2. Preservation from fury; 3. Prophecies in them; 4. The holiness and majesty of their doctrine agreeable to the nature of God; 5. Miracles; 6. The testimony of the church of all ages; 7. The blood of innumerable martyrs, &c.
 
+[^a1]: John xiv. 5, 6, xvii. 3; Acts iv. 12.
+
+[^b1]: Col. i. 10; 2 Cor. v. 15; Gal. ii. 19, 20.
+
+[^a2]: Matt. xvi. 17; John xvi. 13; 1 Thess. ii. 13; 1 John ii. 20, v. 6.
+
+[^b2]: Luke xxiv. 32; 1 Cor. ii. 14; Heb. iv. 12; 2 Pet. i. 19.
 
 ---
 [[TSC 04 The Lesser Catechism|← The Lesser Catechism]] · [[Two Short Catechisms|Contents]] · [[TSC 06 Chapter II — Of God|Chapter II — Of God →]]

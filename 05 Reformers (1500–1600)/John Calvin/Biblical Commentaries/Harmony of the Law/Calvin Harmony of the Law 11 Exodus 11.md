@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 11. Exodus 11
-
-**EXODUS 11**
 
 ## Exodus 11:1-10
 

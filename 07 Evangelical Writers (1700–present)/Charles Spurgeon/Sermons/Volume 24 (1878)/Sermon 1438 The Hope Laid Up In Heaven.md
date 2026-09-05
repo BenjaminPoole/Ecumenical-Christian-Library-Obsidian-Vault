@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Hope Laid Up In Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1438
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 13, 1878,.
+*Delivered on Lord's-Day Morning, October 13, 1878*
 
 > "For the hope which is laid up for you in Heaven, of which you heard before in the Word of the Truth of the Gospel." Colossians 1:5.
 
@@ -134,7 +133,6 @@ Once again, the Apostle says, "strengthened with all might, according to His glo
 No. Here is my guarantee in the next verse—"Giving thanks unto the Father which has made us meet to be partakers of the inheritance of the saints in light." I have been following the evident track of the Apostle's thoughts. The Lord gives us a hope of glory and then He gives us a meetness for it and that meetness is largely worked in us by the Holy Spirit through the instrumentality of our hope. Cultivate, then, your hope, dear Brothers and Sisters! Make it to shine so plainly in you that your minister may hear of your hopefulness and joy! Cause observers to take note of it because you speak of Heaven and act as though you really expected to go there! Make the world know that you have a hope of Heaven! Make worldlings feel that you are a believer in eternal Glory and that you hope to be where Jesus is!
 
 Often surprise them as they see what they call your simplicity, but what is, in truth, only your sincerity while you treat as matter of fact the hope laid up for you in Heaven! The Lord grant it for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1437 Others To Be Gathered In|← #1437]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1439 Receiving the Kingdom of God as a Little Child|#1439 →]]

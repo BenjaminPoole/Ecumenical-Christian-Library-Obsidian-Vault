@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 9
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**FEAR HAS ITS PLACE**
+## **Fear Has Its Place**
 
 > Happy is the man that feareth alway" Prov. 28:14
 
@@ -23,7 +22,6 @@ The fear of the Lord is the beginning and the foundation of all true religion. W
 He is happy who feels a jealous fear of doing wrong. Holy fear looks not only before it leaps, but even before it moves. It is afraid of error, afraid of neglecting duty, afraid of committing sin. It fears ill company, loose talk, and questionable policy. This does not make a man wretched, but it brings him happiness. The watchful sentinel is happier than the soldier who sleeps at his post. He who forseeth evil and escapes it is happier than he who walks carelessly on and is destroyed.
 
 Fear of God is a quiet grace which leads a man along a choice road, of which it is written, "No lion shall be there, neither shall any ravenous beast go up thereon." Fear of the very appearance of evil is a purifying principle, which enables a man, through the power of the Holy Spirit, to keep his garments unspotted from the world. In both senses he that "feareth alway" is made happy. Solomon had tried both worldliness and holy fear: in the one he found vanity, in the other happiness. Let us not repeat his trial, but abide by his verdict.
-
 
 ---
 [[FCB September 8|← September 8]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 10|September 10 →]]

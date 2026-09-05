@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # A Gross Indignity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3404
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they spit upon Him." Matthew 27:30.
 
@@ -59,7 +56,7 @@ To conclude, let me draw one more lesson from the fact that "They spit on Him." 
 
 "Bring forth the royal diadem And crown Him Lord of all,"but bring it out! Make it not a matter of song, but of deed! Bring it out, and put it on His head! You daughters of Jerusalem, go forth to meet King Solomon and crown Him! Crown Him with heart and hands! Take the palm branches of your praises and go forth to meet Him! Spread your garments in the way, and cry, "Hosannah! Hosannah! Blessed is He that comes in the name of the Lord," leading captivity captive, and scattering gifts for men! Talk of Him in your houses. Laud Him in your conversation! Praise Him in your songs! Waft you awhile your melodies on earth, till you shall lay aside this clay, and enter into Heaven, there to give Him the fiery songs of flaming tongues! Then emulate the seraphs, and surround His Throne with everlasting hallelujahs, crying, "Unto Him that loved us, and that washed us from our sins in His blood, unto Him be glory forever and ever!" I think I see Him now! He stands before me! I see that very face that once endured the spitting. Oh, you angels! Bring forth the crown! Bring forth the crown and let it be put upon His head this day! I see the piercings, where thorns penetrated His temple. Bring forth the diadem, I say, and put it on His head! 'Tis done! A shout rises up to Heaven, louder than the voice of many waters. And what now? Bring forth another, and another, and another crown, and yet another, and another! And now I see Him. There He stands—and "on His head are many crowns." It is not enough! You redeemed saints, bring forth more! You blood-bought ones, as you stream into Heaven's gates, each one of you offer Him a new diadem! And you, my Soul, though "less than the least of all saints," and the very chief of sinners, put your crown upon His head! By faith, I do it now. "Unto Him that loved me, and that washed me from my sins in His blood, unto Him be glory forever and ever." From pole to pole let the echoes sound! Yes, let the whole earth, and all that dwell therein, say, "Amen!"
 
-EXPOSITION BY C. H. SPURGEON: JOHN8:29-59; MARK 14:1-9; JOHN 12:1-7
+## Exposition by C. H. Spurgeon: John 8:29-59; Mark 14:1-9; John 12:1-7
 
 Christ thus spoke to His adversaries.
 
@@ -97,7 +94,7 @@ Verse 29. And He that sent Me is with Me: the Father has not left Me alone: for 
 
 59\. Then they took up stones to cast at Him: but Jesus hid Himself and went out of the Temple, going through the midst of them, and so passed by. This is always the sinner's argument against the right! First, hard words, and then stones!
 
-MARK 14.
+## Mark 14
 
 Verses 1-3. After two days was the feast of the Passover, and of unleavened bread: and the chief priests and the scribes sought how they might take Him by craft andput Him to death But they said, Not on the feast day, lest there be an uproar of the people. And being in Bethany, in the house of Simon the leper A well-known person. There were plenty of Simons and so they had to put another name to distinguish him. You remember Simon the Pharisee, in whose house Christ was anointed by a woman who washed His feet with tears. This is another Simon. Not Simon the Pharisee, but Simon the Leper. A healed man, no doubt, or he could not have entertained guests. There can be no question by whom he was healed, for there was nobody else that could heal leprosy except our Divine Lord. "And being at Bethany in the house of Simon the Leper."
 
@@ -113,7 +110,7 @@ Verses 1-3. After two days was the feast of the Passover, and of unleavened brea
 
 8, 9. She has done what she could: she is come beforehand to anoint My body to the burying. Verily I say unto you, Wherever this Gospel shall be preached throughout the whole world, this also what she has done shall be spoken of for a memorial of her.And it is so to this day! Christ's Gospel is preached, tonight, and this woman's love will be remembered. John also speaks of this in his 12th Chapter.
 
-JOHN 12.
+## John 12
 
 Verses 1, 2. Then Jesus, six days before the Passover, came to Bethany where Lazarus was who had been dead, whom He raised from the dead. There they made Him a supper. It was in the house of Simon the Leper, a near acquaintance, perhaps, a relative of this beloved family, for we find that Martha served, but Lazarus was one of them that sat at the table with Him. The two families had joined for this festival, and well they might, for in one case, someone had been healed of leprosy, and in the other case Lazarus had been raised from the dead! It was a holy, happy feast.
 
@@ -124,7 +121,6 @@ Verses 1, 2. Then Jesus, six days before the Passover, came to Bethany where Laz
 4\. Then said one of His disciples, Judas Iscariot, Simon's son, which would betray Him. I wonder whether he was son of that Simon the Leper, and whether a spiritual leprosy did cling to him! That, we know, was the case.
 
 5, 6. Why was not this ointment sold for three hundred pence and given to the poor? This he said, not that he cared for the poor, but because he was a thief and had the bag, and took what was put therei. Observe that the sharpest critics of the works of good men are very often no better than they should be. This Judas is indignant with what Mary does, and claims that he cares for the poor, but all the while he is a thief! Whenever a man is very quick condemning gracious men and women, you may be quite as quick in condemning him. He is usually a Judas.
-
 
 ---
 [[Sermon 3403 The Multitude Before the Throne|← #3403]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3405 Confession of Christ|#3405 →]]

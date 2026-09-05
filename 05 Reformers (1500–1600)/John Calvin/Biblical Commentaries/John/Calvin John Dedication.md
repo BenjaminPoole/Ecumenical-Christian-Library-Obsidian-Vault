@@ -9,20 +9,19 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Epistle Dedicatory
 
-**THE AUTHOR’S EPISTLE DEDICATORY**
+***The Author’s Epistle Dedicatory***
 
 To The
 
-**TRULY HONOURABLE AND ILLUSTRIOUS LORDS,**
+## **Truly Honourable and Illustrious Lords,**
 
-**THE SYNDICS AND COUNCIL OF GENEVA,**
+## **The Syndics and Council of Geneva,**
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**SUPPLICATES FROM THE LORD THE SPIRIT OF WISDOM AND FIRMNESS, AND A PROSPEROUS ADMINISTRATION.**
+## **Supplicates from the Lord the Spirit of Wisdom and Firmness, and a Prosperous Administration.**
 
 I never call to remembrance that saying of Christ, in which he sets so high a value on the duty of receiving strangers with kindness as to reckon it done to himself, without considering, at the same time, the extraordinary honor which he has been pleased to confer on you, by making your city the resort, not of one or a few individuals, but of his Church at large. Among heathen countries hospitality was always commended, and was even accounted one of the principal virtues; and, accordingly, when they intended to denounce any people as barbarians and savages of the lowest stamp, they called them, ἀξένους, or — which means the same thing — *inhospitable*. But far higher praise is due to you that, in these troublesome and unhappy times, the Lord has appointed you to be the persons whose support and protection should be solicited by godly and inoffensive men banished and driven from their native countries by the wicked and cruel tyranny of Antichrist. And not only so, but he has also dedicated to his name a sacred dwelling-place among you, where his worship may be maintained in purity.
 

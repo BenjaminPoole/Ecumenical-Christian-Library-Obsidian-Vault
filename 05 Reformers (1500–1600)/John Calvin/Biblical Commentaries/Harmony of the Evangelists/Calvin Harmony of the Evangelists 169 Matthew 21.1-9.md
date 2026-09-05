@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 169. Matthew 21:1-9; Mark 11:1-10; Luke 19:29-38
-
-**Matthew 21:1-9; Mark 11:1-10; Luke 19:29-38**
 
 **1**. And when they approached Jerusalem, and were come to Bethphage, to the mountain of Olives, then Jesus sent two disciples, [^1] **2**. Saying to them, Go into the village which is opposite to you, and immediately you will find an ass tied, and a colt with her: loose them, and bring them to me. **3**. And if any man shall say anything to you, say, The Lord hath need of them; and immediately he will send them. [^2] **4**. Now all this was done, that it might be fulfilled which was spoken by the prophet, saying, **5**. Say to the daughter of Zion, Lo, thy King cometh to thee, meek, and sitting on an ass, and on a colt, the foal of one that is under the yoke. [^3] **6**. And the disciples went, and did as Jesus had commanded them. **7**. And they brought the ass and the colt, and laid on them their garments, and placed him upon them. [^4] **8**. And a very great multitude spread their garments in the way; and others cut down branches from the trees, and strawed them in the way. **9**. And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed be he [^5] that cometh in the name of the Lord; Hosanna in the highest. [^6]
 

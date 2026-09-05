@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Sorrow at the Cross Turned into Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1442
 
-DELIVERED ON LORD'S-DAY MORNING NOVEMBER 3, 1878,.
+*Delivered on Lord's-Day Morning November 3, 1878*
 
 > "Verily, verily, I say unto you, that you shall weep and lament, but the world shall rejoice: and you shall be sorrowful, but your sorrow shall be turned into joy. A woman, when she is in travail, has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world. And you now, therefore, have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man will take from you." John 16:20-22.
 
@@ -156,7 +155,6 @@ With one remark I finish. I will not dwell upon it, but leave it to abide in the
 Woe unto you that laugh now, for you shall mourn and weep! Woe unto you that now rejoice in sin, for you shall gnash your teeth and weep and wail because of that very Christ whom you now reject! All things will soon be turned upside down. Blessed are you that mourn now, for you shall be comforted. But woe unto you that are full this day, for you shall hunger! The sun will soon be set for you that rejoice in sin. Sadness, like a thick cloud, is now descending to surround you eternally in its horrible gloom! Out of that cloud shall leap the flashes of eternal Justice and from it shall peal the thunderclaps of righteous condemnation!
 
 "Upon the wicked He shall rain snares, fire and brimstone and an horrible tempest: this shall be the portion of their cup." The Lord deliver you from such a doom by leading you, now, to yield to Jesus and to believe in His name. May He grant this prayer for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1441 The Prosperous Man's Reminder|← #1441]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1443 A Clear Conscience|#1443 →]]

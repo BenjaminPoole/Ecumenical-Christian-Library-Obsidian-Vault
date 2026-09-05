@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 121
-
-**PSALM 121**
 
 The Psalmist, to encourage true believers confidently to trust in the aid of God, and to teach them to betake themselves to his protection, first, affirms that, to whatever quarter we turn our eyes it is impossible to find salvation anywhere else; and, in the second place, extols in lofty terms the fatherly care of God in defending his faithful ones.
 

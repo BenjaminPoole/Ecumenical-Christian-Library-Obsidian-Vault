@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Springtime in Nature and Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2410
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as the rain comes down and the snow from Heaven, andreturns not there, but waters the earth, and makes it bring forth and bud, that it may give seed to the sower, and bread to the eater: so shall My Word be that goes forth out of My mouth: it shall not return unto Me void, but it shall accomplish that which I please, and it shall prosper in the thing for which I sent it. For you shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off." Isaiah 55:10-13.
 
@@ -83,7 +80,7 @@ You, my dear Hearers, who are without God, are nothing but a soulish man at pres
 
 Then, dear Friends, when you reach that state, "You shall go out with joy and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands." God give you saving faith and this new life of which I have been speaking, through Jesus Christ His Son! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH55; PSALM 136.
+## Exposition by C. H. Spurgeon: Isaiah 55; Psalm 136
 
 Hear these Inspired words, dear Friends, as though they came fresh from Heaven, as though God Himself spoke them at this moment out of the excellent Glory, for, indeed, He does so. The Word of God never grows old—these messages are just as new as if the ink on the pens of the Prophet and the Psalmist were not yet dry.
 
@@ -122,7 +119,6 @@ Psalm 136:1-3. O give thanks unto the LORD; for He is good: for His mercy endure
 19-23. Sihon king of the Amorites: for His mercy endures forever: and Og the king of Bashan: for His mercy endures forever: and gave their land for an heritage: for His mercy endures forever: even an heritage unto Israel, His servant: for His mercy endures forever. Who remembered us in our low estate: for His mercy endures forever. Here is a song for us—"Who remembered us in our low estate." We were brought low by sin, by conviction, by ignorance, by our own powerless-ness—but, low as we were, "He remembered us in our low estate: for His mercy endures forever."—
 
 "He sent His Son with power to save From guilt, and darkness, and the grave! Wonders of Grace to God belong, Repeat His mercies in your song." 24-26. And has redeemed us from our enemies: for His mercy endures forever. Who gives food to all flesh: for His mercy endures forever. O give thanks unto the God of Heaven for His mercy endures forever. Thus the Psalm finishes upon its keynote—"for His mercy endures forever." May that be the keynote both of our daily song and of our eternal hymn of praise unto the Lord! Amen.
-
 
 ---
 [[Sermon 2409 A Great Sermon by the Greatest Preacher|← #2409]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2411 Why Some Seekers Are Not Saved|#2411 →]]

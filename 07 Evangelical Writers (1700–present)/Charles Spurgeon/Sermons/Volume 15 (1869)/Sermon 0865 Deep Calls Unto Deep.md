@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/15
 ---
-
 # Deep Calls Unto Deep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 865
@@ -151,7 +150,7 @@ Do not deceive yourselves by any dream of annihilation! Do not imagine there sha
 
 Awaken not the fury which you cannot endure, overcome, or avoid! Kindle not the fire which, like flames among stubble, will burn furiously and cannot be stopped! O dash not your souls upon the bosses of Jehovah's buckler! Cast not yourselves upon the point of His glittering spear! God grant of His eternal mercy that you may not tempt those deeps. ' VI. Now to close with a more cheerful theme. There is, Brethren, A BLESSED DEEP OF HOLY HAPPINESS AND
 
-BLISS FOR THE SAINTS IN HEAVEN, AND TODAY IT CALLS TO THE DEEP OF JOY AND THANKFULNESS
+## Bliss for the Saints in Heaven, and Today It Calls to the Deep of Joy and Thankfulness
 
 WITHIN SAINTLY HEARTS who are lingering here below. Yes, the day is coming and all the wings of time are bringing it nearer, when we shall be emancipated from the body of this death! We are not forever to be sickly, sinful and sorrowing. We shall soon be set free from everything that encumbers us.
 
@@ -170,7 +169,6 @@ Our souls anticipate the day of enjoyment! And at this hour, by faith, we eat th
 Thus "deep calls unto deep." May the grace of our Lord Jesus Christ, the love of God the Father, and the fellowship of the Holy Spirit abide with you forever. Amen and Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 77.
-
 
 ---
 [[Sermon 0864 Life's Ever-Springing Well|← #864]] · [[Volume 15 (1869)|Volume 15 (1869) Contents]] · [[Sermon 0866 Rest|#866 →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 70. Letter LXIX. To his Friends in Constance (After June 18, 1415)
-
-LETTER LXIX. TO HIS FRIENDS IN CONSTANCE (After June 18, 1415)
 
 Greetings ; Bitter attack on John XXIII. ; The illogical position of Palecz ; Errors of the Council ; Flee evil priests ; Defence of the cup 242-6
 

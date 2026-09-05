@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Joshua 7:1-9
 

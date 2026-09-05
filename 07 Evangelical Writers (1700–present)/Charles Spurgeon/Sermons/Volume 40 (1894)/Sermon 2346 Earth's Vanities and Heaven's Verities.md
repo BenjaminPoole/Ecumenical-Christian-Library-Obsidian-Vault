@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Earth's Vanities and Heaven's Verities
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2346
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Surely every man walks in a vain show: surely they are disquieted in vain: he heaps up riches and knows not who shall gather them. And now, Lord, what wait I for? My hope is in You. Deliver me from all my transgressions: make me not the reproach of the foolish." Psalm 39:6-8.
 
@@ -113,7 +110,7 @@ And last of all, in his prayer, "Make me not the reproach of the foolish," David
 
 The Lord grant His blessing to those who are to be baptized tonight! May they be faithful to the end and may others of us, who have confessed Christ years ago, be kept from sin! May we all trust Christ tonight! If we never trusted Jesus before, let us begin at once, each one saying, "Now, Lord, what wait I for? My hope is in You." May we all come to Jesus and find eternal life in Him! Amen, and amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM39
+## Exposition by C. H. Spurgeon: Psalm 39
 
 To the chief Musician, even to Jeduthun, A Psalm of David.
 
@@ -178,7 +175,6 @@ Verse 1. I said. "I thought it, and at last I said it. I resolved. I determined 
 12\. And a sojourner, as all my fathers were. "You are my Host. I am Your guest. You entertain me. Lord, look at my tears! When the good man entertains a stranger, he is kind—he pours oil and wine into his wounds. Lord, do so with me! You are the Good Samaritan and I am a stranger with You—a sojourner, a temporary guest with You in this world—as all my fathers were."
 
 13\. O spare me, that I may recover strength, before I go hence, and be no more. There is much sweet comfort, here, though the Psalm reads like a dirge, rather than a hymn. God give us, if we are obliged to sing such words as these, to sing them with a full belief that the Lord will hear us, will bless our trials to us and make them work our lasting good!
-
 
 ---
 [[Sermon 2345 Moses' Dying Charge to Israel|← #2345]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2347 The Lord's Famous Titles|#2347 →]]

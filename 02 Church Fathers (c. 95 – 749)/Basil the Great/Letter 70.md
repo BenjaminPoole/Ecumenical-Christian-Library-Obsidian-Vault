@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 70
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 Without address.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # A Free Grace Promise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2082
@@ -109,10 +108,9 @@ If I should turn from thee?"
 
 But I now do from my very soul call upon thy name. Trembling, yet believing, I cast myself wholly upon thee, O Lord. I trust the blood and righteousness of thy dear Son; I trust thy mercy, and thy love, and thy power, as they are revealed in him. I dare to lay hold upon this word of thine, that whosoever shall call on the name of the Lord shall be saved. Lord, save me to-night, for Jesus' sake. Amen."
 
-PORTION OF SCRIPTURE READ BEFORE SERMON’JOEL 2:11-32.
+## Portion of Scripture Read Before Sermon’joel 2:11-32
 
-HYMNS FROM "OUR OWN HYMN-BOOK"’282, 544, 275.
-
+## Hymns from "Our Own Hymn-Book"’282, 544, 275
 
 ---
 [[Sermon 2081 Truth Stranger Than Fiction|← #2081]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2083 One Lost Sheep|#2083 →]]

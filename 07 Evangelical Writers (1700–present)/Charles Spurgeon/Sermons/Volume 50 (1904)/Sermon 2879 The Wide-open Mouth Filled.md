@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Wide-open Mouth Filled
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2879
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the Lord your God, which brought you out of the land of Egypt: open your mouth wide, and I will fill it." Psalm 81:10.
 
@@ -122,7 +119,6 @@ Moses sang, on the borders of the Red Sea, "He is my God, and I will prepare Him
 Let us, each one, go to the Mercy Seat with our mouths wide open and then let us go to our pulpits and preach with our mouths wide open, even as Paul wrote, "O you Corinthians, our mouth is open unto you, our heart is enlarged." Your mouths may well be open to your hearers because they have first been opened unto God!
 
 I am thankful that throughout this Conference, I have seen no traces of doubt and no signs of despondency. Every Brother has seemed to have confidence in God and to have hope, like a bright light, guiding him on his way. I have no doubt that some of you will see "greater things than these" even here on earth, while others will see them from the heights of Heaven. As surely as we have the Gospel with us and the Holy Spirit with us—as surely as God has led us thus far through the wilderness, as surely as He keeps us knit together in love and unity—so surely will He lead us from strength to strength—and the Lord will be magnified in our mortal bodies whether by life or by death! And we shall, by His Grace, all appear before Him in Zion. God bless you, Brothers! Amen.
-
 
 ---
 [[Sermon 2878 Good Cheer for the Needy|← #2878]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2880 New Tokens of Ancient Love|#2880 →]]

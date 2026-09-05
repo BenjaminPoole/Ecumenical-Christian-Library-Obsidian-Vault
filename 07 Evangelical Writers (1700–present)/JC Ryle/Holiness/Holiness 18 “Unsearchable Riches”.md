@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # “Unsearchable Riches”
 
-Chapter XVIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XVIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 “ *Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ*.” Ephesians iii. 8.
 
@@ -134,7 +133,6 @@ I hope to love Him better, praise Him more,
 And feel, and tell, amid the choir divine,
 
 How fully I am His, and He is mine.”
-
 
 ---
 [[Holiness 17 Thirst Relieved|← Thirst Relieved]] · [[Holiness|Holiness Contents]] · [[Holiness 19 Wants of the Times|Wants of the Times →]]

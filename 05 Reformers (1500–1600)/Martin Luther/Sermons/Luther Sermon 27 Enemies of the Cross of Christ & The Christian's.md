@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 27. Enemies of the Cross of Christ & The Christian's Citizenship in Heaven
-
-## ENEMIES OF THE CROSS OF CHRIST & THE CHRISTIAN’S CITIZENSHIP IN HEAVEN.
 
 PHILIPPIANS 3:17-21: Brethren, join in imitating me, and mark those who so live as you have an example in us. For many, of whom I have often told you and now tell you even with tears, live as enemies of the cross of Christ. Their end is destruction, their god is the belly, and they glory in their shame, with minds set on earthly things. But our commonwealth is in heaven, and from it we await a Savior, the Lord Jesus Christ, who will change our lowly body to be like his glorious body, by the power which enables him even to subject all things to himself.
 

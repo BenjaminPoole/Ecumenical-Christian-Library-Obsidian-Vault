@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Children'S Bread Given To Dogs
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 715
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 14, 1866, BY C. H. SPURGEON, AT THE FREE TABERNACLE, NOTTING HILL..
+*Delivered on Sunday Morning, October 14, 1866, by C. H. Spurgeon, at the Free Tabernacle, Notting Hill*
 
 > Matthew 15:27.
 
@@ -152,7 +151,6 @@ I can suppose that she debated all this over in her mind, and having first conqu
 Sinner, there is nothing between you and salvation but yourself. Do I speak boldly? Christ has leveled every mountain that stands in your way! He has filled up every valley, and He has made a high road from you to the very Throne of God! The difficulty is with you, not with God. How, then, is it with you? Can you trust Christ, dear Hearer? Can you throw yourself wholly upon Jesus crucified?
 
 If so, your sins are forgiven you! Go your way and rejoice. But if you cannot, here is your difficulty. Oh, may God help you to contend with it! It is a sinto doubt Christ! It is a cruelty! It is an unkind cut to suspect that He is unwilling to forgive. Cast away, I pray you, your wicked unbelief! May God the Holy Spirit help you to do so! Come just as you are, and rest in Jesus, and you shall find eternal life.
-
 
 ---
 [[Sermon 0714 A Savior Such As You Need|← #714]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0716 The Church Awakened|#716 →]]

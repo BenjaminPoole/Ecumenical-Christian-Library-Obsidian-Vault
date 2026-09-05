@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # "At Your Word"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1654
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 16, 1882,.
+*Delivered on Lord's-Day Morning, April 16, 1882*
 
 > "And Simon answering said unto Him, Master, we have toiled all the night, and have taken nothing: nevertheless at Your word I will let down the net." Luke 5:5.
 
@@ -128,7 +127,6 @@ cause you have any expectation of success from the excellence of yours work, or 
 Exactly so! They spoke the truth! But I would be delighted to go and shake a pocket handkerchief over graves and bid the dead live if Jesus bade me do so! I would expect to see the cemetery crack and heave from end to end if I were sent on such an errand by the Lord! I would accept the duty joyfully! The more absurd the wise men of our age make the Gospel out to be—and the more they show that it is powerless to produce the designed end—the more will we persevere in our old method of preaching Jesus Crucified! Our resolves are not to be shaken by that mode of reasoning. We never drew our argument for preaching the Gospel from the work, itself, but from the orders given us to do it!
 
 We would rather be acting upon the responsibility of Christ than upon our own. I would rather be a fool and do what Christ tells me than be the wisest man of the modern school and despise the Word of the Lord. I would rather lay the responsibility of my life at the feet of Him who bids me live according to His Word than seek out an objective in life for myself and feel that the responsibility rested on my own shoulders. Let us be willing to be under orders to Christ; willing to persevere under difficulties; willing to begin anew in His service from this very hour. Amen.
-
 
 ---
 [[Sermon 1653 The Resurrection of Our Lord Jesus|← #1653]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1655 The Blessed Guest Detained|#1655 →]]

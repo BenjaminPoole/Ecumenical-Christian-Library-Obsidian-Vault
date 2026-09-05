@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 46. Letter XLV. To the Same (February 1415)
-
-LETTER XLV. TO THE SAME (February 1415)
 
 Writing all last night ; The right to disendow ; The action of Charles IV. ; Be careful over his letters ; Tell Jerome not to come ; Sigismund has forgotten him ; Dear Chlum, do not worry concerning expense ; His replies to the Fortyfive Articles ; Two Articles should be quashed ; Cardinalis should be careful ; Palecz the arch-detective ; Persecution of his adherents; Send another ahirt; He would like to speak to Sigismund 181-4
 

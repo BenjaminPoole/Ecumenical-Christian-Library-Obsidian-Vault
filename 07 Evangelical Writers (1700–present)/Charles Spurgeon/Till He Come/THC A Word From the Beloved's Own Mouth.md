@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # A Word From the Beloved's Own Mouth
 
 *Till He Come* — Charles H. Spurgeon
 
 ## A WORD FROM THE BELOVED’S OWN MOUTH. “And ye are clean.”—John xiii. 10.
-
-## A WORD FROM THE BELOVED’S OWN MOUTH.
 
 AS Gideon’s fleece was full of dew so that he could wring out the moisture, so will a text sometimes be when the Holy Spirit deigns to visit His servants through its words. This utterance of our Saviour to His disciples has been as a wafer made with honey to our taste, and we doubt not it may prove equally as sweet to others.
 
@@ -96,7 +93,6 @@ Then may your voices sweetly ring,
 For if your souls through Christ are clear,
 
 What cause have you to faint or fear?”
-
 
 ---
 [[THC Christ and His Table-Companions|← Christ and His Table-Companions]] · [[Till He Come|Till He Come Contents]] · [[THC The Believer Not An Orphan|The Believer Not An Orphan →]]

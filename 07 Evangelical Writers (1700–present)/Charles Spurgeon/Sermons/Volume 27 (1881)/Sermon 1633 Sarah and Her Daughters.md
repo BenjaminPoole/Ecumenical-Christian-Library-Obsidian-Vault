@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Sarah and Her Daughters
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1633
 
-DELIVERED ON THURSDAY EVENING, APRIL 28, 1881,.
+*Delivered on Thursday Evening, April 28, 1881*
 
 > "Look unto Abraham your father, and unto Sarah that bore you." Isaiah 51:2.
 
@@ -132,7 +131,6 @@ And has not the Lord helped us? Tell it for His honor! He has been a very presen
 There are speculations in business, risks, even, in the most solid trading. But there is no speculation in believing God, no risk in trusting in Him! He that hangs the world upon nothing and yet keeps it in its place, can bring His people to have nothing and yet to possess all things! He that makes yon arch of Heaven stand secure without a buttress or a prop—a mighty arch such as no human engineer could ever contrive—He can make us stand without helpers, without friends, without riches, without strength and stand, too, when all other things except that which God supports shall have come down in the final crash! "Trust you in the Lord forever: for in the Lord Jehovah is everlasting strength."
 
 I pray for you who are most timid, that from this day you may be true daughters of Sarah and not be afraid with any amazement. God bless you with this gracious help and you will praise His name. Amen.
-
 
 ---
 [[Sermon 1632 The Nazarene and the Sect of the Nazarenes|← #1632]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1635 Only Trust Him! Only Trust Him!|#1635 →]]

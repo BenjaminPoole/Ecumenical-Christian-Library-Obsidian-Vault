@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # A Present Helper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3447
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I aim with you." Acts 18:10.
 
@@ -27,7 +24,7 @@ I shall ask you, now, to consider the grateful fact that Jesus is with Believers
 
 "I am with you." This implies His Presence. That would not be enough—a person is not with us if he is merely in the same place as a spectator. "I am with you" expresses His sympathy. He is not here as a stranger, but He is here feeling for us, compassionating with us. "I am with you" has a yet deeper significance. It involves succor. He is working with you— on the same side—exerting His power in connection with yours. Put the three together, and you get presence, sympathy, co-operation, to interpret the meaning. We will take the three words, and oh, as we take them, may we realize them as our own! The words, "I am with you" leave no doubt of—
 
-I. THE PRESENCE OF CHRIST.
+## I. The Presence of Christ
 
 Believer, Jesus Christ's spiritual and most real Presence is with you! This should greatly comfort you because it is the Presence of One whom you dearly love and who reciprocates that affection with an accord so intimate that every hope or fear you feel is reflected in His breast. His heart beats true to you. I might almost say His nerves vibrate in sympathy with you! Oh, how it calms the mind in the midst of difficulty or danger, if we have near us, by our side, One toward whom our heart goes forth and from whom a kindred yearning comes back! The child sleeps sweetly when it is with its mother, watched and tended by her quick eyes and ready hands. The loneliest part of the pilgrim's road is relieved of its tedious-ness and its terror when some dear companion is with him, in whose fellowship he can agree, upon whose arm he may lean and whose constancy he can trust to share any danger. A sprightly word, a kindly look, a brotherly act seem like timely aid to us all when we are tired, footsore, out of our course, and out of spirits. Ah, then you could not have a sweeter
 
@@ -53,7 +50,7 @@ Yes, and when the time shall come for you to have done with ordinances—when th
 
 Oh, if my Lord would come and meet me, my soul would stretch her wings in haste, fly swiftly through death's iron gate, nor feel frightened as she passed! So it shall be with you. I have but skimmed the surface of this first point—the Presence of Christ—"I am with you." Do not any of you skim it. Go into the depths and enjoy it, Beloved! The words still further express—
 
-II. SYMPATHY.
+## II. Sympathy
 
 Remember that Christ in very deed feels in His heart the sorrows of His people. Are they in the furnace? He walks the fire with them. Are they in the rivers? He says, "When you pass through the rivers, I will be with you." And this is grounded upon the precious Doctrine of Vital Union. Every Believer is livingly one with Jesus. Jesus is the Head, and the Believer is a member of the one mystical body. Now you see, whenever a member suffers, the Head must suffer, not only because the Head wills to suffer, but because of necessity—if there is a vital union, there must be a real sympathy. Let this be, then, a matter of faith with us. If I have believed in Jesus unto everlasting life, Jesus is one with me as my Head, and He must—whether I apprehend it or not at the time—He must be in sympathy with me. This He shows by the tender pity He has for His people. Do not think He is ever hard or unfeeling towards His poor, His afflicted, His depressed disciples! No, Brothers and Sisters, the heart of Jesus is full of tenderness! His heart melts with love, as He often proves by the sweet converse He has with them. Though He may leave the strong sometimes to bear, for awhile, the hardships, and grapple, as it were, alone with the troubles of life, He will not leave His tried and tempted ones, or suffer them to faint by the way. Like a mother that lets her full-grown boy alone to shift for himself, but will scarcely go out of doors while the baby is ill, so will He watch over them. And has not Jesus been very, very watchful over us in times of pain, weakness, and serious apprehension? You know He has! He has kept His best succor till we had got into our worst plight. When we had spent all and exhausted every resource, then He has come and brought Himself to our aid—and we found Him our All-in-All. Oh, what true sympathy this is! "A friend in need is a friend indeed." He treats us better as we grow worse. This is just the Friend we need. One with us by vital union, He proves His oneness by His tenderness.
 
@@ -79,7 +76,7 @@ Oh, you that have not any Savior to be with you, I pity you! But I would say thi
 
 Jesus still has blood in which to wash the guilty—still has room in His heart for needy sinners—and the way to have Jesus for your Savior is simply to trust Him and to rely on Him implicitly. May God grant you Grace to do this, for His mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS 18.
+## Exposition by C. H. Spurgeon: Acts 18
 
 Paul had been preaching the Gospel at Athens to the most famous men of that city gathered at Areopagus.
 
@@ -120,7 +117,6 @@ up a community unless they go and seek after those who are converted, to strengt
 26-28. And he began to speak boldly in the synagogue. When Aquila and Priscilla heard him, they took him unto them, and expounded unto him the way of God more perfectly. And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through Grace: For he mightily convinced the Jews, and that publicly, allowing by the Scriptures that Jesus was Christ Now let us sing ourselves an encouraging hymn that as Christ, the Lord, said to Paul, "Fear not," so His Spirit may say to us tonight—
 
 "Give to the winds your fears."
-
 
 ---
 [[Sermon 3446 'Christ Is All'|← #3446]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3448 God's Glory and His Goodness|#3448 →]]

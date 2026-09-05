@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 28. VI. A Short and Clear Exposition of the Christian Faith
 
 A Short and Clear Exposition of the Christian Faith Preached by Huldreich Zwingli, Written by Zwingli Himself Shortly Before His Death to a Christian King ; Thus Far Not Printed by Anyone and Now for THE First Time Published to the World. Matth, 11 : "Come Unto Me," etc., 1536.
@@ -32,7 +31,7 @@ A copy of the "Exposition." at one time belonging to the library of J. J. Breiti
 
 H. Bullinger, Zwingli's successor, who after Zwingli's death published the booklet in 1536, prefixed to it this prefatory note:
 
-TO THE PIOUS READER GREETING.
+## To the Pious Reader Greeting
 
 Though that most faithful herald of the Gospel and most steadfast champion of Christian liberty, H. Zwingli, was clear, careful, and transparently plain in all he said, yet in this pamphlet he surpassed himself, as it were, and sang a sort of swan-song upon the true faith when near his death. He sets forth lucidly and briefly what true faith and pious religion are. He also makes answer to slanderers who defame the evangelical faith and preaching, and furnishes unto all Christian kings and princes a kind of complete defense of the true faith and religion. I was not willing to deprive you of so rich a treasure; do you receive in candid spirit what is offered with sincerely good purpose. The whole work has been copied from the autograph manuscript of the author himself. This I state, because the pamphlet comes out five years after its author's death. It has all been faithfully copied. Farewell. Zurich, in the month of February, of the year 1536.]
 
@@ -48,7 +47,7 @@ And there is nothing so well within a man's power as the task to set forth his f
 
 238 The Works of Huldreich Zwingli able to set forth this trust in a few words? This, then, is my thought in regard to God and divine things :
 
-[CHAPTER I] REGAEDING GOD AND HIS WORSHIP
+## [Chapter I] Regaeding God and His Worship
 
 I. All the things that are are either created or uncreated. The one and only uncreated thing is God, for there can be but one uncreated thing. If there were several uncreated things, there would be several eternals, for the uncreated and the eternal are so closely allied that as one is so is also the other. For if there were several eternals, there would be several infinites, for these are so like unto and allied with each other that whatever is eternal is also infinite and whatever is infinite is also eternal. Now, since there can be only one infinite (for as soon as we admit two infinite substances each becomes finite) , it is certain that the one and only uncreated thing is God. On this depends also the origin, source and foundation of the first article of our faith, that is, when we say, "I believe in one God, the Father Almighty, Creator of heaven and earth," we confess and declare that we have an infallible faith, since it is one resting securely upon one only Creator. The heathen and the unbelievers who trust in created things are forced to confess that they may be deceived in their faith or belief, seeing that they trust in created things. But they that trust in the Creator and Source of all things, who never began to be, but called all other things into existence, these cannot be convicted of error. This also is certain, that nothing which is a created thing can be the object and basis of that unwavering and indubitable power which is faith. For whatever has begun to be at some time was not. When, therefore, it was not, how could anyone have trusted in what did not yet exist? Things, then, that have had a beginning cannot be the natural object or basis of faith. Only the eternal, infinite, and uncreated Good, therefore, is the true basis of faith.
 
@@ -59,8 +58,6 @@ Exposition of the Christian Faith 239 which one should trust with absolute assur
 II. From this, most gracious King, you see clearly that we do not dismiss the saints nor the sacraments, nor move them from their place, as some men say that we do, but that we keep and guard them in their proper place and dignity, that no man may use them wrongly. We do not insult Mary, the Virgin Mother of God, when we forbid that she be adored with divine honors; but when we would attribute to her the majesty and power of the Creator, she herself would not permit such adoration. For true piety has one and the same character among all men and is the same in all, because it originates by one and the same Spirit. It cannot even be imagined, therefore, that any created being should at the same time be pious and suffer the worship due the Deity to be offered to himself. So also the Virgin Mother of God will as much the less accept the worship due the Deity as she is high above all created beings and reverently devoted to God, her Son. It is a mark of insanity in godless men and demons when they allow divine honors to be paid to them. This is proved by the images of demons and the arrogance of Herod, of whom the first, by teaching worship of themselves, deceived the world to its destruction, and the second, not refusing the divine honors offered him, was struck with phthiriasis,* that he might learn to recognize the feebleness of man.
 
 * (p-deipiaai^^ i. e., the morbus pedicularis, or the louse disease; see Josephus, Antiquities, XIX, 8, 2, who relates of Herod Agrippa that his
-
-240 The Works of Huldreich Zwingli
 
 But we venerate and cherish the sacraments as signs and symbols of sacred things, not as if they were themselves the things of which they are signs. For who can be so ignorant as to say that a sign is the thing it signifies? In that case the word "ape," which I write here would place before the eyes of Your Majesty a real live ape. But because the sacraments signify real things, which really and naturally happened at some time, I say they represent these things, call them to mind and, as it were, set them before our eyes. Understand me correctly, I beg, O King ! Christ by His death atoned for our sins. The Eucharist is a commemoration of this thing, as He Himself said — "This do in remembrance of me." By this commemoration all the benefits are presented which God has vouchsafed unto us through His Son. Furthermore, by the symbols themselves, namely the bread and wine, Christ Himself is, as it were, presented to our eyes, so that not only the ears but the eyes and the mouth see and perceive the Christ whom the soul has present within and rejoices in. This, therefore, we say and teach is the legitimate worship of the saints and the sacraments, which Christ Himself transmitted and taught us. "If ye are the children of Abraham," He said [John 8 : 37], "do the works of Abraham." This is, therefore, the example that we ought to follow in the case of all saints and holy men. Thus, if any of the prophets or holy men gave us divine warnings to drink, as it were, we should receive what has been given and set forth to us by the divine Spirit with the same religious devotion with which they received and imparted it. If they adorned religious devotion by sanctity of life, we should follow in their footsteps and be pious, holy, and innocent as they were.
 
@@ -82,13 +79,11 @@ Exposition of the Christian Faith 243 give to us. It clothed its own Son with th
 
 When, therefore, supreme goodness intended to bestow the supreme gift, it gave the most precious thing it could bring out of its treasure chest, namely, itself, that the heart of man, ever eager for something greater, should not even have a way left to wonder how this angelic or human victim could be so great as to be sufficient for all, or how one could put unshaken trust in a creature. The Son of God has, therefore, been given to us as a confirmation of His mercy, as a pledge of pardon, as the price of righteousness, and as a rule of life, to make us sure of the grace of God, and to teach us the law of living. Who could worthily extol the greatness of this divine goodness and generosity? We had deserved to be disowned, and He honors us with being chosen. We had destroyed the way of life, and He has restored it. Thus, then, we have been redeemed and renewed by divine goodness so completely as to be acceptable through His mercy, and to be justified and blameless through His atoning sacrifice.
 
-[CHAPTER II]
+## [Chapter II]
 
-REGARDING CHRIST THE LORD
+## Regarding Christ the Lord
 
 IV. I believe and teach that this Son of God Himself took on human nature in such manner that His divine nature was not lost or changed into human nature, but each nature is in Him so truly, properly and naturally, that nothing has been diminished of His divine nature, so that He should not be truly, properly and naturally God. Moreover, His human nature has not passed over into divine nature so that He should not be truly, properly and naturally man, save only as far as inclination to sin is concerned. Thus, in general, in so far as He is
-
-244 The Works of Huldreich Zwingli
 
 God, He is God with the Father and the Holy Spirit in such manner that none of His divine attributes has suffered because of the assumption of human feebleness, and, in so far as He is man, He is thus man that He has whatever belongs to true and literal human nature, so that nothing has been taken from it on account of the union with the divine nature, save the disposition to sin. Hence it is that both natures so reflect their own character in all their words and deeds that the religious mind sees without trouble what is to be credited to either nature, however rightly the whole is said to belong to the one Christ. "Christ hungered," is said rightly [Matth. 4:1], since He is God and man; yet He did not suffer hunger according to His divine nature. "Christ cured diseases and ailments" [Matth. 4: 23], is said rightly; yet these things belong to divine power, not to human, if you weigh them properly. And yet no division of person follows on account of the difference of natures, any more than when we say a man thinks and sleeps. Here, though the power to Chink belongs to the mind only, and the necessity of sleeping to the body, yet the man is not on that account two persons, but one. For unity of person is brought about even from very different natures. In general, I confess that God and man are one Christ, just as one man consists of a soul endowed with reason and a dull body, as Saint Athanasius has taught. He took up human nature into the unity of the hypostasis or person of the Son of God, not as if the humanity taken on were a separate person, and the eternal divinity were also a separate person. The person of the eternal Son of God assumed humanity into and by virtue of its own power, as holy mxen of God have truly and clearly shown.
 
@@ -106,8 +101,6 @@ VIII. On the other hand, if He had not risen again from death to life, who would
 
 * aoparog. ■{■ avaXyr/roc.
 
-246 The Works of Huldreich Zwingli
-
 His only begotten Son to quicken us into life [John 3 : 16] . When, therefore, He rose again. He rose again for us, beginning by it our own resurrection. Hence also Paul calls Him ''the first fruits of them that sleep" [I Cor. 15 : 20] , that is, of the dead, for when He lives, being dead, He shows that we also live when we die, for this is the signification of the word "to rise again" in Hebrew — to remain, persist, endure. Hence Paul reasons as to both alternatives thus: If Christ rose again, that is, lived when He was believed to be dead, and took up His body again, there is for us a resurrection of the dead. Behold, most learned King, the strength of the reasoning lies in this, that Christ is ours, and that every activity of His is ours. Otherwise, "Christ rose again; therefore we also rise again," would not follow any more than if one argued, "The king has power to free from punishment him whom the judge has sentenced; therefore every one has this power." Hence this would not follow either, "Since Christ did not rise again, neither shall we rise again," for Christ can live and rise again by His own power, which we cannot do by ours. But, [since Paul argues] if Christ had not risen again, there would be no resurrection for us, it is clear that He made the power of His resurrection ours and all men's. This is what holy men had in view when they said* that Christ's body nourishes us unto the resurrection, by which they simply wished to show that when Christ, who is wholly ours, rose again, we were thereby made sure that we also live in the spirit when dead in the body, and shall some day live again with the same body.
 
 IX. Furthermore, in that this same Christ of ours has ascended into heaven and taken His seat at the right hand of the Father, as I believe unhesitatingly. He promises that we also who hasten thither as soon as we die, shall one day enjoy everlasting bliss there also in the body. And as He sitteth there until He shall come for the general judgment of the whole world, so our souls and those of all the blessed are with Him without bodies until the aforesaid judgment, at the beginning of which we shall all put on again the garment of the body that we have laid aside, and with it depart either to the everlasting marriage of our bridegroom or to the everlasting torments of the enemy, the Devil. Here I will set forth two things to you, as I think
@@ -116,17 +109,15 @@ IX. Furthermore, in that this same Christ of ours has ascended into heaven and t
 
 Exposition of the Christian Faith 247 about them, most gentle King.
 
-[CHAPTER III]
+## [Chapter III]
 
-PURGATORY
+## Purgatory
 
 The one is, that, since Christ did not experience the torments of the regions below, as St. Peter teaches. Acts. 2 : 27, but having gone through death ascended to heaven, we also, when freed from the bonds of the body, shall go thither without delay, hindrance, or new torment, if only we have had sincere faith; and that those who hold the threat of the torments of the fire of purgatory over mankind, already miserable enough without that, have dared to feed their own greed rather than the souls of the faithful. For, in the first place, they utterly make void and destroy Christ's mission. For if Christ died for our sins, as He Himself and the apostles imbued with His spirit taught, and as the nature of our religion compels us to confess, according to which mankind is saved by the grace and goodness of God, how could it be admitted that we should be compelled to make atonement ourselves? For if those are at variance with Christ who put their trust in works, as St. Paul tells us, how much more do those cast off and bring to naught Christ who teach that men's sins are to be atoned for by their own torment? For if good deeds cannot win blessedness, but torment wins it, the goodness of the Deity is called in question as if He delighted in afflictions and tribulations, and were averse to gentleness and kindness. Secondly, if Christ does not take away the penalty and punishment due to sin, why was He made man? Why did He suffer? The distinction some theologians make, that we have been redeemed from guilt but not also from punishment, is a frivolous invention, indeed, one insulting to God. For not even a human judge inflicts punishment where there is no guilt. As soon, therefore, as guilt is remitted by God, punishment is done away with. Third, since Christ himself taught that those who believe have eternal life and those that trust in Him who sent Christ to us come not into judgment but have already passed from death into life, it becomes evident that this delay in torment, which the Papists put upon souls departing hence, is a baseless invention.
 
-248 The Works of Huldreich Zwingli
+## [Chapter IV]
 
-[CHAPTER IV]
-
-THE PRESENCE OF CHRIST'S BODY IN THE SUPPER*
+## The Presence of Christ's Body in the Supper*
 
 The other thing which I have undertaken to set forth here is this, — that that natural, material body of Christ's, in which He sufifered here and now sitteth in heaven at the right hand of the Father, is not eaten literally and in its essence, but only spiritually, in the Lord's Supper, and that the teaching of the Papists, that Christ's body is eaten by us having the size and the exact qualities and nature it had when He was born, suffered, and died, is not only frivolous and stupid but impious and blasphemous. For, in the first place, it is certain that Christ took on, excepting always the inclination to sin, a real humanity consisting of body and soul, just as we do. From this it follows that all the characteristics and endowments that belong to the nature of the human body were most truly present in His body. For what He took on for our sake was derived from us, so that He is wholly ours, as I have said before. From this two incontrovertible corollaries follow, one, that the characteristics which are present in our body are also present in Christ's body, the other, that whatever there is in Christ's body, that was corporeal, belongs also to our bodies. For if anything which has to do with the nature and character of the body were in His body but lacking to ours. He would seem to have assumed that not for our sake. For what reason ? Because there is nothing in the realm of body except man that is capable of everlasting blessedness. Hence that point which I touched upon before, that Paul proves our resurrection from Christ's and Christ's from ours. For when he says, '*If the dead rise not, then is not Christ raised" [I Cor. 15: 16], how can this reasoning be sound? For, since Christ is God and man, who would not at once make answer to
 
@@ -162,8 +153,6 @@ Exposition of the Christian Faith 251 because of the conjunction and union of th
 
 "Ye men of Galilee, why stand ye gazing up into heaven? This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven" [Acts 1: 11]. In this passage we have Him plainly taken up from the disciples into heaven. He has gone away, therefore, and is not here. But how has He gone away? In a bodily and literal sense, and as He really is by the essence of His humanity. When, therefore, they say, "shall so come," He means in bodily and literal sense and in substance. But when shall He so come?
 
-252 The Works of Huldreich Zwingli
-
 Not when the Church celebrates the Supper, but when she is to be judged by Him at the end of the world. Therefore the view is irreligious that maintains that Christ's body is eaten in the Supper in a bodily, literal, substantial and even quantitative sense, because such view is opposed to the truth, and what is opposed to the truth is impious and irreligious. These few brief remarks will be enough, I think, to enable your wisdom, which in its ready skill can estimate the whole from one of its parts, to see that out of the mouth of the Lord we are forced to consider how Christ's body is present in the Supper. Oecolampadius and I have treated the matter at length elsewhere and in many writings to various people, indeed, have waged long war, but it would be distasteful to repeat all this. But truth is carrying off the victory and breaking through daily more and more. Now that I may set forth what it is to eat spiritually and sacramentally, I shall make a digression.
 
 To eat the body of Christ spiritually is nothing else than to trust in spirit and heart upon the mercy and goodness of God through Christ, that is, to be sure with unshaken faith that God is going to give us pardon for our sins and the joy of everlasting blessedness on account of His Son, who was made wholly ours, was offered for us, and reconciled the divine righteousness to us. For what can He refuse who gave His only begotten Son ?
@@ -186,13 +175,11 @@ I have opposed a second error on the part of our adversaries. They say that by t
 
 *One of Solon's measures to relieve the situation at Athens. See p. 53, note *.
 
-256 The Works of Huldreich Zwingli
-
 (for it cannot be mortal and immortal at the same time), it would follow that He had two bodies, one mortal, which we would eat as well as the apostles, the other immortal, which would sit on the right hand of God, and not to move thence. Otherwise we would have to say that the apostles, indeed, ate His mortal but we eat His immortal body. Anyone can see how absurd that is.
 
 Finally, I opposed our adversaries in their assertion that the natural, substantial body of Christ is eaten in real presence, because piety denies that also. When Peter perceived that there was divine power in Christ in the marvelous catch of fishes, he said, "Depart from me ; for I am a sinful man, 0 Lord. For he was amazed" [Luke 5:8]. Now, do we long to eat Him physically, like cannibals? As if anyone's love for his children were such that he wished to devour and eat them! Or, as if among all men those were not adjudged the most savage who feed upon human flesh ! The centurion said, "I am not worthy that thou shouldest come under my roof" [Matth. 8:8]. But Christ Himself bore witness of him that He had not found such faith in all Israel. Therefore, the greater and holier faith is, the more is it content with spiritual participation, and the more thoroughly that satisfies it, the more does a religious heart shrink from bodily manducation. Ministering women were wont to show their adoration by bathing and anointing Christ's body, not by eating it. The noble counsellor Joseph and the pious, secret disciple, Nicodemus, wrapped it in linen and spices and laid it in a sepulchre, but did not eat it physically.
 
-[CHAPTER V] THE VIRTUE OF THE SACRAMENTS
+## [Chapter V] the Virtue of the Sacraments
 
 These difficulties, therefore, O King, plainly show that we ought not, under the guise of piety, to assign to the Eucharist or to Baptism qualities that bring faith and truth into danger. What then ? Have the sacraments no virtue ?
 
@@ -226,9 +213,9 @@ We are forced, then, whether we will or no, to acknowledge that the words, "This
 
 But it is now time to pass to other things, lest I offend Your Majesty forgetting to be brief. What I have said, however, is so certain, most brave King, that no one, however many have tried to rebut it, has thus far been able to affect it one jot. Therefore, be not troubled if they that are more ready with their tongues than, with substantial Scripture, cry out that the view is irreligious. This they boast, indeed, in bold but empty words, though when they come to facts they are more empty than a cast-off serpent's skin.f
 
-[CHAPTER VI]
+## [Chapter VI]
 
-THE CHURCH
+## The Church
 
 I believe also that there is one holy Catholic, that is, universal Church, and that this is either visible or invisible. The invisible, as Paul teaches, t is that which comes down from heaven, that is, which recognizes and embraces God through the enlightenment of the Holy Spirit. To this Church belong all those that believe throughout the whole world. And it is called invisible not as if they that believe were invisible, but because it is not evident to human eyes who do believe. The faithful are known to God and themselves alone. And the visible Church is not the Roman pontiff and the rest of them f flETUVVfilKd^.
 
@@ -238,9 +225,9 @@ For the Latin proverb, leheride sunt inaniores, i. e., "they are more empty than
 
 Exposition of the Christian Faith 261 that wear the tiara, but all throughout the whole world who have enrolled themselves under Christ [through baptism]. Among these are all who are called Christians, even though falsely, seeing that they have no faith within. There are, therefore, in the visible Church some who are not members of the elect and invisible Church. For some men eat and drink judgment unto themselves in the Supper, yet all the brethren know them not. Since, therefore, this Church which is visible contains many rebellious and traitorous members who having no faith care nothing if they be a hundred times cast out of the Church, there is need of a government, whether of princes or of nobles, to restrain shameless sinners. For the magistrate carries the sword not in vain [Rom. 13 : 4] . Since, then, there are shepherds in the Church, who, as may be seen in Jeremiah [23: 4ff.], have also the rank of princes it is clear that without a temporal government the Church is crippled and incomplete. So far are we, most pious King, from rejecting government and thinking it should be done away with, as some men charge us with doing, that we even teach that it is necessary to the completeness of the ecclesiastical body. But hear our teaching about this briefly.
 
-[CHAPTER VII]
+## [Chapter VII]
 
-GOVERNMENTS
+## Governments
 
 The Greeks recognize these three kinds of governments with their three degenerate forms : Monarchy, which the Latins call "regnum, kingdom," where one man stands alone as the head of the state under the guidance of piety and justice. The opposite and degenerate form is a tyranny, which the Latins less fittingly call "vis" or "violentia," "force" or "violence," or rather, not having quite the proper word themselves, they generally use "tyrannis," borrowing the word from the Greeks. This exists when piety is scorned, justice is trodden under foot, and all things are done by force, while the ruler holds that anything he pleases is lawful for him. Secondly, they recognize an aristocracy, which the Latins call "optimatium potentia, the power of the best people," where the best men are at the head
 
@@ -256,13 +243,11 @@ To sum up, in the Church of Christ government is just as necessary as preaching,
 
 [CHAPTER Vni]
 
-REMISSION OF SINS
+## Remission of Sins
 
 XI. I believe that remission of sins is surely granted to man through faith every time he prays for it to God through Christ. For since Christ said unto Peter that forgiveness was to be given seventy times seven times [Matth. 18 : 22] , that is, an indefinite number of times, it cannot but be that He Himself always pardons our faults. And I have said that sins are remitted through faith, by which I simply mean to say that faith alone makes a man sure of the remission of his wrongdoings.
 
 •Zwingli was probably thinking of Jer. 29: 7 and I Tim. 2:2. He discusses the latter passage in his treatise, "De vera et falsa religione," see Zwingli's Werke, Vol. Ill, 1914, p. 873f.
-
-264 The Works of Huldreich Zwingli
 
 For though the Roman pontiff even should say hundreds of times, "Thy sins are forgiven thee," yet the heart will never be at rest and sure of its reconciliation with God unless it sees and believes beyond all doubt, nay feels, that it has been absolved and redeemed. For as none but the Holy Spirit can give faith, so also none other can give remission of sins.
 
@@ -270,9 +255,9 @@ The restoration, satisfaction, and expiation necessary to our guilt has been obt
 
 Exposition of the Christian Faith 265
 
-[CHAPTER IX]
+## [Chapter IX]
 
-FAITH AND WORKS
+## Faith and Works
 
 But since I have come to touch upon the subject of faith, I should Uke to explain briefly to Your Majesty what my teaching is about faith and works. For there are people who slander me rather unjustly as forbidding good works, though I really teach upon this subject as upon all others nothing but what the divine Scriptures indicate and what common intelligence suggests. For who is so inexperienced as not to say that works should proceed from intention, or that works without intention are not works but accidents? Faith is in the human heart what intention is in action. Unless intention precedes the deed, whatever results is thoughtless and aimless. Unless faith occupies the stronghold and commands the whole action, whatever we do is without merit and vain. For even we human beings look more at the faithful purpose in any work than at the work itself. If faithful purpose is not there, the value of the work is naught. If anyone perform some great work for Your Majesty, but not from faithful purpose, do you not straightway say that you owe no thanks to the doer because he did not act from his heart? Or rather you straightway feel that in whatever anyone does for you without faithful purpose some perfidy lies hidden, so that he who does a service without faithful purpose is always suspected of some perfidy and seems to you to have acted for his own interests and not for yours. So also in regard to our works this is the rule and order. Faith must be the fountain head of works. If faith is there, the work itself is acceptable to God, if it is not there, the whole result is unbelief and in consequence, not only unacceptable but an abomination to God. Hence St. Paul says, Rom. 14 : 23, ''Whatever is not of faith is sin," and some of our own people have declared, in paradoxical fashion,* that all our works are an abomination. By this they have meant to say nothing else than what I have already said, ''If the work is ours and not faith's, it is unbelief, which God abominates." Now faith, as I have indicated above, is from the Spirit of God alone. They, therefore, that have faith, look in all their works to the will of God as to a model to follow. Hence, not only are
 
@@ -298,7 +283,7 @@ Exposition of the Christian Faith 269 choked by the thorns, that is, the cares a
 
 Thus I preach the law as well as grace. For in the law the elect and the believers learn the will of God, the wicked are terrified by it, that either through fear they do something for the good of their neighbor, or betray their own hopelessness and faithlessness. But at the same time I admonish men that those works count for nothing which we perform with human skill under the idea of serving God, for they certainly are no more pleasing to Him than it would be to you if anyone wished to serve you, O King, in some way that you did not like. If, then, you must be served according to your own will, how much are we not to bring before the face of God works which He has not commanded and does not like ! We open up the source, therefore, from which good works flow when we teach faith. On the other hand, when we urge works, we are as it were demanding the payment of a debt which would not be paid without compulsion.
 
-EVERLASTING LIFE
+## Everlasting Life
 
 XII. Finally I believe that after this life, which is rather captivity and death than life, a glad and happy life will come to the saints or believers, and a gloomy and wretched one to the wicked or unbelievers, and that both will be unending. And in regard to this matter I maintain against the Catabaptists, who contend that the soul sleeps with the body until the day of judgment, that the soul whether of angel or of man cannot sleep or be at rest. For such an idea contradicts all reason. The soul is a substance so instinct with life that it not only lives itself, but also quickens whatever habitation it dwells in. When an angel takes on a body, either one of air or one specially
 
@@ -318,7 +303,7 @@ I believe, then, that the souls of the faithful fly to heaven as soon as they le
 
 272 The Works of Huldreich Zwingli here too, Hercules, Theseus, Socrates, Aristides, Antigonus, Numa, Camillus, the Catos and Scipios; here Louis* the Pious, and your predecessors, the Louis, PhiHps, Pepins, and all your ancestors who have gone hence in faith, t In short there has not been a good man and will not be a holy heart or faithful soul from the beginning of the world to the end thereof that you will not see in heaven with God. And what can be imagined more glad, what more delightful, what, finally, more honorable than such a sight? To what can all our souls more justly bend all their strength than to the attainment of such a life? And may meantime the dreaming Catabaptists deservedly sleep in the regions below a sleep from which they will never wake. Their error comes from the fact that they do not know that with the Hebrews the word for sleeping is used for the word for dying, as is more frequently the case with Paul than there is any need of demonstrating at present.
 
-[CHAPTER XI] ON THE CATABAPTISTS
+## [Chapter XI] on the Catabaptists
 
 And since I have come to speak of the Catabaptists, I should like, O King, to sketch for you in a few words the doctrines of that sect. They are mostly a class of rabble, homeless from the want of means, who make it their business to win old women by pompous discourses upon divine things to extract from them the wherewithal to support themselves, or to gather in considerable alms. In general, they make pretense of the
 
@@ -334,8 +319,6 @@ Although they have left us, because they were not of us, there are yet people wh
 
 Tlie Swiss and German cities of the Burgher Rights are meant.
 
-274 The Works of Huldreich Zwingli
-
 Christ but for their own glory and for their bellies.
 
 Now this Catabaptist pest has crept in principally at those places where the true teachings of Christ have begun to take root, so that you can more easily see, O King, that it has been brought in by the evil spirit, in order to choke the wholesome seed at the start. We see cities and towns that had made a fine beginning in receiving the Gospel, after being infected and hindered by this pest, come as it were to a standstill, so that, because of their confusion, they were unable to attend to sacred or civil affairs. Therefore, I warn Your Majesty (begging your pardon, for I know how you are surrounded by excellent counsels, but counsel does not provide against what is not foreseen. If this evil occurred to the minds of your advisers, they would easily make provision against it, I know, but since they are doubtless unaware of the danger, I think you will not take my warning amiss) , — since it cannot but be that also in your kingdom some sparks of the reviving Gospel are flashing forth, I warn you not to suffer the good seed to be choked by the Papists whose influence has grown unduly, for then instead of this good seed you would find the Catabaptists' tares growing up where you least suspected it, and such disorder in all things appearing throughout your kingdom that it would be very hard to discover a remedy.
@@ -349,8 +332,6 @@ Accordingly, most holy King* (for what hinders me to call "most holy" him who is
 Exposition of the Christian Faith 275 the Son of God was to take place in your reign — a king whom friends and enemies aUke all proclaim to be gracious by nature. For a Christian prince must be of gracious and affable nature, of just and intelligent judgment, of most wise and brave mind. God has made you very rich in these endowments, that you might shine upon this age, and yourself rekindle the torch of the knowledge of God. Go on, then, with these heroic virtues, seize shield and spear, and attack unbelief with dauntless and intrepid courage and with that body of yours conspicuous for all grace. Thus when the other kings shall see you, the most Christian king, championing the glory of Christ, they will follow you and turn out Antichrist. Permit the doctrine of salvation to be preached in purity in your realm. You are strong in men of wisdom and learning, in resources, and in a people inclined to religion ; you will not, therefore, suffer their hearts which are so devoted to God and yourself to be led astray into superstition. There is no reason to fear here that the slanderers will cry out their falsehoods to oppose truth. Not only your subjects but the outside allied nations will wage holy and righteous wars. Not only the people but preachers also will take the oath of allegiance without hesitation, though the Papists have thus far refused to do so. Even the preachers will pay their dues and taxes, so far are they from being inclined to teach that they should not be paid. They will leave every man his own rights and privileges. If mistakes are made, they will censure them, but they will not create any disturbance because of temporal things, for they recognize the ordinary judge in these things, however much they may criticise and censure him when he does wrong.
 
 Believe me, indeed, believe me, magnanimous Hero, none of those evils will come to pass which the Papists threaten. For the Lord protects His Church. Oh that you might see with your own eyes the States of certain princes who have received the Gospel in Germany, and the security, happiness, and faithfulness of their cities. Then you would say because of the results: "I doubt not that what has come to pass is from God." Examine the whole matter in the light of your faith and wisdom, and pardon the daring with which I have disturbed Your
-
-276 The Works of Huldreich Zwingli
 
 Majesty in boorish fashion. The situation demanded it. Zurich.*
 
@@ -440,7 +421,7 @@ I want, however, to subjoin the order of service which we use in celebrating the
 
 Exposition of the Christian Faith J^87 the Supper the things that ought to have been preserved in the Mass, namely, prayers, praise, confession of faith, communion of the Church or the believers, and the spiritual and sacramental eating of the body of Christ, while, on the other hand we omit all those things which are not of Christ's institution, to wit, "We offer efficaciously for the living and the dead:" "We offer for the remission of sins," and the other things that the Papists assert not less impiously than ignorantly.
 
-HERE FOLLOWS SUBSTANTIALLY THE ORDER OF SERVICE WE USE AT ZURICH, BERNE, BASEL, AND THE OTHER CITIES OF THE CHRISTIAN ALLIANCE:
+## Here Follows Substantially the Order of Service We Use at Zurich, Berne, Basel, and the Other Cities of the Christian Alliance
 
 First, in a sermon of appropriate length is preached the goodness of God which He has shown us through His Son, and the people are directed to the knowledge of this and thanksgiving for it. When this is finished a table is placed in front of the choir, so-called, before the steps ; this is covered with a cloth, the unleavened bread is placed upon it, and the wine poured into cups. Then the pastor comes forward with two assistants, and they all turn towards the people, so that the pastor or bishop stands between the others, having on only the usual garb worn by men of standing and ministers of the Church. Then the pastor begins in a loud voice, not in the Latin tongue, but in the vernacular, so that all shall understand what is going on, "In the name of the Father, and of the Son, and of the Holy Ghost." The assistants respond in the name of the whole Church, "Amen." The Pastor: — "Let us pray." Now the church kneels.
 

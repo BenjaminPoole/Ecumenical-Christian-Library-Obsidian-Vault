@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Breakfast With Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2072
 
-DELIVERED ON LORD'S DAY MORNING, FEBRUARY 24, 1889,.
+*Delivered on Lord's Day Morning, February 24, 1889*
 
 > "Jesus said unto them, Come and dine. And none of the disciples dared ask Him, Who are you? knowing that it was the Lord." John 21:12.
 
@@ -188,7 +187,6 @@ Why, I thought he was caring most for his returning child? Yes, but he was faint
 O poor Heart, believe in Jesus and He is yours! Children of God, just as you can enjoy Christ and show that enjoyment in your lives, you will be fascinating others to your Lord and thus by your means I shall not have preached in vain to the unconverted.
 
 O you who would gladly come to Jesus, look at the first chapter of this Gospel of John. The word is there, "Come and see." While in this last chapter of John it is, "Come and dine." Remember that the first thing to do is to "Come and see," or look to Jesus. He says, "Look unto Me and be you saved, all the ends of the earth." Look to Jesus, see Him dying in your place to put away your guilt. Look with the appropriating glance of faith, trusting in Him. And then before long you shall feed on him, to your heart's delight. The Lord send his blessing upon this word, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2071 Trembling at the Word of the Lord|← #2071]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2073 Two Essential Things|#2073 →]]

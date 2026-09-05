@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # The Only Road
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3544
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said to Him, I am the way, the truth, and the life; no man comes to the Father but by Me." John 14:6.
 
@@ -124,7 +121,6 @@ Let this silent cry go up, "Jesus, Son of Man and Son of God, bring me to Your F
 Oh, such a prayer as that will be heard! Have you prayed it? It is heard! If you do not feel it is heard, pray it again! Keep on praying it but, above all, look to Christ upon the Cross! Count the purple drops as they distil from His dear wounds! Remember that He was God that died upon that Cross. Sit and look, and look, and look, and look again! Look, I say, and look again—and if peace does not come with looking, keep on looking and you will get peace there—and faith there, and life there! You will not take faith to Christ—you will get faith from Christ! Keep on looking! Keep on looking!
 
 I heard a Brother say the other day that what he saw, he always looked at. And that is a sensible thing to do with a great many things, but, above all, with Christ. If you see Him, keep on looking at Him! It does not merely say, "See Christ," but, "Look unto Him, look unto Him, and be you saved, all you ends of the earth." God grant you that gracious life—look, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 3543 Speaking on God's Behalf|← #3543]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]]

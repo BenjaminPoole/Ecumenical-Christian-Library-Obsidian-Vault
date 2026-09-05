@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 62. Decade 5, Sermon 4
 
 In this present sermon, by God's assistance, we will, as briefly and plainly as we can, set forth unto you, dearly beloved, what manner of men ministers should be ; and after what sort at this day it behoveth us1 to ordain ministers; not speaking again of the office, but of persons meet for the office. For neither do I think it necessary or profitable to shew at large, that that order or function instituted by Christ in the church sufficeth even at this day to gather2, govern, and preserve the church of God on earth ; yea, without these orders, which in these last ages new invention hath instituted : for that doth the thing itself witness, and the absolute perfection of the primitive church avoucheth it. But that it may be plainly understood of all men, whom it behoves the church at this day to ordain ministers, we will speak a little more amply of the calling of the ministers of the church. of thecaiiing Calling; is no other thing than a lawful appointing of a unto the mio O I I O the^ind^of meet minister. The same also may be called both ordination and election, though one word be more large in signification than the other. Election goeth before by nature ; for whom we choose, those we call. Ordination comprehendeth either of them. But there are numbered almost of all men four kinds of calling. The two former are lawful, the two latter are unlawful. And the first kind is, whereby ministers are called, neither of men, nor by man, but by God ; as it is read, that Esay the prophet and the apostle Paul were called. This kind for the most part is confirmed with signs or miracles, and is called a heavenly3 and secret calling. The second kind of
@@ -21,8 +20,6 @@ In this present sermon, by God's assistance, we will, as briefly and plainly as 
 [3 divina, Lat] calling is made of God indeed, but by the ordination of men : after which sort it is read that St Matthew, Luke, and Timothy, were created ministers of the church. This kind is ordinary, public, used of men, and at this day common : wherein indeed God callcth, bestowing necessary gifts upon his ministers, and appointing laws to those that do elect; and they, following those laws, do ordinarily elect him whom they by signs conjecture to be first called of God : I mean by signs, gifts necessary for ministers.
 
 Now the third kind of calling, which of the unlawful calling by callings is the first, cometh indeed from men, but not from gtft°ura" God ; when as for favour and rewards some unworthy person is ordained. And here is sin committed, as well of those that are ordained, as of those that bear rule in the ordination. Of those that are ordained ; when they desire to be placed in the ministry, for which either they do not understand, or they will not understand, that they be very unfit, being destitute of necessary gifts : or else, when they are sufficiently furnished with knowledge of the scriptures and other things, yet they take not the right path to this function, that is to say, when they respect not the glory of God but their own gain. For there is required of them that are to be ordained a testimony of their own conscience, and a secret calling, to wit, whereby we are well known to ourselves to be moved to take upon us this office, not through ambition, not for covetousness, not for desire to feed the belly, nor of any other lewd4 affection ; but through the sincere fear and love of God, and of a desire to edify the church of God : of which thing very eloquently 5 and holily hath St Paul written in 1 Thess. ii. Besides this, the testimony of other of sound learning and skilfulness in things is also required : for all of us please ourselves, and esteem ourselves to be worthy, to whom the government of the church may be committed ; whereas we foully deceive ourselves. And they that have the authority of ordination do offend, when as in ordaining of ministers they regard not what God by laws set down hath willed herein to be done, and what the state and safety of the church requireth ; but what is for the commodity of him that is to be ordained. Oftentimes, therefore, unworthy persons are ordained ; or such as are unlearned, and not very sound0 ; or else such as are [4 pravo, Lat.] [5 elegantissirnc, Lat.] [6 parum sinceri, Lat.] r ' i ^ 9
-
-130 THE FIFTH DECADE. [SERM.
 
 sufficiently learned, but not of good conversation ; or such as are simple and are good Christians, but unfit and unskilful pastors : and unto this they are allured through favour or bribes. Wherefore they provoke the most heavy wrath of almighty God upon themselves, and make themselves partakers of all those sins, whereof they are the authors, in that they do not uprightly execute the charge which is committed unto them, simony. Our elders1 called this sin simony, an offence punishable with no less punishment than shameful reproach2 and death everlasting. Anthemius, the emperor, writing to Armasius, among other things saith : " Let no man make merchandise of the degree of priesthood by the greatness of price ; but let every man be esteemed after his deserts, not according to that he is able to give. Let that profane thirst of covetousness cease to bear rule in the church, and let that horrible fault be banished far off from holy congregations. After this manner in our time let the bishop be chosen ; being chaste and lowly, so as in what place soever he come he may purge all things with the uprightness of his own life : let a bishop be ordained not with price, but with prayers. He ought to be so far from desire of promotion, that he must be sought for by compulsion : and being desired, he ought to shun it ; and if he be entreated, he ought to fly away : let this only be his furtherance, that he is importune by excuses to avoid from it. For truly he is unworthy of the ministry, that is not ordained against his will3." Thus much he ; who, if he should at this day come to Rome, he would think without doubt he were come into a strange world ; yea, into the mart of Simon, not of Peter, but both of Magus the Samaritan, and Giesi the Israelite.
 
@@ -42,7 +39,7 @@ As concerning that second kind of calling, Avhich is common, and at this day rec
 
 And first of all ; that the Lord hath given to his church who may
 
-J i • i • n • • i choose mi- power and authority to elect and ordain fit ministers, we have nistersin the
+J i • i • n • • i choose mi-power and authority to elect and ordain fit ministers, we have nistersin the
 
 . " church.
 
@@ -53,8 +50,6 @@ declared before, in the second sermon of this decade, by the example of the anci
 [5 Quisquis ille fuerit . . . profanus est, alienus est, foris est. — Cyprian. Ep. lv. Opp. p. 104. Oxon. 1682.]
 
 [6 traditam, Lat.J [' vetustissimarum, Lat.]
-
-132 THE FIFTH DECADE. [sERM.
 
 church of Antioch separated into the ministry the famous apoActsxiv. stles of Christ, Paul and Barnabas1. Whereunto appertaineth2, that the churches of the Gentiles, being instructed of Paul and Barnabas, ordained3 them elders or governors of their churches by election had by voices4. The chiefest in this election were the pastors themselves ; for Peter governing the action, Matthias was created apostle by the church. This form or order the ancient church diligently observed many years. For Cyprian, Epist. Lib. r. Epist. 4 : " The common people," saith he, " hath especially power either to choose worthy priests, or to refuse them that be unworthy. Which thing also we see to descend from the authority of God ; that the priest be chosen in the presence of the common people, before all men's eyes, and be allowed worthy and meet by public judgment and witness: Numb. xx. as in Numbers the Lord commanded Moses, and said : ' Take Aaron thy brother, and Eleazar his son, and bring them up into the mount, before all the congregation.1 God commandeth the priest to be ordained before the whole congregation : that U, he teacheth and sheweth that the ordaining of priests ought not to be done without the knowledge of the people being present ; that in their presence either the vices of the evil might be discovered, or the deserts of the good commended ; and that that is a just and lawful ordaining, which shall be examined by the election and judgment of all5." Thus far he. This custom and manner endured to the time of St Augustine ;
 
@@ -80,9 +75,9 @@ They which think that all power of ordaining ministers That b,ish°Ps
 
 [}l beatus Titus, Lat.]
 
-THE TIFTII DECADE.
+## The Tiftii Decade
 
-[SERM.
+## [Serm
 
 What manner of men are to be ordained ministers.
 
@@ -92,17 +87,17 @@ Neither makes it any great matter, whether discreet men chosen of the church, or
 
 J- # A ' e things done upon affections, practices, and grievous wars, taken in whereby the worst were or-
 
-, , ,, ., . • i , /» i • • *i.i dained instead of the best ; to hand for this right of ordaining, with the end that this might not be, shedding of much blood, spoilings, and ^d that the best the leam- v^v. 0 ' I ^ o ' edest, and the godhest minis- lamentable burnings of countries. The ters might be appointed unto
+, , ,, ., . • i , /» i • • *i.i dained instead of the best ; to hand for this right of ordaining, with the end that this might not be, shedding of much blood, spoilings, and ^d that the best the leam- v^v. 0 ' I ^ o ' edest, and the godhest minis-lamentable burnings of countries. The ters might be appointed unto
 
 . . . . p TT . ,,T churches, the whole right of histories OI the acts Ot Henry the IV. choosing them was granted ind V and nkn nf thp nfT-iir«! nf tllP Iint0 bishoPs» &c-" And a ana \ ., ana ai&O OI the anairs 01 llie Kttle after: "Wherefore if any
 
 Frederiches4, do most evidently wit- (of the bishops) do well use
 
-. ' , i i r ,, this right or authority to the ness, how impudently and abominably edifvinsofthechurch,itisTery the popes of Rome, with their sworn £e fSJJ^g^ ft friends the bishops, have behaved thern either be brought into r good order by the godly ma- themselves. Peradventure I shall have gistrate, or else let the right or
+. ' , i i r ,, this right or authority to the ness, how impudently and abominably edifvinsofthechurch,itisTery the popes of Rome, with their sworn £e fSJJ^g^ ft friends the bishops, have behaved thern either be brought into r good order by the godly ma-themselves. Peradventure I shall have gistrate, or else let the right or
 
 ■, /. ,i • , , i authority to appoint ministers occasion to speak ot this matter elsebe put from them3." where more at large.
 
-Now we will declare, what manner of men it behoveth to ordain ministers : truly not whoso lust, but the most choicest men of sound religion, furnished with all kind of sciences, exercised in the scriptures, cunning in the mystery of faith and religion5, strong and constant, earnest, painful, diligent, faithful, watchful, modest, of a holy and approved conver- ts suffragia, Lat.] [2 commoda, Lat.]
+Now we will declare, what manner of men it behoveth to ordain ministers : truly not whoso lust, but the most choicest men of sound religion, furnished with all kind of sciences, exercised in the scriptures, cunning in the mystery of faith and religion5, strong and constant, earnest, painful, diligent, faithful, watchful, modest, of a holy and approved converts suffragia, Lat.] [2 commoda, Lat.]
 
 [3 These extracts from Bullinger's treatise De Episcop. Instit. et Funct. cap. 7, fol. 99, are not given in odd. 1577 and 1584; nor in the folio Latin ed. of the Decades, Tiguri, 1552; but they are found in the London ed. of the Latin, Svo. — See above, p. 111.]
 
@@ -111,8 +106,6 @@ Now we will declare, what manner of men it behoveth to ordain ministers : truly 
 [5 tenentes mysterium fid ei, Lat.] sation, lest through their corruption of life and scant good name and fame the whole ministry become vile, and that which with wholesome doctrine they build up their wicked life do pull down again. We will rehearse the rule of the apostle, fully comprehending all things pertaining to this matter : " Thou shalt ordain elders, or bishops," saith he, lit ■. " if any be blameless, the husband of one wife, having faithful children, which are not slandered of riot, neither are disobedient ; for if a man cannot rule his own house, how shall he 1 nm. m. care for the church of God ? For a bishop must be blameless, as the steward of God ; (for it is required in the disposers, i ror. iv. that a man be found faithful ;) not froward, not angry, no striker, but gentle0, not given to wine, not covetous, not given to filthy lucre, but harborous, one that loveth goodness, watchful, sober, righteous, godly, temperate, modest, apt to teach, holding fast the faithful word which is according to doctrine, that he may be able both to exhort in wholesome doctrine, and to improve7 them that say against it, and to stop their mouths : no young scholar, lest he, being puffed up, fall into the condemnation of the devil. He must also have a good report of them that are without, lest he fall into the rebuke and snare of the devil.,, All these are the words of the apostle, recited out of the 1st Epistle to Timothy, and in his epistle to Titus.
 
 Wherefore exact judgment and great diligence shall be censure and very needful in this case, to discuss all the points of doctrine exammatlonand life. I say there shall be needful of a strait trial of life and perfect examination of learning : for this is not a matter of small weight; the whole safety of the church hangeth hereupon. If any unworthy and unlearned be ordained, the whole church for the most part is neglected, led astray, and overthrown. But we do not mean a childlike and scholarlike examination ; but a grave and strait examination of knowledge in the scripture and the true interpretation thereof, of the charge of a pastor, of the mysteries of sound faith, and of other such like points. And that the elders in times past were very diligent in these things, it may appear by that which ^Elius Lampridius, in the life of Alexander Severus, rehearseth ; that it was the manner among the Christians to offer the names of their bishops to the whole church afore [6 alienum a pugnis, Lat. omitted.] [7 improve : convince.]
-
-13G THE FIFTH DECADE. [sERM.
 
 they were received, if happily any among the people would shew a reason that he were unworthy of such an office1.
 
@@ -123,8 +116,6 @@ I1 Ubi aliquos voluisset vel rectores provinciis dare, vel prcepositos facere, .
 [2 Si quis adversus eum qui episcopus ordinandus est . . . accusationem instituat, suspondetur hujus ordinatio, atque prius . . . examinetur, &c. — Justin. Novell. Constit. 123, p. 354. Basil. 1501.] the true death of his body, rose again with the true taking again of his flesh and a true taking again of his soul, wherein he shall come to judge the quick and the dead. He must also be asked, if he believe one and the selfsame author and Lord of the new and old Testament, that is to say, of the law, the prophets, and apostles; if the devil became evil, not by creation, but by choice. He must also be asked, if he believe the resurrection of this flesh which we bear, and none other ; if he believe the judgment to come, and that every one shall receive, according to that they have done in the flesh, either punishments or rewards ; if he forbid not marriage, if he condemn not bigamy or second marriage ; if he condemn not the eating of flesh ; if he have fellowship with penitent persons that are reconciled ; if he believe that all sins in baptism are forgiven, as well original sin wherein we are born, as also those which we commit willingly ; if he believe that none which arc without the catholic church can be saved, &c. When he shall be examined upon all these points, and found fully instructed ; then let him be ordained a bishop, with the consent of the clergy and laity, and by the assembly of the bishops of the whole province, and especially of the metropolitan3." This council is said to be celebrated in the year of
 
 [3 Qui episcopus ordinandus est antea examinetur, si natura sit prudens, si docibilis, si moribus temperatus, si vita castus, si sobrius, si semper suis negotiis cavens, si humilis, si affabilis, si rnisericors, si literatus, si in lege Domini instructus, si in scripturarum sensibus cautus, si in dogmatibus ecclesiasticis exercitatus; et ante omnia, si fidei documenta verbis simplicibus (Bullinger wrote, verbis duplicibus, simplicibus forte) asserat, id est, Patrem et Filium et Spiritum sanctum unura Deum esse confirnians, totamque Trinitatis deitatem co-essentialem et consubstantialem et coaeternalem et coomnipotentem prsedicans ; si singularem quamque in Trinitate personam plenum Deum (Bullinger read further, et totas tres personas unum Deum) ; si incarnationem divinam non in Patre neque in Spiritu Sancto factam, sed in Filio tantum credat; ut qui erat in divinitate Dei Patris Filius, ipse fieret in nomine hominis matris filius ; Deus verus ex Patre, homo verus ex matre, carnem ex matris visceribus habens, et animam humanam rationalem simul in eo ambse (Bullinger read, utriusque) naturae, id est, Deus et homo, una persona, unus Filius, unus Christus, unus Dominus, creator omnium quae sunt, et auctor et dominus et rector cum Patre et Spiritu Sancto omnium creaturarum : qui passus sit vera carnis passione, mortuus vera corporis sui morte : resurrexit vera carnis suae resurrectionc (Bullinger read, receptione) et veroe
-
-138 THE FIFTH DECADE. [sERM.
 
 the Lord 400. But I do not rehearse these things to that end, as if I staid myself upon the decrees of councils and men ; or as if I thought all things which pertain to true salvation and perfection were not contained in the holy scriptures ; but to admonish our adversaries, that their manners and doings at this day do not only not agree with the examples and doctrines of the apostles, but not so much as with the decrees of the ancient writers : if happily they may enter into themselves, and, leaving the diverse doctrine of men, they may receive the most ancient tradition and the most infallible doctrine of the holy apostles, now they I come now to the declaration of the last point ; that is to that are •*■ beUonia[ned° sa)T' aftcr what manner they that be called are to be ordained. The apostles in their ordinations exhorted the church to fasting and prayer ; and they that were called they placed and set in the sight of the church, and, laying their hands upon the heads of them that were ordained, they committed the churches Actsxiii. unto them. Of the laying on of hands I have spoken elsei Tim', iv. where1. It was a signification of the charge committed unto
 
@@ -138,15 +129,11 @@ the Lord 400. But I do not rehearse these things to that end, as if I staid myse
 
 [4 Cf. Vol. ii. p. 45, note 7 ; and p. 153, n. 8.]
 
-140 THE FIFTH DECADE. [sERM.
-
 the high bishop layeth his hand upon him, and the minister readeth the lesson of the gospel, and the notary writeth the epistle of his confirmation ; as it becometh not the bishop to sell the hand he layeth on, so neither the minister nor the notary ought in the ordination, either the one to sell his voice, or the other his pen. But if any man shall presume to take any gain thereby, he shall be sure before the judgment-seat of Almighty God to undergo the sharp sentence due to so horrible an offence." Yet forthwith he addeth : " But if he that is ordained, not required, but of his own free will, only for favour's sake, will offer any thing, we grant he may1." why we I have hitherto declared what manner of men, and after receive not hand" of the what S0V^) bishops or pastors must be ordained in the church £i°snops. of God. And albeit out of those things it may easily be gathered, why at this day we suffer not ourselves to be ordained of those who are called, and seem to themselves to be, the only lawful ordinaries; that is to say, such as in the Romish Church by continual succession descend from the apostles ; I will yet, if I can, declare the cause somewhat more plainly. Of the continual succession of bishops or pastors, and of the church, I have spoken elsewhere2; so that it were superfluous here to repeat and rip up the same again. I have also proved, that our churches are the true churches of God, though they agree not with the late upstart church of Rome. And it is evident, that true churches have power to ordain pastors, whether it be done by the voices of the whole church, or by the lawful judgment of such as are chosen by the church. Whereupon it consequently folio weth, that they are lawfully
 
 \} Antiquam patrum regulam sequens, nihil unquam de ordinationibus accipiendum constituo, neque ex datione pallii, neque ex traditionc chartarum .... Quia enim ordinando episcopo pontifex manuin imponit, evangelii vero lectionem minister legit, confirmationis vero hujus epistoiam notarius excipit ; sicut pontificem manum non decet, quam imponit, vendere, ita minister vel notarius non debet in ordinationo ejus vocem suam vel calamum venundare. . . . Si quis aliquid commodi appellationo exigere vel petere pra?sumpserit, in districto omnipotentis Dei examine reatui subjacebit .... Is autem qui ordinatus fuerit, si non . . . exactus . . . offerre aliquid cuilibet ex clero gratia) tantummodo causa voluerit, hoc accipi nullo modo prohibemus. — Decret. Gregor. I. Concil. Gen. stud. Labb. et Coss. Tom. v. col. 1587. Lut. Par. 1671.]
 
 [2 See above, page 28.] ordained which our, or rather which the churches of Christ, do ordain. And there are weighty causes, why the holy churches of God do refuse to have their ministers ordained of popish ordinaries. For St Paul saith : " Though we, or an angel Gai. i. from heaven, shall preach any other gospel unto you, than that which we have preached unto you, let him be accursed." But these men preach another gospel, beside that which Paul preached ; which thing we will have to be understood as touching the sense (wherein there is more danger), and not as touching the words : and therefore from heaven these men are stricken with this curse or excommunication. But who can abide to be ordained of them that be stricken with a curse, or excommunicate ? Moreover, the chief thing in the ordination is the doctrine of the gospel ; seeing that to this end especially ministers of the church are ordained, that they preach the pure gospel of Christ unfeignedly unto the people, and without mingling of man's traditions. But this very thing they do not only most straitly forbid them that are ordained, but also they compel them to abjure by a certain kind of oath which they offer unto them. For they are bound by that wicked oath, not unto Christ, but to the pope against Christ. For, among other things, thus they which are elected bishops take their oath: " I, N. elected bishop of N., from this time forth The oath of will be faithful and obedient to blessed Peter, and to the holy bishops' apostolic church of Rome, and to our lord N. the pope, and to his successors entering canonically. The counsel, which they shall commit unto me by themselves or messengers, or by their letters, to their hinderance I will not willingly disclose to any man. I will be a helper unto them, to retain and defend against all men the popedom of Rome and the royalties of St Peter. I will do my endeavour to keep, defend, increase, and enlarge the rights, honours, privileges, and authority of the church of Rome, of our lord the pope, and of his foresaid successors. Neither will I be in counsel, practice, or treaty, wherein shall be imagined against our lord the pope himself, or the same church of Rome, any sinister or prejudicial matter to their persons, right, honour, state, or power. And if I shall understand such things to be imagined or procured by any, I will hinder the same as much as lieth in me ; and with as much speed as conveniently I may, I will signify the same to our said lord, or to some other, by whom it may
-
-142 THE FIFTH DECADE. [sERM.
 
 come to his knowledge. The rules of the holy fathers, the decrees, ordinances, sentences, dispositions, reservations, provisions, and commandments apostolical, I will observe with my whole might, and cause them to be observed of other. Heretics, schismatics, and rebels against our lord the pope, I will persecute, and to my ability fight against1." Since these men are sworn thus after this manner, who, I pray you, that is a faithful lover of Jesus Christ, of his church, of true faith, yea, and add thereunto, of the commonwealth, can abide to be ordained by such? There is no talk in their oath of the gospel, neither of our Lord Jesus2 Christ himself. There is no mention of the holy scriptures ; but of the rules and ordinances of the fathers there is most diligent mention. Peter is named ; but not that apostle of Christ saying, " Silver and gold have I none ;"" but another, I know not who, having kingly dignity. Indeed, the apostolic church is named; but by
 
@@ -158,7 +145,7 @@ Here may be added, that in the consistory of Rome all things as touching holy or
 
 [3 fatui aut semimoriones, Lat.] [4 ministers or, not in Lat.]
 
-[SERM.
+## [Serm
 
 Plurality of benefices.
 
@@ -190,7 +177,7 @@ one word ; to govern the church of God, or to feed the flock of Christ. For Paul
 
 [bullinger, iv.J
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 [sERM.
 
@@ -222,8 +209,6 @@ But now let us hear the testimonies of the holy evangelists. John the apostle an
 
 10—2
 
-148 THE FIFTH DECADE. [sERM.
-
 fortriveth sins to them that believe in the name of Christ, that is to say, through1 the merits and propitiation of Christ : but that sins are forgiven, the ministers do assuredly declare by the preaching of the gospel ; and by that preaching do bind and loose, remit and retain sins. The matter will be made plainer by an example or two. St Peter, speaking unto the
 
 Act* ii. citizens of Jerusalem : " Repent ye," saith he, " and let every one of you be baptized in the name of Jesus Christ, for the remission of sins ; and ye shall receive the gift of the Holy
@@ -242,8 +227,6 @@ Since these things are thus, brethren, and are delivered unto us in the express 
 
 [4 pass, care for : curabimus, Lat.J p vita beata, Lat.]
 
-150 THE FIFTH DECADE. [sERM.
-
 and peace ; and I gave him fear, and he feared me, and was afraid before my name. The law of truth was in his mouth, and there was no iniquity found in his lips ; he walked with me inpeace and equity, and turned many from their iniquity. For the priest's lips should preserve knowledge, and they should seek the law at his mouth : for he is the messenger of
 
 Ezek. Hi. the Lord of hosts." Again, the Lord saith to Ezechiel : " Thou shalt hear the word at my mouth, and give them warning jcr. xxiii. from me." In Jeremy the Lord saith : " The prophet that hath a dream, let him tell a dream ; and he that hath my word, let him speak my word faithfully1.1' He expressly puts a difference between heavenly things and earthly2 things ; between those things which are of the word of God, and those that are feigned and chosen by man, which he willeth3 to let pass as uncertain things, and as dreams. For he immediately addeth : " Is not my word as fire, saith the Lord, and like a hammer that breaketh the hard stone4 ?" And again : " Hear not the words of the prophets, that preach unto you and deceive you : truly, they teach you vanity ; for they speak the meaning of their own heart, and not out of the mouth of the Lord." Therefore all the true prophets of God have this continually in their mouth : " Thus saith the Lord ; The mouth of the Lord hath spoken it." And therefore they delivered unto the people nothing contrary unto the word of God. The old people had also the scripture ; and the prophets were nothing else but interpreters of the law, applying the same to the place, time, matters, and persons. Also our Lord Jesus Christ saith oftentimes, that his doctrine is not his own, but the Father's : which thing if you understand literally and according to his words, I know not whether anything can be spoken more absurd. Therefore the Lord meaneth, that his doctrine is not of man, but of God. Doth not he send us continually to the writings of the law and the prophets, and confirmeth his own sayings by them ? But Christ is the only teacher of religion, and master of life, appointed unto the universal church by God the Father. To this church he himself also sending teachers, and shewing them what they
@@ -259,8 +242,6 @@ Neither is it left to the bishops of the church of Christ, The bishops as the po
 [6 gratise, Lat.] [? sermones, Lat. and Vulg.]
 
 [s Nobis vero nihil ex nostro arbitrio inducere licet, sed nee eligere quod aliquis de arbitrio suo induxerit. Apostolos Domini habemus auctores, qui nee ipsi quicquarn ex suo arbitrio, quod inducerent, elegerunt: sed acceptam a Christo disciplinam fideliter nationibus adsignaverunt. Itaque etiamsi angelus de coelis aliter evangelizaret, anathema diceretur a nobis. — Tertull. de Frees. Ha?r. cap. 6. ap. Scriptor. Eccles. Opusc. ed. Routh. Vol. i. p. 126. Oxf. 1840.] [9 See Vol. i. p. 93 ; and above, p. 26.]
-
-152 THE FIFTH DECADE. [sERM.
 
 livered to the apostles of Christ, is simply to be received of the church, and simply and purely to be delivered of the pastors to the church, which is the congregation of such as believe the word of Christ. And who knoweth not, that it is said by the prophet, " All men are liars ; God only is true ?" And the church is the pillar and ground of truth, because as it stayeth upon the truth of the scriptures, even so it publisheth none other doctrine than is delivered in the scriptures, neither receiveth it being published. And who is he that will challenge to himself the glory due unto God only ? God is the only lawgiver to all mankind, especially in those things which pertain to religion and a blessed life. For Esay saith : " The Lord is our judge, the Lord is our lawgiver, the Lord is our king ; and he himself shall be our Saviour." And St James also saith : " There is one lawgiver, which is able to save and to destroy." God challengeth this thing as proper to himself, to rule those that are his with the laws of his word, over whom he only hath authority of life and death. Moreover, those laws cannot be godly, which presume to prescribe and teach faith and the service of God after their own fancy. The doctrine concerning faith and the worship of God, unless it be heavenly1, is nothing less than that which it is said to be. God only teacheth us what is true faith, and what worship he delighteth in ; and therefore in Matthew the Son of God pronounceth out of Esay : " In vain do they worship me, teaching for doctrines the commandments of men." Join hereunto also, that from the new constitutions of men there springeth always up a wonderful neglecting, yea, and contempt, of the word of God and of heavenly laws : for through2 our own traditions, as the Lord also saith in the gospel, we go astray, and despise the commandments of God.
 
@@ -284,9 +265,7 @@ through sound and continual teaching derived out of God his Matt-x,,-xlx- word.
 
 The manner of teaching extendeth itself to public and [4 the saint?, ed. 1577."
 
-154 THE FIFTH DECADE. [SERM.
-
-private doctrines. By public doctrine the pastor either catechiseth, that is to say, instructeth, them that be younglings DCTofuwihin religion, or other which are grounded therein1. To the "hurdl younglings or ignorant sort he openeth the principles of true religion. For catechesis, or the form of catechising, comprehendeth the grounds or principles of faith and christian doctrine; to wit, the chief points of the covenant, the ten commandments, the articles of faith or2 Apostles' Creed, the Lord's Prayer, and a brief exposition of the sacraments. The ancient churches had catechisers3 appointed properly to this charge. And the Lord commendeth unto us, both in the old Testament and in the new, with great earnestness the charge of the youth ; commanding us to instruct them both betimes, and also diligently, in true religion. Moreover, he setteth out great rewards and grievous punishments in that behalf. The benefit Assuredly, no profit or fruit is to be looked for in the church fog. of those hearers, that are not perfectly instructed in the prin- ciples of religion by catechising : for they know not of what thing the pastor in the church speaketh, when they hear the covenant, the commandment, the law, grace, faith, prayer, and the sacraments, to be named. Therefore if in anything, then in this, ought greatest diligence to be used. Tmonnofriiirr ^he doctrine, which appertaineth to the perfecter sort, is ^•ni.ture. specially occupied in the exposition of holy scripture. It may appear out of the writings of the old bishops, that it was the custom in that happy and most holy primitive church, to expound unto the churches, not certain parcels of the canonical books, neither some chosen places out of them, but the whole books as well of the new Testament as of the old4 : and in so doingthere came no small fruit unto the churches5. As at this day also we see by experience, that churches cannot be better instructed, nor more vehemently stirred up, than with the words of God himself, and with the faithful interpretation of the books of the gospel, the law, the prophets, and apostles. Where, by the way, we give warning, that the interpretation
+private doctrines. By public doctrine the pastor either catechiseth, that is to say, instructeth, them that be younglings DCTofuwihin religion, or other which are grounded therein1. To the "hurdl younglings or ignorant sort he openeth the principles of true religion. For catechesis, or the form of catechising, comprehendeth the grounds or principles of faith and christian doctrine; to wit, the chief points of the covenant, the ten commandments, the articles of faith or2 Apostles' Creed, the Lord's Prayer, and a brief exposition of the sacraments. The ancient churches had catechisers3 appointed properly to this charge. And the Lord commendeth unto us, both in the old Testament and in the new, with great earnestness the charge of the youth ; commanding us to instruct them both betimes, and also diligently, in true religion. Moreover, he setteth out great rewards and grievous punishments in that behalf. The benefit Assuredly, no profit or fruit is to be looked for in the church fog. of those hearers, that are not perfectly instructed in the prin-ciples of religion by catechising : for they know not of what thing the pastor in the church speaketh, when they hear the covenant, the commandment, the law, grace, faith, prayer, and the sacraments, to be named. Therefore if in anything, then in this, ought greatest diligence to be used. Tmonnofriiirr ^he doctrine, which appertaineth to the perfecter sort, is ^•ni.ture. specially occupied in the exposition of holy scripture. It may appear out of the writings of the old bishops, that it was the custom in that happy and most holy primitive church, to expound unto the churches, not certain parcels of the canonical books, neither some chosen places out of them, but the whole books as well of the new Testament as of the old4 : and in so doingthere came no small fruit unto the churches5. As at this day also we see by experience, that churches cannot be better instructed, nor more vehemently stirred up, than with the words of God himself, and with the faithful interpretation of the books of the gospel, the law, the prophets, and apostles. Where, by the way, we give warning, that the interpretation
 
 I1 instituit publico vcl catcchcmcnos, vcl perfectiorcs, Lat.] [2 articles of faith or, not in Lat.] [3 catechistas, Lat. Bingham, Book in. chap. 10.] [4 So also 1584 : but 1577, as the old.]
 
@@ -300,8 +279,6 @@ But unless the scripture be aptly applied, respect being Application had of plac
 
 [9 See above, p. 101.] [10 constituet, Lat. : shall make.]
 
-15G THE FIFTH DECADE. [sERM.
-
 be, of the principles and grounds of Christianity ' ; and chiefly an evident doctrine of repentance and remission of sins in the name of Christ ; and also a sharp rebuking to be used in due time, or a grave, but yet a wise, reproving of their faults. For the Lord, speaking to his apostles, saith : " Ye are the salt of the earth ; if the salt become unsavoury, wherewith shall it be salted ?" Hereunto also pertaineth the confuting of errors and repressing of heresies, and the defence of sound doctrine. Paul saith, that the " mouths of vain talkers and seducers of minds must be stopped and sharply rebuked." Neither is it enough simply to teach true religion, unless the teacher in the church, by often teaching, constantly urge, defend, and maintain the same. Hereunto chiefly belong these words of Paul : "I charge" (or adjure) "thee therefore before God, and before the Lord Jesus Christ, which shall judge the quick and dead at his appearing and in his kingdom ; preach the word, be instant in season and out of season, improve, rebuke, exhort, with long-suffering and doctrine. For the time will come, when they will not suffer wholesome doctrine ; but, having their ears itching, shall after their own lusts get them a heap of teachers, and shall turn their ears from the truth, and shall be given unto fables. But watch thou in all things, suffer adversity, do the work of an evangelist, make thy ministry fully known2." Therefore they need very often exhortations, that what the church by often and plain teaching understandeth either to be followed or to be avoided ; the same she may, being stirred up and compelled by a fervent exhortation, either constantly follow or refuse. And here it shall be needful for a preacher3 to use long-sufferance, lest forthwith he cast away all hope, if he see not by and by such happy success as he wisheth for; and that some mighty and impudent adversaries obstinately strive against him. For Paul saith : " The servants4 of the Lord must not strive ; but be gentle unto all men, apt to teach, suffering evil5 with meekness, instructing them that are contrary-minded ; if God at any time will give them repentance to the knowledge of the truth ; and that they may come unto themselves again out of the snares of the devil, which are taken captive of him at his f1 rerum Christianarum, Lat.]
 
 [2 ad plenum probatum reddito, Lat. and Erasmus.]
@@ -314,9 +291,9 @@ The private kind of teaching differeth nothing in the rrivatekind of teaching.
 
 thing itself from that public kind, but it is called private in respect of the learners. For some one cometh to the pastor, after the manner of Nicodemus, and desireth very familiarly to be instructed of him in things properly concerning himself. Besides that, this shepherd goeth privately and instructeth those, whom by evident tokens he hath learned by private conference may be more easily won unto Christ than by public preaching. Moreover, he privately admonisheth, and taketh heed in time, lest they that are more unadvised be deeplier plunged in evil. Hitherto pertaineth the visitation both of sick persons and prisoners, none of whom a faithful pastor neglecteth ; but visiteth them so much the more diligently, as he perceiveth them more grievously tempted. For a good pastor is always watchful over the whole flock of Christ, for whom Satan layeth snares, ranging about, seeking whom he may devour. Him the pastor resisteth by prayer, admonitions, teaching, and exhortations. If so be that every church had such a pastor, which would [6 vivicla, Lat.] [T episcopum, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 r raver for faithful pastors.
 
@@ -341,8 +318,6 @@ IV.] OF THE MINISTRY OF THE WORD OF fiOD, &C. 159 wholesome doctrine. Wherefore 
 [3 evidentius, Lat.] [4 of the scriptures, not in Lat.]
 
 [5 multos, Lat. : sort, number, multitude. Bccon's Works, ed. P. S. Vol. i. p. 5. n, 2.]
-
-160 THE FIFTH DECADE. [sERM.
 
 innumerable others are busied in those things which nothing become bishops. Therefore the apostle saith1 : "No man which gocth a warfare entangleth himself with the affairs of this life, that he may please him which hath chosen him to be a soldier." Here were a fit place to speak of stipends due unto pastors; but we will defer it to another place. But if bishops come abroad among the people at any time for business' sake, and be present in assemblies of honest men2 ; with no less care ought they to endeavour, lest either by deed or word, or by apparel, or company keeping, or finally, in the whole course of their life, they give any just occasion of offence to the church. Let there appear in pastors, in all places and at all times, holy uprightness, meet ripeness of judgment, honest behaviour, wisdom, modesty, humanity, humility, and authority worthy of God's ministers ; but let the contrary vices and wicked misdeeds be far from them.
 
@@ -370,9 +345,7 @@ Tom. I. Par. 1778.]
 
 [8 offendiculo, Lat.] [9 or ministers, not in Lat.] r i U
 
-LBULLINGER, IV.J
-
-1G2 THE FIFTH DECADE. [sERM.
+## Lbullinger, Iv.j
 
 and faithful shepherds and teachers, with no less faithfulness Hirelings, and diligence doth paint out the false teachers and false shepherds or wolves1, to the end all men2 may know them, and take heed of them. These things are everywhere to be seen in the writings of the prophets and apostles ; yet singular places, if any man would know, are to be seen, Deut. xiii. and xviii., Isai. lvi., Jeremy xxiii., Ezechiel xxxiv., Daniel xi., Matthew vii. and xxiii. The epistles of Paul in describing and confuting of them are very plentiful ; and St Peter in overthrowing of such men spendeth a great part of his latter epistle. The testimonies and examples of the same prophets and apostles do shew, that godly ministers and faithful pastors shall be vexed with all kinds of afflictions and persecutions. Yet the very same nevertheless do witness evidently, that the ministry shall never be utterly oppressed, but that the ministers shall continually have the victory, yea, even when they are slain. For the Lord always giveth ministers unto his church, who, though they be tried as gold is in the fire, yet they overcome through him which hath overcome the world and the prince of the world. The last times shall be very wicked, as we read the times of Noe and Loth were : but as then also, in that uttermost corruption, those two most excellent men, with a few other singular men in all godliness and true worshippers of God, are read to have flourished and done their duty; even so, unto the very end of the world, the ministry of the word shall also endure ; and worthy doctors and pastors shall flourish, striving against and persecuting all ungodliness and looseness of life. Let the enemies of the truth cease to hope for the overthrow of the ministry and ministers of the word of God. " I will," saith the Lord in the gospel, " be with you always, even unto the end of the world." 2 xhess. ii. He cannot lie who hath spoken this. "He3 shall consume antichrist," saith the apostle, " with the spirit of his mouth ; and shall4 abolish him with the brightness of his coming unto judgment." There shall be therefore ministers in the church and preachers, yea, in despite of the gates of hell, rage they never so horribly, even unto the end of the world.
 
@@ -384,25 +357,25 @@ and faithful shepherds and teachers, with no less faithfulness Hirelings, and di
 
 [* qucm mox abolebit, Lat. : yea, ho shall shortly. &c]
 
-V.] OF PRA1
+## V.] of Pra 1
 
 These things hitherto have I comprehended, as briefly a3
 
 I could, touching the ministry of the word, and the ministers of the churches of Christ. But it is not in our power to frame or give such pastors. By the grace and goodness of God good pastors are given, and the wicked are taken away. Let us all therefore call upon God, praying him to give us faithful and godly ministers3, whereby his name may be always sanctified and the church of God may be happily governed, to the salvation of all those that believe.
 
-OF THE FORM AND MANNER HOW TO PRAY TO GOD;
+## Of the Form and Manner How to Pray to God
 
-THAT IS, OF THE CALLING ON THE NAME OF
+## That Is, of the Calling on the Name Of
 
-THE LORD: WHERE ALSO THE LORD'S
+## The Lord: Where Also the Lord's
 
-PRAYER IS EXPOUNDED ; AND ALSO
+## Prayer Is Expounded ; And Also
 
-SINGING.. THANKSGIVING, AND
+## Singing.. Thanksgiving, And
 
-THE FORCE OF PRAYER,
+## The Force of Prayer
 
-IS ENTREATED.
+## Is Entreated
 
 ---
 [[Bullinger Dec 61 Decade 5, Sermon 3|← 61. Decade 5, Sermon 3]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 63 Decade 5, Sermon 5, Part 1|63. Decade 5, Sermon 5, Part 1 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 25. Luke 2:40-47
-
-**Luke 2:40-47**
 
 **40**. And the child grew, and was invigorated in spirit, and was full of wisdom, and the grace of God was upon him. **41**. And his parents went every year to Jerusalem, to the feast of the Passover. **42**. And when he arrived [^1] at twelve years, as they went up to Jerusalem, according to the custom of the feast, **43**. And when the days were finished, while they were returning, the child Jesus remained at Jerusalem, and his parents did not know it. [^2] **44**. And thinking that he was in the company, they came a day's journey, and sought him among their relatives and acquaintances. **45**. And when they did not find him, they returned to Jerusalem, seeking him. **46**. And it happened, after three days, they found him in the temple, sitting in the midst of the doctors, hearing and putting questions to them: **47**. And all who heard him were astonished at his understanding and answers.
 

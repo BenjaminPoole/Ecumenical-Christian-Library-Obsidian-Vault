@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # Portraits Of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 355
@@ -25,7 +24,7 @@ Perhaps nothing in the world is a surer sign of littleness than a slavish imitat
 
 In what sense? Why? And is itpossible? Three points each interesting.
 
-I. IN WHAT SENSE IS A BELIEVER TO BE CONFORMED TO THE IMAGE OF CHRIST?
+## I. In What Sense Is a Believer to Be Conformed to the Image of Christ?
 
 There are some views which would be taken of this subject, which I think would be shallow and would not reach the full meaning of the Word of God. Some men conceive that they are to bear the image of Christ to warrant them as being His followers, although their works tell another tale! They are to be called Christians, and then under the garb and cover of Christianity, they are to make their vices appear like virtues, and their crimes are to be dignified as though they were of the highest morality. Now a Christian is not to bear the image of Christ as a penny bears the superscription of the Queen! That image is put there to make the coin current among men. but a penny is not the image of the Queen, it is only stamped with it. There are some Christians who think that they have the seal of the Spirit upon them, the stamp of Christ's warranty, and that they can claim to be accepted as Christians because they imagine they have the seal of the
 
@@ -90,7 +89,6 @@ Now then Believer, it is true the image of Christ is sublime, but then it, by th
 To conclude—one thing is certain and having mentioned that, I have done. You will either bear the image of Christ or the image of Satan! You will be developed, every one of you, Sirs. Either those eyes will develop till they are the very eyes of fiends and roll with the hellish leer of blasphemy; that mouth will be developed till it gnashes its teeth in diabolic scorn; that hand will be developed till it has itself as though it were iron and dares to defy the Eternal; that soul will be developed till it becomes a living Hell, a Hell as full of pains as Hell itself is full of demons; or else—and God grant that you may have this last alternative!—or else those eyes will shine till they become like the eyes of Christ, which are as flames of fire; that face will be transformed till it becomes like the face of Christ, as though it glowed with Heaven itself; and that heart will be developed till it becomes a Heaven as full of songs as Heaven itself is full of music! By faith in Christ, or unbelief, your destiny may be known! Do you believe in Christ? You are predestinated to be like He is! Are you an unbeliever? Then if you die so, you shall be transformed into the image of darkness! God save you! Christ help you! "Believe in the Lord Jesus Christ and you shall be saved," for, "He who believes and is baptized shall be saved. But he who believes not, shall be damned."
 
 God add his blessing for Jesus' sake!
-
 
 ---
 [[Sermon 0354 A Sermon For The Week Of Prayer|← #354]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]] · [[Sermon 0356 Words Of Expostulation|#356 →]]

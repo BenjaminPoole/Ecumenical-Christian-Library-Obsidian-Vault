@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Both Sides of the Shield
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2233
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then came Amalek, and fought with Israel in Rephidim. And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: tomorrow I will stand on the top of the hill with the rod of God in my hand." Exodus 17:8,9.
 
@@ -130,7 +127,6 @@ So, you see that though two things may look contradictory, they are often both r
 God bless you, if you are His people! If not, all is wrong. Oh, may you now trust the living Christ! He is here, ready to hear your cry for mercy! He is there in Glory, ready to plead your cause. He waits to be gracious to sinners here below. He waits in Heaven till His enemies shall be made His footstool. May you bow before the silver scepter of His mercy, that you may not be broken in pieces by the iron rod of His justice—and may the Lord be with you all! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Exodus 17.
-
 
 ---
 [[Sermon 2232 Christ's Motive and Ours|← #2232]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2234 The Best Donation|#2234 →]]

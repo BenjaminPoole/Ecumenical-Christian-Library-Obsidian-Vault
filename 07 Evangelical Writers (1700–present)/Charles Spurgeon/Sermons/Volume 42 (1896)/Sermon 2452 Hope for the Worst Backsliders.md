@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Hope for the Worst Backsliders
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2452
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Return, you backsliding children, and I will heal your backslidings. Behold, we come to You; for You are the LORD our God. Truly in vain is salvation hoped for from the hills, and from the multitude of mountains: truly in the LORD our God is the salvation of Israel." Jeremiah 3:22,23.
 
@@ -103,7 +100,7 @@ If you will do all this, God helping you, then believe on the Lord Jesus Christ 
 
 Now look, Sirs, I have done, for I do not know what more I can say to you than I have said. If I did know what more I could say, I am sure that I would say it, but I will tell you how this matter strikes me. If I had come into this Tabernacle, tonight, conscious of guilt and desirous to be saved, I feel that, after hearing what has been said, tonight, I could not go out of this place without willfully refusing the Gospel invitation, if I did refuse it. May you not refuse it, but accept it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 3:1-23.
+## Exposition by C. H. Spurgeon: Jeremiah 3:1-23
 
 In this chapter, the sin of God's people is put in the strongest possible light. The figure used may even be said to be a coarse one, but man's sin is, itself, a coarse thing. The thoughts suggested in this chapter are not what the delicate might desire, but then there is no delicacy in sin.
 
@@ -152,7 +149,6 @@ In this chapter, the sin of God's people is put in the strongest possible light.
 21\. Weeping and supplications of the children of Israel: for they have perverted their way, and they have forgotten the LORD their God. How pleasant to the ears of God is the weeping of His backsliding people! The happy God does not wish men to be sorrowful, but He is glad that they should be sorrowful for sin. Now that they have begun to bemoan their wanderings and their wickedness, they will come back to their God, so He says to them—
 
 22, 23. Return, you backsliding children, and I will heal your backslidings. Behold, we come to You; for You are the LORD our God. Truly in vain is salvation hoped for from the hills, and from the multitude of mountains: truly in the LORD our God is the salvation of Israel. So they come back to Him and find the salvation which they need.
-
 
 ---
 [[Sermon 2451 Blessed in Him|← #2451]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2453 A Hard Case|#2453 →]]

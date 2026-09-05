@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Let Him Alone
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1140
-
-DELIVERED BY.
 
 > "Ephraim is joined to idols: let him alone." Hosea 4:17.
 
@@ -148,7 +145,6 @@ for if I am not washed in His blood, unhappiest of mortals surely am I, for I ha
 But I shelter my soul beneath the purple canopy of my Savior's atoning blood! My Hearers, come under that same shelter, all of you! There is room enough for you! That blessed purple covering will hang between us and God even though there were millions of us, and it will cover us all! Nor can there be any fear that the dart of Divine Vengeance shall smite any of us who will cower down beneath the blood-red Propitiation! God save you, Friends, who are strangers here! God save you, Friends, who frequent these courts! God save you all for Jesus Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Proverbs 1:20-33.
-
 
 ---
 [[Sermon 1139 The Minister's Plea|← #1139]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1141 Good News for the Destitute|#1141 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 100
-
-**PSALM 100**
 
 The title of this psalm may serve for a summary of its contents Moreover, its brevity renders a lengthened discourse unnecessary. The Psalmist, in an especial manner, invites believers to praise God, because he has chosen them to be his people, and has taken them under his care.
 

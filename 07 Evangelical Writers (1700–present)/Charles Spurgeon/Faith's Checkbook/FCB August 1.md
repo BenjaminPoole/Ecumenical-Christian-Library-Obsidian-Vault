@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 1
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**COVENANT REACHES CHILDREN**
+## **Covenant Reaches Children**
 
 > And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee" Gen. 17:7
 
@@ -23,7 +22,6 @@ O Lord, thou hast made a covenant with me, thy servant, in Christ Jesus my Lord;
 I pray for my descendants throughout all generations. Be thou their God as thou art mine. My highest honor is that thou hast permitted me to serve thee; may my offspring serve thee in all years to come. O God of Abraham, be the God of his Isaac! O God of Hannah, accept her Samuel!
 
 If, Lord, thou hast favored me in my family, I pray thee remember other households of thy people which remain unblest. Be the God of all the families of Israel. Let not one of those who fear thy name be tried with a godless and wicked household, for thy Son Jesus Christ's sake. Amen.
-
 
 ---
 [[FCB July 31|← July 31]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 2|August 2 →]]

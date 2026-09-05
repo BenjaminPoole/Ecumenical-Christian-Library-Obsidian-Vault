@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Joshua 13:1-14
 

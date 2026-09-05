@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 17. V. Answer of Wycliffe to Richard the Second
 
-ANSWER OF WYCLIFFE TO RICHABD THE SECOND,
+*Answer of Wycliffe to Richabd the Second*
 
 AS TOUCHINa THE BIGHT AND TITLE OF THE JQNO AND THE POPE. "
 
@@ -29,7 +28,7 @@ Every natural body hath power given of God to resist against its contrary, and t
 
 1 Fox 'a Arts aud Monuments, i. S^.
 
-296 ANSWEE OF WYCLIFFE TO RICHARD THE SECOND.
+## 296 Answee of Wycliffe to Richard the Second
 
 unto God, adorned with virtue and knowledge. Forsomuch then ai there is no power given of God unto any creature, for any end or purpose, but that he may lawfully use the same to that end and purpose, it followeth that our kingdom may lawfully keep back and detain their treasure for the defence of itself, in what case soever necessity do require the same.
 

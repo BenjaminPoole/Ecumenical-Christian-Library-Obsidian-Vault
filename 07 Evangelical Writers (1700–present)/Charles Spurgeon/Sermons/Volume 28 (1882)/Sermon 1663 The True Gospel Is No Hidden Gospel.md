@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The True Gospel Is No Hidden Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1663
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 4, 1882,.
+*Delivered on Lord's-Day Morning, June 4, 1882*
 
 > "But if our Gospelis hid, itis hid to them that are lost: in whom the god of this world has blinded the minds of them which believe not, lest the light of the glorious Gospel of Christ, who is the image of God, should shine on them." 2 Corinthians 4:3,4.
 
@@ -160,7 +159,6 @@ You are not lost if so you look, nor shall you ever be! He that believes in Jesu
 Break off his yoke! Burst the fetters which now hold you his slave. The true God has come in the flesh to set you free and to destroy all the works of the devil! Whatever keeps you from beholding the Glory of God in the face of Jesus Christ can be removed. I am sent to say, in my Master's name, "Whoever believes in Him is not condemned: he that believes and is baptized shall be saved." "Come now, and let us reason together, says the Lord: though your sins are as scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool." Trust the Savior, trust the Incarnate God! Trust Him now and trust Him at once—and though a moment ago you were black as Hell's midnight, you shall be clean and bright as Heaven's eternal noon!
 
 In one instant sins that have taken you 50 years to accumulate shall disappear! The transgressions of all your days shall be plunged beneath the sea and shall be found no more! Only be willing and obedient—and yield yourselves up to the Incarnate God who always lives to take care of those who put their trust in Him! May the Lord bless you, dear Friends, forevermore. Amen and amen.
-
 
 ---
 [[Sermon 1662 The Indwelling and Outflowing of the Holy Spirit|← #1662]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1664 Jehovah-Rophi|#1664 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon V. Of walking humbly with God. Micah vi. 8
-
-## Sermon V. Of walking humbly with God.
 
 “And to walk humbly with thy God.” — Mic. vi. 8.
 
@@ -111,7 +108,6 @@ For the present, let me speak to them of whom I have spoken somewhat already. If
 2\. Do you not relieve yourselves, with the help of profligate souls, that you will be better, — you will repent when the season is better suited for it, and your present condition is changed? Or, —
 
 3\. Do not some of you labour to put far from you all thoughts of these things? “Amici, dum vivimus, vivamus;” — “It will be well enough with us, though we add drunkenness to thirst.” Do not, I say, one or all of these rotten, corrupted principles lie at the bottom of your loose walking with God? Take heed, I beseech you, lest the Lord tear you in pieces!
-
 
 ---
 [[SJO 061 Sermon IV. The nature and beauty of gospel worship. Ephesians ii. 18|← Sermon IV. The nature and beauty of gospel worship. Ephesians ii. 18]] · [[Sermons of John Owen|Contents]] · [[SJO 063 Sermon VI. Of walking humbly with God. Micah vi. 8|Sermon VI. Of walking humbly with God. Micah vi. 8 →]]

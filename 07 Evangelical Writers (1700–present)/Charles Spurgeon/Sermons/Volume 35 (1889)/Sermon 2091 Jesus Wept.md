@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # "Jesus Wept"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2091
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 23, 1889,.
+*Delivered on Lord's-Day Morning, June 23, 1889*
 
 > "Jesus wept." John 11:35.
 
@@ -160,7 +159,6 @@ But, Beloved, "Jesus wept," and then He commanded, "Roll away the stone." He cri
 No, no! If you cannot raise the dead, give something towards rolling away the stone which shuts the poor out of the hospital. If you cannot restore them to health, at least do something towards removing their maladies. Loose them from this crowded city and send them into the country to a Convalescent Home. Brethren, we can thus practically prove the truth of our sympathy. Therefore, pass the boxes round!
 
 Portions Of Scripture Read Before Sermon—John 11:17-46; Hebrews 2:6-18.
-
 
 ---
 [[Sermon 2090 A Delicious Experience|← #2090]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2092 God's Own Gospel Call|#2092 →]]

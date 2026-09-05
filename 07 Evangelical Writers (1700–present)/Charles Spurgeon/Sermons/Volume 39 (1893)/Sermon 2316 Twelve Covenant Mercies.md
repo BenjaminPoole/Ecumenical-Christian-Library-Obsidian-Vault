@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Twelve Covenant Mercies
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2316
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Incline your ear, and come unto Me: hear, and your soul shall live: and I will make an everlasting Covenant with you, even the sure mercies of David." Isaiah 55:3.
 
@@ -113,7 +110,7 @@ Sickness is a choice blessing from God! I cannot measure the unutterable good th
 
 But if tonight you will say, "I will take the Covenant of Grace, rod and all, for if I can be God's child, I will very gladly take the rod as part of the mercies of the Covenant," come along, and you shall have it! Seek the Lord tonight! Give not sleep to your eyes, nor slumber to your eyelids till you have found Him! God grant you all the mercies of the Everlasting Covenant, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. JEREMIAH32:30-42.
+## Exposition by C. H. Spurgeon. Jeremiah 32:30-42
 
 Verse 30. For the children of Israel and the children of Judah have only done evil before Me from, their youth: for the children of Israel have only provoked Me to anger with the work of their hands, says the LORD. Here were people who had done nothing else but evil. God had been very good to them, but they had been very bad to Him. From their youth, and without a break, they bad continued to rebel.
 
@@ -132,7 +129,6 @@ Verse 30. For the children of Israel and the children of Judah have only done ev
 40, 41. That I will not turn away from them, to do them good; but I will put My fear in their hearts, that they shall not depart from Me. Yes, I will rejoice over them to do them good, and I will plant them in this land assuredly with My whole heart and with My whole soul. A whole-hearted God, blessing those upon whom He looks with an eye of Grace! It is a wonderful thing. If He had set His whole heart to destroy them, it would have seemed natural, but God is far above any conception of ours and so, in the midst of extraordinary and almost immeasurable guilt, behold Love equally extraordinary and Grace altogether measureless!
 
 42\. For thus says the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them. Oh, for Grace to lay hold upon this Everlasting Covenant, even the sure mercies of David, and to be saved thereby!
-
 
 ---
 [[Sermon 2315 Paul Apprehended and Apprehending|← #2315]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2317 Obeying Christ's Orders|#2317 →]]

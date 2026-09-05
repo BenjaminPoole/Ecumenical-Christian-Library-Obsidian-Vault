@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 17
 
-**CHAPTER 17**
+***Chapter 17***
 
 ## Jeremiah 17:1
 
@@ -61,7 +60,7 @@ For the same purpose he adds, *I will make thee to serve thine enemies*: and thi
 
 ## Prayer Lecture 65
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou kindly invitest us every day to repentance, and shewest thyself ready to be reconciled, — O grant that we may not through our perverseness reject so inestimable a favor, but submit ourselves to thee, and become so displeased with our vices as to be touched with a true and sincere concern for religion, and to labor through the whole course of our life for nothing else but to render ourselves and our duties approved by thee, and thus to glorify thy name, so that we may become at last partakers of that celestial and eternal glory which thine only-begotten Son has attained for us. — Amen.
 
@@ -143,7 +142,7 @@ Notice especially the expression, “Ye are wise, etc.;” that is, “Ye are no
 
 ## Prayer Lecture 66
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are wholly nothing and less than nothing, we may know our nothingness, and having cast away all confidence in the world as well as in ourselves, we may learn to flee to thee as suppliants, and so put our trust in thee for our present life and for eternal salvation, that thou alone mayest be glorified: and may we be devoted to thee through the whole course of our life, and so persevere in humility and in calling on thy name, that thou mayest not only for once bring us help, but that we may know that thou art always present with those who truly and from the heart call upon thee, until we shall at length be filled with the fullness of all those blessings, which are laid up for us in heaven by Christ our Lord — Amen.
 
@@ -223,7 +222,7 @@ We have then this general rule, that if we desire to obtain from him the beginni
 
 ## Prayer Lecture 67
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that we may learn, whether in want or in abundance, so to submit ourselves to thee, that it may be our only and perfect felicity to depend on thee and to rest in that salvation, the experience of which thou hast already given us, until we shall reach that eternal rest, where we shall enjoy it in all its fullness, when made partakers of that glory, which has been procured for us by the blood of thine only-begotten Son.--Amen.
 
@@ -311,7 +310,7 @@ Hence we ought to notice also what he says in these words, *Carry no burden, and
 
 ## Prayer Lecture 68
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only in former times sent thy prophets, but makest the testimony of thy will to be declared to us daily, — O grant, that we may learn to render ourselves teachable and submissive to thee, and so willingly bear thy yoke, that thy holy word may gain among us that reverence which it deserves: and may we so submit ourselves to thee, while thou speakest to us by men, that we may at length enjoy a view of thy glory, in which will consist our perfect felicity; and that we may not only contemplate thy glory face to face, but also hear thee thyself speaking, and so speaking, that we shall delight in that sweetness, which is laid up for us in hope, through Christ, our Lord. — Amen.
 
@@ -404,7 +403,7 @@ He then adds, *Devour shall the fire the gates of the city, and shall not be ext
 
 ## Prayer Lecture 69
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou dost not now prescribe to us one day on which we are to testify that we are sanctified by thee, but commandest us to observe a sacred rest through our whole life, so as to renounce ourselves and the world, — O grant, that we may really contemplate this rest, and so crucify the old man, that being effectually united to thine only-begotten Son, we may become also partakers of that resurrection in which he has led the way, and be gathered into that celestial kingdom which he has procured for us by his death and resurrection, after having so fought in this world, under thy banner, that thou mayest ever reign in us and rule and govern us by thy Spirit, so that nothing throughout life may be our own doing, but that we suffer ourselves to be governed by thee, until thou at length become to us all in all. — Amen.
 

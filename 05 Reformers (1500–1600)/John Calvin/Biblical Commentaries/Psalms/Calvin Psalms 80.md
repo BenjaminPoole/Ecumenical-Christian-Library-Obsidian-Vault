@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 80
-
-**PSALM 80**
 
 This is a sorrowful prayer, in which the faithful beseech God that he would be graciously pleased to succor his afflicted Church. To excite him the more readily to grant them relief in their distressing circumstances, they compare these circumstances with the condition of the Church in her beginnings, when the Divine favor was conspicuously manifested towards her.
 

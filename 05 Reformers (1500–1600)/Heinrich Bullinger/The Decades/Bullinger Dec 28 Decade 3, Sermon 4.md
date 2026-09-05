@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 28. Decade 3, Sermon 4
 
 WE are now come to the exposition of the two last precepts of the ten commandments. The ninth commandment The ninth is: "Do not speak false witness against thy neighbour." By mem"8"' this precept is confirmed faith in covenants and contracts: it ruleth the tongue, and commendeth unto us verity, the fairest virtue of all other, and teacheth us to use modesty and sincerity both in word and deed. Hitherto yet have we heard nothing in all God's commandments touching the tongue, but a little only in the third commandment. But of the tongue The tongue, do arise the greatest commodities and discommodities of our life. "For the tongue" (saith James) "is a little member, and [James in. a boasteth great things. Behold, how great a matter a little fire kindleth. And the tongue is fire, even a world of wickedness. So is the tongue set among our members, that it defileth the whole body, and setteth on fire the course of nature, and it is set on fire of hell. All the nature of beasts, and of birds, and of serpents, and things of the sea, is meeked and £* prcces suas iterat, Lat.] [5 patrem urget, Lat]
-
-112 THE THIRD DECADE. [SEIIJI.
 
 tamed of the nature of men1 : but the tongue can no man tame, it is an unruly evil, full of deadly poison. Therewith we bless our God and Father ; and therewith curse we men that are made after the similitude of God. Out of one mouth proceed both blessing and cursing." Therefore very well and necessarily is the way set down in this ninth precept, how men should frame and order their tongues.
 
@@ -36,8 +33,6 @@ IV.] THE NINTH AND TENTH PRECEPTS, &C. 113 bearing simply is not forbidden us, b
 
 [4 rrayrrj^?. Ainsworth translates, Thou shalt not answer.] [BULLTNGER, n.]
 
-114 THE THIRD DECADE. [sERM.
-
 THist. sus. again, " A false witness shall not scape unpunished." We have an example in the two false witnesses that rose against the chaste1 and honest Susanna.
 
 False and In this law are condemned also all false and wrongful
@@ -50,7 +45,7 @@ A lie, and the But now the especial thing that is forbidden the faithful kinds o
 
 [l pudicissimam foeminarum, Lat.] [2 August. Opp. Par. 1531. Tom. iv. fol. 5. col. 1.] [3 Exceptis jocis, qua? nunquara sunt putata mendacia. — August. Tom. iv. fol. 2.]
 
-IV.] THE NINTH AND TENTH PRECEPTS, &C. 115
+## IV.] the Ninth and Tenth Precepts, &C. 115
 
 There is, moreover, an officious lie; that is, when I fitten4 or tell an untruth, for duty's sake, to the end that by my lie I may keep my neighbour harmless from the evil or mischief that hangeth over his head. Of this sort there are many examples in the holy scriptures. The midwives of Egypt did save the Hebrews' children alive, whom Pharao [Exod. i.
 
@@ -66,15 +61,13 @@ Now it hath been a question among the divines of the primitive church, whether t
 
 [7 Restitit (Paulus) secundum faciem publicam Petro et ceteris ; ut hypocrisis observandse legis . . . correptionis hypocrisi emendaretur. — Utilem vero simulationem, et assumendam in tempore, Jehu regis Israel nos doccat exemplum, &c. — Hieron. Comment, in. Ep. ad Gal. cap. n. Opp. Tom. iv. col. 243.]
 
-110 THE THIRD DECADE. [sERM.
-
 matter, denieth flatly that we ought once to suspect that a lie is allowed in the sacred scriptures. On the other side again, St Hierome telleth Augustine, that the best interpreters of the ancient church are full and wholly of his mind. There are, to and fro, very learned and large epistles written on both sides, which are extant now, and to be seen amongst us ; and therefore I need not stick hereupon any longer1. The same Augustine, in the fifteenth chapter of his book that he wrote ad Consentium contra Mendacium, saith : " He which saith that some lies are righteous, is to be thought to say nothing else but that some sins are righteous, and so, consequently, that some unrighteousness is righteous : than which what can be spoken more absurd ? For whereupon is sin, but because it is contrary to righteousness ? But those things that are done against the law of God cannot be righteous. Now it is said to God, Thy law is truth ; and therefore that which is against the truth cannot be righteous. But who doubteth but that every lie is against the truth ? Therefore no lie can possibly be righteous2." And so forth as folio weth. Now on the other side, very notable learned men have thought, that Augustine was somewhat too stubbornly set against lying. And therefore some there are, which, going as it were betwixt both, do say, that they (whose examples I alleged even now) were not altogether without all sin ; and yet they suppose, that their fault in those lies was a very small sin. I would wish those, which will allow themselves to lie officiously, to take heed to themselves, lest, by following their own affections more than enough, they do at last take that for an officious lie which is indeed a pernicious lie.
 
 [l Jerome's Epistle on this subject is Ep. 74. Opp. Tom. rv. col. 618-626. Augustine's letters are given in the same place, and in August. Opp. Ep. vni. ix. xi. Tom. n. fol. 8, 9. Par. 1531.]
 
 [2 Nihil autem judicandus est dicere, qui dicit aliqua justa esse mendacia, nisi aliqua justa essc peccata, ac per hoc aliqua justa esse quse injusta sunt. Quo quid absurdius dici potest? Unde enim est peccatum nisi quia justitirc contrarium est ? . . . Ea vero quse contra legem Dei fiunt, justa esse non possunt. Dictum est autem Deo, Lex tua veritas : ac per hoc, quod est contra veritatem justum esse non potest. Quis autem dubitet contra veritatem esse mendacium omne ? Nullum ergo justum esse potest mendacium. — August. Opp. ad Consent. Tom. iv. fol. n. col. 2. Par. 1531.]
 
-JV.] THE NINTH AND TENTH PRECEPTS, &C. 117
+## Jv.] the Ninth and Tenth Precepts, &C. 117
 
 For the last and worst kind of lie is a pernicious lie : and that proceedeth of a corrupt mind, and tendeth to the damage of thy neighbour, which hath deserved no hurt at thy hand. This kind of lie is everywhere cried out upon throughout the scriptures: and the fault thereof increaseth according to the quantity of the mischief that it doth. For divines and ecclesiastical preachers do lie of all other most perniciously, while with lies and corrupt doctrine they kill the souls of men, and make the bodies and goods of silly seduced people both subject to the curse of God and in danger of a thousand perils more. And hereunto belongeth hypocrisy also, which the Lord Jesus doth in the gospel wonderfully taunt and bait exceedingly. Now hypocrisy doth shew itself, not only and so much in crafty and deceitful words, as also, and far more, in the whole conversation of our lives ; as when we make semblance, or else dissemble such things as are not, by that means lying to God and beguiling our neighbour.
 
@@ -88,8 +81,6 @@ iJut we make a ditterence, and do except irom wrongful that image, quarrels such
 
 [3 a-lifc, as my life, exceedingly. Nares* Glossary in voc.]
 
-118 THE THIRD DECADE. [SERM.
-
 of cliidings and chastenings also as preachers use in sacred sermons : for they, which do in that sort chastise and pursue wicked vices and errors, do purpose nothing else but the glory of God and safeguard of men's souls, which they desire to advance by all the means they can, not seeking to utter their spite or wreak the malice of their naughty affections.
 
 But we may gather by many arguments, that it is a heinous crime falsely to slander and wickedly to backbite our
@@ -100,7 +91,7 @@ Backbiting is brethren and neighbours. For there is scarcely any thing perniciou
 
 [2 aut minimum. Lat. omitted: or as gently as possibly may be.]
 
-IV.] THE NINTH AND TENTH PRECEPTS, &C. 119
+## IV.] the Ninth and Tenth Precepts, &C. 119
 
 In this law also it seemeth that flattery is forbidden, Flattery, which, as the proverb doth truly say, maketh a fool mad, and causeth him that is mad to be incurably mad. And therefore Salomon saith, that a flatterer is worthy to be cursed of all men. "They (saith he) which say to the wicked, thou art just, [PTOV. xxiv. shall be cursed of the people, and hated of the tribes." And 24 in another place: "The words of a tale-bearer be as though [Pmv.xxvi. they were simple3, and yet they pierce to the inward parts of the heart. When he speaketh softly, believe him not: for there are seven mischiefs in his heart." And therefore in Ecclesiastes it is very well said: "It is better to hear the rebuke [Eccies. vn. of a wise man than the song of a fool," that is, of a flatterer. And yet, although flattery be so great an evil, it is notwithstanding favoured of all men ; so that as an infecting plague it is crept into4 the church5, into princes' palaces, into judges' courts, and every private house. For, like an alluring mermaid, it hath a song that doth delight our flesh. For we, like fools, are blinded with self-love, and do not mark that flatteries and allurements do breed our destruction. Ezechiel blameth greatly all flattering preachers, and saith: "Woe unto them ^^'un that say unto the people, Peace, peace, when there is no peace; which daub with untempered morter, which sew enticing pillows under every elbow, and put alluring kerchiefs upon every head6, to hunt after and catch souls." Of such kind of teachers, that delight more in lies and flattery than in sincere verity, the apostle Paul saith: "The time shall come [2 Tim. \v. that they shall not abide to hear sound doctrine; but they, whose ears do itch, shall get them teachers according to their lusts, and shall turn their ears from the truth, and shall be turned into fables7." And David, praying against this plague, as the thing that is most pernicious to all kings and princes in authority, doth say : "The righteous shall smite me friendly8: but the precious balms of the wicked shall not anoint my head9." And again, "Lord, deliver me from lying lips and [PS. cxx. 2.]
 
@@ -117,8 +108,6 @@ In this law also it seemeth that flattery is forbidden, Flattery, which, as the 
 [8 et increpabit me, Lat. omitted : and shall reprove me.]
 
 [9 oleum autem peccatoris non impinguabit caput meum, Lat. after the Vulgate, Psal. cxli. 5.]
-
-120 THE THIRD DECADE. [sERM.
 
 The tenth & deceitful tongue." Thus much have I hitherto said for the me^t"ofGod. exposition of the ninth commandment.
 
@@ -142,8 +131,6 @@ Concupiscence, therefore, is a motion or affection of the mind, which of our cor
 
 [4 Indesequitur fere consensus, Lat. Thence follows usually consent.]
 
-122 THE THIRD DECADE. [SERM.
-
 though by degrees the one of them is greater than the other: touching which I will, by God's sufferance, speak somewhat more largely, when I come to the treatise of sin. Wherefore that evil and unlawful affection, which is of our natural corruption, and lieth hid in our nature, but bewrayeth itself in our hearts against the pureness of God's law and majesty, is that very sin, which is in this law condemned. For, although there be some which think that such motions, diseases, blemishes, and affections of the mind are no sins, yet God, by forbidding them in this law, doth flatly condemn them. But if any man doubt of this exposition, let him hear the words
 
 [Rom. vii. of the apostle, who saith : " I knew not sin, but by the law : for I had not known lust, except the law had said, Thou shalt not lust. Without the law sin was dead : I once lived without law ; but when the commandment came, sin revived, and
@@ -164,8 +151,6 @@ And here he doth exactly rehearse the things which we what it \»
 
 [2 Helvetice, Lat., in our Swiss phrase.] [3 honores, Lat. honours.]
 
-124 THE THIRD DECADE. [sERM.
-
 to his hurt or hinderance : or if any man happen to covet them, yet let him not consent to the concupiscence, nor take delight therein ; let him not seek to obtain the thing that he so desireth, nor suffer his ill-conceived purpose to break out to the deed-doing, in taking from his neighbour his things or persons : for God requireth at the hands of those that worship him such kind of righteousness as is altogether sound and absolutely perfect, not in the outward deed alone, but also in the inward mind and settled purpose of the heart. [Matt. v. 20.] Whereupon the Lord in the gospel saith: "Unless your righteousness exceed the righteousness of the scribes and Pharisees, ye shall not enter into the kingdom of God." But touching the manner how God's commandments are fulfilled, and that faith is the absolute righteousness, I will hereafter in another sermon tell you, as I have already said somewhat in the sermon that I made upon true faith.
 
 Hitherto in twelve sermons I have run through and declared the ten precepts of the moral law, in which I told you that the form of virtue is laid before our eyes, thereby to frame our manners according to the will of God. God himself hath divided all the branches of his moral law into two tables. The first doth shew the duty of us men to our Creator, and teacheth how to worship aright our God and governor. The second table, in six whole precepts, doth declare what, and how much, every man is bound to owe to his neighbour, and how we may all live both quietly, well, and civilly one with another. It commandeth us to honour our parents, and all those which God hath ordained instead of our parents. It forbiddeth murder, or doing injury to any man in his life and body. It forbiddeth whoredom, adultery, and wicked lusts, commending wedlock, cleanness, and a continent life1. It forbiddeth lies, false witness-bearings, and evil2 desires; and biddeth us to love our neighbours with all our hearts, being ready at all times with all our power to do them good.
@@ -176,7 +161,7 @@ To God, our Lord and most prudent lawgiver, be all praise and thanks for ever an
 
 [2 et noxias, Lat. omitted : and hurtful.]
 
-OF THE CEREMONIAL LAW OF GOD, BUT ESPECIALLY OF THE PRIESTHOOD, TIME, AND PLACE, APPOINTED FOR THE CEREMONIES.
+## Of the Ceremonial Law of God, but Especially of the Priesthood, Time, and Place, Appointed for the Ceremonies
 
 ---
 [[Bullinger Dec 27 Decade 3, Sermon 3, Part 2|← 27. Decade 3, Sermon 3, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 29 Decade 3, Sermon 5, Part 1|29. Decade 3, Sermon 5, Part 1 →]]

@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Romans 4:1-3
 

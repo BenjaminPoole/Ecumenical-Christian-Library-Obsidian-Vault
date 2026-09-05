@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Mercy for the Meanest of the Flock
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3201
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In that day, says the Lord, will I assemble the lame, and I will gather the outcast, and those whom I have afflicted." Micah 4:6.
 
@@ -95,7 +92,7 @@ Beloved, it is because those who serve God best often feel that they are lame, d
 
 What shall I say to those who know nothing about the Divine Life at all, who, perhaps, are saying, "Well, we never get to limping or doubting. We have a merry time of it"? Yes and so does the butterfly, while the summer lasts, but the winter kills it. Your summer may last a little while, but the chill of death will soon be on you—and then what is there for you but hopeless misery forever and forever? God give you Grace to fly to Jesus now and be saved with an everlasting salvation, through Jesus Christ, our Savior! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MCAH4.
+## Exposition by C. H. Spurgeon: Mcah 4
 
 Verse 1. But in the last days it shall come topass that the mountain ofthe house ofthe LORD shall be established in the top ofthe mountains, and it shall be exalted above the hills and people shall flow unto it [See Sermon #249, Volume 5—a vision OF THE LATTER DAY GLORIES.] God's cause and Kingdom shall
 
@@ -140,7 +137,6 @@ and gather them to Himself, for that would be the fullness of the Gentiles, also
 13\. Arise and thresh, O daughter of Zion: for I will make your horn iron, and I will make your hoofs brass; and you shall beat in pieces many people. She was to be like the ox that treads out the corn and she was to have horns of iron and hoofs of brass with which to break in pieces those that had oppressed her!
 
 13\. And I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth. So that, when they expected to destroy her, she destroyed them! And there may come a day when all the great men and the wise men and the proud men of the world will come together to destroy the Church of Christ, but, oh, how mistaken they will be! For when their pride is at its height, then will the poor weak Church of Christ be suddenly strengthened by the Most High and she shall tread them under her feet and they shall be utterly defeated to the praise of the Glory of the God of Zion who lives forever and ever!
-
 
 ---
 [[Sermon 3200 Faith Justifying Speech|← #3200]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3202 'It Pleased God'|#3202 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Christ Our Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3386
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He is our peace." Ephesians 2:14.
 
@@ -27,7 +24,7 @@ And if the preacher feels that he cannot go on long in the pulpit without preach
 
 There are only four words in the text and, therefore, four things may suffice us for tonight. The first great word, or, at any rate, the second greatest, is the word, "peace," and we shall think for a little while upon that, considering—
 
-I. IN WHAT SENSE WE ARE TO REGARD THE EXPRESSION, "HE IS OUR PEACE."
+## I. In What Sense We Are to Regard the Expression, "He Is Our Peace."
 
 The text compels us to begin with the thought, the Lord Jesus Christ is peace between the Jew and the Gentile. There was an old enmity between these two, an enmity on both sides. The Jew looked down upon the Gentile. He said, "I am of the seed of Abraham, the friend of God—ours are the oracles, ours the true God and the Covenant—as for you Gentiles, you are an idolatrous seed whom God has left, as He did your father, to carry out the devices of your own hearts and to perish in your uncircumcision." The Jew called the Gentile a dog, thought him unclean, would have no friendly dealings with him, considered that uncircumcised men were little better than beasts and scarcely to be written down in the same list as the seed of Israel.
 
@@ -57,7 +54,7 @@ He that has Christ has a peace that passes all understanding! He that has Christ
 
 The next great word in the text worthy of our adoring thought is that little one of two letters only, the pronoun "He." "He is our peace."
 
-II. WHO IS SAID TO BE "OUR PEACE"?
+## II. Who Is Said to Be "Our Peace"?
 
 What are we to understand by the Lord Jesus Christ being our peace? I want you carefully to notice that it does not say that His work on our behalf is the sourceof our peace. That, of course, is true, but here it says, "He is our peace." He, personally—HE—Christ Himself, is the peace of His people! It does not say that He makes our peace, or that He brings us peace. That is very true, most true, but it is a greater Truth that He, Himself, is our peace!
 
@@ -97,7 +94,7 @@ I shall not, however, enlarge farther upon that point, though it is a very fruit
 
 We have only as yet handled two words, but they are two big, colossal words. "Heis our peace." But we must now speak briefly upon those two diamond rivets which fasten Christ and peace together. So we look now at—
 
-III. WHOSE PEACE IS HE?
+## III. Whose Peace Is He?
 
 Notice that word, "our." "He is our peace." To whom, then, is this splendid peace given? Every man that has Christ as his Savior! I have half a mind to ask those who have trusted Christ to be their peace, to say aloud, here and now, "He is our peace." There is a gray-headed man here, and if he were to rise and lean on his staff, he could say, "Yes, blessed be God, without doubt I can say that He is my peace." There is a valiant soldier of Christ yonder, and he would declare boldly, "He is my peace." But I daresay there is some timid Hannah here who would wipe the tears from her face and quietly say, "Yes, He is my peace." And there are some youngsters here, whom the Lord has but lately brought in, and they can say, tremblingly, but yet meaning it from their inmost souls, "He is my peace."It is all the same, whether we are old or young, whether we are advanced in the Divine Life, or are only just in the beginning of it—we have no other peace except the Lord Jesus Christ!
 
@@ -105,7 +102,7 @@ But who are these people who have Christ to be their peace? Well, they are those
 
 I cannot delay upon that, however, for our time is gone and, therefore, I must take that other word—"is."
 
-IV. WHEN IS HE OUR PEACE?
+## IV. When Is He Our Peace?
 
 I know the world says, "I hope He will be my peace." Dear Hearer, do not be satisfied with that! Never be content with "may be," but seek after a present salvation! I was soundly enough asleep the other morning when, about half-past three my bell rang very sharply, and then rang again. And when I put my head out of the window to see who was there, I heard someone say, "Oh, if you please, Sir, there is a poor man dying, and he wants to see you badly! Do come." "Oh, yes, where does he live? I will be there as quickly as I can." And away I went.
 
@@ -115,7 +112,7 @@ to mount! We feel at perfect peace with God right now, and if Death were to come
 
 God grant it for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN11:27-46.
+## Exposition by C. H. Spurgeon: John 11:27-46
 
 Our Lord's greatest miracles were always the reward of faith.
 
@@ -134,7 +131,6 @@ Verse 27. She said unto Him, Yes, Lord I believe that you are the Christ, the So
 40-41. Jesus said unto her, Said I not unto you, that if you would believe, you should see the Glory of God? Then they took away the stone from the place where the dead was laid. And Jesus lifted up His eyes, and said, Father, I thank You that You have heard Me. That is grand praying, is it not? Sometimes we ought to say, "Just so." "Father, I thank You that You have heard me."
 
 42-44. And I knew that You hear Me always, but because of the people which stand by, I said it, that they may believe that You have sent Me. And when He had thus spoken, He cried with a loud voice, Lazarus come forth! Andhe that was dead came forth, bound hand and foot with grave clothes: and his face was bound about with a napkin. He probably slipped himself off from the ledge in the tomb upon which he been laid and there he appeared before them bound so that he could not move farther.
-
 
 ---
 [[Sermon 3385 The Savior's Thirst|← #3385]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]]

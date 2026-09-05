@@ -10,10 +10,9 @@ written: "c. 1720s–1750s (Edwards' private notebooks)"
 tags:
   - jonathan-edwards
 ---
-
 # CONFIRMATION OF THE ANGELS.
 
-[442] SEE .
+*[442] See*
 
 [515] The fall of the angels that fell, was a great establishment and confirmation to the angels that stood. They resisted a great temptation by which the rest fell, whatever that temptation was, and they resisted the entreaties of the ringleaders which drew away multitudes: and the resisting and overcoming great temptation naturally tends greatly to confirm in righteousness. And probably they had been engaged on God’s side in resisting those that fell when there was war and rebellion raised in heaven against God. All the hosts of heaven soon divided, some on one side, and some on the other, and standing for God in opposition and war against those that are his enemies, naturally tended to confirm their friendship to God; and then they saw the dreadful issue of the fallen angels’ rebellion, how much it was to their loss; they saw how dreadful the wrath of God was, which tended to make them dread rebellion, and sufficiently careful to avoid it. They now learnt more highly to prize God’s favour by seeing the dreadfulness of his displeasure; they now saw more of the beauty of holiness, now they had the deformity of sin to compare it with. But when their time of probation was at an end, and they had the reward of certain confirmation by having eternal life absolutely made certain to them, is in some degree uncertain. However, there are many things that make it look exceedingly probable to me, that whenever this was done, it was through the Son of God, that he was the immediate dispenser of this reward, and that they received it of the Father through him.
 

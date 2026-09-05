@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Faith's Way of Approach
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3259
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So then faith comes by hearing, and hearing by the Word of God." Romans 10:17.
 
@@ -41,7 +38,7 @@ Now, there are some who say they wish they could get this faith. They declare th
 
 Albeit faith is the gift of God, it is always the act of man—while faith is a privilege, it is always a natural duty! Men are bid to believe in Jesus and are sinful if they do not believe in Jesus. Where faith does exist, it is the gift of God, but where it does not exist, it is because men will not believe in Him, but shut their eyes to His Light. If they would but see it, that Light of God would convince them!
 
-II. LET US, THEREFORE, CLEAR AWAY SOME DIFFICULTIES WITH REFERENCE TO FAITH.
+## II. Let Us, Therefore, Clear Away Some Difficulties with Reference to Faith
 
 You want faith, you say. You are not a skeptic—you accept the Word of God. You are not one of those who are unsound about the Deity of Christ, you receive that. Still, you cannot, you say, get at faith in Jesus Christ. Listen, then, to these observations.
 
@@ -63,7 +60,7 @@ The religion of Jesus Christ is not a religion of performances. It has its ordin
 
 The text suggests two things, then, as to faith's way of approach. If I want to get faith I must hear, but I must mind whatI hear. And I must mind howI hear.
 
-III. LET US REMEMBER, THEN, THAT FAITH COMES THROUGH THE WORD OF GOD.
+## III. Let Us Remember, Then, that Faith Comes Through the Word of God
 
 Soul, would you have faith? Then mind what it is you hear, for the hearing must be "by the Word of God." Faith comes by hearing, but not by hearing anything and everything! The hearing is "by the Word of God" and only as the preaching is according to the Word of God will God bless it. God never blessed a lie to the creation of a newborn spirit. The Truth of God has vitality in it—only the Word of God is the living Seed in the soul!
 
@@ -87,7 +84,7 @@ To you, Sinner, I would also say hear the preacher who speaks pointedly. Do not 
 
 Take heed what you hear, for if you hear the Word of God preached in the power of the Spirit of God, then faith comes by such hearing!
 
-IV. LET US BE ASSURED THAT FAITH WILL COME BY HEARING.
+## IV. Let Us Be Assured that Faith Will Come by Hearing
 
 If we would get faith, we must take care how we hear, as well as what we hear. The hearing is, itself, almost as important as the preaching. Faith does not come by every sort of hearing. There have been persons who have heard the Gospel for many years, but they have really heard nothing, for it has gone in one ear and out the other. Faith does not come by such hearing!
 
@@ -115,7 +112,7 @@ Now we are going our several ways—what report am I to carry back to my Master,
 
 Young Man yonder, is it nothing to you that Jesus should die? I ask your heart, young Woman, for my dear Lord and Master. And you, old Friend, your life is drawing to its close—it would have been better if you had given Christ the morning of your days—yet He will accept you even now if you will come to Him! May He give you the Divine Grace to rest upon Him, now, to trust Him this very hour! Then, where He is, there shall you be, also, through the efficacy of His great atoning Sacrifice! God grant it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 11.
+## Exposition by C. H. Spurgeon: Hebrews 11
 
 In this Chapter we read of the wonders of faith. But I have never read a Chapter setting forth the wonders of unbelief. Unbelief is barren, impotent, a mere negation, a dead and accursed thing! But faith bears fruit! Faith produces good works! Faith achieves marvels!
 
@@ -174,7 +171,6 @@ ing character—and thus their names are imperishably recorded here. They did no
 39\. And these all, having obtained a good report through faith, received not the promise—They passed away before Christ's day, so they did not see the fulfillment of the promises concerning His coming.
 
 40\. God having provided some better thing for us, that they, without us, shouldnot be made perfect They are waiting up yonder for us! The choirs of Heaven cannot be completed without you and me. Heaven's full complement—the perfect number of the Divine family of love—can never be made up till we who have believed go up yonder to join all those who have had like precious faith! By God's Grace, we shall all be there—that they with us may be made perfect!
-
 
 ---
 [[Sermon 3258 Stumbling at the Word|← #3258]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3260 Spiritual Convalescence|#3260 →]]

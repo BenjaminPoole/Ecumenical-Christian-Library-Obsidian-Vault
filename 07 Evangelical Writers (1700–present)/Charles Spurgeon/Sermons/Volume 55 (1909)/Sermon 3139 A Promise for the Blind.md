@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # A Promise for the Blind
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3139
 
-DELIVERED BY C. H. SPURGEON, AT THE BAPTIST CHAPEL, CHURCH STREET, BLACKFRIARS ROAD, ON TUESDAY EVENING, APRIL 3, 1855..
+*Delivered by C. H. Spurgeon, at the Baptist Chapel, Church Street, Blackfriars Road, on Tuesday Evening, April 3, 1855*
 
 > "Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child, and she that travails with child together: a great company shall return there." Jeremiah 31:8.
 
@@ -130,7 +129,6 @@ Unvarying was the blind beggars' cry—"Have mercy on us, OLord, You Son of Davi
 34\. So Jesus had compassion on them and touched their eyes: and immediately their eyes received sight, and they followed Hi . So—that is, since they thus stated their desire and had so great a need, Jesus had compassion on them, pitying their loneliness in the dark, their deprivation of enjoyment, their loss of power to follow a handicraft and their consequent poverty. He touched their eyes. What hands were those which undertook such lowly fellowship with human flesh and worked such deeds of power! Immediately their eyes received sight. Only a touch and light entered! Time is not necessary to the cures of Jesus. Proof of their sight was at once forthcoming, for they followed Him. We best use our spiritual sight when we look to Jesus and keep close to His heels.
 
 Oh, that the reader, if he is spiritually blind, may ask for the touch of Jesus and receive it at once, for immediately he will receive sight! An inward light will, in an instant, shine forth upon the soul and the spiritual world will become apparent to the enlightened mind! The Son of David still lives and still opens the eyes of the blind! He still hears the humble prayer of those who know their blindness and their poverty. If the reader fears that he, too, is spiritually blind, let him cry unto the Lord at this very instant and he will see what he shall see—and he will forever bless the hand which gave sight to the eyes of his soul!
-
 
 ---
 [[Sermon 3138 Mocking the King|← #3138]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3140 The Glory of Our Strength|#3140 →]]

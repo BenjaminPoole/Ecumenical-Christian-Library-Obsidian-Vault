@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # The Heart Full and the Mouth Closed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1289
-
-DELIVERED BY.
 
 > "And I will establish My Covenant with you; and you shall know that I am the Lord: That you may remember, and be ashamed, and never open your mouth anymore because of your shame, when I am pacified toward you for all that you have done, said the Lord God." Ezekiel 16:62, 63.
 
@@ -146,7 +143,6 @@ Him."
 If you do, you will never regret it, but you will bless God forever and ever, and so shall I! And when we get to Heaven we will talk about it and we will say, "Here we are, a pair of huge, horrible sinners. We came to Jesus Christ and He took us in and, blessed be His name, we will praise Him as long as ever we live." That we will, I guarantee you! Do you not feel sure of it? God bless you, for Christ's sake.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 51. HYMNS FROM "OUR OWN HYMN BOOK"—51,546.
-
 
 ---
 [[Sermon 1288 Truly Eating the Flesh of Jesus|← #1288]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1290 Godly Fear and Its Goodly Consequence|#1290 →]]

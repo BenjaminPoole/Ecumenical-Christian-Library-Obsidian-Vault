@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon X. The death of the righteous. Isaiah lvii. 1, 2
-
-## Sermon X. The death of the righteous.
 
 Preached July 1, 1681.
 
@@ -55,7 +52,6 @@ Why are they taken from the “evil to come”?
 First, That God may bring the evil: ‘I will leave some when the evil comes to be exercised; may be an old man, may be a young man. It waits but till I have gathered some to myself. I cannot bring evil till those lights be gone out and the good figs be carried away. I cannot,’ saith God, ‘bring evil upon Jerusalem till then.’ And they are taken away that evil may come. And, —
 
 Secondly, Which is the most general acceptation, they are taken away that they should not see the evil; as Josiah was taken away by the sword that he might not see the evil. Death by the sword hath no evil in it, in comparison of the evil God will bring upon a people or nation when he comes in a way of judgment. ‘Josiah shall not see the burning of the city and temple, shall not see women eating their own children,’ etc. What is perishing by the sword in comparison of all those temptations wherewith these evils are accompanied? The Lord will take them away, that they shall not see that which hath evil, wrath, distress, in it. They are “taken away from the evil to come.”
-
 
 ---
 [[SJO 112 Sermon IX. National sins and national judgments. Isaiah iii. 8, 9|← Sermon IX. National sins and national judgments. Isaiah iii. 8, 9]] · [[Sermons of John Owen|Contents]] · [[SJO 114 Sermon XI. The humiliation and condescension of Christ. Philippians ii. 5–8|Sermon XI. The humiliation and condescension of Christ. Philippians ii. 5–8 →]]

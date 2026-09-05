@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 21. No. XIV. On the Title of Sir, Applied to Priests
 
 ## No. XIV.
 
-ON THE TITLE OF SIR, APPLIED TO PRIESTS.
+## On the Title of Sir, Applied to Priests
 
 At this period, in England as well as in Scotland, the title of Sir was usually applied to Priests, obviously derived from the Latin *Dominus* . But the origin of this application, or rather the peculiar class of the Priesthood to whom it was applicable, has not been well defined. It was to distinguish them from persons of civil or military knighthood that they were popularly called Pope's Knights, and not as some writers have supposed, because the title was conferred on the secular clergy by the Bishop of Rome. In the account of the trial of Walter Myln, who was burnt for heresy in 1558, (see this Appendix, No. XIII.) it is related, that when his accusers addressed him as "Sir Walter Myln," he answered, "And where you call me Sir Walter, they call me Walter, and not Sir Walter: *I have been ouer long one of the Pope's Knightes.* " Sir David Lyndesay says,—
 

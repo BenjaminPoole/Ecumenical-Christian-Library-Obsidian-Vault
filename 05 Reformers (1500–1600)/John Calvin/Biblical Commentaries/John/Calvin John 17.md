@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 17
 
-**CHAPTER 17**
+***Chapter 17***
 
 ## John 17:1-5
 

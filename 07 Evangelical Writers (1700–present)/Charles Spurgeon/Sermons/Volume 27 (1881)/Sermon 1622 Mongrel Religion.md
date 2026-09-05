@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Mongrel Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1622
@@ -77,8 +76,7 @@ I hate to utter such language even for the sake of exposing it; but what must Go
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’2 Kings 17:24-41; Psalm 62.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’63, 655, 809.
-
+## Hymns from ‘Our Own Hymn Book’’63, 655, 809
 
 ---
 [[Sermon 1621 The Ark of the Covenant|← #1621]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1623 Wholehearted Religion|#1623 →]]

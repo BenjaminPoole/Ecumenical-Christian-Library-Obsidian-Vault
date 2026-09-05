@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Obedience Better Than Sacrifice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 686
 
-DELIVERED BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > 1 Samuel 15:2.
 
@@ -138,7 +137,6 @@ Or thorns compose so rich a crown?
 There must be merit in such mighty agonies! If you trust in the merits of that precious blood you shall one day be with Him in Paradise. God give you Divine Grace to trust Jesus, to trust Jesus now, and then we shall meet again where they sing, "Unto Him that loved us, and washed us from our sins in His own blood, be glory forever and ever. Amen."
 
 "Behold the Lamb of God! Behold, believe and live! Behold His all-atoning blood, And life receive. Look from yourself to Him, Behold Him on the tree! Though the eye of faith be dim He looks on you. That meek, that languid eye, Turns from Himself away, Invites the trembling sinner near, And bids him stay. Stay with Him near the tree. Stay with Him near the tomb. Stay till the risen Lord you see. Stay 'till He comes."
-
 
 ---
 [[Sermon 0685 Heedlessness In Religion|← #685]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0687 Messengers Wanted|#687 →]]

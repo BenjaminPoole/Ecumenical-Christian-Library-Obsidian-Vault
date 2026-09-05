@@ -9,7 +9,6 @@ tags:
   - wesley
   - wesley-poetry
 ---
-
 # Hymns and Sacred Poems (1739) — Part II
 
 ## Christ the Friend of Sinners
@@ -278,13 +277,6 @@ Saviour, who shall pluck me thence?
 Faith supports, by faith I stand  
 Strong as Thy omnipotence.
 
-O filial Deity,  
-Accept my new-born cry!  
-See the travail of Thy soul,  
-Saviour, and be satisfied;  
-Take me now, possess me whole,  
-Who for me, for me hast died!
-
 ## Hymn to the Holy Ghost
 
 Hear, Holy Spirit, hear,  
@@ -356,13 +348,6 @@ Arm of God, to Thee I call,
 Weak as helpless infancy!  
 Weak I am—yet cannot fall,  
 Stay’d by faith, and led by Thee!
-
-Hear, Holy Spirit, hear,  
-My inward Comforter!  
-Loosed by Thee, my stammering tongue  
-First essays to praise Thee now;  
-This the new, the joyful song:  
-Hear it in Thy temple Thou!
 
 ## Praise
 
@@ -1773,13 +1758,6 @@ But who is This that comes from far,
 Whose garments roll’d in blood appear?  
 ’Tis God made man, for man to die!
 
-O God, of good the unfathom’d Sea,  
-Who would not give his heart to Thee?  
-Who would not love Thee with his might?  
-O Jesu, Lover of mankind,  
-Who would not his whole soul and mind  
-With all his strength to Thee unite?
-
 ## God’s Greatness
 
 *From the same.*
@@ -2516,13 +2494,6 @@ With clearer light Thy witness bear;
 More sensibly within me live:  
 Let all my powers Thy entrance feel,  
 And deeper stamp Thyself the seal.
-
-Come, Holy Ghost, all-quickening fire,  
-Come, and in me delight to rest!  
-Drawn by the lure of strong desire,  
-O, come, and consecrate my breast:  
-The temple of my soul prepare,  
-And fix Thy sacred presence there!
 
 ## On the Descent of the Holy Ghost at Pentecost
 

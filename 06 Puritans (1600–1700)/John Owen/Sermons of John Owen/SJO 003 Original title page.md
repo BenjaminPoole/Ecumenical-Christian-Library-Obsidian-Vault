@@ -9,10 +9,9 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Original title page
 
-AMPLISSIMO
+*Amplissimo*
 
 SENATUI,
 
@@ -30,7 +29,7 @@ JUSTITIAM FORTITER, ἴσως, ἐπιεικῶς, ἀπροσωπολήπτω�
 
 RITUS PONTIFICIOS, NOVITIOS, ANTICHRISTIANOS ABOLITOS; PRIVILEGIA PLEBIS CHRISTIANÆ POSTLIMINIO RESTITUTA;
 
-POTISSIMUM
+## Potissimum
 
 PROTECTIONEM DEI O. M. HIS OMNIBUS, ALUSQUE INNUMERIS, CONSILIO, BELLO, DOMI, FORAS GILATIOSE POTITAM;
 
@@ -42,8 +41,7 @@ CONCIONEM HANC SACRAM, HUMILEM ILLAM QUIDEM, IPSORUM TAMEN VOTO JUSSUQUE PRIUS C
 
 D.D.C.
 
-JOANNES OWEN.
-
+## Joannes Owen
 
 ---
 [[SJO 002 Prefatory note|← Prefatory note]] · [[Sermons of John Owen|Contents]] · [[SJO 004 Imprimatur|Imprimatur →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Lamentations 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Lamentations 2:1
 
@@ -50,7 +49,7 @@ This profanation of the kingdom, and of the princes, corresponds with the former
 
 ## Prayer Lecture 4
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thou settest before us at this day those ancient examples by which we perceive with what heavy punishments thou didst chastise those whom thou hadst adopted, — O grant, that we may learn to regard thee, and carefully to examine our whole life, and duly consider how indulgently thou hast preserved us to this day, so that we may ever patiently bear thy chastisements, and with a humble and sincere heart flee to thy mercy, until thou be pleased to raise up thy Church from that miserable state in which it now lies, and so to restore it, that thy name may, through thine only-begotten Son, be glorified throughout the whole world. — Amen.
 
@@ -135,7 +134,7 @@ He then says that God had *destroyed and broken her bars*; for no doubt the gate
 
 ## Prayer Lecture 5
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that since so many tokens of thy wrath meet us at this day, we may without delay return to thee, and so submit to thee in true repentance, as to strive at the same time to be reconciled to thee; and as a Mediator has been given to us to lead us to thee, — O grant that we may by a true faith seek him, and follow wherever he may call us, that having been purified from all pollution’s, we may be glorified by thee our Father, and may so call on thee, that we may find thy grace present in all our evils. Amen. —
 
@@ -227,7 +226,7 @@ While, then, the false prophets promised impunity to the people, they were flatt
 
 ## Prayer Lecture 6
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that though thou chastisest us as we deserve, we may yet never have the light of truth extinguished among us, but may ever see, even in darkness, at least some sparks, which may enable us to behold thy paternal goodness and mercy, so that we may especially be humbled under thy mighty hand, and that being really prostrate through a deep feeling of repentance, we may raise our hopes to heaven, and never doubt but that thou wilt at length be reconciled to us when we seek thee in thine only-begotten Son. — Amen.
 
@@ -329,7 +328,7 @@ And a similar passage we have before observed in our Prophet. (Jeremiah 10:25.) 
 
 ## Prayer Lecture 7
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that as thy Church at this day is oppressed with many evils, we may learn to raise up not only our eyes and our hands to thee, but also our hearts, and that we may so fix our attention on thee as to look for salvation from thee alone; and that though despair may overwhelm us on earth, yet the hope of thy goodness may ever shine on us from heaven, and that, relying on the Mediator whom thou hast given us, we may not hesitate to cry continually to thee, until we really find by experience that our prayers have not been ill vain, when thou, pitying thy Church, hast extended thy hand, and given us cause to rejoice, and hast turned our mourning into joy, through Christ our Lord. — Amen.
 

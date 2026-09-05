@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Why Some Seekers Are Not Saved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2411
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold the Lord's hand is not shortened, that it cannot save; neither His ear heavy, that it cannot hear: but your iniquities have separated between you and your God, and your sins have hid His face from you, that He will not hear." Isaiah 59:1,2.
 
@@ -99,7 +96,7 @@ And then I understand that while he lived so, there could be no peace between hi
 
 But that life consists, in great measure, in being healed of sin—and you cannot continue a foul life and yet be washed in the Savior's blood! It is a contradiction in terms and a contradiction in fact. As I shall meet you, my Hearers, at the bar of God—and as a dying man who may never speak to you again, I thought that I would put this truth in such a way that, if I went home to bed to die, I should not have the blood of any of you resting upon my hands. I beseech you, by eternity, by Heaven, by Hell—and there is a Hell—let the smooth-tongued liars of this age say what they will—by Heaven, by Hell, and by your own immortality, fly to Christ, give up your sin and be saved by believing in Jesus even now! God grant it! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH58.
+## Exposition by C. H. Spurgeon: Isaiah 58
 
 Verse 1. Cry aloud, spare not, lift up you voice like a trumpet and show My people their transgression, and the house of Jacob their sins. See, Friends, how uninterested men are by nature? God's messengers must not only speak, they must speak very forcibly—they must speak as with the sound of a trumpet before men will hear them! Among the most uninterested of all are those who think themselves God's people, but who are not really and spiritually so. It is hard to reach the common sinner, but it is harder, still, to reach the baptized sinner, the man who professes to be a Christian, but who has only the name to live while he is spiritually dead.
 
@@ -142,7 +139,6 @@ Lord?
 13\. 14. If you turn away your foot from the Sabbath, from doing your pleasure on My holy day; and call the Sabbath a delight, the holy of the LORD, honorable; and shall honor Him, not doing your own ways, nor finding your own pleasure, nor speaking your own words: then shall you delight yourself in the LORD. There is no doubt that a reverent, happy, joyful keeping of the Sabbath ministers greatly to spiritual advancement. Here is the promise made to those who delight in the Sabbath—
 
 14\. And I will cause you to ride upon the high places of the earth, and feed you with the heritage of Jacob your father: for the mouth of the LORD has spoken it. God help us to be observant of the precepts of this chapter that its promises may be blessedly fulfilled in our experience! Amen.
-
 
 ---
 [[Sermon 2410 Springtime in Nature and Grace|← #2410]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2412 A Special Benediction|#2412 →]]

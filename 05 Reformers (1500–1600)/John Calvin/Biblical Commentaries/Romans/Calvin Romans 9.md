@@ -10,10 +10,9 @@ written: "1540"
 tags:
   - calvin-commentaries
 ---
-
 # Romans 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## Romans 9:1-5
 

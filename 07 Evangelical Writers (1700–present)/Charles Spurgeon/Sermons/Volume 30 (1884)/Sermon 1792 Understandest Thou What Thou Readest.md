@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Understandest Thou What Thou Readest?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1792
@@ -51,7 +50,7 @@ Oh, that you would also understand the second half of Isaiah's verse, *"The Lord
 
 Such an exaction would be a strange confusion and destruction of both love and justice. Such injustice can never be. This is how you are to get rid of your sin. *You* cannot bear it, but Christ bore it; you are to accept Christ as your Sin-bearer, and then you may know that your sins have gone, that the depths have covered them; that there is not one of them left. I sometimes think if men did but understand this they would be sure to accept the Lord Jesus. I heard of a minister in Edinburgh who went to visit one of his poor people. He heard that she was in deep poverty, and therefore he went to take her help. When he came to her house, he could not make anybody hear, though he knocked loud and long. Seeing her some time after, he said, "Janet, I knocked at your door with help for you, but you did not hear me." "What time did you come, Sir?" said she. "It was about twelve o'clock." "Oh," she said, "I did hear you, Sir, but I thought it was the man calling for the rent." Just so. Men do hear the calls of Christ, but they are wilfully deaf, because they think be wants them to do something. But he does not want anything of you; he wants you to receive what he has already done. He comes laden with mercy, with his hands full of blessing, and he knocks at your door: you have only to open it and he will enter in, and salvation will enter with him. Say, "Come in, thou Traveller unknown! What hast thou in thy hands? I gladly accept what thou dost bring." Will not some young man here, who has thought religion to be a hard exaction, change his mind, now that he understands that it is a bountiful boon? Salvation is a gift—a free gift of God. "Whosoever will, let him take the water of life freely." The Savior lifts sin from men to himself, and then makes an end of that sin once for all by his death upon the cross. Oh, hear you this, ye guilty ones: there is fall salvation presented to you in the word of God—salvation from every sort of evil! You shall be helped to overcome every bad passion, to conquer every evil habit, to be masters of your own minds, and lords of your own spirits. The Lord Jesus Christ, if you accept him, will come into your heart, and turn out his enemy and yours, and he will reign in you from this time forth and for ever, until he has made you perfect, and fit to dwell with himself in glory. Oh, that you understood this vital point; "All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all"!
 
-II. WHAT IS THE TEST OF A MAN'S UNDERSTAXDING HIS BIBLE, AND OF UNDERSTANDING THIS PASSAGE IN IT?
+## II. What Is the Test of a Man's Understaxding His Bible, and of Understanding This Passage in It?
 
 I answer that the test of a man's understanding this important part of Scripture is that *Jesus Christ is everything to him:* for Philip, who did understand it, when he explained it, preached unto the eunuch Jesus and nothing else. I try with all my might to preach my Lord Jesus Christ, and I love to meet with people who delight in this theme. Certain critics call upon us to preach something fresh. This also will I do, for I will preach Jesus, and he is always fresh: there is nothing stale in him, he has for ever the dew of his youth.
 
@@ -95,8 +94,7 @@ When we meet in heaven we shall praise the Lord for making us understand what we
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Acts 8:26-40.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—478,483,486.
-
+## Hymns from "Our Own Hymn Book"—478,483,486
 
 ---
 [[Sermon 1791 Helps to Full Assurance|← #1791]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1793 The Glory in the Rear|#1793 →]]

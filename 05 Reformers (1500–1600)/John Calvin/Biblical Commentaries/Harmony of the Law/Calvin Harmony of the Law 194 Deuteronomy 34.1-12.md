@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 194. Deuteronomy 34:1-12
-
-**Deuteronomy 34**
 
 **1.** And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho: and the Lord showed him all the land of Gilead, unto Dan,
 
@@ -60,7 +57,7 @@ It needs not that I expound at any length, what is added respecting the solemn m
 
 **10** *And there arose not a prophet.* This eulogy seems to have been added, that the children of Abraham might place dependence on Moses until the manifestation of Christ; for although prophets were from time to time raised up, still it was fitting that the superiority should remain with Moses, lest they should decline in the smallest degree from the rule of the Law. It must be concluded, therefore, that Moses was here placed in a position of supremacy, so as to be superior to all the prophets; as also Malachi (Malachi 4:4) exhorts the ancient people, in order that they may continue obedient to the law of Moses. Two signs of his excellency are here recorded, namely, his familiar acquaintance with God, and the glory of his miracles. We have elsewhere seen that, by this prerogative, Moses was distinguished from the other prophets, that God spake to him face to face. For, although Jacob makes the same declaration respecting himself, still we know that God was more intimately revealed afterwards to Moses; not indeed that He beheld His glory in its perfection, but because*,* in comparison with others, he went beyond them all. As regards miracles, though they were wrought by others, still none of them came near to Moses in their performance.
 
-**END OF COMMENTARIES ON THE FOUR LAST BOOKS OF MOSES, IN THE FORM OF A HARMONY.**
+## **End of Commentaries on the Four Last Books of Moses, in the Form of a Harmony.**
 
 ---
 [[Calvin Harmony of the Law 193 Deuteronomy 33.1-29|← 193. Deuteronomy 33.1-29]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Law/harmony-of-the-law-index|Contents]]

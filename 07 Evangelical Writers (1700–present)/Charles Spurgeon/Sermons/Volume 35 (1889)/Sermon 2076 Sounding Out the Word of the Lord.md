@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Sounding Out the Word of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2076
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 24, 1889,.
+*Delivered on Lord's Day Morning, March 24, 1889*
 
 > "For from you sounded out the Word of the Lord not only in Macedonia and Achaia but also in everyplace your faith to God-ward is spread abroad; so that we need not to speak anything." 1 Thessalonians 1:8.
 
@@ -166,7 +165,6 @@ with love. May the water in the trenches be licked up by the flame and the whole
 May the substitutionary sacrifice of Christ triumph in the midst of the earth and become, as it always has been, the Truth by which the Glory of the Lord shall be revealed! The Lord grant it. Labor, all of you to secure it.
 
 I have not preached to sinners. I leave that, for once, to you. I lay on you this burden—that you each one make the Word of the Lord to sound out "so that we need not to speak anything." God grant it may be so, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2075 Our Lord's Entrance Within the Veil|← #2075]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2077 The Gospel of the Glory of Christ|#2077 →]]

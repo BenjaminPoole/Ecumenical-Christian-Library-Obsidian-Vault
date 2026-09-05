@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A Refreshing Canticle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2794
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We will remember Your love more than wine." Solomon's Song 1:4.
 
@@ -109,7 +106,7 @@ You!
 
 IV. Lastly, I would put before you A FEW PRACTICAL SUGGESTIONS AS TO PRESERVING A DEEPER
 
-AND MORE SINCERE REMEMBRANCE OF CHRIST'S LOVE.
+## And More Sincere Remembrance of Christ's Love
 
 The old Puritan divines frequently compared their hearers to the Egyptian dog that ran to the Nile and drank and then ran away. They came up to the meeting house and heard the minister, took a little sip of the Gospel, which sufficed them, and then they were off! One preacher said that he wished they were like the fishes—not come and lap at the stream, as the dog did, but swim in it and live in it! There are too many, in this age, who are content with hearing a little of Christ's love—a sip by the way is all that they seem to need. But it would be far better if you could come up to Rutherford's ideal—"I would have my soul sunk over its masthead in a sea of love to Christ. I would be sunk 50 fathoms deep in the mighty shoreless ocean of His love so that there might be nothing left of me, and that I might be swallowed up in love to Christ—and in Christ's love to me."
 
@@ -132,7 +129,6 @@ Let me add one more direction. When any of you meet together, it is always a goo
 some theme for their conversation not quite sacred, nor wholly secular. I would advise you to talk more about the Lord Jesus Christ than you have been—you will be less likely to forget His love if you are often talking of Him. Let the music of His name ring in your ears all the day long—and if you would have it ring in your ears, it must ring from your tongue! Whenever you have the opportunity, tell out the marvelous story of His great love to you and so will your own memory be refreshed and others, listening to your testimony, will also get a large and, it may be, an everlasting blessing!
 
 May God now grant to you, my dear Hearers, that you may retain a sense of Christ's love to you if you have ever enjoyed it! If you never have, may God now give it to you! If you have never come to Christ, come to Him now! Remember that Jesus loves sinners. Those who are now farthest from Him, when they once return to Him, shall know that He loves them. If you, "take with you words," and come to Him, groaning and sighing, He will not cast you out. He stands now with open arms and freely invites you! Come to Him, I beseech you. As His ambassador, I entreat you to come. If you do so, He will fold you to His bosom. All that the heirs of Heaven can have, you shall have! All that the glorified saints are now enjoying shall yet be your privilege, also! You shall one day walk with Christ in white, and see His face, and be with Him in Paradise and be blessed throughout eternity! May God grant us His Grace, now, that our text may become the cheerful sonnet of our experience—"We will remember Your love more than wine."
-
 
 ---
 [[Sermon 2793 Five Divine Declarations|← #2793]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2795 The Double Drawing Near|#2795 →]]

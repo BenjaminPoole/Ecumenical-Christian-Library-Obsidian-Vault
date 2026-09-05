@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # Our Manifesto
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2185
 
-DELIVERED ON FRIDAY MORNING, APRIL 25, 1890..
+*Delivered on Friday Morning, April 25, 1890*
 
 > Galatians 1:11.
 
@@ -130,7 +129,6 @@ Let us also conclude from our subject that if these things come to us from God, 
 When invaders had surrounded Rome and all the country lay at their mercy, a piece of land was to be sold and a Roman bought it at a fair value. The enemy was there, but he would not be dislodged. The enemy might destroy the Roman State. Let him try it! Be you of the same mind! The God of Jacob is our Refuge and none can stand against His eternal power and Godhead. The everlasting Gospel is our banner and, with Jehovah to maintain it, our standard never shall be lowered! In the power of the Holy Spirit, the Truth of God is invincible! Come on, you hosts of Hell and armies of the aliens! Let craft and criticism, rationalism and priestcraft do their best! The Word of the Lord endures forever—even that Word which, by the Gospel, is preached unto men!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 4
-
 
 ---
 [[Sermon 2184 A Private Enquiry|← #2184]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2186 Our Expectation|#2186 →]]

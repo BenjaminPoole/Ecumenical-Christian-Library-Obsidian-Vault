@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule IX. Free contribution and communication of temporal things to them that are poor indeed, suitable to their necessities, wants, and afflictions
-
-Rule ix. Free contribution and communication of temporal things to them that are poor indeed, suitable to their necessities, wants, and afflictions.
 
 1 John iii. 17, 18, “Whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? My little children, let us not love in word, neither in tongue; but in deed and in truth.”
 
@@ -53,7 +50,6 @@ Motives to this duty are:—
 5\. The promise annexed to it, Eccles. xi. 1; Prov. xix. 17; Deut. xv. 10; Matt. x. 42.
 
 The way whereby it is to be done is by appointing some, Acts vi. 1–6, to take what is voluntarily contributed by the brethren, according as God hath blessed them, on the first day of the week, 1 Cor. xvi. 2, and to distribute to the necessity of the saints, according to the advice of the church; besides private distributions, wherein we ought to abound, Matt. vi. 3; Heb. xiii. 16.
-
 
 ---
 [[ECFC 20 Rule VIII. Tender and affectionate participation with one another in their|← Rule VIII. Tender and affectionate participation with one another in their several states and conditions, — bearing each other’s burdens]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 22 Rule X. To mark diligently and avoid carefully all causes and causers of|Rule X. To mark diligently and avoid carefully all causes and causers of divisions; especially to shun seducers, false teachers, and broachers of heresies and errors, contrary to the form of wholesome words →]]

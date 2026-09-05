@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Lecture First
 
@@ -47,7 +46,7 @@ He does not repeat the *copula* which was placed at the beginning of the first v
 
 ## Prayer Lecture 1
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou didst bless thy people with the continued grace of thy Spirit when it was cast out of its inheritance, and didst raise up a Prophet even from the lowest depths, who should recall it to life when it was all but despaired of — O grant, that although the Church in these days is miserably afflicted by thy hand, we may not be destitute of thy consolation, but show us, through thy pity, that life may be looked for even in the midst of death; so that we may bear all thy chastisements patiently, until thou shalt show thyself’ our reconciled Father, and thus at length we may be gathered into that happy kingdom, where we shall enjoy our full felicity, in Jesus Christ our Lord. — Amen.
 
@@ -104,7 +103,7 @@ He says *the wings were conjoined,* which he soon more clearly explains: for he 
 
 ## Prayer Lecture 2
 
-**PRAYER.**
+## **Prayer.**
 
 Almighty God, since by our dullness we are so fixed down to earth that, when thou stretchest forth thine hand to us, we cannot reach forth to thee, grant, that being roused up by thy Spirit, we may learn to raise our affections to thee, and to strive against our sluggishness, until by a nearer approach thou mayest become so familiarly known to us, that at length we may arrive at the fruition of full and perfect glory laid up for us in heaven, through Jesus Christ our Lord. Amen.
 
@@ -162,7 +161,7 @@ Now the Prophet uses the plural number, and says, there were four wheels. He say
 
 ## Prayer Lecture 3
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, O Almighty God, since thou wishest us to be subject to so many changes, that we cannot settle on earth with quiet minds — grant, I pray thee, that, being subject to so varying a condition, we may seek our rest in heaven, and always aspire to behold thy glory, so that what our eyes cannot discern may shine upon us from thence; and may we so acknowledge thy hand and power in the government of the whole world, that we may repose upon thy paternal care till we arrive at the enjoyment of that happy rest Which has been acquired for us by the blood of thine only begotten Son. — Amen.
 
@@ -228,7 +227,7 @@ He says, *when they walked,* because there was no other motion, for he said that
 
 ## Prayer Lecture 4
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty *God,* that though we have wandered far from thee, we may be taught by thy word, and hold on in the right way of approach to thyself, and by faith contemplate what is otherwise hidden from us, and thus depend entirely on thee. May we so rely on thy providence, as not to doubt our perfect safety while our life and salvation are in thy care, so that while tossed about by various storms we may remain quiet, until at length we enjoy that blessed and eternal rest which thou hast prepared for us in heaven by Jesus Christ our Lord. Amen.
 
@@ -283,7 +282,7 @@ At length he says, *this was a vision of the likeness of the glory of Jehovah,* 
 
 ## Prayer Lecture 5
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, O Almighty God, since of thine unbounded goodness, thou hast counted us worthy of such honor as to descend to earth in the person of thine only-begotten Son, and to appear familiarly to us daily in thy gospel, in which we contemplate thy living image: — grant, I pray thee, that we may not abuse so great a benefit to vain curiosity, but may be truly transformed into thy glory, and so proceed more and more in the renewal of our mind and conduct, that we may at length be gathered to that eternal glory which has been obtained for us by thine only-begotten Son our Lord. Amen.
 

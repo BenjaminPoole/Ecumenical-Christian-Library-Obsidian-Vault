@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # "What Shall the Harvest Be?"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2632
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For they have sown the wind, and they shall reap the whirlwind: it has no stalk: the bud shall yield no meal: if it should produce, strangers shall swallow it up." Hosea 8:7.
 
@@ -111,7 +108,7 @@ Gathered in time, or eternity,
 
 Sure, ah, sure, will the harvest be!"
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS 5:13-26; GALATIANS 6:1-10.
+## Exposition by C. H. Spurgeon: Galatians 5:13-26; Galatians 6:1-10
 
 Remember, beloved Brothers and Sisters, that the Epistle to the Galatians is one in which Paul, with especial clearness, proves the Doctrine of Justification by Faith Alone. So much is this the case that the famous Commentary of Martin Luther upon this Epistle is, perhaps, the strongest work extant upon the Doctrine of salvation by Grace through faith. But that doctrine was never intended to be separated from the Scriptural teaching concerning the fruit of faith, namely, good works and, therefore, we find, in the close of this very Epistle, the strongest possible declaration that if men live in sin, they will reap the result of sin—and that only if, by Grace, they are brought to walk in holiness, will they win the rewards of Grace.
 
@@ -168,7 +165,6 @@ Galatians 6:1. Brethren, if a man is overtaken in a fault. He is a slow traveler
 8\. But he that sows to the Spirit shall ofthe Spirit reap life everlasting. No corruption shall come to that which belongs to the Spirit! "He that sows to the Spirit shall of the Spirit reap life everlasting."
 
 9, 10. And let us not be weary in well doing: for in due season we shall reap if we faint not As we have therefore opportunity, let us do good unto all men, especially unto them who are ofthe household of faith.
-
 
 ---
 [[Sermon 2631 Israel's Cry and God's Answer|← #2631]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2633 The Two Pivots|#2633 →]]

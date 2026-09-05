@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Good News For Thirsty Souls
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1549
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 4, 1880,.
+*Delivered on Lord's-Day Morning, July 4, 1880*
 
 > "I will give unto him that is thirsty of the fountain of the water of life freely." Revelation 21:6.
 
@@ -134,7 +133,6 @@ Him."
 If this is your true act, dear Hearer, you are a saved man! Even if you only believed a minute ago, you have passed from death to life! The moment a sinner believes, he is justified! The atoning blood operates the moment faith sees it. O you who have but this instant believed, go your way and rejoice! You are in the hands of Jesus and none can pluck you from Him!
 
 I have thus tried to preach a very plain sermon, containing the A B C of the Gospel. I believe that God will bless it to the conversion of many. I shall be terribly disappointed if He does not. I have entreated Him to let His own message have free course and mighty effect and I know that He will hear me. I beg God's people to pray that this sermon may enclose within the Gospel net more fish than ever we have had before! Some of you seekers have, up to now, thought the door of mercy to be bolted against you. Look! It stands wide open! Come and welcome! If any softness of feeling is stealing over you, let it work while you gladly yield. Do not talk nonsense on the way home and so lose the effect of the discourse. Hasten to your chambers, fall upon your knees and rise not till you have accepted Jesus as your own Savior. If you do so, salvation will have come to your house this day and God will be glorified. Amen and amen!
-
 
 ---
 [[Sermon 1547 Samuel and the Young Man Saul|← #1547]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1550 The Unspeakable Gift|#1550 →]]

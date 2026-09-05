@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # 'Marvelous Loving Kindness'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2702
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Show Your marvelous loving kindness." Psalm 17:7.
 
@@ -107,7 +104,7 @@ One other meaning of the text may be show Your "marvelous loving kindness" to me
 
 III. So, thirdly, dear Friends, I remark that IT SHOULD BE OUR DESIRE—and there are times when it should especiallybe our desire—TO SEE THIS "MARVELOUS LOVING KINDNESS" OF GOD DISPLAYED TO US IN ITS
 
-MARVELOUSNESS.
+## Marvelousness
 
 I will make plain to you what I mean directly and, first, we would see it as pardoning great sin. I expect we have here, in this assembly, at least one whose sin lies very heavy on his conscience. We do not find many such people come out to week-evening services, but yet I thank God that they do come. Your sin is very great, dear Friend. I cannot exaggerate it because your own sense of its greatness far surpasses any descriptions I could give. You feel that if God were to pardon you, it would be a marvelous thing. If He were, in one moment, to take all your guilt away and to send you home completely forgiven, it would be a marvelous thing! Yes, it would. And I beg you to pray this prayer, "Lord, show forth Your marvelous loving kindness in me." God is constantly doing wonders. Then, glorify His name by believing that He can work this miracle of mercy for you. Do not be afraid to sing—
 
@@ -161,7 +158,7 @@ Out of the world's wide wilderness.'— "Lord, make it yet smaller, screw us up 
 
 I don't think any of you can pray that prayer! You shall, if you like, but for my part, I mean to pray, and I hope many of you will join me in it, and may God hear us—"Show us Your marvelous loving kindness!" Oh, for some new miracle of mercy to be worked in the earth! Oh, for some great thing to be done, such as was done of old! Shall it be so, or not? On this promise it shall depend—"Open your mouth wide, and I will fill it." But if our mouths are not open, we cannot expect to get the blessing. "According to your faith be it unto you." The Lord grant that our faith may expect to see His "marvelous loving kindness" displayed yet more and more! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM17.
+## Exposition by C. H. Spurgeon: Psalm 17
 
 Verse 1. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goes not out of deceitful lips. Good men are often slandered and misunderstood and, at such times, the first verse of this Psalm will well fit their lips. "Hear the right, O Lord." And, at all times, it is a great blessing when a supplicant can say to God, "Give ear unto my prayer, that goes not out of deceitful lips." It must be a dreadful thing to pray with lips that do not speak the truth! When men's thoughts are far away from their prayers, and they are muttering pious words but their heart is absent, what a mockery it must be in the sight of God! A dead prayer—who will claim it? Beware of dead prayers. You may dress them up as finely as you like, but, if there is no life in them, what good are they?
 
@@ -180,7 +177,6 @@ city of London, and all over the world—and it is only by taking heed to our wa
 13-15. Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is Your sword: from men which are Your hand, O LORD, from men of the world, which have their portion in this life, and whose belly You fill with Your hidden treasure: they are full of children, and leave the rest of their substance to their babes. As for me— "What do I possess? What is my portion? Am I full of substance, like the men of the world, or have I little of this world's wealth? It is of small consequence, for, 'as for me'"—
 
 15\. I will behold Your face in righteousness: I shall be satisfied, when I awake, with Your likeness. That is our portion! God grant that we may prize it more and more! Amen.
-
 
 ---
 [[Sermon 2701 Jesus Joyfully Received|← #2701]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2703 The Preservation of Christians in the World|#2703 →]]

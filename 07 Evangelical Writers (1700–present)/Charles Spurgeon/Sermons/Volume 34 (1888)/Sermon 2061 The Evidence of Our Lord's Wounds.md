@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Evidence of Our Lord's Wounds
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2061
@@ -87,9 +86,9 @@ And as for those who do not trust him, what shall I say? The Lord help you to do
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 20:18-31.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’785, 937, 282.
+## Hymns from "Our Own Hymn Book"’785, 937, 282
 
-**LETTER FROM MR. SPURGEON**
+## **Letter from Mr. Spurgeon**
 
 BELOVED READERS,’Thanks be unto God for thirty-four volumes of sermons thus completed. May they continue to be blest of God long after the preacher and his present readers have entered into rest. The speaker is still laid aside by weakness, but the word of the Lord never loses its power. His voice can only be heard of a few thousands, but the printed page will talk to multitudes. Let us pray that the still small voice of the Holy Spirit may sound in the heart of readers for many generations to come.
 
@@ -97,10 +96,9 @@ A book may enclose the spikenard of a truth, which, when forgotten, it shall giv
 
 Yours in Christ Jesus,
 
-C. H. SPURGEON.
+## C. H. Spurgeon
 
 Mentone, Dec. 20th, 1888.
-
 
 ---
 [[Sermon 2060 The Messages of Our Lord's Love|← #2060]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]]

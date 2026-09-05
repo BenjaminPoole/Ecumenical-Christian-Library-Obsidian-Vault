@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Speak For Yourself—a Challenge!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1393
 
-DELIVERED ON LORD'S-DAY EVENING, DECEMBER 9, 1877,.
+*Delivered on Lord's-Day Evening, December 9, 1877*
 
 > "He is of age; ask him: he shall speak for himself." John 9:21
 
@@ -83,7 +82,7 @@ If your gratitude to Him is always at its full heat, I am not afraid but wheneve
 
 Maintain the honor of His Word, The glory of His Cross."
 
-III. EVERY SAVED MAN AND WOMAN SHOULD WILLINGLY SPEAK FOR HIMSELF ABOUT CHRIST. I
+## III. Every Saved Man and Woman Should Willingly Speak for Himself About Christ. I
 
 have said that you will be driven to it. I have also bid you to be prepared for it when you are driven to it. But now I have to urge that you ought willingly to do it. Are we not all debtors to Christ if, indeed, He has saved us? How can we acknowledge that debt if we are ashamed of Him? His testimony is—"He that believes and is baptized, shall be saved." Does the Baptism save us? No, verily, but he that believes is bound to be baptized that he may thus confess His Lord! Baptism is the answer of a good conscience towards God. It is the disciple's grateful response to his Master's gracious call. You know how it is put—"He that with his heart believes, and with his mouth makes confession of Him, shall be saved."
 
@@ -162,7 +161,6 @@ Dear Friends, some of you who are Believers in Christ have never yet confessed H
 Alas! Alas! There are some that cannot speak for Christ in any way whatever, because they do not know Him! He never opened your eyes. Never try to talk of matters you do not understand, nor pretend to bear witness to mercies you have not experienced. Remember the Christ we preach is not only the Christ of history who was crucified, dead and buried, but He is a living Christ at this moment, still among us by His Spirit—changing our natures, turning and guiding the current of our thoughts and lives, purifying our wishes and motives, teaching us to love each other, admonishing us to be pure, entreating us to be gentle, giving us a heart to aspire after those things that are above instead of groveling among those things that are below!
 
 Now, if you have never met this Christ, you cannot bear witness to His power. But He is to be found! Trust in Him! He is Divine—He is the Son of God! His blood is the blood of the great Sacrifice of which Moses spoke and of which all the Prophets bore witness. He is the last great Sacrifice of God. Come and trust Him. And when you trust Him, that trust shall be like the woman's touching of the hem of His garment. No sooner had she touched Him than she was made whole, for virtue went out of Him. That virtue still goes out of His sacred Person whenever the simple touch of faith brings the sinner into contact with the Savior! May the Lord lead you to believe in Jesus and when you have believed through Divine Grace, come forward and confess His name! So shall you be numbered with His saints now and in Glory everlasting!
-
 
 ---
 [[Sermon 1392 A Catechism for the Proud|← #1392]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1394 The Day of Salvation|#1394 →]]

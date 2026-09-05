@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Chapter XXI — Of the Privileges of Believers
 
 ## Chap. XXI. — Of the Privileges of Believers.
@@ -36,12 +35,11 @@ A. An[^4] holy and spiritual ^afreedom from the ^bslavery of sin, the ^cbondage 
 
 Q. 6. Are we, then, wholly freed from the moral law?
 
-A. Yes, as ^aa covenant,[^5] or as it hath any thing in it bringing into bondage, — as the curse, power, dominion, and rigid exaction of obedience; ^bbut not as it is a rule of life and holiness. ^aJer. xxxi. 31–33; Rom. vii. 1–3, vi. 14; Gal. iii. 19, 24; Rom. viii. 2; Gal. v. 18. ^bMatt. v. 17; Rom. iii. 31, vii. 13, 22, 25.
+A. Yes, as [^a1]a covenant,[^5] or as it hath any thing in it bringing into bondage, — as the curse, power, dominion, and rigid exaction of obedience; [^b1]but not as it is a rule of life and holiness.
 
 Q. 7. Are we not freed by Christ from the magistrate’s power and human authority?
 
 A. No; being ordained of[^6] God, and commanding for him, we owe them all lawful obedience. Rom. xiii. 1–4; 1 Tim. ii. 1, 2; 1 Pet. ii. 13–15.
-
 
 ---
 [^1]: By virtue of this union, Christ suffereth in our afflictions; and we fill up in our bodies what remaineth as his.
@@ -51,6 +49,9 @@ A. No; being ordained of[^6] God, and commanding for him, we owe them all lawful
 [^5]: Nothing makes men condemn the law as a rule, but hatred of that universal holiness which it doth require.
 [^6]: Rule and authority are as necessary for human society as fire and water for our lives.
 
+[^a1]: Jer. xxxi. 31–33; Rom. vii. 1–3, vi. 14; Gal. iii. 19, 24; Rom. viii. 2; Gal. v. 18.
+
+[^b1]: Matt. v. 17; Rom. iii. 31, vii. 13, 22, 25.
 
 ---
 [[TSC 24 Chapter XX — Of Sanctification|← Chapter XX — Of Sanctification]] · [[Two Short Catechisms|Contents]] · [[TSC 26 Chapter XXII — Of the Sacraments of the New Covenant in particulalr, — a holy|Chapter XXII — Of the Sacraments of the New Covenant in particulalr, — a holy right whereunto is the Fourth Privilege of Believers →]]

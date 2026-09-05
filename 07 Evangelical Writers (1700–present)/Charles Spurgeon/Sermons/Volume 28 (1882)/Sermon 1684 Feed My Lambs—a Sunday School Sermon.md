@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # "Feed My Lambs"—a Sunday School Sermon
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1684
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 15, 1882,.
+*Delivered on Lord's-Day Morning, October 15, 1882*
 
 > "So when they had dined, Jesus said to Simon Peter, Simon, son of Jonas, do you love Me more than these? He said unto Him, Yes, Lord; You know that I love You. He said unto him, Feed My lambs." John 21:15.
 
@@ -140,7 +139,6 @@ A person may go home and sit down and groan out—
 "'Tis a point I long to know Oft it causes anxious thought,"
 
 and wipe his forehead and rub his eyes, and get into the dumps without end. But if he will rise up and work for Jesus, the point he longs to know will soon be settled, for love will come pouring out of his heart till he can no longer question whether it is there! So let us abide in this blessed service for Christ that it may be the delight of love, the very ocean in which love shall swim, the sunlight in which it shall bask! The recreation of a loving soul is work for Jesus Christ! And among the highest and most delicious forms of this heavenly recreation is the feeding of young Christians—endeavoring to build them up in knowledge and understanding—that they may become strong in the Lord. The Lord bless you, dear fellow-laborers in the Sunday school, from this time forth and for evermore! Amen.
-
 
 ---
 [[Sermon 1683 The Great Cross-bearer and His Followers|← #1683]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1685 God's Non-Remembrance of Sin|#1685 →]]

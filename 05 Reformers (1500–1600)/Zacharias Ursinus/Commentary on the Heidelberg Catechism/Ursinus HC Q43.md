@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 43. What further benefit do we receive from the sacrifice and death of Christ on the cross?
-
-**Question 43. What further benefit do we receive from the sacrifice and death of Christ on the cross?**
 
 Answer. That by virtue thereof our old man is crucified, dead, and buried with him; so that the corrupt inclinations of the flesh may no more reign in us, but that we may offer ourselves unto him a sacrifice of thanksgiving.
 
-**EXPOSITION**
+## **Exposition**
 
 This question has respect to the fruits or benefits of Christ's death. And here also, as in the passion of Christ, the end and fruits are to be regarded as the same, only in a different respect: for the things which Christ proposed to himself as ends, are unto us the fruits, when we receive or apply them to ourselves. It is, therefore, manifest that the benefits of Christ's death comprehend the entire work of our redemption, of which fruits we may specify the following:
 

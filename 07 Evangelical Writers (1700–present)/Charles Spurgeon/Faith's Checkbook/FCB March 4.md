@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 4
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HONOR GOD**
+## **Honor God**
 
 > Them that honor me I will honor" I Sam. 2:30
 
@@ -23,7 +22,6 @@ Do I make the honor of God the great object of my life and the rule of my conduc
 Eli had not honored the Lord by ruling his household well, and his sons had not honored the Lord by behavior worthy of their sacred office, and therefore the Lord did not honor them, but took the high-priesthood out of their family, and made young Samuel to be ruler in the land instead of any of their line. If I would have my family ennobled, I must honor the Lord in all things. God may allow the wicked to win worldly honors; but the dignity which He Himself gives, even glory, honor, and immortality, He reserves for those who by holy obedience take care to honor Him.
 
 What can I do this day to honor the Lord? I will promote His glory by my spoken testimony, and by my practical obedience. I will also honor Him with my substance, and by offering to Him some special service. Let me sit down and think how I can honor Him, since He will honor me.
-
 
 ---
 [[FCB March 3|← March 3]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB March 5|March 5 →]]

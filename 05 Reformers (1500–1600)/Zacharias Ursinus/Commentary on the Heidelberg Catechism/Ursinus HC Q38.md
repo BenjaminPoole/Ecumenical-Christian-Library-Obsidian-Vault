@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 38. Why did he suffer under Pontius Pilate, as his judge?
-
-**Question 38. Why did he suffer under Pontius Pilate, as his judge?**
 
 Answer. That he, being innocent, and yet condemned by a temporal judge, might thereby free us from the severe judgment of God, to which we were exposed.
 
-**EXPOSITION**
+## **Exposition**
 
 Mention is made of Pilate in the passion of Christ: 1. Because Christ obtained from this judge the testimony of his innocence. 2. That we might know that he, though declared innocent by this judge, was nevertheless condemned, and that by a regular judgment. 3. That we might be impressed by the fulfillment of prophecy. "I will overturn, overturn, overturn it; and it shall be no more, until he come whose right it is." "The sceptre shall not depart from Judah, nor a law-giver from between his feet, until Shiloh come." (Ez. 21:27; Gen. 49:10.) The name of Pilate is then mentioned that we may be fully certain, that Jesus is the Messiah that was to come; for then already the sceptre was taken away, because he was condemned by a Roman judge.
 

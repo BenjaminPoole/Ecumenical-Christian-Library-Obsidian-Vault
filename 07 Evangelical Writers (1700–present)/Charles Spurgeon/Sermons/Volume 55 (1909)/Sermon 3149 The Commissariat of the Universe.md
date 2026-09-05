@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Commissariat of the Universe
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3149
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What You give them they gather." Psalm 104:28.
 
@@ -87,7 +84,7 @@ Thus is it also in spiritual things. If you are willing to gather, God will alwa
 
 Thus, from a very simple text, we have had our lesson. Go home and feed upon what you have gathered—and take care to bless the name of the Lord!
 
-EXPOSITION BY C. H. SPURGEON: PSALM34.
+## Exposition by C. H. Spurgeon: Psalm 34
 
 The title of this Psalm is, "A Psalm of David, when he changed his behavior before Abimelech (or, Achish); who drove him away, and he departed." It relates to a sad scene in David's life when he had to feign madness in order to escape from his enemies. But I notice that although the fact is recorded, yet David does not dwell upon it in the Psalm. He had acted as a fool or a madman, but he was not fool enough, or mad enough, to glory in his shame! I have heard some men, whose past lives have been very disgraceful, who, after their professed conversion, have seemed to make a boast of their sin. David does not do that, nor will any other right-minded person. Let us always be ashamed of our sin, even while we magnify the Grace of God which has saved us from it. Though we may feel that it is necessary to mention it in order to encourage others to hope in the mercy of God, yet we must take care that we never even seem to dwell upon it with any kind of gusto. Thus the Psalm begins—
 
@@ -152,7 +149,6 @@ thing."
 21\. Evil shall slay the wicked. Sin itself shall slaughter them.
 
 21, 22. And they that hate the righteous shall be desolate. The LORD redeems the soul of His servants: and none of them that trust in Him shall be desolate.
-
 
 ---
 [[Sermon 3148 Christ's Ambassadors|← #3148]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3150 'Never, No Never, No Never'|#3150 →]]

@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Colossians 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Colossians 3:1-4
 

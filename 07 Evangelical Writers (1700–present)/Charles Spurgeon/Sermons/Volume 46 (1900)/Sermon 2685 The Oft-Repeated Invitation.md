@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Oft-Repeated Invitation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2685
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And let him who thirsts come. And whoever will, let him take the water of life freely." Revelation 22:17.
 
@@ -111,7 +108,7 @@ Listen further. The Lord Jesus Christ Himself says, ' 'Come." On one occasion, o
 
 "Stoop down and drink, and live!" May God lead you so to do, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH1:1-20.
+## Exposition by C. H. Spurgeon: Isaiah 1:1-20
 
 This is a chapter which, I think, teaches an important lesson to those of us who desire the salvation of men, for it shows us how God sets about that work. He begins by exhibiting the sinner's sin to him before He proclaims mercy to him—and if we want to be the means of doing good to men, it will not be by merely crying to them, "Believe, believe, believe"—there must be a laying of the axe at the root of the tree of self-righteousness and a cutting away of all trust in self. A man must realize his danger before he will desire to escape from it and it is a mistaken kindness which refuses to set before him the peril in which he is. God, who is infinitely tender and inconceivably merciful, shows us, in this chapter, how to go to work with sinners.
 
@@ -148,7 +145,6 @@ sion—you have only given to God the external husk of devotion! The kernel of t
 19\. If you are willing and obedient, you shall eat the good of the land.' 'You shall not any longer be 'as a lodge in a garden of cucumbers, as a besieged city.' You shall be no more desolate, but, 'you shall eat the good of the land.' I will take away from you My chastisement when I take away your sin. I will take care to feed you if you will but come back to Me. There shall be feasting, music and dancing, instead of starving, sighing and sorrow, if you will only return to your Father's house. 'If you are willing and obedient, you shall eat the good of the land.'"
 
 20\. But if you refuse and rebel, you shall be devoured with the sword: for the mouth of the LORD has spoken it. So the Lord has mercy in His right hand for those who will turn from their sin—but He has a sword in His left hand for those who will continue to live in their iniquities. God grant us Grace, now, to yield to the sweet reasoning of His love, and to turn from our sins, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2684 Two Arguments Against Sin|← #2684]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2686 The Deceived Heart|#2686 →]]

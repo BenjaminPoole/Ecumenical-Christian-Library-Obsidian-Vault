@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # Glorying in the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1178
-
-DELIVERED BY.
 
 > "He that glories, let him glory in the Lord." 1 Corinthians 1:31.
 
@@ -146,7 +143,6 @@ I am sorry, in closing, to feel compelled to say that I am afraid many do not un
 To glory in the Lord is the work of His Spirit—and to live to make Him glorious in the esteem of men is the only thing worthy of an immortal mind. You will never glory in God till, first of all, God has killed your glorying in yourself. May He be pleased, in His infinite mercy, to show you unconverted sinners that there is nothing about you which you can justly glory in, but everything for which you ought to be ashamed and to loathe yourselves. May He make you fly to Jesus. I pray you trust Him and be saved! The Lord bless you in this matter, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Corinthians 1. HYMNS FROM "OUR OWN HYMN BOOK"—242, 174, 420.
-
 
 ---
 [[Sermon 1177 Fearful Of Coming Short|← #1177]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1179 Forty Years|#1179 →]]

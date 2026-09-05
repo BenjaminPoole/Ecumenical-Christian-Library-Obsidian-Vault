@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule X. To mark diligently and avoid carefully all causes and causers of divisions; especially to shun seducers, false teachers, and broachers of heresies and errors, contrary to the form of wholesome words
-
-Rule x. To mark diligently and avoid carefully all causes and causers of divisions; especially to shun seducers, false teachers, and broachers of heresies and errors, contrary to the form of wholesome words.
 
 Rom. xvi. 17, 18, “Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them. For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.”
 
@@ -49,7 +46,6 @@ Explication x. The former part of this rule was something spoken to, Rule 4. If 
 6\. To walk orderly, not attending to the doctrine of any not known to and approved by the churches.
 
 7\. To remove far away all delight in novelties, disputes, janglings, contentions about words not tending to godliness; which usually are beginnings of fearful apostasies, Tit. iii. 9; 2 Tim. iv. 3; 1 Tim. ii. 3–5.
-
 
 ---
 [[ECFC 21 Rule IX. Free contribution and communication of temporal things to them that|← Rule IX. Free contribution and communication of temporal things to them that are poor indeed, suitable to their necessities, wants, and afflictions]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 23 Rule XI. Cheerfully to undergo the lot and portion of the whole church, in|Rule XI. Cheerfully to undergo the lot and portion of the whole church, in prosperity and affliction, and not to draw back upon any occasion whatever →]]

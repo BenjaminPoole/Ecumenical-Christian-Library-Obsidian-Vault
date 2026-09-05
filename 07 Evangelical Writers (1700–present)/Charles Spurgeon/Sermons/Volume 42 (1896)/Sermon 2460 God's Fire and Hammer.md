@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # God's Fire and Hammer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2460
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is not My Word like as a fire? says the LORD; and like a hammer that breaks the rock in pieces?" Jeremiah 23:29.
 
@@ -91,7 +88,7 @@ Christ!
 
 O Sirs, if you want to have your hearts renewed, it is the Gospel that must melt them! If you want to be saved, it is the Gospel that must save you! "Believe on the Lord Jesus Christ, and you shall be saved." This is the substance of the Revelation from Heaven—accept it and God bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH23:1-32.
+## Exposition by C. H. Spurgeon: Jeremiah 23:1-32
 
 Verse 1. Woe be unto the pastors that destroy and scatter the sheep of My pasture! says the LORD. What a dreadful woe this is upon all false shepherds—those who profess to be sent of God to instruct the people, but who are not sent of God at all, whose labors only result in the scattering of the sheep and destroying them instead of gathering them to Christ for their salvation!
 
@@ -140,7 +137,6 @@ yet they prophesied. But if they had stood in My counsel, and had caused My peop
 31\. Behold, I am against the prophets, says the Lord, that use their tongues, and say, He says. They have not any hearts—they only use their tongues. They say, "He says," as if God had said to them something which He has never said.
 
 32\. Behold, I am against them that prophesy false dreams, says the Lord, and tell them, and cause My people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, says the LORD. See how heavily God deals with the false prophets of Jeremiah's time? He will deal with equal severity with any who preach or teach anything other than the Gospel of His blessed Son—the pure Revelation which is written in this Book! God grant that none of us may be deceived by them, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2459 Better Than Wine|← #2459]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2461 Rejoicing and Remembering|#2461 →]]

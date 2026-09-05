@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Ask and Have
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1682
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 1, 1882,.
+*Delivered on Lord's-Day Morning, October 1, 1882*
 
 > "You lust, and have not: you kill, and desire to have, and cannot obtain: you fight and war, yet you have not, because you ask not. You ask, and receive not, because you ask amiss, that you may consume it upon your lusts." James 4:2,3.
 
@@ -124,7 +123,6 @@ Even the story of the Prodigal teaches us this. He resolved to say, "I am not wo
 Silence unbroken, profound, awful, reigned in Heaven! Action is suspended in Heaven, the center of all activity. "And another angel came and stood at the altar, having a golden censer." There he stands, but no offering is presented— everything has come to a standstill. What can possibly set it in motion? "And there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne." Prayer is presented together with the merit of the Lord Jesus! Now, see what will happen—"And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hands." That is the key of the whole matter!
 
 Now you will see—the angel begins to work—he takes the censer, fills it with the altar fire and flings it down upon the earth, "and there were voices, and thundering and lightning and earthquake." "And the seven angels which had the seven trumpets prepared themselves to sound." Everything is moving now! As soon as the prayers of the saints were mixed with the incense of Christ's eternal merit and begun to smoke up from the altar, then prayer became effectual! Down fell the living coals among the sons of men, while the angels of the Divine Providence, who stood still, before, sound their thunder blasts, and the will of the Lord is done! Such is the scene in Heaven, in a certain measure, even to this day. Bring here the incense! Bring here the prayers of the saints! Set them on fire with Christ's merits and on the golden altar let them smoke before the Most High! Then shall we see the Lord at work and His will shall be done on earth as it is in Heaven! God send His blessing with these words, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1681 Shutting, Sealing and Covering—or, Messiah's Glorious Work|← #1681]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1683 The Great Cross-bearer and His Followers|#1683 →]]

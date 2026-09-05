@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Pearl of Patience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3255
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have heard of the patience of Job, and have seen the end of the Lord, that the Lord is full of pity and of tender mercy." James 5:11.
 
@@ -83,7 +80,7 @@ Job by his trials and patience received not only double Grace, and double wealth
 
 Once more, Job by his trials and the Grace of God was lifted up into the highest position of usefulness. He was useful before his trial as few men of wealth and influence have been, but now his life possesses an enduring fruitfulness which blesses multitudes every day! Even we who are here this afternoon "have heard of the patience of Job." All the ages have this man for their teacher. Brothers and Sisters, we do not know who will be blessed by our pains, by our bereavements, by our crosses if we have patience under them! Specially is this the case with God's ministers, if He means to make much of them, their path to usefulness is up the craggy mountain's side. If we are to comfort God's afflicted people, we must, first, be afflicted ourselves. Tribulation will make our wheat fit to be bread for saints. Adversity is the choicest book in our library, printed in black letters, but grandly illuminated! Job makes a glorious comforter and preacher of patience, but no one turns either to Bildad, Zophar, or Eliphaz, who were "miserable comforters" because they had never been miserable. You, dear Sisters, whom God will make daughters of consolation to your families, must in your measure pass through a scholarship of suffering—a sword must pass through your own hearts if you are to be highly favored and blessed among women. Yet, let us all remember that affliction will not bless us if it is impatiently borne. If we kick at the goad, it will hurt us, but it will not act as a fitting stimulus. If we rebel against God's dispensations, we may turn His medicines into poisons and increase our grief by refusing to endure them. Be patient, be patient, be patient and the dark cloud shall drop a sparkling shower! "You have heard of the patience of Job." Imitate it. "You have seen the end of the Lord." Rejoice in it. "He is full of pity and of tender mercy." Yield yourselves to Him. Divine Spirit, plant in us the sweet flower of patience, for our patient Savior 's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:1-22.
+## Exposition by C. H. Spurgeon: Romans 8:1-22
 
 This precious Chapter reminds us of the description of the land of Havilah, "where there is gold, and the gold of that land is good."
 
@@ -148,7 +145,6 @@ SONS OF GOD; #402, Volume 7—THE JOINT-HEIRS AND THEIR DIVINE PORTION and #2961
 17, 18. And if children, then heirs; heirs of God, and joint-heirs with Christ, if we suffer with Him, that we may be also glorified together. For I reckon that the sufferings of this present time are not worthy to be compared with the Glory which shall be revealed in us. Do we suffer now? Then let us wait for something better that is yet to come! Yes, we do suffer, and in this we are in accord with the whole creation of God, for the whole creation is just now, as it were, enduring birth pangs. There is something better coming, but meanwhile it is troubled and perplexed, moaning and groaning.
 
 19-22. For the earnest expectation of the creature waits for the manifestation of the sons of God. For the creature was made subject to vanity, not willingly, but by reason ofHim who has subjected the same in hope, because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. For we know that the whole creation groans and travails in pain together until now. See how it often weeps in the superabundant rain that seems like a minor deluge! Note how, at times, Creation's very bowels seem to be tossed and torn with pain and agony by volcanoes and earthquakes. Mark the tempests, tornadoes, hurricanes and all kinds of ills that sweep over the globe, leaving devastation in their track! And the globe itself is wrapped in swaddling bands of mist, and shines not out like its sister stars in its pristine brightness and splendor. The animal creation, too, wears the yoke of bondage. How unnecessarily heavy have men often made that yoke!
-
 
 ---
 [[Sermon 3254 The Curse Removed|← #3254]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3256 Beggars Becoming Princes|#3256 →]]

@@ -9,10 +9,9 @@ epub_file: "works1.i.xvi.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER XVI.
 
-COMMENCEMENT OF DIFFICULTIES AT NORTHAMPTON.
+*Commencement of Difficulties at Northampton*
 
 That this world is not a place of rest even to the most excellent of men, is a fact proved by the history of all past ages. How few who have been in prominent situations of usefulness but have experienced a variety of bitter disappointments; which though mysterious in themselves, disgraceful to those who have been the occasions of them, and most distressing to those who have felt their weight, yet have presented to the reflecting mind no unimportant lessons, and have tended to results little anticipated by any party connected with them. Nor should it seem strange to us that neither the world, nor the church of God itself, in its present imperfect state, can be considered as affording a resting-place. All the instruments employed by God in the promotion of his work, have been greatly tried; their labours have been mingled with their tears; and they have not only suffered from their own personal share of human imperfection, but have found in the ignorance, the perverse dispositions, and the unholy practices of others, their sharpest sorrows. They have been grieved by foes, but more injured and vexed by pretended friends. Divine grace has however enabled them honourably to stand amidst these perilous conflicts, and though the storm has fiercely raged around them, they have at length found a calm which can never be endangered; and they place before those who succeed them this grand lesson, that the faithful pursuit of the path of duty, whatever may be its difficulties and trials, will end well; and that this is the only course which can be reviewed with any satisfaction amidst the solemnities of a dying scene.
 

@@ -34,7 +34,7 @@ tags:
 
 **14.** Mark xiv, 10; Luke xxii, 3.
 
-**15.** They bargained with him for thirty pieces of silver - (About three pounds fifteen shillings sterling; or sixteen dollars sixty- seven cents) the price of a slave, Exod. xxi, 32.
+**15.** They bargained with him for thirty pieces of silver - (About three pounds fifteen shillings sterling; or sixteen dollars sixty-seven cents) the price of a slave, Exod. xxi, 32.
 
 **17.** On the first day of unleavened bread - Being Thursday, the fourteenth day of the first month, Exod. xii, 6, 15. Mark xiv, 12 Luke xxii, 7
 

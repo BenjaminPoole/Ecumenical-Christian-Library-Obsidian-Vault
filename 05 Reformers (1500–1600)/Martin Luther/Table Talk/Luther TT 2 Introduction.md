@@ -11,12 +11,11 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 2. Introduction
 
 The history of this remarkable volume, almost as extraordinary as its contents, is thus given by Captain Bell:
 
-“CAPTAIN HENRY BELL’S NARRATIVE:
+## “Captain Henry Bell’s Narrative
 
 *Or, Relation of the miraculous preserving of Dr. Martin Luther’s Book, entitled, Colloquia Mensalia, or, his Divine Discourses at his Table, held with divers learned Men and pious Divines; such as Philip Melancthon, Caspar Cruciger, Justus Jonas, Vitus Dietrich, John Bugenhagen, John Forster, etc.: containing Divers Discourses touching Religion, and other main Points of Doctrine; as also many notable Histories, and all sorts of Learning, Comforts, Advices, Prophecies, Admonitions, Directions and Instructions.*
 

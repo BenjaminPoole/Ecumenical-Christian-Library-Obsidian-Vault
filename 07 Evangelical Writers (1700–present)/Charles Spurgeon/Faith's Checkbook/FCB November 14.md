@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 14
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE NAME TO USE**
+## **The Name to Use**
 
 > If ye shall ask anything in my name, I will do it" John 14:14
 
@@ -25,7 +24,6 @@ What a wise promise! We are always to ask in the name of Jesus. While this encou
 What an instructive prayer! I may not ask for anything to which I cannot put Christ's hand and seal. I dare not use my Lord's name to a selfish or willful petition. I may only use my Lord's name to prayers which He would Himself pray if He were in my case. It is a high privilege to be authorized to ask in the name of Jesus as if Jesus Himself asked; but our love to Him will never allow us to set that name where He would not have set it.
 
 Am I asking for that which Jesus approves? Dare I put His seal to my prayer? Then I have that which I seek of the Father.
-
 
 ---
 [[FCB November 13|← November 13]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 15|November 15 →]]

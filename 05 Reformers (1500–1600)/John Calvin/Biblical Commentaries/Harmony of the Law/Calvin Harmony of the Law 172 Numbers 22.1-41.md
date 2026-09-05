@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 172. Numbers 22:1-41
-
-**Numbers 22**
 
 **1.** And the children of Israel set forward, and pitched in the plains of Moab, on this side Jordan by Jericho.
 

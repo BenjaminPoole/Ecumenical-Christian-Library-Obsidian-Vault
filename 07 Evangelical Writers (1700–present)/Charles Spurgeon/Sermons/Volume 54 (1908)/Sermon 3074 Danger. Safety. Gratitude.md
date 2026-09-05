@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Danger. Safety. Gratitude.
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3074
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now unto Him that is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy, to the only wise God our Savior, be glory and majesty, dominion and power, both now and ever. Amen." Jude 1:24,25.
 
@@ -208,7 +205,6 @@ What T ve committed to His hands,
 Till the decisive hour.'"
 
 "Sovereign Grace," he said, "is my trust now! God's promise standing firm as God's Throne, and my faith linked to it. There is the safety of my spirit." And so he passed away. It is a grand thing to feel that God's Throne might sooner fail than that a saint can perish, for His Throne, itself, is established in righteousness! And He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness—faithful and just, not merely merciful and gracious! And His very faithfulness and justice require that He should keep the soul that has obeyed His will and committed itself to the Redeemer's hands. May the Lord thus save us all, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 3073 Thrice Happy Day!|← #3073]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3075 Looking for One Thing and Finding Another|#3075 →]]

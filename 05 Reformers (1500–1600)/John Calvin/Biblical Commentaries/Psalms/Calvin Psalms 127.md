@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 127
-
-**PSALM 127**
 
 This Psalm shows that the order of society, both political and domestic, is maintained solely by the blessing of God, and not by the policy, diligence, or wisdom of men; and that the procreating of children is his peculiar gift.
 

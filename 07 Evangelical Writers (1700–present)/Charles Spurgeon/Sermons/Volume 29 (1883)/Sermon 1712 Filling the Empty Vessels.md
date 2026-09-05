@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Filling the Empty Vessels
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1712
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 17, 1882,.
+*Delivered on Lord's-Day Evening, September 17, 1882*
 
 > "But my God shall supply all your need according to His riches in glory by Christ Jesus." Philippians 4:19.
 
@@ -142,7 +141,6 @@ It was a great lie and yet, in a certain sense, it is true. If anybody says the 
 God will not hear a man's prayers except through Christ Jesus! But if that name is mentioned, the gates of Heaven fly open! God withholds no real good from the man of God who is in Christ. But our plea must be Jesus, first, and Jesus last, and Jesus in between! We must present the bleeding Lamb before God each morning and each night. I pray you seek no mercy of God apart from Christ, but lay hold upon God in Christ—and you shall have enough for all your need! May God the Holy Spirit cause you to abide in Christ Jesus for His name's sake. Amen.
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—2 Kings 4:1-7 and Philippians 4. HYMNS FROM "OUR OWN HYMN BOOK"—84 (SONG II), 23 (FIRST VERSION), 708.
-
 
 ---
 [[Sermon 1711 A Sermon to the Lord's Little Children|← #1711]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1713 Other Sheep and One Flock|#1713 →]]

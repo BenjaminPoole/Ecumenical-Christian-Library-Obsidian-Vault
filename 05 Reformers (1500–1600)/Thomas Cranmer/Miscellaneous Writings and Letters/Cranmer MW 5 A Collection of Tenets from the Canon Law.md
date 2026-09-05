@@ -10,16 +10,15 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 5. A Collection of Tenets from the Canon Law
 
-[A COLLECTION OF TENETS
+*[A Collection of Tenets*
 
-EXTRACTED FROM
+## Extracted From
 
-THE CANON LAW,
+## The Canon Law
 
-THE EXTRAVAGANT PRETENSIONS OF THE CHURCH OF ROME1.]
+## The Extravagant Pretensions of the Church of Rome 1.]
 
 C'CCXL'V' Dist. 22. Omnes-. De Major, et obedient. : Solitce3. Extrav. De majorit. et obedient. :
 
@@ -135,7 +134,7 @@ It belongeth to the bishop of Rome to allow or disallow the emperor after he is 
 
 [32 C.C.C. MS. emperor.]
 
-7() COLLECTION OF TENETS
+## 7() Collection of Tenets
 
 De supplenda negligen. prcelato. Grandi1. The bishop of Rome may appoint coadjutors unto princes.
 
@@ -201,7 +200,7 @@ dum.' can. ii. ' Regula.' can. iv. ' Nee licuit.' j p. 399.] can. v. ' Multis.' 
 
 can. ii. ' Legatur.' Tom. I. p. 337.] can. ii. ' Autoritatem.' Tom. I. p. 259.]
 
-FROM THE CANON LAW.
+## From the Canon Law
 
 De foro competent. Ex tenore™. De donat. inter virum et uxorem. De prudentia19. Qui filii sunt legitimi. Per venerabilem20. De elect, et electi potentate. Fundamenta21. Extravag. de majorit. et obedient. Unam sanctam22. De judiciis. Norit23.
 
@@ -339,7 +338,7 @@ II. p. 199.] f 15 Vid. p. 68. n. 6.]
 
 [23 Id. Decretal. Gregor. IX. Lib. in. Tit.xiii. De rebus eccl. aliend. cap. xii. t Cum laicis.' Tom. II. p. 153.]
 
-FROM THE CANON LAW. 73
+## From the Canon Law. 73
 
 De jurejurando. Nimis**.
 
@@ -455,7 +454,7 @@ Confirmation, if it be ministered by any other than a bishop, is of no value, no
 
 [8 Id. ibid. Causa xxiii. Quaest. v. can. xlvii. ! 'Manus.' can. vi. ' Ut jejuni.' Tom. I. p. 483.] ' Excommunicatorem.' Tom. I. p. 324.]
 
-FROM THE CANON LAW.
+## From the Canon Law
 
 De pcenitent. Dist. 1. Multiplex16. A penitent man can have no remission of his sins, but by supplication of the priest.
 

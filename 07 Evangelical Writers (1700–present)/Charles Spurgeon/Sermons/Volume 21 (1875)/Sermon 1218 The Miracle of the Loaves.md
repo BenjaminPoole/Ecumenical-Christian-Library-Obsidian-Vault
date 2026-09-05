@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Miracle of the Loaves
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1218
-
-DELIVERED BY.
 
 > "They considered not the miracle of the loaves." Mark 6:52.
 
@@ -148,7 +145,6 @@ I am sure that if all London should come to Jesus, they would find enough in Him
 Come, then, weary, hungry Sinner! You have nothing to do but to take Christ! You have not to bake the bread, or broil the fish! The bread and fish are broken, blessed and ready. Open your mouth and enjoy the food! Faith to receive what Christ provides is all that is needed. Lord grant it! Take salvation freely. Freely Jesus gives it to you. Take it and God bless you! And if you have never had Christ before, and you get Him tonight, you will have a happy future, after the sort that we read of in the Bible, when, "they began to be merry." Come, for all things are ready! Turn not away! God bless you, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Mark6:30-56. HYMNS FROM "OUR OWN HYMN BOOK"—488, 500, 504.
-
 
 ---
 [[Sermon 1217 Rightly Dividing the Word of Truth|← #1217]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1219 A Voice From Heaven|#1219 →]]

@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Philippians 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Philippians 3:1-6
 

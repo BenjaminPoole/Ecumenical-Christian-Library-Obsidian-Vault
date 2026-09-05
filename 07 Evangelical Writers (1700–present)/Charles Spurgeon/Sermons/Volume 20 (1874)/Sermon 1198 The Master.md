@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Master
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1198
-
-DELIVERED BY.
 
 > "She called Mary her sister secretly, saying, The Master is come, and calls for you." John 11:28.
 
@@ -150,7 +147,6 @@ I remember preaching in this strain, once, and an old sea captain told me after 
 The old man must be crucified with Christ! It must be dead, buried and sunk fifty thousand fathoms deep, never to be heard of again. In the new vessel which Jesus launches in the day of our regeneration, with the blessed flag of atoning blood above us, we will sail to Heaven convoyed by Irresistible Grace, giving God the glory forever and ever! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 11. HYMNS FROM "OUR OWN HYMN BOOK"—797, 769, 768.
-
 
 ---
 [[Sermon 1197 The Claims of God|← #1197]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1199 The Agony in Gethsemane|#1199 →]]

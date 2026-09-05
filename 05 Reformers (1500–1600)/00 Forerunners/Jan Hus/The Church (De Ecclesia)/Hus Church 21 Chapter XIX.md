@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 21. Chapter XIX
 
-WHEN ECCLESIASTICAL SUPERIORS ARE TO BE OBEYED
+*When Ecclesiastical Superiors Are to Be Obeyed*
 
 It having been stated what the apostolic seat is, it is now to be stated in what cases obedience is to be rendered to this apostolic seat. And the aforesaid doctors say, that "it is to be obeyed by inferiors in all things— when the absolutely good is not forbidden or the absolutely evil is not " commanded [but the intermediate also]1 which in place, way, time or person may be either good or bad.
 

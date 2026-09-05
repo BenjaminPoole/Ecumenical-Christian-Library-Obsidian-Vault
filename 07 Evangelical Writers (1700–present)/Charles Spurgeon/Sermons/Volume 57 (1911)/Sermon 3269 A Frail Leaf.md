@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # A Frail Leaf
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3269
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Will You break a leaf driven to and fro?" Job 13:25.
 
@@ -39,7 +36,7 @@ Perhaps it is even more harassing in cases of mental distress for, after all, th
 
 Many a child of God may have used this, and if he has not used it yet, he may still use it. There are times when all our evidences get clouded and all our joys are fled. Though we may still cling to the Cross, yet it is with a desperate grasp. God brings our sins to remembrance till our bones, as David puts it, "are sorely broken by reason of our iniquity." Then it is that, all broken, we can turn to the Strong for strength and use the plea of the text, "Will You break a leaf driven to and fro?" And we shall get for our answer these comforting words, "A bruised reed He will not break, and smoking flax He will not quench."
 
-I. THE PLEA IS SUCH AS ARISES FROM INWARD CONSCIOUSNESS.
+## I. The Plea Is Such as Arises from Inward Consciousness
 
 What plea is more powerful to ourselves than that which we draw from ourselves? A man may not be sure of anything outside him, for eyes and ears may deceive—but he is always pretty well assured of anything within him, for that which he perceives in his own consciousness he is very tenacious about. Now, in this case, Job was quite certain about his own weakness.How could he doubt that? He looked upon his poor body covered with sores. He looked upon his friends who had perplexed and vexed him so much and he felt that he was, indeed, just like a sere leaf. I trust that many of us have been brought by God the Holy Spirit into such a humble frame of mind as to feel that, in a certain sense, this is true of us. O God, if we know ourselves right, we are alllike withered leaves! We once thought ourselves fresh and green—we reckoned that we were as good as others, we made a fine and verdant profession—but, lo, You have been pleased to deal with us and all the fresh verdure of what we thought to be our piety—the natural piety which we thought we possessed—has faded and withered and now we are convinced that we are altogether as an unclean thing, and that all our righteousnesses are as filthy rags! No, the hope that we clung to as the leaf clings to the tree, we have had to give up. We are blown away from that. We were once upon the tree of good works—we seemed as if we had life and would always be happy there, but the winds have taken us away and we cannot hold on to our frail hope. We once thought that we could do everything— we now perceive that without Christ we can do nothing! We are cast forth as a branch separated from the vine—we are withered! What can a leaf do? What power has it to resist the wind? Just so we feel now—we can do nothing—even the sin that dwells in us, like the wind, carries us away and we are like the leaf in the wind, subject to its power.
 
@@ -73,7 +70,7 @@ Again, it comes across me sweetly, "O blessed Spirit! Could You break a leaf tha
 
 Yes, I address You, You Triune God, You who are so full of mercy, and love, and Grace, and truth, that those who have known You best have been compelled to say, 'Oh, how great is Your goodness which You have laid up for them that fear You! Oh, the depths of Your loving kindness!' is it possible that You can cast away a poor, broken-hearted trembler, a poor, fearing, doubting one who would gladly be saved, but who trembles lest he should be cast away?"
 
-IV. THIS PLEA IS BACKED UP BY MANY CASES OF SUCCESS.
+## IV. This Plea Is Backed up by Many Cases of Success
 
 We will not give many, for we have not time, but there is one case which we will mention. There was a woman whose life was exceedingly sorrowful. She was an Eastern wife and her husband had been foolish enough to have a second mistress in the house. The woman of whom we speak, a holy woman, a woman of refined and delicate mind, a poetess, indeed, of no mean order—this poor woman, having no children was the constant butt of her rival, whose sneering spiteful remarks chaffed and chafed her. Her adversary, it is said, "vexed her sore to make her afraid." Though her husband was exceedingly kind to her, yet as with a sword that cut her bones did she continually go. She was a woman of a sorrowful spirit, her spirit being broken. Still, "she feared the Lord exceedingly," and she went up to God's House, and it was in God's House that she received what was to her, perhaps, the greatest blow of her life! If it was from her rival that she received the harshest word, it was from the High Priest of God that she received this hardest blow! As she stood there praying, using no vocal sound, but her lips moving, the High Priest—an easy-going soul who had brought his own family to ruin by his slackness—little knowing her grief, told her that she was drunk! Being a woman to whom the thought of such a sin was as bitter as gall, it must have smitten her as with the chill blast of death, that God's Priest had said she was drunk! But, as you will all remember, the Lord did not break the leaf that was driven to and fro. There came to her a comfortable promise. Ere long that woman stood there to sing! The mercy of God had made the barren woman to rejoice and to be the joyful mother of children! The song of the Virgin Mary was modeled after the song of Hannah—that memorable poem in which she sang of the Lord who had filled the hungry with good things, while the rich He had sent away empty. In that case the Lord did not break the leaf that was driven to and fro!
 
@@ -93,7 +90,7 @@ He meant this—"Instead of breaking it, You will spare it; You will gather it u
 
 My Lord is such an One that if a beggar asks a penny of Him, He gives him gold! And if you ask only for the pardon of sins, He will give you all the Covenant blessings which He has been pleased so bounteously to provide for the necessities of His people! Come, poor guilty one—needy, helpless, broken and bruised—come by faith and let your weakness plead with God through Jesus Christ!
 
-VI. WE MAY USE THIS PLEA—MANY OF US WHO HAVE LONG KNOWN THE SAVIOR.
+## VI. We May Use This Plea—many of Us Who Have Long Known the Savior
 
 Perhaps our faith has got to be very low. O Lord, will You destroy my little faith? I know there is sin in it. To be so unbelieving as I am is no little crime, but Lord, I thank You that I have anyfaith. It is weak and trembling, but it is faith of Your own giving. Oh, break not the poor leaf that is driven to and fro!
 
@@ -105,7 +102,7 @@ Oh, that I could so preach as to give the comfort to you which I have felt in my
 
 Oh, that some might now for the first time be drawn to Jesus, put their trust in Him and find pardon and peace!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 130:1-8; 1 JOHN 1:1-10; 2:1-2.
+## Exposition by C. H. Spurgeon: Psalm 130:1-8; 1 John 1:1-10; 2:1-2
 
 Verse 1. Out of the depths have I cried unto You, O LORD. The most eminent of God's saints have been in the depths. Why, then, should I murmur if I have to endure trials? What am I that I should be exempt from warfare? How can I expect to win the crown without first carrying a cross? David saw the depths and so must you and I. But David learned to cry to God out of the depths. Learn, therefore, that there is no place so deep but prayer can reach from the bottom of it up to God's ear, and then God's long arm can reach to the bottom and bring us up out of the depth! "Out of the depths have I cried unto You, O Lord." Do not say, "Out of the depths have I talked to my neighbors and sought consolation from my friends."—
 
@@ -154,7 +151,6 @@ certainly eye-sight is good, clear evidence. "Which we have looked upon"—this 
 Verse 1. My little children, these things write I unto you, that you sin not. He is anxious that they should not sin. He knows they do, and that if they say they do not, they lie. Still the Christian's objective is sinless perfection, and though he will never have it till he gets to Heaven, that is all the better because he will always, then, be pressing forward and never reckoning that he has attained it!
 
 1, 2. And if any man sins, we have an Advocate with the Father, Jesus Christ the Righteous. And He is the Propitiation for our sins: and not for ours, only, but also for the sins of the whole world. By which is meant, not only that Jesus Christ died for Gentiles as well as Jews, and for some of all nations, but that there is that in the Atonement of Christ which might be sufficient for every creature under Heaven if God had so chosen every creature! The limitation is lying not in the value of the Atonement, itself, but in the design and intention of the Eternal God. God sent His Son to lay down His life for His sheep. We know that Christ redeemed us from among men, so that the redemption is particularly and especially for the elect. Yet at the same time the price offered was so precious—the blood was so Infinite in value— that if every man that ever lived had to be redeemed, Christ could have done it. It is this that make us bold to preach the Gospel to every creature, since we know there is no limit in the value of the Atonement, though we also know that the design of it is only for the chosen people of God!
-
 
 ---
 [[Sermon 3268 The Savior's Silence|← #3268]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3270 The Truly Blessed Man|#3270 →]]

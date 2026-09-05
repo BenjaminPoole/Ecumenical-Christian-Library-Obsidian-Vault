@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Man'S Thoughts And God'S Thoughts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 676
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 18, 1866,.
+*Delivered on Sunday Morning, February 18, 1866*
 
 > "For My thoughts are not your thoughts, Nor are your ways My ways," says the Lord. "For as the heavens are higher than the earth, so are My ways higher than your ways, and My thoughts than your thoughts." Isaiah 55:8,9.
 
@@ -148,7 +147,6 @@ The thing is as simple as taking that step. "Why is it so hard, then?" says some
 I have now to say to every sinner here, in conclusion, that my God is a God willing to pardon, a God passing by transgression, iniquity, and sin! These are His words, not only to the whole of you as a mass, but to each unconverted person in particular, though I cannot point the finger to everyone. "Come now, and let us reason together. Though your sins are as scarlet, they shall be as white as snow. Though they are red like crimson, they shall be as wool." Do not those words melt you at all? I pray God that He may bless them to you. You have been restored, brought here again after much affliction. God has been gracious to you. He has passed by much sin in His long-suffering.
 
 Oh, let Heaven's mercy melt you! He seems to me, this morning, to be standing here and to be saying, "How can I give you up, Ephraim? How shall I deliver you, Israel? How can I set you as Admah? How can I make you as Zeboim? My heart is moved, my repentings are kindled together. I will not destroy you, for I am God and not man." Fly, then, to your Father's bosom! Kiss the Son, lest He be angry, and you perish from the way! And may this day witness joy in Heaven because the prodigal has returned and the lost sheep is found! God bless this simple address to each of us, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 0675 Spring In The Heart|← #675]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0677 Faith Versus Sight|#677 →]]

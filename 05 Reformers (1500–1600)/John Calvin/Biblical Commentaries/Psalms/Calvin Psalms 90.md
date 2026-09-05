@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 90
-
-**PSALM 90**
 
 As Moses is about to treat as well of the brevity and miseries of human life, as of the punishments inflicted upon the people of Israel, in order to minister some consolation for assuaging the grief and fear which the faithful might have entertained upon observing the operation of the common law, to which all mankind are subject, and especially, upon considering their own afflictions, he opens the psalm by speaking of the peculiar grace which God had vouchsafed to his chosen tribes. He next briefly recites, how wretched the condition of men is, if they allow their hearts to rest in this world, especially when God summons them as guilty sinners to his judgment seat. And after he has bewailed, that even the children of Abraham had experienced for a time such severity, that they were almost consumed with sorrow, confiding in God’s free favor, by which He had adopted them to himself, he prays that He would deal towards them in a merciful and gracious manner, as he had done in times past, and that he would continue even to the end the ordinary course of his grace.
 

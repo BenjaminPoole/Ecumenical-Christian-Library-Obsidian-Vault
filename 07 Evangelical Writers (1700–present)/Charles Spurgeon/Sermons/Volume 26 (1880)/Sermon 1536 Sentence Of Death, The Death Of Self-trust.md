@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Sentence Of Death, The Death Of Self-trust
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1536
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 2, 1880,.
+*Delivered on Lord's-Day Morning, May 2, 1880*
 
 > "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raises the dead." 2 Corinthians 1:9.
 
@@ -146,7 +145,6 @@ Brothers and Sisters, we need to get away, more and more, from ourselves and we 
 That old corrupt nature—ah, the vagabond—if he were, indeed, dead and would never struggle again, what a mercy! But there is still life in the old dog—life of a troublesome sort, full of mischief! Wisdom reckons self as a dead and worthless thing, to be mortified, but never to be trusted. Folly talks otherwise and bids you think well of yourself, but do not listen to its doting. He says, "You are getting to be an old man now; those gray hairs have brought experience and wisdom—you are not like those young chits of children that have just come into the Church." No, but there is no fool like an old fool! Mind you, do not become another example of that old saying! Do not say to yourself, "Ah, now you are a man of wide experience, you are! You are not like those narrow-minded people who never went beyond their cottage or the hedges of their little farm. You have had a splendidly wide experience."
 
 Ah, but no blunder is so great as the blunder of a great man! No man is capable of doing so much mischief as the man who has capacity for doing great good. "Oh, but," says someone, "I am so careful, so guarded, that there can be no fear of me." Yet no one is so likely to sleep as the watchman who flatters himself that he does not even doze! So it used to be in the old days—and you watchful people are sure to go wrong if you are proud of being watchful. If, on the other hand, you feel that you are not as watchful as you ought to be and pray to be made more so, you will be kept right. Trust in ourselves is a kind of manna which will breed worms and stink and it will make our house unbearable and ourselves sick. Sweep it out! Oh, for a state of weakness that is strong in the Divine strength! Oh, to be nothing! To be NOTHING, that God may be All in All! Amen and amen! So let it be!
-
 
 ---
 [[Sermon 1535 Christ's Universal Kingdom and How It Comes|← #1535]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1537 Samuel—an Example of Intercession|#1537 →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 46. How dost thou understand these words, "he ascended into heaven?"
-
-**Question 46. How dost thou understand these words, "he ascended into heaven?"**
 
 Answer. That Christ, in sight of his disciples, was taken up from the earth into heaven; and that he continues there for our interest, until he come again to judge the quick and the dead.
 
-**EXPOSITION**
+## **Exposition**
 
 The ascension of Christ into heaven is a visible, local and real translation of his body and soul from earth into that heaven, which is above all visible heavens at the right hand of God, in that light which is inaccessible, where he now is, and remains, and from which he will come to judgment. In this, as in the article of the resurrection of Christ, there are two things which chiefly claim our attention—its history and fruits.
 
@@ -36,7 +33,7 @@ IV. In what does the ascension of Christ differ from ours?
 
 V. What are the fruits of his ascension?
 
-**I. WHITHER DID CHRIST ASCEND?**
+## **I. Whither DID Christ Ascend?**
 
 After Christ had given many infallible proofs to his apostles of his resurrection from the dead, and of his true humanity, he ascended into heaven, in the sight of his disciples, on the fortieth day after his resurrection, when he was with them in Bethany. The term heaven has, as it is used in the Scriptures, three significations. It means, first, the air. "Behold the fowls of the heaven." (Matt. 6:26.) Secondly, it signifies the etherial region beyond, including the celestial spheres. "When I consider thy heavens, the work of thy fingers, the moon, and the stars," &c. "He ascended up far above all heavens," that is, these visible heavens. (Ps. 8:3. Eph. 4:10.) Thirdly, it means the place of the blessed, which is that immense, bright, clear, and glorious space which is without and above this world, and these visible heavens, the abode of God and of the blessed, in which God manifests himself immediately and gloriously to all eternity, and communicates himself to the blessed angels and men, and where the seat of our blessedness is prepared with Christ, and holy spirits. It is in this heaven that God is said to dwell; nót that he is contained, or circumscribed in any place, but because it is there that he especially manifests, and communicates his glory to the blessed angels and men. It is called in Scripture the new world, the new heaven, the heavenly Jerusalem, Paradise, Abraham's bosom, &c. This heaven is not every where, but above, and separate from earth, and hell. "Between us and you there is a great gulf fixed; so that they which would pass from hence to you cannot, neither can they pass to us that would come from thence." "The heaven is my throne, and the earth is my footstool." (Luke 16:26. Is. 66:1.) It was in this heaven that Elijah was taken. From this the Holy Ghost came on the day of Penticost. Paul calls it the third heaven. It is in this third signification that we are to understand it, when used to express the place to which Christ ascended.
 
@@ -46,7 +43,7 @@ In this heaven, therefore, which is the abode of God, and of the blessed, Christ
 
 God will have us know to what place Christ has ascended, 1. That it may be manifest that he continues true man, and did not vanish away, but remains and will for ever remain very man in heaven. 2. That we may know to what place our thoughts should be directed, and where we ought to come in our approaches to him, so as to avoid all forms of idolatry. 3. That we may know our home, or the house into which Christ will bring us and in which we shall dwell with him.
 
-**II. IN WHAT MANNER DID CHRIST ASCEND INTO HEAVEN?**
+## **II. In What Manner DID Christ Ascend into Heaven?**
 
 Christ ascended into heaven,
 

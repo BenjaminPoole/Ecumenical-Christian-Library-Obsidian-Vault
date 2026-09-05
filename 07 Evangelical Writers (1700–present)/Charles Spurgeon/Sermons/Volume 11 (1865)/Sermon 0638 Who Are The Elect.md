@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Who Are The Elect?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 638
 
-DELIVERED ON SUNDAY MORNING, JULY 9, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, July 9, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And the Lord said, Arise, anoint him, for this is he." 1 Samuel 16:12.
 
@@ -150,7 +149,6 @@ I think even this earth which has despised us, shall yet know us as kings when w
 Remember, we shall be like He when we shall see Him as He is. "Father, I will that they whom You have given Me be with Me where I am." The same place for you as for the Savior! And you shall behold His Glory and you shall be partakers of it! Why, then, should you fear? Why should you be downcast and dismayed by reason of the trials on the way? Come! Pluck up courage! An hour with your God will make up for it all. One glimpse of Him and what will persecution seem? You have been called ugly names. Ill words have been pelted at you—but what will they be when you shall hear Him say, "Come, you blessed of My Father, inherit the kingdom prepared for you from before the foundation of the world" ?
 
 There! The world's thunder is gone like a whisper amidst the more glorious roll of angelic acclamations and the hiss of enmity is all forgotten amidst the kiss of love which the Savior gives to all His faithful ones. Cheered by the reward, I pray you press forward! Greater riches than all the treasures of Egypt shall you have who can renounce all for Christ's sake! "Be you faithful unto death and He will give you a crown of life." God grant that we may all be found numbered among the elect of Divine Grace and none of us be cast away and His shall be the praise forever and ever. Amen.
-
 
 ---
 [[Sermon 0637 The Dove'S Return To The Ark|← #637]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0639 Zealots|#639 →]]

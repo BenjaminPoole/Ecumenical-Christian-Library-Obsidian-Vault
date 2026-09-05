@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 218. Mark 16:12; Luke 24:13-30
-
-**MARK 16:12; LUKE 24:13-30**
 
 **12.** And after these things he appeared in another form to two of them who were walking, and were going into the country.
 

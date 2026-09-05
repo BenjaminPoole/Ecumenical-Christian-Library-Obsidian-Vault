@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # God's Hidden Ones
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2367
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your hidden ones." Psalm 83:3.
 
@@ -178,7 +175,6 @@ Now this is just what happens to many men who set themselves against God and His
 17\. Let them be confused and troubled forever. Or rather, "They shall be confused and troubled forever." That is an awful passage, "Confused and troubled forever."
 
 17, 18. Yes, let them be put to shame and perish: that men may know that You, whose name alone is JEHOVAH, are the Most High over all the earth. You notice that when I read the Scriptures, wherever I find the word, LORD, in capital letters, I read it as Jehovah, for so it should be. I wish that the translators of the Revised Version had had the courage of their convictions and had so translated it, for we need that grand name back—Jah, Jehovah. Let me entreat You never to trifle, as some do, with that sacred word, Hallelujah, or, Hallelu-Jah—praise to Jehovah!
-
 
 ---
 [[Sermon 2366 The Sure Mercies of David|← #2366]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2368 The Living Care of the Dying Christ|#2368 →]]

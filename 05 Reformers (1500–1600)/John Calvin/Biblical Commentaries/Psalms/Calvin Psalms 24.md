@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 24
-
-**PSALM 24.**
 
 As God stands related to all mankind as their Creator and Governor, David, from this consideration, magnifies the special favor which God manifested towards the children of Abraham, in choosing them to be his peculiar people, in preference to the rest of mankind, and in erecting his sanctuary as his house that he might dwell among them. He shows, at the same time, that although the sanctuary was open to all the Jews, God was not near to all of them, but only to those who feared and served him in sincerity, and who had cleansed themselves from the pollutions of the world, in order to devote themselves to holiness and righteousness. Moreover, as the grace of God was more clearly manifested after the temple was built, he celebrates that grace in a strain of splendid poetry, to encourage true believers with the more alacrity to persevere in the exercise of serving and honoring him.
 

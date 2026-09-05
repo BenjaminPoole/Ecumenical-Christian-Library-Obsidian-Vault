@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Zealous, But Wrong
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1899
-
-DELIVERED BY.
 
 > "Brethren, my heart's desire and prayer to God for Israelis that they might be saved. For I bear them record that they have a zeal of God, but not according to knowledge. For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God." Romans 10:1,2,3.
 
@@ -122,7 +119,6 @@ Many will not submit to that, yet they can never be saved from sin unless they y
 I most earnestly pray that many of you may submit to the righteousness of Christ. Yield yourselves up! Trust in Christ! Believe in Him who died for sinners! Take Him to be your Savior right now! Do not go to sleep till this is done, lest you wake up in the bottomless Pit!
 
 With my whole soul I offer the prayer of my text this night. And you, also, dear Friends, keep on praying! I ask all of you Christian people to insert a special petition into all your prayers and to keep it there—"O Lord, save by Your Grace those who have a zeal for You which is not according to knowledge! Grant that they may not go about to establish their own righteousness, but may submit themselves unto the righteousness of God!" Amen and Amen!
-
 
 ---
 [[Sermon 1898 Mouth and Heart|← #1898]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1900 Rejoice Evermore|#1900 →]]

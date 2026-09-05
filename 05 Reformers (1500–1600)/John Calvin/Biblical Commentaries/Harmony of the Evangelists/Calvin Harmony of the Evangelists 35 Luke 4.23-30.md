@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 35. Luke 4:23-30
-
-**LUKE 4:23-30**
 
 **23**. And he saith to them, Ye will altogether [^1] say to me this comparison, Physician, heal thyself: whatsoever things we have heard done in Capernaum, do thou also here in thy country. **24**. And he saith, Verily, I say to you, No prophet is acceptable in his own country. **25**. But in truth I say to you, There were many widows, in the days of Elijah, in Israel, when heaven was shut up three years and six months, so that there was great famine through all the land; **26**. And to none of them was Elijah sent, but to a woman, a widow, in Zarephath of Zidon. **27**. And there were many lepers in Israel, in the time of Elisha the prophet, and not one of them was cleansed, but Naaman, a Syrian. **28**. And all were filled with wrath in the synagogue, hearing these things, **29**. And rose up, and drove him out of the city, and led him to the brow of the hill on which their city was built, that they might throw him down. [^2] **30**. And he, passing through the midst of them, went away. [^3]
 

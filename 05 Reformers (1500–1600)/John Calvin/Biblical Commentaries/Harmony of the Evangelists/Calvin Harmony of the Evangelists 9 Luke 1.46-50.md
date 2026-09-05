@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 9. Luke 1:46-50
-
-**LUKE 1:46-50**
 
 **46**. And Mary saith, My soul magnifieth the Lord, **47**. And my spirit hath rejoiced [^1] in God my Savior. **48**. Because he hath looked upon the low condition of his handmaid: for from this time all generations shall call me blessed, **49**. Because he who is mighty hath done to me wonderful [^2] things: and holy is his name. **50**. And his mercy is from generation to generation to them that fear him.
 
@@ -57,7 +54,7 @@ Under the *fear* of the Lord is included the whole of godliness and religion, an
 [^1]: “Exultavit;” — “mon esprit s'est esiouy.”
 [^2]: “Magnifica.”
 [^3]: “Car avant que la volonte de l' homme soit mise en train de louer Dieu, il faut qu'il y ait devant une alaigrete et resiouissance d'esprit.” — “For before the will of man is set agoing to praise God, there must be previously a cheerfulness and rejoicing of spirit.”
-[^4]: “Les Latins, traduisans ce passage du Grec, ont us, du mot d'Humi- lite, lequel les barbares et sots parleurs de Latin, prennent ici comme en Francois, pour une facon de faire contraire a l'arrogance, assavoir quand une personne s'estime rien: mais il se prend autrement, assavoir pour Petitesse; c'est a dire, condition basse et meprisee.” — “The Latins, translating this passage from the Greek, have used the word Humility, which barbarians and fools talking Latin take here, as in French, for a manner of acting opposed to pride: but it is taken differently, namely, for Meanness, that is, a low and despicable condition.”
+[^4]: “Les Latins, traduisans ce passage du Grec, ont us, du mot d'Humi-lite, lequel les barbares et sots parleurs de Latin, prennent ici comme en Francois, pour une facon de faire contraire a l'arrogance, assavoir quand une personne s'estime rien: mais il se prend autrement, assavoir pour Petitesse; c'est a dire, condition basse et meprisee.” — “The Latins, translating this passage from the Greek, have used the word Humility, which barbarians and fools talking Latin take here, as in French, for a manner of acting opposed to pride: but it is taken differently, namely, for Meanness, that is, a low and despicable condition.”
 [^5]: “En cela nous voyons coment les Papistes accordent mal avec elle, lesquels sans jugement la parent de nouvelles louanges forgees en leurs cerveaux; et cependant ne tiennent quasi conte do tous les biens que’lle a eus de Dieu.” — “In this we see how ill the Papists agree with her, who without judgment adorn her with new praises forged in their own brains; and yet make no account, as it were, of all the benefits which she had from God.”
 [^6]: “Qui plus est, Satan les a transportez en une telle rage et forcenerie, qui’ls n’ont point eu de honte du luy attributer l’authorite de commander a Christ.” — “What is more, Satan has carried them away to such a rage and fury, that they are not ashamed to attribute to her authority to command Christ.”
 [^7]: “Roga Patrem, jube Natum.”

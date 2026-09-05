@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Sower
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2842
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, a sower went forth to sow." Matthew 13:3.
 
@@ -101,7 +98,7 @@ Now I have done when I invite my Brothers and Sisters here to go forth from this
 
 As for you dear Souls who have never received the Living Seed, oh, that you would receive it at once! May God, the Holy Spirit, make you to be like well-prepared ground that opens a thousand mouths to take in the Seed and then encloses the Seed within itself and makes it fructify! May God bless you. May He never leave you barren or unfruitful, but may you grow a great harvest to His Glory, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM106.
+## Exposition by C. H. Spurgeon: Psalm 106
 
 This is one of the "Songs of Degrees." They are supposed to have been sung as the pilgrim caravan was going up to the Temple at Jerusalem. Every time they halted and pitched their tents, they sang a Psalm. If carefully read, it will be found that these Psalms exhibit a real advance in experience. For instance, the keynote of the 125th is stability, while that of the 126th is joy, and especially joyful hope. Each one appears to advance a stage higher than the one that precedes it.
 
@@ -116,7 +113,6 @@ Verse 1. When the LORD turned again the captivity of Zion, we were like they tha
 4\. Turn again our captivity, O LORD, as the streams in the south. The riverbeds, when the Southern torrents have been dried up, seem to be nothing but a gathering of stones and dust. Then comes a copious rain, bringing a sudden flush of water and the captivity of the stream is gone. That is the meaning of the prayer, "Turn again our captivity, O Lord, as the streams in the south."
 
 5\. 6. They that sow in tears shall reap in joy. He that goes forth and weeps, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him. Notice that word, "doubtless." If you have any doubt about it in your own case, may the Lord drive all your doubts away! When God says, "doubtless," we must not be doubtful. "He shall doubtless come again with rejoicing, bringing his sheaves with him."
-
 
 ---
 [[Sermon 2841 Prayer-Its Discouragements and Encouragements|← #2841]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2843 The Seed by the Wayside|#2843 →]]

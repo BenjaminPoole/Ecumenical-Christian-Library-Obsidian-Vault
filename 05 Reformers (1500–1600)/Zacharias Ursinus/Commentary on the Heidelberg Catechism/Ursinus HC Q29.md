@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 29. Why is the Son of God called Jesus, that is, a Saviour?
-
-**Question 29. Why is the Son of God called Jesus, that is, a Saviour?**
 
 Answer. Because he saveth us, and delivereth us from our sins; and likewise because we ought not to seek, neither can find salvation in any other.
 
-**EXPOSITION**
+## **Exposition**
 
 The second part of the Creed, which now follows, treats of the mediator. The doctrine of the mediator consists of two parts: the one has respect to the person of the mediator; the other to his office. These two articles are concerning his person; and in Jesus Christ his only begotten son, our Lord, who was conceived by the the Holy Ghost, born of the Virgin Mary. The four following articles which bring us down to the article of the Holy Ghost, treat of the office of the mediator. The office of the mediator consists of two parts: his humiliation or merit; and his glorification or efficacy. Now as it respects his humiliation, Christ is meritorious; as it respects his glorification, he is efficacious. The fourth article treats of his humiliation: Suffered under Pontius Pilate, was crucified, dead and buried; he descended into hell. The fifth and sixth treat of his glorification: The third day he arose from the dead; ascended into heaven; sitteth at the right hand of God the Father Almighty. The seventh which refers to his coming to judge the world, respects the consummation of his glory, when God will be all in all.
 

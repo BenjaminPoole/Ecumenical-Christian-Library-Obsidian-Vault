@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Christ in You
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1720
 
-DELIVERED ON LORDS-DAY MORNING, MAY 13, 1883,.
+*Delivered on Lords-Day Morning, May 13, 1883*
 
 > "Christ in you, the hope of glory." Colossians 1:27.
 
@@ -124,7 +123,6 @@ all. There was nothing to tempt Him to come, and if, in Sovereign Grace, He deig
 Someone asked another, the other day, "What persuasion are you of?" And the answer was, "I am persuaded that neither life, nor death nor things present, nor things to come shall separate us from the love of God which is in Christ Jesus our Lord." Are not you of that persuasion, Brother? If so, you can see how Christ in you is the hope of glory. Why, look, Sirs, Christ in you is glory! Did we not show that just now? "Lift up your heads, O you gates, and be you lifted up you everlasting doors, that the King of Glory may come in!" You have Heaven in having Christ, for Christ is the biggest part of Heaven! Is not Christ the soul of Heaven, and having Him you have glory? What is more, having gotten Christ, Christ's glory and your glory are wrapped up together.
 
 If Christ were to lose you, it would be a great loss to you, but a greater loss to Him. If I can perish with Christ in me, I shall certainly be a fearful loser, but so will He, for where is His honor, where His glory if a Believer perishes? His glory is gone if one soul that trusts in Him is ever cast away. Comfort yourselves with this word—Christ in you means you in glory, as surely us God lives! There is no question about that! Go your ways and rejoice in Christ Jesus and let men see who it is that lives in you! Let Jesus speak through your mouth, weep through your eyes and smile through your face! Let Him work with your hands and walk within your feet, and be tender with your heart. Let Him seek sinners through you! Let Him comfort saints through you until the day breaks and the shadows flee away!
-
 
 ---
 [[Sermon 1719 The Tent Dissolved and the Mansion Entered|← #1719]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1721 Glory!|#1721 →]]

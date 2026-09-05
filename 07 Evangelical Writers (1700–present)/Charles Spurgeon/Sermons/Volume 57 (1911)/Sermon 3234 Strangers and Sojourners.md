@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Strangers and Sojourners
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3234
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For I am a stranger with You, and a sojourner, as all my fathers were." Psalm 39:12.
 
@@ -131,7 +128,7 @@ And dying is but going Home" And going Home is not hard work. Going Home is not 
 
 Yet, alas, there are some here who may well dread their Home-going, for they are strangers to God, "aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world." O Soul, if that is your condition, do not remain a stranger to God a moment longer! Repent of your sin and trust God to forgive it for Jesus sake! "Believe on the Lord Jesus Christ and you shall be saved." And then, though you will be a stranger, here, you will not be stranger up there where He is! God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM39.
+## Exposition by C. H. Spurgeon: Psalm 39
 
 This Psalm gives a description of David's experience and conduct when stretched upon a sickbed. He appears to have felt impatience working within him, which I am sorry to say is a very common disease with most of us when God's hand is heavy upon us. Yet David struggled against his impatience. Though he felt it, he would not know it, lest he should thereby open the mouths of his enemies and cause them to speak evil of his God. Let us imitate his restraint if we resemble him in the temptation to impatience.
 
@@ -174,7 +171,6 @@ AND HEAVEN'S VERITIES.] They fret, and fume, and flurry, and worry—and all abo
 12\. For I am a stranger with You, and a sojourner, as all my fathers were. "I am not a stranger to You, O my God! Blessed be Your holy name, I know You well, but 'I am a stranger with You.' You are a stranger in Your own world, and so am I. The world knows You not, and the world knows me not. And when I act as You act, the world hates me even as it hates You."
 
 13\. O spare me, that I may recover strength before I go hence, and be no more.
-
 
 ---
 [[Sermon 3233 God's Firebrands|← #3233]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3235 The Hope That Purifies|#3235 →]]

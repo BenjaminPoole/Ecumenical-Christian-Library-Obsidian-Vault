@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # How God Condemned Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 932
 
-DELIVERED ON LORD'S-DAY EVENING, MAY 8, 1870,.
+*Delivered on Lord's-Day Evening, May 8, 1870*
 
 > "For what the Law could not do, in that it was weak through the flesh, God sending His o wn Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh." Romans 8:3.
 
@@ -142,7 +141,6 @@ The other word is this. You that profess to be Christians, to believe what I hav
 If your lives should be unholy, if you trades people should be dishonest, if you rich people should be proud and selfish, if you poor people should be envious, if any of you should be drunken, if you should be loose in speech, if you should be unclean in deed or in conversation, men may say—"The preacher has only laid down a theory, let him show us facts." Well. But I can show facts. I bless God that I have it in my own soul to say that I believe the most of you do so live as to prove these things. But even so, there are others of you of whom I tell you, even weeping, that you are the enemies of the Cross of Christ. Enemies! Of all enemies the worst of enemies, too, because while professing to be actuated by them, you live in opposition to the teachings of Jesus.
 
 O blessed Savior! Wounded worse by Your treacherous friends than by Your open foes. O holy Faith! More damaged by your professors than by your antagonists. The Lord grant us to walk and live in holiness, and in His fear, till the Master shall come, as come He will a second time without a sin-offering unto salvation. Finally, Brothers and Sisters, farewell. Let me dismiss you with a blessing.
-
 
 ---
 [[Sermon 0931 Three Precious Things|← #931]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0933 Angelic Studies|#933 →]]

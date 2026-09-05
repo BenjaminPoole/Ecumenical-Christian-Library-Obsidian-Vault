@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Isaiah 10:1-34
 

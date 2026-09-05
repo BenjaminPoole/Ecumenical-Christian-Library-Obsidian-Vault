@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Beatitudes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3155
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And seeing the multitudes, He went up into a mountain: and when He was seated, His disciples came to Him. And He opened His mouth and taught them, saying, Blessed are the poor in spirit: for theirs is the Kingdom of Heaven. Blessed are they who mourn: for they shall be comforted. Blessed are the meek: for they shall inherit the earth. Blessed are they who hunger and thirst after righteousness: for they shall be filled. Blessed are the merciful: for they shall obtain mercy. Blessed are the pure in heart: for they shall see God. Blessed are the peacemakers: for they shall be called the children of God. Blessed are they which are persecuted for righteousness' sake: for theirs is the Kingdom of Heaven. Blessed are you when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for My sake. Rejoice, and be exceedingly glad: for great isyour reward in Heaven: for so persecuted they the Prophets which were before you." Matthew 5:1-12.
 
@@ -73,7 +70,7 @@ The whole of the seven Beatitudes composing this celestial ascent to the House o
 
 Here we pause for now and shall, by God's help, consider one of the Beatitudes in our next homily.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:1-30.
+## Exposition by C. H. Spurgeon: Matthew 5:1-30
 
 Verses 1, 2. And seeing the multitudes, He went up into a mountain: and when He was seated, His disciples came to Him: and He opened His mouth, and taught them, saying.Our Savior soon gathered a congregation. The multitudes perceived in Him a love to them and a willingness to impart blessing to them. And, therefore, they gathered about Him. He chose the mountain and the open air for the delivery of this great discourse—and we would be glad to find such a place for our assemblies—but in this variable climate we cannot often do so. "And when He was seated." The Preacher sat and the people stood. We might make a helpful change if we were sometimes to adopt a similar plan now. I am afraid that ease of posture may contribute to the creation of slumber of heart in the hearers. There Christ sat and "His disciples came to Him." They formed the inner circle that was ever nearest to Him—and to them He imparted His choicest secrets. But He also spoke to the multitude and therefore it is said that, "He opened His mouth," as well He might when there were such great Truths of God to proceed from it and so vast a crowd to hear them! "He opened His mouth, and taught them, saying."
 
@@ -134,7 +131,6 @@ Verses 1, 2. And seeing the multitudes, He went up into a mountain: and when He 
 29\. And if your right eye offends you, pluck it out and cast it from you: for it is profitable for you that one of your members should perish, and not that your whole body should be cast into Hell. That which is the cause of sin is to be given up as well as the sin itself. It is not sinful to have an eye, or to cultivate keen perception—but if the eye of speculative knowledge leads us to offend by intellectual sin, it becomes the cause of evil and must be mortified. Anything, however harmless, which leads me to do, or think, or feel wrongly, I am to get rid of as much as if it were in itself an evil! Though to have done with it would involve deprivation, yet must it is dispensed with, since even a serious loss in one direction is far better than the losing of the whole man! Better a blind saint than a quick-sighted sinner! If abstaining from alcohol caused weakness of body, it would be better to be weak than to be strong and fall into drunkenness. Since vain speculations and reasoning land men in unbelief, we will have none of them! To "be cast into Hell" is too great a risk to run to merely indulge the evil eye of lust or curiosity.
 
 30\. And if your right hand offends you, cut it off and cast it from you: for it is profitable for you that one of your members should perish, and not that your whole body should be cast into Hell. The cause of offense may be rather active as the hand than intellectual as the eye, but we had better be hindered in our work than drawn aside into temptation. The most dexterous hand must not be spared if it encourages us in doing evil! It is not because a certain thing may make us clever and successful that we are to allow it—if it should prove to be the frequent cause of our falling into sin—we must have done with it and place ourselves at a disadvantage for our life-work rather than ruin our whole being by sin. Holiness is to be our first objective—everything else must take a very secondary place. Right eyes and right hands are no longer right if they lead us wrong. Even hands and eyes must go that we may not offend our God by them. Yet, let no man read this literally and, therefore, mutilate his body as some foolish fanatics have done! The real meaning is clear enough.
-
 
 ---
 [[Sermon 3154 Concerning The Forbearance Of God|← #3154]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3156 The First Beatitude|#3156 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 144. Matthew 17:9-13; Mark9:9-13; Luke 9:36
-
-**Matthew 17:9-13; Mark9:9-13; Luke 9:36**
 
 **9**. And as they were going down from the mountain, Jesus commanded them, saying, Tell the vision to no man, till the Son of man be risen from the dead. **10**. And his disciples asked him, saying, Why then do the scribes say that Elijah must come first? **11**. And Jesus answering said to them, Elijah indeed will come first, and restore all things. **12**. But I say to you, That Elijah is come already, and they did not know him, but have done to him whatever they pleased: thus also will the Son of man suffer from them. **13**. Then the disciples understood that he had spoken to them concerning John the Baptist. [^1]
 

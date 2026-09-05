@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 28
 
-**CHAPTER 28**
+***Chapter 28***
 
 ## Isaiah 28:1-29
 

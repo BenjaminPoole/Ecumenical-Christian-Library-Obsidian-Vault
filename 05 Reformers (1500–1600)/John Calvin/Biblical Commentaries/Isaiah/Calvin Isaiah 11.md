@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Isaiah 11:1-16
 

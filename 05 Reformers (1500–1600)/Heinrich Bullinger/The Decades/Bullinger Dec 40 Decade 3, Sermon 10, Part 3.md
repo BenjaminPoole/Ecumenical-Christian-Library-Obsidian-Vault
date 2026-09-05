@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 40. Decade 3, Sermon 10, Part 3
 
 [2 sam. xii. To David we read that the prophet Nathan said, " The
@@ -40,7 +39,7 @@ Bullinger, Heinrich
 
 The decades of Henry Bullinger
 
-UNIVERSITY OF TORONTO LIBRARY
+## University of Toronto Library
 
 ---
 [[Bullinger Dec 39 Decade 3, Sermon 10, Part 2|← 39. Decade 3, Sermon 10, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 41 Decade 4, Sermon 1, Part 1|41. Decade 4, Sermon 1, Part 1 →]]

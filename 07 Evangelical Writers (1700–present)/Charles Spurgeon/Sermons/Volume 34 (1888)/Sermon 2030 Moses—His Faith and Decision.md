@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Moses—His Faith and Decision
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2030
 
-DELIVERED ON LORD'S DAY MORNING, JUNE 24, 1888,.
+*Delivered on Lord's Day Morning, June 24, 1888*
 
 > "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter; choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompense of the reward." Hebrews 11:24-26
 
@@ -146,7 +145,6 @@ If you do this, you cannot tell what God has in store for you, nor need you give
 Young man, if you give yourself unto the Lord you can little guess what He will do with you. What you lose will be a mere trifle compared with what you will gain. As to honor—all honor and glory lie in the service of the Most High. I am come to this conclusion, my Brethren—whether I sink or whether I swim, I am the Lord's! By His Grace I will believe His Word and cling to its inspiration, whether the Lord shall roll away my reproach or not. I would say with the three holy children, "Our God whom we serve is able to deliver us from the burning fiery furnace and He will deliver us out of your hand, O King. But if not, be it known unto you, O King, that we will not serve your gods, nor worship the golden image which you have set up."
 
 By God's Grace, with Job my heart has said—"Though He slay me, yet will I trust in Him." Be this the resolve of each one, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 2029 Let Him Deliver Him Now|← #2029]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2031 David Dancing Before the Ark Because of His Election|#2031 →]]

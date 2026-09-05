@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Christ's Rest and Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2542
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His rest shall be glorious." Isaiah 11:10.
 
@@ -115,7 +112,7 @@ The imprisoning stone is rolled away!" Therefore, comfort one another with these
 
 I wish that everybody here had that rest. I am afraid that some of you have no rest at all. I pray that you never may have any until you come and take Jesus Christ by an act of simple faith to be your rest forever and ever. Amen.
 
-EXPOSITION BY C. H SPURGEON: ISAIAH51:1-13.
+## Exposition by C. H Spurgeon: Isaiah 51:1-13
 
 Verses 1, 2. Hearken to Me, you that follow after righteousness, you that seek the Lord: look unto the rock from which you were hewn, and to the hole of the pit from which you are dug. Look unto Abraham your father, and unto Sarah that bore you: for I calledhim alone, and blessed him, and increased him. This is for your comfort, dear Friends. If God could make out of Abraham and Sarah so great a nation as that of Israel, what is there that He cannot do? Do you say that the cause of God is brought very low in these evil days? It is not so low as when there seemed to be none but Abraham faithful in the whole world! Yet God made that one mighty man to be like a foundation upon which He built up the chosen people, to whose keeping He committed the sacred Oracles. And if He did that, what can He not do? However low you may individually sink, or however weak you may feel, look back to Abraham and learn from his experience what God can do with you.
 
@@ -148,7 +145,6 @@ Verses 1, 2. Hearken to Me, you that follow after righteousness, you that seek t
 13\. And forget the Lord your Maker, thathas stretched forth the heavens, andlaid the foundations ofthe earth; and have feared continually every day because of the fury ofthe oppressor, as if he were ready to destroy? And where is the fury ofthe oppressor?Why, in the hand of God, and He can let it out, or hold it in according to His infinite wisdom and almighty power! Why, then, are you afraid? Is there any might in all the world except the might of the Omnipotent One? Can anything happen but what He permits? Be still, then, and rest in Him—"Who are you, that you should be afraid of a man that shall die, and forget the LordyourMakeft" In your fear there is something of egotism, something of your own self. Lay that aside and, as a babe does not feel itself wise enough to judge of danger, but sleeps calmly upon its mother's bosom, so do you! All is well that is in God's hands and you, also, are in God's hands if you have received His Atonement in the Person of His dear Son. Therefore, give up your heart to joy and gladness, and let sorrow and sighing flee from you! Even now, let this be your happy song, as it is also mine—
 
 "All that remains for me Is but to love and sing And wait until the angels come To bear me to the King!"
-
 
 ---
 [[Sermon 2541 'Mr. Moody's Text'|← #2541]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2543 Good Reasons for a Good Resolution|#2543 →]]

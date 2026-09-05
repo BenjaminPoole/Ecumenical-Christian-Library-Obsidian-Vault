@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Habakkuk 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Habakkuk 3:1
 

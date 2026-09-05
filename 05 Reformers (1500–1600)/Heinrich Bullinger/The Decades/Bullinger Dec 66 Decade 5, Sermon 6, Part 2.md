@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 66. Decade 5, Sermon 6, Part 2
 
 deceive one another by them, but by the which one might make another to know his meaning : therefore to use words unto deceit, and not to that end whereunto they were ordained, is sin5." The same Aurelius Augustinus, gathering a
@@ -42,8 +41,6 @@ through of the authors of gatherings, which are given of one gatherings, shepher
 
 [n the lady — eloquence, not in Lat.] to the word.
 
-266 THE FIFTH DECADE. [sERM.
-
 and either put on or join them with the signs. But we will shew hereafter, that the signs are not changed or mingled with the things signified, but that both of them do remain still in their own nature and property. It shall be sufficient, if we attribute that to the words which the scripture doth attribute ; to wit, the office of signifying and admonishing, of moving and stirring up, which they have from God. For they do defile and blemish the words of God, which deck them with strange and falsified titles. "oZr'ofaiWe acknowledge indeed, that all the power of almighty iTlmributed God is attributed to the word of God : but who seeth not, that that is spoken and meant of the everlasting Son of God, who in1 the scripture is called the Word of God? Who i3 such a dorhead2, that cannot rightly distinguish between the everlasting Word of God, which is the Son of God, the second person in the reverend Trinity, and the word rehearsed, spoken, or pronounced by man ? The everlasting Word of God remaineth in his own substance and nature a creator, and not a creature : it is not mingled, it is not graffed or incorporated into man's voice. The word which proceedeth from man is a creature, not a creator, and remaineth still a creature ; for it is a sound which passeth away : nevertheless it is3 a virtue which (still) remaineth, if it be sincere and not adulterate, and received by faith. For so it preserveth ; yet not of his own proper virtue or power, or because it is pronounced by man : but through his power or virtue which revealed the word, who is true, and therefore preserveth those things which by his word he promiseth to preserve4; so that now indeed God himself doth preserve, who said that by his word he would preserve those that believe. The word therefore, which God hath revealed unto us by his servants the prophets and by his chosen apostles, is not, neither is called, the word of God, as if the sound of syllables, words, and voices, are of their own nature the word of God ; that very same, I mean, which of his own substance5 is the Son of God : but because the revelation of the word was made from God in the Holy Ghost through the word or wisdom of God. Wherefore although
 
 P Misprinted in all the editions, wherein : qui in, Lat.] [2 See Vol. ii. p. 332, n. 1.]
@@ -59,8 +56,6 @@ But now some will say: If bv reciting the words of God oftruesanc-
 [6 Rather; by which statement meanwhile I would not disparage the due force of the external word of God. Quibus interim nolo externi verbi Dei vim justam elevatam, Lat. The latter half of the sentence is the translator's addition.]
 
 [? Decade i. Serm. 1.]
-
-2G8 THE FIFTH DECADE. [sERM.
 
 any other mean, he consccrateth the thing -which he himself hath already instituted. For as he is holy, just, and good, so whatsoever he commandeth is holy, just, and good ; and man, understanding by the word of God that God hath instituted anything to a holy, just, and good use, accepteth, receiveth, and useth that institution for holy, good, and just. Therefore man doth not by uttering certain words consecrate and make holy the institution. And because he believeth that all the institutions of God are holy and good, therefore he also celebrateth this institution of God, even as God hath ordained, and giveth God thanks, depending altogether upon God and the rule of his word1. Of this manner of sanctification the apostle speaking in another certain place saith : 1 Tim. w. " Now the Spirit speaketh evidently, that in the latter times there shall rise deceivers, forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. For every creature of God is good, and nothing to be refused, if it be received with thanksgiving : for it is sanctified by the word of God and prayer." Lo, he saith, " meat is sanctified by the word of God and prayer." But the word of God is in this place (as Paul the apostle expoundeth it) a testimony of the scripture and will of God, whereby we are taught, that all things which God hath made are exceeding good, and that they are clean, and not unclean, which God hath created for to be eaten and for our use. Actsx. In the Acts St Peter heareth, "Arise, Peter, slay, and eat;" for he saw in a vision before him all living creatures of the earth and the air. " Peter answered, Not so, Lord ; for I have never eaten anything that is common or unclean." Therefore he heard again : " What God hath cleansed, that call thou not common." But where, I pray you, did he make them clean? When he made and gave them for the use of man. To the word is annexed prayer, not a charming or an enchantment, but a faithful thanksgiving. For the apostle more than once or twice maketh mention of thanksgiving, that by the general word, that is to say, prayer, no other thing might be understood than the special word, I mean, thanksgiving ; for prayer is (as a man would say) to invo-
 
@@ -82,8 +77,6 @@ so that the consecration of sacraments is made through the will, institution, ch
 
 [4 Rather, the holy Use of those who by a true faith set forth, &c. give thanks, &c]
 
-270 THE FIFTH DECADE. [sERM.
-
 To this purpose we may fetch examples of civil government, wherein some things, for certain new causes adjoined, having their substance remaining still, are now made that which before they were not. For silver or gold, being not yet coined with the magistrate's mark, is nothing else but silver and gold : but if, by the commandment of the magistrate, a new form be added by a print, it is made money, which it was not before, although it be the very same substance which it was before. Wax, before it be sealed, is common and usual wax ; but when, by the king's will and commandment, that which is engraven in the king's seal is printed in the wax, and is set to evidences and letters patents, by and by it is so esteemed, that whoso shall deface the sealed evidences1 is attached as guilty of treason. Whereby I trust you see plainly, that the true sanctification or consecration of sacraments doth consist in the will and institution of God, in a certain end and holy use of the same, which are declared unto us in the word ; of the which peradventure I have spoken more at large than some may think needful. But the godly reader will pardon me this my tediousness, since my desire is to open all things faithfully, diligently, and at large. Now that I have defended the lawful use of the word, and declared the virtue of it, and opened unto you, as occasion served, the true sanctification or consecration of sacraments, I will return to that where I left. And because I taught, that sacraments consist of two parts, the sign and the thing signified, it remaineth to shew, that those two parts retain their natures distinguished, not communicating properties ; by declaration whereof, both to those things which go before and to those which follow, yea, and to the whole substance of the sacrament, a wonderful light without doubt shall appear. But of communicating of the names or terms I will speak in their convenient place. tThbeyhmngasigThat each part retaineth their natures distinguished, withrmin their out communicating or mingling of properties, it is to be seen natures in the hereby ; that many be partakers of the sign, and vet are barred from the thing signified2. But if the natures of the parts were united or naturally knit together, it must needs be then, that those which be partakers of the signs must be par- l1 aut eerum, Lat. omitted : or the wax.] [~ cum re significata nihil commune habent.] takers also of the thing signified. Examples of scripture, as they are ready, so are they evident. For Simon Magus, in the Acts of the Apostles, received the sign, and was baptized : but of the thing signified he had not neither received so much as one iota. And Judas Iscariot, a cruel and faithless traitor of his master, did likewise eat the bread of the The wicked Lord, but he did not eat bread the Lord3; otherwise takers of tile he had lived happy, iust, and blessed for ever: for " he ,line() in the
 
 H» « sacraments.
@@ -98,8 +91,6 @@ To these evident testimonies of scripture I will now add also certain of St Augu
 
 The affinity
 
-272 THE FIFTH DECADE. [sERM.
-
 forth. lie hath the like words in his book De Civit. Dei\ xxi. 25. cap. And in his book De Doctr. Christ, iii. cap. 9. he sheweth, that "in the conjunction of natures there had need to be a distinction, lest we should stick too much upon the outward sign2."
 
 Now we come to the proofs of the scripture. The apostle witnesseth in the 1 Cor. x. cap. that " all our fathers were baptized, and did all eat of one spiritual meat, and did all drink of one manner of spiritual drink ; but the Lord in many of them had no delight :" whereas, if they had eaten that spiritual meat and drunk that spiritual drink spiritually by faith, undoubtedly the Lord had delighted in them. " For without faith," as he himself saith, " it is impossible to please God:" therefore with them that have faith God is well pleased. Wherefore our fathers truly were partakers of visible sacraments, but they were destitute of invisible grace : whereby it followeth, that the sign and the thing signified do retain their natures not confounded or mingled, but distinguished and separated. Besides this, the words of the gospel ofGo^ncf have some affinity, or at the least some likeness, with sacrasacraments. mental signs ; otherwise, the words are preferred far before the signs, the apostle saying, " that he was sent to preach, and not to baptize." But many hear with their outward ears the word of the Lord, who for all that, because they are void venerium fuit Judse? Et tamen accepit, et cum accepit in cum inimicus intravit: non quia malum accepit, sed quia bonum male malus accepit .... Hujus rei sacramentum, id est, uuitatis corporis et sanguinis Christi . . . . de mensa dominica sumitur, quibusdam ad vitam, quibusdam ad exitium : res vero ipsa, cujus et sacramentum est, omni bomini ad vitam, nulli ad exitium, quicunque ejus particcps fuerit.... Qui non manet in Christo et in quo non manet Cbristus proculdubio nee manducat spiritaliter carnem ejus, nee bibit ejus sanguinem, licet carnaliter et visibiliter premat dentibus sacramentum corporis et sanguinis Christi ; sed magis tanta; rei sacramentum ad judicium sibi manducat et bibit. — August, in Evang. Joan. Tract, xxvi. Opp. Tom. ix. fol. 47, coll. 2. 4. Par. 1531.]
@@ -112,7 +103,7 @@ of faith, are also without the inward fruit of the word ; Paul saying yet again 
 
 To this now pertaineth that evident testimony of St AuThe scripture
 
-........ J maketh dif- gustine, which is read, in. Quccst. lib. in Levit. Qucest. 83. ferencebe- p ' . . tween the in these words : " We must diligently consider, as often as he minist^°I
+........ J maketh dif-gustine, which is read, in. Quccst. lib. in Levit. Qucest. 83. ferencebe- p ' . . tween the in these words : " We must diligently consider, as often as he minist^°I
 
 O «/ ' man and the saith, 'I the Lord which sanctify him,1 that he speaketh of the Xespin".°f priest ; when he also spake this to Moses, ' and thou shalt sanctify him.1 How therefore doth both Moses and God also sanctify ? For Moses doth not sanctify for the Lord ; but Moses doth sanctify in the visible sacraments by his ministry, and the Lord by invisible grace by his Holy Spirit, where the whole fruit of visible sacraments also is. For without this sanctification of invisible grace what profit have we by visible sacraments4?" Thus far Augustine. As John Baptist made distinction between his own ministry in baptism and the power of Christ, even so maketh he distinction between the
 
@@ -121,8 +112,6 @@ O «/ ' man and the saith, 'I the Lord which sanctify him,1 that he speaketh of 
 [4 Animadvertendum est quoties dicit, Ego Dominus qui sanctifico eura, loqui do sacerdote ; cum hoc etiam Moysi dixerit, Et sanctificabis eum. Quomodo ergo et Moyses sanctificat et Dominus ? Non enim Moyses pro Domino ; sed Moyses visibilibus sacramentis per ministerium suum, Dominus autem invisibili gratia per Spiritum Sanctum : ubi est totus fructus etiam visibilium sacramentorum. Nam sine ista sanctificatione invisibilis gratia; visibilia sacramenta quid prosunt? — August. Qiuest. super Levit. Lib. in. cap. 84. Opp. Tom. iv. fol. 49. col. 1. Par. 1531.] r i 18
 
 Lbullingep.j I v.]
-
-274 THE FIFTH DECADE. [sERM.
 
 ministry of preaching and the drawing of the spiritual1 johniii.' teacher : " I am," saith he, " the voice of a crier in the wilderness, Make straight the way of the Lord." And again : " He that cometh from an high is above all ; he that is of the earth is earthly, and speaketh of the earth ; he that cometh from heaven is above all ; and what he hath seen and heard, that he testifieth," &c. St Paul also agreeing thereunto saith : i cor. ni. " Who is Paul, what is Apollos, but ministers by whom ye believed, even as the Lord gave to every man ? I have planted, Apollos watered; but God gave the increase. So that neither is he that planteth anything, neither he that watereth ; but God that giveth the increase.1' Albeit the comparison of ministers with the signs agree not altogether and in every part (which I told you before), because ministers are fellow-labourers with Christ according to their office ; but the signs which are without life are not so, unless kclt e^o^rjy we translate unto them that which is the ministers' : yet by other proofs I suppose it to be made plain, that the sign and thing signified do retain their natures distinguished in the sacraments. Theopinion These things do specially disprove and convince those, who of the papists . .
 
@@ -170,8 +159,6 @@ The gospel, very diligently describing the most holy institution of the Lord's s
 
 [13 Dicendum quod ecclesia declaravit istum intellectum esse de veritate fidei in illo symbolo edito sub Innocent. III. in concilio Lateranensi, Firm iter credimus, &c. . . . ubi explicite ponitur Veritas aliquorum credendorum, magis explicite quam habebatur in symbolo
 
-278 THE PIFTII DECADE. [sERM.
-
 in the creed of the apostles, neither in those creeds of the ancient fathers ; but that it was brought in and invented of
 
 The council the church (so saith he, meaning the llomish church,) under was in the Innocentius the third, in the council of Lateran. Whereby year of the . . . . „ .
@@ -183,8 +170,6 @@ Lord 1215. we gather, that the doctrine of transubstantiation is of late time an
 [3 i. e. of that thing.] [4 anxie, Lat.] delivered of the apostles, and that the thing, being plain of itself, by such manner of sophistications is made dark, doubtful, difficult, and obscure ; simply and plainly say, that the sign and the thing signified are joined together in the sacraments by God's institution, by faithful contemplation and use ; to be short, in signification and likeness of the things : but I utterly deny, that those two are naturally united together, so that the sign in the sacrament beginneth to be that which the thing signified is in his own substance and nature : I deny, that the thing signified is joined corporally with the sign, so that the sign remaineth still in his own substance and nature, and yet nevertheless, in the mean time, hath the thing signified corporally joined unto it ; that thereby whosoever is partaker of the sign, should be also by the sign or with the sign partaker of the thing itself. The reason why I do so constantly deny that, appeareth, I think, sufficiently by those examples which I have hitherto declared, and which hereafter shall be declared.
 
 Furthermore, I say that the sign and the thing signified it is declared, are coupled together by God's5 institution, because he which memstne lot/ ' . . i signs and the instituted the sacrament of baptism and the supper, instituted ^f^'5"1it not to this end, that with water we might wash away Jg°jtnheer#to" the filth of the body, as the custom is to do by daily use of baths ; neither that we should take our fill of the bread and wine : but that under visible signs he might commend unto us the mysteries of our redemption and his grace, and, to be short, of our salvation, byG representing them to renew them, and by sealing them to confirm them. My saying is, that they are coupled together in a faithful contemplation, because they which partake the sacraments religiously do not fasten their eyes on sensible things only, but rather on things insensible, signified, and heavenly ; so that the faithful have in themselves both twain coupled together, which otherwise in the sign or with the sign are knit together with no bond. For corporally and sensibly they receive the signs, but spiritually they possess, comprehend, renew, and exercise the things signified. In signification and likeness of the things, I say, they are coupled together, because the sign is a token of the thing signified : and unless signs have likeness with those things whereof they are signs, then would they be no [5 God's, not in Lat.] [6 and by, Lat]
-
-280 THE FIFTH DECADE. [sERM.
 
 signs. They have therefore most apt and very near affinity between themselves. For as water washeth away the filth of the body ; as bread and wine satisfieth and maketh merry the heart of man ; even so by the grace of God the people of God arc purified ; even so the body and blood of the Lord, which was given for us, being apprehended by faith, doth both satisfy and make merry the whole man, that he may yield himself wholly unto thanksgiving, and obedient to Godward. I would speak here more largely of the analogy, or of the sign and thing signified, but that I see I may do the same hereafter in place more convenient. But I think I shall not need any more places out of the scripture, to open these things more evidently ; since they follow of their own accord upon that which we have hitherto by testimonies of scriptures confirmed, and will hereafter more at large confirm, signs borrow Moreover, in respect of the likeness of the sign and the the names of i ° fihed.gs signi~ thing signified, the name of the one is given to the other1, as I will prove by most evident testimonies of scripture. In dlrionm' Genesis xvii. the Lord saith thus to Abraham : " Thou shalt keep my covenant therefore, both thou and thy seed after thee in their generations. This is my covenant, which ye shall keep between me and you ; every man-child among you shall be circumcised. Ye shall circumcise the flesh of your foreskin, and it shall be a token of the covenant between me and you." The mouth of the Lord hath spoken this. Who will gainsay the word of God? The word of God callcth circumcision a covenant ; therefore the name of the thing signified is given to the sign. For in very deed circumcision is not the covenant itself; for the covenant is the bargain and agreement between God and men, which hath certain conditions and articles. Wherefore afterward, by interpretation, the same circumcision is called " a token of the covenant." And who will find fault with this interpretation of God ? The signs therefore, yea, God being the interpreter, take the names of the things signified.
 
@@ -203,8 +188,6 @@ Again, you read in the nineteenth of Numbers : " Thus sacrifices. spake the Lord
 [6 de peccato, Lat. See Vol. II. p. 256, n. 5.]
 
 [? So also ed. 1584 : but 1577, one oblation : unica hostia, Lat.]
-
-282 THE FIFTH DECADE. [sERM.
 
 of his body he might cleanse and purge us from sin. Hitherto also belongeth that which the apostle, speaking of sacrifices
 
@@ -236,11 +219,11 @@ Those therefore that are skilful in the things understand that that is and hath 
 
 [7 So also ed. 1584: but 1577, go on : pergeret, Lat.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
 The ancient fathers moved no contentions about the sacraments.
 
-[SERM.
+## [Serm
 
 fathers moved no strife nor contentions about the sacraments, as are at this day among us. For as they did beautify the signs with the names of the things (signified), so did they acknowledge the kind of speech ; neither did they roughly urge the words, as though the very signs were really and corporally that selfsame thing which they signified. Therefore this canon or rule is so often repeated and beaten upon by Aurelius Augustine, "That the signs do take or borrow the names of things signified1." By the same canon or rule he maketh plain certain dark places ; of which thing we will now set down some testimonies. In hialZpist. 23. ad Bonifaciina, de Parvulorum Baptismate, he saith : " If sacraments had not some likeness with those things whereof they are sacraments, no doubt they were no sacraments ; for of this likeness, for the most part, they take the names of the things themselves. As also the apostle, speaking of baptism, saith, « We are buried with Christ by baptism into his death.' He doth not say, we signify the burial; but he doth flatly say, 'we are buried.' Therefore he called the sacrament of so great a thing no otherwise but by the name of the selfsame thing2." And in Tract, super Joan. 63: " When the unclean person is gone, all which remain are clean. Such a like thing shall there be, when the world, being overcome of Christ, shall pass away, and there shall no unclean person remain among the people of God ; when, the tares being separated from the wheat, the just shall shine like the sun in the kingdom of their Father. The Lord foreseeing this would come to pass, and now witnessing that it was signified, when Judas fell away as tares separated, the holy apostles remaining as wheat, he saith, ' Now is the Son of man glorified f as if he had said, Behold what shall be when I am glorified, where there shall be no wicked person, and where no good man shall perish. For he
 
@@ -254,9 +237,9 @@ but he saith, ' Now is the Son of man glorified.' As it is not said, The rock si
 
 [3 Exeunte immundo omnes mundi remanserunt .... tale aliquid erit cum victus a Christo transient hie mundus, ct nemo in populo Christi remanebit immundus ; cum zizaniis a tritico separatis justi fulgebunt sicut sol in regno Patris eorum. Hoc futurum prrevidens Dominus, et nunc significatum esse contestans, discedente Juda tanquam zizaniis separatis, remanentibus tanquam tritico apostolis Sanctis, Nunc, inquit, clarificatus est Filius hominis: tanquam diceret, Ecce in ilia clariflcatione mea quid erit, ubi malorum nullus erit, ubi bono rum nullus perit ! Sic autem non est dictum, Nunc significata est clariflcatio Filii hominis : sed dictum est, Nunc clarificatus est Filius hominis ; quemadmodum non est dictum, Petra significabat Christum, sed, Petra erat Christus : nee dictum est, Bonum semen significabat filios regni .... sed dictum est, Bonum semen hi sunt filii regni, zizania autem filii maligni. Sicut ergo solet loqui scriptura, res significantes tanquam illas qua; significantur appellans; ita locutus est Dominus dicens, Nunc clarificatus est Filius hominis, posteaquam separato inde nequissimo, et secum remanentibus Sanctis, significata est glorificatio ejus, quando separatis iniquis manebit in Eeternitate cum Sanctis. — August, in Evang. Joan. Tract, lxiii. Opp. Tom. ix. fol. 84. col. 3.]
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Their error, which will not have sacramental speeches expounded sacramentally,
 
@@ -273,8 +256,6 @@ VI.] OF SACRAMENTS. 2S7 by them, is a point of servile weakness ; so to expound 
 [2 Pauca pro multis, eaque factu facillima et intellectu augustissiraa et observatione castissima, ipse Dominus et apostolica tradidit disciplina : sicuti est baptismi sacramentum et celebratio corporis et sanguinis Domini : quae unusquisque cum percipit, quo referantur imbutus agnoscit, ut ea non carnali servitute sed spiritali potius libertate veneretur. Ut autem literam sequi, et signa pro rebus quae iis significantur accipere, servilis infirmitatis est ; ita inutiliter signa interpretari, male vagantis erroris est. — Id. de Doct. Christ. Lib. nr. cap. 9. Opp. Tom. in. fol. 11. col. 4.]
 
 [3 In principio cavendum est, ne figuratam locutionem ad literam accipias. Et ad hoc enim pertinet quod ait apostolus, Litera occidit, spiritus autem vivificat. Cum enim figurate dictum sic accipitur tanquam proprie dictum sit, carnaliter sapitur. Neque ulla mors animae congruentius appellatur, quam cum id etiam quod in ea bestias antecellit, hoc est, intelligentia, carni subjicitur sequendo literam. Qui enim sequitur literam, translata verba sicut propria tenet; neque illud quod proprio verbo significatur refert ad aliam significationem : sed si sabbatum audierit, vcrbi gratia, non intelligit nisi
-
-288 THE FIFTH DECADE. [sERM.
 
 words of Augustine we do gather, that they reverence the sacraments by spiritual liberty, which neither stick to the letter, neither worship and reverence the visible things and elements, as water, bread, and wine, instead of the things signified ; but being rather admonished and stirred up by the signs, they are lifted up in their minds to behold the things signified. HowafiguThis same Augustine, in the same book, chapter 15, rative speech ° „ .
 
@@ -295,8 +276,6 @@ Nevertheless, I am not ignorant what they set against The words of
 [3 Do Orig. Error, circa Coen. ct Miss. Pap. cap. 10.] r -i 19
 
 [bulling ER, IV. J
-
-290 THE FIFTH DECADE. [sERM.
 
 in sacraments there is the like reason, -why may we not frame arguments from the one to the other? And that sacraments have the like reason, it is received of all them which acknowledge the truth aright ; and it shall be proved hereafter to the full. But if it be not lawful to reason from the sacraments of the old Testament, and by them after a certain comparison to interpret ours, and by ours to make them plain ; truly then the apostle did not well, who by a false consequent by comparison we read to have argued from their sacraments unto ours, in the 1 Corinth, x. and to the Coloss. ii. chapter. But now we return to our purpose. we may use That we ma v yet at length make an end of this place ;
 
@@ -320,7 +299,7 @@ The rule of the apostles commandeth the divine oracles to be expounded in the ch
 
 [l Quapropter et eloquentes quidem non solum sapientes canonicos nostros auctores doctoresque fateamur tali eloquentia usos, quali personis ejusmodi congruebat. Sed nos etsi de Uteris eorum, quse sine difficultate intelliguntur, nonnulla sumimus elocutionis exempla, nequaquam tamen putare debemus imitandos eos nobis esse in iis qua; ad oxercendas et elimandas quodammodo mentes legentium, et
 
-VII.] OF SACRAMENTS. 2!J3
+## VII.] of Sacraments. 2!j3
 
 THAT WE MUST REASON REVERENTLY OF SACRAMENTS; THAT THEY DO NOT GIVE GRACE 2, NEITHEB II A \ i: GRACE INCLUDED IN THEM. AGAIN, WHAT THE VIRTUE AND LAWFUL END AND USE OF SACRAMENTS IS. THAT THEY PROFIT NOT WITHOUT FAITH; THAT THEY ARE NOT3 SUPERFLUOUS TO THE FAITHFUL; AND THAT THEY DO NOT DEPEND UPON THE WORTHINESS OR UNWORTHINESS OF THE MINISTER.
 

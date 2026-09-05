@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 102. Deuteronomy 27:11-26
-
-**Deuteronomy 27**
 
 **11.** And Moses charged the people the same day, saying,
 

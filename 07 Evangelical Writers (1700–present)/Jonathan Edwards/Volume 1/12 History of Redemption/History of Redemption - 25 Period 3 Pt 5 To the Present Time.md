@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART V.
 
-THE SUCCESS OF REDEMPTION FROM THE REFORMATION TO THE PRESENT TIME.
+*The Success of Redemption from the Reformation to the Present Time*
 
 Thus having gone through the dark time of the church, I come now to consider that part which begins with the Reformation, and reaches to the present time. And here I would, 1. Speak of the Reformation itself; 2. The opposition which the devil has made to the Reformed church; 3. What success there has lately been of the gospel in one place and another; 4. What the state of things is now in the world with regard to the church of Christ, and the success of his purchase.
 

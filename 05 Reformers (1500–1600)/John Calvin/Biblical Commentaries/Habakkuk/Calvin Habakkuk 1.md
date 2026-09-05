@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Habakkuk 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Lecture One Hundred And Sixth
 

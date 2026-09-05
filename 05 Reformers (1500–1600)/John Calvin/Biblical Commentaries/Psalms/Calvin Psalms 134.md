@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 134
-
-**PSALM 134**
 
 An exhortation to praise God, addressed to the people of God generally, but more particularly to the Priests and Levites.
 

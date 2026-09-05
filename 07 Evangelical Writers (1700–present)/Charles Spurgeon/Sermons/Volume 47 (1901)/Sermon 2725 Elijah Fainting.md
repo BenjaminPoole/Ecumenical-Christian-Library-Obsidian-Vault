@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Elijah Fainting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2725
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am no better than my fathers." 1 Kings 19:4.
 
@@ -138,7 +135,6 @@ And, lastly, there is one more practical lesson for us to learn—you and I have
 And you do not know, Brother, how much there is for you yet to live for. And you, my Sister, do not talk about dying, for you also have a great deal more to do before you get to Heaven-service for your Savior that will make Heaven all the better when you get there! God has such blessings in store for some of you that when they come to you, you will be
 
 like men that dream, and your mouth shall be filled with laughter, and your tongue with singing, and you will say, "The Lord has done great things for us; of which we are glad." Therefore, be of good courage and strengthen your hearts, and still wait upon the Lord until He comes. And may His blessing be with you forever! Amen.
-
 
 ---
 [[Sermon 2724 The Dew of Christ's Youth|← #2724]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2726 Fourfold Satisfaction|#2726 →]]

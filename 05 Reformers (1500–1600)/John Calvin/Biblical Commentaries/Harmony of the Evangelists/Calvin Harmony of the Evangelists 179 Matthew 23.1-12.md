@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 179. Matthew 23:1-12; Mark 12:38-39; Luke 11:43, 45-46; 20:45-46
-
-MATTHEW 23:1-12; MARK 12:38-39;  
-LUKE 11:43, 45-46; 20:45-46
 
 **1.** Then Jesus spoke to the multitude, and to his disciples, **2.** Saying, The scribes and the Pharisees sit in the chair of Moses. **3.** Observe and do, therefore, all things whatever they command you to observe; but do not according to their works; for they say and do not. **4.** For they bind heavy and intolerable burdens, and lay them on men’s shoulders; but they refuse to touch them with their finger. **5.** And they do all their works that they may be seen by men, and make their phylacteries broad, and wear large fringes on their robes, **6.** And love the first places at entertainments, and the first seats in the synagogues, **7.** And salutations in the marketplace, and to be called by men Rabbi. [^1] **8.** But as for you, be not called Rabbi; [^2] for there is one who is your Master, Christ; and you are all brethren. **9.** And do not call any one on earth your Father; for one is your Father, who is in heaven. **10.** And be not called Masters; [^3] for one is your Master, Christ. **11.** He who is greatest among you shall be your servant. **12.** But he that exalteth himself shall be humbled; and he that humbleth himself shall be exalted.
 

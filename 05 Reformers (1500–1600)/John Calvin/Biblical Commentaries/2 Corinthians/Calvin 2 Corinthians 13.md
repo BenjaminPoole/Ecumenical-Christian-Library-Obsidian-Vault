@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## 2 Corinthians 13:1-4
 

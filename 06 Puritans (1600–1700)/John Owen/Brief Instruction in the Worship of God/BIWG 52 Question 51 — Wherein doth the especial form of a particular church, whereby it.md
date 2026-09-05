@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 51 — Wherein doth the especial form of a particular church, whereby it becomes such, and is distinguished as such from all others, consist?
-
-Question 51 — Wherein doth the especial form of a particular church, whereby it becomes such, and is distinguished as such from all others, consist?
 
 Answer — In the special consent and agreement of all the members of it to walk together in the observation of the same ordinances numerically; hence its constitution and distinction from other churches doth proceed. Exod. xix. 5, 8, xxiv. 3, 7; Deut. xxvi. 17; 2 Cor. viii. 5; Acts xiv. 23, xx. 28; Heb. xiii. 17.
 
@@ -23,7 +20,6 @@ First, This is that which constitutes them a *distinct body*, different from oth
 Secondly, This gives them their *especial relation* unto their own elders, rulers, or guides, who watch over them as so associated by their own consent, according unto the command of Christ. And, —
 
 Thirdly, From hence they have their mutual especial relation unto one another; which is the ground of the especial exercise of all church duties whatsoever.
-
 
 ---
 [[BIWG 51 Question 50 — What is the duty of the whole church in reference unto such|← Question 50 — What is the duty of the whole church in reference unto such persons?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 53 Question 52 — Wherein consists the duty of any church of Christ towards other|Question 52 — Wherein consists the duty of any church of Christ towards other churches? →]]

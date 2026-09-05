@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # 'And It Was So'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3064
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And it was so." Genesis 1:7.
 
@@ -95,7 +92,7 @@ will I put within you." And if I have come to Jesus and rested in Him and, after
 
 Last word of all, remember that the very blood of Christ is at stake in the matter of God's Promise. If a poor guilty sinner shall come and rest in Jesus and yet is not saved, then Jesus Christ is grievously dishonored—He has shed His blood in vain! Shall they perish on whom His blood is sprinkled? Has the Fountain, after all its boasted efficacy, become a mockery? Is there no power in the Atonement of Jesus to cleanse the guilty? Ah, Beloved, He said it would cleanse and it was so, it is so and it shall be so forever! They who rest in Christ shall not perish, neither shall anyone pluck them out of His hand. Each one of us, as we arrive in Heaven, shall add our testimony to the general verdict of all the saints and say, "It was so. He said it and He fulfilled it. Glory be unto His name!" If any soul comes to Jesus at this hour, he shall find eternal life. "He that believes and is baptized shall be saved." Such is the Gospel. The Lord grant His great blessing!
 
-EXPOSITION BY C. H. SPURGEON: PSALM107:33-43.
+## Exposition by C. H. Spurgeon: Psalm 107:33-43
 
 [The previous portion of this Exposition was published with Sermon #3061, Volume 53—THE RULE OF GRACE.]
 
@@ -118,7 +115,6 @@ but they are very many and their strokes are very painful. May God grant that we
 42\. And all iniquity shall stop her mouth. She is generally very noisy and boastful, but sometimes, when God's judgments are abroad, she is obliged to hold her tongue. "All iniquity shall stop her mouth." O Lord, stop it speedily, for she is making a great noise just now!
 
 43\. Whoso is wise, and will observe these things, even they shall understand the loving kindness of the LORD. Those who watch Providence will never be without a Providence to watch!
-
 
 ---
 [[Sermon 3063 Jotham's Peculiar Honor|← #3063]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3065 The Third Beatitude|#3065 →]]

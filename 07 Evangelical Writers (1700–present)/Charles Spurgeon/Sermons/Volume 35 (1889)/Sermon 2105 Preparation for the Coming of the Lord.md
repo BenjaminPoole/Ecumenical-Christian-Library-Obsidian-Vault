@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Preparation for the Coming of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2105
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 22, 1889,.
+*Delivered on Lord's-Day Morning, September 22, 1889*
 
 > "And now, little children, abide in Him. That, when He shall appear, we may have confidence and not be ashamed before Him at His coming." 1 John 2:28.
 
@@ -176,7 +175,6 @@ He will come—behold, He is coming even now. Hear you not the sounding of His c
 Can you imagine the millennial splendor, the age of gold, the halcyon days of peace? As for the judgment of the world, know you not that the saints shall judge angels? They shall appear as assessors with Christ and the Lord shall bruise Satan under their feet. Glory awaits us and nothing but glory, if we abide in Christ. Therefore, keep your garments unspotted, your loins girt, your lamps trimmed, and your lights burning—and you, yourselves, as men and women that look for your Lord—when He comes, you may have confidence and not shame.
 
 May the Holy Spirit, without whom this cannot be, be freely given to us this day, that we may abide in the Lord! And you who have never trusted in Christ for salvation, may you come to Him and then "abide in Him" from this good hour! To His name be glory! Amen.
-
 
 ---
 [[Sermon 2104 The Inner Side of Conversion|← #2104]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2106 In the Garden With Him|#2106 →]]

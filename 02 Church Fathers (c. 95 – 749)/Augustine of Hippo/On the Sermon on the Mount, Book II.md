@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # On the Sermon on the Mount, Book II
 
-MATTHEW 6-7
+*Matthew 6-7*
 
 ## Chapter 1
 

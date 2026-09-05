@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Unbelievers Upbraided
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2890
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He.. .upbraided them with their unbelief." Mark 16:14.
 
@@ -89,7 +86,7 @@ Especially is it so, dear Brothers, if you happen to be in office in the church,
 
 I am sure, too, that the influence of unbelief in Christians upon the unconverted is very serious, indeed. If we do not play the man in times of trial—if we do not show them what faith in God can do—they will think that there is nothing in it. And suppose, Brothers and Sisters, you should make anyone think there is nothing in religion? How sad that would be! When the devil needs a friend, surely he could not find one more able to do him service than a child of God who is full of mistrust. The children say, "Our father only trusts God for bread when there is plenty in the cupboard." And the servants say, "The master is only happy in the Lord when he is in good health." And those who know our business affairs say, "Oh, yes! So-and-So is a great believer, but he has a big balance at his banker's—you should see him when trade is bad! You should see him when there are bad debts! Then you will find that he is not a bit more a believer in Jesus Christ than any of the rest of us! He is a fair-weather Christian—he is like the flowers that open when the sun shines. But take away the summer prosperity and you will see but little of his religion!" Let it not be so with any of us, but may God deliver us from this tremendous evil of unbelief!
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 11:1-13;32-40.
+## Exposition by C. H. Spurgeon: Hebrews 11:1-13;32-40
 
 Verses 1, 2. Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report So it was written, in the olden time, that Believers "obtained a good report." And this second verse shows that they obtained it by their faith. The best part of the report about them is that they believed their God and believed all that was revealed to them by His Word and His Spirit.
 
@@ -128,7 +125,6 @@ thousand men with no weapon in his hand but the jawbone of an ass? There was a w
 36-39. And others had trial of cruel mocking and scourging, yes, moreover of bonds and imprisonment they were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented, (of whom the world was not worthy): they wandered in deserts, and in mountains, and in dens and caves of the earth. And these all, having obtained a good report through faith, received not the promise. These worthies lived before Christ came, but, since then, equally noble exploits have been performed by the heroes and heroines of faith. The Christian martyrs have shown the extremity of human endurance when they have been sustained by faith and the roll of Christian heroes, since their Lord ascended to Heaven, is longer and even brighter than that of the faithful ones who came before them in the earlier dispensation!
 
 40\. God having provided some better thing for us, that they, without us, should not be made perfect The new dispensation is necessary to complete the old—the New Testament is the complement of the Old Testament—and New Testament saints join hands with Old Testament elders. Let us all be worthy of our high pedigree and may God grant that if the saints of these latter days are to perfect the history of the Church of Christ, the end may not be less heroic than the beginning was! A true poem should gather force as it grows and its waves of thought should roll in with greater power as it nears its climax. So should the mighty poem of faith's glorious history increase in depth and power as it gets nearer to its grand consummation—that God may be glorified yet more and more through all His believing children. So may it be! Amen.
-
 
 ---
 [[Sermon 2889 Christ Receiving Sinners|← #2889]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2891 A Sabbath Miracle|#2891 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Weaned Child
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1210
-
-DELIVERED BY.
 
 > "My soul is even as a weaned child." Psalm 131:2.
 
@@ -144,7 +141,6 @@ And I boldly say here that I have sometimes found it easier to exercise faith th
 God bring you there! If there is any unconverted person here who cannot understand all this, I pray the Lord to make him a child, first, and then make him a weaned child! Regeneration must come first, but sanctification will follow. Believe in Jesus for pardon and then you will have Grace given to resign yourself to the Divine will. May the Lord wean you from earth and wed you to Heaven. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 130,131. HYMNS FROM "OUR OWN HYMN BOOK" - 708, 778.
-
 
 ---
 [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1211 The Hospital of Waiters Visited with the Gospel|#1211 →]]

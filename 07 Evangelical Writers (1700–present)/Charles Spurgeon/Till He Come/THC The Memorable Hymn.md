@@ -8,14 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Memorable Hymn
 
 *Till He Come* — Charles H. Spurgeon
 
 ## THE MEMORABLE HYMN. “And when they had sung an hymn, they went out into the mount of Olives.”—Matthew xxvi. 30.
-
-## THE MEMORABLE HYMN.
 
 THE occasion on which these words were spoken was the last meal of which Jesus partook in company with His disciples before He went from them to His shameful trial and His ignominious death. It was His farewell supper before a bitter parting, and yet they needs must sing. He was on the brink of that great depth of misery into which He was about to plunge, and yet He would have them sing “an hymn.” It is wonderful that He sang, and in a second degree it is remarkable that they sang. We will consider both singular facts.
 
@@ -196,7 +193,6 @@ Join to praise Immanuel’s name!
 Hallelujah!
 
 Glory to the bleeding Lamb!”
-
 
 ---
 [[THC I Will Give You Rest|← I Will Give You Rest]] · [[Till He Come|Till He Come Contents]] · [[THC Jesus Asleep on a Pillow|Jesus Asleep on a Pillow →]]

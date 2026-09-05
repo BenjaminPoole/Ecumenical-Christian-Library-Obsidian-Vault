@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Restless! Peaceless!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2886
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But the wicked are like the troubled sea when it cannot rest, whose waters cast up mire and dirt. There is no peace, says my God, to the wicked." Isaiah 57:20,21.
 
@@ -135,7 +132,7 @@ It is God Himself who says it! There may be a truce, for God is slow to anger, b
 
 He who with his heart forsakes his sin and unfeignedly believes in Jesus shall have the peace of God which passes all understanding! But he who will keep his sin and so remain among the wicked, or who will keep his self-righteousness and so refuse the salvation of Christ, has nothing to go home with but this, "No peace! No peace!" And, oh, to die with that terrible knell ringing in one's ears! To look up to God and to hear Him say, "No peace!" To have the prayers of your friends for you, but to feel no peace! To lift your eyes to Heaven, but to find prayer freeze upon your soul as you hear again this sentence from God the Judge, "No peace!" And then follows the eternity in which there is no peace! God grant this may not be the sad portion of any one of us, but may the Lord give to each of us peace, perfect peace, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 23; ISAIAH 55.
+## Exposition by C. H. Spurgeon: Psalm 23; Isaiah 55
 
 We will first read that choicest of all the Psalms—the twenty-third. It is like a precious pearl shining with a mild luster. This Psalm is, among the other Psalms, what the lark is among the other birds—it soars and sings till it is lost in the heights to which it ascends!
 
@@ -189,8 +186,7 @@ Him"—
 
 8-13. For My thoughts are not your thoughts, neither are your ways My ways, says the LORD. For as the heavens are higher than the earth, so are My ways higher than your ways, and My thoughts than your thoughts. For as the rain comes down, and the snow from Heaven, and returns not there, but waters the earth, and makes it bring forth and bud, that it may give seed to the sower, and bread to the eater: so shall My word be that goes forth out of My mouth: it shall not return unto Me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it For you shall go out with joy and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands. Instead of the thorn shall come up the fir tree, and instead of the briar shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off
 
-HYMNS FROM "OUR OWN HYMN BOOK"—661, 614, 658.
-
+## Hymns from "Our Own Hymn Book"—661, 614, 658
 
 ---
 [[Sermon 2885 Christ's Sympathy With His People|← #2885]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2887 A Dire Disease Strangely Cured|#2887 →]]

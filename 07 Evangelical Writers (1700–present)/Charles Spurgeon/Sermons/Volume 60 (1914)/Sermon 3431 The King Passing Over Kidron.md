@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # The King Passing Over Kidron
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3431
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The king, himself, also passed over the Brook Kidron." 2 Samuel 15:23.
 
 THE Brook Kidron was an insignificant, but usually a most foul and filthy ditch outside the walls of Jerusalem. If it were not, as some have called it, the open town sewer, yet there are reasons for believing that at least the filth of the Temple ran into it. The scourings of the sacrificial places went by an under-channel into this brook and we have one or two instances in Holy Writ where, when houses were purged and cleansed, the filth was thrown into the Brook Kidron. The passing, therefore, over that foul and black brook becomes the symbol of a time of deep sorrow and acute distress. The king, himself, then, passed over the Brook Kidron. The royal road lies over the place of sorrow. The way, even for kings, is by the brook of grief and shame. Let us think over that thought for a while.
 
-I. THIS WAS TRUE OF KING DAVID.
+## I. This Was True of King David
 
 David was one of the best of kings—certainly in the long list of his successors we meet with none who did such service to his country as did David, the once shepherd boy. It was through him, in his youth, that the country was saved from being enslaved by Philistia, and oftentimes in later years that stout heart and brave arm led in the van against the enemies of the Israel of God. He was the patriot king. If his country became a happy one, it was through his valor that it became so. And yet, good as he was, his subjects disowned and turned against him! And, in fear of them, "the king, himself, also passed over the Brook Kidron." It is an ungrateful world we live in. Those who serve it best will find that at times it gives no rewards, or only gives them grudgingly—and afterwards forgets the good the man has done, because for some moment the tide of popular feeling may set against him. "Cursed is he that trusts in man, and makes flesh his arm." If you live to your fellow men, even with the largest desires within you, yet if you forget to live also to your God, your cup will be full of wormwood, and your teeth will be broken with the gravel of disappointment.
 
@@ -49,7 +46,7 @@ To enter into the griefs of our Lord in Gethsemane is not our business, tonight,
 
 See then, dear Brothers and Sisters, in the Person of our Lord, that this is a prophecy and an assurance that the cause of right and of truth—that those who espouse that cause and are pure and perfect, themselves, may, nevertheless, be brought very low—even to the dust! They may be slandered, despised and rejected and yes, for all that, their triumph is not in jeopardy and neither their cause nor themselves imperiled! Oh, it makes one strong to feel this! There cannot be anything happen to us so severe as has already happened to our King! There cannot be any slander more fierce than the slander poured on Him. They have called the Master of the house, Beelzebub! What can they now call the men of His household? They must find some lighter name for us! Be encouraged, then, you feeble bands of trembling Christians, encouraged in all your sufferings and griefs for Christ's sake, for as He yet rose from the dead and led captivity captive, even so shall the feeblest of His followers! And so I shall close by just speaking—
 
-III. A WORD OR TWO TO OURSELVES CONCERNING OUR PASSING THE BROOK KIDRON.
+## III. A Word or Two to Ourselves Concerning Our Passing the Brook Kidron
 
 Ah, we do not like going over Kidron. When it comes to the pinch, how we struggle against suffering, and especially against dishonor and slander! How many there were who would have gone on pilgrimage, but that Mr. Shame proved too much for them—they could not bear to go over the black Brook Kidron, could not endure to be made nothing of for the sake of the Lord of Glory—they even turned back!
 
@@ -65,7 +62,7 @@ Dear Hearers, are you for Christ or for His enemies? Will you go with a despised
 
 The Lord bless each one of you, and may these few words comfort those who are tremblings for Christ's sake.
 
-EXPOSITION BY C. H. SPURGEON: 2 SAMUEL 15:13-23; ISAIAH 61; MARK 14:22-41.
+## Exposition by C. H. Spurgeon: 2 Samuel 15:13-23; Isaiah 61; Mark 14:22-41
 
 This was one of the greatest trials of David's life.
 
@@ -77,7 +74,7 @@ Verses 13, 14. And there came a messenger to David, saying, the hearts ofthe men
 
 19-23. Then said the king to Ittai the Gittite, Why do you, also, go with us? Return to your place and abide with the king: for you are a stranger, and also an exile. Whereas you came but yesterday, should I this day make you go up and down with us? Seeing I go where I may, you return and take back your brethren: mercy and truth be with you. And Ittai answered the king, and said, As the LORD lives, and as my lord, the king, lives, surely in what place my lord the king shall be whether in death, or life, even there also will your servant be. And David said to Ittai, Go and pass over And Ittai the Gittite passed over, and all his men, and all the little ones that were with him and all the country wept with a loud voice. And all the people passed over The king, himself also passed over the Brook Kidron, and all the people passed over, toward the way of the wilderness.A fit type of that future passage of the Kidron by the great Son of David when, on that dark and doleful night, when all the powers of darkness met the Prince—the King, Himself—passed over that black and bitter brook into the Garden of Gethsemane. There were faithful ones that went with David—there were some faithful ones with Christ. Happy are they who shall be found to be with their Lord and Master in the day of His sorrow, for they shall be with Him in the day of His joy!
 
-ISAIAH61.
+## Isaiah 61
 
 Verses 1, 2. The Spirit ofthe Lord GOD is upon Me, because the LORD has anointed Me to preach good tidings unto the meek; He has sent Me to bind up the brokenhearted, to proclaim the acceptable year ofthe LORD, and the day of vengeance of our God; to comfort all that mourn. How condescending and how kind are the objectives of our Savior's mission—to put an end to sorrow! He searches for the mourners—they are the special objects of His care—and all that He does has this for one of its grand objectives—to comfort all that mourn! Surely if there is any troubled heart here, it may claim an interest in such a Divine work as this! Jesus has come to comfort all that mourn. Shall He not comfort you?
 
@@ -105,7 +102,7 @@ Verses 1, 2. The Spirit ofthe Lord GOD is upon Me, because the LORD has anointed
 
 11\. For as the earth brings forth her buds and as the garden causes the things that are sown in it to spring forth, so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
 
-MARK 14:22-41.
+## Mark 14:22-41
 
 Verse 22. And as they did eat, Jesus took bread, and blessed, and broke it, and gave it to them and said, Take, eat. This is My body. It was part of a meal. It was no celebration. It was no sacrifice, bloody or unbloody! It was simply a commemorative ceremony of which He would now give them a specimen even before it became commemorative. "As they did eat, Jesus took bread." No seeking for consecrated wafers or some special food, but such bread as they had been eating. "Blessed"—thanking God for it. "And broke it and gave it to them, and said, Take, eat. This is My body."
 
@@ -142,7 +139,6 @@ Verse 22. And as they did eat, Jesus took bread, and blessed, and broke it, and 
 39\. 40. And again He went away and prayed, and spoke the same words. And when He returned, He found them asleep again, (for their eyes were heavy), neither knew they what to answer Him. How could they excuse their conduct? A second time asleep! They were in a muddled state.
 
 41\. And He came the third time, and said unto them, Sleep on now, and take your rest: it is enough, the hour is come. Behold, the Son of Man is betrayed into the hands of sinners.
-
 
 ---
 [[Sermon 3430 Chiding and Cheering|← #3430]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3432 'The Zeal of the Lord'|#3432 →]]

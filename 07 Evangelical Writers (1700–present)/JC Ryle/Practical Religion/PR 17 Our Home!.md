@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Our Home!
 
-Chapter XVII · *Practical Religion* — J. C. Ryle
+## Chapter XVII · *Practical Religion* — J. C. Ryle
 
 >  *Lord, Thou hast been our dwelling-place in all generations.* " Psalm xc. 1.
 
@@ -90,7 +89,6 @@ There are pleasures in sin no doubt, but they are not real and satisfactory. The
 (4) If Christ is the home of your soul, *accept a hint about your duty*. Mind that you take every opportunity of telling others about your happiness. Tell them THAT, wherever you are. Tell them that you have a happy home.
 
 Tell them, if they will hear you, that you find Christ a good Master, and Christ's service a happy service. Tell them that His yoke is easy, and His burden is light. Tell them that, whatever the devil may say, the rules of your home are not grievous, and that your Master pays far better wages than the world does! Try to do a little good wherever you are. Try to enlist more inmates for your happy home. Say to your friends and relatives, if they will listen, as one did of old, "Come with us, and we will do you good; for the Lord hath spoken good concerning Israel." (Numbers x. 29.)
-
 
 ---
 [[PR 16 The Family of God|← The Family of God]] · [[Practical Religion|Practical Religion Contents]] · [[PR 18 Heirs of God|Heirs of God →]]

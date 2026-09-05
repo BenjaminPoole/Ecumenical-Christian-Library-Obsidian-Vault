@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The Lions' Den
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2859
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?" Daniel 6:20.
 
@@ -39,7 +36,7 @@ prison house. So Daniel was delivered and his foes were confounded. There is the
 
 I. First, I want to set before you DANIEL'S EARLY AND ENTIRE CONSECRATION TO THE SERVICE OF
 
-GOD.
+## God
 
 The king said, "Your God, whom you serve continually." This was no empty compliment. His scrupulous uprightness had become so habitual that it was like an instinct of his nature. Daniel began to serve God in his youth. There are no saints to be compared with those whose childish minds were imbued with heavenly Truths as soon as their infant lips began to lisp them. Just as there are no sinners so inured to wickedness as those who are bred and trained in haunts of vice, tutored from their cradle to utter profane words and prone to act as they think, bravely, in defiance of every precept of the Decalogue till they become proficient in every kind of profligacy. They, who give their morning to God, shall find that, in beginning early, they can keep pace with their work all day. Happy Daniel, thus continually to serve his God from his youth up! Yet it was not the good fortune of his birth that gilded his name with glory. Far from that—it was his sad lot to be carried away captive from his native land while but a stripling! Alienated from the home of his ancestors, he was taken to the palace of Nebuchadnezzar and there, with three other youths, he was entered as a bursar in a heathen school to be instructed in the strange literature of a strange nation and so to become one of the king's learned men!
 
@@ -102,7 +99,6 @@ say, "Bless the Lord, O my Soul!" And all join in chorus, saying, "Not one good 
 Will I strain my parable too far if I turn my eye upon another lions' den? It lies in a deep valley. The night hangs heavy. The beasts of prey are diseases that skill and shrewdness, time and talent have striven in vain to tame. Like lions, strangely dissimilar in outward fashion, but strongly resembling them in instinct, they pounce on their victims and seal their doom. We call this place "the Valley of the Shadow of Death." I think I am gazing, now, on the forms of shivering men and women as they are dragged down by the lions. One after another, my familiar friends descend into the grave and I ask them, in the hour of their departure, "Is your God, whom you serve continually, able to deliver you from the lions?" Calm is their countenance and clear their voice, as each one chants his solo, "O Death, where is your sting? O Grave, where is your victory? Thanks be to God, who gives us the victory through our Lord Jesus Christ!" So, at length, this lions' den, too, loses all its terror.
 
 Then I look into another den. It is almost empty. There is a lion in it, a grim old lion, but I do not see so much as a bone to tell the tale of its victims. No trace of its ravages is left behind. On this soil there once were countless thousands of the slain, but it is empty, now. All of a sudden I look up and, lo, I see myriads of immortal souls and they all tell me, "Our God delivered us from the grave, and rifled the tomb of its prey. By a glorious Resurrection, He has brought all His ransomed people forth to meet their Lord at the Great Day of His appearing. There shall they stand before the Throne of God, for He has broken the teeth of the lion and rescued all His children from the power of the adversary!"
-
 
 ---
 [[Sermon 2858 Migratory Birds|← #2858]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2860 Owl or Eagle|#2860 →]]

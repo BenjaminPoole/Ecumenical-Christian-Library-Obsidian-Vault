@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Malachi 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## Malachi 1:1
 
@@ -75,7 +74,7 @@ As we now understand the Prophet’s meaning, and the object of this expostulati
 
 ## Prayer Lecture 169
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only designed to give us a life in common in this world but hast also separated us from other heathen nations, and illuminated us by the Sun of Righteousness, thine only begotten Son, in order to lead us into the inheritance of eternal salvation, — O grant, that having been rescued from the darkness of death, we may ever attend to that celestial light, by which thou guidest and invitest us to thyself; and may we so walk as the children of light, as never to wander from the course of our holy calling, but to advance in it continually, until we shall at length reach the goal which thou hast set before us, so that having put off all the filth of the flesh, we may be transformed into that ineffable glory, of which we have now the image in thine only-begotten, Son. — Amen.
 
@@ -136,15 +135,13 @@ We indeed see that there are many devils who preach modesty, when their object i
 
 ## Prayer Lecture 170
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou best been pleased to adopt us as thy people for this end, that we may be ingrafted as it were into the body of thy Son, and be made conformable to our head, — O grant, that through our whole life we may strive to seal in our hearts the faith of our election, that we may be the more stimulated to render thee true obedience, and that thy glory may also be made known through us; and those whom thou hast chosen together with us may we labor to bring together, that we may unanimously celebrate thee as the Author of our salvation, and so ascribe to thee the glory of thy goodness, that having cast away and renounced all confidence in our own virtue, we may be led to Christ only as the fountain of thy election, in whom also is set before us the certainty of our salvation through thy gospel, until we shall at length be gathered into that eternal glory which He has proctored for us by his own blood. — Amen.
 
 ## Lecture One Hundred And Seventy First
 
 ## Malachi 1:6-8
-
-**6.** A son honoureth *his* father, and a servant his master: if then I *be* a father, where *is* mine honour? and if I *be* a master, where *is* my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?
 
 **7.** Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD *is* contemptible.
 
@@ -219,7 +216,7 @@ But no interpreter seems to have sufficiently considered the reason why the Prop
 
 ## Prayer Lecture 171
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou best been pleased in thine infinite mercy not only to choose from among us some to be priests to thee, but also to consecrate us all to thyself in thine only begotten Son, — O grant, that we at this day may purely and sincerely serve thee, and so strive to devote ourselves wholly to thee, that we may be pure and chaste in mind, soul, and body, and that thy glory may so shine forth in all our performances, that thy worship among us may be holy, and pure, and approved by thee, until we shall at length enjoy that glory to which thou invites us by thy gospel, and which has been obtained for us by the blood of thine only-begotten Son — Amen.
 
@@ -323,7 +320,7 @@ I cannot finish today, for I should be too long.
 
 ## Prayer Lecture 172
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou dost not keep us at this day under the shadows of the law, by which thou didst train up the race of Abraham, but invitest us to a service far more excellent, even to consecrate ourselves, body and soul, as victims to thee, and to offer not only ourselves, but also sacrifices of praise and of prayer, as thou hast consecrated all the duties of religion which thou requirest from us, through Christ thy Son, — O grant, that we may seek true purity, and labor to render, by a real sincerity of heart, our services approved by thee, and so reverently profess and call upon thy name, that really fulfilled in us may that be which thou best declared by thy Prophet — that thy name shall be magnified and celebrated through the whole world, as it was truly made known to us in the person of thine only begotten Son. — Amen.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # A Simple Remedy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1068
@@ -159,10 +158,9 @@ You will know this when you come to die, Beloved. You will find nothing able to 
 
 Beloved, if you know that Jesus has healed you, serve Him by telling others about the healing medicine. Whisper it in the ear of one. Tell it in your houses to the twos. Preach it, if you can, to the hundreds of thousands. Print it in the papers. Write it with your pen. Spread it through every nook and corner of the land. Tell it to your children. Tell it to your servants. Leave none around you ignorant of it. Hang it up everywhere in letters of boldest type. "WITH HIS
 
-STRIPES WE ARE HEALED!"
+## Stripes We Are Healed!"
 
 Oh, sound it! Sound it! Sound it loud as the trumpet of doom! And make men's ears to hear it, whether they will or not! The Lord bless you with this healing. Amen.
-
 
 ---
 [[Sermon 1067 The Resurrection Credible|← #1067]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1069 Laboring And Not Fainting|#1069 →]]

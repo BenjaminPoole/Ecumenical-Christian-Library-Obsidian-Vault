@@ -10,7 +10,6 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # LETTER IV.
 
 *To a special friend.*
@@ -25,7 +24,7 @@ I have much that I could willingly communicate to you, which I must omit, till P
 
 Your obliged friend and servant,
 
-DAVID BRAINERD.
+## David Brainerd
 
 ---
 

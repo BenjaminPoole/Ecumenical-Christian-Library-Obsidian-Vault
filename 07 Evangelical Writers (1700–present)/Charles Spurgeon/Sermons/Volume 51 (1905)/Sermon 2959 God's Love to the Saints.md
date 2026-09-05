@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # God's Love to the Saints
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2959
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Hereby perceive we the love of God, because He laid down His life for us." 1 John 3:16.
 
@@ -87,7 +84,7 @@ In the old days of persecution, there were always some noble souls who tried to 
 
 Where has this self-sacrificing love gone? I would like to see some of it! I would even wear microscopes over my eyes if I thought that I could so discover it—but I am afraid I cannot. Why, if we loved each other, now, as Christians loved each other then, we should be the talk of the town and even worldings would say, "Look how these Christians love one another!" Yet this is only what we ought to do, so, Brothers and Sisters in Christ let it be what we will do! God help you to do it for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 3.
+## Exposition by C. H. Spurgeon: 1 John 3
 
 Verse 1. Behold, what manner of love the Father has bestowed upon us, that we should be called the sons of God. Behold it, wonder at it and never cease to admire it! Is it not one of the greatest marvels that even God, Himself, has ever worked that we should be called the sons of God?
 
@@ -132,7 +129,6 @@ knows and he tells us what he knows in order that we, also, may know! Love has a
 22\. And whatever we ask, we receive of Him because we keep His commandments and do those things that are pleasing in His sight Notice the link between confidence as to our rightness and power in prayer. When a child has done wrong and knows it, he cannot run to his father and ask for favors as he used to do—he feels timid in his father's presence because of the sense of his guilt. But if you and I know that we have endeavored with all our heart to love the Lord and our fellow men and to act righteously in all things, we have a sacred confidence which enables us to speak with God as a man speaks with his friend! God greatly loves this kind of confidence and He listens to those who possess it. Such people may ask what they will of God—they have learned to bring their minds into conformity with the will of God's so the desire of their heart shall be granted to them.
 
 23\. 24. And this is His commandment, That we should believe on the name of His Son, Jesus Christ, and love one another, as He gave us commandment And he that keeps His commandments dwells in Him, and He in him. And hereby we know that He abides in us, by the Spirit which He has given us. Oh, to be more and more under the sacred influence of that blessed Spirit!
-
 
 ---
 [[Sermon 2958 The Saints' Love to God|← #2958]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2960 'Where Are the Nine' Where|#2960 →]]

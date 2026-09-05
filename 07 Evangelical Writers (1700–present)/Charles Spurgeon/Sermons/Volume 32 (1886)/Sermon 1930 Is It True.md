@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Is It True?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1930
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Nebuchadnezzar spoke and said to them, Is it true, O Shadrach, Meshach, and Abednego, that you do not serve my gods, nor worship the golden image which I have set up?" Daniel 3:14.
 
@@ -132,7 +129,6 @@ cause, God will take care of you! Rest assured that uprightness will be your pre
 Lastly—and this is a consideration not to be forgotten. If you will stand up for Jesus and the right, and the true, and the pure, and the temperate, and the good—not only will you be delivered, but you will do great good! This Nebuchadnezzar was a poor piece of goods, yet he was compelled to acknowledge the power of these three decided and holy men. They were thrown into the furnace and they came out of it—and what did Nebuchadnezzar say? Before this, it was, "The image that I have set up," and now he declares that no man shall speak a word against the God of Israel on pain of being cut in pieces! There is no having influence over the great men, or the little men of this age except by being firm in your principles and decided in what you do! If you yield an inch you are beaten! But if you will not yield—no, not the splitting of a hair—they will respect you!
 
 The man who can hide his principles, conceal his beliefs and do a little wrong, is a nobody! He is a chip in the porridge—he will flavor nothing. But he who does what he believes to be right and cannot be driven from it—that is the man! You cannot shake the world if you let the world shake you, but when the world finds that you have grit in you, they will let you alone. Nebuchadnezzar was obliged to feel the influence of these men—and, even so, the most wicked and the most proud feel the force of the true-hearted, the brave and the good! For this let us pray God to give us new hearts and right spirits. For this let us cling to the blessed Cross of Christ and yield ourselves up to the power of the blood and water which flowed from His wounded side! So shall our lives be powerful! And if not illustrious in the eyes of men, they shall be acceptable in the eyes of God!
-
 
 ---
 [[Sermon 1929 To Those Who Are Angry With Their Godly Friends|← #1929]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1931 One More Cast of the Great Net|#1931 →]]

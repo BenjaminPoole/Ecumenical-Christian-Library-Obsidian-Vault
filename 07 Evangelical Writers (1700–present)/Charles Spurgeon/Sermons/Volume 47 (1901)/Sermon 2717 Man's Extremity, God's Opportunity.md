@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Man's Extremity, God's Opportunity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2717
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the LORRD shall judge His people, and repent Himself for His servants, when He sees that their power is gone, and there is none shut up, or left." Deuteronomy 32:36
 
@@ -65,7 +62,7 @@ I will read the text to you again. I cannot preach from it as I should like to d
 
 III. This must suffice for the tried child of God, for I want to show that the text also applies to THE CONVICTED
 
-SINNER.
+## Sinner
 
 Are there any of you who cannot say that you are the children of God, but who wish that you were? I said to one, the other day, "Are you a Christian?" and he replied, "No, Sir, but oh, how I wish that I were!" When I heard with what emphasis he spoke, I thought that he must not be far from the Kingdom of God, for is not he who wishes to be a Christian, almost one already? Is there not the beginning of a work of Grace in his heart which the Holy Spirit will carry on to completion? So I will read the text now to you who wish to be saved, but fear that you shall not be, for you have had a dreadful sense of sin—'For the Lord shall judge His people, and repent Himself for His servants, when He sees that their power is gone, and there is none shut up, or left."
 
@@ -89,7 +86,7 @@ He gave Himself for our sins, not for our righteousness! And He, Himself, said, 
 
 "There is life for a look at the Crucified One! There is life at this moment for you!" Give but one believing glance at that dear dying Son of God and you shall hear Him say to you, "Go your way; your sins, which are many, are all forgiven you." The LORD grant it, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY32:1-43.
+## Exposition by C. H. Spurgeon: Deuteronomy 32:1-43
 
 Verse 1. Give ear, O you heavens, and I will speak; and hear, O earth, the words of my mouth Because men are so slow of hearing, Moses calls on the heavens and the earth to bear witness against them. And because of the sublimity of his subject, he calls upon the heavens and the earth to pay attention to it.
 
@@ -124,7 +121,6 @@ sealed it up, and kept it in a secret place against the day when He shall call s
 35-38. To Me belongs vengeance, and recompense; their foot shallslidde in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste. For the LORD shall judge His people and repent Himself for His servants, when He sees that their power is gone, and there is none shut up, or left. And He shall say, Where are their gods, their rock in whom they trusted, which did eat the fat of their sacrifices, and drank the wine of their drink offerings? Let them rise up and help you, and be your protection. To you who trust in anything except God, the day will come when you will hear such terrible words as these—"Now let your riches save you, let your pleasures and your vices cheer you. Go you now in your own wicked ways and see if you can find any comfort in them!" What holy sarcasm there is in these words, which will cut to the quick the conscience when it is once fairly awakened!
 
 39-43. See now that I, even I, am He, and there is no god with Me: I kill, and make alive; I wound, and I heal: neither is there any that can deliver out ofMy hand. For I lift up My hand to Heaven, andsay, Ilive forever. IfI whet My glittering sword, and My hand takes hold on judgment; I will render vengeance to My enemies, and will reward them that hate Me. I will make My arrows drunk with blood, and My sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy. Rejoice, O you nations, with His people: for He will avenge the blood of His servants, and will render vengeance to His adversaries and will be merciful unto His land, and to His people. I t is only in mercy, you see, that the Lord deals with His people. They cannot stand before Him on the ground of justice, but in His mercy is their place of refuge! May we all find that mercy by fleeing for refuge to lay hold upon the hope set before us in Christ Jesus and His glorious Gospel! Amen.
-
 
 ---
 [[Sermon 2716 Christ's Poverty, Our Riches|← #2716]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2718 The Tenses|#2718 →]]

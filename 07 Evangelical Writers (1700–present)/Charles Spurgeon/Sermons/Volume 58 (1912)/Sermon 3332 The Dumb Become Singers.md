@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Dumb Become Singers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3332
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then shall the lame man leap as an hart, and the tongue of the dumb sing, for in the wilderness shall waters break out, and streams in the desert." Isaiah 35:6.
 
@@ -45,7 +42,7 @@ free mercy and of that alone—that we were not capable of doing good works with
 
 Just another hint here before I leave this point. How this ought to give you encouragement in seeking to do good to others! Why, my Brothers and Sisters, I can never think any man too far gone for Divine Mercy to save since I know that God saved me! Whenever I have felt desponding about any of my hearers who have for a long time persevered in guilt, I have only had to reach down my own biography from the shelves of my memory and just think what I, too, was till Grace redeemed me and brought me to my Savior's feet! And then I have said, "It will be no wonder if that man is saved—after what He has done for me, I can believe anything of my Master! If He has blotted out my transgressions. If He has clean melted away mysin, then I can never despair of any of my fellow creatures! I may for myself, but I cannot for them." Remember, they may be dumb, now, but He can make them sing! Your son John is a sad reprobate—keep on praying for him, mother! God can change his heart. Your daughter's heart is hard as adamant—He who makes the dumb sing can make rocks melt! Believe in God for your children as well as for yourselves. Trust Him! Take their cases before the Throne—rely upon Him that He can do it—and believe that in answer to earnest prayer He also will do it. And if you have neighbors that are full of the pestilence of sin, whose vices come up before you as a stench in your nostrils, yet fear not to carry the Gospel to them! Though they are harlots, drunkards, swearers, be not afraid to tell them of the Savior's dying love. He makes the dumb sing! He does not ask even a voice of them to begin with—they are dumb—and He does not ask of them even the power of speech, but He gives them the power! Oh if you have neighbors who are haters of the Sabbath, haters of God, unwilling to come to the House of God, despising Christ—if you find them as far gone as you can find them, remember He makes the dumb sing and, therefore, He can make them live! He needs no goodness in them to begin with—all He needs is just the rough, raw material—unhewn, uncut, unpolished. And He does not need even good material—bad as the material may be, He can make it into something inestimably precious, something that is worthy of the Savior's blood! Go on—fear not! If the dumb can sing, then surely you can never say that any man need be a castaway! Now I am to enter into some rather more clear description of these dumb people.
 
-II. WHO ARE THESE DUMB ONES?
+## II. Who Are These Dumb Ones?
 
 Well, sometimes I get a good thought out of old Master Cruden's Concordance. I believe that is the best commentary to the Bible and I like to study it. I opened it at this passage and I found Master Cruden describing different kinds of dumb people. He says there are four or five different sorts, but I shall name only four of them. The first sort of dumb people he mentions are those that cannotspeak. The second sort are those that won'tspeak. The third sort are those that dare not speak and the fourth sort are those that have got nothing to sayand, therefore, are dumb.
 
@@ -112,7 +109,6 @@ But lastly, my dear Friends, the best singing time we shall have will be when yo
 While Heaven's resounding mansions ring
 
 With shouts of Sovereign Grace!" The thought struck me the other day that the Lord will have in Heaven some of those very big sinners that have gone further astray than anybody that ever lived—the most extraordinary extravaganzas of vice—just to make the melody complete by singing some of those soprano notes which you and I, because we have not gone so far astray, will never be able to utter. I wonder whether one has stepped in here who God has selected to take some of those alto notes in the scale of praise? Perhaps there is one such here! Oh, how will such a one sing, if Grace—Free Grace—shall have mercy upon him! May there be many such. Amen!
-
 
 ---
 [[Sermon 3331 Knowing and Believing|← #3331]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3333 God's King Magnified|#3333 →]]

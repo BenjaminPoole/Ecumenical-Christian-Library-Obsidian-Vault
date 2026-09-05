@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 21. Letter XX. To the Faithful Bohemians (December 1412)
-
-LETTER XX. TO THE FAITHFUL BOHEMIANS (December 1412)
 
 Thoughts on Advent ; The Second Advent ; Lift up your heads 103-5
 

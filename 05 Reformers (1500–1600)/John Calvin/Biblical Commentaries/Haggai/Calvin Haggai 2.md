@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Haggai 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Haggai 2:1-5
 

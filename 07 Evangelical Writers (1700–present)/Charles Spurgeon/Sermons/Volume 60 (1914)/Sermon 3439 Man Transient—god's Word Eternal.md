@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Man Transient—god's Word Eternal
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3439
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The grass withers, the flower fades; but the Word of our God stands forever." Isaiah 40:8.
 
@@ -41,7 +38,7 @@ So, Brothers and Sisters, it is equally true of everything in the child of God t
 
 So do I believe it is in all religious exercises. Everything which is got up and worked for by man always comes to an end. Those excitements which some delight in, I do not think come of the Spirit of God. At least they may come of His work as much as the dust in the road has to do with the progress of a carriage. It is a nuisance that somehow or other is tied to a good thing, but the excitement some people seem to think is the progress, is just as the fly, as he sat on the carriage, thought that he made it roll along the road. But it is not so! It is not so at all! How many churches have been revived into perpetual barrenness! The bladder has been blown till it burst. There has been a pumping and a heaving, and a trusting in the artificial, instead of waiting quietly upon God. People have been driven pretty nearly mad, and this has been thought to be spirituality and the work of the Grace of God! Brother and Sisters, it is only the flower of grass—a very pretty flower—oftentimes a most tempting and fascinating flower—but it will all fail, for nothing will stand but the work of the Holy Spirit! Nothing will endure even the test of time, but the Spirit's own work upon the heart and conscience! Anything that comes of man, and not of God, will as surely disappear as the smoke of the chimney when the wind blows it away, or as the hoar frost of the morning when the sun has fully risen with his fervent heat. Take this, then, as the first Truth of God, that everything in us, or which we glory in, or trust to, or rejoice in, will as certainly pass away as does the grass from the field and the flower which springs of it. But now, in the second place, we have a much more comfortable subject of reflection in the next sentence—
 
-II. THE WORD THAT ENDURES.
+## II. The Word that Endures
 
 "But the Word of our God stands forever." What "Word" is this? I think the term applies to the Word of God in five different ways. First, it is the Word of His purpose. The Word of our God. Has He said it and shall He not do it? Has He purposed and shall it not come to pass? God has, from all eternity, a wondrous plan by which He will manifest all His attributes in the salvation of His people. Now from His plan He will never vary, and in the details of it He will never change. Whatever He has decreed shall most certainly come to pass! And as for the salvation of His elect, all the powers of evil, both of earth and Hell, shall never be able to thwart the Eternal Mind as to the salvation of any of those whom He has predestinated unto eternal life. We do not find ministers often preaching about this Eternal Purpose, but we do find the Apostle Paul often writing about it. And the saints of old were accustomed to dwell upon it with very much delight. Oh, beloved Friends, there is a purpose concerning His people, even their eternal salvation—and that purpose will as surely be fulfilled as God is God—yes, though before conversion they plunge into sin! Yes, and though during their conversion they resist the Spirit of God! Yes, and though after conversion they go astray like lost sheep, yet shall the ous power of Sovereign Grace is more than a match for the waywardness of nature—and the will of God shall sweetly lead in Divine captivity the will of man, and though the man resolves on his own destruction—God, who ordains salvation, shall accomplish His own purpose, earth and Hell notwithstanding! Oh, precious Truth of God, on which the child of God may fall back in his darkest moments! The grass withers, but the Word of the Divine Purpose stands forever!
 
@@ -67,7 +64,7 @@ Truths has been broken, nor so much as one single pillar of the house been shake
 
 And fifthly, this term, "The Word of our God" refers to the inner spiritual life of the Christian, for remember, you are quickened by the incorruptible Seed which lives and abides forever—and that incorruptible Seed is said to be the Word of God. Now, all other seed throughout the world, and that which comes from a mortal source, dies, but the Seed of the Divine Truth, dropped by the Holy Spirit in the heart, is incorruptible and, therefore, it lives and abides forever! What a blessing it is to get the Word of God into the heart, because if God puts it in, none but God can take it out again. If you get a word into your heart from the lip of one man, the lip of another man may drive it out, but if you get living Truth burned into your soul by God, the Holy Spirit, Himself, then you may defy the devil himself to remove the glorious work! Oh, Beloved, remember the Words of Jesus, "The water that I shall give him shall be in him a well of water springing up unto everlasting life." "He that lives and believes in Me," says Christ, "though he were dead, yet shall he live." We do not find our Master speaking of this new life decaying, or of the fountain which He puts into the soul drying up, but He says, "Out of him shall flow rivers of living water." And, "I give unto My sheep, eternal life, and they shall never perish; neither shall any pluck them out of My hand." Men may die, but Christians shall not—I mean the natural life expires but the celestial life never dies! Death does not affect the principle which God implants at Regeneration. No, it sets free that principle. It delivers it from the bondage of flesh and blood, from the slavery of corruption and introduces it into liberty, into a region where it can expand and develop, and come to all its glorious perfection! The grass withers, the flower thereof fades away, but the enduring Word of our God neither withers nor fades, but stands fast forever! And now, to close—
 
-III. WHAT ARE THE LESSONS WHICH THIS STRONG CONTRAST OUGHT TO TEACH US?
+## III. What Are the Lessons Which This Strong Contrast Ought to Teach Us?
 
 Everything of the creature dying, everything of the Creator living, everything of man withering, everything of God blooming in eternal youth—what should this say to us? Why, it should say to us, first— Weave not a chaplet of flowers that shall surely fade for your brow! Do you seek fame? Let it be the fame that comes from God! Do you seek wealth? Let it be a wealth that will be current in the skies. Do you seek love? Let it be a love which will exist where they marry not, neither are given in marriage, but are as the angels of God. Flowers? Yes, if you will, but gather them in Paradise. Garlands? Yes, if you please, but let them be woven in the King's own gardens, in that land where—
 
@@ -81,7 +78,7 @@ And so, Beloved, take heed, let each of us take heed that we keep to the endurin
 
 God grant us this, and His be the praise forever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:153-174.
+## Exposition by C. H. Spurgeon: Psalm 119:153-174
 
 Verse 153. Consider my affliction and deliver me, for I do not forget Your Law. As much as if he said, "Lord, I do not forget You—do not forget me." Your Grace has kept my memory—let your Grace keep me altogether.
 
@@ -104,7 +101,6 @@ Verse 153. Consider my affliction and deliver me, for I do not forget Your Law. 
 165-66. Great peace have they which love Your Law: and nothing shall offend them. LORD, I have hoped for Your salvation, and done Your commandments.Two good things to put together—hope in God's mercy and obedience to God's will.
 
 168-174. My soul has kept Your testimonies; and I love them exceedingly. I have kept Your precepts and Your testimonies: for all my ways are before You. Let my cry come near before You, O LORD: give me understanding according to Your Word. Let my supplication come before You: deliver me according to Your Word. My lips shall utter praise when You have taught me Your statutes. My tongue shall speak of Your word: for all Your commandments are righteousness. Let Your hand help me, for I have chosen Your precepts. I have longed for Your salvation, O LORD, and Your Law is my delight. Cannot we say that, dear Friends, this evening? I hope we can—with all our failings and wandering, yet the Law of God is our delight—and if we could have our wish, we would never again go beyond its restraints, nor fall short of its demands!
-
 
 ---
 [[Sermon 3438 The Compassion of Jesus|← #3438]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]]

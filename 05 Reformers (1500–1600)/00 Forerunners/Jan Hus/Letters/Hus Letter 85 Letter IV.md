@@ -11,16 +11,13 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 85. Letter IV
-
-LETTER IV
 
 A FEW weeks after the release of "Abraham" (supra, p. 12) and on the eve of the outbreak of the " neutrality " complication, the clergy — most of whom, as we have seen, were Germans, out of touch with the Czech population — accused Hus before the Archbishop of preaching ' in the presence of a vast multitude of both sexes ' ' scandalous sermons, which made clerks hateful to the people.' He had gone so far, they said, as to ' deal with the matter not in general terms, but by descending to particulars.' They further raked up an incident of which Hus was destined to hear much for the rest of his life : that in the presence of Zbinek he had said ' he wished his soul might be where rests the soul of Wyclif .' That Hus still felt confident of his position is evident not only from the reply he made to this last charge, but in the contempt, not infrequently degenerating into quibbles, with which he overwhelmed his accusers. Zbinek, in fact, was power less and scarcely needed the array of quotations from Gratian's Decretum upon which the Reformer fell back in his more serious argument. Hus reminded him of his recent declaration 'that he could find no heretic in Bohemia.' The opponents of Hus were caught ' in a trap of their own making.'
 
 The date of this complaint of the clergy is uncertain, but may be ascribed with confidence to the autumn of 1408, though it would appear to have been repeated in the following year. To this same period (autumn 1408), certainly before the expulsion of the Germans from the University, to which no allusion is made, we assign the following letter to Zavis of Zap, a canon of Prague and non-resident rector of Prachaticz. As Zap had taken his Master's degree at Prague in 1380, he must have been at least ten years or so older than Hus. We judge from the letter that he was one of the leaders in the complaint of the clergy. In the previous June he had acted as one of the judges in the trial of " Abraham " (Doc. p. 342). 1 Matt. v. 12.
 
-24 LETTEES WEITTEN BEFOEE THE
+## 24 Lettees Weitten Befoee The
 
 IV. To MASTER ZAWISSIUS, EECTOB OF PBACHATICZ (Late autumn, 1408)
 

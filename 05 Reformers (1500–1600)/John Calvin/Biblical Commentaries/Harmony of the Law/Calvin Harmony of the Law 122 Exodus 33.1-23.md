@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 122. Exodus 33:1-23
-
-**Exodus 33**
 
 **1.** And the Lord said unto Moses, Depart, *and* go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 

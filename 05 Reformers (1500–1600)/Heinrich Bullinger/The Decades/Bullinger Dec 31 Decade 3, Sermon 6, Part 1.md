@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 31. Decade 3, Sermon 6, Part 1
 
 IN my last sermon I spake of the holy persons, I mean, the ministers of God's religion, the Levitical priests ; and the place and time assigned to God's service. There remaineth now for us to consider the holy thing which those holy persons did exercise in the holy time and place; I mean, the very worship and holy rites so ordained, taught, and prescribed by God himself, that all men might easily understand
@@ -20,11 +19,9 @@ IN my last sermon I spake of the holy persons, I mean, the ministers of God's re
 
 [4 veterem nimirum, ad terrain viventium, Lat. ; that is, the ancient country, to the land of the living :— 'that is— faithful,' is the translator's addition.]
 
-168 THE THIRD DECADE. [SERM.
-
 how to do service, and what honour to give unto the Lord. In this treatise we have first to consider the Jewish sacraments, and then their sacrifices.
 
-TWO sacraThe ancient church of the saints had two especial sacra- synagogue, ments ', circumcision, and the paschal lamb. Of both which I will speak severally, and agreeably to the word of God, according to the grace which the Lord shall vouchsafe to give unto me.
+TWO sacraThe ancient church of the saints had two especial sacra-synagogue, ments ', circumcision, and the paschal lamb. Of both which I will speak severally, and agreeably to the word of God, according to the grace which the Lord shall vouchsafe to give unto me.
 
 circumcision, Now circumcision was the holy action, whereby the flesh of the foreskin was cut away for a sign of the covenant that God made with men. Or, to describe it more largely, circumcision was a mark in the privy members of men, betokening the eternal covenant of God ; and was ordained by God himself, to testify his good-will toward them that were circumcised, to warn them of regeneration and cleanness, and to make a difference betwixt the confederates of God and other people or nations. The original The author, therefore, of circumcision is God himself : the or beginning
 
@@ -38,9 +35,9 @@ Now for because circumcision is added as a sign or seal or the league to the lea
 
 [3 jam profugum, Lat. ; now become an outcast.] [4 tandem, Lat. ; at length.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 Between whom the league was made.
 
@@ -60,15 +57,13 @@ For there are two points, or especial conditions, contained in this league : the
 
 [i See Vol. i. p. 216, note 6.]
 
-VI.] THB CEREMONIAL LAWS OF GOD. 171
+## VI.] Thb Ceremonial Laws of God. 171
 
 Saturnus (peradventure by occasion of the word Saddai) took his name among the heathen, and signifieth to suffice, or satisfy. For he alone is able to satisfy or suffice all, who is himself very fulness and sufficiency itself. But now God sheweth, by two arguments, that he will be the sufficiency, or all in all, to the seed of Abraham. For first he saith : " To (£«). xv. w, at xvii. 8-1 thy seed will I give the land of Canaan." In which promise he comprehendeth all earthly and bodily benefits ; to wit, great wealth, felicity, tranquillity, abundance of all things, health, glory, notable victories, and whatsoever else pertaineth to the preservation and temporal happiness of mankind. Now how he did perform this promise to the seed of Abraham, the holy scripture doth declare ; by that means teaching, that the very true God was the God of Abraham's seed, as he had promised to their father Abraham. Secondarily, he promiseth that Seed wherein all the nations of the [GenxU earth were to be blessed ; to wit, Christ the Saviour, whom he had promised to Adam many years before. To bless is to enrich with all spiritual benediction : wherein he comprehendeth all the spiritual gifts of God ; the forgiveness of sins, the reviving of life, and glory everlasting. To bless also is to take away a curse ; so that this promise of God's to Abraham is all one with that which he made to Adam, saying ; " The seed of the woman shall tread down the serpent's head." [Gen. )»• «•! For the head of the old dragon is nothing else but the power and kingdom of Satan. His power is the curse, sin, and death. Therefore, when his head is crushed or trodden down, the curse is taken away ; and instead of the curse succeedeth a blessing. By this, I say, he doth declare that he will be v v * the God of Abraham and of his seed.
 
 The second condition of the league betwixt God and man what u
 
 • 11 ti 1111 11 required of prescribeth to man what he must do, and how he must behave men in the himself toward God, his confederate and sovereign prince. "Walk before me," saith God to man, "and be upright." [Gen.xviu.] Now they walk before God, which do direct all their life, words, and works, according to the will of God. His will is that we should be upright. That uprightness is gotten by faith, hope, and charity ; in which three are contained all the offices of saints, which are the friends and confederates of the Lord. Therefore this latter condition of the league doth teach the confederates what to do, and how to behave them-
-
-172 THE THIRD DECADE. [sERM.
 
 selves before the Lord ; to wit, to take him for their God, to stick to him alone, who is their only all in all, to call upon him alone, to worship him alone, and, through the Messiah, to look for sanctification and life everlasting. These were the conditions of the covenant ; to which the number of ceremonies were not added in Abraham's time, which afterward were given to the Israelites under the leading of their captain Moses, circumcision To this confederacy the Lord did add circumcision as a was the sign e ~ wJ^d tonthe s^n or sea^' *° connrm ^ withal. Seals are put to writings for league. an effectual force and confirmation's sake. The tables, or writings, do contain and give evidence of all the points of the whole league. Circumcision, therefore, is added to the league instead of the writing l, and also of the seal ; and for that cause circumcision is called the league itself2 : even as the writings or letters of covenants among us are commonly called the very covenant3, when as in deed they are nothing else but the evidences of the league, which contain in writing all the order of the confederacy, and confirm it with a seal. It is very usual that the signs do take the names of the things which they do signify ; so that it is no marvel though circumcision be called the league, when as in deed the league is not the cutting of the skin, but the communion of fellowship Gen. xv». which we have with God. In the seventeenth of Genesis thus saith the Lord touching this sign of outward circumcision : " This is my covenant, which ye shall keep betwixt me and you, and thy seed after thee ; every male shall be circumcised among you. Ye shall circumcise the flesh of your foreskin, and it shall be for a sign of the covenant betwixt me and you," &c. Lo here circumcision, in these words of the Lord's, is first named the covenant ; and afterwards, for exposition's sake, it is called the sign of the covenant. In the same sense doth St Stephen call it a testament, in the seventh chapter of the Acts, when he meant that it was the sign or seal of the testament.
 
@@ -100,8 +95,6 @@ have need of cutting and regeneration. And for that cause that cutting was made 
 
 [6 verse 2, sharp knives, Auth. Ver. ; marg. knives of flints.] [7 Cf. Augustin. Expos, in Evang. Joan. Tract, xxx.]
 
-174 THE THIRD DECADE. [SERM.
-
 the Holy Ghost, and born of the virgin Mary ; who with the shedding of his blood (which was prefigured in the blood shed in circumcision) doth cleanse us from sin, and make us heirs of everlasting life. And now this circumcision maketh sorely against them that deny original sin ; and putteth them to their shifts, that attribute justification and salvation to our own strength and virtue. For if we were clean, if we by our own power could get salvation, what needed our fathers to be cut in that sort? The things that are cut off are either unpure, or else superfluous. But God made nothing unpure or superfluous. Now he made the flesh of the foreskin. If the flesh of the foreskin had been evil, God had not made man with the flesh of the foreskin. The skin, therefore, is not evil of itself, nor yet superfluous : but the cutting of the foreskin doth rather serve to teach us to understand, that by our birth and nature we are corrupt, and that we cannot be cleansed of that corruption but by the knife of stone. And for that cause, verily, was circumcision given in that member, and in none other. I will anon add another cause out of Lactantius, why it was given in none other part of all the body.
 
 Moreover, circumcision did signify and testify that God Almighty, of his mere grace and goodness, is joined with an indissoluble bond of covenant unto us men, whom his will is first to sanctify, then to justify1, and lastly to enrich with all heavenly treasures through Christ, our Lord and reconciler. For that was the meaning of the stony knife ; because Christ, the blessed Seed, is the rock of stone out of which do flow most pure and cleansing waters ; and he by his Spirit doth cut from us whatsoever things do hinder the mutual league and amity betwixt God and us : he also doth give and increase in us both hope and charity in faith, so that we may be knit and joined to God in life everlasting, which is the blessed and happy life indeed.
@@ -117,8 +110,6 @@ Furthermore, God by the outward and visible sign did By circum111 1-1 • • i 
 O ... are gathered which number those which he had chosen before4 he did join j££yone to himself with the bond of his Spirit. For St Paul, for the
 
 [2 sciant se, Lat. ; may know that they are.] [3 venture, Lat. ; who was to come.] [4 ex quibus electos, Lat.]
-
-176 THE THIRD DECADE. [SERM.
 
 very same cause, did call the people of one religion the circumcision, as is evident by the fifteenth chapter to the Romans, and the third to the Philippians. Therefore by circumcision God did separate his people from the unbelieving nations. Whereupon it came, that to be called uncircumcised was as great reproach among them, as to be called dog is now-a-days among us : for an uncircumcised person was reputed for an i sam. xvii. unclean and profane man, and for such an one as had no
 
@@ -141,8 +132,6 @@ And here I think it not amiss, before I make an end of Lacuntius touching circum
 [2 substituted for another term; et pudenda, Lat.] [3 Hujus secundso circumcisionis figura erat, (ilia carnis circumcisio) signiftcans, nudandum esse pectus, id est, aperto et simplici corde oportero nos vivere; quoniam pars ilia corporis, qusc circumciditur, habet quandam similitudinem cordis, et est pudenda. Ob hanc causam Deus nudari earn jussit; ut hoc argumento nos admoneret, ne involutum pectus haberemus, id est, ne quod pudendum facinus intra conscientise secreta velemus. Hsec est cordis circumcisio, do qua prophetse loquunturj quam Deus a carne mortali ad animam transtulit,
 
 [BULLINGER, n.]
-
-178 THE THIRD DECADE. [sERM.
 
 of the church, Lactantius Firmianus, declared unto us touching the mystery of circumcision. The sum of Now all this, which hitherto I have said touching the circumcision. • j ' a • • • , /• ,1 • meaning and mystery of circumcision, was set forth, as in a picture, to be seen of all men's eyes, so often as circumcision was solemnized in the church. There was the league, as it were, renewed, which God did make with men. There was the grace of God, his sanctification, and our corruption, declared : therein did Christ, the rock of stone, appear, who with his Spirit doth cut and wash away all spots of the church. Moreover, the worshippers of God did learn by that sign, and so by all the holy ceremony, that they, being in one celestial l body, ought to do their endeavour by pureness of living to win the favour of God, their confederate; because by the visible circumcision there was, after a sort, an open confession made of the true religion, of free consent to the true religion, and of a binding by promise unto the same. He therefore that did despise or unadvisedly neglect that holy ceremony was sharply punished, as may be gathered by the seventeenth of Genesis, and the fourth chapter of Exodus. And so much hitherto concerning circumcision.
 
@@ -167,8 +156,6 @@ This sacrament was first ordained by God himself, and not The first author of by
 [8 typum quoque, Lat. ; to bo also a type.] [9 denique, Lat.]
 
 12—2
-
-180 THE THIRD DECADE. [SERM.
 
 therein1. For even as God is the chief and most absolute wisdom, so are all2 his ordinances most absolute and passing profitable.
 
@@ -216,9 +203,9 @@ themselves this lamb from among other lambs and kids : the fifth day after they 
 
 [10 aspergillo hysopi, Lat.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 The end whereto this ceremony tended.
 
@@ -247,8 +234,6 @@ Furthermore, those ceremonies did contain the mysteries, The iamb that were to c
 [5 John i. 29. peccatum mundi, Lat.]
 
 [6 hie noster, Lat.]
-
-184 THE THIRD DECADE. [SERM.
 
 and of a year old ; that is to say, strong, and all one, the same to-day that he was yesterday, and the same for ever, to wit, the Saviour of all the world1. The ceremonial lamb was chosen and taken from among other lambs and goats : for Christ descended lineally of righteous men and sinners ; as is to be seen in the first chapter of Matthew's Gospel. Likewise, for the shedding of the lamb's blood God did bear with the whole church of the Israelites : for the blood of Christ (whereof2 the lamb's blood was a type) was to be shed, that by it3 all the faithful might be cleansed, and that by the shedding of that the anger of God the Father might be appeased, and he reconciled again unto the church4. The blood was sprinkled upon the upper and two side-posts of the house with a bunch of hyssop. Hyssop, verily, is a base herb and of small account ; and the preaching of the Gospel seemeth to be foolish, vile, and of no value : and yet by the preaching of the gospel the blood of Christ unto the remission of sins must be sprinkled5 on us which are the house of God. Now we receive the Lamb to life, when we do eat, that is, when we believe that Christ did suffer for us : for Christ is eaten by faith, as it is at large declared6 in the sixth chapter of St John. The lamb is dressed with fire, and not with water : it is not eaten raw, but roasted. For Christ was not man alone, but very God also, the true burntoffering. He is able fully to absolve us, so that there needs no addition of ours : all our additions are mere water, and altogether cold. Moreover, the whole Lamb was to be eaten ; the head, the feet, and purtenance : for unless we believe that Christ is very God and very man, and that he is our wisdom and righteousness, we do not eat him wholly. They eat not the head, which deny that Christ is God : they eat not the feet, which do deny that Christ is man : they eat not the purtenance, which do not acknowledge the gifts that are in Christ, which he doth communicate unto the faithful, to wit, righteousness, wisdom, sanctification, redemption, and life. The bones of the Lamb were neither broken nor thrown to the dogs, but burnt with fire : for in Christ there t1 universi orbis, Lat.] [2 whereof — a type, not in Lat.]
 
@@ -280,8 +265,6 @@ This very same ceremony was, as it were, a confession of The badge
 
 [16 hujus seculi, Lat.]
 
-186 THE THIRD DECADE. [sERM.
-
 did profess that they were the redeemed, the libertines1, and the people of the living God. For thereunto belongeth the commandment which charged them that no stranger should eat of the lamb, but that the circumcised alone should be partakers of it ; that it should not be divided into many Atthetaberparts: that it should be eaten nowhere but in one place alone.
 
 nacle first, r ' .
@@ -312,8 +295,6 @@ Now, as I was about to say, there were divers sacrifices sunsacrifice* drily dif
 
 general to all sacrifices, not to be offered in any other but one appointed place alone. It was general to all sacrifices, that they ought of duty to be offered by faith, according as they were taught by the word of God. It was general to all sacrifices, to be made according to the Lord's commandment, with holy fire, and not with strange fire, or fire profanely kindled. Nadab and Abihu, the sons of Aaron, were slain for nothing else but for because they used profane or strange fire in sacrificing to the Lord. For when the Israelites, or Levites, did first of all sacri- [Lev. i*. 24.] fice, as the Lord had commanded them, in the tabernacle of [8 creduntur, Lat.] [? genearchas, Lat.]
 
-188 THE THIRD DECADE. [SERAI.
-
 appointment, then did God, by sending fire from heaven, give a token that he did like of that manner of sacrifice. Whereupon in the sixth of Leviticus the priests are charged to maintain or keep the holy fire always burning, first in the tabernacle, and then in the temple : which thing it is manifest The vestal that the heathen did imitate, in commanding the vestal virgins virgins were ° ° cruatede(toithe at R°me •Iwaya to keep the holy fire burning. By this perpetual fire is meant the perpetual working of the Holy Ghost in the church of Christ ; which must be kept quick and stirred up in the hearts of the faithful with fervent prayers, with the sincere doctrine of the Lord, and with the right use of the holy sacraments. It was also general to all sacrifices, that in them neither wild nor unclean beasts were offered to the Lord. Moreover, this general rule of sacrifices is given by Moses in the twenty-second chapter of Leviticus, saying : " Let no deformity be in the thing that thou shalt offer : if it be blind, or lame, or maimed ; if it have pushes l, or scabs, or tetter2, ye shall not offer it unto the Lord, neither shall ye put ought of it upon his altar." Verily, if any man had brought a deformed oblation unto the Lord, he shewed himself plainly to be a contemner, and utterly unthankful toward his maker. And therefore the Lord in Malachi crieth [Mai. i. a] out, and saith : " When ye bring the blind for sacrifice, do ye not sin? and when ye bring the lame and sick, do ye not sin? Offer it now, I pray thee, to thy prince or captain ; will he be content with it ? or will he accept thy person ? saith the Lord of hosts. And so I say, My name is in contempt and of no estimation among you." The just and true God, therefore, doth at all times require truth, liberality, sincerity, and integrity in them that worship him ; and on the other side, he abhoreth and utterly detesteth uncleanliness, lying, and hypocrisy.
 
 There are certain other things also, which be generally common to all sorts of sacrifices : but I will not at this time make particular rehearsal of every several jot or minute. But what peculiarities every sundry sacrifice hath, it will evidently appear in the exposition of their sundry sorts : which I will now speak of in order as they lie.
@@ -327,8 +308,6 @@ Now the manner of making this burnt sacrifice was in this order. The beast, that
 C3 rfriy.l
 
 [4 The corresponding Hebrew name is W)3. Dent, xxxiii. 10. Ps. 15. 19.]
-
-190 THE THIRD DECADE. [sERM.
 
 sacrificed once for the cleasning of all the sins of the whole world. For they in the glass of that sacrifice did behold the cross and passion of the Lord, which took our sins upon himself1, and, being slain, did shed his blood for the remission of sins, offering himself wholly to God the Father in the fire of charity and heavenly zeal. The very same Christ is the turtle or pigeon.
 
@@ -354,8 +333,6 @@ The second kind of sacrifices was the oblation, which they The meatcalled minha;
 
 Now even as Christ was before prefigured in beasts and birds, so also is he represented in this bread or cakes. For [6 cibarium, Lat.j
 
-192 THE THIRD DECADE. [SERM.
-
 he is the bread of life, and hath sundry fashions of infirmity and glory. In Christ thou shalt not find any leaven, that is, sin, uncharitableness, hypocrisy, or pride. There is in Christ no sweetness, nor honey-like taste, of worldly or wicked pleasures. But salt thou mayest find in him, a well seasoned temperature altogether heavenly, and most absolute wisdom. Because of Christ, and for his sake, all things of ours are acceptable unto God ; for Christ his sake our prayers are heard of God the Father : upon Christ, therefore, there is a sweet-smelling frankincense in the nose of God the Father1. And in these ceremonies are also shadowed the manner and matter of our sacrifices; to wit, that they should be without hypocrisy, bitterness, hatred, envy, and fleshly pleasure, and should be seasoned with godly and continual prayers. The drinkWith the meat-offerings we may place the drink-offerings also2. For in those sacrifices wine was poured out unto the Lord, as is evident in the twenty-ninth of Exodus, the twenty-third of Leviticus, and the twenty-eighth chapter of the book of Numbers. Now Christ is our wine, our drink, and joy unto eternal life. He poureth himself into the minds of the godly, that he may fill them with joy, and live in them and they in him. And therefore did he consecrate in wine the memory of his blood that was shed for us to the remission of our sins.
 
 With these meat-offerings may be joined the sacrifices of the first-fruits, of the first-begotten, and of the tenths: touching all which there is much to be read in divers places of the law ; as in the thirteenth and twenty-third of Exodus, in the eighteenth of Deuteronomy, and the eighteenth of the book of Numbers. Now Christ is the first-begotten and the first-fruits of all the faithful, for whose worthiness and merit we are all spared, and by whom we, being sanctified, are made the sons and3 heirs of God. To him, as to our Maker and Redeemer, we owe, as tenths, our very souls, and whatsoever else is dear unto (and good in) us. Moreover, it is a point of thankfulness frankly to bestow upon God part of our earthly riches, which we have at his hands, to the main-
@@ -380,8 +357,6 @@ The third kind of sacrifice is that which is offered for The sinsin, and is ther
 
 [BULLINGER, n.]
 
-194 THE THIKD DECADE. [SEUM.
-
 The yearly Now these many and sundry sacrifices, appointed for sins, were kept uncertainly l, because they were wont to be offered of them that sinned at that very time when they did commit the sin : but the certain, the yearly, and universal sacrifice was that which is at large described in the sixteenth of Leviticus, and may be referred in this place to the number of • cleansing sacrifices. For in the feast of atonement, upon the tenth day of the seventh month every year, was solemnized the sacrifice of cleansing, or atonement, for all the sins universally of all the people. The manner of this general sacrifice I will not over-busily at this time describe, since it is as clearly as the light set down in that place of Leviticus which even now I cited; and since I, in expounding the mystery thereof, do mean to shew, and make plain, so many shadows in it as are needful to be marked. For I will say somewhat touching the meaning and mystery thereof.
 
 In that most pleasant glass was figured the whole passion, and effect of the passion, of Jesus Christ, our Lord and Saviour ; which by that sacrifice was every year laid before the eyes and renewed to the minds of all the faithful church of God. For this manner of representing our redemption and salvation did please God, by sacraments, rather than by pictures, colours, or by stage-plays; which are at this day greatly set by, although scarce godly, by no small number of trifling and fantastical heads2.
@@ -403,8 +378,6 @@ Aaron did first of all kill a steer for himself and his family : whereby he decl
 [4 his fleshly — to ours, not in Lat. ; ho is altogether, &c.]
 
 13—2
-
-190 THE THIRD DECADE. [sKRM.
 
 the scape-goat into the desert. The two goats do signify Christ our Lord, very God and very man, in two natures unseparated. He is slain, and dieth1 in his humanity; but is not slain nor dieth in his divinity. Yet he, being one and the same Christ, unseparated, is the Saviour of the world, and doth work the redemption of us mortal men. So in the
 
@@ -432,8 +405,6 @@ When that was done, the high priest went again into the
 
 [10 Isai. liii. 6, 8, 6. For the payne of oure punyshmet shal be layde upo him. Coverdale, 1535. But this last quotation in the Latin
 
-198 THE THIRD DECADE. [sERM.
-
 Now the goat did carry the sins into the desert, not that the sins should not be, but that they should not be any more imputed unto them. For in the church verily there is sin in the saints, but it is not imputed unto them. Sin is imputed to all them that are without the church, in the desolate wilderness. The convenient man, that should carry away the scape-goat, can be none other than Christ himself, who in the days of his flesh did observe the convenient time and fit occasion, repeating oftentimes that his hour was not yet come; but at the last, when time convenient was come for him to die, he said that then his hour was come. And by dying he carried away conveniently the scape-goat, I mean1, the sin of all the world.
 
 When this also was thus accomplished, the high priest did again wash himself; and, putting off the common garments of the inferior priests, did again put on his high priest's attire. Now this often and manifold washing in the holy ceremony is a shadow, or type, of the most absolute remission of sins; even as also the changing of a garment is a sign or figure of glorification; as is at the full to be seen in the third chapter of Zachary's prophecy. And Christ, being glorified, did enter into heaven, there to appear in the sight of God, the only and effectual sacrifice for us mortal men. Therefore did Aaron sacrifice a ram for a burnt-offering : for Christ is the sacrifice which endureth always, and purgeth all the faithful.
@@ -452,9 +423,9 @@ Of this ceremony, and of this place of scripture, did Paul, the holy apostle of 
 
 [3 omnium, Lat. ; stir and solemnity, not in Lat.] [4 e medio sublata, Lat.] [s of, ed. 1587.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 The only sacrifice of Christ is sufficient for all the world.
 
@@ -475,8 +446,6 @@ There was brought to Eleazar-the priest a red cow withThe sacrifice out spot, wh
 The apostle Paul doth testify, that the circumstances of this ceremony did lay before us a most evident type of Jesus Christ : for in the ninth chapter to the Hebrews he saith : " If the ashes of a young cow, sprinkled, doth sanctify them Heb. ix. that are partakers of it to the purifying of the flesh, how much more the blood of Christ ! " Therefore both the priest and the cow did bear the type of Christ. The female kind in the cow doth note the infirmity of man's nature ; the red colour doth admonish us of the Lord his blood, by which we are washed from our uncleanness. There was no spot to be found in Christ ; for he was the Holy of holies, and altogether free from and without all sin. He was not brought to death by the yoke of necessity ; for he offered himself unto it of
 
 [2 vir mundus,Lat.] [3 aqua viva, Lat.]
-
-202 THE THIRD DECADE. [sERM.
 
 his own free will : yea, he offered himself willingly to go to his death, and that too without the host or walls of the city, in the mount of Calvary : which thing the apostle Paul doth touch in the thirteenth to the Hebrews. Christ, both God and man, was wholly offered in body and soul : whose blood is wholesome1 for us, if by the Holy Ghost it be sprinkled in our hearts. The faithful also must die with Christ ; they must be humbled, and burn in love to Godward as red as scarlet2 : and that was the meaning of the cedarwood, the hyssop, and the scarlet lace, which were cast into the fire.
 
@@ -503,8 +472,6 @@ The fourth kind of sacrifices was the sacrifice of thanksThe sacrifice
 [6 sacrificium eucharistioc, gratiarum actionis, vel gratulatorium,
 
 Lat.]
-
-204 THE THIRD DECADE. [sERM.
 
 fold : it was not lawful to offer birds ; for it was done either with a bullock or an heifer, with a male or a female lamb, or with an he or she-goat. It was slain before the atrium: the hide or skin thereof was the priest's fee. The blood was sprinkled about the altar. The kidneys, the caul of the liver, the rump of the lamb, and all the fat, was burnt upon the altar of burnt-offerings. The right shoulder was heaved, the breast was waved toward the ends of the world1. (For thruma and thnupho?, that is, the heaving and waving, were not kinds of sacrifices, but ceremonies only, which the priests did use in making their sacrifices and oblations. By the heaving was signified, that Christ should be heaved or lifted up, and that he, being once lifted up, should draw all men unto him. The waving of the breast toward every part of the world was a token, that the preaching of Christ should be spread in every corner of the world.) The breast and the shoulder were both the priest's portion, together with the jawbone and the paunch or belly. The rest of the flesh returned to him that made the oblation, and was eaten by him in an holy banquet. The remnant of ceremonies belonging to this sacrifice are to be found in the third chapter of Leviticus. For if it were thoda3, a confession, a praise, or a protestation, then was added to the sacrifice a cake of pure wheat flour and salt steeped in oil, or sodden cracknels, or bread baken in pans : part whereof was heaved, and fell to the priest's share ; the rest returned to the offerer, even as also leavened bread was allowed to be eaten in the banquet.
 

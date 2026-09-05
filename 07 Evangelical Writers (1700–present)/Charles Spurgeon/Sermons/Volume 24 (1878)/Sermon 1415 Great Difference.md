@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Great Difference
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1415
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 19, 1878,.
+*Delivered on Lord's-Day Morning, May 19, 1878*
 
 > "Where is the God of Judgment?" Malachi 2:17.
 
@@ -132,7 +131,6 @@ Look at the lot of the righteous. When Christ, the Sun of Righteousness, shall a
 There shall be no congregations where pretended preachers of the Gospel shall deal out new philosophies and suggest newly invented skepticisms, or which at least they hoped men would accept as new, though they were the old errors of the past picked off the dunghill upon which they had been thrown by disgusted ages! Sin shall all be gone and not a trace of it shall be left! But here shall dwell righteousness and peace! The meek shall inherit the earth and the saints shall stand, each one in his lot, for the Lord Himself shall reign gloriously among His ancients! From every hill and every vale shall come up the one song of Glory unto the Most High and every heart that beats shall magnify His name, who at last has answered the question, "Where is the God of Judgment?"
 
 Then, cast into the nethermost Hell, in the place appointed for the devil and his angels, the ungodly shall never ask again, "Where is the God of Judgment?" And saints, triumphant in their Lord, with whom they shall reign forever in eternity, shall also perceive that He, "discerns between the righteous and the wicked, between him that serves God and him that serves Him not." Beloved Hearer, where? O where will you be? Where shall I be in that Day?
-
 
 ---
 [[Sermon 1414 No Difference|← #1414]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1416 The Faithful Saying|#1416 →]]

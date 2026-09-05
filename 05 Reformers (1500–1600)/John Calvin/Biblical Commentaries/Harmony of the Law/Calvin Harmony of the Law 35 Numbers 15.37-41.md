@@ -11,10 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 35. Numbers 15:37-41; Exodus 23:13
 
-**NUMBERS 15**
+***Numbers 15***
 
 **37.** And the Lord spake unto Moses, saying,
 

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 30. Letter XXIX. To the Same (1413)
-
-LETTER XXIX. TO THE SAME (1413)
 
 The views of Hus as to the Vicar of Christ ; His claims and obedience ; Popes may err ; Pope Joan again . . 128-32
 

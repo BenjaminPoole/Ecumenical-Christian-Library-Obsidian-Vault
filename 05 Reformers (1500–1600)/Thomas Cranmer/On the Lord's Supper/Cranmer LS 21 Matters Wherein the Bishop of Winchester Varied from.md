@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 21. Matters Wherein the Bishop of Winchester Varied from Other Papists
-
-MATTERS WHEREIN THE BISHOP OF WINCHESTER VARIED FROM OTHER PAPISTS"*. —
 
 Orner say, that the body of Christ is made of bread. He saith, that the body of Christ is not made of bread, nor was never so taught, but is made present of bread, p72, line 14, and p. 178, line 10.
 
@@ -65,7 +62,7 @@ Other say, that the mass is a sacrifice satisfactory by devotion of the priest, 
 
 He saith, that the only immolation of Christ in himself upon the altar of the cross is the very satisfactory sacrifice for the reconciliation of mankind to the favour of God, p. 437, line 1, 2, and 31. Smith saith, “ What is it to offer Christ’s body and blood at mass, to purchase thereby everlasting life, if it be not the mass to be a sacrifice to pacify God’s wrath for sin, and to obtain his mercy?” Smith, fol. 24, 148, 164. Priests do offer for our salvation to get heaven and to avoid hell, fol. eodem.
 
-MATTERS WHEREIN THE BISHOP VARIED FROM HIMSELF.
+## Matters Wherein the Bishop Varied from Himself
 
 “Tue body of Christ in the sacrament is not made of bread, but is made present of bread,” p. 79, line 6, &c., and p. 202, line 40, &c.
 
@@ -79,7 +76,7 @@ MATTERS WHEREIN THE BISHOP VARIED FROM HIMSELF.
 
 Iilis verbis, “ Hoe est corpus meum,” substantia corporis significatur, nec de pane
 
-382 MATTERS WHEREIN HE VARIETH FROM HIMSELF.
+## 382 Matters Wherein He Varieth from Himself
 
 quicquam intelligitur, quum corpus de substantia sua, non aliena preedicetur, fol. 24, fac. 2. Mar. Ant. Constant. |
 
@@ -137,7 +134,7 @@ _ The substances of bread and wine be visible creatures,” p. 285, line 48, and
 
 *“* Accidents be the visible natures and visible elements,” p. 363, line 39.
 
-CONCESSA. 383
+## Concessa. 383
 
 _ “Christ is our satisfaction wholly and fully, and hath paid our whole debt to God the Father, for the appeasing of his wrath against us,” p. 81, line 39.
 
@@ -185,7 +182,7 @@ _ “Christ may be called sensibly present,” p. 155, line 26, and p. 159, line
 
 [! Thus in ed. 1580, It should be p. 387, line 13.] [2 Ibid. It should be line 13.]
 
-B84 CONCESSA.
+## B84 Concessa
 
 bodily and naturally dwelling in us by his manhood,” p. 166, line 30, &c., and p. 17, line 34,
 
@@ -235,7 +232,7 @@ _ “Tn common bread the substance is not broken at all,” p. 257, line 32.
 
 CONCESSA. 385 but the same manner of offering is not daily that was on the altar of the cross. For the daily offering is without blood-shedding, and is termed so, to signify that bloodshedding once done to be sufficient,” p. eadem, line 8, &c.
 
-MATTERS WHEREIN THE BISHOP VARIETH FROM THE TRUTH AND FROM THE OLD AUTHORS OF THE CHURCH.
+## Matters Wherein the Bishop Varieth from the Truth and from the Old Authors of the Church
 
 “Tf we eat not the flesh of the Son of man, we have not life in us, because Christ hath ordered the sacrament,” &c. p. 17, line 12. “When Christ said, ‘Take eat, this is my body,’ he fulfilled that which he promised in the sixth of John, that he would give his flesh for the life of the world,” p27, line 28. Mar. Ant. fol. 168. Nota. “When Christ said, ‘the flesh profiteth nothing, he spake not of his flesh as it is united unto his divinity,” p. 27, line 53, and p. 329, line 24. “God in baptism giveth only the Spirit of Christ, and in the sacrament of the altar the very body and blood of Christ,” p. 34, line 44. | “Unworthy receivers of the sacrament receive Christ’s body with mouth only, the Concessum. worthy receivers both with mouth and heart,” p. 54, line 47, &c. “We must believe Christ's words to be most perfectly true according to the truth Coneessum. of the letter, where no absurdity in scripture driveth us from it, howsoever it seem repugnant to reason,” p. 62, line 20. “The fathers did eat Christ’s body, and drink his blood in truth of promise, not concessum.
 
@@ -275,7 +272,7 @@ Concessum,
 
 Concessum.
 
-386 MATTERS WHEREIN HE VARIETH
+## 386 Matters Wherein He Varieth
 
 “When Christ said, ‘ This is my body,’ this word ‘This, may be re to the invisible substance,” p. 106, line 44.
 
@@ -325,9 +322,9 @@ Concessum.
 
 “Tn baptism we be united to Christ’s manhood by his divinity, but in the Lord’s supper we be in nature united to Christ as man, and by his — flesh made partakers also of his divinity,” P181, line 8.
 
-“ Christ’s body and flesh is a spiritual body. and flesh, and is present in the sa- crament after a spiritual manner, and is spiritually received,” p. eadem, 26, [p.] 351, line 19.
+“ Christ’s body and flesh is a spiritual body. and flesh, and is present in the sa-crament after a spiritual manner, and is spiritually received,” p. eadem, 26, [p.] 351, line 19.
 
-FROM THE TRUTH AND FROM OLD AUTHORS. 387
+## From the Truth and from Old Authors. 387
 
 “In this sacrament Christ’s humanity and Godhead is really present, and in baptism his Godhead with the effectual virtue of his blood (in which we be washed), not requiring any real presence thereof,” p. 191, line 35.
 

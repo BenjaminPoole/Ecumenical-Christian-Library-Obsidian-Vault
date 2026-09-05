@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Diamond Hinges - 'as' and 'so'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2962
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For this is as the waters of Noah unto Me; for as Ihave sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be angry with you, nor rebuke you." Isaiah 54:9.
 
@@ -109,7 +106,7 @@ Dear Savior, put Your almighty arms right round this Tabernacle—it is only lik
 
 in your lot with Christ and with His people, too! I can assure you that if you do so, we who love the Lord, will greatly rejoice—and you also will rejoice with us! God bless you all, and so grant us our heart's desire, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS8:20-22; 9:8-17; ISAIAH 54:1-10.
+## Exposition by C. H. Spurgeon: Genesis 8:20-22; 9:8-17; Isaiah 54:1-10
 
 Genesis 8:20, 21. And Noah built an altar unto the LORD and took of every clean beast, and of every clean fowl, and offered burnt offering on the altar And the LORD smelleda sweet savor—A savor of rest.
 
@@ -140,7 +137,6 @@ Isaiah 54:1. Sing, O barren, you that did not bear; break forth into singing, an
 "In oaths, and promises, and blood."
 
 10\. For the mountains shall depart, and the hills be removed; but My kindness shall not depart from you, neither shall the Covenant of My peace be removed, says the LORD that has mercy on you. Or, as the Hebrew has it, "says the Lord, the Pitier." Was there ever a sweeter title to comfort our hearts than this, "the Lord, the Pitier"?
-
 
 ---
 [[Sermon 2961 'Heirs of God'|← #2961]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2963 Unmitigated Prosperity|#2963 →]]

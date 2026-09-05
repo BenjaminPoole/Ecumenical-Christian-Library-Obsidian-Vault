@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Lover of God's Law Filled With Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2004
 
-DELIVERED ON LORD'S DAY MORNING, JANUARY 22, 1888,.
+*Delivered on Lord's Day Morning, January 22, 1888*
 
 > "Great peace have they which love Your Law: and nothing shall offend them." Psalm 119:165.
 
@@ -152,7 +151,6 @@ The same will be true of adversity. He that can stand on the hilltop can stand i
 As for you who love not God's Law, who know nothing of Jesus, because you have never submitted to the Law of faith— there is no "great peace" for you. There may be the deceptive cry of, "Peace, peace, when there is no peace." But may the Lord save you from it! Soul, there is no hope for you, you can not rest till you are at one with God. As surely as God made you, you must yield to your Maker and accept your Redeemer and be renewed by His Holy Spirit, or you are lost forever.
 
 I pray God the Holy Spirit lead you to accept what God has revealed and bow yourself to the supreme majesty of His Word—especially to the power and grace of the Incarnate Word, the Lord Christ Jesus. Then will you have great peace for this world and the next. God bless you, Beloved, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 2003 Young Man, Is This For You|← #2003]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2005 The Hairs of Your Head Numbered|#2005 →]]

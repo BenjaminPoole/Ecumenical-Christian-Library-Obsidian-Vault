@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 4
 
-**CHAPTER 4**
+***Chapter 4***
 
 ## Isaiah 4:1-6
 

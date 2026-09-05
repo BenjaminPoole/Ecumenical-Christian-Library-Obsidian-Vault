@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 6. An Answer unto Sir Thomas More's Dialogue: To the Second Book
 
 An answer to M. More's Second Book.
@@ -28,8 +27,6 @@ are no sacraments, save such as are of the pope's generation.
 The Third Chapter.
 
 In the third chapter, and in the chapter following, he uttereth how fleshly-minded he is, and how beastly he imagineth of God, as Paul saith, (1 Cor. ii.) "The natural man can1 Cor.ii. not understand the things of the Spirit of God." He thinketh The natural of God as he doth of his cardinal; that he is a monster, pleased when men flatter him ; and if, of whatsoever frailty it be, men break his commandments, he is then raging mad as the pope is, and seeketh to be venged. Nay, God is ever fatherlyminded toward the elect members of his church. He loved them, ere the world began, in Christ. (Eph. i.) He loveth that it was thought reasonable to believe the scripture, being God's own words, rather than the words of men, ye" [i.e. Sir Thomas More] " proved that the common faith of the church was as well God's own words as was holy scripture self, and of as great authority ; and that no student in scripture should presume to try, examine, and judge the catholic faith of Christ's church by the scripture, but by the catholic faith of Christ's church should examine and expound the texts of scripture." Dialogue, B. n. ch. i. Works, p. 178.]
-
-112 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
 
 cod is them while they be yet evil, and his enemies in their hearts,
 
@@ -64,8 +61,6 @@ Jf church that that smneth not, and that there is no man but that he sinneth! si
 [2 More makes his questioner say, that the reformers' party ' hath some that preach sometime, but ye will not suffer them ; ye punish them and burn them.' To which More replies, ' Nay, they be wiser than so ; for they will rather swear on a book that they never said BO/ p. 183.]
 
 [s See Vol. n. p. 340. In the preface to More's Confutacyon, he gives a most scornful account of this meek reformer's apprehension und cruel death ; calling him " the devil's stinking martyr."]
-
-114 ANSWER TO SIR THOMAS MORE*S DIALOGUE. [CHAP.
 
 The camai common rascal1 of all that believe, whether with the mouth only, and carnally without spirit, neither loving the law in their hearts, nor feeling the mercy that is in Christ ; but either run altogether at riot, or keep the law with cautels and expo sitions of their own feigning, and yet not of love, but for fear of hell, as the thieves do for fear of the gallows ; and make recompence to God for their sins with holy deeds.
 
@@ -103,8 +98,6 @@ He saith also, that good and bad worship saints ; the good
 
 [2 " Now, quod I, all that are of that sort, if they happen to ad venture somewhat and be spied, they will first perjure themselves, and after abjure their opinion ; so that if their opinion were good yet were themselves naught," p. 186.]
 
-116 ANSWER TO SIR THOMAS MORE'S DIALOGUE. [CHAP.
-
 well, and the bad evil. How cometh it then that ye shew not the difference, and teach to do it well ? I see but one fashion among all the popish. And finally he saith, he is not bound to answer unto the reasons and scriptures that are laid against them. It is enough, to prove their part, that it is a common custom, and that such a multitude do it. And so, by his doctrine, the Turks are in the right way.
 
 The Eighth Chapter.
@@ -136,8 +129,6 @@ Abraham and the prophets, and the apostles, and many 5lfSSdn?tst since, prayed t
 [2 In the Roman breviary the collect for July 6, being the octave of the festival of Peter and Paul, is as follows : Deus, cujus dextera beatum Petrum ambulantem in fluctibus, ne mergeretur, erexit; et coapostolum ejus Paulum, tertio naufragantem, de profundo pelagi liberavit : exaudi nos propitius, et concede, ut amborum meritis ceternitatis gloriam consequamur. Qui vivis et regnas cum Deo Patre.
 
 In " The devotion and office of the sacred heart, &c., with exercises for the holy sacrifice of the Mass," Dublin, 1829, there occurs this prayer : " O God, who hast vouchsafed to send the blessed Patrick, thy confessor and bishop, to preach thy glory to nations, grant by his merits and intercession, that what thou hast commanded us to do, we may through thy mercy be able to fulfil through our Lord. Amen."]
-
-118 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
 
 when he saith, they could help when they were alive ; that was through their faith, in believing the promise : for they had promises, that they should do such miracles to stablish their doctrine, and to provoke unto Christ, and not unto themselves.
 
@@ -189,8 +180,6 @@ Then, how " ye may pray for them, and to them, till they canonizing. be canonize
 
 [4 « Those, quod I, that be not canonized, ye may, for the more part, both pray for them, and pray to them, as ye may pray for and to them that be yet alive. But one that is canonized, ye may pray to him to pray for you ; but ye may not pray for him. And of every man ye may trust well, and be seldom certain ; but of the canonized ye may reckon you sure." Id. p. 190.]
 
-122 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
-
 cause of the miracles ;' then do men wrong to pray for king
 
 Km, Henry Henry of Windsor at Cambridge and Eton. For he, as men
@@ -221,8 +210,6 @@ Tyndale : — Yes, and for their false trust in such works ; as we do you. And y
 
 Then repeateth he, for forgetting, how ' Eliseus' bones raised up a dead body.' That was to confirm his preaching only. For the Israelites, as wicked as they were, neither prayed to him, neither kissed his bones, nor offered, nor sticked up candles before him ; which thing if they had done in the kingdom of the Jews, I doubt not but that some good king would have burnt his bones to ashes, as well as the brasen
 
-124 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
-
 The miracles serpent, that was as great a relic as dead bones. And, ' Christ $SS±d shewed miracles at the finding of the cross.' That was to g^T stablish the faith of Christ's death, and that it should be a «£.*" memory of his death; and not that we should trust in the wood, as we do: for which false abuse the whole land, where Christ did his miracles, is destroyed. Christ made Then he allegeth 'the woman that was healed through touching of Christ's coat; because we should worship it:' when not im coat. . „ her fg^ j^ made her Wh0le," not in the
 
 Miracles °f coat, but in Christ. And the miracle was shewed, to provoke to the worshipping of the preaching, and not of the coat : though to keep the coat reverently in the memorial of the deed, to provoke unto the faith of Christ, were not evil of itself. And Paul, by your doctrine, sent his napkin to heal the sick, that men should shrine his snivelled napkin1, and not to believe his preaching.
@@ -235,7 +222,7 @@ A filthy The tenth chapter, of St Walary, is meet for the author and his worship
 
 [2 The tale which More has told, of a pilgrimage to the chapel of St Valeri, in Picardy, fills nearly two columns ; and is too grossly in decent to admit of any allusion to its subject.]
 
-X. XI.] THE SECOND BOOK. 125
+## X. XI.] the Second Book. 125
 
 The Eleventh Chapter.
 
@@ -248,8 +235,6 @@ He trusteth " that men know the image from the saint." I ask M. More, why God di
 And when he saith, "If men ask women whether it were our lady of Walsingham, or Ipswich, that was saluted of Ga briel, or that stood by Christ when he hung on the cross? they will say, neither nother." Then I ask him, what meaneth Theidoit that they say, ' Our lady of Walsingham, pray for me ; Our son°wor-er" lady of Ipswich, pray for me; Our lady of Wilsdon, pray for thepSge me?1 insomuch that some, which reckon themselves no small fools, make them rolls of half an hour long, to pray after that manner. And they that so pray, thou mayest be sure, mean our lady that stood by the cross ; and her that was saluted thereto.
 
 Then he rehearseth many abuses, and how that women Processions sing songs of ribaldry in processions in cathedral churches ;
-
-120 ANSWER TO SIR THOMAS MORfi's DIALOGUE. [CHAP.
 
 may not be unto which abominations yet our holy church, that cannot err, put down. congents with fuu delectation. For on the one side they will not amend the abuse; and, on the other side, they have hired M. More to prove with his sophistry, that the things ought not to be put down.
 
@@ -283,13 +268,11 @@ P A small image of the crucifix, which is handed from one to another to be kisse
 
 XI. XII.] THE SECOND BOOK. 127 better than another, they be the best.' I answer, though he could prove that they prayed to saints, yet could he not prove himself thereby of the best sect ; nor that it were good there fore to pray to saints. For first, the apostles, patriarchs, and prophets were sure3 to be followed, which prayed to none. And again, a good man might err in many things, and not be damned ; so that his error were not directly against the £aey S^ami promises that are in Christ's blood, neither that he held them SLS!* maliciously : as if I believed that the souls were in heaven immediately, and that they prayed for us, as we do one for another, and did believe that they heard all that we spake or thought; and upon that prayed to some saint to pray for me, to put him in remembrance only, as I pray my neighbour, and without other trust or confidence; and though all be false, yet should I not be damned, so long as I had no obsti nacy therein : for the faith that I have in Christ's blood should swallow up that error, till I were better taught. But M. More should have alleged the places where they prayed unto saints.
 
-And then he allegeth against himself, that * the miracles were wrought by God, to confirm his doctrine, and to testify that the preacher there was a true messenger.' But the The miracles , . , /»/-.! of saints con- miracles that confirm praying to saints do not confirm God's firm man's r t *) ° imaginations.
+And then he allegeth against himself, that * the miracles were wrought by God, to confirm his doctrine, and to testify that the preacher there was a true messenger.' But the The miracles , . , /»/-.! of saints con-miracles that confirm praying to saints do not confirm God's firm man's r t *) ° imaginations.
 
 doctrine, but man's imaginations. For there was never man yet that came forth and said, ' Lo, the souls of the saints, that be dead, be in heaven in joy with Christ ; and God will that ye pray unto them : in token whereof I do this or that miracle.'
 
 And when he triumpheth a little after, as though all were won, saying, ' If our old holy doctors were false, and their doctrine untrue, and their miracles feigned, let them come forth and do miracles themselves, and prove ours feigned :' — Sir, ye have no doctors that did miracles to stablish your eisdera sanctis illos tamquam patronis susceptos apud Dominum adjuvandos orando commendent. Cum itaque recolit animus ubi sepultum sit carissimi corpus, et occurrit locus nomine martyris venerabilis, eidem martyri animam dilectam commendat recordantis et precantis affectus. Qui cum defunctis a fidelibus carissimis exhibetur, eum prodesse non dubium est iis qui, cum in corpore viverent, talia sibi post hanc vitam prodesse meruerunt. — August. Op. De cur, agend. pro Mort. Tom. vi. col. 519. B. D.] [3 Sure, used for safe.]
-
-128 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 There were worshipping of images, and so forth. Your doctrine is but neuS°rs) the opinion of faithless people, which to confirm the devil apostles, that • «i i /» J.T. • l l did miracles i^f^ wrought much subtiltv. And as tor the miracles done to establish _ .. .
 
@@ -319,8 +302,6 @@ And when he speaketh of miracles done in their churches False doc-
 
 • . n • i i_ • ' i i trine was in time 01 persecution ; I answer, those were not the miracles never p«- of your church, but of them that believed the scripture and suffered for it, as the heretics do now. For ye had never persecution for your false doctrine, which ye have brought in besides the scripture, nor any that died for it ; but ye per secute and slay whosoever with God's word doth rebuke it. And as for your own miracles of which ye make your boast, The papists ye have feigned them so grossly, throughout all your legends of their of saints, that ye be now ashamed of them, and would fain be liesrid of them, if ye wist how, with honesty; and so would ye of a thousand things which ye have feigned. And the cause why heretics feign no miracles, as ye do, is, that they walk purely, and intend no falsehood : and why the devil doth none for them, is, that they cleave fast to God's word which the devil hateth, and can do no miracles to further it; but to hinder it, as he doth with you. Read the stories of your The devii popes and cardinals, and see whether the devil hath not helped popes te0pe them unto high dignities. And look whether your holy bishops lg come any otherwise unto their promotions, than by serving the devil ; in setting all Christendom at variance, in shedding
 
-130 ANSWER TO SIR THOMAS MORELS DIALOGUE. [CHAP.
-
 blood, in bringing the commonwealth to tyranny, and in teaching Christian princes to rule more cruelly than did ever any heathen, contrary unto the doctrine of Christ.
 
 The cause And as for the Turks and Saracens, that ye speak of; I
@@ -345,8 +326,6 @@ And of your dead saints let us take one for an example. Thomas de Aquino is a sa
 
 [3 In his Sacrse Theologiae sententiarum Qusestiones perutiles, Duns Scotus examines the question, 'Utrum beata virgo fuerit concepta in original! peccato.' He begins the discussion with observing, Circa primum arguitur quod sicut in Adam omnes peccaverunt (Rom. v.)
 
-132 AIs7SWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
-
 pope, for the devotion of that the grey friars gave him, ye may well think, made an article of the faith.
 
 And finally, as for the miracles, they are to make a man astonied and to wonder, and to draw him to hear the word earnestly, rather than to write it in his heart. For whosoever hath no other feeling of the law of God, that it is good, than because of miracles, the same shall believe in Christ as did our faith Simon Magus and Judas, and as they that came out of Egypt £oundedbe with Moses, and fell away at every temptation; and shall have mniracies,n good works like unto our popes, bishops, and cardinals. And but upon the & . • /» 11 'it* i word of God. therefore, when the scripture is fully received, there is no need of miracles : insomuch that they which will not believe Moses and the prophets, when the scripture is received, the same will be no true believers by the reason of miracles, though one arose from death to life to preach unto them, by the testimony of Christ.
@@ -363,7 +342,7 @@ non nisi quia fuerunt in eo secundum rationem seminalem, ita fuit in eo beata vi
 
 [l See Vol. i, notes to pp. 217, 218.1
 
-I.] THE THIRD BOOK. 133
+## I.] the Third Book. 133
 
 ---
 [[Tyndale AM 5 An Answer unto Sir Thomas More's Dialogue To the First|← 5. An Answer unto Sir Thomas More's]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 7 An Answer unto Sir Thomas More's Dialogue To the Third|7. An Answer unto Sir Thomas More's →]]

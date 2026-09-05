@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 86. Political Supplements to the Third Commandment
-
-**Political Supplements to the Third Commandment**
 
 ## Leviticus 24:15-16
 

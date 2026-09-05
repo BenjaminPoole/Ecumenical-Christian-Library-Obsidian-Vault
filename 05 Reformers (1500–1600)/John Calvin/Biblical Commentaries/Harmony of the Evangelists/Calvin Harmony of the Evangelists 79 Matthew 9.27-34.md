@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 79. Matthew 9:27-34
-
-**MATTHEW 9:27-34**
 
 **27**. And while Jesus was departing thence, two blind men followed him, crying and saying, Have pity on us, son of David. **28**. And when he had come into the house, the blind men came to him; and Jesus saith to them, Do you believe that I can do this? They say to him, Yes, Lord. **29**. Then he touched their eyes, saying, Let it be to you according to your faith. **30**. And their eyes were opened, and Jesus threatened them, [^1] saying, See that no man know it. **31**. But when they had departed, they spread the report of it in all that country. **32**. And while they were going out, lo, they brought to him a dumb man, a demoniac. **33**. And when the devil had been cast out, the dumb man spake, and the multitudes wondered, saying, Nothing like this was ever seen in Israel. **34**. But the Pharisees said, He casteth out devils by the prince of the devils.
 

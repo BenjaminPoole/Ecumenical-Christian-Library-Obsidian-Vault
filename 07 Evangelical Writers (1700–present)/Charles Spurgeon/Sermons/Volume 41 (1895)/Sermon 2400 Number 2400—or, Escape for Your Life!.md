@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Number 2400—or, "Escape for Your Life!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2400
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Escape for your life." Genesis 19:17.
 
@@ -105,7 +102,7 @@ Finally, the reason why the angel's message had such power with Lot was that God
 
 It will be the sweet Spirit of the blessed God gently working upon your heart and graciously inclining you to yield yourself to the Lord! I pray that it may be so, even now, for Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 18:17-33; 19:12-28.
+## Exposition by C. H. Spurgeon: Genesis 18:17-33; 19:12-28
 
 Genesis 18:17-19. And the LORD said, Shall I hide from Abraham what I am doing, seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him? For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which He has spoken of him. Abraham is called, "the friend of God." It was not merely that God was his Friend—that was blessedly true and it was a great wonder of Grace—but he was honored to be called, "the friend of God"—one with whom God could hold sweet converse, a man after His own heart, in whom He trusted, to whom He revealed His secrets. I am afraid there are not many men of Abraham's sort in the world just now, but, wherever there is such a man with whom God is familiar, he will be sure to be one who orders his household aright! If the Lord is my Friend, and if I am, indeed, His friend, I shall wish Him to be respected by my children, and I shall endeavor to dedicate my children to His service. I fear that the decline of family godliness, which is so sadly prevalent in these days, is the source of a great many of the crying sins of the age! The Church of God at large would have been more separate from the world if the little church in each man's house had been more carefully trained for God. If you want the Lord to confide in you and to trust you with His secrets, you must see that He is able to say of you what He said of Abra-ham—"he will command his children and his household after him."
 
@@ -134,7 +131,6 @@ Genesis 19:12. And the men said unto Lot, Have you here any besides? Son-in-law,
 22\. Hasten you, escape there. The hand of Justice was held back until God's servant was safe. There can be no destruction of the world, there can be no pouring out of the last plagues, there can be no total sweeping away of the ungodly until, first of all, the servants of God are sealed in their foreheads and taken to a place of security! The Lord will preserve His own. He lets the scaffold stand until the building is finished—then it will come down fast enough.
 
 22-28. For I cannot do anything till you are come there. Therefore the name of the city was called Zoar. The sun was risen upon the earth when Lot entered into Zoar. Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of Heaven; and He overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground. But his wife looked back from behind him, and she became a pillar of salt. And Abraham got up early in the morning to the place where he stood before the LORD: and he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace. What must Abraham's meditations have been! What should be the meditations of every godly man as he looks towards Sodom and sees the smoke of its destruction? It might do some men great good if they would not persistently shut their eyes to the doom of the wicked. Look, look, I pray you, upon that place of darkness and woe where every impenitent and unbelieving spirit must be banished forever from the Presence of the Lord! Look till the tears are in your eyes as you thank God that you are rescued from so terrible a doom! Look till your heart melts with pity for the many who are going the downward road and who will eternally ruin themselves unless almighty Grace prevents!
-
 
 ---
 [[Sermon 2399 Your First Love|← #2399]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2401 The Child of Light and the Works of Darkness|#2401 →]]

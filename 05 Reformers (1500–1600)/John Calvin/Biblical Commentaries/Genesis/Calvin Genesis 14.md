@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 14
 
-**CHAPTER 14.**
+***Chapter 14.***
 
 ## Genesis 14:1-24
 

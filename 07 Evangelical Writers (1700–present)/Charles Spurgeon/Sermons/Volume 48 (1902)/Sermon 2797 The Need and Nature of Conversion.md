@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Need and Nature of Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2797
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let the wicked forsake his ways, and the unrighteous man his thoughts: and let him return to the LORRD, and He will have mercy upon him; and to our God, for He will abundantly pardon." Isaiah 55:7.
 
@@ -91,7 +88,7 @@ There is a further Gospel message in the fact that Jesus Christ Himself came int
 
 Once more—and this is the part of the Gospel that is the best of all—in order that you might be able to believe that God can have mercy on the guilty and in order that you might be saved, God gave His Son, Jesus Christ, to offer a full and complete atonement for sin. I never weary of preaching that glorious Truth of God to you, but I long that when I have done so, you may close in with Christ and that Christ may close in with you, that you may be eternally saved. According to the righteous Law of God, sin must be punished. Conscience tells you that it is not possible that guilt should go without its due penalty. Therefore it was that Jesus came and bore the dread penalty that was due to sin. The lash of the Law of God must fall on someone, so He bared His shoulders to its terrible blows. The sword of Divine Justice was unsheathed and it must smite someone—so Jesus gave His heart to that sword's point and quenched the flaming blade in the crimson fountain of His own blood! Now that this has been done, God can be just and yet the Justifier of everyone who believes in Jesus! And the effect of that atoning Sacrifice upon everyone who truly trusts to it is that he finds himself so changed that he hates the sin he formerly loved! And he rushes out of the wicked ways in which he once delighted, he abhors the thoughts that once charmed him and he turns to the Savior whom he once despised!
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH55.
+## Exposition by C. H. Spurgeon: Isaiah 55
 
 This chapter might very well have been found in the Gospel according to Matthew, or Mark, or Luke, or John, for it is so plain, so simple and so full of Gospel teaching.
 
@@ -124,7 +121,6 @@ the thing to which I sent it Such a promise as this ought to help us to preach i
 12\. The mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands. And many of us can testify that it is so. Once reconciled to God, all nature seems to wear another aspect. Whatever the weather is, it pleases us because it pleases Him who sends it to us and when we look upon the beauties of Nature beneath the sunlight, there is a peculiar glory upon them, for the Light of God that shines more brightly than the sun, is, to the believing eye, upon everything!
 
 13\. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off Wherever God's Word is, there are transformations. Miracles, though we see them not in the natural world, are abundant in the spiritual realm. Conversion is the great standing proof of the Presence of the Holy Spirit—and His abiding Presence is the perpetual Witness to the truth of the Gospel. Beyond all arguments from internal or external evidence, stands this one—the Word of God is effectual in the salvation of sinners. Thorns are turned into fir trees and briers into myrtles and, so, God is glorified and "an everlasting sign" is thus preserved among us, "that shall not be cut off."
-
 
 ---
 [[Sermon 2796 A Man of God Alone With God|← #2796]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2798 Sweet Stimulants for the Fainting Soul|#2798 →]]

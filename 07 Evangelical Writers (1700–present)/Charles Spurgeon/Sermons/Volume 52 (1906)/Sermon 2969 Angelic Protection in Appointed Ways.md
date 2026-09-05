@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Angelic Protection in Appointed Ways
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2969
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For He shall give His angels charge over you to keep you in all your ways." Psalm 91:11.
 
@@ -113,7 +110,7 @@ And, lastly, how holy we ought to be with such holy beings watching over us If t
 
 May He graciously keep us in His holy way. And if we are so kept, we shall be preserved from all evil while we are here and, at last, we shall see His face with joy and live with Him forever! I would to God that all who are now present were in that holy way. I remind you once more that the entrance to it is by a door that has the blood-mark upon the lintel and the two doorposts—"The blood shall be to you for a token." "Believe on the Lord Jesus Christ, and you shall be saved."
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:25-32.
+## Exposition by C. H. Spurgeon: Psalm 119:25-32
 
 Verse 25. My soul cleaves unto the dust "It sticks to it as though it were glued to it. My soul cannot be lifted up, at least by myself, out of its sadness and its earthiness." The Psalmist was not one who could boast of perfection. He had to lament that the earth which was in him by nature made even his soul cleave to Mother Earth. He did not like it. He was not content that it should be so and, therefore, he breathed this prayer—
 
@@ -142,7 +139,6 @@ Verse 25. My soul cleaves unto the dust "It sticks to it as though it were glued
 31\. I have stuck unto Your testimonies. Just now the Psalmist said that his soul stuck to the earth, yet at the same time he was sticking to God's testimonies, for every good man is two men. There is a new-birth man who sticks to God's testimonies, and there is that old carnal nature in us which cleaves to the dust.
 
 31, 32. O Lord, put me not to shame. I willrun the way of Your commandments, when You shall enlarge my heart. That is, "When You shall give me liberty of heart, then I will run in the way of Your commandments. When the impediments are removed—when the sin which does so easily entangle me, is taken away, then will I run with delight in the way of Your commandments!
-
 
 ---
 [[Sermon 2968 'His Great Love'|← #2968]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2970 God's Jewels|#2970 →]]

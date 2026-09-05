@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Three Arrows—or Six?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2303
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he said, Take the arrows. And he took them. And he said unto the king of Israel, Strike the ground. And he struck three times, and stopped. And the man of God was angry with him, and said, You should have struck five or six times; then had you struck Syria till you had consumed it: whereas now you shall strike Syria only three times." 2 Kings 13:18,19.
 
@@ -89,7 +86,7 @@ A cure for this stopping lies in the reflection that in other things we are gene
 
 And lastly, this question ought to prevent us from ever pausing. Can we ever do enough for our Savior? Did He stop anywhere? Did He cry a halt when the work was half done? Did He not set His face steadfastly to go up to Jerusalem? When the scourges fell, He did not turn back and leave us. When the nails were driven into His hands and feet, He did not desert us. When He came to be forsaken of the Father, He did not forsake us, but He went through with His work till He could say, "It is finished." Oh, that we might, each of us, resolve that we would go through with our work, saying, "I have lifted my hand unto the Lord and I cannot go back! May every Christian man and woman say the same! And you who have not yet believed in Christ, may you be brought to believe in Him who died for the guilty! Surrender yourself to Him who died upon the Cross and, having done so, when He looks upon you, and says, "Your sins are forgiven you," look up to Him, and say, "I bless You for that sweet word, my Lord, and now I will serve You all the days of my life." May the Quickening Spirit add the Divine quickening to these feeble words and set you all shooting five or six times, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. 2KINGS13.
+## Exposition by C. H. Spurgeon. 2kings13
 
 Verses 1, 2. In the three and twentieth year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years. And he did that which was evil in the sight of the LORD, and followed the sins of Jeroboam the son, of Nebat, which made Israel to sin; he departed not therefrom. "Seventeen years"— that is a long time in which to do mischief. Seventeen years of reigning over a people, influencing them all for mischief, turning them aside from God and doing his utmost to erase the name of Jehovah from the hearts of the people. Remember, this Jehoahaz was the son of Jehu who had been called to the front because of the sins of the house of Ahab. Though Jehu was brought forward to be a reformer, yet he and his race were as bad as those who were cast out. What a sad thing this is, when those who are planted where the cumber-ground tree used to be, become just as barren as the one that has been cut down, or are only fruitful in sour fruit!
 
@@ -146,7 +143,6 @@ Notice also, at the end of the second verse, "He departed not therefrom." There 
 23, With Abraham, Isaac, and Jacob, and would not destroy them, neither cast He them from His Presence as yet. He would not do it till He was fully driven to it, till provocation upon provocation should wear out His patience,
 
 24, 25. So Hazael king of Syria died; and Benhadad, his son, reigned in his stead. And Joash, the son of Jehoahaz, took again out of the hand of Benhadad, the son of Hazael, the cities which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel. He shot three arrows and now it came to pass that three times did Joash beat Benhadad and recover the cities of Israel. Oh, that he had beaten the king of Syria six times, and set Israel completely free from its enemy!
-
 
 ---
 [[Sermon 2302 Watching For Christ's Coming|← #2302]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2304 Blinded By Satan|#2304 →]]

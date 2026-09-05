@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 14. Speech at the Coronation of Edward VI, 1547
 
-ARCHBISHOP'S SPEECH
+*Archbishop's Speech*
 
-CORONATION OF EDWARD VI., FEB. 20, 1547.1]
+## Coronation of Edward VI., Feb. 20, 1547.1]
 
 MOST dread and royal sovereign : The promises your highness hath made here at your coronation, to forsake the devil and all his works, are not to be taken in the bishop of Rome's sense, when you commit any thing distasteful to that see, to hit your majesty in the teeth ; as pope Paul the third, late bishop of Rome, sent to your royal father, saying, " Didst thou not promise, at our permission of thy coronation, to forsake the devil and all his works, and dost thou turn to heresy2? For the breach of this thy promise, knowest thou not, that 'tis in our power to dispose of the sword3 and sceptre to whom we please?" We, your majesty's clergy, do humbly conceive, that this promise reacheth not at your highness' sword, spiritual or temporal, or in the least at your highness swaying the sceptre of this your dominion, as you and your predecessors have had them from God. Neither could your ancestors lawfully resign up their crowns to the bishop of Rome or to his legates4, according to their ancient oaths then taken upon that ceremony.
 
@@ -37,7 +36,7 @@ Warre, (Ed. Dublin, lf)82, pp. 2—9.) who says that " the collections in this s
 
 [6 Elected of God, Ibid.]
 
-SPEECH AT THE CORONATION OF EDWARD VI. 127
+## Speech at the Coronation of Edward VI. 127
 
 Your majesty is God's vice-gerent and Christ's vicar within your own dominions, and to see, with your predecessor Josiah7, God truly worshipped, and idolatry destroyed, the tyranny of the bishops of Rome banished from your subjects, and images removed. These acts be signs of a second Josiah7, who reformed the church of God in his days. You are to reward virtue, to revenge sin, to justify the innocent, to relieve the poor, to procure peace, to repress violence, and to execute justice throughout your realms. For precedents8, on those kings who performed not these things, the old law shews how the Lord revenged his quarrel; and on those kings who fulfilled these things, he poured forth his blessings in abundance. For example, it is written of Josiah in the book of the Kings thus : " Like unto him there was no king before him that turned 9 to the Lord with all his heart, according to all the law of Moses, neither after him arose there any like him." This was to that prince a perpetual fame of dignity, to remain to the end of days.
 

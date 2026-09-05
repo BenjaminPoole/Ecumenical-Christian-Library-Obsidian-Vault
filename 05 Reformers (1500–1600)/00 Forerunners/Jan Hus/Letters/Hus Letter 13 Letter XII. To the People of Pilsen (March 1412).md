@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 13. Letter XII. To the People of Pilsen (March 1412)
-
-LETTER XII. TO THE PEOPLE OF PILSEN (March 1412)
 
 Dissension ; Ye did run well ; Flatterers ; Their past repute ; Return ! The attack upon him in Pilsen ; " Worst priest better than the best laymen " ; " Creator of God " ; Priests in mortal sin must not preach ; The eons of the devil and of God 61-7
 

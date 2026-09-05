@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 69
-
-**PSALM 69**
 
 There is a close resemblance between this psalm and the twenty-second. In the opening verses, David complains of the barbarous cruelty of his enemies, and of the grievous wrongs which they had inflicted upon him. [^1] But his mind, he affirms, was not hereby reduced to such a state of distress as to prevent him from patiently relying on the protection of God, or to discourage him from continuing in the undeviating course of a holy and an upright life. He rather testifies that his piety, and the courage and activity which he had manifested in maintaining the interests of the divine glory, were the cause of the hostility borne to him by the generality of men. After having again complained of being not less shamefully than cruelly oppressed by his enemies, he invokes God to visit them with deserved punishment. In the close, exulting as if he had obtained his highest wishes, he engages to yield to God a solemn sacrifice of praise.
 

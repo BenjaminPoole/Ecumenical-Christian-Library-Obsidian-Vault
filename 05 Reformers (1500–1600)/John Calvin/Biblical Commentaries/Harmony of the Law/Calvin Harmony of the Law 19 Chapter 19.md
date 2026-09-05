@@ -11,12 +11,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 19. Chapter 19
 
 ## Exodus 19:1-8
 
-**EXODUS 19**
+## **Exodus 19**
 
 **1.** In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they *into* the wilderness of Sinai.
 

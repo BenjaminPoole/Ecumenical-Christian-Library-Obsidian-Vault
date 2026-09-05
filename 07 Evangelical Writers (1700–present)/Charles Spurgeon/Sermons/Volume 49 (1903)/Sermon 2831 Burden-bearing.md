@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Burden-bearing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2831
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Bear you one another's burdens, and so fulfill the law of Christ.. .Every man shall bear his own burden." Galatians 6:2,5.
 
@@ -117,7 +114,7 @@ But what can some of you do in carrying burdens for other people? Why, even whil
 
 God bless you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GALATIANS 5:13-26; 6:1,2.
+## Exposition by C. H. Spurgeon: Galatians 5:13-26; 6:1,2
 
 Galatians 5:13. For, brethren, you have been called unto liberty; only use not liberty for an occasion to the flesh, but by love, serve one another Do not turn your liberty into license. The Apostle, in this Epistle, had began urging the Christians of Galatia to stand fast in the liberty wherewith Christ had made them free, and never to be, again, entangled with the yoke of legal bondage. He warned them against that error into which many have fallen. But you know that it is often our tendency, if we escape from one error, to rush into another. So the Apostle guards these Christian against that Antinomian spirit which teaches us that freedom from the law allows indulgence in sin—"Use not your liberty for an occasion to the flesh, but by love, serve one another."
 
@@ -148,7 +145,6 @@ Galatians 6:1. Brethren, if a man is overtaken in a fault. If he travels so slow
 1\. Considering yourself, lest you also be tempted. What would you wish others to do to you if you were in the position of this fallen one? The Apostle does not say, "Considering yourself lest you also be overtaken in a fault." No, but, "lest you also be tempted"—as much as to say, "It only needs the temptation to come to you and you will yield to it."
 
 2\. Bear you one another's burdens, and fulfill the law of Christ.
-
 
 ---
 [[Sermon 2830 A Good Man in An Evil Case|← #2830]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2832 Christ's Yoke and Burden|#2832 →]]

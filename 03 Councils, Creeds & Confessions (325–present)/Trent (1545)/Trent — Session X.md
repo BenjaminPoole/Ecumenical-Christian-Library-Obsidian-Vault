@@ -13,7 +13,6 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Session X
 
 Celebrated at Bologna on the second day of the month of June, MDXLVII.
@@ -32,7 +31,7 @@ Whereas, in order to remove the dissensions touching our religion, which for a l
 
 Given at Rome, at St. Peter's, in the year MDXLVIII of our Lord's Incarnation, on the eighteenth of the calends of December, in the first year of our Pontificate.
 
-M. CARDINAL CRESCEN. ROM. AMASEUS.
+## M. Cardinal Crescen. Rom. Amaseus
 
 ---
 [[Trent — Session IX|← Session IX]] · [[Trent (1545)|Contents]] · [[Trent — Session XI|Session XI →]]

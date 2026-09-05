@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Prayer
 
-Chapter IV · *Practical Religion* — J. C. Ryle
+## Chapter IV · *Practical Religion* — J. C. Ryle
 
 >  *Men ought always to pray.* "—Luke xviii. 1. " *I will that men pray everywhere.* "—1 Tim. ii. 8.
 
@@ -242,7 +241,6 @@ If I know anything of a Christian's heart, you to whom I now speak are often sic
 I offer these points for private consideration. I do it in all humility. I know no one who needs to be reminded of them more than I do myself. But I believe them to be God's own truth, and I should like myself and all I love to feel them more.
 
 I want the times we live in to be praying times. I want the Christians of our day to be praying Christians. I want the Church of our age to be a praying Church. My heart's desire and prayer in sending forth this paper is to promote a spirit of prayerfulness. I want those who never prayed yet, to arise and call upon God; and I want those who do pray, to improve their prayers every year, and to see that they are not getting slack, and praying amiss.
-
 
 ---
 [[PR 03 Reality|← Reality]] · [[Practical Religion|Practical Religion Contents]] · [[PR 05 Bible-Reading|Bible-Reading →]]

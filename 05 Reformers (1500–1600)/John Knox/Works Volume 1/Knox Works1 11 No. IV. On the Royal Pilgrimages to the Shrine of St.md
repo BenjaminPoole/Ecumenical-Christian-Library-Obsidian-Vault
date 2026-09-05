@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 11. No. IV. On the Royal Pilgrimages to the Shrine of St. Duthrack, at Tain, in Ross-Shire
 
 ## No. IV.
 
-ON THE ROYAL PILGRIMAGES TO THE SHRINE OF ST. DUTHACK, AT TAIN, IN ROSS-SHIRE.
+## On the Royal Pilgrimages to the Shrine of St. Duthack, at Tain, in Ross-Shire
 
 In a note to page 16, I expressed some doubt as to the accuracy of the statement that King James the Fifth was sent in pilgrimage to the Shrine of St. Duthack, immediately previous to the trial and condemnation of Patrick Hamilton. Had the Treasurer's Accounts for 1528, or the Household Book between July 1526 and August 1528, been preserved, they might have enabled us to trace the King's movements. But the statement is highly improbable in itself. Mr. Tytler has shown that James only escaped from the thraldom of the Douglasses at the end of May 1528, or nearly three months after Hamilton's sentence; and it was most unlikely from the vigilant restraint under which the King was kept that he would have been allowed to traverse a great part of the country upon such an errand. It may also be kept in view, that if an application had been made to James, before he assumed the reins of government, it is scarcely probable his interference would have had any effect in preventing the sentence of the Ecclesiastical Courts from being carried into execution.
 

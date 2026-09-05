@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Good Cheer From Forgiven Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3016
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold they brought to Him a man sick ofthe palsy lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; your sins are forgiven you." Matthew 9:2.
 
@@ -111,7 +108,7 @@ If you are not happy, it will be disobedience to Christ, for He commands you to 
 
 "All that remains for me Is but to love and sing And wait until the angels come To bear me to the King!"
 
-EXPOSITION BY C. H. SPURGEON: MARK 2.
+## Exposition by C. H. Spurgeon: Mark 2
 
 Verse 10. And again He entered into Capernaum after some days; and it was heard that He was in the house. And straightaway many were gathered together, so that there was no room to receive them, no, not so much as about the door: and He preached the word unto them. It is a very singular fact that although man, in his natural state of heart, is opposed to the Gospel, yet he is drawn to hear it. Even though he abhors it, yet oftentimes he cannot help listening to it. Wherever Jesus Christ is, whether He is present in Person, or in the preaching of the Word, it will be certain to be heard
 
@@ -138,7 +135,6 @@ would be hung, I should prefer to be hung up in the darkest place in London wher
 24\. And the Pharisees said unto Him, Behold, why do they on the Sabbath that which is not lawful According to some Rabbis, you might pick an ear of wheat on the Sabbath, but if you rubbed it between your hands, they said that was a sort of thieving which was a kind of labor that must not be performed on the Sabbath. They made all sorts of ingenious restrictions, too ridiculous for us to quote. These disciples were, therefore, according to them, chargeable with sin because they had plucked ears of corn and had performed the operation of threshing them on the Sabbath. And we have some of that sort of folk living now who take the smallest matter, which is altogether insignificant, and in which there is neither good nor harm, and magnify and distort it—and then make a man a grave offender all for next to nothing. We have learned not to be very much troubled by anything that they choose to say.
 
 25-28. And He said unto them, have you ever read what David did, when he had fled, and was hungry? He and they that were with him? How he went into the House of God in the days of Abiather the high priest, and did eat the showbread, which is not lawful to eat but for thepriests, andgave also to them which were with him? And He said unto them, The Sabbath was made for man, and not man for the Sabbath: therefore the Son of Man is Lord also of the Sabbath. He has made it to be no longer a day of bondage, but a day of blessed rest and holy service for God! Works of necessity, works of piety and works of mercy are not only allowed to be done, but are commanded to be done upon the Sabbath.
-
 
 ---
 [[Sermon 3015 The Two Debtors|← #3015]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3017 Seeing God's Goodness Here|#3017 →]]

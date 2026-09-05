@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # God's Non-Remembrance of Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1685
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 22, 1882,.
+*Delivered on Lord's-Day Morning, October 22, 1882*
 
 > "I, even I, am He that blots outyour transgressions for My own sake, and will not remember your sins." Isaiah 43:25.
 
@@ -146,7 +145,6 @@ Oh, you that would have pardon of sin, come for it, this morning, in God's appoi
 Trust the Lord Jesus Christ! That is the pith of it. Trust yourself in the hands that were nailed to the Cross for you! Trust yourself to the love of the heart which was pierced with a spear and forthwith there came out blood and water! Have you done this? Then you are, even now, forgiven! Your sin has gone, it is cast into the depths of the sea! Go down those aisles with your heart dancing within you for delight, for there is nothing laid against you since you are a Believer in the Lord Jesus! God imputes not iniquity to the man who has cast Himself on the Savior. Go, therefore, but never forget your sin, nor the mercy which has forgiven it!
 
 Always repent and always praise the Lord. Honor the forgetfulness of God in not remembering your faults and, from now on, tell this blessed news to everyone you see—there is forgiveness, such forgiveness as was never heard of until God, Himself, revealed it by saying of His people, "Their sins and their iniquities will I remember no more." God bless you dear Friends, from now on and forever. Amen.
-
 
 ---
 [[Sermon 1684 Feed My Lambs—a Sunday School Sermon|← #1684]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1686 With the Disciples on the Lake of Galilee|#1686 →]]

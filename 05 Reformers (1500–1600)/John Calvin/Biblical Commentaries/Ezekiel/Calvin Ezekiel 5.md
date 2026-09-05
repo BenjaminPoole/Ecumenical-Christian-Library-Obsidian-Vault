@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Ezekiel 5:1-4
 
@@ -37,7 +36,7 @@ We just saw that there were many reprobate in that small number. Hence, therefor
 
 ## Prayer Lecture 13
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast proclaimed such a proof of thy fierce anger against thine ancient people, that we may this day learn wisdom from the suffering of others, and may so subject ourselves obediently to thee, that thou mayest receive us into favor, and show thyself so propitious to us, that by thy pardon we may be restored from death to life, until we enjoy that eternal blessedness which is provided for us by thine only-begotten Son our Lord. — Amen.
 
@@ -95,7 +94,7 @@ Here God again expresses more clearly why he was so eager to take vengeance name
 
 ## Prayer Lecture 14
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since at this time thou hast so familiarly manifested thyself to us in the gospel of Christ our Lord, that we may learn to raise our eyes to the light which has been prepared for us; and grant that we may have them so fixed that we may be directed and urged towards the object of our existence, until the duties of our calling being finished, we may arrive at length unto thee, and enjoy also with thee that glory which thine only-begotten Son acquired for us by his blood. — Amen.
 
@@ -153,7 +152,7 @@ And at length he adds, *I will bereave* or deprive them, namely, that he will de
 
 ## Prayer Lecture 15
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we are so dull and heavy, that we may awake in time at thy threats, and submit ourselves to thy power, that we may not experience by our destruction how formidable it is, but profit under thy rod when thou correctest us like a father, and may we so become wise, that through the whole course of our life we may proceed in the continual pursuit and meditation of true repentance; and having put off the vices and filth of the flesh, we may be reformed into true purity, until at length we arrive at the enjoyment of celestial glow, which is laid up for us in Christ Jesus our Lord. — Amen.
 

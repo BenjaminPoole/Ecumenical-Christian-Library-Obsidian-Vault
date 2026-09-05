@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/20
 ---
-
 # The Blood of the Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1186
@@ -107,8 +106,7 @@ This shall be the sweetest note of all our music,’*the covenant,* ‘the coven
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Hebrews 13.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’412, 1054, 317.
-
+## Hymns from ‘Our Own Hymn Book’’412, 1054, 317
 
 ---
 [[Sermon 1185 An Earnest Warning about Lukewarmness|← #1185]] · [[Volume 20 (1874)|Volume 20 (1874) Contents]] · [[Sermon 1187 The Three Witnesses|#1187 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule I. The word and all ordinances dispensed in the administration to him committed, by virtue of ministerial authority, are to be diligently attended and submitted unto, with ready obedience in the Lord
-
-Rule i. The word and all ordinances dispensed in the administration to him committed, by virtue of ministerial authority, are to be diligently attended and submitted unto, with ready obedience in the Lord.
 
 1 Cor. iv. 1, “Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.”
 
@@ -51,7 +48,6 @@ Motives to the observance of this rule are:—
 4\. The regard that the Lord hath of them in his employment, Matt. x. 40, 41; Luke x. 16.
 
 5\. The account that hearers must make of the word dispensed by them, 2 Chron. xxxvi. 15, 16; Prov. i. 22–29, xiii. 13; Luke x. 16; Mark iv. 24; Heb. ii. 1–3, iv. 2.
-
 
 ---
 [[ECFC 03 Rules of walking in fellowship, with reference to the pastor or minister that|← Rules of walking in fellowship, with reference to the pastor or minister that watcheth for our souls]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 05 Rule II. His conversation is to be observed and diligently followed, so far as|Rule II. His conversation is to be observed and diligently followed, so far as he walks in the steps of Jesus Christ →]]

@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 19. Letter XVIII. To the Same (October 1412)
-
-LETTER XVIII. TO THE SAME (October 1412)
 
 May Christ keep you free from sin; Hold fast the gospel; Ravening wolves in sheep's clothing ; Rejoice in your persecution; Take heed; His labours in preaching . 97-101
 

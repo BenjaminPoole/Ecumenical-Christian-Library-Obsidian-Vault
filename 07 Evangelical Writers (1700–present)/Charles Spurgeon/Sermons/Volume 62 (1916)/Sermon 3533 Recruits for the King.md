@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Recruits for the King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3533
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "David, therefore, departed from there, and escaped to the Cave Adullam; and when his brothers and all his father's house heard it, they went down there to him. And everyone that was in distress, and everyone that was in debt, and everyone that was discontented, gathered themselves unto him, and he became captain over them: and there were with him about four hundred men." 1 Samuel 22:1-2.
 
 DAVID in the caverns of Adullam is a type of our Lord Jesus Christ despised and rejected among the sons of men. Christ is the Lord's Anointed, but men perceive not the anointing. He is persecuted by His great enemy, the world, as David was persecuted by Saul, and he now rather dwells in the Cave of Adullam than sits upon his throne. Just as when David was in his dishonor, it was the time for his true friends to rally around him. And so at this hour, when the name of Christ is associated with much of dishonor and rebuke, now is the time for the true followers of the Savior to rally around His banner and to espouse His cause. To come to David after he had been crowned king was poor work—the sons of Belial could do that—but to ally themselves to David when he was obliged to hide himself in mountain caves from his cruel enemies, this proved men to be David's true friends and loyal subjects. Blessed are they to whom it shall be given to enlist under the banner of Christ at this present time, who shall not be ashamed to confess Him before the sons of men, or to boldly take up His Cross and to suffer such loss and persecution as it may please His Providence to ordain for them to bear. As it is not concerning David, but concerning David's greater Son, I propose to address you this evening, let me say a few words at the outset to—
 
-I. THOSE WHO HAVE ALREADY ENLISTED IN HIS BLESSED BAND.
+## I. Those Who Have Already Enlisted in His Blessed Band
 
 Foremost among those of David's troop were his brothers and all his father's house. So, too, Beloved in Christ, we who have been called by Divine Grace are regarded by Him as His brethren and all His Father's house. Looking round upon His disciples when He was here below, our blessed Master said, "Behold My mother and My brethren! For whoever shall do the will of God, the same is My brother, and My sister, and mother." Such His condescension that He is not ashamed to call us brethren. As many of us as have given our hearts to Him, rely upon Him and love Him, are really and truly His brethren and of His Father's house. His Father is our Father, His joy is our joy, and His Heaven shall be our Heaven before long! Now, what shall I say to you, my Brothers and Sisters in Jesus Christ, but this—Let us take care that we boldly avow our kinship with David, our Lord! Let us never blush to defend the cause of Christ. There are different ways of playing the coward—let us seek to avoid them all. The minister who is bold enough when he preaches before the multitude may feel his lips quiver when he has to speak face to face with one individual. O God, save Your servants from this form of cowardice! Or some of you may be able to speak to one or two persons, but if, perchance, you are thrown into a little promiscuous company, where you ought to avow your allegiance to your Lord, you hold your tongue and lose the opportunity for lack of courage. God deliver His servants from this form of cowardice, also! In all companies, on all occasions and under all circumstances, be faithful to your Master—deny Him not, but openly avow Him before the sons of men! How He deserves to be acknowledged by us since He has taken knowledge of us and recognized us when we were infinitely beneath His notice! Oh, ten thousand blushes should cover our faces, to think that we could ever at any time think it hard to acknowledge that He is our Lord and Master! Pray for courage, my Brothers and Sisters—I am sure it is needed! It seems to come to Christians naturally in persecuting times, but in these soft, silken days of piping peace you mingle in society, so called, with such deference to fashion, and you go in and out of your drawing rooms with such dainty conceits, you converse so complacently with your friends, you are such well-bred ladies and gentlemen in
 
@@ -39,7 +36,7 @@ Paul? Where are the disciples that emulate the zeal of the blessed Master, whose
 
 I do not think I need say more, unless it is to entreat you to keep up your courage when you know that you are engaged in the cause of Christ. There is a great struggle going on around us. This entire nation is from time to time convulsed with serious questions in which the honor of our Lord Jesus Christ is greatly concerned. Let all those who love Him stand forth with unflinching integrity! Expediency is the mean word that describes the lax morals of the age, but righteousness'is the undeviating, the eternal principle by which the universe is governed! The Kingdom of Christ is not of this world. Be it ours to help the oppressed, to succor the weak and to give liberty of conscience to all men. May God defend the right! Defend the right He will! If our names are cast out as evil. If we are misunderstood and misinterpreted, belied and slandered, let it be so—we are neither surprised nor dismayed! The right has always to be maintained in the teeth of slander and abuse. But, in God's name, let us not be cowards! Let us always do our duty manfully and lawfully. Let us cheerfully hold fast our profession. Let us adhere with confidence and steadfastness to the Kingdom of our Lord Jesus Christ. The Star of David is in the ascendant—the house of Saul is growing weaker and weaker. Having thus addressed the soldiers, I am now coming for a few minutes to—
 
-II. ACT AS A RECRUITING SERGEANT.
+## II. Act as a Recruiting Sergeant
 
 Besides his own relatives, there were others who joined with David. Now, why did they join him? For much the same reason, I may answer, that has influenced many of us. It was because they had need of him. They ought to have gone to David because his character was so good and his conduct so upright. They ought to have helped him because his disposition was so kind and sympathizing. They might well have rallied to his standard because he was the Lord's Anointed. They might, as wise men, have cast in their lot with him because there was prophecy and promise of his triumph and his reign over the nation. But they were really swayed by other motives. They went to him for three reasons—because they were distressed, because they were in debt and because they were discontented. Through dire dismay they sought shelter and succor.
 
@@ -73,7 +70,7 @@ promise! Then there is the Lord's Table, of which, if you join yourselves to Chr
 
 Now, my young recruit, what do you say to this? You who would bear the name of Christ and get to Heaven, are you willing to come to Him and give yourselves up to Him, henceforth forsaking all your sins? He that gives not up his sins makes a great mistake if he thinks to escape the wrath of God, or hopes to find Grace in His eyes! Oh, will you not give up your sins? They are vipers! They will only poison your souls! They will destroy you! Oh, give them up! Give them up, for what shall it profit you to keep them, and to lose your soul? Come to Jesus first. Trust His merit. Rely upon His precious blood and then, by His help, renounce every evil way and seek to obey Him who has redeemed you by His blood! So shall the blessing of the Lord rest upon you forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM68.
+## Exposition by C. H. Spurgeon: Psalm 68
 
 "A Psalm of David, when he was in the wilderness of Judah."
 
@@ -108,7 +105,6 @@ He that wrote that verse knew what was meant by this, "My soul shall be satisfie
 9, 10. But those who seek my soul, to destroy it, shall go into the lower parts of the earth They shall fall by the sword: they shall be a portion for foxes. Or jackals, as his name did become.
 
 11\. But the king shall rejoice in God; everyone that swears by Him shall glory; but the mouth of them that speak lies shall be stopped. Very hard work to stop them, though, for they are always breaking out in fresh places. They have always some new falsehood. A shovelful of earth will do it, if nothing else will. Let everyone listen who is accustomed to slander, or to speak evil of his neighbor—listen to this prophetic voice—"The mouth of them that speak lies shall be stopped."But the mouths that speak the praises of God shall go on singing forever and ever! May such mouths be ours.
-
 
 ---
 [[Sermon 3532 Christ's Great Mission|← #3532]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3534 The Light of the World|#3534 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Women's Rights—a Parable
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3141
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Moses brought their cause before the LORD." Numbers 17:5.
 
@@ -87,7 +84,7 @@ God make that a matter of concern with us, first, and then may we come to Jesus 
 
 II. Secondly, I am going to use the whole incident as a GROUND OF APPEAL TO CERTAIN SPECIAL
 
-CLASSES.
+## Classes
 
 Does it not strike you that there is here a special lesson for our unconverted sisters Here are five daughters, I suppose young women, certainly unmarried women, and these five were unanimous in seeking to have a portion where God had promised it to His people. Have I any young women here who have not acted like that? I am afraid I have! Blessed be God for the many who come in among us who become solemnly impressed and give their young days to Jesus! But there
 
@@ -97,7 +94,7 @@ The subject bears another way. Has it not a voice, and a loud voice too, to the 
 
 And does not this text also speak to another class—to orphans These good girls had lost their parents, or otherwise the question would not have arisen. Father and mother had passed away and, therefore, they had to go to Moses for themselves. When the parents could not come to Moses for them, they came for themselves. Think of the skies a moment, some of you. Perhaps this morning you were in a very different place, but think of the skies a minute. No, I do not mean the meteoric stones! I do not mean the stars, nor yon bright moon—but I want you to think of your mother, who is yonder. Do you remember when she gave you the last kiss, bade you farewell and said, "Follow me, my children. Follow me to the skies"? Think of a father who is there. His voice, doubtless, helping to swell the everlasting hallelujah! Does he not beckon you from the battlements of Heaven and cry, "Children of my loins, follow me, as I followed Christ"? Some of us have an honored grandfather there, an honored grandmother there. Many of you have little infants there, young angels whom God lent you for a little time and then took them to Heaven to show you the way, to lure you to go upwards too! You all have some dear friends there with whom you walked to God's House in company. They have gone, but I charge you, by the living God, to follow them! Break not your households in two! Let no solemn rifts come into the family, but, as they have gone to their rest, God grant unto you by the same road to come and rest eternally too. Jesus Christ is ready to receive sinners! He is ready to receive you! And if you trust Him, the joy and bliss which your friends now partake of shall also be yours! Daughters of godly parents, children of those who have gone before to eternal Glory, I entreat you, look to Jesus! Go and present your suit to Him now. It shall surely prosper. If the question was once doubtful, it has now become "a statute of judgment." The Lord has commanded it! May God bless these counsels and exhortations to you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 1.
+## Exposition by C. H. Spurgeon: Genesis 1
 
 Genesis 1:1. In the beginning God created the Heaven and the earth. When that "beginning" was, we cannot tell. It may have been long ages before God fitted up this world for the abode of man, but it was not self-existent—it was created by God, it sprang from the will and the word of the all-wise Creator!
 
@@ -128,7 +125,6 @@ part, that it is "good." As for us, our best things need sprinkling with the blo
 29, 30. And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in which is the fruit of a tree yielding seed; to you it shall be for meat. And to every beast ofthe earth, and to every fowl ofthe air, and to everything that creeps upon the earth, wherein there is life, I have given every green herb for meat: and it was s. Now you see God's commissariat. He has not made all these creatures in order to starve them, but He has supplied them with great variety and abundance of food, that their needs may be satisfied. Does God care for the cattle and will He not feed His own children? Does He provide for ravens and sparrows and will He allow you to lack anything, O you of little faith? Observe that God did not create man until He had provided for him—neither will He ever put one work of His Providence or of His Grace out of its proper place—but that which goes before shall be preparatory to that which follows after.
 
 31\. And God saw everything that He had made, and behold, it was verygoot. Taken in its completeness, and all put together, God saw that it was very good. We must never judge anything before it is complete.
-
 
 ---
 [[Sermon 3140 The Glory of Our Strength|← #3140]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3142 Established Work|#3142 →]]

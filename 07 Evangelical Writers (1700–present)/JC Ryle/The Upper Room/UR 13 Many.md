@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Many
 
-Chapter XIII · *The Upper Room* — J. C. Ryle
+## Chapter XIII · *The Upper Room* — J. C. Ryle
 
 > — Matt. 8:11
 
@@ -108,7 +107,6 @@ Would you have much joy and peace in believing? Try to do all the good you can i
 If you try to do good in the right way, you never need doubt that good will be done. Many a Sunday-school teacher comes home on Sunday night with a heavy heart, and fancies that his or her labour is all in vain. Many a visitor returns from his rounds, and thinks he is producing no effect. Many a minister comes down from his pulpit desponding and cast down, imagining that his preaching is to no purpose. But all this is disgraceful unbelief. There is often far more going on in hearts and consciences than we see. "He that goeth forth weeping, but sowing precious seed, shall come again with joy at the last day, and bring his sheaves with him" (Ps. 126:6). There are more being converted and saved than we suppose. "Many shall sit down in the kingdom of heaven" whom we never expected to see there when we died. Let us read on, and pray on, and visit on, and speak on, and tell of Christ to every one whom we can get at. If we are only "stedfast, unmovable, always abounding in the work of the Lord," we shall find, to our amazement, that our labour was not in vain in the Lord (1 Cor. 15:58).
 
 But if we try to do good, we must always cultivate patience. We cannot have two heavens: a heaven here, and a heaven hereafter. The battle is not yet over. The harvest-time is not yet come. The devil is not yet bound. The time when our Lord's promise shall be fulfilled is not yet arrived. But it will arrive before long. When our gracious Queen at the end of the Crimean war came forward in front of the Horse Guards, and with her own royal hands gave the Victoria Cross to the gallant soldiers who had earned it, that public honour made rich amends for all that those soldiers had gone through. Balaklava, and Inkerman, and the hardships of the trenches were all forgotten for the time, and seemed comparatively small things. What, then, will be the joy when the Captain of our salvation shall gather His faithful soldiers round Him, and give to each one a crown of glory that fadeth not away! Surely we may well wait in patience for that day. It is coming, and will surely come at last. Remembering that day, let us cast behind us doubts and unbelief, and set our faces steadily towards Jerusalem. "The night is far spent, and the day is at hand" (Rom. 13:12). Not one word of the blessed promise before us shall fail: "Many shall come from the east and the west, and shall sit down with Abraham, Isaac, and Jacob, in the kingdom of heaven."
-
 
 ---
 [[UR 12 Our Profession|← Our Profession]] · [[The Upper Room|Upper Room Contents]] · [[UR 14 Without Clouds|Without Clouds →]]

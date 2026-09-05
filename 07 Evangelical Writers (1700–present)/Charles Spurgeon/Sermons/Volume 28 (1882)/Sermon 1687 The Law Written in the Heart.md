@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Law Written in the Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1687
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 29, 1882,.
+*Delivered on Lord's-Day Morning, October 29, 1882*
 
 > Jeremiah 31:33.
 
@@ -130,7 +129,6 @@ Now the Believer feels intense pleasure in everything that is good. If there is 
 As this proceeds, the man becomes more and more prepared to dwell in Heaven. He is changed into God's image from Glory to Glory even as by the Spirit of the Lord. Our fitness for Heaven is not a thing that will be clapped upon us in the last few minutes of our life, just as we are going to die, but the children of God have a meetness for Heaven as soon as ever they are saved—and that meetness grows and increases till they are ripe and then, like ripe fruit, they drop from the tree and find themselves in the bosom of their Father God! God will never keep a soul out of Heaven half a minute after it is fully prepared to go there and so, when God has fitted us to be partakers of the inheritance of the saints in His Light, we shall enter at once into the joy of our Lord.
 
 My Brothers and Sisters, I feel I have talked feebly about one of the most blessed subjects that ever occupied the thoughts of man—how God's Law shall be kept, how it shall be honored, how holiness shall come into the world—and we shall no longer be rebellious. Herein let us trust in our Lord Jesus, who is to us the Surety of that Covenant of which this is one great promise—"I will put My Law in their inward parts, and in their hearts will I write it." God do so to us, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1686 With the Disciples on the Lake of Galilee|← #1686]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1688 Stand Fast|#1688 →]]

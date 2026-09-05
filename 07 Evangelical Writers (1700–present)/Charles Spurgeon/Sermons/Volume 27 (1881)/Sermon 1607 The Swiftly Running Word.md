@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Swiftly Running Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1607
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 3, 1881,.
+*Delivered on Lord's-Day Morning, July 3, 1881*
 
 > "His Word runs very swiftly." Psalms 147:15.
 
@@ -166,7 +165,6 @@ The dying thief forbids the idea that any praying penitent shall apply to Christ
 "Oh, but I have a dread upon my heart and if I do not soon get rid of it, I shall be driven to despair." He can console you at once, for the Comforter is already given. "I should like to come to the communion table," says one. "I have not been there for a long time, for I do not feel fit and I do not think I can be prepared for the solemn service in the short space of one afternoon." Oh yes, you may, for, "His Word runs very swiftly." If Jesus washes your feet, you shall be clean every whit and clean at once! He can bear you up to the heights of fellowship and bring you into very close union with Himself in a moment of time. Limit not the Almighty as to speed—limit Him not in any way—with God all things are possible!
 
 He can cause your dry rod to bud and blossom and bear fruit in an hour. Commit yourself to Him and pray Him to make you perfect in every good work to do His will, working in you that which is well-pleasing in His sight and He can do it—and to Him shall be the praise forever and ever. Amen.
-
 
 ---
 [[Sermon 1606 Ziklag—or David Encouraging Himself In God|← #1606]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1608 The Double Come|#1608 →]]

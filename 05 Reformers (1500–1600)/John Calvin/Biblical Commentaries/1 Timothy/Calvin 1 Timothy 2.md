@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Timothy 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## 1 Timothy 2:1-4
 

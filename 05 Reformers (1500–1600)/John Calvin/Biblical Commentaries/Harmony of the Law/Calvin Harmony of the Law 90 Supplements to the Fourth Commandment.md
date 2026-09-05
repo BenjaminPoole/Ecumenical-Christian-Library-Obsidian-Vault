@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 90. Supplements to the Fourth Commandment
-
-**Supplements to the fourth Commandment**
 
 ## Exodus 23:10,11
 

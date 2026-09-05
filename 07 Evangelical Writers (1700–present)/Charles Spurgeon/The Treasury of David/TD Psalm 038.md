@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 38
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -220,12 +219,11 @@ Sorrow and anguish hide themselves from the observation of man, but God spies th
 
 **Verse 22.** Faith tried, faith trembling, faith crying, faith grasping, faith conquering.
 
-WORKS UPON THE THIRTY-EIGHTH PSALM
+## Works upon the Thirty-Eighth Psalm
 
 "Meditations and Disquisitions upon the Seven Psalmes of David, *commonly called the Penitential Psalmes."* By Sir RICHARD BAKER, Knight: London: 1639, (4to.) contains *"Meditations upon the XXXVIII. Psalme."*
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 037|← Psalm 37]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 039|Psalm 39 →]]

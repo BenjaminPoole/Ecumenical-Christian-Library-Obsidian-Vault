@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Who Loves Christ More?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2873
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There was a certain creditor who had two debtors: the one owed five hundred pence, and the other fifty. And when they had nothing to pay, he frankly forgave them both. Tell me, therefore, which of them will love him more? Simon answered and said, I suppose that he to whom he forgave more. And He said unto him, You have rightly judged." Luke 7:41-43.
 
@@ -97,7 +94,7 @@ I am persuaded that we, ministers, do not preach with effect if we preach as if 
 
 trite among our hearers! Out of our hearts, by the gracious working of the Holy Spirit, comes power that helps others to be humble and contrite before God. We are nothing to boast of, so let us never boast. Though we are accepted in the Beloved, and perfect in Christ Jesus, forgiven, saved forever, (blessed be His name!), yet this is no reason for us to lift ourselves up, but to lift Christ up! It is a cause for gratitude, but not for conceit. So we will feel that we have had much forgiven, and will love Him much who has freely forgiven us all our trespasses. May He help us to do so, and His shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM116.
+## Exposition by C. H. Spurgeon: Psalm 116
 
 In this Psalm, David tells us his experience with regard to God and with regard to men.
 
@@ -136,7 +133,6 @@ when they would have helped him, he found that they could not. He had looked to 
 16\. O LORD, truly I am Your servant; I am Your servant, and the son of Your handmaid: You have loosed my bonds. How pleased David was to be God's servant! Yet he says, "You have loosed my bonds." To serve God is to be free! We are never truly free until we bow our willing necks to the yoke of the Most High. Then we break every chain and snap every fetter. He is the free man whom our God makes free—all the rest are slaves.
 
 17-19. I will offer to You the sacrifice of thanksgiving, and will call upon the name of the LORD. I will pay my vows unto the LORD now in the presence of all His people, in the courts of the LORD'S house, in the midst of you, O Jerusalem. Praise you the LORD.
-
 
 ---
 [[Sermon 2872 The Lord's Supper|← #2872]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2874 Precepts and Promises|#2874 →]]

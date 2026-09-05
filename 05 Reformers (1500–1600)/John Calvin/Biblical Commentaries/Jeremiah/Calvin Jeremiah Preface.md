@@ -9,14 +9,13 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Jeremiah
 
-**CALVIN’S PREFACE**
+***Calvin’s Preface***
 
-**TO THE BOOK OF**
+## **To the Book Of**
 
-**THE PROPHET JEREMIAH.**
+## **The Prophet Jeremiah.**
 
 ## Lecture First
 

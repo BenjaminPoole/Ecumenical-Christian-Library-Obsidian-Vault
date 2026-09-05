@@ -10,10 +10,9 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-FROM HIS BIRTH, TO THE TIME WHEN HE BEGAN TO STUDY FOR THE MINISTRY.
+*From His Birth, to the Time When He Began to Study for the Ministry*
 
 Mr. David Brainerd was born April 20, 1718, at *Haddam*, a town of Hartford, in Connecticut, New England. His father was the worshipful Hezekiah Brainerd, Esq. one of his Majesty’s council for that colony; who was the son of Daniel Brainerd, Esq. a justice of the peace, and a deacon of the church of Christ in Haddam. His mother was Mrs. Dorothy Hobart, daughter to the Reverend Mr. Jeremiah Hobart; who preached awhile at Topsfield, then removed to Hempstead on Long-Island, and afterwards by reason of numbers turning Quakers, and many others being so irreligious, that they would do nothing towards the support of the gospel settled in the work of the ministry at Haddam; where he died in the 85th year of his age. He went to the public worship in the forenoon, and died in his chair between meetings. This reverend gentleman was a son of the Reverend Peter Hobart; who was, first, minister of the gospel at Hingham, in the county of Norfolk in England; and, by reason of the persecution of the Puritans, removed with his family to New England, and was settled in the ministry at Hingham, in Massachusetts. He had five sons, *viz.* Joshua, Jeremiah, Gershom, Japheth, and Nehemiah. His son Joshua was minister at Southold on Long-Island. Jeremiah was Mr. David Brainerd’s grandfather, minister at Haddam, &c. as before observed; Gershom was minister of Groton in Connecticut; Japheth was a physician; he went in the quality of a doctor of a ship to England, (before the time of taking his second degree at college,) and designed to go from thence to the East Indies; but never was heard of more. Nehemiah was sometime fellow of Harvard college, and afterwards minister at Newton in Massachusetts. The mother of Mrs. Dorothy Hobart (who was afterwards Brainerd) was a daughter of the Reverend Samuel Whiting, minister of the gospel, first at Boston in Lincolnshire, and afterwards at Lynn in Massachusetts, New England. He had three sons who were ministers of the gospel.
 

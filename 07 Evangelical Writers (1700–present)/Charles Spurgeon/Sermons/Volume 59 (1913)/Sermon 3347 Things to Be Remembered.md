@@ -12,18 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Things to Be Remembered
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3347
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A Psalm of David to bring to remembrance." Psalm 38:(Title).
 
 THESE words form the title to the Psalm before us, which we read just now in your hearing. Let us note, for a short time, the subjects which David thought it necessary to bring to remembrance. We must all have noticed that our memories much more readily retain evil than good. The snatch of a profane song heard in childhood will remain with us to our graves—while many a holy thought leaves scarcely an impression upon the tablets of memory. We heard it—it is gone— it would be difficult to recall it. The draft that flows down the rivers of Sodom, one retentively collects, but the goodly cedars of Lebanon that are floated down the stream pass by unheeded. We may well say, "Forget not all His benefits," for, alas, while the multitude of God's benefits is forgotten, if there is anything to murmur at, it is pretty sure to be treasured up as though it were a priceless relic to be carefully preserved! May the Lord mend our memories. As He makes us new men and women in Christ Jesus, may the Holy Spirit give to our memories the power to grip the right and the true—and with a loose hand to let slip that which is evil and contrary to His rule. The Psalm is "to bring to remembrance." This seems to teach us that good things need to be kept alive in our memories, that we should often sit down, look back, retrace and turn over in our meditation things that are past, lest, at any time we should let any good thing sink into oblivion. I have read the Psalm to you and I think you will all agree with me that among the things which David brought to his own remembrance, the first and foremost were—
 
-I. HIS PAST TRIALS AND HIS PAST DELIVERANCES.
+## I. His Past Trials and His Past Deliverances
 
 Come, my Brothers and Sisters, let me stir up your pure minds by way of remembrance. Let me remind you of your past battles and victories, of your troubles and conflicts and your sweet cheer and safe preservation. It will do you good to remember them—such a remembrance will prevent your imagining that you have come into the land of ease and perfect rest We may have our time of prosperity and say with David, "I shall never be moved. Lord, by Your favor, You have made my mountain to stand strong." But soon adversity surprises us, as it suddenly overtook him and changed his note, "You did hide Your face and I was troubled." This is not the place for us to have peace and rest! We are as yet at sea—the vessel has not reached the port. We are as yet in the wilderness—we have not come to the goodly land, even to Canaan. We are not yet out of gunshot of the devil. We are not yet beyond afflictions and trials and if, for awhile, the weather has been calm and the sun has been bright—and we poor pilgrims have been trudging on along green pastures and by the side of still waters—let us remember the giants with whom we fought in days long gone! Let us remember the hills of difficulty, the valleys of humiliation, the conflicts with Apollyon—for as it was at the first, so shall it always be till we come to the city which has foundations, whose builder and maker is God. Oh, you who are making for yourself a downy nest and building up a castle in the air, remember you do this without the permission of your God! No, you do it in the teeth of His warnings, for has not Jesus said, "In the world you shall have tribulation"? And is it not written, "Many are the afflictions of the righteous"? Bring to remembrance, then, your former struggles lest you begin to settle upon your lees and fancy that there is no more trial for you!
 
@@ -33,7 +30,7 @@ have we not much cause to bless God? Have we not cause to bless Him that we have
 
 Such a remembrance will be of great service to you, my Brothers and Sisters, if you are at this time enduring the like exercises. What God was, that He is. "Jesus Christ, the same yesterday, today, and forever," is His people's trust and glory. Having begun to deliver you, He will not afterwards forsake you! He has not brought you this far to put you to shame. What is the trouble of today? You have passed through another quite as great. What is the doubt that assails you? You have already met a doubt quite as gloomy and by faith you have overcome it! What is the fear which now gathers like a heavy cloud? The time before, it burst with mercies upon your head—and it shall do the same again! Draw courage from the recollections of the past and go forward to the fears of the future—and they shall vanish as you advance confident in your God. The great point, however, in David's Psalm is—
 
-II. TO BRING TO REMEMBRANCE THE DEPRAVITY OF OUR NATURE.
+## II. To Bring to Remembrance the Depravity of Our Nature
 
 There is, perhaps, no Psalm which more fully than this one describes human nature as seen in the light which God, the Holy Spirit, casts upon it in the time when He convicts us of sin. I am persuaded that the description here does not tally with any known disease of the body. It is very much like leprosy, but it has about it certain features which cannot be found to meet in any leprosy described either by ancient or modern writers. The fact is, it is a spiritualleprosy—it is an inward disease which is here described—and David paints it to the very life and he would have us remember this. Child of God, let me bring to your remembrance, tonight, the fact that you are by nature no better than the vilest of the vile! "Children of wrath even as others," are we. Even you who are favored by Divine Grace to enter into rich fellowship with Christ are no better, naturally, than the lost spirits in Hell! There was no difference at birth and no intrinsic essential difference of moral constitution between Peter and Judas, between Paul and Demas, between the brightest Apostle and the bloodiest persecutor! We have grown in Grace—had we been left to ourselves, we would have rotted in sin! We have gone from strength to strength in the way of holiness, but if it had not been for Divine Grace that interposed most sovereignly, we would have gone from depth to depth in the way of crime!
 
@@ -71,7 +68,7 @@ I wish I could bring to theirremembrance that they must die and that after death
 
 God grant that it may be so with you, for His love's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 6.
+## Exposition by C. H. Spurgeon: Romans 6
 
 Verse 1 What shall we say, then?Shall we continue in sin that Grace may abound?The 5th Chapter ends up in this way, that "where sin abounded, etc.. Jesus Christ our Lord." Then he goes on to say, "What shall we say, then?" What inference shall we draw from the fact that where sin abounded, Grace did much more abound? Shall we be base enough to draw a wicked inference from a gracious statement? Shall we continue in sin that Grace may abound? It is a horrible suggestion and yet it is one which has come into the minds of many men, for some men are bad enough for anything—they will curdle the sweet milk of love into the most sour argument for sin! "Shall we continue in sin that Grace may abound? God forbid!" With all the vehemence of his nature, he says—
 
@@ -115,7 +112,7 @@ ward walk and conversation are the best test of our true condition. Without holi
 
 22, 23. But now beingmade free from sin, and being servants to God, you have your fruit unto holiness, and the end everlasting life. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
 
-ISAIAH53.
+## Isaiah 53
 
 This is a Chapter which you have read hundreds of times, perhaps. I am sure it is one that needs no comment from me. I shall read it through with scarcely a sentence of comment.
 
@@ -128,7 +125,6 @@ Our soul can on this Doctrine live,
 Can on this Doctrine die!"
 
 Have you and I an interest in this Atonement, or must the complaint be made concerning us—"Who has believed our report, and to whom is the arm of the Lord revealed?" While I was reading just now, could you say by faith, "Yes, surely He has borne our griefs and carried oursorrows"? Have you an appropriating faith which takes the sufferings of Christ to be its own? Do you now humbly, but yet confidently, look to Jesus Christ, the great Burden-Bearer on yonder tree, and know that your guilt was there? If so, rejoice and walk worthily of your calling! If not, Soul, you do not know the first letters of the alphabet of religion! May the Lord teach you, for His name's sake.
-
 
 ---
 [[Sermon 3346 Resurrection for the Just and the Unjust|← #3346]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3348 Knowing and Doing|#3348 →]]

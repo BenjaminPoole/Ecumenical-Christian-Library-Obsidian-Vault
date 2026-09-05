@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 7. Book III. Of the Presence of Christ, Part 3
 
 est, illa angelica voce testante, quemadmodum ire
@@ -51,7 +50,7 @@ Ambrosius in Lucam, lib. x, cap. 24,
 
 Gregorius in Hom. Paschatis. Vid. Embd. d. in fine tomi hujus.]
 
-96 THE THIRD BOOK.
+## 96 the Third Book
 
 body of Christ after his resurrection and ascension was made immortal, yet this nature was not taken away, for then, as St Augustine saith, it were no very body. And further St Augustine sheweth both the manner and form how Christ is here present with us in earth, and how he is absent, saying that he is present by his divine nature and majesty, by his providence, and by grace; but by his human nature and very body he is absent from this world, and present in heaven.
 
@@ -79,7 +78,7 @@ For they all affirmed and believed, that Christ, being but one person, hath neve
 
 [° That Christ in his human nature, 1551.]
 
-- _- a more, that Christ is both gone hence from us unto heaven, and is also here with us in earth, but not in his human nature, (as the papists would have us to believe,) but the old authors say that he is in heaven, as concerning his man- hood, and nevertheless both here and there, and every where, as concerning his Godhead. For although his divinity be such, that it is infinite, without measure, compass, or place, so that as concerning that nature he is circumscribed with no place, but is every where, and filleth all the world: yet as concerning his human nature, he hath measure, compass, and place, so that when he was here upon earth, he was not at the same time in heaven; and now that he has ascended into heayen, as concerning that nature he hath now forsaken the earth, and is only in heaven. For one nature that is circumscribed, compassed, and measured, Chap. vr. cannot be in divers places at one time. That is the faith? of the old catholic cam cannot ot be in church, as appeareth as well by the authors before rehearsed, as by these that at one time. hereafter followeth.
+- _- a more, that Christ is both gone hence from us unto heaven, and is also here with us in earth, but not in his human nature, (as the papists would have us to believe,) but the old authors say that he is in heaven, as concerning his man-hood, and nevertheless both here and there, and every where, as concerning his Godhead. For although his divinity be such, that it is infinite, without measure, compass, or place, so that as concerning that nature he is circumscribed with no place, but is every where, and filleth all the world: yet as concerning his human nature, he hath measure, compass, and place, so that when he was here upon earth, he was not at the same time in heaven; and now that he has ascended into heayen, as concerning that nature he hath now forsaken the earth, and is only in heaven. For one nature that is circumscribed, compassed, and measured, Chap. vr. cannot be in divers places at one time. That is the faith? of the old catholic cam cannot ot be in church, as appeareth as well by the authors before rehearsed, as by these that at one time. hereafter followeth.
 
 St Augustine, speaking that a body must needs be in some place, saith, that Ad Dardaif it be not within the compass of a place, it is nowhere; and if it be nowhere, © then it is not®. And St Cyril, considering the proper nature of a very body, ¢ Cyrillus de, said, that if the nature of the Godhead were a body, it must needs be in a : place, and have quantity, greatness, and circumscription’.
 
@@ -107,7 +106,7 @@ Fulgentius ad Trasimundum em, Lib. ii.
 
 Vigilius contra Eutychen, Lib. i.
 
-98 THE THIRD BOOK.
+## 98 the Third Book
 
 two natures of Christ, attributing to his human nature that thing which belongeth only to his divinity ; which is a most heinous and detestable heresy.
 
@@ -141,7 +140,7 @@ Hitherto you have heard Vigilius speak, that Christ, as concerning his bodily pr
 
 Contra Eutychen, Lib. iv.
 
-100 _ THE THIRD BOOK.
+## 100 _ the Third Book
 
 with the word. For one nature cannot receive in itself two diverse and contrary things. But these two things be diverse and far unlike, that is to say, to be contained in a place, and to be every where. Therefore inasmuch as the word is every where, and the flesh is not every where, it appeareth plainly, that one Christ himself hath in him two natures; and that. by his divine nature he is every where, and by his human nature he is contained in a place; that he is created, and hath no beginning; that he is subject to death, and cannot die: whereof one he hath by the nature of his word, whereby he is God, and the other he hath by the nature of his flesh, whereby the same God is man also, Therefore one Son of God, the self-same was made the son of man; and he hath a beginning by the nature of his flesh, and no beginning by the nature of his Godhead. He is created by the nature of his flesh, and not created by the nature of his Godhead. He is comprehended in a place by the nature of his flesh, and not comprehended in a place by the nature of his Godhead. He is inferior to angels in the nature of his flesh, and is equal to his Father in the nature of his Godhead. He died by the nature of his flesh, and died not by the nature of his Godhead. This is the faith and catholic confession, which the apostles taught, the martyrs did corroborate, and faithful people keep unto this day.”
 
@@ -151,7 +150,7 @@ The one, that they confound his two natures, his Godhead and his manhood, attrib
 
 - and palpable, having all members and proportions of a most perfect natural man; and another which they say is in earth here with us, in every bread and wine that is consecrated, having no distinction, form, nor proportion of members: which contrarieties and diversities, as this holy martyr Vigilius saith, cannot be together in one nature.
 
-WINCHESTER.
+## Winchester
 
 These differences end in the forty-eighth leaf, in the second column. TI intend now to touch the Surther matter of the book with the manner of handling of it3, and where an evident untruth is, there to join an issue, and where sleight and craft is, there to note it in the whole.
 
@@ -161,7 +160,7 @@ The matter of the book, from thence unto the fifty-sixth leaf, touching the bein
 
 Rae heaven and not in earth, is out of purpose superfluous. The article of our creed that Christ ascended to heaven, and sitteth on the right hand of his Father, hath been and is most constantly believed of true christian men, which the true faith of Christ's real presence in the sacrament doth not touch or impair. Nor Christ being whole God and man in the sacrament, is thereby either out of heaven, or to be said conversant im earth, because the conver- *christ’s assation is not earthly, but spiritual and godly, being the ascension of Christ, the end of his eraothis” conversation in earth; and therefore all that reasoning of the author is clearly void, to pepe poi travail to prove that is not denied, only for a sleight to make it seem as though it were *Ssleight. denied.
 
-CANTERBURY.
+## Canterbury
 
 Here is such a sleight used by you, as is worthy to be noted of all men. For I A'sleight to go not only about to prove in this place only that Christ, as concerning his human is. nature, is in heaven, (which I know you deny not,) but I prove also that he is so in heaven, that he is not in earth, which you utterly deny, and it is the chief point in contention between us. But by this craft of appeaching me of sleight, that I go about to prove that thing which you deny not, (which is untrue,) you have used such a sleight, that you pass over eight leaves of my book together, wherein I prove that Christ, as concerning his corporal presence, is not here in earth, and you answer not one word to any of my arguments. And I pray thee note, good reader, what a strange manner of sleight this is, to pass over eight leaves together clearly unanswered, and that in the chief point that is in variance between us, under pretence that I use sleight, where in deed I use none, but prove plainly that Christ is not bodily in heaven and in earth, both at one time. If he had but touched mine arguments glancing by them, it had been somewhat: but utterly to fly away‘, and not once to touch them, I think thou wilt judge no small sleight and craft therein. And methink in good reason, the matter ought to be judged against him for default of answer, who being present answereth nothing at all to the matter whereof he is accused; seeing that the law saith: Qué tacet, consentire videtur.
 
@@ -177,7 +176,7 @@ _ and contrary things to be in one nature of Christ in divers respects; but thei
 
 [* To flee away, 1551. } [) See note 8, p. 97.] [* Distinction, 1551.]
 
-102 THE THIRD BOOK.
+## 102 the Third Book
 
 no proof at all, if one nature in divers respects might have that diversity: for the heretics should have had a ready answer at hand, that such diversity proveth not that Christ had two natures, for one nature may have such diversity, if it be true that Smith saith. And so Smith, with other papists which saith as he doth, putteth a sword in the heretics’ hands to fight against the catholic faith. This, good reader, thou shalt easily perceive, if thou do no more but read the authors which I have in this place alleged. And yet, for thy more ready instruction, I shall make a brief rehearsal of the Howboth Chief effect of them, as concerning this matter. To answer this question, how it can these saying’ be said that Christ is a stranger, and gone hence into heaven, and yet is also here may be true, nat tract with us in earth, Smith and other papists resolve this matter by divers respects in and alsogone one nature of Christ; but the old catholic writers which I alleged, resolve the matter ew" of by two natures in Christ, affirming most certainly that such two diverse things cannot
 
@@ -201,7 +200,7 @@ a es, But now, seeing that it is so evident a matter, both by the express the pa
 
 “Christ took bread,” say they, ‘‘ blessed, and brake it, and gave it to his the argudisciples, saying, This is my body.” These words they ever still repeat papiss. and beat upon, that Christ said, “This is my body.” And this saying they make their sheet-anchor, to prove thereby as well the real and natural presence of Christ’s body in the sacrament, as their imagined transubstantiation.
 
-For these words of Christ, say they, be most plain and most true. Then 104, forasmuch as he said, “ This is my body,” it must needs be true that that thing which the priest holdeth in his hands is Christ’s body. And if it be Christ’s body, then can it not be bread. Whereof they gather by their reason- ing, that there is Christ’s body really present, and no bread.
+For these words of Christ, say they, be most plain and most true. Then 104, forasmuch as he said, “ This is my body,” it must needs be true that that thing which the priest holdeth in his hands is Christ’s body. And if it be Christ’s body, then can it not be bread. Whereof they gather by their reason-ing, that there is Christ’s body really present, and no bread.
 
 Now forasmuch as all their proof hangeth only upon these words, “This the answer.
 
@@ -225,7 +224,7 @@ Epiphan, in Ancorat.
 
 Hier. ad Hedibiam.
 
-THE THIRD BOOK.
+## The Third Book
 
 First, Irenzeus, writing against the Valentinians, in his fourth book saith, that “Christ confessed bread (which is a creature) to be his body, and the cup to be his blood.”
 
@@ -317,7 +316,7 @@ But let all these papists together shew any one authority, either of scripture o
 
 And if they can shew nothing for them of antiquity, but only their own bare words, then it is reason that they give place to the truth confirmed by so many authorities, both of scripture and of ancient writers, which is, that Christ called very material bread his body, and very wine made of grapes his blood.
 
-WINCHESTER.
+## Winchester
 
 After this the author occupieth a great number of leaves, that is to say, from the fiftyseventh leaf unto the seventy-fourth, to prove Christ's words, “ This is my body,” to be a figurative speech. Sleight and shift is used in the matter, without any effectual consecution, to him that is learned.
 
@@ -329,7 +328,7 @@ When Christ said, “ This is my body,” there is no" necessity that the demons
 
 And here, when this author taketh his recreation to speak of the feigning of the papists, I shall join this issue m this place, that he understandeth not what he saith, and if his knowledge be no better than is uttered here in the pen, to be in this point clearly condemned of ignorance.
 
-CANTERBURY.
+## Canterbury
 
 Here is another sleight, such as the like hath not lightly been seen. For where I wrote that when Christ said, “This is my body,” it was bread that he called his body, you turn the matter to make a descant upon these two words, “ calling” and dicendo, id est, figura corporis mei.—Tertullian.
 
@@ -371,7 +370,7 @@ Whether Christ called bread his body.
 
 * Mine issue.
 
-108 THE THIRD BOOK.
+## 108 the Third Book
 
 in' the eleventh comparison you affirmed to be so foolish a saying, as were “not tolerable to be devised by a scoffer in a play to supply when his fellow had forgotten his part.” 7
 
@@ -409,7 +408,7 @@ For after that I had alleged for the proof of my purpose a great many places of 
 
 Now I refer to thy judgment, indifferent reader, whether I offered the papists
 
-110 THE THIRD BOOK.
+## 110 the Third Book
 
 reason or no; and whether they ought not, if they had any thing to shew, to have brought it forth here: and forasmuch as they have brought nothing, (being thus provoked With all their counsel,) whether thou oughtest not to judge, that they have nothing in deed to shew, which if they had, without doubt we should have heard of it in this place. But we hear nothing at all, but these their bare words, “Not one
 
@@ -441,7 +440,7 @@ These words our Saviour Christ spake, to lift up their minds from earth to heave
 
 Thus have you heard the declaration of Christ himself, and of St Paul, that the eating and drinking of Christ’s flesh and blood is not taken in the common signification, with mouth and teeth to eat and chaw a thing, being _ present, but by a lively faith in heart and mind to chaw and digest a _ thing, being absent, either ascended hence into heaven, or else not yet born upon earth.
 
-WINCHESTER.
+## Winchester
 
 In the siatieth leaf the author entreateth, whether it be a plain speech of Christ to say, ' “Eat and drink,’ speaking of his body and blood. I answer, the speech of itself is proper, commanding them present to eat and drink that is proponed for them: and yet it is not requisite that the nature of man should with like common effect work, in eating and drinking that heavenly meat and drink, as it doth in earthly and carnal meats. In this mystery man doth as Christ ordained, that is to say, receive with his mouth that is ordered to be received with his mouth, granting it nevertheless of that dignity and estimation, that Christ's words affirm : and whether he so doth or no, Christ's ordinance is as it is in the substance of itself alone, whereof no good man judgeth carnally or grossly, ne discusseth the unfaithful question “how,” which he cannot conceive, but leaveth the deepness thereof, and doth as he is bidden. This mystery receiveth no man’s thoughts. Christ’s institution hath a property in it, which cannot be discussed by man’s sensual reason. Christ's words be spirit and life, which this author wresteth with his own gloss, to exclude the truth of the eating of Christ's flesh in his supper. [Terms meet And yet for a shift, if a man would join issue with him, putteth to his speech the words how Soge “grossly” and “carnally,” which words in such a rude understanding be terms meeter to expaumches. press how dogs devour paunches, than to be inculked in speaking of this high mysterg. Wherein °"% 55
 
@@ -451,11 +450,11 @@ An issue. d, 1551.)
 
 The eating of Christ’s body is not with teeth.
 
-112 THE THIRD BOOK.
+## 112 the Third Book
 
 I will make the issue with this author, that no catholic teaching is so framed! with such terms, as though we should eat Christ's most precious body grossly, carnally, joining those words so together. For else “carnally” alone may have a good signification, as Hilary useth it: but contrariwise speaking in the catholic teaching of the manner of Christ's presence, they call it a spiritual manner of presence, and yet there is present by God’s power the very true natural body and blood of Christ, whole God and man, without leaving his place in heaven: and in the holy supper men use their mouths and teeth, following Christ's commandment in the receiving of that holy sacrament, being in faith sufficiently instruct, that they cannot, ne do not tear, consume, or violate that most precious body and blood, but unworthily receiving it, are cause of their own judgment and condemnation.
 
-CANTERBURY.
+## Canterbury
 
 Eating and drinking with the mouth being so plain a matter, that young babes learn it, and know it before they can speak, yet the cuttle here with his black colours and dark speeches goeth about so to cover and hide the matter, that neither young nor old, learned nor unlearned, should understand what he meaneth. But ‘for all his masking, who is so ignorant but he knoweth, that eating in the proper and usual signification is to bite and chaw in sunder with the teeth? And who knoweth not also, that Christ is not so eaten? Who can then be ignorant that here you speak a manifest untruth, when you say that Christ’s body to be eaten is of itself a proper speech, and not figurative? Which is by and by confessed by yourself, when you say that we do not eat that heavenly meat as we do other carnal meats, which is by chawing and dividing with the mouth and teeth. And yet we receive with - the mouth that is ordained to be received with the mouth, that is to say, the sacramental bread and wine, esteeming them nevertheless unto us, when we duly receive them, according unto Christ's words and ordinance.
 
@@ -491,7 +490,7 @@ For you have nothing answered
 
 [° The rule of our faith, Orig. ed. Winch. }
 
-114 THE THIRD BOOK.
+## 114 the Third Book
 
 directly to Origen, although he directly writeth against your doctrine. For you say that the eating of Christ’s flesh is taken in the proper signification without a figure. Origen saith there is a figure. And Origen saith further, that it is only a figurative speech, although not adding this word “only,” yet adding other words of the same effect. For he saith, that we may not understand the words as the letter soundeth : and saith further, that if we understand the words of Christ in this place as the letter soundeth, the letter killeth. Now who knoweth not, that to say these words, ‘“‘not as the letter soundeth,” and “the letter killeth,” be as much to say, as only spiritually, and only otherwise than the letter soundeth? Wherefore you must spit upon your hands and take better hold, or else you cannot be able to pluck Origen so shortly from me. And I marvel that you be not ashamed thus to trifle with the ancient authors in so serious a matter, and such places, where the reader only looking upon the author's words may see your dealing. The next is Chrysostom, whom I cite thus.
 
@@ -503,11 +502,11 @@ But what is carnal understanding? To understand the words simply as they be spok
 
 In these words St John Chrysostom sheweth plainly that the words of Christ concerning the eating of his flesh and drinking of his blood, are not to be understand simply, as they be spoken, but spiritually and figuratively.
 
-WINCHESTER.
+## Winchester
 
 Chrysostom St Chrysostom declareth himself, how mysteries must be considered with inward eyes, which is a spiritual understanding, whereby the truth of the mystery is not (as it were by a figurative speech) impaired, but with an humility of understanding in a certain faith of the truth marvelled at. And here the author of this book® useth a sleight to join figuratively to spiritually, as though they were always all one, which is not so.
 
-CANTERBURY.
+## Canterbury
 
 As you: have handled Origen before, even so do you handle Chrysostom. Wherefore I only refer the reader to look upon the words of Chrysostom recited in my book, who saith, that to understand the words of eating of Christ’s flesh, simply as they be spoken, is a carnal understanding. And then can it be no proper speech, (as you say it is,) because it cannot be understand as the words be spoken, but must have another understanding spiritually.
 
@@ -541,7 +540,7 @@ Wherefore to all them that by any reasonable means will be satisfied, these thin
 
 Pars vitt.] 8—2
 
-116 THE THIRD BOOK.
+## 116 the Third Book
 
 Augustinus.
 
@@ -549,7 +548,7 @@ figurative speech spiritually to be understand, that we must deeply print and fr
 
 St Augustine, according to his rules of a figurative and proper speech, taketh this speech, “Except ye eat,” &c., for a figurative speech; because it seemeth to command in the letter carnally understanded an heinous and wicked thing to eat the flesh of a man, as mam’s carnal imagination conceiveth it: as appeared by the Capharnaites, who murmured at it. And therefore because only faithful men can by faith understand this mystery of the eating of Christ's flesh in the sacrament, in which we eat not the carnal flesh of a common man, as the letter sowndeth, but the very spiritual flesh of Christ, God and man, as faith teacheth; it is in that respect well noted for a figurative speech, for that it hath such a sense in the letter as is hidden from the unfaithful: so as the same letter being to faithful men spirit and life (who in humility of faith wnderstandeth the same), is to the faithful! a figure, as containing such a mystery as by the outward bark of the letter they understand not: upon which consideration it seemeth probable that the other fathers, also signifying a great secrecy in this mystery of the sacrament, wherein is a work of God ineffable, such as the ethnick ears could not abide, they termed it a figure, not thereby to diminish the truth of the mystery, as the proper and special name of a figure doth, but by the name of a figure reverently to cover so great a secrecy, apt only to be understanded of men believing: and therefore the said fathers, in some part of their works, in plain words express and declare the truth of the mystery, and the plain doctrine thereof according to the catholic faith, and in the other part pass it over with the name of a figure, which consideration in St Augustine's writings may be evidently gathered: for in some place no man more plainly openeth the substance of the sacrament than he doth, speaking expressly of the very body and blood of Christ contained in it; and yet therewith in other places noteth in those words a figure, not thereby to contrary his other plain sayings and doctrine, but meaning by the word “figure” to signify a secret deep mystery hidden from carnal understanding. For avoiding and expelling of which carnality he giveth this doctrine here of this teat: “Eacept ye eat,” &c., which, as I said before, in the bare literal sense implieth to carnal judgment other carnal circumstances to attain the same flesh to be eaten, which in that carnal sense cannot be but by wickedness. But what is this to the obeying of Christ's commandment in the institution of his supper, when he himself? delivereth his body and blood in these mysteries, and biddeth “eat and drink?” There can be no offence to do as Christ biddeth, and therefore St Augustine’s rule pertaineth not to Christ's supper, wherein when Christ willeth us to use our mouth, we ought to dare do as he biddeth; for that is spiritual understanding, to do as is commanded without carnal thought or murmuring i our sensual device how it can be so. And St Augustine in the same place, speaking de communicando passionibus Christi, declareth plainly he meaneth of the sacrament.
 
-CANTERBURY.
+## Canterbury
 
 If thou takest not very good heed, reader, thou shalt not perceive where the cuttle becometh. He wrappeth himself so about in darkness, and he cometh not near the net by a mile, for fear he should be taken. But I will draw my net nearer to him that he shall not escape. I say that the words which Christ spake of the eating of his flesh and drinking of his blood were spoken by a figure, and he would avoid the matter by saying, that “those words have a spiritual mystery in them ;” which is most true, and nothing contrary to my saying, but confirmeth the same. For the words of eating and drinking be figurative speeches, because they have a secret and hid spiritual mystery in them, and cannot be taken otherwise than in that spiritual mystery, which is a
 

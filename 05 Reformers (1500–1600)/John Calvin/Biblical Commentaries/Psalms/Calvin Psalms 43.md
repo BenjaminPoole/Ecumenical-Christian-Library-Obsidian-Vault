@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 43
-
-**PSALM 43**
 
 This psalm is very similar to the preceding. [^1] David, who probably was the author of it, being chased and driven out of his country by the unjust violence and tyranny of his enemies, calls upon God for vengeance, and encourages himself to hope for restoration.
 

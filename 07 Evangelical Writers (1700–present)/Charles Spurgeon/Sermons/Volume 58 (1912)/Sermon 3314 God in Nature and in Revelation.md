@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # God in Nature and in Revelation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3314
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Law of the LORD is perfect, converting the soul. The testimony of the LORD is sure, making wise the simple. The statutes of the LORD are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes. The fear of the LORD is clean, enduring forever: the judgments of the LORD are true and righteous altogether." Psalm 19:7-9.
 
@@ -97,7 +94,7 @@ Then, lastly, David says, " The judgments of the Lord are true and righteous alt
 
 The sun has gone down and in an hour or two the world will appear in a more somber dress than it now wears. If you come out at midnight, you will see nothing but the twinkling stars and a few glimmering lamps. Yet the sun is not put out—his light is not quenched. Wait till the appointed time and the great light of day shall again be "as a bridegroom coming out of his chamber, and rejoices as a strong man to run a race." Darkness may be covering your mind tonight. Darkness may cover your circumstances. Darkness may, for a while, cover even the Church of God on earth—but that old promise is still true—"Unto you that fear My name shall the Sun of Righteous arise with healing in His wings." Only be sure that you are on the Lord's side! Put your trust in the precious blood of Jesus and wait for Him more than they that watch for the morning. And then, when He comes, it will be to you a day of light and not of darkness, and the days of your mourning will have ended forever! So may the Lord comfort your hearts, sustain you under every trial, keep you in His love and enable you patiently to wait for His coming, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:9-32.
+## Exposition by C. H. Spurgeon: Psalm 119:9-32
 
 Verse 9. How shall a young man cleanse his way? By taking heed thereto according to Your Word. "How shall a young man cleanse his way?" A vital and solemn question. His way is full of temptations and he, himself, has strong passions. How shall he make his way clean and keep it so? "By taking heed thereto according to Your Word." Without heed he will soon be in the mire, but carefully walking with God's Word as his rule, by the blessing of God's Grace it will keep him out of sin.
 
@@ -142,7 +139,6 @@ Verse 9. How shall a young man cleanse his way? By taking heed thereto according
 31\. I have stuck unto Your testimonies: O LORD, put me not to shame. I am glued to them—there is no separating me, no tearing me apart from them! "O Lord, put me not to shame."
 
 32\. I will run the way of Your commandments when You shall enlarge my heart. I will go quicker and faster, I will have more energy, more flaming zeal in Your service—"When You shall enlarge my heart." O Lord, it is very narrow and very contracted. I cannot think great thoughts, nor do great things, nor believe great promises unless You shall enlarge my heart! Lord, give me a larger heart, stronger to obey, more tender to love for Your name's sake!
-
 
 ---
 [[Sermon 3313 A Practical Discourse|← #3313]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3315 Joy in Harvest|#3315 →]]

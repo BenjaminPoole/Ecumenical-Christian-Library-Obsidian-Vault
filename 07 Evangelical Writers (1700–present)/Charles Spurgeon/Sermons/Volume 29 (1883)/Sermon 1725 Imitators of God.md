@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Imitators of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1725
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 10, 1883,.
+*Delivered on Lord's-Day Morning, June 10, 1883*
 
 > "Be you therefore followers of God, as dear children." Ephesians 5:1.
 
@@ -130,7 +129,6 @@ Christian Friends, is there one among you who thinks God will not keep His promi
 Another inference—only a hint at it—is, if you are told to be "imitators of God, as dear children," then you may depend upon it, the Lord is a dear Father! The dear children of God have a dear Father! We may rest assured that He will be kind and tender to us, since He would have us loving towards Himself. I know you are heavy in spirit at this time. I know you are depressed and troubled, but your Father is kind and good. Believe it if you cannot see it. If reason says that He deals somewhat harshly with you, for He chastens you, remember that this is His way with His beloved. Has He not said, "As many as I love I rebuke and chasten"? Those stripes are seals of love! Chastisement is a high proof of wise affection! Your heavenly Father is much better to you than you are to Him. He is dearer, kinder and more loving as a Father than you have been as a child to Him. Rejoice in your Father though you cannot rejoice in yourself!
 
 Lastly, when the text says, "Be you imitators of God," it bids us keep on imitating Him as long as we live! Therefore I conclude that God will always be to us what He is. He will continue in His love since He makes that love the example of ours! God will persevere in bringing us home to Heaven, for He teaches us to persevere and make this a part of our likeness to Himself. The Lord will not turn His heart away from us. He will not fail nor be discouraged—having begun to make us meet for Heaven, He will never stay His hand till that work is done! Rest upon the immutable goodness of your Father and pray for Grace to always imitate Him until you come to see His face. May His Presence be with you and may He give you rest. Amen.
-
 
 ---
 [[Sermon 1724 Supposing Him to Have Been in the Company|← #1724]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1726 Buying Without Money|#1726 →]]

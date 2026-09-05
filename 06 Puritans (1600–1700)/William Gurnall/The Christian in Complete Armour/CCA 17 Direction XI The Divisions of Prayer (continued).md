@@ -9,7 +9,6 @@ tags:
   - puritans
   - william-gurnall
 ---
-
 # Direction XI: The Divisions of Prayer (continued)
 
 ## Division Third.—The Inward Principle of Prayer. ‘In the Spirit.’
@@ -608,8 +607,7 @@ To shut up this with a caution—though we are to pray for all saints, yet *some
 
 — From *Webster’s*
 
-—SDB
-
+## —Sdb
 
 ---
 [^1]: *CLOUT*, n. 1. A patch; a piece of cloth or leather, &c., to close a breach.
@@ -619,7 +617,6 @@ To shut up this with a caution—though we are to pray for all saints, yet *some
 [^5]: *causey:* — a raised path or road as across wet ground.
 [^6]: *Gust:* — taste; relish; flavour; savour.
 [^7]: I Sam 7:9-11. But also see I Sam 12:14-19; which seems to fit Gurnall’s context better. — SDB
-
 
 ---
 [[CCA 16 Direction XI Prayer, Second General Part|← Direction XI: Prayer, Second General Part]] · [[The Christian in Complete Armour|Contents]] · [[CCA 18 Direction XII Prayer for the Ministers of Christ (Eph. 619-20)|Direction XII: Prayer for the Ministers of Christ (Eph. 6:19-20) →]]

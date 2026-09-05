@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Our Lord's Heroic Endurance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3327
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For consider Him that endured such contradiction of sinners against Himself lest you be weary and faint in your minds." Hebrews 12:3.
 
@@ -85,7 +82,7 @@ Such a substantial vessel did she seem to ride in that she was not going to let 
 
 Consider Christ thus, then, and you need not be and never will be, weary! But now, lastly, the great thing is—
 
-III. TO CONSIDER HIM.
+## III. To Consider Him
 
 There is the point of the text. We are not only to consider the contradiction and His endurance of it, but to consider Him. To consider His endurance is well, but the striking point should be to consider the dignity of Him who did thus endure. We are told by the historians of Alexander the Great that it very much cheered and assisted the troops in their long and weary marches from Persia, sometimes without water and without food for many hours under a burning sun, that they always saw Alexander walking on foot, too. The Persian monarch would have been riding in some dainty cha-
 
@@ -109,7 +106,7 @@ why do you persecute Me?" He cried. Why, it was but a few poor men and women bei
 
 I would to God you could all take home this text, but some of you cannot, and here is the sorrow of it, that you should live and die with such rare comforts at your door, but you cannot take them! Oh, Sinners, flee to Christ! Put your trust in Him and you shall soon be able to find consolation in every part of His life and in every trait of His death-pangs. God bless you very graciously, for His name's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 12:1-17.
+## Exposition by C. H. Spurgeon: Hebrews 12:1-17
 
 Verses 1, 2. Therefore seeing we are also compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which does so easily beset us, and let us run with patience the race that is set before us, looking unto Jesus the Author and Finisher of our faith; who for the joy that was set before Him endured the Cross, despising the shame, and has set down at the right hand of the throne of God.We can have no doubt about the great Truths of God which we believe, for we are compassed about with a cloud of witnesses. The former Chapter gives us the names of many of these glorious bearers of testimony, who all by faith achieved great wonders and so bore witness to the Truth of God. Having, therefore, no room for doubt, let us throw our whole strength into our high calling and run with patience having our eyes always fixed upon Him, the Beginner and Finisher of our faith, who has run the race, Himself, and won the prize—and now sits down at the right hand on the Throne of God.
 
@@ -124,7 +121,6 @@ Verses 1, 2. Therefore seeing we are also compassed about with so great a cloud 
 14\. Followpeace with all men, and holiness, without which no man shall see the Lord. "Blessed are the pure in heart for they shall see God." A man's god is like himself and until he become like God we cannot see God! We misunderstand God until we have been trained to imitate Him.
 
 15-17. Looking diligently lest any man fall short of the Grace of God; lest any root of bitterness springing up troubles you and, thereby, many are defiled; lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright For you know how that afterwards, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. It was done and could not be undone. Does it not seem strange that after speaking to us about being God's sons and favored with His love, yet even then, in that clear blaze of light, there comes in this caution against fornication and profanity? Ah me, how near a foul spot may be to lily-like whiteness! How Judas may sit side by side with favored and true-hearted Apostles, yes, and may be near the Master, too! "Let him that thinks he stands take heed lest he fall." And, oh, Friends, if at any time the pottage should seem very sweet and we should be very hungry—if the world's gain should be almost necessary to our livelihood and we are tempted to do an unrighteous thing to get it—let us take care, for Esau could not undo the terrible act of selling his birthright and neither could we if we were permitted to do so! God grant we may be spared from such a dreadful crime!
-
 
 ---
 [[Sermon 3326 The Wondrous Covenant|← #3326]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3328 Guests for the Royal Feast|#3328 →]]

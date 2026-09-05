@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**"LOVE UNTO THE END"**
+## **"Love unto the End"**
 
 > For the Lord will not cast off for ever." Lam. 3:31
 
@@ -23,7 +22,6 @@ He may cast away for a season, but not for ever. A woman may leave off her ornam
 He chose us from eternity, and He will love us throughout eternity. He loved us so as to die for us, and we may therefore be sure that His love will never die. His honor is so wrapped up in the salvation of the believer, that He can no more cast him off than He can cast off His own robes of office as King of glory. No, no! The Lord Jesus, as a Head, never casts off His members; as a Husband, He never casts off His bride.
 
 Did you think you were cast off? Why did you think so evil of the Lord who has betrothed you to Himself? Cast off such thoughts, and never let them lodge in your soul again. "The Lord hath not cast away his people which he foreknew" (Rom. 11:2). "He hateth putting away" (Mal. 2:16).
-
 
 ---
 [[FCB January 11|← January 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 13|January 13 →]]

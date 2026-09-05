@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Saved In Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1616
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 28, 1881,.
+*Delivered on Lord's-Day Morning, August 28, 1881*
 
 > "For we are saved by hope, but hope that is seen is not hope: for what a man sees, why does he yet hope for? But if we hope for what we see not, then do we with patience wait for it." Romans 8:24,25.
 
@@ -140,7 +139,6 @@ When Satan would buffet us; when temptation would overcome us; when affliction w
 Now, then, you that do not believe in God, tell us what your hope is. Publish it in the world and let all men estimate it. What is your hope? To live long? Yes, and what then? To bring up a family? Yes, and what then? To see them comfortably settled in life? Yes, and what then? To be a grandfather to a numerous progeny? Yes, and what then? To reach extreme old age in peaceful retirement? Yes, and what then? The curtain falls! Let me lift it. The cemetery. The Throne of God. Sentence on your soul! The trumpet of Resurrection. Final doom. Body and soul in Hell forever! You have no better prospect! Pray look out of the window and see what is to be seen. The Lord have mercy upon you and give you a better hope!
 
 As for you believers in Christ, I charge you, begin to sing, today, the sonnets of the hereafter! Charm your pilgrim life with the minstrelsy of hope!
-
 
 ---
 [[Sermon 1615 Singing in the Ways of the Lord|← #1615]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1617 Love's Labours|#1617 →]]

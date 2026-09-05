@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Good Cheer From Grace Received
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3020
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold, a woman, which was diseased with an issue of blood twelve years, came behind Him, and touched the hem of His garment: for she said within herself, If Imay but touch His garment, I shall be whole. But Jesus turned Him about, and when He saw her, He said, Daughter, be of good comfort; your faith has made you whole. And the woman was made whole from that hour." Matthew 9:20-22.
 
@@ -121,8 +118,7 @@ Trusting in Jesus is a man's best evidence that he is saved, for it is written, 
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3021 Landlord and Tenant|#3021 →]]

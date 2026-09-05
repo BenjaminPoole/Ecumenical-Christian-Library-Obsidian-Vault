@@ -213,7 +213,7 @@ They may all be divided into four classes. The first class embraces all those ob
 
 A second class proceeds on the notion that the Mosaic Tabernacle is altogether too costly, highly artistic, and ponderous an affair, to have been produced by the Israelites at Mt. Sinai, and afterward carried by them all through the wilderness.
 
-Another of these classes - which is really only one objection- represents that in the very oldest sources out of which the Pentateuch was, according to the critic notion, constructed, there is mention made of another tent, much smaller than was the Mosaic Tabernacle, and different from that structure also in other respects; and that, therefore, this second tabernacle, as it may be called, being better substantiated by literary documents than is the Mosaic structure, it is not consistent with an acceptance of all the facts in the case to allow that the larger or Mosaic tent really existed.
+Another of these classes - which is really only one objection-represents that in the very oldest sources out of which the Pentateuch was, according to the critic notion, constructed, there is mention made of another tent, much smaller than was the Mosaic Tabernacle, and different from that structure also in other respects; and that, therefore, this second tabernacle, as it may be called, being better substantiated by literary documents than is the Mosaic structure, it is not consistent with an acceptance of all the facts in the case to allow that the larger or Mosaic tent really existed.
 
 And finally, there is still one class, or a single objection, which makes bold to affirm that in all the earlier historic books of the Old Testament, even from Judges to 2 Kings, there is no sure mention made of the Tabernacle as a real existence.
 

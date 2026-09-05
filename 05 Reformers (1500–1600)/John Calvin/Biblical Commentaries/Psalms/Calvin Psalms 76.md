@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 76
-
-**PSALM 76**
 
 There is here celebrated the grace and truth of God in having, according to his promise that he would be the protector of the city of Jerusalem, defended it by his wonderful power against enemies, who were renowned for their warlike valor, and well equipped with everything requisite for war. [^1]
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Unspeakable Gift
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1550
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 25, 1880,.
+*Delivered on Lord's-Day Morning, July 25, 1880*
 
 > "Thanks be unto God for His unspeakable gift!" 2 Corinthians 9:15.
 
@@ -124,7 +123,6 @@ When you see a preacher making the Gospel small by degrees and miserably less ti
 As for me, I believe in the colossal! A need deep as Hell and Grace as high as Heaven! I believe in a pit that is bottomless and in mercy above the heavens! I believe in an Infinite God and an Infinite Atonement, infinite love and infinite mercy, an Everlasting Covenant ordered in all things and sure, of which the substance and the seal is an Infinite Christ. Christ is all! Christ is unspeakable, the unspeakable gift of God! Hold to that, or you will not thank God as you should. Nor rest in a thoroughly sound creed, but try to bring others to accept God's unspeakable gift. You know how the birds stir up each other to sing? One bird in a cage will excite its fellow, who looks at him and seems to say, "You shall not outstrip me. I will sing with you." Then another joins the strain, saying, "I will sing with you," till all the little minstrels quiver with an ecstasy of song and form a choir of emulating songsters. Hark how the early morning of the spring is rendered musical by the full orchestra of birds!
 
 One songster begins the tune and the rest hasten to swell the music! Let us be like these blessed birds. Let us try to lead our families to praise the Lord. Bless the Lord till you set the fashion and others bless Him with you! Seek out those who do not know the Lord Jesus Christ and tell them "the old, old story of Jesus and His love." Thus, if you cannot sing more yourself, nor praise God more yourself, you will have increased His praise by bringing in others to sing with you! See you to this and let this be, from now on, the motto of your lives. Write it over your doors! Emblazon it on the walls of your chambers! Let it hang over your bed by night, "THANKS BE UNTO GOD FOR HIS UNSPEAKABLE GIFT." O Holy Spirit, write this line of gratitude upon the tablets of our hearts. Amen.
-
 
 ---
 [[Sermon 1549 Good News For Thirsty Souls|← #1549]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1551 Today! Today! Today!|#1551 →]]

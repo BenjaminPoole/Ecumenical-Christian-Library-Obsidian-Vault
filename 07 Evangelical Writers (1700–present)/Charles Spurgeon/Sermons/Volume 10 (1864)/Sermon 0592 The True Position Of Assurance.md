@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The True Position Of Assurance
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 592
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 2ND, 1864, BY C, H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, October 2nd, 1864, by C, H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Ephesians 1:13.
 
@@ -150,7 +149,6 @@ But if assurance is gone, still hang onto Jesus—
 When faith is at her very worst, she is glorious and sparkles like a jewel in the dark mine and God will come and take her up out of all the depths and set her in His own crown as a precious jewel. "Your faith has saved you," says Jesus. No, Lord, it is not faith that has done it, it is Yourself. He takes the crown royal of salvation's glory, lifts it right off from His own head and puts it on the head of the poor feeble woman's faith. "Your faith has saved you: go in peace." And so will God do with your tempest-tossed and exercised faith! He will put the crown upon it and that faith of yours shall sing in Heaven!
 
 Do not tell me that we shall have no faith in Heaven—nonsense! "Now abides faith, hope, charity, these three. But the greatest of these is charity." We shall find faith to be our sweet companion there. Shall I not believe God when I get to Heaven? Shall I give up trusting my God when I get there? No, I shall trust Him for my resurrection body! I shall trust Him for the millennial splendor! I shall trust Him for the gathering of the elect! Trust Him for an eternity of bliss! Trust Him for my safe standing where He has brought me. And so, happy faith, imperishable faith, shall live and reign when sense and sight are gone past recall. The Lord give you to hear the Word, to believe in it and afterwards to be sealed with the Holy Spirit of promise.
-
 
 ---
 [[Sermon 0591 'Thus Saith The Lord' Or, The Book of Common Prayer|← #591]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0593 Inward Conflicts|#593 →]]

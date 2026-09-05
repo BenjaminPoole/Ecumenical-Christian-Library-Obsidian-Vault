@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 36. Decade 3, Sermon 9, Part 1
 
 I HAVE already through many sermons discoursed long upon God's laws. Now therefore, because upon the consideration and handling of the law there do arise certain points not1 to be omitted, which do depend upon, and are annexed hand in hand unto, the law ; of which sort are Christian liberty, good works, the reward2 of good works; 3sin, and the reward or punishment of sin ; I will speak of them in order, as God shall put into my mouth : whom I shall desire you to pray unto with me, beseeching him not to suffer me to speak, in these or other points of holy doctrine, the thing that shall sound against his holy will.
@@ -40,8 +39,6 @@ First, bondage is nothing else but the state or condition what bondwherein bond-
 
 [6 Jesus Christ, not in Lat.]
 
-302 THE THIRD DECADE. [sERM.
-
 called, because the captains commanded to sell them for money, when they were in wars taken captives by their soldiers ; and so by that means to spare their life and save them : these bondmen are in Latin also called Mancipia, eo quod ab hostibus manu caperentur, because they were taken prisoners by the hand of their enemies : or else they are made bondslaves by the civil law ; as when a freeman, above twenty years of age, doth for lucre sake suffer himself to be sold for money1. Bondmen therefore have lost all liberty, and do wholly hang upon their masters' government, in whose power it lieth to kill them if they list.
 
 TWO sorts of Now of bondage there are two sorts; the politic8, and BodiiT^ the spiritual. The politic bondage is not by grace and the preaching of the gospel taken out of the church of the faithful, so that there should be no bondmen at all, or that they should not do their duty, or not do the service that of right ncor. vii. they do owe. For the apostle Paul saith: "Let every man walk according as he is called3. And so ordain I in all churches. Art thou called being a servant? care not for it : but yet if thou mayest be free, use it rather." And again : "Servants, obey them that are your bodily masters with fear and trembling and singleness of heart, as unto Christ ; not with eye-service, as men-pleasers ; but as the servants of Christ, doing the will of God from the heart ; with good will serving the Lord, and not men; knowing that whatsoever good thing any man doth, that shall he receive again of the Lord, whether he be bond or free." And in his epistle to Timothy he saith: "Let as many servants as are under the yoke count their masters worthy of all honour, that the name of God and his doctrine be not blasphemed. And they which have believing masters, despise them not, because they are brethren ; but rather do service, forasmuch as they are believ-
@@ -68,8 +65,6 @@ This is a comfort to the faithful in all their afflictions, which know that thei
 
 [9 laboramus, Lat.]
 
-304 THE THIRD DECADE. [SERM.
-
 always in the body the dying of the Lord Jesus, that the life rs cor. vi. 4, of Jesus might also appear in our body1." And again: "In all things we do our endeavour to shew ourselves as doth become the ministers of Christ ; in much suffering, in afflictions in necessities, in sorrows, in stripes, in imprisonments, in seditions, in labours, in watchings, in fastings ; in glory and ignominy, in reproaches2 and praises; as deceivers, and yet speakers of truth ; as unknown, and yet known ; as dying, and lo, we live ; as chastened, and not killed ; as sorrowful, and yet always rejoicing; as poor, and yet making many rich; as having nothing, and yet possessing all things." Lo, here ye see how the saints in extreme servitude have a cheerful consolation and are always at their liberty : as is to be seen by infinite examples in the Acts of the Apostles, and other ecclesiastical histories.
 
 bSnd^e1 -^ow we come *° *ne second part of bondage. The spiritual bondage hath a certain likeness to the bodily servitude. For Adam by his own fault became a bondman ; and we of him are all born bondmen3. He was once at liberty, and had the Lord to be his friend and favourer4; but he did disloyally revolt from God, and got himself another master, the devil, a tyrant as cruel as may be, who for his sin having gotten power over him did, like a merciless lord, miserably handle him like a bond-servant. Now we of our corrupt grandsire are born corrupt and sinners, and for our sin are also under the devil's dominion ; we are in danger of5 the law, and of the curse thereof : for we are the bond-slaves of sin ; we are made subject to sundry calamities by reason of our sin. This therefore is called the spiritual bondage, not because it is only in the mind of man, but because of the opposition whereby it is opposed to the bodily bondage6. For otherwise sin hath made our body also subject to the curse : neither do we sin in mind alone, but in the body also ; for every part and all the members of our bodies are subject unto
@@ -93,8 +88,6 @@ Now on the other side, let us see what Christian liberty The spiritual is ; that
 [f a gravi ilia scrvitute, Lat. ; from that grievous bondage.] [8 by sin, not in Lat.]
 
 [BULLINGER, ii.J
-
-306 THE 'THIRD DECADE. [SERM.
 
 law, and from death, is made the son of God and heir of everlasting life ; and also that he hath received the Spirit of liberty, by which he doth wholly give himself to be the servant of God, to do him service all his life long ; and lastly, that, being delivered from the law of Moses and from all mortal men1, he doth altogether depend upon the gospel only, having at liberty free use of external things, as of meat, of drink, of clothing, and of such like indifferent things : and in these three last rehearsed points doth Christian liberty chiefly consist.
 
@@ -126,8 +119,6 @@ Paul in the sixth chapter to the Romans saith : " Let Bom. vi. not sin reign in 
 
 20 — 2
 
-308 THE THIRD DECADE. [SEHM.
-
 it through the lusts thereof ; that is, when we resist not, but do fulfil the lusts of the flesh. Sin therefore doth not reign in our mortal body, so long as it is but felt in the body and not obeyed or permitted to rule, but rather resisted and trod under foot1. The same sentence doth he expound by another somewhat more easy to be understood : I would not have you to permit your members to sin, as to a tyrant, to use them as instruments to work all unrighteousness : I rather require you to give yourselves to be ruled and governed by God. For since he hath set you free from death and brought you to life again, it is requisite2 that ye should give your members to God, as lively instruments, to work all righteousness. And that shall ye be easily able to do, because "ye are not under the law, but under grace."
 
 Upon this doth all the rest of that chapter depend3 unto the end. "What then?" saith he; "shall we sin, because we are not under the law, but under grace? God forbid. Know ye not, how that to whomsoever ye commit yourselves as servants to obey, his servants ye are to whom ye obey ; whether it be of sin unto death, or of obedience unto righteousness ? But God be thanked, that ye were the servants of sin, but ye have obeyed with heart the form of doctrine into the which ye are brought unto4. Being then made free from sin, ye are become the servants of righteousness." And yet he sheweth, that the freemen of Christ do not abuse their liberty, and give themselves again to be governed by their old and tyrannous master sin : for he maketh sin and righteousness to be, as it were, two masters ; and addeth to each of them the hire, or reward, that they give to their servants ; the one life, the other death. Lastly, he saith generally, that we are his servants to whom we give ourselves to obey. Upon which he inferreth : " Being redeemed by the grace of God from the bondage of sin, and from death which is the reward of sin, we are translated into the bondage of righteousness, (whose reward is life5,) that thereby we may live."
@@ -149,8 +140,6 @@ And yet in the seventh chapter next following he doth by comparison in a parable
 [8 legi, Lat.; to tho law.] [o nimirum ei, Lat. ; even to him.]
 
 [10 effectus peccatorum, Lat.]
-
-310 THE THIRD DECADE. [SERM.
 
 law, and dead unto it, whereunto we were in bondage1; that we may serve in newness of spirit, and not in the oldness of the letter."
 
@@ -175,8 +164,6 @@ These three precepts stretch very far, and comprehend many petit decrees; all wh
 [8 qualia shit ilia decreta commemorat per Mimeshn, Lat. :
 
 subjungit ; Bulling. Comment, in loc.] [9 because — answer to, not in Lat.]
-
-312 THE THIRD DECADE. [SERM.
 
 kind of worship1, which we of our own brains have chosen, and taken ourselves to serve and do God worship withal ; for men do gladly and willingly receive the traditions of men, because they are agreeable to their inclination2. Yea, Christ
 
@@ -204,9 +191,9 @@ These things being well weighed and throughly consime estate, dered will plainly
 
 [10 verse 16, praetextum vel velamen habcntcs malitioe, Lat.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 The abuses of Christian liberty.
 
@@ -234,8 +221,6 @@ Now this kind of snare or stumbling-block is by a metaphor transferred to the es
 
 [° sancto vocabulo, Lat. ; the sacred name.] [7 So Zuingle defines it, De vera et falsa religione, Comment, p. 412, Tigur. 1525.]
 
-316 THE THIRD DECADE. [sERM.
-
 HOW and by Now we offend other men either by our words, or else •aoAoM by our deeds. The offence that is given by words is partly in evil, foolish, and unseasonable doctrine, and partly our daily talk or communication. The greatest offence is that which doth arise of wicked doctrine, directly contrary to the true doctrine of the holy gospel. The next to this is that offence which doth arise of foolish and unseasonable doctrine; which, though it be derived out of the word of God, is notwithstanding either unaptly uttered, or unwisely applied. For the preacher may sin either by too much suffering1 or lenity ; or else by too much sharpness and overthwart waywardness2, so that the hearers being offended do wholly draw back from all hearing of the gospel. And yet, for all this, the light of the gospel must not be hidden, nor the truth slily winked at3, because men will be offended ; but preachers must with all their diligence take heed that the word of God be wisely set forth and aptly dispensed4. Whatsoever things are against the laws of God, those must most constantly be accused, and without fear most diligently confuted, howsoever the world and worldlings do storm against the same.
 
 Now they do by their daily talk cause their brethren to stumble, whosoever let their tongues run loose to talk they care not what; and at their pleasure, without advice, to babble they care not how : of which sort are filthy speech and ribaldry, but especially such blasphemous words as are unreverently uttered against God, the holy scriptures, and articles of our -faith ; for evil words corrupt good manners. I do not here exclude the letters or writings of men which do unadvisedly offend their brethren.
@@ -255,8 +240,6 @@ But here we must note, that the doctors of the church do weakim^ i i« • • i
 [s potentito et libcrationi divinse, Lat.]
 
 [6 vcritati et libcrtati, Lat.; the truth and liberty, ed. 1577.]
-
-318 THE THIRD DECADE. [sERM.
 
 latians saith : "Titus, being a Greek, was not circumcised, because of incomers, being false brethren, which came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage. To whom not so much as for an hour we gave any place by subjection ; that the truth of the gospel might continue with you." An offence Moreover to this place is to be referred the difference given and an .,,.....
 
@@ -286,9 +269,9 @@ Last of all, we must especially confirm our minds against offence* rise
 
 « » the enemies merable heaps of offences upon the preachers and zealous oftnegospei. followers of the evangelical doctrine. "Ye," say they, "are the causes of all the broils, seditions, wars, and hurly-burlies, wherewith the world is at this day disquieted." Against these offensive outcries, I say, we must confirm our minds with that notable saying of Christ in the gospel : "I came not to send peace, but a sword. For I am come to set a man at variance with his father, and the daughter against her mother, and the daughter-in-law against her mother-in-law : and a man's foes shall be they of his own household." Here we must call to remembrance, and lay before our eyes, the notable examples of the prophets and apostles. King Achab said to Helias the prophet, that he was the disturber and plague of the kingdom; but the prophet replieth, that not he, but the king, was the troubler of the country. The rebellious Jews objected against Jeremy, that, since the time they began to leave the worship of their (idol) gods, and to hearken to the preaching of the word of God, they never had one jot of felicity, but that mishaps by troops fell one upon another's neck. To which objection they were answered, that those misfortunes did light upon them because of their sins, and especially for their rebellion and unthankfulness' sake. The [6 unica sententia, Lat.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SEKM.
+## [Sekm
 
 [Actsxvii.
 
@@ -332,8 +315,6 @@ Good works are deeds, or actions, wrought of those Good work*, which are regener
 
 [BULLINGER, n.]
 
-322 THE THIRD DECADE. [SERM.
-
 honesty1 of life, and the profit of our neighbour. This brief description I will prosecute by parts, and expound so well as the Lord shall give me grace.
 
 The original First, I will by proof shew that there is none other work*. well-spring, from whence good works do flow, than God himself, which is the author of all good things. For the prophet saith : " All men are liars ; God alone doth speak the truth2."
@@ -358,9 +339,7 @@ But let us now see the testimonies of scripture, by which we may evidently learn
 
 21—2
 
-324 THE THIRD DECADE. [sERM.
-
-a spring-head, good works1 do flow into the saints, as into sundry streams and channels2. Good works Yet here by the way this must be added, that good are imputed , , * i • i t if n i to men. works, although they do in deed proceed trom God, and are in very true and proper phrase of speech the fruits of the Spirit and of faith, both are notwithstanding, and are also said to "be, ours ; that is to say, the works of faithful men : partly because God worketh them by us, and useth our ministery in the doing of the same ; and partly because we are by faith the sons of God, and are therefore made the brethren and joint-heirs with Jesus Christ. For by this right of inheritance all the works of God, which are in us God's gifts, do begin to be not another's, but our own and proper works. Yea, the very scripture doth attribute them to us, as unto sons and freeborn children; for the Lord in the gospel saith : " The servant abideth not in the house for ever ; the son abideth for ever." Therefore, as all things in the father's house do, by right of inheritance and title of propriety, come to the son, although the son hath not gotten them by his own industry, nor gathered them by his own labour, but hath received them by the liberality of his parents ; even so the works of God, which he doth work in us and by us, which are God's gifts bestowed upon us, both are, and are said to be, our own, because we are the sons of the household, as it were, by adoption, and therefore are the lawful heirs. Wherefore it were the sign of a very unthankful mind for an adopted son, being forgetful of his father's beneficence and liberality, to make his brags, that all those goods, which he enjoyeth by right of inheritance, were gotten and come by through his own labour and tra- ri cor. iv. vail. Whereupon Paul said very religiously : " What hast thou that thou hast not received? If thou hast then received it, why dost thou yet boast as though thou receivedst it not ?" Very well thought the holy martyr of Christ, St Cyprian, who was wont to say : " We should boast of nothing, because we have nothing of our own3." And to this f1 opera vere bona, Lat.]
+a spring-head, good works1 do flow into the saints, as into sundry streams and channels2. Good works Yet here by the way this must be added, that good are imputed , , * i • i t if n i to men. works, although they do in deed proceed trom God, and are in very true and proper phrase of speech the fruits of the Spirit and of faith, both are notwithstanding, and are also said to "be, ours ; that is to say, the works of faithful men : partly because God worketh them by us, and useth our ministery in the doing of the same ; and partly because we are by faith the sons of God, and are therefore made the brethren and joint-heirs with Jesus Christ. For by this right of inheritance all the works of God, which are in us God's gifts, do begin to be not another's, but our own and proper works. Yea, the very scripture doth attribute them to us, as unto sons and freeborn children; for the Lord in the gospel saith : " The servant abideth not in the house for ever ; the son abideth for ever." Therefore, as all things in the father's house do, by right of inheritance and title of propriety, come to the son, although the son hath not gotten them by his own industry, nor gathered them by his own labour, but hath received them by the liberality of his parents ; even so the works of God, which he doth work in us and by us, which are God's gifts bestowed upon us, both are, and are said to be, our own, because we are the sons of the household, as it were, by adoption, and therefore are the lawful heirs. Wherefore it were the sign of a very unthankful mind for an adopted son, being forgetful of his father's beneficence and liberality, to make his brags, that all those goods, which he enjoyeth by right of inheritance, were gotten and come by through his own labour and tra-ri cor. iv. vail. Whereupon Paul said very religiously : " What hast thou that thou hast not received? If thou hast then received it, why dost thou yet boast as though thou receivedst it not ?" Very well thought the holy martyr of Christ, St Cyprian, who was wont to say : " We should boast of nothing, because we have nothing of our own3." And to this f1 opera vere bona, Lat.]
 
 [2 as — channels, is the Translator's addition.]
 
@@ -381,8 +360,6 @@ scriptures touching the true original cause of good works, i we may easily under
 [6 Sed plane cum data fuerit (gratia), incipiunt esse etiam merita nostra bona, per illam tamen. Nam si illam subtraxerit, cadit homo, non erectus, sed prsecipitatus libero arbitrio. Quapropter quando cceperit homo habere merita bona, non debet^sibi tribuere ilia, sed Deo, cui dicitur in Psalmo, Adjutor meus esto, ne derelinquas me. Dicendo, ne derelinquas me, ostendit quia si derelictus fuerit, nihil boni valet ipse per se. — Aug. Opp. Par. 1531, Tom. vn. fol. 268, col. 1.] p Cf. Calvin. Instit. Lib. n. cap. 5, $ 14.]
 
 [8 Decad. i. Serm. 6, Vol. i. p. 104.]
-
-326 THE THIRD DECADE. [SERM.
 
 All our works generally are either the works of nature or the flesh, or else the works of the law, or else the works of faith or grace. Now the works of nature or the flesh 2 do not justify, but condemn us ; because " that which is born i. e, . » . js death and enmity against God." What the apostle thought and said touching the works of the law, I did declare1 to you in my
 
@@ -412,8 +389,6 @@ I will not wink at some men's objection, but freely conin what sense the fess, t
 
 [9 et oppugnaretur, Lat. ; and be fought against.]
 
-328 THE THIRD DECADE. [SERM.
-
 and examine, in what sense, and how, life and justification are ascribed to our works. St Augustine doth so answer this objection, that he referreth our works1 unto the grace of God ; for in his book De gratia et libero arbitrio, the eighth chapter, he writeth : " If eternal life be of duty given to good works, as the scripture doth most plainly testify, saying, 'Because God will reward every man according to his works ;' then how is eternal life of grace, considering that grace is not given as due to works, but freely and without deserts ? as the apostle Paul doth say, 'To him that worketh the reward is not reckoned of grace, but of duty ;* and again, ' The remnant,' saith he, ' are saved by the election of grace :' and immediately after he addeth, 'If it be of grace, then it is not now of works ; for then grace is no more grace.' How then is eternal life, which is gotten by works, a gift ? Or else did not the apostle say, that everlasting life is a gift ? Yes, verily ; he said it so plainly that we cannot deny it. Neither are his words so obscure that they require a sharp understander, but an attentive hearer. For when he had said, ' The reward of sin is death ;' he addeth straightway s : ' But the gift of God is life everlasting in Jesu Christ our Lord.' Methinketh therefore, that this question can be none otherwise resolved, unless we understand, that even our good works, to which eternal life is given, must be referred to the grace and gift of God ; because the Lord Jesus saith, 'Without me ye can do nothing:' and the apostle, when he had said, 'Ye are saved by grace through faith,' doth presently add, ' and that not of yourselves; it is the gift of God : not of works, lest any man should boast2.'" Thus much hitherto out of St Augustine.
 
 f1 bona opera, Lat.]
@@ -427,8 +402,6 @@ Now although this answer of St Augustine be godly and plain enough to him that s
 J * justification men. For thus they argue : We are justified, and do obtain unto works, eternal life, by grace : good works do belong to the grace of God : therefore good works do justify us.
 
 Now it is not amiss to close and buckle hand to hand with these disputers, that in this little ye may perceive that they be mere shifts of sophistry, which they set to sale under the name and colour of very sound arguments. And first of all, there is no man so foolish, if he hath read the doctrine of St Paul, but knoweth very well that those two propositions cannot hang together : we are justified by grace ; and, we are justified by works. For that sentence of St Paul is as clear as the sun, where he saith, " If of grace, then now not [Rom. xi. &] of works : for then grace were no grace." We do freely grant both their propositions ; to wit, that we are justified by grace, and that works belong to the grace of God, or be the gift of God : but we deny their consequence, and say that it is false ; to wit, that works do justify. For if that be true, then may we in like manner truly say, A man doth see; an hand doth belong unto a man : and thereupon infer, therefore a hand doth see. But who would gather so vain a consequent ? For all do understand, that a man doth consist of sundry members, and that every member hath his effects3 and offices. Again, what is he which knoweth not, that the grace of God, which is otherwise undivided, is divided and distinguished according to the diverse operations which it worketh? For there is in God a certain (as it were) general grace, whereby he created all mortal men, and by which he sendeth rain upon the just and unjust : but this grace doth not seterna in Christo Jesu Domino nostro. Ista ergo quaestio nullo modo mihi videtur posse dissolvi, nisi intelligamus et ipsa bona opera nostra, quibus seterna redditur vita, ad Dei gratiam pertinere, propter illud quod ait Dominus Jesus, Sine me nihil potestis facere. Et ipse apostolus cum dixisset, Gratia salvi facti estis per fldem ; et hoc non ex vobis, sod Dei donum est, non ex operibus ne forte quis extollatur ; yidit utique, &c.— Aug. Opp. Par. 1531, Tom. vn. fol. 268, col. 3.] [3 8Uas vires, Lat.]
-
-330 THE THIRD DECADE. [SERM.
 
 justify ; for if it did, then should the wicked and unjust1 be justified. Again, there is that singular grace, whereby he doth, for his only-begotten Christ his sake, adopt us to be his sons : he doth not, I mean, adopt all, but the believers only, whose sins he reckoneth not, but doth impute to them the righteousness of his only-begotten Son our Saviour. This is that grace which doth alone justify us in very deed. Moreover there is a grace, which, being poured into our minds, doth bring forth good works in them that are justified. This grace doth not justify, but doth engender the fruits of righteousness in them that are justified. Therefore we confess and grant, that good works belong to grace, but after a certain manner, order, and fashion2.
 
@@ -445,8 +418,6 @@ To this our answer is ; that glory must so be given to God as he doth please to 
 Again, they do lay certain places of scripture together, and thereupon do argue thus : Although Paul in one place doth say, "Ye are saved by grace through faith;" yet in jEph. u.8: another place the same Paul doth say, " We are saved by **•!
 
 [3 that belongeth — hath made, not in Lat.] [* opera fidei, Lat. ; the works of faith.]
-
-332 THE THIRD DECADE. [SERM.
 
 hope." Now who knoweth not that hope is, as it were, upheld and strengthened by patience ? — Christ himself in the gospel agreeing thereunto, and saying, " In your patience ye shall possess your souls." Therefore not faith only, but hope and patience do bring us to salvation.
 
@@ -468,9 +439,9 @@ For it is a sentence utterly unworthy to come out of a Christian man's mouth, to
 
 [7 — qui mine gaudeo in passionibus pro vobis, et suppleo relliquias pressurarum Christi, &c. Ambros. Comment, in Ep. ad Coloss. cap. 1, v. 24, Tom. ii. Append, pag. 266, Par. 1690. But these commentaries are not genuine. See James' Corruption of Scripture, Councils, and Fathers, ed. Cox, Lond. 1843, p. 26.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 [ 1 Pet ii.
 
@@ -497,8 +468,6 @@ They that are well exercised in the reading of the holy The places
 [6 rather, and who the Saviour of the world is, namely Christ.] [* recipimus salutem, Lat.] [8 sequuntur, Lat.]
 
 [9 rather, that there is attributed to works that which, &c. ; 'justification* is not in Lat.]
-
-336 THE THIRD DECADE. [sERM.
 
 I will yet essay to make this more manifest. In true faith there are two things to be considered, reconciliation and obedience : reconciliation, because by faith we understand and verily believe, that God is reconciled to us for Christ his sake, by whom we are adopted into the number of the sons of God; and obedience, because they that are reconciled do wholly yield themselves to him to whom they be reconciled, with earnest desire and zeal to do his will and pleasure. So then we say that faith1 is of two sorts, the justifying and the obeying faith2. Of the justifying faith2 St Paul maketh mention,
 

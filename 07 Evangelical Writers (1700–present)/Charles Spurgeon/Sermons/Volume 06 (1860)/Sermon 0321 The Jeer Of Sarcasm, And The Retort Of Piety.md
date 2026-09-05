@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # The Jeer Of Sarcasm, And The Retort Of Piety
 
 *New Park Street Pulpit* · Sermon No. 321
 
-DELIVERED ON SABBATH EVENING, APRIL 8, 1860,.
+*Delivered on Sabbath Evening, April 8, 1860*
 
 > “Then David returned to bless his household. And Michal the daughter of Saul came out to meet David and said, How glorious was the king of Israel today, who uncovered himself today in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovers himself! And David said unto Michal, It was before the Lord, which chose me before your father and before all his house, to appoint me ruler over the people of the Lord, over Israel: therefore will I play before the Lord. And I will yet be more vile than thus and will be base in my own sight: and of the maidservants which you have spoken of, of them shall I be had in honor.” 2 Samuel 6:20-22.
 
@@ -78,7 +77,6 @@ Never forget to give thanks to God if you are a child of pious parents who, so f
 Before closing, let me just say a word or two more generally to this whole congregation. There are three sorts of people upon which my text looks with a dark and appalling frown. First, there are those whose lips are always quick to curl; whose countenance is always prompt to sneer; whose tongues are always ready with a profane jest when the service of God crosses their path. I only say to you, beware, lest that come upon you—“As he loved cursing, so let it come upon him—as he delighted not in blessing, so let it be far from him.” Secondly, there are those who up to a certain point favor the worship of God and the services of the Church. But there comes a season of extraordinary service, a revival that demands uncommon energy—and almost before they are aware of it, the repugnance of their hearts finds some strong and unkindly expression. Now let me point you to Saul’s daughter and remind you how in one hour she proved her pedigree, identified herself with a family which the Lord had rejected, and sealed her own irrevocable doom! Then, thirdly, there is the professor of religion, who with David’s trial is awaiting David’s constancy. Have I sown the seed of Gospel Truth broadcast among you so often and has none fallen in stony places? You may have heard the Word and later with joy received it. And you may have “endured awhile, though you have no root in yourselves.” But let me ask you, when tribulation or persecution arises because of the Word, are you offended? Does it prove a stumbling block to you? If so, your case is deplorable! Do you parry off the first breath of ridicule with flippant tongue? Did I hear that you said the other day, “Oh, I don’t profess anything . I only just go into that Chapel now and then to hear the preacher. He rather takes my fancy.” What? Young man, let your conscience witness that you are shrinking back unworthily! You may only dissemble a little at first, but if you are coward enough to dissemble, you may, before long, prove infidel enough to apostatize!
 
 Brothers and Sisters in the Lord, “stand fast in one spirit, with one mind striving together for the faith of the Gospel, in nothing terrified by your adversaries.” “For unto you it is given in the behalf of Christ, not only to believe in His name, but also to suffer for His sake.” Amen.
-
 
 ---
 [[Sermon 0320 Contentment|← #320]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0322 A Divine Challenge!|#322 →]]

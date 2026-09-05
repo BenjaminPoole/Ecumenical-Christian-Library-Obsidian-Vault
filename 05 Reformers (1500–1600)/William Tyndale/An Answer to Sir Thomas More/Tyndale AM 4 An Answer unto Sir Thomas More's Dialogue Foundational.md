@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 4. An Answer unto Sir Thomas More's Dialogue: Foundational Treatises, Part 2
 
 ' Whether we believe not that it is God's word, by the reason
@@ -22,8 +21,6 @@ An historical historical faith hangeth of the truth and honesty of the teller, o
 AN HISTORICAL AND A FEELING FAITH. 51 me that the Turk had won a city, and I believed it, moved with the honesty of the man ; now if there come another that seemeth more honest, or that hath better persuasions that it is not so, I think immediately that he lied, and lose my faith again. And a feeling faith is as if a man were there present when it was won, and there were wounded, and had there lost all that he had, and were taken prisoner there also : that man should so believe, that all the world could not turn him from his faith. Then, even likewise, if my mother had blown on her finger, and told me that the fire would burn me, I should have believed her with an historical faith, as we believe the stories of the world, because I thought she would not have mocked me. And so I should have done, if she had told me that the fire had been cold, and would not have burned ; but as soon as I had put my finger in the fire, I should have believed, not by the reason of her, but with a feeling faith, so that she could not have persuaded me after ward the contrary. So now with an historical faith I may believe that the scripture is God's, by the teaching of them ; and so I should have done, though they had told me that Robin Hood had been the scripture of God : which faith is but an opinion, and therefore abideth ever fruitless ; and falleth away, if a more glorious reason be made unto me, or if the preacher live contrary.
 
 But of a feeling faith it is written (John vi.), " They shall johnvi. be all taught of God." That is, God shall write it in their hearts with his Holy Spirit. And Paul also testifieth (Rom. R0m. vm. viii.), " The Spirit beareth record unto our spirit, that we be the sons of God." And this faith is none opinion; but a sure The true ana feeling, and therefore ever fruitful. Neither hangeth it of S.ee the honesty of the preacher, but of the power of God, and of the Spirit: and, therefore, if all the preachers of the world would go about to persuade the contrary, it would not pre vail ; no more than though they would make me believe the fire were cold, after that I had put my finger therein. Of this we have an ensample (John iv.) of the Samaritanish John iv. wife, which left her pitcher, and went into the city, and said, " Come, and see a man that hath told me all that ever I did. Is not he Christ ?" And many of the Samaritans be lieved, because of the saying of the woman, how that he had told her all that ever she did ; and went out unto him, and
-
-52 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 desired him to come in. Which faith was but an opinion ;
 
@@ -45,17 +42,15 @@ The abornipies following the ensample mightily ; and the pope therewith the Romi
 
 Marriage law ; and the pope also to forbid all the spiritualty, a forbidden, i»t «•*(•(• mu^1tude of forty or fifty hundred thousand, to marry, and to give them licence to keep every man his whore, who so will : if, I say, I have none other feeling in my faith, that lechery is sin, than this man's preaching, I think my faith should be too weak to bear much fruit. How could I believe a man that would say he loved me, if all his deeds were con trary? I could not believe God himself, that he loved me, if in all my tribulations I had of him none other comfort than those bare words.
 
-DOCTRINE AND DOINGS OF POPISH CLERGY CONTRASTED. 53
+## Doctrine and Doings of Popish Clergy Contrasted. 53
 
 And in like manner, if I had none other feeling in my covetousfaith that covetousness were sin, than that the spiritualty so saith, my faith could be but weak and fainty, when I see how the pope with wiles hath thrust down the emperor; and how the bishops and prelates be crept up on high, in all regions, above their kings; and have made them a several kingdom, and have gotten into their hands almost the one half of every realm, which they divide among themselves, giving no layman any part with them ; and heaping up bishoprick upon bishoprick, promotion upon promotion, benefice upon benefice, with unions and tot-quots. robbing in every parish the souls of their food, unions, tot-
 
 , ,, « A, . ° , / J , quots. W. T.
 
-and the poor of their due sustenance; yea, and some preach ing that it were less sin to have two wives than two benefices, but while they be yet young and hot, and therefore think covetousness greater sin than lechery ; which same, when they be waxed elder, and their complexion somewhat altered, think that covetousness is as small a sin as lechery, and therefore take all that cometh ; and if any man cast their preaching in The papists their teeth, they answer that they be better learned, and have seen farther : if, I say, I have no other feeling that any sin- covetousness is sin than the preaching of these holy fathers, my faith were built but upon a weak rock, or rather on the soft sand. And therefore our defenders do right well to foam out their own shame, and to utter the secret thoughts of their hearts. For as they write, so they believe. Other feeling the laws of God and faith of Christ have they none, than that their God the pope so saith. And therefore as the pope beHeve S8 preacheth with his mouth only, even so believe they with only.™ their mouth only whatsoever he preacheth, without more ado, be it never so abominable; and in their hearts consent unto all their father's wickedness, and follow him in their deeds as fast as they can run.
+and the poor of their due sustenance; yea, and some preach ing that it were less sin to have two wives than two benefices, but while they be yet young and hot, and therefore think covetousness greater sin than lechery ; which same, when they be waxed elder, and their complexion somewhat altered, think that covetousness is as small a sin as lechery, and therefore take all that cometh ; and if any man cast their preaching in The papists their teeth, they answer that they be better learned, and have seen farther : if, I say, I have no other feeling that any sin-covetousness is sin than the preaching of these holy fathers, my faith were built but upon a weak rock, or rather on the soft sand. And therefore our defenders do right well to foam out their own shame, and to utter the secret thoughts of their hearts. For as they write, so they believe. Other feeling the laws of God and faith of Christ have they none, than that their God the pope so saith. And therefore as the pope beHeve S8 preacheth with his mouth only, even so believe they with only.™ their mouth only whatsoever he preacheth, without more ado, be it never so abominable; and in their hearts consent unto all their father's wickedness, and follow him in their deeds as fast as they can run.
 
 The Turks, being in number five times more than we are, Turks. knowledge one God, and believe many things of God, moved only by the authority of their elders ; and presume that God will not let so great a multitude err so long time : and yet they have erred and been faithless these eight hundred years. And the Jews believe this day as much as the carnal Jews. sort of them ever believed, moved also by the authority of their elders only ; and think that it is impossible for them e to err, being Abraham's seed, and the children of them to
-
-54 ANSWER TO SIR THOMAS MORE's DIALOGUE.
 
 err, because whom the promises, of all that we believe, were made : and aJttdr eiders yet they have erred, and been faithless, these fifteen hun dred years. And we, of like blindness, believe only by the authority of our elders ; and, of like pride, think that we cannot err, being such a multitude. And yet we see how God, God reserved in the old Testament, did let the great multitude err; reservflock* ing alway a little flock, to call the other back again, and to testify unto them the right way.
 
@@ -63,7 +58,7 @@ How this word church hath a double interpretation.
 
 This is therefore a sure conclusion as Paul saith, (Rom. Rom. ix. ix.) that "not all they that are of Israel are Israelites; neither because they be Abraham's seed, are they all Abraham's chil dren," but they only that follow the faith of Abraham. Even so now none of them that believe with their mouths, moved with the authority of their elders only, that is, none of them that believe with master More's faith, the pope's faith, and the who they devil's faith, which may stand (as master More confesseth) S G^rnie with all manner abominations, have the right faith of Christ, or are of his church ; but they only that repent, and feel that the law is good, and have the law of God written in their hearts, and the faith of our Saviour Jesus, even with the Spirit of God. There is a carnal Irsael, and a spiritual. The fleshly There is Isaac and Ishmael; Jacob and Esau. And Ishmael tue spiritual, persecuted Isaac, and Esau Jacob, and the fleshly the spiritual: whereof Paul complained in his time, persecuted of his carnal brethren; as we do, in our time, and as the elect ever did, and shall do till the world's end. What a multitude came out of Egypt under Moses! of which the scripture testifieth that they believed, moved by the miracles of Moses ; as Simon Acts viii. Magus believed by the reason of Philip's miracles, (Acts viii.). Nevertheless, the scripture testifieth that six hundred thousand of those believers perished through unbelief; and left their carcases in the wilderness, and never entered into the land Thechndren that was promised them. And even so shall the children of papists6. master More's faithless faith, made by the persuasion of man, leap short of the rest which our Saviour Jesus Christ is risen unto. And therefore let them embrace this present world, as they do, whose children they are, though they hate so to be called.
 
-ANSWERS TO CAPTIOUS PAPISTS. 55
+## Answers to Captious Papists. 55
 
 And hereby ye see that it is a plain and an evident con clusion, as bright as the sun's shining, that the truth of God's •word dependeth not of the truth of the congregation. And Questions. therefore, when thou art asked why thou believest that thou shalt be saved through Christ, and of such like principles of our faith ; answer, Thou wottest and feelest that it is true. Answers. And when he asketh, How thou knowest that it is true ; answer, Because it is written in thine heart. And if he ask who wrote it ; answer, The Spirit of God. And if he ask Answers to
 
@@ -78,8 +73,6 @@ It hath pleased God of his exceeding love (wherewith he loved us in Christ, as P
 , . . . ' . f Christ, and two conclusions in our hearts, by which we understand all lo\e °f our
 
 7 «/ neighbours, things ; that is to wit, the faith of Christ, and the love of our ^jJiSfof3 [l So C. U. L. ed. but D. omits among.] man"8 *'
-
-56 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 neighbours. For whosoever feeleth the just damnation of sin, and the forgiveness and mercy that is in Christ's blood for all that repent and forsake it, and come and believe in that mercy, the same only knoweth how God is to be honoured and worshipped, and can judge between true serving of God in the spirit, and false image-serving of God with works. The use of And the same knoweth that sacraments, signs, ceremonies, and bodily things can be no service to God in his person; but memorials unto men, and a remembrance of the testament, wherewith God is served in the spirit. And he that feeleth not that, is blind in his soul, and of our holy father's genera tion, and maketh God an image, and a creature, and worshippeth him with bodily service. And on the other side, he that loveth his neighbour as himself, understandeth all laws, and can judge between good and evil, right and wrong, godly and ungodly, in all conversation, deeds, laws, bargains, covenants, ordinances, and decrees of men ; and knoweth the office of every degree, and the due honour of every person And he that hath not that written in his heart, is popish, and of the spiritualty; which understandeth nothing save his own honour, his own profit, and what is good for himself only ; and, when he is as he would be, thinketh that all the world is as it should be.
 
@@ -109,13 +102,11 @@ If I hate the law, so I break it in mine heart ; and both what u is to hate and 
 
 To deny to help my neighbour is to disho nour him.
 
-58 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
-
 outwardly, then I dishonour God before the world, and the vvg T. officer that ministereth it. If I hurt my neighbour, then I dishonour my neighbour and him that made him, and him also that bought him with his blood. And even so, if I hate my neighbour in mine heart, then I hate him that commandeth me to love him, and him that hath deserved that I should at the least way for his sake love him. If I be not ready to help my neighbour at his need, so I take his due honour from him, and dishonour him, and him that made him, and him also that bought him with his blood, whose servant he is. If I love such things as God hath lent me, and committed unto mine administration, so that I cannot find in mine heart to bestow them on the uses which God hath appointed me, then I dishonour God and abuse his creature, in that I give more honour unto it than I should do ; and then I make an idol of it, in that I love it more than God and his commandment ; and then I dishonour my neighbour, from whose need I withdraw it. In like manner, if the officer, abusing his power, com pel the subject to do that which God forbiddeth, or to leave undone that which God commandeth, so he dishonoureth God in withdrawing his servant from him, and maketh an idol of his own lusts, in that he honoureth them above God ; and he dishonoureth his brother in that he abuseth him, contrary unto the right use which God hath created him for, and Christ hath bought him for, which is to wait on God's commandments. For if the officer be otherwise minded than this, the worst of these subjects is made by the hands of him that made me, and bought with the blood of him that bought me, and therefore, my brother; and I but his servant only, to defend him, and to keep him in the honour that God and Christ hath set him, that no man dishonoureth him: he dis honoureth both God and man. And thereto, if any subject think any otherwise of the officer (though he be an emperor) than that he is but a servant only, to minister the office in differently, he dishonoureth the office, and God that ordained it. So that all men, whatsoever degree they be of, are every A true 9fficer man in his room1 servants to other, as the hand serveth the of God. " foot, and every member one another. And the angels of heaven are also our brethren, and very servants for Christ's sake, to defend us from the power of the devils. C1 Place, or office.]
 
 To do that God forbid deth is to dishonour God.
 
-OF WORSHIPPING THE SACRAMENTS. 59
+## Of Worshipping the Sacraments. 59
 
 And finally, all other creatures, that are neither angels £« [J^jjg nor man, are in honour less than man; and man is lord over to serve man. them, and they created to serve him, as scripture testifieth ; and he not to serve them, but only his Lord God and his Saviour Christ.
 
@@ -131,8 +122,6 @@ images, relics, ornaments, signs, or sacraments, holy days, ceremonies or sacrif
 
 [2 The C. U. L. ed. has given.']
 
-60 ANSWER TO SIR THOMAS MORELS DIALOGUE.
-
 ment in a book, or as if the preacher preached it unto me. And in like manner, if I make a cross in my forehead, in a remembrance that God hath promised assistance unto all that believe in him, for his sake that died on the cross, then doth the cross serve me, and I not it. And in like manner, if I bear on me or look upon a cross, of whatsoever matter it be, or make a cross upon me, in remembrance that whosoever will be Christ's disciple must suffer a cross of adversity, tribulations, and persecution, so doth the cross serve me, and I not it. And this was the use of the cross once; and for this cause it was, at the beginning, set up in the churches.
 
 The worshipAnd so, if I make an image of Christ, or of any thing that
@@ -141,7 +130,7 @@ ESJ-.W.T. Christ hath done for me, in a memory1, it is good, and not evil, until
 
 [l From the Latin word memoria, which had been used by Latin fathers for a shrine, or small chapel.]
 
-OF WORSHIPPING THE CROSS OR IMAGES. 61
+## Of Worshipping the Cross or Images. 61
 
 God tempteth us, to prove our patience ; this is plain idolatry : and here a man is captive, bond and servant unto a false faith, and a false imagination, that is neither God nor his word. Now am I God's only, and ought to serve nothing but God and his word. My body must serve the rulers of this world, My body
 
@@ -154,8 +143,6 @@ And such is that some hang a piece of St John s gospel their necks. And such is 
 [2 A coarse expression is here omitted.]
 
 [3 These were reckoned a charm against the burning of houses. In the service Ad laudes for Feb. 5, her day, the Roman Breviary says, "Paganorum multitudo fugiens ad sepulchrum virginis (scilicet Agathse) tulerunt velum ejus contra ignem ; ut comprobaret Dominus, quod a periculis incendii meritis beatse Agathse martyris suse eos liberaret." Besides which there is a legend, that when the emperor Frederic II. was bent on reducing Catana, her native city, to ashes, and was attending mass, he opened the book thrice at the time of reading the gospel, and each time these words appeared before his eyes in golden letters : " Offend not Agatha's native place, for she is the avenger of injuries ;" after which he did not dare to proceed with his purpose.]
-
-62 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 of gospels unto women in child-bed. Such is the limiter's1 saying of "In principio erat verbum2" from house to house. Such is the saying of gospels to the corn in the field, in the procession-week, that it should the better grow. And such is holy bread, holy water, and serving of all ceremonies and sacraments in general, without signification. And, I pray you, how is it possible that the people can worship images, relics, ceremonies and sacraments, save superstitiously ; so long as they know not the true meaning, neither will the pre lates suffer any man to tell them; yea, and the very meaning of some, and right use, no man can tell ? niches beAnd as for the riches that is bestowed on images and stowed on i«»»i»i»i reliCs, they cannot prove but that it is abominable, as long Wt Ti as the poor are despised and uncared for, and not first served ; for whose sakes, and to find preachers, offerings, tithes, lands, objection, rents, and all that they have, was given the spiritualty. They solution, will say, we may do both. May or not may, I see that the one most necessary of both is not done ; but the poor are be reaved of3 the spiritualty, of all that was in time past offered unto - them. Moreover, though both were done, they shall never prove that the sight of gold and silver and of precious stones should move a man's heart to despise such things, after the doctrine of Christ. Neither can the rich coat help to move ^orship thy mind to follow the ensample of the saint ; but rather, if idolatry. jje were pourtrayed as he suffered, in the most ungoodly wise. Which thing taken away, that such things with all other ser vice, as sticking up candles, move not thy mind to follow the ensample of the saint, nor teach thy soul any godly learning, then the image serveth not thee, but thou the image ; and so art thou an idolater, that is to say, in English, a serve-image. And thus it appeareth that your ungodly and belly doctrine, wherewith ye so magnify the deeds of your ceremonies, and of your pilgrimages, and offering, for the deed itself, to please God, and to obtain the favour of dead saints (and not to move you, and to put you in remembrance of the law of God, and of the promises which are in his Son, and to follow the ensample of the saint), is but an exhorting to serve images; and so are ye image-servers, that is, idolaters. And finally, the
 
@@ -175,8 +162,6 @@ God dwelleth not in temples made with hands (Acts xvii.). Item, Stephen died for
 
 [* Old editions, whatsomever.]
 
-64 ANSWER TO SIR THOMAS MORE*S DIALOGUE.
-
 of the Kings, when he had built his temple, testified the same, and that he had not built it for God to dwell in ; yea, and that God dwelleth not in the earth ; but that he should out of heaven hear the prayers of them that prayed there. And the prophets did often testify unto the people, that had such a false faith that God dwelt in the temple, that he dwelt not there. Moreover, God in his testament bindeth himself unto no place, nor yet thee ; but speaketh generally (concerning where and when), saying (Psalm xlix.)1, " In the day of the tribulation thou shalt call on me, and I will deliver thee, and thou shalt glorify me." He setteth neither place nor time ; but wheresoever and whensoever ; so that the prayer of Job upon the dunghill was as good as Paul's in the temple. And
 
 John xvi. when our Saviour saith (John xvi.), " Whatsoever ye ask my Father in my name, I will give it you ; " he saith not in this or that place, or this or that day ; but wheresoever and when soever, as well in the fields as in the town, and on the Monday, as on the Sunday. God is a Spirit, and will be worshipped
@@ -195,7 +180,7 @@ And in like manner, the ornaments, and all other cereornaments. monies, were eit
 
 "«/0 serve us, and serve them and preach unto them, and they not the works, «°^ ™.e the nor put any confidence therein.
 
-ANSWER TO SIR THOMAS MORELS DIALOGUE.
+## Answer to Sir Thomas Morels Dialogue
 
 Luke xviii.
 
@@ -233,8 +218,6 @@ But the prophets ever rebuked them for such faithless works, and for such false 
 
 5—2 what it is.
 
-68 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
-
 And for their false fasting, not referring their fast unto the taming and subduing of their flesh unto the spirit, when they complained unto God, justifying themselves, and saying, "Howhappeneth it that we have fasted, and thou wouldest not look upon it? we have humbled our souls, and thou wouldest iii. not know it?" God answered them by the prophet Isaiah, in superstitious the fifty-eighth chapter : "Behold, in the day of your fast ye do your own lusts, and gather up all your debts. And howsoever ye fast, ye neverthelater strive, and fight, and smite with fist
 
 True fasting, cruelly. I have chosen no such fast and humbling of soul, &c. : but that ye loose wicked bonds, and let the oppressed go free, and to break bread unto the hungry, and to clothe the naked," and so forth.
@@ -253,7 +236,7 @@ L1 So C. U. L. but D. has for.]
 
 [2 That is full of Jews. They were expelled from England by Edward I. in 1293 ; and were not suffered to reside in England from that date to the close of 1655, when Cromwell sanctioned their return.]
 
-INFLUENCE OF JEWS IN CHRISTIAN CHURCH. 69 making them forswear Christ : for fear of which persecution they fled into all coasts, and preached unto the Jews that were scattered ; proving that Jesus was Christ, the Saviour of the world, both by the scripture, and also by miracles; so that Many jews a great part of the Jews came to the faith everywhere, and we heathen came in shortly after; and part abode still in un- belief, as unto this day.
+INFLUENCE OF JEWS IN CHRISTIAN CHURCH. 69 making them forswear Christ : for fear of which persecution they fled into all coasts, and preached unto the Jews that were scattered ; proving that Jesus was Christ, the Saviour of the world, both by the scripture, and also by miracles; so that Many jews a great part of the Jews came to the faith everywhere, and we heathen came in shortly after; and part abode still in un-belief, as unto this day.
 
 Now the Jews being born and bred up, rooted and noselled in ceremonies, as I have shewed, and as ye may better see in the five books of Moses, if ye would read them, could but with great difficulty depart from them ; as it is to see in all the epistles of Paul how he fought against them, but in process3 they gat the upper hand. And thereto the first that were christened, and all the officers and bishops of the church, even so much as the great god of Rome4, were Jews for the most part, a great season.
 
@@ -262,8 +245,6 @@ And moreover, as Paul saith (Rom. ix.), " Not all that R0m.
 All that came came of Israel are right Israelites; neither are all they Abraham's sons that are Abraham's seed." Why so ? Be cause they followed not the steps of the faith of their grand fathers. Even so, not all they that were called, and also came unto the marriage, which God the Father made between Matt. xxii. Christ his Son and all sinners, brought their marriage-garment with them ; that is to wit, true faith, wherewith we be married unto Christ, and made his flesh and his blood, and one spirit with him, his brethren and heirs with him, and the sons of God also. But many of them (to fulfil the saying of Christ, that the kingdom of heaven, which is the gospel, is like a net that catcheth good and bad) were driven into the net, and compelled to confess that Jesus was Christ, and that The jews seed that was promised Abraham, and Messias that should un'Kandcome ; not of any inward feeling that the Spirit of God gave °fe[°^ but them, neither of any lovely consent that they had unto the Jjjjj byhthree" law of God, that it was good, mourning both because they scriPtureshad broken it, and because also they had no power to fulfil it, and therefore to obtain mercy and power, came to Christ, and unto the Father through him with the heart of natural chil dren, which receive all things freely of their father's bounteous
 
 [3 So the C. U. L. but D. has and in process gat &c.] [4 Meaning the bishop of Rome.]
-
-70 ANSWER TO SIR THOMAS MORE'S DIALOGUE.
 
 liberality, and of love become servants unto their brethren for their father's sake; but were compelled ^only with violence of the scripture, which everywhere bare witness unto Christ, and agreed unto all that he did, and overcome also^with the power of miracles that confirmed the same : that is to say, they came with a story faith, a popish faith, a faithless faith, and a feigned faith of their own making, and not as God in the scripture describeth the faith ; so believing in Christ, that they would be justified by their own deeds, which is the denying of Christ. As our papists believe, which, more mad than those Jews, believe nothing by reason of the scripture, but only that such a multitude consent thereto, compelled with violence of sword, with falsifying of the scripture, and The Turks feigned lies: which multitude yet is not the fifth part so greateranummany as they that consent unto the law of Mahomet ; and rapists. therefore, by their own arguments, the faith of the Turks is better than theirs. And their faith thereto may stand by their own confession with all mischief, (as it well appear eth by them,) and with yielding themselves to work all wickedness with full delectation, after the ensample of the faith of their father the devil, and without repentance and consent unto the law of God that it is good. Which popish thereto1 so believe in Christ, and so will be his servants, that they will be bound unto dumb ceremonies and dead works ; putting their trust and confidence in them, and hoping to be saved by them, and ascribing unto them the thank of their salvation and righteousness.
 
@@ -276,8 +257,6 @@ PROGRESS AND ABUSE OF CEREMONIES. 71 much as the sacrament of Christ's body and 
 As for confirmation, it is no doubt but that it came this wise up, and that this was the use ; which the word itself well declareth. We read in the stories, that they which were concon verted unto the faith of the age of discretion, were full taught how it came
 
 & first unto the in the law of God (as right is), and in the faith of our churchSaviour Jesus, ere they were baptized, and upon the pro fession or promising to keep that law and faith were bap tized. And then for the succour and help of young children, baptized before the age of discretion, to know the law of God and faith of Christ, was confirmation instituted, that they should not be alway ignorant and faithless, but be taught the profession of their baptism. And this no doubt was the manner, as we may well gather by probable conjectures and evident tokens : when the children were of six or seven years old, their elders brought them unto the priest or deacon in every parish, which officer taught the children what their baptism meant, and what they had professed therein ; that is to wit, the law of God, and their duty unto all degrees, and the faith of our Saviour. And then, because it should not be neglect or left undone, an higher officer, as the archdeacon (for it hath not been, as I suppose, in the bishop's hands alway as now, neither were it meet), came about from parish to parish at times convenient : and the priests brought the The manner children unto him, at eleven or twelve years old, before they of ch?idien.ng were admitted to receive the sacrament of Christ's body haply ; and he apposed3 them of the law of God and faith of Christ, and asked them whether they thought that law good, and whether their hearts were to follow it ? And they answered, Yea. And he apposed them in the articles of our faith, and asked them whether they put their hope and trust in Christ, to be saved through his death and merits ? And they answered, Yea. Then confirmed he their baptism, Thisisa saying, ' I confirm you ; that is, I denounce and declare, by [3 Questioned.]
-
-72 ANSWER TO SIR THOMAS MORELS DIALOGUE.
 
 the authority of God's word, and doctrine of Christ, that ye be truly baptized within, in your hearts and in your spirits, through professing the law of God and the faith of our Saviour Jesus, which your outward baptism doth signify ; and thereupon I put this cross in your foreheads, that ye go and fight against the devil, the world, and the flesh, under the standard of our Saviour, in the name of the Father, the Son, and the Holy Ghost. Amen/ Which manner I would to God, for his tender mercy, were in use this day.
 
@@ -307,8 +286,6 @@ unto the pillar, when he was scourged; and the corporis-cloth, cloth.
 
 [3 Sir Thomas More has said that Tyndale got his account of the meaning assigned to various ceremonies in the Romish ritual from " a good friar's book called Rationale divinorum." Confut. of Tyndale, fol. Ixv. The work thus described was doubtless the Rationale divi norum officiorum a R. D. Gulielmo Durando Mimatensi episcopo, J. U. D. clarissimo concinnatum. It is at the close of a whole chapter on the significations of the amice (amictus), that Durandus says : Amictus etiam reprsesentat operimentum, quo Judsei yelabant faciem Christi, dicentes, Prophetiza nobis, Christe, quis est qui te percussit? Lib. in. cap. 2. In like manner the last words of Durandus' next chapter, De alba, are : Hsec etiam vestis repreesentat albam vestem, in qua Herodes illusit Christo.]
 
-74 ANSWER TO SIR THOMAS MOIIE'S DIALOGUE.
-
 The aitar. the sindon wherein he was buried; and the altar is the cross, or haply the grave ; and so forth : and the casting abroad of his hands, the splaying of Christ upon the cross ; and the light and sticking up of candles, and bearing of candles or
 
 Matt. v. tapers in procession, haply signified this text, "Ye be the light of the world;" and, "Let your light so shine before men, that they may see your good works, and glorify your Father which salt. is in heaven." And the salt signifieth the wisdom of Christ's doctrine; and that we should therewith salt our deeds, and do nothing without the authority of God's word. So that in one thing or other, what in the garments, and what in the gestures, all is played; insomuch that before he will go to mass, he will g&. be sure to sell him, lest Judas's part should be left out.
@@ -331,9 +308,7 @@ Remember ye not how within this thirty years and far less, and yet dureth unto t
 
 [3 " I find from the answers to bishop Hooper's visitation, 155^, that there were scores of clergy who could not tell who was the author of the Lord's prayer, or where it was to be found. Such was the case of George Roo, the rector of Winchcomb, the largest town of this vicinity. I found this document of bishop Hooper's the other day." Letter of the late Geo. Stokes, Esq., to the editor. Dated, Chelten ham, June 22, 1846.]
 
-76 ANSWER TO SIR THOMAS MORELS DIALOGUE.
-
-And as soon as the signification of the ceremonies was lost, and the priests preached Christ no longer, then the com- mon people began to wax mad and out of their minds upon ignorance the ceremonies. And that trust and confidence, which the
+And as soon as the signification of the ceremonies was lost, and the priests preached Christ no longer, then the com-mon people began to wax mad and out of their minds upon ignorance the ceremonies. And that trust and confidence, which the
 
 ESS ceremonies preached to be given unto God's word and Christ's ere,iKHnes. ^^ thafc game ^^ turne(j unto the ceremony itself; as though a man were so mad to forget that the bush at the tavern-door did signify wine to be sold within, but would be lieve that the bush itself would quench his thirst. And so they became servants unto the ceremonies ; ascribing their justify ing and salvation unto them, supposing that it was nothing else to be a Christian man than to serve ceremonies, and him most Christian that most served them; and contrariwise, him that was not popish and ceremonial, no Christian man at all. For I pray you, for what cause worship we our spiritualty so highly, or wherefore think we their prayers better than the poor laymen's, than for their disguisings and ceremonies? Yea, and what other virtue see we in the -holiest of them, than to wait upon dumb superstitious ceremonies?
 
@@ -360,8 +335,6 @@ This I have declared unto you, that ye might see and feel every thing sensibly. 
 [3 Thenceforward.]
 
 [4 This well-known tale first appeared in Sir Thomas More's Dia logue, as an illustration of the mistakes which might arise from not distinguishing between a consequence and an effect.]
-
-78 ANSWER TO SIR THOMAS MORE's DIALOGUE. [CHAP.
 
 that the building of them and such like, through the false faith that we have in them, is the decay of all the havens in England, and of all the cities, towns, highways, and shortly of the whole commonwealth. For since these false monsters crope up into our consciences, and robbed us of the knowledge
 

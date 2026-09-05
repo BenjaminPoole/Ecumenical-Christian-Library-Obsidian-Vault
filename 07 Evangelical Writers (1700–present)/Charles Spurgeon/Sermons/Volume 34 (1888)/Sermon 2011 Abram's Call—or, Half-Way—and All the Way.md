@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Abram's Call—or, Half-Way—and All the Way
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2011
 
-DELIVERED ON LORD'S DAY MORNING, FEBRUARY 26, 1888,.
+*Delivered on Lord's Day Morning, February 26, 1888*
 
 > "And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his daughter-in-law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan. And they came unto Haran and dwelt there." Genesis 11:31.
 
@@ -156,7 +155,6 @@ We wish that all our converts would be out-and-out in their course of life. O yo
 Quit everything contrary to the Lord's mind and will. At all cost be true—then shall the Lord be your delight and His service shall be your Heaven below. If you are now separated unto Him, you shall find your reward in that day when He shall divide the sheep from the goats—for then you shall be placed at His right hand to hear Him say, "Come, you blessed of My
 
 Father."
-
 
 ---
 [[Sermon 2010 The Word a Sword|← #2010]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2012 Grace Abounding Over Abounding Sin|#2012 →]]

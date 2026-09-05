@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Exceeding Riches of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1665
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 18, 1882,.
+*Delivered on Lord's-Day Morning, June 18, 1882*
 
 > "That in the ages to come He might show the exceeding riches of His Grace in His kindness toward us through Christ Jesus." Ephesians 2:7.
 
@@ -140,7 +139,6 @@ Brothers and Sisters, if what we do know and what we do not know are added toget
 Oh that it now were shed abroad
 
 In these poor stony hearts." God grant it, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1664 Jehovah-Rophi|← #1664]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1666 The First Recorded Words of Jesus|#1666 →]]

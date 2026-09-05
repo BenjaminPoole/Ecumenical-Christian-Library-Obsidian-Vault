@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 38
 
-**CHAPTER 38**
+***Chapter 38***
 
 ## Isaiah 38:1-22
 

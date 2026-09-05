@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 102. Matthew 12:25-32; Mark 3:23-30; Luke 11:16-23; 12:10
-
-Matthew 12:25-32; Mark 3:23-30;  
-Luke 11:16-23; 12:10
 
 **25**. But as Jesus knew their thoughts, he said to them, [^1] Every kingdom divided against itself shall be laid waste; and every city or house divided against itself shall not stand. **26**. And if Satan casteth out Satan, he is divided against himself, and how then shall his kingdom stand? **27**. And if I, by the assistance of Beelzebub, cast out devils, by whose assistance do your children cast them out? therefore they shall judge concerning you. [^2] **28**. But if by the Spirit of God I cast out devils, then the kingdom of God has come to you. **29**. Otherwise, how can a man enter into the house of a strong man, and pillage his property, unless he first bind the strong man, and then he will pillage his house? **30**. He that is not with me is against me; and he that gathereth not with me scattereth. **31**. Therefore I say to you, All sin and blasphemy [^3] shall be forgiven to men; but the blasphemy against the Spirit shall not be forgiven to men. **32**. And whosoever shall speak a word against the Son of man, it shall be forgiven him; but he who shall speak against the Holy Spirit, it shall not be forgiven him, neither in the present life nor in the future.
 

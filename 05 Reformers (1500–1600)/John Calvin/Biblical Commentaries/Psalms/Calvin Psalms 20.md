@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 20
-
-**PSALM 20.**
 
 This psalm contains a common prayer of the Church in behalf of the King of Israel, that God would succor him in danger; and in behalf of his kingdom, that God would maintain it in safety, and cause it to prosper: for in the person of David the safety and well-being of the whole community centred. To this there is added a promise, that God will preside over that kingdom of which he was the founder, and so effectually watch over it as to secure its continual preservation.
 

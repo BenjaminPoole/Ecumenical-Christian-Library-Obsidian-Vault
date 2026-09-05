@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Fifth Beatitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3158
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed are the merciful: for they shall obtain mercy." Matthew 5:7.
 
@@ -27,7 +24,7 @@ I MUST take for granted the fact that you have heard the previous discourses upo
 
 Having noticed the rising of this Beatitude above the rest, we will now come to look at it more closely. It is necessary that we should be very guarded while speaking upon it and in order to be so, we will ask, first, who are these blessed people Secondly, what is their peculiar virtue And thirdly, what is their special blessingg
 
-I. WHO ARE THESE BLESSED PEOPLE—THE MERCIFUL THAT OBTAIN MERCY?
+## I. Who Are These Blessed People—the Merciful that Obtain Mercy?
 
 You remember that at the commencement of our homilies upon this Sermon on the Mount, we noticed that our Lord's subject was not how we are to be saved, but who are saved. He is not here describing the way of salvation at all. That He does in many other places, but He here gives us the signs and evidences of the work of Grace in the soul. We would greatly err if we should say that we must be merciful in order to obtain mercy and that we must only hope to get the mercy of God through first of all being merciful ourselves. Now, in order to put aside any such legal notion—which would be clean contrary to the entire current of Scripture and directly opposed to the fundamental Doctrine of Justification by Faith in Christ—I ask you to notice that these persons are already blessed and have obtained mercy! Long before they became merciful, God was merciful to them. And before the full promise was given them, as in our text, that they
 
@@ -92,7 +89,6 @@ It is said of them that "they shall obtain mercy." I cannot help believing that 
 And often it is true in another sense that those who have been merciful obtain mercy, for they obtain mercy from others. Our Savior said, "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that you mete withal it shall be measured to you again." There will be this sort of general feeling. If a man was sternly just and no more, when he comes down in the world, few pity him. But that other man, whose earnest endeavor it was to be the helper of others, when he is found in trouble, all say, "We are so sorry for him."
 
 But the full meaning of the text, no doubt, relates to that day of which Paul wrote concerning his friend, Onesipho-rus, "The Lord grant unto him that he may find mercy of the Lord in that day." Do not think that I am preaching up mercy as a meritorious work—I did my best at the outset to put all that aside. But, as an evidence of Grace, mercifulness is a very prominent and distinguishing mark. And if you need proof of that, let me remind you that our Savior's own description of the Day of Judgment runs thus, "Then shall the King say unto them on His right hand, Come, you blessed of My Father, inherit the Kingdom prepared for you from the foundation of the world: for I was hungry, and you gave Me food: I was thirsty, and you gave Me drink: I was a stranger, and you took Me in; naked, and you clothed Me: I was sick, and you visited Me: I was in prison, and you came unto Me." This, therefore, is evidence that they were blessed of the Father!
-
 
 ---
 [[Sermon 3157 The Fourth Beatitude|← #3157]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3159 The Sixth Beatitude|#3159 →]]

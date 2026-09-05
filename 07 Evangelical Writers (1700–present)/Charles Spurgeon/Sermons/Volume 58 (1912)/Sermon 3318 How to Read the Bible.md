@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # How to Read the Bible
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3318
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Till I come, give attendance to reading." 1 Timothy 4:13.
 
@@ -47,7 +44,7 @@ Everything must depend upon the Spirit speaking through it, for even the light o
 
 Our second precept is—
 
-II. READ AND MEDITATE.
+## II. Read and Meditate
 
 There is no exercise more out of fashion, nowadays, than meditation! And yet, to use Brookes' expression, "it is a soul-fattening duty." The cattle crop the grass, but the nutrition comes from the chewing of the cud! Reading is the gathering together of our food, but meditation is the chewing of the cud, the digesting, the assimilating of the Truth of God! I quarry out the Truth when I read, but I smelt the ore and get the pure gold out of it when I meditate! Ruth gleaned, but afterwards she threshed. The reader is the gleaner, but he who meditates is the thresher, too. For lack of meditation the Truth of God runs by us and we miss and lose it. Our treacherous memory is like a sieve—and what we hear and what we read runs through it and leaves but little behind—and that little is often unprofitable to us by reason of our lack of diligence to get thoroughly at it. I often find it very profitable to get a text as a sweet morsel under my tongue in the morning and to keep the flavor of it, if I can, in my mouth all day!
 
@@ -109,7 +106,7 @@ I would press this, in conclusion, upon some of you who are not converted. Often
 
 Read God's love in the Book of Atonement upon the Cross, written in the crimson lines of the Savior's flowing blood and streaming veins! Look to Christ and trust in Him, and you shall live! May God bless you for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:105-115.
+## Exposition by C. H. Spurgeon: Psalm 119:105-115
 
 Verse 105. Your Word is a lamp unto my feet, and a light unto my path We are walkers through the city of this world and we are often called to go out into its darkness—let us never venture there without the light-giving Word of God, lest we slip. Each man should use the Word of God personally, practically and habitually, that he may see his way and see what lies in it. When darkness settles down upon all around me, the Word of the Lord, like a flaming torch, reveals my way. We would not know the way, or how to walk in it, if Scripture, like a blazing flambeau, did not reveal it. It is a lamp by night, a light by day and a delight at all times! David guided his own steps by it and also saw the difficulties of his road by its beams.
 
@@ -132,7 +129,6 @@ Verse 105. Your Word is a lamp unto my feet, and a light unto my path We are wal
 114\. You are my hiding place and my shield: I hope in Your Word. To his God he ran for shelter from vain thoughts! There he hid himself away from their tormenting intrusions and in solemn silence of the soul he found God to be his hiding place. When called into the world, if he could not be alone with God as his hiding place, he could have the Lord with him as his shield—and by this means he could ward off the attacks of wicked suggestions.
 
 115\. Depart from me, you evildoers: for I will keep the commandments of my God. If we fly to God from vain thoughts, much more shall we avoid vain men. Evildoers make evil counselors. Those who say unto God, "Depart from us," ought to hear the immediate echo of their words from the mouths of God's children, "Depart from us. We cannot eat bread with traitors."
-
 
 ---
 [[Sermon 3317 A Sweet Bow|← #3317]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3319 The Well-beloved's Vineyard|#3319 →]]

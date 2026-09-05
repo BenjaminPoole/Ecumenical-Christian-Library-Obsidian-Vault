@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 49. Of Vocation and Calling
 
 #### DCCCXLVII.
@@ -32,7 +31,7 @@ Bonaventura was but a poor sophist, yet he could say: He that neglects occasion 
 
 Germany would be much richer than she is, if such store of velvets and silks were not worn, nor so much spice used, or so much beer drunk. But young fellows without their liquor have no mirth at all; gaming makes not merry, nor lasciviousness, so they apply themselves to drinking. At the princely jollification lately held at Torgau, each man drank, at one draught, a whole bottle of wine; this they called a good drink. Tacitus wrote, that by the ancient Germans it was held no shame at all to drink and swill four and twenty hours together. A gentleman of the court asked: How long ago it was since Tacitus wrote this? He was answered, about fifteen hundred years. Whereupon the gentleman said: Forasmuch as drunkenness has been so ancient a custom, and of such a long descent, let us not abolish it.
 
-THE END
+## The End
 
 ---
 [[Luther TT 48 Of Countries and Cities|← 48. Of Countries and Cities]] · [[Library/protestant reformers/Martin Luther/Table Talk/tabletalk-index|Contents]]

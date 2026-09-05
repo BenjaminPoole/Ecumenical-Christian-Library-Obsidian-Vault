@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Satan, Self, Sin and the Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3306
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He asked him, What is your name? And he answered, saying, My name is Legion: for we are many." Mark 5:9.
 
@@ -85,7 +82,7 @@ So surely you that love His name
 
 Shall triumph in Him too"— even though your foes are named Legion, for they are many. God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK5.
+## Exposition by C. H. Spurgeon: Mark 5
 
 Verses 1-6. And they came over unto the other side of the sea, into the country of the Gadarenes. And when He was come out of the boat, immediately there met Him out of the tombs a man with an unclean spirit, who had his dwelling among the tombs; and no man could bind him, no, not with chains: because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him. And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones. What a pitiful object this poor creature must have been—a terror to the whole region! So far as man was concerned, he was in an utterly hopeless condition, yet there was hope for him, for Jesus had crossed the sea apparently with the special purpose of healing him! Our Savior had proved His power over the winds and waves and He was about to show that demons were equally subject to His control.
 
@@ -160,7 +157,6 @@ and trembling because she perceived the imperfection of her way of approaching t
 42, 43. For she was of thee age of twelve years. And theey were astonished with a great astonishment. And He charged them immediately that no man should know it. He did not want to blaze abroad the story of these wondrous deeds of His. The crowd was already inconveniently large, so that "He charged them immediately that no man should know it."
 
 43\. And commanded that something should be given her to eat. She might have continued to live by a miracle as she had been miraculously raised from the dead, but it was needless, and Christ never worked an unnecessary miracle. Do not look for miracles when ordinary means will suffice. "He commanded that something should be given her to eat." When life is given or restored, the next thing needed is nourishment! When you are made spiritually to live, be sure to attend a soul-feeding ministry—and diligently read the Word—that you may get all necessary nourishment for your soul out of it.
-
 
 ---
 [[Sermon 3305 A Clear Understanding|← #3305]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3307 Over the Mountains|#3307 →]]

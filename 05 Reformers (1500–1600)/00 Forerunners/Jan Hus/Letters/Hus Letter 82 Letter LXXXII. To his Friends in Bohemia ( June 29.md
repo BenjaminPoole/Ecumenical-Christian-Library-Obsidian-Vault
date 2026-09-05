@@ -11,20 +11,17 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 82. Letter LXXXII. To his Friends in Bohemia ( June 29, 1415)
-
-LETTER LXXXII. TO HIS FRIENDS IN BOHEMIA ( June 29, 1415)
 
 Last greetings to sundry friends 273-5
 
 SIGISMUND'S INTENDED JOURNEY; HUB'S FINAL DECLABATION; A LABT EFFORT TO PROCURE RECANTATION; THE ADVICE OF CHLUM; THE ANSWER OF Hus; THE CONDEMNATION, DEGRA DATION, AND EXECUTION OF Hus 276-80
 
-APPENDIX A. A DOUBTFUL LETTER CONCERNING THE CUP . 281-3
+## Appendix A. A Doubtful Letter Concerning the Cup . 281-3
 
 APPENDIX B. TABLE OF DATES AND NUMBERS IN THIS EDITION, PALACKY , AND THE Monumenta ..... 284-6
 
-INTRODUCTION
+## Introduction
 
 The Letters of Hus have long been recognised by the best judges as one of the world's spiritual treasures. The discovery of Hus, if we may so express it, forms more than once a landmark in the spiritual development of Luther.
 
@@ -42,7 +39,7 @@ Luther is not alone in his judgment. The Letters of Hus, in the verdict of Bisho
 
 1 Creighton, Papacy, ii. 22. Creighton refers especially to the Letters in Part III., which some may think the least interesting of all.
 
-4 INTRODUCTION
+## 4 Introduction
 
 ' Was "Wyclif crucified for us ? were we baptised in his name?'
 
@@ -50,7 +47,7 @@ The case is otherwise with Hus's Letters, eightytwo1 of which have escaped the r
 
 1 Of these, sixty-six — one of which, however, is spurious — are to be found in the Monumenta, and were translated by Bonnechose and Mackenzie ; nine were first printed by Hb'fler ; the rest were discovered and edited at different times by Fez, Erben, and Falacky.
 
-Part L— Letters Written Before the Death of Archbishop Zbinek
+## Part L— Letters Written Before the Death of Archbishop Zbinek
 
 (June 30, 1408— September 28, 1411)
 
@@ -82,9 +79,9 @@ Among these Realists or Wyclifists we must already reckon John Hus. In a Taborit
 
 Hitherto any part that Hus may have taken in the controversy over Wyclif had been political rather than religious. But in 1408 circumstances arose which compelled Hus, in spite of himself, to place himself at the head of the Bohemian Lollards, though he probably still deceived himself by imagin ing that they were but Czech Realists. This con tinued unconsciousness of whither he was drifting, together with the drift itself, is brought out very clearly in the first letter of Hus preserved for us, written in the early summer of 1408. From this point we shall leave the Letters, as far as possible, to tell their own story, adding only such connecting narratives and notes as may be needful to bind together these living fragments into an intelligible whole.
 
-DEATH OF ARCHBISHOP ZBINEK 11
+## Death of Archbishop Zbinek 11
 
-LETTEE I
+## Lettee I
 
 ARCHBISHOP ZBINEK ZAZIC OF HASENBURG had been elected while still young to the metropolitan see of Prague (Novem ber 29, 1402). The choice was a mistake. As a prelate Zbinek was weak though well-intentioned, more at home in the camp than in the council-chamber, little fitted to guide the Church of Bohemia in the complex struggle into which it had entered. A Czech himself, he was at first inclined to sympathise with the Czech reformers or nationalists. At one time, as this letter shows, Hus enjoyed the complete confidence of the Archbishop. In 1405 Zbinek appointed Hus the special preacher before the Bohemian Synod. In the same year he nominated Hus to serve on a commission to investigate certain frauds carried on at Wilsnack, a village of Brandenburg, in connection with a relic of the blood of Christ. In 1407 Zbinek gave proof of the con tinuance of his friendship by once more appointing Hus the special preacher to the Synod. The sermons which Hus preached on these occasions have been preserved, and show no signs of revolt. The preacher confined himself to the stock theme of the vices of the clergy, sheltering himself, as was usual in such discourses, behind the authority of St. Bernard. But the events of 1408, and the pronounced part that thenceforth Hus took in the spread of Wyclif's doctrines, turned the Archbishop's favour into enmity. This letter of Hus, which the impartial critic will probably condemn as somewhat lacking in respect, contributed no doubt to the growing estrangement.
 

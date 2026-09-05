@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Memory—The Handmaid Of Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 654
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 15, 1865,.
+*Delivered on Sunday Morning, October 15, 1865*
 
 > "This I recall to my mind, therefore ha ve I hope." Lamentations 3:21.
 
@@ -154,7 +153,6 @@ He is the foundation as well as the pinnacle. He commences with you as the green
 Look to Him as you are—black, foul, guilty, leprous, condemned. Go as you are! Trust Jesus Christ to save you and remembering this, you shall have "a hope that makes not ashamed," which shall endure forever. I have labored to speak comfortable words and words in season and I have tried to speak them in homely language, too. But, O Comforter, what can we do without You? YOU must cheer our sadness. To comfort souls is God's own work! Let us conclude, then, with the words of the Savior's promise, "If I go away, I will send you another Comforter, who shall abide with you forever." And let our prayer be that He would abide with us to His own Glory and to our comfort forevermore. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Lamentations 3:1-33.
-
 
 ---
 [[Sermon 0653 A Blow For Puseyism|← #653]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0655 The Great Itinerant|#655 →]]

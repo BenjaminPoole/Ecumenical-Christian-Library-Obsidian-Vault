@@ -10,10 +10,9 @@ written: "1746"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-CONCERNING THE NATURE OF THE AFFECTIONS AND THEIR IMPORTANCE IN RELIGION.
+*Concerning the Nature of the Affections and Their Importance in Religion*
 
 1 Peter i. 8.
 

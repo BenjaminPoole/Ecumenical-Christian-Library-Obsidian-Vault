@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # 'A Prepared Place for a Prepared People'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2751
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I go to prepare a place for you." John 14:2.
 
@@ -99,7 +96,7 @@ I have no time for the other part of the sermon. You must come again to hear abo
 
 May the Lord bring us all safely there, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14:1-12; COLOSSIANS 1:1-19.
+## Exposition by C. H. Spurgeon: John 14:1-12; Colossians 1:1-19
 
 John 14:1. Let not your heart be troubled: This is one of those verses that you may read as slowly as you like and spell out every letter and find honey in it all.
 
@@ -130,7 +127,6 @@ Colossians 1:1-14. Paul an Apostle of Jesus Christ by the will of God, and Timot
 15\. Who is the image of the invisible God. Admire this delightful passage in which the Apostle seems to burn and glow while he describes his Lord and Master, "who is the image of the invisible God."
 
 15-19. The first-born of every creature: for by Him were all things created, that are in Heaven, and that are on earth, visible and invisible, whether they are thrones, or dominions, or principalities, or powers: all things were created by Him and for Him: and He is before all things, and by Him all things consist And He is the Head of the body, the Church: who is the beginning, the first-born from the dead; that in all things He might have the preeminence. For it pleased the Father that in Him should all fullness dwell Blessed be His glorious name! Amen.
-
 
 ---
 [[Sermon 2750 A Door of Hope|← #2750]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2752 The Door|#2752 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # 'The Time of Jacob's Trouble'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2645
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is even the time of Jacob's trouble; but he shall be saved out of it." Jeremiah 30:7.
 
@@ -115,7 +112,7 @@ But perhaps there is some poor soul here saying, "I have not got any comfort out
 
 Do you trust Him? Then you are saved! Your sin is gone—it is buried in His sepulcher. God has forgiven you all your transgressions for Jesus' sake! Go on your way rejoicing! "This is the time of Jacob's trouble; but he shall be saved out of it." God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM31.
+## Exposition by C. H. Spurgeon: Psalm 31
 
 To the chief Musician, A Psalm of David.
 
@@ -154,7 +151,6 @@ Verse 1. In You, O LORD, do I put my trust. Is that true of you, dear Friends? N
 21, 22. Blessed be the LORD: for He has showed me His marvelous kindness in a strong city. For I said in my haste, I am cut off from before Your eyes: nevertheless You heard the voice of my supplications when I cried unto You. "If we believe not, yet He abides faithful: He cannot deny Himself." The Psalmist was full of doubts and he said, "I am cut off," but, nevertheless, God heard the prayer of His poor mistrusting servant and brought him out of his distresses!
 
 23, 24. Olove the LORD, allyou His saints: for the LORD preserves the faithful, and plentifully rewards theproud doer. Be of good courage, and He shall strengthen your heart, allyou that hope in the LORD.
-
 
 ---
 [[Sermon 2644 The Last Words of Christ on the Cross|← #2644]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2646 The Baptist's Message|#2646 →]]

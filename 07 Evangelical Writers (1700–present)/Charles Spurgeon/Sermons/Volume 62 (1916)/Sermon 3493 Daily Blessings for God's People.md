@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # Daily Blessings for God's People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3493
@@ -27,7 +26,7 @@ Let us come to these two verses, and remark that *they remind us first of the me
 
 Let us begin then, and contemplate for a few moments:—
 
-I. THE MERCIES OF OUR LIFE.
+## I. The Mercies of Our Life
 
 The text saith, "He daily loadeth us with benefits." Let us keep to the English version just now. Take the words of it. What is it that he gives us— Benefits. We have a very beautiful word in the English language—benevolence. You know that means good wishing, *bene volens.* He may be a benevolent man who is not able to do any act of kindness, to give any of his substance away for lack of any. But God's goodness to us is not merely *bene volens,* in which he wishes us well, but it is beneficence or good doing. His gifts and benefits are deeds of goodness, acts of goodness. He doth to us that which is good. He doth not only wish us well, and speak to us well, and direct us well, but he doeth well unto us. He doth not only say, "I pity thy last estate," but he delivers the lost out of their ruin. He doth not say, as the churl doth, "Be thou warmed, and be thou filled," and do no more, but, wishing us well, he doth well unto us; he warms cur hearts with his love, and fills them with his mercy, and sends us on our way rejoicing. It is true God speaks us well. What more could he say than, to us, he has said in his blessed Word? It is true he wishes us well. "As I live, saith the Lord, I have no pleasure in the death of him that dieth, but had rather that he turn unto me and live." But the essence of his goodness lies in this, that he goes beyond wishes and words into acts.
 
@@ -59,7 +58,7 @@ And then the text adds that he is "the God of our salvation." In this life we ou
 
 And then it is added beyond that, *"our* God." God is ours. He that is our God is the God of salvation. His omnipotence and omniscience, his immutability and his faithfulness—all his attributes are ours. The Father is ours; the Son is ours; the Spirit is ours. The God of election is ours; the God of redemption is ours; the God of sanctification is ours. Oh! with all this, how can we be cast down? Why should we repine! We have certainly abounding cause for blessing and praising the Lord. Those are the mercies If life. And now for a few minutes let us contemplate:—
 
-II. THE MERCIES OF DEATH.
+## II. The Mercies of Death
 
 "Unto God belong the issues from death." This may mean several things. We will include its meanings under these heads. Unto God belong escapes from death. Oh! blessed be his name, we may come very near the grave, and the jaws of death may be open to receive us; but the pit cannot shut her mouth upon us until our hour is come.
 
@@ -87,7 +86,7 @@ But the text may mean something more. Unto God belong the issues from death; tha
 
 And then this further thought. The issues from death grasp *all that comes after death.* The spirit issues from death—never touched by it indeed. Leaving the body behind a while, the spirit enters into a glory, waiting for the fulness. Then when Christ descends, and the trumpet sounds, and the dead in Christ rise in the first resurrection, then shall the re-united manhood enter into the fulness of the glory with a manifested Saviour. These issues from death belong to God, and God secures them to his people. He shall give them to them for whom he has appointed them. He shall give them to those whom he has made worthy by his grace to be partakers of this heritage. They belong to him—not to us by merit, but they are his gifts by covenant and by grace. Oh! then, how sweet it is to think, "The path down to the grave, my God has planted it. It is all his—all his own; and when my turn shall come to go into that garden wherein is the sepulchre, I shall be in my Father's territory." Jesus Christ is Lord of the sick-bed. He makes the bed of his people in their affliction. Even down to the borders of the grave—to the edge of Jordan's river—it is all Immanuel's land; and he often makes it the land of Beulah. And then, when I dip my foot in that chill stream, it is still my Master's country. I am not out of the presence of the Lord of life now I am coming to the land of death-shade and through the river, but it is the Master's river still, and, on the other side, it is my Lord's own land. When the shining ones shall meet me to conduct me up to the jewelled "city that hath foundations, whose builder and maker is God," I shall be always at home, always in my Father's country, never an exile, never come upon a tract of territory over which he hath no power. "Though I walk through the valley of the shadow of death, I will fear no evil, for he is with me. His rod and his staff, even there have they sway, and they shall comfort me." Be of good cheer, beloved. "Goodness and mercy shall follow you all the days of your life," and, life being ended, you shall "dwell in the house of your God for ever." In life and in death, you shall prove the tokens of his special love. And now we wind up with this. Here is:—
 
-III. THE COMMON OCCUPATIONS OF BOTH CONDITIONS.
+## III. The Common Occupations of Both Conditions
 
 "I will praise thee in life
 
@@ -106,7 +105,6 @@ And, dear brethren, to close. Let me remark that if we praise God ourselves by w
 To say,"Behold the Lamb!"
 
 and in this way you will be setting other tongues a-praising God, so that when your tongue is silent, there shall be others that will take up the strain. Labour for this, beloved, every one of you. Labour for the extension of the choir that shall sing the praises of the Saviour I trust we shall never fall into that narrow-minded spirit which seems to say, "It is enough for me if I am saved, and if those that go to my little place of worship are all right. It is quite enough." No, Master, thy throne is not to be set up in some little conventicle in a back street, and there alone. Thou are not to reign in some little corner of a city, and there alone Thou art not to take this island of Great Britain, and reign in it alone; nor in Europe—in one quarter of the earth alone. Let the whole earth be filled with his praise! And what Christian heart will refuse to say, "Amen and amen"? God grant it may be so! Amen.
-
 
 ---
 [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3494 Divine Destruction and Protection|#3494 →]]

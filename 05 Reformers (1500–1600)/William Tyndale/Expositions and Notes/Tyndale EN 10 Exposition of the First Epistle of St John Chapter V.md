@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 10. Exposition of the First Epistle of St John: Chapter V
 
-THE FIFTH CHAPTER.
+*The Fifth Chapter*
 
 All that believe that Jesus is Christ are born of God. And all that love him which begat, love him that is begotten of him. In this we know that we love the sons of God, when we love God and keep his commandments. For this is the love of God, that we keep his commandments.
 
@@ -64,8 +63,6 @@ John calleth the love of a man's neighbour the deeds of love, after the Hebrew s
 ' . forth and master doctor or God's vicar; neither understandeth he God's declare faith.
 
 word, for all his high divinity ; but is in all his preaching an hypocrite, a false prophet, and a liar, though his preaching please the world never so well. Nevertheless, a man is certified that he loveth God, ere he come at the work, by the testimony of the Spirit, which is given him in earnest. "The Spirit," saith Paul, "testifieth unto our spirit, that we be Rom. viu. the sons of God:" and then it testifieth that we believe in God ; for through faith are we sons. And then it certifieth me that I love God ; for faith and love are inseparable. The Spirit through faith certifieth my conscience that my sins are forgiven, and I received under grace, and made the very son of God, and beloved of God: and then naturally mine heart breaketh out into the love of God again, and I seek how to utter my love, and to do God some pleasure ; and because I can neither do service nor pleasure unto his own person, my neighbour is set before me, to do God service and pleasure in him, and to be to him as Christ is to Jomyl^hme, because he is my brother, bought with Christ's blood as o'od' go^ '*" I am. And I consent unto that law, and love it, ere I come at aw!^. [2 So P. C. L., but in D. this sentence concludes with help at need.}
-
-208 EXPOSITION OF THE [cHAP.
 
 the deed, and long after the deed. And then, when I love my neighbour in the deed, according to this law, I am sm*e that I love him truly. Or else, if I examined not my love by this law, I might be deceived. For some love their neighbours for pleasure, profit, glory, and for their doing service only, as our spiritually love us, and of that blessed love do their busy cure ' to keep us in darkness ; which love is a sign that a man hateth God, and his neighbour thereto, and loveth himself only. But God's law is, that I should abstain from mine own pleasure and profit, and become my neighbour's servant, and bestow life and goods upon him, after the ensample of Christ. Wherefore if I love my neighbour out of the love of Christ, and after the example of his law, I am sure that 1 love him truly.
 
@@ -129,7 +126,7 @@ But the unbelievers blaspheme God, and make him false, describing him after the 
 
 [3 Thus D., but P. 0. L. has when instead of so.]
 
-V. 9 15.] FIRST EPISTLE OF ST JOHN. 211
+## V. 9 15.] First Epistle of St John. 211
 
 And because they be so full stuffed with Ues that thev can ' o"i-
 
@@ -181,8 +178,6 @@ receive we all. And as he poureth the gifts of his grace upon ^i"^'
 
 them that believe in him, so he giveth them understanding to l^id.'
 
-214: EXPOSITION OF THE [cHAP.
-
 know the very God, and that they be in the very God, and that they have obtained that through his purchasing ; and leaveth not his sheep in darkness. And the same Jesus
 
 Christ is very God and eternal life : God and eternal life was he from the beginning, and became man for the great love he s^kJih any ^^^.d to US, for to bring us unto his eternal life. And he that to eternli^ hath auy other way thither, whether his own works, or other than by"' mcu's, Or works of ceremonies, or sacraments, or merits of never come saiuts, or of aught savo Jesus Christ only, shall never come there. ' o t/ '
@@ -213,8 +208,6 @@ We read in the histories, that when a love-day ^ or a truce, was made between ma
 
 [3 See Vol. I. p. 440.]
 
-216 EXPOSITION OF THE [cHAP.
-
 Sacraments EvGii SO our images, relics, ceremonies and sacraments, monies were wcre our memorials and signs of remembrance only ; and ordained ,, .,.,., , , ,.
 
 only for reho that giveth itt his heart more to them than that, is an merabrances. , "-'
@@ -229,7 +222,7 @@ Anted. written in thine heart, why distributest thou not unto thy brethren with 
 
 [1 It appears from the Britannia Sancta, a work published by Meighan, a Romish bookseller, Lond. 1745, that our countrymen were wont to venerate a St Witta, there said to have been 'a fellow-labourer of Boniface' (or Winfrid the Saxon) 'in Germany, and consecrated by him bishop of Biu-aburg near Fritzlar. Some authors call him Albuin, by changing his name, which signifies White, into a Latin name.' Brit. Sane. par. n. p. 221. The apparently feminine termination of this saint's Saxon name was probably the cause of his being supposed to be a female by persons who did not know his history. In Bishop Hooper's works. Park. Soc. ed. p. 320, White is spoken of as a male saint.]
 
-V. 21.] FIRST EPISTLE OF ST JOHN. 217
+## V. 21.] First Epistle of St John. 217
 
 Jesus Christ, which died both for them and thee, as thou hast vowed and promised to him in thy baptism ?
 
@@ -281,8 +274,6 @@ Johanni Baptistae, Sanctis apostolis Petro et Paulo, omnibus Sanctis, Ant. ed. e
 
 [s "But [the power belongs] to the priests only, to whom it is so fitted, that they may take [this power], but not give it to others."]
 
-222 EXPOSITION OF THE [cHAP.
-
 of Christ, to mock our seeing, smelling, feeling, and tasting ; which is a very strong faith, and more a great deal (I think) than the text compelleth a man to^] Nevertheless it were somewhat yet, if they had been as loving, kind, careful and diligent to teach the people to repent, and to believe in the blood of Christ for the forgiveness of their sins, unto the glory of the mercy of God, and of his exceeding love to us, and unto the profit of our souls ; and, upon that preaching, to have ministered the sacrament as a memorial, remembrance, sign, token, earnest, the seal of an obligation, and clapping of hands together, for the assurance of the promise of God ; to quiet, stabUsh and certify our consciences, and to put us out of all wavering and doubt, that our sins were forgiven us, and God become our father and at one with us, for which cause only Christ ordained it; [as they were zealous and fervent Half of the to maintain the opinion of so turning bread and wine into ^^ept^from tho body and blood of Christ, that it ceaseth to be bread and ^Led. wine in nature, unto their own glory and profit, without help of scripture, but with subtle arguments of sophistry and with crafty wiles: first, with taking away half the sacrament, lest, if the people should have drunk the blood of Christ, they should have smelled the savour and felt the taste of wine, and so have been too weak to believe that there had been no wine ; and secondarily, when they durst not rob the people of all the sacrament, they yet took away common bread, and imagined maunchets which may not be handled, and in sight have no similitude of bread, and in eating very Httle taste, if there be any at all ; and thirdly, whom they could not catch with those crafts, against him they disputed with the sword.] For when they had^ taken away the signification and very intent of the sacrament, to stablish the ear-confession, their merits, deservings, justifying of works, and hke invention, unto their own glory and profit; what had the sacrament been, if they had not made of that opinion an article of the faith^? But now, when they have destroyed,
 
 [1 Those passages in this page and in the remainder of this exposition which are included within brackets are found in D., but not in the earlier P. C. L. edition.]
@@ -297,7 +288,7 @@ V. 21,] FIRST EPISTLE OF ST JOHN. 223 for the nonce, that faith which profited, 
 
 But who Cometh thither with repentance and faith, for to obtain forgiveness of his sins, and with purpose to walk in the life of penance for the taming of the flesh, that he sin no more ; and to stabUsh his heart in that purpose, and to arm his soul agadnst all that move to the contrary ; and when he goeth home, is certified in his conscience, through that sign and token, that his sins are forgiven him : as Noah was certified by the sign of the rainbow, that the world should no more be overrun with water : and as Abraham was certified by the The fruufui
 
-' "z and profit- sign of circumcision, that God would fulfil to him and his ^f tle*^^* offspring all the mercies that he had promised ; and as Abrakep"t1r"m ham, when he asked a sign, to be sure that he should possess Tnt. ed. the land of Canaan, was certified through the sign that God gave him thereof, and of the four hundred years, that his posterity should be in thraldom in Egypt, and of their de-
+' "z and profit-sign of circumcision, that God would fulfil to him and his ^f tle*^^* offspring all the mercies that he had promised ; and as Abrakep"t1r"m ham, when he asked a sign, to be sure that he should possess Tnt. ed. the land of Canaan, was certified through the sign that God gave him thereof, and of the four hundred years, that his posterity should be in thraldom in Egypt, and of their de-
 
 [* So P. C. L., but in D. when is substituted for seeing.] liverance ; and as Gideon was certified, bj the sign of his fleece, of the victory that God had promised him ; and as many other, that believed in God, were certified by the signs that God gave them, of the promises which God made them ? Verily, no man. For our prelates, which lay for themselves, Compelle intrare^, compel not us to enter into any such feast, nor will suffer any such meat to be set before us, for fear of overthrowing the foundation of their false building, whereof springeth so great glory and profit unto them; which foundation, to build their lies upon, they could never have laid, except they had first thrust this doctrine, of our soul's health, clean out of knowledge. And as soon as they had blinded the light, they became leaders in darkness, and made of the mass image-service ; so that the strange holy gestures, [and the strange holy voices, and strange holy vestures, with all other strange holy ceremonies,] must be meritorious works, to deserve long life, health, riches, honour, favour, dignity, and abundance of all that we have, forsaking our baptism, and to arm us from bearing of the cross with Christ. And they have made of it a pill, of two contrary operations ; so that the same medicine, that preserveth our souls from purgatory, doth purge the body of house, lands, rents, goods and money, [that it is made as bare as Job, and as bald as a coot^.] And the light that rebuketh them, they call seditious, that it maketh the subjects to rise against their princes : which thing the hypocrites laid some time unto the prophets, as ye may see in the old Testament ; and at last they laid it unto Christ's charge, as ye may see in the gospel ; and to the charge of the apostles, as ye may see in the Acts. But at all such times the hypocrites themselves stirred up such a sword, to maintain their falsehood, that evermore a great part of the world perished through their own mischievous [incensing and] provoking princes to battle.
 

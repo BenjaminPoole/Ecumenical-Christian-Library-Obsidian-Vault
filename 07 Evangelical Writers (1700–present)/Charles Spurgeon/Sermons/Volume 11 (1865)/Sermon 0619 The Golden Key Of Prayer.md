@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Golden Key Of Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 619
 
-DELIVERED ON SUNDAY MORNING, MARCH 12, 1865,.
+*Delivered on Sunday Morning, March 12, 1865*
 
 > "Call unto Me and I will answer you and show you great and mighty things, which you know not." Jeremiah 33:3.
 
@@ -69,7 +68,7 @@ When we enjoy visitations from on high we should be peculiarly constant in praye
 
 II. Let us now take the second head—AN ANSWER PROMISED. We ought not to tolerate for a minute the ghastly and grievous thought that God will not answer prayer! His Nature, as manifested in Christ Jesus, demands it. He has revealed Himself in the Gospel as a God of love, full of Grace and truth. And how can He refuse to help those of His creatures who humbly, in His own appointed way, seek His face and favor? When the Athenian senate upon one occasion found it most convenient to meet together in the open air, as they were sitting in their deliberations, a sparrow, pursued by a hawk, flew in the direction of the senate.
 
-Will He give the invitation to us to seek His face and when we, as He knows, with so much trepidation of fear, yet summon courage enough to fly into His bosom—will He then be unjust and ungracious enough to forget to hear our cry and to answer us? Let us not think so harshly of the God of Heaven! Let us recollect next His vast Character as well as His Nature. I mean the Character which He has won for Himself by His past deeds of Grace. Consider, my Brothers and Sis- ters, that one stupendous display of bounty—if I were to mention a thousand I could not give a better illustration of the Character of God than that one deed—"He that spared not His own Son, but freely delivered Him up for us all." And it is not my inference only, but the inspired conclusion of an Apostle—"How shall He not with Him also freely give us all things?"
+Will He give the invitation to us to seek His face and when we, as He knows, with so much trepidation of fear, yet summon courage enough to fly into His bosom—will He then be unjust and ungracious enough to forget to hear our cry and to answer us? Let us not think so harshly of the God of Heaven! Let us recollect next His vast Character as well as His Nature. I mean the Character which He has won for Himself by His past deeds of Grace. Consider, my Brothers and Sis-ters, that one stupendous display of bounty—if I were to mention a thousand I could not give a better illustration of the Character of God than that one deed—"He that spared not His own Son, but freely delivered Him up for us all." And it is not my inference only, but the inspired conclusion of an Apostle—"How shall He not with Him also freely give us all things?"
 
 If the Lord did not refuse to listen to my voice when I was a guilty sinner and an enemy, how can He disregard my cry now, that I am justified and saved? How is it that He heard the voice of my misery when my heart knew it not and would not seek relief, if after all He will not hear me now that I am His child, His friend? The streaming wounds of Jesus are the sure guarantees for answered prayer. George Herbert represents in that quaint poem of his, "The Bag," the Savior saying—
 
@@ -144,7 +143,6 @@ Now, this word to close with. Some of you are seekers for your own conversion. G
 Young man, I say, Try the Lord! Young woman, prove Him—see whether He is true or not! If God is true, you cannot seek mercy at His hands through Jesus Christ and get a negative reply. He must—for His own promise and Character bind him to it—open Mercy's gate to you who knock with all your heart! God help you, believing in Christ Jesus, to cry aloud unto God and His answer of peace is already on the way to meet you! You shall hear Him say, "Your sins, which are many, are all forgiven." The Lord bless you for His love's sake. Amen.
 
 [NOTE—In a former sermon, while denouncing the error of the "non-confession of sin by Believers," we wrongly imputed that gross heresy to the Plymouth Brethren. We have since learned that the persons to whom we alluded have been expelled from that body and we therefore desire to exonerate the community from a fault of which they are not guilty. We are sorry to have made this charge, as it is far from our wish to speak evil of any, but we were not aware of the expulsion of the guilty persons.]
-
 
 ---
 [[Sermon 0618 The Great Physician And His Patients|← #618]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0620 A Warning Against Hardness Of Heart|#620 →]]

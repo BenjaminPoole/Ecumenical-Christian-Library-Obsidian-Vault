@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 20. The second Chapter. Of Free will
-
-## *The second Chapter.* Of Free will.
 
 NOw it shall be good to intreat somewhat of the libertie of our will. [^1] And at this present we will inquire how much fréewill the naturall corruption, which came by originall sinne, hath left vnto vs: speciallie, séeing whatsoeuer we doo well, all that is said to be attributed vnto the grace of God. [^2] And although this word *Free will* be not read in the holie scriptures; yet the thing it selfe must not séeme to be either imagined or deuised. The Gréekes call it ⟨…⟩, which is, *Of his owne power,* or, *Of his owne right:* the which same thing the Latins signifie, when they call it *Libertatem arbitrij,* that is; *The libertie or the choise of will.* For that is frée, which followeth not the will of another, but his owne will. But the choise séemeth herein to consist, [^3] that we followe, as we thinke good, those things which be decréed by reason. Then doubtles the will is frée when as it imbraceth those things, [^4] which be allowed of the considering part of the mind. Wherefore the nature of frée choise, although it doo most of all declare it selfe in the will, [^5] yet dooth the root thereof consist in reason. But they, which will vse this power aright, must haue a speciall regard, that there fall no error into reason. Which error commonlie is woont to come two maner of waies: for either it is vnknowne to vs what is iust, & what is vniust in the dooings of things; [^6] or else if we doo knowe it, yet we faile in giuing iudgement of the reasons, which are woont to be alledged on both parts. For euer, in a maner, our lust ioineth it selfe vnto the weaker argument. [^7] Whereof it coms to passe oftentimes, that the stronger and the better reason is neglected and forsaken.
 

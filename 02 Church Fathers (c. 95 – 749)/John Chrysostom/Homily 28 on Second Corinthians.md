@@ -14,12 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Homily 28 on Second Corinthians
 
 ## 2 Corinthians 12:16-18
-
-2 Corinthians 12:16-18
 
 But be it so, I myself did not burden you: but being crafty, I caught you with guile. Did I take advantage of you by any one of them whom I have sent unto you? I exhorted Titus, and with him I sent the brother. Did Titus take any advantage of you? Walked we not by the same spirit? Walked we not in the same steps?
 

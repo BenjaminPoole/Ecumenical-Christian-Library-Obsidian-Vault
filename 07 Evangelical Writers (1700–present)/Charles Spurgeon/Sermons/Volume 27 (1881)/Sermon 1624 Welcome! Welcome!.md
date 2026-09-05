@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Welcome! Welcome!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1624
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 16, 1881,.
+*Delivered on Lord's-Day Morning, October 16, 1881*
 
 > "And the people, when they knew it, followed Him: and He received them, and spoke unto them of the kingdom of God, and healed them that had need of healing." Luke 9:11.
 
@@ -130,7 +129,6 @@ Is he a man? Then he has an immortal soul about him! Does he seek the Savior? Ch
 Read it over 10,000 times, if necessary, for I want you to find salvation through it. I know this text will save any man living, God blessing it to him. Here it is—"Verily, verily, I say unto you, he that hears My Word, and believes on Him that sent Me, has everlasting life, and shall not come into condemnation; but is passed from death unto life." What a grand verse! Is there anything in it about believing aright? Not a syllable! Only let a man truly believe and he, "has," (it is not said, "shall have")—he has now, "everlasting life."
 
 Mark that—not a life that will die out in a quarter of a year if he does not mind. No, but, "has everlasting life, and shall not come into condemnation; but is passed from death unto life." Suck at that text, poor Soul—salvation lies in it! Believe in Jesus and you are saved! May God help you to believe it, by His blessed Spirit, and you shall live unto Him from now on and forever. Amen.
-
 
 ---
 [[Sermon 1623 Wholehearted Religion|← #1623]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1625 Without Christ—Nothing|#1625 →]]

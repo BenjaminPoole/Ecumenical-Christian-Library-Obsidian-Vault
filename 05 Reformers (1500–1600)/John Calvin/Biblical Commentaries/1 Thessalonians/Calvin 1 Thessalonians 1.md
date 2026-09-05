@@ -10,14 +10,13 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Thessalonians 1
 
-**COMMENTARY ON**
+***Commentary On***
 
-**THE FIRST EPISTLE OF PAUL TO THE THESSALONIANS.**
+## **The First Epistle of Paul to the Thessalonians.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## 1 Thessalonians 1:1
 

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # Two Visions
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 598
 
-DELIVERED ON SUNDAY MORNING, NOVEMBER 6, 1864,.
+*Delivered on Sunday Morning, November 6, 1864*
 
 > Zechariah 1:8-21.
 
@@ -148,7 +147,6 @@ The Lord knows where to find His servants—they may be in the Universities of C
 Be it ours to deliver the Word and leave the results with God. And His army, though it may now be hidden, shall stand forth ready for the battle. God has in ambush a multitude of mighty men and at His word they shall be ready for the battle—for the battle is the Lord's—and He shall deliver the enemy into our hands. These two visions seem to me to be full of comfort to the true Church of God. Let us abide then, dear Friends, faithful to Christ, faithful to His Word and who knows what may come?
 
 But if we are God's enemies, let us fear and tremble, for the angels on the black horses shall be our destruction. And as God is strong to defend His people, so is He strong and swift to slay His enemies. Beware, you who forget God, lest He tear you in pieces and there be none to deliver you. Fly to Jesus, trust Him and live!
-
 
 ---
 [[Sermon 0597 Preparation for Revival|← #597]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0599 The Certainty And Freeness Of Divine Grace|#599 →]]

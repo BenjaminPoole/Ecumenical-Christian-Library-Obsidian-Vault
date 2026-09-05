@@ -9,10 +9,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's First Epistle Dedicatory
 
-**THE AUTHOR’S FIRST EPISTLE DEDICATORY**
+***The Author’s First Epistle Dedicatory***
 
 TO THAT ILLUSTRIOUS MAN, JAMES OF BURGUNDY,  
 MASTER OF FALAIS AND BREDA

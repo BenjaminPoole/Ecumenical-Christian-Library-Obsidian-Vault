@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 86
-
-**PSALM 86**
 
 In this psalm prayers and holy meditations, engaged in with the view of nourishing and confirming faith, together with praises and thanksgivings, are intermingled. It having been difficult in the judgement of carnal reason for David to escape from the distresses with which he was environed, he sets in opposition to its conclusions the infinite goodness and power of God. Nor does he simply request deliverance from his enemies; but he also prays that the fear of God may be implanted and firmly established in heart.
 

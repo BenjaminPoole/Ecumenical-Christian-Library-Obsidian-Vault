@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Sowing in the Wind, Reaping Under Clouds
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2264
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He that observes the wind shall not sow; and he that regards the clouds shall not reap." Ecclesiastes 11:4.
 
@@ -117,7 +114,7 @@ Lastly, let us follow the Lord's mind, come what will. In a word, set your face,
 
 Will some poor sinner, here, tonight, whether he sinks or swims, trust Christ? Come, even if you feel less inclined, tonight, to hope, than you ever did before! Have hope even now! Hope against hope! Believe against belief! Cast yourself on Christ, even though He may seem to stand with a drawn sword in His hand, to run you through! Trust even an angry Christ! Though your sins have grieved Him, come and trust Him. Do not stop for winds to blow over, or clouds to burst. Just as you are, without one trace of anything that is good about you, come and trust Christ as your Lord and Savior, and you are saved! God give you Grace to do so, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON ECCLESIASTES 11-12.
+## Exposition by C. H. Spurgeon Ecclesiastes 11-12
 
 Ecclesiastes 11:1. Cast your bread upon the waters: for you shall find it after many days. Hoard not your bread, for if you do, it will mildew—it will be of no use to you. Cast it on the waters. Scatter it abroad. Give it to unworthy men if necessary. Some here have seen an allusion to the casting of seed into the Nile when it overflowed its banks. When the waters subsided, the corn would grow and be gathered in, "after many days."
 
@@ -170,7 +167,6 @@ Chapter 12:1. Remember now your Creator in the days of your youth. Now we get on
 12, 13. And further, by these, my son, be admonished: of making many books there is no end; and much of the study is a weariness of the flesh. Let us hear the conclusion of the whole matter: Fear God, and keep His Commandments: for this is the duty of man. Or, "this is the whole of man." It makes a man of him when he fears God and keeps His Commandments—he has that which makes him "the whole man."
 
 14\. For God shall bring every work into judgment, with every secret thing, whether it is good, or whether it is evil. Depend upon it that it will be so! At the Last Great Day, there will be a revealing of everything, whether it is good, or whether it is evil. No need for the righteous to fear that revealing, for they will only magnify in that day the amazing Grace of God which has put all their iniquities away—and then shall all men know how great the Grace of God was in passing by iniquity, transgression and sin!
-
 
 ---
 [[Sermon 2263 Christ's Plea for Ignorant Sinners|← #2263]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2265 Harvest Joy|#2265 →]]

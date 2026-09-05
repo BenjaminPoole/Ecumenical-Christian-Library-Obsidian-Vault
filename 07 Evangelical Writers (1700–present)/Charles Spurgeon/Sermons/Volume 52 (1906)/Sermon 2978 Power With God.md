@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Power With God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2978
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As a prince have you power with God." Genesis 32:28.
 
@@ -112,7 +109,6 @@ Moses was another man who had power with God. You remember that when the Israeli
 And there was Aaron, too, when the plague broke out among the people who had murmured against him and Moses, and thousands were being struck dead. At the command of Moses, he took a censer and filled it with burning coals and incense—and ran into the midst of the congregation just where the death wave had come—"and he stood between the
 
 dead and the living; and the plague was stayed." Aaron, the high priest with his censer, had power with God. The Lord Jesus Christ, Aaron's great Antitype, is continually exercising this power on the behalf of His people, and He also helps some of His servants to do the same work—Martin Luther, to wit. How he seemed to stand with the censer of the Gospel between the living and the dead and, in other dark times and perilous ages, God has raised up many eminent servants to whom He has given that same censer of the Gospel which pours forth a sweet savor of Christ as they also swing it to and fro, standing between the living and the dead! Oh, that God would give power to many of you, dear Brothers and Sisters in Christ, in some such way as this! Recollect the power that the early Christians had with God to get Peter out of prison. If you have power with God, it is an engine which you may burn in all manner of ways for the blessing of your fellow Christians and of poor outcast sinners. Therefore I charge you to seek it! And when you get it, hold it fast and walk humbly before God that He may not take this power from you, but may you be strong in the Lord and in the power of His might, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2977 Plowing Rock|← #2977]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2979 Our Banner|#2979 →]]

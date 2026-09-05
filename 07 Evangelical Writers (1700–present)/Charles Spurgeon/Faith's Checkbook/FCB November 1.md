@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 1
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PERFECTION AND PRESERVATION**
+## **Perfection and Preservation**
 
 > Faithful is he that calleth you, who also will do it" I Thess. 5:24
 
@@ -25,7 +24,6 @@ Who will do this? The Lord who has called us out of darkness into His marvelous 
 Why will He do it? Because He is "faithful" -- faithful to His own promise which is pledged to save the believer; faithful to His Son, whose reward it is that His people shall be presented to Him faultless; faithful to the work which He has commenced in us by our effectual calling. It is not their own faithfulness, but the Lord's own faithfulness, on which the saints rely.
 
 Come, my soul, here is a grand feast to begin a dull month with. There may be fogs without, but there should be sunshine within.
-
 
 ---
 [[FCB October 31|← October 31]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 2|November 2 →]]

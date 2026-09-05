@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Door
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2752
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the door. If anyone enters by Me, he will be saved, and will go in and out, and find pasture." John 10:9.
 
@@ -117,7 +114,7 @@ Is not that what the Apostle meant in the chapter we read? [Exposition at end of
 
 I think I hear somebody say, "Then, I will do it! I will trust Christ, whether I may or may not." You are a saved man if you only did it while I was speaking the word, for there was never a soul that said, "Christ shall be All-in-All to me," but Christ really was All-in-All to that soul! May the Holy Spirit bring many of you to that blessed decision! And God shall be glorified, and you shall share His joy forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10.
+## Exposition by C. H. Spurgeon: Romans 10
 
 Verse 1. Brethren, my heart's desire andprayer to God for Israelis that they might be saved. No curse falls from his lips, though they had persecuted him without mercy, hunted him from city to city and gnashed their teeth at the very mention of his name. Yet Paul has no desire for them but their salvation! He utters no malediction against them, but the prayer goes up from his very heart, "that they might be saved." Let that be your worst wish for any living man. Whatever he may do to you, let this be your heart's desire and prayer for him—that he may be saved!
 
@@ -146,7 +143,6 @@ are full of piety of a certain kind, but it is with the view of setting up a rig
 18, 19. Yes verily, their sound went into all the earth and their words unto the end of the world. But I say, Did not Israel know? Ah, that they did! The Gospel was sounded in their ears in a hundred ways, yet they rejected it.
 
 19-21. First Moses said, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. But Isaiah is very bold and said, I was found of them that sought Me not; I was made manifest unto them that asked not after Me. But to Israel he said, All day long I have stretched forth My hands unto a disobedient and gainsaying people. God grant that we may not be like they were! Amen.
-
 
 ---
 [[Sermon 2751 'A Prepared Place for a Prepared People'|← #2751]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2753 Patience, Comfort and Hope From the Scriptures|#2753 →]]

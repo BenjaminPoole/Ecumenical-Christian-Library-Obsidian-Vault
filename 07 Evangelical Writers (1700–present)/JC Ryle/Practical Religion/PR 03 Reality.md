@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Reality
 
-Chapter III · *Practical Religion* — J. C. Ryle
+## Chapter III · *Practical Religion* — J. C. Ryle
 
 >  *Reprobate silver.* "—Jer. vi. 30. " *Nothing but leaves.* "—Mark xi. 13. " *Let us not love in word, neither in tongue, but in deed and in truth.* "—1 John iii. 18. " *Thou hast a name that thou livest, and art dead.* "—Rev. iii. 1.
 
@@ -136,7 +135,6 @@ If there is anything in the world of which a man need not be ashamed, it is the 
 The years of our life are fast passing away. Who knows but this year may be the last in his life? Who can tell but that he may be called this very year to meet his God? As ever you would be found ready, be a real and true Christian. Do not be base metal.
 
 The time is fast coming when nothing but reality will stand the fire. Real repentance towards God,—real faith towards our Lord Jesus Christ,—real holiness of heart and life,—these, these are the things which will alone pass current at the last day. It is a solemn saying of our Lord Jesus Christ, "Many shall say in that day, Lord, Lord, have we not prophesied in Thy name, and in Thy name have cast out devils, and in Thy name done many wonderful works? And then will I profess to them, I never knew you. Depart from Me, ye that work iniquity." (Matt. vii. 22, 23.)
-
 
 ---
 [[PR 02 Self-Exertion|← Self-Exertion]] · [[Practical Religion|Practical Religion Contents]] · [[PR 04 Prayer|Prayer →]]

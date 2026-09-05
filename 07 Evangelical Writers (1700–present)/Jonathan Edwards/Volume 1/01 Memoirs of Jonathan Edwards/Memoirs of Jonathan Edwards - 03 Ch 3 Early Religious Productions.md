@@ -9,10 +9,9 @@ epub_file: "works1.i.iii.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER III.
 
-EARLY RELIGIOUS PRODUCTIONS—“MISCELLANIES”—NOTES ON THE SCRIPTURES—COMMENCEMENT OF HIS PREACHING—RESOLUTIONS.
+*Early Religious Productions—“miscellanies”—notes on the Scriptures—commencement of His Preaching—resolutions*
 
 A Conscientious regard to duty appeared greatly in the early as well as in the latter days of Jonathan Edwards. As a child, the spirit of love and obedience uniformly guided him; and as a pupil, he discovered every disposition honourable to himself, encouraging to those who anxiously watched over his progress, and which was justly considered as the earnest of uncommon attainments. The child, the youth, the man, all presented to view the same superior mind, in different degrees of advancement, but still alike indicative of the same general excellencies.
 

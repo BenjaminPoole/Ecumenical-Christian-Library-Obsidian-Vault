@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 71. Where has Christ promised us that he will as certainly wash us by his blood and Spirit, as we are washed with the water of baptism?
-
-**Question 71. Where has Christ promised us that he will as certainly wash us by his blood and Spirit, as we are washed with the water of baptism?**
 
 Answer. In the institution of baptism, which is thus expressed, "Go ye, therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost;" "he that believeth and is baptized, shall be saved; but he that believeth not shall be damned." This promise is also repeated, where the scripture calls baptism "the washing of regeneration, and the washing away of sins."
 
-**EXPOSITION**
+## **Exposition**
 
 The words employed by Christ in the institution of baptism, which are recorded by Matthew and Mark, embody the proof of the definition, and principal ends of baptism which we have already explained, "Go ye, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost." "He that believeth and is baptized, shall be saved; but he that believeth not shall be damned." (Math. 28:19. Mark 16:16.) These words require a short explanation.
 
@@ -44,7 +41,7 @@ Shall be saved, that is, he that is baptized may know that he enjoys the benefit
 
 He that believeth not, shall be damned; that is, even though he may have been baptized. The use of baptism does not save without faith. Not to be baptized does not condemn, if there be no contempt of this sacrament; for not the want, but the contempt of the sacraments condemns. But there can never be any contempt of the sacraments where there is faith. And hence it is that Christ does not retain both members of the first proposition in that which stands in opposition to the promise; he merely says: "He that believeth not, shall be damned." Christ makes this distinction, because there is not the same necessity for faith and baptism to salvation. Faith is absolutely necessary to salvation, so that no one can be saved without it: for "without faith it is impossible to please God." (Heb. 11:16.) But the sacraments are necessary when they may be observed according to divine appointment. Contempt of the sacraments under such circumstances, is inconsistent with faith. This is the reason why Christ promises salvation to those that believe and are baptized, keeping in view the distinction which is here made. Yet he does not deny salvation to those who are deprived of this sacrament.
 
-**TWENTY-SEVENTH LORD'S DAY**
+## **Twenty-Seventh Lord's Day**
 
 ---
 [[Ursinus HC Q70|← Question 70. What is it to be washed with th]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q72|Question 72. Is then the external baptism wi →]]

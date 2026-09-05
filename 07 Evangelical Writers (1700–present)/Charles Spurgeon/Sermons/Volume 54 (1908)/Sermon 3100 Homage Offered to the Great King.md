@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Homage Offered to the Great King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3100
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He shall live, and to Him shall be given of the gold of Sheba; prayer also shall be made for Him continually; and daily shall He be praised." Psalm 72:15.
 
@@ -102,7 +99,6 @@ So, Christian, begin to praise Jesus Christ now. You need not be afraid that you
 I have said this because many persons nowadays say, "Ah, So-and-So is young—he'll be sobered down, by-and-by." I am sure, Beloved, it is a great pity if he should be. There are very few people in the present day who need much sobering with regard to religion. There is not so much fear of religious enthusiasm as there is of religious torpor and sleep. I should like to see a few enthusiastic Christians—"not drunk with wine, wherein is excess—but filled with the Spirit." But what do men say? Why, "the man has got no moderation—he is mad!" A person, passing by here the other day, said to another, "You know who preaches there, don't you?" "No, I do not." "Why, everybody knows that fellow! Everybody goes to hear him, but, you know, he's rather touched in the brain." "Yes," said a friend of mine, "and I'll tell you another little thing, by way of a secret—he's rather touched in the heart, too—and that's better still." Well, Beloved, we do not mind what they say about our being "touched in the brain." We believe it is well to be "touched in the heart" too! We may be mad, but it is a sweet madness, it is a blessed delusion, it is a most excellent "touch." And we only pray that the Master may touch us all. "Touched in the brain!" Ah, we have precious need to be in these days, for the brains are wrong enough originally! "Touched in the brain!" Most decidedly we require it, for most men's brains are very far from what they should be. "Touched in the brain!" May God "touch" every man's brain and every man's heart! And the more we are touched of God, whether it is touched in the brain, or touched in the hand, or touched in the purse, or touched anywhere, it is always good so long as we are touched of God!
 
 You know it was objected against David that he must not go and fight Goliath because his brother said he had come to see the battle in the pride of his heart. He did not stop to give an answer. The best answer he could give was to go and cut Goliath's head off and bring it back in triumph! So, many of you who are young in years and full of zeal, are advised not to do this and that and the other. Do not mind what they say! Go forth in the name of your God and you shall do great exploits. If the great and trained veterans are afraid of the battle, then raw and inexperienced recruits must stand in the forefront. While it is written, "Out of the mouth of babes and sucklings have You ordained strength," let it be known and proclaimed, let it be thundered forth from the skies and let earth re-echo the sound that Christ must and shall be praised! If one class of ministers will not do it, another shall! What the learned will not do, the ignorant must! What the polite and refined cannot do, the rough and untutored must, for, verily, it must and shall be done! If those who stand up with all their boasted prestige among men cannot exalt Christ, He will raise up humble but devoted followers and by the weak things of the world, confound the mighty! Of old He raised up a shepherd to be a king, a herdsman to be a Prophet and a fisherman to be an Apostle! Those who dishonor Him shall be lightly esteemed—but those who honor Him, He will honor! Go, Christian, and exalt Christ! Love Him and exalt Him! Love your Master, talk about your Master, preach of your Master and, by the help of the Spirit, you shall yet come off more glorious than your foes, if not here, yet in that day "when He shall come to be glorified in His saints, and to be admired in all them that believe."
-
 
 ---
 [[Sermon 3099 The Double Forget-me-not|← #3099]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3101 A Plain Talk Upon An Encouraging Topic|#3101 →]]

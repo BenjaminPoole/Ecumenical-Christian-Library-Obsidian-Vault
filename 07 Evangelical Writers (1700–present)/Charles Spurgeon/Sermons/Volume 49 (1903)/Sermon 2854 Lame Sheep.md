@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Lame Sheep
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2854
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Make straight paths for your feet, so that what is lame may not be dislocated, but rather be healed." Hebrews 12:13.
 
@@ -87,7 +84,7 @@ The openly profane may enjoy a measure of impunity, but the professed follower o
 
 Once more let me admonish you. Do not be negligent when your Lord is so vigilant. Do not even be careless when you see Him so cautious. The Lord Jesus Christ, the Great Shepherd of the sheep, evidently cares for the lame ones. The charge He gives is a proof of the concern He feels. He bids us to be considerate of them, because He, Himself, takes a warm interest in their welfare.
 
-III. WHAT SHALL I NOW SAY TO YOU WHO FEEL YOUR OWN WEAKNESS AND INFIRMITY?
+## III. What Shall I Now Say to You Who Feel Your Own Weakness and Infirmity?
 
 You lame ones who cannot walk without limping, I know how you complain. "Ah," you say, "I am no credit to Christianity. Though, in all sincerity, I do believe in Jesus, yet, alas, I can scarcely think I am one of His true disciples, called, and chosen, and faithful! I fear that, after all, He will disown me." Ah, Beloved, He never will! If you really are trusting to Him and hanging upon Him, or even touching the hem of His garment, He cannot and He will not leave or forsake you! True, it would be likely enough if His ways were like our ways, and it will cause Him no little care to get you safely home. When Mr. Great-Heart went with Miss Much-Afraid and Mr. Feeble-Mind on the road to the Celestial City, he had his hands full. He says of poor Mr. Feeble-Mind, that when he came to the lions, he said, "Oh, the lions will have me!" And he was afraid of the giants and afraid of everything on the road. It caused Great-Heart much trouble to get him on the road. It is so with you. Well, you must know that you are very troublesome and hard to manage. But then, our Lord Jesus is very patient. He does not mind taking trouble. He has laid down His life for you and He is prepared to exercise all His Divine power and wisdom to bring you home to His Father's House. If He were to desert you, there would be no eye to pity, no hand to lead you—but there is no fear of His changing the purpose of His heart. Having loved His own, He loves them to the end. I have heard say—I do not know how true it is—that when one of her family is a little weak-headed, the mother is sure to love that one best and show it the most attention. Her most tender thoughts will always turn towards her helpless babe. And her keenest anxieties will hover over the child who is ill. She may forget, for a while, the strong and the hale, but those who need her succor most are quite certain to be never out of her mind. Be of good cheer, then—"As one whom his mother comforts," so will the Lord comfort you! "Like as a father pities his children, so the Lord pities them that fear Him."
 
@@ -104,7 +101,6 @@ It is not for me to say what particular purpose there may be in the personal aff
 And now, to close, let us read our text again. "Therefore lift up the hands which hang down, and the feeble knees; and make straight paths for your feet, so that what is lame may not be dislocated, but rather be healed'" See to it that you are not negligent of this ministry of love! Remember how high a reputation Job got in his day for the care he bestowed on those who were frail and infirm? Eliphaz the Temanite said of him, "Behold, you have instructed many, and you have strengthened the weak hands. Your words have upheld him that was falling, and you have strengthened the feeble hands." And do not forget the reproof which the Lord gave to the shepherds of Israel—"The diseased have you not strengthened, neither have you healed that which was sick, neither have you bound up that which was broken, neither have you brought again that which was driven away, neither have you sought that which was lost." Above all, consider the example of our Lord Jesus. His eyes were always quick to spy out the lame, the blind, the crippled—and His hands were always stretched out immediately for their relief. "He went about doing good, and healing all that were oppressed of the devil; for God was with Him." And if you and I, Beloved, walk with God, and God is with us, our godliness will show itself in the pity we feel and the kindness we show to the feeble and the faulty, the cross-grained and the crippled.
 
 The Lord bless these counsels to the strong and these cordials to the weak—and may we all come to that blessed land where "the inhabitant shall not say, I am sick. The people that dwell therein shall be forgiven their iniquity"! Amen.
-
 
 ---
 [[Sermon 2853 Observing the King's Word|← #2853]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2855 The Lesson of Uzza|#2855 →]]

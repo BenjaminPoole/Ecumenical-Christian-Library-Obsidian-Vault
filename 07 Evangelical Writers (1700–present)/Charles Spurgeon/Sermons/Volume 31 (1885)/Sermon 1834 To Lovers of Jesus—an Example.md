@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # To Lovers of Jesus—an Example
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1834
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "She has worked a good work for Me." Mark 14:6.
 
@@ -128,7 +125,6 @@ choose it, would be liberty never to sin again; freedom to do Christ's bidding a
 I will not, therefore, so much intrude upon the sanctity of your heart's love as to suggest what you can do for Jesus. As the best juice flows from the cluster with the least pressure, so shall the best service be that which is most spontaneous. Do not let me push you on, or draw you on, or drag you on—be eager on your own account! Say to the Lord, Himself, "Draw me: I will run after You." Have you not a certain private reason why you should love your Lord better than any other of His redeemed? I repeat it, I will not pry into your sacred secrets, but leave you to commune with your own heart and with your Lord. Only let us so love Him that when we look at Him, He shall say, "You have ravished My heart, My sister, My spouse; you have ravished My heart with one of your eyes, with one chain of your neck." Then shall we know what to do for our Well-Beloved, and, what is better, we shall do it without further exhortation.
 
 There I leave it. May the Holy Spirit bless the word! As for you that do not love the Lord Jesus, God be merciful to you! I will not pronounce upon you an Anathema Maranatha, but I tremble lest it fall upon you. I am sorely grieved for your sakes. I am, moreover, sorely vexed for Christ's sake that He should be deprived of your love and service. What has He done that you should slight Him? Oh, blind eyes that cannot see His beauties, and deaf ears that cannot hear the charms of His voice! God be merciful to you and help you to trust your Savior—and then you will love Him for His salvation! It is no wonder that the saved ones love their Lord—it is a marvel that they do not love Him 10,000 times more! The Lord be with you for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1833 A Proclamation from the King of Kings|← #1833]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1835 The Man Christ Jesus|#1835 →]]

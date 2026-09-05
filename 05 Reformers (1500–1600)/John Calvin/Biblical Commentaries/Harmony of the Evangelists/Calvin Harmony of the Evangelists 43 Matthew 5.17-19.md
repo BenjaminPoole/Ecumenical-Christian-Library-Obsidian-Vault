@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 43. Matthew 5:17-19;Luke 16:17
-
-**MATTHEW 5:17-19; LUKE 16:17**
 
 **17**. Think not that I am come to destroy [^1] the Law or the Prophets: I am not come to destroy, but to fulfil. **18**. Verily, I say to you, Till heaven and earth pass, one iota or one point [^2] shall not pass from the Law, till all are fulfilled. **19**. Whoever then shall break on of these least commandments, and shall so teach men, shall be called the least in the kingdom of heaven: but whoever shall have done and taught them, he shall be called great in the kingdom of heaven.
 

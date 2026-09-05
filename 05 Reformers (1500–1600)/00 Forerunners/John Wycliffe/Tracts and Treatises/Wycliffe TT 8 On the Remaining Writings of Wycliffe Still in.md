@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 8. On the Remaining Writings of Wycliffe Still in Manuscript, Known Only by Their Titles
 
-ON THE REMAINING WRITINGS OF WYCLIFFE STILL IN MANUSCRIPT, AND INCLUDING SUCH WORKS AS ARE KNOWN ONLY BY THEIR TITLES.
+*On the Remaining Writings of Wycliffe Still in Manuscript, and Including Such Works as Are Known Only by Their Titles*
 
 XXXII. Contra Mendicitatem Validam. In English, and beginning — Mast Worship/id and Gentlest Lord Duke of Glocester, It sets forth the substance of a discussion before the duke on questions at issue between a clergyman and a friar. The former half of it is occupied in giving a summary of the debate as it respected certain theological opinions ; the latter presents some ot the most plausible things to be said in favour of the begging practices of the friars, with the common arguments opposed to that usage. In the preliminary discussion WycUffe states, ** God is so good, that in each goodness he is before, and in each evil he cometh after the effect." This is one of a collection of MSS. in Trinity College, Dublin. Class C. Tab. iii. No. 12. The volume containing it is thus described in the " Catalogus Librorum Manuscriptorum Angliae et Hibemise,'* published in Oxford in 1697, as "Jo.
 
@@ -21,7 +20,7 @@ XXXII. Contra Mendicitatem Validam. In English, and beginning — Mast Worship/i
 
 ^ Ibid. p. 176. " True men say, that so long as Christ is in heaven, the church has in him the best pope, who is head of all saints, and distance either more or less hindereth not Clirist to do his deeds as he promiseth, and he saith he is with his own always to the end of the world. It is granted that the church beneath hath a head, that is Christ, head of angels and of men, all that are or shall be saved, and we dare not put two heads lest the church be monstrous. Peter was not head of the church, but captain of the church ; and surely warriors would scorn the reasoning which saith that if a man is captain he is head. Peter was captain for a time, and afterwards Paul was captain. But these blind buzzards should first know what Christ's church truly is. There are three churches of Christ. One that hath vanquished and is above ; another that sleepcth in purgatory ; and neither of these requireth such a pope. But the third is fighting here ; and this, with the others, require Chriftt as their head. And the man who is most meek, most poor, and most serviceable to the church, is its captain, by the Judgment of the Head above. If men seek well they shall find that it may not be proved that it is reasonable to have such a pope, for nothing should prove it except of these three — a right understanding of the words of Christ ; evidence of man's law ; or custom, with the opinion of much people. But none of these may prove au)'thiDg in this case." — Po6tils, p. 181. Two i)ages further on the preacher states, that the only authorised and requisite orders in the church are priests and deacons.
 
-CATALOGUE OF MANUSCRIPTS. 91
+## Catalogue of Manuscripts. 91
 
 Widiffe's Works to the Duke of Lancaster in 1868." But this description is by a modern hand, and is erroneous. Most of the pieces in that volume are manifestly of a much later date. There is no ground to suppose that any of them should be ascribed to a period so early as 1368, except the piece intitled, De Ultima ^tate Ecclesle, of which mention will be made in the section relating to works of the Reformer which have been printed. The mention of the year 1356 in that tract, has probably led to the error in respect to the date of the other pieces. We have no means of fixing the date of this piece addressed to the Duke of Glocester. It shoidd not, I think, be placed among his earlier or his latest productions.
 
@@ -39,11 +38,9 @@ XXXVIII. De Anima. A part of this treatise, under the title, De Imcabnatione Ver
 
 XXXIX« De ViRTUTiBUS et Vitus. In the British Museum, is a short
 
-02 ON THE WRITINGS OF WYCLIFFE IN 2iftANU8CRIPT.
-
 tract under this title. Titus, D. xix. It treats on the following matters : The seven works of mercy, bodilt and ghostlt ; five bodilt
 
-WITS ; FIVE WITS GHOSTLY ; THE CARDINAL VIRTUES ; SEPTEM MORTAUA
+## Wits ; Five Wits Ghostly ; The Cardinal Virtues ; Septem Mortaua
 
 PECCATA. " In Bib. Reg. 7, A. xxvi. is another copy of this tract which varies considerably from the former : in some instances the chapters are abridged, in others the chapters considerably altered, — a liberty very common with the transcribers of those times. This MS. varies from the preceding in another respect, as it treats of the Seven Sacraments ; Six Manners of consenting to Sin ; Four Things that needen to man." Baber, 47.
 
@@ -51,7 +48,7 @@ XL. Pauper Rusticus ; Confessio derelicti Pauperis ; and the Pore Caitif— diff
 
 XLI. ExposiTio Orationis Dominic^e. This is a different comment on the Lord's Prayer from that which forms part of the " Pore Catif." It enters more on the subject of ecclesiastical abuses. " In Lambeth Library, Cott. MSS. 594, is a transcript of the * Prologus in Expositionem Orationis Dominicie.* Herein are condemned the lucrative catholic tenets of works of supererogation, indulgences, and auricular confession, and the Romish hierarchy are reproved for withholding from the people the scriptures in the vernacular tongue." Baber, 48. Lewis, No. 89.
 
-CATALOGUE OF MANUSCRIPTS. 98
+## Catalogue of Manuscripts. 98
 
 XLIT. In Apocaltpsin. This is an exposition of parts of the Apocaljpse. It begins thus — Saint Paul the apostle saith that all those who would live meekly in Christ Jesus, &c. It is in the British Museum, Bib. R^. £. 67.
 
@@ -71,8 +68,6 @@ XLIX. Speculum Secularium Dominorum. Cum Veritas fidei eo plus rutilet, "Archbis
 
 L. De Blasphemia. " Archbishop Usher quotes this tract in his book
 
-94 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
-
 De Christianannn Eccksiarum Suecessiane, and tells us that in it "Wiclif observes that the true doctrine of the sacrament of the eucharist was retained in the church a thousand years, * even till the loosing of Satan/ " Lewis, No. 199.
 
 LI. Five Bodily Witts. There is a tract under this title in Trinity CJollege, Cambridge, B. 8. 37. It begins — Thus should a man rule Aw Jive bodily witts,
@@ -91,7 +86,7 @@ LVn. Of Temptation of the Fiend. There is an imperfect work under this title in 
 
 LVIII. How Men of private Religion should love more the Gospel of God's Hests, and his Ordinance, than any new Laws, new Rules, and Customs of sinful Men. This is a piece which immediately follows the preceding in the same collection, pp. 152 — 156.
 
-CATALOGUE OF MANUSCRIPTS. 95
+## Catalogue of Manuscripts. 95
 
 LEX. Tractatus Evangeui de Sermone Domini in Monte, cum ExposrroRio Orationis Dominicje. This is the title given to the first section of a manuscript volume in Trinity CoUege, Dublin, Class C. Tab. i. No. 23. These expositions, with a further exposition of thesixth and seventh chapters of Matthew, extend, if my notes may be trusted on this point, to page 195 of the volume.
 
@@ -111,8 +106,6 @@ LXII. De Captivo Hispanensi — filia comitis de Dene incarceRATO INFRA SEPTA We
 
 LXni. De Veritate Scripturs. A large work under this title is
 
-90 ON THE WRITINGS OF WYCUFFE IN MANUSCRIPT.
-
 preserved in the Bodleian Library, and in the Library of Trinity College, Dublin. The copy in the Bodleian is imperfect at the beginning, the first page commencing in a part of the first ch^ter. The copy in Dublin, which is* perfect, commences with these words, — Bettat parumper discutere err ores et concordias circa sensua Scripturce hodie plus aolito seminatosy turn quia in ea consistit solus fiddkan. The treatise ends thus, — latud itaque dixerim pro nunc in communi de heresij ut sdatur ex fructu veritatis Scripturce notare et cavare hereticos, et ut planius intelligatur tractatus de simonia, quern si Deus voluerit diffusius pertraetare. The close of the Bodleian MS. agrees with that of the MS. in Dublin, but the first page is without any initial letter or heading, and bc^gins in the middle of a sentence.
 
 In both manuscripts the chapters are thirty-one in number, but the chapters six and seven are not duly marked in the Bodleian copy. This copy closes on the middle of the last page, and the scribe has indicated the completeness of the work by placing its title in the space below.
@@ -121,7 +114,7 @@ The volume in the Bodleian is a small folio; it numbers 621 pages, and each page
 
 It has l)een supposed, partly from the order in which these pieces succeed each other, and partly fix)m the references made in them from one to the other, that they were all portions of a large theological work. This notion derives some support also from the manner in which the names of these pieces occur in a work bearing the title Summ a Theolooica. " Tills title appears in a very ancient manuscript catalogue of WyclifFe's writings, which is in the imperial library at Vienna. The work is described as consisting of twelve chapters, the titles of which are as follow s : — 1 . De Mandatis. 2. De Statu iNNOCENTiiE.
 
-CATALOGUE OF MANUSCRIPTS. 97
+## Catalogue of Manuscripts. 97
 
 8, 4, 5. De Dominio. 6. De Vewtate Scriptuile. 7. De Ecclesia. 8. De Officio Regis. 9. De Postate PAPiE. 10. De Smonia. 11. De Apostasia. 12. De Blasphehia." — ^Baber, xlvi. Here it will be seen that three pieces intervene between the De Veritate Scripturae, and the three treatises which immediately succeed it in the Dublin MS. On what authority the title Summa Theologica is given to the whole collection we do not know. That title is possibly of a later date than the works themselves. Indeed, few things were more common among the transcribers of the fourteenth century, than to place a number of treatises together, all having completeness in themselves, and all, it may be, published separately, while certain of them contain allusions, and have, probably, some relation to each other. In the writings of Wycliffe, references in one treatise, to the contents of another, are very common, without being meant to indicate more than that it was not necessary to discuss a topic again which had been discussed elsewhere. It is important to remark, that in the tenth chapter of the Bodleian copy of the De Veritate Scripturce, there is a reference to the vigil of the annunciation in 1378, which determines the date of this production. This work, in both the existing copies, is exceedingly difficult to read, consisting as it does, in great part, of obscure discussions, which have been rendered still more unintelligible by the barbarous and technical Latin in which they are clothed, and by the abbreviated, and almost illegible, character of the writing. Dr. James, the author of the work intitled "An Apology for John Wicliffe," was the librarian of the Bodleian, in the time of James I. In that work he has given many passages from the De Veritate Scriptural, but in the manuscript volume of extracts from the writings of Wycliffe, preserved in the Bodleian, in the hand-writing of Dr. James, there are characteristic passages transcribed from the De Veritate Scripturse, extending to nearly a hundred pages. These passages, and such parts of the work itself as may be deciphered with an approach to certainty, warrant the description which I have given of his treatise in the " Life and Opinions of Wycliffe."
 
@@ -130,8 +123,6 @@ LXIV. In a volume in Trinity College, Dublin, are the following works attributed
 I. Three pieces, on the Creed, the Paternoster, and the Ave Maria, two pages each. The first begins — It is sooth that belief is grounded, &c. The second — We shaU believe that this Paternoster, &c. The third — Men greet commonly our Lady, God's moder, &c.
 
 n. Of the Seven Heresies. It begins — For false men multiply books of the church, &c. The seven heresies are divided into seven chapters. The contents of this piece show it to be from the pen of Wycliffe, the
-
-98 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 whole being directed after his maimer against the friars ; and the fourth heresy, which is said to consist in sajring, ^* that the sacred host is in no manner bread, but either nought, or an accident without a subject,^ shows that this is one of the Reformer^b later productions. Fol. 4 — 9.
 
@@ -157,7 +148,7 @@ xn. Egressus Jesus de templo. It begins — This Gospel telleth much wisdom that
 
 xm. Of Antichrist and his Meynee, or train — ^followers. This begins
 
-CATALOGUE OF MANUSCRIPTS. 99
+## Catalogue of Manuscripts. 99
 
 — David saith, Lord, set thou a law-maker upon me. This is probably the tract mentioned under the title De Amtichristo et Mehbbis. But the latter piece, according to Bale, begins — Quemadmodum Dominua Jesus ordmavit. Fol. 116— 124.
 
@@ -186,8 +177,6 @@ xxH. Neither man nor woman may perfectly do the seven works OF mercy — Clerks 
 xxHi. Here are questions and answers put that are wmtten hereafter. The work which thus begins is without title. It extends over niore than forty leaves — from page 164 to 218 of the volume : and I had taken this note of its extent at the time of examining it, but from some subsequent oversight I failed to describe it correctly in my former catalogue of the Wycliffe MSS. This is the piece which has been recently published by the Camden Society, under the editorship of Dr. Todd, librarian of Trinity College, Dublin. It is published under the title of " Wycliffe's Apology," but I have shown elsewhere that it is not a work of the Reformer's. "
 
 • The reader will find thU question discussed, and some other points at issue between Dr. Todd and mysdf, in the Eclectic Review for January, 1843. Soon after that article appeared, a paper was h2
-
-100 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 xxiv. The following are the b^^nings of three other short pieces, forming the conclnsion of this yolmne. It is written in the farat book of Holy Writ, that there were three patriarchs. These he the nine points that the Lord Jesus answered a holy man. Of the deeds of mercy God will speak at the dreadful day, Fol. 218, 219.
 
@@ -256,8 +245,6 @@ xm. De quatuor Interpretationibus.
 XIV. Super impositis Articulis, and Socn argumentum contra veritaTEM, are different titles given to the same tract.
 
 « lUdutphut Strodes, non Anglus sed Scotut, in Monasterio Dryburgh, provinciie Teviotdale, edueatua, Ord. Fratrum Prcdicatorum, poeta-Uiureatua, Oxonii din Btuduit, sociot coUegii MertoBensia, Galliam peragravit et Italian), Syriam item Terram Sanctam, contra Wiclefl dogmata acriter disputant circa a.c. 1370. Musicea quoque Aiit ttudioius. Scripcit fabulaa, panegyrlcos, conaequentiarum formulas, (Ven. 1517. 4to. Impressas) summulas logicales, sophismatum strophas, pliantaama carmen el^iacum, itinerarium Terrae Sanctse, poaitiones et xiy. arguments contra WSckfUm opuscula. Fabricius. Bib. Med. Lat. lib. ztUL Baber. 41.
-
-102 ON THE WRITINGS OF WYCLIFFE IN MANUSCRIPT.
 
 XV. De citationibus Frtvous et ALUS Versutiis Antichbisti.
 
@@ -353,8 +340,6 @@ XXXI. De mota locau. Sequitur de localibus pertract xxxn. De velocitate motus lo
 
 The pieces thus described appear to have been treatises, or, more probably, short tracts, or detached parts of treatises, on grammar, logic, and philosophy, embracing, as before intimated, such topics as are found in the first and second books of the Trialogus. The titles which follow
 
-104 THE WRiriNGS OF WYCLIFFE IN MANUSCRIPT.
-
 denote works more strictly theological, and some of them no doubt exhibited many of the distinctive opinions of the Reformer.
 
 XXXIV. DiALOGUS DE FRATRIBUS.
@@ -421,7 +406,7 @@ LXIV. DeTERMINATIONES QUiEDAM.
 
 * This monk was named Uf htred Bolton, and had written several tracts against WycUffe.
 
-CATALOGUE OF MANUSCRIPTS.
+## Catalogue of Manuscripts
 
 ucv. De Tbinitate. Stq)ere8t investigare de distinctUme.
 
@@ -497,7 +482,7 @@ ci. CoMMENTARii VULGARES.' Stobot Jokonnes, et ex discipulis.
 
 • " It is protable that the liz preceding titles ars various descriptions of the same work.**— Baber. i8.
 
-THE WRITINGS OF WIXLIFFE IN MANUSCRIPT.
+## The Writings of Wixliffe in Manuscript
 
 cn. Lectiones in Danialem.
 

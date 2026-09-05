@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 5. Decade 1, Sermon 3
 
 Dearty beloved brethren, I do understand that, by means of my doctrine of the word of God, there are risen sundry thoughts in the hearts of many men, yea, and that of some there are sown abroad very ungodly speeches. For some there are which do suppose that the scriptures, that is, the very word of God, is of itself so dark, that it cannot be read with any profit at 411}. And again some other affirm, that the word plainly delivered by God to mankind doth stand in need of no exposition. And therefore say they, that the scriptures ought indeed to be read of all men, but so that every man may lawfully invent and choose to himself such a sense as every one shall be persuaded in himself to be most convenient?, These fellows do altogether condemn the order received of the churches, whereby the minister of the church doth expound the scriptures to the congregation. But I, dearly beloved, if, as ye have begun, so ye will go forward, to pray to the Lord, do trust, by the hope that I have in God’s goodness, that I am able plainly to declare, that to the godly the scripture is nothing dark at all, and that the Lord’s will is altogether to have us understand it: then, that the scriptures
@@ -34,9 +33,7 @@ And first of all, that God’s will is to have his word unGod's witt is derstood
 
 The word of God requireth an exposition.
 
-A solemn ex- position of God’s word,
-
-72 THE FIRST DECADE. [SERM.
+A solemn ex-position of God’s word,
 
 he doth not lay the blame of this difficulty on the word of God, but upon the unprofitable hearers. Whosoever we are, therefore, that do desire rightly to understand the word of God, our care must be that Satan possess not our minds, and close up our eyes. For our Saviour also in the gospel said : “‘ This is damnation, because the light came into the world, and men loved darkness rather than light!.” Besides that, the holy prophets of God, and the apostles, did not call the word of God, or the scriptures, darkness, obscureness, or mistiness, but a certain brightness and lightsomeness. David saith: “Thy word is a lantern unto my feet, and a light unto my paths.” And what, I pray you, is more evident, than that, in making doubtful and obscure things manifest, no man doth refer to darkness and uncertainties? Things uncertain, doubtful, and obscure, are made manifest by those things that are more certain, sure, and evident. But, as often as any question or controversy doth happen in matters of faith, do not all men agree, that it ought to be ended and determined by the scriptures? It must therefore needs be, that the scriptures are evident, plain, and most assuredly certain.
 
@@ -60,8 +57,6 @@ What their meaning is that will not have the scriptures expounded.
 
 The scriptures are not to be corrupted with foreign expositions,
 
-74 THE FIRST DECADE. [SERM.
-
 seen the deeds nor writings of Paul. Thus have I, I hope, both plainly and substantially shewed, that the word of God ought to be expounded.
 
 And for those which cry out against the exposition of the scriptures, and would not have the ministers of the word and churches to declare the scriptures in open and solemn audience, neither to apply them to the places, times, states, and persons, their fetch! is to seek somewhat else than the honour due unto God. They lead their lives far otherwise than is comely for godly men. Their talk is wicked, unseemly, and dishonest. Their deeds are mischievous and heinous offences. And this would they do without punishment, and therefore desire to have the exposition of the scriptures to be taken clean away. For if a man do read the words of the scripture only, not applying it to the states, places, times, and persons, it seemeth that he hath not greatly touched their ungodly and wicked life. Therefore, when they cry that sermons and expositions of the scriptures ought to be taken away from among men, and that the scriptures ought to be read simply without any addition ; they mind nothing else but to cast behind them the law of God, to tread under foot all discipline and rebuking of sin, and so to offend freely without punishment: which sort of men the righteous Lord will in his appointed time punish so much the more grievously, as they do more boldly rebel against their God.
@@ -84,9 +79,7 @@ The holy scriptures are not to be expounded according to men’s fanta-
 
 The exposition of the scripture must not be contrary to the articles of our belief.
 
-The exposi- tion must not be repugnant to the love of God and our neighbour.
-
-76 THE FIRST DECADE. [SERM.
+The exposition must not be repugnant to the love of God and our neighbour.
 
 fore have I spoken), we also believe, and therefore do we speak!:” let it therefore be taken for a point of catholic religion, not to bring in or admit any thing in our expositions which others have alleged against the received articles of our faith, contained in the Apostles’ Creed and other confessions of the ancient fathers. For saith the apostle: “In defence of the truth we can say somewhat, but against the truth we are able to say nothing.” When therefore in the gospel after St John we read the saying of the Lord, “ The Father is greater than 13,” we must think, that it is against the articles of our faith to make or admit any inequality in the Godhead betwixt the Father and the Son; and therefore, that the Lord’s meaning was otherwise than the very words at the first blush do seem to import. Again, when we read this saying of the apostle, “It cannot be that they which were once illuminated, if they fall away, should be renewed again into repentance‘ ;” let us not believe that repentance is to be denied to them that fall: for the catholic faith is this, that in every place, at every season, so long as we live on this earth, a full pardon of all sins is promised to all men which turn to the Lord. In like manner, when we read that the Lord took bread, and said of the bread, “ This is my body®;” let us presently remember, that the articles of our faith do attribute to our Lord the very body of a man, which ascended into heaven, and sitteth at the right hand of the Father, from whence it shall come to judge the quick and the dead; and let us think, that the Lord, speaking of the sacrament, would have us to expound the words of the sacrament sacramentally, and not transubstantially. Also in reading that saying of the apostle, ‘Flesh and blood cannot inherit the kingdom of God®;” let us not by and by upon these words take it simply as the words do seem to signify, but sticking to the article of our faith, “1 believe the resurrection of the body’,” let us understand, that by flesh and blood are meant the affections and infirmities, not the nature and substance, of our bodies. Furthermore, we read in the gospel, that the Lord doth gather a sum of the law and the prophets, saying: “ Thou
 
@@ -130,13 +123,11 @@ Thus much hitherto have I said touching the sense and exposition of God’s word
 
 [6 The proverb which Bullinger has adopted is “acu rem tetigisti.”]
 
-80 THE FIRST DECADE. [SERM.
-
 men and ages to lead their lives by: therefore ought it by interpretation to be applied to all ages and men of all sorts. For even our God himself did by Moses in many words expound and apply to his people the law, which he gave and published in Mount Sina. Furthermore, it was a solemn use among the ancient prophets first to read, and then by expositions to apply, God’s law to the people. Our Lord Jesus Christ himself expounded the scriptures. The same did the apostles also. The word of God therefore ought to be expounded. As for those which would not have it expounded, their meaning is, because they would sin freely, without controlling or punishment. But whereas the scripture doth admit an exposition, it doth not yet admit any exposition whatsoever: for that which savoureth of man’s imagination it utterly rejecteth. For as by the Spirit of God the scripture was revealed, so by the same Spirit it is requisite to expound it. There are therefore certain rules to expound the word of God religiously by the very word of God itself: that is, so to expound it, that the exposition disagree not with the articles of our faith, nor be contrary to charity towards God and our neighbour; but that it be thoroughly surveyed, and grounded upon that which went before and followeth after, by diligent weighing of all the circumstances, and laying together of the places. And chiefly it is requisite, that the heart of the interpreter be godly bent, willing to plant virtue and pluck up vice by the roots, and finally, always ready evermore to pray to the Lord, that he will vouchsafe to illuminate our minds, that God’s name may in all things be glorified. For his is the glory, honour, and dominion, for ever and ever. Amen.
 
 ιν. TRUE FAITH. 81
 
-OF TRUE FAITH; FROM WHENCE IT COMETH; THAT IT IS AN ASSURED BELIEF OF THE MIND, WHOSE ONLY STAY IS UPON GOD AND HIS WORD.
+## Of True Faith; From Whence It Cometh; That It Is an Assured Belief of the Mind, Whose Only Stay Is upon God and His Word
 
 ---
 [[Bullinger Dec 4 Decade 1, Sermon 2|← 4. Decade 1, Sermon 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 6 Decade 1, Sermon 4|6. Decade 1, Sermon 4 →]]

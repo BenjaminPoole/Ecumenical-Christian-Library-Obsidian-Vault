@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 4
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT DANIEL. ON THE LUST OF THE FLESH AND OF THE SPIRIT.
+## Conference of Abbot Daniel. On the Lust of the Flesh and of the Spirit
 
 ## Chapter 1
 

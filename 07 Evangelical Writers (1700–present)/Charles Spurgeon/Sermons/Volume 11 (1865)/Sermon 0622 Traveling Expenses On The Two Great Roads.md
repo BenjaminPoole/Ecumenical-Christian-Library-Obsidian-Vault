@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Traveling Expenses On The Two Great Roads
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 622
 
-DELIVERED ON SUNDAY MORNING, APRIL 2, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 2, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "So he paid the fare." Jonah 1:3.
 
@@ -170,7 +169,6 @@ Can we return? We have paid our fare to go to the place of destruction, but we h
 Let me say to those of you who are sleeping this morning, careless of your fate—If you sleep much longer, you may wake up where your waking will be terrible. What are you doing, O you Sleepers! Rise! I remind you of your future doom, of your present danger. O Spirit of God, arouse them! And if awakened, you cry, "What must I do to be saved?" The answer comes, "Believe in the Lord Jesus Christ and you shall be saved."
 
 Though you can see no means of escape, yet there is a means provided by God! And when you are cast out from the ship, have left all other confidence and think that God's sea of wrath will cover you up—then Christ, who has been prepared of old as our great Deliverer, shall take you and bear you safely to the land of eternal Glory. I would God that you were made to forsake the way of the Destroyer and led in the way of peace, that He might have all the praise forever. May He bless these poor, feeble, but well-intended remarks, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0621 The Precious Blood Of Christ|← #621]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0623 Satan Considering the Saints|#623 →]]

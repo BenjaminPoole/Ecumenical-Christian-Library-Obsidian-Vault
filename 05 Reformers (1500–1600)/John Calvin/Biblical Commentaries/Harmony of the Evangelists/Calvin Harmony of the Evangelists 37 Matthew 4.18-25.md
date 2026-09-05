@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 37. Matthew 4:18-25;Mark 1:16-20;Luke 5:1-11
-
-**MATTHEW 4:18-25; MARK 1:16-20; LUKE 5:1-11**
 
 **18**. And Jesus, walking near the sea of Galilee, saw two brothers, Simon surnamed Peter, and Andrew his brother, casting a net into the sea; for they were fishers. **19**. And he saith to them, Follow me, and I will make you fishers of men. **20**. And they, having left their nets, immediately followed him. **21**. And advancing thence, he saw other two brothers, James the son of Zebedee, and John his brother, in the ship with Zebedee their father, mending their nets: and he called them. **22**. And they immediately, having left the ship and their father, followed him. **23**. And Jesus went about all Galilee, teaching in their synagogues, and preaching the Gospel of the kingdom, and healing every disease, and every illness among the people. **24**. And the report of him spread into the whole of Syria: and they brought to him all who were ill and afflicted with various diseases and torments, and demoniancs, and lunatics, and those that had palsy, and he healed them. **25**. And great multitudes followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from the country beyond Jordan.
 

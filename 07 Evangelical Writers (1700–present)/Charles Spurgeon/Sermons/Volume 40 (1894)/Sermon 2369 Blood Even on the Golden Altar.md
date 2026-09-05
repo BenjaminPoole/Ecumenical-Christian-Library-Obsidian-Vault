@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Blood Even on the Golden Altar
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2369
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the Tabernacle of the Congregation." Leviticus 4:7.
 
@@ -160,7 +157,6 @@ Hebrews 9:1 Then verily the first Covenant had also ordinances of Divine service
 3-8. And after the second veil, the tabernacle which is called the Holiest of All; which had the golden censer, and the Ark of the Covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the Tables of the Covenant; and over it the Cherubims of glory shadowing the Mercy Seat; of which we cannot now speak particularly. Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God. But into the Second went the High Priest, alone, once every year, not without blood, which he offered for himself, and for the errors of the people: the Holy Spirit thus signifying that the way into the Holiest of All was not yet made manifest, while as the first tabernacle was yet standing. Notice especially those words, "Not without blood." There could be no approach to God under the old dispensation without the shedding of blood and there is no access to the Lord, now, without the precious blood of Christ.
 
 9-22. Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience; which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation. But Christ being come an High Priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building, neither by the blood of goats and calves, but by His own blood, He entered in once into the Holy Place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifies to the purifying of the flesh: how much more shall the blood of Christ, who through the Eternal Spirit offered Himself without spot to God, purge your conscience from dead works to serve the living God? And for this cause He is the Mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance. For where a testament is, there must also of necessity be the death of the testators. For a testament is offorce after men are dead: otherwise it is of no strength at all while the testator lives. Whereupon neither the first testament was dedicated without blood. For when Moses had spoken every precept to all the people according to the Law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the Book, and all the people, saying, This is the blood of the testament which God has enjoined unto you. Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry. And almost all things are by the Law purged with blood; and without shedding of blood is no remission. That is the great Gospel Truth that was set forth by all the sacrifices under the Law of God—"without shedding of blood is no remission."
-
 
 ---
 [[Sermon 2368 The Living Care of the Dying Christ|← #2368]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2370 Christ First, Me Last—Nothing Between But Love|#2370 →]]

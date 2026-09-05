@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Priest Ordained by the Oath of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1597
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 1, 1881,.
+*Delivered on Lord's-Day Morning, May 1, 1881*
 
 > "And inasmuch as not without an oath He was made Priest, (for those priests were made without an oath; but this with an oath by Him that said unto Him, The Lord swore and will not repent, You are a Priest forever after the order of Melchisedec), by so much more was Jesus made a surety of a better Testament." Hebrews 7:20-22.
 
@@ -148,7 +147,6 @@ It comes to this, that we must believe in Jesus Christ and take Him to be our Pr
 See that you do not do this, for the Lord your God is a jealous God and if you touch His dignity, so far as to strike at His oath, what more atrocious crime can you commit? "He that believes not has made God a liar, because He has not believed on the Son of God." Will you refuse the ever-living Savior? Is there one here so foolish as to be trusting to another priest? Oh, can it be that you are so far gone as to look to a man instead of looking to the Son of God? Dear Friends, if Christ deigns to be Priest for us, we ought gladly to accept Him—there ought to be a rush at Him! We are bound to cry, "Great Priest, intercede for me! Let Your Sacrifice avail for me! Wash me in the cleansing blood." It ought to be a joy to all mankind to accept this Heaven-sent Priest and Surety! Will you refuse Him? Will you neglect His salvation?
 
 If you do so, remember you shut yourselves out from the better hope and the better Covenant and the better promises—you are barring the door of Heaven against yourselves! He who rejects the Savior commits eternal suicide! His blood shall be upon his own head. This shall be the Hell of his Hell, the very center of its fire, the worm that never dies, that he, himself, put from him everlasting life and counted himself unworthy of the kingdom and would not have Christ, whom with an oath, God had set up that whoever believes in Him might live! God bless these all-important Truths of God to every heart for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1596 Hearken and Look; or, Encouragement for Believers|← #1596]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1598 The Substance Of True Religion|#1598 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # All the People at Work for Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1358
 
-DELIVERED ON WEDNESDAY MORNING, MAY 9, 1877,.
+*Delivered on Wednesday Morning, May 9, 1877*
 
 > I HAVE taken two texts from two successive chapters of the book of Joshua. The first is from Joshua the seventh, at the third verse. The spies who were sent to Ai returned to Joshua and said to him, "Let not all the people go up; but let about two or three thousand men go up and smite Ai." This policy led to a disastrous defeat and our other text gives us the Lord's command concerning the new attack. You will find it in the eighth of Joshua and the first verse—"The Lord said unto Joshua, Fear not, neither be dismayed: take all the people of war with you, and arise, go up to Ai; see, I have given into your hand the king of Ai, and his people, and his city, and his land."
 
@@ -134,7 +133,6 @@ Oh, bleeding Lamb, it does seem strange that we have a greater passion for liter
 Look what Pastor Harms did in the village of Hermansburg, how he stirred up all the people until they gave themselves and their property to the Lord and built a ship for the mission and went forth in it to Africa—company after company—to evangelize! Should it not be the ambition of a minister to feel that if he stays at home he will at least, by the Holy Spirit's help, produce missionaries by the scores in the village where he labors! I know the day comes that he will be thought most happy who suffered and labored most for Christ. When this great fight is over, he who is most scarred will be most honored, and he who dwelt at home at ease will think himself but sparsely blessed because he did not do his share in the war.
 
 Let us be all at work for Christ and His redeemed Church! All at work, at all times and in all ways for Christ! It is for that I plead—and then we will take another motto and say—The world for Christ and Christ for every nation under Heaven! This will be accomplished when the Spirit has awakened us all. O blessed Spirit, convert the Church and it will convert the world!
-
 
 ---
 [[Sermon 1357 A Business-Like Account|← #1357]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1359 Happiness—the Privilege and Duty of Christians|#1359 →]]

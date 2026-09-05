@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # 'Oh, How He Loves!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3228
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said the Jews, Behold how He loved him!" John 11:36.
 
@@ -71,7 +68,7 @@ Another most admirable way of proving our love to Christ is by being scrupulousl
 
 But, Beloved, remember that when our love has reached its climax, it can only be like a solitary dewdrop trembling on a leaf compared with the copious showers of love that pour continually from the heart of our dear Lord and Master! Put all our loves together and they will not fill a tiny cup! And there before us flows the fathomless, limitless, shoreless ocean of the love of Jesus Christ! Yet let us have all the love for Him that we can. May the Holy Spirit fill our souls to the brim with love to Jesus for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK1:28-45; 2:1-12,
+## Exposition by C. H. Spurgeon: Mark 1:28-45; 2:1-12
 
 Mark 1:28. And immediately His fame spread abroad throughout all the region round about Galilee. ' 'Immediately." That is, as soon as Jesus had healed the man with an unclean spirit His fame spread like wildfire. The miracle was reported from mouth to mouth till everybody in that region knew of it. It was said that the words and writings of Martin Luther were carried as by the wings of angels, so speedily was everything that he said and wrote made known far and wide. On this occasion, it was so with our Lord's wondrous deed of mercy and power—"Immediately His fame spread abroad throughout all the region round about Galilee."
 
@@ -126,7 +123,6 @@ Mark 2:1, 2. And again He entered into Capernaum after some days; and it was hea
 6-9. But there were certain of the scribes sitting there and reasoning in their hearts, Why does this Man thus speak blasphemies? Who can forgive sins but God only? And immediately when Jesus perceived in His spirit that they so reasoned within themselves, He said to them, Why reason you these things in your hearts? Which is easier to say to the sick of the palsy, Your sins are forgiven you? Or to say, Arise and take up your bed and walk?It was just as easy to say either the one or the other.
 
 10-12. But that you may know that the Son of Man has power on earth to forgive sins, (He said to the sick of the palsy), I say unto you, Arise, and take up your bed, and go your way into your house. And immediately he arose, took up the bed and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion!
-
 
 ---
 [[Sermon 3227 The Secret of Happiness|← #3227]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3229 The Royal Savior|#3229 →]]

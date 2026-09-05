@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Source
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2897
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The woman said unto him, Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water?" John 4:11.
 
@@ -118,7 +115,6 @@ garded as a religious woman! And it is strange how often a certain religiousness
 25, 26. The woman said unto Him. I know that Messiah comes, which is called Christ: when He is come, He will tell us all things. Jesus said unto her, I that speak unto you am He. This great Truth of God burst upon her with all the forge of a Divine Revelation—and faith came with the information! The words that had gone before had prepared her to expect this manifestation of Christ to her soul.
 
 27-34. Andat thispoint His disciples came andmarvelled that He talked with a woman: yet no man said, What do You seek? Or, Why do You talk with her? The woman then left her water pot and went her way into the city, and said to the men, Come, see a Man who told me all things that I ever did: is not this the Christ? Then they went out of the city, and came unto Him. In the meanwhile His disciples urged Him, saying, Master, eat But He said unto them, I have food to eat that you know not of Therefore said the disciples, one to another, Has any man brought Him something to eat? Jesus said unto them, My food is to do the will of Him who sent Me, and to finish His work
-
 
 ---
 [[Sermon 2896 Harvest Time|← #2896]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2898 The Search Warrant|#2898 →]]

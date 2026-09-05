@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 21
 
-**CHAPTER 21**
+***Chapter 21***
 
 ## Jeremiah 21:1-4
 
@@ -55,7 +54,7 @@ He might indeed have said briefly, “I will fight with an extended hand and wit
 
 ## Prayer Lecture 78
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not to provoke thy wrath, and are also so slow to repent, — O grant, that we may at least so profit under thy threatenings and the manifestations of thy judgment, that we may give up ourselves wholly to thee, and hope, also for thy favor which has been for a time hidden from us, until with resigned minds we shall be able confidently to call on thee, and so prove our constancy, that thy name may be glorified in us, so that we may also be glorified in thee through Jesus Christ our Lord. — Amen.
 
@@ -129,7 +128,7 @@ He then adds, *Lest my indignation go forth like fire, and burn, and there be no
 
 ## Prayer Lecture 79
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not, by new crimes, daily to kindle thy wrath, we may not proceed to obstinacy or contempt; and since it is good for us to be chastised by thine hand, grant that we may resignedly submit to thy scourges, and allow thee to act the part of a Father towards us, in restoring us to the right way, and never cease to hope in thee, even when thou seemest to be angry with us; but may our hope regard that issue which thou promisest, even that evils themselves shall be an aid to our salvation, until having gone through all the miseries of the present life, we shall come into that blessed rest which thine only-begotten Son has procured for us. — Amen.
 

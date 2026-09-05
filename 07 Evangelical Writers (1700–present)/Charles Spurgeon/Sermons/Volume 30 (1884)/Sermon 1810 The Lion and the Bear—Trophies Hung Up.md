@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Lion and the Bear—Trophies Hung Up
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1810
@@ -97,7 +96,7 @@ There is little doing for the Master—everybody is cowardly and backward. Awake
 
 quiet the whole kennel of them! Come to the front of the fight, you that are truly men, and the Lord will be with you! Remember how He has helped you in times past and let the God of your salvation be your God forever and ever. Now, I am going to close with a few remarks upon the second head.
 
-DAVID IS A VERY FIT AND WONDERFUL TYPE OF THE GREAT SON OF DAVID, THE LORD JESUS
+## David Is a Very Fit and Wonderful Type of the Great Son of David, the Lord Jesus
 
 CHRIST. If Saul had really believed David—which I am afraid he did not—the story that David told him would have encouraged him to have placed much confidence in the young hero. Any believing man in the camp who really trusted Jehovah, as David did, would have said, "I see in you, young man, one whom God has smiled upon. He has enabled you to slay both a lion and a bear and, therefore, I am assured that you will give a good account of this uncircumcised Philistine before long." Transfer all this from David to David's Lord, the Lord Jesus Christ, and it comes to this—what He has already done should convince us to believe in Him.
 
@@ -118,7 +117,6 @@ It comes to this, that we must go forward against everything that stalks before 
 Our great redeeming Substitute did not pledge His name as our Surety without counting the cost. Nor did He enter upon Covenant engagements blindly, as silly men too often do. He knew that it would cost Him His own heart's blood, but He drew not back! He knew what power would be requisite for the achievement of His purpose and He was not daunted. He has undertaken and He will go through with it! As the Lord lives, Christ will suffer no defeat. You have not to do, today, with a puny mortal man that can be put aside and huffed—and made to fear and turn His back! You have to do with a greater than David—and if David resolutely ran to meet his foe and paused not till he came back with his gory head, a grizzly trophy of his courage—you need not be afraid that Christ will return defeated! He has taken up this glove and He will fight this battle through.
 
 He will have the victory all along the line and when the last great "Hallelujah" goes up to Heaven, there will be no laments to mingle with it! Neither will Christ have to put away His escutcheon with a sinister bar upon it because He was in part defeated. Never! "The Lord reigns!" The Breaker has gone up before us and the King at the head of us. We shall march through, even to the dividing of the spoil! He has led captivity captive and we shall triumph through His name if we are resting in Him. Oh, that you would trust Him—you that do not as yet rely upon Him! May His great Spirit bring you to believe in Him, for His name's sake. Amen.
-
 
 ---
 [[Sermon 1809 May I|← #1809]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1811 The Road to Honor|#1811 →]]

@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - theodore-beza
 ---
-
 # 7. CHAP. VII
-
-## CHAP. VII.
 
 *After what sort this doctrine may bee preached vvith most profit.*
 

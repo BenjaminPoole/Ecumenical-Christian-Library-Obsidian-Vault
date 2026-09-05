@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Life, and the Path to It
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2813
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You will show me the path of life: in Your Presence is fullness ofjoy; at Your right hand there are pleasures forevermore." Psalm 16:11.
 
@@ -121,7 +118,7 @@ Somebody recommended all persons, before they go to sea, to wear a lifebelt. I d
 
 Do you all know the Lord? If not, you do not know your best Friend. You do not know Him who is the Father of all Believers. Do you know the Lord? If not, I pray you to seek His face this very hour and especially I urge you to obey that word of His Apostle which I quoted to you just now, but cannot quote too often, "Believe on the Lord Jesus Christ, and you shall be saved." When you trust Christ, you shall see God in Christ and shall come to the Father through the Son and the Holy Spirit shall reveal Him unto you. The Lord grant that this may be the case, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM16.
+## Exposition by C. H. Spurgeon: Psalm 16
 
 Verse 1. Preserve me, O God: for in You do I put my trust Notice how the Psalmist urges the prevailing plea of faith. A trusted God will be a preserving God. If you, Believer, can truly say that you are trusting God in any time of trouble or danger, you will be safe enough in His keeping.
 
@@ -148,7 +145,6 @@ Verse 1. Preserve me, O God: for in You do I put my trust Notice how the Psalmis
 place, at any rate, but of "great David's greater Son," our Lord and Savior Jesus Christ! "Neither will You suffer Your Holy One to see corruption."
 
 11\. You will show me the path of life: in Your Presence is fullness of joy; at Your right hands there are pleasures fo-revermore.
-
 
 ---
 [[Sermon 2812 Causes and Cure of Fainting|← #2812]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2814 Abraham's Great Reward|#2814 →]]

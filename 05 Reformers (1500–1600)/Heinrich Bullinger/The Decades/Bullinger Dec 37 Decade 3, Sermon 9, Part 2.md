@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 37. Decade 3, Sermon 9, Part 2
 
 This will yet be made a great deal more manifest, if we The apo«n«
@@ -27,8 +26,6 @@ deal with two kinds of men : the one sort whereof did affirm,
 [5 in respect of Christ his blood, is an addition of the translator's.]
 
 [BULLINOER, n.]
-
-338 THE THIRD DECADE. [sERJI.
 
 that they were sufficiently able of their own strength to satisfy or fulfil the law, and that they could by their deserts and good works merit eternal life ; yea, they affirmed that the merit of Christ was not sufficient enough1 to the getting of salvation, unless the righteousness of men were added there^ unto. Against these Paul disputed very constantly and pithily in all his epistles ; for they made Christ and the grace of God of none effect. The other sort of men were such as, abusers of abusing the doctrine of grace and faith, did wallow like swine grace and O ) faith. m au filthy sins, because they thought that it was sufficient unto salvation if they did say that they believed ; but they never declared their faith or belief by any good works, although occasion thereunto were given them. Against these did St Peter very well and wisely2 dispute in the first chapter of his second epistle, and St James in the second chapter of his epistle. For he affirmeth, that Abraham was not justified by faith only, but by works : that is to say, that he was not justified by a vain opinion, but by faith which bare and was full of good works. For James doth use the names of faith and justification in one sense, and Paul in another. Paul putteth faith for an assured confidence in the merit of Christ; and he useth justification for absolution and remission of sins, for adoption into the number of the sons of God, and lastly3 for the imputing of Christ his righteousness unto us. But in James faith doth signify a vain opinion : and justification doth import, not the imputing of righteousness, but the declaring of righteousness and adoption. For it is undoubtedly true, that the holy 4 apostles of Christ, St Peter and St James, would not by their writings make void the grace and merit of Christ, to advance the merits of mortal men; but rather to withstand the unpureness of them which put the faith of Christ in peril of disgracing6, to the offence of all good men, living in the mean while most wickedly in detestable sins without repentance. Therefore the apostles of Christ, requiring good works at the hands of the faithful, do first of
 
@@ -54,8 +51,6 @@ Origen, a very ancient writer, upon the third chapter of P^f!^ the epistle of St
 
 22—2
 
-340 THE THIRD DECADE. [SERM.
-
 who, being crucified with Christ, did cry from the cross, ' Lord Jesu, remember me when thou comest into thy kingdom.' In the writings of the evangelists there is mention made of no good work which he in his life time did ; and yet,
 
 [Luke xxiii. because of this his faith only, Jesus said unto him : ' Verily I say unto thee, this day thou shalt be with me in paradise.' Therefore this thief was through faith justified without the works of the law. For after this request and prayer of his the Lord made no inquisition what his works were all his life long ; neither did he look what works he would do after this faith and believing ; but did immediately, upon his confession, both justify, and take him as a companion to go with him to paradise. Moreover to the woman, of whom mention is made in the gospel after St Luke, not for any work of the law, but for
@@ -79,8 +74,6 @@ St John Chrysostom, treating of faith, of the law of curysost. nature, and of th
 [3 Secundum propositum gratia) Dei] Sic decretum dicit Paulus a Deo, ut cessante lege solam fidem gratia Dei posceret ad salutem. — Ib. cap. iv. v. 5, col. 48.]
 
 [4 Sicut et David dicit.] Hoc ipsum munit exemplo prophetw beatitudinem bominis cui Deus accepto fert justitiam sine operibus. Beatos dicit, de quibus hoc sanzit Deus, ut sine labore et aliqua observatione sola fide justificentur apud Deum. — Ib. cap. iv. v. 6, col. 48.]
-
-342 THE THIRD DECADE. [sERM.
 
 here, peradventure, them wilt object, that he wanted time to live justly, and to do good works : I answer, that I do not greatly strive about that ; but this only I stick to, that faith alone did justify and save him. For if he had lived any longer, and had neglected faith and works, he had undoubtedly fallen from salvation. But the only end and argument whereat I now shoot is, that faith of itself doth bring salvation, and that works of themselves did never save any workers that wrought them :" as Chrysostom doth at large declare by the example of the captain1 Cornelius2.
 
@@ -106,8 +99,6 @@ And yet all this doth not tend to the making void of A reward «
 
 [7 abominabuntur me, Lat.]
 
-344 THE THIRD DECADE. [SERM.
-
 and the gospel's, but he shall receive an hundreth-fold now at this present with persecutions ; and in the world to come rsTim.iv. life everlasting." And Paul saith : "Godliness is profitable to all things, having promise of the life that is now, and of that which is to come. This is a sure saying, and by all means worthy to be received. For therefore we both labour and suffer rebuke, because we have our hope settled in the living God, &c." And here it will do well to reckon up and cite the testimonies of scrif*ur'3, which do concern the reward of good works. I will therefore recite a few, but such as shall be evident and pertaining to the matter. The risai. iu. io, Lord in Esay crieth : "Say to the just, that it shall go well with him ; for he shall eat the fruit of his study, or travail. And woe to the wicked sinner; for he shall be rewarded according to the works of his hands." In Jeremy we read :
 
 jjer. xxxi. " Leave off from weeping ; for thy labour shall be rewarded
@@ -126,9 +117,9 @@ Yet for all this we must not abuse these and such like We muft not testimonies t
 
 P Heb. x. 35 — 39. So Cramner, 1539.]
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 Hire is due, but heritage proceedetn of the parents' good-will.
 
@@ -144,8 +135,6 @@ Therefore God examineth our works according to his own favourable mercy, and not
 
 Therefore hi the seventh chapter of his book, De Gratia st Augustine et Liber o Arbitrio, thus he saith: "John the forerunner [a uncoacted: uncompelled.]
 
-348 THE THIRD DECADE. [sERM.
-
 menu of the our Lord doth say, 'A man can receive nothing, unless it
 
 [joim m. 27.] be given him from heaven.' If therefore thy good works be the gifts of God, then God crowneth thy merits, not as thy merits, but as his own gifts. Let us therefore consider the merits of the apostle Paul, (that is to say, the merits which he saith are in himself,) whether they be the gifts of God or r? Tim. iv. no- ' I have,' saith he, ' fought a good fight, I have fulfilled my course, I have kept the faith.' First of all, these good works had been no good works, unless good thoughts had gone before them. Give ear, therefore, what he sayeth
@@ -157,8 +146,6 @@ menu of the our Lord doth say, 'A man can receive nothing, unless it
 FRom. ix. he said this, so in another place also he saith : ' It is not of the wilier, nor of the runner, but of God which taketh mercy.' Which sentence cannot be by any means so inverted, that we may say, It is not of God which taketh mercy, but of the wilier, and of the runner. For whosoever dare take upon him so to invert that sentence of the holy apostle, he doth openly shew that he flatly gainsayeth the words of St Paul. Last of all he said ; ' I have kept the faith :' but in another place again he confesseth, saying, ' I have obtained mercy that I might be faithful.' He said [i cor. vit. not, I have obtained mercy because I am faithful ; but, ' that I might be faithful r1 declaring thereby that faith itself cannot be obtained without the mercy of God ; and that faith is the gift of God, as he doth most evidently teach where he saith, ' Te are saved by grace through faith ; and that not of [EPh. «. s. yourselves, it is the gift of God.' For they might say, We have therefore received grace, because we have believed ; by that means attributing, as it were, faith to themselves, and grace to God : but, to prevent that insinuation, the holy apostle St Paul, when he had said, ' By faith,' doth straightways add, 'And that not of yourselves, it is the gift of God.' Again, lest they should say that they by their works did meritoriously deserve such a gift, he doth presently annex, ' Not of works, lest any man should boast.' Not because he did deny or make void good works, considering that he saith, that God doth reward every man according to his works ; but for because works are of faith, and not faith of works. And so by this means our works of righteousness proceed from him, from whom that faith doth also come, touching which it is said, * The just doth live by faith1.'"
 
 [! Dicit et Joannes, precursor Domini nostri, Non potest homo accipere quicquam, nisi fuerit ei datum de coelo ... Si ergo Dei dona sunt bona merita tun, non Deus coronat merita tua tanquam merita tua, sed tanquam dona sua. Proinde consideremns ipsa merita apostoli Pauli, — et videamus, utrum merita ipsius, tanquam ipsius, id est, ex ipso ei comparata, an dona sint Dei. Bonum, inquit, certamen certavi, cursum consummavi, fidem servavi. Primo, ista bona opera, si non ea prsecessissent cogitationes bonse, nulla esscnt. Attendite itaque quid de ipsis cogitationibus dicat; ait enim scribens ad Corinthios, Non quia idonei sumus cogitaro aliquid a nobis, tanquam a nobismetipsis, sed sufficientia nostra ex Deo cst. Deinde singula inspiciamus : Bonum, inquit, certamen certavi. Qusero qua virtute certaverit, utrum quse illi ex semetipso fuerit, an quse desuper data sit ? Sed absit ut tantus doctor gentium ignoraverit legem Dei, cujus vox est in Deuteronomio : Ne dicas in corde tuo, Fortitude mea et potentia manus mese fecit mibi virtutem magnam hanc ; sed memoraberis Domini Dei tui : quia ipse tibi dat fortitudinem facere virtutem. Quid autem prodest bonum certamen, nisi sequatur victoria? Et quis dat victoriam, nisi ille de quo dicit ipse, Gratias Deo qui dat nobis victoriam per Dominum nostrum Jesum Christum? Et alio loco, cum commemorasset testi-
-
-350 THE THIRD DECADE. [sERM.
 
 All this have I hitherto word for word recited out of St Augustine : wherein all that may be said concerning the merits of good works are sufficiently well contained, and so soundly confirmed by proofs of scripture, that I mean not to add any thing unto them : for I see it sufficiently manifest for all to understand what and how the ancient fathers thought and taught of the merits of sinful men. For what can be said more briefly, sincerely, and fully, than that a reward is prepared for the good works of men ? but yet that that reward is nothing else but the grace, and that the merits or good works of the saints are the gift1, of God ; which merits while he crowneth, he crowneth his own gifts. In all this therefore the ecclesiastical and apostolic doctrine remaineth still immutable and unreprovable ; that we are justified and saved by the grace of God2 through faith, and not through our own good works or merits.
 
@@ -175,8 +162,6 @@ In the twelfth of Deuteronomy we read : " Every man Deut. xi shall not do that w
 [* vel nolle obsequi, Lat. omitted; or unwillingness to be obedient.]
 
 [« a veritate divina, Lat. omitted ; by the truth of God.]
-
-352 THE THIRD DECADE. [SEKM.
 
 seem in their own eyes verily to be jolly fellows, and true •worshippers of God, and zealous followers of the traditions of the holy fathers, bishops, kings, and princes : but God, which cannot lie, doth flatly pronounce that their works do differ nothing from witchcraft, apostasy, and blasphemous idolatry, than which there can be nothing more heinous by any means devised. Therefore the Lord in the gospel, citing that place out of Esay's prophecy, doth plainly condemn, reject, and tread under foot all those works which we choose to ourselves, having their beginning of our own good intents and purposes, LMi3Ui4 1' wnere he saith : " In vain do they worship me, teaching doctrines the precepts of men. Every planting, which my Father hath not planted, shall be plucked up by the roots. Let them alone ; they be blind leaders of the blind." And theretut i. i4.j upon it is that St Paul did so boldly affirm, that the precepts of men are contrary to the truth, and are mere lies. The rRom. xiv. same Paul in one place saith, " Whatsoever is not of faith is sin :" and in another place, " Faith cometh by hearing, and hearing by the word of God."
 
@@ -196,15 +181,13 @@ To the first precept thou shalt refer the fear, the faith, and love of God, with
 
 [4 et perseverantem, Lat. omitted; and enduring.]
 
-[BULLINQER, 11.]
-
-354 THE THIRD DECADE. [sERM.
+## [Bullinqer, 11.]
 
 is comprehended the moderate conservation of the ecclesiastical ceremonies, the preaching of God's word, public prayers, and whatsoever else doth belong to the outward service or external worship due to God. To the fifth thou mayest annex the natural love of children toward their parents, of men toward their country and kinsfolks, the due obedience that we owe to the magistrates and all in authority, and lastly, the offices of civil humanity. To the sixth thou shalt join justice and judgment, the protection of widows and orphans, the delivering of the oppressed and afflicted, well-doing to all men, and doing hurt to no man. To the seventh thou shalt add the faith of wedded couples, the offices of marriage, the honest and godly bringing up of children, with the study of chastity, temperance, and sobriety. To the eighth is to be reckoned upright dealing in contracts, liberality, bountifulness, and hospitality. Under the ninth is couched the study of truth through all our life-time, faith in words and deeds, with decent, honest, and profitable speech. In the tenth and last thou mayest remember good affections, holy wishes, with ah1 holy and honest thoughts. And so this is the compendious platform of good works. Now if thou desire to have it more briefly expressed than this that thou seest, then turn thyself, and hearken to the words of Christ our Lord, who gathereth these ten into two [Matt xxii. principal points, and saith : " Thou shalt love the Lord thy ^ii.?2'.]and God with all thy heart, with all thy soul, and with all thy mind ; and thy neighbour as thyself. Whatsoever therefore ye would that men should do to you, even so do ye to them." what be Upon these precepts of the Lord all the faithful, which fi^rydwd, desire to do good works, must surely fix their eyes and thTtesu? minds, and that too so much the more diligently and con- moniesof 11-1 .
 
 t^ancumt stantly as they do more surely and evidently perceive and see, that God in the law and the prophets doth require nothing else nor any other works at the hand of his elect and chosen servants. Go to now therefore, let us hear out of the holy prophets some such evident testimonies touching good works as do consent and wholly agree with the law of the Lord.
 
-roeut x. 12, Moses in Deuteronomy crieth : " And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, and to walk in all his ways, to love him, and to serve the Lord thy God with all thy heart and with all thy soul ; that thou keep the commandments of the Lord, and his ordi- nances, which I command thee this day ?" And the kingly prophet David in the fifteenth Psalm asketh this question : "Lord, who shall dwell in thy tabernacle?" and presently answereth it himself, saying: "Even he that walketh uprightly, and doth the thing that is just and right ;" and so forth, as it is contained in the ten commandments. Esay also, in his thirty-third chapter, moveth the same question, and answereth it even so as David had done before him. Jeremy, in the twenty-second chapter, doth urge and reiterate these words to the Jews : " Thus the Lord commandeth : keep equity and righteousness, deliver the oppressed from the power of the violent, do not grieve nor oppress the stranger, the fatherless, nor the widow, and shed no innocent blood in this place." And Ezechiel, in his eighteenth chapter, knitteth up a beadrow1 of good works, in no point unlike to these, saving only that it is somewhat more largely amplified. In Osee the Lord saith : "I desire mercy2 more than sacrifice, [Hoseavi.6.] and the knowledge of God more than whole burnt-offerings." Micheas doth diligently inquire what the worshipper of God CM'c. vi. 8.3 should do to please him withal, and what works he should do to delight the Lord ; and immediately, by the inspiration of the Holy Ghost, he maketh answer, saying : " I will shew thee3, O man, what is good ; and what the Lord requireth of thee : namely, to do justly, to love mercy, and with reverence to walk before thy God." In like manner the prophet Zachary, to them that demanded of him certain questions touching virtues and such good works as please the Lord, gave this answer, saying: "Thus saith the Lord of hosts ; rzech. vu. 9,
+roeut x. 12, Moses in Deuteronomy crieth : " And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, and to walk in all his ways, to love him, and to serve the Lord thy God with all thy heart and with all thy soul ; that thou keep the commandments of the Lord, and his ordinances, which I command thee this day ?" And the kingly prophet David in the fifteenth Psalm asketh this question : "Lord, who shall dwell in thy tabernacle?" and presently answereth it himself, saying: "Even he that walketh uprightly, and doth the thing that is just and right ;" and so forth, as it is contained in the ten commandments. Esay also, in his thirty-third chapter, moveth the same question, and answereth it even so as David had done before him. Jeremy, in the twenty-second chapter, doth urge and reiterate these words to the Jews : " Thus the Lord commandeth : keep equity and righteousness, deliver the oppressed from the power of the violent, do not grieve nor oppress the stranger, the fatherless, nor the widow, and shed no innocent blood in this place." And Ezechiel, in his eighteenth chapter, knitteth up a beadrow1 of good works, in no point unlike to these, saving only that it is somewhat more largely amplified. In Osee the Lord saith : "I desire mercy2 more than sacrifice, [Hoseavi.6.] and the knowledge of God more than whole burnt-offerings." Micheas doth diligently inquire what the worshipper of God CM'c. vi. 8.3 should do to please him withal, and what works he should do to delight the Lord ; and immediately, by the inspiration of the Holy Ghost, he maketh answer, saying : " I will shew thee3, O man, what is good ; and what the Lord requireth of thee : namely, to do justly, to love mercy, and with reverence to walk before thy God." In like manner the prophet Zachary, to them that demanded of him certain questions touching virtues and such good works as please the Lord, gave this answer, saying: "Thus saith the Lord of hosts ; rzech. vu. 9,
 
 . , . , . i 10 J and viii.
 
@@ -217,8 +200,6 @@ With this doctrine of the prophets doth the preaching of the evangelists and apo
 [3 So Corerdale's Bible, 1535, and the Vulgate.]
 
 23—2
-
-356 THE THIRD DECADE. [SERM.
 
 this, To visit the fatherless and widows in their adversity, and to keep himself unspotted of the world."
 
@@ -243,8 +224,6 @@ Thus much had I hitherto to say touching the nature or property, cause, end, and
 [i ratione, Lat.] [2 etiam illud, Lat.]
 
 [3 mercedemque reddore, Lat. omitted ; and to render a reward.] [4 orthodoxum et primarium dogma, Lat.] [5 nihilominus, Lat. omitted ; notwithstanding.] [6 de bonis operibus, Lat. omitted ; concerning good works.] [' The greater part of this ninth Sermon is extracted from Bullinger's treatise, De yera hominis Christian! justiftcatione, which, dated at Zurich, August 1643, forms the preface to his Commentary on the Gospel of St John.]
-
-358 THE THIRD DECADE. [SERM.
 
 OF SIN, AND OF THE KINDS THEREOF; TO WIT, OF ORIGINAL AND ACTUAL SIN, AND OF SIN AGAINST THE HOLY GHOST: AND LASTLY, OF THE MOST SURE AND JUST PUNISHMENT OF SINS.
 

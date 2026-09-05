@@ -10,7 +10,6 @@ tags:
   - wesley
   - wesley-journal
 ---
-
 # 9. Wesley's Marriage; Dealings with Cornwall Smugglers; His Illness and Recovery
 
 1751\. Wednesday, January 10.—Having received a pressing letter from Dr. Isham, then the rector of our college, to give my vote at the election for a Member of Parliament which was to be the next day, I set out early, in a severe frost and with the northwest wind full in my face. The roads were so slippery that it was scarcely possible for our horses to keep their feet; indeed one of them could not, but fell upon his head and cut it terribly. Nevertheless, about seven in the evening, God brought us safe to Oxford. A congregation was waiting for me at Mr. Evan’s, whom I immediately addressed in those awful words, “What is a man profited, if he shall gain the whole world, and lose his own soul?”
@@ -209,17 +208,17 @@ of
 
 JOHN WESLEY,
 
-A BRAND PLUCKED OUT OF THE BURNING:
+## A Brand Plucked out of the Burning
 
 WHO DIED OF A CONSUMPTION IN THE FIFTY-FIRST YEAR OF HIS AGE,
 
 NOT LEAVING, AFTER HIS DEBTS ARE PAID,
 
-TEN POUNDS BEHIND HIM:
+## Ten Pounds Behind Him
 
 PRAYING,
 
-GOD BE MERCIFUL TO ME, AN UNPROFITABLE SERVANT!
+## God Be Merciful to Me, an Unprofitable Servant!
 
 He ordered that this, if any, inscription should be placed on his tombstone.
 

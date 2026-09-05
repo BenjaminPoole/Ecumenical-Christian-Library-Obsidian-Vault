@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 49
 
-**CHAPTER 49.**
+***Chapter 49.***
 
 ## Genesis 49:1-33
 

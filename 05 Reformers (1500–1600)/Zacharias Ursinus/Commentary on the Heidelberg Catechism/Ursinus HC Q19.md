@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 19. Whence knowest thou this?
-
-**Question 19. Whence knowest thou this?**
 
 Answer. From the holy Gospel, which God himself revealed first in Paradise; and afterwards published by the Patriarchs and Prophets, and was pleased to represent it by the shadows of sacrifices, and the other ceremonies of the law; and lastly has accomplished it by his only begotten Son.
 
-**EXPOSITION**
+## **Exposition**
 
 This question corresponds with the third question of the Catechism, where it is asked: Whence knowest thou thy misery? Out of the law of God. So it is here asked: Whence knowest thou thy deliverance? Out of the gospel. Having, therefore, spoken of the Mediator, we must now speak of the doctrine which reveals, describes, and offers him unto us—which doctrine is the Gospel. After having spoken of the gospel, we must in the next place, speak of the way in which we are made partakers of the Mediator, and his benefits—which is by faith. First, then, we must speak of the gospel, which is, with great propriety, made to follow the doctrine of the Mediator, and the covenant, 1. Because the Mediator is the subject of the gospel, which teaches who and what kind of a Mediator he is. 2. Because he is the author of the gospel. It is a part of the office of the Mediator to reveal the gospel, as it is said: "The only begotten which is in the bosom of the Father, he hath declared him." (John 1:18.) 3. Because the gospel is a part of the covenant; and is often taken for the new covenant.
 
@@ -42,7 +39,7 @@ The gospel is, therefore, the doctrine which the Son of God, our Mediator, revea
 
 The following passages of Scripture confirm this definition which we have given of the gospel: "This is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life, and I will raise him up at the last day." "And that repentance and remission of sin should be preached in his name, among all nations, beginning at Jerusalem." "The law was given by Moses, but grace and truth came by Jesus Christ." (John 6:41. Luke 24:47. John 1:17.)
 
-**II. HAS THE GOSPEL ALWAYS BEEN KNOWN IN THE CHURCH, OR IS IT A NEW DOCTRINE?**
+## **II. Has the Gospel Always Been Known in the Church, or Is It a New Doctrine?**
 
 The gospel sometimes signifies the doctrine concerning the promise of grace, and the remission of sins to be granted freely, on account of the sacrifice of the Messiah, who had not as yet come in the flesh; and then, again, it signifies the doctrine of the Messiah as already come. In the latter sense, it has not always been, but commenced with the New Testament. In the former sense, however, it has always been in the Church; for immediately after the fall it was revealed in Paradise to our first parents—afterwards it was published by the Patriarchs, and Prophets, and was at length fully accomplished, and revealed by Christ himself. The proofs of this are the following:
 
@@ -60,7 +57,7 @@ Obj. 3. The law came by Moses, grace and truth by Jesus Christ. Therefore the go
 
 But it is said, the law was by Moses; therefore the gospel was not by him. Ans. This is so declared, because it was the principal part of his office to publish the law; yet he also taught the gospel, because he wrote and spoke of Christ, although more obscurely, as has been shown. But it was the peculiar office of Christ to publish the gospel, although he at the same time taught the law, but not principally, as did Moses: for he took away from the moral law the corruptions and glosses of false teachers—he fulfilled the ceremonial law, and abrogated it, together with the judicial law.
 
-**III. IN WHAT DOES THE GOSPEL DIFFER FROM THE LAW?**
+## **III. In What Does the Gospel Differ from the Law?**
 
 The gospel and the law agree in this, that they are both from God, and that there is something revealed in each concerning the nature, will, and works of God. There is, however, a very great difference between them:
 
@@ -74,7 +71,7 @@ The gospel and the law agree in this, that they are both from God, and that ther
 
 Obj. There is no precept, or commandment belonging to the gospel, but to the law. The preaching of repentance is a precept. Therefore the preaching of repentance does not belong to the gospel, but to the law. Ans. We deny the major, if it is taken generally; for this precept is peculiar to the gospel, which commands us to believe, to embrace the benefits of Christ, and to commence new obedience, or that righteousness which the law requires. If it be objected that the law also commands us to believe in God, we reply that it does this only in general, by requiring us to give credit to all the divine promises, precepts and denunciations, and that with a threatening of punishment, unless we do it. But the gospel commands us expressly and particularly to embrace, by faith, the promise of grace; and also exhorts us by the Holy Spirit, and by the Word, to walk worthy of our heavenly calling. This however it does only in general, not specifying any duty in particular, saying thou shalt do this, or that, but it leaves this to the law; as, on the contrary, it does not say in general, believe all the promises of God, leaving this to the law; but it says in particular, Believe this promise; fly to Christ, and thy sins shall be forgiven thee.
 
-**IV. WHAT ARE THE PROPER EFFECTS OF THE GOSPEL?**
+## **IV. What Are the Proper Effects of the Gospel?**
 
 The proper effects of the gospel are—
 
@@ -82,7 +79,7 @@ The proper effects of the gospel are—
 
 2. Through faith, our entire conversion to God, justification, regeneration and salvation; for through faith we receive Christ, with all his benefits.
 
-**V. FROM WHAT DOES THE TRUTH OF THE GOSPEL APPEAR?**
+## **V. From What Does the Truth of the Gospel Appear?**
 
 The truth of the gospel appears—
 
@@ -96,7 +93,7 @@ The truth of the gospel appears—
 
 5. By the testimony of the gospel itself; because it alone shows the way of escape from sin, and ministers solid comfort to the wounded conscience.
 
-**SEVENTH LORD'S DAY**
+## **Seventh Lord's Day**
 
 ---
 [[Ursinus HC Q18|← Question 18. Who, then, is that Mediator, wh]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q20|Question 20. Are all men, then, as they peri →]]

@@ -36,7 +36,7 @@ tags:
 
 **11.** For - According to their own law, the sin-offerings were wholly consumed, and no Jew ever ate thereof. But Christ was a sin-offering. Therefore they cannot feed upon him, as we do, who are freed from the Mosaic law.
 
-**12.** Wherefore Jesus also - Exactly answering those typical sin- offerings. Suffered without the gate - Of Jerusalem, which answered to the old camp of Israel. That he might sanctify - Reconcile and consecrate to God. The people - Who believe in him. By his own blood - Not those shadowy sacrifices, which are now of no further use.
+**12.** Wherefore Jesus also - Exactly answering those typical sin-offerings. Suffered without the gate - Of Jerusalem, which answered to the old camp of Israel. That he might sanctify - Reconcile and consecrate to God. The people - Who believe in him. By his own blood - Not those shadowy sacrifices, which are now of no further use.
 
 **13.** Let us then go forth without the camp - Out of the Jewish dispensation. Bearing his reproach - All manner of shame, obloquy, and contempt for his sake.
 

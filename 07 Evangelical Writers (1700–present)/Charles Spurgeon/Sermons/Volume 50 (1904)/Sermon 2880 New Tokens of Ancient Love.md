@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # New Tokens of Ancient Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2880
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD hath appeared of old unto me, saying, Yes, Ihave loved you with an everlasting love: therefore with loving kindness have I drawn you." Jeremiah 31:3.
 
@@ -141,7 +138,7 @@ What are you doing, Mr. Unbelief? You are trying to separate glorification from 
 
 of love without beginning and of favor without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH60
+## Exposition by C. H. Spurgeon: Isaiah 60
 
 The subject of this chapter is "The glory of the Church in the abundant access of the Gentiles, and the great blessings after a short affliction."
 
@@ -166,7 +163,6 @@ they be?"
 11-14. Therefore your gates shall be open continually; they shall not be shut day nor night, that men may bring unto you the forces of the Gentiles, and that their kings may be brought For the nation and kingdom that will not serve you shall perish, yes, those nations shall be utterly wasted. The glory of Lebanon shall come unto you, the fir tree, the pine tree and the box together, to beautify the place of My sanctuary; and I will make the place of My feet glorious. The sons also of them that afflicted you shall come bending unto you. Or, if they do not themselves come, their children shall; each generation shall include a remnant according to the election of Grace and, in due time, shall come the great ingathering.
 
 14-22. And as they that despised you shall bow themselves down at the soles of your feet, and they shall call you, The City of the LORD, The Zion of the Holy One of Israel Whereas you have been forsaken and hated, so that no man went through you, I will make you an eternal excellency, a joy of many generations. You shall also suck the milk of the Gentiles, and shall suck the breasts of kings: and you shall know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob. For brass I will bring gold, and for iron I will bring silver, and for wood, brass, and for stones iron: I will also make your officers peace, and your exactors righteousness. Violence shall no more be heard in your land, wasting nor destruction within your borders, but you shall call your walls Salvation, and your gates Praise. The sun shall be no more your light by day, neither for brightness shall the moon give light unto you: but the LORD shall be unto you an Everlasting Light, and your God your Glory. Your sun shall no more go down; neither shall your moon withdraw itself: for the LORD shall be your Everlasting Light and the days of your mourning shall be ended. Your people also shall be all righteous: they shall inherit the land forever, the branch of My planting, the work of My hands, that I may be glorified. A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time. "Amen! Amen!" So say we with all our heart!
-
 
 ---
 [[Sermon 2879 The Wide-open Mouth Filled|← #2879]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2881 Feeble Faith Appealing to a Strong Savior|#2881 →]]

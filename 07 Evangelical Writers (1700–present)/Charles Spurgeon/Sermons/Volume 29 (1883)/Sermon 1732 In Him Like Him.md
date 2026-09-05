@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # In Him: Like Him
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1732
@@ -113,8 +112,7 @@ A person has written to me this morning to say that he has painted my portrait, 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 John 2.
 
-HYMNS FROM “OUR OWN HYMN BOOK.”—425, 262, 646.
-
+## Hymns from “Our Own Hymn Book.”—425, 262, 646
 
 ---
 [[Sermon 1731 Accepted of the Great Father|← #1731]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1733 On Humbling Ourselves before God|#1733 →]]

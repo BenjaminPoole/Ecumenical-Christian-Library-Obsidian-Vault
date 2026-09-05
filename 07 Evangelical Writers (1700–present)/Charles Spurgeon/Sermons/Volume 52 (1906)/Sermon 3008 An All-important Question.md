@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # An All-important Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3008
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Doyou believe in the Son of God?" John 9:35.
 
@@ -27,7 +24,7 @@ In order to effect this man's salvation, our Lord asked him a question upon a mo
 
 I. In the first place, the question of the text, "Do you believe in the Son of God?" IS A MOST NECESSARY
 
-QUESTION.
+## Question
 
 I believe it is a question which ought to be asked from the pulpit far more often than it is. I have been frequently pained, in reading sermons and on the rare occasions when I have had the opportunity of hearing sermons, to note that they have been addressed to the whole congregation just as though all were Christians. It is too much the custom for ministers to address the whole assembly as "Brothers and Sisters" and to speak to a mixed multitude of men and women as if they all had a part and lot in spiritual things. It seems that if anywhere, certainly in the pulpit, there should be a wise and constant use of discrimination. The preacher should make his hearers clearly understand that there are some who fear God and some who fear Him not—some who are still dead in trespasses and sins—and others who are alive unto God through the quickening power of the Holy Spirit. It would be a very wicked thing for me to delude you with the notion that you are all saved, for I cannot help fearing that some of you are not yet saved. The outward lives of some here are quite sufficient evidence that they have never been sanctified by the Holy Spirit. Indeed, I feel sure that I am addressing some who would not venture to even claim that they are Christians! They are too honest to do that, for they know that they are strangers to the saving power of the Grace of God! And how dare these lips of mine call those the children of God who are, at present, the children of wrath, even as others? How can my tongue pronounce that to the gold which I know is but dross? How can I speak to those of you who are living and, I fear will die without a Savior, as though you had an equal interest in the precious blood of Jesus with those who believe in Him?
 
@@ -83,7 +80,7 @@ I wish that some of you would put this fundamental question to yourselves, inste
 
 V. Now just for a few moments, let me remind you of what you know so well, namely, that, THIS QUESTION IS
 
-ALL-IMPORTANT.
+## All-Important
 
 "Have you made your will?" somebody asks, and that is a very important question to one who has anything to leave. I think that people ought to see to that matter and there are 50 other questions that might be asked, all of which would have their relative importance, but this is the weightiest question of all—"Do you believe in the Son of God?" How can I put that question, with due solemnity, to each person in this congregation? Do you not know, Man, that life and death, Heaven and Hell and bliss or unutterable woe depend upon your answer to that short, simple question? If you believe on Jesus, there are robes of whiteness and tearless eyes for you! But if you believe not, there are for you—
 
@@ -122,7 +119,6 @@ Possibly, one of you says, "Well, Sir, I will give you my answer when I have a m
 The great mischief with many of you is that you always talk about what you will do tomorrow! Yet there are newly-dug graves every day and the gravediggers hide the bodies of your fellows beneath the sod of the cemetery. It is true that, thus far, you have been spared, but are you, therefore, foolish enough to dream that you are immortal? Do you think that there is no tree growing out of which your coffin is to be made? Ah, Sirs, some of you will never see another year! This is not a matter of guesswork with me! I know that it is the truth that a certain proportion out of every thousand persons now living must die this year. Everybody knows that and here we have some six or seven thousand persons gathered together! [Remember, this was preached on a Sunday evening!] Well, then, there must be so many of us who must go to the grave within the next 12 months. You know that you are not immortal! You know that you must die sooner or later and some of you know that if you were to die now, you would die without hope, for you have not believed in Jesus and you would be eternally lost! I do beseech you, if you have any wits left, to use them now and to be startled as I put to you that ancient question, "Why will you die?" Where is the sense of it! Where is the reason for being damned? Do anything that is reasonable, Man, and who can blame you? If you have a good excuse for doing a certain thing, if it pays you well to do it, if it is the right thing to do for your country even though it does not pay you—go and do it! Cassius did a noble deed when he rode into the chasm in the Forum and so filled it up, for he did good to Rome. But what good will your damnation do to you or anybody else? What good will it do even to the lost in Hell? Even they might wish to keep you out of that dread place of torment as the rich man wished to warn his brothers, for they would get no good through your ruin.
 
 What possible good can ever come to you if you are lost? It will be all hurt, and no good! All loss, and no gain! All wretchedness, and no joy! All darkness, and no light! All Hell, and no Heaven—forever and ever! In the name of the living God, I beseech you! In the name of Jesus of Nazareth, I implore you to trust Christ and live! He who stopped the storm on the Galilean Lake and saved the all-but-shipwrecked crew of the little ship can stop the waters of wrath that threaten to beat upon your boat and save you even now! He who said to the dying thief, "Today shall you be with Me in Paradise," can do as much for you! His precious blood still pleads for mercy! His Almighty Power is still engaged on mercy's side. O my Master, enable these poor souls to trust in You! Father, call the prodigal home! Welcome him now! Give him the kiss of forgiveness now! Clothe him with the best robe now! Spirit of the living God, descend and do what we cannot do—turn hearts of stone to flesh—and to Father, Son, and Holy Spirit shall be the praise forever and ever! Amen.
-
 
 ---
 [[Sermon 3007 Gadding About|← #3007]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3009 Our Champion|#3009 →]]

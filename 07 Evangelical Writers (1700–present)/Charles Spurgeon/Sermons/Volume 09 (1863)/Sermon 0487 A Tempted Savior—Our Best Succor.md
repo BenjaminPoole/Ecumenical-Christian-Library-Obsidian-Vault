@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # A Tempted Savior—Our Best Succor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 487
@@ -125,7 +124,7 @@ I cannot, of course, particularize this morning so as to hit upon the precise so
 
 III. Now for the third and last point. THEY THAT ARE TEMPTED HAVE GREAT NEED OF SUCCOR, AND
 
-CHRIST IS ABLE, HAVING HIMSELF BEEN TEMPTED TO SUCCOR THEM THAT ARE TEMPTED.
+## Christ Is Able, Having Himself Been Tempted to Succor Them that Are Tempted
 
 Of course this is true of Christ as God. Apart from any temptation He has ever endured, He would be able to succor the tempted. But we are now speaking in our text of Christ as a High Priest in which we are to regard Him in His complex character as God-man. Christ is not only God but Man and not only man but God. The Christos—the Anointed One, the High Priest of our profession—is in His complex character able to succor them that are tempted. How? Why, first, the very fact that He was tempted has some succor in it to us.
 
@@ -160,7 +159,6 @@ Will not my text suit the awakened sinner as well as the saint? There are timid 
 Believe that He will and He will. You can never believe anything too much of the love and goodness of my Lord. He will be better than your faith to you. If you can trust Him with all your heart to save you, He will do it. If you believe He is able to put away your sin, He will do it. If you can but honor Him by giving Him a good character for grace, you cannot give Him too good a name—
 
 "Trust Him, He will not deceive you, Though you hardly on Him lean; He will never, never leave you, Nor will let you quite leave Him." Receive, then, the blessing—May the grace of our Lord Jesus Christ and the love of God our Father and the fellowship of the Holy Spirit be with you forever. Amen and Amen.
-
 
 ---
 [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0488 The Voice From Heaven|#488 →]]

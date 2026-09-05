@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Lessons From a Dovecot
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3051
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who are these that fly as a cloud, and as the doves to their windows?" Isaiah 60:8.
 
@@ -65,7 +62,7 @@ That is, they should come very swiftly. A dove's flight is very rapid and when a
 
 There are many reasons why you should fly to Christ at once. First, because you are in present danger Should not the dove fly at once to its windows when the hawk is after it? And Sinner, sin is after you and wrath is after you if you are out of Christ. "He that believes not"—and mark, this is God's Word—"he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God." "Condemnedalready." Then you are in a condition of present danger and I say to you as the angel said to Lot, "Escape for your life! Look not behind you, neither stay you in all the plain; escape to the mountain, lest you be consumed." Already the venom of the fiery serpent's poison is boiling in your veins! Look then, at once to Him who is lifted up before you as the bronze serpent was lifted up before the bitten Israelites, for there is healing in a single glance at Christ Crucified! Though you are at the very ends of the earth, the message can reach you, for the Lord says, "Look unto Me, and be you saved, all the ends of the earth: for I am God, and there is none else." So come to Christ at once because you are in present danger. [See Sermon #60, Volume 2—
 
-SOVEREIGNTY AND SALVATION.]
+## Sovereignty and Salvation.]
 
 Besides that, there is great reason why you should fly at once to Christ because time is flying faster than you can fly. And with the flight of time, the approach of the night of death is certain. The dove seeks its dovecot before nightfall, for it knows the dangers to which it would be exposed in the darkness. The night is fast approaching with some of you. In the nature of things, you cannot live much longer, yet how strange it is that men often think that they will continue to live
 
@@ -111,7 +108,7 @@ OLamb of God, I come!"
 
 If that is your sincere utterance, you are a saved soul! Now be baptized, now join the Church! But first see to it that you believe in Jesus, for that is the first business. May God bring you to Christ and may the blessing of the Triune Jehovah be with you forevermore! Amen and amen!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 10.
+## Exposition by C. H. Spurgeon: Romans 10
 
 This chapter is a Gospel in itself—it very clearly points out the plan of salvation by faith in the Lord Jesus Christ.
 
@@ -155,8 +152,7 @@ should be dishonoring God and virtually dethroning Him by the attempt to set up 
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3050 The Errand of Mercy|← #3050]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3052 Christ's Loneliness and Ours|#3052 →]]

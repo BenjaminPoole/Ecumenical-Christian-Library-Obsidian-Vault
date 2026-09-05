@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # "How Good to Those Who Seek!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2436
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The LORD is good to the soul that seeks Him." Lamentations 3:25.
 
@@ -109,7 +106,7 @@ I would like to give some of you a bit of a pull like that! I am resting on Chri
 
 Then shall you know for certain that "the Lord is good to the soul that seeks Him." God bless and save you, everyone, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 7:7-29.
+## Exposition by C. H. Spurgeon: Matthew 7:7-29
 
 Verse 7. Ask, and it shall be given you. He that will not ask for it deserves to go without it. Have you ever asked for it? If not, whose fault is it that you have it not?
 
@@ -140,7 +137,6 @@ Verse 7. Ask, and it shall be given you. He that will not ask for it deserves to
 26, 27. And everyone that hears these sayings of Mine, and does them not, shall be likened unto a foolish man, which built his house upon the sand: and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it. He was a great hearer, but he was a bad doer—yet he thought that he was a good doer, for he built a house. Alas, the house was on the sand! There was no real obedience to Christ, no true trusting in Him and so, when the time of trouble came—and trouble will come even to the hypocrite and to the false professor—we read of his house, "It fell: and great was the fall of it," because it could never be built up again! It fell hopelessly! It fell forever! Therefore, "Great was the fall of it."
 
 28, 29. And it came to pass, when Jesus had ended these sayings, the people were astonished at His doctrine: for He taught them as one having authority, and not as the scribes. There was a force and power about what Jesus said. He spoke from the heart. He spoke with the accent of conviction, whereas the scribes and Pharisees only spoke magisterially and officially, with no heart in their utterance—and there was, therefore, no power about it. God give to all of us the Grace to know the power of the Words of Christ! Amen.
-
 
 ---
 [[Sermon 2435 The Everlasting Arms|← #2435]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2437 Prayer, the Proof of Godliness|#2437 →]]

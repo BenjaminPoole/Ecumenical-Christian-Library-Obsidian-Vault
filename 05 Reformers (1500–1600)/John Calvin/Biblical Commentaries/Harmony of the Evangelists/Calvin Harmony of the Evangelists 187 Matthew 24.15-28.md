@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 187. Matthew 24:15-28; Mark 13:14-23; Luke 21:20-24; 17:22-25
-
-MATTHEW 24:15-28; MARK 13:14-23;  
-LUKE 21:20-24; 17:22-25
 
 **15.** When therefore you shall see the abomination of desolation, which is described by Daniel the prophet, standing in the holy place, (let him that readeth understand,) **16.** Then let them who are in Judea flee to the mountains. **17.** Let not him who is on the housetop go down to carry anything out of his house; **18.** And let not him who is in the field return to carry away his clothes. **19.** But woe to the women with child, and to them that give suck in those days. **20.** And pray that your flight may not be in the winter, nor on the sabbath. [^1] **21.** For there will then be great tribulation, such as hath not been from the beginning of the world till this time, nor will be. **22.** And unless those days had been shortened, no flesh would have been saved, but on account of the elect those days shall be shortened. **23.** If anyone shall then say to you, Lo, here is Christ, or there, do not believe it. **24.** For false Christs and false prophets shall arise, and shall perform great signs and wonders, so that even the elect (if it were possible) will be led into error. **25.** Lo, I have foretold it to you. **26.** If then they shall say to you, Lo, he is in the desert, go not out; lo, he is in the secret chamber, do not believe it. **27.** For as the lightning goeth out of the east, and shineth even to the west, so shall also be the coming of the Son of man. **28.** For wherever the carcass is, there will the eagles also be gathered together.
 

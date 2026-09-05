@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 20. Preface
 
-AD CAROLVM
+*Ad Carolvm*
 
 ROMANORVM IMPERATO- retn Gcrmania: comiti'a Auguftx Celc= brantcm, Fidci Huldrychi
 
@@ -26,15 +25,15 @@ ANNO M. D. XXX. Ha{c\iJi«i
 
 Vinatuoitts,
 
-TITLE PAGE OF
+## Title Page Of
 
-ZWINGLI'S CONFESSION OF FAITH
+## Zwingli's Confession of Faith
 
-SUBMITTED TO THE EMPEROR CHARLES V
+## Submitted to the Emperor Charles V
 
-.ITLY 3. 1S30
+## .Itly 3. 1s30
 
-• UJL 18 1929
+## • Ujl 18 1929
 
 The Latin Works X£^gigalsij^ of
 
@@ -62,7 +61,7 @@ The Heidelberg Press
 
 Copyright. 1922
 
-AMERICAN SOCIETY OF CHURCH HISTORY
+## American Society of Church History
 
 PFFORTS to publish the Latin works of Zwingli in English ■■— ' translations have extended over a number of years. In 1908, the Rev. Prof. Samuel Macauley Jackson, D.D., of New York University, offered translations of certain Latin works of Zwingli in Ms. form to the General Synod of the Reformed Church in the United States, convened at York, Pennsylvania, for publication. The offer was referred to a special committee, consisting of the Rev. Drs. Good and Richards and of the Elders Loucks, Siebert and Wood. They were instructed "to make special efforts to carry the proposal into execution."^ At the next meeting of the General Synod of the Reformed Church, held in 1911, at Canton, Ohio, the committee reported that, owing to their failure to secure a sufficient number of advance subscribers, they felt unable to proceed, but that Dr. Jackson himself would publish these works in a different form, for which undertaking he asked the co-operation of the General Synod. ^
 
@@ -138,19 +137,19 @@ Union Theological Seminary in the City of New York, August 1st, 1921.
 
 PREFACE ........ iii
 
-DECLARATION OP HULDREICH ZWINGLI REGARDING ORIGINAL SIN, ADDRESSED TO URBANUS RHEGIUS. AUGUST 15, 1526 I
+## Declaration Op Huldreich Zwingli Regarding Original Sin, Addressed to Urbanus Rhegius. August 15, 1526 I
 
-AN ACCOUNT OF THE FAITH OF HULDREICH ZWINGLI, SUBMITTED TO THE GERMAN EMPEROR CHARLES V, AT THE DIET OF AUGSBURG. JULY 3, I53O • • • 33
+## An Account of the Faith of Huldreich Zwingli, Submitted to the German Emperor Charles V, at the Diet of Augsburg. July 3, I53o • • • 33
 
 REFUTATION OF THE ARTICLES OF ZWINGLI PRESENTED TO HIS IMPERIAL MAJESTY, MADE BY JOHN ECK UNDER THE PATRONAGE OF THE MOST HONORABLE PRINCE, LORD ERHARD, S. R. E., CARDINAL BISHOP OF LIEGE. JULY 17, 1530 62
 
-LETTER OF HULDREICH ZWINGLI TO THE ILLUSTRIOUS PRINCES OF GERMANY ASSEMBLED AT AUGSBURG, REGARDING THE INSULTS OF ECK. AUGUST 27, I53O . IO5
+## Letter of Huldreich Zwingli to the Illustrious Princes of Germany Assembled at Augsburg, Regarding the Insults of Eck. August 27, I53o . Io5
 
-REPRODUCTION FROM MEMORY OF A SERMON ON THE PROVIDENCE OF GOD, DEDICATED TO HIS HIGHNESS, PHILIP OF HESSE. AUGUST 20, I53O . . . I28
+## Reproduction from Memory of a Sermon on the Providence of God, Dedicated to His Highness, Philip of Hesse. August 20, I53o . . . I28
 
 A SHORT AND CLEAR EXPOSITION OF THE CHRISTIAN FAITH PREACHED BY HULDREICH ZWINGLI, WRITTEN BY ZWINGLI HIMSELF SHORTLY BEFORE HIS DEATH TO A CHRISTIAN KING. THUS FAR NOT PRINTED BY ANYONE AND NOW FOR THE FIRST TIME PUBLISHED TO THE WORLD. WRITTEN JULY, I53I .... 235
 
-ADDITIONAL NOTES
+## Additional Notes
 
 The Works of Huldreich Zwingli
 

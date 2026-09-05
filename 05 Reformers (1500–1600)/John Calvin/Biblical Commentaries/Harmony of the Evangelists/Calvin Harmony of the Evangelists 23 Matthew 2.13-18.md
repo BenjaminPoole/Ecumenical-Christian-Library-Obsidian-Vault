@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 23. Matthew 2:13-18
-
-**MATTHEW 2:13-18**
 
 **13**. And when they had departed, lo, the angel of the Lord appeared in dreams to Joseph, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I have told thee: for Herod will seek the young child to destroy him. **14**. And he, when awake, took the young child and his mother by night, and withdrew into Egypt: **15**. And was there until the death of Herod; that it might be fulfilled which was spoken by the Lord through the prophet, saying, Out of Egypt have I called my Son. **16**. Then Herod, when he saw that he was mocked by the Magi, was exceedingly enraged, and sent to slay [^1] all the children that were in Bethlehem, and all its boundaries, [^2] from two years old and under, according to the time which he had inquired at the Magi. **17**. Then was fulfilled what had been spoken by Jeremiah the Prophet, when he says, **18**. A voice was heard in Ramah, lamentation, wailing, and much weeping: Rachel bewailing her children, and refused to receive consolation, because they are not.
 

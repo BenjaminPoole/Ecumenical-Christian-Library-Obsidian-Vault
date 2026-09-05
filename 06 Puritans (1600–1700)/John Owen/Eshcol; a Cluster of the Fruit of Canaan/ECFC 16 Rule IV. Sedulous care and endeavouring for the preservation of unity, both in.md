@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Rule IV. Sedulous care and endeavouring for the preservation of unity, both in particular and in general
-
-Rule iv. Sedulous care and endeavouring for the preservation of unity, both in particular and in general.
 
 Phil. ii. 1–3, “If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, fulfil ye my joy, that ye be like-minded, having the same love, being of one accord, of one mind. Let nothing be done through strife or vain-glory; but in lowliness of mind let each esteem other better than themselves.”
 
@@ -53,7 +50,6 @@ For a right performance of this duty, we must, —
 3\. Sedulously apply ourselves to the removal of the first appearance of divisions; and in case of not prevailing, to consult the church.
 
 4\. Daily to strike at the root of all dissension, by labouring for universal conformity to Jesus Christ.
-
 
 ---
 [[ECFC 15 Rule III. Earnest striving and contending, in all lawful ways, by doing and|← Rule III. Earnest striving and contending, in all lawful ways, by doing and suffering, for the purity of the ordinances, honour, liberty, and privileges of the congregation, being jointly assistant against opposers and common adversaries]] · [[Eshcol; a Cluster of the Fruit of Canaan|Contents]] · [[ECFC 17 Rule V. Separation and sequestration from the world and men of the world, with|Rule V. Separation and sequestration from the world and men of the world, with all ways of false worship, until we be apparently a people dwelling alone, not reckoned among the nations →]]

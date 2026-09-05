@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## John 11:1-10
 

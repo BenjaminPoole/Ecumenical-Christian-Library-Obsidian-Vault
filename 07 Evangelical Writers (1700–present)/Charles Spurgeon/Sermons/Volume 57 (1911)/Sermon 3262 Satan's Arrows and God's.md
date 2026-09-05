@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Satan's Arrows and God's
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3262
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has bent His bow and set me as a mark for the arrow. He has caused the arrows of His quiver to pierce my soul." Lamentations 3:12,13.
 
@@ -164,7 +161,6 @@ of stone, not on the walls of the Church, but "I will write it in their hearts."
 33\. And will be their God, and they shall be My people. You may have heard it said that Christ will not leave His people, but that His people may leave Him—but in this promise the second contingency is provided for as well as the first!
 
 34-37. And they shall teach no more every man his neighbor, and every man his brother, saying, Know the LORD: for they shall all know Me, from the least of them unto the greatest of them, says the LORD: for I will forgive their iniquity, and I wiil remember their sin no more. Thus says the LORD, which gives the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divides the sea when the waves thereofroar; The LORD of Hosts is His name: If those ordinances depart from before Me says the LORD, then the seed of Israel also shall cease from being a nation before Me forever. Thus says the LORD, If Heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, says the LORD. What a God of Infinite Mercy He is!
-
 
 ---
 [[Sermon 3261 The Covenant|← #3261]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3263 Intelligent Obedience|#3263 →]]

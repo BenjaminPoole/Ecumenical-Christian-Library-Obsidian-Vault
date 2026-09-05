@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Christ's Prayer for Peter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2620
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But I have prayed for you, that your faith fail not." Luke 22:32.
 
@@ -85,7 +82,7 @@ And to you who, alas, have fallen into sin after having made a profession of rel
 
 May the blessed Trinity save and keep us all, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE22:7-34; 54-62.
+## Exposition by C. H. Spurgeon: Luke 22:7-34; 54-62
 
 Verses 7-20. Then came the Day of Unleavened Bread, when the Passover must be killed. And He sent Peter and John, saying, Go and prepare us the Passover, that we may eat And they said unto Him, Where will You that we prepare? And He said unto them, Behold, when you are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he enters. And you shall say unto the good man of the house, The Master says unto you, Where is the guest chamber, where I shall eat the Passover with My disciples? And he shall show you a large upper room furnished: there make ready. And they went and found as He had said unto them: and they made ready the Passover And when the hour was come, He sat down, and the twelve Apostles with Him. And He said unto them. With desire I have desired to eat this Passover with you before I suffer: for I say unto you, I will not any more eat thereof until it is fulfilled in the Kingdom of God. And He took the cup, and gave thanks, and said, Take this, and divide it among yourselves: for I say unto you, I will not drink of the fruit of the wine, until the Kingdom of God shall come. And He took bread, and gave thanks, and broke it, and gave unto them, saying, This is My body which is given for you: this do in remembrance of Me. Likewise also the cup after supper, saying, This cup is the new testament—(Or, Covenant).
 
@@ -122,7 +119,6 @@ Verses 7-20. Then came the Day of Unleavened Bread, when the Passover must be ki
 60, 61. And immediately, while he yet spoke, the rooster crowed. And the Lord turned and looked upon Peter God has all things in His hands. He has servants everywhere and the rooster shall crow, by the secret movement of His Providence, just when God wills! And there is, perhaps, as much of Divine ordination about the crowing of a rooster as about the ascending of an emperor to his throne! Things are only little and great according to their bearings and God reckoned not the crowing bird to be a small thing since it was to bring a wanderer back to his Savior, for, just as the rooster crowed, "the Lord turned and looked upon Peter." That was a different look from the one which the girl had given him, but that look broke his heart.
 
 62\. And Peter remembered the word of the Lord, how He had said unto him, Before the roster crows, you shall deny me thrice. And Peter went out and wept bitterly. How many there are who sin with Peter, but who never weep with Peter! Oh, if we have ever transgressed in such a way as he did, let us never cease to weep! Above all, let us begin at once to lament it and rest not till the Master looks again, and says by that look, "I have blotted out all your transgressions; return unto Me."
-
 
 ---
 [[Sermon 2619 The Captain of Our Salvation|← #2619]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2621 The Sinner's Refuge|#2621 →]]

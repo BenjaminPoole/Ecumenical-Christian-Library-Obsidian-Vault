@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Forts Demolished and Prisoners Taken
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1473
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 11, 1879,.
+*Delivered on Lord's-Day Morning, May 11, 1879*
 
 > "Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ." 2 Corinthians 10:5.
 
@@ -138,7 +137,6 @@ No council chamber would know a policy which would be contrary to the Prince of 
 How glorious will it be when Learning, poring over its classic books, shall find in human wisdom trophies for the surer wisdom of Jesus! And when Study, searching by the midnight lamp, shall seek out the heights and depths of Divine Love! It charms me to think of every poet singing Divine songs for earth's great King, drinking no more from the Castellan fountain, but finding all their springs in God alone! Then, too, shall Music compose her most harmonious symphonies and pour forth her richest notes in worship of the redeeming Lord, while Eloquence, no longer declaiming in the defense of wrong, shall spend her force in the maintenance of peace and righteousness and in the extolling of the Lord! Dawn even now, auspicious day! Why does the night hang so heavy? Why bides the darkness around us for so many ages?
 
 Great Captain of Salvation, You can achieve the victory! We have compassed this Jericho these many days, but still the walls have not fallen! Up, You mighty man of war, for You are such, and come to the battle and then the battlements of sin will fall. "The Lord is a man of war: Jehovah is His name." Awake, awake, put on strength, O arm of the Lord! Awake as in the ancient days, in the generations of old! Are You not He that has cut Rahab and wounded the dragon? Because of truth and righteousness, ride forth in Your majesty! For peace on earth and glory to God in the highest, come forth in the glory of Your might with the everlasting Gospel, "Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."
-
 
 ---
 [[Sermon 1472 The Glory, Unity and Triumph of the Church|← #1472]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1474 The Middle Passage|#1474 →]]

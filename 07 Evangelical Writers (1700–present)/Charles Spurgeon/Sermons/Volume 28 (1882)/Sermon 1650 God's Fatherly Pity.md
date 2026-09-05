@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # God's Fatherly Pity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1650
 
-DELIVERED ON THURSDAY EVENING, MARCH 2, 1882,.
+*Delivered on Thursday Evening, March 2, 1882*
 
 > "As a father pities his children, so the Lord pities them that fear Him." Psalm 103:13.
 
@@ -120,7 +119,6 @@ Before the ransomed spirit takes
 Her mansion near the Throne."
 
 Go to your heavenly Father and tell Him you are frightened and He has ways of taking away these fears, for though they may be ridiculous to some, a child's dreads are never too frivolous for the sympathy of a loving father! He meets them as if there were some great reality in them and so sets them aside. Whatever your needs, your woes, your griefs, fly away to your great Father's Mercy Seat and spread them there and He will give you comfort! Believe, from this night forward, that God pities all them that fear Him and whatever He sees of weakness in their nature and of sorrow in their lot He will help them. So may you find it now and evermore, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1649 Freshness|← #1649]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1651 A Delusion Dispelled|#1651 →]]

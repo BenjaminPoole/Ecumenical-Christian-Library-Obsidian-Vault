@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 203. Matthew 26:57-61; Mark 14:53-59; Luke 22:54
-
-**MATTHEW 26:57-61; MARK 14:53-59; LUKE 22:54**
 
 **57.** But they who had apprehended Jesus led him to Caiaphas the high priest, where the scribes and elders were assembled. **58.** And Peter followed him at a distance, as far as to the court of the high priest, and having gone in, he sat with the servants to see the end. **59.** And the chief priests and elders, and the whole council, sought false witness against Jesus, to put him to death, **60.** And found none; even though many false witnesses came, they found none: but at length came two false witnesses, **61.** Who said, This man said, I can destroy the temple of God, and build it in three days.
 

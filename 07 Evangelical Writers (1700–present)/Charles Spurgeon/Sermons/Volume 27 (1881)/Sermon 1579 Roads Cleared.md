@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Roads Cleared
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1579
-
-DELIVERED BY.
 
 > "Cast you up, cast you up, prepare the way, take up the stumbling block out of the way of My people." Isaiah 57:14.
 
@@ -90,7 +87,6 @@ The last stumbling block which I cannot move is this. A man will say, "But all t
 Thus have I put before you, as best I can, the way of salvation. I thank you for coming on this special occasion. I may never see your faces again and, if I never do, this one thing is true—you have heard the way of salvation, even if you do not follow it. I shall be clear of the blood of every one of you in that great day of account when preacher and hearers will have to answer for how this Sunday night was spent. I have thought that if I could have been clearly told the way of salvation when I was anxious about my soul, I would have gained peace long before I did—and so I have resolved that I will never let the Sunday pass without preaching the way of salvation!
 
 And it is this that for 26 years and more has held the multitude of people listening to me. I tell nothing but the old, old story. Why do people come? Do we deal in spiceries and knickknacks? No, but in bread—and people always need bread! I have given you, tonight no fineries or niceties, but the plain word of salvation. Will you have it, or not? God grant you Grace to receive salvation! Believe in the Lord Jesus Christ and you are saved! And you may go on your way rejoicing in everlasting life! God grant it, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1578 Taught That We May Teach|← #1578]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1580 An Indictment with Four Counts|#1580 →]]

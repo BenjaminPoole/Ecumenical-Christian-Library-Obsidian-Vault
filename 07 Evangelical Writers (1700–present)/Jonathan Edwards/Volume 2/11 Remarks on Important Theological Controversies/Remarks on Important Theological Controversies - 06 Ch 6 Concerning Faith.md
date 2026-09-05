@@ -10,10 +10,11 @@ written: "c. 1740s–1750s (Edwards' notes); published posthumously, 1793"
 tags:
   - jonathan-edwards
 ---
+# Chapter VI. Concerning Faith
 
-CHAP. VI.
+## Chap. VI
 
-CONCERNING FAITH.
+## Concerning Faith
 
 § 1. faith is a belief of a testimony; “When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.” It is an assent to truth, as appears by the 11th of Hebrews; and it is saving faith that is there spoken of, as appears by the last verses of the foregoing chapter: “And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they, without us, should not be made perfect.” “Saying, The time is fulfilled, and the kingdom of God is at hand: Repent ye, and believe the gospel.” “But these are written, that ye might believe that Jesus is the Christ, the Son of God, and that, believing, ye might have life through his name.” “But we are bound to give thanks always to God for you, brethren, beloved of the Lord, because God hath from the beginning chosen you to salvation, through sanctification of the Spirit, and belief of the truth.”
 

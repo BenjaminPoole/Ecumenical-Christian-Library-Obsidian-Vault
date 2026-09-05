@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Formality
 
-Chapter XI · *Practical Religion* — J. C. Ryle
+## Chapter XI · *Practical Religion* — J. C. Ryle
 
 >  *Having a form of godliness, but denying the power thereof.* "—2 Tim. iii. 5. " *He is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh*: " *But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.* "—Rom. ii. 28, 29.
 
@@ -164,7 +163,6 @@ Praise Him daily who hath called you out of darkness into light, and made you to
 Watch with a jealous watchfulness every part of your inward man. Formality is ever ready to come in upon us,[Pg 283] like the Egyptian plague of frogs, which went even into the king's chamber. Watch, and be on your guard.—Watch over your Bible-reading,—your praying,—your temper and your tongue,—your family life and your Sunday religion. There is nothing so good and spiritual that we may not fall into formal habits about it. There is none so spiritual but that he may have a heavy fall. Watch, therefore, and be on your guard.
 
 Look forward, finally, and hope for the coming of the Lord. Your best things are yet to come. The second coming of Christ will soon be here. The time of temptation will soon be past and gone. The judgment and reward of the saints shall soon make amends for all. Rest in the hope of that day. Work, watch, and look forward.—One thing, at any rate, that day will make abundantly clear. It will show that there was never an hour in our lives in which we gave our hearts too thoroughly to Christ.
-
 
 ---
 [[PR 10 Happiness|← Happiness]] · [[Practical Religion|Practical Religion Contents]] · [[PR 12 The World|The World →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Flight to Zoar
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2642
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The sun was risen upon the earth when Lot entered into Zoar." Genesis 19:23.
 
@@ -93,7 +90,7 @@ And what is He doing with His left hand?No, pardon me, excuse me from the task o
 
 The sun had risen upon Zoar and the fire was falling upon Sodom. Ah, Sinner, will it not be an awful thing to see the contrast between you and the righteous? If you perish in your ungodly state, it will make your Hell more awful when you behold, afar off, the righteous exalted in Heaven! Nothing makes the famished man more hungry than to see others feasting when he has nothing! O young man, what will it be to see your mother there in Heaven and you cast out? O young woman, will you see your companion glorified with Jesus and you cast away with devils? O husband, will you find yourself crying, with Dives, for a drop of water, while your wife is in the Presence of Jesus? Ah, son, will you see your parents glorified and you, yourself, cast out? Set the two in contrast—look on this picture and on that! God give you Grace to bow the knee and "kiss the Son." And if He has taught you your need of a Savior, may He give you Grace to accept the hearty invitation I would tender you in His name, "Come, and welcome, Sinner, come!"
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW24:42-51; MATTHEW 25:1-13.
+## Exposition by C. H. Spurgeon: Matthew 24:42-51; Matthew 25:1-13
 
 Matthew 24:42. Watch therefore: for you know not what hour your Lord does come. That He will come is certain. That His coming may be at any moment is equally sure and, therefore, we ought to always be ready for His appearing. The Lord make us to be so!
 
@@ -128,7 +125,6 @@ They all trimmed their lamps. That was the first thing for them to do—to look 
 12\. But he answered and said, Verily I say unto you, I know you not. When that door is once shut, it will never again be opened! All Scripture goes to prove that. There are some who foolishly dream about an opening of that door after death for men who have died impenitent—but there is nothingin Scripture to warrant us in having any such expectation. The final answer of the Bridegroom to these foolish virgins is, "Verily I say unto you, I know you not."
 
 13\. Watch therefore, for you know neither the day nor the hour wherein the Son of Man comes. That is, we do not know when it will be. Some have foolishly said, "We do not know the day, or the hour of Christ's coming, but we may find out the year." We shall not do anything of the kind—the time is hidden altogether! It is not revealed to us and it shall not be known till, suddenly, the Lord Himself shall come in the clouds, with His bright heavenly retinue, to be glorified in His saints and to be admired in all them that believe! Therefore, be always on the watch, Beloved, "for you know neither the day nor the hour wherein the Son of Man comes." God help us to be ready for His appearing at any moment, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2641 God's Heart the Source of All Blessing|← #2641]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2643 The Honored Servant|#2643 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # How God Comes to Man
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2900
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the Presence ofthe LORD God among the trees of the garden. And the LORD God called unto Adam, and said unto him, Where are you?" Genesis 3:8,9.
 
@@ -81,7 +78,7 @@ must be all of Grace, or else there could be no salvation for me—then He spoke
 
 IV. Now, fourthly, and very solemnly, I want to show you that THIS COMING OF THE LORD TO ADAM AND EVE IS ALSO PROPHETICAL OF THE WAY IN WHICH HE WILL COME AS A JUDGING SPIRIT TO THOSE
 
-WHO REJECT HIM AS AN AWAKENING SPIRIT.
+## Who Reject Him as an Awakening Spirit
 
 I have already reminded you unconverted ones that as surely as you live, you will have to come to close terms with God like the rest of us. Sooner or later you will have to know Him—and to know that He knows you. There will be no way of escaping from an interview which will be most serious and most terrible for you. It will happen "in the cool of the day." I do not know when that may be. On my way to this service I called to see a young lady to whom, "the cool of the day" has come at twenty-five, or thirty years of age. Consumption has made her life a comparatively short one, but, blessed be God, His Grace has made it a very happy one and she is not afraid, "in the cool of the day," to hear the voice of the Lord God calling her Home! It is well that she is not afraid, but you who have not believed in Jesus will have to hear that same Divine Voice in the cool of your life's day! You may be spared to grow old—the strength of youth and of manhood will have gone and you will begin to lean on your staff and to feel that you have not the vigor you used to have— and that you cannot do such a hard day's work as you used to do and you must not attempt to run up the hills as you once did. That will be "the cool of the day" to you—and then the Lord God will come in to you and say, "Set your house in order, for you shall die, and not live."
 
@@ -107,7 +104,7 @@ Well, then, as you have heard your Lord's voice and know its tones so well. As y
 
 Why, surely, Beloved, as this is the case, you may even long for the evening to come when you shall hear His voice and shall go up and away from this land of shadows and chilly nights, into that blest place where the Glory burns on forever and ever, the Lamb is the Light thereof and the days of your mourning shall be ended forever! God grant that you may all have a part and a lot in that Glory, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS3.
+## Exposition by C. H. Spurgeon: Genesis 3
 
 Verses 1-9. Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman, Yes, has God said, You shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: but of the fruit of the tree which is in the midst of the garden, God has said, You shall not eat of it, neither shall you touch it, lest you die. And the serpent said unto the woman, You shall not surely die: for God knows that in the day you eat thereof, then your eyes shall be opened, and you shall be as gods, knowing good and evil And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the Presence of the LORD God among the trees of the garden. And the Lord God called unto Adam, and said unto him, Where are you? In tones of mingled pity and rebuke He asked, "Where are you?"
 
@@ -126,7 +123,6 @@ Verses 1-9. Now the serpent was more subtle than any beast of the field which th
 18-21. Thorns, also, and thistles shall it bring forth to you, and you shall eat the herb of the field; in the sweat of your face shall you eat bread, till you return unto the ground; for out of it were you taken: for dust you are, and unto dust shall you return. And Adam called his wife's name, Eve: because she was the mother of all living. Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. Some creature had to die in order to provide them with garments and you know Who it is that died in order that we might be robed in His spotless righteousness. The Lamb of God has made for us a garment which covers our nakedness so that we are not afraid to stand even before the bar ofGod!
 
 22-24. And the LORD Godsaid, Behold the man is become as one ofUS, to knowgood and evil: and now, lest he put forth his hand, and take also of the Tree of Life, and eat, and live forever: therefore the LORD God sent him forth from the Garden of Eden, to till the ground from which he was taken. So He drove out the man; and He placed at the east of the Garden of Eden, Cherubims and a flaming sword which turned every way, to keep the way of the Tree of Life.
-
 
 ---
 [[Sermon 2899 'To You'|← #2899]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2901 Mourning at the Cross|#2901 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 46
-
-**PSALM 46**
 
 This psalm seems to be an expression of thanksgiving rather for some particular deliverance, than for the constant aid by which God has always protected and preserved his Church. It may be inferred from it that the city of Jerusalem. when stricken with great terror, and placed in extreme danger, was preserved, contrary to all expectation, by the unlooked for and miraculous power of God. The prophet, therefore, whoever composed the psalm, commending a deliverance so singularly vouchsafed by God, exhorts the faithful to commit themselves confidently to his protection, and not to doubt that, relying fearlessly upon him as their guardian and the protector of their welfare, they shall be continually preserved in safety from all the assaults of their enemies, because it is his peculiar office to quell all commotions.
 

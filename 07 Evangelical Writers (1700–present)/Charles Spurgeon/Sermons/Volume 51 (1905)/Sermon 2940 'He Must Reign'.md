@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'He Must Reign'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2940
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For He must reign till He has put all enemies under His feet" 1 Corinthians 15:25.
 
@@ -99,7 +96,7 @@ What then? Had we not better yield? I will not say because we must, but because 
 
 In the name of Him who will shut the gates of Mercy on all those who reject His Gospel, I do not merely ask you, or beseech you, but I command you, in His name, to repent and be converted! "He that believes and is baptized shall be saved; but He that believes not shall be damned." O God, acknowledge this message, for it is Your own Truth! Prove it to be so, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 15.
+## Exposition by C. H. Spurgeon: 1 Corinthians 15
 
 Verses 1, 2. Moreover, brethren, I declare unto you the Gospel which I preached unto you, which also you have received, and wherein you stand; by which also you are saved, if you keep in memory what I preached unto you, unless you have believed in vain. What was this Gospel of which Paul thought so highly and which he says is the means of our salvation? Did it consist in sundry doctrinal statements? No, it contained doctrinal statements, but it did not consist entirely of them. Here is Paul's declaration concerning the Gospel.
 
@@ -156,7 +153,6 @@ broken, so that if He rose from the dead, they also must rise. If we are one wit
 51-58. But we shall all be changed in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is your sting? O grave, where is your victory? The sting of death is sin and the strength of sin is the law. But thanks be to God, which gives us the victory through our Lord Jesus Christ. Therefore, my beloved Brothers and Sisters, "Let us weep and lament"? Oh, no! That is not the Apostle's inference. Therefore, let us throw down our weapons and say, "It is no good to continue the fight, for we must all die"? Far from it!
 
 58\. Be you steadfast, immovable, always abounding in the work of the lord, forasmuch as you know that your labor is not in vain in the Lord. ' 'You know," because Christ has risen and because you also shall rise and because there is a reward of Grace laid up in store for you! The Lord's people may die, but the Lord's Church never dies and the Lord Himself, the Ever-Living One, it always with us, blessed be His holy name!
-
 
 ---
 [[Sermon 2939 A Stir-and What Came of It|← #2939]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2941 Mary's Magnificat|#2941 →]]

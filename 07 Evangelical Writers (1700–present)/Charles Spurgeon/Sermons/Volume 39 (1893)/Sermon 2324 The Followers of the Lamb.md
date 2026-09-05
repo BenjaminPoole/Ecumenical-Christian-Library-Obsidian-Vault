@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Followers of the Lamb
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2324
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "These are they which follow the Lamb wherever He goes. These were redeemed from among men, being the first fruits unto God and to the Lamb. And in their mouth was found no guile: for they are without fault before the Throne of God." Revelation 14:4,5.
 
@@ -29,7 +26,7 @@ I do not know whether these verses describe all the saints in Heaven. If they do
 
 I. So, first, here is AN OUTLINE OF THE CHARACTER OF THOSE BLESSED ONES WHILE THEY ARE
 
-HERE.
+## Here
 
 And, first, notice their adherence to the Doctrine of Sacrifice while they are here—"These are they which follow the Lamb." There are some professing Christians who talk much about the example of Christ, but deny the efficacy of His atoning blood—they are not of those who will be in Heaven. There are some who magnify the philosophy of Christ—all His ethical teaching is greatly to their taste—but, as to His being a Substitute offered up as a Sacrifice on account of human guilt, they cannot agree with it. Very well—they cannot enter Heaven, for, "these are they which follow the Lamb." Not Christ, only, mark you, but Christ as the Lamb of God's Passover! Christ as the Lamb of God slain before the foundation of the world, Christ as the Lamb of God which takes away the sin of the world. You cannot be of that blessed number if you reject Christ as a Sacrifice.
 
@@ -123,7 +120,7 @@ I do not feel inclined to preach any more, but just to shout, "Hallelujah," agai
 
 My hope is in the precious blood that cleanses from all sin and I have pointed all my hearers to that precious blood! And the day will come when I, with all who believe in Jesus, shall be without fault before the Throne of God! The very thought of it makes me cry, "Hallelujah!" And with that I finish. Hallelujah! Hallelujah! Say "Hallelujah," all of you! ["Hallelujah" from the congregation.] Hallelujah! Hallelujah to God and the Lamb! The Lord bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON. REVELATION 14.
+## Exposition by C. H. Spurgeon. Revelation 14
 
 Verse 1. And I looked, and, lo, a Lamb—John always writes of Jesus as the "Lamb." His Lord is to him in His sacrificial Character, always, "the Lamb of God which takes away the sin of the world" by the shedding of His blood. "I looked, and, lo, a Lamb"—
 
@@ -176,7 +173,6 @@ thrust in His sickle on the earth; and the earth was reaped. This is the gatheri
 19\. And cast it into the great winepress of the wrath of God. Can you see the clusters flung into the winepress? Will you be there? God grant that neither you nor I may, in that terrible day, be among the clusters of the wicked!
 
 20\. And the winepress was trod outside the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. So terrible will be even the preliminary destruction of the ungodly! Though they grow in clusters, yet shall they perish. "Though hand join in hand, the wicked shall not be unpunished." "He that has ears to hear, let him hear what the Spirit says" unto each one of us. Amen.
-
 
 ---
 [[Sermon 2323 Obedience Rewarded|← #2323]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2325 The Far-off, Near—the Near, Far Off|#2325 →]]

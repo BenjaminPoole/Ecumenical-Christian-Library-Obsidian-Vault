@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # A Warrant for Your Apprehension
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2235
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The word of the Lord is against you." Zephaniah 2:5.
 
@@ -138,7 +135,6 @@ Trust Christ! Trust Him now! Trust Him only! Trust Him wholly! Trust Him forever
 God bless this feeble word of mine! I have tried to preach the Word of God faithfully, that, at the day of account, I may be clear of the blood of all men. I shall not, then, be asked whether I spoke eloquently, or whether I had energy of mind or power of voice—but I shall be asked if I warned you to escape from sin and seek the Savior! And that, by the Grace of God, I have done to the utmost of my power. I wish that I knew how to persuade men to seek the Lord. Oh, that I could learn the art of reading the hearts of men! What do you want with fine speeches? Escape for your lives! What do you want with polished phrases and rounded periods? "Lay hold on eternal life." Repent! Believe the Gospel and be saved! O God, the Holy Spirit, lead men to this blessed decision at this very moment, for the Lord Jesus Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Jeremiah 26.
-
 
 ---
 [[Sermon 2234 The Best Donation|← #2234]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2236 Prodigal Love for the Prodigal Son|#2236 →]]

@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 27. Defensio: Liber Tertius, De Praesentia Christi in Sacramento
 
-LIBER TERTIUS.
+*Liber Tertius*
 
-QUEMADMODUM CHRISTUS IN SACRAMENTO PRASENS SIT.
+## Quemadmodum Christus in Sacramento Prasens Sit
 
-CAPUT PRIMUM.
+## Caput Primum
 
 Hac jam de transubstantiatione causa satis pertractata (que prima pars est, im qua papistica doctrina a catholica veritate dissentit), sequitur ut de modo presentie corporis et sanguinis Christi in sacramento ejus disseramus, que secunda pars est, et non minorem opinionum dissensionem quam prima continet.
 
@@ -25,7 +24,7 @@ Ad cujus rei planiorem explicationem illud intelligendum est, quod Christianis o
 
 Hee vera est et catholica fides, quam scriptura docet, et universa Christi ecclesia a suo jam inde ortu usque ad hec fere tempora credidit, nisi quod quadringentis aut quingentis ab hinc annis episcopus Romanus, cum papistarum quorundam assensu, novam quandam et recens excogitatam fidem exstruxerat ; et hoc nobis deinceps credendum proposuerat: nempe quod hoc idem corpus reipsa, corporate, et sensibiliter, in hoc mundo remanserit, et sexcentis simul in locis sit, et in omnibus arculis, pixidibus, et panibus consecratis, inclusum delitescat.
 
-DE DIFFERENTIA INTER VERAM ET PAPISTICAM DE PRESENTIA CHRISTI DOCTRINAM.
+## De Differentia Inter Veram Et Papisticam De Presentia Christi Doctrinam
 
 Quanquam Christum ita fatemur esse in omnibus, qui in illum credunt, ut carne et sanguine suo spiritualiter pascat et sustentet eos, et vitam largiatur eternam, ejusque rei certiores illos reddat, tum promissione verbi, tum sacramentali in coena pane et vino, que eandem ob causam ante mortem suam instituerat; non parum tamen a gravissimis papistarum erroribus dissentimus.
 
@@ -57,9 +56,9 @@ Quanquam Christum ita fatemur esse in omnibus, qui in illum credunt, ut carne et
 
 13\. Ili dicunt, Christum corporate multis in locis uno atque eodem tempore simul esse, asseverantes ibi Christum revera et corporate presentem, ubicunque panes consecrati fuerint: nos dicimus, quemadmodum sol corporate in coelo et non alibi est, virtute tamen atque efficientia in terris est, cujus vi atque influxu mundana hee gignuntur, aluntur, et ad nature perfectionem accedunt, ita Servator Christus corporate in coelo est, ad dexteram Patris sedet, quamvis Spiritu promiserit se nobis in terris usque ad mundi interitum affuturum. Et quotiescunque duo aut tres in nomine ejus congregantur, in medio illorum est, cujus ccelesti gratia omnes pi per illum primo spiritualiter regenerantur, deinde augentur et crescunt ad spiritualem in Christo perfectionem, spiritualiter per fidem corpore et sanguine illius percipiendo, quanquam idem in ccelo corporate et longe ab oculorum nostrorum acie disclusus maneat.
 
-HL DE PRASENTIA CHRISTI IN SACRAMENTO. 47.
+## Hl De Prasentia Christi in Sacramento. 47
 
-CAPUT III. SENTENTIZ NOSTRE EX FIDEI SYMBOLO CONFIRMATIO.
+## Caput III. Sententiz Nostre Ex Fidei Symbolo Confirmatio
 
 Nunc vero, ut ad praecipuum sententie nostre caput revertamur, ne hoc novum commentum videri posset, recens a nobis excogitatum, Christum, quod ad humanam naturam pertinet, in coelo et non in terris esse, planum faciemus (volente Deo) non hoc fictitium aut nuperum esse, sed veterem et antiquam semper hance fidem ecclesie catholice fuisse, usque dum papiste multa novassent, et recens hoc de corporata Christi naturali et in sensum cadente permansione, et in capsula aut intra panis et vini ambitum inclusione, commentum invexissent. Hoc non aliam confirmationem postulat, quam generalem in fidei articulis omnium Christianorum professionem, ubi de humana Christi natura fide hoc constanter tenendum docemur: conceptum e Spiritu sancto Christum, natum ex Maria virgine, Pontio Pilato preside passum, in crucem actum, mortuum, sepultum, descendisse ad inferos, tertio die resurrexisse, in ccoelum ascendisse ad dexteram Patris omnipotentis sedere, inde venturum ad vivos et mortuos judicandos.
 
@@ -67,11 +66,11 @@ Hee semper fuerat Christianorum fides catholica, Christum (quod ad corpus et hum
 
 Et quoniam in hac summa fidei nostre de discessu ejus a terra et ascensu ejus ad ccelos expressa mentio facta est; siquidem fidem nostram ulla ratione attingeret, Christi corpus simul etiam in terris esse, hoc certe loco tanta necessitas illius commemorandi objecta fuit, ut illud haud dubie silentio preteritum non fuisset. Christus enim, si (quod ad humanam naturam spectat) tum sit hic, tum hine discesserit, et horum utrumque fide nostra contineri debet; in publica fidei professione, ubi unius mentio facta est, debebat etiam alterius mentio fieri, ne dum hoc profiteremur, ab illa longe discederemus, cum tantum inter se dissentiant.
 
-CAPUT IV. EJUSDEM SENTENTIE£ EX SCRIPTURIS CONFIRMATIO.
+## Caput IV. Ejusdem Sententie£ Ex Scripturis Confirmatio
 
 Cum hoe fidei capite universa scriptura et antiqui ecclesia Christiane patres con- #0b.3. _ sentiunt. Christus enim ipse ait: “ Relinquo mundum, et abeo ad Patrem.” Et alio Matt, axvi loco: “ Pauperes semper habebitis vobiscum, me autem non semper habebitis.” Hujus ille Matt: xxiv. nos erroris admonuit, his verbis: “‘ Veniet tempus, cum multi impostores in mundo futuri sunt, et dicent, Ecce hic est Christus, et illic est Christus: sed ne credatis,” inquit Christus. Et Marcus scribit, ““ Dominum Jesum in ccelum sublatum, et ad dexteram Mare. xvi. Patris sedere.” Paulus hortatur omnes ut ccelestia querant, “ ubi Christus,” inquit, “ad ey dexteram Dei Patris sedet.” Et alibi: “ Ejusmodi pontificem habemus, qui in coelo sedet Heb. x. ad dexteram solii amplitudinis.” Et, “Unica hostia pro peccatis oblata, ad dexteram Dei perpetuo sedet, de cetero expectans, usque dum hostes ejus scabellum sub pedes ejus subjiciantur.” “Quem oportet ccelum suscipere usque ad tempus restitutionis Act. iii. bd ” omnium.
 
-CAPUT V. EJUSDEM SENTENTIZ EX ANTIQUIS PATRIBUS CONFIRMATIO.
+## Caput V. Ejusdem Sententiz Ex Antiquis Patribus Confirmatio
 
 Arqur hee est perpetua veterum omnium ecclesiz scriptorum de hac re sententia. Origenes in Ac primo Origenes in Mattheum hance causam disputat, quomodo Christus peregrinus 25 ya appellari possit, qui in aliam regionem discesserit, cum nobiscum ipse sit usque ad mundi interitum, et adsit his omnibus, qui in nomine ejus congregantur. Ad hunc itaque modum loquitur; “ Primum queramus de peregrinatione ipsius, maxime quia peregrinationi ejus videtur esse contrarium, quod ipse de se discipulis suis promittit, dicens: ‘Ubi fuerint duo vel tres congregati in nomine meo, ibi sum in medio eorum.’
 
@@ -84,8 +83,6 @@ Augustinus ad Dardanum epist. lvii.
 *Hunc locum citat Leo, epistola ultima, ad probandum in Christo veram formam humanam. Et in tota epistola forma accipitur pro substantia.
 
 In Joan. Tract. xxx. * Ob. 230.
-
-48 DE PRHESENTIA CHRISTI IN SACRAMENTO. [ Lis.
 
 stat, quem vos nescitis, ipse est qui post me venit.’ Propterea dicet' aliquis, Si in medio etiam nescientium se stat; si ubicunque duo vel tres congregati fuerint in nomine ejus, inter eos habetur; si per omnes dies vite discipulorum cum eis est, usque ad consummationem seculi ; quomodo in ista parabola proponitur peregrinans? Tractantes autem assumere debemus et illud quod Paulus ait de se: ‘Ego autem absens corpore, preesens spiritu, jam judicavi ut prasens, congregatis vobis et meo spiritu cum virtute Domini Jesu, eum qui talis est tradere Sathane in interitum carnis, ut spiritus ejus salvus sit in die Domini nostri Jesu Christi’ Si enim virtus Jesu congregatur cum his qui congregantur in nomine ejus, non peregrinatur a suis, sed semper presto est eis. Quod si semper omnibus suis est presens, quomodo introducunt eum parabole ejus peregrinantem? Vide ut possumus solvere hoc modo quod queritur. Qui enim dicit discipulis suis, ‘Ecce ego vobiscum sum, usque ad consummationem seculi; et item, ‘Ubi fuerint duo vel tres congregati in nomine meo, ibi sum in medio eorum,’ &c.; et qui in medio etiam nescientium se consistit, unigenitus Dei est, Deus Verbum, et Sapientia, et Justitia, et Veritas, qui non est corporeo ambitu circumclusus. Secundum hance divinitatis sue naturam non peregrinatur, sed peregrinatur secundum dispensationem corporis quod suscepit ; secundum quod et turbatus est, et tristis factus est, dicens, ‘Nunc anima mea turbatur: et iterum, ‘Tristis est anima mea usque ad mortem.’ Heec autem dicentes non solvimus suscepti corporis hominem (cum scriptum apud Joannem, ‘Omnis spiritus qui solvit Jesum non est ex Deo,) sed unicuique substantie proprietatem reservamus.”
 
@@ -135,15 +132,13 @@ Didymus de Spiritu Sane. Lib. i. cap. 1. *Ob. 182.
 
 Spiritu Sane.
 
-50 DE PRESENTIA CHRISTI IN SACRAMENTO. [Lis.
-
 Quid Gregorius? annon eodem spiritu ductus, conspirasse videbatur cum ceteris, quum ita scribit? “ Christus,” inquit, “non est hic per presentiam carnis, qui tamen nusquam deest per presentiam majestatis.” Beda in homilia Paschali quadam super illis verbis, ‘Ecce ego vobiscum sum:’ “Ipse Deus et homo assumptus est humanitate, quam de terra susceperat; manet cum sanctis in terra divinitate, qua terram pariter implet et coelum.” Idem super illis verbis, ‘Modicum jam, et non videbitis me: “ Ac si aperte diceret: Propterea me suscitatum a mortuis modico tempore videbitis quia non semper in terra corporaliter mansurus, sed per humilitatem quam assumpsi jam sum ascensurus in ccelum.” Idem in homilia in yigilia pentecostes: ‘*Ille post resurrectionem ascendens in ccelum, eos corporaliter deseruit, quibus tamen divine preesentia majestatis nunquam defuit: ideo recte de hoc paracleto subjunxit, ‘ Ut maneat vobiscum in eternum’.”
 
 Quas hic subtilitates (queso) papiste reperire poterunt ad hunc perniciosum errorem defendendum, Christum in humana natura corporate in consecratis pane et vino inesse, cum universa Christi catholica et antiqua ecclesia longe diversum senserit, et antiqui patres longe diversum scripserint ¢
 
 Omnes enim aflfirmarunt et crediderunt Christum unam tantum personam, duas naturas et substantias habere, divinam et humanam. Aiunt preterea Christum hine in ccelum abiisse, atque etiam nobiscum in terris esse, sed non humanitus, quemadmodum papiste contendunt. Nam quod ad eam naturam spectat, in coelo esse dicunt ; hic tamen atque illic et ubique divinitus esse. Quamvis enim divina illius natura infinita, immensa, interminata sit, nullis locorum, regionum, aut temporum finibus circumscripta, sed ubique sit, et universa compleat; ea est tamen nature sue humane conditio, ut mensura, spatio, loco, tempore terminetur: ita ut cum hic in terris versaretur, in coelo non fuerit; et nunc, cum in ccelum ascenderit, quod ad eam naturam spectat, terram reliquerit, et in ccelo tantum existat.
 
-UNUM CORPUS EODEM TEMPORE DIVERSIS IN LOCIS ESSE NON POTEST.
+## Unum Corpus Eodem Tempore Diversis in Locis Esse Non Potest
 
 Esus autem nature, que locorum spatio definitur, hoc proprium est, ut diversis in locis uno atque eodem tempore esse non possit. Atque hee antique ecclesize catholice fides fuit, quemadmodum non modo ex superius citatis auctoribus, verum etiam ex sequentibus facile liquebit.
 
@@ -185,8 +180,6 @@ Quod ipsum alio etiam loco planissime Vigilius declarat his verbis: sa
 
 Due paistarum eereses.
 
-52 DE PRHESENTIA CHRISTI IN SACRAMENTO. [Lin.
-
 Christum spectemus venturum de ccelo, quem secundum Verbum nebiscum esse credimus in terra. Igitur secundum vos, aut Verbum cum carne sua loco continetur, aut caro cum verbo ubique est, quoniam una natura contrarium quid et diversum non recipit in se ipsa. Diversum est autem et longe dissimile, circumscribi loco, et ubique esse. Et quia Verbum ubique est, caro autem ejus ubique non est, apparet unum eundemque Christum utriusque esse nature, et esse quidem ubique secundum naturam divinitatis sue, et loco contineri secundum naturam humanitatis sue: creatum esse, et initium non habere: morti subjacere, et mori non posse: quod unum illi est ex natura Verbi, qua Deus est, aliud ex natura carnis, quia idem Deus homo est. Igitur unus Dei Filius, idemque hominis factus filius, habet initium ex natura carnis sue, et non habet initium ex natura divinitatis sue: creatus est per naturam carnis sue, et non est creatus per naturam divinitatis sue: circumscribitur loco per naturam carnis sue, et loco non capitur per naturam divinitatis suze: minor est etiam angelis per naturam carnis sux, et equalis est Patri secundum naturam divinitatis sue : mortuus est natura carnis sue, et non est mortuus natura divinitatis sue. Hee est fides et confessio catholica, quam apostoli tradiderunt, martyres roboraverunt, et fideles nune usque custodiunt.”
 
 Hee Vigilius, qui predictorum scriptorum auctoritatem et sententiam sequutus, ex apostolorum, martyrum, omniumque ea etate Christianorum fide et catholica confessione confirmat, Christum humanitus, cum in terris versaretur, in coelo non fuisse ; et nunc, cum in ccelo sit, in terris non esse. Nulla enim creature cujusque natura contineri simul loco in ccelo potest, et in terris eodem tempore esse. Quoniam autem Christus nobiscum in terris est, atque etiam locum in ccelo terminatum habet, ex eo efficit, Christum duas in se naturas habere, humanam qua discessit a nobis et in ccelum ascendit, et divinam qua nobiscum in terris degit: itaque minime eandem esse naturam, que abiit a nobis, et que hic permanet, aut que loco definita conscendit in ccelum, et que nobiscum in terris commoratur.
@@ -195,9 +188,9 @@ Quocirca papiste, qui recentem nuper fidei articulum confinxerunt, (Christi vide
 
 Unam, quod duas naturas, divinitatem et humanitatem, confundunt ; illud humanitati tribuentes, quod divinitatis solius est proprium, ut in celo et terra multisque in locis simul sit.
 
-Alteram, quod corpus seu humanam naturam ejus in duas partes dividunt, et ex una natura duas fingunt; unam in ccelo aspectabilem, tractabilem, omnes artus, partes, et universam formam veri et perfecti hominis (ut natura postulat) complexam ; alteram, quam ferunt hic in terris sub omni pane et vino consecrato occultari, nulla membrorum forma aut ordine aut distinctione preditam. Que cum pugnantia atque ad- versa sibi inter se sint, una natura (sicuti sanctissimus martyr Vigilius docet) contineri non possunt,
+Alteram, quod corpus seu humanam naturam ejus in duas partes dividunt, et ex una natura duas fingunt; unam in ccelo aspectabilem, tractabilem, omnes artus, partes, et universam formam veri et perfecti hominis (ut natura postulat) complexam ; alteram, quam ferunt hic in terris sub omni pane et vino consecrato occultari, nulla membrorum forma aut ordine aut distinctione preditam. Que cum pugnantia atque ad-versa sibi inter se sint, una natura (sicuti sanctissimus martyr Vigilius docet) contineri non possunt,
 
-RESPONDETUR PAPISTIS VERBA CHRISTI, HOC EST CORPUS MEUM, PRO SE OBJICIENTIBUS.
+## Respondetur Papistis Verba Christi, Hoc Est Corpus Meum, Pro Se Objicientibus
 
 JAM vero, cum non modo scripture auctoritas et veterum patrum sententie aperte et plane doceant, Christum Servatorem nostrum humanitus in ccelum ascendisse, et in terris non esse, atque hee vera et catholica fuerit ab ascensu Christi fides; considerandum nobis est diligenti attentione, quibus rationibus inducti papiste novam sibi doctrinam gignebant, et quas scripturas ad opinionis sue defensionem adducunt. Quid illos commoverit nescio, nisi forte quod poeta dixit, ‘‘Mala mens, malus animus ;” aut etiam sedis Romanz (quam illi sanctissimam judicant) quedam jamdiu insita depravatio, que ex aliis omnibus maxime est Christo infesta, atque adeo dignissima que antichristi sedes appelletur. E scriptura nihil preterquam unum, et illud male intellectum, afferunt :
 
@@ -205,7 +198,7 @@ quod (ut pro illis facere possit) ita contorquent, ut a ceteris omnibus scriptur
 
 IIl.J DE PRAESENTIA CHRISTI IN SACRAMENTO. 53 “Christus acceptum panem (inquiunt) benedixit et fregit, et dedit discipulis, dicens : Argumen-
 
-Hoe est corpus meum.” Hee verba assidue repetunt atque inculcant, “Hoc est corpus ro meum.” Hee sacra illorum anchora est, qua tum realem (sicut ipsi loquaatur) et natu- ralem Christi presentiam in sacramento, tum fictitiam suam transubstantiationem, ProMar. An. pugnant. Hee verba Christi (aiunt) certissima et planissima sunt: quoniam igitur ipse dixit, “‘Hoc est corpus meum,” necessario concluditur, hoc quod sacrifici manibus conti- netur esse corpus Christi: que cum ita sint, panis esse non potest. Itaque efficiunt,
+Hoe est corpus meum.” Hee verba assidue repetunt atque inculcant, “Hoc est corpus ro meum.” Hee sacra illorum anchora est, qua tum realem (sicut ipsi loquaatur) et naturalem Christi presentiam in sacramento, tum fictitiam suam transubstantiationem, ProMar. An. pugnant. Hee verba Christi (aiunt) certissima et planissima sunt: quoniam igitur ipse dixit, “‘Hoc est corpus meum,” necessario concluditur, hoc quod sacrifici manibus continetur esse corpus Christi: que cum ita sint, panis esse non potest. Itaque efficiunt,
 
 Christi corpus ibi re ipsa prasens esse, panem autem non adesse.
 
@@ -215,9 +208,9 @@ Negari sane non potest, hec verba apertissime dici, sed sensum illorum non ita p
 
 Hilarius de Trin. Lib. iv. “ Intelligentia dictorum ex causis est assumenda dicendi ; quia non sermoni res, sed rei est sermo subjectus.” Et Lib. ix. “ Dictorum intelligentia aut ex prepositis aut ex sequentibus est expectanda.”
 
-CAPUT VIII.
+## Caput VIII
 
-CHRISTUS PANEM CORPUS SUUM ET VINUM SANGUINEM SUUM VOCAVIT.
+## Christus Panem Corpus Suum Et Vinum Sanguinem Suum Vocavit
 
 Er quanquam verus horum verborum sensus, ubi de transubstantiatione: agebatur, satis explicatus sit; ut res tamen planior atque evidentior fiat, et nulla diffieultas aut ambiguitas remaneat, plenius hic (quoniam ita se occasio offert) eandem rem tractabimus.
 
@@ -248,8 +241,6 @@ Lib. ii. Epistola 3.
 *Ob. 237. De verbis Apostoli, Serm. 2.
 
 Cyrill. in Joan. Lib. iv.
-
-54 DE PRAESENTIA CHRISTI IN SACRAMENTO. [ Lin.
 
 ‘Hoe facite in mei commemorationem,’ ‘ Hoc est corpus ene ‘Hic est sanguis ae, et solis ipsis impartisse.”
 
@@ -313,11 +304,9 @@ Origenes in Levit. Hom. vii. cap. 10.
 
 Chrysost. in Joan. Homil. xlvi.
 
-56 3 DE PRASENTIA CHRISTI IN SACRAMENTO. [Lis.
-
 signis rerum significatarum nomine appellatis. Quod genus nec novum nec infrequens esse solet, sed commune, et sermone quotidiano passim usurpatum. Z
 
-QUOD EDERE CORPUS CHRISTI ET BIBERE ILLIUS SANGUINEM FIGURATZ SUNT LOCUTIONES, COMPROBATIO.
+## Quod Edere Corpus Christi Et Bibere Illius Sanguinem Figuratz Sunt Locutiones, Comprobatio
 
 ArguE ut ne hoc nobis vitii assignetur, nostra hac commenta esse, nosque (ut papiste solent) ista sine aliorum auctoritate affingere, ad hee probanda cum scripture auctoritatem, tum veterum sententias ascribemus.
 
@@ -355,15 +344,13 @@ Cyprianus. *Ob. 178.
 
 Cyprianus de Uncetione Chrismatis.
 
-58 DE PRESENTIA CHRISTI IN SACRAMENTO. [Lrs.
-
 panis et poculum aqua et vino mixtum; que cum is acceperit, landem et gloriam ei, qui Pater est omnium, per nomen Filii et Spiritus sancti destinat, et gratiarum actionem, quod ab illo dignus his sit habitus, prolixe facit. Quibus rite peractis precibus cum gratiarum actione, populus omnis qui adest benedicit, dicens, Amen. Illud autem amen Hebraica lingua significat, fiat. Cum autem is qui preest gratias egerit, et totus populus benedixerit, hi qui apud nos vocantur diaconi distribuunt unicuique presentium, ut participent de pane, in quo gratie acte sunt, et de vino et aqua, et his qui non sunt presentes deferunt. Atque hoc alimentum vocatur apud nos eucharistia,” &c. ut supra, cap. viii.
 
 Bonaventura, Lib. iv. Di. 9. “ Manducatio primo et proprie in corporalibus invenitur, et ab illis ad spiritualia est translata. Et ideo si volumus accipere rectam illam manducationem spiritualem, necesse habemus a propria acceptione vocabuli nos transferre.”
 
 Itaque omnibus his, qui nihil animo prejudicatum habent, hac satis esse possunt ad probandum, Christi corporis et sanguinis manducationem et potationem minime simpliciter et communiter accipiendam, ut crasse significet nos ore et dentibus ea percipere, sed figurate potius et spiritualiter intelligi debere, quod scilicet altius in animis nostris defigendum sit, et fructuose cordibus nostris credendum, illius carnem pro nobis in crucem actam, et sanguinem ejus pro nostri redemptione profusum. Atque hee nostra in illum fides est carne illius vesci, et sanguinem ejus bibere, quamvis nobiscum presens non sit, sed in ccelum ascenderit. Quemadmodum majores nostri ante Christi adventum similiter carnem ejus ederunt et sanguinem biberunt, quamvis tam longe ab illis abfuerit, ut nondum Christus natus, nondum carne nostra quasi vestitus fuerit. .
 
-HOC EST CORPUS MEUM, ET HIC EST SANGUIS MEUS, FIGURATAS DICENDI FORMAS ESSE COMPROBATIO.
+## Hoc Est Corpus Meum, Et Hic Est Sanguis Meus, Figuratas Dicendi Formas Esse Comprobatio
 
 Hc est quoque consentiens et vera sanctorum patrum sententia, Christum, cum panem corpus suum, et vinum sanguinem suum nominasset, nequaquam proprie loquutum: sed quemadmodum sacramenta omnia figure aliarum rerum sunt, nomina tamen earum rerum habent, quarum significantia sunt; sic Christus pretiosissimi corporis et sanguinis sui sacramentum instituens, figurate loquutus est, et panem corporis nomine appellavit, quod corpus ejus significaret, et vinum sanguinem, quia sanguinem ejus repreesentaret.
 
@@ -405,8 +392,6 @@ Contra Adimantum, cap. 12.
 
 In Lib. Sententiarum Prosp. De consecratione dist. 2. * Hoe est.”
 
-60 DE PRASENTIA CHRISTI IN SACRAMENTO. Liss.
-
 ait, ‘Consepulti sumus.’ Sacramentum ergo tante rei non nisi ejusdem rei vocabulo nuncupavit.”
 
 ’ _Hucusque Augustinus erudito cuidam episcopo Bonifacio respondens, querenti quomodo parentes et amici pro infante in baptismo respondeant, et in illius persona dicant se credere et ad Deum converti, cum infans neque agat neque cogitet tale aliquid.
@@ -421,7 +406,7 @@ De hac etiam forma loquendi, ubi signa rerum significatarum nominibus appellantu
 
 His affinia sunt, que contra Adimantum scribens dicit: “Sic est sanguis anima, quomodo petra erat Christus. Nec tamen apostolus ait, petra significabat Christum, sed ait, ‘Petra erat Christus.’ Et paulo ante hoc dictum, ‘Sanguis est anima,’ possum interpretari in signo esse positum. Non enim Dominus dubitavit dicere, ‘Hoe est corpus meum, cum signum daret corporis sui.”
 
-Hic Augustinus multas loquutiones figuratas repetens, cum una res alterius rei nomine vocata, non eadem substantia, sed significatione sit; ut sanguis est anima, septem vacce sunt septem anni, septem spice sunt septem anni, petra erat Christus; in his loquendi generibus ea repetit, que Christus ultima in ccena fecit, ‘Hoe est corpus meum, Ex qua Augustini sententia evidenter colligitur, Christum hae verba figurate loquutum, minime sentientem, panem corpus esse suum substantia, sed sig- nificatione.
+Hic Augustinus multas loquutiones figuratas repetens, cum una res alterius rei nomine vocata, non eadem substantia, sed significatione sit; ut sanguis est anima, septem vacce sunt septem anni, septem spice sunt septem anni, petra erat Christus; in his loquendi generibus ea repetit, que Christus ultima in ccena fecit, ‘Hoe est corpus meum, Ex qua Augustini sententia evidenter colligitur, Christum hae verba figurate loquutum, minime sentientem, panem corpus esse suum substantia, sed significatione.
 
 Itaque Augustinus contra Maximinum. “In sacramentis (ait) minime considerandum, quid sint, sed quid significent. Signa enim rerum sunt, aliud existentia, aliud significantia.” Atque hee potissimum de hoc sacramento loquitur. ‘“Ccelestis (inquit) panis, qui Christi caro est, suo modo vocatur corpus Christi, cum revera sit sacra~ mentum corporis Christi; vocaturque ipsa immolatio carnis, que sacerdotis manibus fit, Christi passio, mors, crucifixio, non rei veritate, sed significante mysterio.” Gloss. ibidem. ‘‘Coelestis panis, id est, coeleste sacramentum, quod vere representat Christi carnem, dicitur corpus Christi, sed improprie: unde dicitur suo modo, sed non rei veritate, sed significante mysterio. Ut sit sensus, vocatur Christi corpus, id est significatur.” .
 
@@ -484,8 +469,6 @@ In secundo in eandem sententiam multa seribit, et quedam etiam planius, adversus
 Ortu. “Corruptionem ergo, interitum, et mortem, accidentia et non substantias nominare convenit: eveniunt enim et recedunt.”
 
 Act. xvii. Act. Xv.
-
-62 DE PRASENTIA CHRISTI IN SACRAMENTO. [Lm.
 
 Eran. “ Convenit.”
 
@@ -583,8 +566,6 @@ Joan. vi. Matt. xii.
 
 Act. i. Matt. iii.
 
-64 DE PRASENTIA CHRISTI IN SACRAMENTO. [Li.
-
 celeste, divinum, immortale et Domini corpus appellatur. Ita panis ante et post consecrationem idem manet natura, substantia, magnitudine, forma, et figura; neque tamen communis panis appellationem habet, sed propter dignitatem ejus ad quod assumitur, cum adjectione ccelestis panis, panis vite, panis eucharistiz.
 
 Quinto, neminem sibi tantum arrogare atque assumere debere, ut aliquid pro certo in religione affirmet, cujus rei nulla in sacris scripturis mentio fiat. Atque hoc ad convincendos et condemnandos papistas apertissime dicitur, qui quotidie novas religionis leges et sanciunt et abrogant, nullis scripturarum testimoniis freti, imo vero contra scripturas hoe apertissime facientes. Et tamen in pericula Geenne et perpetui incendii conjecturos se minitantur, qui hac commenta non fuerit universa fidei et intelligentia complexus. Itaque ad sequentes errores credendos fasciculis et incendio homines impulerunt :
@@ -599,7 +580,7 @@ Quarto, sacerdotes Christum quotidie aero ex ipso novum sacrificium expiatorium 
 
 Sed ut brevior hac in causa sim, cum que dicta sunt satis plana sint, (has formas loquendi, edere Christum et bibere sanguinem ejus, et, ‘Hoc est corpus meum,’ et, ‘Hic est sanguis meus,’ figuratas esse,) vel citandi amplius Theodoreti, vel aliorum antiquorum commemorandorum, finem faciam.
 
-FIGUKATAS LOQUENDI FORMAS NEQUE NOVAS NEQUE ADMIRABILES VIDERI DEBERE.
+## Figukatas Loquendi Formas Neque Novas Neque Admirabiles Videri Debere
 
 Neque mirandum est Christum eo tempore, cum sacramentum hoc institueret, figurate fuisse loquutum, cum sacramentorum natura sit figuras continere. Et quanquam plena ubique figurarum scriptura sit, tum earum que oxjpaTra tum que tporo appellantur, nullibi tamen refertior est quam ubi de sacramentis tractat. Cum arca, que divinam majestatem representarat, in Israelitarum castra venisset, Palestini dixerunt, Deum in castra venisse: et Deus ipse per prophetam Nathanum memorat se, ex quo tempore Israelitas ex Aigypto eduxisset, nequaquam in. edibus, sed in tentoriis et tabernaculis habitasse. Minime autem existimandum est, Deum ipsum ita devectum et transportatum esse; sed quia arca (que Dei figura erat) ita de loco in locum deferebatur, de seipso loquebatur, quod de arca intelligebatur. Christus ipse figuris, similitudinibus, parabolis, perseepe utebatur; et agrum mundum, inimicum diabolum, semen verbum Dei, Joannem Eliam, se vitem, apostolos palmites, se panem vite esse dixit. Atque etiam abundantius istorum usu delectatus, quasi ad communem hominum intelligentiam satis pertinerent, his preeterea vocibus est usus: ‘* Pater meus agricola est,” “ventilabrum in manu ejus est,” “expurgabit aream suam,” “ triticum in horreum suum congregabit, paleam autem in ignem inextinguibilem conjiciet.” ‘“‘Cibum habeo edendum, quem vos ignoratis:” “ne accuretis cibum qui perit, sed qui ad sempiternam vitam durat:” “ego sum pastor bonus :” ‘ Filius hominis oves ad dexteram suam collocabit, et hedos ad sinistram.” “ Ego sum ostium.” ‘ Unus ex vobis diabolus est.” rs Cuiennashe facit quod Pater meus vult, hic frater et soror et mater est:” atque illa etiam que matri et Joanni dixit, *‘ Ecce filium tuum: ecce matrem tuam.”
 
@@ -635,21 +616,19 @@ Quid hee verba Christi, “Hoc poculum est novum testamentum in meo sanguine ?�
 
 [ CRANMER. } Se
 
-66 DE PRAESENTIA CHRISTI IN SACRAMENTO. (Lm.
-
 Annon duas figuras continent? unam in hoe verbo, “ poculo,” quod non poculum, sed rem que continetur significat; alteram in “ testamento,” quia neque poculum, neque vinum poculo infusum, Christi testamentum est, sed signum et figura vinum est, quo nobis testamentum ejus sanguine confirmatum representatur.
 
 Quod si papiste (ut solent) contendant, poculo nec poculum ipsum nec vinum poculo contentum intelligi, sed sanguinem Christi in poculo, adhue tamen figuram in illis verbis inesse fateantur necesse est. Christi enim sanguis (si proprie loqui volumus) novum testamentum non est, sed id quod novum testamentum confirmavit. Sed hae nova et inaudita explicatione papiste longe peregriniorem et mirabiliorem dicendi formam invehunt, quam ulla figura sit. Hune enim sensum afferunt, ‘Hic sanguis est novum testamentum in meo sanguine; que sententia ita absurda et inepta est, ut ea cujusmodi sit, facile cuivis appareat.
 
-CAPUT XIII.
+## Caput XIII
 
-RESPONDETUR ARGUMENTIS ET TESTIMONIIS, QUZ PAPIST PRO SE ADDUCUNT.
+## Respondetur Argumentis Et Testimoniis, Quz Papist Pro Se Adducunt
 
 Nunc cum satis aperte probatum est, Christum vocasse panem corpus suum, et vinum sanguinem, et has dicendi formas figuratas esse, Christum humanitus et corporis sui presentia cum universa carne et sanguine in coelum abiisse, neque in terris versari, substantiam panis et vini manere et in sacramento percipi, et quanquam maneant, nomina tamen nova habere, et panem Christi corpus, vinum sanguinem vocari ; et mutatorum nominum hance causam esse, ut mentes nostre a rebus aspectabilibus sublatz ad res ccelestes et in fidem cadentes protinus ferrentur :
 
-His rebus bene et diligenter pertractatis, omnes papistarum auctoritates, et argu- menta omnia, que illi ad propositum suum undique corrogarunt, facillime non modo elevantur, sed etiam solvuntur.
+His rebus bene et diligenter pertractatis, omnes papistarum auctoritates, et argu-menta omnia, que illi ad propositum suum undique corrogarunt, facillime non modo elevantur, sed etiam solvuntur.
 
-BREVIS AD OMNIA PAPISTARUM ARGUMENTA RESPONSIO.
+## Brevis Ad Omnia Papistarum Argumenta Responsio
 
 Srve enim auctor quicunque ab eis citatus dicat, nos Christi carnem edere et sanguinem ejus bibere, aut panem et vinum converti in substantiam carnis ejus et sanguinis, aut nos in illius carnem converti, aut in ccena Domini verum corpus et sanguinem ejus nos percipere, aut in pane et vino id nos percipere, quod in cruce pendebat, aut Christum carnem suam nobiscum reliquisse, aut Christum in nobis et nos in illo, aut illum totum hic et totum in ccelo, aut idem in poculo esse, quod ex latere ejus defluxerat, aut idem ore percipi, quod fide creditur, aut panem et vinum _ post consecrationem esse corpus et sanguinem Christi, aut nos corpore et sanguine Christi nutriri, aut Christum hince discessisse, et hic quoque esse, aut Christum in ultima ccena seipsum in manibus suis gestasse; minime ista accipi debent quasi simpliciter et proprie dicta, quemadmodum popularis intelligentia primo aspectu exponit.
 
@@ -661,7 +640,7 @@ Sed he atque aliz ejus generis sententie (que Christum in terris esse ostendunt,
 
 _ perceptione sacramenti a ministro solo.
 
-TIL] DE PRASENTIA CHRISTI IN SACRAMENTO. 67
+## Til] De Prasentia Christi in Sacramento. 67
 
 Hee brevis responsio, si apte et loco suo accommodetur, satis esse poterit ad ea omnia, que papiste pro se adducunt, dissolvenda. Atque ut hoc magis pateat ad hujusmodi loca, que papiste pro se inducunt, et arbitrantur pro se maxime facere, hoe responsum adhibebo, ut ex certa ad quedam loca responsione facilior aditus pateat ad reliqua solvenda.
 
@@ -685,7 +664,7 @@ _extollere potest tantam rem et tam utilem, si pie et ad auctoris Christi mentem
 
 Dionysius etiam, cujus auctoritatem papiste usurpant, et illum predicant mirabili Ad Dionyum kccle, laude hoe sacramentum efferre, (quemadmodum certe negari non potest, sacramentum Hierar. cap.
 
-excellentis cujusdam dignitatis et perfectionis esse, cum nobis perfectam et spiritualem ~ conjunctionem cum Christo, perpetuum pastum, nutritionem, consolationem et. spiritualem in illo vitam representet,) nunquam dicebat carnem et sanguinem Christi in pane et vino reipsa, corporate, sensibiliter, naturaliter esse (sicut papiste vehementer contendere solent); sed panem et vinum signa, arrhabones et symbola vocat, et fidelibus qui pie et religiose percipiunt, ostendit illos Christum spiritualiter percipere, et spiri- tualiter illius carnem edere, et sanguinem bibere. . Quanquam autem panis et vinum figure, signa et symbola sunt carnis et sanguinis Christi (quemadmodum illa Dionysius, tum ante, tum post consecrationem appellat), Greca tamen in eundem scholia dicunt res ipsas in ccelestibus locis esse.
+excellentis cujusdam dignitatis et perfectionis esse, cum nobis perfectam et spiritualem ~ conjunctionem cum Christo, perpetuum pastum, nutritionem, consolationem et. spiritualem in illo vitam representet,) nunquam dicebat carnem et sanguinem Christi in pane et vino reipsa, corporate, sensibiliter, naturaliter esse (sicut papiste vehementer contendere solent); sed panem et vinum signa, arrhabones et symbola vocat, et fidelibus qui pie et religiose percipiunt, ostendit illos Christum spiritualiter percipere, et spiritualiter illius carnem edere, et sanguinem bibere. . Quanquam autem panis et vinum figure, signa et symbola sunt carnis et sanguinis Christi (quemadmodum illa Dionysius, tum ante, tum post consecrationem appellat), Greca tamen in eundem scholia dicunt res ipsas in ccelestibus locis esse.
 
 Atque ut Dionysius nihil pro papistarum opinione facit, quod ad Christi realem
 
@@ -715,8 +694,6 @@ Gen. ix. Gen. xiv.
 
 Quatuor contra paistas docet yprianus.
 
-68 DE PRASENTIA CHRISTI IN SACRAMENTO. [ Liz.
-
 mento corpus et sanguinem Christi edere et bibere. Quibus hoc libenter damus, carnem nostram pane vesci et vinum bibere, que corporis et sanguinis nomine appellantur, quia (ut Tertullianus ait) corpus et sanguinem ejus representant, quamvis reipsa corpus et sanguis ejus non sunt. Damus etiam, mentes nostras per fidem verum corpus ejus manducare, et sanguinem ejus bibere, sed id spiritualiter, atque inde haurire vitam eternam. Sed negamus prorsus ad hunc spiritualem pastum realem aut corporalem presentiam aliqua ex parte requiri.
 
 Itaque nihil adversus catholice doctrine veritatem disserit Tertullianus, sed aperPrimum ait, Christum vocare panem corpus suum: deinde, Christum sic eum vocasse, quod corpus ejus reprasentaret: tum, quod hee verba Christi, “‘ Hoc est corpus meum,” hunc habent sensum, Hee est figura corporis mei.
@@ -737,7 +714,7 @@ Contra papistas autem aperte docet, sacram communionem ab omnibus sub utraque sp
 
 At Hilarius illis unus ex omnibus esse videtur, qui auctoritate sua illorum sententiam propugnare possit. Atque hee verba ejus afferunt::
 
-IIT. DE PRASENTIA CHRISTI IN SACRAMENTO. 69
+## Iit. De Prasentia Christi in Sacramento. 69
 
 “Si vere Verbum caro factum est, et nos vere verbum carnem factum cibo dominico Ad Hilarium
 
@@ -757,13 +734,11 @@ Quocirca hoc loco de utroque sacramento Hilarius loquens, nullam adhibuit differ
 
 Idem Hilarius de Trin. Lib. viii. “Quorum anima una et cor unum omnium Att. iv. erat, quero utrum per fidem Dei unum erat? utique per fidem. Et interrogo, utrum fides una anne altera sit? una certe. Si ergo per fidem, id est, per unius fidei naturam, utique unum omnes erant: quomodo non naturalem in his intelligis unitatem, qui per naturam unius fidei unum sunt? Omnes enim renati erant ad innocentiam, ad immortalitatem, &c. Sin vero regenerati in unius vite atque e«ternitatis naturam sunt (per quod anima eorum et cor unum est), cessat in his assensus unitas, qui unum sunt in ejusdem regeneratione nature, &c. Docet apostolus ex natura sacramentorum esse hance fidelium Dei unitatem, ad Galathas scribens: ‘Quotquot enim in Christo baptizati estis Christum induistis, &c. Quod unum sunt in tanta gentium, conditionum, gentium diversitate, nunquid ex assensu voluntatis est, aut ex sacramenti unitate, quia his et baptisma sit unum, et unum Christum induti omnes sunt? Quid ergo hic animorum concordia facit, cum per id unum sint, quod uno Christo per naturam unius baptismi induantur? &c. Itaque qui per rem eandem unum sunt, natura etiam unum sunt, non tantum voluntate, &c. Dominus Patrem orat, ut qui in se Joan. xvii. credituri sint, unum sint, et sicut ipse in Patre est, et Pater in eo est, ita omnes in his unum sint, &c. Primum precatio est, ut omnes unum sint, tum deinde unitatis profectus exemplo unitatis ostenditur, cum ait: ‘Sicut tu, Pater, in me, et ego in te, ut et ipsi unum sint in nobis:’ ut sicut Pater in Filio et Filius in Patre est, ita per hujus unitatis formam in Patre et Filio unum omnes essent, &c. Per id ergo mundus
 
-70 DE PRAESENTIA CHRISTI IN SACRAMENTO. [ Liz.
-
 crediturus est Filium a Patre missum esse, quod omnes qui credituri in eum sunt, unum in Patre et Filio erunt; et quomodo erunt, mox docemur: ‘ Et ego honorem quem dedisti mihi dedi eis.’ Et nunc interrogo, utrum id ipsum sit honor quod voluntas (cum yoluntas motus mentis sit), an vero honor nature, aut species, aut dignitas ? Honorem ergo acceptum a Patre Filius omnibus qui in se credituri sunt dedit, non utique voluntatem, &c. Et cum per honorem datum Filio, et a Filio preestitum credentibus, omnes unum sunt; quero, quomodo Filius diversi honoris a Patre sit? Cum credentes omnes honor Filii ad unitatem paterni honoris assumat, &c. Fidem teneo, atque causam unitatis accipio; sed nondum apprehendo rationem, quomodo datus honor unum omnes esse perficiat. Sed Dominus, nihil conscientie fidelium incertum relinquens, ipsum illum naturalis efficientia docuit effectum, dicens: ‘ Ut sint unum, sicut et nos unum sumus: ego in his, et tu in me, ut sint perfecti in unum. Eos nunc qui inter Patrem et Filium voluntatis ingerunt unitatem, interrogo, utrumne per nature veritatem hodie Christus in nobis sit, an per concordiam voluntatis ?
 
 “De naturali in nobis Christi veritate ipse ait: ‘Caro mea vere est esca, et sanguis meus vere est potus. Qui edit carnem meam, et bibit sanguinem meum, in me manet, et ego in eo. De veritate carnis et sanguinis non relictus est ambigendi locus: nune enim et ipsius Domini professione et fide nostra vere caro est, et vere sanguis est. Et hee accepta atque hausta-id efficiunt, ut et nos in Christo, et Christus in nobis sit.” Et mox: “ Est ergo in nobis ipse per carnem, et sumus in eo, dum secum hoc, quod nos sumus, in Deo est. Quod autem in eo per communicationem sacramenti carnis et sanguinis simus, ipse testatur dicens: ‘Et hic mundus jam me non videt, vos autem me videbitis: quoniam ego vivo, et vos vivetis, quoniam ego in Patre meo, et vos in me, et ego in vobis.’ Si voluntatis tantum unitatem intelligi vellet, cur gradum quendam atque ordinem consummande unitatis exposuit, nisi ut cum ille in Patre per naturam divinitatis esset, nos contra in eo per corporalem ejus nativitatem, et ille rursum in nobis per sacramentorum inesse mysterium crederetur, ac sic perfecta per mediatorem unitas doceretur? cum nobis in se manentibus ipse maneret in Patre, et in Patre manens ipse maneret in nobis, et ita ad unitatem Patris proficeremus, cum qui in eo naturaliter secundum nativitatem inest, nos quoque in eo naturaliter inessemus, ipso in nobis naturaliter permanente. Quod autem in nobis naturalis hee unitas sit, ipse ita testatus est, ‘Qui edit carnem meam et bibit sanguinem meum, in me manet, et ego in eo. Non enim quis in eo erit, nisi in quo ipse fuerit; ejus tantum in se assumptam habefis carnem, qui suam sumpserit. Perfecte autem hujus unitatis sacramentum superius jam docuerat, dicens: ‘Sicut me misit vivens Pater, et ego vivo per Patrem, et qui manducat meam carnem, et ipse vivet per me.’ Vivet ergo per Patrem, et quomodo per Patrem vivit, eodem modo nos per carnem ejus vivemus. Omnis enim comparatio ad intelligentie formam presumitur, ut id de quo agitur secundum propositum exemplum assequamur. Hee vero vite nostre causa est, quod in nobis carnalibus manentem per carnem Christum habemus, victuris nobis per eum, ea conditione qua vivet ille per Patrem. Si ergo nos naturaliter secundum carnem per eum vivimus, id est, naturam carnis sue adepti, quomodo non naturaliter secundum Spiritum in se Patrem habeat, cum vivat ipse per Patrem?’ Et mox: “Hee autem idcirco a nobis commemorata sunt, quia voluntatis tantum inter Patrem et Filium unitatem heretici mentientes, unitatis nostre ad Deum utebantur exemplo, tanquam nobis ad Filium, et per Filium ad Patrem, obsequio tantum ac voluntate religionis unitis, nulla per sacramentum carnis et sanguinis naturalis communionis proprietas indulgeretur, cum et per honorem nobis datum Dei Filii, et per manentem in nobis carnaliter Filium, et in eo nobis corporaliter et inseparabiliter unitis, mysterium vere ac naturalis unitatis sit predicandum.”
 
-Idem lib. eodem: “‘ Hoc est opus Dei, ut credatis ei quem misit ipse. Sacramentum et concorporationis et divinitatis sue Dominus exponit, fidei quoque nostra et spei doctrinam locutus est, ut escam non pereuntem, sed permanentem in vitam eternam operemur, ut hanc eternitatis escam dari nobis a Filio hominis meminissemus, ut Filium hominis signatum a Deo Patre sciremus, ut hoc e’se opus Dei nosceremus, credere in eum quem misisset. Et quis est quem Pater misit? Nempe, quem signa- eo he
+Idem lib. eodem: “‘ Hoc est opus Dei, ut credatis ei quem misit ipse. Sacramentum et concorporationis et divinitatis sue Dominus exponit, fidei quoque nostra et spei doctrinam locutus est, ut escam non pereuntem, sed permanentem in vitam eternam operemur, ut hanc eternitatis escam dari nobis a Filio hominis meminissemus, ut Filium hominis signatum a Deo Patre sciremus, ut hoc e’se opus Dei nosceremus, credere in eum quem misisset. Et quis est quem Pater misit? Nempe, quem signa-eo he
 
 TIT.) DE. PRESENTIA CHRISTI IN SACRAMENTO. 71 vit Deus. Et quis est quem signavit Deus? Filius utique hominis, escam scilicet prebens vite eterne. Qui tandem sunt quibus prebet eam? Illi namque qui operabuntur escam non intereuntem. Atque ita, que operatio esce est, eadem operatio Dei est, in eum scilicet credidissse quem misit.”
 
@@ -790,8 +765,6 @@ Ad Basilium, Nyssenum et Nazianzenum.
 Mar. An. fol. 203. Ad Ambros. De Sacra. Lib. iv. cap. 4.
 
 Consecratio quid sit.
-
-72 DE PRASENTIA CHRISTI IN SACRAMENTO. | Lis.
 
 proprietatem, hoc est, vitam et immortalitatem, quo fit ut, membra illius cum simus, vivamus et epee nutriamur.
 
@@ -823,7 +796,7 @@ Cum igitur usitata et communis aqua ab omni alio usu detrahitur, atque ad usum b
 
 Pari modo, ubi panis et vinum a communi vite usu segregantur, atque ad sancte communionis usum transferuntur, ea panis et vini portio, quanquam communem cum. ceteris substantiam habeat, a quibus separatur, nunc tamen consecratus et sanctus panis et vinum dicitur.
 
-LJ DE PRAESENTIA CHRISTI IN SACRAMENTO. 73
+## Lj De Praesentia Christi in Sacramento. 73
 
 Non quod panis et vinum ullam in se sanctitatem habeant, sed quia in sacrum usum transferuntur, et sanctas res atque divinas representant. Itaque Dionysius panem Boal Hierar. hune sanctum panem nominat, et poculum hoc sanctum poculum appellat, statim ut ™ ad sacree communionis usum mens admoventur.
 
@@ -867,8 +840,6 @@ Theophylact.
 
 in Mare. xiv.
 
-74 DE PRASENTIA CHRISTI IN SACRAMENTO. [ Liz.
-
 generationem, operante natura; ita et vox illa Christi, “Hoc est corpus meum,” semel quidem dicta est, sed per omnes mensas ecclesiz, usque ad hodismam diem, et usque ad ejus adventum, prestat sacrificio firmitatem.”
 
 Hee papiste ex Chrysostomo, que quanquam illorum sententiam magnopere adjuvare videntur, si plenius tamen et diligentius inspiciantur, et cum universa illius sententia (que multis et dispersis in locis patet) conferantur, clare liquebit, illum nihil minus cogitasse, quam Christi corpus naturaliter et corporaliter in pane et vino presto esse; sed ea ratione in ccelo solum esse, animosque nostros fide in ccelum migrare, atque illic tam salutari cibo pasci, quanquam sacramentaliter in pane et vino quasi in signo et figura sit, sicuti etiam in aqua baptismi est. In his autem qui rite panem et vinum percipiunt, multo plenius fructuosiusque inest, quam si corporaliter adesset, quod nihil prodesset. Spiritualiter enim et divinitus inest, et vite eternitatem illis largitur.
@@ -909,11 +880,9 @@ Sed dum ceteros transimus, cavendum est nobis, ne Joannes Damascenus dimitAd Dam
 
 Sed neque auctoritas Damasceni tanta est, ut ea nos opprimere debeat, neque dicta tam perspicua, ut de illo se potissimum jactare possint. Recens enim scriptor est pre illis, quos pro nostra parte adduximus. Et multis in locis ab antiquorum scriptorum auctoritate dissentit, si hec sit illius mens, quam papiste ei attribuunt:
 
-~ut cum ait, panem et vinum figuras non esse, que antiqui scriptores figuras appel- lant ; et panem ac vinum minime consumi, nec ex alvo ejici, contra quam Origenes et Augustinus affirmant ; vel quod exemplaria corporis Christi post consecrationem non appellentur, in quo manifeste contradicit liturgie illi que Basilio ascribitur.
+~ut cum ait, panem et vinum figuras non esse, que antiqui scriptores figuras appellant ; et panem ac vinum minime consumi, nec ex alvo ejici, contra quam Origenes et Augustinus affirmant ; vel quod exemplaria corporis Christi post consecrationem non appellentur, in quo manifeste contradicit liturgie illi que Basilio ascribitur.
 
 Quid, quod adversus etatis sue principes, qui imperatorium tum tenebant gradum, acerrimus episcopi Romani defensor fuerat, et ad scriptis propagandam de simulacrorum cultu nefandam impietatem et idololatriam delicie illius et quasi dextra fuerat? Quo minus mirum est, si justo et divino judicio dexteram amiserit, quicquid de ea restituta alii fabulentur. Quicquid autem, et quale id cunque sit, quod aliis in locis scribat, hoc certe loco, quem adversarii afferunt, pie et erudite scri-
-
-76 DE PRASENTIA CHRISTI IN SACRAMENTO. [Li.
 
 bit, etiamsi papiste vel ignorantia quadam non recte illius dicta accipiant, vel consulto contra illius sententiam alienum in sensum depravent.
 

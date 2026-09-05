@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Far-off, Near—the Near, Far Off
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2325
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now when Jesus was born in Bethlehem of Judea in the days of Herod the King, behold, there came wise men from the East to Jerusalem, saying, Where is He who has been born King of the Jews? For we have seen His star in the East, and have come to worship Him. When Herod the king had heard these things, he was troubled, and all Jerusalem with him. And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born." Matthew 2:1-4.
 
@@ -113,7 +110,7 @@ There are two prayers with which I wish to close my discourse. One is, "Lord, br
 
 The other prayer, and I ask my Brothers and Sisters here who have power in prayer to pray it, is, "Lord, bring the near ones really near—these many who are always in this House and yet not in Christ!" No, I must not say these "many"—I mean these few—for there are now few who are in that condition. Lord, bring them in! One came the other Monday and said, "I am one of the few. I have been attending the Tabernacle for many years and yet I have never told you that I have found the Savior." And he came to confess his Master. There are still some few of that sort. Lord, bring them all in! You who are always hearers only, remember that text, "Many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the Kingdom of Heaven. But the children of the Kingdom"—that is, you people who have heard the Gospel ever since you were children—"the children of the Kingdom shall be cast out." Pushed aside—"cast out into outer darkness. There shall be weeping and gnashing of teeth." Pray that it may not be so with one single hearer of mine tonight, for Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON. MATTHEW 2:1-12.
+## Exposition by C. H. Spurgeon. Matthew 2:1-12
 
 Verses 1, 2. Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, there came wise men from the East to Jerusalem, saying, Where is He who has been born King of the Jews? For we have seen His star in the East, and have come to worship Him. Observe here that when the Son of God was born into the world, it was in a very lowly village, the village of Bethlehem. Very naturally, the wise men supposed that "the King of the Jews" would be born in the palace, in the metropolis of the country, at Jerusalem. But it pleased the Lord that everything about Christ's birth should have the stamp of lowliness, that the poorest and humblest of men might understand that Christ took not upon Him the nature of princes, but the nature of men—not of the great ones of the earth, but of our common humanity. Hence Jesus was born of a lowly virgin and was but roughly cradled in a manger, and the village chosen as the place of His birth was Bethlehem, well-named the, "house of bread," for it is there that the Bread of our souls is found.
 
@@ -136,7 +133,6 @@ The Holy Child Jesus was born "in the days of Herod the king." The last spark of
 12\. And being warned of God in a dream that they should not return to Herod, they departed to their own country another
 
 way.
-
 
 ---
 [[Sermon 2324 The Followers of the Lamb|← #2324]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2326 Satan Departing, Angels Ministering|#2326 →]]

@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 15
 
-**CHAPTER 15.**
+***Chapter 15.***
 
 ## Genesis 15:1-21
 

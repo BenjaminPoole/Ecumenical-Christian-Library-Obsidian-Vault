@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Lord's Supper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2872
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For as often as you eat this bread, and drink this cup, you proclaim the Lord's death till He comes." 1 Corinthians 11:26.
 
@@ -67,7 +64,7 @@ You have said with the spouse, "Let Him kiss me with the kisses of His mouth," a
 
 II. Now I go on, in the second place, to show you HOW THE BREAD AND WINE IN THIS ORDINANCE SET
 
-FORTH THE DEATH OF CHRIST.
+## Forth the Death of Christ
 
 You can hardly fail to notice how the ordinance is adapted universally to keep in memory the fact it commemorates. You recollect what happened to the woman who looked back after she came out of Sodom. The Lord would have us "Remember Lot's wife," so He turned her into a pillar of salt. But that memorial is only to be seen by those who pass that particular spot. Now, suppose that the Master had said to His disciples, "Erect for Me a bronze column. Let it be in the form of a cross and write upon it that Jesus was born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead and buried"? It would not have appealed to our observation anything like so forcibly as this ordinance, which is not restricted to any time or place. This memorial has been seen in the darkness of the catacombs of Rome, where only a tiny taper afforded light to the worshipping assembly. This memorial has been seen among the heather on the Scottish hillside where the lightning flash lent its kindly beam to the minister as he read the Sacred Word. This memorial is seen, today, in the far-off isles of the sea. From North to South, from East to West, this is the standing memorial of Him who died! Better than storied urn, or animated bust, or rare marble, or precious metals, or jewels unrivalled for their worth is this blessed memorial because it can be seen everywhere, in every land!
 
@@ -89,7 +86,7 @@ His death is, to us, the most delightful topic of meditation. We come not to the
 
 be less a duty than a privilege and far more a pleasure than merely a service. This Supper is, virtually, the outward and visible sign of ten thousand times ten thousand broken hearts that have been bound up, tearful eyes that have been made to flash with holy joy, aching consciences that have been eased and hearts that could sooner cease to beat than cease to love! So it is, indeed, a blessed and choice memorial of our Savior's death which can never be forgotten by His loved ones. III. Now I come to my last point, and that is, perhaps, the most practical—HOW YOU AND I ARE TO SHOW
 
-OUR REDEEMER'S DEATH IN THIS SUPPER.
+## Our Redeemer's Death in This Supper
 
 Some people are very particular about the way in which the Lord's Supper is administered, but, as long as everything is done decently and in order, I think that should be enough for us. I was staying, once, with a gentleman—a Dissenter—who had become more than a little formal. He was telling me that he had done a great deal of good in his parish and, among other excellent things, he recounted one with an air of enthusiasm which made me laugh. He said, "When I came here, these people used to bring the wine for the sacrament in a black bottle and, as I am sure that I could not celebrate the Lord's Supper if the wine came from a black bottle, I have provided something better." I thought it would have been a great deal better if he had asked the people whether they had brought black hearts, for a black bottle does not signify much—but a heart that is not right in the sight of God is the thing that needs to be taken away. If you and I have our hearts right, we need not mind how simple the mode in which the ordinance is administered!
 
@@ -113,7 +110,7 @@ O my Brothers and Sisters in Christ, I pray you to see to it that you now show H
 
 Sinner, believe on the Lord Jesus Christ and remember that He said, "He that believes and is baptized shall be saved." Saint, come to the Table of your Lord and feast upon the emblems of His dying love, remembering that blessed are they who believe on Him, for there shall be a performance of those things which were told them by the Lord.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:18-39.
+## Exposition by C. H. Spurgeon: Romans 8:18-39
 
 Verse 18. For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. Paul made "the sufferings of this present time" into a matter of simple arithmetic and careful reckoning. He added them all up and saw what the total was. He seemed to be about to state a proportion sum, but he gave it up and said that the sufferings were "not worthy to be compared with the glory which shall be revealed." Did they stand as one to a thousand? No, otherwise they had been worthy to be compared! Did they stand as one to ten thou-
 
@@ -148,7 +145,6 @@ you can tell whether you are called, or not. You can know whether you are justif
 36\. As it is written, For Your sake we are killed all the day long, we are accounted as sheep for the slaughter But did they succeed in separating saints from the love of Christ even in the days of martyrdom?
 
 37-39. No, in all these things we are more than conquerors through Him that loved us. For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. "Therefore, comfort one another with these words."
-
 
 ---
 [[Sermon 2871 Anxiety, Ambition, Indecision|← #2871]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2873 Who Loves Christ More|#2873 →]]

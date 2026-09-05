@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # "My Garden"—"His Garden"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2475
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Awake, O north wind, and come, you south; blow upon my garden, that the spices thereof may flow out. Let my Beloved come into His garden and eat His pleasant fruits." Song of Solomon 4:16.
 
@@ -101,9 +98,9 @@ In Heaven, there will be no, "Finis." We shall still continue to develop and to 
 
 "Therefore, comfort one another with these words," Beloved, and cry mightily that, on this Church, and on all the Churches, God's Spirit may blow to make the spices flow! Pray, dear Friends, all of you, for the Churches to which you belong. And if you, my Brother, are a pastor, be asking especially for this Divine wind to blow through the garden which you have to cultivate, as I also pray for this portion of the garden of the Lord—"Let my Beloved come into His garden, and eat His pleasant fruits." The Lord be with each one of you, Beloved, for His dear name's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—811, 814, 778.
+## Hymns from "Our Own Hymn Book"—811, 814, 778
 
-EXPOSITION BY C. H. SPURGEON: JOHN2011-29.
+## Exposition by C. H. Spurgeon: John 2011-29
 
 Verses 11-12. But Mary stood outside at the sepulcher weeping: and as she wept, she stooped down and looked into the sepulcher, and saw two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain. You see, dear Friends, love is very patient and persevering. The other disciples had gone home, but not Mary, she stands outside the sepulcher and still waits, for she cannot go till she has seen her Lord. Love, however, has many sorrows for, as Mary stood outside the sepulcher, she was weeping. Oftentimes your love to Christ will make you sorrowful when you, for a while, lose His Presence. It will be a great sorrow to you if your Lord should seem to have hidden Himself from you. But see how quick-sighted love is—Mary saw the angels, whom the other disciples might have seen if they had not gone home. One of the beatitudes is, "Blessed are the pure in heart: for they shall see God." And love is one of the most eminent signs of purity. I do not wonder, therefore, that love saw angels, since love sees God Himself!
 
@@ -144,7 +141,6 @@ Conqueror has returned bearing the spoils of His victory. Why do you weep? Are y
 27, 28. Reach here your finger, and behold My hands; and reach here your hand, and thrust it into My side: and be not faithless, but believing. And Thomas answered and said to Him, My Lord and my God. It has been well observed that Thomas was the first person who ever proved to himself the Deity of Christ from the exhibition of His wounds. There is a good argument in it, which we cannot stay to explain at this time, but the very humanity of Christ has in it the doctrine of His Deity. You can easily argue from the one to the other. How Divine must He be who, in His condescension, took upon Himself our nature!
 
 29\. Jesus said to him, Thomas, because you have seen Me, you have believed: blessed are they that have not seen, and yet have believed. That blessedness can be reached by all of us who believe in Christ! Those who lived in this world before Christ came, saw His day by faith, and they were blessed. Those who lived in His day, saw Him in the flesh and trusted Him, were blessed. But we who cannot see Him, yet believe in Him, are the most blessed of them all!
-
 
 ---
 [[Sermon 2474 The Great Change|← #2474]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2476 This Thing Is From Me|#2476 →]]

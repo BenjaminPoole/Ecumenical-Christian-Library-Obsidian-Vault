@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The First and the Second
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2698
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He takes away the first, that He may establish the second." Hebrews 10:9.
 
@@ -146,7 +143,6 @@ for new heavens and a new earth, wherein dwells righteousness." "He takes away t
 I close by saying that it is my earnest prayer that some of you may, by God's Grace, have, your "first" taken away from you this very hour, that you may have "the second" given to you. Salvation lies not in "the first." That is all ruin and woe—the trail of the serpent is over it all. You will never go to Heaven if you remain in the same nature as you had when you were born. You must be born a second time! Or else, if there is not a second birth, you will have to endure the second death.
 
 God give you the Grace to believe in Jesus and to find in Him that second, higher, better life that you may enter into the second and perfect world, for then you will give Him all the praise forever and ever! Amen.
-
 
 ---
 [[Sermon 2697 Angelic Interest in the Gospel|← #2697]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2699 Examination Before Communion|#2699 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # God's Memorial Of His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3441
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold I have engraved you upon the palms of My hands." Isaiah 49:16.
 
@@ -33,7 +30,7 @@ We come, therefore, Brothers and Sisters, by the help of God's Spirit, to consid
 
 close with a personal reflection upon the object of this Divine Remembrance—"I have engraved YOU upon the palms of My hands."
 
-I. THE DIVINE MEMORIAL.
+## I. The Divine Memorial
 
 We have here a metaphorical speech to set forth the impossibility of God's forgetting us. "I have engraved you upon the palms of My hands." I will give a catchword to each particular explanation of this metaphor. The first word is present When we have a thing fresh in our minds and we need to make others know that we have it close to our memory, we say we have it at our fingertips. I say to such an one, "I shall not forget you. I constantly remember you. Your name, your business and your circumstances are at my fingertips." Everyone understands what is meant by the expression. It is a present memorial, but the figure of speech here used is more beautiful than that. "I have you as near to Me as if I had you always in the palms of My hands." That by which I remember you is most near to Me. A dear friend told me that when travelling in the East, he frequently saw persons who had the portraits of their friends printed on the palms of their hands. I said to him, But did not they wear out?" Yes, sometimes," he said, but very frequently they were tattooed, marked right into the hand, and then, as long as the hand was there, there was the image of the friend, roughly drawn, of course." Oriental art is not very perfect, but there it was, drawn on the palms of the hands, so that it could be always seen. A person had never to say, "Run and fetch the portrait. Run and bring me the memorial"—he always had it present with him! So the Lord Jesus always has His people present with him at all times. He is the Head, they are the members. The members are never far off from the Head. He is the Shepherd, they are the sheep and the careful shepherd, in time of danger, is never far from his sheep. Christ is not far from any of His people and, therefore, His recollections of them are not difficult to be maintained. He keeps the memorial of them in His hands present with Him. There is no fear, therefore, that He will forget them.
 
@@ -47,7 +44,7 @@ The next word I shall give you after this one of personal is painful. I have eng
 
 The other word is practical. "I have engraved you upon the palms of My hands." As much as if God would say, "I can do nothing without remembering My people." If He creates the world, it is with the hand that has His people engraved on it. If He puts forth His hand to uphold all things, that upholding hand upholds His saints. With His left hand He smites the wicked. But He cannot smite His people, for He sees them in the palm of that very hand! All that God does has an eye to His people. When He divided the nations, He divided them according to the number of the children of Israel. The world stands for their sake—'tis but a stage for the display of His Grace to them. And when the number of His elect is accomplished, He will take it all down and put it away. O child of God, the Lord has given you the richest consolation when He tells you He can do nothing without remembering you, for on the hand with which He works, He has stamped your name! Note before I leave this, that it does not say, "I have engraved you on the palm of My hand," but "on the palms of My hands," as if there was a double memorial before the Lord forever. With His right hand He blesses, and His people have a share in that. With His left hand He deals out vengeance, but He sees His people there, and gives no vengeance to them. "His left hand," the hand of His angry power, "is under my head," says the spouse, "and His right hand, the hand of His beneficent love, does embrace me." A left-handed or a right-handed God, He altogether loves us and remembers us on the right hand and on the left. By both His hands, by all His power, He pledges Himself never to forget one of His saints! Oh, this is a rich text! And we trust we shall so handle it as to bring out the juice from the luscious sentences, throw it in the winepress and tread it again and again with active feet—and it shall always yield fresh sweetness—and give forth yet more and more luscious draughts to slake your thirst, if you know but how to use it. Dear, abiding, precious memorial of our crucified Lord, you do charm away our fears! He never can forget us. And now, briefly, not for lack of matter, but for lack of time—
 
-II. WHAT WILL BE THE RESULT OF OUR BEING THUS DAILY REMEMBERED?
+## II. What Will Be the Result of Our Being Thus Daily Remembered?
 
 Children of God, God remembers you to make you joyful. How runs the text? "Sing, O heavens, and be joyful, O earth." The Lord, who thinks of you, will sometimes give you heydays and holidays. You shall not always be in the dark. Do you recollect how John Bunyan describes it, that after Giant Despair's head had been cut off, Mr. Ready-to-Halt, Miss Much-Afraid and Miss Despondency, all of them, had a feast? And they had a dance, too, and Mr. Ready-to-Halt leaped on his crutches! The very weakest and most limping among God's saints sometimes have their seasons of joys and
 
@@ -55,7 +52,7 @@ rejoicing, and so shall you! You daughters of depression, you sons of sorrow, Go
 
 Oh, my dear young Friends, whose pale faces often grieve me when I see you sad, let us look up to God for comfort! Though you are marked for death, He does not forget you! He will cheer those days of growing weakness, and as you get nearer to the grave, you will also get nearer to Heaven! Many a poor woman lying in a lone cottage, or dying in a workhouse, has had more joy than some of the princes of earth in all their wealth and pride. Christ never leaves those who are His in the world, but to them He reveals Himself more sweetly than to others! I would like to say to every child of God here, because God remembers you, all that you lose between here and Heaven, He will be sure to give you. All you ask for that is right, you shall have, and a great deal you never thought of asking for! You shall have as much sweet and as much bitter. You shall have as much of everything that is good for you, as shall be best, and afterwards you shall have the fullness, you shall have the glory, for, being engraved on the palms of God's hands, He will not forget to bring you home to the place where He is and to appoint you a mansion among His chosen! I wish I could speak more at large on this, but we have hurried over it. Only take it home—chew the cud upon this. It is worth it. Here are subjects for meditation that any thoughtful mind may bring out. If God remembers me, it is all I need. You know that verse we sometimes sing that ends, "This my Father knows; this my Father knows." Oh, yes, your needs, He sees them all! Your heavenly Father knows that you have need of these things. There is nothing more required to comfort your hearts. If He knows it is good for you, you shall have it! And now to close. Who is it that is—
 
-III. THE OBJECT OF THIS REMEMBRANCE
+## III. The Object of This Remembrance
 
 "I have engraved you upon the palms of My hands." " You"—pass it round. Let each one before God, as though he saw Christ upon the Judgment Throne, ask himself, "Am I engraved upon the palms of Jesus' hands—am I" It is nothing that His whole Church is there—His Zion. He is immediately thinking of His truly blood-bought, regenerate people—there they are—all there. He has in His eyes the circumstances as He has on His hands the names of many that are greatly afflicted. Notice the connection of the text—it is to the afflicted that He is there speaking. He says, "The Lord will have mercy on His afflicted"—and He says that their names are on His hands! Don't say, then, that you are not the Lord's because you are afflicted! Because you are low in circumstances, or sick in body, don't conclude, therefore, that you are not in Christ, but rather pray more earnestly than ever that these trials may be greatly sanctified to you! Nor, Beloved, don't conclude that you are not Christ's because you feel you are sinful. Observe how the connection runs, "He will have mercy on His afflicted." Now mercy is for sinners. I may be a sinner, but yet engraved on the hands of Christ, for, indeed, all whose names are written there are, by nature, guilty, but they have obtained mercy! The greatness of my past guilt does not prove that I have no interest in Christ. If I have faith in Him. If I come and put my trust in Him, then is my name written on the palms of His hands! But is it so, dear Reader? Is it so? Have you trusted Christ or not? Answer, I say again, as though Christ were here upon the Throne of His Judgment Seat! Answer now. Do you rest your soul alone on Jesus Christ? If you do, all that is implied in having yourself imprinted upon the hands of Christ is yours!
 
@@ -67,7 +64,7 @@ Here I am leaning on this rail. If this that I lean upon, fails me, down I must 
 
 There is not any good thing in you. Know that to begin with. You say, "But I am bad." I know you are—you are ten thousand times worse than you think you are! You are bad as you may conceive yourself to be—but worse than that by fifty thousand times! But your goodness is in Jesus, your hope is in Jesus. Look straight away now to those dear wounds of Jesus! Look straight to Him! And if you perish trusting in Christ, you will be the first sinner that ever perished there! It will be a novelty in Hell, and the news will be spread on earth, and even in Heaven, that there was a sinner that trusted Christ and then perished! Farewell to the Gospel, then! Put away the Bible. We have done with Christ, Himself, if that could be true. But it never can be! Him that comes to Me, I will in no wise cast out." Look, Man! Look, Woman! Look, Child! Whoever you may be, there is life in a look at the Crucified One! There is life at this moment for you! Look, Sinner! Look unto Him and be saved! Look unto Jesus, who died on the Cross! May God bless you all for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 42:1-17; 43:18-25; ROMANS 10:1-19.
+## Exposition by C. H. Spurgeon: Isaiah 42:1-17; 43:18-25; Romans 10:1-19
 
 This book might well be called the Gospel according to Isaiah," for it is full of evangelical Truth.
 
@@ -99,7 +96,7 @@ Verse 1. Behold My Servant, whom I uphold: My Elect One, in whom My soul delight
 
 17\. They shall be turned back, they shall be greatly ashamed, who trust in engraved images, that say to the molten images, You are our gods.
 
-ISAIAH43:18-25.
+## Isaiah 43:18-25
 
 Verses 18, 19. Do not remember the former things, neither consider the things of old. Behold, I will do a new thing: now it shall spring forth; shall you not know it? I will even make a way in the wilderness, and rivers in the desert. Do not imagine that what God has done in the past will never be repeated! It will be excelled—He will do yet greater things. Of all the mercy and love which God has shown, we may say that these are only prophecies of what He yet will reveal. There are now things yet to come wherein the splendor of His mercy shall be yet more clearly seen than in all the former things!
 
@@ -117,7 +114,7 @@ Verses 18, 19. Do not remember the former things, neither consider the things of
 
 25\. I, even I, am He that blots out your transgressions for My own sake, and will not remember your sins. He has pointed out the fault. He has shown that He is not forgetful of it. And then He pronounces absolution! The transgression is put away! Blessed be His name! Now let us turn to the New Testament and read in the Epistle to the Romans, the 10th Chapter, and we shall there see the way in which pardon is brought home to the soul.
 
-ROMANS 10:1-19.
+## Romans 10:1-19
 
 Verses 1-3. Brethren, my hearts desire and prayer to God for Israel is that they might be saved. For I bear them record that they have a zeal for God, but not according to knowledge. For they, being ignorant of Gods righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.A fault—a pitiable and grievous fault—that men should be in earnest and very zealous, and yet nothing should come of it because they spend that zeal in a wrong direction! Men would make themselves righteous. They would come before God in the apparel of their own works, whereas God has already made a righteousness which He freely gives!For us to try and produce another is to enter into rivalry with God—to insult His Son and do dishonor to His name! May God grant that any here who are very zealous in a wrong direction may receive light and knowledge, and turn their thoughts in the right way.
 
@@ -134,7 +131,6 @@ Verses 1-3. Brethren, my hearts desire and prayer to God for Israel is that they
 16\. But they have not all obeyed the Gospel. For Isaiah says, Lord, who has believed our report? And what Isaiah says, many and many a preacher since has had to say. "Woe, woe to us for this."
 
 17-19. So then faith comes by hearing, and hearing by the Word of God. But I say, Have they not heard? Yes, verily, their sound went into all the earth, and their words unto the ends of the world. But I say, Did not Israel know?Did not the Jewish people have a time of hearing and instruction? Certainly they knew—and they also knew that the Gospel was not to be confined to them. They had a warning that it would even be taken from them and sent to other nations.
-
 
 ---
 [[Sermon 3440 Attention!|← #3440]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3442 'The Desire Of All Nations'|#3442 →]]

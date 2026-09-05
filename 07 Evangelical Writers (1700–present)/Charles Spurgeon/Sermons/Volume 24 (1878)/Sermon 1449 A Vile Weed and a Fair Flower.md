@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Vile Weed and a Fair Flower
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1449
-
-DELIVERED BY.
 
 > "Let your con versation be without co vetousness; and be content with such things as you ha ve: for He has said, I will never leave you, nor forsake you. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do to me." Hebrews 13:5, 6.
 
@@ -134,7 +131,6 @@ Christian can bear and forbear when their fun grows foul—how he can endure rep
 If you have cast off your grievous disquietudes while I have been talking, do not put them on again when you get outside! I have known many a poor tried child of God forget his trouble when he was sitting here, but he looked it up before he reached his home and so he returned to his old condition. "Cast your burden upon the Lord and He shall sustain you. He will never suffer the righteous to be moved." You have been looking too far ahead, dear Brother, dear Sister!
 
 Cure that fault by looking still further! Remember the coming of our Lord and the joy of His appearing and you may ease your pains in the present. Oh to live exempt from care by the energy of prayer! Oh, to believe implicitly in God, to rest calmly in Him, to trust steadfastly in Christ and to take His yoke upon us cheerfully—then we shall find rest to our souls by learning of Him! The Lord help us all to do so, for His name's sake. Amen.
-
 
 ---
 [[Sermon 1448 Forgiveness Made Easy|← #1448]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1450 The Immovability of the Believer|#1450 →]]

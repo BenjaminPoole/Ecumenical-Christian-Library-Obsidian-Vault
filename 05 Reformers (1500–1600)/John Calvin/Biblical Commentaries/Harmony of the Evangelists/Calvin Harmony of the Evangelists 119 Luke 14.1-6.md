@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 119. Luke 14:1-6
-
-**Luke 14:1-6**
 
 **1**. And it happened that he entered into the house of a certain ruler of the Pharisees on a Sabbath, to take food, and they watched him. **2**. And, lo, a certain man who had a dropsy was before him, **3**. And Jesus answering said to the lawyers [^1] and Pharisees, saying, Is it lawful to cure on the Sabbath? **4**. But they were silent; and he took and cured him, and sent him away. **5**. And he answering to them said, Which of you shall have an ass or an ox that shall fall into a pit, and will not immediately pull him out on the Sabbath-day? **6**. And they could not answer him to these things.
 

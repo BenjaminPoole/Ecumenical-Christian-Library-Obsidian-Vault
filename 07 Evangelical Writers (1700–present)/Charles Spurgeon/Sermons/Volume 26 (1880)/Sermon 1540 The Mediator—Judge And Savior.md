@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Mediator—Judge And Savior
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1540
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 30, 1880,.
+*Delivered on Lord's-Day Morning, May 30, 1880*
 
 > "And He commanded us to preach unto the people and to testify that it is He which was ordained of God to be the Judge of the quick and the dead. To Him all the prophets witness that, through His name, whoever believes in Him shall receive remission of sins." Acts 10:42,43.
 
@@ -89,7 +88,7 @@ That is the second point of the text and it is clear enough. May we be wise enou
 
 III. Notice a third consideration—THE QUALIFICATIONS REQUIRED BY OUR LORD AS MEDIATOR TO
 
-FULFILL HIS FIRST OFFICE OF JUDGE MATERIALLY COMFORT US IN LOOKING AT HIM UNDER HIS
+## Fulfill His First Office of Judge Materially Comfort Us in Looking at Him Under His
 
 SECOND OFFICE AS SAVIOR. Note, then, first, that as Judge, the Lord Jesus has full authority. He is fully commissioned of God to acquit or to condemn. Oh, then, if He gives me pardon through His blood, it is an authorized pardon! It is a free pardon under the King's own hand and seal! I rejoice to think of this. If Jesus the Judge had said, "Depart, you cursed," I should be certain that it was true and sure though I sank into unutterable despair forever.
 
@@ -136,7 +135,6 @@ Lastly, this blessed news has reference to everyone in the whole world that will
 Oh, trust Him! Trust Him and you shall have pardon! My heart longs that you should, at this moment, accept Jesus and live. Why not? Often, when we have spoken like this, the Holy Spirit has cheered the hearts of men and brought them to Christ and why should He not do it this morning? Pray for it, Believers! This moment offer your intense prayers to Heaven in silent cries. The Spirit of God is here in this assembly and He will work in answer to our warm desires. I have preached the Gospel. I know it is the very Gospel of the blessed God! Will He not bear witness to His own Truth? Has He not pledged Himself to do it? I have preached His Truth as well as I can, relying only upon His help and I have earnestly avoided all tawdry speech of human wisdom. I have told you in all simplicity the old, old story of my blessed Lord and therefore I confidently expect to see the Word prosper.
 
 The Holy Spirit must bless the preaching of the Cross—it is His office, His Nature, His usual way to do so. He has not changed, nor ceased to be what He used to be and, therefore, He will bless His people and make His Gospel the power of God unto salvation! O my dear Hearer, seize the blessing by an instant faith! God help you to do it, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1539 The Disciple Whom Jesus Loved|← #1539]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1541 Unprofitable Servants|#1541 →]]

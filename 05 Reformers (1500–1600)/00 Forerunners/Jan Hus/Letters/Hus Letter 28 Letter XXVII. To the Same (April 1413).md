@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 28. Letter XXVII. To the Same (April 1413)
-
-LETTER XXVII. TO THE SAME (April 1413)
 
 Reasons why Hus cannot accept a compromise with Stanislaus and Palecz ; Stanislaus's former views on Remanence ; The incident of Stiekna ; Do not change your benefice . 119-22
 

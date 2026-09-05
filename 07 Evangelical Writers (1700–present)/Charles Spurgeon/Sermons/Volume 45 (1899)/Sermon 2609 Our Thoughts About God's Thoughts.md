@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Our Thoughts About God's Thoughts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2609
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How precious also aire Your thoughts unto me, O God! How great is the sum of them!If I should count them, they are more in number than the sand: when I awake, I am still with You." Psalm 139:17,18.
 
@@ -105,7 +102,7 @@ To bear me to the King."
 
 I wish that all of you knew this blessed experience of which I have been speaking. Some of you do not. You are afraid of God. You are afraid of His seeing you. You are afraid to go to Him. See, then, here is Jesus Christ who took upon Him our nature though He is God! Go to Him, trust Him, believe in Him—then He will make you to be a child of God and you will not be afraid of your Father. God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM139.
+## Exposition by C. H. Spurgeon: Psalm 139
 
 May the all-seeing God, of whom this Psalm speaks, look down upon us and bless us richly while we read it! Verse 1. O LORD You have searched me, and known me.' 'Known me perfectly, far better than I know myself. You have made an inquisition and investigated every secret thing concerning me. 'You have searched me, and known me.'"
 
@@ -180,7 +177,6 @@ Every man is a world of wonders. He need not go abroad for miracles, for he is, 
 20-22. For they speak against You wickedly, and Your enemies take Your name in vain. Do not I hate them, O LORD, that hate You? And am not I grieved with those that rise up against You? I hate them with perfect hatred: I count them my enemies. We are to love our own enemies, but we are not to love God's enemies! We are to forgive our personal enemies, but we cannot forgive God's enemies! That man loves not the Truth of God who does not hate a lie and he loves not the right who has no anger against wrong. We are living in an age in which we are practically told that truth and error are the same, that the devil's lie and the Divine Revelation may lie down together! If we will not endorse this lie, men call us bigoted or dogmatic. Bless the Lord, we mean to be a great deal more dogmatic than we have been, and to stick even closer to the Truth of God than we have up to now done, if that is possible!
 
 23, 24. Search me, O God, and know my heart: try me, and know my thoughts: and see if there is any wicked way in me, and lead me in Your way everlasting. That is a blessed prayer! May God hear it in the case of each one of us, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2608 There Is No Difference|← #2608]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2610 A Witness and a Partaker|#2610 →]]

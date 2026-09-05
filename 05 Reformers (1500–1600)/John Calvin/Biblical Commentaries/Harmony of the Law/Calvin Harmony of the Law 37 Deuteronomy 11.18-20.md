@@ -11,12 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 37. Deuteronomy 11:18-20
 
-**deuteronomy 11**
-
-**ANOTHER REPETITION**
+## **Another Repetition**
 
 **18.** Therefore shall ye lay up these my words in your heart, and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
 

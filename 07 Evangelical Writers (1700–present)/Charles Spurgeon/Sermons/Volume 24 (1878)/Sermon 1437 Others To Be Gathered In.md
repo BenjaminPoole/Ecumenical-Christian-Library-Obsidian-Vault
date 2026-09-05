@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Others To Be Gathered In
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1437
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 6, 1878,.
+*Delivered on Lord's-Day Morning, October 6, 1878*
 
 > "The Lord God which gathers the outcasts of Israel says, Yet will I gather others to him, beside those that are gathered unto him." Isaiah 56:8.
 
@@ -158,7 +157,6 @@ him."
 I shall alter all my preaching, for when I preach, I shall say, "Jesus will in no wise cast out any that come to Him, except one and that one man sits in the Tabernacle." I shall tell them, when I am preaching at Leeds during this week, that Jesus Christ receives all sinners except one man who was cast out at the Tabernacle last Sunday. I guarantee you I will make your name ring round the world! The saints shall know it in Heaven and the devils will soon know it in Hell— and they will triumph over the defeated Savior! Why, man, you would be the first proof that God was not true, that Christ was not gracious and His blood is not Omnipotent!
 
 Shall this ever be? You know better! Come along and try the Savior now! Rejected you shall never be! Oh that you would, this morning, yield to the gentle drawing of His almighty love! May you, dear Brothers and Sisters, be among those who shall say, "It is true, it is true that He gathers other outcasts, for He has gathered me into His fold and I bless His Sovereign Grace, His irresistible love and will bless Him forever and ever." Amen.
-
 
 ---
 [[Sermon 1436 What The Church Should Be|← #1436]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1438 The Hope Laid Up In Heaven|#1438 →]]

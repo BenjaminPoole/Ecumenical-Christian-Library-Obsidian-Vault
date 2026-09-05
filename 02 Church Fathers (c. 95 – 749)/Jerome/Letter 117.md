@@ -21,7 +21,7 @@ tags:
 
 To a Mother and Daughter Living in Gaul
 
-A monk of Gaul had during a visit to Bethlehem asked Jerome for advice under the following circumstances. His mother was a church- widow and his sister a religious virgin but the two could not agree. They were accordingly living apart but neither by herself. For each had taken into her house a monk ostensibly to act as steward but really to be a paramour. At the request of his visitor Jerome now writes to both mother and daughter urging them to dismiss their companions; or at any rate to live together: and pointing out the grave scandal that must otherwise be caused.
+A monk of Gaul had during a visit to Bethlehem asked Jerome for advice under the following circumstances. His mother was a church-widow and his sister a religious virgin but the two could not agree. They were accordingly living apart but neither by herself. For each had taken into her house a monk ostensibly to act as steward but really to be a paramour. At the request of his visitor Jerome now writes to both mother and daughter urging them to dismiss their companions; or at any rate to live together: and pointing out the grave scandal that must otherwise be caused.
 
 From the treatise against Vigilantius (§3) we learn that ill-natured critics maintained that the persons and circumstances described in the letter were alike fictitious and that Jerome in writing it was but exercising his ingenuity on a congenial theme.
 

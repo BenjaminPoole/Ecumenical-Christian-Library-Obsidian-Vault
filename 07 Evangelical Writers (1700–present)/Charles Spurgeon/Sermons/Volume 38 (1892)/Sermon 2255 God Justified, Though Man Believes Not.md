@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # God Justified, Though Man Believes Not
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2255
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For what if some did not believe? Shall their unbelief make the faith of God without effect? God forbid: yes, let God be true, and every man a liar; as itis written, That You might be justified in Your sayings, and might overcome when You are judged." Romans 3:3,4.
 
@@ -105,7 +102,7 @@ The other word that I have to say is a message to the unsaved. If you are oppose
 
 Portion of Scripture Read before Sermon—Romans 3. HYMNS FROM "OUR OWN HYMN BOOK"—166, 675, 674.
 
-EXPOSITION BY C. H. SPURGEON ROMANS3.
+## Exposition by C. H. Spurgeon Romans 3
 
 Verse 1. What advantage then has the Jew? Or what profit is there of circumcision? If, after all, both Jew and Gentiles were under sin, what advantage had the Jew by the Covenant under which he lived? Or what was the benefit to him of the circumcision which was his distinctive mark?
 
@@ -150,7 +147,6 @@ show a man how much he needs cleansing, but the Law cannot cleanse him. "By the 
 26 - 27. To declare, I say, at this time His righteousness: that He might be just, and the justifier of him who believes in Jesus. Where is it? It is to be found in a great many people. It is common enough, but where ought it be? Where does it get a footing? It is shut out. There is no room for boasting in the heart that receives Christ. If a man were saved by works, he would have reason to glory—boasting would not be shut out. But as salvation is all of Grace through faith in Christ, boasting is barred out in the dark and faith gratefully ascribes all praise to God.
 
 27 - 31. It is excluded. By what Law? Of works? No: but by the Law of faith. Therefore we conclude that a man is justified by faith without the deeds of the Law. Is He the God of the Jews only? Is He not also of the Gentiles? Yes, of the Gentiles, also: seeing it is one God which shall justify the circumcision by faith, and uncircumcision through faith. Do we then make void the Law through faith? God forbid: yes, we establish the Law. Whether Jews or Gentiles, there was no salvation for them by the works of the Law. The only way in which the circumcised or the uncircumcised could be justified was by faith. This principle does not make void God's Law! On the contrary, it establishes it and sets it on the only right and solid foundation! The Gospel of the Grace of God is the best vindication of His Law.
-
 
 ---
 [[Sermon 2254 The Two Guards Praying and Watching|← #2254]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2256 Daniel's Band|#2256 →]]

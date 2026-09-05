@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Church a Mother
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2776
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The children you willhave, after you have lost the others, willsay again in your ears, The place is too small for me; give me a place where I may dwell. Then will you say in your heart, Who has begotten these for me, since I have lost my children, and am desolate, a captive, and wandering to and fro? And who has brought these up?Behold, I was left alone; but these, where were they?" Isaiah 49:20,21.
 
@@ -65,7 +62,7 @@ I think I have said enough upon this point. The Church, like every other mother,
 
 III. Now I come to the third head, which is this—THE CHURCH HAS SOMETIMES TO BE CARRIED AWAY
 
-CAPTIVE.
+## Captive
 
 How often has this happened to the Church of God in the olden times! The Church has been carried into foreign countries, taken from her much-loved house at Jerusalem and compelled to sit down by the waters of Babylon and weep while she remembered her ancient habitation. Her children have hung their harps upon the willows and, when their enemies came and required of them a song, they have said, "How can we sing the Lord's song in a strange land?" She has been a captive, indeed, in more modern times! Since the days of Christ, the Church has been a captive in another sense, namely, that sometimes she has been cruelly persecuted. Kings have sent forth their bloody edicts against her and then the tender nursing mother, the Church, has been obliged to house her children in the dens and caves of the earth. They have worshipped in catacombs, by the light of candles, or perhaps with no light whatever. Her dearest sons have been compelled to administer the ordinance of Christ in the vaults among the dead. When the living were too unkind, then has death found them a shelter. The earth has helped the woman and in the catacombs have her children been brought forth.
 
@@ -95,7 +92,7 @@ Dear Brothers and Sisters, pray more than you have ever done! Wrestle with God i
 
 Turn to this promise in your Bibles. Read the passage at your family altars, and then plead it—"Lord, You have made us to be, for a time, desolate. We have lost some of our children. Now grant that the children which we shall have, after we have lost these others, may cry, Make room for us; the place is too small for us to dwell in." One of our Brothers lately said to me, "You surely do not expect to see the Tabernacle crowded down the aisles, do you?" I do, indeed! I expect to see it as crowded as ever this chapel has been. I think we shall oftenbe moved to say, "Who has begotten these for me?" God's arm is not shortened that He cannot save, neither are His ears heavy that He cannot hear us. We shall go on and conquer and never cease! The God who has been with us in the past, will be with us in the future and, as it has been, so shall it still be! God shall still be glorified in the salvation of men.
 
-EXPOSITION BY C. H. SPURGEON: 2 CHRONICLES 11:1-17; 12.
+## Exposition by C. H. Spurgeon: 2 Chronicles 11:1-17; 12
 
 Let us read, for our instruction, part of the story of Rehoboam, the son of Solomon.
 
@@ -128,7 +125,6 @@ not plunder the people—he was content with the loot of the temple and the pala
 13-15. So king Rehoboam strengthened himselfin Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess. And he did evil, because he prepared not his heart to seek the LORD. Now the acts ofRehoboam, first and last, are they not written in the book of Shemaiah the Prophet, and of Iddo the seer concerning genealogies? Where are those books now? It is of no consequence, whatever, where they are! There are a great many other books that have perished because they were not Inspired. They were books of genealogies—valuable in their day, but if they had been of any use to us spiritually, they would have been preserved. Now, as other ancient books have evidently been lost, let us devoutly bless God that the Inspired Books have been preserved to us. By what a continuous miracle of Providence every Inspired letter has been continued in existence, it would be hard to tell, but we ought to constantly praise the Lord that out of the Book of this prophecy, not a line has been removed.
 
 15, 16. And there were wars between Rehoboam and Jeroboam continually. And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his place.- [This sermon was preached 42 years before it was published in 1902. The Metropolitan Tabernacle was in the process of being built—the first sermon preached in it was on March 25, 1861. There were more than 5,000 members of the Metropolitan Tabernacle when Brother Spurgeon died in 1892—EOD]
-
 
 ---
 [[Sermon 2775 David Warned and Rewarded|← #2775]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2777 The Queen of Sheba, a Sign|#2777 →]]

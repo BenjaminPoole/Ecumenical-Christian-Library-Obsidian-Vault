@@ -9,10 +9,9 @@ epub_file: "works1.ii.iii.html"
 tags:
   - jonathan-edwards
 ---
-
 # APPENDIX, NO. III.
 
-ACCOUNT OF THE CHILDREN OF TIMOTHY AND ESTHER EDWARDS.
+*Account of the Children of Timothy and Esther Edwards*
 
 The following particular statement of the children of Timothy and Esther Edwards, will probably interest some readers.
 

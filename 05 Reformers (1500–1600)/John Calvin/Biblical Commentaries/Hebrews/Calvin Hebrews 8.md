@@ -10,10 +10,9 @@ written: "1549"
 tags:
   - calvin-commentaries
 ---
-
 # Hebrews 8
 
-**CHAPTER 8**
+***Chapter 8***
 
 ## Heb 8:1-6
 

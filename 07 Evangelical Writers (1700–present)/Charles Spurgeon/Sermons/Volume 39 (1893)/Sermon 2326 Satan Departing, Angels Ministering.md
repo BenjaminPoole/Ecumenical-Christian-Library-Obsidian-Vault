@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Satan Departing, Angels Ministering
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2326
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when the devil had ended all the temptation, he departed from Him for a season." Luke 4:13.
 
@@ -133,7 +130,7 @@ If you are successful in business or successful in holy work, then Satan will te
 
 But what shall I say to those who are the slaves and the friends of Satan? The Lord have mercy upon you! If you desire to escape, there is only one way! There is the Cross and Christ hangs upon it. Look to Jesus! He can set you free. He came on purpose to proclaim liberty to the captives. Look and live! Look, now, and live, now! I implore you, do it for His dear sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 4:1-15.
+## Exposition by C. H. Spurgeon: Luke 4:1-15
 
 Verse 1. And Jesus being full of the Holy Spirit returned from Jordan, and was led by the Spirit into the wilderness. "Full of the Holy Spirit." And then, led "into the wilderness" to be tempted. You would not expect that. Yet it is a sadder thing to be led into a wilderness when you are not filled with the Spirit, and a sadder thing to be tempted when the Spirit of God is not resting upon you. The temptation of our Lord was not one to which He wantonly exposed Himself. He "was led by the Spirit into the wilderness." The Spirit of God may lead us where we shall have to endure trial. If He does so, we are safe, and we shall come away conquerors even as our Master did.
 
@@ -174,7 +171,6 @@ have been to howl, thus, in the Presence of Him who could have destroyed him by 
 13, 14. And when the devil had ended all the temptation, he departed from Him for a season. And Jesus returned in the power of the Spirit into Galilee. He had not lost anything by the temptation, "the power of the Spirit" was still upon Him.
 
 14,15. And there went out a fame of Him through all the region round about. And He taught in their synagogues, being glorified of all. He became popular. The people resorted to Him and were glad to hear Him. He who has had secret temptation and private conflict is prepared to bear open success without being elevated by it. Have you stood foot to foot with Satan? You will think little of the applause or of the attacks of your fellow men!
-
 
 ---
 [[Sermon 2325 The Far-off, Near—the Near, Far Off|← #2325]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2327 The Whole Machinery of Salvation|#2327 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # God's People Melted and Tried
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2274
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore thus says the LORD of Hosts, Behold, I will melt them, and try them; for how shall I deal with the daughter of My people?" Jeremiah 9:7.
 
@@ -105,7 +102,7 @@ III. I was going to speak about this principle in THE MATTER OF THE CHURCH OF GO
 
 God bless you, and save you, and comfort you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON JEREMIAH9.
+## Exposition by C. H. Spurgeon Jeremiah 9
 
 Verse 1. Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people! Jeremiah foresaw that the Chaldeans would come up and so many would be slain that the nation would be almost destroyed.
 
@@ -166,7 +163,6 @@ Suck up a river to supply my eyes, My weary, weeping eyes, too dry for me, Unles
 26\. Egypt, and Judah, and Edom. You see that Judah is sandwiched in between Egypt and Edom. Those who were the people of God are put in the same category with the accursed nation because they had forsaken Him and mixed up with them.
 
 26\. And the children of Ammon, and Moab, and all that are in the utmost corners that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart. If the heart is not right with God, vain are all external rites!
-
 
 ---
 [[Sermon 2273 Fickle Followers|← #2273]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2275 Belief, Baptism, Blessing|#2275 →]]

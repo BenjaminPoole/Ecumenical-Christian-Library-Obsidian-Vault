@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Backslider'S Way Hedged Up
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 590
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 18, 1864, BY C. H. SPURGEON,.
+*Delivered on Sunday Morning, September 18, 1864, by C. H. Spurgeon*
 
 > She said, I will go after my lovers, who give me my bread and my water, my wool and my flax, my oil and my drink. Therefore, behold, I will hedge up your way with thorns and make a wall, that she shall not find her paths. And she shall follow after her lovers, but she shall not overtake them. And she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now." Hosea 2:5-7.
 
@@ -81,7 +80,7 @@ If this suffices not, He will try the hurricane and if you will not run into por
 
 III. In the third place, you would think that the sinner would now stop, but instead of it, according to the text,
 
-EVEN THOUGH GOD WALLS UP THE WAY OF SIN, MEN WILL TRY TO FOLLOW IT, BUT IN THE CHOSEN
+## Even Though God Walls up the Way of Sin, Men Will Try to Follow It, but in the Chosen
 
 THIS RESOLVE WILL BE IN VAIN. "She shall follow after her lovers, but she shall not overtake them. And she shall seek them, but shall not find them." Do you see the man? He has suffered such loss that he cannot find the means to sin as he used to do! Where he had money to spend to indulge himself he now finds an empty purse but yet he tries to do his worst.
 
@@ -158,7 +157,6 @@ Wake up from your coldness in private prayer if this has come over you. If your 
 Especially at this time when the eyes of the world are fixed upon you as a Church and upon me as a witness for God, let us walk carefully. If ever I might ask your prayers, no, claim them as my right, it is now! I beseech you who love God, ask for me my Lord's upholding Grace that His servant may not flinch nor turn his back in the day of battle. Ask for yourselves the same, that when the fight shall grow less hot and there shall come an hour of calm and quiet thought, I, your pastor and yourselves, my fellow soldiers in Christ, may look down the ranks and say, "Not one comrade has fallen. The arrows flew thick about them but their armor was complete! The enemy was fierce, but the Master gave them strength equal to their day. He has kept those whom He gave to us and not one of them is lost."
 
 May it be yours and mine on Heaven's starry steeps to look back upon the superlatively glorious Grace which shall have kept us to the end and brought us to the land where there shall be no more sin! Let us trust the Savior. There is the sinner's hope—there is the saint's strength! Let us cling to the Cross again and may Almighty Grace keep us there and so glorify itself forever. Amen.
-
 
 ---
 [[Sermon 0589 Jesus Meeting His Warriors|← #589]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0591 'Thus Saith The Lord' Or, The Book of Common Prayer|#591 →]]

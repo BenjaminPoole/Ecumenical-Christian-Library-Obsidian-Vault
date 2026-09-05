@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Acts 2:1-4
 

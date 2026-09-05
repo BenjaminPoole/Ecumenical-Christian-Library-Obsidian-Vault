@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Ears Bored to the Doorpost
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3337
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And if the servant shall'plainlysay, Ilove my master, my wife, and my children; I will not go out free. Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the doorpost; and his master shall bore his ear through with an awl; and he shall serve him forever" Exodus 21:5, 6.
 
@@ -35,7 +32,7 @@ Leaving, however, this outline of the meaning of this picturesque ceremony, I no
 
 First, I shall have to remind you that in Psalm 40 our Savior speaks of Himself as having had His ears bored. Did you notice the expression in the 40th Psalm, "Sacrifice and offering You did not desire: My ears have You opened." The Hebrew says, "My ears have You dug." Christ's ears, then, were pierced so that He might from His own voluntary choice be the Servant of God forevermore. When I have spoken a little upon that, I want to speak of some professed servants of God who have never had their ears bored. And then, in the third place, I want to go into this business of boring some of your ears—and I have no doubt there are many here who have had their ears bored in days gone by and who will be glad to renew the rite afresh tonight by consecrating themselves again unto their Master. First, we have to speak—
 
-I. OF THE SAVIOR HAVING HAD HIS EARS BORED.
+## I. Of the Savior Having Had His Ears Bored
 
 One would not have dared to apply this to Him if He had not instructed His servant David, by the Holy Spirit, to apply it to Himself. "My ears," says He, "have You opened." Oh, wonder of wonders! That the King of kings should thus come to be the Servant of servants—that He who is "God over all, blessed forever" and who thinks it not robbery to be equal with God—should take upon Himself the form of a Servant and be made in the likeness of sinful flesh and, being found in fashion as a Man, should become obedient unto death, even the death of the Cross! Our Savior's first appearance, here, was in the servant's place! He was the son of a carpenter and He was laid in a manger. When He comes forward to begin His active life at thirty—that life is one continual service. They would have made Him a king, but He preferred to remain the Servant of all. You see this from the first to the last of His earthly life, for even in view of the Cross, He took a towel and girded Himself, and then a basin and, showing He was still a servant, He washed His disciples' feet. He was still a Servant when He was led as a sheep to the slaughter. And as the last act of obedience that was possible, He bows His head and says, "Not My will, but Yours be done," and He yielded up the ghost. Our blessed Lord might have broken free from the servitude whenever He pleased. He claims this for Himself, that He was voluntarily a Servant and especially that His obedience and Sacrifice unto death were His absolutely willing offering. He says of His life, "No man takes it from Me, but I lay it down of Myself: I have power to lay down My life, and I have power to take it up again." He could have gone out free if He would. That host that came to seize Him in the Garden would have been no more able to take Him than the Philistines were able to take Samson when he snapped the green withes. He did but speak to them and they fell backwards—and this proved how powerful He was to have delivered Himself. And when He was before Pilate, He might even then have escaped. Did He not say, "You could have had no power against Me if it had not been given you from above"? And even on the Cross when they said, "If He is the Son of God, let Him come down from the Cross," He might have leaped in one tremendous stride into the midst of His foes and smitten them with lightning flashes from those fearful eyes! He might have shaken the earth and removed Heaven rather than have died, if so it had been His will. But He had given His ears to be bored and He remained His Father's Servant even unto death! Willingly, without a struggle, this Victim was laid upon the altar. Like the passive lamb, which starts not even when the knife is thrust into it, the Savior gave Himself as a Sacrifice for the sins of the people—and to the fullest extent was the Servant of His Father!
 
@@ -67,9 +64,9 @@ He found His spouse in the mire. He brought her up out of it. He found her in po
 
 Now I thought, when I was turning over this in my mind, that perhaps some troubled conscience here might get comfort out of it, that perhaps someone might say, "Oh, well, if Jesus Christ has so given Himself up to be the Savior of sinners that He will never give up the work, then perhaps He will save me." You know what is meant by nailing the flag to the mast. It means that the man means to fight it out. Jesus Christ has, so to speak, nailed the flag of mercy to the masthead and He will fight it out with the devil! Yes, He will save the meanest of His people! He has given Himself up, heart and soul, to be the Savior of sinners! It is His business and He will never give it up. So long as there is an unsaved sinner, Christ will be seeking him! So long as this world has sinners in it, it will be a hunting ground for this glorious Nimrod, this "mighty hunter before the Lord," who has come to seek out poor wondering souls and bring them to Himself. "He is able to save unto the uttermost all them that come unto God by Him, seeing He ever lives to make intercession for us." His ears being bored for this work, the work of intercession will be His as long as He lives! We will now pass from that to remark, in the second place—
 
-II. THAT EVERY GENUINE SERVANT OF GOD IS ONE WHO WOULD NOT ACCEPT HIS LIBERTY, OR
+## II. That Every Genuine Servant of God Is One Who Would Not Accept His Liberty, Or
 
-LEAVE OFF BEING THE SERVANT OF GOD, IF HE COULD.
+## Leave off Being the Servant of God, if He Could
 
 He has had his ears bored and he means to be, and must be, a servant of God as long as he lives. There are, however, a great many professors of whom we are going to speak to you, and a great many other men in the world, too, who have never had their ears bored to be God's servants at all. There are some, in the first place, who hate the very thought of being God's servant' 'Serve God!" says one, "who is He? Who is Jehovah that I should obey Him?" The mass of men are of Pharaoh's mind—they are not going to obey God—they think they are their own masters. I do not believe there ever was a man who was his own master, but that every man has a master of some kind or other. How many men whose master is money—and if money orders them to do anything, however outrageous—they would at once do it to obtain the money. No matter how dirty the trick might be, there are some men who would do it if it promised profit to them and they would not be found out. No matter though they were to half starve themselves and lose comfort in their houses, how many there are who would suffer much if they might but gain gold! Mammon is their master. Some take pleasure to be their master—and pleasure is a very hard master, indeed, for the pleasures of sin, though they seem to be cheap, are al-
 
@@ -89,7 +86,7 @@ I think I might make out a pretty long list of people of this sort, but I shall 
 
 Thus there are many servants in God's House who are only there a little while and who go out at the end of their six years. But now I am going to talk to—
 
-III. THOSE WHO HAVE HAD THEIR EARS BORED.
+## III. Those Who Have Had Their Ears Bored
 
 First, I shall bring out the awls. Genuine Christians have had their ears bored, that is to say, they are such Christians that they could not be anything else. And when they have their choice—and they do have it every day, for temptation gives them many an opportunity—they will not go out, but are obliged to remain the servants of God. I am now going to tell you some of the awls with which God has bored their ears. Christian, you have had your ears bored. What was one of the things that did it? I think it was past mercies. Forsake the Lord Jesus Christ? How can I? He loved me! He bought me—
 
@@ -132,7 +129,6 @@ Lastly, I want you to notice that when the ear was bored, it was bored to the do
 I think this man might say, "My master's house is to be my dwelling place forever." I know some of us seem to have had our ears bored even to the posts of this very House of Prayer! Some of you are never absent, whatever service there may be. If it were to rain, I do not know how much, I do not think it would thin this congregation much, for you love to come up to the House of God. Well, the assembling of yourselves together will always, I hope, be a means of profit to you—it is always a manifest indication of your retaining your service under the good Master! May you thus always keep close to the posts of His door and when He comes, may He find you like servants waiting at the door for their lord!
 
 Now, are there any here tonight who would like to have their ears bored with the awls which I have mentioned? If so, I would say to them, "If your heart is right with God and you are trusting in Jesus, only, instead of making a resolution, offer a prayer and let this be the prayer—'Lord, while I live and till I die, I desire to be Your servant to the utmost of my power. I desire to do Your will or to allow it. I give myself up without reserve or limitation. All that I am, all that I have, I give up to You. Take me from this night forth and let me not offer this prayer as a mere matter of form or hypocrisy, but may I offer it heartily and from my inmost soul. Enable me to say I am Your servant. Oh, God! Sanctify me, spirit, soul and body, for Your name's sake. Amen.'"
-
 
 ---
 [[Sermon 3336 Beauty for Ashes|← #3336]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3338 The Witness of the Lord's Supper|#3338 →]]

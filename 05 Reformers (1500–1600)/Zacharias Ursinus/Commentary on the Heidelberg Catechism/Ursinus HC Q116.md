@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 116. Why is prayer necessary for Christians?
-
-**Question 116. Why is prayer necessary for Christians?**
 
 Answer. Because it is that chief part of thankfulness which God requires of us; and also, because God will give his grace and Holy Spirit to those only, who with sincere desires continually ask them of him, and are thankful for them.
 
-**EXPOSITION**
+## **Exposition**
 
 There are many questions which may be agitated in reference to prayer, the chief and most important of which are the following:
 
@@ -32,7 +29,7 @@ IV. What is the form of prayer prescribed by Christ?
 
 The first and second of these propositions belong to this 116th Question of the Catechism; the third to the 117th; and the fourth to the 118th Question.
 
-**I. WHAT IS PRAYER?**
+## **I. What Is Prayer?**
 
 Prayer consists in calling upon the true God, and arises from an acknowledgment and sense of our want, and from a desire of sharing in the divine bounty, in true conversion of heart and confidence in the promise of grace for the sake of Christ the mediator, asking at the hands of God such temporal and spiritual blessings as are necessary for us; or in giving thanks to God for the benefits received. The genus or general character of prayer consists in invocation or adoration. Adoration is often used in the sense of the whole worship of God, since we regard him as the true God, whom we worship. Prayer is a species or part of invocation, for to call upon the true God is to ask of him such things as are necessary both for soul and body, and to render thanks to him for benefits received. It is here used in the sense of the general character of pray. There are, therefore, two species or parts comprehended in prayer—petition and thanksgiving. Petition is a prayer asking of God those blessings necessary both for the soul and body. Thanksgiving is prayer acknowledging and magnifying the benefits received from God, and binding those who receive these gifts to such gratitude as is pleasing to God. Thankfulness in general consists in acknowledging and professing what and how great is the benefit received, and in binding those who are the recipients thereof to the performance of such duties as are mutual, possible and becoming. It comprehends, therefore, truth and justice.
 
@@ -40,7 +37,7 @@ The apostle Paul, in his first Epistle to Timothy, 2:1, enumerates four species 
 
 Prayer is also distinguished into public and private prayer, from the circumstances of person and place. Private prayer is the intercourse which a faithful soul has with God, asking, alone and apart from others, certain blessings for himself, or for others; or giving thanks for benefits received. This form of prayer is not restricted to any particular words or places, for oftentimes the heart, when burdened and distressed, gives utterance to nothing more than sighs and groans; and the Apostle commands "that men pray every where, lifting up holy hands." (1 Tim. 2:8.) Public prayer is that which, by the use of certain words, is offered up to God by the whole church in the congregation, the minister leading, as it is right and proper that he should in the public gatherings of the church. Language, or the use of the tongue, is necessary for this form of prayer. Hence Christ said: When ye pray, say, Our Father, &c. It was also chiefly for this that the tongue was made, that God might be praised and magnified by it; and it is out of the abundance of the heart that the mouth speaketh. Lastly, by this others are also invited to praise and worship God.
 
-**II. WHY IS PRAYER NECESSARY FOR CHRISTIANS?**
+## **II. Why Is Prayer Necessary for Christians?**
 
 The reasons on account of which prayer is necessary for Christians are these: 1. The command of God. God has commanded that we call upon him, and desires that we in this way chiefly worship and praise him. "Call upon me in the day of trouble; I will deliver thee." "Ask and it shall be given you." "When ye pray, say, Our Father which art in heaven." (Ps. 50:15. Matt. 7:7. Luke 11:2.) 2. Our necessity and want. We do not obtain the blessings which are necessary for us, except we ask them at the hands of God; for he has promised them to none but such as ask. Prayer is, therefore, just as necessary for us as it is necessary for a beggar to ask alms.
 

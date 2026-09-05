@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 189. Matthew 24:32-36; Mark 13:28-32; Luke 21:29-33
-
-MATTHEW 24:32-36; MARK 13:28-32;  
-LUKE 21:29-33
 
 **32.** Now learn a similitude from the fig-tree. When its branch is already tender, and putteth forth leaves, you know that summer is nigh. **33.** In like manner, when you shall see all these things, know you that it is nigh, at the door. **34.** Verily I say to you, This generation shall not pass away till all these things be done. **35.** Heaven and earth shall pass away, but my words shall not pass away. **36.** But of that day and hour no man knoweth, not even the angels of heaven, but my Father alone.
 

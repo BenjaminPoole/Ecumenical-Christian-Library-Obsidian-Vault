@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Blessed Guest Detained
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1655
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 23, 1882,.
+*Delivered on Lord's-Day Morning, April 23, 1882*
 
 > "Then they drew near unto the village where they were going, and He made as though He would have gone further. But they constrained Him, saying, Abide with us, for it is toward evening, and the day is far spent. And He went in to stay with them." Luke 24:28,29.
 
@@ -156,7 +155,6 @@ Is not that a good missionary text, after all, a blessed prayer with which to be
 And the next is—
 
 "For it is toward evening, And the day is far spent. Hallelujah." With that I close. May we use that argument well, until our Lord shall, in very deed, abide with us!
-
 
 ---
 [[Sermon 1654 At Your Word|← #1654]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1656 My Solace in My Affliction|#1656 →]]

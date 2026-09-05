@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # "As We Have Heard, So Have We Seen"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2014
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 18, 1888,.
+*Delivered on Lord's Day Morning, March 18, 1888*
 
 > "As we ha ve heard, so have we seen in the city of the Lord of Hosts, in the city of our God: God will establish it forever." Psalm 48:8.
 
@@ -135,7 +134,7 @@ Saintly deathbeds are grand evidences of Christianity. It is something to say in
 
 Our knowing is far better than our theorizing. And whatever our theorizing may have done, our actual knowledge has never been on the side of the baptized infidelity of the advanced school. All our experience makes us say, "As we have heard, so have we seen in the city of the Lord of Hosts." On this point I have spent the strength of my discourse. The remaining two heads shall be treated briefly, although they are of great practical value.
 
-IV. WHEN HEARING TURNS TO SEEING AND IS CONFIRMED BY IT, THEN IT LEADS TO WITNESSING.
+## IV. When Hearing Turns to Seeing and Is Confirmed by It, Then It Leads to Witnessing
 
 The text, you see, is itself a testimony—"As we have heard, so have we seen." In these days every man that can witness for the Truth of God ought to do so—even if he stammers, he must not be silent. So many are decrying the Truth of God that, if in your heart and conscience you have proved it true, you are bound to give to the Lord the testimony of even a stammerer. I suppose Moses could do no more than that for he was a man slow in speech. But when he would have preferred to be quiet the Lord said to him, "Who has made man's mouth?" Your mouth is as God made it—use it as best you can, and speak up for His name and cause.
 
@@ -155,12 +154,11 @@ Without fruitfulness the vine becomes the most worthless of all trees. And witho
 
 "Stand up, stand up for Jesus!" in this day of blasphemy and rebuke.
 
-V. AND LASTLY, HEARING, SEEING, WITNESSING—GOD WILL GIVE YOU A FULLER ASSURANCE
+## V. And Lastly, Hearing, Seeing, Witnessing—god Will Give You a Fuller Assurance
 
 THAN YOU HAVE AS YET. Permit me to read the text again—"As we have heard, so have we seen in the city of the Lord of Hosts, in the city of our God: God will establish it forever." That is the conclusion which the saint comes to when he has tried the Truth of God for himself and borne witness to the result of his trial. God will never leave His Church. God will never forfeit His Word. God will never desert His Gospel. He is Jehovah of Hosts and changes not and has all power at His disposal. He is our Lord, our God in Covenant. He cannot desert the work of His own hands, nor leave the people of His love.
 
 Because His honor is bound up in the whole enterprise that Christ undertook, He must go through with it and He must arrive at a glorious conclusion. God will establish it forever. Come, my Brethren, let us cast aside all doubts about what the future is to be. The battle rages, the foe is as furious as he is subtle—while we are weak as water and can do nothing by ourselves. But let us not despair. If the Gospel is God's Gospel, He will take care of it. If the Church is Christ's Church, the gates of Hell cannot prevail against her. The battle is not ours but the Lord's—in His name let us set up our banners and cry with full confidence of victory, "The Lord of Hosts is with us. The God of Jacob is our refuge." Hallelujah, hallelujah. Amen.
-
 
 ---
 [[Sermon 2013 The Infallibility of Scripture|← #2013]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2015 The Rent Veil|#2015 →]]

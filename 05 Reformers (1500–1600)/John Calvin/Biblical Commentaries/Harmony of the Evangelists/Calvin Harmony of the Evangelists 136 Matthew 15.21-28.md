@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 136. Matthew 15:21-28; Mark 7:24-30
-
-**Matthew 15:21-28; Mark 7:24-30**
 
 **21**. And Jesus departing thence withdrew into the territories of Tyre and Sidon. **22**. And, lo, a woman of Canaan, who had come from those territories, cried saying, Have compassion on me, O Lord, thou son of David; my daughter is grievously afflicted by a devil. **23**. But he made no reply to her, and his disciples approaching implored him, saying, Send her away; for she crieth after us. **24**. But he answering said, I am not sent but to the lost sheep of the house of Israel. **25**. And she came and worshipped him, saying, Lord, help me. **26**. But he answering said, It is not seemly to take the children’s bread, and throw it to the dogs. **27**. But she said, Certainly, O Lord; yet the dogs eat of the crumbs that fall from the table of their masters. **28**. Then Jesus answering said to her, O woman, great is thy faith; be it to thee as thou desirest. And her daughter was cured from that time. [^1]
 

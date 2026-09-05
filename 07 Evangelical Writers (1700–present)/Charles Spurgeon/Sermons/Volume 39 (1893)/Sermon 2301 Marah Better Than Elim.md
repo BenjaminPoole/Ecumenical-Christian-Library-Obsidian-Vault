@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Marah Better Than Elim
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2301
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So Moses brought Israel from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water. And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah. And the people murmured against Moses, saying, What shall we drink? And he cried unto the LORD; and the LORD showed him a tree, which when he had cast into the waters, the waters were made sweet: there He made for them a statute and an ordinance, and there He proved them, and said, If you will diligently hearken to the voice of the LORD your God, and will do that which is right in His sight, and will give ear to His commandments, and keep all His statutes, I will put none of these diseases upon you, which I have brought upon the Egyptians: for I am the LORD that heals you." Exodus 15:22-26.
 
@@ -95,7 +92,7 @@ Then, Israel learned the promise made to obedience—"If you will diligently hea
 
 The hour has struck and I must, therefore, cease. Only I must say that this is the one lesson of tonight—dear people of God, trust your God. Trust your God not only when your mouth is full of honey, but when it is full of gall. "Rest in the Lord, and wait patiently for Him," for He in whom you trust will bless you. But if you are not trusting Him, then shall plagues, like those of Egypt, come upon you. Darkness and all manner of evils shall waylay you, till, at last, there shall be heard in your house a bitter cry, for the Destroying Angel will overtake you, and plunge his avenging sword into your guilty hearts. God save you from that terrible doom, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. EXODUS 15; JEREMIAH 7:21-26.
+## Expositions by C. H. Spurgeon. Exodus 15; Jeremiah 7:21-26
 
 Exodus 15:1. Then sang Moses and the children of Israel this song unto the LORD, and spoke, saying, I will sing unto the LORD, for He has triumphed gloriously: the horse and his rider has He thrown into the sea. Note, that they were singing, singing a very loud and triumphant song, and you would have thought that they would have kept on singing for the next 40 years! It was such a triumph, such a deliverance, God's arm was made so bare before their eyes that you would have thought that their jubilation would have lasted throughout a lifetime, at the least. On the contrary, it lasted a very little while. Yet what a song it was that they sang! "I will sing unto the Lord, for He has triumphed gloriously: the horse and his rider has He thrown into the sea." What a song of triumph that is which is sung by souls saved from sin, death and Hell by the great atoning Sacrifice of Christ! Oh, when we first realize that we are redeemed by the precious blood of Christ, we do, indeed, "feel like singing all the time," for our sins are washed away and we have a notion that we shall always keep on singing till we join in the song of the glorified in Heaven! So it ought to be, but, alas, from sad experience we know that it is not so! However, the song of Moses and the children of Israel goes on.
 
@@ -132,7 +129,6 @@ There are a few verses in the Book of the Prophet Jeremiah, at the seventh chapt
 Jeremiah 7:21, 22. Thus says the LORD of Hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh. For I spoke not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices. You have heard what God said to them when they came out of Egypt.
 
 23-26. But this thing commanded I them, saying, Obey My voice, and I will be your God, and you shall be My people: and walk you in all the ways that I have commanded you, that it may be well unto you. But they hearkened not, nor inclined their ear, but walked in the counsels and in the imagination of their evil heart, and went backward, and not forward. Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all My servants the Prophets, daily rising up early and sending them: yet they hearkened not unto Me, nor inclined their ear, but hardened their neck: they did worse than their fathers. God grant that these words may never be a truthful description of us! Oh, may we keep the Covenant of our God and walk before Him with a holy, reverent fear, and serve Him all our days! Amen.
-
 
 ---
 [[Sermon 2300 The Whole Gospel In A Single Verse|← #2300]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2302 Watching For Christ's Coming|#2302 →]]

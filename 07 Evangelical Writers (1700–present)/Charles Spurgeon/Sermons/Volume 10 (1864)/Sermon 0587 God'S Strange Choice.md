@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # God'S Strange Choice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 587
 
-DELIVERED ON SUNDAY MORNING, AUGUST 28, 1864,.
+*Delivered on Sunday Morning, August 28, 1864*
 
 > "For you see your calling, Brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called. But God has chosen the foolish things of the world to confuse the wise, and God has chosen the weak things of the world to confuse the things which are mighty. And base things of the world and things which are despised has God chosen, yes, and things which are not, to bring to nothing things that are: that no flesh should glory in His Presence." 1 Corinthians 1:26-29.
 
@@ -136,7 +135,6 @@ Here they come tramping on, hundreds in a line, the strong legionaries of Rome! 
 Now what is your spirit this morning towards this subject? Do you kick at it? Do you say you cannot bear it? I am afraid you want to glory in God's Presence. Your views of things and God's views of things differ, and therefore you need to have a new heart and a right spirit. But, on the contrary, do you say this morning, "I have nothing to boast of. I would not glory in Your Presence, but I would lie in the very dust and say, 'Do with me as You will' "? Sinner, do you feel that you are nothing but flesh and sinful flesh? Are you so broken before God that you feel let Him do as He will with you? Do you know that He will be just and you can only appeal to His Sovereign Mercy?
 
 Then God and you are one, you are reconciled! I can see that you are reconciled. When God and you are agreed that God should reign, then God is agreed that you should live! Sinner, touch the scepter of His Grace! Jesus Crucified stands before you now and bids you look to Him and live! That you are bid to look is an instance of mighty Grace—and that you are enabled to look this morning will be a wonder of Divine love for which you will have to bless Him in time and eternity! And now may that God whose name we have sought to honor this morning bless these stammering of ours, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0586 The Child Samuel'S Prayer|← #586]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0588 The Prodigal'S Reception|#588 →]]

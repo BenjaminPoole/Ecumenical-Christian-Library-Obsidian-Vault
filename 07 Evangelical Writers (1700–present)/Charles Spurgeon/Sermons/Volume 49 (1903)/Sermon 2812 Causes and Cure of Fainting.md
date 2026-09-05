@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Causes and Cure of Fainting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2812
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Hegives power to the faint." Isaiah 40:29.
 
@@ -87,7 +84,7 @@ They will be the people to receive this power because they will be sure to use i
 
 What, Beloved Friends, is the conclusion that we may draw from our text? Is it not this? If God gives power to the faint, let us be thankful if we have fainted and have been revived by Him. I do not refer to any sinful kind of fainting when I speak thus, but I mean what the Apostle Paul means when he says, "Most gladly, therefore, will I rather glory in my infirmities, that the power of Christ may rest upon me." But let us have done with fainting for the future because, if God gives power to the faint, if He has given us His power, we ought to have no more fainting, now that we have received God's power! So let us henceforth seek to live in the energy of that Divine might above the faintness to which the flesh is prone.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH40.
+## Exposition by C. H. Spurgeon: Isaiah 40
 
 Verse 1. Comfort you, comfort you My people, says your God.' 'They need it, and they shall have it. Mind, O my servants, that you give it to them. Comfort you, comfort you My people, says your God."
 
@@ -148,7 +145,6 @@ The mower with the sharp scythe outs down the grass, but he cannot touch the sec
 27\. Why say you, O Jacob, and speak, O Israel, My way is hid from the LORD, and my judgment is passed over from my God? What? When He has not forgotten one of all those mighty hosts of stars and when not a sparrow falls to the ground without His notice—how can you dream that He has forgotten you, or that your way is hidden from Him?
 
 28-31. Have you not known?Have you not heard that the everlasting God, the LORD, the Creator of the ends of the earth, faints not, neither is weary? There is no searching of His understanding. He gives power to the faint; and to them that have no might He increases strength Even the youths shall faint and be weary, and the young men shall utterly fall: but they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run and not be weary; and they shall walk and not faint.
-
 
 ---
 [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2813 Life, and the Path to It|#2813 →]]

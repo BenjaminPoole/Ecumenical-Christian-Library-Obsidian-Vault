@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 26. Luke 2:48-52
-
-**LUKE 2:48-52**
 
 **48**. And when they saw him, they wondered; and his mother said to him, Son, why hast thou done thus to us? Lo, thy father and I grieving were seeking for thee. **49**. And he saith to them, Why is it that ye were seeking me? Did ye not know that I must be in those things which belong to my Father? **50**. And they did not understand the discourse which he spoke to them. **51**. And he went down with them, and came to Nazareth. And he was subject to them: but his mother kept all these words in her heart. **52**. And Jesus made progress in wisdom and age, and in favor with God and men.
 

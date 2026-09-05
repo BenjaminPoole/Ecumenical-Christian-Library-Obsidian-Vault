@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Strange Ways of Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2564
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her." Hosea 2:14.
 
@@ -91,7 +88,7 @@ I tell you, you desponding and despairing ones, you may come out of the iron cag
 
 May God make this promise true to everyone here who does not yet know Him, "I will allure her, and bring her into the wilderness, and speak comfortably unto her"! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 2.6-23.
+## Exposition by C. H. Spurgeon: Hosea 2.6-23
 
 Verse 6. Therefore, behold, I will hedge up your way with thorns, and make a wall, that she shall not find her paths. God will cause sin to be painful. He will make the way of it difficult. He will do everything to prevent the sinner running in it—"She shall not find her paths."
 
@@ -128,7 +125,6 @@ Now read the next verse and be astonished—
 21\. 22. Andit shall come to pass in that day, I willanswer, said the LORD, will answer the heavens, and they shall answer the earth; and the earth shall answer with corn, and wine, and the oil and they shall answer Jezreel. So that there shall be no famine to try God's people! Their prayers shall be abundantly answered and all their needs shall be supplied.
 
 23\. And I will sow her unto Me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not My people, You are My people; and they shall say, You are my God. Oh, blessed Scripture! May the Lord write it on all our hearts! Amen.
-
 
 ---
 [[Sermon 2563 Grace for the Guilty|← #2563]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2565 Ruins|#2565 →]]

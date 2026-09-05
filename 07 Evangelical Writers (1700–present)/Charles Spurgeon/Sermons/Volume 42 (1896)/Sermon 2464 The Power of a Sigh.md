@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Power of a Sigh
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2464
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the oppression of the poor, for the sighing of the needy, now will I arise, says the LORD; I will set him in safety from him that puffs at him." Psalm 12:5.
 
@@ -91,7 +88,7 @@ Now I have finished my sermon, only I have been thinking that there are some her
 
 Now, if you are in sore sorrow and in deep trouble, whatever it may be, turn to your God! He hears the young ravens when they cry. They cannot pray spiritual prayers any more than you can and yet He hears their cries. Oh, if you are like the poor raven, yet let your cry go up to God and He will hear you! He is a God full of compassion. "Like as a father pities his children, so the Lord pities them that fear Him." And He even has pity upon those who fear Him not! O my Hearers, try Him and trust Him for yourselves! Do not think harshly of my God! Fancy not that He is made of flint or granite. He will listen to your sighs, your cries and your tears. Only turn to Him with full purpose of heart and He will not cast you away. May He bless you now, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119137-152.
+## Exposition by C. H. Spurgeon: Psalm 119137-152
 
 Verse 137. Righteous are You, O LORD, and upright are Your judgments. It is well to be able to say this when you are being tried, when the hand of God lies heavy upon you. It is hard to kick against the pricks, but it is very sweet to submit and to say, "Righteous are You, O Lord, and upright are Your judgments."
 
@@ -134,7 +131,6 @@ Verse 137. Righteous are You, O LORD, and upright are Your judgments. It is well
 150- 151. They are far from Your Law. You are near, O LORD. What a comfort that is! They are trying to get near, but You are near! I can hear the tread of their feet behind me, but I can see Your face close to me! How comforted is the Psalmist in the time of trouble! His adversaries may be as keen of scent as bloodhounds, but God is with him, therefore he fears them not.
 
 151- 152. And all Your Commandments are truth. Concerning Your Testimonies, I have known of old that You have founded them forever. So that this Psalm was written by David when he was an old man. He had known the Lord's Commandments when he was young and now, in his declining days, he can say, "I have known of old that You have founded them forever." O young men, if you want to be happy old men, begin by knowing God's Word! If you have known that God has founded His Word of old, you know that which will comfort you when you grow old! In fact, you have found a perpetual spring within your heart, if, from your youth up you have known in the fullest sense the Word of the Lord! Some are changing their creed every day in the week, as the weather changes, but blessed is that man who has so learned Christ to begin with that he keeps in the old way all his life! He is the man who can truly grow. Transplant a tree six times a year and you will not get any fruit from it. But blessed are they that are planted in the courts of the Lord, for they shall flourish there and shall still bring forth fruit in old age!
-
 
 ---
 [[Sermon 2463 Why Men Reject Christ|← #2463]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2465 Our Omnipotent Leader|#2465 →]]

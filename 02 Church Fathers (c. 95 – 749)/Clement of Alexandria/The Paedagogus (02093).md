@@ -14,7 +14,6 @@ tags:
   - church-fathers
   - written/2nd-century
 ---
-
 # The Paedagogus
 
 ## Chapter 1. On the True Beauty
@@ -157,7 +156,7 @@ The baths are opened promiscuously to men and women; and there they strip for li
 
 ## Chapter 6. The Christian Alone Rich
 
-Riches are then to be partaken of rationally, bestowed lovingly, not sordidly, or pompously; nor is the love of the beautiful to be turned into self- love and ostentation; lest perchance some one say to us, His horse, or land, or domestic, or gold, is worth fifteen talents; but the man himself is dear at three coppers.
+Riches are then to be partaken of rationally, bestowed lovingly, not sordidly, or pompously; nor is the love of the beautiful to be turned into self-love and ostentation; lest perchance some one say to us, His horse, or land, or domestic, or gold, is worth fifteen talents; but the man himself is dear at three coppers.
 
 Take away, then, directly the ornaments from women, and domestics from masters, and you will find masters in no respect different from bought slaves in step, or look, or voice, so like are they to their slaves. But they differ in that they are feebler than their slaves, and have a more sickly upbringing.
 
@@ -465,17 +464,17 @@ I.
 
 > Bridle of colts untamed, Over our wills presiding; Wing of unwandering birds, Our flight securely guiding. Rudder of youth unbending, Firm against adverse shock; Shepherd, with wisdom tending Lambs of the royal flock: Your simple children bring In one, that they may sing In solemn lays Their hymns of praise With guileless lips to Christ their King.
 
-II.
+## II
 
-> King of saints, almighty Word Of the Father highest Lord; Wisdom's head and chief; Assuagement of all grief; Lord of all time and space, Jesus, Saviour of our race; Shepherd, who keeps us; Husbandman, who tills, Bit to restrain us, Rudder To guide us as You will; Of the all- holy flock celestial wing; Fisher of men, whom You bring to life; From evil sea of sin, And from the billowy strife, Gathering pure fishes in, Caught with sweet bait of life: Lead us, Shepherd of the sheep, Reason-gifted, holy One; King of youths, whom You keep, So that they pollution shun: Steps of Christ, celestial Way; Word eternal, Age unending; Life that never can decay; Fount of mercy, virtue-sending; Life august of those who raise Unto God their hymn of praise, Jesus Christ!
+> King of saints, almighty Word Of the Father highest Lord; Wisdom's head and chief; Assuagement of all grief; Lord of all time and space, Jesus, Saviour of our race; Shepherd, who keeps us; Husbandman, who tills, Bit to restrain us, Rudder To guide us as You will; Of the all-holy flock celestial wing; Fisher of men, whom You bring to life; From evil sea of sin, And from the billowy strife, Gathering pure fishes in, Caught with sweet bait of life: Lead us, Shepherd of the sheep, Reason-gifted, holy One; King of youths, whom You keep, So that they pollution shun: Steps of Christ, celestial Way; Word eternal, Age unending; Life that never can decay; Fount of mercy, virtue-sending; Life august of those who raise Unto God their hymn of praise, Jesus Christ!
 
-III.
+## III
 
 > Nourished by the milk of heaven, To our tender palates given; Milk of wisdom from the breast Of that bride of grace expressed; By a dewy spirit filled From fair Reason's breast distilled; Let us sucklings join to raise With pure lips our hymns of praise As our grateful offering, Clean and pure, to Christ our King. Let us, with hearts undefiled, Celebrate the mighty Child. We, Christ-born, the choir of peace; We, the people of His love, Let us sing, nor ever cease, To the God of peace above.
 
 We subjoin the following literal translation of the foregoing hymn:—
 
-Bridle of untamed colts, Wing of unwandering birds, sure Helm of babes, Shepherd of royal lambs, assemble Your simple children to praise holily, to hymn guilelessly with innocent mouths, Christ the guide of children. O King of saints, all-subduing Word of the most high Father, Ruler of wisdom, Support of sorrows, that rejoices in the ages, Jesus, Saviour of the human race, Shepherd, Husbandman, Helm, Bridle, Heavenly Wing of the all- holy flock, Fisher of men who are saved, catching the chaste fishes with sweet life from the hateful wave of a sea of vices — Guide [us], Shepherd of rational sheep; guide unharmed children, O holy King, O footsteps of Christ, O heavenly way, perennial Word, immeasurable Age, Eternal Light, Fount of mercy, performer of virtue; noble [is the] life of those who hymn God, O Christ Jesus, heavenly milk of the sweet breasts of the graces of the Bride, pressed out of Your wisdom. Babes nourished with tender mouths, filled with the dewy spirit of the rational pap, let us sing together simple praises, true hymns to Christ [our] King, holy fee for the teaching of life; let us sing in simplicity the powerful Child. O choir of peace, the Christ-begotten, O chaste people, let us sing together the God of peace.
+Bridle of untamed colts, Wing of unwandering birds, sure Helm of babes, Shepherd of royal lambs, assemble Your simple children to praise holily, to hymn guilelessly with innocent mouths, Christ the guide of children. O King of saints, all-subduing Word of the most high Father, Ruler of wisdom, Support of sorrows, that rejoices in the ages, Jesus, Saviour of the human race, Shepherd, Husbandman, Helm, Bridle, Heavenly Wing of the all-holy flock, Fisher of men who are saved, catching the chaste fishes with sweet life from the hateful wave of a sea of vices — Guide [us], Shepherd of rational sheep; guide unharmed children, O holy King, O footsteps of Christ, O heavenly way, perennial Word, immeasurable Age, Eternal Light, Fount of mercy, performer of virtue; noble [is the] life of those who hymn God, O Christ Jesus, heavenly milk of the sweet breasts of the graces of the Bride, pressed out of Your wisdom. Babes nourished with tender mouths, filled with the dewy spirit of the rational pap, let us sing together simple praises, true hymns to Christ [our] King, holy fee for the teaching of life; let us sing in simplicity the powerful Child. O choir of peace, the Christ-begotten, O chaste people, let us sing together the God of peace.
 
 ### To the Pædagogus
 

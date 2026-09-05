@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 131. Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17
-
-Matthew 14:13-21; Mark 6:30-44;  
-Luke 9:10-17
 
 **13**. When Jesus heard this, he departed thence to a ship to a desert place apart; and when the multitudes heard it, they followed him on foot out of the cities. **14**. And Jesus, when leaving (the ship,) saw a great multitude, and was moved with compassion towards them, and healed of such of them as were diseased. **15**. And when the evening was drawing on, his disciples came to him, saying, It is a desert place, and the time is now past: send the multitudes away, that they may go into the village, and purchase victuals for themselves. **16**. And Jesus said to them, It is not necessary that they should go away: give you to them something to eat. **17**. And they say to him, We have nothing here but five loaves and two fishes. **18**. And he said, Bring them hither to me. **19**. And he commanded the multitudes to sit down on the grass, and, taking the five loaves and the two fishes, and raising his eyes to heaven, he blessed. [^1] And when he had broken the loaves, he gave them to the disciples, and the disciples to the multitudes. **20**. And they all ate, and were satisfied, and carried away what remained of the fragments [^2] twelve baskets full. **21**. And they who had eaten were nearly five thousand men, besides women and children.
 

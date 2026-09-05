@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # "Much More"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2587
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Much more, being reconciled, we shall be saved by His life." Romans 5:10.
 
@@ -163,7 +160,7 @@ In other words, dear Brothers and Sisters, since Christ lives, let us live with 
 
 So may God make it to be, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMAANS5.
+## Exposition by C. H. Spurgeon: Romaans 5
 
 Verse 1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ. Do not let us simply read these words, but let us, each one, say in our hearts, "That is true. I have believed in Christ, therefore I am justified in the sight of God and, therefore, I have peace with God through Jesus Christ our Lord." There is nothing in the world that is half as valuable as the two precious gems in this verse—justification and the peace which follows it.
 
@@ -190,7 +187,6 @@ Verse 1. Therefore being justified by faith, we have peace with God through our 
 God."
 
 11-21. Through ourLordJesus Christ, by whom we have nowreceived the Atonement. Therefore, as by one man sin enteredinto the world, and death by sin, andso death passed upon allmen, for that allhave sinned—(for until the Law, sin was in the world: but sin is not imputed when there is no law. Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of Him who was to come. But not as the offense, so also is the free gift. For if through the offense of one, many are dead, much more the Grace of God, and the gift by Grace, which is by one Man, Jesus Christ, has abounded unto many. And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offenses unto justification. For if by one man's offense death reigned by one; much more they which receive abundance of Grace and of the gift of righteousness shall reign in life by One, Jesus Christ). Therefore as by the offense of one judgment came upon all men to condemnation; even so by the righteousness of One, the free gift came upon all men unto justification of life. For as by one man's disobedience many were made sinners, so by the obedience of One shall many be made righteous. Moreover the Law entered, that the offense might abound. But where sin abounded Grace did much more abound: that as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord.
-
 
 ---
 [[Sermon 2586 A Far-reaching Promise|← #2586]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2588 Perfect Restoration|#2588 →]]

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 138
-
-**PSALM 138**
 
 In this Psalm David, in remembrance of the singular help which had always been vouchsafed him by God — the experience he had enjoyed of his faithfulness and goodness, takes occasion to stir himself up to gratitude; and from what he had known of the divine faithfulness, he anticipates a continuance of the same mercy. If dangers must be met, he confidently looks for a happy issue.
 

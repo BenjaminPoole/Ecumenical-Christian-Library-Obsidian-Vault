@@ -10,10 +10,9 @@ written: "1754"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-WHEREIN ARE EXPLAINED AND STATED VARIOUS TERMS AND THINGS BELONGING TO THE SUBJECT OF THE ENSUING DISCOURSE
+*Wherein Are Explained and Stated Various Terms and Things Belonging to the Subject of the Ensuing Discourse*
 
 ---
 

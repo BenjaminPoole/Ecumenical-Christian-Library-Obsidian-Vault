@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Fair Portrait of a Saint
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1526
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 7, 1880,.
+*Delivered on Lord's-Day Morning, March 7, 1880*
 
 > "My foot has held fast to His steps, His way have I kept and not declined. Neither have I gone back from the commandment of His lips; I have esteemed the words of His mouth more than my necessary food." Job 23:11,12.
 
@@ -138,7 +137,6 @@ No more, except this—you cannot be holy, my Brothers and Sisters, unless you, 
 It whispers to you or thunders at you as though God had hidden Himself among its leaves and spoke to your condition! It speaks as though Jesus, who feeds among the lilies, had made the chapters to be lily beds and had come to feed there! Ask Jesus to cause His Word to come fresh from His own mouth to your soul and if it is so and you thus live in daily communion with a personal Christ, my Brothers and Sisters, you will then, with your feet take hold upon His steps! You will then keep His way! You will then never decline or go back from His Commandments, but you will make good speed in your pilgrim way to the Eternal City.
 
 May the Holy Spirit daily be with you! May each of you live under His sacred mist and be fruitful in every good word and work. Amen and amen.
-
 
 ---
 [[Sermon 1525 The Lily Among Thorns|← #1525]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1527 Perfect Sanctification|#1527 →]]

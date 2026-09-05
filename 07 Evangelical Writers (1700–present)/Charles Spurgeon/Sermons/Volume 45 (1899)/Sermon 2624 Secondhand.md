@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Secondhand
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2624
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Are you speaking for yourself about this, or did others tell you this concerning Me?" John 18:34.
 
@@ -98,7 +95,6 @@ The great thing for all Christians is to have a good background, something behin
 When you think of a verse of a hymn, and it is a little in advance of your own position, wait till you come up to that point. There are numbers of hymns that I laid by, in that fashion, years ago. I wished that I could sing them, yet they seemed to stick in my throat and I could not. But my throat has been cleared a good deal lately, and I have been obliged, at last, to feel that I must have those very hymns, for they have become true to my soul and have made my experience a very happy one. Do not be in too much of a hurry in spiritual things any more than in temporal things. If you cannot eat meat, stick to your milk. Milk is for babes, so keep to milk till you outgrow it, You will choke with that tough bit of meat—you had better leave it for somebody else. Do not find fault with it, it is good for strong men, they do not need to be always drinking milk. Do not deny the strong man his meat, but let him have as much as he likes of it! As for yourself, if you are a babe in Grace, keep to your milk diet. But, in all your testimony, do not go beyond what is actually true to yourself. Often let my text lay its hand upon your shoulder and repeat this searching enquiry, "Are you speaking for yourself about this, or did others tell you this?"
 
 May God grant a rich blessing to you all, dear Friends, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2623 How Faith Comes|← #2623]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2625 The Dumb Singing|#2625 →]]

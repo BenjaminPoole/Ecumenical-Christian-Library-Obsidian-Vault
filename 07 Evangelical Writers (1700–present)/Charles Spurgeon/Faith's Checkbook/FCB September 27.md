@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 27
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE DIVINE LIGHT IN DARKNESS**
+## **The Divine Light in Darkness**
 
 > For thou wilt light my candle" Ps. 18:28
 
@@ -23,7 +22,6 @@ It may be that my soul sits in darkness; and if this be of a spiritual kind, no 
 The mercy is, that if He lights the candle none can blow it out, neither will it go out for lack of substance, nor burn out of itself through the lapse of hours. The lights which the Lord kindled in the beginning are shining still. The Lord's lamps may need trimming, but He does not put them out.
 
 Let me, then, like the nightingale, sing in the dark. Expectation shall furnish me with music, and hope shall pitch the tune. Soon I shall rejoice in a candle of God's lighting. I am dull and dreary just now. Perhaps it is the weather, or bodily weakness, or the surprise of a sudden trouble; but whatever has made the darkness, it is God alone who will bring the light. My eyes are unto Him alone. I shall soon have the candles of the Lord shining about me; and, further on in His own good time, I shall be where they need no candle, neither light of the sun. Hallelujah!
-
 
 ---
 [[FCB September 26|← September 26]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 28|September 28 →]]

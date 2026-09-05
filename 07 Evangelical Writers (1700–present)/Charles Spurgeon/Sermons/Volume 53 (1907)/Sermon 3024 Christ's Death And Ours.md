@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # Christ's Death And Ours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3024
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus answered them, saying, The hour is come that the Son of Man should be glorified. Verily, verily, I say unto you, Except a corn of wheat falls into the ground and dies, it abides alone: but fit dies, it brings forth much fruit." John 12:23-24.
 
@@ -103,7 +100,7 @@ In persecuting times, the Christian has often had to literally give himself up t
 
 truly said, "He saved others; Himself He cannot save." I ask you, Brothers and Sisters in Christ, to resolve, by God's strength, that there is nothing you will not do and nothing you will not give for Him who loved you so well that He gave all He had to save you! Seek, by every means that you can use, to win souls for Christ! The man who must have conversions, or he will die, will have them! The woman who feels that she must bring her class to Christ and will never rest till she does, will bring them to Christ! The Lord help us so to preach Christ and so to live for Christ and, if necessary, so to die for Christ, that we may bring forth fruit unto God—"some a hundredfold, some sixtyfold, some thirtyfold." Amen.
 
-PUBLISHERS' NOTE:
+## Publishers' Note
 
 A very considerable portion of this Sermon was revised by Mr. Spurgeon in readiness for publication. The topic— "Christ's Death and Ours"—is peculiarly appropriate to the 155th anniversary of the beloved preacher's last days upon earth.[He died January 31, 1892.] But the subject of the next Sermon, which is to be published on January 31st—the exact anniversary of the date of his Home-going—is still more suitable. The text is, "The Lord gave, and the Lord has taken away; blessed be the name of the Lord." And the title of the Sermon is to be, "Fifteen Years After!" to remind all readers that although the preacher's voice has not been heard in this world for the past 15 years, yet, like the martyred Abel, "He being dead yet speaks," and, as Dr. Newman Hall truly said, "as he yet speaks, he is not dead."
 
@@ -113,7 +110,7 @@ Regular readers of the Sermons will remember that similar coincidences were poin
 
 William Olney].
 
-EXPOSITION BY C. H. SPURGEON: JOHN12:12-36.
+## Exposition by C. H. Spurgeon: John 12:12-36
 
 Verses 12-15. On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem, took branches of palm trees, and went forth to meet Him, and cried, Hosanna! Blessed is the King of Israel that comes in the name of the Lord. And Jesus, when He had found a young ass, sat thereon; as it is written, Fear not, daughter of Zion, behold, your King comes, sitting on an ass's colt Even in the little glory of a temporal kind, which was given to the Lord Jesus Christ when He was "here among men" as Mrs. Luke's hymn puts it, His humility and meekness were very manifest, thus fulfilling the prophecy recorded in Zechariah 9:9—"Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, your King comes unto you; He is just, and having salvation; lowly, and riding upon an ass, and upon a colt, the foal of an ass." Oh, that all His people would always be of such a lowly spirit, not seeking great things for themselves, but condescending to men of low estate, remembering that it was their Master who said to His disciples, "Take My yoke upon you, and learn of Me; for I am meek and lowly in heart; and you shall find rest unto your souls."
 
@@ -156,7 +153,6 @@ doubtless the greater Glory of His Second Advent will shed a yet brighter light 
 Walk while you have the light, lest darkness come upon you: for he that walks in darkness knows not where he goes. While you have light, believe in the light, that you may be the children of light These things spoke Jesus, and departed,
 
 and did hide Himself from them
-
 
 ---
 [[Sermon 3023 John Mark—or, Haste in Religion|← #3023]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3025 Fifteen Years After!|#3025 →]]

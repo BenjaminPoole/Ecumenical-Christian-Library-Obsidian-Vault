@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # A Sermon For Spring
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 436
@@ -95,9 +94,9 @@ Who knows but You, O God, have brought us to the kingdom for such a time as this
 
 I leave these thoughts with you. You can feel them better than I can express them. And I can better feel their might than I can make you feel it. O God! Teach us what our responsibility is, and give us Divine Grace that we may discharge our duty in Your sight.
 
-III. WHEN THE TIME OF THE BRIDAL OF THE SOUL HAS ARRIVED TO EACH CONVICTED SINNER,
+## III. When the Time of the Bridal of the Soul Has Arrived to Each Convicted Sinner
 
-THEN ALSO THERE ARE SPECIAL DUTIES.
+## Then Also There Are Special Duties
 
 Can you not remember, dearly Beloved, that day of days, that best and brightest of hours, when first you saw the Lord, lost your burden, received the roll of promise, rejoiced in full salvation, and went on your way in peace? My soul can never forget that day. Dying, all but dead, diseased, pained, chained, scourged, bound in fetters of iron, in darkness and the shadow of death, Jesus appeared unto me.
 
@@ -160,7 +159,6 @@ Well, when we shall lie upon our deathbeds, panting out our life, we shall remem
 The first fruits of Heaven are plucked and eaten while we are on earth. Now do the very vines of Heaven give forth a smell that can be perceived by love. Look forward to your death, you that are Believers in Christ, with great joy! Expect it as your spring tide of life, the time when your real summer shall come and your winter shall be over forever—
 
 "One distant glimpse my eager passion fires! Jesus! To You my longing soul aspires! When shall I hear Your voice divinely say, Rise up My love, My fair one come away? Come meet your Savior bright and glorious Over sin and death and Hell victorious." May God grant that the people who fear His name may be stirred up this morning, if not by my words, yet by the Words of my text and by the influences of God's Spirit. And may you who have never had sweet seasons from the presence of God, seek Christ and He will be found of you. And by His Grace, may we all meet in the land where winters of sin and sorrow shall be all unknown. Amen.
-
 
 ---
 [[Sermon 0435 Obtaining Promises|← #435]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0437 A Sight Of Self|#437 →]]

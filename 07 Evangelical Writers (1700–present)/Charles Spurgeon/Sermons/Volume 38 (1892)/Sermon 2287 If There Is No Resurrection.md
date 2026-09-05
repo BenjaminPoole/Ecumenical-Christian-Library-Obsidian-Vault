@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # "If There Is No Resurrection"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2287
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now if Christ is preached that He rose from the dead, how say some among you that there is no resurrection of the dead? But if there is no resurrection of the dead, then is Christ not risen: and if Christ is not risen, then is our preaching in vain, and your faith is also in vain. Yes, and we are found false witnesses of God; because we have testified of God that He raised up Christ: whom He raised not up, if it is so that the dead rise not. For if the dead rise not then is not Christ raised: and if Christ is not raised, your faith is in vain; you are yet in your sins. Then they also which are fallen asleep in Christ are perished. If in this life only we have hope in Christ, we are of all men most miserable." 1 Corinthians 15:12-19.
 
@@ -135,7 +132,7 @@ With strength enough, but none to spare." Jesus Christ bore that which has made 
 
 The debt is now paid! Then, O Sinner, leave your prison, for your debt is paid! Are you shut up in despair on account of your debt of sin? It is all discharged if you have believed in Him who was raised from the dead! He has taken all your sin and you are free. That handwriting of ordinances that was against you is nailed to His Cross. Go your way and sing, "The Lord is risen, indeed," and be as happy as all the birds in the air, till you are, by-and-by, as happy as the angels in Heaven, through Jesus Christ our Lord! Amen.
 
-EXPOSITION BY C. H. SPURGEON 1 CORINTHIANS15:1-20.
+## Exposition by C. H. Spurgeon 1 Corinthians 15:1-20
 
 Verse 1, 2. Moreover, brethren, I declare unto you the Gospel which I preached unto you, which also you have received, and wherein you stand; by which also you are saved, if you keep in memory what I preached unto you, unless you have believed in vain. Paul preached the Gospel. His hearers received it and also stood in it—"wherein you stand." It is essential to salvation to hear the Gospel, to receive it, and then to stand in it. Now, what was this Gospel? Paul is going to tell us and, instead of making a list of doctrines, He mentions a set offacts.
 
@@ -170,7 +167,6 @@ Verse 1, 2. Moreover, brethren, I declare unto you the Gospel which I preached u
 20\. But now is Christ risen from the dead, and become the first-fruits of them that slept. Paul has been arguing on every supposition and now he comes back with his own positive witness that Christ is risen. You remember that Jesus died at the time of the Passover, as the one great Paschal Lamb, but He rose again on the first day of the week, and that was the feast of first-fruits with the Jews. They brought handfuls of wheat from the fields to show their gratitude to God and, in order that a blessing might rest on all the crop. And Paul uses Christ's rising on that particular day as a figure—"Now is Christ risen from the dead, and become the first-fruits of them that slept."
 
 He lives! He is the first-fruits and the full harvest will follow! All who are in Him will rise from the dead, for He is one with them, and none can separate them from Him, nor sever Him from them! They died in Him and they live because He lives, blessed be His name!
-
 
 ---
 [[Sermon 2286 An Ancient Question Modernized|← #2286]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2288 The Empty Place—a Christmas Day Sermon|#2288 →]]

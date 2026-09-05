@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Underlying Gospel for the Dying Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2341
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For when we were yet without strength, in due time Christ died for the ungodly." Romans 5:6.
 
@@ -111,7 +108,7 @@ The Gospel of sinners is the comfort of saints! That is one observation, and the
 
 May His sweet Spirit bring you! Do not let any of us raise a question about whether we are saints or sinners, but let us all come together—let us come en masse to the Cross! Let the whole of us now fly to Calvary and stand and look up to Him, the eternal Son of God, bleeding and dying on the Cross! And let us all believe, now, that He can, that He will, that He does save, no, that He has saved our souls. God grant us Grace to do it, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS5.
+## Exposition by C. H. Spurgeon: Romans 5
 
 Verse 1. Therefore being justified by faith, we have peace with God—It is a matter of present possession and present enjoyment. Whatever tribulation there may be in the world, "we have peace with God." Blessed be God for that glorious fact! We may not have peace with all men, though we would seek to have that, but, "we have peace with God."
 
@@ -146,7 +143,6 @@ Verse 1. Therefore being justified by faith, we have peace with God—It is a ma
 15-20. But not as the offense, so also is the free gift. For if through the offense of one many are dead, much more the Grace of God, and the gift by Grace, which is by one Man, Jesus Christ, has abounded unto many. And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offenses unto justification. For if by one man's offense death reigned by one: much more they which receive abundance of Grace and of the gift of righteousness shall reign in life by One, Jesus Christ). Therefore as by the offense of one, judgment came upon all men to condemnation; even so by the righteousness of One, the free gift came upon all men unto Justification of life. For as by one man's disobedience many were made sinners, so by the obedience of One shall many be made righteous. Moreover the Law entered, that the offense might abound. Just as, sometimes, a physician may give a medicine which causes the disease to be more fully developed in order to its ultimate cure, so does the Law of God make a discovery of our sin to us. And it also excites us to greater sin, by reason of the enmity of our nature which is opposed to the Law of God, and becomes the more active the more clearly the Law is known, even as Paul says, further on in this Epistle, "I had not known lust, except the Law had said, You shall not covet."
 
 20, 21. But where sin abounded, Grace did much more abound: that as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord. Blessed be His holy name! Amen.
-
 
 ---
 [[Sermon 2340 The Best Christmas Fare|← #2340]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]]

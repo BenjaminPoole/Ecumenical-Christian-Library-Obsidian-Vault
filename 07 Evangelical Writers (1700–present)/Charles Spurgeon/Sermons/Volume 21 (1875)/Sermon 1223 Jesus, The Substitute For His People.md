@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Jesus, The Substitute For His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1223
-
-DELIVERED BY.
 
 > "Who is he that condemns? It is Christ that died, yes rather, that is risen again, who is even at the right hand of God, who also makes intercession for us." Romans 8:34.
 
@@ -112,7 +109,6 @@ How safe is the Christian since Jesus ever lives to make intercession for him? H
 Go away, you that love Christ and are resting on Him, with the savor of this sweet doctrine on your hearts! But, O, you that have not trusted Christ, there is present condemnation for you! You are condemned already because you have not believed on the Son of God! And there is future condemnation for you, for the day comes, the dreadful day, when the ungodly shall be as stubble in the fire of Jehovah's wrath! The hour hastens when the Lord will lay justice to the line and righteousness to the plummet, and sweep away the refuges of lies. Come, poor Soul, come and trust the Crucified and you shall live! And with us you shall rejoice that none can condemn you.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Isaiah 53. HYMNS FROM "OUR OWN HYMN BOOK"—329, 404, 299.
-
 
 ---
 [[Sermon 1222 The Overflowing Cup|← #1222]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1224 Jesus, The Stumbling Stone Of Unbelievers|#1224 →]]

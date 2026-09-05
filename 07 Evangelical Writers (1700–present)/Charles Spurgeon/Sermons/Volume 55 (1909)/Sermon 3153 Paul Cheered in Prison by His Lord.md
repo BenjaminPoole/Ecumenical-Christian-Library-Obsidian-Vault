@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Paul Cheered in Prison by His Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3153
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces by them, commanded the soldiers to go down and to take him by force from among them, and to bring him into the castle. And the following night the Lord stood by him and said, Be of good cheer, Paul: for as you have testified of Me in Jerusalem, so must you bear witness also at Rome. And when it was day, certain of the Jews banded together and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul. And they were more than forty which had made this conspiracy." Acts 23:10-13.
 
@@ -87,7 +84,7 @@ Godly Whitefield, when smitten with a dangerous illness, rose again to renew his
 
 Come, then, ailing and desponding one, there is no use in lying down in despair, for a life of usefulness is still in reserve for you! Up, Elijah, and no more ask to die, for God has further errands for His servant! Neither the lion nor the bear can kill you, O David, for you have yet to fight a giant and cut off his head! Be not fearful, O Daniel, of the rage of Babylon's drunken king, for you are yet to outlive the rage of hungry lions! Courage, O you mistrustful spirit—you have only run with the footmen as of yet—you shall yet contend with horses and prove more than a match for them! Therefore lift up the hands that hang down! "You must stand before Caesar." A Divine decree ordains for you greater and more trying service than as yet you have seen. A future awaits you and no power on the earth or under the earth can rob you of it—therefore be of good cheer!
 
-EXPOSITION BY C. H. SPURGEON: ACTS 25-26; 1 JOHN 4.
+## Exposition by C. H. Spurgeon: Acts 25-26; 1 John 4
 
 Acts 25:1. Now when Festus was come into the province, after three days he went up from Caesarea to Jerusalem. Porcius Festus had been appointed governor in the place of Felix who had left Paul a prisoner so as to please the Jews, though he would have been willing enough to release him if Paul or his friends would have given him a sufficiently heavy bribe. He had trembled as Paul had "reasoned of righteousness, temperance, and judgment to come," but his conscience had not been so quickened as to make him act justly towards the Apostle. Yet his unrighteous conduct was made to serve the Lord's purpose, which was that Paul should testify before one earthly ruler after another until he should ultimately appear before the cruel Nero, himself, at Rome. Paul was at Caesarea, but he was not at once brought before Festus. When the governor went up to Jerusalem, the Apostle's enemies renewed their plotting against him
 
@@ -208,7 +205,6 @@ us" when there was nothing lovable about us, and so loved us as to give His only
 21\. And this commandment have we from Hi . That is, from the Lord Jesus, who again and again gave this commandment to His disciples.
 
 21\. That he who loves God love his brother alsc. O lovers of God, prove the reality of your affection for Him by the genuineness of your love to your fellow men!
-
 
 ---
 [[Sermon 3152 The Lower Courts|← #3152]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3154 Concerning The Forbearance Of God|#3154 →]]

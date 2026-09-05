@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 7
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE SAFEST PLACE**
+## **The Safest Place**
 
 > And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand." John 10:28
 
@@ -27,7 +26,6 @@ Observe, further, that the Lord expressly says, "They shall never perish." As lo
 Then, to make the matter complete, He declares that His people are in His hand, and He defies all their enemies to pluck them out of it. Surely it is a thing impossible even for the fiend of hell. We must be safe in the grasp of an Almighty Saviour.
 
 Be it ours to dismiss carnal fear as well as carnal confidence, and rest peacefully in the hollow of the Redeemer's hand.
-
 
 ---
 [[FCB June 6|← June 6]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 8|June 8 →]]

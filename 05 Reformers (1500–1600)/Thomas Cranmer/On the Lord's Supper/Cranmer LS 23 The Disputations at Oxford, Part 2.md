@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 23. The Disputations at Oxford, Part 2
 
 ‘ vero,” they touching the sense it differeth little. God I calk to witness, but that they in a rush.
@@ -26,8 +25,6 @@ D. Yong cometh in with his socratical interrogations.
 D. Yong’s sophistical interrogatories.
 
 This syllogism, speaking of a figure, hath no perfect form nor figure.
-
-414 DISPUTATIONS AT OXFORD.
 
 Weston :—Here shall be shewed you two copies of Hilary, the one bes at Basil, the other at Paris.
 
@@ -87,7 +84,7 @@ Lirgo, It is not a figurative speech. A
 
 The change
 
-I per- liar ought to have a good memory.
+I per-liar ought to have a good memory.
 
 i Several editions of Foxe, 1570, 1576, 1583, 1641, | in 1553. It will be seen from the above reference,
 
@@ -155,8 +152,6 @@ Sed quid argumentis utimur? Suis utamur exemplis, incarnationisque exemplo adstr
 
 [8 Decret. Gratian. in Corpus Juris Canon. De [* Affers doctores, expecto scripturas.—Cambr. Consecr. Dist. ii. “ Hoc est.” Tom. 1. col. 1936. | MS. Kk. 5,14. Jenkyns’s Cranmer, Vol. IV. p. 51.] Ed. Lugd. 1618.] {5 Not in original text.]
 
-416 DISPUTATIONS AT OXFORD.
-
 Ante consecrationem aliud dicitur: post consecrationem sanguis nuncupatur. Et tu dicis, ‘Amen,’ hoc est, * Verum est.’ Quod os loquitur, mens interna fateatur: quod sermo sonat, affectus sentiat’.
 
 That is to say:
@@ -165,7 +160,7 @@ That is to say:
 
 As Christ But what use we arguments? Let us use his own examples, and let us confirm the conceited verity of the mystery by example of his incarnation. Did the use of nature go before,
 
-‘fier of when the Lord Jesus was born of Mary? If you seek the order of nature, conception inthe. 18 wont to be made by a woman joined toa man. It is manifest therefore, that contrary thissacea. to the order of nature a virgin did conceive ; and this that we make is the body of? the ment the orderof Virgin. What seekest thou here the order of nature in the body of Christ, when against te had the order of nature the Lord Jesus was conceived of a virgin? It was the true flesh ie of Christ which was crucified, and which was buried: therefore it is truly the sacra- ment of him. The Lord Jesus himself crieth, ‘This is my body.’ Before the blessing of the heavenly words it is named another kind; but after the consecration the body of Christ is signified. He calleth it his blood. Before consecration it is called another thing: after consecration it is called blood. And thou sayest, ‘Amen; that is, ‘It is true.’ That the mouth speaketh, let the inward mind confess ; that the word soundeth, let. the heart perceive.”
+‘fier of when the Lord Jesus was born of Mary? If you seek the order of nature, conception inthe. 18 wont to be made by a woman joined toa man. It is manifest therefore, that contrary thissacea. to the order of nature a virgin did conceive ; and this that we make is the body of? the ment the orderof Virgin. What seekest thou here the order of nature in the body of Christ, when against te had the order of nature the Lord Jesus was conceived of a virgin? It was the true flesh ie of Christ which was crucified, and which was buried: therefore it is truly the sacra-ment of him. The Lord Jesus himself crieth, ‘This is my body.’ Before the blessing of the heavenly words it is named another kind; but after the consecration the body of Christ is signified. He calleth it his blood. Before consecration it is called another thing: after consecration it is called blood. And thou sayest, ‘Amen; that is, ‘It is true.’ That the mouth speaketh, let the inward mind confess ; that the word soundeth, let. the heart perceive.”
 
 Ambrosius, The same Ambrose, in his fourth book of Sacraments, the fourth chapter, saith thitat :
 
@@ -228,8 +223,6 @@ And in the fifth chapter: Amnteguam consecretur, panis est: wubi autem verba Chr
 But hear what he saith more: Accipite, edite...hoc est corpus meum: “Take ye, eat ye; this is my body.” Ante verba Christi calix est vini et aque plenus.
 
 [7 Ibid. cap. v.] [® In Joann. Evang. cap. i. Tractat. v. 9. Tom. [* “The MS. in the Public Library at Cam- | III. Pars ii. col. 324. August. Op. Par. 1679bridge attributes this explanation to Cole, and | 1700.] the following argument from Ambrose to Weston.” [*° Ambros. de Sacramentis, Lib. rv. cap. v. Vide Jenkyns’s Cranmer, Vol. IV. p. 55.] Tom, LV. p. 173.]
-
-418 DISPUTATIONS AT OXFORD.
 
 Ubi verba Christi operata fuerint, iki sanguis (Christi') efficitur, qui redemit plebem? : i.e. “ Before the words of Christ, the cup is full of wine and water; when the words of Christ have wrought, there is made the blood of Christ which redeemed me people.” What can be more plain?
 
@@ -399,8 +392,6 @@ Cranmer Moreover, you have also corrupted Duns. — with mistranslating Duns.
 
 [* Vide supra, p. 268.] [* Supra, p. 269.]
 
-422 DISPUTATIONS AT OXFORD.
-
 Cranmer :—That is a great offence, I promise you.
 
 Weston:—For you have omitted secundum apparentiam, i.e. “as it aaaseet i where his words are these: Ht si queras, quare voluit ecclesia eligere istum Yitellectum ita difficilem hujus articuli, cum verba scripture possent salvari secundum intellectum facilem et veriorem, secundum apparentiam, de hoc articulo’, &c. That is, “If you demand why the church did choose this so hard an understanding of this article, whereas the words of scripture may be salved after an easy and true understanding, as appeareth, of this article,” &c.
@@ -441,11 +432,11 @@ Thus you see, brethren, the truth stedfast and invincible: you see also the craf
 
 This disordered disputation, sometime in Latin, sometime in English, continued almost till two of the clock. Which being finished, and the arguments written, and delivered to the hands of Master Say, the prisoner was had away by the mayor, and the doctors dined together at the University college.
 
-HARPSFIELD DISPUTETH TO BE MADE DOCTOR.
+## Harpsfield Disputeth to Be Made Doctor
 
 It followed furthermore, after disputation of these three days being ended, that (Foxe, Acts Mr Harpsfield, the next day after, which was the nineteenth of April, should dispute Man for his form, to be made doctor. To the which disputation the archbishop of Cantercats)" bury was brought forth, and permitted, among the rest, to utter an argument or two in defence of his cause, as in sequel hereof may appear.
 
-DISPUTATION OF MASTER HARPSFIELD, BACHELOR OF DIVINITY, } ANSWERING FOR HIS FORM TO BE MADE DOCTOR’.
+## Disputation of Master Harpsfield, Bachelor of Divinity, } Answering for His Form to Be Made Doctor’
 
 [Weston argued for some time against Harpsfield, who concluded with reference to a passage from Fulgentius. |
 
@@ -465,15 +456,13 @@ This day was the following Thursday, April 19 ; Tuesday and Wednesday having bee
 
 [® “The title of this disputation in the manuscript in the Public Library, Cambridge :
 
-“ Disputationes habite Oxonie de vera pre- sentia naturalis et organici corporis Christi in sacramento altaris.
+“ Disputationes habite Oxonie de vera pre-sentia naturalis et organici corporis Christi in sacramento altaris.
 
 *¢ Defendit D. Harpsfield veritatem, respondentis agens partes.
 
 “Opponit primum D. Weston disputandi gratia, deinde D. Cranmerus ex sue opinionis fide.’’ Jenkyns’s Cranmer, p. 67. ]
 
 [7 “An Oxford scholar, who was present at this disputation, relates, that Cranmer ‘passed all men’s expectation in doing the same. I myself, which did ever think that he was better learned than many reported he was, yet would I have thought he could not have done so well, nor would not have believed it, if I had not heard him myself.’ Foxe, Acts, &c. Ist edit. p. 935.” Tbid.]
-
-424 ~DISPUTATIONS AT OXFORD.
 
 truth. My first question is this: How Christ’s body is in the sacrament, according ‘ to your mind or determination ? Christ preThen answered a doctor, He is there as touching his substance, but not after sacrament the manner of his substance. purnotatte; Larpsfield :—He is there in such sort and manner as he may be eaten. ofsubstance. Cranmer :—My next question is, Whether he hath his quantity and qualities, form, figure, and such like properties ? Harpsfield :—Axe these your questions? said Master Harpsfield. I may likewise ask you, When Christ passed through the virgin’s womb, an ruperit necne ? When they had thus a while contended, there were divers opinions in this matter. The rabbins All the doctors fell in a buzzing, uncertain what to answer: some thought one way, could not agree among Some another; and thus master doctors could not agree’. Then Master Cranmer said thus: You put off questions with questions, and not with answers; I ask one thing of you, and you answer another. Once again I ask, Whether he have those properties which he had on the earth ? Christ's body J'resham :—No, he hath not all the quantities and qualities belonging to a body.
 
@@ -528,8 +517,6 @@ on dung-heaps. tobe pamibie Cranmer :—Then do I inquire, How long Christ tarri
 Cranmer :—I have taken them out of your schools and school-men, which you ¥ words, “That yourselves do most use: and there also do I learn to ask, How far he goeth into the given for body ? ia Ls an Harpsfield : :—We know that the body of Christ is received to nourish the whole unmoved. Harpsfield man, concerning both body and soul: Ho usque progreditur corpus quousque species. — seemed a Cranmer :—How long doth he abide in the body ? ) mee tae
 
 Seaton :—St Augustine saith, our flesh goeth into his flesh. But after he is where he said, that the
-
-426 DISPUTATIONS AT OXFORD.
 
 fleshof once received into the stomach, it maketh no matter for us to know how far he doth them that pierce, or whither he is conveyed. not worthily, Here Master Tresham and one Master London answered, that Christ being given
 
@@ -625,7 +612,7 @@ Cranmer, Tom, IV, p.74.] °
 
 {* For the remainder of this Disputation, which was wholly between Weston and Harpsfield, see Foxe, Acts, &c. p. 1462. Ed. 1583.]
 
-A NOTE CONCERNING DR CRANMER IN HIS DISPUTATION.
+## A Note Concerning Dr Cranmer in His Disputation
 
 [Foxe, Acts, &c., 1684, Vol. III. p. 839.—See before, p. 414.]
 
@@ -635,15 +622,15 @@ All this already is testified before.
 
 It chanced at that present to be in the school one William Holcot, gentleman, then a sojourner in the University college: he hearing the same untruth, and remembering that he had amongst his books in his study the said book of Doctor Smith, at his return to his said study, desirous to see the truth therein, found it agreeable to the writing and affirmation of Doctor Cranmer. And the said Holcot, then and there better remembering himself, found amongst his books the book of Stephen Gardiner, intituled “The Devil’s Sophistry :’ in which book was the said saying of Hilary alleged by the said Stephen verbatim, both in Latin and English, according to Doctor Cranmer’s confirmation. Then the said William Holcot, intending (for the manifest opening and trial of the truth therein) to have delivered the said Gardiner’s book to Doctor Cranmer, brought it to Bocardo, the prison in Oxford, where Doctor Cranmer then remained ; but there in the delivery thereof he was apprehended by the bailiffs, and by them brought before Doctor Weston and his colleagues (then at dinner at Corpus Christi college), who straightways laid treason to the charge of the said William Holcot for the maintenance of Cranmer in his naughtiness, as they called it.
 
-DECLARATION
+## Declaration
 
-REVEREND FATHER IN CHRIST
+## Reverend Father in Christ
 
 THOMAS ARCHBISHOP OF CANTERBURY,
 
-CONCERNING
+## Concerning
 
-THE UNTRUE REPORT AND SLANDER OF SOME, WHICH REPORTED, THAT HE SHOULD SET UP AGAIN THE MASS IN CANTERBURY®.
+## The Untrue Report and Slander of Some, Which Reported, that He Should Set up Again the Mass in Canterbury®
 
 As the devil, Christ’s ancient adversary, is a liar and the father of lying, even so he hath ever stirred up his servants and members to persecute Christ and his true word
 
@@ -667,9 +654,9 @@ And as for offering myself to say mass before the queen’s highness at Paul’s
 
 [Many copies of the foregoing Declaration were hastily written out and dispersed abroad. Foxe states that every scrivener’s shop almost was occupied in writing and copying it out (see p. xxi. of the present volume); which accounts for numerous small variations. Strype (p. 436) states that it was sent by Grindal to Foxe, and gives it more nearly to the form in which it appears in the Acts and Monuments, and which is here subjoined from p. 1395, of the edition of 1576.]
 
-A PURGATION OF THOMAS ARCHBISHOP OF CANTERBURY,
+## A Purgation of Thomas Archbishop of Canterbury
 
-AGAYNST CERTAINE SCLAUNDERS FALSELY RAYSED UPON HYM.
+## Agaynst Certaine Sclaunders Falsely Raysed upon Hym
 
 As the devil, Christ’s ancient adversary, is a liar and the father of lies, even so hath he stirred up his servants and members to persecute Christ and his true word and religion with lying ; which he ceaseth not to do most earnestly at this present time. For whereas the prince of famous memory, king Henry the eight, seeing the great abuses of the Latin mass, reformed some things therein in his lifetime; and after our late sovereign lord king Edward V1. took the same whole away for the manifold and great errors and abuses of the same, and restored in the place thereof Christ’s holy supper according to Christ’s own institution, and as the apostles used the same in the primitive church: the devil goeth about now by lying to overthrow the Lord’s holy supper again, and to restore his Latin satisfactory mass, a thing of his own invention and devise. And to bring the same more easily to pass, some have abused the name of me, Thomas archbishop of Canterbury, bruiting abroad that I have set up the mass again at Canterbury, and that I offered to say mass at the burial of our late sovereign prince king Edward the VI., and that I offered also to say mass before the queen’s highness, and at Paul’s church, and I wot not where. And although I have been well exercised these xx years to suffer and bear evil reports and lies, and have not been much grieved thereat, but have borne all things quietly ; yet when untrue reports and lies turn to the hinderance of God’s truth, they are in no wise to be suffered. Wherefore these be to signify unto the world, that it was not I that did set up the mass at Canterbury, but it was a false flattering, lying, and dissembling monk, which caused mass to be set up there without mine advice or counsel. Reddat illi Dominus in die illo.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Turning Of Job's Captivity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1262
-
-DELIVERED BY.
 
 > "The Lord turned the captivity of Job, when he prayed for his friends: also the Lord ga ve Job twice as much as he had before." Job 42:10.
 
@@ -138,7 +135,6 @@ In closing, I wish I could feel that this subject had something to do with you a
 Oh, that you would mind these things and look to Jesus Christ, alone, for your salvation! If you do, He will accept you, for He has promised to cast out none who come to Him. And then look at this—after all is right between God and your soul, you need not fear what happens to you in the future, for, come sickness or health, come poverty or wealth, all is right, all is safe, all is well! You have put yourself into the hands of God and wherever God may lift those hands you are still within them and, therefore, you are always secure and always blessed! And, if not always consciously happy, yet you have always the right to be so, seeing you are true to God and He delights in you. God bless you and give you all salvation, for Jesus Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 18. HYMNS FROM "OUR OWN HYMN BOOK"—7, 48, 30.
-
 
 ---
 [[Sermon 1261 Sow To Yourselves|← #1261]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1263 Hold Fast Your Shield|#1263 →]]

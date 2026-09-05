@@ -9,10 +9,7 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 The doubts respecting this Epistle mentioned by Eusebius, ought not to keep us from reading it. For if the doubts rested on the authority of men, whose names he does not give, we ought to pay no more regard to it than to that of unknown men. And he afterwards adds, that it was everywhere received without any dispute. What Jerome writes influences me somewhat more, that some, induced by a difference in the style, did not think that Peter was the author. For though some affinity may be traced, yet I confess that there is that manifest difference which distinguishes different writers. There are also other probable conjectures by which we may conclude that it was written by another rather than by Peter. At the same time, according to the consent of all, it has nothing unworthy of Peter, as it shews everywhere the power and the grace of an apostolic spirit. If it be received as canonical, we must allow Peter to be the author, since it has his name inscribed, and he also testifies that he had lived with Christ: and it would have been a fiction unworthy of a minister of Christ, to have personated another individual. So then I conclude, that if the Epistle be deemed worthy of credit, it must have proceeded from Peter; not that he himself wrote it, but that some one of his disciples set forth in writing, by his command, those things which the necessity of the times required. For it is probable that he was now in extreme old age, for he says, that he was near his end. And it may have been that at the request of the godly, he allowed this testimony of his mind to be recorded shortly before his death, because it might have somewhat availed, when he was dead, to support the good, and to repress the wicked. Doubtless, as in every part of the Epistle the majesty of the Spirit of Christ appears, to repudiate it is what I dread, though I do not here recognize the language of Peter. But since it is not quite evident as to the author, I shall allow myself the liberty of using the word Peter or Apostle indiscriminately.
 

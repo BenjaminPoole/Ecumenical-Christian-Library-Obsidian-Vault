@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Maintenance of Good Works
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2042
 
-DELIVERED ON LORD'S DAY MORNING, SEPTEMBER 2, 1888,.
+*Delivered on Lord's Day Morning, September 2, 1888*
 
 > "For we ourselves also were sometimes foolish, disobedient, deceived, serving many lusts and pleasures, living in malice and envy, hateful, and hating one another. But after that the kindness and love of God our Savior toward man appeared, not by works of righteousness which we ha ve done but according to His mercy He sa ved us, by the washing of regeneration and renewing of the Holy Spirit; which He shed on us abundantly through Jesus Christ our Savior. That being justified by His Grace, we should be made heirs according to the hope of eternal life. This is a faithful saying and these things I will that you affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men." Titus 3:3-8.
 
@@ -152,7 +151,6 @@ But when religion is a thin veneer or a mere touch of tinsel they call it "humbu
 I pray you, my Beloved, be careful to maintain good works. I thus stir up your pure minds by way of remembrance— if your minds were not pure I would not stir them up—for it would be of no use to raise the mud which now lies quiet. I stir you up because I am not afraid to do so but am sure that it will do you good. You will take home this exhortation and you will say, each one to himself, "What can I do more for Jesus? How can I walk more worthy in my profession? How can I be careful to maintain good works?" So may God bless you!
 
 You who do not believe in God. You who have not come to trust in His dear Son—I am not talking to you. To you I must say, first, that you must be made new creatures. I do not talk to a crab-tree and say, "Bear apples." It cannot. The tree must first become good before the fruit can be good. "You must be born again." You will never be better till you are made new creatures. You must be spiritually slain and then made alive again. There must be an end of you and there must be a beginning of Christ in you. God grant that this may happen at once and may you immediately believe in the Lord Jesus! Amen.
-
 
 ---
 [[Sermon 2041 Jesus Known by Personal Revelation|← #2041]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2043 The Blood of the Lamb, the Conquering Weapon|#2043 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The God of Peace and Our Sanctification
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1368
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 5, 1877,.
+*Delivered on Lord's-Day Morning, August 5, 1877*
 
 > "Now the God of Peace, that brought again from the dead our Lord Jesus, that Great Shepherd of the sheep, through the blood of the Everlasting Co venant, make you perfect in every good work to do His will, working in you that which is well-pleasing in His sight, through Jesus Christ; to whom be glory forever and ever. Amen." Hebrews 13:20,21.
 
@@ -144,7 +143,6 @@ Glorify Him, next, for the Covenant. What mercy is this, that God should enter i
 And then adore Him because the power which He exerted upon Christ He is now exerting upon you. You are not perfect, yet, but still, in your measure you are fitted for every good work. In many ways the Lord is qualifying you for service. In some of you He is working to do and in others to suffer the good pleasure of His will. Bless Him for every Grace received, for faith, however little. Bless Him for love, even though it burns not as you would desire. Bless Him for every conquered sin. Bless Him for every implanted Grace. Bless Him evermore! Bless Him that He deals with you through Jesus Christ. Through the Mediator all good has come to us and through the Mediator it will still come until that day when He shall deliver up the Throne to God, even the Father, and God shall be All in All!
 
 Meanwhile we will glorify the mediatorial Lord and extol the Father and the consoling Spirit. Even now we join with cherubim and seraphim and adore Him to whom all worship belongs.
-
 
 ---
 [[Sermon 1367 Strong Faith|← #1367]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1369 Proclamation of Acceptance and Vengeance|#1369 →]]

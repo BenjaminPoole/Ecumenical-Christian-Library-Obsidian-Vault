@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 136
-
-**PSALM 136**
 
 The Psalmist reminds the Lord’s people, that unless they were assiduous in his praises, they were chargeable with defrauding him of what was justly due to him for his benefits. And, in mentioning each benefit, he takes particular notice of the mercy of God, to teach us how necessary it is to the proper celebration of his praises that we own everything which we receive from him to be bestowed gratuitously. [^1]
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Overcoming Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2486
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Genesis 32:22-24. And he rose up that night and took his two wives, and his two women servants, and his 11 sons, and passed over the ford Jabbok. And he took them and sent them over the brook, and sent over all that he had. And Jacob was left alone. He had made a quiet oratory for himself by sending everyone else of the company over to the other side of the brook—his own resolve being—
 
@@ -42,7 +39,6 @@ Exodus 32:7. And the LORD said to Moses, Go, get you down; for your people, whic
 Mark 7:24-29. And from there He arose, and went to the borders of Tyre andSidon, and entered into an house, and would have no man know it: but He could not be hid. For a certain woman, whose young daughter had an unclean spirit, heard of Him, and came and fell at His feet: the woman was a Greek, a Syrophenician by nation; and she urged Him that He would cast forth the devil out of her daughter. But Jesus said to her, Let the children first be filled: for it is not good to take the children's bread, and to cast it to the dogs. And she answered and said to Him, Yes, Lord: yet the dogs under the table eat of the children's crumbs. And He said to her, For this saying go your way; the devil is gone out of your daughter. Christ capitulated at once! He yielded to the strong arms of conquering prayer and faith—and so the pleading woman had her will!
 
 30\. And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.
-
 
 ---
 [[Sermon 2485 Love's Vigilance Rewarded|← #2485]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2487 Ordered Steps|#2487 →]]

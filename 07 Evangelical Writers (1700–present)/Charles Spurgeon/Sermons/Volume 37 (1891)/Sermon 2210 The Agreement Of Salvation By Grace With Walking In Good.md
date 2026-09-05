@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # The Agreement Of Salvation By Grace With Walking In Good Works
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2210
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Not of works, lest any man should boast. For we are His workmanship, created in Christ Jesus unto good works, which God has before ordained that we should walk in them" Ephesians 2:9,10.
 
@@ -124,7 +121,6 @@ And, lastly, this should be our daily exercise—"That we should walk in them." 
 May the Spirit of God seal this sermon upon the hearts of His people, for Christ's sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ephesians 2.
-
 
 ---
 [[Sermon 2209 The Best Strengthening Medicine|← #2209]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2211 God Rejoicing in the New Creation|#2211 →]]

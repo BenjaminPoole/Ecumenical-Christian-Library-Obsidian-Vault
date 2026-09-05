@@ -11,12 +11,11 @@ tags:
   - jc-ryle
   - expository-thoughts
 ---
-
 # John 11
 
 *Expository Thoughts on John* — J. C. Ryle
 
-**JOHN 11**
+## **John 11**
 
 ## JOHN 11:1-6
 
@@ -171,7 +170,6 @@ We should observe, lastly, ***what importance unsaved men sometimes attach to ou
 Extremes like this meeting together in the same person are, unhappily, far from uncommon. Experience shows that a bad conscience will often try to satisfy itself, by a show of zeal for the cause of religion, while the "weightier matters" of the faith are entirely neglected. The very same man who is ready to compass sea and land to attain ceremonial purity is often the very man, who, if he had fit opportunity, would not shrink from helping to crucify Christ. Startling as these assertions may seem, they are abundantly borne out by plain facts. The cities where Lent is kept at this day with the most extravagant strictness are the very cities where the carnival after Lent is a season of glaring excess and immorality. The people in some parts of Christendom, who make much ado one week about fasting and priestly absolution, are the very people who another week will think nothing of murder! These things are simple realities. The hideous inconsistency of the Jewish formalists in our Lord's time has never been without a long succession of followers.
 
 Let us settle it firmly in our minds that a religion which expends itself in zeal for outward formalities is utterly worthless in God's sight. The purity that God desires to see is not the purity of bodily washing and fasting, of holy water and self-imposed asceticism, but purity of heart. External worship and ceremonialism may "satisfy the flesh," but they do not tend to promote real godliness. The standard of Christ's kingdom must be sought in the sermon on the Mount—"Blessed are the pure in heart, for they shall see God." (Matt. 5:8; Col. 2:23.)
-
 
 ---
 [[ET John 10|← John 10]] · [[Expository Thoughts on John|John Contents]] · [[ET John 12|John 12 →]]

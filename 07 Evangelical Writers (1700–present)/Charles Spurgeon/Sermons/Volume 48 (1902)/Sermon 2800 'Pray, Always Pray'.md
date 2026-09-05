@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # 'Pray, Always Pray'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2800
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "In that day you will ask in My name, and I do not say to you that I shall pray the Father for you, for the Father Himself loves you, because you have loved Me, and have believed that I came forth from God." John 16:26,27.
 
@@ -102,7 +99,6 @@ How unhappy is the lot of some here present who never pray! It matters little wh
 have called, and you refused; I have stretched out My hand, and no man regarded; but you have set at nothing all My counsel, and would none of My reproof; I, also, will laugh at your calamity; I will mock when your fear comes." Ask now, I entreat you, for God will hear you if you call upon Him now. But "when once the Master of the house is risen up, and has shut the door," no knocking "at that day" will avail to get it open again! No pleading, moaning, groaning, crying or wailing will then prevail, for prayer will have had its day, and Justice, with drawn sword, will stand before the Mercy Seat, barring the way to it forever.
 
 The Lord bring you all to believe in Jesus, and to fervently love Him with a pure heart before it be too late, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2799 The Church Encouraged and Exhorted|← #2799]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2801 A Fear to Be Desired|#2801 →]]

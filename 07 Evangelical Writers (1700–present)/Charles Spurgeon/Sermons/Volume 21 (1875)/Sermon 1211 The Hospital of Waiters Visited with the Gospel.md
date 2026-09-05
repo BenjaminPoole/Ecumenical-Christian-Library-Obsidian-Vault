@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Hospital of Waiters Visited with the Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1211
-
-DELIVERED BY.
 
 > "Jesus said unto him, Rise, take up your bed, and walk." John 5:8.
 
@@ -146,7 +143,6 @@ Do you understand it? Christ bore the wrath of God instead of those who trust Hi
 "It is God that justifies you: who is he that condemns you? It is Christ that died; yes, rather, that is risen again." This is the Gospel of your salvation! "Oh, but I do not feel." Did I say anything about feeling? You shall have feeling after you have faith. "But I am not right." I do not care what you are or are not! Jesus says, "Verily, verily, I say unto you, he that believes in Me has everlasting life." "Oh, but—" Away with your "buts." Here is the Gospel—"Whoever will, let him come and take of the Water of Life freely. The Spirit and the bride say, 'Come.'" And what both the Spirit and the bride of Christ say, surely I may say and do say! And may God bless the saying of it! And may you accept it, you waiting ones! May you look, believe and live, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—John 4:46; 5:1-16. HYMNS FROM "OUR OWN HYMN BOOK"—538, 505, 516.
-
 
 ---
 [[Sermon 1210 The Weaned Child|← #1210]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1212 Faith and Its Attendant Privileges|#1212 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Christ's Universal Kingdom and How It Comes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1535
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 25, 1880,.
+*Delivered on Lord's-Day Morning, April 25, 1880*
 
 > "Ask of Me and I shall give You the heathen for Your inheritance and the uttermost parts of the earth for Your possession. You shall break them with a rod of iron; You shall dash them in pieces like a potter's vessel." Psalms 2:8,9.
 
@@ -138,7 +137,6 @@ It was a strange conglomeration—all the metallic empires are set forth as comb
 And so it is to be—the vision is being each day fulfilled. The Gospel stone, which owes nothing to human strength or wisdom, is breaking the image and scattering all opposing powers. No system, society, confederacy, or cabinet can stand which is opposed to the Truth of God and righteousness. I, even I, that am but of yesterday and know nothing, have seen one of the mightiest of empires of modern times melt away all of a sudden as the frost of the morning in the heat of the sun. I have seen monarchs driven out of their tyrannies by the powers of a single man and a free nation born as in an hour. I have seen states which fought to hold the Negro in perpetual captivity subdued by those whom they despised, while the slave has been set free!
 
 I have seen nations chastened under evil governments and revived when the yoke has been broken and they have returned to the way of righteousness and peace. He who lives longest shall see most of this. Evil is short-lived. Truth shall yet rise above all. The Lord says, overturn, overturn till He shall come whose right it is and God shall give it to Him. Woe unto those that stand against the Lord and His Anointed, for they shall not prosper. "Be wise now, therefore, O you kings: be instructed, you judges of the earth. Kiss the Son, lest He be angry and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him."
-
 
 ---
 [[Sermon 1534 Salvation By Works, A Criminal Doctrine|← #1534]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1536 Sentence Of Death, The Death Of Self-trust|#1536 →]]

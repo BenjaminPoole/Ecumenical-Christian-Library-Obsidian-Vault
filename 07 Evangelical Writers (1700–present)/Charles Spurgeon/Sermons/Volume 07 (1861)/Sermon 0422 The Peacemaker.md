@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/07
 ---
-
 # The Peacemaker
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 422
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 8, 1861,.
+*Delivered on Sunday Morning, December 8, 1861*
 
 > Matthew 5:9.
 
@@ -143,7 +142,7 @@ This, then, is the state of every unconverted man and woman in this place this m
 
 "Yet," says He "I come to treat with you of peace. Come, now and let us reason together. I will make an Everlasting Covenant with you, even the sure mercies of David. Sinner," says He, "you are bid now to hear God's note of peace to your soul, for thus it runs—'You are guilty and condemned. Will you confess this? Are you willing to throw down your weapons now and say, Great God, I yield, I yield, I would no longer be Your foe?' " If so, peace is proclaimed to you. "Let the wicked forsake his ways and the unrighteous man his thoughts and let him turn unto the Lord, for He will have mercy upon him and to our God, for He will abundantly pardon."
 
-Pardon is finely presented to every soul that unfeignedly repents of its sin. But that pardon must come to you through faith. So Jesus stands here this morning, points to the wounds upon His breast and spreads His bleeding hands and says, "Sin, or trust in Me and live!" God proclaims to you no longer His fiery Law, but His sweet, His simple Gospel—believe and live. "He that believes on the Son is not condemned, but he that believes not is condemned already, be- cause he has not believed in the name of the only begotten Son of God." "As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whosoever believes on Him should not perish, but have eternal life."
+Pardon is finely presented to every soul that unfeignedly repents of its sin. But that pardon must come to you through faith. So Jesus stands here this morning, points to the wounds upon His breast and spreads His bleeding hands and says, "Sin, or trust in Me and live!" God proclaims to you no longer His fiery Law, but His sweet, His simple Gospel—believe and live. "He that believes on the Son is not condemned, but he that believes not is condemned already, be-cause he has not believed in the name of the only begotten Son of God." "As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whosoever believes on Him should not perish, but have eternal life."
 
 O Soul, does the spirit of God move in you this morning? Do you say, "Lord, I would be at peace with You?" Are you willing to take Christ on His own terms and they are no terms at all—they are simply that you should make no terms in the matter—but give yourself up, body, soul and spirit, to be saved of Him? Now, if my Master were here visibly, I think He would plead with you in such a way that many of you would say, "Lord, I believe, I would be at peace with You."
 
@@ -164,7 +163,6 @@ Soul, if so, it is done if you believe. Trust Christ and your many sins are all 
 And if He rejects you, come tell me of it. If He refuses you, let me hear about it. There was never such a case yet. He always has received those that come. He always will. He is an open-handed and an open-hearted Savior. O Sinner! May God bring you to put your trust in Him once and for all!
 
 Spirits above! Tune your harps anew. There is a sinner born to God this morning! Lead the song, O Saul of Tarsus! And follow the sinner with sweetest music, O Mary! Let music roll up before the Throne today! For there are heirs of glory born and prodigals have returned! To God be the glory forever and ever! Amen.
-
 
 ---
 [[Sermon 0421 Metropolitan Tabernacle Pulpit|← #421]] · [[Volume 07 (1861)|Volume 07 (1861) Contents]]

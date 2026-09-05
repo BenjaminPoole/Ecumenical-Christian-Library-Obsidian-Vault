@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Works of the Devil Destroyed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1728
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 1, 1883,.
+*Delivered on Lord's-Day Morning, July 1, 1883*
 
 > "For this purpose the Son of God was manifested, that He might destroy the works of the devil." 1 John 3:8.
 
@@ -124,7 +123,6 @@ Oh, for the sword of the Lord and of Gideon! Slay all these Midianites, for Chri
 Son!
 
 After that image we are struggling. It is begun in us by the power of the Spirit of God and He will not fail nor be discouraged till the purpose of God shall be accomplished and all the works of Satan in us shall be destroyed! This robs death of all dread—the prospect of being totally free from sin makes us welcome, even, the grave, if by that road we are to come to the home of the perfect! Meanwhile, let us seek after sanctification. Let us labor after holiness and let us abound in it to the glory of God. Despite our failures and mistakes let us pursue holiness! Taking it by the heel, let us keep close to it. So may the Lord enable us for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1727 The Voice from the Cloud and the Voice of the Beloved|← #1727]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1729 Beginning at Jerusalem|#1729 →]]

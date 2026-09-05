@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # A Caution for Sin-sick Souls
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2819
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When Ephraim saw his sickness, and Judah saw his wound, then Ephraim went to Assyria, and sent to King Jareb: yet he cannot heal you, nor cure you of your wound." Hosea 5:13.
 
@@ -35,7 +32,7 @@ Looking at this fallacy of a nation as illustrative of a common tendency of mank
 
 I. We have in our text somewhat of A PICTURE OF THE SINNER WHEN HE HAS PARTIALLY DISCOVERED
 
-HIS LOST ESTATE.
+## His Lost Estate
 
 Mark, it is but a partial discovery. Ephraim felt his sickness but he did not know the radical disease that lurked within. He saw the local ailment, but was ignorant of the organic derangement of his very vitals. He only perceived the symptoms! He was uneasy, he felt pain, but the discovery did not go deep enough to show him that he was actually dead in trespasses and sins. "He saw his sickness and Judah saw his wound." Yes, he saw his wound—it smarted and, therefore, his eyes were drawn to the spot. But he did not know how deep it was. He did not know that it had pierced to the heart, that it was, in fact, a death-blow—that the whole head was sick, that the whole heart was faint and that, from the crown of the head even to the sole of the foot, it was all wounds, bruises and putrefying, festering sores! There was but a partial discovery of his lost estate.
 
@@ -115,7 +112,7 @@ Oh, may God the Holy Spirit lead us to do this! It is easy enough when the Hoy S
 
 ist—and no more foolishly attempt to work out our salvation by impossible means! I can only pray that God will bless this brief, hurried discourse, and to His name shall be the glory, through Christ Jesus. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 1:1-20.
+## Exposition by C. H. Spurgeon: Isaiah 1:1-20
 
 Verse 1. The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah. During the time in which Isaiah prophesied, the worship of God was, upon the whole, maintained in Judah. Yet, prosperous as the times appeared to be, there was visible to the eye of the Lord much iniquity. He who saw not as man saw, but who looks beneath the surface and into the hearts of men, saw that the condition of the people was exceedingly unsatisfactory. Do not forget that these upbraiding words were spoken during the reigns of comparatively good kings. Try to imagine how the Lord must have felt towards the people who lived in the reigns of bad kings.
 
@@ -140,7 +137,6 @@ lemn meeting. Your new moon and your appointed feasts My Soul hates: they are a 
 18\. Come now, and let us reason together, says the LORD: though your sins are as scarlet, they shall be a white as snow; though they are red like crimson, they shall be as wool. This, too, is what God loves—confessed sin, pardoned by His infinite mercy and Grace.
 
 19, 20. If you are willing and obedient, you shall eat the good of the land: but if you refuse and rebel, you shall be devoured with the sword: for the mouth of the LORD has spoken it.
-
 
 ---
 [[Sermon 2818 Jesus and His Forerunner|← #2818]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2820 Christ Before Annas|#2820 →]]

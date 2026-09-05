@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # A Description of Young Men in Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1715
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 8, 1883,.
+*Delivered on Lord's-Day Morning, April 8, 1883*
 
 > "I write unto you, young men, because you have overcome the Wicked One... I have written unto you, youngmen, because you are strong, and the Word of God abides in you, and you ha ve overcome the Wicked One." 1 John 2:13,14.
 
@@ -126,7 +125,6 @@ It is, next, to have the word in your affections—to love it so that it is as h
 A man who truly knows the Doctrines of Grace is never removed from them. I have heard our opponents rave at what they call the obstinacy of our Brothers and Sisters. Once get the Truth of God really into you, it will enter into the texture of your being and nothing will get it out of you! It will also be your strength, by setting you watching against every evil thing. You will be on your guard if the Word of God abides in you, for it is written, "When you go it will keep you." The Word of God will be to you a bulwark and a high tower, a castle of defense against the foe! Oh, see to it that the Word of God is in you, in your very soul, permeating your thoughts and so operating upon your outward life, that all may know you to be a true Bible-Christian, for they perceive it in your words and deeds! This is the sort of army that we need in the Church of God—men that are strong by feeding on God's Word! Aspire to it, my Brothers and Sisters, and when you have reached it, then aspire unto the third degree that you may become fathers in Israel!
 
 Up to this measure, at any rate, let us endeavor to advance, and advance at once. Are there any here who are not young men in Christ Jesus because they are not in Christ Jesus at all? I cannot speak with you this morning, for my time is gone, but I am distressed for you. To be out of Christ is such an awful thing that a man had better to be out of existence! Without God, without Christ—then you are without joy in life or hope in death! Not even a babe in the Divine family! Then know this, that God shall judge those that are outside and when He comes, how swift and overwhelming will that judgment be! Inasmuch as you would not have Christ in this day, Christ will not have you in that day! Stay not out of Christ any longer! Seek His face and live, for, "He that believes in Him has everlasting life." May you be enabled to believe in Him at this moment, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1714 Earnest Expostulation|← #1714]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1716 The Bridegroom's Parting Words|#1716 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Everyday Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1599
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 22, 1881,.
+*Delivered on Lord's-Day Morning, May 22, 1881*
 
 > "The life which I now lire in the flesh Hire by the faith of the Son of God." Galatians 2:20.
 
@@ -150,7 +149,6 @@ Good old Mede, the Puritan, when he was very old and leaning on his staff, was a
 Let death come when it may—we shall not be afraid, for Jesus, who has loved us and given Himself for us, is the Resurrection and the Life. Living this life in the flesh by faith upon the Son of God, we are waiting for the usher of the black rod to bring a message from the King to summon us to meet Him in the upper House! Why should we be hesitant to go? What is there here that we should wait? What is there on this poor earth to detain a Heaven-born and Heaven-bound spirit? No, let as go, for He is gone in whom is our treasure, whose beauties have engrossed our love! He is not here— why should we desire to linger? He has risen! Let us rise!
 
 Thus, from the beginning to the end of the life that we live in the flesh, faith upon the Son of God answers all things and all its paths drop fatness. O come, Lord Jesus! Come!
-
 
 ---
 [[Sermon 1598 The Substance Of True Religion|← #1598]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1600 A Greater Than Solomon|#1600 →]]

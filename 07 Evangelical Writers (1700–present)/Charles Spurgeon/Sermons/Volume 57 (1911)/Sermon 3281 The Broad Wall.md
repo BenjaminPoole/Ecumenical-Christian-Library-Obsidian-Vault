@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Broad Wall
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3281
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The broad wall." Nehemiah 3:8.
 
@@ -111,7 +108,7 @@ I cannot speak to some of you about rest, and enjoyment, and communion, for you 
 
 which faith would give you! But the sweetest thing of all would be the prospect which should then unfold to you of the eternal happiness which Christ has prepared for all those who put their trust in Him!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 71.
+## Exposition by C. H. Spurgeon: Psalm 71
 
 Verses 1-8. In You, O LORD, do I put my trust: let me never be put to confusion. Deliver me in Your righteous, and cause me to escape: incline Your ear unto me, and save me. Be You my strong habitation, whereunto I may continually resort: You have given commandment to save me; for You are myrock and my fortress. Deliver me, Omy God, out ofthe hand ofthe wicked, out ofthe hand ofthe unrighteous and cruel man. For You are my hope, O Lord God, You are my trust from my youth. By You have I been held up from the womb: You are He that took me out of my mother's womb. My praise shall be continually of You. David had enjoyed the mercy of God from his very birth. We are apt to forget the tender care of God over our infancy, but we ought to remember it—and it will be a great comfort to us if we come to a second childhood, to remember how kindly God took care of us in the first!
 
@@ -140,7 +137,6 @@ Already his mouth was filled with God's praise, so, surely he would fill his who
 24\. My tongue also shall talk of Your righteousness all the daylong: for they are confounded, for they are brought
 
 unto shame, that seek my hurt. [See Sermon #998, Volume 17—MORE AND MORE.]
-
 
 ---
 [[Sermon 3280 Christ's Prayer and Plea|← #3280]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3282 Preparing for the Week of Prayer|#3282 →]]

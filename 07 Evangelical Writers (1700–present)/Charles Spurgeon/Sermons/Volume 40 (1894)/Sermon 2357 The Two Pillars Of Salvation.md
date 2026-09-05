@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Two Pillars Of Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2357
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We believe on Him that raised up Jesus, our Lord, from the dead; who was delivered for our offenses, and was raised, again, for our justification." Romans 4:24,25.
 
@@ -166,7 +163,6 @@ Chapter 4:16. Therefore it is offaith, that it might be by Grace; to the end the
 22, 23. And therefore it was imputed to him for righteousness. Now it was not written for his sake, alone, that it was imputed to him. The imputation would be enough for Abraham without any writing, but as it is written—it is for our instruction and for our comfort.
 
 24, 25. But for us, also, to whom it shall be imputed, if we believe on Him that raised up Jesus, our Lord, from the dead; who was delivered for our offenses, and was raised, again, for our justification. May the Lord bless to us our meditation upon this precious portion of His Word!
-
 
 ---
 [[Sermon 2356 The Truth Of God's Salvation|← #2356]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2358 The Unchangeable Christ|#2358 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 112. Luke 7:36-50
-
-**LUKE 7:36-50**
 
 **36**. And one of the Pharisees requested him to take food with him; and he entered into the house of the Pharisee, and sat down at table. **37**. And, lo, a woman in the city, who was a sinner, when she knew that he sat at table in the house of the Pharisee, brought an alabaster box of ointment: [^1] **38**. And sitting at his feet behind him, and weeping, she began to wash his feet with tears, and wiped them with the hairs of her head, and kissed his feet, and anointed them with ointment. [^2] **39**. And the Pharisee, who had invited him, seeing it, said, speaking within himself, If this man were a Prophet, he would certainly know who and what sort of woman this is that toucheth him; for she is a sinner. [^3] **40**. And Jesus answering, said to him, Simon, I have something to say to thee. And he said, Master, say on. **41**. A certain creditor had two debtors: one owed five hundred pence, and another fifty. **42**. And when they had nothing to pay, he forgave them both. Tell me then, which of them will love him more? **43**. Simon answering said, I suppose that it will be he to whom he forgave more. And he said to him, Thou hast decided aright. **44**. And turning to the woman, he said to Simon, Seest thou this woman? I entered into thy house, thou gavest not water for my feet; but she hath moistened my feet with tears, and wiped them with the hairs of her head. **45**. Thou gavest me not a kiss; but she, since the time that I entered, hath not ceased to kiss my feet. **47**. For which reason I say to thee, Her many sins are forgiven, for she hath loved much; but he to whom less is forgiven loveth less. **48**. And he said to her, Thy sins are forgiven thee. **49**. And those who sat at table with him began to say within themselves, Who is this that even forgiveth sins? **50**. And he said to the woman, Thy faith hath saved thee; go in peace.
 

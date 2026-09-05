@@ -9,18 +9,17 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**TO TWO EMINENT SERVANTS OF CHRIST,**
+***To Two Eminent Servants of Christ,***
 
-**WILLIAM FARELL AND PETER VIRET,**
+## **William Farell and Peter Viret,**
 
-**HIS DEARLY BELOVED BRETHREN AND COLLEAGUES,**
+## **His Dearly Beloved Brethren and Colleagues,**
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**OFFERS HIS SALUTATIONS.**
+## **Offers His Salutations.**
 
 My Commentary — which now goes forth bearing the inscription of your name — is, indeed, a small gift; yet I fully believe that it will be acceptable to you, for this reason, that the subject of the Epistle induced me to make this Dedication. The task of putting the finishing hand to that building which Paul had begun in Crete, but left incomplete was undertaken by Titus. I occupy nearly the same position with regard to you.
 

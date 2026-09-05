@@ -10,7 +10,6 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 43
 
 **Chapter 43**
@@ -39,7 +38,7 @@ What now had Baruch to do with the Chaldeans? Had he fled to them? Was he anxiou
 
 ## Prayer Lecture 158
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we see what thou didst formerly threaten to all the despisers of thy word, we may learn to suffer ourselves to be ruled by thee, and so surrender all our powers and faculties to thy will, that we may receive immediately without any dispute whatever thou commandest, and so prove our sincerity, that our deeds may correspond with our words, and that our life may shew that we do not falsely profess thy holy name, but declare what we have in our minds and what thou thyself knowest, until the last day shall at length appear, when the books shall be opened, and all the thoughts of men shall be revealed, so that we may then appear upright in thy sight, through Christ our Lord. — Amen.
 
@@ -123,7 +122,7 @@ And he adds, *and it* or *he will burn them* This may be applied to the fire; bu
 
 ## Prayer Lecture 159
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only once shewn to us the way in which we are to walk, but also daily exhortest us to continue in it, and ever to go forward towards the right mark, — O grant, that we may never turn aside, but suffer ourselves to be ruled by thy voice; and though temptations may drive us here and there, may we ever follow thy command, and so persevere in obedience to thee, that we may at length, by experience, find that it is our happiness to commit ourselves to thee, and to follow thee as our leader, until thou bringest us into that celestial kingdom, which has been prepared for us by thine only-begotten Son.-Amen.
 

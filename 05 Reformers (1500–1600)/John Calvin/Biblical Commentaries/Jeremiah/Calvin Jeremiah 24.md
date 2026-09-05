@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 24
 
-**CHAPTER 24**
+***Chapter 24***
 
 ## Jeremiah 24:1-2
 
@@ -39,7 +38,7 @@ He now adds, that one *basket* had *very good figs,* and that the other had *ver
 
 ## Prayer Lecture 91
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou delayest with so much forbearance the punishments which we have deserved, and daily draw on ourselves, — O grant, that we may not indulge ourselves, but carefully consider how often, and in how many different ways we have provoked thy wrath against us, that we may thus learn humbly to present ourselves to thee for pardon, and with true repentance so implore thy mercy, that we may from the heart desire wholly to submit ourselves to thee, that whether thou chastisest us, or, according to thine infinite goodness, forgivest us, our condition may be ever blessed, not by flattering ourselves in our torpitude, but by finding thee to be our kind and bountiful Father, being reconciled to us in thine only-begotten Son. — Amen.
 
@@ -137,7 +136,7 @@ As we have before refuted the error of those who think that repentance is the ca
 
 ## Prayer Lecture 92
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are placed in this world, that while daily receiving so many blessings, we may so pass our time as to regard our end and hasten towards the goal, — O grant, that the benefits and blessings by which thou invitest us to thyself, may not be impediments to us, and keep us attached to this world, but on the contrary stimulate us to fear thy name as well as to appreciate thy mercy, so that we may thus know thee to be our God, and strive on our part to present ourselves to thee as thy people, and so consecrate ourselves and all our services to thee, that thy name may be glorified in us, through Christ our Lord. — Amen.
 

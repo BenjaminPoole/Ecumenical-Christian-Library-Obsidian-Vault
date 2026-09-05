@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3261
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He will ever be mindful of His Covenant." Psalm 111:5.
 
@@ -85,7 +82,7 @@ And then, last of all, O you who are in the Covenant, do not doubt that God will
 
 There is all of it. Do you believe in Christ? Then God will work in you to will and do of His good pleasure! God will conquer your sin! God will sanctify you! God will save you! God will keep you! God will bring you to Himself at last! Rest on that Covenant and then, moved by intense gratitude, go forward to serve your Lord with all your heart, and soul and strength! Being saved, live to praise Him! Work not that you may be saved, but becauseyou are saved—the Covenant has secured your safety! Delivered from the servile fear which an Ishmael might have known, live the joyous life of an Isaac! And moved by love of the Father, spend and be spent for His sake! If the selfish hope of winning Heaven by works has moved some men to great sacrifice, much more shall the godly motive of gratitude to Him who has done all this for us move us to the noblest service and make us feel that it is no sacrifice at all! "We thus judge that if one died for all, then were all dead. And that He died for all, that they which live should not henceforth live unto themselves, but unto Him which died for them, and rose again." "You are not your own, you are bought with a price." If you are saved under the Covenant of Grace, the mark of the covenanted ones is upon you and the sacred character of the covenanted ones should be displayed in you! Bless and magnify your Covenant God! Take the cup of the Covenant and call upon His name! Plead the promises of the Covenant and have whatever you need! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH31:1-22.
+## Exposition by C. H. Spurgeon: Jeremiah 31:1-22
 
 Verse 1. At the same time, says the LORD, willIbe the God ofall the families ofIsrael, and theyshall be Mypeople. During the Israelites' banishment to Babylon, God's Covenant with them had been, as it were, in abeyance. But in this promise of their restoration, He brings it to the front, again, and He gives a peculiarly gracious turn to it—"I will be the God of all the families of Israel." What a mercy it is to have a family God and to have our whole family in Christ! Brothers and Sisters, you have a family Bible and you have, I hope, a family altar—may your whole family belong to
 
@@ -148,7 +145,6 @@ loving kindness have I drawn you. [See Sermons #1914, Volume 32—SECRET DRAWING
 21\. Set you up signs, make you high heaps: set your heart toward the highway, even the way which you went: turn again, O virgin ofIsrael, turn again to these your cities. In crossing the desert, travelers raise little mounds of stone that they may be directed on a future occasion across that pathless sea of sand. And so God bids them set up signs and make high heaps that they may know how to come back to Him.
 
 22\. How long will you go about, O you backsliding daughter?God still asks in pity, "how long will you seek here and there for comfort?" You will never find it till you come back to your God! Emptiness is written upon everything till the heart comes to its Savior and Lord!
-
 
 ---
 [[Sermon 3260 Spiritual Convalescence|← #3260]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3262 Satan's Arrows and God's|#3262 →]]

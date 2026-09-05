@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # An Infallible Sign Of Revival
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2922
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The Lord alone shall be exalted in that day." Isaiah 2:11.
 
@@ -87,7 +84,7 @@ And, Beloved, when we get into Glory, the Lord alone will be exalted there! What
 
 There, now, I have done. Only I would ask you this. Is there one here that will not give God all the glory? If so, dear Brother, you cannotbe saved. Salvation may almost hinge upon this question—Are you willing to be saved so that the Lord alone shall be exalted in your salvation? Are you willing no more to trust in your good works, your prayers, your tears, your feelings or anything else of your own, but to come and trust in the finished work of Jesus and give yourself up absolutely and entirely to be His? Are you willing to be His servant, His property forever, that henceforth your only glory may be in His dear name, your only boasting in His Cross? If so, He accepts you and He will save you! But if you must have the glory, then you shall not have the salvation! Where, then, will yourglory be? He that glories in himself shall perish, but he that will glory only in the Lord shall live forever! God bless you, for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH2.
+## Exposition by C. H. Spurgeon: Isaiah 2
 
 1, 2. The word that Isaiah, the son of Amos, saw concerning Judah and Jerusalem. And it shall come to pass in the last days, that the mountain of the LORD S house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it What grand hopes are kindled in our bosoms by words like these! The Church has always been as a city set on a hill that cannot be hid, but still she has not been known in all parts of the world
 
@@ -118,7 +115,6 @@ Let each one of us labor mightily according as the Spirit works in us to bring a
 17-20. And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day. And the idols He shall utterly abolish. And they shall go into the holes of the rocks and into the caves of the earth, for fear of the LORD, and for the glory ofHis Majesty, when He arises to shake terribly the earth. In that day a man shall cast his idols of silver, and his idols of gold, which they made, each one for himself to worship, to the moles and to the bats. The worshipper of idols shall be ashamed of them. The precious metal shall not save them—the work of art for which so many plead—"It is true the thing is defiling and idolatrous," say some, "but look at the skill, the taste, the handicraft, the precious metal!" When God makes bare His arm, they shall fling even gold and silver to the moles and to the bats!
 
 21, 22. To go into the clefts of the rock, and into the tops of the raggedrocks, for fear of the LORD, and for the glory ofHis Majesty when He arises to shake terribly the earth. Sever yourself from such a man, whose breath is in his nostrils for of what account is he?" What a rebuke this is to kingcraft and especially to priestcraft. "For of what account is he?" You may lay what hands you will on him, you may gird him with what robes you please and you may pour upon him your anointing oil and your sacred chrisms—but what is he, after all, but a man whose breath is in his nostrils? Sever yourself from such a man, "for of what account is he?"
-
 
 ---
 [[Sermon 2921 An Old-fashioned Remedy|← #2921]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2923 The Singing Army|#2923 →]]

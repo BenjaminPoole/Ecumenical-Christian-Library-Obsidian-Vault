@@ -7,14 +7,13 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # How to Induce Our People to Win Souls
 
 *The Soul Winner* — Charles H. Spurgeon
 
 I HAVE spoken to you at different times, brethren, about the great work of our lives, which is that of winning souls. I have tried to show you various ways in which we win souls, the qualifications both towards God and towards man of those who are likely to be used in winning souls, the kind of sermons that are most likely to win souls, and also the obstacles in the way of soul-winners. Now I should like, this afternoon, to talk to you upon another part of the subject; that is,—
 
-HOW CAN WE INDUCE OUR PEOPLE TO BECOME SOUL-WINNERS?
+## How Can We Induce Our People to Become Soul-Winners?
 
 You are aspiring, each of you, in due time, to become pastors of churches, unless the Lord should call you to be evangelists, or missionaries to the heathen. Well, you commence at first as single sowers of the good seed of the kingdom, and you go forth scattering from your own basket your own handfuls. You desire, however, to become spiritual farmers, and to have a certain acreage which you will not sow entirely yourself, but you will have servants who will aid you in the work. Then, to one you will say, "Go," and he will go forthwith; or, "Come," and he will come at once; and you will seek to lead them into the art and mystery of seed-sowing, so that, after a while, you may have large numbers of persons round about you doing this good work, and thus a far greater acreage may be brought into cultivation for the great Husbandman. There are some of us who have, by God's grace, been so richly blessed that we have all around us a large number of persons who have been spiritually quickened through our instrumentality, people who have been aroused under our ministry, who have been instructed and strengthened by us, and who are all doing good service for God.
 
@@ -53,7 +52,6 @@ Now lastly, brethren, do not be afraid when you go to a place, and find it in a 
 This book was transcribed for by David R. Heesen.
 
 . . . or go back to main page.
-
 
 ---
 [[SW Obstacles to Soul-Winning|← Obstacles to Soul-Winning]] · [[The Soul Winner|The Soul Winner Contents]] · [[SW How to Raise the Dead|How to Raise the Dead →]]

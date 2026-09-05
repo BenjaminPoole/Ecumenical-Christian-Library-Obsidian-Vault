@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 97. Are images then not at all to be made?
-
-**Question 97. Are images then not at all to be made?**
 
 Answer. God neither can nor may be represented by any means; but as to creatures, though they may be represented, yet God forbids us to make, or have any resemblance of them, either in order to worship them, or to serve God by them.
 
-**EXPOSITION**
+## **Exposition**
 
 We may here remark, that the words of the second commandment forbid two things. They first forbid us to make and to have images, saying: Thou shalt not make unto thyself any graven image, nor the likeness of anything, &c. Then they forbid us to worship images and likenesses with divine honor, saying: Thou shalt not bow down thyself to them nor serve them. In speaking of the first thing which is here forbidden, we must enquire, Are all images and likenesses prohibited? and if not all, what, and in how far are they lawful, or unlawful? In speaking of the second thing forbidden by this commandment, we must enquire, Is all adoration or bowing to images forbidden, and can it by any means be defended?
 
-**CONCERNING IMAGES AND PICTURES IN CHRISTIAN CHURCHES**
+## **Concerning Images and Pictures in Christian Churches**
 
 The things to be considered in connection with this subject, may be com prehended under the following heads:
 
@@ -36,7 +33,7 @@ IV. How, and by whom they are to be removed.
 
 The first and second of these propositions belong here; the third and fourth belong to the 98th Question of the Catechism.
 
-**I. WHETHER, AND HOW FAR IMAGES ARE FORBIDDEN IN CHURCHES BY THIS COMMANDMENT**
+## **I. Whether, and How Far Images Are Forbidden in Churches by This Commandment**
 
 The Hebrew words zelem and themunah usually signify an image; pesel signifies a graven image, whilst Hhezebh signifies an idol, or statue, from Hhazabh, which signifies to trouble, to lament, to grieve, because an idol disturbs and agitates the conscience. The Greeks express the word image by εικων; and by ειδωλον, they express any likeness, and especially that which men make unto themselves for the purpose of representing and worshipping God, be it a solid statue, or a mere naked image or picture. Among the Latins imago signified any likeness represented or painted: statua signified a solid image either graven or cast: simulacrum signified the same thing; so also idolum, borrowed from the Greek. The Papists, that they may defend with greater plausibility their worshipping of images, make a distinction between idolum and simulacrum. The latter they contend signifies the image of something really existing, whilst the former is the image of something imaginary; from which they conclude that idols, and their worship are prohibited, but not images. That this distinction, however, is vain and of no force is apparent, 1. From the etymolgy of both words, according to which it appears that they do not differ any more than panis and αζτις, both of which signify bread. The only difference is that the one is a Latin, the other a Greek word. For as ειδωλον, which means a form, is derived from the Latin formando, which means to form or fashion, so simulacrum is derived from simulando which means to counterfeit, according to the testimony of Lactantius. 2. The interpreters of the Scriptures use both words indiscriminately; for the Septuagint everywhere translates the Hebrew Hhezebh by ειδωλον, whilst the Latin interpreters translate it by simulacrum. 2. Both words are used indiscriminately by good and standard writers. Cicero, in his first book, de Finibus, uses these words in the same sense. Euripides calls the shades or ghosts of Palydorus and Achilles ειδωλον, which means an idol. An idol is, therefore, not only an image of something imaginary, but also of something real. So simulacrum is also used for the image of something imaginary. Pliny, for instance, calls the idol of Ceres an imaginary god, simulacrum: and Vitruvius calls the image or idol of Diana, simulacrum. Hence the distinction which is made between these words is ungrounded. So much concerning the words which express what we call an image.
 
@@ -54,7 +51,7 @@ Obj. 2. The Holy Scriptures attribute to God the different members of the human 
 
 Obj. 3. God formerly manifested himself in bodily forms. Therefore it is lawful for us to represent him by similar signs or forms. Ans. God did indeed do this for certain considerations; but he has forbidden us to do the same thing. Nor is it difficult to perceive the reason of this prohibition. God may manifest himself in any way in which he may please to do so; but it is not lawful for any creature to represent God by any sign which he himself has not commanded. The examples are therefore not the same. Furthermore, those forms in which God anciently manifested himself had the promise of his presence in them, and that he would hear those to whom he revealed himself in this way. But this cannot be said of those images which are representations of God, without palpable idolatry. The saints of old, therefore, acted properly in adoring God at, or in those forms, as being present in a special manner in them; but to act thus in reference to images is wicked and idolatrous, seeing that it is done out of presumption and levity, without any divine command or promise. Lastly, those visible appearances in and through which God was pleased to reveal himself to his people of old, continued as long as God desired to make use of them, and as long as they did contribute to idolatry. But the images and pictures which men make in imitation of these ancient manifestations of God, have not been devised for the purpose of revealing God, nor are they representations of those ancient manifestations of God, and are therefore the object and occasion of idolatry.
 
-**II. IS ALL WORSHIPPING OF IMAGES FORBIDDEN, OR CAN THIS WORSHIP BE DEFENDED?**
+## **II. Is All Worshipping of Images Forbidden, or Can This Worship Be Defended?**
 
 We return an answer to this question from the second part of this commandment, which positively forbids us to give divine worship or honor to images and pictures, including not only that which is given to creatures, but that also which is given to the true God. "Thou shalt not bow down thyself to them, nor serve them."
 

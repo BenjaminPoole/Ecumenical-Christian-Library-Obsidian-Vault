@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Heart of The Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1910
@@ -115,8 +114,7 @@ We do not exhort you to some impossible effort. We do not bid you do some great 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Corinthians 4 and 5.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—917, 404, 284.
-
+## Hymns from "Our Own Hymn Book"—917, 404, 284
 
 ---
 [[Sermon 1909 A Seasonable Exhortation|← #1909]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1911 Hideous Discovery|#1911 →]]

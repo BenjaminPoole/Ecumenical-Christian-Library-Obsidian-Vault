@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Heart Perfumed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3339
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The love of God is shed abroad in our hearts by the Holy Spirit who was given unto us." Romans 5:5.
 
@@ -55,7 +52,7 @@ and that when you have dived into the greatest deeps that your intellect can bea
 
 This, then, is all we will say concerning it, that the love of God is the precious ointment. But secondly, the text says—
 
-II. THIS LOVE OF GOD IS "SHED ABROAD IN OUR HEARTS."
+## II. This Love of God Is "Shed Abroad in Our Hearts."
 
 What does this mean? Does it mean our merely knowing that God is Love? We must know that as a preliminary step, but oh, the shedding abroad of the love of God is vastly more than that! It does not mean merely prizing that love, the coming into a state of desiring after it. When we feel that it must be a precious thing to be beloved of God. That is a very proper state of mind, but it is not what is meant here. It is not even believing in the love of God. That is the Christian's privilege and should be his constant position—believing that God loves him, resting confident that even under affliction's cross the love of God is still the same—and that if God should hide His face, yet His heart is not changed. But the love of God shed abroad is more than that. It is not even the waiting for visits from God's face. It is a sweet thing to sit at Christ' s door and wait until He comes to us. If I may not feast at the table, I may be grateful to be allowed to hunger and thirst to do it! Next to having Christ, a real longing after Him is one of the most precious gifts of the Holy Spirit. But still, a great deal more than this is meant here. It is not even remembering former love-visits. That is often very consolatory—
 
@@ -85,7 +82,7 @@ bread of earth will never satisfy you! If you have ever eaten of the bread which
 
 But it shall not always be so. You shall soon see His face if you seek after Him and again shall the "love of God be shed abroad in your hearts by the Holy Spirit which is given unto us." And now, may God help us, while for a few minutes we go over what we have said, and ponder—
 
-III. THE RESULTS OF THIS LOVE BEING SHED ABROAD IN OUR HEARTS.
+## III. The Results of This Love Being Shed Abroad in Our Hearts
 
 I have anticipated some of these already, but we remind ourselves more definitely that the love of God in our hearts sweetens everything. It sweetens our duties and they become privileges—
 
@@ -120,7 +117,6 @@ And may it not also be our ingratitude as to past favors We have not thanked God
 And, dear Friends, is it not because we do not sincerely seek conformity to the likeness of our Savior, that we have not, as we might, the love of God shed abroad in our hearts? It is even this, my Brothers and Sisters, it is even this! If you have ever known the sweetness of the love of Christ, you understand that I cannot exaggerate when I praise it. It is the sweetest, best and happiest thing of which a mortal can sing. It is a bliss which angels might envy—the sense of the love of God in a man or woman's heart! Then how is it that you and I can endure to be without it? The true wife would be grieved, indeed, if she had a doubt as to her husband's love—she could not be happy unless she could have an assurance of being its possessor. And oh, how is it that we can bear ourselves when we are saying, "Does He love me?" How is it we can endure, as some professors do, day after day, not to have a word from His lips, or a smile from His countenance? Do we really love Him, or is it all mere talk? Has our heart any deep affection for Him, or is it only formal profession? Have we caught it up from others? Have we stirred merely natural emotions in ourselves and then thought we loved Him? Oh, I do hope we may say, "It is not so, we do love Him! We would be very wretched if we did not. We might sooner wish to die than cease to love Him. He is the Chief among ten thousand to our hearts—we feel He is."
 
 Oh, then, without making vows and resolutions which we shall soon break, let us pray, "Oh, Savior, shed abroad Your love in our hearts by the Holy Spirit! Oh, God the Father, reveal Yourself in all the fullness of Your love to us now and we may never lose a sense of it, but have it abiding with us forever!" What a Church would this be if we all had fellowship with Christ! Oh, how trivial would the world's troubles become! We would then go on serving the Master like seraphs. I think we would scarcely rest day nor night, but be always praising and blessing His dear name! This place would be a paradise! We would have to bless God so continually and our songs might rival those before the Throne of God! "The spirit truly is willing, but the flesh is weak," but, "we have a High Priest who can be touched with a feeling of our infirmities." Let us draw near to Him with confidence and let this be the burden of our prayer, "Abide with me! Continue with me, for Your love's sake, Amen."
-
 
 ---
 [[Sermon 3338 The Witness of the Lord's Supper|← #3338]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3340 'Take Away the Frogs'|#3340 →]]

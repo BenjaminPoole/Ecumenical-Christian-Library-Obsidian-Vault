@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Gadding About
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3007
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Jeremiah 2:36.
 
@@ -146,7 +143,6 @@ Life by His expiring groan.
 Rise, exalted by His fall—
 
 Find in Christ your All in AH."
-
 
 ---
 [[Sermon 3006 'The Lord Is My Shepherd'|← #3006]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3008 An All-important Question|#3008 →]]

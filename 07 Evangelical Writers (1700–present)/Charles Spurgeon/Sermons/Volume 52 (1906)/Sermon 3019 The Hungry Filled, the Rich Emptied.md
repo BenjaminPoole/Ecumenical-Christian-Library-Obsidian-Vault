@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # The Hungry Filled, the Rich Emptied
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3019
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has filled the hungry with good things; and the rich He hats sent away empty." Luke 1:53.
 
@@ -117,7 +114,7 @@ Self-satisfaction is the death of progress. Contentment with worldly goods is a 
 
 Up, saints of God, from your resting places of inglorious sloth and begin to cry aloud, and spare not! Come to God's Throne with a sacred spiritual hunger, for thus shall the Church of God be filled with good things! May God, in His Infinite Mercy, bless this message and HIS shall be the praise and Glory forever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 1:26-56.
+## Exposition by C. H. Spurgeon: Luke 1:26-56
 
 Verses 26, 27. And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, to a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary. It was by the temptation of an evil angel that man fell and Paradise was lost. It was, therefore, most appropriate that good angels should be sent to announce the coming of the Restorer, through whom Paradise is regained. "Gabriel was sent from God unto a city of Galilee, named Nazareth." Christ's coming to earth must be announced in the lowliest of cities and He must be born in the small Judean town of Bethlehem. But it was also decreed that He must die at Jerusalem—in the metropolitan city. Mark the simplicity, and yet the sublimity of the arrangement by which the meek and lowly Savior was to be born in our nature. The angel Gabriel was sent from God to a virgin, whose name was Mary.
 
@@ -156,7 +153,6 @@ Verses 26, 27. And in the sixth month the angel Gabriel was sent from God unto a
 53\. He has filled the hungry with good things; and the rich He has sent away empty. They who are self-satisfied shall sooner or later be cast out, but those who look to God, alone, and are hungry after Him, shall be satisfied with His favor.
 
 54-56. He has helped His servant Israel, in remembrance of His mercy. As He spoke to our fathers, to Abraham and to his seed forever. And Mary abode with her about three months and returned to her own house.
-
 
 ---
 [[Sermon 3018 The True Lineage|← #3018]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]]

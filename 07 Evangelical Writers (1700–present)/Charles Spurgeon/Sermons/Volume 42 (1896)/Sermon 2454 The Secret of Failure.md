@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Secret of Failure
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2454
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the disciples came to Jesus privately, and said, Why could we not cast it out? So Jesus said to them, Because of your unbelief: for verily I say unto you, If you have faith as a grain of mustard seed, you shall say unto this mountain, Move from here to there and it shall move; and nothing will be impossible for you. However, this kind does not go out except by prayer and fasting." Matthew 17:19-21.
 
@@ -95,7 +92,7 @@ Let us see to it that we are quite clear in this matter, for there are still man
 
 O you who are not saved, see how concerned we are about you! It seems nothing to you to lose your souls, but it seems everything to us—and it was everything to Christ! You would not suffer even a little self-denial that you might be saved, yet Christ died—so highly did He value the souls of sinners—rather than that you should perish! Oh, may that love of His make you begin to love yourselves so as to trust Him, and love Him, and find, in Him, eternal life! God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK9:2-29.
+## Exposition by C. H. Spurgeon: Mark 9:2-29
 
 Verses 2-4. Now after six days Jesus took Peter, James and John, and lead them up into an high mountain apart by themselves; and He was transfigured before them. And His clothes became shining, exceedingly white as snow; such as no launderer on earth can whiten them. And Elijah appeared to them with Moses, and they were talking with Jesus. In the midst of all His sorrow and humiliation, our Lord let out some gleams of His Glory, to remind us who He was even while He was here in the depths of His grief. He was still none other than the all-glorious Lord of Heaven and earth, whose clothes, if He chose to make them so, would be whiter than snow, and brighter than the sun! Let us think of Him with great love and gratitude as we see what Glory He willingly laid aside for our sakes, and see how low He stooped who was, in Himself, immeasurably high.
 
@@ -132,7 +129,6 @@ Verses 2-4. Now after six days Jesus took Peter, James and John, and lead them u
 27\. But Jesus took him by the hand, and lifted him up; and he arose. He was not dead, though many thought he was, and said so. Christ does not cure and then kill—He cures so that we shall never die! No, no, poor Sinner, the last pangs of despair shall not destroy you! The fiercest, bitterest assaults of Satan shall not cause you to die! Christ will take you by the hand and you shall arise.
 
 28-29. And when He had come into the house, His disciples asked Him privately, Why could we not cast it out? So He said to them, This kind can come out by nothing but prayer and fasting.
-
 
 ---
 [[Sermon 2453 A Hard Case|← #2453]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2455 A Cure for a Weak Heart|#2455 →]]

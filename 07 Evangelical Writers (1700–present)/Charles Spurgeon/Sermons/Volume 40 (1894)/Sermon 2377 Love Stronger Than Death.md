@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Love Stronger Than Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2377
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When Jesus knew that His hour was come that He should depart out of this world unto the Father, having loved His own which were in the world, He loved them unto the end." John 13:1.
 
@@ -154,7 +151,6 @@ Christ further said to His disciples, "You are clean, but not all." Does He say 
 18\. I speak not of you all: I know whom I have chosen. Christ has a chosen people, though some will not believe it. Yet it is so, for He says, "I know whom I have chosen."
 
 18, 19. But that the Scripture may be fulfilled, he that eats bread with Me has lifted up his heel against Me. Now I tell you before it comes, that when it has come to pass, you may believe that I am He. "That I am." So, you see, even the great trouble of the early Church—the betrayal by Judas—was used by Christ for the strengthening of His disciples' faith. He foretold that it would be as it came to pass. So, dear Friends, in these latter days, many forsake the Gospel, but Jesus told us that it would be so. He taught His servants to write that there would be a falling away and that in these last days there would be scoffers—and as we read the prophecies and compare them with the fulfillment—even the doleful fact, itself, confirms our faith in our Lord! God bless to us this brief reading of His own Word! Amen.
-
 
 ---
 [[Sermon 2376 I Will, Yet, Not As I Will|← #2376]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2378 Pardon for the Greatest Guilt|#2378 →]]

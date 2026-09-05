@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Soul's Best Food
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2786
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Eat what is good, and let your soul delight itself in fatness." Isaiah 55:2.
 
@@ -112,7 +109,6 @@ Dear Friends, what we need is to feed on the Gospel and nothing but the Gospel! 
 wardly digest! To feed upon the teachings of the Holy Spirit within our own soul and to feed upon Christ Himself, for His flesh is meat, indeed, and His blood is drink, indeed! I would to God that some here present, who have never known what spiritual life is and, therefore, cannot know what spiritual feeding is, might be quickened, this evening, by the Divine Spirit! And if they are, the first thing that they will do will be to listen to Christ that they may live! "Incline your ears," He says, "and come unto Me. Hear, and your soul shall live." And as soon as you have heard His life-giving Word, then go on to hear it again and yet again! "Hearken diligently unto Me and eat that which is good, and let your soul delight itself in fatness."
 
 And listen to this. If you believe in Christ Jesus, within a short time that head of yours shall wear a coronet of glory that shall outshine the stars of Heaven! Your feet shall be in sandals with light and your whole being shall be full of indescribable ecstasy. Then, though you deserve to be cast into the lowest Hell, you shall have a place above the angels, where the white-robed host forever chant their hallelujahs to the redeeming Lamb. Yes, as surely as that you now live, you shall be there! Now what say you with such a prospect before you? Will you walk any longer in the ways of dishonesty? Will you go home to your cups and be found among the drunks? Will you take upon you that dear name by which you are to be called in Heaven and yet be found among the ungodly? I know that you would sooner die than that should be the case, for your heart cries out to your Lord, "Deliver me from sin, O my gracious God! This great love of Yours which promises me Heaven and gives me a nature fit to live in Glory—how can I rebel against it? No, let it hold me fast, with golden chains, to obey You, my Lord, and to keep Your commandments from now and forever." The Lord grant it, for His dear Son's sake! Amen.
-
 
 ---
 [[Sermon 2785 Christ's Love for His Vineyard|← #2785]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2787 Christ's Triple Character|#2787 →]]

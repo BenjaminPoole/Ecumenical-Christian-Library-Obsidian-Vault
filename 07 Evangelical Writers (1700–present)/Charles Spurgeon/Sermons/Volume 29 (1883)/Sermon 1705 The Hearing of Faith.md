@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Hearing of Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1705
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 11, 1883,.
+*Delivered on Lord's-Day Morning, February 11, 1883*
 
 > "This only would I learn of you, did you receive the Spirit by the works of the Law, or by the hearing of faith?" Galatians 3:2.
 
@@ -132,7 +131,6 @@ Sometimes, also, when we have preached free forgiveness, full redemption, irreve
 Then shall you abound in good works and the more the merrier! Then you shall fight with sin and overcome it! Then shall you set up a high standard and reach it! Then shall you strive after holiness and manifest it. But do not begin where you ought to leave off! Do not put, as the proverb has it, the cart before the horse! Do not place the top of the house where the foundation ought to be! But as you never did obtain anything by the works of the Law, come and try "the hearing of faith," and you shall receive all that you need in Christ Jesus. God grant it, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Galatians 3. HYMNS FROM "OUR OWN HYMN BOOK"-406, 533, 516.
-
 
 ---
 [[Sermon 1704 All Joy in All Trials|← #1704]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1706 The Cast-Off Sash|#1706 →]]

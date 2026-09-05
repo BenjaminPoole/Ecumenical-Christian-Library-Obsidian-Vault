@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 72
-
-**PSALM 72**
 
 David in this psalm prays to God, in the name of the whole Church, for the continual prosperity of the kingdom which was promised him, and teaches us at the same time, that the true happiness of the godly consists in their being placed under the government of a king who was raised to the throne by the appointment of heaven.
 

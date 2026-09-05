@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The King Feasting in his Garden
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 919
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 6, 1870,.
+*Delivered on Lord's-Day Morning, March 6, 1870*
 
 > Was it not said in Psalm 72:15, "Prayer also shall be made for Him continually"? And you did pray for Him that His name might be as ointment poured forth, and that He might gird His sword upon His thigh and ride forth prosperously. Jesus observed and delighted in your heart's offering. Others knew not that you prayed—perhaps you thought, yourself, that you scarcely prayed—but He gathered His myrrh with His spice from you. No faithful prayer is lost. The groanings of His people are not forgotten. He gathers them as men gather precious products from a garden which they have tilled with much labor and expense.
 
@@ -94,7 +93,6 @@ He found big refreshment in that poor woman, to whom He said, "Give me to drink.
 Finally, the text represents the Lord saying, "I am come into My garden." It may imply that He is not always in His garden. Sometimes His Church grieves Him and His manifest Presence departs. But hearken, O Sinner, there is a precious thought for you—He is not always in His garden. But He is always on the Throne of Grace. He does not always say, "I am come into My garden," but He always says, "Come unto Me, all you that labor and are heavy laden, and I will give you rest." He never leaves the Mercy Seat. He never ceases to intercede for sinners.
 
 Come, and welcome, then. If you have not seen the Beloved's face, come and bow at His feet. Though you have never heard Him say, "Your sins are forgiven you," yet come now with a broken and a contrite heart and seek absolution at His hands. Come, and welcome! Come, and welcome! May the sweet Bridegroom with cords of love draw you, and may this morning be a time of love. And as He passes by, if He sees you wallowing in your blood, may He say unto you, "Live!" May the Lord grant it, and on His head shall be many crowns. Amen! Amen! Amen!
-
 
 ---
 [[Sermon 0918 The Two Builders And Their Houses|← #918]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0920 Backsliding Healed|#920 →]]

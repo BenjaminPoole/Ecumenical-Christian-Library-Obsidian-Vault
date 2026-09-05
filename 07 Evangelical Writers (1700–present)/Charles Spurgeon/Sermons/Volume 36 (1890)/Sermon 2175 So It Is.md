@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # "So It Is"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2175
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lo this, we have searched it, so it is; hear it, and know you it for your good." Job 5:27.
 
@@ -136,7 +133,6 @@ and I kept back every threatening doctrine and tried to make things pleasant for
 Flee, now, to Christ! I pray you, by the living God and by the Heaven which He gives to those who believe in Christ, hasten to Jesus! Trust yourselves to Jesus now! By that dreadful doom which will surely fall on every man who dies rejecting Christ, I beseech you, flee from the wrath to come! Lord, grant that it may be so, for Jesus' sake! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON— Job 5.
-
 
 ---
 [[Sermon 2174 Fever and Its Cure|← #2174]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2176 The Lord No More Angry with His People|#2176 →]]

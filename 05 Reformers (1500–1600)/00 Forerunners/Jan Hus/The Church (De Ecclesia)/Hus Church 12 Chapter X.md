@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 12. Chapter X
 
-THE POWER OF BINDING AND LOOSING
+*The Power of Binding and Loosing*
 
 Now as to the power — authority — of Christ, given by himself to his vicars, which is touched upon in the words, "I will give unto thee the keys of the kingdom of heaven," that is, the power to bind and to loose sins, — Augustine says, Com. on John 21: "The effects of this power are shown, when Christ adds, 'And whatsoever thou shalt bind on earth, shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven.' This power is a spiritual power. Therefore, it is to be noted, that spiritual power is a power of the spirit, determining its acts of itself so that a rational creature, so far as gracious gifts go, may be guided and have his own distinctive place both as determined from the standpoint of the subject and the object." Every man, however, is a spirit, since he has two natures; as the Saviour in speaking to his disciples said: "Ye know not what spirit ye are of" [Luke 9 : 55], and "every spirit that confesseth not Jesus is not of God," I John 4:3. Here the spirit is subtle and heretical, denying Jesus to be very God and very man. And it is evident that whether power in respect to God and power in respect to rational creatures are analogous or the analogy is to be restricted to the powers of men and the powers of angels, it is true that all spiritual power is a power of the spirit. And, although a man does not give grace, he nevertheless administers the sacraments, so that the inferior is guided as to gifts of grace.
 
@@ -34,7 +33,7 @@ For as many as received Christ by faith to these hath he given the power to beco
 
 2 The seven spiritual gifts of mercy, namely, teach the ignorant, direct the doubting, reprove the erring, console the sorrowing, forgive those indebted to thee, bear the infirmities of others, pray for all — in opposition to the seven bodily works of mercy: Visito, poto, cibo, redimo, tego, colligo, condo, namely, I visit the sick, give drink to the thirsty, feed the hungry, release the imprisoned, clothe the naked, care for the stranger, bury the dead. See Huss, Super IV. Sent., p. 596.
 
-POWER OF BINDING AND LOOSING 93
+## Power of Binding and Loosing 93
 
 Secular power is twofold, civil and common. Civil power, which is authoritative, belongs only to the civil lord. But civil power, which is vicarious, belongs to officials or servants. But secular power, which is common to all, is the power by which a man is able to rule himself and his own according to the gifts of nature and of fortune. And thus, just as a man cannot be a whole man without body and soul, nor is the adopted child of God complete without the gifts of nature and of grace, so the pilgrim cannot get along as a pilgrim unless he has both secular and spiritual power which are common to all, although this is bound in the case of infants and the dead. But spiritual power is everywhere the more perfect and the sacerdotal power exceeds the power of kings in dignity as appears from Heb. 7:7: "Greater is he that blesses and less is he who is blest."
 
@@ -104,7 +103,7 @@ But the objection is offered concerning higher rank and obedience from the Canon
 
 1 Jerome adds that, according to Lev. 14, the lepers were commanded to show themselves to the priest and, if they had leprosy, they became unclean by the priest — a sacerdote immundi fiant — " not that the priests made them leprous and unclean, but that the leprous and those who were not might have the knowledge of their condition." For Huss's treatment of the power of the keys as set forth in his Com. on Peter llie Lombard, see Introduction to this volume.
 
-POWER OF BINDING AND LOOSING
+## Power of Binding and Loosing
 
 Nor, secondly, could he loose one who would not repent, and so he said to Simon Magus: "Repent, therefore, of this thy wickedness and pray the Lord if perhaps it may be forgiven you," Acts 8 : 22. Thirdly, Peter had no power to loose the marriage bond, for the Saviour said: "What God hath joined together, let not man put asunder," Matt. 19 : 6. And fourthly, he was not able to absolve Judas from sin, because the Saviour said: " Not one of them perished but the son of perdition, that the Scripture might be fulfilled," John 17 : 12.
 

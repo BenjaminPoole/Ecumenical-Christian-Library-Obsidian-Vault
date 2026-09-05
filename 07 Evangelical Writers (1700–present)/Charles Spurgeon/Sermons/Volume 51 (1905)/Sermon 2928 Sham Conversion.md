@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Sham Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2928
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And so it was at the beginning of their dwelling there, that they feared not the LORD: therefore the LORRD sent lions among them, which slew some of them. They feared the LORRD and served their own gods, after the manner of the nations from which they were carried away. Unto this day they continue practicing the same rituals: they fear not the LORRD." 2 Kings 17:25,33,34.
 
@@ -101,7 +98,7 @@ If we are real Christians, we have one only trust—we hang all our weight on Je
 
 this thoroughness, this depth of sincerity, this real change of heart—that we be not among the Samaritan trimmers, but that of us it may to said, "Behold an Israelite, indeed, in whom is no guile." God bless you for Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: EXODUS 20:1-17; 2 KINGS 17:23-41.
+## Exposition by C. H. Spurgeon: Exodus 20:1-17; 2 Kings 17:23-41
 
 Exodus 20:1-3. And Godspoke all these words saying, I am the LORDyour God, who brought you out of the land of Egypt; out of the house of bondage. You shall have no other gods before Me. God is the only God and no other object of worship is to be tolerated for a moment!
 
@@ -124,7 +121,6 @@ Exodus 20:1-3. And Godspoke all these words saying, I am the LORDyour God, who b
 32-38. So they feared the LORD, and made unto themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places. They feared the LORD, and served their own gods after the manner of the nations whom they carried away from there. Unto this day they continue practicing the same rituals: they fear not the LORD, neither do they follow the statutes, or follow the ordinances of the law and commandment which the LORD commanded the children of Jacob, whom He named Israel, with whom the LORD had made a Covenant, and charged them, saying, You shall not fear other gods, nor bow yourselves to them, nor serve them nor sacrifice to them but the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, Him shall you fear, and Him shall you worship, and to Him shall you do sacrifice. And the statues, and the ordinances, and the laws and the commandment, which He wrote for you, you shall observe to do forevermore and you shall not fear other gods. And the Covenant that I have made with you, you shall not forget; neither shall you fear other gods. How this warning comes over and over and over again! "Hear, O Israel. The Lord your God is one God." The worship of anything else under any pretext whatever, besides the one ever-blessed Trinity in unity is forever forbidden to us!
 
 39-41. But the LORD your God you shall fear, and He shall deliver you out of the hand of all your enemies. Howbeit they did not listen, but they did their former manner. So these nations feared the LORD and served their engraved images, both their children, and their children's children: as did their fathers, so do they unto this day. Trying, as far us ever they could, to link the old idolatries with the worship of the true God, which thing is the most loathsome in the sight of the Most High.
-
 
 ---
 [[Sermon 2927 Love at Leisure|← #2927]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2929 A Challenge and War Cry|#2929 →]]

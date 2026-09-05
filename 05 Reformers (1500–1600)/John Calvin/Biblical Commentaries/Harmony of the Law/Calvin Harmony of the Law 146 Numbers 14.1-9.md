@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 146. Numbers 14:1-9
-
-**Numbers 14**
 
 **1.** And all the congregation lifted up their voice, and cried; and the people wept that night.
 

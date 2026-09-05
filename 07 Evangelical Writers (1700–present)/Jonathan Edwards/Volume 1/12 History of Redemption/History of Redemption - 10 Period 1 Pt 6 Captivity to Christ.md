@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART VI.
 
-FROM THE BABYLONISH CAPTIVITY TO THE COMING OF CHRIST.
+*From the Babylonish Captivity to the Coming of Christ*
 
 I come now to the *last subordinate period* of the Old Testament, *viz*. that which begins with the *Babylonish captivity*, and extends to *the coming of Christ*, being near six hundred years; and shall endeavour to show how the work of redemption was carried on through this period.—But before I enter upon particulars, I would observe three things wherein this period is distinguished from the preceding ones.
 

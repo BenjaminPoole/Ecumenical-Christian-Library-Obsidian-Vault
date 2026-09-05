@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 10. Decade 1, Sermon 8
 
 Ler us first of all pray to our God, that he will vouchsafe to grant us an happy, speedy, and very fruitful proceeding in the declaration of the other articles of christian belief.
@@ -43,8 +42,6 @@ Now also let us throughly consider every word of this article severally by itsel
 Out of or from the dead.
 
 He was crucified, dead, taken down and laid in his grave upon Good Friday, where his body lay all Saturday, that is, Easter-even, and on Sunday, which is Easter-day, in the morning he rose again from death to life.
-
-142 THE FIRST DECADE. [SERM.
 
 the women in the gospel, when they went to anoint the body of the Lord, which hung upon the cross, did hear the angel of the Lord say: ‘“‘ Why seek ye the living among the dead? He is not here, but is risen!,” &c. This history of the Lord’s resurrection is set forth in the twenty-fourth after Luke, and the sixteenth after Mark. Peter the apostle also, in the second of the Acts, affirming the Lord’s resurrection by the testimony of David?, doth expressly shew that the Lord is verily risen again.
 
@@ -78,8 +75,6 @@ ing, not the Vulgate’s. The first day of the sabbaths, Cranmer’s Bible. ]
 
 The force of Christ his ascension into heaven.
 
-144 THE FIRST DECADE. [SERM.
-
 What therefore if you shall see the Son of man ascend thither where he was before!?” As if he should say: Then verily ye will gather, by my quickening, resurrection, and glorious ascension into the heavens, that I am the bread of life, brought down from heaven, and now again taken up into the heavens, there to remain the Saviour, Life, and Lord of heaven and earth. Moreover, St Peter the apostle in the Acts saith: “ Let all the house of Israel know for a surety, that God hath made the same Jesus, whom ye have crucified, Lord and Christ.”
 
 Furthermore, he did not only rise again from death, and come to his disciples, but also ascended into heaven as they beheld and looked on him, to the end that we thereby might be assuredly certified of eternal salvation. For by ascending he prepared a place for us, he made ready the way; that is, he opened the very heavens to the faithful. God hath placed in heaven the very humanity that he took of us: which is indeed a lively and unreproveable testimony, that all mankind? shall at the last be translated into heaven also. For the members must needs be made conformable to the head. Christ, our Head, is risen again from the dead; therefore we, his members, shall also rise again. And even as a cloud took away the Lord from the sight of his disciples; so shall we that believe be carried in the clouds to meet the Lord, and shall wholly in soul and body be, and for ever dwell, in heaven with our Head and Lord, Christ Jesus. And this doth John evidently teach him that readeth his fourteenth chapter, where the Lord saith: “1 go to prepare a place for you, and will come again to you, and take you unto myself, that wheresoever I am, ye may also be.” Paul the apostle also witnesseth, and saith: ‘ We that live, and shall be remaining in the coming of the Lord, shall be carried in the clouds together with them that are raised up from the dead, to meet the Lord in the air‘.”
@@ -100,13 +95,11 @@ But now, by the way, we must weigh the very words of this article. “ He ascend
 
 [5 extentione, Lat. ] [δ΄ Psal. civ. 2. viii. 3. exlvii. 8. xix. 1.] [7 Psal. ciii. 19.] [8 Matt. v. 34.] [90 Cor. y. 1.] [10 Isai. xvi. 1.] .
 
-146 THE FIRST DECADE. [SERM.
-
 that are his, (according to that saying, “ We shall see him even as he is';” and again, “No man shall see me,” saith the Lord, ‘“‘and live?;”) therefore God is said to dwell in heaven. Moreover Christ our Lord, touching his divinity, is not shut up in any place; but, according to his humanity once taken, which he drew up into heaven, he is in the very local place of heaven; neither is he in the meantime here in earth and every where bodily, but, being severed from us in body, remaineth in heaven. For he ascendeth, which, leaving that which is below, doth go to that above. Christ therefore, leaving the earth, hath placed a seat for his body above all heavens. Not that he is carried up beyond all heavens; but because, ascending up above all the circles? into the utmost and highest heaven, he is taken, I say, into the place appointed for those that are saved. For Paul the apostle, speaking plainly enough to be understood, saith: ‘ Our conversation is in heaven, from whence we look for the Saviour to come,” &c. In the same manner also Luke the evangelist saith: ‘And blessing them, he departed from them, and was carried into heaven.” But why do I make so much ado about expounding that which is most evidently declared in the very Creed by that He sitteth at which followeth? For the next is: “He sitteth at the right the right hand of God hand of God, the Father Almighty.” For by this we under-
 
 Almighty. stand what kind of place heaven is, and what our Lord doth in heaven. It is not surely for our frailty over-narrowly to seek out or discuss the secrets of heaven; and yet it is not against religion to inquire after that that is taught us in the scriptures, and so perfectly to remember it as it is taught us. Our Lord is simply said to sit; and that too to sit at the right hand of the Father Almighty. Let us therefore see® what the right hand of the Father is, and what it is to sit at the right hand of the Father.
 
-The definiThe right hand of the Father in the scripture hath two tion of God’s righthand significations. First, the right hand of God is the place ap- taken here forthe place's Hointed for them that are saved, and the everlasting felicity in
+The definiThe right hand of the Father in the scripture hath two tion of God’s righthand significations. First, the right hand of God is the place ap-taken here forthe place's Hointed for them that are saved, and the everlasting felicity in
 
 [1 1 John iii. 2.]
 
@@ -127,8 +120,6 @@ VIII. | THE APOSTLES’ CREED. 147 heaven. This did St Augustine set down to be 
 10—2
 
 God’s right hand the name of his wer; and 1n this signification to sit is to reign.
-
-148 THE FIRST DECADE, [SERM.
 
 he is, they also might be in the same place with him’. Wherefore we believe, that Christ is at rest in heaven, where he hath prepared a place of rest for us also, to remain in joys everlasting. And for because our bodies shall not be every where in felicity, but in the only appointed place; therefore saith St Augustine truly, that “Christ our Lord, according to the measure of his very body, is in some one place of heaven*.” And St Cyprian saith: “To sit at the right hand of the Father is the mystery of his flesh taken up into heaven®.” Secondarily, the right hand of God is put for the virtue, kingdom, protection, deliverance, and power of God. For David saith: “The Lord’s right hand is high: the Lord’s right hand doth mighty things’.” And Moses said: ‘ Thy right hand, O Lord, is magnified in power: thy right hand, O Lord, hath broken the enemy®.” And when the right hand is put in this sense, then “to sit” doth signify to reign, to deliver, to use power, and do the office of a prince. For saith David: ‘“ The Lorp said unto my Lord, Sit thou at my right hand, till I make thine enemies thy footstool®.” And the prophet Zachary saith: “ Behold the man that is called the Branch: he shall bud out of his place, and build the temple of the Lord, and sit and rule upon his throne, and be a priest upon his seat.” In this sense the right hand of God is infinite, and contained in no measure of place. Whereas® we confess, that our Lord doth “sit” at the right hand of the Father, we do profess, that the Son is exalted above all things, having all things subject under himself, as Paul, in his first chapter to the Ephesians, saith; and finally, that the Son, being so exalted, can do all things, doth reign in the universal church, doth deliver them that are his, doth make intercession to the Father in heaven, and in the power of his Godhead is present in all places. For therefore did the Creed add almightiness to this sitting of his,
 
@@ -156,8 +147,6 @@ Thus, and no otherwise, did the ancient interpreters of St Herome the holy scrip
 
 St Augustine of the right hand of the Father.
 
-150 THE FIRST DECADE. [SERM.
-
 over, this very word ‘to sit’ doth argue the power of a kingdom, by which God is beneficial to them on whom he doth vouchsafe to sit; insomuch as verily he doth rule them, and hath them always in his guiding, and doth turn to his own beck or government the necks of them that before ran out of way at random and at liberty.”
 
 St Augustine, in his book de Fide et Symbolo, saith: “We believe that he sitteth at the right hand of God the Father. Yet not so therefore, as though we should think that God the Father is comprehended within the limits of a man’s body; so that they that think of him should imagine, that he hath both a right and a left side: and whereas it is said, that the Father sitteth, we must not suppose that he doth sit with bended hams; lest peradventure we fall into the same sacrilege, for which the apostle accurseth them that have changed the glory of the incorruptible God into the similitude of a corruptible man. For a detestable thing it is to place God in such a likeness in a christian church: and much more wicked is it to place it in the heart, where the temple of God is verily and indeed, if it be cleansed from earthly desires and error. We must therefore understand, that ‘at the right hand’ is as much to say as in greatest happiness, where righteousness and peace and gladness is: even as also the goats are placed at the left hand, that is, in misery for their iniquities to their pain and torment. Whereas God therefore is said to sit, thereby is not meant the placing of his limbs, but his judicial power, which his majesty never
@@ -179,8 +168,6 @@ The blessed martyr and bishop of Trent, Vigilius, in his st Vigitius. first book
 The seventh article. Christ a Judge.
 
 To judge, what it is.
-
-152 THE FIRST DECADE. [SERM.
 
 ‘ The time shall come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it?’ Both he is with us, and not with us; because them, whom he hath left and departed from in his manhood!, he hath not left nor forsaken in his Godhead!.”2 This saith he.
 
@@ -210,8 +197,6 @@ The quick and dead are judged.
 
 The reward and punishment is most certain.
 
-154 THE FIRST DECADE. [SERM.
-
 done, not by any long, troublesome, or changeable process, as is used in our courts of law, but even in the twinkling of an eye. For then shall all men’s hearts be laid open, and every man’s own conscience shall accuse himself. This is more at large set out in Matt. xxiv. and xxv., Wisd. 111, and v., 1 Cor. xv., 2 Cor. v., 1 Thess. iv., v., Rom. ii, 2 Pet. iii. &e.
 
 Now we do simply confess, that the quick and the dead shall be judged. This do some expound of the godly and ungodly. But the Symbol or Creed was ordained for the most simple of understanding; and simple things are fittest for to teach simple men. Therefore we say simply, that the dead are all they, that from the beginning of the world even until the last day are departed out of this mortal life: and the living are they, which at that day shall be alive in this world. For the apostle saith: “ Behold, I tell you a mystery; we shall not all sleep, but we shall all be changed by the last trump, in a moment of time, and in the twinkling of an eye. For the trump shall sound, and the dead shall rise again incorruptible, and we shall be changed!.” And again, in another place, the same apostle saith: “This I say unto you in the word of the Lord, that we, which shall live and be remaining at the coming of the Lord, shall not prevent them which are asleep. Because the Lord himself shall come down out of heaven with a great noise, and the voice of an archangel, and the trump of God: and first shall the dead in Christ rise up again; then shall we, which shall be alive and be remaining, be caught up together with them in the clouds into the air to meet the Lord: and so shall we be with the Lord for evermore?,”
@@ -228,8 +213,6 @@ The eighth article of our belief is this: “I believe in theeighth — the Holy
 
 The Father in Christ hath fully given us all heavenly treasures.
 
-156 THE FIRST DECADE. [SERM.
-
 to him, and we must look after the benefits that from him do flow to us. For the power, operation, or action of the Spirit is that, whatsoever the grace of God doth work in us through the Son: so that of necessity we must believe in the Holy Ghost. And in this eighth article we do profess, that we do verily believe, that all the faithful are cleansed, washed, regenerated, sanctified, enlightened, and enriched of God with divers gifts of grace for Christ his sake, but yet through the Holy Ghost. For without him there is no true sanctification : wherefore we ought not to attribute these gifts of grace to any other means; this glory belongeth to the Holy Ghost only. Of whom I will more largely and fully discourse in my other sermons.
 
 The hour is spent, which warneth me to wrap up briefly and make an end; therefore I exhort you all to have your faith religiously bent upon the Lord Jesus: for him hath the heavenly Father sent to us, in him hath he wholly expressed and shewed himself to us, and him doth the Holy Ghost print in our hearts and keep in our minds. And in Christ is all man’s salvation and every part thereof contained ; wherefore we must beware that we derive it not from any thing else. “1 pleased the Father,” saith the apostle, “that all fulness should dwell in the Son,” and in him to recapitulate, and as it were, to bring into a sum, all points of salvation, that in him all the faithful may be fulfilled’, For if salvation be sought, then even by his very name are we taught that salvation is in his power: for he is called Jesus, that is, a Saviour. If we desire the Holy Spirit of God and his sundry gifts, we shall find them also in the anointing of Christ: for he is called Christ, the Anointed, I say, the Holy of holies, and the sanctifier, or else the anointer of us with his Spirit. If any man have need of strength and might, of power and deliverance, well, he hath to look for it in Christ his dominion: for Christ is Lord of all. In the same Christ we find redemption: for he hath redeemed us that were sold under Satan’s yoke. In his conception we have purity; in his nativity we have sufferance?: for he became like to us, that he might suffer grief as well as
@@ -240,7 +223,7 @@ The hour is spent, which warneth me to wrap up briefly and make an end; therefor
 
 VILL. | THE APOSTLES’ CREED. 157 we*, For in his passion we have forgiveness of sins, in his condemnation we have absolution, satisfaction i in his offering or cleansing‘ sacrifice, cleansing in his’ blood, and an universal reconciliation in his descending into hell. In his burial we have the mortification of our flesh, the newness of life; yea rather, the immortality of the soul, and resurrection of our bodies in his glorious resurrection. We have also the inheritance of the heavenly kingdom, with the assured sealing thereof, in his ascension and sitting at the right hand of the Father. And there is he our Mediator, Priest, and King, our safeguard and our head, our defender and most sure rest’. From thence he poureth into us his Holy Spirit, the fulness of all good things; and doth communicate himself wholly to us, joining us unto himself with an indissoluble knot. From thence we do with confidence and joy look for him to be our Judge, to be, I say, our patron and deliverer, which shall condemn and send down headlong into hell all our enemies with Satan; but shall take us and all the faithful of every age up into heaven with himself, there to sing a new song, and to rejoice in him for ever. To him be glory for ever. Amen.
 
-OF THE LATTER ARTICLES OF CHRISTIAN FAITH CONTAINED IN THE APOSTLES’ CREED.
+## Of the Latter Articles of Christian Faith Contained in the Apostles’ Creed
 
 ---
 [[Bullinger Dec 9 Decade 1, Sermon 7|← 9. Decade 1, Sermon 7]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 11 Decade 1, Sermon 9|11. Decade 1, Sermon 9 →]]

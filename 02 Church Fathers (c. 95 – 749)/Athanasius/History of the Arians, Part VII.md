@@ -15,10 +15,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # History of the Arians, Part VII
 
-BY ST. ATHANASIUS
+*By St. Athanasius*
 
 ## 47. Persecution at Alexandria
 

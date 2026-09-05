@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 14
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE FIRST CONFERENCE OF ABBOT NESTEROS. ON SPIRITUAL KNOWLEDGE.
+## The First Conference of Abbot Nesteros. On Spiritual Knowledge
 
 ## Chapter 1
 

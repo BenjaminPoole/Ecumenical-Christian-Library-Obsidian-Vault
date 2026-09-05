@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # An Encouraging Lesson From Paul's Conversion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 944
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 7, 1870,.
+*Delivered on Lord's-Day Morning, August 7, 1870*
 
 > "Then Ananias answered, Lord, I have heard by many of this man, how much evil he has done to Your saints at Jerusalem: and here he has authority from the chief priests to bind all that call on Your name. But the Lord said unto him, Go your way: for he is a chosen vessel unto Me, to bear My name before the Gentiles, and kings, and the children of Israel: for I will show him how great things he must suffer for My name's sake." Acts 9:13-16.
 
@@ -160,7 +159,6 @@ Let us believe that the Father works up to now and Christ works. Let us think of
 The power to accomplish this is not contained in these poor vessels of clay, nor limited by the capacities of manhood, nor bounded by the perceptions of mortals! The arm which is on the side of the Church is Omnipotent. The mind that works over all for the glorious cause is infinitely wise and prudent. "Be of good courage, and He shall strengthen your hearts. Wait, I say, on the Lord." Keep His way, delight also yourselves in Him, and He shall bring it to pass, and you shall see that accomplished which you would not have believed though a man had spoken it unto you. Go on working, there is your sphere. Pray much that God would work also, for prayer is another part of your sphere.
 
 Expect God to work, believe that He will surely conquer Satan. Be confident that evil will not win the day, that error cannot be permanent, that there will occur Divine surprises which will make the Church to wonder at what her Lord God can do! In one word, believe, and you shall be established. Wait upon God and you shall be strong. Never give way to unbelief. Believe in the unseen. Rest in the invisible. Have confidence in the Infinite. And the Lord send to us and to all Christendom a band of men whom He has chosen whom He shall call out as He did His Apostle—and who shall become the leaders of His Church, and the conquerors of the world. The Lord grant that some who are here this morning may be among that elect company. Amen.
-
 
 ---
 [[Sermon 0943 The Spur|← #943]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0945 Ripe Fruit|#945 →]]

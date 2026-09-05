@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 101
-
-**PSALM 101**
 
 David was not as yet put in possession of the kingdom, but having been already created king by the appointment of God, he prepares himself for exercising the government in the best manner. And he not only stirs up himself to perform faithfully the duties of his kingly office by devoutly meditating on this subject, but also engages by a solemn vow to be God’s faithful servant, in order to induce Him to put him speedily in possession of the kingdom.
 

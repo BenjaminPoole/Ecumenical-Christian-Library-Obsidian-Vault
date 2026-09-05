@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Errand of Mercy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3050
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the Son of Mann is come to seek and to save that which was lost." Luke 19:10.
 
@@ -77,7 +74,7 @@ Some say, "If the people want to hear the Gospel, let them go to church or chape
 
 We know that He seeks, but does He save them? If I must give an answer from my own observation, I can point to many members of this congregation and say, "Save them? Indeed He does! Has He not delivered them from the bonds of sin? Has He not made them new creatures in Christ Jesus?" But if you look anywhere, wherever a faithful Gospel is preached, you will see that salvation-work does go on! I hope it may go on with us for many and many a year until Christ shall come. Christ is not disappointed in the souls He came to save. All for whom He stood as Substitute shall sing His praise in Heaven. He has not redeemed souls that may afterwards be cast into Hell. He did not suffer for my sins that I might suffer for them, too! His Atonement is effectual! Every sinner He died to save He does save. He is not foiled at any point, nor disappointed in any single aim. The lost He came to seek and save, He finds and saves! And in eternity we shall find, when turning over the register of the chosen, that every one of them has been gathered around the Eternal Throne singing the praise of His Sovereign Grace!
 
-EXPOSITION BY C. H. SPURGEON: LUKE 19.
+## Exposition by C. H. Spurgeon: Luke 19
 
 Verses 1-5. And Jesus entered and passed through Jericho. And behold, there was a man named Zacchaeus, who was the chief among the publicans, and he was rich. And he sought to see Jesus who He was; and could not for the press, because he was little of stature. And he ran before, and climbed up into a sycamore tree to see Him: for He was to pass that way. And when Jesus came to the place, He looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for today I must abide at your house.Remember that the Lord Jesus was on His way to Jerusalem to suffer and to die. And there He was, the patient, suffering Lamb of God—but here He speaks in that commanding tone which well became the Prince of the House of David—"Zacchaeus, make haste, and come down; for today I must abide at your house."
 
@@ -118,7 +115,6 @@ need ofhim. Here we see Christ's true royalty again flashing out from beneath th
 42-48. Saying, If you had known, even you, at least in this your day, the things which belong unto your peace! But now they are hid from your eyes. For the days shall come upon you that your enemies shall cast a trench about you, and compass you round, and keep you in on every side, and shall lay you even with the ground, and your children within you; and they shall not leave in you one stone upon another; because you knew not the time of your visitation. And He went into the Temple, and began to cast out them that sold therein, and them that bought; saying unto them, It is written, My house is the House of Prayer; but you have made it a den of thieves. And He taught daily in the Temple. But the chief priests and the scribes and the chief of the people sought to destroy Him, and could not find what they might do: for all the people were very attentive to hear Him. There was a popular wave of enthusiasm in His favor but, alas, it soon ebbed away and then the multitudes that had cried, "Hosanna!" were just as loud in their shouts of, "Crucify Him! Crucify
 
 Him!"
-
 
 ---
 [[Sermon 3049 'Going and Weeping'|← #3049]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3051 Lessons From a Dovecot|#3051 →]]

@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 13. The Exposition of Tracy's Testament
 
-TYNDALE'S EXPOSITION.
+*Tyndale's Exposition*
 
 Now let us examine the parts of this testament, sentence A description t of God.
 
@@ -23,7 +22,7 @@ First, to commit ourselves to God above all is the first of all precepts ; and t
 
 [3 The twenty-second of Henry VIII. began with April 21, 1530, and ended April 20, 1531.]
 
-274 EXPOSITION OF TRACY'S TESTAMENT.
+## 274 Exposition of Tracy's Testament
 
 only, as we shall see followingly. This first clause, then, is the first commandment, or at the least the first sentence in the first commandment, and the first article of our creed.
 
@@ -33,13 +32,13 @@ And concerning the resurrection, it is an article of our faith, and proved there
 
 Faithis That this lively faith is sufficient to justification, without sufficient to * J justify us. adding to of any more help, is this wise proved : The promiser is God ; of whom Paul saith, (Rom. viii.) " If God be on our side, what matter maketh it who be against us?" He is thereto all good, all merciful, all true, and almighty ; where fore sufficient to be believed by his oath : moreover Christ, in whom the promise is made, hath received all power in heaven and in earth (Matt, the last). He hath also a perpetual priesthood, and therefore able perpetually to save (Heb. vii.). And that " there is but one mediator, Christ," as saith
 
-EXPOSITION OF TRACY'S TESTAMENT. 275
+## Exposition of Tracy's Testament. 275
 
 Paul (1 Tim. ii.). And by that word understand an atonemaker, cimstthe a peacemaker, and bringer into grace and favour, having full power so to do. And that Christ is so, is proved at the full. It is written, (John iii.) " The Father loveth the Son, and hath given all into his hand." And " he that believeth the Son hath everlasting life ; and he that believeth not the Son shall not see life, but the wrath of God abideth upon him." " All things are given me of my Father" (Luke x.). And "all whosoever call on the name of the Lord shall be saved" (Acts ii.). " Of his fulness have we all received" (John i.). "There is no other name given to man in which we must be saved" (Acts iv.). And again, " Unto his name bear all the prophets record, that by his name shall all that believe in him receive remission" (Acts x.). " In him dwelleth all the fulness of God bodily" (Col. ii.). " All whatsoever my Father hath are mine" (John xvi.). " Whatsoever ye ask in my name, that will I do for you" (John xiv.). " One Lord, one faith, one baptism, one God and Father of all, which is above all, through all, and in you all" (Ephes. iv.). There is but one whose servant I am, to do his will ; but one that shall pay me my wages. There is but one to whom I am bound ; ergo, but one that hath power over me to damn or save me. I Arguments will add to this Paul's argument, (Gal. iii.). God sware unto KSTn Abraham four hundred years before the law was given, that we should be saved by Christ. Ergo, the law given four hun dred years after cannot disannul that covenant. So dispute I. Christ, when he had suffered his passion, and was risen again and entered into his glory, was sufficient for his apostles, without any other means or help ; ergo, the holiness of no saint since hath diminished aught of that his power, but that he is as full sufficient now : for the promise is as deeply made to us as to them. Moreover, the treasure of his mercy was laid up in Christ for all that should believe, before the world was made; ergo, nothing that hath happened since hath changed the purpose of the invariable God.
 
 Moreover, to exclude the blind imagination, falsely called The false faith, of them that give themselves to vice without resistance, (affirming that ^they have no power to do otherwise, but that God hath so made them, and therefore must save them, they not intending or purposing to mend their living, but sinning with whole consent and full lust,) he declareth what faith he
 
-276 EXPOSITION OF TRACY'S TESTAMENT.
+## 276 Exposition of Tracy's Testament
 
 meaneth, two manner of ways. First, by that he saith, 11 whosoever believeth and is baptized shall be saved :" by ^^^ words he declareth evidently, that he meaneth that faith that is in the promise made upon the appointment our souis. between (^d an(i USj that we should keep his law to the uttermost of our power ; that is, he that believeth in Christ for the remission of sin, and is baptized to do the will of Christ, and to keep his law of love, and to mortify the flesh, that man shall be saved : and so is the imagination of these swine, that will not leave wallowing themselves in every mire iriresESe an(^ Pu(^dle, clean excluded ; for God never made promise, but n°exeedaunston~ upon an appointment or covenant, under which whosoever will breakers6 not come can be no partaker of the promise. True faith in Christ giveth power to love the law of God : for it is written, (John, the first,) " He gave them power to be the sons of God, in that they believe in his name." Now, to be the son of God is to love righteousness, and hate unrighteousness, and so to be like thy Father. Hast thou then no power to love the law? so hast thou no faith in Christ's blood. And, (Rom. iii.) " We set up and maintain the law through faith." Why so? For the preaching of faith ministereth the Spirit (Gal. iii., and 2 Cor. iii.). And the Spirit looseth the bands of Satan, and giveth power to love the law, and also to do it. For saith Paul, (Rom. viii.) " If the Spirit of him that raised up Jesus dwell in you, then will he that raised up Jesus quicken your mortal bodies by the means of his Spirit dwelling in you."
 
@@ -55,7 +54,7 @@ J J of the faith-
 
 Other may and ought for to pray, and that we may and ought to desire other to pray for us ; but meaneth that we may not ihfne£ect5;ere. put our trust and confidence in their prayer, as though they gave of themselves that which they desire for us in their petitions, and so give them the thanks, and ascribe to their merits
 
-278 EXPOSITION OF TRACY'S TESTAMENT.
+## 278 Exposition of Tracy's Testament
 
 that which is given us in the name of our master Christ, as the deservings of his blood. Christ is my Lord, and hath deserved and also obtained power, to give me all that can be desired for me ; and all that other desire for me, is desired in Christ's name, and given at the merits of his blood. All the honour then, trust, confidence, and thanks, pertain to him also. Some will haply say, How should I desire another to pray for me, and not trust to his prayer ? Verily, even as I desire my neighbour to help me at my need, and yet trust not to him. AH our help Christ has commanded us to love each other. Now when I is from above, n°0rt heip buT S° or desire help, I put my trust in God, and complain to God preprS? first, and say, ' Lo, Father ! I go to my brother, to ask help in thy name. Prepare the heart of him against I come, that he may pity me, and help me, for thy sake,9 &c. Now if my brother remember his duty and help me, I received it of God, and give God the thanks, which moved the heart of my bro ther, and gave my brother a corage1 to help me, and where with to do it, and so hath helped me by my brother. And I love my brother again, and say, * Lo, Father ! I went to my brother in thy name, and he hath helped me for thy sake : wherefore, 0 Father ! be thou as merciful to him at his need, as he hath been to me, for thy sake, at my need.' Lo ! now, as my brother did his duty when he helped me, so do I my duty when I pray for him again : and as I might not have put my trust and confidence in my brother's help, so may he not in my prayers. I am sure that God will help me by his promise ; but am not sure that my brother will help me, though it be his duty. So am I sure that God will hear me, whatsoever I ask in Christ's name, by his promise ; but am not sure that my brother will pray for me, or that he hath a good heart to God.
 
@@ -67,7 +66,7 @@ EXPOSITION OF TRACY'S TESTAMENT. 279 and to trust in the saints of heaven. They 
 
 [2 Martin, bishop of Tours, at the close of the fourth century, when dying, " Discipulis indicavit se jam resolvi ; illis autem gregem Domini desolandum flentibus, ora,vit ad Dominum ut, si adhuc populo suo necessarius esset, ipsum, laborem non recusantem, adhuc in vita prsesenti dimitteret. Oculis ac manibus in cceluin semper intentus invictum ab oratione spiritum non relaxabat." — Petr. de Natalibus, Lib. x. c. 47. Compare the account of him given in Dr Gilly's ' Life and Times of Vigilantius/ chap, v.]
 
-EXPOSITION OF TRACYS TESTAMENT.
+## Exposition of Tracys Testament
 
 Burials must
 
@@ -87,7 +86,7 @@ Though it seem not impossible haply, that there might be a place where the souls
 
 [* O cursed hunger for gold, to what dost thou not compel the heart of man?J
 
-282 EXPOSITION OF TRACY'S TESTAMENT.
+## 282 Exposition of Tracy's Testament
 
 cod granteth what could be denied him in that deep innocency, of his most . ' kmd Bather, that hath left no mercy unpromised ; and asking it thereto in the name of his son Jesus, the child of his heart's lust, which is our Lord, and hath left no mercy undeserved for us ; namely when God hath sworn that he will put off righteousness, and be to us a father, and that of all mercy, and hath slain his most dear son Jesus, to confirm his oath?
 

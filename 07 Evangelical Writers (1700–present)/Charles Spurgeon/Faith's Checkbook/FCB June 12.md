@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**DWELLING SAFELY APART**
+## **Dwelling Safely Apart**
 
 > Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew" Deut. 33:28
 
@@ -25,7 +24,6 @@ Our safety lies, not in making terms with the enemy but in dwelling alone with o
 God also will make us dwell in safety alone in that day when sin shall be visited on the nations by wars and famines.
 
 The Lord brought Abram from Ur of the Chaldees, but he stopped half-way. He had no blessing till, having set out to go to the land of Canaan, to the land of Canaan he came. He was safe alone even in the midst of foes. Lot was not safe in Sodom though in a circle of friends. Our safety is in dwelling apart with God.
-
 
 ---
 [[FCB June 11|← June 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 13|June 13 →]]

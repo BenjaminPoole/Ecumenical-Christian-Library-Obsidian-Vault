@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Lessons on Divine Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2833
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But by the Grace of God I am what I am." 1 Corinthians 15:10.
 
@@ -93,7 +90,7 @@ Then, lastly, if we are what we are "by the Grace of God," this should teach us 
 
 You remember Ralph Erskine's sonnet on the battle in Heaven—the great contention of the bards in Paradise? He pictures them all contending as to who should have the lowestplace and which should most loudly praise the Lord! There were the babes snatched from their mothers' breasts—they claimed the lowest place because they had gone straight to Heaven without any trials or troubles. But the gray-headed men who had been Divinely supported under the afflictions of many years said that theyowed the most to Sovereign Grace. Then came those who had been converted in their early years and who said that they had already had a Heaven below, so they could sing the loudest of all. Then came the penitent thief who said that he had the greatest cause to praise the Lord for he had been converted at the last. While some declared that they must praise God most because they had been the blackest sinners, others said that they would praise Him most for the restraining Grace which had kept them from sin. And so the strife went on until they agreed, each one, to sing with all his might to the praise of that Everlasting Love which inscribed their names in the Lamb's Book of Life, that great Love which bought them with Jesus' precious blood and that Omnipotent Love which attended them all their journey through and landed then at last in Heaven!
 
-EXPOSITION BY C. H. SPURGEON: NUMBERS4:1-33.
+## Exposition by C. H. Spurgeon: Numbers 4:1-33
 
 Verses 1, 2. And the LORD spoke unto Moses and unto Aaron, saying, Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers. There were three families, those of Kohath, Gershon and Merari—and to each of these families a different service was allotted. First, they were to be numbered. "The Lord knows them that are His," and He takes count of all His people.
 
@@ -124,7 +121,6 @@ of the Gershonites, to serve, and for burdens. They were to bear the external co
 29-32. As for the sons of Merari, you shall number them after their families, by the house of their fathers; from thirty years old and upward even unto fifty years old shall you number them, every one that enters into the service, to do the work of the tabernacle of the congregation. And this is the charge of their burden, according to all their service in the tabernacle of the congregation, the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof, and the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name you shall reckon the instruments of the charge of their burden. They had the heaviest load to carry, but they were the more numerous. They carried the solid columns upon which the covering of the tabernacle rested. And notice that they had also to carry the pins. Sometimes God's servants dislike carrying pins. They feel themselves too big—but blessed is that servant who, in his place, can be content to carry "their sockets, and their pins, and their cords, with all their instruments."
 
 33\. This is the service of the families of the sons ofMerari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar, the son of Aaron, the priest.
-
 
 ---
 [[Sermon 2832 Christ's Yoke and Burden|← #2832]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2834 Conceit Rebuked|#2834 →]]

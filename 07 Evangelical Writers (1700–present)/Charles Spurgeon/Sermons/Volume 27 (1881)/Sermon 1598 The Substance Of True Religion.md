@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Substance Of True Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1598
 
-DELIVERED ON LORD'S-DAY MORNING, MAY 15, 1881,.
+*Delivered on Lord's-Day Morning, May 15, 1881*
 
 > "But you should say, Why persecute we him, seeing the root of the matter is found in me?" Job 19:28.
 
@@ -134,7 +133,6 @@ It is one of the duties of mature Christians to take these children and nurse th
 "We are poor sinners, and nothing at all, But Jesus Christ is our All in All." Do not frighten them, do not distress them, do not chill them like a sharp frost! Cheer and encourage them and say, "I, too, was once as you are—Yes, and I, too, often am as you are. Yes, and I, too, sometimes wish I were still as you are, for I would still be on my knees, keeping humbly dependent upon Christ. Come, if elder Brothers and Sisters will not receive you, I will and I will cheer you and encourage you for Jesus' sake."
 
 Well, try and do that this morning, if you can, before you leave the Tabernacle. There may be somebody sitting next to you who just needs a word. Try it. I know some will be quite frightened at your venturing to speak to them. Very well, frighten them a little, it will not hurt them! Try the power of courteous personal appeal. It may be if you frighten one or two you will be the means of blessing so many more that if those who are frightened do not forgive you, they will not break your heart. God Himself will not, because there will be nothing to forgive. He will commend you for what you have done and I pray you, therefore, do it for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1597 The Priest Ordained by the Oath of God|← #1597]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1599 Everyday Religion|#1599 →]]

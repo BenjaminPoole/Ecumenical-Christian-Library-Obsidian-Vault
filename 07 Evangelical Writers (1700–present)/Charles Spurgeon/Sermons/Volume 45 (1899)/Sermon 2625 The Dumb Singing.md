@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Dumb Singing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2625
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped. Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert." Isaiah 35:5.
 
@@ -124,7 +121,6 @@ While Heaven's resounding mansions ring
 With shouts of Sovereign Grace!" The thought struck me, the other day, that the Lord will have in Heaven some of those very big sinners—ones who have gone further astray than anybody else that ever lived—just to make the melody complete by singing some of those alto notes we sometimes hear which you and I, because we have not gone so far astray, will never be able to utter! I wonder whether one has stepped into this Chapel, this morning, whom God has selected to take some of those alto notes in the scale of praise? Perhaps there is one such here. Oh, how loudly will he sing, if Grace, Free Grace, shall have mercy upon him!
 
 And now, farewell, with just this parting word. My Brothers and Sisters, members of this Church, strive together in your prayers, that God may bless you. Be not content with what you are, however prosperous you may be, but seek to increase more and more. Pray that you and your children may be added to the Church of Christ, here, and may live to see others added, too. Do not neglect your Prayer Meetings. Christmas Evans gives us a good idea about prayer. He says, "Prayer is the rope in the belfry. We pull it and it rings the bell up in Heaven." And so it is. Mind you keep that bell going! Pull it often at home and come up to the Prayer Meetings and keep on pulling it! And though the bell is up so high that you cannot hear it ring, depend upon it, it can be heard in the tower of Heaven and it is ringing before the Throne of God, who will give you answers of peace according to your faith. May your faith be large and plentiful, and so will be the answers! Amen.
-
 
 ---
 [[Sermon 2624 Secondhand|← #2624]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2626 Peace in Believing|#2626 →]]

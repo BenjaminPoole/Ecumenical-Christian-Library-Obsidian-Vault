@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## 2 Corinthians 3:1-3
 

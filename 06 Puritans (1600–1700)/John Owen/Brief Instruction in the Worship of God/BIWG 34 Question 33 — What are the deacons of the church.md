@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 33 — What are the deacons of the church?
-
-Question 33 — What are the deacons of the church?
 
 Answer — Approved men chosen by the church to take care for the necessities of the poor belonging thereunto, and other outward occasions of the whole church, by the collection, keeping, and distribution of the alms and other supplies of the church; set apart and commended to the grace of God therein by prayer. Acts vi. 3, 5, 6; Phil. i. 1; 1 Tim. iii. 8–13.
 
@@ -39,7 +36,6 @@ Secondly, To acquaint the elders and the church, as occasion requireth, with the
 Thirdly, To dispose of what they are intrusted with *faithfully*, cheerfully, tenderly, without partiality or preferring one before another, for any outward respect whatever.
 
 Fourthly, To keep and give an account unto the church, when called for, of what they have received, and how they have disposed of it; that so they may be known to have well discharged their office, — that is, with care, wisdom, and tenderness, — whereby they procure to themselves a good degree, with boldness in the faith, and the church is encouraged to intrust them farther with this sacrifice of their alms, which is so acceptable unto God.
-
 
 ---
 [[BIWG 33 Question 32 — Is there no other ordinary office in the church but only that of|← Question 32 — Is there no other ordinary office in the church but only that of elders?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 35 Question 34 — Wherein consists the general duty of the whole church, and every|Question 34 — Wherein consists the general duty of the whole church, and every member thereof, in their proper station and condition? →]]

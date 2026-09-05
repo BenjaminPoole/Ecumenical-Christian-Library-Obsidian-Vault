@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 43. Letter XLIL. To the Same (February 1415)
-
-LETTER XLIL TO THE SAME (February 1415)
 
 Do not be weary ; The Commission at work ; The kindness of his gaolers ; Jonah and Susannah ; Thanks for the Bible ; Greetings to friends 175-6
 

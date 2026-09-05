@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Lacking Moisture
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2845
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And some fell upon a rock, and as soon as it was sprung up, it withered away because it lacked moisture." Luke 8:6.
 
@@ -101,7 +98,7 @@ Then I would say, next, try to avoid all dry heat Do not work yourself up into a
 
 Lastly, be constantly looking for that Divine mystery of secret vitality which is called in the text, "moisture. " I commend to you this prayer, "Lord, give me this blessed moisture. Saturate me through and through with the heavenly dew, the Divine rain, that I may grow and bring forth fruit to the Glory of Your holy name." God bless you, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM42.
+## Exposition by C. H. Spurgeon: Psalm 42
 
 We often read this Psalm because we are very often in the same state that the Psalmist was in when he wrote it—and the language seems to suit us at many periods of our life.
 
@@ -130,7 +127,6 @@ cry, "All Your waves and Your billows are gone over me." Surely, this language i
 9\. I will say unto God my rock, Why have You forgotten me? He had been talking too much to himself—now he talks with his God.
 
 9-11. Why go I mourning because of the oppression of the enemy? As with a sword in my bones, my enemies reproach me; while they say daily unto me, Where is your God? Why are you cast down, O my soul and why are you disquieted within me? Hope you in God: for I shall yet praise Him who is the health of my countenance, and my God. Notice how the Psalmist had been growing. In the 5th verse, where the refrain comes in, it is very nearly the same as it is here, yet there is some difference. There it was, "I shall yet praise Him for the help of His countenance," but here it is, "I shall yet praise Him, who is the health of my countenance." Then it was God helping the poor wrinkled brow to turn towards Heaven. Now it is God Himself giving the man joy and rest. Then there is the last utterance of the Psalmist on that occasion, "My God." He could not reach that note before, and when the Christian can say, "My God," his troubles are at an end.
-
 
 ---
 [[Sermon 2844 The Seed Upon a Rock|← #2844]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2846 'No Root in Themselves'|#2846 →]]

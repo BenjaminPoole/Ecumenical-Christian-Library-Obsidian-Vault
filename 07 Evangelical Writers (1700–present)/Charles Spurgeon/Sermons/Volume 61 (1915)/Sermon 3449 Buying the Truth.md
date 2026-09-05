@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Buying the Truth
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3449
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Buy the truth, and sell it not." Proverbs 23:23.
 
@@ -51,7 +48,7 @@ It also means this—buy the Truth of God—that is, be willing at all risks to 
 
 I think that is what the word means. I expound it to mean this—give anything and everything, sooner than part with Christ, part with the living work of Grace in your heart, or part with the integrity of your conduct. And now let me—
 
-III. PARAPHRASE THESE WORDS.
+## III. Paraphrase These Words
 
 "Buy the Truth." Then I say, buy only the Truth of God. Do not be throwing away your life, your abilities, your zeal and your earnestness, for a lie. Some are doing it. Thousands of pounds are given to erect edifices for doing mischief. Multitudes of sermons are preached, very zealously, to propagate lies and sea and land are compassed to make proselytes, who shall be ten times more children of Hell than they were before! Buy only the Truth. Do not buy the glittering stuff they call truth. Never mind the label—look to see if it is the Truth of God. Bring everything that is propounded as the Truth of God to the test, to the trial. If it will not stand the fire of God's Word, then do not buy it! No, do not have it as a gift! No, do not keep it in the house! Run away from it! It eats as does a canker—let it not come near you. Buy only the
 
@@ -67,7 +64,7 @@ God from you, and now Truth has shut you out, and all your knockings at her door
 
 Thus I have paraphrased the text. Buy only the Truth. Buy all the Truth. Buy the Truth at any price and buy the Truth now. Briefly let me give you—
 
-IV. THE REASONS FOR THIS PURCHASE.
+## IV. The Reasons for This Purchase
 
 You need the Truth of God and you will never be received by God at last unless you bring the Truth in your right hand. Only the truthful can enter those gates of pearl. You need the truth now. You are not fit to live any more than to die without an interest in the Truth of God as it is in Jesus. Accept Christ to be truly yours, so truly yours as to make you true! You know not how to fight the battle of life at all without the Truth. Your life will be a blunder, and the close of it will be a disaster unless you buy the Truth. God grant that you may buy the Truth now. You need it. You need it now, and you will need it forever. Oh, I would to God that that hymn we sang should not merely be heard by you, but felt by you—
 
@@ -79,7 +76,7 @@ Oh, that fatal "tomorrow!" Over the cliffs of "tomorrow" millions have fallen to
 
 And till times are more propitious, if you wait, you will wait on forever and forever! God grant you may buy His Truth now, for the text is in the present tense, for now you need it. Let me direct you to—
 
-V. THE MARKET WHERE YOU CAN BUY IT.
+## V. The Market Where You Can Buy It
 
 These are the Words of Jesus Christ when He appeared to His servant John, "I counsel you, buy of Me." There is no place where Truth can be found in its power and life, except in Jesus Christ! Truth is in His blood—it will wash away what is false in you. Truth is in His Spirit—it will eradicate what is dark and vile in you. His love will make you true by conforming you to Himself. Come to Christ. Bring nothing with you. Come as you are, empty-handed, penniless and poor. The rivers of milk and wells of wine are all with Him. He is the banquet giver, and the Banquet, too. To trust Him is to live. To look to Him, alone, for salvation is to find salvation in that look! Oh, that these simple words might point someone to the place where he shall buy the Truth! And now let me repeat my text again, "Buy the Truth."
 
@@ -95,7 +92,7 @@ And do not, I pray you, intend to buy it.Oh, intentions, intentions, intentions!
 
 And do not, tonight, wish that the Truth were yours, but buy it! You say the cost is too great. Too great? It is nothing. It is "without money and without price." Do you mean, however, to say, that it is too great a cost to give up a sin? What? Will you burn in Hell rather than give up a lust? Will you dwell in everlasting burnings sooner than give up those cups that intoxicate you? Must you have your silly wantonness and lascivious mirth, or any kind of sin? Must you have it? Will you sooner have it than Heaven? Then, Sirs, your blood be on your own heads. You have been warned. I hope you are sober and have not yet gone to madness, but if you are, you will see that no pleasures of an hour can ever recompense for casting yourselves under the anger of God forever and forever! Buy the Truth! Do not merely talk about it and wish for it, but buy, buy the Truth! And then, lastly—
 
-VI. A WARNING AS TO LOSING THE PURCHASE.
+## VI. A Warning as to Losing the Purchase
 
 "Sell it not." My time has gone and, therefore, as I never like to exceed it, there shall be but these few words. When you have once got the Truth, I know you will not sell it. You will not, I am sure, at any price. But the exhortation, nevertheless, is a most proper one. There have been some who have sold the Truth to be respectable. They used to hear the Gospel, but now they have got on in the world and have a carriage—and they do not like to go where there are so many poor people—so away they go where they can hear anything or nothing, so that they may be respectable! Ah, I have the uttermost contempt for this affectation of gentility and respectability that leads men to be so mean as to forsake their Christian friends! Let them go! They are best gone! Such chaff had better not be with the wheat, and those that can be actuated by such motives are too base to be worth retaining!
 
@@ -115,7 +112,7 @@ you have felt and have had worked into your soul by His Spirit—and the Truths 
 
 God bless you, dear Friends, and keep you. And when the Great Shepherd shall appear, may you have the mark of the Truth of God upon you, and appear with Him in Glory.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW13:24-50.
+## Exposition by C. H. Spurgeon: Matthew 13:24-50
 
 Verse 24. Another parable put He forth unto them, saying, The kingdom of Heaven is likened unto a man which sowed good seed in his field.He knew that it was good. It had been tested—it was unmixed—it was good throughout.
 
@@ -146,7 +143,6 @@ most earnest in the Kingdom of Heaven were at one time most indifferent and care
 48\. Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away. All a mixture. We cannot sort one from the other, now, but when the net comes to shore, then will be the picking over the heap. No mistakes will be made. The good will go into vessels, and the bad, and none but the bad, will be cast away!
 
 49, 50. So shall it be at the end of the world: the angels shall come forth andsever the wicked from among thejust. And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth. Not fire, then, which annihilates, but fire which leaves in pain and causes weeping and gnashing of teeth!
-
 
 ---
 [[Sermon 3448 God's Glory and His Goodness|← #3448]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3450 Dangerous Lingering|#3450 →]]

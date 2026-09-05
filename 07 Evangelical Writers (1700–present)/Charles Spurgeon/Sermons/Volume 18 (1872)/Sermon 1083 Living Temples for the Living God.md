@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/18
 ---
-
 # Living Temples for the Living God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1083
 
-DELIVERED.
+*Delivered*
 
 > "Thus says the Lord, Hea ven is My throne and earth is My footstool. Where is the house that you build unto Me? And where is the place of My rest? For all those things has My hand made, and all those things have been, says the Lord; but to this man will I look, even to him that is poor and of a contrite spirit and trembles at My Word." Isaiah 66:1,2.
 
@@ -182,7 +181,6 @@ Now, many will go away and laugh, and say, "Well, I understand nothing about tha
 But, and if I speak to the poorest of the poor who came in here though they thought their clothes were not fit for decent company and though they have not a home to go to tonight—and though they have not any comfort of conscience by reason of sin. Or, if I speak to such as have many creature comforts, but no comfort in spirit because you are pressed down by guilt—bless the Lord as you listen to the proclamation of His tender mindfulness of your low estate—for the message has come and Jesus is come to set free the captive, to open blind eyes and recover the lost!
 
 "This is a faithful saying and worthy of all acceptation, that Christ Jesus came into the world to save sinners." May you find salvation in Him, for His love's sake. Amen.
-
 
 ---
 [[Sermon 1082 The Life, Walk and Triumph of Faith|← #1082]] · [[Volume 18 (1872)|Volume 18 (1872) Contents]] · [[Sermon 1084 The Thorn in the Flesh|#1084 →]]

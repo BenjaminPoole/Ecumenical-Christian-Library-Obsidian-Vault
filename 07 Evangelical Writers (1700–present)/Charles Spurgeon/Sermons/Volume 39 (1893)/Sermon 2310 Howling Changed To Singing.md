@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Howling Changed To Singing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2310
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Howlong will You forget me, O LORD? Forever? How long will You hide Your face from me? How long shall I take counsel in my soul, having sorrow in my heart daily? How long shall my enemy be exalted over me?...I wiil sing unto the LORD, because He has dealt bountifully with me." Psalm 13:1,2, 6.
 
@@ -117,7 +114,7 @@ The next thing is that David, having prayed and brought his cause before God, tr
 
 There, you may put away that first photograph. You may sit down, now, if you have trusted, and we will take your likeness again, and I am sure your likeness will agree with the 6th verse, and you will say, "I will sing unto the Lord; I will go home singing! I have trusted. I have found salvation!" Lord, lead these people to trust You! Why can they not trust You? What have You ever done that they should doubt You? Lord Jesus, if I had a million souls, I would trust them all with You, fully persuaded that You could wash them all whiter than snow! Trust, then, beloved Friends! Trust Jesus. God help you to trust, for Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. PSALMS 12,13,14.
+## Expositions by C. H. Spurgeon. Psalms 12,13,14
 
 Psalm 12:1. Help, LORD; for the godly man ceases; for the faithful fail from among the children of men. One might have thought that David still lived among us, his cry is so timely, so exactly true to the position of affairs today. What a prayer he offers! Driven away from confidence in men, be cries, "Help, Lord! You mighty One, put forth Your power! You faithful One, display Your Truth! 'Help, Lord; for the godly man ceases; for the faithful fail from among the children of men.'"
 
@@ -160,7 +157,6 @@ one."
 6\. You have shamed the counsel of the poor, because the LORD is his refuge. They mocked at the idea of a man's trusting in God for his daily bread, or trusting in God for his eternal salvation, but, mock as men may, there is no other refuge for a soul but God! When the floods are out, there is no safety but in the ark with God. Oh, that men would trust in Him!
 
 7\. Oh that the salvation of Israel were come out of Zion! When the LORD brings back the captivity of His people, Jacob shall rejoice, and Israel shall be glad. May that time soon come! Amen.
-
 
 ---
 [[Sermon 2309 God's Works Made Manifest|← #2309]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2311 Our Lord's Last Cry from the Cross|#2311 →]]

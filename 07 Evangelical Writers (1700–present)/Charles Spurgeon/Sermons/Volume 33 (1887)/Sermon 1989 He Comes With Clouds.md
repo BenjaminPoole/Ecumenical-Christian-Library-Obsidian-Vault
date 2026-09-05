@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # "He Comes With Clouds"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1989
-
-DELIVERED BY.
 
 > "Behold, He comes with clouds; and every eye shall see Him, and they also which pierced Him: and all kindreds of the earth shall wail because of Him. Even so, Amen." Revelation 1:7.
 
@@ -146,7 +143,6 @@ Him."
 But if you will not have my Lord Jesus, He comes all the same for that. He is on the road, now, and when He comes you will wail because of Him! Oh that you would make Him your Friend and then meet Him with joy! Why will you die? He gives life to all those who trust Him. Believe and live!
 
 God save your souls tonight and He shall have the Glory. Amen.
-
 
 ---
 [[Sermon 1988 The Blood of Sprinkling and the Children|← #1988]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1990 A Sermon for the Time Present|#1990 →]]

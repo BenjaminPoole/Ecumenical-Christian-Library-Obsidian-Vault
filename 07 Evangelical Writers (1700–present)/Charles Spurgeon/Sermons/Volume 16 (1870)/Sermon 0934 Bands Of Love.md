@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Bands Of Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 934
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 5, 1870,.
+*Delivered on Lord's-Day Morning, June 5, 1870*
 
 > "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them." Hosea 11:4.
 
@@ -168,7 +167,6 @@ The second word is this—if God has done all this for us, come, my Brother, wha
 The last word is this—all this surely that we have been saying this morning ought to lead those who know not God to desire to know Him. What if His service is conducted not on principles of slavery but of liberty? Will you not take up His yoke? If He takes the bit from the jaws, if He it is that feeds His children and gives them rest, do you not feel drawn to Him? You who are harnessed to the heavy van of this world's care and toil—will you not ask to have such rest as this? You who, like the laborious bullock, have been plowing to and fro in the furrows of your worldly toil seeking rest but finding none, working as the ox does for others, and scarcely having a morsel of fodder for your own mouth—come unto Jesus and He will give you rest.
 
 Take His yoke upon you and learn of Him, for His yoke is easy and His burden is light. O that you would seek Him this day! And if you seek Him He is to be found. He is to be found by the eye of faith that looks out of self to Him. Trust Him—that is the word—and He is yours. God grant you may exercise that trust today, each one of you, and a vision of joy and peace will open before you, the like of which, though a man should tell it to you, you would not conceive to be possible. He that believes in Jesus Christ has life eternal and has Heaven begun. May you have it now for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0933 Angelic Studies|← #933]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0935 The Sad Wonder|#935 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Accepted of the Great Father
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1731
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 15, 1883,.
+*Delivered on Lord's-Day Morning, July 15, 1883*
 
 > "He has made us accepted in the Beloved." Ephesians 1:6.
 
@@ -142,7 +141,6 @@ Guilty as you are, come to Christ this morning! Come! Despise not the exhortatio
 And, then, to close, if you get into Christ you shall be accepted us long as you are in Christ and as the Grace of God will never let you go out of Christ, you shall be accepted forever—"accepted in the Beloved" world without end! If that is
 
 the verdict of this day, it shall be the verdict of every day till days shall be no more! The hope for you dying; the song for your rising again; the verdict which shall be given out when the great assize shall sit and you shall be tried for your life for the last time! They that sit in judgment shall say, "Let that man go! He is accepted in the Beloved." If you believe in Jesus, it shall be so! It IS so! It shall be so forever and ever! God bless you all by His good Spirit, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1730 A Cure For Unsavory Meats—or, Salt for the White of an Egg|← #1730]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1732 In Him Like Him|#1732 →]]

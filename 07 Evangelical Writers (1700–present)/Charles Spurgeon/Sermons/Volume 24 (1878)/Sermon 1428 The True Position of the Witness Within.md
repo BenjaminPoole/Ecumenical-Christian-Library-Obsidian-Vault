@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The True Position of the Witness Within
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1428
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 11, 1878,.
+*Delivered on Lord's-Day Morning, August 11, 1878*
 
 > "He that believes on the Son of God has the witness in himself." 1 John 5:10.
 
@@ -140,7 +139,6 @@ I have shown you that it would be irrational to expect the Spirit of God to set 
 Now, my Hearers, will you believe God or not? Dear Souls, will you believe God or not? "Oh," you say, "but!"— Now, that is not the question! What "but" can there be about this matter? Either the Lord is true or false! I know you can make a hundred "buts," but will you believe God, or will you call Him a liar? O Spirit of the living God, show men the sin of unbelief and bring them to see how just and right a thing it is simply to trust God and believe His witness concerning Jesus Christ!
 
 Now, I put you to this—If God is not worthy to be trusted, say so and go your way! But if He is. If He has spoken the truth, why do you not believe Him? If, after this, you refuse to believe in Jesus, your doom will be upon your own heads! But if you will trust Christ, you may rejoice, for you are saved! This is the Gospel that we are commanded to preach to every creature—"He that believes and is baptized shall be saved, and he that believes not shall be damned." God give His own blessing for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1427 A Wilderness Cry|← #1427]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1429 Faith's Sure Foundation|#1429 →]]

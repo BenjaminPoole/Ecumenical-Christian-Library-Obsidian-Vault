@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 9. No. II The Lollards in Scotland During the Fifteenth Century
 
 ## No. II.
 
-THE LOLLARDS IN SCOTLAND DURING THE FIFTEENTH CENTURY.
+## The Lollards in Scotland During the Fifteenth Century
 
 In tracing the History of the Reformation, we must always revert to a much earlier period than that of Luther. The chief witnesses against the corrupt ceremonies and discipline of the Church of Rome belonged to two distinct sects, but entertaining nearly the same sentiments—the Albigenses, who were chiefly settled about Toulouse and Albigeois, in Languedoc; and the Valdenses, who inhabited the mountainous tract of country, (known as the Cottian Alps,) in the provinces of Dauphine and Provence, in the south of France, and in Piedmont, in the north of Italy. Both sects may be considered as descendants of the primitive Christians, and the long series of persecutions which they endured, may have conduced to spread their opinions in other lands, and to keep alive a spirit of religious inquiry and freedom.
 

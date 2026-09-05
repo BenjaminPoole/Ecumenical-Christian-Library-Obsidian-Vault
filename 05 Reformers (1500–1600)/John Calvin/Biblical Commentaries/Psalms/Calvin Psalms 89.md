@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 89
-
-**PSALM 89**
 
 The prophet who wrote this psalm, whoever he was, in approaching the throne of grace to make supplication to God in behalf of the afflicted Church, lays down, as an encouragement both to himself and the rest of the faithful to cherish good hope, the covenant which God had made with David. He then adverts in general to the Divine power which is discerned in the whole government of the world. And next, he calls to remembrance the redemption in which God had given an everlasting testimony of his fatherly love towards his chosen people. Thence, he again returns to the covenant made with David, in which God had promised to continue his favor towards that people for ever, for the sake of their king. Finally, he subjoins a complaint that God, as if he had forgotten his covenant, abandoned his Church to the will of her enemies, and, in the midst of strange disaster and mournful desolation, withheld all succor and consolation.
 

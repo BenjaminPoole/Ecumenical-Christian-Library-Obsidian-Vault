@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 9. Christ's Holy Sufferings
-
-## Christ’s Holy Sufferings
 
 ## by Martin Luther (1483-1546)
 

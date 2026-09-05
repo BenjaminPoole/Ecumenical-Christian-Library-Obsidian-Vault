@@ -10,10 +10,11 @@ written: "c. 1740s–1750s (Edwards' notes); published posthumously, 1793"
 tags:
   - jonathan-edwards
 ---
+# Chapter VII. Of the Perseverance of Saints
 
-CHAP. VII.
+## Chap. VII
 
-CONCERNING THE PERSEVERANCE OF SAINTS.5
+## Concerning the Perseverance of Saints.5
 
 § 1. there is just the same reason for those commands of earnest care and laborious endeavours for perseverance, and threatenings of defection, notwithstanding its being certain that all that have true grace shall persevere, as there is for earnest endeavours after godliness, and to make our calling and election sure, notwithstanding all that are elected shall undoubtedly be saved. For as the case with respect to this is the same, decree or no decree, every one that believes shall be saved, and he that believes not shall be damned. They that will not live godly lives, find out for themselves that they are not elected; they that will live godly lives, have found out for themselves that they are elected. So it is here: he that to his utmost endeavours to persevere in ways of obedience, finds out that his obedience and righteousness are true; and he that does not, discovers that his is false.
 

@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 161
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Amphilochius on his consecration as Bishop.
 

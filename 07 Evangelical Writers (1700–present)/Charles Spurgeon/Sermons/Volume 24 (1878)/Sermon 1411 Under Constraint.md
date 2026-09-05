@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Under Constraint
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1411
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 28, 1878,.
+*Delivered on Lord's-Day Morning, April 28, 1878*
 
 > "For the love of Christ constrains us; because we thus judge, that if One died for all, then were all dead." 2 Corinthians 5:14.
 
@@ -101,7 +100,7 @@ Dirty little creatures in the gutter. Filthy women polluting the streets. Base m
 
 The love of Jesus Christ was a practical love. He did not love in thought, only, and in word, but in deed and in truth—and if the love of Christ constrains us—we shall throw our souls into the work and service of love. We shall be really at work for men, giving alms of our substance, enduring our measure of suffering and making it clear that our Christianity is not mere talk, but downright work! We shall be like the bullock of the burnt offering, laid upon the altar to be wholly consumed. We shall consider nothing but how we can most completely be eaten up with the zeal of God's House, how without the reserve of one single faculty we may be entirely consumed in the service of our Lord and Master. May the Lord bring us to this!
 
-II. THE CONSTRAINT OF WHICH WE HAVE SPOKEN WAS JUSTIFIED BY THE APOSTLE'S
+## II. The Constraint of Which We Have Spoken Was Justified by the Apostle's
 
 UNDERSTANDING. "The love of Christ constrains us; because we thus judge." Love is blind. A man may say that in the affairs of love he exercises a calm discretion, but I take leave to doubt it. In love to Christ, however, you may be carried right away and be as blind as you like and yet you shall act according to the most sound judgment. The Apostle says warmly, "The love of Christ constrains us," and yet he adds with all coolness, "because we thus judge." When understanding is the basis of affection, then a man's heart is fixed and his conduct becomes in a high degree exemplary. So it is here.
 
@@ -132,7 +131,6 @@ You will be very little distressed by sharp criticisms if you know that your mot
 Would you like to fall asleep and die with that as the consummation of your life? Or shall it be, "I have lived to hold up my head in society and pay my way and leave a little for my family"? Will that satisfy you as your last reflection? Brothers and Sisters, we are not saved by our works, but I am speaking, now, upon the consolation which a man can derive from looking back upon his life. Suppose he shall have felt the power of my text and shall be able to say, "I have been enabled, by the Grace of God, to which I give all the glory, to consecrate my entire being to the entire glorification of my Lord and Master. And whatever my mistakes, and they are many—and my wanderings and failures, and they are countless—yet the love of Christ has constrained me, for I judged myself to have died in Him, and I have lived to Him. I have fought a good fight. I have kept the faith"?
 
 Why, I think it were worth while so to die! To be constrained by the love of Christ creates an heroic life, exalted, illustrious—no, I must come down from such lofty words—it is such a life as every Christian ought to live! It is such a life as every Christian must live if he is really constrained by the love of Christ, for the text does not say the love of Christ ought to constrain us—it declares that it does constrain us. Brothers and Sisters, if it does not constrain you, judge yourselves that you be not judged and found wanting at the last! God grant we may feel the love of God shed abroad in our hearts by the Holy Spirit. Amen.
-
 
 ---
 [[Sermon 1410 Believers Free from the Dominion of Sin|← #1410]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1412 Where True Prayer is Found|#1412 →]]

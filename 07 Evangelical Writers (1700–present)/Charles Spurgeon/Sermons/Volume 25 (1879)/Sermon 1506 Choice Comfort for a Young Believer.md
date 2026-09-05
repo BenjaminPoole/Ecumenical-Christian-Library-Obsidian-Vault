@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Choice Comfort for a Young Believer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1506
-
-DELIVERED BY.
 
 > "The Lord will perfect that which concerns me: Your mercy, O Lord, endures forever: forsake not the works of Your own hands." Psalm 138:8.
 
@@ -150,7 +147,6 @@ Before His Father's face,
 And in the New Jerusalem
 
 Appoint my soul a place."
-
 
 ---
 [[Sermon 1505 Prayer to God in Trouble an Acceptable Sacrifice|← #1505]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1507 Soul Saving Our One Business|#1507 →]]

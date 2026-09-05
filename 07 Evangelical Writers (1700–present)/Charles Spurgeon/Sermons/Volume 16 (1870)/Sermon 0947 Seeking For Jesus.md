@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Seeking For Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 947
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 21, 1870,.
+*Delivered on Lord's-Day Morning, August 21, 1870*
 
 > "Seeking for Jesus." John 6:24.
 
@@ -186,7 +185,6 @@ How I have longed, this morning, for a tongue like the pen of a ready writer! Ho
 I shall probably never address many of you again, certainly not all of you. You have come across the sea and you are going to the ends of the earth, some of you. I speak in God's name. O now, before you have gone from under the sound of the Word, now let the believing look be given—"Look unto Me, and be you saved, all the ends of the earth." It is the cry of the crucified Savior! Turn not away from that dear voice so full of anguish! Hide not your eyes from that brow still marked with the crown of thorns!
 
 Despise not those nailed hands and feet, but yield to Him as again He cries in agony of love, "Look unto Me, and be you saved, all the ends of the earth." O Lord, turn them! And they shall be turned. Amen.
-
 
 ---
 [[Sermon 0946 The Profit Of Godliness In The Life To Come|← #946]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0948 A String Of Pearls|#948 →]]

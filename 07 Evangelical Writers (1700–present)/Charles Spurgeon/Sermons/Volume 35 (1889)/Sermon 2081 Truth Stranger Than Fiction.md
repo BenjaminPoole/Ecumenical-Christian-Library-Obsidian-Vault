@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Truth Stranger Than Fiction
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2081
 
-DELIVERED ON LORD'S DAY EVENING, MAY 30, 1886,.
+*Delivered on Lord's Day Evening, May 30, 1886*
 
 > "And I will restore to you the years that the locust has eaten." Joel 2:25.
 
@@ -89,7 +88,7 @@ God have mercy upon you! Come, and receive His restoring mercy. He will not cast
 
 II. What does God say? "I will restore unto you the years that the locust has eaten." This is our second head—
 
-LOCUST-EATEN YEARS RESTORED.
+## Locust-Eaten Years Restored
 
 Notice, this is Divine Work, "I will restore unto you the years that the locust has eaten." You cannot get them back. Nobody can give them back to you. But the Omnipotent Jehovah says, "I will restore them to you." Can you believe that? All things are possible with God. Those dead years, those doleful years, those desponding years, those idle years, those backsliding years—all the harvests of them, God can give them back to you. Look away from yourself and trust in the miracle-working God while you hear this word of promise, "I will restore unto you the years which the locust has eaten."
 
@@ -152,7 +151,6 @@ And then, best of all, the anointing shall come upon you. You remember how the c
 O Lord, find ministers among these miserable sinners! Raise up for yourself witnesses from among these careless youths! I think I see the angel even now, and hear the voice from off the Throne, crying, "Whom shall I send and who will go for Us?" Oh, that one of the seraphims might take from off the altar the live coal and touch some unclean lip and inflame some cold heart and make the purified man to answer, "Here am I, send me." Then shall you be sent to tell abroad the riches of the Divine Grace of which you have tasted—the freeness of the love which has been manifested to you. May the Lord grant it!
 
 May the locusts all be blown away by a strong north wind and never darken the air again! May these wasted years all be given back to you and may you become the Lord's living, loving servants from this time forth. Oh for the highest form of spiritual life! Oh for the greatest possible usefulness! Oh for grace to fill out our poor shriveled lives till they arrive at a heavenly fullness! Oh for the sacred breath of God to fill out all the canvas of our capacity! Lord, the sail flaps. The boat scarcely moves. We lie becalmed in indolence! Send us a breeze, my God! Grant us the wind of Your Spirit to fill out every sail that by Your Grace we may fly over the waves. Amen.
-
 
 ---
 [[Sermon 2080 The Power of His Resurrection|← #2080]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2082 A Free Grace Promise|#2082 →]]

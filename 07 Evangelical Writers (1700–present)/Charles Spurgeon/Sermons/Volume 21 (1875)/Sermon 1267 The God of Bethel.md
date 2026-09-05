@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The God of Bethel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1267
-
-DELIVERED BY.
 
 > "I am the God of Bethel." Genesis 31:13.
 
@@ -166,7 +163,6 @@ Though Judas said, "To what purpose is this waste?" she did not care much about 
 So the vow is part and parcel of the title which God loves to remember! And He would have us lovingly remember, too. Dear Friends, I am afraid there are some among you who do not know the God of Bethel. Let me tell you that He is the God you need—the God of Jesus Christ. Jesus Christ is the only Ladder for your poor souls to get to Heaven by. This is a Ladder with easy rungs. It is a Ladder strong enough to bear the biggest sinner that ever tried his weight on it! And if you will but come and trust Jesus, you shall go up that Ladder, even to the place where Jehovah dwells in all His purity and you shall be with Him forever and ever!
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 28. HYMN FROM OUR "OWN HYMN BOOK"—214, 125.
-
 
 ---
 [[Sermon 1266 Paul's Doxology|← #1266]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1268 The Story of a Runaway Slave|#1268 →]]

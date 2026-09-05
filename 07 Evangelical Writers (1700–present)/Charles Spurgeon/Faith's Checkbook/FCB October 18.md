@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**TEARS, THEN JOYFUL HARVEST**
+## **Tears, Then Joyful Harvest**
 
 > They that sow in tears shall reap in joy" Ps. 126:5
 
@@ -23,7 +22,6 @@ Weeping times are suitable for sowing: we do not want the ground to be too dry. 
 Our heavenly seed could not fitly be sown laughing. Deep sorrow and concern for the souls of others are a far more fit accompaniment of godly teaching than anything like levity. We have heard of men who went to war with a light heart, but they were beaten; and it is mostly so with those who sow in the same style.
 
 Come, then, my heart, sow on in thy weeping, for thou hast the promise of a joyful harvest. Thou shalt reap. Thou, thyself, shalt see some result of thy labor. This shall come to thee in so large a measure as to give thee joy, which a poor, withered, and scanty harvest would not do. When thine eyes are dim with silver tears, think of the golden corn. Bear cheerfully the present toil and disappointment; for the harvest day will fully recompense thee.
-
 
 ---
 [[FCB October 17|← October 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 19|October 19 →]]

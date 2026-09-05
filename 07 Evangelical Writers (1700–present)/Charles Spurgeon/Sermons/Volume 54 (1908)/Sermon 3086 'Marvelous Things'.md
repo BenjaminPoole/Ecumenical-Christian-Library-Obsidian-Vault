@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # 'Marvelous Things'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3086
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O sing unto the LORD a new song, for He hats done marvelous things: His right hand and His holy arm have gotten Him the victory. The LORD has made known His salvation: His righteousness has He openly showed in the sight of the heathen." Psalm 98:1,2.
 
@@ -157,7 +154,7 @@ This is the lower part of the choir. Some of the singers are up in the galleries
 
 But whether you will rejoice or not, my soul does magnify the Lord and my spirit does rejoice in God my Savior! And so I will, by His help, till death suspends these mortal songs, or melts them into the immortal songs before the Throne of God! God bless you, Brothers and Sisters, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 116.
+## Exposition by C. H. Spurgeon: Psalm 116
 
 1\. I love the LORD because He has heard my voice and my supplications. [See Sermon #240, Volume 5—prayer answered, LOVE NOURISHED] Every answered prayer should make us love the
 
@@ -208,7 +205,6 @@ bonds. [See Sermon #312, Volume 6—PERSONAL SERVICE] The Psalmist
 said that he was a home-born slave because his mother was a servant of God and he was born, as it were, a servant of his mother's Lord. How delightful it is to be a Christian and the son of a Christian! Let us rejoice and be glad if that is our happy lot. It is more honor to have had a mother who feared the Lord than a mother who was princess or an empress, but who had not the Grace of God in her heart.
 
 17-19. I will offer to You the sacrifice of thanksgiving, and will call upon the name of the LORD. I will pay my vows unto the LORD now in the presence ofall His people, in the courts of the LORD'S house, in the midst of you, O Jerusalem. Praise you the LORD.
-
 
 ---
 [[Sermon 3085 An Exciting Enquiry|← #3085]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3087 A Time of Finding for Lost Sheep|#3087 →]]

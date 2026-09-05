@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'Take Away the Frogs'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3340
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Pharaoh called for Moses and Aaron, and said, Entreat the Lord, that He may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the Lord." Exodus 8:8.
 
@@ -29,7 +26,7 @@ There was a suitableness in God's choosing the frogs to humble Egypt's king, bec
 
 The Lord has sure ways of reaching the hearts of proud men and if He does not use frogs, today, He can use other means, for He has servants everywhere prepared for each emergency. He knows how to reach the rich and make them sit by the wayside, like Belisarius, begging for food. The strong and healthy man, He can soon place among the invalids and make him cry like a sick girl, "Give me a drink, Titinius." Your children are about you today—your pride and joy—but He can make you childless in an hour. His arrows can pierce through a sevenfold harness of steel—no man is so encompassed as to be beyond the reach of the Almighty! Let me speak of Pharaoh by way of observation and I will begin by remarking that—
 
-I. IN SORE TROUBLE, THE SERVANTS OF THE LORD ARE GREATLY VALUED.
+## I. In Sore Trouble, the Servants of the Lord Are Greatly Valued
 
 "Then Pharaoh called for Moses and Aaron." The frogs had taught him good manners and he longs to see the ministers of the Lord. How is this? The man was somewhat brought to his senses—and when this happens, men begin to value those whom they aforetime despised. Listen to this story. There came a man of God to Bethel where king Jeroboam was
 
@@ -51,7 +48,7 @@ Savior."
 
 It is clear that in times of trouble godly men and women are at a premium! Secondly, with ungodly men—
 
-II. IN TIMES OF SORE TRIAL PRAYER ALSO BEGINS TO BE VALUABLE.
+## II. In Times of Sore Trial Prayer Also Begins to Be Valuable
 
 Then Pharaoh called for Moses and Aaron and said, "Entreat the Lord." Pharaoh begs an interest in the prayers of good men—this is a fine change since the day wherein he said, "Who is Jehovah that I should obey His voice?"
 
@@ -69,7 +66,7 @@ In many instances this desire for prayer is one of the movements of the Spirit u
 
 Take warning, you that do not pray—you will yet need to pray! There will come a time to the most of you when you will not be able to bear yourselves without crying unto God. May God, in His Infinite Mercy lead you to begin at once! For when it can be said of you, "Behold, he prays," it will be the best of news! Beginning to pray is the turning point of life! Why not at once set a high price upon that which in times of trouble you will seek for with tears? Our third observation is this—
 
-III. IN SORE TROUBLE THE PRAYER IS OFTEN A WRONG ONE.
+## III. In Sore Trouble the Prayer Is Often a Wrong One
 
 The petitions which men offer when they are in distress are often wrong prayers. Pharaoh said, "Entreat the Lord, that He may take away the frogs from me."
 
@@ -81,7 +78,7 @@ Pharaoh's prayer dealt only with the punishment''Take away the frogs! Take away 
 
 When ungodly men are under a sense of Divine Wrath they turn not to God aright—their prayer is devoid of spiritual requests. When Cain had murdered his brother, did he express a regret? No. He only murmured, "My punishment is greater than I can bear." Esau sold his birthright. Did he repent of the sin of having been a profane person, and seek pardon carefully? Not he! He sought carefully with tears to get back his birthright, but he found no place for repentance in his father Isaac! The blessing had gone to Jacob and on Jacob it must remain. Another telling case is that of Simon Magus. When Peter told him that he was in the gall of bitterness and in the bond of iniquity, he replied, "Pray you to the Lord for me that none of these things which you have spoken come upon me"—that was all he cared about. He expressed no desire to be delivered from his evil way, but only to be screened from the consequences of it! Every knave cries out against punishment—but he is attaining to honesty who entreats to be freed from his pilfering habits! Our last remark is that—
 
-IV. THE SINNER IN HIS SORE TROUBLES IS VERY APT TO MAKE GREAT PROMISES.
+## IV. The Sinner in His Sore Troubles Is Very Apt to Make Great Promises
 
 Pharaoh cried, "Take away the frogs and I will let the people go, that they may do sacrifice unto the Lord." In this way one of you talked when you were down with fever, or when you were likely to lose your employment through your folly. You said, "Please God, if You let me escape this once, I will be a very different man." Such promises are generally boastful. Notice here the proud language of Pharaoh. "I will let the people go." He does not long talk in this fashion, but now he is a great king and he gives his royal word, "I will let the people go." Some folks are very big when they promise God, "Iwill do this and I will do that." But you cannot, my Friend! You reply that you are going to have a new heart and a right spirit. Are you looking to create them yourself? You talk as if you were! I think you said that you were going to "turn over a new leaf," but a new leaf in a bad book may be worse than the old leaf! But you are going to be entirely new, are you? Are you to do all this yourself? You are greatly mistaken—true conversion does not begin by talking of what "I' will do! It begins in casting ourselves upon the Lord and begging Him to work all our works in us!
 
@@ -97,7 +94,7 @@ Then the Lord began to deal with him in another way. He had a bad season and los
 
 But oh, you ungodly, if He will deal thus with His children, how will He deal with you who are not His children? If He means to bless you, He will not let you go unpunished, but He will smite you with heavy strokes. I remember one who used to bless God for a broken leg—he said that he never ran in the ways of God until he was lame. I believe that some parents never loved the heavenly Father till their dear infant child was taken away. The shepherd tried to get the mother sheep into the fold, but she would not come, so he took up her lamb and carried it away in his arms—and then the mother followed him! He has done that to some of you. You would never have come to Christ if dear little Johnny had not gone Home to Jesus. You lost one and another for that same purpose—have you not had enough strokes? You have been smitten till your "whole head is sick and your whole heart faint." Will you not turn unto your God without more ado? His blows are sent in mercy! It is far better that you should have a Hell here than Hell hereafter! It were better for you to live a lifelong agony than to be cast into Hell forever! Believe in the Lord Jesus Christ and you shall be saved! He died for sinners—died for aggravating, guilty, willful sinners! And if they look to Him, they shall at once be forgiven! I cannot give the look of faith for you, or I would gladly do so, but I beseech you to look and live! May God the Holy Spirit lead you to do so, for Jesus' sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON: EXODUS3:1-14; ROMANS 9:1-25.
+## Expositions by C. H. Spurgeon: Exodus 3:1-14; Romans 9:1-25
 
 This Chapter in Exodus tells of the appearance of God to Moses in the Wilderness. Has He departed from us, Brothers and Sisters? He used to be seen by godly souls by mount and stream and sea—and even bushes were alive and blazing with the indwelt Godhead! Oh, that He would reveal Himself to us tonight! I am going to read this Chapter with this longing in my heart. I pray that the same longing may be in the heart of every child of God—"Show me Your face: show me Your face, my God, tonight!"
 
@@ -152,7 +149,6 @@ Verses 1, 2. I say the truth in Christ, I lie not, my conscience also bearing me
 17-24. For the Scripture says unto Pharaoh, Even for this samepurpose have Iraisedyou up, that Imight showMy power in you, and that My name might be declared throughout all the earth. Therefore has He mercy on whom He will have mercy, and whom He will, He hardens. You will say then unto me, Why does He yet find fault? For who has resisted His will? No but, O man, who are you that replies against God? Shall the thing formed say to Him that formed it, Why have You made me thus? Has not the potter power over the clay, of the same lump to make one vessel unto honor, and another unto dishonor? What if God, wiiling to show His wrath, and to make His power known, endured with much long-suffering the vessels of wrath fitted to destruction? And that He might make known the riches of His Glory on the vessels ofmercy, which He had before prepared unto Glory, even us, whom He has called, not ofthe Jews only, but also of the Gentiles?'There was the sting of it. They could not endure that God should, in His Divine Sovereignty save Gentiles as well as Jews! But He has done so and He has sent the Gospel to us while they, having refused it, are left in the darkness which they chose.
 
 25\. As He says also in Hosea, I will call them My people, which were not My people: andher beloved, which was not beloved.Oh, what a splendid verse is this! Let some here who have been far from God until now and never had a gracious thought, nevertheless hear what He has done and will do again! "I will call them My people that were not My people, and her beloved which was not beloved."
-
 
 ---
 [[Sermon 3339 The Heart Perfumed|← #3339]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3341 'The Oil of Joy for Mourning'|#3341 →]]

@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 198. Matthew 26:31-35; Mark 14:27-31; Luke 22:31-34
-
-MATTHEW 26:31-35; MARK 14:27-31;  
-LUKE 22:31-34
 
 **31.** Then Jesus saith to them, You will all be offended at me this night; for it is written, I will strike the Shepherd, and the sheep of the flock will be scattered. **32.** But after that I have risen, I will go before you into Galilee. **33.** And Peter answering said to him, Though all should be offended at thee, yet I will never be offended. **34.** Jesus said to him, Verily I tell thee, That this night, before the cock crow, thou wilt thrice deny me. **35.** Peter saith to him, Though I should die with thee, I will not deny thee. In like manner also all the disciples spoke.
 

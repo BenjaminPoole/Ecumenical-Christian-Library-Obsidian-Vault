@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Charity
 
-Chapter VII · *Practical Religion* — J. C. Ryle
+## Chapter VII · *Practical Religion* — J. C. Ryle
 
 >  *Now abideth faith, hope, charity, these three; but the greatest of these is charity.* "—1 Cor. xiii. 13.
 
@@ -156,7 +155,6 @@ Give yourself no rest till you know something by experience[Pg 181] of real Chri
 Practice charity diligently. It is one of those graces, above all, which grow by constant exercise. Strive more and more to carry it into every little detail of daily life. Watch over your own tongue and temper throughout every hour of the day,—and especially in your dealings with servants, children, and near relatives. Remember the character of the excellent woman:—"In her tongue is the law of kindness." (Prov. xxxi. 26.)—Remember the words of St. Paul: "Let ALL your things be done with charity." (1 Cor. xvi. 14.) Charity should be seen in little things as well as in great ones.—Remember, not least, the words of St. Peter: "Have fervent charity among yourselves;" not a charity which just keeps alight, but a burning shining fire, which all around can see. (1 Pet. iv. 8.) It may cost pains and trouble to keep these things in mind. There may be little encouragement from the example of others. But persevere. Charity like this brings its own reward.
 
 Finally, teach charity to others. Press it continually on servants, if you have any. Tell them the great duty of kindness, helpfulness, and considerateness, one for another. Press it, above all, on children, it you have any. Remind[Pg 182] them constantly that kindness, good nature, and good temper, are among the first evidences which Christ requires in children. If they cannot know much, or explain doctrines, they can understand love. A child's religion is worth very little if it only consists in repeating texts and hymns. Useful as they are, they are often learned without thought, remembered without feeling, said over without consideration of their meaning, and forgotten when childhood is gone. By all means let children be taught texts and hymns; but let not such teaching be made everything in their religion. Teach them to keep their tempers, to be kind one to another, to be unselfish, good-natured, obliging, patient, gentle, forgiving. Tell them never to forget to their dying day, if they live as long as Methuselah, that without charity, the Holy Ghost says, "we are nothing." Tell them " *above all things* to put on charity, which is the bond of perfectness." (Colos. iii. 14.)
-
 
 ---
 [[PR 06 Going to the Table|← Going to the Table]] · [[Practical Religion|Practical Religion Contents]] · [[PR 08 Zeal|Zeal →]]

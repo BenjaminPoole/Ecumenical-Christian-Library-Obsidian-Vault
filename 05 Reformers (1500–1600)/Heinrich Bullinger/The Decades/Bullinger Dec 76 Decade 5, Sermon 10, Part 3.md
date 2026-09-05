@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 76. Decade 5, Sermon 10, Part 3
 
 I will not allege testimonies out of the law and the prophets, (although they exist there in large abundance,) but only from the writings of the evangelists and apostles, which teach with one accord that unto them that believe sins are forgiven freely for Christ's sake. The Baptist, our Lord's forerunner, points the finger to the johni. Lord Jesus Christ himself, and cries: "Behold the Lamb of God, which taketh away the sin of the world." For the apostle John has 1 john i. ii. said : " The blood of the Son of God eleanseth us from all sin. For he is the propitiation for our sins ; and not for ours only, but also for the sins of the whole world." Nay, the Lord Jesus himself tesjohn i ii. tifies of these things, and says : " As Moses lifted up the serpent in
@@ -26,7 +25,7 @@ And yet the faith, which believeth that our heavenly Father is Faith stirreth ap
 
 [4 sola fide, Lat.]
 
-552 APPENDIX II.
+## 552 Appendix II
 
 that bringeth his gift to the altar must first be reconciled to his brother, and then let him offer his gift. And let all be kept in the practice of prayer by that word of our Lord's in the gospel : " Ask, and it shall be given you ; seek, and ye shall find ; knock, and it shall be opened unto you. For every one that asketh recciveth ; and he that seeketh findcth ; and to him that knocketh it shall be opened. Or what man is there of you, whom if his son ask bread, will he give him a stone? Or if he ask a fish, will he give him a serpent? If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him1!" Furthermore, Holy Jeremiah, however, although he prayed at times for the we mutt live J ' _ ° r J hoiiiy.righteLord's people fervently and continually, yet heard from the Lord ou^ly.and i r j .
 
@@ -46,7 +45,7 @@ Finally, in addition to all this we need long-suffering, patience, There l» nee
 
 And now, briefly to sum up what I have discoursed of with T.he sum of you, reverend and most dear fellow-ministers and brethren : — We have learnt by all that has been said, that God, when he is provoked by our sins, cannot otherwise be appeased than by our acknowledging every one of us and confessing our sins, which the word of God has brought home to us, and which we have committed against God our Father ; by our humbling ourselves, and sorrowing before our God with all our heart ; by our not yielding to despair on account of our sins, but believing without doubt that they are [" Psal. exxvii. 1.]
 
-554 APPENDIX II.
+## 554 Appendix II
 
 done away entirely and forgiven us, not for our sake or merits, but for the sake of Jesus Christ our Lord, the Saviour of the whole
 
@@ -72,7 +71,7 @@ But certain it is that a kingdom or commonweath, which repents The impeninot and
 
 [' Isai. iii.10, 11.] [2 Isai. xxii. lo-l(J.] [3 2 Pet. ii. 9.]
 
-APPENDIX II.
+## Appendix II
 
 obey not my voice, then I will repent of the good wherewith I said I would benefit them." Still let no one forthwith despair, whin lie sees a people, that is inclined to wickedness, rush on from sin to sin : but if you see many breaking forth in their obstinate love of iniquity, harden your heart also, and all the more oppose yourself to them with zealous desire of that which is just and true. For in such a case we must remember the words of the apostle, where he says :
 
@@ -104,7 +103,7 @@ conquers : it may be pressed, but it be oppressed. The truth of tli e Lord, s-iy
 
 E H. Vol. in. p i . . - [s DeaetaLGiegor.Pai IX L. . " //. - .
 
-558 APPENDIX II.
+## 558 Appendix II
 
 God ;" and concerning which Paul disputed and said, " That rock was Christ." " For other foundation can no man lay than that is laid, which is Christ Jesus1." For the Holy Spirit also foretold by the prophets : " Behold, I lay in Zion for a foundation a stone, a corner stone, elect, precious : and he that believeth on him shall not be confounded2." Upon this foundation therefore, Christ Jesus, who elsewhere is called " the foundation of the prophets and apostles3," let us settle the people or churches committed to our charge : that so, according to the doctrine of St Peter, the teacher of our church, we also, " as lively stones, may be built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ our Lord4." This if we do faithfully, the Lord will never leave us : for whether we live or die, the Lord will be our rock, reward, life, and recompence.
 
@@ -112,7 +111,7 @@ Receive then these my labours with indulgence, and take them in good part. They 
 
 Your brother and fellow-minister, "With all his heart,
 
-HENRY BULLINGER.
+## Henry Bullinger
 
 Zurich, 1 March, 1549.
 
@@ -122,9 +121,9 @@ Zurich, 1 March, 1549.
 
 [5 Col. iv. 17.]
 
-INDEX
+## Index
 
-OF SUBJECTS AND PERSONS.
+## Of Subjects and Persons
 
 The former number marks the Volume, the latter the page.
 
@@ -258,7 +257,7 @@ Amasia, i. 384; ii. 8.
 
 5G0
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 AmasiaSj iv. 71. Amathas, iv. .r)14.
 
@@ -286,7 +285,7 @@ Arms, a comparison from the use of, iv. 314. Artaxerxes, i. 318, 326 ; ii. 13. A
 
 Article of the Christian Faith, the first, i. 124; the second, 127; the third, 130; the fourth, 134; the fifth, 140; the sixth, 143; the seventh, 152; the eighth, 155 ; the ninth, 157 ; the tenth, 164; the eleventh, 168; the twelfth, Artotyrites, iv. 410. Asa, i. 221, 384; ii. 7. Asaph, iii. 207.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Ascension-day, i. 200.
 
@@ -360,13 +359,13 @@ Belisarius, ii. 109. Bells, iv. 502 ; the christening of, ib. ;
 
 the ringing of, ib. Benedictines, iv. 515. Benefices, plurality of, iv. 144; the spoil of the church, ib. Benefits of God to be acknowledged, iv.
 
-Benet, iii. 295 ; iv. 515 ; order and celebrated men of, ib. Benjamites, the, i. 375; slain for the Le- vite's concubine, 417. Bernard, St, iii. 117 ; iv. 382. Berne, iv. 9, 283. Beseechings, iv. 164. Bethel, iv. 165. Bethesda, ii. 98. Bethsaida, iii. 112. Bethsemes, ii. 148 ; iv. 295. Bezaleel, ii. 150. Bind and loose, how apostles did, iv.
+Benet, iii. 295 ; iv. 515 ; order and celebrated men of, ib. Benjamites, the, i. 375; slain for the Le-vite's concubine, 417. Bernard, St, iii. 117 ; iv. 382. Berne, iv. 9, 283. Beseechings, iv. 164. Bethel, iv. 165. Bethesda, ii. 98. Bethsaida, iii. 112. Bethsemes, ii. 148 ; iv. 295. Bezaleel, ii. 150. Bind and loose, how apostles did, iv.
 
 Birth of Christ, i. 133. Bishops, iv. 116, 117 ; succession of, 28 and elders, equality between, 109 when the prerogative of, began, 110 the dignity and prerogative of, increased, 112; courts of, ib.; alone have not power to make ministers, 133; the oath of, 141, 530; not permitted to make new laws, 151 ; of the holy and unblameable life of, 158 ; the Greek, 190.
 
 5G2
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Blasphemy, what it is properly, ii. 421 ; against the Son of man, 122 ; against the holy Ghost, ib.
 
@@ -534,7 +533,7 @@ Cham, i. 210,287.
 
 Chamber, to pray in the, iv. 184.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 5G3
 
@@ -574,7 +573,7 @@ Christians, the righteousness of, imputative, iii. 46 ; are kings, 289 ; are
 
 5G4
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 priests 290 ; there are hut few, 293; against false, 295 ; how they prayed, iv. 186 ; are soldiers of Christ, 230.
 
@@ -662,7 +661,7 @@ Confession of sins, iii. 69 ; ordained of God, 70; privately made to God, 71 ; p
 
 Confessions of sins, ordained of men, iii. 75.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 5G5
 
@@ -720,7 +719,7 @@ Council a, power to call, iv. 4".
 
 Council, at Ca;sarea PhUippi, iii. 51 ; at Capernaum, ib. ; of Cartilage HI., iv. 193, 539; IV., iv. 114, 136, 139,370, 376 ; of Chalcedon, i. 14 ; not contrary to Cyril, 19 ; of Constance, iv. 416; of Constantinople I., i. 13; II., i. 14; of Ephesus, i. 14; of Gangra, ii. 24; of Hierusalem, ii. 272, 275; of Laodicea, iv. 192 ; of Lateran IV., iii. 82, 86 ; iv. 278, 557 ; of Matiscon, iv. 367 ; of Mavence, ib. ; of Milevi, iii. 10 ; of Nice, i. 12, 56 ; iv. 309 ; of Orange II., iii. 10 ; of Paris VI., iv. 367 ; of Toledo I., i. 22; ii. 363; iii. 268; IV., i. 25; iv. 365; of Trent, iii. 119; iv. 529 ; design of, iv. 529 ; indiction of, 530 ; decrees of, 531, 532 ; of Triburia, iv. 420 ; of Worms, iv. 367.
 
-Councils, holy scripture the guide of, i. 13 ; general, what at this day Chris- tians may look for by, iii. 117; the four general, i. 12; of the apostles, iii. 52 ; what have been held in latter ages, 110.
+Councils, holy scripture the guide of, i. 13 ; general, what at this day Chris-tians may look for by, iii. 117; the four general, i. 12; of the apostles, iii. 52 ; what have been held in latter ages, 110.
 
 Cousins, meant by parents, i. 269.
 
@@ -774,7 +773,7 @@ and his three companions, 270 ; cast into the lions' den, 318; confession of, ii
 
 ii. 13. Dathan, ii. 131; iv. 11.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 David, iv. 122, 1G7, 169, 170, 175, 18G, 191,481; swears rashly, i. 251; how behaves under Saul, 316; brings the ark to its place, 325 ; a captain, 384, 38G; the adultery of, 413 ; the happiest of kings, ii. G ; the hope of, 89 ; the humility of, 94 ; the afflictions of, 103 ; brings music into the temple, 141 ; divides the priests into 24 orders, il).; humbled by the sin of Absalom, 431 ; what thought of justification, iii. 47 ; always of chief account in the church, 49 ; corrected for his sin after it was forgiven, 91 ; celebrateth the creation, 175; offended in carrying the ark, iv. 22 ; faith of, 551.
 
@@ -836,7 +835,7 @@ Didymus, Alexandrinus, iii. 302. Difference of the old and new Testament and peo
 
 Diphyes, ii. 218. Dipping in baptism, once or thrice, iv.
 
-Disciples, the, iv. 70, 117; at Ephesus baptized with fire, 356. Discipline and correction of ministers, iv. 504 ; of schools ; iv. 485. Discipulus (John Herolt), sermons of, iv. 557. Discommodities, the saints suffer,recom- pensed with other commodities, ii. 99. Discretion of the judge, i. 356. Disinheriting, ii. 226. Dispensation, mystery of the, iii. 158. Dissemblers, iv. 12, 13. Divinity, mystical and symbolical, iv. 238. Division of goods, ii. 228. Divorcements, ii. 228; iv. 511. " Do this in remembrance of me," iv.
+Disciples, the, iv. 70, 117; at Ephesus baptized with fire, 356. Discipline and correction of ministers, iv. 504 ; of schools ; iv. 485. Discipulus (John Herolt), sermons of, iv. 557. Discommodities, the saints suffer,recompensed with other commodities, ii. 99. Discretion of the judge, i. 356. Disinheriting, ii. 226. Dispensation, mystery of the, iii. 158. Dissemblers, iv. 12, 13. Divinity, mystical and symbolical, iv. 238. Division of goods, ii. 228. Divorcements, ii. 228; iv. 511. " Do this in remembrance of me," iv.
 
 Docetse, i. 132. Doctors, iv. 106, 116. Doctrine of the fathers and ours one, ii.
 
@@ -852,7 +851,7 @@ Drink, continency in, i. 423. Drink-offerings, ii. 191. Drunkenness, i. 423 ; a 
 
 E. Ease, i. 257. Easter, question about, iv. 57, 504, 537 ;
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 day, i. 2G0; a time for baptism, iv.
 
@@ -1006,7 +1005,7 @@ Face of God, i. 179.
 
 Faith, i. 44, 81 ; iv. 24 ; definitions of, 82; description of true, 84; the beginning and cause of, ib. ; planted by the word of God, ib. ; we must pray for true, 86; is an undoubted persuasion of the mind, 87 ; believeth not every thing, 90 ; examples of undoubted, 91 ; whereunto it leaneth, 92; two chief points of, 94; seeketh all good things in God through Christ, 95 ; believeth the holy Scriptures, 96 ; is one alone, 97 ; the Indian, 98 ; of the Georgians, ib. ;
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 increases and decreases, ib. ; general, and particular, 9!) ; inspired and gotten, 100 ; formal, ib. ; power and effect of, 101 ; is true knowledge, ib. ; makes happy, 102 ; quickeneth, 103 ; joineth to God, ib. ; justineth, 104; Gentiles as well as Jews justified by, 115; not without effect, 117 ; sheweth itselt'byg-ood works, 11 8; only justineth, ib.; root of all good works, 120; the victory of all Christians, ib. ; the gift of God, 363 ; whether lawful to compel one to, 364; and hope, ii. 88; the fathers and we have one, 284; and love, the places of that seem to disagree, reconciled, 335; justifying, 336 ; obeying, ib. ; the apostles against the abuses of, 338; justineth without works, 339 ; the foundations of, 400 ; christian, in what it consisteth, 401 ; works of, iii. 32 ; taught by the gospel, 35; needful in them that repent, 62; cannot be reformed but by the word of God, 121; hath increasings, 191; invocation springeth from, 212; chiefly needful to them that pray, iv. 175; life of him that prayeth must be answerable to his, 177; general and special, the fantasy of confuted, 304 ; stirreth up to prayer, 551 ; of Abraham, ib. ; of David, ib.
 
@@ -1158,7 +1157,7 @@ Gersonites, the, ii. 132, 112.
 
 Gesture, of them that pray, iv. 185; at the Lord's supper, 421.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Gibea, the citizens of, i. 417.
 
@@ -1176,7 +1175,7 @@ Gill, a woman, i. 398.
 
 God, word of, what it is, i. 37 ; mouth of, 3S; the league of, 44; the worship of, 45; the teaching of, to be praised, 60; will have his word understood, 71; faith joineth to, 103; the testament of, 113 ; one in substance, and three in persons, 124 ; faith in, ib. ; a Father, 126; almighty, ib.; maker of heaven and earth, 126"; the right hand of, 146, 148; hath given in Christ all heavenly treasures, 1.56 ; alone forgiyeth sins, 166; the face of, 179; the love of, 181 ; how to love, 182; alone to be loved, 183; the name of, highly esteemed by the Gentiles, 202; the law of, what it is, 209; all-sufficient, 215; the true is our God, 218; will not be likened to any thing, 224 ; suffereth not a mate, 233; visits sins of fathers on the children, 235 ; a spirit, 238 ; names of, ib. ; the name of, how sanctified, ib. ; how abused, 240 ; punishment of those that abuse the name of, 241 ; an oath, a special honour to, 248; sanctifieth, 200; the honour of, always foremost, 209 ; faith, the gift of, 363; why punishes the good with the evil, ii. 75 ; hope, the gift of, 90 ; faithful and just, though he delay his promises, 91 ; examples of the deliverance of, 96 ; requireth pureness in man, 123; the worship of, 128; when liketh, and when mis-liketh ceremonies, ib. ; covenant of, with man, 169 ; is all to his confederates, 170; the grace of, not tied to circumcision, 175; why forbad the eating of certain meats, 211 ; of the use and effect of the laws of, 237 ; how said to reward good works, 346 ; not the author of evil, 365; is good in himself, 366; created all things good, ib. ; sin not chargeable on, 373 ; to what end gave law to Adam, 375 ; the image of, 377 ; did foreknow the fall of man, ib. ; giveth men over to a reprobate sense, 380; is said to make men blind, ib. ; hardened Pharoa's heart, 382; how said to do evil, ib.; all things of, by, and in, 383; the blotting out of the image of, in us is our depravation, 394 ; sin repugnant to the law of, 406; punishes sinners justly, 427 ; punishes most sharply, 428 ; examples of the sharp punishments of, 429; the long forbearing of, ib. ; a lover of men, iii. 8; the grace of, exhibited in Christ, 12; hath performed through Christ what he promised to our forefathers, 19; being angry with the world is pleased with it in Christ, 26; the righteousness of, 40; the image of, 53; how said to repent, 56; conversion to, ib.; the fear of, in all penitents, 59; the fear of, twofold, 60; afflicteth them whose sins he hath forgrv in, 91 ; liberty of tinsons of, I'll'; sundry opinions concerning, 124; whence the true knowledge of, must be fetched, ib. ; that there is a, 125; a measure to be kept in enquiring u hat he is, ib.; the name of, unspeakable, 120; the form and manner of knowing, 129; names of, 130; of Abraham, Isaac, and Jacob, 136 ; visions of, 137 ; pr BOpograpby of, ib.; how members attributed to, l.'is ; how the patriarchs did see, 142 ; did all things with thefathers by the Son, 143; shadowed in visions, ib.; giveth his gifts freely, 144; how shewed himself to Moses, 145; what he is, 140; doth most evidently open himself through Christ, 147; the wisdom, goodness, and truth of, 148; the power, long-suffering, justice and mercy of, 149; is known by his works, 150 ; the works of, two ways considered, ib. ; is shadowed to us by comparisons, 152; is learned by the sayings of the prophets and apostles, 153; is one in essence, 154; a distinction of persons in, 156 ; a disputation of, 157 ; all things to be believed of, contained in scripture, 160; governeth all things, 178; the providence of, ib.; the goodwill of, learned by his providence, 184; the predestination of, 185 ; the foreknowledge of, ib. ; the true worship of, 200; only to be worshipped, 201; rewards for them that worship, 204 ; punishments for them that do not worship, ib. ; invocation of, what it is, 206 ; to be called on, ib. ; alone to be called on, 208; alone hears everywhere, all persons, and always, 211 ; the intercessor with, 212 ; the' service of, is twofold, 223 ; the inward service of, ib. ; the temple of, 225; the priest and sacrifices of, 226 ; the only, to be served, ib. ; the outward service of, 227; to forsake, what it is, 233; not to be represented by an image, 235 ; the properties of, not to be assigned to strange gods, 236 ; the gifts of, not to be attributed to strange gods, ib. ; to serve unlawfully, what it is, 237 ; of the kingdom of, 275; of the unity and Trinity of, 325; useth the ministry of angels, 338; who be the house of, iv. 82 ; why deferreth to give that which he meaneth to give, 171 ; only to be called on in prayer, 172; by whom called upon, ib. ; what things provoke men to call upon, 174; with what abilities he must be furnished which comet h to pray unto, ib.; what we must ask of, 187; why we must express in words our desires to, 203; name of, 210; will of, 213; thanksgiving owed only to,
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 221; how the godly give thanks to, 222; to be praised for instituting the sacraments, 244; the wisdom of, shineth in the institution of the sacraments, ib. ; omnipotence of, 2G3; how the almighty power of, attributed to the word, 266.
 
@@ -1266,7 +1265,7 @@ Hinds, husbandmen, ii. 39. Hire, the withholding of labourers', ii.
 
 37 ; due, 346.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Hirelings, iv. 102.
 
@@ -1420,7 +1419,7 @@ Institution of a king or princes, ii. 222 ; of sacraments, iv. 239; of baptism, 
 
 Intercession of Christ, of what manner, iii. 219.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Intercessor with God, iii. 212; Christ alone, ib. Intercessors, iv. 172. Interpretation of scripture, iv. 154. Invisible things in sacraments, iv. 251. Invocate, to, what it is, iii. 204. Invocation, iv. 163; of God, what it is, iii. 20C; springeth from faith, 212. Inward things, in sacraments, iv. 251. Irena-us, ii. 390 ; iv. 224, 430 ; creed of, i. '_'(); martyrdom of, ii. 105. Isaac, i. 44 ; iv. 388 ; afflictions of, ii.103. Isaiah, an evangelist, i. 51 ; iii. 17. See
 
@@ -1548,7 +1547,7 @@ Julius III., iv. 29, 529.
 
 Jurisdiction, power of, iv. 39.
 
-INDEX OF SUBJECTS AND TERSONS.
+## Index of Subjects and Tersons
 
 Justification,!. 104,100; by faith alone, 112; not by works, 113; a free gift, 117; in what sense attributed to good works, ii. 327 ; cavils of them which attribute, unto works, 329; by grace, iii. 12; the manner and order of our, 41, 49; what David thought of, 47 ; without works, why the doctrine of, to be kept uncorrupted, 49; illustrated by a parable, iv. 320.
 
@@ -1600,7 +1599,7 @@ Law of God, what it is, i. 209; moral, ceremonial, and judicial, 210 ; the moral
 
 Law of nature, i. 194 ; two especial points of, 190 ; answerable to the written law, 197.
 
-Laws, division of, i. 193 ; of men, 200 ; of policy, ib. ; ecclesiastical, 207 ; superstitious, ib. ; necessary for king- doms, 337; to put to, to take from, 339; whal manner of, the magistrate ought to use, .ill : written, are needful, ib. ; civil, what manner of, they be, 343 ; of honesty, ib. ; of justice and equity, ib.\ of peace and unanimity, {44 ; of war made by the word of God, 380 ; judicial, are pr( ifitable, ii. 217; the most ancient, 218; the church not burdened with infinite, iv. 478.
+Laws, division of, i. 193 ; of men, 200 ; of policy, ib. ; ecclesiastical, 207 ; superstitious, ib. ; necessary for kingdoms, 337; to put to, to take from, 339; whal manner of, the magistrate ought to use, .ill : written, are needful, ib. ; civil, what manner of, they be, 343 ; of honesty, ib. ; of justice and equity, ib.\ of peace and unanimity, {44 ; of war made by the word of God, 380 ; judicial, are pr( ifitable, ii. 217; the most ancient, 218; the church not burdened with infinite, iv. 478.
 
 Law, the. i.50; even before Moses' time, 210; of the use and effect of, ii. ?.i7 ; requires absolute perfectness, ib. ; makes our sin manifest, 238; not only ldlls,239; teacheth perfect righteousness, 241 ; the precepts of, are the rudiments of the world, 242 ; frameth the life of man, 243; bridleth the unruly, 244; impossible for us of our own strength to fulfil, 245; no man justified by the works of, 247 ; life promised to them that keep, 250; how we may keep, 251 ; of the abrogation of, 252; the bondage of, in the old Testament, 290; to what end God gave to Adam, 375 ; grounded on works, iii. 30 ; not destroyed through faith, 44.
 
@@ -1654,7 +1653,7 @@ Lie, a, ii. 114; a jesting, ib. ; an officious, 115 ; Origen's opinion of, ib.
 
 Lies, condemned among the Gentiles, i. 204; the kinds of, ii. 114.
 
-INDEX OF SUBJECTS AND PERSONS.
+## Index of Subjects and Persons
 
 Liefer, rather, iii. 131.
 

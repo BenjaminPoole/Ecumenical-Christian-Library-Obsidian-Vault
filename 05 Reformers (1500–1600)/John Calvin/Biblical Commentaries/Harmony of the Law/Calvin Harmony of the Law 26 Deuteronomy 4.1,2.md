@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 26. Deuteronomy 4:1,2
-
-**deuteronomy 4**
 
 **1.** Now therefore hearken, O Israel, unto the statutes, and unto the judgments, which I teach you, for to do *them,* that ye may live, and go in and possess the land which the Lord God of your fathers giveth you.
 

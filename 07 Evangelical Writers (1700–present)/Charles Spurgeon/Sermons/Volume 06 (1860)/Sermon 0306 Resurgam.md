@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Resurgam
 
 *New Park Street Pulpit* · Sermon No. 306
@@ -77,10 +76,9 @@ And let me remind you yet once again, that there will be in you an undoubted per
 
 Oh! my dear hearers, I cannot bear to stay on this subject; let me finish with just this word. “Whoever believeth on the Lord Jesus Christ shall be saved.” That means *you* poor man, though perhaps you were drunk last night, and scarcely got up time enough to come here this morning. If thou believest, William, thou shalt be saved. This means thee, poor woman, harlot though thou be—if thou cast thyself on Christ thou art saved. This means *thee,* respectable man, thou who trustest in thine own works—if thou reliest on Christ thou shalt be saved, but not if thou trustest in thyself. Oh! be wise, be wise. May God give us grace now to learn that highest wisdom, and may we now look to the cross and to the quivering Lamb that bleeds upon it, and see him as he rises from the dead and ascends up on high, and believing in him; may we receive the hope and the assurance of a blissful resurrection in him.
 
-NOTES:
+## Notes
 
 I shall rise again.
-
 
 ---
 [[Sermon 0305 Separating the Precious From the Vile|← #305]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0307 Importance of Small Things in Religion|#307 →]]

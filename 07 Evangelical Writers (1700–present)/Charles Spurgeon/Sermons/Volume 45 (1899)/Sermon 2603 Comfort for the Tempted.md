@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Comfort for the Tempted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2603
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "There hats no temptation taken you but such as is common to man: but God is faithful, who will not allow you to be tempted beyond what you are able, but with the temptation will also make the way of escape, that you may be able to bear it" 1 Corinthians 10:13.
 
@@ -132,7 +129,6 @@ And remember, dear Friends, while I tell you to make this passage into a prayer,
 "Through floods and flames, if Jesus leads, I'll follow where He goes! 'Hinder me not, 'shall be my cry, Though earth and Hell oppose!" The immortal life within us can never be destroyed! The Divine Nature, which God, the Holy Spirit, has implanted, shall never be trodden under foot! "Rejoice not against me, O my enemy. When I fall, I shall arise. When I sit in darkness, the Lord shall be a light unto me."
 
 But, oh, sorry, sorry, sorry, sorry am I, from the bottom of my soul, for you who know not the Lord, for this comfort is not for you! Seek Him, I pray you! Seek Him as your Savior. Look to Him and trust in Him—and then all the blessings of the Everlasting Covenant shall be yours, for the Father has given Him to be a Leader and Commander unto the people, and they that look to Him, and follow Him, shall live forever and ever! God bless you, for Christ's sake! Amen.
-
 
 ---
 [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2604 Open Praise and Public Confession|#2604 →]]

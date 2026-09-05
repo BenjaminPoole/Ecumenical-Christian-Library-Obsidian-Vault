@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Bonds Which Could Not Hold
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2712
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Whom God has raised up, having loosed the pains of death, because it was not possible that He should be held by it." Acts 2:24.
 
@@ -103,7 +100,7 @@ We have buried many of the godly. There is many a Campo Santo round about this g
 
 for, as it is written, "A bone of Him shall not be broken." And it is not possible that they who are, as it were, the bones of His mystical body, should be held by the bonds of death! O happy people, who belong to Christ! God grant that we may all be numbered among them, for His great name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS2.
+## Exposition by C. H. Spurgeon: Acts 2
 
 Verse 1. And when the day of Pentecost was fully come, they were all with one accord in one place. The first lesson that we ought to learn from this Inspired record of what happened on the day of Pentecost is that we cannot expect a revival until there is unity among Christians. The Spirit of God will not visit and bless a church where there is strife. These disciples in Jerusalem "were all with one accord in one place," "in prayer and supplication," as the 14th verse of the previous chapter tells us.
 
@@ -138,7 +135,6 @@ voice of God and, therefore, he gave them much of it. Having quoted from the Psa
 37-40. Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the Apostles, Men and brethren, what shall we do? Then Peter said unto them, Repent, and be baptized, every one of you, in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit For the promise is unto you, and to your children, and to all that are afar off even as many as the Lord our Godshall call And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation. That is to say, "Come out from among the ungodly; leave the world behind and escape for your lives."
 
 41-47. Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. And they continued steadfastly in the Apostles' doctrine and feelowship, and in breaking of bread, and in prayers. And fear came upon every soul: and many wonders and signs were done by the Apostles. And all that believed were together, and had all things common; and sold their possessions and goods, and parted them to all men, as every man had need. And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, praising God, and having favor with all the people. And the Lord added to the church daily such as should be saved. Oh, that we might have the same blessed experience! God grant it, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2711 The Sight of Iniquity|← #2711]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2713 Walking in the Light of the Lord|#2713 →]]

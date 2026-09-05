@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Romans
 
 [318] Romans i. 16, 17, 18. *Justification Christ’s righteousness*. “For I am not ashamed of the gospel of Christ,” &c. “For herein is the righteousness of God revealed from faith to faith, as it is written, The just shall live by faith. For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men.” In these verses I would note two things:
 

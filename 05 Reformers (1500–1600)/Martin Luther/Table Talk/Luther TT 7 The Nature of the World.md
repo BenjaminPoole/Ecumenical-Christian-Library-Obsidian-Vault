@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 7. The Nature of the World.
-
-## THE NATURE OF THE WORLD
 
 #### CXXXV.
 

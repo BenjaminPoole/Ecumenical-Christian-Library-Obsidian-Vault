@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Personal and Effectual Calling
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2359
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He calls His own sheep by name, and leads them out." John 10:3.
 
@@ -154,7 +151,6 @@ We must know the Creator as well as the created if we would set forth Christ to 
 Christ, tell us plainly. Jesus answered them, I told you, and you believed not: the works that I do in My Father's name, they bear witness of Me. But you believe not because you are not of My sheep, as I said unto you. This was a brave utterance of our Lord. Those who are Christ's chosen and redeemed people, in due time come to believe in Him, but He does not say to the Jews, "You are not My sheep because you do not believe." He tells them the same Truth of God in another way, "Your not believing is a proof that you are not My sheep."
 
 27-31. My sheep hear My voice and I know them, and they follow Me. And I give unto them eternal life, and they shall never perish, neither shall any man pluck them out of My hand. My Father, which gave them to Me, is greater than all; and no man is able to pluck them out of My Father's hand. I and My Father are One. Then the Jews took up stones again to stone Him. These are the ultimate arguments of unbelief—stones! There is no sense in stones, no reason in violence, yet ungodly men, when they have nothing else to use, throw stones at the Teacher of the Truth of God! Is this generous? Is this wise? If you do not believe the testimony, at least leave the Testifier alone! Yet it is not in the nature of men to do so. Their stones are always ready when they are unable to answer the Christ. "Then the Jews took up stones again to stone Him." They had done it previously when He said unto them, "Before Abraham was, I Am." But as He escaped their malice, then, so did He at this time.
-
 
 ---
 [[Sermon 2358 The Unchangeable Christ|← #2358]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2360 Come, My Beloved!|#2360 →]]

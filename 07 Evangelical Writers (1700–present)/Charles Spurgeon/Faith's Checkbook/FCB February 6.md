@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # February 6
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BLESSING IN THE CITY**
+## **Blessing in the City**
 
 > If thou shalt hearken unto the voice of the Lord thy God, blessed shalt thou be in the city" Deut. 28:2, 3
 
@@ -23,7 +22,6 @@ The city is full of care, and he who has to go there from day to day finds it to
 A blessing in the city may not make us great, but it will keep us good; it may not make us rich, but it will preserve us honest. Whether we are porters, or clerks, or managers, or merchants, or magistrates, the city will afford us opportunities for usefulness. It is good fishing where there are shoals of fish, and it is hopeful to work for our Lord amid the thronging crowds. We might prefer the quiet of a country life; but if called to town, we may certainly prefer it because there is room for our energies.
 
 Today let us expect good things because of this promise, and let our care be to have an open ear to the voice of the Lord, and a ready hand to execute His bidding. Obedience brings the blessing. "In keeping his commandments there is great reward."
-
 
 ---
 [[FCB February 5|← February 5]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 7|February 7 →]]

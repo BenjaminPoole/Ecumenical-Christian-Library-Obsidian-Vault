@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Best of All—god Is With Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2471
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is not the LORD your God with you?" 1 Chronicles 22:18.
 
@@ -107,9 +104,9 @@ David also exhorted these people to set their hearts upon what they had to do—
 
 I cannot speak longer to you, nor is there any need that I should do so. If you Christians will all go out and seek to save sinners, you will be prolonging my sermon—not only for a few minutes, but for many a day and many a year to come! God be with you, Brothers and Sisters, in this holy service! And if any to whom I am speaking are obliged to say, "No, God is not with me, I am not saved," remember that the way of salvation is to trust the Lord Jesus Christ! If you trust Him, He is with you and you are saved, for, "he that believes on the Son has everlasting life." God is with you if you are trusting Him—and you may go forth in His might to serve the Lord who has redeemed you! God bless you, for Jesus Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—46 (VERSION II), 338, 766.
+## Hymns from "Our Own Hymn Book"—46 (Version II), 338, 766
 
-EXPOSITION BY C. H. SPURGEON: 1 CHRONICLES21:7-30; 22.
+## Exposition by C. H. Spurgeon: 1 Chronicles 21:7-30; 22
 
 Chapter 21:7. And God was displeased with this thing. This numbering of Israel which David had carried out in spite of Joab's protest—"God was displeased with this thing."—
 
@@ -136,7 +133,6 @@ Chapter 22:1. Then David said, This is the house of the LORD God, and this is th
 15\. Moreover there are workmen with you in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work. God will always find the right man in time for His own work! In His Church there are "all manner of cunning men for every manner of work."
 
 16-19. Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing something, and the LORD be with you. David also commanded all the princes of Israel to help Solomon, his son, saying, Is not the LORD your God with you? And has He not given you rest on every side? For He has given the inhabitants of the land into my hands and the land is subdued before the LORD, and before His people. Now set your heart and your soul to seek the LORD your God. Arise and build the sanctuary of the LORD God, to bring the Ark of the Covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
-
 
 ---
 [[Sermon 2470 Jacob and Doubting Souls a Parallel|← #2470]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2472 The Best of the Best|#2472 →]]

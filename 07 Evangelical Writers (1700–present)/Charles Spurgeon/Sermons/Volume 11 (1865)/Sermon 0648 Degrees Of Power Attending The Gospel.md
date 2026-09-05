@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Degrees Of Power Attending The Gospel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 648
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 3, 1865, BY C. H. SPURGEON,.
+*Delivered on Sunday Morning, September 3, 1865, by C. H. Spurgeon*
 
 > "For our Gospel came not unto you in word only, but also inpower, and in the Holy Spirit and in much assurance; as you know what manner of men we were among you for your sake." 1 Thessalonians 1:5.
 
@@ -75,7 +74,7 @@ More than this, it has had an effect upon your feelings as well as upon your con
 
 Alas, there are others to whom it has only been for a time as a bit and bridle. But they have afterwards turned aside from it. There are those here, who, like the dogs, have gone back to their vomit and, like the sow that was washed, to their wallowing in the mire. We had hope for you once, but we must almost cease to hope. Certain persons rush into drunkenness after seasons of abstinence—having known the evil of the sin—and having professed to hate it. The passion has been too strong for them and they have fallen again into that deep ditch in which so many of the abhorred of the Lord lie and rot.
 
-Oh, may God, in His infinite mercy, bring the Gospel with something more than this common power to your souls! May it come with "the Holy Spirit" as well as with power! You see, we have come up by steps to some considerable height already, but we now come to a far nobler elevation and speak of saving Grace. To many in this house, as at Thessalonica, the Word has come "in the Holy Spirit." Brothers and Sisters, I cannot describe to you how it is that the Holy Spirit op- erates by the Word. The work of the Spirit is figured forth by some such mysterious timing as a birth, or as the blowing of the wind. It is a great secret, and therefore not to be expounded.
+Oh, may God, in His infinite mercy, bring the Gospel with something more than this common power to your souls! May it come with "the Holy Spirit" as well as with power! You see, we have come up by steps to some considerable height already, but we now come to a far nobler elevation and speak of saving Grace. To many in this house, as at Thessalonica, the Word has come "in the Holy Spirit." Brothers and Sisters, I cannot describe to you how it is that the Holy Spirit operates by the Word. The work of the Spirit is figured forth by some such mysterious timing as a birth, or as the blowing of the wind. It is a great secret, and therefore not to be expounded.
 
 But many of you know it experimentally. The Holy Spirit, first of all, came to you as a great Quickener. How He made you live you do not know—but this you do know—that what you once had not, you now have! You know that there burns within you a vital spark of heavenly flame far different from that ordinary spark of life which had been there before! You now have different feelings, different joys, different sorrows from any you were conscious of before! While you were listening to the letter which kills, the Spirit of God came with it and the quickening Spirit made you live with a new, higher and more blessed life!
 
@@ -144,7 +143,6 @@ You are not machines. You are not creatures merely to be acted upon—you are to
 Now they could not have been disobedient if it was not their duty to obey. No man is disobedient where there is no law. It is, therefore, the duty of every sinner hearing the Gospel to believe it! And if he does not, this same stone shall fall upon him and shall grind him to powder. Kiss the Son, therefore, lest He, lest He be angry and you perish from the way while His wrath is kindled but a little. The same Savior who blesses will be angry. He who loves His people, grows angry with those who reject Him.
 
 And when His wrath is kindled but a little, woe unto the object of it! Blessed are all they that trust in Him and may we be found among that blessed number to the praise and glory of His Grace, wherein He makes us to differ according to the appointment of His own Divine will. May God bless this assembly for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 0647 Heart'S Ease|← #647]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0649 Songs For Desolate Hearts|#649 →]]

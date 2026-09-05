@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Encouragement to Trust and Pray
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1419
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 16, 1878,.
+*Delivered on Lord's-Day Morning, June 16, 1878*
 
 > "He will be very gracious unto you at the voice of your cry; when He shall hear it, He will answer you." Isaiah 30:19.
 
@@ -146,7 +145,6 @@ If any one of you has tried this and it has failed, please let me know, for I am
 Have you ever tried believing prayer? Most of the people who disbelieve the Bible have never read it with care and attention. Those who doubt the faithfulness of God have never tried it! And those who deride prayer have never practiced it! But, mind you, I am speaking of real prayer, not of repeating certain good words! I am not talking of formal prayer, but of going, with your heart, to the unseen God and telling Him what you feel and what you need—and trusting Him to supply your needs and help you. Have you done this? Go and try prayer at once, I beseech you!
 
 Divine Spirit, help these poor souls to pray this day! If you pray and trust this day, it shall be unto you as the beginning of days—and from now on you shall delight yourselves in the abundance of peace! O Believer, it shall be true of you, "His soul shall dwell at ease and his seed shall inherit the earth"! From the Lord's good Spirit there shall come to you such Grace that you shall be blessed and become a blessing to others! You shall walk happily before the Lord in this land of the dying and then shall abide with Him forever, above, in the land of the living! God bless you all for His name's sake. Amen.
-
 
 ---
 [[Sermon 1418 The Holdfast|← #1418]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1420 The Headstone of the Corner|#1420 →]]

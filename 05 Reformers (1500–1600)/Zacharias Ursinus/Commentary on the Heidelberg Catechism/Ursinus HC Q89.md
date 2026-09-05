@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 89. What is the mortification of the old man?
-
-**Question 89. What is the mortification of the old man?**
 
 Answer. It is a sincere sorrow of heart, that we have provoked God by our sins; and more and more to hate and flee from them.
 

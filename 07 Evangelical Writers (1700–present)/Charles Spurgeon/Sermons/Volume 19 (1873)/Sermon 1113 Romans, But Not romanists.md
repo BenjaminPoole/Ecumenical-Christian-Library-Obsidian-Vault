@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/19
 ---
-
 # Romans, But Not romanists
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1113
-
-DELIVERED BY.
 
 > "I commend unto you Phebe our sister, which is a servant of the Church which is at Cenchrea: that you receive her in the Lord, as becomes saints, and that you assist her in whatever business she has need of you: for she has been a succorer of many, and of myself also. Greet Priscilla and Aquila my helpers in Christ Jesus: who have for my life laid down their own necks: unto whom not only I give thanks, but also all the Churches of the Gentiles. Likewise greet the Church that is in their house. Salute my well-beloved Epaenetus, who is the first fruits of Achaia unto Christ. Greet Mary, who bestowed much labor on us. Salute Andronicus and Junia, my kinsmen, and my fellow prisoners, who are of note among the Apostles who also were in Christ before me. Greet Amplias my beloved in the Lord. Salute Urbane, our helper in Christ, and Stachys my beloved. Salute Apelles approved in Christ. Salute them which are of Aristobulus 'household. Salute Herodion my kinsman. Greet them that are of the household of Narcissus, which are in the Lord. Salute Tryphena and Tryphosa, who labor in the Lord. Salute the beloved Persis, which labored much in the Lord. Salute Rufus chosen in the Lord, and his mother and mine. Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes and the brethren which are with them. Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them. Salute one another with an holy kiss. The Churches of Christ salute you." Romans 16:1-16.
 
@@ -134,7 +131,6 @@ And when he goes on to mention, "Patrobas, Hermes," we ask, "And who were they? 
 And now, finally, may Divine Grace, mercy and peace be with all them that love our Lord Jesus Christ. And may we labor to promote unity and love among His people. The God of peace shall bruise Satan under our feet shortly. May we, therefore, in patience possess our souls. O that those who are not yet numbered among the people of the Lord may be brought in through faith in Jesus Christ to His Glory! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 16.
-
 
 ---
 [[Sermon 1112 Soul-satisfying Bread|← #1112]] · [[Volume 19 (1873)|Volume 19 (1873) Contents]] · [[Sermon 1114 Onward!|#1114 →]]

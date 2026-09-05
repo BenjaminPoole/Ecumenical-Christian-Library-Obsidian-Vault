@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/31
 ---
-
 # Smoking Flax
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1831
-
-DELIVERED BY.
 
 > "The smoking flax shall He not quench." Isaiah 42:3.
 
@@ -88,7 +85,6 @@ Now, the Lord Jesus Christ will blow softly upon you with His gentle Spirit. He 
 I have had the portraits of my two boys taken on their birthdays—from the first birthday till they were twenty-one. The first year the little fellows are sitting, two of them in one baby carriage. At 21 they are doing nothing of the sort— they are men full-grown! Yet I can trace them all along, from the time when they were babes, till they became little boys, and then youths, and then young men! I should not have been pleased to have seen them wheeled about in the baby carriage for 21 years! In that case, I would have thought myself a most unfortunate father. And so I do not want to have any of you remaining in spiritual infancy—we long to see you come to the fullness of the stature of perfect men in Christ Jesus!
 
 Life is precious, but we look for growth. A spark is fire, but we expect flame. Grace is priceless, but we long to see it daily increased by going on unto perfection! Despise not the day of small things, but advance to greater things than these. Be comforted, but not self-satisfied. Rest, but do not loiter. The table of the Lord is spread and it is a feast not for men, alone, but for babes in Grace. Come here, you that love the Lord, and you that trust Him, however feeble your trust. However faint your courage, come and welcome! My Lord's table is not for giants, only, but for infants, also. The viands are not strong meat, but bread and wine, fit food for the faint and feeble. Examine yourselves, you sincere tremblers, but do not let the examination end in your staying away! Rather, mark how the text says, "let a man examine himself, and so let him eat"—not, "so let him refrain from eating" Ho, you that hope in His mercy, your Lord invites you to His own feast of love! You may come and welcome! If you have come to Christ, Himself, by faith, come to His table and remember Him tonight. The Lord bless you, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1830 All Or None—or, Compromises Refused— a Sermon With Five|← #1830]] · [[Volume 31 (1885)|Volume 31 (1885) Contents]] · [[Sermon 1832 Elijah's Plea|#1832 →]]

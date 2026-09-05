@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 37
 
 ## Lecture One Hundred And Forty Fifth
 
-**CHAPTER 37**
+## **Chapter 37**
 
 ## Jeremiah 37:1-2
 
@@ -81,7 +80,7 @@ Now he says not that the Chaldeans would take possession of the city, he speaks 
 
 ## Prayer Lecture 145
 
-**PRAYER**
+## **Prayer**
 
 Grant, omnipotent God, that as thou hast been pleased kindly to invite us to thyself, and settest before us the reconciliation which is through thine only-begotten Son, — O grant, that we may not proceed in our wickedness so as to provoke thee more and more against us, and to kindle the fire of thy vengeance on our own heads, but that we may so suhmit ourselves to thee, as to flee in sincere repentance and true faith to thy mercy, that we may find thee to be propitious to us, and that thou mayest thus afford us reason to give glory to thy name, having shewn mercy to us, through the same, thine only-begotten Son. — Amen.
 
@@ -165,7 +164,7 @@ As to the words, *Let my prayer fall before thee,* they mean a humble supplicati
 
 ## Prayer Lecture 146
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we must in various ways carry on a warfare on earth, we may be animated by the power of thy Spirit, so as to go on through fire and water, and be ever so subject to thee, that relying on thine aid, we may never hesitate to face all perils of death, all troubles, all reproaches, and all the terrors of men, until having at length gained the final victory, we shall come to that blessed rest, which thine only-begotten Son hath procured for us by his own blood. — Amen.
 

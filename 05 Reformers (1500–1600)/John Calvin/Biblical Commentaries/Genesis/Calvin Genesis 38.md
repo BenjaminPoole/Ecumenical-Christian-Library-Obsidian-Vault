@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 38
 
-**CHAPTER 38.**
+***Chapter 38.***
 
 ## Genesis 38:1-30
 

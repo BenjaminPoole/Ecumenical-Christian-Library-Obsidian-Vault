@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**A QUIET HEART**
+## **A Quiet Heart**
 
 > In quietness and in confidence shall be your strength" Isa. 30:15
 
@@ -25,7 +24,6 @@ Oh, for grace to be quiet! Why run from house to house to repeat the weary story
 Oh, for grace to be confident in God! The Holy One of Israel must defend and deliver His own. He cannot run back from His solemn declarations. We may make sure that every word of His will stand though the mountains should depart. He deserves to be confided in; and if we would display confidence and consequent quietness, we might be as happy as the spirits before the throne.
 
 Come, my soul, return unto thy rest, and lean thy head upon the bosom of the Lord Jesus.
-
 
 ---
 [[FCB December 11|← December 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 13|December 13 →]]

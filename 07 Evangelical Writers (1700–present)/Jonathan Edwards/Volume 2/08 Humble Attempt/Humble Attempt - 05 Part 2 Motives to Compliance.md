@@ -10,10 +10,9 @@ written: "1747"
 tags:
   - jonathan-edwards
 ---
-
 # PART II.
 
-MOTIVES TO A COMPLIANCE WITH WHAT IS PROPOSED IN THE MEMORIAL.
+*Motives to a Compliance with What Is Proposed in the Memorial*
 
 I now proceed to the second thing intended in this Discourse, *viz.* to offer to consideration some things, which may tend to induce the people of God to comply with the proposal and request, made to them in the *Memorial.*
 

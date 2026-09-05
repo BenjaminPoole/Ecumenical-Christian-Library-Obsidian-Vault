@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Heavenly Geometry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 707
 
-DELIVERED ON SUNDAY MORNING, AUGUST 19, 1866,.
+*Delivered on Sunday Morning, August 19, 1866*
 
 > "That He would grant you, according to the riches of His glory, to be strengthened with might by His Spirit in the inner man; that Christ may dwell in your hearts by faith; that you, being rooted and grounded in love, may be able to comprehend with all saints what is the breadth, and length, and depth, and height; and to know the love of Christ, which passes knowledge, that you might be filled with all the fullness of God." Ephesians 3:16-19.
 
@@ -140,7 +139,6 @@ And then our love will acquire depth. We shall be humbled on account of our own 
 Christians who lie no longer among the pots, but who have received the wings of a dove covered with silver, and her feathers with yellow gold. We shall attain to such a height in our love, that we shall scale the mountaintops of the promises, and with our foreheads bathed in the sunlight shall look down upon the world that still lies in darkness, and rejoice that we are made heirs of light!
 
 Our love mounting to Heaven shall there be in its height as we appear before the Great White Throne and cast our crowns with many a song before Him who loved us with a breadth, and length, and depth, and height of love that even in Heaven shall surpass all measurement. God bless you, dear Friends, with this love, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0706 Fields White For Harvest|← #706]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0708 The Blood Of Abel And The Blood Of Jesus|#708 →]]

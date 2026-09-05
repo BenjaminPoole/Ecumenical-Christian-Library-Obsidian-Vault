@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Spiritual Glean1ng
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2585
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let her gleam even among the sheaves, and reproach her not." Ruth 2:15.
 
@@ -83,7 +80,7 @@ What more shall I say to you, my beloved Brothers and Sisters? Go glean, spiritu
 
 Just one other remark, and then I will close. O child of God, never be afraid to glean! All there is in all your Lord's fields is yours. Never think that your Master will be angry with you because you carry away so much of the good corn of the Kingdom. The only thing He is likely to be offended with you for is because you do not take enough! "There it is," He says, "take it, take it, and eat it. Eat abundantly. Drink, yes, drink abundantly, O beloved!" If you find a sweet promise, suck all the honey out of the comb. And if you get hold of some blessed sheaf, do not be afraid to carry it away rejoicing. You have a right to it—let not Satan cheat you out of it! Sharpen up the sickle of your faith and go harvesting, for you may, if you will. And if you can, you may take a whole sheaf and carry it away for spiritual food. But if you cannot take a whole sheaf, the Lord teach you how to glean among the sheaves, even as Ruth did in the fields of Boaz. And may He, in the greatness of His Grace, let fall a few handfuls on purpose for you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY 8.
+## Exposition by C. H. Spurgeon: Deuteronomy 8
 
 Verse 1. All the commandments which I command you this day shall you observe to do, that you may live, and multiply, and go in and possess the land which the LORD swore unto your fathers. Observe, dear Friends, that the Lord demands of His people universal obedience to His commands—"All the commandments which I command you this day shall you observe to do." Christians, although they are not under the Law, are under the sweet constraints of love, and that love incites them to complete obedience—so that they desire to leave undone nothing which the Lord commands. And this obedience is to be careful as well as complete. "All the commandments which I command you this day shall you observe to do." Not only do them, but do them with care. When the commandment applies to a certain duty, obey it in full, both in the letter and in the spirit, for there are numerous and weighty blessings attached to obedience—not of merit, but of Grace. If we walk carefully in the fear of God, we shall find that in keeping His commandments there is great reward.
 
@@ -114,7 +111,6 @@ Verse 1. All the commandments which I command you this day shall you observe to 
 17-20. Andyou say in your heart, My power and the might of my hands has gotten me this wealth. But you shall remember the LORD your God: for it is He that gives you power to get wealth, that He may establish His covenant which He swore unto your fathers, as it is this day. Andit shall be, ifyou do at all forget the LORDyour God, and walk after other gods, and serve them, and worship them, I testify against you this day that you shall surely perish. As the nations which the LORD destroys before your face, so shall you perish.' 'If you sin as they do, you shall fare as they do."
 
 20\. Because you would not be obedient unto the voice of the LORDyour God.
-
 
 ---
 [[Sermon 2584 Place for the Word|← #2584]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2586 A Far-reaching Promise|#2586 →]]

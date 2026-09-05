@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # God Incarnate, The End Of Fear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 727
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 23, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 23, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And the angel said unto them, Fear not." Luke 2:10.
 
@@ -63,7 +62,7 @@ Now such a fear as that being very easily created in the thoughtful mind, and be
 
 It is one of the masterpieces of Satan to deceive man by presenting to his mind a hateful picture of God. He knows that men cannot love that which terrifies them and therefore he paints the God of Grace as a hard, unforgiving being who will not receive the penitent and have pity upon the sorrowful. God is love! Surely if men had but Grace enough to see the beauty of that portrait of God—that miniature sketched with a single line, "God is love!" they would willingly serve such a God. When the Holy Spirit enables the mind to perceive the Character of God, the heart cannot refuse to love Him.
 
-Base, fallen, depraved as men are, when they are illuminated from on high so as to judge rightly of God, their hearts melt under the genial beams of Divine love and they love God because He has first loved them. But there is the master- piece of Satan, that he will not let the understanding perceive the excellence of God's Character and then the heart cannot love that which the understanding does not perceive to be loveable. In addition to alienating the heart from God, this fear creates a prejudice against God's Gospel of Grace. There are persons in this place this morning who believe that if they were religious they would be miserable. It is the settled conviction of half of London that to trust in Jesus and to be obedient to God, which is the essence of all true religion, would be wretchedness itself.
+Base, fallen, depraved as men are, when they are illuminated from on high so as to judge rightly of God, their hearts melt under the genial beams of Divine love and they love God because He has first loved them. But there is the master-piece of Satan, that he will not let the understanding perceive the excellence of God's Character and then the heart cannot love that which the understanding does not perceive to be loveable. In addition to alienating the heart from God, this fear creates a prejudice against God's Gospel of Grace. There are persons in this place this morning who believe that if they were religious they would be miserable. It is the settled conviction of half of London that to trust in Jesus and to be obedient to God, which is the essence of all true religion, would be wretchedness itself.
 
 "Oh," says the worldly man, "I should have to give up my pleasure if I were to become a Christian." Now this is one of the most wicked slanders that was ever invented and yet it has current belief everywhere. It is the popular theology that to be an enemy to God is happiness, but to be the friend of God is misery. What an opinion men must have of God, when they believe that to love Him is to be wretched! Oh, could they comprehend, could they but know how good God is—instead of imagining that His service would be slavery, they would understand that to be His friend is to occupy the highest and happiest position which created beings can occupy!
 
@@ -140,7 +139,6 @@ But I hear a sinner say, "I am afraid to go to God this morning and confess that
 "But I cannot hope," says another, "that He would even look on me." And yet He used to look on such as you are. He received publicans and sinners and ate with them! And even harlots were not driven from His Presence. Oh, since God has thus taken man into union with Himself be not afraid! If I speak to one who by reason of sin has wandered so far away from God that he is even afraid to think of God's name, yet inasmuch as Jesus Christ is called "the sinner's Friend," I pray you think of Him, poor Soul, as your Friend!
 
 And, oh, may the Spirit of God open your blind eyes to see that there is no cause for your keeping away from God except your own mistaken thoughts of Him! May you believe that He is able and willing to save to the uttermost! May you understand His good and gracious Character, His readiness to pass by transgression, iniquity, and sin! And may the sweet influences of Divine Grace quicken you to come to Him this very morning! God grant that Jesus Christ, the hope of Glory, may be formed in you! And then you may well sing, "Glory to God in the highest; on earth peace, and goodwill toward men." Amen.
-
 
 ---
 [[Sermon 0726 Life Eternal|← #726]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]]

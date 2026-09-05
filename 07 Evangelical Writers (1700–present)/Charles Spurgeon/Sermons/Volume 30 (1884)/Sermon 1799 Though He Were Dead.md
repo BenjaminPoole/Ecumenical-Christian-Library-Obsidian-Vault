@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Though He Were Dead
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1799
@@ -79,8 +78,7 @@ To conclude, if you once do believe in Christ, and come to live, there is this s
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’John 11:1-27.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’414, 839, 327.
-
+## Hymns from ‘Our Own Hymn Book’414, 839, 327
 
 ---
 [[Sermon 1798 Sight For Those Who See Not|← #1798]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1800 Heaven Below|#1800 →]]

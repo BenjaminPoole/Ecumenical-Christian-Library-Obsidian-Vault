@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Touch
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1640
 
-DELIVERED ON LORD'S-DAY EVENING, JANUARY 8, 1882,.
+*Delivered on Lord's-Day Evening, January 8, 1882*
 
 > "And Jesus, immediately knowing in Himself that power had gone out of Him, turned around in the crowd and said, Who touched My clothes? And His disciples said to Him, You see the multitude thronging You, and do You say, Who touched Me?" Mark 5:30,31.
 
@@ -178,7 +177,6 @@ He did not wish to have this miracle published. There were reasons why, just the
 This command is natural enough, but how singularly it follows a miracle! Could not He who gave her back to life have satisfied her appetite without food? Yes, but Jesus is always cautious of His miracles, and this is the mark of the true Christ. Look at antichrist and see her lavish marvels at Lourdes and a thousand shrines—shovelfuls of them! Paul speaks of these signs and lying wonders as the trademark of the mystery of iniquity! But the Christ works no needless miracle— He pauses where the need of the supernatural ceases.
 
 He also teaches us this lesson, that when He gives spiritual life, it is our duty to furnish it with suitable nutriment of the Divine Truth of God. We should teach and console those who are newly born into the household of faith! Especially is this the duty of parents and those who are our fathers in the Church. Let us not fail to obey our Lord's precept and may God thus bless the reading of his Word to us.
-
 
 ---
 [[Sermon 1639 Acceptable Service|← #1639]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1641 Great Spoil|#1641 →]]

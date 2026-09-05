@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # A Comforting Message for the Closing Year
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2393
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Rest in the Lord." Psalm 37:7.
 
@@ -174,7 +171,6 @@ But it is a ten thousand times greater miracle that we are spiritually alive whe
 Psalm 125:1-3. They that trust in the Lord shall be as Mount Zion, which cannot be removed, but abides forever. As the mountains are round about Jerusalem, so the LORD is round about His people from henceforth even forever. For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity. By, "the rod," is here meant, "the scepter." The wicked shall not permanently rule over the righteous—they may have a temporary dominion and sovereignty but, in due season, their rod shall be broken and their power shall be scattered to the winds.
 
 4, 5. Do good O Lord, unto those that are good, and to them that are upright in their hearts. As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel. May we have faith to lay hold upon that last blood promise and so enjoy the peace of God which passes all understanding! Amen!
-
 
 ---
 [[Sermon 2392 The Birth Of Christ|← #2392]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]]

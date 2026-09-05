@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 9
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE FIRST CONFERENCE OF ABBOT ISAAC. ON PRAYER.
+## The First Conference of Abbot Isaac. On Prayer
 
 ## Chapter 1
 

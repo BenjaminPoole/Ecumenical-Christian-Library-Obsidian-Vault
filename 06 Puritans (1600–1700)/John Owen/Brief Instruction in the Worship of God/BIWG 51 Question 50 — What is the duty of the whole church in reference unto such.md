@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Question 50 — What is the duty of the whole church in reference unto such persons?
-
-Question 50 — What is the duty of the whole church in reference unto such persons?
 
 Answer — To consider them in love and meekness, according as their condition is known, reported, or testified unto them; to approve of and rejoice in the grace of God in them; and to receive them in love without dissimulation. 1 Cor. xiii.
 
@@ -35,7 +32,6 @@ Fourthly, It is required that these things be testified by them unto the church,
 (2.) That they may direct and encourage in the way such as appear to be sincere, instructing them principally in the nature of the way whereinto they are engaging, the duties, dangers, and benefits of it, Acts xviii. 26, xiv. 22; 1 Cor. iii. 22, 23.
 
 (3.) To propose them, their condition, their desires, their resolutions, unto the church, after their own expressions of them, to be considered of in love and meekness, Acts ix. 26, 27. Whereupon those that are approved do give up themselves unto the Lord, to walk in the observation of all his commands and ordinances; and to the church for the Lord’s sake, 2 Cor. viii. 5, abiding in the fellowship thereof, whereunto they are admitted, Acts ii. 41, 42.
-
 
 ---
 [[BIWG 50 Question 49 — What is the duty of the elders of the church towards persons|← Question 49 — What is the duty of the elders of the church towards persons desiring to be admitted unto the fellowship of the church?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 52 Question 51 — Wherein doth the especial form of a particular church, whereby it|Question 51 — Wherein doth the especial form of a particular church, whereby it becomes such, and is distinguished as such from all others, consist? →]]

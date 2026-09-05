@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 7. Whence, then, proceeds this depravity of human nature?
-
-**Question 7. Whence, then, proceeds this depravity of human nature?**
 
 Answer. From the fall and disobedience of our first parents, Adam and Eve, in Paradise; hence our nature is become so corrupt, that we are all conceived and born in sin.
 
-**EXPOSITION**
+## **Exposition**
 
 Here we are to take into consideration, in the first place, the fall and first sin of man, from which the depravity of human nature proceeds; and secondly, we are to consider the subject of sin in general, and especially original sin.
 
@@ -32,7 +29,7 @@ III. What were the effects of it?
 
 IV. Why God permitted it?
 
-**I. WHAT WAS THE SIN OF OUR FIRST PARENTS?**
+## **I. What Was the Sin of Our First Parents?**
 
 The fall, or first sin of man, was the disobedience of our first parents, Adam and Eve, in Paradise; or the eating of the forbidden fruit: "Of every tree in the garden thou mayest freely eat; but of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day that thou eatest thereof, thou shalt surely die." (Gen. 2:16, 17.) Man, by the instigation of the devil, violated this command of God; and from this, has proceeded our depravity and misery.
 
@@ -40,7 +37,7 @@ But is the plucking of an apple such a great and heinous offence? It is indeed a
 
 Hence, we may easily return an answer to the objection: No just judge inflicts a great punishment on account of a small offence. God is a just judge. Therefore, he ought not to have punished so severely, in our first parents, the eating of an apple. Ans. It was not, however, a small offence as we have already shown; but a most aggravated sin—comprehending pride, ingratitude, apostacy, &c. Hence, God justly inflicted a severe punishment, on account of this act of disobedience. And if it be still further objected, that God ought to have spared the posterity of Adam, in as much as he himself has declared, "The son shall not bear the iniquity of the father;" (Ez. 18:20.) we would reply, that this is true only where the son is not a partaker of the wickedness of the father; but we are all partakers of the sin of Adam.
 
-**II. WHAT WERE THE CAUSES OF THE FIRST SIN?**
+## **II. What Were the Causes of the First Sin?**
 
 The first sin of man had its origin, not in God, but was brought about by the instigation of the devil, and the free will of man. The devil tempted man to fall away from God; and man, yielding to this temptation, willingly separated himself from God. And although God left man to himself in this temptation, yet He is not the cause of the fall, the sin, or the destruction of man; because, in this desertion, he neither designed, nor accomplished any of these things. He merely put man upon trial, to show that he is entirely unable to do, or to retain aught that is good, if he is not preserved and controlled by the Holy Spirit; and with this, his trial, God, in his just judgment, permitted the sin of man to concur.
 
@@ -48,11 +45,11 @@ The wisdom of man reasons and concludes differently, as is evident from the obje
 
 It is again objected, by men of carnal minds: He who wills to tempt any one, when he certainly knows that he will fall, if he be tempted, wills the sin of him who falls. God willed that man should be tempted by the devil, when he knew that he would certainly fall; for if he had not willed it, man could not have been tempted. Therefore, God is the cause of the fall. Ans. We deny the major, if it be understood in its naked and simple form; for he is not the cause of sin, who wills that he who may fall should be tempted for the purpose of being put upon trial, and for the manifestation of the weakness of the creature, which was the sense in which God tempted man. But the devil tempting man, with the design that he might sin, and separate himself from God; and man, of his own free will, yielding to this temptation, in opposition to the command of God; they are both the cause of sin, of which we shall speak more hereafter.
 
-**III. WHAT ARE THE EFFECTS OF THE FIRST SIN?**
+## **III. What Are the Effects of the First Sin?**
 
 The effects of the first sin are: 1. Exposure to death, and the privation and destruction of the image of God in our first parents. 2. Original sin in their posterity, which includes exposures to eternal death, and a depravity and aversion of our whole nature to God. 3. All actual sins, which proceed from original sin; for that which is the cause of a cause, is also the cause of the effect. The first sin is the cause of original sin, and this of actual sins. 4. All the various evils which are inflicted upon men as punishments for sin. The first sin, therefore, is the cause of all other sins, and of the punishments which are inflicted upon the children of men. But whether it is in accordance with the justice of God to punish posterity for the sins of their parents, will be hereafter explained, when we come to treat the subject of original sin.
 
-**IV. WHY DID GOD PERMIT SIN?**
+## **IV. Why DID God Permit Sin?**
 
 God had the power of preserving man from falling, if he had willed so to do; but he permitted him to fall, that is, he did not grant him the grace of resisting the temptation of the devil, for these two reasons: First, that he might furnish an exhibition of the weakness of the creature, when left to himself, and not preserved in original righteousness by his Creator; and secondly, that by this occasion, God might display his goodness, mercy, and grace, in saving, through Christ, all them that believe; and manifest his justice and power in punishing the wicked and reprobate for their sins, as it is said, "God hath concluded them all in unbelief, that he might have mercy upon all, and that every mouth might be stopped." "What if God, willing to shew his wrath, and to make his power known, endured with much long-suffering, the vessels of wrath fitted to destruction; and that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory." (Rom. 11:32; 9:22.)
 
@@ -68,7 +65,7 @@ IV. What is the origin of sin, or the causes of it?
 
 V. What are the effects of sin?
 
-**I. FROM WHAT DOES IT APPEAR THAT SIN IS IN THE WORLD, AND THAT IT IS ALSO IN US?**
+## **I. From What Does It Appear that Sin Is in the World, and that It Is Also in Us?**
 
 That sin is in the world, and also in us, may be proven by a variety of arguments. First, God declares that we are all guilty of sin, which declaration ought especially to be believed, in as much as God is the searcher of the heart, and an eye-witness to all our actions. (Gen. 6:5; 18:21. Jer. 17:9. Rom. 1:21; 3:10; 7:18. Ps. 14 & 53. Isaiah 59.) Secondly, the law of God recognizes sin, as we have already shown, in our exposition of the third and fifth questions of the Catechism, where these declarations of the law were referred to: "By the law is the knowledge of sin." "The law worketh wrath; for where no law is, there is no transgression." "The law entered that the offence might abound." "I had not known sin, but by the law." (Rom. 3:20; 4:15; 5:20; 7:7.) Thirdly, conscience convinces, and convicts us of sin; for God even apart from his written law, has preserved in us certain general principles of the natural law, sufficient to accuse and condemn us. "Because that which may be known of God is manifest in them." "For when the Gentiles, which have not the law, do by nature the things contained in the law, these not having the law, are a law unto themselves; which shew the work of the law written in their hearts, their consciences also bearing witness, and their thoughts, the meanwhile accusing, or else excusing, one another." (Rom. 1:19; 2:13–14.) Fourthly, punishments and death to which all men are subject; yea, our cemeteries, grave-yards, and places of execution, are all so many sermons upon the evil of sin; because God being just never inflicts punishment upon any of his creatures unless it be for sin, according to what the Scriptures say: "Death passed upon all men, for that all have sinned." "The wages of sin is death." "Cursed is every one that confirmeth not all the words of this law, to do them." (Rom. 5:12; 6:23. Deut. 27:26.)
 
@@ -78,7 +75,7 @@ Does any one ask, whether we may not also obtain a knowledge of sin from the gos
 
 We may, therefore, conclude from these five considerations, that we are all sinners in the sight of God: From the testimony of God himself—from the law of God in particular—from the gospel in general—from the sense of conscience, and from the various punishments which God, being just, would not inflict upon us, if we had not sinned.
 
-**II. WHAT IS SIN?**
+## **II. What Is Sin?**
 
 Sin is the transgression of the law, or whatever is in opposition thereto, whether it be the want of righteousness (defectus), or an inclination, or action contrary to the divine law, and so offending God, and subjecting the creature to his eternal wrath, unless forgiveness be obtained for the sake of the Son of God, our Mediator. Its general nature is a want of righteousness, or an inclination, or action not in accordance with the law of God. To speak more properly, however, it may be said that the want of righteousness is this general nature of sin, whilst inclinations and actions are rather the matter of sin. The difference, or formal character of sin, is opposition to the law, which the Apostle John calls the transgression of the law. The property, which necessarily attaches itself to sin, is the sinner's guiltiness, which is a desert of punishment, temporal and eternal, according to the order of divine justice. Sin has, therefore, what is usually termed a double form, or a two-fold nature, which may be said to consist in opposition to the law, and guilt; or it may be regarded as including two sides, the former of which is opposition to the law, and the latter desert of punishment. The accidental condition of sin is thus expressed, unless forgiveness be obtained, &c., for it is not according to the nature of sin, but by an accident, that those who believe in Christ are not punished with eternal death; because sin is not imputed to them, but graciously remitted for Christ's sake.
 
@@ -92,7 +89,7 @@ Obj. 2. Nature is good. Our inclinations and desires are natural. Therefore, the
 
 Obj. 3. Punishments are no sins. Disordered inclinations and a want of righteousness are punishments of the first sin of man. Therefore, they are no sins. Ans. The major proposition is true in a civil court, but not in the judgment of God, who often punishes sin with sin, as the Apostle Paul most clearly shows in Rom. 1:27; 1 Thess. 4:11. God has power also to deprive his creatures of his spirit, which power none of his creatures possess.
 
-**III. HOW MANY KINDS OF SIN ARE THERE?**
+## **III. How Many Kinds of Sin Are There?**
 
 There are five principal divisions of sin. The first is that of original and actual sin. This distinction is taught in Rom. 5:14; 7:20; 9:11.
 
@@ -182,7 +179,7 @@ There is likewise a great difference between the sins of the regenerate and the 
 
 There is, however, a threefold distinction between the righteous and the wicked when they sin. 1. God has an eternal purpose to save all those whom he calls into his service. 2. When the righteous sin they are brought to repentance at some time or other before the end of life. 3. When those who have been regenerated fall into sin the seed of their regeneration always remains, which is sometimes so strong and vigorous as to resist sin to such an extent that they neither fall into errors that subvert the foundation of their hope, nor into reigning sin; at other times it is less vigorous and active, so that it may for a time be suppressed by temptations, yet it will at length authenticate its divine character, so that none of those who have been truly converted to God will finally fall away and perish; as we may see in the case of David, of Peter, &c. But when the unregenerate sin the case is wholly different, for none of these things have respect to them.
 
-**IV. WHAT ARE THE CAUSES OF SIN?**
+## **IV. What Are the Causes of Sin?**
 
 That God is not the cause of sin, is proven, 1. From the testimony of Scripture: "God saw every thing that he had made, and behold it was very good." "Thou art not a God that hath pleasure in wickedness." (Gen. 1:31. Ps. 5:4.) 2. God himself is supremely and perfectly good and holy, and cannot therefore be the author of evil. 3. God forbids all manner of sin in his law. 4. God punished most severely all sin, which he could not consistently do if it had its origin in him. 5. God would not destroy his own image in man. From these considerations it is evident that the origin of sin is not to be attributed to God.
 
@@ -226,7 +223,7 @@ Obj. 4. God made man fallible; nor did he establish him in the goodness in which
 
 To this, it is objected: God foreknew the fall of man, which he might have prevented, if he had not willed it; but he did not prevent it. Therefore, Adam sinned by the will and fault of God. Ans. An answer has already been returned to this objection; yet we may remark, in addition to what we have said, that it does not necessarily follow from the foreknowledge of God, that man was compelled to fall. A certain wise father did, from some particular signs, foresee that his degenerate son, at some subsequent time, would be thrust through with a sword; nor does his fore knowledge deceive him; for he is slain for fornication. But no one believes that he is thus slain because the father foresaw that he would come to a miserable end; but because he is a fornicator. Ambrose thus speaks of the murder of Cain: "God certainly foreknew to what his rage would lead him when excited and exasperated; yet he was not on this account urged to the deed which he perpetrated by the exercise of his own will, as by a necessity, to sin; because, in his foreknowledge, God cannot be deceived." And Augustin says: "God is a just revenger of those things of which he is not the wicked perpetrator."
 
-**V. WHAT ARE THE EFFECTS OF SIN?**
+## **V. What Are the Effects of Sin?**
 
 Having defined and considered what sin is, and whence it proceeds, we are now prepared to investigate the effects which necessarily follow the transgression of the divine law; a knowledge of which is of great importance to a proper understanding of the magnitude of the evil of sin. These effects are temporal and eternal punishments; and because God often punishes sins with sins, subsequent transgressions may be said to be the effects of preceding sins. (Rom. 1:24. 2 Thes. 2:11. Matt. 13:12.) That this may be the better understood, the following explanations are especially necessary.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Converts, and Their Confession of Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2429
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "One shall say, I am the Lord's; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel." Isaiah 44:5.
 
@@ -97,7 +94,7 @@ But while it has a practical bearing, this confession has a sweet comforting asp
 
 My dear Hearers, I wish you could all say, "I am the Lord's." I would to God you would all put your trust in Christ and take Him to be yours. When you have done that, then do not hesitate to come and confess Him before men! God help you to do, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH44.
+## Exposition by C. H. Spurgeon: Isaiah 44
 
 In this chapter God encourages His Church by a promise of the visitation of His Spirit. Oh, that it may be fulfilled to us, also!
 
@@ -142,7 +139,6 @@ Verses 1-3. Yet now hear, O Jacob My servant; and Israel, whom I have chosen: th
 25\. That frustrates the tokens of the liars, and makes diviners mad: that turns wise men backward, and makes their knowledge foolish. This is what He does to those who boast and think that they know better than He does. But simple hearts that will believe His Word shall know His will and shall grow wise unto salvation.
 
 26-28. That confirms the word of His servant, and performs the counsel of His messengers; that says to Jerusalem, You shall be inhabited; and to the cities of Judah, You shall be built, and I will raise up the decayed places thereof: that says to the deep, Be dry, and I will dry up your rivers: that says of Cyrus, he is My shepherd, and shall perform all My pleasure: even saying to Jerusalem, You shall be built; and to the temple, your foundation shall be laid. This Book of the Prophet Isaiah was written long before the days of Cyrus, yet he is here mentioned by name, and the prophecy of what he would do is here given! We know how completely this prophecy was fulfilled and the Lord who uttered it, the God of Abraham, of Isaac, and of Jacob, the God and Father of our Lord Jesus Christ, is our God forever and ever! He shall be our Guide even unto death, blessed be His holy name! Amen.
-
 
 ---
 [[Sermon 2428 The Marriage Supper of the Lamb|← #2428]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2430 Christians, and Their Communion With God|#2430 →]]

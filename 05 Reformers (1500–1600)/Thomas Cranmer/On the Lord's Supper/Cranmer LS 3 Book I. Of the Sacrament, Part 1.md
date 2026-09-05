@@ -10,22 +10,21 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 3. Book I. Of the Sacrament, Part 1
 
-CRAFTY AND SOPHISTICAL CAVILLATION,
+*Crafty and Sophistical Cavillation*
 
-DEVISED BY :
+## Devised By
 
-M. STEPHEN GARDINER,
+## M. Stephen Gardiner
 
 DOCTOR OF LAW, LATE BISHOP OF WINCHESTER,
 
 & _ AGAINST THE TRUE AND GODLY DOCTRINE OF THE MOST HOLY SACRAMENT ; OF THE BODY AND BLOOD OF OUR SAVIOUR CHRIST (CALLED BY HIM “AN EXPLICATION AND ASSERTION THEREOF”), WITH AN ANSWER UNTO THE SAME, MADE BY THE MOST REVEREND FATHER IN GOD, THOMAS ARCHBISHOP OF CANTERBURY, PRIMATE OF ALL ENGLAND AND METROPOLITAN.
 
-THE TITLE OF THE BOOK OF STEPHEN GARDINER,
+## The Title of the Book of Stephen Gardiner
 
-LATE BISHOP OF WINCHESTER :
+## Late Bishop of Winchester
 
 AN. EXPLICATION AND ASSERTION OF THE TRUE CATHOLIC FAITH, TOUCHING THE MOST BLESSED SACRAMENT OF THE ALTAR, WITH CONFUTATION OF A BOOK WRITTEN AGAINST THE SAME.!
 
@@ -37,7 +36,7 @@ Wherefore, inasmuch as I purpose, God willing, in this defence of my former book
 
 ; oad “* Made by Stephen, bishop of Winchester,— [2 Dr Smith's book was set forth under this ‘and exhibited by his own hand for his defence to | title: ‘A confutation of the true and Catholic _ the King’s Majesty’s Commissioners at Lambeth.’ | Doctrine, &c.’’—Strype, Memorials of Cranmer. p. Original edition. } 1089. Oxford edition, 1840. App. Lxi. p. 960.]
 
-Forasmuch as among other mine allegations for defence of myself in this matter, moved against me by occasion of my sermon! made before the king's most excellent majesty, touching partly the catholic faith of the most precious sacrament of the altar, which I see now im- pugned by a book set forth under the name of my lord of Canterbury's grace; I have thought expedient for the better opening of the matter, and considering I am by name touched in the
+Forasmuch as among other mine allegations for defence of myself in this matter, moved against me by occasion of my sermon! made before the king's most excellent majesty, touching partly the catholic faith of the most precious sacrament of the altar, which I see now impugned by a book set forth under the name of my lord of Canterbury's grace; I have thought expedient for the better opening of the matter, and considering I am by name touched in the
 
 *I would as said book, the rather to utter partly that I have to say by confutation of that book; wherein eee my due Z think nevertheless not requisite to direct any speech by special name to the person of him to the matter that is entitled author, because it may possibly be that his name is abused, wherewith to set forth the matter, being himself of such dignity and authority in the commonwealth, as for that respect should be inviolable. For which consideration, I shall in my speech of such reproof — as the untruth of the matter necessarily requireth, omitting the special title of the author of — the book, speak only of the author in general, being a thing to me greatly to be marvelled — at, that such matter should now be published out of my lord of Canterbury's pen; but because he is a man, I will not wonder, and because he is such a man, I will reverently use him, and forbearing further to name him, talk only of the author by that general name.
 
@@ -55,13 +54,13 @@ And as for further forbearing of my name, and talking of the author in general �
 
 OF THE SACRAMENT. . ll your reverent using of yourself, before the king’s highness’ commissioners of late, doth a ‘plainly declare what reverent respect you have to them that be in dignity and authority in the commonwealth.
 
-WINCHESTER.
+## Winchester
 
 This author denieth the real presence of Christ's most precious body and blood in the ithe sum of sacrament. 7% This author denieth transubstantiation. —-*‘This author denieth evil men to eat and drink the body and blood of Christ in the sacrament.
 
 These three denials only impugn and tend to destroy that faith, which this author termeth the popish to err in, calling now all popish that believe either of these three articles by him denied, the truth whereof shall hereafter be opened. a Now, because faith afirmeth some certainty: if we ask this author, what is his faith which Pb gg bs he calleth true and catholic, it is only this, as we may learn by his book, that in our Lord's tendeth supper be consecrate bread and wine, and delivered as tokens only to signify Christ's body the catholic and blood: he calleth them holy tokens, but yet noteth that the bread and wine be never reason to” “the holier : he saith nevertheless they be not bare tokens, and yet concludeth, Christ not to be jie" *™* spiritually present in them, but only as a thing is present in that which signifieth it (which jit The effect of is the nature of a bare token), saying in another place, there is nothing to be worshipped, thor ealeth _ for there is nothing present but in figure and in a sign: which whosoever saith, calleth the Uae 3s thing in deed absent. And yet the author saith, Christ is in the man that worthily receiveth, spiritually present, who eateth of Christ's flesh and his blood reigning in heaven, whither the — good believing man ascendeth by his faith: and as our body is nourished with the bread and wine received in the supper, so the true believing man is fed with the body and blood of Christ. And this is the swm of the doctrine of that faith, which this author calleth the true catholic faith.
 
-CANTERBURY.
+## Canterbury
 
 a I desire the reader to judge my faith not by this short, envious, and untrue col- ~ lection and report, but by mine own book, as it is at length set out in the first part, _ from the 8th unto the 16th chapter. ____ And as concerning holiness* of bread and wine (whereunto I may add the water Bread, wine, in baptism) how can a dumb or an insensible and lifeless creature receive into itself be not holy, any food, and feed thereupon? No more is it possible that a spiritless creature should pe ny _ receive any spiritual sanctification or holiness. And yet do I not utterly deprive the outward sacraments of the name of holy things, because of the holy use whereunto _ they serve, and not because of any holiness that lieth hid in the insensible creature. Which although they have no holiness in them, yet they be signs and tokens of the maryellous works and holy effects, which God worketh in us by his omnipotent power. _ And they be no vain or bare tokens, as you would persuade, (for a bare token i is 4. _ that which betokeneth only and giveth nothing, as a painted fire, which giveth neither pax nt Pr
 
@@ -81,19 +80,19 @@ Christ is spiritually present.
 
 12 ‘THE FIRST BOOK | a
 
-WINCHESTER.
+## Winchester
 
 Now a catholic faith is an universal faith, taught and preached through all, and so — received and believed, agreeable and consonant to the scriptures, testified by such as by all — ages have in their writings given knowledge thereof, which be the tokens and marks of @— true catholic faith, whereof no one can be found in the faith this author calleth catholic.
 
 First, there is no scripture that in letter maintaineth the doctrine of this author’s book. For Christ saith not that the bread doth only signify his body absent, nor St Paul saith not so in any place, nor any other canonical scripture declareth Christ's words so. As for the sense and understanding of Christ's words, there hath not been in any age any one — approved and known learned man, that hath so declared and expounded Christ's words in his supper, that the bread did only signify Christ's body, and the wine his blood, as then 1 absent. (
 
-CANTERBURY.
+## Canterbury
 
 The first part of your description of a catholic faith is crafty and full of subtlety; _ for what you mean by “all” you do not express. The second part is very true, and agreeth fully with my doctrine in every thing, as well in the matter of transubstantiation, of the presence of Christ in the sacrament, and of the eating and drinking of him, as in the sacrifice propitiatory. For as I have taught in these four matters of controversy, — so learned I the same of the holy scripture; so is it testified by all old writers and — learned men of all ages; so was it universally taught and preached, received and believed, until the see of Rome, the chief adversary unto Christ, corrupted all together, and by hypocrisy and simulation in the stead of Christ erected antichrist ; who, being the — son of perdition, hath extolled and advanced himself, and sitteth in the templeof God, as he were God himself, loosing and binding at his pleasure, in heaven, hell, and earth ; condemning, absolving, canonising, and damning, as to his judgment he thinketh good. : But as concerning your doctrine of transubstantiation, of the real, corporal and ~ natural presence of Christ's body in the bread, and blood in the wine; that ill men — do eat his flesh and drink his blood; that Christ is many times offered; there is no — scripture that in letter maintaineth any of them (as you require in a catholic faith), but the scripture in the letter doth maintain this my doctrine plainly, that the bread — remaineth, Panis quem frangimus, nonne communicatio corporis Christi est? “Is not — the bread which we break the communion of Christ’s body?” And that evil men do — not eat Christ’s flesh, nor drink his blood; for the scripture saith expressly: “He — that eateth my flesh and drinketh my blood, dwelleth in me and I in him,” which is ~ not true of ill men. And for the corporal absence of Christ, what can be more plainly — said in the letter than he said of himself, “that he forsook the world?” besides other — scriptures which I have alleged in my third book, the fourth chapter. And the — scripture speaketh plainly in the Epistle to the Hebrews, that Christ was never more offered than once.
 
 But here you take suclwa large scope, that you flee from the four proper matters _ that be in controversy, unto a new scope devised by you, that I should absolutely deny the presence of Christ, and say, that the bread doth only signify Christ’s body — absent ; which thing I never said nor thought. And as Christ saith not so, nor Pauk saith not so, even so likewise I say not so; and my book in divers places saith clean contrary, that Christ is with us spiritually present, is eaten and drunken of us, and ~ dwelleth within us, although corporally he be departed out of this world, and is ascended | up into heaven.
 
-WINCHESTER.
+## Winchester
 
 And to the intent every notable disagreement from the truth may the more evidently appear, i} I will here in this place (as I will hereafter likewise when the case occurreth) join as it were an issue with this author, that is to say, to make a stay with him in this point triable (as ts they say) by evidence and soon tried. For in this point the scriptures be already by the ‘s author brought forth, the letter whereof proveth not his faith. And albeit he travaileth and — bringeth forth the saying of many approved writers, yet is there no one of them that wr |
 
@@ -101,13 +100,13 @@ And to the intent every notable disagreement from the truth may the more evident
 
 2 No author known and approved, that is to say, Ignatius, Polycarp, Justin, Irene, Ter. *No wri tullian, Cyprian, Chrysostom, Hilary, Gregory Nazianzen, Basil, Emissen, Ambrose, Cyril, ten thisen. _ Jerome, Augustine, Damascene, Theophylact, none of these hath this doctrine in plain terms, Sgr’ faith. that the bread only signifieth Christ's body absent; nor this sentence, that the bread and ‘he issue. wine be never the holier after consecration, nor that Christ's body is none otherwise present in the sacrament, but in a signification; nor this sentence, that the sacrament is not to be worshipped, because there is nothing present but in a sign. And herein what the truth is, may soon appear, as it shall by their works never appear to have been taught and preached, *Outward — received and believed universally, and therefore can be called no catholic faith (that is to sin say) allowed in the whole, through and in outward teaching, preached and believed.
 
-CANTERBURY.
+## Canterbury
 
 In your issues you make me to say what you list, and take your issue where you Your doc.
 
 é list; and then if twelve false varlets pass with you, what wonder is it? But I will prmnsant _ join with you this issue, that neither scripture nor ancient author writeth in express scription. words the doctrine of your faith. And to make the issue plain, and to join directly _ with you therein, thus I say: that no ancient and catholic author hath your doctrine in plain terms. And because I will not take my issue in bye matters (as you do), I will make it in the four principal points, wherein we vary, and whereupon my book resteth. This therefore shall be mine issue: that as no scripture, so no ancient author known 6. and approved, hath in plain terms your transubstantiation: nor that the body and “¥'*“* _ blood of Christ be really, corporally, naturally, and carnally under the forms of bread and wine: nor that evil men do eat the very body and drink the very blood of Christ: nor that Christ is offered every day by the priest a sacrifice propitiatory for sin. _ Wherefore by your own description and rule of a catholic faith, your doctrine and teaching in these four articles cannot be good and catholic, except you can find it in _ plain terms in the scripture and old catholic doctors; which when you do, I will hold up my hand at the bar, and say, “guilty”: and if you cannot, then it is reason that you do the like, per legem talionis.
 
-WINCHESTER.
+## Winchester
 
 _ Ff this author, setting apart the word “catholic”, would of his own wit go about to prove, howsoever scripture hath been wnderstanded hitherto, yet it should be understanded indeed as he now teacheth, he hath herein divers disadvantages and hindrances worthy consideration, — which I will particularly note. First, the prejudice and sentence, given as it were by his own mouth against himself, now «a notable in the book called the Catechism in his name set forth. man t be condemn
 
@@ -123,7 +122,7 @@ oted, because Gamaliel’s observation written in the Acts ~ the Apostles is all
 
 Berengarius.
 
-CANTERBURY.
+## Canterbury
 
 I have not proved in my book my four assertions by mine own wit, but by the — collation of holy scripture, and the sayings of the old holy catholic authors. And as — for your five notes, you might have noted them against yourself, who by them have — much more disadvantage and hindrance than I have.
 
@@ -163,7 +162,7 @@ Fe As for the great power and omnipotency of God, it is no place here to dispute
 
 - gone hence when it is here, you have some strong syment', and be a cunning geome- ‘trician ; but yet you shall never be good logician, that would set together two contradictories: for that, the schoolmen say, God cannot do.
 
-WINCHESTER.
+## Winchester
 
 If this author without force of necessity would induce it, by the like speeches, as when 9. Christ said, “I am the door,’ “I am the vine,” “he is Helias,” and such other; and because py bg ad tis a figurative speech in them, it may be so here, which maketh no kind of proof that seme tt is so here; but yet, if by way of reasoning I would yield to him therein, and call it “the faith of “a emp speech, as he doth; what other point of faith is there then in the matter, but to but to believe oe he story, that Christ did institute such a supper, wherein he gave bread and wine for *The Lord’s token of his body and blood, which is now after this understanding no secret mystery at papa doec rag
 
@@ -191,7 +190,7 @@ Whosoever receiveth this token of water, shall receive remission of sin, or the 
 
 Ghost, or shall have any profit of it in especial, but, “‘ Do this.”
 
-WINCHESTER.
+## Winchester
 
 And albeit this author would not have them bare tokens, yet and* they be only tokens, | they have no warrant signed by scripture for any apparel at all. For the sixth of John speaketh not of any promise made to the eating of a token of Christ's flesh, but to the eating — of Christ's very flesh, whereof the bread (as this author would have it) is but a figure in — “This is my body.” And if it be but a figure in Christs —
 
@@ -199,7 +198,7 @@ Christ's words, when he said, words, it is but a figure in St Paul’s words, wh
 
 of signification of special effect.
 
-CANTERBURY.
+## Canterbury
 
 If I granted for your pleasure that the bare bread (having no further respect) — were but only a bare figure of Christ's body, or a bare token (because that term — liketh you better, as it may be thought for this consideration, that men should think that I take the bread in the holy mystery to be but as it were a token of ‘F recom- — mend me unto you), but if I grant, I say, that the bare bread is but a bare token — of Christ's body, what have you gained thereby? Is therefore the whole use of the ft bread in the whole action and ministration of the Lord’s holy supper but a naked or — nude and bare token? Is not one loaf being broken and distributed among faithful — people in the Lord’s supper, taken and eaten of them, a token that the body of Christ
 
@@ -225,7 +224,7 @@ hath the very same thing; which is a plain and direct answer to that same your l
 
 _ yours. For ye say, when this question is demanded of me, What to signify? “ Here must be a sort of good words framed without scripture.” But here St Paul answereth your question in express words, that it is the Lord’s death that shall be signified, 1 cor. xi % represented, and preached in these holy mysteries, until his coming again. And this ‘remembrance, representation and preaching of Christ’s death, cannot be without special effect, except you will say that Christ worketh not effectually with his word and “sacraments. And St Paul expresseth the effect, when he saith: “The bread which we 1 Cor. x. break is the communion of Christ’s body.” But by this place and such like in your “book, ye disclose yourself to all men of judgment, either how wilful in your opinion, or how slender in knowledge of the scriptures you be.
 
-WINCHESTER.
+## Winchester
 
 | And therefore like as the teaching is new, to say it is an only figure, or only signipet me of th; so the matter of signification must be newly devised, and new wine have new bottles, only figure. and be thoroughly new, after fifteen hundred and fifty years, in the very year of jubilee (as faith te (3 they were wont to call it) to be newly erected and builded in Englishmen’s hearts. SS . beginneth to be published now. CANTERBURY.
 
@@ -241,7 +240,7 @@ A lesson of Solomon’s judgment.
 
 * Truth needeth no aid of lies.
 
-* Truth loveth simpli- city and plainness.
+* Truth loveth simplicity and plainness.
 
 The church of Rome is not the true mother of the catholic faith.
 
@@ -251,13 +250,13 @@ the doctrine of Christ by the name of newness); or else that in this year of jub
 
 But all men of learning and judgment know well enough that this your doctrine is no older than the bishop of Rome’s usurped supremacy, which though it be of good age by number of years, yet is it new to Christ and his word. If there were such darkness in the world now, as hath been in that world which you note for old, the people might drink new wine of the whore of Babylon’s cup, until they were as drunk with hypocrisy and superstition, as they might well stand upon their legs, and no man once say, black is their eye. But now, (thanks be to God!) the light of his word so shineth in the world, that your drunkenness in this year of jubilee is espied, so that you cannot erect and build your popish kingdom any longer in Englishmen’s hearts, without your own scorn, shame and confusion. The old popish bottles must needs burst, when the new wine of God’s holy word is poured into them.
 
-WINCHESTER.
+## Winchester
 
 Which new teaching, whether it proceedeth from the spirit of truth or no, shall more plainly appear by such matter as this author uttereth wherewith to impugn the true faith taught hitherto. For among many other proofs, whereby truth after much travail in con-
 
 * Tokens how tention at the last prevaileth and hath victory, there is none more notable, than when the very adversaries of truth (who pretend, nevertheless, to be truth’s friends) do by some evident untruth bewray themselves. According whereunto, when the two women contended before king Solomon for the child yet alive, Solomon discerned the true natural mother from the other, by their speeches and sayings; which in the very! mother were ever conformable unto nature, and in the other, at the last evidently against nature. The very true mother spake always like herself, and never disagreed from the truth of nature, but rather than the child should be killed (as Solomon threatened when he called for a sword) required? it to be given whole alive to the other woman. The other woman that was not the true mother cared more for victory than for the child, and therefore spake that was in nature an evidence that she lied calling herself mother, and saying, “ Let it be divided,” which no® natural mother could say of her own child. Whereupon proceedeth Solomon’s most wise judgment, which hath this lesson in it,—ever where contention is, on that part to be the truth, where all sayings and doings appear uniformly consonant to the truth pretended; and on what side a notable lie appeareth, the rest may be judged to be after the same sort. For truth needeth no aid of lies, craft, or sleight, wherewith to be supported ort maintained. So as in the entreating of the truth of this high and ineffable mystery of the sacrament, on what part thou, reader, seest craft, sleight, shift, obliquity, or in any one point an open manifest lie, there thou mayest consider, whatsoever pretence be made of truth, yet the victory of truth not to be there intended, which loveth simplicity, plainness, direct speech, without admixtion of shift or colour.
 
-CANTERBURY.
+## Canterbury
 
 If either division or confusion may try the true mother, the wicked church of Rome (not in speech only, but in all other practices) hath long gone about to oppress, confound and divide the true and lively faith of Christ, shewing herself not to be the true mother, but a most cruel stepmother, dividing, confounding and counterfeiting all things at her pleasure, not contrary to nature only, but chiefly against the plain words of scripture.
 
@@ -305,9 +304,9 @@ _ Justus Jonas hath translated a catechism out of Dutch into Latin, taught in th
 
 Vuremberg in Germany, where Hosiander is chief preacher, in which catechism they be accounted proveth this ‘ or no true christian men, that deny the presence of Christ's body in the sacrament. The words tine now,
 
-“really” and “ substantially” be not expressed as they be in Bucer, but the word “truly” is — there, and, as Bucer saith, that is, substantially. Which catechism was translated into English — 14. in this author’s name about two years past. 7 Philip Melancthon, no papist nor priest, writeth a very wise epistle in this matter to — (Ecolampadius, and signifying soberly his belief of the presence of Christ’s very body in the — sacrament ; and to prove the same to have been the faith of the old church from the beginning, — allegeth the sayings of Irene, Cyprian, Chrysostom, Hilary, Cyril, Ambrose, Theophylact, which — authors he esteemeth both worthy credit, and to affirm the presence ef Christ's body in the sacrament plainly without ambiguity. He answereth to certain places of St Augustine, and saith all GEcolampadius’ enterprise to depend upon conjectures, and arguments applausible to idle wits, with much more wise matter, as that epistle doth purport, which is set out in a book — of a good volume among the other epistles of CEcolampadius, so as no man may suspect anything — counterfeit in the matter. q One Hippinus, or Cpinus, of Hamburgh, greatly esteemed among the Lutherans, hath — written a book to the king’s majesty that now is, published abroad in print, wherein much inveighing against the church of Rome, doth in the matter of the sacrament write as followeth: “Eucharistia is called by itself a sacrifice, because it is a remembrance of the true sacrifice offered upon the cross, and that in it is dispensed the true body and true blood of Christ, which is plainly the same in essence, that is to say substance, and the same blood in essence signifying, though the manner of presence be spiritual, yet the substance of that is present, is the same with that in heaven.” Erasmus, noted a man that durst and did speak of all abuses in the church liberally, taken — for no papist, and among us so much esteemed, as his paraphrases of the gospel is ordered * Erasmus | to be had in every church of this realm, declareth in divers of his works most manifestly his — commendeth tothe world Faith of the presence of Christ's body in the sacrament, and by his epistles recommendeth to — the work of Algerus upon ¢he world the work of Algerus in that matter of the sacrament, whom he noteth well exercised — ment. in the scriptures, and the old doctors, Cyprian, Hilary, Ambrose, Jerome, Augustine, Basil, Rasa See Chrysostom. And for Erasmus’ own judgment, he saith we have an inviolable foundation of — upset the Christ's own words, “This is my body,” rehearsed again by St Paul: he saith further, the es body of Christ is hidden under those signs; and sheweth also upon what occasions men have — repent, that — erred in reading the old fathers, and wisheth that they which have followed Berengarius in garius’ error. error would also follow him in repentance. I will not, reader, encumber thee with more words of Erasmus. * Peter MarPeter Martyr, of Oxford, taken for no papist, in a treatise he made of late of the sacrament, — latabeen which is now translated into English, sheweth how as touching the real presence of Christ's body, — the sacre. at ts not only the sentence of the papists, but of other also; whom the said Peter nevertheless doth — ery with as many shifts and lies as he may impugn for that point, as well as he doth the papists for transubstantiation, but yet he doth not, as this author doth, impute that faith of the real presence — Anissue. Of Christ's body and blood to the only papists. Whereupon, reader, here I join with the author an issue, that the faith of the real and substantial presence of Christ's body and blood in the — sacrament is not the device of papists, or their faith only, as this author doth considerately — slander it to be, and desire therefore that according to Solomon’s judgment this may serve for a * This author note and mark, to give sentence! for the true mother of the child. For what should this mean, so would with the envious Without shame openly and untruly to call this faith popish, but only with the envious word of words of pa- pists oppress papist to overmatch the truth ? the truth,
+“really” and “ substantially” be not expressed as they be in Bucer, but the word “truly” is — there, and, as Bucer saith, that is, substantially. Which catechism was translated into English — 14. in this author’s name about two years past. 7 Philip Melancthon, no papist nor priest, writeth a very wise epistle in this matter to — (Ecolampadius, and signifying soberly his belief of the presence of Christ’s very body in the — sacrament ; and to prove the same to have been the faith of the old church from the beginning, — allegeth the sayings of Irene, Cyprian, Chrysostom, Hilary, Cyril, Ambrose, Theophylact, which — authors he esteemeth both worthy credit, and to affirm the presence ef Christ's body in the sacrament plainly without ambiguity. He answereth to certain places of St Augustine, and saith all GEcolampadius’ enterprise to depend upon conjectures, and arguments applausible to idle wits, with much more wise matter, as that epistle doth purport, which is set out in a book — of a good volume among the other epistles of CEcolampadius, so as no man may suspect anything — counterfeit in the matter. q One Hippinus, or Cpinus, of Hamburgh, greatly esteemed among the Lutherans, hath — written a book to the king’s majesty that now is, published abroad in print, wherein much inveighing against the church of Rome, doth in the matter of the sacrament write as followeth: “Eucharistia is called by itself a sacrifice, because it is a remembrance of the true sacrifice offered upon the cross, and that in it is dispensed the true body and true blood of Christ, which is plainly the same in essence, that is to say substance, and the same blood in essence signifying, though the manner of presence be spiritual, yet the substance of that is present, is the same with that in heaven.” Erasmus, noted a man that durst and did speak of all abuses in the church liberally, taken — for no papist, and among us so much esteemed, as his paraphrases of the gospel is ordered * Erasmus | to be had in every church of this realm, declareth in divers of his works most manifestly his — commendeth tothe world Faith of the presence of Christ's body in the sacrament, and by his epistles recommendeth to — the work of Algerus upon ¢he world the work of Algerus in that matter of the sacrament, whom he noteth well exercised — ment. in the scriptures, and the old doctors, Cyprian, Hilary, Ambrose, Jerome, Augustine, Basil, Rasa See Chrysostom. And for Erasmus’ own judgment, he saith we have an inviolable foundation of — upset the Christ's own words, “This is my body,” rehearsed again by St Paul: he saith further, the es body of Christ is hidden under those signs; and sheweth also upon what occasions men have — repent, that — erred in reading the old fathers, and wisheth that they which have followed Berengarius in garius’ error. error would also follow him in repentance. I will not, reader, encumber thee with more words of Erasmus. * Peter MarPeter Martyr, of Oxford, taken for no papist, in a treatise he made of late of the sacrament, — latabeen which is now translated into English, sheweth how as touching the real presence of Christ's body, — the sacre. at ts not only the sentence of the papists, but of other also; whom the said Peter nevertheless doth — ery with as many shifts and lies as he may impugn for that point, as well as he doth the papists for transubstantiation, but yet he doth not, as this author doth, impute that faith of the real presence — Anissue. Of Christ's body and blood to the only papists. Whereupon, reader, here I join with the author an issue, that the faith of the real and substantial presence of Christ's body and blood in the — sacrament is not the device of papists, or their faith only, as this author doth considerately — slander it to be, and desire therefore that according to Solomon’s judgment this may serve for a * This author note and mark, to give sentence! for the true mother of the child. For what should this mean, so would with the envious Without shame openly and untruly to call this faith popish, but only with the envious word of words of papists oppress papist to overmatch the truth ? the truth,
 
-CANTERBURY.
+## Canterbury
 
 This explication of the true catholic faith noteth to the reader certain evident and manifest untruths uttered by me (as he saith), which I also pray thee, good reader, — to note for this intent, that thou mayest take the rest of my sayings for true, which — he noteth not for false, and doubtless they should not have escaped noting as well as” the other, if they had been untrue, as he saith the other be. And if I can prove : these things also true, which he noteth for manifest and evident untruths, then me thinketh* it is reason that all my sayings should be allowed for true, if those be proved —
 
@@ -339,7 +338,7 @@ Saint Augustine said well when he noted these words of Christ, “ Verily, veril
 
 [’ These words, “and not figuratively meat,” | [? And so it is, 1551.} are not found in the 1541. ed. of Winchester’s book. ] alone; but as the same flesh in Christ is united to the divine nature, so is it, as Christ said, (after Cyril’s exposition,) spirit and life, not changed into the divine nature of the spirit, but for the ineffable wnion in the person of Christ thereunto. It is vivificatrix, as Cyril said, and as the holy Ephesine council decreed: “ A flesh giving life,” according to Christ’s words: “ Who eateth my flesh, and drinketh my blood, hath eternal life, and I will raise him up at the latter day.” And then to declare unto us, how in giving this life to us Christ useth the instrument of his very human body, it followeth: “ For my flesh is verily meat, and my blood is verily drink3.” ~~“ So like as Christ sanctifieth by his godly Spirit, so doth he sanctify us by his godly flesh, and therefore repeateth again, to inculcate the celestial thing of this mystery, and . saith: “ He that eateth my flesh, and drinketh my blood, dwelleth in me and I in him,” which is the natural and corporal union between us and Christ. Whereupon followeth, that as Christ is naturally in his Father, and his Father in him, so he that eateth verily the flesh of Christ, he is by nature in Christ, and Christ is naturally in him, and the worthy receiver hath life increased, augmented, and confirmed by the participation of the flesh of Christ. And because of the ineffable union of the two natures, Christ said, “This is the food that came down from heaven,” because God (whose proper flesh it is) came down from heaven, and hath another virtue than manna had, because this giveth life to them that worthily receive it: which manna (being but a figure thereof) did not, but being in this food Christ's very flesh, inseparably united to the Godhead, the same is of such efficacy, as he that worthily eateth of it shall live for ever. And thus I have declared the. sense of Christ's words, brought forth out of the gospel of St John. Whereby appeareth, how evidently they set forth the doctrine of the mystery of the eating of Christ's flesh, and drinking his blood in the sacrament, which must needs be understanded of a corporal eating, as Christ did after order in the institution of the said sacrament, according to his promise and doctrine here declared.
 
-CANTERBURY.
+## Canterbury
 
 Here before you enter into my second untruth (as you call it), you find fault by the way, that in the rehearsal of the words of Christ, out of the Gospel of St John, I begin a little too low. But if the reader consider the matter for the which I allege 4. St John, he shall well perceive that I began at the right place where I ought to begin. For I do not bring forth St John for the matter of the real presence of Christ in the sacrament, whereof is no mention made in that chapter; and as it would not have served me for that purpose, no more doth it serve you, although you cited the whole gospel. But I bring St John for the matter of eating Christ’s flesh and drinking his _ blood, wherein I passed over nothing that pertaineth to the matter, but rehearse the whole fully and faithfully. And because the reader may the better understand the a - matter, and judge between us both, I shall rehearse the words of my former book, ___ which be these.
 
@@ -393,7 +392,7 @@ tizati estis, Christum induistis: “As many as be baptized in Christ, put Chris
 
 But your understanding of the sixth chapter of John is such as never was uttered In the sixth of any man before your time, and as declareth you to be utterly ignorant of God’s John, Christ mysteries, For who ever said or taught before this time, that the sacrament was the corporal eat-
 
-~ cause why Christ said, “If we eat not the flesh of the Son of man, we have not life Tate vil in us?” The spiritual eating of his flesh, and drinking of his blood by faith, by digesting his death in our minds, as our only sree, ransom, and redemption from eternal dam- nation, is the cause wherefore Christ said: “That if we eat not his flesh, and drink not his blood, we have not life in us; and if we eat his flesh, and drink his blood,
+~ cause why Christ said, “If we eat not the flesh of the Son of man, we have not life Tate vil in us?” The spiritual eating of his flesh, and drinking of his blood by faith, by digesting his death in our minds, as our only sree, ransom, and redemption from eternal dam-nation, is the cause wherefore Christ said: “That if we eat not his flesh, and drink not his blood, we have not life in us; and if we eat his flesh, and drink his blood,
 
 | r have everlasting life.” And if Christ had never ordained the sacrament, yet should we have eaten his flesh, and drunken his blood, and have had thereby everlasting life; as all the faithful did before the sacrament was ordained, and do daily when they
 
@@ -417,15 +416,15 @@ whole humanity, but his flesh only, and neither his blood nor his soul. And in
 
 @ sixth of John Christ made not bread his flesh, when he said, “The bread is my fe + but he expounded, in those words, what bread it was that he meant of, when
 
-26 ‘THE FIRST BOOK.
+## 26 ‘the First Book
 
 he promised them bread that should give them eternal life. He declared in thos words, that himself was the bread that should give life, because they should not have their fantasies of any bread made of corn. And so the eating of that heavenly brag could not be understanded of the sacrament, nor of corporal eating with the mouth; but of spiritual eating by faith, as all the old authors do most clearly expound andl i declare. And seeing that ban is no corporal eating, but chewing with the teeth — ; or swallowing (as all men do know), if we eat Christ corporally, then you must confess that we either swallow up Christ’s flesh, or chew and tear it with our teeth, (as pope Nicholas constrained Berengarius to confess,) which St Augustine saith is a wicked and heinous thing. But in few words to answer to this second evident and manifest untruth (as you object against me), I would wish you as truly to understand these words of the sixth chapter of John, as I have truly translated them.
 
-WINCHESTER.
+## Winchester
 
 Now, where the author, to exclude the mystery of corporal manducation, bringeth forth of St Augustine such words as entreat of the effect and operation of the worthy receiving of the sacrament; the handling is not so sincere as this matter requireth. For, as hereafter shall be entreated, that is not worthily and well done, may (because the principal intent faileth) be called not done, and so St Augustine saith: “Let him not think to eat the body of Christ, that dwelleth not in Christ ;’ not because the body of Christ is not received, which by St Augustine's mind evil men do to their condemnation, but because the effect of life Ffaileth. And so the author by sleight, to exclude the corporal manducation of Christ's most precious body, uttereth such words, as might sound Christ to have taught the dwelling mm Christ to be an eating: which dwelling may be without this corporal manducation in him that cannot attain the use of it, and dwelling in Christ is an effect of the worthy mandi cation, and not the manducation itself, which Christ doth order to be practised in the most precious sacrament institute in his swpper. Here thou, reader, mayest see how this doctrine of Christ (as I have declared it) openeth the corporal manducation of his most holy flesh, 4 and drinking of his most precious blood, which he gave in his supper under the form of bread and wine. :
 
-CANTERBURY.
+## Canterbury
 
 The third unThis is the third evident and manifest untruth, whereof you note me. And behandling the cause you say that in citing of St Augustine in this place, I handle not the matter words of S. ; Augustine, $0 sincerely as it requireth, let here be an issue between you and me, which of us minessve- ‘both doth handle this matter more sincerely ; and I will bring such manifest evidence for me, that you shall not be able to open your mouth against it. For I allege St Augustine justly as he speaketh, adding nothing of myself. The words in my book be these.
 
@@ -445,7 +444,7 @@ _ self also plainly enough; upon whose words I thought I might be as bold to bui
 
 _ the words of Cyprian, and of Christ himself, to stablish a false doctrine to the high
 
-_ dishonour of God, and the corruption of his most true word. For you add this word “ worthily,” whereby you gather such an unworthy meaning of St Augustine's worthity. words as you list yourself. And the same you do to the very words of Christ him- self, who speaketh absolutely and plainly, without adding of any such word as you put thereto, What sophistry this is, you know well enough. Now if this be per- mitted unto you, to add what you list, and to expound how you list, then you may say what you list without controlment of any man, which it seemeth you _ look for.
+_ dishonour of God, and the corruption of his most true word. For you add this word “ worthily,” whereby you gather such an unworthy meaning of St Augustine's worthity. words as you list yourself. And the same you do to the very words of Christ him-self, who speaketh absolutely and plainly, without adding of any such word as you put thereto, What sophistry this is, you know well enough. Now if this be per-mitted unto you, to add what you list, and to expound how you list, then you may say what you list without controlment of any man, which it seemeth you _ look for.
 
 And not of like sort, but of like evilness do you handle (in reprehending of my second untruth, as you call it) another place of St Augustine in his book de doctrina August. de Christiana, where he saith, that the eating and drinking of Christ’s flesh and blood ¢ Christiana, is a figurative speech: which place you expound so far from St Augustine’s mean13 aad ing, that whosoever looketh upon his words, may by and by discern that you do fighinnen. ot, or will not, understand him. But it is most like (the words of him being so "plain and easy) that purposely you will not understand him, nor nothing else that is against your will, rather than you will go from any part of your will and received opinion. For it is plain and clear that St Augustine in that place speaketh not one word of the separation of the two natures in Christ; and although Christ’s flesh be never so surely and inseparably united unto his Godhead (without which union it could profit nothing), yet being so joined, it is a very man’s flesh, the eating whereof (after the proper speech of eating) is horrible and abiobiichte Wherefore the eating of Christ's flesh must needs be otherwise understanded, than after the proper and common eating of other meats with the mouth, which eating after such sort could avail nothing. And therefore St Augustine in that place declareth the eating of Christ’s flesh to be only a figurative speech. And he openeth - the figure so as the eating must be meant with the mind, not with the mouth, that is to say, by chewing and digesting in our minds, to our great consolation and profit,
 
@@ -471,7 +470,7 @@ t manentem in se habere: “This is to eat that meat, and drink that drink, to a
 
 _ drinking of Christ be here defined by the effect, (for the very eating is the believing,)
 
-_ yet wheresoever the eating is, the effect must be also, if the definition of St Augus- ine be truly given. And therefore, although good and bad eat carnally with their eeth bread, being the sacrament of Christ’s body; yet no man eateth his very flesh, which is spiritually eaten, but he that dwelleth in Christ, and Christ in him.
+_ yet wheresoever the eating is, the effect must be also, if the definition of St Augus-ine be truly given. And therefore, although good and bad eat carnally with their eeth bread, being the sacrament of Christ’s body; yet no man eateth his very flesh, which is spiritually eaten, but he that dwelleth in Christ, and Christ in him.
 
 __ And where in the end’ you refer the reader to the declaration of Christ's words, it is an evil sequel: you declare Christ's words thus, ergo, they be so meant. For a y like reason might Nestorius have prevailed against Cyril, Arius against Alex- and r, mt the Pope against Christ. For they all prove their errors by the doctrine
 
@@ -537,7 +536,7 @@ Christ himself, the author of all truth, and by his holy apostle St Paul, as he 
 
 is turned into ror Depestcn God grant that, all contention set aside, both the parties may come to this — of variance and discord. holy communion with such a lively faith in Christ, and such an unfeigned love | to all Christ’s members, that as they carnally eat with their mouths this sacra- — mental bread, and drink the wine, so spiritually they may eat and drink the very flesh and blood of Christ which is in heaven, and sitteth on the right hand of his Father; and that finally by his means they may enjoy wit q him the glory and kingdom of heaven! Amen. |
 
-WINCHESTER.
+## Winchester
 
 26\. Now let us consider the texts of the evangelists, and St Paul, which be brought in by the — author as followeth. Matt. xxvi. “ When they were eating, Jesus took bread, and when he had given thanks, he brake it, q giving it to his disciples, and said, Take, eat; this is my body. And he took the cup, and 4 when he had given thanks, he gave it to them, saying, Drink ye all of this; for this is my — blood of the new testament, that is shed for many for the remission of sins. But I say unto — you, I will not drink henceforth of this slo of the vine, until pane day when I shall drink ‘ it new with you in my Father’s kingdom.” 4 Mark xiv. “As they did eat, Jesus took bread, and when he had blessed, he brake it, and gave it to them,.and said, Take, eat; this is my body. And taking the cup, when he had given thanks, y he gave it to them: and they all drank of it. And he said unto them, This is my blood of: the new testament, which is shed for many. Verily I say unto you, I will drink no more — of the fruit of the vine, until that day that I drink it new in the kingdom of God.” | Luke xxii. “ When the hour was come, he sat down, and the twelve apostles with him; and he said . unto them, I have greatly desired to eat this Pascha with you, before I suffer: for I say unto — you, henceforth I will not eat of it any more, until it be fulfilled in the kingdom of God. And he took the eup, and gave thanks, and said, Take this, and divide it among you: for TF say unto you, I will not drink of the fruit of the vine, wntil the kingdom of God come. And he took bread, and when he had given thanks, he brake it, and gave it unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also — when he had supped, ” took the cup, saying, This cup is the new testament in my blood, q which is shed for you.” "9 1 Cor. x. “Ts not the cup of blessing which we bless a communion of the blood of Christ? Is nob the bread which we break a communion of the body of Christ? We, being wnany; are one bread, and one body; for we are all partakers of one bread, and of one cup.” 4 1 Cor. xi. “That which I delivered unto you, I received of the Lord. For the Lord Jesus, the ; same e night in the which he was betrayed, took bread, and when he had given thanks, he brake it, and
 

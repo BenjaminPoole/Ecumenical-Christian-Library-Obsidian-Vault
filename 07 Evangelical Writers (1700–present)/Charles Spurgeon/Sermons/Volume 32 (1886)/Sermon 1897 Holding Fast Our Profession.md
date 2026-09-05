@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Holding Fast Our Profession
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1897
-
-DELIVERED BY.
 
 > "Let us holdfast the profession of our faith without wavering; (for He is faithful who promised)." Hebrews 10:23.
 
@@ -140,7 +137,6 @@ Have you found Him faithful? Has the Lord failed you? Has the Lord been untrue i
 I have heard of a husband and wife who felt their love for each other to be so strong that they almost wished to go through the wedding ceremony again, to show how content they were to bear the easy yoke of married love. Many of us could say the same. We would also be joined anew to our Lord! Let us take afresh His yoke upon us. Let us put our shoulder down to the Cross, again, and commence again to serve the Lord Jesus with the love of our espousals and the freshness of our earliest days. May the Lord bless us to that end!
 
 While we are doing this, hope that others who never did love Him before will now say, "We will come with you and begin a new life from this good hour." It will be a happy, happy circumstance if this should be the case. God grant it may be so with many, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1896 The Three Hours of Darkness|← #1896]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1898 Mouth and Heart|#1898 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Priesthood of Believers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3266
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "An holy priesthood." 1 Peter 2:5.
 
@@ -81,7 +78,7 @@ But to conclude once more, the Christian's consecration is to be constant This r
 
 But what am I talking about? There are some, here, that have never yet been priests to God. What have they been doing today? Why even on God's holy day they do not serve Him but themselves! Why, Sir, God has never reaped a solitary ear of grain from your field. Take care lest having lived to yourself, you die to yourself—having lived without God, you die without God and find it a tremendous thing to stand and be judged without a Savior to be your helper, or interceding priest! I say nothing to you about being a priest to God. You need a priest for yourself, first. Do not go to any man. No man has power to help your soul except to pray and plead for you. The saving, pardoning power lies only with Jesus Christ. Look away to Him! He died—trust in His Sacrifice! He rose, He ascended—He is standing at God's right hand. There is life for a look at Him. Look! Trust! And you shall then be cleansed, clothed, anointed, consecrated and so serve God. But your first business is to go to Christ. Oh, may Christ come to you and save you now—and He shall have Glory out of us, world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 2.
+## Exposition by C. H. Spurgeon: 1 John 2
 
 Verse 1. My little children, these things write I unto you, that you sin not For this we ought to watch and strive, that we sin not.
 
@@ -148,7 +145,6 @@ and [See Sermons #811, Volume 14—UNTO YOU YOUNG MEN and #1715, Volume 29—A D
 27\. 28. But the anointing which you have received of Him abides in you, and you need not that any man teach you: but as the same anointing teaches you of all things, and is truth, and is no lie, and even as it has taught you, you shall abide in Him. And now, little children, abide in Him—How John continues to urge us to stand fast in Christ! As the Holy Spirit has taught us to trust Christ, so would He have us "abide in Him." And this is one great reason why we are to abide in Him—
 
 28\. 29. That, when He shallappear, we may have confidence, andnot be ashamed before Him at His coming. Ifyou know that He is righteous, you know that everyone that does righteousness is born of Him.
-
 
 ---
 [[Sermon 3265 Faith Tried and Triumphing|← #3265]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3267 Under His Shadow|#3267 →]]

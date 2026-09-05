@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 103. Deuteronomy 11:26-32
-
-**Deuteronomy 11**
 
 **26.** Behold, I set before you this day a blessing and a curse;
 

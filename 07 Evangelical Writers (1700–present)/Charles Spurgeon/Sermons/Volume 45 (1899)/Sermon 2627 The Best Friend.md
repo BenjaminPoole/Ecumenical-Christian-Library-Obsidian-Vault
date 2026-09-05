@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Best Friend
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2627
 
-DELIVERED BY C. H. SPURGE0N,.
+*Delivered by C. H. Spurge 0n*
 
 > "Your own friend, and your father's friend, forsake not." Proverbs 27:10.
 
@@ -103,7 +102,7 @@ Those about to be baptized will feel, I trust—as we shall when we look on—an
 
 Nail your colors to the mast! Bear in your body the marks of the Lord Jesus. Yes, let everyone of us who has been baptized into Christ feel that our whole body bears the watermark, for we have been "buried with Him by baptism into death." It was not for the putting off of the filthiness of the flesh, but as a declaration that we were dead to the world and quickened into newness of life in Christ Jesus our Savior. So let it be with you, too, dear Friends, as you follow your Lord through the water! Cling to Him, cleave to Him! "Your own Friend, and your father's Friend, forsake not." May God add His blessing, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:9-27.
+## Exposition by C. H. Spurgeon: John 15:9-27
 
 Verse 9. As the Father has loved Me, so have I loved you. Oh, drink this nectar down! It is as when Cleopatra dissolved the pearl into a single draught, for here is the choicest pearl of the Truths of God that was ever dissolved into a single verse to be a delicious draught for His people to drink! "As the Father has loved Me"—as surely as the Father has loved Me and, then, "as"—that is—in the same manner "as the Father has loved Me"—without beginning, without ending, without measure, without change, "so have I loved you."
 
@@ -130,7 +129,6 @@ Verse 9. As the Father has loved Me, so have I loved you. Oh, drink this nectar 
 26\. Whom I'll send unto you from the Father, even the Spirit of Truth, which proceeds from the Father, He shall testify of Me. By this mark you may know whether that which has been taught you is of the Spirit of God. If it does not testify of Christ—if He is not the head and front of it all—there is nothing in it for you to accept. If any man comes to you with what he calls a revelation, if it is not all concerning Christ, by this shall you judge it—it is not of the Spirit of God if it does not testify of Christ.
 
 27\. And you also shall bear witness, because you have been with Me from the beginning. May we all bear witness according as we have been with Christ, for there is no bearing witness to Christ unless we have first been with Him.
-
 
 ---
 [[Sermon 2626 Peace in Believing|← #2626]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2628 All Hail!|#2628 →]]

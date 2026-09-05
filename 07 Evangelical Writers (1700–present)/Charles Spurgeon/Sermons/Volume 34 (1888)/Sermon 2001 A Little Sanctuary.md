@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # A Little Sanctuary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2001
@@ -103,8 +102,7 @@ The Lord has ways of weaning us from the visible and the tangible, and bringing 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’Ezekiel 11.
 
-HYMNS FROM "OUR OWN HYMN BOOK"’196, 198, 708.
-
+## Hymns from "Our Own Hymn Book"’196, 198, 708
 
 ---
 [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2003 Young Man, Is This For You|#2003 →]]

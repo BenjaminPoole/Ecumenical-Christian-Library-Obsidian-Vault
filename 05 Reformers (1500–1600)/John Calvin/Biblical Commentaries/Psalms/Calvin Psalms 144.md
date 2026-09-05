@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 144
-
-**PSALM 144**
 
 This Psalm contains a mixture of praise trod prayer; for David, while he extols in very high terms the great mercies which God had bestowed upon him, is led at the same time, either from a consideration of the many trials to be met with in the whole course of human life, or from the connection he still had with wicked men, to pray that God would continue to show this favor to the end. There is this difference between it and Psalm 18, [^1] that the latter is triumphant throughout, the kingdom having been thoroughly subdued, and affairs going forward prosperously, whereas in the present he mixes up one or two things which are indicative of fear and anxiety, there being some remaining enemies to cause him apprehension. [^2]
 

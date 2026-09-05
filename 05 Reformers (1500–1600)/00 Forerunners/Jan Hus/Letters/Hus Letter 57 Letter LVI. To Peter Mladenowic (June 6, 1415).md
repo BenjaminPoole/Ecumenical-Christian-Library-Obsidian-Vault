@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 57. Letter LVI. To Peter Mladenowic (June 6, 1415)
-
-LETTER LVI. TO PETER MLADENOWIC (June 6, 1415)
 
 He intends to cleave to the truth ; Various legacies ; No sum can repay your love ; " Accept one of Wyclif's works " ; "I fear many may be offended" .... 211-12
 

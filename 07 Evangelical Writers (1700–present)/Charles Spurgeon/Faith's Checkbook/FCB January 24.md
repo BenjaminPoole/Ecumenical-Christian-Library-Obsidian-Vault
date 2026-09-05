@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**CARE OF OUR FEET**
+## **Care of Our Feet**
 
 > He will keep the feet of his saints." I Sam. 2:9
 
@@ -31,7 +30,6 @@ He will keep our feet from wounding: our shoes shall be iron and brass, so that 
 He will also pluck our feet out of the net. We shall not be entangled by the deceit of our malicious and crafty foes.
 
 With such a promise as this, let us run without weariness, and walk without fear. He who keeps our feet will do it effectually.
-
 
 ---
 [[FCB January 23|← January 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 25|January 25 →]]

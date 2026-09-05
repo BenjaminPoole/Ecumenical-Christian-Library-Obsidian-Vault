@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # The King in Pilate's Hall
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2826
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Pilate therefore said unto Him, Are You a king, then? Jesus answered, You say that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the Truth. Everyone that is of the Truth hears My voice." John 18:37.
 
@@ -35,7 +32,7 @@ The words of Paul, in his First Epistle to Timothy, are very properly rendered i
 
 I. First, let us ask—WHAT WAS "THE GOOD CONFESSION" THAT JESUS WITNESSED BEFORE PONTIUS
 
-PILATE?
+## Pilate?
 
 I think the good confession of our Lord was, first, His avowal of His Kingship—"You say that I am a king." Dear Friends, do not forget that our Savior was, at that time, a prisoner in bonds, on trial for His life. As far as the eye could see, He appeared to be absolutely in the power of Pilate—a man who was destitute of any kind of conscience and who cared nothing about what means he employed so long as he could attain his own evil ends. There stands Jesus, a bound Prisoner, before one who can order Him to be put to death. And the judge contemptuously says to Him, "Are you a king, then?" And He answers, with great gentleness, but most decidedly and undoubtedly, "I am a king, even as You say." I think I see Pilate's lip curl—I can imagine the supreme contempt with which he looked upon the miserable Victim before him, disowned by His own countrymen, who had brought Him there because, in their hate, they wished to have Him put to death—yet He talks about being a king! It may have been a merry jest for Pilate at the moment, but he did not dare to make it one afterwards. His wife would have stopped him had he sought to find amusement in Jesus of Nazareth!
 
@@ -73,7 +70,7 @@ And to this Truth of God He also bore witness, that salvation was to be found on
 
 III. Now I will try briefly to answer a third question—WHAT HAD THIS "GOOD CONFESSION" OF JESUS TO
 
-DO WITH PILATE?
+## Do with Pilate?
 
 I answer, first, that it gave Pilate a reason for acting justly It ought to have helped to stir any little conscience that Pilate still had and, also, to allay the jealousy which he may have felt because of the Savior's royal claims. Our Lord spoke thus out of kindness to Pilate.
 
@@ -93,7 +90,7 @@ I appeal to some who I believe really do love my Lord and Master, but who are, l
 
 Presence of His Father and of His holy angels. May that be my lot, and yours, dear Friends, without a single exception, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN18:28-40; PSALM2.
+## Exposition by C. H. Spurgeon: John 18:28-40; Psalm 2
 
 John 18:28. Then they led Jesus from Caiaphas unto the Hall of Judgment: That is to say, Pilate's Hall. Pilate, at that time, was probably residing in one of the old and sumptuous palaces of Herod, there holding His court during the time of the Passover.
 
@@ -132,7 +129,6 @@ Psalm 2:1, 2. Why do the heathen rage, and the people imagine a vain thing? The 
 4, 5. He that sits in the Heaven shall laugh: the Lord shall have them in derision. Then shall He speak unto them in His wrath, and vex them in His sore displeasure. His word, it seems, vexes them. There is no need of sword or javelin. The weapons of God's warfare are His words.
 
 6-12. Yet have Iset My king upon My holy hill of Zion. I will declare the decree: the LORD has said unto Me, You are My Son; this day have I begotten You. Ask of Me, and I shall give You the heathen for Your inheritance, and the uttermost parts of the earth for Your possession. You shall break them with a rod of iron: You shall dash them in pieces like a potter's vessel. Be wise now, therefore, O you kings: be instructed, you judges of the earth. Serve the LORD with fear, and rejoice with trembling. Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him.
-
 
 ---
 [[Sermon 2825 Majesty in Misery|← #2825]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2827 The Redeemer Described by Himself|#2827 →]]

@@ -9,12 +9,9 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # The introduction to the work, with some account of the nature of the Saints' Rest
 
 ## CHAPTER I.
-
-**THE INTRODUCTION TO THE WORK, WITH SOME ACCOUNT OF THE NATURE OF THE SAINTS’ REST.**
 
 *The important design of the apostle in the text, to which the author earnestly bespeaks the attention of the reader. The saints’ rest defined, with a general plan of the work that this rest presupposes. The author’s humble sense of his inability fully to show what this rest contains. It contains, 1. A ceasing from means of grace; 2. A perfect freedom from all evils; 3. The highest degree of the saints’ personal perfection, both in body and soul; 4. The nearest enjoyment of God, the chief good; 5. A sweet and constant action of all the powers of soul and body in this enjoyment of God.*
 
@@ -73,7 +70,6 @@ Nor does *joy* share least in this fruition. It is this which all we have mentio
 And it is not thy joy only; it is a *mutual joy* as well as a mutual love. Is there joy in heaven at thy conversion, and will there be none at thy glorification? Will not the angels welcome thee thither, and congratulate thy safe arrival?—yes, it is the joy of Jesus Christ; for now he hath the end of his undertaking, labor, suffering, dying, when we have our joys; when he is “glorified in his saints, and admired in all them that believe;” when he “sees of the travail of his soul, and is satisfied.” This is Christ’s harvest, when he shall reap the fruit of his labors; and it will not repent him concerning his sufferings, but he will rejoice over his purchased inheritance, and his people will rejoice in him.—Yea, the Father himself puts on joy, too, in our joy. As we grieve his Spirit, and weary him with our iniquities, so he is rejoiced in our good. O how quickly does he now spy a returning prodigal, even afar off! How does he run and meet him! And with what compassion does he fall on his neck and kiss him, and put on him the best robe, and a ring on his hand, and shoes on his feet, and kills the fatted calf, to eat and be merry! This is indeed a happy meeting; but nothing to the embracing and joy of that last and great meeting. Yea, more; as God doth mutually love and joy, so he makes this his rest, as it is our rest. What an eternal Sabbatism, when the work of redemption, sanctification, preservation, glorification, is all finished and perfected for ever! “The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy, he will rest in his love, he will joy over thee with singing.” Well may we then rejoice in our God with joy, and rest in our love, and joy in him with singing.
 
 Alas! my fearful heart scarce dares proceed. Methinks I hear the Almighty’s voice saying to me, “Who is this that darkeneth counsel by words without knowledge?” But pardon thy servant, O Lord. I have not pried into unrevealed things. I bewail that my apprehensions are so dull, my thoughts so mean, my affections so stupid, and my expressions so low and unbecoming such a glory. I have only heard by the hearing of the ear: O let thy servant see thee, and possess these joys; then shall I have more suitable conceptions, and shall give thee fuller glory; I shall abhor my present self, and disclaim and renounce all these imperfections. “I have uttered that I understood not, things too wonderful for me, which I knew not.” Yet “I believed, and therefore have I spoken.” What, Lord, canst thou expect from dust, but levity? or from corruption but defilement? Though the weakness and irreverence be the fruit of my own corruption, yet the fire is from thine altar, and the work of thy commanding. I looked not into thy ark, nor put forth my hand unto it without thee. Wash away these stains also in the blood of the Lamb. Imperfect, or none must be thy service here. O take thy Son’s excuse, “the spirit is willing, but the flesh is weak.”
-
 
 ---
 [[SER 02 The Saints' Everlasting Rest|← The Saints' Everlasting Rest]] · [[The Saints' Everlasting Rest|Contents]] · [[SER 04 The great preparatives for the Saints' Rest|The great preparatives for the Saints' Rest →]]

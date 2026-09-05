@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Joshua 2:1-24
 

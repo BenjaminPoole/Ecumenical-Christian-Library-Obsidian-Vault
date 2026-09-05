@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 113. Exodus 31:1-11
-
-**Exodus 31**
 
 **1.** And the Lord spake unto Moses, saying,
 

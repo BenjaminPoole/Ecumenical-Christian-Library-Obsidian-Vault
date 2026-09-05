@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Number 1500, Or Lifting Up the Bronze Serpent
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1500
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 19, 1879,.
+*Delivered on Lord's-Day Morning, October 19, 1879*
 
 > "And Moses made a serpent of brass, and putit upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived." Numbers 21:9.
 
@@ -154,7 +153,6 @@ Bring it out and set it on a pole! Publish Christ and His salvation! He was neve
 "Oh," says one, "but I have not a long standard." Then lift Him up on such as you have, for there are short people about who will be able to see by your means. I think I told you once of a picture which I saw of the bronze serpent. I want the Sunday school teachers to listen to this. The artist represented all sorts of people clustering round the pole and as they looked, the horrible snakes dropped off their arms and they lived! There was such a crowd around the pole that a mother could not get near it. She carried a little babe, which a serpent had bitten. You could see the blue marks of the venom. As she could get no nearer, the mother held her child aloft and turned its little head that it might gaze with its infant eyes upon the bronze serpent and live.
 
 Do this with your little children, you Sunday school teachers! Even while they are yet little, pray that they may look to Jesus Christ and live, for there is no boundary set to their age. Old men, snake-bitten, came hobbling on their crutches. "Eighty years old am I," says one, "but I have looked to the bronze serpent and I am healed." Little boys were brought out by their mothers, though as yet they could hardly speak plainly, and they cried in child language, "I look at the great snake and it blesses me." All ranks, sexes, characters and dispositions looked and lived! Who will look to Jesus at this good hour? O dear Souls, will you have life or not? Will you despise Christ and perish? If so, your blood be on your own head! I have told you God's way of salvation! Lay hold on it. Look to Jesus at once! May His Spirit gently lead you to do so. Amen.
-
 
 ---
 [[Sermon 1499 The Lessons of the Foot-washing|← #1499]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1501 Refuges of Lies and What Will Become of Them|#1501 →]]

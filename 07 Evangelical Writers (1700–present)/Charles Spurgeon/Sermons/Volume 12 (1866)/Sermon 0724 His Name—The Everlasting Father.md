@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # His Name—The Everlasting Father
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 724
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 9, 1866,.
+*Delivered on Sunday Morning, December 9, 1866*
 
 > "The Everlasting Father." Isaiah 9:6.
 
@@ -160,7 +159,6 @@ Here is a man who had been everything that was possible in the way of evil, yet 
 Adam was driven out of Paradise, and you will never be admitted there! Adam lost all his hopes and you will lose yours. On the ground of the Law shall no flesh living be justified! Alas, I fear that many here have another father. How does Christ put it? "You are of your father, the devil," says He, "for his works you do." Not works merely of open sin in the form of adultery, uncleanness, theft, and such like, but opposition to Christ is peculiarly a work of the devil! And unbelief in Christ is the devil's masterpiece! If you do not, then, trust the Lord Jesus, do not say tonight when you kneel at the bedside, "Our Father, which are in Heaven," for your father is not in Heaven—your father is in Hell!
 
 Go to the blood of Jesus and ask that you may be cleansed from all iniquity, and then may you say through the Everlasting Father, "O God, You have made me Your child, and I love and bless Your name." May God be pleased to give you all His blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0723 The Root That Bears Wormwood|← #723]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0725 A Message From God To His Church And People|#725 →]]

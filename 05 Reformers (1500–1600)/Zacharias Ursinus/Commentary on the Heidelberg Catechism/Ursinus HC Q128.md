@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 128. How dost thou conclude thy prayer?
-
-**Question 128. How dost thou conclude thy prayer?**
 
 Answer. "FOR THINE IS THE KINGDOM, THE POWER AND THE GLORY, FOR EVER;" that is, all these we ask of thee, because thou art our King, and Almighty, art willing and able to give us all good; and all this we pray for, that thereby not we, bu thy holy name, may be glorified forever."
 
-**EXPOSITION**
+## **Exposition**
 
 This conclusion contributes to the confirmation of our faith, or to our confidence of being heard, seeing that God is willing and able to grant what we desire and pray for at his hands.
 

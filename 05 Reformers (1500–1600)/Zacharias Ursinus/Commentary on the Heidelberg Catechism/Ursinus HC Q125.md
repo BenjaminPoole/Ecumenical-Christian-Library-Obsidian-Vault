@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 125. Which is the fourth petition?
-
-**Question 125. Which is the fourth petition?**
 
 Answer. "GIVE US THIS DAY OUR DAILY BREAD;" that is, be pleased to provide us with all things necessary for the body, that we may thereby acknowledge thee to be the only fountain of all good, and that neither our care nor industry, nor even thy gifts, can profit us without thy blessing, and therefore that we may withdraw our trust from all creatures, and place it alone in thee.
 
-EXPOSITION
+## Exposition
 
 This petition respecting our daily bread, it would seem should have been placed after the petition in which we pray for the forgiveness of our sins, inasmuch as such benefits as are most important should be prayed for first, whilst those which are less important should be sought last. But Christ having regard to our infirmities, placed this fourth petition respecting our daily bread, as it were in the middle of the prayer which he prescribed, that we might both commence and end our prayers with petitions for spiritual blessings as being most important; and that the obtaining and receiving of temporal benefits might confirm in us more and more a confidence of obtaining spiritual blessings.
 
@@ -40,7 +37,7 @@ VII. Whether it is lawful for us to pray for riches:
 
 VIII. Whether it is lawful to lay up any thing for the time to come.
 
-**I. WHY TEMPORAL BLESSINGS SHOULD BE PRAYED FOR**
+## **I. Why Temporal Blessings Should Be Prayed For**
 
 We should desire and pray for temporal blessings from God no less than such as are spiritual:
 
@@ -60,7 +57,7 @@ We should desire and pray for temporal blessings from God no less than such as a
 
 8. For this comfort, that we may know that the church shall always be preserved on earth, since God always hears our prayers, and will constantly grant unto us our daily bread according to his promise.
 
-**II. IN WHAT MANNER TEMPORAL BLESSINGS ARE TO BE PRAYED FOR**
+## **II. In What Manner Temporal Blessings Are to Be Prayed For**
 
 Temporal blessings are to be sought and prayed for, as well as other good things promised in the gospel:
 
@@ -76,7 +73,7 @@ Those who do not in this way desire these blessings are not heard; and although 
 
 There are two reasons why God has not specified in his word what temporal blessings he will confer upon us, as the salvation of every one, and the manifestation of his own glory demands. 1. Because we are often ignorant what we should pray for, and what would be good for us. God knows best what blessings it is desirable that he should confer upon us, for the manifestation of his own glory and our salvation. As we, therefore, often err in asking temporal blessings, God confers only such upon us as he knows will be profitable for us. It is different, however, as it respects spiritual blessings; because these are all profitable unto us, and God has prescribed the way in which we are to pray for them, so that we cannot err in desiring them. For what God has positively promised, that we ought to desire positively; and what he has specially and simply promised, that we should seek and pray for in the same way. So we should simply desire and pray for the Holy Ghost, because God has simply and expressly promised to give the Holy Ghost to every one that asks. 2. That we may learn to be contented with those things which we have received from God. and always submit our will to the will of God.
 
-I **II. WHY CHRIST COMPREHENDS TEMPORAL BLESSINGS UNDER THE TERM BREAD**
+## I **II. Why Christ Comprehends Temporal Blessings Under the Term Bread**
 
 1. Christ, by a synecdoche which is common in the Hebrew language, comprehends under the term bread all temporal blessings, and such as are necessary for the sustenance of life, as food, raiment, health, civil peace &c. This is evident from the design of the petition, for we pray for bread from our necessity. But there are many other things besides bread necessary for us. Therefore we pray for them also under the term bread. This synecdoche so common in the Hebrew language, often occurs in the Bible; as, "In the sweat of thy face shalt thou eat bread." "He that did eat of my bread hath lifted up his heel against me." (Gen. 3:19. Ps. 41:9.) Nor did Christ merely comprehend under the term bread, things necessary for the sustenance of life, but he also comprises such a use of these things as is profitable; for bread, apart from such a use, is no better than a stone.
 
@@ -86,23 +83,23 @@ Bread, now, is made profitable to us, 1. If we pray for it and receive it with f
 
 We may now easily see what we desire when we pray for bread, viz: 1. Not great riches, but only such things as are necessary for us. 2. That these things may be to us bread, or be made profitable and salutary by the blessing of God, without which bread is not bread, but becomes as it were a stone or poison; for he who gives bread that it may not profit him that receives it any more than if it were a stone, gives a stone and not bread. Such, now, are the blessings which the wicked receive from God, and take as it were to themselves.
 
-**IV. WHY DOES CHRIST CALL IT OUR BREAD?**
+## **IV. Why Does Christ Call It Our Bread?**
 
 Christ commands us to pray for our bread, and not for mine, or time, or any other man's, 1. That we may desire those things which are given to us of God; for the bread which God gives us as necessary for the support of life is, and is made ours when it is given unto us. This petition, therefore, Give us our bread, signifies, Give us, O God, the bread allotted to us, and which thou dost design shall be ours. God, as a householder, distributes to every one his own portion, or that which we deserve at his hands. 2. That we may desire things necessary, acquired by lawful labor in some honest and proper calling, pleasing to God and profitable to society at large, or that we may receive what we ask at the hands of God by ordinary means and lawful ways, the hand of God reaching them to us from heaven. "This we commanded you, that if any would not work, neither should he eat." "Let him that stole, steal no more, but rather let him labor, working with his hands the thing which is good." (2 Thes. 3:10. Eph. 4:28.) 3. That we may use them with a good conscience and with thanksgiving. For God desires that we should take unto ourselves the assurance that when he gives us these things he also grants unto us the privilege of enjoying his gifts. God desires that we should use his gifts, not as thieves and robbers, but cheerfully and with thanksgiving.
 
-**V. WHY DOES CHRIST CALL IT DAILY BREAD?**
+## **V. Why Does Christ Call It Daily Bread?**
 
 Christ calls the bread which we are commanded to ask of God, daily bread, 1. Because he will have us to ask daily as much as we need for each day. 2. Because he would restrain our raging and boundless desires. "Your heavenly Father knoweth that ye have need of all these things." "A little that a righteous man hath is better than the riches of many wicked." "There is no want to them that fear him." (Matt. 6:32. Ps. 37:16; 34:9.) Hence the petition, Give us our daily bread, means, Give us as much bread as is sufficient for us—give us so much of what is necessary for the support of life as every one of us needs, to serve thee and our neighbor in our several callings in life.
 
-**VI. WHY DOES CHRIST ADD, THIS DAY?**
+## **VI. Why Does Christ Add, This Day?**
 
 Christ adds the phrase, This day, 1. That he might meet and guard against our distrust and covetousness, and keep us from both these vices. 2. That we might depend upon him alone, as yesterday, so this day and to-morrow, and always expect the necessaries of life from the hands of God, that we may know that they are not obtained by our own hands, or labor, or diligence, but that God confers them upon us, and that we may know that even though we receive them, yet they will not profit our bodies, if the blessing of God does not accompany them. 3. That the exercise of faith and prayer may always be continued in us; for as long as it is said, This day, so long does Christ design that prayer should be continued, that we may yield obedience to the command to pray always. (1 Thes. 5:17.)
 
-**VII. IS IT LAWFUL FOR US TO PRAY FOR RICHES?**
+## **VII. Is It Lawful for Us to Pray for Riches?**
 
 This, in connection with the following question, naturally grows out of what we have already said in reference to this petition; for when we are commanded to pray only for our daily bread, and that, too, this day, it would seem at first view that it is not lawful either to desire riches, or to lay anything by for to-morrow. It is, however, certainly right and proper to desire riches, if we remove all ambiguity from the word, and understand by it things which are necessary for the support of life. It was in this way also that Epicurus defined riches "to be a poverty adapted to the law of nature." This is a good definition of the term; for they are to be considered truly rich, who enjoy a sufficient amount of the things necessary for the support of life, and are contented therewith. If we, therefore, understand the term riches as just defined, they are certainly to be sought and prayed for at the hands of God, inasmuch as we are to desire such things as are necessary for nature, and for the position and office which God has assigned us in life. And the reason is, that these necessary things, or riches, are the daily bread which we are commanded to ask and pray for at the hands of God. There are others, again, who define the term differently, understanding by it an abundance and plenty over and above what is necessary. So Crœsus, surnamed the Rich, said, "That no one is rich, unless he was able to support an army by his revenue." In this sense, riches are never to be asked of God, seeing that this is not to pray for our daily bread. Solomon says, in the person of all the godly, "Give me neither poverty nor riches," (Prov. 30:8); by which words the Holy Ghost teaches that riches, when understood to mean an abundance over and above what is necessary, are to be deprecated by us. The declaration of the Apostle Paul, in his first Epistle to Tim. 6:9, is also hero in point, where he says, "They that will be rich fall into temptations and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition." Christ also calls riches thorns, which we cannot handle without exposing ourselves to the danger of being pricked thereby. (Matt. 13:22.) But, on the other hand, godliness is great gain, if a man be contented with what he has. (1 Tim. 6:6.) Should God, however, give us anything besides what is actually necessary for us, we should use these things properly, or reserve them for purposes good and necessary; for Christ commanded the disciples to gather up the fragments, that nothing might be lost. (John 6:12.) We have also a remarkable example in the person of Joseph, who, being warned of the approaching famine, gathered and laid by provisions in the time of plenty, for the years of scarcity and dearth which were to come upon the land of Egypt. (Gen. 41:48.) But here care must be taken: 1. That we do not repose our trust in them. "If riches increase, set not your heart upon them." (Ps. 62:10.) 2. That we avoid luxury and every abuse of the gifts of God. 3. We should regard ourselves as stewards of God, who has committed these riches to our charge for the purpose of being properly expended, and has imposed upon us the duty of administering them so as to promote his glory, and that we shall at some time be required to render an account to God for our stewardship and administration.
 
-**VIII. IS IT LAWFUL FOR US TO LAY ANYTHING BY FOR THE TIME TO COME?**
+## **VIII. Is It Lawful for Us to Lay Anything by for the Time to Come?**
 
 That it is right and proper for us to lay something by for the time to come, may be inferred from the command of Christ, "Gather up the fragments that remain, that nothing be lost." (John 6:12.) The same thing is also taught by the word our, as it is here used. For we are required to aid and contribute to the support of the commonwealth, and to give to the poor as opportunity presents itself. This, however, we cannot do, unless we lay something of our own by, so that we may have something to give whenever any occasion calls for the exercise of our liberality. We may here appropriately refer to all the precepts and rules which the Scriptures give respecting parsimony and frugality, which virtues are employed in keeping and profitably disposing of things honestly acquired for one's own use, and for the benefit of his friends, so as to avoid all sumptuousness, prodigality, luxury and waste of the gifts of God. The Apostle Paul teaches that it is the duty of parents to lay something in store for their children, when he says, "The children ought not to lay up for the parents, but the parents for the children." (2 Cor. 12:14.)
 
@@ -116,7 +113,7 @@ Obj. 2. It is not necessary that we should labor for that which is obtained not 
 
 Obj. 3. Christ here commands us to pray for our daily bread, and this day and not to-morrow. Therefore it is not lawful to lay anything in store for the time to come. Why, then, does Paul say that the parents ought to lay up for their children? (2 Cor. 12:14.) Ans. This objection is of no account, inasmuch as it regards that as a cause which is none. Christ commands us to pray for our daily bread, and this day. Hence, we are to ask that which is necessary for every day, this day, to-morrow, and as long as we live. We are, therefore, not to understand Christ as teaching that he will not have us to labor for the morrow, or that we are not to lay anything by for the future, or that we are to cast away those things which God has already given us, as sufficient for the time to come; for his object is to remove from us distrust, covetousness, and an unrighteous acquisition of goods, and disobedience. He does indeed say, in another place, "Take no thought for the morrow" (Matt. 6:34); but his meaning evidently is. that we should not think of the morrow with distrust, as though God would then give us nothing, or as though it would not be necessary for us to pray. He does not, therefore, forbid labor and prayer, but merely distrust, and a want of confidence in God.
 
-FIFTY-FIRST LORD'S DAY
+## Fifty-First Lord's Day
 
 ---
 [[Ursinus HC Q124|← Question 124. Which is the third petition?]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q126|Question 126. What is the fifth petition? →]]

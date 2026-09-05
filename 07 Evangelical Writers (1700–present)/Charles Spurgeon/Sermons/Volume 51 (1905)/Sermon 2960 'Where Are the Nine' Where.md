@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'Where Are the Nine?' Where?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2960
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus answering said, Were there not ten cleansed? But where are the nine?" Luke 17:17.
 
@@ -97,7 +94,7 @@ O dear Friends, if we could but hope that one in ten in this great city was conv
 
 But, "hope," is the word for tonight, even for the nine! May God be pleased to give you hope within while I utter hope without! Jesus died. His death is your life! Trust Him and you are saved! Rest on Him with your whole weight! Throw yourself flat upon Him—have nothing to do with standing in your own strength, but prostrate at the foot of His dear Cross, lay yourself down and you shall not be numbered with the nine, but you shall return to give glory to God, even though, up to now, you may have been a Samaritan, a stranger, the chief of sinners! May God add His blessing, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:* ACTS27:11-44.
+## Exposition by C. H. Spurgeon:* Acts 27:11-44
 
 *[This Exposition belongs to Sermon #2952, Volume 52—THE CHURCH—THE WORLD'S HOPE.]
 
@@ -136,7 +133,6 @@ Verses. 11-13. Nevertheless the centurion believed the master and the owner of t
 40-42. And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoisted up the mainsail to the wind, and made toward shore. And falling into a place where two seas met, they ran the ship aground, and the forepart stuck fast, and remained immovable but the hinder part was broken with the violence of the waves. And the soldiers' counsel was to kill the prisoners, lest any of them should swim out and escape. The soldiers were responsible for them. It would be required at their hands if a prisoner escaped, so, with that cruelty and yet that obedience to law which was characteristic of the Roman legions, "the soldiers' counsel was to kill the prisoners, lest any of them should swim out and escape."
 
 43, 44. But the centurion, willing to save Paul, kept them from their purpose; and commanded that they which could swim should cast themselves first into the sea, and get to land: and the rest, some on boards, and some on broken pieces of the ship. And so it came to pass that they escaped all safe to land. So God had said, "and so it came to pass."
-
 
 ---
 [[Sermon 2959 God's Love to the Saints|← #2959]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2961 'Heirs of God'|#2961 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # The Strong One Driven Out By A Stronger One
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 613
 
-DELIVERED ON SUNDAY MORNING, FEBRUARY 5, 1865,.
+*Delivered on Sunday Morning, February 5, 1865*
 
 > "When a strong man armed keeps his palace, his goods are in peace: but when a stronger than he shall come upon him and overcome him, he takes from him all his armor wherein he trusted, and divides his spoils. He that is not with Me is against Me: and he that gathers not with Me scatters. When the unclean spirit is gone out of a man, he walks through dry places, seeking rest. And finding none, he says, I will return unto my house from where I came out. And when he comes, he finds it swept and garnished. Then goes he and takes to him seven other spirits more wicked than himself; and they enter in and dwell there: and the last state of that man is worse than the first." Luke 11:21-26.
 
@@ -113,7 +112,7 @@ Walk in, Ladies and Gentlemen! Did you ever see a house so delightfully furnishe
 
 It is really a shocking thing that if you want to find a thoroughbred, out-and-out transgressor, you must find one who once made a profession of religion! When Satan wants a servant who will do anything and ask no questions—who will swallow camels as well as gnats—he finds one that once stood high in the Christian Church. If he can find one who used to sing Christ's song, that is the throat to sing the devil's song! If he can find one who once sat at the sacramental table, he will say, "This is the man to sit at the head of my banquets and conduct my feasts for me." These renegades, these traitors, these Ahithophels, these Judases, these men who have known the Truth of God and have been once, in a manner, enlightened and have tasted of the heavenly gifts and the powers of the world to come in a certain sense—and yet fall away—these become like salt that is neither fit for the land nor yet for the dunghill—even men cast them out!
 
-They are trees twice dead, plucked up by the roots—wandering stars for whom is reserved the blackness of darkness forever. Have I any such in this place, any who were once swept and garnished, into whom Satan has returned? My Friend, from my soul I pity you! What will be your portion? No common Hell will be yours! Remember, there are re- served places in the pit and those are reserved for such as you are. Read the letter of Jude and you will there find that there are some for whom are reserved, "the blackness of darkness forever."
+They are trees twice dead, plucked up by the roots—wandering stars for whom is reserved the blackness of darkness forever. Have I any such in this place, any who were once swept and garnished, into whom Satan has returned? My Friend, from my soul I pity you! What will be your portion? No common Hell will be yours! Remember, there are re-served places in the pit and those are reserved for such as you are. Read the letter of Jude and you will there find that there are some for whom are reserved, "the blackness of darkness forever."
 
 That is your case and this will be the aggravation of it—you sat at the Master's Table and you must now drink the cup of fire! You preached in Christ's courts but you must now give forth a dolorous sermon concerning your own apostasy! You sang God's praises once—you must now howl out the Miserere of the damned! You had a glimpse of Heaven— you shall now have a dread insight into Hell! You talked about eternal life, you shall now feel eternal death—plunged in waves of flame, never to rise again, never to hope, never even to die, for to die were bliss. How dreadful shall your case be! In this world seven times worse than before, but in the world to come, damned, damned with an awful emphasis which common sinners cannot know. I pray God that these truths may make us watchful, make us careful lest we be found hypocrites or self-deceived professors.
 
@@ -144,7 +143,6 @@ Come to His precious blood and be made really clean. Your Church-goings, your Ch
 "None but Jesus, none but Jesus, Can do helpless sinners good."
 
 My Lord Jesus, if You are passing by, traveling in the greatness of Your strength, come and show Your prowess! Turn aside, You heavenly Samson and rend the lion in this vineyard! If You have dipped Your robes in the blood of Your foes, come dye them all again with the blood of my cruel sins! If You have trod the wine press of Jehovah's wrath and crushed Your enemies, here is another of the accursed crew! Come and drag him out and crush him! Here is an Agag in my heart, come and hew him in pieces! Here is a dragon in my spirit, break, O break, his head and set me free from my old state of sin! Deliver me from my fierce enemy and unto You shall be the praise, forever and ever. Amen.
-
 
 ---
 [[Sermon 0612 Jesus Washing His Disciples' Feet|← #612]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0614 For Christ'S Sake|#614 →]]

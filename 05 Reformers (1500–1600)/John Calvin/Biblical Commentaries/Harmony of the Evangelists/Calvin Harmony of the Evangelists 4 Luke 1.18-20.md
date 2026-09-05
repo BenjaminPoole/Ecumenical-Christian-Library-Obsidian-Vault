@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 4. Luke 1:18-20
-
-**LUKE 1:18-20**
 
 **18**. And Zacharias said to the angel, How shall I know this? for I am an old man, and my wife is at an advanced age. **19**. And the angel answering said to him, I am Gabriel, who stand before God, and have been sent to speak to thee, and to convey to thee these glad tidings. **20**. And, behold, thou shalt be dumb, and shalt not be able to speak, until the day when these things shall happen; because thou hast not believed my words, which shall be fulfilled in their time,
 

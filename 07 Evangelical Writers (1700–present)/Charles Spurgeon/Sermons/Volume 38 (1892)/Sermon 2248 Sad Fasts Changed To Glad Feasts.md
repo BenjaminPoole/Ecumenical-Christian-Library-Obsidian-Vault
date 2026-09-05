@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Sad Fasts Changed To Glad Feasts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2248
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Thus says the Lord of Hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace." Zechariah 8:19.
 
@@ -168,7 +165,6 @@ Glad when it bids me earth resign,
 Secure of Heaven, if You are mine." But is Christ yours? Has the fast been changed into a feast for you by faith in the crucified Savior? God help you to answer that question with a glad, hearty, "Yes!" Then may He make all your life "joy and gladness," changing your fearful fasts into "cheerful feasts," until, at last, all of us who believe in Christ and who love His appearing, shall sit down at the marriage supper of the Lamb! Amen.
 
 Portions of Scripture Read before Sermon—Zechariah 7 and 8.
-
 
 ---
 [[Sermon 2247 Praise for the Gift of Gifts|← #2247]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2249 Even Now|#2249 →]]

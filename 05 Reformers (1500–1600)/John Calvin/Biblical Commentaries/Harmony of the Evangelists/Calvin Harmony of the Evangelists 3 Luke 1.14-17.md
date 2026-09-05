@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 3. Luke 1:14-17
-
-**Luke 1:14-17**
 
 **14**. And he shall be to thee joy and exultation, and many shall rejoice on account of his birth. **15**. For he shall be great before the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother's womb. **16**. And many of the children of Israel shall he bring back to the Lord their God. **17**. And he shall go before him with the spirit and power of Elijah, that he may bring back the hearts of the fathers to the children, and the disobedient to the wisdom of the just, that he may make ready a people prepared for the Lord.
 

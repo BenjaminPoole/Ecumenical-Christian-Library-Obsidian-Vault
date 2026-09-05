@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 20
 
-**CHAPTER 20.**
+***Chapter 20.***
 
 ## John 20:1-9
 

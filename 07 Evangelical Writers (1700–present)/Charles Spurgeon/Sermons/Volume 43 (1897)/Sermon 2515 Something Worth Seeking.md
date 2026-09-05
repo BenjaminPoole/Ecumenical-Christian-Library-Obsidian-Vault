@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Something Worth Seeking
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2515
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But seek you first the Kingdom of God, and His righteousness; and all these things shall be added unto you." Matthew 6:33.
 
@@ -91,7 +88,7 @@ Dr. Johnson said to one who showed him his beautiful garden and park, "These are
 
 So I leave with you both the precept and the promise of the text—"Seek you first the Kingdom of God, and His righteousness; and all these things shall be added unto you." May this be true of all of you, dear Friends, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14.
+## Exposition by C. H. Spurgeon: John 14
 
 I suppose that many of you know this chapter by heart. I notice that in all old Christians' Bibles, this leaf is well worn—sometimes worn out. We have here our Lord's homely talk to His disciples. It is full of sublimity, yet it is blessedly simple. There is a sort of unveiling of Himself in this chapter. It is not so much like a public discourse as a private conversation and this tends to make the Savior's speech appear the more condescending, and yet, also, the more sublime.
 
@@ -150,7 +147,6 @@ we are thinking about Heaven. That is quite right. But "forever" means nowas wel
 27-29. Not as the world gives, give I unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, I go away and come again unto you. If you loved Me, you would rejoice, because I said, I go unto the Father: for My Father is greater than I. And now I have told you before it comes to pass, that, when it is come to pass, you might believe. Oh, what numbers of things which Christ foretold have come to pass already! Have you, dear Friends, believed all the more because of them? How many answers to prayer, how many deliverances out of trouble, how many helps in the time of need have you had! Surely, when all this has come to pass, you ought to believe.
 
 30, 31. Hereafter I willnot talkmuch with you: for theprince of this world comes, andhas nothingin Me. But that the world may know that I love the Father; and as the Father gave Me Commandment, even so I do, Arise, let us go hence. So the Savior went forth to His passion and His death that all might know the supremacy of His love to the Father and His love to His people. And so let us, in our measure, be always ready to say, "Arise, let us go hence," to service or to suffering, since our Savior leads the way.
-
 
 ---
 [[Sermon 2514 Servus Servorum|← #2514]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2516 Jesus and His Brethren|#2516 →]]

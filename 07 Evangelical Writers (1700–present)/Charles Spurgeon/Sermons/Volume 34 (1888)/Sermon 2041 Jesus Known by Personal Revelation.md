@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Jesus Known by Personal Revelation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2041
 
-DELIVERED ON LORD'S DAY MORNING, AUGUST 26, 1888,.
+*Delivered on Lord's Day Morning, August 26, 1888*
 
 > "When Jesus came into the coasts of Caesarea Philippi, He asked His disciples, saying, Whom do men say that I, the Son of Man, am? And they said, Some say that You are John the Baptist: some, Elijah. And others, Jeremiah, or one of the Prophets. He said unto them, But whom do you say that I am? And Simon Peter answered and said, You are the Christ, the Son of the living God. And Jesus answered and said unto him, Blessed are you, Simon Barjona: for flesh and blood has not revealed it unto you but My Father which is in Heaven." Matthew 16:13-17.
 
@@ -166,7 +165,6 @@ Men, perhaps, will say, "He is very dogmatic." But a brave confession is much ne
 Do not suppose, my Hearers, that you will find out the Lord Christ by your own wit and wisdom. Young man, do not say, "I will be a student, I will by my own ability discover this Son of Man." Remember that Jesus can only be seen by His own light. Only Godhead can teach us Godhead. Christ is a Book in which no man can read unless Christ Himself shall spell the words to him. Jesus is His own Interpreter. He is the Door but He is also the Key. He is to be seen but He supplies the light in which He is to be seen.
 
 Jesus came forth from God and the power to know Jesus also comes forth from God, so that all comes from God. And unto God let us return it, adoring Father, Son and Holy Spirit, one God forever and ever. Amen.
-
 
 ---
 [[Sermon 2040 Sown Among Thorns|← #2040]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2042 The Maintenance of Good Works|#2042 →]]

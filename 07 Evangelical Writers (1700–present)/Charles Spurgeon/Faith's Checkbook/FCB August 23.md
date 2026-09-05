@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 23
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**LOVE AND SEEK TRUE WISDOM**
+## **Love and Seek True Wisdom**
 
 > I love them that love me; and those that seek me early shalt find me" Prov. 8:17
 
@@ -25,7 +24,6 @@ Our business is to seek Jesus early in life. Happy are the young whose morning i
 The blessing is that He will be found. He reveals Himself more and more clearly to our search. He gives Himself up more fully to our fellowship. Happy men who seek One who, when He is found, remains with them for ever, a treasure growingly precious to their hearts and understandings.
 
 Lord Jesus, I have found thee; be found of me to an unutterable degree of joyous satisfaction.
-
 
 ---
 [[FCB August 22|← August 22]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 24|August 24 →]]

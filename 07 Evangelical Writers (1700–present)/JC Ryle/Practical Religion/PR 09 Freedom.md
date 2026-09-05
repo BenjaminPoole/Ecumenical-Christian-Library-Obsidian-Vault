@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Freedom
 
-Chapter IX · *Practical Religion* — J. C. Ryle
+## Chapter IX · *Practical Religion* — J. C. Ryle
 
 >  *If the Son shall make you free, ye shall be free indeed.* "—John viii. 36.
 
@@ -134,7 +133,6 @@ Are you free? Then look forward in faith and hope for good things yet to come. F
 But let us take courage: there are better days yet to come. Our great Redeemer and Liberator has gone before us to prepare a place for His people, and when He comes again our redemption will be complete. The great jubilee year is yet to come. A few more returns of Christmas and New Year's Days,—a few more meetings and partings,—a few more births and deaths,—a few more weddings and funerals,—a few more tears and struggles,—a few more sicknesses and pains,—a few more Sabbaths and sacraments,—a few more preachings and prayings,—a few more, and the end will come! Our Master will come back again. The dead saints shall be raised. The living saints shall be changed. Then, and not till then, we shall be completely free. The liberty which we enjoyed by faith shall be changed into the liberty of sight, and the freedom of hope into the freedom of certainty.
 
 Come, then, and let us resolve to wait, and watch, and[Pg 229] hope, and pray, and live like men who have something laid up for them in heaven. The night is far spent, and the day is at hand. Our King is not far off: our full redemption draweth nigh. Our full salvation is nearer than when we believed. The signs of the times are strange, and demand every Christian's serious attention. The kingdoms of this world are in confusion: the powers of this world, both temporal and ecclesiastical, are everywhere reeling and shaken to their foundations. Happy, thrice happy, are those who are citizens of Christ's eternal kingdom, and ready for anything that may come. Blessed indeed are those men and women who know and feel that they are free!
-
 
 ---
 [[PR 08 Zeal|← Zeal]] · [[Practical Religion|Practical Religion Contents]] · [[PR 10 Happiness|Happiness →]]

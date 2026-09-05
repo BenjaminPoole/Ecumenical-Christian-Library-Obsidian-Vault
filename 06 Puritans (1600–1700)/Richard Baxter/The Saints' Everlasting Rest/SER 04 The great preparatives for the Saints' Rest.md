@@ -9,12 +9,9 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # The great preparatives for the Saints' Rest
 
 ## CHAPTER II.
-
-**THE GREAT PREPARATIVES FOR THE SAINTS’ REST.**
 
 *There are four things which principally prepare the way to enter into it; particularly, 1. The glorious appearing of Christ; 2. The general resurrection; 3. The last judgment; and, 4. The saints’ coronation.*
 
@@ -39,7 +36,6 @@ Yet more: we shall be so far from the dread of that judgment, that ourselves sha
 And with this solemn and blessed proclamation shall he enthrone them: “Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.” Every word is full of life and joy. “Come “—this is the holding forth of the golden sceptre, to warrant our approach unto this glory. Come now as near as you will; fear not the Bethshemites’ judgment; for the enmity is utterly abolished. This is not such a “Come” as we were wont to hear, “Come, take up your cross and follow me.” Though that was sweet, yet this is much more. “Ye blessed”—blessed indeed, when that mouth so pronounce us! For though the world hath accounted us accursed, and we have been ready to account ourselves so; yet, certainly, those that he blesseth are blessed; and those only whom he curseth are cursed; and his blessing cannot be reversed. “Of my Father”—blessed in the Father’s love, as well as the Son’s; for they are one. The Father hath testified his love in their election, donation to Christ, and in the sending of Christ, and accepting his ransom, as the Son hath also testified his. “Inherit”—no longer bondsmen, nor servants only, nor children under age, who differ not in possession, but only in title, from servants; but now we are heirs of the kingdom, and joint-heirs with Christ. “The kingdom”—no less than the kingdom! Indeed, to be King of kings and Lord of lords is our Lord’s own proper title; but to be kings, and reign with him, is ours. The enjoyment of this kingdom is as the light of the sun; each has the whole, and the rest none the less. “Prepared for you”—God is the Alpha as well as the Omega of our blessedness. Eternal love hath laid the foundation. He prepared the kingdom for us, and then prepared us for the kingdom. This is the preparation of his counsel and decree, for the execution whereof Christ was yet to make a further preparation. “For you”—not for believers only, in general, who, without individual persons, are nobody; but for you personally. “From the foundation of the world”—not only from the promise after Adam’s fall, but from eternity.
 
 Thus we have seen the Christian safely landed in paradise, and conveyed honorably to his rest. Now let us a little further, in the next chapter, view those mansions, consider their privileges, and see whether there be any glory like unto this glory.
-
 
 ---
 [[SER 03 The introduction to the work, with some account of the nature of the Saints'|← The introduction to the work, with some account of the nature of the Saints' Rest]] · [[The Saints' Everlasting Rest|Contents]] · [[SER 05 The excellencies of the Saints' Rest|The excellencies of the Saints' Rest →]]

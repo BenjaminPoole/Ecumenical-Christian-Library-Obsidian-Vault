@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Bochim—Or, the Weepers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1680
 
-DELIVERED ON THURSDAY EVENING, AUGUST 10, 1882,.
+*Delivered on Thursday Evening, August 10, 1882*
 
 > "And it came to pass, when the Angel of the Lord spoke these words unto all the children of Israel, that the people lifted up their voice, and wept. And they called the name of that place Bochim: and they sacrificed there unto the Lord." Judges 2:4, 5
 
@@ -140,7 +139,6 @@ A man says, "Oh, it is an evil thing, but, you know, young people will have thei
 O base hypocrites! Penitents-at a dance! Broken-hearted sinners on Sunday, crying, "Lord, have mercy upon us, miserable sinners," and whole-hearted drunkards before the week is up, yelling, "We won't go home till morning!" Look at the miserable sinners! See what they are at! Are these your weepers? These your men of tender conscience? Their Bochim is all a lie—a mere pretense! The more tender you are, if afterwards you harden yourselves, so much the greater will be your guilt. And if you humble yourselves before God in mere appearance, so much the more terrible will be your doom if that humbleness departs and you go back to the sin from which you professed to turn! I know that these people were not penitents because God did not take away the chastisement. The punishment which He threatened, He brought upon them. He gave them over to the spoilers and sold them to their enemies. But where there is a hearty repentance of sin, God will never lay punishment on a man. He will forgive him and receive him to His bosom and restore him.
 
 To sum up, in a word, all that I have said, salvation lies not in feeling, but in believing! Salvation lies not in weeping, but in trusting in Christ! Repentance is not to be measured by outward manifestations of sorrow. The Prophet says, "Rend your heart and not your garments." Let your hearts be torn away from sin and from everything that leads to sin—and then shall you weep acceptably before God! The Lord bless this word to those it is meant for. I do not know who they are, but He does. And may He send His blessing by His Holy Spirit. Amen.
-
 
 ---
 [[Sermon 1679 One War Over and Another Begun|← #1679]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1681 Shutting, Sealing and Covering—or, Messiah's Glorious Work|#1681 →]]

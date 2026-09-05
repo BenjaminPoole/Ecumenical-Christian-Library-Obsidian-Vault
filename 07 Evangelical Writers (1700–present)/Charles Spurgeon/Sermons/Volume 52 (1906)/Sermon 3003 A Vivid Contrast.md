@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # A Vivid Contrast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3003
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And every man went unto his own house." John 7:53.
 
@@ -71,7 +68,7 @@ I think that I have said enough upon this point of contrast. To my mind there is
 
 III. Just for a minute or so, dear Friends, I want to remind you that we also have here A COMPARISON FOR OUR
 
-INSTRUCTION.
+## Instruction
 
 Perhaps I shall startle and surprise you when I say that Jesus Christ did exactly what His disciples and the other people did. They went to their own houses and He went to His own house. They went home and He went home. They sought ease, and He sought ease. They sought counsel and He sought counsel. They sought sympathy and He sought sympathy. They sought refreshment and He sought refreshment. The Mount of Olives was, to all intents and purposes,
 
@@ -79,7 +76,7 @@ Christ's home. It was there that He met with His Father. It was there that the M
 
 IV. There is just one other point for me to mention and then I will close. We have here A TYPE FOR OUR
 
-EDIFICATION.
+## Edification
 
 We hope to go to our houses after this service, but Jesus is still, in a certain sense, on the Mount of Olives interceding for us. I suppose there are some people in their houses who are plotting and scheming against the cause of God. The Jesuit is seeking to spread his nets so that he may, with his many allurements, entice the unwary and extend the evil influence of the harlot of Babylon. The persecutor is planning with the view of tripping up a saint here and overthrowing another yonder. The devil is suggesting, in the minds of atheists and infidels, crafty arguments against the Inspiration of the Scriptures, new difficulties to startle youthful Believers, fresh blasphemies concerning the Person and work of the Lord Jesus Christ. If we could have the roofs taken off the houses in London, tonight, or if we could look into the many evil hearts in this modern Babylon, how many might we see taking counsel together against the Lord and against His Anointed! Very many will be going to their houses tonight to plot, plan and imagine all sorts of evil! But, supposing they do, shall we sit down and be afraid? Shall we give way to despair? No! Verily there is still hope and more than hope for the true Church of Christ, for Jesus has gone to the Mount of Olives on high! There He stands, at the right hand of the Father, pleading the cause of His Church. Knowing her difficulties, foreseeing her perils, reading all that is in the hearts of her enemies and her own, He stretches out His hands, points to His wounds and, for Zion's sake, He will not hold His peace! For Jerusalem's sake He will not rest until her righteousness shall go forth as brightness and the salvation of His people shall be as a lamp that burns! There, Church of God, is your star of hope! The interceding Savior is our unfailing protection, our strong bulwarks and our munitions of war! Fear not, O Zion, for, while the Savior pleads, He that sits in the heavens does laugh at His enemies—the Lord has them in derision—
 
@@ -115,7 +112,7 @@ I might enlarge upon this fruitful theme, but I will not do so. And so I close b
 
 Let us, therefore, go to our houses remembering that thought of Jesus retiring in secret to pray for His people—and before we close our eyes, let us go again to the Mercy Seat where Christ has often met with us. And as we close this service, let us for a few moments go in spirit to the Mount of Olives in prayer.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 7:30-63; 8:1.
+## Exposition by C. H. Spurgeon: John 7:30-63; 8:1
 
 John 7:30, 31. Then they sought to take Him: but no man laid hands on Him, because His hour was not yet come. And many of the people believed on Him, and said, When Christ comes, will He do more miracles than these which this Man has done? Well might they ask that question, for Jesus had worked such marvelous miracles that they could not
 
@@ -148,7 +145,6 @@ imagine anything greater! Surely this must be the Christ or if He were not, when
 52, 53. They answered and said unto him, Are you also of Galilee? Search, and look: for out of Galilee arises no Prophet. And every man went unto his own house.
 
 John 8:1. Jesus went unto the Mount of Olives.
-
 
 ---
 [[Sermon 3002 The Best Thing in the Best Place|← #3002]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3004 The Christian's Manifestation|#3004 →]]

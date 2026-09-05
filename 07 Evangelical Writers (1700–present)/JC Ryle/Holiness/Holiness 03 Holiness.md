@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # Holiness
 
-Chapter III · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter III · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Holiness, without which no man shall see the Lord*.”—Heb. xii. 14.
 
@@ -172,7 +171,6 @@ There is not a brick nor a stone laid in the work of our sanctification till we 
 Would you continue holy? Then *abide in Christ*. He says Himself, “Abide in Me and I in you,—he that abideth in Me and I in him, the same beareth much fruit. (John xv. 4, 5.) It pleased the Father that in Him should all fulness dwell—a full supply for all a believer’s wants. He is the Physician to whom you must daily go, if you would keep well. He is the Manna which you must daily eat, and the Rock of which you must daily drink. His arm is the arm on which you must daily lean, as you come up out of the wilderness of this world. You must not only be rooted, you must also be *built up* in Him. Paul was a man of God indeed—a holy man—a growing, thriving Christian—and what was the secret of it all? He was one to whom Christ was “all in all.” He was ever “looking unto Jesus.” “I can do all things,” he says, “through Christ which strengthened me.” “I live, yet not I, but Christ liveth in me. The life that I now live, I live by the faith of the Son of God.” Let us go and do likewise. (Heb. xii. 2; Phil. iv. 13; Gal. ii. 20.)
 
 May all who read these pages know these things by experience, and not by hearsay only. May we all feel the importance of holiness, far more than we have ever done yet! May our years be *holy years* with our souls, and then they will be happy ones! Whether we live, may we live unto the Lord; or whether we die, may we die unto the Lord; or if He comes for us, may we be found in peace, without spot, and blameless!
-
 
 ---
 [[Holiness 02 Sanctification|← Sanctification]] · [[Holiness|Holiness Contents]] · [[Holiness 04 The Fight|The Fight →]]

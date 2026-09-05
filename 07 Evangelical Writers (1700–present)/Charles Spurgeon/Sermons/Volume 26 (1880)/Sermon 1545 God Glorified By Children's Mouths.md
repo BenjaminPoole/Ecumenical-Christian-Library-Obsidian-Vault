@@ -12,16 +12,15 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # God Glorified By Children's Mouths
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1545
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 27, 1880,.
+*Delivered on Lord's-Day Morning, June 27, 1880*
 
 > "Out of the mouth of babes and sucklings ha ve You ordained strength because of Your enemies, that You might still the enemy and the Avenger." Psalm 8.2.
 
-IN CONNECTION WITH THE CENTENARY OF SUNDAY SCHOOLS
+## In Connection with the Centenary of Sunday Schools
 
 THIS Psalm sings of the grandeur of God as seen in creation. Who has not been impressed with the sight of the starry sky and the moon walking in her brightness? Truly, God is great! Who can stand at night and gaze upward to yonder distant worlds without saying, "O Lord, our Lord, how excellent is Your name in all the earth! You have set Your Glory above the heavens." The Psalm with equal vigor treats of the condescension of God which is all the better seen when we have a view of His greatness and Glory. It is not for us to stoop—we are so low already. We sometimes use the word, condescension, in reference to man, but worms were never raised so high above their meaner fellow worms as to be capable of real condescension—that belongs to God alone. "When I consider Your heavens, the work of Your fingers, the moon and the stars, which You have ordained, what is man, that You are mindful of him? And the son of man, that You
 
@@ -150,7 +149,6 @@ Last of all, let us expect victory to come to the Church through little children
 When they go to bed they clasp their little hands and pray for their father and he is obliged to hear them. Thus he gets praying as well as singing. The children are missionaries and they enter where others cannot. The city missionary may be shut out, but Father cannot shut out Tommy or Mary and they must be allowed to sing or they will cry and that is worse—so that their witness cannot be silenced! What little children are doing for London and for our great cities is impossible for us to calculate! The darlings die and in this they often do more than by their lives. How many hard hearts have been broken and stubborn wills subdued by the deathbeds of infants? How many a mother has had her first desires for Heaven kindled by the flight of her little cherub up to the bosom of Christ?
 
 They do God's work here below in a wonderful manner. It is true and will be truer every day, that out of the mouth of babes and sucklings the Lord has ordained strength, because of His enemies, that He might still the enemy and the Avenger. God's blessing be with all of you who work among the children. Amen.
-
 
 ---
 [[Sermon 1544 Mahanaim—or, Hosts Of Angels|← #1544]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1546 Men Bewitched|#1546 →]]

@@ -243,7 +243,7 @@ Monday, 17.--In the afternoon, as we could not pass by the common road, we procu
 
 Wednesday, 19.--I preached at noon in the high street in Helstone, to the largest and most serious congregation which I ever remember to have seen there. Thursday, 20. I went on to St. Just and preached in the evening to a lovely congregation, many of whom have not left their first love. Friday, 21. About eleven I preached at Newlyn, and in the evening at Penzance; at both places I was obliged to preach abroad. Saturday, 22. I crossed over to Redruth and at six preached to a huge multitude, as usual, from the steps of the market house. The Word seemed to sink deep into every heart. I know not that ever I spent such a week in Cornwall before.
 
-Sunday, 23.--l preached there again in the morning and in the evening at the amphitheater, I suppose, for the last time. My voice cannot now command the still increasing multitude. It was sup- posed they were now more than five and twenty thousand. I think it scarcely possible that all should bear.
+Sunday, 23.--l preached there again in the morning and in the evening at the amphitheater, I suppose, for the last time. My voice cannot now command the still increasing multitude. It was sup-posed they were now more than five and twenty thousand. I think it scarcely possible that all should bear.
 
 Thursday, October 8.--I am now as well, by the good providence of God, as I am likely to be while I live. My sight is so decayed that I cannot well read by candlelight; but I can write as well as ever. My strength is much lessened so that I cannot easily preach above twice a day. But, I bless God, my memory is not much decayed, and my understanding is as clear as it has been these fifty years.
 

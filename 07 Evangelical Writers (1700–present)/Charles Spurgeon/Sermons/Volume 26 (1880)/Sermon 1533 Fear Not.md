@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Fear Not
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1533
 
-DELIVERED ON TUESDAY EVENING, MARCH 9, 1880,.
+*Delivered on Tuesday Evening, March 9, 1880*
 
 > "Fear not." Revelation 1:17.
 
@@ -162,7 +161,6 @@ VI. Lastly, time fails me, but I was going to close with that word in the 27th o
 You have often heard of the boy on board ship in time of storm who was the only person that was not afraid. When they asked him why he did not fear, he said, "Because my father is at the helm." We have still better cause for casting away all fear, for not only is our Father at the helm but our Father is everywhere! He is holding the winds and the waves in the hollow of His hand! No trouble can happen to you or to me but what He ordains or permits. No trial can come but what He will restrain and overrule. No evil can happen but what shall certainly work for good to them that love God! Therefore be not afraid.
 
 Though the howling tempest yell and the ship creak and groan as she labors among the waves and you think that nothing but destruction awaits you, fear not! Let not fear linger for a single moment in the Presence of the eternal Christ who says, "It is I. Be not afraid." May God grant that His own, "Fear not," may go home to the heart of everyone here present in some form or other—and unto His name be Glory, world without end. Amen!
-
 
 ---
 [[Sermon 1532 The Holy Spirit's Intercession|← #1532]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1534 Salvation By Works, A Criminal Doctrine|#1534 →]]

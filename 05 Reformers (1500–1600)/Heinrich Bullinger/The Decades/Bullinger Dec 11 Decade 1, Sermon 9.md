@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 11. Decade 1, Sermon 9
 
 Ler us call to our Father in heaven, through our Lord Jesus Christ, that he will vouchsafe to pour his grace into us, that we may to our no small profit dispatch and expound the last part of the articles of christian belief.
@@ -21,8 +20,6 @@ The ninth article of faith is this: “The holy catholic The ninth church, the c
 belief in the holy Trinity, and in the mystery of the Son of God, our Lord Jesus Christ, and lastly in the Holy Ghost, the sanctifier and restorer of all; now, in the fourth part, is reckoned up the fruit and power, the effect and end, of faith, and what doth come to, and is bestowed on, the faithful. There cometh to them communion of God and all saints, sanc-
 
 [8 condolere nobis, Lat. ] [4 expiatorio, Lat. ] [5 securitas, Lat. ]
-
-158 THE FIRST DECADE. [SERM.
 
 tification, remission of sins, the resurrection of the flesh, and life everlasting. Of which I will speak in order as they lie, so far forth as the bountiful Lord shall give me ability.
 
@@ -64,8 +61,6 @@ Thomas Aquine.
 
 Pope Leo.
 
-160 THE FIRST DECADE. [sERM.
-
 the church, believeth in man: for man hath not his being of the church, but the church began by man. Leave off therefore this blasphemous persuasion, to think that thou hast to believe in any worldly creature ; since thou mayest not believe neither in angel nor archangel. The unskilfulness of some have drawn and taken the preposition ‘in’ from the sentence that goeth next before, and put it to that that followeth, adding thereto also too too shamelessly somewhat more than needed!.” This hath Paschasius in that book of his, which St Gregory the Great, bishop of Rome, liked very well οἵ,
 
 What say ye to that moreover, that Thomas of Aquine, reasoning of faith, in the second book, Part. mu. Artic. ix. Quest. 1, saith? “If we say, ‘I believe in the holy church,’ we must understand, that our faith is referred to the Holy Ghost, which sanctifieth the church; and so make the sense to be thus: ‘I believe in the Holy Spirit, that sanctifieth the church.” But it is better, and according to the common use, not to add at all the syllable ‘in,’ but simply to say, the holy catholic church: even as also pope Leo saith*.” This hath Thomas.
@@ -80,7 +75,7 @@ Ix. ] THE APOSTLES’ CREED. 161
 
 So now ye have heard the opinions of the ancient doctors of the church, Cyprian, Augustine, Gregory, Paschasius, pope Leo; and also of Thomas of Aquine, which taught
 
-‘now in the latter times. And, dearly beloved, ye do under- stand, by proofs taken out of the canonical scripture, that we must acknowledge and confess the holy catholic church, but not believe in the holy catholic church.
+‘now in the latter times. And, dearly beloved, ye do under-stand, by proofs taken out of the canonical scripture, that we must acknowledge and confess the holy catholic church, but not believe in the holy catholic church.
 
 And now we have to see, what that is that is called the church, and what is called the catholic church. Ecclesia, which word we use for the church, is properly an assembly ; it is, I say, where the people are called out, or gathered together, to hear somewhat touching the affairs of the commonweal. In this present treatise it is the company, communion, congregation, multitude, or fellowship of all that profess the name of Christ. Catholic is as much to say as this fellowship is universal, as that that is extended through all places and ages*. For the church of Christ is not restrained into any corner among the Donatists in Africa’: it stretcheth out itself through the compass of the world, and unto all ages, and doth contain all the faithful from the first Adam even unto the very last saint that shall be remaining before the end of the world. This universal church hath her particular churches; I mean, the church of Adam and of the patriarchs, the church of Moses and of the prophets before the birth of Christ, the christian church, which is so named of Christ himself, and the apostolical church gathered together by the apostles’ doctrine in the name of Christ. And finally, it containeth these particular churches, as the church of Jerusalem, of Antioch, of Alexandria, of Rome, of Asia, of Africa, of Europe, of the east, of the west, &c. And yet all these churches, as it were members of one body under the only head Christ, (for Christ alone is the head of his church,
 
@@ -95,8 +90,6 @@ The true ehurch.
 We believe the church to be holy.
 
 How the church is holy.
-
-162 THE FIRST DECADE. [SERM.
 
 not only triumphant, but militant also,) do make one only catholic church ; in which there are not to be found either heresies or schisms: and for that cause it is called the true? church, to wit, of the right and true opinion, judgment, faith, and doctrine. For in the church only is true faith, and without the church of God is neither any truth, nor yet salvation.
 
@@ -124,8 +117,6 @@ The acknowledging and confessing of our sins.
 
 Our sins are forgiven of God, not for our merits, but for Christ his sake.
 
-164 THE FIRST DECADE. [SERM.
-
 that I have said doth abundantly enough express and set out the fruit of faith in the Father, the Son, and the holy Ghost ; to wit, that we have participation with God and all the saints, and that in this fellowship we are sanctified from all filth or uncleanness, being cleansed and holy in Christ our Lord.
 
 Now followeth the tenth article of our belief; which is, “The forgiveness of sins.” The second fruit or commodity of our belief in God, the Father, the Son, and the Holy Ghost, is here set forth, that is, the remission of sins; which, although it be contained in sanctification spoken of in the last article, is in this place notwithstanding more lively expressed. Without the church, as it were without the ark of Noe, is no salvation: but in the church, I mean, in the fellowship of Christ and the saints, is full! forgiveness of all offences. That this may be the better understood, I will divide it into some parts.
@@ -150,8 +141,6 @@ All sins are forgiven.
 
 God alone, and not man, forgiveth sins,
 
-166 THE FIRST DECADE. [SERM.
-
 expressly said, “I believe the forgiveness of sins,” and not of sin. For when we say “Οὔ sins,” we acknowledge that God forgiveth all sins. For to let pass the proofs hereof out of the 3rd and 5th of Paul to the Romans, those out of St John, the apostle and evangelist, shall be sufficient, who in his epistle testifieth, and saith: “The blood of Jesus Christ cleanseth us from every sin!.” Lo, he saith from every sin. He,I say, that saith from every one, excepteth none, unless it be that which the Lord himself excepted; I mean, the sin against the Holy Ghost; for which the very same St John forbiddeth us to pray®. Again also he saith: “If we acknowledge our sins, God is faithful and just to forgive us our sins, and to cleanse us from all our unrighteousness*.” The apostle thought it not enough to say barely, ‘To forgive us our sins;” but, that he might declare the thing as it is indeed so plainly that it might easily be understood, he addeth moreover this saying : “And to cleanse us from all our unrighteousness.” Lo, here he saith again, “from all unrighteousness.” And for because some cayiller might peradventure make this objection, and say, This kind of doctrine maketh men sluggish and slow to amendment; for men under the pretence of God’s grace will not cease to sin: therefore John in his 2nd chapter answereth their objection, and saith : “Babes, these things write I to you, that ye sin not: and if © any man sin, we have an advocate with the Father, Jesus Christ the righteous. And-he is the atonement for our sins: and not for our sins only, but also for the sins of all the world*.” Wherefore it is assuredly true, that by the death of Christ all sins are forgiven them that believe.
 
 Moreover, the Lord alone forgiveth sins, For it is the glory of God alone to forgive sins, and of unrighteous to make men righteous. Therefore, whereas men are said to forgive sins, that is to be understood of their ministery, and not of their power. The minister pronounceth to the people, that for Christ his sake their sins are forgiven: and in so saying he deceiveth them not; for God indeed forgiveth the sins of them that believe, according to that saying: “‘ Whose sins ye forgive, they are forgiven them®.” And this is done so often as the word of the gospel is preached; so that there be no need to feign, that auricular confession and private ab-
@@ -169,8 +158,6 @@ Finally, the Lord doth so forgive our sins, that he will We makenot never once r
 The eleventh article of our faith.
 
 The resurrection of our flesh.
-
-168 THE FIRST DECADE. [SERM.
 
 sometime doth whip us with his scourges, and whippeth us for our sins indeed (as the holy scripture doth plainly declare), he doth it not to the intent, that with our affliction we should make satisfaction for the sins we have committed; for then should the death of Christ be of none effect: but the Lord with whipping doth chastise us, and by whipping us doth let us understand, that he liketh not of the sins, which we have committed, and he doth freely forgive: by whipping us also he maketh us examples to other, lest they sin too; and cutteth from us all occasion of sinning; and by the cross doth keep our patience in ure!, This thus far, touching the forgiveness of sins. Of which I have said somewhat in my sermon of faith that justifieth?, and elsewhere.
 
@@ -191,8 +178,6 @@ Of this word “ resurrection,” or rising again, I have spoken in the expositi
 {7 Alia enim carnis, alia corporis definitio est. Omnis caro est corpus ; non omne corpus est caro. Caro est proprie, que sanguine, venis, ossibus, nervisque constringitur: corpus quamquam et caro dicatur, interdum tamen ethereum vel aérium nominatur, quod tactui visuique non subjacet; sed plerunque visibile est atque tangibile. Paries est corpus, sed non caro, &c.—Hieron. Ep. xxxviii. ad Pam. adv. Error. Johan. Jerosol. ed. Par. Tom. tv. par. 2. col. 322.]
 
 [8 in monumentis, Lat.]
-
-170 THE FIRST DECADE. [SERM.
 
 little quantity of dusty powder? I refer thee to the omnipotency of God, which the apostle spake of where he saith: «Christ hath transformed this vile body of ours, to make it conformable to his glorious body, by the power wherein he can make all things subject to himself!” Wherefore he that in the beginning, when as yet there was not a man in the world, could bring forth man out of the dust of the earth, although the same man be again resolved into that out of which he was taken, I mean, into earth, as the saying is, “Dust thou art, and into dust shalt thou return again?;” yet notwithstanding, the same God again, at the end of the world, is able to raise man out of the earth. For the Lord in the gospel saith plainly: ‘The hour shall come, wherein all they that are in the graves shall hear the voice of the Son of God, and shall come forth; they that have done good to the resurrection of life, and they that have done evil to the resurrection of judgment*.” And now by faith we are throughly persuaded, as the apostle saith, “that he that hath promised is able also to perform*.” There are moreover lively examples of this matter, and most evident testimonies of the holy scripture. Jonas is swallowed up of the whale in the Syrian® sea, but the third day after he is cast up again alive upon the shore out of the beast’s entrails; which is a token, that the flesh shall verily rise again. Wherefore, that is not hard to be believed that in the Apocalypse® is said, that “the sea casteth up her dead.”
 
@@ -228,8 +213,6 @@ In what sort our bodies shall rise again.
 
 Of what fashion our bodies shall be in the resurrection.
 
-172 THE FIRST DECADE. [SERM.
-
 Jesus’ sake, that the life of Jesus also might appear in our mortal flesh!.”” See now, what could be spoken more plainly, than that the life of Christ shall be made to appear in this mortal flesh of ours? For by and by after he saith: “ We know that he, that raised up the Lord Jesus, shall raise us up also by the means of Jesus®.” And in the fifth chapter again: “We must all appear before the judgment-seat of Christ,” saith he, “that every man may receive the works of his body, according to that he hath done, whether it be good or evil’.” Therefore these very bodies of ours shall rise again in the day of judgment.
 
 And now, dearly beloved, I have to declare unto you in what manner our bodies shall rise again, and of what sort they shall be in the resurrection. In the shutting up and end of all ages, or of this world, our Lord Jesus Christ shall come to judgment with great majesty; and then, whomsoever that day shall find alive, they shall in a moment of time be changed ; and first (I say) shall all they that died, from the first Adam to the last that shall die, rise up again, and in their own flesh stand among the living that are changed, before the tribunal-seat of Christ, looking for that last pronounced ‘sentence in judgment. This doth Paul set down in these words: “Lo, I tell you a mystery; We shall not all verily sleep, but we shall all be changed in a moment of time, in the twinkling of an eye, at the sound of the last trump: for it shall sound, and the dead shall rise again incorruptibly, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality +.”
@@ -243,8 +226,6 @@ For Paul, in the third to the Philippians, saith: “Our conversation is in heav
 [5 Luke xxiv. 39.] [6 John xx. 27.] (7 ch. x. 41.]
 
 What a lorious ody is.
-
-174 THE FIRST DECADE. [SERM.
 
 Now, although this body be comprehended within a certain limited place, not dispersed all over and every where; although it have a just quantity, figure, or shape, and a just weight, with the own kind and nature!; yet notwithstanding it is free from every passion, corruption, and infirmity. For the body of the Lord once raised up was in the garden, and not in the sepulchre, when the women came to anoint it ; it meeteth them by the way as they return from the sepulchre, and offereth itself to be seen of Magdalene in the garden; it goeth in company? to Emaus with the two disciples that journeyed to Emaus: in the mean time, while he was with them in body, he was not among the other disciples; when they twain are returned to the eleven, the Lord himself at evening is present with them: he goeth before his disciples into Galilee : presently after he cometh into Jury again, where his body was taken up from mount Olivet into heaven. All this doth prove the certain verity of Christ his body. But because this body (although it be a true and very body, of the own proper kind’, place, disposition, and of the own proper shape and nature) is called a glorified and glorious body, I will say somewhat of that glory, which verily is incident to the true shape and substance of the body once raised up again.
 
@@ -263,8 +244,6 @@ The natural and spiritual body.
 Flesh and blood shall not be in heaven.
 
 Sensu animali. Animalis.
-
-176 THE FIRST DECADE. [SERM.
 
 which is spiritual. The first man is of the earth, earthy : the second man is the Lord from heaven. As is the earthy, such are they that are earthy: and as is the heavenly, such are they also that are heavenly. And as we have borne the image of the earthy, so shall we bear the image of the heavenly.” So then Paul calleth that natural body an earthy body, which we have of our first father Adam, whose quickening is of the soul, and by it doth live. And he calleth the spiritual body an heavenly body, which we have of Christ, and made to the likeness of the body of Christ; which although it be a very body indeed, and the flesh thereof be very flesh indeed, yet notwithstanding it is quickened and preserved by the Spirit of Christ, and needeth not any power vegetative. Although therefore these very bodies and members, which now we bear, shall after the resurrection be in heaven; yet nevertheless, because they are clarified and cleansed from all corruption and feeling of the natural body, there shall not be verily any natural or corruptible sense or affection, nor use of the carnal body and members. And this doth the Lord affirm against the Sadducees (that dreamt of marriages in heaven, or rather by that absurdity made a mock of the resurrection), where he saith: “ The sons of this world marry wives, and give in marriage; but they that shall be thought worthy of that world and of the resurrection from the dead, do neither marry wives, nor give in marriage; neither can they die any more. For they are equal to the angels, and are the sons of God, as soon as they be the sons of resurrection.” To which effect also Paul saith: “Flesh and blood cannot inherit the kingdom of God.” And lest peradventure any man should mistake his words, and think that he spake of the substance of the flesh, he addeth immediately this for interpretation thereof, and saith: “ Neither shall corruption inherit incorruption®.” Wherefore flesh and blood, that is to say, the affections and lusts of the flesh, shall not be in the elect that live in heaven. For the joys of heaven do differ a great deal from the joys of the earth, and are so far forth of another condition, that they cannot admit such corrupt creatures to be inheritors of them; and for that cause
 
@@ -296,8 +275,6 @@ The twelfth article of our belief.
 
 Life everlasting.
 
-178 THE FIRST DECADE. [SERM.
-
 and that our bodies do rise again in the end of the world. We have confessed that this is our belief. It followeth now, in the latter end of the Creed, whither it is that the immortal soul and body raised up again shall come. Therefore in our confession we say, “‘ And life everlasting ;” that is, I believe that I shall have life, and live for ever, both in body and soul. And that everlastingness verily is perpetual and hath no end, as a little before is proved out of the holy scriptures.
 
 Moreover, the souls are made partakers of this eternal life immediately after they are departed out of the bodies, as the Lord himself witnesseth, saying: ‘“ He that believeth in the Son of God shall not come into judgment, but hath escaped from death to 116. As for the bodies, they are buried and do putrefy; and yet so, notwithstanding, that they shall not be without life for ever: but they shall then at length be received into eternal life, when, being raised up, they shall after the time of judgment be caught into the air, there to meet Christ, that they may for ever be with the Lord. For then do the souls return out of heaven, every one to his own body, that the whole, perfect, and full man may live for ever both in soul and body. For the soul of Christ dying on the cross did out of hand depart into paradise, and the third day after returned to the body, which rose again and ascended into heaven. Even as, therefore, eternal life came to the Head Christ, so shall it also come to all and every member of Christ.
@@ -320,9 +297,7 @@ Love and charity.
 
 Love, from whence it is.
 
-180 THE FIRST DECADE. [SERM.
-
-OF THE LOVE OF GOD AND OUR NEIGHBOUR.
+## Of the Love of God and Our Neighbour
 
 ---
 [[Bullinger Dec 10 Decade 1, Sermon 8|← 10. Decade 1, Sermon 8]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 12 Decade 1, Sermon 10|12. Decade 1, Sermon 10 →]]

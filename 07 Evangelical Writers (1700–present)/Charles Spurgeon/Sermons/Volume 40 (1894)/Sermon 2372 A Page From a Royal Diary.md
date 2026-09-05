@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # A Page From a Royal Diary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2372
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Look You upon me and be merciful to me, as You used to do to those who love Your name." Psalm 119:132.
 
@@ -125,7 +122,7 @@ Lastly, you cannot expect that you shall have continual enjoyments of the light 
 
 Now, dear Friends, I have done. I hope there has been a word for everybody. And if there has been a word from me to you, let there be a word from you to God—and let this be the prayer that you utter before leaving this house, "Look You upon me and be merciful unto me, as You used to do unto those that love Your name."
 
-EXPOSITION BY C. H. SPURGEON: PSALM 119:129-144
+## Exposition by C. H. Spurgeon: Psalm 119:129-144
 
 Verse 129. Your testimonies are wonderful: therefore does my soul keep them. Every true Believer admires God's Word and, more than that, it amazes him—"Your testimonies are wonderful." View them from any point you may select, they are wonderful—wonderful in themselves, wonderful in their operation, wonderful in the way in which they endure all kinds of testing and yet remain the same—"Your testimonies are wonderful." This wonder, however, in the true Believer, leads to godly practice, to holy living—"Therefore does my soul keep them." Our soul must be like a golden case in which we store the priceless jewels of the Word of the Lord. You cannot rightly keep God's Word anywhere but in your soul. To keep it merely in the memory, or in the intellect, is of no avail.
 
@@ -172,7 +169,6 @@ are some who can look upon the error and false doctrine which abound everywhere 
 144\. The righteousness of Your testimonies is everlasting: give me understanding. That is a great prayer, not only, "give me to understand," but, "give me understanding." It is one thing to tell a man the Truth of God, but quite another thing to make him understand it. And if you make him understand a particular Truth, he may not understand another, but David asks for understanding with which he might be able to comprehend all the Truths of God—"Give me understanding"—
 
 144\. And I shall live. God grant that this prayer may be offered by each one of us and heard by the Lord, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2371 Freedom At Once and Forever|← #2371]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2373 The Weary Dove's Return|#2373 →]]

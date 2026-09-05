@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 8
-
-**PSALM 8.**
 
 David, reflecting upon God’s fatherly beneficence towards mankind, is not content with simply giving thanks for it, but is enraptured by the contemplation of it.
 

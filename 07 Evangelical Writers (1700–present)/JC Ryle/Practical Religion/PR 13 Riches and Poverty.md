@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Riches and Poverty
 
-Chapter XIII · *Practical Religion* — J. C. Ryle
+## Chapter XIII · *Practical Religion* — J. C. Ryle
 
 >  *There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day*: " *And there was a certain beggar named Lazarus, which was laid at his gate, full of sores*, " *And desiring to be fed with the crumbs which fell from the rich man's table: moreover, the dogs came and licked his sores.* " *And it came to pass that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried*; " *And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.* "—
 
@@ -216,7 +215,6 @@ There are none surely to whom such appeals ought to come home with such power as
 I believe that in giving to support works of charity and mercy, we are doing that which is according to Christ's mind,—and I ask readers of these pages to begin the habit of giving, if they never began it before; and to go on with it increasingly, if they have begun.
 
 I believe that in offering a warning against worldliness and covetousness, I have done no more than bring forward a warning specially called for by the times, and I ask God to bless the consideration of these pages to many souls.
-
 
 ---
 [[PR 12 The World|← The World]] · [[Practical Religion|Practical Religion Contents]] · [[PR 14 The Best Friend|The Best Friend →]]

@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 34
 
-**CHAPTER 34**
+***Chapter 34***
 
 ## Isaiah 34:1-17
 

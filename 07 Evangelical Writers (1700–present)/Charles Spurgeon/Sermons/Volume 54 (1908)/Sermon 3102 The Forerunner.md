@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Forerunner
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3102
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Where the Forerunner is for us entered, even Jesus." Hebrews 6:20.
 
@@ -83,7 +80,7 @@ As He is there, can we not all trust Him? The dying thief trusted Him when His h
 
 With this assurance let us go our way, resolving to follow our Forerunner till we get where He is, "within the veil," and then forever to follow Him "wherever He goes." Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS9:24-28; 10.
+## Exposition by C. H. Spurgeon: Hebrews 9:24-28; 10
 
 Hebrews 9:24. For Christ is not entered into the Holy Place made with hands, which are the figure of the true; but into Heaven itself now to appear in the Presence of God for us. He has gone within the veil—not the veil of "blue, and purple, and scarlet, and fine twined linen of cunning work," but within the veil that hides "Heaven itself from our eyes. And there He is—"in the Presence of God for us."
 
@@ -117,7 +114,7 @@ here is that little word, "once." Let it not only sound in your ears, but be wri
 
 11, 12. And every priest stands daily ministering and offering oftentimes the same sacrifices, which can never take away sins: but this Man, after He had offered one Sacrifice for sins forever, sat down at the right hand of God. Christ stands no longer to minister as a sacrificing priest. He is sitting down at the right hand of God. That is the posture of one whose work is done and who is taking his rest—"He sat down at the right hand of God." [See Sermon #91, Volume 2—christ
 
-EXALTED]
+## Exalted]
 
 13-18. From henceforth expecting till His enemies be made His footstool. For by one offering He has perfected forever them that are sanctified. Whereof the Holy Spirit also is a witness to us: for after that He had said before, This is the Covenant that I will make with them after those days, says the Lord, I will put My Laws into their hearts, and in their
 
@@ -158,7 +155,6 @@ enduring substance. Cast not away therefore, your confidence, [See Sermon #1263,
 39\. But we are not of them who draw back unto perdition. We who have believed in Jesus. We who have sincerely committed ourselves to His care. We who have been born-again of the Holy Spirit, we in whom there is the real work of Grace which God has pledged to carry on—"we are not of them who draw back unto perdition."
 
 39\. But of them that believe to the saving of the soul What a blessed Truth of God is this! O Christian, as you see the danger that lies before you if you did prove to be an apostate, bless that Sovereign Grace which will not allow you so to do, even as Paul wrote to the Philippians, "Being confident of this very thing, that He which has begun a good work in you will perform it until the day of Jesus Christ."
-
 
 ---
 [[Sermon 3101 A Plain Talk Upon An Encouraging Topic|← #3101]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3103 A Pastoral Visit|#3103 →]]

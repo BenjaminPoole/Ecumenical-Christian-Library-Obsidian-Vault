@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 16
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE FIRST CONFERENCE OF ABBOT JOSEPH. ON FRIENDSHIP.
+## The First Conference of Abbot Joseph. On Friendship
 
 ## Chapter 1
 

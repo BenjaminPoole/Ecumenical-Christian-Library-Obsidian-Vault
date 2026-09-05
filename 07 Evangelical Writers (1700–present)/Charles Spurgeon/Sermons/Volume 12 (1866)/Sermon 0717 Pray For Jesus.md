@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Pray For Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 717
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 21, 1866,.
+*Delivered on Sunday Morning, October 21, 1866*
 
 > "Prayer also shall be made for Him continually." Psalm 72:15.
 
@@ -142,7 +141,6 @@ I have no doubt that many would thus serve the Master far more eminently than do
 Live now to Him! Live while you live! Live with all the possible energy of life! Let the love of Christ be an all-consuming passion with you! Find out some way in which to increase His kingdom. Ah, my Hearers, I bless God for you because the most of you are serving Him. I rejoice in you! You are the jewels of my crown of rejoicing because you do serve the Master! Many of you live even Apostolic lives in your eagerness to spread abroad the Truth of God! But alas, some of you I might speak of "even weeping," because you are indifferent and almost dead to the blessed power of love within the soul!
 
 May God revive us all! May the Holy Spirit constrain us to more consecrated living! I am in hopes that the Prayer Meetings held every morning and evening will be the means of bringing the Church into a warm-hearted, happy, holy, earnest state and that there will not be one left among us whose soul shall have been so dead as never to himself have said, "This is my work. Christ is my King. And now I will live for Him and pray for Him in the hope that I may at last die and be with Him where He is, and behold His glory—the glory which His Father gave Him—and be one with Him in Heaven forever and ever!"
-
 
 ---
 [[Sermon 0716 The Church Awakened|← #716]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0718 The Standard Uplifted In The Face Of The Foe|#718 →]]

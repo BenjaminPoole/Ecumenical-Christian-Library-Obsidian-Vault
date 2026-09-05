@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Welcome Visitor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3461
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when she had so said, she went her way, and secretly called Mary, her sister, saying, The Master is come, and calls foryou. As soon as she heard that, she arose quickly, and came unto Him. Now Jesus was not yet come into the town, but was in that place where Martha met Him. The Jews who were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goes unto the grave to weep there. Then when Mary was come where Jesus was, and saw Him, she fell down at His feet, saying unto Him, Lord, if You had been here, my brother had not died." John 11:28-32.
 
@@ -25,7 +22,7 @@ IT seems that Martha had heard of Christ's coming, and Mary had not. Therefore M
 
 Hoping that the Lord will now bless the word to all of us who are His own people, I shall speak of two things—a visit fromthe Master—a visit to the master.
 
-I. HERE IS A VISIT FROM THE MASTER.
+## I. Here Is a Visit from the Master
 
 Martha came and said to Mary, "The Master is come"—or as we might read it truly, "The Master is here and calls for you." "The Master is come." "The Master is here."
 
@@ -69,7 +66,7 @@ What is His Word, indeed, all through, but a call to His own Beloved to come to 
 
 "Why," says one, "no Christian has spoken to me for a long while." But the Master calls for you! "But I seem so solitary in this great metropolis, and though I know my Master, I do not know any of His people." Never mind His people! The Master is come, and calls for you. "Yes, but I think if I am one of His, I must be at the very tail end of the catalog, and the last of all." He calls for you—for you. Oh, may that Word now come home and may each one feel, "If He calls for me, there is such condescension in that call, such tender memories of my weakness, such consideration for my distance and my forgetfulness, that I will loiter no longer. Is the Master come? Lo, I am ready for Him! Does the Master call? Lo, my spirit answers, 'Come, Master, my heart's doors are flung wide open! Come and sit on the throne of my heart! Enter in and sup with me and I with You, and make this a gladsome season of intimate fellowship between my soul and her Lord.'" Turning now to our second part, let us talk awhile of—
 
-II. A VISIT TO THE MASTER.
+## II. A Visit to the Master
 
 It follows on the first as a fit sequence. We never come to Christ till Christ comes to us. "Draw me—I will run after You." That is the order. It is not, "We will run after You, Lord—draw us." When a soul is saying, as we sung in the hymn just now—
 
@@ -101,7 +98,7 @@ Come and cast yourself at Jesus' feet tonight! Is there no young man here to who
 
 The Lord bless you, Beloved, for Christ's sake Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 16.
+## Exposition by C. H. Spurgeon: John 16
 
 Verse 1. These things have Ispoken unto you, thatyou shouldnot be offended. That you should not be scandalized when you are put to suffering on My account—that you should not dread the offense of the Cross and turn aside because
 
@@ -148,7 +145,6 @@ It is an exposition and display of the Father's love—and the prayer of Christ,
 32\. Behold, thee hour comes, yes, is now come, that you shall be scattered, every man to his own, and shall leave Me alone: and yet I am not alone, because the Father is with Me. Oh, you that say you believe tonight, beware lest tomorrow you should be scattered in unbelief and fear! Whatever faith we have is God's giving, and if it remain with us, it will be because God keeps it there! There is not one among us that has any faith to spare. We do not know but that the very hour is come, even now, that will try us and make us ask whether we have any faith at all.
 
 33\. These things I have spoken unto you, that in Me you might have peace. In the world you shall have tribulation: but be of good cheer: I have overcome the world. There is a blessed word of good cheer for us, everyone!
-
 
 ---
 [[Sermon 3460 Praise Comely to the Upright|← #3460]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3462 To the Rescue|#3462 →]]

@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Jeremiah 7:1-4
 
@@ -43,7 +42,7 @@ But we must observe the design of the Prophet, which interpreters have omitted. 
 
 ## Prayer Lecture 26
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we so abuse thy forbearance, that thou art constrained by our depravity to deal sharply with us, — O grant, that we may not be also hardened against thy chastisements, but may we with a submissive and tractable neck learn to take thy yoke, and be so obedient to thy government, that we may testify our repentance, not for one day only, and give no fallacious evidence, but that we may really prove through the whole course of our life the sincerity of our conversion to thee, by regarding this as our main object, even to glorify thee in Christ Jesus our Lord. — Amen.
 
@@ -119,7 +118,7 @@ We hence see what force there is in the particle גם, *gam,* also, and in the p
 
 ## Prayer Lecture 27
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou buildest not at this day a temple among us of wood and stones, and as the fullness of thy Godhead dwells in thine only — begotten Son, and as he by his power fills the whole world, and dwells in the midst of us, and even in us, — O grant, that we may not profane his sanctuary by our vices and sins, but so strive to consecrate ourselves to thy service, that thy name through his name may be continually glorified, until we shall at length be received into that eternal inheritance, where will appear to us openly, and face to face, that glory which we now see in the truth contained in thy gospel. — Amen.
 
@@ -197,7 +196,7 @@ He then subjoins, *Do they provoke me, and not rather to the shame of their own 
 
 ## Prayer Lecture 28
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are inclined not only to superstitions, but also to many vices, we may be restrained by thy word, and as thou art pleased daily to remind us of thy benefits, that thou mayest keep us in the practice of true religion, — O grant, that we may not be led astray by the delusions of Satan and by our own vanity, but continue firm and steady in our obedience to thee, and constantly proceed in the course of true piety, so that we may at length partake of its fruit in thy celestial kingdom, which has been obtained for us by the blood of thine only — begotten Son. — Amen.
 
@@ -263,7 +262,7 @@ He says, that they *were behind and not before* By this phrase he intimates that
 
 ## Prayer Lecture 29
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast at this day so clearly revealed to us thy will that there can remain no pretense of ignorance, we may on that account submit to thee with a freer and more ready mind, and that we may not only incline our ears to thee, but also so attend to thee with all our hearts, that we may desire no other thing than to make our whole life approved by thee: and as we cannot but turn aside, through our obstinacy and wickedness, from the right way, do thou so enlighten us by the Spirit of wisdom and knowledge, that we may strive to embrace whatever thou hast been pleased to prescribe to us in thy word, so that when the course of this life shall be finished, we may at length reach the goal, and partake of the fruit of our obedience, and enjoy that eternal inheritance, which thine only — begotten Son has procured for us by his own blood. — Amen.
 
@@ -337,7 +336,7 @@ He adds one kind of sin, that they had *set up their abominations* [^24] in the 
 
 ## Prayer Lecture 30
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou so constantly invitest us, daily and even hourly, to thyself, we may not give thee occasion to complain, as of thy people of old, that we are deaf and thus neglect thy holy admonitions, but that we may be teachable and submissive to thee, and that, as thou risest early, we may also be ready to meet thee, and be obedient to thee, not only for one day, but persevere through life in the same course, until at length we shall reach that blessed rest, prepared for us in heaven by Jesus Christ our Lord. — Amen.
 

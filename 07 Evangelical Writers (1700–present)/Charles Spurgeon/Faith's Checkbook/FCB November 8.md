@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 8
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE MAGNITUDE OF GRACE**
+## **The Magnitude of Grace**
 
 > My grace is sufficient for thee; for my strength is made perfect in weakness" II Cor. 12:9
 
@@ -23,7 +22,6 @@ Our weakness should be prized as making room for divine strength. We might never
 This is a precious word from our Lord's own lip. It has made the writer laugh for joy. God's grace enough for me! I should think it is. Is not the sky enough for the bird, and the ocean enough for the fish? The All-Sufficient is sufficient for my largest want. He who is sufficient for earth and Heaven is certainly able to meet the case of one poor worm like me.
 
 Let us, then, fall back upon our God and His grace. If He does not remove our grief He will enable us to bear it. His strength shall be poured into us till the worm shall thresh the mountains; and a nothing shall be victor over all the high and mighty ones. It is better for us to have God's strength than our own; for if we were a thousand times as strong as we are, it would all amount to nothing in the face of the enemy; and if we could be weaker than we are, which is scarcely possible, yet we could do all things through Christ.
-
 
 ---
 [[FCB November 7|← November 7]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 9|November 9 →]]

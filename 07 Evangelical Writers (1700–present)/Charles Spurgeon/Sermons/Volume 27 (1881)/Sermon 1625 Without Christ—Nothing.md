@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Without Christ—Nothing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1625
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 23, 1881,.
+*Delivered on Lord's-Day Morning, October 23, 1881*
 
 > "Without Me you can do nothing." John 15:5.
 
@@ -136,7 +135,6 @@ I laughed, too, because I remembered a story of a New England service when the p
 Everybody rose. The women were ready to faint. The men began to rush to the doors and there was danger that the people would be trampled on as they rushed down the aisles! There was about to be a great tumult. No one could see the end of it, when suddenly one cool Brother sitting near the pulpit produced calm by a single sentence. "Let him try!" was the stern sarcasm which hushed the tempest!
 
 Even so, today the enemy is about to disprove the Gospel and crush out the Doctrines of Grace! Are you distressed, alarmed, astounded? So far from that, my reply to the adversary's boast that he will pull down the pillars of our Zion is only this —LET HIM TRY! Amen.
-
 
 ---
 [[Sermon 1624 Welcome! Welcome!|← #1624]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1626 The Principal Wheat|#1626 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # God's Glory in the Building Up of Zion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3147
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "When the LORD shall build up Zion, He shall appear in His Glory." Psalm 102:16.
 
@@ -45,7 +42,7 @@ not to make us so, but as the best discipline to keep us in good health and good
 
 But I must go yet a step further. After a Church has become all that I have been describing, the next thing it ought to do should be to think of the formation of other Churches. The building up of an empire must often be by colonization. Her majesty's dominions, upon which we proudly say that, "the sun never sets," have been greatly enlarged by the sons and daughters of Britain who have gone to other lands. And the true process of increasing the Church of Christ must be by her forming colonies. Who dares to deny that in the building of many places of worship in England and elsewhere, the devil has had as much to do as Christ has had? I mean in our denomination, if not in any other. A great number of chapels have been as the result of schism, bad spirit, bickering, jealousy and I know not what—quarrelling and contending, perhaps, about some points of Truth which, if important, could not be so important as the spirit of love and of unity! Many and many a time a house has been dedicated to God when the first thought that led to it—and the last act that finished it—were simply a thought and an act of pride, or envy, or pure sectarian bigotry and nothing more! Now, I do not think, although He has no doubt overruled it for good, that this is legitimate. But for a number of Christian people associated together in a Church and finding that the Church has grown strong enough to be able to afford to lose them—for these to swarm off and form another Church and give of their substance to build another house—seems to me to be a legitimate and proper method in which Zion may be built up in these, our realms.
 
-II. THE BUILDING UP OF ZION IS, ACCORDING TO THE TEXT, CONNECTED WITH JEHOVAH'S BEING GLORIFIED.
+## II. The Building up of Zion Is, According to the Text, Connected with Jehovah's Being Glorified
 
 "When the Lord shall build up Zion, He shall appear in His Glory." Ah, Brothers and Sisters! It would need a seraph to tell of all the Glory which has come to God through the building up of His Church. Heaven rang with acclamations when the angels first learned that God designed to have a Church on the earth. When they perceived, by the glimmering light of the first promise, that there was to be a Seed of the woman as well as a seed of the serpent, they began to hymn Jehovah's praise and, when Christ was given and so the foundation of the Church was actually laid, the Glory of creation was eclipsed and even the splendor of Providence might almost have been forgotten in the more transcendent Glory of Grace. God had done marvelously before, but never did He seem so Divine as when He gave His dear Son and when, in the holy life and dying pangs of the Son of His love, the foundation of the Church was laid! So, too, God is glorified in every single part of the building of His Church. There is not a stone quarried from the dark pit of Nature, or polished by the tools of Grace, or put into its position without fresh honor to God and new Glory to His name. He cannot be more glorious, but He appears more richly glorious in the building up of His Church. And what will be the Glory when the topstone is brought out—when the last elect one shall be cemented to the visible whole? What shall be the undying melody, the unceasing song of ages as to principalities and powers shall be made known, by the Church, the manifold wisdom of God?
 
@@ -85,7 +82,7 @@ The enquiry shapes itself afresh. Have you anything to do with glorifying Godin 
 
 The Church of Christ shall and must be built! Even if you and I sit still, it will be built. This a glorious Truth of God though it is often perverted to a mischievous end—the Church will be built, even without us, but oh, we shall miss the satisfaction of helping in its building! Yes, it will grow. Every stone will be put in its place and the pinnacle will soar to its predestinated elevation—but every stone, from foundation to pinnacle, will seem to say to you, "You had nothing to do with this! You had no hand in this!" When Cyrus took one of his guests round his garden, the guest admired it greatly and said he had much pleasure in it. "Ah," said Cyrus, "but you have not so much pleasure in this garden as I have, for I planted every tree in it myself." One reason why Christ has so much pleasure in His Church is because He did so much for it. And one reason why some saints will have a greater fullness of Heaven than others to rejoice in will be because they did more for Heaven than others did. By God's Grace, they were enabled to bring more souls there—and as they look upon the Church they may, without self-reliance or self-conceit, ascribing it all to Grace, remember what they were enabled to do as instruments in the hands of the Lord towards its building up. "When the Lord shall build up Zion, He shall appear in His Glory."
 
-EXPOSITION BY C. H. SPURGEON: PSALMS123,124,125.
+## Exposition by C. H. Spurgeon: Psalms 123,124,125
 
 Psalm 123:1. Unto You lift I up my eyes, O You that dwell in the heavens. Our eyes are far too apt to look below, or to look within, or to look around. But it is wisdom on our part to look up. There is always something blessed to see upward, especially when we look up to Him who dwells in the highest heavens—our Father, our Savior, our Comforter. There is little down here that is worth looking at, but there is everything for our comfort when we look up.
 
@@ -136,7 +133,6 @@ comfort there is in this verse to all who trust in the Lord! We never expect to 
 5\. But peace shall be upon Israe. What a blessed benediction that is—peace! It is the one thing that we need above everything else. We are sometimes glad to know more, but we often tire even of knowing and would rather sit down as children who are satisfied with what they have been told by others who do know. We wish to be very useful in the world—and, blessed be God, we can never rest unless we are useful. But there are times of weariness when the best blessing for us—the blessing which shall most help to fit us for future service—is perfect peace, that peace of which our Savior said to His disciples, "Peace I leave with you, My peace I give unto you."
 
 Are all of you who are trusting in Christ in the enjoyment of that peace at this moment? If not, you are not living up to your privileges as Believers.
-
 
 ---
 [[Sermon 3146 The Power of Christ's Presence|← #3146]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3148 Christ's Ambassadors|#3148 →]]

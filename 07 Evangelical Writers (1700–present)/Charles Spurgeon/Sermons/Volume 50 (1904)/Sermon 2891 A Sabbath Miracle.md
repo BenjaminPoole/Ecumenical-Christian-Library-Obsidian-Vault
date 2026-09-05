@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # A Sabbath Miracle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2891
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He was teaching in one of the synagogues on the Sabbath. And, behold, there was a woman which had a spirit ofinfrmity eighteen years, and was bowed together, and could in no wise lift herself up. And when Jesus sawher, He called her to Him and said unto her, Woman, you are loosed f-omt your infirmity. And He laid His hands on her: and immediately she was made straight, and glorified God." Luke 13:10-13.
 
@@ -93,7 +90,7 @@ I think that every Christian should go home to his friends and tell them what gr
 
 Some people may say to you, "You had better hold your tongue, for you will break down if you try to tell such a story as that." That would be the very best thing you could do! There is nothing like a break-down when you are telling your story of redeeming Grace and dying love—it is the very glory of it when you break down with emotion and cannot say any more—for your hearers will be all the more anxious to know the rest of it! And there will be a deeper impression produced by your breaking down than there would have been if you had kept right on. But, anyway, do tell the story! Tell it as long as you have any breath in your body! Tell how "Jesus has done all things well" and saved your soul. Make Heaven and earth to ring with the glad news! And when you go Home to Glory, tell the angels all about it, for they will be glad to hear your story and they will break out into fresh praise as they listen to it! May God thus bless every one of you, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM9.
+## Exposition by C. H. Spurgeon: Psalm 9
 
 This Psalm has a dedication which is very difficult to understand—"To the chief Musician upon Muth-labben. A Psalm of David." Either "Muth-labben" is the tune to which the Psalm was to be sung, or some musical instrument that is now forgotten, or else it alludes to Ben, who was one of the Levitical singers mentioned in 1 Chronicles 15:18. In all probability, however, the true translation of the title is, "A Psalm on the death of the son," or, "on the death of the champion," and it is thought by some that it was composed by David after the death of giant Goliath. If it is so, I think you will see, as we read the Psalm, that it well proclaims the victory which God had worked.
 
@@ -132,7 +129,6 @@ His heart."
 18-20. For the needy shall not always be forgotten: the expectation of the poor shall not perish forever Arise, O LORD, let not man prevail: let the heathen be judged in Your sight Put them in fear, O LORD: that the nations may know themselves to be but men. They boast that they are men and that they quit themselves like men. Yet let them know that although they are men, they are only men—with all the infirmities and imperfections of men—and that there is a God who will, in due time, let men know that they are but men and that the best of men are but men at the best!
 
 20\. Selah. Pause again, think over what we have been reading and lift up your heart in prayer to God, seeking the aid of the Holy Spirit to apply His Truth to your soul.
-
 
 ---
 [[Sermon 2890 Unbelievers Upbraided|← #2890]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2892 The Free-agency of Christ|#2892 →]]

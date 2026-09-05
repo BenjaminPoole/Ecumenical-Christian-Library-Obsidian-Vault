@@ -11,7 +11,6 @@ tags:
   - classical
   - homer
 ---
-
 # The Iliad
 *trans. Samuel Butler (prose)*
 
@@ -19,51 +18,15 @@ tags:
 
 ---
 
-      THE ILIAD OF HOMER
+## The Iliad of Homer
 
       Rendered into English Prose for
       the use of those who cannot
       read the original
 
-
       by Samuel Butler
 
-
-
-
-Contents
-
-
- BOOK I.
- BOOK II.
- BOOK III.
- BOOK IV.
- BOOK V.
- BOOK VI.
- BOOK VII
- BOOK VIII.
- BOOK IX.
- BOOK X.
- BOOK XI.
- BOOK XII.
- BOOK XIII.
- BOOK XIV.
- BOOK XV.
- BOOK XVI.
- BOOK XVII.
- BOOK XVIII.
- BOOK XIX.
- BOOK XX.
- BOOK XXI.
- BOOK XXII.
- BOOK XXIII.
- BOOK XXIV.
-
-
-
-
-BOOK I.
-
+## Book I
 
       The quarrel between Agamemnon and Achilles—Achilles withdraws
       from the war, and sends his mother Thetis to ask Jove to help the
@@ -627,11 +590,7 @@ BOOK I.
       to it he went to sleep, with Juno of the golden throne by his
       side.
 
-
-
-
-BOOK II.
-
+## Book II
 
       Jove sends a lying dream to Agamemnon, who thereon calls the
       chiefs in assembly, and proposes to sound the mind of his army—In
@@ -1436,11 +1395,7 @@ BOOK II.
       Sarpedon and Glaucus led the Lycians from their distant land, by
       the eddying waters of the Xanthus.
 
-
-
-
-BOOK III.
-
+## Book III
 
       Alexandria, also called Paris, challenges Menelaus—Helen and
       Priam view the Achaeans from the wall—The covenant—Paris and
@@ -1842,11 +1797,7 @@ BOOK III.
       Thus spoke the son of Atreus, and the Achaeans shouted in
       applause.
 
-
-
-
-BOOK IV.
-
+## Book IV
 
       A quarrel in Olympus—Minerva goes down and persuades Fandarus to
       violate the oaths by wounding Menelaus with an arrow—Agamemnon
@@ -2328,11 +2279,7 @@ BOOK IV.
       spears and arrows. For many Trojans and Achaeans on that day lay
       stretched side by side face downwards upon the earth.
 
-
-
-
-BOOK V.
-
+## Book V
 
       The exploits of Diomed, who, though wounded by Pandarus,
       continues fighting—He kills Pandarus and wounds AEneas—Venus
@@ -3148,11 +3095,7 @@ BOOK V.
       put a stop to the murderous doings of Mars, went back again to
       the house of Jove.
 
-
-
-
-BOOK VI.
-
+## Book VI
 
       Glaucus and Diomed—The story of Bellerophon—Hector and
       Andromache.
@@ -3623,11 +3566,7 @@ BOOK VI.
       of our deliverance before ever-living gods of heaven in our own
       homes, when we have chased the Achaeans from Troy.”
 
-
-
-
-BOOK VII.
-
+## Book VII
 
       Hector and Ajax fight—Hector is getting worsted when night comes
       on and parts them—They exchange presents—The burial of the dead,
@@ -4049,11 +3988,7 @@ BOOK VII.
       mighty son of Saturn. Then they laid themselves down to rest and
       enjoyed the boon of sleep.
 
-
-
-
-BOOK VIII.
-
+## Book VIII
 
       Jove forbids the gods to interfere further—There is an even fight
       till midday, but then Jove inclines the scales of victory in
@@ -4562,11 +4497,7 @@ BOOK VIII.
       sat fifty men, while the horses, champing oats and corn beside
       their chariots, waited till dawn should come.
 
-
-
-
-BOOK IX.
-
+## Book IX
 
       The Embassy to Achilles.
 
@@ -5180,11 +5111,7 @@ BOOK IX.
       then made their drink-offerings and went every man to his own
       tent, where they laid down to rest and enjoyed the boon of sleep.
 
-
-
-
-BOOK X.
-
+## Book X
 
       Ulysses and Diomed go out as spies, and meet Dolon, who gives
       them information: they then kill him, and profiting by what he
@@ -5714,11 +5641,7 @@ BOOK X.
       from a full mixing-bowl, made a drink-offering of wine to
       Minerva.
 
-
-
-
-BOOK XI.
-
+## Book XI
 
       In the forenoon the fight is equal, but Agamemnon turns the
       fortune of the day towards the Achaeans until he gets wounded and
@@ -6514,11 +6437,7 @@ BOOK XI.
       virtuous herb which killed all pain; so the wound presently dried
       and the blood left off flowing.
 
-
-
-
-BOOK XII.
-
+## Book XII
 
       The Trojans and their allies break the wall, led on by Hector.
 
@@ -6949,11 +6868,7 @@ BOOK XII.
       The Danaans then fled panic-stricken towards their ships, and all
       was uproar and confusion.
 
-
-
-
-BOOK XIII.
-
+## Book XIII
 
       Neptune helps the Achaeans—The feats of Idomeneus—Hector at the
       ships.
@@ -7743,11 +7658,7 @@ BOOK XIII.
       Trojan chieftains, and the cry from both the hosts rose up to
       heaven and to the brightness of Jove’s presence.
 
-
-
-
-BOOK XIV.
-
+## Book XIV
 
       Agamemnon proposes that the Achaeans should sail home, and is
       rebuked by Ulysses—Juno beguiles Jupiter—Hector is wounded.
@@ -8242,11 +8153,7 @@ BOOK XIV.
       than any other, for there was no man so fleet as he to pursue
       flying foes when Jove had spread panic among them.
 
-
-
-
-BOOK XV.
-
+## Book XV
 
       Jove awakes, tells Apollo to heal Hector, and the Trojans again
       become victorious.
@@ -8943,11 +8850,7 @@ BOOK XV.
       with his long spear. Twelve men did he thus kill in hand-to-hand
       fight before the ships.
 
-
-
-
-BOOK XVI.
-
+## Book XVI
 
       Fire being now thrown on the ship of Protesilaus, Patroclus
       fights in the armour of Achilles—He drives the Trojans back, but
@@ -9776,11 +9679,7 @@ BOOK XVI.
       immortal steeds which the gods had given as a rich gift to Peleus
       bore him swiftly from the field.
 
-
-
-
-BOOK XVII.
-
+## Book XVII
 
       The fight around the body of Patroclus.
 
@@ -10460,11 +10359,7 @@ BOOK XVII.
       of the Danaans much goodly armour fell round about the trench,
       and of fighting there was no end.
 
-
-
-
-BOOK XVIII.
-
+## Book XVIII
 
       The grief of Achilles over Patroclus—The visit of Thetis to
       Vulcan and the armour that he made for Achilles.
@@ -11035,11 +10930,7 @@ BOOK XVIII.
       like a falcon from the snowy summits of Olympus and bore away the
       gleaming armour from the house of Vulcan.
 
-
-
-
-BOOK XIX.
-
+## Book XIX
 
       Achilles is reconciled with Agamemnon, puts on the armour which
       Vulcan had made him, and goes out to fight.
@@ -11414,11 +11305,7 @@ BOOK XIX.
 
       So saying, with a loud cry he drove his horses to the front.
 
-
-
-
-BOOK XX.
-
+## Book XX
 
       The gods hold a council and determine to watch the fight, from
       the hill Callicolone, and the barrow of Hercules—A fight between
@@ -11892,11 +11779,7 @@ BOOK XX.
       wheels; but the son of Peleus pressed on to win still further
       glory, and his hands were bedrabbled with gore.
 
-
-
-
-BOOK XXI.
-
+## Book XXI
 
       The fight between Achilles and the river Scamander—The gods fight
       among themselves—Achilles drives the Trojans within their gates.
@@ -12467,11 +12350,7 @@ BOOK XXI.
       who had escaped and who were fallen in fight, but all whose feet
       and knees could still carry them poured pell-mell into the town.
 
-
-
-
-BOOK XXII.
-
+## Book XXII
 
       The death of Hector.
 
@@ -12968,11 +12847,7 @@ BOOK XXII.
       In such wise did she cry aloud amid her tears, and the women
       joined in her lament.
 
-
-
-
-BOOK XXIII.
-
+## Book XXIII
 
       The funeral of Patroclus, and the funeral games.
 
@@ -13812,11 +13687,7 @@ BOOK XXIII.
       King Agamemnon assented. So he gave the bronze spear to Meriones,
       and handed the goodly cauldron to Talthybius his esquire.
 
-
-
-
-BOOK XXIV.
-
+## Book XXIV
 
       Priam ransoms the body of Hector—Hector’s funeral.
 

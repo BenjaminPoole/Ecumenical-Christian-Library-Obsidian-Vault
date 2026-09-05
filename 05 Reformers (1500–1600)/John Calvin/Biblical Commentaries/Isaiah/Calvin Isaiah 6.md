@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 6
 
-**CHAPTER 6.**
+***Chapter 6.***
 
 ## Isaiah 6:1-13
 

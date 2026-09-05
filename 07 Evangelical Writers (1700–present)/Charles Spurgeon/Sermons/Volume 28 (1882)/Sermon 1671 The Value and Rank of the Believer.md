@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Value and Rank of the Believer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1671
-
-DELIVERED BY.
 
 > "Since you were precious in My sight, you have been honorable, and I have loved you: therefore will I give men for you, and people for your life." Isaiah 43:4.
 
@@ -140,7 +137,6 @@ For proud Pharisees, Christ has nothing! He came "not to call the righteous, but
 Come to Jesus Christ and buy."
 
 And oh, what a surprise it will be for you to hear His Spirit saying to you, by-and-by, "Because I loved you before the world was—because I had chosen you—because I had determined to save you, because you were precious in My sight, therefore you are honorable, and I have loved you. Come and rejoice in Me." God help you to do so, for Jesus' sake, Amen.
-
 
 ---
 [[Sermon 1670 One Lion, Two Lions, No Lion at All!|← #1670]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1672 The Voice Behind Thee|#1672 →]]

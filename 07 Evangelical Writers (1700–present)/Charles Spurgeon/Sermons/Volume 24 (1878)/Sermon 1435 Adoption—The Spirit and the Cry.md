@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Adoption—The Spirit and the Cry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1435
@@ -73,8 +72,7 @@ I shall close when I notice this, that the *most of this crying is kept within t
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Galatians 3:22-29; 4; 5:1-6.
 
-HYMNS FROM “OUR OWN HYMN BOOK”—728, 468, 221.
-
+## Hymns from “Our Own Hymn Book”—728, 468, 221
 
 ---
 [[Sermon 1434 Jesus!|← #1434]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1436 What The Church Should Be|#1436 →]]

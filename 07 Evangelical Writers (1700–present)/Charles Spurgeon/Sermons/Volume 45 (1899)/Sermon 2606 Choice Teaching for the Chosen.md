@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Choice Teaching for the Chosen
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2606
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "It is written in the Prophets, 'And they shall be all taught of God.' Every man, therefore, that has heard and has learned of the Father, comes unto Me." John 6:45.
 
@@ -79,7 +76,7 @@ And why is this? Because we are always being taught of the Father! I trusted Chr
 
 Everyone who is taught of the Father, in proportion as he is so taught, comes nearer and nearer to Christ until he comes perfectly to Christ in the Glory yet to be revealed. O blessed Master, we are still coming to You. We are, everyday, coming nearer to You. Your Spirit is making us more like You and making us long more for You! Your Father is creating in us more and more of a hungering and thirsting after You. Though we are very lame and do sadly limp, yet still we are coming to You. We can only feebly fly, yet still we are flying towards You and we expect that when You shall appear, and sit upon the Great White Throne, You will recognize that we are coming to You and You, Yourself will say to us, "Come, you blessed of My Father, inherit the kingdom prepared for you from the foundation of the world." We are coming, Lord, to You! Come to us! Yes, come quickly, even so, come, Lord Jesus! Amen and Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN6:25-51.
+## Exposition by C. H. Spurgeon: John 6:25-51
 
 These people had crossed the Sea of Galilee and gone to Capernaum, "seeking for Jesus." It seemed a very hopeful sign that they should be willing to make such efforts to find Christ, but see how the Lord Jesus, Himself, regarded it.
 
@@ -118,7 +115,6 @@ Verses 25, 26. And when they had found Him on the other side of the sea, they sa
 47\. Verily, verily, I say unto you, he that believes on Me has everlasting life. This was how our Lord spoke straight to the faces of those who had derided Him and said, "Is not this Jesus, the son of Joseph, whose father and mother we know?" With the strongest Words which He was in the habit of using, He says, "Verily, verily, I say unto you, he that believes on Me has everlasting life."
 
 48-51. Iam that Bread oflife. Your fathers ate manna in the wilderness, andare dead. This is the bread which comes down from Heaven, that a man may eat, thereof, and not die. Iam the living bread which came down from Heaven: if any man eats of this bread, he shall live forever: and the bread that I will give is My flesh, which I will give for the life of the world.
-
 
 ---
 [[Sermon 2605 Death and Its Sentence Abolished|← #2605]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2607 Foretastes of the Heavenly Life|#2607 →]]

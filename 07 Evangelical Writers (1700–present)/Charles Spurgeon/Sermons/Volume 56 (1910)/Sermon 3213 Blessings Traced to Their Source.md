@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # Blessings Traced to Their Source
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3213
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "All my springs are in You." Psalm 87:7.
 
@@ -137,7 +134,7 @@ All the power of the Gospel lies in itself, not in the sinner—salvation comes 
 
 Therefore, there is nothing about the sinner to make us hesitate to preach to him because if he is dead, God can lift him up. Yes, if he is like Lazarus, dead and buried, the Voice of God can call him forth from the tomb! Yes, if he were as nothing, God makes the things that are not, to be mightier than the things that are! He can bless where all was cursed. Out of the stones of the brook He can raise up children to Abraham. Let us have great comfort, next Sunday, in going to preach, or to teach in the Sunday school, or to engage in other forms of usefulness. All the springs lie in God and if we are going to work in a dry and thirsty land where there is no water, never mind! Our springs are in God—our faith is in Him and, according to our faith, so shall it be done to us. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM34
+## Exposition by C. H. Spurgeon: Psalm 34
 
 Verse 1 I will bless the LORD at all times: His praise shall continually be in my mouth. What a sweet resolve! Oh, that all of us who know the Lord would make that resolve and keep it all our days—"I will bless the Lord at all times." In dark times and bright times, as long as I live. "His praise shall continually be in my mouth"—that is the most delightful mouthful that a man can possibly have!
 
@@ -184,7 +181,6 @@ POOR MAN'S CRY—AND WHAT CAME OF IT.] Here David speaks of himself again, but h
 21, 22. Evil shall slay the wicked: and they that hate the righteous shall be desolate. The LORD redeems the soul of His servants.Great as the price is, He pays it! They are so precious to Him that He minds not what price He pays so that He may redeem the souls of His servants.
 
 22\. And none of them that trust in Him shall be desolate. Blessed be His holy name!
-
 
 ---
 [[Sermon 3212 A Command and a Promise|← #3212]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3214 Two Wilderness Incidents|#3214 →]]

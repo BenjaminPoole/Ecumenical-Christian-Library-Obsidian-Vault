@@ -10,7 +10,6 @@ tags:
   - wesley
   - wesley-journal
 ---
-
 # 5. Wesley Refused Sacraments at Epworth; Cornwall and the Scilly Isles; Natural Amphitheater at Gwennap; Wesley in Danger
 
 1743\. Saturday, January 1.—Between Doncaster and Epworth I overtook one who immediately accosted me with so many and so impertinent questions that I was quite amazed. In the midst of some of them, concerning my travels and my journey, I interrupted him and asked, “Are you aware that we are on a longer journey; that we are traveling toward eternity?” He replied instantly, “Oh, I find you! I find you! I know where you are! Is not your name Wesley? ‘Tis pity! ‘Tis great pity! Why could not your father’s religion serve you? Why must you have a new religion?” I was going to reply, but he cut me short by crying out in triumph, “I am a Christian! I am a Christian! I am a Churchman! I am a Churchman! I am none of your Culamites”; as plainly as he could speak; for he was so drunk he could but just keep his seat. Having then clearly won the day, or as his phrase was, “put them all down,” he began kicking his horse on both sides and rode off as fast as he could.
@@ -201,15 +200,15 @@ Monday, 31.—We set out early in the morning, and in the evening came to Newcas
 
 Wednesday, November 2.—The following advertisement was published:
 
-FOR THE BENEFIT OF MR. ESTE.
+## For the Benefit of Mr. Este
 
 By the Edinburgh Company of Comedians, on Friday, November 4, will be acted a Comedy, called,
 
-THE CONSCIOUS LOVERS;
+## The Conscious Lovers
 
 To which will be added a Farce, called,
 
-TRICK UPON TRICK, OR METHODISM DISPLAYED
+## Trick upon Trick, or Methodism Displayed
 
 On Friday, a vast multitude of spectators were assembled in the Moot Hall to see this. It was believed there could not be less than fifteen hundred people, some hundreds of whom sat on rows of seats built upon the stage. Soon after the comedians had begun the first act of the play, on a sudden all those seats fell down at once, the supporters of them breaking like a rotten stick. The people were thrown one upon another, about five foot forward, but not one of them hurt. After a short time the rest of the spectators were quiet, and the actors went on. In the middle of the second act, all the shilling seats gave a crack, and sank several inches down. A great noise and shrieking followed, and as many as could readily get to the door, went out and returned no more. Notwithstanding this, when the noise was over, the actors went on with the play.
 

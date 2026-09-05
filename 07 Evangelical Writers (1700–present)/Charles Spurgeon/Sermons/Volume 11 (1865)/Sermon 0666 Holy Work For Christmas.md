@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Holy Work For Christmas
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 666
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 24, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 24, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "And when they had seen it, they made known abroad the saying which was told them concerning this Child. And all they that heard it wondered at those things which were told them by the shepherds. But Mary kept all these things and pondered them in her heart. And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them." Luke 2:17-20.
 
@@ -148,7 +147,6 @@ But as for you Christians who are saved, I want you to begin this very afternoon
 May the Master bless you for Jesus Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke 2:1-20.
-
 
 ---
 [[Sermon 0665 Open House For All Comers|← #665]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0667 Last Things|#667 →]]

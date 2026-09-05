@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 111. Deuteronomy 29:10-28
-
-**Deuteronomy 29**
 
 **10.** Ye stand this day all of you before the Lord your God; your captains of your tribes, your elders, and your officers, *with* all the men of Israel,
 

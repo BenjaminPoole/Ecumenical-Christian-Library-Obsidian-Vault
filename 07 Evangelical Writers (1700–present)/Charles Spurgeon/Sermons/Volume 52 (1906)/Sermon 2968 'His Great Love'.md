@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # 'His Great Love'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2968
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "His great love with which He loved us, even when we were dead in sins." Ephesians 2:4,5.
 
@@ -91,7 +88,7 @@ I recollect the time, many years ago, when I would have given both my eyes to he
 
 "There is life for a look at the Crucified One! There is life at this moment for thee! Then look, Sinner—look unto Him and be saved— Unto Him who was nailed to the tree."
 
-EXPOSITION BY C. H. SPURGEON: PSALM30.
+## Exposition by C. H. Spurgeon: Psalm 30
 
 May the Holy Spirit who inspired the writer of this Psalm now lead us into its inner meaning! It is entitled, "A Psalm and Song at the dedication of the house of David." Or, rather, "A Psalm; a song of dedication for the House. By David." It was a song of faith, since David did not live to witness the dedication of the Temple for which he had planned in his heart and for which he had laid by in store. Though he knew that he would not be permitted by God to build it, he took delight in writing a Psalm which might be sung at the opening of the Temple. Thus it begins—
 
@@ -126,7 +123,6 @@ Verse 1. I will extol You, O LORD; for You have liftedme up, andhave not made my
 12\. To the end that my glory. Or, "my tongue"—
 
 12\. May sing praise to You, and not be silent. God ought to have praise from us. It is the quit-rent which we pay as tenants to the great Lord of All—let us not rob Him of His revenue. 12. O LORD my God, I will give thanks unto You forever.
-
 
 ---
 [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2969 Angelic Protection in Appointed Ways|#2969 →]]

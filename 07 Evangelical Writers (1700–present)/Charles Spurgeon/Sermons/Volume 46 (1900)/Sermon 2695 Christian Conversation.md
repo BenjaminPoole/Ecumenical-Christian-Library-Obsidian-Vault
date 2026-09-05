@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Christian Conversation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2695
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "They shall speak of the Glory of Your Kingdom, and talk of Your power." Psalm 145:11.
 
@@ -103,7 +100,7 @@ A Christian cannot help being discovered. None of you ever knew a secret Believe
 
 III. Lastly, WHAT WOULD BE THE EFFECT OF OUR TALKING MORE OF CHRIST'S KINGDOM AND
 
-POWER?
+## Power?
 
 The first effect would be that the world would believe us more. The world says, "What a parcel of hypocrites Christian people are!" And they are about right concerning a good many of you. The world says, "Why, just look at them! They profess a deal of religion, but if you hear them talk, they do not speak differently from other people. They sing loudly enough, it is true, when they go to church or chapel, but when do you hear them sing at home? They go to the Prayer Meeting, but have they a Prayer Meeting at their own family altar? Believe them to be Christians? No! Their lives give the lie to their doctrines and we do not believe them." If we more often talked of Christ, I am sure the world would think us to be better Christians and they would, no doubt, say so.
 
@@ -121,7 +118,7 @@ Souls are often converted through godly conversation. Simple words frequently do
 
 Say, concerning other conversation, Be gone from here! Be gone! This shall be my constant and only theme. Be like the harp of old Anacreon which would never sound any other note but that of love. The harpist wished to sing of Cadmus and of mighty men of wisdom, but his harp would resound of love alone. Be, then, like Anacreon's harp—sing of Christ alone! Christ alone! Christ alone! Jesus, Jesus only! Make Him the theme of your conversation, for "they shall speak of the Glory of Your Kingdom, and talk of Your power." God give you Grace so to do, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM137.
+## Exposition by C. H. Spurgeon: Psalm 137
 
 Verses 1, 2. By the rivers of Babylon, there we sat down, yes, we wept, when we rememberedZion. We hanged our harps upon the willows in the midst thereof Babylon was full of canals and rivers. The captive Israelites sought out lonely places where they might be away from their oppressors and might, in the company of their countrymen, pour out the sad stream of their griefs and sorrows. "The rivers of Babylon" seemed congenial to them and they mingled their tears with the flowing waters. They "sat down" as if they felt they were to be there a long while and were not soon to go back to their own land. And they "wept"—not simply because of their banishment and their woes, but also because of the mournful condition of their beloved Zion, which had been ravaged by the Chaldeans, plowed as a field and given over to desolation. Some of these poor captives had been singers in the courts of the Lord's House which had been burnt with fire. And others had brought their "harps" with them into their captivity, but they could not find any music in their hearts and, therefore, they fetched no sweet notes out of their harp strings. They did not break their harps, however, for they might need them some day, so they hung them up on the weeping willows which abounded by the water. Then came one of the sharpest trials they had ever had—a piece of bitter cruelty on the part of their oppressors who had no compassion upon the poor prisoners whom they had taken from their own land.
 
@@ -136,7 +133,6 @@ Verses 1, 2. By the rivers of Babylon, there we sat down, yes, we wept, when we 
 8, 9. O daughter of Babylon, who are to be destroyed: happy shall the one who repays you as you have served us. Happy shall be the one who takes and dashes your little ones against the stones. For these people had gone all over the world, wherever they could, murdering and mutilating. Tens of thousands of little children had they brutally killed, multitudes of women had they ravished, a vast number of cities had they destroyed! They were the scourges of all nations and, therefore, moved to righteous indignation, the Jews felt that anybody who should overthrow that city of Babylon and put to death its inhabitants would be doing good service to the rest of mankind. And, mark you, all this came to pass in due time. When Cyrus turned aside the waters of the river which had been Babylon's great protection, and left the riverbed quite dry, he marched his troops right into the center of the city! And when the Babylonians, to defend themselves and a part of the city, were driven to great straits, we are told by historians that they destroyed their own wives and children, calling them useless mouths, that they might be able to defend themselves a little longer from the sword of Cyrus, so that, literally, it came to pass that the man who had destroyed his own children thought himself happy to be rid of them that he might maintain the fight.
 
 How dreadful is God when He deals with nations that have been cruel and ferocious! Go to Babylon this day, and see what ruinous heaps He has made, what desolation He has worked in that land.
-
 
 ---
 [[Sermon 2694 Grace Preferred to Gifts|← #2694]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2696 Wordless Prayers Heard in Heaven|#2696 →]]

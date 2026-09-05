@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # 'Ever This Our War Cry—victory, Victory!'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3279
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong; because He has poured out His soul onto death: and He was numbered with the transgressors: and He bore the sin of many, and made intercession for the transgressors" Isaiah 53:12.
 
@@ -87,7 +84,7 @@ But this is not all. It is added, "and He bore the sin of many." This denotes Hi
 
 And lastly, there is this fourth reason given, "He made intercession for the transgressors. "I can conceive you praying, my dear Friend, and God's not hearing you. But if the Man who was despised and rejected should say, "Rise, poor suppliant, rise, and I will take your place." And if the Blessed and Beloved of the Father whose eyes are as the eyes of the morning, and whose lips are as lilies dropping sweet-smelling myrrh, kneels down and prays, "My Father, by My blood, and wounds, and agony, save this sinner," why, it must be done! And if He says, "Father, give Me those whom I have redeemed," it must be done! And if He pleads, "Father, keep them by Your Word," it must be done! And if He prays, "Father, make them one, as We are," it must be done! And when He shall ask, "Father, give them power and victory," it must be done! And when He shall ask, "Father, let My servants all become champions and send them forth, East, West, North, and South against idolatry, and infidelity, and Popery, and clothe them with the Holy Spirit," why then it must be done! The power of Christ's intercession is irresistible! Queen Mary reckoned the prayers of John Knox to be worth many regiments, but what shall I say of the prayers of Jesus, the Son of God? They are with us today! While we are sitting here, and troubling our minds about the Lord's work, and saying, "What shall we do?"and, "What will come of it?"and all that, Jesus is pleading! Hush till your hearts leave off beating—till not a thought is heard! You may hear Him saying, "Father, I will." Here is the power of the Church! The plea of Christ with authority before the Throne of God is the majestic force upon which the Church depends! "Lo, I am with you always, even unto the end of the world." Therefore pluck up courage. Jesus will yet win. You weak, faint-hearted ones, rejoice! The victory is sure, not because of anything you are, or of anything you can do, but for Jesus' sake! In the name of the Lord we set up our banners. Hallelujah!
 
-EXPOSITION BY C. H. SPURGEON: JOHN 19:14-37.
+## Exposition by C. H. Spurgeon: John 19:14-37
 
 Verse 14. And it was the preparation of the Passover, and about the sixth hour: and he said unto the Jews, Behold
 
@@ -134,7 +131,6 @@ to the slaughter, as Isaiah had long before foretold that He would be.
 32-34. Then came the soldiers and broke the legs of the first, and of the other which was crucified with Him. But when they came to Jesus, and saw that He was dead already, they broke not His legs: but one of the soldiers with a spear pierced His side—To make sure that He would not survive—
 
 34-37. And forthwith came there out blood and water. And he that saw it bares record, and his record is true, and he knows that he says the truth, that you might believe. For these things were done, that the Scripture should be fulfilled, A bone of Him shall not be broken. And again another Scripture says, They shall look on Him whom they pierced. "So His side must be pierced, but His bones must not be broken! See how the hand of God carries out the Word of God—and value every line of Scripture! Our Lord Jesus Christ seemed to go out of His way so as to ensure that every single word in the Old Testament in reference to Himself should be fulfilled, so mind that you do not think little of the
-
 
 ---
 [[Sermon 3278 The Wordless Book|← #3278]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3280 Christ's Prayer and Plea|#3280 →]]

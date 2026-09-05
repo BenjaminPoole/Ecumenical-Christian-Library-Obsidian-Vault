@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Spirit's Office Towards Disciples
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3062
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He shall glorify Me: for He shall receive ofMine, and shall show it unto you." John 16:14.
 
@@ -111,7 +108,7 @@ I am persuaded that the Spirit does not glorify Christ in us so much as He would
 
 But, alas, there are some here who know not my Master at all, who are strangers to His love! There is Christ looking down upon you with tearful eyes and He bids you come to Him. That blood which you have hitherto despised will wash away your every sin. Only cast yourself upon Him. Look up into those languid eyes, for they are full of pity. That streaming blood flows to every soul that trusts in Jesus. Read the mystery of that pierced heart—there is love alone written there. Study the anguish of that poor martyred body, for in every pang you can learn the story of His compassion. And as you see Him bowing His head and hear Him saying, "Father, into Your hands I commend my spirit." He asks you, every one, to commend your spirit to Him. Do it, do it now, God helping you—and Christ will thus be glorified!
 
-EXPOSITION BY C. H. SPURGEON: GALATTIANS 2:15-21; 3.
+## Exposition by C. H. Spurgeon: Galattians 2:15-21; 3
 
 Galatians 2:15-21. We who are Jews by nature, andnot sinners of the Gentiles, knowing that a man is not justified by the works of the Law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the Law: for by the works of the La w shall no flesh be justified. But if while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid! For if I build again the things which I destroyed, I make myself a transgressor For I through the Law am dead to the Law, that I might live unto God. I am crucified with Christ nevertheless I live; yet not I, but Christ lives in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave Himself for me. I do not frustrate the Grace of God: for if righteousness comes by the Law, then Christ is dead in vain. Paul is arguing against the idea of salvation by works, or salvation by ceremonies. And he shows, beyond all question, that salvation is by the Grace of God through faith in Jesus Christ. Mark the strength of the Apostle's argument in the 21st verse—"If righteousness comes by the Law, then Christ is dead in sin." That is to say, there was no need for Christ to die—the Crucifixion was a superfluity if men can save themselves by their own good works. Paul is very emphatic about the matter. He puts it as plainly as possible: "If righteousness comes by the Law, then Christ is dead in vain."
 
@@ -125,7 +122,7 @@ clay? Are you so foolish as to attempt to do this?" [See Sermon #1534, Volume 26
 
 6, 7. Even as Abraham believed God, and it was accounted to him for righteousness. Know you therefore that they which are of faith, the same are the children of Abraham. He was the father of the faithful—that is of the believing—not of those who trust in their own works. These are only like Ishmael, who must be cast out of the chosen family—but the true children, the real Isaacs, are those who are born according to the promise of Grace. [See Sermon #1705, Volume 29—the
 
-HEARING OF FAITH.]
+## Hearing of Faith.]
 
 8\. And the Scripture, foreseeing that God would justify the heathen through faith, preached before the Gospel unto Abraham, saying, In you shall all nations be blessed. That is, "in you, because you are the father of Believers. You are a sort of head and prototype of men who believe in Me and so, 'in you shall all nations be blessed' and in your Seed, too, as you shall be the father of the Christ, shall all nations be blessed."
 
@@ -158,7 +155,6 @@ tO bring us unto Christ. [See Sermon 1196, Volume 20—THE STERN TEACHER.] It wh
 24-28. That we might be justified by faith. But after that faith is come we are no longer under a schoolmaster. For you are all the children of God by faith in Christ Jesus. For as many of you as have been baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus. Yet some foolish people still talk about our Jewish origin! What would that matter even if it were true? "There is neither Jew nor Greek, there is neither bond nor free." All these distinctions are done away with and Christ is All—and Believers, whether Jews or Gentiles—"are all one in Christ Jesus."
 
 29\. And if you are Christ's, then are you Abraham's seed, and heirs according to the promise, So that all the blessings which God promised to Abraham belong to you who are Believers in Christ! And you may take them and rejoice in them! But if you are without faith in Christ, then are you without the one essential thing which gives you an interest in the Covenant of Grace!
-
 
 ---
 [[Sermon 3061 The Rule of Grace|← #3061]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3063 Jotham's Peculiar Honor|#3063 →]]

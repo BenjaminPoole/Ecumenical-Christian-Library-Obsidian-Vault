@@ -8,16 +8,11 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # Communion With Christ And His People
 
 *Till He Come* — Charles H. Spurgeon
 
-## COMMUNION WITH CHRIST AND HIS PEOPLE.
-
 ### AN ADDRESS AT A COMMUNION SERVICE AT MENTONE. “The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ? For we being many are one bread, and one body: for we are all partakers of that one bread.”—1 Cor. x. 16, 17.
-
-## COMMUNION WITH CHRIST AND HIS PEOPLE.
 
 I WILL read you the text as it is given in the Revised Version: “The cup of blessing which we bless, is it not a communion of the blood of Christ?” That is to say,—Is it not one form of expressing the communion of the blood of Christ? “The bread,” or as it is in the margin, “the loaf which we break, is it not a communion of the body of Christ? seeing that we, who are many, are one loaf, one body: for we all partake of the one loaf.” The word “loaf” helps to bring out more clearly the idea of unity intended to be set forth by the apostle.
 
@@ -84,7 +79,6 @@ If you did discern the Lord, then be sure, again, to accept Him. Say to yourself
 Beloved friends, when you have thus received Jesus, fail not to rejoice in Him as having received Him. How many there are who have received Christ, who talk and act as if they never had received Him! It is a poor dinner of which a man says, after he has eaten it, that he feels as if he had not dined; and it is a poor Christ of whom anyone can say, “I have received Him, but I am none the happier, none the more at peace.” If you have received Jesus into your heart, you are saved, you are justified. Do you whisper, “I hope so”? Is that all? Do you not know? The hopings and hoppings of so many are a poor way of going; put both feet down, and say, “I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day.” You are either saved or lost; there is no state between the two. You are either pardoned or condemned; and you have good reason for the highest happiness, or else you have grave causes for the direst anxiety. If you have received the atonement, be as glad as you can be; and if you are still an unbeliever, rest not till Christ is yours.
 
 Oh, the joy of continually entering into fellowship with Christ, in such a way that you never lose His company! Be this yours, beloved, every day, and all the day! May His shadow fall upon you as you rest in the sun, or stray in the gardens! May His voice cheer you as you lie down upon the sea-shore, and listen to the murmuring of the waves; may His presence glorify the mountain solitude as you climb the hills! May Jesus be to you an all-surrounding presence, lighting up the night, perfuming the day, gladdening all places, and sanctifying all pursuits! Our Beloved is not a Friend for Lord’s-days only, but for week-days, too; He is the inseparable Companion of His loving disciples. Those who have had fellowship with His body and His blood at this table may have the Lord as an habitual Guest at their own tables; those who have met their Master in this upper room may expect Him to make their own chamber bright with His royal presence. Let fellowship with Jesus and with the elect brotherhood be henceforth the atmosphere of our life, the joy of our existence. This will give us a heaven below, and prepare us for a heaven above.
-
 
 ---
 [[THC The Believer Not An Orphan|← The Believer Not An Orphan]] · [[Till He Come|Till He Come Contents]] · [[THC The Sin-Bearer|The Sin-Bearer →]]

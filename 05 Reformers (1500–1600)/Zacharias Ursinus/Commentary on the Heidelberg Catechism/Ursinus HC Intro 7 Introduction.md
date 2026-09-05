@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Introduction
 
-ZACHARIAS URSINUS
+*Zacharias Ursinus*
 
 Among the reformers of the second generation, the race of distinguished men, who, though themselves the children of the reformation, were yet in a certain sense joined with the proper original Apostles of that great work, in carrying it out to its final settlement and conclusion, no one can be named who is more worthy of honorable recollection, than the learned and amiable author of the far-famed Heidelberg Catechism. In some respects, indeed, the authorship of this symbol must be referred, we know, to different hands. But in its main plan, and reigning spirit, it is the genial product, plainly, of a single mind, and to the end of time, accordingly, it will be known and revered as a monument, sacred to the memory of Zacharias Ursinus.
 

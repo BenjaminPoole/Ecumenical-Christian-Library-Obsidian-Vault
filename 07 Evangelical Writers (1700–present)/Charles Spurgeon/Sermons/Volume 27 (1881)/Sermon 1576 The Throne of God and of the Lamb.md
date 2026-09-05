@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Throne of God and of the Lamb
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1576
-
-DELIVERED BY.
 
 > "The Throne of God and of the Lamb shall be in it." Revelation 22:3.
 
@@ -152,7 +149,6 @@ I halt. I dare not advance a step farther! I bring you to the margin of this ble
 Till the day breaks and the shadows flee away, let us wait for the Bridegroom's appearing and the bringing home of the bride. As virgins that look forward to the marriage day, let us keep our lamps trimmed and see to it that there is oil in our vessels, lest when the cry is heard, "The Bridegroom comes," any of us should need to nurse the dimly-burning spark or despairingly cry, "Our lamps are gone out!" Let us all be ready that we may go in through the gates into the city. Some of you, alas, are not able to feel the joy which this subject excites in our breasts. You cannot take delight in the Throne of God and of the Lamb. God grant you may.
 
 Come, now, to the Throne of Grace with open confession and secret contrition. It is the Throne of God who knows the nature of your sin! It is the Throne of the Lamb who bore the penalty of sin and can put it away! Come to the Throne of the Lamb that was slain! I entreat you to come now! And so shall you find peace and reconciliation—and you shall be made meet to enter into the joy of your Lord! I pray God to bless this whole congregation, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1575 The Sitting of the Refiner|← #1575]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1577 Sin Subdued|#1577 →]]

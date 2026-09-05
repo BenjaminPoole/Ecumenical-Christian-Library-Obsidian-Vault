@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Voices from the Excellent Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 909
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 9, 1870,.
+*Delivered on Lord's-Day Morning, January 9, 1870*
 
 > "And Jesus, when He was baptized, went up straightway out of the water: and, lo, the heavens were opened unto Him, and He saw the Spirit of God descending like a dove, and lighting upon Him: and lo a voice from Heaven, saying, This is My Beloved Son, in Whom I am well-pleased." Matthew 3:16,17.
 
@@ -158,7 +157,6 @@ Earnestly let me speak to everyone here. God has three times with audible Voice 
 I pray you have respect to every Word and command of Christ. Listen to Him as spirits listen to the voice of the Most High when they bow before the Truth of God. And if He says to you, as He does this morning, "Come unto Me, all you that labor and are heavy laden, and I will give you rest," hear Him and lovingly obey the command. Hear Him, I pray you, with unconditional obedience. God attests Him as being sent from Heaven. Whatever He says to you, do it. And since He bids you believe Him, be not unbelieving. He has told us to say in His name, "He that believes and is baptized, shall be saved." Despise not that double command. Attend, O Sinner, attend, for it is the Son of God who speaks to you! Trust and be baptized, and you shall be saved. There stands the Gospel stamped with the authority of Deity! Obey it now. May the Holy Spirit lead you to do so.
 
 Hear Him, lastly, with joyful confidence. If God has sent Jesus, trust Him. If He bears the Glory of God's Seal upon Him, joyfully receive Him. You who have trusted Him, trust Him better from this day forth. Leave your souls right confidently in the hands of Him of whom Jehovah, thrice speaking out of Heaven, declares that He is the only Savior. Receive Him, Sinner, you that would be saved! May the Lord confirm the Testimony which He spoke out of Heaven, by speaking in your hearts by His Holy Spirit, that you may rejoice in His Beloved Son, and glorify God in Him.
-
 
 ---
 [[Sermon 0908 Assured Security In Christ|← #908]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0910 Overwhelming Obligations|#910 →]]

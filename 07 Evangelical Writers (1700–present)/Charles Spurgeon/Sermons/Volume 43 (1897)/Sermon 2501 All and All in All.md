@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # All and All in All
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2501
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Christ is all, and in all." Colossians 3:11.
 
@@ -116,7 +113,6 @@ I see no abdication of a throne here. I see not even a change of dispensation an
 "Hallelujah!—hark! the sound, From the center to the skies, Wakes above, beneath, around, All creation's harmonies! See Jehovah's banner furled, Sheathed His sword! He speaks— 'tis done! And the kingdoms of this world Are the kingdoms ofHis Son. He shall reign from pole to pole, With illimitable sway. He shall reign when, like a scroll, Yonder heavens have passed away! Then the end—beneath His rod, Man's last enemy shall fall! Hallelujah! Christ in God, God in Christ is All in AH."
 
 Now let us begin at the beginning. This is very simple—"Christ is all."Then may the Spirit of God help us to go on to the next rung of the ladder—"Christ is in all His people." There is the difficulty! Is He in you, Beloved? Have you received Him by faith? Then comes the third step—this may be, at present, full of mystery, but we shall see it in brighter light, by-and-by—God shall be all in all. So shall He be to us even now! Amen and Amen.
-
 
 ---
 [[Sermon 2500 Number 2500—or, Entrance and Exclusion|← #2500]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2502 Grace and Glory|#2502 →]]

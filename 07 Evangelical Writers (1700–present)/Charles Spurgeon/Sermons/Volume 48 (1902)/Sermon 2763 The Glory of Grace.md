@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # The Glory of Grace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2763
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The glory of His Grace." Ephesians 1:6.
 
@@ -93,7 +90,7 @@ God that I were at rest!" Your rest may be nearer than you think it is—we are,
 
 Let us just speed up the day by an hour or two. Ah, I shall soon be dying. Time quickly fades away. Speed on, O Time! Roll on your wheels and every year fly on apace! The shorter the road, the sooner I shall be with Him! The nearer I am to Jordan, the nearer am I to Canaan! Farewell, manna of the wilderness! Farewell, fiery serpents and Amalekites! My soul shall soon cross the Jordan! I shall see the face of Him whom, though I have not yet seen, I do unceasingly adore—in whom I have a Heaven on earth and with whom I shall have an everlasting blessedness in that day when He calls me Home to Himself!
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS4.
+## Exposition by C. H. Spurgeon: Ephesians 4
 
 Verse 1. I, therefore, the prisoner of the Lord, beseech you that you walk worthy of the vocation wherewith you are called. "You are called to be sons of God, you are called to be one with Christ, you are called to be kings and priests unto God—this is the highest possible vocation that anyone can have, so walk worthy of it!" O Beloved, if we walk worthy of this vocation, what holy and noble lives we shall lead! The Apostle so much desired godliness and holiness to be the characteristics of those to whom he wrote that he used a very strong term of entreaty—"I beseech you that you walk worthy of the vocation wherewith you are called."
 
@@ -140,7 +137,6 @@ I have heard some professors say of a sermon that they could not feed under it�
 29-31. That which is good to the use of edifying, that it may minister Grace unto the hearers. And grieve not the Holy Spirit of God, whereby you are sealed unto the day of redemption. Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be put away from you, with all malice. Especially take heed of that "evil speaking" against which the Apostle warns you, for there are many people who cannot live without speaking—they must talk a great deal and they often say that which is false—they invent evil, they twist an honest action and impute wrong motives to the doer of it! A few such persons in a community can cause much of heartache and distress. They little know what servants of Satan they may become. God help us to put away all evil speaking and all malice!
 
 32\. And be you kind, one to another, tenderhearted, forgiving one another, even as God, for Christ's sake, has forgiven you. That is, very freely, very often, very abundantly, very thoroughly, very heartily—"even as God, for Christ's sake, has forgiven you," so also do you.
-
 
 ---
 [[Sermon 2762 Taking Hold of God's Covenant|← #2762]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2764 The Cloud of Doves|#2764 →]]

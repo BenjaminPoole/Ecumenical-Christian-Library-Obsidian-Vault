@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 14. The Practice of Prelates, Part 2
 
-282 THE PRACTICE OF PRELATES.
+*282 the Practice of Prelates*
 
 Then he goeth forth unto that which followeth : " Unto thee I will give the keys of the kingdom of heaven, and Binding and whatsoovor thou bindcst in earth, it shall be bound in heait"u to^te"" ven," &c. Lo, saith he, in that he saith, whatsoever thou bindest in earth, he excepteth nothing ; therefore, I may make laws, and bind both king and emperor^:' when Christ, as he had no worldly kingdom, even so he spake of no worldly Tjiekeys. binding, but of binding of sinners. Christ gave his disciples the key of the knowledge of the law of God, to bind all sinners; and the key of the promises, to loose all that repent, and to let them into the mercy that is laid up for us in Christ.
 
@@ -39,8 +38,6 @@ Then he cometh unto another text, (Heb. vii.) which is, iHd^eth he *' The pricst
 
 Heb. vii. Of this manner
 
-THE POPE CORRUPTETH SCRIPTURE. 283
-
 AtdM ChititrBw but proveth evidently that the ceremonies of Moses must f* cease : for the priests of the old Testament must needs have been of the tribe of Levi, as Aaron was, whose duty for ever ^SmSom* was the offering of sacrifices ; wherefore, when that priesthood SSt oiM ceased, the sacrifices and ceremonies ceased also. Now that fJTS?'"" priesthood ceased in Christ, which was a priest of the order of Melchizedec, and not of the order of Aaron ; for then he must have been of the tribe of Levi, and that he was not, but of the tribe of Judah, and of the seed of David : wherefore they that are under Christ's priesthood are under no sacrifices or ceremonies. And of this manner juggle they with all the scriptui'e: which falsehood lest the laymen should perceive with reading the process of the text, is all their fear, whatsoever they pretend.
 
 Moreover, that thou mayest perceive the pope's falsehood, chrtatgve mark, Christ said unto Peter, " I will give," and not " I give ; " "^"Jf neither said he, 'I will give unto thee only.' Therefore, look in the twentieth chapter of John, where he gave them the John . keys after his resurrection, and thou shalt see he gave them unto all indifferently, saying, " As my Father sent me, so send I you." Whither sent he them ? Unto all the world, and unto all nations. What to do ? To preach the law, that the people might repent; and the promises, that they might believe in Christ for the remission of sins ; saying, " Keceive the Holy Ghost: whosoever's sin ye forgive, they shall be forgiven." By which Holy Ghost he gave them understanding of the scripture, and of all that they should preach : as thou mayest see, Luke last, where he opened their wits to ^^^ understand the scripture, and said, " That repentance and forgiveness of sins must be preached in his name to all nations," and that they were witnesses to preach it. WhereJ^*^ by thou seest, that to bind and to loose is but to preach and J^^- tell the people their faults, and to preach mercy in Christ to all that repent.
@@ -49,7 +46,7 @@ And when he saith, "All power is given me," he saith not, ^j'^,' Go thou, Peter,
 
 And (Matt, xviii.) Peter asked Christ, how oft he should ^ ^-
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 We are bound to forgive our neighbours as well 33 Peter was.
 
@@ -73,8 +70,6 @@ And so may the son do to his father, and a servant to his master, and every man 
 
 [1 Marb. brether; S. S. ed. brother; Day, brethren.] [2 So Marb. and S. S. ed. In day, yet is wanting.]
 
-THE POPE CORRUPTETH SCRIPTURE. 285
-
 Finally, there were many that preached Christ at Rome, R-wuthrt yer^ Peter came thither, if he came ever thither ; as Paul, 2^^utt* and many other. Had they not authority to bind and loose ? J'^*^*'''"'*'' Or else how did they convert the people ? Peter also was an ^- '' apostle, and went from place to place as Paul did ; and as Paul ordained bishops in every place to teach the people, so no doubt did Peter. Why then might not those bishops challenge authority by Peter, as well as they of Rome? They say also Vrtrrhma in their own legends, that Peter had his seat at Antioch first "*. AnttolS? Did he run to Rome, leaving no man behind him to teach the people at Antioch ? God forbid. Why then might not that bishop challenge Peter's authority? They will haply say, sooner than prove it, that Peter died at Rome, and therefore his authority is greatest there. Then by that rule Christ's power is no where so full as at Jerusalem. But what hath Christ's invisible kingdom to do with places ? Where Christ's chrif gospel is, there is his power full and all his authority, as well thT^tpA in one place as in another.
 
 Finally, to get authority whencesoever they can snatch it, p^u, ^ caiuA they join Paul with Peter in their own laws, Distinctio xxii. w!*!!^ saying, "By the authority of Peter and Paul :"* which is clean against themselves. For they say in their own law, In theimhepre. presence of the superior the power of the inferior ceaseth, and ^^e^,l^ is none at all^ Now if Peter be greater than Paul, then, by {he'e^r doth ocMC.
@@ -85,7 +80,7 @@ Finally, to get authority whencesoever they can snatch it, p^u, ^ caiuA they joi
 
 [6 Distinctio xxi. cap. 4. Inferior sedes. Sole clarius exhibuimus, non posse quenciuam, qui minoris auctoritatis est, eum qui majoris
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 that rule, where Peter is present, there Paul is but a subject, and without authority. And where Christ is present bodilj and preacheth himself, there the apostles give up their authority, and hold their peace, and sit down at his feet, and become scholars and hearken too. Wherefore, in that they join Paul with Peter, and challenge their superiority as well ^u"aifeik)^^ by the authority of Paul as of Peter, there they make Paul with Peter, fellow and equal with Peter. And thus it is false that Peter was greater than his fellows. But the bhnd owls care not what they howl, seeing it is night, and the day-light of God's word shut up, that no man can spy them.
 
@@ -103,7 +98,7 @@ Peter's seat is Christ's gospet
 
 The pope sitteth in the devil's seat, whose vicar he is.
 
-THE POPK CORRUPTETH SCRIPTURE. 287
+## The Popk Corrupteth Scripture. 287
 
 Then he clamb to purgatory with the ladder of the said text, " Whatsoever thou bindest in earth," &c. " Purgatory," p,po,y. saith he, "is in earth ^r wherefore I am lord there too/'thrpop. Nevertheless, as he can prove no purgatory, so can he notpiySlt prove that, if there were any, it should be in the earth. *" It might well be in the element or sphere of fire under the moon, as well as in the earth. But to bind and loose is, as I have above said, to preach, and to feed, and with Christ''s doctrine to purge souls. And they that be dead be not of the flock which Christ bade Peter feed, but they that live only.
 
@@ -117,7 +112,7 @@ Thinkest thou that men were ever so mad to make the fashions that are now among 
 
 [2 Marb. and Day selerar. S. and S. ed. adlerar. The monk who had charge of the provisions.]
 
-288 THE PRACTICE OF PRELATES.
+## 288 the Practice of Prelates
 
 officers so much for their parts as they have yearly ; and to The {Treat exompt the abbot from his brethren, and to send him out of and shameful i \ , , , , /! ^ - abuseof the abboy mto such parks and places of pleasure, and give him a thousand, fifteen hundred, two thousand, or three thousand pounds yearly, to sport himself withal ? K^ay, but when through hypocrisy they had gotten land enough, then
 
@@ -133,7 +128,7 @@ used by the of an abbey a cathedral church, and out of the abbeys plucked he the
 
 [2 la the county of Gloucester alone there were six abbeys, whose abbots had obtained the pope's hcence to wear mitres after the manner of bishops. Anderson's Annals, B. i. ^ 1.]
 
-HOW COUNCILS ARB PROVED. 289
+## How Councils Arb Proved. 289
 
 How they prove all their general Councils.
 
@@ -143,7 +138,7 @@ When the bishops and abbots and other groat prelates had forsaken Christ and his
 
 [tyndale, II.J
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 This doctrine the papists used in those days.
 
@@ -159,7 +154,7 @@ And the promises and testament, which the sacrament of Christ's body and blood d
 
 [1 The colophon to the work, which will provide us with evidence for what Tyndale has here affirmed, is as follows: Incipit Divi Thonue Aquinatis opus vigesimum; de regimine principum. And the tenth chapter of its third book is headed, Hie sanctus doctor declarat de dominio hominis secundum gradum et dignitatem: et primo do dominio Papae qualiter prsefertur omni dominio. In this chapter Aquinas presently introduces Matt. xvi. 18, 19; and says of that text, Ubi quatuor ponuntur clausulse, omnes significati^-ce dominii Petri suonimque successorum super omnes fideles ; et propter quas merito summus pontifex Romanus Christus dici potest, rex, et saoerdos. Si enim, etc. Th. Aquin. Opusc. f. 231. Lugd. 1562.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 Thomas of Canterbury.
 
@@ -189,7 +184,7 @@ intmtu meritorum personsc; confidens quod sibi ad placitum et nutum ut cancellar
 
 [8 A state of dependence.] [* Domesticated.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 An example of practice out of our own ckronicles.
 
@@ -231,7 +226,7 @@ And again, in king Richard the second's days, Thomas Thoma. Arundel, archbishop 
 
 [5 See n. 4, p. 339 Vol. i.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 Practice of prelates.
 
@@ -257,7 +252,7 @@ But at the last they found means to contrive a drift to bring their matters to p
 
 [4 Tyndale calls Sir Thomas More The proctor of purgatory, in allusion to his controversial treatise entitled 'The supplication of souIb/ M'hich More composed in the form of an address * To all good christen
 
-298 THE PRACTICE OF PRELATES.
+## 298 the Practice of Prelates
 
 The cierpry more abhopred amongst them than necromancy or witchcraft ;
 
@@ -287,7 +282,7 @@ The pope therefore, to be sure of himself, and out of the fear and danger of the
 
 If the Venetians catch any of our holy father's towns or possessions, whether by war, or that they have bought it, or vcMtiMM. that it be laid to mortgage unto them, or that the old pope hath given it with the marriage of some daughter unto the jh. pop. duke of Venice ; then the holy father that succeedeth, whenSK5|F3n he seeth his season, sendeth for it again, saying, 'That it is Hid ' not lawful for laymen to withhold St Peter's patrimony.' If they allege that they bought it, and so forth, his fatherhood answereth, * That the old pope had none authority to make any such chevisance with St Peter's inheritance: he could have but the use of it his life long, and after it must needs return unto his successor again.' And upon that he interdiot* [1 Soe n. 3 to p. 328 of Vol. I.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 The Venetians care not for the pope's cursing nor blessing.
 
@@ -323,7 +318,7 @@ When our king hath granted to take our holy father's part, then the pretence and
 
 [* Loaves; though spelt in the oldest editions lores. The thin loaves, or wafers of meal, intended to be used at mass were called singing loaves, because a psalm was to be sung whilst they were in making].
 
-302 THE PRACTICE OF PRELATES.
+## 302 the Practice of Prelates
 
 When the pope hath what he desireth in Italy, then must we make peace with the Frenchmen again immediately, that France be not altogether trodden under the foot ; but that it remain alway in a mean state, strong enough to match the emperor and to keep him down, but not too mighty for oppressing the pope. And then our prelates, to bring the peace about, send immediately a friar Forest, or a vicar of
 
@@ -391,7 +386,7 @@ And did not the subtle counsel of the said two prelates a mbue feign the siege o
 
 [tyndale, ii]
 
-306 THE PRACTICE OF PRELATES.
+## 306 the Practice of Prelates
 
 which knew not of that feigning'. The king's grace went over with a ten thousand men to conquer all France, and spent haply an hundred thousand pound, of which he saved the fourth part in the dandy prats 2, and gathered at home five or six hundred, or more. And two other such feigned voyages could I haply rehearse, which I pass over for divers causes, where many an Englishman lost his life. But what care they for men's lives? Hemeatieth ^^(j (ji(j jjot our Cardinal with like policy, think ye, (to woisey. gather that which he thought would not well be paid, except the commons saw some cause,) bring a great multitude of Scots unto the EngHsh pale, either by some bishops of Scotland, or by some great man whom he corrupted with some yearly pension ? against which the poor northern men must go on their own cost, to keep them out. And general procession was commanded at London thrice in the week, and throughout all the land, while the king's receivers gathered the tax of the common people. Which plague, and such like, after the Lev. xxvi. threatening of God, Lev. xxvi. and Deut. xxviii. and xxix., I am
 
@@ -421,7 +416,7 @@ When the king's grace came first to the right of the ThomM crown, and unto the g
 
 [0 His attached dependent and biographer George Cavendish has
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 The king's birth calked by the cardinaL
 
@@ -453,7 +448,7 @@ He promoted the bishop of Lincoln that now is', his most Jt2*2 faithful friend a
 
 [3 John Longland, principal of Magdalen Hall, Oxford, wu made bishop of Lincobi in 1621, and so continued till 1647. Ho was a fleroe persecutor of the protestants.]
 
-310 THE PRACTICE OF PRELATES.
+## 310 the Practice of Prelates
 
 serve his honour, so ought the pope's creatures to obey the pope and serve his majesty. Cardinal Finally, Thomas Wolfsee became what he would, even aitog^Jier. portcr of hcavcn, so that no man could enter into promotion but through him.
 
@@ -491,7 +486,7 @@ Then came our king with all his might, by sea and by land, and the emperor with 
 
 [9 In the "Articuli bullae concessse regi ot proftciscentibus cum eo ad bellum contra Ludovicum Fi-ancorura regem," 1612, the second clause is as follows : Item qui in castris aut locis dictorum oxercituum aliquod opus ad expeditionem hujusmodi necessarium vel opportunum feccritit, aut victualia vel alia necessaria pro opere expeditionis hujusmodi commorantium per se vel alium detulerint, simili modo plenissimam remissionem consequantur: where the words 'simili modo' must bo understood to imply the same thing as was expressed in the wordt "omnium peccatorum suorum de quibus corde contriti ot ore confessi fuerint," in the first clause. See Rymer, VoL xiu. p. 343.]
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 How king Henry VIII. with all his again. And thus was peace concluded, and our Englishmen, or rather sheep, came home against winter, and left their fleeces behind them. Wherefore no small number of them, while they, sought them better raiment at home, were hanged for their labour.
 
@@ -531,7 +526,7 @@ Then he made a journey of gentlemen, arrayed altogether in silk, so much as thei
 
 [3 Louis XII. married the princess Mary Oct. 9, 1614, being then very nearly three times her age.] [4 S. and S. ed. has yet] [6 Francis I. succeeded Louis XII. in 1515.] [ The kings of France and England met near Ardros, in the second
 
-THE PRACTICE OF PRELATES.
+## The Practice of Prelates
 
 The pomp and apparei of the cardinal and his chaplains passed the twelve apostles.
 
@@ -555,7 +550,7 @@ After that the emperor would into Spain, and came through The emperor England ; 
 
 [3 Wolsey had secretly pledged his soTcroign to invade Franco, with permission to pretend to be the faithful ally of its king for eighteen months more. But there was another secret article, by which the emperor and he pledged themselves to coerce and prosecute all and every one in their dominions, who should seem to entertain wrong oplnionB concerning the catholic faith, or endeavour to disturb the catholic faith or the apostolic see. The articles of this convention are dated Bruges, Aug. 26, 1521, and are quoted by Sharon Turner, B. i. ch. x., from the document in the Brit. Mus. Galba, B. 7. p. 104.] [4 Before the end of November, 1521.]
 
-316 THE PRACTICE OF PRELATES.
+## 316 the Practice of Prelates
 
 Nurturmgof entangled with whores (which is their nurturing of kings), and made so effeminate and beastly, that he should never have been able to lift up his heart to any goodness or virtue ; that cardinals and bishops might have administered his dominions in the mean time, unto our holy father's profit ^
 
@@ -589,7 +584,7 @@ Finally, unto the siege of Pavie came the French king p^^ personally with sixty 
 
 [6 Wolsey afterwards persecuted Pace till he became a beggar and a lunatic. S. Turner, B. i. c. xii. Vol. i. p. 356. But Mr. Turner attributes this persecution to a bold remonstrance against Wolsey's conduct, in a letter to the cardinal himself, penned by Pace in 1624.]
 
-318 THE PRACTICE OF PRELATES.
+## 318 the Practice of Prelates
 
 But, howsoever it was, the emperor's men, in tarrying for Bourbon. help, had spent out all their victuals. Whereupon Bourbon, the chief captain of the emperor, said unto his under captains : Ye see help cometh not, and that our victuals are spent ; wherefore there is no remedy but to fight, though we be unequally matched. If we win, we shall find meat enough; if we lose, we shall lose no more than we must lose with hunger, though we fight not.* And so they concluded to set upon the Frenchmen by night. The king of France and his lords, supposing that the moon would sooner have fallen out of the sky than that the emperor''s host durst have fought with them, were somewhat negligent, and went the same night a mumThe emperor ming that Bourbou set upon them. The emperor's host setteth upon ...
 
@@ -609,7 +604,7 @@ Tn^ ^elt and the pope, the Venetians, France, and England, were knit made^in tog
 
 [2 The peace was signed in England, Aug. 30, 1625. Id. p. 457.] [3 The documents which afford evidence of Wolseys personal hostility to the emperor at this time, and of that sovereign's knowledge of his abusive language, are cited by Sh. Turner, B. i. ch. xv. Vol. i. pp. 44965.]
 
-CHARLES V. AND FRANCIS I. 319
+## Charles V. And Francis I. 319
 
 Deum. And from that time hitherto the emperor and cor cardinal have been twain.
 
@@ -627,7 +622,7 @@ But when there was found no other way, he inspired the king that the queen was n
 
 [ All that follows, of this treatise, except the last three paragnphi, is omitted in S. and S. edition; and the largest part of it is also omitted by Day.]
 
-320 THE PRACTICE OF PRELATES.
+## 320 the Practice of Prelates
 
 his confessor, as the saying was^; by whom he hath breathed many things into his grace, and by whom he hath heard his confession, and by whom, and like hypocrites, he hath long betrayed him to have married him unto the king's sister of France, as the fame went, by that means at the last to make us French. And then the cardinal's doctors laid their heads together to seek subtle arguments and riddles to prove his divorcement. But all the chancellors of England (say men) which be all lawyers, and other doctors, mumpsimuses^ of divinity, were called up suddenly to dispute the matter (under a colour to condemn Bilney and Arthur, heard I say), which is their old cast and subtilty, to pretend a contrary thing, and to cast a mist before the eyes of the people, to hide their juggling ; that no man should once surmise whereabout they went. And the cardinal's secretaries ministered reasons unto them. And so the matter was discussed with a plain conclusion that he must be divorced. When the queen was warned, she desired learned counsel to defend her quarrel, that she should have no wrong ; and it was granted her : and she chose. But, alas ! what choice is there among the fox's whelps ? All that be shaven be sworn together ; and all that be promoted by them must play the Judases with them. They may, to blind the world withal, dispute one against another; but the conclusion shall be the pope's profit, prelates' pleasure, and the lusts of princes, which are their defenders. Finally it is concluded that the queen is not his wife; and the cause why they be not divorced, is perad venture that our prelates are afraid. If they could have brought any
 

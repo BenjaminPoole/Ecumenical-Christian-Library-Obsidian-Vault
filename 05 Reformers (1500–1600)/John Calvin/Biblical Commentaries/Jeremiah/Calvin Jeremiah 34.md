@@ -10,12 +10,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 34
 
 ## Lecture One Hundred And Thirty Sixth
 
-**CHAPTER 34**
+## **Chapter 34**
 
 ## Jeremiah 34:1-2
 
@@ -75,7 +74,7 @@ And yet there is no doubt but that men, in this respect, exceed moderation. It h
 
 ## Prayer Lecture 136
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as it is ever expedient for us to be often chastised by thine hand, — O grant, that we may learn to bear thy scourges patiently, and with quiet minds, and so acknowledge our sins, that we may not at the same time doubt but that thou wilt be merciful to us, and that we may with this confidence ever flee to seek pardon, and that it may avail also to increase our repentance, so that we may strive more and more to put off all the vices of the flesh, and to put on the new man, so that thine image may be renewed in us, until we shall at length come to partake of that eternal glory, which thou hast prepared in heaven for us, through Christ thy Son. — Amen.
 
@@ -148,7 +147,7 @@ He says that they *made a covenant in the house on which his name* had been *cal
 
 ## Prayer Lecture 137
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we have been redeemed by thine only-begotten Son, not only from temporal servitude, but also from the miserable tyranny of the devil and death, — O grant, that we may acknowledge thee as our Deliverer, and so wholly devote ourselves to thee, that we may also labor to serve one another, and by mutual acts of kindness so cherish among ourselves brotherly love, that it may appear that thou indeed rulest among us, and that we are subject to thee through the same thy Son. — Amen.
 
@@ -240,7 +239,7 @@ And for the same purpose are these words, *Behold, I,* הנני*, enni,* etc. Go
 
 ## Prayer Lecture 138
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not continually to provoke thy wrath against us, — O grant, that we, being terrified by thy warnings, may obey thy wise counsels, and that thus by anticipating thy vengeance, which would otherwise remain on us, we may labor to be so reconciled to thee, that we may really find thee to be our Father and the guardian of our salvation, until we shall at length, having finished our course here, come to that blessed rest, which thou hast prepared for us in heaven, through Christ our Lord. — Amen.
 

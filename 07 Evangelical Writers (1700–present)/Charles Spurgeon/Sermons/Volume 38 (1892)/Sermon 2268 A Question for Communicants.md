@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # A Question for Communicants
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2268
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What do you mean by this service?" Exodus 12:26.
 
@@ -204,7 +201,6 @@ By one blest chain of loving rite Until He comes!"
 33\. Therefore, my brethren, when you come together to eat, wait for one another. How gently Paul talks to these Corinthians! They deserve to be scolded, but he is very tender with them. He says, "If you must come together in this way, at least have the good manners to wait for one another. And if you do come to the communion of the Lord, treat it with that respect and reverence which it deserves.
 
 34\. And if any man hunger, let him eat at home; that you come not together unto condemnation. And the rest will I set in order when I come. May we, tonight, keep this feast in due order under the power of the Holy Spirit! And may we find a blessing in it to God's praise! Amen.
-
 
 ---
 [[Sermon 2267 Life From the Dead|← #2267]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2269 Impotence and Omnipotence|#2269 →]]

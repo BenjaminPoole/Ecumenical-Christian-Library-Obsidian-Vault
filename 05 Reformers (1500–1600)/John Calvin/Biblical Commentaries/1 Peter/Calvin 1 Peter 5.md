@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Peter 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 1 Peter 5:1-4
 
@@ -146,7 +145,7 @@ In saying that the Church there was a partaker of the same election, his object 
 
 Of the *kiss of love* we have spoken elsewhere. Now he bids this to be the kiss of love, [^6] so that the sincerity of the heart might correspond with the external act.
 
-**END OF THE FIRST EPISTLE OF PETER**
+## **End of the First Epistle of Peter**
 
 ---
 [[Calvin 1 Peter 4|← 1 Peter 4]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/1 Peter/1-peter-index|Contents]]

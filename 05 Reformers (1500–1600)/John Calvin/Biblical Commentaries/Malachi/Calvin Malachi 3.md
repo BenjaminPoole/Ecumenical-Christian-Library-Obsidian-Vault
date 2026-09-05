@@ -10,10 +10,9 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Malachi 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Malachi 3:1
 
@@ -258,8 +257,6 @@ However this may be, they boasted that they kept the law, as we find in this pas
 Let us then remember, that the Jews were guilty of two errors; first, they presented to God an empty appearance for true humility, for they were no doubt swollen with false confidence though they pretended to be abject and low before God; secondly, they claimed for themselves more than what was just, for though there may have been some apparent modesty and submissiveness in them, yet they exceeded due limits; for we always swell with presumption, at least we are never thoroughly freed from it. They then falsely pretended, that they walked lowly and dejectedly before God. It follows —
 
 ## Malachi 3:15
-
-**15.** And now we call the proud happy; yea, they that work wickedness are set up; yea, *they that* tempt God are even delivered.
 
 This verse is connected with the last, for the force of these words, “We have walked sorrowfully before God and have carefully kept his precepts,” does not fully appear, except this clause be added — that they saw in the meantime that the proud flourished and had their delights, as though they said, “We strive to deserve well of God by our services; he overlooks all our religious acts, and pours as it were all his bounty on our enemies, who are yet ungodly and profane.” We now see how these verses are connected together, for God disappointed the Jews of the reward they thought due to them, and in the meantime bestowed on the impious and undeserving his kindness.
 

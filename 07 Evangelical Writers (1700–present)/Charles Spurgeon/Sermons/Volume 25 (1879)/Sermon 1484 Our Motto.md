@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Our Motto
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1484
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 20, 1879,.
+*Delivered on Lord's-Day Morning, July 20, 1879*
 
 > "With goodwill doing service, as to the Lord, and not to men." Ephesians 6:7.
 
@@ -134,7 +133,6 @@ No hand, I think, counts it hard to be serving his own head. Surely, it can be n
 And so shall it be from now on and forever! As to those that know nothing of this, seeing they know not Christ, may the Lord bring them to believe in Jesus Christ this day, that they may, through His Grace, become His servants. Amen and amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Luke 6. HYMNS FROM "OUR OWN HYMN BOOK"—145, 660, 661.
-
 
 ---
 [[Sermon 1483 The Present Crisis|← #1483]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1485 The Withered Hand|#1485 →]]

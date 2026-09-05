@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # Not Bound Yet
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1998
@@ -135,7 +134,7 @@ Do not try to war against the Gospel! Choose some other adversary than the Lord 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—2 Timothy 2. HYMNS FROM "OUR OWN HYMN BOOK"—184, 766, 478.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 BELOVED FRIENDS—I would not have written this week, only you desire it. I have suffered much from neuralgic pain, for the weather was wet and windy. Today a summer's sun is shining and we hope for better things.
 
@@ -150,7 +149,6 @@ In confidence in the unchanging God, let us forever abide.
 Yours in the Gospel of Jesus Christ,
 
 Mentone, December 9th, 1887.
-
 
 ---
 [[Sermon 1997 God's Longsuffering An Appeal to the Conscience|← #1997]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1999 Small Rain for Tender Herbs|#1999 →]]

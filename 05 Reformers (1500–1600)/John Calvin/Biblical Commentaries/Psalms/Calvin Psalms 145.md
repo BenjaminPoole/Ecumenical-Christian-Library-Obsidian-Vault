@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 145
-
-**PSALM 145**
 
 The Psalmist is led to celebrate the praises of God by reflecting upon his excellent wisdom, goodness, and righteousness, both in the government of the world generally, and particularly in managing, superintending, and defending the children of men. After recounting in general the praises of his providence, he comes to speak of the special favor shown by him to his own people.
 

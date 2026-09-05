@@ -9,12 +9,9 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # The excellencies of the Saints' Rest
 
 ## CHAPTER III.
-
-**THE EXCELLENCIES OF THE SAINTS’ REST.**
 
 *1. It is the purchased possession; 2. A free gift; 3. Peculiar to saints; 4. An association with saints and angels; 5. It derives its joys immediately from God himself; 6. It will be seasonable; 7. Suitable; 8. Perfect, without sin and suffering; 9. And everlasting.*
 
@@ -65,7 +62,6 @@ Once more, we shall rest from all these troublesome *afflictions* which necessar
 9\. The last jewel of our crown is, that it will be an *everlasting rest.* Without this all were comparatively nothing. The very thought of leaving it would embitter all our joys. It would be a hell in heaven, to think of once losing heaven; as it would be a kind of heaven to the damned, had they but hope of once escaping. Mortality is the disgrace of all sublunary delights. How it spoils our pleasure to see it dying in our hands! But, O blessed eternity! where our lives are perplexed with no such thoughts, nor our joys interrupted with any such fears! where “we shall be pillars in the temple of God, and go no more out.” While we were servants, we held by lease, and that but for the term of a transitory life; “but the son abideth in the house for ever.” “O my soul, let go thy dreams of present pleasure, and loose thy hold of earth and flesh. Study frequently, study thoroughly this one word—eternity. What! live and never die! rejoice, and ever rejoice!” O happy souls in hell, should you but escape after millions of ages! O miserable saints in heaven, should you be dispossessed after the age of a million of worlds! This word, *everlasting,* contains the perfection of their torment and our glory. O that the sinner would study this word; methinks it would startle him out of his dead sleep! O that the gracious soul would study it; methinks it would revive him in his deepest agony! “And must I, Lord, thus live for ever. Then will I also love for ever. Must my joys be immortal; and shall not my thanks be also immortal? Surely, if I shall never lose my glory, I will never cease thy praises. If thou wilt both perfect and perpetuate me and my glory, as I shall be thine, and not my own, so shall my glory be thy glory. And as thy glory was thy ultimate end in my glory, so shall it also be my end, when thou hast crowned me with that glory which hath no end. ‘Unto the King eternal, immortal, invisible, the only wise God, be honor and glory, for ever and ever.’“
 
 Thus I have endeavored to show you a glimpse of approaching glory. But how short are my expressions of its excellency! Reader, if thou be an humble, sincere believer, and waitest with longing and laboring for this rest, thou wilt shortly see and feel the truth of all this. Thou wilt then have so high an impression of this blessed state as will make thee pity the ignorance and distance of mortals, and will tell thee all that is here said falls short of the whole truth a thousandfold. In the mean time, let this much kindle thy desires, and quicken thy endeavors. Up and be doing; run, and strive, and fight, and hold on: for thou hast a certain glorious prize before thee. God will not mock thee; do not mock thyself, nor betray thy soul by delaying, and all is thine own. What kind of men, dost thou think, would Christians be in their lives and duties, if they had still this glory fresh in their thoughts? what frame would their spirits be in, if their thoughts of heaven were lively and believing? Would their hearts be so heavy; their countenances so sad? or would they have need to take up their comforts from below? Would they be so loth to suffer; so afraid to die? or would they not think every day a year till they enjoy it? May the Lord heal our carnal hearts, lest we “enter not into this rest because of unbelief.”
-
 
 ---
 [[SER 04 The great preparatives for the Saints' Rest|← The great preparatives for the Saints' Rest]] · [[The Saints' Everlasting Rest|Contents]] · [[SER 06 The character of the persons for whom this Rest is designed|The character of the persons for whom this Rest is designed →]]

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 120. Why hath Christ commanded us to address God thus, "OUR FATHER?"
-
-**Question 120. Why hath Christ commanded us to address God thus, "OUR FATHER?"**
 
 Answer. That immediately, in the very beginning of our prayer, he might excite in us a childlike reverence for, and confidence in God, which are the foundation of our prayer; namely, that God is become our father in Christ, and will much lesa deny us what we ask of him in true faith, than our parents refuse us earthly things.
 
-**EXPOSITION**
+## **Exposition**
 
 The Lord's Prayer consists of three parts; a preface—petitions, and a conclusion.
 

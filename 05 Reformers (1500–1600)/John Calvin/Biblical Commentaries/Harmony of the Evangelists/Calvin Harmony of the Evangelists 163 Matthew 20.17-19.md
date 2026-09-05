@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 163. Matthew 20:17-19; Mark 10:32-34; Luke 18:31-34
-
-Matthew 20:17-19; Mark 10:32-34;  
-Luke 18:31-34
 
 **17**. And Jesus, going up to Jerusalem, took the twelve disciples apart in the way, and said to them, **18**. Lo, we go up to Jerusalem; and the Son of man will be delivered to the chief priests and scribes; and they will condemn him to death. **19**. And they will deliver him to the Gentiles to mock, and to scourge, and to crucify him; [^1] and on the third day he will rise again.
 

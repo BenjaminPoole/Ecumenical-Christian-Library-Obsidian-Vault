@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Ho! Ho!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3299
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Ho, everyone who thirsts, come to the waters." Isaiah 55:1.
 
@@ -111,7 +108,7 @@ The provisions of Grace must be free to thirsty ones, why else were they provide
 
 Come, then, fellow Sinners, come! May the eternal Spirit draw you now! Even now, "come you to the waters." Though you have no money and no price and no goodness, come and rest in Jesus and find everlasting life! Ho, everyone that thirsts, come you to the waters." That is my message. There is your welcome. Come! Do come! So my errand will speed. So your souls will be blessed. So God's name will be glorified! Amen.
 
-ISAIAH55.
+## Isaiah 55
 
 Verse 1. Ho, everyone that thirsts, come you to the waters, and he that has no money; come you, buy, and eat; yes, come, buy wine and milk without money and without price. [See Sermons #1161, Volume 20—without money and without price and
 
@@ -166,7 +163,6 @@ sign that shall not be cut off [See Sermons #833, Volume 14—THE LORD'S NAME AN
 men know what He is like, what gracious power He has, what goodness dwells in Him! "It shall be to Jehovah for a
 
 name"—"An everlasting sign." That sign is exhibited today in the eyes of men. An evil and adulterous generation called for a sign, and this is the sign that God has given—His converting Grace in His Church. Instead of miracles, we have the work of the Holy Spirit in the hearts of sinners—and if any will not believe when this sign is sent to them, neither would they believe though one rose from the dead! It stands as "an everlasting sign that shall not be cut off."
-
 
 ---
 [[Sermon 3298 Lessons From Christ's Baptism|← #3298]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3300 Titles of Honor|#3300 →]]

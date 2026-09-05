@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # An Urgent Request for an Immediate Answer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2231
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And now if you will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left." Genesis 24:49.
 
@@ -122,7 +119,6 @@ That pledge of love forever there." He will not be slow to accept that which is 
 Christ to save me. I believe that the act of faith was very well set forth in the statement of a poor imbecile. They said that he was an idiot, but I think that he had more real sense than many a man who boasts of his intellect. Someone said to him, "John, have you got a soul? "No," he said, "I ain't got no soul." "Why, John, how is that?" He replied, "I had a soul once, but I lost it, and Jesus Christ found it, so I have just let Him keep it." There is the whole philosophy of salvation. You have lost your soul. Christ has found it! Let Him keep it! God bless you! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Genesis 24.
-
 
 ---
 [[Sermon 2230 Loved and Washed|← #2230]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2232 Christ's Motive and Ours|#2232 →]]

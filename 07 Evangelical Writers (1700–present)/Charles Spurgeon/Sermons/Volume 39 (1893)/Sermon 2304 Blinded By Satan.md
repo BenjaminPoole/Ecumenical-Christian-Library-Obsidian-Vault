@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Blinded By Satan
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2304
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The god of this world has blinded the minds of them which believe not." 2 Corinthians 4:4.
 
@@ -113,7 +110,7 @@ It may help some to look to Christ if we sing a verse of that well-known hymn—
 
 "There is life for a look at the Crucified One! There is life at this moment for thee! Then look, Sinner—look unto Him, and be saved— Unto Him who was nailed to the tree."
 
-EXPOSITIONS BY C. H. SPURGEON. ISAIAH 6; MATTHEW 13:10-17; LUKE18:35-43.
+## Expositions by C. H. Spurgeon. Isaiah 6; Matthew 13:10-17; Luke 18:35-43
 
 Isaiah 6:1-4. In the year that king Uzziah died I saw also the LORD sitting upon a throne, high and lifted up, and His train filled the Temple. Above it stood the seraphims: each one had six wings; with two he covered his face, and with two he covered his feet, and with two he did fly. And one cried unto another, and said, Holy, holy, holy, is the LORD of Hosts: the whole earth is full of His Glory. And the posts of the door moved at the voice of him that cried, and the house was filled with smoke. Isaiah was awe-stricken by this vision of the Glory of the Lord. It was a sight such as few eyes have ever seen. Isaiah was never actually in the Holy Place, for he was no priest and, therefore, he could not stand there. It was in vision that he saw all this Glory and it was a vision that must have remained upon his memory through the rest of his life. The holiness and the Glory of God struck him at once.
 
@@ -166,7 +163,6 @@ Luke 18:35, 36. And it came to pass, that as He was come near, unto Jericho, a c
 43\. And immediately he received his sight, and followed Him. What should we do when our eyes are opened by Christ but follow him? The moment that we can see Him, we should begin to follow Him!
 
 43\. Glorifying God: and all the people, when they saw it, gave praise unto God. May we have cause to praise the Lord, tonight, for many blind eyes opened!
-
 
 ---
 [[Sermon 2303 Three Arrows—or Six|← #2303]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2305 No Fixity Without Faith|#2305 →]]

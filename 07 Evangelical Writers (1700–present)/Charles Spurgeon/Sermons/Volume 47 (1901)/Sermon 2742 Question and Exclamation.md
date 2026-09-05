@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Question and Exclamation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2742
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But I said, How can I put you among the children, and give you a pleasant land, a godly heritage of the hosts of nations? And I said, You shall call Me, My Father; and shall not turn away from Me." Jeremiah 3:19.
 
@@ -99,7 +96,7 @@ Plead His promise, trust His Grace!" If I had to tell you of a hard master—if 
 
 I have not to impose hard terms upon you. I do not come with threats of war and destruction. Mercy fills the Throne of God and wrath stands silently by. Oh, come and accept the mercy of your God! Some of you will do so, I know. The Lord shall lead you to do it by His gracious Spirit—and to His name shall be the praise forever. Amen and Amen!
 
-EXPOSITION BY C. H. SPURGEON: HOSEA 14.
+## Exposition by C. H. Spurgeon: Hosea 14
 
 According to the heading of this chapter, we have here, "an exhortation to repentance," and, "a promise of God's blessing."
 
@@ -150,7 +147,6 @@ too."
 8\. I have heard him and observed him. God hears the cry of the penitent, and observes what is going on in his heart.
 
 8, 9. I am like a green fir tree. From Me is your fruit found. Who is wise, and he shall understand these things? Prudent, and he shall know them? For the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall therein. The Lord give us wisdom, by His Holy Spirit, to understand and know these things—and to put our understanding to practical account by returning to Him, for Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2741 Salvation by Grace|← #2741]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2743 Mistaken Notions About Repentance|#2743 →]]

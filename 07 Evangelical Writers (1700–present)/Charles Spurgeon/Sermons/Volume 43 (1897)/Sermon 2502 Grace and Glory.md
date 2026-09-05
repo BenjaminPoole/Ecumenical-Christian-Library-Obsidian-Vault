@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Grace and Glory
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2502
 
-DELIVERED BY C. H, SPURGEON,.
+*Delivered by C. H, Spurgeon*
 
 > "The LORRD will give grace and glory." Psalm 84:11.
 
@@ -87,7 +86,7 @@ It lays in Heaven the topmost stone,
 
 And well deserves the praise." Sing it to the tune, "Cranbrook." Sing it as you can sing when you praise the Lord with all your heart and soul!
 
-EXPOSITION C. H. SPURGEON. PSALM84.
+## Exposition C. H. Spurgeon. Psalm 84
 
 To the chief Musician upon Gittith, A Psalm for the sons of Korah.
 
@@ -136,7 +135,6 @@ If you are a Believer in the Lord Jesus Christ, you shall come there, by-and-by,
 11\. For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will He withhold from them that walk uprightly. Take notice of the whole of that last sentence! Do not go and quote half of it and say, "God has promised that He will withhold no good thing." It is only promised to, "them that walk uprightly." And if you walk crookedly, the promise does not belong to you! It is upright walking that brings downright blessing! You shall lack no good thing from God when your whole heart is made good towards God.
 
 12\. O LORD of Hosts, blessed is the man that trusts in You. May all of us know this blessedness! Amen.
-
 
 ---
 [[Sermon 2501 All and All in All|← #2501]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2503 The Question Between the Plagues|#2503 →]]

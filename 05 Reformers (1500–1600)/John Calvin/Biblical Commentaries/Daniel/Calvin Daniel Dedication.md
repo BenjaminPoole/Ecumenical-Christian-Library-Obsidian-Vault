@@ -9,17 +9,16 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**DEDICATORY EPISTLE.**
+***Dedicatory Epistle.***
 
-**JOHN CALVIN**
+## **John Calvin**
 
 To ALL THE Pious WORSHIPPERS OF GOD WHO DESIRE THE KINGDOM OFCHRIST TO BE RIGHTLY  
 CONSTITUTED IN FRANCE.
 
-**HEALTH**
+## **Health**
 
 Although I have been absent these six-and-twenty years, with little regret, from that native land which I own in common with yourselves, and whose agreeable climate attracts many foreigners from the most distant quarters of the world; yet it would be in no degree pleasing or desirable to me to dwell in a region from which the Truth of God, pure Religion, and the doctrine of eternal salvation are banished, and the very kingdom of Christ laid prostrate! Hence, I have no desire to return to it; yet it would be neither in accordance with human nor Divine obligation to forget the people from which I am sprung, and to put away all regard for their welfare. I think I have given some strong proofs, how seriously and ardently I desire to benefit my fellow-countrymen, to whom perhaps my absence has been useful, in enabling them to reap the greater profit from my studies. And the contemplation of this advantage has not only deprived my banishment of its sting, but has rendered it even pleasant and joyful.
 

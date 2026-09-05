@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 13. Luke 1:76-80
-
-**LUKE 1:76-80**
 
 **76**. And thou, child, shalt be called the Prophet of the Highest. for thou shalt go before the face of the Lord to prepare his ways, **77**. To give knowledge of salvation to his people by the forgiveness of their sins: **78**. Through the bowels of the mercy of our God, by which the Eastern sky [^1] hath visited us, **79**. That he might give light to those who were sitting in darkness and the shadow of death, to guide our feet into the way of peace. **80**. And the child grew, and became strong in spirit, and was in the deserts till the day of his showing unto Israel.
 

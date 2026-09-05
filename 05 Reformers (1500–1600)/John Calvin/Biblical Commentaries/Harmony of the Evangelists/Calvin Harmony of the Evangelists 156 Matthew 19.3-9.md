@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 156. Matthew 19:3-9; Mark 10:2-12
-
-**Matthew 19:3-9; Mark 10:2-12**
 
 **3**. And the Pharisees came to him, tempting him, and saying to him, Is it lawful for a man to divorce his wife for any cause whatever? **4**. Who answering said to them, Have you not read, that he who made them at first, [^1] made them male and female? **5**. And he said, Therefore shall a man leave his father and mother, and be joined to his wife; and they shall be one flesh. **6**. Therefore now they are not two, but one flesh: what God therefore hath joined, let not man separate. **7**. They say to him, Why then did Moses order to give a letter of divorcement, and send her away? **8**. He said to them, Moses, for the hardness of your heart, permitted you to divorce your wives; but at the beginning it was not so. **9**. And I say to you, That whosoever shall divorce his wife, except for fornication, and shall marry another, committeth adultery; and whosoever shall marry her that is divorced committeth adultery.
 

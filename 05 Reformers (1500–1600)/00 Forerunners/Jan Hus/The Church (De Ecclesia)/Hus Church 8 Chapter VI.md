@@ -11,16 +11,15 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 8. Chapter VI
 
-CHRIST THE HEAD OF THE ELECT
+*Christ the Head of the Elect*
 
 Treatment having been made of the holy catholic church, which is Christ's mystical body and of which Christ is the head, a statement must also be made of the church of the wicked — malignantium — which is the body of the devil, he being its head.1 For St. Gregory says, Moralia, 4 : 9 [Migne, 75 : 647]: "As our Redeemer is one person with the assembly of the good (for He is the head of the body and we the body of that head), so is the old enemy one person with all the company of the reprobate, for he as their head presides over them unto iniquity. Hence it is evident that all the reprobate constitute one body. For Christ said to the Jews, the high priests and Pharisees, who were called the chiefs — capitales — of the church: 'Ye are of your father, the devil, and the lusts of your father ye will do/" John 8 : 44. This shows that there must be one generation — brood — which was bad in the case of the common people, worse in the case of secular rulers, but worst of all in the case of the prelates, just as the generation of the righteous has three opposite classes, corresponding grade for grade to these three classes. If, therefore, the generation of the perverse is one, it is fitting that there should be one evil man [being] with parts, who are the members of the devil. And as there cannot be a head or a member except as these are related to the entire body, it is plain that there is one body of the devil.
 
 1 In his Super IV. Sent., 36, 733, Huss also calls the kingdom of Satan ecclesia malignancium, or civilas diaboli. " This is the congregation of all the damned, as the holy church is the congregation of all the faithful — those who are to be saved. In the present time this church of the wicked is dispensing its evil odor and infection and the virus of false doctrine."
 
-CHRIST THE HEAD OF THE ELECT 53
+## Christ the Head of the Elect 53
 
 When, however, the body of Christ is called the mystical body on account of the mystery of the heavenly marriage between Christ and the church, the body of the devil is not likewise mystical but dark, because to be joined with the devil as one of his members does not express itself directly in mystery but in the scourge. Thus the body of the devil has something natural about it, because, as Augustine says, de natura Boni, all evil must root itself in the good, so all evil in morals is founded in what is good by nature. And besides having that which is natural, the body of the devil has the essence of vice, just as the mystical body of Christ has the essence of virtue. Hence St. Augustine denies, de doct. Christi, III [Nic. Fathers, 2 : 569], that the body and members of Christ are one in the same sense as the members of the devil are one.
 

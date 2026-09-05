@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Co-workers With God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2559
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Unless the Lord builds the house, they labor in vain who build it: unless the LORD guards the city, the watchman stays awake in vain. It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so He gives His Beloved sleep." Psalm 127:1,2.
 
@@ -97,7 +94,7 @@ Now, I want all of us to feel that as workers for God—pastor and people, Sunda
 
 I mean that for you, my dear Sister—do not go on fretting and saying, "I shall have to give up my class. Things do not seem to go well." I know how you talk—do not speak like that any longer! And you, dear Brother, must not go home to your church in the country and say, "I cannot stir the people. The work does not flourish as I wish it would." Of course it does not! My work does not prosper as I wish it might. You and I can never go at the pace we would like to go, but can we not be willing to be driven by our Lord and to go at HIS pace? It is quite right to work as if the salvation of all the souls in the world depended upon you, yet, as it does not, you had better throw that burden back upon your Lord and Master! Feel the weight of men's souls till it crushes you down to Christ's feet, but do not let it crush you any lower than that—you are not the Savior, you are not to have the Glory of their salvation. Neither, if you have served your Lord faithfully, shall you have the shame of their ruin if they are lost! Rise not up early and sit not up late. I mean, so as to work yourself away—but give yourself up by faith to do all you can do, all that God shall help you to do—and then trust in Him to bless you and He will bless you. God make this discourse a word of comfort to His own people, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALMS 126. AND 127.
+## Exposition by C. H. Spurgeon: Psalms 126. And 127
 
 Psalm 126:1. When the LORD turned, again, the captivity of Zion, we were like them that dream. We could hardly believe it! We began to talk incoherently, as men do in their sleep. We were so carried away with joyful rapture that we did not know where we were—"we were like them that dream."
 
@@ -122,7 +119,6 @@ Psalm 127:1-3. Unless the Lord builds the house, they labor in vain who build it
 5\. Happy is the man that has his quiver full of them. That is, when they are like arrows—not when they are gnarled and knotty, like crooked sticks! When they are unwilling to be tutored and trained, then they become a trial and a trouble. But happy is the man who has a quiver full of arrows—the more the merrier of such children as the Psalmist here speaks of.
 
 5\. They shall not be ashamed, but they shall speak with the enemies in the gate. When there was any suit at law, these sons of his would be there to plead for him. If there was any fighting to be done, they also would be to the front. It was a dangerous thing to attack a man who had a house full of strong, loyal, loving sons! They would be his defense—they would speak—and speak with very considerable emphasis, too, with his enemies in the gate.
-
 
 ---
 [[Sermon 2558 Songs in the Night|← #2558]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2560 Universal Fatherhood—a Lie!|#2560 →]]

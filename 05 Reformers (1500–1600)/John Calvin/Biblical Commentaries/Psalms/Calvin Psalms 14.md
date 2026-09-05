@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 14
-
-**PSALM 14.**
 
 In the beginning the Psalmist describes the wicked contempt of God into which almost the whole people had broken forth. To give the greater weight to his complaint, he represents God himself as uttering it. Afterwards he comforts himself and others with the hope of a remedy, which he assures himself God will very soon provide, although, in the meantime, he groans and feels deep distress at the disorder which he beholds. [^1]
 

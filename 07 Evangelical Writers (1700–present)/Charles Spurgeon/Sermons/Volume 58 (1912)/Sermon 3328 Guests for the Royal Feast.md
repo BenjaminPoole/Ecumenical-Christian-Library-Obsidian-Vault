@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Guests for the Royal Feast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3328
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then said He to His servants, The wedding is ready, but they which were invited were not worthy Go you therefore into the highways, and as many as you shall find, invite to the marriage. So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests." Matthew 22:8-10.
 
@@ -92,7 +89,6 @@ If the king desired love for his son, he went the sure way to accomplish it when
 "All that I am, and allI have, Shall be forever Yours."
 
 You who have done so much for me, help me to do all I can for You. God bless every such a lover of the Prince Immanuel!
-
 
 ---
 [[Sermon 3327 Our Lord's Heroic Endurance|← #3327]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3329 Goodness Going Before|#3329 →]]

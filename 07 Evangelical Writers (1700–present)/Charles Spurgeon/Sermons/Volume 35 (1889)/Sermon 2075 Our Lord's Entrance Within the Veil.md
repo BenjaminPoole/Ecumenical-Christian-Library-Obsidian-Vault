@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Our Lord's Entrance Within the Veil
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2075
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 17, 1889,.
+*Delivered on Lord's Day Morning, March 17, 1889*
 
 > "Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once and for all, having obtained eternal redemption for us." Hebrews 9:12.
 
@@ -154,7 +153,6 @@ God's noblest deed rejected, we reject God Himself. He has manifested Himself in
 Into the holiest of all you may enter! No, you have entered there already in Jesus and you are there permanently, because He abides there forever. Your Substitute, your Covenant Head, your Representative, is in Glory and there you shall be before long. Therefore, if you believe in Jesus Christ, the Son of God, with all your heart, comfort yourself with these words. Since the veil is rent, hide not yourself from God who unveils Himself to you. By-and-by you shall be with Him where He is. Rejoice that even now He is with you where you are.
 
 The Lord bless this congregation and may we all meet within the veil around the great Forerunner, whom we love and adore! Amen.
-
 
 ---
 [[Sermon 2074 Intimate Knowledge of the Holy Spirit|← #2074]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2076 Sounding Out the Word of the Lord|#2076 →]]

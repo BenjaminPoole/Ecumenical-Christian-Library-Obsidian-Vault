@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 57
 
-**CHAPTER 57.**
+***Chapter 57.***
 
 ## Isaiah 57:1-21
 

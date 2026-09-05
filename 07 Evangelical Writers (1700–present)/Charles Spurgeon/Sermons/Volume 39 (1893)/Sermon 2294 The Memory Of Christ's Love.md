@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Memory Of Christ's Love
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2294
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We will remember Your love more than wine: the upright love You." Song of Solomon 1:4.
 
@@ -149,7 +146,7 @@ And say when the death-dew lies cold on my brow,
 
 'If erer I lored you, my Jesus, 'tis now.'" May you sing it now and be able to sing it when the death-dew lies cold on your brow! The Lord be with you, for Jesus' sake. Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. PSALM 113, AND LUKE 17:11-19.
+## Expositions by C. H. Spurgeon. Psalm 113, and Luke 17:11-19
 
 We will read, this evening, two passages in the Word of God. The first will be Psalm 113.
 
@@ -204,7 +201,6 @@ Luke 17:11. And it came to pass, as He went to Jerusalem, that He passed through
 16\. And He was a Samaritan. Ah, me! Nine of the seed of Israel were ungrateful—and only one poor outcast Gentile was grateful to the Lord for the miracle of healing that had been worked!
 
 17-19. And Jesus answering said, Were there not ten cleansed? But where are the nine? There are not found that returned to give glory to God, save this stranger. And He said unto him, Arise, go your way: your faith, has made you whole. May the Lord Jesus thus speak to many a poor, leprous sinner here tonight! "Arise, go your way: your faith has made you whole."
-
 
 ---
 [[Sermon 2293 Simeon's Swan Song|← #2293]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2295 God's People—or Not God's People|#2295 →]]

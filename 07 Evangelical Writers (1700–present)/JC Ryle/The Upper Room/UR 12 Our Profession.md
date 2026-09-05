@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Our Profession
 
-Chapter XII · *The Upper Room* — J. C. Ryle
+## Chapter XII · *The Upper Room* — J. C. Ryle
 
 > — Heb. 4:14
 
@@ -138,7 +137,6 @@ How is it in the matter of holy living? It used to be thought important to "reno
 This state of things, to say the least, is not satisfactory, It is full of peril. It shows a condition of Christianity which, I am certain, would not have satisfied St. Paul or St. John. The world was not turned upside down by such vague, loose doctrine and practice eighteen centuries ago. The souls of men in the present day will never receive much benefit from such loose Christianity either in England or anywhere else. Decision in teaching and living is the only Christianity which God has blessed in the ages that are past, or will continue to bless in our own time. Loose, vague, misty, broad Christianity may avoid offence and please people in health and prosperity, but it will not convert souls, or supply solid comfort in the hour of sorrow or sickness, or on the bed of death.
 
 The plain truth is, that "sincerity and earnestness" are becoming the idol of many English Christians in these latter days. People seem to think it matters little what opinions a man holds in religion, so long as he is "earnest and sincere;" and you are thought uncharitable if you doubt his soundness in the faith! Against this idolatry of mere "earnestness" I enter my solemn protest. I charge every reader of this paper to remember that God's written Word is the only rule of faith, and to believe nothing to be true and soul-saving in religion which cannot be proved by plain texts of Scripture. I entreat him to read the Bible, and make it his only test of truth and error, right and wrong. And for the last time I say, "Hold fast, and not loose,--hold fast your profession."
-
 
 ---
 [[UR 11 To Whom|← To Whom?]] · [[The Upper Room|Upper Room Contents]] · [[UR 13 Many|Many →]]

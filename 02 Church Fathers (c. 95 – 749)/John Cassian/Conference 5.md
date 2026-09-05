@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 5
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT SERAPION. ON THE EIGHT PRINCIPAL FAULTS.
+## Conference of Abbot Serapion. On the Eight Principal Faults
 
 ## Chapter 1
 

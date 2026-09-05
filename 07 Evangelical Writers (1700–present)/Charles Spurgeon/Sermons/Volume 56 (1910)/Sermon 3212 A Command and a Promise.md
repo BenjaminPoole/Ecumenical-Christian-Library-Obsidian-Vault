@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # A Command and a Promise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3212
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Draw near to God, and He will draw near to you." James 4:8.
 
@@ -93,13 +90,13 @@ O Lamb of God, I come"?
 
 If You have said that from your heart, you are now a saved soul and you may go to your home rejoicing in the Lord, for your sins, which were many, are all forgiven and you are on your way to Heaven! God grant that it may be so, for Jesus Christ's sake!
 
-EXPOSITION BY C. H. SPURGEON: JAMES 1.
+## Exposition by C. H. Spurgeon: James 1
 
 Verse 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greet-ings.The Apostle James evidently believed in no lost ten tribes, as some, nowadays, do. They were never lost—the Israelites whom we see nearly every day belong to some of all the 12 tribes, so James addressed his Epistle, "to the twelve tribes which are scattered abroad, greetings."
 
 2\. My brethren, count it all joy when you fall into divers temptations. Or, trials. [See Sermon #1074, Volume 29—all joy in all
 
-TRIALS.]
+## Trials.]
 
 3-5. Knowing this, that the trying of your faith works patience. But let patience have her perfect work, that you may be perfect and entire, wanting nothing. If any of you lack wisdom. That is just what most of us lack—"If any of you lack wisdom"—
 
@@ -152,7 +149,6 @@ man among you seems to be religious, but bridles not his tongue and deceives his
 27\. Pure and undefled religion before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. [See Sermon #2313, Volume 39—CHARITY AND PURITY—Read/download the entire sermon,
 
 free of charge, at http://www.spurgeongems.org.] Oh, how much this means—tenderness to others and tenderness of conscience in ourselves! How much Divine Grace we need in order that these two virtues may shine brightly within us!
-
 
 ---
 [[Sermon 3211 'Feed My Sheep'|← #3211]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3213 Blessings Traced to Their Source|#3213 →]]

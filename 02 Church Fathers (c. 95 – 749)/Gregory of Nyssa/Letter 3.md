@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 3
 
-BY ST. GREGORY OF NYSSA
+*By St. Gregory of Nyssa*
 
 To Ablabius
 

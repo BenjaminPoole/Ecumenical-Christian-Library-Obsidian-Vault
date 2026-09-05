@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 142. Matthew 16:20-28; Mark 8:30-38, 9:1; Luke 9:21-27
-
-Matthew 16:20-28; Mark 8:30-38, 9:1;  
-Luke 9:21-27
 
 **20**. Then he charged his disciples [^1] not to tell any one that he was Jesus the Christ. **21**. From that time Jesus began to make known to his disciples, that he must go to Jerusalem and suffer many things from the elders, and the chief priests, and the scribes, and be killed, and be raised again on the third day. **22**. And Peter, taking him aside, [^2] began to rebuke him, saying, Lord, spare thyself; [^3] this shall not happen to thee. **23**. But he turning said to Peter, Get thee behind me, Satan, thou art an offense to me; for thou relishest not those things which are of God, but those which are of men. **24**. Then Jesus said to his disciples, If any man chooses to come after me, let him deny himself, and take up his cross, and follow me. **25**. For whosoever would save his life shall lose it; and on the other hand, whosoever shall lose his life on my account shall find it. **26**. For what doth it profit a man, if he shall gain the whole world, and lose his own soul? or what shall a man give, that, in exchange for it, he may redeem his soul? **27**. For the Son of man will come in the glory of his Father with his angels: and then will he render to every one according to his actions. **28**. Verily I say to you, There are some standing here, who will not taste death till they have seen the Son of man coming in his kingdom.
 

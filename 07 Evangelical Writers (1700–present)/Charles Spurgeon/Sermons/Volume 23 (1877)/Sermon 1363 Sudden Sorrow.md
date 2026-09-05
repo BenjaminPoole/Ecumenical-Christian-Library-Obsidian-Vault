@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Sudden Sorrow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1363
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 8, 1877,.
+*Delivered on Lord's-Day Morning, July 8, 1877*
 
 > "Suddenly are my tents spoiled, and my curtains in a moment." Jeremiah 4:20.
 
@@ -152,7 +151,6 @@ Then the largeness of the amount invested will only make it all the harder to di
 Where, then, your midnight revelry and wantonness? When you shall appear before the Judge of all the earth, what will be left to you? When all these unhallowed pleasures are swept away, what remains? Yes, you lover of pleasure, make merry and rejoice today, but "when you are spoiled, what will you do?" With your children about you, rejoice in your home and live at ease without God but, "when you are spoiled, what will you do?" Despise religion if you will—and count it all a dream invented to make men sour and wretched—but when you are dying and your pulse is faint and failing, what will you do?
 
 What can you do? Opportunities over and space for repentance nearly run out—what will you do? The thought perhaps, will seize you, then, "Too late, too late! I cannot enter now." The voice which says, "Behold the Bridegroom comes," will startle you in the midnight of your ignorance just as you are about to die—and then you will wring your hands in everlasting despair because you did not, in due time, seek Him who can save you from the wrath to come! Awake, I beseech you, your sluggish hearts, and look forward to your latter end! I pray that I may leave one or two solemn thoughts upon the minds of the careless. Better still, I pray God the Holy Spirit to lead them, now, to believe on the Lord Jesus to the saving of their souls! Amen.
-
 
 ---
 [[Sermon 1362 Mourning For Christ|← #1362]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1364 Nevertheless, Hereafter|#1364 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 44. Matthew 5:20-22
-
-**MATTHEW 5:20-22**
 
 **20**. For I say to you, That, unless your righteousness shall be more abundant [^1] than that of the Scribes and the Pharisees, you shall not enter [^2] into the kingdom of heaven. **21**. You have heard that it was said to the ancients, [^3] Thou shalt not kill: and he who shall kill shall be liable to judgment. [^4] **22**. But I say to you, That every one who is angry with his brother shall be liable to judgment: and he who shall say to his brother, Racha, shall be liable to the council: and he who shall say, Fool, shall be liable to the hell of fire. [^5]
 

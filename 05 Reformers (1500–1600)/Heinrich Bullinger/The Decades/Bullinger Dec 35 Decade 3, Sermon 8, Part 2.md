@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 35. Decade 3, Sermon 8, Part 2
 
 Immediately, in the beginning, after their accustomed manner of subscribing and inscribing their epistle, they do J^1 out of hand fall to, and touch the false apostles with whom ^Jj^ Paul and Barnabas were in controversy, and do declare what Shenam kind of doctrine that of the false prophets was, which they whomTh had till then preached unto the churches as the catholic, true, senlUe * and apostolic doctrine ; to wit, that they which will be saved must be circumcised and keep the law of Moses. For they thought not that faith in Christ, without the help of the law, was sufficient enough to full and absolute justification. They made their boasts, that they were sent from Hierusalem3 by the apostles and disciples of the Lord, who did all with one consent teach the same doctrine that they did preach ; and they said that Paul with his companion Barnabas alone did, schismatic-like, sow in the churches a certain doctrine, peculiar to himself, touching faith which justified without the works of the law. Wherefore the apostles straight ways, after the beginning of their epistle, do declare what they think of such false teachers and their unwarranted doctrine : " We confess," say they, "that those false teachers went from hence out of Hierusalem, but we deny that they were either sent or instructed by us. For we gave no commandment to any such." And so they do testify that it is utterly false, which those, fellows taught, to wit, that the apostles and disciples of the Lord did preach that the law is requisite to full justification. Yea, they do yet go on more plainly to declare
@@ -20,9 +19,9 @@ Immediately, in the beginning, after their accustomed manner of subscribing and 
 
 [BULLINGER, ii.J
 
-THE THIRD DECADE.
+## The Third Decade
 
-[SERM.
+## [Serm
 
 what the doctrine of those false apostles was : " They trouble you," say they, " with words, and cumber your minds, commanding you to be circumcised and to keep the law." The sum therefore of their doctrine was, that, unless a man were circumcised and did keep the law, he could not be saved : whereby they did ascribe salvation to the keeping of the law, or to the merit of their works. Unto this doctrine the apostles
 
@@ -54,8 +53,6 @@ For now they do in few words comprehend the very The exposi decree of the whole 
 
 18—2
 
-276 THE THIRD DECADE. [SEKM.
-
 In the second place, they do set down the sum of the decree, saying: " That we might not charge you with greater burdens than these necessary things, (that is to say) that ye abstain from things offered to idols, and from blood, and from strangled, and from fornication." Therefore, say they, the doctrine of the gospel which Paul hath hitherto preached with us, is sufficient to the obtaining of life and salvation. We intend not to lay any greater burden upon you than the doctrine of the gospel and abstinence from those few things. In which sentence they seem to have had an eye to the opinion of St Peter, who in the council said : " Ye
 
 ACUX. know that I, being called by God, did go to the Gentiles, and did preach to them salvation through the gospel. Ye know, that to the Gentiles, being neither circumcised, nor keeping the law, while I preached to them faith in Christ Jesus, the Holy Ghost was given from above, so that their hearts were purified of God himself by faith, not by the law, and that they were made heirs of eternal life." And upon
@@ -78,8 +75,6 @@ Now also here is added the conclusion of the sentence : st James " Than these ne
 
 [2 adcoque, Lat. ; and so.]
 
-278 THE THIRD DECADE. [sERM.
-
 God, and say, Why doth God so ? let him think, that this deed is the deed and work of God, whom it is not lawful for man to gainsay, and all whose works are known from the beginning of the world to have been done in judgment and righteousness: whereupon it doth consequently follow, that this counsel of his is good and righteous, whereby he doth through faith in Christ join to himself and sanctify1 the heathen nations2.
 
 Now upon these words of the prophet St James (subscribing as it were to St Peter's opinion) doth gather and infer : " Wherefore my sentence is, that we trouble not them which from among the Gentiles are turned to God :" that is to say, I think that they are not to be molested, or charged with the observation of the law. But lest the Gentiles, once hearing that the law was abolished, should thereby think that they might freely do whatsoever they would, and so by that means abuse their liberty ; and also, against all charity, despise and give offence unto the Jewish brethren ; therefore From some James addeth : " But I think it best for us to write unto must'uie 'ngs them, that they abstain from filthiness of idols." For there saints .
@@ -101,8 +96,6 @@ Finally, the conclusion of their epistle is : " From which p in tertio loco, Lat
 [4 aut proposuisse, Lat.] [6 cum laude omnium, Lat.]
 
 [6 et in faciem, Lat.; and to the face.]
-
-280 THE THIRD DECADE. [sERM.
 
 if ye keep your selves, ye do well ; so fare ye well." They praise that abstinence, and teach it as a good work, because it is also commended to us in all the scriptures.
 
@@ -146,7 +139,7 @@ The likeness Now if every one of you do throughly ponder with him- enceofthe sel
 
 [6 Vol. I. pages 269, 316.]
 
-VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 283
+## VIII.] Use, Fulfilling, and Abrogation of the Law. 283
 
 God, the parts of the law, the use or effect, the fulfilling and abrogating of the same ; it will be a thing of no difficulty to determine what every one ought to think concerning that point or title of this treatise, whereof I promised, in the beginning of this sermon, that I would speak somewhat toward the end; to wit, that the testament of the old and new church7 is all one, and that there is but one way of true salvation to all that either are, or have been, saved in this world : and also, wherein the new testament doth differ from the old. For since I have already shewed8 that all the points of the law have a respect and a kind of relation unto Christ, and that he was in the law preached 9 to the fathers to be the only Saviour, in whom alone they were to be saved ; who is it which cannot perceive, that they had none other but the very same manner and way to be saved which we at this day do enjoy by Christ Jesus10? And yet, that this may appear more evident, I will not stick to bestow some pains to make this matter more manifest unto you with as plain a demonstration as possible may be, although a plainer cannot likely be than that which I have already shewed you.
 
@@ -165,8 +158,6 @@ that the fathers were not without the same doctrine, it is evident by St Paul, w
 [? ecclesise Dei, Lat.] [8 apertissime, Lat. ; most clearly.]
 
 [9 propositum esse, Lat.] [*° by Christ Jesus, not in Lat.]
-
-284 THE THIRD DECADE. [sERM.
 
 scriptures, of his Son, which was made of the seed of David after the flesh, and hath been declared to be the Son of God with power by the Spirit," &c. What could be said more plainly ? The gospel, which is at this day preached *, was of old promised by the prophets in the holy scriptures ; to wit, that the Son of God should come into the world to save all faithful believers. This gospel also teacheth, that the faithful are not justified by the works of the law, but freely by grace through faith in Christ2. St Paul saith :
 
@@ -206,7 +197,7 @@ And verily our forefathers and the holy prophets could not have so precisely and
 
 [6 sire ritibus sacris, Lat. omitted ; or holy rites.] f Christum, Lat. ; the true — world, not in Lat.]
 
-VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 287
+## VIII.] Use, Fulfilling, and Abrogation of the Law. 287
 
 God ; through which Spirit even our justification at this day is wrought and finished. Therefore the fathers were governed by the very same Spirit that we of this age are directed by.
 
@@ -214,9 +205,9 @@ Of this opinion was St Augustine, whose words, dearly beloved, I mean to recite 
 
 [8 Eodem Spiritu fidei ab illis haec futura videbantur, quo a nobis facta creduntur. Neque enim, qui nobis ista fideli dilectione prophetare potuerunt, eorum ipsi participes non fuerunt. Et undo est quod dicit Apostolus Petrus, Quid tentatis Deum imponero jugum supra collum discipulorum quod nequo patres nostri neque nos potuimus portare ; Bed per gratiam Domini Jesu credimus salvi fieri, quemadmodum et illi ; nisi quia et illi per gratiam Domini Jesu Christi salyi
 
-THE TH1IID DECADE.
+## The Th1iid Decade
 
-[SERM.
+## [Serm
 
 The fathers had the same hope and inheritance that we have.
 
@@ -235,8 +226,6 @@ VIII.] USE, FULFILLING, AND ABROGATION OF THE LAW. 289 them below, he did say un
 Moreover we must here consider the occasion upon which r -i 19
 
 [BULLINGER, n.J
-
-290 THE THIRD DECADE. [sERM.
 
 these words of the Lord do seem to have been spoken1. The Lord had said : " Verily, verily, I say unto you, if a man keep my saying, he shall never taste of death :" which words the Jews took hold on, and said, " Abraham is dead, and the prophets are dead ; and yet sayest thou, If a man will keep my saying, he shall never see death ? What, art thou greater than our father Abraham, which is dead ? and the prophets are dead also. Whom makest thou thyself?" To this the Lord made answer, and shewed that Abraham is quickened, or else preserved in life and heavenly joy, through faith in the sayings of Christ Jesus ; and that, howsoever he is dead in body, yet notwithstanding his soul doth live in joy for ever with God, in whom he did put his trust. To this may be added, that David in the sixteenth psalm, calling God his hope, his expectation, and his inheritance, doth among other things say : " The Lord is always at my right hand. Therefore my heart is glad, my glory rejoiceth, and my flesh shall rest in hope. For thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption. Thou wilt make me to know the path of life : in thy presence is the fulness of joy, and at thy right hand there be pleasures for evermore." And although St Peter and St Paul do in the Acts of the Apostles apply this testimony of David, as a thing spoken prophetically, unto Christ Jesus ; yet notwithstanding, no man can deny but that the same may, after a certain manner, be referred unto David, who in that psalm maketh a profession of his faith, declareth his hope, and expresseth his Michtam, that is, his delight, or the arms or cognisance whereby he would be known2. Those words therefore do first appertain to Christ, and then to David and all the faithful : for the life and resurrection of Christ is the life and resurrection of the faithful. Again, in another place the same prophet rpwi. «vii. saith : " I believe verily to see the goodness of the Lord in the land of the living." Now in the land of the living there is neither death nor dolour, but fulness of joy and everlasting pleasures : these joys and delights David by faith did look to obtain at the hand of God through Christ his Saviour, and did indeed, according to his hope, possess the same im-
 
@@ -264,8 +253,6 @@ Moreover, our forefathers did not pray to any other but
 
 19—2
 
-292 THE THIRD DECADE. [sERM.
-
 The fathers God alone, the only Creator of all things ; and did believe verily that he would be merciful unto mankind for the invocation, blessed Seed's sake. And although they did not so usually call upon God, as we at this day do, through the Mediator and intercessor Christ Jesus ; even as the Lord in the gospel rjohn xvi. did himself testify, and say, " Hitherto have ye not asked any thing in my name : ask, and ye shall receive ; " yet were they not utterly ignorant of the Mediator, for whose sake they were heard of the Lord. Daniel in the ninth chapter of his prophecy maketh his prayer, and desireth to be heard of God for the Lord's sake, that is, for the promised Christ his sake. Finally, so often as the holy saints did in their prayers say, " Remember, Lord, thy servants, Abraham, Isaac, and Jacob," they did not look back to the persons or souls of the deceased patriarchs, but to the promise that was made to the patriarchs. Now since that promise is, "In thy seed shall all the kindreds of the earth be blessed ; " and since Paul doth testify, that Christ is that blessed Seed ; it followeth consequently, that the holy fathers in their prayers had an eye to the blessed Seed, and that they did desire God to hear them for Christ his sake. For in one place also the Lord
 
 [2 Kings xix. promiseth deliverance to king Ezechias, saying : " I will defend this city for mine own sake, and for my servant David's sake." But in the seventh and twenty-eighth chapter of Esay's prophecy it is manifest that the city was spared for Christ his sake, the son of the virgin, which is the foundation placed in Sion; whom Ezechiel in the thirty-fourth ywaun. xxii. chapter calleth by the name of David, and the gospel calleth David's son.
@@ -289,8 +276,6 @@ f1 omnes, Lat. omitted; all.]
 [2 aut spirituale epulum, Lat. ; or the spiritual banquet.]
 
 [3 his testimoniis, Lat. ; these proofs.]
-
-294 THE THIRD DECADE. [sERM.
 
 For to the promise or doctrine of faith, and to the chief and principal laws, there were annexed certain external things, which were added until the time of amendment ; so that the whole ecclesiastical regiment, the manner of teaching the doctrine of godliness, and the outward worshsip of God, was among the old fathers of one sort, and is among us of another. But the especial things wherein they differ may be rehearsed and set down in these few principal points.
 
@@ -326,8 +311,6 @@ Moreover the forefathers in the old testament had types, The new tes-
 
 [u operosus, Lat.]
 
-296 THE THIRD DECADE. [SERM.
-
 burdensome ; as the Aaronical priesthood, the tabernacle or temple that was to be throughly furnished with most exquisite things and instruments, their sundry sorts of sacrifices, and many moe ceremonies like unto these. Now from all this cost and business we, which be the people of the new covenant, are freely disburdened and set at liberty. And he by whom we are disburdened is Jesus Christ, in whom alone we have all things necessary to life and salvation. For it pleased God the Father to recapitulate in him, and, as St Paul saith, to bring into a sum !, all things requisite to life and salvation ; that the things which seemed before to be dispersed here and there should in Christ alone be fully exhibited and brought unto us. For Christ is the fulfilling of all the types and ceremonies ; by whose Spirit since we do now possess the thing prefigured, we have no longer need of the representing types and shadows. The external things that Christ hath ordained are very few, and of very small cost. Therefore the people of the new testament doth enjoy a passing great and ample liberty.
 
 To this, I suppose, doth belong that excellent place of
@@ -352,8 +335,6 @@ Furthermore, the apostle Paul putteth another difference The gifts of
 
 I rnanl-
 
-298 THE THIRD DECADK. [SERM.
-
 mation and absolute illumination of their minds: for he saith, " I will plant my laws in their minds, and write them in their hearts ; and then shall no man teach his neighbour, or his brother, saying, Know the Lord ; for they shall all know me, from the little unto the great." But of the law it is written, that it was graven in tables of stone. Yet for all this let no man think that the fathers obtained no remission of their sins. For as they by faith had free forgiveness of their sins, so did God1 both write his law and pour his Spirit into their hearts. For which of us at this day can say, that we excel in knowledge and in faith2 either Abraham, Moses, Samuel, David, Esay, Daniel, or Zacharias? So then the difference is not, in that the fathers of the old testament were without the remission of sins and the illumination of the Holy Ghost, and that we alone, which are the people of the new testament, have obtained them : but the difference doth consist in the greatness, ampleness, largeness, and plentifulness of the gifts, to wit, because they are more liberally bestowed and more plentifully poured out upon more now than they were of old. For all nations, being called do not by dropmeal, but by whole handfuls, draw the water of life. The Lord doth pour out his Spirit upon all flesh. Of old God was known in Jury only ; but now, since Christ is come into the world, his disciples are gone through all the corners of the earth, and teach all kingdoms to know the Lord. Of old the worthy men3 and prophets were not so many but that they might be numbered ; because the land of promise in a manner alone did breed such good and holy men ; but who is at this day able to reckon all the kings, princes, noblemen, prophets, bishops, doctors, martyrs, and excellent persons of every sex, estate, and age, which have been and are at this day bred, not only in Jurie, but also in Arabia, Idumea, Phoenicia, Mesopotamia, Persia, Asia, Egypt, Africa, Greece, Italy, the east, the south, the west, and the north? Free remission of sins is preached to all countries and kingdoms. All the faithful in every nation under heaven are through Christ received into the grace and favour of God the Father. All have received in great abundance the gift
 
 I1 olim quoque, Lat. ; of old also.]
@@ -376,11 +357,9 @@ Touching the likeness and agreement, the unlikeness and difference of both, I me
 
 [6 This latter treatise, — De Testamento seu Foadere Dei unico et
 
-300 THE THIRD DECADE. [sERM.
-
 I will not here, in the conclusion, recapitulate unto you the special points of this sermon ; partly because I have already been somewhat too long ; and partly because I have, as I hope, used so plain an order, that every point is indifferently well settled in every man's memory. Thus have I, by God's grace and sufferance, made an end to treat of God's holy law, wherein I have been occupied a good sort of days by several sermons. Blessed be God and our heavenly Father world without end ; whom I beseech to bless us all through Jesus Christ our Lord and Saviour. Amen.
 
-OF CHRISTIAN LIBERTY, AND OF OFFENCES. OF GOOD WORKS, AND THE REWARD THEREOF.
+## Of Christian Liberty, and of Offences. Of Good Works, and the Reward Thereof
 
 ---
 [[Bullinger Dec 34 Decade 3, Sermon 8, Part 1|← 34. Decade 3, Sermon 8, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 36 Decade 3, Sermon 9, Part 1|36. Decade 3, Sermon 9, Part 1 →]]

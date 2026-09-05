@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Hope, Yet No Hope—No Hope, Yet Hope
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 684
 
-DELIVERED ON SUNDAY MORNING, APRIL 8, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 8, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > Isaiah 57:10.
 
@@ -136,7 +135,6 @@ The fountain flows freely and richly for you, who, having nothing in yourselves,
 To conclude, do you not know, poor Sinner, you who believe in Jesus this morning—do you not know the news? Then I will tell you a secret. Do you not know that if you now prostrate yourself at the foot of the Cross, you are God's chosen one? Your name is engraved on the hand of Jesus, on the heart of God! Before the daystar knew its place or planets ran their round—before the primeval darkness was pierced by the sun's first ray you were dear to the heart of Deity! You are His elect, His beloved one! And do you not know that the mountains may depart and the hills be removed but the Covenant of His love shall never depart from you? Neither shall His Grace be removed, said the Lord, who this morning has manifested His mercy towards you!
 
 Though you are but just now converted, there is laid up for you in Heaven a crown of life that fades not away. Jesus pleads for you this very day! He this day prepares one of the many mansions for your eternal dwelling place! Be of good courage! Angels are singing, Heaven is rejoicing over YOU! The Church on earth is glad concerning you! And one day, when the great Shepherd shall appear, you also shall appear with Him in glory—and all this for you, poor helplessly ruined sinner—helpless in yourself, but saved in Christ Jesus! May God add a blessing to this simple testimony this morning and His shall be the praise.
-
 
 ---
 [[Sermon 6823 Divine Gentleness Acknowledged|← #6823]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0685 Heedlessness In Religion|#685 →]]

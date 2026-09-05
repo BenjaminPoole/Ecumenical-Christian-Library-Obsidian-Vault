@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # "Your Rowers Have Brought You Into Great Waters"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1933
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your rowers have brought you into great waters." Ezekiel 27:26.
 
@@ -130,7 +127,6 @@ O Friend, "Your rowers have brought you into great waters." Oh that He would com
 great stroke of His almighty Grace, and turn your head to the Port of Peace! Do you ask, "Will He receive me again?" Listen to His voice! He says to you, "Turn, O backsliding children, says the Lord; for I am married unto you." Take with you words and come to Him at once, for He is ready to receive you. Do not linger! But O backslider in heart, before you become filled with your own ways, come home, come home and say, "Return unto your rest, O my Soul." Remember that if you are a child of God you will never be happy in sin! You are spoiled for the world, the flesh and the devil. In the day when you were regenerated there was put into you a vital principle which can never die nor be content to dwell in the dead world. You will have to come back if, indeed, you belong to the family—prodigal as you are, you are still a child! Though you return with every bone broken, you will have to return!
 
 He that is married to you has not forgotten the marriage bond. Though you have forsaken Him and defiled yourself with many lovers, yet it is written, "He hates putting away." He cannot endure divorce! His almighty love will win you back. He cannot and He will not give you up. Read those memorable passages in Jeremiah and Ezekiel, where the Holy Spirit uses that simile which I scarcely dare use tonight, where the most defiled and corrupt of adulterous souls are still bid to come back to their first husband because the marriage bond still holds good and the Lord will neither let them go nor suffer them to continue in sin. "Your rowers have brought you into great waters." Oh for a steersman to guide you into port! Return, return! I leave my text and those to whom it applies with the God of all Grace. May He bless you all, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1932 Love's Law and Life|← #1932]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1934 And We Are—a Jewel from the Revised Version|#1934 →]]

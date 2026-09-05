@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Yoke Removed and the Lord Revealed
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1462
-
-DELIVERED BY.
 
 > "They shall know that I am the Lord when I ha ve broken the bars of their yoke." Ezekiel 34:27.
 
@@ -140,7 +137,6 @@ If your sins have been forgiven, if you have been brought up out of the horrible
 There I leave the subject, praying that every one of you may have the bars of your yoke broken, for then shall you know the Lord, and not till then. The Lord bless you evermore. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ezekiel 34 HYMNS FROM "OUR OWN HYMN BOOK"—708, 126, 660.
-
 
 ---
 [[Sermon 1460 The Meat and Drink of the New Nature|← #1460]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1464 A Refreshing Promise|#1464 →]]

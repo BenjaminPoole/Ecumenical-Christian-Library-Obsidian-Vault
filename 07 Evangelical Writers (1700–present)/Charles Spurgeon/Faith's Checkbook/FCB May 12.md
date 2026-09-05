@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # May 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SERVANTS HONORED**
+## **Servants Honored**
 
 > Whoso keepeth the fig tree shall eat the fruit thereof; so he that waiteth on his master shall be honored" Prov. 27:18
 
@@ -23,7 +22,6 @@ He who tends the fig tree has figs for his pains, and he who waits on a good mas
 Our greatest honors will be gathered in that season when the figs will be ripe, even in the next world. Angels who are now our servitors will bear us home when our day's work is done. Heaven, where Jesus is, will be our honorable mansion, eternal bliss our honorable portion, and the Lord Himself our honorable companion. Who can imagine the full meaning of this promise, "He that waiteth on his master shall be honored"?
 
 Lord, help me to wait upon my Master. Let me leave all idea of honor to the hour when thou thyself shalt honor me. May thy Holy Spirit make me a lowly and patient worker and waiter!
-
 
 ---
 [[FCB May 11|← May 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB May 13|May 13 →]]

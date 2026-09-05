@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 128
-
-**PSALM 128**
 
 This Psalm is akin to the preceding, and, so to speak, a kind of appendage to it; for it declares that the divine blessing, to the diffusion of which among the whole human race Solomon testified, is to be seen most conspicuously in the ease of God’s true and sincere servants.
 

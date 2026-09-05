@@ -9,12 +9,11 @@ tags:
   - jc-ryle
   - ryle-coming-events
 ---
-
 # The Reading Which Is Blessed
 
 *Coming Events and Present Duties* — J. C. Ryle
 
-IDOLATRY!
+## Idolatry!
 
 *"Flee from idolatry!"* 1 Corinthians 10:14
 
@@ -203,7 +202,6 @@ Above all, let us keep up *continual communion* with the Lord Jesus! Let us abid
 Once let the Lord Christ have His rightful place in our hearts, and all other things in our religion will soon fall into their right places. Church, ministers, sacraments, ordinances, all will go down, and take the second place. Except Christ sits as Priest and King upon the throne of our hearts — that *little kingdom within* will be in perpetual confusion. But only let Him be "all in all" there — and all will be well. Before Him every *idol*, every *Dagon* shall fall down!
 
 Christ rightly known, Christ truly believed, and Christ heartily loved — is the true preservative against ritualism, Romanism and every form of idolatry!
-
 
 ---
 [[CE 04 Idolatry!|← Idolatry!]] · [[Coming Events and Present Duties|Coming Events Contents]] · [[CE 06 Occupy Until I Come|Occupy Until I Come →]]

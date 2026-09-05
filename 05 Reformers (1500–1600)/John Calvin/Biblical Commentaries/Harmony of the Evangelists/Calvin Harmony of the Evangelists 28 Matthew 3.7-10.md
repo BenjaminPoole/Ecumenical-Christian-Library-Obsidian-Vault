@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 28. Matthew 3:7-10; Luke 3:7-14
-
-**MATTHEW 3:7-10; LUKE 3:7-14**
 
 **7**. And when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, Offspring of vipers, who warned you that ye might flee from the wrath to come? **8**. Yield then fruits worthy of repentance. **9**. And think not to say within yourselves, We have Abraham for our fathers: for I say to you, that God is able to raise, from these stones, children to Abraham. **10**. And now also the axe is laid at the root of the trees: every tree, therefore, which yieldeth not good fruit, is cut down, and is thrown into the fire.
 

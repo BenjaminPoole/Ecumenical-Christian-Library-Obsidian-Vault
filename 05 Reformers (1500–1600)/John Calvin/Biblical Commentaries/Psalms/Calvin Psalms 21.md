@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 21
-
-**PSALM 21.**
 
 This psalm contains a public and solemn thanksgiving for the prosperous and happy condition of the king. Its subject is almost the same with that of the preceding. [^1] In the former there was set forth a common form of prayer, which was designed to excite in the whole people earnest concern for the preservation of their head. In this it is shown that the safety and prosperity of the king ought to produce public and general rejoicing through the whole realm, inasmuch as God by this means intended to preserve the whole body in safety. But, above all, it was the design of the Holy Spirit here to direct the minds of the faithful to Christ, who was the end and perfection of this kingdom, and to teach them that they could not be saved except under the head which God himself had appointed over them.
 

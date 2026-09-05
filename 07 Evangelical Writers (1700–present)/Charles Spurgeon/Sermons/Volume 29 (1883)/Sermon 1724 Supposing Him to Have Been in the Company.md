@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Supposing Him to Have Been in the Company
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1724
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 3, 1883,.
+*Delivered on Lord's-Day Morning, June 3, 1883*
 
 > "Supposing Him to ha ve been in the company." Luke 2:44.
 
@@ -138,7 +137,6 @@ ties! Do you not think that it is greatly to our discredit as Christian people t
 One was going to leave the Sunday school in which he had been for years! Another was going to allow a weak Church to break up and go to pieces, for he had grown tired of working under discouragements. Another said, "I have had my turn, let somebody else do the work." Supposing Jesus to have been in the company, do you think that such observations pleased Him? If Jesus were perceived among us, would any of us turn his back in the day of battle? No, Brothers and Sisters, since Jesus is with us, let us serve Him as long as we have any being! Remember John Newton's speech when they told him that he was too old to preach—the venerable man exclaimed "What? Should the old African blasphemer cease to preach while there is breath in his body? Never!"
 
 Do not suffer any difficulty, or infirmity to prevent your persevering in the service of Jesus in some form or other. And when you feel as if you must leave the ranks, suppose Him to be in the company—and march on! Forward, Brethren! Jesus heads the way! Forward, for His Presence is victory! God bless you, dear Friends, and all this day may Jesus be in the company to make it a hallowed Sabbath to your souls. Amen.
-
 
 ---
 [[Sermon 1723 Knock!|← #1723]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1725 Imitators of God|#1725 →]]

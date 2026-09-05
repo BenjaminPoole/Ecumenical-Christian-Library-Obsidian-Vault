@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Corinthians 14
 
-**CHAPTER 14**
+***Chapter 14***
 
 ## 1 Corinthians 14:1-6
 

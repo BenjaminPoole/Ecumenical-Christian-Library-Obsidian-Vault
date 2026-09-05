@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # "In the Garden With Him"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2106
 
-DELIVERED ON THURSDAY EVENING, AUGUST 8, 1889,.
+*Delivered on Thursday Evening, August 8, 1889*
 
 > "One of the servants of the high priest, being his kinsman whose ear Peter cut off, said, Did not I see you in the garden with Him?" John 18:26
 
@@ -190,7 +189,6 @@ You have become sleepy and dull and, perhaps, Laodicean and lukewarm—but the L
 I should like to be welcomed with that question as I enter the skies at the last. I should not object to have that spoken to me by some bright spirit as I pass through the pearl gate—"Did not I see you in the garden with Him?" "Yes, bright seraph, you may have seen me. And now you see that He casts not off His poor Friend in the day of His Glory." The angel of the Lord saw you when you repented, he spied you out in that little room where you wept alone because of sin. Upstairs in the solitary chamber, where you told the Lord how father and mother were opposed to you and yet you meant to follow the Lamb in all the ways of service and obedience, you were "seen of angels."
 
 Beloved, the brave adherence of the least of our Lord's disciples is seen, known, and remembered in heavenly places. In the Last Great Day you that have been with Christ here and trusted Him amid the clouds and the darkness and the derision—you shall see Him and reign with Him—and He shall acknowledge you as His, since you were in the garden with Him in the day of His humiliation. God bless you! Amen.
-
 
 ---
 [[Sermon 2105 Preparation for the Coming of the Lord|← #2105]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2107 The Withered Fig Tree|#2107 →]]

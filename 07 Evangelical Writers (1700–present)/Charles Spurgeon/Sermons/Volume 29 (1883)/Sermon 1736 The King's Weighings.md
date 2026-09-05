@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The King's Weighings
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1736
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 26. 1883,.
+*Delivered on Lord's-Day Morning, August 26. 1883*
 
 > "Talk no more so exceedingly proud; let not arrogance come out of your mouth, for the Lord is the God of knowledge and by Him actions are weighed." 1 Samuel 2:3.
 
@@ -120,7 +119,6 @@ Once more, this God is one who delights to carry on strange processes in the hea
 Oh how I rejoice to meet with a real sinner! Sham sinners are a vexation, but those who are really and truly so are precious in our sight! We hear of the bona fide traveler—give me the bona fide sinner—
 
 "A sinner is a sacred thing The Holy Spirit has made him so." He who is made to feel that he is truly lost is well-near saved! Christ died for such. "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners." O you who are really a sinner, catch at that word! God grant you may find salvation now, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1735 The Doctrines of Grace Do Not Lead to Sin|← #1735]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1737 John's First Doxology|#1737 →]]

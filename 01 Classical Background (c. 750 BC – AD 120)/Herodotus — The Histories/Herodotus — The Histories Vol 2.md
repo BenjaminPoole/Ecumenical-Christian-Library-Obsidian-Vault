@@ -11,7 +11,6 @@ tags:
   - classical
   - herodotus
 ---
-
 # The History of Herodotus
 *Volume 2*
 
@@ -19,24 +18,19 @@ tags:
 
 ---
 
-THE HISTORY OF HERODOTUS
-
 By Herodotus
 
 Translated into English by G. C. Macaulay
 
-IN TWO VOLUMES
+## In Two Volumes
 
-VOL. II
+## Vol. II
 
      {e Herodotou diathesis en apasin epieikes, kai tois men
      agathois sunedomene, tois de kakois sunalgousa}.—Dion.
      Halic.
 
-
-
-
-PREPARER'S NOTE
+## Preparer's Note
 
 This text was prepared from the third edition, printed in 1914, by
 MacMillan and Co., Limited, St. Martin's Street, London.
@@ -44,16 +38,9 @@ MacMillan and Co., Limited, St. Martin's Street, London.
 Greek text has been transliterated and marked with brackets, as in the
 opening citation above.
 
+## The History of Herodotus
 
-
-
-
-THE HISTORY OF HERODOTUS
-
-
-
-
-BOOK V. THE FIFTH BOOK OF THE HISTORIES, CALLED TERPSICHORE
+## Book V. The Fifth Book of the Histories, Called Terpsichore
 
 1. In the meantime those of the Persians who had been left behind in
 Europe by Dareios, of whom Megabazos was the commander, had subdued the
@@ -905,7 +892,6 @@ night before the Panathenaia it seemed to Hipparchos that a man came
 and stood by him, tall and of fair form, and riddling spoke to him these
 verses:
 
-
  "With enduring soul as a lion endure unendurable evil:
   No one of men who doth wrong shall escape from the judgment appointed."
 
@@ -947,13 +933,11 @@ Apollo at Thebes of the Boeotians, engraved on certain 4901 tripods, and
 in most respects resembling the Ionic letters: one of these tripods has
 the inscription,
 
-
  "Me Amphitryon offered from land Teleboian returning:" 50
  this inscription would be of an age contemporary  with Laïos
  the son of Labdacos, the son of Polydoros, the son of Cadmos.
 
 60. Another tripod says thus in hexameter rhythm:
-
 
  "Me did Scaios offer to thee, far-darting Apollo,
   Victor in contest of boxing, a gift most fair in thine honour:"
@@ -963,7 +947,6 @@ who offered it, and not another with  the same name as the son of
 Hippocoön), being of an age contemporary with OEdipus the son of Laïos:
 
 61. and the third tripod, also in hexameter rhythm, says:
-
 
  "Me Laodamas offered to thee, fair-aiming Apollo,
   He, of his wealth, 51 being king, as a gift most fair in thine honor:"
@@ -1260,7 +1243,6 @@ part of the ransom also they dedicated for an offering, and made of it a
 four-horse chariot of bronze, which stands on the left hand as you enter
 the Propylaia in the Acropolis, and on it is the following inscription:
 
-
  "Matched in the deeds of war with the tribes of Boeotia and Chalkis
     The sons of Athens prevailed, conquered and tamed them in fight:
   In chains of iron and darkness they quenched their insolent spirit;
@@ -1518,7 +1500,6 @@ Caineus. Neither from this wife nor from another were children born to
 him, therefore he set out to Delphi to inquire about offspring; and as
 he entered, forthwith the prophetess addressed him in these lines:
 
-
   "'Much to be honoured art thou, yet none doth render thee honour. 81
   Labda conceives, and a rolling rock will she bear, which shall ruin
   Down on the heads of the kings, and with chastisement visit Corinthos.'
@@ -1527,7 +1508,6 @@ This answer given to Aëtion was by some means reported to the
 Bacchiadai, to whom the oracle which had come to Corinth before this was
 not intelligible, an oracle which had reference to the same thing as
 that of Aëtion and said thus:
-
 
  "'An eagle conceives in the rocks 82 and shall bear a ravening lion,
   Strong and fierce to devour, who the knees of many shall loosen.
@@ -1575,7 +1555,6 @@ given him as a surname derived from the corn-chest. Then when Kypselos
 had grown to manhood and was seeking divination, a two-edged 85 answer
 was given him at Delphi, placing trust in which he made an attempt upon
 Corinth and obtained possession of it. Now the answer was as follows:
-
 
  "'Happy is this man's lot of a truth, who enters my dwelling,
   Offspring of Aëtion, he shall rule in famous Corinthos,
@@ -2090,9 +2069,7 @@ it under a truce.
 
 *****
 
-
-
-NOTES TO BOOK V
+## Notes to Book V
 
 1 [ {ie paion} (or {paian}), as the burden of a song of triumph.]
 
@@ -2405,11 +2382,7 @@ Some Editors read {epi Mulasoisi}, others {epi Pedaso}.]
 
 97 [ {andros logopoiou}
 
-
-
-
-
-BOOK VI. THE SIXTH BOOK OF THE HISTORIES, CALLED ERATO
+## Book VI. The Sixth Book of the Histories, Called Erato
 
 1. Aristagoras accordingly, after having caused Ionia to revolt, thus
 brought his life to an end; and meanwhile Histiaios the despot of
@@ -2652,7 +2625,6 @@ while that which was added afterwards referred to the Milesians. The
 part of it which had reference to the Argives I will record when I reach
 that place in the history, 10 but that which the Oracle uttered with
 reference to the Milesians, who were not there present, is as follows:
-
 
  "And at that time, O Miletos, of evil deeds the contriver,
   Thou shalt be made for many a glorious gift and a banquet:
@@ -3526,7 +3498,6 @@ craft; for to this they thought referred the oracle which the Pythian
 prophetess gave in common to these and to the Milesians, 67 saying as
 follows:
 
-
  "But when the female at length shall conquer the male in the battle,
   Conquer and drive him forth, and glory shall gain among Argives,
   Then many wives of the Argives shall tear both cheeks in their mourning;
@@ -3690,7 +3661,6 @@ been robbed of the money; but Glaucos set forth to Delphi to consult the
 Oracle: and when he inquired of the Oracle whether he should rob them
 of the money by an oath, the Pythian prophetess rebuked him with these
 lines:
-
 
   "'Glaucos, thou, Epikydes' son, yea, this for the moment,
    This, to conquer their word by an oath and to rob, is more gainful.
@@ -3859,7 +3829,6 @@ coming to it from the Persians, and others from the leaders themselves
 of Hellas warring together for supremacy. Thus it was not unreasonable
 that Delos should be moved, which was before unmoved. [And in an oracle
 it was thus written about it: 87
-
 
  "Delos too will I move, unmoved though it hath been aforetime."]
 
@@ -4543,10 +4512,7 @@ the Chersonese was Attica, suffered a siege, until at last these also
 submitted. Thus it was that the Athenians and Miltiades took possession
 of Lemnos.
 
-
-
-
-NOTES TO BOOK VI.
+## Notes to Book VI
 
 1 [ {proboulous}.]
 
@@ -4857,11 +4823,7 @@ equivalent with {edosan}.]
 122 [ {ktesamenoi}: some MSS. and editions have {stesamenoi}, "set
 fifty-oared galleys in place."]
 
-
-
-
-
-BOOK VII. THE SEVENTH BOOK OF THE HISTORIES, CALLED POLYMNIA
+## Book VII. The Seventh Book of the Histories, Called Polymnia
 
 1. Now when the report came to Dareios the son of Hystaspes of the
 battle which was fought at Marathon, the king, who even before this had
@@ -6890,7 +6852,6 @@ rites in the sacred precincts, when they had entered the sanctuary 120
 and were sitting down there, the Pythian prophetess, whose name was
 Aristonike, uttered to them this oracle:
 
-
    "Why do ye sit, O ye wretched? Flee thou 121 to the uttermost
    limits, Leaving thy home and the heights of the wheel-round city
    behind thee! Lo, there remaineth now nor the head nor the body in
@@ -6917,7 +6878,6 @@ have come to thee bearing; otherwise surely we will not depart away from
 the sanctuary, but will remain here where we are now, even until we
 bring our lives to an end." When they spoke these words, the prophetess
 gave them a second oracle as follows:
-
 
    "Pallas cannot prevail to appease great Zeus in Olympos, Though she
    with words very many and wiles close-woven entreat him. But I will
@@ -6947,7 +6907,6 @@ that the god meant by this their ships, and they advised to leave all
 else and get ready these. Now they who said that the ships were the
 bulwark of wood were shaken in their interpretation by the two last
 verses which the prophetess uttered:
-
 
  "Salamis, thou the divine, thou shalt cause sons of women to perish,
   Or when the grain is scattered or when it is gathered together."
@@ -7062,7 +7021,6 @@ had been slain of them six thousand men by the Lacedemonians and by
 Cleomenes the son of Anaxandrides, 134 and this in fact was the reason
 that they were sending to inquire: and when they inquired, the Pythian
 prophetess made answer to them as follows:
-
 
  "Thou to thy neighbours a foe, by the gods immortal beloved,
   Keep thou thy spear 135 within bounds, and sit well-guarded behind it:
@@ -8202,7 +8160,6 @@ Lacedemon must be destroyed by the Barbarians, or their king must lose
 his life. This reply the prophetess gave them in hexameter verses, and
 it ran thus:
 
-
  "But as for you, ye men who in wide-spaced Sparta inhabit,
   Either your glorious city is sacked by the children of Perses,
   Or, if it be not so, then a king of the stock Heracleian
@@ -8307,19 +8264,16 @@ named Dithyrambos son of Harmatides.
 those who were slain before being sent away 228 by Leonidas, there is an
 inscription which runs thus:
 
-
  "Here once, facing in fight three hundred myriads of foemen,
     Thousands four did contend, men of the Peloponnese."
 
 This is the inscription for the whole body; and for the Spartans
 separately there is this:
 
-
  "Stranger, report this word, we pray, to the Spartans, that lying
     Here in this spot we remain, faithfully keeping their laws." 229
 
 This, I say, for the Lacedemonians; and for the soothsayer as follows:
-
 
  "This is the tomb of Megistias renowned, whom the Median foemen,
     Where Sperchios doth flow, slew when they forded the stream;
@@ -8507,11 +8461,7 @@ would find writing upon the wood; and doing as she said they found
 the writing and read it, and after that they sent notice to the other
 Hellenes. These things are said to have come to pass in this manner. 242
 
-
-
-
-
-NOTES TO BOOK VII
+## Notes to Book VII
 
 1 [ {kai ploia}, for transport of horses and also of provisions: however
 these words are omitted in some of the best MSS.]
@@ -9216,11 +9166,7 @@ sige} to mean "secretly," like {sige}, viii. 74.]
 242 [ Many Editors pronounce the last chapter to be an interpolation,
 but perhaps with hardly sufficient reason.]
 
-
-
-
-
-BOOK VIII. THE EIGHTH BOOK OF THE HISTORIES, CALLED URANIA
+## Book VIII. The Eighth Book of the Histories, Called Urania
 
 1. Those of the Hellenes who had been appointed to serve in the fleet
 were these:—the Athenians furnished a hundred and twenty-seven ships,
@@ -9477,7 +9423,6 @@ had no meaning at all, had neither carried away anything from their land
 nor laid in any store of provisions with a view to war coming upon them,
 and by their conduct moreover they had brought trouble upon themselves.
 15 For the oracle uttered by Bakis about these matters runs as follows:
-
 
  "Mark, when a man, a Barbarian, shall yoke the Sea with papyrus,
   Then do thou plan to remove the loud-bleating goats from Euboea."
@@ -10261,7 +10206,6 @@ to make objections against them that they are not true, for I do not
 desire to attempt to overthrow the credit of them when they speak
 clearly, looking at such matters as these which here follow:
 
-
  "But when with ships they shall join the sacred strand of the goddess,
   Artemis golden-sword-girded, and thee, wave-washed Kynosura,
   Urged by a maddening hope, 44 having given rich Athens to plunder,
@@ -10540,7 +10484,6 @@ also especially, with reference to the wrecks cast up here, that
 which had been spoken in an oracle many years before these events by
 Lysistratos, an Athenian who uttered oracles, and which had not been
 observed by any of the Hellenes:
-
 
  "Then shall the Colian women with firewood of oars roast barley." 61
 
@@ -11378,10 +11321,7 @@ Therefore before he arrives here in Attica, it is fitting that ye come
 to our rescue quickly in Boeotia." Thus the Athenians made answer, and
 upon that the envoys went away back to Sparta.
 
-
-
-
-NOTES TO BOOK VIII
+## Notes to Book VIII
 
 1 [ See v. 77.]
 
@@ -11702,11 +11642,7 @@ will continue to defend ourselves."]
 
 114 [ {karta anthropeion}.]
 
-
-
-
-
-BOOK IX. THE NINTH BOOK OF THE HISTORIES, CALLED CALLIOPE
+## Book IX. The Ninth Book of the Histories, Called Calliope
 
 1. Mardonios, when Alexander had returned back and had signified to him
 that which was said by the Athenians, set forth from Thessaly and began
@@ -12439,7 +12375,6 @@ know for my part was composed with reference with the Illyrians and the
 army of the Enchelians, and not with reference to the Persians at all.
 However, the oracle which was composed by Bakis with reference to this
 battle,
-
 
  "The gathering of Hellenes together and cry of Barbarian voices,
   Where the Thermodon flows, by the banks of grassy Asopos;
@@ -13712,10 +13647,7 @@ was right and departed from his presence, having their opinion defeated
 by that of Cyrus; and they chose rather to dwell on poor land and be
 rulers, than to sow crops in a level plain and be slaves to others.
 
-
-
-
-NOTES TO BOOK IX
+## Notes to Book IX
 
 1  [ "the same who at the former time also were of one accord
 together."]

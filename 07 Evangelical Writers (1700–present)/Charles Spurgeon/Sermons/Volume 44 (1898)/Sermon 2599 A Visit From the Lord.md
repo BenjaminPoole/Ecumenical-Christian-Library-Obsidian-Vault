@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Visit From the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2599
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O visit me with Your salvation." Psalm 106:4.
 
@@ -95,7 +92,7 @@ He gives us all things and withholds
 
 No real good from upright souls." "Lord, visit me with Your salvation." Others may have their own salvation of any sort or kind that they please, but do visit me with Your salvation! Take my case in Your hands, then the work will be done, well done, and done forever." Pray thus, dear Friend, for yourself. "O visit me with Your salvation," and He will do so. "Believe on the Lord Jesus Christ and you shall be saved." "He that believes and is baptized shall be saved; but he that believes not shall be damned." God lead you all to accept His great salvation even now, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM106.
+## Exposition by C. H. Spurgeon: Psalm 106
 
 This Psalm relates the story of God's mercy to Israel, of the people's provocation of Jehovah, and of His great patience with them, It commences with an exhortation to praise the Lord.
 
@@ -148,7 +145,6 @@ Verse 1. Praise you Jehovah. Or, "Hallelujah." I cannot help remarking, here, th
 43-45. But they provoked Him with their counsel, and were brought low for their iniquity. Nevertheless He regarded their affliction when He heard their cry: and He remembered His Covenant with them and repented according to the multitude of His mercies. Was there ever so strange a story as this—a story of provocation continued almost beyond belief, and yet of mercy which would not be overcome—of persevering love that would not turn aside?
 
 46-48. He made them also to be pitied of all those that carried them captives. Save us, O LORD our God, and gather us from among the heathen, to give thanks unto Your holy name, and to triumph in Your praise. Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise you the LORD. So the Psalm ends upon its keynote—"Hallelujah"—"Praise You Jehovah."
-
 
 ---
 [[Sermon 2598 Spiritual Revival—the Need of the Church|← #2598]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2600 A Strange Yet Gracious Choice|#2600 →]]

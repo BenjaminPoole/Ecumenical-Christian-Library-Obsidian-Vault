@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christian Resignation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2715
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Not as I will, but as You will." Matthew 26:39.
 
@@ -71,9 +68,9 @@ Many of the early Christians, I think, didknow this prayer by heart—it is amaz
 
 II. In the second place, I AM TO TRY AND GIVE YOU SOME REASONS WHY IT WILL BE BEST FOR US ALL
 
-TO SEEK TO HAVE THE HOLY SPIRIT WITHIN US, SO THAT WE MAY BE BROUGHT INTO THIS FRAME OF
+## To Seek to Have the Holy Spirit within Us, so that We May Be Brought into This Frame Of
 
-MIND AND HEART.
+## Mind and Heart
 
 And the first reason is because it is simply a matter of right. God ought to have His way at all times and I ought not to have mine whenever it is contrary to His. If ever my will is at cross purposes to the will of the Supreme, it is but right that mine should yield to His. If I could have my own way—if such a poor, feeble creature as I am could thwart the Omnipotent Creator, it would be wrong for me to do it. What? Has He made me, and shall He not do as He wills with me? Is He like the potter and am I but as the clay, and shall the thing formed say to Him that formed it, "Why have You made me thus?" No, my Lord, it is but right that You should do what You please with me, for I am Yours—Yours for You have made me—Yours, for You have bought me with Your blood. If I am a jewel purchased with the precious blood of Jesus, then He may cut me into what shape He pleases. He may polish me as He chooses. He may let me lie in the darkness of the casket or let me glitter in His hand or in His diadem. In fact, He may do with me just as He wills, for I am His and so long as I know that He does it, I must say, "Whatever He does is right. My will shall not be in opposition to His will."
 
@@ -111,7 +108,7 @@ How important, therefore, it is for us to learn how we may attain to this state 
 
 How different this is from everything connected with the world! I have tried to take you up to a very high elevation and if you have been able to get up there, or even to desire to get up there, how striking has the contrast been between this spirit and the spirit of the worldling! I shall not say anything to those of you who are unconverted except this— learn how contrary you are to what God would have you be and what you must be, before you can enter the Kingdom of Heaven. You know that you could not say, "Let God have His will," and you also know that you could not humble yourself to become as a little child. This shows your deep depravity, so, may the Holy Spirit renew you, for you have need of renewing, that you may be made a new creature in Christ Jesus! May He sanctify you wholly, spirit, soul and body, and at last present you faultless before the Throne of God, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN15:1-11.
+## Exposition by C. H. Spurgeon: John 15:1-11
 
 Verse 1. I am the true vine, and My Father is the vinedresser If you want to know where the true Church is, Christ here tells you—"I am the true vine." All who are in Christ are in the true Church. If you want to know who is the Father of the Church, its Keeper and Guardian, Christ here tells you—"My Father is the vinedresser." Hence, I feel persuaded that the true vine, the Church, will never die, for it is Christ. And I am also persuaded that it will never be uprooted, for Jesus says, "My Father is the vinedresser." And that fact is a guarantee that He will take care of it.
 
@@ -136,7 +133,6 @@ fruit!
 10\. If you keep My commandments, you shall abide in My love. "You shall live in the realization of My love if you live in obedience to Me."
 
 10, 11. Even as I have kept My Father's commandments, and abide in His love. These things have I spoken unto you, that My joy might remain in you, and that your joy might be full. For, when Christ is not pleased with us, we are not likely to have joy in ourselves, Oh, that we may so live as to please Christ!
-
 
 ---
 [[Sermon 2714 Those Who Desire|← #2714]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2716 Christ's Poverty, Our Riches|#2716 →]]

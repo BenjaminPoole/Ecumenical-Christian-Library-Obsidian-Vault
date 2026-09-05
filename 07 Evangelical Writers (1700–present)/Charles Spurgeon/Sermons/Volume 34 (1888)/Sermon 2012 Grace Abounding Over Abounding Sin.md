@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Grace Abounding Over Abounding Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2012
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 4, 1888,.
+*Delivered on Lord's Day Morning, March 4, 1888*
 
 > "Moreover the Law entered, that the offense might abound. But where sin abounded, grace did much more abound." Romans 5:20.
 
@@ -123,7 +122,7 @@ If I were to ask you, now, to give the best illustrations of grace abounding in 
 
 III. Lastly. And this is what I want to hold you to, dear Friends, at this time—THIS HOLDS TRUE TO EACH ONE OF
 
-US.
+## Us
 
 Let me take the case of the open sinner. What have you been? Have you grossly sinned? Have you defiled your body with unhallowed passions? Have you been dishonest to your fellow men? Does some scarlet sin stain your conscience even as you sit
 
@@ -148,7 +147,6 @@ Broken in pieces, all asunder, ground between the millstones, reduced to nothing
 Oh, my Hearers, do not despise this Divine Grace! Come and partake of it. Does anyone say, as Paul foresaw that some would say, "Let us sin, that grace may abound"? Ah, then, such an infamous inference is the mark of the reprobate and your damnation is just. He that turns God's mercy into a reason for sin has within him something worse than a heart of stone— surely his conscience is seared with a hot iron.
 
 Beloved, I hope better things of you—for I trust that, on the contrary, the sound of the silver bells of infinite love, free pardon, abounding grace—will make you hasten to the hospital of mercy that you may receive healing for your sinfulness, strength for your feebleness and joy for your sorrow. Lord, grant that in this house, in every case wherein sin has abounded, Your Grace may yet more abound, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2011 Abram's Call—or, Half-Way—and All the Way|← #2011]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2013 The Infallibility of Scripture|#2013 →]]

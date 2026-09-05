@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # The Voice Of Cholera
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 705
 
-DELIVERED ON SUNDAY MORNING, AUGUST 12, 1866,.
+*Delivered on Sunday Morning, August 12, 1866*
 
 > "Can two walk together, except they are agreed? Will a lion roar in the forest, when he has no prey? Will a young lion cry out of his den, if he has caught nothing? Will a bird fall in a snare on the earth, where there is no trap for it? Will a snare spring up from the earth, if it has caught nothing at all? If a trumpet is blown in a city, will not the people be afraid? If there is evil in a city, will not the Lord have done it." Amos 3:3-6.
 
@@ -150,7 +149,6 @@ My Hearer, I can hardly face the thought of your fate! I feel like Elijah when h
 You scorn eternal life and choose destruction for the sake of a few paltry pleasures, or a deceitful darling lust which will treacherously stab you through your heart! You let Jesus go, and Heaven go, and all this for a moment's pleasure! Ah, my Hearer, you shall have much to answer for. I speak to you as a dying man and pray you not to venture into eternal wrath. Give these words some consideration, I pray you, and as you consider them, may God the Holy Spirit fasten them as nails in a sure place, and may you seek the Lord while He may be found, and call upon Him while He is near, for this is His word to you— "As I live, says the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. Turn you, turn you from your evil ways, for why will you die, O house of Israel?"
 
 And Jesus adds His loving words, "Come unto Me all you that labor and are heavy laden, and I will give you rest." And, "The Spirit and the bride say, Come. And let him that hears say, Come. And let him that is athirst come. And whoever will, let him take the water of life freely."
-
 
 ---
 [[Sermon 0704 Hezekiah And The Ambassadors—Or, Vainglory Rebuked|← #704]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0706 Fields White For Harvest|#706 →]]

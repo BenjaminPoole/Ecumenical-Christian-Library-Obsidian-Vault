@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 5
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WITH ME WHEREVER I AM**
+## **With Me Wherever I Am**
 
 > The Lord will be with you" II Chron. 20:17
 
@@ -25,7 +24,6 @@ For certain He is with me if I am with Him. If I trust in His faithfulness, beli
 I am quite sure that God is with me if Jesus is my sole and only Saviour. If I have placed my soul in the hands of God's Only-begotten Son, then I may be sure that the Father will put forth all His power to preserve me, that His Son may not be dishonored.
 
 Oh for faith to take hold upon the short but sweet text for today! O Lord, fulfill this word to thy servant! Be with me in the house, in the street, in the field, in the shop, in company, and alone. Be thou also with all thy people.
-
 
 ---
 [[FCB September 4|← September 4]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 6|September 6 →]]

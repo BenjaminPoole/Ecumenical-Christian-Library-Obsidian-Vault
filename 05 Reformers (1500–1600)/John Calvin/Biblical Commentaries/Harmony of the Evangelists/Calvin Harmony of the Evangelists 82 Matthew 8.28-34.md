@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 82. Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39
-
-**MATTHEW 8:28-34; MARK 5:1-20; LUKE 8:26-39**
 
 **28**. And when he had come to the opposite bank, [^1] into the country of the Gergesenes, two demoniacs, who had come from among the tombs, met him: and they were fierce beyond measure, so that no man could pass along that road. **29**. And, lo, they cried out, saying, What have we to do with thee, Jesus, Son of God? Hast thou come hither before the time to torment us? **30**. And at a distance from them there was a herd of many swine feeding. **31**. And the devils entreated him, saying, If thou cast us out, permit us to remove into the herd of swine. **32**. And he said to them, Go. And when they had gone out, they went away into the heard of swine. And, lo, the whole herd was carried headlong into the sea, and perished in the waters. **33**. And those who had the charge of them fled; and going away into the city, they related all things, and what had happened to the demoniacs, **34**. And, lo, the whole city went out to meet Jesus; and when they saw him, they entreated him, that he would depart from their territories.
 

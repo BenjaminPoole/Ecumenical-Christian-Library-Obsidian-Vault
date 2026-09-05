@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 64. Reply to Emser: Introduction, by George Warren Richards
 
 Reasons for the “Reply”
@@ -206,7 +205,7 @@ Lancaster, Pa.
 
 February 17, 1929.
 
-LITERATURE
+## Literature
 
 Zwingli, Ulrich. Samtliche Werke, ed. Egli and Finsler (Leipzig).
 

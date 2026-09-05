@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # The Best Friend
 
-Chapter XIV · *Practical Religion* — J. C. Ryle
+## Chapter XIV · *Practical Religion* — J. C. Ryle
 
 >  *This is my friend.* "—Cant. v. 16.
 
@@ -156,7 +155,6 @@ Seek every day to glorify your Lord and Saviour in all your ways. "He that hath 
 Think, above all, of the mercy which has been shown thee, and learn to rejoice daily in thy Friend! What though thy body be bowed down with disease? What though thy poverty and trials be very great? What though thine earthly friends forsake thee, and thou art alone in the world? All this may be true: but if thou art in Christ thou hast a Friend, a mighty Friend, a loving Friend, a wise Friend, a Friend that never fails. Oh, think, think much upon thy friend!
 
 Yet a little time and thy Friend shall come to take thee home, and thou shalt dwell with Him for ever. Yet a little time and thou shalt see as thou hast been seen, and know as thou hast been known. And then thou shalt hear assembled worlds confess, that HE IS THE RICH AND HAPPY MAN WHO HAS HAD CHRIST FOR HIS FRIEND.
-
 
 ---
 [[PR 13 Riches and Poverty|← Riches and Poverty]] · [[Practical Religion|Practical Religion Contents]] · [[PR 15 Sickness|Sickness →]]

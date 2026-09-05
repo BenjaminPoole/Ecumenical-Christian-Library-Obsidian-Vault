@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # There Go The Ships
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1259
-
-DELIVERED BY.
 
 > "There go the ships." Psalm 104:26.
 
@@ -150,7 +147,6 @@ If you have a toothache a few minutes, how wretched you are and how anxious to g
 God have mercy upon us and may we never have to pass through the Straits of Judgment into the Gulf of Damnation! May it never be said, "There goes one of the ships that the Tabernacle pilot signaled. It is gone to destruction." May it rather be said of all of us, all in full sail together, as we go towards Heaven, "There go the ships!" Not one of them is drifting to the Gulf of Destruction! Believe in the Lord Jesus Christ and all is well with you. Reject Him, and all is ill with you. May He, by His Word, enable you to make a right choice tonight, for His Love's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 104. HYMNS FROM "OUR OWN HYMN BOOK"—551, 686, 656.
-
 
 ---
 [[Sermon 1258 The Hand of God in the History of a Man|← #1258]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1260 The Unbroken Line Of True Nobles|#1260 →]]

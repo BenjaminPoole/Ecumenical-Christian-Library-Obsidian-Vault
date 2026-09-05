@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 27. V. Reproduction from Memory of a Sermon on the Providence of God, Part 3
 
 •That is, the substitution of a general for a specific term.
@@ -33,8 +32,6 @@ So much about the movements of the heavenly bodies. In these I want included the
 Nor should we think that the stars do, at God's command and ordination, to be sure, many things that it is still not necessary for God Himself to know or pay attention to. As if that power which is the Deity could be wearied or could wear out under excessive labor, so that we must spare it, lest by seeing, ordering, and doing all things, it became weary and need some Atlas to put his shoulders under the burden, while it takes breath. Such is the nature and power of the Deity that it consists of activity and is absolutely foreign to rest. For where rest is needed, there is need of taking breath. Where taking breath is necessary, there labor is oppressive. Where labor is oppressive, fatigue follows. Where there is fatigue, there is also weakness, and this must be absolutely foreign to the Deity. Divine Power is not, therefore, exhausted by doing, surveying, and arranging all things. It delights in it, loves it, is used to it, that means, its nature requires it. For when it is made clear in regard to chance happenings that the Deity takes account of them, as I shall presently show, will there be anything from which He can withhold His hand?
 
 The name "chance happenings" is inconsistent with real religion. For nothing can happen by accident of fortune, if all things are regulated by Providence. Furthermore, when I have shown that the things which are believed to be accidental proceed from the direct action of the Deity, I hope that though the name ''chance happenings," or, as the new school says.
-
-214 The Works of Huldreich Zwingli
 
 "contingent happenings," remain, it will be plain that the things which are attributed to fortune or chance are the work of God in reality. \
 
@@ -94,8 +91,6 @@ These things are, therefore, sure signs of the wrath of God and that He is going
 
 *Zwingli was probably thinking of the words of Terence: "Nihil dictum quod non "dictum prius," see Terence, Eunuchus, Prol. 10. But the form of his sentence seems to be influenced by a saying of Cicero: "Nihil tam absurdum did potest ut non dicatur a philosopho," for he writes: "Nihil did perhibet Poeta posse, quod non olim quoque dictum sit."
 
-222 The Works of Huldreich Zwin^li
-
 But I return to my subject. This much good followed the insurrection of Jeroboam that the Jews then began to be an example of faithlessness and afterwards of divine rejection, and the door was opened to the Gentiles for the knowledge of God. For after the Babylonian captivity the Jews never came to their own, and finally under the Romans were utterly ruined on account of the crucifixion of Christ.
 
 That God made man to let him fall fills many with wonder, but when they consider that matter more deeply and see how at the time He determined to fashion man. He also decermined to redeem him through His Son (for as soon as He began to think of fashioning man, He saw how he was going to fall, to speak as we must after the manner of men) , they at once underetand that it was an inestimable blessing that man was so made that he could fall. Otherwise the Son of God would never have put on human nature. Thus good always follows from the works of God, even though the beginnings may not be free from some marked crime.
@@ -146,8 +141,6 @@ Now, since the fall brought disaster, the fall itself was evidently not a blessi
 
 Hence we may infer that man's nature was so constituted by the Deity that he should learn more clearly by his own fall what the true, the right, and the holy were. But if Divine Goodness had not provided a remedy for the fall of man at the time when It saw he was going to fall in this way, he would have been created with his endowment of intellect to no purpose. For what would have been the use of an intellect to him, if he was to perish like cattle or to be carried off to condign punishment?
 
-228 The Works of Huldreich Zwingli
-
 But since man has been endowed with mind, it is clear that he was so endowed in order to have intercourse with the Supreme Mind. But all hope of such intercourse would have been cut off, if Providence had not provided a remedy for the fall. Nay, it would have been a random work for Providence to make man, unless He had determined to redeem him, at the time He saw he was going to fall. The counsels of God are everlasting. Therefore the plan of redemption is just as eternal as that of creation.
 
 The election of God, therefore, stands secure and immovable, though he ordained to take the elect to Himself by means of His Son. For when righteousness was to be learned through its opposite, unrighteousness, and unrighteousness had not yet been born, though righteousness existed from everlasting, it could have been forced out prematurely through transgression of the law, and when it came forth, it had no real vital force. Whatever was born of it, therefore, must have the same condition, so that in the innermost heart of Providence the redemption must have been conceived as early as the creation of man.
@@ -185,8 +178,6 @@ For that anything should owe its origin to any one in a sort of random way only 
 Therefore, to conclude at last, do you, Most Christian Prince, and ye other brethren who serve under the banner of Christ, turn often to the contemplation of Providence. There you will find rest and deliverance from all storms and blasts. It may be that all that I have said may seem to have been said hurriedly, and, as it were, cursorily, and that I have made larger use of argument than of the testimony of Scripture, though this is not lacking on occasion and is, indeed, the foundation for the whole argumentation which can in no wise be shaken.
 
 I hope, however, that I have offered to beginners and the inexperienced something to help them to a clearer appreciation of the subject. I was forced to write and to read over my words in sections. Hence it is that on reading them over I find numerous repetitions, which yet I have not wished to expunge. For experienced men know what happens to those who are every moment distracted by the call of new duties, so that I doubt not you will take it all in good part. Do you, excellent
-
-234 The Works of Huldreich Zwingli
 
 Prince, continue to live up to your reputation, and may Divine Providence preserve you safe and sound to His Church. I frankly recognize that you demanded this service of me, that either some elucidation or my folly might come to light.
 

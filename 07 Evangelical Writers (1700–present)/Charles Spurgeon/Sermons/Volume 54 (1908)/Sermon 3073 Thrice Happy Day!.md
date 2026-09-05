@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Thrice Happy Day!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3073
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "From this day will I bless you." Haggai 2:19.
 
@@ -91,7 +88,7 @@ God is sure to bless His people when everyone feels that he has something to do 
 
 And there is sure to be a blessing when there is a strong current of prayer And there is that current in this church right now. There will be that current, I hope, tomorrow evening when we meet together especially for prayer. I hope that everyone may come up with a heart like a censor full of sweet incense smoking with holy prayer! Brothers and Sisters, we must pray more in private! Here, perhaps, we fail. We must be instant in season and out of season in prayer, if prayer can ever be out of season. And then, when we come together at our Prayer Meetings, there must be wrestling times—times in which the blessing must surely be won from God by holy wrestling. When love and concord reign. When each member assists each other member. When the whole united church seeks nothing but the Glory of God in the conversion of souls, then will the blessing come! I am not a Prophet, nor the son of a Prophet, but I do venture to foretell a great blessing upon this church in the year which has so happily commenced! We ended the last year by wrapping it up in a shroud of prayer—we will give this year the wings of praise, but we will still continue to pray for a visitation of the Spirit! And we shall surely have it—and the Lord's name shall be glorified!
 
-EXPOSITION BY C. H. SPURGEON: HAGGAI1; 2.
+## Exposition by C. H. Spurgeon: Haggai 1; 2
 
 Haggai 1:1, 2. In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the Prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, Thus speaks the LORD of Hosts, saying, This people says, The time is not come, the time that the LORDS house should be built.God keeps an almanac and the date on which He speaks is always important. There is a set time for each of His messages to come to men—and God would have them give heed to every message as soon as it is delivered to them. If they do not, He keeps count of the days of their delay and, therefore, He is particular in causing His servants to record the exact date when His message was delivered—"In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the Prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest." Oh that God would make this very day notable in our history by speaking to the hearts of many here!
 
@@ -148,7 +145,6 @@ eyes of the Law of God can communicate its uncleanness to anything that touches 
 18, 19. Consider now from this day forward, from the four and twentieth day ofthe ninth month, even from the day that the foundation ofthe LORDs Temple was laid, consider it. Is the seed yet in the barn? Yes, as yet the vine, and the fig tree, and the pomegranate, and the olive tree have not brought forth: from this day will I bless you. That was, indeed, a memorable day in their history! I trust that many of us can also remember such a notable day in our life when the Lord said to us, "From this day will I bless you."
 
 20-23. And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying, Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth; and I will overthrow the throne of kingdoms, and I will destroy the strength ofthe kingdoms ofthe heathen; and I will overthrow the chariots, and those that ride in them, and the horses and their riders shall come down, everyone by the sword of his brother. In that day, says the LORD of Hosts, will I take you, O Zerubbabel, My servant, the son of Shealtiel, says the LORD, and I will make you as a signet: for I have chosen you, says the LORD of Hosts.
-
 
 ---
 [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3074 Danger. Safety. Gratitude|#3074 →]]

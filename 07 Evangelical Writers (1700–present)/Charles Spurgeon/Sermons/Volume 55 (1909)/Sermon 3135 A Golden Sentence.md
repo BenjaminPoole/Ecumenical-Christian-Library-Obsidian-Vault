@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # A Golden Sentence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3135
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus said unto them, My meat is to do the will of HHim that sent Me, and to finish His work." John 4:34.
 
@@ -69,7 +66,7 @@ III. And now, lastly, I have not strength, neither have you the time to consider
 
 How could He ever have loved us? It is strange that the Son of God should have set His affections upon such unworthy beings. I should not have wondered, my Brother, at His loving you, but it is a daily marvel to me that Jesus should have loved me. It is a wonder of wonders that He should come to save us—that when we were so lost and ruined that we did not even care about His love, but rejected it when we heard of it, and despised it even when it came with some degree of power to our hearts—that He should still have loved us notwithstanding all. "'Tis strange! 'Tis passing strange, 'tis wonderful!" Yet so it is. He has no greater delight than in saving us and in bringing us to Glory. Shall we not praise Him? Do not our hearts say within themselves, "What shall I do, My Savior to praise You? How shall I crown His head? How shall I show forth my gratitude to Him who found such delight in serving me?" Beloved, may the love of God be shed abroad in our hearts by the Holy Spirit which is given to us! From this day forth may it be our meat and our drink to do the will of Him that sent us—and to finish His work!
 
-EXPOSITION BY C. H. SPURGEON: JOHN4:1-39.
+## Exposition by C. H. Spurgeon: John 4:1-39
 
 Verses 1-3. When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John, (though Jesus Himself baptized not, but His disciples), He left Judea, and departed again into Galilee. Our Savior was not a Man of strife. He was quite ready to contend with the Pharisees on fit occasions, but just then He avoided an encounter with them. Besides, one woman of Samaria, whom He was going to save, was worth more to Him than ten thousand Pharisees who would not be saved by Him! Most of the learning and culture of Palestine was possessed by the Pharisees, but Christ thought nothing of it in comparison with the soul of the one poor woman of Samaria whom He was going to save.
 
@@ -122,7 +119,6 @@ they are white already to harvest. [See Sermon #707, Volume 12—FIELDS WHITE FO
 36-38. AndHe that reaps receives wages, andgathers fruit unto life eternal: that both he that sows andhe that reaps may rejoice together. And herein is that saying true, One sows and another reaps. I sent you to reap that whereon you bestowed no labor: other men labored, and you are entered into their labors. The Prophets had spoken and written concerning the Messiah. Their words had prepared the minds of the Jews and also of the Samaritans, to receive the Gospel. So the great success of the Apostles must not be traced merely to their teaching, but also to the preparatory work of the other laborers who had gone before—"Other men labored, and you are entered into their labors." The Church is always ready to praise her reapers, but let her not forget her sowers. There are some of us who bring many souls to Christ, who are greatly indebted to the work which was done by other men who preceded us. There are some who, perhaps, have few conversions although they preach the Gospel faithfully—they are sowing and there shall come others, by-and-by, who shall reap bounteous harvests as the result of their sowing the Good Seed of the Kingdom! No matter who sows, or who reaps, the glory of the harvest shall be unto the Most High.
 
 39\. And many of the Samaritans of that city believed on Him for the saying of the woman, which testified, He told me all that ever I did.
-
 
 ---
 [[Sermon 3134 The Spirit's Work in the New Creation|← #3134]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3136 Lessons From the Malta Fire|#3136 →]]

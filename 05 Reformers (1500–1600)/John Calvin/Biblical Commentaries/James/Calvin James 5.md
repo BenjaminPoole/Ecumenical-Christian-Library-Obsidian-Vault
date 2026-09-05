@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # James 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## James 5:1-6
 
@@ -194,7 +193,7 @@ Some copies have *his soul*, which makes no change in the sense. I, however, pre
 
 *And shall hide a multitude of sins*. He makes an allusion to a saying of Solomon, rather than a quotation. (Proverbs 10:12.) Solomon says that love covers sins, as hatred proclaims them. For they who hate burn with the desire of mutual slander; but they who love are disposed to exercise mutual forbearance. Love, then, buries sins as to men. James teaches here something higher, that is, that sins are blotted out before God; as though he had said, Solomon has declared this as the fruit of love, that it covers sins; but there is no better or more excellent way of covering them than when they are wholly abolished before God. And this is done when the sinner is brought by our admonition to the right way: we ought then especially and more carefully to attend to this duty.
 
-**END OF THE EPISTLE OF JAMES**
+## **End of the Epistle of James**
 
 ---
 [[Calvin James 4|← James 4]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/James/james-index|Contents]]

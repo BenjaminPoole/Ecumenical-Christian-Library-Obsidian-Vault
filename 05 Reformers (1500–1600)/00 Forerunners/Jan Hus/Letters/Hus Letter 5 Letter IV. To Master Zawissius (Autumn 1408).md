@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 5. Letter IV. To Master Zawissius (Autumn 1408)
-
-LETTER IV. TO MASTER ZAWISSIUS (Autumn 1408)
 
 Stop detraction in corners ! You will some day be judged yourself; No right to call Hus a heretic .... 24-5
 

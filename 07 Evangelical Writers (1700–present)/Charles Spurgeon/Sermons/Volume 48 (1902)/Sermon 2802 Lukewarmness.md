@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Lukewarmness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2802
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Iknowyour works, that you are neither cold nor hot: I would you were cold or hot. So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth." Revelation 3:15,16.
 
@@ -89,7 +86,7 @@ I do not think He cares how many Baptist chapels you build, nor how many churche
 
 the teaching of the New Testament upon this matter. If Paedo-Baptist ministers will only preach upon it, I need not do so, for that will send some of their people to search the Scriptures—and that is all that we want. If our views are not in accordance with God's Word, let us abandon them! But if they are in harmony with our Lord's teaching, let us not hold our tongues concerning them. We have had too much of this guilty silence—let us boldly proclaim the whole Truth of God and, by terrible things in righteousness, answer You, O God! Bring on the clash of arms once again and let Your Church win the victory! Give the victory to the right and the true and let all error be trampled underfoot! So be it, O Lord, and unto Your name be all the Glory! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DANIEL 9:1-13.
+## Exposition by C. H. Spurgeon: Daniel 9:1-13
 
 Verses 1, 2. In the first year ofDarius, the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans; in the first year of His reign, I, Daniel, understood by books the number of the years whereof the Word of the LORD came to Jeremiah the Prophet, that He would accomplish seventy years in the desolations of Jerusalem. And, therefore, discovering that the end of the captivity had nearly come, he set himself to plead mightily with God that now He would turn the hand of His love upon the destroyed and desolate city of Jerusalem. Notice that Daniel recollected the exact date when the captivity was to end—and when you and I have had a term put to any trial or chastisement from God, we ought to remember it, and record it among our special memoranda. I am afraid it is not always so. We do not forget when a great sorrow overtook us—we can, probably, recollect when some dear one died—we remember the very day of the week and month when that happened. But are we equally tenacious of the memory of God's loving kindness? I am afraid not! Yet it should be so. We should be able to write about it as definitely as Daniel did when he said, "In the first year of Darius, the son of Ahasuerus, of the seed of the Medes"—and then mention the time when we had some peculiarly choice communion with God, or when we were led out in more than usually earnest prayer, or when we had a specially gracious answer from our God.
 
@@ -108,7 +105,6 @@ had sent to them by His servants. If there is anything in the world that can mak
 10, 11. Neither have we obeyed the voice ofthe LORD our God, to walk in His Laws which He set before us by His servants the Prophets. Yes, all Israel has transgressed Your Law, even by departing, that they might not obey Your voice; therefore the curse is poured upon us, and the oath that is written in the Law of Moses, the servant of God, because we have sinned against Him. It was a part of that old Covenant that if they sinned against the Lord, they should be scattered among all the peoples of the earth, and their sufferings exactly tallied with what God had threatened. This fact is used by the Prophet in some measure as a source of consolation, for He argues that if God is true to the black side of the Covenant, He will also be faithful to the bright side of it! And it is so—He who faithfully fulfils His threats will just as faithfully keep His promises.
 
 12, 13. And He has confirmed His words, which He spoke against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole Heaven has not been done as has been done upon Jerusalem. As it is written in the Law ofMoses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities and understand Your Truth. Oh, sad hardness of heart and impenitence that, though Jerusalem had been so sorely smitten, yet the people turned not unto God in prayer!
-
 
 ---
 [[Sermon 2801 A Fear to Be Desired|← #2801]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2803 The Saddest Cry From the Cross|#2803 →]]

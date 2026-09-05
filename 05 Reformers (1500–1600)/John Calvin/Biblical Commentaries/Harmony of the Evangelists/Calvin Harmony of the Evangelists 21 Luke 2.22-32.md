@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 21. Luke 2:22-32
-
-**LUKE 2:22-32**
 
 **22.** And after that the days of their [^1] purification were fulfilled according to the law of Moses, they brought him to Jerusalem, that they might present him to the Lord, **23**. As it is written in the Law of the Lord, Every male opening the womb shall be called holy to the Lord: **24**. And that they might offer a sacrifice, according to what is said in the Law of the Lord, a pair of turtle-doves, or two young pigeons. **25**. And, lo, there was a man in Jerusalem, whose name was Simeon, and that man was just and devout, [^2] waiting for the consolation of Israel, and the Holy Spirit was upon him. **26**. And he had received a revelation [^3] from the Holy Spirit, that he would not see death before he saw the Lord's Christ. **27**. And he came by the Spirit into the temple. [^4] And when the parents brought the young child Jesus, that they might do according to the custom of the Law for him, **28**. He also took him into his arms: and blessed God, and said, **29**. Thou now sendest thy servant away, O Lord, according to thy word, in peace, **30**. For my eyes have seen thy salvation, **31**. Which thou hast prepared before the face of all nations: **32**. A light for the enlightening of the Gentiles, and the glory of thy people Israel.
 

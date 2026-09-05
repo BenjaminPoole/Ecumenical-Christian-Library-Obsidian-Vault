@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 44
 
-**CHAPTER 44**
+***Chapter 44***
 
 ## Isaiah 44:1-28
 

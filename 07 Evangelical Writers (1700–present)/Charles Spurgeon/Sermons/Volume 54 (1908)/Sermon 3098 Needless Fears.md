@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Needless Fears
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3098
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Who are you that.. .have feared continually every day because of the fury of the oppressor, as if he were ready to destroy? And where is the fury of the oppressor?" Isaiah 51:12,13.
 
@@ -95,7 +92,7 @@ Sinner, that is not true! But it is true that "light is sown for the righteous, 
 
 May God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 43:1-19.
+## Exposition by C. H. Spurgeon: Isaiah 43:1-19
 
 Verse 1. But now thus says the LORD that created you, O Jacob, and He that formed you, O Israel The Lord reminds us that He first created us, and that He afterwards molded us. We are like Jacob by nature, but He has made us Israel by Grace.
 
@@ -154,7 +151,6 @@ wandered very far away from Him, but the Great Shepherd of the sheep, who bought
 18\. Remember you not the former things, neither consider the things of old. Do not look merely upon what God has done; but look to the future and remember that He is able to do the same again.
 
 19\. Behold, I will do a new thing; now it shall spring forth; shall you not know it? I will even make a way in the wilderness, and rivers in the desert. O dear child of God, have you got into the wilderness and have you no comfort there? Are all your wells dried up? God will work a new miracle for you—you shall have a new manifestation of His gracious power!
-
 
 ---
 [[Sermon 3097 A Suitable Watchword|← #3097]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3099 The Double Forget-me-not|#3099 →]]

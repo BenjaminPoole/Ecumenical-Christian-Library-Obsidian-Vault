@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # Household Sin and Sorrow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3473
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he said, Your brother came with subtlety and has taken away your blessing." Genesis27:35.
 
@@ -29,7 +26,7 @@ orated through having perpetually to come into contact with that one. And this w
 
 I shall briefly attempt at this time, first, to show you the sin into which the godly members of that household fell I will show you how they were recovered from it I will mark to you, also, some of the afflictions which they had to suffer as the result of it, and then just a word about that ungodly son who had not the blessing. Well then, first, there were—
 
-I. THREE GODLY PERSONS WHO FELL INTO SIN.
+## I. Three Godly Persons Who Fell into Sin
 
 They were God-fearing persons in the household—Believers in the Covenant, expecting the blessing, attaching value to spiritual things—as Esau did not. All these three fell into sin. Their sin consisted, first of all, in a lack of confidence in one another. It is a very bad thing in a family when there is no confidence between the husband and the wife, between the children and the parents. Now Isaac wished to give Esau a blessing. He did not tell his wife but he arranged very craftily that Esau should prepare a little banquet for him—and then on that occasion, when they were all alone, he would give him the blessing. The usual way, and the proper way, would have been for the parent, when he expected to die, to have in the whole family and pronounce the blessing before them all, just as Jacob did when he departed and blessed all his sons. But this was to be done in a covert, secret way. Isaac was afraid of the objections that might be raised by his wife, afraid of the very valid objection that she would have raised that God had said the elder should serve the younger and, therefore, he thinks of this. Good, easy man as he is—he thinks of a simple way of getting out of the matter—so he will have Esau there, and give Esau the blessing. He had no confidence, you see, in his wife—did not tell her what he was going to do. And it is generally a bad thing that a man is going to do when he does not tell his wife of it.
 
@@ -57,7 +54,7 @@ Then, as for Jacob, he was a fine man in some respects, but he had too much shre
 
 You see their faults, then. I have set them before you, and with nothing to extenuate them. Dear Brothers and Sisters, let us learn a lesson from these failings and pray God that we may be preserved from them. Now you notice in the second place—
 
-II. HOW THEY ARE RECOVERED FROM THIS SIN.
+## II. How They Are Recovered from This Sin
 
 I will call it their repentance. Now look at Isaac. As soon us Isaac perceives that he has been wrong in wishing to bless Esau, he does not persist in it. He will give Esau such a blessing as he may, but he does not think for a moment of retracting what he has done—he feels that the hand of God was in it. What is more, he tells his son, "He is blessed, yes, and shall be blessed." And a second time he calls Jacob to himself and in a solemn manner pronounces over again the blessing giving to him outright what at first he had gotten by subtlety. Here you see Isaac rising somewhat to a hero. He was timid and subtle, but now he has become bold and, let what consequences will follow, he will carry out what he knows to be the mind of God! The good old man, though he makes no confession of the fault here, doubtless did confess it before his God—and stuck firmly to the right.
 
@@ -67,7 +64,7 @@ As for Jacob, from that very day he begins to develop—he becomes a pilgrim and
 
 of—
 
-III. THE AFFLICTIONS WHICH THEY BROUGHT UPON THEMSELVES.
+## III. The Afflictions Which They Brought upon Themselves
 
 There are families that have been very happy up to a point, but from that point something wrong was done and from that hour all happiness vanished. A whole family has been scattered, perhaps, or, if united, yet they are still subject to great adversity. Now in this case Isaac had wanted to see very soon the blessing continued. He did not see it. Jacob must be sent away—right away. He has the blessing, but he must go. Isaac lived to see him again in extreme old age—he lived to see his son come back, but there were some 40 years, perhaps, during which he was away. The son at home would be small comfort to him—and the son whom he had blessed must be taken away from him for a time. As to Rebekah, she never saw her son again. She bade him farewell with many a tear, and when he returned, Rebekah was gone to her rest. She did not know what she was doing for herself. As far as she was concerned, she was forever separating herself and her son in this world. As for Jacob, he for whose good the whole was done—from that moment he had such a chapter of sorrows as made him say when he had gone through it, "Few and evil are the days of your servant." All through his life that one transgression cast a gloom over it all! The right part of it, the desire to get the blessing adhered to him—he never lost it—but the wrong part of it came on, came on very soon. God generally pays His people back in their own coin. If we sin against Him, somebody very soon sins against us—in the same way, too. Observe, he cheats his brother—then Laban cheats him! From the moment he enters Laban's family, it is first one cheat and then another. Laban tries to outdo Jacob, and Jacob tries to outdo Laban—a long, long tale of shrewdness and sharpness. If you choose to go on your own tack, you may. If you elect to be your own manager, you shall manage and you shall see what comes of it. Jacob found what came of it through his having to go to Laban in that way. He became the husband of two wives and he brought into his family a perpetual element of discord and alienation. When they brought him that coat which had been dipped in blood, and said, "Do you know whether this is your son's coat or not?"—when his sons deceived him, do you not think he must have remembered that coat that he had put on to deceive his father? When he went down into Egypt, must there not have been some bitter thoughts? "Perhaps I had never been here if that turn in my life had not led me to the marriage of Laban's daughters, and thus brought quarrel into the house, causing Joseph's coming down here, and my coming down." We cannot tell, but certainly it seems from that moment to have been true, "Thorns, also, and thistles, shall your life bring forth to you."
 
@@ -83,7 +80,7 @@ But Esau did not care for the spiritual, at least not enough to let go of the ca
 
 May God bless these words and lead us all to faith in Jesus Christ, to a desire for the best things, and may He prevent our walking in the unbecoming way in which these three good people did. If we have so walked, may He lead us to repent, and help us to mend our manners, and save us, above all things, from being profane persons, as was Esau, who for one morsel of meat sold his birthright. Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS27:1-29.
+## Exposition by C. H. Spurgeon: Genesis 27:1-29
 
 Verses 1-4. And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau, his eldest son, and said unto him, My son. And he said unto him, Behold, here am I. And he said, Behold now, I am old, I know not the day of my death. Now therefore take, I pray you, your weapons, your quiver and your bow, and go out to the field, and take me some venison. And make me savory meat, such as I love, and bring it to me, that I may eat: that my soul may bless you before I die. A sad misfortune to lose the sight of your eyes! How greatly, how much more than we do, ought we to thank God for the prolongation of our sight, and it has been well remarked by one of our greatest men of science "that ve seldom hear Christians thank God as they should for the use of spectacles in these modern times." A philosopher has written a long paper concerning the blessings which he found in old age from this invention, and we, still enabled to read the Word of God when our sight decays, should be exceedingly grateful for it. After all, with all alleviations, it is a very great trial to be deprived of one's eyesight. While some of the greatest divines in modern history have poor eyesight, we have here one of the best of men—one of the Patriarchs whose eyes were so dim that he could not see. He seems to have had some sort of mistiness of soul about this time which was far worse, and so he desired to give the blessing to Esau, whom God had determined should never have it!
 
@@ -96,7 +93,6 @@ Verses 1-4. And it came to pass, that when Isaac was old, and his eyes were dim,
 19-20. I have done according as you told me: arise, I pray you, sit and eat of my venison, that your soul may bless me. And Isaac said unto his son, How is it that you have found it so quickly, my son? And he said, Because the Lord your God brought it to me. Here he draws God's name into this lie! And this is worse still.
 
 21-29. And Isaac said unto Jacob, Come near, Ipray you, that I may feel you, my son, whether you are my very son, Esau, or not. And Jacob went near unto Isaac, his father, and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau. And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him. And he said, Are you my very son, Esau? And he said, I am. And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless you. And he brought it near to him, and he did eat: and he brought him wine, and he drank. And his father Isaac said unto him, Come near now, and kiss me, my son. And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the Lord has blessed: therefore God give you of the dew of Heaven, and the fatness of the earth, and plenty of corn and wine. Letpeople serve you, and nations bow down to you: be lord over your brethren, and let your mother's sons bow down to you: cursed be every one that curses you, and blessed be he that blesses you. So he tied his own hands—he could not revoke his blessing, or, had he done so, he would have brought the curse upon himself.
-
 
 ---
 [[Sermon 3472 A Solemn Deprival|← #3472]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3474 Blessings Manifold and Marvelous|#3474 →]]

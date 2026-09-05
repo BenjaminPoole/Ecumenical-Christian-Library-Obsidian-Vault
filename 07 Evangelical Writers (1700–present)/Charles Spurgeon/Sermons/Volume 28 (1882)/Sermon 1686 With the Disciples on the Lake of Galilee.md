@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # With the Disciples on the Lake of Galilee
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1686
 
-DELIVERED ON THURSDAY EVENING, OCTOBER 6, 1881,.
+*Delivered on Thursday Evening, October 6, 1881*
 
 > "The men marveled, saying, What manner of Man is this, that even the winds and the sea obey Him!" Matthew 8:27.
 
@@ -154,7 +153,6 @@ Sit down and admire and adore His unlimited power—and then conclude by paying 
 The kingdom of our Lord and Master is, by some, thought to be a long way off, and His cause is despaired of by faint-hearted men. But He that sits in the heavens laughs at the impatience of saints as well as at the impiety of sinners, for He knows that all is well! Out of seeming evil He produces good and from that good a better, still, and better still in infinite progression! All things move towards His eternal coronation! As once every atom of history converged to His Cross, so does it today project itself towards His crown—the Lord Jesus comes to His well-earned Throne as surely as He came to the shameful Cross! He comes and when He comes, it shall be as when He rose in the ship and rebuked the winds, and the men marveled—for all storms of raging passion, conflicting opinion and fierce warfare shall be hushed—and He shall be admired in His saints and glorified in all them that believe! Even unbelievers shall marvel at Him and say, "What manner of Person is this, that even earth and Hell obey Him and all things are subject to His sovereign power!"
 
 Happy are the eyes that shall see Him in that day with joy! Happy are the men who shall sit at the right hand of the Coming One! Oh, Beloved, your eyes and mine shall see it if we have first looked to the Redeemer upon the Cross and found salvation in Him! Courage, Brothers and Sisters, let the waves dash and the winds howl—the Lord of Hosts is with us—the God of Jacob is our refuge! All is safe because of His Presence and all shall end gloriously because of His manifestation! The Lord bless you, in tempest and in calm, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1685 God's Non-Remembrance of Sin|← #1685]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1687 The Law Written in the Heart|#1687 →]]

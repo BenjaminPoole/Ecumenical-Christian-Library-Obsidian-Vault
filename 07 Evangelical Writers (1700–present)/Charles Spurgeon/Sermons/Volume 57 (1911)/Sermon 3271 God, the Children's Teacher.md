@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # God, the Children's Teacher
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3271
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O God, You have taught me from my youth." Psalm 71:17.
 
@@ -198,7 +195,6 @@ One other thing and I will finish. I think some dear boys and girls ought to be 
 Now we are praying for you! And John, and Mary, and William, and James, I want you to say, as this young man did, "Then it is high time we should pray for ourselves." God bless everyone of you, and bless you tonight, for Jesus Christ's sake!
 
 And I must say just this one sentence or so. The way to go to God's school is this—Jesus Christ, God's dear Son, died on the Cross to open the door into that great school. And if any of you, my dear young Friends, will trust in Jesus Christ to save you, because He died for sinners, you are then inside His school and you shall be taught and trained. And as I told you about the little ichneumon that ate the grass and was healed, so shall you have all your sins forgiven and your soul-wounds healed—and you shall go on your way rejoicing!
-
 
 ---
 [[Sermon 3270 The Truly Blessed Man|← #3270]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3272 How to Become Full of Joy|#3272 →]]

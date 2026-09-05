@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 39. Is there any thing more in his being crucified, than if he had died some other death?
-
-**Question 39. Is there any thing more in his being crucified, than if he had died some other death?**
 
 Answer. Yes, there is; for thereby I am assured that he took on him the curse which lay upon me; for the death of the cross was accursed of God.
 
-**EXPOSITION**
+## **Exposition**
 
 The death of the cross is an aggravation of the punishment of Christ, and a confirmation of our faith. For if Christ was crucified, then he has taken upon himself the curse, because the death of the cross was a figure, or sign of the curse; and not only so, but he has also endured the curse for us, inasmuch as he was righteous in himself.
 
@@ -34,7 +31,7 @@ God, therefore, willed that his Son should endure the punishment of such an igno
 
 What, therefore, is it to believe in Christ crucified? It is to believe that Christ was made subject to the curse for me; that he might deliver me therefrom.
 
-**SIXTEENTH LORD'S DAY**
+## **Sixteenth Lord's Day**
 
 ---
 [[Ursinus HC Q38|← Question 38. Why did he suffer under Pontius]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q40|Question 40. Why was it necessary for Christ →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Spiritual Convalescence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3260
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And I will strengthen them in the LORD; and they shall walk up and down in His name, says the LORD." Zechariah 10:12.
 
@@ -87,7 +84,7 @@ But there are some here, I fear, who never think of God's promises—and that is
 
 Trust Him as your Mediator, your Advocate with the Father, and you will find that God will then receive you for Christ's sake! He will strengthen you in the Lord and you shall walk up and down in His name and, by-and-by, you shall dwell with Him forever! God grant it, for Jesus' sake ! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 12:1-17.
+## Exposition by C. H. Spurgeon: Hebrews 12:1-17
 
 May the Spirit of God graciously instruct us while we read this Chapter! You know that in the 11th Chapter, the Apostle has pictured the ancient worthies and their victories. Imagine that you see them mounting in their chariots of fire up to their seats in Heaven! Behold them going from the mouths of lions, from the deserts, mountains, dens and caves of the earth up to their glorious thrones on high where they recline in ease and honor!
 
@@ -130,7 +127,6 @@ possibly, much of their own temper mixed with their chastisements. They let off 
 17\. For you know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. He never repented of his sin, but only of the consequences of it. He never sought pardon of God, but only sought to inherit the blessing. And there will be many who have lived for this world, and loved it, who, when they wake up in another world, will begin to seek the blessing, but they will be rejected! This may happen even in this world. If they only seek to die the death of the righteous and seek not the pardon of their sin, they shall hear the Lord say to them, "Because I have called, and you refused. I have stretched out My hand and no man regarded: but you have set at nothing all My counsel, and would none of My reproof, I also will laugh at your
 
 calamity. I will mock when your fear comes." [See Sermons #528, Volume 9—CHASTISEMENT—NOW AND AFTERWARDS, and #2902, Volume 50— HOLINESS DEMANDED.]
-
 
 ---
 [[Sermon 3259 Faith's Way of Approach|← #3259]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3261 The Covenant|#3261 →]]

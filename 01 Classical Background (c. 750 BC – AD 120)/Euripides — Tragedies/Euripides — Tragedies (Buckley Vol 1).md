@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # The Tragedies of Euripides
 *Volume I — Hecuba, Orestes, Phoenissae, Medea, Hippolytus, Alcestis, Bacchae, Heraclidae, Iphigenia in Aulis, Iphigenia in Tauris (trans. T. A. Buckley)*
 
@@ -19,19 +18,11 @@ tags:
 
 ---
 
-THE
-TRAGEDIES
-OF
-EURIPIDES.
-
-LITERALLY TRANSLATED OR REVISED,
-WITH CRITICAL AND EXPLANATORY NOTES,
-
 BY
 THEODORE ALOIS BUCKLEY,
 OF CHRIST CHURCH.
 
-VOL. I.
+## Vol. I
 
 HECUBA, ORESTES, PHŒNISSÆ, MEDEA, HIPPOLYTUS, ALCESTIS,
 BACCHÆ, HERACLIDÆ, IPHIGENIA IN AULIDE,
@@ -41,11 +32,9 @@ NEW YORK:
 HARPER & BROTHERS, PUBLISHERS,
 FRANKLIN SQUARE.
 
-1892.
-
        *       *       *       *       *       *
 
-PREFACE.
+## Preface
 
 The translations of the first six plays in the present volume were
 published at Oxford some years since, and have been frequently reprinted.
@@ -72,7 +61,7 @@ Bishop of Gloucester.
 
        *       *       *       *       *       *
 
-INTRODUCTION.
+## Introduction
 
        *       *       *       *
 
@@ -284,11 +273,11 @@ Notes on the Introduction
 
        *       *       *       *       *       *
 
-HECUBA.
+## Hecuba
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   GHOST OF POLYDORE.
   HECUBA.
@@ -305,7 +294,7 @@ Chersonese._
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -330,11 +319,11 @@ begin it.
 
        *       *       *       *       *
 
-HECUBA.
+## Hecuba
 
        *       *       *       *
 
-GHOST OF POLYDORE.
+## Ghost of Polydore
 
 I am present, having left the secret dwellings of the dead and the gates of
 darkness, where Pluto has his abode apart from the other Gods, Polydore the
@@ -381,7 +370,7 @@ the degree that thou wert once fortunate! but some one of the Gods
 counterpoising your state, destroys you on account of your ancient
 prosperity.
 
-HECUBA. CHORUS.
+## Hecuba. Chorus
 
 HEC. Lead onward, ye Trojan dames, the old woman before the tent; lead
 onward, raising up one now your fellow-slave, but once your queen; take me,
@@ -449,7 +438,7 @@ of the most afflicted mother, come forth, come forth from the tent, hear
 thy mother's voice, that thou mayest know what a report I hear that
 concerns thy life.
 
-HECUBA, POLYXENA, CHORUS.
+## Hecuba, Polyxena, Chorus
 
 POLYX. O mother, why dost thou call! proclaiming what new affliction hast
 thou frighted me from the tent, as some bird from its nest, with this
@@ -491,7 +480,7 @@ befallen me.
 CHOR. But see Ulysses advances with hasty step, to declare to thee, Hecuba,
 some new determination.
 
-ULYSSES, HECUBA, POLYXENA, CHORUS.
+## Ulysses, Hecuba, Polyxena, Chorus
 
 ULYSS. Lady, I imagine that you are acquainted with the decree of the army,
 and the vote which has prevailed; nevertheless, I will declare it. It has
@@ -742,7 +731,7 @@ captured by the Argive sword! but I indeed am[10] a slave in a foreign
 country, having left Asia the slave of Europe, having changed my bridal
 chamber for the grave.
 
-TALTHYBIUS, HECUBA, CHORUS.
+## Talthybius, Hecuba, Chorus
 
 TAL. Tell me, ye Trojan dames, where can I find Hecuba, late the queen of
 Troy?
@@ -865,7 +854,7 @@ elated, one of us in his gorgeous palaces; another, when honored among his
 citizens. These are nothing. In vain the counsels of the mind, and the
 tongue's boast. He is most blest, to whom from day to day no evil happens.
 
-CHORUS.
+## Chorus
 
 Against me was it fated that calamity, against me was it fated that woe
 should spring, when Paris first hewed the pine in Ida's forest, preparing
@@ -881,7 +870,7 @@ aged matron strikes her hand against her hoary head, for her children who
 have perished, and tears her cheek making her nails all blood-stained with
 her wounds.
 
-FEMALE ATTENDANT, CHORUS, HECUBA.
+## Female Attendant, Chorus, Hecuba
 
 ATT. O attendants, where, I pray, is the all-wretched Hecuba, who surpasses
 the whole race of man and woman kind in calamities? no one shall wrest from
@@ -959,7 +948,7 @@ CHOR. O hapless woman, how has the deity made thee by far the most wretched
 of mortals, whoever he be that presses heavy on thee! But, my friends, let
 us henceforward be silent, for I see our lord Agamemnon advancing.
 
-AGAMEMNON, CHORUS, HECUBA.
+## Agamemnon, Chorus, Hecuba
 
 AGA. Why, Hecuba, delayest thou to come, and bury thy girl in her tomb,
 agreeably to what Talthybius told me, that no one of the Argives should be
@@ -1164,7 +1153,7 @@ turn out well some way or other: for this is a general principle among all,
 both individuals in private and states, That the wicked man should feel
 vengeance, but the good man enjoy prosperity.
 
-CHORUS.
+## Chorus
 
 O thou, my country of Troy, no longer shall thou be called the city of the
 invincible, such a cloud of Grecians envelops thee, with the spear, with
@@ -1194,7 +1183,7 @@ destroyed me far from my native land, and hath driven me from my home. Whom
 may the ocean refuse ever to bear back again; and may she never reach again
 her paternal home.
 
-POLYMESTOR, HECUBA, CHORUS.
+## Polymestor, Hecuba, Chorus
 
 POLY. O Priam, thou dearest of men, and thou most dear Hecuba, at thy sight
 I weep for thee, and thy city, and thy daughter who has lately died. Alas!
@@ -1307,7 +1296,7 @@ entertainedst from this journey, which has brought thee, thou wretched man,
 to the deadly mansions of Pluto; but thou shalt quit thy life by no
 warrior's hand.
 
-POLYMESTOR, HECUBA, SEMICHORUS.
+## Polymestor, Hecuba, Semichorus
 
 POLY. Oh me! I wretch am deprived of the sight of mine eyes.
 
@@ -1374,7 +1363,7 @@ rush to the gloomy shore of Pluto?
 CHOR. It is pardonable, when any one suffers greater misfortunes than he
 can bear, for him to be desirous to quit a miserable life.
 
-AGAMEMNON, POLYMESTOR, HECUBA, CHORUS.
+## Agamemnon, Polymestor, Hecuba, Chorus
 
 AGA. I came having heard the clamor: for Echo, the mountain's daughter, did
 not sound in gentle strains through the army, causing a disturbance. But
@@ -1591,7 +1580,7 @@ imposed by our masters. For necessity is relentless.
 
        *       *       *       *       *
 
-NOTES ON HECUBA
+## Notes on Hecuba
 
        *       *       *       *
 
@@ -1699,7 +1688,7 @@ Peloponnesian war. Thucydides, book viii.
 
        *       *       *       *
 
-ADDITIONAL NOTES.
+## Additional Notes
 
        *       *       *       *
 
@@ -1723,11 +1712,11 @@ arrangement, as follows:
 
        *       *       *       *       *       *
 
-ORESTES.
+## Orestes
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   ELECTRA.
   HELEN.
@@ -1742,7 +1731,7 @@ PERSONS REPRESENTED.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -1789,11 +1778,11 @@ persons.
 
        *       *       *       *       *
 
-ORESTES.
+## Orestes
 
        *       *       *       *
 
-ELECTRA.
+## Electra
 
 There is no word so dreadful to relate, nor suffering, nor heaven-inflicted
 calamity, the burden of which human nature may not be compelled to bear.
@@ -1850,7 +1839,7 @@ avenue when I shall see Menelaus present, since, for the rest, we ride on
 slender power,[3] if we receive not some succor from him; the house of the
 unfortunate is an embarrassed state of affairs.
 
-ELECTRA. HELEN.
+## Electra. Helen
 
 HEL. O daughter of Clytæmnestra and Agamemnon, O Electra, thou that hast
 remained a virgin a long time. How are ye, O wretched woman, both you, and
@@ -1935,7 +1924,7 @@ wretch that I am! But my dear friends that accompany me in my lamentations
 are again present; perhaps they will disturb the sleeper from his slumber,
 and will melt my eyes in tears when I behold my brother raving.
 
-ELECTRA, CHORUS.
+## Electra, Chorus
 
 ELEC. O most dear woman, proceed with a gentle foot, make no noise, let
 there be heard no sound. For your friendliness is very kind, but to awake
@@ -2018,7 +2007,7 @@ drag out my existence forever!
 CHOR. O virgin Electra, approach near, and look that thy brother has not
 died unobserved by thee; for by this excessive quiet he doth not please me.
 
-ORESTES, ELECTRA, CHORUS.
+## Orestes, Electra, Chorus
 
 ORES. O precious balm of sleep, thou that relievest my malady, how pleasant
 didst thou come to me in the time of need! O divine oblivion of my
@@ -2167,7 +2156,7 @@ O thou that didst direct the army of a thousand vessels to Asia's land,
 hail! but thou comest hither with good fortune, having obtained the object
 of thy wishes from the Gods.
 
-MENELAUS, ORESTES, CHORUS.
+## Menelaus, Orestes, Chorus
 
 MEN. O palace, in some respect indeed I behold thee with pleasure, coming
 from Troy, but in other respect I groan when I see thee. For never yet saw
@@ -2347,7 +2336,7 @@ my wretched heart and soul, I have given no good return: what dark veil can
 I take for my countenance? what cloud can I place before me, that I may
 avoid the glances of the old man's eyes?
 
-TYNDARUS, MENELAUS, ORESTES, CHORUS.
+## Tyndarus, Menelaus, Orestes, Chorus
 
 TYND. Where, where can I see my daughter's husband Menelaus? For as I was
 pouring my libations on the tomb of Clytæmnestra, I heard that he was come
@@ -2568,7 +2557,7 @@ are about thee. For never have we approached the land of Argos by way of
 supplication; but now there is necessity for the wise to become the slaves
 of fortune.
 
-ORESTES, CHORUS.
+## Orestes, Chorus
 
 ORES. O thou, a mere cipher in other things except in warring for the sake
 of a woman; O thou most base in avenging thy friends, dost thou fly,
@@ -2580,7 +2569,7 @@ of men, Pylades, coming with hasty step from the Phocians, a pleasing
 sight, a man faithful in adversity, more grateful to behold than the calm
 to the mariners.
 
-PYLADES, ORESTES, CHORUS.
+## Pylades, Orestes, Chorus
 
 PYL. I came through the city with a quicker step than I ought, having heard
 of the council of state assembled, and seeing it plainly myself, against
@@ -2789,7 +2778,7 @@ ORES. This it is to have companions, not relationship alone; so that a man
 who is congenial in manners, though a stranger in blood, is a better friend
 for a man to have, than ten thousand relatives.
 
-CHORUS.
+## Chorus
 
 The great happiness, and the valor high sounding throughout Greece, and by
 the channels of the Simois, has again withdrawn from the fortune of the
@@ -2814,7 +2803,7 @@ account of his mother, when though seeing the breast bared from the robe of
 golden texture, he stabbed the mother in retaliation for the father's
 sufferings.
 
-ELECTRA, CHORUS.
+## Electra, Chorus
 
 ELEC. Ye virgins, has the wretched Orestes, overcome with heaven-inflicted
 madness, rushed any where from this house?
@@ -2827,7 +2816,7 @@ ELEC. Alas me! what thing has he done? but who persuaded him?
 CHOR. Pylades.--But this messenger seems soon about to inform us of what
 has passed there concerning thy brother.
 
-MESSENGER, ELECTRA, CHORUS.
+## Messenger, Electra, Chorus
 
 MESS. O wretched hapless daughter of the chief Agamemnon, revered Electra,
 hear the unfortunate words which I am come to bring.
@@ -2959,7 +2948,7 @@ and Pylades the most faithful of all, a man like a brother, supporting the
 enfeebled limbs of Orestes, walking by his side[33] with the foot of tender
 solicitude.
 
-ELECTRA, ORESTES, PYLADES, CHORUS.
+## Electra, Orestes, Pylades, Chorus
 
 ELEC. Alas me! for I bewail thee, my brother, seeing thee before the tomb,
 and before the pyre of thy departed shade: alas me! again and again, how am
@@ -3258,7 +3247,7 @@ of justice, grant us to succeed, him, and myself, and this virgin, for over
 us three friends one hazard, one cause impends, either for all to live, or
 all to die!
 
-ELECTRA, CHORUS.
+## Electra, Chorus
 
 ELEC. O dear Mycenian virgins, who have the first place at the Pelasgian
 seat of the Argives;--
@@ -3338,7 +3327,7 @@ your stations with a calm countenance, and with a color that shall not give
 evidence of what has been done. I too will preserve a pensive cast of
 countenance, as though perfectly unacquainted with what has happened.
 
-HERMIONE, ELECTRA, CHORUS.
+## Hermione, Electra, Chorus
 
 ELEC. O virgin, art thou come from crowning Clytæmnestra's tomb, and
 pouring libations to her manes?
@@ -3401,7 +3390,7 @@ of the royal mansion resound, for some one of the Phrygians comes forth,
 from whom we shall hear of the affairs within the house, in what state they
 are.
 
-PHRYGIAN, CHORUS.
+## Phrygian, Chorus
 
 PHRY. I have escaped from death by the Argive sword in these barbaric
 slippers, _climbing_ over the cedar beams of the bed and the Doric
@@ -3504,7 +3493,7 @@ rites of Helen to no purpose.
 CHOR. And see something strange succeeds to these strange things, for I see
 Orestes with his sword drawn walking before the palace with agitated step,
 
-ORESTES, PHRYGIAN, CHORUS.
+## Orestes, Phrygian, Chorus
 
 ORES. Where is he that fled from my sword out of the palace?
 
@@ -3574,7 +3563,7 @@ for the death of Helen, and is not willing to let me be in safety, and my
 sister, and Pylades my accomplice in this affair, he shall see two corses,
 both the virgin and his wife.
 
-CHORUS.
+## Chorus
 
 Alas! alas! O fate, the house of the Atridæ again falls into another,
 another fearful struggle.
@@ -3758,7 +3747,7 @@ there! come in arms to my succor? For this man here, having perpetrated the
 shocking murder of his mother, brings destruction on your whole city, that
 he may live.
 
-APOLLO.
+## Apollo
 
 Menelaus, cease from thy irritated state of mind; I Phœbus the son of
 Latona, in thy presence, am addressing thee. Thou too, Orestes, who
@@ -3823,7 +3812,7 @@ from crowning me!
 
        *       *       *       *       *
 
-NOTES ON ORESTES
+## Notes on Orestes
 
        *       *       *       *
 
@@ -3979,7 +3968,7 @@ commemoratio quasi exprobratio est immemoris benefici."
 
        *       *       *       *
 
-ADDITIONAL NOTES.
+## Additional Notes
 
        *       *       *       *
 
@@ -4004,11 +3993,11 @@ verse.
 
        *       *       *       *       *       *
 
-THE PHŒNICIAN VIRGINS.
+## The Phœnician Virgins
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   JOCASTA.
   TUTOR.
@@ -4026,7 +4015,7 @@ _The Scene is in the Court before the royal palace at Thebes_.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -4055,11 +4044,11 @@ him after his calamity.
 
        *       *       *       *       *
 
-THE PHŒNICIAN VIRGINS.
+## The Phœnician Virgins
 
        *       *       *       *
 
-JOCASTA.
+## Jocasta
 
 O thou that cuttest thy path through the constellations[1] of heaven, and
 art mounted on thy golden-joined seats, thou sun, whirling thy flame
@@ -4128,7 +4117,7 @@ come. But, O thou that inhabitest the shining clouds of heaven, Jove,
 preserve us, give reconciliation to my children; it becomes thee, if thou
 art wise, not to suffer the same man always to be unfortunate.
 
-TUTOR, ANTIGONE.
+## Tutor, Antigone
 
 TUT. O thou fair bud in thy father's house, Antigone, since thy mother has
 permitted thee to leave the virgin's apartments for the extreme chamber[7]
@@ -4258,7 +4247,7 @@ complaint, and if they find but small occasion for words, they add more,
 and it is a sort of pleasure to women, to speak nothing well-advised one of
 another.[15]
 
-CHORUS.
+## Chorus
 
 I have come, having left the Tyrian wave, the first-fruits of Loxias, from
 the sea-washed Phœnicia, a slave for the shrine of Apollo, that I might
@@ -4288,7 +4277,7 @@ gory battle, bearing which destruction from the Furies to the children of
 and vengeance from the Gods, for he rushes not his arms to this war
 unjustly, who seeks to recover his home.
 
-POLYNICES, CHORUS.
+## Polynices, Chorus
 
 POL. The bolts indeed of the gate-keepers have with ease admitted me, that
 I might come within the walls; wherefore also I fear, lest, having caught
@@ -4321,7 +4310,7 @@ land. O venerable matron, come forth quickly, open the doors; dost thou
 hear, O mother, that producedst this hero? why dost thou delay to leave thy
 lofty mansion, and to embrace thy child with thine arms?
 
-JOCASTA, POLYNICES, CHORUS.
+## Jocasta, Polynices, Chorus
 
 JOC. Hearing the Phœnician tongue, ye virgins, within this mansion, I drag
 my steps trembling with age. Ah! my son, after length of time, after
@@ -4485,7 +4474,7 @@ CHOR. And see Eteocles here comes to this mediation; thy business it is, O
 Jocasta, being their mother, to speak words, with which thou shalt
 reconcile thy children.
 
-ETEOCLES, POLYNICES, JOCASTA, CHORUS.
+## Eteocles, Polynices, Jocasta, Chorus
 
 ETEO. Mother, I am present; giving this grace to thee, I have come; what
 must I do? Let some one begin the conference. Since arranging also around
@@ -4739,7 +4728,7 @@ ETEO. Depart from out of the country; with truth indeed did your father
 give you the name of Polynices by some divine foreknowledge, a name
 corresponding with strife.
 
-CHORUS.
+## Chorus
 
 Cadmus came from Tyre to this land, before whom the quadrupede heifer bent
 with willing fall,[28] showing the accomplishment of the oracle, where the
@@ -4767,7 +4756,7 @@ where the two Goddesses Proserpine and the dear Goddess Ceres, queen of all
 fire-bearing Goddesses to defend this land: since every thing is easy to
 the Gods.
 
-ETEOCLES, CHORUS, MESSENGER.
+## Eteocles, Chorus, Messenger
 
 ETEO. Go thou, and bring hither Creon son of Menœceus, the brother of my
 mother Jocasta, saying this, that I wish to communicate with him counsels
@@ -4776,7 +4765,7 @@ country, before we go into battle and the ranks of war. And see, he spares
 the trouble of your steps, by his presence; for I see him coming toward my
 palace.
 
-CREON, ETEOCLES, CHORUS.
+## Creon, Eteocles, Chorus
 
 CRE. Surely have I visited many places, desiring to see you, O king
 Eteocles! and I have gone round to the gates and the guards of the Thebans,
@@ -4899,7 +4888,7 @@ panoply which covers me, that we may go this appointed contest of the spear
 with victorious justice. But to Caution, the most valued of the Goddesses,
 will we address our prayers to preserve this city.
 
-CHORUS.
+## Chorus
 
 O Mars, cause of infinite woe, why, I pray, art thou so possessed with
 blood and death, so discordant with the revels of Bacchus? Thou dost not in
@@ -5087,7 +5076,7 @@ hateful to those to whom he may prophesy; but speaking falsely to his
 employers from motives of pity, he is unjust as touching the Gods.--Phœbus
 alone should speak in oracles to men, who fears nobody.
 
-CREON, MENŒCEUS, CHORUS.
+## Creon, Menœceus, Chorus
 
 CHOR. Creon, why art thou mute compressing thy voice in silence, for to me
 also there is no less consternation.
@@ -5137,7 +5126,7 @@ salute[34] thy sister, whose breast I first sucked, Jocasta I mean,
 deprived of my mother, and reft from her, an orphan, I will depart and save
 my life. But haste, go, let not thy purpose be hindered.
 
-MENŒCEUS, CHORUS.
+## Menœceus, Chorus
 
 MEN. Ye females, how well removed I my father's fears, having deceived him
 with words, in order to gain my wishes; who sends me out of the way,
@@ -5187,7 +5176,7 @@ Pallas, who destroyedst the blood of the dragon by the hurled stone,
 driving the attention of Cadmus to the action, whence with rapine some
 fiend of the Gods rushed on this land.
 
-MESSENGER, JOCASTA, CHORUS.
+## Messenger, Jocasta, Chorus
 
 MESS. Ho there! who is at the gate of the palace? Open, conduct Jocasta
 from out of the house.--What ho! again--after a long time indeed, but yet
@@ -5368,7 +5357,7 @@ thy fortune suits not now the dance, nor the virgin's chamber, but it is
 thy duty, in conjunction with thy mother, to hinder two excellent men, and
 thy brothers verging toward death from falling by each other's hands.
 
-ANTIGONE, JOCASTA, CHORUS.
+## Antigone, Jocasta, Chorus
 
 ANT. With what new horrors, O mother of my being, dost thou call out to thy
 friends before the house?
@@ -5405,7 +5394,7 @@ JOC. Haste, daughter, haste, since, if indeed I reach my sons before they
 engage, I still exist in heaven's fair light, but if they die, I shall lie
 dead with them.
 
-CHORUS.
+## Chorus
 
 Alas! alas! shuddering with horror, shuddering is my breast; and through my
 flesh came pity, pity for the unhappy mother, on account of her two
@@ -5422,7 +5411,7 @@ murder because of the Furies! But I see Creon here with clouded brow
 advancing toward the house, I will cease therefore from the groans I am
 uttering.
 
-CREON, CHORUS.
+## Creon, Chorus
 
 CRE. Ah me! what shall I do? whether am I to groan in weeping myself, or
 the city, which a cloud of such magnitude encircles as to cast us amidst
@@ -5453,7 +5442,7 @@ CRE. Ah me! I see indeed this signal, the downcast eye and countenance of
 the approaching messenger, who will relate every thing that has taken
 place.
 
-MESSENGER, CREON, CHORUS.
+## Messenger, Creon, Chorus
 
 MESS. O wretched me! what language or what words can I utter? we are
 undone--
@@ -5590,7 +5579,7 @@ realms by a united death.
 
 [_The dead bodies borne_.]
 
-ANTIGONE, CREON, CHORUS.
+## Antigone, Creon, Chorus
 
 ANT. Not veiling the softness of my cheek on which my ringlets fall, nor
 caring for the purple glow of virginity under my lids, the blush of my
@@ -5619,7 +5608,7 @@ wretched age, who within thy palace having poured the gloomy darkness over
 thine eyes, draggest on a long[49] life. Dost thou hear wandering in the
 hall,--resting thy aged foot upon the couch in a state of misery?
 
-ŒDIPUS, CREON, ANTIGONE, CHORUS.
+## Œdipus, Creon, Antigone, Chorus
 
 ŒD. Why, O virgin, hast thou with the most doleful tears called me forth
 leaning on the support of a blind foot[50] to the light, a bed-ridden man
@@ -5794,7 +5783,7 @@ ANT. And I will die with him too, that thou mayest farther know.
 
 CRE. Go--thou shalt not slay my son--quit the land.
 
-ŒDIPUS, ANTIGONE, CHORUS.
+## Œdipus, Antigone, Chorus
 
 ŒD. O daughter, I praise thee indeed for thy zealous intentions.
 
@@ -5909,7 +5898,7 @@ from crowning me!] (See note [H].)
 
        *       *       *       *       *
 
-NOTES ON THE PHŒNICIAN VIRGINS
+## Notes on the Phœnician Virgins
 
        *       *       *       *
 
@@ -6122,7 +6111,7 @@ word of her father.
 
        *       *       *       *
 
-ADDITIONAL NOTES.
+## Additional Notes
 
        *       *       *       *
 
@@ -6158,11 +6147,11 @@ of an interpolator. They are, however, as old as the days of Lucian.
 
        *       *       *       *       *       *
 
-MEDEA.
+## Medea
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   NURSE.
   TUTOR.
@@ -6178,7 +6167,7 @@ _The Scene lies in the vestibule of the palace of Jason at Corinth_.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -6194,11 +6183,11 @@ there marries Ægeus son of Pandion.
 
        *       *       *       *       *
 
-MEDEA.
+## Medea
 
        *       *       *       *
 
-NURSE OF MEDEA.
+## Nurse of Medea
 
 Would that the hull of Argo had not winged her way to the Colchian land
 through the Cyanean Symplegades,[1] and that the pine felled in the forests
@@ -6235,7 +6224,7 @@ with ease at least sing the song of victory. But these her children are
 coming hither having ceased from their exercises, nothing mindful of their
 mother's ills, for the mind of youth is not wont to grieve.
 
-TUTOR, WITH THE SONS OF MEDEA, NURSE.
+## Tutor, with the Sons of Medea, Nurse
 
 TUT. O thou ancient possession of my mistress's house, why dost thou stand
 at the gates preserving thus thy solitude, bewailing to thyself our
@@ -6325,7 +6314,7 @@ is by far the best conduct for men; but excess of fortune brings more power
 to men than is convenient;[8] and has brought greater woes upon families,
 when the Deity be enraged.
 
-NURSE, CHORUS.
+## Nurse, Chorus
 
 CHOR. I heard the voice, I heard the cry of the unhappy Colchian; is not
 she yet appeased? but, O aged matron, tell me; for within the apartment
@@ -6385,7 +6374,7 @@ of oaths, daughter of Jove, who conducted her to the opposite coast of
 Greece, across the sea by night, over the salt straits of the boundless
 ocean.
 
-MEDEA, CHORUS.
+## Medea, Chorus
 
 MED. Ye Corinthian dames, I have come from out my palace; do not in any
 wise blame me; for I have known many men who have been[11] renowned, some
@@ -6431,7 +6420,7 @@ CHOR. I will do this; for with justice, Medea, wilt thou avenge thyself on
 thy husband, and I do not wonder that you lament your misfortunes. But I
 see Creon monarch of this land advancing, the messenger of new counsels.
 
-CREON, MEDEA, CHORUS.
+## Creon, Medea, Chorus
 
 CRE. Thee of gloomy countenance, and enraged with thy husband, Medea, I
 command to depart in exile from out of this land, taking with thee thy two
@@ -6528,7 +6517,7 @@ within the confines of these realms, thou shalt die: this word is spoken in
 truth. But now if thou must stay, remain here yet one day, for thou wilt
 not do any horrid deed of which I have dread.
 
-MEDEA, CHORUS.
+## Medea, Chorus
 
 CHOR. Unhappy woman! alas wretched on account of thy griefs! whither wilt
 thou turn? what hospitality, or house, or country wilt thou find a refuge
@@ -6589,7 +6578,7 @@ helpless woman hast neither father's house to afford you haven from your
 woes, and another more powerful queen of the nuptial bed rules over the
 house.
 
-JASON, MEDEA, CHORUS.
+## Jason, Medea, Chorus
 
 JAS. Not now for the first time, but often have I perceived that fierce
 anger is an irremediable ill. For though it was in your power to inhabit
@@ -6772,7 +6761,7 @@ the most dreadful anguish. Thankless may he perish who desires not to
 assist his friends, having unlocked the pure treasures of his mind; never
 shall he be friend to me.
 
-ÆGEUS, MEDEA, CHORUS.
+## Ægeus, Medea, Chorus
 
 ÆG. Medea, hail! for no one hath known a more honorable salutation to
 address to friends than this.
@@ -6926,7 +6915,7 @@ thy house, and the plans of those things, which thou anxiously keepest in
 thy mind, mayest thou bring to completion, since, Ægeus, thou hast appeared
 to us to be a noble man.
 
-MEDEA, CHORUS.
+## Medea, Chorus
 
 MED. O Jove, and thou vengeance of Jove, and thou light of the sun, now, my
 friends, shall I obtain a splendid victory over my enemies, and I have
@@ -6999,7 +6988,7 @@ endure the perpetration of the murder without tears? Thou wilt not[26] be
 able, when thy children fall suppliant at thy feet, to imbrue thy savage
 hand in their wretched life-blood.
 
-JASON, MEDEA, CHORUS.
+## Jason, Medea, Chorus
 
 JAS. I am come, by thee requested; for although thou art enraged, thou
 shalt not be deprived of this at least; but I will hear what new service
@@ -7118,7 +7107,7 @@ wretch, mother of these children, who wilt murder thy sons on account of a
 bridal-bed; deserting which, in defiance of thee, thy husband dwells with
 another wife.
 
-TUTOR, MEDEA, CHORUS.
+## Tutor, Medea, Chorus
 
 TUT. Thy sons, my mistress, are reprieved from banishment, and the royal
 bride received thy presents in her hands with pleasure, and hence is peace
@@ -7219,7 +7208,7 @@ sons, vanishes with them to the shades of darkness. How then does it profit
 that the Gods heap on mortals yet this grief in addition to others, the
 most bitter of all, for the sake of children?
 
-MEDEA, MESSENGER, CHORUS.
+## Medea, Messenger, Chorus
 
 MED. For a long time waiting for the event, my friends, I am anxiously
 expecting what will be the result thence. And I see indeed one of the
@@ -7364,7 +7353,7 @@ sea-shore, and dying with her two sons, there she perished! what then I
 pray can be more dreadful than this? O thou bed of woman, fruitful in ills,
 how many evils hast thou already brought to men!
 
-JASON, CHORUS.
+## Jason, Chorus
 
 JAS. Ye females, who stand near this mansion, is she who hath done these
 deeds of horror, Medea, in this house; or hath she withdrawn herself in
@@ -7520,7 +7509,7 @@ unthought of. In such manner hath this affair ended.
 
        *       *       *       *       *
 
-NOTES ON MEDEA
+## Notes on Medea
 
        *       *       *       *
 
@@ -7734,11 +7723,11 @@ proposed by Porson, and approved of by Elmsley.
 
        *       *       *       *       *       *
 
-HIPPOLYTUS.
+## Hippolytus
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   VENUS.
   HIPPOLYTUS.
@@ -7752,7 +7741,7 @@ PERSONS REPRESENTED.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -7788,11 +7777,11 @@ ranked among the first.
 
        *       *       *       *       *
 
-HIPPOLYTUS.
+## Hippolytus
 
        *       *       *       *
 
-VENUS.
+## Venus
 
 Great in the sight of mortals, and not without a name am I the Goddess
 Venus, and in heaven: and of as many as dwell within the ocean and the
@@ -7836,7 +7825,7 @@ behind raise a clamor, praising the Goddess Dian with hymns, for he knows
 not that the gates of hell are opened, and that this day is the last he
 beholds.
 
-HIPPOLYTUS, ATTENDANTS.
+## Hippolytus, Attendants
 
 HIPP. Follow, follow, singing the heavenly Dian, daughter of Jove; Dian,
 under whose protection we are.
@@ -7938,7 +7927,7 @@ palace before the gates; and the sad cloud upon her brows is increased.
 What it can possibly be, my soul desires to know, with what can be
 afflicted the person of the queen, of color so changed.[7]
 
-PHÆDRA, NURSE, CHORUS.
+## Phædra, Nurse, Chorus
 
 Alas! the evils of men, and their odious diseases! what shall I do for
 thee? and what not do? lo! here is the clear light for thee, here the air:
@@ -8305,7 +8294,7 @@ NUR. Let be, my child, I will arrange these matters honorably, only be thou
 my coadjutor, O Venus, my revered mistress; but the other things which I
 purpose, it will suffice to tell to my friends within.
 
-CHORUS, PHÆDRA.
+## Chorus, Phædra
 
 CHOR. Love, love, O thou that instillest desire through the eyes, inspiring
 sweet affection in the souls of those against whom thou makest war, mayst
@@ -8359,7 +8348,7 @@ CHOR. Alas me for thy miseries! Thou art betrayed, dear mistress. What
 shall I counsel thee? for hidden things are come to light, and thou art
 utterly destroyed----
 
-PHÆ. O! O!
+## Phæ. O! O!
 
 CHOR. Betrayed by thy friends.
 
@@ -8372,7 +8361,7 @@ incurable?
 PHÆ. I know not, save one thing; to die as soon as possible is the only
 cure of my present sufferings.
 
-HIPPOLYTUS, PHÆDRA, NURSE, CHORUS.
+## Hippolytus, Phædra, Nurse, Chorus
 
 HIPP. O mother earth, and ye disclosing rays of the sun, of what words have
 I heard the dreadful sound!
@@ -8450,7 +8439,7 @@ that I am always saying this. For in some way or other they surely are
 always bad. Either then let some one teach them to be modest, or else let
 him suffer me ever to utter my invectives against them.
 
-CHORUS, PHÆDRA, NURSE.
+## Chorus, Phædra, Nurse
 
 CHOR. Oh unhappy ill-fated fortune of women! what art now or what words
 have we, having failed as we have, to extricate the knot caused by [these]
@@ -8541,7 +8530,7 @@ ceiling of her bridal chamber, adjusting it to her white neck, having
 revered the hateful Goddess, and embracing an honorable name, and ridding
 from her breast the painful love.
 
-FEMALE SERVANT, CHORUS, THESEUS.
+## Female Servant, Chorus, Theseus
 
 SERV. Alack! alack! run to my succor all that are near the house--My
 mistress the wife of Theseus is hanging.
@@ -8675,7 +8664,7 @@ CHOR. And lo! thy son Hippolytus is present here opportunely, but if thou
 let go thy evil displeasure, king Theseus, thou wilt advise the best for
 thine house.
 
-HIPPOLYTUS, THESEUS, CHORUS.
+## Hippolytus, Theseus, Chorus
 
 HIPP. I heard thy cry, my father, and came in haste; the thing however, for
 which you are groaning, I know not; but would fain hear from you. Ha! what
@@ -8869,7 +8858,7 @@ time--Come youths of this land my companions, bid me farewell, and conduct
 me from the land, for never shall you see a man more chaste, even though I
 seem not to my father.
 
-CHORUS.
+## Chorus
 
 Surely the providence of the Gods, when it comes into my mind, greatly
 takes away sorrow: but cherishing in my hope some knowledge, I am utterly
@@ -8899,14 +8888,14 @@ these mansions?
 But lo! I perceive a follower of Hippolytus with a sad countenance coming
 toward the house in haste.
 
-MESSENGER, CHORUS.
+## Messenger, Chorus
 
 MESS. Ye females, whither going can I find Theseus, king of this land? If
 ye know, tell me: is he within this palace?
 
 CHOR. The [king] himself is coming out of the palace.
 
-MESSENGER, THESEUS, CHORUS.
+## Messenger, Theseus, Chorus
 
 MESS. I bring a tale that demands concern, of thee and of thy subjects,
 both those who inhabit the city of the Athenians, and the realms of the
@@ -9011,7 +9000,7 @@ inhabit the sea, and as many things as the earth nourisheth, which the sun
 doth behold scorched [with its rays,] and men: but over all these things
 thou, Venus, alone holdest sovereign rule.
 
-DIANA, THESEUS, CHORUS.
+## Diana, Theseus, Chorus
 
 DI. Thee, the noble son of Ægeus, I command to listen; but it is I, Diana,
 daughter of Latona, who am addressing thee: Theseus, wherefore dost thou,
@@ -9067,7 +9056,7 @@ CHOR. And lo! the unhappy man there is coming, all mangled his young flesh
 and auburn head. Oh the misery of the house! such double anguish coming
 down from heaven has been wrought in the palaces!
 
-HIPPOLYTUS, DIANA, THESEUS, CHORUS.
+## Hippolytus, Diana, Theseus, Chorus
 
 HIPP. O! O! O! Unhappy I was thus foully mangled by the unjust prayers of
 an unjust father--I am destroyed miserably. Ah me! ah me! Pains rush
@@ -9201,7 +9190,7 @@ rather obtain.
 
        *       *       *       *       *
 
-NOTES ON HIPPOLYTUS
+## Notes on Hippolytus
 
        *       *       *       *
 
@@ -9393,11 +9382,11 @@ effects what the presence of one does here.
 
        *       *       *       *       *       *
 
-ALCESTIS.
+## Alcestis
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   APOLLO.
   DEATH.
@@ -9411,7 +9400,7 @@ PERSONS REPRESENTED.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -9428,11 +9417,11 @@ discovered her whom he was lamenting.
 
        *       *       *       *       *
 
-ALCESTIS
+## Alcestis
 
        *       *       *       *
 
-APOLLO.
+## Apollo
 
 O mansions of Admetus, wherein I endured to acquiesce in the slave's
 table,[1] though a God; for Jove was the cause, by slaying my son
@@ -9454,7 +9443,7 @@ abode. But already I behold Death near, priest of the dead, who is about to
 bear her down to the mansions of Pluto; but he comes at the right time,
 observing this day, in the which it was destined for her to die.
 
-DEATH,[4] APOLLO.
+## Death,[4] Apollo
 
 DEA. Ah! Ah! Ah! Ah! What dost thou at the palace? why tamest here, Phœbus?
 Art thou again at thy deeds of injustice, taking away and putting an end to
@@ -9529,7 +9518,7 @@ shall descend to the house of Pluto; and I am advancing upon her, that I
 may begin the rites on her with my sword; for sacred is he to the Gods
 beneath the earth, the hair of whose head this sword hath consecrated.[8]
 
-CHORUS.
+## Chorus
 
 SEMICH. Wherefore in heaven's name is this stillness before the palace? why
 is the house of Admetus hushed in silence?
@@ -9582,7 +9571,7 @@ entertain? For all things have already been done by the king, and at the
 altars of all the Gods abound the victims dropping with blood, and no cure
 is there of these evils.
 
-CHORUS, FEMALE ATTENDANT.
+## Chorus, Female Attendant
 
 CHOR. But here comes one of the female attendants from the house, in tears;
 what shall I hear has happened? To mourn indeed, if any thing happens to
@@ -9687,7 +9676,7 @@ conjectures both from former things, and beholding this fortune of the
 king; who, when he has lost this most excellent wife, will thenceforward
 pass a life not worthy to be called life.[17]
 
-ALCESTIS, ADMETUS, EUMELUS, CHORUS.
+## Alcestis, Admetus, Eumelus, Chorus
 
 ALC. Thou Sun, and thou light of day, and ye heavenly eddies of the
 fleeting clouds--
@@ -9875,7 +9864,7 @@ the city for twelve completed moons. For none other corse more dear shall I
 inter, nor one more kind toward me. But she deserves to receive honor from
 me, seeing that she alone hath died for me.
 
-CHORUS.
+## Chorus
 
 O daughter of Pelias, farewell where thou dwellest in sunless dwelling
 within the mansions of Pluto. And let Pluto know, the God with ebon locks,
@@ -9900,7 +9889,7 @@ having died for thy husband. May it be mine to meet with another[27] such a
 dear wife; for rare in life is such a portion, for surely she would live
 with me forever without once causing pain.
 
-HERCULES, CHORUS.
+## Hercules, Chorus
 
 HER. Strangers, inhabitants of the land of Pheres, can I find Admetus
 within the palace?
@@ -9956,7 +9945,7 @@ the hand of his enemies.
 CHOR. And lo! hither comes the very man Admetus, lord of this land, from
 out of the palace.
 
-ADMETUS, HERCULES, CHORUS.
+## Admetus, Hercules, Chorus
 
 ADM. Hail! O son of Jove, and of the blood of Perseus.
 
@@ -10055,7 +10044,7 @@ aught of my sufferings. And to him[29] indeed, I ween, acting thus, I
 appear not to be wise, nor will he praise me; but my house knows not to
 drive away, nor to dishonor guests.
 
-CHORUS.
+## Chorus
 
 O greatly hospitable and ever liberal house of this man, thee even the
 Pythian Apollo, master of the lyre, deigned to inhabit, and endured to
@@ -10076,7 +10065,7 @@ disposition is prone to reverence [of the guest]. But in the good there is
 all manner of wisdom. And confidence is seated on my soul that the man who
 reveres the Gods will fare prosperously.
 
-ADMETUS, CHORUS.
+## Admetus, Chorus
 
 ADM. Ye men of Pheræ that are kindly present, my servants indeed bear
 aloft[31] the corse, having every thing fit for the tomb, and for the pyre.
@@ -10086,7 +10075,7 @@ journey.
 CHOR. And lo! I see thy father advancing with his aged foot, and attendants
 bearing in their hands adornment for thy wife, due honors of those beneath.
 
-PHERES, ADMETUS, CHORUS.
+## Pheres, Admetus, Chorus
 
 PHE. I am at present sympathizing in thy misfortunes, my son: for thou hast
 lost (no one will deny) a good and a chaste wife; but these things indeed
@@ -10223,7 +10212,7 @@ excellent, farewell! may both Mercury[39] that dwells beneath, and Pluto,
 kindly receive thee; but if there too any distinction is shown to the good,
 partaking of this mayst thou sit by the bride of Pluto.
 
-SERVANT.
+## Servant
 
 I have now known many guests, and from all parts of the earth that have
 come to the house of Admetus, to whom I have spread the feast, but never
@@ -10246,7 +10235,7 @@ mother to me, and to all the domestics, for she saved us from ten thousand
 ills, softening the anger of her husband. Do I not then justly hate this
 stranger, who is come in our miseries?
 
-HERCULES, SERVANT.
+## Hercules, Servant
 
 HER. Ho there! why dost thou look so grave and thoughtful? The servant
 ought not to be of woeful countenance before guests, but should receive
@@ -10328,7 +10317,7 @@ her?
 SERV. By the straight road that leads to Larissa, thou wilt see the
 polished tomb beyond the suburbs.
 
-HERCULES.
+## Hercules
 
 O my much-daring heart and my soul, now show what manner of son the
 Tirynthian Alcmena, daughter of Electryon, bare thee to Jove. For I must
@@ -10348,7 +10337,7 @@ noble as he was, having respect unto me. Who of the Thessalians is more
 hospitable than he? Who that dwelleth in Greece? Wherefore he shall not
 say, that he did a service to a worthless man, himself being noble.
 
-ADMETUS, CHORUS.
+## Admetus, Chorus
 
 ADM. Alas! alas! O hateful approach, and hateful prospect of this widowed
 house. Oh me! Alas! alas! whither can I go! where rest! what can I say! and
@@ -10471,7 +10460,7 @@ in olden time died for her husband, but now she is a blest divinity: Hail,
 O adored one, and be propitious!" Such words will be addressed to her.--And
 lo! here comes, as it seems, the son of Alcmena to thy house, Admetus.
 
-HERCULES, ADMETUS, CHORUS.
+## Hercules, Admetus, Chorus
 
 HER. One should speak freely to a friend, Admetus, and, not in silence keep
 within our bosoms what we blame. Now I thought myself worthy as a friend to
@@ -10685,7 +10674,7 @@ not looked for. Such hath been the event of this affair.
 
        *       *       *       *       *
 
-NOTES ON ALCESTIS
+## Notes on Alcestis
 
 [1] Lactant. i. 10. "Quid Apollo? Nonne ... turpissime gregem pavit
 alienum?" B.
@@ -10794,7 +10783,6 @@ salutation addressed to the dead. Catullus, Carm. xcvii. _Accipe fraterno
 multum manantia fletu, atque in perpetuum frater HAVE, atque VALE_." The
 same scholar compares a monument, apud Fabretti, cap. v. p. 392, n. 265,
 
-
 D. M
 AVE SALVINIA
 OMNIUM. AMAN
@@ -10880,7 +10868,7 @@ frui liceret. HEATH.
 
        *       *       *       *       *       *
 
-THE BACCHÆ.
+## The Bacchæ
 
        *       *       *       *
 
@@ -10898,7 +10886,7 @@ PERSONS REPRESENTED,
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -10917,11 +10905,11 @@ unwitting offense conclude the play.
 
        *       *       *       *       *
 
-THE BACCHÆ.[1]
+## The Bacchæ.[1]
 
        *       *       *       *
 
-BACCHUS.
+## Bacchus
 
 I, Bacchus, the son of Jove, am come to this land of the Thebans, whom
 formerly Semele, the daughter of Cadmus, brought forth, delivered by the
@@ -12210,7 +12198,7 @@ So, too, has this event turned out.[70]
 
        *       *       *       *       *
 
-NOTES ON THE BACCHÆ
+## Notes on the Bacchæ
 
        *       *       *       *
 
@@ -12474,11 +12462,11 @@ author's plays, viz. Andromacha, Helen, Medea, and Alcestis.
 
        *       *       *       *       *       *
 
-THE HERACLIDÆ.
+## The Heraclidæ
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   IOLAUS.
   COPREUS.*
@@ -12496,7 +12484,7 @@ have been supplied from the mythologists. See Elmsley on vss. 49 and 474.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -12517,11 +12505,11 @@ ends with their victory, and the capture of Eurystheus.
 
        *       *       *       *       *
 
-THE HERACLIDÆ.
+## The Heraclidæ
 
        *       *       *       *
 
-IOLAUS.
+## Iolaus
 
 This has long since been my established opinion, the just man is born for
 his neighbors; but he who has a mind bent upon gain is both useless to the
@@ -13502,7 +13490,7 @@ on our part shall be done completely for our sovereigns.
 
        *       *       *       *       *
 
-NOTES ON THE HERACLYDÆ
+## Notes on the Heraclydæ
 
        *       *       *       *
 
@@ -13603,11 +13591,11 @@ deprecetur, _et fortem_, qui mortem contemnat, _dicere licet_."
 
        *       *       *       *       *       *
 
-IPHIGENIA IN AULIS.
+## Iphigenia in Aulis
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   AGAMEMNON.
   OLD MAN.
@@ -13621,7 +13609,7 @@ PERSONS REPRESENTED.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -13639,7 +13627,7 @@ substituted in her place. The Greeks were then enabled to set sail.
 
        *       *       *       *       *
 
-IPHIGENIA IN AULIS.
+## Iphigenia in Aulis
 
        *       *       *       *
 
@@ -15336,7 +15324,7 @@ rejoicing return, having obtained for me most glorious spoils from Troy.
 
        *       *       *       *       *
 
-NOTES ON IPHIGENIA IN AULIS
+## Notes on Iphigenia in Aulis
 
        *       *       *       *
 
@@ -15684,11 +15672,11 @@ whole scene.
 
        *       *       *       *       *       *
 
-IPHIGENIA IN TAURIS.
+## Iphigenia in Tauris
 
        *       *       *       *
 
-PERSONS REPRESENTED.
+## Persons Represented
 
   IPHIGENIA.
   ORESTES.
@@ -15701,7 +15689,7 @@ PERSONS REPRESENTED.
 
        *       *       *       *       *
 
-THE ARGUMENT.
+## The Argument
 
        *       *       *       *
 
@@ -15722,11 +15710,11 @@ procuring liberty of return for the Grecian captives who form the chorus.
 
        *       *       *       *       *
 
-IPHIGENIA IN TAURIS.
+## Iphigenia in Tauris
 
        *       *       *       *
 
-IPHIGENIA.
+## Iphigenia
 
 Pelops,[1] the son of Tantalus, setting out to Pisa with his swift steeds,
 weds the daughter of Œnomaus, from whom sprang Atreus; and from Atreus his
@@ -17286,7 +17274,7 @@ cease not to crown it.[191]
 
        *       *       *       *       *
 
-NOTES ON IPHIGENIA IN TAURIS
+## Notes on Iphigenia in Tauris
 
        *       *       *       *
 

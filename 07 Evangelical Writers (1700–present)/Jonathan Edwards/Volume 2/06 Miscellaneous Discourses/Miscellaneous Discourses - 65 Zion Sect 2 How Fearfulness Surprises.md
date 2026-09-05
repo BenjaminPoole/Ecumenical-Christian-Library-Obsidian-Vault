@@ -10,8 +10,7 @@ written: "c. 1722–1758 (Edwards' private notebooks, the \"Miscellanies\")"
 tags:
   - jonathan-edwards
 ---
-
-SECT. II.
+## Sect. II
 
 *How fearfulness will hereafter surprise sinners in Zion.*
 

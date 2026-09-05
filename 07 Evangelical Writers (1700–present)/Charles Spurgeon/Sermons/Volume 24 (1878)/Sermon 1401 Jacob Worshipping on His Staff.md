@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Jacob Worshipping on His Staff
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1401
-
-DELIVERED BY.
 
 > "By faith Jacob, when he was dying, blessed both the sons of Joseph, and worshiped, leaning on the top of his staff." Hebrews 11:21.
 
@@ -108,7 +105,6 @@ Now, Christian Brothers and Sisters, I want you to live in the same spirit, feel
 "A scrip on my back, and a staff in my hand, I march on in haste through an enemy's land. There is nothing on earth which can tempt me to stay, My staff is the emblem of 'up and away.'" Singular enough is it that each descendant of Jacob came to worship on the top of his staff at last, for on the paschal supper night, when the blood was sprinkled on the lintel and the side posts, they each one ate the lamb with their loins girt and with a staff in his hand! The supper was a festival of worship and they ate it, each one leaning on his staff, as those that were in haste to leave home for a pilgrimage through the wilderness! My dear Hearers, this advice does not apply to all of you, for you are not all Jacobs, nor do you belong to the believing seed. I cannot bid you take your staff, for if you were to take your staff and start off, where would you go? You have no portion in the next world, no promised land, no Canaan flowing with milk and honey.
 
 Where will you go? You must be banished from the Presence of the Lord and from the glory of His power! Alas for you! You cannot worship, for you know not God! You cannot bless others, for you have not been blessed yourselves! May the Lord bring you to His dear Son, Jesus Christ, and lead you to put your trust in Him—and then I shall hope that being saved you will by faith imitate Jacob and both bless men, worship God and wait with your staff in your hand, ready to journey to the eternal rest!
-
 
 ---
 [[Sermon 1400 With the King for His Work!|← #1400]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1402 Lead Us Not Into Temptation|#1402 →]]

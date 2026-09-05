@@ -11,7 +11,6 @@ tags:
   - john-trapp
   - trapp-commentary
 ---
-
 # Mark 9
 
 **Ver. 1.** Shall not taste of death] Saints only taste of death; sinners are swallowed up of it, they are "killed with death," Revelation 2:23. Whereas the righteous do mori vitaliter; death is to them neither total nor perpetual, Romans 8:10,11.
@@ -39,8 +38,6 @@ tags:
 **Ver. 12.** Set at nought] Vilified and nullified mean ουτιδανος, or one that had nothing in him, εξουθενωθη. Vermis sum et non homo, I am a worm, and no man, saith the Psalmist in the person of Christ.
 
 **Ver. 13.** *[See Trapp on "Mt 17:12"]* *[See Trapp on "Mt 17:13"]*
-
-**Ver. 14.** *[See Trapp on "Mt 17:14"]* And the scribes questioning with them] Purposely to put them to shame in their Master’s absence: Marcian the heretic, for his arroding the good names of others, was called Mus Ponticus. (Tertull.) And Epiphanius fitly resembleth heretics to moles, who do all their mischief by working underground. But if once they be above ground, they are weak and contemptible creatures.
 
 **Ver. 14.** *[See Trapp on "Mt 17:14"]* And the scribes questioning with them] Purposely to put them to shame in their Master’s absence: Marcian the heretic, for his arroding the good names of others, was called Mus Ponticus. (Tertull.) And Epiphanius fitly resembleth heretics to moles, who do all their mischief by working underground. But if once they be above ground, they are weak and contemptible creatures.
 

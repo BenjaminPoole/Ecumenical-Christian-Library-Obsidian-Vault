@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 120
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Meletius, bishop of Antioch.
 

@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 13
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE THIRD CONFERENCE OF ABBOT CHAEREMON. ON THE PROTECTION OF GOD.
+## The Third Conference of Abbot Chaeremon. On the Protection of God
 
 ## Chapter 1
 

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-holiness
 ---
-
 # The Church Which Christ Builds
 
-Chapter XIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
+## Chapter XIII · *Holiness: Its Nature, Hindrances, Difficulties, and Roots* — J. C. Ryle
 
 >  *Upon this rock I will build my church, and the gates of hell shall not prevail against it*.”—Matt. xvi. 18.
 
@@ -158,7 +157,6 @@ Strive to live a *joyful* life. Live like men who look for that blessed hope—t
 The scaffolding will soon be taken down.—The last stone will soon be brought out.—The top-stone will be placed upon the edifice. Yet a little time, and the full beauty of the Church which Christ is building shall be clearly seen.
 
 The great Master Builder will soon come Himself. A building shall be shown to assembled worlds in which there shall be no imperfection. The Saviour and the saved shall rejoice together. The whole universe shall acknowledge that in the building of Christ’s Church all was well done. “Blessed”—it shall be said in that day, if it was never said before—“BLESSED ARE ALL THEY WHO BELONG TO THE CHURCH ON THE ROCK!”
-
 
 ---
 [[Holiness 12 The Ruler of the Waves|← The Ruler of the Waves]] · [[Holiness|Holiness Contents]] · [[Holiness 14 Visible Churches Warned|Visible Churches Warned →]]

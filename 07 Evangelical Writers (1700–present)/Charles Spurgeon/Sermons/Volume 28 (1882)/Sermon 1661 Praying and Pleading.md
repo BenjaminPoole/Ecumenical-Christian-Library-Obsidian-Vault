@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Praying and Pleading
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1661
-
-DELIVERED BY.
 
 > "O Lord, though our iniquities testify against us, do it for Your name's sake; for our backslidings are many. We have sinned against You. O the Hope of Israel, his Savior in time of trouble, why should You be as a stranger in the land, and as a wayfaring man that turns aside to tarry for a night? Why should You be as a man astonished, as a mighty man that cannot save? Yet You, O Lord, are in the midst of us, and we are called by Your name. Do not leave us!" Jeremiah 14:7,8,9.
 
@@ -134,7 +131,6 @@ Do you sing—
 "Depths of mercy, can there be Mercy still reserved for me"?
 
 It is reserved for you! You are the person for whom it is reserved! This deep consciousness of sin; this guilt of yours which you feel and admit points you out as the one to whom I am to say, "Return unto the Lord, for He will have mercy upon you! He will blot out your transgressions! He will change your nature! He will turn you from a sinner to a saint and glorify His name in you! God grant that you may each and all prove the exceeding riches of His Grace, for His dear name's sake. Amen.
-
 
 ---
 [[Sermon 1660 The Perpetuity of the Law of God|← #1660]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1662 The Indwelling and Outflowing of the Holy Spirit|#1662 →]]

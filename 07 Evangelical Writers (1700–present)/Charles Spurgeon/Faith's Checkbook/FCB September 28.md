@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 28
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**WORK IS DONE; REST IN HIM**
+## **Work Is Done; Rest in Him**
 
 > There remaineth therefore a rest to the people of God" Heb. 4:9
 
@@ -23,7 +22,6 @@ God has provided a Sabbath, and some must enter into it. Those to whom it was fi
 Come, then, let us labor to enter into this rest. Let us quit the weary toil of sin and self. Let us cease from all confidence, even in those works of which it might be said, "They are very good." Have we any such? Still, let us cease from our own works, as God did from His. Now let us find solace in the finished work of our Lord Jesus. Everything is fully done: justice demands no more. Great peace is our portion in Christ Jesus.
 
 As to providential matters, the work of grace in the soul, and the work of the Lord in the souls of others, let us cast these burdens upon the Lord, and rest in Him. When the Lord gives us a yoke to bear, He does so that by taking it up we may find rest. By faith we labor to enter into the rest of God, and we renounce all rest in self-satisfaction or indolence. Jesus Himself is perfect rest and we are filled to the brim in Him.
-
 
 ---
 [[FCB September 27|← September 27]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 29|September 29 →]]

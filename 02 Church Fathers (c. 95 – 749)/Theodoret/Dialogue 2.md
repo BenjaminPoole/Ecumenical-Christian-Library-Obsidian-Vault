@@ -535,7 +535,7 @@ Orth. — But was formed, after the salutation of the angel, of the Holy Ghost?
 
 Eran. — So I say.
 
-Orth. — Therefore before the union there were not two natures but only one. For if the Godhead pre- existed, but the manhood was not co-existent, being formed after the angelic salutation, and the union being coincident with the formation, then before the union there was one nature, that which exists always and existed before the ages. Now let us again consider this point. Do you understand the making of flesh or becoming man to be anything other than the union?
+Orth. — Therefore before the union there were not two natures but only one. For if the Godhead pre-existed, but the manhood was not co-existent, being formed after the angelic salutation, and the union being coincident with the formation, then before the union there was one nature, that which exists always and existed before the ages. Now let us again consider this point. Do you understand the making of flesh or becoming man to be anything other than the union?
 
 Eran. — No.
 

@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # Ion
 *Euripides · trans. Edward P. Coleridge*
 
@@ -19,9 +18,9 @@ tags:
 
 ---
 
-ION.
+## Ion
 
-DRAMATIS PERSONÆ.
+## Dramatis Personæ
 
 Hermes.
 
@@ -43,7 +42,7 @@ Athena.
 
 Scene.—Before Apollo's Temple at Delphi.
 
-ION.
+## Ion
 
 Her. Atlas, who bears upon his brazen back the pressure of the sky, ancient dwelling of the gods, begat Maia from a daughter of one of those gods, and she bare me Hermes to mighty Zeus, to be the servant of the powers divine. Lo! I am come to this land of Delphi where sits Phœbus on the centre of the world and giveth oracles to men, ever chanting lays prophetic of things that are to be. Now there is a city in Hellas of no small note, called after Pallas, goddess of the golden lance; there did Phœbus force his love on Creusa, daughter of Erechtheus, beneath the rock of Pallas, northward of Athens' steep realm, called Macræ by the kings of Attica. And she without her father's knowledge—for such was the god's good pleasure,—bore the burden in her womb unto the end, and when her time came, she brought forth a child in the house and carried him away to the self-same cave wherein the god declared his love to her, and she cradled him in the hollow of a rounded ark and cast him forth to die, observant of the custom of her ancestors and of earth-born Erichthonius, whom the daughter of Zeus gave into the charge of the daughters of Agraulus, after setting on either side, to keep him safe, a guard of serpents twain. Hence in that land among the Erechthidæ 'tis a custom to protect their babes with charms of golden snakes. But ere she left the babe to die, the young mother tied about him her own broidered robe. And this is the request that Phœbus craves of me, for he is my brother, "Go, brother, to those children of the soil that dwell in glorious Athens, for well thou knowest Athena's city, and take a new-born babe from out the hollow rock, his cradle and his swaddling-clothes as well, and bear him to my prophetic shrine at Delphi, and set him at the entering-in of my temple. What else remains shall be my care, for that child is mine, that thou mayst know it." So I, to do my brother Loxias a service, took up the woven ark and bore it off, and at the threshold of the shrine I have laid the babe, after opening the lid of the wicker cradle that the child might be seen. But just as the sun-god was starting forth to run his course, a priestess chanced to enter the god's shrine; and when her eyes lit upon the tender babe she thought it strange that any Delphian maid should dare to cast her child of shame down at the temple of the god; wherefore her purpose was to remove him beyond the altar, but from pity she renounced her cruel thought, and the god to help his child did second her pity to save the babe from being cast out. So she took and brought him up, but she knew not that Phœbus was his sire nor of the mother that bare him, nor yet did the child know his parents. While yet he was a child, around the altar that fed him he would ramble at his play, but when he came to man's estate, the Delphians made him treasurer of the god and steward of all his store, and found him true, and so until the present day he leads a holy life in the god's temple. Meantime Creusa, mother of this youth, is wedded to Xuthus; and thus it came to pass; a war broke out 'twixt Athens and the folk of Chalcodon who dwell in the land of Eubœa; and Xuthus took part therein and helped to end it, for which he received the hand of Creusa as his guerdon, albeit he was no native, but an Achæan, sprung from Æolus, the son of Zeus; and after many years of wedded life he and Creusa still are childless; wherefore they are come to this oracle of Apollo in their desire for offspring. To this end is Loxias guiding their destiny nor hath it escaped his ken, as some suppose. For when Xuthus enters this shrine, the god will give him his own son and declare that Xuthus is the sire, that so the boy may come to his mother's home and be acknowledged by Creusa, while the marriage of Loxias remains a secret and the child obtains his rights; and he shall cause him to be called Ion, founder of a realm in Asia, through all the breadth of Hellas. But now will I get me to yon grotto 'neath the laurel's shade that I may learn what is decreed about the child. For I see the son of Loxias now coming forth to cleanse the gateway in front of the temple with boughs of laurel. I greet him first of all the gods by his name Ion which he soon shall bear.
 

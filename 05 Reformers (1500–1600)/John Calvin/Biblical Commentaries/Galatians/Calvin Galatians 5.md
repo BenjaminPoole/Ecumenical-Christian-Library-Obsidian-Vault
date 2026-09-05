@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Galatians 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## Galatians 5:1-6
 

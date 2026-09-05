@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Questions and Answers Concerning Zion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2612
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What will they answer the messengers of the nation? That the LORRD has founded Zion, and the poor of His people shall trust in it." Isaiah 14:32.
 
@@ -89,7 +86,7 @@ Do you notice how sweetly is put in the text the resolve to trust in what God ha
 
 Let us, also, have this brave confidence, my Brothers and Sisters! Trust in Jehovah and be at ease concerning His Truth and cause. Let nothing daunt or disturb you. God has routed greater men than the wiseacres of the 19th Century! And when they are all swept into the nothingness from which they came, His Truth shall still live and triumph, glory be to the name of Him who sent it to us and, thereby, founded the one only Eternal City, the Church of the living God, the pillar and ground of His Truth! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH14'
+## Exposition by C. H. Spurgeon: Isaiah 14'
 
 Verse 1. For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob. This promise had a measure of fulfillment when Israel was brought back from Babylon. And it is still true that when God's people come to their worst, there is always something better before them. On the other hand, it is equally sure that when sinners come to their best, there is always something terrible awaiting them. The Apostle Paul wrote to the Romans, "God has not cast away His people which He foreknew." And his declaration agrees with this prophecy, "The Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land" I believe that there will be a far grander fulfillment of this prophecy in that day when God shall bring back His chosen people to their own country—and then shall be the fullness of blessing to the Gentiles, also. "The strangers shall be joined with them, and they shall cleave to the house of Jacob."
 
@@ -124,7 +121,6 @@ Verse 1. For the LORD will have mercy on Jacob, and will yet choose Israel, and 
 31\. Howl, O gate; cry, O city; you, Palestina, are dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times. That is the way the Babylonians would come running down from the north. No one would be able to hide himself from them, not a single person would find a shelter, or escape from their terrible adversaries.
 
 32\. What will they answer the messengers ofthe nation? That the LORD has foundedZion, and thepoor ofHispeo-ple shall trust in it. Though the passage seems dark at first, yet it is full of consolation to the people of God and is of similar import to that other gracious promise—"No weapon that is formed against you shall prosper; and every tongue that shall rise against you in judgment you shall condemn."
-
 
 ---
 [[Sermon 2611 A Lost Christ Found|← #2611]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2613 Sonship Questioned|#2613 →]]

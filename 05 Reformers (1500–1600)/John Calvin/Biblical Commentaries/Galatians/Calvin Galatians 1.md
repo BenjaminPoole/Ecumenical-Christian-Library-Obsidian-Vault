@@ -10,16 +10,15 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Galatians 1
 
-**COMMENTARIES ON THE**
+***Commentaries on The***
 
-**EPISTLE OF PAUL**
+## **Epistle of Paul**
 
-**TO THE GALATIANS.**
+## **To the Galatians.**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## Galatians 1:1-5
 

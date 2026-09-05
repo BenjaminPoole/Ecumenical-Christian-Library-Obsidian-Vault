@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # God's Overtaking Mercy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3525
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And He [the Angel of the Lord] said, Hagar, Sarah's maid, where have you come from? And where will you go? And she said, I flee from the face of my mistress Sarah." Genesis 16:8.
 
@@ -33,7 +30,7 @@ Moreover, at that moment she was leaving all that was good. She had turned her b
 
 I have been wondering in my soul, when I turned over this text, whether there would stray into this Tabernacle some kindred case, and whether, though no angel spoke, yet the voice of man might be tonight the voice of the Messenger of the Covenant to some poor soul? I know you not by name, nor face, yet I know well your feelings! It may be tonight you are sorely angry, greatly vexed, smarting, wrathful! You have made up your mind to choose the world and give up every semblance of that which is good. It may be tonight that you have lost everything that makes earth worth living in. You long for death—you would almost seek the place where the lamps quiver on the dark river, for your spirit is bitterness, itself, your lamp of hope is gone out! Oh, but it may be that this is the night when God's mighty mercy is ordained to meet with you—the very evening in which the Lord shall call out your name and you shall feel that He knows you, your case, your circumstances and that He has come to call you to Himself and you never might have been called had not these extremities of yours brought God to your rescue and to your salvation! I do not suppose that there will be anyone whose case exactly resembles that of the text, but it has sometimes happened that the turning point of human life has been the point of great sorrow, great penury and distress of mind on account of some gigantic fault, or it has been the time of some dreadful alternative put before the soul in which it seemed as though it must be God or devil that night—Heaven or Hell that night—eternal joy or eternal misery that night! On some such strange occasion as this in your mental history you have come here tonight—may God, who is here, speak with you! A singular season for mercy! Now, secondly, let us look at—
 
-II. THE MODE OF MERCY, OR THE HOME QUESTIONS WHICH THE ANGEL PUT TO HER.
+## II. The Mode of Mercy, or the Home Questions Which the Angel Put to Her
 
 She is sitting there by the well. It is in a desert. It may be a little oasis on the road, but there is no one within sight, nor any probability of any caravan passing that way. As she sits quite still, she hears a voice, "Hagar." She starts, she looks up and there is a brightness like the sun above her—it shines brighter than the sun at noonday! She can scarcely bear the light, and she hears it again, "Hagar, Sarah's maid." Whoever it is that is speaking knows who she is, and what she is, and all about her. "Where have you come from? And where will you go?" She is so startled—she has just been thinking of the place from where she came—and that dismal question had just been starting her mind. "Where will you go?" She felt that there was no place for her to go. It was only a choice of equal horror—she knew not where to go. Now remark this, that very often the Gospel call comes to the sons of men not by a voice heard by the ear, but through the ministry in the way of describing the person's case with minute accuracy. It was the Savior's way of doing it when He was on earth. The woman was by the well. The Savior spoke to her. The words did not seem to take effect. He turned the subject, and He said, "Go, call your husband and come here." "I have no husband," she said. If she could blush, she blushed then—"I have no husband." "You have said well, 'I have no husband,' for you have had five husbands, and he whom you now have is not your husband. In that you said truly." Then the shock went to her very heart! She perceived that He who spoke was something more than man. And when the Gospel fully preached describes the sinner, paints him, photographs him, holds it before him and makes him say, "Why, that is me—he speaks of me—it is even me," then it is that the soul perceives what Hagar perceived—that God saw her—and that she might look to God!
 
@@ -45,7 +42,7 @@ Oh, "where will you go?" I believe that many a man, many a woman, if they could 
 
 And now let us notice, attentively, having observed the remarkable season and the home questions, let us notice attentively—
 
-III. THE DISCOVERY AND ITS CONSEQUENCES.
+## III. The Discovery and Its Consequences
 
 The description had been so accurate—"Hagar, Sarah's maid." The questions had been so pertinent, had stuck so close to her soul—"Where have you come from? And where will you go?" that she said, "It is God, it is God that speaks to me." And there came home to her what she had often heard before, but never felt. "There is a God. God is not an impalpable somebody up there who has nothing to do with me, but there is God here, here, and He sees me! It is God that deals with me—not far away, asleep, or blind, but God sees me!" Oh, it is a glorious thing when a soul starts up to that conviction, "I am not alone, I am not friendless, after all. There is a God and a God who sees me and who takes such notice of note that He speaks to me." A man is never saved until he gets to feel something of the nearness of God, God in Christ Jesus, but yet God. Consciousness of Deity is one of the marks of salvation. Now Hagar's thoughts must have been something like this. "After all, there is Somebody that has seen me and marked all my past life, though I did not see Him. He knows everything that I have done or thought, or said, and I perceive now that He has spoken to me, that He cares about me. I thought Abraham did not care for me, Sarah was angry, and then I said, 'No man cares for my soul, and I will go away.' Now I see that God was watching me and He has cared about me, and though He did not interpose to help me just then, just when I was so bitterly oppressed, yet I know He has cared for me, for at last, when I was sitting on this well, alone, He spoke to my soul." Sinner, I pray the Holy Spirit to make just this discovery to you, that, after all, God does care about you! He who made the heavens and the earth does think of you! Though you are little, and less than nothing as compared with the bulk of His vast Creation, yet on you He sets His eyes, for you He has a care!
 
@@ -61,9 +58,9 @@ spirit is here now, some spirit driven to it by suffering, by neglect, by injust
 
 Now the most of this I daresay is not applicable to the most of you. You know I have been thinking, while preaching, that you might say I had not been preaching except to some one or two that were here. Well, I will tell you my excuse. "What man of you, if he has an hundred sheep, if he loses one, does not leave the ninety and nine, and go after that which is gone astray?" After that "gone-astray one" I have gone! And my Master, too! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 13; EPHESIANS1.
+## Exposition by C. H. Spurgeon: 1 Corinthians 13; Ephesians 1
 
-1 CORINTHIANS 13
+## 1 Corinthians 13
 
 Verse 1. Though I speak with the tongues of men and of angels, and have not charity, I have become as a sounding brass, or a tinkling symbol If there is no love to God, and no love to man, the vital element is lacking. Whatever sound we make, if the Word of God is not in us, it is a sound that has no meaning, conveys no heavenly meaning. "I have become as a sounding brass, or a tinkling cymbal." What if any of us who bears witness for Christ with our tongues should be found to be no better than this?
 
@@ -79,7 +76,7 @@ Verse 1. Though I speak with the tongues of men and of angels, and have not char
 
 13\. But the greatest of these is charity. It is the highest, the pinnacle. It is not the foundation—that is faith. Just as a rose in full bloom is greater than the stem that bears it, so, while faith is most necessary, and hope most cheering, love is the most beautiful and brightest of the three!
 
-EPHESIANS 1.
+## Ephesians 1
 
 Verse 1. Paul, an Apostle of Jesus Christ by the will of God. He was not made an Apostle by man, neither did he take the office upon himself, but he was made an Apostle by the will of God.
 
@@ -124,7 +121,6 @@ Shall safely convey me home." 15, 16. Therefore I, also, after I heard of your f
 18-21. And what the riches of the glory of His inheritance in the saints. And what is the exceeding greatness of His power to us who believe, according to the working of His mighty power which He worked in Christ, when He raised Him from the dead, andset Him at His right hand in the heavenly places. Far above all principality, andpower, andmight, and dominion, and every name that is named, not only in this world, but also in that which is to come. See how high Christ is raised! The same power that brought Christ from the dead and set Him on high, works in the salvation of every Believer! Nothing less than Omnipotence can save a soul—and Omnipotence at its very best in the glorification of Christ is none too great for the salvation of a sinner!
 
 22, 23. Andhasput all things under His feet, andgave Him to be the Head over all things to the church, which is His body, the fullness of Him that fills all-in-all May God bless to us the reading of that Chapter.
-
 
 ---
 [[Sermon 3524 'Do I Love the Lord or Not'|← #3524]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3526 The New Wine of the Kingdom|#3526 →]]

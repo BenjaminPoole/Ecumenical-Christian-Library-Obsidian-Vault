@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Resistance to Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2966
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "What have I to do with You, Jesus, You Son of the Most High God?" Mark 5:7.
 
@@ -108,7 +105,6 @@ And that led, in the last place, to this man's glorifying Christ, for he went ho
 was not a pleasant theme to me, once, any more than it is to you now. You will think I am intruding upon your privacy now that I begin to talk to you about Christ, but the fact is, I once thought Christ was intruding Himself upon me and I actually said to Him, 'Leave me alone.' But He would not leave me alone. He cast sin out of me and now I cannot leave you poor sinners alone! I must win you to Christ if I can! I must pray you to Christ or I must pray to God for you until you are saved! As though God did beseech you by me, I pray you, in Christ's stead, be you reconciled to God!"
 
 Thus have I set before you the teaching that I find in this text. May God bless it to you, dear Friends! May His gracious Spirit put into the hearts of His people the prayer that if any sinners want to be left alone, Christ would, in His great mercy, come and deal with them this very hour, casting out the spirit of unbelief and bringing them to trust in Him!" "Believe on the Lord Jesus Christ and you shall be saved." Amen, and Amen.
-
 
 ---
 [[Sermon 2965 Prepared to Meet God|← #2965]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2967 The Church's Probation|#2967 →]]

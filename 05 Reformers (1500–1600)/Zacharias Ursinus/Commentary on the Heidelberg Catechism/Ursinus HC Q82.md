@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 82. Are they also to be admitted to this supper, who, by confession and life, declare themselves infidels and ungodly?
-
-**Question 82. Are they also to be admitted to this supper, who, by confession and life, declare themselves infidels and ungodly?**
 
 Answer. No; for by this the covenant of God would be profaned, and his wrath kindled against the whole congregation; therefore it is the duty of the Christian church, according to the appointment of Christ and his apostles, to exclude such persons by the keys of the kingdom of heaven, until they show amendment of life.
 
-**EXPOSITION**
+## **Exposition**
 
 They are to be admitted to the Lord's supper by the church,
 
@@ -96,13 +93,13 @@ III. What are the points of resemblance between the Paschal Lamb and Christ?
 
 IV. Has it been abolished, and what has succeeded it?
 
-**I. WHAT WAS THE PASSOVER?**
+## **I. What Was the Passover?**
 
 The Passover was the solemn eating of a lamb, which God enjoined upon the Israelites in order, that this rite being annually observed in every family, might be a memorial to them of their deliverance from Egypt, and that it might especially declare to the faithful their spiritual deliverance from sin and death by Christ, who was to be slain upon the cross, and to be eaten by faith. Or, it was a sacrament of the ancient church, which was to be celebrated according to the command of God in every family of the Jews, by the yearly slaying and eating of a lamb a year old, that it might be a memorial to them of the great benefit of their deliverance from Egyptian bondage, and that it might also be a seal of the promise of grace touching the forgiveness of sins on account of the sacrifice of the Messiah. The Greek πασχα is derived from the Hebrew pesach, which means a passover, derived from pasach, which signifies to pass over. This sacrament and feast was so called from the passing over of the angel, who seeing the blood of the lamb sprinkled upon the upper door post of the Israelites, passed over, and spared their first born, whilst he slew all the first born of the Egyptians. The history of the institution of the passover is contained in the twelfth chapter of the book of Exodus. God commanded that the slaying of the lamb should be accompanied with certain and various rites. The lamb had to be a year old; a male without blemish; it had to be separated from the flock by the family on the tenth day of the first month called Nisan, or Abib; it was to be slain four days after, or in the evening of the fourteenth day of the same month; the blood was to be sprinkled upon the two side posts and on the upper door post of the houses of the Jews; then it was to be roasted with fire, and eaten whole, and in haste, with unleaven bread and bitter herbs. Those that ate it, stood with their loins girt, their shoes on their feet, and with their staff in hand. Of this rite the Lord said, "It is the Lord's passover." "And the blood shall be to you for a token upon the houses, where you are, that when I see the blood I may pass over you." (Ex. 12:11, 13.)
 
 This feast God commanded the Jews to celebrate with great solemnity every year, at which time seven days were devoted to its observance. "And this day shall be unto you for a memorial; and ye shall keep it a feast to the Lord, throughout your generations; ye shall keep it a feast by an ordinance for ever. Seven days shall ye eat unleavened bread," &c. (Ex. 12:14, 15; see also Ex. 12:17, 18; 23:15. Levit. 25:5. Deut. 16:1.)
 
-**II. WHAT WAS THE DESIGN OF THE PASSOVER?**
+## **II. What Was the Design of the Passover?**
 
 There are five ends specified in the twelfth chapter of Exodus, on account of which the Passover was instituted.
 
@@ -116,15 +113,15 @@ There are five ends specified in the twelfth chapter of Exodus, on account of wh
 
 5. That it might be a sacrament which would distinguish the people of God from all other nations. "There shall no stranger eat thereof." "And when a stranger shall sojourn with you, and will keep the passover of the Lord, let all his males be circumcised, and then let him come near, and keep it, and he shall be as one that is born in the land; for no uncircumcised person shall eat thereof." (Ex. 12:43, 48.)
 
-**III. WHAT ARE THE POINTS OF RESEMBLANCE BETWEEN THE PASCHAL LAMB AND CHRIST?**
+## **III. What Are the Points of Resemblance Between the Paschal Lamb and Christ?**
 
 A consideration of the resemblances between the rites which God commanded to be observed in regard to the Paschal Lamb, and Christ, contributes very much to the confirmation, and illustration of the chief end of the Passover.
 
 A comparison between the Type and the Thing signified
 
-THE TYPE WAS,
+## The Type Was
 
-THE THING SIGNIFIED IS,
+## The Thing Signified Is
 
 1. A lamb from the flock
 
@@ -178,11 +175,11 @@ THE THING SIGNIFIED IS,
 
 13. None but the regenerate eat him, and to these alone is he profitable, and they alone receive not the sacrament to their condemnation. John 6:56. Heb. 13:10. 1 Cor. 11:26.
 
-**HAS THE PASSOVER BEEN ABOLISHED?**
+## **Has the Passover Been Abolished?**
 
 That the ancient Passover, with all the other types which prefigured tha Messiah which was to come, was abolished at the coming of Christ, is evident, 1. From the whole argument of the Apostle in the Epistle to the Hebrews respecting the abolishing of the legal shadows in the New Testament. "The priesthood being changed, there is made of necessity a change also of the law." "In that he saith, A new covenant, he hath made the first old." (Heb. 7:12; 8:13.) 2. From the fulfillment or these legal shadows. "These things were done that the Scriptures might be fulfilled. A bone of him shall not be broken." "Christ our Passover is sacrificed for us." (John 19:36. 1 Cor. 5:7.) 3. From the substitution of the New Testament; for Christ, when he was about to suffer, and die and sacrifice himself as the true Passover, closed the ordinance relating to the paschal lamb with a solemn feast, and instituted and commanded his supper to be observed by the church in the place of the old passover. "With desire, I have desired to eat with you this passover, before I suffer." "This do in remembrance of me." (Luke 22:15, 19.) Christ here commands the supper, not the ancient passover, to be celebrated in remembrance of him. As baptism has, therefore, succeeded circumcision, so the Lord's supper has succeeded the passover in the New Testament.
 
-THIRTY-FIRST LORD'S DAY
+## Thirty-First Lord's Day
 
 ---
 [[Ursinus HC Q81|← Question 81. For whom is the Lord's supper i]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q83|Question 83. What are the keys of the kingdo →]]

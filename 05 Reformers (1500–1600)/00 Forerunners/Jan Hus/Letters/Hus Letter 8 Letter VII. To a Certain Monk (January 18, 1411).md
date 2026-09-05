@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 8. Letter VII. To a Certain Monk (January 18, 1411)
-
-LETTER VII. TO A CERTAIN MONK (January 18, 1411)
 
 Poverty the rule of monks ; Testimony of Gregory, Benedict,
 

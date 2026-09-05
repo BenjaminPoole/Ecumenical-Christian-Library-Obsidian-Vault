@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # A Message From God To His Church And People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 725
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 16, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 16, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "O Lord, I have heard Your speech, and was afraid: O Lord, revive Your work in the midst of the years! In the midst of the years make it known; in wrath remember mercy." Habakkuk 3:2.
 
@@ -130,7 +129,6 @@ I am not the proper prophet to take up this burden, and to utter a wailing. My t
 God, for mercy's sake, cast not off this island of the seas! Give her not up to internal distraction! Leave her not in darkness and blackness forever, but "revive Your work in the midst of the years! In the midst of the years make it known; in wrath remember mercy." While I have been addressing Christians, my object has been to bless the ungodly, too, and I do trust that some here who are not converted will enquire, "What, then, is God's voice to me?" May you be led to seek salvation, and remember you shall find it—for whoever trusts Christ shall be saved!
 
 If there is a man, woman, or child among you who will now humble himself under the hand of God and look to the crucified Savior, you shall not perish! Neither shall the wrath of God abide upon you, but you shall be found of Him in peace in the day of His appearing. God accept this humble weak testimony for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0724 His Name—The Everlasting Father|← #724]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0726 Life Eternal|#726 →]]

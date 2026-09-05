@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 10. Book III. Of the Presence of Christ, Part 6
 
 What shall I say to this so manifest untruth, but that it confirmeth that I have in other observed, how there was never one of them that I have read writing against the sacrament, but hath in his writings said somewhat so evidently in the matter, or out of the matter, diserepant from truth, as might be a certain mark to judge the quality of his spirit?
 
-CANTERBURY.
+## Canterbury
 
 Here you confess that you cited Hilary untruly, but you impute the fault to your copy. What copy you had I know not, but as well the citation of Melancthon, as all the printed books that ever I saw, have otherwise than you have written; and
 
@@ -89,7 +88,7 @@ Aéyerv, ws oddeis rjuiv cuvadeias Tis KaTa cépKa ) 4) e X , ov x ’ ) 20 =) 0
 
 In Johan. Lib. iv. eap.
 
-166 THE THIRD BOOK.
+## 166 the Third Book
 
 heretic, “but we be spiritually joined to Christ by faith and sincere charity ;
 
@@ -125,7 +124,7 @@ _ to be immortal, and have eternal life and glory with him.
 
 And thus is declared the mind as well of Cyril as of Hilarius.
 
-WINCHESTER.
+## Winchester
 
 The author saith, such answer as he made to Hilary will serve for Cyril; and indeed, to Cyril. say truth, it is made after the same sort, and hath even such an error as the other had, saving it may be excused by ignorance. For where the author travaileth here to expound the word “corporally,” which is a sore word in Cyril against this author, and therefore taketh labour to temper it with the word corporaliter in St Paul, applied to the dwelling of the divinity in Christ; and yet not content therewith, maketh further search, and would gladly have somewhat to confirm his fancy out of Cyril himself, and seeketh in Cyril where it is not to be found, and seeketh not where it is to be found: (for Cyril telleth himself plainly, what he meaneth by the word “corporally,” which place and this author had found, he might have spared a great many of words uttered by divination; but then the truth of that place hindereth and quaileth in manner all the book:) I will at my peril bring forth Cyril’s own words truly upon the 17th chapter of St John.
 
@@ -145,7 +144,7 @@ Corporaliter Filius per benedictionem mysticam nobis ut homo unitur, spiritualit
 
 — meaning simplicity, and serveth for some defence to such as be bold to use and follow his authority in this matter: as the author of the book seemeth to have followed him herein, for else the public authentic translations which be abroad, as I said, of the prints of Basil and Cologne, have no such matter; and therefore the fault of the author is to leave public truth and search matter whispered in corners. But thus much must be granted, though in the principal matter, that in the mystery of the sacrament we must exclude all grossness, and yet for the truth of Gods secret work in the sacrament grant also, that® in such as receive the sacrament, worthily, Christ dwelleth in them corporally, as Cyril saith, and naturally and carnally, V4 as Hilary saith. And with this true understanding, after the simplicity of a Christian faith, which was in these fathers, Hilary and Cyril, the contention of these three envious words, in gross capacities grossly taken, “natural,” “carnal,” and “corporal,” which carnality hath engendered, might soon be much assuaged: and this author also, considering with himself how much he hath been overseen in the understanding of them, and the speciality in this place of himself and CBeolampadius, might take occasion to repent and call home himself, who wonderfully wandereth in this matter of the sacrament, and having lost his right way, breaketh wp hedges, and leapeth over ditches, with a wonderous travail to go whither he would not, being not yet (as appeareth) determined where he would rest, by the variety of his own doctrine, as may appear in sundry places, if they be compared together.
 
-CANTERBURY.
+## Canterbury
 
 I said very truly when I said, that such answer as I made to Hilary will serve for Cyril; for so will it do indeed, although you wrangle and strive therein never so much: for Cyril and Hilary entreat both of one matter, that we be united together and with Christ, not only in will, but also in nature, and be made one, not only in consent of godly religion, but also that Christ, taking our corporal nature upon him, hath made us partakers of his godly nature, knitting us together with him unto his Father and to his holy Spirit, Now let the indifferent reader judge whether you or I be in error, and whether of us both hath most need to excuse himself of ignorance. Would God you were as ready humbly to yield in those manifest errors which be proved against you, as you be stout to take upon you a knowledge in those things, wherein ye be most ignorant! But @:Aavria® is a perilous witch.
 
@@ -187,7 +186,7 @@ the living Father sent me.” And forasmuch as Christ said, that he had flesh, a
 
 {? Discussion, 1551. ]
 
-172 THE THIRD BOOK.
+## 172 the Third Book
 
 to compass with man’s phantasy those things which be received only with a pure and simple faith ?” Where Cyril in these words reproveth Nestorius, in that he said that our sacrament is the eating of a man. Doth not he himself affirm the contrary, that our sacrament is not the eating of a man, as I said in my book? For else why should he reprehend Nestorius for saying the contrary? And doth not Cyril say also, that this sacrament “is received only with a pure and simple faith?” And yet you find fault with me, because I say that Cyril affirmeth the receiving in this sacrament to be only by faith; which your saying being so manifest contrary to Cyril's words, I refer me to the judgment of all indifferent readers, what trust is to be given to you in this matter. And as for Cicolampadins, if the printer in the stead of wapiocrov made rapiorav, and for émyeipov printed émyeipov, which may soon chance in printing, then may pvorypiov be the nominative case, notwithstanding all your vehement inveighing and vain babbling against C&colampadius.
 
@@ -217,13 +216,13 @@ It may be said of the very thing being present there, that “it is a high mirac
 
 “it is above nature to be there,” “it is an high secret mystery to be there.” But none of these speeches can be conveniently said of the only figure, that it is such a miracle, so above nature, so high a mystery to be a figure. And therefore it is no true doctrine to teach, that we may say the same of the figure, that may be said of the thing itself. And where this author speaketh of the spiritual eating, and corporal eating, he remaineth in his ignorance what the word “ corporal” meaneth, which I have opened in discussing of his answer to Cyril. 179. Faith is required in him that shall eat spertiually, and the corporal eating institute in Christ's *Of corporal mandu supper requireth the reverent use of man’s mouth, to receive our Lord’s meat and drink, his tion, lege ve own very flesh and blood, by his omnipotency prepared in that supper, which not spiritually, dium, Live that is to say, not innocently? (as St Augustine’ in one place expoundeth “ spiritually”) received, ii, am 13, 4 bringeth judgment and condemnation, according to St Paul’s words. Joan. teat
 
-CANTERBURY.
+## Canterbury
 
 Where you say that “in the old church the truth of this mystery was never impugned openly,” you say herein very truly; for the truth which I have set forth, was openly received and taught of all that were catholic without contradiction, until the papists devised a contrary doctrine. And I say further, that the untruth which you teach, was not at that time improved of no man, neither openly nor privily. For how could your doctrine be impugned in the old church, which was then neither taught nor known ?
 
 And as concerning Bertram, he did not write secretly; for he was required by Bertram. king Charles to write in this matter, and wrote therein as the doctrine of the church was at that time, or else some man would have reprehended him, which never none did before you, but make mention of his works unto his great praise and commendation.
 
-And the Massalians were not reproved for saying, that “corporal eating doth neither eMessaliani, * De iis ha- good nor hurt,” neither of Epiphanius, nor of St Augustine, nor Theodoret, nor of any betur m Hist. other ancient author that I have read. Marry, that the sacraments do neither good cap. 11. etin.
+And the Massalians were not reproved for saying, that “corporal eating doth neither eMessaliani, * De iis ha-good nor hurt,” neither of Epiphanius, nor of St Augustine, nor Theodoret, nor of any betur m Hist. other ancient author that I have read. Marry, that the sacraments do neither good cap. 11. etin.
 
 nor hurt, and namely baptism, is laid unto the Massalians’ charge; and yet the corLibs v. sap.
 
@@ -265,11 +264,11 @@ Emissen. This author saith that Emissen is shortly answered unto, and so is he, 
 
 [} Emissen’s sayings, Orig. ed. Winch. ] | [® Of the world, 1551.) [* Orig. ed. Winch. inserts this passage. ]
 
-OF THE PRESENCE OF CHRIST.
+## Of the Presence of Christ
 
 union representeth unto us the high estate of our glorification, wherein body and soul shall in the general resurrection, by a marvellous regeneration of the body, be made both spiritual, the special pledge whereof we receive in this sacrament, and therefore it is the sacrament (as Hilary saith) of perfect unity. And albeit the soul of man be more precious than the body, and the nature of the Godhead in Christ more excellent than the nature of man in him glorified, and in baptism man’s soul is regenerate in the virtue and effect of Christ’s passion and blood, Christ's Godhead present there without the real presence of his humanity; although for these respects the eaxcellency of baptism is great; yet because the mystery of the sacrament of the altar, where Christ is present both man and God, in the effectual unity that is wrought between our bodies, our souls and Christ's, in the use of this sacrament, signifieth the perfect redemption of our bodies in the general resurrection, which shall be the end and consummation of all our felicity. This sacrament of perfect wnity is the mystery of our perfect estate, when body and soul shall be all spiritual; and hath so a degree of excellency, for the dignity that is esteemed in every end and perfection: wherefore the word “ spiritual” is a necessary word *Spiritual. in this sacrament, to call it a spiritual food, as it is indeed, for it is to work in our bodies ; @ spiritual effect, not only in our souls: and Christ's body and flesh is a spiritual body and « flesh’, and yet a true body and flesh. And it is present in this sacrament after a spiritual *Spiritual manner, granted and taught of all true teachers, which we should receive also spiritually, which *Spiritually. Dé by having Christ before spiritually in us to receive it so worthily. Wherefore, like as in the invisible substance of the sacrament there is nothing carnal but all spiritual, taking the word “carnal” as it signifieth “grossly” in man’s carnal judgment: so where the receivers of that food bring carnal lusts or desires, carnal fancies or imaginations with them, they receive the same precious food unworthily to their judgment and condemnation. For they judge not truly, after the simplicity of a true Christian faith, of the very presence of Christ’s body. And this sufficeth to wipe out that this author hath spoken of Emissen against the truth.
 
-CANTERBURY.
+## Canterbury
 
 - I have so plainly answered unto Emissen in my former book, partly in this place, _ and partly in the second part of my book, that he that readeth over those two places, shall see most clearly that you have spent a great many of words here in vain, and need no further answer at all. And I had then such a care what I said, that I said nothing but according to Emissenus’ own mind, and which I proved by his own words. But if you find but one word that in speech soundeth to your purpose, you stick to that word tooth and nail, caring nothing what the author’s meaning is.
 
@@ -279,15 +278,15 @@ q But because the reader may know what you have cut off, and thereby know _ Emis
 
 182, effectus.
 
-[* Orig. ed. Winch. omits the words “ is a spi- ritual body and flesh.’*]
+[* Orig. ed. Winch. omits the words “ is a spi-ritual body and flesh.’*]
 
-[° Item Lusebius Emisenus, 6——Recedat ergo omne infidelitatis ambiguum: quandoquidem qui auctor est muneris, ipse etiam testis est veritatis. __ Nam invisibilis Sacerdos visibiles creaturas in sub_ Stantiam corporis et sanguinis sui verbo suo secreta potestate convertit, ita dicens, Accipite, et come- dite: hoe est enim corpus meum: et sanctificatione
+[° Item Lusebius Emisenus, 6——Recedat ergo omne infidelitatis ambiguum: quandoquidem qui auctor est muneris, ipse etiam testis est veritatis. __ Nam invisibilis Sacerdos visibiles creaturas in sub_ Stantiam corporis et sanguinis sui verbo suo secreta potestate convertit, ita dicens, Accipite, et comedite: hoe est enim corpus meum: et sanctificatione
 
 _ Tepetita, Accipite, et bibite: hic est sanguis meus. ___ Ergo sicut ad nutum precipientis Domini repente _ ex nihilo substiterunt excelsa ceelorum, profunda _ fluctuum, vasta terrarum : ita pari potestate in spi_ fitualibus sacramentis ubi precipit virtus, servit
 
 Quanta itaque et quam celebranda beneficia vis divine benedictionis operetur, attende: et ut tibi novum et impossibile videri non debeat, guod in Christi substantiam terrena et mortalia convertuntur, teipsum, qui jam in Christo es regeneratus, interroga: Dudum alienus a vita, peregrinus a misericordia, a salutis via intrinsecus mortuus exulabas: subito initiatus Christi legibus, et salutaribus mysteriis innovatus, in corpus ecclesie non videndo sed credendo transiluisti, et de filio perditionis adoptivus Dei filius fieri occulta puritate meruisti: in mensura visibili permanens, major factus es teipso invisibiliter, sine quantitatis augmento: cum ipse atque idem esses, multo alter fidei
 
-176 THE THIRD BOOK.
+## 176 the Third Book
 
 impossible, that earthly and incorruptible things be turned into the substance of Christ, look upon thyself which art made new in baptism. When thou wast far from life, and banished as a stranger from mercy and from the way of salvation, and inwardly wast dead, yet suddenly thou begannest another new life in Christ, and wast made new by wholesome mysteries, and wast turned into the body of the church, not by seeing, but by believing ; and of the child of damnation, by a secret pureness thou wast made the son of God. Thou visibly didst remain in the same measure that thou hadst before, but invisibly thou wast made greater, without any increase of thy body. Thou wast the self same person, and yet by increase of faith thou wast made another man. Outwardly nothing was added, but all the change was inwardly. And so was man made the son of Christ, and Christ formed in the mind of man. Therefore as thou, putting away thy former vileness, didst receive a new dignity, not feeling any change in thy body; and as the curing of thy disease, the putting away thine infection, the wiping away of thy filthiness, be not seen with thine eyes, but believed in thy mind ; so likewise when thou dost go up to the reverend altar to feed upon the spititual meat, in thy faith look upon the body and blood of him that is thy God, honour him, touch him with thy mind, take him in the hand of thy heart, and chiefly drink him with the draught of thy inward man.” These be Emissen’s own words. Upon which words I gather his meaning in his former words by you alleged. For where you bring in these words, “‘' That Christ by his secret power with his word turneth the visible creatures into the substance of his body and blood,” straightways in these words by me now rehearsed he sheweth, what manner of turning that is, and after what manner the earthly and corruptible things be turned into the substance of Christ: “even so,” saith he, “as it is in baptism,” wherein is no transubstantiation. So that I gather his meaning of his own plain words, and you gather his meaning by your own imagination, devising such phantastical things as neither Emissen saith, nor yet be catholic.
 
@@ -349,15 +348,15 @@ By which words of St Ambrose it appeareth plainly, that the bread is called by t
 
 And as the bread is a corporal meat, and corporally eaten, so, saith St Ambrose*, “is the body of Christ a spiritual meat, and spiritually eaten,” and that requireth no corporal presence.
 
-WINCHESTER.
+## Winchester
 
 As touching St Ambrose, this author taketh a great enterprise to wrestle with him, whose plain and evident words must needs be a rule to try his other words by, if any might be writhed. What can be more plainly spoken than St Ambrose speaketh, when he saith these words? “It is bread before consecration, but after it is Christ's body*.” By the word “ consecration” is signified, as it is here placed, God’s omnipotent work. Wherefore in this place it comprehendeth as much as Emissene said in these words, “he converteth by the secret power of his word.” God is the worker, and so consecration signifieth the whole action of his omnipotency in working the substance of this high mystery; and therefore the definition of the word “ consecration,” as it is generally taken, cannot be a rule to the understanding of it in this high mystery, where it is used to express a singular work, as the circumstance of St Ambrose writing doth declare. For as Philip Melancthon writeth to Gicolampadius, “St Ambrose would never have travailed to accumulate so many miracles as he doth,” speaking of this matter to declare God’s omnipotency, “and he had not thought the nature of bread to be changed in this mystery®.” These be Melancthon’s very words. Now to answer the question, as it were, at the word ’ this author shall come with a“ sacramental change,” which is a device in terms to blind the rude reader. St Ambrose doth express plainly what the change is when he writeth the words before rehearsed.
 
 “Tt is bread before the consecration, but after it is the body of Christ.” Can a change be more plainly declared? The near® way for this author had been to have joined Ambrose with Clement, and called him feigned by the papists, rather than after the effect of consecration so opened by St Ambrose himself to travail to prove what it may signify, if it were in another matter; and then to admonish the reader how the bread and wine have no holiness, which
 
-‘is Ante benedictionem verborum ccelestium spe- cies nominatur, post consecrationem corpus Christi significatur.—Ante consecrationem aliud dicitur, post consecrationem sanguis nuncupatur. Ambros. de Initiandis, cap. ult. Tom. IV. p. 166.]
+‘is Ante benedictionem verborum ccelestium species nominatur, post consecrationem corpus Christi significatur.—Ante consecrationem aliud dicitur, post consecrationem sanguis nuncupatur. Ambros. de Initiandis, cap. ult. Tom. IV. p. 166.]
 
-[? Memini sermonis mei cum de sacramentis tractarem. Dixi vobis quod ante verba Christi quod offertur panis dicatur; ubi Christi verba deprompta fuerint, jam non panis dicitur, sed Christi corpus appellatur. Quare ergo in oratione Dominica que postea sequitur, ait, Panem nostrum ? Panem qui- dem dixit, sed émr:ovcrov, hoc est supersubstantialem. Id. de Sacramentis, Lib. v. cap.iv. Tom. IV. p.175.]
+[? Memini sermonis mei cum de sacramentis tractarem. Dixi vobis quod ante verba Christi quod offertur panis dicatur; ubi Christi verba deprompta fuerint, jam non panis dicitur, sed Christi corpus appellatur. Quare ergo in oratione Dominica que postea sequitur, ait, Panem nostrum ? Panem qui-dem dixit, sed émr:ovcrov, hoc est supersubstantialem. Id. de Sacramentis, Lib. v. cap.iv. Tom. IV. p.175.]
 
 [? Id. Lib. vi. cap. i. Tom. IV. p. 176.]
 
@@ -369,7 +368,7 @@ As touching St Ambrose, this author taketh a great enterprise to wrestle with hi
 
 CANTERBURY. It is not I that wrestle with St Ambrose, but you, who take great pain to wrest his words clean contrary to his intent and meaning. But where you ask this question,
 
-What can. be more plain than these words of St Ambrose, “It is bread before consewhether eration, and after, it is Christ’s body?” these words of St Ambrose be not fully so Christ'sbody. plain as you pretend, but clean contrary. For what can be spoken either more un- plain or untrue, than to say of bread after consecration, that it is the body of Christ, _ unless the same be understand in a figurative speech? For although Christ’s body, _-4$ you say, be there after consecration, yet the bread is not his body, nor his body ____ is not made of it, by your confession. And therefore the saying of St Ambrose, that
+What can. be more plain than these words of St Ambrose, “It is bread before consewhether eration, and after, it is Christ’s body?” these words of St Ambrose be not fully so Christ'sbody. plain as you pretend, but clean contrary. For what can be spoken either more un-plain or untrue, than to say of bread after consecration, that it is the body of Christ, _ unless the same be understand in a figurative speech? For although Christ’s body, _-4$ you say, be there after consecration, yet the bread is not his body, nor his body ____ is not made of it, by your confession. And therefore the saying of St Ambrose, that
 
 _ it is Christ’s body, cannot be true in plain speech. And therefore St Ambrose in the big M See below, Book 11. chap. 11.] [° Vide supra, p. 178.] ; a) ce after, it is the body of Christ. Orig. ed. [ This word, Orig. ed. Winch.]
 
@@ -381,7 +380,7 @@ August. de peccatorum meritis et remiss.
 
 Cyprianus.
 
-180 THE THIRD BOOK.
+## 180 the Third Book
 
 same place, where he calleth it the body and blood of Christ, he saith, it is a figure of his body and blood. For these be his words: Quod est figura corporis et sanguinis Domini nostri Jesu Christi.
 
@@ -413,7 +412,7 @@ The answer to Chrysostomus,
 
 De Proditione Jude,
 
-182 THE THIRD BOOK.
+## 182 the Third Book
 
 the body and blood of Christ, this cannot be a like calling, but must needs be understand by a figurative speech. or as Christ in the scripture is called a lamb for his innocency and meekness, a lion for his might and power, a door and way, whereby we enter into his Father's house, wheat and corn for the property of dying before they rise up and bring increase; so is he called bread, and bread is called his body, and wine his blood, for the property’ of feeding and nourishing. So that these and all like speeches, (where as one substance is called by the name of another substance diverse and distinct in nature,) must needs be understand figuratively by some similitude or propriety of one substance unto another, and can in no wise be understand properly and plainly without a figure. And therefore, when Christ is called the Son of God, or bread is called bread, it is a most plain and proper speech; but when Christ is called bread, or bread is called Christ, these can in no wise be formal and proper speeches, (the substances and natures of them being so diverse,) but must needs have an understanding in figure, signification or similitude, (as the very nature of all sacraments require,) as all the old writers do plainly teach. And therefore the bread after consecration is not called Christ’s body, because it is so in deed; for then it were no figurative speech, as all the old authors say it is.
 

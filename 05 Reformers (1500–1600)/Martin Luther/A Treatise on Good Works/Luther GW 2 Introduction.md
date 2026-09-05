@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 2. Introduction
 
 **1. The Occasion of the Work.—** Luther did not impose himself as reformer upon the Church. In the course of a conscientious performance of the duties of his office, to which he had been regularly and divinely called, and without any urging on his part, he attained to this position by inward necessity. In 1515 he received his appointment as the standing substitute for the sickly city pastor, Simon Heinse, from the city council of Wittenberg. Before this time he was obliged to preach only occasionally in the convent, apart from his activity as teacher in the University and convent. Through this appointment he was in duty bound, by divine and human right, to lead and direct the congregation at Wittenberg on the true way to life, and it would have been a denial of the knowledge of salvation which God had led him to acquire, by way of ardent inner struggles, if he had led the congregation on any other way than the one God had revealed to him in His Word. He could not deny before the congregation which had been intrusted to his care, what up to this time he had taught with ever increasing clearness in his lectures at the University—for in the lectures on the Psalms, which he began to deliver in 1513, he declares his conviction that faith alone justifies, as can be seen from the complete manuscript, published since 1885, and with still greater clearness from his Commentary on the Epistle to the Romans (1515–1516), which is accessible since 1908; nor what he had urged as spiritual adviser of his convent brethren when in deep distress—compare the charming letter to Georg Spenlein, dated April 8, 1516.
@@ -54,9 +53,9 @@ Luther's contemporaries at once recognized the great importance of the Treatise,
 
 Even today this book has its peculiar mission to the Church. The seeking after self-elected works, the indolence regarding the works commanded of God, the foolish opinion, that the path of works leads to God's grace and goodwill, are even to-day widely prevalent within the kingdom of God. To all this Luther's treatise answers: Be diligent in the works of your earthly calling as commanded of God, but only after having first strengthened, by the consideration of God's mercy, the faith within you, which is the only source of all truly good works and well-pleasing to God.
 
-M. REU.
+## M. Reu
 
-WARTBURG SEMINARY, DUBUQUE, IOWA.
+## Wartburg Seminary, Dubuque, Iowa
 
 ---
 [[Luther GW 1 A Treatise on Good Works About This Book|← 1. A Treatise on Good Works About This Book]] · [[Library/protestant reformers/Martin Luther/A Treatise on Good Works/good-works-index|Contents]] · [[Luther GW 3 Dedication|3. Dedication →]]

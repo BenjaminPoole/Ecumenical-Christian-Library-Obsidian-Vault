@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 31. Matthew 4:1-4;Mark 1:12-13;Luke 4:1-4
-
-**MATTHEW 4:1-4; MARK 1:12-13; LUKE 4:1-4**
 
 **1**. Then Jesus was led into the wilderness by the Spirit, that he might be tempted by the devil; **2**. And when he had fasted forty days and forty nights, he at length was hungry. **3**. And when he who tempteth had approached to him, he said, If thou art the Son of God, command that these stones may become loaves. [^1] **4**. But he answering said, It is written, Man shall not live by bread alone, but by every word which proceedeth from the mouth of God.
 

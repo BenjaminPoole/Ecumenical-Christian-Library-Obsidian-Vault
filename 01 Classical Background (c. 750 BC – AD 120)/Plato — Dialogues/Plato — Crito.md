@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Crito
 *trans. Benjamin Jowett*
 
@@ -19,19 +18,13 @@ tags:
 
 ---
 
-CRITO
+## Crito
 
 by Plato
 
-
-
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 The Crito seems intended to exhibit the character of Socrates in one light
 only, not as the philosopher, fulfilling a divine mission and trusting in
@@ -135,8 +128,7 @@ Homer.  The personification of the Laws, and of their brethren the Laws in
 the world below, is one of the noblest and boldest figures of speech which
 occur in Plato.
 
-
-CRITO
+## Crito
 
 by
 
@@ -144,11 +136,9 @@ Plato
 
 Translated by Benjamin Jowett
 
-
 PERSONS OF THE DIALOGUE:  Socrates, Crito.
 
 SCENE:  The Prison of Socrates.
-
 
 SOCRATES:  Why have you come at this hour, Crito? it must be quite early.
 

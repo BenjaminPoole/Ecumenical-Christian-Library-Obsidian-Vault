@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Call of 'Today'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3160
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Therefore (as the Holy Spirit says) "today if you will hear His voice, harden not your hearts." Hebrews 3:7.
 
@@ -85,7 +82,7 @@ And now, this first of May, if you meet with God tonight, if you pray and believ
 
 THE HOLY SPIRIT SAYS, TODAY. Do you say, Today, too? Amen and amen!
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 3; 4:1.
+## Exposition by C. H. Spurgeon: Hebrews 3; 4:1
 
 Hebrews 3:1. Therefore, holy brethren, partaker of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus. "Therefore, holy brethren, partakers of the heavenly calling." What wonderful titles! "Holy brethren," made brethren in holiness and made holy in our brotherhood—"partakers of the heavenly calling"—called of God from among the worlds. Our occupation and our calling henceforth is to serve the Lord. Well, if you are holy brethren, partakers of the heavenly calling, "Consider the Apostle and High Priest of our profession, Christ Jesus." Think much of Him! Remember who it is you follow, with whom you are brethren! If you think little of your Leader, you will live but poor lives. Consider Him, often think of Him, try to copy Him. With such a Leader, what manner of people ought we to be?
 
@@ -114,7 +111,6 @@ Hebrews 3:1. Therefore, holy brethren, partaker of the heavenly calling, conside
 19\. So we see that they could not enter in because of unbeliel.
 
 Hebrews 4:1. Let us therefore fear, lest a promise being left of entering into His rest, any of you should seem to come short of it. I left out the, "us," because that is inserted by the translators and should not be there. The promise is left to somebody, it does not say to us—"a promise being left of entering into His rest, any of you should seem to come short of it." Not come short of it but even seemto do so. God keep us from the very shadow of sin, from the very appearance of evil. "For unto us was the Gospel preached as well as unto them." In the old time that Gospel which was preached to them was preached to us—"but the word preached did not profit them, not being mixed with faith in them that heard it." God send us this holy mixture of the hearing and the believing, to our soul's salvation, to His Glory. Amen.
-
 
 ---
 [[Sermon 3159 The Sixth Beatitude|← #3159]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3161 Positivism|#3161 →]]

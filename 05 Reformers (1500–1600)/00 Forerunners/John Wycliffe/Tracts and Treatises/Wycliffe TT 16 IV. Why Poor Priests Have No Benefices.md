@@ -10,14 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 16. IV. Why Poor Priests Have No Benefices
 
-WHY POOR PRIESTS HAVE NO BENEFICES.
+## Why Poor Priests Have No Benefices
 
-WHY POOR PRIESTS HAVE NO BENEFICES.
-
-CHAPTER THE FIBST.
+## Chapter the Fibst
 
 Some causes menen* some poor priests to receive not benefices. The first for dread of simony : the second for dread of misspending poor men's goods: the third for dread of letting^ of better occupation that is more light or easy, more certain, and more profitable on every side. For if men should come to benefices by gift of prelates, there is dread of simony ; for, commonly, they take the first-fruits or other pensions, or hold curates in ofi&ce in their courts or chapels, or other vain offices, far from priests taught and ensampled of Christ and his apostles. So that commonly such benefices come not freely, as Christ conunandeth, but rather for worldly winning,' or flattery, or praising, and thank of mighty men and lords, and not for ableness or cunning' of (rod's law, and true preaching of the Gospel, and ensample of holy life ; and therefore commonly these prelates and receivers be fouled with simony, that is cursed heresy, as God's law and man's law teacheth openly, and many saints. And great marvel it is so now, that since St. Gregory saith, in plain law of the church and other books, that such men as desire benefices should not have them, but men that flee them for dread of unableness of themselves, and great chaige, as did Moses, Jerom, Austin, Gregory, and holy saints. And now who can fast run to Rome, and bear gold out of the land, and pay it for dead lead, and a little writing, and strive and plead and curse for tithes, and other temporal profits, that be cleped' with Antichrist's clerks rights of holy church, shall
 
@@ -39,9 +36,9 @@ WHY POOR PRIESTS HAVE NO BENEFICES. 289 they make evil curates, and hold them in
 
 * knowingly.
 
-290 WHY POOR PBIBBTS HAVE NO BENWICES.
+## 290 Why Poor Pbibbts Have No Benwices
 
-CHAPTER THE SECOND.
+## Chapter the Second
 
 Yet though poor priests might freely get presentation of lords to have benefices with cure of souls, they dread of misspending of poor men^ goods. And this is more dread than the first anemptis* their own persons. For priests owen^ to hold them paid with food and hiling,' and as St. Paul teacheih : and if they hare more it is poor men^s good, as their own law, and Jerom and God's law say, and they be keepers thereof and procurators of poor men. But for institution and indnctkm he shall give much of this good that is poor men's to bishops' offices, archdeacons, and officials that be too rich, and not fi^eely come therecrf'. And when bishops and their officers come and feign to visit, though they nourish men in open sin for annual rent, and do not their office, but sell souls to Satan for money, wretched curates be needed to feast them richly, and give procuracy and synage,' yea, against God's law and man's, a63 reason, and against their conscience, and also they should not be suffered to teach truly God's law to their own subjects, and warn them of false prophets, who deceive them both in belief and teaching and good life, and earthly goods, as Christ doth in the Gospel, and commandeth curates to do the same upon pain of their damnation. For then they must cry to the people the great sins of prelates, and other new feigned religious, as God biddeth ; but they deem that such sad reprovings of sin is envy, slandering of prelates, and destroying of holy church. And they shidlen* not be suffered to do sharp executions of God's law against their subjects, be they never so openly cursed of God and slandered of Christian religion, if the high clerks of Antichrist have gifts and pensions by year to suffer cursed men in open avowtery/ and other sins. For when they be falsely amended by officials and deans, no man be hardy to waken them out of their lusts of sin, for that should destroy jurisdiction, and winning *^ of prelates ; and their cursed extortion is called *the great alms of Antichrist.' But hereby they make large kitchens, hold fat horse and hounds, and hawks, and strumpets gaily arrayed, and suffer poor men to starve for mischief, and yet suffer and constrain them to go the broad way to hell. Also many times their patrons getters of country and idle shaveldoos*
 
@@ -49,7 +46,7 @@ Yet though poor priests might freely get presentation of lords to have benefices
 
 « shall. / adultery. r profit. * flatterers.
 
-WHY POOR PRIESTS HAVE NO BENEFICES.
+## Why Poor Priests Have No Benefices
 
 will look to be feasted of such curates, and else make them lose that little thing that thej and poor men shall live by. So that they shall not spend the djmes' and ofierings after good conscience and God^s law, but waste them on such mighty and rich men, and idle, and else £at trayail, cost and enmity, and despising that they shall suffer; and on the other side, for dread of conscience therein, is better to forsake all than hold it forth. Also each good day commonly these small curates shall have letters from their ordinaries to summon, and to ctu*se poor men for nought, but for covetousness of Antichrist's clerks, and but if they not summon and curse them though they know no cause why anemptis* God's law, they shall be hurled and siunmoned from day to day, from far place to farther, or cursed, or lose their benefice or profits thereof. For else as prelates feign they by their revelry shall soon destroy prelates* jurisdiction, power, and winning. ^ Also, when poor priests first holy of life, and devout in their prayers, be beneficed ; but if they be not worldly and busy about the world, to make great feasts to rich parsons and vicars, and rich men, and costly and gaily arrayed, and their state axeth,' by fabe doom' of the world, they shall be hated and hayned/ on as hoimds, and each man to peir^ them in name and worldly goods, and so many cursed deceits hath Antichrist brought up by his worldly clerks to make curates to misspend poor men's goods, and not truly do their ofiice, or else to forsake all, and let Antichrist's clerks as lords of this world, yea, more cruelly than other tyrants, rob the poor people by feigned censures, and teach the fiend's lore,* both by open preaching and ensample of their cursed life. Also, if such curates be stirred to go learn God's law, and teach their parishioners the Gospel, conmionly they shall get no leave of bishops but for gold ; and when they shidl most profit in their learning, then shall they be clepid' home at the bishop's will. And if they shall have any high sacraments, or points of the high prelates, commonly they shall buy them with poor men's goods, both against high prelates, anemptis* rich men of country, as patrons, parsons, and other getters of country, and their own kin, for fame of the world, and for shame, and evil deeming* of men. And certes' it is a great wonder that God suffereth so long this sin unpimished openly ; namely, of prelates' courts that be dens of thieves, and larders of hell : and so of their officers that be subtle in malice and covetousness, and of lords and mighty men that shall destroy this wrong and other, and maintain truth and God's servants, and now maintain Antichrist's falseness and his clerks for part
 
@@ -63,11 +60,11 @@ r impair or injure.
 
 ' certainly.
 
-292 WHY POOR PRIESTS HAVE NO BENEFICES.
+## 292 Why Poor Priests Have No Benefices
 
 of the winning." And how simple priests durst take such benefices. But if they were mighty of cunning^ a good life, and hearty agenstond' these wrongs, and more that we may now touch for the multiplicity and subtle colouring by hypocrisy. But certes' God suffereth such hypocrites and tyrants to have name of prelates for great sins of the peo}^ and unworthiness thereof, that each part lead other to hell by blindness of the fiend. And this is a thousand^fold more vengeance that if God destroy both parts and all their goods, and earth therewith, as he did by Sodom and Gomorrah. For the longer that they live thus in sin, the greater pains shall they have in hell, but if they amend them. And this dread and many more, maketh some poor priests to receive more benefices.
 
-CHAPTER THE THIRD.
+## Chapter the Third
 
 But yet though poor priests might have freely presentation of lords, and be helped by maintaining of kings, and help of good commons from extortions of prelates and other misspending of these goods that is luU hard in this reign of Antichrist^s clerks ; yet they dread sore that by singular cure ordained of sinful men they should be letted' from better occupation, and from more profit of holy church. And this is the most dread of all as aneniptis/ their persons ; for they have cure and charge at the full of God to help their brethren to heavenward, both by teaching, praying, and ensaniple giving. And it seemeth that they shall most easily fulfil this by general cure of charity as did Christ and his apostles, though they bind them not to our singular place as a tey' dog. And by this they most sickerly* save themselves, and help their brethren : for now they be free to flee from one city to another, when they be pursued of Antichrist's clerks, as biddcth Christ in the Gospel Also now they may best without challenging of men go and dwell among the people where they shall most profit, and in convenable' time come and go after stirring of the Holy Ghost, and not be bound by sinful men's jurisdiction from the better doing. Also now they sue* Christ and liis apostles near, in thus taking alms wilfully and freely of the people that they teach, than in taking dymes' and offerings by custom that sinful men ordain, and use now in the time of grace. Also this is
 
@@ -87,7 +84,7 @@ WHY POOR PRIESTS HAVE NO BENEFICES. 293 more meedful* in both sides as they unde
 
 ' ftMurity. ' much. / profit.
 
-294 WHY POOR PRIESTS HAVE NO BENEFICS8.
+## 294 Why Poor Priests Have No Benefics 8
 
 be more like to Christ's life and his apostles, and for to profit more to their own souls and other men's, some poor priests think with God to travail about where they should most profit, by evidence that God giveth them, the while that they have time, and little bodily strength and youth. Nethless* they damn^ not curates that do well their office, 80 that they keep liberty of the Gospel, and dwell where they shall most profit, and that they teach truly and stably God's law against frlse prophets, and cursed fiends' lymes.'
 

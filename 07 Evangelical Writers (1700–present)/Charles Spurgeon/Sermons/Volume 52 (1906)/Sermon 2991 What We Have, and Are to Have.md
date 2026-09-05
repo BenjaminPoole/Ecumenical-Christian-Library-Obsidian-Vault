@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # What We Have, and Are to Have
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2991
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now our Lord Jesus Christ Himself, and God, our Father, who has loved us, and has given us everlasting consolation and good hope through Grace, comfort your hearts and establish you in every good word and work." 2 Thessalonians 2:16,17
 
@@ -134,7 +131,6 @@ Do not be turned aside from any part of your work, and especially from the bless
 I wish that my sermon had a great deal more to do with some of you than it has, for I fear that there are many here to whom I have not been speaking. Therefore, my closing message shall be to the unsaved. My dear Friend, I cannot bid you be steadfast, and I cannot talk to you of everlasting consolation, for you have not yet believed in Jesus Christ to the saving of your soul. There is an awful text of Scripture which at present applies to you. The Apostle Paul, a cool-headed and warm-hearted man who loved sinners, once wrote this—"If any man love not the Lord Jesus Christ, let him be Anathema Maranatha." That is, accursed at the coming of Christ! O my dear Friend, that is what you will be if you love not our Lord Jesus Christ! And that is what you ought to be and what the warm-hearted lover of his race, who also loves his God, feels must be and ought to be your doom if you love not the Lord Jesus Christ. Think of that and I pray that the Holy Spirit may lead you first to trust in Jesus, and then to love Him, and so you shall be saved and shall bless Him forever!—
 
 "You sinners, seek His Grace, Whose wrath you cannot bear! Fly to the shelter of His Cross And find salvation there."
-
 
 ---
 [[Sermon 2990 The Believer Not An Orphan|← #2990]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2992 God's Writing Upon Man's Heart|#2992 →]]

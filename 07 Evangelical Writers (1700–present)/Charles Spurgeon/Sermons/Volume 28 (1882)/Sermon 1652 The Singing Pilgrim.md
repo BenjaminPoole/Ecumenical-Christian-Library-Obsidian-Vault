@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Singing Pilgrim
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1652
-
-DELIVERED BY.
 
 > "Your statutes have been my songs in the house of my pilgrimage." Psalm 119:54.
 
@@ -158,7 +155,6 @@ How wonderfully it talks to us of our abode! Why, if it said no more than, "they
 Hence we know these joys by Revelation and that is the best of knowledge! The eye has not seen, but we have done with seeing with eyes when we deal with spiritual things! Our ears have not heard—these are poor deaf things. At best they only hear mortal sounds! But we have an inward function, faculty, power of hearing without ears! God does not speak in audible tones to his children and yet He speaks to them and they hear Him! We have a spirit which dispenses with fleshly faculties when it comes to dealing with God. He has revealed to us somewhat of the joy of communion with Christ; somewhat of the joy of conquered sin; somewhat of the joy of beholding His face and praising and blessing His name. We know, already, somewhat of the joy of being made like He and one with Him—and all this sets our feet on the top of Mount Clear—and puts the telescope to our eyes. And if our hand is steady, as, thank God, sometimes it is, we see the City and we long to enter it! "Your statutes have been my song in the house of my pilgrimage," because there I read of what is to be my Home when pilgrim days are over and I shall see the Master face to face!
 
 Now, dear Hearers, do you sing out of this holy Book? A country may be judged by its songs and so may an individual. Do you sing the Song of Songs? Are God's statutes royal music for you? A wise man once said that he would permit anybody to make the laws of a country if he had the making of the ballads, for these kindle the spirit and fashion the character. What do you sing, Brothers and Sisters? What do you sing? I leave that question as a heart-searching one— what do you sing? Or are you one that never sings at all? Poor Soul, how do you live here and where will you live hereafter? Where must non-singers go? God give you a singing heart and may you sing unto the Well-Beloved a song touching the Well-Beloved and keep on singing it "till the day break and the shadows flee away." God bless you. Amen.
-
 
 ---
 [[Sermon 1651 A Delusion Dispelled|← #1651]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1653 The Resurrection of Our Lord Jesus|#1653 →]]

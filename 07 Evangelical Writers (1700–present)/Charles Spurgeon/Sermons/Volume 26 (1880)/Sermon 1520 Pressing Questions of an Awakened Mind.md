@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Pressing Questions of an Awakened Mind
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1520
-
-DELIVERED BY.
 
 > "Who are You, Lord?...What will You have me to do?" Acts 9:5, 6.
 
@@ -100,7 +97,6 @@ One of my students who had been a sailor has preached the Gospel for some long t
 Now, just as we may lose some good thing by a dreadful accident or occurrence which seems to sweep over the mind like a huge wave and wash away our treasures, so by a blessed catastrophe if Christ should meet with anyone tonight— much which he has valued will be swept away! You may write on wax and may make the record fair. Take a hot iron and roll it across the wax and it is all gone. That seems to me to be just what Jesus did with Paul's heart. It was all written over with blasphemy and rebellion and He rolled the hot iron of burning love over Paul's soul and the evil inscription was all gone. He ceased to blaspheme and he began to praise!
 
 May the same be done to many here present to the praise and glory of my Master's love and power! Amen and amen!
-
 
 ---
 [[Sermon 1519 At School|← #1519]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1521 A Plain Answer to an Important Enquiry|#1521 →]]

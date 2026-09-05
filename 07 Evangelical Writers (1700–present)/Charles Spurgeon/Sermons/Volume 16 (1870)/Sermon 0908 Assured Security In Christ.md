@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Assured Security In Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 908
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 2, 1870,.
+*Delivered on Lord's-Day Morning, January 2, 1870*
 
 > "I know Whom I have believed, and am persuaded that He is able to keep that which Ihave committed unto Him against that day." 2 Timothy 1:12.
 
@@ -176,7 +175,6 @@ That vow renewed shall daily hear—
 Till in life's latest hour I bow,
 
 And bless in death a bond so dear."
-
 
 ---
 [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0909 Voices from the Excellent Glory|#909 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Our Heavenly Father's Pity
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2639
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Like as a father pities his children, so the Lord pities them that fear Him." Psalm 103:13.
 
@@ -61,7 +58,7 @@ There never was a wrong done to one of God's people that God did not avenge! The
 
 II. And now, dear Friends, leaving that part of the subject, I want you briefly to notice THE SPIRIT OF GOD'S
 
-PITY.
+## Pity
 
 There are different sorts of pity. Some I would not have at any price whatever. Did you ever see the pity of contempt? Have you not often seen a gentleman watching a poor man doing something or other, and then saying to him, "Poor fellow, I do pity you"? Have you ever seen a very respectable aristocrat who has never heard anything but the most "proper" kind of preaching, turn on his heels and go out of a Chapel door, saying, "Well, I do pity people who can listen to such stuff as that"? We have often seen that pity of contempt. But that is not God's kind of pity! He never pities His people in the way of contempt and a father never so pities his children. Sometimes, when a boy is writing a copy, a stranger goes through the school and says, "Well, he is an ignoramus," and he pities him, perhaps—but there is a sneer with his pity. But the lad's father comes into the room. The boy has just got into pot-hooks and hangers and the father thinks he makes them very well for such a little boy. He pities him, perhaps, that he is not able to write better, but there is no contempt with his pity. Nor is there any contempt with God's pity—He sees what we are and pities us—but there is not a solitary grain of contempt for any of His people in His pity.
 
@@ -81,7 +78,7 @@ Oh, that you would but fear Him! Would to God that He would make you fear Him no
 
 But they do not cease from trouble in Hell. They are troubled without pity, pained without compassion, scourged without any leniency and damned without an iota of mercy, being left to stern justice and inflexible severity! Seeing that they would not turn at God's reproof and would not heed His warnings, but cast His Truth behind their backs—seeing that, being often reproved, they hardened their necks—they were, therefore, "suddenly destroyed, and that without remedy." Seeing that they have destroyed themselves. Seeing that they have rejected the invitations of the Gospel. Seeing that they have despised the Son of God. Seeing that they have loved their own righteousness better than Christ's and preferred Hell to Heaven, the penalties of iniquity to the reward of the righteous—therefore, without pity they shall be shut away, forever, from the regions of happiness and banished from the Presence of Him who pities them that fear Him, but punishes them that fear Him not! The Lord save us all from such a terrible doom as that, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM25.
+## Exposition by C. H. Spurgeon: Psalm 25
 
 Verse 1. Unto You, O LORD, do I lift up my soul It is down and I would gladly lift it up, yet I am powerless to do so if I am left to myself. When the soul cleaves to the earth, who but God can lift it up? Yet it must be our desire and objective to seek to lift up our soul unto God.
 
@@ -124,7 +121,6 @@ Verse 1. Unto You, O LORD, do I lift up my soul It is down and I would gladly li
 21\. Let integrity and uprightness preserve me; for I wait on You. The child of God cannot hope to pass through the world safely unless he is careful to keep his integrity and his uprightness. There are some who profess to be Christians who try to get on in trade by various tricks—and they hope to win the favor of men by just bending a little to their ways. Never do so, Beloved! If you give way an inch, you will have to give way a yard or a mile before long!
 
 22\. Redeem Israel, O God, out of all his troubles. God did so Himself to Israel. Jacob, whose name was also, Israel, said, "All these things are against me." Yet God redeemed him out of his troubles! And so will the Lord do for all His people in due time, glory be unto His name, world without end! Amen.
-
 
 ---
 [[Sermon 2638 The Right Observance of the Lord's Supper|← #2638]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2640 Comforted and Comforting|#2640 →]]

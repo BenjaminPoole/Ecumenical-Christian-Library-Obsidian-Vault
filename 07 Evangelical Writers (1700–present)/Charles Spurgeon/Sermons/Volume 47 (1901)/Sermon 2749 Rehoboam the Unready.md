@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Rehoboam the Unready
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2749
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he did evil, because he did not prepare his heart to seek the Lord." 2 Chronicles 12:14.
 
@@ -55,7 +52,7 @@ This, then, was the folly of Rehoboam, that he did not begin life by seeking God
 
 II. But our text means more than that. It means, next, that REHOBOAM SHOWED NO HEART IN DOING
 
-WHAT WAS RIGHT.
+## What Was Right
 
 He did what was right at the first but he had no heart in doing it. The Prophet came to him when he had mustered his forces, and forbade him to go to war with the followers of Jeroboam—and he disbanded all his troops. That was, truly, a most worthy thing to do, and you and I, looking on at the scene, would have said, "That is a noble young prince. If he obeys the voice of a Prophet like that, surely he fears God." But he did not. He did right because from the training his father had given him, he had a high esteem for Prophets of God. He had seen his father entertain Prophets with great honor and he did not like to despise them.
 
@@ -111,7 +108,7 @@ O dear Friends, is not this Rehoboam a specimen of a great many people who are n
 
 IV. The last point involved in this description of Rehoboam is this—HE HAD NO CARE ABOUT SERVING
 
-GOD.
+## God
 
 He did not care whether he served the Lord or not and, as to serving Him in a right spirit, that never entered into his head. He never "prepared his heart." If he went to a service—well, he was there, but that was all. Some people who have come here tonight never thought of breathing a prayer before they came, nor after they entered the building. They would even venture, if we allowed them, to partake of the Communion at the Lord's Table without self-examination and without prayer—they do everything without any preparation of the heart.
 
@@ -154,7 +151,6 @@ It may be that some of you are standing, at this moment, on the very verge of ev
 "Tis done, the great transaction's done! I am my Lord's, and He is mine. He drew me, and I followed on, Charmed to confess the voice Divine!"
 
 The Lord make it so, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2748 Rest As a Test|← #2748]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2750 A Door of Hope|#2750 →]]

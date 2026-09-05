@@ -7,7 +7,6 @@ tags:
   - spurgeon
   - spurgeon-books
 ---
-
 # The Soul-Winner's Life and Work
 
 *The Soul Winner* — Charles H. Spurgeon
@@ -24,7 +23,7 @@ There are two things in the text, and these are found laid out with much distinc
 
 Let us begin at the beginning, because the second cannot be carried out without the first: without fulness of life within there cannot be an overflow of life to others. It is of no use for any of you to try to be soul-winners if you are not bearing fruit in your own lives. How can you serve the Lord with your lips if you do not serve Him with your lives? How can you preach His gospel with your tongues, when with hands, feet, and hearts you are preaching the devil's gospel, and setting up antichrist by your practical unholiness? We must first have life and bear personal fruit to the divine glory, and then out of our example will spring the conversion of others. Let us go to the fountain-head, and see how the believer's own life is essential to his being useful to others.
 
-I. THE LIFE OF THE BELIEVER IS FULL OF SOUL-BLESSING.
+## I. The Life of the Believer Is Full of Soul-Blessing
 
 This fact we shall consider by means of a few observations growing out of the text; and, first, let us remark that *the believer's outward life comes as a matter of fruit from him.* This is important to notice. "The fruit of the righteous"—that is to say, his life—is not a thing fastened upon him, but it grows out of him. It is not a garment which he puts off and on, but it is inseparable from himself. The sincere man's religion is the man himself, and not a cloak for his concealment. True godliness is the natural outgrowth of a renewed nature, not the forced growth of pious hothouse excitement. Is it not natural for a vine to bear clusters of grapes? natural for a palm tree to bear dates? Certainly, as natural as it is for the apples of Sodom to be found on the trees of Sodom, and for noxious plants to produce poisonous berries. When God gives a new nature to His people, the life which comes out of that new nature springs spontaneously from it. The man who has a religion which is not part and parcel of himself will by-and-by discover that it is worse than useless to him. The man who wears his piety like a mask at a carnival, so that, when he gets home, he changes from a saint to a savage, from an angel to a devil, from John to Judas, from a benefactor to a bully,—such a man, I say, knows very well what formalism and hypocrisy can do for him, but he has no vestige of true religion. Fig trees do not bear figs on certain days, and thorns at other times; but they are true to their nature at all seasons.
 
@@ -75,7 +74,6 @@ O you souls not won to Jesus, remember that faith in Christ saves you! Trust in 
 This book was transcribed for by David R. Heesen.
 
 . . . or go back to main page.
-
 
 ---
 [[SW The Soul-Winner's Reward|← The Soul-Winner's Reward]] · [[The Soul Winner|The Soul Winner Contents]] · [[SW Soul-Winning Explained|Soul-Winning Explained →]]

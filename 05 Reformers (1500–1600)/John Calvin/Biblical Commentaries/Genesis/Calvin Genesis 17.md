@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 17
 
-**CHAPTER 17.**
+***Chapter 17.***
 
 ## Genesis 17:1-27
 

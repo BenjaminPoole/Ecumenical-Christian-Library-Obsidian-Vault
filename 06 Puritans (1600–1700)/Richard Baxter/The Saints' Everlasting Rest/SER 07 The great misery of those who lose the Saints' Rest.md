@@ -9,12 +9,9 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # The great misery of those who lose the Saints' Rest
 
 ## CHAPTER V.
-
-**THE GREAT MISERY OF THOSE WHO LOSE THE SAINTS’ REST.**
 
 *I. The loss of heaven includes, 1. The personal perfection of the saints; 2. God himself; 3. All delightful affections towards God; 4. The blessed society of angels and glorified spirits. II. The aggravations of the loss of heaven; 1. The understanding of the ungodly will then be cleared; 2. Also enlarged. 3. Their consciences will make a true and close application. 4. Their affections will be more lively. 5. Their memories will be large and strong.*
 
@@ -53,7 +50,6 @@ It will add yet more to their torment, when they consider that *they most wilful
 The wound in their consciences will be yet deeper, when they shall not only remember it was their own doing, but that *they were at so much cost and pains for their own damnation.* What great undertakings did they engage in to effect their ruin; to resist the Spirit of God; to overcome the power of mercies, judgments, and even the word of God; to subdue the power of reason and silence conscience! All this they undertook and performed. Though they walked in continual danger of the wrath of God, and knew he could lay them in the dust, and cast them into hell in a moment; yet would they run upon all this. O the labor it costs sinners to be damned! Sobriety, with health and ease, they might have had at a cheaper rate; yet they will rather have gluttony and drunkenness, with poverty, shame, and sickness. Contentment they might have, with ease and delight; yet they will rather have covetousness and ambition, though it costs them cares and fears, labor of body and distraction of mind. Though their anger be self-torment, and revenge and envy consume their spirits; though uncleanness destroy their bodies, estates, and good names; yet will they do and suffer all this, rather than suffer their souls to be saved. With what rage will they lament their folly, and say, “Was damnation worth all this cost and pains? Might I not have been damned on free cost, but I must purchase it so dearly? I thought I could have been saved without so much ado, and could I not have been destroyed without so much ado? Must I so laboriously work out my own damnation, when God commanded me to ‘work out my own salvation?’ If I had done as much for heaven as I did for hell, I had surely had it. I cried out of the tedious way of godliness, and the painful course of self-denial; and yet I could be at a great deal more pains for Satan and for death. Had I loved Christ as strongly as I did my pleasures, and profits, and honors; and thought on him as often, and sought him as painfully, O how happy had I now been! How justly do I suffer the flames of hell for buying them so dear, rather than have heaven, when it was purchased to my hands!”
 
 O that God would persuade thee, reader, to take up these thoughts now, for preventing the inconceivable calamity of taking them up in hell as thy own tormentor! Say not that they are only imaginary. Read what Dives thought, being in torments. As the joys of heaven are chiefly enjoyed by the rational soul in its rational actings, so must the pains of hell be suffered. As they will be men still, so will they feel and act as men.
-
 
 ---
 [[SER 06 The character of the persons for whom this Rest is designed|← The character of the persons for whom this Rest is designed]] · [[The Saints' Everlasting Rest|Contents]] · [[SER 08 The misery of those who, besides losing the Saints' Rest, lose the enjoyments|The misery of those who, besides losing the Saints' Rest, lose the enjoyments of time, and suffer the torments of hell →]]

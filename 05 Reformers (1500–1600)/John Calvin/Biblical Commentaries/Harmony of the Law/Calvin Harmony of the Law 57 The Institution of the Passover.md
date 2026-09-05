@@ -11,15 +11,12 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 57. The Institution of the Passover
 
 The Ceremonial Supplements of  
 the First Commandment
 
-**The Institution of the Passover**
-
-**EXODUS 12**
+## **Exodus 12**
 
 ## Exodus 12:1-20
 

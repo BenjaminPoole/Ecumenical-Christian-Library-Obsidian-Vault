@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Seeing God's Goodness Here
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3017
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I had fainted, unless I had believed to see the goodness of the Lord in the land of the living." Psalm 27:13.
 
@@ -93,9 +90,9 @@ Let me just add that if there is such sustaining power about believing to see th
 
 If there are any of you who have never believed, let me just tell you what is necessary before I close my discourse. The way of salvation is this—Believe God's Word. Believe that your Maker cannot lie. Trust His Son, whom He has given to be the Savior of all who trust Him. And rely upon what His Word has declared—"He that believes on the Son has everlasting life." If you trust in Christ, even if you have not a fraction of other evidence of your salvation, you are a saved soul on that evidence alone! Cast yourself upon Him and you shall find that declaration to be true to you, "He that believes on the Son has everlasting life." But if you believe not, remember that this declaration is equally true, "He that believes not the Son shall not see life, but the wrath of God abides on him." May God save all of you from that awful doom, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-PSALM 27.
+## Psalm 27
 
 David is in the darkness of sorrow. His enemies are many and mighty and they make a dead set against him and seek to utterly destroy him. But he finds his comfort where every true Believer must always seek his solace, that is, in his God. Thus sweetly does the Psalmist sing.
 
@@ -139,8 +136,7 @@ Lord."
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3016 Good Cheer From Forgiven Sin|← #3016]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 3018 The True Lineage|#3018 →]]

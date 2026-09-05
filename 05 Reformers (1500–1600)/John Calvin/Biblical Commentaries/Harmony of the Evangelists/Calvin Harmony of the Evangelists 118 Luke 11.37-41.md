@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 118. Luke 11:37-41
-
-**Luke 11:37-41**
 
 **37**. And while he was speaking, a certain Pharisee requested him to dine with him; and he entered and sat down at table. **38**. And when the Pharisee saw it, he wondered that he had not first washed before dinner. **39**. And the Lord said to him, Now you Pharisees cleanse the outside of the cup and of the plate; and what is within you is full of cruelty and wickedness. **40**. Fools, did not he who made what is without make also what is within? **41**. But out of what you have [^1] give alms; and, lo, all things are clean to you.
 

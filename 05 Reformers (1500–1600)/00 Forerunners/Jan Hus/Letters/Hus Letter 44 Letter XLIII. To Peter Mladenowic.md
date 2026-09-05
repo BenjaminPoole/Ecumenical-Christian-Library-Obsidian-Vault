@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 44. Letter XLIII. To Peter Mladenowic
-
-LETTER XLIII. TO PETER MLADENOWIC
 
 (February 1415)
 

@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 62. But why cannot our good works be the whole or part of our righteousness before God?
-
-**Question 62. But why cannot our good works be the whole or part of our righteousness before God?**
 
 Answer. Because that the righteous which can be approved of before the tribunal of God, must be absolutely perfect, and in all respects conformable to the divine law, and, also, that our best works in this life are all imperfect and defiled with sin.
 
-**EXPOSITION**
+## **Exposition**
 
 Thus far we have explained, and established the true doctrine of justification by faith. We must now refute the false doctrine of the Papists, according to which we are justified by works; or partly by faith, and partly by works. This is the argument which we employ; It is necessary that that righteousness which will stand in the judgment of God must be absolutely perfect, and conformable to the law in every respect. But our best works in this life are imperfect, and defiled with sin. Therefore our best works cannot be the whole, nor even a part of our righteousness before God. The major proposition of this syllogism is proven from the law, which declares: "He that doeth these things shall live in them." "Cursed be he that confirmeth not all the words of this law to do them." (Lev. 18:5. Deut. 27:26.) The minor proposition is too plain to need any proof: for we do many things which we ought not to do, and leave many things undone, which we ought to do; yea, we mix much that is evil with the good we do; or in other words the good which we do, is done imperfectly. The complaints and daily prayers of the saints testify to the truth of this. "For give us our debts." "Enter not into judgment with thy servant, for in," &c. (Matt. 6:12. Ps. 143:2.) Therefore works which are imperfect cannot constitute perfect righteousness.
 

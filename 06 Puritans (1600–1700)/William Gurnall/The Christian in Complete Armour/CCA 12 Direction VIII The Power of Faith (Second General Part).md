@@ -9,7 +9,6 @@ tags:
   - puritans
   - william-gurnall
 ---
-
 # Direction VIII: The Power of Faith (Second General Part)
 
 ## DIRECTION VIII.—SECOND GENERAL PART. [Argument pressing the exhortation.]
@@ -386,8 +385,7 @@ And Vine notes that this Greek word is used always in the bad or evil sense.
 
 — From Vine’s: under *“covetousness,”* no. 3.
 
-— SDB
-
+## — Sdb
 
 ---
 [^1]: see vol. i p. 128
@@ -399,7 +397,6 @@ And Vine notes that this Greek word is used always in the bad or evil sense.
 [^7]: *ebullition*; violent boiling over. — SDB
 [^8]: *Refel;* an obsolete term meaning to reject, repulse.
 [^9]: *Fardel:* bundle or burden. From Webster’s — SDB
-
 
 ---
 [[CCA 11 Direction VIII The Shield of Faith, First General Part (Eph. 616)|← Direction VIII: The Shield of Faith, First General Part (Eph. 6:16)]] · [[The Christian in Complete Armour|Contents]] · [[CCA 13 Direction IX The Helmet of Salvation (Eph. 617)|Direction IX: The Helmet of Salvation (Eph. 6:17) →]]

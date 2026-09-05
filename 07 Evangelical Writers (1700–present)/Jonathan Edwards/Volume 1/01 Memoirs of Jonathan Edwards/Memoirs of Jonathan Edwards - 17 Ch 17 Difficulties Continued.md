@@ -9,10 +9,9 @@ epub_file: "works1.i.xvii.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER XVII
 
-ACCOUNT OF DIFFICULTIES AT NORTHAMPTON CONTINUED.
+*Account of Difficulties at Northampton Continued*
 
 On Friday afternoon, June 22nd, 1750, the result of the council, and the protest of the minority, were publicly read to the people assembled in the church. On the next sabbath but one, July 1st, Mr. Edwards delivered to them his *Farewell Sermon*, which was soon afterwards published, at the request of some of the hearers. This sermon has been extensively and deservedly styled, “the best farewell sermon that was ever written;” and has been the source from which subsequent discourses, on occasions and in circumstances generally similar, have, to a great extent, been substantially derived. Had it been written in the case of an indifferent person, instead of his own, it could not have discovered less of passion or of irritation, or have breathed a more calm and excellent spirit. Instead of indicating anger under a sense of multiplied injuries, it appears in every sentence to have been dictated by meekness and forgiveness. At the same time, it presents an exhibition of the scenes of the last judgment, singularly solemn and awful. Few, indeed, are the compositions which furnish so many or so unequivocal marks of uncommon excellence in their author; and very few are so well adapted to be practically useful to churches and congregations.
 

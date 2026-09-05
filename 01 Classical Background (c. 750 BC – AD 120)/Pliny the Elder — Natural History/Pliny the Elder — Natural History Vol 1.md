@@ -11,7 +11,6 @@ tags:
   - classical
   - pliny-the-elder
 ---
-
 # The Natural History
 *Volume 1*
 
@@ -36,72 +35,36 @@ corrected.
   A king of ... see B. xvi. c. 89 of the present Book.
   is incorrect, as B. xvi is to be found in Vol. III.
 
+## Bohn’s Classical Library
 
+## Pliny’s
 
+## Natural History
 
-  BOHN’S CLASSICAL LIBRARY.
+## The
 
-
-  PLINY’S
-
-  NATURAL HISTORY.
-
-
-
-
-  THE
-
-  NATURAL HISTORY
+## Natural History
 
   OF
 
-  PLINY.
+## Pliny
 
+## With Copious Notes and Illustrations
 
+## And
 
+## Late Scholar of Clare Hall, Cambridge
 
-  TRANSLATED,
+## Vol. I
 
-  WITH COPIOUS NOTES AND ILLUSTRATIONS
+## Henry G. Bohn, York Street, Covent Garden
 
-
-  BY THE LATE
-
-  JOHN BOSTOCK, M.D., F.R.S.
-
-
-  AND
-
-
-  H. T. RILEY, ESQ., B.A.,
-
-  LATE SCHOLAR OF CLARE HALL, CAMBRIDGE.
-
-
-
-
-  VOL. I.
-
-
-
-
-  LONDON:
-
-  HENRY G. BOHN, YORK STREET, COVENT GARDEN.
-
-  MDCCCLV.
-
-
-
+## MDCCCLV
 
   PRINTED BY TAYLOR AND FRANCIS,
   RED LION COURT, FLEET STREET.
 
-
-
-
-PREFACE
-
+## Preface
 
 The only translation of PLINY’S NATURAL HISTORY which has hitherto
 appeared in the English language is that by Philemon Holland, published
@@ -136,11 +99,7 @@ of Dr. Bostock’s superintendence through the press, some trifling
 oversights have occurred. These are, for the most part, corrected in a
 short Appendix.
 
-
-
-
-THE LIFE AND WRITINGS OF PLINY.
-
+## The Life and Writings of Pliny
 
 Caius Plinius Secundus was born either at Verona or Novum Comum[1],
 now Como, in Cisalpine Gaul, in the year A.U.C. 776, and A.D. 23. It
@@ -616,26 +575,19 @@ are bound to regard him as one of the most meritorious of the Roman
 writers, and among those most worthy to be reckoned in the number of
 the classics who wrote after the reign of Augustus.”
 
+## Of the First Volume
 
-
-
-CONTENTS.
-
-OF THE FIRST VOLUME.
-
-
-  BOOK I.
+## Book I
 
   DEDICATION.                                                   Page
 
   C. Plinius Secundus to his friend Titus Vespasian                1
 
+## Book II
 
-  BOOK II.
+## An Account of the World and the Elements
 
-  AN ACCOUNT OF THE WORLD AND THE ELEMENTS.
-
-  CHAP.
+## Chap
 
   1. Whether the world be finite, and whether there be more than
        one world                                                  13
@@ -881,8 +833,7 @@ OF THE FIRST VOLUME.
 
   113. The harmonical proportion of the universe                 147
 
-
-  BOOK III.
+## Book III
 
   AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
   RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
@@ -950,11 +901,7 @@ OF THE FIRST VOLUME.
 
   30. Islands of the Ionian Sea and the Adriatic                 265
 
-
-  BOOK IV.
-
-  AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
-  RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
+## Book IV
 
   1. Epirus                                                      271
 
@@ -1031,11 +978,7 @@ OF THE FIRST VOLUME.
 
   37. The general measurement of Europe                          369
 
-
-  BOOK V.
-
-  AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
-  RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
+## Book V
 
   1. The two Mauritanias                                         374
 
@@ -1125,20 +1068,13 @@ OF THE FIRST VOLUME.
 
   44. The islands of the Propontis                               496
 
+## Natural History of Pliny
 
+## Book I.[34]
 
+## Dedication
 
-NATURAL HISTORY OF PLINY
-
-
-
-
-BOOK I.[34]
-
-DEDICATION.
-
-C. PLINIUS SECUNDUS TO HIS FRIEND TITUS VESPASIAN.
-
+## C. Plinius Secundus to His Friend Titus Vespasian
 
 This treatise on Natural History, a novel work in Roman literature,
 which I have just completed, I have taken the liberty to dedicate to
@@ -1480,12 +1416,9 @@ Soranus, in his work which he entitled “On Mysteries[83].”
 
   The 37th on Gems.
 
+## Book II
 
-
-
-BOOK II.
-
-AN ACCOUNT OF THE WORLD AND THE ELEMENTS.
+## An Account of the World and the Elements
 
 [I have adopted the division of the chapters from Hardouin, as given
 in the editions of Valpy, Lemaire, Ajasson, and Sillig; the Roman
@@ -1494,12 +1427,8 @@ in Dalechamps, De Laët, Gronovius, Holland, and Poinsinet. The titles
 of the chapters are nearly the same with those in Valpy, Lemaire, and
 Ajasson.]
 
-
-
-
 CHAP. 1. (1.)—WHETHER THE WORLD BE FINITE, AND WHETHER THERE BE MORE
 THAN ONE WORLD.
-
 
 The world[86], and whatever that be which we otherwise call the
 heavens[87], by the vault of which all things are enclosed, we must
@@ -1528,11 +1457,7 @@ beyond it, as if one who is ignorant of his own dimensions could
 ascertain the measure of any thing else, or as if the human mind could
 see what the world itself cannot contain.
 
-
-
-
-CHAP. 2. (2.)—OF THE FORM OF THE WORLD[91].
-
+## Chap. 2. (2.)—of the Form of the World[91]
 
 That it has the form of a perfect globe we learn from the name which
 has been uniformly given to it, as well as from numerous natural
@@ -1544,11 +1469,7 @@ hereafter, it is continually turning round; but still more, because we
 perceive it, by the evidence of the sight, to be, in every part, convex
 and central, which could not be the case were it of any other figure.
 
-
-
-
-CHAP. 3. (3.)—OF ITS NATURE; WHENCE THE NAME IS DERIVED.
-
+## Chap. 3. (3.)—of Its Nature; Whence the Name Is Derived
 
 The rising and the setting of the sun clearly prove, that this globe
 is carried round in the space of twenty-four hours, in an eternal and
@@ -1581,11 +1502,7 @@ In confirmation of this idea we may adduce the Zodiac[99], in which
 are twelve figures of animals; through them it is that the sun has
 continued its course for so many ages.
 
-
-
-
-CHAP. 4. (5.)—OF THE ELEMENTS[100] AND THE PLANETS[101].
-
+## Chap. 4. (5.)—of the Elements[100] and the Planets[101]
 
 I do not find that any one has doubted that there are four elements.
 The highest of these is supposed to be fire, and hence proceed the
@@ -1619,11 +1536,7 @@ other stars[107]. He is most illustrious and excellent, beholding all
 things and hearing all things, which, I perceive, is ascribed to him
 exclusively by the prince of poets, Homer[108].
 
-
-
-
-CHAP. 5. (7.)—OF GOD[109].
-
+## Chap. 5. (7.)—of God[109]
 
 I consider it, therefore, an indication of human weakness to inquire
 into the figure and form of God. For whatever God be, if there be any
@@ -1737,11 +1650,7 @@ is not foreign to the subject to have digressed into these matters,
 familiar as they are to every one, from the continual discussions that
 take place respecting God[131].
 
-
-
-
-CHAP. 6. (8.)—OF THE NATURE OF THE STARS; OF THE MOTION OF THE PLANETS.
-
+## Chap. 6. (8.)—of the Nature of the Stars; Of the Motion of the Planets
 
 Let us return from this digression to the other parts of nature. The
 stars which are described as fixed in the heavens[132], are not, as the
@@ -1889,11 +1798,7 @@ all the phenomena of nature, and which are like prodigies, serve to
 indicate the magnitude of these bodies and the shadow[173] which they
 cast.
 
-
-
-
-CHAP. 7.—OF THE ECLIPSES OF THE MOON AND THE SUN.
-
+## Chap. 7.—of the Eclipses of the Moon and the Sun
 
 For it is evident that the sun is hid by the intervention[174] of the
 moon, and the moon by the opposition[174] of the earth, and that these
@@ -1917,11 +1822,7 @@ and the irregularly wandering course of the moon, as stated above;
 besides that the motions of these stars do not always occur exactly at
 the same points[177].
 
-
-
-
-CHAP. 8. (11.)—OF THE MAGNITUDE OF THE STARS.
-
+## Chap. 8. (11.)—of the Magnitude of the Stars
 
 This kind of reasoning carries the human mind to the heavens, and by
 contemplating the world as it were from thence, it discloses to us the
@@ -1961,12 +1862,8 @@ the darkness of the nights the earth may be refreshed, which otherwise
 would be burned up, as indeed it is in certain parts; so great is his
 size.
 
-
-
-
 CHAP. 9. (12.)—AN ACCOUNT OF THE OBSERVATIONS THAT HAVE BEEN MADE ON
 THE HEAVENS BY DIFFERENT INDIVIDUALS.
-
 
 The first among the Romans, who explained to the people at large the
 cause of the two kinds of eclipses, was Sulpicius Gallus, who was
@@ -2006,12 +1903,8 @@ profound argument, nor is it less wonderful to be able to suggest a
 probable cause for everything, than to give a complete account of a few
 of them only.
 
-
-
-
 CHAP. 10. (13.)—ON THE RECURRENCE OF THE ECLIPSES OF THE SUN AND THE
 MOON.
-
 
 It is ascertained that the eclipses complete their whole revolution
 in the space of 223 months[194], that the eclipse of the sun takes
@@ -2039,11 +1932,7 @@ of fifteen days, this very thing happened while the Vespasians were
 emperors, the father being consul for the third time, and the son for
 the second[201].
 
-
-
-
-CHAP. 11. (14.)—OF THE MOTION OF THE MOON.
-
+## Chap. 11. (14.)—of the Motion of the Moon
 
 It is certain that the moon, having her horns always turned from the
 sun, when she is waxing, looks towards the east; when she is waning,
@@ -2059,12 +1948,8 @@ fixed in the firmament, although they shine then as well as in the
 night: that this is the case is proved by eclipses, and by descending
 into very deep wells.
 
-
-
-
 CHAP. 12. (15.)—OF THE MOTIONS OF THE PLANETS AND THE GENERAL LAWS OF
 THEIR ASPECTS[204].
-
 
 The three planets, which, as we have said, are situated above the
 sun[205], are visible when they come into conjunction with him.
@@ -2098,12 +1983,8 @@ that of the morning and of the evening, according to their respective
 risings. The stationary points of Mercury are so very brief, that they
 cannot be correctly observed.
 
-
-
-
 CHAP. 13.—WHY THE SAME STARS APPEAR AT SOME TIMES MORE LOFTY AND AT
 OTHER TIMES MORE NEAR.
-
 
 The above is an account of the aspects and the occultations of the
 planets, a subject which is rendered very complicated by their motions,
@@ -2220,11 +2101,7 @@ when they occur in the evening setting. This is the doctrine of the
 superior planets; that of the others is more difficult, and has never
 been laid down by any one before me[233].
 
-
-
-
-CHAP. 14. (17.)—WHY THE SAME STARS HAVE DIFFERENT MOTIONS.
-
+## Chap. 14. (17.)—why the Same Stars Have Different Motions
 
 I must first state the cause, why the star Venus never recedes from the
 sun more than 46 degrees, nor Mercury more than 23[234], while they
@@ -2274,11 +2151,7 @@ So great is the variety of nature! The reason of it is, however,
 evident; for those planets which are forced up by the vapour of the sun
 likewise descend with difficulty.
 
-
-
-
-CHAP. 15.—GENERAL LAWS[240] OF THE PLANETS.
-
+## Chap. 15.—general Laws[240] of the Planets
 
 There are many other secrets of nature in these points, as well as the
 laws to which they are subject, which might be mentioned. For example,
@@ -2301,11 +2174,7 @@ are invisible at most for 170 days; Jupiter for 36, or, at the least,
 for 10 days less than this; Venus for 69, or, at the least, for 52;
 Mercury for 13, or, at the most, for 18[244].
 
-
-
-
-CHAP. 16. (18.)—THE REASON WHY THE STARS ARE OF DIFFERENT COLOURS.
-
+## Chap. 16. (18.)—the Reason Why the Stars Are of Different Colours
 
 The difference of their colour depends on the difference in their
 altitudes; for they acquire a resemblance to those planets into the
@@ -2334,12 +2203,8 @@ opposition, she is full. Again, when she is waning, she goes through
 the same gradations, and in the same order, as the three stars that are
 superior to the sun[250].
 
-
-
-
 CHAP. 17. (19.)—OF THE MOTION OF THE SUN AND THE CAUSE OF THE
 IRREGULARITY OF THE DAYS.
-
 
 The Sun himself is in four different states; twice the night is equal
 to the day, in the Spring and in the Autumn, when he is opposed to the
@@ -2354,11 +2219,7 @@ horizon. But the signs which mount directly upwards, when they rise,
 retain the light for a longer space, while those that are more oblique
 pass along more quickly.
 
-
-
-
-CHAP. 18. (20.)—WHY THUNDER IS ASCRIBED TO JUPITER.
-
+## Chap. 18. (20.)—why Thunder Is Ascribed to Jupiter
 
 It is not generally known, what has been discovered by men who are the
 most eminent for their learning, in consequence of their assiduous
@@ -2377,11 +2238,7 @@ because the moisture which is then collected excites the greatest
 quantity of fire, or because the air is disturbed, as if by the
 parturition of the pregnant star.
 
-
-
-
-CHAP. 19. (21.)—OF THE DISTANCES OF THE STARS.
-
+## Chap. 19. (21.)—of the Distances of the Stars
 
 Many persons have attempted to discover the distance of the stars
 from the earth, and they have published as the result, that the
@@ -2392,11 +2249,7 @@ furlongs, that from her to the sun is double this distance, and that
 it is three times this distance to the twelve signs[257]; and this was
 also the opinion of our countryman, Gallus Sulpicius[258].
 
-
-
-
-CHAP. 20. (22.)—OF THE HARMONY OF THE STARS.
-
+## Chap. 20. (22.)—of the Harmony of the Stars
 
 Pythagoras, employing the terms that are used in music, sometimes names
 the distance between the Earth and the Moon a tone; from her to Mercury
@@ -2410,11 +2263,7 @@ of the notes. In this, Saturn is said to move in the Doric time,
 Jupiter in the Phrygian[260], and so forth of the rest; but this is a
 refinement rather amusing than useful.
 
-
-
-
-CHAP. 21. (23.)—OF THE DIMENSIONS OF THE WORLD.
-
+## Chap. 21. (23.)—of the Dimensions of the World
 
 The stadium is equal to 125 of our Roman paces, or 625 feet[261].
 Posidonius[262] supposes that there is a space of not less than 40
@@ -2460,11 +2309,7 @@ modest calculation[268], since if we add to the orbit of Saturn the
 distance from him to the zodiac, we shall have an infinite number of
 degrees[269].
 
-
-
-
-CHAP. 22. (24.)—OF THE STARS WHICH APPEAR SUDDENLY, OR OF COMETS[270].
-
+## Chap. 22. (24.)—of the Stars Which Appear Suddenly, or of Comets[270]
 
 A few things still remain to be said concerning the world; for stars
 are suddenly formed in the heavens themselves; of these there are
@@ -2496,11 +2341,7 @@ the 109th olympiad, in the 398th year of the City[280]. The shortest
 time during which any one of them has been observed to be visible is 7
 days, the longest 180 days.
 
-
-
-
-CHAP. 23.—THEIR NATURE, SITUATION, AND SPECIES.
-
+## Chap. 23.—their Nature, Situation, and Species
 
 Some of them move about in the manner of planets[281], others remain
 stationary. They are almost all of them seen towards the north[282],
@@ -2556,11 +2397,7 @@ they recede from the sun. Others suppose that they are produced by an
 accidental vapour together with the force of fire, and that, from this
 circumstance, they are liable to be dissipated[292].
 
-
-
-
-CHAP. 24. (26.)—THE DOCTRINE OF HIPPARCHUS[293] ABOUT THE STARS.
-
+## Chap. 24. (26.)—the Doctrine of Hipparchus[293] About the Stars
 
 This same Hipparchus, who can never be sufficiently commended, as one
 who more especially proved the relation of the stars to man, and that
@@ -2578,12 +2415,8 @@ positions, and likewise, whether they were increased or diminished;
 the heavens being thus left as an inheritance to any one, who might be
 found competent to complete his plan.
 
-
-
-
 CHAP. 25.—EXAMPLES FROM HISTORY OF CELESTIAL PRODIGIES; _FACES_,
 _LAMPADES_, AND _BOLIDES_[295].
-
 
 The _faces_ shine brilliantly, but they are never seen excepting when
 they are falling[296]; one of these darted across the heavens, in
@@ -2596,22 +2429,14 @@ train of light, the fore-part only being on fire; while the _bolides_,
 being entirely in a state of combustion, leave a still longer track
 behind them.
 
-
-
-
-CHAP. 26.—_TRABES CELESTES_; _CHASMA CŒLI._
-
+## Chap. 26.—_trabes Celestes_; _Chasma Cœli._
 
 The _trabes_ also, which are named δοκοὶ[299], shine in the same
 manner; one of these was seen at the time when the Lacedæmonians, by
 being conquered at sea, lost their influence in Greece. An opening
 sometimes takes place in the firmament, which is named _chasma_[300].
 
-
-
-
-CHAP. 27. (27.)—OF THE COLOURS OF THE SKY AND OF CELESTIAL FLAME.
-
+## Chap. 27. (27.)—of the Colours of the Sky and of Celestial Flame
 
 There is a flame of a bloody appearance (and nothing is more dreaded
 by mortals) which falls down upon the earth[301], such as was seen in
@@ -2627,11 +2452,7 @@ therefore we are not as well acquainted with them as we are with the
 rising of the stars, which I have mentioned, and with eclipses and many
 other things.
 
-
-
-
-CHAP. 28. (28.)—OF CELESTIAL CORONÆ.
-
+## Chap. 28. (28.)—of Celestial Coronæ
 
 Stars are occasionally seen along with the sun, for whole days
 together, and generally round its orb, like wreaths made of the ears
@@ -2641,32 +2462,20 @@ death of his father, in order to take upon himself the great name which
 he assumed[304]. (29.) The same _coronæ_ occur about the moon and also
 about the principal stars, which are stationary in the heavens.
 
-
-
-
-CHAP. 29.—OF SUDDEN CIRCLES.
-
+## Chap. 29.—of Sudden Circles
 
 A bow appeared round the sun in the consulship of L. Opimius and L.
 Fabius[305], and a circle in that of C. Porcius and M. Acilius. (30.)
 There was a little circle of a red colour in the consulship of L.
 Julius and P. Rutilius.
 
-
-
-
-CHAP. 30.—OF UNUSUALLY LONG ECLIPSES OF THE SUN.
-
+## Chap. 30.—of Unusually Long Eclipses of the Sun
 
 Eclipses of the sun also take place which are portentous and unusually
 long, such as occurred when Cæsar the Dictator was slain, and in the
 war against Antony, the sun remained dim for almost a whole year[306].
 
-
-
-
-CHAP. 31. (31.)—MANY SUNS.
-
+## Chap. 31. (31.)—many Suns
 
 And again, many suns have been seen at the same time[307]; not above
 or below the real sun, but in an oblique direction, never near nor
@@ -2681,42 +2490,26 @@ of the late Emperor Claudius, when he was consul along with Corn.
 Orfitus. We have no account transmitted to us of more than three having
 been seen at the same time.
 
-
-
-
-CHAP. 32. (32.)—MANY MOONS.
-
+## Chap. 32. (32.)—many Moons
 
 Three moons have also been seen, as was the case in the consulship of
 Cn. Domitius and C. Fannius; they have generally been named nocturnal
 suns[309].
 
-
-
-
-CHAP. 33. (33.)—DAYLIGHT IN THE NIGHT.
-
+## Chap. 33. (33.)—daylight in the Night
 
 A bright light has been seen proceeding from the heavens in the
 night time, as was the case in the consulship of C. Cæcilius and Cn.
 Papirius, and at many other times, so that there has been a kind of
 daylight in the night[310].
 
-
-
-
-CHAP. 34. (34.)—BURNING SHIELDS[311].
-
+## Chap. 34. (34.)—burning Shields[311]
 
 A burning shield darted across at sunset, from west to east, throwing
 out sparks, in the consulship of L. Valerius and C. Marius[312].
 
-
-
-
 CHAP. 35. (35.)—AN OMINOUS APPEARANCE IN THE HEAVENS, THAT WAS SEEN
 ONCE ONLY.
-
 
 We have an account of a spark falling from a star, and increasing as it
 approached the earth, until it became of the size of the moon, shining
@@ -2725,21 +2518,13 @@ was converted into a _lampas_; this occurred in the consulship of Cn.
 Octavius and C. Scribonius. It was seen by Silanus, the proconsul, and
 his attendants[314].
 
-
-
-
-CHAP. 36. (36.)—OF STARS WHICH MOVE ABOUT IN VARIOUS DIRECTIONS.
-
+## Chap. 36. (36.)—of Stars Which Move About in Various Directions
 
 Stars are seen to move about in various directions, but never without
 some cause, nor without violent winds proceeding from the same
 quarter[315].
 
-
-
-
-CHAP. 37. (37.)—OF THE STARS WHICH ARE NAMED CASTOR AND POLLUX[316].
-
+## Chap. 37. (37.)—of the Stars Which Are Named Castor and Pollux[316]
 
 These stars occur both at sea and at land. I have seen, during the
 night-watches of the soldiers, a luminous appearance, like a star,
@@ -2757,11 +2542,7 @@ evening[318], which is considered as predicting something very
 important. But there is great uncertainty respecting the cause of all
 these things, and they are concealed in the majesty of nature.
 
-
-
-
-CHAP. 38. (38.)—OF THE AIR AND ON THE CAUSE OF THE SHOWERS OF STONES.
-
+## Chap. 38. (38.)—of the Air and on the Cause of the Showers of Stones
 
 So far I have spoken of the world itself and of the stars. I must now
 give an account of the other remarkable phænomena of the heavens. For
@@ -2798,11 +2579,7 @@ assigned the showers of stones, these having been previously taken up
 by the wind, as well as many other bodies in the same way. On this
 account we must enter more at large on this subject.
 
-
-
-
-CHAP. 39. (39.)—OF THE STATED SEASONS.
-
+## Chap. 39. (39.)—of the Stated Seasons
 
 It is obvious that there are causes of the seasons and of other things
 which have been stated, while there are some things which are casual,
@@ -2829,11 +2606,7 @@ Hyades[324]. There are also certain events which occur spontaneously,
 and at stated periods, as the rising of the Kids[325]. The star
 Arcturus scarcely ever rises without storms of hail occurring.
 
-
-
-
-CHAP. 40. (40.)—OF THE RISING OF THE DOG-STAR.
-
+## Chap. 40. (40.)—of the Rising of the Dog-Star
 
 Who is there that does not know that the vapour of the sun is kindled
 by the rising of the Dog-star? The most powerful effects are felt on
@@ -2845,11 +2618,7 @@ and then to sneeze, as if it were worshiping it[326]. There is no doubt
 that dogs, during the whole of this period, are peculiarly disposed to
 become rabid[327].
 
-
-
-
-CHAP. 41. (41.)—OF THE REGULAR INFLUENCE OF THE DIFFERENT SEASONS.
-
+## Chap. 41. (41.)—of the Regular Influence of the Different Seasons
 
 There is moreover a peculiar influence in the different degrees of
 certain signs, as in the autumnal equinox, and also in the winter
@@ -2883,11 +2652,7 @@ appearance; for example, in the tail of the Bull there are seven stars,
 which are named Vergiliæ[335]; in his forehead are the Suculæ; there
 is also Bootes, which follows the seven northern stars[336].
 
-
-
-
-CHAP. 42. (42.)—OF UNCERTAIN STATES OF THE WEATHER.
-
+## Chap. 42. (42.)—of Uncertain States of the Weather
 
 But I would not deny, that there may exist showers and winds,
 independent of these causes, since it is certain that an exhalation
@@ -2898,11 +2663,7 @@ being compressed into a fluid[337]. Their density and their substance
 is very clearly proved from their intercepting the sun’s rays, which
 are visible by divers, even in the deepest waters[338].
 
-
-
-
-CHAP. 43. (43.)—OF THUNDER AND LIGHTNING.
-
+## Chap. 43. (43.)—of Thunder and Lightning
 
 It cannot therefore be denied, that fire proceeding from the stars
 which are above the clouds, may fall on them, as we frequently observe
@@ -2931,11 +2692,7 @@ by these mountains and seas are struck, and no injury is done. Those
 which prognosticate future events proceed from on high and from stated
 causes, and they come from their peculiar stars[340].
 
-
-
-
-CHAP. 44.—THE ORIGIN OF WINDS.
-
+## Chap. 44.—the Origin of Winds
 
 In like manner I would not deny that winds, or rather sudden gusts,
 are produced by the arid and dry vapours of the earth; that air may
@@ -2964,11 +2721,7 @@ immediately rolls forwards clouds of sand[343]. There are also, in many
 houses, artificial cavities, formed in the walls[344], which produce
 currents of air; none of these are without their appropriate cause.
 
-
-
-
-CHAP. 45.—VARIOUS OBSERVATIONS RESPECTING WINDS.
-
+## Chap. 45.—various Observations Respecting Winds
 
 But there is a great difference between a gale and a wind[345]. The
 former are uniform and appear to rush forth[346]; they are felt, not
@@ -3013,11 +2766,7 @@ science. Seeing, therefore, that there are so many thousands of persons
 on the seas, I will treat of the winds with more minuteness than
 perhaps might otherwise appear suitable to my undertaking.
 
-
-
-
-CHAP. 46. (47.)—THE DIFFERENT KINDS OF WINDS[349].
-
+## Chap. 46. (47.)—the Different Kinds of Winds[349]
 
 The ancients reckoned only four winds (nor indeed does Homer mention
 more[350]) corresponding to the four parts of the world; a very poor
@@ -3059,11 +2808,7 @@ violent of all the winds. Fabius also asserts, that the south winds
 never penetrate into Egypt. Hence this law of nature is obvious, that
 winds have their stated seasons and limits.
 
-
-
-
-CHAP. 47.—THE PERIODS OF THE WINDS[360].
-
+## Chap. 47.—the Periods of the Winds[360]
 
 The spring opens the seas for the navigators. In the beginning of this
 season the west winds soften, as it were, the winter sky, the sun
@@ -3105,11 +2850,7 @@ does not entirely close up the sea. In former times, pirates were
 compelled, by the fear of death, to rush into death, and to brave the
 winter ocean; now we are driven to it by avarice[375].
 
-
-
-
-CHAP. 48.—NATURE OF THE WINDS[376].
-
+## Chap. 48.—nature of the Winds[376]
 
 Those are the coldest winds which are said to blow from the seven
 stars, and Corus, which is contiguous to them; these also restrain the
@@ -3160,11 +2901,7 @@ winds, but to whatever concerns the state of the weather. He begins his
 lustrum at the rising of the dog-star, in the intercalary year. So far
 concerning winds in general.
 
-
-
-
-CHAP. 49. (48.)—ECNEPHIAS AND TYPHON.
-
+## Chap. 49. (48.)—ecnephias and Typhon
 
 And now respecting the sudden gusts[383], which arising from the
 exhalations of the earth, as has been said above, and falling down
@@ -3187,12 +2924,8 @@ it comes near us, this substance being of a very cold nature[388].
 This wind, when it rebounds after the stroke, absorbs and carries up
 whatever it may have seized on.
 
-
-
-
 CHAP. 50.—TORNADOES; BLASTING WINDS; WHIRLWINDS[389], AND OTHER
 WONDERFUL KINDS OF TEMPESTS.
-
 
 But if it burst from the cavity of a cloud which is more depressed,
 but less capacious than what produces a squall, and is accompanied
@@ -3215,12 +2948,8 @@ sailors. It is also called a pillar, when the moisture is so condensed
 and rigid as to be able to support itself. It is a cloud of the same
 kind, which, when drawn into a tube, sucks up the water[392].
 
-
-
-
 CHAP. 51. (50.)—OF THUNDER[393]; IN WHAT COUNTRIES IT DOES NOT FALL,
 AND FOR WHAT REASON.
-
 
 Thunder is rare both in winter and in summer[394], but from different
 causes; the air, which is condensed in the winter, is made still more
@@ -3239,12 +2968,8 @@ Italy which recede from the north and lie towards the south, as in the
 district round our city, and in Campania, it lightens equally both in
 winter and in summer, which is not the case in other situations.
 
-
-
-
 CHAP. 52. (51.)—OF THE DIFFERENT KINDS OF LIGHTNING[395] AND THEIR
 WONDERFUL EFFECTS.
-
 
 We have accounts of many different kinds of thunder-storms. Those which
 are dry do not burn objects, but dissipate them; while those which
@@ -3260,12 +2985,8 @@ the prognostics which took place at the time of Catiline’s conspiracy,
 M. Herennius, a magistrate of the borough of Pompeii, was struck by
 lightning when the sky was without clouds[399].
 
-
-
-
 CHAP. 53. (52.)—THE ETRURIAN[400] AND THE ROMAN OBSERVATIONS ON THESE
 POINTS.
-
 
 The Tuscan books inform us, that there are nine Gods who discharge
 thunder-storms, that there are eleven different kinds of them, and that
@@ -3296,11 +3017,7 @@ they happen at the time of a first marriage or a birth-day; nor that
 public predictions extend beyond thirty years[404], unless with respect
 to the founding of colonies[405].
 
-
-
-
-CHAP. 54. (53.)—OF CONJURING UP THUNDER.
-
+## Chap. 54. (53.)—of Conjuring up Thunder
 
 It is related in our Annals, that by certain sacred rites and
 imprecations, thunder-storms may be compelled or invoked[406]. There
@@ -3326,11 +3043,7 @@ the order of nature, to some persons certain, to others doubtful, by
 some approved, by others condemned. I must not, however, omit the other
 circumstances connected with them which deserve to be related.
 
-
-
-
-CHAP. 55. (54.)—GENERAL LAWS OF LIGHTNING.
-
+## Chap. 55. (54.)—general Laws of Lightning
 
 It is certain that the lightning is seen before the thunder is heard,
 although they both take place at the same time. Nor is this wonderful,
@@ -3381,11 +3094,7 @@ animal is consumed by lightning unless after having been previously
 killed. The parts of the animal that have been wounded by lightning are
 colder than the rest of the body.
 
-
-
-
-CHAP. 56. (55.)—OBJECTS WHICH ARE NEVER STRUCK.
-
+## Chap. 56. (55.)—objects Which Are Never Struck
 
 Among the productions of the earth, thunder never strikes the
 laurel[419], nor does it descend more than five feet into the earth.
@@ -3398,12 +3107,8 @@ Terracina and the temple of Feronia, the people have left off building
 towers in time of war, every one of them having been destroyed by
 thunderbolts.
 
-
-
-
 CHAP. 57. (56.)—SHOWERS OF MILK, BLOOD, FLESH, IRON, WOOL, AND BAKED
 TILES[422].
-
 
 Besides these, we learn from certain monuments, that from the lower
 part of the atmosphere[423] it rained milk and blood, in the consulship
@@ -3421,12 +3126,8 @@ a year after, T. Annius Milo was killed. It is recorded, among the
 transactions of that year, that when he was pleading his own cause,
 there was a shower of baked tiles.
 
-
-
-
 CHAP. 58. (57.)—RATTLING OF ARMS AND THE SOUND OF TRUMPETS HEARD IN THE
 SKY.
-
 
 We have heard, that during the war with the Cimbri, the rattling of
 arms and the sound of trumpets were heard through the sky, and that the
@@ -3438,12 +3139,8 @@ all wonderful for the heavens themselves to be in flames[428], and it
 has been more frequently observed when the clouds have taken up a great
 deal of fire.
 
-
-
-
 CHAP. 59. (58.)—OF STONES THAT HAVE FALLEN FROM THE CLOUDS[429]. THE
 OPINION OF ANAXAGORAS RESPECTING THEM.
-
 
 The Greeks boast that Anaxagoras[430], the Clazomenian, in the second
 year of the 78th Olympiad, from his knowledge of what relates to the
@@ -3466,11 +3163,7 @@ was built in that place. I have myself seen one in the country of the
 Vocontii[434], which had been brought from the fields only a short time
 before.
 
-
-
-
-CHAP. 60. (59.)—THE RAINBOW.
-
+## Chap. 60. (59.)—the Rainbow
 
 What we name Rainbows frequently occur,
 and are not considered either wonderful or ominous; for they do not
@@ -3494,12 +3187,8 @@ greater span. In the summer they are not seen at noon, but after the
 autumnal equinox at any hour: there are never more than two seen at
 once.
 
-
-
-
 CHAP. 61.—THE NATURE OF HAIL, SNOW, HOAR, MIST, DEW; THE FORMS OF
 CLOUDS.
-
 
 I do not find that there is any doubt entertained respecting the
 following points. (60.) Hail is produced by frozen rain, and snow by
@@ -3515,11 +3204,7 @@ not obtain the same quantity of fluid as at first[440].
 (61.) The clouds are varied in their colour and figure according as the
 fire which they contain is in excess or is absorbed by them.
 
-
-
-
-CHAP. 62. (62.)—THE PECULIARITIES OF THE WEATHER IN DIFFERENT PLACES.
-
+## Chap. 62. (62.)—the Peculiarities of the Weather in Different Places
 
 There are, moreover, certain peculiarities in certain places. In Africa
 dew falls during the night in summer. In Italy, at Locri, and at the
@@ -3529,11 +3214,7 @@ that the sun is visible at one time or another; these things, however,
 will be better detailed in their proper place. So far respecting the
 air.
 
-
-
-
-CHAP. 63. (63.)—NATURE OF THE EARTH.
-
+## Chap. 63. (63.)—nature of the Earth
 
 Next comes the earth, on which alone of all parts of nature we have
 bestowed the name that implies maternal veneration. It is appropriated
@@ -3604,11 +3285,7 @@ these and her anger being thus appeased, she conceals the crimes of
 mortals[448]. I consider the ignorance of her nature as one of the evil
 effects of an ungrateful mind.
 
-
-
-
-CHAP. 64. (64.)—OF THE FORM OF THE EARTH.
-
+## Chap. 64. (64.)—of the Form of the Earth
 
 Every one agrees that it has the most perfect figure[449]. We always
 speak of the ball of the earth, and we admit it to be a globe bounded
@@ -3625,11 +3302,7 @@ centre, while the earth goes from the centre, the continual rolling
 of the heavens about it forcing its immense globe into the form of a
 sphere[451].
 
-
-
-
-CHAP. 65. (65.)—WHETHER THERE BE ANTIPODES?
-
+## Chap. 65. (65.)—whether There Be Antipodes?
 
 On this point there is a great contest between the learned and the
 vulgar. We maintain, that there are men dispersed over every part of
@@ -3695,12 +3368,8 @@ sea to its extreme parts[457]. Hence it follows, that all the water,
 from every part, tends towards the centre, and, because it has this
 tendency, does not fall.
 
-
-
-
 CHAP. 66.—HOW THE WATER IS CONNECTED WITH THE EARTH. OF THE NAVIGATION
 OF THE SEA AND THE RIVERS.
-
 
 We must believe, that the great artist, Nature, has so arranged it,
 that as the arid and dry earth cannot subsist by itself and without
@@ -3719,11 +3388,7 @@ accession of so many rivers[458].
 side, by the sea flowing round it. And this is not a point to be
 investigated by arguments, but what has been ascertained by experience.
 
-
-
-
-CHAP. 67. (67.)—WHETHER THE OCEAN SURROUNDS THE EARTH.
-
+## Chap. 67. (67.)—whether the Ocean Surrounds the Earth
 
 The whole of the western ocean is now navigated, from Gades and the
 Pillars of Hercules, round Spain and Gaul. The greater part of the
@@ -3774,11 +3439,7 @@ on me to display, and lay open to our eyes, the whole of it, whatever
 it be, in which there is nothing which can satisfy the desires of
 certain individuals.
 
-
-
-
-CHAP. 68. (68.)—WHAT PART OF THE EARTH IS INHABITED.
-
+## Chap. 68. (68.)—what Part of the Earth Is Inhabited
 
 In the first place, then, it appears, that this should be estimated at
 half the globe[473], as if no portion of this half was encroached upon
@@ -3830,11 +3491,7 @@ distance, after all, what mighty portion of the earth is he master of?
 And even when his avarice has been the most completely satisfied, what
 part of it can he take with him into the grave?
 
-
-
-
-CHAP. 69. (69.)—THAT THE EARTH IS IN THE MIDDLE OF THE WORLD.
-
+## Chap. 69. (69.)—that the Earth Is in the Middle of the World
 
 It is evident from undoubted arguments, that the earth is in the middle
 of the universe[481], but it is the most clearly proved by the equality
@@ -3847,11 +3504,7 @@ sun, at the summer solstice, is on the same line with its setting at
 the winter solstice; but this could not happen if the earth was not
 situated in the centre.
 
-
-
-
-CHAP. 70. (70.)—OF THE OBLIQUITY OF THE ZONES[484].
-
+## Chap. 70. (70.)—of the Obliquity of the Zones[484]
 
 The three circles[485], which are connected with the above-mentioned
 zones, distinguish the inequalities of the seasons; these are, the
@@ -3860,11 +3513,7 @@ highest to us and approaching the nearest to the district of the north;
 on the other side, the brumal, which is towards the south pole; and the
 equinoctial, which traverses the middle of the Zodiac.
 
-
-
-
-CHAP. 71.—OF THE INEQUALITY OF CLIMATES.
-
+## Chap. 71.—of the Inequality of Climates
 
 The cause of the other things which are worthy of our admiration
 depends on the figure of the earth itself, which, together with all its
@@ -3901,12 +3550,8 @@ those stars rise up, which appear elevated to the inhabitants of those
 other districts; all this, however, could not happen unless the earth
 had the shape of a globe.
 
-
-
-
 CHAP. 72.—IN WHAT PLACES ECLIPSES ARE INVISIBLE, AND WHY THIS IS THE
 CASE.
-
 
 Hence it is that the inhabitants of the east do not see those eclipses
 of the sun or of the moon which occur in the evening, nor the
@@ -3927,11 +3572,7 @@ while the equal intervals of twelve hours, which are now observed only
 in the middle of the earth, would in that case have been the same
 everywhere.
 
-
-
-
-CHAP. 73. (71.)—WHAT REGULATES THE DAYLIGHT ON THE EARTH.
-
+## Chap. 73. (71.)—what Regulates the Daylight on the Earth
 
 Hence it is that there is not any one night and day the same, in all
 parts of the earth, at the same time; the intervention of the globe
@@ -3952,11 +3593,7 @@ those who sail to the west, even on the shortest day, compensate for
 the difficulty of sailing in the night and go farther[504], because
 they sail in the same direction with the sun.
 
-
-
-
-CHAP. 74. (72.)—REMARKS ON DIALS, AS CONNECTED WITH THIS SUBJECT.
-
+## Chap. 74. (72.)—remarks on Dials, as Connected with This Subject
 
 The same dial-plates[505] cannot be used in all places, the shadow of
 the sun being sensibly different at distances of 300, or at most of
@@ -3967,11 +3604,7 @@ only 1/9 less than the gnomon, at Ancona not more than 1/35 less, while
 in the part of Italy which is called Venetia, at the same hour, the
 shadow is equal to the length of the gnomon[507].
 
-
-
-
-CHAP. 75. (73.)—WHEN AND WHERE THERE ARE NO SHADOWS.
-
+## Chap. 75. (73.)—when and Where There Are No Shadows
 
 It is likewise said, that in the town of Syene, which is 5000 stadia
 south of Alexandria[508], there is no shadow at noon, on the day of
@@ -4001,22 +3634,14 @@ places in India where there are no shadows, the seven stars are not
 visible[516]; these places, he says, are called “Ascia[517],” and the
 people there do not reckon the time by hours[518].
 
-
-
-
 CHAP. 76. (74.)—-WHERE THIS TAKES PLACE TWICE IN THE YEAR AND WHERE THE
 SHADOWS FALL IN OPPOSITE DIRECTIONS.
-
 
 Eratosthenes informs us, that in the whole of Troglodytice, for
 twice forty-five days in the year, the shadows fall in the contrary
 direction[519].
 
-
-
-
-CHAP. 77. (75.)—WHERE THE DAYS ARE THE LONGEST AND WHERE THE SHORTEST.
-
+## Chap. 77. (75.)—where the Days Are the Longest and Where the Shortest
 
 Hence it follows, that in consequence of the daylight increasing
 in various degrees, in Meroë the longest day consists of twelve
@@ -4033,22 +3658,14 @@ sail from the north of Britain. Some persons also affirm that this is
 the case in Mona, which is about 200 miles from Camelodunum[523], a
 town of Britain.
 
-
-
-
-CHAP. 78. (76.)—OF THE FIRST DIAL.
-
+## Chap. 78. (76.)—of the First Dial
 
 Anaximenes the Milesian, the disciple of Anaximander, of whom I have
 spoken above[524], discovered the theory of shadows and what is called
 the art of dialling, and he was the first who exhibited at Lacedæmon
 the dial which they call sciothericon[525].
 
-
-
-
-CHAP. 79. (77.)—OF THE MODE IN WHICH THE DAYS ARE COMPUTED.
-
+## Chap. 79. (77.)—of the Mode in Which the Days Are Computed
 
 The days have been computed by different people in different ways. The
 Babylonians reckoned from one sunrise to the next; the Athenians from
@@ -4060,12 +3677,8 @@ sunrise to the next is less near the solstices than near the equinoxes,
 because the position of the zodiac is more oblique about its middle
 part, and more straight near the solstice[527].
 
-
-
-
 CHAP. 80. (78.)—OF THE DIFFERENCE OF NATIONS AS DEPENDING ON THE NATURE
 OF THE WORLD.
-
 
 To these circumstances we must add those that are connected with
 certain celestial causes. There can be no doubt, that the Æthiopians
@@ -4092,11 +3705,7 @@ latter have never been subjected by the former, being severed from
 them and remaining solitary, from the effect produced on them by their
 savage nature.
 
-
-
-
-CHAP. 81. (79.)—OF EARTHQUAKES.
-
+## Chap. 81. (79.)—of Earthquakes
 
 According to the doctrine of the Babylonians, earthquakes and clefts of
 the earth, and occurrences of this kind, are supposed to be produced
@@ -4126,11 +3735,7 @@ the earth resembles thunder in the clouds; nor does the yawning of
 the earth differ from the bursting of the lightning; the enclosed air
 struggling and striving to escape[538].
 
-
-
-
-CHAP. 82. (80.)—OF CLEFTS OF THE EARTH.
-
+## Chap. 82. (80.)—of Clefts of the Earth
 
 The earth is shaken in various ways, and wonderful effects are
 produced[539]; in one place the walls of cities being thrown down, and
@@ -4163,11 +3768,7 @@ take place during eclipses of the sun and of the moon, because at that
 time storms are lulled. They are most frequent when great heat succeeds
 to showers, or showers succeed to great heat[544].
 
-
-
-
-CHAP. 83. (81.)—SIGNS OF AN APPROACHING EARTHQUAKE.
-
+## Chap. 83. (81.)—signs of an Approaching Earthquake
 
 There is no doubt that earthquakes are felt by persons on shipboard, as
 they are struck by a sudden motion of the waves, without these being
@@ -4179,11 +3780,7 @@ either in the daytime or a little after sunset, a cloud is stretched
 out in the clear sky, like a long thin line[545]. The water in wells is
 also more turbid than usual, and it emits a disagreeable odour[546].
 
-
-
-
-CHAP. 84. (82.)—PRESERVATIVES AGAINST FUTURE EARTHQUAKES.
-
+## Chap. 84. (82.)—preservatives Against Future Earthquakes
 
 These same places[547], however, afford protection, and this is also
 the case where there is a number of caverns, for they give vent to the
@@ -4206,11 +3803,7 @@ cease when the vapour bursts out[551]; but if they do not soon cease,
 they continue for forty days; generally, indeed, for a longer time:
 some have lasted even for one or two years.
 
-
-
-
-CHAP. 85. (83.)—PRODIGIES OF THE EARTH WHICH HAVE OCCURRED ONCE ONLY.
-
+## Chap. 85. (83.)—prodigies of the Earth Which Have Occurred Once Only
 
 A great prodigy of the earth, which never happened more than once, I
 have found mentioned in the books of the Etruscan ceremonies, as having
@@ -4230,11 +3823,7 @@ district of Marrucinum, belonging to Vectius Marcellus, a Roman knight,
 the steward of Nero, changed places with each other[555], although the
 public highway was interposed.
 
-
-
-
-CHAP. 86. (84.)—WONDERFUL CIRCUMSTANCES ATTENDING EARTHQUAKES.
-
+## Chap. 86. (84.)—wonderful Circumstances Attending Earthquakes
 
 Inundations of the sea take place at the same time with
 earthquakes[556]; the water being impregnated with the same
@@ -4251,11 +3840,7 @@ which is produced by the motion; it is an equal or a greater evil when
 it is considered as a prodigy[561]. The city of Rome never experienced
 a shock, which was not the forerunner of some great calamity.
 
-
-
-
-CHAP. 87. (85.)—IN WHAT PLACES THE SEA HAS RECEDED.
-
+## Chap. 87. (85.)—in What Places the Sea Has Receded
 
 The same cause produces an increase of the land; the vapour, when it
 cannot burst out forcibly lifting up the surface[562]. For the land is
@@ -4274,21 +3859,13 @@ also from the plains of Arabia. The sea also surrounded Ilium and the
 whole of Teuthrania, and covered the plain through which the Mæander
 flows[567].
 
-
-
-
-CHAP. 88. (86.)—THE MODE IN WHICH ISLANDS RISE UP.
-
+## Chap. 88. (86.)—the Mode in Which Islands Rise Up
 
 Land is sometimes formed in a different manner, rising suddenly out of
 the sea, as if nature was compensating the earth for its losses[568],
 restoring in one place what she had swallowed up in another.
 
-
-
-
-CHAP. 89. (87.)—WHAT ISLANDS HAVE BEEN FORMED, AND AT WHAT PERIODS.
-
+## Chap. 89. (87.)—what Islands Have Been Formed, and at What Periods
 
 Delos and Rhodes[569], islands which have now been long famous, are
 recorded to have risen up in this way. More lately there have been some
@@ -4316,22 +3893,14 @@ consequence of another shock, a lake burst out, and that, by a third,
 Prochytas was formed into an island, the neighbouring mountains being
 rolled away from it.
 
-
-
-
-CHAP 90.—LANDS WHICH HAVE BEEN SEPARATED BY THE SEA.
-
+## Chap 90.—lands Which Have Been Separated by the Sea
 
 In the ordinary course of things islands are also formed by this means.
 The sea has torn Sicily from Italy[575], Cyprus from Syria, Eubœa
 from Bœotia[576], Atalante and Macris[577] from Eubœa, Besbycus from
 Bithynia, and Leucosia from the promontory of the Sirens.
 
-
-
-
-CHAP. 91. (89.)—ISLANDS WHICH HAVE BEEN UNITED TO THE MAIN LAND.
-
+## Chap. 91. (89.)—islands Which Have Been United to the Main Land
 
 Again, islands are taken from the sea and added to the main land;
 Antissa[578] to Lesbos, Zephyrium to Halicarnassus, Æthusa to Myndus,
@@ -4341,11 +3910,7 @@ stadia distant from the sea. Syries is now become a part of Ephesus,
 and, in the same neighbourhood, Derasidas and Sophonia form part of
 Magnesia; while Epidaurus and Oricum are no longer islands[579].
 
-
-
-
-CHAP. 92. (90.)—LANDS WHICH HAVE BEEN TOTALLY CHANGED INTO SEAS.
-
+## Chap. 92. (90.)—lands Which Have Been Totally Changed into Seas
 
 The sea has totally carried off certain lands, and first of all, if
 we are to believe Plato[580], for an immense space where the Atlantic
@@ -4355,11 +3920,7 @@ Achaia by the Corinthian, Europe and Asia by the Propontis and Pontus.
 And besides these, the sea has rent asunder Leucas, Antirrhium, the
 Hellespont, and the two Bosphori[581].
 
-
-
-
-CHAP. 93. (91.)—LANDS WHICH HAVE BEEN SWALLOWED UP.
-
+## Chap. 93. (91.)—lands Which Have Been Swallowed Up
 
 And not to speak of bays and gulfs, the earth feeds on itself; it has
 devoured the very high mountain of Cybotus, with the town of Curites;
@@ -4369,11 +3930,7 @@ the cities Galanis and Gamales in Phœnicia, together with the cities
 themselves; also Phegium, the most lofty ridge in Æthiopia[583]. Nor
 are the shores of the sea more to be depended upon.
 
-
-
-
-CHAP. 94. (92.)—CITIES WHICH HAVE BEEN ABSORBED BY THE SEA.
-
+## Chap. 94. (92.)—cities Which Have Been Absorbed by the Sea
 
 The sea near the Palus Mæotis has carried away Pyrrha and Antissa,
 also Elice and Bura[584] in the gulf of Corinth, traces of which
@@ -4383,11 +3940,7 @@ In Sicily also the half of the city of Tyndaris, and all the part of
 Italy which is wanting[585]; in like manner it carried off Eleusina in
 Bœotia[586].
 
-
-
-
-CHAP. 95. (93.)—OF VENTS[587] IN THE EARTH.
-
+## Chap. 95. (93.)—of Vents[587] in the Earth
 
 But let us say no more of earthquakes and of whatever may be regarded
 as the sepulchres of cities[588]; let us rather speak of the wonders of
@@ -4418,12 +3971,8 @@ cases, what mortal is there who can assign any other cause, than the
 divine power of nature, which is everywhere diffused, and thus bursts
 forth in various places?
 
-
-
-
 CHAP. 96. (94.)—OF CERTAIN LANDS WHICH ARE ALWAYS SHAKING, AND OF
 FLOATING ISLANDS.
-
 
 There are certain lands which shake when any one passes over them[596];
 as in the territory of the Gabii, not far from the city of Rome, there
@@ -4445,22 +3994,14 @@ which are driven about by the wind, so as at one time to exhibit the
 figure of a triangle and at another of a circle; but they never form a
 square[600].
 
-
-
-
-CHAP. 97. (96.)—PLACES IN WHICH IT NEVER RAINS.
-
+## Chap. 97. (96.)—places in Which It Never Rains
 
 There is at Paphos a celebrated temple of Venus, in a certain court of
 which it never rains; also at Nea, a town of Troas, in the spot which
 surrounds the statue of Minerva: in this place also the remains of
 animals that are sacrificed never putrefy[601].
 
-
-
-
-CHAP. 98.—THE WONDERS OF VARIOUS COUNTRIES COLLECTED TOGETHER.
-
+## Chap. 98.—the Wonders of Various Countries Collected Together
 
 Near Harpasa, a town of Asia, there stands a terrific rock, which may
 be moved by a single finger; but if it be pushed by the force of the
@@ -4480,12 +4021,8 @@ places in which things that are pushed into the ground cannot be pulled
 out again. The hay which is grown in Crustuminium is noxious on the
 spot, but elsewhere it is wholesome[606].
 
-
-
-
 CHAP. 99. (97.)—CONCERNING THE CAUSE OF THE FLOWING AND EBBING OF THE
 SEA.
-
 
 Much has been said about the nature of waters; but the most wonderful
 circumstance is the alternate flowing and ebbing of the tides, which
@@ -4557,11 +4094,7 @@ on account of the unequal rising of the stars in each tract, the tides
 differ from each other, but this respects the period, not the nature of
 them; as is the case in the Syrtes.
 
-
-
-
-CHAP. 100.—WHERE THE TIDES RISE AND FALL IN AN UNUSUAL MANNER.
-
+## Chap. 100.—where the Tides Rise and Fall in an Unusual Manner
 
 There are, however, some tides which are of a peculiar nature, as in
 the Tauromenian Euripus[622], where the ebb and flow is more frequent
@@ -4579,11 +4112,7 @@ Hispalis[625], while there is nothing peculiar in the other wells. The
 Euxine always flows into the Propontis, the water never flowing back
 into the Euxine[626].
 
-
-
-
-CHAP. 101. (98.)—WONDERS OF THE SEA.
-
+## Chap. 101. (98.)—wonders of the Sea
 
 All seas are purified at the full moon[627]; some also at stated
 periods. At Messina and Mylæ a refuse matter, like dung[628], is cast
@@ -4594,11 +4123,7 @@ animal dies except when the tide is ebbing. The observation has been
 often made on the ocean of Gaul; but it has only been found true with
 respect to man[629].
 
-
-
-
-CHAP. 102. (99.)—THE POWER OF THE MOON OVER THE LAND AND THE SEA.
-
+## Chap. 102. (99.)—the Power of the Moon over the Land and the Sea
 
 Hence we may certainly conjecture, that the moon is not unjustly
 regarded as the star of our life[630]. This it is that replenishes the
@@ -4611,20 +4136,12 @@ her light; also that the leaves and vegetables generally, as I shall
 describe in the proper place[633], feel her influence, her power
 penetrating all things.
 
-
-
-
-CHAP. 103. (100.)—THE POWER OF THE SUN.
-
+## Chap. 103. (100.)—the Power of the Sun
 
 Fluids are dried up by the heat of the sun; we have therefore regarded
 it as a masculine star, burning up and absorbing everything[634].
 
-
-
-
-CHAP. 104.—WHY THE SEA IS SALT.
-
+## Chap. 104.—why the Sea Is Salt
 
 Hence it is that the widely-diffused sea is impregnated with the
 flavour of salt, in consequence of what is sweet and mild being
@@ -4651,11 +4168,7 @@ purpose; some of them congealing the elements of the stars and others
 dissolving them. The moon is said to be fed by fresh, and the sun by
 salt water.
 
-
-
-
-CHAP. 105. (102.)—WHERE THE SEA IS THE DEEPEST.
-
+## Chap. 105. (102.)—where the Sea Is the Deepest
 
 Fabianus[638] informs us that the greatest depth of the sea is 15
 stadia[639]. We learn from others, that in the Euxine, opposite to the
@@ -4663,11 +4176,7 @@ nation of the Coraxi, at what is called the Depths of the Euxine[640],
 about 300 stadia[641] from the main land, the sea is immensely deep, no
 bottom having been found.
 
-
-
-
-CHAP. 106. (103.)—THE WONDERS OF FOUNTAINS AND RIVERS.
-
+## Chap. 106. (103.)—the Wonders of Fountains and Rivers
 
 It is very remarkable that fresh water should burst out close to
 the sea, as from pipes. But there is no end to the wonders that are
@@ -4803,21 +4312,13 @@ this is the case even at the foot of Ætna[699], burning as it does, so
 as to force out the sand like a ball of flame to the distance of 150
 miles?
 
-
-
-
-CHAP. 107.—THE WONDERS OF FIRE AND WATER UNITED.
-
+## Chap. 107.—the Wonders of Fire and Water United
 
 And now I must give an account of some of the wonders of fire, which
 is the fourth element of nature; but first those produced by means of
 water.
 
-
-
-
-CHAP. 108. (104.)—OF MALTHA.
-
+## Chap. 108. (104.)—of Maltha
 
 In Samosata, a city of Commagene[700], there is a pool which discharges
 an inflammable mud, called Maltha[701]. It adheres to every solid
@@ -4827,11 +4328,7 @@ their walls against Lucullus, and the soldiers were burned in their
 armour[702]. It is even set on fire in water. We learn by experience
 that it can be extinguished only by earth.
 
-
-
-
-CHAP. 109. (105.)—OF NAPHTHA.
-
+## Chap. 109. (105.)—of Naphtha
 
 Naphtha is a substance of a similar nature[703] (it is so called about
 Babylon, and in the territory of the Astaceni, in Parthia[704]),
@@ -4841,11 +4338,7 @@ in this way it was that Medea burned Jason’s mistress; her crown
 having taken fire, when she approached the altar for the purpose of
 sacrificing[706].
 
-
-
-
-CHAP. 110. (106.)—PLACES WHICH ARE ALWAYS BURNING.
-
+## Chap. 110. (106.)—places Which Are Always Burning
 
 Among the wonders of mountains there is Ætna, which always burns in
 the night[707], and for so long a period has always had materials for
@@ -4884,11 +4377,7 @@ burns with the greatest violence, throwing out flame that consumes
 everything, like the sun[724]. In so many places, and with so many
 fires, does nature burn the earth!
 
-
-
-
-CHAP. 111. (107.)—WONDERS OF FIRE ALONE.
-
+## Chap. 111. (107.)—wonders of Fire Alone
 
 But since this one element is of so prolific a nature as to produce
 itself, and to increase from the smallest spark, what must we suppose
@@ -4930,11 +4419,7 @@ are mixed up with other subjects. But my mind, having carried me beyond
 the mere interpretation of nature, is anxious to lead, as it were by
 the hand, the thoughts of my readers over the whole globe.
 
-
-
-
-CHAP. 112. (108.)—THE DIMENSIONS OF THE EARTH.
-
+## Chap. 112. (108.)—the Dimensions of the Earth
 
 Our part of the earth, of which I propose to give an account, floating
 as it were in the ocean which surrounds it (as I have mentioned
@@ -5023,11 +4508,7 @@ the greatest distance from the surface, and which must necessarily be
 the centre of the sphere. Hence the estimate has been made that it is
 252,000 stadia in circumference.
 
-
-
-
-CHAP. 113.—THE HARMONICAL PROPORTION OF THE UNIVERSE.
-
+## Chap. 113.—the Harmonical Proportion of the Universe
 
 That harmonical proportion, which compels nature to be always
 consistent with itself, obliges us to add to the above measure, 12,000
@@ -5057,19 +4538,12 @@ Onesicritus[789], Eratosthenes[790], Pytheas[791], Herodotus[792],
 Aristotle[793], Ctesias[794], Artemidorus[795] of Ephesus,
 Isidorus[796] of Charax, and Theopompus[797].
 
-
-
-
-BOOK III.
+## Book III
 
 AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
 RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
 
-
-
-
-INTRODUCTION.
-
+## Introduction
 
 Thus far have I treated of the position and the wonders of the earth,
 of the waters, the stars, and the proportion of the universe and its
@@ -5123,12 +4597,8 @@ Columns of that god; they also believe that they were dug through by
 him; upon which the sea, which was before excluded, gained admission,
 and so changed the face of nature.
 
-
-
-
 CHAP. 1. (1.)—THE BOUNDARIES AND GULFS OF EUROPE FIRST SET FORTH IN A
 GENERAL WAY.
-
 
 I shall first then speak of Europe, the foster-mother of that people
 which has conquered all other nations, and itself by far the most
@@ -5147,11 +4617,7 @@ Calpe, which I have previously mentioned, the most distant mountain of
 Spain; and bends, describing an immense curve, as far as Locri and the
 Promontory of Bruttium[808].
 
-
-
-
-CHAP. 2.—OF SPAIN GENERALLY.
-
+## Chap. 2.—of Spain Generally
 
 The first land situate upon this Gulf is that which is called the
 Farther Spain or Bætica[809]; next to which, beginning at the frontier
@@ -5173,11 +4639,7 @@ is separated from Bætica and Lusitania by Mount Solorius[817], the
 chains of the Oretani[818] and the Carpetani[819], and that of the
 Astures[820].
 
-
-
-
-CHAP. 3.—OF BÆTICA.
-
+## Chap. 3.—of Bætica
 
 Bætica, so called from the river which divides it in the middle, excels
 all the other provinces in the richness of its cultivation and the
@@ -5331,11 +4793,7 @@ completed the Portico[942] which had been begun by his sister, and
 in which the survey was to be kept, in conformity with the plan and
 descriptions of M. Agrippa.
 
-
-
-
-CHAP. 4. (3.)—OF NEARER SPAIN.
-
+## Chap. 4. (3.)—of Nearer Spain
 
 The ancient form of the Nearer Spain, like that of many other
 provinces, is somewhat changed, since the time when Pompey the Great,
@@ -5493,11 +4951,7 @@ the storms that agitated the Roman state, conferred the Latian rights
 on the whole of Spain. The Pyrenean mountains divide Spain from Gaul,
 their extremities projecting into the two seas on either side.
 
-
-
-
-CHAP. 5. (4.)—OF THE PROVINCE OF GALLIA NARBONENSIS.
-
+## Chap. 5. (4.)—of the Province of Gallia Narbonensis
 
 That part of the Gallias which is washed by the inland sea[1062] is
 called the province of [Gallia] Narbonensis[1063], having formerly
@@ -5579,11 +5033,7 @@ the Bodiontici, to whom belongs the town of Dinia[1149]. According to
 Agrippa the length of the province of Gallia Narbonensis is 370 miles,
 and its breadth 248[1150].
 
-
-
-
-CHAP. 6. (5.)—OF ITALY.
-
+## Chap. 6. (5.)—of Italy
 
 Next comes Italy, and we begin with the Ligures[1151], after whom
 we have Etruria, Umbria, Latium, where the mouths of the Tiber are
@@ -5688,11 +5138,7 @@ their situation and origin; for, not to speak of others, the Ingaunian
 Ligurians have had lands granted to them as many as thirty different
 times.
 
-
-
-
-CHAP. 7.—OF THE NINTH[1167] REGION OF ITALY.
-
+## Chap. 7.—of the Ninth[1167] Region of Italy
 
 To begin then with the river Varus; we have the town of Nicæa[1168],
 founded by the Massilians, the river Paulo[1169], the Alps and
@@ -5724,11 +5170,7 @@ Pompeia[1203], Asta[1204], and Aquæ Statiellorum[1205]. This is the
 ninth region, according to the arrangement of Augustus. The coast of
 Liguria extends 211 miles[1206], between the rivers Varus and Macra.
 
-
-
-
-CHAP. 8.—THE SEVENTH REGION OF ITALY.
-
+## Chap. 8.—the Seventh Region of Italy
 
 Next to this comes the seventh region, in which is Etruria, a district
 which begins at the river Macra, and has often changed its name. At
@@ -5770,11 +5212,7 @@ Volcentini[1260], surnamed Etrusci, and the Volsinienses[1261]. In the
 same district the territories of Crustumerium[1262] and Caletra[1263]
 retain the names of the ancient towns.
 
-
-
-
-CHAP. 9.—THE FIRST REGION OF ITALY[1264]; THE TIBER; ROME.
-
+## Chap. 9.—the First Region of Italy[1264]; The Tiber; Rome
 
 The Tiber or Tiberis, formerly called Thybris, and previously
 Albula[1265], flows down from nearly the central part of the chain
@@ -5992,11 +5430,7 @@ This belonged to the Etruscans, and was remarkable for the temple
 of the Argive Juno, founded by Jason[1426]. In it was Picentia, a
 town[1427] of the territory of Salernum[1428].
 
-
-
-
-CHAP. 10.—THE THIRD REGION OF ITALY.
-
+## Chap. 10.—the Third Region of Italy
 
 At the Silarus begins the third region of Italy, consisting of the
 territory of Lucania and Bruttium; here too there have been no few
@@ -6053,11 +5487,7 @@ island of Sardinia, the name of the Sardoan Sea; thence to Sicily, the
 Tyrrhenian; thence to Crete, the Sicilian; and beyond that island, the
 Cretan Sea.
 
-
-
-
-CHAP. 11.—SIXTY-FOUR ISLANDS, AMONG WHICH ARE THE BALEARES.
-
+## Chap. 11.—sixty-Four Islands, Among Which Are the Baleares
 
 The first islands that we meet with in all these seas are the two
 to which the Greeks have given the name of Pityussæ[1464], from the
@@ -6101,11 +5531,7 @@ Phœnice, Phila, Lero, and, opposite to Antipolis[1495], Lerina[1496],
 where there is a remembrance of a town called Vergoanum having once
 existed.
 
-
-
-
-CHAP. 12. (6.)—CORSICA.
-
+## Chap. 12. (6.)—corsica
 
 In the Ligurian Sea, but close to the Tuscan, is Corsica, by the Greeks
 called Cyrnos, extending, from north to south 150 miles, and for the
@@ -6138,11 +5564,7 @@ the island of Megaris[1514], and then, at a distance of eight miles
 from Surrentum, Capreæ[1515], famous for the castle of the emperor
 Tiberius: it is eleven miles in circumference.
 
-
-
-
-CHAP. 13.—SARDINIA.
-
+## Chap. 13.—sardinia
 
 Leucothea comes next, and after it, but out of sight, as it lies
 upon the verge of the African Sea, Sardinia. It is situate somewhat
@@ -6176,11 +5598,7 @@ to Velia are Pontia and Isacia, both known by one name, that of
 Opposite to Vibo are the little islands called Ithacesiæ[1536], from
 the watch-tower of Ulysses situate there.
 
-
-
-
-CHAP. 14. (8.)—SICILY.
-
+## Chap. 14. (8.)—sicily
 
 But more celebrated than all is Sicily, called Sicania by
 Thucydides, and by many writers Trinacria or Trinacia, from its
@@ -6282,11 +5700,7 @@ fifth Ericusa, the sixth Phœnicusa, left to be a pasture-ground for the
 cattle of the neighbouring islands, and the last and smallest Euonymos.
 Thus much as to the first great Gulf of Europe.
 
-
-
-
-CHAP. 15. (10.)—MAGNA GRÆCIA, BEGINNING AT LOCRI.
-
+## Chap. 15. (10.)—magna Græcia, Beginning at Locri
 
 At Locri begins the fore-part of Italy, called Magna Græcia, whose
 coast falls back in three bays[1632] formed by the Ausonian sea,
@@ -6333,11 +5747,7 @@ Thebes in Lucania has disappeared, and Theopompus informs us that there
 was formerly a city of the Lucani called Pandosia[1660], at which
 Alexander, the king of Epirus, died.
 
-
-
-
-CHAP. 16.—THE SECOND REGION OF ITALY.
-
+## Chap. 16.—the Second Region of Italy
 
 Adjoining to this district is the second region of Italy, which
 embraces the Hirpini, Calabria, Apulia, and the Salentini, extending a
@@ -6426,11 +5836,7 @@ Sturnini[1722], and the Tutini: there are also the following Salentine
 nations; the Aletini[1723], the Basterbini[1724], the Neretini, the
 Uxentini, and the Veretini[1725].
 
-
-
-
-CHAP. 17. (12.)—THE FOURTH REGION OF ITALY.
-
+## Chap. 17. (12.)—the Fourth Region of Italy
 
 We now come to the fourth region, which includes the most valiant
 probably of all the nations of Italy. Upon the coast, in the territory
@@ -6479,11 +5885,7 @@ Below the Sabine territory lies that of Latium, on one side Picenum,
 and behind it Umbria, while the range of the Apennines flanks it on
 either side.
 
-
-
-
-CHAP. 18. (13.)—THE FIFTH REGION OF ITALY.
-
+## Chap. 18. (13.)—the Fifth Region of Italy
 
 The fifth region is that of Picenum, once remarkable for the denseness
 of its population; 360,000 Picentines took the oaths of fidelity to
@@ -6508,11 +5910,7 @@ the Pausulani, the Planinenses, the Ricinenses, the Septempedani[1787],
 the Tollentinates, the Treienses, and the Pollentini of Urbs
 Salvia[1788].
 
-
-
-
-CHAP. 19. (14.)—THE SIXTH REGION OF ITALY.
-
+## Chap. 19. (14.)—the Sixth Region of Italy
 
 Adjoining to this is the sixth region, which includes Umbria and the
 Gallic territory in the vicinity of Ariminum. At Ancona begins the
@@ -6556,11 +5954,7 @@ the Usidicani, the Plangenses, the Pæsinates, and the Cælestini. Cato
 writes that Ameria above-mentioned was founded 964 years before the war
 with Perseus.
 
-
-
-
-CHAP. 20. (15.)—THE EIGHTH REGION OF ITALY; THE PADUS.
-
+## Chap. 20. (15.)—the Eighth Region of Italy; The Padus
 
 The eighth region is bounded by Ariminum, the Padus, and the Apennines.
 Upon the coast we have the river Crustumium[1827], and the colony
@@ -6656,11 +6050,7 @@ supported by the fact that near this river there is the town of
 Industria[1869], of which the ancient name was Bodincomagum, and where
 the river begins to be of greater depth than in other parts.
 
-
-
-
-CHAP. 21. (17.)—THE ELEVENTH REGION OF ITALY; ITALIA TRANSPADANA.
-
+## Chap. 21. (17.)—the Eleventh Region of Italy; Italia Transpadana
 
 From the river Padus the eleventh region receives its name of
 Transpadana; to which, situate as it is wholly in the interior, the
@@ -6695,11 +6085,7 @@ too, a place distinguished for its opulence, which, as we are informed
 by Cornelius Nepos, was destroyed by the Insubres, the Boii, and the
 Senones, on the very day on which Camillus took Veii.
 
-
-
-
-CHAP. 22. (18.)—THE TENTH REGION OF ITALY.
-
+## Chap. 22. (18.)—the Tenth Region of Italy
 
 We now come to the tenth region of Italy, situate on the Adriatic Sea.
 In this district are Venetia[1884], the river Silis[1885], rising
@@ -6731,11 +6117,7 @@ then along the Savus, and so from Nauportus[1901], which place, lying
 between Æmona[1902] and the Alps, from that circumstance derives its
 name.
 
-
-
-
-CHAP. 23. (19.)—ISTRIA, ITS PEOPLE AND LOCALITY.
-
+## Chap. 23. (19.)—istria, Its People and Locality
 
 Istria projects in the form of a peninsula. Some writers have stated
 its length to be forty miles, and its circumference 125; and the same
@@ -6795,11 +6177,7 @@ mountains, and passing along by the Vada[1930] Sabatia, the Taurini,
 Comum, Brixia, Verona, Vicetia, Opitergium, Aquileia, Tergeste, Pola,
 and Arsia, is 745 miles.
 
-
-
-
-CHAP. 24. (20.)—THE ALPS, AND THE ALPINE NATIONS.
-
+## Chap. 24. (20.)—the Alps, and the Alpine Nations
 
 Many nations dwell among the Alps; but the more remarkable, between
 Pola and the district of Tergeste, are the Secusses, the Subocrini, the
@@ -6867,11 +6245,7 @@ all search for them has been prohibited by an ancient decree of the
 Senate, who gave orders thereby that Italy shall be exempted[1957] from
 such treatment.
 
-
-
-
-CHAP. 25. (21.)—LIBURNIA AND ILLYRICUM.
-
+## Chap. 25. (21.)—liburnia and Illyricum
 
 The nation of the Liburni adjoins the river Arsia[1958], and extends
 as far as the river Titus. The Mentores, the Hymani[1959], the
@@ -6897,11 +6271,7 @@ is the colony of Iadera[1968], distant from Pola 160 miles; then,
 at a distance of thirty miles, the island of Colentum[1969], and of
 eighteen, the mouth of the river Titus.
 
-
-
-
-CHAP. 26. (22.)—DALMATIA.
-
+## Chap. 26. (22.)—dalmatia
 
 Scardona, situate upon the river[1970], at a distance of twelve
 miles from the sea, forms the boundary of Liburnia and the beginning
@@ -6960,11 +6330,7 @@ with the Acroceraunian[1999] mountains, by which we have previously
 mentioned[2000] this Gulf of Europe as bounded. Oricum is distant from
 the Promontory of Salentinum in Italy eighty[2001] miles.
 
-
-
-
-CHAP. 27. (24.)—THE NORICI.
-
+## Chap. 27. (24.)—the Norici
 
 In the rear of the Carni and the Iapydes, along the course of the great
 river Ister[2002], the Rhæti touch upon the Norici[2003]: their towns
@@ -6974,11 +6340,7 @@ Lake Peiso[2009], and the deserts of the Boii[2010]; they are however
 now inhabited by the people of Sabaria[2011], a colony of the now
 deified emperor Claudius, and the town of Scarabantia Julia[2012].
 
-
-
-
-CHAP. 28. (25.)—PANNONIA.
-
+## Chap. 28. (25.)—pannonia
 
 Next to them comes acorn-bearing Pannonia[2013], along which the
 chain of the Alps, gradually lessening as it runs through the middle
@@ -7008,11 +6370,7 @@ Forty-five miles thence is Taurunum[2024], where the Savus flows into
 the Danube; above which spot the Valdanus[2025] and the Urpanus,
 themselves far from ignoble rivers, join that stream.
 
-
-
-
-CHAP. 29. (26.)—MŒSIA.
-
+## Chap. 29. (26.)—mœsia
 
 Joining up to Pannonia is the province called Mœsia[2026], which runs,
 with the course of the Danube, as far as the Euxine. It commences at
@@ -7031,11 +6389,7 @@ he says that the entire circuit of the Italian and Illyrian Gulf is
 are two seas, the Ionian[2031] in the first part, and the Adriatic,
 which runs more inland and is called the Upper Sea.
 
-
-
-
-CHAP. 30.—ISLANDS OF THE IONIAN SEA AND THE ADRIATIC.
-
+## Chap. 30.—islands of the Ionian Sea and the Adriatic
 
 In the Ausonian Sea there are no islands worthy of notice beyond those
 which we have already mentioned, and only a few in the Ionian; those,
@@ -7093,19 +6447,9 @@ Metrodorus of Scepsis[2076], Callicrates[2077], Xenophon of
 Lampsacus[2078], Diodorus of Syracuse[2079], Nymphodorus[2080],
 Calliphanes[2081], and Timagenes[2082].
 
+## Book IV
 
-
-
-BOOK IV.
-
-AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
-RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
-
-
-
-
-CHAP. 1. (1.)—EPIRUS.
-
+## Chap. 1. (1.)—epirus
 
 The third great Gulf of Europe begins at the mountains of
 Acroceraunia[2083], and ends at the Hellespont, embracing an extent of
@@ -7154,11 +6498,7 @@ is also situate the town of Ambracia. There are also the Aphas and the
 Arachthus[2105], rivers of the Molossi; the city of Anactoria[2106],
 and the place where Pandosia[2107] stood.
 
-
-
-
-CHAP. 2.—ACARNANIA.
-
+## Chap. 2.—acarnania
 
 The towns of Acarnania[2108], the ancient name of which was Curetis,
 are Heraclia[2109], Echinus[2110], and, on the coast, Actium, a colony
@@ -7178,11 +6518,7 @@ after separating Acarnania from Ætolia, is fast adding the island of
 Artemita[2121] to the mainland by the continual deposits of earth which
 it brings down its stream.
 
-
-
-
-CHAP. 3. (2.)—ÆTOLIA.
-
+## Chap. 3. (2.)—ætolia
 
 The peoples of Ætolia are the Athamanes[2122], the Tymphæi[2123], the
 Ephyri[2124], the Ænienses, the Perrhæbi[2125], the Dolopes[2126], the
@@ -7201,11 +6537,7 @@ Halicyrna[2137]. The most famous mountains are Tomarus, in the district
 of Dodona, Crania[2138] in Ambracia, Aracynthus[2139] in Acarnania, and
 Acanthon[2140], Panætolium[2141], and Macynium[2142], in Ætolia.
 
-
-
-
-CHAP. 4. (3.)—LOCRIS AND PHOCIS.
-
+## Chap. 4. (3.)—locris and Phocis
 
 Next to Ætolia are the Locri[2143], surnamed Ozolæ; a people exempt
 from tribute. Here is the town of Œanthe[2144], the port[2145] of
@@ -7227,11 +6559,7 @@ Corsian, in the vicinity of Helicon[2165]. The third town of Bœotia
 on this sea is that of Pagæ[2166], from which point the Isthmus of the
 Peloponnesus projects in the form of a neck.
 
-
-
-
-CHAP. 5. (4.)—THE PELOPONNESUS.
-
+## Chap. 5. (4.)—the Peloponnesus
 
 The Peloponnesus, which was formerly called Apia[2167] and Pelasgia,
 is a peninsula, inferior in fame to no land upon the face of the
@@ -7272,11 +6600,7 @@ being, as we have previously[2178] stated, less than a mile in width at
 the entrance there, though extending in length as far as the isthmus, a
 distance of eighty-five miles.
 
-
-
-
-CHAP. 6. (5.)—ACHAIA.
-
+## Chap. 6. (5.)—achaia
 
 The province called Achaia[2179] begins at the Isthmus; from the
 circumstance of its cities being ranged in regular succession on its
@@ -7309,11 +6633,7 @@ miles, nearly as far as the towns of Aulon[2201] and Leprion. We next
 come to the Promontory of Platanodes[2202]. All these localities lie to
 the west.
 
-
-
-
-CHAP. 7.—MESSENIA.
-
+## Chap. 7.—messenia
 
 Further south is the Gulf of Cyparissus, with the city of
 Cyparissa[2203] on its shores, the line of which is seventy-two miles
@@ -7328,11 +6648,7 @@ Dorion[2212], and Zancle[2213], all of them known to fame at different
 periods. The margin of this gulf measures eighty miles, the distance
 across being thirty.
 
-
-
-
-CHAP. 8.—LACONIA.
-
+## Chap. 8.—laconia
 
 At Tænarum begins the territory of Laconia, inhabited by a free nation,
 and situate on a gulf 106 miles in circuit, and 38 across. The towns
@@ -7346,11 +6662,7 @@ of that name, from which place the passage is the safest across to the
 island of Crete. All these places are bounded by the Promontory of
 Malea[2227].
 
-
-
-
-CHAP. 9.—ARGOLIS.
-
+## Chap. 9.—argolis
 
 The next gulf, which extends as far as Scyllæum[2228], is called the
 Argolic Gulf, being fifty miles across, and 162 in circuit. The towns
@@ -7382,11 +6694,7 @@ on the south, by the Ægean on the S.E., and by the Myrtoan on the N.E.;
 which last sea begins at the Gulf of Megara, and washes all the coast
 of Attica.
 
-
-
-
-CHAP. 10. (6.)—ARCADIA.
-
+## Chap. 10. (6.)—arcadia
 
 Its interior is occupied for the greater part by Arcadia, which, remote
 from the sea on every side, was originally called Drymodes[2253], and
@@ -7422,11 +6730,7 @@ mentioned[2297]. Throughout the whole of this region, as though nature
 had been desirous to compensate for the inroads of the sea, seventy-six
 mountains raise their lofty heads.
 
-
-
-
-CHAP. 11. (7.)—ATTICA.
-
+## Chap. 11. (7.)—attica
 
 At the narrow neck of the Isthmus, Hellas begins, by our people known
 as Græcia. The first state that presents itself is Attica, anciently
@@ -7456,11 +6760,7 @@ Brauron[2321], once towns, the borough of Rhamnus[2322], the place
 where Marathon[2323] stood, the Thriasian[2324] plain, the town of
 Melite[2325], and Oropus[2326] upon the confines of Bœotia.
 
-
-
-
-CHAP. 12.—BŒOTIA.
-
+## Chap. 12.—bœotia
 
 In this country are Anthedon[2327], Onchestus[2328], the free town
 of Thespiæ[2329], Lebadea[2330], and then Thebes[2331], surnamed
@@ -7497,20 +6797,12 @@ Narycion, Alope[2366], and Scarphia[2367]; and then the gulf which
 receives the name of the Maliac[2368] from the people who dwell there,
 and upon which are the towns of Halcyone, Econia, and Phalara[2369].
 
-
-
-
-CHAP. 13.—DORIS.
-
+## Chap. 13.—doris
 
 Doris comes next, in which are Sperchios[2370], Erineon[2371],
 Boion[2372], Pindus, and Cytinum[2373]. Behind Doris lies Mount Œta.
 
-
-
-
-CHAP. 14.—PHTHIOTIS.
-
+## Chap. 14.—phthiotis
 
 Hæmonia follows, a country which has often changed its name, having
 been successively called Pelasgic Argos, Hellas, Thessaly, and Dryopis,
@@ -7528,11 +6820,7 @@ Trachin[2377]. Here too is Mount Callidromus[2378], and the celebrated
 towns of Hellas[2379], Halos[2380], Lamia[2381], Phthia[2382], and
 Arne[2383].
 
-
-
-
-CHAP. 15. (8.)—THESSALY PROPER.
-
+## Chap. 15. (8.)—thessaly Proper
 
 In Thessaly is Orchomenus, formerly called the Minyan[2384], and the
 towns of Almon, by some called Salmon, Atrax[2385], and Pelinna;
@@ -7570,11 +6858,7 @@ then, after a short time, rejects them, refusing to allow the waters of
 a river devoted to penal sufferings and engendered for the Furies to
 mingle with his silvery streams.
 
-
-
-
-CHAP. 16. (9.)—MAGNESIA.
-
+## Chap. 16. (9.)—magnesia
 
 To Thessaly Magnesia joins, in which is the fountain of Libethra[2406].
 Its towns are Iolcos[2407], Hormenium, Pyrrha[2408], Methone[2409],
@@ -7587,11 +6871,7 @@ Crannon[2421], Acharne[2422], Dotion[2423], Melitæa, Phylace[2424], and
 Potniæ[2425]. The length of Epirus, Achaia, Attica, and Thessaly is
 said altogether to amount to 490 miles, the breadth to 287.
 
-
-
-
-CHAP. 17. (10.)—MACEDONIA.
-
+## Chap. 17. (10.)—macedonia
 
 Macedonia comes next, including 150 nations, and renowned for its two
 kings[2426] and its former empire over the world; it was formerly known
@@ -7666,11 +6946,7 @@ Paulus Æmilius sold to pillage seventy-two[2499] cities in one day. So
 great the difference in her lot resulting from the actions of two[2500]
 individuals!
 
-
-
-
-CHAP. 18. (11.)—THRACE; THE ÆGEAN SEA.
-
+## Chap. 18. (11.)—thrace; The Ægean Sea
 
 Thrace now follows, divided into fifty strategies[2501], and to be
 reckoned among the most powerful nations of Europe. Among its peoples
@@ -7822,12 +7098,8 @@ mentioned, have given to these seas the rest of their names. Such,
 then, are the seas and the various nations which are comprehended in
 the third great Gulf of Europe.
 
-
-
-
 CHAP. 19. (12.)—THE ISLANDS WHICH LIE BEFORE THE LANDS ALREADY
 MENTIONED.
-
 
 Lying opposite to Thesprotia, at a distance of twelve miles from
 Buthrotus, and of fifty from Acroceraunia, is the island of
@@ -7893,11 +7165,7 @@ Megara, the four Methurides. Ægila[2636] lies at a distance of fifteen
 miles from Cythera, and of twenty-five from Phalasarna, a city of
 Crete.
 
-
-
-
-CHAP. 20.—CRETE.
-
+## Chap. 20.—crete
 
 Crete itself lies from east to west, the one side facing the south,
 the other the north, and is known to fame by the renown of its hundred
@@ -7956,11 +7224,7 @@ Carthæa[2669]; Coresus[2670] and Pœëessa[2671] have perished. Varro
 informs us, that from this place there used to come a cloth of very
 fine texture, used for women’s dresses.
 
-
-
-
-CHAP. 21.—EUBŒA.
-
+## Chap. 21.—eubœa
 
 Eubœa[2672] itself has also been rent away from Bœotia; the channel of
 the Euripus, which flows between them, being so narrow as to admit of
@@ -7986,11 +7250,7 @@ also, as Callidemus says, Chalcis, because copper was first discovered
 here. Menæchmus says that it was called Abantias[2687], and the poets
 generally give it the name of Asopis.
 
-
-
-
-CHAP. 22.—THE CYCLADES.
-
+## Chap. 22.—the Cyclades
 
 Beyond Eubœa, and out in the Myrtoan[2688] Sea, are numerous other
 islands; but those more especially famous are, Glauconnesos and the
@@ -8037,11 +7297,7 @@ others again have called it the Lesser Sicily, or Callipolis[2714]. It
 is seventy-five[2715] miles in circumference—half as large again as
 Paros.
 
-
-
-
-CHAP. 23.—THE SPORADES.
-
+## Chap. 23.—the Sporades
 
 The islands thus far are considered as belonging to the Cyclades; the
 rest that follow are the Sporades[2716]. These are, Helene[2717],
@@ -8134,11 +7390,7 @@ names:—Desticos, Sarnos, Cyssiros, Charbrusa, Calathusa, Scylla,
 Draconon, Arconnesus, Diethusa, Scapos, Capheris, Mesate, Æantion,
 Pateronnesos, Pateria, Calate, Neriphus, and Polendos[2773].
 
-
-
-
-CHAP. 24.—THE HELLESPONT.—THE LAKE MÆOTIS.
-
+## Chap. 24.—the Hellespont.—the Lake Mæotis
 
 The fourth great Gulf of Europe begins at the Hellespont and ends
 at the entrance of the Mæotis[2774]. But in order that the several
@@ -8213,11 +7465,7 @@ These mouths are each of them so considerable, that for a distance of
 forty miles, it is said, the saltness of the sea is quite overpowered,
 and the water found to be fresh.
 
-
-
-
-CHAP. 25.—DACIA, SARMATIA.
-
+## Chap. 25.—dacia, Sarmatia
 
 On setting out from this spot, all the nations met with are Scythian
 in general, though various races have occupied the adjacent shores;
@@ -8242,11 +7490,7 @@ to the Sarmatæ and the Germans; but this ancient appellation is now
 only given to those who dwell beyond those nations, and live unknown to
 nearly all the rest of the world.
 
-
-
-
-CHAP. 26.—SCYTHIA.
-
+## Chap. 26.—scythia
 
 Leaving the Ister, we come to the towns of Cremniscos[2811], Æpolium,
 the mountains of Macrocremnus, and the famous river Tyra[2812], which
@@ -8393,11 +7637,7 @@ Agrippa, 980 miles, and its breadth 717. I am of opinion, however, that
 in this part of the earth all estimates of measurement are exceedingly
 doubtful.
 
-
-
-
-CHAP. 27.—THE ISLANDS OF THE EUXINE. THE ISLANDS OF THE NORTHERN OCEAN.
-
+## Chap. 27.—the Islands of the Euxine. The Islands of the Northern Ocean
 
 But now, in conformity with the plan which I originally proposed, the
 remaining portions of this gulf must be described. As for its seas, we
@@ -8480,11 +7720,7 @@ borne[2897] by a fruit which grows there spontaneously. There are those
 also called Glæsaria[2898] by our soldiers, from their amber; but by
 the barbarians they are known as Austeravia and Actania.
 
-
-
-
-CHAP. 28.—GERMANY.
-
+## Chap. 28.—germany
 
 The whole of the shores of this sea as far as the Scaldis[2899], a
 river of Germany, is inhabited by nations, the dimensions of whose
@@ -8517,11 +7753,7 @@ Vistula, the Albis[2918], the Visurgis[2919], the Amisius[2920], the
 Rhine, and the Mosa[2921]. In the interior is the long extent of the
 Hercynian[2922] range, which in grandeur is inferior to none.
 
-
-
-
-CHAP. 29. (15.)—NINETY-SIX ISLANDS OF THE GALLIC OCEAN.
-
+## Chap. 29. (15.)—ninety-Six Islands of the Gallic Ocean
 
 In the Rhine itself, nearly 100 miles in length, is the most famous
 island[2923] of the Batavi and the Canninefates, as also other
@@ -8533,11 +7765,7 @@ there, and on the west into the river Mosa. At the middle mouth which
 lies between these two, the river, having but a very small channel,
 preserves its own name.
 
-
-
-
-CHAP. 30. (16.)—BRITANNIA.
-
+## Chap. 30. (16.)—britannia
 
 Opposite to this coast is the island called Britannia, so celebrated
 in the records of Greece[2929] and of our own country. It is situate
@@ -8580,11 +7808,7 @@ Bergos, and, greater than all, Nerigos, from which persons embark for
 Thule. At one day’s sail from Thule is the frozen ocean, which by some
 is called the Cronian Sea.
 
-
-
-
-CHAP. 31. (17.)—GALLIA BELGICA.
-
+## Chap. 31. (17.)—gallia Belgica
 
 The whole of Gaul that is comprehended under the one general name of
 _Comata_[2950], is divided into three races of people, which are more
@@ -8618,11 +7842,7 @@ nearer again[2988], the Ubii[2989], the Colony[2990] of Agrippina, the
 Cugerni[2991], the Batavi[2992], and the peoples whom we have already
 mentioned as dwelling on the islands of the Rhine.
 
-
-
-
-CHAP. 32. (18.)—GALLIA LUGDUNENSIS.
-
+## Chap. 32. (18.)—gallia Lugdunensis
 
 That part of Gaul which is known as Lugdunensis[2993] contains
 the Lexovii[2994], the Vellocasses[2995], the Galeti[2996], the
@@ -8641,11 +7861,7 @@ the Diablinti[3019], the Rhedones[3020], the Turones[3021], the
 Atesui[3022], and the Secusiani[3023], a free people, in whose
 territory is the colony of Lugdunum[3024].
 
-
-
-
-CHAP. 33. (19.)—GALLIA AQUITANICA.
-
+## Chap. 33. (19.)—gallia Aquitanica
 
 In Aquitanica are the Ambilatri[3025], the Anagnutes[3026], the
 Pictones[3027], the Santoni[3028], a free people, the Bituriges[3029],
@@ -8674,11 +7890,7 @@ and the Pyrenees, the Gallic Ocean. There are many islands belonging
 to the Veneti, which bear the name of “Veneticæ[3066],” as also in the
 Aquitanic Gulf, that of Uliarus[3067].
 
-
-
-
-CHAP. 34. (20.)—NEARER SPAIN, ITS COAST ALONG THE GALLIC OCEAN.
-
+## Chap. 34. (20.)—nearer Spain, Its Coast Along the Gallic Ocean
 
 At the Promontory of the Pyrenees Spain begins, more narrow, not only
 than Gaul, but even than itself[3068] in its other parts, as we have
@@ -8722,11 +7934,7 @@ from the Bracari. The whole of the region here mentioned from the
 Pyrenees is full of mines of gold, silver, iron, and lead, both black
 and white[3112].
 
-
-
-
-CHAP. 35. (21.)—LUSITANIA.
-
+## Chap. 35. (21.)—lusitania
 
 After passing the Durius, Lusitania[3113] begins. We here have
 the ancient Turduli[3114], the Pæsuri, the river Vaga[3115], the
@@ -8800,11 +8008,7 @@ two extreme[3163] promontories of the Pyrenees, along the sea-line of
 the entire coast, are thought to be 3922 miles in circumference; while
 some writers make them to be but 2600.
 
-
-
-
-CHAP. 36.—THE ISLANDS IN THE ATLANTIC OCEAN.
-
+## Chap. 36.—the Islands in the Atlantic Ocean
 
 Opposite to Celtiberia are a number of islands, by the Greeks called
 Cassiterides[3164], in consequence of their abounding in tin: and,
@@ -8832,11 +8036,7 @@ were carried off by Hercules. Other persons again think, that his
 island is another one, opposite to Lusitania, and that it was there
 formerly called by that name[3173].
 
-
-
-
-CHAP. 37. (23.)—THE GENERAL MEASUREMENT OF EUROPE.
-
+## Chap. 37. (23.)—the General Measurement of Europe
 
 Having thus made the circuit of Europe, we must now give the complete
 measurement of it, in order that those who wish to be acquainted
@@ -8882,19 +8082,9 @@ Isidorus[3223], Philonides[3224], Xenagoras[3225], Astynomus[3226],
 Staphylus[3227], Aristocritus[3228], Metrodorus[3229], Cleobulus[3230],
 Posidonius[3231].
 
+## Book V
 
-
-
-BOOK V.
-
-AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS,
-RIVERS, DISTANCES, AND PEOPLES WHO NOW EXIST OR FORMERLY EXISTED.
-
-
-
-
-CHAP. 1.—THE TWO MAURITANIAS.
-
+## Chap. 1.—the Two Mauritanias
 
 The Greeks have given the name of Libya[3232] to Africa, and have
 called the sea that lies in front of it the Libyan Sea. It has Egypt
@@ -9152,11 +8342,7 @@ the nation of the Nababes. The river Ampsaga is distant from Cæsarea
 322[3332] miles. The length of the two Mauritanias is 1038, and their
 breadth 467 miles.
 
-
-
-
-CHAP. 2. (3.)—NUMIDIA.
-
+## Chap. 2. (3.)—numidia
 
 At the river Ampsaga Numidia begins, a country rendered illustrious
 by the fame of Masinissa. By the Greeks this region was called
@@ -9173,11 +8359,7 @@ Tabraca[3343], with the rights of Roman citizens. The river Tusca[3344]
 forms the boundary of Numidia. This country produces nothing remarkable
 except its marble[3345] and wild beasts.
 
-
-
-
-CHAP. 3. (4.)—AFRICA.
-
+## Chap. 3. (4.)—africa
 
 Beyond the river Tusca begins the region of Zeugitana[3346], and that
 part which properly bears the name of Africa[3347]. We here find
@@ -9213,11 +8395,7 @@ the New; these are separated by a dyke which was made by order of the
 second Scipio Africanus[3374] and the kings[3375], and extended to
 Thenæ, which town is distant from Carthage 216 miles.
 
-
-
-
-CHAP. 4.—THE SYRTES.
-
+## Chap. 4.—the Syrtes
 
 A third Gulf is divided into two smaller ones, those of the two
 Syrtes[3376], which are rendered perilous by the shallows of their
@@ -9274,11 +8452,7 @@ Vamacures, the Cinithi, the Musuni, the Marchubii[3411], and the whole
 of Gætulia[3412], as far as the river Nigris[3413], which separates
 Africa proper from Æthiopia.
 
-
-
-
-CHAP. 5. (5.)—CYRENAICA.
-
+## Chap. 5. (5.)—cyrenaica
 
 The region of Cyrenaica, also called Pentapolis[3414], is rendered
 famous by the oracle of Hammon[3415], which is distant 400 miles
@@ -9374,11 +8548,7 @@ valley with a sudden and steep descent. The length of Cyrenean Africa,
 up to this boundary from the Lesser Syrtis, is 1060 miles; and, so far
 as has been ascertained, it is 800[3460] in breadth.
 
-
-
-
-CHAP. 6. (6.)—LIBYA MAREOTIS.
-
+## Chap. 6. (6.)—libya Mareotis
 
 The region that follows is called Libya Mareotis[3461], and borders
 upon Egypt. It is held by the Marmaridæ, the Adyrmachidæ, and, after
@@ -9397,11 +8567,7 @@ miles; while Isidorus speaks of the distance from Tingi to Canopus as
 being 3599 miles. Artemidorus makes this last distance forty miles less
 than Isidorus.
 
-
-
-
-CHAP. 7. (7.)—THE ISLANDS IN THE VICINITY OF AFRICA.
-
+## Chap. 7. (7.)—the Islands in the Vicinity of Africa
 
 These seas contain not so very many islands. The most famous among
 them is Meninx[3463], twenty-five miles in length and twenty-two in
@@ -9425,11 +8591,7 @@ Altars[3469], which are rather rocks than islands, lie more between
 Sicily and Sardinia. There are some authors who state that these rocks
 were once inhabited, but that they have gradually subsided in the sea.
 
-
-
-
-CHAP. 8. (8.)—COUNTRIES ON THE OTHER SIDE OF AFRICA.
-
+## Chap. 8. (8.)—countries on the Other Side of Africa
 
 If we pass through the interior of Africa in a southerly direction,
 beyond the Gætuli, after having traversed the intervening deserts,
@@ -9478,11 +8640,7 @@ ancient Persians, are said to have been the companions of Hercules when
 on his expedition to the Hesperides. Beyond the above, I have met with
 nothing relative to Africa[3487] worthy of mention.
 
-
-
-
-CHAP. 9. (9.)—EGYPT AND THEBAIS.
-
+## Chap. 9. (9.)—egypt and Thebais
 
 Joining on to Africa is Asia, the extent of which, according to
 Timosthenes, from the Canopic mouth of the Nile to the mouth of the
@@ -9541,11 +8699,7 @@ it is twelve days’ journey. Memphis is fifteen miles from the spot
 where the river Nile divides into the different channels which we have
 mentioned as forming the Delta.
 
-
-
-
-CHAP. 10.—THE RIVER NILE.
-
+## Chap. 10.—the River Nile
 
 The sources of the Nile[3521] are unascertained, and, travelling as
 it does for an immense distance through deserts and burning sands, it
@@ -9687,11 +8841,7 @@ place of rendezvous for the vessels of the Æthiopians; they are made to
 fold up[3548], and the people carry them on their shoulders whenever
 they come to the Cataracts.
 
-
-
-
-CHAP. 11.—THE CITIES OF EGYPT.
-
+## Chap. 11.—the Cities of Egypt
 
 Egypt, besides its boast of extreme antiquity, asserts that it
 contained, in the reign of King Amasis[3549], 20,000 inhabited
@@ -9753,11 +8903,7 @@ writers call that the Naucratitic Mouth, which is by others called the
 Heracleotic, and mention it instead[3596] of the Canopic Mouth, which
 is the next to it.
 
-
-
-
-CHAP. 12. (11.)—THE COASTS OF ARABIA, SITUATE ON THE EGYPTIAN SEA.
-
+## Chap. 12. (11.)—the Coasts of Arabia, Situate on the Egyptian Sea
 
 Beyond the Pelusiac Mouth is Arabia[3597], which extends to the Red
 Sea, and joins the Arabia known by the surname of Happy[3598], so
@@ -9775,11 +8921,7 @@ town on the Red Sea, is, by way of the desert, 125 miles from Pelusium.
 How different the characteristics impressed by nature upon two places
 separated by so small a distance!
 
-
-
-
-CHAP. 13. (12.)—SYRIA.
-
+## Chap. 13. (12.)—syria
 
 Next to these countries Syria occupies the coast, once the greatest of
 lands, and distinguished by many names; for the part which joins up to
@@ -9801,11 +8943,7 @@ The Phœnician people enjoy the glory of having been the inventors of
 letters[3617], and the first discoverers of the sciences of astronomy,
 navigation, and the art of war.
 
-
-
-
-CHAP. 14.—IDUMÆA, PALÆSTINA, AND SAMARIA.
-
+## Chap. 14.—idumæa, Palæstina, and Samaria
 
 On leaving Pelusium we come to the Camp of Chabrias[3618], Mount
 Casius[3619], the temple of Jupiter Casius, and the tomb of Pompeius
@@ -9834,11 +8972,7 @@ interior of Samaria are the towns of Neapolis[3635], formerly called
 Mamortha, Sebaste[3636], situate on a mountain, and, on a still more
 lofty one, Gamala[3637].
 
-
-
-
-CHAP. 15. (14.)—JUDÆA.
-
+## Chap. 15. (14.)—judæa
 
 Beyond Idumæa and Samaria, Judæa extends far and wide. That part of it
 which joins up to Syria[3638] is called Galilæa, while that which is
@@ -9898,11 +9032,7 @@ fertility of its soil and its groves of palm-trees; now, like it, it is
 another heap of ashes. Next to it we come to Masada[3668], a fortress
 on a rock, not far from Lake Asphaltites. Thus much concerning Judæa.
 
-
-
-
-CHAP. 16. (18.)—DECAPOLIS.
-
+## Chap. 16. (18.)—decapolis
 
 On the side of Syria, joining up to Judæa, is the region of
 Decapolis[3669], so called from the number of its cities; as to
@@ -9922,11 +9052,7 @@ Trachonitis[3682], Panias[3683], in which is Cæsarea, with the spring
 previously mentioned[3684], Abila[3685], Arca[3686], Ampeloëssa[3687],
 and Gabe[3688].
 
-
-
-
-CHAP. 17. (19.)—PHŒNICE.
-
+## Chap. 17. (19.)—phœnice
 
 We must now return to the coast and to Phœnice. There was formerly a
 town here known as Crocodilon; there is still a river[3689] of that
@@ -9973,11 +9099,7 @@ stadia long, on an island, distant 200 paces from the mainland. After
 passing through the country in which the before-named mountains end and
 the plains that lie between, Mount Bargylus[3725] is seen to rise.
 
-
-
-
-CHAP. 18.—SYRIA ANTIOCHIA.
-
+## Chap. 18.—syria Antiochia
 
 Here Phœnicia ends, and Syria recommences. The towns are, Carne[3726],
 Balanea[3727], Paltos[3728], and Gabale[3729]; then the promontory
@@ -10004,11 +9126,7 @@ mountains and that of Taurus. On the coast there is the town of
 Myriandros[3745], and Mount Amanus[3746], upon which is the town of
 Bomitæ[3747]. This mountain separates Cilicia from Syria.
 
-
-
-
-CHAP. 19. (23.)—THE REMAINING PARTS OF SYRIA.
-
+## Chap. 19. (23.)—the Remaining Parts of Syria
 
 We must now speak of the interior of Syria. Cœle Syria has the
 town of Apamea[3748], divided by the river Marsyas from the
@@ -10032,11 +9150,7 @@ are called the Laodiceni on the Libanus, the Leucadii[3769], and the
 Larissæi, besides seventeen other Tetrarchies, divided into kingdoms
 and bearing barbarous names.
 
-
-
-
-CHAP. 20. (24.)—THE EUPHRATES.
-
+## Chap. 20. (24.)—the Euphrates
 
 This place, too, will be the most appropriate one for making some
 mention of the Euphrates. This river rises in Caranitis[3770], a
@@ -10073,11 +9187,7 @@ path which it originally intended. After passing the Cataracts[3788],
 the river again becomes navigable; and, at a distance of forty miles
 from thence, is Samosata[3789], the capital of Commagene.
 
-
-
-
-CHAP. 21.—SYRIA UPON THE EUPHRATES.
-
+## Chap. 21.—syria upon the Euphrates
 
 Arabia, above mentioned, has the cities of Edessa[3790], formerly
 called Antiochia, and, from the name of its fountain, Callirhoë[3791],
@@ -10132,11 +9242,7 @@ and entered Virgo, its waters begin to subside. By the time the sun has
 entered the twenty-ninth degree of Virgo, the river has fully regained
 its usual height.
 
-
-
-
-CHAP. 22. (27.)—CILICIA AND THE ADJOINING NATIONS.
-
+## Chap. 22. (27.)—cilicia and the Adjoining Nations
 
 But let us now return to the coast of Syria, joining up to which is
 Cilicia. We here find the river Diaphanes[3814], Mount Crocodilus,
@@ -10169,11 +9275,7 @@ had the name of Holmia. Besides those already mentioned, there are in
 the interior the rivers Liparis[3859], Bombos, Paradisus, and Mount
 Imbarus[3860].
 
-
-
-
-CHAP. 23.—ISAURIA AND THE HOMONADES.
-
+## Chap. 23.—isauria and the Homonades
 
 All the geographers have mentioned Pamphylia as joining up to Cilicia,
 without taking any notice of the people of Isauria[3861]. Its cities
@@ -10185,21 +9287,13 @@ Isauria, and their town of Homona[3864] in the interior. There are
 forty-four other fortresses, which lie concealed amid rugged crags and
 valleys.
 
-
-
-
-CHAP. 24.—PISIDIA.
-
+## Chap. 24.—pisidia
 
 The Pisidæ[3865], formerly called the Solymi, occupy the higher parts
 of the mountains. In their country there is the colony of Cæsarea, also
 called Antiochia[3866], and the towns of Oroanda[3867] and Sagalessos.
 
-
-
-
-CHAP. 25.—LYCAONIA.
-
+## Chap. 25.—lycaonia
 
 These people are bounded by Lycaonia[3868], which belongs to the
 jurisdiction of the province of Asia[3869], to which also resort the
@@ -10212,11 +9306,7 @@ Galatia and Cappadocia. On the [western] side of Lycaonia, and above
 Pamphylia, come the Milyæ[3875], a people descended from the Thracians;
 their city is Arycanda.
 
-
-
-
-CHAP. 26.—PAMPHYLIA.
-
+## Chap. 26.—pamphylia
 
 The former name of Pamphylia[3876] was Mopsopia[3877]. The Pamphylian
 Sea[3878] joins up to that of Cilicia. The towns of Pamphylia are
@@ -10227,11 +9317,7 @@ which flows past Aspendus, and Catarrhactes[3884], near to which is
 Lyrnesus: also the towns of Olbia[3885], and Phaselis[3886], the last
 on this coast.
 
-
-
-
-CHAP. 27.—MOUNT TAURUS.
-
+## Chap. 27.—mount Taurus
 
 Adjoining to Pamphylia is the Sea of Lycia and the country of
 Lycia[3887] itself, where the chain of Taurus, coming from the
@@ -10270,11 +9356,7 @@ and the Caspian, and on the left the Paryadrian[3894], the Moschian,
 the Amazonian, the Coraxican, and the Scythian chain. Among the Greeks
 it bears the one general name of Ceraunian[3895].
 
-
-
-
-CHAP. 28.—LYCIA.
-
+## Chap. 28.—lycia
 
 In Lycia, after leaving its promontory[3896], we come to the town
 of Simena, Mount Chimæra[3897], which sends forth flames by night,
@@ -10310,11 +9392,7 @@ Armenia on the east, Phrygia, Lycaonia, and Pamphylia on the west, the
 province of Pontus on the north, and the Sea of Pamphylia on the south,
 making it 575 miles in length and 325 in breadth.
 
-
-
-
-CHAP. 29.—CARIA.
-
+## Chap. 29.—caria
 
 Upon the adjoining coast is Caria[3922], then Ionia, and beyond it
 Æolis. Caria surrounds Doris, which lies in the middle, and runs down
@@ -10399,11 +9477,7 @@ Besides the above, there are the towns of Coscinus[4005], and
 Harpasa[4006], situate on the river Harpasus[4007], which also passed
 the town of Trallicon when it was in existence.
 
-
-
-
-CHAP. 30.—LYDIA.
-
+## Chap. 30.—lydia
 
 Lydia, bathed by the sinuous and ever-recurring windings of the
 river Mæander, lies extended above Ionia; it is joined by Phrygia on
@@ -10423,11 +9497,7 @@ called the Antoniopolitæ, situate on the banks of the Mæander, the
 Apollonihieritæ[4016], the Mesotimolitæ[4017], and some others of no
 note.
 
-
-
-
-CHAP. 31.—IONIA.
-
+## Chap. 31.—ionia
 
 Ionia begins at the Gulf of Iasos, and has a long winding coast with
 numerous bays. First comes the Gulf of Basilicum[4018], then the
@@ -10526,11 +9596,7 @@ Cilbiani[4070], both the Lower and Upper, the Mysomacedones[4071], the
 Mastaurenses[4072], the Briulitæ[4073], the Hypæpeni[4074], and the
 Dioshïeritæ[4075].
 
-
-
-
-CHAP. 32. (30.)—ÆOLIS.
-
+## Chap. 32. (30.)—æolis
 
 Æolis[4076] comes next, formerly known as Mysia, and Troas which
 is adjacent to the Hellespont. Here, after passing Phocæa, we come
@@ -10570,11 +9636,7 @@ the Pionitæ[4121], the Cilician Mandacadeni, and, in Mysia, the
 Abrettini[4122], the people known as the Hellespontii[4123], and others
 of less note.
 
-
-
-
-CHAP. 33.—TROAS AND THE ADJOINING NATIONS.
-
+## Chap. 33.—troas and the Adjoining Nations
 
 The first place in Troas is Hamaxitus[4124], then Cebrenia[4125],
 and then Troas[4126] itself, formerly called Antigonia, and now
@@ -10625,11 +9687,7 @@ which was founded by King Seleucus, between Cilicia, Cappadocia,
 Cataonia, and Armenia, and was at first called Damea[4161], from the
 fact that it had conquered nations most remarkable for their fierceness.
 
-
-
-
-CHAP. 34. (31.)—THE ISLANDS WHICH LIE IN FRONT OF ASIA.
-
+## Chap. 34. (31.)—the Islands Which Lie in Front of Asia
 
 Of the islands which lie before Asia the first is the one situate in
 the Canopic Mouth of the Nile, and which received its name, it is
@@ -10649,11 +9707,7 @@ between which and the continent, as we learn from Mucianus, at a depth
 of fifty cubits in the sea, fresh water is brought up from a spring at
 the very bottom by means of leather pipes[4168].
 
-
-
-
-CHAP. 35.—CYPRUS.
-
+## Chap. 35.—cyprus
 
 The Pamphylian Sea contains some islands of little note. The Cilician,
 besides four others of very considerable size, has Cyprus[4169],
@@ -10694,11 +9748,7 @@ of the river Glaucus[4205], there are Lagussa[4206], Macris, Didymæ,
 Helbo, Scope, Aspis, Telandria, the town of which no longer exists,
 and, in the vicinity of Caunus[4207], Rhodussa.
 
-
-
-
-CHAP. 36.—RHODES.
-
+## Chap. 36.—rhodes
 
 But the fairest of them all is the free island of Rhodes, 125, or,
 if we would rather believe Isidorus, 103 miles in circumference.
@@ -10740,11 +9790,7 @@ the mainland is an island which bears the name of Cinædopolis, from the
 circumstance that King Alexander left behind there certain persons of a
 most disgraceful character.
 
-
-
-
-CHAP. 37.—SAMOS.
-
+## Chap. 37.—samos
 
 The coast of Ionia has the islands of Trageæ, Corseæ[4239], and Icaros,
 which has been previously[4240] mentioned; Lade[4241], formerly
@@ -10761,11 +9807,7 @@ Chesius, and the Ibettes. There are also the fountains of Gigartho
 and Leucothea; and Mount Cercetius. In the vicinity of Samos are the
 islands of Rhypara, Nymphæa, and Achillea.
 
-
-
-
-CHAP. 38.—CHIOS.
-
+## Chap. 38.—chios
 
 At a distance of ninety-four miles from Samos is the free island of
 Chios[4252], its equal in fame, with a town of the same name. Ephorus
@@ -10797,11 +9839,7 @@ Facing Troas there are the Ascaniæ, and the three islands called
 Plateæ. We find also the Lamiæ, the two islands called Plitaniæ, Plate,
 Scopelos, Getone, Arthedon, Cœlæ, Lagussæ, and Didymæ.
 
-
-
-
-CHAP. 39.—LESBOS.
-
+## Chap. 39.—lesbos
 
 But Lesbos[4266], distant from Chios sixty-five miles, is the most
 celebrated of them all. It was formerly called Himerte, Lasia,
@@ -10824,11 +9862,7 @@ opposite the shore of Sigeum, lies Tenedos[4277], also known by the
 names of Leucophrys[4278], Phœnice, and Lyrnesos. It is distant from
 Lesbos fifty-six miles, and twelve and a half from Sigeum.
 
-
-
-
-CHAP. 40. (32.)—THE HELLESPONT AND MYSIA.
-
+## Chap. 40. (32.)—the Hellespont and Mysia
 
 The tide of the Hellespont now begins to run with greater violence,
 and the sea beats against the shore, undermining with its eddies the
@@ -10872,11 +9906,7 @@ trade of the Phrygians who dwelt in the vicinity. We may therefore look
 upon this as a not ineligible opportunity for making further mention of
 Phrygia.
 
-
-
-
-CHAP. 41.—PHRYGIA.
-
+## Chap. 41.—phrygia
 
 Phrygia lies above Troas, and the peoples already mentioned as
 extending from the Promontory of Lectum[4306] to the river Etheleus.
@@ -10889,11 +9919,7 @@ authors who say that the Mœsi, the Brygi, and the Thyni crossed over
 from Europe, and that from them are descended the peoples called the
 Mysi, Phryges, and Bithyni.
 
-
-
-
-CHAP. 42.—GALATIA AND THE ADJOINING NATIONS.
-
+## Chap. 42.—galatia and the Adjoining Nations
 
 On this occasion also it seems that we ought to speak of Galatia[4312],
 which lies above Phrygia, and includes the greater part of the
@@ -10918,11 +9944,7 @@ mentioned[4326], its rivers are the Sangarius[4327] and the
 Gallus[4328], from which last the priests[4329] of the Mother of the
 gods have taken their name.
 
-
-
-
-CHAP. 43.—BITHYNIA.
-
+## Chap. 43.—bithynia
 
 And now as to the remaining places on this coast. On the road from Cios
 into the interior is Prusa[4330], in Bithynia, founded by Hannibal at
@@ -10968,11 +9990,7 @@ Lycia[4352] and this spot. We have already[4353] mentioned the length
 of the Hellespont and Propontis to the Thracian Bosporus as being 239
 miles; from Chalcedon to Sigeum, Isidorus makes the distance 322-1/2.
 
-
-
-
-CHAP. 44.—THE ISLANDS OF THE PROPONTIS.
-
+## Chap. 44.—the Islands of the Propontis
 
 The islands of the Propontis are, before Cyzicus, Elaphonnesus[4354],
 from whence comes the Cyzican marble; it is also known by the names
@@ -10986,11 +10004,9 @@ Besbicos[4358], eighteen miles in circumference; the islands also of
 Elæa, the two called Rhodussæ, and those of Erebinthus[4359], Megale,
 Chalcitis[4360], and Pityodes[4361].
 
-
 SUMMARY.—Towns and nations spoken of ****. Noted rivers ****. Famous
 mountains ****. Islands, 118 in number. People or towns no longer in
 existence ****. Remarkable events, narratives, and observations ****.
-
 
 ROMAN AUTHORS QUOTED.—Agrippa[4362], Suetonius Paulinus[4363],
 M. Varro[4364], Varro Atacinus[4365], Cornelius Nepos[4366],
@@ -11016,13 +10032,9 @@ Himilco[4414], Nymphodorus[4415], Calliphanes[4416], Artemidorus[4417],
 Megasthenes[4418], Isidorus[4419], Cleobulus[4420], and
 Aristocreon[4421].
 
-  END OF VOL. I.
+## End of Vol. I
 
-
-
-
-APPENDIX OF CORRECTIONS.
-
+## Appendix of Corrections
 
   Page  1, line  9, The allusion, otherwise obscure, is to the fact that
                      some friends of Catullus had filched a set of
@@ -11108,8 +10120,7 @@ APPENDIX OF CORRECTIONS.
 
     „  93, „    16, _for_ luxuries, _read_ caprices.
 
-
-FOOTNOTES:
+## Footnotes
 
 [1] The weight of testimony inclines to the latter. The mere titles of
 the works which have been written on the subject would fill a volume.

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # The Redeemer's Face Set Like a Flint
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2738
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the Lord God will help Me; therefore I will not be disgraced: therefore have I set My face like a flint, and I know that I shall not be ashamed." Isaiah 50:7.
 
@@ -111,7 +108,7 @@ Brother, Sister! You will get up in a corner, all alone, I am afraid—I will tr
 
 I must say just this closing word. There are some of you, working men, who come here, and who begin to fear the Lord. But when you get into the workshop, everybody jeers at you. Now, set your face like a flint and resolve not to mind it. I pray God that in the midst of the chaff and the foul language with which your ears will be assailed, you may be able to stand fast for God, even as Christ Jesus stood fast for you. The Lord bless you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C H. SPURGEON: ISAIAH50.
+## Exposition by C H. Spurgeon: Isaiah 50
 
 This chapter might well have been written by our Lord Jesus Christ, Himself, at the time when He was upon the earth.
 
@@ -140,7 +137,6 @@ hid not My face from shame and spitting." I think anything I might say would onl
 11\. That compass yourselves about with sparks: walk in the light of your fire and in the sparks that you have kindled. "Be happy while you may! Have 'a short life and a merry one' if that is your choice."
 
 11\. This shall you have of My hand. When your walking is done, see what will be the end of it— 11. You shall lie down in sorrow.
-
 
 ---
 [[Sermon 2737 Who Should Be Baptized|← #2737]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2739 'I Have Enough'|#2739 →]]

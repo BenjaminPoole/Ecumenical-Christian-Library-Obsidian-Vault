@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-journal
 ---
-
 # 21. Wesley's Last Hours
 
-BY ONE WHO WAS PRESENT
+*By One Who Was Present*
 
 On Thursday [February 24, 1791] Mr. Wesley paid his last visit to that lovely place and family, Mr. Wolff's, at Balaam, which I have often heard him speak of with pleasure and much affection. Here Mr. Rogers said he was cheerful, and seemed nearly as well as usual till Friday, about breakfast time, when he seemed very heavy.
 

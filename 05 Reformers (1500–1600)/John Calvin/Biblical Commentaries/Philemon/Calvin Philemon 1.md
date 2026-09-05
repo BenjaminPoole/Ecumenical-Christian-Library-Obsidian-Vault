@@ -10,7 +10,6 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Philemon 1
 
 ## Philemon 1-7
@@ -161,7 +160,7 @@ When Paul pleads so humbly in behalf of another, we are reminded how far distant
 
 **24** *Demas*. This is the same person who afterwards forsook him, as he complains in the Second Epistle to Timothy (2 Timothy 4:10.) And if one of Paul’s assistants, having become weary and discouraged, was afterwards drawn aside by the vanity of the world, let no man reckon too confidently on the zeal of a single year; but, considering how large a portion of the journey still remains to be accomplished, let him pray to God for steadfastness.
 
-**END OF THE COMMENTARIES ON THE EPISTLE TO PHILEMON.**
+## **End of the Commentaries on the Epistle to Philemon.**
 
 ---
 [[Library/protestant reformers/John Calvin/Biblical Commentaries/Philemon/philemon-index|Contents]]

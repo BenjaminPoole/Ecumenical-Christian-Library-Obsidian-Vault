@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 15. Decade 2, Sermon 3
 
 Tue third commandment of the first table® is thus word for The third word: “ Thou shalt not take the name of the Lord thy God ment of God. in vain; because the Lord will not let him go unpunished that taketh the name of the Lord his God in vain.” In the second commandment the Lord did set down the worship that he would not have, that he misliked of, and did flatly forbid ;
@@ -19,8 +18,6 @@ Tue third commandment of the first table® is thus word for The third word: “ 
 to wit, a worldly, earthly, and carnal kind of honour, a base
 
 [4 coelestia, Lat.] [5 prime tabule, seu Decalogi, Lat. ] [6 sive Decalogi, Lat. omitted.]
-
-238 THE SECOND DECADE, [sERM.
 
 and vile kind of worship, a service that is directly contrary to the spirit, nature, and majesty of God; that is, to think that God will in shape resemble a man, or any other creature made of earth or corruptible stuff or matter; and then again, to worship him under those shapes and figures with corruptible things, that were first ordained and created for the use and behoof of men, and not of God. For God is an eternal Spirit, which goeth all over! and preserveth every thing; whom all the most excellent creatures of the whole world, if they were joined together in one, are not able to resemble, nor yet to represent the least jot of excellency in the living God. God is so far from lacking any corruptible things, that he himself supplieth the want of all our necessities. It is a mere folly therefore to set up a percher, a taper, or a smoky torch before the maker and giver of light. It is a very toy to offer flesh of beasts to that eternal Spirit, who in the Psalms saith: “ All the beasts of the wood are mine, and the cattle in a thousand hills. I know all birds upon the mountains, and in my power are all the beasts of the field. If I be hungry, I need not to tell thee, since the world is mine, and all that is therein?.”
 
@@ -38,15 +35,13 @@ IL. | THE THIRD PRECEPT OF THE TEN COMMANDMENTS. 239 city and infinite treasure 
 
 How the name of God is abused.
 
-240 THE SECOND DECADE. [SERM.
-
 precisely and holily keep the oath which we have made by the name of the living and eternal God. Let us in all things tell truth, and lie not; that when this world, that will not see, shall be enforced to see so great a reverence and devotion in us to the name of our God, it may be compelled thereby to glorify our Father which is in heaven, And this verily is the godly using of the Lord’s name, and the religion! wherein our God is very well pleased.
 
 Now note by the way, that there are sundry ways whereby we abuse the name of God; and first of all, we abuse it as often as our hearts are without all reverence to God himself; when we do unreverently, filthily?, wickedly, and blasphemously speak of God, of his judgments, of his word, and of his laws; when we do with scoffing allusions apply God’s words to light matters and trifles, by that means turning and drawing the scriptures into a profane and unhonest meaning. Moreover, we do disgrace the name of the Lord our God, when we call not upon his name, but turn ourselves rather to 1 know not what sort of gods, to man’s skill and succour, to things forbidden, to idols, and conjurors*; which we fall a-doing then especially, when, being wrapped in misery and calamities, either for our sins, or else because God will try us, we do presently begin to murmur against God, and to accuse his judgments, hardly abstaining from open blasphemy, in grudging to bear the things that for our deserts we do worthily suffer. Hereunto belongeth the abuse of beastly knaves, which do not stick to use the holy name of God in obtaining their filthy lusts, which they call love; and also the naughtiness of them that thereby seek to find and recover the things that are lost, or else are stolen from them. We do unhallow the name of the Lord our God, when we give not to him all honour and glory. We shall, peradventure, do some good deed; there is, perhaps, in us something worthy to be praised: if we, therefore, shall challenge the praise thereof to ourselves, or, at the least, shall pare out a piece of that glory for our own share, and give the rest to God, not referring it all and whole to God the author of all, then do we therein defile the name of God, which ought alone to be praised for ever and ever.
 
 [1 cultus, Lat. ] [2 petulanter, Lat. ] [3 ad magicas artes, Lat.]
 
-1.1 THE THIRD PRECEPT OF THE TEN COMMANDMENTS. 241
+## 1.1 the Third Precept of the Ten Commandments. 241
 
 Furthermore, if we deny the Lord, or blush at and be ashamed of his holy gospel, because of this wicked world and the naughty men therein; if also we do spot ourselves with a filthy and unclean life, which is to the slander of God’s name and the offence of our neighbour; then do we take the Lord’s name in vain; yea, we abuse it to his dishonour and reproach. We do abuse the name of the Lord, if we take a solemn oath in a trifle or matter of no effect, or if we do not keep and perform the oath that we have sworn. In our daily talk very often, and almost about godless matters, we are wont to call, and take to witness, the dreadful name of God, having learned it of an ill continuance and custom, or else being stirred up by some evil motion of our naughty mind: we have an innumerable sort of deep and terrible oaths, as wounds, blood, cross, and passion of the Lord, heaven, earth, sacraments, every saint in heaven, and all the devils of hell*. Beside all this, we abuse the name of God also sundry and divers ways in telling of lies. The preacher or teacher of the church lieth, when he crieth, “ Thus saith the Lord;” whereas the Lord indeed saith nothing so. He maketh the name of God a cloke and a colour to hide his deceit, and doth beguile poor simple souls. The magistrate crieth out, ‘“ All power is of God*;” and so, under pretence of God’s name, doth his subjects injury in playing the tyrant and not the magistrate. The common people deceive one another, under the name of the Lord, in contracts and bargaining. And the sturdy rogue, unworthy of alms, will not stickle to stand and make God’s name an idle occupation for to get a penny. But who can reckon up all the things, wherein God’s name is foully abused? We must all therefore have an eye, that we defile not the name of God, but rather bless it, and holily worship it.
 
@@ -57,8 +52,6 @@ For it followeth in the words of the Lord, what punishment abideth for them that
 The punishment of thein that abuse God's name.
 
 A pain for blasphemers decreed by an emperor.
-
-242 THE SECOND DECADE. [SERM.
 
 them whom the Lord hath punished for defiling his name. David crieth out, and saith: “The unrighteous shall not stand in thy sight, O Lord: thou hatest them that work iniquity : thou shalt destroy all them that speak 1105}. But how much more likely is it, that the Lord will destroy all them that speak blasphemy, and abuse his holy name! Saul, verily, because he called not upon the Lord in his extreme necessity, but asked counsel of the pythonisse®, was compelled to kill himself with his own hand, after he had seen his people downright slain by the Philistines, his enemies, and his sons lie dead in the midst of the people. Ananias lieth to the Holy Ghost, and defileth the name of the Lord; and, falling down suddenly dead to the ground, down he goeth with shame enough to the devil of hell’. Sanherib blasphemeth the name of the eternal God before the walls of Jerusalem ; but anon after he is for his labour bereft of his puissant army, and in his own god’s temple is shot through* by his own sons. Jehoiachim and Zedechias, both kings of Juda and blasphemers of God’s name, are taken captives and slain by Nabuchodonosor, king of Babylon’. Achab, Jezebel, and the priests of Baal are utterly wiped out by king Jehu, because they, under the colour of God and godliness, blasphemed the name of God, and persecuted the true religion®. In the twenty-fourth of Leviticus, he that blasphemed the name of God was overwhelmed with stones to death.
 
@@ -86,8 +79,6 @@ Of an oath.
 
 Whether it be lawful to Swear.
 
-214 THE SECOND DECADE. [serM.
-
 which saith, that they shall not scape scot free that take his name in vain. The men of our time do not only take it in vain, but do of malice also blasphemously defile it. I would to God the magistrates would more sincerely set forth the worship of God among the people: or else, if this may not be obtained at their hands, yet then at least that they would be no worse nor godless than Caiphas, who, when he heard (as he thought) blasphemy against the name of God, did rent his clothes!, and cry, that the blasphemer was worthy to die. For surely, unless our christian magistrates do become more sharp and severe against blaspheming villanies, I do not see but that they must needs be a great deal worse than the wicked knaye Caiphas. Undoubtedly the Lord is true (as every one of you must severally think within yourselves), and he verily will punish in all men the defiling of his name, but much more the malicious blaspheming of the Same.
 
 This very matter and place do now require, that I also speak somewhat here of taking an oath, or swearing, which is done by calling and taking to witness of God’s name. Now, in the handling of this matter, many things are to be thought of and considered. For first of all, 1 see that some there are, which doubt whether it be lawful to take an oath or no, because in Matthew the Lord hath said: “Ye have heard what was said of old, Thou shalt not forswear thyself, but shalt perform thine oaths unto the Lord; but I say unto you, Swear not at all, &c.2” But the Lord’s mind in Matthew was not to take clean away the true and ancient law, but to interpret it, and to bring it to a sounder sense, because it was before corrupted and marred by divers forged and counterfeit glosses of the Pharisees. For the people, being taught by them, had evermore an eye to keep their mouths from perjury ; but touching superfiuous, unprofitable, and needless oaths, they had no care at all, not thinking that it was amiss to swear by heaven and by earth: wherefore the Lord, expounding his Father’s law, saith, that all oaths generally are forbidden, to wit, those wherein the name of the Lord is taken in vain, and whereby we swear when there is no need at all. In the meanwhile, he neither condemned, nor yet took clean
@@ -108,8 +99,6 @@ For what causes we ought to swear.
 
 What an oath is.
 
-246 THE SECOND DECADE. [SERM.
-
 neighbour, and for the public weal. We must mark therefore, when, and why, the people of God have sworn in the scriptures. Abraham sware, when he made the league and confederacy with Abimelech!, The people of God doth very often swear under their kings, in making a covenant with God for the keeping of true religion®% They of old time did clear themselves of heinous suspicions by taking of an oath. In Exodus we read: “If any man shall give to his neighbour a beast to keep, and it shall die, or be stolen away, no man seeing it, then shall an oath by the Lord go betwixt them twain, that he hath not laid his hand on his neighbour’s thing : which oath the owner of the thing shall take, and the other shall not restore 108, For Paul, in the sixth to the Hebrews, saith: ‘Men verily swear by the greater; and an oath for confirmation is to them an end of all strife.’ To this end, therefore, let magistrates apply the use of an oath; and let them have an especial regard, in giving an oath, to do it reverently : let the peers of the people* keep inviolably that which they swear; and let them take heed that they do not rashly require an oath of light-headed fellows: let them not compare any thing, or think any thing to be equal, to an oath; but let them reverently, and last of all, have their recourse to that, as to the utmost remedy to find out the truth; and therewithal let them use sharp punishment against perjured persons®, But woe to the people’s princes, if through their wicked negligence an oath be not esteemed! For he, without doubt, will punish them sharply for it, who saith: “ Because I will not suffer him to go unpunished that taketh the Lord’s name in vain,”
 
 Thirdly, I will tell you what an oath is, and what it is to swear. An oath is the calling or taking to witness of God’s name, to confirm the truth of that we say. There is difference betwixt an oath, and that deep kind of swearing, whereby
@@ -124,7 +113,7 @@ Thirdly, I will tell you what an oath is, and what it is to swear. An oath is th
 
 [5 Ita minus vilescet in popularium animis juramenti religio, Lat. omitted by the translator. By these means reverence for an oath will not be so much weakened in the minds of their people. ]
 
-11\. } THE THIRD PRECEPT OF THE TEN COMMANDMENTS. 247
+## 11\. } the Third Precept of the Ten Commandments. 247
 
 God is blasphemed and torn in pieces, There is difference, too, betwixt an oath and those bitter speeches wherewith we use to curse and ban our neighbours: they are not worthy, doubtless, to be called oaths. But, for because this word juramentum is over largely used for any kind of oath, as well in the worse as better part; therefore the godly and lawful oaths are wisely called by the name of jusjurandum®. For by adding jus, which signifieth the law, we are admonished that that kind of oath is lawful and righteous. Now this taking of God’s name to witness hath joined to it a calling on, and avowing ourselves to, God’s curse and vengeance. For this is the manner of an oath and order of swearing: I will say, or do, it truly indeed and without deceit, so God may help me. Therefore we put ourselves in danger of God’s wrath and vengeance, unless we do truly and indeed both speak and do the thing that we promised to do or speak. A very deep and solemn promise-making is this, than the which verily there is not a greater to be found in the world. Here also must be considered the circumstances and ceremonies in swearing. For our ancesters of old were wont to lift their hand up unto heaven, and to swear by the name of the Lord. The Lord our God dwelleth in heaven. We therefore do manifestly declare, that, as in the judges’ eyes we lift our hand to heaven, even so in our minds we do ascend, and swear in the presence and sight of God; yea, we give our hand, and plight our faith, to God there, in taking an oath by the name of God. This ceremony used Abraham, the singular friend of God, and father of the faithful’, when he was wont to swear.
 
@@ -138,8 +127,6 @@ How we ought to swear.
 
 An oath is the special honour done God.
 
-248 ; THE SECOND DECADE. [SERM.
-
 God, thou shalt serve him, and swear by his name.” Deut. sixth and tenth chapter. Also the Lord himself in Esay saith: “ To me shall every knee bend, and by me shall every tongue swear!.” And again, in the sixty-fifth chapter, the same prophet saith: “He that will bless himself shall bless in the Lord, and he that will swear shall swear by the true and very God.” Of the latter sort too are these testimonies of the holy scriptures: Exod. xxiii., “ All that I have said keep ye, and do ye not once so much as think of the names of strange gods, neither let them be heard out of your mouth.” And Josue, in the twenty-third chapter, saith: ‘‘ When ye shall come in among these nations, see that ye swear not by the name of their gods, and look that ye neither worship nor yet bow down unto them.” In the fifth of Jeremy the Lord saith : ‘ Thy sons have forsaken me, and sworn by other gods, which are no gods indeed: I have filled them, and they have gone a whoring,” &c. Moreover, the prophet Sophony bringeth in the Lord speaking and saying: “1 will cut off those that worship and swear by the Lord, and swear by Malchom?,” that is, by their king and defender. And no marvel though he do threaten destruction to them that swear by the names of creatures: for an oath is the chief and especial honour done to God, which therefore cannot be divided to other. For we swear by the highest, whom we believe to be the chiefest goodness, the giver of all good things, and the punishing revenger of every evil deed. But and if we swear by the names of other gods, then verily shall we make them equal to God himself, and attribute to them the honour due to him. And for this cause the blessed martyr of Christ, Polycarpus, chose rather the flames of fire than to swear by the power and estate of Caesar. The story is to be seen in the fourth book and fifteenth chapter of Eusebius*.
 
 [1 Isai. xly. 23.]
@@ -148,7 +135,7 @@ God, thou shalt serve him, and swear by his name.” Deut. sixth and tenth chapt
 
 [3 ᾿Επιμένοντος δὲ πάλιν αὐτοῦ (rod ἡγουμένου) καὶ λέγοντος, Ὄμοσον τὴν Καίσαρος τύχην, ὁ Πολύκαρπος, El κενοδοξεῖς, φησὶν, ἵνα ὀμόσω τὴν Καίσαρος τύχην, ὡς λέγεις προσποιούμενος ἀγνοεῖν ὅς τις εἰμὶ, μετὰ παῤῥησίας ἄκουε: Χριστιανὸς eiul.—Euseb. Hist. Eccles. Lib. rv. cap. 15. See also Early Writings of Hooper, Parker Soc. ed. page 478.]
 
-1Π.7 THE THIRD PRECEPT OF THE TEN COMMANDMENTS. 249
+## 1π.7 the Third Precept of the Ten Commandments. 249
 
 Fourthly, we have to consider how we ought to swear, and what the conditions of a just, a lawful, and an honest oath are. Jeremy therefore saith: ‘Thou shalt swear, The the condiLord liveth, in truth, in judgment, and righteousness: and holy oath. the nations shall bless themselves in him, and in him shall they glory.” There are therefore four conditions of a just and a lawful oath. The first is, Thou shalt swear, “ The Lord liveth.” Here now again is repeated that which hath so many times been beaten into our heads, that we ought to swear by the name of the living God. The pattern of our ancestors’ oath was this, “The Lord liveth;” as it is evident by the writings of the prophets. Let us not swear therefore by any other but by God. The second condition is: ‘ Thou shalt swear in truth.” So then it is required, that not only the tongue, but also the mind, should swear; lest haply we say, The tongue indeed did swear, but the mind sware not at all® Let us be true and faithful therefore, without deceit or guile ; let us not lie, nor go about with subtilty to shift off the oath that once we have made. We Germans express this well, when we say, On alle gfard®, or else, On gfard; that is, I will not use any double dealing, but will simply and in good faith perform that I promise. There is an excellent pattern of a false and a deceitful oath in Auli Gelliit Noct. Att. Lib. vit. cap. 18.7 The third condition is: “Thou shalt swear in,” or with, “judgment ;” that is, advisedly, with great discretion, not rashly nor lightly, but with consideration of every thing and circumstance, in great necessity, and cases of public commodity. The fourth condition is : “Thou shalt swear in justice,” or righteousness ; lest peradventure our oath be against right and equity, that is, lest we sin against righteousness or justice, which attributeth that which is theirs both to God and man;
 
@@ -163,8 +150,6 @@ Fourthly, we have to consider how we ought to swear, and what the conditions of 
 Whether wicked oaths must be performed.
 
 It is best to break an ill oath.
-
-250 THE SECOND DECADE. [SERM.
 
 so that our oath do not directly tend against the love of God and our neighbour.
 
@@ -194,8 +179,6 @@ Monastical vows.
 
 How religiously we
 
-252 THE SECOND DECADE. [SERM.
-
 not. Thus much hitherto have I rehearsed of other men’s words, which all men verily acknowledge to be true and so indeed. Now by this ye do easily understand, dearly beloved, what ye have to think of those monastical vows and priests’ oaths, which promise chastity, (no farther, I wis, by their leave, than man’s frail weakness will suffer them.) “For it is better,” saith the apostle, “to marry than to burn!” And more commendable is it not to perform those foolish, hurtful, and unpure promises, that drive them perforce to filthy uncleanness, than, under the colour of keeping an oath truly, to lie and to live unchastely, God wot?
 
 Fifthly and lastly, I have briefly to put you in mind, that ought tokeep ye endeavour yourselves, by all the means ye may, devoutly our Oaths.
@@ -208,7 +191,7 @@ to keep that which ye swear; and therewithal, in few words, to let you understan
 
 Let us endeavour ourselves, my brethren, I beseech you, to sanctify the Lord’s name, and to add to this third commandment your earnest and continual prayers, saying, as our Lord Jesus hath taught us, O heavenly Father, hallowed be thy name; or, let thy name be holily worshipped. To him be glory for ever and ever. Amen.
 
-OF THE FOURTH PRECEPT OF THE FIRST TABLE, THAT IS, OF THE ORDER AND KEEPING OF THE SABBATH-DAY.
+## Of the Fourth Precept of the First Table, that Is, of the Order and Keeping of the Sabbath-Day
 
 ---
 [[Bullinger Dec 14 Decade 2, Sermon 2|← 14. Decade 2, Sermon 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 16 Decade 2, Sermon 4|16. Decade 2, Sermon 4 →]]

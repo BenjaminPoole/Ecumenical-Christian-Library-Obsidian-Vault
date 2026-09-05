@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 7. Speech at an Assembly of Bishops, 1536
 
-[A SPEECH DELIVERED AT AN ASSEMBLY OF BISHOPS, 15362.]
+*[A Speech Delivered at an Assembly of Bishops, 15362.]*
 
 IT beseemcth not men of learning and gravity to make much babbling and brawlKOXO. p.ii82. ing about bare words, so that we agree in the very substance and effect of the matter. For to brawl about words is the property of sophisters and such as mean deceit and subtilty, which delight in the debate and dissension of the world, and in the miserable state of the churph; and not of them which should seek the glory of Christ, and should study for the unity and quietness of the church. There be weighty contro versies now moved and put forth, not of ceremonies and light things, but of the true understanding and of the right difference of the law and of the gospel ; of the manner and way how sins be forgiven ; of comforting doubtful and wavering consciences, by what means they may be certified that they please God, seeing they feel the strength of the law accusing them of sin ; of the true use of the sacraments, whether the outward work of them doth justify man, or whether we receive our justification by faith. Item, which be the good works, and the true service and honour which pleaseth God : and whether the choice of meats, the difference of garments, the vows of monks and priests, and other traditions which have no word of God to confirm them, whether these, I say, be right good works, and such as make a perfect Christian man, or no. Item, whether vain service, and false honouring of God, and man's traditions, do bind men's consciences, or no. Finally, whether the ceremony of confirmation, of orders, and of annealing, and such other (which cannot be proved to be institute of Christ, nor have any word in them to certify us of remission of sins,) ought to be called sacra ments, and to be compared with baptism and the supper of the Lord, or no.
 
@@ -21,7 +20,7 @@ These be no light matters, but even the principal points of our Christian religi
 
 [2 This speech is printed from Foxe's Acts and j mer, Fox, bishop of Hereford, and "one Alexander
 
-Monuments, and was delivered by Cranmer at an j Alesse, a Scotchman, much esteemed for his learn- assembly of bishops, appointed by Henry VIII. to ing and piety, whom Cranmer entertained at Lam- u determine those things which pertained unto rebeth," and whom Crumwell brought with him to ligion." The whole of the discussion is related in j give his opinion respecting the sacraments. Stokes-
+Monuments, and was delivered by Cranmer at an j Alesse, a Scotchman, much esteemed for his learn-assembly of bishops, appointed by Henry VIII. to ing and piety, whom Cranmer entertained at Lam- u determine those things which pertained unto rebeth," and whom Crumwell brought with him to ligion." The whole of the discussion is related in j give his opinion respecting the sacraments. Stokes-
 
 Foxe, and an abridged statement of it is given in j ley, bishop of London, replied to him, attempting
 

@@ -9,10 +9,9 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # A Farther Appeal to Men of Reason and Religion, Part II
 
-PART II.
+## Part II
 
 I. 1. IT is not my present design to touch on any particular *opinions* , whether they are right or wrong; nor on any of those smaller points of practice, which are variously held by men of different persuasions: but first, to point out some things which on *common* principles are condemned by men of every denomination, and yet found in all; and secondly, some wherein those of each denomination, are more particularly inconsistent with *their own* principles.
 

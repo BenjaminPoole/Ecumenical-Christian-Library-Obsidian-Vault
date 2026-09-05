@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Jesus Joyfully Received
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2701
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He...received Him joyfully." Luke 19:6.
 
@@ -77,7 +74,7 @@ And this blessed voluntariness, this joyous freedom of the will conferred by Sov
 
 III. This brings me now to close with my third remark, which is, that THE RECEPTION WHICH WE GIVE TO
 
-CHRIST MAY WELL BE A JOYFUL ONE.
+## Christ May Well Be a Joyful One
 
 To receive Christ into the heart, dear Brothers and Sisters—ought not that to be as glad a thing as for a man to welcome his long-desired bride, or his firstborn child, or to receive his estate when he comes to the ripeness of manhood? Yes, more than that! Ought it not to be as much joy to receive Christ as to receive Heaven, itself, for would there be any Heaven possible if we had not first received Christ? Ring the bells of Heaven and ring them yet again, for a soul has re-
 
@@ -109,7 +106,7 @@ Look at Zacchaeus. I can see him. As soon as ever Christ says to him, "Come down
 
 That was very sensible on the part of Malachi and I say to you—Do not be asking about predestination or anything else, but just receive Christ! And when you have accepted Him, you may rest assured that He has given you power to become a son of God! You have believed on His name and, therefore, you are saved! That is the all-important point. So, like Zacchaeus, make haste, and come down, and receive Christ joyfully! The Lord grant that you may do it and unto His name shall be the praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 19:1-27.
+## Exposition by C. H. Spurgeon: Luke 19:1-27
 
 Verses 1, 2. And Jesus entered and passed through Jericho. And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich. Many of those tax-gatherers were rich. They usually farmed the taxes, and took care to extort all that they possibly could out of the poverty of the people.
 
@@ -152,7 +149,6 @@ it.
 24-26. And he said unto them that stood by, Take from him thepound, and give it to him that has ten pounds. (And they said unto him, Lord, he has tenpounds). For Isay unto you, that unto everyone which has shall be given; and from him that has not, even what he has shall be taken away from him. They who have some already shall have more, especially in the matter of Grace. If you serve God well, He will give you more to do. If you love Him ardently, He will reward you by enabling you to have more love to Him. And if you exercise great faith, He will give you yet more faith. The way to be truly enriched, spiritually, is to be faithful to God in what we have.
 
 27\. But those mine enemies, which would not that I should reign over them, bring hither and slay them before me. Whatever these words mean, it is certain that there is a terrible doom in store for all who are God's enemies! May none of us be found among them!
-
 
 ---
 [[Sermon 2700 Growth in Grace|← #2700]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2702 'Marvelous Loving Kindness'|#2702 →]]

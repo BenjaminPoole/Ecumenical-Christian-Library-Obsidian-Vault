@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Resurrection of Our Lord Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1653
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 9, 1882,.
+*Delivered on Lord's-Day Morning, April 9, 1882*
 
 > "Remember that Jesus Christ of the seed of David was raised from the dead according to my Gospel." 2 Timothy 2:8.
 
@@ -144,7 +143,6 @@ No, that very day our Lord won a victory which shook the gates of Hell and cause
 Do you think nothing has been done? Has death taken away those martyrs, and confessors, and preachers, and laborious saints, and has nothing been achieved? Truly if Christ were dead, I would admit our defeat, for they that are fallen asleep in Him would have perished! But as Christ lives, so the cause lives, and they that have fallen are not dead—they have vanished from our sight for a little while—but if the curtain could be withdrawn, every one of them would be seen to stand in his lot unharmed, crowned and victorious! "Who are these arrayed in white robes, and whence came they?" These are they that were defeated! Why, then, their crowns? These are they that were dishonored! Why, then, their white robes? These are they who clung to a cause which is overthrown! Why, then, their long line of victories, for there is not a vanquished man among them all?
 
 Let the Truth of God be spoken! Defeat is not the word for the cause of Jesus, the Prince of the house of David! We have always been victorious, Brothers and Sisters! We are victorious now. Follow your Master on your white horses and be not afraid! I see Him in the front with His blood-stained vesture around Him, fresh from the winepress where He has trod down His foes. You have not to present atoning blood, but only to conquer after your Lord! Put on your white raiment and follow Him on your white horses, conquering and to conquer! He is nearer than we think and the end of all things may be before the next jibe shall have come forth from the mouth of the last new skeptic. Have confidence in the Risen One and live in the power of His Resurrection!
-
 
 ---
 [[Sermon 1652 The Singing Pilgrim|← #1652]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1654 At Your Word|#1654 →]]

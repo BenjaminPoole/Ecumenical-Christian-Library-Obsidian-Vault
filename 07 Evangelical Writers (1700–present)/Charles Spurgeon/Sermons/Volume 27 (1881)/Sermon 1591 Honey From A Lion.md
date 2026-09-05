@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Honey From A Lion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1591
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 3, 1881,.
+*Delivered on Lord's-Day Morning, April 3, 1881*
 
 > "But the free gift is not like the offense For if through the offense of one, many are dead, much more the Grace of God, and the gift by Grace, which is by one Man, Jesus Christ, has abounded unto many." Romans 5:15.
 
@@ -79,7 +78,7 @@ Where can you go and not find traces of the first transgression in the sepulcher
 
 This sad truth leads me on to the one which is the essence of the text and constitutes my third observation.
 
-III. FROM THE FALL WE INFER THE MORE ABUNDANT CERTAINTY THAT SALVATION BY GRACE
+## III. From the Fall We Infer the More Abundant Certainty that Salvation by Grace
 
 THROUGH CHRIST JESUS SHALL COME TO BELIEVERS. If all this mischief has happened to us through the fall of Adam why should not immense blessings flow to us by the work of Christ? Through Adam's transgression we lost Paradise, that is certain. But if anything can be more certain, we may, with greater positiveness, declare that the Second Adam will restore the ruin of the first! If through the offense of one man many are dead, much more the Grace of God and the gift by Grace, which is by one Man, Jesus Christ, shall abound and has abounded unto many.
 
@@ -158,7 +157,6 @@ There must be much more sap in the Man, the Branch, than in that poor plant, the
 Do not think that this is an unwarrantable assertion, for I feel sure that it is the Truth of God. Do you not read in the Gospels of a woman who washed the Savior's feet with tears and wiped them with the hairs of her head and anointed them with ointment? Did not the Savior say that she loved much because she had been much forgiven? I take it that the same general principle will apply to all places—to eternity as well as to time—and, therefore, I believe that forgiven sinners will have a love to God and to His Christ such as cherubim and seraphim never felt! Gabriel cannot love Jesus as a forgiven man will do! Those who have washed their robes and made them white in the blood of the Lamb will be nearer and dearer to Him and He will be nearer and dearer to them than all the ministering spirits before the Throne of God, for He took upon Him our Nature and not theirs!
 
 Glory be unto You, O Christ! As I look into the awful deeps of Adam's fall, I tremble, but when I lift up my eyes, again, to the eternal heights where You have raised me by Your passion and Your Resurrection, I feel strengthened by the former vision! I magnify the infinite Grace of God and believe in it unstaggeringly! Oh, that I had power to magnify it with fit words and proper speech, but these are not with me. Accept the feeling of the heart when the language of the lips confesses its failure. Accept it, Lord, through the Well-Beloved! Amen.
-
 
 ---
 [[Sermon 1590 The Barrier|← #1590]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1592 The Common Salvation|#1592 →]]

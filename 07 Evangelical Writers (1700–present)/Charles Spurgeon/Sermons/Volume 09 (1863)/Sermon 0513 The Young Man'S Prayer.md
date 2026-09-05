@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/09
 ---
-
 # The Young Man'S Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 513
@@ -35,7 +34,7 @@ Still, it appears to me that without straining so much as one word even in the s
 
 I shall use the text in two ways, first, as the ground of my address to the young. And then, secondly, as a model for your address to God.
 
-I. WE WILL MAKE OUR TEXT THE GROUND WORK OF A SOLEMN PLEADING WITH YOUNG MEN AND WOMEN TO GIVE THEIR HEARTS TO CHRIST THIS DAY.
+## I. We Will Make Our Text the Ground Work of a Solemn Pleading with Young Men and Women to Give Their Hearts to Christ This Day
 
 The voice of Wisdom reminds you in this, our text, that you are not pure in God's sight, but NEED HIS MERCY. Early as it is with you, you must come before God on the same footing as those who seek Him at the eleventh hour. Here is nothing said about merit, nothing concerning the natural innocence of youth or the beauty of the juvenile character. You are not thus flattered and deceived. But Holy Scripture guides you aright, by dictating to you an evangelical prayer, such as God will deign to accept—"O satisfy us early with your mercy."
 
@@ -146,7 +145,6 @@ I must leave this poor sermon of mine with the people of God to pray over it. So
 Unconverted fathers shall be made to feel the power of godliness through their daughters. And mothers who despise religion shall not dare to neglect it any longer because they see it exemplified and illustrated in their sons. We want missionaries everywhere! This great city never can by any possibility become the Lord's except by individual action. We must have all Christians at work, and since we cannot get the old ones to work as we would—since preach as we may, they will settle on their lees—we long for new recruits, whose ardor shall rekindle the dying enthusiasm of the seniors. We want to see fresh minds come in all aglow with holy fervor to keep the fire still blazing on the altar.
 
 For Jesus Christ's sake I do implore you, you who number but few years—offer this supplication in your pew. Do it now. It is a Brother's heart that begs the favor. It is for your own soul's sake, that you may be blessed on earth, and that you may have the joys of Heaven. There is a prayer-hearing God. The Mercy Seat is still open. Christ still waits. May the Spirit of God compel you now to come before Him in supplication. Now may He compel you to come in, with this as your cry—"O satisfy us early with Your mercy, that we may rejoice and be glad all our days."
-
 
 ---
 [[Sermon 0512 A Precious Drop Of Honey|← #512]] · [[Volume 09 (1863)|Volume 09 (1863) Contents]] · [[Sermon 0514 Tell It All|#514 →]]

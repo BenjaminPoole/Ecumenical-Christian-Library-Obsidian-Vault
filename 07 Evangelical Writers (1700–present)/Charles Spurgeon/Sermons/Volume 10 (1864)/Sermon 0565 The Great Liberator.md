@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Great Liberator
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 565
 
-DELIVERED ON SUNDAY MORNING, APRIL 17, 1864, BY THE REV. C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, April 17, 1864, by the Rev. C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > John 8:36.
 
@@ -140,7 +139,6 @@ One thing I know, if you are free then you are thinking about setting others fre
 If you are free, you will bide your time until He calls you. But when He says, "Friend, come up here," you will fearlessly mount to the upper spheres—and death and sin shall be no hindrance to your advent to His Glory! I would we were all free! But if we are not, the next best thing I would is that those of us who are not free would fret under the fet-ter—for when the fetters are felt, they shall be broken! When the iron enters into the soul it shall be snapped. When you long for liberty you shall have it! When you seek for it as for hidden treasure and pant for it as the stag for the water brook, God will not deny you! "Seek and you shall find. Knock and it shall be opened. Ask and it shall be given you."
 
 God lead you to seek and knock and ask now, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 0564 A Promise For Us And For Our Children|← #564]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0566 General And Yet Particular|#566 →]]

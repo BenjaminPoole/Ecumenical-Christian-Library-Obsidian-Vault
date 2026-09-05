@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Peter 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## 1 Peter 3:1-4
 

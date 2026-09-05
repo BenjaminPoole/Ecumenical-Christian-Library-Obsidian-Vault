@@ -11,12 +11,11 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 23. Deuteronomy 5:1-6,4:20
 
 **Deuteronomy 5**
 
-**THE REPETITION**
+## **The Repetition**
 
 **1.** And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep and do them.
 

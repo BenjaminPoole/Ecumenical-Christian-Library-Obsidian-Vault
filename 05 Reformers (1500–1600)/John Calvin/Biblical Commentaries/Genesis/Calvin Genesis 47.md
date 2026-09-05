@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 47
 
-**CHAPTER 47.**
+***Chapter 47.***
 
 ## Genesis 47:1-31
 

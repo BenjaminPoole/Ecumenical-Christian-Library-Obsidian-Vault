@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 4. Introduction
-
-## INTRODUCTION.
 
 *Martin Luther, to the venerable D. Erasmus of Rotterdam, wishing Grace and Peace in Christ.*
 

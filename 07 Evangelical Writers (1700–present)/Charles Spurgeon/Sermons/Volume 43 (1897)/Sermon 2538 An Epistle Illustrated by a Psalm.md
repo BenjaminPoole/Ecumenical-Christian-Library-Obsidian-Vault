@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # An Epistle Illustrated by a Psalm
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2538
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You have pushed me violently that I might fall: but the LORD helped me. The Lord is my strength and song, and He has become my salvation." Psalm 118:13,14.
 
@@ -99,7 +96,7 @@ When poor Christian was down under Apollyon's foot, his life was nearly pressed 
 
 III. I will conclude this meditation with the third head, which is, EXPERIENCE AND A HOPE THAT MAKES
 
-NOT ASHAMED.
+## Not Ashamed
 
 What says the voice of experience? "The Lord is my strength and song, and He has become my salvation." When you are home, I wish you would read the song of Moses which the children of Israel sang at the Red Sea. You will find that these words are borrowed from that grand old song. One of our proverbs says, "Old songs and old wine are the best." Certainly they lose nothing by age and we may truly say of this blessed verse that it is all the sweeter because there is a ring of Miriam's timbrels about it—and we note the sound of dancing feet as we read the words! Hear you not the glorious shout, "Sing unto the Lord, for He has triumphed gloriously. The Lord is my strength and my song, and He has become my salvation"? Come then, Brothers and Sisters, let us sing this song upon our stringed instruments all the days of our lives!
 
@@ -130,7 +127,6 @@ The close of the text says, "and He has become my salvation." Brothers and Siste
 "Alas," cries one, "I have to endure very fierce temptation." Temptation in itself cannot harm you if you do not yield to it. And you need not, for the Lord has become your salvation! Temptation is, "the time of Jacob's trouble; but he shall be saved out of it." "Oh, but I am so poor and I am so sick, and I am so tried in a thousand ways!" Never mind, you are saved from all the evil which is in these trials! Affliction cannot hurt you—nothing of that kind can do you any injury, for the Lord has become your salvation. "Oh, but think of the dark, black night which may come over us in the future!" Never fear—He who has become your salvation will be your light. You are as safe in the dark as in the light, if the Lord has become your Helper. "But I have to die." Bless God for that! It were not worth while living if we could not die! It is the very joy of this earthly life to think that it will come to an end! What would a sailor say who was on a voyage that would never bring him to a port? What would a traveler say if he was toiling along a road which would never bring him home? Blessed be God, we shall come to the pearly gates, by-and-by! Let us not be alarmed about that, for the Lord has become our salvation.
 
 We are saved from death—we cannot really die! We shall fall asleep, to wake up in the likeness of our Lord. Blessed sleep! Who does not long for it? "He has become my salvation," not for a time, but forever—my sure salvation, my eternal salvation! Therefore, take courage and let us go forward in our walk and warfare, for this is our note of victory, as it was the hymn of Moses and the children of Israel at the Red Sea, "The Lord is my strength and song, and He has become my salvation; He is my God, and I will prepare Him an habitation; my father's God, and I will exalt Him." Hallelujah! Hallelujah! Amen.
-
 
 ---
 [[Sermon 2537 A Warning to Waverers|← #2537]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2539 The Joy of Holy Households|#2539 →]]

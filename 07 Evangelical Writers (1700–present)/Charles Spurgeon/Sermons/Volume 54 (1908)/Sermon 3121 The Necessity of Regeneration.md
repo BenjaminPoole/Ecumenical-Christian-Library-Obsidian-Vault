@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Necessity of Regeneration
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3121
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Marvel not that I said unto you, You must be born-again." John 3:7.
 
@@ -118,7 +115,6 @@ I remember well, in my first pastorate, the time when the biggest drunk in Water
 I pray you all to adore the Holy Spirit, think of Him always with the profoundest reverence. Christian men and women who have been quickened by His power, invoke His might to rest upon you whenever you go about God's work, for without Him you can do nothing! Pray in the Holy Spirit, preach in the Holy Spirit and do not believe in the conversion of a single soul apart from the Spirit of God! Go and preach, "Believe on the Lord Jesus Christ, and you shall be saved," as fully and as freely as you can, but remember that your preaching cannot, of itself, raise one soul out of its lost estate. This will be your comfort—that the Spirit of God will work with you and through you if you rely upon Him and depend wholly upon Him! I tell you, Sinners, all of you without exception, that if you will come to Jesus Christ and simply trust Him, you shall have salvation and shall have it at once! But my reliance upon any result of my proclamation of the Gospel is not based upon my hope that you will be so well disposed as to come, or upon my confidence that my way of putting the Truth of God will lead you to come to Christ. No! I have not a shadow of reliance, either upon you or upon myself! But I do have this confidence, that if I faithfully preach Jesus Christ and Him crucified, He will draw sinners unto Himself and I believe that He will save some out of this congregation, though I know not who they may be. You are like a heap of steel filings and ashes before me—it is no business of mine to separate you. My business is to thrust in the magnet and that will do it! You who will accept Christ as your Savior may have Him—you who will not accept Him must perish in your sin!
 
 But if you do accept Christ, it is because the Spirit of God has led you to do so and has given you the new birth which enables you to do it! If you reject Him, on your own heads be your blood forever. This is a solemn matter. I hope that what I have said will make you think that it is so and that before you go to your beds, you will shake off the idea that this is a very small matter to be attended to whenever you like and to be trifled with as long as you please—but that, instead thereof, you will each one say, "O God, I see that You alone can save me! You can crush me, or You can save me. I have no claim upon You. If You destroy me, You will be just, yet save me, Lord, for Your dear Son's sake!" Amen.
-
 
 ---
 [[Sermon 3120 A View of God's Glory|← #3120]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3122 Craving the Best Things|#3122 →]]

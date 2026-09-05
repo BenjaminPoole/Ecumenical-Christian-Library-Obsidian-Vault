@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # A Singular But Needful Question
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 955
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 16, 1870,.
+*Delivered on Lord's-Day Morning, October 16, 1870*
 
 > "Will you be made whole?" John 5:6.
 
@@ -182,7 +181,6 @@ This will surely be one of the stings of Hell, that you perish of your own accor
 Do look that in the face, I pray you. It seems to me to be the most dreadful element about the whole of the lost sinner's case. If I could, when cast into Hell, say, "I am here because of God's decree, and for no other reason," I could find something with which to harden my spirit to endure the misery of my lost condition. But if I shall be compelled in Hell to feel that my ruin is of myself altogether and only, and that I perish for my own sin—my personal rejection of Christ— then is Hell, Hell indeed. These flames, are they of my own kindling? This prison house, is it my own building? That door so fast as never to open, is it my own barring? Then the last relic of consolation is taken away from my soul forever.
 
 But, my dear Hearer, I hope you say, "I do desire to be made whole." Then let me again remind you that the place to find the fulfillment of that desire is at the foot of the Cross. Stand there and hope in the great Redeemer for there is some life in you already, the dying Savior will increase it! Stand at the foot of the Cross where falls the precious drops of blood—view the flowing of His soul-redeeming blood, and hope, no, BELIEVE that He shed that blood for you, and you are saved! Go your way, you who would be made whole, for Jesus says, "I will, be you clean."
-
 
 ---
 [[Sermon 0954 A Most Needful Prayer Concerning The Holy Spirit|← #954]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0956 Think Well And Do Well|#956 →]]

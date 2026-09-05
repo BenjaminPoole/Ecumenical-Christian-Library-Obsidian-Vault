@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/10
 ---
-
 # The Man With The Measuring Line
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 604
 
-DELIVERED ON SUNDAY MORNING, DECEMBER 11, 1864, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, December 11, 1864, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "I lifted up my eyes again and looked and behold a man with a measuring line in his hand. So I said, Where are you going? And he said to me, To measure Jerusalem, to see what is its width and what is the length. And there was the angel who talked with me, going out; and another angel was coming out to meet him, who said to him, "Run, speak to this young man, saying, 'Jerusalem shall be inhabited as towns without walls because of the multitude of men and livestock in it. For I,' says the Lord, 'will be a wall of fire around her and I will be the glory in her midst.'" Zechariah 2:1-5.
 
@@ -47,7 +46,7 @@ First, dear Friends, I want you to lift up your eyes with Zechariah and see the 
 
 I. First, then, LET US SEE THE MAN WITH THE MEASURING LINE IN HIS HAND. All Zechariah's visions are remarkably simple. They are not like Isaiah's when he saw the Lord sitting upon a throne, high and lifted up. Nor or they like Ezekiel's when he beheld living creatures with four faces and wheels full of eyes. Zechariah had not imagination enough to be capable of beholding with due appreciation visions so complicated and mysterious. He was not the proper instrument of God for the Revelation of these more mysterious matters. But the Lord had a place for him and a vision for him, too.
 
-How sweet to be a servant of God in any position! He sees simply a man, an ordinary architect, going forth with a measuring line to measure the city of Jerusalem—a very simple sight—and without any stretch of the imagination you can all picture the man with his line. If this man in the text is to be viewed as an angel, commissioned by God to take measurements of that city, he would be sure to do it accurately and his measurements would be instructive, could he re- veal them to us. Since they are hidden from our eyes, let it be enough for us to perceive that the city has measurements— has a settled length and breadth—and that the measurements can be taken and that we have Divine authority for asserting that they have been taken.
+How sweet to be a servant of God in any position! He sees simply a man, an ordinary architect, going forth with a measuring line to measure the city of Jerusalem—a very simple sight—and without any stretch of the imagination you can all picture the man with his line. If this man in the text is to be viewed as an angel, commissioned by God to take measurements of that city, he would be sure to do it accurately and his measurements would be instructive, could he re-veal them to us. Since they are hidden from our eyes, let it be enough for us to perceive that the city has measurements— has a settled length and breadth—and that the measurements can be taken and that we have Divine authority for asserting that they have been taken.
 
 This leads us to contemplate the doctrine of predestinating love, with its line of Divine Grace, and its plans of wisdom. God's city of Jerusalem is not to be built haphazardly. The line marks out and measures how long the wall shall be and where the corner shall be placed. And how far the other wall shall be carried and where it shall come to an end. The towers are counted, the bulwarks are considered. Every single item and particular of the sacred architecture of the Church of God is written down in the decree of the Most High. Every man has his plan and shall not the Most High God?
 
@@ -99,7 +98,7 @@ You know, Brethren, that there is no soul living who holds more firmly to the Do
 
 And if there were wanted two Apostles to be added to the number of the twelve, I do not believe that there could be found two men more fit to be so added than George Whitfield and John Wesley. The character of John Wesley stands beyond all imputation for self-sacrifice, zeal, holiness and communion with God. He lived far above the ordinary level of common Christians and was one of whom the world was not worthy. I believe there are multitudes of men who cannot see these Truths of God, or, at least cannot see them in the way in which we put them, who nevertheless have received Christ into their hearts and are as dear to the heart of the God of Grace as the soundest Calvinist out of Heaven.
 
-I thank God we do not believe in the measuring line of any form of bigotry. I remember meeting with one who knew, yes, he knew how many children of God there were in the parish where he lived—there were exactly five. I was curious to know their names, and much to my amusement he began by saying, "There is myself." I stopped him at this point, with the query whether he was quite sure about the first one. Since then, his character has gone I know not where, but cer- tainly he will get on better without it than with it! Yet he was the first on his own list and a few others of his own black sort made up the five.
+I thank God we do not believe in the measuring line of any form of bigotry. I remember meeting with one who knew, yes, he knew how many children of God there were in the parish where he lived—there were exactly five. I was curious to know their names, and much to my amusement he began by saying, "There is myself." I stopped him at this point, with the query whether he was quite sure about the first one. Since then, his character has gone I know not where, but certainly he will get on better without it than with it! Yet he was the first on his own list and a few others of his own black sort made up the five.
 
 There were in the other places of worship to which he did not go, men whose characters for integrity and uprightness, yes, and for spirituality and prayerfulness, would have been degraded by being put into comparison with him. And yet he, he was set as judge in Israel and was to know exactly how many people of God were in the village! Oh, I bless God that we have learned to have very little respect for the vision of the man with the measuring line! When we see an angel with it, if such is the intention of the vision, we are glad enough. "The Lord knows them that are His." But when we see a man with it, we tell him that he must give us a warrant from God and show us how he is to know the elect by any other method than that laid down in Scripture—"By their fruits you shall know them"!
 
@@ -148,7 +147,6 @@ There is another class from which the Church is to get this increase, indicated 
 You practically say to the Lord Jesus, "Lord, I will not do this in remembrance of You. I feel myself justified in disobeying Your command. I believe I have a valid reason for not doing what Your loving lips request me to do." I do not know if I put it in that shape that you will quite agree with your own assertion, because how can a man really have a justifiable reason for not doing what the Lord Jesus Christ expressly tells him to do? That word "separation" needs to ring in the ears of Christians, "Come out from among them and be you separate, says the Lord and touch not the unclean thing."
 
 Though this is to be done practically by your actions, yet first and foremost it should be done by a distinct avowal of your Lord Jesus Christ and that avowal should be by Baptism and union with the Church. May God bless these remarks both to saints and sinners, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0603 Delivered On Sunday Morning, December 4, 1864,|← #603]] · [[Volume 10 (1864)|Volume 10 (1864) Contents]] · [[Sermon 0605 Good Works In Good Company|#605 →]]

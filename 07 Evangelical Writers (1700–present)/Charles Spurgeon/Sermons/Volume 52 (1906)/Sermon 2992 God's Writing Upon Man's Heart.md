@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # God's Writing Upon Man's Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2992
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will put My law in their minds, and write it on their hearts." Jeremiah 31:33.
 
@@ -93,9 +90,9 @@ Pray the Lord to give you new heart, poor Soul. Or if you have it already, ask H
 
 "There shall His sacred Spirit dwell, And deep engrave His Law— And every motion of our souls To swift obedience draw."
 
-NEXT, IS NOT THE NEW HEART THE VERY BEST PLACE IN WHICH TO WRITE THE LAW OF THE
+## Next, Is Not the New Heart the Very Best Place in Which to Write the Law of The
 
-LORD?
+## Lord?
 
 I cannot conceive of a better place to put it than in the new heart. A certain minister, preaching from the text, "Your Word have I hid in my heart, that I might not sin against You," had three heads to his sermon. First the best thing, "Your Word." Secondly, "in the best place—"have I hid in my heart." Thirdly, for the best of purposes—"that I might not sin against You." That is as a well-divided sermon! The heart is the best place, because, you know it is in his heart that a man carries his jewels. When Little-Faith was met down Dead Man's Lane by those three villains, they robbed him of most of his spending money, but they did not steal his jewels. The reason was because he carried them in the casket of his heart. Some men wear their religion as men wear their hats—where it can be snatched by a thief, or be blown away by the winds of temptation, or be laid aside to suit their own convenience when they get into the devil's drawing room. But the true Christian carries his religion in his heart. And as his heart is always safe in the very center of his being, so is his religion. Fair weather or foul weather, good company or bad company—it is all the same. In closing markets or the winning market—whether men cry, "Hallelujah" and, "Hosanna"—or whether they cry, "Crucify Him, crucify Him!" the man is still the same because he has his principles in his heart, which is the best place for God's Law.
 
@@ -129,7 +126,7 @@ Beloved, when you and I are privileged to do anything for Christ, let us remembe
 
 Further, WHEN GOD WRITES UPON THE HEART, HE WRITES BY HIS HOLY SPIRIT AND USES HIS
 
-WORD AS THE PEN.
+## Word as the Pen
 
 There are several pens that God uses and one is His Written Word. This is a gold pen with a diamond point. It is marvelous how God can sometimes write on the heart with a text of Scripture, a promise, a threat, a word of doctrine, of exhortation, or of rebuke. When He writes with that diamond pen, there is never any mistake, never any scratching or catching in the paper—all is well written!
 
@@ -174,7 +171,6 @@ just as a moment's foam dissolves into the wave that bears it and is lost foreve
 But, remember, the old heart must be broken—and the place to get a new heart is at the foot of the Cross. "Believe on the Lord Jesus Christ, and you shall be saved." "Whoever believes in Him shall not be ashamed." He that trusts in Jesus builds upon a rock! He builds for eternity and his happiness shall be secure.
 
 The Lord send you away with His own blessing for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 2991 What We Have, and Are to Have|← #2991]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2993 'That King Ahaz'|#2993 →]]

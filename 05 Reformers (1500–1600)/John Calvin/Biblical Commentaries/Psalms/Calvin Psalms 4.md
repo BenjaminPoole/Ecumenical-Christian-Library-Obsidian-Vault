@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 4
-
-**PSALM 4.**
 
 After David in the beginning of the psalm has prayed to God to help him, he immediately turns his discourse to his enemies, and depending on the promise of God, triumphs over them as a conqueror. He, therefore, teaches us by his example, that as often as we are weighed down by adversity, or involved in very great distress, we ought to meditate upon the promises of God, in which the hope of salvation is held forth to us, so that defending ourselves by this shield, we may break through all the temptations which assail us.
 

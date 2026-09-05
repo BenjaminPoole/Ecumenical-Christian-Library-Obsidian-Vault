@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Great Changes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2934
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And, behold, there are last which shall be first, and there are first which shall be last" Luke 13:30.
 
@@ -81,7 +78,7 @@ O you first ones, God help you! If you ever should be last, how terrible will be
 
 Trust the Master now, my Hearers. Say in your spirits, "Yes, we're guilty and vile! Save us, Lord, or we perish." Let the cry of your repentance and the utterance of your faith go up to Heaven in one sound! And then God commissions us to say to you, from His Word, that He absolves you from the guilt of all your sin when you have believed in Jesus Christ His Son. He that believes on the Son has everlasting life and shall never perish! He shall never come into condemnation, but the love of God shall rest on him in time and eternity. God grant it to us all, for His name's sake!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 51; 142.
+## Exposition by C. H. Spurgeon: Psalm 51; 142
 
 Psalm 51:—This Psalm is dedicated to the chief musician—it was intended to be sung. Yet it is not by any means a joyous piece of music. It seems more fit to be sung—or sighed—as a solo for the solitary penitence of a broken heart than for the united songs of Believers. Yet, in God's ears it is clear that the voice of penitence is full of music, for this penitential Psalm is dedicated to the chief musician.
 
@@ -151,8 +148,7 @@ You can see from verse 2 what was the style of his prayer. "I poured out my comp
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 2933 Dead, Yet Alive|← #2933]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2935 Christ's Joy and Ours|#2935 →]]

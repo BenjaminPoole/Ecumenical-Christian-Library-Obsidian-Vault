@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Work in Us and Work by Us
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 914
 
-DELIVERED ON LORD'S-DAY MORNING, FEBRUARY 6, 1870,.
+*Delivered on Lord's-Day Morning, February 6, 1870*
 
 > "Whereunto I also labor, striving according to His working, which works in me mightily." Colossians 1:29.
 
@@ -158,7 +157,6 @@ One bright spirit thinks he would exchange his crown with the meanest of the dis
 I charge you, my Brethren, by the living God—unless your religion is hypocrisy—help me this month, help my Brethren, the Elders and Deacons, help us everyone of you. By the blood that bought you, if you are, indeed, redeemed— by the Holy Spirit that is in you, except you be reprobates—by everything that God in loving kindness has done for you—I charge you come to the help of the Master in this, the hopeful hour.
 
 So may the Lord do unto you as you shall deal with us this day. If you shall, indeed, consecrate yourselves to Him, and serve Him, may He enrich you with the increase of God, and may the peace of God that passes all understanding keep your hearts and minds. But if you refuse your service, the Lord shall judge you. He that knows his Master's will and does it not, shall be beaten with many stripes.
-
 
 ---
 [[Sermon 0913 Method and Music, Or the Art of Holy and Happy Living|← #913]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0915 Sinners Bound with the Cords of Sin|#915 →]]

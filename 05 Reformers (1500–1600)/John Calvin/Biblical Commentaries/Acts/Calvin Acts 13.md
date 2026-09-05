@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Acts 13:1-3
 

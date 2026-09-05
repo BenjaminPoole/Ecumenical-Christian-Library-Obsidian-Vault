@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 10
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE SECOND CONFERENCE OF ABBOT ISAAC. ON PRAYER.
+## The Second Conference of Abbot Isaac. On Prayer
 
 ## Chapter 1
 

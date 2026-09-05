@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Forgiveness, Freedom, Favor
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2276
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And this is the manner of the release: Every creditor that lends anything unto his neighbor shall release it; he shall not exact it of his neighbor, or of his brother; because it is called the LORD'S release." Deuteronomy 15:2.
 
@@ -105,7 +102,7 @@ One thing I feel sure of and that is if the Lord sets us free, we shall want to 
 
 The Lord bless these words to many, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON LEVITICUS25:1-7,17-22, AND DEUTERONOMY 15:1-18.
+## Exposition by C. H. Spurgeon Leviticus 25:1-7,17-22, and Deuteronomy 15:1-18
 
 Leviticus 25:1, 2. And the LORD spoke unto Moses on Mount Sinai, saying, Speak unto the children of Israel, and say unto them, When you come into the land which I give you, then shall the land keep a sabbath unto the LORD. The Jews had much rest provided for them. If they had had faith enough to obey God's commands, they might have been the most favored of people, but they were not a spiritual people and the Lord often had to lament their disobedience as in the words recorded by Isaiah, "O that you had hearkened to My Commandments! Then had your peace been as a river, and your righteousness as the waves of the sea."
 
@@ -152,7 +149,6 @@ should feel a peculiar property in the poor and needy, as if they were handed ov
 16-18. And it shall be, if he says unto you, I will not go away from you; because he loves you and your house, because he prospers with you; then you shall take an awl, and thrust it through his ear unto the door, and he shall be your servant forever. And also unto your maidservant you shall do likewise. It shall not seem hard unto you, when you send him away free from you; for he has been worth a double hired servant to you, in serving you six years. He has had no pay. He has been always at his work. He has been worth two ordinary hired laborers. Let him go, therefore, and let him not go away empty-handed.
 
 18\. And the LORD your God shall bless you in all that you do.
-
 
 ---
 [[Sermon 2275 Belief, Baptism, Blessing|← #2275]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2277 Sychar's Sinner Saved|#2277 →]]

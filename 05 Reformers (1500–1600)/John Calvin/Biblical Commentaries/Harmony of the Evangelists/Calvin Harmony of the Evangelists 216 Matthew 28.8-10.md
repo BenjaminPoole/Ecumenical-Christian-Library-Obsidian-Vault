@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 216. Matthew 28:8-10; Mark 16:8-11; Luke 24:9-12
-
-**MATTHEW 28:8-10; MARK 16:8-11; LUKE 24:9-12**
 
 **8.** And they departed quickly from the tomb with fear and great joy, and ran to inform his disciples. **9.** And while they went to inform his disciples, then, lo, Jesus met them, saying, Hail. [^1] And they approached, and held his feet, and worshipped him. **10.** Then Jesus saith to them, Fear not; go, tell my brethren to go into Galilee; and there shall they see me.
 

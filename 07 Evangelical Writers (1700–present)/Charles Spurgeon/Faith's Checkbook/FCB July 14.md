@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 14
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BURDENS CAST ON HIM**
+## **Burdens Cast on Him**
 
 > Cast thy burden upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved." Ps. 55:22
 
@@ -23,7 +22,6 @@ It is a heavy burden, roll it on Omnipotence. It is thy burden now, and it crush
 Our worst fear is lest our trial should drive us from the path of duty; but this the Lord will never suffer. If we are righteous before Him, He will not endure that our affliction should move us from our standing. In Jesus He accepts us as righteous, and in Jesus He will keep us so.
 
 What about the present moment? Art thou going forth to this day's trial alone? Are thy poor shoulders again to be galled with the oppressive load? Be not so foolish. Tell the Lord all about thy grief, and leave it with Him. Don't cast your burden down, and then take it up again; but roll it on the Lord, and leave it there. Then shalt thou walk at large, a joyful and unburdened believer, singing the praises of thy great Burden-bearer.
-
 
 ---
 [[FCB July 13|← July 13]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 15|July 15 →]]

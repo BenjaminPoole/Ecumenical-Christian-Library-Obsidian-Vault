@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Coming—Always Coming
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1334
-
-DELIVERED BY.
 
 > "To whom coming." 1 Peter 2:4.
 
@@ -164,7 +161,6 @@ Give up building these artificial elevations! Give up resting on them and just s
 He that is down there will never fall—and he who stays there is really as high up as the man who thinks he is all aloft! All above living by faith in Christ is mere dream and moonshine! There is nothing higher, after all, than just being nobody, and Christ being everybody, and singing with poor Jack, the huckster—
 
 "I'm a poor sinner, and nothing at all, But Jesus Christ is my All in All." If you grow till you are less than nothing, you are full grown, but few have reached that stage! And if you grow till Christ is everything to you, you are in your prime! But, alas, how far short of this do most men fall! The Lord bring you to that highest of all growths—to be daily coming to Christ—always empty in yourself, but full in Him! Always weak in yourself, but strong in Him! Always nothing in self, but Christ your perpetual All in All! The Lord keep you there, Brothers and Sisters, and He will have praise and glory of you, both now and forever. Amen.
-
 
 ---
 [[Sermon 1333 Rest in the Lord|← #1333]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1335 A Cheery Word in Troublous Times|#1335 →]]

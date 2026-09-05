@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # To Whom?
 
-Chapter XI · *The Upper Room* — J. C. Ryle
+## Chapter XI · *The Upper Room* — J. C. Ryle
 
 > — John 6:68[^1]
 
@@ -99,7 +98,6 @@ You may tell me, perhaps, that you do not really mean to forsake Christ, althoug
 (b) But, next to having no religion at all, I entreat every reader of this paper to beware of a religion in which Christ has not His rightful place. Let us never try to satisfy ourselves with a little cheap, formal Christianity, taken up carelessly on Sunday morning, and laid aside at night, but not influencing us during the week. Such Christianity will neither give us peace in life, nor hope in death, nor power to resist temptation, nor comfort in trouble. Christ only has "the words of eternal life," and His words must be received, believed, embraced, and made the meat and drink of our souls. A Christianity without living, felt communion with Him, without grasp of the benefits of His blood and intercession, a Christianity without Christ's sacrifice and Christ's Priesthood, is a powerless, wearisome form.
 
 (c) Let us, finally, "hold fast the profession of our faith without wavering," if we have reason to hope we are Christ's true servants. Let men laugh at us, and try to turn us away as much as they please. Let us calmly and humbly say to ourselves at such times: "' After all, to whom can I go if I leave Christ? ' I feel within that He has ' words of eternal life.' I see that thousands find them meat and drink to their souls. Where He goes, I will go; and where He lodges, I will lodge. In a dying world, I can see nothing better. I will cling to Christ and His words. They never failed any one who trusted them, and I believe they will not fail me."
-
 
 ---
 [[UR 10 Portraits|← Portraits]] · [[The Upper Room|Upper Room Contents]] · [[UR 12 Our Profession|Our Profession →]]

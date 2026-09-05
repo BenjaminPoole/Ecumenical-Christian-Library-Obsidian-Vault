@@ -9,20 +9,19 @@ written: "1559"
 tags:
   - institutes
 ---
-
 # Prefatory Address to Francis, King of the French
 
-**TO**
+***To***
 
-**HIS MOST CHRISTIAN MAJESTY,**
+## **His Most Christian Majesty,**
 
-**THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,**
+## **The Most Mighty and Illustrious Monarch,**
 
-**FRANCIS, KING OF THE FRENCH,**
+## **Francis, King of the French,**
 
-**HIS SOVEREIGN;[^1]**
+## **His Sovereign;[^1]**
 
-**JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.[^2]**
+## **John Calvin Prays Peace and Salvation in Christ.[^2]**
 
 Sire,—When I first engaged in this work, nothing was farther from my thoughts than to write what should afterwards be presented to your Majesty. My intention was only to furnish a kind of rudiments, by which those who feel some interest in religion might be trained to true godliness. And I toiled at the task chiefly for the sake of my countrymen the French, multitudes of whom I perceived to be hungering and thirsting after Christ, while very few seemed to have been duly imbued with even a slender knowledge of him. That this was the object which I had in view is apparent from the work itself, which is written in a simple and elementary form adapted for instruction.
 

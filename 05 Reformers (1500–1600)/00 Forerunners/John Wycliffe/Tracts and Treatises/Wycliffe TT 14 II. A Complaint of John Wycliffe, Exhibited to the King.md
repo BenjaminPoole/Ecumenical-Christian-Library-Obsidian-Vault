@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 14. II. A Complaint of John Wycliffe, Exhibited to the King and Parliament
 
-A COMPLAINT OF JOHN WYCLIFFE, EXHIBITED TO THE KING AND PARLIAMENT.
+*A Complaint of John Wycliffe, Exhibited to the King and Parliament*
 
 Please it to our most noble, and most worthy King Richard^ king both of England and of France, and to the noble Duke of Lancaster, and to other great men of the realm ; both to seculars and men of holy church, that be gathered in the parliament, to hear, assent, and maintain the few articles, or |)oints that be set within this writing, and proved both by authority and reason, that Christian faith, and Christian religion, be increased, maintained, and made stable ; since our Lord Jesus Christ, very God and very man, is Head and Prelate of this religion, and shed his precious heart-blood, and water, out of his side, on the cross, to make this religion perfect and stable, and clean without error.
 
-THE FIRST ARTICLE.
+## The First Article
 
 The first article is this : — That all persons, of what kin, private sects, or singular religion, made of sinful men, may freely, without any letting," or bodily pain, leave that private rule, or new religion, founded of sinful men, and stably hold the rule of Jesus Christ, taken and given by Christ to his apostles, and for more profit than any such new religion, founded of sinful men. The reason of this axing ^ is showed
 
@@ -73,7 +72,7 @@ EXHIBITED TO THE KINO AND PARLIAMENT. 265 fiiars, or other clerks, whatever they
 
 266 A COM FLAnrr of johx wtcutfc^ takeCh nerer ene,* and so secular power owedu and is boand to ponisk bj just pain of hia sword, that is workilj power, Trants rebelfiiig against God, and treapaafiiDg against man, b j what kind trespass, and that is more to chastise his subjects b j pain and torment of their body, and no dread, much more he may pimish diem hy taken awa j of their temporalities, that is kss than bodily pain ; therefore secular lords do this rightfoUj, since this is done bj ccHnmandmoit of the apostle, and hy ordinance of God, and therefore it is plain of these reasons and authorities, and secular lords maj lerefollj* and medefbllj,'' in manj cases taken awaj temporal goods giren to men of the chnrch.
 
-THE THIRD ABTICLE.
+## The Third Abticle
 
 7^ third article is this, that both tithes and offerings be jouen' and paid, and rcceiycd bj that intent, to which intent both God*s law and the pope^s law ordained them to be paid and received ; and that thej be taken away by the same intent and reason, that both God's law and the pope's law ordain that they should be withdrawn. This axing' is reasonable, for many skills •/ for the intent of the maker in every law should he kept, and most the intent of God that may not err. Sothly' thus saith GrxI's law in the first lxx)k of Kings, that the sin of Eli's children was full great before God, for they withdraw men from sacrifice of G(xl, taking by strength or "violence that part of the sacrifice that pertained to the priest ; and God saith aften^ards, " I speaking have spoken, that thine house and thy father's house should minister, and serve in my sight evermore ; but now," God saith, " be that thing far from me, but whoever shall worship me, I shall glorify them ; but they that despise me," saith God, " shall be unable, or without honour :" of which authority it is plain and o{)en, that the things that be due to priests, should not be axed* by strength, by violence or cursing, but Ihj youen'' freely without exaction or constraining : and if the priest Ix* reproved of Gfxl for his sins, be should be put out of his office, and the sacrifices should not be youen'' to him, but taken from him, as God commandeth from the; high-priest Eli ; and another true man, walking in God's ways, as did Samuel, should be ordained to receive such sacrifices. Also in beginning of Tobit, men find thus, when priests of
 
@@ -103,15 +102,15 @@ A \^ Lord God, where this be reason to constrain the poor p*H^ple to find a worl
 
 r commaiulnuMits. * follow. ' did. ^ Oh ! * furs.
 
-EXHIBITED TO THE KING AND PARLIAMENT. 269
+## Exhibited to the King and Parliament. 269
 
-THE FOURTH ARTICLE.
+## The Fourth Article
 
 The fourth article is this, that Christ's teaching and belief of the sacrament of his own body, that is plainly taught by Christ and his apostles, in Gospels and Epistles, may be taught openly in churches of Christian people; and the contrary teaching and false belief is brought up by cursed hypocrites, and heretics, and worldly priest« uncunning* in God's law, which seem that they are apostles of Christ, but are fools. Also Christ would not take the kingdom when the people would have made him king, as John's Gospel telleth, but if it had been a priest's office, to deal about thus bodily alms, Christ, that could best have done this office, would have taken these temporal goods to deal them among poor men ; but he would not do thus, but fly and took no man of the apostles with him, so fast he hied. Lord, where then worldly priests cunning better do this parting of worklly goods of Jesus Christ ; and if they say that Christ fed the people in desert with bodily alms, many thousand, as the Gospel saith, that did Christ by miracle, to show his Godhead and to teach priests how they feed ghostly Christian men by God's word, for so did Christ's apostles, and had not whereof to do bodily alms, when they might have treasure and meals enough of kings and lords. Also Peter saith, in Deeds of Apostles, to a poor man, that to him neither was gold, nor silver, yet he performeth well the office of a true priest. But our priests be so busy about worldly occupation, that they seem better bailiffs, or reves,* than ghostly priests of Jesus Christ. For what man is so busy about merchandise and other worldly doings, as be priests that should be light of heavenly life to all men about them ? but certes^ they should be as busy about studying of God's law and holy prayer ; not of famulorum but of holy desire and clean meditation of God, and true teaching of the Gospel, as be labourers about worldly labour for their sustenance ; and much more busy if they might. For they be more holden for to live well and ensample of holy life to the people, and true teaching of Holy Writ, than the people is holden to give the dymes** or offerings, or any bodily alms ; and therefore priests should not leave ensamples of good life and studying of Holy Writ, and true teaching thereof, nor for bodily alms, nor for worldly goods, nor for saving of their bodily life. And as Christ saved the world by writing and teaching of four evangelists, so the fiend casteth to damn the world
 
 • unskiUlil. * husbands. ' truly. * tithes.
 
-270 A COMPLAINT OF JOHN WYCUFFE. ETC.
+## 270 a Complaint of John Wycuffe. Etc
 
 and priests ; for lotting' to preach the Gospel by these four ; by feigned contemplation, by songs, by Salisbury use, and by worldly business of priests !
 

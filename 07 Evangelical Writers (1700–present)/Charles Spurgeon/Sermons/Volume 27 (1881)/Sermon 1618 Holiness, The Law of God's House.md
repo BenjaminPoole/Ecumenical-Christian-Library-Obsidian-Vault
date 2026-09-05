@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Holiness, The Law of God's House
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1618
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 11, 1881,.
+*Delivered on Lord's-Day Morning, September 11, 1881*
 
 > "This is the law of the house; Upon the top of the mountain the whole limit thereof round about shall be most holy. Behold, this is the law of the house." Ezekiel 43:12.
 
@@ -142,7 +141,6 @@ Some sing of giving all to God and yet their contributions are miserably small. 
 And then, lastly, let us pray to be set on fire with an intense zeal for God. I do not believe that there is such a thing as cold holiness in the world. As soon as a bullock was dedicated to God and brought to the altar, it had to be burned with fire—and so must every consecrated life. You and I are never the Lord's while we are cold-hearted. We must be on fire if we are to be sacrifices acceptable to God by Jesus Christ. Get rid of zeal from the Church and you have removed one of the most purifying elements, for God intends to purge Jerusalem by the spirit of judgment and by the spirit of burning. Oh, to be baptized into the Holy Spirit and into fire! May refining fire go through and through our souls till all that defiles shall be utterly consumed and we shall be as ingots of pure gold, wholly the Lord's!
 
 Thus have we rehearsed in your ears the law of the house. May the Holy Spirit enable you to keep it unto the end.
-
 
 ---
 [[Sermon 1617 Love's Labours|← #1617]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1619 The Pentecostal Wind and Fire|#1619 →]]

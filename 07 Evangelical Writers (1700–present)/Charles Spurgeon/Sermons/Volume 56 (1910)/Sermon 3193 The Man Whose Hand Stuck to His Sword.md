@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Man Whose Hand Stuck to His Sword
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3193
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away: he arose, and smote the Philistines until his hand was weary, and his hand stuck unto his sword: and the LORD worked a great victory that day; and the people returned after him only to spoil." 2 Samuel 23:9,10.
 
@@ -89,7 +86,7 @@ Did we not read in the papers, a few months ago, the story of a man who was resp
 
 The only way of breaking with sin is to unite with Christ. No man does in heart part with sin till he is one with his Savior—and that comes by trusting Him, simply trusting Him. When you trust Him, He delivers you from sinful habits and no longer allows you to be the slave of evil. "If the Son, therefore, shall make you free, you shall be free, indeed." Seek that freedom! May He bestow it upon everyone of us and then may we become heroes for Christ—and He shall have the glory, forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM106.
+## Exposition by C. H. Spurgeon: Psalm 106
 
 In this Psalm we have the story of God's ancient Covenant people. And as we read it, we may read our own history in it if we also are His people. It is a mirror in which the beholder may see himself.
 
@@ -154,7 +151,6 @@ Sermon #1886, Volume 32—GOD'S REMEMBRANCE OF HIS COVENANT.] Oh, that
 wonderful, "nevertheless"—
 
 44-48. He regarded their affliction, when He heard their cry: and for their sake He remembered His Covenant, and repented according to the multitude of His mercies. He made them also to be pitied of all those that carried them captives. Save us, O LORD our God, and gather us from among the heathen, to give thanks unto Your holy name, and to triumph in Your praise. Blessed be the LORD God of Israel from everlasting to everlasting; and let all the people say, Amen. Praise the LORD. And well we may!
-
 
 ---
 [[Sermon 3192 The Soul's Food and Drink|← #3192]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3194 A Look and Its Lessons|#3194 →]]

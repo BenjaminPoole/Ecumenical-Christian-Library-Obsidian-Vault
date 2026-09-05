@@ -10,10 +10,9 @@ written: "1564"
 tags:
   - calvin-commentaries
 ---
-
 # Joshua 11
 
-**CHAPTER 11**
+***Chapter 11***
 
 ## Joshua 11:1-15
 

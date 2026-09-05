@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # The Preparatory Prayers of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3178
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now when all the people were baptized, it came to pass that Jesus, also being baptized, and praying, the Heaven was opened, and the Holy Spirit descended in a bodily shape like a dove upon Him, and a voice came from Heaven, which said, You are My Beloved Son, in You I am well pleased." Luke 3:21,22.
 
@@ -131,7 +128,7 @@ While I have been speaking to Believers in our Lord Jesus Christ, there may have
 
 And cry, 'Behold, he prays!' Prayer is the Christian's vital breath, The Christian's native air! His watchword at the gates of death He enters Heaven with prayer!
 
-EXPOSITION BY C. H. SPURGEON: LUKE 18:1-14
+## Exposition by C. H. Spurgeon: Luke 18:1-14
 
 Verse 1. And he spoke a parable unto them to this end, that men ought always to pray and not to faint. [See Sermon
 
@@ -181,10 +178,9 @@ It is sheer superstition which imagines that one place is better for prayer than
 
 14\. Went down to his house justified rather than the other He obtained both justification and the peace of mind that comes from it! God smiled upon him and set him at ease concerning his sin. The other man received no justification—he had not sought it and he did not get it. He had a kind of spurious ease of mind when he went into the Temple and he probably carried it away with him! But he certainly was not justified in the sight of God. [See Sermon #2687, Volume 46—
 
-TOO GOOD TO BE SAVED!]
+## Too Good to Be Saved!]
 
 14\. For everyone that exalts himself shall be abased; and he that humbles himself shall be exalted. God turns things upside down! If we think much of ourselves, He makes us little, and if we make little of ourselves, we shall find that a humble and contrite heart He will not despise! May He teach us so to pray that we may go down to our house justified, as the publican was!
-
 
 ---
 [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3179 A Comprehensive Benediction|#3179 →]]

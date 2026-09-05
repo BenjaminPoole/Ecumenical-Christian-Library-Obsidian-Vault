@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Despair Denounced and Grace Glorified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1676
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 27, 1882,.
+*Delivered on Lord's-Day Morning, August 27, 1882*
 
 > "Then He said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts. Therefore prophesy and say unto them, Thus says the Lord God, Behold, O My people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. And you shall know that I am the Lord, when I have opened your graves, O My people, and brought you up out of your graves." Ezekiel 37:11,12,13.
 
@@ -156,7 +155,6 @@ Lastly, notice the feeling which is produced by it. "And you shall know that I a
 heart."
 
 Then shall you know that God Jehovah is God, indeed, when He has opened your graves and brought you out! O God, bless this poor word to the troubled ones, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 1675 Out Of Egypt|← #1675]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1677 A Great Mistake and the Way to Rectify It|#1677 →]]

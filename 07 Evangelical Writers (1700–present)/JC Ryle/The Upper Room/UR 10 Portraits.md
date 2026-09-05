@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Portraits
 
-Chapter X · *The Upper Room* — J. C. Ryle
+## Chapter X · *The Upper Room* — J. C. Ryle
 
 > — Acts 26:24-29[^1]
 
@@ -96,7 +95,6 @@ And now, let us leave these three pictures with self-inquiry and self-examinatio
 Where are Festus and Agrippa now? We do not know. A veil is drawn over their subsequent history, and whether they died as they lived we cannot tell. But where is St. Paul, the "altogether" Christian? That question we can answer. He is "with Christ, which is far better" (Phil. 1:23). He is waiting for the resurrection of the just, in that paradise of rest where sin and Satan and sorrow can trouble him no more. He has fought the good fight. He has finished his course, he has kept the faith. A crown is laid up for him which he will receive in the great review day of the Lord's appearing (2 Tim. 4:7-8).
 
 And, let us thank God, though St. Paul is dead and gone, the Saviour who made St. Paul what he was, and kept him to the end, still lives and never changes,--always able to save, always willing to receive. Let the time past suffice us, if we have trifled with our souls hitherto. Let us turn over a new leaf. Let us arise and begin with Christ, if we never began before. Let us go on with Christ to the end, if we have begun with Him already. With the grace of God, nothing is impossible. Who would have thought that Saul the Pharisee, the persecutor of Christians, would ever become the "altogether Christian" himself, would become the great Apostle of the Gentiles, and would turn the world upside down? While there is life there is hope. The follower of Festus and AgripPsalms may yet be converted, and live for years, and lie down in the grave at last an "altogether" Christian like St. Paul.
-
 
 ---
 [[UR 09 Athens|← Athens]] · [[The Upper Room|Upper Room Contents]] · [[UR 11 To Whom|To Whom? →]]

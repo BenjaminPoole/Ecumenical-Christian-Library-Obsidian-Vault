@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 24. How are these articles divided?
-
-**Question 24. How are these articles divided?**
 
 Answer. Into three parts: the first is of God the Father, and our creation; the second of God the Son, and our redemption; the third of God the Holy Ghost, and our sanctification.
 
-**EXPOSITION**
+## **Exposition**
 
 There are three principal parts included in the Apostles' creed:
 

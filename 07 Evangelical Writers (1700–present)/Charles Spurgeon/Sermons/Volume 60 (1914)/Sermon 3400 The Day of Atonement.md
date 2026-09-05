@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # The Day of Atonement
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3400
-
-DELIVERED BY C. H. SPURGEON.
 
 > "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel, for all their sins, once a year." Leviticus 16:34.
 
@@ -59,7 +56,7 @@ This was the first teaching of the Day of Atonement and every Jew, when he saw, 
 
 But my time flies and, therefore, I come to the next point—
 
-II. SIN IS NOW UTTERLY DRIVEN AWAY.
+## II. Sin Is Now Utterly Driven Away
 
 There was another goat—and this goat was to live and not to die—which set forth quite another Truth of God. I do not think the common explanation of this is at all correct. And all the expositors I have met with are clear that it is not correct. Some have said that the scapegoat typifies our Lord Jesus bearing our sins away in His Resurrection and ascending into Heaven. The incongruity of the metaphor has always struck me, but there are reasons in the Hebrew text which prevent our believing that thatcould have been the meaning of it. The living goat was taken by a fit man right away into the wilderness and there it was left. What became of it afterwards, we do not know. Painters have depicted it as expiring in the midst of desolation, in the agonies of famine—a mere fancy picture! The scapegoat did not, very probably, die sooner than any other goat—and it is not at all necessary that it should. We never need enlarge a topic beyond what Scripture says. Indeed, there is often as much teaching in a type's stopping short as there is in its going on!
 
@@ -109,7 +106,7 @@ And now, Beloved in the Lord, I wish that I could speak in the name of you all a
 
 Well, if you won't have Christ for your Savior, I will have Him for mine! And there are thousands of you here who will say, "Yes, and He shall be mine, too!" The longer I live, the more I love to rest upon Him. I did try to rest somewhere else, once, but the dream is over and now the more I think of my Lord, the more firm I feel the conviction that He is a rock that will bear the weight of my salvation! The more I think of what that glorious Man, that blessed Son of God, who is as much God as He is Man, has done for me, the more do I feel that if I had fifty thousand times the sin I have, I would rest on Him! And if I were as wicked as all men put together, I would rest on Him, still, believing that no amount of sin could outweigh His merit and that no extent of iniquity could ever surpass the infinite bounds of His eternal Grace. He is able to save to the uttermost them that come to God by Him! Come to God by Him, poor Sinner, and may God the Holy Spirit lead you, and He shall have the glory! Amen, and Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 6:1-19.
+## Exposition by C. H. Spurgeon: Romans 6:1-19
 
 Paul finishes the last Chapter by saying, "That as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord." "What shall we say, then?" What inference shall we draw from the superabounding of Grace over sin?
 
@@ -140,7 +137,6 @@ Verse 1. What shall we say then? Shall we continue in sin, that Grace may abound
 17, 18. But God be thanked, thatyou were the servants ofsin, butyou have obeyed from the heart that form ofDoc-trine which was delivered you. Being then made free from sin, you became the servants of righteousness. "Bondservants," you have got in our new translation, for so it was, and the Apostle seems to excuse himself for using such a word by saying—
 
 19\. I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holi-ness.As you submitted yourselves to sin most cheerfully and voluntarily, and yet were slaves under it, so now come and be slaves under Christ with most blessed cheerfulness and delight! Endeavor to lose your very wills in His will, for no man's slavery is so complete as his who even yields his will. Now, yield everything to Christ! You shall never be so free as when you do that—never so blessedly delivered from all bondage as when you absolutely and completely yield yourselves up to the power and supremacy of your Lord!
-
 
 ---
 [[Sermon 3399 Good Talk|← #3399]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3401 Sharing Christ's Life|#3401 →]]

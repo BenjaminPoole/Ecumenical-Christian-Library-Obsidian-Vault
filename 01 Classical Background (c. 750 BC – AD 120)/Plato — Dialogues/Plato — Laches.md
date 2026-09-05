@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Laches
 *trans. Benjamin Jowett*
 
@@ -19,18 +18,15 @@ tags:
 
 ---
 
-LACHES
+## Laches
 
-OR COURAGE
+## Or Courage
 
 By Plato
 
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 Lysimachus, the son of Aristides the Just, and Melesias, the son of
 the elder Thucydides, two aged men who live together, are desirous of
@@ -213,21 +209,14 @@ year of the battle of Mantinea, at which Laches fell. But if Socrates
 was more than seventy years of age at his trial in 399 (see Apology), he
 could not have been a young man at any time after the battle of Delium.
 
+## Laches, or Courage
 
-
-
-LACHES, OR COURAGE.
-
-
-
-
-PERSONS OF THE DIALOGUE:
+## Persons of the Dialogue
 
      Lysimachus, son of Aristides.
      Melesias, son of Thucydides.
      Their sons.
      Nicias, Laches, Socrates.
-
 
 LYSIMACHUS: You have seen the exhibition of the man fighting in armour,
 Nicias and Laches, but we did not tell you at the time the reason why my

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # The Blessed Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3427
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Hosanna to the Son of David! Blessed is He that comes in the name of the Lord." Matthew 21:9.
 
@@ -59,7 +56,7 @@ Now, lastly, there are times, dear Friends, when this exclamation may be used ab
 
 And once again, to conclude, whenever God visits His Church with a revival, then the cry goes up, "Blessed is He that comes in the name of the Lord"—a revival of religion, I mean, of this kind—when a deep religious concern is upon all, when Christians become more earnest and more prayerful, when they become more attentive to the unconverted and more anxious to see them saved. And when the unconverted, themselves, take a deeper interest in the Word—when they begin to feel their sin, when they cry out for mercy, when they ask the way to Zion! We have had the Lord with us now these 17 years with no bursts of excitement, but with one continual stream of blessing—and I am so anxious that we should not lose it. I could wish that we might see some token of even a larger measure of His Presence than we have had yet. I would ask some of you that have power in prayer to join with me every morning and every night in a prayer that He would come to us afresh. We are not discouraged—very far from it. We have never been without many enquirers and many being added to the Church, but still, there are unconverted ones in the congregation. We have found at the Tabernacle what we had at Park Street, that we have many more members than seats. I remember one man coming one night to have a seat who was very honest and wanted to see me, first, before he took a sitting. "Sir," he said, "somebody told me that I should be expected to be converted if I took a seat, and I cannot guarantee that." I said, "My dear Friend, somebody has told you the right thing, but he has not put it exactly right. If you take a seat, we expect that you will be converted. It is not that you are expected to convert yourself, but we expect that if you hear the Word, God will bless you, because," I said, "I hardly know any who have sat there but have been converted." I was very glad to find there was all current among the seat-holders that God would bless them! I believe He will. But still, I wish we had more members. Wehave 4,200, I think, but we can hold more than that. I would like to see six thousand! What a joy it would be! So many that I would be half inclined to say I must go and fish in another pool—they are all caught here! Would not it be a mercy if there were no more fish in the sea to be caught, but all were converted—everyone that comes into this Tabernacle? His power is infinite! There is no limit to that, except that our unbelief in the economy of Grace is sometimes allowed to limit it. What is said converted to God! If you could go out and do good to others, and bring others in, and other churches could be formed, what a blessing might come of it! And why not? "He could not do many mighty works there, because of their unbelief." Oh, that this might be taken away from us! May we believe, and we shall see! May we trust and pray, and we shall joyfully behold it! Oh, that some poor sinner would come to Jesus Christ tonight! He would, indeed, have to say, "Blessed is he that comes in the name of the Lord." One prayer will bring you to Him, if it is sincere. Simply to trust Him—that is the thing! To rely upon Him—that is all! He died for the guilty. His blood was shed for the foul. Come and trust Him and yield to Him! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM118.
+## Exposition by C. H. Spurgeon: Psalm 118
 
 Verse 1. Ogive thanks unto the LORD: for He is good: because His mercy endures forever Here is a standing reason for thanksgiving. Although we may not always be healthy, nor always prosperous, yet God is always good and, therefore, there is always a sufficient argument for giving thanks unto Jehovah, That He is a good God essentially—that He cannot be otherwise than good—should be a fountain out of which the richest praises should perpetually flow.
 
@@ -96,7 +93,6 @@ Verse 1. Ogive thanks unto the LORD: for He is good: because His mercy endures f
 25-27. Save now, I beseech You, O LORD: O LORD, I beseech You, send now prosperity. Blessed is he who comes in the name of the LORD: we have blessed you out of the house of the LORD. God is the LORD, who has showed us light: bind the sacrifice with cords, even unto the horns of the altar.It is the king returning from victory and recovered from sickness. He brings his sacrifice with thanksgiving, as every child of God should, and there it is, ready bound to the altar horns.
 
 28, 29. You are my God, and I will praise You: You are my God, I will exalt You. O give thanks unto the LORD: for He is good; for His mercy endures forever.
-
 
 ---
 [[Sermon 3426 A Sore Grievance|← #3426]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3428 Private and Confidential|#3428 →]]

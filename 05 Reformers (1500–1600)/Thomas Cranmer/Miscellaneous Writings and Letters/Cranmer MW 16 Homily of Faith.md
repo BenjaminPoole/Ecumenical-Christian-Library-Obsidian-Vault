@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 16. Homily of Faith
 
-A SHORT DECLARATION
+*A Short Declaration*
 
-TRUE, LIVELY, AND CHRISTIAN FAITH.
+## True, Lively, and Christian Faith
 
 TUE first entry unto God6, good Christian people, is through faith, whereby (as it is Faith. declared in the last sermon) we be justified before God. And lest any man should be deceived for lack of right understanding thereof7, it is diligently to be noted, that faith is taken in the scripture two manner of ways. There is one faith, which in scripture is called a dead faith, which bringeth forth no good works, but is idle, barren, and unfruitful. A dead faith. And this faith by the holy apostle St James is compared to the faith of devils, which James H. believe God to be true and just, and tremble for fear ; yet they do nothing well, but all evil. And such a manner of faith have the wicked and naughty Christian people, " which Tit. i. confess God," as St Paul saith, " in their mouth, but deny him in their deeds, being abominable, and without the right faith, and in all good works8 reprovable." And this faith is a persuasion and belief in man's heart, whereby he knoweth that there is a God, and assenteth unto all truth of God's most holy word, contained in holy scripture : so that it consisteth only in believing of the word9 of God, that it is true. And this is not properly called faith. But as he that readeth Caesar's Commentaries, believing the same to be true, hath thereby a knowledge of Caesar's life and noble acts10, because he believeth the history of Caesar ; yet it is not properly said, that he believeth in Caesar, of whom he looketh for no help nor benefit : even so, he that believeth that all that is spoken of God in the bible is true, and yet liveth so ungodly, that he cannot look to enjoy the promises and benefits of God ; although it may be said that such a man hath a faith and belief to the words of God, yet it is not properly said that he believeth in God, or hath such a faith and trust in God, whereby he may surely look for grace, mercy, and eternal life n at God's hand, but rather for indignation and punishment, according to the merits of his wicked life. For, as it is written in a book, intituled to be of Didymus Alexandrinus : " Forasmuch as faith without works is dead, it is not now faith, as a dead man is not a man12." This dead faith therefore is not that sure and substantial faith, which saveth sinners.
 
@@ -81,7 +80,7 @@ How plentiful this faith is of good works, and how it maketh the work of one man
 
 [• Some have wandered mountains, Ibid.]
 
-138 HOMILY
+## 138 Homily
 
 All these fathers, martyrs, and other holy men, whom St Paul spake of, had their faith surely fixed in God, when all the world was against them. They did not only know God to be Lord1, maker, and governor of all men in the world; but also they had a special confidence and trust that he was and would be their God, their comforter, aider, helper, maintainer, and defender. This is the Christian faith, which these holy men had, and we also ought to have. And although they were not named Christian men, yet was it a Christian faith that they had ; for they looked for all benefits of God the Father through the merits of his Son Jesu Christ, as we now do. This difference is between them and us ; for they looked when Christ should come, and we be in the time when he is in Joan. Tra. come. Therefore saith St Augustine : " The time is altered, but not the faith2." For we
 

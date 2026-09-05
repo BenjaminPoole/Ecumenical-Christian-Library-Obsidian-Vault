@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The Happy Beggar
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3040
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But I am poor and needy; yet the Lord thinks upon me." Psalm 40:17.
 
@@ -121,7 +118,7 @@ As soon as we have nothing to pay,
 
 Our Lord forgives us all!"
 
-EXPOSITION BY C. H. SPURGEON: PSALM40.
+## Exposition by C. H. Spurgeon: Psalm 40
 
 If our hearts are in trouble, as his was who wrote this Psalm, may we be able to act as wisely and as well as he did, and so obtain a like deliverance!
 
@@ -178,7 +175,6 @@ to do God's will for us and offering Himself as the truest Sacrifice that could 
 17\. The Lord thinks upon me. That is enough for me! If He thinks of me, His thoughts are so kind, generous, wise and practical that He will help me!
 
 17\. You are my help and my deliverer; make no tarrying, O my God
-
 
 ---
 [[Sermon 3039 The King's Sharp Arrows|← #3039]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3041 The Sparrow and the Swallow|#3041 →]]

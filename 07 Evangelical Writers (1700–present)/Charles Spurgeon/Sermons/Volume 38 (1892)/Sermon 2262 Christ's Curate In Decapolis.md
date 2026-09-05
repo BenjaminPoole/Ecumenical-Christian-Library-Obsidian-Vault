@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Christ's Curate In Decapolis
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2262
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they began to pray Him to depart out of their coasts. And when He was come into the ship, he that had been possessed with the devil prayed Him thathe might be with Him. However, Jesus suffered him not, but said unto him, Go home to your friends, and tell them what great things the Lord has done for you, and how He has had compassion on you." Mark 5:17-19.
 
@@ -119,7 +116,7 @@ And mind this, before you begin Christ's service, always seek His Presence and h
 
 When we have done all, we are still unprofitable servants—we have only done that which is our duty to do. So, if you are as humble as you are active, as lowly as you are energetic, you may stay with Christ and yet go about His errands to the ends of the earth! And I reckon this to be the happiest experience that any one of us can reach this side of the gates of pearl. The Lord bless you and bring you there, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON MARK51-29.
+## Exposition by C. H. Spurgeon Mark 51-29
 
 1,2. And they came over unto the other side of the sea, into the country of the Gadarenes. And when He was come out of the ship, immediately there met Him out of the tombs a man with an unclean spirit. Our Lord crossed the Sea of Galilee on purpose to rescue this poor man from the power of the unclean spirits that possessed him. He knew that there were many who needed Him on the Galilean side of the lake and He could foresee the storm that would threaten to sink the little ship. Yet He calmly said to His disciples (see chapter 4, Verse 35), "Let us pass over unto the other side." As soon as the great Physician landed, a dreadful apparition appeared. "Out of the tombs," an uncanny place, rushed a man, howling and yelling like some wild beast, or, still worse, under the influence of Satan who had taken possession of him.
 
@@ -150,7 +147,6 @@ ways in the mountains, and in the tombs, crying and cutting himself with stones.
 18-20. And when He was come into the ship, he that had been possessed with the devil prayed Him that he might be with Him. However Jesus suffered him not, but said unto him, Go home to your friends, and tell them what great things the Lord has done for you, and how He has had companion on you. And he departed, and began to publish in Decapolis all the great things Jesus had done for him: and all men did marvel. He was told to tell what great things the Lord had done for him. He went and told what great things Jesus had done for him. Did he make a mistake? Oh, no! It is but another name for the
 
 same Person, for Jesus is the Lord—and when you speak of Him as Divine, and talk of Him in terms fit only for God— you do but speak rightly, for so He deserves to be praised! "And all men did marvel." So our Lord left them all wondering. Leaving this one messenger to bear testimony to Him, He went His way elsewhere, to carry blessings to many others on the other side of the sea. The man appears to have gone through the wide district that bore the name Decapolis and his testimony to the power of Christ was so convincing that, when the Savior revisited that part of the country, He had a very different reception from that which He received on this occasion. (See 7:31-37; 8:1-10).
-
 
 ---
 [[Sermon 2261 One Worker Preparing For Another|← #2261]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2263 Christ's Plea for Ignorant Sinners|#2263 →]]

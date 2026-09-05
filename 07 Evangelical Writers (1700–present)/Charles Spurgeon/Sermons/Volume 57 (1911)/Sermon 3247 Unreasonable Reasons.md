@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Unreasonable Reasons
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3247
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O you oflittle faith, why did you doubt?" Matthew 14:31.
 
@@ -124,7 +121,6 @@ The other reason is this. Try Him, yourself, and if He rejects you, then you sha
 O poor Soul, then come away—come away to the Savior! I will go with you, for I love to go again and again and again, and be a beggar again at my Lord's door! Come, let us say together, "Jesus, we have guilt. We have no merit. We have no claim upon You. We deserve to be cast into the lowest Hell. But by Your blood, by Your righteousness, have mercy upon us and save us now. We desire to give up all our sins, to leave them behind us and to be obedient to all Your bidding. Save us, dear Savior, save us! Purge us with hyssop and we shall be clean! Wash us and we shall be whiter than snow."
 
 If that prayer comes from any heart here, the Lord will answer it, indeed! May He bless you! Amen.
-
 
 ---
 [[Sermon 3246 God's Thoughts and Ours|← #3246]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3248 Gathering Without Planting|#3248 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 206. Matthew 27:1-10; Mark 15:1; Luke 23:1
-
-**MATTHEW 27:1-10; MARK 15:1; LUKE 23:1**
 
 **1.** But when it was morning, all the chief priests and elders of the people took counsel against Jesus, to put him to death. **2.** And they led him away bound, and delivered him to Pointius Pilate the governor. **3.** Then Judas, who had betrayed him, perceiving that he was condemned, repented, and brought back the thirty pieces of silver to the chief priests and elders, **4.** Saying, I have sinned in betraying innocent blood. But they said, What is that to us? see thou to that. **5.** And having thrown down the pieces of silver in the temple, he retired, and went away, and strangled himself. **6.** And the chief priests, having taken the pieces of silver, said, It is not lawful for us to throw them into the treasury, for they are the price of blood. **7.** And having taken counsel, they bought with them the potter’s field for a burying-place to strangers; **8.** For which reason that field is called, The field of blood, to this day. **9.** Then was fulfilled what was spoken by Jeremiah the prophet, saying, And they took thirty pieces of silver, the price of him who was valued, whom they of the children of Israel valued, **10.** And gave them for the potter’s field, as the Lord appointed me.
 

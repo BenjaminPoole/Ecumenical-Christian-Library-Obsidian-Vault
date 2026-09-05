@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Joyful Anticipation of the Second Advent
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2496
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And when these things begin to come to pass, then look up, and lift up your heads, for your redemption draws near. And He spoke to them a parable, Behold this fig tree and all the trees. When they are budding, you see and know, yourselves, that summer is now near. So likewise, when you see these things happening, you know that the Kingdom of God is near." Luke 21:28-31.
 
@@ -101,7 +98,7 @@ As for the coming of our Divine Master and the triumph of everything that is rig
 
 And as for you who are not His people, begin to look out for a place to hide yourselves, for Christ is coming! O you earthworms, begin to look for the holes into which you will wish to creep to hide yourselves! I wish that you would so look out for a hiding place that you would find one in that Man who presents Himself as the best hiding place for every sinner who will trust Him. God bring you all to find refuge in Christ! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE21.
+## Exposition by C. H. Spurgeon: Luke 21
 
 Luke 1-6. And He looked up, and saw the rich men casting their gifts into the treasury. And He saw, also, a certain poor widow casting in her two mites. And He said, Of a truth I say to you, that this poor widow has cast in more than they all: for all these have, of their abundance, cast in to the offerings of God: but she of her penury has cast in all the living that she had. And as some spoke of the Temple, how it was adorned with goodly stones and gifts, He said, As for these things which you behold, the days will come, in which there shall not be left one stone upon another, that shall not be thrown down. This was literally true of the Temple at Jerusalem and, today, there remains nothing of it. It is also true of all earthly buildings and of all earthly things. However firm they appear to be, as though they might outlast the centuries, themselves, yet the things which are seen are temporal and, like the baseless fabric of a vision, they shall all melt into thin air and pass away. "The things which are seen are temporal; but the things which are not seen are eternal."
 
@@ -138,7 +135,6 @@ Luke 1-6. And He looked up, and saw the rich men casting their gifts into the tr
 Witnessed the fervor of His prayer" Jesus always practiced what He preached. He said to His disciples, "Watch, therefore, and pray always," so He, Himself, both watched and prayed.
 
 38\. And all the people came early in the morning to Him in the Temple, to hear Him. May we all be willing, not only to hear Him, but also to heed what He says! Amen.
-
 
 ---
 [[Sermon 2495 Defiled and Defiling|← #2495]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2497 A New Leaf for the New Year|#2497 →]]

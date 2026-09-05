@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Anxiety, Ambition, Indecision
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2871
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Neither be you of a doubtful mind." Luke 12:29.
 
@@ -81,7 +78,7 @@ But there are some people—professing Christians, too—whose heads are always 
 
 III. A third meaning of the text is this, "BE YOU NOT OF AN IRRESOLUTE MIND, WITHOUT DECISION OF
 
-CHARACTER."
+## Character."
 
 If you look at the connection of the passage, you will see that this meaning fits in exceedingly well. There are persons in the world who may be described as time-servers. The main consideration with them is what they shall eat, or what they shall drink, or how they shall be clothed—so they are always watching to see which is the best way to go in reference to those matters. As the old proverb has it, they know on which side their bread is buttered, or, according to another familiar saying, they are waiting to see which way the cat jumps! And when they have ascertained that, their "principles" will lead them to jump in that particular direction.
 
@@ -97,7 +94,7 @@ them that kill the body, and after that have no more that they can do. But I wil
 
 IV. A fourth meaning of the text is, BE YOU NOT AT SEA SO FAR AS YOUR OWN PERSONAL SALVATION
 
-IS CONCERNED.
+## Is Concerned
 
 Brothers and Sisters, there are some who are not saved, who yet imagine that they are. There are many who know nothing of vital godliness, yet who sing as joyfully as the brightest of saints, never suspecting their real condition in the sight of God. Whenever I meet with a man who never has had a doubt about his own condition, I feel inclined to quote to him those lines of Cowper—
 
@@ -121,7 +118,7 @@ Listen, my Friend! That sin of yours can be forgiven, for Jesus died for sinners
 
 "Only trust Him, only trust Him, Only trust Him now!"
 
-EXPOSITION BY C. H. SPURGEON: PSALM571-6.
+## Exposition by C. H. Spurgeon: Psalm 571-6
 
 Verse 1. Be merciful unto me, O God, be merciful unto me: for my soul trusts in You: yes, in the shadow of Your wings will I make my refuge, until these calamities pass. The heading of this Psalm—"To the chief musician, Al-Taschith, Michtam of David, when he fled from Saul in the cave"—tells us when it was written. It is one of David's "Golden Psalms." What a mixture of feebleness and strength there is in this first verse—the feebleness so beautified by being clothed with the strength of faith! What a turning away from man and what a turning wholly unto the Lord! And, in coming to the Lord, what humility and what pleading for mercy, and for mercy only! "Be merciful unto me, O God, be merciful unto me." Yet what holy boldness also! "For my soul trusts in You." And what joyous confidence and what sweet repose in God! "Yes, in the shadow of Your wings, will I make my refuge." "If I cannot see the brightness of Your face, the shadow of Your wings shall be enough for me. Only let me get near You—only permit me humbly to trust You, and it shall be enough for me, 'until these calamities pass.'"
 
@@ -138,7 +135,6 @@ Mark what the Psalmist says of the voracity of his enemy—he speaks of Saul as 
 6\. They have prepared a net for my steps; my soul is bowed down: they have dug a pit before me, into the midst whereof they are fallen themselves. Selah. He knew that it would be so and he looked upon it as already accomplished—their nets and pits would only injure themselves.
 
 Now look at the next verse in the light of the prayer David had been praying. See what a marvelous act of faith and what a grand result of unwavering confidence in God it is, for a man to be able to sing as David does even when his soul is among lions and fierce and powerful enemies are all round him, seeking his harm!
-
 
 ---
 [[Sermon 2870 Revelation and Conversion|← #2870]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2872 The Lord's Supper|#2872 →]]

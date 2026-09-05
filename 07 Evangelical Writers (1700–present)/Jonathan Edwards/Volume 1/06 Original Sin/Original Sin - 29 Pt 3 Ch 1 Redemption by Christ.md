@@ -10,10 +10,9 @@ written: "1758 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. I.
 
-THE EVIDENCE OF ORIGINAL SIN, FROM THE NATURE OF REDEMPTION, IN THE PROCUREMENT OF IT.
+*The Evidence of Original Sin, from the Nature of Redemption, in the Procurement of It*
 
 According to Dr. T.‘s scheme, a very great part of mankind are the subjects of Christ’s *redemption,* who live and die perfectly *innocent,* who never have had, and never will have, any *sin* charged to their account, and never are exposed to any *punishment* whatsoever, *viz.* all that die in *infancy.* They are the subjects of *Christ’s redemption,* as he redeems them from *death,* or as they by his righteousness have *justification,* and by his obedience are *made righteous,* in the *resurrection* of the body, in the sense of Rom. v. 18, 19. And *all* mankind are thus the subjects of Christ’s redemption, while they are perfectly guiltless, and exposed to no punishment, as by Christ they are entitled to a *resurrection.* Though, with respect to such persons as have *sinned,* he allows it is *in some sort* by Christ and his death, that they are saved from sin, and the punishment of it.
 

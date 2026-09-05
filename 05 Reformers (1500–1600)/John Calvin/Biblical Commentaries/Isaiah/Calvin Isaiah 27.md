@@ -10,10 +10,9 @@ written: "1551"
 tags:
  - calvin-commentaries
 ---
-
 # Isaiah 27
 
-**CHAPTER 27**
+***Chapter 27***
 
 ## Isaiah 27:1-13
 

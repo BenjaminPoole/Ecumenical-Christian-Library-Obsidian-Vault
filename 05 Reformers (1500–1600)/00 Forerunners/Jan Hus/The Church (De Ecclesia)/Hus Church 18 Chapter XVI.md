@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 18. Chapter XVI
 
-THE LAW OF GOD THE STANDARD OF ECCLESIASTICAL JUDGMENTS
+*The Law of God the Standard of Ecclesiastical Judgments*
 
 Further, the aforementioned doctors lay down that " certain of the Bohemian clergy, leaning too little on the pope and the college of cardinals, do not want to agree to this, wishing to have holy Scripture for the only judge in such matters, which Scripture they interpret and wish to have interpreted according to their own heads, not caring for the interpretation accepted by the community of wise men in the church nor heeding the holy Scripture recorded in Deut. 17 : 8-12: 'If thou seest that there is a matter in judgment too uncertain and hard for thee, between blood and blood, between plea and plea, between leprous and nonleprous, and perceivest that the words of the judges do not agree within thy gates; then arise and get thee up unto the place which the Lord thy God shall choose and thou shalt come unto the priests, the Levites, and unto the judge which shall be in those days, and thou shalt inquire from them and they shall pronounce for thee a sentence of truth. And thou shalt do according to whatever they may say who preside in that place which Jehovah hath chosen; and they shall teach thee according to his law and thou shalt observe their sentence, nor shalt thou turn aside from the sentence to the right hand or to the left. And the man that doth presumptuously, not willing to obey the priesfs jurisdiction who at that time standeth to minister before thy God, and to obey the sentence of the judge, even that man shall die: and thou shalt put away the evil from Israel. And all the people shall hear and fear and do no more presumptuously.' 1 It is certain that for all the faithful the Roman church is the place which the Lord has chosen, the place where the Lord has placed the primacy of the whole church, and the high priest who occupies the primacy, and is set over that place, is the pope, the true and manifest successor of Peter. And the cardinals are the priests of the tribe of Levi who are joined with the lord pope in the administration of the priestly office, to whom in cases of doubt and difficulty recourse must be had in matters, catholic and ecclesiastical, the judgment of God being followed.
 
@@ -38,7 +37,7 @@ But they add the biggest lie of all when they speak without applying the holy Sc
 
 1 Nicholas of Lyra, born in France, d. Paris, 1340, member of the Franciscan order, a notable exegete, who knew Ilebrew and in his Poslillce gave a running
 
-THE LAW OF GOD
+## The Law of God
 
 Certainly I confide in this expounder, so far as this opinion goes, more than in all the aforesaid doctors. For Lyra aptly draws from Scripture (1) that the opinion of no man, whatever his authority may be — and consequently the opinion of no pope — is to be held if it plainly contains falsehood or error. It seems to me to be certain that Palecz and Stanislaus are so afraid of the pope and the cardinals that they would not dare publicly to avow this holy saying. (2) Lyra declares that God's law is the standard according to which individual judges and especially ecclesiastical judges ought to pronounce sentence and not otherwise. For this law shows what ought to be accepted as true. Hence he says that this appears from the words: "They shall pronounce for thee a sentence of truth." And the words follow: "They shall teach thee according to His law." O doctors, why do you not hold to this Scripture? You were asked and for God's sake publicly besought in the convocation of the university to pronounce a sentence of truth according to God's law, whether the bulls for the raising of the cross obligated the scholars of the university to give of the goods collected by God subsidies to the pope against Ladislaus and against his allies at the pope's command.1 And you responded that you did not comment on all the books of the Bible. He was much used by the Reformers, especially Luther, so that it was said: "If Lyra had not harped, Luther would not have danced." Lyra quotes Raschi at length on the O. T.
 
@@ -118,7 +117,7 @@ And, as is gathered from the Chronicles of Martin, Castrensis and Rudolph,1 (i) 
 
 6 Benedict III, 855-858. Anastasius had resisted Benedict's predecessor, Leo IV, and, receiving the support of the imperial Iegates, forced his way into the Lateran and had Benedict torn from his throne. The clergy and people of Rome were against him and he was obliged to withdraw. Of his end there is no credible account.
 
-THE LAW OF GOD 179
+## The Law of God 179
 
 (5) A. D. 907 Pope Leo presided, and against him rose up Christophorus.1
 
@@ -146,7 +145,7 @@ THE LAW OF GOD 179
 
 3 This is the famous Wibert of Ravenna, Clement III, who was elected antipope at the instance of Henry IV against Henry's opponent, Gregory VII.
 
-THE LAVV OF GOD
+## The Lavv of God
 
 (12) A. D. 1087 Desiderius, called also Victor, was made pope against Clement.1
 

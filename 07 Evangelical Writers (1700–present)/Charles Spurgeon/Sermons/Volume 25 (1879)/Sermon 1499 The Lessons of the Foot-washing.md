@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Lessons of the Foot-washing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1499
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 12, 1879,.
+*Delivered on Lord's-Day Morning, October 12, 1879*
 
 > "Jesus knowing that the Father had given all things into His hands, and that He was come from God, and went to God; He rose from supper, and laid aside His garments; and took a towel, and girded Himself. After that He poured water into a basin, and began to wash the disciples 'feet, and to wipe them with the towel with which He was girded." John 13:3-5.
 
@@ -150,7 +149,6 @@ Let this mind be in you, which is also in Christ Jesus who washed His disciples'
 Little children, love one another. Amen.
 
 [This sermon was originally titled, "The Teaching of the Foot-Washing.]
-
 
 ---
 [[Sermon 1498 Mistrust of God Deplored and Denounced|← #1498]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1500 Number 1500, Or Lifting Up the Bronze Serpent|#1500 →]]

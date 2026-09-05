@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # The Final Separation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1234
-
-DELIVERED BY.
 
 > "And before Him shall be gathered all nations: and He shall separate them, one from another, as a shepherd divides his sheep from the goats." Matthew 25:32.
 
@@ -144,7 +141,6 @@ The modest shun it but to make it sure." But when you receive a new heart you wi
 You will quietly put into the treasury the two mites that make a farthing and think yourself unobserved, but One who sits over against the treasury, who knows your heart, will take good note of it. Your Lord will accept what you do because you do it out of love to Him—and at the Last Great Day, while you blush to hear it, He will tell it to the angels and to the listening hosts of earth and Heaven—and swing wide the gates of immortal bliss and let you in, according to the promise of His Grace. God bless you, Beloved, for Jesus' sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Matthew 25. HYMNS FROM "OUR OWN HYMN BOOK"—846, 362, 360.
-
 
 ---
 [[Sermon 1233 Healing Leaves|← #1233]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1235 How A Man's Conduct Comes Home To Him|#1235 →]]

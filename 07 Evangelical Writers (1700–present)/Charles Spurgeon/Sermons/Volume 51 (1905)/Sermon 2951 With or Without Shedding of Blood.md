@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # With or Without Shedding of Blood
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2951
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Without shedding of blood is no remission." Hebrews 9:22.
 
@@ -95,7 +92,7 @@ If there is a poor sinner here who sees the lifeboat of faith come close up to h
 
 "Other refuge have I none— Hangs my helpless soul on You." O Sinner, you can hang where I can hang and where all God's people are hanging! "Ah," you say, "you do not know what a great sinner I am." No, and you do not know what a great Savior He is! "Ah, but I have such a hard heart!" But His heart was broken and He can break yours! "Yes, but it will be an amazing thing if He ever saves me." Ah, there you are right, and so it is when He saves anybody—and He delights to work wonders of Grace! I wonder which will be the biggest wonder in Heaven—you or I—or someone else here or elsewhere? Well, we shall see when we get there, but mind that you get there! God bless you, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 9:18-28; 10:1-25.
+## Exposition by C. H. Spurgeon: Hebrews 9:18-28; 10:1-25
 
 Hebrews 9:18-22. Whereupon neither the first testament was dedicated without blood. For when Moses had spoken every precept to all the people according to the Law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people, saying, This is the blood of the testament which God has enjoined unto you. Moreover he sprinkled with blood both the tabernacle and all the vessels of the ministry. And almost all things are by the Law purged with blood; and without shedding of blood is no remission. Under the Law of God, some things were purified by fire or by water, but, "almost all things" were "purged with blood" and there was, and still is, no remission of sin "without shedding of blood."
 
@@ -126,7 +123,6 @@ Hebrews 10:1. For the Law having a shadow of good things to come, and not the ve
 18\. Now where remission of these is, there is no more offering for sin. If the sins themselves have gone and God will remember them no more, no further sacrifice is required for them! What need have you of cleansing if you are so clean that God, Himself, sees no sin in you? O glorious purgation by the atoning Sacrifice of Christ! Rejoice in it and praise the Lord for it forever and ever!
 
 19-25. Having therefore, brethren, boldness to enterinto the holiest by the blood of Jesus, by a new andliving way, which He has consecrated for us, through the veil, that is to say, His flesh; and having an High Priest over the house of God; let us draw near with a true heart, in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. Let us hold fast the profession of our faith without wavering; (for He is faithful that promised) and let us consider one another to provoke unto love and to good works: not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as you see the day approaching. Notice the practical teaching of this great Truth of God! If you have been thus washed, do not defile yourselves again. If, by God's rich mercy, you have been delivered from the transgressions of the past, let gratitude move you to holy living and endeavor not only to grow in Grace, yourselves, but to help others in the same direction, so that the abounding mercy of God may have abundant praise from us. God grant it for His name's sake! Amen.
-
 
 ---
 [[Sermon 2950 True and Not True|← #2950]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2952 The Church—the World's Hope|#2952 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # To Souls In Agony
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1216
-
-DELIVERED BY.
 
 > "The sorrows of death compassed me, and the pains of Hell got hold upon me. I found trouble and sorrow. Then called I upon the name of the Lord; O Lord, I beseech You, deliver my soul...You have delivered my soul from death, my eyes from tears, and my feet from falling." Psalm 116:3,4,8.
 
@@ -136,7 +133,6 @@ Trust Him and you are delivered, for thus says the Lord, "I will deliver his sou
 Do as the Psalmist tells you by his example. Say, "What shall I render to the Lord for all His benefits toward me? I will take the cup of salvation and call upon the name of the Lord. I will pay my vows unto the Lord, now, in the presence of all His people." Do not hide His love! Confess it to His Glory, for the comfort of His people, for the encouragement of His minister and for the strengthening of His Church! The Lord be with you, Brothers and Sisters, for Christ's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 116. HYMNS FROM "OUR OWN HYMN BOOK"—30, 138.
-
 
 ---
 [[Sermon 1215 Solemn Pleadings for Revival|← #1215]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1217 Rightly Dividing the Word of Truth|#1217 →]]

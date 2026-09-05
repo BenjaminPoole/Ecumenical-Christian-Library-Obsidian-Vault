@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/17
 ---
-
 # The Master's Profession—The Disciple's Pursuit
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 977
@@ -23,7 +22,7 @@ Delivered on Thursday Evening, April 21st, 1870 by, the Metropolitan Tabernacle,
 
 WHO IS THE SPEAKER that gives utterance to these marvellous words? In the first instance they must be understood to proceed from our Lord Jesus Christ. By the Spirit of prophecy in the Old Testament they were spoken of him, and by the Spirit of interpretation in the New Testament they have been applied to him. Mark, then, how vehemently he here declares that he has fully discharged the work which he was sent to accomplish. When, in the days of his flesh, he was crying to his Father for preservation in a season of dire distress, he might well ask that he should then be helped, since all the previous strength he possessed had been laid out in his Father’s service. But because this profession emphatically belongs to our Savior we need not suppose that it exclusively belongs to him. On the other hand, Christ being our forerunner and our example, we are encouraged to emulate the high calling and the dutiful obedience he so perfectly exhibited.
 
-I. UNDOUBTEDLY OUR LORD JESUS CHRIST, AS WE READ HIS HISTORY IN THE FOUR EVANGELISTS, MOST GLORIOUSLY FULFILLED HIS LIFE-MISSION.
+## I. Undoubtedly Our Lord Jesus Christ, as We Read His History in the Four Evangelists, Most Gloriously Fulfilled His Life-Mission
 
 He was constantly testifying to the gospel of God, the gospel of his righteousness and of his grace. From the first moment when he, being full of the Holy Ghost, began to preach the gospel, until the day when he was taken up into heaven, while he blessed his disciples, he was instant in season and out of season. There were no waste moments of time, no neglected opportunities, no talents held in reserve. “I must work,” was his motto. The zeal of God’s house consumed him. It was his meat and his drink to do the will of him that sent him. A marvellous study is this life of Christ on earth; and as one looks at it thought begets thought, for—
 
@@ -114,7 +113,6 @@ with all my might I labored to excel, and now I enter into the bliss of him who 
 God bless you, dear friends, and make you earnest to tell to others those things he has made known unto you, for our Lord Jesus Christ’s sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 40.
-
 
 ---
 [[Sermon 0976 The Wedding Garment|← #976]] · [[Volume 17 (1871)|Volume 17 (1871) Contents]] · [[Sermon 0978 All Fulness in Christ|#978 →]]

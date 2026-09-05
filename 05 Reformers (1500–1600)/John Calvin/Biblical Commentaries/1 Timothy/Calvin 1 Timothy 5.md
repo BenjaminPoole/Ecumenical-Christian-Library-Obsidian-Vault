@@ -10,10 +10,9 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # 1 Timothy 5
 
-**CHAPTER 5**
+***Chapter 5***
 
 ## 1 Timothy 5:1-4
 

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 199. Luke 22:35-38
-
-**LUKE 22:35-38**
 
 **35.** And he said to them, When I sent you without purse, or scrip, or shoes, did you want any thing? And they said, Nothing. **36.** He therefore said to them, But now let him who hath a purse take it, and, in like manner, a scrip; and let him who hath not a sword sell his garment and buy one. **37.** For I tell you, that this also which is written must be accomplished in me, And he was reckoned with the transgressors. For those things which relate to me have an end. [^1] **38.** And they said, Lord, lo, here are two swords. And he said to them, It is enough.
 

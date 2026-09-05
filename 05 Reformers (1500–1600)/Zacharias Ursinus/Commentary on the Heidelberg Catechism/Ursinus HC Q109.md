@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 109. Doth God forbid, in this command, only adultery, and such like gross sins?
-
-**Question 109. Doth God forbid, in this command, only adultery, and such like gross sins?**
 
 Answer. Since both our body and soul are temples of the Holy Ghost, he com mands us to preserve them pure and holy; therefore he forbids all unchaste actions gestures, words, thoughts, desires, and whatever can entice men thereto.
 
-**EXPOSITION**
+## **Exposition**
 
 God in this commandment enjoins and sanctions the preservation of chastity and marriage, and hence authorises marriage itself; for whenever God forbids any thing, he at the same time commands and authorises the observance of that which is opposite thereto. God, now, in this commandment forbids adultery, which is a violation of conjugal fidelity. When God singles out adultery as the most shocking and debasing vice of all the sins which are repugnant to chastity, he at the same time prohibits and condemns all wandering and wanton lusts, whether they be found in married or unmarried persons, and prohibits all other sins and vices contrary to chastity, together with their causes, occasions, effects, antecedents, consequents, &c. And, on the other hand, he enjoins all those virtues which contribute to chastity. The reasons of this are these: 1. When one thing is specified, all those are understood which are closely allied or connected with it. Therefore, when adultery is prohibited, as the most shocking and debasing form of lust, we are to understand all other forms of lust as forbidden at the same time. 2. Where the cause is condemned, there the effect is also condemned; and where the effect is condemned, there the cause is condemned. Hence the antecedents as well as the consequents of adultery are here forbidden and condemned. 3. The design of this commandment is the preservation of chastity amongst men, and the guarding of marriage, or keeping it holy. Whatever, therefore, tends to the preservation of chastity, and the protection of marriage, is enjoined by this commandment, whilst that which is opposed thereto is forbidden. There are three virtues which we may speak of under the seventh commandment: chastity, modesty and temperance.
 
@@ -60,35 +57,35 @@ V. What duties devolve upon married persons:
 
 VI. What things are contrary to marriage.
 
-**I. WHAT IS MARRIAGE?**
+## **I. What Is Marriage?**
 
 Marriage is a lawful and indissoluble union between one man and one woman, instituted by God for the propagation of the human race, that we may know him to be chaste, and to hate all lust, and that he will gather to himself out of the whole human race, thus lawfully propagated, an everlasting church, which shall rightly know and worship him; and that it may be a society of labors, toils, cares and prayers, between persons living in a state of matrimony.
 
-**II. WHY WAS MARRIAGE INSTITUTED?**
+## **II. Why Was Marriage Instituted?**
 
 God himself is the author of marriage. It is, therefore, no human device or invention, but was instituted by God himself in Paradise, before the fall of man. The causes on account of which it was instituted are, as we may learn from the definition which we have just given: 1. That it might be the means of perpetuating and multiplying the human race in a lawful manner. 2. The gathering of the church. 3. That it might be an image or resemblance of the union between Christ and the church. 4. That wanton and wandering lusts might in this way be avoided. 5. That there might be a society of labor and prayer between those who are married. This society or connection is closer and more intimate than that which exists between men generally. Hence, the prayers of those who are living in this state are more ardent, inasmuch as we more earnestly desire to help those by our prayers to whom we are united in the closest relations of life; as parents pray more fervently for their children, than the children do for their parents, for the reason, as it is commonly said, Love descends, not ascends.
 
-**III. WHAT MARRIAGES ARE LAWFUL?**
+## **III. What Marriages Are Lawful?**
 
 That the union constituted by marriage may be lawful, the following things are necessary: 1. That it be a union contracted between persons fit to be joined together. 2. That it be contracted by the consent of both parties. 3. That it meet the approbation of parents, or those who are in the place of parents, and whose consent is required by the law. 4. That no mistake or error be made in the persons. 5. That suitable conditions, propriety and lawful means, be observed in the contract. 6. That it be contracted between two persons only. "The twain shall be one flesh." (Gen. 2:23. Matt. 19:5.) The fathers who lived under the Old Testament had many wives; but we must judge of tho propriety and lawfulness of a thing not by examples, but by law. 7. That it be contracted in the Lord: that is, between the faithful, and with prayer. 8. That it be not contracted between persons who are forbidden, or who are of such near relationship, or degrees of kindred, as are forbidden by God and wholesome laws.
 
 Kindred, or relation by blood, is either consanguinity or affinity. There are some, however, who regard kindred and consanguinity as one and the same thing. Consanguinity is between persons having sprung from the same stock or family, being closely allied by blood. Affinity is the relation between a man and his wife's kindred, arising from marriage. The stock is the person from whom the rest proceed or spring. Those, now, who are related by blood, are distinguished by lineage and degree. Lineage is the order or line of kinsfolk descending from one stock. The degree which distinguishes them is the distance of kinsfolk, whether on the side of the father or mother, from the original stock. This common rule is to be observed in reference to these degrees: There are as many degrees as there are persons who have sprung from the stock. The law of God forbids th second degree in marriage; wise and wholesome political laws forbid als the third degree. Lineage is either of ascendants, or of descendants, or of collaterals. Ascendants include the ancestors. Descendants include all the posterity. Collaterals are those who are not born one from another, but from the same persons. The lineage of collaterals is either equal or unequal. It is equal when the distance from the common stock is equal; and unequal when the distance is unequal. The degrees of consanguinity which God forbids to be united in the marriage relation may be found in the eighteenth chapter of Leviticus. And that these degrees are natural and moral, is proven: 1. Because the Gentiles are said to have committed abominations on account of having violated them, and to have been rejected of God on this account. The Gentiles now had not the civil and ceremonial laws of Moses. 2. Because God punished or destroyed the world by the waters of the deluge for the violation of these laws, or for indulgence in wanton lusts and incestuous marriages. 3. From the design of this commandment, which is the prohibition of incest, which design is universal, perpetual and moral. 4. Paul most severely reproved the in cestuous man, who had married his father's wife, of whom we have an account in the fifth chapter of his first Epistle to the Corinthians, and commanded that he should be excommunicated. So John the Baptist also reproved Herod for having married his brother's wife, in that it was unlaw ful for him so to do. (Mark 6:18.)
 
-**IV. IS MARRIAGE A THING INDIFFERENT?**
+## **IV. Is Marriage a Thing Indifferent?**
 
 Marriage is lawful for all who are fit or proper persons to enter into this state. It is a thing indifferent, by which we mean that it is neither commanded, nor prohibited by God, but left to the will and pleasure of those who possess the gift of continency. It is different, however, with those who do not possess this gift—to them it is not merely permitted, but commanded by God himself, that they marry in the Lord. Hence to these persons it is not a thing indifferent, but necessary, as is evident from what the Apostle says: "It is good for a man not to touch a woman; nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband." "I say to the unmarried and widows it is good for them, if they abide, even as I. But if they cannot contain, let them marry; for it is better to marry than to burn." (1 Cor. 7:1, 2, 8, 9.) A proper regard should be had to time, both in first and second marriages; nor should we give loose reins to our lusts and passions; but rather curb and restrain them by prayer, and earnest efforts to the extent of our power, so as not to wound our consciences or violate that which is proper and just. Plutarch, in his life of Numa, testifies how carefully the Romans guarded against this, and all improprieties in reference to marriage, when he says, "Woman remained widows ten months after the death of their husbands; and that if any one married before the expiration of ten months, the laws of Numa required her to sacrifice a cow heavy with calf, &c. The want of a proper regard to time in marriages, is a cause of many evils both in civil and ecclesiastical affairs. Yet those who have once lawfully and in the Lord contracted marriage, may not break or violate their vow, except for adultery.
 
-**V. WHAT ARE THE DUTIES OF MARRIED PERSONS?**
+## **V. What Are the Duties of Married Persons?**
 
 The common and mutual duties of married persons include, 1. Mutual love. 2. Conjugal fidelity, which requires that each one love the other only, and that constantly. 3. A community of good, together with sympathy in each other's sorrows and misfortunes. 4. The training and education of children. 5. Bearing each other's infirmities with a desire to remove them.
 
 It is the duty of the husband, 1. To nourish and cherish his wife and children. 2. To govern them. 3. To defend them. It is the duty of the wife, 1. To assist her husband in providing and preserving what pertains to the family. 2. To obey and reverence her husband. When these duties are not performed, there is a great breach of what tends to the lawful use of marriage.
 
-**VI. WHAT THINGS ARE CONTRARY TO MARRIAGE?**
+## **VI. What Things Are Contrary to Marriage?**
 
 The things which are contrary to marriage are the same as those which conflict with chastity. 1. Fornication and adultery, by which conjugal faith and chastity are violated by one, or both parties. Also incest, unlawful copulation, and abuse of marriage. 2. Hasty and rash divorces, which in former times were common among the Romans and Jews, and and which are even at this day frequent among uncivilized nations. The divorces of which we here speak are not such as take place on account of adultery, but from one person deserting or leaving the other. 3. Forbidding to marry.
 
-FORTY-SECOND LORD'S DAY
+## Forty-Second Lord's Day
 
 ---
 [[Ursinus HC Q108|← Question 108. What doth the seventh command ]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q110|Question 110. What doth God forbid in the ei →]]

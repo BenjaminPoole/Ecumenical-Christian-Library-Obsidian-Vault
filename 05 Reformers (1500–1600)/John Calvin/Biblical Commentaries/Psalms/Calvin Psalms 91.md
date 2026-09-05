@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 91
-
-**PSALM 91**
 
 In this psalm we are taught that God watches over the safety of his people, and never fails them in the hour of danger. They are exhorted to advance through all perils, secure in the confidence of his protection. The truth inculcated is one of great use, for though many talk much of God’s providence, and profess to believe that he exercises a special guardianship over his own children, few are found actually willing to intrust their safety to him. [^1]
 

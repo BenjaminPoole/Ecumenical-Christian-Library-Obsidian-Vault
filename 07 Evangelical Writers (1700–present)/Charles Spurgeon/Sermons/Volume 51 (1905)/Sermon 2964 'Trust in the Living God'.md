@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'Trust in the Living God'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2964
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "We trust in the living God." 1 Timothy 4:10.
 
@@ -136,7 +133,6 @@ Are any of you obliged to answer my question truthfully by saying, "No, the livi
 be tried by fire, and if God has built into us the gold, silver and precious stones of His Grace, and if we have built upon them our life work, both we and our work will endure the trial by fire!
 
 But, Sinner, you will also have to go through that fire! And seeing that there is nothing in you but the wood, hay and stubble of self and sin—nothing in you but that which it foul and obnoxious to God, unholy and unrighteous—or self-righteous, which it really unrighteous—the fire will consume it! All your glory, your peace, your happiness, everything that makes life to be life will be taken from you and there shall remain for you nothing but existence! And this is the description of that existence—"These shall go away into everlasting punishment." Oh, may the Lord who alone can give you life, give it to you now! For, if not, there will remain nothing but an everlasting death to be your portion! From that may you now be delivered by His infinite mercy, through trusting in the Lord Jesus Christ! Amen.
-
 
 ---
 [[Sermon 2963 Unmitigated Prosperity|← #2963]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2965 Prepared to Meet God|#2965 →]]

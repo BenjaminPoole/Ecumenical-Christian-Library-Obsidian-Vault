@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # A Challenge and War Cry
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2929
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O Death, where is your sting? O Grave, where is your victory? The sting of death is sin, and the strength of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ. Therefore, my Beloved brethren, be you steadfast, immovable, always abounding in the work of the Lord, for so much as you know that your labor is not in vain in the Lord." 1 Corinthians 15:55-58.
 
@@ -101,7 +98,7 @@ There is a sting in Death to you and over you the Grave will get the victory, fo
 
 The path is easy. The path is open—God wills not the death of a sinner, but rather that he should turn unto Him and live! Believe in the Lord Jesus Christ and you shall be saved! Trust Jesus now and you are saved at once! Death has lost its sting in that moment and the Grave its victory! We said this morning in our simple discourse, "Repent and believe the Gospel." This is the sum of the Gospel—to repent and to know Christ. Oh, that the Spirit of God may lead everyone in this assembly to do so at this very hour and then you can walk over your graves without fear, and descend into them without dread, for you shall come up out of them with triumph! You shall ascend to Heaven with glory and so shall you be forever with the Lord! The Lord add His own blessing for Jesus Christ's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 THESSALONIANS 3.
+## Exposition by C. H. Spurgeon: 2 Thessalonians 3
 
 Verse 1. Finally, brethren, pray for us, that the word of the LORD may have free course and be glorified, even as it is with you. A most important request. What can the ministers of the Gospel do if their people cease to pray for them? Even if their own prayers are heard, as they will be, and a measure of blessing be given, yet it will be but a scant measure compared with what it would be if all the saints united in their intercessions! Whenever we see the Word of God very mighty in one place it ought to encourage us to pray that it may be the same in another place, for it is the same Word and the hearts of all men are alike. The same spirit can give the same blessing in every place. Hence Paul says, "Pray for us, that the word of the Lord may have free course and be glorified even as it is with you." Now, if any of you in your church are enjoying rich prosperity, pray for others, that they may have the same. And if you are without it, take courage from any church which you see prospering and ask the Lord to do the same things for you. Very likely if we prayed more for
 
@@ -134,7 +131,6 @@ ministers, they would be more blessed to us. There is many a man who cannot "hea
 16, 17. The LORD be with you all. The salutation of Paul with my own hand, which is the token in every epistle: so I write. I suppose he always wrote a part of each Epistle. Probably through the failure of his eyesight, he was unable to write the whole of it with his own hands, but employed some one of his brethren to be his secretary. But, in order that everyone might know the Epistle to be genuine, there was always a little of Paul's writing, sometimes in big text, as when he said to one church, "You see how large a letter I have written unto you with my own hand."
 
 18\. The Grace of our LORD Jesus Christ be with you all. Amen So with great courtesy and a comprehensive prayer he finishes his letter.
-
 
 ---
 [[Sermon 2928 Sham Conversion|← #2928]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2930 'Hiding in You!'|#2930 →]]

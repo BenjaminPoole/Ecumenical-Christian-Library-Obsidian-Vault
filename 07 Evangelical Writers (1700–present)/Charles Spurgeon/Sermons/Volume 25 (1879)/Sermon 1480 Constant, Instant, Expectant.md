@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Constant, Instant, Expectant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1480
@@ -87,12 +86,11 @@ I had many things to say unto you, but ye cannot bear them now, for the time has
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Romans 12.
 
-HYMNS FROM “OUR OWN HYMN BOOK.”—30, 981, 978.
+## Hymns from “Our Own Hymn Book.”—30, 981, 978
 
 GIRLS’ ORPHANAGE.—We have purchased “The Hawthorns,” near the Boys’ Orphanage, for £4,000, in order to commence an institution for fatherless girls. We earnestly desire to pay the money when it is due, namely, on the 15th of July next. This will need not only liberal help, but help given *speedily,* for the time is very limited. Up to this moment, in all our movements, we have paid our way with ready money, and it would rejoice our heart if we should be enabled to do so now. About £1,200 has been given or promised.
 
 C.H. Spurgeon.
-
 
 ---
 [[Sermon 1479 The Work of Grace the Warrant for Obedience|← #1479]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1481 The Red Heifer|#1481 →]]

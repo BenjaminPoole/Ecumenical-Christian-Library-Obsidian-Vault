@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Eyes Opened
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 681
 
-DELIVERED ON SUNDAY MORNING, MARCH 18, 1866,.
+*Delivered on Sunday Morning, March 18, 1866*
 
 > "And God opened her eyes, and she saw a well of water." Genesis 21:19.
 
@@ -103,7 +102,7 @@ They ought to have known Him because He was close to them. He was walking with t
 
 They ought to have seen Him because they had the Scriptures to reflect His Image, and yet how possible it is for us to open that precious Book and turn over page after page of it and not see Christ. They talked concerning Christ from Moses to the end of the Prophets, and yet they did not see Jesus. Dear Child of God, are you in that state? He feeds among the lilies of the Word and you are among those lilies, and yet you do not see Him? He is accustomed to walk through the glades of Scripture and to commune with His people, as the Father did with Adam in the cool of the day, and yet you are in the garden of Scripture but cannot see your Lord though He is there and is never absent?
 
-What is more, these disciples ought to have seen Jesus, for they had the Scriptures opened to them. They not only heard the Word, but they understood it. I am sure they understood it, for their hearts burned within them while He spoke with them by the way. I have known what it is, and so have you, to feel our hearts burn when we have been thinking of the precious Truth of God, and yet we have said, "Oh that I could get at Him!" You have heard of election, and you have wondered to yourself whether you should ever see again the face of God's first elect One. You have heard of the Atone- ment, and the mournful story of the Cross has ravished you. You have gone from page to page of Scripture doctrine and have received it and felt its influence, and yet that best of all enjoyments, communion with the Lord Jesus Christ, you have not comfortably possessed.
+What is more, these disciples ought to have seen Jesus, for they had the Scriptures opened to them. They not only heard the Word, but they understood it. I am sure they understood it, for their hearts burned within them while He spoke with them by the way. I have known what it is, and so have you, to feel our hearts burn when we have been thinking of the precious Truth of God, and yet we have said, "Oh that I could get at Him!" You have heard of election, and you have wondered to yourself whether you should ever see again the face of God's first elect One. You have heard of the Atone-ment, and the mournful story of the Cross has ravished you. You have gone from page to page of Scripture doctrine and have received it and felt its influence, and yet that best of all enjoyments, communion with the Lord Jesus Christ, you have not comfortably possessed.
 
 There was another reason why the disciples ought to have seen Him, namely that they had received testimonies from others about Him. "But we trusted that it had been He which should have redeemed Israel: and beside all this, today is the third day since these things were done. Yes, and certain women of our company, which were early at the sepulcher, made us astonished. For when they found not His body, they came, saying, that they had also seen a vision of angels, which said that He was alive." There He was close to them. Oh, it is so strange that in the ordinances of God's house Jesus should be there, and yet in sad intervals our hearts should get so cold and so worldly that we cannot see Him!
 
@@ -133,8 +132,7 @@ Get up, Believers! Get up to your high mountain! Leave your dunghills and assume
 
 I know you will say you cannot see this. However, it is there—most surely there! It is just the same as in Hagar's case, with you—the same but with a difference. The fullness of fellowship with Christ is attainable! It is close to you and if you have your eyes opened to see it, as it has been given you to see Jesus as your Savior, you may rejoice w with a joy unspeakable and full of glory! God do so to you and more, also, according to His Covenant goodness in Christ Jesus. Amen and Amen.
 
-PORTIONS SOF SCRIPTURE READ BEFORE SERMON—GENESIS 21:9-19; LIKE 24:13-31
-
+## Portions Sof Scripture Read Before Sermon—genesis 21:9-19; Like 24:13-31
 
 ---
 [[Sermon 0680 Have You Forgotten Him|← #680]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0682 Future Punishment A Fearful Thing|#682 →]]

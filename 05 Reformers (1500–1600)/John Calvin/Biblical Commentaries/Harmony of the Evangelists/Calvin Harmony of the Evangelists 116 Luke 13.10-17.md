@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 116. Luke 13:10-17
-
-**Luke 13:10-17**
 
 **10**. And he was teaching in one of the synagogues on the Sabbath. **11**. And, lo, a woman who had a spirit of infirmity during eighteen years, and was bent down, and was altogether unable to lift up her head. [^1] **12**. Whom when Jesus saw, he called her to him, and said to her, Woman, thou art delivered from thine infirmity. **13**. And he laid his hands on her, and immediately she stood upright, and glorified God. **14**. And the ruler of the synagogue answering, being offended because Christ had performed a cure on the Sabbath, said to the multitude, There are six days on which we ought to work: on them therefore come, and you shall be cured, and not on the Sabbath-day. **15**. And the Lord answering said to her, Doth not each of you, on the Sabbath, loose his ox or his ass from the stall, and lead him away to watering? **16**. And must not this daughter of Abraham, whom Satan hath bound, lo, eighteen years, be loosed from this bond on the Sabbath-day? **17**. And while he was saying these things, all his adversaries were ashamed, and all the people rejoiced on account of all the glorious actions which were done by him.
 

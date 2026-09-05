@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Spiritual Revival—the Need of the Church
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2598
 
-DELIVERED BY C. H. SPURGEON, AT WHITEFIELD'S TABERNACLE, TOTTENHAM COURT ROAD,.
+*Delivered by C. H. Spurgeon, at Whitefield's Tabernacle, Tottenham Court Road*
 
 > "OLORD, revive Your work." Habakkuk 3:2.
 
@@ -112,7 +111,6 @@ There is an engine on the railway, but the train will not move. "Bring another e
 I have noticed, in different churches, that the minister has thought first of this contrivance, then of that. He tried one plan and thought that would succeed. Then he tried another, but that was no good. Keep to the old plan, my Friend, but seek to get life into it! We do not need anything new—"the old is better"—let us keep to it, but we need life in the old. "Oh," men cry, "we have nothing but the shell." And they are going to give us a new shell. No, Sirs, we will keep the old one, but we will have the life in the shell! We will have the old plans, but we must, or else we will throw the old away, have the life in the old! Oh, that God would give us life! The Church needs fresh revivals. Oh, for the days of Cambuslang again, when God's Word was preached with power! Oh, for the days when, in this place, hundreds were converted under Whitefield's sermons! It has been known that 2,000 credible cases of conversion have happened under one solitary sermon! Oh, for the age when eyes would be strained and ears would be ready to receive the Truth of God and when men would drink in the Word of Life, as it is, indeed, the very Water of Life which God gives to dying souls! Oh, for the age of deep feeling—the age of thorough-going earnestness!
 
 Let us ask God for it! Let us plead with Him for it! Perhaps He has the man or the men somewhere who will yet shake the world! Perhaps even now He is about to pour forth a mighty influence upon man which shall make the Church as wonderful in this age as it ever was in any age that has passed. God grant it, for Christ's sake! Amen,
-
 
 ---
 [[Sermon 2597 A Prayer for Everybody|← #2597]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2599 A Visit From the Lord|#2599 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # November 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SANCTIFIED SOULS ARE SATISFIED**
+## **Sanctified Souls Are Satisfied**
 
 > My people shall be satisfied with my goodness, saith the Lord" Jer. 31:14
 
@@ -27,7 +26,6 @@ These people are satisfied. This is a grand thing. Very few of the sons of men a
 It is no wonder that the Lord's people should be satisfied with the goodness of their Lord. Here is goodness without mixture, bounty without stint, mercy without chiding, love without change, favor without reserve. If God's goodness does not satisfy us, what will? What! Are we still groaning? Surely there is a wrong desire within if it be one which God's goodness does not satisfy.
 
 Lord, I am satisfied. Blessed be thy name.
-
 
 ---
 [[FCB November 11|← November 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB November 13|November 13 →]]

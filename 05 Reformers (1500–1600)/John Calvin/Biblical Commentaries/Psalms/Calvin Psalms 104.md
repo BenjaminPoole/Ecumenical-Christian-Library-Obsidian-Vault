@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 104
-
-**PSALM 104**
 
 This psalm differs from the preceding, inasmuch as it neither treats of the special benefits which God bestows upon his Church, nor lifts us up to the hope of the heavenly life, but by presenting to us a lively image of his wisdom, power, and goodness in the creation of the world, and in the order of nature, encourages us to praise him for the manifestation he has made of himself as a father to us in this frail and perishable life. [^1]
 

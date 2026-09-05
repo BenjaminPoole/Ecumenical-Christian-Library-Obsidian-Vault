@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'The Oil of Joy for Mourning'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3341
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The oil of joy for mourning." Isaiah 61:3.
 
@@ -31,7 +28,7 @@ Let us now come to the consideration of this second of the three great blessings
 
 that—
 
-I. OUR LOVING LORD BRINGS HIS MOURNERS TO SIT AT A FEAST.
+## I. Our Loving Lord Brings His Mourners to Sit at a Feast
 
 This is clearly intended, for oil was largely used by Orientals upon festive occasions. The oil which makes man's face to shine was associated with the bread which strengthens man's heart, and the wine which makes glad the heart of man,
 
@@ -47,7 +44,7 @@ but this we know—the Lord rests in His love. He smells a sweet savor in the Pe
 
 We cannot linger, but must pass to the next observation, which is this—
 
-II. BEING AT A FEAST, IT IS BECOMING THAT WE SHOULD HAVE PRESENT JOY.
+## II. Being at a Feast, It Is Becoming that We Should Have Present Joy
 
 Hence the text speaks of "the oil of joy for mourning"—the mourning was present enough, the joy should be equally so. At feasts, the perfume poured upon the heads of the guests was a seemly and appropriate thing. It suited the feast, it made the guests feel at home and it gave refreshment all around as the delicious perfume sweetened the air. Come, Beloved, we have at this moment reason for joy—let us use it! Let every child of God feel that he has the oil of joy in the fact that he possesses present blessings. Our best things lie on the other side of the Jordan—we are looking for our full bliss at the coming of our Lord, but we have much in the present. The oil of joy is on our faces now, our locks are even now bedewed with the sacred anointing—and it will be well for us to turn our thoughts towards that Truth of God!
 
@@ -67,7 +64,7 @@ With this we have special privileges. There is one privilege I prize at this mom
 
 Time would fail me if I were to go through the whole catalog of the sources of the Christian's present joy. Ah, you worldling, you know and we confess it is true, that our chief joys are yet to come! But notwithstanding, we have enough today to make us more than a match for you! You may display your present mirth and carnal delight if you will—and laugh at us who weep now—but we can endure your ridicule with calm complacency because we have a secret peace and a deep fathomless repose of heart which make us even now as far from envying you as an angel from envying a mole! We are not of all men the most miserable, but of all men the most blessed! Our eternal hopes revive us amid the sorrows of this fleeting life. The harvests of Heaven shale out and drop golden grain from above, upon which we feed even now! To have Jesus for our Brother, God for our Father and the Spirit to be our Comforter is a better portion than the richest, the proudest, or the most famous of worldlings can possibly possess! The oil of joy is not made in the presses of earth—it drops upon us through the golden pipes of the sanctuary, flowing from the sacred olive trees which the Lord has planted! Passing on from that observation, we would offer a third, which is implied in the text, namely, that—
 
-III. THIS JOY COMES OF THE HOLY SPIRIT.
+## III. This Joy Comes of the Holy Spirit
 
 This is clear, since evermore when we read of oil we have before us in Scripture the Divine influence of the Holy Spirit. The first part of the Chapter before us runs thus—"The Spirit of the Lord God is upon Me because the Lord has anointed Me." The oil with which Christ was anointed was the Holy Spirit—and the oil of joy with which we are anointed is the same Spirit! It is He who gives us joy in the Lord!
 
@@ -79,7 +76,7 @@ The Spirit also, very graciously, sanctifies us, and this is joy. It is a part o
 
 Moreover, the Holy Spirit graciously quickens His people and what a wonderful effect quickening has upon our joy! Whenever we are slothful in the things of God, we miss the delights of healthy spiritual life and, before long we mourn. But when the Holy Spirit comes and makes us feel lively and energetic and sensitive, then we begin, also, to rejoice in the Lord and the power of His might within us works in us a leaping of holy joy! Those who not only have life, but have it more abundantly, are a highly favored people and know how to exult in the Lord! Beloved, long for no joy but that which the Holy Spirit gives you! Thank God for the comforts of this life, but do not let them become your idols, as they will be if they become your exceeding joy. Draw from the upper fountains, fill your pitcher at the eternal springs—ask neither for the cinnamon nor camphor of this world's gardens, but let your chief spices be the fruit of the Spirit which are joy and peace through believing! We may now, in the fourth place, remark that—
 
-IV. THE JOY WHICH THE HOLY SPIRIT GIVES US IS A GREAT PRESENT GIFT.
+## IV. The Joy Which the Holy Spirit Gives Us Is a Great Present Gift
 
 I once heard a person say, very wickedly, indeed, as I thought and still think, that sin could do the Believer no harm. But he added, "Except that it destroys his comfort." I thought, "Well, that is a terrible 'exception,' indeed! That surely is quite enough to fill us with holy fear! If anything robs the Christian of his joy, surely the loss is great enough to set him upon his watch tower!" Yet I fear that many Christians do not consider this. They dream that it can be well with their souls when the joy of the Lord is gone, but, Brothers and Sisters, it is not so! The healthy condition of a child of God is a state of peaceful rest in the Lord. It is amazing how full Scripture is of comfort for mourners because the Lord's objective is that the mourner may be comforted. "Comfort you, comfort you, My people, says your God. Speak comfortably to Jerusalem." Our Lord desired that we might have His joy fulfilled in ourselves and He said, "Let not your hearts be troubled." "Rejoice in the Lord always," said the Apostle and, as if that were not enough, he added, "and again I say, rejoice."
 
@@ -95,7 +92,7 @@ How gloriously does sacred joy lift us up above the sorrows of the world! No, mo
 
 road of history with an almost noiseless tread, gliding along as though all were smooth! The record says, "It came to pass that the Lord had blessed Abraham in all things"—and yet in the previous pages we read of trials with Lot, with Hagar and Ishmael—and the grand ordeal with Isaac! Faith made his trials blessings, and his inward joy, like Aaron's rod, swallowed up all the rods of his afflictions. The same road is open to us and we have the same reasons for walking in it since the God of Abraham is our God forever and ever! He who can live by faith shall have a constant supply of the oil of joy poured upon him by the Holy Spirit—and his mourning shall flee away. Our last observation is—
 
-V. THE JOY WHICH GOD GIVES HIS PEOPLE IS BEST SEEN AND FREQUENTLY BEST FELT IN FELLOWSHIP.
+## V. The Joy Which God Gives His People Is Best Seen and Frequently Best Felt in Fellowship
 
 We began with noting that oil is connected with festivity. Sweet spices are for banquets where men feast together. Oh mourners, you will often find your souls made joyous when you assemble with your Brothers and Sisters! Bread eaten in secret is sweet and morsels behind the door are delicious, but still, the choicest and most abundant provisions are brought forth when the king's household gather around his table and realize that "they, being many, are one bread." Speaking personally, my happiest times are spent with my Brothers and Sisters in Christ in the high festivals, when the multitude keep holy day. Draw a circle around my pulpit and you have hit upon the spot where I am nearest Heaven! There the Lord has been more consciously near me than anywhere else. He has ravished my heart while I have been trying to cheer and comfort His mourners. Many of you can say the same of your pew where you are known to sit—it has been a Bethel to you and the Lord Jesus has revealed Himself to you in the midst of His people. Let us remember what delightful times we have had in prayer together. We have come into the sanctuary heavy of heart and while one Brother after another has approached the Throne of Grace for us, we have been unburdened and helped to joy in God till the Prayer Meeting has seemed to be a Heaven below, an antepast of the eternal meetings above! Thus the oil of joy is poured out in the assembly of fellowship.
 
@@ -111,7 +108,7 @@ Lastly, the Communion Table has been to many of us, above all other places in th
 
 Now, all this while I have been talking to God's people and you will say, "Have you not a word to say to the sinner?" Well, I have all the while been speaking to the sinner, too, because all this is for you if you repent of sin and believe in the Lord Jesus Christ! If you will come and have it, the Table is spread and loaded for you. No, more—"the Word is near you, even in your mouth." What? Is the Bread of Life in your mouth and will you not eat it? Poor, hungry, empty, needy sinner, can you reject what God, Himself, puts into your mouth? If angels will rejoice when you repent, depend upon it there is also joy in store for you! Come then to Jesus, just as you are! Bring no money with you, bring no fitness with you, bring no fancied goodness with you—bring your sins and lay them before your Lord. Bring your hard heart, your lack of feeling, your lack of Divine Grace and just come and find all that you need in Christ, who is waiting to bless you! When I was a child I remember how at a school festival the children were instructed to bring their own mugs with them. Now that showed the poverty of those who gave the treat, but my Master does not want you to bring anything! He supplies everything. Come as you are, with nothing about you except your needs and your willingness to be saved! When an empty, guilty, lost, undone, ruined creature is coming to a great, blessed and mighty Savior, all he has to think of is the love which invites him and the greatness of the Redeemer who will receive him! Come here, then, all you who mourn because of sin, or mourn that you cannot mourn, and, by believing in Jesus you shall obtain the oil of joy and the days of your mourning shall be ended!
 
-EXPOSITION BY C. H. SPURGEON: MARK9:20-41.
+## Exposition by C. H. Spurgeon: Mark 9:20-41
 
 This miracle is one that shows the transforming power of the Savior in a remarkable fashion.
 
@@ -130,7 +127,6 @@ This miracle is one that shows the transforming power of the Savior in a remarka
 Apostolic authority to put them down—and then Jesus Christ puts forth the full power of His Divine Authority to give them liberty to go on!
 
 40-41. For hie that is not against us is on our side. For whoever shall give you a cup of water to drink in My name, because you belong to Christ, verily I say unto you, he shall not lose his reward
-
 
 ---
 [[Sermon 3340 'Take Away the Frogs'|← #3340]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3342 Faith Seeing God's Glory|#3342 →]]

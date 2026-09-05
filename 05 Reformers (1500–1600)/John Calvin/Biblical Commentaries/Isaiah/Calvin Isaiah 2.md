@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## Isaiah 2:1-22
 

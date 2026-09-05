@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 87. Matthew 10:26-31; Mark 4:22-23; Luke 8:17; 12:2-7
-
-MATTHEW 10:26-31; MARK 4:22-23;  
-LUKE 8:17; 12:2-7
 
 **26**. Fear them not therefore: for nothing is covered that shall not be revealed, and nothing is hid that shall not be known. **27**. What I say to you in darkness speak you in light: and what you hear in the ear proclaim on the housetops. **28**. And fear not those who kill the body, but cannot kill the soul: but rather fear him who can destroy both soul and body in gehenna. **29**. Are not two sparrows sold for a farthing, and not one of them shall fall to the ground without your Father? **30**. But even the hairs of your head are all numbered. **31**. Fear not therefore: you are of more value than many sparrows.
 

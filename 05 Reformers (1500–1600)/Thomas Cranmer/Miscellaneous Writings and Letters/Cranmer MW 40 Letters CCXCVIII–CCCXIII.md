@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 40. Letters CCXCVIII–CCCXIII
 
-CCXCVIII. TO MELANCTHON.
+## CCXCVIII. To Melancthon
 
 LEGIMUS in Actis Apostolorum, cum orta csset controversia, an ii qui ex gentibus EX Epist. nd
 
@@ -27,7 +26,7 @@ Amori meo erga D. Georgium Majorem4, quern merita illius apud me pepererunt, mag
 
 Tui aliquando videndi cupidissimus,
 
-T. CANTITARIENS.
+## T. Cantitariens
 
 Doctissimo mro et amico suo singulari D. Philippo Melancthoni dentur ha? litterce.
 
@@ -39,19 +38,17 @@ WE read in the Acts of the Apostles, that when a dispute had arisen, as to wheth
 
 [4 *c George Major was a zealous disciple of Lu ther, and minister at Eisleben. He died A. D.
 
-[CRANMER, II.]
-
-434 LETTERS. [1552.
+## [Cranmer, II.]
 
 among themselves upon the chief heads of ecclesiastical doctrine. But it cannot escape your notice, how greatly religious dissensions, especially in the matter of the Lord's supper, have rent the churches asunder: had they been settled before, the emperor, I think, would never have made war against you. And it is truly grievous that the sacrament of unity is made by the malice of the devil food for disagreement, and (as it were) the apple of contention. I could wish therefore, that those who excel others in erudition and judgment, should be assembled together, after the example of the apostles, and declare their judgment as well respecting other subjects of dispute, as likewise especially respecting this controversy, and attest their agreement by some published document. But you will perhaps say, " And I also have often expressed the same wish ; but this matter cannot be effected without the aid of princes." I have therefore [consulted with] the king's majesty, who places his kingdom of England at your disposal, and most graciously promises not only a place of security and quiet, but also his aid and assistance towards these godly endeavours. I have written likewise to masters Calvin and Bullinger, and exhorted them not to be wanting to a work so necessary, and so useful to the commonwealth of Christendom. You wrote me word .in your last letter that the Areopagites of the council of Trent are making decrees respecting the worship of the host. Wherefore, since the adversaries of the gospel meet together with so much zeal for the establishment of error, we must not allow them to be more diligent in confirming ungodliness, than we are in propagating and setting forth the doctrine of godliness. Your commendation of master George Major has greatly increased that regard for him, which his merits have produced in me ; and if I can be of service to him in any way, he shall find my ability will fail sooner than my inclination. Farewell and happily. Lambeth, March 27, 1552.
 
 Very desirous of seeing you for some time past,
 
-THOMAS CANTUAR.
+## Thomas Cantuar
 
 To the very learned man, and his singular friend M. Philip Melancthon, let these letters be given.
 
-CCXCIX. TO BUCER'S WIDOW.
+## CCXCIX. To Bucer's Widow
 
 Thom Sstras ®" ^' BENEVOLENT!.! singularis qua virum tuum cum adhuc viveret sum prosecutus, burg. post mortem ejus nequaquam est imminuta : siquidem egregia ejus pietas et insignis doctrina non momentaneos, verum asternos, fructus ecclesiee attulit ; quibus non tantum omnes pios, verum et me omnium maxime in perpetuum sibi devinxit. Quare a scribendo ad me ne ulla ratione patiaris te deterreri, si quid erit quod tibi aut rebus tuis adjumento esse possim. Nam literis tuis excitatus, et amici carissimi jucundam meinoriam non absque voluptate mecum repetam, et tibi ejus vidua? propenso animo ilia caritatis officia prastabo, qua verbum Dei suadet impendenda, et pietati tuee pro re nata exhibenda fuerint. Atque de eo quod mihi nuper significasti negotiis tuis expediendis opus esse, ut aliquo scripto certum ac testatum fieret, summam illam centum marcarum quam dono accepisti a maj estate regia, cum hinc discederes, ad te ipsam proprie ac singulariter pertinere, literas ad tutores2 liberorum Buceri dedi ; ex quibus apertis cognoscere poterunt, quaenam fuerit ea de re serenissimi regis nostri voluntas. Mitto ad te exemplar literarum a dominis consiliariis ad D. Joannem Hales3 qutestorem regia; majestatis (qui nunc opinor est Argentorati), aut eo absente ad ejus vicarium, Anglice scriptarum, quae clare testantur tibi a regia majestate centum marcas dono datas, idque post obitum mariti tui, quod litera? illse ultimo Martii fuerunt scripts, quiim maritus tuus precipitate Februario ex hac vita decesserit. Deus qui fons est et pater universe consolationis te consolari dignetur, et in utroque nomine cum tota familia servet !
 
@@ -59,7 +56,7 @@ Vale. Lambeti xxmo Aprilis, a° 1552.
 
 THUS quantum potest,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 GREETING. The especial favour with which I regarded your husband during his lifetime, is by no means diminished now that he is no more. His remarkable piety indeed, and profound learning, has produced not a transient but an everlasting benefit to the church ; whereby he has not only bound all godly persons, but myself more than all of them, under perpetual obligations to him. You must not therefore on any account allow yourself to be deterred from writing to me, should there be any thing in which I can be of use to you or to your affairs. For, stirred up by your letters, I shall not only recal to myself, and not without satisfaction, the agreeable remembrance of a very dear friend ; but will also most readily perform to you, his widow, those offices of kindness, which the word of God commands to be paid, and which shall be afforded you as occasion shall offer. With respect to what you have lately informed me, that it is necessary for the ex- l1 This has not appeared in any former collection » Huldric Chelius, to whom the following letter was of the archbishop's letters.] j addressed.]
 
@@ -67,15 +64,15 @@ GREETING. The especial favour with which I regarded your husband during his life
 
 Yours to the utmost of his power,
 
-THOMAS CANTUAH.
+## Thomas Cantuah
 
-CCC. TO CONRAD HUBERT AND OTHERS4.
+## CCC. To Conrad Hubert and Others 4
 
 S. P. QITTTM nuper intellexerim ex literis quas vidua5 D. Buceri pia? memorias hue Arch. s. scripserat, ad facilitates viri ejus jam defuncti partiendas inter liberos6 opus esse certa burgnotitia seu fide quoad summam pecuniae centum marcarum qua? donata est a reoia majestate, an ad viduam pertineat an ad liberos; ideo ut res liquida fiat, et ambiguitas prorsus tollatur, affirmo ac tester summam illam centum marcarum a serenissimo rege nostro post obitum D. Buceri vidua3 peculiariter fuisse donatam, ut ad ipsam proprie pertineret : ut ex literis quas Domini consiliarii ad qua^storem scripserunt manifeste liquet, quarum exemplar ad viduam D. Buceri misi. Deus Spiritu Sancto suo vos gubernet, et successum in laboribus vocationis vestraa vobis donet! Valctc. Lambethi, xxmo Aprilis, 1552.
 
 Vester ex animo,
 
-T. CANTUARIEN.
+## T. Cantuarien
 
 Viris eruditione et pietate prcestantibus, D. Conrado Huberto, verbi Dei ministro, D. Quintero Andernaco et D. Hulrico Chelio, medicince doctoribus, et ceteris tutoribus liberorum D. Buceri, dentur hce literce.
 
@@ -87,7 +84,7 @@ T. CANT. ToM. Conrad Hubert, minister of the word of God, M. Quinter
 
 Andernach and M. Hulric Chelius, doctors of •medicine, men illustrious for their learning and piety, and to the other guardians ofM. Bucer's children, let these letters be given.
 
-CCCI. TO KING EDWARD VI.
+## CCCI. To King Edward VI
 
 Thomas Cantuariensis archiepiscopus R. Edwardo VI. Gratia et pax a Deo Patre et Domino nostro Jesu Christo. ETSI prudenter moneat Horatius, illustrissime princeps, Bodi Ltbr
 
@@ -113,7 +110,7 @@ loveth the stranger, giving him food and raiment ; love ye therefore the strange
 
 The servant of your most serene majesty,
 
-CCCII. TO CECIL.
+## CCCII. To Cecil
 
 AFTER my most hearty commendations and thanks, as well as for your gentle letters, as for the copy of the Pacification3, and for your good remembrance of the two matters, which I desired you not to forget, the one concerning the bishop of Colon's4 letters, and the other, Mr Mowse5 : for whom eftsoons I give you my most hearty thanks.
 
@@ -135,15 +132,13 @@ Strype's Mem. of Abp. Craniner, Vol. II. App. No. fi7. pp. IX )H, !). Ed. Oxon. 
 
 [7 "In this month of May (A.D. 1552) did Holgate archbishop of York," (to whom Cranmer probably here alludes,) "the only wealthy bishop then in England, bestow some part of his wealth very commendably, for the benefit of his successors in that see. For he made purchase from the king of the site, circuit, and precincts, capital messuage and mansion, lordship and manor of Scroby, in Scroby, with the appurtenances, in the county of Nottingham, lately parcel of the possessions of the archbishop of York," &c. Strype's Eccl. Mem. Vol. II. Part u. p. 77. Ed. Oxon. 1822.]
 
-438 LETTERS. [1552.
-
 God to preserve the king's majesty with all his council and family, and send him well to return from his progress1. From my manor of Croydon, the xxi. of July.
 
 Your own ever,
 
 To my loving friend, sir William Cycil, one of the king's majesty's principal secretaries.
 
-CCCIII. TO CECIL.
+## CCCIII. To Cecil
 
 THOUGH in England there be many meet men for the archbishoprics of Ireland, yet cranm°er, p' I know very few that will gladly be persuaded to go thither. Nevertheless I have NO. '(«, j)pPP' sent unto you the names of four2, viz. Mr Whitehead of Hadley, Mr Tourner of bxon.' iK4o. Canterbury, sir Thomas Rosse3, and sir Robert Wisdome ; which, being ordinarily w°m. Hickes' called, I think for conscience sake will not refuse to bestow the talent committed unto
 
@@ -153,11 +148,11 @@ I pray you commend me unto Mr Cheke, and declare unto him, that mine ague, wheth
 
 Your own assured,
 
-THOMAS CANT.
+## Thomas Cant
 
 To my very loving friend, sir William Cecyl, knight, one of the king's ma jesty's principal secretaries.
 
-CCCIV. TO CECIL.
+## CCCIV. To Cecil
 
 strypc's AFTER my very hearty commendations; I thank you for your news, but specially
 
@@ -171,7 +166,7 @@ MSS. whom he dearly loved, Northumberland took him j bitants of Hadleigh, March 
 
 Strype's Mem. of Abp. Cranmer, Vol. I. p. 401.] [4 " I suppose this might be a slip of the arch-
 
-[2 An account of these four divines, whom the bishop's pen or memory, writing Whitacre for Good- archbishop nominated for the archbishoprick of acre, who afterwards was placed in that Irish see,
+[2 An account of these four divines, whom the bishop's pen or memory, writing Whitacre for Good-archbishop nominated for the archbishoprick of acre, who afterwards was placed in that Irish see,
 
 Armagh, is given by Strype, Mem. of Abp. Cranj [i.e. Armagh,] and had been Poynet's chaplain."
 
@@ -183,7 +178,7 @@ It secmcth by your letters, that a peace should be concluded betwixt the emperor
 
 The commodity that might arise by printing the Book of Common Prayer and Administration of Sacraments in the French tongue6, (if any be,) I reckon it were meet that it should come to them which have already taken pains in translating the same: which was first done by sir Hugh Paullet's commandment, and overseen by my lord chancellor, and other at his appointment ; and now altered according to that which must be put in execution at the feast of All Saints next, at the appointment of my lord chancellor, by a learned Frenchman, a doctor in divinity : and therefore needless of any other to be travelled in. Aug. 26, 1552.
 
-CCCV. TO CECIL.
+## CCCV. To Cecil
 
 AFTER my very hearty recommendations : now at the last, against his will, Turner is come up unto the court. He preached twice in the camp that was by Canterbury7; for the which the rebels would have hanged him; and he seemed then more glad to go to hanging, than he doth now to go to Armachane ; he alleged so many excuses, but the chief is this, that he shall preach to the walls and stalls, for the people understand no English. I bear him in hand, Yes; and yet I doubt whether they speak English in the diocese of Armachane. But if they do not, then I say, that if he will take the pain to learn the Irish tongue, which with diligence he may do in a year or two, then both his person and doctrine shall be more acceptable not only unto his diocese, but also throughout all Ireland. I commit him to your cure, praying you to help him to have as ready a dispatch as may be ; for he hath but a little money.
 
@@ -211,7 +206,7 @@ Strype's Mem.of Abp. Cranmer. Vol. II. App. No. Hi?, p. 10;%'. Ed. Oxon. 1840, f
 
 Todd's Life of Abp. Cranmer, Vol. II. p.
 
-CCCVI. TO CECIL.
+## CCCVI. To Cecil
 
 AFTER my very hearty recommendations, and no less thanks for your friendly letters and advertisements ; be you assured, that I take the same in such part, and to proceed of such a friendly mind, as I have ever looked for at your hands. "Whereof I shall not be unmindful, if occasion hereafter shall serve to requite the same. I have written letters unto my lord of Northumberland, declaring unto him the cause of my stay in the commission"2; which is, because that all the gentlemen and justices of the peace of Kent, which be in commission with me, be now at London : before whose coming home, if I should proceed without them, I might perchance travail in vain, and take more pain than I should do good. I have written also unto him in the favour of Michael Angelos; whose cause I pray you to help so much as lieth in you.
 
@@ -225,7 +220,7 @@ Strype's Mem.of Abp. Cranmer, Vol. II. App. No. 64, p. IX 15. Ed. Oxon. 1840. fr
 
 Todd's Life of Abp. Cranmer, Vol. II. p.
 
-CCCVII. TO THE LORDS OF THE COUNCIL.
+## CCCVII. To the Lords of the Council
 
 AFTER my very humble recommendations unto your good lordships; I have sent unto the same the book of articles5 which yesterday I received from your lordships. I have sent also a cedule inclosed, declaring briefly my mind upon the said book : beseech ing your lordships to be means unto the king's majesty, that all the bishops may have authority from him to cause all their preachers, archdeacons, deans, prebendaries, parsons,
 
@@ -243,7 +238,7 @@ Your lordships' ever to command,
 
 To my very good lords of the king's majesty his most honourable council.
 
-CCCVIII. TO CECIL.
+## CCCVIII. To Cecil
 
 AFTER my hearty commendations and thanks for your letters ; there is no man more loth to be in contention with any man, than I am, specially with my lord Warden7, my near neighbour, dwelling both in one country, and whose familiar and entire friend ship I most desire, for the quietness of the whole country. For the example of the rulers and heads will the people and members follow.
 
@@ -255,13 +250,13 @@ To my loving friend sir William Cecill, knight, secretary to the kings majesty, 
 
 Strype's Mem.of Abp. Cranmer, Vol. II. App. No. 10H, p. 1(07. Ed. Oxon. 1840. from Sir Wm. Hickcs' MSS.
 
-CCCIX. TO CECIL.
+## CCCIX. To Cecil
 
 AFTER my very hearty recommendations ; yesternight I heard reported that Mr Ghekc is indicted8 : I pray you heartily, if you know any thing thereof, to send me
 
 [6 The authority here sought by the archbishop was not granted till June 9, A. D. 1553, when Ed ward VI. issued a mandate " willing and exhort ing " the bishops of the realm, " to subscribe the forty-two articles, and to observe them in their preachings, readings, and teachings, and to cause them to be subscribed and observed of all other, which do or hereafter shall preach or read within their diocese." Another mandate was also issued in king Edward's name, June 19, A. D. 1553, re quiring all rectors, vicars, &c., to see that the articles of religion should be signed. Both the letter and the mandate will be found in the Appen dix. Vid. Interrogatory 12, objected to the arch bishop, and his answer, p. 220, supra.]
 
-[7 " There happened once, in the year 1552, a contest between him and the lord warden of the Cinque-ports, who lived not far from him ; and so probably it might be about some worldly matters. It was sir Thomas Cheyny, who, in the year 1549, was one of those that met with Warwick in Lon don, and published a proclamation against the archbishop's friend, the duke of Somerset, as a traitor ; which might be an occasion that the arch- bishop did not much affect Cheyny, nor Cheyny the archbishop." Strype's Mem. of Abp. Cranmer, Vol. II. p. 651.]
+[7 " There happened once, in the year 1552, a contest between him and the lord warden of the Cinque-ports, who lived not far from him ; and so probably it might be about some worldly matters. It was sir Thomas Cheyny, who, in the year 1549, was one of those that met with Warwick in Lon don, and published a proclamation against the archbishop's friend, the duke of Somerset, as a traitor ; which might be an occasion that the arch-bishop did not much affect Cheyny, nor Cheyny the archbishop." Strype's Mem. of Abp. Cranmer, Vol. II. p. 651.]
 
 [8 " King Edward being dead, and the lady Jane set up and proclaimed queen, letters at this time were sent from the council to the gentry, and other state-letters were written by Cheke as secre tary. He checked his brother Cecil, who would not be induced to meddle in this matter, but endea voured to be absent ; and to the very utmost day of queen Jane's reign, viz. to July 19th ( A.D. 1553) he acted as secretary to her and her council And within eight or nine days after, viz. July the 28th, together with the duke of Suffolk," he was "com mitted to the Tower as a traitor. And whereas the rest that acted as queen Jane's counsellors, being either papists, or indifferent in religion, were easily pardoned ; Cheke and some few others (as the arch bishop of Canterbury and the lord Russel) were sent to the Tower, or kept under harder and longer restraint. An indictment was drawn against him the 12th or 13th day of August ; and his friends feared it would go hard with him. The next vear, being almost spoiled of all his substance, he
 
@@ -277,7 +272,7 @@ To my very loving friend, sir William Cecil, knight.
 
 Manet alta
 
-CCCX. TO QUEEN MARY.
+## CCCX. To Queen Mary
 
 MoST lamentably mourning and moaning himself unto your highness, Thomas Cranaitllollgh unworthy either to write or speak unto your highness, yet having no matris. JEwid'l.
 
@@ -311,13 +306,11 @@ He desired to berehased of his offence for consent ing unto king EdwardV will, a
 
 [5 " One of these acts probably is 1 Mary, St. ii. c. 16, ' for confirming the attainder of the late duke of vNorthumberland and others,' the preamble to which names Cranmer among those who 'have
 
-444 LETTERS. [1553.
-
 with the duke of Northumberland, should devise and compass the deprivation of your majesty from your royal crown, surely it is untrue. For the duke never opened his mouth to me, to move me any such matter, nor I him ; nor his heart was not such toward me, (seeking long time my destruction,) that he would either trust me1 in such matter, or think that I would be persuaded by him. It was other of the council that moved me, and the king himself, the duke of Northumberland not being present. Neither before, neither after, had I ever any privy communication with the duke of that matter, saving that openly at the council-table the duke said unto me, that it became not me to say to the king as I did, when I went about to dissuade him from the said will.
 
 Now as concerning the estate of religion, as it is used in this realm of England at this present, if it please your highness to license me, I would gladly write my mind unto your majesty. I will never, God willing, be author of sedition, to move sub jects from the obedience of their heads and rulers : which is an offence most detestable. If I have uttered my mind to your majesty, being a Christian queen and governor of this realm, (of whom I am most assuredly persuaded, that your gracious intent is, above all other regards, to prefer God's true word, his honour and glory,) if I have uttered, I say, my mind unto your majesty, then I shall think myself discharged. For it lieth not in me, but in your grace only, to see the reformation of things that be amiss. To private subjects it appertaineth not to reform things, but quietly to suffer that they cannot amend. Yet nevertheless to shew your majesty my mind in things pertaining unto God, methink it my duty, knowing that I do, and considering the place which in times past I have occupied. Yet will I not presume thereunto without your grace's pleasure first known, and your licence obtained: whereof I most humbly prostrate to the ground do beseech your majesty ; and I shall not cease daily to pray to Almighty God for the good preservation of your majesty from all enemies bodily and ghostly, and for the increase of all goodness heavenly aud earthly, during my life, as I do and will do, whatsoever come of me.
 
-CCCXI. TO MRS WILKINSON2.
+## CCCXI. To Mrs Wilkinson 2
 
 nmnu2m" ^HE true com^orter m a^ Distress is only God, through his Son Jesus Christ ; and coil. camb. whosoever hath him, hath company enough, although he were in a wilderness all alone, coverdaie's And he that hath twenty thousand in his company, if God be absent, he is in3 a miserable Martyrs0 p. wilderness and desolation. In him is all comfort, and without him is none. Where1564. ' ' fore, I beseech you, seek your dwelling there, where as you4 may truly and rightly Merger Abp. serve God, and dwell in him, and have him ever dwelling in you. What can v'oi? iLApp. De so heavy a burden as an unquiet conscience, to be in such a place as a man cannot be suffered to serve God in Christ's true religion?6 If you be loth to part from y°ur ^m and friends, remember, that Christ calleth them his mother, sisters, and Brothers, that do his Father's will. Where we find therefore God truly honoured according to his will, there we can lack neither friend nor kin.
 
@@ -333,7 +326,7 @@ If you be loth to depart for slandering of God's word", remember, that Christ, w
 
 Wherefore I exhort you, as well by Christ's commandment as by the example of him and his apostles, to withdraw yourself from the malice of your and God's enemies, into some place where God is most truly served9: which is no slandering of the truth, but a preserving of yourself to God and the truth, and to the society and comfort of Christ's little flock. And that you will do, do it with speed, lest by your own folly you fall into the persecutors' hands. And the Lord send his Holy Spirit to lead and guide you, wheresoever you go ! And all that be godly will say, Amen.
 
-CCCXII. TO THE LORDS OF THE COUNCIL.
+## CCCXII. To the Lords of the Council
 
 IN most humble wise sueth10 unto your right honourable lordships, Thomas Cranmer, MSS. Emlate archbishop of Canterbury11; beseeching the same to be a means for me unto the cSu "clunb. queen's highness for her mercy and pardon. Some of you know by what means I was brought and trained unto the will of our late sovereign lord king Edward VI., and what I spake against the same; wherein I refer me to the reports of your honours12, £on6d\
 
@@ -359,7 +352,7 @@ They put to him three questions, but they suf fer him not to answer fully in one
 
 Behold Satan sleeneth not. Their cruel desire to re venge could abide no delay. [Coverdale.] that none of us know what the other said, nor how they were ordered. But as con cerning myself, I can report, that I never knew nor heard of a more confused dis putation in all my life. For albeit there was one appointed to dispute against me, yet every man spake his mind, and brought forth what him liked without order. And such haste was made, that no answer could be suffered to be given fully1 to any argument, before another brought a new argument2. And in such weighty and large matters there was no remedy, but the disputations must needs be ended in one day3, which can scantly well be ended in three months4. And when we had answered them, then they would not appoint5 us one day to bring forth our proofs, that they might answer us again, being required of me thereunto6: whereas I myself have more to say, than can be well discussed in twenty days7 The means to resolve the truth had been, to have suffered us to answer fully to all that they could say, and then they again to answer to all that we could say8. But why they would not answer us, what other cause can there be, but that either they feared the matter9, that they were10 not able to answer us; or else (as by their haste might well appear) they came, not to speak the truth, but to condemn us in post haste, before the truth might be thoroughly tried and heard ?n for in all haste we were all three condemned of heresy upon Friday. Thus much12 I thought good to signify unto your lordships13, that you may know the indifferent handling of matters, leaving the judgment thereof unto your wisdoms. And I beseech your lordships to remember me, a poor prisoner, unto the queen's majesty ; and I shall pray, as I do daily, unto God for the long preservation of your good lordships in all godliness and felicity. April 23. [1554.]
 
-CCCXIII. TO MARTYN AND STORY14.
+## CCCXIII. To Martyn and Story 14
 
 Certain Let ters to the queen, .fee. Foxe's Acts and Monu ments, T». 1H!)2. Ed. Lond. 1583.
 
@@ -397,7 +390,7 @@ thought not meet to write. And in some places I have written more than I said, w
 
 You promised I should see mine answers to the sixteen articles16, that I might correct, amend, and change them, where I thought good : which your promise you kept not. And mine answer was not made upon my oath, nor repeated ; nor made in judicio, but extra judicium, as I protested ; nor to the bishop of Gloucester as judge, but to you the king's and queen's proctors. I trust you deal sincerely with me, without fraud or craft, and use me as you would wish to be used in like case your selves. Remember, that Qua mensura men si fucritis, eadem remetietur vobis; i. " What measure you mete, the same shall be measured to you again." Thus fare you well, and God send you his Spirit to induce you into all truth! £Scp. 1555.]
 
-CCCXIY. TO QUEEN MARY16.
+## Cccxiy. To Queen Mary 16
 
 IT may please your majesty to pardon my presumption, that I dare be so bold to certain Letwrite to your highness ; but very necessity constraineth me, that your majesty may queen, &v. know my mind rather by mine own writing, than by other men's reports. So it is, SSSsofthe that upon Saturday17, being the seventh day of this month, I was cited to appear at Rome the eightieth day after, there to make answer to such matters as should be objected against me upon the behalf of the king and your most excellent majesty: which matters the Thursday following were objected against me by Dr Martin and Dr Storie, your majesty's proctors, before the bishop of Gloucester, sitting in judgment by commission from Rome. But, alas ! it cannot but grieve the heart of any natural subject, to be accused of the king and queen of his own realm, and specially before The king and an outward judge, or by authority coming from any person out of this realm : where the king and queen, as if they were subjects20 within their own realm, shall complain, and require justice at a stranger's hands against their own subject21, being already Sg^SFSSr condemned to death by their own laws. As though the king and queen could not to^out^ do or have justice within their own realms against their own subjects, but they must SrSioJSSi*"' seek it at a stranger's hands in a strange land: the like whereof, I think, was never p0ewer To n° seen. 1 would have wished to have had some meaner adversaries : and I think that p[coverS.'] death shall not grieve me much more, than to have my most dread and most gracious sovereign lord and lady (to whom under God I do owe all obedience) to be mine The first accusers in judgment within their own realm, before any stranger and outward power, SSSch-5 But forasmuch as in the time of the prince of most famous memory, king Henry not make anthe Eighth, your grace's father, I was sworn never to consent that the bishop of pope's°comRome should have or exercise any authority or jurisdiction in this realm of England ; to^oid '' therefore, lest I should allow his authority contrary to mine oath, I refused to make [ceSn Letanswer to the bishop of Gloucester, sitting here in judgment by the pope's authority, nueeifamt lest I should run into perjury.
 

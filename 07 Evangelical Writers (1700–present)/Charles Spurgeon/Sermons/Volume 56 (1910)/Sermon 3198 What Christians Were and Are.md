@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/56
 ---
-
 # What Christians Were and Are
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3198
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And were by nature the children of wrath, even as others." Ephesians 2:3.
 
@@ -87,7 +84,7 @@ Finally the Apostle says, "and joint heirs with Christ." It always adds to our e
 
 There is, however, such a danger of being only children of God in name, and not in truth, that we shall all do well to give heed to the Apostle's warning, "Let us therefore fear, lest a promise being left us of entering into His rest, any of you should seem to come short of it." Having put our hand to the plow, let us not even thinkof looking back, but may we be proved to be the living children of the living God by walking in His ways until we come into His blessed Presence to go no more out forever for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS2.
+## Exposition by C. H. Spurgeon: Ephesians 2
 
 Verse 1. And you has He quickened, who were dead in trespasses and sins. [See Sermons #127, Volume 3—spiritual resurrection; #2267, Volume 38—LIFE FROM THE DEAD and #2388, Volume 40—ONCE DEAD, NOW ALIVE.] Then you owe your very life to Him! You were dead, you were like a corrupt carcass, but His life has been breathed into you. "You has He quickened." Then you are no longer dead—you are a living soul before the living God—and as you owe this to Him, praise Him with all the life you have! You "were dead in trespasses and sins." 2, 3. Wherein in time past you walked according to the course of this world, according to the prince of the power of
 
@@ -146,7 +143,6 @@ And when we come to Christ, there is a link between us and the ancient people of
 22\. In whom you also are being built together for an habitation of God through the Spirit. That is the most wonderful
 
 Truth of all—that God Himself should come and dwell among His people and in His people, and that, being sanctified by Grace, we become the dwelling place of the Most High! God grant that it may be so! Amen.
-
 
 ---
 [[Sermon 3197 The Sweetness of God's Word|← #3197]] · [[Volume 56 (1910)|Volume 56 (1910) Contents]] · [[Sermon 3199 How the Lambs Feed|#3199 →]]

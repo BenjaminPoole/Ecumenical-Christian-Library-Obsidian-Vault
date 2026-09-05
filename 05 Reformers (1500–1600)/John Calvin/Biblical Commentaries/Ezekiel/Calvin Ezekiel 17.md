@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 17
 
-**CHAPTER 17**
+***Chapter 17***
 
 ## Ezekiel 17:1-2
 
@@ -35,7 +34,7 @@ Here the Prophet reasons from the greater to the less: for if Nebuchadnezzar was
 
 ## Prayer Lecture 50
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have treated us so liberally by opening the immense and inestimable treasures of thy grace, that being mindful of our condition we may always bewail it, and remember what we were when you desire to adopt us as sons, and how often and how variously we have provoked thee, and rendered thy covenant vain: Grant, also, that we may glorify thee in our shame, and perpetually magnify thy name by our humility, until we become partakers of that glory which your only-begotten Son has procured for us through his own blood. — Amen.
 
@@ -93,7 +92,7 @@ It now follows, *As I live, says the Lord Jehovah, in the dwelling of the king w
 
 ## Prayer Lecture 51
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you show thy regard for mutual fidelity between man and man, that we may so conduct ourselves in every way that we may not deceive our brethren, but assist each other with sincere affection: Grant, also, that with true consent we may afford thee that confidence which you require, and which we are bound to pay thee; since you desire not only to enter into covenant with us by means of your only-be-gotten Son, but also to seal it with his blood, until we enjoy that inheritance which you have obtained for us by the sacrifice of his death. — Amen.
 
@@ -147,7 +146,7 @@ When God announces *that the twig which he will plant shall become a lofty cedar
 
 ## Prayer Lecture 52
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have deigned to enter into a perpetual and inviolable covenant with us which you have sanctioned by the blood of your only-begotten Son, that we may faithfully stand to it: and may we be so obedient to thee unto the end, that we may experience thee a propitious Father to us, until we enjoy that eternal inheritance which you have prepared for us in heaven, through the same Christ our Lord.-Amen.
 

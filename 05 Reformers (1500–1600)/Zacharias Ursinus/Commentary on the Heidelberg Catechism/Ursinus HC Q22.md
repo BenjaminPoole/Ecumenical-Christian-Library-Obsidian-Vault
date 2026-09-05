@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 22. What is then necessary for a christian to believe?
-
-**Question 22. What is then necessary for a christian to believe?**
 
 Answer. All things promised us in the gospel, which the articles of our catholic undoubted christian faith, briefly teach us.
 
-**EXPOSITION**
+## **Exposition**
 
 Having spoken of faith, it now follows next in order that we speak of the object of faith, or enquire what is the sum of those things which we are to believe. Faith, in general, embraces the entire Word of God, and assents most fully to it, as is evident from the definition which we have given of it. Justifying faith, however, has particular respect to the promises of the gospel, or the preaching of grace through Christ. The gospel is, therefore, properly the object of justifying faith. It is for this reason, properly called the doctrine of those things which are to be believed, as the law is properly the doctrine of those things which are to be done.
 

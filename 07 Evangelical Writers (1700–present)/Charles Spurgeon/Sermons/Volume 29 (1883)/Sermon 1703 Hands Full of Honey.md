@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # Hands Full of Honey
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1703
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 28, 1883,.
+*Delivered on Lord's-Day Morning, January 28, 1883*
 
 > "And Samson turned aside to see the carcass of the lion: and, behold, there was a swarm of bees and honey in the carcass of the lion. And he took some in his hands, and went on eating, and came to his father and mother, and he gave some to them, and they did eat: but he did not tell them that he had taken the honey out of the carcass of the Lion." Judges 14:8,9.
 
@@ -132,7 +131,6 @@ You cannot do any hurt by such a proceeding! Grace does good and no harm, all it
 It is much better to bring your hands full of honey to those who are needy and present it to them that they may eat of it, than it is to cavil and discuss. No hurt can come of telling what the Lord has done for your soul and it will keep you out or mischief. Therefore, I would stir up all Christian people to continue, from day to day, exhibiting to needy sinners the blessedness of Christ, that unbelievers may come and eat thereof. By doing this you will be blessing men far more than Samson could bless his parents, for our honey is honey unto eternity, our sweets are sweets that last to Heaven and are best enjoyed there! Call upon others to taste and see that the Lord is good and you shall have, therein, much joy! You shall increase your own pleasure by seeing the pleasure of the Lord prospering in your hands.
 
 What bliss awaits useful Christians when they enter into Heaven, for they shall be met there by many who have gone before them whom they were the means of turning to Christ! I often inwardly sing when I perceive that I can scarcely go into any town or village but what somebody hunts me up to say to me, "Under God I owe my salvation to your sermons or to your books." What will be the joys of Heaven when we shall meet those who were turned to righteousness by our holding forth the Word of Life! Our Heaven will be seven heavens as we see them there! If you have done nothing but exhibit in your lives the precious results of Grace, you will have done well. If you have presented to your companions Truths of God that were sweetness, itself, to you, and tried to say in broken accents, "Oh that you knew this peace!" it shall give you unspeakable joy to meet those in Glory who were attracted to Christ by such a simple means!
-
 
 ---
 [[Sermon 1702 On Laying Foundations|← #1702]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1704 All Joy in All Trials|#1704 →]]

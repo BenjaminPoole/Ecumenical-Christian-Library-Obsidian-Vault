@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Samaritan Woman and Her Mission
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1678
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 10, 1882,.
+*Delivered on Lord's-Day Morning, September 10, 1882*
 
 > "And upon this came His disciples, and marveled that He talked with the woman, yet no man said, What do You seek? or, Why are You talking with her? The woman then lefther waterpot, and went her way into the city, and said to the men, Come, see a Man which told me all things that ever I did: is not this the Christ? Then they went out of the city, and came unto Him." John 4:27-30.
 
@@ -130,7 +129,6 @@ And do you know what He will do with you, then? He will tell you all things that
 Still shall proceed that awful tale of all things that ever you did, concluding with this—you refused mercy, you rejected Jesus, you turned away from salvation, you would not have this Man to save you and, therefore, have you come to have your past made the fuel for your everlasting burning! God grant that no one, here, may ever come to that! No, if I had the task to select one man out of this congregation that would have to spend an eternity in having his life rehearsed to him, where should I find him? No, I cannot see one that I dare to pitch upon, not one—not one—not even the worst man or woman here! I would not if I could!
 
 O God, of Your mercy suffer no one here to know the terror of being driven away forever from Your Presence and the Glory of your power, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1677 A Great Mistake and the Way to Rectify It|← #1677]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1679 One War Over and Another Begun|#1679 →]]

@@ -10,20 +10,19 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 1
 
-**COMMENTARY**
+***Commentary***
 
-**ON THE**
+## **On The**
 
-**HOLY GOSPEL OF JESUS CHRIST**
+## **Holy Gospel of Jesus Christ**
 
-**ACCORDING TO**
+## **According To**
 
 **jOHN**
 
-**CHAPTER 1**
+## **Chapter 1**
 
 ## John 1:1-5
 

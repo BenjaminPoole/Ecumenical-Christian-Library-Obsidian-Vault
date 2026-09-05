@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 225
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Demosthenes, as from the synod of bishops.
 

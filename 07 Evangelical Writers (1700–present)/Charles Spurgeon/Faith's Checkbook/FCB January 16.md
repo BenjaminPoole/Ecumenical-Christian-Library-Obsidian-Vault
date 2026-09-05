@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # January 16
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**EVEN THE FAINTEST CALL**
+## **Even the Faintest Call**
 
 > And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered." Joel 2:32
 
@@ -23,7 +22,6 @@ Why do I not call on His name? Why do I run to this neighbor and that, when God 
 I need not ask whether I may call on Him or not, for that word "Whosoever" is a very wide and comprehensive one. Whosoever means me, for it means anybody and everybody who calls upon God. I will therefore follow the leading of the text, and at once call upon the glorious Lord who has made so large a promise.
 
 My case is urgent, and I do not see how I am to be delivered; but this is no business of mine. He who makes the promise will find out ways and means of keeping it. It is mine to obey His commands; it is not mine to direct His counsels. I am His servant, not His solicitor. I call upon Him, and He will deliver me.
-
 
 ---
 [[FCB January 15|← January 15]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB January 17|January 17 →]]

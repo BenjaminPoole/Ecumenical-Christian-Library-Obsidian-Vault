@@ -9,19 +9,18 @@ written: "1548"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Dedication
 
-**TO THE MOST NOBLE AND TRULY CHRISTIAN PRINCE,**
+***To the Most Noble and Truly Christian Prince,***
 
-**EDWARD, DUKE OF SOMERSET,**
+## **Edward, Duke of Somerset,**
 
 EARL OF HERTFORD, etc. PROTECTOR OF ENGLAND  
 AND IRELAND, AND ROYAL TUTOR,
 
-**JOHN CALVIN**
+## **John Calvin**
 
-**OFFERS HIS SALUTATIONS.**
+## **Offers His Salutations.**
 
 The brilliant reputation, most noble Prince, not only of your other virtues, altogether heroic, but especially of your distinguished piety, produces so warm a love of you in the hearts of all good men, even of those to whom you are unknown by face, that you must unavoidably be regarded with extraordinary affection and reverence by all right-minded persons in the kingdom of England, on whom hath been bestowed the privilege, not only of beholding with their eyes those benefits which are admired by others who only hear of them, but likewise of reaping all the advantage which a most excellent governor can confer on the whole body of the people, and on every one of its members. Nor is there any reason why the praises bestowed on you should be suspected of falsehood, as if they proceeded from flatterers; for a clear proof of them is to be found in your actions.
 

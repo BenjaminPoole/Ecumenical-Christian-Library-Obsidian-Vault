@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 9. Doth not God then do injustice to man, by requiring from him, in his law, that which he cannot perform?
-
-**Question 9. Doth not God then do injustice to man, by requiring from him, in his law, that which he cannot perform?**
 
 Answer. Not at all: for God made man capable of performing it; but man, by the instigation of the devil, and his own willful disobedience, deprived himself and all his posterity of those divine gifts.
 
-**EXPOSITION**
+## **Exposition**
 
 There is here in this portion of the Catechism, an objection on the part of human reason against what is said in the preceding question: If man is so corrupt that he cannot do any thing that is good before his regeneration, then God seems unjustly and in vain to require from him, in his law, perfect obedience. The objection may be more fully stated thus: He who requires or commands that which is impossible, is unjust. God requires of man in his law perfect obedience, which it is impossible for him to perform. Therefore, God seems to be unjust. To this objection we reply as follows: He who requires what is impossible is unjust, unless he first gave the ability to perform what he requires; secondly, unless man covet, and has of his own accord brought this inability upon himself: and, lastly, unless the requirement, which it is not possible for man to comply with, be of such a nature as is calculated to lead him to acknowledge, and deplore his inability. But God, by creating man in his own image, gave him the ability to render that obedience which he justly requires from him in his law. Wherefore if man, by his own fault and free will, cast away this ability with which he was endowed, and brought himself into a state in which he can no longer render full obedience to the divine law, God has not for this reason lost his right to exact the obedience which man is in duty bound to render him. God therefore justly punishes us, because we have cast away this good by transgressing his commandments, and because he threatened punishment in case his law were violated.
 

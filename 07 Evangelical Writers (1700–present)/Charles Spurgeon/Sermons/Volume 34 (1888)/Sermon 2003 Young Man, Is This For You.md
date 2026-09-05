@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # Young Man, Is This For You?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2003
 
-DELIVERED ON LORD'S DAY MORNING, JANUARY 15, 1888,.
+*Delivered on Lord's Day Morning, January 15, 1888*
 
 > "And it came to pass the day after, that He went into a city called Nain; and many of His disciples went with Him and much people. Now when He came near to the gate of the city, behold, there was a dead man carried out, the only son of his mother and she was a widow: and much people of the city was with her. And when the Lord saw her, He had compassion on her and said unto her, Weep not. And He came and touched the bier: and they that bare him stood stiil. And He said, Young man I say unto you, Arise. And he that was dead sat up and began to speak. And He delivered him to his mother. And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God has visited His people. And this rumor of Him went forth throughout all Judea and throughout all the region round about." Luke 7:11-17.
 
@@ -148,7 +147,6 @@ Other and wider circles will follow as the sermon is spoken of and read. When yo
 until the shoreless ocean of eternity shall feel the influence of this morning's Word. No, I am not dreaming. According to our faith so shall it be. Grace this day bestowed by the Lord upon one single soul may affect the whole mass of humanity.
 
 God grant His blessing, even life forevermore. Pray much for a Blessing, my dear Friends, I beseech you, for Jesus Christ's sake. And pray much for me. Amen.
-
 
 ---
 [[Sermon 2001 A Little Sanctuary|← #2001]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2004 The Lover of God's Law Filled With Peace|#2004 →]]

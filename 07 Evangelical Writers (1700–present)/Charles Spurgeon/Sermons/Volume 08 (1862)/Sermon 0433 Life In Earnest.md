@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/08
 ---
-
 # Life In Earnest
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 433
@@ -129,7 +128,7 @@ Get to something that is worth doing, to something that is high and noble and he
 
 III. And now I must draw to a conclusion—may God give me fresh Grace while I undertake the solemn work OF
 
-DEALING WITH CARELESS AND UNCONVERTED SOULS.
+## Dealing with Careless and Unconverted Souls
 
 When Mr. Whitfield was preaching in the parish Church of Haworth, he said when he came to the point of self-examination, "I was about to address the ungodly but I suppose that after the faithful ministry to which you have listened in this Church, there is very little need for me to say anything about this." Mr. Grimshaw thereupon rose and said, "Brother Whitfield, don't flatter them, I fear that half of them are going to Hell with their eyes open."
 
@@ -162,7 +161,6 @@ Oh, how much better if God shall bless the Word to you, and we shall hear you te
 Christ and you shall be saved." Faith in Christ is the great way of salvation. Trust Jesus, trust Him with all your heart and you are saved this morning and your sins are gone!
 
 And when you are saved yourself, I pray you forget not what I have tried to instill this morning—that if we serve God with all our hearts we shall prosper in His ways. And that we cannot expect to see His blessing upon anything that we do, unless we do it as unto the Lord and not unto men.
-
 
 ---
 [[Sermon 0432 A Voice from the Hartley Colliery|← #432]] · [[Volume 08 (1862)|Volume 08 (1862) Contents]] · [[Sermon 0434 Threefold Sanctification|#434 →]]

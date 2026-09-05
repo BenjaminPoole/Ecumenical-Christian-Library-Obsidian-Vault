@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**CONDITION OF BLESSING**
+## **Condition of Blessing**
 
 > Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it," Mal. 3:10
 
@@ -23,7 +22,6 @@ Many read and plead this promise without noticing the condition upon which the b
 Many are poor because they rob God. Many churches, also, miss the visitations of the Spirit because they starve their ministers. If there is no temporal meat for God's servants, we need not wonder if their ministry has but little food in it for our souls. When missions pine for means, and the work of the Lord is hindered by an empty treasury, how can we look for a large amount of soul-prosperity?
 
 Come, come! What have I given of late? Have I been mean to my God? Have I stinted my Saviour? This will never do. Let me give my Lord Jesus His tithe by helping the poor, and aiding His work, and then I shall prove His power to bless me on a large scale.
-
 
 ---
 [[FCB April 23|← April 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 25|April 25 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # 'As' and 'So'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3173
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As you have therefore received Christ Jesus the Lord, so walk you in Him." Colossians 2:6.
 
@@ -123,7 +120,7 @@ I will close my discourse when I have reminded you that when we received Christ 
 
 I leave this sermon with God's people, but I cannot help adding that I do earnestly pray that all of you may receive Christ Jesus the Lord. Oh, come to Him tonight! He is willing that you should have Him—and every soul that wills to have Christ may have Him, for, "the Spirit and the bride say, Come. And let him that hears say, Come. And let him that is thirsty come. And whoever will, let him take the Water of Life freely." Amen, and Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 3:10-21.
+## Exposition by C. H. Spurgeon: 1 John 3:10-21
 
 Verses 10-12. In this the children of God are manifest and the children of the devil: whoever does not righteousness is not of God, neither he that loves not his brother For this is the message that you heard from the beginning, that we should love one another Not as Cain, who was of that Wicked One, and slew his brother And why did he slay him? Because his own works were evil, and his brother's righteous. Some people try to deceive us with the notion that all men are the children of God, but John, writing under the Inspiration of the Holy Spirit, shows how false that idea is! Holiness and love distinguish the children of God from the children of the devil!
 
@@ -150,7 +147,6 @@ Truth. Love that consists only of words is utterly worthless. If it is true love
 23\. And this is His commandment, that we should believe on the name ofHis Son, Jesus Christ, andlove one another, as He gave us commandment. Faith and love—faith in Christ and love to one another—are here most happily joined together! Let us never put them asunder.
 
 24\. And he that keeps His commandments dwells in Him, and He in him. And hereby we know that He abides in us, by the Spirit which He has given us. Though this great Truth of our dwelling in God and God dwelling in us is a great mystery, it is a mystery concerning which we need not be in doubt if we will learn of the Holy Spirit what He delights to teach us!
-
 
 ---
 [[Sermon 3172 Bright Prospects for Young Believers|← #3172]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3174 Concentration and Diffusion|#3174 →]]

@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 25. A Sermon Concerning the Time of Rebellion
 
-CONCERNING THE TIME OF REBELLION1.
+*Concerning the Time of Rebellion 1*
 
 c.c.c.c. THE common sorrow of this present time2, dearly beloved brethren in Christ, if I
 
@@ -23,7 +22,7 @@ These reasons perchance might move some men to be quiet and hold their peace ; b
 
 [* Dr Jenkyns supposes that, u although this sermon has been placed among Cranmer's works, his claim to it is not indisputable." It is here printed from the C. C. C. C. MS. written by a secretary, but corrected throughout by the archbishop ; re specting which the following memorandum at the commencement of the MS. has been left by arch bishop Parker: "Hie sermo prius descriptus Latine a Petro Martyre." The Latin sermons referred to are found in the same collection, CCCXL, Arti cles 4 and 6. The English sermon is founded on the two in Latin by P. Martyr, but is not a trans lation of them, sentences being omitted and new matter added. They contain " descriptions of the disturbed state of the country, and of the angry feelings existing between the gentry and the lower orders." Both the Latin and English sermons con tain the same topics and examples as the rough notes of the archbishop*. Dr Jenkyns conjectures that " Cranmer placed these brief notes in the hands of P. Martyr, to be expanded into a regular homily ; and that afterwards, from the materials thus pre pared in Latin, he drew up the English sermon which follows." It is probably the same " which Burnet says was preached by Cranmer on a fastday at court, and which he saw at C. C. C. C. under the archbishop's own hand, being the only sermon of his that he ever saw." He was un doubtedly mistaken with respect to the hand-writing, and he gives no authority for the rest of his state ment, which the expressions of the concluding prayer somewhat corroborate. Strype appears to think a " fast-day was appointed on account of the insurrec tions, that the archbishop directed sermons on the occasion to be composed for the curates to read to the people, and that this was one of them which was printed for common use." See note, p. 188. Strype's Mem.of Abp. Cranmer, Vol. I. pp. 266—8. Burnet's Hist, of Reformat. Vol. II. Part i. p. 242, and Part n. pp. 239—41. App. B. i. No. 36. Jen kyns' Remains of Abp. Cranmer, Vol. II. p. 248.] [2 This sermon was probably directed against the Norfolk rebellion headed by Ket. Vid. p. 189. n. 10.]
 
-A SERMON ON REBELLION.
+## A Sermon on Rebellion
 
 trouble to quietness, from darkness to brightness, from heaviness and desperation to glad ness, joy, and comfort. Wherefore I most humbly beseech Almighty God to grant me by his Spirit, that out of holy scripture I may plainly set out before your eyes the principal causes of all these tumults and seditions : for if the causes be once known, it shall be the more easy to provide remedy therefore.
 
@@ -43,7 +42,7 @@ But peradventure some will say, If the governors offend because they do not just
 
 [5 "When the magistrate by negligence or pre posterous pity will not punish for sin, then Gotl striketh, as ye may see by the universal flood, by the fire in Sodom and Gomorre." Bp. Hooper, Sermon 111. upon Jonas, p. 484, Park. Soc. Ed. 1843.]
 
-192 A SERMON ON REBELLION.
+## 192 a Sermon on Rebellion
 
 punish offenders, what doth that pertain to us the common people, which have not offended ? Let them repent that have offended ; let them be sorry for their slackness in punishment, and more sharply correct from henceforth such as by their horrible offences provoke God's indignation against us all. Nay, not so, my friends ; let no men charge the governors, and excuse themselves : we have offended God both high and low ; we have deserved this plague at God's hands, and much more. Therefore let every man search his own conscience, and (like as Daniel did) let every man confess and bewail as well his own sins, as the sins of the heads and rulers. And let every man for his own part correct and amend himself, forasmuch as he knoweth that our offences be the causes not only of private, but also of public and common calamities.
 
@@ -61,7 +60,7 @@ But perad venture some will say : The gentlemen have done the commons great wron
 
 [CRAKMER, TT.l
 
-194 A SERMON ON REBELLION.
+## 194 a Sermon on Rebellion
 
 the same, and every man was contented with his appointment. And why then do not our people patiently tarry, till our Josue, that is the king's majesty, and his council do make just reformations, as they intend to do ; but will take upon themselves to be re formers and judges of their own causes, and so by uproars and tumults hinder the most godly purposes and proceedings of him and his council ?
 
@@ -75,7 +74,7 @@ But the great part of them that be the chief stirrers in these insurrections be 
 
 And yet they pretend that they mean nothing else but a reformation of things that l)e amiss ; and they complain much of rich men and gentlemen, saying, that they take
 
-A SERMON ON REBELLION.
+## A Sermon on Rebellion
 
 the commons from the poor, that they raise the prices of all manner of things, that they rule the poverty, and oppress them at their pleasure. Thus they excuse their own out rageous presumption by charging the gentlemen. But whilst they look so earnestly at other men's faults, they do not see their own. They speak much against Achab, that took from Naboth his vineyard ; but they follow not the example of Naboth, who would rather lose his vineyard, than he would make any commotion or tumult among the people. They make exclamations against Achab, and yet follow him rather than the patience of Naboth. We never read that any just man, which is praised in the scripture, did take sword in his hand as against his prince or nobility, although he suffered never so much wrong or oppression. And yet now they accuse the gentlemen of taking of Q"od sit falsa commons, which take from the gentlemen both the common and proper. They charge the rich men that they enhance the prices ; but in this unseemly commotion they take from the rich man what they list without any price. They say that the gentlemen rule the poor and oppress them at their pleasure. But they so say that be out of all rule and order, and rule the gentlemen as pleaseth them, except they will have their goods spoiled, their houses brent, and further be in danger of their lives1. They say, gentlemen Q"() have ruled aforetime, and they will rule now another while2. A goodly realm shall that return, si be, that shall be ruled by them that never had experience to govern, nor cannot rule * isgubernarutur.
 
@@ -91,7 +90,7 @@ In countries some must rule, some must obey, every man may not bear like stroke 
 
 [2 "Some crieth, Pluck down inclosures and parks ; some for their commons ; others pretend the religion ; a number would rule another while, and direct things as gentlemen have done : and indeed all have conceived a wonderful hate against gentle men, and taketh them all as their enemies. The ruffians among them, and the soldiers, which be the chief doers, look for spoil. So that it seemeth no other thing but a plague and a fury among the vilest and worst sort of men." A Letter from Pro tector Somerset to Sir Philip Hobby, concerning the rebellions at home. Burnet, Hist of Reformat. Vol. II. App. B. i. No. 36, pp.239— 40. Ed. Oxon. 1829, quoted by Dr Jenkyns.]
 
-A SERMON ON REBELLION.
+## A Sermon on Rebellion
 
 Multo deteriores sunt rebelles et scditiosi quam avari.
 
@@ -111,7 +110,7 @@ And not only this, but, that which is more wonderful and to be lamented, part of
 
 [' "Pardon was proclaimed in Norwich by a herald on the 31st of July, ineffectually, Ket the leader declaring, that he needed no pardon, having ' done nothing but that belonged to the duty of a
 
-A SERMON ON REBELLION.
+## A Sermon on Rebellion
 
 n° shed his subjects' blood, although they be unworthy the name of his subjects ; but they seek to shed the blood of them which have hitherto defended their blood from shedding. He, like a merciful prince, is loath to cut off the members of his body, although many of them are so rotten and corrupt, that, if they might, they would infect the whole body. And what madness is it, that diseased members refuse to bo anointed with the most soft and gentle ointment of his majesty's mercy ! He is as careful of their health and life as it were possible if they were his children ; although Gra^us peoby these seditions and uproars he hath been more grievously offended, than the genseXsn" tlemen have offended them, with whom they be angry. For the gentlemen, in case E^ql those things be true wherewith they be charged, yet they have only done wrong to the poor commons in their inclosures and such like matters. But by these seditions the majesty of a most high and godly king is hurt and wronged, forsomuch as they take upon them his office, and as it were pulleth the sword out of his hands. For he is ordained of God to have the hearing and decision of such causes, and to have the ad ministration and distribution of these worldly goods; but they in their rage do in a manner pull him out of his throne and chair of estate, and cast him down to the ground, who is here in earth God's vicar and chief minister, and of whom only next unto God dependeth all the wealth and felicity of this realm; as it would soon ap pear, if he were missing, which God forbid, and all the realm should bewail. Verily, when I consider with myself their unjust desire in revenging, and the king's majesty's gentleness in suffering and pardoning, methink I see the accustomed order of things to be clean turned and changed upside down : for Solomon saith, " A king's anger is like the roaring of a lion." But their sovereign lord doth not roar against them, (which notwithstanding have grievously offended and provoked his anger,) but rather doth fawn upon them, and use them gently. Contrariwise they, which ought to be as gentle and meek as lambs, whose part it were either to hold their peace and not open their mouths, or else to speak very mildly and lowly, do now roar and make outcries like most cruel lions : the which thing how justly they do it, God's vengeance (except they take heed) will speedily declare.
 
@@ -125,7 +124,7 @@ Cranmer, Vol. II. p. 262.]
 
 [3 Juvenal, Sat. n. 3. Qui Curios simulant, et Bacchanalia vivunt.J
 
-198 A SERMON ON REBELLION.
+## 198 a Sermon on Rebellion
 
 But such as rejoice and brag in such things, utterly deceive themselves. Whoso listeth to read the histories of the heathen people and greatest idolaters, he shall not find among them all any region, people, or nation that was so scourged by God, so oft brought into servitude, so oft carried into captivity, with so divers, strange, and many calamities oppressed, as were the children of Israel. And yet they bragged and gloried that none other nation but the^ only had the law of God, their rites and ceremonies of God, God's promises and his testaments. And so it was indeed : never theless St Paul, writing to the Romans, doth most sore rebuke and reprove them, saying: "Thou art called a Jew, and dost trust in the law, and makest thy boast of God, and knowest his will, and allowest the things that be best, and are informed by the law, and thinkest that thou art a guide to the blind, a light to them that are in darkness, a teacher of them that be ignorant, a doctor to them that be unlearned, which hast the true form and knowledge of the truth by the law. But yet thou which teachest another teachest not thyself; thou preachest that a man should not steal, yet thou stealest ; thou sayest that a man should not commit adultery, but thou breakest wedlock. Thou abhorrest images, and yet thou dost commit idolatry by honouring of them. Thou that makest thy boast of the law, through breaking of the law dishonourest God : for the name of God is ill spoken of among the heathen by your means."
 
@@ -151,7 +150,7 @@ If I would recite and add hereunto all the histories of the heathen, which decla
 
 [' The archbishop alludes here probably to the Sleidan, De Statu religionis ; Lib. v. p. 8f). Ed war in Germany, A.D. 1525, in which the rustics Francof. 1568.] were defeated, and Muncer their leader slain. Vid. I [2 Miriam. Numb, xii.]
 
-200 A SERMON ON REBELLION.
+## 200 a Sermon on Rebellion
 
 people, which not many years ago chanced to rise in Germany, by and by after that the word of God began there to shine and flourish, of the which were slain within the time of three months above an hundred thousand persons1. And what followed further thereof? Great dearth of victual, great hunger and penury.
 
@@ -177,7 +176,7 @@ I have described unto you this heavenly medicine; which if we use, God hath prom
 
 These words of Hieremy may well be spoken of us this present time. But let us repent in time without further delay. For we have enough and overmuch already provoked God's wrath and indignation against us. Wherefore let us pray and fall down and lament before the Lord our Maker ; for " he is the Lord our God, and we are the people of his pasture and the sheep of his fold. To-day if we hear his voice, let us not harden our hearts, as the people did in the desert :" for of continuance in evil living there is none other end to be looked for than eternal damnation ; but of repentance and perfect conversion unto God the end is perpetual salvation and ever lasting life. And if we do not repent in time, at the last we shall be compelled to hear this terrible voice of damnation : " Go, ye wicked, into everlasting fire, which is prepared for the devil and those that be his." Then there shall be no remedy; then no intercession shall serve; then it shall be too late to come to repentance. Let us rather repent and turn in time, and make intercession unto the Lord by his Son Jesus
 
-A SERMON ON REBELLION.
+## A Sermon on Rebellion
 
 Christ. Let us lament for our sins, and call for God's merey^ that when Christ shall come at the last day, we may hear these words of him : u Come to me, you that be blessed of my Father, and take possession of the kingdom which my Father hath pre pared for you."
 

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # August 10
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE LOWERS TO RAISE**
+## **He Lowers to Raise**
 
 > The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up" I Sam 2:7
 
@@ -23,7 +22,6 @@ All my changes come from Him who never changes. If I had grown rich, I should ha
 It seems that Jehovah's way is to lower those whom He means to raise, and to strip those whom He intends to clothe. If it is His way, it is the wisest and best way. If I am now enduring the bringing low I may well rejoice, because I see in it the preface to the lifting up. The more we are humbled by grace, the more we shall be exalted in glory. That impoverishment which will be overruled for our enrichment is to be welcomed.
 
 O Lord, thou has taken me down of late, and made me feel my insignificance and sin. It is not a pleasant experience, but I pray thee make it a profitable one to me. Oh, that thou wouldst thus fit me to bear a greater weight of delight and of usefulness; and when I am ready for it, then grant it to me, for Christ's sake! Amen.
-
 
 ---
 [[FCB August 9|← August 9]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB August 11|August 11 →]]

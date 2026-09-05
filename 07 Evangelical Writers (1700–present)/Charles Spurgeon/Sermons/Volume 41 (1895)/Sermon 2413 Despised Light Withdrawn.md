@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Despised Light Withdrawn
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2413
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "While you have light, believe in the light, that you may be the children of light. These things spoke Jesus, and departed, and did hide Himself from them." John 12:36.
 
@@ -93,7 +90,7 @@ Christ Himself was the Preacher on this occasion—do you, therefore, infer that
 
 Do you blame Jesus because these people rejected His testimony? Do you blame Jesus because He had to escape from their violence? No, no, no—a thousand times, no! And "in that day," in that last dread Day of Judgment, I trust that you will exonerate me from all blame if you are lost, for I have earnestly exhorted you to believe in Jesus, and in Jesus only! There is salvation to be had in Him—will you have it, or will you not? I would gladly grip your hand, to detain you, as that "ancient mariner," of whom Coleridge tells us in his weird poem, transfixed with his glittering eyes the wedding guest, and held him when he wanted to be gone, and I would pray you to remember that tonight may be the turning point, the deciding hour, of your eternal destiny! The scales, I see, are quivering—which way shall they turn? O blessed Christ, cast Your Cross in the balance and turn it, tonight, for the salvation of each one before You, and unto Your name shall be praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
 Verses 20-24. Now there were certain Greeks among those who came up to worship at the feast. Then they came to Philip, who was from Bethsaida of Galilee, and asked him, saying, "Sir, we wish to see Jesus." Philip came and told Andrew, and in turn Andrew and Philip told Jesus. But Jesus answered them, saying, "The hour has come that the Son of Man should be glorified. Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain." I think that our Savior looked upon these Greeks as a sort of vanguard of the great army of Gentiles who would come to Him as the result of His death, but He fixed His eyes upon the cause rather than the result, and so He began to talk about that death of His, and how it was that it would work such glorious results. If you want a corn of wheat to grow, you must put it into the ground. It must be resolved into its primary particles—for that is what, "to die," means—and then it must spring up, again, with newness of life, or else it can never be multiplied. It was so with the Lord Jesus, Himself. It is still so with us, it is in proportion as we, ourselves, shall be prepared to die that we shall be prepared to give life to others.
 
@@ -124,7 +121,6 @@ Verses 20-24. Now there were certain Greeks among those who came up to worship a
 44-49. Jesus cried and said, He that believes on Me, believes not on Me, but on Him that sent Me. And he that sees Me sees Him that sent Me. I am come a Light into the world, that whoever believes on Me should not abide in darkness. And if any man hears My word, and believes not, I judge him not: for I came not to judge the world, but to save the world. He that rejects Me, and receives not My words, has that which judges him—the words that I have spoken, the same shall judge him in the last day. For I have not spoken of Myself, but the Father which sent Me. He gave Me a commandment, what I should say, and what I should speak. Christ did not pride Himself upon being a great original thinker. He took His words from His Father's mouth—and the preacher of the Gospel is to be no inventor of new thoughts. The "thoughtful" man of whom we hear so much is just a man who is rebellious against God. The Lord's true servant is to repeat God's thoughts, not his own—to borrow from the Scriptures, to borrow from the teaching of the Holy Spirit—even as the Lord Jesus Christ did.
 
 50\. And I know that His commandment is life everlasting: whatever I speak, therefore, even as the Father said unto Me, so I speak. If the great Head of the Church was thus only a Messenger, the Deliverer of a message from the Father, should not we, who at our best are such poor ministers of Christ, take heed to it that we, also, can say, "Even as the Father said unto me, so I speak"? God grant it! Amen.
-
 
 ---
 [[Sermon 2412 A Special Benediction|← #2412]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2414 The Prodigal's Climax|#2414 →]]

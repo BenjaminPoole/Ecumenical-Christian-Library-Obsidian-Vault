@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Noah's Faith, Fear, Obedience, and Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2147
@@ -91,8 +90,7 @@ The last thing Noah earned by his faith was this, *he became heir of the righteo
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON Genesis 6:5,22; Hebrews 11:1-7.
 
-HYMNS FROM "OUR OWN HYMN BOOK" 913, 652, 504.
-
+## Hymns from "Our Own Hymn Book" 913, 652, 504
 
 ---
 [[Sermon 2146 Joy, Joy Forever|← #2146]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2148 The Tenderness of Jesus|#2148 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 125. Luke 18:1-8
-
-**Luke 18:1-8**
 
 **1**. And he spake also a parable to them, that they ought always to pray, and not to grow weary: **2**. Saying, There was a judge in a city, who neither feared God, nor regarded man. **3**. And there was a widow in that city, who came to him, saying, Do me justice on my adversary. **4**. And he refused for some time, [^1] but afterwards said within himself, Though I neither fear God, nor regard man, **5**. Yet because this widow is troublesome to me, [^2] I will do her justice, lest by coming perpetually she weary me out. [^3] **6**. And the Lord said, Hear what the unjust judge saith. **7**. And will not God avenge his elect, who cry to him night and day, even though he forbear with respect to them? [^4] **8**. I tell you that he will speedily avenge them. But when the Son of man shall come, will he find faith on the earth? [^5]
 

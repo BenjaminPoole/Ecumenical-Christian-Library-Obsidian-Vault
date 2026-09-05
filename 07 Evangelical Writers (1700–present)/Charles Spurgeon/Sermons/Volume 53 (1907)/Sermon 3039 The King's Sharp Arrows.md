@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # The King's Sharp Arrows
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3039
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your arrows are sharp in the heart of the King's enemies; whereby the people fall under You." Psalm 45:5.
 
@@ -109,7 +106,7 @@ down before Him! And London, and Great Britain, and the world at large would beh
 
 The Lord send it! The Lord send it! I know your hearts say, "Amen!" But you must work for it and watch for it and pray for it—and then it will come! And unto Christ shall be the Glory forever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM45.
+## Exposition by C. H. Spurgeon: Psalm 45
 
 To the chief Musician upon Shoshannim, (or, upon the lilies,) for the sons of Korah, Maschil, A Song of Loves. We may look upon the 45th Psalm as being a sort of compendium of the Song of Solomon. It is written, too, upon the same subject. And that is not the marriage of Solomon with Pharaoh's daughter—only the strangest and most whimsical fancy could ever have found Pharaoh's daughter either in this Psalm or in the Book of the Canticles! It is a description of Christ and His Church! A song of love between that pair forever affianced and soon to sit down together at the marriage supper in Glory!
 
@@ -148,7 +145,6 @@ throne. The day shall come when all the honor of earthly kings' daughters will h
 17\. I will make Your name to be remembered in all generations: therefore shall the people praise You forever and ever—
 
 "Jesus shall reign wherever the sun Does its successive journeys run. His Kingdom stretches from shore to shore Till moons shall wax and wane no more."
-
 
 ---
 [[Sermon 3038 Justice Vindicated And Righteousness Exemplified|← #3038]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3040 The Happy Beggar|#3040 →]]

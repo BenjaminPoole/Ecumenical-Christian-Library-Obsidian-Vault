@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Once Dead, Now Alive
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2388
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you has He quickened, who were dead in trespasses and sins." Ephesians 2:1.
 
@@ -172,7 +169,6 @@ and be renewed in the spirit of your mind; and that you put on the new man, whic
 32\. Tenderhearted, forgiving one another. You will have something that will need to be forgiven, and your brother will have something which you will need to forgive.
 
 32\. Even as God, for Christ's sake, has forgiven you. The Lord write all these words upon our hearts, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2387 Good Advice For Troublous Times|← #2387]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2389 Guidance To Grace and Glory|#2389 →]]

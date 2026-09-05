@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # March 31
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PRESENCE OF MIND**
+## **Presence of Mind**
 
 > Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh. For the Lord shall be thy confidence, and shall keep thy foot from being taken" Prov. 3: 25,26
 
@@ -25,7 +24,6 @@ He would have them manifest courage. We who enjoy the presence of God ought to d
 The Lord would have His chosen display discrimination, so that they may see that the desolation of the wicked is not a real calamity to the universe. Sin alone is evil; the punishment which follows thereupon is as a preserving salt to keep society from putrefying. We should be far more shocked at the sin which deserves hell, than at the hell which comes out of sin.
 
 So, too, should the Lord's people exhibit great quietness of spirit. Satan and his serpent seed are full of all subtlety; but those who walk with God shall not be taken in their deceitful snares. Go on, believer in Jesus, and let the Lord be thy confidence.
-
 
 ---
 [[FCB March 30|← March 30]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 1|April 1 →]]

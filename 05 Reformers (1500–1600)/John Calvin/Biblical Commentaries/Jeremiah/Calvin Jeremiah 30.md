@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 30
 
-**CHAPTER 30**
+***Chapter 30***
 
 ## Jeremiah 30:1-3
 
@@ -61,7 +60,7 @@ The Prophet goes on in this verse to describe the grievousness of that punishmen
 
 ## Prayer Lecture 113
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we cease not in various ways perversely to provoke thy wrath against us, — O grant that we may at length be turned to obedience by thy kind admonitions, and at the same time submit also to thy just severity, and know that whenever thou severely chastisest us, we are dealt with as we deserve: may we yet never despond, but flee to thy mercy, not doubting but that thou in the midst of wrath rememberest thy paternal love, provided we rely on that favor which thou hast promised to us through thine only-begotten Son. — Amen.
 
@@ -175,7 +174,7 @@ God then tries his people, or cleanses them with chastisements; but how? or, how
 
 ## Prayer Lecture 114
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are born wholly alienated from thy kingdom and the hope of salvation, and as a dreadful scattering awaits us except thou gatherest us by the power and grace of thy Spirit, — O grant, that as thou hast once adopted us as thy people, and hast been pleased to gather us under the yoke of Christ, we may remain in obedience to him, and thus continue under thy government, that after having completed our course in this life, we may at length come unto that kingdom where we shall enjoy all those good things which we now only by hope taste, through the same, Christ Jesus our Lord. — Amen.
 
@@ -259,7 +258,7 @@ And this point is confirmed by what immediately follows, *the palace shall be se
 
 ## Prayer Lecture 115
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are so slow to consider thy judgments, and become continually hardened in our sins, — O grant, that being really touched by those many warnings by which thou not only invitest, but also stimulatest us to repent, we may learn to humble ourselves, and so Submit to thy chastisements, that we may be capable of receiving that mercy which turns whatever evil may happen to us to our good and salvation, until we shall at length be gathered into that blessed rest which is prepared for us in heaven, through Christ our Lord. — Amen.
 
@@ -365,7 +364,7 @@ But the Prophet expresses himself more fully, when he says, *At that time,* that
 
 ## Prayer Lecture 116
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast manifested to us in thine only-begotten Son all the paternal goodness of which the fathers formerly tasted, and hast so really and fully exhibited it, that nothing more can be desired by us, — O grant, that we may remain fixed in our trust in thee, and so cleave by true faith and in sincerity of heart to our Redeemer, that we may expect from him all things necessary for our salvation: and may we know that whatever may happen to us, we are still blessed, provided we enjoy this singular privilege, to call on thee as our Father through the name of the same thy Son. — Amen.
 

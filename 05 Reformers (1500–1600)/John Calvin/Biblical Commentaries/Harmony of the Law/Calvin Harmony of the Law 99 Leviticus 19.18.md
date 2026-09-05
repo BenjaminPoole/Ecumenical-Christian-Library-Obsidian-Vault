@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 99. Leviticus 19:18
-
-**Leviticus 19**
 
 **18.** Thou shalt love thy neighbor as thyself.
 

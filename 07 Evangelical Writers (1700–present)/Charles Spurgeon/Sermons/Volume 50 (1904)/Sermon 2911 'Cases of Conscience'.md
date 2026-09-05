@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # 'Cases of Conscience'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2911
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For my iniquities are gone over my head: as a heavy burden they are too heavy for me." Psalm 38:4.
 
@@ -89,7 +86,7 @@ To doubt, for instance, whether Christ can save me is a heinous sin! To think th
 
 III. Now, having handled these two points, let me close with WORDS OF ADVICE TO BOTH THESE CLASSES
 
-OF PERSONS WHOM I HAVE BEEN DESCRIBING.
+## Of Persons Whom I Have Been Describing
 
 Dear Friends, you who are frightened and alarmed, vexed and troubled, I know what you are saying, "Oh, that we could escape from this misery!" There is another friend, over yonder, who has never had these fears and he is saying, "I wish I had them, for, if I had them, there would be some hope for me." If you do not have them, you want them—and if you do have them, you want to get rid of them! There is no pleasing you either way. But good physicians do not seek to please their patients, but to cure them! It is not their aim to make the medicine palatable, but to make it efficacious. So, the Lord does not study our wishes, but gives us what is best for us—and we are very foolish to wish to have it otherwise.
 
@@ -103,7 +100,7 @@ I was reading, the other day, the preface to the hymn of a very excellent writer
 
 I have tried to preach the Gospel simply tonight. Remember, Souls, that the Word is not preached in vain. We are either, "a savor of life unto life," or, "of death unto death" to our hearers. Which is it to you, dear Friends? Is it a savor of death unto death to you, O impenitent Sinner? And is it to you, O penitent Soul, a savor of life unto life? By this test shall you tell which it is—if you now, from your heart, trust Christ, in obedience to the Lord's command, then has the Gospel saved you and you may go in peace. "Woman, you are loosed from your infirmity." "Man, your sins are forgiven you." "Arise, take up your bed and go to your house." Go your way, for the Lord has had mercy on you! Glorify Him in the family and tell others, wherever you can, what great things the Lord has done for you!
 
-EXPOSITION BY C. H. SPURGEON: PSALM 38; ISAIAH 53.
+## Exposition by C. H. Spurgeon: Psalm 38; Isaiah 53
 
 I am going to read two portions of Scripture. In the first—the 38th Psalm—we shall hear a suffering servant of Jehovah crying out to his God.
 
@@ -140,7 +137,6 @@ Isaiah 53:1-9. Who has believed our report? And to whom is the arm ofthe LORD re
 10, 11. He has put Him to grief: when You shall make His soul an offering for sin, He shall see His seed, He shall prolong His days, and the pleasure ofthe LORD shall prosper in His hand. He shall see of the travail of His soul, and shall be satisfied: by His knowledge shall My righteous Servant justify many; for He shall bear their iniquities. What gracious Gospel words these are, even though they were recorded under the old dispensation! Oh, how you who are full of iniquity ought to catch at these Inspired declarations which so clearly set forth the substitutionary work of Christ on behalf of the guilty! If you realize your need of such a Savior as He is, how these words ought to gladden Your heart!
 
 12\. Therefore will I divide Him a portion with the great, and He shall divide the spoil with the strong; because He has poured out His soul unto death: and He was numbered with the transgressors; and He bore the sin of many and made intercession for the transgressors.
-
 
 ---
 [[Sermon 2910 The Harvest and the Vintage|← #2910]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2912 Comfort for Tried Believers|#2912 →]]

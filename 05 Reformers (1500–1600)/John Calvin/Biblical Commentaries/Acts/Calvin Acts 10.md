@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 10
 
-**CHAPTER 10**
+***Chapter 10***
 
 ## Acts 10:1-6
 

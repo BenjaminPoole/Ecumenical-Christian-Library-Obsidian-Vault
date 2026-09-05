@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Living Care of the Dying Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2368
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Jesus answered, I have told you that I am He: if, therefore, you seek Me, let these go their way: that the saying might be fulfilled which He spoke, Of those which You gave Me have I lost none." John 18:8,9.
 
@@ -148,7 +145,6 @@ Kidron."
 10\. Having a sword, drew it and struck the High Priest's servant and cut off his right ear. The servant's name was Mal-chus. Peter struck at his head—he was not content with trying to wound—he meant to kill Malchus. But he, "cut off his right ear."
 
 11-14. Then said Jesus unto Peter, Put up your sword into the sheath: the cup which My Father has given Me, shall I not drink it? Then the band and the captain and officers of the Jews took Jesus and bound Him, and led Him away to Annas first; for he was father-in-law to Caiaphas, which was the High Priest that same year. Now Caiaphas was he which gave counsel to the Jews that it was expedient that one man should die for the people. Saying a great deal more than he thought he was saying, for he uttered a great Gospel Truth when he said, "It was expedient that one man should die for the people."
-
 
 ---
 [[Sermon 2367 God's Hidden Ones|← #2367]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2369 Blood Even on the Golden Altar|#2369 →]]

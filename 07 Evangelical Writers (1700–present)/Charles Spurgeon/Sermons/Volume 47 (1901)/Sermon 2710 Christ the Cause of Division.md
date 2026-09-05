@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Christ the Cause of Division
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2710
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "So there was a division among the people because of Him." John 7:43.
 
@@ -91,7 +88,7 @@ Let us try, moreover, to make the world see that it is so by everyone endeavorin
 
 And, oh, what unity there will be in Heaven, where Christ will be the center of the redeemed, where all shall sing of Him and where all shall equally behold Him! All of us who believe in Jesus will be with Him where He is, and so we shall behold His Glory, the Glory which His Father gave Him. Certain brethren think that they will have a place all to themselves. Well, they have not been very amiable down here and, therefore I should not be sorry if they were going to have a place to themselves! But, at the same time, I pray the Lord to have mercy upon them and to enable them to give up all idea of having a place for themselves, and all thought of having anything different from the rest of the Lord's family, for I believe that there will be no division among the people of God because of Christ, or concerning the Glory that Christ will give them. But they shall all forevermore behold Him and forevermore call Him theirs, and rejoice in Him world without end. I am quite satisfied to share the lot of the poorest of His people. And if there is a saint in Heaven who has to sit by the door, I will sit with him forever. And if I shall have a right—as I am sure I shall not—to a higher and a better place than he has, I will ask my Master to let me sit among the lowliest of His servants, and I am sure that you, Brothers and Sisters, will add, "And so say all of us!" Let others say what they like, I feel certain that there will be no division among the people of God in Heaven because of Christ—to whom be praise forever and ever! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 7:14-53.
+## Exposition by C. H. Spurgeon: John 7:14-53
 
 Verse 14. Now about the midst of the feast Jesus went up into the temple and taught He was no coward, so He boldly showed Himself in the midst of the throng in the temple.
 
@@ -152,7 +149,6 @@ Verse 14. Now about the midst of the feast Jesus went up into the temple and tau
 52\. They answered and said unto him, Are you also of Galilee? Search, and look: for out of Galilee arises no Prophet. Which was a lie, for prophets had come out of Galilee. Still, they denied it and they were indignant at having such a question put to them by Nicodemus.
 
 53\. And every man went unto his own house. I t was like a bombshell exploding in the midst of them! And often, a few brave words dropped into the midst of an assembly of bad men will explode among them and scatter them here and there. Nicodemus had accomplished what, perhaps, he thought he would never do. He was, indeed, like his name, on that occasion—one of the conquering people—for "every man went unto his own house." Nicodemus had scattered them all by his startling question. May each of us witness as bravely for Christ as we have opportunity!
-
 
 ---
 [[Sermon 2709 Christ's Past and Present Witnesses|← #2709]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2711 The Sight of Iniquity|#2711 →]]

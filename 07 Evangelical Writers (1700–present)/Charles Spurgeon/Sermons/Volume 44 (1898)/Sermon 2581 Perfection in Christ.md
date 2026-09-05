@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Perfection in Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2581
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Perfect in Christ Jesus." Colossians 1:28.
 
@@ -89,7 +86,7 @@ Then there is one who, when I ask the question, "Are you perfect in Christ Jesus
 
 Though the wind may come and blow between the rags that cover you, if you can say, ' 'I am perfect in Jesus," you can be content with poverty! Though you are in pain and tossing about in your bed, if you can say, "I am perfect in Jesus," it will be like medicine to soothe your spirits! And when grim Death appears, you only need look him in the face and say, "Perfect in Jesus," and in that moment Death will change into an angel, pain will be turned into bliss and sorrow into immortal Glory! God give all of us to realize that we are perfect in Jesus, in Jesus only, in Jesus forever! Bless His precious name! Hallelujah to His Person, glory to His Grace! Seraphs, sing out His praises! Cherubs, take up the note! You rocks, you hills, burst forth into song! All you Christians, sing praises to Him who loved us with an everlasting love and who will carry us safely home to Glory to be with Him forever and ever!
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH55
+## Exposition by C. H. Spurgeon: Isaiah 55
 
 Verse 1. Ho! Everyone who thirsts, come to the waters, and he that has no money; come, buy, and eat; yes, come, buy wine and milk without money and without price. Let no one ask whether he may come to Christ for salvation—he is bid to come! Whoever wills to come is welcome. "Ho!" says God, as men cry when they have goods to sell and would attract the passerby. And not merely to one does He speak, but to everyone—"Ho! Everyone who thirsts"—whatever is the age he lives in and to whatever age he may, himself, have attained "Ho! Everyone who thirsts." But is there anything to be had by those who come? There is in God exactly that which every soul needs! First, "waters" for the thirsty. There is even more than absolute necessities—"wine and milk," God has an abundance of Grace, yes, a superabundance! He can give us all we need and even more than we desire. Oh, turn not away when God the Father cries, "Ho!"
 
@@ -112,7 +109,6 @@ Verse 1. Ho! Everyone who thirsts, come to the waters, and he that has no money;
 9-12. For as the heavens are higher than the earth, so are My ways higher than your ways, andMy thoughts than your thoughts. For as the rain comes down, and the snow from Heaven, andreturns not there, but waters the earth, and makes it bring forth good and bad, that it may give seed to the sower, and bread to the eater: so shall My Word be that goes forth out of My mouth: it shall not return unto Me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it For you shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing andallthe trees of the field shall clap their hands. "For you"—that is, you who have heard God's Word and believed it—"you shall go out with joy." Happy hearts help to make a happy world! He who has found his Savior, received God's pardon and learned God's thoughts, shall find the whole world full of music to him, wherever he may be!
 
 13\. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off Wherever God's Grace begins to work, it cuts up thorns and thistles—and plants in place of them fir trees and myrtle trees. Oh, that His Grace might renew each one of us! And, then, when that blessed work has been done, may we never cease to glorify that dear name by the power of which we have been changed!
-
 
 ---
 [[Sermon 2580 Partnership With Christ|← #2580]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2582 Alto and Bass|#2582 →]]

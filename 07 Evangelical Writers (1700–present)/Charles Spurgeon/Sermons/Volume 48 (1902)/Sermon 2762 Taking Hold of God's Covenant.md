@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Taking Hold of God's Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2762
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And takes hold of My Covenant." Isaiah 56:4.
 
@@ -151,7 +148,7 @@ The last reason I will give you why you should take hold of the Covenant is that
 
 There are some who are hoping to go to Heaven because of this, and some because of that, but, as for you and me, dear Friends, we had better end all fancies and resolve, by God's Grace, that we will go there because, "this is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom I am chief." So, casting everything else away, we lay hold of the Covenant, come what may. God bless you, Beloved, and enable you to do so, for our Lord Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH31:31-34; EZEKIEL 36:25-32; HEBREWS 8:7-13.
+## Exposition by C. H. Spurgeon: Jeremiah 31:31-34; Ezekiel 36:25-32; Hebrews 8:7-13
 
 Jeremiah 31:31-33. Behold, the days come, said the LORD, that I will make a new Covenant with the house of Israel, and with the house of Judah: not according to the Covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which My Covenant they broke, although I was an husband unto them, said the LORD. But this shall be the Covenant that I will make with the house of Israel; After those days, said the LORD, I willput My Law in their inwardparts, and write it in their hearts; and I will be their God, and they shall be My people. The old Covenant was written on tablets of stone, but the Lord said concerning the new Covenant, "I will put My Law in their inward parts." The old Law was hidden from sight when it was written a second time and placed in the Ark of the Covenant. And God says of His new Law, "I will write it in their hearts." They were always rebelling against God and wandering away from Him, but in this new, gracious Covenant, He says, "I will be their God, and they shall be My people."
 
@@ -168,7 +165,6 @@ Ezekiel 36:25. Then will I sprinkle clean water upon you, and you shall be clean
 32\. Not for your sakes do I this, said the LORD GOD, be it known unto you: be ashamed and confounded for your own ways, Ohouse of Israel The Covenant is all of Grace, you see. Mercy is shown to the unworthy—not for their own sakes, but for God's own Glory's sake. Oh, how sweet it is to have a share in this blessed Covenant! Now turn to the Epistle to the Hebrews, the 8th Chapter, and 7th verse, where you have still more concerning the new Covenant.
 
 Hebrews 8:7-13. For if that first Covenant had been faultless, then should no place have been sought for the second. For finding fault with them, He said, Behold, the days come, said the Lord, when I will make a new Covenant with the house of Israel and with the house of Judah: not according to the Covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in My Covenant, and I regarded them not, said the Lord. For this is the Covenant that I will make with the house of Israel after those days, said the Lord; I willput My Laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to Me a people: and they shall not teach every man his neighbor, and every man his brother, saying, Know the Lord: for all shall know Me, from the least to the greatest For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more. In that He said, A new Covenant, He has made the first old. Now that which decays and waxes old is ready to vanish away. So the old Covenant has vanished away, with all its types, symbols and sacrifices. As the morning mists dissolve upon the rising of the sun—as darkness flies away when the light shines—so has the Covenant of Works departed forever and, in its place, stands out the Everlasting Covenant of God's unmerited mercy to the most guilty and vile of the sons and daughters of men! May He graciously grant to us the privilege of having an interest in that Covenant, for His dear Son's sake. Amen.
-
 
 ---
 [[Sermon 2761 The Free Agency of Christ|← #2761]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2763 The Glory of Grace|#2763 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # April 18
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HE NEVER FAILS**
+## **He Never Fails**
 
 > I will be with thee: I will not fail thee, nor forsake thee" Josh. 1:5
 
@@ -25,7 +24,6 @@ Beloved, a life of warfare is before us, but the Lord of Hosts is with us. Are w
 It would be woe to us indeed if Jehovah could fail us; but, as this can never be, the winds of disquietude are laid to sleep in the caverns of divine faithfulness. On no one Occasion will the Lord desert us. Happen what may, He will be at our side. Friends drop from us, their help is but an April shower; but God is faithful, Jesus is the same for ever, and the Holy Spirit abideth in us.
 
 Come, my heart, be calm and hopeful today. Clouds may gather, but the Lord can blow them away. Since God will not fail me, my faith shall not fail; and, as He will not forsake me, neither will I forsake Him. Oh for a restful faith!
-
 
 ---
 [[FCB April 17|← April 17]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB April 19|April 19 →]]

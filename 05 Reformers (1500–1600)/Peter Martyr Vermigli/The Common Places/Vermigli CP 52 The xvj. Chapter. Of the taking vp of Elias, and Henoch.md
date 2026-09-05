@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - peter-martyr-vermigli
 ---
-
 # 52. The xvj. Chapter. Of the taking vp of Elias, and Henoch
-
-## *The xvj. Chapter.* Of the taking vp of Elias, and Henoch.
 
 [^1] NOw it séemeth good to discourse of the taking vp of *Elias;* and what I haue determined to speake of, I will diuide into thrée principall points. [^2] First, I thinke it méete to be vnderstood, whither *Elias* ascended, that is, what place he hath occupied by his ascending; secondlie, whether he be dead, and whether he inioie his bodie, or hath put off the same; thirdlie, if he liueth, whether he shall returne vnto vs, and to what end he was taken vp. But forsomuch as this lot; namelie, to be taken vp, was common, aswell vnto *Henoch,* as vnto him (as we read in the fift chapter of Genesis) we will intreate of them both togither. [^3] Howbeit, [^4] this testimonie of *Henoch* differeth from the historie of *Elias;* bicause therein is no mention of the place, wherevnto *Henoch* was translated. But in verie déed it is written of *Elias;* that he was taken vp through a whirlewind, into heauen: [^5] albeit some man may suppose that word *Schamaijm,* to be of the genetiue case, as though it were said, *In a whirlewind of heauen;* that is to saie, that *Elias* was taken vp in a heauenlie whirlewind. But the interpretation that is receiued in a maner of all the expounders, is that that word should be vnderstood, as put in the accusatiue case: and noteth the place, vnto the which *Elias* ascended. Yet haue we not héereby anie thing certeine or defined, bicause the name of the word heauen, is manifold, and vnder that name manie things are signified.
 

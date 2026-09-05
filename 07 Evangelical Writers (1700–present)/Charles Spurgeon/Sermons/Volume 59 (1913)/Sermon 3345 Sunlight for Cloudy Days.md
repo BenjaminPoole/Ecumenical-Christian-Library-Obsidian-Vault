@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Sunlight for Cloudy Days
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3345
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But I am poor and needy, yet the Lord thinks upon me." Psalm 40:17.
 
@@ -77,7 +74,7 @@ First, trust your Lord with your souls, and then trust Him with everything else!
 
 "All that remains for me, Is but to love and sing! And wait until the angels come, To bear me to my King."
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:1-31.
+## Exposition by C. H. Spurgeon: Romans 8:1-31
 
 Verse 1. There is, therefore, now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.To my mind one of the sweetest words of that verse is that little word now. "There is, therefore, now no condemnation—at this very moment! Walking under the power of the Spirit of God in Christ Jesus, there is, therefore, now no condemnation to Believers! It is a logical conclusion, too, from something that went before. You and I are not absolved from sin apart from the Truth of God, but there is a great truth at the back of it which necessitates it. "There is, therefore, now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
@@ -136,7 +133,6 @@ you.So there is a complete deliverance provided for body, soul and spirit! As Mo
 31\. What shall we say, then, to these things.?Shall we succumb under the sufferings of the body? Shall we yield to doubt because of all our heavy feelings and the dullness that comes of the flesh? By no means!
 
 31\. If God is for us, who can be against us?We can get through all these difficulties if God is with us!
-
 
 ---
 [[Sermon 3344 Unanswered Prayer|← #3344]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3346 Resurrection for the Just and the Unjust|#3346 →]]

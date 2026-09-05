@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Luke, the Beloved Physician.
 
-Chapter II · *The Upper Room* — J. C. Ryle
+## Chapter II · *The Upper Room* — J. C. Ryle
 
 > — Colossians 4:14[^1]
 
@@ -66,7 +65,6 @@ There ought always to be the utmost harmony and friendly feeling between the two
 There is much in common in the two professions, the one in caring for men's bodies, and the other in caring for men's souls. We ministers cannot command success. Too often we visit in vain, exhort in vain, advise in vain, preach in vain. We find that spiritual life and death are in higher hands than ours. The doctor finds that under the most skilful treatment people will die, and we find that under the most faithful teaching many continue unmoved in conscience, and dead in sins. Like the doctor, we often feel our ignorance, cannot diagnose or discern symptoms, and feel doubtful what to say. Both ministers and medical men have great need to be clothed with humility. But I trust, to use the words which were placed on the tomb of Sir Henry Lawrence, we both "try to do our duty," and persevere. Duties are ours, but events are God's.
 
 That there never may be wanting in Great Britain a continual supply of able, right-minded, faithful medical men, and that we who minister to the soul, and those who minister to the body, may always work harmoniously together, and help one another, is my earnest prayer.
-
 
 ---
 [[UR 01 They Went Up into an Upper Room|← They Went Up into an Upper Room.]] · [[The Upper Room|Upper Room Contents]] · [[UR 03 Simplicity in Preaching|Simplicity in Preaching →]]

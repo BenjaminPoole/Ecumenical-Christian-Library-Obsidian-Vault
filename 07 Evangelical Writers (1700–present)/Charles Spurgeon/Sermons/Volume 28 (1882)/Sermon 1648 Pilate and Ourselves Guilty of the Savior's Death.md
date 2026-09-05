@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # Pilate and Ourselves Guilty of the Savior's Death
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1648
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 5, 1882,.
+*Delivered on Lord's-Day Morning, March 5, 1882*
 
 > "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just Person: see you to it. Then answered all thepeople, and said, His blood be on us, and on our children." Matthew 27:24,25.
 
@@ -156,7 +155,6 @@ Come, my Hearers, there is no room for any of us to accuse his fellow—let us a
 "'Tis I to whom these pains belong, 'Tis I should suffer for my wrong. Bound hand and foot in heavy chains Your scourge, Your fetters, whatever You bear, 'tis my soul should bear, For she has wel deserved such pains. Yet you do even for my sake On you, in love, the burdens take That weighed my spirit to the ground! Yes You are made a curse for me That I might yet be blest through Thee: My healing in Your wounds is found."
 
 PORTION OFSCRIPTURE READ BEFORE SERMON—John 19i1-16. HYMNS FROM "OUR OWN HYMN BOOK"—152, 581, 580.
-
 
 ---
 [[Sermon 1647 The Dream of Pilate's Wife|← #1647]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1649 Freshness|#1649 →]]

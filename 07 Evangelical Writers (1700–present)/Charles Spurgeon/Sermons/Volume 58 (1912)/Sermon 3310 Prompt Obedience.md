@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Prompt Obedience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3310
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me." Psalm 18:44.
 
@@ -93,7 +90,7 @@ Let me ask you a most solemn question—Does the Son of God, Himself, bleed and 
 
 I wish I could put the Truth of God so plainly that you could not help seeing it, yet I know that the Holy Spirit must open your eyes or you will never see it, however clearly it is set before you. I pray Him to do it and to do it now—and so to fulfill those two glorious "shalls" in my text—"As soon as they hear of Me, they shall obey Me: the strangers shall submit themselves unto Me." This is my comfort—He who gave this promise and prophecy in its fullest and deepest meaning will certainly fulfill it! Blessed Master, make these potent "shalls" true in our midst tonight! Many have heard of You—give them the Grace to obey You! There are strangers here—may they submit themselves unto You and so be no longer strangers, "but fellow citizens with the saints; and of the household of God"! So may it be, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 9:1-17.
+## Exposition by C. H. Spurgeon: Matthew 9:1-17
 
 Verses 1, 2. AndHe enteredinto a boat, andpassed over, and came into His own city. And, behold, they brought to Him a man sick of the palsy, lying on a bed: and Jesus, seeing their faith, said unto the sick of the palsy; Son, be of good
 
@@ -124,7 +121,6 @@ charge, at http://www.spurgeongems.org .] This was another notable miracle, and 
 17\. Neither do men put new wine into old bottles: else the bottles break, and the wine runs out, and the bottles perish: but they put new wine into new bottles, and both are preserved.Do not expect from a young beginner that which would be unsuitable to him, even though it should be most comely and seemly in an aged Christian. And do not expect to see in an aged Christian all the vigor and alertness of spirit that you look for in ardent souls in all the fervor of their first love to Christ. Let us mind the relations of things.
 
 arose, and followed Him. [See Sermon #2493, Volume 42—"A MAN NAMED MATTHEW"]
-
 
 ---
 [[Sermon 3309 Christ the Seeker and Savior of the Lost|← #3309]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3311 The Water and the Blood|#3311 →]]

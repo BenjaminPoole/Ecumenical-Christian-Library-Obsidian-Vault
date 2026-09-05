@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Strong Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1367
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 15, 1877,.
+*Delivered on Lord's-Day Morning, July 15, 1877*
 
 > "But was strong in faith, giving glory to God." Romans 4:20.
 
@@ -152,7 +151,6 @@ I replied to my good Brother that he was right and I thanked him for the correct
 Brothers and Sisters, we shall never succeed in winning sinners to faith if we preach what we do not intensely believe. I do verily believe that the sinner is lost and that unless Grace saves him, he is lost forever. I believe that eternal punishment will fall upon him unless he repents and believes in Jesus Christ. I believe that Jesus shed his precious blood and that whoever believes in Him is saved beyond all fear of destruction, saved by the blood of the Lamb. We must preach in a believing manner, knowing our message to be true, or else men will die in unbelief! And, what is more, I do not think we shall have many conversions unless we expect God to bless His Word and feel certain that He will do so. We must not wonder and be astonished if we hear of a dozen or two conversions, but let the astonishment be that thousands are not converted when they hear such Divine Truth and when we ask the Holy Spirit to attend it with Divine energy.
 
 God will bless us in proportion to our faith! It is the rule of His Kingdom. "According to your faith so be it unto you." O God, give Your ministers more faith! Let us believe You firmly! Oh, that we could believe You up to the fullest possible measure of faith and never doubt You again! If the enemy number thousands, give us the faith of Samson to throw ourselves upon them and in the name of God to smite them! And though we, ourselves, as to all power to convert others are as dead men—and though the sinner is dead—yet help us to believe that souls can be begotten, again, by the preaching of the Gospel—and let us preach with confidence in Your Divine power. O Lord, grant this to us, for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1366 The Danger of Unconfessed Sin|← #1366]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1368 The God of Peace and Our Sanctification|#1368 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Unparalleled Suffering
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2573
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Christ also has once suffered." 1 Peter 3:18.
 
@@ -91,7 +88,7 @@ There I must leave the whole matter with you. But as you come to the Communion T
 
 And if there is anybody here who is not saved, remember, Friend, that your salvation depends upon the sufferings of Christ. If you believe on Him, then His sufferings are yours—they have taken away your sin and you are clear! Therefore, go your way and be glad.
 
-EXPOSITION BY C. H. SPURGEON: PSALM27; ROMANS 8:14-17.
+## Exposition by C. H. Spurgeon: Psalm 27; Romans 8:14-17
 
 Psalm 27:1. The Lord is my light and my salvation; First comes light and then salvation. We are not saved in ignorance. The knowledge of our sinfulness is revealed to us—we discover our true condition in the sight of God—and then we perceive the mercy and the love of God. We see first the light and then the fullness of salvation, for this is not a matter of the past only, but of the present. At this very hour, each Believer can say, "The Lord is my light and my salvation." Can you say that, dear Friend? If so, there is more real eloquence in that little sentence than in all the orations of Cicero!
 
@@ -148,7 +145,6 @@ Friend, by this test. Do you follow the Spirit's leading? Do you desire continua
 17\. Heirs of God. Not only heirs of what God chooses to give, but heirs of Himself! There need be nothing else said, if this is true! "The Lord is my portion, says my soul." "Heirs of God."
 
 17\. And joint-heirs with Christ; if it is so that we suffer with Him, that we may be also glorified together. Do you ever have in your heart a longing to behold the Glory of God? Do you feel pressed down when you see abounding sin? Are your eyes ready to be flooded with tears at the thought of the destruction of the ungodly? Then, you are having sympathy with Christ in His sufferings and you shall as certainly be an heir with Him, by-and-by, in His glory!
-
 
 ---
 [[Sermon 2572 Fellowship With Christ|← #2572]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2574 Persecuted, But Not Forsaken|#2574 →]]

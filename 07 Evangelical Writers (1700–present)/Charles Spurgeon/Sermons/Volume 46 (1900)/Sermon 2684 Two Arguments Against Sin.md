@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Two Arguments Against Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2684
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "However I sent unto you all My servants the Prophets, rising early and sending them, saying, Oh, do not do this abominable thing that I hate!" Jeremiah 44:4.
 
@@ -93,7 +90,7 @@ But hear it, O you heavens, and be astonished, O earth, as this strange story is
 
 How I wish that I knew how to say to you, in God's name, "Oh, do not this abominable thing that I hate!" Come, Friend, give up your sin! Renounce your folly! Trust in Christ—ask God to receive you. Say, "I will arise and go to my Father and will say to Him, Father, I have sinned." If you go to Him with that confession, you may be sure that He will receive you! Otherwise He would never have sent you tonight's pleading message. He would not have spared you to be here if He had not meant to accept you when you seek His face! Remember, the way of salvation is by trusting in the Lord Jesus Christ. You trust Him and then, by His Grace, He helps you to overcome sin! He gives you a new nature and you become saved. Trust Him now! The service is almost over and the clock has struck the hour for closing, but Mercy's hour has not yet struck. God still waits to be gracious! "Believe on the Lord Jesus Christ and you shall be saved." Trust Him now. May He enable you to do so by His infinite mercy! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH 1.
+## Exposition by C. H. Spurgeon: Jeremiah 1
 
 Verses 1-3. The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin: to whom the word of the LORD came in the days of Josiah, the son of Amon, king of Judah, in the thirteenth year of his reign. It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month. Jeremiah was a young man when he was called to the prophetic office and he was sent of God, as a young Prophet, to help the young king, Josiah. His public life, therefore, opened somewhat happily. But, after the death of Josiah, wicked kings sat upon the throne and it was the painful lot and yet, in some respects, the choice privilege, of this weeping Prophet to be sent upon his Master's errand, time after time, to a disobedient and gainsaying people who repaid him only evil while he sought their good. The Holy Spirit, you see, is careful to note important dates in the history of God's servants—and you and I should also keep a record of the times when God sets us to work and when He gives us special Grace for the service to which He has called us.
 
@@ -128,7 +125,6 @@ word of the LORD came unto me the second time, saying, What do you see? And I sa
 Send all your fears to Heaven and there let them stay there!
 
 18, 19. For, behold, Ihave made you this day a fortified city, andan ironpillar, and bronze walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land. And they shall fight against you; but they shall not prevail against you; for I am with you, says the LORD, to deliver you.
-
 
 ---
 [[Sermon 2683 The Bitterness of the Cross|← #2683]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2685 The Oft-Repeated Invitation|#2685 →]]

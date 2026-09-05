@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 13. The Second Wall.
-
-#### *The Second Wall* .
 
 The second wall is even more tottering and weak: that they alone pretend to be considered masters of the Scriptures; although they learn nothing of them all their life, they assume authority, and juggle before us with impudent words, saying that the Pope cannot err in matters of faith, whether he be evil or good; albeit they cannot prove it by a single letter. That is why the canon law contains so many heretical and unchristian, nay, unnatural laws; but of these we need not speak now. For whereas they imagine the Holy Ghost never leaves them, however unlearned and wicked they may be, they grow bold enough to decree whatever they like. But were this true, where were the need and use of the Holy Scriptures? Let us burn them, and content ourselves with the unlearned gentlemen at Rome, in whom the Holy Ghost dwells, who however can dwell in pious souls only. If I had not read it, I could never have believed, that the Devil should have put forth such follies at Rome and find a following.
 

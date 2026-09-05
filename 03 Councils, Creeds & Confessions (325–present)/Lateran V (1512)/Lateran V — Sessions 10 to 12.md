@@ -13,10 +13,9 @@ tags:
   - church-councils
   - written/16th-century
 ---
-
 # Sessions 10 to 12
 
-SESSION 10
+*Session 10*
 
 4 May 1515
 
@@ -72,7 +71,7 @@ Leo, bishop, servant of the servants of God, with the approval of the sacred cou
 
 To prevent them being able to bring up some further point against what has been set out and to claim a legitimate ignorance, and in order that their obstinacy may be overcome, we once again, with the approval of the sacred council, give notice and warning, regarding a final and definitive dead-line, to the clergy and laity, including nobles, prelates and their supporters, and to colleges of clerics and of seculars, that they must lawfully assemble (putting aside every excuse and delaying action) before I October next. We are extending the dead-line, for the aforesaid reasons and in order to remove all excuses, to the said I October, by way of a final postponement; and we grant and assign this anew. Once the dead-line has passed, however, proceedings will go forward at the next session to other matters and to the conclusion of the said business, even by means of a definitive sentence, notwithstanding their obstinacy and refusal to appear. This next eleventh session we summon for these and many other useful matters. with the approval of the sacred council, for 14 December after the next feast day of St Lucy. Let nobody therefore … If anyone however...
 
-SESSION 11
+## Session 11
 
 19 December 1516
 
@@ -142,7 +141,7 @@ We wish and decree that each and all of the above norms are to be extended to an
 
 We warn the friars, in virtue of holy obedience, to revere bishops with fitting honour and due respect, out of the reverence owed to us and the apostolic see, since they act as deputies in place of the holy apostles. As for bishops, we urge and appeal by the tender mercy of our God that, while attending to the friars with well-disposed affection, treating them with kindness and encouraging them, they present themselves to them as in no sense difficult or hard or peevish, but rather as easy, mild, well-disposed and liberal in loving generosity, and that in all the above-mentioned matters they welcome them with ready kindness as co-workers in the Lord’s vineyard and as sharers in their labours, and that they guard and defend their rights with all charity, so that both bishops and friars, whose works as burning lamps set on a hilltop ought to provide light to all Christ’s faithful, may move forward from strength to strength for the glory of God, the triumph of the catholic faith and the salvation of peoples, and in consequence deserve to obtain from the Lord, the most generous recompenser of all good deeds, the reward of eternal life. Let nobody therefore... If anyone however...
 
-SESSION 12
+## Session 12
 
 16 March 1517
 

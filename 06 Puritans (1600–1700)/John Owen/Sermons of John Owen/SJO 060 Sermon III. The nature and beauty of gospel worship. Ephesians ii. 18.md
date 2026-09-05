@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon III. The nature and beauty of gospel worship. Ephesians ii. 18
-
-## Sermon III. The nature and beauty of gospel worship.
 
 “For through him we both have access by one Spirit unto the Father.” Eph. ii. 18.
 
@@ -97,7 +94,6 @@ Now, as this tends exceedingly to the consolation of believers, so it stains the
 Thirdly. Christ, as the high priest of the saints, presents both their persons and their duties in the presence of and before the Lord. This is that which was signified of old in the high priest’s precious stones set in gold on his breast and shoulders, with the names of the children of Israel in them, Exod. xxviii. 21. Christ, our high priest, is entered into the holy place for us, and there presents all his saints and their worship before the Lord, being “not ashamed to call them brethren,” and saying of them, “Behold I and the children which the Lord hath given me.”
 
 And this is the fourth thing in the words, manifesting the excellency and glory of gospel worship, taken from the principal procuring cause:— It is an access to God, *through Christ*.
-
 
 ---
 [[SJO 059 Sermon II. The strength of faith. Romans iv. 20|← Sermon II. The strength of faith. Romans iv. 20]] · [[Sermons of John Owen|Contents]] · [[SJO 061 Sermon IV. The nature and beauty of gospel worship. Ephesians ii. 18|Sermon IV. The nature and beauty of gospel worship. Ephesians ii. 18 →]]

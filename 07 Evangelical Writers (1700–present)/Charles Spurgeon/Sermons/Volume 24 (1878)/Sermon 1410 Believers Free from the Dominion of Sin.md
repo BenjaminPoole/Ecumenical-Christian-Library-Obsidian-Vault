@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Believers Free from the Dominion of Sin
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1410
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 21, 1878,.
+*Delivered on Lord's-Day Morning, April 21, 1878*
 
 > "For sin shall not have dominion over you: for you are not under the Law, but under Grace." Romans 6:14.
 
@@ -172,7 +171,6 @@ The spirit of the world is legal and its wise men tell us that we must preach to
 This looks, at first sight, as if it gave a license to sin, but how does it turn out? Why, this wondrous Grace taking possession of the human heart breeds love in return, which love becomes the fountain of purity and holiness—and such as receive it endeavor to perfect holiness in the fear of God! Beloved, do not get under the Law! Do not yield to legal threats or legal hopes, but live under the Free Grace Gospel. Let the note that peals on your ears be no longer the thunder of Sinai, "Do and live," but let it be the sweet song of free Grace and dying love!
 
 Ah, ring those charming bells from morn till eve! Let us hear their liquid music again and again! Live and do! Not do and live—not work for salvation, but being saved, work! Being already delivered, go forth and prove, by your grateful affections and zealous actions, what the Grace of God has done for you! "Whoever believes in Jesus Christ has everlasting life." "He that believes and is baptized shall be saved, but he that believes not shall be damned." Amen.
-
 
 ---
 [[Sermon 1409 The Shortest of the Seven Cries|← #1409]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1411 Under Constraint|#1411 →]]

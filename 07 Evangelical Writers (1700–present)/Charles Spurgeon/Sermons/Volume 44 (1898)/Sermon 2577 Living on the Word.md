@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Living on the Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2577
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Man does not live by bread only, but by every word that proceeds out ofthe mouth of the LORRD does man live." Deuteronomy 8:3.
 
@@ -114,7 +111,6 @@ There are some of God's Words that are very short, but they contain an abundance
 If there is a poor soul here that needs to find eternal life, my dear Friend, I bid you seek it in God's Word and nowhere else. "I thought I would go home and pray," says one. Do so, but, at the same time, remember that your prayers are of little worth without God's Word. Hear God's Word, first, and then go and tell God your own word, for it is in His Word of promiserather than in your word of prayer that salvation is to be found! Remember that grand sentence in the Book of Exodus where God says, "When I see the blood, I will pass over you." It is not said, "When you see the blood," but when I see it! So, when God looks upon Christ's shed and sprinkled blood, it is then that He looks on you with pity and compassion! Look where God looks and then your eyes will meet His! If you look to Christ, and God looks to Christ, then you shall see eye to eye, and you shall find joy and peace in believing. God the Father admires Christ.
 
 Poor soul, do you admire Him, too? Then there will be a point on which you will both be agreed. God the Father entrusts His honor and glory to Christ—trust your soul with Christ—for so you will be agreed. God grant that you may do so this very hour! Remember this one text as you go your way—"He that believes on the Son has everlasting life." God grant that every one of you may have that everlasting life, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2576 Zion's Prosperity|← #2576]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2578 Refusing to Be Comforted|#2578 →]]

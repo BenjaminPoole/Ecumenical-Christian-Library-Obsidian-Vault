@@ -9,7 +9,6 @@ epub_file: "works1.i.xxiii.html"
 tags:
   - jonathan-edwards
 ---
-
 # CHAPTER XXIII.
 
 SICKNESS OF MR. EDWARDS—“GODS LAST END IN CREATION”—“NATURE OF VIRTUE”—MR. EDWARDS SECOND SON RESIDES AT ONOHQUAUGA—DANGERS OF THE WAR—LETTER TO MR. ERSKINE—LETTER TO COL. WILLIAMS—LORD KAIMES—LETTER TO MR. ERSKINE—LETTER TO MR. M’CULLOCH—LETTER OF DR. BELLAMY—“TREATISE ON ORIGINAL SIN”—LETTER TO HIS FATHER—LETTER TO MR. ERSKINE.
@@ -138,7 +137,7 @@ dear sir,
 
 I am in pain, fearing our army against Crown Point will be defeated. God only knows how it will be. Your own discretion will make you sufficiently speedy, to secure yourself and family. We stand as ready to receive you, and any of your family, to all the comforts our house affords, as if you were our children. I am greatly interested in your safety.—I am concerned for Mr. Hawley. I fear he will be too venturesome, and fling away his life for nothing.—I wish, if you know how to get one along, you would send him a letter.—Our youngest child still remains somewhat unwell. The Indian boys grow more and more easy and content, but they love play too well—are very ignorant—and very stupid, as to the things of religion—and in arithmetic, when I would teach them any thing that is a little difficult, they are soon discouraged, and don’t love to try. So I take them off, and put them to writing again—designing, by little and little, to get them along. They will not endure hardship, and bend their minds to business, like English boys. It seems they were never taught their catechism. Shall I teach it? I have got three Bibles; but have not yet given them to the boys, they are so ignorant. I expect you will give me any instructions you think proper; and remain, Rev. Sir,
 
-J. BELLAMY”
+## J. Bellamy”
 
 It is probable that Mr. Edwards began his Treatise on Original Sin about this period, and that he devoted the leisure hours of the summer, autumn, and winter, to the preparation of that work. The date of the author’s preface, May 26, 1757, shows the time when it was finished for the press.
 

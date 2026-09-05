@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/47
 ---
-
 # Lost Through One-Saved Through One
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2744
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift which came from many offenses resulted in justification." Romans 5:16.
 
@@ -113,7 +110,7 @@ Lastly, we ought especially to adore the love and mercy of God in that His plan 
 
 The Lord bless you, Beloved, and give you to know all this in your own souls, for His dear Son's sake! Amen.
 
-EXPOSITION BY C H. SPURGEON: ROMANS 5:6-21.
+## Exposition by C H. Spurgeon: Romans 5:6-21
 
 Verse 6. For when we were yet without strength, in due time Christ died for the ungodly. This is one of the most surprising sentences on record. If it had not been Inspired, there are many who would quibble at it. Indeed, many do quibble at it even now, for it is still currently believed that Christ must have died for the righteous. Yet thus is it written—"In due time Christ died for the ungodly." And this is the commendation of that death, and of the love which suggested it!
 
@@ -142,7 +139,6 @@ so"—
 20\. But where sin abounded, Grace did much more abound. Blessed be God for that! Sin may be a river, but Grace is an ocean. Sin may be a mountain, but Grace is like Noah's flood which prevailed over the tops of the mountains fifteen cubits upward.
 
 21\. That as sin has reigned unto death, even so might Grace reign through righteousness unto eternal life by Jesus Christ our Lord. Do you know, dear Friends, by personal experience, all about this of which we have been reading? I know that many of you do. Would God that all did—that they understood, by a living faith, what it is to be justified, having first understood, by sorrowful experience, what a sense of condemnation the guilty soul must feel. The Lord bring you all to Himself, by Jesus Christ! Amen.
-
 
 ---
 [[Sermon 2743 Mistaken Notions About Repentance|← #2743]] · [[Volume 47 (1901)|Volume 47 (1901) Contents]] · [[Sermon 2745 Intercession and Supplication|#2745 →]]

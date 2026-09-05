@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Everywhere And Yet Forgotten
 
 *New Park Street Pulpit* · Sermon No. 326
 
-DELIVERED ON SABBATH MORNING, JULY 29, 1860, BY THE REV. C. H. SPURGEON, AT EXETER HALL, STRAND..
+*Delivered on Sabbath Morning, July 29, 1860, by the Rev. C. H. Spurgeon, at Exeter Hall, Strand*
 
 > Job 12:9,10.
 
@@ -72,7 +71,6 @@ In conclusion, my last word is to the sinner. You, who have not been converted, 
 wings and fly away at His will. He can fill your body with pains so terrible that you shall long for death, itself, to escape from them. He can make visions flit before your eyes, both when you sleep and when you wake, that shall so scare you that you would prefer the company of the devils in Hell to solitude! God can make you such a Hell to yourself, that you would seek either knife or poison to escape from your own thoughts—and that He can do, and you cannot escape—no wings can bear you above His dominion! No depth can hide you from His sway! But now, what is the path of wisdom? Is it wise to curse God, in whose hands your breath is? Is it a rational thing to treat with indifference Him upon whom you depend for time and for eternity? Your own self-interest would dictate a wiser course! Dash not your head against the bosses of His buckler. Be not mad enough to run upon His glittering spear. What does wisdom say to you if you will but listen? It cries, "Be reconciled to God." You cannot resist Him effectually—throw down your weapons and yield!
 
 And what does the Scripture say to you? It says, "Today if you will hear His voice, harden not your heart." What says the Church to you? It says, "Christ has received us—the Bride says, come." What says Christ to you? "I, even I, am He who blots out your transgressions for My own sake." "Look unto Me, and be you saved, all the ends of the earth." "Bow the knee and kiss the Son, lest He is angry, and you perish from the way when His wrath is kindled but a little." Oh, Spirit of God, speak to the madmen and make them sane! Speak to the men who fight against God, and bid them tremble at Him, and yield and seek His favor! O Sinner, remember what He has said, "He who being often reproved, hardens his neck, shall suddenly be destroyed and that without remedy." Hear you, in conclusion, those sweet Words of His—"Whoever will, let him come. The Spirit and the Bride say, come. And let him who hears say, Come. And let him who is thirsty come. And whomever will, let him take the water of life freely."
-
 
 ---
 [[Sermon 0325 Constraining Love|← #325]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0327 Vessels Of Mercy—A Sermon Of Self-Examination|#327 →]]

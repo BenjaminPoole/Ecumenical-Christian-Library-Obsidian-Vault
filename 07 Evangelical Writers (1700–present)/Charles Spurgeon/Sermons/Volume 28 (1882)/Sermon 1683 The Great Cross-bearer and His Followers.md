@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # The Great Cross-bearer and His Followers
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1683
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 8, 1882,.
+*Delivered on Lord's-Day Morning, October 8, 1882*
 
 > "And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him, and led Him out to crucify Him." Mark 15:20.
 
@@ -146,7 +145,6 @@ I know a man who merely comes to this place of worship because he is somewhat in
 Last of all, if you and I are cross-bearers, here is a sweet thought. Are we carrying a cross which presses us heavily just now? You know you are to be like your Master and if so, there will be someone found to help you bear your cross. They found Simon to bear the Cross of Jesus and there is a Simon somewhere to help you. Only cry to the Lord about it and He will find you a friend. If Simon is not forthcoming, I will tell you what to do. Imitate Simon. If Simon was what I think he was, he became a converted man and, before long, found himself in trouble through it. And so he at once went to the Lord in prayer, and said, "Lord Jesus I am resting in You, alone. You did give me the honor to carry Your Cross once, now, I beseech You, carry mine!"
 
 This is what I want you to do with your crosses at this time. You that have to endure hardness for Christ and are glad to do it, ask Him to bear your burden for you! He has borne your sins and, if you will but commit your troubles to Him, joy and peace through believing shall stream into your souls by His Holy Spirit. God bless you, for Christ's sake.
-
 
 ---
 [[Sermon 1682 Ask and Have|← #1682]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1684 Feed My Lambs—a Sunday School Sermon|#1684 →]]

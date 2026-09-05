@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # The Dejected Lover
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3485
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "By night on my bed I sought Him whom my soul loves: I sought Him, but I found Him not. I willrise now, and go about the city in the streets and in the broad ways I will seek Him whom my soul loves: I sought Him but I found Him not. The watchmen that go about the city found me: to whom I said, Sawyou Him whom my soul loves? It was but a little that I passed from them, but I found Him whom my soul loves: I held Him, and would not let Him go, until I had brought Him into my mother's house, and into the chamber of her that conceived me." Song of Solomon 3:1-4.
 
@@ -25,7 +22,7 @@ DELIVERED BY C. H. SPURGEON,.
 
 How exquisitely pleasant is communion with our Lord Jesus Christ! And how supremely favored are those who enjoy it! Holy Scripture exhausts every earthly figure to delineate its sacred charms, its ineffable delights! Yes, Inspiration, itself, exhausts its metaphors without compassing its mystery, because it is impossible for human language to express the sweetness of His Grace, or the solace of our acquaintance with Him. In just so much as it is sweet to know that fellowship, so is it sad not to know or to experience it. But alas, how frequently is this communion unfelt and unproved!
 
-I. THE BRIDEGROOM WAS MISSED.
+## I. The Bridegroom Was Missed
 
 In addressing this large assembly, I can but think a considerable number of the Lord's people are in the condition of the spouse. You do not at present enjoy access to Christ, or sweet communion with Him. It may do you good to consider the things that remain to you, though this fellowship is suspended, for let it be remembered that it is not upon communion with Christ our life depends. Our salvation stands in the knowledge of Him, not in communion with Him. We are made safe by what He has done, not by what we feel. Not our enjoyments, but His sufferings we must lay as the solid foundation of our hope!
 
@@ -63,7 +60,7 @@ Once again, in trusting in the scrupulous using of the means, the bride seems to
 
 What a difference there is between our preaching at one time and our preaching at another! How often do I bless God in the evening for that which I groaned over in the morning, when my spirit has been bowed, my tongue tied, and I could not preach as I would! It is a grand thing for the minister to be humbled in the sight of his hearers, when you discern that it is not the man in whom the power is vested, but it is his God whose might you cannot resist! My fear often is that your smiles may provoke His frowns and He may withhold His blessing from me because you attribute to some genius of mine an influence which His Spirit, alone, could exert. When I was only a lad, a stripling fresh from the country, you said when there were conversions, "How God helps him!" I am jealous of you, now, lest you should not say the same thing! God will take away His blessing when you refrain from offering Him the praise! If you once ascribe what is done in any degree whatever to the creature, or to any power that he has, you will excite the jealousy of his Lord! Remember the lessons that the spouse was taught. Means and ordinances are just what God likes to make them. Even Divine institutions are beggarly elements when He forsakes them. They can be nothing better than matters of duty and they may be very far from being matters of privilege. When He wills it, He can make His ministers do exploits. The least of all His servants shall be mighty as David was when He slew the giant, Goliath, with only the sling and stone. We are nothing of ourselves. The hand that moves the instrument is everything. If you would come to Christ, or seek after Christ, looking too much to the means, you will have to return again with the mournful cry, "I sought Him, but I found Him not." Such, then, are the unsuccessful efforts to regain communion with Christ.
 
-III. WE FIND THE SUCCESSFUL HERE SET SIDE BY SIDE WITH THE UNSUCCESSFUL.
+## III. We Find the Successful Here Set Side by Side with the Unsuccessful
 
 We shall now hold her up as an example which you will do well to imitate. With what constancy she sought this communion! She began at the dead of night, as indeed it is never too late to seek renewed fellowship. Yet she sought on. The streets were lonely and it was a strange place for a woman to be at such a strange time, but she was too earnest in seeking to be abashed by such circumstances. The watchmen met her, and they were astonished, as well they might, how she came to be there at that hour. But she sought on—she would never rest until she had found Him. Believer, if you would have fellowship with Christ, you must be in continual quest after it! Your soul must get a craving for the one thing, and that such a craving as nothing but that one thing can satisfy. I would my own soul were like Anacreon's harp, only in a better sense. You know he said, though he wished to sing of Cadmus, his harp would sing of love, alone. Oh, that we might sing of the love of Jesus and of His love, alone! Then it would not be long before our fellowship with Him would be renewed!
 
@@ -89,7 +86,7 @@ and a better life? Are there other and brighter joys than we have ever tasted? D
 
 Ah! thoughtless, heedless sinner! Be you a high caste or a low caste sinner, know this, that Jesus Christ, the Son of God, bled on the Cross and died for such as you are! Whoever believes in Him shall never perish, but have everlasting life. Trust in Him and you are saved! This is the love which won our hearts. Oh, may it win yours! The things of which we have been speaking do but spring from that simple fact that He loved us and gave Himself for us. The way in which we learned the mystery of His love is as open to you as it was to us. This was the way. We put our trust in Him. We knew we were not worthy of Him, but we did trust Him. Through His Grace we did, without introduction or preparation, draw near to Him and cast ourselves on His mercy. May you do the same! Let there not be an hour's delay, for the days are flying—the years are flying. Your grave is very close—within a few days you may be carried there. Fly at once to Him who bids you trust Him! God help you to do this, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 PETER 2.
+## Exposition by C. H. Spurgeon: 1 Peter 2
 
 Verses 1, 2. Therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speaking. As newborn babes, desire the sincere milk of the Word, that you may grow thereby. Have we not constantly declared that our faith, if true, is always practical? Here, again, we have the precepts of God's Word. Here we are told that there is much for us to lay aside, as if it were natural to us in every case, and must, therefore, be carefully laid aside. "Malice"— we are all inclined to return evil for evil—the Christian must not do so. "All guile"—everything like craft and cunning—this is unbecoming in a Christian. "Hypocrisy"—seeming to be what we are not—all sorts of mere seeming we must lay aside. "And envy"—how easy it is for us to envy one man his wealth, or another his health, or another his talents—but "all envy" the Christian must have done with! "And evil speaking"—it is painful to reflect how much of evil speaking there is among persons who we still hope are good people. They are very fond of repeating stories to the disadvantage of their fellow Christians. Now, whether you are the author of it or not, do not be the retailer of it, for we are here told to lay aside all evil speaking. But then the religion of Jesus Christ does not consist in negatives! It is not merely what we are to lay aside—there is something to be taken up. We are told that as we are born-again, we are to consider ourselves as newborn babes, and are to desire the unadulterated milk of God's Word, that we may grow thereby. It is not enough to be alive—we should desire to grow. To be saved is a great blessing—we ought not, however, to be contented with being barely saved—we should seek after the Graces of the Spirit and the excellent work of God within us.
 
@@ -118,7 +115,6 @@ And having obtained mercy, we will never cease to bless the name of God!
 21-23. Because Christ also suffered for us, leaving us an example, that you should follow His steps: Who did no sin, neither was guile found in His mouth: Who, when He was reviled, reviled not again; when He suffered, He threatened not, but committed Himself to Him who judges righteously. Herein is he a pattern of patience to all His people.
 
 24-25. Who His own Self bore our sins in His own body on the tree, that we being dead to sins, should live unto righteousness. By whose stripes you were healed, for you were as sheep going astray, but are now returned unto the Shepherd and Bishop of your souls
-
 
 ---
 [[Sermon 3484 Daniel—a Pattern for Pleaders|← #3484]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3486 God's Desire for Us, and His Work in Us|#3486 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Pleading With the Indifferent
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3360
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Is it nothing to you, all you that pass by? Behold, and see if there is any sorrow like unto my sorrow, which is done unto me, wherewith the Lord has afflicted me in the day ofHis fierce anger." Lamentations 1:12.
 
@@ -27,7 +24,7 @@ But may there not have been griefs as great as those of Jeremiah? Is the languag
 
 This evening two things challenge our attention—an earnest expostulation—"Is it nothing to you, all you that pass by?" And a solemn question—"Behold, and see, was there ever sorrow like unto my sorrow, which is done unto me?" First—
 
-I. AN EARNEST EXPOSTULATION.
+## I. An Earnest Expostulation
 
 The Son of God has become Incarnate. He became Man out of love to men. But men loved Him not and though in Him was every perfection, they hunted and hounded Him to death! The story is told four times over by Inspired authority in this Book, but the mass of mankind feel no concern in it. I come here tonight and I say to many of you—does not the story of Jesus at all interest you? You heard it read just now, did it fall flat and stale upon your ears? Did you say to yourselves, "It is dry work to listen to that. There is nothing there to strike the attention. If I had taken up a newspaper and had read of some murder, my wits would have been all awakened, but in the hearing of this death of Christ, I feel not at all stirred." Well, then, I ask you—Why is this? Why is it so? If there is anything in all the world that ought to interest a man, it is the death of Christ! Yet I find men, learned men, spending year after year in sorting out butterflies, beetles and gnats, or in making out the various orders of shells, or in digging into the earth and seeking to discover what strange creatures once floundered through the boundless mire, or swam in the vast seas! I find men occupied with things of no sort of practical moment and which, to me, do not seem so wonderfully enchanting. Yet the story of God, Himself, who deigned to become a man and as a Man suffered, and bled, and died, is thought to be too small a trifle for minds to dwell upon it. O reason! Where have you gone? O judgment! Where have you fled? Men spend their strength on trifles, but on God Incarnate they turn their backs!
 
@@ -51,7 +48,7 @@ If it were not that I had sinned, as one of the race, there had been no need for
 
 May God bless this admonition and my heart shall be glad, indeed, if He will but do it. Oh, how little can I do for you, you unconverted ones, how little can I do for you! When I sometimes get a handshake from some of you, and you say, "Well, I have been hearing you for years, Sir, but I am not converted," I look hopefully upon you, but I cannot help, when I get away, reproaching myself in part and saying, "Have I preached to these people as I ought to?" You make me wake up at night to weep about you and to ask myself again and again, "What more can I say? How shall I put it? With what force and power can I deliver it, if perhaps I may reach their hearts?" Oh, I trust you may yet be brought—and God shall be praised and glorified world without end! Now, let us change to a second point—
 
-II. A SOLEMN QUESTION.
+## II. A Solemn Question
 
 The Lord Jesus Christ may be represented here as bidding men see if there is any sorrow like unto His sorrow which is done to Him. Now, observe, that it may be truthfully said that the sufferings of Jesus were altogether unique and by themselves. There were never any sufferings which could match His—and never was there such an illustrious sufferer put to such boundless shame. He was the eye of Heaven, the very sun and star of the bright world! It was the seraph's bliss to do Him homage. King of kings and Lord of lords was He, and the government was upon His shoulders! And His name was called Wonderful, The Counselor, The Mighty God, The Everlasting Father, The Prince of Peace! All the hallelujahs of eternity rolled up at His august feet! But He was despised and rejected of men, a Man of Sorrows and acquainted with grief! And we hid, as it were, our faces from Him. He was despised and we esteemed Him not. They spat into His face. They plucked off His hair. They blindfolded Him. They struck Him with their fists. They scourged Him. The bloody scourges made the sacred drops roll. They gave Him a felon's death and then stood by and mocked His prayers and made jests about His groans and pangs! Never was One so high brought so low. "Behold and see if there were ever sorrow like unto My sorrow, which is done unto Me." Never One so innocent, so falsely accused. He had done no evil. He was no rival of Caesar. He said His Kingdom was not of this world. Instead of doing evil, He had done boundless good. His food and His drink were to do God's will. His delight was to help the poor, to feed the hungry, to heal the sick. He was all gentleness, all goodness. From both His hands He scattered His bounties lavishly among the graceless sons of men—and yet they said He was guilty of sedition and of blasphemy! He, seditious? He a blasphemer? Lying could go no farther! Bribed witnesses could not be made to agree! The lie was too massive even for those to compass who were willing to have compassed it! Oh, was ever grief like His—to be treated as a felon and put to death as though guilty—when all the while He did no sin, neither was deceit found on His lips!
 
@@ -73,7 +70,7 @@ If Christ is thus alone in suffering, Brothers and Sisters, let us seek to make 
 
 The Lord give us such a frame of mind as that, tonight, when we come to the breaking of bread, and His be the glory. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM 69:1-21; MARK 15:15-23; LUKE23:26-33.
+## Exposition by C. H. Spurgeon: Psalm 69:1-21; Mark 15:15-23; Luke 23:26-33
 
 We shall read together at this time a part of the 69th Psalm and afterwards two passages in the New Testament. Although there is no doubt that this Psalm is intended to describe a very large class of sufferers, we think it never had its full meaning perfectly carried out until our blessed Lord and Master suffered at the hands of men. We shall read the Psalm believing that it is full of Christ. It is absolutely certain that we have references hare to His Advent, His passion and His Resurrection.
 
@@ -115,13 +112,13 @@ Verse 1. Save me, O God, for the waters are come into My soul. The waves have no
 
 20, 21. And I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I foundnone. They gave Me also gall for My meat; andin My thirst they gave Me vinegar to drink. Now, let us read the incidents in the history of Christ, of which this Psalm is a sort of prophecy and exposition.
 
-MARK 15:15-23.
+## Mark 15:15-23
 
 Verses 15-23. And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged Him, to be crucified. And the soldiers led Him away into the hall which is called Praetorium; and they called together the whole band. And they clothed Him with purple, and platted a crown of thorns, and put it about His head. And began to salute Him, Hail, King of the Jews. And they smote Him on the head with a reed, and did spit upon Him, and bowing their knees worshipped Him. And when they had mocked Him, they took off thepurple from Him, and
 
 put His own clothes on Him, andledHim out to crucifyHim. And they compelled one Simon, a Cyrenian whopassed by, coming out of the country, the father of Alexander and Rufus, to bear His Cross. And they brought Him unto the place called Golgotha, which is, being interpreted, the place of a skull. And they gave Him to drink wine mingled with myrrh: but He received it not. I shall have to show you that this was given to Him in mercy. The Romans always gave, before crucifixion, a cup of drugged wine, in order to lessen the sensibilities of the victim. In this case there was not only myrrh in the cup, but gall. A second cup of gall Christ did drink, but this cup, being intoxicating, He would not receive—when He had tasted it, He would not drink. He needed the possession of all His faculties—and in their clearest state—in order to do combat with the dreadful powers of darkness.
 
-LUKE23:26-33.
+## Luke 23:26-33
 
 Luke supplies some particulars which Mark has left out. Turn, therefore, to the 23rd Chapter of Luke and the 26th verse. Luke, also, tells us of Simon.
 
@@ -134,7 +131,6 @@ Verse 26. Andas theyledHim away, theylaidhold upon one Simon, a Cyrenian, coming
 32\. And there were also two other, malefactors. It should be "others"—there should be an "s" there. 32, 33. Led with Him to be put to death. And when they were come to the place which is called Calvary, there they crucified Him, and the malefactors, one on the right hand and the other on the left. Shall we refuse to take up our cross and follow the Lord Jesus Christ? I think not. If any ask us whether we will leave Him because of the fears which may be excited by the world's frowns, this shall be our answer—let us sing it—with regard to the world and all its temptations—
 
 "No, facing all its frowns or smiles, Counting its gain but loss! Outside the camp we take our place, With Jesus bear the Cross."
-
 
 ---
 [[Sermon 3359 Penitence, Pardon and Peace|← #3359]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3361 God's Valiant Right Hand|#3361 →]]

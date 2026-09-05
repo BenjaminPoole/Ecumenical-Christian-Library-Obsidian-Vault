@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 6
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**"THROUGH" NOT ENGULFED**
+## **"Through" Not Engulfed**
 
 > When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee" Isa. 43:2
 
@@ -23,7 +22,6 @@ Bridge there is none: we must go through the waters, and feel the rush of the ri
 The enemies of God can put in our way dangers of their own making, namely, persecutions and cruel mockings, which are like a burning fiery furnace. What then? We shall walk through the fires. God being with us, we shall not be burned; nay, not even the smell of fire shall remain upon us.
 
 Oh, the wonderful security of the heaven-born and heaven-bound pilgrim! Floods cannot drown him, nor fires burn him. Thy presence, O Lord, is the protection of thy saints from the varied perils of the road. Behold, in faith I commit myself unto thee, and my spirit enters into rest.
-
 
 ---
 [[FCB December 5|← December 5]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 7|December 7 →]]

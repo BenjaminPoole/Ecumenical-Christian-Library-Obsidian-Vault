@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # The Well-beloved's Vineyard
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3319
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My Well-Beloved has a vineyard on a very fruitful hill." Isaiah 5:1.
 
@@ -73,7 +70,7 @@ Blessed be God, we are where we have ourselves often grown. We have enjoyed our 
 
 "While such a scene of sacred joys Our raptured eyes and souls employ, Here we could sit and gaze away A long, an everlasting day! Well, we shall quickly pass the night To the fair coasts of perfect light— Then shall ourjoyful senses rove O'er the dear Object of our love! There shall we drink full draughts of bliss, And pluck new life from heavenly trees—— Yet now and then, dear Lord, bestow A drop of Heaven on us below."
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 5:1-19; PSALM 121:1-7.
+## Exposition by C. H. Spurgeon: Isaiah 5:1-19; Psalm 121:1-7
 
 Verse 1. Now will I sing to my Well-Beloved a song of my Beloved touching His vineyard. My Well-Beloved has a vineyard on a very fruitful hill The Song of the Vineyard it by no means a joyful soul. It is, indeed, quite the reverse. It is pitched in the minor key and has a painful theme. This suffices to prove that all our hymns need not consist, as some affirm, of direct praise to God. Such a notion is not according to Scripture, for many of the Psalms are not of that character. There are songs that can be sung to the edification of one another and that is, in part, the design of sacred song. We speak to ourselves as well as to God in Psalms and hymns and spiritual songs. "My Well-Beloved has a vineyard on a very fruitful hill." The members of the Church of God are placed in a position where they have very choice opportunities of glorifying God—they are like a vineyard on a very fruitful hill—most favorably placed for fruitfulness.
 
@@ -112,7 +109,6 @@ Psalm 121:1. I will lift up my eyes unto the hills, from whence comes my help. I
 6\. The sun shall not smite you by day, nor the moon by night None but the Lord could shelter us from these tremendous forces. There are dangers of the light and of the dark, but in both and from both we shall be preserved— literally from excessive heat and from baneful chills—mystically from any injurious effects which might follow from Doctrine, bright or dim—spiritually from the evils of prosperity and adversity—eternally from the strain of overpowering Glory and from the pressure of terrible events, such as judgment and the burning of the world. Day and night make up all time—thus the ever-present protection never ceases.
 
 7\. The LORD shall preserve you from all evil: He shall preserve your soul It is a great pity that our admirable translation did not keep to the word, "keep," all through the Psalm, for all along it is one. God not only keeps His own in all evil times but from all evil influences and operations, yes, from evils, themselves! This is a far-reaching word of covering—it includes everything and excludes nothing—the wings of Jehovah amply guard His own from evils great and small, temporary and eternal. Soul-keeping is the soul of keeping. If the soul is kept, all is kept. The preservation of the greater includes that of the lesser so far as it is essential to the main design. The kernel shall be preserved and in order thereto, the shell shall be also preserved. Our soul is kept from the dominion of sin, the infection of error, the crush of despondency, the puffing up of pride—kept from the world, the flesh, and the devil—kept for holier and greater things! Kept in the love of God, kept unto the eternal Kingdom and Glory! What can harm a soul that is kept of the Lord?
-
 
 ---
 [[Sermon 3318 How to Read the Bible|← #3318]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3320 A Bad King's Good Son|#3320 →]]

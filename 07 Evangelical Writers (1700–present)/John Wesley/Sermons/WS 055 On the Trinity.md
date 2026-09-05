@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 55. On the Trinity
 
-ADVERTISEMENT
+*Advertisement*
 
 Some days since I was desired to preach on this text. I did so yesterday morning. In the afternoon I was pressed to write down and print my sermon, if possible, before I left Cork. I have wrote it this morning; but I must beg the reader to make allowance for the disadvantages I am under; as I have not here any books to consult, nor indeed any time to consult them. Cork, May 8, 1775.
 

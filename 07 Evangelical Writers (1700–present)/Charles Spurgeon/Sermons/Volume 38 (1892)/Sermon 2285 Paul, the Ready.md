@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # Paul, the Ready
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2285
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am ready." Romans 1:15.
 
@@ -111,7 +108,7 @@ To be ready, especially to be ready to die, removes all fear of death. I wish we
 
 And I think it takes away a thousand ills if we are ready for service, ready for suffering, ready to die. I will tell you one thing, dear Sister over yonder, you would not be so ready to stay as you are if you were ready for the Lord's work and the Lord's will. And you who are ready to perish would get out of that sad kind of readiness if you came and trusted Christ and became ready to suffer, or to do the Master's will. The Lord is ready to pardon! May we be ready to believe. May we come at once to Him, accept salvation through Jesus Christ, and then all through the rest of our lives say to the great Captain of our salvation what good sailors reply to their captain's call, "Ready, yes ready! Ready for storms and ready for calms; ready for whatever You command. Ready for whatever You ordain!" The Lord bless you, dear Friends, and give all of you this readiness, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON ISAIAH63.
+## Exposition by C. H. Spurgeon Isaiah 63
 
 Some of you will remember that chapter 62 ends with the announcement of the Savior's coming—"Say you to the daughter of Zion, behold, your Salvation comes; behold, His reward is with Him, and His work before Him," The present chapter describes His coming.
 
@@ -148,7 +145,6 @@ Verse 1. Who is this that comes from Edom, with dyed garments from Bozrah? Who c
 17-19. O LORD, why have You made us to err from Your ways, and hardened our heart from Your fear? Return for Your servants' sake, the tribes of Your inheritance. The people of Your holiness have possessed it but a little while: our adversaries have trod down Your sanctuary. We are Yours: You never bore rule over them; they were not called by Your name. I pointed out to you, at the beginning of our reading, that this chapter appropriately follows the preceding one. It is, itself, most suitably followed by chapter sixty-four. Indeed, the first verse of that chapter belongs to this one and should not have been separated from it. God's people, in their low estate, recognized that deliverance must come from the Lord alone, so they prayed, "Oh that You would rend the heavens, that You would come down, that the mountains might flow down at Your Presence, as when the melting fire burns, the fire causes the waters to boil, to make Your name known to Your adversaries, that the nations may tremble at Your Presence!"
 
 God bless the reading of His Word and give us His Presence during the whole of the service, for Christ's sake. Amen!
-
 
 ---
 [[Sermon 2284 Clear Shining After Rain|← #2284]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2286 An Ancient Question Modernized|#2286 →]]

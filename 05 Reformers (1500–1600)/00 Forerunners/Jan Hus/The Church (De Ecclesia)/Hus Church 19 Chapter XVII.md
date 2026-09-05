@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 19. Chapter XVII
 
-HUSS'S RESISTANCE TO PAPAL AUTHORITY
+*Huss's Resistance to Papal Authority*
 
 Further, as for the principal thing according to which they believe all their sayings to be necessary or true, the afore-mentioned doctors lay down that " obedience is due to the apostolic see and to prelates from inferiors in all things whatsoever, where the purely good is not prohibited or the purely evil commanded, but also in that which is intermediate, which, in view of the mode, place, time or person, may be either good or bad in accordance with the Saviour's statement, Matt. 23:2: ' Whatsoever they bid you, these do and observe.' " And they add the following from Bernard's Letter to Adam the Monk [Migne's ed., 182 : 95], which begins thus: " 'If thou remain in love, the law for obedience is nxed as in the tree of the knowledge of good and evil which was in the midst of paradise.' In such things certainly it is not right to submit our interpretation to the opinion of the magisters, and in such things neither the command nor the prohibition of prelates is in any wise to be spurned."
 
@@ -64,7 +63,7 @@ Similarly, all Christians are bound to obey the secular power, each in his own r
 
 2 : 14, art. 6 [Migne's ed., 3 : 798]. And all this subjection or obedience is understood among those ranks over which the superiors have lawful authority, and in those cases when they command righteous commands and not otherwise. The
 
-HUSS'S RESISTANCE TO THE POPE 191
+## Huss's Resistance to the Pope 191
 
 Glossa ordinaria also agrees in its comment on the words: "the powers that be are ordained of God" [Romans 13 : 1]. The Master of Sentences also agrees, 2 : 44 [Migne's ed., p. 246].
 

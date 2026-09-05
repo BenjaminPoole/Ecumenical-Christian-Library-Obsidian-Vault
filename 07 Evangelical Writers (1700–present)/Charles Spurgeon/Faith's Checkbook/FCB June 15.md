@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 15
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**HOME BLESSINGS EXTENDED**
+## **Home Blessings Extended**
 
 > The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life" Ps. 128:5
 
@@ -23,7 +22,6 @@ This is a promise to the God-fearing man who walks in the ways of holiness with 
 Yes, you shall get a blessing when you go up to the assemblies of Zion; you shall be instructed, enlivened, and comforted, where prayer and praise ascend, and testimony is borne to the Great Sacrifice. "The Lord shall bless thee out of Zion."
 
 Nor shall you alone be profited; the church itself shall prosper; believers shall be multiplied, and their holy work shall be crowned with success. Certain gracious men have this promise fulfilled to them as long as they live. Alas! When they die the cause often flags. Let us be among those who bring good things to Jerusalem all their days. Lord, of thy mercy make us such! Amen.
-
 
 ---
 [[FCB June 14|← June 14]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB June 16|June 16 →]]

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-practical-religion
 ---
-
 # Sickness
 
-Chapter XV · *Practical Religion* — J. C. Ryle
+## Chapter XV · *Practical Religion* — J. C. Ryle
 
 >  *He whom Thou lovest is sick.* "—John xi. 3.
 
@@ -164,7 +163,6 @@ The time is short. The fashion of this world passeth away. A few more sicknesses
 In the meantime let us live the life of faith in the Son of God. Let us lean all our weight on Christ, and rejoice in the thought that He lives for evermore.
 
 Yes: blessed be God! Christ lives, though we may die. Christ lives, though friends and families are carried to the grave. He lives who abolished death, and brought life and immortality to light by the Gospel. He lives who said, "O death, I will be thy plagues: O grave, I will be thy destruction." (Hos. xiii. 14.) He lives who will one[Pg 374] day change our vile body, and make it like unto His glorious body. In sickness and in health, in life and in death, let us lean confidently on Him. Surely we ought to say daily with one of old, "Blessed be God for Jesus Christ!"
-
 
 ---
 [[PR 14 The Best Friend|← The Best Friend]] · [[Practical Religion|Practical Religion Contents]] · [[PR 16 The Family of God|The Family of God →]]

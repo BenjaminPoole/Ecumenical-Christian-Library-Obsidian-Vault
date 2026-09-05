@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Love Of Jonathan and the Love Of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2336
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your love to me was wonderful, surpassing the love of women." 2 Samuel 1:26.
 
@@ -103,7 +100,7 @@ Now let each one answer this question— Can you say, "He loved me and gave Hims
 
 "There is life for a look at the Crucified One! There is life at this moment for thee! Then look, Sinner—look unto Him and be sa ved— Unto Him who was nailed to the tree."
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 20.
+## Exposition by C. H. Spurgeon: 1 Samuel 20
 
 Verse 1. And David fled front Naioth in Ramah, and came and said before Jonathan, What have I done? What is my iniquity? And what is my sin before your father, that he seeks my life? David had an enemy upon the throne and God gave him a friend in the heir to the throne. If you have an enemy, you have also a friend—God sets the one over against the other in His Providence. Set the one over against the other in your thoughts and be you comforted thereby. David might have been very heavy at heart about Saul and so he was, but Jonathan came in to be the makeweight on the other side and turn the scale in favor of the son of Jesse. Of him David enquired, "What is my iniquity? And what is my sin before your father, that he seeks my life?"
 
@@ -136,7 +133,6 @@ David's place was empty. Nevertheless Saul spoke not anything that day: for he t
 32\. And Jonathan answered Saul his father, and said unto him, Why shall he be slain? What has he done? Very reasonable questions, very properly put.
 
 33-42. And Saul cast a javelin at him to strike him: whereby Jonathan knew that it was determined of his father to slay David. So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame. And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him. And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him. And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond you? And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan's lad gathered up the arrows, and came to his master. But the lad knew not anything: only Jonathan and David knew the matter. And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city. And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept, one with another, until David exceeded. And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and you, and between my seed and your seed forever. And he arose and departed: and Jonathan went into the city. Behold the love of Jonathan and David! Here was a brother born for adversity who clung to his friend in the day of danger, and even jeopardized his own life that he might defend David. Let us see, here, a faint emblem of what our great Friend, the Lord Jesus, has done for us.
-
 
 ---
 [[Sermon 2335 Three Texts, But One Subject— Faith|← #2335]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2337 The Physician Pardons His Palsied Patient|#2337 →]]

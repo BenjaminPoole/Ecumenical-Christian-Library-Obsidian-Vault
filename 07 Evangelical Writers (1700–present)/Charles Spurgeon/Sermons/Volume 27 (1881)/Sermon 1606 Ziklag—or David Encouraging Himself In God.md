@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Ziklag—or David Encouraging Himself In God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1606
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 26, 1881,.
+*Delivered on Lord's-Day Morning, June 26, 1881*
 
 > 1 Samuel 30:6,8.
 
@@ -142,7 +141,6 @@ Depend upon it, that is not the solid, practical faith of Abraham who trusted Go
 The purest reason approves reliance upon God! The end shall declare the wisdom of believing God! At the last, when we, with all Believers, shall lift up the great hallelujah unto the Lord God of Israel who reigns over all things for His people, it shall be known by all that faith is honorable and unbelief contemptible! God bless you, Brothers and Sisters, and if any of you have never trusted God at all, nor rested in His dear Son, may you be brought to do so at once! May you see your self-righteousness burned like Ziklag and all your carnal hopes carried away captive! And may you then encourage yourselves in Christ, for He will recover all for you and give you spoil, besides—and there shall be joy and rejoicing!
 
 The Lord be with you. Amen.
-
 
 ---
 [[Sermon 1605 Jesus Knew What He Would Do|← #1605]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1607 The Swiftly Running Word|#1607 →]]

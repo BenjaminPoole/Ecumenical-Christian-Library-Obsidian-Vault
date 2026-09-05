@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 39
 
-**CHAPTER 39**
+***Chapter 39***
 
 ## Jeremiah 39:1-2
 
@@ -33,7 +32,7 @@ It ought to be noticed that they bore a siege for a year and six months, and tha
 
 ## Prayer Lecture 150
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as we are surrounded by so many dangers, and bring on ourselves daily, through our sins, so many miseries, — O grant, that we may at least yield to thy threatenings, and learn in due time to seek thy favor and to anticipate thy judgment, and so to humble ourselves under thy mighty hand, that we may find thee propitious to us miserable sinners, who flee to thy mercy, until, having at length been freed from all our sins, we shall appear before thy tribunal, and there receive the reward of our faith, even that blessed immortality, which thine only-begotten Son, our Lord, has procured for us by his own blood. — Amen.
 
@@ -123,7 +122,7 @@ It is indeed probable that the king of Babylon had heard of Jeremiah; and though
 
 ## Prayer Lecture 151
 
-**PRAYER**
+## **Prayer**
 
 Grant, omnipotent God, that since thou hast once given us so awful a proof of thy wrath in the destruction of that city, which thou didst choose, and in which thou hadst had thy holy habitation, — O grant, that we may learn so to submit to thee in true humility and obedience, that we may not provoke thy extreme displeasure, but on the contrary anticipate it by real repentance, and that being terrified by thy threatenlugs, we may so submit ourselves to thee as to obtain thy mercy, and thus to regard thee as a Father, ever propitious to all those who flee to thee through Christ Jesus our Lord. — Amen.
 

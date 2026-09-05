@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 2
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -142,10 +141,9 @@ Verse 10. The scene again changes, and counsel is given to those who have taken 
 
 *Last clause*.—Nature, object, and blessedness of saving faith.
 
-WORK UPON THE SECOND PSALM
+## Work upon the Second Psalm
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 001|← Psalm 1]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 003|Psalm 3 →]]

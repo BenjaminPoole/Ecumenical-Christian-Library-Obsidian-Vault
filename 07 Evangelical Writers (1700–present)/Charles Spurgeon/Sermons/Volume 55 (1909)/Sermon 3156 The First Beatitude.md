@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The First Beatitude
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3156
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Blessed aire the poor in spirit: for theirs is the Kingdom of Heaven." Matthew 5:3.
 
@@ -89,7 +86,7 @@ The dominion awarded by this Beatitude to the poor in spirit is no common one. I
 
 "Poor in spirit." The words sound as if they described the owners of nothing, and yet they describe the inheritors of all things! Happy poverty! Millionaires sink into insignificance! The treasures of the Indies evaporate in smoke while to the poor in spirit remains a boundless, endless, faultless Kingdom which renders them blessed in the esteem of Him who is God over all, blessed forever! And all this is for the present life in which they mourn and need to be comforted, hunger and thirst and need to be filled. All this is for them while yet they are persecuted for righteousness' sake. What, then, must be their blessedness when they shall shine forth as the sun in the Kingdom of their Father and in them shall be fulfilled the promise of their Master and Lord, "to him that overcomes will I grant to sit with Me on My Throne, even as I also overcame, and am set down with My Father on His throne"?
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:31-42.
+## Exposition by C. H. Spurgeon: Matthew 5:31-42
 
 [Continued from Sermon #3155, Volume 55.]
 
@@ -114,7 +111,6 @@ in a country where justice can be had, we are not to resort to law for every per
 41\. And whoever shall compel you to go a mile, go with him tw . Governments in those days demanded forced service through their petty officers. Christians were to be of a yielding temper and bear a double exaction rather than provoke ill words and anger. We ought not to evade taxation, but stand ready to render to Caesar his due. "Yield" is our watchword! To stand up against force is not exactly our part—we may leave that to others. How few believe the long-suffering, non-resistant Doctrines of our King!
 
 42\. Give to him that asks you, and from him that would borrow of you turn not you away.Be generous. A miser is no follower of Jesus. Discretion is to be used in our giving, lest we encourage idleness and beggary. But the general rule is, "Give to him that asks you." Sometimes a loan may be more useful than a gift, do not refuse it to those who will make right use of it. These precepts are not meant for fools—they are set before us as our general rule—but each rule is balanced by other Scriptural commands and there is the teaching of a philanthropic commonsense to guide us. Our spirit is to be one of readiness to help the needy by gift or loan—and we are not exceedingly likely to err by excess in this direction—hence the boldness of the command.
-
 
 ---
 [[Sermon 3155 The Beatitudes|← #3155]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3157 The Fourth Beatitude|#3157 →]]

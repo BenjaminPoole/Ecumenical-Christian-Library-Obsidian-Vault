@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # Preface
 
 " r^HE Explanation of the Apocalypse by •^ Ven. Beda is the earliest of the many works of our own writers on that Book, and, as such, may well deserve to appear in a form accessible to English readers. But independently of this, it is a commentary of much value and interest in itself, as is shewn by the constant use of it by Isaac Williams in his volume on the Apocalypse (The Apocalypse^ with Notes and Reflections^ Lond. 1852), and the notices of it in two recently-published Lectures of the Bishop of Lincoln {On the Millennium, Lond. 1875), who also, in his "Introduction to the Book of Revelation," terms it, "A valuable and interesting exposition" {Greek Testament, Gen. Ep. and Rev., p. 152, 1872).
@@ -23,7 +21,7 @@ The date of the " Explanation " is circ. a,d. 710 — 716. It is described by Be
 
 The translation is made from the edition of the Works of Beda by Dr. Giles, Lond. 1844, vol. xii., which, in this part at least, is merely a reprint of the earlier text. The notes are limited to the references required by the text, and the occasional notice of various readings.
 
-PREFACE. V
+## Preface. V
 
 with some illustrations from other writers. Some additional notes will be found at the end.
 
@@ -31,9 +29,7 @@ For the sake of conciseness, the text, as read by Beda, which is not given compl
 
 It may be stated, on information derived through the favour of Mr. E. A. Bond, that the MS. of the thirteenth century in the British Museum, No. 223 of the Harleian Collection, containing a Commentary on the Apocalypse, ascribed in the colophon to Beda, is a different work from that printed in Dr. Giles' edition.
 
-CONTENTS.
-
-PAGE
+## Page
 
 Preface iii. — v.
 
@@ -55,11 +51,11 @@ Index of Proper Names... 178 — 180
 
 (Bxif^lmsiitttt d tht ^ocai^u\
 
-LETTER OF BEDA TO EUSEBIUS".
+## Letter of Beda to Eusebius"
 
 To THE Beloved Brother, Eusebius, Beda sends Greeting.
 
-T^OTE.
+## T^ote
 
 Page 148, line 17, "the attire of wisdom," or "for the reUgions serrioe {cultus) of wisdom.**
 
@@ -70,8 +66,6 @@ of bur brother if^usebius, and compnsea m lorec uuuAa, x iuhV44 to transcribe an
 ^ Eusebius, or Huaetberht, was Abbat of the Monastery of Jarrow, to which he was unanimously elected on the resignation of Ceolfrid, in A.D. 716. Besides his obedience in the monastic life, he was distinguished for his ''industry in writing, singing, readingi and teaching.** His Letter to Pope Gregory II. on the occa sion of his appointment, sent by Ceolfrid, is in part preserved. See Beda's Vi/a SS, Abbat. Mon. in Uuiram, et Gyr,^ ch. xiv, sq., p. 328 sqq. at the end oi,Bed*j ffist, E^Ui u.s.
 
 B
-
-2 ExflanaHan of the Apocalypse,
 
 In the first of these, after a copious preface to strengthen the faith of the weak, and a description of, the sufferings of the Lord and of the glories which followed, he sees one like unto the Son of Man clothed with the Church, Who, after He has related what has happened, or is about to happen, in the seven Churches of Asia in particular, recounts the general conflicts and victories of the whole Church. And here, designedly, in the sixth place He has foretold that the Jews are to be made subject to the Church, and that there is to be a trial of the world at large, and that He Himjself will come quickly; and He places in the seventh the lukewarm Laodicea. For '' when the Son of Man Cometh % will He,*' dost thou think, "find the faith in the earth?"
 
@@ -98,8 +92,6 @@ I have also thought that the seven rules of Tichonius"*, a man of the most learn
 ' The seven rules of Tichonios, who flourished circ. A.D. 390^ are noticed by St. Augustine in the De doctrina Christiana, bk. iii. ch. 30-7. The treatise of Tichonius is contained in the Bibliotheca Pairum, ed. CoL 1622, torn, xv., ed. Lugd. 1677, torn, vi, ^nd in ed. Vea 1772, torn, viii pp. 106-29. ^^ Frol^. c il p. v. (the edition of GaUandi, 1 765-88).
 
 * St Augustine {De doctr, Christ,, bk. iii. ch. 30), observes:^ " A certain Tichonius, who although a Donatist wrote in a mof incontrovertible manner against the Dooatists, and ther^n is foux
-
-4 Explanation of the Apocalypse.
 
 those who are desirous to leanii receive great assistance from them for understanding the Scriptures. The first of these is concerning the Lord and His body, when there is a transition from the Head to the body, or from the body to the Head, and yet no recession from one and the same person. For one person speaks, saying', **He set a chaplet upon me, as a bridegroom, and adorned me with an ornament as a bride; " and yet, certainly, it must be understood how much of this belongs to the Head, how much to the body; that is, how much to Christ, how much to the Church.
 
@@ -128,8 +120,6 @@ The fourth is concerning species and genus. For species is a part, but genus the
 He lays down a fifth rule, which he names concerning times, and it may, as appears to me, also be called concerning numbers. This he states to be of force, even in the case of Intimate numbers, by ihe figure synecdoche. For the figiue synecdociie is either to infer the whole from a part, or a part from the whole. by this manner of speaking is the question of the reai • rection of Christ also solved. For unless the lasf of the day on which He suffered is taken for the ■
 
 i
-
-6 Explanation of the Apoadypse.
 
 day, that is, with the addition of the past night too, and unless the night in the latter part of which He rose again is taken for a whole day, that is, with the addition of the dawning Lord's day, there cannot be the three days and three nights, in which He foretold that He should be in the heart of the earth *. Now by legitimate numbers he means those which the divine Scripture more eminently commends, as the seventh, or tenth, or twelfth; by which, for the most part, either the whole course oi lime, or the perfection of anything is designated, as, ** seven times* in a day I sing praise unto Thee," is nothing else than, " His praise was ever in my mouth V And they are of the same value also when they are multiplied either by ten, as seventy and seven hundred, in which case, the seventy years of Jerusalem may be taken spiritually for all the time during which the Church is among aliens; or by themselves, as ten by ten are a hundred, and twelve by twelve are a hundred and forty-four, by which number the whole body of the saints is denoted in the Apocalypse.
 
@@ -171,9 +161,9 @@ I bid thee farewell in Christ, most beloved brother, and desire that thou mayest
 
 EPIGRAM OF BEDA,
 
-ON THE BLESSED JOHN AND HIS
+## On the Blessed John and His
 
-APOCALYPSE.
+## Apocalypse
 
 An exile from the busy haunts of men, Forbidden now to see liis country's soil, He, loved of God, to heaven triumphant soars, And joins the choir around the high-throned King. His sacred eye the world below surveys. As o'er its waters pass the fleeting ships. Babel and Solyma in conflict join Their several hosts. In quick succession here They turn in flight, and here the strife renew. The white-robed soldier of the gentle Lamb May with his leader gain the realms of joy; The scaly serpent in the dark abyss Overwhelms in hunger, flame, and pestilence. His gathering bands. This warfare's dread array, And art, and numbers, and its victories Desirous to unfold, I've wandered through The sacred plains, where those of old have sown, Collecting thence some fruits. But few they are, That no profusion cause to loathe the feast. Nor e'en forbid the meaner guest to attempt A preparation all too great. And now, If these my scanty morsels please thy taste, Give praise to God, Who reigns above the skies; Or else, accept a friendly heart's intent. And, armed with pumice, this my verse erase.
 

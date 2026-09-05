@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Poverty and Riches
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2364
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For you know the Grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you, through His poverty, might be rich," 2 Corinthians 8:9.
 
@@ -150,7 +147,6 @@ dislocated by the dreadful shaking and jarring that our Savior must have suffere
 18\. They part My garment among them, and cast lots for My clothing. How accurate is this description, even to the least detail! How wondrously was this Poet-Prophet inspired when he thus drew the portrait of the Crucified Christ! "They part My garments among them, and cast lots for My clothing."
 
 19-21. But be not You far from Me, O LORD: O My strength, hasten You to help Me. Deliver My Soul from the sword: My darling life from the power of the dog. Save Me from the lion's mouth: for You have heard Me. So far, You see, the Psalm describes the sufferings of our Divine Redeemer and then it changes. The light of the sun has broken out from the midday darkness! God has smiled on Him, once more, and the Psalm changes its tone altogether as the Savior congratulates Himself upon the result of His passion. The Psalm ends with these memorable words, "It is finished." Our version puts it, "He has done this." It might just as well be rendered, "It is finished," for the sense is precisely the same. And when Jesus had said this, He bowed His head, and gave up the ghost.
-
 
 ---
 [[Sermon 2363 Comfort and Constancy|← #2363]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2365 Goodness, as a Morning Cloud|#2365 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # Nathanael And The Fig Tree
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 921
 
-DELIVERED ON LORD'S-DAY MORNING, MARCH 20, 1870,.
+*Delivered on Lord's-Day Morning, March 20, 1870*
 
 > "Philip found Nathanael and said to him, "We have found Him of whom Moses in the Law, and also the Prophets, wrote; Jesus of Nazareth, the son of Joseph. And Nathanael said to him, 'Can anything good come out of Nazareth?'Philip said to him, 'Come and see.' Jesus saw Nathanael coming toward Him, and said of him, 'Behold, an Israelite, indeed, in whom is no deceit!' Nathanael said to Him, 'How do You know me?' Jesus answered and said to him, 'Before Philip calledyou, when you were under the fig tree, I saw you.'Nathanael answered and said to Him, 'Rabbi, You are the Son of God! You are the King of Israel!' Jesus answered and said to him, 'Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these.' And He said to him, 'Most assuredly, I say to you, hereafter you shall see Heaven open, and the angels of God ascending and descending upon the Son of Man." John 1:45-51.
 
@@ -152,7 +151,6 @@ God's glory shall arise from it all! Angels descend, but they as much do the wil
 All this matchless glory will come to us through that little window by which we first saw the Savior. If we will not see Him as our Lord until we can see all the future, we shall perish in darkness. If you will not believe, neither shall you be established. But if, with simple and true hearts you have been seeking Jesus, and now come and accept Him as the Lord, the King of Israel—then greater things than these shall be in store for you! Your eyes shall see the King in His beauty and the land that is very far off.
 
 And the day of His pompous appearing, when Heaven and earth shall hang out their streamers for overflowing joy because the King has come unto His own. And the day the crown is put upon the head of the Son of David—then shall you see it and see it all—for you shall be with Him where He is, that you may behold His glory, the glory which the Father gave Him before the foundation of the world. Come Lord Jesus! Come quickly!
-
 
 ---
 [[Sermon 0920 Backsliding Healed|← #920]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0922 Sincerity And Duplicity|#922 →]]

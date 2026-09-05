@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 13
 
-**CHAPTER 13**
+***Chapter 13***
 
 ## Isaiah 13:1-22
 

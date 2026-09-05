@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 44. Appendix XXIII–XXX
 
 XXIII. A Preface made ly the King's most excellent Majesty unto Ms Primer Book.
@@ -33,7 +32,7 @@ Wherefore as great as our will and forwardness hath been to set forth and publis
 
 [CKANMER, n.1
 
-498 APPENDIX. [1547.
+## 498 Appendix. [1547
 
 these things, so great ought your diligence and industry to bo towards well and fruit fully using the same; that when all things hath been prepared and set forth to the glory of God and for your wealth, yourselves only may not be slack or negligent to wards your own behoof, and toward your own benefits.
 
@@ -91,7 +90,7 @@ Also, In the time of high mass, within every church, he that saith or singeth th
 
 Also, Because those persons which be sick and in peril of death, be oftentimes put in despair by the craft and subtlety of the devil, who is then most busy, and especially with them that lack the knowledge, sure persuasion, and stedfast belief that they may be made partakers of the great and infinite mercy which Almighty God of his most boun tiful goodness and mere liberality, without our deserving, hath offered freely to all per-
 
-502 APPENDIX. [1547.
+## 502 Appendix. [1547
 
 sons that put their full trust and confidence in him : therefore, that this damnable vice of despair may be clearly taken away, and firm belief and stedfast hope surely con ceived of all their parishioners, being in any danger, they shall learn and have always in a readiness such comfortable places and sentences of scripture as do set forth the mercy, benefits, and goodness of Almighty God towards all penitent and believing persons, that they may at all times, when necessity shall require, promptly comfort their flock with the lively word of God, which is the only stay of man's conscience.
 
@@ -113,7 +112,7 @@ And forasmuch as priests be public ministers of the church, and upon the holy da
 
 Also, To avoid the detestable sin of simony, because buying and selling of benefices is execrable before God ; therefore all such persons as buy any benefices, or come to them by fraud or deceit, shall be deprived of such benefices, and be made unable at any time after to receive any other spiritual promotion. And such as do sell them, or by any colour do bestow them for their own gain and profit, shall lose the right and title of patronage and presentment for that time, and the gift thereof for that vacation shall appertain to the king's majesty.
 
-504 APPENDIX. [1547.
+## 504 Appendix. [1547
 
 Also, Because, through lack of preachers in many places of the king's realms and dominions, the people continue in ignorance and blindness, all parsons, vicars, and curates shall read in the churches every Sunday one of the homilies, which are and shall be set forth for the same purpose by the king's authority, in such sort as they shall be appointed to do in the preface of the same.
 
@@ -147,15 +146,15 @@ XXVI. Letter from the Privy Council concerning Homilies and Injunctions.
 
 AFTER our most hearty commendations unto your good lordship. Where the king's state Paper majesty, with the advice and consent of my lord protector and the whole council, hath Domestic commanded a general visitation to be begun through his majesty's realm, in the which Te^xEdw. his majesty's commissioners, for the better setting forth of the true honouring of God and 1547^43. extinguishment of all superstition and popery, have in commandment to deliver to men of all sorts several Injunctions meetest for their vocations, and to the priest and curates certain Homilies to be by them read to their parishioners, according to the order of the said Injunctions : forasmuch as we would wish the same to be in like sort set forth with you, whereas yet no commissioners be specially addressed, we have thought good to send you herewith certain of the said Homilies and Injunctions, which your lordship may cause to be delivered to the curates, and others, within the limits of your jurisdiction, by the of high Bolloigne ; after the delivery whereof, we trust that as the same be godly, and set forth by the king's majesty for the good instruction of his majesty's loving subjects, so you will both yourselves in your own families observe the same, and help also to have them well obeyed and kept of others.
 
-T. CANTUARIEN. ANTONY WYNGFELD.
+## T. Cantuarien. Antony Wyngfeld
 
-W. SEINT JOHN. WILLIAM PAGET.
+## W. Seint John. William Paget
 
-T. SEYMOUR. EDWARD NORTH.
+## T. Seymour. Edward North
 
-RICHARD RYCHE. WILLIAM PETRE.
+## Richard Ryche. William Petre
 
-ANTHONE BROWNE.
+## Anthone Browne
 
 XXVII. A Proclamation concerning the irreverent Talkers of the Sacrament. Dated the ^Itli day of 'December, anno regni reg. Edward, primo. £1547.]
 
@@ -171,7 +170,7 @@ WHEREAS the king's highness hath of late, with the assent and consent of the lor
 
 [7 A blank space is left in Strype for the words ! fourth, and November.]
 
-50G APPENDIX. [1547.
+## 50g Appendix. [1547
 
 by all the words and terms which scripture speaketh of it, what is undoubtedly to bo accepted, believed, taken and spoken by and of the said sacrament : yet this notwith standing, his majesty is advertised, that some of his subjects, not contented with such words and terms as scripture doth declare thereof, nor with that doctrine which the Holy Ghost by the evangelists and St Paul hath taught us, do not cease to move conten tious and superfluous questions of the said holy sacrament and supper of the Lord, enter ing rashly into the discussing of the high mystery thereof, and go about in their sermons or talks arrogantly to define the manner, nature, fashion, ways, possibility or impossi bility, of those matters ; which neither make to edification, nor God hath by his holy word opened :
 
@@ -195,7 +194,7 @@ subjects, and other of his privy council ; considering that his highness hath no
 
 Yet his highness is advertised and informed, that divers of his subjects be not only to all these more slow and negligent, but rather contemners and dcspisers of such good and godly acts and deeds; to the which if they were of their own minds bent and inclined, they needed not by outward and princely power be appointed and commanded. But forsomuch as at this time now alate, more than at any other time, a great part of his subjects do break and contemn that abstinence, which of long time hath been used in this his majesty's realm upon the Fridays and Saturdays, and the time commonly called Lent, and other accustomed times ; his highness is constrained to see a convenient order herein set and appointed : not minding thereby that his subjects should think any differ ence to be in the days or meats, or that the one should be to God more holy, more pure, or more clean, than the other ; for all days and all meats be of one and equal purity, cleanness, and holiness, that we should in them, and by them, live to the glory of God, and at all times, and for all meats, give thanks unto him, of the which none can defile us at any time, or make us unclean, being Christian men, to whom all things be holy and pure, so that they be not used in disobedience and vice : but his majesty hath allowed and approved the days and times before accustomed to be continued and still observed here in this church of England ; both that men should on those days abstain and forbear their pleasures, and the meats wherein they have more delight, to the intent to subdue their bodies unto the soul and spirit; unto the which to exhort and move men is the office of a good and godly head and ruler ; and also for worldly and civil policy certain
 
-508 APPENDIX. [1548.
+## 508 Appendix. [1548
 
 days in the year to spare flesh, and use fish, for the benefit of the commonwealth and profit of his majesty's realm ; whereof many be fishers, and men using that trade of living unto the which this realm on every part environed with the seas, and so plentiful of fresh waters, doth easily minister occasion ; to the great sustenance of this his highness's people : so that hereby both the nourishment of the land might be increased by saving flesh, and specially at the spring time, when Lent doth commonly fall, and when the most common and plenteous breeding of flesh is ; and also, divers of his loving subjects have good livings, and get great riches thereby, in uttering and selling such meats as the sea and fresh water doth minister unto us; and this his majesty's realm hath more plenty of ships, boats, crays, and other vessels, by reason of those which by hope of lucre do follow that trade of living.
 
@@ -219,7 +218,7 @@ THOMAS, permissione divina Cantuariensis archiepiscopus, totius Anglia? primas e
 
 [2 Via. Letter CCLXXXI. p. 417.]
 
-510 APPENDIX.
+## 510 Appendix
 
 auctorizatus ; vcncrabili confratri nostro domino Edmundo eadem pcrmissione Londoniensi episcopo, vestrove vicario in spiritualibus generali et official! principal!, saluteni et fraternam in Domino caritatcm. Litcras missivas clarissimorum et prudentissimoruni dominonim dc private consilio sure rcgia1 majestatis nianibus subscriptas, nobis inscriptas ct dircctas, nnper reccpimus, tcnorem subsequcntcm complcctentcs.
 
@@ -247,7 +246,7 @@ THO. CANTERBURY, ANTHONY WINGFIELD, R. RICH, WILLIAM PETRE,
 
 QJOIIN RUSSELL,18] WlL. SAINT JOHN,
 
-EDWARD NORTH, HENRY ARUNDELL.
+## Edward North, Henry Arundell
 
 EDWARD WOOTON,
 
@@ -255,7 +254,7 @@ EDWARD WOOTON,
 
 [17 Duties requireth. Id.] f U1 This name is omitted in Wilkins' Ccn cilia.]
 
-512 APPENDIX. [1548.
+## 512 Appendix. [1548
 
 XXXII. A Letter sent to all those Preachers which the Kings Majesty hath licensed to preach, from the Lord Protectors Grace and other of the Kings Majesty's most honourable Council, the 13tk day of May, in the second year of the reign of our Sovereign Lord, King Edward the Vlth. Q1548.]
 
@@ -273,9 +272,9 @@ WHEREAS of late, by reason of certain controversious and seditious preachers, th
 
 [3 God should give. Id.] L4 Do inhibit. Id.J
 
-QCRANMER, II.]
+## Qcranmer, II.]
 
-514 APPENDIX. [1548.
+## 514 Appendix. [1548
 
 themselves to prayer to Almighty God for the better achieving of the same most godly intent and purpose ; not doubting but that also his loving subjects in the mean time will occupy themselves to God's honour, with due prayer in the church and patient hearing of the godly Homilies heretofore set forth by his highness' Injunctions unto them; and so endeavour themselves that they may be the more ready, witli thankful obedience, to receive a most quiet, godly, and uniform order to be had throughout all his said realms and dominions : and therefore hath willed all his loving officers and ministers, as well justices of peace as mayors, sheriffs, bailiffs, constables, or any other his officers, of what estate, degree, or condition soever they be, to be attendant upon this proclamation and commandment, and to see the infringers or breakers thereof to be imprisoned, and his highness or the lord protector's grace, or his majesty's council, to be certified thereof immediately, as they tender his majesty's pleasure, and will answer to the contrary at their peril.
 

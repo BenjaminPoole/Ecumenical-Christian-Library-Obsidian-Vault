@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Acts 6:1-6
 

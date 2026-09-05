@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 48
 
-**CHAPTER 48**
+***Chapter 48***
 
 ## Jeremiah 48:1
 
@@ -113,7 +112,7 @@ We hence see how apt is the comparison, when the Prophet says, that *Moab had no
 
 ## Prayer Lecture 169
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since we are so disposed to indulge sloth, and so devoted to earthly things, that we easily forget our holy calling except thou dost continually stimulate us, — O grant that the afflictions by which thou triest us, may effectually rouse us, so that leaving the world we may strive to come to thee, and devote ourselves wholly to thy service; and that we may so carry on the warfare under the various afflictions of the present life, that our minds and all our thoughts may always be fixed on the hope of that eternal and blessed rest which thine only-begotten Son our Lord has promised as having been prepared for us in heaven. — Amen.
 
@@ -224,7 +223,7 @@ The Prophet now addresses the Chaldeans, who were to be the executioners of God�
 
 ## Prayer Lecture 170
 
-**PRAYER**
+## **Prayer**
 
 Grant Almighty God, that we may learn, not only to consider thy judgments when they appear before our eyes, but also to fear them whenever they are announced, so that we may implore thy mercy, and also repent of our sins and patiently bear thy paternal chastisements, and never murmur when thou sparest for a time the ungodly, but wait with calm and resigned minds until the time comes when thou wilt execute vengeance on them, and when in the meantime thou wilt gather us at the end of our warfare into the blessed rest above, and give us to enjoy that inheritance which thou hast prepared for us in Heaven, and which has been obtained for us by the blood of thine only-begotten Son our Lord. — Amen.
 
@@ -322,7 +321,7 @@ Now this passage, as innumerable others, clearly shews that idolatry and all pro
 
 ## Prayer Lecture 171
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou hast once deigned to receive us under thy protection, we may have thee as our defense against our enemies, and that the more cruel and ferocious they become, and that the more heavily thou chastisest them, we may thus find that thou carest for our salvation, and flee also to thee with greater confidence, and that when we have experienced thy mercy, we may more readily give thee continual thanks, through Christ Jesus our Lord. — Amen.
 
@@ -428,7 +427,7 @@ Here, as we see, God gives place to his mercy, so that the Moabites should not w
 
 ## Prayer Lecture 172
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou wert formerly pleased to extend thy mercy to aliens, who were wholly estranged from thee, that the children of Abraham, whom thou didst adopt, might hence have a hope of deliverance, — O grant, that we may also, at this day, cast our eyes on the many proofs of thy goodness, manifested towards the ungodly and the unworthy, so as to make an application for our own benefit, and never to doubt but that however miserable we may be, thou wilt yet be ever propitious to us, since thou hast deigned to choose us for thy peculiar people, and hast promised to be ever our God and Father in Christ Jesus our Lord. — Amen.
 

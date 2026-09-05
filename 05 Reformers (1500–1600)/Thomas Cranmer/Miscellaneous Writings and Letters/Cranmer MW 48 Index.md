@@ -895,7 +895,7 @@ Oxford, university, ordered to surrender their liber ties to Henry VIII. 252 n. 
 
 Padley, John, a kinsman of Cranmer, sanctuary man in Westminster, 257. Pagans, have the advantage over Christians in the antiquity of their religion, 62. Palms, holy , and ashes, demanded by the people,l/6;
 
-use of, abolished, 417. Palm-Sunday, lifting the veil upon, &c., abolition of, 414; making wooden crosses upon, 503. Papa, the name of, to be obliterated from church- books, 157 ; opposition to it at Oxford, 382; two priests punished by Cranmer for retaining it, 387. Papists, their practices set forth, 62. See Pope. Parker, archbishop, his account of the first admis sion of the king's supremacy, 214 n. ; appointed by Cninmer to preach at Paul's Cross, 418; to preach before Edward VI., 425, 9. Paul's Cross, preaching at, 289, 308 n. ; bill of, 293, 319,418; penance done at, 372; must not be with out a sermon, 418.
+use of, abolished, 417. Palm-Sunday, lifting the veil upon, &c., abolition of, 414; making wooden crosses upon, 503. Papa, the name of, to be obliterated from church-books, 157 ; opposition to it at Oxford, 382; two priests punished by Cranmer for retaining it, 387. Papists, their practices set forth, 62. See Pope. Parker, archbishop, his account of the first admis sion of the king's supremacy, 214 n. ; appointed by Cninmer to preach at Paul's Cross, 418; to preach before Edward VI., 425, 9. Paul's Cross, preaching at, 289, 308 n. ; bill of, 293, 319,418; penance done at, 372; must not be with out a sermon, 418.
 
 Paul III., pope, his message to Henry VIII., 126 ; consults with Reginald Pole about a general council, 331. Paulet, Sir Hugh, first had the Common Prayer translated into French, 439. Paupers, impotent, proposed to be provided for out of the revenues of the dissolved monasteries, 16. Payne, Sir Hugh, curate of Hadley, his popish preaching, and excommunication by Cranmer, 333; presented to Sutton Magna, 362. Pelagians, 108.
 
@@ -1061,7 +1061,7 @@ Sacrament of orders, as ordained in the " Institu tion," 96, 97, 98.
 
 Sacraments, consecration of, 97 ; of the church, ex position of ("Institution"), 99; questions and answers concerning, 115; mysteries or occult things, ibid. ; the incarnation, and matrimony, may be called sacraments, ibid. ; many more than seven, according to the ancients, ibid. ; seven not
 
-to be found in scripture, nor in old writers, ibid.; of confirmation, order, and extreme unction, not in scripture, 116. Sacramentum aut mysterium iniquitatis ac mere- tricis magna; et bestia, hard to be revealed, 115. St Augustin's, Cranmer's letter to the abbot of, 240. St Benedict, the abbot of, signs the paper about general councils, 468. St Dunstan's in the East, London, Cranmer's letter relative to dues and oblations there, 263. St Martin's day, Cranmer's mandate for the cele bration of, 468. St Martin's le Grand, London, college of, granted to the convent of Westminster, 240 n. St Peter, the bishops of Rome could pretend to nothing from him, but as they followed his faith, St Quintin of Spellache, Calais, contested parsonage there, 345, 9.
+to be found in scripture, nor in old writers, ibid.; of confirmation, order, and extreme unction, not in scripture, 116. Sacramentum aut mysterium iniquitatis ac meretricis magna; et bestia, hard to be revealed, 115. St Augustin's, Cranmer's letter to the abbot of, 240. St Benedict, the abbot of, signs the paper about general councils, 468. St Dunstan's in the East, London, Cranmer's letter relative to dues and oblations there, 263. St Martin's day, Cranmer's mandate for the cele bration of, 468. St Martin's le Grand, London, college of, granted to the convent of Westminster, 240 n. St Peter, the bishops of Rome could pretend to nothing from him, but as they followed his faith, St Quintin of Spellache, Calais, contested parsonage there, 345, 9.
 
 St Sepulchre's, Canterbury, the false nun of, 271. St Thomas, the imposture of his blood, at Can terbury, 378.
 
@@ -1083,7 +1083,7 @@ Shrines, mandate for removing them and images,
 
 Simony, benefices to be forfeited for, 503. Singing in church, 39; Cranmer's essay of English words for, 412.
 
-Sins, corrected by the sword, 116. Sion, friars of, their contumacy, 292 n., 303. Skyp, John, bishop of Hereford, 152 n. Slyndon, manor and park of, 250, 5. Smythe, sir John, his preferment solicited by Cran- mer, 240. Solyman, emperor of the Turks, his war with Charles
+Sins, corrected by the sword, 116. Sion, friars of, their contumacy, 292 n., 303. Skyp, John, bishop of Hereford, 152 n. Slyndon, manor and park of, 250, 5. Smythe, sir John, his preferment solicited by Cran-mer, 240. Solyman, emperor of the Turks, his war with Charles
 
 V., 232, 3, 4, 5, 6, Somers, Nicola's, chauntry priest at Croydon, charged with lewdness, 393, 4. Sorcerers and charmers, 44, 45 ; to be inquired of,
 

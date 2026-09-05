@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Dressing In The Morning
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1614
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 21, 1881,.
+*Delivered on Lord's-Day Morning, August 21, 1881*
 
 > "And that, kno wing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we first believed. The nightis far spent, the day is athand: let us therefore cast off the works of darkness, and let us put on the armor of light. Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts thereof." Romans 13:11-14.
 
@@ -128,7 +127,6 @@ Now I have done, but how I wish that some souls would be moved as Augustine was 
 "But I have nothing that I can bring." Do not bring anything—just put on Christ! There He is! Do not refuse Him! I beseech you, do not refuse Him, for he who will not put on Christ, when Christ is freely set before him, must not be amazed if, at the last, he stands shivering amidst the glare of the last lightning in front of the awful Judgment Seat, with the eyes of men and angels, and the eyes of the great Judge fixed upon Him!
 
 Ah, then he tries to hide himself and cannot. And he shrieks to rocks and mountains, "Hide me, hide me from the face of Him that sits on the Throne!" He will have no one but himself to blame when it comes to that, if he will not put on Christ. May the Lord Jesus now be made unto you wisdom, righteousness, sanctification and redemption. Amen.
-
 
 ---
 [[Sermon 1613 Shut In Or Shut Out|← #1613]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1615 Singing in the Ways of the Lord|#1615 →]]

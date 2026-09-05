@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 68. How many sacraments has Christ instituted in the new covenant or testament?
-
-**Question 68. How many sacraments has Christ instituted in the new covenant or testament?**
 
 Answer. Two, namely, holy baptism, and the holy supper.
 
-**EXPOSITION**
+## **Exposition**
 
 There are only two sacraments in the New Testament which are of perpetual, and universal use in the Church, according to the testimony of Ambrose and Augustin. The one is baptism which has taken the place of circumcision, and the various forms of purification prescribed by the law. The other is the Lord's supper, which was adumbrated by the Paschal Lamb and the various sacrifices of the law. These are the only sacraments of the New Testament; because they are the only ones instituted by Christ, and which he requires us to observe, adding thereto the promise of grace. This argument is conclusive: The definition of a sacrament agrees with only two rites established in the New Testament. Therefore we have only two sacraments.
 
@@ -62,7 +59,7 @@ The Papist add to these two sacraments five others; confirmation, penance, ordin
 
 18. The same ceremony may, therefore, be considered as a sacrament and sacrifice, as when God in giving us visible symbols declares his benefits to us, whilst we in receiving them testify our duty to him. Yet this declaration of our faith and gratitude, depends upon the declaration of God's benefits to us, as arising out of the chief and proper end and use of the sacraments, and is by this excited in the minds of the faithful.
 
-**TWENTY-SIXTH LORD'S DAY**
+## **Twenty-Sixth Lord's Day**
 
 ---
 [[Ursinus HC Q67|← Question 67. Are both word and sacraments th]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q69|Question 69. How art thou admonished and ass →]]

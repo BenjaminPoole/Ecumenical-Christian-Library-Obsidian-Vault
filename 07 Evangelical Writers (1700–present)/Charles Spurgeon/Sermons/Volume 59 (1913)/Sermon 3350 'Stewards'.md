@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # 'Stewards'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3350
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let a maun so consider us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover, it is required in stewards that a man be found faithful." 1 Corinthians 4:1,2.
 
@@ -106,7 +103,6 @@ The reward of faithful stewards is exceedingly great—let us aspire to it. The 
 Beloved Brothers, we are bound to go forward, cost us what it may, for we dare not go back—we have no armor for our backs. We believe ourselves to be called to this ministry and we cannot be false to the call. If I must be a lost soul, let me be lost as a thief, a blasphemer, or a murderer rather than as an unfaithful steward to the Lord Jesus! This is to be a Judas, a son of perdition, indeed! Remember, if any of you are unfaithful, you win for yourselves a superfluity of condemnation. You were not forced to be ministers. You were not forced to enter upon this sacred office. By your own choice you are here. In your youth you aspired to this holy thing and thought yourselves happy in attaining your desire. Brothers, if we meant to be untrue to Jesus, there was no necessity to have climbed this sacred rock in order to multiply the horrors of our final fall! We could have perished quite sufficiently in the ordinary ways of sin. What need to qualify ourselves for a greater condemnation? This will be a dreadful
 
 result if this is all that comes of our college studies and our burning of the midnight oil in acquiring knowledge. My heart and my flesh tremble while I contemplate the possibility of any of us being found guilty of treachery to our charge and treason to our King! May the good Lord so abide with us, that at the last we may be clear of the blood of all men! It will be seven heavens in one to hear our Master say, "Well done, good and faithful servant."
-
 
 ---
 [[Sermon 3349 'The Garment of Praise'|← #3349]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3351 The Queen of Sheba|#3351 →]]

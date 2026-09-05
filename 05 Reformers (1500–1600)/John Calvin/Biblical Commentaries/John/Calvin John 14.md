@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 14
 
-**CHAPTER 14**
+***Chapter 14***
 
 ## John 14:1-7
 

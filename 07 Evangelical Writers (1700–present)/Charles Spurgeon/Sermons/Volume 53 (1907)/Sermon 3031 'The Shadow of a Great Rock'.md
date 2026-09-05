@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # 'The Shadow of a Great Rock'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3031
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "A man shall be as the shadow of a great rock in a weary land." Isaiah 32:2.
 
@@ -141,7 +138,7 @@ glad, for Christ sees the reward of His soul-travail, for a child is born in His
 
 May the Lord bless everyone here, and His shall be the glory forever. Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW5:17-48.
+## Exposition by C. H. Spurgeon: Matthew 5:17-48
 
 Verse 17. Think not that I am came to destroy the Law, or the Prophets: I am not come to destroy, but to fulfill The life-work and words of Christ are not an improvement of the Old Testament, or a doing away of it. It stands fast and firm, fulfilled, carried to perfection, filled to the fullest in Christ!
 
@@ -191,8 +188,7 @@ he did curse and swear. So he gave that as a pretty clear proof that he had not 
 
 46-48. For if you love them which love you, what reward have you? Do not even the publicans the same? And if you salute your brethren only, what do you more than others? Do not even the publicans so? Be you therefore perfect, even as your Father which is in Heaven is perfect Stretch towards the highest conceivable standard and be not satisfied till you reach it.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—708, 808.
-
+## Hymns from "Our Own Hymn Book"—708, 808
 
 ---
 [[Sermon 3030 A Consistent Walk for Time to Come|← #3030]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3033 Why Christ Is Not Esteemed|#3033 →]]

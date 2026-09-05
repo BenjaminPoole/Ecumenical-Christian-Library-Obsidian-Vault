@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Number 2500—or, "Entrance and Exclusion"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2500
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they that were ready went in with him to the marriage: and the door was shut." Matthew 25:10.
 
@@ -112,7 +109,6 @@ Flee from your sins, flee from yourselves! Flee from any worldly pursuits which 
 "Jesus, Your blood and righteousness My beauty are, my glorious dress, "I will go in with You to the marriage, and when the door is shut, I shall be on the right side of it—
 
 "Far from a world of grief and sin, With God eternally shut in." The Lord save us all, for His name's sake! Amen.
-
 
 ---
 [[Sermon 2499 Christopathy|← #2499]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2501 All and All in All|#2501 →]]

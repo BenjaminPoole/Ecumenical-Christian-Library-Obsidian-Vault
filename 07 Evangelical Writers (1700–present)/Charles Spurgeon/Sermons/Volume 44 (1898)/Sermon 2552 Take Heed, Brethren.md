@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # "Take Heed, Brethren"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2552
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Take heed, brethren, lest there is in any of you an evil heart of unbelief in departing from the living God." Hebrews 3:12.
 
@@ -95,7 +92,7 @@ Come, then, and do not depart from the living God by an evil heart of unbelief. 
 
 And this shall be the punishment of your sin—you shall reap it fully developed, for Hell is sin full grown! God save us from the baby, which is sin, that we may not know the man, which is Hell! God save us from the seed, which is sin, that we may not know the harvest, which is Hell! God save us from the spark, which is sin, that we may not know the conflagration, which is eternal damnation! God save and bless you, dear Friends, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS 3:1-16.
+## Exposition by C. H. Spurgeon: Hebrews 3:1-16
 
 Verse 1. Therefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus. Oh, that He had more consideration at our hands! Consider Him—you cannot know all His excellence, all His value to you, unless He is the subject of your constant meditation. Consider Him—think of His Nature, His offices, His work, His promises, His relation to you. "Consider the Apostle and High Priest of our profession, Christ Jesus.
 
@@ -118,7 +115,6 @@ He banished them from all participation in His rest. Their carcasses fell in the
 12, 13. Take heed, brethren, Jest there is in any ofyou an evil heart ofunbelief, in departing from the living God. But exhort one another daily, while it is called Today; lest any ofyou be hardened through the deceitfulness of sin. Watch over each other as well as over yourselves. Take heed lest sin hardens you before you are aware of it! Even while you fancy that you have wiped it out by repentance, petrifaction will remain upon your heart "through the deceitfulness ofsin."
 
 14-16. For we are made partakers of Christ, if we hold the beginning of our confidence steadfast unto the end; while it is said, Today if you will hear His voice, harden not your hearts, as in the provocation. For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses. Not all, for there were two faithful ones. See how the Spirit of God gathers up the fragments that remain! If there are but two faithful ones out of millions, He knows it and He records it.
-
 
 ---
 [[Sermon 2551 God's Knowledge of Sin|← #2551]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2553 The Enemies of the Cross of Christ|#2553 →]]

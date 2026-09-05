@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 49
-
-**PSALM 49**
 
 The wicked and the votaries of worldly pleasure often enjoy prosperity, while such as fear the Lord are exposed to affliction, and disposed to faint under the pressure of it. To moderate that pride which the one class is apt to feel in the midst of their success, and administer a check to the despondency of the other, the Psalmist shows what little reason we have to envy the supposed happiness of the ungodly, which, even when at its height, is vain and evanescent; and he teaches us that good men, however great their trials may be, are objects of the divine regard, and will be eventually delivered from their enemies.
 

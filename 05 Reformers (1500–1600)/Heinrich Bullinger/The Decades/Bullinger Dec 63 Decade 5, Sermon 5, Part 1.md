@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 63. Decade 5, Sermon 5, Part 1
 
 Atter the ministry of the word of God in the church of Christ handled, methinketh I have convenient place to entreat of the prayer of the faithful, whereunto godly ministers never leave to stir up the church.
@@ -46,8 +45,6 @@ V.] OF PRAYER. 1G5 is made unto God in the holy assembly, according to the accus
 
 [4 cultum exhibuerit, Lat.] [5 frequentissimis, Lat.]
 
-166 THE FIFTH DECADE. [SERM.
-
 wait for the promise of the Father : which thing, when they
 
 Actsii. were gathered together into an assembly and in prayer, we read in the Acts to have been performed. There also the assembly of the faithful is commended to us ; as appeareth both in1 the xi. and xiv. cap. of the 1 epist. of Paul to the Corinth. Those supplications, which the same Paul commandeth to be made for all them that are set in authority, are made chiefly in holy assemblies. Truly Pliny, an heathen author, writing to Trajanus the emperor, doth make very manifest mention of holy assemblies 2. Holy assemblies had of old time very
@@ -72,13 +69,13 @@ But because many do not only loathe holy assemblies, wemust but also say that pr
 
 1G8
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Moreover, Esay had spoken to Ezechias out of the mouth of isai. xxxviii. the Lord, " Thou shalt die, and not live :" but when the king poured forth his prayers, even from the bottom of his heart unto the Lord, God changed his sentence that he had jcr. xviii. pronounced. For the Lord himself saith in Jeremy : " I will speak suddenly against a nation or a kingdom, for to pluck it up, and to root it out, and to destroy it1 : but if this nation, against whom I have pronounced, turn from their wickedness, I will repent of the plague that I thought to bring upon them," &c. Wherefore the prayers of the faithful are effectual, staying the wrathful judgments of God, yea, and taking them clean away.
 
-objection. Yor whereas they object again, That prayer is a declara- tion of things which we require of the Lord ; and that God foreknoweth all things ; therefore that these2 things are unprofitably and superfluously declared unto him, which he already knowcth ; and so for that cause that prayer is unprofitable : it is confuted of Christ our Lord himself, who, when
+objection. Yor whereas they object again, That prayer is a declara-tion of things which we require of the Lord ; and that God foreknoweth all things ; therefore that these2 things are unprofitably and superfluously declared unto him, which he already knowcth ; and so for that cause that prayer is unprofitable : it is confuted of Christ our Lord himself, who, when
 
 Mm. w. he had plainly said, "Your heavenly Father knoweth what things ye have need of, before ye ask of him •" yet nevertheless, adding a form of prayer, he teacheth us to pray. In another place he commandeth us and stirreth us up to pray often : " "Watch and pray,1' saith he, " lest you enter into iThess. v. temptation." And Paul saith : " Rejoice always ; pray continually." In every place there are many precepts of this kind. Neither do we declare our matters to him as to one that knoweth them not ; but we utter them to him that understandeth the desires of our heart, and do humble ourselves at the feet of his majesty. We ask that of him which we know we want; but yet of him certainly to be received, who is the author of all goodness ; for we believe his sure and infallible promises. In the meantime prayers are not superfluous, for that the Lord would assuredly give that which we asked. The Lord promised the delivery of his people, whereof the godly doubted nothing at all : yet with incessant supplications jer. xxix. they prayed unto the Lord, crying, " Deliver us, O Lord our God ;" neither did they think they laboured in vain. To
 
@@ -89,8 +86,6 @@ I1 and to — destroy it, not in Lat.] [2 So also 1584 ; but 1577, those] [3 See
 Moreover, whereas they object, it is written, " We know John i*. that God doth not hear sinners ;" but we are all sinners, therefore God doth hear none of us, and so men's prayers are found to be unprofitable : we answer, that of sinners some are altogether ungodly and despisers of God : those God heareth not. There are again repentant men, and such as fear God ; which nevertheless are sinners, and rightly so called, because of the remnants of sin : those God heareth. Which might be shewed by the examples of David, Manasses, Peter, the thief crucified with Christ, and many other ; which were both sinners, and when they prayed were heard.
 
 Therefore we say, that the prayers of the faithful are not Prayers are only profitable and effectual, but also necessary unto men. necessaryFor we are men, defiled with sin, destitute and void of all goodness. " Every good giving, and every perfit gift is from jamesi. above, and cometh down from the Father of lights." He commandeth us to pray, and offereth to them that pray very large promises. Wherefore our fathers were both very often exercised, and very fervent, in prayer; by their example teaching us that prayers are necessary. The scripture also diligently and at large rehearseth, how great things by their prayers in very weighty affairs and dangers, yea, in matters most necessary, they obtained of our most true and most bountiful Lord and God. The apostles pray for the Holy Ghost, faith, and the increase of faith ; and they receive their requests, not sparingly, but liberally, being made partakers of all manner graces of Christ. In the gospel the publican prayeth in the temple, and saith: "God, be merciful to me aLukexviu. sinner:" and he forthwith found the Lord merciful unto him. What and how great things Helias by his prayers obtained of the Lord, the holy history recordeth. And the blessed
-
-170 THE FIFTH DECADE. [sERM.
 
 apostle James applieth his example unto us also., that we also in faith should call upon God : which I rehearse, lest any man should think that that pertaineth nothing unto us. Again, how much the faithful prayers of Moses, David, Josaphat, Ezechias, and other valiant men, prevailed in wars, in famines, in sickness, and in other exceeding great dangers, it were long to recite. These examples prove, that prayer is both always necessary unto men, and very effectual. For we
 
@@ -116,9 +111,9 @@ be better resolved, than by weighing the chiefest circumstances.
 
 [3 corripit, Lat. : he doth chasten.] [4 historia vetus et evangelica, Lat.] [3 ardentiori, Lat. : more ardent.] [6 poterit, Lat. : she may."
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 By whom God the Father is called upon.
 
@@ -162,7 +157,7 @@ for we know not what to pray as we one::: spirit rannot I : '. ■ ". : "- . . :
 
 : . :'z.~ riii:.?. :'. :: : .- : • "' ' - consider. : he must be th of purpose to prar unto God. F:
 
-X XT
+## X Xt
 
 D opinion of his jwn
 
@@ -170,9 +165,9 @@ I in need of all good things : and so let him yield himself unto the mere mercy 
 
 Furthermore, and that which is the chief of all ; it is Faith is needful that they which pray must have a true and fervent fuiVthem faith. Let the doctrine of faith, therefore, in the matter of prayer, shew us light as the morning-star ; and with an assured
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 Psal. cxlv.
 
@@ -208,8 +203,6 @@ But since faith is not a vain imagination, but an effectual Let the life power, 
 
 [bullixger, iv.J
 
-178 THE FIFTH DECADE. [sERM.
-
 persevering in their sins, though they cry without ceasing, " Help us, O God, our Saviour ; deliver us, 0 Lord ; wo beseech thee to hear us," are altogether fruitless; for they desire to be preserved, that they might take their further pleasure and commit wickedness. And though God give us freely those things which we ask, yet it is necessary, that an affection or desire to live well do accompany so great benefits received at the hands of God : for here we ought most diligently to take heed, that we think not we shall be heard for our virtues' sake, but for the mere mercy of God in Christ Jesus1, our minds Moreover, whosoever desireth to have his pravers to be must be Xr J holfvlniy'0 acceptable unto God, let him lift up his mind from earthly things. things unto heavenly things. Touching that thing the blessed martyr of Christ, Cyprian, eloquently2 and holily entreating, saith : " When we stand occupied in prayer, we must with our whole heart watch, and be diligent in prayer. Let all worldly and fleshly thoughts depart; neither let the mind think upon anything else at that time than only that which it prayeth. Let thy breast be shut against the adversary, and let it be open to God only ; neither let it suffer the enemy of God to enter into it in the time of prayer. For he oftentimes stealeth upon us, and entereth in; and, subtilly deceiving us, turneth away our prayers from God, that we may have one thing in our heart, and another thing in our mouth. But not the sound of the voice, but the mind and sense, ought to pray unto God with an unfeigned affection3." Thus far he. But that the mind of him that prayeth may be lifted up from earthly things unto heavenly things, that is chiefly the work of the spirit of true faith, the stedfastness of hope, and the fervent love of God ; if also we have in remembrance the dreadful majesty of God, before whose eyes we stand pray- f1 So also 15S4 ; but 1577, Jesu.] [2 eleganter, Lai.]
 
 [3 Quando autem stamus ad orationem, fratres dileetissimi, vigflare et incumbere ad preces toto corde debemus. Cogitatio omnis carnalis et secularis abscedat, nee quidquam tunc animus quam id solum cogitet quod precatur. . . . Claudatur contra adversarium pectus, et soli Deo pateat, nee ad se hostem Dei tempore orationis adire patiatur : obrepit enim frequenter et penetrat, et subtiliter fallens preces nostras a Deo avocat, ut aliud habeamus in corde, et aliud in voce, quando intentione sincera Dominum debeat non vocis sonus, sed animus et sensus orare. — Cyprian.de Orat. Domin. Opp. p. 152. Oxon. 1682.] ing. Him all the creatures in heaven and earth do worship and reverence ; thousand thousands of angels serve him. Let us think with ourselves, how profitable and necessary things we ask of God, without which we cannot be happy. Let us, moreover, remove from us all those things, which either detain and keep us in this world, or pull us back unto earthly things ; of which sort are these, slothfulness, covetousness, and surfeiting, and, to be short, all other sins like unto these : and contrariwise, let us apply ourselves to watchfulness, soberness, gentleness, and liberality. Surely the scripture almost everywhere joineth unto prayer fasting and mercy ; for these virtues make us more cheerful and ready to pray through faith. Daniel saith: " I turned my face unto the Lord God, Dan. ix. and sought4 him by prayer and supplication, with fasting, sackcloth, and ashes." Neither unlike to this do Jonas and Joel teach. Yea, in the gospel and writings of the apostles we every where hear : ""Watch; be fervent in prayer; be sober.1' For, the belly being full, either no prayers at all, or else fat and unwieldy prayers, are made. Whereof we read that St Augustine said : " Wilt thou have thy prayer fly up unto God ? make it two wings, fasting and alms-deeds5." For in the Acts of the Apostles the angel of the Lord saith to Cornelius, the centurion: "Thy prayers and thine alms-deeds are had inActsx. remembrance in the sight of God."
@@ -219,8 +212,6 @@ And surely God requireth of us fervent praver ; but it Let prayer i i i i i • 
 [■* ut rogarem, Lat. : to seek.]
 
 [5 Vis orationem tuam volare ad Deum? Fac illi duas alas, jejunium et eleemosynam. — August. Enarrat. in Psalm, xlii. 8. Opp. Tom. Tin. fol. 81. col. 4. Par. 1531.]
-
-180 THE FIFTH DECADE. [SERM.
 
 against thee, leave there thy gift before the altar, and go thy way ; first be reconciled to thy brother, and then come and offer thy gift:" for otherwise all thy gifts shall not be acceptable unto God. Let us therefore willingly forgive, and let us love and do good unto our neighbours ; so our prayers shall pierce the heavens, we must not Agreeable unto this is, that we pray not only with the yiray with O . .
 
@@ -237,8 +228,6 @@ Matt.xxiii. men the Lord pronounceth in the gospel: "Woe be unto you, scribes an
 This is also required of him thatprayeth; that he desire wemust x . require no- not things unworthy for God to grant, nor require those J^s^f* is things that are contrary to the laws of God. For St John ^^and the apostle saith, " If we ask anything according to his will, m™™i ,0 he heareth us :" therefore when we ask things unworthy for l John v" God to grant, he heareth us not. Moreover, always and in all our prayers our will and our desires ought to be obedient to God and his will. Therefore let no man go about wickedly to tie God to certain circumstances ; let no man prescribe unto God at what time, in what place, or after what manner, he shall bring to pass anything that he will do. God, who is only wise, knoweth when it is time to help. He is also both faithful and omnipotent, and able indeed to do greater things than either we can ask or understand ; which thing we also read that Paul hath said. Therefore, not without cause is that most honest widow, Judith, very angry with Osias the priest, Judith vui. because he appointed a set number of days unto God; which being ended, he should deliver, or otherwise they would give up the city. For Judith saith : " What manner of sentence is this, whereunto Osias hath consented; to deliver this city unto the Assyrians, if within five days there come not succour for us ? And who are ye that tempt the Lord ? This is not a sentence like to obtain mercy, but rather to provoke wrath and kindle displeasure. You have set the mercy of God a time, and have appointed him a day after your own phantasy. But forasmuch as the Lord is patient, let us so much the rather repent, and crave pardon at his hands, by pouring out of tears." Therefore David is read to have spoken most godly, being in extreme danger: "If I shall find favour in the 2Sam.xv. eyes of the Lord, he will bring me again ; but if he say to me, I have no lust to thee; behold, here am I; let him do with me what seemeth good in his eyes."
 
 And now also long continuance is very needful in prayers, comlSuein prayer.
-
-182 THE FIFTH DECADE. [sERM.
 
 " Ask," saith the Lord in the gospel, " and it shall be given you ; seek, and ye shall find ; knock, and it shall be opened unto you." And by this heaping together of words, he often remembercth us1 of continuance in prayer. "Ask," saith he, earnestly and constantly, as they do which require things whereof they stand in need ; " seek," as they are wont, that search for things that are hidden and precious ; " knock," as they are wont, who with earnest desire covet to come in to their friend. For all these sayings do not only signify a desire, but also a continual study to obtain things required. In the gospel according to St Luke, the Lord put forth a parable tending "to this end, that we ought always to pray, and iThess.v. never to be wearied." For Paul also saith : "Rejoice alway ; pray continually ; in all things give thanks." Yet let no man think, that by these words of the Lord and the apostle the error of the heretics Psallini, or Euchitae2, is confirmed. They did nothing else but pray. The Lord commandeth to pray always ; that is to say, as often as we conveniently may, at all times and in all places, to be of an upright heart toward God3 in all things, which should always wait for good things at God's hand, and give him thanks for benefits received ; which should also continually ask favour of him. Such an endeavour is commended unto us in Anna, the daughter of Phanuel, of
 
@@ -260,8 +249,6 @@ And now also it will not be hard to judge of the place of onhepiace prayer ; for
 
 [6 Conveniant ecclesia?, Lat. : let the churches come together.]
 
-184 THE FIFTH DECADE. [sERM.
-
 place, neither is it judged better in one place than in another; for the goodness or worthiness of the prayer is not esteemed by the place, but by the mind of him that prayeth. For the
 
 John iv. Lord in the gospel saith : " The hour will come, and now is, when the true worshippers shall worship the Father in spirit to pray in and in truth, &c." But they are in no wise to be passed
@@ -280,8 +267,6 @@ Some foolishly imagine, that prayer is made either better or worse by the gestur
 
 [4 Sit autem orantibus sermo et precatio cum disciplina, quietem continens et pudorem. Cogitemus nos sub conspectu Dei stare ; placendum est divinis oculis et habitu corporis et modo vocis. Nam ut impudentis est clamoribus strepere, ita contra congruit verecundo modestis precibus orare. — Cyprian, de Orat. Domin. Opp. p. 140. Oxon. 1682.]
 
-186 THE FIFTH DECADE. [sERM.
-
 " It skilleth not, after what sort our bodies be placed, so that the mind, being present with God, do bring her purpose to pass. For we both pray standing, as it is written, ' The publican stood afar off;' and kneeling, as we read in the Acts of the Apostles ; and sitting, as did David and Elias. And unless he might pray lying, it should not have been written in the Psalms, ' Every night wash I my bed.' For when any man seeketh to pray, he placeth the members of his body after such a manner as it shall seem most meet to him for the time to stir up his devotion. But when prayer is not sought, but an appetite or desire to prayer is offered ; when anything cometh on the sudden into our mind, whereby we are devoutly moved to pray with sighs that cannot be uttered; after what manner soever it findeth a man, doubtless, prayer is not to be deferred, until we have sought in what place we may sit, or where we may stand or kneel down1." Tertullian, making mention of the behaviour of the Christians of his time when they prayed, in his Apology against the Gentiles, saith : " We Christians are all of us evermore praying for all men, looking up into heaven, with our hands spread abroad, because we are harmless ; we are bare-headed, because we are not ashamed ; to be short, we need none to put us in remembrance, because we pray from the heart2." Where, notwithstanding, we must chiefly have in our remem-
 
 \} Quibus admonemur exemplis, non esse procscriptum quomodo corpus constituatur ad orandum, duramodo animus Deo preesens peragat intentionem suam. Nam et stantes oramus, sicut scriptum est, Publicanus autem de longinquo stabat ; et fixis genubus, sicut in Actis Apostolorum legimus ; et sedentes, sicut, ecce, David et Helias. Nisi autem jacentes oraremus, non scriptum esset in Psalmis, Lavabo per singulas noctes lectum meum. . . . Cum enim quisque orationem quoerit, collocat membra sicut ei occurrerit, accommodata pro tempore positi corporis ad movendum affectum. Cum autem non quocritur, sed infertur appetitus orandi, boc est, cum aliquid repente venit in mentem, quo supplicandi moveatur affectus gemitibus inenarrabilibus ; quocunque modo invenerit bominem, non est utique differenda oratio, ut quocramus quo sedeamus, aut ubi stemus, aut ubi prosternamur
@@ -298,9 +283,9 @@ In the discourse of prayer, no man will say that it is the what we
 
 those that be set in authority, " that we may lead a quiet and i Tim. u. peaceable life in all godliness and honesty." Private persons are our parents, wife, children, kinsfolk, allies, neighbours, citizens, friends, enemies, sick persons, captives, such as are afflicted, and, to be short, all that are nigh about us, whose health and safety nature and Christian charity willeth by prayers to commend unto God; and whereof there are also testimonies and examples in the scripture. But the things we should pray for are those good things that are to be desired ; whereof some are heavenly, spiritual, or eternal ; and other earthly, corporal, or temporal. Moreover, some things verily are common, other some again are private : those things that are common pertain to the whole church and commonwealth ; neither belong they to a few, as do private things. And spiritual things are chiefly reckoned to be these; faith, hope, charity, perseverance, and that whole company of all manner virtues, the profit and safety of the church, forgiveness of sins, and life everlasting. Among the which not unfitly are reckoned the gifts of understanding, the liberal sciences, well
 
-THE FIFTH DECADE.
+## The Fifth Decade
 
-[SERM.
+## [Serm
 
 It is lawful to a^ k corporal goods of the Lord.
 
@@ -315,8 +300,6 @@ ordered schools, faithful teachers, godly magistrates, and upright laws. Corpora
 [5 Dutch or, not in Lat.] [6 dirimens, Lat. : deciding.]
 
 [7 lingua, Lat. : strange, not in Lat.]
-
-190 THE FIFTH DECADE. [sERM.
 
 Amen at thy giving of thanks, seeing he knoweth not what thou say est? Thou verily givest thanks well1, but the other is not edified. I thank my God, I speak languages more than you all : yet had I rather in the church to speak five words with mine understanding, that I might also instruct others, than ten thousand words in a strange tongue." And truly, this very place doth Justinian the emperor cite In Novell. Const. 123, where he straitly commandeth bishops and ministers, not secretly, but with a loud voice which might be heard of the people, to recite the holy oblation and prayers used in holy baptism, to the intent, that thereby the minds of the hearers might be stirred up with greater devotion to set forth the praises of God2. Moreover, it is evident that Gregory himself, who is called the Great, spake to the citizens3 in the city of Rome in their country language : which thing he himself witnesseth in the preface of his commentary upon Ezechiel to Marianus the bishop4. Of the Greek bishops, no man is ignorant that they had their whole service in their churches in their own native language, and have left their writings unto us in the same tongue. We might therefore worthily be judged mad and void of understanding, if we also in the administration of divine service in the church use not our own language ; since so many and so excellent examples, both of most famous churches, and of most singular bishops and governors of the church, have gone before us ; that I speak not again of the most express and manifest doctrine of St Paul the apostle. thfeSlhurni?hin ^his place now requireth, that I speak somewhat of singing in the church, and of canonical hours. But let no
 
@@ -337,8 +320,6 @@ Pnef. Tom. i. p. 1173. Par. 1705.] man think, that prayers sung with man's voice
 [5 So also 1584; but 1577 prayers.] [6 operosam, Lat.]
 
 [7 modulationo, Lat.]
-
-192 THE FIFTH DECADE. [sERM.
 
 And albeit we neither read, that the Lord himself commanded singing to his apostles, neither that they ordained singing in the church ; neither yet do read in the Acts of the Apostles, that they themselves did sing in holy assemblies ; yet raui rebuked paul did not rebuke the church at Corinth, which began to not them _ O that sung. gjng? either of her own accord, or by a certain imitation of the old church ; because he saw their manner of singing differed much from the old. He therefore suffered singing of psalms; but, in the mean time, he preferred before it prophecy, or the office of preaching : and he also required of them that did sing, both a measure to be kept, and also that it should be done with understanding ; without which, doubtless, both prayer and singing is not only unprofitable, but also hurtful.
 
@@ -368,8 +349,6 @@ Can. 59. Concil. Laod. Labb. et Coss. Tom. I. col. 1507. Item placuit, ut prsete
 
 [bullinger, iv.J
 
-194 THE FIFTH DECADE. [SEIUI.
-
 sing, that with a little altering of the voice it made him that sang to be heard the further ; so that the sinking was more like loud reading than song1." These things he borrowed out of the 33. chap, of St Augustine's 1 0. book of Confessions ; who in that one place plainly confesseth, that he doth sin when he is more delighted with the sweetness of the voices than with the sense of the words ; and therefore desireth, that all the melodious tunes of sweet songs, wherewith the Psalter of David is replenished, might be removed from his ears and the hearing of the church. For it seemed to be more safe, which he remembered he had often heard concerning Athanasius, bishop of Alexandria ; who with so little straining of the voice made the reader of the psalm to utter it, that he rather seemed to read than to sing2, song was The last of the things I said I would put you in mind always free, p e ° § .
 
 but not of is, that singing, howsoever it be an ancient institution, universally ' O o'
@@ -394,8 +373,6 @@ If this uprightness and liberty had remained safe and Agreement r o 1/ in singin
 
 13—2
 
-196 THE FIFTH DECADE. [sERM.
-
 fleshly-minded men's sake, and not for such as are guided by the Spirit, the custom of singing is instituted in the church ; that they, that are not moved by words, may be allured with the sweetness of the melody, &C1?"
 
 But the singing, about which there is controversy at this day, is not that ancient singing; but, that more is, both in matter and tune for the most part it is clean contrary to the old.
@@ -419,8 +396,6 @@ Furthermore, that our ancient predecessors had certain of canonical and appointe
 [? sine verbis significantibus, Lat.] [8 See Vol. in. p. 395.]
 
 [9 tranquillis, Lat.]
-
-198 THE TIFTH DECADE. [sERM.
 
 witnesseth in many places. David more than once in his Psalms saith, that he will go unto the Lord in the morning Dan. vl and evening. Daniel prayed unto the Lord at three several hours or times of the day. Again, David saith : " Seven times in a day do I praise thee ;" but by seven times he understandeth many times. For so elsewhere we read written : Lev. xxvi. "I will smite you for your sins seven times;" and again: prov. xxiv. « The just man falleth seven times, and riseth up again ;" and Lukexvii. also: "If thy brother sin seven times in a day, and turn seven times in a day unto thee," &c. Seven times therefore in divers places, as also in this of David, is put for many times. And Christ our Lord hath tied the private prayers of the faithful (as we have also told you before1) neither to place, nor yet to time : he hath not taken away public prayers; for he is the Lord, not of confusion, but of order : but his disciples, when they were in the land of Jury2, did themselves also observe the accustomed hours of praying which that nation kept, at liberty, not of necessity, and specially for Actsiii. the assembly's sake. For Peter and John go up into the Acts ii. temple at the ninth hour of prayer. In the day of Pentecost all the saints with one accord were gathered together, and received the Holy Ghost, at the third hour of the day. And it is also read, that Peter privately went up into the upper part of the house about the sixth hour. The temple being destroyed, and the Jews scattered abroad, the churches gathered out of the gentiles did not observe like hours of gatherings together3, or of assemblies; but at their own liberty, as to Trip. lib. ix. every church it seemed most meet and convenient. Of which diversity truly the ecclesiastical history also maketh mention ; yet for the most part there were hours in the morning and evening used for assemblies. St Hierome, in his epitaph upon Paula, expounding not the rite or order of the universal church, what it should do in holy assemblies, but what the » companies of solitary virgins are wont to do of their own accord, saith : "In the morning, at three, six, and nine of the clock, at evening, at midnight, they did sing the Psalter by order. Only upon the Sunday they went unto the church,
 

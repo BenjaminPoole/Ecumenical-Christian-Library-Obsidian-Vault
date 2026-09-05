@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 215. Matthew 28:1-7; Mark 16:1-7; Luke 24:1-8
-
-**MATTHEW 28:1-7; MARK 16:1-7; LUKE 24:1-8**
 
 **1.** Now in the evening of the Sabbaths, [^1] which began to dawn towards the first of the Sabbaths, came Mary Magdalene, and the other Mary, to see the sepulcher. **2.** And lo, there was a great earthquake; for the angel of the Lord came down from heaven, and approached, and rolled away the stone from the door, and sat upon it. **3.** And his countenance was like lightning, and his raiment was white as snow. **4.** And through fear of him the guards trembled, and became as dead men. **5.** But the angel answering, said to the women, Fear not; for I know that you seek Jesus, who was crucified. **6.** He is not here; for he is risen, as he said. Come, see the place where the Lord lay: **7.** And go quickly, and tell his disciples that he is risen from the dead; and, lo, he goeth before you into Galilee; there shall you see him: lo, I have told you.
 

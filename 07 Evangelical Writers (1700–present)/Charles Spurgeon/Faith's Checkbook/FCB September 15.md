@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # September 15
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**THE SAFEST SHELTER**
+## **The Safest Shelter**
 
 > And a man shall be as an hiding-place from the wind and a covert from the tempest." Isa. 32:2
 
@@ -23,7 +22,6 @@ Who this MAN is we all know. Who could He be but the Second Man, the Lord from H
 Often the common wind of trouble rises in its force and becomes a tempest, sweeping everything before it. Things which looked firm and stable rock in the blast, and many and great are the falls among our carnal confidences. Our Lord Jesus, the glorious Man, is a covert which is never blown down. In Him we mark the tempest sweeping by, but we ourselves rest in delightful serenity.
 
 This day let us just stow ourselves away in our hiding-place, and sit and sing under the protection of our Covert. Blessed Jesus! Blessed Jesus! How we love thee! Well we may, for thou art to us a shelter in the time of storm.
-
 
 ---
 [[FCB September 14|← September 14]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB September 16|September 16 →]]

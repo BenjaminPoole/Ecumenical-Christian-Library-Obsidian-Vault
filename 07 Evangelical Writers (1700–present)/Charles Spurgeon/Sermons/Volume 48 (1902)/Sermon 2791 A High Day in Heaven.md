@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # A High Day in Heaven
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2791
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner who repents." Luke 15:10.
 
@@ -99,7 +96,7 @@ Bursting on my ravished ear!
 
 Come and welcome, Sinner, come. You have but to trust Him and you have come to Him—to rely upon Him—to depend upon Him—to lean upon Him— to cast yourself upon Him, to believe in Christ Jesus, who died, the Just for the unjust, that He might bring us to God— for, as soon as you do so, you are brought back to the great Father's house. May the Divine Spirit bring you there now, for His love's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 15.
+## Exposition by C. H. Spurgeon: Luke 15
 
 Verse 1. Then drew near unto Him all the publicans and sinners to hear Him. However sunken they might be, they knew their best Friend! They recognized their Benefactor, so they gathered around Him. They knew who it was that smiled upon them and who would lift them up, so they came clustering around Him, like bees fly to the flowers. "Then drew near unto Him all the publicans and sinners to hear Him."
 
@@ -146,7 +143,6 @@ want?"
 32\. That we should make merry, and be glad: for this, your brother. ' 'For he is your brother. Notwithstanding your richer experience and your deeper Christian knowledge, and your high standing in the church, this poor prodigal, who is just saved, is your brother! So it is meet that we should make merry and be glad, for this, your brother"—
 
 32\. Was dead, andis alive again; and was lost, andis found.
-
 
 ---
 [[Sermon 2790 Our Lord's Substitution|← #2790]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2792 A Psalmist's Question and Answer|#2792 →]]

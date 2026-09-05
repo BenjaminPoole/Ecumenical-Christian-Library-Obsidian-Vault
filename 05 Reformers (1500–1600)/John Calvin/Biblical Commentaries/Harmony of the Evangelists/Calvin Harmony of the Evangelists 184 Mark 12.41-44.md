@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 184. Mark 12:41-44; Luke 21:1-4
-
-**MARK 12:41-44; LUKE 21:1-4**
 
 **41.** And while Jesus was sitting opposite to the treasury, he perceived how the multitude threw money into the treasury, and many rich persons put in much. **42.** And a poor widow came, and threw in two mites, which make a farthing. **43.** And having called his disciples to him, he said, Verily I say to you, that this poor widow hath thrown in more than all who have thrown into the treasury: **44.** For they all have thrown in out of their abundance; but she out of her poverty hath thrown in all that she had, all her living. [^1]
 

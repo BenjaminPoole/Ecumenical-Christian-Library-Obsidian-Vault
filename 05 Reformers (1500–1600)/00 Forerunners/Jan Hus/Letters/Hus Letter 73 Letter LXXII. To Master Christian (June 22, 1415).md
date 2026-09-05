@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 73. Letter LXXII. To Master Christian (June 22, 1415)
-
-LETTER LXXII. TO MASTER CHRISTIAN (June 22, 1415)
 
 Last words and exhortations ....'.. 249-50
 

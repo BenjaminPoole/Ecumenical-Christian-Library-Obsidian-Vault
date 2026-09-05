@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 160. Matthew 19:23-26; Mark 10:23-27; Luke 18:24-27
-
-Matthew 19:23-26; Mark 10:23-27;  
-Luke 18:24-27
 
 **23**. And Jesus said to his disciples, Verily I say to you, A rich man will with difficulty enter into the kingdom of heaven. **24**. Again I say to you, It is easier for a camel [^1] to pass through the eye of a needle, than for a rich man to enter into the kingdom of God. **25**. And his disciples, when they had heard these things, were greatly amazed, [^2] saying, Who then can be saved? **26**. And Jesus, beholding them, said to them, With men this is impossible; but with God all things are possible.
 

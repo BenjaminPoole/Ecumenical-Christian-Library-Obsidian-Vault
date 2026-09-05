@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # The Simplicity and Sublimity of Salvation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2259
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He came unto His own, and His own received Him not. But as many as received Him, to them gave He power to become the sons of God, even to them that believe on His name: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God." John 1:11-13.
 
@@ -109,7 +106,7 @@ Oh, come and believe in Him, poor Sinner! I feel that if I had all your souls, I
 
 before the Throne of God! Only trust Him and you will be saved! May His gracious Spirit lead you to do so now, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON JOHN11-34
+## Exposition by C. H. Spurgeon John 11-34
 
 May the Holy Spirit, who inspired these Words, inspire us through them as we read them! Verse 1. In the beginning was the Word. The Divine Logos, whom we know as the Christ of God. "In the beginning was the Word." The first words of this Gospel remind us of the first words of the Old Testament—"In the beginning God created the Heaven and the earth." Even then "the Word" Was—He existed before all time, even from everlasting.
 
@@ -147,7 +144,7 @@ before there was a creation that could fall, "the same was in the beginning with
 
 17\. For the Law was given by Moses, but Grace and Truth came by Jesus Christ. We know that the Law came by Moses. The Law has often burdened us, crushed us, convinced us, condemned us. Let us be equally clear that Grace and the Truth of God come by this Divine channel, "Jesus Christ."
 
-18\. No man has seen God at any time; the only- begotten Son, which is in the bosom of the Father, He has declared Him. We do not need to see God apart from Christ. I am perfectly satisfied to see the Eternal Light through His own chosen Medium, Christ Jesus. Apart from that Medium, the light might blind my eyes! "No man has seen God at any time." Who can look on the sun? What mind can look on God? But Christ does not hide the Father—He manifests Him. "The only-begotten Son, which is in the bosom of the Father, He has declared Him."
+18\. No man has seen God at any time; the only-begotten Son, which is in the bosom of the Father, He has declared Him. We do not need to see God apart from Christ. I am perfectly satisfied to see the Eternal Light through His own chosen Medium, Christ Jesus. Apart from that Medium, the light might blind my eyes! "No man has seen God at any time." Who can look on the sun? What mind can look on God? But Christ does not hide the Father—He manifests Him. "The only-begotten Son, which is in the bosom of the Father, He has declared Him."
 
 19 - 23. And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who are you? And he confessed and denied not; but confessed, I am not the Christ. And they asked him, What then? Are you Elijah? And he said, I am not. Are you the Prophet? And he answered, No. Then said they unto him, Who are you? That we may give an answer to them that sent us. What say you of yourself? He said, I am the voice—not, "I am the Word," but—I am the voice." Christ is the essential Word—we are but the voice to make that Word of God sound across the desert of human
 
@@ -166,7 +163,6 @@ life.
 31 - 33. But that He should be made manifest to Israel, therefore am I come baptizing with water. And John bore record, saying, I saw the Spirit descending from Heaven like a dove, and it abode upon Him. And I knew Him not: but He that sent me to baptize with water, the same said unto me, Upon whom you shall see the Spirit descending, and remaining on Him, the same is He which baptizes with the Holy Spirit. John could not know of his own judgment. No doubt he was morally certain that Jesus was the Christ. He had been brought up with Him. He knew His mother, he had heard of His wondrous birth. John and Jesus must have been together often, but he was not to use his own judgment in this case, but to wait for the sign from Heaven. And until he witnessed it, he did not say a word about it. When he saw the Holy Spirit descend upon Him, then he knew that it was even He!
 
 34\. And I saw, and bare record that this is the Son of God. Hear you, then, the witness of John! The Christ, who came from Nazareth to be baptized of him in Jordan, He on whom the Holy Spirit descended like a dove—"this is the Son of God." This is the sin-bearing Lamb! Oh, that you and I might fulfill John's expectation, for he spoke that we might believe. He, being dead, yet speaks! May we believe his witness and be assured that "this is the Son of God!"
-
 
 ---
 [[Sermon 2258 Where Is the Lord|← #2258]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2260 Christ's Hospital|#2260 →]]

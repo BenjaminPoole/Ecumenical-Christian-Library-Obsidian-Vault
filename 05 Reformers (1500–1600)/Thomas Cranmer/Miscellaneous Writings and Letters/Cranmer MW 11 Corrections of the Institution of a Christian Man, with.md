@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 11. Corrections of the Institution of a Christian Man, with Cranmer's Annotations, Part 2
 
 Second, that although all images, be they engraven, painted, or wrought in arras, or in any other wise made, be so prohibited that they may neither be bowed down unto ne worshipped P, (for asmuch as they be the works of man's hand only,) yet they be not so prohibited, but that p as God) they may be had and set up q*in churches,* so it be for none other purpose but only to the intent that we (in beholding and looking upon them, as in certain books, and seeing represented in them the manifold examples of virtues, which were in the saints, represented by the said images) may the rather be provoked, kindled, and stirred to yield thanks to our Lord, and to praise him in his said saints, and to remember and lament our sins and offences, and to pray God that we may have grace to follow their goodness and holy living. As for an example. The image of our Saviour, as an open book, hangeth on the cross in the rood, or is painted in cloths, walls, or windows, to the intent that beside the examples of virtues which we may learn at Christ, we may be also many ways provoked to remember his painful and cruel passion, and also to consider ourselves, when we behold the said image, and to condemn and abhor our sin, which was the cause of his so cruel death, and thereby to profess that we will no more sin : and furthermore, considering what high charity was in him that would die for us his enemies, and what great dangers we have escaped, and what high benefits we receive by his redemption, we may be pro voked in all our distresses and troubles to run for comfort unto him. All these lessons, with many more, * we may learn in this book of the rood, if we will entirely and earnestly look upon it.* And as the fi be brought to our remembrance by the book of the rood, if we, life of our Saviour Christ is represented by this image, even so the lives of the holy saints which followed him be represented unto us by their images. And therefore the said images may well be set up in churches, to be as books for unlearned people, to learn therein examples of humility, charity, patience, temperance, contempt of the world, the flesh, and the devil, and to learn example of all other virtues, and for the other causes above rehearsed. For which causes only images r * be to * be set in the churches, and not for any honour to be done unto them. For although we use to cense the said images, and to kneel before them, and to offer unto them, and to kiss their feet, and such other things ; yet we must know and understand, that such things be not nor ought to be done to the images self, but only to God, and in his honour, or in the honour of the holy saint or saints which be represented by the said images.
@@ -31,7 +30,7 @@ Iv. " Priests and bishops." If these words be added, then this sentence joineth 
 
 [( August. De fide et symb. cap. vii. Tom. III. [» See Nee. Doctr. p. 299. J [9 Ibid. p. 303.J
 
-102 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 102 Corrections of the Institution by Henry VIII
 
 Inst. p. 140. Item, That they also do take the name of God in vain, which swear to do that thing which they intended not to do; or swear to forbear that which they intended not to forbear; or swear to do any thing, which to do is unlawful ; or swear to leave undone any thing, which to omit or leave undone
 
@@ -95,7 +94,7 @@ The declaration of the fifth Commandment.
 
 \Inst. p. 148.] As touching the fifth Commandment, we think it convenient, that all bishops and preachers shall instruct and teach the people committed to their spiritual charge, first, that by this word father is understanded here, not only the natural father and mother which did carnally beget us and brought us up, but also * the spiritual father, (Ix.) by whom we be spiritually regenerated and nourished in Christ ; and * all other governors and rulers, under whom we be nourished and brought up, or ordered and gmded. *And although this commandment make express mention only of the children or inferiors to their parents and superiors, yet in the same is also understanded and comprised the office and duty of the parents and superiors again unto their children and inferiors.* lx. "Also the spiritual father, by whom." Methinketh this might well remain, that the preachers of God's word might be the better esteemed and had in reputation : neither should it be so done without example of good authority to be followed, seeing that St Paul looked so to be reputed of the Corinthians, yea, and rebuked them as unkind children, in that they had more regard of other which were but their school masters, than of him which was their father, that is, did first beget them unto Christ by preaching the word of God unto them : as he saith, 1 Cor. iv. Si dccem millia pasdagogorum habeatis in Christo, at non multos patres. Nam in Christo Jcsu per ecangeliwm ego vos genui. And now also they that preaching the word of God do p See Nee. Doctr. p. 308.] • [fi Ibid. p. 309,] [7 Ibid. p. 310. | \ R Ibid. p.
 
-104 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 104 Corrections of the Institution by Henry VIII
 
 attd by teach us in our youth the principles of our faith, seem to supply the same room, and may be right well called our spiritual fathers1.
 
@@ -151,7 +150,7 @@ Ixix. ^Without due recompence." This addition agreeth not well with the co vetin
 
 [6 In this and the three following objections Cranmer succeeded. Nee. Doctr. p. 320.]
 
-106 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 106 Corrections of the Institution by Henry VIII
 
 although recompensation be made, yet the commandment nevertheless is transgressed and broken1.
 
@@ -171,7 +170,7 @@ Jnst. p. 178. 1. Our Father that art in heaven, thy name be hallowed.
 
 Ixxi. "Suffer not us to be led." Christ taught ns thus to pray, "Lead us not into temptation." And we should not alter any word in the scripture, which wholly is ministered unto us by the Ghost of God, 2 Pet. i., although it shall appear to us in many places to signify much absurdity : but first, the scripture must be set out in God's own words, and if there be any ambiguity, absurdity, or scruple, after it would be declared, according to the true sense thereof3.
 
-Inst. p. 182. Fifthly, that in these words, Our Father, is signified, that we ought to believe, *not only* that Almighty God is the common Father of all Christian people, and equally and indifferently regardeth k touching the soul, and. Ixxii. the "e^ anc^ the poor, the free and the bond, the lord and the subject ; k * but * i endeavouring themselves to also that aU Christian people1 be Christ's own brethren, and the very co- live according to his precepts inheritors and compartioners with him in the kingdom of heaven; and finally, ro our that all Christian men be brethren together, and have all one Father, which is n»God Almighty.
+Inst. p. 182. Fifthly, that in these words, Our Father, is signified, that we ought to believe, *not only* that Almighty God is the common Father of all Christian people, and equally and indifferently regardeth k touching the soul, and. Ixxii. the "e^ anc^ the poor, the free and the bond, the lord and the subject ; k * but * i endeavouring themselves to also that aU Christian people1 be Christ's own brethren, and the very co-live according to his precepts inheritors and compartioners with him in the kingdom of heaven; and finally, ro our that all Christian men be brethren together, and have all one Father, which is n»God Almighty.
 
 Ixxii. "Touching the soul." Christ testifieth that all that be elect shall of God be equally and indifferently regarded of him in every condition, concerning not only the soul but also the body: so that, considering the state whereunto he hath called them, he provideth meat, drink, and clothing for them, Matt. vi. : yea, and that every hair of their head is in reputation under God, and in his preservation, Matt, x., Luke xii. And although he provide more abundantly for the lords and rich men, than he doth for the subjects and poor folks, yet he no more accepteth and regardeth the rich with their riches, than he doth the poor with their poverty : but every man, as his heart is joined and affied to God, so he is accepted and regarded of God, whether he be rich or poor, free or bond.
 
@@ -205,7 +204,7 @@ Ed. Paris. 1635 — Ideo bene eiudilus ipse Job non [6 Id. in Psalm, xxxvi. et c
 
 ait, Dominus dedit et diabolus abstulit: sed, 116,497.]
 
-108 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 108 Corrections of the Institution by Henry VIII
 
 ' at only of original sin, that we be allr utterly inclined to disobey the will and precepts of God, and so our selves. \KX\\. to love ourselves and our own wills, that without a special grace and a singular inspiration of God, we cannot heartily love neither God nor man, but in respect to ourselves, as we may have benefit and commodity by them.
 
@@ -235,7 +234,7 @@ and truly to live. Ixxvi.
 
 Inst. p. 192. But seek you first the kingdom of God and his righteousness, and then God shall cast all these things unto you z. These be the words of Christ, full of good and comfortable lessons, that we should not care ne set our hearts too much upon these worldly things, ne care so much for to-morrow, that we shall seem to mistrust
 
-And also here it a thing greatly to be noted in comfort of our Lord5 * and that we should sequester this care from the true labouring man: for surely, be he craftsman, be us, and seek for the kingdom of God, and employ our- selves whollv to the getting thereof : and then he maketh and they that do contrary thall be in jeopardy of dama comfortable promise that we shall not lack things nation. Ixxvii.
+And also here it a thing greatly to be noted in comfort of our Lord5 * and that we should sequester this care from the true labouring man: for surely, be he craftsman, be us, and seek for the kingdom of God, and employ our-selves whollv to the getting thereof : and then he maketh and they that do contrary thall be in jeopardy of dama comfortable promise that we shall not lack things nation. Ixxvii.
 
 necessary for us.*
 
@@ -243,7 +242,7 @@ P See Nee. Doctr. p. 340.] [2 " The craft of begging slothfully" seems to be the
 
 but as there is some doubt respecting the words, the orthography of the original manuscript has been preserved.]
 
-WITH CRANMER'S ANNOTATIONS.
+## With Cranmer's Annotations
 
 Ixxvi. " And teach us the ways justly and truly to live." We may not add in such wise to the scripture, as no man that can read it can judge other, but that it is some part of the promise made there by Christ. For besides that the text will give it, also it followeth immediately: "These be the words of Christ." Now we may not so boldly make promises of God's behalf. Si enim verum sit illud Pauli, Hominis testamentum, uli semel prolatum sit, nemo rejicit, aut addit ei aliquid; quanta magis testimoniis et testamento Dei altissimi nihil est addendum vel detrahendum ! 3
 
@@ -267,7 +266,7 @@ Second, that* * God will not* forgive us our sins, k*but upon condition that !&.
 
 [5 " Daily" was omitted in spite of Cranmcr. Nee. Doctr. p. 345.J
 
-110 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 110 Corrections of the Institution by Henry VIII
 
 tent and mind to hanutdo of God) Christ (Jeclareth in sundry places of the gospel.* For, first, by express xn, ,i/i/),-a)-(-tfi in muni/ t)lai-i's words Christ saith, If you forgive men their offences done against you, your heavenly Father will forgive you your offences. * And if you will not forgive them that offend you, be you assured your Father will not forgive you your offences.*
 
@@ -301,7 +300,7 @@ That this may stand with charity, and also the forgiveness that Christ requires 
 
 I3 Though this clause is not found in the J p. 349.]
 
-112 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 112 Corrections of the Institution by Henry VIII
 
 him ; I must pray to God to give him repentance for his misdeeds ; I must desire God, that for Christ's sake he will not impute the sin unto him, being truly repentant, and so to strengthen him in grace, that he fall not again so dangerously. I think I were no true Christian man, if I would not thus do. And what other thing is this, than, for as much as licth in me, with all my heart to remit the trespass ? But I may by the laws require all that is due unto me by right. And as for the punishment and correction, it is not my part to enterprise therein : but that only belongcth to the superior powers, to whom, if the gricvousncss of the cause shall require, by God's commandment which willeth us to take away the evil from amongst us, we ought to shew the offences and complain thereof. For he would not that we should take away the evil but after a just and lawful mean, which is only by the ordinance of God to shew the same to the superior powers, that they may take an order in it accord ing to God's judgment and justice.
 
@@ -317,7 +316,7 @@ r signification Inst. pp. 209, 10. As touching the P* order* and cause of our ju
 
 «• Item, That the chief and first mmn
 
-Item, That sinners attain this justification by contrition and faith, tfhereby'sinners attain tte same justification, joined with charity, after such sort and manner as is before mentioned whtS^thaTchritib^ l°unand declared in the sacrament of penance. Not as though our con- deserved on our behalf; for bit his passion trition or faith, or any works proceeding thereof, can worthily merit ^tifi^atic^ewh^eforeUhe nfosFwwihil^is or deserye to attain the said justification. For the only mercy and to be of us honoured, and esteemed our sole grace of the Father, promised freely unto us for his Son's sake Jesu
+Item, That sinners attain this justification by contrition and faith, tfhereby'sinners attain tte same justification, joined with charity, after such sort and manner as is before mentioned whtS^thaTchritib^ l°unand declared in the sacrament of penance. Not as though our con-deserved on our behalf; for bit his passion trition or faith, or any works proceeding thereof, can worthily merit ^tifi^atic^ewh^eforeUhe nfosFwwihil^is or deserye to attain the said justification. For the only mercy and to be of us honoured, and esteemed our sole grace of the Father, promised freely unto us for his Son's sake Jesu
 
 Christ, and the merits of his blood and passion, be the only sufficient and worthy causes thereof. And yet that notwithstanding, to the attaining of the same justification, God requireth to be in us not only inward contrition, perfect faith and charity, certain hope and confidence, with all other spiritual graces and motions, which, as was said before, must necessarily concur in remission of our sins, that is to say, our justification ; but also he requireth and commandeth us that, after we be justified, we must also have good works of charity and obedience towards God, in the observing and fulfilling outwardly of his laws and commandments. For although acceptation to everlasting life be conjoined with justification, yet our good works be necessarily required to the attaining of everlasting life. And we, being justified, be necessarily bound, and it is our necessary duty, to do good works, according to the saying of St Paul, "We be bound not to live according to the flesh and to fleshly appetites ; for if we live so, we shall undoubtedly be damned. And contrary, if we will mortify the deeds of our flesh, and live according to the Spirit, we shall
 
@@ -335,9 +334,9 @@ And, for a further declaration, to know how we obtain our justification, it is e
 
 The commandments of God lay our faults before our eyes, which putteth us in fear and dread, and maketh us see the wrath of God against our sins, as St Paul saith, Per legem agnitio pcccati, et, Lex iram operatur, and maketh us sorry and repentant, that ever we should come into the displeasure of God and the captivity of the devil. The gracious and benign promises of God by the mediation of Christ sheweth us, (and that to our great relief and comfort,) whensoever we be repentant, and return fully to God in our hearts, that we have forgiveness of our sins, be reconciled to God, and accepted, and reputed just and righteous in his sight, only by his grace and mercy, which he doth grant and give unto us for his dearly-beloved Son's sake, Jesus Christ ; who paid a sufficient ransom for our sins ; whose blood doth wash away the same; whose bitter and grievous passion is the only pacifying oblation, that putteth away from us the wrath of God his Father; whose sanctified body offered on the cross is the only sacrifice of sweet and pleasant savour, as St Paul saith ; that is to say, of such sweetness and pleasantness to the Father, that for r 8
 
-[CRANMER, II. I
+## [Cranmer, II. I
 
-114 CORRECTIONS OF THE INSTITUTION BY HENRY VIII.
+## 114 Corrections of the Institution by Henry VIII
 
 the same he accepteth and reputeth of like sweetness all them that the same offering doth serve for.
 

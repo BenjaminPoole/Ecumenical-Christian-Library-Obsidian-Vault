@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Lamentations of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1570
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 28, 1880,.
+*Delivered on Lord's-Day Morning, November 28, 1880*
 
 > "When He had come near, He beheld the city and wept over it." Luke 19:41.
 
@@ -134,7 +133,6 @@ Desolate! Desolate! Desolate! Because you would not be gathered! Well does the t
 Meanwhile, if any one of you who are not yet saved will come to Jesus, He will rejoice over you, for He takes pleasure in the stones of Zion and favors the dust, there, and if you are as little as Zion's dust and as mean as her rubbish, He will rejoice over you! It is written that, "There is joy in the presence of the angels of God over one sinner that repents." Now, angels stand in the Presence of the Lord Jesus and there is joy in His heart over a single penitent! If only one sinner shall repent because of this sermon, my Lord will rejoice over Him! I, His servant, am, in my measure, intensely glad when a soul repents, but He shall have the chief joy, for His is the chief love!
 
 Who will now come to Jesus? Would to God it might be the beloved son of a godly mother! Would to God it might be you, my long hesitating Hearer, for years a hearer but not a doer of the Word. May the Holy Spirit decide you at this very moment! Amen.
-
 
 ---
 [[Sermon 1569 The Golden Lamp and Its Goodly Lessons|← #1569]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1571 The Joy Of Jesus|#1571 →]]

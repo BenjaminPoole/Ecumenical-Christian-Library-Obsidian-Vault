@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # God's Time for Comforting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3027
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My eyes fail from searching Your Word, saying, When will You comfort me?" Psalm 119:82.
 
@@ -122,7 +119,6 @@ That was a beautiful act on the part of the Good Samaritan who found the poor wo
 But, Sinners, though you are trying to make your hearts ready for Christ, you will never succeed in doing it! You are wasting your strength upon a task that must end in failure. Remember that if you cannot come to Christ with a broken heart, you can come to Him for a broken heart! If you cannot come as you ought, come just as you are! And if you have no good thing to plead as a reason for your acceptance, so much the better will it be for you.
 
 I have tried to put this matter of finding comfort plainly and in as simple language as I could. O Sacred Spirit, come now, and bring sinners to Jesus, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 3026 Vanity Deprecated|← #3026]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3028 God's Glory Our Rereward|#3028 →]]

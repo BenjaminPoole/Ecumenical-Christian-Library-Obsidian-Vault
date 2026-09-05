@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon VIII. The mutual care of believers over one another. Ephesians iv. 15, 16
-
-## Sermon VIII. The mutual care of believers over one another.
 
 Preached September 6, 1678.
 
@@ -45,7 +42,6 @@ I will tell you of two defects:—
 1\. If we do come unto it, to admonish others, we do not do it with that meekness, that evidence of love, that tenderness, that are required in us. I would have no man come to admonish another but that he should carry it as the offender, and the other as the offended person, — with that profession of love.
 
 2\. We want wisdom; for this is very certain, ill management hath spoiled many things in this congregation, — talking, reflecting, complaining, even among carnal people. It is the constant exercise of the mind renewed by the Holy Ghost, and furnished with the principles of spiritual light and life, in thoughts and meditations upon spiritual things, proceeding from the cleaving of the affections unto them, with a sense of a spiritual gust, relish, and savour in them, that must enable us to this duty.
-
 
 ---
 [[SJO 110 Sermon VII. Perilous times. 2 Timothy iii. 1–5|← Sermon VII. Perilous times. 2 Timothy iii. 1–5]] · [[Sermons of John Owen|Contents]] · [[SJO 112 Sermon IX. National sins and national judgments. Isaiah iii. 8, 9|Sermon IX. National sins and national judgments. Isaiah iii. 8, 9 →]]

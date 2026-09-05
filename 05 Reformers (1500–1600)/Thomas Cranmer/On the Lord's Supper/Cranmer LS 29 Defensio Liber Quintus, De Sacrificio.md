@@ -10,18 +10,17 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 29. Defensio: Liber Quintus, De Sacrificio
 
-LIBER QUINTUS.
+*Liber Quintus*
 
-DE OBLATIONE ET SACRIFICIO SERVATORIS CHRISTL.
+## De Oblatione Et Sacrificio Servatoris Christl
 
-CAPUT PRIMUM.
+## Caput Primum
 
 GRAvissima contumelia et injuria que inferri Christe potest, et per omne regnum papisticum latissime patet, ea est, quod sacerdotes missam hostiam propitiantem esse asseverant, ad remittenda non modo peccata sua, verum etiam aliorum, tum viventium, tum mortuorum, quibus illam voluerint applicare. Ita simulatione pietatis papistici sacerdotes hoc sibi sumpserunt, ut Christi successores essent, et ejusmodi_ sacrificium facerent, quale nullum unquam a quoquam, preterquam a Christo ipso, factum est, idque eo solum tempore, cum morte sua pcenas peccatorum nostrorum in cruce lueret.
 
-DIFFERENTIA INTER SACRIFICIUM CHRISTI ET SACRIFICIA SACERDOTUM VETERIS LEGIS.
+## Differentia Inter Sacrificium Christi Et Sacrificia Sacerdotum Veteris Legis
 
 Pavutus ad Hebreos testatur, quanquam sacerdotes veteris legis sepe offerebant, Heb. ix. (ad minimum autem semel quotannis,) “Christum tamen non spe seipsym obtulisse; alioqui seepius mortem obiisset. Nunc autem semel seipsum obtulit, ut hac hostia peccata nostra deleret : et quemadmodum hominibus constitutum est, ut semel moriantur, ita Christus semel oblatus est, ut multorum peccata tolleret.”
 
@@ -36,8 +35,6 @@ Sacrificium Christi.
 Sacrificium ecclesia.
 
 Psa}. 1. 1 Pet. ii. Heb. xiii.
-
-90 DE OBLATIONE ET SACRIFICIO CHRISTI. (Lis.
 
 modum veteris testamenti sacerdotes facere consueverunt,) sed sanguinem suum in cruce offerebat : neque in sacrarium aliquod ingressus est hominum opera fabricatum, (sicuti Aharon fecerat,) sed in coelum ascendit, ubi eternus Pater habitat, et apud illum continuatam precationem pro peccatis totius mundi adhibet, corpus suum pro nobis laniatum, et sanguinem quem infinita bonitate sua pro nobis in cruce profudit, ante oculos Patris constituens. |
 
@@ -61,11 +58,11 @@ Per primum sacrificium Christus nos Deo Patri obtulit, per alterum autem nos ips
 
 Hocque sacrificium generaliter universam obedientiam nostram continet, que versatur in legibus et preceptis Dei servandis. Hoc de sacrificio David his verbis usus est, “ Sacrifictum Deo cor contritum :” et D. Petrus omnes Christianos esse ait “sacerdotium sanctum ad sacrificia spiritualia facienda, accepta Deo per Jesum Christum.” Et D. Paulus: “ Nos (inquit) semper offerimus Deo sacrifictum laudis per Jesum Christum.”
 
-CAPUT IV. SACRIFICIUM CHRISTI PLENIUS EXPONITUR.
+## Caput IV. Sacrificium Christi Plenius Exponitur
 
 Nunc autem, ut de sacrificio et sacerdotio Christi plenius atque uberius pertractemus, intelligendum est, ejusmodi pontificem Christum esse, ut semel seipsum offerendo satis valuerit ad omnia peccata suo sanguine abluenda. Ita perfectus sacerdos fuit, ut una oblatione sui infinitum peccatorum acervum expurgarit atque expiarit, facilemque nobis et parabilem peccatoribus medicinam reliquit, ut omnibus mortalibus (qui se imdignos hoc beneficio nolunt reddere) sacrificium hoc perpetuo sufficeret. Neque vero in se recepit illorum tantum peccata, qui multos ante annos ex hac vita excesserunt, sed illorum quoque, qui usque ad reditum ejus certam et confirmatam fidem evangelio illius
 
-V4. DE OBLATIONE ET SACRIFICIO CHRISTI. 91
+## V4. De Oblatione Et Sacrificio Christi. 91
 
 4 habituri essent. Itaque nunc nullum alium nec sacerdotem nec sacrificium ad peccata
 
@@ -77,7 +74,7 @@ Hac igitur ratione nos scriptura docet, Christum, si seepius hostiam se pro pecc
 
 immolasset, sepius fuisse moriturum, cum nulla pro peccatis hostia possit esse preter illius mortem. Nutic autem nulla est alia pro peccatis hostia, cum per illum peccata remittantur, et conscientiz placentur.
 
-DE SACRIFICIIS VETERIS LEGIS.
+## De Sacrificiis Veteris Legis
 
 QuANQuam in veteri testamento certa quedam sacrificia fuerant, que sacrificia pro peccato nominabantur, non tamen ejus generis fuerant, ut peccata coram Deo tollerent; sed Heb. x. ceremonize quedam erant ad hoc institute, ut umbre quedam et figure essent ad excellens Christi sacrificium premonstrandum, quod verum et perfectum pro totius mundi peccatis sacrificium futurum erat. Hoc nomine igitur sacrificia !propitiatoria et sacrificia pro peccatis dicebantur, non quod revera peccata nostra delerent, sed quia imagines, umbre, figure erant, quibus pii de vero Chritsi futuro sacrificio admonerentur, quod peccatum et sempiternam damnationem funditus tolleret.
 
@@ -87,7 +84,7 @@ Quanquam igitur pii omnes his sacrificiis a Deo prescriptis utebantur, non tamen
 
 Hisque iisdem de causis in ecclesia Christi sacramentis per illum institutis utimur. Et hee externa e populo dominico ejectio et revocatio secundum legem et hominum judicium facta fuit: vera autem cum Deo reconciliatio et peccatorum remissio nec veteris testamenti patribus conferebantur, nec nobis confertur, nisi per Christi sacrificium in monte Calvarie factum. Ac veteris sane legis sacrificia ita presagia quedam et note istius sacrificii venturi fuerant, quemadmodum sacramenta nostra ejusdem sacrificii preeteriti figure et testimonia existunt.
 
-MISSAM NON ESSE SACRIFICIUM PROPITIATORIUM.
+## Missam Non Esse Sacrificium Propitiatorium
 
 Ex his datur intelligi, sacrificium sacerdotis in missa, vel muneris sui viventibus et mortuis pro libidine sua applicationem, neque sibi ipsi neque aliis promereri aut nancisci peccatorum remissionem posse ; sed hane doctrinam papisticam doctrine Christi
 
@@ -103,13 +100,13 @@ Papist& ad seipsos excusandos hoc afferunt, se nullum neque novum sacrificium �
 
 Atque hic preecipites in gravissimum et perniciosissimum omnium errorem ruunt. Si enim idem sacrificium pro peccatis quotidie faciunt, quod antea Christus ipse fecerat, atque ea mors ejus fuerat et pretiosissimi sanguinis ejus pro peccatorum nostrorum redemptione profusio; necessario eflicitur, illos quotidie trucidare Christum, et ejus sanguinem effundere, atque adeo Judzis et Phariseis ipsis deteriores esse, qui semel tantum illum neci addixerunt, et sanguinem atque vitam ejus exhauserunt.
 
-CAPUT VIII.
+## Caput VIII
 
-VERUM OMNIUM CHRISTIANORUM SACRIFICIUM.
+## Verum Omnium Christianorum Sacrificium
 
 Devs Omnipotens, Pater omnis lucis et veritatis, omnes errorum tenebras et ignorantie caliginem, et harum rerum auctores et principes, vel ex ecclesia sua expellat atque ejiciat ; vel corda illoram ad se convertat, et lumen fidei omnibus tribuat, ut fiduciam certam de remissione peccatorum habeant, et ab eterna morte et horrendis cruciatibus inferni liberentur, per singulare unius mortis et sanguinis Christi meritum; et ut sua quisque fide ad se hoc beneficium applicet, neque illud arbitrio ac meritis papistarum sacerdotum accipiat.
 
-Si (quod nomine profitemur) revera Christiani sumus, nullihune: ascribere hono- rem, sed soli Christo assignare debemus. Itaque universam tam immensi_ beneficii — laudem illi tribuamus; ad illum quasi ad perfugium et portum omnium erumnarum
+Si (quod nomine profitemur) revera Christiani sumus, nullihune: ascribere honorem, sed soli Christo assignare debemus. Itaque universam tam immensi_ beneficii — laudem illi tribuamus; ad illum quasi ad perfugium et portum omnium erumnarum
 
 «4 eee a ee iY DE OBLATIONE ET SACRIFICIO CHRISTI. 93.
 
@@ -119,7 +116,7 @@ Quamdiu legis auctoritas viguit, permisit Deus muta et rationis expertia sibi of
 
 Hee sacrificia Christianorum sunt, he hostiz et victime grate Christo. Et quemadmodum Christus seipsum pro nobis obtulit, ita nos vicissim debemus nos ipsos Christo offerre. Ita fiet ut non tantum nomine Christiani simus, sed quod verbis et vultu profitemur, hoc reipsa et vita profitebimur, et omnes animi motus ad illius normam dirigemus. Ita fiet, ut foris et intus omnino illius simus, et ab omni hypocriseos simulatione vacui et liberati erimus. Quod si hoc modo affectibus nostris in erucem agendis, et nobismetipsis totis illi tradendis, offerre nos Deo recusaverimus, ingrati prorsus et inhumani erimus, superstitiosi hypocrite, vel potius brute pecudes, aut brutis ipsis deteriores, digni qui ab omni beneficio oblationis Christi excludamur.
 
-MISSA PAPISTICA EST DETESTANDA IDOLOLATRIA, ET EX OMNI CHRISTIANORUM CTU PRORSUS EJICIENDA.
+## Missa Papistica Est Detestanda Idololatria, Et Ex Omni Christianorum Ctu Prorsus Ejicienda
 
 Quop si oblationem sacerdotis loco oblationis Christi ponamus, et perceptionem sacramenti corporis et sanguinis, quemadmodum ille ipse instituit, repudiemus, et remissionem peccatorum e sacrificio sacerdotis petamus, indeque relaxationem aliquam cruciatuum, qui in purgatorio sunt, venemur; non solum injuriam Christo facimus, sed etiam horribile idololatrie scelus admittimus. Hee enim doctrina falsa est, impudenter ab impiis papistis, superstitiosis monachis et fraterculis conficta, qui questus gratia depravarunt et corruperunt sanctissimam coenam Domini, et in manifestam idololatriam traduxerunt. Qua de causa hi omnes debent omnibus opibus ac viribus elaborare, ut ejusmodi in Dei Filium contumelia profligetur.
 
@@ -129,13 +126,11 @@ SacRAMENTA a Christo nequaquam ad hoc instituta sunt, ut unus pro alio, aut sace
 
 Act. ii. Matt. xxvi.
 
-94 DE OBLATIONE ET SACRIFICIO CHRISTI. [Lr.
-
 poterit, sic nemo sacram ccenam pro alio percipere debet. Si enim esurie quis aut siti afficiatur, cupiditas ejus nullo modo vel extinguitur vel levatur, si quis pro illo cibum aut potionem caperet; aut si qua illuvie sordescat, non multum juvatur, si quis pro illo mundetur: ita nihil valere homini potest, pro quo ab aliis vel baptismus vel coena percipitur. Quocirca Petrus dicebat : “ Baptizetur quisque in nomine Christi.” Et Servator Christus multitudini inquit, “ Capite, edite:” adjecit preeterea, “ Bibite ex hoc omnes.” Qui igitur spiritualiter renasci in Christo vult, baptizari illum pro se oportet : et qui per se vivere in Christo voluerit, per se carnem ejus et sanguinem percipere debet. |
 
 Atque ut paucis absolvamus, qui ad Christi regnum ipse pervenire cogitat, debet et ipse ad sacramenta ejus accedere, ipse mandata ejus servare, ipse omnia, que ad christiani hominis munus et vocationem pertinent, facere: ne si hac omnia aliis pro se agenda relinquat, aliis etiam hereditatem regni ccelestis pro se adeundam dimittat.
 
-QUZ SIT INTER SACERDOTEM RELIQUUMQUE POPULUM DIFFERENTIA.
+## Quz Sit Inter Sacerdotem Reliquumque Populum Differentia
 
 Caristus nullam hujusmodi differentiam inter sacerdotem et populum docuit, ut sacerdos pro populo sacrificium de Christo faceret, solus coenam pro aliis perciperet, eamque pro libidine sua, quibus et quomodo vellet, distribueret. Sed hee vera est inter illos differentia, quod sacerdos publicus ecclesiee administer sit, et coonam Domini ceteris distribuat, illi autem de sacerdotis manu accipiant. Ccoena autem ipsa a Christo instituta, et toti ecclesia concessa fuit, non ut a ministro et sacerdote pro aliis offeratur et percipiatur, sed ut per sacerdotem omnibus justa ratione petentibus tribuatur.
 
@@ -143,7 +138,7 @@ Quemadmodum in aula regia ceterorumque principum virorum edibus ministri mensas 
 
 Atque hec res auctoritatem et dignitatem sacerdotii, reliquorumque ecclesie ministrorum non detrahit, sed auget potius atque amplificat. Si enim benevolentia et honore prosequendi sunt, qui pretores, judices, questores, et rerum externarum administri regii sunt, quanto majore cultu ac veneratione prosequendi sunt, qui verbi et sacramentorum Christi administri sunt, et ad excludendos atque admittendos homines evangelii administratione claves sibi regni ccelestis concreditas et commissas habent !
 
-PAPISTIS ET EORUM OBJECTIONIBUS RESPONDETUR.
+## Papistis Et Eorum Objectionibus Respondetur
 
 Quon1AM igitur satis (ut spero) expositum vobis est, quidnam sacrificium propitians sit, (ut qui ullam notionem Christi habent, intelligentiam ex eo et consolationem capiant,) et gravem immanitatem atque idololatriam miss papistice declarayimus, in qua sacerdotes sibi sumpserunt officium Christi, ut sacrificium propitians pro peccatis populi facerent; pernecessarium judico, ut papistarum subtilitatibus et inanitati sophisticee respondeam, quibus et eruditos et simplices quoque, sed non satis circumspectos, deceperunt.
 
@@ -153,7 +148,7 @@ a ri | DE OBLATIONE ET SACRIFICIO CHRISTI. 95 qui (sicuti ipse commemorat) vitul
 
 Atque autem ille locus Malachie prophet adversari illorum sententi# videtur, Mali. ubique offerendum Deo purum sacrificium et oblationem. Propheta enim hoc loco nullum verbum de missa aut sacrificio propitiante, a sacerdotibus offerendo, fecerat, sed de oblatione fidelium omnium (ubicunque terrarum fuerint) meminit, qui Deo puris cordibus atque animis sacrificia laudis et gratiarum actionis offerunt; vocationem - gentium predicens, et Dei misericordiam in omnes dilatandam monstrans, et illum declarans futurum Deum non Judeorum modo, sed omnium nationum ab ortu ad occasum usque, qui sincera fide illum invocant, et nomen ejus gloria afficiunt.
 
-CAPUT XIII. RESPONDETUR PATRUM QUORUNDAM AUCTORITATIBUS.
+## Caput XIII. Respondetur Patrum Quorundam Auctoritatibus
 
 Apversarit Christi magnum numerum locorum ex antiquis scriptoribus congerunt, qui (ut ipsi ferunt) missam vel sacram ccenam sacrificium vocant. Sed illis omnibus una responsio satis esse potest, quod non ita sacrificium vocent, ut peccata tollat, que sola morte Christi delentur; sed quia institutum a Christo fuerat, ut nos in memoriam sacrificii ab illo in cruce facti revocet. Atque hac de causa sacriAugust. ad ficii nomine notatur, quemadmodum Augustinus in epistola ad Bonifacium (a me Bt dle Fide ¢ ad superius citata) et in libro de Fide ad Petrum diaconum (antea quoque a me inducto) De Civitate ” indicat. In libro autem de Civitate Dei hec verba habet: “ Sacrificium visibile inae ae visibilis sacrificii sacramentum, id est, sacrum signum est.”
 
@@ -165,23 +160,21 @@ Et Chrysostomus, postquam Christum sacerdotem nostrum dixisset hostiam nos Chrys
 
 Nicenum Concilium, eap. 14. Canon Apostolorum, cap. 8.
 
-96 _ DE OBLATIONE ET SACRIFICIO CHRISTI. (Lin.
-
 fiduciam sui in illum excitaret, et beneficiorum Christi recordatione se ipse solaretur, atque adeo magnis et frequentibus Deo gratiis agendis seipsum totum illi addiceret.
 
 Itaque hee Christi institutio persequenda nobis est, ut sacramentum sacerdos populo administret, et illi ad consolationem suam eo utantur. Hee ccene celebratio et perceptio minime a nobis vel efficitur vel putatur esse hostia pro peccatorum remissione propitians. é
 
-CAPUT XIV. POPULUS QUE AC SACERDOS SACRIFICAT.
+## Caput XIV. Populus Que Ac Sacerdos Sacrificat
 
 Hunts et seria poonitentis et fracti cordis confessio, beneficiorum Christi agnitio, perpetua illi et debita gratiarum actio, fiducia et solatium in Christo susceptum, demissa atque abjecta sui ipsius prostratio, et obedientia ad illius voluntatem et precepta servanda, a quocunque tandem christiano et pio proficiscatur, sacrificium laudis et predicationis est, non minus Deo gratum quam sacrificium sacerdotis. Omnipotens enim et justus Deus, sine iniqua personarum approbatione, sacerdotis et populi, regis et subjecti, heri et servi, viri et foomine, minoris et majoris natu, Angli, Galli, Scoti, Greci et Latini, Judei aut alterius gentis barbare, sacrificia atque hostias ex «quo respicit, idque pro fiducia et obedientia animi, quam quisque in illum habet, per Jesu Christi Seryatoris nostri propitians sacrificium.
 
-PAPISTICA MISSA NEQUE SACRIFICIUM PROPITIANS EST NEQUE GRATIARUM ACTIONIS.
+## Papistica Missa Neque Sacrificium Propitians Est Neque Gratiarum Actionis
 
 Missa, sicuti a sacerdote celebrari solet, neque sacrificium propitians est, neque laudis aut gratiarum actionis, neque Deo accepta aut probata; sed horribilis et detestabilis res, de qua Servatoris illud verissime dici poterit, “Quod celsum est coram hominibus, id abominandum est coram Deo.”
 
 Qui igitur hoc ex antiquis scriptoribus colligunt, missam sacrificium pro peccatis esse, et a sacerdote quibus ipse velit accommodari et applicari posse, intolerabilem injuriam sanctis patribus afferunt, et falso ac maligne illos calumniantur.
 
-CAPUT XVI. PAPISTICH MISSH IN PRIMITIVA ECCLESIA NULLA FUERUNT.
+## Caput XVI. Papistich Missh in Primitiva Ecclesia Nulla Fuerunt
 
 Portentosa hec monstra in prima et veteri ecclesia nulla fuerant, nec in una ecclesia multz tum quotidie misse fuerant; sed certis quibusdam diebus mensa Domini proposita est, quam frequentans populus sacram synaxin percipiebat. Nulle tamen private misse et quotidiane fuerant, ubi sacramentum sacerdos solus percipiebat ; quemadmodum etiam ad hodiernum usque diem in Gracorum ecclesiis observatur, ut una tantum uno die missa celebretur.
 
@@ -197,9 +190,9 @@ Sacerdos verba Christi et sacramenta omnibus administrare tum bonis tum malis po
 
 Atque hee scripturarum doctrina impia papistarum inventa, extremis hisce temporibus ab illis excogitata, prorsus damnat, qui purgatorium ad animas post mortem excarnificandas comminiscebantur, et missarum oblationes per sacerdotes habitas ad omnes hos cruciatus minuendos et tollendos affinxerunt, aliaque hujus generis lethalia venena rudi et imperit~# multitudini pro veris et salutaribus medicinis vendiderunt.
 
-CAPUT XVII.
+## Caput XVII
 
-CAUSH ET RATIONES QUIBUS PAPISTICZ MISS IN ECCLESIAM DEI SE INSINUARUNT.
+## Caush Et Rationes Quibus Papisticz Miss in Ecclesiam Dei Se Insinuarunt
 
 Cum natura humana semper ad idololatriam inclinata fuerit, et papiste omnibus opibus et viribus elaborarunt, ut non modo ad suam utilitatem missam defenderent, verum etiam omni laudatione eveherent; et populus superstitioso quodam animi ardore in missam, quasi in omnium malorum presens remedium, ferretur; et magna pars principum (papistice doctrine auctoritate occecata, quietis amans, scripture non intelligens, et papisticorum sacerdotum populique superstitiosi offensionem declinans) antichristo Romano subjecta fuerit; minime admirandum est, rerum statu hoc loco posito, si magni abusus in ecclesia non modo adoleverint, verum etiam ad immensitatem quandam excreverint, inani superstitione et idololatria pro sanctitate et pietate habita, et multis odiosis in ecclesiam sine auctoritate Christi inductis.
 
@@ -207,7 +200,7 @@ Nam purgatorium, oblationem et sacrificium Christi per sacerdotem solum factum, 
 
 Missam denique ipsam longe supra mortem Christi extollunt, multa nobis per illam pollicentes, que morte Christi nobis non promittebantur. Hujus generis hec exempla sunt: quo quis die missam audit, victus et pastus satis eo die suppeditabitur, nullis necessariis rebus egebit, nullam itineris moram aut impedimentum accipiet, oculorum aciem non amittet, repentina morte non occumbet, nullo senio missw tempore conficietur, nulli mali spiritus illi infesti esse possunt, quantumvis sceleratus fuerit, quamdiu in sacramentum oculos defixos habuerit. Has deliras atque impias superstitiones papiste callidissimo artificio recens excogitarunt, que prime ac florenti ecclesia nunquam cognite fuerant.
 
-CAPUT XVIII. QU SIT NOBIS ECCLESIA SEQUENDA.
+## Caput XVIII. Qu Sit Nobis Ecclesia Sequenda
 
 Apversvs evangelii professores pleno ore exclamant et vociferantur, illos ab ecclesia dissentire; cupientes omni studio, ut ecclesia suze exemplum sequantur. Quod illi lubenter (scio) facerent, si papiste primam et apostolicam ecclesiam sequerentur, que purissima atque incorruptissima omnium fuit. Sed papiste ab usu et exemplo prime ecclesie longissime desciverunt, et nova commenta architectati sunt: et cum ipsi primam
 
@@ -215,7 +208,7 @@ Apversvs evangelii professores pleno ore exclamant et vociferantur, illos ab ecc
 
 Nune autem Deo Patri gratize nobis etiam atque etiam agende sunt, quod ea sacre — 4 coene ratio, que hoc in regno Christianis omnibus proposita est, cum institutione Christi, cum Pauli, et prime ac apostolice ecclesia auctoritate, cum recta fiducia de sacrificio Christi, in cruce pro redemptione nostra facto, cum vera doctrina salutis, justificationis, et remissionis omnium peccatorum maeren, per unicum illud sacrificium exhibite, consentiat.
 
-OPERIS CONCLUSIO.
+## Operis Conclusio
 
 Quip restat aliud, nisi ut omnes hee equis animis accipiant, ea omni studio complectantur, moestis animis pristinam ignorantiam defleant, scelerum ac malefactorum suorum pcenitentia ducantur, ad meliorem vite modum se convertant, sese totos Deo tradant, omne vite tempus in obedientia et custodia mandatorum ejus transmittant, et sanctissimam coenam, quam Dominus et Servator Christus apparavit, frequentent ? Qua in ccena, quemadmodum corpore verum panem et vinum percipimus, ita spiritu vero corpore et sanguine Servatoris et Redemptoris nostri Jesu Christi alimur, memoria mortis ejus colenda, gratiis de beneficentia tam illustri agendis, nullo pro peccatis sacrificio a sacerdotibus requirendo, fiducia in solo Christi sacrificio collocanda. Christus enim non modo summus Pontifex, verum etiam Agnus Dei ad peccata mundi tollenda, ante mundum conditum preparatus, seipsum semel obtulit, ut perpetuum esset apud Patrem sacrificium ad odorem suavitatis, atque mundi universi redemptionem per illud exsolveret. Hic ante nos ccelos penetravit, ad dexteram Patris patronus, defensor, et intercessor pro nobis sedet: ibi loca et sedes pro omnibus vitalibus corporis sui membris preparavit, ut in gloria Patris ccelestis ad omnem evi eternitatem regnent. Cui cum Patre et Spiritu. sancto sit omnis honos, gloria, laudatio, ad omnem seculorum infinitatem. Amen.
 
@@ -265,9 +258,9 @@ tee | a ee pes
 
 MEEVEE EEG wee I, AUG 1/7
 
-PLEASE DO NOT REMOVE CARDS OR SLIPS FROM THIS POCKET
+## Please Do Not Remove Cards or Slips from This Pocket
 
-UNIVERSITY OF TORONTO LIBRARY
+## University of Toronto Library
 
 We St TBR Sine) ew “i Gas ) a
 

@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 98
-
-**PSALM 98**
 
 This psalm has a great resemblance to the ninety-sixth, not only in matter, but language. The great scope of it is to show that the glory of God would be illustriously displayed in the spread of the knowledge of his name throughout the world, both from the more ample fulfillment which would be given upon the manifestation of the Savior, to the promises made to the posterity of Abraham, and from the sudden extension of salvation to all parts of the earth. He calls upon men to magnify the name of God on this account.
 

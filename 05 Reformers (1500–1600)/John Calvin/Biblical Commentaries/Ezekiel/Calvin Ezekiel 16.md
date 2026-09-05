@@ -10,10 +10,9 @@ written: "1565"
 tags:
   - calvin-commentaries
 ---
-
 # Ezekiel 16
 
-**CHAPTER 16**
+***Chapter 16***
 
 ## Ezekiel 16:1-3
 
@@ -61,7 +60,7 @@ God now reproaches the Jews with his kindness towards them, since he had clothed
 
 ## Prayer Lecture 42
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since from our first origin we have been entirely accursed, so that we were entirely foul and polluted in thy sight, that we may be mindful of our condition, and acknowledge your inestimable pity towards us, since you have deigned to draw us from the lowest estate, and to adopt us among thy children: and may we so desire to spend our whole life in obedience to thee, that we may at length enjoy that blessed glory to which you has called us, and which you have prepared for us in your only-begotten Son. — Amen.
 
@@ -115,7 +114,7 @@ He says that the Jews erected houses of ill fame for themselves; and the languag
 
 ## Prayer Lecture 43
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, that we may diligently consider in how many ways we are bound to thee, and may deservedly magnify thy fatherly indulgence towards us, so that in return we may desire to devote ourselves to thee: Grant also, that as you have adorned us with thy glory, we may endeavor to glorify thy name, until at length we arrive at the enjoyment of that eternal glory which you have prepared for us in heaven by Christ our Lord. — Amen.
 
@@ -179,7 +178,7 @@ He now adds, *that he made their beauty to be abhorred.* I have no doubt that th
 
 ## Prayer Lecture 44
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you desire to receive us not only into confidence and dependence, but to the condition of sons, that we may worship thee with sacred love, and revere thee through our whole life as a Father; and may we so submit ourselves to thee as to feel thy covenant firm and sacred towards us; and may we experience that you never call men to thee in vain, so long as they obey thee and respond to thy promises; until at length we enjoy that blessedness which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -237,7 +236,7 @@ Some translate it an adulteress under her husband’s roof, and תחת, *thechet
 
 ## Prayer Lecture 45
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have thought us worthy of such honor, that we should be bound to thee in your only-begotten Son by the bond of a spiritual marriage, — that we may remain in that fidelity which we promised to thee, since we have found thee faithful to us by so many proofs on thy part, until, having passed through this present life, we arrive at the enjoyment of that blessedness which is the fruit of our faithful chastity, through Jesus Christ our Lord. — Amen.
 
@@ -301,7 +300,7 @@ Although God seems here to promise some mitigation of his wrath, there is no dou
 
 ## Prayer Lecture 46
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have hitherto sustained us, and since we are worthy of being utterly destroyed a hundred times, — Grant, I say, that we may repent of ourselves, and prevent that horrible judgment of which you set before us a specimen in your ancient people: and may we so devote ourselves to thee in the true chastity of faith, that we may experience the course of thy goodness until we enjoy the eternal inheritance which your only-begotten Son has acquired for us by his blood. — Amen.
 
@@ -359,7 +358,7 @@ He afterwards adds *fullness of bread*. But the Prophet seems to condemn in the 
 
 ## Prayer Lecture 47
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since you have deigned to graft us once into the body of your only-begotten Son, that we may be mindful of our origin, since from our very birth we were lost and cursed; and grant that we may be mindful of that grace by which you have honored us, so that we may worship thee as a father, and preserve our trust in thee inviolate: and may we be so obedient to thee that thy image may be renewed in us more and more in all righteousness and holiness, until thy glory may perfectly shine forth in us in thy heavenly kingdom by the same Jesus Christ our Lord. — Amen.
 
@@ -417,7 +416,7 @@ which can never take place: so that it implies the complete denial of what might
 
 ## Prayer Lecture 48
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, since in your inestimable mercy you have deigned to separate us from the profane nations, and to adopt us into thy family, that we may so conduct ourselves that you may not treat us as strangers: but while you acknowledge us as thy sons, may thy Spirit govern us until the end, so that thy name may be glorified in us, and at length we may be made partakers of that glory which has been acquired for us through Jesus Christ our Lord. — Amen.
 
@@ -463,7 +462,7 @@ Since, therefore, Abraham is at this time the father of all the faithful, it, fo
 
 ## Prayer Lecture 49
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since your only-begotten Son has appeared for us, who filled up all the measure of thy grace, that we may not be ungrateful in despising so inestimable a boon; but may we embrace with true and sincere faith what you offer us, namely, the mercy which we always need, and also the spirit of regeneration; that we may so devote ourselves to thee through a whole life of obedience, that at length we may arrive at that glory which at this day: shines upon us as in a mirror, until its fruition shall appear in heaven, by the same Christ our Lord. — Amen.
 

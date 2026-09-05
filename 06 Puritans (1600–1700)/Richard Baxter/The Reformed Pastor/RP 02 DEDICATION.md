@@ -9,7 +9,6 @@ tags:
   - puritans
   - richard-baxter
 ---
-
 # DEDICATION
 
 To my bretheren and dearly-beloved brethren, the faithful ministers of Christ, in Britain and Ireland, Grace and Peace in Jesus Christ be increase
@@ -58,8 +57,7 @@ Brethren, I crave your pardon for the infirmities of this address; and earnestly
 
 Your unworthy fellow -servant
 
-RICHARD BAXTER
-
+## Richard Baxter
 
 ---
 [[RP 01 PREFACE|← PREFACE]] · [[The Reformed Pastor|Contents]] · [[RP 03 INTRODUCTORY NOTE|INTRODUCTORY NOTE →]]

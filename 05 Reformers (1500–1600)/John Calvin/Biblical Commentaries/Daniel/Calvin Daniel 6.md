@@ -10,10 +10,9 @@ written: "1561"
 tags:
   - calvin-commentaries
 ---
-
 # Daniel 6
 
-**CHAPTER 6**
+***Chapter 6***
 
 ## Daniel 6:1-2
 
@@ -51,7 +50,7 @@ Some suppose this was done because Darius could not bear with composure the glor
 
 ## Prayer Lecture 27
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, as thou didst govern thy servant Daniel when honors were flowing around on all sides, and he was raised to the highest dignity, and preserve him safe in his integrity and innocency amidst the universal licentiousness, — Grant, I pray thee, that we may learn to restrain ourselves within that moderation to which thou restrictest us. May we be content with our humble station and strive to prove ourselves innocent before thee and before those with whom we have to deal; so that thy name may be glorified in us, and we may proceed under thy shelter against the malice of mankind. Whenever Satan besieges us on every side, and the wicked lay snares for us, and we are attacked by the fierceness of wild beasts, may we remain safe under thy protection, and even if we have to undergo a hundred deaths, may we learn to live and die to thee, and may thy name be glorified in us, through Christ our Lord. — Amen.
 
@@ -99,7 +98,7 @@ Now the king’s nobles approach the king as conquerors, but they do so cunningl
 
 ## Prayer Lecture 28
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since thou hast reconciled us to thyself by the precious blood of thy Son, that we may not be our own, but devoted to thee in perfect obedience, and may consecrate ourselves entirely to thee: May we offer our bodies and souls in sacrifice, and be rather prepared to suffer a hundred deaths than to decline from thy true and sincere worship. Grant us, especially, to exercise ourselves in prayer, to fly to thee every moment, and to commit ourselves to thy Fatherly care, that thy Spirit may govern us to the end. Do thou defend and sustain us, until we are collected into that heavenly kingdom which thy only-begotten Son has prepared for us by his blood. — Amen.
 
@@ -153,7 +152,7 @@ Here the king begins to act with a little more consistency, when he approaches t
 
 ## Prayer Lecture 29
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty Father, since thou shewest us, by the example of thy servant Daniel, how we ought to persevere with consistency in the sincere worship of thee, and thus proceed towards true greatness of mind, that we may truly devote ourselves to thee. May we not be turned aside in any direction through the lust of men, but may we persist in our holy calling, and so conquer all dangers, and arrive at length at the fruit of victory — that happy immortality which is laid up for us in heaven, through Christ our Lord. — Amen.
 
@@ -199,7 +198,7 @@ By this circumstance God’s virtue shone forth more clearly in preserving Danie
 
 ## Prayer Lecture 30
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since we were created and placed in this world by thee, and are also nourished by thy bounty, for the very purpose of consecrating our life to thee, — Grant, I pray, that we may be prepared to live and die to thee. May we seek only to maintain the pure and sincere worship of thyself. May we so acquiesce in thy help as not to hesitate about breaking through all difficulties, and to offer ourselves to instant death, whenever thou requirest it. May we rely not only on thy promise, which remains for ever, but upon the many proofs which thou hast granted us of the present vitality of thy mighty power. Mayest thou be our deliverer in every sense, whether we live or die; and may we be blessed in persevering in our confidence in thy name, and thy true confession, until at length we are gathered into thy heavenly kingdom, which thou hast prepared for us by the blood of thine only-begotten Son. — Amen.
 
@@ -244,7 +243,7 @@ Thus Daniel had been taught. Ezekiel, too, properly includes him among the three
 
 ## Prayer Lecture 31
 
-**PRAYER.**
+## **Prayer.**
 
 Grant, Almighty God, since by means of a man entangled in many errors, thou wishest to testify to us the extent of thy power, that we may not at this day grope about in darkness, while thou offerest us light, through the Sun of righteousness, Jesus Christ, thy Son. Meanwhile, may we not be ashamed to profit by the words of a heathen, who was not instructed in thy law, but who celebrated thy name so magnificently when admonished by a single miracle: hence may we learn by his example to acknowledge thee, not only the Supreme but the Only God. As thou hast bound us to thyself by entering into a covenant with us in the blood of thine only-begotten Son, may we ever cleave to thee with true faith; may we renounce all the clouds of error, and be always intent upon that light to which thou invitest us, and towards which thou drawest us; until we arrive at the sight of thy glory and majesty, and being conformed to thee, may we at length enjoy in reality that glory which we now but partially behold. — Amen.
 

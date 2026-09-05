@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Eye and the Light
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2109
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 13, 1889,.
+*Delivered on Lord's-Day Morning, October 13, 1889*
 
 > "No man, when he has lighted a candle, puts it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light. The light of the body is the eye: therefore when your eye is single, your whole body also is full of light. But when your eye is evil, your body also is full of darkness. Take heed therefore that the light which is in you is not darkness. If your whole body therefore is full of light, havingno part dark, the whole shall be full of light, as when the bright shining of a candle does give you light." Luke 11:33-36
 
@@ -190,7 +189,6 @@ It is inexpressibly delightsome, luxuriously blessed, to dwell in the full light
 This inner light will make us shine before others. It is the only shining we should seek. A clean lantern with a lighted candle in it makes no noise and yet it wins attention—the darker the night, the more it is valued. There never was a time in which true inner light was more needed than now—may the Lord impart it to each one of us—and then we shall shine as lights in the world! The Lord God bring this light to you and fill you with it. And unto His name shall be the glory!
 
 You have not to work for the light, you have only to receive it. Then shall your profiting be known unto all men when it is true profiting to your own character. God bless you, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2108 Perseverance in Holiness|← #2108]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2110 The Mustard Seed A Sermon for the Sabbath-School Teacher|#2110 →]]

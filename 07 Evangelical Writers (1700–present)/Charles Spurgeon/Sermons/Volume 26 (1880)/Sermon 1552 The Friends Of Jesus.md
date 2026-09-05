@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Friends Of Jesus
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1552
 
-DELIVERED ON LORD'S-DAY MORNING, AUGUST 8, 1880,.
+*Delivered on Lord's-Day Morning, August 8, 1880*
 
 > "You are My friends if you do whatever I command you." John 15:14.
 
@@ -148,7 +147,6 @@ So purer light shall mark the road
 That leads you to the Lamb."
 
 Obedience will gladden you with the blissful Presence of your Lord and in that Presence you shall find fullness of joy. You shall be the envied of all wise men, for you shall be the beloved of the Lord. And your pathway, if it is not always smooth, shall always be safe, for Jesus never leaves His friends and He will never leave you! He will keep you even to the end. May this be my happy case and yours. Amen.
-
 
 ---
 [[Sermon 1551 Today! Today! Today!|← #1551]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1553 Faith Working By Love|#1553 →]]

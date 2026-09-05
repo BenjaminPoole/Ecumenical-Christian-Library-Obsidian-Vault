@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 114. Exodus 35:20-35
-
-**Exodus 35**
 
 **20.** And all the congregation of the children of Israel departed from the presence of Moses.
 

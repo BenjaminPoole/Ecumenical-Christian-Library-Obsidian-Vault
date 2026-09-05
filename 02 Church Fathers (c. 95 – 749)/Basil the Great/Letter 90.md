@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 90
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To the holy brethren the bishops of the West.
 

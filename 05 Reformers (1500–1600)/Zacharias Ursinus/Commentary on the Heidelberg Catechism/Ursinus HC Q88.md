@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 88. In how many parts doth the true conversion of man consist?
-
-**Question 88. In how many parts doth the true conversion of man consist?**
 
 Answer. In two parts; in the mortification of the old, and in the quickening of the new man.
 

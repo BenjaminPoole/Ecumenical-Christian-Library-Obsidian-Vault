@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Whole-Heartedness of God in Blessing His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2036
 
-DELIVERED ON LORD'S DAY MORNING, JULY 29, 1888,.
+*Delivered on Lord's Day Morning, July 29, 1888*
 
 > "Yes, I will rejoice over them to do them good and I will plant them in this land assuredly with My whole heart and with My whole soul." Jeremiah 32:41.
 
@@ -168,7 +167,6 @@ Blow carefully on the drowsy fires. Let us create a great fire and then heap on 
 He that gives His whole heart and soul to you, great as they are, may well claim that you give your whole heart and your whole soul to Him, little as they are. May the blessed Spirit lead you to whole-hearted consecration and this will be a truly practical sermon! They say, "Put the whip into the manger." And that is what I have tried to do. I have fed you that you may go the faster. Away, then, you courageous steeds! Be strong as oxen and swift as eagles! Fed on such food as this, you are bound to do the work of God with energy and perseverance.
 
 Glorify God's name, seeing He has done all this for you. Oh, that you would all feed on this meat! Whosoever believes that Jesus is the Christ, is born of God—and being born of God he has God's heart and soul engaged for him. If you believe in Jesus Christ, you may take to yourself all that I have said. But if you believe not, I fear that you will die in your sins. God save you, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2035 Peter After His Restoration|← #2035]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2037 The Rule of the Race|#2037 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # God Rejoicing in the New Creation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2211
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, I create new hea vens and a new earth: and the former shall not be remembered, nor come into mind. But be you glad and rejoice forever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy. And I wiil rejoice in Jerusalem, and joy in My people." Isaiah 65:17-19.
 
@@ -174,7 +171,6 @@ And now I close with this observation. Nobody will ever rejoice in this new-crea
 Ring the bells of Heaven! Tune your voices, sons of earth! He who makes all things new is on the Throne, working out His holy pleasure. Hallelujah! Hallelujah! Amen.
 
 PORTIONS OFSCRIPTURE READ BEFORE SERMON—Romans 8:19-28; 2 Peter 3:3-13.
-
 
 ---
 [[Sermon 2210 The Agreement Of Salvation By Grace With Walking In Good|← #2210]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2212 The Private Thoughts and Words of Jesus|#2212 →]]

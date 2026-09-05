@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # June 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**BACK THEN FORWARD**
+## **Back Then Forward**
 
 > Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant" Ezek. 16:60
 
@@ -23,7 +22,6 @@ Notwithstanding our sins, the Lord is still faithful in His love to us. He looks
 He looks forward also. He is resolved that the covenant shall not fail. If we do not stand to it, He does. He solemnly declares, "I will establish unto thee an everlasting covenant." He has no mind to draw back from His promises. Blessed be His name, He sees the sacred seal, "the blood of the everlasting covenant," and He remembers our Surety, in whom He ratified that covenant, even His own dear Son; and therefore He rests in His covenant engagements. "He abideth faithful; he cannot deny himself."
 
 O Lord, lay this precious word upon my heart, and help me to feed upon it all this day!
-
 
 ---
 [[FCB June 29|← June 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 1|July 1 →]]

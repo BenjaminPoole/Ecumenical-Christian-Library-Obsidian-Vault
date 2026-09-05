@@ -10,16 +10,11 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 10. The Supper of the Lord
-
-THE SUPPER OF THE LORD.
 
 WHEN Christ saw those gluttons, seeking their bellies, flocking so fast unto him, after his wonted manner (the occasion taken, to teach and preach unto them, of the things now moved) he said, "Verily, verily, I say unto you, ye seek me not because ye have seen my miracles, but be cause ye have eaten of the loaves and were well filled." ' But as for me, I am not come into this world only to fill men's bellies, but to feed and satisfy their souls. Ye take great pains to follow me for the meat of your bellies ; but, O sluggards, work, take pains, and labour rather to get that meat that shall never perish. For this meat that ye have sought of me hitherto, perisheth with your bellies ; but the meat that I shall give you, is spiritual, and may not perish, but abideth for ever, giving life everlasting. For my Father hath consigned and confirmed me, with his assured testimony, to be that assured saving health and earnest-penny of everluting life.' When the Jews understood not what Christ meant, bidding them to " work and labour for that meat that should never perish," they asked him, " What shall we do, Auth.ns( that we might work the works of God?" — supposing that he had spoken of some outward work required of them. Where fore Jesus answered, saying, " Even this is the work of God, to believe and trust in him whom the Father hath sent." Lo, here may ye see that work of God which he requireth of us, even to believe in Christ. Also consider again what this meat is, which he bade them here prepare and seek for, saying, 'Work, take pains, and seek for that meat, &c.' and thou shalt see it none other meat than the belief in Christ : where fore he concludeth, that this meat so often mentioned, is faith; . ii. of the which meat (saith the prophet) the just liveth. Faith in him is therefore the meat which Christ prepareth and dresseth so purely; pouldering1 and spicing it with spiritual allegories in all this chapter following, to give us everlasting life through it.
 
 ^^en sa^ *^e ^ews unto ^m) ' What token doest thou, whereby we might know that we should believe in thee? L1 Pouldering: powdering.]
-
-EXPOSITION OF JOHN VI. 223
 
 Do somewhat that we might believe in thee. What thing keKffit workest thou that we might know thee to be God ? Thou j£?j£ knowest well enough that our fathers did eat bread or manna in the desert, as it is written, He gave them bread from above/ Jesus answered, 'Verily, verily, I say unto you, Moses gave ye not that bread from heaven ; for though it fell down from the air, yet was it not heavenly food, for it did but feed the belly : but this bread of God that is descended from heaven, whom my Father giveth, refresheth the soul so abundantly, that it giveth life unto the world.' When the Jews understood not this saying, which was nought else than the declaring of the gospel (for by the eating of this bread he meant that belief of this his gospel,) they said, " Sir, give Christ re-
 
@@ -27,7 +22,7 @@ Do somewhat that we might believe in thee. What thing keKffit workest thou that 
 
 Over this it followeth : ' But I have told you this, because ye look upon me, and believe me not ; that is, ye be offended that I said, He that cometh to me shall neither hunger nor thirst, seeing that yourselves, being present, be yet both hungry and thirsty. But this cometh because ye have seen me with your bodily eyes, and yet see me, and believe not in me : but I speak not of such sight nor coming, but of the jj sight of faith, which whoso hath, he shall2 none other desire ; he shall not seek by night to love another, before whom he [2 So B., but in D. shall have none.]
 
-224 THE SUPPER OF THE LORD.
+## 224 the Supper of the Lord
 
 M. P. loso. would lay his grief. He shall not run wandering here and there, to seek dead stocks and stones : for he is certified by his faith to whom he shall cleave ; he is coupled by faith unto me, his very spouse and lively food, the only treasure of his soul, never more to thirst for any other. This light of faith ye have not, for ye believe not nor trust in me : wherefore ye understand not how I am the very bread and meat of
 
@@ -49,15 +44,13 @@ Aut™ur' taken too much upon himself, to say, " I am the bread of life, which a
 
 [l So L. but D. has each any other.] [2 So B., but D. that is to know.]
 
-EXPOSITION OF JOHN VI. 225
-
 (and not marvelled, as M. More sheweth his own dream to another text following, which I shall touch anon); they mur mured at this saying of Christ, "I am the bread which am come from heaven," saying, " Is not this Jesus, Joseph's son, whose father and mother we know well enough ? How then saith he, I am come from heaven?" Jesus answered, saying, chmtre- " Murmur not among yourselves :" heard ye not what I told murmuring you even now ? "All that my Father giveth me come to me :" your unbelief (whereof folio weth this false understanding of my words spiritually spoken) compelleth me to tell you one thing more than once or twice. This therefore it is : " No man may come to me," the only earnest-penny and pledge of your sal vation, " unless my Father that sent me draw him ;" and whom he draweth unto me, that is, joineth unto me by faith, " him shall I stir up in the last day." I wonder ye take my words so strangely, believing them to be some hard riddles, or dark parables ; when I say nothing else than that is written in your own prophets, both in Isaiah and Jeremiah, saying, that isai. HV. " All shall be taught of the Lord." Since even your prophets testify this knowledge to be given you of my Father, what can be spoken more plainly than to say, " What my Father giveth me, that cometh to me ;v or this, " No man may come to me, except my Father draw him ?" And yet have it more John vi. manifestly : Whoso hath heard my Father, and is learned of him, he cometh to me as unto the very only anchor of his salvation. " Not that any man hath seen the Father :" lest peradventure ye mistake these words to hear and to learn, as though they pertained to the outward senses, and not rather to the mind and inward illumining of the soul. For no man ever saw the Father, although he work secretly upon his heart, so that whatsoever he willeth, we must hear and learn. No man (I say) seeth him, but he that is sent of God, as I said before of myself, he it is that seeth the Father. Now there fore say I unto you, "Verily, verily," (as plainly plainly3,) AH that that " whoso believeth and trusteth in me, he hath life everlasthop^n3"
 
 . Christ have ing." Now have ye the sum of this my doctrine, even my very ggJ gospel, the whole tale of all my legacy and message, wherefore I am sent into the world.1 Had M. More understood this short sentence, " Whoso believeth in me hath life everlasting," and known what Paul with the other apostles preached, especially [3 So B. and L. In D. plainly occurs but once.] r 15
 
 [TYNDALE, m.J
 
-226 THE SUPPER OF THE LORD.
+## 226 the Supper of the Lord
 
 M. More had Paul, being B) jesiY and a half among the Corinthians, deterdeitandlng mining not neither presuming to have known any other iffi * " ^ing to be Preacned them (as himself saith) than Jesus icoRiL Christ, and that he was crucified; had M. More understood this point, he should never have thus blasphemed Christ and his sufficient scriptures, neither have so belied his evange lists and holy apostles, as to say, 'They wrote not all things necessary for our salvation, but left out things of necessity to M. 1082. be believed1/ making God's holy testament insufficient and imperfect; first revealed unto our fathers, written oft since2 by Moses, and then by his prophets, and at last written both by his holy evangelists and apostles too.
 
@@ -81,7 +74,7 @@ spiritual sense and mind of Christ s words to enter into their hearts. They coul
 
 [4 He calls them Thomistical to indicate that they took their faith on these subjects, from Thomas Aquinas, whose statement of the matter will be found in his Opusc. lix. De Sacram. Eucharist, cap. 2. Opusc. p. 405, col. i. and IL]
 
-228 THE SUPPER OF THE LORD.
+## 228 the Supper of the Lord
 
 all his dimensioned body under the form of bread transubstantiated into it : and after a like Thomistical mystery, the wine transubstantiated too into his blood, so that they should eat his flesh and drink his blood after their own carnal under standing, but yet in another form, to put away all grudge of M. P. 1092. stomach: or, since St John (if he had thus1 understood his master's mind, and took upon him to write his words,) would leave this sermon unto the world to be read, he might now have delivered us and them from this doubt. But Christ would not so satisfy their question, but answered, "Verily, verily, I say unto you, except ye eat the flesh of the Son of ^man, and drink his blood, ye shall not have that life in yourselves. He that eateth my flesh and drinketh my blood hath life everlasting, and I shall stir him up in the last day ; for St bread'ay mJ ^es^ *s veiT mea^ an(l mj kl°°d the very drink." He suSantiS" saitn not nere tnat bread shall be transubstantiated, or conmto his flesh. verte(jj mto his body ; nor yet the wine into his blood.
 
@@ -95,13 +88,13 @@ Christ's never thirst nor hunger, but have life everlasting. Confer also spiritu
 
 CONFUTATION OF M. MORfi's LETTER. 229
 
-But here maketh More his argument against the young man3. * Because the Jews marvelled at this saying, My flesh is very meat, and my blood drink ; and not at this, I am the door, and the very vine ; therefore this text, (saith he) " My flesh is," &c. must be understood after the literal sense;' that is to wit, even as the carnal Jews understood it, murmuring at it, being offended, going their ways from Christ, for their so carnal understanding thereof: and the other texts, "I am the More dedoor," &c. must be understood in an allegorical and spiritual jgjf™^ sense, because his hearers marvelled nothing at the manner of 5Jinp nnoi the speech. Lo, Christian reader ! here hast thou not a taste, but a great tun full, of Morels mischief and pernicious pervert ing of God's holy word ; and as thou seest him here falsely and pestilently destroy the pure sense in God's word, so doth he in all other places of his books. First, where he saith they marvelled at this Christ's saying, " My flesh is very meat," &c. that is not so, neither is there any such word in the text; except More will expound Murmur abant, id est, mirabantur, More re- ' They murmured, that is to say, they marvelled;' as he expoundeth, Oportet, id est, expedit et convenit, ' He must die, or it behoveth him to die ; that is to say, it was expedient and of good congruence that he should die/ &c. Thus this poet may make a man to signify an ass, and black white ; to blear the simple eyes. But yet, for his lordly pleasure, let us More-s first grant him that they murmured is as much to say as they confuted. marvelled; because perchance the one may follow at the other. And then do I ask him, whether Christ's disciples and his apostles heard him not, and understood him not, when he said, " I am the door and the vine," and when he said, "My Johnvi. x. flesh," &c. If he say no, or nay ; the scripture is plain against him. If he say yea, or yes4 ; then yet do I ask him, whether his disciples and apostles, thus hearing and under- statum salutis, prsemisit, Spiritus est qui vivifaat. Atque ita subjunxit, Caro nihil prodest, ad vivificandum scilicet. Exequitur etiam quid velifc intelligi spiritum .... Itaque sermonem constituens vivificatorem, quia spiritus et vita sermo, eundem etiam carnem suam dixit ; quia et sermo caro erat factus, proinde in causam vitas appetendus, et devorandus auditu, et ruminandus intellectu, et fide digerendus. — Tertull. Opp. Lib. de Res. Cam. cap. 37. p. 332. Ed. Pamel. Franekerse. 1597.]
+But here maketh More his argument against the young man3. * Because the Jews marvelled at this saying, My flesh is very meat, and my blood drink ; and not at this, I am the door, and the very vine ; therefore this text, (saith he) " My flesh is," &c. must be understood after the literal sense;' that is to wit, even as the carnal Jews understood it, murmuring at it, being offended, going their ways from Christ, for their so carnal understanding thereof: and the other texts, "I am the More dedoor," &c. must be understood in an allegorical and spiritual jgjf™^ sense, because his hearers marvelled nothing at the manner of 5Jinp nnoi the speech. Lo, Christian reader ! here hast thou not a taste, but a great tun full, of Morels mischief and pernicious pervert ing of God's holy word ; and as thou seest him here falsely and pestilently destroy the pure sense in God's word, so doth he in all other places of his books. First, where he saith they marvelled at this Christ's saying, " My flesh is very meat," &c. that is not so, neither is there any such word in the text; except More will expound Murmur abant, id est, mirabantur, More re- ' They murmured, that is to say, they marvelled;' as he expoundeth, Oportet, id est, expedit et convenit, ' He must die, or it behoveth him to die ; that is to say, it was expedient and of good congruence that he should die/ &c. Thus this poet may make a man to signify an ass, and black white ; to blear the simple eyes. But yet, for his lordly pleasure, let us More-s first grant him that they murmured is as much to say as they confuted. marvelled; because perchance the one may follow at the other. And then do I ask him, whether Christ's disciples and his apostles heard him not, and understood him not, when he said, " I am the door and the vine," and when he said, "My Johnvi. x. flesh," &c. If he say no, or nay ; the scripture is plain against him. If he say yea, or yes4 ; then yet do I ask him, whether his disciples and apostles, thus hearing and under-statum salutis, prsemisit, Spiritus est qui vivifaat. Atque ita subjunxit, Caro nihil prodest, ad vivificandum scilicet. Exequitur etiam quid velifc intelligi spiritum .... Itaque sermonem constituens vivificatorem, quia spiritus et vita sermo, eundem etiam carnem suam dixit ; quia et sermo caro erat factus, proinde in causam vitas appetendus, et devorandus auditu, et ruminandus intellectu, et fide digerendus. — Tertull. Opp. Lib. de Res. Cam. cap. 37. p. 332. Ed. Pamel. Franekerse. 1597.]
 
 [3 John Frith.]
 
 [4 Alluding to More's critical remarks on the distinction between no and nay, &c. See note to p. 25.]
 
-230 THE SUPPER OF THE LORD.
+## 230 the Supper of the Lord
 
 standing his words, in all these three chapters, wondered and marvelled, (as More saith,) or murmured, (as hath the text,) at their master's speech. What think ye More must answer here ? Here may ye see whither this old holy upholder of the pope's church is brought ; even to be taken in his own Christ's trap. For the disciple^, and his apostles, neither murmured, nor marvelled, nor yet were offended with this their master
 
@@ -133,7 +126,7 @@ To dispute of God's almighty absolute power, what God ^^s11 may do with his body
 
 [5 Satis evidenter ostenditur, a secular! potestate nee ligari prorsus, nee solvi posse Pontificem, quern constat a pio principe Constantino
 
-232 THE SUPPER OF THE LORD.
+## 232 the Supper of the Lord
 
 to be named of his power1. But, christian reader, be thou content to know that God's will, his word, and his power, be all one, and repugn not. And neither willeth he, nor may not do, any thing including repugnance, imperfection, or that should dero gate, rninish, or hurt his glory and his name. The glory of his Godhead is to be present and to fill all places at once
 
@@ -171,7 +164,7 @@ And when More saith, that Christ had power to let his life and to take it again,
 
 [? So More, in copying this quotation from himself; and this read ing is confirmed, where his words are imitated in a passage which will soon occur. D. omits this /.]
 
-234 THE SUPPER OF THE LORD.
+## 234 the Supper of the Lord
 
 fervent faith this old man hath, and what an earnest mind to believe Christ's words, if he had told him. But, I pray you, M. More, what and if Christ never told it you, nor said it, nor never would; would ye not be as hasty to not1 believe it? If he told it you, I pray you tell us where you spake with him, and who was by to bear ye record ; and if you bring as false a shrew as yourself to testify this thing, yet, by your own doctrine, must ye make us a miracle to confirm your tale, ere we be bound to believe you, or yet to admit this your argument, ' God may make his body in many places at once ; God-salergo, it is so.' Sir, ye be too busy with God's almighty JSJweMs not power : and have taken too great a burden upon your weak to be busily \ , , ,„ .,, i dealt withai. shoulders .* ye have overladen yourselt with your own harness and weapons ; and young David is likely to prevail against you with his sling and stone. God hath infatuated your high subtle wisdom. Your crafty conveyance is espied. God hath sent your church a meet cover for such a cup, even such
 
@@ -205,7 +198,7 @@ Then saith he, that ' Ye wot well that many good folk have M. p. nao. used in th
 
 [? See Thomas Aquin. Opusc. Iviii. De sacr. altaris, cap. xiii. Nam si faciei tuse plura proponas specula, in omnibus sequaliter et integraliter una apparebit facies : et si unum speculum in plura frusta etiam parva confringas, perfecta tua facies in singulis erit. Et licet speculum infringatur in plura, facies tua tamen manet in omnibus una, nee mutatur. Sic est re vera in sacramento Christi, &c. — Opusc. p. 388. col. 2.]
 
-236 THE SUPPER OF THE LORD.
+## 236 the Supper of the Lord
 
 as they would make thee believe, in the bread, in so many By wth we places at once. But the bread, broken and eaten in the ™dsdr?nk supper, monisheth and putteth us in remembrance of his
 
@@ -229,7 +222,7 @@ But return we unto the exposition of St John. When M. P. IOQS. the Jews would no
 
 [3 So D., but More has tryppe, i. e. trip. Some of the following paragraphs had been previously noticed and quoted by More; but after discussing the present paragraph, for a while, he brings his answer to an abrupt conclusion, in p. 1137, deferring any further remarks on Tyndale till he should have replied to ' the pestilent, peevish book of John Frith/]
 
-238 THE SUPPER OF THE LORD.
+## 238 the Supper of the Lord
 
 form of wine ; then must all young children (that never came to God's board) departed, and all laymen that never drank his blood, be damned. By love we abide in God, and he in us : love folio weth faith in the order of our understanding, and not in order of succession of time, if thou lookest upon By faun we the self gifts, and not on their fruits. So that principally chrS, and" * by faith, whereby we cleave to God's goodness and mercv, so he abideth * « •• « XN » • 11 i • T *\ in us and we we abide in God, and God in us ; as declare his words folJohn vi. lowing, saying, " As the living Father sent me, so live I by my Father1; and even so he that eateth me shall live because of me," or for my sake. My Father sent me, whose will in all things I obey ; for I am his Son : and even so verily must they that eat me, that is, believe in me, form and fashion them after my example, mortifying their flesh, and changing their living ; or else they eat me in vain, and dissemble their belief. For I am not come to redeem the world only, but also to change their life. They, therefore, that Authdent' Believe in me shall transform their life after my example and doctrine, and not after any man's traditions. This is the bread that came from heaven, as the effect itself declareth, whom whoso eateth shall live ever. But he that eateth bodily bread liveth not ever, as ye may see of your fathers that ate manna, and yet are they dead. It is not, therefore, any2 ma terial bread, nor bodily food, that may give you life eternal. These words did not only offend them that hated Christ, but also some of his disciples " They were offended," said the text, (and not marvelled, as More trifleth out the truth,) which said, " This is an hard saying ; who may hear this ?" These disciples, yet, stuck no less in Christ's visible flesh, and in the bark of his words, than did the other Jews, and as doth now More, believing him to have spoken of his natural body to be eaten with their teeth: which offence C!irist seeing» said) "Doth this offend you? What then ^ 7Q say' if JQ S6e the Son of man ascend thither where he was before?" If it offend you to eat my flesh while I am here, it shall much more offend you to eat it when my body shall be gone out of your sight, ascended into heaven,
 
@@ -239,7 +232,7 @@ L2 So D., but B. has no.]
 
 CONFUTATION OF M. MORELS LETTER. 239 there sitting on the right hand of my Father, until I come again, as I went, that is, to judgment/ Here might Christ have instructed his disciples in3 the truth of the eating of his flesh in form of bread, had this been his meaning. For he left them never in any perplexity or doubt ; but sought all the ways, by similitudes and familiar examples, to teach them plainly. He never spake them so hard a parable, but where he perceived their feeble ignorance, anon he helped them and declared it them : yea, and sometimes he pre vented their asking with his own declaration ; and think ye that he did not so here ? Yes, verily : for he came to teach us, and not to leave us in any doubt and ignorance, espe cially in the chief point of our salvation ; which standeth in the belief in his death for our sins. Wherefore, to put them out of all doubt as concerning this eating of his flesh, and drinking of his blood, that should give everlasting life ; where they took it for his very body to be eaten with their teeth, he said, ' It is the Spirit that giveth this life, my Here Christ flesh profiteth nothing at all, to be eaten as ye mean so JfwJ^" Y carnally. It is spiritual meat that I here speak of. It is |P1t?J}ualand my Spirit that draweth the hearts of men to me by faith, JesViyeeatand so refresheth them ghostly. Ye be therefore carnal, to b&vftSt think that I speak of my flesh to be eaten bodily ; for so it Profi{ethprofiteth you nothing at all. How long will ye be without understanding ? It is my Spirit, I tell you, that giveth life. My flesh profiteth you nothing to eat it ; but to believe that it shall be crucified and suffer for the redemption of the world, it profiteth. And when ye thus believe, then eat ye my flesh and drink my blood ; that is, ye believe in me, to suffer for your sins/ The Verity hath spoken these words, 'My flesh profiteth nothing at all;' it cannot therefore be false. For both the Jews and his disciples murmured and disputed of his flesh, how it should be eaten, and not of the offering thereof, for our sins, as Christ meant. This, therefore, is the sure anchor to hold us by, against all the objections of the papists for the eating of Christ's body (as they say) in form of bread. Christ said, " My flesh profiteth The eating of nothing ;" meaning, to eat it bodily. This is the key that {j™Jgth " solveth all their arguments, and openeth the way to shew MP- 1098us all their false and abominable blasphemous lies upon [3 So D., but B. wants in.}
 
-240 THE SUPPER OF THE LORD.
+## 240 the Supper of the Lord
 
 Christ's words, and uttereth their sly1 juggling over the bread, to maintain antichrist's kingdom therewith. And thus when Christ had declared it, and taught them that it was not the bodily eating of his material body, but the eating The words of with the spirit of faith, he added, saying, "The words s^rifand616 which I here speak unto you are spirit and life ;" that is to say, this matter that I here have spoken of, with so many words, must be spiritually understood to give you this life everlasting : wherefore the cause, why ye understand me not, is, that ye believe not.
 
@@ -253,8 +246,6 @@ Luke xlli suPPer? John, because the other three had written it at large, did but
 
 [l Uttereth : detects, or exposes. B. and D. have sleighe, i. e. sly ; but More appears to have read the word sleight, i.e. slight, without strength."]
 
-EXPOSITION OF JOHN VI. 241
-
 Matthew, Mark and Luke declaring it clearly, orderly, and with just number of words ; with whom Paul agreeth, thus writing unto the Corinthians : " Our Lord Jesus, the same night he l Corxi- was betrayed, he took the bread, and after he had given thanks, he brake it, saying, Take ye it, eat it : this is my body which is for you broken." Here is now to be noted the order of this action or act. First, Christ took the bread The order of the action.
 
 in his hands ; secondarily, he gave thanks ; thirdly, he broke Auth. it; fourthly, he raught1 it them, saying, Take it; fifthly, he bade them eat it : and last after all this he said, " This is my body, which is for you broken : this thing do ye into the remembrance of me.n Here ye see that this bread was first broken, delivered them, and they were commanded to eat it too, ere Christ said, " This is my body." And for because it is to suppose verily, that they took it at his hand as he bade them, and did eat it too, when they had it in their hands, their master (whose words they did ever obey) commanding them ; it must needs follow (if these be the words of the consecration), that they were houseled with unconsecrated bread, or else now eaten, or at leastwise part of it, ere Christ consecrated it : yea, it followeth, that it was out of Christ's hands, and in their mouths, when Christ consecrated it ; and so to have consecrated it, when it was now in his disciples' hands, or in their mouths, or rather in their bellies.
@@ -265,7 +256,7 @@ Here it is manifest that Christ consecrated no bread, but delivered it to his di
 
 [2 Videtur hoc esse contrarium usui ecclesise, secundum quern prius consecratur corpus Christi, et postea frangitur. Hie autem dicitur quod prius fregit, postea protulit verba consecrationis. Et ideo quidam dixerunt, quod Christus prius consecravit verbis aliis, et postea protulit verba quibus nos consecramus Sed hoc non potest esse; quia sacerdos, dum consecrat, non profert ista verba quasi ex persona sua, sed quasi ex persona Christi consecrantis. Unde manifcstum est quod eisdem verbis quibus nos consecramus et Christus consecravit. — Thorn. Aquin. Comm. in Epist. Paulin. in 1 Cor. xi. 24. fol. 77. See also his
 
-242 THE SUPPER OF THE LOUD.
+## 242 the Supper of the Loud
 
 in all this act and supper, there be no words of consecration, but of the delivering of the bread broken after thanksgiving, with a commandment to eat it ; bring us your words of con secration, and shew us by what words God promised you,
 
@@ -297,7 +288,7 @@ Now since M. More will stick so fast in his literal sense More-s literal upon th
 
 [4 So B., but D. has any.]
 
-244 THE SUPPER OF THE LORD.
+## 244 the Supper of the Lord
 
 is the new testament through my blood, which is shed for you." Here Christ calleth the wine in the cup the self cup ; •which every man knoweth is not the wine. Also he calleth the cup the new testament ; and yet was not the cup, nor yet the wine contained therein, the new testament ; and yet he calleth it the new testament, established and confirmed with his blood. Here ye see he called not the cup his blood, but the testament. Where is now your literal sense, that ye would so fain frame for your papists' pleasure ? If ye will so sore stick to the letter, why do your faction leave here the plain letter, saying that the letter slayeth ; going about the bush with this exposition and circumlocution, exHow the pounding " This is my body," that is to say, this is converted the w?rdsrosf and turned into my body, and this bread is transubstantiated into my body ? How far, lo ! M. More, is this your strange Thomistical sense from the flat letter ? If ye be so addicted to the letter, why fray ye the common people from the literal sense with this bug, telling them, the letter slayeth ? But there is neither letter nor spirit that may bridle and hold your stiff-necked heads.
 
@@ -305,7 +296,7 @@ joimvi. Also ye shall understand that Christ rebuked the Jews for their literal 
 
 Christ's flesh j^beiieve sense and material meat, or else deny Paul ; and deny too, that our fathers did eat Christ, and drank his blood, which all here Paul saith : for to eat and to drink this spiritual meat and drink was, as himself declareth, to eat and drink Christ. " They drank of the stone (saith Paul), that went wifch them . which stone was Christ." And we eat and drink the very same stone : which is nought1 else than to believe in Christ. They believed in Christ to come ; and we believe in him comen, and having suffered. Where is now, think ye, [J So B., but D. has nothing.']
 
-EXPOSITION OF JOHN VI. AND 1 COR. XI. 245
+## Exposition of John VI. And 1 Cor. XI. 245
 
 M. More's literal sense, for the eating of Christ's material body ? Our fathers were one and the same church with us, under the same testament and promise, and even of the same faith in Christ. And even as" they ate him and drank his blood, even the same spiritual meat and drink that we do eat and drink ; so do we now, in the same faith. For what else was signified by this manner of speech, 'Our fathers did eat and drink Christ,' than that they believed in Christ to be incarnated, and to suffer death ? What else meant the poor woman of Canaan by eating, than to believe, when she answered Christ, saying, " Ye say sooth, my Lord ; but Matt. xv. yet do the little whelps eat of the crumbs that fall from their masters' table ?" This did she answer in an allegory, acAH aiiego-
 
@@ -319,7 +310,7 @@ By baptism as we3 testified unto the congregation our 1^.. x. X entering into th
 
 [3 So B., but L. We by baptism testified: D. has We (by baptism) as we.~\
 
-246 THE SUPPER OF THE LORD.
+## 246 the Supper of the Lord
 
 supper) at God's board, or at the Lord's supper, (for so doth Paul call it,) we testify the unity and communion of our hearts, glued unto the whole body of Christ in love : yea, and that in l such love as Christ at this his last supper expressed ; what time he said, his body should be broken and his blood shed for the remission of our sins. And to be short, as baptism is the badge of our faith, so is the Lord's supper the token of our love to God and our neighbours : whereupon standeth the i Tim. i. law and the prophets. " For the end of the precept is love out of a pure heart, and good conscience and faith unfeigned." So that by baptism we be initiated and consigned unto the worship of one God in one faith ; and by the same faith and love at the Lord's supper we shew ourselves to continue in our possession, to be incorporated and to be the very members of Christ's body.
 
@@ -341,7 +332,7 @@ And here is it diligently to be noted, that since4 in all these The sign is
 
 [2 So L., in D. the is wanting, and the arrangement different.] [3 So D., but in B. and L. with is wanting.] [4 So B., but in D. that in all such.]
 
-248 THE SUPPER OF THE LORD.
+## 248 the Supper of the Lord
 
 call the sign the thing ; as is circumcision called the covenant.
 
@@ -361,7 +352,7 @@ THE FIGURES COMPARED UNTO THEIR VERITY. 249 taken for significat ; that is to sa
 
 [4 in Tyndale's New Test, it is, ' We have also a more sure word of prophecy, whereunto if ye take heed, as unto a light that shineth in a dark place, ye do well.']
 
-THE SUPPER OF THE LORD.
+## The Supper of the Lord
 
 The manner of speaking in the scrip ture.
 
@@ -389,7 +380,7 @@ And now, Christian reader, to put thee clean out of doubt that Christ's body is 
 
 [4 To do on is evidently used here, as elsewhere, for to put on.] [6 So B., but D. consummate.]
 
-THE SUPPER OF THE LORD.
+## The Supper of the Lord
 
 he would leave this world and go to his Father in heaven.
 
@@ -407,7 +398,7 @@ Here I would not More to flit from his literal plain sense. All these so plain w
 
 THE FIGURES COMPARED UNTO THEIR VERITY. 253 disciples, without any more marvelling, understand him. For they answered him, saying, " Lo, now speakest thou apertly, neither speakest thou any proverb." But what a dark pro verb and subtle riddle had it been, if he had meant, by his going hence, to have tarried here still; and by forsaking the ivorld, to abide still in the world ; and by his going hence to his Father by his very bodily ascension, to be but invisible ? Who would interpret this plain sentence thus ? * I go hence, that is to say, I tarry here still.' 'I forsake the world and go to the Father ; that is to say, I will be but invisible, and yet here abide still in the world bodily.' For as concerning his Godhead, which was ever with the Father, and in all places at once, he never spake such words of it. Christ said (his death now at hand) unto his disciples, " Now again I forsake the it-. -r-i -i i i n j«n • ji shewed unto world and go to my Father, but ye shall tarry still in the world." If they will expound, by his forsaking the world, to tarry here still bodily, and to be but invisible ; why do they not by like exposition interpret the tarrying here still of the disciples at that time, to be gone hence bodily and to be here visible? For Christ did set these contraries one against another, to declare each other : as, if to tarry here still, did signify to the disciples that they should abide in the world, as it doth indeed ; then must needs his going hence, and for saking the world, signify his bodily absence ; as both the words plainly sound, Christ meant, and they understood them. But in so plain a matter, what need all these words ? Be thou therefore sure, Christian reader, that Christ's glori- £ody » in fied body is not in this world, but in heaven, as he thither ascended ; in which body he shall come, even as he went, gloriously, with power and great majesty, to judge all the world in the last day. Be thou therefore assured, that he never thus juggled or mocked his so dearly-beloved disciples, so full of heaviness now for his bodily departing. For if he had so meant as our papists have perverted his sayings, his disciples would have wondered at so strange manner of speech ; and he would have expressed his mind plainly, since at this time he was so full set to leave them in no doubt, but to comfort them with his plain and comfortable words. And if he would have been but invisible and still bodily present, he would never have covered himself with the cloud, shewing them, and testifying also by those two men, his very bodily
 
-254 THE SUPPER OF THE LORD.
+## 254 the Supper of the Lord
 
 chrisfs ascension out of their sights. We may not make, of his very waTwun bodily ascension, such an invisible juggling cast as our papists feign, fashioning and feigning Christ a body now invisible, now in many places at once ; and then so great, and yet in so little a place ; not discerned of any of our senses ; now glorified, now unglorified ; now passible, and then impassible ; and I wot ne'er1 what they imagine and make of their maker, and all without any word, yea, clean against all the words of holy scripture. For surely in this their imagination and so saying
 
@@ -427,7 +418,7 @@ And because the comparison in the tenth chapter between the Lord's board and his
 
 [6 Here and in the next sentence B. has even, where D. has and.]
 
-256 THE SUPPER OF THE LORD.
+## 256 the Supper of the Lord
 
 the eating and drinking before their images and idols; as did the heathen in the worship and thanks of their gods: of which thing thou mayest gather what Paul meant by the Lord^s board and his cup. Now let us return to Paul in the who they eleventh chapter: They eat this bread and drink of this ofetheabrlad cup unworthily, that come not unto this board with such fhewpun** faith and love as they professed at their baptism. They eat unworthily, that thrust themselves in among this congregation, having not the love that this sacrament, and sign of unity, teacheth and signifieth : which manner of people Paul in this same chapter rebuketh, and bendeth all his sermon against them ; for that they were contentious, and came to gether not for the better but for the worse : so that their coming together, which should have been a token of faith and love, was turned into the occasion and matter of dissenEvery man sion and strife ; because every man did eat, as Paul saith, ownesiPper his own supper, and not the Lord's supper ; wherein the and not the , . . .
 
@@ -445,7 +436,7 @@ But here might some of them object and tell Paul, ' Sir, we come hither hungry a
 
 [2 So B., but D. recognisance.] r i 1?
 
-258 THE SUPPER OF THE LORD.
+## 258 the Supper of the Lord
 
 " If any man be so hungry, let him eat somewhat at home,"
 
@@ -475,7 +466,7 @@ xii. against sangmnem, quod amma sit sangms. Quod lex dicit, sanguis est anima ;
 
 [3 Tertull. adv. Marcion. Lib. iv. cap. 40. The writer has omitted the words, indignum enim ut quid alienum concupisceret Deus, which are inclosed in a parenthesis between suum and acceptum, as being irrelevant to the question between himself and the church of Rome. See the bishop of Lincoln's account of Tertullian's writings against Marcion ; especially pp. 507-8 of 2nd edition.]
 
-THE SUPPER OF THE LORD.
+## The Supper of the Lord
 
 Gen. ix. Levit. vii. Deut. xii.
 
@@ -501,7 +492,7 @@ Now have ye the pure understanding of the words of the The confutaLord's supper,
 
 And if they say that this conversion is made by miracle ; The papists then must every one of them, as oft as he say a mass, make Sn«ub«taiius many a miracle, the very marks of M. More's church. For it is one great miracle that Christ's body should come so suddenly invisible and so oft out of heaven, and that such a miracle as the word of God never knew : another, that so great a body should be contained in so little a place, and that one body should be at once in so many places, and two bodies in one place : another, that it is eaten, neither the eater feel ing it, nor the body eaten suffering, nor feeling the teeth of the eater ; with as many more marvellous and like miracles, or rather absurdities, of the bread and wine, that there must be the form, colour, taste, weight, broken, &c., and yet neither [4 So B., but D. allegeth.] [5 So D., but B. cast.]
 
-262 THE SUPPER OF THE LORD.
+## 262 the Supper of the Lord
 
 to be bread nor wine in our belief, except we will be burned of them, because we believe not their juggling casts. O mis chievous miracle-makers ! O cruel converters ! 0 bloody vouchers1!
 
@@ -519,7 +510,7 @@ But hark, Christian reader, and I shall learn thee to know Christ's plain and tr
 
 [5 In the synagogue of papists.]
 
-264: THE SUPPER OF THE LORD.
+## 264: The Supper of the Lord
 
 When Christ was ascended into heaven, and had sent his apostles the Spirit of truth, to lead them into all truth per taining unto our salvation, even unto him that said, "I am the truth ;" of which truth he instructed them after his resurrec tion, (Luke xxiv.) and they had preached the same truth now Lukexxiv. in Jerusalem (Acts ii.) ; at which preaching there were that SSiSdid received their words, and were baptized, about three thousand; congregation ^ apostles, remembering how their master Christ at his last sup^rds supper did institute, and leave them this holy sacrament of Actsii) his body and blood, to be celebrated and done in his remem brance among such as had received his gospel, were baptized, had professed his faith, and would persevere in his religion, did now in this first congregation celebrate the Lord's supper, breaking the bread, and eating it, as Christ did teach them ; which supper Luke and Paul called afterward the breaking of the bread ; as Acts ii., saying, that "they which gladly had now received Peter's act1, and were baptized, were persevering in the doctrine of the apostles, and in the communion, and in the breaking of the bread, and in prayer ;" which sacrament was now a token of the perseverance in their Christian religion now professed. Of this breaking of bread Luke, writing of Paul Acts xx. coming unto Troas, saith also that there upon a sabbath-day, "when the disciples were come together unto the breaking of the bread, Paul made a sermon, during2 to midnight,"" &c. And that this was no common nor profane use, but an heavenly sacrament, and a reverent rite and usage, the circumstances of the action declare, both in Luke and Paul, shewing it to be the very institution that Christ ordained at his supper ; Paul thus reciting this breaking of the bread, saying, " The bread which we break, is it not the fellowship of the body of Christ ? " that is to say, ' Doth it not signify us to be the body of Christ ; that is, his congregation and people ? ' as do the words following declare, (Paul adding the cause,) saying, " For we being many are altogether signified by the one loaf to be one body, for that we be partakers of the same bread." Also before he calleth in the same supper the cup of thanksgiving, " the fellowship of the blood of Christ ;" that is to say, ' the congregation redeemed with Christ's blood/ This holy sacrament therefore, would God it were re-
 
@@ -531,7 +522,7 @@ THE RESTORING OF THE LORD'S SUPPER. 265 stored unto the pure use, as the apostle
 
 . and wine are wine be no profane common signs, but holy sacraments, revenot profane, ently to be considered, and received with a deep faith and remembrance of Christ's death, and of the shedding of his blood for our sins ; those sensible things to represent us the very body and blood of Christ, so that while every man beholdeth with his corporal eye those sensible sacraments, the inward eye of his faith may see, and believe stedfastly, Christ offered and dying upon the cross for his sins, how his body was broken and his blood shed for us, and hath given himself whole for us, himself to be all ours, and whatsoever he did
 
-266 THE SUPPER OF THE LORD.
+## 266 the Supper of the Lord
 
 i cor. f. to serve us, as to be made for us, of his Father, our righteous ness, our wisdom, holiness, redemption, satisfaction, &c. A wholesome Then let this preacher exhort them lovingly to draw fensso!%amenear unto this table of the Lord, and that not only bodily, ministers. kut B\SO} their hearts purged by faith, garnished with love and innocency, every man to forgive each other unfeignedly, and to express, or at leastwise to endeavour them to follow, that love which Christ did set before our eyes at his last supper, when he offered himself willingly to die for us his Rom.v. enemies; which incomparable love to commend, bring in Paul's arguments, so that thus this flock may come together, and be joined into one body, one spirit, and one people. This done, let him come down, and, accompanied honestly At the miniswith other ministers, come forth reverently unto the Lord's tration of the * table, the congregation now set round about it, and also m their other convenient seats, the pastor exhorting them all andeiove,h to pray for grace, faith, and love, which all this sacrament fordgracper.ay signifieth and putteth them in mind of. Then let there be read apertly and distinctly the sixth chapter of John, in their mother tongue ; whereby they may clearly understand, what it is to eat Christ's flesh and to drink his blood. This done, and some brief prayer and praise sung or read, let one or other minister read the eleventh chapter of the first to the Corinthians, that the people might perceive clearly, of those words, the mystery of this Christ's supper, and where fore he did institute it.
 
@@ -545,7 +536,7 @@ I would have hereto put my name, good reader, but I know well that thou regardes
 
 [2 So B., but in all subsequent editions Mocke has been changed to More.]
 
-268 THE SUPPER OF THE LORD.
+## 268 the Supper of the Lord
 
 Those words guardian, as himself saith, cometh every day into purgatory, ws book?1 (if there be any day at all), " with his enmious1 and envious that he made V tt * , . . „ soui^in15001 laughter, gnashing his teeth and grinning/ telling the proctor, Aurthatory' with his pope's prisoners, whatsoever is here done or written against them, both his person and name too2. And he is now, I dare say, as great with his guardian as ever he was. Mark xiii. If any man tell you, Lo ! here is Christ, or there is he, believe him not ; for there shall arise false Christs, false anointed, giving great miracles. Take heed ; I have told ye before : if they therefore tell ye, Lo ! he is in the desert, go not forth ; lo ! he is in the privy pix3, believe it not.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Cause and Effect of Heart Trouble
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3076
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let not your heart be troubled, neither Jet it be afraid." John 14:27.
 
@@ -128,7 +125,6 @@ Sing, and never the song have done—
 Sing to Father, Son, and Spirit,
 
 One in Three, and Three in One!" My one regret, in preaching this sermon is that I cannot address it to you all. There are some unconverted persons here who are troubled. I hope you will be still more troubled! I cannot say to you, "Do not be afraid," for you ought to be even more afraid than you are and you have everything to make you afraid. But though you are troubled and afraid, remember that there is a Savior and that this Savior may be yours—for whoever believes in Him shall have his sins forgiven and shall be delivered from the wrath to come. If you believe in Him with all your heart, then my text may be addressed to you—but not till then. May God lead you so to believe and then we will say to you, "Let not your heart be troubled, neither let it be afraid." Amen.
-
 
 ---
 [[Sermon 3075 Looking for One Thing and Finding Another|← #3075]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3077 Death—a Sleep|#3077 →]]

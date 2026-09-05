@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 7
 
-**CHAPTER 7**
+***Chapter 7***
 
 ## Isaiah 7:1-25
 

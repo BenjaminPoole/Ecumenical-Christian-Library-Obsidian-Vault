@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 2. Exposition of Matthew V, VI, and VII: The Fifth Chapter
 
-THE FIFTH CHAPTER OF MATTHEW.
+*The Fifth Chapter of Matthew*
 
 "When he saw the people, he went up into a mountain and sat him down, and his disciples came to him ; and he opened his mouth, and taught them, saying: Blessed be the poor in spirit, for theirs is the kingdom of heaven ^.
 
@@ -38,8 +37,6 @@ IS a thing a false prophet immediately. If he be of the lay sort, soj^^'^^ryto j
 Take heed to thy preacher therefore, and be sure, if he ^yg'^/fgj^ be covetous and gape for promotion, that he is a false prophet, v^^v^^^ and leaveneth the scripture, for all his crying, ' fathers, ^^-
 
 [tyndale, ii.]
-
-18 EXPOSITION OF [chap.
 
 fathers,' 'holy church,' and 'fifteen hundred years ^' and for all his other holy pretences.
 
@@ -69,8 +66,6 @@ But they shall be comforted of all their tribulation, and The promi their sorrow
 
 [3 In so saying, there can be no doubt that Tyndale alluded to what passed in 12079, as related by the monkish historian, Matthew Paris, who mentions how John forbade ecclesiastical appeals to Rome ; telling Innocent III., that ( Cum archiepiscopi, episcopi et alii ecclesiarum prselati, tam de regno Anglise quam aliarum terrarum suarum, in omnium scientiarum plenitudine sufficienter abundent, si necessitas coegerit, extra terras suas justitiam tcI judicium ab alienigenis non emendicaret' : also that by John's orders, 'Presbyterorum et clericorum focarise per totam Angliam a ministris regis captse sunt, et graviter ad se redimendum compulsae:' and that John patronised a preacher who affirmed, 'ad papam non pertinere de regum sive de quorumhbet potentum laica possessione, vel subditorum regiraine ; cum prsecipue principi apostolorum Petro nihil a Domino nisi ecclesiie tantum ac rerum ecclesiasticarum sit collata potestas.' Matt. Paris. Hist. Angl. f. 188 92. Lond. 1686.]
 
-20 EXPOSITION OF [chap.
-
 Faith is our kingdoms, and obtained the promises." And "this is the v.\T^' victory that overcometh the world, even our faith." But the
 
 Wind world neither seeth our comfort, nor . our trust in God, nor how God, through faith in his word, helpeth us, and maketh us overcome.
@@ -83,7 +78,7 @@ The mournhavo obtained that everlasting kingdom for which they fought.
 
 ers for right- , o o / o ^ eousnessare And bcsidcs all this, whcn God plagueth the world for their saved, when _ to vengSnre* siu, thcso that mourn and sorrow are marked with the sign righ?M^.' of Thau in their foreheads, and saved from the plague, that Sek.uc they perish not with the wicked, as thou seest, and as Lot was delivered from among the Sodomites.
 
-And contrariwise, cursed are they that laugh now, that is to say, which have their joy, solace, and comfort in their LukevL riches; for they shall sorrow and weep. And as.it was anLukexvi. swered the rich man, "Son, remember how that thou re- ceivedst thy good days in thy life-time, and Lazarus likewise evil ; and therefore is he comforted and thou tormented."
+And contrariwise, cursed are they that laugh now, that is to say, which have their joy, solace, and comfort in their LukevL riches; for they shall sorrow and weep. And as.it was anLukexvi. swered the rich man, "Son, remember how that thou receivedst thy good days in thy life-time, and Lazarus likewise evil ; and therefore is he comforted and thou tormented."
 
 3\. Blessed are the meek, for they shall inherit the earth.
 
@@ -157,8 +152,6 @@ It folio weth then that thou may est be pure-hearted, and therewith do all that 
 
 [2 Crudelity, i. e. cruelty, from the Latin form of the word ] [3 Study and studious, are here used in that sense which they have in the Latin ; that is, to desire, and desirous.]
 
-26 EXPOSITION OF [chap.
-
 hearted^ and consented not with them to the death of that innocent. The end of If the law bc written in thine heart, it will drive thee to justif "all Christ : which is the end of the law, to justify all that beheve.
 
 that believe. / /
@@ -183,7 +176,7 @@ Princei, what they he that gave the cause repent ; and must also seek all ways o
 
 If thou have peace in thyself, and lovest the peace of thy when thou
 
-11 n 1. -/-Ill li-Nimayest as- brethren after this manner, so is God, through Christ, at sure thyself
+11 n 1. -/-Ill li-Nimayest as-brethren after this manner, so is God, through Christ, at sure thyself
 
 ' ' 25 ' to be the son peace with thee ; and thou his beloved son, and heir also. gJ^**^" '
 
@@ -229,8 +222,6 @@ T ti i. ' most cruel be reviled and railed upon ; and even when thou art conf/""
 
 [3 So D., but L. poison liearis. See Vol, i, p. 17, n, 4.]
 
-30 EXPOSITION OF * [chap.
-
 Well, though iniquity so highly prevail, and the truth, for which thou diest, be so low kept under, and be not once known before the world, insomuch that it seemeth rather to be hindered by thy death than furthered, (which is of all griefs the greatest;) yet let not thine heart fail thee, neither despair, as though God had forsaken thee, or loved thee not : but comfort thyself with old ensamples, how God hath suffered all his old friends to be so entreated, and also his only Set the exand dear son Jesus ; whose ensample, above all other, set Christ before bofore thiuo CTes, bocause thou art sure he was beloved above thee. W. T. t/ '
 
 all other, that thou doubt not but thou art beloved also, and so much the more beloved, the more thou art like to the image of his ensample in suffering.
@@ -246,8 +237,6 @@ And on the other side, as they be cursed which leave righteousness destitute, an
 Ye be the salt of the earth : but if the salt be waxen unsavoury, what 10. can be salted therewith? It is henceforth nothing worth, but to be cast out, and to be trodden under foot of men.
 
 The office of an apostle and true preacher is to salt, not The office of only the corrupt manners and conversation of earthly people, preacher, but also the rotten heart within, and all that springeth out thereof; their natural reason, their will, their understanding and wisdom; yea, and their faith and belief, and all that they have imagined without God's word concerning righteousness, justifying, satisfaction and serving of God. And the nature of salt is to bite, fret, and make smart. And the sick patients of the world are marvellous impatient, so that, though itisajeowith great pain they can suffer their gross sins to be rebuked {1''"^^^*''" under a fashion, as in a parable afar off ; yet, to have their '^- ^ righteousness, their holiness, and serving of God and his saints, disallowed, improved, and condemned for damnable and devilish, that may they not abide : insomuch that thou
-
-32 EXPOSITION OF [chap.
 
 must leave thy salting or else be prepared to suffer again ; even to be called a railer, seditious, a maker of discord, and a troubler of the common peace ; yea, a schismatic, and an heretic also ; and to be lied upon, that thou hast done and said that thou never thoughtest, and then to be called coram nobis^, and to sing a new song, and forswear salting, or else to be sent after thy fellows that are gone before, and the way thy Master went.
 
@@ -277,13 +266,11 @@ And what if the doctrine be not true salt ? Verily then cemMaua is it to be trod
 
 [tyndalb, II.J
 
-34 EXPOSITION OF [chap.
-
 under foot, and defied the temple of God, and the sacrifices of God, and all ceremonies that God had ordained, with fastings and prayings, and all that the people perverted and committed idolatry with. We have as strait a commandment, to salt and rebuke all ungodliness, as had the prophets. Will they then have their ceremonies honourably spoken of ? Then let them restore them to the right use, and put the salt of the true meaning and significations of them to them again. But as they be now used, none that loveth Christ can speak honourably of them. What true christian man can give honour to that that taketh all honour from Christ? Who can give honour to that that slayeth the soul of his brother, and robbeth his heart of that trust and confidence, which he should give to his Lord that hath bought him with his blood ?
 
 Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick, and so giveth it light to all that are in the house. Let your light so shine before men, that they may see your good works, and praise your Father that is in heaven.
 
-Christ goeth forth and describeth the office of an apostle and true preacher by another likeness; as he called them before the salt of the earth, even so here the light of the world : signifying thereby that all the doctrine, all the wisdom, and high knowledge of the world, whether it were philosophy of natural conclusions, of manners and virtue, or of laws of righteousness, whether it were of the holy scripAiiknowture and of God himself, was yet but a darkness, until the ledge is dark- ,.-.,. , , . -, ^ , ness, till the doctrmc 01 his apostles came ; that is to say, until the know- knowledge ^ ^ / '
+Christ goeth forth and describeth the office of an apostle and true preacher by another likeness; as he called them before the salt of the earth, even so here the light of the world : signifying thereby that all the doctrine, all the wisdom, and high knowledge of the world, whether it were philosophy of natural conclusions, of manners and virtue, or of laws of righteousness, whether it were of the holy scripAiiknowture and of God himself, was yet but a darkness, until the ledge is dark- ,.-.,. , , . -, ^ , ness, till the doctrmc 01 his apostles came ; that is to say, until the know-knowledge ^ ^ / '
 
 bf(^-1h^- l6(^g6 of Christ came, how that he is the sacrifice for our th^h^^ sins, our satisfaction, our peace, atonement and redemption, ^' ^" our life thereto, and resurrection. Whatsoever hoUness, wisdom, virtue, perfectness, or righteousness, is in the world among men, howsoever perfect and holy they appear; yet is all damnable darkness, except the right knowledge of Christ's blood be there first, to justify the heart, before all other hoUness.
 
@@ -297,13 +284,11 @@ This light and salt pertained not then to the apostles, and now to our bishops a
 
 rulers are bound to be salt and light ; not only m example w. x. of Uving, but also in teaching of doctrine unto their subjects, as well as they be bound to punish evil doers. Doth not the scripture testify that king David was chosen to be a shepherd, and to feed his people with God's word? It is an evil schoolmaster that cannot but beat only: but it is a good schoolmaster that so teacheth, that few need to be beaten. This salt and light therefore pertain to the temporalty also,
 
-36 EXPOSITION OF [chap.
-
-and that to every member of Christ's church : so that every man ought to be salt and light to other. The order Everv man then may be a common preacher, thou wilt how every " ^ iii- xt man may be say, and prsach every where by his own authority. -IN ay, and how not ycrily ; no man may yet be a common preacher, save he that is called and chosen thereto by the common ordinance of the congregation, as long as the preacher teacheth the true word of God. But every private man ought to be, in virtuous living, both light and salt to his neighbour: insomuch that the poorest ought to strive to overrun ^ the bishop, and preach to him in ensample of living. Moreover every man ought to preach in word and deed unto his household, and to them
+and that to every member of Christ's church : so that every man ought to be salt and light to other. The order Everv man then may be a common preacher, thou wilt how every " ^ iii-xt man may be say, and prsach every where by his own authority. -IN ay, and how not ycrily ; no man may yet be a common preacher, save he that is called and chosen thereto by the common ordinance of the congregation, as long as the preacher teacheth the true word of God. But every private man ought to be, in virtuous living, both light and salt to his neighbour: insomuch that the poorest ought to strive to overrun ^ the bishop, and preach to him in ensample of living. Moreover every man ought to preach in word and deed unto his household, and to them
 
 None ought that are under his governance, &c. And though no man openly, but mav Drcach openly, save he that hath the office committed such as are / i r t/ '
 
-^I^rdtoa'Jfce ^^^^ ^' J* ought cvcry man to endeavour himself to be pj^auon"' as well Icamed as the preacher, as nigh as it is possible. And every man may privately inform his neighbour ; yea, and the preacher and bishop too, if need be. For if the preacher preach wrong, then may any man, whatsoever he be, rebuke him ; first privately, and then, if that help not, to complain farther. And when all is proved, according to the order of charity, and yet none amendment had, then ought every man that can to resist him, and to stand by Christ's doctrine, and to jeopard life and all for it. Look on the old ensamples and they shall teach thee. Spiritual and The gospcl hath another freedom with her than the tem- temporal re- ~^ '
+^I^rdtoa'Jfce ^^^^ ^' J* ought cvcry man to endeavour himself to be pj^auon"' as well Icamed as the preacher, as nigh as it is possible. And every man may privately inform his neighbour ; yea, and the preacher and bishop too, if need be. For if the preacher preach wrong, then may any man, whatsoever he be, rebuke him ; first privately, and then, if that help not, to complain farther. And when all is proved, according to the order of charity, and yet none amendment had, then ought every man that can to resist him, and to stand by Christ's doctrine, and to jeopard life and all for it. Look on the old ensamples and they shall teach thee. Spiritual and The gospcl hath another freedom with her than the tem-temporal re- ~^ '
 
 Sfter?"^ poral regiment. Though every man's body and goods be under the king, do he right or wrong, yet is the authority of God's word free, and above the king : so that the worst in the realm may tell the king, if he do him wrong, that he doth naught, and otherwise than God hath commanded him ; and so warn him to avoid the wrath of God, which is the patient avenger of all unrighteousness. May I then, and ought also, to resist father and mother and all temporal power with God's word, when they wrongfully do or command that hurteth or killeth the body ; and have I no power to resist the bishop or preacher, that with false doctrine slayeth the souls, for which my master and Lord Christ hath shed his blood? Be we otherwise under our bishops than [} So D., but L. overcome.^
 
@@ -318,8 +303,6 @@ I am bound to get worldly substance for myself and for mine household with my ju
 [3 The words person and parson were not yet made two, by the adoption of the letter a into the first syllable of the synonyme for a Christian minister, as a means of distinguishing between them. Tyndale has therefore employed the word person here in each sense. At one period, in our language, the name of person was given to a rector, when meant to be distinguished from a vicar. Of this examploB are given in Johnson, Diet.]
 
 [4 That is, tried; as in 1 Sam. xvii. 39.]
-
-38 EXPOSITION OF [chap.
 
 Ye shall not think that I am come to destroy the law or the prophets: no, I am not come to destroy them, but to fulfil them. For truly I say unto you, till heaven and earth perish, there shall not one jot or one tittle of the law scape, till all be fulfilled.
 
@@ -363,8 +346,6 @@ IS altered with false glosses, it is no more God's word. As ^ "'"d- when God sai
 
 to help him that cannot, or at a time hath not wherewith to help himself ; if thou, and thirty or forty with thee, get you to wilderness, and not only help not your neighbours, but also rob a great number of two or three thousand pounds yearly, how love ye your neighbours ? Such men help the world with prayer, thou wilt say to me. Thou wert better The prayer i- ^ ' ^ / ^ of monks to say, ' they rob the world with their hypocrisy,' say I to ho^a!'no'tf thee ; and it is truth indeed that they so do. For if I stick ^' ^' up to the middle in the mire, like to perish without present help, and thou stand by and wilt not succour me, but kneelest down and prayest, will God hear the prayers of such an hypocrite ? God biddeth thee so to love me, that thou put thyself in jeopardy to help me ; and that thine heart, while
 
-42 EXPOSITION OF [chap.
-
 thy body laboureth, do pray and trust in God that he will assist thee, and through thee to save me. An hypocrite, that will put neither body nor goods in peril for to help me at my need, loveth me not, neither hath compassion on me ; and therefore his heart cannot pray, though he wag his lips never
 
 John ix. so much. It is written, " If a man be a worshipper of God, and do his will," which is the true worship, " him God heareth." Now the will of God is, that we love one another, to help at need : and such lovers he heareth, and not subtle hypocrites. As love maketh thee help me at my need ; so when it is past ijoyem^y^ thy powcr to help, it maketh thee pray to God. Even so where is no love, to make thee take bodily pain with me, there is no love that maketh thee pray for me ; but thy prayer is indeed for thy belly, which thou lovest.
@@ -389,8 +370,6 @@ When these thus sat in the hearts of the people, with the opinion of virtue, hoU
 
 1 / 11 1 1 1 treason and not err ; and finally, they themselves either every where ^"sy. were the chief rulers, or so sat in the hearts of the rulers,
 
-44 EXPOSITION OF [chap.
-
 that their word was believed to be the word of God ; what other thing could it be, to preach against all such, and to condemn their righteousness for the most damnable sin that can be, than to seem to go about to destroy the law and the Why hypoDrophets ? What other thing can such a preacher seem to crisy must be, -iii.-i ii-i i ! t first rebuked, bo, bcfore tho blind world, than an heretic, schismatic, sedi- though It be
 
 ^e^h^*** tious, possessed with the devil, and worthy of shame most ^inst it yj]g ^jj(j death most cruel ? And yet these must be first rebuked, and their false righteousness detected, ere thou mayest preach against open sinners. Or else, if thou shouldest convert an open sinner from his evil living, thou shouldest make him nine hundred times worse than before : for he would at once be one of these sort, even an Observant, or of some like sect, of which, among an hundred thousand, thou shalt never bring one to believe in Christ; where among open sinners many believe at the hour of death, fall flat upon Christ, and believe in him only, without all other righteousness. It ^cre an hundred thousand times better never to pray, than to pray such lip-prayers; and never to fast or do alms, than to fast, and to do alms, with a mind thereby to be made righteous, and to make satisfaction for the fore sins.
@@ -408,8 +387,6 @@ But Christ restoreth the law again ; and saith, to be o'^^g^S^M angry with thy n
 Shall then a man not be angry at all, nor rebuke or how a man o / ' may be angry punish? Yes, if thou be a father or a mother, master or ^^|"^.' x. mistress, husband, lord, or ruler ; yet with love and mercy, that the anger, rebuke, or punishment, exceed not the fault or trespass. May a man be angry with love ? Yea, mothers can be so with their children. It is a loving anger, that hateth only the vice, and studieth to mend the person. But
 
 U ' np"^") Raka ; a word expressive of the greatest contempt ; very much used by the rabbinical writers, and very common in the mouth of their people.' Lightfoot Hor. Hebr. in Matt. v. 22.]
-
-46 EXPOSITION OF [chap.
 
 here is forbidden not only wrath against father, mother, and all that have governance over thee, which is to be angry, and to grudge against God himself, and that the ruler shall not be wrath without a cause against the subject ; but also all private wrath against thy neighbour, over whom thou hast no rule, nor he over thee, no, though he do thee wrong. For he that doth wrong lacketh wit and discretion ; and cannot amend, till he be informed and taught lovingly. Therefore thou must refrain thy wrath, and tell him his fault lovingly, and with kindness win him to thy Father : for he is thy brother, as well made and as dear bought as thou, and as well beloved, though he be yet childish and lack discretion. Love is the But somo will Say, I wUl not hate my neighbour, nor theW. yet love him or do him good. Yes, thou must love him : for the first commandment, out of which all other flow, is, " Thou shalt love the Lord thy God with all thine heart, with aU thy soul, and with all thy might :" that is, thou must keep all his commandments with love. Love must keep thee from killing or hurting thy neighbour, and from coveting in thine 1 John iv. heart whatsoever is his. And " this commandment have we of him, that he which loveth God love his brother also." 1 John ui. And again, " He that hath the substance of this world, and seeth his brother have necessity, and shutteth up his compassion from him, how is the love of God in him ? " He then that helpeth not at need, loveth not God, but breaketh the first commandment. " Let us love," therefore, saith St John, " not with word and tongue, but in deed and truth." And again, St John saith in the said place, " He that loveth not his brother abideth yet still in death." And of love hath Moses texts enough : but the Pharisees glossed them out, saying, they were but good counsels, if a man desired to be perfect, Exod. xxiu. but not precepts. " If thou meet thine enemy's ox or ass going astray, thou shalt in any wise bring them to him again." And, " If thou see thine enemy's ass fall down under Lev. xix. his burden, thou shalt help him up again." And, " Thou shalt 2h US'to^'" not hate thy brother in thine heart, but shalt in any wise nTre?must rebuke thy neighbour, that thou bear no sin for his sake^"
 
@@ -457,8 +434,6 @@ Carnal love will not suffer a mother to rob her child ; no, it maketh her rob he
 
 [} So L., but D. has cast.] [tyndale, II.J
 
-50 EXPOSITION OF [chap.
-
 her chastity than his son doth himself. Even so would love to my neighbour keep me from sinning against him.
 
 Advoutry. Advoutry is a damnable thing in the sight of God, and much mischief folio weth thereof. David, to save his honour, was driven to commit grievous murder also. It is unright, in the sight of God and man, that thy child should be at another man's cost, and be another man's heir : neither canst thou or the mother have hghtly a quiet conscience to God, or a merry heart, as long as it so is. jSIoreover what greater shame canst thou do thy neighbour, or what greater displeasure ? What if it never be known, nor come any child thereof? The preciousest gift that a man hath of God in this world is the true heart of his wife, to abide by him in wealth and woe, and to bear all fortunes with him. Of that hast thou robbed him ; for after she hath once coupled herself to thee, she shall not lightly love him any more so truly; but haply hate him, and procure his death. Moreover thou hast untaught her to fear God, and hast made her to sin against God : for to God promised she, and not to man only ; for the law of matrimony is God's ordinance. For it
@@ -479,8 +454,6 @@ It is said, whosoever putteth away his wife, let him give her a testimonial of t
 
 Moses permitted his Israelites in extreme necessity, as Deut. xxtv when they so hated their wives that they abhorred the company of them, then to put them away, to avoid a worse inconvenience ; whereof ye read also Matt. xix. And he Matt. xix. knit thereto, that they might not receive them again, after they had been known of any other persons. Which licence the Jews abused, and put away their wives for every light or feigned cause, and whensoever they lusted. But Christ calleth back again, and interpreteth the law after the first ordinance, and cutteth off all causes of divorcement, save fornication of the wife's party, when she breaketh her matrimony ; in which case Moses"'s law pronounceth her dead, and so do the laws of many other countries : which laws, where they be used, there is a man free without all question. Now where they be let live, there the man (if he see sign of repentance and amendment) may forgive for once. If he may not find in his heart (as Joseph, as holy as he was, could not find in his heart to take Christ's mother to him, when he spied her with child), he is free no doubt to take another, while the law interpreteth her dead : for her sin ought of no right to bind him.
 
-52 EXPOSITION OF [chap.
-
 What shall the woman do, if she repent and be so tempted in her flesh that she cannot live chaste ? Verily I can shew
 
 The office of you nothing out of the scripture. The office of the preacher a preacher. / o a * w. T. is, to preach the ten commandments, which are the law natural ;
@@ -493,7 +466,7 @@ What followMoses for keeping their laws, as wealth and prosperity, ingofthe long
 
 And all the curses and terrible plagues which are threa- whatfoitened throughout the law of Moses, as hunger, dearth, war loweth the , , , . ., ' i / breaking of and disscusion, pestilence, fevers, and wonderful and strange w.T. fearful diseases, as the sweat, plague, and falling sickness, shortening of days, that the sword, hunger, and such diseases shall eat them up in their youth, that their enemies should have the upper hand, that the people of the land should be minished, and the towns decayed, and the land brought unto [1 So D., but L. this.]
 
-V. 31, 32.] MATTHEW V. VI. VII. 53 .
+## V. 31, 32.] Matthew V. VI. VII. 53
 
 a wilderness, and that a plenteous land should be made barren, or so ordered that dearth should devour the inhabiters, and wealth be among few that should oppress the rest, with a thousand such like, so that nothing they begin should have a prosperous end ; all those curses (I say) pertain to us as well as to them, if we break our temporal laws.
 
@@ -519,8 +492,6 @@ And then shall all go against us, whatsoever we take in hand :
 
 insomuch that when we gather a parliament to reform or amend aught, that we there determine shall be our own snare, confusion, and utter destruction, so that all the enemies we have under heaven could not wish us so great mischief as our own counsel shall do us ; God shall so blind the wisdom of the wise. If any man have any godly counsel, it shall
 
-54 EXPOSITION OF [chap.
-
 have none audience : error, madness, and dasing ^ shall have the upper hand. AnadmoniAnd let the spiritualty take heed and look well about tion. W.T. \ in j /-i j them, and see whether they walk as they have promised (jod, and in the steps of his Son Christ, and of his apostles, whose offices they bear. For I promise them, all the devils in hell, if God had let them loose, could not have given them worse counsel than they have given themselves this twenty year long. God gave up his Israelites oftentime, when they would not be ruled, nor know themselves and their duty to God; and brought them into captivity under their enemies, to prove and feel (saith the text) whether were better service, either to serve God, and wilUngly to obey his law coupled with so manifold blessings ; or to serve their enemies, and to obey their cruelness and tyranny (spite of their heads) in need and necessity. And let the temporalty remember, that because those nations, under which the IsraUtes were in captivity, did deal cruelly with them, not to punish them for their idolatry and sin, which they had committed against God, but to have their lands, and goods, and service only, rejoicing to make them worse and more out of their Father's favour ; therefore when God had scourged his children enough, he did beat the other for their labour. What rulers But to our purooso .* what if the man run from his wife ought to do, r T 1 touching and leave her desolate ? Verily, the rulers ought to make a such as run * ' O thelr^wv^S law, if any do so and come not again by a certain day, as without just y^j^jjjQ i\^Q space of a year or so, that then he be banished the country ; and if he come again, to come on his head, and let the wife be free to marry where she will. For what right is it that a lewd wretch should take his goods, and run from his wife without a cause, and sit by a whore, yea, and come again after a year or two (as I have known it) and rob his wife of that she hath gotten in the mean time, and go again to his whore? Paul saith to the Corinthians, that if a man or woman be coupled with an infidel, and the infidel depart, the other is free to marry where they lust. And he saith : Tim.r. " If there be any man that provideth not for his, and namely for them of his own household, the same denieth the faith, and is worse than an infidel." And even so is this man much more to be interpreted for an infidel, that causeless [1 So D., but L. daunsi^ng.] runneth from his wife. Let, I say, the governors take heed how they let sin be unpunished, and how they bring the wrath of God upon their realms. For God will be avenged of all iniquity, and punish it with plagues from heaven.
 
 In like manner, if the woman depart causeless and will not be reconciled, though she commit none adultery, the man ought of right to be free to marry again. And in all other causes, if they separate themselves of impatience that the one cannot suffer the other's infirmities, they must remain unmarried.
@@ -541,8 +512,6 @@ Pharisees had darkened and corrupt with the stinking mist of their sophistry, an
 
 God. If thou swear 'By God it is so,' or * By God I will do this or that;' the meaning is, that thou makest God judge, to avenge it of thee, if it be not as thou sayest, or if thou shalt not do as thou promisest. Now if truth be not in thy
 
-56 EXPOSITION OF [chap.
-
 words, thou shamest thine heavenly Father, and testifiest that thou believest that he is no righteous judge, nor will avenge unrighteousness ; but that he is wicked as thou art, and consenteth and laugheth at thee, while thou deceivest thy brother, as well created after the likeness of God, and as dear bought with the precious blood of Christ, as thou. And thus through thee, a wicked son, is the name of thy Father dishonoured, and his law not feared, nor his promises believed. And when thou swearest by the gospel book, or bible, the meaning is, that God, if thou lie, shall not fulfil unto thee the promises of mercy therein written ; but contrariwise to bring unto thee all the curses, plagues and vengeance therein threatened unto the disobedient and evil doers. Men ought And oven so when thou swearest by any creature, as by so to deal . . ' ^ . "^ thattheir bread or salt, the meanmg is, that thou desirest, that the words may ' o ' '
 
 ^m^t'^y creator thereof shall avenge it of thee, if thou lie, &c. Where- *'^'^ fore our dealing ought to be so substantial, that our words might be behcved without an oath. Our words are the signs of the truth of our hearts, in which ought to be pure and single love toward thy brother ; for whatsoever proceedeth not of love is damnable. Now falsehood to deceive him, and pure love, cannot stand together. It cannot therefore be but damnable sin to deceive thy brother with lying, though thou add no oath to thy words. Much more damnable is it then to deceive, and to add an oath thereto, &c. Swearing in Howbcit all manner of swearing is not here forbidden, no what sort it O '
@@ -562,8 +531,6 @@ In all our promises it is to be added, " If God will," and, " If there be no law
 trusty friend, in feigning and beguiling Absalom, but pleased
 
 God highly. To bear a sick man in hand that wholesome bitter medicine is sweet, to make him drink it, it is the duty of charity, and no sin. To persuade him that pursueth his
-
-58 EXPOSITION OF [chap.
 
 neighbour to hurt him or slay him, that his neighbour is gone another contrary way, is the duty of every Christian man by the law of charity, and no sin ; no, though I confirmed it with an oath^ But to he for to deceive and hurt, that is damnable only, &c.
 
@@ -591,8 +558,6 @@ All this I mean, if thou be patient, and wise, and fear God thereto, and love th
 
 [3 Seo Vol. I. p. 122.]
 
-60 EXPOSITION OF [chap.
-
 Bat and if thou canst not poll thyself with wisdom, and laugh, and bear a good countenance, as though thou rejoicest while such persons poll thee, every man shall poU thee ; and they shall maintain them, and not defend thee. Let this therefore be a common proverb ' Be contented to be polled of some man ; or to be polled of every man.' Two manner Yc must Understand that there be two states or degrees states and deJ^ m^ni!^ in this world : the kingdom of heaven, which is the regiment ^' ^* of the gospel ; and the kingdom of this world, which is the temporal regiment. In the first state there is neither father, mother, son, daughter ; neither master, mistress, maid, manservant, nor husband, nor wife, nor lord, nor subject, nor man, nor woman : but Christ is all ; and each to other is Christ himself. There is none better than other ; but all Uke good, all brethren, and Christ only is Lord over all. Neither is there any other thing to do, or other law, save to love one another as Christ loved us. In the temporal regiment is husband, wife, father, mother, son, daughter, master, mistress, maid, manservant, lord, and subject. Every man Is Now is evcrv porsou a doublc pcrsou ; and under both of the spint/ r 1 '
 
 oahl'ttm*^ the regiments. In the first regiment, thou art a person for ^r^ty.both. ijjjjje owu solf, uudor Christ and his doctrine, and may est neither hate nor be angry, and much less fight or avenge ; but must after the ensample of Christ humble thyself, forsake and deny thyself, and hate thyself, and cast thyself away, and be meek and patient, and let every man go over thee, and tread thee under foot and do thee wrong ; and yet love them, and pray for them, as Christ did for his crucifiers. For love is all ; and what is not of love, that is damnable, and cast out of that kingdom. He that For that kingdom is the knowledge of God and Christ.
@@ -611,11 +576,9 @@ But in the worldly state, where thou art no private man, but a person in respect
 
 [1 That is, belongs.] [2 Without difficulty.]
 
-62 EXPOSITION OF [chap.
-
 obedience and fear, and mayest not suffer thyself to be despised. Rulers must And whero thou art a ruler thereto appointed, thou must take, punish, not . ^ .
 
-buVfor"'^' P^'ison, and slay too ; not of malice and hate, to avenge thy- peo^ie^a'^d ^^^^' ^^^ ^^ defend thy subjects, and to maintain thine office.
+buVfor"'^' P^'ison, and slay too ; not of malice and hate, to avenge thy-peo^ie^a'^d ^^^^' ^^^ ^^ defend thy subjects, and to maintain thine office.
 
 oAhe^uw"^ Concerning thyself, oppress not thy subjects with rent, fines, or custom at all, neither pill them with taxes and such like, to maintain thine own lusts ; but be loving and kind to them, as Christ was to thee ; for they be his, and the price of his blood. But those that are evil doers among them and vex their brethren, and will not know thee for their judge and fear thy law, them smite, and upon them draw thy sword, and put it not up until thou hast done thine office ; yet without hate to the person, for his master's sake, and because he is in the first regiment thy brother, but to amend him only ; or if it cannot be but that thou must lose one to save many, then execute thine office with such affection, with such compassion and sorrow of heart, as thou wouldest cut off thine own arm to save the rest of the body.
 
@@ -637,8 +600,6 @@ And like is it, if thy lord or prince send thee a warfare How to be into another
 
 (when thou hast won) as thy prince or his deputy appointeth [hem/^ thee. For if thou hate them in thine heart, and covet their goods, and art glad that an occasion is found (thou carest not whether it be right or wrong) that thou mayest go a robbing and murdering unpunished ; then art thou a murderer in the
 
-64 EXPOSITION OF [chap.
-
 sight of God, and thy blood will be shed again for it, either in the same war following; or when thou art come home, as thou there didst in thine heart, so shalt thou rob and steal, and be hanged for thj labour, or slain by some other mischief.
 
 G^s. ])^ow concerning the goods of this world, it is easy to judge. In the first state or degree thou oughtest to be thankful to Christ, and to love, to give, and to lend to them that are bought with his precious blood, all that thou art able. For all that thou owest to Christ, whose servant thou art to
@@ -659,9 +620,7 @@ Thou wilt haply say : ' The subiects ever choose the Prince*, whe- l (I (J d ^ t
 
 [tYNDALE, II.]
 
-66 EXPOSITION OF [chap.
-
-An answer to argument, Cujus est ligare, ejus est solvere, I answer : He arluSSr that bindeth with absolute power, and without any higher authority, his is the might to loose again ; but he that bindeth at another man's commandment, may not loose again without the commandment of the same. As they of London choose them a mayor ; but may not put him down again, how evil soever he be, without the authority of him with whose Hcence they chose him. As long as the powers or officers be one under another, if the inferior do thee wrong, complain to the higher. But if the highest of all do thee wrong, thou must complain to God only. TSTierefore the only remedy against evil rulers is, that thou turn thine eyes to thyself, and thine own sin, and then look up to God and say : * O Father, for our sin, and the sin of our fathers, is this misery come upon us : we know not thee as our Father, to obey thee and to walk in thy ways ; and therefore thou knowest not us as thy sons, to set loving schoolmasters over us. We hate thy law, and therefore hast thou, through the wickedness of unrighteous judges, made that law that was for our defence to be a tyrant most cruel, and to oppress us, and do us injury above all other kinds of violence and robbing.' And amend thy hving, and be meek and patient ; and let them rob as much as they will, yet shall God give thee food and raiment, and an honest possession in the earth, to maintain thee and thine withaL Goods. Moreover concerning thy goods, thou must remember how that thou art a person in the temporal regiment; and The king, as the king, as he is over thy body, even so is he lord of thy thy body, $o goods, aud of him thou boldest them, not for thyself only, goods, but for to maintain thy wife, children, and servants, and to maintain the king, the realm, and the country, and town or city where thou dwellest. Wherefore thou mayest not suffer them to be wasted, that thou were not able to do thy duty ; no more than a servant may suffer his master's goods to go to wrack neghgently. " For he that provideth not for his, and namely for them of his own household," saith Paul, " denieth the faith, and is worse than an infidel." But every man is bound to labour diligently and truly, and therewith so soberly to live, that he may have enough for him and his, and somewhat above for them that cannot labour, or by chance are fallen into necessity ; and of that give and lend, and look not for it again ; and if that suffice not thy neigh- hour's necessity, then speak and make labour to thy brethren, to help also. For it is a common proverb, "Many hands make light work ;" and many may bear that that one alone cannot.
+An answer to argument, Cujus est ligare, ejus est solvere, I answer : He arluSSr that bindeth with absolute power, and without any higher authority, his is the might to loose again ; but he that bindeth at another man's commandment, may not loose again without the commandment of the same. As they of London choose them a mayor ; but may not put him down again, how evil soever he be, without the authority of him with whose Hcence they chose him. As long as the powers or officers be one under another, if the inferior do thee wrong, complain to the higher. But if the highest of all do thee wrong, thou must complain to God only. TSTierefore the only remedy against evil rulers is, that thou turn thine eyes to thyself, and thine own sin, and then look up to God and say : * O Father, for our sin, and the sin of our fathers, is this misery come upon us : we know not thee as our Father, to obey thee and to walk in thy ways ; and therefore thou knowest not us as thy sons, to set loving schoolmasters over us. We hate thy law, and therefore hast thou, through the wickedness of unrighteous judges, made that law that was for our defence to be a tyrant most cruel, and to oppress us, and do us injury above all other kinds of violence and robbing.' And amend thy hving, and be meek and patient ; and let them rob as much as they will, yet shall God give thee food and raiment, and an honest possession in the earth, to maintain thee and thine withaL Goods. Moreover concerning thy goods, thou must remember how that thou art a person in the temporal regiment; and The king, as the king, as he is over thy body, even so is he lord of thy thy body, $o goods, aud of him thou boldest them, not for thyself only, goods, but for to maintain thy wife, children, and servants, and to maintain the king, the realm, and the country, and town or city where thou dwellest. Wherefore thou mayest not suffer them to be wasted, that thou were not able to do thy duty ; no more than a servant may suffer his master's goods to go to wrack neghgently. " For he that provideth not for his, and namely for them of his own household," saith Paul, " denieth the faith, and is worse than an infidel." But every man is bound to labour diligently and truly, and therewith so soberly to live, that he may have enough for him and his, and somewhat above for them that cannot labour, or by chance are fallen into necessity ; and of that give and lend, and look not for it again ; and if that suffice not thy neigh-hour's necessity, then speak and make labour to thy brethren, to help also. For it is a common proverb, "Many hands make light work ;" and many may bear that that one alone cannot.
 
 And thy wife, thy children, and servants, art thou bound to defend. If any man would force thy wife, thy daughter, or thy maid, it is not enough for thee to look on, and say, ' God amend you.' Nay, thou must execute thine office and authority which the king giveth thee. And by the way thou must defend thy master and his goods, and the king's goods, which thou hast to maintain thy wife and household withal, and thine neighbour that goeth with thee, against thieves and murderers. And against all such persons lay about thee, and do as thou wouldest do if thou were under the king's standard against his enemies which had invaded the realm. For all such persons are mortal enemies to the realm; and seek to put down the king, and law, and all together, and to make that it might be lawful to sin unpunished. And of this manner, if thou mark well the difference of these two states and regiments, thou mayest soil all like doubts that shall be laid Regiments, against thee.
 
@@ -693,8 +652,6 @@ Concerning merchandise and chapmen, the less borrowing were among them, the bett
 
 ' o t/ ' r / ' ^ not revenge and heart, that thou avenge not thyself; but love him, and ""onouj pray for him, and remember how God hath promised to bless butreferour the patient and meek. Nevertheless, because such persons ITdm ^^' corrupt the common manners, and cause the name of God the **"* less to be feared, men ought to complain upon such persons to the ofiicer that is ordained of God to punish evil doers, and the officer is bound to punish them. If thou have lent a fox, which with cavillation will keep thy goods from thee; then if the ruler and the law will not help thee to thy right, do as it is above said of him that will go to law with thee, and take thy coat from thee ; that is to say, be content to lose that and as much more to it, rather than thou wouldest avenge thyself. Let not the wickedness of other men pluck thee from God ; but abide by God and his blessings, and tarry his judgment. Liberality is mercifulness, that bindeth God to be merciful again. Covetousness (the root of all evil,
 
-70 EXPOSITION OF [chap.
-
 Covetousand father of all false prophets, and the schoolmaster that ro^tofaii teaches the messengers of Satan to disguise themselves like evil. o . . .
 
 James ii. to the messcngers of Christ) is merciless, that shall have judgment without mercy ; and therefore exhorteth Christ all his so diligently, and above all thing, to be liberal and to beware of covetousness.
@@ -716,8 +673,6 @@ Now by the reason of such texts as commanded to hate the common enemies of their
 ^ his benefits good and bad ; by which two understand all his benefits : "p^ bld^o for of the heat and dryth of the sun, and cold and moist of 5'o"4''b^h' the rain, spring all things that are necessary to the life of ^^J"^^"** man. Even so provoke thou and draw thine evil brethren to goodness, with patience, with love in word and deed; and pray for them to him that is able to make them better and to convert them. And so thou shalt be thy Father's natural son, and perfect, as he is perfect. The text saith not, Ye shall be as perfect as God; but perfect after his example. To be perfect, in the scripture, is not to be a monk or a lobeper- n -n /~(i 11 1 1 ^^'^' what it iriar, or never to sm. Jb or Christ teacheth not here monks "jeaneth. or friars, but his disciples and every christian man and woman. And to be in this life altogether without sin is impossible. But to be perfect is to have pure doctrine without false opinions, and that thine heart be to follow that learning.
 
 [1 That is, they bought the gross produce of the tribute ; and overcharged the people in the collection of it.]
-
-72 EXPOSITION OF [chap.
 
 ---
 [[Tyndale EN 1 Prologue to the Exposition of Matthew V, VI, and VII|← 1. Prologue to the Exposition of Matthew]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 3 Exposition of Matthew V, VI, and VII The Sixth Chapter|3. Exposition of Matthew V, VI, and VII →]]

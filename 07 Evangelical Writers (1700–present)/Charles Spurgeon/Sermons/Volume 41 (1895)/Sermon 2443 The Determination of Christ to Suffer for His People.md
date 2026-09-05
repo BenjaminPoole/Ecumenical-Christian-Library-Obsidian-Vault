@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Determination of Christ to Suffer for His People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2443
-
-DELIVERED BY C. H. SPURGEON,.
 
 > Mark 15:23.
 
@@ -93,7 +90,7 @@ So, you see, one gets hold of him, and the other, too. He cannot be in both plac
 
 And now we come to the Supper of our Master! Oh, may the Master give us fellowship with Him! Poor sinners that know not Christ, I have hardly a moment in which to address you, but remember, the separation which will be made between you and the Church, tonight, is but a picture of an awful separation which shall be made between you and the Church at the Last Great Day! You will sit upstairs, some of you, to look down upon the solemnity—remember, you may look upon it here, but you will not look upon it in Heaven unless your hearts are made new by Christ and unless you are washed in His precious blood!
 
-EXPOSITION BY C. H. SPURGEON: MARK 15:15-39; LUKE23:27-49.
+## Exposition by C. H. Spurgeon: Mark 15:15-39; Luke 23:27-49
 
 We will read two short passages from the Gospels this evening. May the blessed Spirit, who taught the Evangelists to record the sad story of our Lord's sufferings and death, help us to fully enter into the blessed meaning of it while we read it! First turn to Mark 15, verse 15.
 
@@ -158,7 +155,6 @@ still the same Preacher, for there was such assurance, such confidence, such Tru
 46-48. Into Your hands I commend My spirit: and having said thus, He gave up the ghost. Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous Man. And all the people that came together to that sight, beholding the things which were done, smote their breasts and returned. A strange ending to that day, was it not? The three hours' darkness and the death cry of the Christ had not converted them, but it had convicted them of sin. They felt that a great and heinous crime had been committed and, though they had come together as to a mere show or sight, they went away from the spectacle impressed as they had never been before—"All the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
 
 49\. And all His acquaintances and the women that followed Him from Galilee, stood afar off, beholding these things. In these doings on Calvary you and I have a share—in their guilt, or else in their merit. Oh, that we may not be condemned with those who were guilty of His death, but may we be cleansed by that precious blood which puts away the sin of all who believe on Him!
-
 
 ---
 [[Sermon 2442 My Beloved Is Mine|← #2442]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2444 Cheering Words|#2444 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # "The Wedding Was Furnished with Guests"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2022
 
-DELIVERED ON LORD'S DAY MORNING, MAY 6, 1888,.
+*Delivered on Lord's Day Morning, May 6, 1888*
 
 > "The wedding was furnished with guests." Matthew 22:10.
 
@@ -160,7 +159,6 @@ Still, everybody must go home and wash, must he not? No, the washing and the clo
 I have told you the Gospel and the whole of it. Trust the crucified Savior and you shall live. Jesus says, "Look unto Me and be you saved, all the ends of the earth." Do not look within to see what is there but look to Jesus hanging on the Cross. A look at Christ crucified will save you. Look, dear Hearers, young as you are, look to Jesus now! Look, you gray-headed men and women who have never looked before—look now! Strangers and foreigners who have not heard this word before, there is life in a look at the Crucified One for you! You guiltiest of the guilty and you most amiable of the amiable, turn away from anything there is in yourselves—bad or good—and look to Jesus only.
 
 Receive from Jesus all He brings you—pardon, righteousness, sanctification, redemption, Himself. He that comes to a wedding feast has nothing to do but to eat and to drink. Give your mind up to this delightful exercise. Take the food which God provides you. You shall do good works afterwards! For they will follow as a consequence of the strength which comes of receiving heavenly food through faith. But just now eat, drink and be merry, as becomes a Prince's marriage. May the Father be pleased, His Son be honored and His Church be comforted through you! Amen and Amen.
-
 
 ---
 [[Sermon 2021 Nathanael—Or, the Ready Believer and His Reward|← #2021]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2023 The Blessing of Full Assurance|#2023 →]]

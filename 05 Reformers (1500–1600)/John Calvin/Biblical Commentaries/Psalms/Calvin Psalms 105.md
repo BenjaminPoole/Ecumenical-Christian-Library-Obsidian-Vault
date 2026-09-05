@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 105
-
-**PSALM 105**
 
 The Psalmist magnifies the singular grace of God displayed in selecting and freely adopting one people from amongst all nations of the world. To show that it was not in word only that he had made a covenant with Abraham and his offspring, God did not cease, after having delivered them from Egypt, to confer upon them innumerable benefits; and his design in this was, that those who had been delivered might on their part faithfully keep his covenant, and devote themselves unfeignedly to his service. [^1]
 

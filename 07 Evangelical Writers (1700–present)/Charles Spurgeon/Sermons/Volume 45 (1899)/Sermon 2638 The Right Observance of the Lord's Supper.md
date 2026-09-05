@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # The Right Observance of the Lord's Supper
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2638
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For I have received of the Lord that which also I delivered unto you. That the Lord Jesus, the same night in which He was betrayed, took bread: and when Hie had given thanks, He broke it and said, Take, eat: this is My body, which is broken for you: this do in remembrance of Me. After the same manner, also, He took the cup, when He had supped, saying, This cup is the new testament in My blood: this do you as often as you drink it, in remembrance of Me. For as often as you eat this bread, and drink this cup, you do show the Lord's death till He comes." 1 Corinthians 11:23-26.
 
@@ -87,7 +84,7 @@ Suppose that the devil says to me, "You are no child of God." I have often said 
 
 If any of you who have come to the Table of the Lord are not believers in Christ, never dare to come again while you are in that state! You have no right here unless you are resting in Jesus and trusting in Him! This is the proof of your being new creatures in Christ Jesus. But if you have the faintest, feeblest faith in Jesus, come and welcome! If you are trusting in your own merits, go to your own table—if you think there will be some meritin your coming to the Communion Table, do not dare to come, for that were to turn the ordinance upside down! You are not to bring something, but to receive something. May you who love the Lord find Him to be very precious to you and may those of you who do not know Him, seek Him at once, not at the Table, but at the Mercy Seat and at the Cross! Trust in Jesus, for so you shall be saved, and then you shall have the right of entry to the Lord's House—and you shall have the privilege of sitting at His Table and of enjoying every other blessing which is the portion of the chosen family. The Lord make it to be so, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 CORINTHIANS 11:17-34; LUKE22:14-24.
+## Exposition by C. H. Spurgeon: 1 Corinthians 11:17-34; Luke 22:14-24
 
 The members of the Church at Corinth abounded in gifts and, therefore, they thought it right for each one to speak to edification. They had no pastoral oversight whatever—acting, in this respect, like certain brethren whom we know nowadays. The result, however, was very deplorable. They do not appear to have been able to even conduct the Lord's Supper without the most disorderly proceedings. Church discipline was utterly forgotten or neglected and it seems as if the two Epistles to the Corinthians are given to us as beacons to warn us against that form of worship, seeing that it produces such mischievous and sad results!
 
@@ -122,7 +119,6 @@ Luke 22:14-16 And when the hour was come, He sat down, and the twelve Apostles w
 19-21. And He took bread, and gave thanks, and broke it, and gave unto them, saying, This is My body which is given for you: this do in remembrance of Me. Likewise also the cup after supper, saying, This cup is the new covenant in My blood, which is shed for you. But, behold, the hand of him that betrays Me is with Me on the table. What a sobering, saddening effect this must have had upon those who were at that festival! We have reason to fear that it will be true of our gathering, also. There were only 12 Apostles, yet there was a Judas among them. We shall have many hundreds at our observance of the ordinance—may we not fear that there will be many a Judas, too? Can we expect that we shall have a better selection of professed followers of Christ than the Lord had made for His Apostles?
 
 22-24. And truly the Son of Man goes, as it was determined: but woe unto that man by whom He is betrayed! And they began to enquire among themselves, which of them it was that should do this thing. And there was also a strife among them, which of them should be accounted the greatest That had been their question among themselves, but now they have another enquiry, of quite a different sort, to answer. It was wise of the Master to give them a heart-searching question to drive out that question of ambition which had filled them with pride and contention. Oh, if any of us ever had such a thought as that in our bosom—which of us is greatest?—who can speak the best?—who can serve God the most?—who can take the lead?—let all such questions be set aside while we sorrowfully entertain the other sad enquiry—which of us will betray our Lord? God grant that none of us may ever do so!
-
 
 ---
 [[Sermon 2637 The Place of Prayer and Pardon|← #2637]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2639 Our Heavenly Father's Pity|#2639 →]]

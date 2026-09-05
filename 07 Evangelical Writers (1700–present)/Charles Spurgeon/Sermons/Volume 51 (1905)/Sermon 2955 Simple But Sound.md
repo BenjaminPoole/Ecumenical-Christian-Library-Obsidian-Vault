@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Simple But Sound
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2955
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "One thing I know, that whereas I was blind, now I see." John 9:25.
 
@@ -97,7 +94,7 @@ The whole matter is very simple, "Whereas I was blind, now I see." Do you, tonig
 
 It is written, "He that believes on Him is not condemned." Then I am not condemned. Perhaps I feel at this present moment no joy, but then the thought that I am not condemned will make me feel joy, by-and-by. Yet I must not build on my joy, I must not build on my feelings, but simply on this—that God has said, "He that believes and is baptized shall be saved." I, believing in Christ am saved. And that is true of you, also—you in the aisle over yonder. You by that door there, and you behind me here. It is true of every man, woman, or child in this place who has now come to put trust in Christ! It is true of the man in the smock frock who did not intend to come here tonight, but who, seeing the people, strolled in and who has been saying in his heart, "I will believe. I will trust Christ." Well, then, you are saved, your sin is blotted out, your iniquity is forgiven, you are a child of God, the Lord accepts you—if you have really trusted Christ— you are an heir of Heaven! Go and sin no more! Go and rejoice in pardoning love. And God bless you, for Jesus sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MARK10:46-52; JOHN 9:1-7.
+## Exposition by C. H. Spurgeon: Mark 10:46-52; John 9:1-7
 
 We have several records of blind men being cured by the Lord Jesus Christ. One of them is in Mark 10:46-52.
 
@@ -116,7 +113,6 @@ Mark 10:46. And they came to Jericho: and as He went out of Jericho with His dis
 52\. And immediately he received his sight and followed Jesus in the way. Another of these records is in John 9:1-7.
 
 John 9:1-7. And as Jesus passed by, He saw a man which was blind from his birth. And His disciples asked Him, saying, Master, who did sin, this man, or his parents, that he was born blind? Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him. I must work the works of Him that sent Me, while it is day: the night comes when no man can work. As long as I am in the world, I am the Light of the world. When He had thus spoken, He spat on the ground, and made clay of the spittle, and He anointed the eyes of the blind man with the clay, and said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent). He went his way therefore, and washed, and came seeing. I will not say anything now about this miracle, as it will form the subject of my sermon. [The exposition was before the sermon.]
-
 
 ---
 [[Sermon 2954 The Big Gates Wide Open|← #2954]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2956 A Handkerchief|#2956 →]]

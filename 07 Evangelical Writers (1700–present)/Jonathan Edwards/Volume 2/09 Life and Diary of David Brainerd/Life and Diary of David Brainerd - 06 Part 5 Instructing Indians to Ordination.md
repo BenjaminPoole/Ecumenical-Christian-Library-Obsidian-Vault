@@ -10,6 +10,7 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
+# Part V. From His Beginning to Instruct the Indians, to His Ordination
 
 “*Friday*, *April* 1, 1743. I rode to Kaunaumeek, near twenty miles from Stockbridge, where the Indians live with whom I am concerned, and there lodged on a little heap of straw. I was greatly exercised with inward trials and distresses all day; and in the evening, my heart was sunk, and I seemed to have no God to go to. O that God would help me!”
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # "Lead Us Not Into Temptation"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1402
-
-DELIVERED BY.
 
 > "Lead us not into temptation." Matthew 6:13.
 
@@ -160,7 +157,6 @@ The last word is, if you pray God not to lead you into temptation, do not lead o
 Do you pray, "Lead us not into temptation"? Then do not lead your children there. They are invited, during the festive season, to such-and-such a family party where there will be everything but what will benefit their spiritual growth or even their good morals—do not allow them to go. Put your foot down. Be steadfast about it. Having once prayed, "Lead us not into temptation," be not the hypocrite by allowing your children to go into it.
 
 God bless these words to us. May they sink into our souls and if any feel that they have sinned, oh that they may now ask forgiveness through the precious blood of Christ and find it by faith in Him! When they have obtained mercy, let their next desire be that they may be kept in the future from sinning as they did before and, therefore, let them pray, "Lead us not into temptation." God bless you.
-
 
 ---
 [[Sermon 1401 Jacob Worshipping on His Staff|← #1401]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1403 God's Advocates Breaking Silence|#1403 →]]

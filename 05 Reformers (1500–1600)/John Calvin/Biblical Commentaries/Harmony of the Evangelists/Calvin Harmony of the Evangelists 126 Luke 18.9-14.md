@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 126. Luke 18:9-14
-
-**Luke 18:9-14**
 
 **9**. And he spoke also this parable to some who trusted in themselves that they were righteous, and despised others: **10**. Two men went up into the temple to pray; the one a Pharisee, and the other a publican. **11**. The Pharisee standing [^1] prayed these things within himself: God, I thank thee that I am not as other men, extortioners, unjust, adulterous, or even as this publican. **12**. I fast twice in the week, I give tithes of all that I possess. **13**. And the publican standing at a distance, did not even wish to raise his eyes towards heaven, but smote upon his breast, saying, Lord, be reconciled to me a sinner. **14**. I say to you, this man went down into his house justified rather than the other; for every one that exalteth himself shall be humbled, and he that humbleth himself shall be exalted.
 

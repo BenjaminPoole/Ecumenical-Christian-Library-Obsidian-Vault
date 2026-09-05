@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 20. No. XIII. Walter Myln.
 
 ## No. XIII.
 
-WALTER MYLN.
+## Walter Myln
 
 The trial and condemnation of this venerable priest has been noticed by all our ecclesiastical historians—including George Buchanan, and Lindesay of Pitscottie. See Knox, supra, p. 308; Calderwood, vol. i. p. 337; Spottiswood, p. 95; Howie's Scots Worthies, &c. The account preserved by Foxe, is however the most minute and interesting.
 
@@ -73,7 +72,7 @@ And so after he had made his humble supplication to God on his knees, he arose, 
 
 After his prayer, he was hoysed vp on the stake, and beyng in the fire, he sayd: Lord haue mercy on me: Pray people while there is tyme, and so constauntly departed.
 
-EPITAPHIUM.
+## Epitaphium
 
 After this, by the just judgement of God, in the same place where Walter Mille was burnt, the Images of the great Church of the Abbey, which passed both in number and costlynes, were burnt in tyme of reformation. *Ex fideli testimonio è Scotia misso.*
 

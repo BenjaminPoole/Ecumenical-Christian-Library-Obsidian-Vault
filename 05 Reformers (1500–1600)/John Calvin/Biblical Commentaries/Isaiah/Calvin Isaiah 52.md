@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 52
 
-**CHAPTER 52.**
+***Chapter 52.***
 
 ## Isaiah 52:1-15
 

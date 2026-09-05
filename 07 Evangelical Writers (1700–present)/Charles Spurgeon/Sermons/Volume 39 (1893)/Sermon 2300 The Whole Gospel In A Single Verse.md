@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Whole Gospel In A Single Verse
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2300
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom I am chief." 1 Timothy 1:15.
 
@@ -139,7 +136,7 @@ I had much more to say, but the time has gone, so I just leave you with my text,
 
 Believe! May the Lord help you to believe in Jesus immediately! Ere you leave this place, trust Him! Trust Him wholly. He came to save sinners. Let Him save you! It is His business—it is not yours. Leave yourself in His hands and He will save you, to the praise of the glory of His Grace.
 
-EXPOSITION BY C. H. SPURGEON. 1 TIMOTHY 1:1-17.
+## Exposition by C. H. Spurgeon. 1 Timothy 1:1-17
 
 Verse 1. Paul, an Apostle of Jesus Christ by the commandment of God our Savior and Lord Jesus Christ, which is our hope. Christ is our hope. We have not a shadow of a hope apart from Him. I remember, when on the Continent, seeing on a cross the words, "Spes unica," the unique, the only hope of man—and that is true of the Cross of Christ, and of Christ who suffered on it. He is our hope!
 
@@ -162,7 +159,6 @@ thing that is contrary to sound doctrine; according to the glorious Gospel of th
 16\. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might show forth all long-suffering, for a pattern to them which should hereafter believe on Him to life everlasting. The case of Paul is not a singular one—it is the pattern one. If there are any here who feel that they have sinned like Saul of Tarsus, they may be forgiven like Paul the Apostle! He is a pattern to all who should thereafter believe in Christ to life everlasting! Just as we often see things cut out in brown paper and sold as patterns, so is the Apostle Paul the pattern convert! What God did for him, He can do for thousands of others.
 
 17\. Now unto the King eternal, immortal, invisible, the only wise God, be honor and glory forever and ever. Amen. Paul could not help this outburst of praise! He must put in a doxology. When he remembered his own conversion and pardon, and his being entrusted with the ministry of the Gospel, he was obliged to put down his pen and lift up his voice in grateful thanksgiving to God. So may it be with us as we remember what great things the Lord has done for us!
-
 
 ---
 [[Sermon 2299 Thorns and Thistles|← #2299]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2301 Marah Better Than Elim|#2301 →]]

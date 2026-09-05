@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 18. Exodus 18
-
-**EXODUS 18**
 
 ## Exodus 18:1-12
 
@@ -102,9 +99,9 @@ tags:
 
 ## Deuteronomy 1:9-18
 
-**DEUTERONOMY 1**
+## **Deuteronomy 1**
 
-**A REPETITION OF THE SAME HISTORY**
+## **A Repetition of the Same History**
 
 **9.** And I spoke unto you at that time, saying, I am not able to bear you myself alone:
 

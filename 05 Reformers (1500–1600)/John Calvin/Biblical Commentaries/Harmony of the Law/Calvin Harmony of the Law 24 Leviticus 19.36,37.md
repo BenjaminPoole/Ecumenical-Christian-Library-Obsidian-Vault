@@ -11,10 +11,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 24. Leviticus 19:36,37; 20:8
 
-**LEVITICUS 19**
+***Leviticus 19***
 
 **36.** I am the Lord your God, which brought you out of the land of Egypt.
 

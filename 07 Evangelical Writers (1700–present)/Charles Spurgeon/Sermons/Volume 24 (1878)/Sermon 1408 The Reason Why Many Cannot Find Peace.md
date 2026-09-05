@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Reason Why Many Cannot Find Peace
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1408
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 7, 1878,.
+*Delivered on Lord's-Day Morning, April 7, 1878*
 
 > "Submit yourselves therefore to God. Resist the devil, and he will flee fromyou. Drawnear to God, and He will drawnear to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded. Be afflicted, and mourn, and weep! Let your laughter be turned to mourning, and your joy to heaviness. Humble yourselves in the sight of the Lord, and He shall lift you up." James 4:7-10.
 
@@ -142,7 +141,6 @@ Ah, Friends, Jesus Christ did not come to heal the whole, but the sick! Neither 
 This is the way of salvation—that you believe in Jesus Christ whom God has sent! But remember that He saves us FROM our sins, not IN our sins! Faith in Jesus Christ saves and will save all who have it—but it is by purging out sin. It assures us that we are pardoned and thus it makes us love the Christ by whom we are forgiven. This love leads us to abhor ourselves for our sins and we endeavor to purify ourselves from them by His Spirit. Faith without works is dead, being alone, and though a man is justified by faith and not by works—and by faith alone—not even in part by his works!
 
 Yet the faith which saves is a faith which produces good works and leads into the way of holiness. He who does not seek after righteousness and true holiness, let him pretend what he may, he is dead while he lives! The Lord have mercy upon you, for Christ's sake. Amen.
-
 
 ---
 [[Sermon 1407 Compassion on the Ignorant|← #1407]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1409 The Shortest of the Seven Cries|#1409 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Whole Band Against Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2333
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then the soldiers of the governor took Jesus into the Common Hall and gathered unto Him the whole band of soldiers." Matthew 27:27.
 
@@ -107,7 +104,7 @@ But, once more, all this mockery should excite our admiration of our patient Lor
 
 The last lesson is, let us summon all our faculties to honor Christ tonight. Gather together the whole band, your memory of all His goodness, your judgment of all His greatness, all your hopes and all your fears—your quieted conscience, your soul at rest—come, and with the whole band of faculties that God has given you, from the highest to the lowest, bow down in grateful adoration before Him who bowed so low that He might lift us up to be with Him forever! Dear Hearers, are you trusting Christ? There is no other trust that will do for a soul for time and for eternity! On a dying bed, it must be none but Jesus—let it be none but Jesus on your bed, tonight, before you fall asleep. Do not dare to close your eyes till you have committed your soul into the keeping of Him who still holds out His hands, as He did upon the Cross, that He may receive you with open arms and save you with an everlasting salvation! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW27222-50.
+## Exposition by C. H. Spurgeon: Matthew 27222-50
 
 Our Lord was brought before the Roman governor, Pilate. He was anxious to let Jesus go, but he was a weak-minded man, easily swayed by the noisy cry of the people, prompted by the chief priests and elders.
 
@@ -150,7 +147,6 @@ with Him! Crucify Him!"
 48\. And straightway one of them ran and took a sponge, It always seems to me very remarkable that the sponge, which is the very lowest form of animal life, should have been brought into contact with Christ, who is at the top of all life! In His death, the whole circle of creation was completed.
 
 48-50. And filled it with vinegar, and put it on a reed, and gave Him to drink. The rest said, Let Him be, let us see whether Elijah will come to save Him. Jesus, when He had cried again with a load voice, yielded up the ghost. Christ's strength was not exhausted! His last Word was uttered, "with a loud voice," like the shout of a conquering warrior! He need not have died on account of any infirmity in Himself, but voluntarily, for your sake—for your sake and mine—He "yielded up the ghost." Blessed be His holy name!
-
 
 ---
 [[Sermon 2332 Lessons From the Manna|← #2332]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2334 Our Service For Christ Never Finished|#2334 →]]

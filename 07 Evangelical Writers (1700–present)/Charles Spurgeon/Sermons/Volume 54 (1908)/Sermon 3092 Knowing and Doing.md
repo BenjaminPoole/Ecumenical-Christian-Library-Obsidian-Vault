@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # Knowing and Doing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3092
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For you know the Grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you, through Hispoverty, might be rich." 2 Corinthians 8:9.
 
@@ -85,7 +82,7 @@ Brothers and Sisters, I should like you tonight, if you never before had it, to 
 
 If there is a sinner here who does not love this Jesus, who gave Himself for us, I will not say what Paul wrote, "Let Him be anathema maranatha," that is, cursed at the coming of the Lord, but I will say this—remember, Sinner, that if the Grace of Jesus does not save you, the Justice of Jesus will destroy you! And if you are not saved by His first coming, you will be condemned at His second coming. And that may God forbid, for His mercy's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 8.
+## Exposition by C. H. Spurgeon: 2 Corinthians 8
 
 Although this is rather a practical than a spiritual chapter, I hope that we shall get profit out of it by the teaching of the Spirit of God who inspired Paul to write it. Paul was writing to the Church at Corinth to commend the Churches of Macedonia, that he might stir up the one Church by the example of the others. The saints at Jerusalem were starving because of a famine and it came into the mind of certain Gentile Churches to send help to the mother Church at Jerusalem. It was regarded as a very wonderful thing that Gentiles should be sending help to Jews. I hope it would not be thought wonderful now, but it was then. And Paul, who loved the saints at Corinth, and saw that they were a little backward in this matter, stirred them up to greater diligence. He did not like the Churches in Macedonia to go so far ahead of the Church in Corinth which was richer, more endowed with gifts and, therefore, he set to work to stimulate their generosity. Thus he begins—
 
@@ -137,8 +134,7 @@ behalf.
 
 —Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3091 Pedigree|← #3091]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3093 The Church of God and the Truth of God|#3093 →]]

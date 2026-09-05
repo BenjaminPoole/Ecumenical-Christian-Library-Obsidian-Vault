@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 154. Matthew 17:24-27
-
-**Matthew 17:24-27**
 
 **24**. And when they came to Capernaum, those who received the didrachma came to Peter, and said, Does not your Master pay the didrachma? **25**. He saith, Yes. And when he came into the house, Jesus anticipated him, saying, What thinkest thou, Simon? From whom do the kings of the earth receive tribute or custom? From their own children, or from strangers? **26**. Peter saith to him, From strangers. Jesus saith to him, Then are the children free. **27**. But that we may not offend them, go thou to the sea, throw a hook, and take that fish which cometh first up; and when thou hast opened its mouth, thou wilt find a stater: take that, and give it for me and for thee.
 

@@ -10,10 +10,9 @@ tags:
   - jc-ryle
   - ryle-upper-room
 ---
-
 # Thoughts for Young Men
 
-Chapter XIX · *The Upper Room* — J. C. Ryle
+## Chapter XIX · *The Upper Room* — J. C. Ryle
 
 > — Tit. 2:6
 
@@ -446,7 +445,6 @@ Think, lastly, of the happiness that will come to your own soul, if you serve Go
 The backslider in heart may well be filled with his own ways, but "a good man shall be satisfied from himself" (Prov. 14:14). The path of the worldly man grows darker and darker every year that he lives;--the path of the Christian is as a shining light, brighter and brighter to the very end. His sun is just rising when the sun of the worldly is setting for ever;--his best things are all beginning to blossom and bloom for ever, when those of the worldly are all slipping out of his hands, and passing away.
 
 Young men, these things are true. Suffer the word of exhortation. Be persuaded. Take up the cross. Follow Christ. Yield yourselves unto God.
-
 
 ---
 [[UR 18 Questions About Regeneration|← Questions About Regeneration]] · [[The Upper Room|Upper Room Contents]] · [[UR 20 Questions About the Lord's Supper|Questions About the Lord's Supper →]]

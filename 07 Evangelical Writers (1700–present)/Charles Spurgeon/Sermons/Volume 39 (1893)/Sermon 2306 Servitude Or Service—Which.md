@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Servitude Or Service—Which?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2306
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Nevertheless they shall be his servants; that they may know My service, and the service of the kingdoms of the countries." 2 Chronicles 12:8.
 
@@ -81,7 +78,7 @@ There are some who turn aside because religion has brought them to a point where
 
 III. I am going to finish with this point. THERE IS A GREAT CONTRAST BETWEEN THE SERVICE OF GOD
 
-AND ANY OTHER SERVICE.
+## And Any Other Service
 
 The service of God is delightful. Remember, young man, if you are about to engage in the service of God, there is nothing demanded of you that will harm you. There is no Commandment of God which, if you keep it, will injure either your body or your soul. There is nothing asked of you but what will be for your benefit—nothing that will really be to your loss. If it should seem to involve a present loss, yet it shall be turned to future gain, for God will overrule it for your permanent good.
 
@@ -99,7 +96,7 @@ It is well to be walking in such a way that you can walk right straight on thoug
 
 God bless you, dear Friends, for Christ's sake! Amen.
 
-EXPOSITIONS BY C. H. SPURGEON. 1 KINGS 14:21-24; 2 CHRONICLES 12.
+## Expositions by C. H. Spurgeon. 1 Kings 14:21-24; 2 Chronicles 12
 
 1 Kings 14:21. And Rehoboam the son of Solomon reigned in Judah. After great mountains often come low valleys. Solomon was a wise man—Rehoboam was otherwise.
 
@@ -144,7 +141,6 @@ service was instituted, it was the beginning of a decline, but in Reboboam's day
 13, 14. So King Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam, was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put His name there. And his mother's name was Naamah an Ammonitess. And he did evil because he prepared not his heart to seek the LORD. He was one of that fickle sort, neither here nor there—a compromising gentleman—not very definite in anything. He would go right if he were driven that way, and he would go wrong if he were led in that direction. Oh, how many there are who never prepare their hearts to seek the Lord! They are not determinately bad—they have not enough backbone in them to be leaders in evil—but they are never good for much because they have never made up their minds to do the right at all costs. They have never had their heart prepared by the Holy Spirit to seek the Lord.
 
 15, 16. Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the Prophet, and of Iddo the Seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually. And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah, his son, reigned in his stead. So they pass away. One generation dies and another follows. God grant that when we fall asleep it may not be with the sin of Rehoboam lying upon us, neither may we be succeeded by evil sons, but may we serve God in our day and be followed by those who shall serve Him still better! The Lord grant it! Amen.
-
 
 ---
 [[Sermon 2305 No Fixity Without Faith|← #2305]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2307 The Greatest Exhibition of the Age|#2307 →]]

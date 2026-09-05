@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 28
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**SINS OF IGNORANCE**
+## **Sins of Ignorance**
 
 > And it shall be forgiven them; for it is ignorance" Num. 15:25
 
@@ -25,7 +24,6 @@ The Lord knows these sins of ignorance every one. This may well alarm us, since 
 Our great comfort is that Jesus, the true priest, has made atonement for all the congregation of the children of Israel. That atonement secures the pardon of unknown sins. His precious blood cleanses us from all sin. Whether our eyes have seen it and wept over it, or not, God has seen it, Christ has atoned for it, the Spirit bears witness to the pardon of it, and so we have a three-fold peace.
 
 O my Father, I praise thy divine knowledge, which not only perceives my iniquities, but provides an atonement which delivers me from the guilt of them, even before I know that I am guilty.
-
 
 ---
 [[FCB October 27|← October 27]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 29|October 29 →]]

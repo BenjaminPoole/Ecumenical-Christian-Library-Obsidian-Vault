@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # The Infallibility of Scripture
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2013
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 11, 1888,.
+*Delivered on Lord's Day Morning, March 11, 1888*
 
 > "The mouth of the Lord has spoken it." Isaiah 1:20.
 
@@ -184,7 +183,6 @@ By-and-by we shall come to die. The death-sweat shall gather on our brow and per
 Brethren, we have not followed cunningly devised fables. We are not "wanton boys that swim on floats," which will soon burst under us. But we are resting on firm ground. We abide where Heaven and earth are resting—where the whole universe depends—where even eternal things have their foundation—we rest on God Himself. If God shall fail us, we gloriously fail
 
 with the whole universe. But there is no fear. Therefore let us trust and not be afraid. His promise must stand—"The mouth of the Lord has spoken it." O Lord, it is enough! Glory be to Your name, through Christ Jesus! Amen.
-
 
 ---
 [[Sermon 2012 Grace Abounding Over Abounding Sin|← #2012]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2014 As We Have Heard, So Have We Seen|#2014 →]]

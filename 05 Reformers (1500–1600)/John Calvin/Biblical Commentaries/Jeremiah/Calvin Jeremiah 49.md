@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 49
 
-**CHAPTER 49**
+***Chapter 49***
 
 ## Jeremiah 49:1
 
@@ -79,7 +78,7 @@ He now says the same thing of the children of Ammon, as he said before of the Mo
 
 ## Prayer Lecture 173
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou didst formerly give so many proofs how great and singular was thy love towards the children of Abraham, whom it had pleased thee to choose as thy people, — O grant that we at this day may also enjoy the same favor, since we have been admitted into a participation of the same union, and that we may be so chastised as never to lose the hope of thy mercy, but that we may so taste it as to meditate on that celestial kingdom, which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -174,7 +173,7 @@ But the clock strikes.
 
 ## Prayer Lecture 174
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast not only in thine eternal counsel adopted us as thy children, but hast also inscribed on our hearts a sure sign and pledge of thy paternal favor towards us, — O grant that we may accustom ourselves to bear thy scourges, and patiently to receive them without murmuring or complaining, but that we may ever look forward to the blessed rest and inheritance above, and at the same time dread the punishment that awaits the wicked, and that we may thus courageously persevere in our warfare, until thou at length gatherest us into that celestial kingdom which thine only-begotten Son has procured for us by his own blood. — Amen.
 
@@ -277,7 +276,7 @@ Now, some one may ask, Why does God thus exceed due limits in speaking? To this 
 
 ## Prayer Lecture 175
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou hast been pleased to stretch forth thine hand to us, we may be raised by faith above the world, and learn to submit to thee in true humility, and to know how miserable must be our condition and life, except we wholly recumb on thee alone, so that we may be made partakers of that glory which thou hast purchased for us in Heaven, and which thine only-begotten Son, our Lord, has obtained for us. — Amen.
 
@@ -365,7 +364,7 @@ As the clock strikes, I will not proceed further.
 
 ## Prayer Lecture 176
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou settest before our eyes memorable judgments which ought to benefit us at this day, so that we may be kept under thy yoke and under the fear of thy law, — O grant, that we may not grow hard at such threatenings, but anticipate thy wrath, and so submit to thee, that whatever thou denouncest on the ungodly may turn to our comfort, and for a cause of joy, when we know that the salvation of thy church is thus promoted, of which thou hast been pleased to regard and acknowledge us as members in thy Son our Lord. — Amen.
 
@@ -457,7 +456,7 @@ The explanation shall be given tomorrow.
 
 ## Prayer Lecture 177
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that though the things related to us today from thy Prophets, concerning ancient nations, may seem as grown out of use, O grant that we may however be seriously impressed whenever we read of thy judgments as executed on any part of the world, so that we may learn at this day wholly to submit to thee and flee to thy mercy, and that whatever may happen to us, we may never doubt but that thou wilt be propitious to us, if we seek thee with a sincere heart, and with unfeigned faith in Christ Jesus, our Lord. — Amen.
 
@@ -529,7 +528,7 @@ Here God mitigates the severity of the prediction, because he would at length ga
 
 ## Prayer Lecture 178
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou didst favor despairing men with some consolation when justly and extremely indignant with them, — O grant that whenever we at this day provoke thy wrath, we may at the same time taste of thy paternal mercy, and learn to flee to thee, and to put our hope in thine only-begotten Son, so that we may never despond, but ever look forward to that gathering, whose beginning is now seen, and whose final and complete accomplishment awaits us in heaven, through the same Christ our Lord. — Amen.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Jesus Angry with Hard Hearts
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1893
@@ -119,8 +118,7 @@ Now this is matter of promise. See how the verse glitters with "I will," and "I 
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Mark 2:23-28; Hebrews 3:7-19.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—257, 579, 598.
-
+## Hymns from "Our Own Hymn Book"—257, 579, 598
 
 ---
 [[Sermon 1892 Why They Leave Us|← #1892]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1894 The Two Appearings and the Discipline of Grace|#1894 →]]

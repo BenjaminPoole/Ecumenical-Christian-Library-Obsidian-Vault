@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 11. Letter X. To the College of Cardinals (September 1411)
-
-LETTER X. TO THE COLLEGE OF CARDINALS (September 1411)
 
 Hus appeals to their protection ; He is innocent ; Willing to meet a trial at Prague 54-6
 
-PAKT II
+## Pakt II
 
 MICHAEL THE PLEADER; Hus ATTACKS THE CLERGY AND THEIB VICES; TROUBLE AT PILSEN 57-8
 

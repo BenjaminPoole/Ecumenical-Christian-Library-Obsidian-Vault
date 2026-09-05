@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 40
-
-**PSALM 40**
 
 David, being delivered from some great danger, and it may be, not from one only, but from many, extols very highly the grace of God, and by means of this, his soul is filled with admiration of the providence of God, which extends itself to the whole human race. Then he protests that he will give himself wholly to the service of God, and defines briefly in what manner God is to be served and honored. Afterwards, he again returns to the exercise of thanksgiving, and celebrates the praises of the Eternal by rehearsing many of his glorious and powerful deeds. Lastly, when he has complained of his enemies, he concludes the psalm with a new prayer.
 

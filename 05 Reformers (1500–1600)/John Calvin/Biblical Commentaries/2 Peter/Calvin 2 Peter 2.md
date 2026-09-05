@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Peter 2
 
-**CHAPTER 2**
+***Chapter 2***
 
 ## 2 Peter 2:1-3
 

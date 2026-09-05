@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # For or Against?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2773
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the guards shook for fear of him, and became as dead men. And the angel answered and said unto the women, Do not be afraid, for I know that you seek Jesus, who was crucified. He is not here, for He is risen, as He said." Matthew 28:4-6.
 
@@ -108,7 +105,6 @@ Now, dear Friend, will you try to calculate and do it correctly? Set down your s
 If I should owe any person here £5, and he will kindly write at the bottom, "Received with thanks," and put his name and the date across the stamp, the debt is paid. Supposing I owed him £500? Well, if he will write the same words, that debt is cancelled. Supposing I owe Him £5,000? If he will write the same, that debt is gone. Supposing I owe Him £50,000—£500,000—£l,000,000—£50,000,000—if he will only put, "Received," that debt is all done with, it is all gone!
 
 That is what our Lord Jesus Christ has done by His precious blood—He has put this receipt at the bottom of the whole list of our transgressions, and they are all gone, and gone forever—"The blood of Jesus Christ cleanses us from all sin." What cause, then, can there be for fear if you will but trust in Jesus? You will be damned if you will not! You are "condemned already" if you have not believed on the name of the only-begotten Son of God—but if you do come to Jesus—if you believe in Jesus and are baptized on confession of your faith in Him, you are saved! God grant that each one of you may so come and believe and be baptized, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2772 The Minister's Trumpet Blast and Church Member's Warning|← #2772]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2774 Love Pledging Fidelity|#2774 →]]

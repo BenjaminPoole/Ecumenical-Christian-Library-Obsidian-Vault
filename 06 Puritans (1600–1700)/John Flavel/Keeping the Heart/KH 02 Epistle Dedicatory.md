@@ -9,7 +9,6 @@ tags:
   - puritans
   - john-flavel
 ---
-
 # Epistle Dedicatory
 
 *To my dearly beloved and longed for, the flock of Jesus Christ in Dartmouth, over whom the Holy Ghost hath made me an overseer; sound judgment, true zeal, and unstained purity, are heartily wished.*
@@ -78,12 +77,11 @@ Yea, friends, your interest ought to persuade you to it: what mercies you obtain
 
 *Your loving and faithful pastor,*
 
-JOHN FLAVEL.
+## John Flavel
 
 From my study at Ley in Slapton,
 
 Oct. 7th, 1667.
-
 
 ---
 [[KH 01 Preface|← Preface]] · [[Keeping the Heart|Contents]] · [[KH 03 A SAINT INDEED|A SAINT INDEED →]]

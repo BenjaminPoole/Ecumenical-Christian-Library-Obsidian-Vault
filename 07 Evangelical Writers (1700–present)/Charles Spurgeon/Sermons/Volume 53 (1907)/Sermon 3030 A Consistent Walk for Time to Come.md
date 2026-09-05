@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # A Consistent Walk for Time to Come
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3030
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As you have therefore received Christ Jesus the Lord, so walk in Him." Colossians 2:6.
 
@@ -173,7 +170,7 @@ His love you can never measure."
 
 But oh, some of you have never received Him, so my last word is to them. Do you ask, "What is the way of salvation?" It is by receiving Christ. Oh, then come and receive Him! May the Holy Spirit's power lead sinners to Christ! You need not bring anything to Him. You need not bring a soft heart to Him. You need not bring tears of repentance to Him. But just come and take Christ. Remember, it is not what you are, but it is what Christ is that saves you! Never look at yourself, but look at the wounds of Jesus! There is life there. God help you to look—to look tonight! And if you shall find Him, our prayer shall be that from this day forth, you shall walk in Him and He shall have the glory!
 
-EXPOSITION BY C. H. SPURGEON: PSALM90.
+## Exposition by C. H. Spurgeon: Psalm 90
 
 A Prayer of Moses, the Man of God.
 
@@ -216,7 +213,6 @@ Verse 1. LORD, You have been our dwelling place in all generations. "Did not Abr
 17\. And let the beauty of the LORD our God be upon us: and establish You the work of our hands upon us. Even if we die, let our work live. May there be something permanent remaining after we are gone—not wood, hay, and stubble, which the fire will consume, but a building of gold, silver, and precious stones which will endure the fire that, sooner or later, will "try every man's work of what sort it is."
 
 17\. Yes, the work of our hands establish You it
-
 
 ---
 [[Sermon 3029 God's Tender Mercy|← #3029]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3031 'The Shadow of a Great Rock'|#3031 →]]

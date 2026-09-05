@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # Unseasonable Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2851
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Why do you cry unto Me?" Exodus 14:15.
 
@@ -99,9 +96,9 @@ Ah, Sirs, assuredly a curse rests upon the man who never prays! He who prays not
 
 It is not to prayer that I exhort you, but I urge you to obey that great Gospel command, "Believe on the Lord Jesus Christ, and you shall be saved." And more than that, in the name of God, I command you to believe in Him whom He has sent as the only Savior of sinners. Believe on Him! Trust in Him and go your way forgiven! God grant it, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON:
+## Exposition by C. H. Spurgeon
 
-LUKE 18:1-27.
+## Luke 18:1-27
 
 Verse 1. And He spoke a parable unto them to this end, that men ought always to pray, and not to faint. Especially not to faint in prayer, not to become disheartened, or weary, even if their prayers should, for a long time, remain unanswered.
 
@@ -134,7 +131,6 @@ Christ to notice? Their understanding was not sufficiently developed to know any
 22\. Sell all that you have and distribute unto the poor, and you shall have treasure in Heaven: and come, follow Me. Now, which will he love the more—the Son of God—or his wealth?
 
 23-27. And when he heard this, he was very sorrowful: for he was very rich. And when Jesus saw that he was very sorrowful, He said, How hardly shall they that have riches enter into the Kingdom of God! For it is easier for a camel to go through a needle's eye, than for a rich man to enter into the Kingdom of God. And they that heard it said, Who then can be saved? And He said, The things which are impossible with men are possible with God. Yet some men spend all their lives in the earnest endeavor to make it hard for them to be saved! They are trying, as much as they can, to block up the road to eternal life, hoarding up that which will be a grievous burden to them, even if God shall lead them in the way to Heaven. How much better is it to live wholly unto God and then, be we rich or be we poor, consecrate all to Him and live to His praise and glory!
-
 
 ---
 [[Sermon 2850 The New Song and the Old Story|← #2850]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2852 Comfort for the Fearful|#2852 →]]

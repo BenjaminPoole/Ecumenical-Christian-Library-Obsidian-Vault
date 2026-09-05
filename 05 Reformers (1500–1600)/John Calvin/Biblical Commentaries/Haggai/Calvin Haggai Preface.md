@@ -9,10 +9,7 @@ written: "1559"
 tags:
   - calvin-commentaries
 ---
-
 # Calvin's Preface to Haggai
-
-**Calvin’s Preface to Haggai**
 
 After the return of the people, they were favored, we know, especially with three Prophets, who roused their fainting hearts, and finished all predictions, until at length the Redeemer came in his appointed time. During the time of The Babylonian Exile the office of teaching was discharged among the captives by Ezekiel, and also by Daniel; and there were others less celebrated; for we find that some of the Psalms were then composed, either by the Levites, or by some other teachers. But these two, Ezekiel and Daniel, were above all others eminent. Then Ezra and Nehemiah followed them, the authority of whom was great among the people; but we do not read that they were endued with the Prophetic gift.
 

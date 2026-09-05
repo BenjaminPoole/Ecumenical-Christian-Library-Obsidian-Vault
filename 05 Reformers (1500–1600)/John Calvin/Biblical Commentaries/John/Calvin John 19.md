@@ -10,10 +10,9 @@ written: "1553"
 tags:
   - calvin-commentaries
 ---
-
 # John 19
 
-**CHAPTER 19.**
+***Chapter 19.***
 
 ## John 19:1-6
 

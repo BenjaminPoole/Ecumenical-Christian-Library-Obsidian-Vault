@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Philebus
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-PHILEBUS
+## Philebus
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION AND ANALYSIS.
+## Introduction and Analysis
 
 The Philebus appears to be one of the later writings of Plato, in which
 the style has begun to alter, and the dramatic and poetical element
@@ -2026,14 +2021,9 @@ distance, the many questions of modern philosophy which are anticipated
 in his writings, may we not truly describe him in his own words as a
 'spectator of all time and of all existence'?
 
-
-
-
-PHILEBUS
-
+## Philebus
 
 PERSONS OF THE DIALOGUE: Socrates, Protarchus, Philebus.
-
 
 SOCRATES: Observe, Protarchus, the nature of the position which you are
 now going to take from Philebus, and what the other position is which I

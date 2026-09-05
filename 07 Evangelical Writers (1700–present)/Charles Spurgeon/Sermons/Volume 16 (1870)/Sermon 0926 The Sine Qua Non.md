@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Sine Qua Non
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 926
 
-DELIVERED ON LORD'S-DAY MORNING, APRIL 17, 1870,.
+*Delivered on Lord's-Day Morning, April 17, 1870*
 
 > "Jesus answered him, If I do not wash you, you have no part with Me." John 13:8.
 
@@ -172,7 +171,6 @@ Men have tried to contort this Bible and make it say something that might encour
 If you believe in Jesus now, you shall be cleansed, your life shall become new. The preaching of morality helps but little. Men have been preached at with morality till they have become drunkards and swearers. Vice laughs at the preaching of morality. But the preaching of Christ Crucified and the Gospel of Substitution is efficacious—as many here are testifying by their renewed lives and changed behavior.
 
 Trust Christ, then, and as your present life will be changed, your future life will be unboundedly blessed. When your turn shall come to depart out of the world unto the Father, you shall be with Jesus where He is—and you shall behold His Glory. Oh, then, be washed and have part in all the splendor that is to be revealed! Be washed now, and His shall be the glory. Amen.
-
 
 ---
 [[Sermon 0925 Individual Sin Laid On Jesus|← #925]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0927 Martha And Mary|#927 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Precious Promise for a Pure People
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3542
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your eyes will see the King in His beauty." Isaiah 33:17.
 
@@ -57,7 +54,7 @@ is joy for them to look unto Him and be saved! Behold the Lamb of God! Behold th
 
 And it will be a near sight, because it will be clear and distinct. "Your eyes shall see the King in His beauty." This does not imply a distant view of a remote object—a dim vision of the dazzling splendor—but you will behold Him in such close proximity that you can discern every feature of His Person, every phase of His comeliness! You shall discern all the insignia of His offices, His conquests, His titles, His dominion and His Glory! Now you only see a picture of Him reflected as in a glass, darkly—then you shall see Him face to face! Oh, that the curtain might be drawn up, the veil rent, the vision unfolded! It will be a delightful sight. When He shall appear in His beauty, we cannot wear the vestments of our mourning and sorrow. As He is, so are we in this world. As He shall be revealed, so shall we be, also, in that world! "It does not yet appear what we shall be, but we know that when He shall appear, we shall be like He, for we shall see Him as He is." Thus we shall be beautiful when we shall see Him in His beauty! He shall say to us, "You are all fair, My love; there is not a spot in you." Oh, the delight, the pure unclouded joy, reflective as the light of Heaven! What an introduction to eternal happiness this will be when your eyes shall see the King in His beauty! There is no period, no finale, no end put to it. This is no transient spectacle. His beauty never fades. Our festival can never terminate. As long as He appears in His beauty we shall see Him and be enamored of His loveliness! Is it not written, "Because I live, you shall live also"? Without His people, without the complement of His saints with Him, He would not be a full Christ at any time. "Know you not that the Church is the fullness of Him who fills all in all?" So all His disciples must be forever with Him, and they must forever see His face, and be partakers of His Glory!
 
-III. TO WHOM IS THIS VISION GIVEN?
+## III. To Whom Is This Vision Given?
 
 We find a remarkably full description of these people. Read the 15th verse. Their ordinary gait distinguishes them. "He who walks righteously." "The pure in heart shall see God." But if your deportment disgraces you, how deep will be your dishonor? Unholy creatures will never see a holy God! It is not possible! Oh, Sinners, what do you think of this? You must be changed! You must be cleansed! You must be converted! The Holy Spirit must regenerate you! You must be born-again! Otherwise you cannot walk uprightly or stand in the Presence of the King in His beauty!
 
@@ -72,7 +69,6 @@ And He can change you! Let me ask you, have you ever seen, by faith, the King? H
 Oh, that we did but all of us know Jesus Christ in His beauty and could, every one of us, rejoice in Him as those do who are charmed by the sight! If you have not your eyes opened, you cannot see the King in His beauty. But if they are
 
 opened, now, so that you greet Jesus as your King and see beauty in Him, then, whatever your former life may have been, its sins are forgiven—they are blotted out! Your Savior's Sacrifice that offered such satisfaction to God for your sins shall give sweet solace to your conscience. By the gracious help of the Holy Spirit, you shall start a fresh career and begin a new life! Be it so and you will henceforth shut your eyes from seeing, stop your ears from hearing, shake your hands from all iniquity, and turn aside your feet from it to live the life you live in the flesh by the faith of the Son of God, to His honor and Glory! So shall your eyes, poor Sinner—weeping, sorrowing, mournful eyes as they may now be—your eyes shall see the King in His beauty! The Lord grant that we, all of us, may have a present earnest and a future fruition of this delightful promise, for His name's sake. Amen.
-
 
 ---
 [[Sermon 3541 A Memorable Interview|← #3541]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3543 Speaking on God's Behalf|#3543 →]]

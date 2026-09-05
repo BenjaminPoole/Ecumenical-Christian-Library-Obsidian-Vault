@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Christ's Negative and Positive Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2355
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I pray not that You should take them out of the world, but that You should keep them from evil." John 17:15.
 
@@ -113,7 +110,7 @@ But, Brothers and Sisters, do not let us be anxious to get to Heaven just yet. L
 
 God bless you, dear Friends, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN17.
+## Exposition by C. H. Spurgeon: John 17
 
 Verse 1. These words spoke Jesus, lifted up His eyes to Heaven, and said, Father, the hour is come. The hour to which He had so long looked forward to. The hour which He had anticipated with ardent desire—"The hour is come." On the very night that Jesus prayed this prayer, Luke's record tells us, "When the hour was come, He sat down, and the twelve Apostles with Him. And He said unto them, With desire I have desired to eat this Passover with you before I suffer." So He began His great intercessory prayer, "Father, the hour is come"—
 
@@ -148,7 +145,6 @@ these, alone, but for them, also, which shall believe on Me through their word."
 "Your Character, Your work"
 
 26\. And will declare it: that the love wherewith You have loved Me may be in them, and I in them. This prayer is for You and for Me, as much as for the 12 Apostles. May the Lord fulfill it in all of us as well as in them, for His dear name's sake! Amen.
-
 
 ---
 [[Sermon 2354 Scarlet Sinners Pardoned and Purified|← #2354]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2356 The Truth Of God's Salvation|#2356 →]]

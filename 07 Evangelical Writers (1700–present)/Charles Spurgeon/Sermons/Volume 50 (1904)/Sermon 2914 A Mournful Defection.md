@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # A Mournful Defection
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2914
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Will you also go away?" John 6:67.
 
@@ -96,7 +93,6 @@ Then remember, dear Brothers and Sisters, if you would be preserved from falling
 And, dear Friends, shun the company which has led other people astray. Parley not with those whose jokes are profane. Stay right away from them. It is not for you to be seen standing, much less to be found sitting down with men of loose manners and lewd talk. They can do you no good, but the evil they can bring upon you would not be easy to estimate! You may have heard the story—but it is so good it bears repeating—of the lady who advertised for a coachman and was waited upon by three candidates for the situation. She put to the first one this question—"I want a really good coachman to drive my pair of horses and, therefore, I ask you how near you can drive to danger and yet be safe?" "Well," he said, "I could drive very near, indeed! I could go within a foot of a precipice without fear of any accident so long as I
 
 held the reins." She dismissed him with the remark that he would not do. To the next one who came she put the same question. "How near could you drive to danger?" Being determined to get the job, he said, "I could drive within a hair's breadth and yet skillfully avoid any mishap." "You will not do," she said. When the third one came in, his mind was cast in another mold, so on the question being put to him, "How near could you drive to danger?" he said, "Madam, I never tried. It has always been a rule with me to drive as far from danger as I possibly can." The lady hired him at once! In like manner I believe that the man who is careful to run no risks and to refrain from all equivocal conduct, having the fear of God in his heart, is most to be relied upon! If you are really built upon the Rock of Ages, you may meet the question without dismay, "Will you also go away?" and you can reply without presumption, "No, Lord, I cannot and I will not leave You, for to whom should I go? You have the words of eternal life." So be it. "And the very God of peace sanctify you wholly. And I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. Faithful is He that calls you, who also will do it." Amen.
-
 
 ---
 [[Sermon 2913 David's First Victory|← #2913]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2915 A Visit to Bethlehem|#2915 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # The Two "Comes"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1331
 
-DELIVERED ON LORD'S-DAY MORNING, DECEMBER 31, 1876,.
+*Delivered on Lord's-Day Morning, December 31, 1876*
 
 > "And the Spirit and the bride say, Come! And let him who hears say, Come! And let him who thirsts come. And whoever will, let him take the water of life freely." Revelation 22:17.
 
@@ -162,7 +161,6 @@ Oh that you would believe in Jesus Christ! May His Spirit lead you to do so now!
 Only trust Him! Only trust Him! Only trust Him now! He will save you! He will save you! He will save you now!" Cast yourselves upon the blood and merits of the Lord Jesus and the great work is done! The Lord help you to do so. Amen.
 
 Portion Of Scripture Read Before Sermon—Revelation 22 HYMNS FROM "OUR OWN HYMN BOOK"—917, 345, 509.
-
 
 ---
 [[Sermon 1330 The Great Birthday|← #1330]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]]

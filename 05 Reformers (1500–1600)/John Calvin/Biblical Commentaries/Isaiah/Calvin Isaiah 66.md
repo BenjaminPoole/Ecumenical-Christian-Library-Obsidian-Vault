@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 66
 
-**CHAPTER 66.**
+***Chapter 66.***
 
 ## Isaiah 66:1-24
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # God's Handwriting Upon David
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2280
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "All this, said David, the LORD made me understand in writing by His hand upon me, even all the works of this pattern." 1 Chronicles 28:19.
 
@@ -105,7 +102,7 @@ Perhaps there has come in here a troubled sinner wanting to find a Savior. Try t
 
 Perhaps you have never had anything written on your heart, my dear Hearer. Then lay your heart before the Lord, tonight, with this simple prayer, "Lord, write on it!" And if He writes on it that one word, "Jesus," it will be all that you can need! God bless you, everyone, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON 1 CHRONICLES 28.
+## Exposition by C. H. Spurgeon 1 Chronicles 28
 
 Verse 1. And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem. David, in his old age, and soon to die, summoned a great representative assembly of the notables of his kingdom.
 
@@ -146,7 +143,6 @@ Verse 1. And David assembled all the princes of Israel, the princes of the tribe
 21\. And, behold, the courses of the priests and the Levites, even they shall be with you for all the service of the House of God: and there shall be with you for all manner of workmanship every willing skillful man, for any manner of service. God always finds men for His work. We sometimes see a lot of cowards run away and we say to ourselves, "What will happen now?" Why, God will find better men than they are! And when there seems to be a scarcity of really valiant men in Israel, God has them in training! And that awkward squad out there will yet become a band of brave men for the service of the House of God!
 
 21\. Also the princes and all the people will be wholly at your commandment. Thus the grand old man finished up his life by starting another to carry on the work which he was obliged to leave.
-
 
 ---
 [[Sermon 2279 Joy Hindering Faith|← #2279]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2281 Our Lord in the Valley of Humiliation|#2281 →]]

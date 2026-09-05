@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # A Dirge for the Down-grade and a Song For Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2085
 
-DELIVERED ON THURSDAY EVENING, APRIL 18, 1889,.
+*Delivered on Thursday Evening, April 18, 1889*
 
 > "Rejoice for joy with her, allyou that mourn for her." Isaiah 66:10.
 
@@ -190,7 +189,6 @@ O Brothers and Sisters, we may each of us become mourners with the Church of God
 We are members of one body and if any part of the body suffers every other part of the body will have to suffer, too. If worldliness abounds, as it does, we shall see our children becoming worldly. We shall see them sucked into the vortex of infidelity and frivolity which now seems to sweep down and carry into the abyss so many hopeful young men and women. None of us will be able to escape from the terrible damage which evil is working all around. When false doctrine breaks forth like floods, it will surge around all our houses. Let us, therefore cry mightily unto God—not for ourselves only, but for the one great universal Church and for this great city and for this wicked world.
 
 O Lord our God, arise for Your cause and crown! Take hold on sword and buckler and plead Your own case, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2084 The Bible Tried and Proved|← #2084]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2086 Taking Possession Of Our Inheritance|#2086 →]]

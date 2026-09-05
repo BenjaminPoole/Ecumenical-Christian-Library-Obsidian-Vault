@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Wholehearted Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1623
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 9, 1881,.
+*Delivered on Lord's-Day Morning, October 9, 1881*
 
 > "And I will give them one heart, and one way, that they may fear Me forever, for the good of them, and of their children after them." Jeremiah 32:39.
 
@@ -134,7 +133,6 @@ Be thorough and true, and your family will respect your faith. The almost inevit
 Are they in Heaven? Dare you go to their grave and sit upon the grassy hillock and think of how you are living? It will force tears to your eyes to contrast yourself with them! You may well tremble to think that you neglect your mother's Savior, that you forget your father's God! It will go hard with those who leap into Hell-fire over a father's prayers and a mother's entreaties—yet some seem desperately resolved on such suicide! I hope these are comparatively few and that it is still true, "Train up a child in the way he should go and when he is old, he will not depart from it." Temporal and spiritual blessings come upon households where the heads of the family are completely consecrated to God. Try it! Try it! I will be bound that you will find it profitable! If at the Last Great Day you shall find that consecration to Christ is an error, I will be willing to bear the blame myself! I am not afraid that anyone among you will ever censure me for having excited you into a too fervent zeal, or a too devoted life!
 
 Brothers and Sisters, I am afraid of those of you who go ankle deep into religion and never venture further—I am afraid lest you should, by-and-by, return to the shore! But as for you who plunge into the center of the stream and find waters to swim in, I have no fears! You shall be borne onward by a current ever increasing in strength till in the ocean of eternal love you lose yourselves in Heaven above! I can wish you no greater blessing than that the Holy Spirit may make you wholehearted, consistent, persistent, ardent, established and persevering in the things of God! On you and on your household my heart pronounces this benediction—the Lord give you one heart and one way that you may fear Him forever. Amen.
-
 
 ---
 [[Sermon 1622 Mongrel Religion|← #1622]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1624 Welcome! Welcome!|#1624 →]]

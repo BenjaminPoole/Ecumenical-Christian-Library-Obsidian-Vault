@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # The Holy Spirit Glorifying Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2907
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He will glorify Me, for He will take of what is Mine and declare it to you." John 16:14.
 
@@ -103,7 +100,7 @@ O Souls, you have never counted Christ for what He is! You have put down your si
 
 Did you ever take up from your table a bill for a large sum? You felt a kind of flush coming over your face. You looked down the list. It was a rather long list of items, perhaps from a lawyer or a builder. But when you looked at it, you saw that there was a penny stamp at the bottom and that the account was receipted. "Oh," you said, "I do not care how long it is, for it is all paid." So, though your sins are many, if you have a receipt at the bottom—if you have trusted Jesus—your sins are all gone, drowned in the Red Sea of your Savior's blood and Christ is glorified in Your salvation! May God the Holy Spirit bring every unsaved one here tonight to repentance and faith in our Lord Jesus Christ. The Lord bless every one of you, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 16.
+## Exposition by C. H. Spurgeon: John 16
 
 Verse 1. These things have I spoken unto you, that you should not be offended. The temptation is when Christ is despised and rejected for our hearts to begin to sink and our faith to fail. Therefore did Christ warn His disciples that they "should not be offended."
 
@@ -146,7 +143,6 @@ God.
 32\. Behold, the hour comes, yes, is now come, that you shall be scattered, every man to his own, and shall leave Me alone. Ah, me! These were the men who said they believed in Him, yet, in His time of trial they fled like cowardly unbelievers! God help us and sustain us, or we shall do as they did!
 
 32, 33. And yet I am not alone, because the Father is with Me. These things I have spoken unto you that in Me you might have peace. In the world you shall have tribulation: but be of good cheer; I have overcome the world
-
 
 ---
 [[Sermon 2906 Honor for Honor|← #2906]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2908 The Saint's Heritage and Watchword|#2908 →]]

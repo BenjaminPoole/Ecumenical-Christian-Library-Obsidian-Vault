@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 20. Are all men, then, as they perished in Adam, saved by Christ?
-
-**Question 20. Are all men, then, as they perished in Adam, saved by Christ?**
 
 Answer. No; only those who are ingrafted into him, and receive all his benefits by a true faith.
 
-**EXPOSITION**
+## **Exposition**
 
 Having explained the mode of our deliverance through Christ, we must now inquire carefully who are made partakers of this deliverance, and in what manner it is effected; whether all, or only some are made partakers thereof. If none are made partakers of it, it has been accomplished in vain. This twentieth question is, therefore, preparatory to the doctrine of faith, without which neither the Mediator, nor the preaching of the gospel, would be of any advantage. At the same time it provides a remedy against carnal security, and furnishes an answer to that base calumny which makes Christ the minister of sin.
 

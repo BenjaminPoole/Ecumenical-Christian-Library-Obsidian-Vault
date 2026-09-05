@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 67. Letter LXVI. To Master Martin, his Disciple (June 16, 1415)
-
-LETTER LXVI. TO MASTER MARTIN, HIS DISCIPLE (June 16, 1415)
 
 Exhortations; If Martin is charged with heresy, what he is to reply ; " The Lord still lives " ; Greetings to various friends in Prague; Repayment of his creditors; "Fare well evermore " . . . » ; . . . 235-7
 

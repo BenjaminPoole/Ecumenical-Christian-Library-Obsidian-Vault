@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # Characteristics of Christ's Disciples
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2650
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If anyone comes to Me and does not hate his father and mother, wife and children, brothers and sisters, yes, and his own life, also, he cannot be My disciple." Luke 14:26.
 
@@ -112,7 +109,6 @@ But I think that we shall not bear fruit as we should unless we endeavor to brin
 I remember one who never did anything for Christ and when somebody spoke to him about his lack of fruit-bearing, he said that he bore insidefruit. I never heard that idea before, so I turned it over in my mind and, the next time I met him, I said to him, "Are you still bearing inside fruit?" He answered, "Yes." "Well," I said, "we shall never get at it till you are cut down." Fruit is evidently intended to be an outside thing that is borne for the benefit of others! So, in this respect, Brothers and Sisters, see to it that you are fruitful by rendering all possible service to our Lord and Master.
 
 The real application of my four texts is this—Are you, dear Friends, Christ's disciples? Let that question be passed around and let these four marks help us to judge ourselves—are we distinguished from those who are not Christ's disciples by our wholeheartedness, continuance, brotherly love and fruit-bearing? May all these things be in us and abound. And if we have none of them, may we apply to Christ for them! Lie at His feet. Confess your sin and then look up, believe in Him and live forevermore! The Lord bless you, dear Friends, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2649 Girded for the Work|← #2649]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2651 The Christian's Service and Honor|#2651 →]]

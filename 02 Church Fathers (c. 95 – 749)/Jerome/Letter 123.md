@@ -16,10 +16,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 123
 
-Letter CXXIII. To Ageruchia.
+## Letter CXXIII. To Ageruchia
 
 1. I must look for a new track on the old road and devise a natural treatment, the same yet not the same, for a hackneyed and well-worn theme. It is true that there is but one road; yet one can often reach one's goal by striking across country. I have several times written letters to widows in which for their instruction I have sought out examples from scripture, weaving its varied flowers into a single garland of chastity. On the present occasion I address myself to Ageruchia; whose very name (allotted to her by the divine guidance) has proved a prophecy of her after-life. Around her stand her grandmother, her mother, and her aunt; a noble band of tried Christian women. Her grandmother, Metronia, now a widow for forty years, reminds us of Anna the daughter of Phanuel in the gospel. Her mother, Benigna, now in the fourteenth year of her widowhood, is surrounded by virgins whose chastity bears fruit a hundredfold. The sister of Celerinus, Ageruchia's father, has nursed her niece from infancy and indeed took her into her lap the moment that she was born. Deprived of the solace of her husband she has for twenty years trained her brother's child, teaching her the lessons which she has learned from her own mother.
 

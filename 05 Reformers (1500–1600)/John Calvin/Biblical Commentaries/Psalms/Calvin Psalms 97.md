@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 97
-
-**PSALM 97**
 
 The description which we have of the kingdom of God in this psalm, does not apply to the state of it under the Law. We may infer, accordingly, that it contains a prediction of that kingdom of Christ, which was erected upon the introduction of the Gospel. The Psalmist, while he commends it to us by insisting upon its greatness and glory, so well calculated to compel the reverential fear of men, gives an amiable representation of it, by informing us that it has been erected for the salvation of mankind sinners.
 

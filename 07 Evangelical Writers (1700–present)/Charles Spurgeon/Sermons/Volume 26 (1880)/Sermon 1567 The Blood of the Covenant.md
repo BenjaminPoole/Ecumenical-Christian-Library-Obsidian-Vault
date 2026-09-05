@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # The Blood of the Covenant
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1567
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 14, 1880,.
+*Delivered on Lord's-Day Morning, November 14, 1880*
 
 > "This is the blood of the Testament which God has enjoined unto you." Hebrews 9:20.
 
@@ -158,7 +157,6 @@ Henceforth and never shall my harp Your praise
 Forget, nor from Your Father's praise disjoin." Because of all this we are to lead a separated life. It is not for us to live as others live who walk in the vanity of their minds. We are not to seek the world's pleasures. We are not to besmear ourselves with its folly and its selfishness. God's people, if they act as they should, are a separated people. It is written, "The people shall dwell alone, they shall not be numbered among the nations." The Lord has set apart him that is godly for Himself and as the shepherd marks his sheep, so, with the precious blood of Christ applied by faith, has God marked His own elect, that they should abide in Christ and go no more out, no more mingling with the sons of men, nor joying in their joys, nor serving their lusts.
 
 The Lord's portion is His people and His cry to them is, " Come you out from among them and be you separate." God give you to feel this blood of the Covenant, this blood of the Testament, this blood of cleansing, this blood of the setting apart, for Jesus Christ's sake. Amen.
-
 
 ---
 [[Sermon 1566 Cheer for the Worker and Hope for London|← #1566]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1568 The Believer Catechized|#1568 →]]

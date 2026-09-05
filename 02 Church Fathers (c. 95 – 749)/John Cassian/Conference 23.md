@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 23
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE THIRD CONFERENCE OF ABBOT THEONAS. ON SINLESSNESS.
+## The Third Conference of Abbot Theonas. On Sinlessness
 
 ## Chapter 1
 

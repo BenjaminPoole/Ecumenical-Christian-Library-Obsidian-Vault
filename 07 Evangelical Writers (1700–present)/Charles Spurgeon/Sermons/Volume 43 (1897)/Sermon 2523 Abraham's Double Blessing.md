@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Abraham's Double Blessing
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2523
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will bless you, and you shall be a blessing." Genesis 12:2.
 
@@ -87,7 +84,7 @@ Beloved, if you and I are to be made a blessing to others, it must be by our bri
 
 The next morning he was found quiet and subdued—and during all the term of his imprisonment there was not a better prisoner! And he went out of the jail a changed man. He told the chaplain that it was the little girl who had done it when she said that she pitied him and that Jesus Christ pitied him. If we would more often bring in that blessed name of Jesus, then would our text be fulfilled, "I will bless you, and you shall be a blessing." Oh, that we would all first come to Him and find the blessing that is treasured up in Him—and then go forth and be a blessing to our own family and to all around us! O Lord, grant that it may be so, for Your dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: GENESIS 12:1-7; 14:17-24; 22:15-18.
+## Exposition by C. H. Spurgeon: Genesis 12:1-7; 14:17-24; 22:15-18
 
 We will read two or three passages in the Book of Genesis concerning God blessing His servant Abraham. Turn first to the 12th chapter.
 
@@ -116,7 +113,6 @@ Now let us read in the 22nd Chapter of this same Book of Genesis. Abraham had en
 Genesis 22:15-17. And the Angel of the Lord called unto Abraham out of Heaven the second time, and said, By Myself have I sworn, says the Lord, for because you have done this thing, and have not withheld your son, your only son: that in blessing I will bless you. "Whenever I am engaged in blessing, I will bless you. I will not pronounce a benediction in the which you shall not share—'In blessing I will bless you.'"
 
 17, 18. Andin multiplying I will multiply your seedas the stars of the Heaven, andas the sand which is upon the sea shore and your seed shall possess the gate of his enemies; andin your seed shall all the nations of the earth be blessed; because you have obeyed My voice. See the result of one man's grand act of obedience and note how God can make that man to be the channel of blessing to all coming ages! Oh, that you and I might possess the Abrahamic faith which thus practically obeys the Lord and brings a blessing to all the nations of the earth!
-
 
 ---
 [[Sermon 2522 After Two Days Is the Passover|← #2522]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2524 Fearing and Hoping|#2524 →]]

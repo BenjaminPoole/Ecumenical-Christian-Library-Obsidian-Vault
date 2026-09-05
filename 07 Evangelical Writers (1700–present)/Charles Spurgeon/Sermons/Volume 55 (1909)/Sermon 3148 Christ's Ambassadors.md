@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Christ's Ambassadors
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3148
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now, then, we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's place, be you reconciled to God." 2 Corinthians 5:20.
 
@@ -120,7 +117,6 @@ And then, lastly, I say again to you who have embraced it, and who rejoice in it
 And then, Beloved, this Church has sent out hundreds of ministers who are now located in all parts of the world and, almost without exception, preaching that same Gospel that we have declared unto you! Think, also, of the thousands of members in this Church—some very good people and some very strange ones—many sick, some dying, and always some needing counsel, or warning, or exhortation that requires all our wit and wisdom—and a great deal more to say the right word at the right time! Then there is that which comes upon us daily—the care of scores and hundreds of churches which, if they have any trouble, resort to us and bring their burdens to one who is burdened enough already! We are wretched to the last degree if we have not your prayers! But if you pray for us, nothing can stagger us! If you uphold us by your prayers, God will make us strong! But if you leave us, we shall be weakness itself. Pray for us, for "we are ambassadors for Christ."
 
 There are strangers here to whom this part of my discourse may seem egotistic. I cannot help its seeming so to you! But I am speaking to my own friends here about what they know, but of which they sometimes need to be reminded. And if they will pray for me as the result of it, I shall not feel very much troubled in my conscience for having seemed to be egotistic to those who do not know. After all, our reliance is not even upon the prayers of the saints. God is our Helper, and we have done His work in reliance upon His Grace, but we shall be unfaithful tomorrow unless He shall guide and teach and uphold us. Therefore, again we say, Brethren, pray for us! By the love you bear to Christ, pray for us! Amen
-
 
 ---
 [[Sermon 3147 God's Glory in the Building Up of Zion|← #3147]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3149 The Commissariat of the Universe|#3149 →]]

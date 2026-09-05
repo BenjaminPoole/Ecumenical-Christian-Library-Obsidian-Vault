@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Suffering Outside the Camp
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2660
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate." Hebrews 13:12.
 
@@ -81,7 +78,7 @@ And now, as you come to this Communion Table, I shall bid you only remember that
 
 May the God of mercies give to sinners Grace, that, like lepers outside the camp, they may look to Jesus, crucified for them, and so obtain eternal life! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JEREMIAH5:1-6; 10-31; REVELATION 22:1-7.
+## Exposition by C. H. Spurgeon: Jeremiah 5:1-6; 10-31; Revelation 22:1-7
 
 Jeremiah 5:1. Run you to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof if you can find a man, if there is any that executes judgment, that seeks the truth; and I will pardon it I t was a very wonderful offer, on the part of God, to forgive the inhabitants of the whole city of Jerusalem for the sake of oneman! And it was all the more remarkable because He gave them time to make a thorough search to see whether such a person could be found—"if there is any that executes judgment, that seeks the truth." Into what a horrible state of guilt must the Jewish capital have fallen when there was not one man, even among the magistrates or the priests, who cared for that which was just and true! May God prevent London and England from becoming like Jerusalem and Judah! May truth and righteousness flourish in our land!
 
@@ -144,7 +141,6 @@ Revelation 22:1. And he showed me a pure river of water of life, clear as crysta
 5-7. For the Lord God gives them light: and they shall reign forever and ever. And he said unto me, These sayings are faithful and true: and the LORD God of the holy Prophets sent His angel to show unto His servants the things which must shortly be done. Behold I come quickly! Blessed is he that keeps the sayings of the prophecy of this Book
 
 Even so, come, Lord Jesus. Come quickly! Amen
-
 
 ---
 [[Sermon 2659 Fallen Asleep|← #2659]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2661 A Marvelous Change|#2661 →]]

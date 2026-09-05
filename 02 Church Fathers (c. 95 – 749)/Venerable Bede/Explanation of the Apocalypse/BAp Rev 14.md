@@ -9,8 +9,6 @@ tags:
   - venerable-bede
   - bede-apocalypse
 ---
-
-
 # On the Revelation of St John, Chapter 14
 
 V. I. Lamb. That is, when this Church was toiling under the burden of its conflicts, the Lord Jesus Christ preserved it by the example of His power, and the defence of His protection. For when the body had been shewn which was confounded by the power of the dragon, and marked by his brand, he shews the Church rejoicing in its wonted splendour and numbers, that thou shouldest not be afraid leat the body of the Lamb had succumbed to the fury of the beast. And observe, that the beast stands on tl^e sand of the sea, the Lamb on Mount Zion.
@@ -185,7 +183,7 @@ hundred. That is, through all the four parts of the world. For quatemity is mult
 
 blood;*' Heb.,^Fltos^ tnb.
 
-BOOK THE THIRD.
+## Book the Third
 
 ---
 [[BAp Rev 13|← Revelation 13]] · [[Library/Venerable Bede/Explanation of the Apocalypse/Explanation of the Apocalypse|Contents]] · [[BAp Rev 15|Revelation 15 →]]

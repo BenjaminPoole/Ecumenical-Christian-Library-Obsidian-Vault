@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # Obedience Rewarded
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2323
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they departed quickly from the sepulcher with fear and great joy; and did run to bringHis disciples word. And as they went to tell His disciples, behold, Jesus met them, saying, All hail. And they came and held Him by the feet, and worshipped Him. Then said Jesus unto them, Be not afraid: go tell My brethren to go into Galilee, and there shall they see Me." Matthew 28:8-10.
 
@@ -101,7 +98,7 @@ As for you, my dear Hearers, who do not know my Lord, how I wish that you did! H
 
 Thus I have preached to you and now there are some Believers to be baptized. That is the second part of our work. At the end of this chapter we read, "Go you, therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit: teaching them to observe all things whatever I have commanded you." We will at another time go on with the teaching that follows this evening's meditation, if the Lord wills.
 
-EXPOSITION BY C. H. SPURGEON. MATTHEW 28:1-15.
+## Exposition by C. H. Spurgeon. Matthew 28:1-15
 
 Verses 1, 2. In the end of the Sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulcher. And, behold, there was a great earthquake: for the angel of the Lord descended from Heaven, and came and rolled back the stone from the door, and sat upon it. See what concern angels have about our Lord. Are they here tonight? Do they make a habit of coming where the saints meet together? I think they do. We have intimations in Scripture that that is the case. Let us behave ourselves aright, tonight, "because of the angels." And as they worship and count it their highest honor to serve the Son of Man, let us also worship Jesus and adore Him! What a picture this scene would make!
 
@@ -140,7 +137,6 @@ the feet and worshipped Him. I do not find that these women ran to the angels—
 14\. 15. And if this comes to the governor's ears, we will persuade him, and secure you. So they took the money, and did as they were instructed. No doubt you have heard of the man who said that he did not believe all the articles of his church because his salary was so small that he could not be expected to believe them all for the little money he was paid. Oh, the depraving and debasing power of the whole system of bribery and falsehood! May none of us ever be affected by considerations of profit and loss in matters of doctrine, matters of duty and matters of right and wrong!
 
 15\. And this saying is commonly reported among the Jews until this day. You may start a lie, but you cannot stop it. There is no telling how long it will live. Let us never teach even the least error to a little child, for it may live on and become a great heresy long after we are dead. There is scarcely any limit to its life and to its power.
-
 
 ---
 [[Sermon 2322 When Can We Find Comforters|← #2322]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2324 The Followers of the Lamb|#2324 →]]

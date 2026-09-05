@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Believer's Heritage of Joy
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2415
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Your testimonies have I taken as an heritage forever: for they are the rejoicing of my heart." Psalm 119:111.
 
@@ -101,7 +98,7 @@ I have often said from this pulpit, and I say it again, that if I had to die lik
 
 If he had fixed his eyes on his father and had seen the greatness of his father's love, and the joy beaming in his father's face, I think that he would have rushed up to him and fallen on his father's neck, and kissed him, and said, "Now I know what a blessed thing it must be to dwell in your love." Oh, if you knew the joy of saved sinners, and the joys of those who have prayed and labored for their salvation. If you knew anything of the joy of the happy God, you would understand that a truly Christian life cannot be an unhappy one! God bring you, everyone, to trust in Jesus, His dear Son! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM119:73-88.
+## Exposition by C. H. Spurgeon: Psalm 119:73-88
 
 In this Psalm we have, as it were, notes from David's diary.
 
@@ -144,7 +141,6 @@ Verse 73. Your hands have made me and fashioned me: give me understanding that I
 88\. Quicken me after Your lovingkindness. That is a blessed prayer for us to offer. If any of you feel dull and drowsy. If any of you are heavy and slow in your movements, cry to the Lord, "Quicken me after Your lovingkindness."
 
 88\. So shall I keep the testimony of Your mouth. Spiritual life is the root of holiness—"Quicken me after Your lovingkindness; so shall I keep the testimony of Your mouth." May God bless this reading to our instruction! Amen.
-
 
 ---
 [[Sermon 2414 The Prodigal's Climax|← #2414]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2416 Adorning the Gospel|#2416 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Beggars Becoming Princes
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3256
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He raises up the poor out of the dust, and lifts up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory." 1 Samuel 2:8.
 
@@ -99,7 +96,7 @@ Perhaps, someone asks, "Do I rightly understand you, Sir? I do not often go to a
 
 Oh, that some spiritual beggar may tonight be lifted up from the dunghill and set among princes, and the Lord shall have all the praise world without end! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 SAMUEL 2:1-10; LUKE 1:16-56.
+## Exposition by C. H. Spurgeon: 1 Samuel 2:1-10; Luke 1:16-56
 
 We shall read two portions of Holy Scripture, and may God the Holy Spirit bless us in the reading of His own Words. We shall first read in the First Book of Samuel, the 2nd Chapter, the Song of Hannah. You remember that Hannah was a woman of a sorrowful spirit. A womanly sorrow preyed upon her heart and brought her very low. Not so low, however, as to prevent her from constantly praying to God. Her prayers were heard and when she came up to the Lord's House, the joyful mother of a son, she took care to remember her former supplication and to offer unto God thanksgiving. Hannah was a woman of great ability, perhaps the chief poetess of either the Old or the New Testament. I expect that Mary borrowed part of her Magnificat from the Song of Hannah—at least the recollection of that song must have been strong upon her when she sang what we shall presently read.
 
@@ -126,7 +123,6 @@ Luke 1:46, 47. And Mary said, my soul does magnify the Lord, and my spirit has r
 with good things, and the rich He has sent empty away [See Sermon #2582, Volume 44—ALTO AND BASS and Sermon #3019, Volume 52—THE HUNGRY FILLED, THE RICH EMPTIED.] He has helped His servant Israel,
 
 in remembrance of His mercy; as He spoke to our father, to Abraham, and to His seed forever You see that the theme of the song is the same all through—the casting down of the proud and the mighty—and the uplifting of those that are bowed down and despised! And all this is ascribed to the Sovereignty of God.
-
 
 ---
 [[Sermon 3255 The Pearl of Patience|← #3255]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3257 Thoughts and Their Fruit|#3257 →]]

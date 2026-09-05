@@ -9,7 +9,6 @@ written: "1543"
 tags:
   - calvin-treatises
 ---
-
 # A Treatise on Relics
 
 **Calvin's Treatise On Relics, With Notes By The Translator.**
@@ -172,11 +171,11 @@ It was not the custom of the primitive Christians to have images, and it only be
 
 I shall not say any thing about St Joseph, whose shoes at Aix-la-Chapelle I have already mentioned, and whose other similar relics are preserved in many places.[^16]
 
-ST MICHAEL.
+## St Michael
 
 It may be supposed that I am joking when I speak of the *relics of an angel*, considering how absurd and ridiculous it is to do so, yet, although the hypocrites certainly know this well, they have made use of the name of St Michael to delude the ignorant and foolish; for they show at Carcassone his falchion, which looks like a child's dagger, and his shield, which is no larger than the knob of a bridle. Is it possible for man or woman to exist who can believe such mockery?[^17] It is indeed a blasphemy, under a garb of devotion, against God and his angels. The exhibitors of the above-mentioned relics endeavour to support their imposture by the testimony of Scripture that the archangel Michael combated with Satan; but if he was conquered by the sword, it would at least have been one of a different size and calibre than the toy to which I have alluded. People must, however, be very silly to believe that the war waged by angels and the faithful against the devil is a carnal encounter, fought with material weapons. But as I said before, at the commencement of this treatise, the world has rightly deserved to be led astray into such absurdities, for having lusted after idols, and worshipped them instead of the living God.
 
-ST JOHN THE BAPTIST.
+## St John the Baptist
 
 Proceeding in due order, we must now treat of St John the Baptist, who, according to the evangelical history—i.e., God's Word of Truth—was, after being beheaded, buried by his disciples. Theodoret, the eminent chronicler of the Church, relates that his grave was at Sebaste, a town in Syria, and that some time after his burial the grave was opened by the Pagans, who burnt his bones and scattered their ashes in the air. Eusebius adds, however, that some men from Jerusalem, who were present on the occasion, secretly took a little of these ashes and carried them to Antioch, where they were buried in a wall by Athanasius.
 
@@ -206,7 +205,7 @@ At Avignon they show the sword with which he was beheaded, and at Aix-la-Chapell
 
 But admitting that this should be the case, how have they obtained these two objects? Is it likely that the man who put him to death, whether a soldier or executioner, should have given away his sword and the sheet we have mentioned, in order to be converted into relics?
 
-ST PETER AND ST PAUL.
+## St Peter and St Paul
 
 It is now time to speak of the apostles, and I shall begin with St Peter and St Paul. Their bodies are at Rome; one part of them in the church of St Peter, and the other in that of St Paul. We are told that St Sylvester weighed their bodies in order to divide them into equal parts. Both their heads are preserved also at Rome in St John of the Lateran. Besides the two bodies we have just mentioned, many of their bones are to be found elsewhere, as at Poitiers they have St Peter's jaw and beard. At Treves there are several bones of the two apostles. At Argenton in Berri they have St Paul's shoulder, and in almost every church dedicated to these apostles there will be found some of their relics. At the commencement of this treatise I mentioned that St Peter's brains, which were shown in this town (Geneva), were found on examination to be a piece of pumice stone, and I have no doubt that many of the bones considered to belong to these two apostles would turn out to be the bones of some animal.
 
@@ -216,7 +215,7 @@ They show also at Rome St Peter's episcopal chair and his chasuble, as if the bi
 
 It is, however, no wonder that they have given him a chasuble since they have assigned an altar to him, there being no more truthful foundation for the one than for the other. It is well known what kind of mass was said at that time. The apostles simply celebrated the Lord's Supper, and this requires no altar; but as to the celebration of the mass, it was then not heard of, nor was it practised for a long time afterwards.[^21] It is, therefore, evident that those who invented all these relics never expected contradiction, or they would not have devised such audacious falsehoods. The authenticity of St Peter's altar at Rome (which I have just mentioned) is denied by Pisa, that town pretending to possess the real one. The least objectionable of St Peter's relics is undoubtedly his staff, it being most probable that he had made use of one during his travels, but unfortunately there are two of them at Cologne and Treves, each town claiming exclusive possession of the identical one.[^22]
 
-THE OTHER APOSTLES.
+## The Other Apostles
 
 We shall speak of the rest of the apostles together, in order to get quicker over the matter, and we will relate, in the first place, where their whole bodies are to be found, that our readers, by comparison, may be able to form their own opinions on the subject. All know that the town of Toulouse boasts of possessing the bodies of six, namely, St James the Major (brother of St John), St Andrew, St James the Minor, St Philip, St Simeon, and St Jude. At Padua they have the body of St Matthias, at Salerno that of St Matthew, at Orconna that of St Thomas, in the kingdom of Naples that of St Bartholomew.
 
@@ -230,19 +229,19 @@ As they pretend, in their tales, that the body of St John the Evangelist disappe
 
 They have also his coat, and the chain with which he was bound when brought from Ephesus to Rome, as well as the oratory at which he used to pray when in prison.[^26]
 
-ST ANNA.
+## St Anna
 
 We must now hurry on, or we shall never quit this labyrinth. We will, therefore, only briefly mention the relics of those saints who were our Lord's contemporaries, and then proceed to those of the martyrs, &c., leaving our readers to form their own conclusions from these brief sketches.
 
 St Anne, the mother of the Blessed Virgin, has a whole body at Apt in Provence, and another at Notre Dame de l'Isle at Lyons. She has a head at Treves also, a second at Duren near Cologne, and a third at a town called after her name in Thuringhia. I shall not speak of her other relics shown in more than a hundred different places. I remember that I myself kissed one of her relics, kept at the abbey of Orcamps near Noyon, on the occasion of a grand festival held in its honour.
 
-LAZARUS, MARY MAGDALENE, ETC.
+## Lazarus, Mary Magdalene, Etc
 
 Lazarus has, to my knowledge, three bodies, at Marseilles, Autun, and Avalon. A protracted lawsuit took place between the two last-named towns concerning the validity of their respective claims to the possession of the real body of this saint. Yet after an immense expense, both parties may be said to have gained their suit, for neither forfeited its title to ownership. With regard to Mary Magdalene, she owns but two bodies, one at Auxerre, and another of very great celebrity, with its head detached, at St Maximin, in Provence.
 
 Of their numerous relics scattered over the world I shall not speak. I would merely inquire whether Lazarus and his sisters ever went to preach in France; for those who have read the accounts given by ancient historians of those times cannot fail to be convinced of the folly of this fable.[^27]
 
-ST LONGINUS, AND THE THREE WISE MEN, OR KINGS.
+## St Longinus, and the Three Wise Men, or Kings
 
 The individual who pierced the side of our Lord on the cross has been canonised under the name of St Longinus, and after having thus baptized him, they have bestowed upon him two bodies, one of which is at Mantua, and the other at Notre Dame de l'Isle at Lyons.[^28]
 
@@ -250,11 +249,11 @@ The same has been done with the wise men who came to worship our Lord at the nat
 
 Moreover, the *Gospel* calls them *wise men*, but they have elevated them to the dignity of kings, without bestowing on them, however, either kingdoms or subjects. Finally, they have been baptized under the names of Balthazar, Melchior, and Gaspar. Now, supposing we concede to them these fables, frivolous as they are, it is certain that the wise men returned to the east, for the Gospel informs us of this, and we may conclude that they died in their native land, there being no reason for thinking otherwise. Now, who transferred their bodies to the west, for the purpose of preserving them as relics? It would be quite ridiculous, however, for me to attempt seriously to refute such a palpable imposture. Let Cologne and Milan, both of which towns pretend to possess relics of these *wise men*, or *kings*, decide this question between themselves.[^29]
 
-ST DIONYSIUS.
+## St Dionysius
 
 St Dionysius is considered to be one of the most celebrated of ancient martyrs, as a disciple of the apostles, and as the Evangelist of France. Occupying such high rank, it is therefore very natural that his relics should be so liberally dispersed; his whole bodies are, however, only preserved at the Abbey of St Dénis in France, and at Ratisbon in Germany. About a century ago Ratisbon instituted a lawsuit at Rome to prove that the body in its possession was truly that of the saint, and the justice of the claim was established by a decision of the Papal Court, delivered in the presence of the French Ambassador. And yet, any one so bold as to dare to assert at St Dénis that theirs was not the real body would run the risk of being stoned for blasphemy; whilst those who oppose the claim of Ratisbon are considered as heretics, rebellious to the decision of the Holy See.[^30]
 
-ST STEPHEN.
+## St Stephen
 
 The whole body of St Stephen is at Rome, his head is at Arles, and his bones are in more than three hundred places; and the Papists, as if to show themselves to be the partisans of those who murdered him, have canonized the stones with which he was killed.
 
@@ -262,21 +261,21 @@ It may be asked how these stones were obtained, but to my mind this would be a f
 
 Whoever will close his eyes and allow his understanding to be set aside, may believe that these are the identical stones with which St Stephen suffered martyrdom, but whoever will exert his reason a little cannot but laugh at this imposition. The Carmelite monks of Poitiers discovered some of these stones only fourteen years ago, to which they ascribed the virtue of assisting women in the pains of travail; but the Dominican monks, from whom a rib of St Margarita which possessed the same virtue had been stolen, were very indignant, and raised a great outcry at the deception practised by the Carmelites, but the latter gained the body by firmly maintaining their rights.
 
-THE HOLY INNOCENTS.
+## The Holy Innocents
 
 It was not at first my intention to mention the Holy Innocents, for if I were to enumerate a whole army of their relics, it might always be said to me in reply that history is not contradicted by that, as their number has never been mentioned to us. I shall not dwell, therefore, upon their multitude, merely observing that they are to be found in every part of the world. I would ask, however, how it came to pass that their graves were discovered so long after their massacre, since they were not considered as saints when their murder by Herod took place? And then, how were these numerous bodies conveyed to the many places where they are now to be seen? To these questions but one answer can be given—“All this occurred five or six hundred years after their death.” How can any but idiots believe such things?
 
 But supposing even that some of their bodies had really been discovered, how came so large a number of them to be transported to France, Italy, and Germany, and to be distributed amongst so many towns situated so far apart? This can only be a *wholesale* deception.
 
-ST GERVASIUS AND ST PROTASIUS.
+## St Gervasius and St Protasius
 
 The sepulchres of these two saints were discovered at Milan in the time of St Ambrose, as testified by him. This fact is confirmed also by the evidence of St Jerome, St Augustine, and several others; consequently Milan maintains its possession of the real bodies of these saints. Nevertheless, they are likewise to be seen at Brissach in Germany, and in the Church of St Peter at Besançon, besides an immense number of different parts of their bodies scattered throughout the land, so that each of them must have had at least four bodies.
 
-ST SEBASTIAN.
+## St Sebastian
 
 This saint, from the wonderful power his remains possessed of curing the plague, was put into requisition and more sought after than many of his brother saints, and no doubt this popularity was the cause of his body being quadrupled. One body is in the church of St Lawrence at Rome; a second is at Soissons; the third at Piligny, near Nantes, and the fourth at his birth-place, near Narbonne. Besides these, he has two heads at St Peter's at Rome, and at the Dominican church at Toulouse. The heads are, however, empty, if we are to believe the Franciscan monks of Angers, as they pretend to possess the saint's brains. The Dominicans of Angers possess one of his arms, another is at St Sternin, at Toulouse, a third at Case Dieu in Auvergne, and a fourth at Montbrisson. We will pass over the small fragments of his body, which may be seen in so many churches. They did not rest satisfied with this multiplication of his body and separate limbs, but they converted into relics the arrows with which he was killed. One of these is shown at Lambesc in Provence, another is in the Augustine convent at Poitiers, and there are many others in different towns.
 
-ST ANTHONY.
+## St Anthony
 
 A similar reason has bestowed on St Anthony the advantage of multiplication of his remains, he being considered as an irrascible saint, burning up all those who incur his displeasure; and this belief caused him to be dreaded and reverenced. Fear creating devotion, and producing also a universal desire to possess his relics, on account of the profits and advantages to be derived therefrom, Arles therefore had a long and severe contest with Vienne (in France) respecting the validity of the bodies of this saint possessed by each of these towns.
 
@@ -286,7 +285,7 @@ Besides these two bodies, St Anthony has a knee in the Church of the Augustines 
 
 Such are the advantages of being an object of dread and fear, otherwise this saint might possibly have been permitted to remain quietly in his grave.[^31]
 
-ST PETRONILLA—ST HELENA—ST URSULA—AND THE ELEVEN THOUSAND VIRGINS.
+## St Petronilla—st Helena—st Ursula—and the Eleven Thousand Virgins
 
 I must not forget to mention St Petronilla, St Peter's daughter, who has a whole body at Rome, in the church dedicated to her father, besides other relics in that of St Barbara. This does not, however, prevent her from owning another body in the Dominican convent at Mans, which is greatly venerated for the virtue it possesses of curing fevers. St Helena has not been so liberally provided for. Besides her body at Venice, she has but an extra head in the Church of St Gereon at Cologne.[^32] St Ursula beats her hollow in this respect; for she has a whole body at St Jean d'Angely, and a head into the bargain at Cologne, besides three separate limbs, and various fragments at Mans, Tours, and Bergerat. The companions of this saint are called *the eleven thousand virgins*, and although this is a respectable number, yet it is still too small, considering that the remains of these virgins are to be seen everywhere; for besides there being about one hundred cart-loads of their bones at Cologne, there is hardly a town where one or more churches have not some relics of these numerous saints.[^33]
 

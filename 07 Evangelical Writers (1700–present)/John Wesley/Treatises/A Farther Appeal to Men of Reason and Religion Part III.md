@@ -9,10 +9,9 @@ tags:
   - wesley
   - wesley-treatises
 ---
-
 # A Farther Appeal to Men of Reason and Religion, Part III
 
-PART III.
+## Part III
 
 And when he came near, he beheld the city, and wept over it, saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace!* Luke xix. 41, 42.
 

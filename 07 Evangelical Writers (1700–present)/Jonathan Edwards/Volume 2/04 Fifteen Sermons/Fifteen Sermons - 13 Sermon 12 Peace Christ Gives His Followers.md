@@ -10,7 +10,6 @@ written: "c. 1730s–1750s (preached; published in Edwards' collected Works)"
 tags:
   - jonathan-edwards
 ---
-
 # SERMON XII. [^76]
 
 ## THE PEACE WHICH CHRIST GIVES HIS TRUE FOLLOWERS.
@@ -83,7 +82,7 @@ III. This legacy of Christ to his true disciples is very different from all that
 
 4\. The peace of the Christian infinitely differs from that of the worldling, in that it is unfailing and eternal. That peace which carnal men have in the things of the world, is, according to the foundation upon which it is built, of short continuance; like the comfort of a dream, 1 John ii. 1 Cor. vii. 31. These things, the best and most durable of them, are like bubbles on the face of the water; they vanish in a moment. Hos. x. 7.—But the foundation of the Christian’s peace is everlasting; it is what no time, no change, can destroy. It will remain when the body dies: it will remain when the mountains depart and the hills shall be removed, and when the heavens shall be rolled together as a scroll. The fountain of his comfort shall never be diminished, and the stream shall never be dried. His comfort and joy is a living spring in the soul, a well of water springing up to everlasting life.
 
-APPLICATION.
+## Application
 
 The use that I would make of this doctrine, is to improve it as an inducement unto all to forsake the world, no longer seeking peace and rest in its vanities, and to cleave to Christ and follow him. Happiness and rest are what all men pursue. But the things of the world, wherein most men seek it, can never afford it; they are labouring and spending themselves in vain. But Christ invites you to come to him, and offers you this peace, which he gives his true followers, and that so much excels all that the world can afford, Isa. lv. 2, 3.
 

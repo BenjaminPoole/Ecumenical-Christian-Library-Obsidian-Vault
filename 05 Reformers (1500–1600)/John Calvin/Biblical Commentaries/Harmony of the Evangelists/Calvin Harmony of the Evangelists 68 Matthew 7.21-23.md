@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 68. Matthew 7:21-23; Luke 6:46
-
-**MATTHEW 7:21-23; LUKE 6:46**
 
 **21**. Not every one that saith to me, Lord, Lord, shall enter into the kingdom of heaven, bu the who shall do the will of my Father who is in heaven. **22**. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name, and in thy name have cast out devils, and in thy name have done many wonderful works? **23**. And then will I confess to them, I never knew you depart from me, you who work iniquity.
 

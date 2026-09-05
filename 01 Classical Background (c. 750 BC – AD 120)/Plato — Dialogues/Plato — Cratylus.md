@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Cratylus
 *trans. Benjamin Jowett*
 
@@ -19,23 +18,16 @@ tags:
 
 ---
 
-CRATYLUS
+## Cratylus
 
 By Plato
 
 Translated by Benjamin Jowett
 
-
-Contents
-
  INTRODUCTION
  CRATYLUS
 
-
-
-
-INTRODUCTION
-
+## Introduction
 
 The Cratylus has always been a source of perplexity to the student of
 Plato. While in fancy and humour, and perfection of style and
@@ -1091,7 +1083,6 @@ Then another day, my friend, you shall give me a lesson. “Very good,
 Socrates, and I hope that you will continue to study these things
 yourself.”
 
-
 We may now consider (I) how far Plato in the Cratylus has discovered
 the true principles of language, and then (II) proceed to compare
 modern speculations respecting the origin and nature of language with
@@ -1626,8 +1617,6 @@ of the one, we may expect to know more of the other.[1]
 
  [1] Compare W. Humboldt, _Ueber die Verschiedenheit des menschlichen
  Sprachbaues_, and M. Müller, _Lectures on the Science of Language_.
-
-
 
 It is more than sixteen years since the preceding remarks were written,
 which with a few alterations have now been reprinted. During the
@@ -2584,18 +2573,13 @@ and enable us to make a nobler use of it.[2]
  _Study of Language_; Paul’s _Principles of the History of Language_:
  to the latter work the author of this Essay is largely indebted.
 
-
-
-
-CRATYLUS
+## Cratylus
 
 By Plato
 
 Translated by Benjamin Jowett
 
-
 PERSONS OF THE DIALOGUE: Socrates, Hermogenes, Cratylus.
-
 
 HERMOGENES: Suppose that we make Socrates a party to the argument?
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # Not Boasting, But Trusting
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3408
-
-DELIVERED BY C. H. SPURGEON.
 
 > "Not of works lest any man should boast" Ephesians 2:9.
 
@@ -79,7 +76,7 @@ Now, whether you have been righteous or wicked, whether you can cry yourselves u
 
 "There is life in a look of the Crucified One!" There is life at this moment for you! I wish that everyone in this dense mass would look to my Master. There is Grace enough in Christ for everyone of you! No sinner was ever lost because there was any stint in Christ! No, but because they would not come and thought themselves too good for Him. Come as you are—just as you are and trust Christ. And then mark you, you will be saved! You will be saved from the love of sin! You will be saved from the power of it! You will begin a new and holy life. You will henceforth be full of good works which shall abound to the Glory of God—and with these good works upon you, you shall be like a tree that is covered with rich fruit, acceptable to God! Still your root shall not be your fruit, but your root shall be a simple faith in a precious Christ whom this night I have declared unto you. So God bless you. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS5:1-9.
+## Exposition by C. H. Spurgeon: Romans 5:1-9
 
 Verse 1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ We have it tonight. We enjoy it. We delight in it, "through our Lord Jesus Christ."
 
@@ -94,7 +91,6 @@ Verse 1. Therefore being justified by faith, we have peace with God through our 
 7, 8. Some would even dare to die. But God commends His love toward us in that while we were yet sinners, Christ died for us.And that is the glory of His Love! While we were rebels against His government, He redeemed us. While we were far off from Him by wicked works, He sent His Son to die and bring us near. Free Grace, indeed, was this—not caused by anything in us but springing freely from the great heart of God!
 
 9\. Much more, then, being now justified by His blood, we shall be saved from wrath through Him. You see the force of the argument? If He loved us when we were still dead in sin, much more will He keep us and preserve us now that He has justified us! Were His enemies redeemed? Shall not His friends be kept? Did He love those who were still far off? Will He not love those who are brought near—and love us even to the end?
-
 
 ---
 [[Sermon 3407 Peter's Prayer|← #3407]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3409 Seeking Richly Rewarded|#3409 →]]

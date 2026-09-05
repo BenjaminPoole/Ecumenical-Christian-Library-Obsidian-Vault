@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/58
 ---
-
 # Over the Mountains
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3307
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "My beloved is mine, and I am His: He feeds among the lilies. Until the day breaks and the shadows flee away, turn, my Beloved, and be You like a roe or a young hart upon the mountains of Bether." Solomon's Song 2:16,17.
 
@@ -77,7 +74,7 @@ To conclude, our Lord can do all this IMMEDIATELY. As in the twinkling of an eye
 
 Friends, we must now go our ways. A voice says, "Arise, let us go hence." O Lord of our hearts, go with us! Some will not be home without You. Life will not be life without You. Heaven itself would not be Heaven if You were absent. Abide with us! The world grows dark, the glooming of time draws on. Abide with us, for it is toward evening. Our years increase and we near the night when dews fall cold and chill. A great future is all about us! The splendors of the last age are coming down and while we wait in solemn, awe-struck expectation, our heart continually cries within herself, "Until the day breaks and the shadows flee away, turn, my Beloved!"
 
-EXPOSITION BY C. H. SPURGEON: JOHN 14.
+## Exposition by C. H. Spurgeon: John 14
 
 Let us read that well-known and most blessed Chapter, John 14, which so clearly shows our Savior's tender consideration for the comfort of His people, lest the great grief excited in them by His impending death should altogether break their hearts.
 
@@ -163,8 +160,7 @@ We will come unto him, and make our abode with him. [See Sermon #2895, Volume 50
 
 —Adapted from The C. H. Spurgeon Collection, Ages Software, 1.800.297.4307
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 3306 Satan, Self, Sin and the Savior|← #3306]] · [[Volume 58 (1912)|Volume 58 (1912) Contents]] · [[Sermon 3308 Gathering in the Chosen|#3308 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/62
 ---
-
 # A Memorable Interview
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3541
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then He said to Thomas, Reach here your finger, and behold My hands; and reach here your hand, and thrust it into My side; and be not faithless, but believing. And Thomas answered, and said unto Him, My Lord and my God." John 20:27,28.
 
@@ -108,7 +105,6 @@ time. Anyway, he was not there. "Forsake not the assembling of yourselves togeth
 29\. Jesus said unto Him, Thomas, because you have seen Me, you have believed: blessed are they that have not seen, and yet have believed. That is the faith—the true faith—that needs no buttressing and props, but believes the testimony ofGod.
 
 30, 31. And many other signs truly did Jesus in the presence of His disciples, which are not written in this book. But these are written that you might believe that Jesus is the Christ, the son ofGod: and that believing you might have life through His name. God grant that the objective of writing the New Testament may be answered in each one of us!
-
 
 ---
 [[Sermon 3540 A Remarkable Benediction|← #3540]] · [[Volume 62 (1916)|Volume 62 (1916) Contents]] · [[Sermon 3542 A Precious Promise for a Pure People|#3542 →]]

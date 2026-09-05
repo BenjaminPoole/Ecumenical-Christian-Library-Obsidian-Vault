@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 52. Matthew 6:1-4
-
-**MATTHEW 6: 1-4**
 
 **1**. Beware lest ye do your alms before men, that you may be seen by them: otherwise you have not a reward with your Father who is in heaven. **2**. Therefore, when thou doest alms, let there not be a sound of trumpets before thee, as hypocrites do in synagogues and in streets, that they may be glorified by men. Verily I say to you, They have their reward. **3**. But when thou shalt do alms, let not thy left hand know what thy right hand doeth: **4**. That thy alms may be in secret, and thy Father, who seeth in secret, will reward thee openly.
 

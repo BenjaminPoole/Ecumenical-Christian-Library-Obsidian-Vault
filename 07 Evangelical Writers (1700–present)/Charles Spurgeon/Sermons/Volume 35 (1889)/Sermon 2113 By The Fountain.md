@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # By The Fountain
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2113
 
-DELIVERED ON LORD'S-DAY MORNING, NOVEMBER 3, 1889,.
+*Delivered on Lord's-Day Morning, November 3, 1889*
 
 > "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall." Genesis 49:22.
 
@@ -190,7 +189,6 @@ A shallow Believer is a poor and weak Believer. But the strong Christian is the 
 You that have long known the Lord, endeavor to know more and more of Him. Send out more roots into yet deeper and richer ground. Get more nearly to the very heart of God. In an evil time like this, take firm hold. You cannot overcome the drift of an ill current unless you let down your anchor. Yes, and at such a time you may be unusually careful and let down four anchors from the stern, as well as the one in the proper place. We need to be anchored stem and stern in these days. We need to be held to Christ by hooks of steel. Heart, and head, and hand, and every other power had need take hold on the everlasting Truths of God.
 
 For such are the winds that blow today, that we shall be carried about by them like thistle upon the hills, if we have nothing but our own strength to rely upon. God grant us to get closer to Him than ever and to stay there. And may He grant us yet further to use all our opportunities for usefulness, and all our life for fruitfulness to His glory! Amen.
-
 
 ---
 [[Sermon 2112 Peace—How Gained, How Broken|← #2112]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2114 The Burden of the Word of the Lord|#2114 →]]

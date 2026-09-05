@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Joy in God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2550
-
-DELIVERED BY C. H. SPURGEON.
 
 > "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement" (or, as it should be, "the reconciliation"). Romans 5:11.
 
@@ -87,7 +84,7 @@ We can joy in God through our Lord Jesus Christ. There is no joy in God except a
 
 If you have, between here and Heaven, no source of joy but your God, it shall be with you as when the rock was smitten in the wilderness and the stream followed Israel through all their journeys! But if you have all that heart could wish for and yet do not joy in God, you have not tasted what true joy is—you have only the pretense and the mockery of an adulterated delight. But if you get just a sip of true joy in God, though it is but as a drop by the way until you get to the wellhead in the home country, you shall be cheered and comforted in a manner that worldlings cannot understand! I would that some of you would come and trust the Lord. You cannot joy in Him till you have trusted Him. But if you trust in Jesus as your Savior, you shall go onward, step by step, till even God Himself shall be an infinite delight to your every thought! God bless you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS 8:19-39.
+## Exposition by C. H. Spurgeon: Romans 8:19-39
 
 Verse 19. For the earnest expectation of the creation waits for the manifestation of the sons of God. The whole Creation is in a waiting posture, waiting for the glory yet to be revealed.
 
@@ -132,7 +129,6 @@ We are, in some respects, children of God in the same sense as Christ Himself is
 35, 36. Shall tribulation, or distress, or persecution or famine, or nakedness, or peril, or sword? As it is written, For Your sake we are killed all the day long; we are accounted as sheep for the slaughter They have all had their turn, but did any of them, or all of them put together, ever divide the saints from Christ?
 
 37-39. No, in all these things we are more than conquerors through Him that loved us. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature shall be able to separate us from the love of God which is in Christ Jesus our Lord. Blessed, forever blessed, be His holy name! Amen.
-
 
 ---
 [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2551 God's Knowledge of Sin|#2551 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # Jesus The Shepherd
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 652
 
-DELIVERED ON SUNDAY MORNING, OCTOBER 1, 1865,.
+*Delivered on Sunday Morning, October 1, 1865*
 
 > "He shall feed His flock like a shepherd." Isaiah 40:11.
 
@@ -170,7 +169,6 @@ The Shepherd reigning in Egypt, the Joseph you shall know soon. The Shepherd of 
 He is there, the Shepherd to whom if we look we shall live and live forever! God enable you to turn those poor eyes of yours which have been red with weeping over sin, or red with the drunkenness of wickedness and see in Jesus Christ your iniquity put away, Jehovah reconciled, and your souls eternally saved. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON-John 10—1-18;24-29.
-
 
 ---
 [[Sermon 0651 A Sermon From A Rush|← #651]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0653 A Blow For Puseyism|#653 →]]

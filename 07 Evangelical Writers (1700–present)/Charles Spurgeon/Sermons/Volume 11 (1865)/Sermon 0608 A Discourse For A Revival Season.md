@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # A Discourse For A Revival Season
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 608
 
-DELIVERED ON SUNDAY MORNING, JANUARY 8TH, 1865, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, January 8th, 1865, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Behold the voice of the cry of the daughter of My people because of them that dwell in a far country, Is not the Lord in Zion? Is not her King in her? Why have they provoked Me to anger with their graven images and with strange vanities? The harvest is past, the summer is ended and we are not saved." Jeremiah 8:19,20.
 
@@ -154,7 +153,6 @@ And let me tell you, those words will ring very differently then from what they 
 Oh, then you will cry, "Rocks, hide us! Mountains, fall upon us! We are not saved!" Those mountains shall have no ears for you—those rocks shall have no heart of compassion for you—there shall only be a dread reverberation of your awful cry, "We are not saved! We are not saved!" And when Hell opens wide her jaws and her tongue of fire shall lick up the ungodly, then, "We are not saved! We are not saved! We are not saved!" will be in dolorous contrast to that ever-swelling, ever-increasing song, "We have washed our robes and made them white in the blood of the Lamb. Hallelujah, Hallelujah, Hallelujah!"
 
 Shall it be "Hallelujah," Sinner, or shall it be, "We are not saved"? May God's eternal Grace work in you to will and to do of His own good pleasure and so make you to work out your own salvation with fear and trembling. And then may the question be decided and may you not have to say forever, "We are not saved." May God bless these words for Christ Jesus' sake. Amen.
-
 
 ---
 [[Sermon 0607 True Unity Promoted|← #607]] · [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0609 Knowledge Commended|#609 →]]

@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/16
 ---
-
 # The Model Home Mission and the Model Home Missionary
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 929
 
-DELIVERED ON THURSDAY EVENING, APRIL 14, 1870,.
+*Delivered on Thursday Evening, April 14, 1870*
 
 > "Who went about doing good." Acts 10:38.
 
@@ -154,7 +153,6 @@ They, go down into the deeps of the love of Christ, and give themselves altogeth
 I believe from the bottom of my soul that these single-handed men, who give themselves up to a special district and work it well, are the very greatest blessings that London can have. And if there is a young man here endowed with abilities, and perhaps with a little money and time, what better could I propose to him, as a lover of Christ, than to begin some such work for his Master? The same applies to Christian women. Oh, what good Christian women can do! There are those in this place whose names, if I were to mention them, would be had in honor by us all for what they have accomplished!
 
 Without obtruding themselves as preachers into public assemblies, they are working away for Christ privately, and bringing many into the Church of God. O Christian men and women, time is flying, men are dying, Hell is filling, Christ is waiting to see of the travail of His soul. I beseech you by the heart of God's mercy, by the heart of Christ, by His love for souls—bestir yourselves and proclaim salvation. May the Lord's blessing be with you. Amen.
-
 
 ---
 [[Sermon 0928 A New Song For New Hearts|← #928]] · [[Volume 16 (1870)|Volume 16 (1870) Contents]] · [[Sermon 0930 Away With Fear|#930 →]]

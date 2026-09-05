@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 2. Letter I. To Archbishop Zbinek (June 30, 1408)
-
-LETTER I. TO ARCHBISHOP ZBINEK (June 30, 1408)
 
 Hus remonstrates with Zbinek for having thrown into prison a priest named "Abraham"; Speaks strongly of the condition of the Bohemian clergy 12-14
 

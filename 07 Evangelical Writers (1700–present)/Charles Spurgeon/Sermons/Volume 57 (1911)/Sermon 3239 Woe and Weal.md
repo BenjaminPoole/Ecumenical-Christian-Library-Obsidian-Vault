@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # Woe and Weal
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3239
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will bear the indignation of the LORD, because I have sinned against Him, until He pleads my cause, and executes judgment for me, He will bring me forth to the light and I shall behold His righteousness." Micah 7:9.
 
@@ -85,7 +82,7 @@ Alas I know that there are some here who have their troubles and they have no Go
 
 my dear Friends, what it must be for your soul to have no home at the last—when the storm of wrath shall fall, to have nothing to comfort you—to be driven from God's Presence! To have no Father in Heaven. To find no warmth of love in the Divine heart. To see the happiness of angels and the joy of glorified spirits—perhaps to see your own children in Heaven and to be, yourselves, shut out! Dear ones whom you loved on earth, divided from you by a great gulf forever! Happily, the Day of Grace is not yet over! The Day of Mercy is not yet past! The long eternal night has not yet set in! Hurry, Sinner! There is a home for you if you have Grace to knock at this door! The door is Mercy! To knock is Prayer! To step across the threshold is Faith! Trust the Lord Jesus and you need not fear, though all your life you should be tried. You need not fear the accumulated terrors of the latter days, whatever they may be, nor fear the dread trumpet of Judgment, nor the last tremendous day! Fly to Jesus! Fly to Jesus! Fly to Jesus now! May His Spirit draw you this night! Amen.
 
-EXPOSITION BY C. H. SPURGEON: MICAH 7.
+## Exposition by C. H. Spurgeon: Micah 7
 
 The Prophet begins in a sorrowful strain and there is much that is sad in the chapter, yet there is also much of holy confidence in God.
 
@@ -142,7 +139,6 @@ SUBDUED.] and You will cast all their sins into the depths of the
 sea. We read about their sins in the earlier part of the chapter—and what a horrible catalog of evils it was! Yet here we read, "Who is a God like unto You, that pardons inquiry?" Even those mountainous sins of which the Prophet writes, the Lord will tear up by their roots and cast them into the depths of the sea!
 
 20\. You will perform the truth to Jacob, and the mercy to Abraham, which You have sworn unto our fathers from the days of old. There is our comfort! Our God is the Covenant-keeping God who will perform every promise that He has made. Even "if we believe not, yet He abides faithful: He cannot deny Himself." Blessed be His holy name!
-
 
 ---
 [[Sermon 3238 A Vision of the King|← #3238]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3240 The Blood of Christ's Covenant|#3240 →]]

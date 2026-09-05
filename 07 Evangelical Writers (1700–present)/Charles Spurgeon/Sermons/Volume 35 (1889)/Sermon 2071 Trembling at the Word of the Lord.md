@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Trembling at the Word of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2071
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "To this man will I look, even to him that is poor and of a contrite spirit and trembles at My Word." Isaiah 66:2.
 
@@ -148,7 +145,6 @@ afraid of falling under trial and cries, "Lead me not into temptation but delive
 But he who rashly rushes into temptation shall fall by it. He who watches by day as well as by night, puts on his armor when there seems no war, and carries his sword always drawn—even when there is no enemy visible—oh, that is the man who shall cope with the deadly enemy of souls! The Holy Spirit is in him and the Lord has regard unto him. He shall not fall by the hand of the enemy. Though oftentimes he trembles, he shall be safe at last. Glory shall thus be given to God that helped him. The self-confident would not have glorified God if he had succeeded, for he would have thrown up his cap inside the gates of Heaven, and magnified his own name.
 
 As for this man, he doffs his crown. "Non nobis, Domine," he cries, when he enters Heaven. "Not unto us, not unto us," is still his cry. Unto Him that loved us and washed us from our sins in His blood. Unto Him that kept us from falling and preserved us to His kingdom and glory, unto Him shall be all honor. Every man who this day trembles at God's Word says "Amen" to this. God bless you, my Beloved. The Lord Himself look to you and dwell with you! Amen.
-
 
 ---
 [[Sermon 2070 Christ's Connection With Sinners the Source of His Glory|← #2070]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2072 Breakfast With Jesus|#2072 →]]

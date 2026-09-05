@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # The Rule and Reward of Serving Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2449
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "If anyone serves Me, let him follow Me, and where I am there My servant will be also: if anyone serves Me, him will My Father honor." John 12:26.
 
@@ -95,9 +92,9 @@ And then, at last, when we come to die, or when we stand at the Judgment Seat of
 
 I have preached all this to God's people, but I have not said anything to you who are not His people. I cannot invite you to His service as you are—how can you serve Him while you are His enemies? I do not invite you unconverted people to work for God. Oh, no! He wants no such servants as you are! He will not have rebels in His host. First bow your knee in submission, lay down the weapons of your rebellion—then fly to Christ for mercy! Trust in Him for forgiveness and then, but not till then, you may come and serve Him, and follow Him, and expect that His Father will honor you as He has promised. God bless you, for Jesus' sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—625, 262, 785.
+## Hymns from "Our Own Hymn Book"—625, 262, 785
 
-EXPOSITION BY C. H. SPURGEON: JOHN17.
+## Exposition by C. H. Spurgeon: John 17
 
 This chapter contains the marvelous prayer of our Great High Priest. May the Holy Spirit apply its teaching to our hearts as we read it!
 
@@ -148,7 +145,6 @@ there was no boasting in our Lord—but truthfully, conscientiously—from the b
 24\. Father, I will that they, also, whom You have given Me, be with Me where I am; that they may behold My Glory, which You have given Me: for You loved Me before the foundation of the world. This is Christ's last will and testament— "Father, I will." It is not merely His prayer, but He makes this as one clause in His will, that all whom the Father gave Him should be with Him to behold His Glory. And it will be so, Beloved. He will not lose one of His own. He will never drop from those dear pierced hands any portion of the eternal gift of His Father!
 
 25, 26. O righteous Father, the world has not known You: but I have known You, and these have known that You have sent Me. And I have declared unto them Your name, and will declare it: that the love wherewith You have loved Me may be in them, and I in them. Here the doctrine becomes a matter of experience! May we never rest till we get the full experience of it, that the very love which God gives to Christ may be found in our hearts shed abroad by the Holy Spirit! Amen.
-
 
 ---
 [[Sermon 2448 Herein Is Love|← #2448]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2450 The Joy of Redemption|#2450 →]]

@@ -9,10 +9,7 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 **ON THE**
 

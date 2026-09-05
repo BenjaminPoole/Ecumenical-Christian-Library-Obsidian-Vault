@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Far-reaching Promise
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2586
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call." Acts 2:39.
 
@@ -57,7 +54,7 @@ Our commission is, "Go you into all the world and preach the Gospel to every cre
 
 III. That next point is this. Inasmuch as everything that a sinner needs for his salvation is made a matter of promise, and that promise is made to all that hear the Gospel, then, Brothers and Sisters, THIS IS A CAUSE FOR VERY GREAT
 
-ENCOURAGEMENT.
+## Encouragement
 
 I hope that I am addressing some who are pierced in the heart and who, therefore, want to find Christ. Well, see what a promise you have to come upon! And many have come to the Lord with far less encouragement When Jonah went to Nineveh, to utter his mournful and monotonous message, "Yet forty days and Nineveh shall be overthrown," the king believed it and his people believed it—and they humbled themselves before God. Yet what had they to go upon? Only this, "Who can tell?" They said, "Who can tell if God will turn and repent, and turn away from His fierce anger, that we perish not?" So they came to God with no other encouragement but, "Who can tell?" Take heed, you who hear the Gospel, that the men of Nineveh do not rise up in judgment against you to condemn you!
 
@@ -89,7 +86,7 @@ Therefore, that is a promise to me! Well do I recollect the time when I first la
 
 Look, Sirs, look! It is not for God's honor to cast out a soul that comes to Him. Suppose that there should be cast out one soul that came to Christ? Suppose that one sinner who trusted in Christ should perish? I know what men would do. They would directly publish all round the world, "God has broken His Word! The Gospel has failed, for here is a soul lost that trusted in Christ!" You do not suppose God will allow that, do you? In imagination, I see that poor soul going down to Hell. He is no sooner there than the devil says to him, "Did you trust Christ?" "Yes, I did." "Did He refuse to save you?" "Yes, He did." "Do you mean to say that you fulfilled the Word of God, 'He that believes and is baptized'?" "Yes, I did." "And yet you are not saved!" Oh, what a roar of laughter would go all round the Pit! How every fallen spirit, rising from his dungeon, would begin with unhallowed glee to shout and yell! How through the deep compound of pandemonium, where evil reigns supreme, there would go up their hisses and their hoots against a defeated Savior—against a conquered Christ—against a lying God—against One that said, and did not do, and that spoke, and was not true. "Aha, aha, Emmanuel, Diabolus has defeated You! Aha, aha, Jehovah, Your Word is forfeited!" Shall such a thing ever be? You shudder as I picture it. It never shall be! Heaven and earth shall pass away and, as a moment's foam dissolves into the wave that bears it, and is lost forever, so shall the universe pass away, but never shall a sinner come and cast himself on Christ—and yet be allowed to perish! Try it, Sinner! Try it! Try it now! God help you to try it, and to prove that, still, Christ receives sinners and casts out none who trust Him! The Lord bless you, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS2:1-42.
+## Exposition by C. H. Spurgeon: Acts 2:1-42
 
 We cannot too often read the story of that wondrous outpouring of the Holy Spirit on the day of Pentecost. And let us never read it without asking the Lord to manifest in our midst the fullness of the Spirit's power. We may not have a repetition of the miraculous gifts which were then bestowed upon the Apostles and those who were with them, but we may have that gracious influence which shall convince and convert those who gather to hear the Word. Our success in preaching the Word is entirely dependent upon the Presence and working of the Holy Spirit. Therefore, let our prayer be—
 
@@ -124,7 +121,6 @@ To pray, and praise, and love." Verses 1-13. And when the day of Pentecost was f
 37-40. And said unto Peter and to the rest of the Apostles, Men and brethren, what shall we do? Then Peter said unto them, Repent and be baptized, every one of you, in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit. For the promise is unto you and to your children, and to all that are afar of, even as many as the Lord our Godshall call. And with many other words didhe testify and exhort, saying, Save yourselves from this untoward generation. Not, "save yourselves," but, "save yourselves from this untoward generation." Come out from among them! They are guilty of the death of Christ. You will be found guilty of it, too, unless you now disown the people who committed that awful crime! Come right out from among them and be altogether separated from them.
 
 41, 42. Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. And they continued steadfastly in the Apostles' doctrine and feelowship, and in breakkng of bread, and in prayers.
-
 
 ---
 [[Sermon 2585 Spiritual Glean1ng|← #2585]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2587 Much More|#2587 →]]

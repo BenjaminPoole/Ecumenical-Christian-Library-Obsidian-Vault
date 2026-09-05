@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/37
 ---
-
 # "Lay Hold on Eternal Life!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2226
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Lay hold on eternal life." 1 Timothy 6:12.
 
@@ -121,7 +118,7 @@ I have not explained my text so fully or so clearly as I could wish. The life of
 
 III. Now I have to finish with just a special word. WHO ARE THE PEOPLE THAT OUGHT CHIEFLY TO LAY
 
-HOLD ON ETERNAL LIFE?
+## Hold on Eternal Life?
 
 First, those who are called. This is the reason the Apostle gives to Timothy—"whereunto you are also called." Beloved, there are some of you that have been called. A boy, who had come upon an errand, stood at my window this afternoon. Suddenly he ran away and I thought, "What made him go?" I found out that though I had not heard the voice, someone had called him and, therefore, he was gone. Imitate that boy! Go about this world as men who have been called by a voice that nobody has heard but you! Has God called you to Himself? He means you to come away from your old self and cease to live the old life—He would have you lay hold on eternal life! God never singles us out in this way unless He means to bless us! He never says, "Seek you My face," in vain! Has God called you out from among men? Do you feel what your parents and friends at home do not feel? Is there a call to you like that call, "Samuel, Samuel," and have you responded, "Here I am, for You did call me. Speak, for Your servant hears"? Oh, if God has favored you with a special and effectual call, then lay hold on eternal life with your whole heart and soul—and never let it go! Come what may, resolve that you will hold to this gift of God in life, in death and throughout eternity!
 
@@ -136,7 +133,6 @@ You, poor Sinner, as you go after your follies and amusements, may the call, "La
 you who get the "cold shoulder" and the rough side of men's tongues, when you begin to think that you cannot bear it, may you hear the voice saying, again, "Lay hold on eternal life." Cling to that, for God, for Christ, for eternity, for Heaven! The eternal life is the only life worth living! God help you to live for it always and, if you do, it will be of His own Grace—and to Him shall be all the Glory, forever and ever! Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 Timothy 6.
-
 
 ---
 [[Sermon 2225 A Clarion Call to Saints and Sinners|← #2225]] · [[Volume 37 (1891)|Volume 37 (1891) Contents]] · [[Sermon 2227 Wanted!—Volunteers|#2227 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # Love's Climax
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2394
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Herein is love, not that we loved God, but that He loved us, and sent His Son to be the propitiation for our sins." 1 John 4:10.
 
@@ -69,7 +66,7 @@ I have spoken to you, therefore, of two things that enhance God's love—love to
 
 III. But now, thirdly, one of the things that make God's love seem very wonderful is that it is LOVE PROVIDING A
 
-PROPITIATION.
+## Propitiation
 
 I have heard it asked, "Why did not God just wipe out human sin, and say to the guilty, 'There, there, you have done wrong, but I have forgiven you'"? Now, if He had done that, what inference would you have drawn from such action on His part? Certainly you would not have been able to say, "Herein is love," in the sense in which you can now say it.
 
@@ -103,7 +100,7 @@ It seems to me so sad that there should be anybody in the world who does not bel
 
 But you who are poor and needy, burdened with sin and full of guilt, this is the God for you! This is the Christ for you! Come and have Him, come and trust Him and then sing with all of us who have believed in Him—"Herein is love, not that we loved God, but that He loved us, and sent His Son to be the propitiation for our sins!" May His blessing rest on you all, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 4; PHILIPPIANS 4:1-9.
+## Exposition by C. H. Spurgeon: 1 John 4; Philippians 4:1-9
 
 1 John 4:1. Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. If John had need to say that in the early morning of Christianity, I am sure we ought to say it with greater emphasis today! It is certainly true in these days that, "many false prophets are gone out into the world." Therefore we, also, must, "try the spirits whether they are of God."
 
@@ -146,7 +143,6 @@ God."
 7, 8. And the peace of God, which passes all understanding, shall keep your hearts and minds through Christ Jesus. Finally, brethren, whatever things are true, whatever things are honest, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think on these things. Be on the side of everything that is good and right, everything that helps true human progress, everything that increases virtue and purity. As a Christian, take an interest in everything that helps to make men true, honest, just, pure, and lovely.
 
 9\. Those things, which you have both learned, and received, and heard and seen in me, do; and the God of peace shall be with you. May the Lord fulfill that gracious Word to all of us, "The God of peace shall be with you"! Amen.
-
 
 ---
 [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2395 The Blessings of Public Worship|#2395 →]]

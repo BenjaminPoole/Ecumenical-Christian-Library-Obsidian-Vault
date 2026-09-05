@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 208. Matthew 27:15-23; Mark 15:6-14; Luke 23:13-23
-
-MATTHEW 27:15-23; MARK 15:6-14;  
-LUKE 23:13-23
 
 **15.** Now the governor was wont at the festival to release to the multitude one prisoner, whomsoever they wished. **16.** And they had at that time a notable prisoner, who was called Barabbas. **17.** When they were assembled, therefore, Pilate said, Which of them do you wish that I should release to you? Barabbas, or Jesus, who is called Christ? **18.** For he knew that they had delivered him up through envy. **19.** And while he was sitting on the judgment-seat, his wife sent to him, saying, Have thou nothing to do with that righteous man; for I have suffered many thing today in a dream on his account. **20.** But the chief priests and the elders persuaded the multitude to ask Barabbas, and put Jesus to death. **21.** And the governor, answering, said to the, Which of the two do you wish that I shall release to you? And they said Barabbas. **22.** Pilate said to them, What then shall I do with Jesus who is called Christ? They all say to him, Let him be crucified. **23.** And the governor said, But what evil hath he done? But they cried so much the more, saying, Let him be crucified.
 

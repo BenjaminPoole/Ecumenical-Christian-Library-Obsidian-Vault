@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # John Mark—or, Haste in Religion
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3023
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they all forsook Him, and fled. And there followed Him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him: and he left the linen cloth, and fled from them naked." Mark 14:50-52.
 
@@ -106,7 +103,6 @@ Colossians 4:10-11. Aristarchus my fellow prisoner salutes you, and Marcus, sist
 Philemon 23, 24. There salute you Epaphras, my fellow-prisoner in Christ Jesus; Marcus, Aristarchus, Demas, Lucas, my fellow laborers.
 
 1 Peter 5:13. The church that is at Babylon, elected together with you, salutes you; and so does Marcus my son.
-
 
 ---
 [[Sermon 3022 God's Innumerable Mercies|← #3022]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3024 Christ's Death And Ours|#3024 →]]

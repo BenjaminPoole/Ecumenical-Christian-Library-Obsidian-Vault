@@ -10,6 +10,7 @@ written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---
+# Psalms
 
 [434] *Concerning the Book of Psalms.* That the penman of the Psalms did pretend to speak and write by the inspiration of the Spirit of God as much as the prophets when they wrote their prophecies, the following things do confirm:
 

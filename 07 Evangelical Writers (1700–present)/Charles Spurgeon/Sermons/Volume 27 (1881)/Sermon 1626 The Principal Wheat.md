@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # The Principal Wheat
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1626
 
-DELIVERED ON THURSDAY EVENING, AUGUST 25, 1881,.
+*Delivered on Thursday Evening, August 25, 1881*
 
 > "The principal wheat." Isaiah 28:25.
 
@@ -158,7 +157,6 @@ As He made the fish for the water and the birds for the air, so He has made the 
 In the world to come what a crop, what a harvest will come of serving the Lord! What will come out of all else? Nothing but vanity of vanity! A man has made millions and he is dead. What is he the better for his gold? A warrior becomes an emperor—his fame rings throughout all the earth! He dies. What has he of all his honors? What will any of you have at the last if you live to the world? To live to the world is like playing with boys in the street for halfpence, or entertaining yourself as children do with bits of platter and oyster shells. Only a life devoted unto God yields real and substantial results—all else is waste.
 
 Let us think so and gird up our loins to serve the Lord! May the Divine Spirit help us to sow the principal wheat and live in joyful expectation of reaping a joyous harvest in due season, according to the promise, "They that sow in tears shall reap in joy." That which was the cause of our principal anxiety, here, shall be the source of our endless felicity hereafter!
-
 
 ---
 [[Sermon 1625 Without Christ—Nothing|← #1625]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1627 Baptism—A Burial|#1627 →]]

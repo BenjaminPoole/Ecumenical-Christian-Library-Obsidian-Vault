@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/06
 ---
-
 # Effects Of Sound Doctrine
 
 *New Park Street Pulpit* · Sermon No. 324
 
-DELIVERED ON SABBATH EVENING, APRIL 22, 1860, BY THE REV. C. H. SPURGEON, AT NEW PARK STREET CHAPEL, SOUTHWARK..
+*Delivered on Sabbath Evening, April 22, 1860, by the Rev. C. H. Spurgeon, at New Park Street Chapel, Southwark*
 
 > Matthew 24:24.
 
@@ -37,7 +36,7 @@ A man may be evidently of God's chosen family and yet, though elected, may not b
 
 Having thus cleared the way by cutting down a few of the trees that have been standing in my track, I proceed to notice the real effect of the Doctrine of Election upon the true Christian. I shall divide my subject thus—the influence it has upon our opinions, our emotions, our experiences, our devotions, and our actions. I conceive that these five embrace the whole of the Christian life.
 
-I. THE BELIEF IN THE DOCTRINE OF ELECTION HAS A HIGHLY SALUTARY EFFECT UPON OUR OPINIONS.
+## I. The Belief in the Doctrine of Election Has a Highly Salutary Effect upon Our Opinions
 
 Any observer who has looked through the history of the Church, will not fail to have discovered that there has been a salting influence exercised by the Doctrine of Grace upon the minds of those who have been rooted and grounded in its strong and fruitful soil. At the present time, Lutheranism on the continent is scarcely better than infidelity. I have been informed by those who are capable of judging, that too many of the followers of Luther have become degenerate, have cast aside spirituality and have really returned to the beggarly elements of Romanism, even though they persist in their Protestant profession. But, my Brothers and Sisters, the like cannot be said of the followers of Calvin. The Dutch Reformed Church, albeit that there may be much in it over which we might mourn, has never departed from the Truth as it is in Jesus. Enter the place of worship where the Reformed occupy the pulpit, and you need not be at any loss to discover the way to Heaven. There may be too much dryness in their prayers, and too much dullness in their mode of preaching, but the Truth of God, the vital Truth, is there and God still acknowledges it in the salvation of sinners. They may not bear so high a fame or exert so wide an influence as their noble ancestors, but they have not turned aside to heresy, or perverted the Truths of the Gospel of Christ! And with all the defections of the present age, albeit that Sectarians of all classes have seceded to the Church of Rome, I can scarcely remember a solitary instance where any man who has once embraced that "form of sound words" called the Doctrines of Grace, has ever forsaken them—at least to turn aside to the desperate heresy of that false Roman church! The truth is that the Doctrine of Election, with the sister Truths linked with it, acts as a great anchor. It holds fast the soul, and through the influence of the Holy Spirit, a man is brought to feel that he has something stable to rely upon, which he cannot and will not leave to be tossed about upon a sea, without chart or compass, at the mercy of every wind of doctrine.
 
@@ -93,8 +92,7 @@ I have gone a great way into controversy tonight. It is not often I do so. But e
 
 Adapted from The C. H. Spurgeon Collection, Version 1.0, Ages Software.
 
-PRAY THE HOLY SPIRIT WILL USE THIS SERMON TO BRING MANY TO A SAVING KNOWLEDGE OF JESUS CHRIST.
-
+## Pray the Holy Spirit Will Use This Sermon to Bring Many to a Saving Knowledge of Jesus Christ
 
 ---
 [[Sermon 0323 Vile Ingratitude!|← #323]] · [[Volume 06 (1860)|Volume 06 (1860) Contents]] · [[Sermon 0325 Constraining Love|#325 →]]

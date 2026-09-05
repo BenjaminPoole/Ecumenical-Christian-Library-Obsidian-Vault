@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # Christ's Indwelling Word
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2679
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Let the word of Christ dwell in you richly inn all wisdom; teaching and admonishing one another in Psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord." Colossians 3:16.
 
@@ -93,7 +90,7 @@ You have been upstairs to pray, you say, and you have got no comfort from the ex
 
 Praise God, then, "in Psalms and hymns and spiritual songs," and if you say you do not know how to do it, then "let the word of Christ dwell in you richly." It is a praise-begetting thing! Out of every Book of Scripture will stream praises unto Jehovah. Out of every promise will spring a sonnet. Out of every Divine Truth enjoyed and lived upon will rise a spiritual song. The whole Revelation of God is the condensed essence of praise—you have only to give it a fitting opportunity, by setting it simmering on the fire of a graceful heart—and you shall find a sweet cloud of holy incense rising from it, acceptable to the Most High. Therefore, Beloved, be much with your Bibles and let your Bibles be much with you—for your own profit, for the profit of others and for the glory of God! So be it, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: COLOSSIANS 3:1-17.
+## Exposition by C. H. Spurgeon: Colossians 3:1-17
 
 Verse 1. If you then are risen with Christ, seek those things which are above, where Christ sits at the right hand of God. Your Lord and Master has gone up to Heaven. You profess that He represents you and that you have gone up there in Him and with Him. Then do not seek the things that are down here below, the things of earth—but live where your life has gone. Where your treasure is, there let your heart be also. "Seek those things which are above."
 
@@ -148,7 +145,6 @@ there should be public strife among members of the one body! God grant that such
 16, 17. Let the word of Christ dwellin you richly in all wisdom; teaching and admonishing one another in Psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord. And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by Him. Do not draw any line of demarcation, and say, "So far is secular and so far is religious." Let your whole life be religious—and if there is anything proposed to you in which you cannot glorify God—do not touch it! "Whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by Him."
 
 If any of you go to the theater, can you go there in the name of the Lord Jesus? Why, you would not dare to cross the threshold with such blasphemy in your soul! And when you go to any place of doubtful amusement, can you go there giving thanks to God and the Father by Jesus Christ? Can you thank the Lord that you are permitted to go and pray for Divine blessing when you go and when you leave? A lady once said to a Christian minister, "The pleasures of going to the play are very great. There is the pleasure of thinking of it beforehand, the enjoyment of it at the time, and then the pleasure of thinking of it afterwards." "Yes, Madam," said the good man, "and there is one other pleasure which you seem to have forgotten—that is the pleasure of thinking of it on your dying bed. I would like you to remember that."
-
 
 ---
 [[Sermon 2678 The Lesson of the Almond Tree|← #2678]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2680 Ruth Deciding for God|#2680 →]]

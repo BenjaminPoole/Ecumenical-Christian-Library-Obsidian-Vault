@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # The Lord's Supper—simple But Sublime!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3151
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "This do you, as often as you drink it, in remembrance of Me. For as often as you eat this bread, and drink this cup, you proclaim the Lord's death till He comes." 1 Corinthians 11:25,26.
 
@@ -77,7 +74,7 @@ Well, dear Friends, as we come together at the Table, we will be remembering any
 
 Well, now, may we accomplish these two designs—to remember Christ and to show His death. We can only do it by His Spirit. Let us, with bowed head, ask for that Spirit. Let us seek that we may worship Christ in spirit and in truth while we receive the outward symbols of His suffering.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 17; 18:1-9.
+## Exposition by C. H. Spurgeon: John 17; 18:1-9
 
 Chapter 17:1. These words spoke Jesus, andlifted up His eyes to Heaven, andsaid, Father, the hour is come; glorify Your Son; that Your Son also may glorify You. Christ's great intercessory prayer begins with His appeal to His Father to glorify His Son. Christ knew all that He would have to suffer during that "hour" to which He had looked forward to from eternity, but His eyes could see beyond the gross with all its shame, the crown with all its glory! The Son being glorified, He would also glorify His Father and there is a wondrous Glory that comes to the Father through the death of His Son upon the Cross.
 
@@ -172,7 +169,6 @@ Master's place of retirement for private prayer and he had, doubtless, heard the
 them which You gave Me have I lost none. [See Sermons #2368, Volume 40—THE LIVING CARE OF THE DYING CHRIST and #2616, Volume 45— CHRIST'S CARE OF HIS DISCIPLES.] That was a very gracious saying of
 
 Christ's, "If therefore you seek Me, let these go their way." This is what Christ says on His people's behalf to death and to the Law and the justice of God. And though this saying does not excuse the disciples' flight, it does make some sort of apology for their going away, every man to his own home. Christ knew that they would be safer there. One of them followed Him afar off instead of going his way—and you know what came of it. There is a time for openly following Christ, but there is a time when Jesus says, "Let these go their way." So, right to the end He takes care of His sheep and bids them scatter for a while now that the sword is about to enter their Shepherd's heart.
-
 
 ---
 [[Sermon 3150 'Never, No Never, No Never'|← #3150]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3152 The Lower Courts|#3152 →]]

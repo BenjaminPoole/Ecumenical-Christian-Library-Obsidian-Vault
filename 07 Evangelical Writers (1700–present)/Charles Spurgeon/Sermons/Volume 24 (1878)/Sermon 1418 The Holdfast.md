@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Holdfast
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1418
 
-DELIVERED ON LORD'S-DAY MORNING, JUNE 9, 1878,.
+*Delivered on Lord's-Day Morning, June 9, 1878*
 
 > "Take fast hold of instruction; let her not go: keep her; for she is your life." Proverbs 4:13.
 
@@ -43,7 +42,7 @@ But this evidence can be imitated so skillfully that the best examination and th
 
 If a man shall, in later life, hold fast to the things of God, he must be soundly converted at first. Very much of his later life depends upon the thoroughness of his beginning. There must at the very first be a deep sense of sin, a consciousness of guilt, a holy horror of evil, or he will never make much of a Christian. I do not say that all or even any of those doubts and temptations and Satanic suggestions which some have had to struggle with are necessary to make a true conversion. But I must confess that I am not at all displeased when I meet with a good deal of battling and struggling in the experience of the newly awakened. It is not pleasant for them, but we hope it will be profitable. Those whose souls are plowed and plowed and plowed again before the seed is sown upon them often yield the best crop.
 
-John Bunyan's, "Grace Abounding," very much accounts for John Bunyan's, "Pilgrim's Progress." If it had not been for his terrible conflicts of soul, he might not have known how to hold fast to his confidence when shut up for 12 years in prison. Nor would he have seen visions of the Celestial City, when all around him was as the valley of the shadow of death! I do not wish to see seeking souls distressed by Satan, but I do press for this—that there shall be an end of self-trust, a total destruction of self- righteousness, a complete giving up of all legal and carnal hopes. If not, the conversion will be a mere show and he who is the subject of it will be like Ephraim—a silly dove without a heart. Unless repentance of sin is real in you, you will never take fast hold of the Truth of God.
+John Bunyan's, "Grace Abounding," very much accounts for John Bunyan's, "Pilgrim's Progress." If it had not been for his terrible conflicts of soul, he might not have known how to hold fast to his confidence when shut up for 12 years in prison. Nor would he have seen visions of the Celestial City, when all around him was as the valley of the shadow of death! I do not wish to see seeking souls distressed by Satan, but I do press for this—that there shall be an end of self-trust, a total destruction of self-righteousness, a complete giving up of all legal and carnal hopes. If not, the conversion will be a mere show and he who is the subject of it will be like Ephraim—a silly dove without a heart. Unless repentance of sin is real in you, you will never take fast hold of the Truth of God.
 
 And there must be, dear Friends, a very sincere laying hold upon Christ Jesus. If you have any doubt about the doctrine of Atonement, I am not surprised if your religion soon wears into shreds. No, you must, without question, accept the Substitutionary Sacrifice. Your soul must feel that the precious blood is her only hope—that this, and this alone—can make her clean before the living God! You must fly to Christ in desperation and cling to Him as all your salvation and all your desire—there can be no hesitancy here. At the very outset of the Christian life these two things should be very distinct with you—sin which has ruined you and Christ who has saved you! Make a muddle at first and your life will be a tangle.
 
@@ -124,7 +123,6 @@ We, also, should thus place the Truth of God in our inward parts and then we sha
 The huge monster ran out for the length of a mile from the ship and then turned round. And with the whole force of its acquired speed struck the ship and made it leak at every timber, so as to begin to go down. The sailors got out all their boats, filled them as quickly as they could with the necessaries of life and began to pull away from the ship. Just then two strong men were seen leaping into the water who swam to the vessel, scrambled on board, disappeared for a moment and then came up, bringing something in their hands. Just as they sprang into the sea down went the vessel, and they were carried round in the vortex, but they were observed to be both of them swimming, not as if struggling to get away, but as if looking for something, which at last they both seized and carried to the boats.
 
 What was this treasure? What article could be so valued as to lead them to risk their lives? It was the ship's compass which had been left behind—without which they could not have found their way out of those lonely southern seas into the high road of commerce! That compass was life to them and the Gospel of the living God is the same to us! You and I must venture all for the Gospel! This Infallible Word of God must be guarded to the death! Men may tell us what they please and say what they will, but we will risk everything sooner than give up those eternal principles by which we have been saved! The Lord give all of us His abundant Grace that we may take fast hold of Divine instruction. Amen.
-
 
 ---
 [[Sermon 1417 Your Salvation|← #1417]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1419 Encouragement to Trust and Pray|#1419 →]]

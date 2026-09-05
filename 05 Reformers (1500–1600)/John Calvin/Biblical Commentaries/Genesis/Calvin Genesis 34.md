@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 34
 
-**CHAPTER 34.**
+***Chapter 34.***
 
 ## Genesis 34:1-31
 

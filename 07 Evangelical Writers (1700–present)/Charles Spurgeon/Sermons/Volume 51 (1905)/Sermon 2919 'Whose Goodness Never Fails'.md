@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # 'Whose Goodness Never Fails'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2919
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am the Good Shepherd: the Good Shepherd gives His life for the sheep." John 10:11.
 
@@ -99,7 +96,7 @@ And then add, "I am so glad that I can say that I love Him. He knows all things 
 
 Now I have done, but I hope the Lord Jesus has not done. We are going to hold the Communion service and there are many of you that are going away, and going away rightly, too, because you could not come to the Table of the Lord without being hypocrites. You know that you do not love Jesus and have not trusted in Him. As you go away I pray the Good Shepherd to go after you—and before you reach your houses tonight I pray that He may get such a grip of you with those strong but tender hands of His, that He may never let you go till He brings you, also, into His fold! If not here, yet somewhere else, for I am sure that in this house He has other sheep which are not yet of His fold, whom He must bring that there may be one flock and one Shepherd! May He bring you in tonight, for His mercy's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM23; ISAIAH40:9-11; EZEKIEL 34:11-25.
+## Exposition by C. H. Spurgeon: Psalm 23; Isaiah 40:9-11; Ezekiel 34:11-25
 
 We shall view Christ in the office of a Shepherd and the first passage we read sets before us faith proving Christ in that office—accepting Him, trusting Him, following Him.
 
@@ -120,7 +117,6 @@ Ezekiel 34:11,12. For thus says the Lord God, BeholdI, even I, wiil both search 
 17, 18. And as for you, O My flock, thus says the Lord God; Behold, I judge between cattle and cattle, between the rams and the he goats. Seems it a small thing unto you to have eaten up the goodpasture, but you must tread down with your feet the residue of your pastures? And to have drunk of the deep waters, but you must foul the residue with your feet? Truly there are some vain-glorious Christians who not only will not receive the Gospel, themselves, but actually find fault with it, insinuate doubts into the minds of others and prevent the simple-minded people of God feeding on the pasture which the Lord provides for them! See one of the evils of being great and strong in your own esteem—you are pretty sure to despise the very pasture which was quite good enough for you when you were weaker and feebler. That very Truth of Jesus Christ which was marrow and fatness to you when you were hungry, comes to be despised as the manna was by the children of Israel when they called it "light bread." There is no savor in it that you should desire it. Blessed, blessed hunger that makes the Word of God to be always sweet!
 
 19-25. Andas forMy flock, they eat that which you have trodden with yourfeet and they drink that which you have fouled with your feet. Therefore thus says the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle. Because you have thrust with side and with shoulder, and pushed all the diseased with your horns till you have scattered them abroad; Therefore wiil I save My flock, and they shall no more be a prey, and I will judge between cattle and cattle. And I will set up one shepherd over them, and he shall feed them, even My servant David; he shall feed them, and he shall be their shepherd. And I the LORD will be their God, and My servant David a prince among them; I the LORD have spoken it. And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods. What perfect assurance for Christ's flock when, in the very place where the wolf once ranged, they shall be able to lie down and sleep in perfect safety! Happy people, with all their weaknesses, who have Divine Strength to be their protection! O my Soul, seek no other strength than this, but learn the Apostle's logic and his true Christian philosophy so that, like he, trusting in the Mighty Shepherd, you will be able to say "When I am weak, then am I strong."
-
 
 ---
 [[Sermon 2918 Facing the Wind|← #2918]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2920 Election-its Defenses and Evidences|#2920 →]]

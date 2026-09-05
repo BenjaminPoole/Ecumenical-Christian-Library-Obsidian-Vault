@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/38
 ---
-
 # An Ancient Question Modernized
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2286
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And the people said unto me, Will you not tell us what these things mean to us, that you behave so?" Ezekiel 24:19.
 
@@ -101,7 +98,7 @@ Come and put your trust in Him who died for the ungodly! He that believes in Him
 
 I believe that, when I once began to plead with my Lord, I should ask for every one of you! At any rate, why should I leave anyone out? Which one should I leave out? When I was preaching, once, in the great plow-shed of Mr. Howard, of Bedford, (they had cleared out all the plows to make room for a large congregation), His dear old father was sitting on the platform with me, and in the afternoon I prayed that the Lord would give us some souls. I asked that a few might be converted. After the service, the good old saint said, "I enjoyed your preaching, but I did not enjoy your praying. I did not say, 'Amen,' when you asked the Lord to give us a few souls. My dear Brother," he said, "I would not be content unless He gave us hundreds! Go in for it tonight," he added, "pray for hundreds to be converted." I thought, what a good thing it was to have a Brother with larger faith than one's own! Now may the Lord make some of you, who have great faith, like good old Mr. Howard, to pray the Lord to save the whole ship's company here tonight! Why should they not all be brought in to the praise of the glory of His Grace? God grant it, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON EZEKIEL 33:1-20;30-33.
+## Exposition by C. H. Spurgeon Ezekiel 33:1-20;30-33
 
 Verses 1-4. Again the word of the LORD came unto me, saying, Son of man, speak to the children of your people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: if when he sees the sword come upon the land, he blows the trumpet, and warns the people; then whoever hears the sound of the trumpet, and takes not warning; if the sword comes, and takes him away, his blood shall be upon his own head. In that case the watchman is quite clear. He has done his duty, he has sounded an alarm, and a fitting alarm, upon the trumpet. He has sounded it immediately, without loitering or delaying. He has not been afraid of giving uneasiness to men—he has done his duty, fearless of remark, and he is clear. Happy also is he in knowing that, by heeding the trumpet's warning blast, many have escaped the threatened danger. Still, even then it seems that there are some who hear the trumpet and will not take the warning. That is the sad part of our service—it makes the most successful ministry to be fringed with black. It cannot be all joy for him who wins the most souls for God, for at times he can sympathize with his Brothers, the Prophets, in their sorrowful enquiry, "Who has believed our report? And to whom is the arm of the Lord revealed?" Listen to this, you who hear the Gospel and yet do not repent! If you heed not the warning, your blood will be on your own head!
 
@@ -132,7 +129,6 @@ uity; he shall surely live, he shall not die. None of his sins that he has commi
 32\. And, lo, you are unto them as a very lovely song of one that has a pleasant voice, and can play well on an instrument: for they hear your words, but they do them not. Preaching seems to such people to be only a song, or a piece of acting for their amusement—but it is not so. They that can find sport in the things of God will find it dull sport in Hell when they shall be forever driven away from the Presence of God, and from the glory of His power!
 
 33\. And when this comes to pass, (lo, it will come), then shall they know that a Prophet has been among them. But then it will be too late for them to know it, for they will have missed their opportunity of profiting by the message that the Prophet delivered to them! God grant that it may not be so with any one of us, for His abounding mercy's sake! Amen.
-
 
 ---
 [[Sermon 2285 Paul, the Ready|← #2285]] · [[Volume 38 (1892)|Volume 38 (1892) Contents]] · [[Sermon 2287 If There Is No Resurrection|#2287 →]]

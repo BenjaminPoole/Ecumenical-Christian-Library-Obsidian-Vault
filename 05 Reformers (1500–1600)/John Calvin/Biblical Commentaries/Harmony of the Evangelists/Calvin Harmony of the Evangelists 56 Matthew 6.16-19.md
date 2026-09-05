@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 56. Matthew 6:16-19
-
-**MATTHEW 6:16-19**
 
 **16**. Moreover, when you shall fast, be not, like the hypocrites, dejected: [^1] for they disfigure their faces, that it may be evident to men that they fast. Verily I say to you, they have their reward. **17**. But thou, when thou fastest, anoint thy head, and wash thy face, **18**. That it may not appear to men that thou fastest, but to thy Father, who is in secret, and thy Father, who seeth in secret, will reward thee openly.
 

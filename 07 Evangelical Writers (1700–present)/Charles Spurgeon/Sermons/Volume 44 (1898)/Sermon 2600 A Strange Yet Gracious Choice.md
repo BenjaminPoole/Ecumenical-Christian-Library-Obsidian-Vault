@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # A Strange Yet Gracious Choice
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2600
@@ -93,7 +92,7 @@ Go home, then, and take delight in God. If He can and delight in you, much more 
 
 The Lord be with you, Beloved, for Jesus Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM135.
+## Exposition by C. H. Spurgeon: Psalm 135
 
 Verse 1. Praise you the LORD. Or, "Hallelujah." "Hallelujah" is the keynote of it. So this is one of the Hallelujah Psalms, for so it begins. And if you look at the end, you will see that so it closes. There is, "Hallelujah," again. The whole Psalm is shut in at the beginning and at the end with this which is both our duty and our delight! "Praise you the Lord."
 
@@ -146,7 +145,6 @@ Ancient of Days, His rich and distinguishing Grace."
 21\. Blessed be the LORD out of Zion, which dwells at Jerusalem. Our inmost hearts would bless Him. We cannot make Him more blessed than He is! We cannot add to His Glory, but, oh, we do wish that everything we can do, everything that can be done to His honor, may be done!
 
 21\. Praise you the LORD. That is, once again, "Hallelujah!" Oh, for the spirit of Divine Grace to set us praising God from the heart—and to keep us at that holy exercise all our days!
-
 
 ---
 [[Sermon 2599 A Visit From the Lord|← #2599]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]] · [[Sermon 2601 Small Things Not to Be Despised|#2601 →]]

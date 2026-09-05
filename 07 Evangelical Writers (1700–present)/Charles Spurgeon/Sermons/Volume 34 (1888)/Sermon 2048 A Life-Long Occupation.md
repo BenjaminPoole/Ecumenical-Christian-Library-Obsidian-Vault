@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/34
 ---
-
 # A Life-Long Occupation
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2048
 
-DELIVERED ON LORD'S DAY MORNING, OCTOBER 14, 1888,.
+*Delivered on Lord's Day Morning, October 14, 1888*
 
 > "By Him, therefore, let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to His name." Hebrews 13:15.
 
@@ -170,7 +169,6 @@ Yonder in the distance, seen dimly, perhaps, but yet not doubtfully, behold "a c
 Oh, that you who have never praised God before, would begin now! Alas, some of you have no Christ to praise and no Savior to bless. Yet you need not so abide. By faith you may lay hold upon Jesus and He then becomes yours. Trust Him and He will justify your trust. Rest in the Lord and the Lord is your rest. When you have trusted, then waste no time but at once commence the business for which you were created and redeemed and called. Fill the censer with the sweet spices of gratitude and love, and lay on the burning coals of earnestness and fervency.
 
 Then, when praise begins to rise from you like pillars of smoke, swing the censer to and fro in the presence of the Most High, and more and more laud, bless and magnify the Lord that lives forever. Let your heart dance at the sound of His name and let your lips show forth His salvation. The Lord anoint you this day to the priesthood of praise, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2047 No Compromise|← #2047]] · [[Volume 34 (1888)|Volume 34 (1888) Contents]] · [[Sermon 2049 Driving Out the Canaanites and Their Iron Chariots|#2049 →]]

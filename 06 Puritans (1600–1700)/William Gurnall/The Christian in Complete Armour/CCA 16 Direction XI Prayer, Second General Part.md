@@ -9,7 +9,6 @@ tags:
   - puritans
   - william-gurnall
 ---
-
 # Direction XI: Prayer, Second General Part
 
 ## DIRECTION XI.—SECOND GENERAL PART. [How to perform the duty commanded—a directory for prayer.]
@@ -776,14 +775,13 @@ But think not, sinners, that you shall escape thus. God's mill goes slow, but it
 
 6\. Consider that thy praises will *render thy prayers more grateful and successful*. It was thought a good omen for Alexander’s future victories, that he was liberal to the gods in his sacrifices, throwing frankincense by handfuls into the fire. He is a niggard to himself that is so to his God. *Remittatur in suum principium cæleste profluvium, quo uberius terræ refundatur* (Bern. Serm. 42 in Cantic.)—let the river of God’s mercies be returned to pay its tribute to God, their source and fountain, that they may refund more abundantly to us again. You shall observe the saints in their greatest straits, when they have most to beg, deliver their prayers praise-wise. Jehoshaphat sends his priest praising God into the field, and God fights for him. David, in the cave, My heart is fixed, I will sing and give praise.’ Daniel, when a trap was laid for his life, ‘praiseth God thrice a day.’ Christ himself, when he would raise Lazarus, lifts up his eyes and blesseth God, ‘I thank thee, O Father,’ &c.; when he was to suffer, sings a hymn. A thankful heart cannot easily meet with a denial. ‘Let the high praises of God be in their mouth, and a two-edged sword in their hand,’ Ps. 149:6.
 
-—SDB
+## —Sdb
 
 — From *Webster’s*.
 
 —From *Webster’s*.
 
 — From *Webster’s*
-
 
 ---
 [^1]: *Niggard:* a stingy or miserly person. From *Webster’s*.
@@ -796,7 +794,6 @@ But think not, sinners, that you shall escape thus. God's mill goes slow, but it
 [^8]: *procer’ity*, n. [L. proceritas, from procerus, tall.]
 [^9]: panegyric: — A formal speech or writing praising a person or event; a high or hyperbolic praise; laudation.
 [^10]: *Beteem*, sometimes *beteeme,* to give, bestow.—Ed.
-
 
 ---
 [[CCA 15 Direction XI Prayer, First General Part (Eph. 618)|← Direction XI: Prayer, First General Part (Eph. 6:18)]] · [[The Christian in Complete Armour|Contents]] · [[CCA 17 Direction XI The Divisions of Prayer (continued)|Direction XI: The Divisions of Prayer (continued) →]]

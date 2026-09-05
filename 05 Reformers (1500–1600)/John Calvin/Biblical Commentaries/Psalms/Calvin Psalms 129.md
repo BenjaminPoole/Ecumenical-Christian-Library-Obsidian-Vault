@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 129
-
-**PSALM 129**
 
 This Psalm teaches, in the first place, that God subjects his Church to divers troubles and affections, to the end he may the better prove himself her deliverer and defender. The Psalmist, therefore, recalls to the memory of the faithful how sadly God’s people had been persecuted in all ages, and how wonderfully they had been preserved, in order by such examples to fortify their hope in reference to the future. In the second part, under the form of an imprecation, he shows that the divine vengeance is ready to fall upon all the ungodly, who without cause distress the people of God.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/48
 ---
-
 # Christ's Triple Character
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2787
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Behold, I have given Him for a Witness to the people, a Leader and Commander to the people." Isaiah 55:4.
 
@@ -109,7 +106,7 @@ So, Beloved, I put it to you—Christ being true, do you believe Him? Christ bei
 
 IV. For, lastly, there are THREE BENEFITS WHICH WILL BE SECURED BY THE PERFORMANCE OF
 
-THESE DUTIES.
+## These Duties
 
 The first is this. If you believe Christ, "the faithful and true Witness," then you have this benefit—you have certainty as to what you believe, and that is something that is worth having! The other day a gentleman uttered to another a skeptical expression which is very common just now. Many men seem to think it is a sign of great wisdom not to believe anything at all. When he had made his skeptical remark, the other pretty sharply rebuked him by saying, "Now, look here, I must believe something! And I would sooner believe in Jupiter and Juno than be as you are and believe nothing, at all." So would I, but, blessed be God, we have no need to believe in fabled deities, for we have the God of Truth and the Truth of God in which we may always safely believe! Whenever you can say, concerning any matter, "Jesus says such-and-such," do not you stir an inch from that! Stand there, for you are safe enough on such a rock as that!
 
@@ -124,7 +121,6 @@ Then, secondly, if Jesus Christ is our Example and we imitate Him, the next bene
 but there is no tinder to ignite. It hurls its darts and shoots its arrows, but the man is cased in triple steel and the points of the barbed shafts cannot pierce his armor. Happy, then, is the man who follows the leadership of Christ. Following the Lamb wherever He goes, he may go to his bed and rest, for he dwells under the wings of the Eternal. He may go forth into the midst of the world without fear, for neither the arrow that flies by day, nor the snare which is placed in secret, shall be able to hurt him, for the Lord covers him all the daylong!
 
 The last blessing that comes to us is victory,for, if Christ is our Commander and He has all power and we obey Him, then victory is sure and every human heart loves to get the victory. The dying General Wolfe, when he heard those round him say, "They run," anxiously asked who they were that ran. And when they said, "The enemy," he could close his eyes in peace. I have no doubt that the dying Admiral, Lord Nelson, rejoiced when he knew that Trafalgar was won. Only let a man know that in the low and carnal sense, he is to be a victor, and his spirit is revived. But what will it be to hear the exultant shouts when we shall be passing into the next world? "Victory! Victory! Victory through the blood of the Lamb!" How awful would it be to hear that dreadful dirge, "The last fight has been fought and the campaign is lost forever." Will that happen to any of you? Not if Christ is the Captain of your salvation and you are one of the rank and file of His army! But dying and, by faith even now living, you may hear the triumphant shout, "The battle is fought and the victory is won forever! From now on enter into the joy of your Lord and rest in Him, world without end!" The Lord bring us all there, for Jesus' sake! Amen.
-
 
 ---
 [[Sermon 2786 The Soul's Best Food|← #2786]] · [[Volume 48 (1902)|Volume 48 (1902) Contents]] · [[Sermon 2788 Prayer for the Church|#2788 →]]

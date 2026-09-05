@@ -10,24 +10,23 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 20. Articles to be Inquired of within the Diocese of Canterbury, 1548
 
-TO BE INQUIRED OF IN THE VISITATIONS TO BE HAD WITHIN THE
+*To Be Inquired of in the Visitations to Be Had within The*
 
-DIOCESE OF CANTERBURY, IN THE SECOND YEAR OF THE REIGN
+## Diocese of Canterbury, in the Second Year of the Reign
 
-OF OUR DREAD SOVEREIGN LORD, EDWARD THE SIXTH, BY
+## Of Our Dread Sovereign Lord, Edward the Sixth, By
 
-THE GRACE OF GOD KING OF ENGLAND, FRANCE, AND
+## The Grace of God King of England, France, And
 
-IRELAND, DEFENDER OF THE FAITH, AND IN
+## Ireland, Defender of the Faith, and In
 
 EARTH OF THE CHURCH OF ENGLAND,
 
-AND ALSO OF IRELAND, THE
+## And Also of Ireland, The
 
-SUPREME HEAD1.
+## Supreme Head 1
 
 Ed. Lond. sparrow's Article*, &c. " fed. '
 
@@ -83,7 +82,7 @@ Ye shall also make your hearty and effectual prayer to Almighty God for the peac
 
 [* perfected. Jenkyns.]
 
-156 ARTICLES TO BE INQUIRED OF
+## 156 Articles to Be Inquired Of
 
 Item, Whether parsons, vicars, curates, and other priests, be common haunters and resorters to taverns or ale-houses, giving themselves to drinking, rioting, or playing at unlawful games, and do not occupy themselves in the reading or hearing of some part of holy scripture, or in some other godly exercise.
 
@@ -121,7 +120,7 @@ Item, Whether they have declared to their parishioners, that St Mark's day and t
 
 [' Vid. Wilkins' Concilia, Vol. IV. pp. 3—8; and Sparrow's Collection of Articles, pp. 1—13, and the Appendix to this Volume.]
 
-IN THE DIOCESE OF CANTERBURY. 157
+## In the Diocese of Canterbury. 157
 
 Item, Whether they have the procession-book in English, and have said or sung the said litany in any other place but upon their knees in the midst of their church ; and whether they use any other procession, or omit the said litany at any time, or say it or sing it in such sort as the people cannot understand the same.
 
@@ -169,7 +168,7 @@ Item, Whether they hallowed and delivered to the people any candles upon can dle
 
 [2 To the high altar. Sparrow.]
 
-158 ARTICLES TO BE INQUIRED OF
+## 158 Articles to Be Inquired Of
 
 Item, Whether they had upon Good-Friday last past the sepulchres with their lights, having the sacrament therein.
 
@@ -223,7 +222,7 @@ Item, Whether you know any to be married within the degrees prohibited by the
 
 1 And for the book. Sparrow.]
 
-IN THE DIOCESE OF CANTERBURY.
+## In the Diocese of Canterbury
 
 laws of God, or that be separated or divorced without a just cause, allowed by the law of God, and whether any such have married again.
 

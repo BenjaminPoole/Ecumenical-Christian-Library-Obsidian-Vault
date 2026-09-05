@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/44
 ---
-
 # Good News for the Aged
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2602
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And about the eleventh home he went out and found others standing idle." Matthew 20:6.
 
@@ -117,7 +114,7 @@ He strikes that match. On it depends his life—it is his last one—yet he stri
 
 God bless you, dear Friends! A happy new year to everyone of you! Many of them to those of you who are bound for Heaven—and a new year in Heaven to those whom God may take away before another year comes round! Adieu!
 
-EXPOSITION BY C. H. SPURGEON: MATTHEW 20:1-7.
+## Exposition by C. H. Spurgeon: Matthew 20:1-7
 
 (This Exposition is reprinted from Mr. Spurgeon's last literary work, The Gospel of the Kingdom. The Sermon and Exposition combined show the harmony between almost his earliest and his very latest proclamation of the Gospel).
 
@@ -128,7 +125,6 @@ Verses 1, 2. For the Kingdom of Heaven is like unto a man that is an householder
 5\. Again he went out about the sixth and ninth hour, and did likewise. Had it been altogether and alone a business transaction, the householder would have waited to begin a new day and would not have given a whole day's wage for a fraction of a day's work. The entire matter was alone of Divine Grace and, therefore, when half the day was gone, about the sixth hour, he called in laborers. Men of forty and fifty are bid to enter the vineyard. Yes, and about the ninth hour, men were engaged. At sixty, the Lord calls a number by His Grace! It is wrong to assert that men are not saved after forty—we know to the contrary and could mention instances. God, in the greatness of His love, calls into His service men from whom the exuberance of useful vigor has departed—He accepts the waning hours of their day. He has work for the weak as well as for the strong. He allows none to labor for Him without the reward of Grace, even though they have spent their best days in sin. This is no encouragement to procrastination, but it should induce old sinners to seek the Lord at once.
 
 6, 7. And about the eleventh hour he went out and found others standing idle, andsaid unto them, Why stand you here all the day idle? They said unto him, Because no man has hired us. He said unto them, Go you, also, into the vineyard and whatever is right, that shall you receive. The day was nearly over—only a single hour remained—yet about the 11th hour he went out. The generous householder was willing to take on more workmen and give them hire, though the sun was going down. He found a group lingering at the loafers' corner—standing idle. He wished to clear the whole town of sluggards, so he said to them, "Why stand you here all the day idle?" His question to them may be read by making each word in its turn emphatic—then it yields a fullness of meaning. Why are you idle? What is the good of it? Why stand you here i dle where all are busy? Why all the day i dle? Will not a shorter space suffice? Why are you idle? You have need to work, you are able to do it and you should set about it at once. Why is any one of us remaining idle towards God? Has nothing yet had power to engage us in sacred service? Can we dare to say, "No man has hired us"? Nearly 70 years of age and yet unsaved? Let us bestir ourselves. It is time that we went, without delay, to till the weeds, prune the vines—do somethingfor our Lord in His vineyard! What but rich Grace could lead Him to take on the eleven o'clock lingerers? Yet He invites them as earnestly as those who came in the morning and He will as surely give them their reward!
-
 
 ---
 [[Sermon 2601 Small Things Not to Be Despised|← #2601]] · [[Volume 44 (1898)|Volume 44 (1898) Contents]]

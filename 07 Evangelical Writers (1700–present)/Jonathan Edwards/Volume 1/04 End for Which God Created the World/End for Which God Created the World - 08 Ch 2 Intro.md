@@ -10,10 +10,9 @@ written: "1765 (published posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # CHAP. II.
 
-WHEREIN IT IS INQUIRED, WHAT IS TO BE LEARNED FROMHOLY SCRIPTURES, CONCERNING GOD’S LAST END IN THE CREATION OF THE WORLD.
+*Wherein It Is Inquired, What Is to Be Learned Fromholy Scriptures, Concerning God’s Last End in the Creation of the World*
 
 ---
 

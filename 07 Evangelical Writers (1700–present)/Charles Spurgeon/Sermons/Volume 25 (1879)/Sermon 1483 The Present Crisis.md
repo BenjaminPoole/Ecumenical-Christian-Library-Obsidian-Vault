@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Present Crisis
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1483
 
-DELIVERED ON LORD'S-DAY MORNING, JULY 13, 1879,.
+*Delivered on Lord's-Day Morning, July 13, 1879*
 
 > Hosea 5:15.
 
@@ -144,7 +143,6 @@ Oh, if I had the power to put this into fitting and forcible words I would implo
 Believe in Jesus and live! "Seek you the Lord while He may be found! Call upon Him while He is near! Let the wicked forsake his ways and the unrighteous man his thoughts, and let him return unto the Lord and He will have mercy upon him; and to our God, for He will abundantly pardon." God bless you, my beloved Friends, for His name's sake. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Hosea 5. HYMNS FROM "OUR 0WN HYMN BOOK"—605, 620, 614.
-
 
 ---
 [[Sermon 1482 Our Change of Masters|← #1482]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1484 Our Motto|#1484 →]]

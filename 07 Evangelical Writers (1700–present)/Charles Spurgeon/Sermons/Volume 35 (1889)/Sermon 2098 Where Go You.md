@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # Where Go You?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2098
 
-DELIVERED ON LORD'S DAY MORNING, AUGUST 4, 1889,.
+*Delivered on Lord's Day Morning, August 4, 1889*
 
 > "But He knows the way that I take: when He has tried me, I shall come forth as gold." Job 23:10
 
@@ -172,7 +171,6 @@ Come, be like Christian, who, though he did sink, always kept his face in the ri
 May the Lord so bless you, for He knows the way you take. And when He has tried you, He will bring you forth as gold. Amen.
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Psalm 139.
-
 
 ---
 [[Sermon 2097 The Mediator’The Interpreter|← #2097]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2099 Concerning the Consolations Of God|#2099 →]]

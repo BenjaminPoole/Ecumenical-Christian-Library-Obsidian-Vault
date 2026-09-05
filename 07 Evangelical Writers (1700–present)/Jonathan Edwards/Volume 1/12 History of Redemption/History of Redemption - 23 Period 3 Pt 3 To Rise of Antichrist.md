@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART III.
 
-THE SUCCESS OF REDEMPTION FROM THE TIME OF CONSTANTINE TO THE RISE OF ANTICHRIST.
+*The Success of Redemption from the Time of Constantine to the Rise of Antichrist*
 
 I am now to show how the success of Christ’s redemption is carried on from the overthrow of the heathen Roman empire in the time of Constantine the Great, till the rise of Antichrist. And in order to a more clear view of the great works of God in accomplishing the success of Christ’s redemption, and our seeing the glory of them, it will be necessary, as in the foregoing periods, to consider not only the success itself, but the opposition made to it.
 

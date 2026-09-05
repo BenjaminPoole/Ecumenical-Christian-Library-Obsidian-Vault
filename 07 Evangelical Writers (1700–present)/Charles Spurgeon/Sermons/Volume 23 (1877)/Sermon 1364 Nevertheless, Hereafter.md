@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # Nevertheless, Hereafter
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1364
-
-DELIVERED BY.
 
 > "Jesus said unto him, You have said (or said so), nevertheless, I say unto you, Hereafter shall you see the Son of Man sitting on the right hand of the Power, and coming on the clouds of Heaven." Matthew 26:64.
 
@@ -144,7 +141,6 @@ Let us here pledge Him in the cup, that He is coming, we do verily believe! That
 "You sinners seek His face, Whose wrath you cannot bear! Bow to the scepter of His Grace, And find salvation there."
 
 God bless you for Christ's sake.
-
 
 ---
 [[Sermon 1363 Sudden Sorrow|← #1363]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1365 The Trees in God's Courts|#1365 →]]

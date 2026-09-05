@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 24
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-CONFERENCE OF ABBOT ABRAHAM. ON MORTIFICATION.
+## Conference of Abbot Abraham. On Mortification
 
 ## Chapter 1
 

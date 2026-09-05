@@ -9,10 +9,7 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # The Argument
-
-**THE ARGUMENT**
 
 Though there was a dispute among the ancients respecting this Epistle, yet as the reading of it is useful, and as it contains nothing inconsistent with the purity of apostolic doctrine, and was received as authentic formerly, by some of the best, I willingly add it to the others. Its brevity, moreover, does not require a long statement of its contents; and almost the whole of it is nearly the same with the second chapter of the last Epistle.
 

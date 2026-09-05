@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/60
 ---
-
 # 'The Zeal of the Lord'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3432
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The zeal of the Lord of Hosts will perform this." Isaiah 9:7.
 
@@ -25,9 +22,9 @@ BEYOND all controversy, this is a most remarkable text. Zeal is an attribute whi
 
 Now, Brothers and Sisters, it was such a plan as this that awoke the zeal of God! This was what could not have been done by mere power, but must bring forth all the attributes of God—the work that had to be achieved here was worthy of a great Creator—it was a work which would reveal the Deity as no other work had ever done and, therefore, if I may use the expression (I have often to excuse myself, not to you, but to Him), He seems to brace Himself up to a display of all the Divine Energy and Almighty Omnipotence, to accomplish His purpose, to carry out His plan and make Jesus the King of a chosen company! "The zeal of the Lord of Hosts shall perform this."
 
-I. GOD ENTERS INTO THE PLAN OF GLORIFYING CHRIST AND MAKING TO HIMSELF A PEOPLE
+## I. God Enters into the Plan of Glorifying Christ and Making to Himself a People
 
-WITH GREAT ZEAL.
+## With Great Zeal
 
 This can be proved in the following way—we judge of a man's zeal when the purpose has been long in His heart, and He has most industriously followed it through a long period. Now, the plan of Grace through Jesus Christ was in the eternal heart before the worlds were made. He had it all in His mind. Hence He speaks of Christ as "the Lamb slain from before the foundation of the world," and never once has the Divine mind turned aside from this purpose. Think, then, what zeal God must have towards the achievement of this design, when through these long ages, as we call them, He has still resolved to push on the work which He determined to do. Think, again, that all the agents of Providence that have ever occurred on this globe have had an eye to that purpose—from the little up to the great. When He set the bounds of the people, He set them according to the children of Israel. He had an eye to the people of His love and to the Son of His choice, even when He was mapping out the territories which the different races should inhabit and not a king has fallen from His throne, not an army has devastated a province, no changes of government, no challenges of race have ever taken place apart from the Divine intent—that He would set His Son upon His holy hill of Zion, and make Him to be a King over all the nations of the earth. To that purpose God has steadily adhered all this while and, therefore, I honor "the zeal of the Lord of Hosts."
 
@@ -43,7 +40,7 @@ Only one more proof on this point, and it is this—Brothers and Sisters, we bec
 
 You see, then, proofs of God's zeal and the source of it, if we may use such a term. It is His purpose, a purpose to which He has kept so long. His zeal is, moreover, excited by Christ's humiliation, by the blasphemies and sins of men and by the tears of His people. God is not as we are—cold, insensible. He is full of zeal! And in the great good old cause, which shall, at last, win the day, there may be zealous partisans, but none is so zealous as the Lord of Hosts! A Master in the midst of Israel! We will now change the strain, and notice the second point. The text says His zeal will perform it. That is to say—
 
-II. HIS ZEAL WILL PERFORM THE SETTING OF CHRIST UPON HIS KINGDOM AND THE ESTABLISHING OF IT FOREVER.
+## II. His Zeal Will Perform the Setting of Christ upon His Kingdom and the Establishing of It Forever
 
 But it will perform everything that has to do with that Kingdom. God's zeal will not leave a single jot or tittle of the Covenant of His Grace unfulfilled. He has lifted His hand. He has sworn by Himself that Christ shall see of the travail of His soul—and the zeal of God will carry this out!
 
@@ -51,7 +48,7 @@ Notice, then, Brother and Sisters, tonight, first, that the Lord will secure the
 
 This secures, in the next place, the spread of the Truth of God. Sometimes we sit down and say, "Truth, though mighty in itself, does not prevail among a godless generation set upon their idols." And oftentimes we mourn and lament because the battle has turned against the Lord. But, Brothers and Sisters, God's Truth is wide enough and safe enough— we need not weep over a few defeats! God has ordained that the laurels of the King are all safe! He has trodden the winepress alone, but the victory is sure to Him! We have but to keep on in the patience and tribulation of the saints till the set time shall come, and every Truth that God has declared shall be crowned and honored. Wisdom is justified of all her children, and the Infinite Wisdom of Jesus shall be justified in all His teaching. But the grand meaning is this—that the day is sure to come when all the nations shall be converted unto God! I am not going into any pre-millennial or post-millennial theories. I am neither a Prophet nor the son of a Prophet, but if there is anything plain in Scripture, it seems to be this—that there is a Kingdom of Christ, that there will be a reign of Christ over the people, that the Son of David shall rule the Kingdom, from the rivers even to the ends of the earth—they that dwell in the wilderness shall bow before Him, the heathen shall come and lick the dust at His feet and He shall be King of kings and Lord of lords! "The zeal of the Lord of Hosts will perform this," says the text. I thank the Master for that word. All the missionary societies in the world will never know how to perform it! If they were strengthened to the uttermost, they would never be able to achieve this work. Not all the ministry will ever be able to perform this. Nor do I see any means adapted to achieve so sublime an end. Why, the population is increasing upon Christianity. We do not hold our own. Relatively, to the population, I suppose, there are not so many believers in Christ, today, as there were a hundred years ago. We are going backward instead of forward. See, you sons of men, your zeal and your earnestness—no, your lackof zeal and your lackof earnestness— see what it will come to! Poor, vain instruments, what can we perform? But in the rear there is One who will do it! As in the days of battle, when the front ranks are beaten, and one rank after another is driven back, up comes the old guards— and they never quail and know not how to say retreat—and so they win the day! Now, behold a greater than all the hosts of men, the Eternal Ages, the Ancient of Days, the Infinite, Himself, shall bring up His servants in the day of battle! And He shall thunder gloriously! The Gospel shall be proclaimed! The Kingdom shall be won! Christ shall reign and the "Hallelujah" shall come up unto the Lord Omnipotent, who not only gets the Kingdom, but gets it by His own power, wins by His own zeal! "The Lord of Hosts, the Lord of Hosts shall perform this." Now, our last word is practical—
 
-III. THE PRACTICAL TEACHING WHICH ARISES OUT OF THIS TRUTH.
+## III. The Practical Teaching Which Arises out of This Truth
 
 The expression of the text is only used four times in Scripture. One of these is a repetition of another. Virtually it is only used three times—in Isaiah 63:15, "the zeal of the lord of Hosts" is used, as I have already used it, as an argument for prayer. God is thus addressed, "Where is Your zeal, and the sounding of your heart, and of Your mercies towards me? Are they restrained?" What a plea in prayer for us tomorrow night! O God convert the sons of men! Put an end to blasphemy and sin. If You do not, we have heard of Your zeal, but where is Your zeal? You can do it—why don't You do it? You can save. The hardest heart will yield to You. The rod of iron and steel shall be broken by the iron of the Cross. Oh God, where, where, where is Your zeal? Have You forgotten the great Fall and the Kingdom, and the Covenant, and Your oath? Have You forgotten Your Son—His griefs, His merits—Your promised recompense to Him? Where is Your zeal? Oh, but this is a battering ram with which to shake the very gates of Heaven! Men of prayer and faith, learn how to use this! The next time you are wrestling with the Angel, if you would overcome Him, here is the master plea, "Where is Your zeal, and the sounding of your heart?" Let us thus flee to God!
 
@@ -61,7 +58,7 @@ But not to dwell longer on this part of the subject, I am sure you will perceive
 
 But last of all, if God is thus zealous for the crown rights, the Kingdom of Christ, let us be zealous, too. This is not the day of zeal—this is the day of cleverness and achievement. It is not the day of solid earnestness—it is the day of mere sensationalism and nothing more. Oh, what a sight it would have been to have seen old John Knox, when old and worn, go up into his pulpit, and though before he began to preach, he seemed so weak that he could scarcely stand, yet he did not proceed far in preaching up the Master's name, before, as an old historian says, "He did seem to use such force that one would think he would dash the pulpit into fragments"—dash it into shivers, I suppose, before the Popish priests and hypocrites of the age! How his eyes flashed fire as he spoke out his Master's truth, as he denounced Popery and held up the Truths of God and the Kingdom of the Lord Jesus! We need more men of this sort! Oh, that God would but send us one, such, and then to back him, a race of Covenanters who would, with their very blood dedicate themselves to the Truth and the Kingdom of Christ against the insidious advances of Popery and the infidelity of Rome and Hell, which are twin brothers! Oh, that once again the Church were earnest to have no head or king of the Church but Christ, no creed but the Bible, no Baptism but the Baptism which He has taught, no sacrament but what He reveals, no Doctrine but what that book dictates—the Bible, the whole Bible, and nothing but the Bible! May we come back to this in purity, to this with earnestness, and then it will not be long before we shall hear Him coming in the chariot, paved with love for the daughters of Jerusalem and we shall go forth to meet Him, even to meet King Solomon, with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart! Oh, God of Zeal, drop Your zeal upon us, now, and make us zealous, too, even we, redeemed by blood, by Your Holy Spirit, inhabit and consecrate us afresh, for Jesus' sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 40:1-17; 25-31; JOHN1:29-42.
+## Exposition by C. H. Spurgeon: Isaiah 40:1-17; 25-31; John 1:29-42
 
 Verses 1, 2. Comfort you, comfort you My people, says your God. Speak you comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she has received of the LORD'S hand double for all her sins.God would have His people happy. He knows that we are not in strong, vigorous state, neither do we honor His name while we are lacking in holy joy. Let the sinners be uncomfortable. Let them be "like the troubled sea that cannot rest." But as for God's people, it is His great joy that they should be happy. He bids His servants again and again to comfort them! Sometimes we are in a condition of warfare and we are under the chastising rod, but now the Lord appears graciously to His servants, and He says, "Your warfare is over: your chastisement is ended." Now the Lord returns in mercy and He grants a sense of forgiven sin.
 
@@ -97,7 +94,7 @@ Him!
 
 31\. And they shall walk and not faint. It is a good steady pace. It is the pace that Enoch kept when he walked with God. Sometimes it is easier to take a running spurt than it is to keep on, day by day—walk, walk, walk in the sobriety of Christian conversation. Many under excitement can run a race, but it is the best of all to be able to steadily to walk on, walking with God the Lord. The Lord bring us to that pace! "They shall walk and not faint."
 
-JOHN129-42.
+## John 129-42
 
 Verse 29. The next day John saw Jesus coming unto him, and said, Behold the Lamb of God, which takes away the sin of the world.John lost no time. He had no sooner discovered the Savior than he bore witness of Him. "The next day." As soon as ever his eyes lighted upon Jesus, he had his testimony ready for Him. "Behold!" he said, "the Lamb of God."
 
@@ -118,7 +115,6 @@ Lamb of God."
 39-42. They came and saw where He dwelt, and abode with Him that day, for it was about the tenth hour. One of the two which heard John speak and followed Him, was Andre w, Simon Peter's brother. He first found his own brother, Simon, and said unto him, We have found the Messiah, which is, being interpreted, the Christ. And he brought him to Jesus. This is how the Kingdom began to grow—by individual effort. "Andrew found Simon"—one convert must bring another—"and He brought Him to Jesus."
 
 42\. And when Jesus beheld him, He said, You are Simon, the son of Jonah. You shall be called Cephas, which is by interpretation, A Stone.There was a meaning in the change of names, for there was about to be a change of character— the timid son of a dove soon to become a very rock for the Church!
-
 
 ---
 [[Sermon 3431 The King Passing Over Kidron|← #3431]] · [[Volume 60 (1914)|Volume 60 (1914) Contents]] · [[Sermon 3433 Love's Reward|#3433 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/55
 ---
-
 # Mocking the King
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3138
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And they stripped Him, and put on Him a scarlet robe. And when they had platted a crown of thorns, they put it upon His head, and a reed in His right hand: and they bowed the knee before Him, and mocked Him, saying, Hail, King of the Jews! And they spit upon Him, and took the reed, and smote Him on the head." Matthew 27:28-30.
 
@@ -79,7 +76,7 @@ Before I close, I just want to say that I think such a text as this ought to sti
 
 When once we have seen Christ and His crown of thorns, there ought to be such enthusiasm as would make us capable of any deed of daring for Him! As I look at my Master's head environed with thorns, I feel that any man who loves the Savior must grow heroic at the sight if the Spirit of God will but help him to see it as he should. But, my Brothers and Sisters in Christ, it is not for me to suggest what you should do, but for each one of you to suggest it to yourselves. But I would ask each one of you whether you cannot do something for Jesus which you have never done before. Make some sacrifice, wear a crown of thorns—I mean spiritually—for His sake. Go a step farther than you have ever gone before, plunge deeper into the waters of consecration, give yourselves up to Christ more completely from this night forward! I pray that you may. I pray the Spirit of God to enable you to do it and unto the Lord Jesus shall be honor and glory in compensation for His shame—and surely He richly deserves that compensation! May He have it now, for His own dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ACTS28.
+## Exposition by C. H. Spurgeon: Acts 28
 
 Verses 1-3. And when they were escaped, then they knew that the island was called Melita. And the barbarous people showed us no little kindness: for they kindled a fire, and received us, every one, because of the present rain and
 
@@ -128,7 +125,6 @@ they departed, after Paul had spoken one word, Well spoke the Holy Spirit by Isa
 31\. With all confidence, no man forbidding hi .
 
 were spoken, and some believed not.
-
 
 ---
 [[Sermon 3137 Soul Satisfaction|← #3137]] · [[Volume 55 (1909)|Volume 55 (1909) Contents]] · [[Sermon 3139 A Promise for the Blind|#3139 →]]

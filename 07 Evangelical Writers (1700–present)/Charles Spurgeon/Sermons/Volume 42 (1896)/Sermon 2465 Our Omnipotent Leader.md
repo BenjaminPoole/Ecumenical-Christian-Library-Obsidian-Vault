@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/42
 ---
-
 # Our Omnipotent Leader
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2465
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And Jesus came and spoke to them, saying, All power is given to Me in Heaven and on earth." Matthew 28:18.
 
@@ -105,9 +102,9 @@ Next, let us be loyal to Him in all things and let us train up His disciples in 
 
 And let us always keep expecting Him to return. The last words of the chapter suggest this thought—"even to the end of the world," or, "of the age." You know that this age is to end with a glorious beginning of a brighter and better age. Therefore let us keep looking for it. Servants, you will not serve well unless you expect your Master's return! If you say, "He delays His coming," you may begin to eat, drink, and to be drunk, and to beat your fellow servants. Let the expectation of your Lord's return always keep you on tiptoe, with your lamps trimmed and your lights burning, for, perhaps this very night there may be heard in our streets, the cry, "Behold the Bridegroom comes! Go out to meet Him!" May we all be so ready that this cry would be the sweetest music that our ears could ever hear! God bless you, Beloved, for Christ's sake! Amen.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—775, 340, 324.
+## Hymns from "Our Own Hymn Book"—775, 340, 324
 
-EXPOSITION BY C. H. SPURGEON: COLOSSIANS1.
+## Exposition by C. H. Spurgeon: Colossians 1
 
 Verses 1-2. Paul, an Apostle of Jesus Christ by the will of God, and Timothy our brother, to the saints and faithful brethren in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ. Paul begins with a salutation in which he wishes the Colossian Christians the best of all blessings. It is the very spirit of our holy religion to wish well to others and I am sure that we cannot have a better wish for our dearest friends than this, "Grace be to you, and peace." Grace will save you—peace will make you know that you are saved. Grace is the root of every blessing—peace is the sweet flower that makes life so sweet and so fragrant. May you have both of these blessings "from God our Father and the Lord Jesus Christ"! There is no peace for you apart from this blessed combination—God, our Father, and the Lord Jesus Christ. Therefore, may you know your adoption and may you know your redemption!
 
@@ -136,7 +133,6 @@ Verses 1-2. Paul, an Apostle of Jesus Christ by the will of God, and Timothy our
 25-27. According to the dispensation of God which is given to me for you, to fulfill the Word of God; even the mystery which has been hid from ages and from generations, but now is made manifest to His saints: to whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of Glory. "Christ in you" is Glory begun, a sure pledge and earnest of a Glory greater than you can yet conceive! If He is in you, you have the beginnings of Heaven! You have, in fact, the excellence and flower of Heaven, for there is no Heaven but the Glory of Christ.
 
 28, 29. Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus: whereunto I also labor, striving according to His working, which works in me mightily. If God's people strive mightily, it is because God works mightily in them! Nothing can come out of a man but what God puts into Him. We work to will and to do when He works in us according to His good pleasure. Oh, for more of the agonizing of the Spirit within us, that there might be more of agonizing in our spirits for the Glory of God!
-
 
 ---
 [[Sermon 2464 The Power of a Sigh|← #2464]] · [[Volume 42 (1896)|Volume 42 (1896) Contents]] · [[Sermon 2466 Unpurchasable Love|#2466 →]]

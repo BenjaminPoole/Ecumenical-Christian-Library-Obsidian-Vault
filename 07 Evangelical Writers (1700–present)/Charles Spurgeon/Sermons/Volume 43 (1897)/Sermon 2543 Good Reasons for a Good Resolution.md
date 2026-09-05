@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Good Reasons for a Good Resolution
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2543
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I will greatly rejoice in the Lord, my soul shall be joyful inn my God; for He has clothed me with the garments of salvation, He has covered me with the robe of righteousness, as a bridegroom decks himself with ornaments, and as a bride adorns herself with her jewels." Isaiah 61:10.
 
@@ -95,7 +92,7 @@ That is what you have to be, dear Friends. When you cannot do anything, then you
 
 Some of you will have to go down once or twice more before the Lord Jesus Christ will give you eternal salvation. You are still too good. You are still too big. You are too strong—you have such a very respectable character that you are not content to come in at Christ's back door, where He receives none but poor, guilty sinners! You are not quite naked yet—there is a rag or two of your own righteousness about you. You will have to be stripped and then you shall put on the robe of Christ's righteousness! You have only a bone or two broken and you can crawl about a little—you have yet to be ground to powder! When you become nothing—when you have no good feelings, no good desires, or anything you can bring to Christ—when you come to Christ, not with a broken heart, but for a broken heart, then He will receive you! Then you will be the kind of man that Christ came to save! Oh, that He would bring you to that point very speedily, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH3.
+## Exposition by C. H. Spurgeon: Isaiah 3
 
 Verse 1. The Spirit of the Lord God is upon Me. These are the words of the Lord Jesus Christ. The Prophet, looking forward to the time of His coming into the world, put them into His mouth and, in due time, our Savior read them and applied them to Himself in the synagogue at Nazareth as He said, "This day is this Scripture fulfilled in your ears." "The Spirit of the Lord God is upon Me."
 
@@ -124,7 +121,6 @@ Verse 1. The Spirit of the Lord God is upon Me. These are the words of the Lord 
 10, 11. I will greatly rejoice in the Lord, my soulshall bejoyfulin my God; for He has clothedme with the garments of salvation, He has covered me with the robe of righteousness, as a bridegroom decks himself with ornaments, and as a bride adorns herself with her jewels. For as the earth brings forth her bud, and as the garden causes the things that are sown in it to spring forth, so the Lord God will cause righteousness andpraise to spring forth before all the nations.
 
 So may it be right speedily, for our Lord Jesus Christ's sake! Amen.
-
 
 ---
 [[Sermon 2542 Christ's Rest and Ours|← #2542]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2544 The One and the Many|#2544 →]]

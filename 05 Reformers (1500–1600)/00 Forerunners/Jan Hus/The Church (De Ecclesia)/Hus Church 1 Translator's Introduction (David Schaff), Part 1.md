@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 1. Translator's Introduction (David Schaff), Part 1
 
 Preeentcb to
@@ -22,21 +21,19 @@ Preeentcb to
 
 Digitized by the Internet Archive in 2009 https://archive.org/details/deecclesiachurchOOhusjuoft
 
-— HIS LIFE, TEACHINGS, AND DEATH — AFTER FIVE HUNDRED YEARS
+## — His Life, Teachings, and Death — After Five Hundred Years
 
 By DAVID S. SCHAFF, D.D.
 
 PlTBLISHED BY
 
-CHARLES SCRIBNER'S SONS
+## Charles Scribner's Sons
 
 SDe C£ccle0ia
 
-TRANSLATED, WITH NOTES AND INTRODUCTION
+## David S. Schaff, D.d
 
-DAVID S. SCHAFF, D.D.
-
-PROFESSOR OF CHURCH HISTORY, THE WESTERN THEOLOGICAL SEMINARY
+## Professor of Church History, the Western Theological Seminary
 
 Nemo tenetur quidquam credere nisi ad quod movet eum deus credere sed deus non movet hominem ad credendum faisum.
 
@@ -44,11 +41,11 @@ No one is held to believe anything except what he is moved by God to believe but
 
 — John Huss, this treatise. p. .jo.
 
-NEW YORK CHARLES SCRIBNER'S SONS
+## New York Charles Scribner's Sons
 
-COPYRIGHT, 191 S, BY
+## Copyright, 191 S, By
 
-CHARLES SCRIBNER'S SONS
+## Charles Scribner's Sons
 
 Published June, 1915
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Great Teacher and Remembrancer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3353
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But the Comforter, which is the Holy Spirit, whom the Father will send in My name, He shall teach you all things and bring all things to your remembrance, whatever I have said unto you." John 14:26.
 
@@ -25,7 +22,7 @@ THE Savior, when He departed from this world, provided for all the needs of His 
 
 Our Savior here directs us to one particular blessing, which the coming of the Holy Spirit would bring us, namely, that of Divine Instruction. In endeavoring to enter in some measure into the text, tonight—too briefly to enter into it fully—we shall, first of all remark that the text suggests to us—
 
-I. THE VALUE OF ALL THAT JESUS CHRIST HAS SPOKEN.
+## I. The Value of All that Jesus Christ Has Spoken
 
 For He tells us that the Holy Spirit shall "bring to our remembrance all things whatever He has said unto us."
 
@@ -57,7 +54,7 @@ And some, too, are always groaning from a sense of inward corruption and very pr
 
 This first point we may now leave, if the Holy Spirit will but bring it home with power to our souls, for this Truth of God, among others, must be taught us by Him. We now come to a second point which is clearly in the text, namely, not only the value of all Truth that our Lord Jesus Christ has spoken, but—
 
-II. THE NEED OF THE HOLY SPIRIT TO TEACH US ALL THE TRUTH.
+## II. The Need of the Holy Spirit to Teach Us All the Truth
 
 But cannot an honest and a willing mind learn all the Truths of God that are in Scripture without the teaching of the Holy Spirit? I infer that it cannot from the fact that the Holy Spirit is provided. There i s nothing that is unnecessary in the Covenant of Grace—and the Divine Power is never unnecessarily exerted. It is constantly remarked of the miracles that there is not one of them that can be dispensed with—and God never interferes to do out of the course of Nature what might be done according to the ordinary laws of Nature. If the Christian were fully equipped to know and understand the Divine mind without the teaching of the Holy Spirit, then the Holy Spirit would not have been given. We should not find the Holy Spirit here unless it were necessary that He should be here. Even with Christ for a Teacher, mark—so that there was no fault in the Teacher—with Christ for a Teacher, the disciples did not learn these Truths without the teaching of the Holy Spirit! I infer, therefore, that much more is that teaching now necessary and that the Spirit of God should abide with us, to teach us Truth, and to bring the things which we have learned to our remembrance. And why? Is it not because there is a radical defect in us as disciples? Are we not frequently inattentive? Do we not sometimes feel a lack of interest in the Truths of God which we receive from the Word, which I may now call the lips of Christ? A child may be very plainly taught, but if you cannot get its attention, if you cannot catch its will and interest it, it will not learn much—that which you teach it will glide like oil over a slab of marble—it does not penetrate and permeate and, consequently, is not properly and thoroughly learned. And often on the Lord's-Day you will hear most delightful Truths, but if you are not interested in them, it does not catch your mind.
 
@@ -77,7 +74,7 @@ tablets of our heart which becomes to us the Word of God, the word of our salvat
 
 This second truth you know, and will never doubt, that we need the Holy Spirit to teach us Truth of God. The third thing that is in the text is this—the Holy Spirit is said not only to teach us, but—
 
-III. TO BRING TO OUR REMEMBRANCE THE TRUTH WHICH WE HAVE RECEIVED.
+## III. To Bring to Our Remembrance the Truth Which We Have Received
 
 Mark! The Holy Spirit does not now reveal fresh Truth beyond what is already in the Word of God. There is a special curse pronounced upon any who shall add to this Book—and you may rest assured that the Holy Spirit will not so transgress in a matter which He has peremptorily forbidden all His children to commit! When persons start up as Prophets, or Prophetesses, and tell us that they have had special visions from the Lord and they know what is going to happen next year, we always understand that their proper destination is Bethlehem Hospital [London insane asylum] and we begin immediately to shun them and their books! We are persuaded that the Holy Spirit makes no such fresh revelations to men, but teaches us what Christ taught, bringing all these things to our remembrance! What Christ has taught, and only that, it is His joyous work to make plain and clear and powerful to us!
 
@@ -105,7 +102,7 @@ It is not likely that you should desire the Holy Spirit to instruct you. There a
 
 There are some here to whom the Holy Spirit is an unknown Person, who have never been made alive unto God by Him and, consequently, cannot desire that they may be instructed by Him. Oh, that the blessed Spirit would come and convince them of their sin in not believing, which is the greatest of all sins—and the very sin of which the Spirit comes to convince men! "He shall convince them of sin because they believe not on Me." Oh, may He convince them of this sin and then may they understand that there is nothing for them to do, but that Christ has done it for them—and that all they have to do is to receive the finished work, to wear the finished robe, to look to Jesus Christ and to find life in the look! Pray for them, Brothers and Sisters, that the Holy Spirit may help their infirmities, that they may know Christ and may come to Him! May God bless the Gospel to them whenever it is preached! And when they are told that "the Son of Man came into the world to seek and to save that which was lost," may they cry unto Him and trust Him, for this is the vital part of the business and, trusting in Him, they shall enter into eternal life through Jesus Christ our Lord!
 
-EXPOSITION BY C. H. SPURGEON: ROMANS9:26-32.
+## Exposition by C. H. Spurgeon: Romans 9:26-32
 
 The Jews thought that God must certainly save them. They thought they had a birth claim. Were they not the children of Abraham? Surely they had some right to it! This Chapter battles the question of right. No man has any right to the Grace of God. The terms are inconsistent. But that same Grace delights to save and bless even the perverse and rebellious who will yield to its blessed power!
 
@@ -122,7 +119,6 @@ teousness which is by faith, for the Gospel being preached among the Gentiles, t
 31\. But Israel, which followed after the law of righteousness, has not attained to the law of righteousness. Israel followed after the law of righteousness with many ceremonies and external washings, wearing of phylacteries and bordered garments. Alas, poor Israel!
 
 32\. Why? Because they sought it not by faith, but as it were by the works of the Law. For they stumbled at that stumbling stone. And God is determined that they that are of the Law shall not inherit it! He has made it a Sovereign Decree that the Believer shall be justified and saved, but no one else. They sought it not by faith, but as it were, by the works of the Law.
-
 
 ---
 [[Sermon 3352 A World Wide Welcome|← #3352]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3354 'The Old Testament 'Prodigal'|#3354 →]]

@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # July 24
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**PERFECT PURITY**
+## **Perfect Purity**
 
 > He that overcometh, the same shall be clothed in white raiment." Rev. 3:5
 
@@ -29,7 +28,6 @@ See, here is victory! Thou shalt have thy triumph. Palm, and crown, and white ro
 See, here is priestly array! Thou shalt stand before the Lord in such raiment as the sons of Aaron wore; thou shalt offer the sacrifices of thanksgiving, and draw near unto the Lord with the incense of praise.
 
 Who would not fight for a Lord who gives such large honors to the very least of His faithful servants? Who would not be clothed in a fool's coat for Christ's sake, seeing He will robe us with glory?
-
 
 ---
 [[FCB July 23|← July 23]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB July 25|July 25 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/49
 ---
-
 # 'The Ministry of Reconciliation'
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2837
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And hath given to us the ministry of reconciliation." 2 Corinthians 5:18.
 
@@ -117,7 +114,7 @@ And I would be in earnest, last of all—and have my Brothers and Sisters in ear
 
 Souls, you will either be lost or saved! You will be in Hell among the damned or in Heaven among the blessed—and that very shortly! And if the watchman warns you not, your blood will be required at the watchman's hand. That we may be able to give in our account, with joy, "be you reconciled to God." That we may be able to say, "Here we are, Lord, and the children You have given us through our ministry," "be you reconciled to God." Dear young people and you aged folk who soon must go, and you in middle life, "be you reconciled to God." "As though God did beseech you by us, we pray you, in Christ's place, be you reconciled to God." God reconcile you to Himself, for His dear Son's sake!
 
-EXPOSITION BY C. H. SPURGEON: 2 CORINTHIANS 5:9-21.
+## Exposition by C. H. Spurgeon: 2 Corinthians 5:9-21
 
 Verses 9-11. Therefore we labor, that whether present or absent, we may be accepted of Him. For we must all appear before the Judgment Seat of Christ; that everyone may receive the things done in his body, according to what he has done, whether it be good or bad. Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your conscience. The outside world did not understand the preachers of the Gospel—they thought them dreamy enthusiasts, earnest about nothing at all. But Paul says that God understood him and he hoped, too, that the consciences of those to whom he was writing had also understood him. The truly faithful minister of Jesus Christ may know that there are two approvals that he will be sure to get—the approval of his Master and the approval of men's consciences. Their prejudice may condemn him, his mode of oratory may not suit their fancy, but their conscience must give quite a different verdict—it must approve the faithful preaching of the Gospel.
 
@@ -134,7 +131,6 @@ and rose again. The true-hearted Christian judges himself to have died when Chri
 20\. Now then, we are ambassadors for Christ, as though God did beseech you by us: weprayyou in Christ's stead, be you reconciled to God. As if Christ Himself stood here and pleaded with you, He bids His ministers plead on His behalf. In the name of God, He bids us beseech you to be reconciled to God. Ambassadors do not generally beseech men—they stand on their dignity, they make demands for the honor of their sovereign—but Christ's ambassadors know of no dignity which should keep them from pleading with men.
 
 21\. For He has made Him to be sin for us, who knew no sin; that we might be made the righteousness of God in Him.
-
 
 ---
 [[Sermon 2836 Prayerful Importunity|← #2836]] · [[Volume 49 (1903)|Volume 49 (1903) Contents]] · [[Sermon 2838 God's Glory in Hiding Sin|#2838 →]]

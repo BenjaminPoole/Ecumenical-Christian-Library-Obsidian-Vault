@@ -11,7 +11,6 @@ tags:
   - classical
   - euripides
 ---
-
 # Andromache
 *Euripides · trans. Arthur S. Way*
 
@@ -19,13 +18,13 @@ tags:
 
 ---
 
-ANDROMACHE.
+## Andromache
 
-ARGUMENT.
+## Argument
 
 When Troy was taken by the Greeks, Andromachê, wife of that Hector whom Achilles slew ere himself was slain by the arrow which Apollo guided, was given in the dividing of the spoils to Neoptolemus, Achilles' son. So he took her oversea to the land of Thessaly, and loved her, and entreated her kindly, and she bare him a son in her captivity. But after ten years Neoptolemus took to wife a princess of Sparta, Hermionê, daughter of Menelaus and Helen. But to these was no child born, and the soul of Hermionê grew bitter with jealousy against Andromachê. Now Neoptolemus, in his indignation for his father's death, had upbraided Apollo therewith: wherefore he now journeyed to Delphi, vainly hoping by prayer and sacrifice to assuage the wrath of the God. But so soon as he was gone, Hermionê sought to avenge herself on Andromachê; and Menelaus came thither also, and these twain went about to slay the captive and her child. Wherefore Andromachê hid her son, and took sanctuary at the altar of the Goddess Thetis, expecting till Peleus, her lord's grandsire, should come to save her. And herein are set forth her sore peril and deliverance: also it is told how Neoptolemus found death at Delphi, and how he that contrived his death took his wife.
 
-DRAMATIS PERSONÆ.
+## Dramatis Personæ
 
 Andromache.
 
@@ -53,7 +52,7 @@ Attendants of Menelaus, Peleus, and Orestes.
 
 Scene:—At the temple of Thetis, beside the palace of Neoptolemus, in Phthia of Thessaly.
 
-ANDROMACHE.
+## Andromache
 
 Andromachê sitting on the steps of the altar of Thetis.
 

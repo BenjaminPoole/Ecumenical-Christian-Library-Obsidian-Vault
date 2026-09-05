@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 38. Letter XXXVII. To the Same (November 4, 1414)
-
-LETTER XXXVII. TO THE SAME (November 4, 1414)
 
 Gossip; Michael the Pleader again; The Pope and the safeconduct ; Prices in Constance ; The cardinals and their horses; "My horse Rabstyn"; The goodness of Chlum .157-9
 

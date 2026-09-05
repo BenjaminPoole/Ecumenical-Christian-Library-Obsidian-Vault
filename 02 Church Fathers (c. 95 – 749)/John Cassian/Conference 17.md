@@ -14,12 +14,11 @@ tags:
   - church-fathers
   - written/5th-century
 ---
-
 # Conference 17
 
-BY ST. JOHN CASSIAN
+*By St. John Cassian*
 
-THE SECOND CONFERENCE OF ABBOT JOSEPH. ON MAKING PROMISES.
+## The Second Conference of Abbot Joseph. On Making Promises
 
 ## Chapter 1
 

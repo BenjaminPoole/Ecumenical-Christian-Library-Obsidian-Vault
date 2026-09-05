@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # A Feast For Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 711
 
-DELIVERED ON SUNDAY MORNING, SEPTEMBER 16, 1866 BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, September 16, 1866 by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "This also comes forth from the Lord of Hosts, Who is wonderful in counsel and excellent in working." Isaiah 28:29.
 
@@ -150,7 +149,6 @@ Wherever there is the hand of a true man there is the wing of an angel! Wherever
 Let us pluck up courage, and from this very morning let us feel that we are not to be guided by the dogmas of carnal prudence but by the dictates of FAITH IN THE INVISIBELE GOD. Let us no longer measure means, and calculate possibilities, but let us go to Him who cannot be measured or limited. Let us trust Him where we cannot trace Him. Let us serve Him with might and main, and, to use the words of Gerhardt—
 
 "Let us in life and death His steadfast Truths declare, And publish with our latest breath, His love and guardian care!"
-
 
 ---
 [[Sermon 0710 The Great White Throne|← #710]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0712 War With Amalek|#712 →]]

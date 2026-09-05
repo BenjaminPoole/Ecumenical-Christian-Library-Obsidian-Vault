@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 53. What dost thou believe concerning the Holy Ghost?
-
-**Question 53. What dost thou believe concerning the Holy Ghost?**
 
 Answer. First, that he is true and co-eternal God with the Father and the Son: secondly, that he is also given me to make me, by a true faith, a partaker of Christ and all his benefits, that he may comfort me, and abide with me for ever.
 
-**EXPOSITION**
+## **Exposition**
 
 There are six articles included in this part of the Creed. The first of these treats of the person of the Holy Ghost; the next of the church, which the Holy Ghost gathers, confirms and preserves; whilst the communion of saints, the forgiveness of sins, the resurrection of the body and the life everlasting include the benefits of Christ, which the Holy Ghost confers upon the church.
 
@@ -46,13 +43,13 @@ X. Why is he necessary?
 
 XI. How may we know that he dwells in us?
 
-**I. WHAT DOES THE TERM SPIRIT SIGNIFY?**
+## **I. What Does the Term Spirit Signify?**
 
 The term spirit (from spirando) is sometimes taken for the cause, and sometimes for the effect. When taken for the cause it means the being or force that puts anything in motion, and is either uncreated, or created. It is uncreated in the sense in which God is essentially and personally a Spirit, that is, incorporeal, indivisible, having a spiritual essence, but no bodily dimensions. "God is a Spirit." (John 4:24.) Spirit as created is either immaterial, as the angels, both good and bad, human souls, &c. "Who maketh his angels spirits." "Thou takest away their breath, they die." (Ps. 104:4, 29.) Or it is material, as the wind, vapors, &c "The wind bloweth where it listeth." (John 3:8.) When taken for the effect, or for the motion itself, it signifies, 1. The air which is moved. 2. The impulse and motion of the air. 3. The wind and vapors moved in different ways. 4. Spiritual affections, and exercises whether good or bad. It is in this way that we speak of the spirit of fear, of courage, of revolution, &c. 5. The gifts of the Holy Spirit. "Quench not the Spirit." (1 Thes. 5:19.) As it is here used, the term spirit signifies the cause which influences or moves, which is the third person of the Godhead, who works effectually in the minds and wills of men.
 
 The third person of the Godhead is called a Spirit, 1. Because he is a spiritual essence, immaterial and invisible. 2. Because he is inspired of the Father and the Son, and is the person through whom the Father and the Son immediately influences the hearts of the elect, or because he is the immediate agent of divine works. 3. Because he himself inspires and immediately influences the hearts of the people of God, in view of which he is called the power of the Highest. 4. Because he is God, equal and the same with the Father and the Son; and God is a Spirit. He is called holy, 1. Because he is holy in himself, and in his own nature. 2. Because he is the sanctifier, who immediately sanctifies and makes holy the people of God. The Father and the Son sanctify through the Holy Ghost; and, therefore, mediately.
 
-**II. WHO, AND WHAT IS THE HOLY GHOST?**
+## **II. Who, and What Is the Holy Ghost?**
 
 The Holy Ghost is the third person of the true and only Godhead, proceeding from the Father and the Son, being co-eternal, co-equal and consubstantial with the Father and the Son, and is sent by both into the hearts of the faithful, that he may sanctify and fit them for eternal life. That this description or definition may be established against heretics, the same things must be proven from the Scriptures concerning the Divinity of the Holy Ghost which we have already demonstrated in regard to the Divinity of the Son; viz, that the Holy Ghost is a person—that he is distinct from the Father and the Son—that he is equal with both, and that he is consubstantial with the Father and the Son. The following declarations of the Apostle Paul establish all these propositions: "The things of God knoweth no man, but the Spirit of God. Now we have received not the spirit of the world, but the Spirit which is of God, that we might know the things that are freely given us of God." "All these worketh that one and self-same Spirit, dividing to every man severally as he will." (1 Cor. 2:11, 12; 12:11.) But we must proceed to the proof of these several propositions in their order.
 
@@ -84,7 +81,7 @@ IV. That the Holy Ghost is consubstantial, which means that he is one and the sa
 
 Obj. Whosoever is of another, is not consubstantial with him, or is not the same with him from whom he is. The Holy Ghost is of the Father and the Son. Therefore, he is not consubstantial with them. Ans. The major proposition is true when used in reference to creatures. There is, however, an ambiguity in the expression, to be of another. He who is of another in such a sense as not to have the same, nor the whole essence is not consubstantial, which, however, is not true of the Holy Ghost. Hence it merely follows that he is not the same person. By inverting the argument then we may reply: because he is of the Father and the Son, he is at the same time consubstantial.
 
-**III. WHAT IS THE OFFICE OF THE HOLY GHOST?**
+## **III. What Is the Office of the Holy Ghost?**
 
 The office of the Holy Ghost is to produce sanctification in the people of God. This he performs immediately from the Father and the Son. It is for this reason that he is called the Spirit of holiness. The office of the Holy Ghost may be said to embrace the following things: to instruct, to regenerate, to unite to Christ and God, to rule, to comfort and strengthen us.
 
@@ -106,7 +103,7 @@ Obj. 1. But those things which have now been specified as being included in the 
 
 Obj. 2. But Saul and Judas did not obtain the inheritance, and yet they had the Holy Spirit. Therefore the Holy Spirit is not the earnest of our inheritance. Ans. They had, indeed, some of the gifts of the Spirit, but not the Spirit of adoption. And if it be still further objected that it is the same Spirit, we reply, true; but then he does not work the same things in all. True, conversion and adoption are wrought in the elect alone. Hence we must now speak of the gifts of the Holy Ghost, and of their differences.
 
-**IV. WHAT, AND HOW MANI-FOLD ARE THE GIFTS OF THE HOLY GHOST**
+## **IV. What, and How Mani-Fold Are the Gifts of the Holy Ghost**
 
 The gifts of the Holy Ghost may be referred to, and comprehended under the different parts of his office already specified. They include the illumination of the mind, the gift of tongues, prophecy, interpretation, miracles, faith, regeneration, prayer, strength, constancy, &c. These gifts are two-fold: such as are common both to the godly and the ungodly; and such as are peculiar to the godly alone. The former are again divided into two classes, the first of which includes those gifts which are given to particular individuals, and at particular times, such as the wonderful power of speaking in different languages, the gift of prophecy, the faith of miracles, &c., which were necessary for the apostles, and the primitive church, when the gospel was first to be preached among the different nations of the earth. These gifts were, therefore, conferred upon them in a miraculous manner. The other class of gifts common both to the godly and the ungodly, include such as are necessary at all times, and for all the members of the church. They are such as the gift of tongues, interpretation, arts, sciences, wisdom, knowledge, eloquence, and others, which pertain to the perpetuation of the ministry. These gifts are now given to all the members of Christ, according to the necessity of their calling, although not in the miraculous manner in which they were given to the apostles, but they are obtained by labor, diligence and study. These gifts, however, which are peculiar to the godly include all those which are comprehended in the idea of sanctification and adoption, such as justifying faith, regeneration, prevailing prayer, love to God and our neighbor, hope, patience, constancy, and other gifts pertaining to our salvation. These are given to the elect alone in their conversion. "Whom the world cannot receive." "The Spirit itself beareth witness with our spirit, that we are the children of God, and maketh intercession for us with groanings which cannot be uttered." (John 14:17. Rom. 8:16 & 26.) It is for this reason that he is called the Spirit of adoption.
 
@@ -114,7 +111,7 @@ Obj. But there have been many out of the church who have had an intimate acquain
 
 All these gifts, as has been remarked, may be appropriately referred to the different parts of the office of the Holy Ghost. The knowledge of the languages and sciences may be referred to the office of teaching; whilst the miraculous and wonderful gift of tongues may be comprehended partly in the office of ruling, (for the apostles spake as the Holy Ghost gave them utterance) and partly in that of teaching and establishing. So the gift of prophecy and interpretation belong to the office of teaching; for the Spirit teaches, as well by illuminating the mind internally, as by informing it from without through the word. Faith and conversion have reference to that part of the office of the Holy Ghost, which pertains to our regeneration, and union with Christ. That he is the Spirit of prayer, teaching us how to pray, belongs to his office of guiding and governing us. In the same way all the other gifts of the Spirit may be referred to some particular parts of his office.
 
-**V. BY WHOM, AND WHY THE HOLY GHOST WAS GIVEN**
+## **V. By Whom, and Why the Holy Ghost Was Given**
 
 The Father gives the Holy Ghost through the Son, as the following declarations of the word of God sufficiently affirm. "Wait for the promise of the Father." "I will pour out my Spirit upon all flesh." "I will pray the Father and he shall send you another Comforter." "Whom the Father will send in my name." (Acts 1:4; 2:17. John 14:16 & 26.) The Son also gives the Holy Ghost; but in this order, that he sends him from the Father, from whom he himself is, and works; in accordance with which it is said: "Whom I will send unto you from the Father." "If I depart I will send him unto you." "Being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this which ye now see and hear." (John 15:26; 16:7. Acts 2:33.) From this we deduce a strong argument in favor of the Divinity of Christ; for who has any right in the Spirit of God, and who can give the Spirit, but God? The Holy Ghost so far from having been sent by the human nature of Christ formed and sanctified it.
 
@@ -122,13 +119,13 @@ This giving of the Holy Ghost by the Father and the Son, must be understood in s
 
 The reason on account of which God grants us the Holy Ghost, is to be traced to his good pleasure, called into exercise for the sake of the merit and intercession of his Son: "Who hath blessed us with all spiritual blessings in heavenly places in Christ, according as he hath chosen us in him before the foundation of the world." "I will pray the Father, and he shall send you another Comforter." (Eph. 1:3, 4. John 14:16.) But the Son gives the Holy Spirit unto us, or he is given to us by, and for the sake of the Son, because he has by his merits secured for us the gift of the Holy Ghost, and himself confers him upon us by his intercessions.
 
-**VI. TO WHOM, AND TO WHAT EXTENT THE HOLY GHOST IS GIVEN**
+## **VI. To Whom, and to What Extent the Holy Ghost Is Given**
 
 The Holy Ghost is said to be given to those who receive his gifts and acknowledge him. He is, therefore, given differently according to his various gifts. All those who are members of the church, whether they be true christians or hypocrites, partake of his gifts more or less: but yet in a different manner. For the godly do not only receive those gifts which are common, but those also which are special and pertain to salvation. They have not merely a knowledge of the doctrine of God's word, but have been regenerated and possess true faith; because the Holy Ghost, besides kindling in them a knowledge of the will and truth of God, also regenerates them, and imparts unto them true faith and conversion. Hence he is given unto them in such a manner that he produces in them his gifts which are unto their salvation, and that they may also be able to know from these gifts that the Spirit dwells in them. Yet he is at the same time given only to such as seek and are willing to receive him; and for this reason increased in those who persevere. Hypocrites, on the other hand, receive nothing more than a mere knowledge of the doctrine of God, and such gifts as are common. "Whom the world cannot receive, because it seeth him not, neither knoweth him." (John 14:17.)
 
 From this it appears what the difference is between the knowledge of tongues, sciences and gifts of a similar character conferred upon the heathen and those which are given to the church; for those who among the heathen excelled in the knowledge of tongues, the arts and other useful things, had indeed the gifts of God, but not the Holy Ghost, whom none receive but those who are sanctified by him, and who acknowledge him as the author of all their gifts.
 
-**VII. WHEN, AND HOW IS THE HOLY GHOST GIVEN AND RECEIVED?**
+## **VII. When, and How Is the Holy Ghost Given and Received?**
 
 The Holy Ghost is given, as we have already shown, when he communicates his gifts. And this is done either visibly, which is the case when he imparts his gifts in connection with certain outward signs; or invisibly when these are communicated without these signs.
 
@@ -140,11 +137,11 @@ The Holy Ghost is, moreover, received by faith: "In whom also, after that ye bel
 
 Obj. But faith is the gift and fruit of the Holy Ghost: "For by grace are ye saved, through faith and that not of yourselves; it is the gift of God." "No man can say that Jesus is the Lord, but by the Holy Ghost." (Eph. 2:8. 1 Cor. 12:3.) How then can he be received by faith? Ans. The working of the Holy Ghost is prior to faith in the order of nature: but not in time; because the reception of the Holy Ghost is the first beginning of faith. But after faith is once kindled in the heart, the Holy Ghost is more and more received through it, and so produces other things in us, as it is said: "Faith which worketh by love." "Purifying their hearts by faith." (Gal. 5:6. Acts 15:9.
 
-**VIII. HOW MAY THE HOLY GHOST BE RETAINED?**
+## **VIII. How May the Holy Ghost Be Retained?**
 
 The Holy Ghost may be retained very much in the same way, and by the use of the same means, through which he is given and received, among which we may mention the following: 1. A diligent attention to the preached word: "And he gave some apostles, and some prophets, &c., for the perfecting of the saints, for the edifying of the body of Christ, till we all come in the unity of the faith." (Eph. 4:11, 12.) 2. Serious meditation upon the doctrine of the gospel, and an earnest desire of advancing in the knowledge thereof. "In his law doth he meditate day and night; and he shall be like a tree planted by the rivers of water." "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another." (Ps. 1:2, 3. Col. 3:16.) 3. Constant penitence, and an earnest desire of avoiding those sins which offend the conscience: "Whosoever hath, to him shall be given." "He that is righteous, let him be righteous." "And grieve not the Holy Spirit of God, whereby ye are sealed unto the day of redemption." (Matt. 13:12. Rev. 22:11. Ep. 4:30.) Under this head, we may refer a desire to avoid all evil communications and occasions to sin; for he that would avoid sin, must also shun every thing that might entice thereto. 4. Constant and earnest prayer: "How much more shall your heavenly Father give the Holy Spirit to them that ask him." "This kind goeth not out, but by prayer and fasting." "Take not thy Holy Spirit from me." (Luke 11:13. Matt. 17:21. Ps. 51:11.) The christian panoply described by the apostle Paul may be referred to this division. 5. The Holy Ghost may be retained by a proper use of the gifts of God; by devoting them to the glory of God, and the salvation of our neighbor. "When thou art converted, strengthen thy brethren." "Occupy till I come." "To every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him." (Luke 22:32; 19:13, 26.)
 
-**IX. WHETHER, AND HOW THE HOLY GHOST MAY BE LOST**
+## **IX. Whether, and How the Holy Ghost May Be Lost**
 
 Hypocrites, and reprobate sinners lose the gifts of the Holy Ghost totally and finally, by which we mean that the Spirit at length leaves them so completely that they never recover his gifts, or enjoy any of his precious influences. It is different, however, with those who have been truly regenerated. They may, indeed, lose many of his gifts, but they never lose them totally; for they always retain some, as the example of David fully testifies: "Restore unto me the joys of thy salvation." "Take not thy Holy Spirit from me." (Ps. 51:11, 12.) Nor can they fall away finally, because they are at length led to see and to repent of their sins, and backslidings.
 
@@ -152,15 +149,15 @@ Obj. But the Holy Spirit left Saul who was one of the elect. Therefore he may le
 
 There are many ways in which the Holy Ghost may be lost. These are the opposite of those by which he may be retained. 1. He may be lost by a contempt of the ministry of the church. 2. By a neglect of the study of the doctrine of the gospel, and meditation thereon. Paul, therefore, commanded Timothy to stir up the gift of God which was in him, and also gives instruction as to the manner in which he might accomplish this, viz, by giving himself to reading, exhortation and doctrine. 3. By carnal security, by plunging heedlessly into all kinds of wickedness, and by indulging in such sins as wound the conscience. 4. By a neglect of prayer. 5. By abusing the gifts of the Holy Ghost, which is done when they are not used in such a manner as to promote the glory of God, and the salvation of our fellow-men. "He that hath, to him shall be given; and he that hath not, from him shall be taken, even that which he hath." (Mark 4:25.)
 
-**X. WHY THE HOLY GHOST IS NECESSARY**
+## **X. Why the Holy Ghost Is Necessary**
 
 The passages of Scripture here cited plainly teach why, and for what reasons the Holy Ghost is necessary: "Except a man be born of water and of the Spirit he cannot enter into the kingdom of God." "Flesh and blood cannot inherit the kingdom of God." "Not that we are sufficient of ourselves, to think any thing as of ourselves; but our sufficiency is of God." "If any man have not the Spirit of Christ, he is none of his." (John 3:5. 1 Cor. 15:50. 2 Cor. 3:5. Rom. 8:9.) Hence we may thus conclude: He is necessary for our salvation, without whom we cannot think, much less do any thing that is good, and without whom we cannot be regenerated, know God, obey him, or obtain the inheritance of the kingdom of heaven. But these things cannot be accomplished in us on account of our blindness, and the corruption of our nature, except by the Holy Ghost. Therefore the Holy Ghost is necessary for our salvation.
 
-**XI. HOW WE MAY KNOW THAT THE HOLY GHOST DWELLS IN US**
+## **XI. How We May Know that the Holy Ghost Dwells in Us**
 
 We may know if the Spirit of God dwells in us by his effects, or gifts, which include a correct knowledge of God, regeneration, faith, peace of conscience, and the beginning of new obedience to God. "Being-justified by faith we have peace with God." "The love of God is shed abroad in our hearts by the Holy Ghost which is given unto us." (Rom. 5:1, 5.) We may also know if the Holy Ghost dwells in us, by the testimony which ne bears with our spirit that we are the children of God. So also comfort in the midst of death, joy in afflictions, a firm purpose to persevere in faith, unutterable groans and fervent prayers, together with a sincere profession of Christianity, are most certain evidences and indices of the indwelling of the Holy Spirit. "No man can say that Jesus is the Lord, but by the Holy Ghost." (1 Cor. 12:3.) In a word, we may know whether the Holy Ghost dwells in us, by our faith and repentance.
 
-**TWENTY-FIRST LORD'S DAY**
+## **Twenty-First Lord's Day**
 
 ---
 [[Ursinus HC Q52|← Question 52. What comfort is it to thee, tha]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q54|Question 54. What believest thou concerning  →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Declaring the Works of the Lord
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2540
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I shall not die, but live, and declare the works of the Lord." Psalm 118:17.
 
@@ -108,7 +105,6 @@ This ought also to be a constant duty with all who love the Lord. When we have o
 Do you ask, "Whom shall I tell?" Well, good man, tell your wife if you have never yet spoken to her about these things. Christian woman, do you enquire, "Whom shall I tell?" Why, tell your husband and your children! You cannot have a better congregation than your own family. Are you in a factory? Tell your work mates about Jesus Christ. There was a Brother, worshipping with us, who went into a certain workshop and he very soon bore his testimony in such a fashion that his master and the three other men in the place were all converted—and now they are all members of this Church—and their wives, too! When the husbands had heard the Truth of God, themselves, they wanted to go home that they might tell it to their wives, and so they have all been brought in! And, lately, there has been a new workman brought into the shop who did not love the things of God and could not stand religion, but God has blessed our Brother to him, also. Tell it out then, tell it out, you who have been lately converted! Do not hide your light under a bushel. Imitate Brother Gwillim over yonder, and others in this place who are always glad to have a word with the anxious, after the service is over. Speak up for your Lord whenever you have the opportunity!
 
 I believe that it is a great help in bringing people to decision when Mr. Moody asks those to stand up who wish to be prayed for. Anything that tends to separate you from the ungodly around you is good for you. Now, if you have given yourselves to Christ, tell it out, for, after our Lord takes you Home, you cannot go back to the world! When Caesar landed on a certain shore, he burned the boats behind him so that his men might know that they must conquer or perish. I advise you to do likewise—burn your boats by a clear and explicit declaration, "The Lord has worked this great change in me, by His Grace, and I am His servant henceforth and forever." May God bless you, dear Friends, every one, for Jesus Christ's sake! Amen
-
 
 ---
 [[Sermon 2539 The Joy of Holy Households|← #2539]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2541 'Mr. Moody's Text'|#2541 →]]

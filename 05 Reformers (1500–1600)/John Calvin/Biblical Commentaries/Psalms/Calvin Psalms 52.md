@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 52
-
-**PSALM 52**
 
 This psalm was composed by David at the time when the death of Abimelech and the other priests had spread universal terror among the people, indisposing them for lending any countenance to his cause, and when Doeg was triumphing in the successful issue of his information. Supported, even in these circumstances, by the elevating influence of faith, he inveighs against the cruel treachery of that unprincipled informer, and encourages himself by the reflection, that God, who is judge in heaven, will vindicate the interests of such as fear him, and punish the pride of the ungodly.
 

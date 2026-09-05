@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/57
 ---
-
 # The Vine of Israel
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3243
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Return, we beseech You, O God ofHosts: look down from Heaven, and behold, and visit this vine." Psalm 80:14.
 
@@ -89,7 +86,7 @@ Brothers and Sisters, we are, ourselves, saved, are we not? Come, before you go 
 
 There was a young man here, one Thursday night, when I closed with some such words as these, who derived lasting benefit from them. He was a gentleman doing a large business, to whom it had never occurred that he might preach Christ. It did occur to him that night—and he straightway went to the town in which he lived and began to preach in the streets! He is now the pastor of a large Church, though he still continues his business—and his is an example to be imitated by many! I would to God that some young man might be quickened to feel that he must do something, for Israel perhaps, for Christ, certainly! And you, Sisters, may you feel a Divine impulse upon you while you pray God to visit the vine which He has planted! May He also visit you and make you fruitful vines unto His praise! The Lord bless everyone of you, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: PSALM46.
+## Exposition by C. H. Spurgeon: Psalm 46
 
 To the ChiefMusician for the sons of Korah, A Song upon Alamoth.
 
@@ -124,7 +121,6 @@ done in the past. He has desolated the desolaters and destroyed the destroyers! 
 10\. I will be exalted among thee heathen, I will be exalted in the earth. If God is willing to wait, you need not be impatient. His time is the best time and He will be exalted in due time.
 
 11\. The LORD of Hosts is with us; the God of Jacob is our refuge. Selah.
-
 
 ---
 [[Sermon 3242 Unparalleled Loving Kindnesses|← #3242]] · [[Volume 57 (1911)|Volume 57 (1911) Contents]] · [[Sermon 3244 'Our Light Affliction'|#3244 →]]

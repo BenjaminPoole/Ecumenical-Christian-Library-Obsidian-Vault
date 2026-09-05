@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 265
 
-ST. BASIL OF CAESAREA
+*St. Basil of Caesarea*
 
 To Eulogius, Alexander, and Harpocration, bishops of Egypt, in exile.
 

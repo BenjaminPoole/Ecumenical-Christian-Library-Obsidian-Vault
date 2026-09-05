@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 17
-
-**PSALM 17.**
 
 This psalm contains a mournful complaint against the cruel pride of David’s enemies. He protests that he did not deserve to be persecuted with such inhumanity, inasmuch as he had given them no cause for exercising their cruelty against him. At the same time, he beseeches God, as his protector, to put forth his power for his deliverance. The inscription of the psalm does not refer to any particular time, but it is probable that David here complains of Saul and his associates. [^1]
 

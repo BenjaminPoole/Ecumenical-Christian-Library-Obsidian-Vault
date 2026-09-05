@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # Isaiah 18
 
-**CHAPTER 18**
+***Chapter 18***
 
 ## Isaiah 18:1-7
 

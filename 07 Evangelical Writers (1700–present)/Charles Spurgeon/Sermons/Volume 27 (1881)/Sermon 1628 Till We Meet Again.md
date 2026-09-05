@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Till We Meet Again
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1628
-
-DELIVERED BY.
 
 > "The Grace of our Lord Jesus Christ be with you all. Amen." Revelation 22:21.
 
@@ -100,7 +97,6 @@ Finally, Brothers and Sisters, farewell, and as you go out I would like just to 
 And you, Backslider, do you feel as if you cannot receive a blessing? The Grace of our Lord Jesus Christ be especially with you, to raise you up and set you on your feet again, as He did fallen Peter! I would like, if I could, to say to the stranger within our gates, tonight, who does not often attend the House of God—it is our heart's desire for you that you may know the Grace of our Lord Jesus Christ in truth! To the boys and girls here, the pastor says, "God bless you." Little Mary, or Jane, or John, or Willie, or whatever your name may be, "The Grace of our Lord Jesus Christ be with you," for He says, "Suffer the little children to come unto Me, and forbid them not."
 
 As for you, gray-headed Friends, you who will soon be Home, I wish you this parting blessing, "The Grace of our Lord Jesus Christ be with you." Till I see you again, "God bless you." Till the day breaks and the shadows flee away, may the Lord Jesus never be absent from you. Amen and amen!
-
 
 ---
 [[Sermon 1627 Baptism—A Burial|← #1627]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1629 Two Good Things|#1629 →]]

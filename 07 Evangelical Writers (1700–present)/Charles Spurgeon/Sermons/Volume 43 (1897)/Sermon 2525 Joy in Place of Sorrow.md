@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # Joy in Place of Sorrow
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2525
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And you now, therefore, have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man takes from you." John 16:22.
 
@@ -87,7 +84,7 @@ I wish that all of you shared in this joy, but those who do not believe in Jesus
 
 Oh, did you know that happy day when Jesus puts our sins away—if there were a time fixed and you knew it—I think you would grow almost impatient to have it even earlier! Do not postpone this heavenly marriage, I pray you, who have been at enmity against God! Do not put off being reconciled to Him, for he who fights with God had better quickly end the battle! So be silent and end all your discussions with God without a word unless it is such a word as this, "Lord, I believe! Help You my unbelief!" God grant that you may be led to believe in Jesus now, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 16:16-33.
+## Exposition by C. H. Spurgeon: John 16:16-33
 
 Our Lord is speaking to His disciples before His departure from them to be crucified, and He says.
 
@@ -130,7 +127,6 @@ Verse 16. A little while, and you shall not see Me: and again, a little while, a
 33\. In the world you shall have tribulation. You have found that true, have you not? Perhaps you are finding it true just now. "In the world you shall have tribulation."
 
 33\. But be of good cheer; I have overcome the world. And in that overcoming He has conquered for you, also, and He guarantees to you the victory in His name!
-
 
 ---
 [[Sermon 2524 Fearing and Hoping|← #2524]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2526 Speak, Lord!|#2526 →]]

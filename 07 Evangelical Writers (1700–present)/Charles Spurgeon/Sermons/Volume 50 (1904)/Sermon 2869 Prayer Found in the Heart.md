@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/50
 ---
-
 # Prayer Found in the Heart
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2869
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Therefore has Your servant found in his heart to pray this prayer unto You." 2 Samuel 7:27.
 
@@ -99,7 +96,7 @@ Have you noticed thatched cottages and other houses where the snow lies on the r
 
 I do trust that some who never prayed before, will try to pray. Nobody ever sneers at prayer but the man who does not pray. And nobody ever denies its efficacy but the man who knows nothing at all about it. And such men are out of court and have no right to speak upon this matter. But men who are honest in other things and who would be believed in a court of law, should be believed when they bear their solemn testimony that times without number God has heard their prayers! Try it, Friend. God help you to try it! Especially begin by believing in Jesus and then shall you rightly seek unto the Almighty and He will be found of you. Yes, you shall lift up your eyes to Heaven and the Lord will look down upon you and accept you, and bless you, both now and forever! So may it be, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2SAMUEL 7:18-29;LUKE 18:1-14.
+## Exposition by C. H. Spurgeon: 2samuel 7:18-29;luke 18:1-14
 
 2 Samuel 7:18. Then went king David in, and sat before the LORD. David desired to build a temple for God and the Prophet Nathan, conceiving that such a design must be acceptable to the Most High, told the king to proceed with it. But God's mind was otherwise and Nathan had to tell David that it was well that it was in his heart, but that God intended the temple to be built, not by him, but by his son Solomon. However, the Lord gave to David very large promises and when he had received them, through Nathan, he was so overcome with gratitude that he went in and "sat before the Lord." That was his posture in prayer on this occasion. Good men have been known to pray kneeling, which seems to be the most natural attitude. Some have prayed with their faces between their knees, as Elijah did. Some have prayed standing, as the publican did. Some have prayed sitting, as David did. Probably he was mingling prayer and meditation when he "sat before the Lord."
 
@@ -136,7 +133,6 @@ ing she weary me. And thee Lord said, Hear what the unjust judge said. And shall
 13\. Would not lift up so much as his eyes unto Heaven, but smote upon his breast, saying, God be merciful to me a sinner. I do not suppose that he thought he had really prayed. He scarcely dared to call it prayer. Perhaps, as he went home, he said, "I went up to the temple to pray, but I was so bowed down with a sense of my guilt that I could not pray." But that was not our Lord's verdict!
 
 14\. I tell You, this man went down to his house justified rather than the other: for everyone that exalts himself shall be abased; and he that humbles himself shall be exalted.
-
 
 ---
 [[Sermon 2868 'Ready, Yes, Ready!'|← #2868]] · [[Volume 50 (1904)|Volume 50 (1904) Contents]] · [[Sermon 2870 Revelation and Conversion|#2870 →]]

@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 17. Luke 2:8-14
-
-**LUKE 2:8-14**
 
 **8**. And there were shepherds in the same country abiding in the fields, [^1] and watching by night over their flock. [^2] **9**. And, lo, the angel of the Lord came upon them: and the glory [^3] of the Lord shone round about them, and they feared with a great fear. **10**. And the angel said to them, Fear not: for, lo, I announce to you great joy, which shall be to all the people: **11**. For this day is born to you a Savior, who is Christ the Lord, in the city of David. **12**. And this shall be a sign to you: [^4] you shall find the babe wrapped in swaddling-bands [^5] laid in a manger: **13**. And suddenly there was present with the angel a multitude of the heavenly host, [^6] praising God, and saying, **14**. Glory in the highest [^7] to God, and on earth peace, among men good-will. [^8]
 

@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 88. Letter VI
 
-LETTER VIH
+*Letter Vih*
 
 JOHN BAEBATTJS, alias Bradacek, or Zelezna Brada (" Iron Beard ") (infra, pp. 189, 199, n.\ to whom this letter is addressed, was a close friend of Hus (infra, pp. 182, 185). As his "beard" shows, he was a layman — ' a stout rustic,' as an unknown hand has called him in the margin. From the above references we learn that he was at Constance during the trial and death of Hus, of the last scenes of which he has left us a vivid and tender account (Doc. 556). He would seem at this time to have been living in Chrumnaw.
 
@@ -102,8 +101,6 @@ extent that owing to the great number that had been infected by such errors it w
 
 5 Wenzel Kralik, Dean of St. Peter's, Wyschehrad, was appointed Patriarch of Antioch (in partibus), April 11, 1397. In 1413 he was
 
-54 LETTEES WRITTEN BEFORE THE
-
 Olmiitz; the illustrious Prince Rudolph, Duke of Saxony, Elector of the Holy Empire ; the other princes, barons, and lords, and the most noble lord Stibor, ambassador of the most illustrious prince and lord, Sigismund, King of Hungary. For I offered to reply to each and all of the charges brought against me, even submitting myself to the hearing of the whole of them, and expressing my willingness, in case anything should be proved against me, to amend my errors by the punishment of fire, unless I should yield therein. And I am prepared to-day to face the whole University of Prague and an assembly of all the prelates and to give an answer to any charges, if any one can be found to bring them forward. But no one so far is willing to take sides against me, as being liable to retaliation, ac cording to the canon laws.1 Written at Prague with my own hand on St. Giles's Day.
 
 MASTER JOHN Hus, the least of the priests of your Holiness.
@@ -126,13 +123,13 @@ t)£ATfi OF AECHBISHOP ZBINEIt 65 world, and whereas you have been placed in aut
 
 2 We may own with Palacky and Stephen of Dolein (Antihussus, p, 383 in Fez. ; Thesaurus, vol. iv. part ii.), that Hus was a little too fond of these professions of willingness to die. See pp. 96, 119, and cf. Mon. i. 106a.
 
-Part II. — From the Death of Zbinek to the Exile of Hus
+## Part II. — From the Death of Zbinek to the Exile of Hus
 
 (September 1411 — September 1412)
 
 THE death of Zbinek was not the end of strife, only its trans ference to new spheres. Henceforth for Hus there was no peace ; but the constant struggle was not altogether the fault of his foes. In September 1411 Hus was engaged in a controversy with the Englishman, John Stokes, in defence of Wyclif. As, however, The Letters of Hus make no reference to this interesting if one-sided tournament, we pass it by (see Age of Hus, pp. 158 ff.). In the autumn of this year we mark the commencement of the activity of Michael the Pleader. Michael Smradaf of Deutsch Brod was at this time priest of St. Adalbert's, Prague. Soon afterwards he entered the King's service with a project for a reformed method of extracting gold from the diggings at Jilowy. According to his enemies, a tale endorsed by Mladenowic, he absconded with a part of the money ; more probably, on achieving nothing, he deemed it wise to retire. He returned with the office of papal 'procurator de, causis fidei,' whence the name Michael de Causis, or the Pleader, by which he is usually known. His attack upon Hus came about in this wise. In the spring of 1411 Hus, who had once more been appointed the special preacher before the Synod, dared to defend in a sermon, by quotations from Wyclif's De Officio Regis— -to which for once he acknowledged his indebtedness — the harsh measures that Wenzel had taken against the clergy who sided with Zbinek. In a sermon to the people on All Saints' Eve, he again denounced the vices, especially the avarice, of the priests, singling out certain scandals connected with masses for the dead. The clergy, led on by Michael, retorted by a lawsuit, to which Hus refers in the following appeal (infra, p. 59). We see how powerless at this time the clerical party were to restrain the Reformer in the Contra Occultum Adversarium (Hon. i. 135-43), a tract which Hus finished on
 
-68 FROM THE DEATH OF
+## 68 from the Death Of
 
 February 10, 1412, and of which we shall hear again at Con stance. In one of his sermons to the people, undaunted by the lawsuit of Michael, Hus had again dwelt on the vices of the clergy. 'Immediately after dinner' he had been answered from the pulpit by some one whose name Hus does not give us. In his reply to this unknown disputant, Hus maintained the right of the secular authorities to control and correct scandalous priests, a matter which Rome always regarded with the utmost jealousy. He further defended his constant attacks upon the lives of the clergy from the charge that by this means he was destroying their order and honour. About this time, certainly before the outbreak of the dispute over indulgences in the May of 1412, Hus was also engaged in a controversy with a certain preacher of Pilsen (Replica contra Prcedicatorem Plznensem, Mon. i. 144-8), of whose views Hus speaks at length in the latter part of Letter XII.
 
@@ -212,7 +209,7 @@ Within a few weeks of writing this letter to the people of Pilsen, Hus became in
 
 1 John iii. 7-8, 10, Czech.
 
-68 FEOM THE DEATH OP ZBINEK
+## 68 Feom the Death Op Zbinek
 
 ' suitable men ' to fight for them. As with the later Tetzel, the indulgences, no doubt, were duly qualified with the-' usual limita tions, which not only Hus, but the Council of Constance, in their attack upon John seem to have overlooked. In theory they were restricted to the 'truly penitent.' In practice, for men do not sin in Latin, John's indulgences were regarded as the selling permission to sin, or the buying of pardon for past transgressions. In some cases priests of no conscience and evil life used the opportunity to wring out in the confessional money and profit for themselves, a practice which Archbishop Albik tried to check.
 
@@ -272,7 +269,7 @@ Palecz and Stanislaus were not the only foes whom Hus at this time was driven to
 
 The following letter of Hus was written in the summer of 1412. ' To which writing,' Stephen tells us, ' when the purport had been told me, and I had seen and ascertained it for myself, I composed the following brief answer ' — to wit, that he would reply at length when a suitable opportunity arose. A few months later (autumn 1412) Stephen fulfilled his promise by bringing out his Antihussus, dedicated to Stanislaus of Znaim, in the pre face of which he incorporated this letter of Hus. The work ends with a prayer and a curse : ' Holy Mary and all saints pray for us that the truth may be confirmed. Thou muck-sack (sacce) Wyclif pray for thy own that falsehood be condemned. Amen.' In September 1414, to anticipate his further writings, Stephen brought out his Dialogus Volatilis inter Aucam et Passerem, sen Mag. ffus et Stephanum, dedicated to the Bishop of Leitomischl, while in 1417, after Hus's death, he wrote his long Epistle to the ffussites. (All the above works are in Pez, Thesaurus, iv. pt. ii)
 
-TO THE EXILE OF HUS 75
+## To the Exile of Hus 75
 
 XIV. To THE BRETHREN OF THE MONASTERY OF DOLEIN, IN MORAVIA
 
@@ -344,7 +341,7 @@ I have pondered over the epistle of the blessed Augustine to Bishop Honoratus,3 
 
 5 Mon. : qui id iptum ut scilicet ecclesias non detererent . . . meruerunt. Ed. Maur : quod ipsum, ut scilicet Dei ecclesiat non deterent, Dei dono . . . meruerunt.
 
-82 FEOM THE DEATH OF ZBINEK
+## 82 Feom the Death of Zbinek
 
 Let me know, therefore, if you can rest satisfied with this advice of Augustine ; for I am urged by my conscience not to be absent and thus prove a stumbling block, although the necessary food of God's word be not wanting to the flock. On the other hand, the fear confronts me that my presence, by the wicked device of an edict, may become a pretext for the withdrawal of that food — that is, the Holy Communion, and the other things pertaining to salvation.
 
@@ -356,13 +353,11 @@ Therefore, let us humbly pray that it may please Almighty God to instruct us how
 
 * facta forte, etc. There is no MS., only the ed. 1558 (Monumenta). Perhaps we should read facta sorte, ' arrange by casting lots,' etc., for Augustine goes on to say that ' in such a difficulty the lot seems the fairest decision, in default of others.'
 
-Part III. — Letters Written during the Exile of Hus
+## Part III. — Letters Written during the Exile of Hus
 
 (September 1412 — August 1414)
 
 Hus, as we have seen, had left Prague in the early autumn of 1412, but soon returned. On his final retirement in the December, Wenzel, who had insisted on the step, fulfilled his part of the unwritten compact by giving orders for a Synod to meet on February 2 at Bohmish Brod, a small town belonging to the Archbishop. In reality the Synod assembled at Prague on February 6, at the very time at which in Rome the works of Wyclif were being publicly burnt in the great square of St. Peter's, on the orders of John's Lateran Council (February 10, 1413). Before this Synod all parties laid their memorials — the theological faculty, the artists, and the Reformers. The opponents of Hus, chief among whom was " the Iron Bishop," John Bucka of Leitomischl, insisted that the papal decisions and the excommunication of Hus must be upheld, ' that a vicechancellor be appointed to search out and punish the errors of masters and scholars,' and that ' the Czech writings of Hus — the stalks of these accursed tares and schism — be placed under an anathema.' Obedience, they claimed, was the first duty of all, nor was it their business to consider whether the excommunication of Hus was just or unjust. Hus on his part — he was not there in person — both in his appeal to the Synod (infra, p. 115) as well as in his ' conditions of peace,' demanded the upholding of the decision of Zbinek of July 6, 1411. He harped much on the injury done to the realm by the accusations of heresy. Let the heretic be named, if known. On the personal charge he was prepared to defend himself under penalties against all opponents, but demanded in return that his calumniators, if they failed to substantiate their charges, should not escape scot free. Hus's most important condition, one that shows also the influence of Wyclif, is his claim that the Civil Courts must be supreme ' in all approbations, condemnations, and other acts concerning Mother
-
-84 LETTEES WRITTEN
 
 Church.' Hus was followed by Jakoubek, who put in a plea that peace without a real reform would he valueless. Finally, the masters of Prague, the artists, wrote an elaborate reply, in which we may detect the inspiration of Jesenicz, to the claims and arguments of the theologians. The Synod was dissolved without result, and Hus retired once more to his asylum at the castle of Kozi hradek, near Austi.
 
@@ -396,7 +391,7 @@ Moreover, you ought to know that to abjure is to be guilty of renouncing what yo
 
 longer to hold ^Christianity. Vice versd, if a man holds a heresy — e.g., suppose he believes that the Lord Christ is not very God, as Jews and pagans believe — and then renounces this error, he is said to have abjured. Accordingly, be assured that if any of you abjure, as they suggest in their letters, he will abjure either the true faith and the truth, or — heresy and error. Accordingly, either after abjuring he will hold heresy or error — or before doing so, he will be proved to have held what he abjures. There fore, understand that in their letters they judge you to be heretics and demand that you abjure the heresy which they suppose you to hold. From this it is evident that a son or friend of yours, if he abjure, can be disgraced for having consorted with a heretical father or friend. Further, it is evident that any other person can rightly say to any one who abjures, "You abjured the heresy which you held and you are not worthy of me." In the third place, understand that if any one abjures and retains in his mind the truth he abjures, as they bid you do, he will be a perjurer. Let us then consider these matters and give the preference to the truth and to the promise of God. Let us live nobly in love and resist the lie of Antichrist to the end. Let us make the Saviour Almighty our Helper, Whom no man can overcome, and Who will never forsake us so long as we ourselves do not forsake Him. He will give us an eternal reward — to wit, the satisfaction of will, reason, memory, and all the senses of the body without stint. I write this to you (for I cannot conveniently come to you) that the priests may not thwart you in your religious duties and interfere with your good pleasure. Amen.
 
-90 LETTERS
+## 90 Letters
 
 XVII. To THE SAME. (Without date: early in October 1412)
 
@@ -462,8 +457,6 @@ The high priests, priests, scribes, and Pharisees, the Herods, Pilate, and the p
 
 And it is this same Truth Who hath sent to Prague, in the place of one feeble, weakly Goose, falcons and eagles, which surpass all other birds in the keenness of their sight. These, by God's grace, soar high and seize other birds for Christ Jesus, Who will strengthen these His servants and confirm all His faithful ones.
 
-96 LETTERS WRITTEN
-
 For He saith : / am with you all days, even to the consummation of the world.1 If then. He, the true God, is with us, our mighty and righteous Defender, •who in his malice 2 would be able to withstand us ? What fear shall part us from Him ? or what death ? What shall we lose, if for His sake we lose wealth, friends, the world's honours, and our poor life ? Surely at last we shall be delivered from this misery to receive wealth a hundred-fold more splendid, friends far dearer, and a joy more perfect. Death will not rob us of these things. For whoso dies for Christ, he is conqueror, and is delivered from all misery, and attains the eternal joy to which may it please our Saviour to bring us all.
 
 This letter, dear brothers and sisters beloved, I write that you may be steadfast in the truth you have learnt and may have no fear of citations, and pay no less heed than before to the hearing of God's word by reason of the cruel threats they utter. For God is faithful,3 Who will confirm and guard you from evil.
@@ -498,7 +491,7 @@ But you know, dear friends, that Christ's disciples, who dwelt in His company, t
 
 2 John vi. 67 (A.V. vi. 66). » Matt, x 35. 4 Luke xzi. 17.
 
-DUEING THE EXILE 99
+## Dueing the Exile 99
 
 But a hair of your head shall not perish: in your patience you shall possess your souls.1 If then a single hair shall not perish, how then can the faithful perish? Therefore, dear friends, study to keep the true faith and the sure hope. Stand firmly in the love of God's word and cleave to it with earnest desire, listening to those whom the Saviour hath sent, that they may preach His gospel to you with fearless constancy, and withstand ravening wolves and false prophets. It is concerning these that Christ speaks to the faithful ones in the words : Many false prophets shall arise and shall seduce many.2 Christ bids the faithful beware of them, and teaches how they can be recog nised — to wit, by their fruits, which are pride, fornication, greed, simony, contempt of God's word and persecution of the faithful, backbiting, sycophancy 7 zeal for the traditions of men, etc.
 
@@ -618,8 +611,6 @@ Lo ! dear friends, to-day, as it were, an angel is saying to the shepherds : I b
 
 As you commemorate these things, dear friends, rejoice that to-day God is born a man, that there may be glory to God in the highest and on earth peace to men of goodwill. Rejoice that to-day the infinitely Mighty is born a child, that there may be glory to God in the highest, etc. Rejoice that to-day a Reconciler is born to reconcile man to God, that there may be glory to God in the highest, etc. Rejoice that to-day He is born to cleanse sinners from their sin, to deliver them from the devil's power, to save them from eternal perdition, and to bring them to eternal joy, that there may be glory to God in the highest, etc. Rejoice with great joy that to-day is born unto us a King, to bestow in its fulness upon us the heavenly kingdom, a Bishop to grant His eternal benediction, a Father of the ages to come, to keep us as His children by His side for ever : yea, there is born a Brother beloved, a wise Master, a sure Leader, a just Judge, to the end that there may be glory to God in the highest, etc. Rejoice, ye wicked, that God is born as a Priest, "Who hath granted to every penitent absolution from all sins, that there may be glory, etc. Rejoice that to-day the Bread of Angels — that is, God — is made the Bread of men, to revive 1 the starving with His Body, that there may be peace among them, and on earth, etc. Rejoice that God immortal is born, that mortal man may live for ever. Rejoice that the rich Lord of the Universe lies in a manger, like a poor man, that he may make us rich. Rejoice, dearly beloved, that what the prophets prophesied has been fulfilled, that there may be glory to God in the highest, etc. Rejoice that there is born to us a Child all-powerful, and that a 1 Refocilkt. Cf. Vulgate, 1 Eeg. xvi. 23.
 
-110 LETTEES WEITTEN
-
 Son is given to us, all-wise and gracious, that there may be glory to God in the highest, etc. Oh, dear friends, ought there; to be but a moderate rejoicing over these things ? Nay, a mighty joy ! Indeed, the angel saith : -Z bring you good tidings of great joy, for that there is born a Redeemer from all misery, a Saviour of sinners, a Governor of His faithful ones ; there is born a Comforter of the sorrowful, and there is given to us the Son of God that we may have great joy, and that there may be glory to God in the highest and on earth peace to men of goodwill. May it please God, born this day, to grant to us this goodwill, this peace, and withal this joy !
 
 XXIII. TO THE SAME1 (Without date: January (?) 1413)
@@ -659,8 +650,6 @@ Such, then, is the mercy that comes to you from
 1 Lam. i. 14 ; i. 18. 2 Matt, xxvii. 46. 3 Matt, xxvii. 43.
 
 4 So Douai. • Matt, xxvii. 40.
-
-114 LETTERS WRITTEN
 
 God the Father and the Lord Jesus Christ our Saviour, Who grants you also peace. Our Master, the Peacemaker, taught His disciples to be peace makers, so that, in whatsoever house they entered, they were to say : Peace be to you.1 When He rose from the dead and entered into the midst of them, He said: Peace be to you? When, too, He was minded to depart from them to His death, He said: Peace I leave with you, my peace I give unto you.3 After His manner, therefore, I desire peace for you also, dear friends — peace to you from Him, that you may live virtuous lives and overcome the devil, the world, and the flesh — peace to you from Him, that you may love one another, ay, and your enemies* — peace to you, that that you may peace ably hear His word — peace to you, that you may speak with discretion — peace to you, that you may know how how to be silent with advantage. For he that hears in a humble spirit, doth not contend in a cause with malice ; he that speaks with discretion, overcomes the contentious ; he that keeps silence to good purpose, doth not quickly wound his conscience. For these reasons peace be unto you, grace and mercy — grace that preserves from sin ; mercy that delivers from eternal fire and the peace of eternal repose in the eternal joy, which comes to all the faithful after this paltry life — from God the Father and the Lord Jesus Christ, our Saviour, to whom be praise for ever and ever.5 Amen.
 
@@ -788,7 +777,7 @@ Item, whatever the Pope rules must hold good.
 
 » P. 83 4 P. 26. 5 P. 26.
 
-DUEING THE EXILE 125
+## Dueing the Exile 125
 
 But Boniface with the cardinals solemnly decreed that Wenzel, King of Bohemia, is not King of the Romans, nor Sigismund of the Hungarians. There fore we must hold this.1
 
@@ -799,8 +788,6 @@ And which of us can search out the number of decisions that Antichrist might aim
 2 A favourite argument with Hus, who repeats these illustrations, especially that of Pope Joan, more than once — e.g., in his De Eccletia (Mon. i. 2070, 220(z, 221a), Eesponsio ad Stanislai (Mon. i. 271«, 274J, 277d). He gives his authority as ' Cestrensis, lib. 4, c. 14 ; lib. 5, c. 3 ' — i.e., the Polyohronicon of Ralph Higden (f ca. 1363), a monk of Chester. Hus would be introduced to Higden by Wyclif (cf. De Officio Regis, pp. 128, 146), but appears to have actually read this for himself —at any rate, I cannot put my finger on the connecting link, though the inaccuracy of the references (which should be iv. c. 14, v. c. 32) would point to one. . Cf. infra, p. 131, n. 4.
 
 Liberius, who was appointed Pope on May 22, 352, lapsed into semiArianism in the winter of 357-8, though it is difficult to settle precisely which of the many Arian formulas of the time he accepted. Before his death (September 24, 366) he returned to full orthodoxy. For the myth of Pope Joan — Agnes, as Hus calls her — see Dbllinger, Fables respecting Popes during M.A., 1-67. As to Joan, whom Hus describes, following Higden, as an ' Anglicus ' from Mainz, Hus would meet no opposition. Gerson had used the illustration himself (see Op. Gers. ii. 71), and Dietrich of Niem mentions the very school in which she taught.
-
-126 LETTEES WEITTEN
 
 Leo the heretic, and Pope John,1 who was delivered of a boy, were the heads of the Roman Church. If that be the case, then it matters not if some time afterwards a harlot or an Antichrist of the first order should be the head of the Holy Roman Church. Then, of course, Antichrist wishes to be placed on an equality with Christ. But what fellow ship hath Christ with Belial ?2 It is not sufficient for him and his satraps 3 that he is Christ's vicar (at all events, if he strenuously fulfils Christ's law), and that they themselves are the ministers of the Church, performing regularly the duty of preaching the gospel after the manner of the holy apostles, who claimed to be the ministers given to the Church to teach the very law of Christ.
 
@@ -872,8 +859,6 @@ s The decretal 'A nobis' is dated May 6, 1199. See KichterFriedberg, Corp. Jur. 
 
 4 Wyclif in his Cruciata calls her 'Anna' (Polem. Works, ii. 619), nor does he mention ' Cestrensis.' This again adds weight to the supposition that in this matter Hus was not following Wyclif. See p. 125, ». 2.
 
-132 LETTEES WEITTEN
-
 Holy Father ; and the cardinals, together with the others, affirmed that very same thing. May Christ Jesus then be blessed for having suffered this to take place in His Church for our instruction and warning !
 
 XXX. To THE SAME (Without date : end of April (?) 1413 ')
@@ -889,8 +874,6 @@ on the world's good report; for I know that he is conqueror, who is slain.
 You know the subject-matter of the dispute : first, the condemnation of the articles ; secondly, as you have heard, the robbery connected with the in dulgences ; and now a third objection has been added by the counsel of the Pharisees.1 In the first place, it is concerned with the point that my fellow-preachers and I are a pestiferous set of clerks, in error as to the sacraments; secondly, with the heretical dictum, " There cannot be found or given upon earth any other successors of that order than the Pope, who is head, and the College of Cardinals, which is the body of the Roman Church " ; thirdly, with this point of the judgment, " The Pope is the head, while the College of Cardinals is the body, being clearly the true successors of the chief of the apostles " ; and fourthly with this point, " The Apostolic Seat — that is, the Pope with the cardinals of the Roman Church and his prelates — must be obeyed in everything whatsoever, if what is purely good is not forbidden nor what is purely evil enjoined." By God's grace I trust I have never disseminated such gross errors, nor ever will do so ! For what can be a greater exaltation of Antichrist above all we speak of as God — that is, above the deity and humanity of Christ — than to say that God cannot have any other successors in His Church than the Pope along with his cardinals ? If they had laid it down that God cannot have worse people belonging to His Church than the Pope and the cardinals, they would have had greater evidence for their words.
 
 1 In consilio. Perhaps we should read in concilio, with a reference to the Synod.
-
-134 LETTEES WEITTEN
 
 Methinks therefore that God from time to time by their inventions reveals to us Antichrist and his disciples. But He will give to us knowledge and a spirit of courage to wage war on all such deceivers !
 
@@ -938,7 +921,7 @@ Grace and peace from our Lord Jesus Christ be with you. Amen. Thus saith the Lor
 
 1 I have not traced this quotation, or its source.
 
-Part IV* — Letters Written on the Journey to Constance
+## Part IV* — Letters Written on the Journey to Constance
 
 (August — November, 1414.)
 
@@ -946,11 +929,9 @@ ON October 30, 1413, Sigismund, at that time at Como, had summoned, as 'the defe
 
 Whatever steps Wenzel might take, Sigismund, as the heir to Wenzel's domains, determined to bring the matter before the Council. He was persuaded that the affair could be peaceably settled, and that he would win the gratitude of Bohemia. He accordingly despatched from Friuli, in Lombardy, three of his court to bid Hus present himself at Constance, and to act as his escort. Th e good intentions of Sigismund are evident in his choice. John of Chlum, surnamed Kepka, and Wenzel of Lestna, of the house of Duba, were both adherents of Hus, who had served with Sigismund in 1413 in his Venetian war. The third, Henry Chlum of Lacembok, was John of Chlum's uncle. Sigismund also promised that he would obtain for Hus a full hearing and send him a safe conduct ' written in Latin and German.'
 
-140 LETTEES WEITTEN ON THE
-
 Hus at once prepared to obey. In view of his own appeal to a General Council, he could not do otherwise. He was too unconscious of his real dissent from Rome to know the risks he ran. His next move was not without worldly wisdom. On August 26, 1414, he posted up notices in Latin and Czech throughout the whole of Prague offering ' to render an account of his faith and hope ' before the Synod that would open on the following day. Numerous copies of this notice have been pre served. The Latin Notice l ran as follows : —
 
-NOTICE TO THE SYNOD
+## Notice to the Synod
 
 Master John of Husinecz, bachelor of divinity,3 is ready to appear before the most reverend father, Conrad, Archbishop of Prague, legate of the Apostolic Seat, at the next convocation of all the prelates and clergy of the kingdom of Bohemia, being at all times prepared to give an account of the faith and hope that is in him to the satisfaction of all who may inquire of him thereof ; and, moreover, to see and to hear each and all who have a mind to charge him with obstinacy in error or with any heresy what soever, in order that they may render themselves liable in that same place, according to the require ments of the law of God and of justice, to the penalty
 
@@ -962,7 +943,7 @@ JOUENEY TO CONSTANCE 141 of retaliation, if they fail legally to prove against h
 
 On the refusal of the Synod to receive either Hus or his proctor, Jesenicz, Hus on August 30 once more posted up notices on the door of the royal palace and throughout all Prague stating his future intentions.
 
-APPEAL TO THE COURT
+## Appeal to the Court
 
 To his Majesty, to the Queen, to their advisers, the Prefect of the court, and the whole court.3
 
@@ -977,8 +958,6 @@ I, Master John Hus, do hereby make known and declare that, whereas I did clearly
 142 LETTERS WRITTEN ON THE cognisance might be taken of my beliefs : accord ingly, if there had been any one in the kingdom of Bohemia who could charge me with any heresy, he might have announced his name in the Arch bishop's court and publicly indicted me there. But inasmuch as no one came forward and my lord the Archbishop gave me and my proctors no locus standi, therefore, in the name of justice, I entreat his Majesty, the Queen, their advisers, and the Prefect of the entire court to grant to me due attestation of this fact — namely, that I made the above declara tion, and publicly posted up a letter concerning this matter, and that no one in the whole kingdom stood forth against me. Again, besides all this, I hereby make known to the whole of Bohemia, and to the other countries from old time of vast importance, that I wish to appear in Constance at the Council that has been summoned, in the presence of the Pope, if he is to be there, and before the said General Council. If any one can lay any heresy to my charge, let him prepare to set out to the Council, that he may there in person lay before the Pope and the whole Council whatever heresy he hath heard me utter. If I shall be convicted of any heresy, I do not refuse to suffer the penalties of a heretic. But I trust G-od, whom I truly love, that He will not permit the detractors and adversaries of the truth to over come the truth.
 
 Hus did not neglect to take other steps for his defence. The same day (August 30), ' in the upper room of the house of the Master of the Mint,1 John of Jesenicz, the procurator of Hus, humbly but earnesly inquired of Nicholas, Bishop of Nazareth, inquisitor of heresy for the city and diocese of Prague : " Reverend father, do you know of any error or heresy in Master John de 1 See infra, p. 211, n. 3.
-
-JOUENEY TO CONSTANCE 143
 
 Husinecz, o^'asHus?" To which the said Lord Nicholas answered, not of compulsion, but freely and publicly in the Czech tongue : " I have met Master John Hus many times and in many places, eating and drinking with him. I have often been present at his sermons ; I have had many talks with him on diverse matters of Holy Scripture. In all his words and deeds I have ever found him to be a true and catholic man, in no wise savouring of heresy or error " ' {Doc. 242).
 
@@ -1009,8 +988,6 @@ Your Majesty's obedient petitioner in the name of the Lord Jesus Christ.
 1 1 Pet. ii. 21, 22. » Matt. v. 10. ' Supra, p. 60 n.
 
 * This is rather contradictory of the statement infra, p. 230.
-
-146 LETTEES WEITTEN ON THE
 
 Sigismund was anxious that Hus should journey in his suite. The Kefonner would have fared better, as the King pleaded in his own excuse at a later date, if he had accepted the offer. Such, however, was his confidence in his own integrity, his eagerness to confront his enemies, that Hus set off without even waiting for the safe-conduct. As soon as he had received Sigismund's official promise of the safe-conduct — dated Rothenburg, October 8 — Hus started (October 11, 1414), leaving the formal document to overtake him as best it might. Hence the allusion in the following letter, written in Czech, to his congregation at the Bethlehem, immediately after his departure from Bohemia.1 This letter, we may add, fell into the hands of Hus's enemies, and gave him much trouble at Constance, owing, as Hus avers, to the faulty way in which it was mis-translated into Latin. The latter part of the letter is very beautiful. At the same time Hus sent a sealed letter to ' Master Martin, his disciple,' which forms one of the treasures of the collection, invaluable for its insight into the tender, somewhat self-upbraiding, spirit of the writer. This letter (XXXV.) should be compared with similar passages in Bunyan's Grace Abomiding.
 
@@ -1048,8 +1025,6 @@ Master Martin, dear brother in Christ, I entreat you in the Lord to fear God and
 
 2 That is, probably, one of the junior members of the University who had attached himself to Hus spiritually. (Of. pp. 80, 235, 274.)
 
-160 LETTEES WRITTEN ON THE
-
 Christ, and how gladly I would have taught you in one day, if I could, all that I knew. You know, too, that I abhorred the greed and the inordinate lives of the clergy ; on which account by God's grace I am suffering the persecution which is soon to do its worst with me ; yet I am not afraid of being brought to confusion for the name of Jesus Christ. I beg you also with all my heart not to run after benefices ; nevertheless if you should be called to a living, may your motive be the glory of God, the salvation of souls and hard work, not the possession of fine clothes and lands.1 But if you are made a rector, beware of having a young woman as cook and of building your house rather than your soul ; see that you are a builder of a spiritual building, and to the poor be gracious and of a humble mind. Don't spend your substance on feasts. I am afraid also if you don't mend your ways by leaving off your fine unnecessary garments, you will receive evil at the Lord's hands ; as I, too, shall receive evil, poor wretch ! who also wore such things, led astray by the evil habits of the men among whom I suffered hurt to my soul, contrary to God's will, through my proud spirit. But as you have known full well my way of life and my preaching from your youth up, there is no need for me to write more to you on this score. But I beg you, by the mercy of Jesus Christ, not to follow me in any frivolity that you have seen in me. You know that, alas ! before I
 
 1 Habitio soropharum vel prcediorum. I take scropharum to be a mistake for schof arum— i.e. (following the changes, usual in Hus, of / for &) schubarum, from schuba, a kind of Persian garment, on which see Ducange-Carpentier. Otherwise the word is inexplicable. One MS. reads ambitio for habitio—" the desire for fine clothes."
@@ -1071,8 +1046,6 @@ When Hus received Sigismund's call to Constance, he was staying at the castle of
 8 Vel GirziJtoni. Cf . pp. 206, 236.
 
 4 Sexagena. Thfee Prague ' sexagenae ' of groats were worth twelve florins. Cf. the oath of the poor students in 1371 in Man. Univ. Pragensis, i. pt. i. p. 47.
-
-152 LETTERS WRITTEN ON THE
 
 Bechyne, whose name we shall meet with more than once in the letters. From this retreat Hus set off on October 11, under the escort of John of Chlum, Wenzel Duba, and Henry Lacembok. With these also rides John Cardinalis of Reinstein. The whole escort consisted of thirty mounted men and two carts, in one of which Hus rode with his books. Among the retinue we may note Peter Mladenowic, the secretary of Chlum, who has preserved for us the letters of these last months, to whom therefore the reader owes much gratitude.
 
@@ -1154,8 +1127,6 @@ Greetings from Christ Jesus ! "We reached Con stance the Saturday after All Sain
 
 1 i.e., a third the price, For prices at Constance, see Hardt, v. 50-52.
 
-JOUENEY TO CONSTANCE 159
-
 Baron Lacembok is riding off to-day to the King. He has urged me to attempt nothing definite before the arrival of the latter. I am hoping that I shall have a public hearing for my reply. There are many Parisians and Italians here, but few arch bishops as yet, and even few bishops. The cardinals are present in great force, riding about on mules, but such sorry scrubs ! l When I rode into Con stance I heard at once of their riding about — I was riding myself through a vast crowd — but I could not see them for the great throng about me. Many of our Bohemian friends spent on the journey all the money they had, and are now in sad straits. I am full of sympathy with them, but cannot afford to give to all. Baron Lacembok took over the horse of Baron Pfibislaus ; but my horse, Rabstyn, beats them all for hard work and spirit. He is the only one I have by me, if at any time I should have to go out of the city to the King. Greet all my friends without exception, etc. This is the fourth 2 letter written away from home. It is sent off on Sunday night after All Saints' Day in Con stance. None of the Bohemian gentry 3 are here except Baron John of Chlum, who escorted me and looks after me like a knight, and everywhere does more preaching than I, in declaring my innocence.4 Sent off from Constance. Pray God for my con stancy 5 in the truth.
 
 1 Has falls back on Czech to express his feelings. z That is, counting Letters XXXIV. and XXXV. as sent away after leaving Krakowec. Otherwise we must assume some are lost.
@@ -1165,8 +1136,6 @@ Baron Lacembok is riding off to-day to the King. He has urged me to attempt noth
 4 See " Doctor Biberach," pp. 155, 192, 195, 198.
 
 * The pun is characteristic and very frequent. Cf. pp. 160, 195, 197.
-
-160 LETTERS WEITTEN ON THE
 
 XXXVHI. To THE SAME (Constance, November 6, 1414)
 
@@ -1187,8 +1156,6 @@ I imagine I shall be hard up for necessaries, if the Council is prolonged. So as
 1 See p. 155, n. 2.
 
 2 Epis. Lulucensem, usually, but wrongly translated, " Bishop of Liibeck" (Lubicensem). John de Bornsnitz, Bishop of Lebus, was a canon of Prague, a doctor of decrees, and 'auditor Pal. Apostolici.' (See infra, p. 162.) He was Bishop from September 24, 1397—1420, when he was translated to Gran. In January 1410 we find him des patched by Alexander V. on special business into Bohemia. He was one of the special inquisitors appointed to examine Hus. See infra, p. 174.
-
-162 LETTERS WRITTEN ON THE
 
 In addition to the letters of Hus written at this period, we possess a most valuable letter by John Cardinalis of Reinstein, at one time (e.g. Mon., Ep. Piiss.) mistakenly attributed to Hus himself.
 
@@ -1211,8 +1178,6 @@ JOUENEY TO CONSTANCE 163 alleged1 against our master. They cut the matter short 
 i.e., Chlum and Duba, as usual. 9 The usual pun for Hus.
 
 1 P. : quid preesenti anno sabbato ante Martini festum ipsius occurrit Celebris vigilia, for which read Celebris vigilia ante festum Martini ipsius sabbato oocurrit.
-
-164 LETTEES WEITTEN ON THE
 
 XXXIX. To THE FAITHFUL BOHEMIANS l (Constance, November 16, 1414)
 
@@ -1239,8 +1204,6 @@ The rumour to which John Cardinalis alludes, that Hus intended to preach — whi
 JOUKNEY TO CONSTANCE 167 method they adopted showed either hesitation or duplicity. On November 28, the cardinals, led on by Palecz and Michael the Pleader, sent at breakfast-time the Bishops of Augsburg and Trent, and the burgomaster of Constance, to inform Hus ' that they were now ready to hear him.' Cblum at once detected the plot, for the house was surrounded with soldiers. ' The devil himself,' he said to the burgomaster, ' if he came to plead, ought to have a fair hearing.' 'I have not come,' added Hus, rising from the table, ' to address the cardinals, but the whole Council.' The envoys replied, 'that they had come only for the sake of peace, to avoid a tumult.' After further parley, Hus consented to go with them. ' God bless you,' he said, bidding farewell on the stairs to his weeping hostess. The two bishops for their part could not conceal their joy. ' Now,' they said, ' you will not say mass here any more.' ' So Hus rode away on a small horse to the Pope's palace.' Interrogated by the cardinals , ' Kather than hold any heresy,' he replied, ' I would prefer to die.' ' Your words are good,' replied the cardinals, and retired to dine, leaving Hus to be badgered by a Franciscan friar, who posed ' as a simple monk desirous of information,' but was really, as Hus learned from the soldiers, one ' Master Didaco, reputed the subtlest theologian in all Lombardy.' After dinner, 'at four in the afternoon, the cardinals returned to consider further what they should do with the said Hus. His adversaries Palecz and Michael the Pleader continued instant in their demand that he should not be released. Dancing round the fire, they called out in their joy, " Ha, ha, we have him now. He shall not leave us until he has paid the last farthing." ' Chlum, meanwhile, sought out the Pope. John took refuge in characteristic evasions. As for the friar — Didaco — ' he is a clown, he is not one of my people.' The imprisonment was the act of the cardinals. ' You know, very well,' he added, ' the terms on which I stand with them.' Had Hus, he continued, really a safe-conduct ? ' Holy Father,' replied Chlum, ' you know that he has ' (Mladenowic's Relatio in Doc. 248-52).
 
 The fate of Hus was really sealed. That night ' about nine he was led away to the house of one of the precentors of the cathedral.' Eight days later (December 6) he was removed ' to a dark cell hard by the latrines,' in the monastery of the Blackfriars, in those days on an island in the lake, though now joined to the town. In later prints we can still see it strongly surrounded with its own walls. (See map in Hardt, v . iv.)
-
-168 LETTERS WEITTEN ON THE
 
 For several days carpenters had been hard at work in the monastery preparing the prison for his reception, fitting in bolts, locks, and irons, making up six beds for his gaolers, and fixing up a stove for their comfort. But the comfort of Hus was the last thing considered, and the pestilential latrines brought on a grievous sickness so severe that his friends 'despaired of his life. But the Pope sent his own physician, who administered to him clysters.' The death of the prisoner before his condemnation would not have suited the purposes of the Council.
 
@@ -1274,7 +1237,7 @@ Your principal friends * are grieved over the reply given about the prison,3 and
 
 3 i.e., Sigismund's refusal to release, or if the letter be assigned to a different date, to difficulties experienced in obtaining the transfer of Hus to the refectory.
 
-Part V, — Letters Written during the Imprison^ ment at the Blackfriars
+## Part V, — Letters Written during the Imprison^ ment at the Blackfriars
 
 (November 16, 1414— March 24, 1415)
 
@@ -1296,8 +1259,6 @@ Dear friends, I beseech you, as I sit here in my prison, of which I am not asham
 
 1 Written in Czech.
 
-IMPRISONMENT AT THE BLACKFEIAES 173
-
 I beseech, you, I say, to pray God for me that it may please Him to be with me. For in Him alone I have hope, and in the prayers you offer to Him, that He will cause me to be faithful in His grace even unto death. If at this time it shall please Him to take me to Himself, His holy will be done ; or if He shall deign to restore me alive to you, His will likewise be done. I am now assuredly in need of your best help ; yet I know that God will send no calamity or trial upon me but what will turn out for your good and mine, so that, in being exercised thereby and abiding steadfast, we may win a great reward.
 
 Let me inform you that my enemies have given an utterly false translation in Latin of those letters which I had left for you on starting on my journey.1 They are writing so many articles against me that my time in prison is fully occupied in replying to them. I have no counsellor by me but the merciful Lord Jesus, "Who said to His faithful friends : / will give you a mouth and wisdom, which all your adver saries shall not be able to resist.2 Oh, dear friends, remember that I laboured with you in all zeal, and ever long for your salvation, even now when I am in prison and in the midst of great trial. Sent off at Constance on Saturday, the vigil of St. Fabian.
@@ -1309,8 +1270,6 @@ XLI. To JOHN OF CHLUM
 Gracious lord, please get me a Bible, and send it by that trusty man of yours. If your secretary Peter 3 hath any ink, I should like to have it, with some pens and a small inkhorn.
 
 1 Bee p. 147. 2 Luke xxi. 15. * Mladenowic,
-
-174 LETTERS WRITTEN DURING THE
 
 I know nothing either of my Polish servant or of Cardinalis, except that I have news that your lordship is here and in the King's company. I beg you therefore to entreat his Majesty, both on my own account and for the sake of God Almighty, Who hath so richly endowed him with His gifts ; and, further, for the sake of manifesting justice and truth to the glory of God and the welfare of His Church. Entreat him, I say, to release me from imprisonment, so that I may be able to prepare myself for a public hearing. You should know that I have been very ill, and have had clysters applied to me ; but I am now well again. Please give my greetings to the Bohemian lords who are at the court of the king. Written with my own hand, which your secretary, Peter, knows.1 Sent off from prison. May all of you who are my friends remember the Goose !
 
@@ -1346,7 +1305,7 @@ The letters written to Jakoubek to which Hus refers in the following letter are 
 
 4 Possibly the news of th growing dissensions between John and the Council. • P. 169, n. 2. • See n. 1 above. T Gaoler Eobert.
 
-IMPRISONMENT AT THE BLACKFBIAES 177
+## Imprisonment at the Blackfbiaes 177
 
 James, so called from his stature), whose fuller name was Jakoubek ze Stribra of Mies, had taken his B.A. at Prague in 1393, his M.A. in 1397. He was therefore older than Hus, and from the first had been one of the leading spirits among the Reformers. He had succeeded Michael the Pleader as vicar of St. Adalbert's. He had now become the leader of the Utraquists in the question of the cup. Two Waldensians from Dresden, Peter and Nicholas, ' who were given to asking curious questions,' had raised the matter, and on being expelled from the diocese had come to Prague. Here they had persuaded Jakoubek, in the summer of 1414, to return to the primitive custom of the Church. So at four churches in Prague, St. Michael's, St. Nicholas's, St. Adal bert's, and St. Martin's, the laymen once more partook of the communion under both species. But at the Bethlehem, under priest Hawlik, there seems to have been a protest against the innovation (p. 248, infra). As we have seen already (p. 169)» this led to a division among the Reformers, and Chlum invoked the authority of Hus. Hitherto, Hus had taken little interest in the matter — in fact, in his De Coena Domini, written at a later date, he still practically concedes the Roman position.1 But his views were already undergoing a rapid change, and he soon committed himself decisively to the opinions of Jakoubek (infra, 245, 248). The lengthy discussions of the matter between Jakoubek and Andrew Brod have been preserved for us in Hardt (iii. 335-933), and prove Jakoubek to have been an acute and well-read debater.
 
@@ -1385,8 +1344,6 @@ Item, noble and gracious John, if an audience shall be granted to me, I ask that
 Item, you should know that in the presence of witnesses and notaries in the prison I asked the commissioners to appoint me a proctor and advocate. They agreed to do so, but afterwards refused my request.2 I have handed over my case to the Lord
 
 1 Cf. p. 147, ? See remarks on p. 175.
-
-180 LETTERS WRITTEN DURING THE
 
 Jesus Christ that He Himself may be proctor, advocate, and judge.
 
@@ -1456,8 +1413,6 @@ Tell John Cardinalis to be careful ; for all the men who affected to be friendly
 
 * One of the doctrines that Hus did not believe, in this, for once, not following the lead of Wyclif. The tenses "attend," "maintain," are probably due to haste, and should be pasts.
 
-184 LETTERS WRITTEN DURING THE
-
 I am surprised that no Bohemian visits me in prison. Perhaps they are acting for the best. Let this letter be torn up at once.
 
 Send another shirt by the bearer. My Lord John, insist with the Bohemians that the citation against certain parties already issued be annulled ; and that the King have compassion on his inheritance and not let it be harassed gratuitously because of one dis affected person.
@@ -1516,8 +1471,6 @@ I feel my debt to the noble Baron Wenzel de Duba.
 
 1 Wenzel, not Sigismund. 2 Infra, p. 196, n. 1.
 
-188 LETTERS WRITTEN DURING THE
-
 Please greet him by my prayers, which are set loose by my prison, and give him my thanks for his faithful interest in my cause. Greet the rest of the faithful Bohemians.
 
 I blame myself for not keeping back my tears on suddenly seeing Master Christian ; but the sight of my faithful master and particular benefactor made them stream from my eyes.
@@ -1566,7 +1519,7 @@ The letters, undated both in the originals and Palacky, would seem to have been 
 
 2 Possibly Janussius Kalisky and Zaurissius Niger, the ambassadors of Jagiello to the Council, who could therefore obtain access by reason of their office, For other Poles at Constance, see Doc, 256.
 
-IMPRISONMENT AT THE BLACKFRIAES 191
+## Imprisonment at the Blackfriaes 191
 
 From another letter of Hus we learn some further details of his dreams, of his own belief in their value, and, apparently John of Chlmn's incredulity. (Compare infra, p. 222, with p. 192, second sentence.)
 
@@ -1724,8 +1677,6 @@ I noticed Baron Wenzel de Duba in tears while he was speaking to me. Lord Mysska
 
 4 Wenzel Mysska de Hradek, whose name we find on the petition of the Polish and Czech nobles of May 13 (see infra, pp. 204 and 232).
 
-IMPRISONMENT AT THE BLACKFEIAES 201
-
 III. To THE SAME (March 24, 1415)
 
 All my gaolers are now taking to flight. I have nothing to eat and I don't know what is going to happen to me in prison. Please go with the other nobles to the King and get him to take some final steps in my case, lest he fall into sin and confusion on my account.
@@ -1742,7 +1693,7 @@ Written in prison (note the introit of the day, "0 Lord, make no long tarrying")
 
 1 Datum in carcere, Domine ne longe, dominico die sero. The introit, Domine ne longe (Ps. xxi.), is the proper introit for Palm Sunday, which on this year fell on March 24. Bonnechose ineptly translates : ' My good lord (Chlum), do not delay.' Dies dominicut by itself means 'Palm Sunday' (see Ducange), but should not here be pressed, as with Hus 'dies dominicus' is frequently used for the more correct Dies Dominica (Sunday).
 
-Part VI. — Letters Written from the Franciscan
+## Part VI. — Letters Written from the Franciscan
 
 Friary
 
@@ -1796,7 +1747,7 @@ God Almighty gave me to-day a stout and courageous heart. Two articles are now s
 
 4 See Doc. 204, 226. In this latter passage Hus gives his references to Augustine, but very vaguely. They are really taken from Wyclif's De Ecclesia, c. i.
 
-THE FEANCISCAN FRIARY
+## The Feanciscan Friary
 
 From the conclusion of the following letter to Chlum we see that Hus had heard before he left Gottlieben of the arrest and imprisonment of Jerome of Prague. On hearing at Prague of the rupture between John and the Council, Jerome had hastened to Constance, in spite of the wish of Hus to the contrary (p. 182). There, on April 4, he posted a notice on the gates affirming the orthodoxy of Hus. This done, he deemed it wiser to withdraw to Ueberlingen, whence he wrote to the Council asking for a safeconduct. On April 7 he once more returned to Constance, and affixed another address to Sigismund and the Council on the doors of the Cathedral. He had come, he said, of his own free will to answer all accusations of heresy. But two days later he changed his mind, and slipped away from the city, in his haste leaving his sword behind him in his lodgings in the St. Paulgasse. He fled towards Bohemia, but at Hirsau was betrayed into an argument, in which he called the Council a synagogue of Satan. This led to his arrest (April 24). On the discovery from his papers of his identity he was forwarded to Constance loaded with chains. He arrived on May 23, and was taken at once to the Franciscan convent, 'patiently carrying in his hand his iron fetters and long chain.' There he was examined in a somewhat tumultuous congregation of the Council, and afterwards carried by night to a dungeon in the cemetery of St. Paul, and chained hand and foot ' to a bench too high to sit on.' For two days he was left to starve on a scanty supply of bread and water, until Peter Mladenowic found his prison and bribed the gaoler to give him better food. The darkness and foul surroundings soon brought on a sickness, from which with difficulty he recovered, only to find that in the interval his friend and leader, John Hus, had been burnt at the stake. The two men were destined never to meet.
 
@@ -1816,7 +1767,7 @@ On the following letter Luther (Ep. Puss. G. 1) comments : ' A beautiful instanc
 
 1 See previous letter, p. 208, n. 1.
 
-THE FKANCISCAN FBIARY 211
+## The Fkanciscan Fbiary 211
 
 This letter, without date, is attributed by Palacky to June 5, presumably early in the morning. But the audience that day was too hurried to well fulfil the conditions of the last clause. We think it is better to take it as written with a view to the adjourned audience. In the effects of this audience, after his former experience, Hus has ceased to have much confidence.
 
@@ -1840,8 +1791,6 @@ I dare not rashly say with St. Peter that / shall never be offended in Christ, a
 
 4 P. : cedet ; perhaps read cedat. • Cf. p. 151.
 
-THE FRANCISCAN FEIAEY 213
-
 On the 7th Hus was again brought before the Council. The friary was surrounded by the town guard, and at an early hour the Council assembled for Mass. While the ritual was proceeding the sun was eclipsed, to the consternation of all. An hour later, about 8 A.M., Hus was brought before the court. This time Sigismund was present, so better order was maintained and more freedom given to the accused. Hus was first charged with holding Wyclif 's doctrine of remanence. This he denied. D'Ailli then went off into an argument to prove that Hus as a Realist was driven into remanence. Hus listened in patience, but when an Englishman took up the same tale he burst out : ' This is the logic of school-lads.' But another Englishman had the courage to declare : ' Hus is right. What have these quibbles to do with a matter of faith ? '
 
 Zabarella then pointed out the number and standing of the witnesses against him. Hus replied that his witnesses were God and his conscience. 'We cannot,' retorted D'Ailli, 'give our verdict according to your conscience, but according to the evidence.' Hus had maintained that he was accused by his enemies, one of the few pleas to which the Inquisition ever attached importance. To this D'Ailli now turned: 'You say that you suspect Palecz. Palecz has behaved with the greatest kindness. He has extracted the articles in a milder way than they are contained in your book. You go so far as to call the Chancellor of Paris your enemy, than whom you cannot find in all Christendom a more renowned doctor.'
@@ -1849,8 +1798,6 @@ Zabarella then pointed out the number and standing of the witnesses against him.
 One by one the old controversies and disputes were brought into court : the forty-five articles, the burning of the books, the expulsion of the Germans, and the rest. The day ended with some plain advice from Sigismund. He owned that he had given Hus a safe-conduct. As regards those who claimed that this was 'ultra vires, he was not careful to answer in the matter : ' for I have told them that I will not defend any heretic who is obstinately determined to stick to his heresy. So I counsel you to fling yourself wholly on the grace of the Council ; the quicker the better, lest you fall into a worse plight.' Hus was then removed to the prison (Mladenowic's Eelatio in Doc. 276-85).
 
 That same evening Hus wrote to his friends, giving a vivid account of the day's proceedings.
-
-214 LETTERS WRITTEN FROM
 
 LVn. To HIS FBIENDS STAYING ON IN CONSTANCE ( Without date : June 7, 1415 J)
 
@@ -1860,7 +1807,7 @@ I, Master John Hus, in hope a servant of Jesus Christ, earnestly desiring that C
 
 2 See p. 224. » Peter D'Ailli of Cambray (Doc. 276).
 
-THE FEANCISCAN FRIARY 215
+## The Feanciscan Friary 215
 
 "Here is an argument propounded by a master of theology : 1 reply to it." It was the argument about the common essence which, I maintained, is present in the elements. He afterwards broke down, though reputed to be a most learned doctor of theology, so I went on to give him an account of the common created essence which is the first created esse, im parted to each several creature, and from which he wished to prove the remanence of the material bread. However, he soon came to the end of his tether and was reduced to silence. Then at once an English doctor2 rose to carry on the discussion, but he broke down in the same way. He was followed by another English doctor, who in a private hearing had re marked to me that "Wyclif wanted to destroy all learning,3 and that in each of his books and in his logical reasoning he laid down erroneous positions. He rose to his feet and began to discuss the multi plication of the body of Christ in the host; and broke down in his argument. When told to be quiet, he shouted out, " This fellow is cleverly deceiving the Council ; have a care lest the Council be deceived as it was by Berengarius." 4 "When he had finished,
 
@@ -1917,8 +1864,6 @@ Since they have only condemned the treatises,6 please qualify my last Czech lett
 7 This letter seems to be lost.
 
 8 Ulrich, of whom we know nothing, had done Hus a good turn on June 5 by informing Mladenowic of the design to hurry the trial (p. 207).
-
-220 LETTEES WEITTEN FEOM
 
 "What a comfort your letters and my own have been to me ! I trust by God's grace they will be used for men's good. So long as I know that you and the nobles are in Constance, I am comforted even supposing that I am now to be led forth to death. I verily think that God sent you as angels to cheer me in my weakness and misery in the midst of my sore trials ; how great they have been, are, and are yet to be, God omnipotent knoweth Who is my mercy and refuge, my helper and my deliverer : in Him have I trusted.1
 
@@ -1990,7 +1935,7 @@ The Lord is with me as a mighty warrior. " The Lord is my light and my salvation
 
 1 Cf. pp. 197, 226. 2 Isa. xxxviii. 14.
 
-THE FRANCISCAN FKIARY 227
+## The Franciscan Fkiary 227
 
 LXI. To HENRY SKOPEK DE DUBA (Without date : June 9, 1415 l )
 
@@ -2114,8 +2059,6 @@ What grace God hath shown me, and how He helps me in the midst of strange tempta
 
 8 The great Cathedral of Prague was dedicated to St. Vitus ; hence the point. St. Veit's Day was June 15, which that year fell on a Saturday. Vitus, with his nurse Crescentia and her husband Modestus, was one of the Sicilian martyrs under Diocletian. The cult was wide spread. His arm was brought from Corbey to Prague at an early date, while Charles IV. in January 1356 secured the head from Pavia. At this town, next to Bohemia, lay the centre of his cult. (See AotaSS., June xv. 491-519; Pertz, Hon. Germ. ii. 576-85.)
 
-234 LETTERS WRITTEN FROM
-
 LXV. To HENEY SKOPEK DE DUBAJ (June 13, 1413)
 
 God be with you, my dear lord! Your notes reached me on Wednesday before St. Vitus's Day.2 I looked at them with a happy heart, although in prison, bound with chains and expecting my deathsentence. I entreat you, dear lord, live as the law of God commands and observe what you have heard from my lips: if there hath been aught of wrong therein, spurn it. Nevertheless I trust, by the Saviour's mercy, you have learnt nothing from me that hath been contrary to His holy will. I cannot write at length ; but in a few words I counsel you to keep in your heart God's counsels, to be kind to the poor, to abstain from pride, to lead a chaste life, and to remember these words : " What thou art, what thou wert, what thou wilt be, ever ponder: ponder too the matter, the place, the subject, the 'why,' the 'how,' the 'when' of thy words."3 Dear lord, remember me, and give my greeting to your wife and family and all my friends; for you will never methinks look upon my face again, as I am every moment expecting the sentence of death. Sent off on Thursday before St. Vitus's Day. God be with you, dear Bohemians, and with me a sinner; it is for His holy law that I suffer.
@@ -2150,15 +2093,13 @@ Christian; but as to what he wrote and taught by way of protest in the schools, 
 
 1 With this letter compare No. XXXV. 2 Of. Eev. xiv. 4. » Matt. x. 28. * De adhcesione. * Cf . p. 222.
 
-236 LETTEES WRITTEN FEOM
-
 I commend my brethren to you ; treat them as you know how, dear friend. I trust you will give my greetings to the holy Petra with Duora and her family, and to all the friends belonging to the Bethlehem, Katherine called Hus, a holy virgin, I hope, Girzik l the rector, the lady of Zderaz, Michael of Prachaticz, Maurice Kacer, and all the friends of the truth, Jeskonissa, Gregory, and all the masters, Jesenicz, Kuba, the two Simons, Nicholas and Hawlik.2 "Whoever hath the books, or is to have them, must be careful with them. Greet the doctors my beloved brethren in Christ, the shoemakers, the tailors, and the book-writers also, asking them to be zealous for Christ's gospel and to be ' lowly wise ' and not to use their own glosses, but those of the doctors of the Church. Ask without fail Lord Henry Lefl to give a guinea to James, the book-writer, as he promised to him. Greet Matthew, once a member at the Bethlehem, and Matthew Chudy, especially that he may pray for me a sinner, and the faithful John Vitlin. If you think proper, apprentice the sons of my brother to a craft, for I fear they would not guard an ecclesiastical calling as they ought, should they take to it. Make such repayment as you can to my creditors, who have my bond. Should they wish to let me off for God's sake and out of love to me, God will give them the more. Hold fast whatever good you learnt from me. If you saw anything unseemly in me, cast it from you and pray
 
 1 Cf. pp. 151, 206. One of the " Simons " would be Simon Tissnow.
 
 * Cf . p. 274, where they are again associated together. Nicholas I take to be Nicholas Miliczin (see p. 80). Hawlik or Gallus was at this time the preacher at the Bethlehem. Cf. pp. 248, 275. Michael of Prachaticz was a public notary (cf. Doc. 331 and passim).
 
-THE FRANCISCAN FKIAEY 237
+## The Franciscan Fkiaey 237
 
 God that it may please Him to spare me. " Ponder always what you are, what you were, what you will be " (supra, p. 234.) Mourn the past, mend the present, beware of the future — I am speaking of sins. May the God of all grace strengthen you in His grace with all the brethren named above and the others likewise, and may He bring you to glory, in which, I trust, we shall all rejoice together by His mercy, before thirty years have passed away. Farewell evermore, my dear brother in Christ Jesus, with all who love the name of our Lord Jesus Christ.
 
@@ -2185,8 +2126,6 @@ Reverend Father, I am truly grateful for your pious and fatherly kindness. I dar
 THE FBANCISCAN FEIAEY 239 thereby I should have to condemn many truths which, as I have heard from their own lips, they call "scandalous," and also because I should be guilty of perjury if I abjured and confessed that I have held erroneous views; and thereb}^ I should greatly scandalise God's people who have heard the contrary in my preaching. If then the holy Eleazar, who lived under the old law, and of whom we read in Maccabees,1 refused to make a lying confession that he had eaten flesh forbidden by the law so as not to act against God's will and to leave an evil example to his descendants, how could I, a priest of the new law, albeit unworthy, for fear of a penalty which will soon be over, be guilty of the more grievous sin of breaking God's law ? In the first place, I should err from the truth, in the second I should commit perjury, and thirdly I should be a stumbling-block to my neighbours. Assuredly it is fitting for me rather to die than to flee a momentary penalty to fall into the Lord's hand and afterwards, perchance, into everlasting fire and shame. And because I have appealed to Christ Jesus,2 the most potent and just of all judges, com mitting my cause to Him, therefore I stand by His judgment and sentence, knowing that He will judge every man not on false and erroneous evidence but on the true facts and merits of the case.
 
 The " Father " was not satisfied with this reply, or with the appeal with which the letter had concluded. Probably he did not discern the real difficulty of Hus from his reply. At any rate, he would make one more effort. His next letter is a most inter esting piece of casuistry and special pleading. The last sentences would seem to indicate sympathy with the life and spirit of Hus. If so, they rule out Zabarella, or for that matter any cardinal. 1 2 Mace. vi. 18 ff. » P. 79.
-
-240 LETTEES WRITTEN FKOM
 
 Hus in his reply was uncompromising in his rejection of the ' basket ' which the " Father " offered for his escape. With this reply the incident closed, and the " Father " left Hus to his fate. But he was still pestered by others eager to prove their powers of argument, among them, we learn with interest, by an old Augustinian monk, the delegate from Luther's university, Erfurt. ' No theologian,' cried the enthusiastic chronicler, ' was able to over come Hus in argument save that old father alone.'
 
@@ -2262,8 +2201,6 @@ JOHN Hus, in hope a servant of Jesus Christ, from the hope of Whom the devil cou
 
 1 It is difficult to know whether to take this as sarcasm or the kindliness of forgiveness. * See p. 204. Doc. 550-55.
 
-248 LETTEES WRITTEN FEOM
-
 LXXI. To GALLUS (HAWLIK *), PREACHER IN THE BETHLEHEM
 
 (June 21, 1415)
@@ -2312,15 +2249,13 @@ I am greatly comforted by that saying of our
 
 1 Cf. Luther's famous hymn (trans. Carlyle) : — And let the prince of ill Look grim as e'er he will, He harms us not a whit. For why ? his doom is writ. A word shall quickly slay him. and remember that Luther had read this letter. * Eom. viii. 21, 23.
 
-252 LETTEES WRITTEN FEOM
-
 Lord : Blessed shall you be when men shall hate you, and when they shall separate you and shall reproach you and cast out your name as evil for the Son of Man's sake. Be glad in that day and rejoice ; for behold your reward is great in heaven.1 A good greeting, nay, the best of all, yet difficult — I do not mean to understand, but — to live up to fully; for it bids us rejoice in those tribulations. It was a rule observed along with the other apostles by James, who saith: Count it all joy when you shall fall into divers temptations, knowing that the trying of your faith worketh patience, and patience hath a perfect work.2 Verily, it is a difficult thing to rejoice with tranquillity, and to count it all joy in the midst of divers temptations. It is easy to quote and expound the words, but difficult to carry them out when that most patient and brave Soldier, although He knew He would rise again on the third day and overcome His foes by His death and redeem the elect from damnation, was yet after the last supper troubled in spirit, and said : My soul is sorrowful even unto death.3 Of Whom the gospel saith that He began to fear and to be heavy and sad ; nay, being in an agony He was strengthened by an angel, and his sweat became as drops of blood trickling down upon the ground.* Yet He, though thus troubled, said to His faithful ones : Let not your heart be troubled, nor let it be afraid; let it not be troubled6 because of my short absence nor let it be afraid of the cruelty of them that rage ; for you will have Me for ever, and will overcome the cruelty of them that rage. Therefore, the soldiers of Christ looking to their leader, the
 
 1 Luke vi. 22, 23. * Jas. i. 2-3 » Mark xiv. 34.
 
 4 Luke xxii. 43, 44. 6 John xiv. 27.
 
-THE FEANCISCAN FRIABY 253
+## The Feanciscan Friaby 253
 
 King of glory, fought a great fight. They passed through fire and water, yet were saved alive, and received from the Lord God the crown of life, of which James in the canonical epistle saith : Blessed is the man that endureth temptation; for when he hath been proved he shall receive the crown of life which God hath promised to them that love him.1 That crown, I verily trust, the Lord will make me to share along with you also, warm-hearted zealots for the truth, and with all who steadfastly love the Lord Jesus, Who suffered for us, leaving us an example that we should follow His steps. It behoved Him to suffer, as He Himself saith; and it behoves us to suffer, that the members may suffer with the Head, Who saith : If any man will come after me, let him deny himself and take up his cross and follow me.2
 
@@ -2329,8 +2264,6 @@ King of glory, fought a great fight. They passed through fire and water, yet wer
 Written in prison in chains on the eve of St. John Baptist, who was beheaded in prison and in chains, because he reproved iniquity ; may it please him to pray for me unto the Lord Jesus Christ. A men.
 
 1 Jas. i. 12. 2 Matt. xvi. 24. • See p. 250.
-
-254 LETTEES WRITTEN FEOM
 
 LXXIV. To THE FAITHFUL BOHEMIANS l (June 24, 1415)
 
@@ -2346,7 +2279,7 @@ Beloved, I exhort you not to be terrified, neither shaken with fear, because the
 
 4 For this tale see John the Deacon's Life of Gregory (iv. c. 69 ; in Migne, voL xxv.), from whom it was taken by Platina (see his Life of
 
-THE FEANCISCAN FEIAEY 255
+## The Feanciscan Feiaey 255
 
 St. John Chrysostom was condemned on the charge of heresy by two Councils,1 but God in His mercy after St. John's death revealed their falsehood.2 Keep these examples before you, that you may not under stress of fear give up reading what I have written and hand over your books to be burnt by them. Remember what the merciful Saviour said to us by way of warning in Matt, xxiv., that before the Judgment Day shall be great tribulation, suck as hath not been from the beginning of the world until now, neither shall be, insomuch as to deceive (if possible} even the elect: but for the sake of the elect those days shall be shortened? Holding these things in your memory, beloved, press bravely on; for I trust God that the school of Antichrist shall tremble before you and suffer you to enjoy quietness, and that the Council of Constance shall not come to Bohemia, for methinks many members of the Council will die before they wrest the books from your hands, and they will be scattered abroad from that Council over the earth, like storks; and when winter comes they will discover what they achieved in the summer.4 Ponder the fact that they con demned their own head on the charge of heresy. Come now, make reply, ye preachers who proclaim
 
@@ -2413,8 +2346,6 @@ Palecz came and shed tears along with me, when I begged him to forgive me for an
 * Fictor, as often in his Responsio ad Palecz, Mon. i. 255 S.
 
 1 Arch-detective, chief spy. * P. 174.
-
-262 LETTERS WRITTEN FROM
 
 He is always harping on the great harm that had been done by me and my friends. He told me also that they had a letter addressed to Bohemia con taining the news that I had composed while at Gottlieben,1 two verses about my chains to the tune " Buoh Wsemohuci." 2
 
@@ -2514,8 +2445,6 @@ shall be made bare, with which harlot the kings of the earth commit fornication.
 
 a Luke xii. 37. * 2 Cor. xi. 25.
 
-272 LETTEES WEITTEN FEOM
-
 We ivere pressed out of measure above our strength, so that we were weary even of life.1 They have now passed their trials and torments, and there remaineth for them infinite bliss and the life of quietness that knows no suffering. Now Peter and Paul reign with the King above, now they are with the choirs of angels, now they see the King in His beauty, now are they released from weariness and are full of bliss unspeakable. May those glorious martyrs, thus united with the King of glory, deign to intercede for us, that, strengthened by their help, we may be partakers in their glory, by patiently suffering what ever God Almighty shall ordain in this world for our greater good. Amen.
 
 I beg you for God's sake still keep on writing, if you can. I ask especially that greetings be conveyed to her Majesty the Queen,2 and that she be counselled to be loyal to the truth and not offended in me, as though I were a heretic. Convey my greetings to your wife also, whom I beg you to love in Christ Jesus ; for I trust she is a daughter of God through her obedience to His commands. Greet all the friends of the truth for God's sake.
@@ -2564,7 +2493,7 @@ Master Nicolas6 and Peter, the Queen's chaplain, and the other masters and pries
 
 4 Praohaticz. * P. 149. • Pp. 80, 236.
 
-THE FRANCISCAN FRIAEY 276
+## The Franciscan Friaey 276
 
 Priest Gallus,1 preach the word of God.
 
@@ -2592,8 +2521,6 @@ Four days later the Council made another effort to bring about the desired recan
 
 1 Not in Palacky : from Hardt, iv. 345. I see no reason to doubt its genuineness.
 
-THE FRANCISCAN FEIAEY 277
-
 1 Master John,' said honest Chlum, ' we are laymen, and cannot advise you. Consider, however, and if you realise that you are guilty concerning any of the charges, do not be ashamed to receive instruction and recant. But if you do not feel guilty, do not force your conscience, nor lie before God, but rather stand fast to the death in the truth which you know.'
 
 Hus replied with tears : ' Sir John, know that if I was conscious that I had written or preached aught against the law, gospel, or Mother Church, I would gladly and humbly recant my errors. God is my witness. But I am anxious now as ever that they will show me Scriptures of greater weight and value than those which I have quoted in writing and teaching. If these shall be shown me, I am prepared and willing to recant.' ' Do you desire to be wiser than the whole Council 1 ' retorted a bishop. ' Than the whole Council, no,' replied Hus ; ' but give me a portion, however small, of the Council to teach me by Scrip tures of greater weight and value, and I am ready to recant.' 'He is obstinate in his heresy,' cried the bishops, and retired to make preparation for the final scene.
@@ -2612,7 +2539,7 @@ As he passed through the churchyard of the Cathedral, Hus saw a bonfire of his b
 
 1 For the various accounts of this trial and last scene, see my Age of Hus, p. 332.
 
-280 FEOM THE FRANCISCAN FRIARY
+## 280 Feom the Franciscan Friary
 
 The beadles piled up the fuel, ' two or three cart-loads,' ' stirred the bones with sticks, split up the skull, and flung it back into the flames, together with his coat and shoes,' which the Count Palatine bought from the executioner, for three times the usual fee lest the Bohemians should keep them as relics.' When the heart was found they ran a sharp stake through it and set it ablaze. As soon as all was over the ashes were heaped into a barrow, and tilted into the Rhine.
 
@@ -2630,13 +2557,13 @@ And strove in thee to die.
 
 MEMOBIAL HYMN OF THE MOBAVIAN CHURCH FOB THE DEATH-DAY OF JOHN Hus (JULY 6, 1415.)
 
-APPENDIX A A DOUBTFUL LETTER OF HUS
+## Appendix a a Doubtful Letter of Hus
 
 WE have deemed it best, following the example of Palacky, to print the following letter in an Appendix rather than to in corporate it in the main text. The letter itself is not found in any manuscript, nor is it printed in the Epistolae Piissimce. We are entirely dependent for it upon the Nuremberg edition of 1558 (Monumenta, i 59). It is true that there is also a Czech copy of it, first printed in 1564, but the Czech copy, according to Palacky (Doc. 149 n.\ is a mere translation from the Latin, and is in no sense an original of Hus. But the most suspicious circumstance is the internal evidence. The letter contains an exhortation to communion in both kinds. Now historians are agreed that this was a matter upon which Hus had formed no very definite ideas before his imprisonment at Constance (see supra, pp. 170, 177, 248). That clause therefore certainly must be an interpolation. But the rest of the letter is a mere patchwork, which could easily have been compiled from the other letters of Hus.1 Moreover, it is evident from the absence of all allusions that this letter was not written during Hus's stay in Constance, or from his prison. This therefore rules out a later date. The letter seems to us either a pious fraud in the interest of the Calixtine party, or else to be too seriously interpolated for us now to discover the original kernel. Of the two, we incline to the former opinion. But the reader shall judge the matter for himself.
 
 1 The reader may compare the letter with pp. 149, 276, and other places.
 
-282 APPENDIX A
+## 282 Appendix A
 
 TO A CERTAIN PuiEST (Without date)
 
@@ -2646,7 +2573,7 @@ Brother beloved, be diligent in preaching the gospel and do the work of a good e
 
 APPENDIX A 283 wouldest do good. By all means flee young women, lest thou put trust in their religious zeal ; for St. Augustine saith : " The more religious people are, the more inclined are they to luxury ; and under the cloak of religion lurks the craft and poison of fornication." Dearly beloved, know this, that the conversation of such subverteth many who could not be deceived or defiled by the conversation of the world. On no account permit women to enter thy house ; nor converse too frequently with them, as it seemeth to be a stumbling-block. Next, whatever thou doest, fear God and keep His commandments ; so shalt thou walk uprightly and not perish ; thou shalt subdue the flesh, despise the world, vanquish Satan, put on God, find life, confirm others, and crown thyself with a crown of glory, which the Righteous Judge will give thee. Amen.
 
-APPENDIX B
+## Appendix B
 
 TABLE OF HARMONY BETWEEN THE NUMBERING OP THE LETTERS IN THIS EDITION AND THOSE OF PALACKY AND THE NUREM BERG FOLIO ; ALSO A TABLE OF THE DATES IN THIS EDITION AND PALACHY
 
@@ -2736,7 +2663,7 @@ Jan. (?) 1413
 
 L 97 ; 122
 
-APPENDIX B
+## Appendix B
 
 Number in Palacky.
 
@@ -2796,7 +2723,7 @@ Nov. 10, 1414
 
 Nov. 10, 1414 i. 58; 73
 
-XLIH
+## Xlih
 
 Nov. 16, 1414
 
@@ -2868,7 +2795,7 @@ June 7, 1415
 
 L 62; 79
 
-APPENDIX B
+## Appendix B
 
 Number in Palacky.
 
@@ -2888,7 +2815,7 @@ June 1415
 
 June 8, 1415 i. 69; 88
 
-UDK
+## Udk
 
 June 1415
 
@@ -2964,7 +2891,7 @@ June 29, 1415
 
 June 29, 1415 i. 65; 83
 
-XOI
+## Xoi
 
 June 29, 1415
 

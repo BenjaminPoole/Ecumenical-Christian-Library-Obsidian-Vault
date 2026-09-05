@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # God's Love Shamefully Questioned
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2532
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I have loved you, says the Lord. Yet you say, In what way have You loved us?" Malachi 1:2.
 
@@ -103,7 +100,7 @@ To use and to improve them too." So we ought to be glad and to rejoice! And if w
 
 I should like to stop just now if you will all think over this one thought. It will not trouble you. It is the sweetest thought and yet it is the simplest that ever can be. Let everyone who believes in Christ try to get the marrow out of this truth. "The Lord loves me." Not merely that the Lord pities me—thinks of me—cares for me—all that is true. But the Lord loves me, the Lord lovesme, the Lordloves me! Oh, the sweet savor of that word, "love"—to be loved of the great heart which sustains the universe! O child of God, you are as much loved of God as if He had not another child to love! You have all His love, as much as if there were none but you for Him to love! Will you not be glad and rejoice in Him? Cease your murmuring and lift up your soul in song—and bless and praise His holy name from this time forth, and even for evermore! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ROMANS9.
+## Exposition by C. H. Spurgeon: Romans 9
 
 Paul begins by expressing his great sorrow because the Jews had rejected Christ.
 
@@ -142,7 +139,6 @@ Do you, dear Friends, feel that same concern about your brethren, your kinsmen a
 32, 33. Why? Because they sought it not by faith, but, as it were, by the works of the Law. For they stumbled at that stumbling stone; as it is written, Behold, I lay in Zion a stumbling stone and rock of offense. I say again that there have been great attempts made with logical dynamite to blow up this great rock of offense and to clear away every difficulty from the path of the man who wants to be saved by his own method, and to make everything pleasant all around for him. But against this course of action we bear our continual protest, for it is not according to the mind of God, or the teaching of His Word— "As it is written, Behold, I lay in Zion a stumbling stone and rock of offense."
 
 33\. And whoever believes on Him shall not be ashamed. But if they believe not on Him, they shall, one day, be ashamed and, meanwhile, the eternal purpose of God shall still stand! He shall still be glorious whatever men shall do, or shall not do!
-
 
 ---
 [[Sermon 2531 A Boundless Benediction|← #2531]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2533 The Ever-present Crisis|#2533 →]]

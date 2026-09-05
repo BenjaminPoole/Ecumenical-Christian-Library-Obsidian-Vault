@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/12
 ---
-
 # Temptations On The Pinnacle
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 689
 
-DELIVERED ON SUNDAY MORNING, MAY 6, 1866, BY C. H. SPURGEON, AT THE METROPOLITAN TABERNACLE, NEWINGTON..
+*Delivered on Sunday Morning, May 6, 1866, by C. H. Spurgeon, at the Metropolitan Tabernacle, Newington*
 
 > "Then the devil took Him up into the holy city, set Him on the pinnacle of the temple, and said to Him, If You are the Son of God, throw Yourself down, for it is written, 'He shall give His angels charge over You,' and, 'in their hands they shall bear You up, lest at any time You dash Your foot against a stone.' Jesus said to him, 'It is written again, You shall not tempt the Lord your God.'" Matthew 4:5-7.
 
@@ -134,7 +133,6 @@ He forgets not the temptations through which He passed, and He is ready to succo
 Ah, but there are some here who do not know Him—some who say, "We do not understand this sermon, for we never feel such temptations." I can understand why not. You see, you have no spiritual life. The tree planted by the river feels not the chill which breeds in the marsh and lurks in the swamp. But put a man there and before long you will see him shivering from head to foot! And the carnal mind, dead in sin, knows not the fog of temptation which lurks around him! But oh, if you were alive unto God your struggle would begin and you would cry to the strong for help! My advice to you is that which I gave to the Christian just now—the Believer must go to Christ for help—and so must you.
 
 There is balm in Gilead! There is a Physician there! Sinner, if you look to Christ you shall live! Though you stand today upon the pinnacle—for life is such—though death is your dreadful fate and the fiery lake is your everlasting portion, presume not! Dash not yourself further into sin! Plunge not into ruin but lift your eyes upwards and say, "My God, my Father, help me! God the Son who did redeem with precious blood, wash me from my sin! Spirit of the living God renew me in heart and life," and it shall be done, for, "he that asks, receives, he that seeks, finds, and to him that knocks it shall be opened." "Believe in the Lord Jesus Christ, and you shall be saved."
-
 
 ---
 [[Sermon 0688 Sweet Savor|← #688]] · [[Volume 12 (1866)|Volume 12 (1866) Contents]] · [[Sermon 0690 A Lesson From The Great Panic|#690 →]]

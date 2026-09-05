@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 3
 
-**CHAPTER 3**
+***Chapter 3***
 
 ## Acts 3:1-11
 

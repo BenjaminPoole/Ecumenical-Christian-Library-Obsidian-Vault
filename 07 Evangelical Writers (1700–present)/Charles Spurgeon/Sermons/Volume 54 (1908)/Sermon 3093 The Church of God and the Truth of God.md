@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/54
 ---
-
 # The Church of God and the Truth of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3093
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "The house of God, which is the Church of the living God, the pillar and ground of the Truth." 1 Timothy 3:15.
 
@@ -94,7 +91,6 @@ But some will say, "If we go forth resolved to maintain this Truth, we shall be 
 "But," another says, "I don't think it necessary to make a noise about Doctrine—it does not concern souls much." Does it not? I believe souls have been instrumentally damned by the thousands by false doctrine. I believe that the universal redemption scheme is doing immense mischief. As Joseph Irons said, "When men once believe that Jesus Christ died for His elect, they begin questioning, 'Did He die for me?' and that stirs them up to seek to know the Truth of God. But when they hear that there is salvation for all, they say at once, 'Then I may sit still and fold my arms!' And so they are deluded into Hell." When men are told that they can do all things, and have power to save themselves, do you not think that is a soul-deluding doctrine? They seek to do what they can and they do a great deal, resting content with a spurious conversion, instead of the conversion which is of God and not of the will of the creature! I do not believe in all the conversions we hear of as brought about by false doctrine. God forbid that I should! Men who preach false doctrine may be sometimes useful in conversion because they preach some true doctrine, but a false doctrine never converted a soul yet, unless it converted it into worse dangers and made it tenfold more the child of Hell than before! It is foolish for you to cry out that Doctrine does not matter! What would you do if it were not for Doctrine? How could your soul be saved? How could you enter Heaven but for the Doctrine of Redemption? Yes, and how could you get to Glory but for the Doctrine of Election—the Doctrine that you were chosen in Christ Jesus from before the foundation of the world? Say what you like, you will find Doctrines far more essential than you ever dreamed!
 
 Now, how many of my hearers have had any spiritual realization of the preciousness of these things? "Ah!" cries one, "I will defend the Truth." Stop, young man! Have you felt in your heart the great Doctrine of God's Sovereignty? Have you been humbled in the dust to know that God has a right to do with you as He pleases? If not, you cannot defend the Doctrine of Divine Sovereignty! Have you been brought to see the blood of Christ shed especially for you? If not, you cannot defend the Doctrine of Particular Redemption, for you do not understand it. Have you ever felt your own depravity in all its desperate character? If not, you cannot defend the Doctrine of Original Sin. Have you felt that God the Holy Spirit has called you out of darkness into marvelous light? If not, you cannot defend the Doctrine of Effectual Calling. Do you feel in your soul that God has enabled you to persevere up to the moment and have you the solemn conviction that you shall hold on your way? If not, you cannot defend Final Perseverance. I beseech you examine yourselves and see whether you have these Doctrines in your heart. If you have, I shall never be much afraid that you will not maintain them, though I think it right, sometimes, to stir up your pure minds by way of remembrance. And as there are too many who would guide your minds into "THE NON-DOCTRINE SCHEME" and feed you with that which is vague and visionary instead of that which is substantial and true, I would the more earnestly exhort you, as for your very lives, to "hold fast the form of sound words which you have received." Stand fast, Beloved! Be not moved in the evil day and, having done all, stand fast in the Lord! May God grant it for Jesus' sake!
-
 
 ---
 [[Sermon 3092 Knowing and Doing|← #3092]] · [[Volume 54 (1908)|Volume 54 (1908) Contents]] · [[Sermon 3094 Heart Piercing|#3094 →]]

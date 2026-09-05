@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # October 12
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**MARK OF COVENANT GRACE**
+## **Mark of Covenant Grace**
 
 > And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live" Deut. 30:6
 
@@ -25,7 +24,6 @@ Note the author of it: "The Lord thy God." He alone can deal effectually with ou
 Note where this circumcision is wrought. It is not of the flesh, but of the spirit. It is the essential mark of the covenant of grace. Love to God is the indelible token of the chosen seed; by this secret seal the election of grace is certified to the believer. We must see to it that we trust in no outward ritual, but are sealed in heart by the operation of the Holy Ghost.
 
 Note what the result is -- "that thou mayest live." To be carnally minded is death. In the overcoming of the flesh we find life and peace. If we mind the things of the Spirit, we shall live. Oh, that Jehovah, our God, may complete His gracious work upon our inner natures, that in the fullest and highest sense we may live unto the Lord.
-
 
 ---
 [[FCB October 11|← October 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB October 13|October 13 →]]

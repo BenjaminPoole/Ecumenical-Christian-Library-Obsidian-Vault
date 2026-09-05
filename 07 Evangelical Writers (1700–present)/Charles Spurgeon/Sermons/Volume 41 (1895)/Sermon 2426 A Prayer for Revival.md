@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # A Prayer for Revival
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2426
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Will You not revive us again that Your people may rejoice in You" Psalm 85:6.
 
@@ -115,7 +112,7 @@ Let us, before I dismiss those of you who will be going away, pray this prayer t
 
 And may the Grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Spirit, be with us evermore! Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH43:22-28; 44:1-8; PSALM85.
+## Exposition by C. H. Spurgeon: Isaiah 43:22-28; 44:1-8; Psalm 85
 
 We will read two passages of Scripture this evening, both of which will have a bearing upon the subject we are afterwards to consider from our text. Let us first read a few verses from Isaiah's prophecy, beginning at chapter 43:22. [The publishers chose to put the exposition after the sermon, but Brother Spurgeon always did the exposition first.—eo]
 
@@ -170,7 +167,6 @@ Verses 1, 2. LORD, You have been favorable unto Your land: You have brought back
 12\. Yes, the LORD shall give that which is good; and our land shall yield her increase. It is all well when it is well with us in our relation to God. When we are reconciled to Him, then all things are reconciled by that fact.
 
 3\. Righteousness shall go before Him; and shall set us in the way of His steps. Lord, hear the prayer of this Psalm and answer it to us, for Jesus sake! Amen.
-
 
 ---
 [[Sermon 2425 Self-destroyed, Yet Saved|← #2425]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2427 The Ark of His Covenant|#2427 →]]

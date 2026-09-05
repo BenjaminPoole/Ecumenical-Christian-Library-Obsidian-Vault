@@ -10,10 +10,9 @@ tags:
   - wesley
   - wesley-sermons
 ---
-
 # 99. The Reward of the Righteous
 
-*PREACHED BEFORE THE HUMANE SOCIETY*
+**Preached Before the Humane Society**
 
 > "Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world." Matt. 25:34.
 

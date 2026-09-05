@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/21
 ---
-
 # Honest Dealing with God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1241
@@ -83,10 +82,9 @@ I exhort thee, sinner, to give up all thine attempts to feel right and to be rig
 
 Now, what is your state this morning? Cold as an iceberg as to divine things? Come and tell the Lord you are an iceberg, and Isle him to thaw you. What is your state—hard as a rock, or like a nether millstone? Is there no feeling? Come and tell the Lord that you do not feel. Oh, is there no trace of any good feeling in you? Come to my Lord without a trace of feeling, and tell him just what you are; and oh, if you can dare over the head of all your sin and sinfulness to say, "Nevertheless, I rest myself on the blood that cleanses from all sin and I beseech thee, O Lord, seeing I confess my sin, to cleanse me from all unrighteousness," you will find him faithful and just to do it. Come as the citizens of Calais did to King Edward III when the city was captured; come with ropes about your neck, owning that if sentence be executed upon you, you deserve it; come at once in all your filthiness and dishabille; come with no jewels in your ears, with no ornaments upon your necks, and with no recommendation whatever; come as sinners by nature, and as sinners by practice. Plead nothing that looks like goodness, but come in your sin. Do not try to put one touch of paint on those cheeks of yours, nor imitate the flush of health upon that consumptive countenance. Come honestly as you are, and say "Lord, look at me as I am, a worse sinner than even I think myself to be, and then show the infinity of thy free grace, and the power of Jesus' dying love in saving me, even me." Ah, my brethren, you will not be long without peace if you draw nigh to God in that fashion. Fling away any preparations, fitnesses, commendations, and hopefulnesses, and take my Lord Jesus, as empty-handed sinners take him. Meet him just as he is, and just as you are. God will deal with you truthfully. He will never cast away a sinner that comes to him according to truth. For my own part, I mean to come to him always as a sinner. I know I am saved, but I never hope to get one inch beyond that verse,—"The blood of Jesus Christ his Son cleanseth me from all sin," for only so can I walk in the light as he is in the light.
 
-PORTION OF SCRIPTURE READ BEFORE SERMON—1 JOHN 1:1-11.
+## Portion of Scripture Read Before Sermon—1 John 1:1-11
 
-HYMNS FROM "OUR OWN HYMN BOOK"—176, 51, 551.
-
+## Hymns from "Our Own Hymn Book"—176, 51, 551
 
 ---
 [[Sermon 1240 The Song of Songs|← #1240]] · [[Volume 21 (1875)|Volume 21 (1875) Contents]] · [[Sermon 1242 Abraham's Prompt Obedience to the Call of God|#1242 →]]

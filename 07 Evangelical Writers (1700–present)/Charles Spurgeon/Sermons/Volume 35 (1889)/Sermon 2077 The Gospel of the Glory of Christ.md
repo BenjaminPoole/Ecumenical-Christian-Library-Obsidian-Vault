@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/35
 ---
-
 # The Gospel of the Glory of Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2077
 
-DELIVERED ON LORD'S DAY MORNING, MARCH 31, 1889,.
+*Delivered on Lord's Day Morning, March 31, 1889*
 
 > "The light of the glorious Gospel of Christ." 2 Corinthians 4:4
 
@@ -168,7 +167,6 @@ And, lastly, let all who try to preach and teach keep Christ always in the front
 The Gospel is glorious in its going when it bears Jesus in the saddle. But if you preach yourself or human philosophy the Gospel will fling you over its head. Let us sing with the blessed virgin, "My soul does magnify the Lord and my spirit does rejoice in God my Savior." This is a Gospel sonnet—this is a song which our Well-Beloved deserves of us. O you preachers and teachers, lift up Christ! He is as the serpent on the pole and all who look to Him shall live forever.
 
 Look to Him all you that are dying of serpent bites—for looking you shall LIVE. God bless these words in which I have desired to glorify my Lord! Amen.
-
 
 ---
 [[Sermon 2076 Sounding Out the Word of the Lord|← #2076]] · [[Volume 35 (1889)|Volume 35 (1889) Contents]] · [[Sermon 2078 The Believing Thief|#2078 →]]

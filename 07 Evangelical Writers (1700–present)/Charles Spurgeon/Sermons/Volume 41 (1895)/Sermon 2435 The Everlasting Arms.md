@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Everlasting Arms
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2435
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Underneath are the everlasting arms." Deuteronomy 33:27.
 
@@ -77,7 +74,7 @@ That is true of all Believers! Therefore let this text come sweetly home to your
 
 I must conclude with this remark. There are some here who are net yet saved. I would illustrate the way of salvation to you by this text. You are hoping to save yourself. You are depending upon something that you have done, or that you have felt. I want you to let all that go, to give up every hope you have that comes out of yourself. "Oh," you say, "but I shall fall." Yes, you will, and that falling shall be your salvation, for, "underneath are the everlasting arms." There you are, up at that window, and the flames are raging behind you so that you cannot escape—but one stands below. He is strong enough to catch you in his arms and he says, "Drop into my arms! Do not hesitate!" Jesus Christ never yet allowed any soul to be injured that dropped into His arms. Let go, man, let go! Let go everything and drop into the arms of Jesus! That is the saving thing—to let everything else go and trust only to Jesus, depending wholly upon Him who lived, and died, and rose again—and is the ever-living Savior of sinners. Drop into His arms! They are everlasting arms, as strong to save, now, as they were 1,800 years ago! Drop into His arms. God help you to do so, for His name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY 8.
+## Exposition by C. H. Spurgeon: Deuteronomy 8
 
 Verse 1. All the commandments which I command you this day shall you observe to do, that you may live, and multiply, and go in and possess the land which the LORD swore unto your fathers. Every word, here, seems emphatic. Like the children of Israel, we are to observe all the commandments of the Lord our God—not merely some of them, picking and choosing as we please. It is a very ill conscience which regards some of God's statutes and pays no attention to others! In fact, the very act of making a selection as to what commands we will observe is gross disobedience. "All the commandments which I command you this day shall you observe to do."
 
@@ -118,7 +115,6 @@ There are, doubtless, many good things which we miss because we are not careful 
 18,19. But you shall remember the LORD your God: for it is He that gives you power to get wealth, that He may establish His Covenant which He swore unto your fathers, as it is this day. And it shall be, if you do at all forget the LORD your God, and walk after other gods, and serve them, and worship them, I testify against you this day that you shall surely perish. If you live like sinners, you will die like sinners! "Where, then, is the perseverance of the saints?" asks one. Why, in this, that they shall not live like sinners! God's Grace will not let them go wandering after idols to worship and to serve them! He will keep us faithful to Himself, but if we will wander after idol gods, it proves that we are not the Lord's true Israel, and we must expect to be served as others have been who have turned aside to worship idols—
 
 20\. As the nations which the LORD destroys before your face, so shall you perish; because you would not be obedient unto the voice of the LORD your God.
-
 
 ---
 [[Sermon 2434 A Man Under Authority|← #2434]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2436 How Good to Those Who Seek!|#2436 →]]

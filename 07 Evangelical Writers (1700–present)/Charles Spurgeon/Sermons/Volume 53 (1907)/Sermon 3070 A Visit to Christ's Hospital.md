@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/53
 ---
-
 # A Visit to Christ's Hospital
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3070
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fools because of their transgression and because of their iniquities, are afflicted. Their soul abhors all manner of meat; and they draw near unto the gates ofdeath. Then they cry unto the Lord in their trouble, and He saves them out of their distresses. He sent His Word and healed them, and delivered them from their destructions. Oh that men would praise the LORD for His goodness, and for His wonderful works to the children of men! And let them sacrifice the sacrifices of thanksgiving, and declare His works with rejoicing." Psalm 107:17-22.
 
@@ -115,7 +112,7 @@ Above all, publish abroad the Lord's goodness for Jesus' sake. He deserves your 
 
 the hem of His garment and then would gladly have slipped away? If so, I pray that the Master may say, "Somebody has touched Me," and may you be compelled to tell us all the truth and say, "I was sorely sick in soul, but I touched You, O my blessed Lord, and I am saved! And to the praise of the glory of Your Grace I will tell it! I will tell it though devils should hear me! I will tell it and make the world ring with it according to my ability, to the praise and Glory of Your saving Grace!"
 
-EXPOSITION BY C. H. SPURGEON: PSALM107:1-22.
+## Exposition by C. H. Spurgeon: Psalm 107:1-22
 
 Verse 1. O give thanks unto the LORD, for He is good: for His mercy endures forever In the heading of this Psalm we are reminded that the Psalmist here exhorts the redeemed, in praising God, to observe His manifold Providence over travelers, prisoners, sick men, seamen "and in divers varieties of life." But, inasmuch as the exhortation is especially addressed to the redeemed of the Lord, I shall endeavor to cast the red ray of redemption over it and to explain these various circumstances as relating to the spiritual experience of God's people and to their deliverance out of divers perils to which their souls are exposed.
 
@@ -142,7 +139,6 @@ spirit it brings upon you while you are in the impenetrable darkness out of whic
 21, 22. Oh that men would praise the LORD for His goodness, and for His wonderful works to the children of men!
 
 were published with Sermons #3061—THE RULE OF GRACE and 3064—"AD IT WAS SO" both Volume 53]
-
 
 ---
 [[Sermon 3069 Cleansing—Wrong Or Right|← #3069]] · [[Volume 53 (1907)|Volume 53 (1907) Contents]] · [[Sermon 3071 Idolatry Condemned|#3071 →]]

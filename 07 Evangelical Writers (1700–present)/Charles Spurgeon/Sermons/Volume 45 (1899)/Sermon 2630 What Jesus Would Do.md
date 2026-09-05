@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/45
 ---
-
 # What Jesus Would Do
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2630
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "How often would I have gathered your children together, even as a hen gathers her chickens under her wings, and you would not!" Matthew 23:37.
 
@@ -123,7 +120,7 @@ O poor, guilty Sinner, do not doubt your welcome to Jesus! The gate of salvation
 
 "Ring the bells of Heaven!" There is joy tonight, for a sinner has found his Savior and God has found His child! God bless you, dear Friends, for Christ's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: LUKE 13:18-34.
+## Exposition by C. H. Spurgeon: Luke 13:18-34
 
 Verse 18. Then said He, Unto what is the kingdom of God like? And unto what shall I resemble it? For men learn much by resemblances and the things which are seen are frequently helpful to us in seeking to set forth the things which are not seen. Knowing that God is One in all that He has done, we are often able to learn from one part of His works to understand another. What, then, is God's Kingdom like? Is it like a mighty army marching with banners and trumpets? No. Is it like the raging sea, rolling onwards and sweeping everything before it? Not so—at least it is not so visibly.
 
@@ -146,7 +143,6 @@ Is the grain of mustard seed sending up its shoot above the ground? Then pray Go
 27, 28. But He shall say, I tell you, I know not who you are; depart from Me, all you workers of iniquity. There shall be weeping and gnashing of teeth, when you shall see Abraham, and Isaac, and Jacob, and all the Prophets, in the Kingdom of God, and you yourselves thrust out. Ejected, violently driven away, as those who are abhorrent in God's sight because you despised His mercy!
 
 29-34. And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the Kingdom of God. And, behold, there are last which shall be first, and there are first which shall be last. The same day there came certain of the Pharisees, saying unto Him, Get out, and depart from here, for Herod will kill You. And He said unto them, Go and tell that fox, Behold, I cast out devils, and I do cures today and tomorrow, and the third day I shall be perfected. Nevertheless I must walk today, and tomorrow, and the day following: for it cannot be that a Prophet perish outside of Jerusalem. O Jerusalem, Jerusalem, which kills the Prophets, and stones them that are sent unto you; how often would I have gathered your children together, as a hen does gather her brood under her wings, and you would not! What a terrible contrast! "I would...and you would not." May the Lord Jesus never have to say that to any of us!
-
 
 ---
 [[Sermon 2629 God's Work in Man|← #2629]] · [[Volume 45 (1899)|Volume 45 (1899) Contents]] · [[Sermon 2631 Israel's Cry and God's Answer|#2631 →]]

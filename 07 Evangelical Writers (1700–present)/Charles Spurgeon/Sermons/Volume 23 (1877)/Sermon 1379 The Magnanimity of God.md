@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/23
 ---
-
 # The Magnanimity of God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1379
 
-DELIVERED ON LORD'S-DAY MORNING, OCTOBER 21, 1877,.
+*Delivered on Lord's-Day Morning, October 21, 1877*
 
 > "Behold, God is mighty, and despises not any: He is mighty in strength and wisdom" (or, in strength of heart) Job 36:5.
 
@@ -152,7 +151,6 @@ You are not to say of the fallen woman, "Away with her! The less said about her,
 The Lord knows if He were to leave a woman to be judged by women, or even if He were to leave a man to be judged by men, a whole host of us would be lost! But instead of that, He sets wide the door of Grace and bids the despised ones come and welcome! For Jesus' sake He looks in pity upon men and has a kindness towards them. He sets before us an open door of Mercy and cries, "I have given My Son to die, and whoever among you will but believe in Him shall prove that I will not despise you, but will receive you to My heart, love you in time and love you in eternity—and give you to be sharers of the Throne of My only begotten Son forever and ever."
 
 Brothers and Sisters, shake off your pride and love your fellow man, for if you love not your brother whom you have seen, how can you love God, whom you have not seen? If He is mighty and despises not any, then you can be sure that if you despise any it is because you are not the mighty body that you think you are! Your contempt of others proves that you are a little-souled creature—weak, pitiful, pretentious! You may measure yourself by this—if you despise others you ought to be despised! But, if on the contrary, your tender heart of sympathy would lift even the beggar from the dunghill, you are magnanimous, great-souled and like unto God! May the Holy Spirit make you more and more so. Amen.
-
 
 ---
 [[Sermon 1378 The Righteous Father Known and Loved|← #1378]] · [[Volume 23 (1877)|Volume 23 (1877) Contents]] · [[Sermon 1380 Vanities and Verities|#1380 →]]

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-knox
 ---
-
 # 8. John Knoxe to the Reader.
 
 The following postscript occurs at p. 78 of John Knox's *Appellation &c.* , which is dated “From Geneua. The 14 of Iuly, 1558.”
@@ -27,7 +26,7 @@ Because many are offended at the first blast of the trompett, in whiche I affirm
 
 **4** But if either rashely they haue promoted any manifest wicked personne, or yet ignorantly haue chosen suche a one, as after declareth him self vnworthie of regiment abouc the people of God (and suche be all idolaters and cruel persecuters) moste iustely may the same men depose and punishe him, that vnaduysedly before they did nominate, appoint and electe.
 
-*MATTH. VI* .
+## *Matth. VI*
 
 If the eye be single, the whole body shalbe clere.
 

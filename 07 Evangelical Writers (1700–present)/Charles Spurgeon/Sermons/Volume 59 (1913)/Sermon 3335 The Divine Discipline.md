@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # The Divine Discipline
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3335
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "As am eagle stirs up her nest, flutters over her young, spreads abroad her wings, takes them, bears them on her wings: so the Lord alone did lead him, and there was no strange god with him." Deuteronomy 32:11,12.
 
@@ -27,7 +24,7 @@ If you will read carefully over the history of the children of Israel in the wil
 
 Now in drawing a parallel between the children of Israel and ourselves, we shall invite you to notice, first, in the text—the Divine Instructor,' 'the Lord alone did lead them." And then the method of instruction illustrated—they were trained as an eagle trains the eaglet for their flight. First, then, we have—
 
-I. A DIVINE INSTRUCTOR.
+## I. A Divine Instructor
 
 The Israelites had for their Guide, Instructor and Tutor, in order to prepare them for Canaan, none other than Jehovah, Himself! He might employ Moses and Aaron and He did also make use of those marvelous picture books, if I may so call them, of sacrifice, type and metaphor, but still, God, Himself, was their Guide and their Instructor. And it is so with us. The Holy Spirit is the teacher of the Christian Church. Although He uses this Book, of which we can never speak too highly. Although He still uses the ministry of the Word, for which we are thankful as for a candlestick which we trust may never be taken out of its place, still, our true Teacher is God the Holy Spirit. He instructs us in the Truths of God and, meanwhile, it is also God, who, in the rulings and guiding of Providence, is our Instructor if we will but learn. He is
 
@@ -43,7 +40,7 @@ The great Truth of God which I want to bring forward, if I can, is this—that G
 
 God is teaching you! God alone can do it and He will do it—but take care that you put away all strange gods and give yourselves up wholly to His guidance, submitting your will and your affections and all parts of your spirit and nature to His teaching so that you may be found fully ready when He shall say, "Come up here to dwell with Me forever." Now, passing from that, we shall notice very briefly, indeed—
 
-II. THE METHODS OF THE DIVINE INSTRUCTION.
+## II. The Methods of the Divine Instruction
 
 These methods of Divine instruction are given to us under the very poetical picture of the eagle training its young ones for flight. God, to accommodate Himself to our poor understandings, sometimes compares Himself to a father with children. At other times to a mother with her little ones. Sometimes even to an animal. In this case, even to a bird of prey, so that we may but learn no depths of condescension are too great for the Great Teacher! He compares Himself here, then, to the eagle. I suppose that Moses was well acquainted with the eagle's natural habits. He describes it, first of all, as stirring up its nest, as though the young birds were unwilling to stir from their pleasant home. Having from the time of their birth been quiet and happy there, they had no anxiety whatever to try the blue unfathomable oceans of the air! They had no wish to leave the rocky refuge where they had been reared. They feared, perhaps, lest they might fall over the precipices and be dashed in pieces. Therefore is it said, "The eagle stirs up her nest." She makes it uncomfortable for the little ones so that they may be willing to leave it. And that which would have been obnoxious and burdensome to them, they may come even to desire, namely, to be out of the nest! Someone has quaintly said that the eagle puts thorns into the nest which prick the fledglings so that they are anxious to get away!
 
@@ -91,7 +88,7 @@ On hills of light in worlds unknown." All the love you dare to give to all below
 
 Ah, dear Friends, there are some of you to whom I cannot talk in this fashion because you cannot mount. You have nowhere to mount to! Oh, may the Master stir up your nests! I pray that He may put the thorns of conscience into your pillows tonight. May you recollect those sins which God hates and which God will punish—and if you do remember them and feel bowed down under their weight—then remember that there is one who can help you and who willhelp you, even the Lord Jesus Christ! Look to Him in the hour of trouble and He will be your Deliverer! May the Lord bless these thoughts to all our souls for Jesus' sake.
 
-EXPOSITION BY C. H. SPURGEON: DEUTERONOMY 29:1-21.
+## Exposition by C. H. Spurgeon: Deuteronomy 29:1-21
 
 Verse 1. These are the words of the Covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, besides the Covenant which He made with them in Horeb. That is the preamble, just as in legal documents there is usually some statement of the purport and intent of the indenture before the matter is proceeded
 
@@ -118,7 +115,6 @@ with. These Covenants with God are solemn things and, therefore, they are given 
 20\. The LORD will not spare him, but then the anger of the LORD and His jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him. Not light upon him, but lie upon him—rest there and stay there!
 
 20, 21. And the LORD shall blot out his name from under Heaven. And the LORD shall separate him unto evil out of all the tribes of Israel. As a huntsman separates a stag from the herd that he may hunt it all day, so shall God with any idolater that should come among His people with whom He made a Covenant that day. Oh, how God hates that anything should be worshipped by us but Himself! How indignant is He if anywhere, anything takes the supreme place in the human heart which ought to be occupied by God alone!
-
 
 ---
 [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3336 Beauty for Ashes|#3336 →]]

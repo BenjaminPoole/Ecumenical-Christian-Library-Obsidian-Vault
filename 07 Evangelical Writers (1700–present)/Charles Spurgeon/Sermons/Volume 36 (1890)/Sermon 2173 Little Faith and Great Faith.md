@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/36
 ---
-
 # Little Faith and Great Faith
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2173
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "O you of little faith, why did you doubt?" Matthew 14:31.
 
@@ -140,7 +137,6 @@ How enriched that woman became! She had pleased her Lord and then her Lord pleas
 O preacher, if you had more faith, you would have more converts! Sunday school teacher, if you had more faith, more children would be brought to the Savior out of your class. "Lord, increase our faith"! I hope we are all saying that in our hearts at this moment. I will conclude by asking—Is there not great reason why our faith in Christ should be strong? Is there not every reason why we should have the strongest faith in Him? I told you, the other day, of John Hyatt, when he was dying. Someone said to him, "Mr. Hyatt, can you trust your soul with Christ now?" He said, "I would trust Him with 10,000 souls if I had them."
 
 We can go even further than that. If all the sins that men had committed since the world was made and time began were laid upon one poor sinner's head, that sinner would be justified in believing that Christ could take those sins away! Whoever you are and whatever you are, bring your burdens and lay them at His feet, casting all your cares upon Him, for He cares for you! And from now on may He never have to say to you, "O you of little faith, why did you doubt?" Oh, may He often exclaim, with joy, of you, "O woman, great is your faith: be it unto you even as you will"! May the Holy Spirit bless these simple words of mine to your edification! Amen.
-
 
 ---
 [[Sermon 2172 Patient Job and the Baffled Enemy|← #2172]] · [[Volume 36 (1890)|Volume 36 (1890) Contents]] · [[Sermon 2174 Fever and Its Cure|#2174 →]]

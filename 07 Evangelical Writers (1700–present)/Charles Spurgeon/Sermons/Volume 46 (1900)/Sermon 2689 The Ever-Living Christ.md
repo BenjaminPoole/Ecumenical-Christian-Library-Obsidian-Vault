@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/46
 ---
-
 # The Ever-Living Christ
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2689
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am He that lives, and was dead, and behold, I am alive forevemore, Amen." Revelation 1:18.
 
@@ -99,7 +96,7 @@ O Sirs, that must be a dreadful thing which turns the best thing in Heaven into 
 
 prey is love when once it is transformed into wrath! "Kiss the Son, lest He be angry, and you perish from the way, when His wrath is kindled but a little. Blessed are all they that put their trust in Him," for their confidence is in Him who still says, "I am He that lives, and was dead, and behold, I am alive forevermore." God bless you, for His dear name's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: HEBREWS5.
+## Exposition by C. H. Spurgeon: Hebrews 5
 
 Verse 1. For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins. Notice that the high priests were taken from among men, not from among angels. Hence, our Lord Jesus Christ took not on Him the nature of angels, but He took on Him the seed of Abraham. The Jewish high priests were ordained for men. They acted on behalf of men and they stood in the place of men. So the Lord Jesus Christ stood in the place of His people that He might offer to God for them two things—gifts—that is, such offerings as the Jew made when he presented the fine flour, and oil and other bloodless oblations which were only intended for thanksgiving. Christ offered thanksgiving unto His Father and that offering was a sweet savor unto God. But beside those gifts, the priests offered sacrifices, and our Lord Jesus Christ did the same, for He was made a Sin-Offering for us, though He, Himself knew no sin!
 
@@ -128,7 +125,6 @@ Nothing from His love can sever." Christ became the Author of "eternal salvation
 10\. Called of God an High Priest after the order of Melchisedec. Then the Apostle appeared to be going on to enlarge upon the Melchisedec priesthood, but he stopped. Perhaps he remembered what his Master said to His disciples on one occasion, "I have yet many things to say unto you, but you cannot hear them now." In a similar fashion Paul writes.
 
 11-14. Of whom we have many things to say, and hard to be uttered, seeing you are dull of hearing. For when for the time you ought to be teachers, you have need that one teach you again which are the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. For everyone that uses milk is unskillful in the word of righteousness for he is a babe. But strong meat belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil
-
 
 ---
 [[Sermon 2688 'Good Judgment'|← #2688]] · [[Volume 46 (1900)|Volume 46 (1900) Contents]] · [[Sermon 2690 Meditation on God|#2690 →]]

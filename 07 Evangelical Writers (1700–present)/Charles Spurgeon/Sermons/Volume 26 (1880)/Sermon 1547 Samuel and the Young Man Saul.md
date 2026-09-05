@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/26
 ---
-
 # Samuel and the Young Man Saul
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1547
-
-DELIVERED BY.
 
 > "And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on), but stand still awhile, that I may announce to you the Word of God." 1 Samuel 9:27.
 
@@ -98,7 +95,6 @@ I am my Lord's and He is mine!
 He drew me and I followed on,
 
 Charmed to confess the voice Divine." God grant it for Christ's sake! Amen.
-
 
 ---
 [[Sermon 1546 Men Bewitched|← #1546]] · [[Volume 26 (1880)|Volume 26 (1880) Contents]] · [[Sermon 1549 Good News For Thirsty Souls|#1549 →]]

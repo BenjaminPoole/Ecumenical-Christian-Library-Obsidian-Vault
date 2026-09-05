@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # The Glory in the Rear
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1793
@@ -99,8 +98,7 @@ Oh that ye would believe in Jesus Christ! Oh that ye would "kiss the Son, lest h
 
 PORTIONS OF SCRIPTURE READ BEFORE SERMON—Exodus 13:20-22; 14:1-20; Isaiah 53.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—145 (PART II.),212, 230.
-
+## Hymns from "Our Own Hymn Book"—145 (Part Ii.),212, 230
 
 ---
 [[Sermon 1792 Understandest Thou What Thou Readest|← #1792]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1794 Return, Return, O Shulamite; Return, Return!|#1794 →]]

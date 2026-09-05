@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 125
-
-**PSALM 125**
 
 As the faithful being mingled in this world with the ungodly seem to be exposed to all the ills of life in the same manner as other people, the Prophet, comparing them to Jerusalem, shows that they are defended by an invincible bulwark. And if God at any time suffer them to be plagued by the malice of the wicked, he exhorts them to be of good hope. He however at the same time distinguishes between true and false Israelites, that hypocrites may not apply to themselves what is here said concerning the safety of the righteous.
 

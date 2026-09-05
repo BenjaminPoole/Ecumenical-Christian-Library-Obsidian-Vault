@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/29
 ---
-
 # The Exeter-Hall Sermon to Young Men
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1740
 
-DELIVERED ON LORD'S-DAY EVENING, SEPTEMBER 2, 1883,.
+*Delivered on Lord's-Day Evening, September 2, 1883*
 
 > "O Lord, truly I am Your servant; I am Your servant, and the son of Your handmaid; You have loosed my bonds." Psalm 116:16.
 
@@ -140,7 +139,6 @@ It all came about in this way—the young man sent word home to his mother what 
 Oh, if you become the servant of God, this will not happen to you! You may not be rich; you may not be famous; you may not be great—you need not desire these things—full often they are gilded vanities. But to be a man to the fullness of your manhood; to be free and dare to look every other man in the world in the face and speak the truth and do the right. To be a man that can look God in the face because Christ has covered him with His glorious righteousness—this is the ambition with which I would fire the spirit of every young man before me! And I pray God that the flame may burn in his life by the power of the Divine Spirit.
 
 Come then, Brothers, bow your heads and say, "We will be servants of the living God henceforth and forever." God grant it, for Jesus Christ's sake. Amen and Amen!
-
 
 ---
 [[Sermon 1739 Bankrupt Debtors Discharged|← #1739]] · [[Volume 29 (1883)|Volume 29 (1883) Contents]] · [[Sermon 1741 Let Not Your Heart Be Troubled|#1741 →]]

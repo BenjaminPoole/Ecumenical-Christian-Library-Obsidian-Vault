@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 84
-
-**PSALM 84**
 
 The Psalmist complains that nothing proved to him a source of greater distress than his being prevented from coming to the tabernacle, and his being banished from the assembly of the saints, where God was called upon. And yet he shows, that nothing can withstand the longing desires of the godly; and that, surmounting all obstacles, they will be constantly engaged in seeking God, and, so to speak, will make a way for themselves where there is none. [^1] At length he expresses his desire to be restored to the tabernacle of God, and again testifies that a day spent in the tabernacle was in his estimation more to be prized [^2] than to live for a long time in the society of unbelievers.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/22
 ---
-
 # Godly Fear and Its Goodly Consequence
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1290
-
-DELIVERED BY.
 
 > "In the fear of the Lord is strong confidence and His children shall ha ve a place of refuge." Proverbs 14:26.
 
@@ -162,7 +159,6 @@ I find that Moses Stewart reads the text differently from anybody else and I am 
 The jailer did, you know, and we find that it is said, "He was baptized and all his house." And for this reason—that he believed in the Lord, rejoicing with all his house. Oh, we can never be satisfied till we see all our house converted and all our household baptized—and all those that belong to us belonging, also, to the Lord our God, for thus it is, "His children shall have a place of refuge." May God bless you, dear Friends, through Jesus Christ our Lord.
 
 PORTION OF SCRIPTURE READ BEFORE SERMONS—Psalm 38.
-
 
 ---
 [[Sermon 1289 The Heart Full and the Mouth Closed|← #1289]] · [[Volume 22 (1876)|Volume 22 (1876) Contents]] · [[Sermon 1291 The Best Burden for Young Shoulders|#1291 →]]

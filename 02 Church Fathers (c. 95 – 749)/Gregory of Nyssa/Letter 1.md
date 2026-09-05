@@ -14,10 +14,9 @@ tags:
   - church-fathers
   - written/4th-century
 ---
-
 # Letter 1
 
-BY ST. GREGORY OF NYSSA
+*By St. Gregory of Nyssa*
 
 To Eusebius
 

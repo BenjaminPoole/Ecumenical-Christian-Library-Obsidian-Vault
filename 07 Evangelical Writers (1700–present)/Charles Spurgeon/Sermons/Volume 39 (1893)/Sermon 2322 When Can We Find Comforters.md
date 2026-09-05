@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # When Can We Find Comforters?
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2322
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Where shall I seek comforters for you?" Nahum 3:7.
 
@@ -115,7 +112,7 @@ For sin to set me free."
 
 Amen.
 
-EXPOSITION BY C. H. SPURGEON. NAHUM 2:11-13,3.
+## Exposition by C. H. Spurgeon. Nahum 2:11-13,3
 
 This is a prophecy of the destruction of Nineveh. Remember that Assyria had been one of the great powers that swayed the world—a cruel, tyrannical empire—and God at last determined to destroy Nineveh which was its seat of government. In a high poetical strain, the Prophet cries out,
 
@@ -172,7 +169,6 @@ Brothers and Sisters, awaken yourselves—be shepherds to the people of this mod
 19\. All that hear bruit of you shall clap the hands over you. I think that is the old Norman-French word, "bruit," signifying noise or tumult, that has been left in our Bible.
 
 19\. For upon whom has not your wickedness passed continually? Nineveh had been so wicked and had done so much evil that when men heard that it was destroyed, they would even clap their hands for very joy that such an evil-doer was out of the way! I know not to what purpose I was moved to read this passage, but it is specially meant for someone, to whom may God apply it by his Spirit!
-
 
 ---
 [[Sermon 2321 The Heavenly Singers and Their Song|← #2321]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2323 Obedience Rewarded|#2323 →]]

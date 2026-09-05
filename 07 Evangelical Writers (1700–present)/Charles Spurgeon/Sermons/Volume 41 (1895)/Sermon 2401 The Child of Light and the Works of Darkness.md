@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/41
 ---
-
 # The Child of Light and the Works of Darkness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2401
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Have no fellowship with the unfruitful works of darkness, but rather reprove them." Ephesians 5:11.
 
@@ -97,7 +94,7 @@ But give me a large Church consisting of thousands, if there are in it many whos
 
 Now, if any here are living in fellowship with those unfruitful works of darkness, I pray them to escape for their lives from them! May they fly to Christ, who alone can save them! And when they have once found healing through His wounds and life through His death, then let them pray to be kept from all sin that they may lead a holy and gracious life to the glory of Him who has washed them in His own most precious blood! The Lord send a blessing, for His dear Son's sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON: EPHESIANS5.
+## Exposition by C. H. Spurgeon: Ephesians 5
 
 Verse 1. Be you, therefore, followers of God. Or, imitators of God—
 
@@ -140,7 +137,6 @@ Verse 1. Be you, therefore, followers of God. Or, imitators of God—
 31, 32. For this cause shall a man leave his father and mother, and shall be joined unto his wife, and the two shall be one flesh. This is a great mystery: but I speak concerning Christ and the Church. There is the mystery, that He should leave His Father, and quit the home above, and become one flesh with His elect, going with them and for their sakes, through poverty, pain, shame and death! This is a marvel and a mystery, indeed!
 
 33\. Nevertheless, let everyone of you in particular so love his wife even as himself, and the wife see that she reverence her husband. Thus the Spirit of God follows us to our homes and teaches us how to live to the Glory of God! May He help us to do so, for Christ's sake! Amen.
-
 
 ---
 [[Sermon 2400 Number 2400—or, Escape for Your Life!|← #2400]] · [[Volume 41 (1895)|Volume 41 (1895) Contents]] · [[Sermon 2402 Under Arrest|#2402 →]]

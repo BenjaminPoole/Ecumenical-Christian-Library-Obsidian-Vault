@@ -10,10 +10,9 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # Jeremiah 28
 
-**CHAPTER 28**
+***Chapter 28***
 
 ## Jeremiah 28:1-2
 
@@ -61,7 +60,7 @@ Now Jeremiah had been furnished with a twofold message, to expose the vices of t
 
 ## Prayer Lecture 106
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou continuest to invite us to thyself, and often to remind us of our sins, that we may embrace the hope of mercy that is offered to us, — O grant, that we may not be ungrateful for this so great and invaluable a blessing, but come to thee in real humility and true repentance, and that trusting in thine infinite goodness, we may not doubt but that thou wilt be propitious to us, so that we may be kindled with the desire for true religion, and in all things obey thy word, that thy name may be glorified in us, until we shall at length come into that celestial glory, which thy Son hath obtained for us by his blood. — Amen.
 
@@ -136,7 +135,7 @@ But as we have elsewhere said, this preposterous imitation of the devil ought no
 
 ## Prayer Lecture 107
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that since thou wouldest so try the constancy of our faith as to permit the devil to blend his lies with thy holy truth, we may not yet be entangled in them, but be attentive to that light which thou settest before us, and by which thou guidest us into the way of salvation; and may we in the spirit of docility so offer ourselves to be ruled by thee, that thou mayest also become our faithful and infallible leader, until we shall at length attain that eternal life which has been obtained for us by the blood of thine only-begotten Son. — Amen.
 
@@ -202,7 +201,7 @@ But how does this appear? the greatest part of the people often rose up against 
 
 ## Prayer Lecture 108
 
-**PRAYER**
+## **Prayer**
 
 Grant, Almighty God, that as thou dost kindly and graciously invite us to repentance, we may be so touched by the sense of thy wrath, that we may not by our perverseness increase more and more the heinousness of thy vengeance against us, but lay hold on the mercy that is offered to us, so that we may experience the efficacy and fruit of thy truth for our salvation, through Christ our Lord. — Amen.
 

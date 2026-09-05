@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/33
 ---
-
 # The Best Bread
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1940
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "I am that bread of life." John 6:48.
 
@@ -154,7 +151,6 @@ Now the Lord Jesus Christ is never so famous a Christ as when sinners come and f
 I know a Brother here who wanted to take a certain shop in a wide street, but his wiser friends said, "Do not take that shop for a baker's. It is not in a good eating locality. You must open a shop in one of the streets where there are plenty of poor people who will buy the bread every morning. Make it good and cheap and it will not stay long on the shelves." I noticed in the newspaper that a certain pub was "in a good drinking locality." I am sorry that there are such localities. But, assuredly, a good eating locality must be the very place for vending bread. I think that this Tabernacle stands in a good eating locality. Many are here, now, who are hungry after Christ and it is a blessed fact that they may have Him and feed upon Him without stint!
 
 And what is the price? The price? The difficulty with all other traders is to get you up to their price—but my difficulty is to get you down to mine—for the Bread of Heaven is without price. Even if you offer a farthing, I cannot take your bid. You may have all for nothing and have it at once—but not a penny can be accepted from you! The Gospel provides a full Christ for empty sinners—pardon on earth and bliss in Heaven—and all for nothing! Take it as a free gift and it is yours. What would you pay? What could you pay? Did Israel pay for the manna? It would have been an insult to God to imagine it! Go your way and bless the name of the Lord, for this is the Gospel—"He that believes and is baptized shall be saved."
-
 
 ---
 [[Sermon 1939 Shaved and Shorn, But Not Beyond Hope|← #1939]] · [[Volume 33 (1887)|Volume 33 (1887) Contents]] · [[Sermon 1941 Grace For Communion|#1941 →]]

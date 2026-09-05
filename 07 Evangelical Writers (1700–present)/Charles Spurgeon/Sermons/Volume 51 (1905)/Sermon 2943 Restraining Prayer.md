@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # Restraining Prayer
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2943
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "You...restrain prayer before God." Job 15:4.
 
@@ -111,7 +108,7 @@ To Him there's music in a groan,
 
 And beauty in a tear."
 
-EXPOSITION BY C. H. SPURGEON: 1 JOHN 2.
+## Exposition by C. H. Spurgeon: 1 John 2
 
 1 John 2:1-4. My little children, these things I write unto you, that you sin not. And if any man sins, we have an Advocate with the Father, Jesus Christ the righteous. And He is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. And hereby do know that we know Him, if we keep His commandments. He that says, I know Him, and keeps not His commandments, is a liar, and the truth is not in him. Holy living is the sure fruit and proof of anyone being in Christ. Where it is not manifest, the profession of being in Christ is a lie.
 
@@ -138,7 +135,6 @@ abides forever. Everything else is transient, fleeting and soon passes away. But
 27, 28. And you need not that any man teach you: but as the same anointing teaches you of all things, and is truth, and is no lie, and even as it has taught you, you shall abide in Him. And now little children, abide in Him. See how the Apostle rings out this note again and again? Our Savior repeated the word, "abide," or, "remain," many times in the short parable of the Vine, and now John strikes this same silver bell over and over again—"And now, little children, abide in Him"—
 
 28, 29. That when He shall appear, we may have confidence, and not be ashamed before Him at His coming. If you know that He is righteous, you know that everyone that does righteousness is born of Him.
-
 
 ---
 [[Sermon 2942 The Objective of the Lord's Supper|← #2942]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2944 Urging Lot|#2944 →]]

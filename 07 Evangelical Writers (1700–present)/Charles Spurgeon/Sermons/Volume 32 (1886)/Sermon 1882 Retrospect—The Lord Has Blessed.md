@@ -12,16 +12,13 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # Retrospect—"The Lord Has Blessed"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1882
 
-DELIVERED BY.
-
 > "Inasmuch as the Lord has blessed me until now." Joshua 17:14.
 
-THE PASTOR'S RETURN. THREE SPECIALLY- SELECTED SERMONS TO HIS CHURCH, CONGREGATION, READERS AND FRIENDS, CONSISTING OF
+## The Pastor's Return. Three Specially- Selected Sermons to His Church, Congregation, Readers and Friends, Consisting Of
 
 A RETROSPECT, A PROSPECT [No. 1883] AND AN EXHORTATION [No. 1884.]
 
@@ -104,7 +101,6 @@ Brothers and Sisters, we must have more fire, and more irons in it! I beseech yo
 Did you say, "Now, do not project anything"? I do not know that I shall, but at the same time, I am not sure that I shall not! If the Lord has blessed us until now, let us go a little further. When certain Brethren raise a stone of Ebenezer, they sit down on it. That is not what the stone is meant for. I have a commission to put spikes on the top of those stones! You must not dream of sitting down upon—"Until now has the Lord helped us." The voice from the Throne of God says
 
 "Speak unto the children of Israel, that they go forward." Though the sea rolls before you, forward! Forward, in God's name! Amen.
-
 
 ---
 [[Sermon 1881 The Dying Thief in a New Light|← #1881]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1883 Prospect—He Will Keep|#1883 →]]

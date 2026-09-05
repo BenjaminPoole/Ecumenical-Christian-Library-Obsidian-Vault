@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 25. Leviticus 22:31-33
-
-**leviticus 22**
 
 **31.** Therefore shall ye keep my commandments, and do them: I am the Lord.
 

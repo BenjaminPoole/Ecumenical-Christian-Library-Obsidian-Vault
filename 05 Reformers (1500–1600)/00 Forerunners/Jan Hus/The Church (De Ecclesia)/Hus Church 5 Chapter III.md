@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 5. Chapter III
 
-ALL CHRISTIANS ARE NOT MEMBERS OF THE CHURCH
+*All Christians Are Not Members of the Church*
 
 Against what has already been said the objection is raised (i) that if the treatment is correct then no reprobate would be a part of our holy mother, the universal church. But the consequence is false, for every Christian is a part of that church, as appears from the parable, Matt. 13 : 47: "The kingdom of heaven is like unto a net cast into the sea which gathered in all manner of fish." On this St. Gregory in his Homilies [Migne, 76 : 1116] says: "The holy church is compared to a net cast into the sea because she is committed to fishers and because every one is drawn up through her from the waves of this present world to the eternal kingdom lest they sink in the depths of eternal death." (2) The falsehood of the treatment is confirmed by Matt. 22 : 2: "The kingdom of heaven is likened to a king, who made a marriage feast for his son and sent forth his servants to call them that were bidden to the marriage feast." Going out, they gathered in all whom they found, both good and bad, and the marriage feast was full of guests. Here Gregory says: "By the very quality of the guests it is evident that by this royal marriage the present church is meant, in which the bad meet with the good, a mixed church made up of a diversity of children." 1 (3) It is confirmed by what is said, Matt. 13 : 41, "The Son of man shall send forth his angels and gather together out of his kingdom all things that offend and them that do iniquity"; and (4) by Matt. 5 : 20: "Whoso shall
 

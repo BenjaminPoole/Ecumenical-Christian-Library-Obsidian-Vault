@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/51
 ---
-
 # The Saints' Love to God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2958
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Oh love the LORD, all you His saints." Psalm 31:23.
 
@@ -144,7 +141,6 @@ If You remember me!"
 Perhaps I am addressing some whose names are written in the Lamb's Book of Life, but who have no knowledge of that blessed fact. They are strangers to themselves and strangers to God, yet in His eternal purpose He has ordained that they shall be saved. It is possible that this very hour is to be the time in which they shall be brought out of Nature's darkness into God's marvelous light! Let me ask them—have you not lived long enough in sin? Will not the time past suffice you to have worked the will of the flesh? What profit have you had in all your sinning? And you self-righteous people who have tried to save yourselves, how much nearer to God are you now than when you began that task which you will never finish? Have you not put your money into a bag that is full of holes? "Why do you spend money for that which is not bread? And your labor for that which satisfies not?" Surely you have lived long enough at enmity against God and you have had time enough to prove whether this world is true or false—and whether her joys are real or delusive! How far has your experience in this matter gone and, as far as it has gone, what has been the result? Will you not trust the Lord Jesus Christ?
 
 If you can do nothing else, come and wash His feet with the tears of your repentance! If you can do nothing else, come and lean on His bosom! If you cannot give Him anything else, give Him yourself! Give Him your whole heart, or give Him your broken heart. After all, Sinner, you are the man who can really honor Christ. I do not read that our Lord Jesus ever said to one of His disciples, "Give me to drink."But He did say that to the woman at the well who had had five husbands, and the man with whom she was then living was not her husband! Jesus did say to her, "Give me to drink," for a sinner is capable of satisfying the innermost thirst of Christ when that sinner comes and believes in Christ! Oh, that some of you might do that this very moment! That would be the best result of this service. I pray the Lord that it may be so and then, Father, Son, and Spirit—the one true God—we, who believe in Jesus, will love You forever and ever! Amen.
-
 
 ---
 [[Sermon 2957 Advance!|← #2957]] · [[Volume 51 (1905)|Volume 51 (1905) Contents]] · [[Sermon 2959 God's Love to the Saints|#2959 →]]

@@ -9,10 +9,7 @@ tags:
   - puritans
   - john-owen
 ---
-
 # Sermon VI. The obligation to increase in godliness. 1 Thessalonians iv. 1
-
-## Sermon VI. The obligation to increase in godliness.
 
 Preached May 29, 1674.
 
@@ -61,7 +58,6 @@ That which I intend to speak unto (not now, but hereafter), is our walk with God
 What I spoke unto you the last day hath occasioned me to go thus back, to lay this foundation; for that will give but one particular of what will be found necessary to press upon you, that you may so walk as to please God, and abound in it more and more.
 
 Yet that is such a weighty particular, — namely, how we may every one of us, in our places and conditions, and under our opportunities, promote holiness in one another, and be awakened to a diligent watchfulness unto that duty, that I would beg of you that that might not fall off from our consideration with the experience of other things. And that you might know how to put it in practice more among us was referred to your consideration as well as mine.
-
 
 ---
 [[SJO 108 Sermon V. Holiness urged from the liability of all things to dissolution. 2|← Sermon V. Holiness urged from the liability of all things to dissolution. 2 Peter iii. 11]] · [[Sermons of John Owen|Contents]] · [[SJO 110 Sermon VII. Perilous times. 2 Timothy iii. 1–5|Sermon VII. Perilous times. 2 Timothy iii. 1–5 →]]

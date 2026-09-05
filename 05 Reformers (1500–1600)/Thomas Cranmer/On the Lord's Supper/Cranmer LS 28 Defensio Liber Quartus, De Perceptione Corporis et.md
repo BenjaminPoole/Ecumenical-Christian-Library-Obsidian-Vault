@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 28. Defensio: Liber Quartus, De Perceptione Corporis et Sanguinis Christi
 
-LIBER QUARTUS.
+*Liber Quartus*
 
-DE PERCEPTIONE CORPORIS ET SANGUINIS CHRISTI IN SACRAMENTO.
+## De Perceptione Corporis Et Sanguinis Christi in Sacramento
 
-CAPUT PRIMUM.
+## Caput Primum
 
 Crassus hic papistarum et absurdus error est, quem habent de carne et sanguine Christi ore percipiendo.
 
@@ -55,7 +54,7 @@ Quisque bonus ac fidelis Christianus apud se sentit, quomodo edat Christi carnem
 
 Atque hee est carnis et sanguinis Christi manducatio et potatio. Quod hominem in se sentire, est corporis et sanguinis Christi nutritionem sentire: quod nemo malus aut membrum diaboli facere poterit.
 
-CAPUT III. : CHRISTUS NON DENTIBUS SED FIDE EDITUR.
+## Caput III. : Christus Non Dentibus Sed Fide Editur
 
 _ Quemapmopum Christus spiritualis cibus est, sic spirituali parte nostri spiritualiter sop. so. editur et digeritur, et spiritualem atque xternam vitam subministrat; non autem ore, lingua, gula, ventre, vel editur, vel deglutitur, vel digeritur.
 
@@ -75,7 +74,7 @@ Basilius, Epist. 141. b. 184.
 
 80 DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. [Li tabuntur. Ita enim nec copiam hujus seculi concupiscent, nec timebunt imopiam. Et laudabunt Dominum, qui requirunt eum: nam laus Domini est eructatio saturitatis illius. Vivunt corda eorum in seculum seculi, nam cibus ille cordis est.” Clemens Alexandrinus in Pedagogo, Lib. ii. cap. 2. ‘‘ Hoc est bibere Jesu sanguinem, esse participem incorruptionis Domini.” De Consecra. Dist. 2. “‘ Utrum. Quia Christum fas vorari dentibus non est,” &c.
 
-CAPUT IV. BONOS TANTUM CHRISTUM EDERE.
+## Caput IV. Bonos Tantum Christum Edere
 
 ArtaurE ut ad propositum nostrum revertamur, tantum vera et vitalia Christi membra carnem et sanguinem ejus edere et bibere, ex permultis antiquorum locis, minime adhue citatis, comprobabo. Origenes aperte de ea re scribit hoc modo: “ Verbum factum est caro, verusque cibus, quem qui comederit, omnino vivet in #ternum ; quem nullus malus potest edere. Etenim si fieri possit, ut qui malus adhuc perseveret, edat Verbum factum carnem, quum sit Verbum et panis vivus, nequaquam scriptum fuisset, ‘Quisquis ederit panem hunc, vivet in eternum’.” Hee ita perspicua sunt, ut longioris explicationis non egeant. Itaque quomodo cum hoc conveniat Cyprianus, videamus.
 
@@ -97,7 +96,7 @@ Hieronymus autem hec habet: “Omnes voluptatis magis amatores quam Dei non come
 
 Atque alio loco Hieronymus: “ Heretici non comedunt nec bibunt corpus et sanguinem Domini.”
 
-IV.] DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. 81
+## IV.] De Vera Corporis Et Sanguinis Perceptione. 81
 
 Addit praterea: “Heretici non comedunt carnem Jesu, cujus caro cibus credenfOb; 209. tium est.” cap. xxii.
 
@@ -128,8 +127,6 @@ In Joan. Tract. 27.
 *Ob. 226. De Doctr. Christiana, Lib. ili. cap.
 
 In Joan. Tract. 59. *Ob. 235.
-
-82 DE VERA CORPORIS ET SANGUINIS PERCEPTIONE, [Lm.
 
 bibit ejus sanguinem, habet vitam eternam. Ad utrumque autem respondit, quod dixit «ternam. Non ita est in hac esca, quam sustentande hujus corporis vite causa sumimus: nam qui eam non sumpserit, non vivet, nec tamen qui eam sumpserit, vivet. Fieri enim potest, ut senio, ut morbo, vel aliquo casu, plurimi et qui eam sumpserint, moriantur. In hoc vero cibo et potu, id est, corpore et sanguine Domini, non ita est: nam et qui eam non sumit, non habet vitam, et qui eam sumit, habet vitam, et hane utique eternam.” Et mox: “Hune itaque cibum et potum societatem vult intelligi corporis et membrorum suorum, quod est sancta ecclesia in pradestinatis, et vocatis, et justificatis, et glorificatis, sanctis et fidelibus ejus.” Et mox: “ Hujus rei sacramentum, id est, unitatis corporis et sanguinis Christi, alicubi quotidie, alicubi certis intervallis dierum, in dominica mensa preparatur, et de mensa dominica sumitur, quibusdam ad vitam, quibusdam ad exitium. Res vero ipsa, cujus et sacramentum est, omni homini ad vitam, nulli ad exitium, quicunque ejus particeps fuerit.” Deinde his ista subjungit: “ Hoc est manducare illam escam, et illum bibere potum, in Christo manere, et illum manentem in se habere.” Ac per hoe, “qui non manet in Christo, et in quo non manet Christus, proculdubio nec manducat spiritualiter carnem ejus, nec bibit ejus sanguinem, licet carnaliter et visibiliter premat dentibus sacramentum corporis et sanguinis Christi, sed magis tante rei sacramentum ad judicium sibi manducat.”
 
@@ -167,8 +164,6 @@ Ap corroborandam autem Cyrilli sententiam, libenter a papistis quererem, utrum N
 
 4 Si negant, satis dant, malos, etiamsi sacramentum corporis Christi percipiant, verum - ejus corpus minime tamen percipere. Sin affirment, libenter illos etiam rogarem, utrum Christi Spiritum in se habeant, necne? Hoc si negant, Christi corpus a Spiritu, humanitatem a divinitate ejus, separant, et quasi antichristi ipsi, Christum dividentes, a scriptura condemnantur. | Sin affirmaverint, impium in se Spiritum Christi habere, etiam hic scriptura illos condemnat, his verbis : “ Qui non habet Spiritum Dei, hic non est ejus.” In quo autem Rom. viii.
 
-84 DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. [Lrs.
-
 Christus est, vivit propter justificationem : “Quod si spiritus ejus, qui exsuscitavit Jesum ex mortuis, habitat in vobis, qui exsuscitavit Jesum ex mortuis, vita afficiet mortalia corpora vestra, propter illius Spiritum in vobis inhabitantem,
 
 Ita undique scriptura verbi divini adversarios condemnat.
@@ -177,7 +172,7 @@ Hee autem papistarum impietas monstrosa est, dicere Christi carnem, sanguinem, a
 
 Admirabiles sunt hi prestigiatores et exorciste, qui, verbulis quibusdam adhibitis, Deum faciunt et diabolum simul eodem in homine habitare, et templum simul Dei ac diaboli esse. Itaque videtur illos sic occzecatos esse, ut lucem a tenebris, Belial a Christo, mensam Domini a mensa diabolorum, nequeant discernere. Sic ergo a nobis hoe tempore papistarum immanis atque intolerabilis error refutatur, qui eos, qui membra diaboli sunt, edere verum corpus Christi, et ejus sanguinem bibere affirmant, longe contra sententiam et auctoritatem Christi, cujus hee verba sunt: “Qui edit meam carnem et bibit meum sanguinem, vitam eternam habet.”
 
-CAPUT VI. RESPONDETUR QUIBUSDAM PAPISTARUM OBJECTIONIBUS.
+## Caput VI. Respondetur Quibusdam Papistarum Objectionibus
 
 Ne autem videantur papiste tam misero in loco esse, ut nihil habeant, quod pro se afferre queant, Paulum in undecimo ad Corinthios citant: ait enim, “Qui bibit et edit indigne, judicium sibi edit et bibit, non dijudicans corpus Domini.”
 
@@ -185,11 +180,11 @@ Paulus autem hoc loco de panis et vini perceptione, et non de perceptione corpor
 
 Paulus hoc loco hance habet sententiam, quoniam in coena Domini panis et vinum verum corpus et sanguinem Christi Servatoris representant, quemadmodum ille ipse instituit et decrevit, ideo quamvis in coelo ad dexteram Patris Christus consideat, ad hee tamen mysteria panis et vini tanta fide, reverentia, puritate, timore, accedere debemus, ac si Christum ipsum ‘sensibus nostris objectum reciperemus. Ita enim Christus fidelibus in ccena adest magnitudine Spiritus et gratie sua, et fructuosius ab illis percipitur, quam si corporaliter illum presentem perciperent. Qui igitur digne ad coenam hance accedunt, post diligentem ac debitam sui ipsorum inquisitionem, debent accurate considerare, quis hanc ccenam instituit, quem cibum et potionem percepturi sint, et quemandmodum seipsos gerere in hoc munere debeant. Qui ccenam instituit, Christus ipse est; cibus autem et potio (quibus convivas suos digne et accommodate accedentes pascit) caro et sanguis ejus sunt. Accedentes autem hoe diligenti et attenta animi consideratione tenere debent, quod corpus ejus pro illis cruci affixum, et sanguis pro illorum redemptione profusus sit. Itaque ad has sublimes et ccelestes epulas summissis et religiosis animis ita accedere debent, ac si Christus ipse in illis propositus esset. Qui aliter huc accedunt, indigne hue accedunt, nec corpus et sanguinem Christi, sed suam ipsorum condemnationem, percipiunt ; quia non satis officiose ac convenienter intuentur in verum Christi corpus et sanguinem (que nobis spiritualiter ad cibum offeruntur), sed, despecta Christi coena, quasi ad communem et vulgarem pastum accedunt, nulla — corporis Christi (qui spiritualis hujus mens cibus est) ratione habita.
 
-CAPUT VII. RESPONDETUR SCRIPTORIBUS ILLIS QUOS PAPISTE PRO SE CITANT.
+## Caput VII. Respondetur Scriptoribus Illis Quos Papiste Pro Se Citant
 
 Neque vero hic transeundi hi loci sunt, quos ex antiquis scriptoribus papiste pro — se inducunt, qui primo aspectu videntur pro illis facere, qui malos corpus et sanguinem — Domini percipere dicunt: Quod si diligenter hi loci perpendantur, inveniemus ne unum quidem ex illis hunc errorem ulla ex parte defendere. |
 
-IV.) DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. 85
+## IV.) De Vera Corporis Et Sanguinis Perceptione. 85
 
 Primus locus ex Augustino contra Cresconium grammaticum est: verba hee sunt : Aug. contra
 
@@ -209,9 +204,9 @@ Itaque quemadmodum in baptismo, qui ficte accedunt, et qui sincere, ambo sacrame
 
 admodum enim Augustinus eo in loco de sacramento baptismi loquitur, ita etiam Mar. An.
 
-ol. 215. de sacramento corporis et sanguinis Domini verba facit: quod tamen corpus et sangui- nem ejus vocat, quia nobis verum corpus, carnem, et sanguinem Christi repreesentat.
+ol. 215. de sacramento corporis et sanguinis Domini verba facit: quod tamen corpus et sanguinem ejus vocat, quia nobis verum corpus, carnem, et sanguinem Christi repreesentat.
 
-CAPUT VIII. FIGURE ILLARUM RERUM NOMINIBUS APPELLANTUR QUAS SIGNIFICANT.
+## Caput VIII. Figure Illarum Rerum Nominibus Appellantur Quas Significant
 
 Ficura (quemadmodum superius multis a me explicatum est) nomen ejus rei habet quam -significat. Sic hominis, leonis, avis, arboris, stirpis simulacrum, homo, leo, avis, arbor, stirps, nominatur. Ita dici solitum est, “Diva Maria Walsinghamica,” “ Guipsiaca,” “Maria gratiw,” “ Maria miserationis,” “divus Petrus Mediolanensis,” “ divus Joannes Ambianus,” atque hujus generis nonnulla; quibus tamen res ipsas non intelleximus, sed simulacra ipsa nominibus rerum quas representabant appellabamus. Itemque sermone omnium usitatum hoc et contritum est, “ Magnus Christophorus ‘Eboracensis, Lincolniensis,” “beata virgo ridet,” “agitat in cunis infantem,” “ peregrinando visamus Petrum Rome, Jacobum Compostelle ;” et sexcenta alia sunt hujusmodi, que non de rebus ipsis, sed de simulacris rerum intelligi solent.
 
@@ -223,15 +218,13 @@ Eusebius Emiss. in Sermo. de Eucharist.
 
 *Ob. 39. Rudi populo a papistis imponitur,
 
-86 DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. [Li.
-
 gustamus, percipimus ; ; ita spiritualibus oculis, manibus, ore, Spiritualiter veram ejus carnem et sanguinem videmus, tractamus, gustamus, et percipimus. .
 
 Sic Eusebius Emissenus: “Cum reverendum altare cibis spiritualibus satiandul ascendis, sacrum Dei tui corpus et sanguinem fide respice, honore mirare, mente continge, cordis manu suscipe, et maximo haustu interioris hominis assume. Heeque spiritualia nullam Christi ipsius corporalem presentiam requirunt, perpetuo ad dexteram Dei Patris in ccelo considentis.”
 
 Et quemadmodum hee, que dicimus, verissima sunt, ita plenam et justam continent ad ea omnia responsionem, qu cum ulla probabilitate papiste pro se afferre queant.
 
-CAPUT IX. DE VENERATIONE SACRAMENTI.
+## Caput IX. De Veneratione Sacramenti
 
 JAM vero necessarium in primis est, aliquid de veneratione Christi explicare, ne qui sacramentum percipiunt, loco Christi sacramentum ipsum venerentur. Quemadmodum enim humanitas ejus cum divinitate conjuncta, et ad dexteram Patris in celum sublata, ab omnibus creaturis ccelestibus, terrenis, et subterraneis veneranda est; ita si pro Christo signa et sacramenta cultu ac veneratione prosequamur, in maximam et teterrimam idololatriam incurrimus, et horribilissimum ac nefandissimum coram Deo scelus admittimus.
 
@@ -269,7 +262,7 @@ Ita amantissimus Pastor et Servator animarum nostrarum Christus horum periculoru
 
 88 DE VERA CORPORIS ET SANGUINIS PERCEPTIONE. [Lm. IV.] tus.” Sed Servator Christus illos falsos prophetas vocat, dicens: “‘Cavete, pradico vobis.” Ne fidem illis adhibeatis. ‘Si vobis dixerint, Christus foris est,’ aut in solitudine est, ne exeatis: sin in locis inclusis atque abditis dicant esse, ne credatis.”
 
-CAPUT X. PAPISTE HIS ERRORIBUS DECEPERUNT POPULUM. ;
+## Caput X. Papiste His Erroribus Deceperunt Populum
 
 Quop si queras, quinam hi falsi prophets et seductores sint, facilis est et expedita responsio: antichristi Romani et illorum sectarii, qui omnis erroris, ignorantie, cecitatis, superstitionis, hypocriseos et idololatrie extiterunt auctores.
 
@@ -277,13 +270,13 @@ Innocentius Innocentius tertius, unus omnium perniciosissimus, qui hanc sacerrim
 
 *Ob. 40. Honorius autem tertius non solum idem confirmarat, sed preeceperat etiam, ut teria —sacrifici diligenter singulis quibusque temporibus docerent, ut, sublata in altum hostia, populus reverenter et demisse se flecteret, neque tum solum, sed etiam cum sacerdos sacramentum zgrotis defert. Hee illa episcoporum Romanorum decreta et statuta sunt, quibus simulatione sanctitatis plebem in omnem errorem et idololatriam abducerent, non illos per panem ad Christum, sed a Christo ad panem transferentes.
 
-EXHORTATIO AD VERAM CHRISTI IN SACRAMENTO VENERATIONEM.
+## Exhortatio Ad Veram Christi in Sacramento Venerationem
 
 Omnes itaque admoneo, qui Christum amant, et qui sincera fide illi nituntur, ut avertant animos ab hac cogitatione de corporata Christi in pane presentia, sed sublatis in ccelum animis illum ad dexteram Patris sedentem colant: Christum in seipsis adorent, (cujus templa sunt, in quibus habitat et vivit spiritualiter,) et a cultu Christi in pane quam longissime absint. Neque enim spiritualiter in pane (quemadmodum in homine) nec corporaliter in pane (quemadmodum in ccelo) est, sed sacramentaliter solum, quemadmodum res in figura esse dicitur, per quam significatur.
 
 Satis itaque hoc loco tertius ex precipuis papistarum erroribus de ccoena Domini convictus et damnatus est, quo docent, impios veram carnem et sanguinem Christi percipere.
 
-LIBRI QUARTI FINIS.
+## Libri Quarti Finis
 
 ---
 [[Cranmer LS 27 Defensio Liber Tertius, De Praesentia Christi in|← 27. Defensio Liber Tertius, De Praesentia]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 29 Defensio Liber Quintus, De Sacrificio|29. Defensio Liber Quintus, De Sacrificio →]]

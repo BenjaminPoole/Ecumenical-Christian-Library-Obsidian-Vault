@@ -10,10 +10,9 @@ written: "1546"
 tags:
   - calvin-commentaries
 ---
-
 # 2 Corinthians 9
 
-**CHAPTER 9**
+***Chapter 9***
 
 ## 2 Corinthians 9:1-5
 

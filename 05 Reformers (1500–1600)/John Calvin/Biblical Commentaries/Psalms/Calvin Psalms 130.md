@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 130
-
-**PSALM 130**
 
 Whether the Prophet in this Psalm prays in his own name in particular, or represents the whole Church, it is manifest, that finding himself overwhelmed with adversities, he supplicates deliverance with passionate ardor. And while acknowledging that he is justly chastised by the hand of God, he encourages himself and all genuine believers to cherish good hope, since God is the everlasting deliverer of his people, and has always in readiness the means of effecting their rescue from death.
 

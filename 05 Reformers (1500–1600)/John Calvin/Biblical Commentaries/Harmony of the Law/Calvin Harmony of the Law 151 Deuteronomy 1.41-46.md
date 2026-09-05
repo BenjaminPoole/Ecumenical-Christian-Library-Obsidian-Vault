@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 151. Deuteronomy 1:41-46
-
-**Deuteronomy 1**
 
 **41.** Then ye answered and said unto me, We have sinned against the Lord, we will go up and fight, according to all that the Lord our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
 

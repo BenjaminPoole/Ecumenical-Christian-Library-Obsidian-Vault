@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Charmides
 *trans. Benjamin Jowett*
 
@@ -19,9 +18,9 @@ tags:
 
 ---
 
-THE DIALOGUES OF PLATO
+## The Dialogues of Plato
 
-CHARMIDES
+## Charmides
 
 By Plato
 
@@ -32,13 +31,11 @@ M.A.
      Regius Professor of Greek in the University of Oxford
      Doctor in Theology of the University of Leyden
 
-
-TO MY FORMER PUPILS
+## To My Former Pupils
 
 in Balliol College and in the University of Oxford who during fifty
 years have been the best of friends to me these volumes are inscribed in
 grateful recognition of their never failing attachment.
-
 
 The additions and alterations which have been made, both in the
 Introductions and in the Text of this Edition, affect at least a third
@@ -55,10 +52,7 @@ and undamaged copy of the first or second Edition with any agent of the
 Clarendon Press, shall be entitled to receive a copy of a new Edition at
 half-price.
 
-
-
-
-PREFACE TO THE FIRST EDITION.
+## Preface to the First Edition
 
 The Text which has been mostly followed in this Translation of Plato is
 the latest 8vo. edition of Stallbaum; the principal deviations are noted
@@ -161,10 +155,7 @@ services which he has rendered to Greek Literature.
 
 Balliol College, January, 1871.
 
-
-
-
-PREFACE TO THE SECOND AND THIRD EDITIONS.
+## Preface to the Second and Third Editions
 
 In publishing a Second Edition (1875) of the Dialogues of Plato in
 English, I had to acknowledge the assistance of several friends: of
@@ -821,10 +812,7 @@ either a system or a technical language.
 
 Balliol College, October, 1891.
 
-
-
-
-NOTE
+## Note
 
 The chief additions to the Introductions in the Third Edition consist of
 Essays on the following subjects:--
@@ -846,10 +834,9 @@ Essays on the following subjects:--
 8. Comparison of the Laws of Plato with Spartan and Athenian Laws and
 Institutions.
 
+## Charmides
 
-CHARMIDES.
-
-INTRODUCTION.
+## Introduction
 
 The subject of the Charmides is Temperance or (Greek), a peculiarly
 Greek notion, which may also be rendered Moderation (Compare Cic.
@@ -1064,18 +1051,13 @@ this dialogue may be compared with a similar opposition of ideas and
 phenomena which occurs in the Prologues to the Parmenides, but seems
 rather to belong to a later stage of the philosophy of Plato.
 
-
-
-
-CHARMIDES, OR TEMPERANCE
-
+## Charmides, or Temperance
 
 PERSONS OF THE DIALOGUE: Socrates, who is the narrator, Charmides,
 Chaerephon, Critias.
 
 SCENE: The Palaestra of Taureas, which is near the Porch of the King
 Archon.
-
 
 Yesterday evening I returned from the army at Potidaea, and having been
 a good while away, I thought that I should like to go and look at my old

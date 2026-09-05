@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/39
 ---
-
 # The Crisis Of This World
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2338
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Now is the judgment of this world: nowshall theprince of this world be cast out. And I, if Iam lifted up from the earth, will draw all men unto Me. This He said, signifying what death He should die." John 12:31-33.
 
@@ -125,7 +122,7 @@ As the drops of the morning dew are seen, glittering like diamonds on every hedg
 
 Amen.
 
-EXPOSITION BY C. H. SPURGEON: JOHN 12:19-43.
+## Exposition by C. H. Spurgeon: John 12:19-43
 
 Our Lord raised Lazarus from the dead and this miracle made a great sensation among the people. They came to meet Jesus, waving palm branches before Him, and all Jerusalem was on a stir.
 
@@ -164,7 +161,6 @@ who had raised to life one who had been dead four days. They proceeded courteous
 37-41. But though He had done so many miracles before them, yet they believed not on Him; that the saying of Isaiah the Prophet might be fulfilled, which he spoke, Lord, who has believed our report? And to whom has the arm of the Lord been revealed? Therefore they could not believe, because that Isaiah said again, He has blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them. These things said Isaiah, when he saw His glory, and spoke of Him. Christ is in the Old Testament in many places where, as yet, even we have never seen Him. I doubt not that He lies hidden away in many a Psalm, and many a prophetic utterance that has not yet been fully expounded, or even comprehended by our finite minds. Oh, for eyes to see Him where He sits in His ancient state! What a solemn fact this is, though, that God allows men to be given over to blindness of eyes and hardness of heart! I sometimes fear that it is so with this age. Men will not see—they will not believe! They are desperately set on skepticism—it has become a fashion with them. Like a torrent, it sweeps through the very churches that bear the name of Christ! My fear is God, in His wrath, may give up our land to this curse, and then where will our hope be?
 
 42, 43. Nevertheless among the chief rulers, also, many believed on Him; but because of the Pharisees they did not confess Him, lest they should be put out of the synagogue: for they loved the praise of men more than the praise of God. I wonder whether in this throng there are any of this kind who believe in Christ, and yet never come out and confess Him because they love the praise of men more than the praise of God? If so, I venture to say that they are found among what are called the more respectable people, the men of light and leading, the chief rulers. Among the common people there is very little of this evil. They will generally confess what they believe and bravely come forward to declare that they belong to Christ! It is the chief rulers, the gentlemen of the Sanhedrim, who, if they believe in Christ in their hearts, do not confess Him, lest they should be put out of society, for they love the praise of men more than the praise of God.
-
 
 ---
 [[Sermon 2337 The Physician Pardons His Palsied Patient|← #2337]] · [[Volume 39 (1893)|Volume 39 (1893) Contents]] · [[Sermon 2339 Baptism Essential To Obedience|#2339 →]]

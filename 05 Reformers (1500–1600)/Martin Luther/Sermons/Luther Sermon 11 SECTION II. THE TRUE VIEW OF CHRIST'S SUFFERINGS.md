@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - martin-luther
 ---
-
 # 11. SECTION II. THE TRUE VIEW OF CHRIST'S SUFFERINGS.
-
-## SECTION II. THE TRUE VIEW OF CHRIST’S SUFFERINGS.
 
 4\. Fourthly, they meditate on the Passion of Christ aright, who so view Christ that they become terror-stricken in heart at the sight, and their conscience at once sinks in despair. This terror-stricken feeling should spring forth, so that you see the severe wrath and the unchangeable earnestness of God in regard to sin and sinners, in that he was unwilling that his only and dearly beloved Son should set sinners free unless he paid the costly ransom for them as is mentioned in Is 53:8: “For the transgression of my people was he stricken.” What happens to the sinner, when the dear child is thus stricken? An earnestness must be present that is inexpressible and unbearable, which a person so immeasurably great goes to meet, and suffers and dies for it; and if you reflect upon it real deeply, that God’s Son, the eternal wisdom of the Father, himself suffers, you will indeed be terror-stricken; and the more you reflect the deeper will be the impression.
 

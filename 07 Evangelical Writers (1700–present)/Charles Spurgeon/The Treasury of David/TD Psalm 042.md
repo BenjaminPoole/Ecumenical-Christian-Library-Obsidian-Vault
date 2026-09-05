@@ -9,7 +9,6 @@ tags:
   - spurgeon
   - treasury-of-david
 ---
-
 # Psalm 42
 
 *The Treasury of David* — Charles H. Spurgeon
@@ -226,8 +225,6 @@ Or, the cause, incentives, excellences, and privileges of spiritual thirst.
 
 **Verse 2.** *(last clause)*. Appearance before God here and hereafter. *Isaac Watts, D.D., Two Sermons.*
 
-**Verses 1-3.** The home sickness of the soul. What awakens it in the soul? To what is it directed, or does it point or tend? Wherewith can it be satisfied? By the bitter, but ofttimes wholesome food of tears. *J. P. Lange.*
-
 **Verse 3.** The believer's Lent, and its salt meats.
 
 1. What causes the sorrow? 2. What will remove it? 3. What benefit will come of it?
@@ -369,7 +366,6 @@ Comfort and Counsel for Dejected Souls. By JOHN DURANT. 8vo. 1651.
 The Soul's Conflict with Itself. By RICHARD SIBBES. (Numerous old editions). In Sibbes' Works, Nichol's Puritan Series, vol. I.
 
 Collection administered by Midwestern Baptist Theological Seminary. Hosted by WPEngine. For help and support, please email
-
 
 ---
 [[TD Psalm 041|← Psalm 41]] · [[The Treasury of David|Treasury of David Contents]] · [[TD Psalm 043|Psalm 43 →]]

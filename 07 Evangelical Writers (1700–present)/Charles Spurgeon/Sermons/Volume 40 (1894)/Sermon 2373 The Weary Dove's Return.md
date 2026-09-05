@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # The Weary Dove's Return
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2373
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "But the dove found no rest for the sole of her foot and she returned into the ark to him, for the waters were on the face of the whole earth. So he put out his hand and took her, and drew her into the ark to himself." Genesis 8:9.
 
@@ -142,7 +139,6 @@ Still, I think that Noah must have been very pleased when he felt the ark gratin
 21\. And the LORD said in His heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done. God always speaks comfortable words to those who bring an acceptable sacrifice. If you would hear the voice of a Divine promise, go to the atoning blood of Jesus. If you would know what perfect reconciliation means, hasten to the Altar where the great Sacrifice was presented.
 
 22\. While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. They never have ceased. We have had, this year, a long and dreary winter. It looked as if spring would never come. Only a few days ago the chestnuts were just beginning to turn green and then there came the little spikes. And now you can see them in full flower. How faithfully God fulfils His Covenant with the earth! How truly will He keep His Covenant with every believing sinner! Oh, trust in Him, for His promise will stand fast forever!
-
 
 ---
 [[Sermon 2372 A Page From a Royal Diary|← #2372]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2374 Blessed Discipline|#2374 →]]

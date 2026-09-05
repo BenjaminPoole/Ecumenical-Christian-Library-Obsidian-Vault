@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 51. Decade 4, Sermon 7
 
 I nave declared unto you, dearly beloved, that Christ
@@ -22,7 +21,7 @@ Christ Jesus is a king; therefore he is Lord of all, ruler christ and governor o
 
 [2 symbolis, Lat. ]
 
-[BULLINGER, IIL. | 18
+## [Bullinger, IIL. | 18
 
 1 Pet. ii.
 
@@ -35,8 +34,6 @@ Psal. ex.
 Isai. xlix.
 
 Isai. xvi.
-
-274 THE FOURTH DECADE. [SERM.
 
 strong and most cruel enemy of God’s people; whom when he had conquered he bound and spoiled. He delivered the elect out of the power of darkness, and set them into the liberty of the sons of God; that we might be his peculiar people, sanctified through the blood of our king, a purchased people, to serve him in righteousness and holiness. He is humble, loving, and gentle; which the history of the gospel also out of Zachary rehearseth of him, Matth. xxi. He watcheth for us, he defendeth and guardeth us, he enricheth us with all manner of good things, and furnisheth us against our enemies with spiritual armour, and giveth us abundantly power to resist and to overcome. He hath purged the temple of God, casting out the Canaanites!; he hath cancelled unrighteous laws, he hath delivered us from them; and now he ruleth and governeth us with the sceptre of his mouth, exceeding good and most just laws being proclaimed. For he is God and man; therefore he is the only monarch, the King of kings, and the Lord of lords: for he hath all the kings and rulers in the world subject unto him; some verily of their own accord, through faith, being obedient ; and other, though striving and rebelling against him, made subject by his power. And therefore saith the prophet David: “ Be wise, O ye kings, be learned, ye that are judges of the earth; serve the Lord with fear, and rejoice unto him with reverence. Kiss the Son, lest he be angry, and so ye perish from the right way?.” or in another place the same prophet saith: “The Lord said to my Lord, Sit thou on my right hand, until I make thine enemies thy footstool. The Lord will send forth the rod of his power out of Sion; be thou ruler even in the midst among thine enemies.” Esay also, bringing in the Lord speaking, saith: “I will lift up my hands unto the Gentiles, and set up my standard to the people*; and they shall bring thee their sons upon their shoulders: for kings shall be thy nursing fathers, and queens shall be thy nursing mothers.” Which thing ecclesiastical histories declare more largely. Of this king Christ the prophets prophesying said: “And in mercy shall the seat be prepared; and he
 
@@ -66,8 +63,6 @@ How Christ reigneth on earth in his kingdom.
 
 Rev. i.
 
-276 THE FOURTH DECADE. [SERM.
-
 of saints itself, the catholic church, I mean, and the power or administration of God reigning therein, that is, preserving, governing, and glorifying the same.
 
 And this kingdom of God is verily but only one; for there is but one God only, one king Christ only, one church, and life everlasting. But this one kingdom of God according to the dispensation of the same is considered two ways: first, according to the omnipotency of God; for he, since he is the highest and omnipotent, hath and executeth over all creatures, visible and invisible, most just rule and equal power, nill they or will they be obedient: secondly, according to his Spirit, whereby he reigneth in his elect. And so the kingdom of God is again two ways considered: for either it is earthly, and is called the kingdom of grace; or else it is heavenly, and is called the kingdom of glory.
@@ -79,8 +74,6 @@ The earthly kingdom of grace is not therefore called earthly, as though it were 
 Here nevertheless we expressly add, that kings can no otherwise serve their Lord and King than kings, that is, in doing those things which kings ought to do, namely, to execute judgment and justice. or albeit these be in the world, yet rule they not after the world, because they are now governed
 
 The bounds of Christ’s kingdom in earth.
-
-278 THE FOURTH DECADE. [SERM.
 
 by the Spirit of their King Christ, and direct all their doings to the prescript rules of God’s word, and in all things yield themselves to be guided by the Spirit of God: and so far surely their kingdom is not of this world. Of these things I have elsewhere cited much out of St Augustine according to the scripture. And our King Christ defendeth his church and his ministers sometime by the aid of princes; sometimes he preserveth and spreadeth abroad the same lying open to persecutions through infirmity and weakness: for it is pressed down, but not oppressed, or kept under still; Christ the mightiest prince always reigning and overcoming in those that be his.
 
@@ -106,8 +99,6 @@ Fphes. i.
 
 Ephes. v.
 
-280 THE FOURTH DECADE. [SERM.
-
 earth, which is both called the kingdom of grace and the church militant. God's king: Moreover the kingdom of God is called the kingdom of inheaven. heaven and of glory for that occasion, because those whom our Lord and king hath sanctified on earth, and guided with his Spirit, yea, and also justified, being delivered from the flesh and taken out of this world he glorifieth in heaven, and receiveth them into joy and into the fellowship both of himself and of all the saints. For the souls of the faithful, even as soon as they depart out of their bodies, are forthwith received into heaven, to reign with Christ the everlasting King, and for ever to rejoice with all the saints. But in the last judgment, wherewith we believe that the quick and dead shall be judged of Christ our king, the bodies of the saints shall be raised up, clarified!, coupled again to their souls; and how many soever have cleaved unto Christ their king from the beginning of the world shall live for ever and reign in glory together with Christ their king and prince. Of this kingdom of the saints the prophets and apostles have Rev.xxi & spoken much, and chiefly the apostle St John in his Revelation. Some have called this kingdom the church triumphant. The kingdom This kingdom of God, or of Christ, is an everlasting aiveverats kingdom: for as even to the world’s end the church shall be on earth, howsoever this world and the prince of the world do rage; so the faithful after judgment shall live and reign with Christ, happy for ever both in body and soul. att xvi For the Lord saith in the gospel: “The gates of hell shall not prevail against the church.” Also the last times shall be as the days of Noe were, wherein, though the wicked did far in number exceed the church of the faithful, yet Noe and his were saved in the ark, but the wicked were destroyed with the flood: in such sort surely shall iniquity by all means prevail in the end of the world; but in the meanwhile those that are elected into the kingdom of Christ shail be saved by Christ, whom they shall look for to be their judge, and shall see their Redeemer coming in the clouds of heaven. Dan. vii; Daniel also in his prophecy describeth the rising and falling of all kingdoms and of antichrist also, but attributeth no end to the kingdom of the saints or holy people, but wit-
 
 [1 See Vol. 1. pp. 172-176.]
@@ -127,8 +118,6 @@ Psal. ex.
 Heb. vii.
 
 Gen. xiy.
-
-282 THE FOURTH DECADE. [SERM.
 
 it were momentany and for a short time; for the world passeth away, and all worldly things perish. But all the elect of God are very strangers from this kingdom; yea, they are as it were sworn enemies of this kingdom. Neither can the prince of darkness by his power put away the partakers of the kingdom of Christ into his kingdom of iniquity. Truly, he goeth about this diligently, and with divers temptations vexeth the elect: but those overcome through him which in time past vanquished that false king and prince of thieves, and taught us that, despising this filthy prince and the world and the lusts of the world, giving our minds to innocency, we should yield ourselves to that good Spirit to be governed.
 
@@ -155,8 +144,6 @@ Christ sanctifieth.
 John vii.
 
 John xvii.
-
-284 THE FOURTH DECADE. [SERM.
 
 will speak even unto the end of the world, by the mouth or writings of the holy apostles and all teachers preaching the doctrine of the apostles. And this doctrine is sufficient for the eatholic church; for it comprehendeth all those things fully which pertain to the holy! and happy life. Christ our high priest maketh intercession for all the saints in his own temple. For he, being the only advocate and patron of all the faithful, prayeth to the Father for us on the right hand of God; for he ascended unto the right hand of God the Father, that he should always appear there in the presence of God, to follow all our suits” faithfully: of which thing I have spoken more at large in my last sermon’, where I entreated of invocation and intercession. The same our Lord only blesseth us. For he was made a malediction and curse for us, that we might be blessed in him, according to that notable and ancient prophecy: “In thy seed shall all the nations of the world be blessed.” Moreover Christ our Lord sacrificeth for us: for he offereth incense when he maketh supplication for us, and appeareth on the right hand of God. And he offereth a sacrifice for sins unto the living God, not a sacrifice of a beast, but himself, always an effectual sacrifice, to make satisfaction for all the sins of the people. Whereof since I have entreated abundantly in the treatise of ceremonies‘, here of purpose I am the briefer. Again, since our Lord Jesus Christ is the holy of holiest, doubtless he sanctifieth and consecrateth his catholic church, anointing it with the oil of the Holy Ghost, that we may be made both holy and priests to offer spiritual sacrifices to God. For we read that that holy ointment, poured on Aaron’s head, ran down to his beard, and even to the skirts of his clothing. For Christ, the high priest of his universal church, poureth his Spirit as well upon them that are very far off as upon them that are near at hand; for he crieth in the gospel: “If any man thirsteth, let him come unto me and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of water of life.’ And again: “ For their sakes sanctify I myself, that they also might be sanctified in the truth.”
 
@@ -204,8 +191,6 @@ Rev. i.
 
 1 Pet. ii.
 
-288 THE FOURTH DECADE. [SERM.
-
 daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people’s; for that did he once, when he offered up himself.” And again he saith: “ Christ is not entered into the holy places made with hands, which are the similitudes of the true sanctuary, but into heaven itself, to appear now in the sight of God for us: not that he should offer himself often, as the high priests! entered into the holy places every year in strange” (or with other) “blood; for then must he have often suffered since the foundation of the world: but now in the end of the world hath he appeared once, to put away sin by the sacrifice of himself. And as it is appointed unto men that they shall once die, and after that cometh the judgment; even so Christ, once offered to take away the sins of many, the second time shall be seen without sin of them which wait for him unto salvation.” And again the same Paul saith: “Every priest appeareth daily ministering, and oftentimes offereth one manner of offering, which can never take away sins: but this man, after he had offered one sacrifice for sins, sitteth for ever at the right hand of God, and from henceforth tarrieth till his enemies be made his footstool. For with one offering hath he made perfect,” or consecrated, ‘‘for ever them that are sanctified.” All these sayings hitherto are the apostle Paul’s. And I think that these testimonies are not to be made manifest and agreeable to our purpose by a larger interpretation; for they are all even without any exposition of ours most evident, and very aptly? agree to the matter which we have in hand. For they do plainly set forth and lay before our eyes to behold the whole priesthood of Christ, specially that which belongeth to the intercession and the only and everlasting sacrifice or satisfaction for sins. It belongeth also to the same priesthood to consecrate priests unto God all the faithful: not that we should offer for the satisfaction of sins, but that we should offer our prayers, thanksgivings, and ourselves, and the duties of godliness as it were every moment. For St John the apostle and evangelist saith: ‘ Jesus Christ, prince of the kings of the earth, loved us, and washed us from our sins in his own blood, and made us kings and priests unto God and his Father.” We may find the same sentence also in the epistle of St Peter.
 
 [1 pontifex, Lat.] [ἢ quam apertissime, Lat. ] , vu. | OF THE NAME OF A CHRISTIAN. 289
@@ -236,8 +221,6 @@ Rom. vi.
 
 Christians are priests.
 
-290 THE FOURTH DECADE. [SERM.
-
 dominion) over you.” And therefore when the prince of this world, yea, and the world itself, and the flesh, and sin, the wicked affection thereof, do what they can to draw us again out of freedom into bondage, we must (because we are kings) valiantly resist them, and, continuing in conflict, vanquish and overcome them by the virtue of Christ reigning in us. For St John the apostle saith: “All that is born of God overcometh the world; and this is the victory which hath overcome the world, even your faith.” Hitherto belongeth the doctrine of freedom and bondage, whereof I entreated in the former Decade!. By all these we gather, that the principal duty of Christians is always to stand in battle array, and to keep their place, to watch and endeavour by all force and means, lest at any time being overcome of their enemy Satan they be spoiled of their royal or kingly dignity, and be haled down into the bondage of hell. Truly, if we overcome in Christ and with Christ, we shall reign together with him; that is, we shall live with him and all the saints in glory for ever and ever. And thus are we kings in Christ; thus are we Christians.
 
 Again, because we are Christians, that is to say, anointed, surely we are priests also; and therefore, according to our priestly office, we teach, we admonish, we exhort, and comfort all our brethren, and all men that are committed to our charge. Where notwithstanding we do necessarily make a difference between the christian priesthood and the ecclesiastical ministery. All Christians truly, as well men as women, are priests, but we are not all ministers of the church: for we cannot all one with another preach publicly, administer the sacraments, and execute other duties of pastors, unless we be lawfully called and ordained thereunto. This our priesthood common to all is spiritual, and is occupied in common duties of godliness, not in public and lawful ministeries of the church. Whereupon one may and ought to instruct and admonish another privately, and while he so doth, he executeth a priestly office; as when the good-man of the house? instructeth his children at home in godliness; when the goodwife of the house teacheth and correcteth her daughters; to be short, when every one of us exhort every neighbour of ours to the desire and study of godliness. For the apostle
@@ -253,8 +236,6 @@ Heb. iii.
 Heb. xiii.
 
 The name of a Christian, at Antioch in Syria, Luke is witness: which yet let no man so most ancient understand, as if that name afore had been altogether unknown to all men. For now it is become most common; in time past it was the name only of most excellent and holy men, and of such as rather were so indeed than so accounted, though also by name they were in some manner so acknowledged. For Eusebius in his ecclesiastical history maketh mention, that the ancient fathers Adam, Seth, Noe, Abraham, and other like unto these, were all Christians; and therefore christian religion to be the very purest, perfectest, and the [3 See above, p. 224. ] 19—2 ts xi, 25. ]
-
-292 THE FOURTH DECADE. [SERM.
 
 ancientest. The words of Eusebius, if any require, are these : ‘“ The nation of the Hebrews is not new, but unto all men in antiquity famous, and known to all. Their books and writings do contain ancient fathers, of whom they make report before the flood, rare indeed and few in number, howbeit in godliness and righteousness and in all kind of virtues most excellent ; and after the flood, of other of the sons and nephews of Noe, as of Tharam and Abraham, of whom as their captain and progenitor the posterity of the Hebrews do boast. So that if any man shall say that all these from Abraham himself even to the first man, being beautified with the testimony of righteousness, through their works, though not in name, were Christians, truly he should not stray from the truth. Fora Christian signifieth a man which excelleth other in knowledge and doctrine of Christ, with moderation of mind, and righteousness and continency of life, and through fortitude of virtue and confession of godliness toward the one and only God of all creatures. And this name those ancient fathers did no less esteem than we do. Neither had they care of the corporal circumcision, as we also have not; neither of keeping the Sabbath-day, as we also have not; nor of abstaining from meats, nor other differences: which things afterwards Moses first of all ordained, and figuratively delivered them to be performed: as such things also even at this day pertain not to Christians. But they saw plainly the Christ or anointed of God: as also it is declared already before, that he both appeared unto Abraham, and gave answer unto Isaac and Israel, and spake to Moses, and after him to the prophets. Whereby thou shalt find that these godly men also obtained the name of Christ, according to that saying spoken of them, to wit, Touch not my Christs (or mine anointed), and do my prophets no harm. ‘Therefore it is manifest that this godly invention of those men who lived holily in the time of Abraham, which of late by the doctrine of Christ is preached to all nations, is the first, most ancient, and eldest of 411}. Thus much Eusebius.
 
@@ -278,8 +259,6 @@ Furthermore, if we behold ourselves in this looking-glass there are but few of a
 
 {4 or—Ghost, the translator's addition. ]
 
-294 THE FOURTH DECADE. [SERM.
-
 and the flesh beareth rule in us. The devil, the world, and the flesh have dominion over us; for in them we live, and them we do obey: whereupon, being estranged and let loose from all righteousness and holiness, we are become slaves, serving a most vile and filthy slavery. For we, not desiring to be delivered, do neither seck a redeemer; nor, being impatient of their tyranny, rise and rebel against them: but like fainthearted cowards, we yield ourselves to be brought in subjection, and to be kept under their tyranny: nay, it repenteth and irketh us of our labours, watchings, prayers, and of all duties of godliness; and, being careless, we lie lurking as in a place of voluptuousness. But who would vouchsafe such swine the most holy name of a Christian, but he that is both exceeding foolish and wicked ? No marvel then if such be thrust down into hell, there eternally to burn, and there eternally to be yoked unto him whom!’ they have most wickedly chosen to themselves to follow. And now what one of us is there that doth teach, admonish, and exhort those that boast and brag of this christian name? I speak nothing here concerning the doctors or teachers of the church ; but my talk doth touch the office and duty of a christian man. Truly, the most part of us are slow in instructing our families and fellow-brethren : for either it grieveth us to take the pain, or else we fear danger. Therefore we turn the office of admonishing and instructing upon the public ministers of the church, as though nothing at all of this matter were required of us. For this cause speeches in a manner unseemly to be spoke are heard uttered of men: “I have not the office of a minister, I am no (pfaf’) priest; why therefore should I instruct ? why should I admonish ?” And these care not how blasphemous and filthy things be spoken either at home or abroad; for they live to themselves, and think that the glory of God and the soul’s health of their neighbour belongeth nothing unto them. But what sacrifices offer we worthy of God and our name? where are prayers and thanksgivings? where is the mortification of our flesh, and the denying of this world ? where is compassion, or well-doing? where is an holy and harmless life? The contrary (if need so required) I could reckon up in a long bead-row: but to what end were it to make a large discourse of those things that are manifest unto all men? For who, [1 hic, Lat. omitted ; here.] vit. | OF THE NAME OF A CHRISTIAN. 295
 
 I pray you, doth deny, that the life of this present age (of men, I mean, which brag and boast of their christian name) is filthy, stinking, and pestilent? Which things since they be too too true and evident, I have nothing done amiss in saying a little before, that at this day there are few Christians. They that are wise and desire to be according to their name, let them hear our Saviour speaking in the gospel of Matthew :
@@ -302,15 +281,13 @@ Against false Christians.
 
 The conclusion,
 
-296 THE FOURTH DECADE. [SERM.
-
 things, but to very stinking and loathsome things. Christians put all their trust in God, to whom they offer all their vows and prayers by Jesus Christ, whom they believe to be the only high priest and most faithful patron and advocate of all that believe: they’ make their prayers to creatures and men’s imaginations, and choose to themselves so many patrons and intercessors as there do live saints in heaven. Christians know that the sacrifice of Christ once offered is always effectual to make satisfaction for all the sins of all men in the whole world, and of all men of all ages: but these men with often outcries say, that it is flat heresy not to confess that Christ is daily offered of sacrificing priests, consecrated to that purpose. Therefore the name of a Christian is common to all, but the thing signified and meant by the name is common to the faithful only who cleave unto one Christ.
 
 Now I conclude my whole discourse of Christ, a king and a priest, with these words of St Augustine: “ The Son of God, which made us, is made among us; and being our king ruleth us: and therefore we are Christians, because he is Christ. He is called Christ a Chrismate, that is to say, of anointing. Kings also and priests were anointed, and he was anointed king and priest. Being a king, he fought for us: being a priest, he offered himself for us. When he fought for us, he was as it were overcome, yet by right he hath overcome in very deed: for he was crucified, and on his cross whereon he was nailed he slew the devil, and then he was our king. But wherefore is he a priest? Because he hath offered himself for us. Let a priest have somewhat to offer. What could man find to give? A clean sacrifice? what sacrifice? what clean thing can a sinner offer? O wicked sinner! O ungodly wretch! whatsoever thou shalt bring, it is unclean. Seek within thyself what to offer, thou shalt find nothing. Seek out of thyself what to offer, he is not delighted in rams or goats or bullocks; they are all his, though thou offer them not. He found nothing clean among men, which he might offer for men; therefore he offered himself a clean offering, an undefiled sacrifice. Therefore he did not offer that which we gave unto him, but that which he took of us; and that he offered pure and clean. He took flesh in the womb of the virgin, that he might offer pure and clean flesh for us that were unclean. He
 
 [1 Isti, Lat.; these.] vit. | OF THE NAME OF A CHRISTIAN. 297 is a king, he is a priest. In him let us rejoice” To him be glory for ever and ever. Amen.
 
-OF THE HOLY GHOST, THE THIRD PERSON IN TRINITY TO BE WORSHIPPED, AND OF HIS DIVINE POWER.
+## Of the Holy Ghost, the Third Person in Trinity to Be Worshipped, and of His Divine Power
 
 ---
 [[Bullinger Dec 50 Decade 4, Sermon 6|← 50. Decade 4, Sermon 6]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 52 Decade 4, Sermon 8|52. Decade 4, Sermon 8 →]]

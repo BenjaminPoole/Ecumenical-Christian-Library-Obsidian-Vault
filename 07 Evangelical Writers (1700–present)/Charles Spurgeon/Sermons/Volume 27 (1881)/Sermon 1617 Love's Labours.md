@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/27
 ---
-
 # Love's Labours
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1617
@@ -99,8 +98,7 @@ Next to this, *love has four sweet companions*. There are with her tenderness th
 
 PORTION OF SCRIPTURE READ BEFORE SERMON’1 Corinthians 13.
 
-HYMNS FROM ‘OUR OWN HYMN BOOK’’797, 264, 439.
-
+## Hymns from ‘Our Own Hymn Book’’797, 264, 439
 
 ---
 [[Sermon 1616 Saved In Hope|← #1616]] · [[Volume 27 (1881)|Volume 27 (1881) Contents]] · [[Sermon 1618 Holiness, The Law of God's House|#1618 →]]

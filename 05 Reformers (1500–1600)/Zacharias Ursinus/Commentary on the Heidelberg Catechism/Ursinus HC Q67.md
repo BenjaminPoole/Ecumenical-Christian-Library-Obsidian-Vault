@@ -11,14 +11,11 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 67. Are both word and sacraments then ordained and appointed for this end, that they may direct our faith to the sacrifice of Jesus Christ, on the cross, as the only ground for our salvation?
-
-**Question 67. Are both word and sacraments then ordained and appointed for this end, that they may direct our faith to the sacrifice of Jesus Christ, on the cross, as the only ground for our salvation?**
 
 Answer. Yes, indeed; for the Holy Ghost teaches us, in the gospel, and assures us by the sacraments, that the whole of our salvation depends upon that one sacrifice of Christ, which he offered for us on the cross.
 
-**EXPOSITION**
+## **Exposition**
 
 The sacraments have certain things in common with the word, and certain things, again which are different from the word. They agree in the following particulars:
 

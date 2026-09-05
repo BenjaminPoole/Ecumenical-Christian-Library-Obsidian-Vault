@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 1. Front Matter: Title Pages and Advertisement
 
 This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project to make the world's books discoverable online.
@@ -37,33 +36,31 @@ Google's mission is to organize the world's information and to make it universal
 
 TRACTS AND TREATISES or
 
-JOHN DE WYCLIFFE, D.D.
+## John De Wycliffe, D.d
 
-BSTABLISHED MDCCCXLIV.
+## Bstablished MDCCCXLIV
 
 A SERIES OF THE MORE SCARCE AND VALUABLE THACTS .ND THEATtSZS OF THE EARLIER REFORUBRS, PURITANS, AND NONCONPnRUEBTS OF GREAT BRITAIN.
 
-TRACTS AND TREATISES
+## Tracts and Treatises
 
-JOHN DE WYCLIFFE, D.D
+## John De Wycliffe, D.d
 
-SELECTIONS AND TRANSLATIONS
+## Selections and Translations
 
-FROM HIS MANUSCRIPTS, AND LATIN WORKS.
+## From His Manuscripts, and Latin Works
 
-BDITKD FOR
+## Bditkd For
 
-WITH AN INTRODUCTORY MEMOIR,
-
-THE REV. ROBERT VAUGHAN, D.D.,
+## The Rev. Robert Vaughan, D.d.
 
 PRBIIDKMT OP TRS LAKCASRlllE IWDEPBVDBXT COLLEGE, If AWCHERTER.
 
 PmXMTSB pom THE lOCIETT BT
 
-BLACKBURN AND PARDON, HATTON GARDEN.
+## Blackburn and Pardon, Hatton Garden
 
-ADVERTISEMENT.
+## Advertisement
 
 When it deyolved on the Committee of the WydifPe Society to decide on the subject of its first volume, they concluded that in effect that question was detennined for than already by the illustrious name which the Society had adopted, and that they must commence the series with "The Tracts and Treatises of 3(3im de Wycliffe."
 
@@ -79,7 +76,7 @@ Bespecting the second part. Dr. Vaughan has thus written : ** In the extracts pr
 
 " The catalogue of the Beformer s writings, in the next section, has been revised with much care, and will be found less imperfect than any one previously published. I speak of this catalogue as being only less imperfect than those which have preceded it, because no man acquainted with the subject can expect to see a perfect account of the writings of Wycliffe, distinguishing satisfeotorily between the extant and the non-extant, and between the works certainly written by the Beformer, and those attributed to him on probable evidence only. In this connexion, the obscure and uncertain may be diminished, but can never be wholly removed. In the hope of giving more completeness to this section, I have re-examined many of the Wycliffe manuscripts within the last year.
 
-ADVERTISEMENT. IX
+## Advertisement. IX
 
 " There are two editions of the Trialogas : one printed without the name of the place or of the printer, in 1525; the other printed at Frankfort, in 1753. The latter is a reprint from the former. In both, the errors of punctuation and typography are frequenty and the man who shall attempt any extended translation of the contents of that work, will be the least disposed to pass a hasty censure on this portion of my labour. That I have succeeded in giving the precise meaning of the author, in every instance, especially in the scholastic and metaphysical portions of his argument, is more than I dare promise myself; but I am satisfied that the reader may confide in the general accuracy of the translation, and that, judging of the doctrine taught in the Trialogus, from the chapters given in the volume, he will be safe from all material error. Some chapters and parts of chapters even in this fourth book have been omitted, but the translations are complete on the subjects to which they relate."
 
@@ -91,15 +88,9 @@ Nearly five centuries have passed away since WycUffe flou-
 
 Xii CONTENTS.
 
-SECTION II.
+## Section II
 
-ON THE REMAINING WRITINGS OP WYCLIPFE STILL IN MANUSCRIPT, AND INCLUDING SUCH WORKS AS ARE KNOWN ONLY BY THEIR TITLES.
-
-Book II. — ^Wycliffe's Latin Treatise, Trialogus.
-
-SECTION I. being some ACCOUNT OF THE FIRST, SECOND, AND THIRD BOOKS OF THE trialogus.
-
-section ii.
+## On the Remaining Writings Op Wyclipfe Still in Manuscript, and Including Such Works as Are Known Only by Their Titles
 
 chapters translated from the fourth book of the trialogus relating to the doctrines of the sacraments, the hierarchy, and the religious
 
@@ -163,7 +154,7 @@ XXIX. Ofthe fraud and malice of the Friars 210
 
 XXX. Whether Temporal Lords may and should assist and defend their people against Friars 213
 
-TRACTATES REPRINTED FROM FORMER EDITIONS.
+## Tractates Reprinted from Former Editions
 
 I. — A Treatise of John Wycliffe against Orders of Friars. 217
 

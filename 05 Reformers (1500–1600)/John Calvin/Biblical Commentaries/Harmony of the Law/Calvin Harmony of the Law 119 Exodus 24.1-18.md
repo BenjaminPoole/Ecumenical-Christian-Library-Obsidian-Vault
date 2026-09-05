@@ -11,10 +11,7 @@ written: "1563"
 tags:
   - calvin-commentaries
 ---
-
 # 119. Exodus 24:1-18
-
-**Exodus 24**
 
 **1.** And he said unto Moses, Come up unto the Lord, thou, and Aaron, Nadab and Abihu, and seventy of the elders of Israel; and worship ye afar off.
 

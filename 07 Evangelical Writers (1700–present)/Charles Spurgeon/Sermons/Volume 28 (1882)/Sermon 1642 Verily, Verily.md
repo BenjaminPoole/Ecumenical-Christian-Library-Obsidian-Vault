@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/28
 ---
-
 # "Verily, Verily"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1642
 
-DELIVERED ON LORD'S-DAY MORNING, JANUARY 29, 1882,.
+*Delivered on Lord's-Day Morning, January 29, 1882*
 
 > "Verily, verily, I say unto you, he that hears My Word, and believes on Him that sent Me, has everlasting life, and shall not come into condemnation but is passed from death unto life." John 5:24.
 
@@ -136,7 +135,6 @@ It is a pretty thing which is told of the father of Mr. Newman Hall and the auth
 Dear Hearers, do you really know this Truth of God in your own souls? Have you believed in Jesus, or have you not? Are any of you trying to establish a righteousness of yours own? Are you laboring as in the very fire to get peace where you will never find it? Oh, come away from your ceremonies and your sacraments! Come away from your feelings! Come away, even, from your prayers and your almsgiving! Come away from everything upon which you rely and believe in Jesus, the appointed Savior! Come away, even, from your own faith, for you must not rely upon it! Come and trust only in Jesus, who, being very God of very God, made Himself of no reputation and took upon Himself the form of a Servant and in that Servant form bled, even, to the death in the sinner's place, that whoever will trust Him may be justified in the sight of God!
 
 Rest there, one and all of you. Oh may God help you at this very moment to do so and then we will meet in Heaven, all of us! If there is no exception to the believing, there shall be no exception in the salvation, for, "He that believes in Him has everlasting life."
-
 
 ---
 [[Sermon 1641 Great Spoil|← #1641]] · [[Volume 28 (1882)|Volume 28 (1882) Contents]] · [[Sermon 1643 Our Lord's Trial before the Sanhedrin|#1643 →]]

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 8. Book III. Of the Presence of Christ, Part 4
 
 And it is untrue that you here say, that “the proper and special name of a figure diminisheth the truth of the mystery.” For then Christ in vain did ordain the figures, if they diminish the mysteries.
@@ -23,7 +22,7 @@ August, de verbis Domini, Serm. 33, oe Io, Tract.
 
 Chap. x1. This is my ay thee this is
 
-118 THE THIRD BOOK.
+## 118 the Third Book
 
 shed his blood for us, and so to be partakers of his passion. This,” saith St Augustine, “is to eat his flesh and to drink his blood.”
 
@@ -41,11 +40,11 @@ be. figurative byt as all sacraments be figures of other things, and ye have the
 
 [! By that rule, 1551.] {? You will understand, 1551. |
 
-OF THE PRESENCE OF CHRIST.
+## Of the Presence of Christ
 
 of the things which they do signify; so Christ instituting the sacrament of his most precious body and blood, did use figurative speeches, calling the The bread | bread by the name of his body, and the wine he called his blood, because irs's tody it represented his blood. | his blood. Tertullian herein writing against Marcion®, saith these words: “Christ did Tertullianus not reprove bread, whereby he did represent his very body.” And in the {74™ same book he saith, that Jesus “taking bread and distributing it amongst his disciples made it his body, saying, ‘This is my body;’ that is to say,” saith Tertullian, “a figure of my body.” And therefore, saith Tertullian, “that Christ called bread his body, and wine his blood,” because that in the old testament bread and wine were figures of his body and blood.
 
-WINCHESTER.
+## Winchester
 
 Tertullian speaking of the representation of Christ's very body, in which place he termeth Tertullianus. “the same body,” speaketh catholicly in such phrase as St Jerome speaketh: and then Ter-ai'tett out. tullian saith afterward, as this author therein truly bringeth him forth, that Christ made “%°*™e" the bread his body, which bread was in the mouth of the prophet a figure of his body. Wherefore it followeth by Tertullian’s confession, when Christ made the bread his body, that Christ ended the figure, and made it the truth, making now his body that was before the figure of his body. For if Christ did no more but make it a figure still, then did he not make it his body, as Tertullian himself saith he did. And Tertullian therefore, being read thus, as appeareth to me most probable, that “that is to say” in Tertullian should be only referred to the explication of the first “this;” as when Tertullian had alleged Christ's words, saying “this is my body,” and putteth to of his own, “ that is to say, the figure of my body,” these words, “that is to say,” should serve to declare the demonstration “this” in this wise,
 
@@ -53,9 +52,9 @@ Tertullian speaking of the representation of Christ's very body, in which place 
 
 [® Sed ille quidem usque nunc nec aquam reprobavit—nec panem, quo ipsum corpus suum repreSentat. Tertullianus, Adversus Marcionem. Lib. i. p. 372. Acceptum panem et distributum discipulis, corpus illum suum fecit, ‘Hoc est corpus meum’ dicendo, id est, figura corporis mei. Figura autem non fuisset, nisi veritatis esset corpus. Ceterum vacua res, quod est phantasma, figuram capere non posset. Aut si propterea panem corpus sibi finxit, quia corporis carebat veritate: ergo panem debuit tradere pro nobis. Faciebat ad unitatem Marcionis, ut panis crucifigeretur. Cur autem panem corpus suum appellat, et non magis peponem, quem Marcion cordis loco habuit? Non intelligens veterem fuisse istam figuram corporis Christi, dicentis per Hieremiam, “adversus me cogitaverunt cogitatum dicentes, V enite, conjiciamus lignum in panem ejus;” scilicet crucem in corpus ejus. Itaque illuminater antiquitatum quid tunc voluerit significasse panem satis declaravit, corpus suum vocans panem. Ibid. Lib. iv. pp. 457, 8. Paris. 1664.] [* he made it now his very body, 1551.]
 
-120 . THE THIRD BOOK.
+## 120 . The Third Book
 
-CANTERBURY.
+## Canterbury
 
 Tertullian, Oh what a wrangling and wresting is here made! what crooks be cast! what ay figure” leaping about is here, to avoid a foil! And yet I refer to any indifferent man that shall read the place of Tertullian, to judge whether you have truly expounded him, or in the wrestling with him be quite overthrown, and have a flat fall upon your back. For Tertullian saith not, that the bread was a figure of Christ's body only in the prophet, as you expound Tertullian, but saith, “that bread and wine were figures in the old testament, and so taken in the prophets, and now be figures again in the new testament, and so used of Christ himself in his last supper.”
 
@@ -91,7 +90,7 @@ _ [? He termeth it not an only figure, 1551.]
 
 . [® Videmus in aqua populum intelligi, in vino vero ostendi sanguinem Christi. Quando autem in calice vino aqua miscetur, Christo populus adunatur, et credentium plebs ei, in quem credidit, copulatur et conjungitur, —Cyprian. Epist. Ixiii. Cecilio fratri. (Lib, rr. Epist. iii.) p. 146. Par. 1574.]
 
-[* Dedit itaque Dominus noster in mensa, in qua ultimum cum Apostolis participavit convivium, pro- priis manibus panem et vinum : in cruce vero manibus militum corpus tradidit vulnerandum; ut in Apostolis secretius impressa sincera veritas, et vera sinceritas, exponeret gentibus, quomodo vinum et panis caro esset et sanguis, et quibus rationibus cause effectibus convenirent, et diversa nomina vel species ad unam reducerentur essentiam, et significantia et significata eisdem vocabulis censerentur. Cyprian. De unctione Chrismatis, p. 477. This
+[* Dedit itaque Dominus noster in mensa, in qua ultimum cum Apostolis participavit convivium, propriis manibus panem et vinum : in cruce vero manibus militum corpus tradidit vulnerandum; ut in Apostolis secretius impressa sincera veritas, et vera sinceritas, exponeret gentibus, quomodo vinum et panis caro esset et sanguis, et quibus rationibus cause effectibus convenirent, et diversa nomina vel species ad unam reducerentur essentiam, et significantia et significata eisdem vocabulis censerentur. Cyprian. De unctione Chrismatis, p. 477. This
 
 Have you so forgotten your logic, that you will make a good —
 
@@ -111,7 +110,7 @@ Ut nullus orror cruoris sit : et pretium tamen operetur redemptionis. Emb. Ed. 1
 
 ' species nominatur,
 
-122 THE THIRD BOOK.
+## 122 the Third Book
 
 Here it is certain, by St Cyprian’s mind, wherefore and in what wise bread is called Christ’s flesh, and wine his blood; that is to say, because that every thing that representeth and signifieth another thing, may be called by the name of the thing which it signifieth.
 
@@ -163,7 +162,7 @@ St Jerome speaketh here very pithily, using the word “represent,” which sign
 
 St Ambrose shall after declare himself: and it is not denied, but the authors in speaking of Ambrosius. the sacrament used these words, “sign,” “ e,” “similitude,” “token ;” but those speeches ex- *No author clude not the verity and truth of the body and blood of Christ, for no approved author hath figure loon this exclusion®, to say an only sign, an only token, an only similitude, or an only signification, which is the issue with this author,
 
-4 CANTERBURY.
+## 4 Canterbury
 
 Here you shift off St Cyprian and Chrysostom with fair promise to make answer Hieronymus. to them hereafter, who approve plainly my saying, that the bread representeth Christ's body, and the wine his blood; and so you answer here only to St Jerome. In answering to whom you were loth, I see well, to leave behind any thing that might have any colour to make for you, that expound this word “represent” in St Jerome to signify Represent. real exhibition. Here appeareth that ye can, when you list, change the signification of words, that can make vocare to signify facere, and facere to signify sacrificare, as you do in your last book. And why should you not then in other words (when it will serve for like purposes) have the like liberty to change the signification of words when you list? And if this word “represent” in St Jerome’s words signify real exhibition, then did Melchisedech really exhibit Christ’s flesh and blood, who, as the same St Jerome saith, did represent his flesh and blood by offering bread and wine.
 
@@ -185,7 +184,7 @@ And yet St Augustine sheweth this matter more clearly and fully than any angusti
 
 saith: “That a day or two before Good Friday, we use in common speech to say thus, ‘To-morrow, or this day two days, Christ suffered his passion ;’ where in very deed he never suffered his passion but once, and that was many years past. Likewise upon LEaster-day we say, ‘This day Christ rose from death;’ where in very deed it is many hundred years sithens he rose from death. Why then do not men reprove us as liars, when we speak in this sort, but because we call these days so, by a similitude of those days wherein these things were done in deed? And so it is called that day, which is not that day in deed, but by the course of the year it is a like day. And such things be said to be done that day for the solemn celebration of the sacrament, which things in deed were not done that day, but long before. Was Christ offered any more but once? And he offered himself: and yet in a sacrament or representation, not only every solemn feast of Easter, but every day he is offered to the people; so that he doth not lie that saith, ‘He is every day offered.’ For if sacraments had not some similitude or likeness of those things whereof they be sacraments, they could in no wise be sacraments. And for their similitude and likeness, commonly they have the name of the things, whereof they be sacraments. Therefore, as after a certain manner of speech the sacrament of Christ’s body is Christ’s body, the sacrament of Christ’s blood is. Christ’s blood; so likewise the sacrament of faith is faith. And to believe is nothing else but to have faith; and therefore when we answer for young children in their baptism, that they believe, which have not yet the mind to believe, we answer that they have faith, because they have the sacrament of faith, And we say also that they turn unto God, because of the sacrament of conversion unto God; for that answer pertaineth to the celebration of the sacrament. And likewise speaketh the apostle of baptism, saying, that ‘by baptism we be buried with him into death:’ he saith not that we signify burial, but he saith plainly, that we be buried. So that the sacrament of so great a thing is not called but by the name of the thing itself!.” Hitherto I have rehearsed the answer of St Augustine unto Boniface, a learned bishop, who asked of him, how the parents and friends could answer for a young babe in baptism, and say in his person that he believeth and converteth unto God, when the child can neither do nor think any such things. Whereunto the answer of St Augustine is this: that. forasmuch as baptism is the sacrament of the profession of our faith, and of our conversion unto
 
-[? Nempe sepe ita loquimur, ut pascha propinquante dicamus, crastinam vel perendinam Domini passionem, cum ille ante tam multos annos passus sit, nec omnino nisi semel illa passio facta sit. Nempe ipso die Dominico dicimus, ‘ Hodie Dominus resurrexit,’ cum ex quo resurrexit tot anni transierunt. Cur nemo tam ineptus est, ut nos ita loquentes arguat esse mentitos, nisi quia istos dies secundum illorum quibus hec gesta sunt similitudinem nuncupamus, ut dicatur ipse dies qui non est ipse, sed revolutione temporis similis ejus; et dicatur illo die fieri, propter sacramenti celebrationem, quod non illo die, sed jam olim factum est? Nonne semel immolatus est Christus in se ' ipso? et tamen in sacramento non solum per omnes pasche solemnitates, sed omni die populis immolatur, nec utique mentitur qui interrogatus eum responderit immolari. Si enim sacramenta quan- dam similitudinem earum rerum quarum sacra- | menta sunt non haberent, omnino sacramenta non - essent. Ex hac autem similitudine plerumque etiam ipsarum rerum nomina accipiunt. Sicut ergo secundum quendam modum sacramentum corporis Christi corpus Christi est, sacramentum sanguinis Christi sanguis Christi est, ita sacramentum fidei fides est. Nihil est autem aliud credere quam fidem habere. Ac per hoc cum respondetur parvulus credere, qui fidei nondum habet affectum, respondetur fidem habere propter fidei sacramentum, et convertere se ad Deum propter conversionis sacramentum, quia et ipsa responsio ad celebrationem pertinet sacramenti. Sicut de ipso baptismo Apostolus, ‘Consepulti,’ inquit, ‘sumus Christo per baptismum in mortem,’ Non ait, sepulturam significavimus : sed prorsus ait, ‘ Consepulti sumus.’ Sacramentum ergo tante rei non nisi ejusdem rei vocabulo nuncupavit. Augustin. ad Bonifacium de Bapt. parvul. Epist. xxiii. Tom. II. p. 36. Paris. 1637. ] oe
+[? Nempe sepe ita loquimur, ut pascha propinquante dicamus, crastinam vel perendinam Domini passionem, cum ille ante tam multos annos passus sit, nec omnino nisi semel illa passio facta sit. Nempe ipso die Dominico dicimus, ‘ Hodie Dominus resurrexit,’ cum ex quo resurrexit tot anni transierunt. Cur nemo tam ineptus est, ut nos ita loquentes arguat esse mentitos, nisi quia istos dies secundum illorum quibus hec gesta sunt similitudinem nuncupamus, ut dicatur ipse dies qui non est ipse, sed revolutione temporis similis ejus; et dicatur illo die fieri, propter sacramenti celebrationem, quod non illo die, sed jam olim factum est? Nonne semel immolatus est Christus in se ' ipso? et tamen in sacramento non solum per omnes pasche solemnitates, sed omni die populis immolatur, nec utique mentitur qui interrogatus eum responderit immolari. Si enim sacramenta quandam similitudinem earum rerum quarum sacra- | menta sunt non haberent, omnino sacramenta non - essent. Ex hac autem similitudine plerumque etiam ipsarum rerum nomina accipiunt. Sicut ergo secundum quendam modum sacramentum corporis Christi corpus Christi est, sacramentum sanguinis Christi sanguis Christi est, ita sacramentum fidei fides est. Nihil est autem aliud credere quam fidem habere. Ac per hoc cum respondetur parvulus credere, qui fidei nondum habet affectum, respondetur fidem habere propter fidei sacramentum, et convertere se ad Deum propter conversionis sacramentum, quia et ipsa responsio ad celebrationem pertinet sacramenti. Sicut de ipso baptismo Apostolus, ‘Consepulti,’ inquit, ‘sumus Christo per baptismum in mortem,’ Non ait, sepulturam significavimus : sed prorsus ait, ‘ Consepulti sumus.’ Sacramentum ergo tante rei non nisi ejusdem rei vocabulo nuncupavit. Augustin. ad Bonifacium de Bapt. parvul. Epist. xxiii. Tom. II. p. 36. Paris. 1637. ] oe
 
 God, it becometh us so to answer for young children coming thereunto, as to the? sacrament appertainet, although the children in deed have no anion of such things. |
 
@@ -207,7 +206,7 @@ Possum etiam interpretari preceptum illud in signo esse positum. Non enim Dominu
 
 The*position of these quotations is reversed by Cranmer. |
 
-126 THE THIRD BOOK.
+## 126 the Third Book
 
 words which Christ spake at his last supper, “This is my body.” Which de-
 
@@ -251,7 +250,7 @@ Matt. XXVi. Mark xiv. Luke xxii.
 
 John xii. Matt. xxvi. John xv.
 
-(OrtH. Por- ro si sunt vera, corpus contrary he calleth bread his body. And likewise his blood sometime he calleth wine, and sometime contrary he calleth wine his blood.
+(OrtH. Por-ro si sunt vera, corpus contrary he calleth bread his body. And likewise his blood sometime he calleth wine, and sometime contrary he calleth wine his blood.
 
 For the more plain understanding whereof it shall not be amiss to recite his own sayings in his foresaid dialogues, touching this matter of the holy sacrament of Christ’s flesh and blood. The speakers in these dialogues be Orthodoxus, the right believer, and Eranistes, his companion, but not understanding the right faith.
 
@@ -341,7 +340,7 @@ Ortu. If therefore the godly sacraments represent a true body, then is the Lord�
 
 [Jesus enim Christus heri et hodie ille ipse, et in zeternum. Embd. Ed.
 
-130 THE THIRD BOOK.
+## 130 the Third Book
 
 Eran. It cometh in good time that thou makest mention of God’s sacraments; for by the same I shall prove that Christ’s body is turned into another nature. Answer therefore unto my questions.
 
@@ -395,7 +394,7 @@ The fourth, it is in these sacraments of bread and wine, as it is in the very bo
 
 Theodoretus.
 
-132 THE THIRD BOOK.
+## 132 the Third Book
 
 the papists, which make and unmake new articles of our faith from time to time at their pleasure, without any scripture at all, yea, quite and clean contrary to scripture. And yet will they have all men bound to believe whatsoever they invent, upon peril of damnation and everlasting fire. And yet will they constrain’ with fire and fagot all men to consent (contrary to the manifest words of God) to these their errors in this matter of the holy sacrament of Christ’s body and blood:
 
@@ -409,7 +408,7 @@ Fourthly, that priests offer Christ every day, and make of him a new sacrifice p
 
 Thus for shortness of time I do make an end of Theodoretus, with other old ancient writers, which do most clearly affirm that to eat Christ’s body and to drink his blood be figurative speeches. And so be these sentences likewise which Christ spake at his supper: “This is my body;” “this is my blood.”
 
-WINCHESTER.
+## Winchester
 
 The author bringeth in Theodoret, a Greek, whom to discuss particularly were long and tedious: one notable place there is in him which toucheth the point of the matter, which place Peter Martyr allegeth in Greek, and then translateth it into Latin, not exactly as other have done to the truth; but as he hath done, I will write here2. And then will I write the same, translated into English by one that hath translated Peter Martyr’s book; and then will I add the translation of this author, and finally, the very truth of the Latin, as I will abide by, and join an issue with this author in it, whereby thou, reader, shalt perceive with what sincerity things be handled.
 
@@ -419,7 +418,7 @@ Peter Martyr hath of Theodoret this in Latin, which the same Theodoret, in a dis
 
 [* And they would constrain, 1551, and Orig. ed. ] | [3 Ever, 1551. Orig. ed. Winch. reads with ed. [? I will write in here, 1551.] 1580. ] ee oe mean not to vary from the other translations touching the remain of substance, shape, form, or figure: I will use all those names. But in the second part, where Theodoret speaketh of our belief what the tokens be made, and where he saith those tokens be worshipped, as being the same things which be believed, thou mayest see, reader, how this author flieth the words “believe” and “worship,” which the common translation in English doth plainly and truly express, howsoever the translator swerved by colowr of the word tanquam, which there, after the Greek, signifieth the truth, and not the similitude only; like as St Paul, Vocat ea que non sunt, tanquam sint, which is to make to be in deed, not as though they were. And the Greek is there as dvra, as it is here domep éxeiva dvra®, And it were an absurdity to believe things otherwise than they be, as though they were, and very idolatry to worship wittingly® that is not, as though it were in deed. And therefore in these two words, that they believed’ that they be made and be worshipped, is declared by Theodoret his faith of the very true real presence of Christ's glorious flesh, whereunto the Deity is united, which flesh St Augustine, consonantly to this Theodoret, said must be worshipped before it be received. The word “worshipping” put here in English is to express the word adorantur, put by Peter in Latin, signifying adoring, being the verb in Greek of such signification, as is used to express godly worship with bowing of the knee. Now, reader, what should I say by this author, that conveyeth these two words of believing and worshipping, and instead of them cometh in with reverence, taking, reputing, and esteeming? whereof thow mayest esteem how this place of Theodoret pinched this author, who could 184. not but see that adoring of the sacrament signifieth the presence of the body of Christ to be adored, which else were an absurdity; and therefore the author took pain to ease it with other words of calling, believing, reputing, and esteeming, and for adoration, reverence. Consider what praise this author giveth Theodoret, which praise condemneth this author sore. ‘For Theodoret, in his doctrine, would have us believe the mystery, and adore the sacrament, * Adoration where this author after in his doctrine professeth there is nothing to be worshipped at all. trent. If one should now say to me, “ Yea, sir, but this Theodoret seemeth to condemn transubstantiation, because he speaketh so of the bread: thereunto shall be answered when I speak of transubstantiation, which shall be after the third and fourth book discussed’. For before the truth of the presence of the substance of Christ's body may appear, what should we talk of transubstantiation? I will travail no more in Theodoret, but leave it to thy judgment, reader, what credit this author ought to have, that handleth the matter after this sort.
 
-CANTERBURY.
+## Canterbury
 
 This bladder is so puffed up with wind, that it is marvel it brasteth not. But be patient awhile, good reader, and suffer until the blast of wind be past, and thou shalt see a great calm, the bladder broken, and nothing in it but all vanity.
 
@@ -431,7 +430,7 @@ Rev. xiii. Psal. Ixxxiii. 2 Pet. iii. August. de
 
 Doct, Christ. pa. ili. cap.
 
-134 THE THIRD BOOK.
+## 134 the Third Book
 
 Paul saith, “as though they were ;’ which indeed were not, as he said the next word before, non sunt, “they be not.” And nevertheless unto God all things be present ; and those things which in their nature be not yet present, unto God were ever present, in whom be not these successions of time, before and after: for Christ the Lamb in his present was slain before the world began; and a thousand year to his eyes be but as it were yesterday; and one day before him is as it were a thousand year, and a thousand year as one day.
 
@@ -469,7 +468,7 @@ What figurative speeches were used at Christ’s last supper.
 
 Mark xiv. Luke xxii.
 
-136 THE THIRD BOOK.
+## 136 the Third Book
 
 the children of Israel’s houses, where he saw the lamb’s blood upon the doors, and hurted none of them, but saved them all by the means of the lamb’s blood ; so likewise at the last judgment of the whole world, none shall be passed over and saved but that shall be found marked with the blood of the most pure and immaculate Lamb, Jesus Christ. And forasmuch as the shedding of that lamb’s blood was a token and figure of the shedding of Christ’s blood then to come; and forasmuch also as all the sacraments and figures of the old testament ceased and had an end in Christ; lest by our great unkindness we should peradventure be forgetful of the great benefit of Christ, therefore at his last supper, (when he took his leave of his apostles to depart out of the world,) he did make a new will and testament, wherein he bequeathed unto us clean remission of all our sins, and the everlasting inheritance of heaven. And the same he confirmed the next day with his own blood and death.
 
@@ -487,17 +486,17 @@ And when Christ said, “This cup is a new testament in my blood,’ here in one
 
 [' Of the Paschal Lamb, 1551. ]
 
-ICE OF CHRIST. 137
+## Ice of Christ. 137
 
 “ testament ;” for neither the cup, nor the wine contained in the cup, is Christ’s - testament, but is a token, sign, and figure, whereby is represented unto us his testament, confirmed by his blood.
 
 And if the papists will say, as they say indeed, that by this cup is neither meant the cup, nor the wine contained in the cup, but that thereby is meant Christ’s blood contained in the cup, yet must they needs grant that there is a figure. For Christ’s blood is not in proper speech the new testament, but it is the thing that confirmed the new testament. And yet by this strange interpretation the papists make a very strange speech, more strange than any figurative speech is. For this they make the sentence: ‘This blood is a new testament in my blood.” Which saying is so fond and so far from all reason, that the foolishness thereof is evident to every man.
 
-WINCHESTER.
+## Winchester
 
 As for the use of figurative speeches to be accustomed in scripture is not denied. But Philip Melancthon in an epistle to CEcolampadius of the sacrament, giveth one good note of Melancthon. observation in difference between the speeches in God’s ordinances and commandments, and ppd rors otherwise. For if in the wnderstanding® of God's ordinances and commandments figures may wears Sa be often received; truth shall by allegories be shortly subverted, and all our religion reduced ororercthy is to significations. There is no speech so plain and simple but it hath some piece of a figurative be considerspeech, but such as expresseth the common plain understanding ; and then the common use Of syigurative the figure causeth it to be taken as a common proper speech. As these speeches, “drink wp ‘Pech PY this cwp,” or “eat this dish’,” is indeed a figurative speech, but by custom made so eommon Proper that it is reputed the plain speech, because it hath but one only understanding commonly received. And when Christ said, “ This cup is the new testament,” the proper speech thereof in letter hath an absurdity in reason, and faith also. But when Christ said, “ This is my body,” although the truth of the literal sense hath an absurdity in carnal reason, yet hath it no absurdity in humility of faith, nor repugneth not to any other truth of scripture. And seeing it is a singular miracle of Christ whereby to exercise us in the faith, wnderstanded as the plain words signify in their proper sense, there can no reasoning be made of other figurative speeches to make this to be their fellow and like unto them. No man denieth the use of figurative speeches in Christ's supper, but such as be equal with plain proper speech, or be expounded by other evangelists in plain speech.
 
-CANTERBURY.
+## Canterbury
 
 I see well you would take a dung-fork to fight with, rather than you would lack a weapon. for how highly you have esteemed Melancthon in times past, it is not unknown. But whatsoever Melancthon saith, or howsoever you understand Melancthon, where is so convenient a place to use figurative speeches as when figures and sacraments be instituted? And St Augustine giveth a plain rule how we may know when God’s commandments be given in figurative speeches’, and yet shall neither the truth be subverted, nor our religion reduced to significations. And how can it be but that in the understanding of God’s ordinances and commandments figures must needs be often received, (contrary to Melancthon’s saying,) if it be true that you say, “that there is no speech so plain and simple, but it hath some piece of a figurative speech?” But now be all speeches figurative, when it pleaseth you. What need I then _ to travail any more to prove that Christ in his supper used figurative speeches, seeing that all that he spake was spoken in figures by your saying ?
 
@@ -517,7 +516,7 @@ Chap. xXIIt. Answer to the authorities and arguments of the papists.
 
 Chap. xiv. One brief answer to all.
 
-138 THE THIRD BOOK.
+## 138 the Third Book
 
 spoken of the cup, express no plain common understanding, whereby the common use of these figures should be equal with plain proper speeches, or cause them to be taken as common proper speeches: for you say yourself, “that these speeches in letter have an absurdity in reason.” And as they have absurdity in reason, so have they “absurdity in faith.” For neither is there any reason, faith, miracle, nor truth, to say that material bread is Christ’s body. For then it must be true that his body is material bread, a conversa ad convertentem ; for of the material bread spake Christ those words, by your confession'. And why have not these words of Christ, “This is my body,” an absurdity both in faith and reason, as well as these words, “'This cup is the new testament,” seeing that these words were spoken by Christ as well as the other, and the credit of him is all one whatsoever he saith ?
 
@@ -537,23 +536,23 @@ But these and all other like sentences, which declare Christ to be here in earth
 
 This brief answer will suffice for all that the papists can bring for their purpose, if it be aptly applied. And for the more evidence hereof, I shall apply the same to some such places, as the papists think do make most for them, that by the answer to those places the rest may be the more easily answered unto.
 
-WINCHESTER.
+## Winchester
 
 In the seventy-fourth leaf this author goeth about to give a general solution to all that may be said of Christ's being in earth, in heaven, or in the sacrament ; and giveth instructions how these words of Christ's divine nature, figuratively, spiritually, really, carnally, corporally, may be placed: and thus he saith: “Christ in his divine natwre may be said to be in the earth, figuratively in the sacrament, spiritually in the man that receiveth, but really, carnally, corporally, only in heaven.” Let us consider the placing of these terms. When we say Christ is in his divine nature everywhere, is he not really also everywhere, according to the true *Really. essence of his Godhead ? in deed everywhere? That is to say, not in fantasy, nor imagination, but verily, truly, and therefore really, as we believe, so in deed every where? And when Christ is spiritually in good men by grace, is not Christ in them really by grace? but in fantasy and imagination? And therefore whatsoever this author saith, the word “really” may not have such restraint to be referred only to heaven, unless the author would deny that substance of the Godhead, which as it comprehendeth all, being incomprehensible, and is everywhere without limitation of place, so as it is, truly it is, in deed is, and therefore really is; and therefore of Christ must be said, wheresoever he is in his divine nature by power or grace, he is there really, whether we speak of heaven or earth.
 
 As for the terms “carnally” and “corporally,” as this author seemeth to use them in other *carnally. places of this book to express the manner of presence of the human nature in Christ, I marvel *©P*"Yby what scripture he shall* prove that Christ’s body is so carnally and corporally in heaven,
 
-We be assured by faith, grounded upon the scriptures, of the truth of the being of Christ's flesh and body there, and the same to be a true flesh and a true body; but yet in such sense as this author useth the terms carnal and corporal against the sacrament to imply a grossness, he cannot so attribute those terms to Christ’s body in heaven. St Augustine after the gross sense of carnally, saith: “Christ reigneth not carnally in heaven.” And Gregory Nazianzen saith: August. de “Although Christ shall come in the last day to judge, so as he shall be seen; yet there is in him Pde Neno grossness,” he saith, and referreth the manner of his being to his knowledge only. “And our Bepteaiee’ resurrection,” St Augustine saith, “although it shall be of our true flesh, yet it shall not be car- nally.” And when this author had® defamed as it were the terms “carnally” and “corporally,” as terms of grossness, to whom he used always to put as an adversative the term “spiritually,” as though carnally and spiritually might not agree in one; now for all that he would place them both in heaven, where is no carnality, but all the manner of being spiritual, where is no grossness at all, the secrecy of the manner of which life is hidden from us, and such as eye hath not seen, or ear heard, or ascended into the heart and thought of man.
+We be assured by faith, grounded upon the scriptures, of the truth of the being of Christ's flesh and body there, and the same to be a true flesh and a true body; but yet in such sense as this author useth the terms carnal and corporal against the sacrament to imply a grossness, he cannot so attribute those terms to Christ’s body in heaven. St Augustine after the gross sense of carnally, saith: “Christ reigneth not carnally in heaven.” And Gregory Nazianzen saith: August. de “Although Christ shall come in the last day to judge, so as he shall be seen; yet there is in him Pde Neno grossness,” he saith, and referreth the manner of his being to his knowledge only. “And our Bepteaiee’ resurrection,” St Augustine saith, “although it shall be of our true flesh, yet it shall not be carnally.” And when this author had® defamed as it were the terms “carnally” and “corporally,” as terms of grossness, to whom he used always to put as an adversative the term “spiritually,” as though carnally and spiritually might not agree in one; now for all that he would place them both in heaven, where is no carnality, but all the manner of being spiritual, where is no grossness at all, the secrecy of the manner of which life is hidden from us, and such as eye hath not seen, or ear heard, or ascended into the heart and thought of man.
 
 I know these terms carnally and corporally may have a good understanding out of the *How Christ mouth of him that had not defamed them with grossness, or made them adversaries to spiritual ; to Be corpo and a man may say Christ is corporally in heaven because the truth of his body is there, and conualty 3 in carnally in heaven because his flesh is truly there: but in this understanding both the wards ve. carnally and corporally may be coupled with the word spiritually, which is against this author's teaching, who appointeth the word spiritually to be spoken of Christ's presence in the man that received the sacrament worthily, which speech I do not disallow; but as Christ is spiritually in the man that doth receive the sacrament worthily, so is he in him spiritually before he receive, or else 141, he cannot receive worthily, as I have before said. And by this appeareth how this author, to
 
 [* Will, 1551.) [) Hath, 1551.]
 
-140 THE THIRD BOOK.
+## 140 the Third Book
 
 ea his en solution, hath used neither of the terms “really,” “carnally,” and “corporally},” “ spiritually,” in a convenient order, but hath in his distribution misused them notably. For
 
-* Christ is preChrist in his divine nature is really everywhere, and in his hwman nature is carnally and cor- sent in the sacrament as he is in heaven.
+* Christ is preChrist in his divine nature is really everywhere, and in his hwman nature is carnally and cor-sent in the sacrament as he is in heaven.
 
 Casey and corporally.
 
@@ -561,7 +560,7 @@ Augustinus.
 
 porally, as these words signify substance of the flesh and body, continually in heaven to the day of judgment, and nevertheless after that signification present in the sacrament also, And in those terms in that signification the fathers have spoken of the? effect of the eating of Christ in the sacrament, as in the particular solutions to the authors hereafter shall appear. Marry as touching the use of the word “ figuratively,” to say that Christ is figuratively in the bread and wine, is a saying which this author hath not proved at all, but is a doctrine before this divers times reproved, and now by this author in England renewed.
 
-CANTERBURY.
+## Canterbury
 
 Although my chief study be to speak so plainly that all men* may understand every thing what I say, yet nothing is plain to him that will find knots in a rush. For when I say that all sentences which declare Christ to be here in earth, and to be eaten and drunken of christian people, are to be understanded either of his divine nature, (whereby he is everywhere,) or else they must be understanded figuratively or spiritually ; (for figuratively he is in the bread and wine, and spiritually he is in them that worthily eat and drink the bread and wine; but really, carnally and corporally, he is only in | heaven ;) you have termed these my words as it liketh you, but far otherwise than I either wrote or meant, or than any indifferent reader would have imagined.
 

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/61
 ---
-
 # God's Glory and His Goodness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3448
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "And he said, I beseech You, show me Your Glory. And He said, I will make all My goodness pass before you, and I will proclaim the name of the Lord before you; and will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy. And He said, You cannot see My face: for there shall no man see Me, and live. And the Lord said, Behold, there is aplace by Me, and you shall stand upon a rock: and it shall come to pass, while My Glory passes by, that I will put you in a cliff of the rock, and will cover you with My hand when I pass by: and I will take away My hand, andyou shall see My back parts: but My face shall not be seen." Exodus 33:18-23.
 
@@ -25,7 +22,7 @@ IT has frequently happened that good men in times of great trial have asked God 
 
 Now we will not linger over any preliminary reflections. Our text is rather long, and our time this evening is very short. Let us draw your attention, in the first place, to the fact that—
 
-I. GOD'S GLORY EVIDENTLY LIES IN HIS GOODNESS.
+## I. God's Glory Evidently Lies in His Goodness
 
 You observe that when Moses said, "I beseech You, show me Your Glory," the answer given him was this, "I will make all My goodness pass before you." So then, Beloved, if we could actually see the Glory of the Lord, then the Infinite graciousness of His thoughts, His words and His deeds, all concentrated in one noontide effulgence and all beaming forth with ineffable brightness, would break on our vision! But, of course, it is not a Glory to be seen with mortal eyes, for God is a Spirit and, therefore, He is not to be discerned by our weak senses, or to be understood by our gross materialism. Still, I put it thus—could God be beheld by the mind of man and His perfections unfolded to our creature apprehensions, we would perceive that the chief splendor of His Majesty lay in His Infinite Benevolence! God is Love. This is the prominent point of the Divine Character. Though all excellent qualities beyond measure or degree, surpassing thought or reckoning, could be found in Him, yet, like the blended hues of many colors in the rainbow, the whole might be summed up in such words as these, "Your goodness."
 
@@ -47,7 +44,7 @@ But ah, the best of men, while here below, can only have a partial view of this 
 
 crowns before the Eternal One, and see the Infinite One and rejoice in the sight! Thus have we tried to show you that the Glory of God lies in His goodness and His Sovereignty.
 
-II. HIS GLORY CAN BE BEST SEEN IN THE CLIFF OF THE ROCK.
+## II. His Glory Can Be Best Seen in the Cliff of the Rock
 
 Moses was put into the cliff of the rock. Surely I am not guilty of trifling with a literal fact or fancifully spiritualizing the sacred narrative, when I take up the language of the Apostle Paul, and say, "That Rock was Christ." If the Rock from which the Israelites drank was Christ, surely this Cliff in the Rock, this splitting of the Rock, this making a shield and shelter of the Rock, was a true type of our Lord Jesus Christ—
 
@@ -77,7 +74,7 @@ Oh, come then, come and welcome! What more, what better can I do to conclude tha
 
 "From the Mount of Calvary, Where the Savior deigned to die, What transporting sounds I hear, Bursting on my ravished ear— Love's redeeming work is done! Come and welcome, Sinner, come!" Come, I pray you, for His mercy's sake. Amen.
 
-EXPOSITION BY C. H. SPURGEON: ISAIAH 45:1-16.
+## Exposition by C. H. Spurgeon: Isaiah 45:1-16
 
 Verses 1-4. Thus says the LORD to His anointed, to Cyrus, whose right hand I have held, to subdue nations before him; and loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut I will go before you, and make the crooked places straight I will break in pieces the gates of brass, and cut in sunder the bars of iron: And I will give you the treasures of darkness, and hidden riches of secret places, that you may know that I, the LORD, which call you by your name, am the God of Israel For Jacob My servant's sake, and Israel My elect, I have even called you by your name: I have surnamed you, though you have not known Me. Long before the period of Cyrus's birth, this prophecy was written by Isaiah—and surely it must have flashed solemn conviction upon the heart of the king when he came to read words like these, in which his very name was mentioned—and all his exploits and successes, with which he vanquished his enemies, captured their strong places and cut the gates of brass in pieces! Our God has all things present before Him. To Him there is no future. All things are in one eternal now with Him and, therefore, He tells His Prophets the things that shall be.
 
@@ -98,7 +95,6 @@ Verses 1-4. Thus says the LORD to His anointed, to Cyrus, whose right hand I hav
 15\. Verily you are a God that hides Yourself, O God of Israel, the Savior. Throughout these long and weary years, man has forgotten or blasphemed his Maker, and God has sat still and borne it in the majestic patience of His Infinity.
 
 16\. They shall be ashamed, and also confounded, all of them: they shall go to confusion together that are makers of idols.
-
 
 ---
 [[Sermon 3447 A Present Helper|← #3447]] · [[Volume 61 (1915)|Volume 61 (1915) Contents]] · [[Sermon 3449 Buying the Truth|#3449 →]]

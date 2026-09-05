@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 59. Matthew 6:25-30;Luke 12:22-28
-
-**MATTHEW 6:25-30; LUKE 12:22-28**
 
 **25**. Therefore I say to you, Do not be anxious about your life, what you shall eat and drink, or for you body, what clothes you shall wear: is not the life of more value than food, and the body of more value than clothing? **26**. Look at the fowls of heaven, for they neither sow nor reap, nor collect into granaries, and your heavenly Father feedeth them: are you not more excellent than they are? **27**. And which of you, by anxious care, can add to his stature one cubit? **28**. And why are you anxious about clothing? Con sider the lilies of the field, how they grow: they neither toil nor spin. **29**. But I say to you, That even Solomon in all hs glory [^1] was not clothed like one of these. **30**. But if God so clothes the grass of the field, which is today, and tomorrow is cast into the oven, shall he not much more clothe you, O you of little faith?
 

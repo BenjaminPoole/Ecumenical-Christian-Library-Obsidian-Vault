@@ -10,10 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 86. Matthew 10:21-25; Luke 6:40
-
-**MATTHEW 10:21-25; LUKE 6:40**
 
 **21**. And the brother will deliver up the brother to death, and the father the son, and the children will rise up against the parents, and will put them to death. **22**. And you will be hated by all on account of my name: but he who shall endure to the end [^1] will be saved. **23**. And when they shall persecute you in this city, flee into another: for verily I say unto you, You will not have gone over [^2] all the cities of Israel, till the Son of man bec ome. **24**. The disciple is not above his master, nor the servant above his lord. **25**. It is enough for the disciple that he be as his master, and that the servant be as his lord: if they have called the master of the house himself Beelzebub, how much more his household servants?
 

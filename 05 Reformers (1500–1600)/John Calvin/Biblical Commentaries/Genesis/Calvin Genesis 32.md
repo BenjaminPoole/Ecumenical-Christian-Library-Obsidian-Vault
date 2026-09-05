@@ -10,10 +10,9 @@ written: "1554"
 tags:
   - calvin-commentaries
 ---
-
 # Genesis 32
 
-**CHAPTER 32.**
+***Chapter 32.***
 
 ## Genesis 32:1-32
 

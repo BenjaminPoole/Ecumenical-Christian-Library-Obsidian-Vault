@@ -10,10 +10,9 @@ written: "1551"
 tags:
   - calvin-commentaries
 ---
-
 # James 1
 
-**CHAPTER 1**
+***Chapter 1***
 
 ## James 1:1-4
 

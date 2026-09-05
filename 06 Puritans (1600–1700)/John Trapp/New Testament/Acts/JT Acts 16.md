@@ -11,7 +11,6 @@ tags:
   - john-trapp
   - trapp-commentary
 ---
-
 # Acts 16
 
 **Ver. 1.** But his father was a Greek] Both by nation and religion. This was an unlawful marriage, Exodus 34:10-17 De 7:1-5, and might be a means to humble the good woman, when once she came to a sight of her sin. David had his best children by Bathsheba, as Solomon, Nathan, of whom came Christ, &c. God can turn our sins to our good and comfort, as the skilful apothecary can make of a poisonous viper a wholesome treacle. Old Pharm. A medicinal compound, orig. a kind of salve, composed of many ingredients, formerly in repute as an alexipharmic against and antidote to venomous bites, poisons generally, and malignant diseases. ŒD
@@ -57,10 +56,6 @@ tags:
 **Ver. 22.** Rent off their clothes] i.e. the apostles’ clothes. And commanded to beat them] What? before they had examined the matter? This was preposterous justice; like that of those that in the morning hang the offender, and sit upon him in the afternoon; or those spoken of by Aeneas Sylvius (cap. 20, Europ.), that hang up such as are suspected of theft, and three days after judge of the suspicion. Whereas, on the contrary, a judge is to retain the decency and gravity of the law, which is never angry with any man. Lex non irascitur, sed constituit. Alexander in his anger slew those friends of his, whom afterwards he would have revived again with his own life blood.
 
 **Ver. 23.** Laid many stripes] These were those marks of the Lord Jesus which the apostles so gloried of, as an old soldier doth of his scars and wounds received in battle. Hoc sunt gemmae et pretiosa ornamenta Dei, These are the jewels and costly ornaments of God, saith Munster, concerning his ulcers whereof he died. So might Paul and Silas well say of their stripes, Τα δεσμα περιφερω τους πνευματικους μαργαριτας, saith Ignatius in his Epistle to the Ephesians: I be ar my bonds as so many spiritual pearls of price. It was with sweet briar, in some sense, that these apostles were whipped.
-
-**Ver. 24.** Fast in the stocks] The word το ξυλον signifieth such a pair of stocks, as wherein they used to make fast feet and neck to o, saith Beza out of Nonius. Various of our martyrs were thus stocked in the bishop of London’s coalhouse; as Mr Philpot, and that martyr that rejoiced that she might have her foot in the hole of the stocks in which Master Philpot had been before her.
-
-**Ver. 24.** Fast in the stocks] The word το ξυλον signifieth such a pair of stocks, as wherein they used to make fast feet and neck too, saith Beza out of Nonius. Various of our martyrs were thus stocked in the bishop of London’s coalhouse; as Mr Philpot, and th at martyr that rejoiced that she might have her foot in the hole of the stocks in which Master Philpot had been before her.
 
 **Ver. 24.** Fast in the stocks] The word το ξυλον signifieth such a pair of stocks, as wherein they used to make fast feet and neck to o, saith Beza out of Nonius. Various of our martyrs were thus stocked in the bishop of London’s coalhouse; as Mr Philpot, and that martyr that rejoiced that she might have her foot in the hole of the stocks in which Master Philpot had been before her.
 

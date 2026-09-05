@@ -11,7 +11,6 @@ tags:
   - classical
   - plato
 ---
-
 # Symposium
 *trans. Benjamin Jowett*
 
@@ -19,17 +18,13 @@ tags:
 
 ---
 
-SYMPOSIUM
+## Symposium
 
 By Plato
 
-
 Translated by Benjamin Jowett
 
-
-
-
-INTRODUCTION.
+## Introduction
 
 Of all the works of Plato the Symposium is the most perfect in form,
 and may be truly thought to contain more than any commentator has ever
@@ -953,11 +948,7 @@ Phaedrus, Symposium, Phaedo. The order which has been adopted in
 this translation rests on no other principle than the desire to bring
 together in a series the memorials of the life of Socrates.
 
-
-
-
-SYMPOSIUM
-
+## Symposium
 
 PERSONS OF THE DIALOGUE: Apollodorus, who repeats to his companion
 the dialogue which he had heard from Aristodemus, and had already once
@@ -965,7 +956,6 @@ narrated to Glaucon. Phaedrus, Pausanias, Eryximachus, Aristophanes,
 Agathon, Socrates, Alcibiades, A Troop of Revellers.
 
 SCENE: The House of Agathon.
-
 
 Concerning the things about which you ask to be informed I believe that
 I am not ill-prepared with an answer. For the day before yesterday I

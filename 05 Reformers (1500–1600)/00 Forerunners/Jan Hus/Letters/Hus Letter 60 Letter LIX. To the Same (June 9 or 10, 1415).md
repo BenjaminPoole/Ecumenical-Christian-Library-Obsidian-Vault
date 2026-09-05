@@ -11,10 +11,7 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 60. Letter LIX. To the Same (June 9 or 10, 1415)
-
-LETTER LIX. TO THE SAME (June 9 or 10, 1415)
 
 Return to Bohemia and enter the service of the King Eternal ; Chlum's handshake ; The cruel words of Palecz ; His dreams again; Warnings of Jerome and Andrew the Tailor; God reward thee, Chlum 221-3
 

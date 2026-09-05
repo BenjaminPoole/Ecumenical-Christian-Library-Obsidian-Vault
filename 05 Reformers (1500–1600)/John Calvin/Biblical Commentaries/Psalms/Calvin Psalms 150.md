@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 150
-
-**PSALM 150.**
 
 The argument of this Psalm is the same with that of the former.
 

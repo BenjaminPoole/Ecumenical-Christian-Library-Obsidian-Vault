@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # A Clear Conscience
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1443
-
-DELIVERED BY.
 
 > "Then shall I not be ashamed, when I ha ve respect unto all Your commandments." Psalm 119:6.
 
@@ -114,7 +111,6 @@ O Lord, Your servant knows what it is to draw near to Your Mercy Seat, but he fe
 shall do with all the greater boldness because my heart is sprinkled from an evil conscience—and that same Spirit which has worked obedience in me will work in me the spirit of adoption! And He that taught me to listen to Your voice will teach me so to speak that You will listen to my voice and an answer of peace shall come to me!
 
 May God bless you, comfort your hearts and establish you in every good word and work for Jesus' sake. Amen.
-
 
 ---
 [[Sermon 1442 Sorrow at the Cross Turned into Joy|← #1442]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1444 The Moral of a Miracle|#1444 →]]

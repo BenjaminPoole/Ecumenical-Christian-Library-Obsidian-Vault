@@ -9,12 +9,11 @@ tags:
   - spurgeon-books
   - devotional
 ---
-
 # December 30
 
 *Faith’s Checkbook* — Charles H. Spurgeon
 
-**LOVED TO PERFECTION**
+## **Loved to Perfection**
 
 > Having loved his own which were in the world, he loved them unto the end" John 13:1
 
@@ -27,7 +26,6 @@ But when He has once begun to love, it is His nature to continue to do so. Love 
 The text is well as it stands: "to the end," even till His death the ruling passion of love to His own reigned in His sacred bosom. It means also to the uttermost. He could not love them more: He gave Himself for them. Some read it, to perfection. Truly He lavished upon them a perfect love, in which there was no flaw nor failure, no unwisdom, no unfaithfulness, and no reserve.
 
 Such is the love of Jesus to each one of His people. Let us sing to our Well-beloved a song.
-
 
 ---
 [[FCB December 29|← December 29]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB December 31|December 31 →]]

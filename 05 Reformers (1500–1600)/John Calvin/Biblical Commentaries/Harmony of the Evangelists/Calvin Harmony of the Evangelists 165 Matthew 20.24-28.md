@@ -10,11 +10,7 @@ written: "1555"
 tags:
   - calvin-commentaries
 ---
-
 # 165. Matthew 20:24-28; Mark 10:41-45; Luke 22:24-27
-
-Matthew 20:24-28; Mark 10:41-45;  
-Luke 22:24-27
 
 **24**. And when the ten heard it, [^1] they were displeased with the two brethren. **25**. And Jesus called them to him, and said, You know that the princes of the Gentiles rule over them, and they who are great exercise authority over them. **26**. It shall not be so among you: but whoever wishes to be great among you, let him be your minister; **27**. And he that wishes to be chief among you, let him be your servant: **28**. Even as the Son of man came not that he might be served, but that he might serve, and that he might give his life a ransom for many.
 

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/32
 ---
-
 # The Blood of Sprinkling (Second Sermon.)
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1889
@@ -123,10 +122,9 @@ Thus the blood speaks. Will you not answer, "Lord, we come to thee, for thou has
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Hebrews 10.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—302, 294, 580, 288.
+## Hymns from "Our Own Hymn Book"—302, 294, 580, 288
 
 See "The Blood of Sprinkling," No. 1,888.
-
 
 ---
 [[Sermon 1888 The Blood of Sprinkling|← #1888]] · [[Volume 32 (1886)|Volume 32 (1886) Contents]] · [[Sermon 1890 Our Lord's Prayer for His People's Sanctification|#1890 →]]

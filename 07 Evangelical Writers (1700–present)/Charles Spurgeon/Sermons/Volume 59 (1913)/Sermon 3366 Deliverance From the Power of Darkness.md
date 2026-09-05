@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/59
 ---
-
 # Deliverance From the Power of Darkness
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3366
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He has delivered us from the power of darkness." Colossians 1:13.
 
@@ -75,7 +72,7 @@ Once more, and I shall leave this point. Darkness seems to have about it a kind 
 
 Now, I shall need your attention for a little upon the second Truth of God found here, which is—
 
-II. THE STATEMENT HERE MADE CONCERNING THE POWER OF DARKNESS.
+## II. The Statement Here Made Concerning the Power of Darkness
 
 Observe that, in the first place, it is a statement full of assurance. "He has delivered us." Paul does not say he hopes so, but definitely asserts, "He has delivered us." Brothers and Sisters, can we speak in the same positive manner? Let us not be content unless we can, for if we have believed in Him, "He has delivered us." If, indeed, our trust is in His finished work and perfect righteousness, then He has delivered us! It is not a matter of argument, or a thing about which to raise a debate—it is so—it must be so, for every soul that is in Christ, He has delivered from the power of darkness and translated into His own Kingdom!
 
@@ -83,7 +80,7 @@ Observe, again, it is a statement full of intelligence. The person who uttered i
 
 Then, next, it is a statement full of gratitude. If you look at the connection, you find it says, "Giving thanks unto the Father." What a delightful Grace gratitude is! It is such a heavenly thing to be thankful. I wish we spent a little more time about it, being dissolved by God's goodness, looking at all that He has done for us and at all our demerit, which renders that love the more wonderful! What joy is there in gratitude—to fall speechless at the foot of the Cross and feel the thanks we cannot speak, or to stand up and sing, "Blessed be His name," or to tell others the loving kindness of the Lord and to say, "He has dealt graciously with me and He will deal graciously with me." Brothers and Sisters, be much in the sacred and holy palace of gratitude! You cannot have anything that will more strengthen you for service than holy thankfulness to God for His favors. We might have said a good deal more upon that last point, but we leave you to say it to yourselves! And so we will close with the third Truth of God that shines here, namely—
 
-III. THE INFERENCES THAT MAY BE DRAWN FROM THIS STATEMENT.
+## III. The Inferences that May Be Drawn from This Statement
 
 The first inference is a doctrinal one, but as I have already touched on this, I only briefly hint and then leave it. Here it is. Deliverance from the power of sin is as much the work of God as deliverance from the guilt of sin! Where we look for justification, there must we also look for sanctification, for as we are justified through Jesus Christ, we must also expect to receive sanctification from a heavenly source. We cannot receive the one blessing through the spirit and the other through the flesh. We would infer from the text, speaking doctrinally, that in order to our sanctification and our deliverance from the power of sin, we must look to our heavenly Father, altogether and alone.
 
@@ -98,7 +95,6 @@ smaller ones! When Sir Francis Drake was overtaken by a storm in the Thames off 
 And then there is this inference for some of you who are not converted. If God has delivered us, why should He not deliver you? Why, some of us who have been delivered seemed very unlikely to ever be delivered! We did not want to be! We loved darkness rather than light and yet He delivered us from it. We were, some of us, very hardhearted. Some of us had plunged very deep into sin. There are some here who are wonders of Divine Grace! They were once wonders of sin and yet the love of God looked them up and brought them out—fetched them from the bar of the gin palace, fetched them out of the theater, brought them even from the brothel, some of them, and washed and cleansed them and made them sit among God's people, love His ways and rejoice in His dear name! And why should not God do the same with you? I know 20 reasons why He should not, but I will tell you one thing He has said, "Him that comes unto Me I will in no wise cast out." So if you come to Him, He will not cast out even you!
 
 The way to come to Him is to trust Him. That is, trust Christ to save you and it is all done, and you are saved! That is the great work. When a soul, sensible of sin, sees that Christ, by His blood, made atonement and comes and throws himself upon that Sacrifice of the Cross, then sin is pardoned! Then because the sin is pardoned, the forgiven sinner is grateful and he says, "I will not go on in this sin." So he puts it away and he is led into a life of holiness by the mercy of God. Oh, that we could all say in the words of the text—and if we cannot all say it tonight, I hope we shall soon be able to do so—"Giving thanks unto the Father, who has made us meet to be partakers of the inheritance of the saints in light, and has delivered us from the Power of darkness, and translated us into the kingdom of His dear Son."
-
 
 ---
 [[Sermon 3365 Pictures of Happiness|← #3365]] · [[Volume 59 (1913)|Volume 59 (1913) Contents]] · [[Sermon 3367 Paul As a Pattern Convert|#3367 →]]

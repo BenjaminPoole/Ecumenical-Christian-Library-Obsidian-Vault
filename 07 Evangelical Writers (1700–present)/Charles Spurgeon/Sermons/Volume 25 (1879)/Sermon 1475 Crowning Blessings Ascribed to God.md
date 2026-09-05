@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # Crowning Blessings Ascribed to God
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1475
 
-DELIVERED ON LORD'S-DAY EVENING, MAY 18, 1879,.
+*Delivered on Lord's-Day Evening, May 18, 1879*
 
 > "You crown the year with Your goodness." Psalm 65:11.
 
@@ -126,7 +125,6 @@ I hear the sorrows of China borne on the wailing of the wind and the sighing of 
 One thing more. Oh, if some hearts would yield themselves to the Savior tonight! If some were converted tonight, what a crown that would be to finish up these years with! Testimonial, Sirs? No testimonial can ever be given to the preacher which can equal a soul converted! These are the seals of our ministry and the wages of our hire! Socrates, on his birthday, had a present given him by each of his students. Some brought less and some brought more. Among the rest there was one who had nothing in the world to bring and so he came to Socrates and said, "Master, I give you myself. I love you with all my heart." The sage judged this to be the most precious of all the tributes.
 
 Will not some of you cry, "I do not know that I could be a missionary, or that I have any gifts, or talents, or substance that I could contribute, but, Lord, I give my heart to You to be renewed by Grace"? God bring you, poor sinner, to Jesus' feet to surrender your whole nature to His sway that He may wash it in His blood, fill it with His Spirit and use it for His Glory! He says, "My son, give me your heart," and when the heart is yielded, He accepts the gift! May the Eternal Spirit lead many to give themselves thus to Jesus this night and it will be the crowning joy of all the years! Amen and amen!
-
 
 ---
 [[Sermon 1474 The Middle Passage|← #1474]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1476 Jesus, the Judge|#1476 →]]

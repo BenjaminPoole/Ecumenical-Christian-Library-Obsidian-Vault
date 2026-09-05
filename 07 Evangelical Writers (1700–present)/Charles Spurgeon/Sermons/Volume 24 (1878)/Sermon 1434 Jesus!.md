@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # Jesus!
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1434
 
-DELIVERED ON LORD'S-DAY MORNING, SEPTEMBER 15 1878,.
+*Delivered on Lord's-Day Morning, September 15 1878*
 
 > "And she shall bring forth a Son, and you shall call His name JESUS: for He shall save His people from their sins." Matthew 1:21.
 
@@ -85,7 +84,7 @@ If in the arms of the Virgin He is the Savior, what is He on the Throne of God? 
 
 Let us all unite in calling our Lord by this tender human name of Jesus! Are we not His mother and sister and brother? Did He not call all Believers by these endearing titles? Then we, too, will call Him Jesus—"Jesus, name all names above! Jesus best and nearest! Jesus, fount of perfect love, holiest, most tender, dearest! Jesus, source of Divine Grace completed! Jesus holiest, sweetest! Jesus, Savior all Divine, Yours the name, and only Yours!
 
-III. THE NAME HAD BEEN TYPICALLY WORN BY ANOTHER, BUT IS NOW RESERVED FOR HIM
+## III. The Name Had Been Typically Worn by Another, but Is Now Reserved for Him
 
 ALONE. There had been a Jesus before our Jesus. I allude to Joshua and you know that in our version the name Jesus is twice used where Joshua is really meant. The first is Acts 7:4, 5, where we read of the fathers who entered in with Jesus into the possession of the Gentiles, evidently meaning Joshua. And the second in Hebrews 4:8, "If Jesus had given them rest." Joshua is the Hebrew form and Jesus the Greek form, but Jesus and Joshua are the same word.
 
@@ -146,7 +145,6 @@ VII. Last of all, THIS NAME IS CHRIST'S PERSONAL NAME FOREVER. It is a home name
 "Jesus, the very thought of you With sweetness fills my breast."
 
 Let your hearts go out towards Him in tender union. Jesus is His death name—"Jesus of Nazareth, King of the Jews," was written on His Cross. That is His resurrection name. That is His Gospel name which we preach. It is the name which Peter preached to the Gentiles when he said, "This is Jesus of Nazareth by whom is preached to you the remission of sins." And this, Beloved, is His Heaven name! They sing to Him there as Jesus! See how it concludes the Bible. Read Revelation! Read its songs and see how they worship Jesus, the Lamb of God! Let us go and tell of this name! Let us continually meditate upon it! Let us love it from this day and forever! Amen.
-
 
 ---
 [[Sermon 1433 An Anxious Enquiry for a Beloved Son|← #1433]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1435 Adoption—The Spirit and the Cry|#1435 →]]

@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/43
 ---
-
 # "Speak, Lord!"
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2526
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Then Samuel answered, Speak; for Your servant hears." 1 Samuel 3:10.
 
@@ -103,7 +100,7 @@ It is also true communion with the Lord, sometimes, just to sit still, look up a
 
 I have finished my discourse, but I do wish that some poor sinner here would say, before he goes away, "Lord, speak to me! Speak to my soul. Let this be the last night of my spiritual death and the birth-night of my spiritual life." As for you who love the Lord, I am sure that you will pray this prayer and that you will keep on praying, "Speak, Lord; for Your servant hears." And then what blessed conversations there will be between you and your Father in Heaven! The Lord bless you all, for Jesus' sake! Amen.
 
-EXPOSITION BY C. H. SPURGEON! 1 SAMUEL 3
+## Exposition by C. H. Spurgeon! 1 Samuel 3
 
 Verse 1. And the child Samuel ministered unto the LORD before Eli Samuel was but a child, yet he was a faithful servant of God up to the light he had received. The grown-up sons of Eli were rebelling against God, but "the child Samuel ministered unto the Lord." It is a great aggravation of sin for ungodly men to persist in it when even little children rebuke them by their careful walk and conversation. It made the sin of Eli's sons all the worse because "the child Samuel ministered unto the Lord before Eli"
 
@@ -144,7 +141,6 @@ Word faithfully."
 18\. And Eli said, It is the LORD: let Him do what seems Him good. This was a grand speech of old Eli. Terrible as it might be, he bowed his head to the Divine sentence and acknowledged that it was just.
 
 19-21. And Samuel grew, and the Lord was with him, and didlet none ofHis Words fall to the ground. AndallIs-rael from Dan even to Beersheba knew that Samuel was established to be a Prophet of the Lord. And the LORD appeared again in Shiloh; for the LORD revealed Himself to Samuel in Shiloh by the Word of the LORD.
-
 
 ---
 [[Sermon 2525 Joy in Place of Sorrow|← #2525]] · [[Volume 43 (1897)|Volume 43 (1897) Contents]] · [[Sermon 2527 David's Five-stringed Harp|#2527 →]]

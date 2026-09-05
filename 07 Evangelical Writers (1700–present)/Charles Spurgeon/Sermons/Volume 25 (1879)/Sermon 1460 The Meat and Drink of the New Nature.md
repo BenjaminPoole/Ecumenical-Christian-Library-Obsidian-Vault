@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/25
 ---
-
 # The Meat and Drink of the New Nature
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1460
-
-DELIVERED BY.
 
 > "For My flesh is meat, indeed, and My blood is drink, indeed." John 6:55.
 
@@ -133,7 +130,7 @@ Prince of the blood royal of Heaven! O Peer of God's own kingdom, you are more n
 
 PORTION OFSCRIPTUREREAD BEFORE SERMON—John 6:41-71. HYMNS FROM "OUR OWN HYMN BOOK"—260, 820, 761.
 
-LETTER FROM MR. SPURGEON:
+## Letter from Mr. Spurgeon
 
 BELOVED FRIENDS, By the time that this note is printed, the Special Services at the Tabernacle will be drawing to a close and it will be meet to harrow in the seed with renewed supplication. Shall so much effort be in vain? It cannot be and yet everything depends upon the mighty working of the Spirit of God and, therefore, we must seek His face if we would see large results! I suggest that every sermon reader should spend a special time in prayer, next Lord's Day, in pleading for the revival of Evangelical religion.
 
@@ -142,7 +139,6 @@ The Times pronounced the funeral oration of the Evangelical party, but it is not
 For myself, one word only. I am recovering and rest is restoring mind and heart. Pray for me. Yours to serve always,
 
 C H. SPURGEON, Mentone, February 20, 1879.
-
 
 ---
 [[Sermon 1458 A Sermon Upon One Nothing by Another Nothing|← #1458]] · [[Volume 25 (1879)|Volume 25 (1879) Contents]] · [[Sermon 1462 The Yoke Removed and the Lord Revealed|#1462 →]]

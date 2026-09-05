@@ -10,10 +10,9 @@ written: "1552/1554"
 tags:
   - calvin-commentaries
 ---
-
 # Acts 12
 
-**CHAPTER 12**
+***Chapter 12***
 
 ## Acts 12:1-5
 

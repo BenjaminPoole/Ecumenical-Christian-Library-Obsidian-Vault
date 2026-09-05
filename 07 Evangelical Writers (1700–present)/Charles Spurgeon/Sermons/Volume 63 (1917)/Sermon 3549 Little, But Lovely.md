@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/63
 ---
-
 # Little, But Lovely
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 3549
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Fear not, little flock, for it is your Father's good pleasure to give you the kingdom." Luke 12:32.
 
@@ -66,7 +63,6 @@ While on His breast Ilean my head,
 And breathe my life out sweetly there." Why, some of us have known Believers who, after trembling all their days, triumphed in their last hours! In the prime of their strength they were frightened of a mouse—but in the extremity of their weakness they became so strong that they could face a legion of foes! Nothing could dismay them. Mr. Fearing, who fell over a straw, and said he should never reach the Celestial City, was the very man who died like a giant, singing and shouting with all his might! God is pleased to let some of His servants live in the dark—and die in the light. I think some of us have our candle lit at one watch of the night, some at another. You may have begun your spiritual life in the dark and your path has grown brighter and brighter. Or you may have begun in the light and have since passed through seasons in which darkness has prevailed, or the lamp that guides your feet has dimly burned. God puts some of His bravest servants to bed in the dark because they can bear it, but others cannot. They cross over the river and angels come to meet them. Do not darken your days with direful dreams of dreaded death! Perhaps you will die in your sleep and never know a pang. Perhaps you never will die—Christ may come and take you to Himself. It may prove such a glorious thing to die, that you may say, with Halliday, "Call this dying? Then it is worthwhile to live, to die like this!" Death may have more of translation than of dissolution in it. If the dogs of Hell howl at you, bid them hold their tongue. Your Father's good pleasure will not be frustrated—your fair prospects will not be disappointed. Does Conscience accuse you of slips and falls? Tell Conscience of the precious blood, and say, "My Father's good pleasure will rescue His ransomed child from all his sins." Do doubts and fears come up like a swelling torrent? Stem them all with this blessed assurance—"God's counsel will stand, and He will do all His pleasure. We who have put our trust in the Lord Jesus Christ shall assuredly possess the Kingdom of God forever and ever!"
 
 Oh, how I wish you, all of you, belonged to the number of Christ's sheep! Oh, that everyone of you had the promise of the kingdom! The Lord bring you to the feet of Jesus! May the Lord show you what sinners you are and what a Savior He is! Would to God you might all believe in Him and pass from death unto life! The fearless transgressor shall fail without help, while the fearful disciple shall be fondled with Fatherly care. Herd together, you little ones, as a flock—the heritage is reserved for you. "It is your Father's good pleasure to give you the kingdom."
-
 
 ---
 [[Sermon 3548 The Saint's Trials and the Divine Deliverances|← #3548]] · [[Volume 63 (1917)|Volume 63 (1917) Contents]] · [[Sermon 3550 An Earnest Entreaty|#3550 →]]

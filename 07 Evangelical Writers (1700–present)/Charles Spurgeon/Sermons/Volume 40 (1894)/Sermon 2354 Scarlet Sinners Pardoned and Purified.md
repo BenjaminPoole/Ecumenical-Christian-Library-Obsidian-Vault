@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/40
 ---
-
 # Scarlet Sinners Pardoned and Purified
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2354
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "Come, now, and let us reason together, says the LORD: though your sins are as scarlet, they shallbe as white as snow; though they are redlike crimson, theyshallbe as wool." Isaiah 1:18.
 
@@ -146,7 +143,6 @@ His sight? The Lord may well say to those who bring offerings to Him under such 
 16, 17. Wash you, make you clean; put away the evil of your doings from before My eyes; cease to do evil; learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow. This is what God asks for—"Pure religion and undefiled before God and the Father is this—To visit the fatherless and widows in their affliction, and to keep oneself unspotted from the world"
 
 18-20. Come now, and let us reason together, says the LORD: though your sins are as scarlet, they shall be as white as snow, though they are red like crimson, they shall be as wool. If you are willing and obedient, you shall eat the good of the land: but if you refuse and rebel, you shall be devoured with the sword: for the mouth of the LORD has spoken it. May the Holy Spirit make us willing and obedient that we may "eat the good of the land." And may none of us be found refusing God's gracious invitation and rebelling against His authority—lest we perish in our sins!
-
 
 ---
 [[Sermon 2353 Out Of The Depths|← #2353]] · [[Volume 40 (1894)|Volume 40 (1894) Contents]] · [[Sermon 2355 Christ's Negative and Positive Prayer|#2355 →]]

@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/24
 ---
-
 # The Best Beloved
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1446
@@ -95,8 +94,7 @@ Forgive my ramblings. May God bless to all his people the word that has been spo
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—1 John 3.
 
-HYMNS FROM “OUR OWN HYMN BOOK”—782, 793, 785.
-
+## Hymns from “Our Own Hymn Book”—782, 793, 785
 
 ---
 [[Sermon 1445 Wake Up! Wake Up!|← #1445]] · [[Volume 24 (1878)|Volume 24 (1878) Contents]] · [[Sermon 1447 Three Crosses|#1447 →]]

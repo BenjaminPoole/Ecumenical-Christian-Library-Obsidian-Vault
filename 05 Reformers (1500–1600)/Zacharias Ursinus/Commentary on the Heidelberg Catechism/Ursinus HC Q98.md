@@ -11,18 +11,15 @@ tags:
   - protestant-reformers
   - zacharias-ursinus
 ---
-
 # Question 98. But may not images be tolerated in the churches, as books to the laity?
-
-**Question 98. But may not images be tolerated in the churches, as books to the laity?**
 
 Answer. No; for we must not pretend to be wiser than God, who will have his people taught not by dumb images, but by the lively preaching of his word.
 
-EXPOSITION
+## Exposition
 
 This is the objection of those, who grant, indeed, that images and statues of God and the saints are not to be worshipped, but maintain that they should be tolerated in the churches of Christians, as books to the laity, and for other causes, if only they be not worshipped. We must, however, maintain the opposite, which is, that images and likenesses of God, or of the saints, are not to be tolerated in Christian churches, but abolished and removed from the sight of men, whether they be worshipped, or not.
 
-**III. WHY IMAGES AND PICTURES ARE NOT TO BE TOLERATED IN CHURCHES**
+## **III. Why Images and Pictures Are Not to Be Tolerated in Churches**
 
 The reasons on account of which images and statues are not to be tolerated in our churches, but removed, are principally these:
 
@@ -42,7 +39,7 @@ The reasons on account of which images and statues are not to be tolerated in ou
 
 8. Lastly, images have never resulted in any good to those who have had them. The people of God, the Jews, were for the most part seduced by them, as sacred history abundantly testifies, especially in the books of the Judges, Kings, and Prophets. We are, therefore, prone by nature to the sin of idolatry, which is followed by those dreadful punishments which God in many instances threatened through Moses. "I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you." (Lev. 26:30.) The angel of the Lord, in reproving the Israelites, because they had made a league with the Canaanites, said: "Wherefore I will not drive them out from before you; but they shall be as thorns in your side, and their gods shall be a snare unto you." (Judges 2:3.) For these reasons, therefore, images and statues are not to be tolerated in the churches of those who profess Christianity, but they must be removed, even though they be not adored.
 
-**IV. HOW AND BY WHOM ARE IMAGES TO BE ABOLISHED?**
+## **IV. How and by Whom Are Images to Be Abolished?**
 
 Two things must be carefully observed in removing images—
 
@@ -86,7 +83,7 @@ Obj. 2. Those who keep the commandments of God, obtain mercy. Therefore, we meri
 
 Obj. 3. This promise and threatening belongs to the whole Decalogue; why is it, therefore, annexed to this commandment? Ans. It is joineo to the second commandment, not that it belongs to it alone, but that we may know that the first and second commandments are the foundation of all the others; and that God might declare that he is especially displeased with those who corrupt his worship, and that he will punish this kind of sin both in them and their posterity, and, on the other hand, that he will also bless the posterity of them, who keep his religion pure and undefiled.
 
-**THIRTY-SIXTH LORD'S DAY**
+## **Thirty-Sixth Lord's Day**
 
 ---
 [[Ursinus HC Q97|← Question 97. Are images then not at all to b]] · [[Library/protestant reformers/Zacharias Ursinus/Commentary on the Heidelberg Catechism/commentary-index|Contents]] · [[Ursinus HC Q99|Question 99. What is required in the third c →]]

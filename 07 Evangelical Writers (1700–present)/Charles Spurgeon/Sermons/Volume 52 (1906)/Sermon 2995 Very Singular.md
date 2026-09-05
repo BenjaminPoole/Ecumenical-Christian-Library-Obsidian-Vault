@@ -12,12 +12,9 @@ tags:
   - spurgeon-sermons
   - sermon-volume/52
 ---
-
 # Very Singular
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 2995
-
-DELIVERED BY C. H. SPURGEON,.
 
 > "He...put his household in order, and hanged himself." 2 Samuel 17:23.
 
@@ -73,7 +70,7 @@ Or is it some deadly error with which you are destroying your soul? Have you a n
 
 Or perhaps some self-righteous trust holds you back from Christ. You can destroy yourself with that as well as with sin. To trust to ourselves is deadly—only to trust to Jesus is safe. I will explain that to you and have done. Inasmuch as we had sinned against God, God must punish us—it is necessary that sin should be punished, or there could be no moral government. Now, in order to meet that case, to have mercy upon men in conformity with justice, Jesus Christ, the Son of God, came into the world and became Man and, as Man, He took upon Himself the sins of all His people and was punished for them. And whoever trusts Jesus is one of those for whom Jesus bore the smart, for whom He paid the debt. If you believe that Jesus is the Christ, if you trust your soul with the Christ of Nazareth, your sins, which are many, are all forgiven you! Go in peace—your soul is saved! But if you put away from you the Christ who says, "Look unto Me, and be you saved, all the ends of the earth," you may be very wise and you may arrange your business very cleverly, but, for all that, you are no wiser than the great fool of my text who set his house in order, and hanged himself! God teach both hearers and readers to be wise before it is too late! Amen.
 
-EXPOSITION BY C. H. SPURGEON: 2 SAMUEL 15:12-37.
+## Exposition by C. H. Spurgeon: 2 Samuel 15:12-37
 
 Verse 12. And Absalom sent for Ahithophel the Gilonite, David's counselor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom. Absalom had, by graft, insinuated himself into the hearts of the children of Israel and led a rebellion against his father David, that he might obtain the crown for himself.
 
@@ -104,7 +101,6 @@ Some of them will not understand the plain letter of Scripture and others of the
 33-37. Unto whom David said, If you pass on with me, then you shall be a burden unto me: but if you return to the city, and say unto Absalom, I will be your servant, O king; as I have been your father's servant hitherto, so will I now also be your servant: then may you for me defeat the counsel of Ahithophel And have you not there with you Zadok and Abiathar the priests? Therefore it shall be that what thing soever you shall hear out ofthe king's house, you shall tell it to Zadok and Abiathar the priests. Behold, they have there with them their two sons, Ahimaaz, Zadok's son, and Jonathan, Abiathar's son; and by them you shall send unto me everything that you can hear So Hushai, David's friend came into the city, and Absalom came into Jerusalem.
 
 You know the rest of the history, how Absalom took the advice of Hushai and Ahithophel was defeated. God does not always answer prayer quite so rapidly as He did in this case, yet, when His people are in sore straits, they often have prompt replies to their petitions, to encourage their faith and to keep their hope alive in the time of trial!
-
 
 ---
 [[Sermon 2994 Jude's Doxology|← #2994]] · [[Volume 52 (1906)|Volume 52 (1906) Contents]] · [[Sermon 2996 Enquiring of God|#2996 →]]

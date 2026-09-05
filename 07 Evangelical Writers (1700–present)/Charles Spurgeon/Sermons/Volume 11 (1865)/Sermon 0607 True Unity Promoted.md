@@ -12,12 +12,11 @@ tags:
   - spurgeon-sermons
   - sermon-volume/11
 ---
-
 # True Unity Promoted
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 607
 
-DELIVERED ON SUNDAY MORNING, JANUARY 1, 1865,.
+*Delivered on Sunday Morning, January 1, 1865*
 
 > "Endea voring to keep the unity of the Spirit in the bond of peace." Ephesians 4:3.
 
@@ -134,7 +133,6 @@ Are any sick? Let us care for them. Are any suffering? Let us weep with them. Do
 I have already told you that unity in error is unity in ruin. We want unity in the Truth of God through the Spirit of God. This let us seek after it! Let us live near to Christ, for this is the best way of promoting unity. Divisions in churches never begin with those full of love to the Savior. Cold hearts, unholy lives, inconsistent actions, neglected closets—these are the seeds which sow schisms in the body! But he who lives near to Jesus—wears His likeness and copies His example—will be, wherever he goes, a sacred bond, a holy link to bind the Church together more closely than ever.
 
 May God give us this and from now on let us endeavor to keep the unity of the Spirit in the bond of peace. I commend the text to all Believers to be practiced through the coming year. And to those who are not Believers, what can I say but that I trust their unity and their peace may be broken forever and that they may be led to Christ Jesus to find peace in His death! May faith be given and then love and every Divine Grace will follow, so that they may be one with us in Christ Jesus our Lord. Amen.
-
 
 ---
 [[Volume 11 (1865)|Volume 11 (1865) Contents]] · [[Sermon 0608 A Discourse For A Revival Season|#608 →]]

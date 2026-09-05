@@ -12,7 +12,6 @@ tags:
   - spurgeon-sermons
   - sermon-volume/30
 ---
-
 # Pleading and Encouragement
 
 *Metropolitan Tabernacle Pulpit* · Sermon No. 1795
@@ -95,8 +94,7 @@ Oh, that you would trust in the Lord Jesus! Repose in him, and in his finished w
 
 PORTION OF SCRIPTURE READ BEFORE SERMON—Ezekiel 33.
 
-HYMNS FROM "OUR OWN HYMN BOOK"—912, 558, 202.
-
+## Hymns from "Our Own Hymn Book"—912, 558, 202
 
 ---
 [[Sermon 1794 Return, Return, O Shulamite; Return, Return!|← #1794]] · [[Volume 30 (1884)|Volume 30 (1884) Contents]] · [[Sermon 1796 Concerning Saints|#1796 →]]

@@ -10,10 +10,9 @@ written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---
-
 # PART I.
 
-FROM THE FALL TO THE FLOOD
+*From the Fall to the Flood*
 
 though this period was the most distant from Christ’s incarnation; yet then was this glorious building begun.
 

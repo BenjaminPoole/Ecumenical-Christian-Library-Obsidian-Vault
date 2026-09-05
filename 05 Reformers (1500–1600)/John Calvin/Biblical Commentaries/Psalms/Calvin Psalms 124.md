@@ -10,10 +10,7 @@ written: "1557"
 tags:
   - calvin-commentaries
 ---
-
 # Psalm 124
-
-**PSALM 124**
 
 The Church having been providentially delivered from extreme peril, David exhorts true believers to thanksgiving, and teaches them by this memorable example, that their safety depends solely upon the grace and power of God.
 
